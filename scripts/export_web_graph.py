@@ -9,7 +9,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
-VAULT = ROOT / "Ishara"
+VAULT = ROOT / "vault"
 OUT = ROOT / "web" / "public" / "data"
 NOTES = OUT / "notes"
 

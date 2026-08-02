@@ -2,8 +2,11 @@
 /data/
 web/node_modules/
 web/dist/
-Ishara/.obsidian/workspace.json
-Ishara/.obsidian/workspace-mobile.json
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+# Accidental vault at repo root only (leading slash = root):
+/.obsidian/
+/Untitled.canvas
 *.log
 .env
 .env.*

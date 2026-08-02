@@ -21,7 +21,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
-VAULT = ROOT / "Ishara"
+VAULT = ROOT / "vault"
 ROOT_DIR = VAULT / "Roots"
 WORD_DIR = VAULT / "Words"
 META_DIR = VAULT / "Meta"

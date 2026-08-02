@@ -8,7 +8,7 @@ Public **meaning graph** of Qur’anic words linked across surahs (and roots) �
 
 **Nothing in the Qur’an text is “mine.”** See [ATTRIBUTION.md](ATTRIBUTION.md) for sources (Quran.com / Tanzil, Sahih International, Fatah Muhammad Jalandhari, Quranic Arabic Corpus, Lane lexicon).
 
-## Try online (Cloudflare Pages)
+## Try online (Cloudflare Pages — free)
 
 Connect this GitHub repo in the [Cloudflare Pages dashboard](https://dash.cloudflare.com/?to=/:account/pages):
 
@@ -25,9 +25,15 @@ On the site: search a meaning → animated **local graph** (Obsidian colors: Wor
 
 ## Use locally in Obsidian
 
+**Open only `vault/`** — never the repo root.
+
+| Open this | Not this |
+|-----------|----------|
+| `…/Ishara/vault/` (Words, Roots, surah hubs) | `…/Ishara/` (includes `web/`, `data/`, `scripts/`) |
+
 1. Clone this repo.
-2. Open the folder `Ishara/` as an Obsidian vault.
-3. **Graph view** filter (also saved in `.obsidian/graph.json`):
+2. Obsidian → **Open folder as vault** → choose `vault/` (contains `Welcome.md`, `Words/`, `Roots/`).
+3. **Graph view** filter (saved in `vault/.obsidian/graph.json`):
 
 ```text
 path:Words OR path:Roots OR tag:#surah
@@ -57,9 +63,9 @@ cd web && npm ci && npm run build
 
 ## Stack
 
-- Obsidian vault: `Ishara/`
+- Obsidian vault: `vault/`
 - Static viewer: `web/` (Vite + React + force-graph + MiniSearch)
-- Host: Cloudflare Pages
+- Host: Cloudflare Pages (free)
 
 ## License
 
