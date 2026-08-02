@@ -52,8 +52,8 @@ path:Words OR path:Roots OR tag:#surah
 
 4. Color groups:
 
-- `path:Words` — teal (`#416464`)
-- `path:Roots` — gold (`#e0b352`)
+- `path:Words` — bronze gold (`#c9a227`)
+- `path:Roots` — Wasp gold (`#f8c537`)
 - `tag:#surah` — amber (`#ffbf00`)
 
 5. Prefer **Local graph** on a Word note for the cleanest experience.

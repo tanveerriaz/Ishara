@@ -1,14 +1,17 @@
 :root {
-  --bg: #0f1412;
-  --bg-panel: #171e1b;
-  --bg-elevated: #1e2723;
-  --ink: #e8efe9;
-  --muted: #8fa396;
-  --line: #2a3630;
-  --word: #416464;
-  --root: #e0b352;
+  /* Wasp / Obsidian gold-on-charcoal */
+  --bg: #191919;
+  --bg-panel: #242424;
+  --bg-elevated: #2a2a2a;
+  --ink: #faf2d6;
+  --muted: #bdae93;
+  --line: #3d3d3d;
+  --line-gold: #f8c537;
+  --word: #c9a227;
+  --root: #f8c537;
   --surah: #ffbf00;
-  --accent: #c4a35a;
+  --accent: #f8c537;
+  --accent-soft: #e8d49a;
   --danger: #c45c5c;
   --font: "Source Serif 4", "Iowan Old Style", Palatino, Georgia, serif;
   --font-ui: "DM Sans", "Avenir Next", system-ui, sans-serif;
@@ -28,7 +31,7 @@ body,
 
 body {
   font-family: var(--font-ui);
-  background: radial-gradient(ellipse at top, #1a2420 0%, var(--bg) 55%);
+  background: radial-gradient(ellipse at top, #2a2a2a 0%, var(--bg) 55%);
   color: var(--ink);
   -webkit-font-smoothing: antialiased;
 }
@@ -56,8 +59,8 @@ input {
   align-items: center;
   justify-content: space-between;
   padding: 0.75rem 1rem;
-  border-bottom: 1px solid var(--line);
-  background: color-mix(in srgb, var(--bg-panel) 92%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--line-gold) 55%, var(--line));
+  background: color-mix(in srgb, var(--bg-panel) 94%, transparent);
   backdrop-filter: blur(8px);
   z-index: 2;
 }
@@ -67,6 +70,7 @@ input {
   font-size: 1.15rem;
   font-weight: 600;
   letter-spacing: 0.01em;
+  color: var(--accent);
 }
 
 .brand span {
@@ -85,7 +89,7 @@ input {
 
 .header-actions a,
 .header-actions button {
-  border: 1px solid var(--line);
+  border: 1px solid color-mix(in srgb, var(--line-gold) 40%, var(--line));
   background: var(--bg-elevated);
   color: var(--ink);
   border-radius: 8px;
@@ -95,8 +99,15 @@ input {
   font-size: 0.85rem;
 }
 
+.header-actions a:hover,
+.header-actions button:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
 .header-actions button.active {
   border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 16%, var(--bg-elevated));
   color: var(--accent);
 }
 
@@ -121,10 +132,9 @@ input {
 .graph-host {
   position: relative;
   min-height: 0;
-  border-right: 1px solid var(--line);
+  border-right: 1px solid color-mix(in srgb, var(--line-gold) 35%, var(--line));
   background:
-    radial-gradient(circle at 30% 20%, color-mix(in srgb, var(--word) 18%, transparent), transparent 40%),
-    radial-gradient(circle at 70% 80%, color-mix(in srgb, var(--surah) 12%, transparent), transparent 45%),
+    radial-gradient(circle at 50% 40%, color-mix(in srgb, var(--accent) 10%, transparent), transparent 50%),
     var(--bg);
 }
 
@@ -151,14 +161,20 @@ input {
   width: 100%;
   padding: 0.7rem 0.85rem;
   border-radius: 10px;
-  border: 1px solid var(--line);
+  border: 1px solid color-mix(in srgb, var(--line-gold) 45%, var(--line));
   background: color-mix(in srgb, var(--bg-panel) 94%, transparent);
   color: var(--ink);
   outline: none;
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 8%, transparent);
 }
 
 .search-wrap input:focus {
   border-color: var(--accent);
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 35%, transparent);
+}
+
+.search-wrap input::placeholder {
+  color: var(--muted);
 }
 
 .results {
@@ -202,17 +218,17 @@ input {
 
 .badge.word {
   background: var(--word);
-  color: #dff;
+  color: #1a1a1a;
 }
 
 .badge.root {
   background: var(--root);
-  color: #221;
+  color: #1a1a1a;
 }
 
 .badge.surah {
   background: var(--surah);
-  color: #221;
+  color: #1a1a1a;
 }
 
 .legend {
@@ -310,7 +326,7 @@ input {
   padding: 0.75rem 0.9rem;
   background: var(--bg-elevated);
   border-radius: 10px;
-  border: 1px solid var(--line);
+  border: 1px solid color-mix(in srgb, var(--line-gold) 40%, var(--line));
 }
 
 .note-body code {
@@ -322,7 +338,7 @@ input {
 }
 
 .footer {
-  border-top: 1px solid var(--line);
+  border-top: 1px solid color-mix(in srgb, var(--line-gold) 45%, var(--line));
   padding: 0.55rem 1rem;
   font-size: 0.72rem;
   color: var(--muted);

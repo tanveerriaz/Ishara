@@ -97,7 +97,7 @@ export function GraphView({ graph, focusId, mode, onSelect }: Props) {
       ctx.font = `${fontSize}px sans-serif`
       ctx.textAlign = 'center'
       ctx.textBaseline = 'top'
-      ctx.fillStyle = 'rgba(232,239,233,0.92)'
+      ctx.fillStyle = 'rgba(250,242,214,0.92)'
       ctx.fillText(node.label, node.x ?? 0, (node.y ?? 0) + r + 2)
     },
     [focusId],
@@ -133,7 +133,7 @@ export function GraphView({ graph, focusId, mode, onSelect }: Props) {
           ctx.fillStyle = color
           ctx.fill()
         }}
-        linkColor={() => 'rgba(196,163,90,0.35)'}
+        linkColor={() => 'rgba(248,197,55,0.38)'}
         linkWidth={1}
         cooldownTicks={90}
         onNodeClick={(node) => onSelect((node as GraphNode).id)}
