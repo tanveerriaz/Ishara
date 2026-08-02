@@ -44,7 +44,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:175 · [[002 Al-Baqarah]]
 
@@ -59,6 +59,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the ones who have exchanged guidance for error and forgiveness for punishment. How patient they are for [i.e., in pursuit of] the Fire!
 
 **English (Yusuf Ali):** They are the ones who buy Error in place of Guidance and Torment in place of Forgiveness. Ah! what boldness (They show) for the Fire!
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے ہدایت چھوڑ کر گمراہی اور بخشش چھوڑ کر عذاب خریدا۔ یہ (آتش) جہنم کی کیسی برداشت کرنے والے ہیں!
 
 [Open on Quran.com](https://quran.com/2/175)
 
@@ -76,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Do not marry unbelieving women (idolaters), until they believe: A slave woman who believes is better than an unbelieving woman, even though she allures you. Nor marry (your girls) to unbelievers until they believe: A man slave who believes is better than an unbeliever, even though he allures you. Unbelievers do (but) beckon you to the Fire. But Allah beckons by His Grace to the Garden (of bliss) and forgiveness, and makes His Signs clear to mankind: That they may celebrate His praise.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (مومنو) مشرک عورتوں سے جب تک کہ ایمان نہ لائیں نکاح نہ کرنا۔ کیونکہ مشرک عورت خواہ تم کو کیسی ہی بھلی لگے اس سے مومن لونڈی بہتر ہے۔ اور (اسی طرح) مشرک مرد جب تک ایمان نہ لائیں مومن عورتوں کو ان کو زوجیت میں نہ دینا کیونکہ مشرک (مرد) سے خواہ وہ تم کو کیسا ہی بھلا لگے مومن غلام بہتر ہے۔ یہ (مشرک لوگوں کو) دوزخ کی طرف بلاتے ہیں۔ اور خدا اپنی مہربانی سے بہشت اور بخشش کی طرف بلاتا ہے۔ اور اپنے حکم لوگوں سے کھول کھول کر بیان کرتا ہے تاکہ نصیحت حاصل کریں
+
 [Open on Quran.com](https://quran.com/2/221)
 
 #### 2:263 · [[002 Al-Baqarah]]
@@ -91,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Kind speech and forgiveness are better than charity followed by injury. And Allāh is Free of need and Forbearing.
 
 **English (Yusuf Ali):** Kind words and the covering of faults are better than charity followed by injury. Allah is free of all wants, and He is Most-Forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس خیرات دینے کے بعد (لینے والے کو) ایذا دی جائے اس سے تو نرم بات کہہ دینی اور (اس کی بے ادبی سے) درگزر کرنا بہتر ہے اور خدا بےپروا اور بردبار ہے
 
 [Open on Quran.com](https://quran.com/2/263)
 
@@ -108,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Evil one threatens you with poverty and bids you to conduct unseemly. Allah promiseth you His forgiveness and bounties. And Allah careth for all and He knoweth all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اور دیکھنا) شیطان (کا کہنا نہ ماننا وہ) تمہیں تنگ دستی کا خوف دلاتا اور بےحیائی کے کام کر نے کو کہتا ہے۔ اور خدا تم سے اپنی بخشش اور رحمت کا وعدہ کرتا ہے۔ اور خدا بڑی کشائش والا (اور) سب کچھ جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/2/268)
 
 #### 3:133 · [[003 Ali Imran]]
@@ -123,6 +131,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And hasten to forgiveness from your Lord and a garden [i.e., Paradise] as wide as the heavens and earth, prepared for the righteous
 
 **English (Yusuf Ali):** Be quick in the race for forgiveness from your Lord, and for a Garden whose width is that (of the whole) of the heavens and of the earth, prepared for the righteous,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اپنے پروردگار کی بخشش اور بہشت کی طرف لپکو جس کا عرض آسمان اور زمین کے برابر ہے اور جو (خدا سے) ڈرنے والوں کے لیے تیار کی گئی ہے
 
 [Open on Quran.com](https://quran.com/3/133)
 
@@ -140,6 +150,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For such the reward is forgiveness from their Lord, and Gardens with rivers flowing underneath,- an eternal dwelling: How excellent a recompense for those who work (and strive)!
 
+**Urdu (Fatah Muhammad Jalandhari):** ایسے ہی لوگوں کا صلہ پروردگار کی طرف سے بخشش اور باغ ہیں جن کے نیچے نہریں بہہ رہی ہیں (اور) وہ ان میں ہمیشہ بستے رہیں گے اور (اچھے) کام کرنے والوں کا بدلہ بہت اچھا ہے
+
 [Open on Quran.com](https://quran.com/3/136)
 
 #### 3:157 · [[003 Ali Imran]]
@@ -155,6 +167,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you are killed in the cause of Allāh or die - then forgiveness from Allāh and mercy are better than whatever they accumulate [in this world].
 
 **English (Yusuf Ali):** And if ye are slain, or die, in the way of Allah, forgiveness and mercy from Allah are far better than all they could amass.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم خدا کے رستے میں مارے جاؤ یا مرجاؤ تو جو (مال و متاع) لوگ جمع کرتے ہیں اس سے خدا کی بخشش اور رحمت کہیں بہتر ہے
 
 [Open on Quran.com](https://quran.com/3/157)
 
@@ -172,6 +186,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Ranks specially bestowed by Him, and Forgiveness and Mercy. For Allah is Oft-forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) خدا کی طرف سے درجات میں اور بخشش میں اور رحمت میں اور خدا بڑا بخشنے والا (اور) مہربان ہے
+
 [Open on Quran.com](https://quran.com/4/96)
 
 #### 5:9 · [[005 Al-Maidah]]
@@ -188,6 +204,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To those who believe and do deeds of righteousness hath Allah promised forgiveness and a great reward.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور نیک کام کرتے رہے ان سے خدا نے وعدہ فرمایا ہے کہ ان کے لیے بخشش اور اجر عظیم ہے
+
 [Open on Quran.com](https://quran.com/5/9)
 
 #### 8:4 · [[008 Al-Anfal]]
@@ -203,6 +221,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the believers, truly. For them are degrees [of high position] with their Lord and forgiveness and noble provision.
 
 **English (Yusuf Ali):** Such in truth are the believers: they have grades of dignity with their Lord, and forgiveness, and generous sustenance:
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی سچے مومن ہیں اور ان کے لیے پروردگار کے ہاں (بڑے بڑے درجے) اور بخشش اور عزت کی روزی ہے
 
 [Open on Quran.com](https://quran.com/8/4)
 

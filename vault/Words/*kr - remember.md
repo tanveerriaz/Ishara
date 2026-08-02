@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 
 ### Meaning
 **remember** · Lemma **ذَكَرَ**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:40 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O Children of Israel, remember My favor which I have bestowed upon you and fulfill My covenant [upon you] that I will fulfill your covenant [from Me], and be afraid of [only] Me.
 
 **English (Yusuf Ali):** O Children of Israel! call to mind the (special) favour which I bestowed upon you, and fulfil your covenant with Me as I fulfil My Covenant with you, and fear none but Me.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے یعقوب کی اولاد! میرے وہ احسان یاد کرو جو میں نے تم پر کئے تھے اور اس اقرار کو پورا کرو جو تم نے مجھ سے کیا تھا۔ میں اس اقرار کو پورا کروں گا جو میں نے تم سے کیا تھا اور مجھی سے ڈرتے رہو
 
 [Open on Quran.com](https://quran.com/2/40)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Children of Israel! call to mind the (special) favour which I bestowed upon you, and that I preferred you to all other (for My Message).
 
+**Urdu (Fatah Muhammad Jalandhari):** اے یعقوب کی اولاد! میرے وہ احسان یاد کرو، جو میں نے تم پر کئے تھے اور یہ کہ میں نے تم کو جہان کے لوگوں پر فضیلت بخشی تھی
+
 [Open on Quran.com](https://quran.com/2/47)
 
 #### 2:63 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We took your covenant, [O Children of Israel, to abide by the Torah] and We raised over you the mount, [saying], "Take what We have given you with determination and remember what is in it that perhaps you may become righteous."
 
 **English (Yusuf Ali):** And remember We took your covenant and We raised above you (The towering height) of Mount (Sinai): (Saying): "Hold firmly to what We have given you and bring (ever) to remembrance what is therein: Perchance ye may fear Allah."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے تم سے عہد (کر) لیا اور کوہِ طُور کو تم پر اٹھا کھڑا کیا (اور حکم دیا) کہ جو کتاب ہم نے تم کو دی ہے، اس کو زور سے پکڑے رہو، اور جو اس میں (لکھا) ہے، اسے یاد رکھو، تاکہ (عذاب سے) محفوظ رہو
 
 [Open on Quran.com](https://quran.com/2/63)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And who is more unjust than he who forbids that in places for the worship of Allah, Allah's name should be celebrated?-whose zeal is (in fact) to ruin them? It was not fitting that such should themselves enter them except in fear. For them there is nothing but disgrace in this world, and in the world to come, an exceeding torment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے بڑھ کر ظالم کون، جو خدا کی مسجدوں میں خدا کے نام کا ذکر کئے جانے کو منع کرے اور ان کی ویرانی میں ساعی ہو۔ان لوگوں کو کچھ حق نہیں کہ ان میں داخل ہوں، مگر ڈرتے ہوئے۔ ان کے لیے دنیا میں رسوائی ہے اور آخرت میں بڑا عذاب
+
 [Open on Quran.com](https://quran.com/2/114)
 
 #### 2:122 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O Children of Israel, remember My favor which I have bestowed upon you and that I preferred you over the worlds.
 
 **English (Yusuf Ali):** O Children of Israel! call to mind the special favour which I bestowed upon you, and that I preferred you to all others (for My Message).
+
+**Urdu (Fatah Muhammad Jalandhari):** اے بنی اسرائیل ! میرے وہ احسان یاد کرو، جو میں نے تم پر کئے اور یہ کہ میں نے تم کو اہلِ عالم پر فضیلت بخشی
 
 [Open on Quran.com](https://quran.com/2/122)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then do ye remember Me; I will remember you. Be grateful to Me, and reject not Faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** سو تم مجھے یاد کرو۔ میں تمہیں یاد کیا کروں گا۔ اور میرے احسان مانتے رہنا اور ناشکری نہ کرنا
+
 [Open on Quran.com](https://quran.com/2/152)
 
 #### 2:198 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** There is no blame upon you for seeking bounty from your Lord [during ḥajj]. But when you depart from ʿArafāt, remember Allāh at al-Mashʿar al-Ḥarām. And remember Him, as He has guided you, for indeed, you were before that among those astray.
 
 **English (Yusuf Ali):** It is no crime in you if ye seek of the bounty of your Lord (during pilgrimage). Then when ye pour down from (Mount) Arafat, celebrate the praises of Allah at the Sacred Monument, and celebrate His praises as He has directed you, even though, before this, ye went astray.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کا تمہیں کچھ گناہ نہیں کہ (حج کے دنوں میں بذریعہ تجارت) اپنے پروردگار سے روزی طلب کرو اور جب عرفات سے واپس ہونے لگو تو مشعر حرام (یعنی مزدلفے) میں خدا کا ذکر کرو اور اس طرح ذکر کرو جس طرح اس نے تم کو سکھایا۔ اور اس سے پیشتر تم لوگ (ان طریقوں سے) محض ناواقف تھے
 
 [Open on Quran.com](https://quran.com/2/198)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So when ye have accomplished your holy rites, celebrate the praises of Allah, as ye used to celebrate the praises of your fathers,- yea, with far more Heart and soul. There are men who say: "Our Lord! Give us (Thy bounties) in this world!" but they will have no portion in the Hereafter.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب حج کے تمام ارکان پورے کرچکو تو (منیٰ میں) خدا کو یاد کرو۔ جس طرح اپنے باپ دادا کو یاد کیا کرتے تھے بلکہ اس سے بھی زیادہ اور بعض لوگ ایسے ہیں جو (خدا سے) التجا کرتے ہیں کہ اے پروردگار ہم کو (جو دنیا ہے) دنیا ہی میں عنایت کر ایسے لوگوں کا آخرت میں کچھ حصہ نہیں
+
 [Open on Quran.com](https://quran.com/2/200)
 
 #### 2:203 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Celebrate the praises of Allah during the Appointed Days. But if any one hastens to leave in two days, there is no blame on him, and if any one stays on, there is no blame on him, if his aim is to do right. Then fear Allah, and know that ye will surely be gathered unto Him.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (قیام منیٰ کے) دنوں میں (جو) گنتی کے (دن میں) خدا کو یاد کرو۔ اگر کوئی جلدی کرے (اور) دو ہی دن میں (چل دے) تو اس پر بھی کچھ گناہ نہیں۔ اور جو بعد تک ٹھہرا رہے اس پر بھی کچھ گناہ نہیں۔ یہ باتیں اس شخص کے لئے ہیں جو (خدا سے) ڈرے اور تم لوگ خدا سے ڈرتے رہو اور جان رکھو کہ تم سب اس کے پاس جمع کئے جاؤ گے۔
+
 [Open on Quran.com](https://quran.com/2/203)
 
 #### 2:231 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you divorce women and they have [nearly] fulfilled their term, either retain them according to acceptable terms or release them according to acceptable terms, and do not keep them, intending harm, to transgress [against them]. And whoever does that has certainly wronged himself. And do not take the verses of Allāh in jest. And remember the favor of Allāh upon you and what has been revealed to you of the Book [i.e., the Qur’ān] and wisdom [i.e., the Prophet's sunnah] by which He instructs you. And fear Allāh and know that Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** When ye divorce women, and they fulfil the term of their ('Iddat), either take them back on equitable terms or set them free on equitable terms; but do not take them back to injure them, (or) to take undue advantage; if any one does that; He wrongs his own soul. Do not treat Allah's Signs as a jest, but solemnly rehearse Allah's favours on you, and the fact that He sent down to you the Book and Wisdom, for your instruction. And fear Allah, and know that Allah is well acquainted with all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم عورتوں کو (دو دفعہ) طلاق دے چکو اور ان کی عدت پوری ہوجائے تو انہیں یا تو حسن سلوک سے نکاح میں رہنے دو یا بطریق شائستہ رخصت کردو اور اس نیت سے ان کو نکاح میں نہ رہنے دینا چاہئے کہ انہیں تکلیف دو اور ان پر زیادتی کرو۔ اور جو ایسا کرے گا وہ اپنا ہی نقصان کرے گا اور خدا کے احکام کو ہنسی (اور کھیل) نہ بناؤ اور خدا نے تم کو جو نعمتیں بخشی ہیں اور تم پر جو کتاب اور دانائی کی باتیں نازل کی ہیں جن سے وہ تمہیں نصیحت فرماتا ہے ان کو یاد کرو۔ اور خدا سے ڈرتے رہو اور جان رکھوکہ خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/2/231)
 

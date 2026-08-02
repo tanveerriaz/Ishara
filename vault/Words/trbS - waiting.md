@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:226 · [[002 Al-Baqarah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For those who swear not to have sexual relations with their wives is a waiting time of four months, but if they return [to normal relations] - then indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** For those who take an oath for abstention from their wives, a waiting for four months is ordained; if then they return, Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنی عورتوں کے پاس جانے سے قسم کھالیں ان کو چار مہینے تک انتظار کرنا چاہیئے۔ اگر (اس عرصے میں قسم سے) رجوع کرلیں تو خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/2/226)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Divorced women shall wait concerning themselves for three monthly periods. Nor is it lawful for them to hide what Allah Hath created in their wombs, if they have faith in Allah and the Last Day. And their husbands have the better right to take them back in that period, if they wish for reconciliation. And women shall have rights similar to the rights against them, according to what is equitable; but men have a degree (of advantage) over them. And Allah is Exalted in Power, Wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
+
 [Open on Quran.com](https://quran.com/2/228)
 
 #### 2:234 · [[002 Al-Baqarah]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who are taken in death among you and leave wives behind - they, [the wives, shall] wait four months and ten [days]. And when they have fulfilled their term, then there is no blame upon you for what they do with themselves in an acceptable manner. And Allāh is [fully] Aware of what you do.
 
 **English (Yusuf Ali):** If any of you die and leave widows behind, they shall wait concerning themselves four months and ten days: When they have fulfilled their term, there is no blame on you if they dispose of themselves in a just and reasonable manner. And Allah is well acquainted with what ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم میں سے مرجائیں اور عورتیں چھوڑ جائیں تو عورتیں چار مہینے دس دن اپنے آپ کو روکے رہیں۔ اور جب (یہ) عدت پوری کرچکیں اور اپنے حق میں پسندیدہ کام (یعنی نکاح) کرلیں تو ان پر کچھ گناہ نہیں۔ اور خدا تمہارے سب کاموں سے واقف ہے
 
 [Open on Quran.com](https://quran.com/2/234)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (These are) the ones who wait and watch about you: if ye do gain a victory from Allah, they say: "Were we not with you?"- but if the unbelievers gain a success, they say (to them): "Did we not gain an advantage over you, and did we not guard you from the believers?" but Allah will judge betwixt you on the Day of Judgment. And never will Allah grant to the unbelievers a way (to triumphs) over the believers.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو تم کو دیکھتے رہتے ہیں اگر خدا کی طرف سے تم کو فتح ملے تو کہتے ہیں کیا ہم تمہارے ساتھ نہ تھے۔ اور اگر کافروں کو (فتح) نصیب ہو تو (ان سے) کہتے ہیں کیا ہم تم پر غالب نہیں تھے اور تم کو مسلمانوں (کے ہاتھ) سے بچایا نہیں۔ تو خدا تم میں قیامت کے دن فیصلہ کردے گا۔ اور خدا کافروں کو مومنوں پر ہرگز غلبہ نہیں دے گا
+
 [Open on Quran.com](https://quran.com/4/141)
 
 #### 9:24 · [[009 At-Tawbah]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O Muḥammad], "If your fathers, your sons, your brothers, your wives, your relatives, wealth which you have obtained, commerce wherein you fear decline, and dwellings with which you are pleased are more beloved to you than Allāh and His Messenger and jihād [i.e., striving] in His cause, then wait until Allāh executes His command. And Allāh does not guide the defiantly disobedient people."
 
 **English (Yusuf Ali):** Say: If it be that your fathers, your sons, your brothers, your mates, or your kindred; the wealth that ye have gained; the commerce in which ye fear a decline: or the dwellings in which ye delight - are dearer to you than Allah, or His Messenger, or the striving in His cause;- then wait until Allah brings about His decision: and Allah guides not the rebellious.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر تمہارے باپ اور بیٹے اور بھائی اور عورتیں اور خاندان کے آدمی اور مال جو تم کماتے ہو اور تجارت جس کے بند ہونے سے ڈرتے ہو اور مکانات جن کو پسند کرتے ہو خدا اور اس کے رسول سے اور خدا کی راہ میں جہاد کرنے سے تمہیں زیادہ عزیز ہوں تو ٹھہرے رہو یہاں تک کہ خدا اپنا حکم (یعنی عذاب) بھیجے۔ اور خدا نافرمان لوگوں کو ہدایت نہیں دیا کرتا
 
 [Open on Quran.com](https://quran.com/9/24)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Can you expect for us (any fate) other than one of two glorious things- (Martyrdom or victory)? But we can expect for you either that Allah will send his punishment from Himself, or by our hands. So wait (expectant); we too will wait with you."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ تم ہمارے حق میں دو بھلائیوں میں سے ایک کے منتظر ہو اور ہم تمہارے حق میں اس بات کے منتظر ہیں کہ خدا (یا تو) اپنے پاس سے تم پر کوئی عذاب نازل کرے یا ہمارے ہاتھوں سے (عذاب دلوائے) تو تم بھی انتظار کرو ہم بھی تمہارے ساتھ انتظار کرتے ہیں
+
 [Open on Quran.com](https://quran.com/9/52)
 
 #### 9:98 · [[009 At-Tawbah]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And among the bedouins are some who consider what they spend as a loss and await for you turns of misfortune. Upon them will be a misfortune of evil. And Allāh is Hearing and Knowing.
 
 **English (Yusuf Ali):** Some of the desert Arabs look upon their payments as a fine, and watch for disasters for you: on them be the disaster of evil: for Allah is He That heareth and knoweth (all things).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض دیہاتی ایسے ہیں کہ جو خرچ کرتے ہیں اسے تاوان سمجھتے ہیں اور تمہارے حق میں مصیبتوں کے منتظر ہیں۔ ان ہی پر بری مصیبت (واقع) ہو۔ اور خدا سننے والا (اور) جاننے والا ہے
 
 [Open on Quran.com](https://quran.com/9/98)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Each one (of us) is waiting: wait ye, therefore, and soon shall ye know who it is that is on the straight and even way, and who it is that has received Guidance."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ سب (نتائج اعمال) کے منتظر ہیں سو تم بھی منتظر رہو۔ عنقریب تم کو معلوم ہوجائے گا کہ (دین کے) سیدھے رستے پر چلنے والے کون ہیں اور (جنت کی طرف) راہ پانے والے کون ہیں (ہم یا تم)
+
 [Open on Quran.com](https://quran.com/20/135)
 
 #### 23:25 · [[023 Al-Muminun]]
@@ -174,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (And some said): "He is only a man possessed: wait (and have patience) with him for a time."
 
+**Urdu (Fatah Muhammad Jalandhari):** اس آدمی کو تو دیوانگی (کا عارضہ) ہے تو اس کے بارے میں کچھ مدت انتظار کرو
+
 [Open on Quran.com](https://quran.com/23/25)
 
 #### 52:30 · [[052 At-Tur]]
@@ -189,6 +207,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or do they say [of you], "A poet for whom we await a misfortune of time"?
 
 **English (Yusuf Ali):** Or do they say:- "A Poet! we await for him some calamity (hatched) by Time!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا کافر کہتے ہیں کہ یہ شاعر ہے (اور) ہم اس کے حق میں زمانے کے حوادث کا انتظار کر رہے ہیں
 
 [Open on Quran.com](https://quran.com/52/30)
 

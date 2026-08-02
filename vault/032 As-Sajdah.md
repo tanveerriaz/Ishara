@@ -14,84 +14,84 @@ The Prostration · 30 ayahs
 
 ## Words in this surah (graph)
 
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
-- [[n*yr - warner]] — `نَذِير` · warner
-- [[r>s - heads]] — `رَأْس` · heads
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[Dl - lost]] — `ضَلَّ` · lost
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>rD - earth]] — `أَرْض` · earth
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[xwf - fear]] — `خَوْف` · fear
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[$A' - he wills]] — `شاءَ` · he wills
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[fsq - defiantly disobeying]] — `فَسَقَ` · defiantly disobeying
-- [[Er$ - throne]] — `عَرْش` · throne
+- [[nAs - people]] — `ناس` · people
+- [[lqA' - meeting]] — `لِقاء` · meeting
+- [[byn - between them]] — `بَيْن` · between them
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[xr - fell down]] — `خَرَّ` · fell down
+- [[mwqn - certain]] — `مُوقِن` · certain
+- [[bd> - originates]] — `بَدَأَ` · originates
+- [[Elm - know]] — `عَلِمَ` · know
+- [[m>wY - abode]] — `مَأْوَى` · abode
+- [[<ymAn - faith]] — `إِيمان` · faith
+- [[qbl - before]] — `قَبْل` · before
+- [[stp - six]] — `سِتَّة` · six
 - [[k*b - denied]] — `كَذَبَ` · denied
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[mhyn - despised]] — `مَهِين` · despised
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[>nfq - spend]] — `أَنفَقَ` · spend
-- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[Eml - do]] — `عَمِلَ` · do
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[snp - years]] — `سَنَة` · years
-- [[>mr - command]] — `أَمَرَ` · command
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
-- [[wly - protector]] — `وَلِيّ` · protector
-- [[mqdAr - due proportion]] — `مِقْدار` · due proportion
-- [[mA' - water]] — `ماء` · water
+- [[$fyE - any intercessor]] — `شَفِيع` · any intercessor
 
 ## Roots
 
 - [[$fE - make something pair]]
-- [[$hd - shhd]]
-- [[$kr - shkr]]
+- [[$hd - witnessing]]
+- [[$kr - gratitude]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
-- [[*wq - dhwq]]
+- [[*kr - remember recall something]]
+- [[*wq - taste]]
 - [[>kl - eat]]
-- [[>lf - alifa]]
+- [[>lf - become familiar]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
 - [[>wy - betake oneself place]]
 - [[>yy - ism]]
-- [[DjE - lie down one]]
+- [[DjE - lie down one's]]
 - [[Dll - astray]]
-- [[E*b - edhb]]
+- [[E*b - motes particles floating]]
 - [[Edd - count]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
-- [[Er$ - ersh]]
-- [[ErD - erd]]
-- [[Erj - erj]]
-- [[Ewd - ewd]]
-- [[Eyn - eyn]]
+- [[Er$ - shaded structure]]
+- [[ErD - turn away]]
+- [[Erj - ascend mount]]
+- [[Ewd - aad]]
+- [[Eyn - eyes]]
 - [[Ezz - all-mighty]]
 - [[Hmd - praise]]
 - [[Hqq - established as true]]
 - [[Hsn - good]]
 - [[Sbr - confine restrain]]
 - [[Sdq - speak truth]]
-- [[SlH - slh]]
-- [[TmE - tme]]
-- [[Tyn - tyn]]
+- [[SlH - make something good]]
+- [[TmE - covet desire something]]
+- [[Tyn - plaster seal clay]]
 - [[Zlm - put something wrong]]
 - [[allah - God]]
-- [[bSr - bsr]]
-- [[bd> - bda]]
+- [[bSr - mental perception]]
+- [[bd> - originates]]
 - [[bny - sons]]
 - [[byn - clear]]
 - [[dEw - call]]
-- [[dbr - dbr]]
+- [[dbr - turn back]]
 - [[dnw - become near]]
 - [[dwn - besides]]
 - [[f>d - heart]]
 - [[fSl - separate]]
-- [[fry - fry]]
+- [[fry - invent]]
 
 ## Sample (ayah 1)
 

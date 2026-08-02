@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rDw - rdw]]
+- [[rDw - pleased]]
 
 ### Meaning
 **pleasant** · Lemma **راضِيَة**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 69:21 · [[069 Al-Haqqah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So he will be in a pleasant life -
 
 **English (Yusuf Ali):** And he will be in a life of Bliss,
+
+**Urdu (Fatah Muhammad Jalandhari):** پس وہ (شخص) من مانے عیش میں ہوگا
 
 [Open on Quran.com](https://quran.com/69/21)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Pleased with their striving,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اپنے اعمال (کی جزا )سے خوش دل
+
 [Open on Quran.com](https://quran.com/88/9)
 
 #### 89:28 · [[089 Al-Fajr]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Come back thou to thy Lord,- well pleased (thyself), and well-pleasing unto Him!
 
+**Urdu (Fatah Muhammad Jalandhari):** اپنے پروردگار کی طرف لوٹ چل۔ تو اس سے راضی وہ تجھ سے راضی
+
 [Open on Quran.com](https://quran.com/89/28)
 
 #### 101:7 · [[101 Al-Qariah]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He will be in a pleasant life.
 
 **English (Yusuf Ali):** Will be in a life of good pleasure and satisfaction.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ دل پسند عیش میں ہو گا
 
 [Open on Quran.com](https://quran.com/101/7)
 

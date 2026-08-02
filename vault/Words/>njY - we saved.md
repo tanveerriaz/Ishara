@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[njw - njw]]
+- [[njw - escape safe]]
 
 ### Meaning
 **we saved** · Lemma **أَنجَى**
@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:50 · [[002 Al-Baqarah]]
 
@@ -51,6 +51,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We parted the sea for you and saved you and drowned the people of Pharaoh while you were looking on.
 
 **English (Yusuf Ali):** And remember We divided the sea for you and saved you and drowned Pharaoh's people within your very sight.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے تمہارے لیے دریا کو پھاڑ دیا تم کو نجات دی اور فرعون کی قوم کو غرق کر دیا اور تم دیکھ ہی تو رہے تھے
 
 [Open on Quran.com](https://quran.com/2/50)
 
@@ -68,6 +70,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Who is it that delivereth you from the dark recesses of land and sea, when ye call upon Him in humility and silent terror: 'If He only delivers us from these (dangers), (we vow) we shall truly show our gratitude'?"
 
+**Urdu (Fatah Muhammad Jalandhari):** کہو بھلا تم کو جنگلوں اور دریاؤں کے اندھیروں سے کون مخلصی دیتا ہے (جب) کہ تم اسے عاجزی اور نیاز پنہانی سے پکارتے ہو (اور کہتے ہو) اگر خدا ہم کو اس (تنگی) سے نجات بخشے تو ہم اس کے بہت شکر گزار ہوں
+
 [Open on Quran.com](https://quran.com/6/63)
 
 #### 7:64 · [[007 Al-Araf]]
@@ -83,6 +87,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But they denied him, so We saved him and those who were with him in the ship. And We drowned those who denied Our signs. Indeed, they were a blind people.
 
 **English (Yusuf Ali):** But they rejected him, and We delivered him, and those with him, in the Ark: but We overwhelmed in the flood those who rejected Our signs. They were indeed a blind people!
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر ان لوگوں نے ان کی تکذیب کی۔ تو ہم نے نوح کو اور جو ان کے ساتھ کشتی میں سوار تھے ان کو تو بچا لیا اور جن لوگوں نے ہماری آیتوں کو جھٹلایا تھا انہیں غرق کر دیا۔ کچھ شک نہیں کہ وہ اندھے لوگ تھے
 
 [Open on Quran.com](https://quran.com/7/64)
 
@@ -100,6 +106,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We saved him and those who adhered to him. By Our mercy, and We cut off the roots of those who rejected Our signs and did not believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے ہود کو اور جو لوگ ان کے ساتھ تھے ان کو نجات بخشی اور جنہوں نے ہماری آیتوں کو جھٹلایا تھا ان کی جڑ کاٹ دی اور وہ ایمان لانے والے تھے ہی نہیں
+
 [Open on Quran.com](https://quran.com/7/72)
 
 #### 7:83 · [[007 Al-Araf]]
@@ -115,6 +123,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So We saved him and his family, except for his wife; she was of those who remained [with the evildoers].
 
 **English (Yusuf Ali):** But we saved him and his family, except his wife: she was of those who legged behind.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان کو اور ان کے گھر والوں کو بچا لیا مگر ان کی بی بی (نہ بچی) کہ وہ پیچھے رہنے والوں میں تھی
 
 [Open on Quran.com](https://quran.com/7/83)
 
@@ -132,6 +142,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember We rescued you from Pharaoh's people, who afflicted you with the worst of penalties, who slew your male children and saved alive your females: in that was a momentous trial from your Lord.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اور ہمارے ان احسانوں کو یاد کرو) جب ہم نے تم کو فرعونیوں (کے ہاتھ) سے نجات بخشی وہ لوگ تم کو بڑا دکھ دیتے تھے۔ تمہارے بیٹوں کو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے۔ اور اس میں تمہارے پروردگار کی طرف سے سخت آزمائش تھی
+
 [Open on Quran.com](https://quran.com/7/141)
 
 #### 7:165 · [[007 Al-Araf]]
@@ -147,6 +159,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they [i.e., those advised] forgot that by which they had been reminded, We saved those who had forbidden evil and seized those who wronged, with a wretched punishment, because they were defiantly disobeying.
 
 **English (Yusuf Ali):** When they disregarded the warnings that had been given them, We rescued those who forbade Evil; but We visited the wrong-doers with a grievous punishment because they were given to transgression.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب انہوں نے ان باتوں کو فراموش کردیا جن کی ان کو نصیحت کی گئی تھی تو جو لوگ برائی سے منع کرتے تھے ان کو ہم نے نجات دی اور جو ظلم کرتے تھے ان کو برے عذاب میں پکڑ لیا کہ نافرمانی کئے جاتے تھے
 
 [Open on Quran.com](https://quran.com/7/165)
 
@@ -164,6 +178,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He it is Who enableth you to traverse through land and sea; so that ye even board ships;- they sail with them with a favourable wind, and they rejoice thereat; then comes a stormy wind and the waves come to them from all sides, and they think they are being overwhelmed: they cry unto Allah, sincerely offering (their) duty unto Him saying, "If thou dost deliver us from this, we shall truly show our gratitude!"
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جو تم کو جنگل اور دریا میں چلنے پھرنے اور سیر کرنے کی توفیق دیتا ہے۔ یہاں تک کہ جب تم کشتیوں میں (سوار) ہوتے اور کشتیاں پاکیزہ ہوا (کے نرم نرم جھونکوں) سے سواروں کو لے کر چلنے لگتی ہیں اور وہ ان سے خوش ہوتے ہیں تو ناگہاں زناٹے کی ہوا چل پڑتی ہے اور لہریں ہر طرف سے ان پر (جوش مارتی ہوئی) آنے لگتی ہیں اور وہ خیال کرتے ہیں کہ (اب تو) لہروں میں گھر گئے تو اس وقت خالص خدا ہی کی عبادت کرکے اس سے دعا مانگنے لگتے ہیں کہ (اے خدا) اگر تو ہم کو اس سے نجات بخشے تو ہم (تیرے) بہت ہی شکر گزار ہوں
+
 [Open on Quran.com](https://quran.com/10/22)
 
 #### 10:23 · [[010 Yunus]]
@@ -180,6 +196,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But when he delivereth them, behold! they transgress insolently through the earth in defiance of right! O mankind! your insolence is against your own souls,- an enjoyment of the life of the present: in the end, to Us is your return, and We shall show you the truth of all that ye did.
 
+**Urdu (Fatah Muhammad Jalandhari):** لیکن جب وہ ان کو نجات دے دیتا ہے تو ملک میں ناحق شرارت کرنے لگتے ہیں۔ لوگو! تمہاری شرارت کا وبال تمہاری ہی جانوں پر ہوگا تم دنیا کی زندگی کے فائدے اُٹھا لو۔ پھر تم کو ہمارے پاس لوٹ کر آنا ہے۔ اس وقت ہم تم کو بتائیں گے جو کچھ تم کیا کرتے تھے
+
 [Open on Quran.com](https://quran.com/10/23)
 
 #### 10:103 · [[010 Yunus]]
@@ -195,6 +213,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then We will save Our messengers and those who have believed. Thus, it is an obligation upon Us that We save the believers.
 
 **English (Yusuf Ali):** In the end We deliver Our messengers and those who believe: Thus is it fitting on Our part that We should deliver those who believe!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم اپنے پیغمبروں کو اور مومنوں کو نجات دیتے رہے ہیں۔ اسی طرح ہمارا ذمہ ہے کہ مسلمانوں کو نجات دیں
 
 [Open on Quran.com](https://quran.com/10/103)
 

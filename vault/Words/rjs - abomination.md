@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 5:90 · [[005 Al-Maidah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, indeed, intoxicants, gambling, [sacrificing on] stone alters [to other than Allāh], and divining arrows are but defilement from the work of Satan, so avoid it that you may be successful.
 
 **English (Yusuf Ali):** O ye who believe! Intoxicants and gambling, (dedication of) stones, and (divination by) arrows, are an abomination,- of Satan's handwork: eschew such (abomination), that ye may prosper.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! شراب اور جوا اور بت اور پاسے (یہ سب) ناپاک کام اعمال شیطان سے ہیں سو ان سے بچتے رہنا تاکہ نجات پاؤ
 
 [Open on Quran.com](https://quran.com/5/90)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those whom Allah (in His plan) willeth to guide,- He openeth their breast to Islam; those whom He willeth to leave straying,- He maketh their breast close and constricted, as if they had to climb up to the skies: thus doth Allah (heap) the penalty on those who refuse to believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو جس شخص کو خدا چاہتا ہے کہ ہدایت بخشے اس کا سینہ اسلام کے لیے کھول دیتا ہے اور جسے چاہتا ہے کہ گمراہ کرے اس کا سینہ تنگ اور گھٹا ہوا کر دیتا ہے گویا وہ آسمان پر چڑھ رہا ہے اس طرح خدا ان لوگوں پر جو ایمان نہیں لاتے عذاب بھیجتا ہے
+
 [Open on Quran.com](https://quran.com/6/125)
 
 #### 6:145 · [[006 Al-Anam]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "I do not find within that which was revealed to me [anything] forbidden to one who would eat it unless it be a dead animal or blood spilled out or the flesh of swine - for indeed, it is impure - or it be [that slaughtered in] disobedience, dedicated to other than Allāh. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], then indeed, your Lord is Forgiving and Merciful."
 
 **English (Yusuf Ali):** Say: "I find not in the message received by me by inspiration any (meat) forbidden to be eaten by one who wishes to eat it, unless it be dead meat, or blood poured forth, or the flesh of swine,- for it is an abomination - or, what is impious, (meat) on which a name has been invoked, other than Allah's". But (even so), if a person is forced by necessity, without wilful disobedience, nor transgressing due limits,- thy Lord is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ جو احکام مجھ پر نازل ہوئے ہیں ان میں کوئی چیز جسے کھانے والا کھائے حرام نہیں پاتا بجز اس کے کہ وہ مرا ہوا جانور یا بہتا لہو یا سور کا گوشت کہ یہ سب ناپاک ہیں یا کوئی گناہ کی چیز ہو کہ اس پر خدا کے سوا کسی اور کا نام لیا گیا ہو اور اگر کوئی مجبور ہو جائے لیکن نہ تو نافرمانی کرے اور نہ حد سے باہر نکل جائے تو تمہارا پروردگار بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/6/145)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "Punishment and wrath have already come upon you from your Lord: dispute ye with me over names which ye have devised - ye and your fathers,- without authority from Allah? then wait: I am amongst you, also waiting."
 
+**Urdu (Fatah Muhammad Jalandhari):** ہود نے کہا تمہارے پروردگار کی طرف سے تم پر عذاب اور غضب کا (نازل ہونا) مقرر ہو چکا ہے۔ کیا تم مجھ سے ایسے ناموں کے بارے میں جھگڑتے ہو جو تم نے اور تمہارے باپ دادا نے (اپنی طرف سے) رکھ لئے ہیں۔ جن کی خدا نے کوئی سند نازل نہیں کی۔ تو تم بھی انتظار کرو میں بھی تمہارے ساتھ انتظار کرتا ہوں
+
 [Open on Quran.com](https://quran.com/7/71)
 
 #### 9:95 · [[009 At-Tawbah]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They will swear by Allāh to you when you return to them that you would leave them alone. So leave them alone; indeed they are evil; and their refuge is Hell as recompense for what they had been earning.
 
 **English (Yusuf Ali):** They will swear to you by Allah, when ye return to them, that ye may leave them alone. So leave them alone: For they are an abomination, and Hell is their dwelling-place,-a fitting recompense for the (evil) that they did.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب تم ان کے پاس لوٹ کر جاؤ گے تو تمہارے روبرو خدا کی قسمیں کھائیں گے تاکہ تم ان سے درگزر کرو سو اُن کی طرف التفات نہ کرنا۔ یہ ناپاک ہیں اور جو یہ کام کرتے رہے ہیں اس کے بدلہ ان کا ٹھکانہ دوزخ ہے
 
 [Open on Quran.com](https://quran.com/9/95)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But those in whose hearts is a disease,- it will add doubt to their doubt, and they will die in a state of Unbelief.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جن کے دلوں میں مرض ہے، ان کے حق میں خبث پر خبث زیادہ کیا اور وہ مرے بھی تو کافر کے کافر
+
 [Open on Quran.com](https://quran.com/9/125)
 
 #### 10:100 · [[010 Yunus]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And it is not for a soul [i.e., anyone] to believe except by permission of Allāh, and He will place defilement upon those who will not use reason.
 
 **English (Yusuf Ali):** No soul can believe, except by the will of Allah, and He will place doubt (or obscurity) on those who will not understand.
+
+**Urdu (Fatah Muhammad Jalandhari):** حالانکہ کسی شخص کو قدرت نہیں ہے کہ خدا کے حکم کے بغیر ایمان لائے۔ اور جو لوگ بےعقل ہیں ان پر وہ (کفر وذلت کی) نجاست ڈالتا ہے
 
 [Open on Quran.com](https://quran.com/10/100)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Such (is the Pilgrimage): whoever honours the sacred rites of Allah, for him it is good in the Sight of his Lord. Lawful to you (for food in Pilgrimage) are cattle, except those mentioned to you (as exception): but shun the abomination of idols, and shun the word that is false,-
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ (ہمارا حکم ہے) جو شخص ادب کی چیزوں کی جو خدا نے مقرر کی ہیں عظمت رکھے تو یہ پروردگار کے نزدیک اس کے حق میں بہتر ہے۔ اور تمہارے لئے مویشی حلال کردیئے گئے ہیں۔ سوا ان کے جو تمہیں پڑھ کر سنائے جاتے ہیں تو بتوں کی پلیدی سے بچو اور جھوٹی بات سے اجتناب کرو
+
 [Open on Quran.com](https://quran.com/22/30)
 
 #### 33:33 · [[033 Al-Ahzab]]
@@ -173,6 +189,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And abide in your houses and do not display yourselves as [was] the display of the former times of ignorance. And establish prayer and give zakāh and obey Allāh and His Messenger. Allāh intends only to remove from you the impurity [of sin], O people of the [Prophet's] household, and to purify you with [extensive] purification.
 
 **English (Yusuf Ali):** And stay quietly in your houses, and make not a dazzling display, like that of the former Times of Ignorance; and establish regular Prayer, and give regular Charity; and obey Allah and His Messenger. And Allah only wishes to remove all abomination from you, ye members of the Family, and to make you pure and spotless.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے گھروں میں ٹھہری رہو اور جس طرح (پہلے) جاہلیت (کے دنوں) میں اظہار تجمل کرتی تھیں اس طرح زینت نہ دکھاؤ۔ اور نماز پڑھتی رہو اور زکوٰة دیتی رہو اور خدا اور اس کے رسول کی فرمانبرداری کرتی رہو۔ اے (پیغمبر کے) اہل بیت خدا چاہتا ہے کہ تم سے ناپاکی (کا میل کچیل) دور کردے اور تمہیں بالکل پاک صاف کردے
 
 [Open on Quran.com](https://quran.com/33/33)
 

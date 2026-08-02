@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:44 · [[003 Ali Imran]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That is from the news of the unseen which We reveal to you, [O Muḥammad]. And you were not with them when they cast their pens as to which of them should be responsible for Mary. Nor were you with them when they disputed.
 
 **English (Yusuf Ali):** This is part of the tidings of the things unseen, which We reveal unto thee (O Messenger!) by inspiration: Thou wast not with them when they cast lots with arrows, as to which of them should be charged with the care of Mary: Nor wast thou with them when they disputed (the point).
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) یہ باتیں اخبار غیب میں سے ہیں جو ہم تمہارے پاس بھیجتے ہیں اور جب وہ لوگ اپنے قلم (بطور قرعہ) ڈال رہے تھے کہ مریم کا متکفل کون بنے تو تم ان کے پاس نہیں تھے اور نہ اس وقت ہی ان کے پاس تھے جب وہ آپس میں جھگڑ رہے تھے
 
 [Open on Quran.com](https://quran.com/3/44)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We have sent thee inspiration, as We sent it to Noah and the Messengers after him: we sent inspiration to Abraham, Isma'il, Isaac, Jacob and the Tribes, to Jesus, Job, Jonah, Aaron, and solomon, and to David We gave the Psalms.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) ہم نے تمہاری طرف اسی طرح وحی بھیجی ہے جس طرح نوح اور ان سے پچھلے پیغمبروں کی طرف بھیجی تھی۔ اور ابراہیم اور اسمعیل اور اسحاق اور یعقوب اور اولاد یعقوب اور عیسیٰ اور ایوب اور یونس اور ہارون اور سلیمان کی طرف بھی ہم نے وحی بھیجی تھی اور داؤد کو ہم نے زبور بھی عنایت کی تھی
+
 [Open on Quran.com](https://quran.com/4/163)
 
 #### 5:111 · [[005 Al-Maidah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [remember] when I inspired to the disciples, "Believe in Me and in My messenger [i.e., Jesus]." They said, "We have believed, so bear witness that indeed we are Muslims [in submission to Allāh]."
 
 **English (Yusuf Ali):** "And behold! I inspired the disciples to have faith in Me and Mine Messenger: they said, 'We have faith, and do thou bear witness that we bow to Allah as Muslims'".
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب میں نے حواریوں کی طرف حکم بھیجا کہ مجھ پر اور میرے پیغمبر پر ایمان لاؤ وہ کہنے لگے کہ (پروردگار) ہم ایمان لائے تو شاہد رہیو کہ ہم فرمانبردار ہیں
 
 [Open on Quran.com](https://quran.com/5/111)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "What thing is most weighty in evidence?" Say: "Allah is witness between me and you; This Qur'an hath been revealed to me by inspiration, that I may warn you and all whom it reaches. Can ye possibly bear witness that besides Allah there is another Allah?" Say: "Nay! I cannot bear witness!" Say: "But in truth He is the one Allah, and I truly am innocent of (your blasphemy of) joining others with Him."
 
+**Urdu (Fatah Muhammad Jalandhari):** ان سے پوچھو کہ سب سے بڑھ کر (قرین انصاف) کس کی شہادت ہے کہہ دو کہ خدا ہی مجھ میں اور تم میں گواہ ہے اور یہ قرآن مجھ پر اس لیے اتارا گیا ہے کہ اس کے ذریعے سے تم کو اور جس شخص تک وہ پہنچ سکے آگاہ کردوں کیا تم لوگ اس بات کی شہادت دیتے ہو کہ خدا کے ساتھ اور بھی معبود ہیں (اے محمدﷺ!) کہہ دو کہ میں تو (ایسی) شہادت نہیں دیتا کہہ دو کہ صرف وہی ایک معبود ہے اور جن کو تم لوگ شریک بناتے ہو میں ان سے بیزار ہوں
+
 [Open on Quran.com](https://quran.com/6/19)
 
 #### 6:50 · [[006 Al-Anam]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O Muḥammad], "I do not tell you that I have the depositories [containing the provision] of Allāh or that I know the unseen, nor do I tell you that I am an angel. I only follow what is revealed to me." Say, "Is the blind equivalent to the seeing? Then will you not give thought?"
 
 **English (Yusuf Ali):** Say: "I tell you not that with me are the treasures of Allah, nor do I know what is hidden, nor do I tell you I am an angel. I but follow what is revealed to me." Say: "can the blind be held equal to the seeing?" Will ye then consider not?
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں تم سے یہ نہیں کہتا کہ میرے پاس الله تعالیٰ کے خزانے ہیں اور نہ (یہ کہ) میں غیب جانتا ہوں اور نہ تم سے یہ کہتا کہ میں فرشتہ ہوں۔ میں تو صرف اس حکم پر چلتا ہوں جو مجھے (خدا کی طرف سے) آتا ہے۔ کہہ دو کہ بھلا اندھا اور آنکھ والے برابر ہوتے ہیں؟ تو پھر تم غور کیوں نہیں کرتے
 
 [Open on Quran.com](https://quran.com/6/50)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Who can be more wicked than one who inventeth a lie against Allah, or saith, "I have received inspiration," when he hath received none, or (again) who saith, "I can reveal the like of what Allah hath revealed"? If thou couldst but see how the wicked (do fare) in the flood of confusion at death! - the angels stretch forth their hands, (saying),"Yield up your souls: this day shall ye receive your reward,- a penalty of shame, for that ye used to tell lies against Allah, and scornfully to reject of His signs!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے بڑھ کر ظالم کون ہوگا جو خدا پر جھوٹ افتراء کرے۔ یا یہ کہے کہ مجھ پر وحی آئی ہے حالانکہ اس پر کچھ بھی وحی نہ آئی ہو اور جو یہ کہے کہ جس طرح کی کتاب خدا نے نازل کی ہے اس طرح کی میں بھی بنا لیتا ہوں۔ اور کاش تم ان ظالم (یعنی مشرک) لوگوں کو اس وقت دیکھو جب موت کی سختیوں میں (مبتلا) ہوں اور فرشتے (ان کی طرف عذاب کے لئے) ہاتھ بڑھا رہے ہوں کہ نکالو اپنی جانیں۔ آج تم کو ذلت کے عذاب کی سزا دی جائے گی اس لئے کہ تم خدا پر جھوٹ بولا کرتے تھے اور اس کی آیتوں سے سرکشی کرتے تھے
+
 [Open on Quran.com](https://quran.com/6/93)
 
 #### 6:106 · [[006 Al-Anam]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Follow, [O Muḥammad], what has been revealed to you from your Lord - there is no deity except Him - and turn away from those who associate others with Allāh.
 
 **English (Yusuf Ali):** Follow what thou art taught by inspiration from thy Lord: there is no god but He: and turn aside from those who join gods with Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو حکم تمہارے پروردگار کی طرف سے تمہارے پاس آتا ہے اسی کی پیروی کرو۔ اس (پروردگار) کے سوا کوئی معبود نہیں۔ اور مشرکوں سے کنارہ کرلو
 
 [Open on Quran.com](https://quran.com/6/106)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Likewise did We make for every Messenger an enemy,- evil ones among men and jinns, inspiring each other with flowery discourses by way of deception. If thy Lord had so planned, they would not have done it: so leave them and their inventions alone.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے شیطان (سیرت) انسانوں اور جنوں کو ہر پیغمبر کا دشمن بنا دیا تھا وہ دھوکا دینے کے لیے ایک دوسرے کے دل میں ملمع کی باتیں ڈالتے رہتے تھے اور اگر تمہارا پروردگار چاہتا تو وہ ایسا نہ کرتے تو ان کو اور جو کچھ یہ افتراء کرتے ہیں اسے چھوڑ دو
+
 [Open on Quran.com](https://quran.com/6/112)
 
 #### 6:121 · [[006 Al-Anam]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Eat not of (meats) on which Allah's name hath not been pronounced: That would be impiety. But the evil ones ever inspire their friends to contend with you if ye were to obey them, ye would indeed be Pagans.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جس چیز پر خدا کا نام نہ لیا جائے اسے مت کھاؤ کہ اس کا کھانا گناہ ہے اور شیطان (لوگ) اپنے رفیقوں کے دلوں میں یہ بات ڈالتے ہیں کہ تم سے جھگڑا کریں اور اگر تم لوگ ان کے کہے پر چلے تو بےشک تم بھی مشرک ہوئے
+
 [Open on Quran.com](https://quran.com/6/121)
 
 #### 6:145 · [[006 Al-Anam]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "I do not find within that which was revealed to me [anything] forbidden to one who would eat it unless it be a dead animal or blood spilled out or the flesh of swine - for indeed, it is impure - or it be [that slaughtered in] disobedience, dedicated to other than Allāh. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], then indeed, your Lord is Forgiving and Merciful."
 
 **English (Yusuf Ali):** Say: "I find not in the message received by me by inspiration any (meat) forbidden to be eaten by one who wishes to eat it, unless it be dead meat, or blood poured forth, or the flesh of swine,- for it is an abomination - or, what is impious, (meat) on which a name has been invoked, other than Allah's". But (even so), if a person is forced by necessity, without wilful disobedience, nor transgressing due limits,- thy Lord is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ جو احکام مجھ پر نازل ہوئے ہیں ان میں کوئی چیز جسے کھانے والا کھائے حرام نہیں پاتا بجز اس کے کہ وہ مرا ہوا جانور یا بہتا لہو یا سور کا گوشت کہ یہ سب ناپاک ہیں یا کوئی گناہ کی چیز ہو کہ اس پر خدا کے سوا کسی اور کا نام لیا گیا ہو اور اگر کوئی مجبور ہو جائے لیکن نہ تو نافرمانی کرے اور نہ حد سے باہر نکل جائے تو تمہارا پروردگار بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/6/145)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:237 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you divorce them before you have touched them and you have already specified for them an obligation, then [give] half of what you specified - unless they forego the right or the one in whose hand is the marriage contract foregoes it. And to forego it is nearer to righteousness. And do not forget graciousness between you. Indeed Allāh, of whatever you do, is Seeing.
 
 **English (Yusuf Ali):** And if ye divorce them before consummation, but after the fixation of a dower for them, then the half of the dower (Is due to them), unless they remit it or (the man's half) is remitted by him in whose hands is the marriage tie; and the remission (of the man's half) is the nearest to righteousness. And do not forget Liberality between yourselves. For Allah sees well all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے سے پہلے طلاق دے دو لیکن مہر مقرر کرچکے ہو تو آدھا مہر دینا ہوگا۔ ہاں اگر عورتیں مہر بخش دیں یا مرد جن کے ہاتھ میں عقد نکاح ہے (اپنا حق) چھوڑ دیں۔ (اور پورا مہر دے دیں تو ان کو اختیار ہے) اور اگر تم مرد لوگ ہ اپنا حق چھوڑ دو تو یہ پرہیزگاری کی بات ہے۔ اور آپس میں بھلائی کرنے کو فراموش نہ کرنا۔ کچھ شک نہیں کہ خدا تمہارے سب کاموں کو دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/2/237)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah (thus) directs you as regards your Children's (Inheritance): to the male, a portion equal to that of two females: if only daughters, two or more, their share is two-thirds of the inheritance; if only one, her share is a half. For parents, a sixth share of the inheritance to each, if the deceased left children; if no children, and the parents are the (only) heirs, the mother has a third; if the deceased Left brothers (or sisters) the mother has a sixth. (The distribution in all cases ('s) after the payment of legacies and debts. Ye know not whether your parents or your children are nearest to you in benefit. These are settled portions ordained by Allah; and Allah is All-knowing, Al-wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری اولاد کے بارے میں تم کو ارشاد فرماتا ہے کہ ایک لڑکے کا حصہ دو لڑکیوں کے حصے کے برابر ہے۔ اور اگر اولاد میت صرف لڑکیاں ہی ہوں (یعنی دو یا) دو سے زیادہ تو کل ترکے میں ان کادو تہائی۔ اور اگر صرف ایک لڑکی ہو تو اس کا حصہ نصف۔ اور میت کے ماں باپ کا یعنی دونوں میں سے ہر ایک کا ترکے میں چھٹا حصہ بشرطیکہ میت کے اولاد ہو۔ اور اگر اولاد نہ ہو اور صرف ماں باپ ہی اس کے وارث ہوں تو ایک تہائی ماں کا حصہ۔ اور اگر میت کے بھائی بھی ہوں تو ماں کا چھٹا حصہ۔ (اور یہ تقسیم ترکہ میت کی) وصیت (کی تعمیل) کے بعد جو اس نے کی ہو یا قرض کے (ادا ہونے کے بعد جو اس کے ذمے ہو عمل میں آئے گی) تم کو معلوم نہیں کہ تمہارے باپ دادؤں اور بیٹوں پوتوں میں سے فائدے کے لحاظ سے کون تم سے زیادہ قریب ہے، یہ حصے خدا کے مقرر کئے ہوئے ہیں اور خدا سب کچھ جاننے والا اور حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/4/11)
 
 #### 4:12 · [[004 An-Nisa]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And for you is half of what your wives leave if they have no child. But if they have a child, for you is one fourth of what they leave, after any bequest they [may have] made or debt. And for them [i.e., the wives] is one fourth if you leave no child. But if you leave a child, then for them is an eighth of what you leave, after any bequest you [may have] made or debt. And if a man or woman leaves neither ascendants nor descendants but has a brother or a sister, then for each one of them is a sixth. But if they are more than two, they share a third, after any bequest which was made or debt, as long as there is no detriment [caused]. [This is] an ordinance from Allāh, and Allāh is Knowing and Forbearing.
 
 **English (Yusuf Ali):** In what your wives leave, your share is a half, if they leave no child; but if they leave a child, ye get a fourth; after payment of legacies and debts. In what ye leave, their share is a fourth, if ye leave no child; but if ye leave a child, they get an eighth; after payment of legacies and debts. If the man or woman whose inheritance is in question, has left neither ascendants nor descendants, but has left a brother or a sister, each one of the two gets a sixth; but if more than two, they share in a third; after payment of legacies and debts; so that no loss is caused (to any one). Thus is it ordained by Allah; and Allah is All-knowing, Most Forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو مال تمہاری عورتیں چھوڑ مریں۔ اگر ان کے اولاد نہ ہو تو اس میں نصف حصہ تمہارا۔ اور اگر اولاد ہو تو ترکے میں تمہارا حصہ چوتھائی۔ (لیکن یہ تقسیم) وصیت (کی تعمیل) کے بعد جو انہوں نے کی ہو یا قرض کے (ادا ہونے کے بعد جو ان کے ذمے ہو، کی جائے گی) اور جو مال تم (مرد) چھوڑ مرو۔ اگر تمہارے اولاد نہ ہو تو تمہاری عورتوں کا اس میں چوتھا حصہ۔ اور اگر اولاد ہو تو ان کا آٹھواں حصہ (یہ حصے) تمہاری وصیت (کی تعمیل) کے بعد جو تم نے کی ہو اور (ادائے) قرض کے (بعد تقسیم کئے جائیں گے) اور اگر ایسے مرد یا عورت کی میراث ہو جس کے نہ باپ ہو نہ بیٹا مگر اس کے بھائی بہن ہو تو ان میں سے ہر ایک کا چھٹا حصہ اور اگر ایک سے زیادہ ہوں تو سب ایک تہائی میں شریک ہوں گے (یہ حصے بھی ادائے وصیت و قرض بشرطیکہ ان سے میت نے کسی کا نقصان نہ کیا ہو (تقسیم کئے جائیں گے) یہ خدا کا فرمان ہے۔ اور خدا نہایت علم والا (اور) نہایت حلم والا ہے
 
 [Open on Quran.com](https://quran.com/4/12)
 
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If any of you have not the means wherewith to wed free believing women, they may wed believing girls from among those whom your right hands possess: And Allah hath full knowledge about your faith. Ye are one from another: Wed them with the leave of their owners, and give them their dowers, according to what is reasonable: They should be chaste, not lustful, nor taking paramours: when they are taken in wedlock, if they fall into shame, their punishment is half that for free women. This (permission) is for those among you who fear sin; but it is better for you that ye practise self-restraint. And Allah is Oft-forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص تم میں سے مومن آزاد عورتوں (یعنی بیبیوں) سے نکاح کرنے کا مقدور نہ رکھے تو مومن لونڈیوں میں ہی جو تمہارے قبضے میں آگئی ہوں (نکاح کرلے) اور خدا تمہارے ایمان کو اچھی طرح جانتا ہے تم آپس میں ایک دوسرے کے ہم جنس ہو تو ان لونڈیوں کے ساتھ ان کے مالکوں سے اجازت حاصل کرکے نکاح کر لو اور دستور کے مطابق ان کا مہر بھی ادا کردو بشرطیکہ عفیفہ ہوں نہ ایسی کہ کھلم کھلا بدکاری کریں اور نہ درپردہ دوستی کرنا چاہیں پھر اگر نکاح میں آکر بدکاری کا ارتکاب کر بیٹھیں تو جو سزا آزاد عورتوں (یعنی بیبیوں) کے لئے ہے اس کی آدھی ان کو (دی جائے) یہ (لونڈی کے ساتھ نکاح کرنے کی) اجازت اس شخص کو ہے جسے گناہ کر بیٹھنے کا اندیشہ ہو اور اگر صبر کرو تو یہ تمہارے لئے بہت اچھا ہے اور خدا بخشنے والا مہربان ہے
+
 [Open on Quran.com](https://quran.com/4/25)
 
 #### 4:176 · [[004 An-Nisa]]
@@ -105,6 +113,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They request from you a [legal] ruling. Say, "Allāh gives you a ruling concerning one having neither descendants nor ascendants [as heirs]." If a man dies, leaving no child but [only] a sister, she will have half of what he left. And he inherits from her if she [dies and] has no child. But if there are two sisters [or more], they will have two thirds of what he left. If there are both brothers and sisters, the male will have the share of two females. Allāh makes clear to you [His law], lest you go astray. And Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** They ask thee for a legal decision. Say: Allah directs (thus) about those who leave no descendants or ascendants as heirs. If it is a man that dies, leaving a sister but no child, she shall have half the inheritance: If (such a deceased was) a woman, who left no child, Her brother takes her inheritance: If there are two sisters, they shall have two-thirds of the inheritance (between them): if there are brothers and sisters, (they share), the male having twice the share of the female. Thus doth Allah make clear to you (His law), lest ye err. And Allah hath knowledge of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگ تم سے (کلالہ کے بارے میں) حکم (خدا) دریافت کرتے ہیں کہہ دو کہ خدا کلالہ بارے میں یہ حکم دیتا ہے کہ اگر کوئی ایسا مرد مرجائے جس کے اولاد نہ ہو (اور نہ ماں باپ) اور اس کے بہن ہو تو اس کو بھائی کے ترکے میں سے آدھا حصہ ملے گا۔ اور اگر بہن مرجائے اور اس کے اولاد نہ ہو تو اس کے تمام مال کا وارث بھائی ہوگا اور اگر (مرنے والے بھائی کی) دو بہنیں ہوں تو دونوں کو بھائی کے ترکے میں سے دو تہائی۔ اور اگر بھائی اور بہن یعنی مرد اور عورتیں ملے جلے وارث ہوں تو مرد کا حصہ دو عورتوں کے برابر ہے۔ (یہ احکام) خدا تم سے اس لئے بیان فرماتا ہے کہ بھٹکتے نہ پھرو۔ اور خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/4/176)
 
@@ -122,6 +132,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Half of it,- or a little less,
 
+**Urdu (Fatah Muhammad Jalandhari):** (قیام) آدھی رات (کیا کرو)
+
 [Open on Quran.com](https://quran.com/73/3)
 
 #### 73:20 · [[073 Al-Muzzammil]]
@@ -137,6 +149,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, your Lord knows, [O Muḥammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allāh determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it and has turned to you in forgiveness, so recite what is easy [for you] of the Qur’ān. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allāh and others fighting for the cause of Allāh. So recite what is easy from it and establish prayer and give zakāh and loan Allāh a goodly loan. And whatever good you put forward for yourselves - you will find it with Allāh. It is better and greater in reward. And seek forgiveness of Allāh. Indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** Thy Lord doth know that thou standest forth (to prayer) nigh two-thirds of the night, or half the night, or a third of the night, and so doth a party of those with thee. But Allah doth appoint night and day in due measure He knoweth that ye are unable to keep count thereof. So He hath turned to you (in mercy): read ye, therefore, of the Qur'an as much as may be easy for you. He knoweth that there may be (some) among you in ill-health; others travelling through the land, seeking of Allah's bounty; yet others fighting in Allah's Cause, read ye, therefore, as much of the Qur'an as may be easy (for you); and establish regular Prayer and give regular Charity; and loan to Allah a Beautiful Loan. And whatever good ye send forth for your souls ye shall find it in Allah's Presence,- yea, better and greater, in Reward and seek ye the Grace of Allah: for Allah is Oft-Forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہارا پروردگار خوب جانتا ہے کہ تم اور تمہارے ساتھ کے لوگ (کبھی) دو تہائی رات کے قریب اور (کبھی) آدھی رات اور (کبھی) تہائی رات قیام کیا کرتے ہو۔ اور خدا تو رات اور دن کا اندازہ رکھتا ہے۔ اس نے معلوم کیا کہ تم اس کو نباہ نہ سکو گے تو اس نے تم پر مہربانی کی۔ پس جتنا آسانی سے ہوسکے (اتنا) قرآن پڑھ لیا کرو۔ اس نے جانا کہ تم میں بعض بیمار بھی ہوتے ہیں اور بعض خدا کے فضل (یعنی معاش) کی تلاش میں ملک میں سفر کرتے ہیں اور بعض خدا کی راہ میں لڑتے ہیں۔ تو جتنا آسانی سے ہوسکے اتنا پڑھ لیا کرو۔ اور نماز پڑھتے رہو اور زکوٰة ادا کرتے رہو اور خدا کو نیک (اور خلوص نیت سے) قرض دیتے رہو۔ اور جو عمل نیک تم اپنے لئے آگے بھیجو گے اس کو خدا کے ہاں بہتر اور صلے میں بزرگ تر پاؤ گے۔ اور خدا سے بخشش مانگتے رہو۔ بےشک خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/73/20)
 

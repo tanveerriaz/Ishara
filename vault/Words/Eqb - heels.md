@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:143 · [[002 Al-Baqarah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And thus We have made you a median [i.e., just] community that you will be witnesses over the people and the Messenger will be a witness over you. And We did not make the qiblah which you used to face except that We might make evident who would follow the Messenger from who would turn back on his heels. And indeed, it is difficult except for those whom Allāh has guided. And never would Allāh have caused you to lose your faith [i.e., your previous prayers]. Indeed Allāh is, to the people, Kind and Merciful.
 
 **English (Yusuf Ali):** Thus, have We made of you an Ummat justly balanced, that ye might be witnesses over the nations, and the Messenger a witness over yourselves; and We appointed the Qibla to which thou wast used, only to test those who followed the Messenger from those who would turn on their heels (From the Faith). Indeed it was (A change) momentous, except to those guided by Allah. And never would Allah Make your faith of no effect. For Allah is to all people Most surely full of kindness, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے تم کو امتِ معتدل بنایا ہے، تاکہ تم لوگوں پر گواہ بنو اور پیغمبر (آخرالزماں) تم پر گواہ بنیں۔ اور جس قبلے پر تم (پہلے) تھے، اس کو ہم نے اس لیے مقرر کیا تھا کہ معلوم کریں، کون (ہمارے) پیغمبر کا تابع رہتا ہے، اور کون الٹے پاؤں پھر جاتا ہے۔ اور یہ بات (یعنی تحویل قبلہ لوگوں کو) گراں معلوم ہوئی، مگر جن کو خدا نے ہدایت بخشی (وہ اسے گراں نہیں سمجھتے) اور خدا ایسا نہیں کہ تمہارے ایمان کو یونہی کھو دے۔ خدا تو لوگوں پر بڑا مہربان (اور) صاحبِ رحمت ہے
 
 [Open on Quran.com](https://quran.com/2/143)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Muhammad is no more than a messenger: many Were the messenger that passed away before him. If he died or were slain, will ye then Turn back on your heels? If any did turn back on his heels, not the least harm will he do to Allah; but Allah (on the other hand) will swiftly reward those who (serve Him) with gratitude.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور محمد (صلی الله علیہ وسلم) تو صرف (خدا کے) پیغمبر ہیں ان سے پہلے بھی بہت سے پیغمبر ہو گزرے ہیں بھلا اگر یہ مر جائیں یا مارے جائیں تو تم الٹے پاؤں پھر جاؤ؟ (یعنی مرتد ہو جاؤ؟) اور جو الٹے پاؤں پھر جائے گا تو خدا کا کچھ نقصان نہ کر سکے گا اور خدا شکر گزاروں کو (بڑا) ثواب دے گا
+
 [Open on Quran.com](https://quran.com/3/144)
 
 #### 3:149 · [[003 Ali Imran]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, if you obey those who disbelieve, they will turn you back on your heels, and you will [then] become losers.
 
 **English (Yusuf Ali):** O ye who believe! If ye obey the Unbelievers, they will drive you back on your heels, and ye will turn back (from Faith) to your own loss.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اگر تم کافروں کا کہا مان لو گے تو وہ تم کو الٹے پاؤں پھیر کر (مرتد کر) دیں گے پھر تم بڑے خسارے میں پڑ جاؤ گے
 
 [Open on Quran.com](https://quran.com/3/149)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Shall we indeed call on others besides Allah,- things that can do us neither good nor harm,- and turn on our heels after receiving guidance from Allah? - like one whom the evil ones have made into a fool, wandering bewildered through the earth, his friends calling, come to us', (vainly) guiding him to the path." Say: "Allah's guidance is the (only) guidance, and we have been directed to submit ourselves to the Lord of the worlds;-
 
+**Urdu (Fatah Muhammad Jalandhari):** کہو۔ کیا ہم خدا کے سوا ایسی چیز کو پکاریں جو نہ ہمارا بھلا کرسکے نہ برا۔ اور جب ہم کو خدا نے سیدھا رستہ دکھا دیا تو (کیا) ہم الٹے پاؤں پھر جائیں؟ (پھر ہماری ایسی مثال ہو) جیسے کسی کو جنات نے جنگل میں بھلا دیا ہو (اور وہ) حیران (ہو رہا ہو) اور اس کے کچھ رفیق ہوں جو اس کو رستے کی طرف بلائیں کہ ہمارے پاس چلا آ۔ کہہ دو کہ رستہ تو وہی ہے جو خدا نے بتایا ہے۔ اور ہمیں تو یہ حکم ملا ہے کہ ہم خدائے رب العالمین کے فرمانبردار ہوں
+
 [Open on Quran.com](https://quran.com/6/71)
 
 #### 8:48 · [[008 Al-Anfal]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [remember] when Satan made their deeds pleasing to them and said, "No one can overcome you today from among the people, and indeed, I am your protector." But when the two armies sighted each other, he turned on his heels and said, "Indeed, I am disassociated from you. Indeed, I see what you do not see; indeed, I fear Allāh. And Allāh is severe in penalty."
 
 **English (Yusuf Ali):** Remember Satan made their (sinful) acts seem alluring to them, and said: "No one among men can overcome you this day, while I am near to you": But when the two forces came in sight of each other, he turned on his heels, and said: "Lo! I am clear of you; lo! I see what ye see not; Lo! I fear Allah: for Allah is strict in punishment."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب شیطانوں نے ان کے اعمال ان کو آراستہ کر کے دکھائے اور کہا کہ آج کے دن لوگوں میں کوئی تم پر غالب نہ ہوگا اور میں تمہارا رفیق ہوں (لیکن) جب دونوں فوجیں ایک دوسرے کے مقابل صف آراء ہوئیں تو پسپا ہو کر چل دیا اور کہنے لگا کہ مجھے تم سے کوئی واسطہ نہیں۔ میں تو ایسی چیزیں دیکھ رہا ہوں جو تم نہیں دیکھ سکتے۔ مجھے تو خدا سے ڈر لگتا ہے۔ اور خدا سخت عذاب کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/8/48)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There, the (only) protection comes from Allah, the True One. He is the Best to reward, and the Best to give success.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہاں (سے ثابت ہوا کہ) حکومت سب خدائے برحق ہی کی ہے۔ اسی کا صلہ بہتر اور (اسی کا) بدلہ اچھا ہے
+
 [Open on Quran.com](https://quran.com/18/44)
 
 #### 23:66 · [[023 Al-Muminun]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "My Signs used to be rehearsed to you, but ye used to turn back on your heels-
 
+**Urdu (Fatah Muhammad Jalandhari):** میری آیتیں تم کو پڑھ پڑھ کر سنائی جاتی تھیں اور تم الٹے پاؤں پھر پھر جاتے تھے
+
 [Open on Quran.com](https://quran.com/23/66)
 
 #### 43:28 · [[043 Az-Zukhruf]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And he made it a word remaining among his descendants that they might return [to it].
 
 **English (Yusuf Ali):** And he left it as a Word to endure among those who came after him, that they may turn back (to Allah).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہی بات اپنی اولاد میں پیچھے چھوڑ گئے تاکہ وہ (خدا کی طرف) رجوع کریں
 
 [Open on Quran.com](https://quran.com/43/28)
 

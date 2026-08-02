@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:168 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O mankind, eat from whatever is on earth [that is] lawful and good and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.
 
 **English (Yusuf Ali):** O ye people! Eat of what is on earth, Lawful and good; and do not follow the footsteps of the evil one, for he is to you an avowed enemy.
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو جو چیزیں زمین میں حلال طیب ہیں وہ کھاؤ۔ اور شیطان کے قدموں پر نہ چلو۔ وہ تمہارا کھلا دشمن ہے
 
 [Open on Quran.com](https://quran.com/2/168)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Enter into Islam whole-heartedly; and follow not the footsteps of the evil one; for he is to you an avowed enemy.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اسلام میں پورے پورے داخل ہوجاؤ اور شیطان کے پیچھے نہ چلو وہ تو تمہارا صریح دشمن ہے
+
 [Open on Quran.com](https://quran.com/2/208)
 
 #### 3:164 · [[003 Ali Imran]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Certainly did Allāh confer [great] favor upon the believers when He sent among them a Messenger from themselves, reciting to them His verses and purifying them and teaching them the Book [i.e., the Qur’ān] and wisdom, although they had been before in manifest error.
 
 **English (Yusuf Ali):** Allah did confer a great favour on the believers when He sent among them a messenger from among themselves, rehearsing unto them the Signs of Allah, sanctifying them, and instructing them in Scripture and Wisdom, while, before that, they had been in manifest error.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے مومنوں پر بڑا احسان کیا ہے کہ ان میں انہیں میں سے ایک پیغمبر بھیجے۔ جو ان کو خدا کی آیتیں پڑھ پڑھ کر سناتے اور ان کو پاک کرتے اور (خدا کی) کتاب اور دانائی سکھاتے ہیں اور پہلے تو یہ لوگ صریح گمراہی میں تھے
 
 [Open on Quran.com](https://quran.com/3/164)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But if ye decide to take one wife in place of another, even if ye had given the latter a whole treasure for dower, Take not the least bit of it back: Would ye take it by slander and manifest wrong?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم ایک عورت کو چھوڑ کر دوسری عورت کرنی چاہو۔ اور پہلی عورت کو بہت سال مال دے چکے ہو تو اس میں سے کچھ مت لینا۔ بھلا تم ناجائز طور پر اور صریح ظلم سے اپنا مال اس سے واپس لے لوگے؟
+
 [Open on Quran.com](https://quran.com/4/20)
 
 #### 4:50 · [[004 An-Nisa]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Look how they invent about Allāh untruth, and sufficient is that as a manifest sin.
 
 **English (Yusuf Ali):** Behold! how they invent a lie against Allah! but that by itself is a manifest sin!
+
+**Urdu (Fatah Muhammad Jalandhari):** دیکھو یہ خدا پر کیسا جھوٹ (طوفان) باندھتے ہیں اور یہی گناہ صریح کافی ہے
 
 [Open on Quran.com](https://quran.com/4/50)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Others you will find that wish to gain your confidence as well as that of their people: Every time they are sent back to temptation, they succumb thereto: if they withdraw not from you nor give you (guarantees) of peace besides restraining their hands, seize them and slay them wherever ye get them: In their case We have provided you with a clear argument against them.
 
+**Urdu (Fatah Muhammad Jalandhari):** تم کچھ اور لوگ ایسے بھی پاؤ گے جو یہ چاہتے ہیں کہ تم سے بھی امن میں رہیں اور اپنی قوم سے بھی امن میں رہیں لیکن فتنہ انگیزی کو بلائے جائیں تو اس میں اوندھے منہ گر پڑیں تو ایسے لوگ اگر تم سے (لڑنے سے) کنارہ کشی نہ کریں اور نہ تمہاری طرف (پیغام) صلح بھیجیں اور نہ اپنے ہاتھوں کو روکیں تو ان کو پکڑ لو اور جہاں پاؤ قتل کردو ان لوگوں کے مقابلے میں ہم نے تمہارے لئے سند صریح مقرر کردی ہے
+
 [Open on Quran.com](https://quran.com/4/91)
 
 #### 4:101 · [[004 An-Nisa]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you travel throughout the land, there is no blame upon you for shortening the prayer, [especially] if you fear that those who disbelieve may disrupt [or attack] you. Indeed, the disbelievers are ever to you a clear enemy.
 
 **English (Yusuf Ali):** When ye travel through the earth, there is no blame on you if ye shorten your prayers, for fear the Unbelievers May attack you: For the Unbelievers are unto you open enemies.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم سفر کو جاؤ تو تم پر کچھ گناہ نہیں کہ نماز کو کم کرکے پڑھو بشرطیکہ تم کو خوف ہو کہ کافر لوگ تم کو ایذا دیں گے بےشک کافر تمہارے کھلے دشمن ہیں
 
 [Open on Quran.com](https://quran.com/4/101)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But if any one earns a fault or a sin and throws it on to one that is innocent, He carries (on himself) (Both) a falsehood and a flagrant sin.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص کوئی قصور یا گناہ تو خود کرے لیکن اس سے کسی بےگناہ کو مہتم کردے تو اس نے بہتان اور صریح گناہ کا بوجھ اپنے سر پر رکھا
+
 [Open on Quran.com](https://quran.com/4/112)
 
 #### 4:119 · [[004 An-Nisa]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "I will mislead them, and I will create in them false desires; I will order them to slit the ears of cattle, and to deface the (fair) nature created by Allah." Whoever, forsaking Allah, takes satan for a friend, hath of a surety suffered a loss that is manifest.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو گمراہ کرتا اور امیدیں دلاتا ہروں گا اور یہ سکھاتا رہوں گا کہ جانوروں کے کان چیرتے رہیں اور (یہ بھی) کہتا رہوں گا کہ وہ خدا کی بنائی ہوئی صورتوں کو بدلتے رہیں اور جس شخص نے خدا کو چھوڑ کر شیطان کو دوست بنایا اور وہ صریح نقصان میں پڑ گیا
+
 [Open on Quran.com](https://quran.com/4/119)
 
 #### 4:144 · [[004 An-Nisa]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not take the disbelievers as allies instead of the believers. Do you wish to give Allāh against yourselves a clear case?
 
 **English (Yusuf Ali):** O ye who believe! Take not for friends unbelievers rather than believers: Do ye wish to offer Allah an open proof against yourselves?
+
+**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان! مومنوں کے سوا کافروں کو دوست نہ بناؤ کیا تم چاہتے ہو کہ اپنے اوپر خدا کا صریح الزام لو؟
 
 [Open on Quran.com](https://quran.com/4/144)
 

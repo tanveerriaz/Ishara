@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:40 · [[004 An-Nisa]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Allāh does not do injustice, [even] as much as an atom's weight; while if there is a good deed, He multiplies it and gives from Himself a great reward.
 
 **English (Yusuf Ali):** Allah is never unjust in the least degree: If there is any good (done), He doubleth it, and giveth from His own presence a great reward.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا کسی کی ذرا بھی حق تلفی نہیں کرتا اور اگر نیکی (کی) ہوگی تو اس کو دوچند کردے گا اور اپنے ہاں سے اجرعظیم بخشے گا
 
 [Open on Quran.com](https://quran.com/4/40)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In whatever business thou mayest be, and whatever portion thou mayest be reciting from the Qur'an,- and whatever deed ye (mankind) may be doing,- We are witnesses thereof when ye are deeply engrossed therein. Nor is hidden from thy Lord (so much as) the weight of an atom on the earth or in heaven. And not the least and not the greatest of these things but are recorded in a clear record.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم جس حال میں ہوتے ہو یا قرآن میں کچھ پڑھتے ہو یا تم لوگ کوئی (اور) کام کرتے ہو جب اس میں مصروف ہوتے ہو ہم تمہارے سامنے ہوتے ہیں اور تمہارے پروردگار سے ذرہ برابر بھی کوئی چیز پوشیدہ نہیں ہے نہ زمین میں نہ آسمان میں اور نہ کوئی چیز اس سے چھوٹی ہے یا بڑی مگر کتاب روشن میں (لکھی ہوئی) ہے
+
 [Open on Quran.com](https://quran.com/10/61)
 
 #### 34:3 · [[034 Saba]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who disbelieve say, "The Hour will not come to us." Say, "Yes, by my Lord, it will surely come to you. [Allāh is] the Knower of the unseen." Not absent from Him is an atom's weight within the heavens or within the earth or [what is] smaller than that or greater, except that it is in a clear register -
 
 **English (Yusuf Ali):** The Unbelievers say, "Never to us will come the Hour": Say, "Nay! but most surely, by my Lord, it will come upon you;- by Him Who knows the unseen,- from Whom is not hidden the least little atom in the heavens or on earth: Nor is there anything less than that, or greater, but is in the Record Perspicuous:
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر کہتے ہیں کہ (قیامت کی) گھڑی ہم پر نہیں آئے گی۔ کہہ دو کیوں نہیں (آئے گی) میرے پروردگار کی قسم وہ تم پر ضرور آکر رہے گی (وہ پروردگار) غیب کا جاننے والا (ہے) ذرہ بھر چیز بھی اس سے پوشیدہ نہیں (نہ) آسمانوں میں اور نہ زمین میں اور کوئی چیز ذرے سے چھوٹی یا بڑی ایسی نہیں مگر کتاب روشن میں (لکھی ہوئی) ہے
 
 [Open on Quran.com](https://quran.com/34/3)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Call upon other (gods) whom ye fancy, besides Allah: They have no power,- not the weight of an atom,- in the heavens or on earth: No (sort of) share have they therein, nor is any of them a helper to Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ جن کو تم خدا کے سوا (معبود) خیال کرتے ہو ان کو بلاؤ۔ وہ آسمانوں اور زمین میں ذرہ بھر چیز کے بھی مالک نہیں ہیں اور نہ ان میں ان کی شرکت ہے اور نہ ان میں سے کوئی خدا کا مددگار ہے
+
 [Open on Quran.com](https://quran.com/34/22)
 
 #### 99:7 · [[099 Az-Zalzalah]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then shall anyone who has done an atom's weight of good, see it!
 
+**Urdu (Fatah Muhammad Jalandhari):** تو جس نے ذرہ بھر نیکی کی ہو گی وہ اس کو دیکھ لے گا
+
 [Open on Quran.com](https://quran.com/99/7)
 
 #### 99:8 · [[099 Az-Zalzalah]]
@@ -122,6 +132,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whoever does an atom's weight of evil will see it.
 
 **English (Yusuf Ali):** And anyone who has done an atom's weight of evil, shall see it.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس نے ذرہ بھر برائی کی ہوگی وہ اسے دیکھ لے گا
 
 [Open on Quran.com](https://quran.com/99/8)
 

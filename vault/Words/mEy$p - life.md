@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Ey$ - eysh]]
+- [[Ey$ - life sustenance]]
 
 ### Meaning
 **life** · Lemma **مَعِيشَة**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 20:124 · [[020 Taha]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whoever turns away from My remembrance - indeed, he will have a depressed [i.e., difficult] life, and We will gather [i.e., raise] him on the Day of Resurrection blind."
 
 **English (Yusuf Ali):** "But whosoever turns away from My Message, verily for him is a life narrowed down, and We shall raise him up blind on the Day of Judgment."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو میری نصیحت سے منہ پھیرے گا اس کی زندگی تنگ ہوجائے گی اور قیامت کو ہم اسے اندھا کرکے اٹھائیں گے
 
 [Open on Quran.com](https://quran.com/20/124)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And how many populations We destroyed, which exulted in their life (of ease and plenty)! now those habitations of theirs, after them, are deserted,- All but a (miserable) few! and We are their heirs!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بہت سی بستیوں کو ہلاک کر ڈالا جو اپنی (فراخی) معیشت میں اترا رہے تھے۔ سو یہ اُن کے مکانات ہیں جو اُن کے بعد آباد ہی نہیں ہوئے مگر بہت کم۔ اور اُن کے پیچھے ہم ہی اُن کے وارث ہوئے
+
 [Open on Quran.com](https://quran.com/28/58)
 
 #### 43:32 · [[043 Az-Zukhruf]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do they distribute the mercy of your Lord? It is We who have apportioned among them their livelihood in the life of this world and have raised some of them above others in degrees [of rank] that they may make use of one another for service. But the mercy of your Lord is better than whatever they accumulate.
 
 **English (Yusuf Ali):** Is it they who would portion out the Mercy of thy Lord? It is We Who portion out between them their livelihood in the life of this world: and We raise some of them above others in ranks, so that some may command work from others. But the Mercy of thy Lord is better than the (wealth) which they amass.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ تمہارے پروردگار کی رحمت کو بانٹتے ہیں؟ ہم نے ان میں ان کی معیشت کو دنیا کی زندگی میں تقسیم کردیا اور ایک کے دوسرے پر درجے بلند کئے تاکہ ایک دوسرے سے خدمت لے اور جو کچھ یہ جمع کرتے ہیں تمہارے پروردگار کی رحمت اس سے کہیں بہتر ہے
 
 [Open on Quran.com](https://quran.com/43/32)
 

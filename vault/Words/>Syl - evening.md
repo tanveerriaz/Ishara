@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:205 · [[007 Al-Araf]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And remember your Lord within yourself in humility and in fear without being apparent in speech - in the mornings and the evenings. And do not be among the heedless.
 
 **English (Yusuf Ali):** And do thou (O reader!) Bring thy Lord to remembrance in thy (very) soul, with humility and in reverence, without loudness in words, in the mornings and evenings; and be not thou of those who are unheedful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے پروردگار کو دل ہی دل میں عاجزی اور خوف سے اور پست آواز سے صبح وشام یاد کرتے رہو اور (دیکھنا) غافل نہ ہونا
 
 [Open on Quran.com](https://quran.com/7/205)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whatever beings there are in the heavens and the earth do prostrate themselves to Allah (Acknowledging subjection),- with good-will or in spite of themselves: so do their shadows in the morning and evenings.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جتنی مخلوقات آسمانوں اور زمین میں ہے خوشی سے یا زبردستی سے خدا کے آگے سجدہ کرتی ہے اور ان کے سائے بھی صبح وشام (سجدے کرتے ہیں)
+
 [Open on Quran.com](https://quran.com/13/15)
 
 #### 24:36 · [[024 An-Nur]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Such niches are] in houses [i.e., mosques] which Allāh has ordered to be raised and that His name be mentioned [i.e., praised] therein; exalting Him within them in the morning and the evenings
 
 **English (Yusuf Ali):** (Lit is such a Light) in houses, which Allah hath permitted to be raised to honour; for the celebration, in them, of His name: In them is He glorified in the mornings and in the evenings, (again and again),-
+
+**Urdu (Fatah Muhammad Jalandhari):** (وہ قندیل) ان گھروں میں (ہے) جن کے بارے میں خدا نے ارشاد فرمایا ہے کہ بلند کئے جائیں اور وہاں خدا کے نام کا ذکر کیا جائے (اور) ان میں صبح وشام اس کی تسبیح کرتے رہیں
 
 [Open on Quran.com](https://quran.com/24/36)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And they say: "Tales of the ancients, which he has caused to be written: and they are dictated before him morning and evening."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ یہ پہلے لوگوں کی کہانیاں ہیں جس کو اس نے لکھ رکھا ہے اور وہ صبح وشام اس کو پڑھ پڑھ کر سنائی جاتی ہیں
+
 [Open on Quran.com](https://quran.com/25/5)
 
 #### 33:42 · [[033 Al-Ahzab]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And exalt Him morning and afternoon.
 
 **English (Yusuf Ali):** And glorify Him morning and evening.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور صبح اور شام اس کی پاکی بیان کرتے رہو
 
 [Open on Quran.com](https://quran.com/33/42)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In order that ye (O men) may believe in Allah and His Messenger, that ye may assist and honour Him, and celebrate His praise morning and evening.
 
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ (مسلمانو) تم لوگ خدا پر اور اس کے پیغمبر پر ایمان لاؤ اور اس کی مدد کرو اور اس کو بزرگ سمجھو۔ اور صبح وشام اس کی تسبیح کرتے رہو
+
 [Open on Quran.com](https://quran.com/48/9)
 
 #### 76:25 · [[076 Al-Insan]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And mention the name of your Lord [in prayer] morning and evening
 
 **English (Yusuf Ali):** And celebrate the name of thy Lord morning and evening,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور صبح وشام اپنے پروردگار کا نام لیتے رہو
 
 [Open on Quran.com](https://quran.com/76/25)
 

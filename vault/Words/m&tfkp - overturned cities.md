@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>fk - afk]]
+- [[>fk - turn something away]]
 
 ### Meaning
 **overturned cities** · Lemma **مُؤْتَفِكَة**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:70 · [[009 At-Tawbah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Has there not reached them the news of those before them - the people of Noah and [the tribes of] ʿAad and Thamūd and the people of Abraham and the companions [i.e., dwellers] of Madyan and the towns overturned? Their messengers came to them with clear proofs. And Allāh would never have wronged them, but they were wronging themselves.
 
 **English (Yusuf Ali):** Hath not the story reached them of those before them?- the People of Noah, and 'Ad, and Thamud; the People of Abraham, the men of Midian, and the cities overthrown. To them came their messengers with clear signs. It is not Allah Who wrongs them, but they wrong their own souls.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان کو ان لوگوں (کے حالات) کی خبر نہیں پہنچی جو ان سے پہلے تھے (یعنی) نوح اور عاد اور ثمود کی قوم۔ اور ابراہیم کی قوم اور مدین والے اور الٹی ہوئی بستیوں والے۔ ان کے پاس پیغمبر نشانیاں لے لے کر آئے۔ اور خدا تو ایسا نہ تھا کہ ان پر ظلم کرتا لیکن وہی اپنے آپ پر ظلم کرتے تھے
 
 [Open on Quran.com](https://quran.com/9/70)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And He destroyed the Overthrown Cities (of Sodom and Gomorrah).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے الٹی ہوئی بستیوں کو دے پٹکا
+
 [Open on Quran.com](https://quran.com/53/53)
 
 #### 69:9 · [[069 Al-Haqqah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And there came Pharaoh and those before him and the overturned cities with sin.
 
 **English (Yusuf Ali):** And Pharaoh, and those before him, and the Cities Overthrown, committed habitual Sin.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور فرعون اور جو لوگ اس سے پہلے تھے اور وہ جو الٹی بستیوں میں رہتے تھے سب گناہ کے کام کرتے تھے
 
 [Open on Quran.com](https://quran.com/69/9)
 

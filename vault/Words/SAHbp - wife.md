@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:101 · [[006 Al-Anam]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [He is] Originator of the heavens and the earth. How could He have a son when He does not have a companion [i.e., wife] and He created all things? And He is, of all things, Knowing.
 
 **English (Yusuf Ali):** To Him is due the primal origin of the heavens and the earth: How can He have a son when He hath no consort? He created all things, and He hath full knowledge of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** (وہی) آسمانوں اور زمین کا پیدا کرنے والا (ہے)۔ اس کے اولاد کہاں سے ہو جب کہ اس کی بیوی ہی نہیں۔ اور اس نے ہر چیز کو پیدا کیا ہے۔ اور وہ ہر چیز سے باخبر ہے
 
 [Open on Quran.com](https://quran.com/6/101)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** His wife and his brother,
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی بیوی اور اپنے بھائی
+
 [Open on Quran.com](https://quran.com/70/12)
 
 #### 72:3 · [[072 Al-Jinn]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** 'And Exalted is the Majesty of our Lord: He has taken neither a wife nor a son.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ ہمارے پروردگار کی عظمت (شان) بہت بڑی ہے اور وہ نہ بیوی رکھتا ہے نہ اولاد
+
 [Open on Quran.com](https://quran.com/72/3)
 
 #### 80:36 · [[080 Abasa]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And his wife and his children,
 
 **English (Yusuf Ali):** And from his wife and his children.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی بیوی اور اپنے بیٹے سے
 
 [Open on Quran.com](https://quran.com/80/36)
 

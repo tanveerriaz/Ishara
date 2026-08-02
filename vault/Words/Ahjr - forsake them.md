@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[hjr - hjr]]
+- [[hjr - cut off]]
 
 ### Meaning
 **forsake them** · Lemma **اهْجُرْ**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:34 · [[004 An-Nisa]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Men are in charge of women by [right of] what Allāh has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allāh would have them guard. But those [wives] from whom you fear arrogance - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them [lightly]. But if they obey you [once more], seek no means against them. Indeed, Allāh is ever Exalted and Grand.
 
 **English (Yusuf Ali):** Men are the protectors and maintainers of women, because Allah has given the one more (strength) than the other, and because they support them from their means. Therefore the righteous women are devoutly obedient, and guard in (the husband's) absence what Allah would have them guard. As to those women on whose part ye fear disloyalty and ill-conduct, admonish them (first), (Next), refuse to share their beds, (And last) beat them (lightly); but if they return to obedience, seek not against them Means (of annoyance): For Allah is Most High, great (above you all).
+
+**Urdu (Fatah Muhammad Jalandhari):** مرد عورتوں پر مسلط وحاکم ہیں اس لئے کہ خدا نے بعض کو بعض سے افضل بنایا ہے اور اس لئے بھی کہ مرد اپنا مال خرچ کرتے ہیں تو جو نیک بیبیاں ہیں وہ مردوں کے حکم پر چلتی ہیں اور ان کے پیٹھ پیچھے خدا کی حفاظت میں (مال وآبرو کی) خبرداری کرتی ہیں اور جن عورتوں کی نسبت تمہیں معلوم ہو کہ سرکشی (اور بدخوئی) کرنے لگی ہیں تو (پہلے) ان کو (زبانی) سمجھاؤ (اگر نہ سمجھیں تو) پھر ان کے ساتھ سونا ترک کردو اگر اس پر بھی باز نہ آئیں تو زدوکوب کرو اور اگر فرمانبردار ہوجائیں تو پھر ان کو ایذا دینے کا کوئی بہانہ مت ڈھونڈو بےشک خدا سب سے اعلیٰ (اور) جلیل القدر ہے
 
 [Open on Quran.com](https://quran.com/4/34)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (The father) replied: "Dost thou hate my gods, O Abraham? If thou forbear not, I will indeed stone thee: Now get away from me for a good long while!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اس نے کہا ابراہیم کیا تو میرے معبودوں سے برگشتہ ہے؟ اگر تو باز نہ آئے گا تو میں تجھے سنگسار کردوں گا اور تو ہمیشہ کے لئے مجھ سے دور ہوجا
+
 [Open on Quran.com](https://quran.com/19/46)
 
 #### 23:67 · [[023 Al-Muminun]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** In arrogance regarding it, conversing by night, speaking evil.
 
 **English (Yusuf Ali):** "In arrogance: talking nonsense about the (Qur'an), like one telling fables by night."
+
+**Urdu (Fatah Muhammad Jalandhari):** ان سے سرکشی کرتے، کہانیوں میں مشغول ہوتے اور بیہودہ بکواس کرتے تھے
 
 [Open on Quran.com](https://quran.com/23/67)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And have patience with what they say, and leave them with noble (dignity).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو جو (دل آزار) باتیں یہ لوگ کہتے ہیں ان کو سہتے رہو اور اچھے طریق سے ان سے کنارہ کش رہو
+
 [Open on Quran.com](https://quran.com/73/10)
 
 #### 74:5 · [[074 Al-Muddaththir]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And uncleanliness avoid.
 
 **English (Yusuf Ali):** And all abomination shun!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ناپاکی سے دور رہو
 
 [Open on Quran.com](https://quran.com/74/5)
 

@@ -14,83 +14,83 @@ The Light · 64 ayahs
 
 ## Words in this surah (graph)
 
+- [[rmY - accuse]] — `رَمَى` · accuse
+- [[Ast>*n - ask permission]] — `اسْتَأْذَنَ` · ask permission
 - [[>rbE - forty]] — `أَرْبَع` · forty
 - [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[Ast>*n - ask permission]] — `اسْتَأْذَنَ` · ask permission
-- [[rmY - accuse]] — `رَمَى` · accuse
-- [[mHSnp - chaste women]] — `مُحْصَنَة` · chaste women
-- [[nkAH - marriage]] — `نِكاح` · marriage
-- [[>rbEp - four]] — `أَرْبَعَة` · four
-- [[Tfl - as child]] — `طِفْل` · as child
-- [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[mbArkp - blessed]] — `مُبارَكَة` · blessed
 - [[ygD - lower]] — `يَغُضُّ` · lower
 - [[frj - chastity]] — `فَرْج` · chastity
-- [[Hlm - dreams]] — `حُلُم` · dreams
+- [[sHAb - clouds]] — `سَحاب` · clouds
+- [[mHSnp - chaste women]] — `مُحْصَنَة` · chaste women
+- [[>rbEp - four]] — `أَرْبَعَة` · four
+- [[>xt - sisters]] — `أُخْت` · sisters
+- [[>zkY - purer]] — `أَزْكَى` · purer
 - [[mbynp - clear]] — `مُبَيِّنَة` · clear
 - [[HfZ - guard]] — `حِفْظ` · guard
-- [[>xt - sisters]] — `أُخْت` · sisters
-- [[sHAb - clouds]] — `سَحاب` · clouds
 - [[vyAb - garments]] — `ثِياب` · garments
+- [[Tfl - as child]] — `طِفْل` · as child
+- [[mbArkp - blessed]] — `مُبارَكَة` · blessed
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
 - [[<fk - lie]] — `إِفْك` · lie
-- [[>zkY - purer]] — `أَزْكَى` · purer
-- [[dEA - call]] — `دَعا` · call
-- [[nAr - fire]] — `نار` · fire
-- [[lyl - night]] — `لَيْل` · night
-- [[zkY - purify them]] — `زَكَّى` · purify them
-- [[wEZ - admonished]] — `وَعَظْ` · admonished
+- [[Hlm - dreams]] — `حُلُم` · dreams
+- [[nkAH - marriage]] — `نِكاح` · marriage
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[>Hd - anyone]] — `أَحَد` · anyone
 
 ## Roots
 
 - [[$>n - matter]]
-- [[$Tn - shtn]]
-- [[$hd - shhd]]
-- [[$jr - shjr]]
-- [[$kw - shkw]]
+- [[$Tn - anything excessively proud]]
+- [[$hd - witnessing]]
+- [[$jr - trees]]
+- [[$kw - complain show grief]]
 - [[$rk - sharing partnership]]
-- [[$rq - east]]
+- [[$rq - earth]]
 - [[$rr - sparks fire]]
 - [[$tt - scatter]]
 - [[$y> - thing]]
-- [[$yE - shye]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
-- [[>*n - adhn]]
+- [[$yE - follow cause follow]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
+- [[>*n - ear]]
 - [[>Hd - anyone]]
 - [[>Sl - foundational part something]]
-- [[>bd - abad]]
-- [[>bw - abw]]
-- [[>fk - afk]]
+- [[>bd - absolute long]]
+- [[>bw - forefathers]]
+- [[>fk - turn something away]]
 - [[>hl - people house]]
 - [[>kl - eat]]
-- [[>lf - alifa]]
-- [[>lm - alm]]
+- [[>lf - become familiar]]
+- [[>lm - painful]]
 - [[>lw - ila]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - athm]]
+- [[>vm - sin commit crime]]
 - [[>wy - betake oneself place]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
-- [[Drb - tent]]
-- [[Dw> - dwa]]
-- [[E$w - eshw]]
-- [[E*b - edhb]]
+- [[Drb - strike beat]]
+- [[Dw> - light]]
+- [[E$w - eating evening meal]]
+- [[E*b - motes particles floating]]
 - [[ESb - twist]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Ebd - worship]]
-- [[Ebr - ebr]]
+- [[Ebr - cross pass something]]
 - [[Eff - chaste]]
-- [[Efw - efw]]
+- [[Efw - efface obliterate]]
 - [[Ejz - old age weakness]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emm - paternal aunts]]
 
 ## Sample (ayah 1)

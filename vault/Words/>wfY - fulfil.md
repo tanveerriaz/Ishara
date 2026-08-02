@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:40 · [[002 Al-Baqarah]]
 
@@ -54,6 +54,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O Children of Israel, remember My favor which I have bestowed upon you and fulfill My covenant [upon you] that I will fulfill your covenant [from Me], and be afraid of [only] Me.
 
 **English (Yusuf Ali):** O Children of Israel! call to mind the (special) favour which I bestowed upon you, and fulfil your covenant with Me as I fulfil My Covenant with you, and fear none but Me.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے یعقوب کی اولاد! میرے وہ احسان یاد کرو جو میں نے تم پر کئے تھے اور اس اقرار کو پورا کرو جو تم نے مجھ سے کیا تھا۔ میں اس اقرار کو پورا کروں گا جو میں نے تم سے کیا تھا اور مجھی سے ڈرتے رہو
 
 [Open on Quran.com](https://quran.com/2/40)
 
@@ -71,6 +73,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nay.- Those that keep their plighted faith and act aright,-verily Allah loves those who act aright.
 
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جو شخص اپنے اقرار کو پورا کرے اور (خدا سے) ڈرے تو خدا ڈرنے والوں کو دوست رکھتا ہے
+
 [Open on Quran.com](https://quran.com/3/76)
 
 #### 5:1 · [[005 Al-Maidah]]
@@ -86,6 +90,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, fulfill [all] contracts. Lawful for you are the animals of grazing livestock except for that which is recited to you [in this Qur’ān] - hunting not being permitted while you are in the state of iḥrām. Indeed, Allāh ordains what He intends.
 
 **English (Yusuf Ali):** O ye who believe! fulfil (all) obligations. Lawful unto you (for food) are all four-footed animals, with the exceptions named: But animals of the chase are forbidden while ye are in the sacred precincts or in pilgrim garb: for Allah doth command according to His will and plan.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! اپنے اقراروں کو پورا کرو۔ تمہارے لیے چارپائے جانور (جو چرنے والے ہیں) حلال کر دیئے گئے ہیں۔ بجز ان کے جو تمہیں پڑھ کر سنائے جاتے ہیں مگر احرام (حج) میں شکار کو حلال نہ جاننا۔ خدا جیسا چاہتا ہے حکم دیتا ہے
 
 [Open on Quran.com](https://quran.com/5/1)
 
@@ -103,6 +109,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And come not nigh to the orphan's property, except to improve it, until he attain the age of full strength; give measure and weight with (full) justice;- no burden do We place on any soul, but that which it can bear;- whenever ye speak, speak justly, even if a near relative is concerned; and fulfil the covenant of Allah: thus doth He command you, that ye may remember.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ جانا مگر ایسے طریق سے کہ بہت ہی پسندیدہ ہو یہاں تک کہ وہ جوانی کو پہنچ جائے اور ناپ تول انصاف کے ساتھ پوری پوری کیا کرو ہم کسی کو تکلیف نہیں دیتے مگر اس کی طاقت کے مطابق اور جب (کسی کی نسبت) کوئی بات کہو تو انصاف سے کہو گو وہ (تمہارا) رشتہ دار ہی ہو اور خدا کے عہد کو پورا کرو ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم نصحیت کرو
+
 [Open on Quran.com](https://quran.com/6/152)
 
 #### 7:85 · [[007 Al-Araf]]
@@ -118,6 +126,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And to [the people of] Madyan [We sent] their brother Shuʿayb. He said, "O my people, worship Allāh; you have no deity other than Him. There has come to you clear evidence from your Lord. So fulfill the measure and weight and do not deprive people of their due and cause not corruption upon the earth after its reformation. That is better for you, if you should be believers.
 
 **English (Yusuf Ali):** To the Madyan people We sent Shu'aib, one of their own brethren: he said: "O my people! worship Allah; Ye have no other god but Him. Now hath come unto you a clear (Sign) from your Lord! Give just measure and weight, nor withhold from the people the things that are their due; and do no mischief on the earth after it has been set in order: that will be best for you, if ye have Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مَدین کی طرف ان کے بھائی شعیب کو بھیجا۔ (تو) انہوں نے کہا کہ قوم! خدا ہی کی عبادت کرو اس کے سوا تمہارا کوئی معبود نہیں۔ تمہارے پاس تمہارے پروردگار کی طرف سے نشانی آچکی ہے تو تم ناپ تول پوری کیا کرو اور لوگوں کو چیزیں کم نہ دیا کرو۔ اور زمین میں اصلاح کے بعد خرابی نہ کرو۔ اگر تم صاحب ایمان ہو تو سمجھ لو کہ یہ بات تمہارے حق میں بہتر ہے
 
 [Open on Quran.com](https://quran.com/7/85)
 
@@ -135,6 +145,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah hath purchased of the believers their persons and their goods; for theirs (in return) is the garden (of Paradise): they fight in His cause, and slay and are slain: a promise binding on Him in truth, through the Law, the Gospel, and the Qur'an: and who is more faithful to his covenant than Allah? then rejoice in the bargain which ye have concluded: that is the achievement supreme.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے مومنوں سے ان کی جانیں اور ان کے مال خرید لیے ہیں (اور اس کے) عوض ان کے لیے بہشت (تیار کی) ہے۔ یہ لوگ خدا کی راہ میں لڑتے ہیں تو مارتے بھی ہیں اور مارے بھی جاتے ہیں بھی ہیں۔ یہ تورات اور انجیل اور قرآن میں سچا وعدہ ہے۔ جس کا پورا کرنا اسے ضرور ہے اور خدا سے زیادہ وعدہ پورا کرنے والا کون ہے تو جو سودا تم نے اس سے کیا ہے اس سے خوش رہو۔ اور یہی بڑی کامیابی ہے
+
 [Open on Quran.com](https://quran.com/9/111)
 
 #### 11:85 · [[011 Hud]]
@@ -150,6 +162,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And O my people, give full measure and weight in justice and do not deprive the people of their due and do not commit abuse on the earth, spreading corruption.
 
 **English (Yusuf Ali):** "And O my people! give just measure and weight, nor withhold from the people the things that are their due: commit not evil in the land with intent to do mischief.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور قوم! ماپ اور تول انصاف کے ساتھ پوری پوری کیا کرو اور لوگوں کو ان کی چیزیں کم نہ دیا کرو اور زمین میں خرابی کرتے نہ پھرو
 
 [Open on Quran.com](https://quran.com/11/85)
 
@@ -167,6 +181,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And when he had furnished them forth with provisions (suitable) for them, he said: "Bring unto me a brother ye have, of the same father as yourselves, (but a different mother): see ye not that I pay out full measure, and that I do provide the best hospitality?
 
+**Urdu (Fatah Muhammad Jalandhari):** جب یوسف نے ان کے لیے ان کا سامان تیار کر دیا تو کہا کہ (پھر آنا تو) جو باپ کی طرف سے تمہارا ایک اور بھائی ہے اسے بھی میرے پاس لیتے آنا۔ کیا تم نہیں دیکھتے کہ میں ناپ بھی پوری پوری دیتا ہوں اور مہمانداری بھی خوب کرتا ہوں
+
 [Open on Quran.com](https://quran.com/12/59)
 
 #### 12:88 · [[012 Yusuf]]
@@ -183,6 +199,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then, when they came (back) into (Joseph's) presence they said: "O exalted one! distress has seized us and our family: we have (now) brought but scanty capital: so pay us full measure, (we pray thee), and treat it as charity to us: for Allah doth reward the charitable."
 
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ یوسف کے پاس گئے تو کہنے لگے کہ عزیز ہمیں اور ہمارے اہل وعیال کو بڑی تکلیف ہو رہی ہے اور ہم تھوڑا سا سرمایہ لائے ہیں آپ ہمیں (اس کے عوض) پورا غلّہ دے دیجیئے اور خیرات کیجیئے۔ کہ خدا خیرات کرنے والوں کو ثواب دیتا ہے
+
 [Open on Quran.com](https://quran.com/12/88)
 
 #### 13:20 · [[013 Ar-Rad]]
@@ -198,6 +216,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who fulfill the covenant of Allāh and do not break the contract,
 
 **English (Yusuf Ali):** Those who fulfil the covenant of Allah and fail not in their plighted word;
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے عہد کو پورا کرتے ہیں اور اقرار کو نہیں توڑتے
 
 [Open on Quran.com](https://quran.com/13/20)
 

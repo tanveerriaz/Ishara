@@ -14,50 +14,50 @@ The Nightcommer · 17 ayahs
 
 ## Words in this surah (graph)
 
-- [[qwp - strength]] — `قُوَّة` · strength
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[byn - between them]] — `بَيْن` · between them
+- [[mhl - like molten brass]] — `مُهْل` · like molten brass
+- [[njm - stars]] — `نَجْم` · stars
+- [[kAfr - disbelievers]] — `كافِر` · disbelievers
+- [[>rD - earth]] — `أَرْض` · earth
 - [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[byn - between them]] — `بَيْن` · between them
+- [[<nsAn - man]] — `إِنسان` · man
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[nASr - helpers]] — `ناصِر` · helpers
 - [[qwl - speech]] — `قَوْل` · speech
 - [[qAdr - able]] — `قادِر` · able
-- [[njm - stars]] — `نَجْم` · stars
-- [[mhl - like molten brass]] — `مُهْل` · like molten brass
-- [[HAfZ - guardians]] — `حافِظ` · guardians
-- [[nASr - helpers]] — `ناصِر` · helpers
-- [[rjE - return]] — `رَجَعَ` · return
-- [[fSl - we explain]] — `فَصَلَ` · we explain
-- [[mA' - water]] — `ماء` · water
+- [[kl - every]] — `كُلّ` · every
 - [[blw - test you]] — `بَلَوْ` · test you
-- [[kAfr - disbelievers]] — `كافِر` · disbelievers
+- [[mA' - water]] — `ماء` · water
+- [[nZr - see]] — `نَظَرَ` · see
+- [[rjE - return]] — `رَجَعَ` · return
 - [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[qwp - strength]] — `قُوَّة` · strength
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[fSl - we explain]] — `فَصَلَ` · we explain
 - [[ywm - day]] — `يَوْم` · day
 - [[Slb - loins]] — `صُلْب` · loins
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[<nsAn - man]] — `إِنسان` · man
-- [[>rD - earth]] — `أَرْض` · earth
-- [[kl - every]] — `كُلّ` · every
-- [[nZr - see]] — `نَظَرَ` · see
+- [[HAfZ - guardians]] — `حافِظ` · guardians
 - [[kyd - plot]] — `كَيْد` · plot
 
 ## Roots
 
-- [[>ns - ans]]
-- [[>rD - ard]]
-- [[HfZ - hfzh]]
-- [[SdE - sde]]
-- [[Slb - slb]]
-- [[Trq - trq]]
-- [[blw - blw]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
+- [[HfZ - keep]]
+- [[SdE - cleave]]
+- [[Slb - hardness]]
+- [[Trq - strike beat]]
+- [[blw - test try]]
 - [[byn - clear]]
 - [[dry - know]]
 - [[fSl - separate]]
 - [[kfr - disbelieve]]
 - [[kll - every]]
-- [[kyd - kyd]]
+- [[kyd - deceive]]
 - [[mhl - act gently leisurely]]
-- [[mwh - mwh]]
-- [[nSr - nsr]]
+- [[mwh - coat something]]
+- [[nSr - aid]]
 - [[nZr - look at towards]]
 - [[nfs - soul]]
 - [[njm - star constellation]]
@@ -65,12 +65,12 @@ The Nightcommer · 17 ayahs
 - [[qwl - qawala]]
 - [[qwy - strength]]
 - [[rjE - return]]
-- [[rwd - rwd]]
+- [[rwd - he intends]]
 - [[smw - name]]
 - [[srr - secretly]]
-- [[trb - dust]]
+- [[trb - earth]]
 - [[xlq - create]]
-- [[xrj - khrj]]
+- [[xrj - go come out]]
 - [[ywm - day]]
 
 ## Sample (ayah 1)

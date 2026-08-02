@@ -15,56 +15,56 @@ The Most High · 19 ayahs
 ## Words in this surah (graph)
 
 - [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[>$qY - wretched one]] — `أَشْقَى` · wretched one
-- [[SlY - send blessings]] — `صَلَّى` · send blessings
-- [[HyAp - life]] — `حَياة` · life
-- [[nAr - fire]] — `نار` · fire
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[>ElY - highest]] — `أَعْلَى` · highest
-- [[allah - God]] — `الله` · God
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[dnyA - world]] — `دُنْيا` · world
-- [[>bqY - more lasting]] — `أَبْقَى` · more lasting
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[kbrY - greatest]] — `كُبْرَى` · greatest
-- [[ysr - ease]] — `يُسْر` · ease
-- [[yxfY - hidden]] — `يَخْفَى` · hidden
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[jhr - loud]] — `جَهْر` · loud
-- [[HY - we live]] — `حَىَّ` · we live
 - [[Avr - but prefer]] — `آثَرَ` · but prefer
-- [[Elm - know]] — `عَلِمَ` · know
-- [[xyr - better]] — `خَيْر` · better
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[HY - we live]] — `حَىَّ` · we live
+- [[HyAp - life]] — `حَياة` · life
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[x$y - fear]] — `خَشِيَ` · fear
+- [[SlY - send blessings]] — `صَلَّى` · send blessings
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[jhr - loud]] — `جَهْر` · loud
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[dnyA - world]] — `دُنْيا` · world
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[rb - lord]] — `رَبّ` · lord
+- [[*krY - reminder]] — `ذِكْرَى` · reminder
+- [[nsy - they forgot]] — `نَسِيَ` · they forgot
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[>ElY - highest]] — `أَعْلَى` · highest
 - [[Asm - name]] — `اسْم` · name
+- [[Elm - know]] — `عَلِمَ` · know
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
+- [[>bqY - more lasting]] — `أَبْقَى` · more lasting
+- [[>wl - first]] — `أَوَّل` · first
 
 ## Roots
 
-- [[$qw - shqw]]
+- [[$qw - unblessed]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
-- [[>vr - athr]]
-- [[>wl - like milk oil]]
-- [[>xr - akhr]]
+- [[*kr - remember recall something]]
+- [[>vr - trace]]
+- [[>wl - return revert original]]
+- [[>xr - final part something]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
 - [[Hyy - life]]
 - [[SHf - scriptures]]
 - [[Slw - prayer]]
-- [[Sly - sly]]
+- [[Sly - exposed fire heat]]
 - [[allah - God]]
 - [[bqy - remain]]
 - [[dnw - become near]]
 - [[flH - cleave split]]
 - [[hdy - guide]]
 - [[jEl - we made]]
-- [[jhr - jhr]]
-- [[jnb - jnb]]
-- [[kbr - kbr]]
+- [[jhr - make something plain]]
+- [[jnb - side person object]]
+- [[kbr - greater]]
 - [[mwt - death]]
-- [[nfE - nfe]]
+- [[nfE - profit]]
 - [[nsy - forget]]
 - [[nwr - brand mark camels]]
 - [[qdr - measuring]]
@@ -73,13 +73,13 @@ The Most High · 19 ayahs
 - [[rbb - Lord]]
 - [[sbH - glory]]
 - [[smw - name]]
-- [[swy - swy]]
+- [[swy - make even]]
 - [[x$y - fear]]
-- [[xfy - khfy]]
+- [[xfy - hidden]]
 - [[xlq - create]]
-- [[xrj - khrj]]
-- [[xyr - khyr]]
-- [[ysr - ysr]]
+- [[xrj - go come out]]
+- [[xyr - better]]
+- [[ysr - easy]]
 - [[zkw - purify]]
 
 ## Sample (ayah 1)

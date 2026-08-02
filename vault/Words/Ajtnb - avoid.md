@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jnb - jnb]]
+- [[jnb - side person object]]
 
 ### Meaning
 **avoid** · Lemma **اجْتَنَبُ**
@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:31 · [[004 An-Nisa]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If you avoid the major sins which you are forbidden, We will remove from you your lesser sins and admit you to a noble entrance [into Paradise].
 
 **English (Yusuf Ali):** If ye (but) eschew the most heinous of the things which ye are forbidden to do, We shall expel out of you all the evil in you, and admit you to a gate of great honour.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم بڑے بڑے گناہوں سے جن سے تم کو منع کیا جاتا ہے اجتناب رکھو گے تو ہم تمہارے (چھوٹے چھوٹے) گناہ معاف کردیں گے اور تمہیں عزت کے مکانوں میں داخل کریں گے
 
 [Open on Quran.com](https://quran.com/4/31)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Intoxicants and gambling, (dedication of) stones, and (divination by) arrows, are an abomination,- of Satan's handwork: eschew such (abomination), that ye may prosper.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! شراب اور جوا اور بت اور پاسے (یہ سب) ناپاک کام اعمال شیطان سے ہیں سو ان سے بچتے رہنا تاکہ نجات پاؤ
+
 [Open on Quran.com](https://quran.com/5/90)
 
 #### 16:36 · [[016 An-Nahl]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We certainly sent into every nation a messenger, [saying], "Worship Allāh and avoid ṭāghūt." And among them were those whom Allāh guided, and among them were those upon whom error was [deservedly] decreed. So proceed [i.e., travel] through the earth and observe how was the end of the deniers.
 
 **English (Yusuf Ali):** For We assuredly sent amongst every People a messenger, (with the Command), "Serve Allah, and eschew Evil": of the People were some whom Allah guided, and some on whom error became inevitably (established). So travel through the earth, and see what was the end of those who denied (the Truth).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ہر جماعت میں پیغمبر بھیجا کہ خدا ہی کی عبادت کرو اور بتوں (کی پرستش) سے اجتناب کرو۔ تو ان میں بعض ایسے ہیں جن کو خدا نے ہدایت دی اور بعض ایسے ہیں جن پر گمراہی ثابت ہوئی۔ سو زمین پر چل پھر کر دیکھ لو کہ جھٹلانے والوں کا انجام کیسا ہوا
 
 [Open on Quran.com](https://quran.com/16/36)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Such (is the Pilgrimage): whoever honours the sacred rites of Allah, for him it is good in the Sight of his Lord. Lawful to you (for food in Pilgrimage) are cattle, except those mentioned to you (as exception): but shun the abomination of idols, and shun the word that is false,-
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ (ہمارا حکم ہے) جو شخص ادب کی چیزوں کی جو خدا نے مقرر کی ہیں عظمت رکھے تو یہ پروردگار کے نزدیک اس کے حق میں بہتر ہے۔ اور تمہارے لئے مویشی حلال کردیئے گئے ہیں۔ سوا ان کے جو تمہیں پڑھ کر سنائے جاتے ہیں تو بتوں کی پلیدی سے بچو اور جھوٹی بات سے اجتناب کرو
+
 [Open on Quran.com](https://quran.com/22/30)
 
 #### 39:17 · [[039 Az-Zumar]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who have avoided ṭāghūt, lest they worship it, and turned back to Allāh - for them are good tidings. So give good tidings to My servants
 
 **English (Yusuf Ali):** Those who eschew Evil,- and fall not into its worship,- and turn to Allah (in repentance),- for them is Good News: so announce the Good News to My Servants,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے اس سے اجتناب کیا کہ بتوں کو پوجیں اور خدا کی طرف رجوع کیا ان کے لئے بشارت ہے۔ تو میرے بندوں کو بشارت سنا دو
 
 [Open on Quran.com](https://quran.com/39/17)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who avoid the greater crimes and shameful deeds, and, when they are angry even then forgive;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو بڑے بڑے گناہوں اور بےحیائی کی باتوں سے پرہیز کرتے ہیں۔ اور جب غصہ آتا ہے تو معاف کردیتے ہیں
+
 [Open on Quran.com](https://quran.com/42/37)
 
 #### 49:12 · [[049 Al-Hujurat]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Avoid suspicion as much (as possible): for suspicion in some cases is a sin: And spy not on each other behind their backs. Would any of you like to eat the flesh of his dead brother? Nay, ye would abhor it... But fear Allah: For Allah is Oft-Returning, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان! بہت گمان کرنے سے احتراز کرو کہ بعض گمان گناہ ہیں۔ اور ایک دوسرے کے حال کا تجسس نہ کیا کرو اور نہ کوئی کسی کی غیبت کرے۔ کیا تم میں سے کوئی اس بات کو پسند کرے گا کہ اپنے مرے ہوئے بھائی کا گوشت کھائے؟ اس سے تو تم ضرور نفرت کرو گے۔ (تو غیبت نہ کرو) اور خدا کا ڈر رکھو بےشک خدا توبہ قبول کرنے والا مہربان ہے
+
 [Open on Quran.com](https://quran.com/49/12)
 
 #### 53:32 · [[053 An-Najm]]
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who avoid the major sins and immoralities, only [committing] slight ones. Indeed, your Lord is vast in forgiveness. He was most knowing of you when He produced you from the earth and when you were fetuses in the wombs of your mothers. So do not claim yourselves to be pure; He is most knowing of who fears Him.
 
 **English (Yusuf Ali):** Those who avoid great sins and shameful deeds, only (falling into) small faults,- verily thy Lord is ample in forgiveness. He knows you well when He brings you out of the earth, And when ye are hidden in your mothers' wombs. Therefore justify not yourselves: He knows best who it is that guards against evil.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو صغیرہ گناہوں کے سوا بڑے بڑے گناہوں اور بےحیائی کی باتوں سے اجتناب کرتے ہیں۔ بےشک تمہارا پروردگار بڑی بخشش والا ہے۔ وہ تم کو خوب جانتا ہے۔ جب اس نے تم کو مٹی سے پیدا کیا اور جب تم اپنی ماؤں کے پیٹ میں بچّے تھے۔ تو اپنے آپ کو پاک صاف نہ جتاؤ۔ جو پرہیزگار ہے وہ اس سے خوب واقف ہے
 
 [Open on Quran.com](https://quran.com/53/32)
 

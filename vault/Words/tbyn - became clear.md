@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:109 · [[002 Al-Baqarah]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Many of the People of the Scripture wish they could turn you back to disbelief after you have believed, out of envy from themselves [even] after the truth has become clear to them. So pardon and overlook until Allāh delivers His command. Indeed, Allāh is over all things competent.
 
 **English (Yusuf Ali):** Quite a number of the People of the Book wish they could Turn you (people) back to infidelity after ye have believed, from selfish envy, after the Truth hath become Manifest unto them: But forgive and overlook, Till Allah accomplish His purpose; for Allah Hath power over all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** بہت سے اہل کتاب اپنے دل کی جلن سے یہ چاہتے ہیں کہ ایمان لا چکنے کے بعد تم کو پھر کافر بنا دیں۔ حالانکہ ان پر حق ظاہر ہو چکا ہے۔ تو تم معاف کردو اور درگزر کرو۔ یہاں تک کہ خدا اپنا (دوسرا) حکم بھیجے۔ بے شک خدا ہر بات پر قادر ہے
 
 [Open on Quran.com](https://quran.com/2/109)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Permitted to you, on the night of the fasts, is the approach to your wives. They are your garments and ye are their garments. Allah knoweth what ye used to do secretly among yourselves; but He turned to you and forgave you; so now associate with them, and seek what Allah Hath ordained for you, and eat and drink, until the white thread of dawn appear to you distinct from its black thread; then complete your fast Till the night appears; but do not associate with your wives while ye are in retreat in the mosques. Those are Limits (set by) Allah: Approach not nigh thereto. Thus doth Allah make clear His Signs to men: that they may learn self-restraint.
 
+**Urdu (Fatah Muhammad Jalandhari):** روزوں کی راتوں میں تمہارے لئے اپنی عورتوں کے پاس جانا کردیا گیا ہے وہ تمہاری پوشاک ہیں اور تم ان کی پوشاک ہو خدا کو معلوم ہے کہ تم (ان کے پاس جانے سے) اپنے حق میں خیانت کرتے تھے سو اس نے تم پر مہربانی کی اور تمہاری حرکات سےدرگزرفرمائی۔اب (تم کو اختیار ہے کہ) ان سے مباشرت کرو۔ اور خدا نے جو چیز تمہارے لئے لکھ رکھی ہے (یعنی اولاد) اس کو (خدا سے) طلب کرو اور کھاؤ پیو یہاں تک کہ صبح کی سفید دھاری (رات کی) سیاہ دھاری سے الگ نظر آنے لگے۔ پھر روزہ (رکھ کر) رات تک پورا کرو اور جب تم مسجدوں میں اعتکاف بیٹھے ہو تو ان سے مباشرت نہ کرو۔ یہ خدا کی حدیں ہیں ان کے پاس نہ جانا۔ اسی طرح خدا اپنی آیتیں لوگوں کے (سمجھانے کے) لئے کھول کھول کر بیان فرماتا ہے تاکہ وہ پرہیزگار بنیں
+
 [Open on Quran.com](https://quran.com/2/187)
 
 #### 2:256 · [[002 Al-Baqarah]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** There shall be no compulsion in [acceptance of] the religion. The right course has become distinct from the wrong. So whoever disbelieves in ṭāghūt and believes in Allāh has grasped the most trustworthy handhold with no break in it. And Allāh is Hearing and Knowing.
 
 **English (Yusuf Ali):** Let there be no compulsion in religion: Truth stands out clear from Error: whoever rejects evil and believes in Allah hath grasped the most trustworthy hand-hold, that never breaks. And Allah heareth and knoweth all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** دین (اسلام) میں زبردستی نہیں ہے ہدایت (صاف طور پر ظاہر اور) گمراہی سے الگ ہو چکی ہے تو جو شخص بتوں سے اعتقاد نہ رکھے اور خدا پر ایمان لائے اس نے ایسی مضبوط رسی ہاتھ میں پکڑ لی ہے جو کبھی ٹوٹنے والی نہیں اور خدا (سب کچھ) سنتا اور (سب کچھ) جانتا ہے
 
 [Open on Quran.com](https://quran.com/2/256)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall Allah bring it (ever) to life, after (this) its death?" but Allah caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that Allah hath power over all things."
 
+**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/2/259)
 
 #### 4:94 · [[004 An-Nisa]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, when you go forth [to fight] in the cause of Allāh, investigate; and do not say to one who gives you [a greeting of] peace, "You are not a believer," aspiring for the goods of worldly life; for with Allāh are many acquisitions. You [yourselves] were like that before; then Allāh conferred His favor [i.e., guidance] upon you, so investigate. Indeed Allāh is ever, of what you do, Aware.
 
 **English (Yusuf Ali):** O ye who believe! When ye go abroad in the cause of Allah, investigate carefully, and say not to any one who offers you a salutation: "Thou art none of a believer!" Coveting the perishable goods of this life: with Allah are profits and spoils abundant. Even thus were ye yourselves before, till Allah conferred on you His favours: Therefore carefully investigate. For Allah is well aware of all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم خدا کی راہ میں باہر نکلو کرو تو تحقیق سے کام لیا کرو اور جو شخص تم سے سلام علیک کرے اس سے یہ نہ کہو کہ تم مومن نہیں اور اس سے تمہاری غرض یہ ہو کہ دنیا کی زندگی کا فائدہ حاصل کرو سو خدا کے نزدیک بہت سے غنیمتیں ہیں تم بھی تو پہلے ایسے ہی تھے پھر خدا نے تم پر احسان کیا تو (آئندہ) تحقیق کرلیا کرو اور جو عمل تم کرتے ہو خدا کو سب کی خبر ہے
 
 [Open on Quran.com](https://quran.com/4/94)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If anyone contends with the Messenger even after guidance has been plainly conveyed to him, and follows a path other than that becoming to men of Faith, We shall leave him in the path he has chosen, and land him in Hell,- what an evil refuge!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص سیدھا رستہ معلوم ہونے کے بعد پیغمبر کی مخالف کرے اور مومنوں کے رستے کے سوا اور رستے پر چلے تو جدھر وہ چلتا ہے ہم اسے ادھر ہی چلنے دیں گے اور (قیامت کے دن) جہنم میں داخل کریں گے اور وہ بری جگہ ہے
+
 [Open on Quran.com](https://quran.com/4/115)
 
 #### 8:6 · [[008 Al-Anfal]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Arguing with you concerning the truth after it had become clear, as if they were being driven toward death while they were looking on.
 
 **English (Yusuf Ali):** Disputing with thee concerning the truth after it was made manifest, as if they were being driven to death and they (actually) saw it.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ لوگ حق بات میں اس کے ظاہر ہوئے پیچھے تم سے جھگڑنے لگے گویا موت کی طرف دھکیلے جاتے ہیں اور اسے دیکھ رہے ہیں
 
 [Open on Quran.com](https://quran.com/8/6)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah give thee grace! why didst thou grant them until those who told the truth were seen by thee in a clear light, and thou hadst proved the liars?
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہیں معاف کرے۔ تم نے پیشتر اس کے کہ تم پر وہ لوگ بھی ظاہر ہو جاتے ہیں جو سچے ہیں اور وہ بھی تمہیں معلوم ہو جاتے جو جھوٹے ہیں اُن کو اجازت کیوں دی
+
 [Open on Quran.com](https://quran.com/9/43)
 
 #### 9:113 · [[009 At-Tawbah]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is not fitting, for the Prophet and those who believe, that they should pray for forgiveness for Pagans, even though they be of kin, after it is clear to them that they are companions of the Fire.
 
+**Urdu (Fatah Muhammad Jalandhari):** پیغمبر اور مسلمانوں کو شایاں نہیں کہ جب ان پر ظاہر ہوگیا کہ مشرک اہل دوزخ ہیں۔ تو ان کے لیے بخشش مانگیں گو وہ ان کے قرابت دار ہی ہوں
+
 [Open on Quran.com](https://quran.com/9/113)
 
 #### 9:114 · [[009 At-Tawbah]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the request of forgiveness of Abraham for his father was only because of a promise he had made to him. But when it became apparent to him [i.e., Abraham] that he [i.e., the father] was an enemy to Allāh, he disassociated himself from him. Indeed was Abraham compassionate and patient.
 
 **English (Yusuf Ali):** And Abraham prayed for his father's forgiveness only because of a promise he had made to him. But when it became clear to him that he was an enemy to Allah, he dissociated himself from him: for Abraham was most tender-hearted, forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم کا اپنے باپ کے لیے بخشش مانگنا تو ایک وعدے کا سبب تھا جو وہ اس سے کر چکے تھے۔ لیکن جب ان کو معلوم ہوگیا کہ وہ خدا کا دشمن ہے تو اس سے بیزار ہوگئے۔ کچھ شک نہیں کہ ابراہیم بڑے نرم دل اور متحمل تھے
 
 [Open on Quran.com](https://quran.com/9/114)
 

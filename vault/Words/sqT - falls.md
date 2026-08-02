@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sqT - sqt]]
+- [[sqT - falls]]
 
 ### Meaning
 **falls** · Lemma **سُقِطَ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:59 · [[006 Al-Anam]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And with Him are the keys of the unseen; none knows them except Him. And He knows what is on the land and in the sea. Not a leaf falls but that He knows it. And no grain is there within the darknesses of the earth and no moist or dry [thing] but that it is [written] in a clear record.
 
 **English (Yusuf Ali):** With Him are the keys of the unseen, the treasures that none knoweth but He. He knoweth whatever there is on the earth and in the sea. Not a leaf doth fall but with His knowledge: there is not a grain in the darkness (or depths) of the earth, nor anything fresh or dry (green or withered), but is (inscribed) in a record clear (to those who can read).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی کے پاس غیب کی کنجیاں ہیں جن کو اس کے سوا کوئی نہیں جانتا۔ اور اسے جنگلوں اور دریاؤں کی سب چیزوں کا علم ہے۔ اور کوئی پتہ نہیں جھڑتا مگر وہ اس کو جانتا ہے اور زمین کے اندھیروں میں کوئی دانہ اور کوئی ہری اور سوکھی چیز نہیں ہے مگر کتاب روشن میں (لکھی ہوئی) ہے
 
 [Open on Quran.com](https://quran.com/6/59)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When they repented, and saw that they had erred, they said: "If our Lord have not mercy upon us and forgive us, we shall indeed be of those who perish."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب وہ نادم ہوئے اور دیکھا کہ گمراہ ہوگئے ہیں تو کہنے لگے کہ اگر ہمارا پروردگار ہم پر رحم نہیں کرے گا اور ہم کو معاف نہیں فرمائے گا تو ہم برباد ہوجائیں گے
+
 [Open on Quran.com](https://quran.com/7/149)
 
 #### 9:49 · [[009 At-Tawbah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And among them is he who says, "Permit me [to remain at home] and do not put me to trial." Unquestionably, into trial they have fallen. And indeed, Hell will encompass the disbelievers.
 
 **English (Yusuf Ali):** Among them is (many) a man who says: "Grant me exemption and draw me not into trial." Have they not fallen into trial already? and indeed Hell surrounds the Unbelievers (on all sides).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں کوئی ایسا بھی ہے جو کہتا ہے کہ مجھے تو اجازت ہی دیجئے اور آفت میں نہ ڈالئے۔ دیکھو یہ آفت میں پڑگئے ہیں اور دوزخ سب کافروں کو گھیرے ہوئے ہے
 
 [Open on Quran.com](https://quran.com/9/49)
 

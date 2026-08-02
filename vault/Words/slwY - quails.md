@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:57 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We shaded you with clouds and sent down to you manna and quails, [saying], "Eat from the good things with which We have provided you." And they wronged Us not - but they were [only] wronging themselves.
 
 **English (Yusuf Ali):** And We gave you the shade of clouds and sent down to you Manna and quails, saying: "Eat of the good things We have provided for you:" (But they rebelled); to us they did no harm, but they harmed their own souls.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بادل کا تم پر سایہ کئے رکھا اور (تمہارے لیے) من و سلویٰ اتارتے رہے کہ جو پاکیزہ چیزیں ہم نے تم کو عطا فرمائی ہیں، ان کو کھاؤ (پیو) مگر تمہارے بزرگوں نے ان نعمتوں کی کچھ قدر نہ جانی (اور) وہ ہمارا کچھ نہیں بگاڑتے تھے بلکہ اپنا ہی نقصان کرتے تھے
 
 [Open on Quran.com](https://quran.com/2/57)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We divided them into twelve tribes or nations. We directed Moses by inspiration, when his (thirsty) people asked him for water: "Strike the rock with thy staff": out of it there gushed forth twelve springs: Each group knew its own place for water. We gave them the shade of clouds, and sent down to them manna and quails, (saying): "Eat of the good things We have provided for you": (but they rebelled); to Us they did no harm, but they harmed their own souls.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو (یعنی بنی اسرائیل کو) الگ الگ کرکے بارہ قبیلے (اور) بڑی بڑی جماعتیں بنا دیا۔ اور جب موسیٰ سے ان کی قوم نے پانی طلب کیا تو ہم نے ان کی طرف وحی بھیجی کہ اپنی لاٹھی پتھر پر مار دو۔ تو اس میں سے بارہ چشمے پھوٹ نکلے۔ اور سب لوگوں نے اپنا اپنا گھاٹ معلوم کرلیا۔ اور ہم نے ان (کے سروں) پر بادل کو سائبان بنائے رکھا اور ان پر من وسلویٰ اتارتے رہے۔ اور (ان سے کہا کہ) جو پاکیزہ چیزیں ہم تمہیں دیتے ہیں انہیں کھاؤ۔ اور ان لوگوں نے ہمارا کچھ نقصان نہیں کیا بلکہ (جو) نقصان کیا اپنا ہی کیا
+
 [Open on Quran.com](https://quran.com/7/160)
 
 #### 20:80 · [[020 Taha]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O Children of Israel, We delivered you from your enemy, and We made an appointment with you at the right side of the mount, and We sent down to you manna and quails,
 
 **English (Yusuf Ali):** O ye Children of Israel! We delivered you from your enemy, and We made a Covenant with you on the right side of Mount (Sinai), and We sent down to you Manna and quails:
+
+**Urdu (Fatah Muhammad Jalandhari):** اے آل یعقوب ہم نے تم کو تمہارے دشمن سے نجات دی اور تورات دینے کے لئے تم سے کوہ طور کی داہنی طرف مقرر کی اور تم پر من اور سلویٰ نازل کیا
 
 [Open on Quran.com](https://quran.com/20/80)
 

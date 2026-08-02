@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jnn - jann]]
+- [[jnn - cover]]
 
 ### Meaning
 **any jinn** · Lemma **جانّ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 15:27 · [[015 Al-Hijr]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the jinn We created before from scorching fire.
 
 **English (Yusuf Ali):** And the Jinn race, We had created before, from the fire of a scorching wind.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جنوں کو اس سے بھی پہلے بےدھوئیں کی آگ سے پیدا کیا تھا
 
 [Open on Quran.com](https://quran.com/15/27)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Now do thou throw thy rod!" But when he saw it moving (of its own accord) as if it had been a snake, he turned back in retreat, and retraced not his steps: "O Moses!" (it was said), "Fear not: truly, in My presence, those called as messengers have no fear,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی لاٹھی ڈال دو۔ جب اُسے دیکھا تو (اس طرح) ہل رہی تھی گویا سانپ ہے تو پیٹھ پھیر کر بھاگے اور پیچھے مڑ کر نہ دیکھا (حکم ہوا کہ) موسیٰ ڈرو مت۔ ہمارے پاس پیغمبر ڈرا نہیں کرتے
+
 [Open on Quran.com](https://quran.com/27/10)
 
 #### 28:31 · [[028 Al-Qasas]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [he was told], "Throw down your staff." But when he saw it writhing as if it was a snake, he turned in flight and did not return. [Allāh said], "O Moses, approach and fear not. Indeed, you are of the secure.
 
 **English (Yusuf Ali):** "Now do thou throw thy rod!" but when he saw it moving (of its own accord) as if it had been a snake, he turned back in retreat, and retraced not his steps: O Moses!" (It was said), "Draw near, and fear not: for thou art of those who are secure.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ اپنی لاٹھی ڈالدو۔ جب دیکھا کہ وہ حرکت کر رہی ہے گویا سانپ ہے، تو پیٹھ پھیر کر چل دیئے اور پیچھے پھر کر بھی نہ دیکھا۔ (ہم نے کہا کہ) موسٰی آگے آؤ اور ڈرومت تم امن پانے والوں میں ہو
 
 [Open on Quran.com](https://quran.com/28/31)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And He created Jinns from fire free of smoke:
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جنات کو آگ کے شعلے سے پیدا کیا
+
 [Open on Quran.com](https://quran.com/55/15)
 
 #### 55:39 · [[055 Ar-Rahman]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then on that Day none will be asked about his sin among men or jinn.
 
 **English (Yusuf Ali):** On that Day no question will be asked of man or Jinn as to his sin.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس روز نہ تو کسی انسان سے اس کے گناہوں کے بارے میں پرسش کی جائے گی اور نہ کسی جن سے
 
 [Open on Quran.com](https://quran.com/55/39)
 
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In them will be (Maidens), chaste, restraining their glances, whom no man or Jinn before them has touched;-
 
+**Urdu (Fatah Muhammad Jalandhari):** ان میں نیچی نگاہ والی عورتیں ہیں جن کو اہل جنت سے پہلے نہ کسی انسان نے ہاتھ لگایا اور نہ کسی جن نے
+
 [Open on Quran.com](https://quran.com/55/56)
 
 #### 55:74 · [[055 Ar-Rahman]]
@@ -138,6 +150,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Untouched before them by man or jinnī -
 
 **English (Yusuf Ali):** Whom no man or Jinn before them has touched;-
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کو اہل جنت سے پہلے نہ کسی انسان نے ہاتھ لگایا اور نہ کسی جن نے
 
 [Open on Quran.com](https://quran.com/55/74)
 

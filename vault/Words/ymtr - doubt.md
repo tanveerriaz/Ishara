@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mry - mry]]
+- [[mry - stroke rub]]
 
 ### Meaning
 **doubt** · Lemma **يَمْتَرُ**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:2 · [[006 Al-Anam]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is He who created you from clay and then decreed a term and a specified time [known] to Him; then [still] you are in dispute.
 
 **English (Yusuf Ali):** He it is created you from clay, and then decreed a stated term (for you). And there is in His presence another determined term; yet ye doubt within yourselves!
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم کو مٹی سے پیدا کیا پھر (مرنے کا) ایک وقت مقرر کر دیا اور ایک مدت اس کے ہاں اور مقرر ہے پھر بھی تم (اے کافرو خدا کے بارے میں) شک کرتے ہو
 
 [Open on Quran.com](https://quran.com/6/2)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "Yea, we have come to thee to accomplish that of which they doubt.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ نہیں بلکہ ہم آپ کے پاس وہ چیز لے کر آئے ہیں جس میں لوگ شک کرتے تھے
+
 [Open on Quran.com](https://quran.com/15/63)
 
 #### 19:34 · [[019 Maryam]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That is Jesus, the son of Mary - the word of truth about which they are in dispute.
 
 **English (Yusuf Ali):** Such (was) Jesus the son of Mary: (it is) a statement of truth, about which they (vainly) dispute.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ مریم کے بیٹے عیسیٰ ہیں (اور یہ) سچی بات ہے جس میں لوگ شک کرتے ہیں
 
 [Open on Quran.com](https://quran.com/19/34)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And (Jesus) shall be a Sign (for the coming of) the Hour (of Judgment): therefore have no doubt about the (Hour), but follow ye Me: this is a Straight Way.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ قیامت کی نشانی ہیں۔ تو (کہہ دو کہ لوگو) اس میں شک نہ کرو اور میرے پیچھے چلو۔ یہی سیدھا رستہ ہے
+
 [Open on Quran.com](https://quran.com/43/61)
 
 #### 44:50 · [[044 Ad-Dukhan]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, this is what you used to dispute."
 
 **English (Yusuf Ali):** "Truly this is what ye used to doubt!"
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہی (دوزخ) ہے جس میں تم لوگ شک کیا کرتے تھے
 
 [Open on Quran.com](https://quran.com/44/50)
 

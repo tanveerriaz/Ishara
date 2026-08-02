@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nkr - nkr]]
+- [[nkr - ignore]]
 
 ### Meaning
 **terrible** · Lemma **نَكِرَ**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:70 · [[011 Hud]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But when he saw their hands not reaching for it, he distrusted them and felt from them apprehension. They said, "Fear not. We have been sent to the people of Lot."
 
 **English (Yusuf Ali):** But when he saw their hands went not towards the (meal), he felt some mistrust of them, and conceived a fear of them. They said: "Fear not: We have been sent against the people of Lut."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب دیکھا کہ ان کے ہاتھ کھانے کی طرف نہیں جاتے (یعنی وہ کھانا نہیں کھاتے) تو ان کو اجنبی سمجھ کر دل میں خوف کیا۔ (فرشتوں نے) کہا کہ خوف نہ کیجیے، ہم قوم لوط کی طرف (ان کے ہلاک کرنے کو) بھیجے گئے ہیں
 
 [Open on Quran.com](https://quran.com/11/70)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then they proceeded: until, when they met a young man, he slew him. Moses said: "Hast thou slain an innocent person who had slain none? Truly a foul (unheard of) thing hast thou done!"
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر دونوں چلے۔ یہاں تک کہ (رستے میں) ایک لڑکا ملا تو (خضر نے) اُسے مار ڈالا۔ (موسیٰ نے) کہا کہ آپ نے ایک بےگناہ شخص کو ناحق بغیر قصاص کے مار ڈالا۔ (یہ تو) آپ نے بری بات کی
+
 [Open on Quran.com](https://quran.com/18/74)
 
 #### 18:87 · [[018 Al-Kahf]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "As for one who wrongs, we will punish him. Then he will be returned to his Lord, and He will punish him with a terrible punishment [i.e., Hellfire].
 
 **English (Yusuf Ali):** He said: "Whoever doth wrong, him shall we punish; then shall he be sent back to his Lord; and He will punish him with a punishment unheard-of (before).
+
+**Urdu (Fatah Muhammad Jalandhari):** ذوالقرنین نے کہا کہ جو (کفر وبدکرداری سے) ظلم کرے گا اسے ہم عذاب دیں گے۔ پھر (جب) وہ اپنے پروردگار کی طرف لوٹایا جائے گا تو وہ بھی اسے بُرا عذاب دے گا
 
 [Open on Quran.com](https://quran.com/18/87)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "Transform her throne out of all recognition by her: let us see whether she is guided (to the truth) or is one of those who receive no guidance."
 
+**Urdu (Fatah Muhammad Jalandhari):** سلیمان نے کہا کہ ملکہ کے (امتحان عقل کے) لئے اس کے تخت کی صورت بدل دو۔ دیکھیں کہ وہ سوجھ رکھتی ہے یا ان لوگوں میں ہے جو سوجھ نہیں رکھتے
+
 [Open on Quran.com](https://quran.com/27/41)
 
 #### 54:6 · [[054 Al-Qamar]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Therefore, (O Prophet,) turn away from them. The Day that the Caller will call (them) to a terrible affair,
 
+**Urdu (Fatah Muhammad Jalandhari):** تو تم بھی ان کی کچھ پروا نہ کرو۔ جس دن بلانے والا ان کو ایک ناخوش چیز کی طرف بلائے گا
+
 [Open on Quran.com](https://quran.com/54/6)
 
 #### 65:8 · [[065 At-Talaq]]
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And how many a city was insolent toward the command of its Lord and His messengers, so We took it to severe account and punished it with a terrible punishment.
 
 **English (Yusuf Ali):** How many populations that insolently opposed the Command of their Lord and of His messengers, did We not then call to account,- to severe account?- and We imposed on them an exemplary Punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بہت سی بستیوں (کے رہنے والوں)نے اپنے پروردگار اور اس کے پیغمبروں کے احکام سے سرکشی کی تو ہم نے ان کو سخت حساب میں پکڑ لیا اور ان پر (ایسا) عذاب نازل کیا جو نہ دیکھا تھا نہ سنا
 
 [Open on Quran.com](https://quran.com/65/8)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nsw - nsw]]
+- [[nsw - vein nerve]]
 
 ### Meaning
 **women** · Lemma **نِساء**
@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:49 · [[002 Al-Baqarah]]
 
@@ -54,6 +54,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We saved you [i.e., your forefathers] from the people of Pharaoh, who afflicted you with the worst torment, slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.
 
 **English (Yusuf Ali):** And remember, We delivered you from the people of Pharaoh: They set you hard tasks and punishments, slaughtered your sons and let your women-folk live; therein was a tremendous trial from your Lord.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (ہمارے ان احسانات کو یاد کرو) جب ہم نے تم کو قومِ فرعون سے نجات بخشی وہ (لوگ) تم کو بڑا دکھ دیتے تھے تمہارے بیٹوں کو تو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
 
 [Open on Quran.com](https://quran.com/2/49)
 
@@ -71,6 +73,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Permitted to you, on the night of the fasts, is the approach to your wives. They are your garments and ye are their garments. Allah knoweth what ye used to do secretly among yourselves; but He turned to you and forgave you; so now associate with them, and seek what Allah Hath ordained for you, and eat and drink, until the white thread of dawn appear to you distinct from its black thread; then complete your fast Till the night appears; but do not associate with your wives while ye are in retreat in the mosques. Those are Limits (set by) Allah: Approach not nigh thereto. Thus doth Allah make clear His Signs to men: that they may learn self-restraint.
 
+**Urdu (Fatah Muhammad Jalandhari):** روزوں کی راتوں میں تمہارے لئے اپنی عورتوں کے پاس جانا کردیا گیا ہے وہ تمہاری پوشاک ہیں اور تم ان کی پوشاک ہو خدا کو معلوم ہے کہ تم (ان کے پاس جانے سے) اپنے حق میں خیانت کرتے تھے سو اس نے تم پر مہربانی کی اور تمہاری حرکات سےدرگزرفرمائی۔اب (تم کو اختیار ہے کہ) ان سے مباشرت کرو۔ اور خدا نے جو چیز تمہارے لئے لکھ رکھی ہے (یعنی اولاد) اس کو (خدا سے) طلب کرو اور کھاؤ پیو یہاں تک کہ صبح کی سفید دھاری (رات کی) سیاہ دھاری سے الگ نظر آنے لگے۔ پھر روزہ (رکھ کر) رات تک پورا کرو اور جب تم مسجدوں میں اعتکاف بیٹھے ہو تو ان سے مباشرت نہ کرو۔ یہ خدا کی حدیں ہیں ان کے پاس نہ جانا۔ اسی طرح خدا اپنی آیتیں لوگوں کے (سمجھانے کے) لئے کھول کھول کر بیان فرماتا ہے تاکہ وہ پرہیزگار بنیں
+
 [Open on Quran.com](https://quran.com/2/187)
 
 #### 2:222 · [[002 Al-Baqarah]]
@@ -86,6 +90,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they ask you about menstruation. Say, "It is harm, so keep away from wives during menstruation. And do not approach them until they are pure. And when they have purified themselves, then come to them from where Allāh has ordained for you. Indeed, Allāh loves those who are constantly repentant and loves those who purify themselves."
 
 **English (Yusuf Ali):** They ask thee concerning women's courses. Say: They are a hurt and a pollution: So keep away from women in their courses, and do not approach them until they are clean. But when they have purified themselves, ye may approach them in any manner, time, or place ordained for you by Allah. For Allah loves those who turn to Him constantly and He loves those who keep themselves pure and clean.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے حیض کے بارے میں دریافت کرتے ہیں۔ کہہ دو کہ وہ تو نجاست ہے۔ سو ایام حیض میں عورتوں سے کنارہ کش رہو۔ اور جب تک پاک نہ ہوجائیں ان سے مقاربت نہ کرو۔ ہاں جب پاک ہوجائیں تو جس طریق سے خدا نے ارشاد فرمایا ہے ان کے پاس جاؤ۔ کچھ شک نہیں کہ خدا توبہ کرنے والوں اور پاک صاف رہنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/2/222)
 
@@ -103,6 +109,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Your wives are as a tilth unto you; so approach your tilth when or how ye will; but do some good act for your souls beforehand; and fear Allah. And know that ye are to meet Him (in the Hereafter), and give (these) good tidings to those who believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** تمہاری عورتیں تمہارای کھیتی ہیں تو اپنی کھیتی میں جس طرح چاہو جاؤ۔ اور اپنے لئے (نیک عمل) آگے بھیجو۔ اور خدا سے ڈرتے رہو اور جان رکھو کہ (ایک دن) تمہیں اس کے روبرو حاضر ہونا ہے اور (اے پیغمبر) ایمان والوں کو بشارت سنا دو
+
 [Open on Quran.com](https://quran.com/2/223)
 
 #### 2:226 · [[002 Al-Baqarah]]
@@ -118,6 +126,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For those who swear not to have sexual relations with their wives is a waiting time of four months, but if they return [to normal relations] - then indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** For those who take an oath for abstention from their wives, a waiting for four months is ordained; if then they return, Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنی عورتوں کے پاس جانے سے قسم کھالیں ان کو چار مہینے تک انتظار کرنا چاہیئے۔ اگر (اس عرصے میں قسم سے) رجوع کرلیں تو خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/2/226)
 
@@ -135,6 +145,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When ye divorce women, and they fulfil the term of their ('Iddat), either take them back on equitable terms or set them free on equitable terms; but do not take them back to injure them, (or) to take undue advantage; if any one does that; He wrongs his own soul. Do not treat Allah's Signs as a jest, but solemnly rehearse Allah's favours on you, and the fact that He sent down to you the Book and Wisdom, for your instruction. And fear Allah, and know that Allah is well acquainted with all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم عورتوں کو (دو دفعہ) طلاق دے چکو اور ان کی عدت پوری ہوجائے تو انہیں یا تو حسن سلوک سے نکاح میں رہنے دو یا بطریق شائستہ رخصت کردو اور اس نیت سے ان کو نکاح میں نہ رہنے دینا چاہئے کہ انہیں تکلیف دو اور ان پر زیادتی کرو۔ اور جو ایسا کرے گا وہ اپنا ہی نقصان کرے گا اور خدا کے احکام کو ہنسی (اور کھیل) نہ بناؤ اور خدا نے تم کو جو نعمتیں بخشی ہیں اور تم پر جو کتاب اور دانائی کی باتیں نازل کی ہیں جن سے وہ تمہیں نصیحت فرماتا ہے ان کو یاد کرو۔ اور خدا سے ڈرتے رہو اور جان رکھوکہ خدا ہر چیز سے واقف ہے
+
 [Open on Quran.com](https://quran.com/2/231)
 
 #### 2:232 · [[002 Al-Baqarah]]
@@ -150,6 +162,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you divorce women and they have fulfilled their term, do not prevent them from remarrying their [former] husbands if they [i.e., all parties] agree among themselves on an acceptable basis. That is instructed to whoever of you believes in Allāh and the Last Day. That is better for you and purer, and Allāh knows and you know not.
 
 **English (Yusuf Ali):** When ye divorce women, and they fulfil the term of their ('Iddat), do not prevent them from marrying their (former) husbands, if they mutually agree on equitable terms. This instruction is for all amongst you, who believe in Allah and the Last Day. That is (the course Making for) most virtue and purity amongst you and Allah knows, and ye know not.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم عورتوں کو طلاق دے چکو اور ان کی عدت پوری ہوجائے تو ان کو دوسرے شوہروں کے ساتھ جب وہ آپس میں جائز طور پر راضی ہوجائیں نکاح کرنے سے مت روکو۔ اس (حکم) سے اس شخص کو نصیحت کی جاتی ہے جو تم میں خدا اور روز آخرت پر یقین رکھتا ہے۔ یہ تمہارے لئے نہایت خوب اور بہت پاکیزگی کی بات ہے اور خدا جانتا ہے اور تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/2/232)
 
@@ -167,6 +181,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There is no blame on you if ye make an offer of betrothal or hold it in your hearts. Allah knows that ye cherish them in your hearts: But do not make a secret contract with them except in terms Honourable, nor resolve on the tie of marriage till the term prescribed is fulfilled. And know that Allah Knoweth what is in your hearts, and take heed of Him; and know that Allah is Oft-forgiving, Most Forbearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کنائے کی باتوں میں عورتوں کو نکاح کا پیغام بھیجو یا (نکاح کی خواہش کو) اپنے دلوں میں مخفی رکھو تو تو تم پر کچھ گناہ نہیں۔ خدا کو معلوم ہے کہ تم ان سے (نکاح کا) ذکر کرو گے۔ مگر (ایام عدت میں) اس کے سوا کہ دستور کے مطابق کوئی بات کہہ دو پوشیدہ طور پر ان سے قول واقرار نہ کرنا۔ اور جب تک عدت پوری نہ ہولے نکاح کا پختہ ارادہ نہ کرنا۔ اور جان رکھو کہ جو کچھ تمہارے دلوں میں ہے خدا کو سب معلوم ہے تو اس سے ڈرتے رہو اور جان رکھو کہ خدا بخشنے والا اور حلم والا ہے
+
 [Open on Quran.com](https://quran.com/2/235)
 
 #### 2:236 · [[002 Al-Baqarah]]
@@ -183,6 +199,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There is no blame on you if ye divorce women before consummation or the fixation of their dower; but bestow on them (A suitable gift), the wealthy according to his means, and the poor according to his means;- A gift of a reasonable amount is due from those who wish to do the right thing.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے یا ان کا مہر مقرر کرنے سے پہلے طلاق دے دو تو تم پر کچھ گناہ نہیں۔ ہاں ان کو دستور کے مطابق کچھ خرچ ضرور دو (یعنی) مقدور والا اپنے مقدور کے مطابق دے اور تنگدست اپنی حیثیت کے مطابق۔ نیک لوگوں پر یہ ایک طرح کا حق ہے
+
 [Open on Quran.com](https://quran.com/2/236)
 
 #### 3:14 · [[003 Ali Imran]]
@@ -198,6 +216,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allāh has with Him the best return [i.e., Paradise].
 
 **English (Yusuf Ali):** Fair in the eyes of men is the love of things they covet: Women and sons; Heaped-up hoards of gold and silver; horses branded (for blood and excellence); and (wealth of) cattle and well-tilled land. Such are the possessions of this world's life; but in nearness to Allah is the best of the goals (To return to).
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/3/14)
 

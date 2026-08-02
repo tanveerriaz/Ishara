@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Etb - etb]]
+- [[Etb - angry someone]]
 
 ### Meaning
 **will asked make** · Lemma **يَسْتَعْتِبُ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 16:84 · [[016 An-Nahl]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] the Day when We will resurrect from every nation a witness [i.e., their prophet]. Then it will not be permitted to the disbelievers [to apologize or make excuses], nor will they be asked to appease [Allāh].
 
 **English (Yusuf Ali):** One Day We shall raise from all Peoples a Witness: then will no excuse be accepted from Unbelievers, nor will they receive any favours.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن ہم ہر اُمت میں سے گواہ (یعنی پیغمبر) کھڑا کریں گے تو نہ تو کفار کو (بولنے کی) اجازت ملے گی اور نہ اُن کے عذر قبول کئے جائیں گے
 
 [Open on Quran.com](https://quran.com/16/84)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So on that Day no excuse of theirs will avail the transgressors, nor will they be invited (then) to seek grace (by repentance).
 
+**Urdu (Fatah Muhammad Jalandhari):** تو اس روز ظالم لوگوں کو ان کا عذر کچھ فائدہ نہ دے گا اور نہ اُن سے توبہ قبول کی جائے گی
+
 [Open on Quran.com](https://quran.com/30/57)
 
 #### 41:24 · [[041 Fussilat]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If, then, they have patience, the Fire will be a home for them! and if they beg to be received into favour, into favour will they not (then) be received.
 
+**Urdu (Fatah Muhammad Jalandhari):** اب اگر یہ صبر کریں گے تو ان کا ٹھکانا دوزخ ہے۔ اور اگر توبہ کریں گے تو ان کی توبہ قبول نہیں کی جائے گی
+
 [Open on Quran.com](https://quran.com/41/24)
 
 #### 45:35 · [[045 Al-Jathiyah]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That is because you took the verses of Allāh in ridicule, and worldly life deluded you." So that Day they will not be removed from it, nor will they be asked to appease [Allāh].
 
 **English (Yusuf Ali):** "This, because ye used to take the Signs of Allah in jest, and the life of the world deceived you:" (From) that Day, therefore, they shall not be taken out thence, nor shall they be received into Grace.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس لئے کہ تم نے خدا کی آیتوں کو مخول بنا رکھا تھا اور دنیا کی زندگی نے تم کو دھوکے میں ڈال رکھا تھا۔ سو آج یہ لوگ نہ دوزخ سے نکالے جائیں گے اور نہ ان کی توبہ قبول کی جائے گی
 
 [Open on Quran.com](https://quran.com/45/35)
 

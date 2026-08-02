@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Edw - enemy]]
+- [[Edw - turn]]
 
 ### Meaning
 **transgressed** · Lemma **اعْتَدَى**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:61 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when you said, "O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions." [Moses] said, "Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked." And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing.
 
 **English (Yusuf Ali):** And remember ye said: "O Moses! we cannot endure one kind of food (always); so beseech thy Lord for us to produce for us of what the earth groweth, -its pot-herbs, and cucumbers, Its garlic, lentils, and onions." He said: "Will ye exchange the better for the worse? Go ye down to any town, and ye shall find what ye want!" They were covered with humiliation and misery; they drew on themselves the wrath of Allah. This because they went on rejecting the Signs of Allah and slaying His Messengers without just cause. This because they rebelled and went on transgressing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے کہا کہ موسیٰ! ہم سے ایک (ہی) کھانے پر صبر نہیں ہو سکتا تو اپنے پروردگار سے دعا کیجئے کہ ترکاری اور ککڑی اور گیہوں اور مسور اور پیاز (وغیرہ) جو نباتات زمین سے اُگتی ہیں، ہمارے لیے پیدا کر دے۔ انہوں نے کہا کہ بھلا عمدہ چیزیں چھوڑ کر ان کے عوض ناقص چیزیں کیوں چاہتے ہوں۔ (اگر یہی چیزیں مطلوب ہیں) تو کسی شہر میں جا اترو، وہاں جو مانگتے ہو، مل جائے گا۔ اور (آخرکار) ذلت (ورسوائی) اور محتاجی (وبے نوائی) ان سے چمٹا دی گئی اور وہ الله کے غضب میں گرفتار ہو گئے۔ یہ اس لیے کہ وہ الله کی آیتوں سے انکار کرتے تھے اور (اس کے) نبیوں کو ناحق قتل کر دیتے تھے۔ (یعنی) یہ اس لیے کہ نافرمانی کئے جاتے اور حد سے بڑھے جاتے تھے
 
 [Open on Quran.com](https://quran.com/2/61)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And well ye knew those amongst you who transgressed in the matter of the Sabbath: We said to them: "Be ye apes, despised and rejected."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم ان لوگوں کو خوب جانتے ہوں، جو تم میں سے ہفتے کے دن (مچھلی کا شکار کرنے) میں حد سے تجاوز کر گئے تھے، تو ہم نے ان سے کہا کہ ذلیل وخوار بندر ہو جاؤ
+
 [Open on Quran.com](https://quran.com/2/65)
 
 #### 2:178 · [[002 Al-Baqarah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, prescribed for you is legal retribution for those murdered - the free for the free, the slave for the slave, and the female for the female. But whoever overlooks from his brother [i.e., the killer] anything, then there should be a suitable follow-up and payment to him [i.e., the deceased's heir or legal representative] with good conduct. This is an alleviation from your Lord and a mercy. But whoever transgresses after that will have a painful punishment.
 
 **English (Yusuf Ali):** O ye who believe! the law of equality is prescribed to you in cases of murder: the free for the free, the slave for the slave, the woman for the woman. But if any remission is made by the brother of the slain, then grant any reasonable demand, and compensate him with handsome gratitude, this is a concession and a Mercy from your Lord. After this whoever exceeds the limits shall be in grave penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم کو مقتولوں کے بارےمیں قصاص (یعنی خون کے بدلے خون) کا حکم دیا جاتا ہے (اس طرح پر کہ)آزاد کے بدلے آزاد (مارا جائے) اور غلام کے بدلے غلام اور عورت کے بدلے عورت اور قاتل کو اس کے (مقتول) بھائی (کے قصاص میں) سے کچھ معاف کردیا جائے تو (وارث مقتول) کو پسندیدہ طریق سے (قرار داد کی) پیروی (یعنی مطالبہٴ خون بہا) کرنا اور (قاتل کو) خوش خوئی کے ساتھ ادا کرنا چاہیئے یہ پروردگار کی طرف سے تمہارے لئے آسانی اور مہربانی ہے جو اس کے بعد زیادتی کرے اس کے لئے دکھ کا عذاب ہے
 
 [Open on Quran.com](https://quran.com/2/178)
 
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Fight in the cause of Allah those who fight you, but do not transgress limits; for Allah loveth not transgressors.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم سے لڑتے ہیں تم بھی خدا کی راہ میں ان سے لڑو مگر زیادتی نہ کرنا کہ خدا زیادتی کرنے والوں کو دوست نہیں رکھتا
+
 [Open on Quran.com](https://quran.com/2/190)
 
 #### 2:194 · [[002 Al-Baqarah]]
@@ -105,6 +113,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Battle in] the sacred month is for [aggression committed in] the sacred month, and for [all] violations is legal retribution. So whoever has assaulted you, then assault him in the same way that he has assaulted you. And fear Allāh and know that Allāh is with those who fear Him.
 
 **English (Yusuf Ali):** The prohibited month for the prohibited month,- and so for all things prohibited,- there is the law of equality. If then any one transgresses the prohibition against you, Transgress ye likewise against him. But fear Allah, and know that Allah is with those who restrain themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** ادب کا مہینہ ادب کے مہینے کے مقابل ہے اور ادب کی چیزیں ایک دوسرے کا بدلہ ہیں۔ پس اگر کوئی تم پر زیادتی کرے تو جیسی زیادتی وہ تم پر کرے ویسی ہی تم اس پر کرو۔ اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا ڈرنے والوں کے ساتھ ہے
 
 [Open on Quran.com](https://quran.com/2/194)
 
@@ -122,6 +132,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A divorce is only permissible twice: after that, the parties should either hold Together on equitable terms, or separate with kindness. It is not lawful for you, (Men), to take back any of your gifts (from your wives), except when both parties fear that they would be unable to keep the limits ordained by Allah. If ye (judges) do indeed fear that they would be unable to keep the limits ordained by Allah, there is no blame on either of them if she give something for her freedom. These are the limits ordained by Allah; so do not transgress them if any do transgress the limits ordained by Allah, such persons wrong (Themselves as well as others).
 
+**Urdu (Fatah Muhammad Jalandhari):** طلاق (صرف) دوبار ہے (یعنی جب دو دفعہ طلاق دے دی جائے تو) پھر (عورتوں کو) یا تو بطریق شائستہ (نکاح میں) رہنے دینا یا بھلائی کے ساتھ چھوڑ دینا۔ اور یہ جائز نہیں کہ جو مہر تم ان کو دے چکے ہو اس میں سے کچھ واپس لے لو۔ ہاں اگر زن و شوہر کو خوف ہو کہ وہ خدا کی حدوں کو قائم نہیں رکھ سکیں گے تو اگر عورت (خاوند کے ہاتھ سے) رہائی پانے کے بدلے میں کچھ دے ڈالے تو دونوں پر کچھ گناہ نہیں۔ یہ خدا کی (مقرر کی ہوئی) حدیں ہیں ان سے باہر نہ نکلنا۔ اور جو لوگ خدا کی حدوں سے باہر نکل جائیں گے وہ گنہگار ہوں گے
+
 [Open on Quran.com](https://quran.com/2/229)
 
 #### 2:231 · [[002 Al-Baqarah]]
@@ -137,6 +149,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you divorce women and they have [nearly] fulfilled their term, either retain them according to acceptable terms or release them according to acceptable terms, and do not keep them, intending harm, to transgress [against them]. And whoever does that has certainly wronged himself. And do not take the verses of Allāh in jest. And remember the favor of Allāh upon you and what has been revealed to you of the Book [i.e., the Qur’ān] and wisdom [i.e., the Prophet's sunnah] by which He instructs you. And fear Allāh and know that Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** When ye divorce women, and they fulfil the term of their ('Iddat), either take them back on equitable terms or set them free on equitable terms; but do not take them back to injure them, (or) to take undue advantage; if any one does that; He wrongs his own soul. Do not treat Allah's Signs as a jest, but solemnly rehearse Allah's favours on you, and the fact that He sent down to you the Book and Wisdom, for your instruction. And fear Allah, and know that Allah is well acquainted with all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم عورتوں کو (دو دفعہ) طلاق دے چکو اور ان کی عدت پوری ہوجائے تو انہیں یا تو حسن سلوک سے نکاح میں رہنے دو یا بطریق شائستہ رخصت کردو اور اس نیت سے ان کو نکاح میں نہ رہنے دینا چاہئے کہ انہیں تکلیف دو اور ان پر زیادتی کرو۔ اور جو ایسا کرے گا وہ اپنا ہی نقصان کرے گا اور خدا کے احکام کو ہنسی (اور کھیل) نہ بناؤ اور خدا نے تم کو جو نعمتیں بخشی ہیں اور تم پر جو کتاب اور دانائی کی باتیں نازل کی ہیں جن سے وہ تمہیں نصیحت فرماتا ہے ان کو یاد کرو۔ اور خدا سے ڈرتے رہو اور جان رکھوکہ خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/2/231)
 
@@ -154,6 +168,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Shame is pitched over them (Like a tent) wherever they are found, except when under a covenant (of protection) from Allah and from men; they draw on themselves wrath from Allah, and pitched over them is (the tent of) destitution. This because they rejected the Signs of Allah, and slew the prophets in defiance of right; this because they rebelled and transgressed beyond bounds.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ جہاں نظر آئیں گے ذلت (کو دیکھو گے کہ) ان سے چمٹ رہی ہے بجز اس کے کہ یہ خدا اور (مسلمان) لوگوں کی پناہ میں آ جائیں اور یہ لوگ خدا کے غضب میں گرفتار ہیں اور ناداری ان سے لپٹ رہی ہے یہ اس لیے کہ خدا کی آیتوں سے انکار کرتےتھے اور (اس کے) پیغمبروں کو ناحق قتل کر دیتے تھے یہ اس لیے کہ یہ نافرمانی کیے جاتے اور حد سے بڑھے جاتے تھے
+
 [Open on Quran.com](https://quran.com/3/112)
 
 #### 5:2 · [[005 Al-Maidah]]
@@ -170,6 +186,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Violate not the sanctity of the symbols of Allah, nor of the sacred month, nor of the animals brought for sacrifice, nor the garlands that mark out such animals, nor the people resorting to the sacred house, seeking of the bounty and good pleasure of their Lord. But when ye are clear of the sacred precincts and of pilgrim garb, ye may hunt and let not the hatred of some people in (once) shutting you out of the Sacred Mosque lead you to transgression (and hostility on your part). Help ye one another in righteousness and piety, but help ye not one another in sin and rancour: fear Allah: for Allah is strict in punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کے نام کی چیزوں کی بےحرمتی نہ کرنا اور نہ ادب کے مہینے کی اور نہ قربانی کے جانوروں کی اور نہ ان جانوروں کی (جو خدا کی نذر کر دیئے گئے ہوں اور) جن کے گلوں میں پٹے بندھے ہوں اور نہ ان لوگوں کی جو عزت کے گھر (یعنی بیت الله) کو جا رہے ہوں (اور) اپنے پروردگار کے فضل اور اس کی خوشنودی کے طلبگار ہوں اور جب احرام اتار دو تو (پھر اختیار ہے کہ) شکار کرو اور لوگوں کی دشمنی اس وجہ سے کہ انہوں نے تم کو عزت والی مسجد سے روکا تھا تمہیں اس بات پر آمادہ نہ کرے کہ تم ان پر زیادتی کرنے لگو اور (دیکھو) نیکی اور پرہیزگاری کے کاموں میں ایک دوسرے کی مدد کیا کرو اور گناہ اور ظلم کی باتوں میں مدد نہ کیا کرو اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا کا عذاب سخت ہے
+
 [Open on Quran.com](https://quran.com/5/2)
 
 #### 5:78 · [[005 Al-Maidah]]
@@ -185,6 +203,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Cursed were those who disbelieved among the Children of Israel by the tongue of David and of Jesus, the son of Mary. That was because they disobeyed and [habitually] transgressed.
 
 **English (Yusuf Ali):** Curses were pronounced on those among the Children of Israel who rejected Faith, by the tongue of David and of Jesus the son of Mary: because they disobeyed and persisted in excesses.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ بنی اسرائیل میں کافر ہوئے ان پر داؤد اور عیسیٰ بن مریم کی زبان سے لعنت کی گئی یہ اس لیے کہ نافرمانی کرتے تھے اور حد سے تجاوز کرتے تھے
 
 [Open on Quran.com](https://quran.com/5/78)
 

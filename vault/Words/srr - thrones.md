@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 15:47 · [[015 Al-Hijr]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other.
 
 **English (Yusuf Ali):** And We shall remove from their hearts any lurking sense of injury: (they will be) brothers (joyfully) facing each other on thrones (of dignity).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں میں جو کدورت ہوگی ان کو ہم نکال کر (صاف کر) دیں گے (گویا) بھائی بھائی تختوں پر ایک دوسرے کے سامنے بیٹھے ہوئے ہیں
 
 [Open on Quran.com](https://quran.com/15/47)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Facing each other on Thrones (of Dignity):
 
+**Urdu (Fatah Muhammad Jalandhari):** ایک دوسرے کے سامنے تختوں پر (بیٹھے ہوں گے)
+
 [Open on Quran.com](https://quran.com/37/44)
 
 #### 43:34 · [[043 Az-Zukhruf]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And for their houses - doors and couches [of silver] upon which to recline
 
 **English (Yusuf Ali):** And (silver) doors to their houses, and thrones (of silver) on which they could recline,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے گھروں کے دروازے بھی اور تخت بھی جن پر تکیہ لگاتے ہیں
 
 [Open on Quran.com](https://quran.com/43/34)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They will recline (with ease) on Thrones (of dignity) arranged in ranks; and We shall join them to Companions, with beautiful big and lustrous eyes.
 
+**Urdu (Fatah Muhammad Jalandhari):** تختوں پر جو برابر برابر بچھے ہوئے ہیں تکیہ لگائے ہوئے اور بڑی بڑی آنکھوں والی حوروں سے ہم ان کا عقد کر دیں گے
+
 [Open on Quran.com](https://quran.com/52/20)
 
 #### 56:15 · [[056 Al-Waqiah]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (They will be) on Thrones encrusted (with gold and precious stones),
 
+**Urdu (Fatah Muhammad Jalandhari):** (لعل و یاقوت وغیرہ سے) جڑے ہوئے تختوں پر
+
 [Open on Quran.com](https://quran.com/56/15)
 
 #### 88:13 · [[088 Al-Ghashiyah]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Within it are couches raised high
 
 **English (Yusuf Ali):** Therein will be Thrones (of dignity), raised on high,
+
+**Urdu (Fatah Muhammad Jalandhari):** وہاں تخت ہوں گے اونچے بچھے ہوئے
 
 [Open on Quran.com](https://quran.com/88/13)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nSr - nsr]]
+- [[nSr - aid]]
 
 ### Meaning
 **any helper** · Lemma **نَصِير**
@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:107 · [[002 Al-Baqarah]]
 
@@ -54,6 +54,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do you not know that to Allāh belongs the dominion of the heavens and the earth and [that] you have not besides Allāh any protector or any helper?
 
 **English (Yusuf Ali):** Knowest thou not that to Allah belongeth the dominion of the heavens and the earth? And besides Him ye have neither patron nor helper.
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہیں معلوم نہیں کہ آسمانوں اور زمین کی بادشاہت خدا ہی کی ہے، اور خدا کے سوا تمہارا کوئی دوست اور مدد گار نہیں
 
 [Open on Quran.com](https://quran.com/2/107)
 
@@ -71,6 +73,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Never will the Jews or the Christians be satisfied with thee unless thou follow their form of religion. Say: "The Guidance of Allah,-that is the (only) Guidance." Wert thou to follow their desires after the knowledge which hath reached thee, then wouldst thou find neither Protector nor helper against Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے نہ تو یہودی کبھی خوش ہوں گے اور نہ عیسائی، یہاں تک کہ تم ان کے مذہب کی پیروی اختیار کرلو۔ (ان سے) کہہ دو کہ خدا کی ہدایت (یعنی دین اسلام) ہی ہدایت ہے۔ اور (اے پیغمبر) اگر تم اپنے پاس علم (یعنی وحی خدا) کے آ جانے پر بھی ان کی خواہشوں پر چلو گے تو تم کو (عذاب) خدا سے (بچانے والا) نہ کوئی دوست ہوگا اور نہ کوئی مددگار
+
 [Open on Quran.com](https://quran.com/2/120)
 
 #### 2:270 · [[002 Al-Baqarah]]
@@ -86,6 +90,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whatever you spend of expenditures or make of vows - indeed, Allāh knows of it. And for the wrongdoers there are no helpers.
 
 **English (Yusuf Ali):** And whatever ye spend in charity or devotion, be sure Allah knows it all. But the wrong-doers have no helpers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم (خدا کی راہ میں) جس طرح کا خرچ کرو یا کوئی نذر مانو خدا اس کو جانتا ہے اور ظالموں کا کوئی مددگار نہیں
 
 [Open on Quran.com](https://quran.com/2/270)
 
@@ -103,6 +109,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When Jesus found Unbelief on their part He said: "Who will be My helpers to (the work of) Allah?" Said the disciples: "We are Allah's helpers: We believe in Allah, and do thou bear witness that we are Muslims.
 
+**Urdu (Fatah Muhammad Jalandhari):** جب عیسیٰؑ نے ان کی طرف سے نافرمانی اور (نیت قتل) دیکھی تو کہنے لگے کہ کوئی ہے جو خدا کا طرف دار اور میرا مددگار ہو حواری بولے کہ ہم خدا کے (طرفدار اور آپ کے) مددگار ہیں ہم خدا پر ایمان لائے اور آپ گواہ رہیں کہ ہم فرمانبردار ہیں
+
 [Open on Quran.com](https://quran.com/3/52)
 
 #### 3:192 · [[003 Ali Imran]]
@@ -118,6 +126,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Our Lord, indeed whoever You admit to the Fire - You have disgraced him, and for the wrongdoers there are no helpers.
 
 **English (Yusuf Ali):** "Our Lord! any whom Thou dost admit to the Fire, Truly Thou coverest with shame, and never will wrong-doers Find any helpers!
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار جس کو تو نے دوزخ میں ڈالا اسے رسوا کیا اور ظالموں کا کوئی مددگار نہیں
 
 [Open on Quran.com](https://quran.com/3/192)
 
@@ -135,6 +145,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But Allah hath full knowledge of your enemies: Allah is enough for a protector, and Allah is enough for a Helper.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا تمہارے دشمنوں سے خوب واقف ہے اور خدا ہی کافی کارساز ہے اور کافی مددگار ہے
+
 [Open on Quran.com](https://quran.com/4/45)
 
 #### 4:52 · [[004 An-Nisa]]
@@ -150,6 +162,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the ones whom Allāh has cursed; and he whom Allāh curses - never will you find for him a helper.
 
 **English (Yusuf Ali):** They are (men) whom Allah hath cursed: And those whom Allah Hath cursed, thou wilt find, have no one to help.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن پر خدا نے لعنت کی ہے اور جس پر خدا لعنت کرے تو تم اس کا کسی کو مددگار نہ پاؤ گے
 
 [Open on Quran.com](https://quran.com/4/52)
 
@@ -167,6 +181,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And why should ye not fight in the cause of Allah and of those who, being weak, are ill-treated (and oppressed)?- Men, women, and children, whose cry is: "Our Lord! Rescue us from this town, whose people are oppressors; and raise for us from thee one who will protect; and raise for us from thee one who will help!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کو کیا ہوا ہے کہ خدا کی راہ میں اور اُن بےبس مردوں اور عورتوں اور بچوں کی خاطر نہیں لڑتے جو دعائیں کیا کرتے ہیں کہ اے پروردگار ہم کو اس شہر سے جس کے رہنے والے ظالم ہیں نکال کر کہیں اور لے جا۔ اور اپنی طرف سے کسی کو ہمارا حامی بنا۔ اور اپنی ہی طرف سے کسی کو ہمارا مددگار مقرر فرما
+
 [Open on Quran.com](https://quran.com/4/75)
 
 #### 4:89 · [[004 An-Nisa]]
@@ -183,6 +199,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They but wish that ye should reject Faith, as they do, and thus be on the same footing (as they): But take not friends from their ranks until they flee in the way of Allah (From what is forbidden). But if they turn renegades, seize them and slay them wherever ye find them; and (in any case) take no friends or helpers from their ranks;-
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ تو یہی چاہتے ہیں کہ جس طرح وہ خود کافر ہیں (اسی طرح) تم بھی کافر ہو کر (سب) برابر ہوجاؤ تو جب تک وہ خدا کی راہ میں وطن نہ چھوڑ جائیں ان میں سے کسی کو دوست نہ بنانا اگر (ترک وطن کو) قبول نہ کریں تو ان کو پکڑ لو اور جہاں پاؤ قتل کردو اور ان میں سے کسی کو اپنا رفیق اور مددگار نہ بناؤ
+
 [Open on Quran.com](https://quran.com/4/89)
 
 #### 4:123 · [[004 An-Nisa]]
@@ -198,6 +216,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It [i.e., Paradise] is not [obtained] by your wishful thinking nor by that of the People of the Scripture. Whoever does a wrong will be recompensed for it, and he will not find besides Allāh a protector or a helper.
 
 **English (Yusuf Ali):** Not your desires, nor those of the People of the Book (can prevail): whoever works evil, will be requited accordingly. Nor will he find, besides Allah, any protector or helper.
+
+**Urdu (Fatah Muhammad Jalandhari):** (نجات) نہ تو تمہاری آرزوؤں پر ہے اور نہ اہل کتاب کی آرزوؤں پر۔ جو شخص برے عمل کرے گا اسے اسی (طرح) کا بدلا دیا جائے گا اور وہ خدا کے سوا نہ کسی کو حمایتی پائے گا اور نہ مددگار
 
 [Open on Quran.com](https://quran.com/4/123)
 

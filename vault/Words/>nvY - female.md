@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:178 · [[002 Al-Baqarah]]
 
@@ -54,6 +54,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, prescribed for you is legal retribution for those murdered - the free for the free, the slave for the slave, and the female for the female. But whoever overlooks from his brother [i.e., the killer] anything, then there should be a suitable follow-up and payment to him [i.e., the deceased's heir or legal representative] with good conduct. This is an alleviation from your Lord and a mercy. But whoever transgresses after that will have a painful punishment.
 
 **English (Yusuf Ali):** O ye who believe! the law of equality is prescribed to you in cases of murder: the free for the free, the slave for the slave, the woman for the woman. But if any remission is made by the brother of the slain, then grant any reasonable demand, and compensate him with handsome gratitude, this is a concession and a Mercy from your Lord. After this whoever exceeds the limits shall be in grave penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم کو مقتولوں کے بارےمیں قصاص (یعنی خون کے بدلے خون) کا حکم دیا جاتا ہے (اس طرح پر کہ)آزاد کے بدلے آزاد (مارا جائے) اور غلام کے بدلے غلام اور عورت کے بدلے عورت اور قاتل کو اس کے (مقتول) بھائی (کے قصاص میں) سے کچھ معاف کردیا جائے تو (وارث مقتول) کو پسندیدہ طریق سے (قرار داد کی) پیروی (یعنی مطالبہٴ خون بہا) کرنا اور (قاتل کو) خوش خوئی کے ساتھ ادا کرنا چاہیئے یہ پروردگار کی طرف سے تمہارے لئے آسانی اور مہربانی ہے جو اس کے بعد زیادتی کرے اس کے لئے دکھ کا عذاب ہے
 
 [Open on Quran.com](https://quran.com/2/178)
 
@@ -71,6 +73,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When she was delivered, she said: "O my Lord! Behold! I am delivered of a female child!"- and Allah knew best what she brought forth- "And no wise is the male Like the female. I have named her Mary, and I commend her and her offspring to Thy protection from the Evil One, the Rejected."
 
+**Urdu (Fatah Muhammad Jalandhari):** جب ان کے ہاں بچہ پیدا ہوا اور جو کچھ ان کے ہاں پیدا ہوا تھا خدا کو خوب معلوم تھا تو کہنے لگیں کہ پروردگار! میرے تو لڑکی ہوئی ہے اور (نذر کے لیے) لڑکا (موزوں تھا کہ وہ) لڑکی کی طرح (ناتواں) نہیں ہوتا اور میں نے اس کا نام مریم رکھا ہے اور میں اس کو اور اس کی اولاد کو شیطان مردود سے تیری پناہ میں دیتی ہوں
+
 [Open on Quran.com](https://quran.com/3/36)
 
 #### 3:195 · [[003 Ali Imran]]
@@ -86,6 +90,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And their Lord responded to them, "Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another. So those who emigrated or were evicted from their homes or were harmed in My cause or fought or were killed - I will surely remove from them their misdeeds, and I will surely admit them to gardens beneath which rivers flow as reward from Allāh, and Allāh has with Him the best reward."
 
 **English (Yusuf Ali):** And their Lord hath accepted of them, and answered them: "Never will I suffer to be lost the work of any of you, be he male or female: Ye are members, one of another: Those who have left their homes, or been driven out therefrom, or suffered harm in My Cause, or fought or been slain,- verily, I will blot out from them their iniquities, and admit them into Gardens with rivers flowing beneath;- A reward from the presence of Allah, and from His presence is the best of rewards."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کے پرردگار نے ان کی دعا قبول کر لی (اور فرمایا) کہ میں کسی عمل کرنے والے کے عمل کو مرد ہو یا عورت ضائع نہیں کرتا تم ایک دوسرے کی جنس ہو تو جو لوگ میرے لیے وطن چھوڑ گئے اور اپنے گھروں سے نکالے گئے اور ستائے گئے اور لڑے اور قتل کیے گئے میں ان کے گناہ دور کردوں گا اور ان کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہ رہی ہیں (یہ) خدا کے ہاں سے بدلہ ہے اور خدا کے ہاں اچھا بدلہ ہے
 
 [Open on Quran.com](https://quran.com/3/195)
 
@@ -103,6 +109,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (The Pagans), leaving Him, call but upon female deities: They call but upon satan the persistent rebel!
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ جو خدا کے سوا پرستش کرتے ہیں تو عورتوں کی اور پکارتے ہیں تو شیطان کی سرکش ہی کو
+
 [Open on Quran.com](https://quran.com/4/117)
 
 #### 4:124 · [[004 An-Nisa]]
@@ -118,6 +126,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whoever does righteous deeds, whether male or female, while being a believer - those will enter Paradise and will not be wronged, [even as much as] the speck on a date seed.
 
 **English (Yusuf Ali):** If any do deeds of righteousness,- be they male or female - and have faith, they will enter Heaven, and not the least injustice will be done to them.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو نیک کام کرے گا مرد ہو یا عورت اور وہ صاحب ایمان بھی ہوگا تو ایسے لوگ بہشت میں داخل ہوں گے اور ان کی تل برابر بھی حق تلفی نہ کی جائے گی
 
 [Open on Quran.com](https://quran.com/4/124)
 
@@ -135,6 +145,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah doth know what every female (womb) doth bear, by how much the wombs fall short (of their time or number) or do exceed. Every single thing is before His sight, in (due) proportion.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی اس بچے سے واقف ہے جو عورت کے پیٹ میں ہوتا ہے اور پیٹ کے سکڑنے اور بڑھنے سے بھی (واقف ہے)۔ اور ہر چیز کا اس کے ہاں ایک اندازہ مقرر ہے
+
 [Open on Quran.com](https://quran.com/13/8)
 
 #### 16:58 · [[016 An-Nahl]]
@@ -150,6 +162,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when one of them is informed of [the birth of] a female, his face becomes dark, and he suppresses grief.
 
 **English (Yusuf Ali):** When news is brought to one of them, of (the birth of) a female (child), his face darkens, and he is filled with inward grief!
+
+**Urdu (Fatah Muhammad Jalandhari):** حالانکہ جب ان میں سے کسی کو بیٹی (کے پیدا ہونے) کی خبر ملتی ہے تو اس کا منہ (غم کے سبب) کالا پڑ جاتا ہے اور (اس کے دل کو دیکھو تو) وہ اندوہناک ہوجاتا ہے
 
 [Open on Quran.com](https://quran.com/16/58)
 
@@ -167,6 +181,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whoever works righteousness, man or woman, and has Faith, verily, to him will We give a new Life, a life that is good and pure and We will bestow on such their reward according to the best of their actions.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص نیک اعمال کرے گا مرد ہو یا عورت وہ مومن بھی ہوگا تو ہم اس کو (دنیا میں) پاک (اور آرام کی) زندگی سے زندہ رکھیں گے اور (آخرت میں) اُن کے اعمال کا نہایت اچھا صلہ دیں گے
+
 [Open on Quran.com](https://quran.com/16/97)
 
 #### 17:40 · [[017 Al-Isra]]
@@ -183,6 +199,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Has then your Lord (O Pagans!) preferred for you sons, and taken for Himself daughters among the angels? Truly ye utter a most dreadful saying!
 
+**Urdu (Fatah Muhammad Jalandhari):** (مشرکو!) کیا تمہارے پروردگار نے تم کو لڑکے دیئے اور خود فرشتوں کو بیٹیاں بنایا۔ کچھ شک نہیں کہ (یہ) تم بڑی (نامعقول بات) کہتے ہو
+
 [Open on Quran.com](https://quran.com/17/40)
 
 #### 35:11 · [[035 Fatir]]
@@ -198,6 +216,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Allāh created you from dust, then from a sperm-drop; then He made you mates. And no female conceives nor does she give birth except with His knowledge. And no aged person is granted [additional] life nor is his lifespan lessened but that it is in a register. Indeed, that for Allāh is easy.
 
 **English (Yusuf Ali):** And Allah did create you from dust; then from a sperm-drop; then He made you in pairs. And no female conceives, or lays down (her load), but with His knowledge. Nor is a man long-lived granted length of days, nor is a part cut off from his life, but is in a Decree (ordained). All this is easy to Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تم کو مٹی سے پیدا کیا پھر نطفے سے پھر تم کو جوڑا جوڑا بنا دیا۔ اور کوئی عورت نہ حاملہ ہوتی ہے اور نہ جنتی ہے مگر اس کے علم سے۔ اور نہ کسی بڑی عمر والے کو عمر زیادہ دی جاتی ہے اور نہ اس کی عمر کم کی جاتی ہے مگر (سب کچھ) کتاب میں (لکھا ہوا) ہے۔ بےشک یہ خدا کو آسان ہے
 
 [Open on Quran.com](https://quran.com/35/11)
 

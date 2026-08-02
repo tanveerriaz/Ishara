@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:91 · [[006 Al-Anam]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they did not appraise Allāh with true appraisal when they said, "Allāh did not reveal to a human being anything." Say, "Who revealed the Scripture that Moses brought as light and guidance to the people? You [Jews] make it into pages, disclosing [some of] it and concealing much. And you were taught that which you knew not - neither you nor your fathers." Say, "Allāh [revealed it]." Then leave them in their [empty] discourse, amusing themselves.
 
 **English (Yusuf Ali):** No just estimate of Allah do they make when they say: "Nothing doth Allah send down to man (by way of revelation)" Say: "Who then sent down the Book which Moses brought?- a light and guidance to man: But ye make it into (separate) sheets for show, while ye conceal much (of its contents): therein were ye taught that which ye knew not- neither ye nor your fathers." Say: "Allah (sent it down)": Then leave them to plunge in vain discourse and trifling.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے خدا کی قدر جیسی جاننی چاہیئے تھی نہ جانی۔ جب انہوں نے کہا کہ خدا نے انسان پر (وحی اور کتاب وغیرہ) کچھ بھی نازل نہیں کیا۔ کہو جو کتاب موسیٰ لے کر آئے تھے اسے کس نے نازل کیا تھا جو لوگوں کے لئے نور اور ہدایت تھی اور جسے تم نے علیحدہ علیحدہ اوراق (پر نقل) کر رکھا ہے ان (کے کچھ حصے) کو تو ظاہر کرتے ہو اور اکثر کو چھپاتے ہو۔ اور تم کو وہ باتیں سکھائی گئیں جن کو نہ تم جانتے تھے اور نہ تمہارے باپ دادا۔ کہہ دو (اس کتاب کو) خدا ہی نے (نازل کیا تھا) پھر ان کو چھوڑ دیا کہ اپنی بیہودہ بکواس میں کھیلتے رہیں
 
 [Open on Quran.com](https://quran.com/6/91)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or else did they feel secure against its coming in broad daylight while they played about (care-free)?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کیا اہلِ شہر اس سے نڈر ہیں کہ ان پر ہمارا عذاب دن چڑھے آ نازل ہو اور وہ کھیل رہے ہوں
+
 [Open on Quran.com](https://quran.com/7/98)
 
 #### 9:65 · [[009 At-Tawbah]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you ask them, they will surely say, "We were only conversing and playing." Say, "Is it Allāh and His verses and His Messenger that you were mocking?"
 
 **English (Yusuf Ali):** If thou dost question them, they declare (with emphasis): "We were only talking idly and in play." Say: "Was it at Allah, and His Signs, and His Messenger, that ye were mocking?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم ان سے (اس بارے میں) دریافت کرو تو کہیں گے ہم تو یوں ہی بات چیت اور دل لگی کرتے تھے۔ کہو کیا تم خدا اور اس کی آیتوں اور اس کے رسول سے ہنسی کرتے تھے
 
 [Open on Quran.com](https://quran.com/9/65)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Send him with us tomorrow to enjoy himself and play, and we shall take every care of him."
 
+**Urdu (Fatah Muhammad Jalandhari):** کل اسے ہمارے ساتھ بھیج دیجیئے کہ خوب میوے کھائے اور کھیلے کودے۔ ہم اس کے نگہبان ہیں
+
 [Open on Quran.com](https://quran.com/12/12)
 
 #### 21:2 · [[021 Al-Anbya]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** No mention [i.e., revelation] comes to them anew from their Lord except that they listen to it while they are at play
 
 **English (Yusuf Ali):** Never comes (aught) to them of a renewed Message from their Lord, but they listen to it as in jest,-
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کے پاس کوئی نئی نصیحت ان کے پروردگار کی طرف سے نہیں آتی مگر وہ اسے کھیلتے ہوئے سنتے ہیں
 
 [Open on Quran.com](https://quran.com/21/2)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So leave them to babble and play (with vanities) until they meet that Day of theirs, which they have been promised.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کو بک بک کرنے اور کھیلنے دو۔ یہاں تک کہ جس دن کا ان سے وعدہ کیا جاتا ہے اس کو دیکھ لیں
+
 [Open on Quran.com](https://quran.com/43/83)
 
 #### 44:9 · [[044 Ad-Dukhan]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But they are in doubt, amusing themselves.
 
 **English (Yusuf Ali):** Yet they play about in doubt.
+
+**Urdu (Fatah Muhammad Jalandhari):** لیکن یہ لوگ شک میں کھیل رہے ہیں
 
 [Open on Quran.com](https://quran.com/44/9)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** That play (and paddle) in shallow trifles.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو خوض (باطل) میں پڑے کھیل رہے ہیں
+
 [Open on Quran.com](https://quran.com/52/12)
 
 #### 70:42 · [[070 Al-Maarij]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So leave them to converse vainly and amuse themselves until they meet their Day which they are promised -
 
 **English (Yusuf Ali):** So leave them to plunge in vain talk and play about, until they encounter that Day of theirs which they have been promised!-
+
+**Urdu (Fatah Muhammad Jalandhari):** تو (اے پیغمبر) ان کو باطل میں پڑے رہنے اور کھیل لینے دو یہاں تک کہ جس دن کا ان سے وعدہ کیا جاتا ہے وہ ان کے سامنے آ موجود ہو
 
 [Open on Quran.com](https://quran.com/70/42)
 

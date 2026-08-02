@@ -15,30 +15,30 @@ The Star · 62 ayahs
 ## Words in this surah (graph)
 
 - [[hwY - desire]] — `هَوَى` · desire
-- [[tmAr - argue]] — `تُمارِ` · argue
 - [[smY - name them]] — `سَمَّى` · name them
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[tmAr - argue]] — `تُمارِ` · argue
+- [[>Elm - knowing]] — `أَعْلَم` · knowing
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[HyAp - life]] — `حَياة` · life
+- [[AbA' - forefathers]] — `آباء` · forefathers
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[n*yr - warner]] — `نَذِير` · warner
-- [[qbl - before]] — `قَبْل` · before
-- [[qwp - strength]] — `قُوَّة` · strength
-- [[>gnY - availed]] — `أَغْنَى` · availed
-- [[Dl - lost]] — `ضَلَّ` · lost
-- [[zkY - purify them]] — `زَكَّى` · purify them
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[lys - not]] — `لَيْسَ` · not
-- [[n$>p - creation]] — `نَشْأَة` · creation
-- [[njm - stars]] — `نَجْم` · stars
-- [[bqy - remained]] — `بَقِيَ` · remained
-- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[Eml - do]] — `عَمِلَ` · do
-- [[DHkt - laugh]] — `ضَحِكَتْ` · laugh
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
-- [[Ejb - wonder]] — `عَجِبُ` · wonder
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[EAd - aad]] — `عادَ` · aad
+- [[>rD - earth]] — `أَرْض` · earth
 - [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[wAsE - all-encompassing]] — `واسِع` · all-encompassing
-- [[>wl - first]] — `أَوَّل` · first
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[dnyA - world]] — `دُنْيا` · world
+- [[mrp - time]] — `مَرَّة` · time
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[bEd - after]] — `بَعْد` · after
+- [[Elm - know]] — `عَلِمَ` · know
+- [[m>wY - abode]] — `مَأْوَى` · abode
+- [[Ajtnb - avoid]] — `اجْتَنَبُ` · avoid
+- [[qbl - before]] — `قَبْل` · before
+- [[zAg - deviated]] — `زاغَ` · deviated
+- [[tmnY - he recited]] — `تَمَنَّى` · he recited
+- [[k*b - denied]] — `كَذَبَ` · denied
 
 ## Roots
 
@@ -46,33 +46,33 @@ The Star · 62 ayahs
 - [[$dd - severe]]
 - [[$fE - make something pair]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
-- [[>*n - adhn]]
-- [[>bw - abw]]
-- [[>fk - afk]]
-- [[>fq - afq]]
+- [[*kr - remember recall something]]
+- [[>*n - ear]]
+- [[>bw - forefathers]]
+- [[>fk - turn something away]]
+- [[>fq - go one's own]]
 - [[>lw - ila]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
-- [[>ns - ans]]
+- [[>mn - believe]]
+- [[>ns - mankind]]
 - [[>nv - female]]
-- [[>rD - ard]]
-- [[>vm - athm]]
-- [[>wl - like milk oil]]
+- [[>rD - earth]]
+- [[>vm - sin commit crime]]
+- [[>wl - return revert original]]
 - [[>wy - betake oneself place]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
-- [[DHk - dhk]]
+- [[DHk - laugh]]
 - [[Dll - astray]]
 - [[ETw - take handle something]]
 - [[Ebd - worship]]
 - [[Ejb - amazing]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
-- [[ErD - erd]]
-- [[Ewd - ewd]]
+- [[ErD - turn away]]
+- [[Ewd - aad]]
 - [[Ezz - all-mighty]]
 - [[Hdv - accidents]]
 - [[Hqq - established as true]]
@@ -85,12 +85,12 @@ The Star · 62 ayahs
 - [[Znn - think]]
 - [[allah - God]]
 - [[bEd - become distant]]
-- [[bSr - bsr]]
+- [[bSr - mental perception]]
 - [[bTn - belly abdomen]]
 - [[bky - weep cry]]
-- [[blg - balagha]]
+- [[blg - reach]]
 - [[bqy - remain]]
-- [[dlw - dalw]]
+- [[dlw - let down bucket]]
 - [[dnw - become near]]
 
 ## Sample (ayah 1)

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>mn - amn]]
+- [[>mn - believe]]
 
 ### Meaning
 **trusts** · Lemma **أَمانَة**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:58 · [[004 An-Nisa]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Allāh commands you to render trusts to whom they are due and when you judge between people to judge with justice. Excellent is that which Allāh instructs you. Indeed, Allāh is ever Hearing and Seeing.
 
 **English (Yusuf Ali):** Allah doth command you to render back your Trusts to those to whom they are due; And when ye judge between man and man, that ye judge with justice: Verily how excellent is the teaching which He giveth you! For Allah is He Who heareth and seeth all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تم کو حکم دیتا ہے کہ امانت والوں کی امانتیں ان کے حوالے کردیا کرو اور جب لوگوں میں فیصلہ کرنے لگو تو انصاف سے فیصلہ کیا کرو خدا تمہیں بہت خوب نصیحت کرتا ہے بےشک خدا سنتا اور دیکھتا ہے
 
 [Open on Quran.com](https://quran.com/4/58)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye that believe! betray not the trust of Allah and the Messenger, nor misappropriate knowingly things entrusted to you.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! نہ تو خدا اور رسول کی امانت میں خیانت کرو اور نہ اپنی امانتوں میں خیانت کرو اور تم (ان باتوں کو) جانتے ہو
+
 [Open on Quran.com](https://quran.com/8/27)
 
 #### 23:8 · [[023 Al-Muminun]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who faithfully observe their trusts and their covenants;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو امانتوں اور اقراروں کو ملحوظ رکھتے ہیں
+
 [Open on Quran.com](https://quran.com/23/8)
 
 #### 70:32 · [[070 Al-Maarij]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who are to their trusts and promises attentive.
 
 **English (Yusuf Ali):** And those who respect their trusts and covenants;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو اپنی امانتوں اور اقراروں کا پاس کرتے ہیں
 
 [Open on Quran.com](https://quran.com/70/32)
 

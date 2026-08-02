@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:221 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not marry polytheistic women until they believe. And a believing slave woman is better than a polytheist, even though she might please you. And do not marry polytheistic men [to your women] until they believe. And a believing slave is better than a polytheist, even though he might please you. Those invite [you] to the Fire, but Allāh invites to Paradise and to forgiveness, by His permission. And He makes clear His verses [i.e., ordinances] to the people that perhaps they may remember.
 
 **English (Yusuf Ali):** Do not marry unbelieving women (idolaters), until they believe: A slave woman who believes is better than an unbelieving woman, even though she allures you. Nor marry (your girls) to unbelievers until they believe: A man slave who believes is better than an unbeliever, even though he allures you. Unbelievers do (but) beckon you to the Fire. But Allah beckons by His Grace to the Garden (of bliss) and forgiveness, and makes His Signs clear to mankind: That they may celebrate His praise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (مومنو) مشرک عورتوں سے جب تک کہ ایمان نہ لائیں نکاح نہ کرنا۔ کیونکہ مشرک عورت خواہ تم کو کیسی ہی بھلی لگے اس سے مومن لونڈی بہتر ہے۔ اور (اسی طرح) مشرک مرد جب تک ایمان نہ لائیں مومن عورتوں کو ان کو زوجیت میں نہ دینا کیونکہ مشرک (مرد) سے خواہ وہ تم کو کیسا ہی بھلا لگے مومن غلام بہتر ہے۔ یہ (مشرک لوگوں کو) دوزخ کی طرف بلاتے ہیں۔ اور خدا اپنی مہربانی سے بہشت اور بخشش کی طرف بلاتا ہے۔ اور اپنے حکم لوگوں سے کھول کھول کر بیان کرتا ہے تاکہ نصیحت حاصل کریں
 
 [Open on Quran.com](https://quran.com/2/221)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Let no man guilty of adultery or fornication marry and but a woman similarly guilty, or an Unbeliever: nor let any but such a man or an Unbeliever marry such a woman: to the Believers such a thing is forbidden.
 
+**Urdu (Fatah Muhammad Jalandhari):** بدکار مرد تو بدکار یا مشرک عورت کے سوا نکاح نہیں کرتا اور بدکار عورت کو بھی بدکار یا مشرک مرد کے سوا اور کوئی نکاح میں نہیں لاتا اور یہ (یعنی بدکار عورت سے نکاح کرنا) مومنوں پر حرام ہے
+
 [Open on Quran.com](https://quran.com/24/3)
 
 #### 33:73 · [[033 Al-Ahzab]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (With the result) that Allah has to punish the Hypocrites, men and women, and the Unbelievers, men and women, and Allah turns in Mercy to the Believers, men and women: for Allah is Oft-Forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ خدا منافق مردوں اور منافق عورتوں اور مشرک مردوں اور مشرک عورتوں کو عذاب دے اور خدا مومن مردوں اور مومن عورتوں پر مہربانی کرے۔ اور خدا تو بخشنے والا مہربان ہے
+
 [Open on Quran.com](https://quran.com/33/73)
 
 #### 48:6 · [[048 Al-Fath]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [that] He may punish the hypocrite men and hypocrite women, and the polytheist men and polytheist women - those who assume about Allāh an assumption of evil nature. Upon them is a misfortune of evil nature; and Allāh has become angry with them and has cursed them and prepared for them Hell, and evil it is as a destination.
 
 **English (Yusuf Ali):** And that He may punish the Hypocrites, men and women, and the Polytheists men and women, who imagine an evil opinion of Allah. On them is a round of Evil: the Wrath of Allah is on them: He has cursed them and got Hell ready for them: and evil is it for a destination.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس لئے کہ) منافق مردوں اور منافق عورتوں اور مشرک مردوں اور مشرک عورتوں کو جو خدا کے حق میں برے برے خیال رکھتے ہیں عذاب دے۔ ان ہی پر برے حادثے واقع ہوں۔ اور خدا ان پر غصے ہوا اور ان پر لعنت کی اور ان کے لئے دوزخ تیار کی۔ اور وہ بری جگہ ہے
 
 [Open on Quran.com](https://quran.com/48/6)
 

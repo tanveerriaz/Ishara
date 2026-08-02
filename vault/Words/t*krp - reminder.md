@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 
 ### Meaning
 **reminder** · Lemma **تَذْكِرَة**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 20:3 · [[020 Taha]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But only as a reminder for those who fear [Allāh] -
 
 **English (Yusuf Ali):** But only as an admonition to those who fear (Allah),-
+
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ اس شخص کو نصیحت دینے کے لئے (نازل کیا ہے) جو خوف رکھتا ہے
 
 [Open on Quran.com](https://quran.com/20/3)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We have made it a memorial (of Our handiwork), and an article of comfort and convenience for the denizens of deserts.
 
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے اسے یاد دلانے اور مسافروں کے برتنے کو بنایا ہے
+
 [Open on Quran.com](https://quran.com/56/73)
 
 #### 69:12 · [[069 Al-Haqqah]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That We might make it for you a reminder and [that] a conscious ear would be conscious of it.
 
 **English (Yusuf Ali):** That We might make it a Message unto you, and that ears (that should hear the tale and) retain its memory should bear its (lessons) in remembrance.
+
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ اس کو تمہارے لئے یادگار بنائیں اور یاد رکھنے والے کان اسے یاد رکھیں
 
 [Open on Quran.com](https://quran.com/69/12)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But verily this is a Message for the Allah-fearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ (کتاب) تو پرہیزگاروں کے لئے نصیحت ہے
+
 [Open on Quran.com](https://quran.com/69/48)
 
 #### 73:19 · [[073 Al-Muzzammil]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, this is a reminder, so whoever wills may take to his Lord a way.
 
 **English (Yusuf Ali):** Verily this is an Admonition: therefore, whoso will, let him take a (straight) path to his Lord!
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ (قرآن) تو نصیحت ہے۔ سو جو چاہے اپنے پروردگار تک (پہنچنے کا) رستہ اختیار کرلے
 
 [Open on Quran.com](https://quran.com/73/19)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then what is the matter with them that they turn away from admonition?-
 
+**Urdu (Fatah Muhammad Jalandhari):** ان کو کیا ہوا ہے کہ نصیحت سے روگرداں ہو رہے ہیں
+
 [Open on Quran.com](https://quran.com/74/49)
 
 #### 74:54 · [[074 Al-Muddaththir]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** No! Indeed, it [i.e., the Qur’ān] is a reminder.
 
 **English (Yusuf Ali):** Nay, this surely is an admonition:
+
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ یہ نصیحت ہے
 
 [Open on Quran.com](https://quran.com/74/54)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** This is an admonition: Whosoever will, let him take a (straight) Path to his Lord.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ تو نصیحت ہے۔ جو چاہے اپنے پروردگار کی طرف پہنچنے کا رستہ اختیار کرے
+
 [Open on Quran.com](https://quran.com/76/29)
 
 #### 80:11 · [[080 Abasa]]
@@ -173,6 +189,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** No! Indeed, they [i.e., these verses] are a reminder;
 
 **English (Yusuf Ali):** By no means (should it be so)! For it is indeed a Message of instruction:
+
+**Urdu (Fatah Muhammad Jalandhari):** دیکھو یہ (قرآن) نصیحت ہے
 
 [Open on Quran.com](https://quran.com/80/11)
 

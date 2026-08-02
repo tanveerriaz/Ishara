@@ -16,81 +16,81 @@ The Moon · 55 ayahs
 
 - [[ysr - ease]] — `يُسْر` · ease
 - [[mqtdr - all able]] — `مُقْتَدِر` · all able
-- [[zbr - scriptures]] — `زُبُر` · scriptures
 - [[k*Ab - liar]] — `كَذّاب` · liar
+- [[zbr - scriptures]] — `زُبُر` · scriptures
+- [[wlY - so turn]] — `وَلَّى` · so turn
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[n*yr - warner]] — `نَذِير` · warner
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
+- [[Dyf - guests]] — `ضَيْف` · guests
+- [[jmyE - all]] — `جَمِيع` · all
+- [[mrsl - messengers]] — `مُرْسَل` · messengers
+- [[ryH - wind]] — `رِيح` · wind
+- [[EAd - aad]] — `عادَ` · aad
+- [[>rD - earth]] — `أَرْض` · earth
 - [[wjh - faces]] — `وَجْه` · faces
-- [[wAHdp - single]] — `واحِدَة` · single
-- [[qdr - restricts]] — `قَدَر` · restricts
+- [[xrj - come forth]] — `خَرَجَ` · come forth
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[SyHp - shout]] — `صَيْحَة` · shout
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[xA$E - humbled]] — `خاشِع` · humbled
-- [[nAdY - he called]] — `نادَى` · he called
-- [[AltqY - met]] — `الْتَقَى` · met
-- [[>mr - command]] — `أَمَرَ` · command
-- [[bAlgp - conclusive]] — `بالِغَة` · conclusive
-- [[ftnp - trial]] — `فِتْنَة` · trial
-- [[mA' - water]] — `ماء` · water
-- [[nAqp - she-camel]] — `ناقَة` · she-camel
-- [[jA' - came them]] — `جاءَ` · came them
+- [[qmr - moon]] — `قَمَر` · moon
+- [[nAs - people]] — `ناس` · people
+- [[mqEd - take positions]] — `مَقْعَد` · take positions
+- [[byn - between them]] — `بَيْن` · between them
+- [[mntSr - he supported]] — `مُنتَصِر` · he supported
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[Elm - know]] — `عَلِمَ` · know
+- [[HASb - storm stones]] — `حاصِب` · storm stones
+- [[Al - people]] — `آل` · people
+- [[qbl - before]] — `قَبْل` · before
 
 ## Roots
 
-- [[$kr - shkr]]
+- [[$kr - gratitude]]
 - [[$qq - cleave]]
-- [[$rb - shrb]]
+- [[$rb - drink]]
 - [[$y> - thing]]
-- [[$yE - shye]]
-- [[*kr - dhakara]]
-- [[*wq - dhwq]]
+- [[$yE - follow cause follow]]
+- [[*kr - remember recall something]]
+- [[*wq - taste]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
-- [[>wl - like milk oil]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[Dyf - dyf]]
-- [[E*b - edhb]]
+- [[Dyf - inclining]]
+- [[E*b - motes particles floating]]
 - [[ETw - take handle something]]
 - [[Ebd - worship]]
 - [[Ejz - old age weakness]]
 - [[Elm - knowledge]]
 - [[End - near]]
-- [[Eqr - eqr]]
-- [[ErD - erd]]
-- [[Esr - esr]]
-- [[Ewd - ewd]]
-- [[Eyn - eyn]]
+- [[Eqr - wound hamstring]]
+- [[ErD - turn away]]
+- [[Esr - hardship]]
+- [[Ewd - aad]]
+- [[Eyn - eyes]]
 - [[Ezz - all-mighty]]
-- [[HDr - hdr]]
+- [[HDr - present]]
 - [[HSb - pelt pebbles spread]]
 - [[Hkm - prevent restrain someone]]
 - [[Hml - bear]]
 - [[SHb - lord]]
-- [[SbH - sbh]]
+- [[SbH - morning]]
 - [[Sbr - confine restrain]]
 - [[Sdq - speak truth]]
-- [[Sgr - sgr]]
-- [[SrSr - srsr]]
-- [[SyH - syh]]
-- [[Tms - tms]]
+- [[Sgr - small little]]
+- [[SrSr - furious]]
+- [[SyH - raise one's voice]]
+- [[Tms - efface obliterate something]]
 - [[b$r - strip pare something]]
-- [[bSr - bsr]]
+- [[bSr - mental perception]]
 - [[bT$ - seize assault violence]]
-- [[bkr - bkr]]
-- [[blg - balagha]]
-- [[br> - bra]]
-- [[bwb - bwb]]
+- [[bkr - go forth come]]
+- [[blg - reach]]
+- [[br> - clear free something]]
+- [[bwb - gate]]
 - [[byn - clear]]
 - [[dEw - call]]
-- [[dbr - dbr]]
+- [[dbr - turn back]]
 - [[fEl - deed]]
 
 ## Sample (ayah 1)

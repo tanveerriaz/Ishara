@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 18:70 · [[018 Al-Kahf]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "Then if you follow me, do not ask me about anything until I make to you about it mention [i.e., explanation]."
 
 **English (Yusuf Ali):** The other said: "If then thou wouldst follow me, ask me no questions about anything until I myself speak to thee concerning it."
+
+**Urdu (Fatah Muhammad Jalandhari):** (خضر نے) کہا کہ اگر تم میرے ساتھ رہنا چاہو تو (شرط یہ ہے) مجھ سے کوئی بات نہ پوچھنا جب تک میں خود اس کا ذکر تم سے نہ کروں
 
 [Open on Quran.com](https://quran.com/18/70)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thus have We sent this down - an arabic Qur'an - and explained therein in detail some of the warnings, in order that they may fear Allah, or that it may cause their remembrance (of Him).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس کو اسی طرح کا قرآن عربی نازل کیا ہے اور اس میں طرح طرح کے ڈراوے بیان کردیئے ہیں تاکہ لوگ پرہیزگار بنیں یا خدا ان کے لئے نصیحت پیدا کردے
+
 [Open on Quran.com](https://quran.com/20/113)
 
 #### 65:1 · [[065 At-Talaq]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O Prophet, when you [Muslims] divorce women, divorce them for [the commencement of] their waiting period and keep count of the waiting period, and fear Allāh, your Lord. Do not turn them out of their [husbands'] houses, nor should they [themselves] leave [during that period] unless they are committing a clear immorality. And those are the limits [set by] Allāh. And whoever transgresses the limits of Allāh has certainly wronged himself. You know not; perhaps Allāh will bring about after that a [different] matter.
 
 **English (Yusuf Ali):** O Prophet! When ye do divorce women, divorce them at their prescribed periods, and count (accurately), their prescribed periods: And fear Allah your Lord: and turn them not out of their houses, nor shall they (themselves) leave, except in case they are guilty of some open lewdness, those are limits set by Allah: and any who transgresses the limits of Allah, does verily wrong his (own) soul: thou knowest not if perchance Allah will bring about thereafter some new situation.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر (مسلمانوں سے کہہ دو کہ) جب تم عورتوں کو طلاق دینے لگو تو عدت کے شروع میں طلاق دو اور عدت کا شمار رکھو۔ اور خدا سے جو تمہارا پروردگار ہے ڈرو۔ (نہ تو تم ہی) ان کو (ایام عدت میں) ان کے گھروں سے نکالو اور نہ وہ (خود ہی) نکلیں۔ ہاں اگر وہ صریح بےحیائی کریں (تو نکال دینا چاہیئے) اور یہ خدا کی حدیں ہیں۔ جو خدا کی حدوں سے تجاوز کرے گا وہ اپنے آپ پر ظلم کرے گا۔ (اے طلاق دینے والے) تجھے کیا معلوم شاید خدا اس کے بعد کوئی (رجعت کی) سبیل پیدا کردے
 
 [Open on Quran.com](https://quran.com/65/1)
 

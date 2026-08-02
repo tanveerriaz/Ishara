@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:75 · [[006 Al-Anam]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith].
 
 **English (Yusuf Ali):** So also did We show Abraham the power and the laws of the heavens and the earth, that he might (with understanding) have certitude.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم اس طرح ابراہیم کو آسمانوں اور زمین کے عجائبات دکھانے لگے تاکہ وہ خوب یقین کرنے والوں میں ہوجائیں
 
 [Open on Quran.com](https://quran.com/6/75)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Do they see nothing in the government of the heavens and the earth and all that Allah hath created? (Do they not see) that it may well be that their terms is nigh drawing to an end? In what message after this will they then believe?
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے آسمان اور زمین کی بادشاہت میں جو چیزیں خدا نے پیدا کی ہیں ان پر نظر نہیں کی اور اس بات پر (خیال نہیں کیا) کہ عجب نہیں ان (کی موت) کا وقت نزدیک پہنچ گیا ہو۔ تو اس کے بعد وہ اور کس بات پر ایمان لائیں گے
+
 [Open on Quran.com](https://quran.com/7/185)
 
 #### 23:88 · [[023 Al-Muminun]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Who is it in whose hands is the governance of all things,- who protects (all), but is not protected (of any)? (say) if ye know."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اگر تم جانتے ہو تو بتاؤ کہ وہ کون ہے جس کے ہاتھ میں ہر چیز کی بادشاہی ہے اور وہ پناہ دیتا ہے اور اس کے مقابل کوئی کسی کو پناہ نہیں دے سکتا
+
 [Open on Quran.com](https://quran.com/23/88)
 
 #### 36:83 · [[036 Ya-Sin]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So exalted is He in whose hand is the realm of all things, and to Him you will be returned.
 
 **English (Yusuf Ali):** So glory to Him in Whose hands is the dominion of all things: and to Him will ye be all brought back.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ (ذات) پاک ہے جس کے ہاتھ میں ہر چیز کی بادشاہت ہے اور اسی کی طرف تم کو لوٹ کر جانا ہے
 
 [Open on Quran.com](https://quran.com/36/83)
 

@@ -17,79 +17,79 @@ The Beneficent · 78 ayahs
 - [[AlA' - favors]] — `آلاء` · favors
 - [[jAn - any jinn]] — `جانّ` · any jinn
 - [[fAkhp - fruits]] — `فاكِهَة` · fruits
-- [[mtk} - reclining]] — `مُتَّكِئ` · reclining
 - [[nxl - date-palms]] — `نَخْل` · date-palms
-- [[Hsn - good]] — `حُسْن` · good
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[wzn - weigh]] — `وَزْن` · weigh
+- [[mtk} - reclining]] — `مُتَّكِئ` · reclining
+- [[>rD - earth]] — `أَرْض` · earth
+- [[byAn - declaration]] — `بَيان` · declaration
 - [[wjh - faces]] — `وَجْه` · faces
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[njm - stars]] — `نَجْم` · stars
-- [[bqy - remained]] — `بَقِيَ` · remained
-- [[AltqY - met]] — `الْتَقَى` · met
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[qmr - moon]] — `قَمَر` · moon
+- [[mgrb - west]] — `مَغْرِب` · west
+- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
 - [[tbArk - blessed]] — `تَبارَكَ` · blessed
-- [[>y - o you]] — `أَيّ` · o you
-- [[jry - flow]] — `جَرَيْ` · flow
-- [[m$rq - east]] — `مَشْرِق` · east
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[*nb - sins]] — `ذَنب` · sins
-- [[rb - lord]] — `رَبّ` · lord
-- [[xAf - fear]] — `خافَ` · fear
-- [[jwAr - ships]] — `جَوار` · ships
+- [[ESf - husk]] — `عَصْف` · husk
+- [[byn - between them]] — `بَيْن` · between them
 - [[TAf - will circulated]] — `طافَ` · will circulated
-- [[slTAn - authority]] — `سُلْطان` · authority
+- [[m$rq - east]] — `مَشْرِق` · east
+- [[Elm - know]] — `عَلِمَ` · know
+- [[bgY - seek it]] — `بَغَى` · seek it
+- [[qbl - before]] — `قَبْل` · before
+- [[myzAn - scales]] — `مِيزان` · scales
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[mjrm - criminals]] — `مُجْرِم` · criminals
+- [[$>n - any situation]] — `شَأْن` · any situation
+- [[dwn - besides]] — `دُون` · besides
 
 ## Roots
 
 - [[$>n - matter]]
-- [[$jr - shjr]]
+- [[$jr - trees]]
 - [[$ms - horse refusing ridden]]
 - [[$qq - cleave]]
-- [[$rq - east]]
+- [[$rq - earth]]
 - [[*nb - tail]]
 - [[>lw - ila]]
-- [[>ns - ans]]
-- [[>ny - any]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>ny - hours]]
+- [[>rD - earth]]
 - [[>x* - take]]
 - [[>yy - ism]]
-- [[E$r - eshr]]
-- [[ESf - esf]]
+- [[E$r - ten]]
+- [[ESf - stormy]]
 - [[Elm - knowledge]]
-- [[Erf - erf]]
-- [[Eyn - eyn]]
+- [[Erf - right]]
+- [[Eyn - eyes]]
 - [[Hbb - love]]
-- [[Hmm - hmm]]
+- [[Hmm - blackness being intensely]]
 - [[Hsb - number]]
 - [[Hsn - good]]
 - [[Hwr - returning circling]]
 - [[Tgy - transgression]]
-- [[Trf - trf]]
-- [[TwE - twe]]
-- [[Twf - twf]]
+- [[Trf - side]]
+- [[TwE - obey]]
+- [[Twf - go walk around]]
 - [[bHr - large body water]]
 - [[bTn - belly abdomen]]
 - [[bgy - seek desire something]]
 - [[bqy - remain]]
-- [[brk - brk]]
+- [[brk - camel's breast]]
 - [[brzx - intervening barrier obstruction]]
 - [[byn - clear]]
-- [[dhn - dhn]]
+- [[dhn - anoint oil something]]
 - [[dnw - become near]]
 - [[dwn - besides]]
-- [[fkh - fkh]]
-- [[fr$ - frsh]]
-- [[frg - as body becomes]]
-- [[fxr - fkhr]]
+- [[fkh - eating fruit]]
+- [[fr$ - spread expand something]]
+- [[frg - empty vacant]]
+- [[fxr - glory]]
 - [[grb - distance west]]
-- [[jnn - jann]]
-- [[jrm - jrm]]
+- [[jnn - cover]]
+- [[jrm - criminals]]
 - [[jry - passage time events]]
 - [[jzy - recompense reward]]
 - [[k*b - denied]]
 - [[kll - every]]
-- [[krm - krm]]
+- [[krm - noble]]
 - [[kwn - is]]
 - [[l&l& - pearls]]
 

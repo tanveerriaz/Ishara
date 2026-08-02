@@ -15,82 +15,82 @@ The Smoke · 59 ayahs
 ## Words in this surah (graph)
 
 - [[Artqb - watch]] — `ارْتَقِبْ` · watch
-- [[r>s - heads]] — `رَأْس` · heads
-- [[mbArkp - blessed]] — `مُبارَكَة` · blessed
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[lyl - night]] — `لَيْل` · night
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
-- [[jnd - hosts]] — `جُند` · hosts
-- [[fwz - success]] — `فَوْز` · success
-- [[mwlY - protector]] — `مَوْلَى` · protector
-- [[>mr - command]] — `أَمَرَ` · command
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[EZym - great]] — `عَظِيم` · great
-- [[>srY - so travel]] — `أَسْرَى` · so travel
-- [[smyE - all-hearer]] — `سَمِيع` · all-hearer
-- [[>wl - first]] — `أَوَّل` · first
-- [[>wrv - we caused inherit]] — `أَوْرَثَ` · we caused inherit
+- [[mgrq - ones drowned]] — `مُغْرَق` · ones drowned
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[AbA' - forefathers]] — `آباء` · forefathers
 - [[ymtr - doubt]] — `يَمْتَرُ` · doubt
-- [[jA' - came them]] — `جاءَ` · came them
+- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
+- [[mrsl - messengers]] — `مُرْسَل` · messengers
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[EAlm - worlds]] — `عالَم` · worlds
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[blA' - was trial]] — `بَلاء` · was trial
-- [[bkt - weeping]] — `بَكَتْ` · weeping
+- [[>rD - earth]] — `أَرْض` · earth
+- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[Hq - truth]] — `حَقّ` · truth
-- [[njY - we saved]] — `نَجَّى` · we saved
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[nAs - people]] — `ناس` · people
+- [[byn - between them]] — `بَيْن` · between them
+- [[k$f - we removed]] — `كَشَفَ` · we removed
+- [[rHmp - mercy]] — `رَحْمَة` · mercy
+- [[mwqn - certain]] — `مُوقِن` · certain
+- [[Elm - know]] — `عَلِمَ` · know
+- [[fwq - above them]] — `فَوْق` · above them
+- [[qbl - before]] — `قَبْل` · before
+- [[zqwm - zaqqum]] — `زَقُّوم` · zaqqum
+- [[EAly - its upside]] — `عالِي` · its upside
 
 ## Roots
 
-- [[$jr - shjr]]
-- [[$kk - shakka]]
+- [[$jr - trees]]
+- [[$kk - doubt uncertain about]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
-- [[*wq - dhwq]]
-- [[>bw - abw]]
-- [[>dy - ady]]
+- [[*kr - remember recall something]]
+- [[*wq - taste]]
+- [[>bw - forefathers]]
+- [[>dy - perform]]
 - [[>lh - god]]
-- [[>lm - alm]]
-- [[>mn - amn]]
+- [[>lm - painful]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - athm]]
-- [[>wl - like milk oil]]
+- [[>vm - sin commit crime]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Ebd - worship]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
 - [[End - near]]
-- [[Ew* - ewdh]]
-- [[Ewd - ewd]]
-- [[Eyn - eyn]]
-- [[Ezl - ezl]]
+- [[Ew* - seek protection]]
+- [[Ewd - aad]]
+- [[Eyn - eyes]]
+- [[Ezl - lower spout outlet]]
 - [[Ezz - all-mighty]]
 - [[Hkm - prevent restrain someone]]
-- [[Hmm - hmm]]
+- [[Hmm - blackness being intensely]]
 - [[Hqq - established as true]]
 - [[Hwr - returning circling]]
 - [[Hyy - life]]
-- [[Sbb - sbb]]
+- [[Sbb - pour out shed]]
 - [[Sdq - speak truth]]
-- [[TEm - tem]]
+- [[TEm - food]]
 - [[allah - God]]
 - [[bHr - large body water]]
 - [[bT$ - seize assault violence]]
 - [[bTn - belly abdomen]]
 - [[bky - weep cry]]
-- [[blw - blw]]
+- [[blw - test try]]
 - [[bny - sons]]
-- [[brk - brk]]
+- [[brk - camel's breast]]
 - [[byn - clear]]
 - [[dEw - call]]
-- [[fDl - fdl]]
+- [[fDl - bounty]]
 - [[fSl - separate]]
 
 ## Sample (ayah 1)

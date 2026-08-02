@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:31 · [[007 Al-Araf]]
 
@@ -49,6 +49,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O children of Adam, take your adornment [i.e., wear your clothing] at every masjid, and eat and drink, but be not excessive. Indeed, He likes not those who commit excess.
 
 **English (Yusuf Ali):** O Children of Adam! wear your beautiful apparel at every time and place of prayer: eat and drink: But waste not by excess, for Allah loveth not the wasters.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی آدم! ہر نماز کے وقت اپنے تئیں مزّین کیا کرو اور کھاؤ اور پیؤ اور بےجا نہ اڑاؤ کہ خدا بےجا اڑانے والوں کو دوست نہیں رکھتا
 
 [Open on Quran.com](https://quran.com/7/31)
 
@@ -66,6 +68,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: Who hath forbidden the beautiful (gifts) of Allah, which He hath produced for His servants, and the things, clean and pure, (which He hath provided) for sustenance? Say: They are, in the life of this world, for those who believe, (and) purely for them on the Day of Judgment. Thus do We explain the signs in detail for those who understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** پوچھو تو کہ جو زینت (وآرائش) اور کھانے (پینے) کی پاکیزہ چیزیں خدا نے اپنے بندوں کے لیے پیدا کی ہیں ان کو حرام کس نے کیا ہے؟ کہہ دو کہ یہ چیزیں دنیا کی زندگی میں ایمان والوں کے لیے ہیں اور قیامت کے دن خاص ان ہی کا حصہ ہوں گی۔ اسی طرح خدا اپنی آیتیں سمجھنے والوں کے لیے کھول کھول کر بیان فرماتا ہے
+
 [Open on Quran.com](https://quran.com/7/32)
 
 #### 10:88 · [[010 Yunus]]
@@ -81,6 +85,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Moses said, "Our Lord, indeed You have given Pharaoh and his establishment splendor and wealth in the worldly life, our Lord, that they may lead [men] astray from Your way. Our Lord, obliterate their wealth and harden their hearts so that they will not believe until they see the painful punishment."
 
 **English (Yusuf Ali):** Moses prayed: "Our Lord! Thou hast indeed bestowed on Pharaoh and his chiefs splendour and wealth in the life of the present, and so, Our Lord, they mislead (men) from Thy Path. Deface, our Lord, the features of their wealth, and send hardness to their hearts, so they will not believe until they see the grievous penalty."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ نے کہا اے ہمارے پروردگار تو نے فرعون اور اس کے سرداروں کو دنیا کی زندگی میں (بہت سا) سازو برگ اور مال وزر دے رکھا ہے۔ اے پروردگار ان کا مال یہ ہے کہ تیرے رستے سے گمراہ کردیں۔ اے پروردگار ان کے مال کو برباد کردے اور ان کے دلوں کو سخت کردے کہ ایمان نہ لائیں جب تک عذاب الیم نہ دیکھ لیں
 
 [Open on Quran.com](https://quran.com/10/88)
 
@@ -98,6 +104,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who desire the life of the present and its glitter,- to them we shall pay (the price of) their deeds therein,- without diminution.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ دنیا کی زندگی اور اس کی زیب و زینت کے طالب ہوں ہم ان کے اعمال کا بدلہ انہیں دنیا میں ہی دے دیتے ہیں اور اس میں ان کی حق تلفی نہیں کی جاتی
+
 [Open on Quran.com](https://quran.com/11/15)
 
 #### 16:8 · [[016 An-Nahl]]
@@ -113,6 +121,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [He created] the horses, mules and donkeys for you to ride and [as] adornment. And He creates that which you do not know.
 
 **English (Yusuf Ali):** And (He has created) horses, mules, and donkeys, for you to ride and use for show; and He has created (other) things of which ye have no knowledge.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے گھوڑے اور خچر اور گدھے پیدا کئے تاکہ تم ان پر سوار ہو اور (وہ تمہارے لیے) رونق وزینت (بھی ہیں) اور وہ (اور چیزیں بھی) پیدا کرتا ہے جن کی تم کو خبر نہیں
 
 [Open on Quran.com](https://quran.com/16/8)
 
@@ -130,6 +140,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** That which is on earth we have made but as a glittering show for the earth, in order that We may test them - as to which of them are best in conduct.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو چیز زمین پر ہے ہم نے اس کو زمین کے لئے آرائش بنایا ہے تاکہ لوگوں کی آزمائش کریں کہ ان میں کون اچھے عمل کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/18/7)
 
 #### 18:28 · [[018 Al-Kahf]]
@@ -145,6 +157,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And keep yourself patient [by being] with those who call upon their Lord in the morning and the evening, seeking His face [i.e., acceptance]. And let not your eyes pass beyond them, desiring adornments of the worldly life, and do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect.
 
 **English (Yusuf Ali):** And keep thy soul content with those who call on their Lord morning and evening, seeking His Face; and let not thine eyes pass beyond them, seeking the pomp and glitter of this Life; nor obey any whose heart We have permitted to neglect the remembrance of Us, one who follows his own desires, whose case has gone beyond all bounds.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ صبح و شام اپنے پروردگار کو پکارتے اور اس کی خوشنودی کے طالب ہیں۔ ان کے ساتھ صبر کرتے رہو۔ اور تمہاری نگاہیں ان میں (گزر کر اور طرف) نہ دوڑیں کہ تم آرائشِ زندگانی دنیا کے خواستگار ہوجاؤ۔ اور جس شخص کے دل کو ہم نے اپنی یاد سے غافل کردیا ہے اور وہ اپنی خواہش کی پیروی کرتا ہے اور اس کا کام حد سے بڑھ گیا ہے اس کا کہا نہ ماننا
 
 [Open on Quran.com](https://quran.com/18/28)
 
@@ -162,6 +176,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Wealth and sons are allurements of the life of this world: But the things that endure, good deeds, are best in the sight of thy Lord, as rewards, and best as (the foundation for) hopes.
 
+**Urdu (Fatah Muhammad Jalandhari):** مال اور بیٹے تو دنیا کی زندگی کی (رونق و) زینت ہیں۔ اور نیکیاں جو باقی رہنے والی ہیں وہ ثواب کے لحاظ سے تمہارے پروردگار کے ہاں بہت اچھی اور امید کے لحاظ سے بہت بہتر ہیں
+
 [Open on Quran.com](https://quran.com/18/46)
 
 #### 20:59 · [[020 Taha]]
@@ -178,6 +194,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Moses said: "Your tryst is the Day of the Festival, and let the people be assembled when the sun is well up."
 
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا آپ کے لئے (مقابلے کا) دن نو روز (مقرر کیا جاتا ہے) اور یہ کہ لوگ اس دن چاشت کے وقت اکھٹے ہوجائیں
+
 [Open on Quran.com](https://quran.com/20/59)
 
 #### 20:87 · [[020 Taha]]
@@ -193,6 +211,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "We did not break our promise to you by our will, but we were made to carry burdens from the ornaments of the people [of Pharaoh], so we threw them [into the fire], and thus did the Sāmirī throw."
 
 **English (Yusuf Ali):** They said: "We broke not the promise to thee, as far as lay in our power: but we were made to carry the weight of the ornaments of the (whole) people, and we threw them (into the fire), and that was what the Samiri suggested.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ ہم نے اپنے اختیار سے تم سے وعدہ خلاف نہیں کیا۔ بلکہ ہم لوگوں کے زیوروں کا بوجھ اٹھائے ہوئے تھے۔ پھر ہم نے اس کو (آگ میں) ڈال دیا اور اسی طرح سامری نے ڈال دیا
 
 [Open on Quran.com](https://quran.com/20/87)
 

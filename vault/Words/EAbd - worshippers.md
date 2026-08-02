@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:138 · [[002 Al-Baqarah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [And say, "Ours is] the religion of Allāh. And who is better than Allāh in [ordaining] religion? And we are worshippers of Him."
 
 **English (Yusuf Ali):** (Our religion is) the Baptism of Allah: And who can baptize better than Allah? And it is He Whom we worship.
+
+**Urdu (Fatah Muhammad Jalandhari):** (کہہ دو کہ ہم نے) خدا کا رنگ (اختیار کر لیا ہے) اور خدا سے بہتر رنگ کس کا ہو سکتا ہے۔ اور ہم اسی کی عبادت کرنے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/138)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those that turn (to Allah) in repentance; that serve Him, and praise Him; that wander in devotion to the cause of Allah,: that bow down and prostrate themselves in prayer; that enjoin good and forbid evil; and observe the limit set by Allah;- (These do rejoice). So proclaim the glad tidings to the Believers.
 
+**Urdu (Fatah Muhammad Jalandhari):** توبہ کرنے والے، عبادت کرنے والے، حمد کرنے والے، روزہ رکھنے والے، رکوع کرنے والے، سجدہ کرنے والے، نیک کاموں کا امر کرنے والے، بری باتوں سے منع کرنے والے، خدا کی حدوں کی حفاظت کرنے والے، (یہی مومن لوگ ہیں) اور اے پیغمبر مومنوں کو (بہشت کی) خوش خبری سنادو
+
 [Open on Quran.com](https://quran.com/9/112)
 
 #### 21:53 · [[021 Al-Anbya]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "We found our fathers worshippers of them."
 
 **English (Yusuf Ali):** They said, "We found our fathers worshipping them."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ ہم نے اپنے باپ دادا کو ان کی پرستش کرتے دیکھا ہے
 
 [Open on Quran.com](https://quran.com/21/53)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We made them leaders, guiding (men) by Our Command, and We sent them inspiration to do good deeds, to establish regular prayers, and to practise regular charity; and they constantly served Us (and Us only).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو پیشوا بنایا کہ ہمارے حکم سے ہدایت کرتے تھے اور ان کو نیک کام کرنے اور نماز پڑھنے اور زکوٰة دینے کا حکم بھیجا۔ اور وہ ہماری عبادت کیا کرتے تھے
+
 [Open on Quran.com](https://quran.com/21/73)
 
 #### 21:84 · [[021 Al-Anbya]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So We responded to him and removed what afflicted him of adversity. And We gave him [back] his family and the like thereof with them as mercy from Us and a reminder for the worshippers [of Allāh].
 
 **English (Yusuf Ali):** So We listened to him: We removed the distress that was on him, and We restored his people to him, and doubled their number,- as a Grace from Ourselves, and a thing for commemoration, for all who serve Us.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان کی دعا قبول کرلی اور جو ان کو تکلیف تھی وہ دور کردی اور ان کو بال بچے بھی عطا فرمائے اور اپنی مہربانی کے ساتھ اتنے ہی اور (بخشے) اور عبادت کرنے والوں کے لئے (یہ) نصیحت ہے
 
 [Open on Quran.com](https://quran.com/21/84)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily in this (Qur'an) is a Message for people who would (truly) worship Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** عبادت کرنے والے لوگوں کے لئے اس میں (خدا کے حکموں کی) تبلیغ ہے
+
 [Open on Quran.com](https://quran.com/21/106)
 
 #### 23:47 · [[023 Al-Muminun]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "Should we believe two men like ourselves while their people are for us in servitude?"
 
 **English (Yusuf Ali):** They said: "Shall we believe in two men like ourselves? And their people are subject to us!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہنے لگے کہ کیا ہم ان اپنے جیسے دو آدمیوں پر ایمان لے آئیں اور اُن کو قوم کے لوگ ہمارے خدمت گار ہیں
 
 [Open on Quran.com](https://quran.com/23/47)
 
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "If (Allah) Most Gracious had a son, I would be the first to worship."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر خدا کے اولاد ہو تو میں (سب سے) پہلے (اس کی) عبادت کرنے والا ہوں
+
 [Open on Quran.com](https://quran.com/43/81)
 
 #### 109:3 · [[109 Al-Kafirun]]
@@ -173,6 +189,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nor will ye worship that which I worship.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جس (خدا) کی میں عبادت کرتا ہوں اس کی تم عبادت نہیں کرتے
+
 [Open on Quran.com](https://quran.com/109/3)
 
 #### 109:4 · [[109 Al-Kafirun]]
@@ -188,6 +206,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Nor will I be a worshipper of what you worship.
 
 **English (Yusuf Ali):** And I will not worship that which ye have been wont to worship,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور( میں پھر کہتا ہوں کہ) جن کی تم پرستش کرتے ہوں ان کی میں پرستش کرنے والا نہیں ہوں
 
 [Open on Quran.com](https://quran.com/109/4)
 

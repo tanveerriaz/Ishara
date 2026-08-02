@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:175 · [[003 Ali Imran]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That is only Satan who frightens [you] of his supporters. So fear them not, but fear Me, if you are [indeed] believers.
 
 **English (Yusuf Ali):** It is only the Evil One that suggests to you the fear of his votaries: Be ye not afraid of them, but fear Me, if ye have Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ (خوف دلانے والا) تو شیطان ہے جو اپنے دوستوں سے ڈراتا ہے تو اگر تم مومن ہو تو ان سے مت ڈرنا اور مجھ ہی سے ڈرتے رہنا
 
 [Open on Quran.com](https://quran.com/3/175)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! We told thee that thy Lord doth encompass mankind round about: We granted the vision which We showed thee, but as a trial for men,- as also the Cursed Tree (mentioned) in the Qur'an: We put terror (and warning) into them, but it only increases their inordinate transgression!
 
+**Urdu (Fatah Muhammad Jalandhari):** جب ہم نے تم سے کہا کہ تمہارا پروردگار لوگوں کو احاطہ کئے ہوئے ہے۔ اور جو نمائش ہم نے تمہیں دکھائی اس کو لوگوں کے لئے آرمائش کیا۔ اور اسی طرح (تھوہر کے) درخت کو جس پر قرآن میں لعنت کی گئی۔ اور ہم انہیں ڈراتے ہیں تو ان کو اس سے بڑی (سخت) سرکشی پیدا ہوتی ہے
+
 [Open on Quran.com](https://quran.com/17/60)
 
 #### 39:16 · [[039 Az-Zumar]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They shall have Layers of Fire above them, and Layers (of Fire) below them: with this doth Allah warn off his servants: "O My Servants! then fear ye Me!"
 
+**Urdu (Fatah Muhammad Jalandhari):** ان کے اوپر تو آگ کے سائبان ہوں گے اور نیچے (اس کے) فرش ہوں گے۔ یہ وہ (عذاب) ہے جس سے خدا اپنے بندوں کو ڈراتا ہے۔ تو اے میرے بندو مجھ سے ڈرتے رہو
+
 [Open on Quran.com](https://quran.com/39/16)
 
 #### 39:36 · [[039 Az-Zumar]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Is not Allāh sufficient for His Servant [i.e., Prophet Muḥammad (ﷺ)]? And [yet], they threaten you with those [they worship] other than Him. And whoever Allāh leaves astray - for him there is no guide.
 
 **English (Yusuf Ali):** Is not Allah enough for his Servant? But they try to frighten thee with other (gods) besides Him! for such as Allah leaves to stray, there can be no guide.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا خدا اپنے بندوں کو کافی نہیں۔ اور یہ تم کو ان لوگوں سے جو اس کے سوا ہیں (یعنی غیر خدا سے) ڈراتے ہیں۔ اور جس کو خدا گمراہ کرے اسے کوئی ہدایت دینے والا نہیں
 
 [Open on Quran.com](https://quran.com/39/36)
 

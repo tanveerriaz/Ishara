@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:189 · [[002 Al-Baqarah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They ask you, [O Muḥammad], about the crescent moons. Say, "They are measurements of time for the people and for ḥajj [pilgrimage]." And it is not righteousness to enter houses from the back, but righteousness is [in] one who fears Allāh. And enter houses from their doors. And fear Allāh that you may succeed.
 
 **English (Yusuf Ali):** They ask thee concerning the New Moons. Say: They are but signs to mark fixed periods of time in (the affairs of) men, and for Pilgrimage. It is no virtue if ye enter your houses from the back: It is virtue if ye fear Allah. Enter houses through the proper doors: And fear Allah: That ye may prosper.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے نئے چاند کے بارے میں دریافت کرتے ہیں (کہ گھٹتا بڑھتا کیوں ہے) کہہ دو کہ وہ لوگوں کے (کاموں کی میعادیں) اور حج کے وقت معلوم ہونے کا ذریعہ ہے اور نیکی اس بات میں نہیں کہ (احرام کی حالت میں) گھروں میں ان کے پچھواڑے کی طرف سے آؤ۔ بلکہ نیکوکار وہ ہے جو پرہیز گار ہو اور گھروں میں ان کے دروازوں سے آیا کرو اور خدا سے ڈرتے رہو تاکہ نجات پاؤ
 
 [Open on Quran.com](https://quran.com/2/189)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We appointed for Moses thirty nights, and completed (the period) with ten (more): thus was completed the term (of communion) with his Lord, forty nights. And Moses had charged his brother Aaron (before he went up): "Act for me amongst my people: Do right, and follow not the way of those who do mischief."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ سے تیس رات کی میعاد مقرر کی۔ اور اس دس (راتیں) اور ملا کر اسے پورا (چلّہ) کردیا تو اس کے پروردگار کی چالیس رات کی میعاد پوری ہوگئی۔ اور موسیٰ نے اپنے بھائی ہارون سے کہا کہ میرے (کوہِٰ طور پر جانے کے) بعد تم میری قوم میں میرے جانشین ہو (ان کی) اصلاح کرتے رہنا ٹھیک اور شریروں کے رستے نہ چلنا
+
 [Open on Quran.com](https://quran.com/7/142)
 
 #### 7:143 · [[007 Al-Araf]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when Moses arrived at Our appointed time and his Lord spoke to him, he said, "My Lord, show me [Yourself] that I may look at You." [Allāh] said, "You will not see Me, but look at the mountain; if it should remain in place, then you will see Me." But when his Lord appeared to the mountain, He rendered it level, and Moses fell unconscious. And when he awoke, he said, "Exalted are You! I have repented to You, and I am the first [among my people] of the believers."
 
 **English (Yusuf Ali):** When Moses came to the place appointed by Us, and his Lord addressed him, He said: "O my Lord! show (Thyself) to me, that I may look upon thee." Allah said: "By no means canst thou see Me (direct); But look upon the mount; if it abide in its place, then shalt thou see Me." When his Lord manifested His glory on the Mount, He made it as dust. And Moses fell down in a swoon. When he recovered his senses he said: "Glory be to Thee! to Thee I turn in repentance, and I am the first to believe."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ ہمارے مقرر کیے ہوئے وقت پر (کوہ طور) پر پہنچے اور ان کے پروردگار نے ان سے کلام کیا تو کہنے لگے کہ اے پروردگار مجھے (جلوہ) دکھا کہ میں تیرا دیدار (بھی) دیکھوں۔ پروردگار نے کہا کہ تم مجھے ہرگز نہ دیکھ سکو گے۔ ہاں پہاڑ کی طرف دیکھتے رہو اگر یہ اپنی جگہ قائم رہا تو تم مجھے دیکھ سکو گے۔ جب ان کا پروردگار پہاڑ پر نمودار ہوا تو (تجلی انوارِ ربانی) نے اس کو ریزہ ریزہ کردیا اور موسیٰ بےہوش ہو کر گر پڑے۔ جب ہوش میں آئے تو کہنے لگے کہ تیری ذات پاک ہے اور میں تیرے حضور توبہ کرتا ہوں اور جو ایمان لانے والے ہیں ان میں سب سے اول ہوں
 
 [Open on Quran.com](https://quran.com/7/143)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And Moses chose seventy of his people for Our place of meeting: when they were seized with violent quaking, he prayed: "O my Lord! if it had been Thy will Thou couldst have destroyed, long before, both them and me: wouldst Thou destroy us for the deeds of the foolish ones among us? this is no more than Thy trial: by it Thou causest whom Thou wilt to stray, and Thou leadest whom Thou wilt into the right path. Thou art our Protector: so forgive us and give us Thy mercy; for Thou art the best of those who forgive.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ نے اس میعاد پر جو ہم نے مقرر کی تھی اپنی قوم کے ستر آدمی منتخب (کرکے کوہ طور پر حاضر) ٹل کیے۔ جب ان کو زلزلے نے پکڑا تو موسیٰ نے کہا کہ اے پروردگار تو چاہتا تو ان کو اور مجھ کو پہلے ہی سے ہلاک کر دیتا۔ کیا تو اس فعل کی سزا میں جو ہم میں سے بےعقل لوگوں نے کیا ہے ہمیں ہلاک کردے گا۔ یہ تو تیری آزمائش ہے۔ اس سے تو جس کو چاہے گمراہ کرے اور جس کو چاہے ہدایت بخشے۔ تو ہی ہمارا کارساز ہے تو ہمیں (ہمارے گناہ) بخش دے اور ہم پر رحم فرما اور تو سب سے بہتر بخشنے والا ہے
+
 [Open on Quran.com](https://quran.com/7/155)
 
 #### 26:38 · [[026 Ash-Shuara]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So the magicians were assembled for the appointment of a well-known day.
 
 **English (Yusuf Ali):** So the sorcerers were got together for the appointment of a day well-known,
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جادوگر ایک مقررہ دن کی میعاد پر جمع ہوگئے
 
 [Open on Quran.com](https://quran.com/26/38)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily the Day of sorting out is the time appointed for all of them,-
 
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ فیصلے کا دن ان سب (کے اُٹھنے) کا وقت ہے
+
 [Open on Quran.com](https://quran.com/44/40)
 
 #### 56:50 · [[056 Al-Waqiah]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "All will certainly be gathered together for the meeting appointed for a Day well-known.
 
+**Urdu (Fatah Muhammad Jalandhari):** (سب) ایک روز مقرر کے وقت پر جمع کئے جائیں گے
+
 [Open on Quran.com](https://quran.com/56/50)
 
 #### 78:17 · [[078 An-Naba]]
@@ -156,6 +170,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the Day of Judgement is an appointed time -
 
 **English (Yusuf Ali):** Verily the Day of Sorting out is a thing appointed,
+
+**Urdu (Fatah Muhammad Jalandhari):** بےشک فیصلہ کا دن مقرر ہے
 
 [Open on Quran.com](https://quran.com/78/17)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[vwr - thwr]]
+- [[vwr - raised]]
 
 ### Meaning
 **plough** · Lemma **أَثارُ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:71 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "He says, 'It is a cow neither trained to plow the earth nor to irrigate the field, one free from fault with no spot upon her.'" They said, "Now you have come with the truth." So they slaughtered her, but they could hardly do it.
 
 **English (Yusuf Ali):** He said: "He says: A heifer not trained to till the soil or water the fields; sound and without blemish." They said: "Now hast thou brought the truth." Then they offered her in sacrifice, but not with good-will.
+
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا کہ خدا فرماتا ہے کہ وہ بیل کام میں لگا ہوا نہ ہو، نہ تو زمین جوتتا ہو اور نہ کھیتی کو پانی دیتا ہو۔ اس میں کسی طرح کا داغ نہ ہو۔ کہنے لگے، اب تم نے سب باتیں درست بتا دیں۔ غرض (بڑی مشکل سے) انہوں نے اس بیل کو ذبح کیا، اور وہ ایسا کرنے والے تھے نہیں
 
 [Open on Quran.com](https://quran.com/2/71)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Do they not travel through the earth, and see what was the end of those before them? They were superior to them in strength: they tilled the soil and populated it in greater numbers than these have done: there came to them their messengers with Clear (Signs). (Which they rejected, to their own destruction): It was not Allah Who wronged them, but they wronged their own souls.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا اُن لوگوں نے ملک میں سیر نہیں کی (سیر کرتے )تو دیکھ لیتے کہ جو لوگ اُن سے پہلے تھے ان کا انجام کیسے ہوا۔ وہ اُن سے زورو قوت میں کہیں زیادہ تھے اور اُنہوں نے زمین کو جوتا اور اس کو اس سے زیادہ آباد کیا تھا جو اُنہوں نے آباد کیا۔ اور اُن کے پاس اُن کے پیغمبر نشانیاں لےکر آتے رہے تو خدا ایسا نہ تھا کہ اُن پر ظلم کرتا۔ بلکہ وہی اپنے آپ پر ظلم کرتے تھے
+
 [Open on Quran.com](https://quran.com/30/9)
 
 #### 30:48 · [[030 Ar-Rum]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is Allāh who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice
 
 **English (Yusuf Ali):** It is Allah Who sends the Winds, and they raise the Clouds: then does He spread them in the sky as He wills, and break them into fragments, until thou seest rain-drops issue from the midst thereof: then when He has made them reach such of his servants as He wills behold, they do rejoice!-
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جو ہواؤں کو چلاتا ہے تو وہ بادل کو اُبھارتی ہیں۔ پھر خدا اس کو جس طرح چاہتا ہے آسمان میں پھیلا دیتا اور تہ بتہ کر دیتا ہے پھر تم دیکھتے ہو کہ اس کے بیچ میں سے مینھہ نکلنے لگتا ہے پھر جب وہ اپنے بندوں میں سے جن پر چاہتا ہے اُسے برسا دیتا ہے تو وہ خوش ہو جاتے ہیں
 
 [Open on Quran.com](https://quran.com/30/48)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is Allah Who sends forth the Winds, so that they raise up the Clouds, and We drive them to a land that is dead, and revive the earth therewith after its death: even so (will be) the Resurrection!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی تو ہے جو ہوائیں چلاتا ہے اور وہ بادل کو اُبھارتی ہیں پھر ہم ان کو ایک بےجان شہر کی طرف چلاتے ہیں۔ پھر اس سے زمین کو اس کے مرنے کے بعد زندہ کردیتے ہیں۔ اسی طرح مردوں کو جی اُٹھنا ہوگا
+
 [Open on Quran.com](https://quran.com/35/9)
 
 #### 100:4 · [[100 Al-Adiyat]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Stirring up thereby [clouds of] dust,
 
 **English (Yusuf Ali):** And raise the dust in clouds the while,
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اس میں گرد اٹھاتے ہیں
 
 [Open on Quran.com](https://quran.com/100/4)
 

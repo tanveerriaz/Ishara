@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:87 · [[007 Al-Araf]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if there should be a group among you who has believed in that with which I have been sent and a group that has not believed, then be patient until Allāh judges between us. And He is the best of judges."
 
 **English (Yusuf Ali):** "And if there is a party among you who believes in the message with which I have been sent, and a party which does not believe, hold yourselves in patience until Allah doth decide between us: for He is the best to decide.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم میں سے ایک جماعت میری رسالت پر ایمان لے آئی ہے اور ایک جماعت ایمان نہیں لائی ہے۔ اور ایک جماعت ایمان نہیں لائی۔ تو صبر کیے رہو یہاں تک کہ خدا ہمارے تمہارے درمیان فیصلہ کر دے اور وہ سب سے بہتر فیصلہ کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/7/87)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Follow thou the inspiration sent unto thee, and be patient and constant, till Allah do decide: for He is the best to decide.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) تم کو جو حکم بھیجا جاتا ہے اس کی پیروی کئے جاؤ اور (تکلیفوں پر) صبر کرو یہاں تک کہ خدا فیصلہ کردے۔ اور وہ سب سے بہتر فیصلہ کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/10/109)
 
 #### 11:45 · [[011 Hud]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Noah called to his Lord and said, "My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!"
 
 **English (Yusuf Ali):** And Noah called upon his Lord, and said: "O my Lord! surely my son is of my family! and Thy promise is true, and Thou art the justest of Judges!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نوح نے اپنے پروردگار کو پکارا اور کہا کہ پروردگار میرا بیٹا بھی میرے گھر والوں میں ہے (تو اس کو بھی نجات دے) تیرا وعدہ سچا ہے اور تو سب سے بہتر حاکم ہے
 
 [Open on Quran.com](https://quran.com/11/45)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Now when they saw no hope of his (yielding), they held a conference in private. The leader among them said: "Know ye not that your father did take an oath from you in Allah's name, and how, before this, ye did fail in your duty with Joseph? Therefore will I not leave this land until my father permits me, or Allah commands me; and He is the best to command.
 
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ اس سے ناامید ہوگئے تو الگ ہو کر صلاح کرنے لگے۔ سب سے بڑے نے کہا کیا تم نہیں جانتے کہ تمہارے والد نے تم سے خدا کا عہد لیا ہے اور اس سے پہلے بھی تم یوسف کے بارے میں قصور کر چکے ہو تو جب تک والد صاحب مجھے حکم نہ دیں میں تو اس جگہ سے ہلنے کا نہیں یا خدا میرے لیے کوئی اور تدبیر کرے۔ اور وہ سب سے بہتر فیصلہ کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/12/80)
 
 #### 95:8 · [[095 At-Tin]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Is not Allāh the most just of judges?
 
 **English (Yusuf Ali):** Is not Allah the wisest of judges?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا خدا سب سے بڑا حاکم نہیں ہے؟
 
 [Open on Quran.com](https://quran.com/95/8)
 

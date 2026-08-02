@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[lTf - ltf]]
+- [[lTf - treat someone gentleness]]
 
 ### Meaning
 **all-subtle** · Lemma **لَطِيف**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:103 · [[006 Al-Anam]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Vision perceives Him not, but He perceives [all] vision; and He is the Subtle, the Aware.
 
 **English (Yusuf Ali):** No vision can grasp Him, but His grasp is over all vision: He is above all comprehension, yet is acquainted with all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** (وہ ایسا ہے کہ) نگاہیں اس کا ادراک نہیں کرسکتیں اور وہ نگاہوں کا ادراک کرسکتا ہے اور وہ بھید جاننے والا خبردار ہے
 
 [Open on Quran.com](https://quran.com/6/103)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And he raised his parents high on the throne (of dignity), and they fell down in prostration, (all) before him. He said: "O my father! this is the fulfilment of my vision of old! Allah hath made it come true! He was indeed good to me when He took me out of prison and brought you (all here) out of the desert, (even) after Satan had sown enmity between me and my brothers. Verily my Lord understandeth best the mysteries of all that He planneth to do, for verily He is full of knowledge and wisdom.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے والدین کو تخت پر بٹھایا اور سب یوسفؑ کے آگے سجدہ میں گر پڑے اور (اس وقت) یوسف نے کہا ابا جان یہ میرے اس خواب کی تعبیر ہے جو میں نے پہلے (بچپن میں) دیکھا تھا۔ میرے پروردگار نے اسے سچ کر دکھایا اور اس نے مجھ پر (بہت سے) احسان کئے ہیں کہ مجھ کو جیل خانے سے نکالا۔ اور اس کے بعد کہ شیطان نے مجھ میں اور میرے بھائیوں میں فساد ڈال دیا تھا۔ آپ کو گاؤں سے یہاں لایا۔ بےشک میرا پروردگار جو چاہتا ہے تدبیر سے کرتا ہے۔ وہ دانا (اور) حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/12/100)
 
 #### 22:63 · [[022 Al-Hajj]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do you not see that Allāh has sent down rain from the sky and the earth becomes green? Indeed, Allāh is Subtle and Aware.
 
 **English (Yusuf Ali):** Seest thou not that Allah sends down rain from the sky, and forthwith the earth becomes clothed with green? for Allah is He Who understands the finest mysteries, and is well-acquainted (with them).
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نہیں دیکھتے کہ خدا آسمان سے مینہ برساتا ہے تو زمین سرسبز ہوجاتی ہے۔ بےشک خدا باریک بین اور خبردار ہے
 
 [Open on Quran.com](https://quran.com/22/63)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "O my son!" (said Luqman), "If there be (but) the weight of a mustard-seed and it were (hidden) in a rock, or (anywhere) in the heavens or on earth, Allah will bring it forth: for Allah understands the finest mysteries, (and) is well-acquainted (with them).
 
+**Urdu (Fatah Muhammad Jalandhari):** ( لقمان نے یہ بھی کہا کہ) بیٹا اگر کوئی عمل (بالفرض) رائی کے دانے کے برابر بھی (چھوٹا) ہو اور ہو بھی کسی پتھر کے اندر یا آسمانوں میں (مخفی ہو) یا زمین میں۔ خدا اُس کو قیامت کے دن لاموجود کرے گا۔ کچھ شک نہیں کہ خدا باریک بین (اور) خبردار ہے
+
 [Open on Quran.com](https://quran.com/31/16)
 
 #### 33:34 · [[033 Al-Ahzab]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And remember what is recited in your houses of the verses of Allāh and wisdom. Indeed, Allāh is ever Subtle and Aware.
 
 **English (Yusuf Ali):** And recite what is rehearsed to you in your homes, of the Signs of Allah and His Wisdom: for Allah understands the finest mysteries and is well-acquainted (with them).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے گھروں میں جو خدا کی آیتیں پڑھی جاتی ہیں اور حکمت (کی باتیں سنائی جاتی ہیں) ان کو یاد رکھو۔ بےشک خدا باریک بیں اور باخبر ہے
 
 [Open on Quran.com](https://quran.com/33/34)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Gracious is Allah to His servants: He gives Sustenance to whom He pleases: and He has power and can carry out His Will.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا اپنے بندوں پر مہربان ہے وہ جس کو چاہتا ہے رزق دیتا ہے۔ اور وہ زور والا (اور) زبردست ہے
+
 [Open on Quran.com](https://quran.com/42/19)
 
 #### 67:14 · [[067 Al-Mulk]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Does He who created not know, while He is the Subtle, the Aware?
 
 **English (Yusuf Ali):** Should He not know,- He that created? and He is the One that understands the finest mysteries (and) is well-acquainted (with them).
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس نے پیدا کیا وہ بےخبر ہے؟ وہ تو پوشیدہ باتوں کا جاننے والا اور (ہر چیز سے) آگاہ ہے
 
 [Open on Quran.com](https://quran.com/67/14)
 

@@ -42,7 +42,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:27 · [[002 Al-Baqarah]]
 
@@ -57,6 +57,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and cause corruption on earth. It is those who are the losers.
 
 **English (Yusuf Ali):** Those who break Allah's Covenant after it is ratified, and who sunder what Allah Has ordered to be joined, and do mischief on earth: These cause loss (only) to themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے اقرار کو مضبوط کرنے کے بعد توڑ دیتے ہیں اور جس چیز (یعنی رشتہٴ قرابت) کے جوڑے رکھنے کا الله نے حکم دیا ہے اس کو قطع کئے ڈالتے ہیں اور زمین میں خرابی کرتے ہیں یہی لوگ نقصان اٹھانے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/27)
 
@@ -74,6 +76,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** That He might cut off a fringe of the Unbelievers or expose them to infamy, and they should then be turned back, frustrated of their purpose.
 
+**Urdu (Fatah Muhammad Jalandhari):** (یہ خدا نے) اس لیے (کیا) کہ کافروں کی ایک جماعت کو ہلاک یا انہیں ذلیل ومغلوب کر دے کہ (جیسے آئے تھے ویسے ہی) ناکام واپس جائیں
+
 [Open on Quran.com](https://quran.com/3/127)
 
 #### 5:33 · [[005 Al-Maidah]]
@@ -89,6 +93,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the penalty for those who wage war against Allāh and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment,
 
 **English (Yusuf Ali):** The punishment of those who wage war against Allah and His Messenger, and strive with might and main for mischief through the land is: execution, or crucifixion, or the cutting off of hands and feet from opposite sides, or exile from the land: that is their disgrace in this world, and a heavy punishment is theirs in the Hereafter;
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا اور اس کے رسول سے لڑائی کریں اور ملک میں فساد کرنے کو دوڑتے پھریں ان کی یہی سزا ہے کہ قتل کر دیئے جائیں یا سولی چڑھا دیئے جائیں یا ان کے ایک ایک طرف کے ہاتھ اور ایک ایک طرف کے پاؤں کاٹ دیئے جائیں یا ملک سے نکال دیئے جائیں یہ تو دنیا میں ان کی رسوائی ہے اور آخرت میں ان کے لیے بڑا (بھاری) عذاب تیار ہے
 
 [Open on Quran.com](https://quran.com/5/33)
 
@@ -106,6 +112,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** As to the thief, Male or female, cut off his or her hands: a punishment by way of example, from Allah, for their crime: and Allah is Exalted in power.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو چوری کرے مرد ہو یا عورت ان کے ہاتھ کاٹ ڈالو یہ ان کے فعلوں کی سزا اور خدا کی طرف سے عبرت ہے اور خدا زبردست (اور) صاحب حکمت ہے
+
 [Open on Quran.com](https://quran.com/5/38)
 
 #### 6:45 · [[006 Al-Anam]]
@@ -121,6 +129,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So the people that committed wrong were eliminated. And praise to Allāh, Lord of the worlds.
 
 **English (Yusuf Ali):** Of the wrong-doers the last remnant was cut off. Praise be to Allah, the Cherisher of the worlds.
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض ظالم لوگوں کی جڑ کاٹ دی گئی۔ اور سب تعریف خدائے رب العالمین ہی کو (سزاوار ہے)
 
 [Open on Quran.com](https://quran.com/6/45)
 
@@ -138,6 +148,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We saved him and those who adhered to him. By Our mercy, and We cut off the roots of those who rejected Our signs and did not believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے ہود کو اور جو لوگ ان کے ساتھ تھے ان کو نجات بخشی اور جنہوں نے ہماری آیتوں کو جھٹلایا تھا ان کی جڑ کاٹ دی اور وہ ایمان لانے والے تھے ہی نہیں
+
 [Open on Quran.com](https://quran.com/7/72)
 
 #### 7:124 · [[007 Al-Araf]]
@@ -153,6 +165,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** I will surely cut off your hands and your feet on opposite sides; then I will surely crucify you all."
 
 **English (Yusuf Ali):** "Be sure I will cut off your hands and your feet on apposite sides, and I will cause you all to die on the cross."
+
+**Urdu (Fatah Muhammad Jalandhari):** میں (پہلے تو) تمہارے ایک طرف کے ہاتھ اور دوسری طرف کے پاؤں کٹوا دوں گا پھر تم سب کو سولی چڑھوا دوں گا
 
 [Open on Quran.com](https://quran.com/7/124)
 
@@ -170,6 +184,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We divided them into twelve tribes or nations. We directed Moses by inspiration, when his (thirsty) people asked him for water: "Strike the rock with thy staff": out of it there gushed forth twelve springs: Each group knew its own place for water. We gave them the shade of clouds, and sent down to them manna and quails, (saying): "Eat of the good things We have provided for you": (but they rebelled); to Us they did no harm, but they harmed their own souls.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو (یعنی بنی اسرائیل کو) الگ الگ کرکے بارہ قبیلے (اور) بڑی بڑی جماعتیں بنا دیا۔ اور جب موسیٰ سے ان کی قوم نے پانی طلب کیا تو ہم نے ان کی طرف وحی بھیجی کہ اپنی لاٹھی پتھر پر مار دو۔ تو اس میں سے بارہ چشمے پھوٹ نکلے۔ اور سب لوگوں نے اپنا اپنا گھاٹ معلوم کرلیا۔ اور ہم نے ان (کے سروں) پر بادل کو سائبان بنائے رکھا اور ان پر من وسلویٰ اتارتے رہے۔ اور (ان سے کہا کہ) جو پاکیزہ چیزیں ہم تمہیں دیتے ہیں انہیں کھاؤ۔ اور ان لوگوں نے ہمارا کچھ نقصان نہیں کیا بلکہ (جو) نقصان کیا اپنا ہی کیا
+
 [Open on Quran.com](https://quran.com/7/160)
 
 #### 7:168 · [[007 Al-Araf]]
@@ -186,6 +202,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We broke them up into sections on this earth. There are among them some that are the righteous, and some that are the opposite. We have tried them with both prosperity and adversity: In order that they might turn (to us).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو جماعت جماعت کرکے ملک میں منتشر کر دیا۔ بعض ان میں سے نیکوکار ہیں اور بعض اور طرح کے (یعنی بدکار) اور ہم آسائشوں، تکلیفوں (دونوں) سے ان کی آزمائش کرتے رہے تاکہ (ہماری طرف) رجوع کریں
+
 [Open on Quran.com](https://quran.com/7/168)
 
 #### 8:7 · [[008 Al-Anfal]]
@@ -201,6 +219,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Remember, O believers], when Allāh promised you one of the two groups - that it would be yours - and you wished that the unarmed one would be yours. But Allāh intended to establish the truth by His words and to eliminate the disbelievers
 
 **English (Yusuf Ali):** Behold! Allah promised you one of the two (enemy) parties, that it should be yours: Ye wished that the one unarmed should be yours, but Allah willed to justify the Truth according to His words and to cut off the roots of the Unbelievers;-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس وقت کو یاد کرو) جب خدا تم سے وعدہ کرتا تھا کہ (ابوسفیان اور ابوجہل کے) دو گروہوں میں سے ایک گروہ تمہارا (مسخر) ہوجائے گا۔ اور تم چاہتے تھے کہ جو قافلہ بے (شان و) شوکت (یعنی بے ہتھیار ہے) وہ تمہارے ہاتھ آجائے اور خدا چاہتا تھا کہ اپنے فرمان سے حق کو قائم رکھے اور کافروں کی جڑ کاٹ کر (پھینک) دے
 
 [Open on Quran.com](https://quran.com/8/7)
 

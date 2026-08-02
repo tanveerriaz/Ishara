@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nwb - nwb]]
+- [[nwb - turns]]
 
 ### Meaning
 **turns** · Lemma **أَنابَ**
@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:88 · [[011 Hud]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "O my people, have you considered: if I am upon clear evidence from my Lord and He has provided me with a good provision from Him...? And I do not intend to differ from you in that which I have forbidden you; I only intend reform as much as I am able. And my success is not but through Allāh. Upon Him I have relied, and to Him I return.
 
 **English (Yusuf Ali):** He said: "O my people! see ye whether I have a Clear (Sign) from my Lord, and He hath given me sustenance (pure and) good as from Himself? I wish not, in opposition to you, to do that which I forbid you to do. I only desire (your) betterment to the best of my power; and my success (in my task) can only come from Allah. In Him I trust, and unto Him I look.
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ اے قوم! دیکھو تو اگر میں اپنے پروردگار کی طرف سے دلیل روشن پر ہوں اور اس نے اپنے ہاں سے مجھے نیک روزی دی ہو (تو کیا میں ان کے خلاف کروں گا؟) اور میں نہیں چاہتا کہ جس امر سے میں تمہیں منع کروں خود اس کو کرنے لگوں۔ میں تو جہاں تک مجھ سے ہوسکے (تمہارے معاملات کی) اصلاح چاہتا ہوں اور (اس بارے میں) مجھے توفیق کا ملنا خدا ہی (کے فضل) سے ہے۔ میں اسی پر بھروسہ رکھتا ہوں اور اس کی طرف رجوع کرتا ہوں
 
 [Open on Quran.com](https://quran.com/11/88)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Unbelievers say: "Why is not a sign sent down to him from his Lord?" Say: "Truly Allah leaveth, to stray, whom He will; But He guideth to Himself those who turn to Him in penitence,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر کہتے ہیں کہ اس (پیغمبر) پر اس کے پروردگار کی طرف سے کوئی نشانی کیوں نازل نہیں ہوئی۔ کہہ دو کہ خدا جسے چاہتا ہے گمراہ کرتا ہے اور جو (اس کی طرف) رجوع ہوتا ہے اس کو اپنی طرف کا رستہ دکھاتا ہے
+
 [Open on Quran.com](https://quran.com/13/27)
 
 #### 31:15 · [[031 Luqman]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But if they endeavor to make you associate with Me that of which you have no knowledge, do not obey them but accompany them in [this] world with appropriate kindness and follow the way of those who turn back to Me [in repentance]. Then to Me will be your return, and I will inform you about what you used to do.
 
 **English (Yusuf Ali):** "But if they strive to make thee join in worship with Me things of which thou hast no knowledge, obey them not; yet bear them company in this life with justice (and consideration), and follow the way of those who turn to me (in love): in the end the return of you all is to Me, and I will tell you the truth (and meaning) of all that ye did."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر وہ تیرے درپے ہوں کہ تو میرے ساتھ کسی ایسی چیز کو شریک کرے جس کا تجھے کچھ بھی علم نہیں تو ان کا کہا نہ ماننا۔ ہاں دنیا (کے کاموں) میں ان کا اچھی طرح ساتھ دینا اور جو شخص میری طرف رجوع لائے اس کے رستے پر چلنا پھر تم کو میری طرف لوٹ کر آنا ہے۔ تو جو کام تم کرتے رہے میں سب سے تم کو آگاہ کروں گا
 
 [Open on Quran.com](https://quran.com/31/15)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (David) said: "He has undoubtedly wronged thee in demanding thy (single) ewe to be added to his (flock of) ewes: truly many are the partners (in business) who wrong each other: Not so do those who believe and work deeds of righteousness, and how few are they?"... and David gathered that We had tried him: he asked forgiveness of his Lord, fell down, bowing (in prostration), and turned (to Allah in repentance).
 
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ یہ جو تیری دنبی مانگتا ہے کہ اپنی دنبیوں میں ملالے بےشک تجھ پر ظلم کرتا ہے۔ اور اکثر شریک ایک دوسرے پر زیادتی ہی کیا کرتے ہیں۔ ہاں جو ایمان لائے اور عمل نیک کرتے رہے اور ایسے لوگ بہت کم ہیں۔ اور داؤد نے خیال کیا کہ (اس واقعے سے) ہم نے ان کو آزمایا ہے تو انہوں نے اپنے پروردگار سے مغفرت مانگی اور جھک کر گڑ پڑے اور (خدا کی طرف) رجوع کیا
+
 [Open on Quran.com](https://quran.com/38/24)
 
 #### 38:34 · [[038 Sad]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We certainly tried Solomon and placed on his throne a body; then he returned.
 
 **English (Yusuf Ali):** And We did try Solomon: We placed on his throne a body (without life); but he did turn (to Us in true devotion):
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے سلیمان کی آزمائش کی اور ان کے تخت پر ایک دھڑ ڈال دیا پھر انہوں نے (خدا کی طرف) رجوع کیا
 
 [Open on Quran.com](https://quran.com/38/34)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who eschew Evil,- and fall not into its worship,- and turn to Allah (in repentance),- for them is Good News: so announce the Good News to My Servants,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے اس سے اجتناب کیا کہ بتوں کو پوجیں اور خدا کی طرف رجوع کیا ان کے لئے بشارت ہے۔ تو میرے بندوں کو بشارت سنا دو
+
 [Open on Quran.com](https://quran.com/39/17)
 
 #### 39:54 · [[039 Az-Zumar]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And return [in repentance] to your Lord and submit to Him before the punishment comes upon you; then you will not be helped.
 
 **English (Yusuf Ali):** "Turn ye to our Lord (in repentance) and bow to His (Will), before the Penalty comes on you: after that ye shall not be helped.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے پہلے کہ تم پر عذاب آ واقع ہو، اپنے پروردگار کی طرف رجوع کرو اور اس کے فرمانبردار ہوجاؤ پھر تم کو مدد نہیں ملے گی
 
 [Open on Quran.com](https://quran.com/39/54)
 
@@ -159,6 +173,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He it is Who showeth you his Signs, and sendeth down sustenance for you from the sky: but only those receive admonition who turn (to Allah).
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جو تم کو اپنی نشانیاں دکھاتا ہے اور تم پر آسمان سے رزق اُتارتا ہے۔ اور نصیحت تو وہی پکڑتا ہے جو (اس کی طرف) رجوع کرتا ہے
+
 [Open on Quran.com](https://quran.com/40/13)
 
 #### 42:10 · [[042 Ash-Shuraa]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whatever it be wherein ye differ, the decision thereof is with Allah: such is Allah my Lord: In Him I trust, and to Him I turn.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم جس بات میں اختلاف کرتے ہو اس کا فیصلہ خدا کی طرف (سے ہوگا) یہی خدا میرا پروردگار ہے میں اسی پر بھروسہ رکھتا ہوں۔ اور اسی کی طرف رجوع کرتا ہوں
+
 [Open on Quran.com](https://quran.com/42/10)
 
 #### 42:13 · [[042 Ash-Shuraa]]
@@ -190,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He has ordained for you of religion what He enjoined upon Noah and that which We have revealed to you, [O Muḥammad], and what We enjoined upon Abraham and Moses and Jesus - to establish the religion and not be divided therein. Difficult for those who associate others with Allāh is that to which you invite them. Allāh chooses for Himself whom He wills and guides to Himself whoever turns back [to Him].
 
 **English (Yusuf Ali):** The same religion has He established for you as that which He enjoined on Noah - the which We have sent by inspiration to thee - and that which We enjoined on Abraham, Moses, and Jesus: Namely, that ye should remain steadfast in religion, and make no divisions therein: to those who worship other things than Allah, hard is the (way) to which thou callest them. Allah chooses to Himself those whom He pleases, and guides to Himself those who turn (to Him).
+
+**Urdu (Fatah Muhammad Jalandhari):** اسی نے تمہارے لئے دین کا وہی رستہ مقرر کیا جس (کے اختیار کرنے کا) نوح کو حکم دیا تھا اور جس کی (اے محمدﷺ) ہم نے تمہاری طرف وحی بھیجی ہے اور جس کا ابراہیم اور موسیٰ اور عیسیٰ کو حکم دیا تھا (وہ یہ) کہ دین کو قائم رکھنا اور اس میں پھوٹ نہ ڈالنا۔ جس چیز کی طرف تم مشرکوں کو بلاتے ہو وہ ان کو دشوار گزرتی ہے۔ الله جس کو چاہتا ہے اپنی بارگاہ کا برگزیدہ کرلیتا ہے اور جو اس کی طرف رجوع کرے اسے اپنی طرف رستہ دکھا دیتا ہے
 
 [Open on Quran.com](https://quran.com/42/13)
 

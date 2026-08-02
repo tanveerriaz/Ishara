@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xrj - khrj]]
+- [[xrj - go come out]]
 
 ### Meaning
 **brings forth** · Lemma **مُخْرِج**
@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:72 · [[002 Al-Baqarah]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when you slew a man and disputed over it, but Allāh was to bring out that which you were concealing.
 
 **English (Yusuf Ali):** Remember ye slew a man and fell into a dispute among yourselves as to the crime: But Allah was to bring forth what ye did hide.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے ایک شخص کو قتل کیا، تو اس میں باہم جھگڑنے لگے۔ لیکن جو بات تم چھپا رہے تھے، خدا اس کو ظاہر کرنے والا تھا
 
 [Open on Quran.com](https://quran.com/2/72)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is Allah Who causeth the seed-grain and the date-stone to split and sprout. He causeth the living to issue from the dead, and He is the one to cause the dead to issue from the living. That is Allah: then how are ye deluded away from the truth?
 
+**Urdu (Fatah Muhammad Jalandhari):** بے شک خدا ہی دانے اور گٹھلی کو پھاڑ کر (ان سے درخت وغیرہ) اگاتا ہے وہی جاندار کو بے جان سے نکالتا ہے اور وہی بےجان کا جاندار سے نکالنے والا ہے۔ یہی تو خدا ہے۔ پھر تم کہاں بہکے پھرتے ہو
+
 [Open on Quran.com](https://quran.com/6/95)
 
 #### 9:64 · [[009 At-Tawbah]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The hypocrites are apprehensive lest a sūrah be revealed about them, informing them of what is in their hearts. Say, "Mock [as you wish]; indeed, Allāh will expose that which you fear."
 
 **English (Yusuf Ali):** The Hypocrites are afraid lest a Sura should be sent down about them, showing them what is (really passing) in their hearts. Say: "Mock ye! But verily Allah will bring to light all that ye fear (should be revealed).
+
+**Urdu (Fatah Muhammad Jalandhari):** منافق ڈرتے رہتے ہیں کہ ان (کے پیغمبر) پر کہیں کوئی ایسی سورت (نہ) اُتر آئے کہ ان کے دل کی باتوں کو ان (مسلمانوں) پر ظاہر کر دے۔ کہہ دو کہ ہنسی کئے جاؤ۔ جس بات سے تم ڈرتے ہو خدا اس کو ضرور ظاہر کردے گا
 
 [Open on Quran.com](https://quran.com/9/64)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There no sense of fatigue shall touch them, nor shall they (ever) be asked to leave.
 
+**Urdu (Fatah Muhammad Jalandhari):** نہ ان کو وہاں کوئی تکلیف پہنچے گی اور نہ وہاں سے نکالے جائیں گے
+
 [Open on Quran.com](https://quran.com/15/48)
 
 #### 17:80 · [[017 Al-Isra]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And say, "My Lord, cause me to enter a sound entrance and to exit a sound exit and grant me from Yourself a supporting authority."
 
 **English (Yusuf Ali):** Say: "O my Lord! Let my entry be by the Gate of Truth and Honour, and likewise my exit by the Gate of Truth and Honour; and grant me from Thy Presence an authority to aid (me)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہو کہ اے پروردگار مجھے (مدینے میں) اچھی طرح داخل کیجیو اور (مکے سے) اچھی طرح نکالیو۔ اور اپنے ہاں سے زور وقوت کو میرا مددگار بنائیو
 
 [Open on Quran.com](https://quran.com/17/80)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Does he promise that when ye die and become dust and bones, ye shall be brought forth (again)?
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ تم سے یہ کہتا ہے کہ جب تم مر جاؤ گے اور مٹی ہو جاؤ گے اور استخوان (کے سوا کچھ نہ رہے گا) تو تم (زمین سے) نکالے جاؤ گے
+
 [Open on Quran.com](https://quran.com/23/35)
 
 #### 26:167 · [[026 Ash-Shuara]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "If you do not desist, O Lot, you will surely be of those evicted."
 
 **English (Yusuf Ali):** They said: "If thou desist not, O Lut! thou wilt assuredly be cast out!"
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ لوط اگر تم باز نہ آؤ گے تو شہر بدر کردیئے جاؤ گے
 
 [Open on Quran.com](https://quran.com/26/167)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Unbelievers say: "What! when we become dust,- we and our fathers,- shall we really be raised (from the dead)?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ کافر ہیں کہتے ہیں جب ہم اور ہمارے باپ دادا مٹی ہو جائیں گے تو کیا ہم پھر (قبروں سے) نکالے جائیں گے
+
 [Open on Quran.com](https://quran.com/27/67)
 
 #### 65:2 · [[065 At-Talaq]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they have [nearly] fulfilled their term, either retain them according to acceptable terms or part with them according to acceptable terms. And bring to witness two just men from among you and establish the testimony for [the acceptance of] Allāh. That is instructed to whoever should believe in Allāh and the Last Day. And whoever fears Allāh - He will make for him a way out
 
 **English (Yusuf Ali):** Thus when they fulfil their term appointed, either take them back on equitable terms or part with them on equitable terms; and take for witness two persons from among you, endued with justice, and establish the evidence (as) before Allah. Such is the admonition given to him who believes in Allah and the Last Day. And for those who fear Allah, He (ever) prepares a way out,
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب وہ اپنی میعاد (یعنی انقضائے عدت) کے قریب پہنچ جائیں تو یا تو ان کو اچھی طرح (زوجیت میں) رہنے دو یا اچھی طرح سے علیحدہ کردو اور اپنے میں سے دو منصف مردوں کو گواہ کرلو اور (گواہ ہو!) خدا کے لئے درست گواہی دینا۔ ان باتوں سے اس شخص کو نصیحت کی جاتی ہے جو خدا پر اور روز آخرت پر ایمان رکھتا ہے۔ اور جو کوئی خدا سے ڈرے گا وہ اس کے لئے (رنج ومحن سے) مخلصی (کی صورت) پیدا کرے گا
 
 [Open on Quran.com](https://quran.com/65/2)
 

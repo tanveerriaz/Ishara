@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:35 · [[002 Al-Baqarah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers."
 
 **English (Yusuf Ali):** We said: "O Adam! dwell thou and thy wife in the Garden; and eat of the bountiful things therein as (where and when) ye will; but approach not this tree, or ye run into harm and transgression."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کہا کہ اے آدم تم اور تمہاری بیوی بہشت میں رہو اور جہاں سے چاہو بے روک ٹوک کھاؤ (پیو) لیکن اس درخت کے پاس نہ جانا نہیں تو ظالموں میں (داخل) ہو جاؤ گے
 
 [Open on Quran.com](https://quran.com/2/35)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Permitted to you, on the night of the fasts, is the approach to your wives. They are your garments and ye are their garments. Allah knoweth what ye used to do secretly among yourselves; but He turned to you and forgave you; so now associate with them, and seek what Allah Hath ordained for you, and eat and drink, until the white thread of dawn appear to you distinct from its black thread; then complete your fast Till the night appears; but do not associate with your wives while ye are in retreat in the mosques. Those are Limits (set by) Allah: Approach not nigh thereto. Thus doth Allah make clear His Signs to men: that they may learn self-restraint.
 
+**Urdu (Fatah Muhammad Jalandhari):** روزوں کی راتوں میں تمہارے لئے اپنی عورتوں کے پاس جانا کردیا گیا ہے وہ تمہاری پوشاک ہیں اور تم ان کی پوشاک ہو خدا کو معلوم ہے کہ تم (ان کے پاس جانے سے) اپنے حق میں خیانت کرتے تھے سو اس نے تم پر مہربانی کی اور تمہاری حرکات سےدرگزرفرمائی۔اب (تم کو اختیار ہے کہ) ان سے مباشرت کرو۔ اور خدا نے جو چیز تمہارے لئے لکھ رکھی ہے (یعنی اولاد) اس کو (خدا سے) طلب کرو اور کھاؤ پیو یہاں تک کہ صبح کی سفید دھاری (رات کی) سیاہ دھاری سے الگ نظر آنے لگے۔ پھر روزہ (رکھ کر) رات تک پورا کرو اور جب تم مسجدوں میں اعتکاف بیٹھے ہو تو ان سے مباشرت نہ کرو۔ یہ خدا کی حدیں ہیں ان کے پاس نہ جانا۔ اسی طرح خدا اپنی آیتیں لوگوں کے (سمجھانے کے) لئے کھول کھول کر بیان فرماتا ہے تاکہ وہ پرہیزگار بنیں
+
 [Open on Quran.com](https://quran.com/2/187)
 
 #### 2:222 · [[002 Al-Baqarah]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they ask you about menstruation. Say, "It is harm, so keep away from wives during menstruation. And do not approach them until they are pure. And when they have purified themselves, then come to them from where Allāh has ordained for you. Indeed, Allāh loves those who are constantly repentant and loves those who purify themselves."
 
 **English (Yusuf Ali):** They ask thee concerning women's courses. Say: They are a hurt and a pollution: So keep away from women in their courses, and do not approach them until they are clean. But when they have purified themselves, ye may approach them in any manner, time, or place ordained for you by Allah. For Allah loves those who turn to Him constantly and He loves those who keep themselves pure and clean.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے حیض کے بارے میں دریافت کرتے ہیں۔ کہہ دو کہ وہ تو نجاست ہے۔ سو ایام حیض میں عورتوں سے کنارہ کش رہو۔ اور جب تک پاک نہ ہوجائیں ان سے مقاربت نہ کرو۔ ہاں جب پاک ہوجائیں تو جس طریق سے خدا نے ارشاد فرمایا ہے ان کے پاس جاؤ۔ کچھ شک نہیں کہ خدا توبہ کرنے والوں اور پاک صاف رہنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/2/222)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Approach not prayers with a mind befogged, until ye can understand all that ye say,- nor in a state of ceremonial impurity (Except when travelling on the road), until after washing your whole body. If ye are ill, or on a journey, or one of you cometh from offices of nature, or ye have been in contact with women, and ye find no water, then take for yourselves clean sand or earth, and rub therewith your faces and hands. For Allah doth blot out sins and forgive again and again.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم نشے کی حالت میں ہو تو جب تک (ان الفاظ کو) جو منہ سے کہو سمجھنے (نہ) لگو نماز کے پاس نہ جاؤ اور جنابت کی حالت میں بھی (نماز کے پاس نہ جاؤ) جب تک کہ غسل (نہ) کرلو ہاں اگر بحالت سفر رستے چلے جارہے ہو اور پانی نہ ملنے کے سبب غسل نہ کرسکو تو تیمم کرکے نماز پڑھ لو) اور اگر تم بیمار ہو سفر میں ہو یا تم میں سے کوئی بیت الخلاء سے ہو کر آیا ہو یا تم عورتوں سے ہم بستر ہوئے ہو اور تمہیں پانی نہ ملے تو پاک مٹی لو اور منہ اور ہاتھوں پر مسح (کرکے تیمم) کرلو بےشک خدا معاف کرنے والا اور بخشنے والا ہے
+
 [Open on Quran.com](https://quran.com/4/43)
 
 #### 6:151 · [[006 Al-Anam]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "Come, I will recite what your Lord has prohibited to you. [He commands] that you not associate anything with Him, and to parents, good treatment, and do not kill your children out of poverty; We will provide for you and them. And do not approach immoralities - what is apparent of them and what is concealed. And do not kill the soul which Allāh has forbidden [to be killed] except by [legal] right. This has He instructed you that you may use reason."
 
 **English (Yusuf Ali):** Say: "Come, I will rehearse what Allah hath (really) prohibited you from": Join not anything as equal with Him; be good to your parents; kill not your children on a plea of want;- We provide sustenance for you and for them;- come not nigh to shameful deeds. Whether open or secret; take not life, which Allah hath made sacred, except by way of justice and law: thus doth He command you, that ye may learn wisdom.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ کہ (لوگو) آؤ میں تمہیں وہ چیزیں پڑھ کر سناؤں جو تمہارے پروردگار نے تم پر حرام کر دی ہیں (ان کی نسبت اس نے اس طرح ارشاد فرمایا ہے) کہ کسی چیز کو خدا کا شریک نہ بنانا اور ماں باپ (سے بدسلوکی نہ کرنا بلکہ) سلوک کرتے رہنا اور ناداری (کے اندیشے) سے اپنی اولاد کو قتل نہ کرنا کیونکہ تم کو اور ان کو ہم ہی رزق دیتے ہیں اور بےحیائی کے کام ظاہر ہوں یا پوشیدہ ان کے پاس نہ پھٹکنا اور کسی جان (والے) کو جس کے قتل کو خدا نے حرام کر دیا ہے قتل نہ کرنا مگر جائز طور پر (یعنی جس کا شریعت حکم دے) ان باتوں کا وہ تمہیں ارشاد فرماتا ہے تاکہ تم سمجھو
 
 [Open on Quran.com](https://quran.com/6/151)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And come not nigh to the orphan's property, except to improve it, until he attain the age of full strength; give measure and weight with (full) justice;- no burden do We place on any soul, but that which it can bear;- whenever ye speak, speak justly, even if a near relative is concerned; and fulfil the covenant of Allah: thus doth He command you, that ye may remember.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ جانا مگر ایسے طریق سے کہ بہت ہی پسندیدہ ہو یہاں تک کہ وہ جوانی کو پہنچ جائے اور ناپ تول انصاف کے ساتھ پوری پوری کیا کرو ہم کسی کو تکلیف نہیں دیتے مگر اس کی طاقت کے مطابق اور جب (کسی کی نسبت) کوئی بات کہو تو انصاف سے کہو گو وہ (تمہارا) رشتہ دار ہی ہو اور خدا کے عہد کو پورا کرو ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم نصحیت کرو
+
 [Open on Quran.com](https://quran.com/6/152)
 
 #### 7:19 · [[007 Al-Araf]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And "O Adam, dwell, you and your wife, in Paradise and eat from wherever you will but do not approach this tree, lest you be among the wrongdoers."
 
 **English (Yusuf Ali):** "O Adam! dwell thou and thy wife in the Garden, and enjoy (its good things) as ye wish: but approach not this tree, or ye run into harm and transgression."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے آدم (سے کہا کہ) تم اور تمہاری بیوی بہشت میں رہو سہو اور جہاں سے چاہو (اور جو چاہو) نوش جان کرو مگر اس درخت کے پاس نہ جاؤ ورنہ گنہگار ہو جاؤ گے
 
 [Open on Quran.com](https://quran.com/7/19)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Truly the Pagans are unclean; so let them not, after this year of theirs, approach the Sacred Mosque. And if ye fear poverty, soon will Allah enrich you, if He wills, out of His bounty, for Allah is All-knowing, All-wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! مشرک تو پلید ہیں تو اس برس کے بعد وہ خانہٴ کعبہ کا پاس نہ جانے پائیں اور اگر تم کو مفلسی کا خوف ہو تو خدا چاہے گا تو تم کو اپنے فضل سے غنی کر دے گا۔ بےشک خدا سب کچھ جانتا (اور) حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/9/28)
 
 #### 12:60 · [[012 Yusuf]]
@@ -174,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Now if ye bring him not to me, ye shall have no measure (of corn) from me, nor shall ye (even) come near me."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم اسے میرے پاس نہ لاؤ گے تو نہ تمہیں میرے ہاں سے غلّہ ملے گا اور نہ تم میرے پاس ہی آسکو گے
+
 [Open on Quran.com](https://quran.com/12/60)
 
 #### 17:32 · [[017 Al-Isra]]
@@ -189,6 +207,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not approach unlawful sexual intercourse. Indeed, it is ever an immorality and is evil as a way.
 
 **English (Yusuf Ali):** Nor come nigh to adultery: for it is a shameful (deed) and an evil, opening the road (to other evils).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور زنا کے بھی پاس نہ جانا کہ وہ بےحیائی اور بری راہ ہے
 
 [Open on Quran.com](https://quran.com/17/32)
 

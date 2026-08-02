@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 31:13 · [[031 Luqman]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when Luqmān said to his son while he was instructing him, "O my son, do not associate [anything] with Allāh. Indeed, association [with Him] is great injustice."
 
 **English (Yusuf Ali):** Behold, Luqman said to his son by way of instruction: "O my son! join not in worship (others) with Allah: for false worship is indeed the highest wrong-doing."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اُس وقت کو یاد کرو) جب لقمان نے اپنے بیٹے کو نصیحت کرتے ہوئے کہا کہ بیٹا خدا کے ساتھ شرک نہ کرنا۔ شرک تو بڑا (بھاری) ظلم ہے
 
 [Open on Quran.com](https://quran.com/31/13)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Call upon other (gods) whom ye fancy, besides Allah: They have no power,- not the weight of an atom,- in the heavens or on earth: No (sort of) share have they therein, nor is any of them a helper to Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ جن کو تم خدا کے سوا (معبود) خیال کرتے ہو ان کو بلاؤ۔ وہ آسمانوں اور زمین میں ذرہ بھر چیز کے بھی مالک نہیں ہیں اور نہ ان میں ان کی شرکت ہے اور نہ ان میں سے کوئی خدا کا مددگار ہے
+
 [Open on Quran.com](https://quran.com/34/22)
 
 #### 35:14 · [[035 Fatir]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If you invoke them, they do not hear your supplication; and if they heard, they would not respond to you. And on the Day of Resurrection they will deny your association. And none can inform you like [one] Aware [of all matters].
 
 **English (Yusuf Ali):** If ye invoke them, they will not listen to your call, and if they were to listen, they cannot answer your (prayer). On the Day of Judgment they will reject your "Partnership". and none, (O man!) can tell thee (the Truth) like the One Who is acquainted with all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم ان کو پکارو تو وہ تمہاری پکار نہ سنیں اور اگر سن بھی لیں تو تمہاری بات کو قبول نہ کرسکیں۔ اور قیامت کے دن تمہارے شرک سے انکار کردیں گے۔ اور (خدائے) باخبر کی طرح تم کو کوئی خبر نہیں دے گا
 
 [Open on Quran.com](https://quran.com/35/14)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Have ye seen (these) 'Partners' of yours whom ye call upon besides Allah? Show Me what it is they have created in the (wide) earth. Or have they a share in the heavens? Or have We given them a Book from which they (can derive) clear (evidence)?- Nay, the wrong-doers promise each other nothing but delusions.
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے اپنے شریکوں کو دیکھا جن کو تم خدا کے سوا پکارتے ہو۔ مجھے دکھاؤ کہ انہوں نے زمین سے کون سی چیز پیدا کی ہے یا (بتاؤ کہ) آسمانوں میں ان کی شرکت ہے۔ یا ہم نے ان کو کتاب دی ہے تو وہ اس کی سند رکھتے ہیں (ان میں سے کوئی بات بھی نہیں) بلکہ ظالم جو ایک دوسرے کو وعدہ دیتے ہیں محض فریب ہے
+
 [Open on Quran.com](https://quran.com/35/40)
 
 #### 46:4 · [[046 Al-Ahqaf]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O Muḥammad], "Have you considered that which you invoke besides Allāh? Show me what they have created of the earth; or did they have partnership in [creation of] the heavens? Bring me a scripture [revealed] before this or a [remaining] trace of knowledge, if you should be truthful."
 
 **English (Yusuf Ali):** Say: "Do ye see what it is ye invoke besides Allah? Show me what it is they have created on earth, or have they a share in the heavens bring me a book (revealed) before this, or any remnant of knowledge (ye may have), if ye are telling the truth!
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ بھلا تم نے ان چیزوں کو دیکھا ہے جن کو تم خدا کے سوا پکارتے ہو (ذرا) مجھے بھی تو دکھاؤ کہ انہوں نے زمین میں کون سی چیز پیدا کی ہے۔ یا آسمانوں میں ان کی شرکت ہے۔ اگر سچے ہو تو اس سے پہلے کی کوئی کتاب میرے پاس لاؤ۔ یا علم (انبیاء میں) سے کچھ (منقول) چلا آتا ہو (تو اسے پیش کرو)
 
 [Open on Quran.com](https://quran.com/46/4)
 

@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:130 · [[007 Al-Araf]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We certainly seized the people of Pharaoh with years of famine and a deficiency in fruits that perhaps they would be reminded.
 
 **English (Yusuf Ali):** We punished the people of Pharaoh with years (of droughts) and shortness of crops; that they might receive admonition.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے فرعونیوں کو قحطوں اور میووں کے نقصان میں پکڑا تاکہ نصیحت حاصل کریں
 
 [Open on Quran.com](https://quran.com/7/130)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who made the sun to be a shining glory and the moon to be a light (of beauty), and measured out stages for her; that ye might know the number of years and the count (of time). Nowise did Allah create this but in truth and righteousness. (Thus) doth He explain His Signs in detail, for those who understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سورج کو روشن اور چاند کو منور بنایا اور چاند کی منزلیں مقرر کیں تاکہ تم برسوں کا شمار اور (کاموں کا) حساب معلوم کرو۔ یہ (سب کچھ) خدا نے تدبیر سے پیدا کیا ہے۔ سمجھنے والوں کے لیے وہ اپنی آیاتیں کھول کھول کر بیان فرماتا ہے
+
 [Open on Quran.com](https://quran.com/10/5)
 
 #### 12:42 · [[012 Yusuf]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And he said to the one whom he knew would go free, "Mention me before your master." But Satan made him forget the mention [to] his master, and he [i.e., Joseph] remained in prison several years.
 
 **English (Yusuf Ali):** And of the two, to that one whom he consider about to be saved, he said: "Mention me to thy lord." But Satan made him forget to mention him to his lord: and (Joseph) lingered in prison a few (more) years.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور دونوں شخصوں میں سے جس کی نسبت (یوسف نے) خیال کیا کہ وہ رہائی پا جائے گا اس سے کہا کہ اپنے آقا سے میرا ذکر بھی کرنا لیکن شیطان نے ان کا اپنے آقا سے ذکر کرنا بھلا دیا اور یوسف کئی برس جیل خانے میں رہے
 
 [Open on Quran.com](https://quran.com/12/42)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Joseph) said: "For seven years shall ye diligently sow as is your wont: and the harvests that ye reap, ye shall leave them in the ear,- except a little, of which ye shall eat.
 
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ تم لوگ سات سال متواتر کھیتی کرتے رہوگے تو جو (غلّہ) کاٹو تو تھوڑے سے غلّے کے سوا جو کھانے میں آئے اسے خوشوں میں ہی رہنے دینا
+
 [Open on Quran.com](https://quran.com/12/47)
 
 #### 17:12 · [[017 Al-Isra]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have made the night and day two signs, and We erased the sign of the night and made the sign of the day visible that you may seek bounty from your Lord and may know the number of years and the account [of time]. And everything We have set out in detail.
 
 **English (Yusuf Ali):** We have made the Night and the Day as two (of Our) Signs: the Sign of the Night have We obscured, while the Sign of the Day We have made to enlighten you; that ye may seek bounty from your Lord, and that ye may know the number and count of the years: all things have We explained in detail.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے دن اور رات کو دو نشانیاں بنایا ہے رات کی نشانی کو تاریک بنایا اور دن کی نشانی کو روشن۔ تاکہ تم اپنے پروردگار کا فضل (یعنی) روزی تلاش کرو اور برسوں کا شمار اور حساب جانو۔ اور ہم نے ہر چیز کو (بخوبی) تفصیل کردی ہے
 
 [Open on Quran.com](https://quran.com/17/12)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then We draw (a veil) over their ears, for a number of years, in the Cave, (so that they heard not):
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے غار میں کئی سال تک ان کے کانوں پر (نیند کا) پردہ ڈالے (یعنی ان کو سلائے) رکھا
+
 [Open on Quran.com](https://quran.com/18/11)
 
 #### 18:25 · [[018 Al-Kahf]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they remained in their cave for three hundred years and exceeded by nine.
 
 **English (Yusuf Ali):** So they stayed in their Cave three hundred years, and (some) add nine (more)
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اصحاب کہف اپنے غار میں نو اوپر تین سو سال رہے
 
 [Open on Quran.com](https://quran.com/18/25)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Behold! thy sister goeth forth and saith, 'shall I show you one who will nurse and rear the (child)?' So We brought thee back to thy mother, that her eye might be cooled and she should not grieve. Then thou didst slay a man, but We saved thee from trouble, and We tried thee in various ways. Then didst thou tarry a number of years with the people of Midian. Then didst thou come hither as ordained, O Moses!
 
+**Urdu (Fatah Muhammad Jalandhari):** جب تمہاری بہن (فرعون کے ہاں) گئی اور کہنے لگی کہ میں تمہیں ایسا شخص بتاؤں جو اس کو پالے۔ تو (اس طریق سے) ہم نے تم کو تمہاری ماں کے پاس پہنچا دیا تاکہ ان کی آنکھیں ٹھنڈی ہوں اور وہ رنج نہ کریں۔ اور تم نے ایک شخص کو مار ڈالا تو ہم نے تم کو غم سے مخلصی دی اور ہم نے تمہاری (کئی بار) آزمائش کی۔ پھر تم کئی سال اہل مدین میں ٹھہرے رہے۔ پھر اے موسیٰ تم (قابلیت رسالت کے) اندازے پر آ پہنچے
+
 [Open on Quran.com](https://quran.com/20/40)
 
 #### 23:112 · [[023 Al-Muminun]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He will say: "What number of years did ye stay on earth?"
 
+**Urdu (Fatah Muhammad Jalandhari):** (خدا) پوچھے گا کہ تم زمین میں کتنے برس رہے؟
+
 [Open on Quran.com](https://quran.com/23/112)
 
 #### 26:18 · [[026 Ash-Shuara]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Pharaoh] said, "Did we not raise you among us as a child, and you remained among us for years of your life?
 
 **English (Yusuf Ali):** (Pharaoh) said: "Did we not cherish thee as a child among us, and didst thou not stay in our midst many years of thy life?
+
+**Urdu (Fatah Muhammad Jalandhari):** (فرعون نے موسیٰ سے کہا) کیا ہم نے تم کو کہ ابھی بچّے تھے پرورش نہیں کیا اور تم نے برسوں ہمارے ہاں عمر بسر (نہیں) کی
 
 [Open on Quran.com](https://quran.com/26/18)
 

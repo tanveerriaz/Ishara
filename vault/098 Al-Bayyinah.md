@@ -14,74 +14,74 @@ The Clear Proof · 8 ayahs
 
 ## Words in this surah (graph)
 
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[kAn - is]] — `كانَ` · is
-- [[SlAp - prayer]] — `صَلاة` · prayer
-- [[nAr - fire]] — `نار` · fire
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[jzA' - recompense]] — `جَزاء` · recompense
-- [[allah - God]] — `الله` · God
-- [[SHf - scriptures]] — `صُحُف` · scriptures
 - [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[rb - lord]] — `رَبّ` · lord
 - [[tHt - underneath it]] — `تَحْت` · underneath it
-- [[zkAp - zakah]] — `زَكاة` · zakah
-- [[Eml - do]] — `عَمِلَ` · do
-- [[>mr - command]] — `أَمَرَ` · command
-- [[Hnyf - upright]] — `حَنِيف` · upright
-- [[bEd - after]] — `بَعْد` · after
-- [[xyr - better]] — `خَيْر` · better
-- [[rswl - messenger]] — `رَسُول` · messenger
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[>hl - people]] — `أَهْل` · people
 - [[End - near]] — `عِند` · near
-- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
-- [[tlY - recited]] — `تَلَى` · recited
-- [[ktAb - book]] — `كِتاب` · book
-- [[jA' - came them]] — `جاءَ` · came them
+- [[AtY - give]] — `آتَى` · give
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[x$y - fear]] — `خَشِيَ` · fear
+- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
+- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[rb - lord]] — `رَبّ` · lord
+- [[>mr - command]] — `أَمَرَ` · command
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[Hnyf - upright]] — `حَنِيف` · upright
+- [[mThrp - purified]] — `مُطَهَّرَة` · purified
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
+- [[$r - evil]] — `شَرّ` · evil
+- [[SHf - scriptures]] — `صُحُف` · scriptures
+- [[bEd - after]] — `بَعْد` · after
+- [[dyn - religion]] — `دِين` · religion
+- [[zkAp - zakah]] — `زَكاة` · zakah
+- [[tfrq - divided]] — `تَفَرَّقَ` · divided
+- [[bynp - clear proofs]] — `بَيِّنَة` · clear proofs
+- [[jry - flow]] — `جَرَيْ` · flow
+- [[jnp - gardens]] — `جَنَّة` · gardens
 
 ## Roots
 
 - [[$rk - sharing partnership]]
 - [[$rr - sparks fire]]
-- [[>bd - abad]]
+- [[>bd - absolute long]]
 - [[>hl - people house]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
 - [[>ty - give]]
 - [[Ebd - worship]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
 - [[Hnf - upright]]
 - [[SHf - scriptures]]
-- [[SlH - slh]]
+- [[SlH - make something good]]
 - [[Slw - prayer]]
-- [[Thr - thr]]
+- [[Thr - cleanse purify oneself]]
 - [[allah - God]]
 - [[bEd - become distant]]
-- [[br> - bra]]
+- [[br> - clear free something]]
 - [[byn - clear]]
 - [[dyn - judgment]]
-- [[frq - faraqa]]
-- [[jnn - jann]]
+- [[frq - separate]]
+- [[jnn - cover]]
 - [[jry - passage time events]]
 - [[jy> - came them]]
 - [[jzy - recompense reward]]
 - [[kfr - disbelieve]]
 - [[ktb - book]]
 - [[kwn - is]]
-- [[nhr - nahara]]
+- [[nhr - dig river channel]]
 - [[nwr - brand mark camels]]
 - [[qwm - upright]]
-- [[rDw - rdw]]
+- [[rDw - pleased]]
 - [[rbb - Lord]]
 - [[rsl - messenger]]
 - [[tHt - underneath it]]
 - [[tlw - follow]]
 - [[x$y - fear]]
 - [[xlS - something becoming clear]]
-- [[xld - khld]]
-- [[xyr - khyr]]
+- [[xld - type bracelet earring]]
+- [[xyr - better]]
 - [[zkw - purify]]
 
 ## Sample (ayah 1)

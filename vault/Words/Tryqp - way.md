@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Trq - trq]]
+- [[Trq - strike beat]]
 
 ### Meaning
 **way** · Lemma **طَرِيقَة**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 20:63 · [[020 Taha]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "Indeed, these are two magicians who want to drive you out of your land with their magic and do away with your most exemplary way [i.e., religion or tradition].
 
 **English (Yusuf Ali):** They said: "These two are certainly (expert) magicians: their object is to drive you out from your land with their magic, and to do away with your most cherished institutions.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہنے لگے یہ دونوں جادوگر ہیں چاہتے ہیں کہ اپنے جادو (کے زور) سے تم کو تمہارے ملک سے نکل دیں اور تمہارے شائستہ مذہب کو نابود کردیں
 
 [Open on Quran.com](https://quran.com/20/63)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We know best what they will say, when their leader most eminent in conduct will say: "Ye tarried not longer than a day!"
 
+**Urdu (Fatah Muhammad Jalandhari):** جو باتیں یہ کریں گے ہم خوب جانتے ہیں۔ اس وقت ان میں سب سے اچھی راہ والا (یعنی عاقل وہوشمند) کہے گا کہ (نہیں بلکہ) صرف ایک ہی روز ٹھہرے ہو
+
 [Open on Quran.com](https://quran.com/20/104)
 
 #### 23:17 · [[023 Al-Muminun]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have created above you seven layered heavens, and never have We been of [Our] creation unaware.
 
 **English (Yusuf Ali):** And We have made, above you, seven tracts; and We are never unmindful of (our) Creation.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تمہارے اوپر (کی جانب) سات آسمان پیدا کئے۔ اور ہم خلقت سے غافل نہیں ہیں
 
 [Open on Quran.com](https://quran.com/23/17)
 
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** 'There are among us some that are righteous, and some the contrary: we follow divergent paths.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ ہم میں کوئی نیک ہیں اور کوئی اور طرح کے۔ ہمارے کئی طرح کے مذہب ہیں
+
 [Open on Quran.com](https://quran.com/72/11)
 
 #### 72:16 · [[072 Al-Jinn]]
@@ -105,6 +113,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [Allāh revealed] that if they had remained straight on the way, We would have given them abundant rain [i.e., provision].
 
 **English (Yusuf Ali):** (And Allah's Message is): "If they (the Pagans) had (only) remained on the (right) Way, We should certainly have bestowed on them Rain in abundance.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) یہ (بھی ان سے کہہ دو) کہ اگر یہ لوگ سیدھے رستے پر رہتے تو ہم ان کے پینے کو بہت سا پانی دیتے
 
 [Open on Quran.com](https://quran.com/72/16)
 

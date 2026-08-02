@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:195 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And spend in the way of Allāh and do not throw [yourselves] with your [own] hands into destruction [by refraining]. And do good; indeed, Allāh loves the doers of good.
 
 **English (Yusuf Ali):** And spend of your substance in the cause of Allah, and make not your own hands contribute to (your) destruction; but do good; for Allah loveth those who do good.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا کی راہ میں (مال) خرچ کرو اور اپنے آپ کو ہلاکت میں نہ ڈالو اور نیکی کرو بےشک خدا نیکی کرنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/2/195)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** This is part of the tidings of the things unseen, which We reveal unto thee (O Messenger!) by inspiration: Thou wast not with them when they cast lots with arrows, as to which of them should be charged with the care of Mary: Nor wast thou with them when they disputed (the point).
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) یہ باتیں اخبار غیب میں سے ہیں جو ہم تمہارے پاس بھیجتے ہیں اور جب وہ لوگ اپنے قلم (بطور قرعہ) ڈال رہے تھے کہ مریم کا متکفل کون بنے تو تم ان کے پاس نہیں تھے اور نہ اس وقت ہی ان کے پاس تھے جب وہ آپس میں جھگڑ رہے تھے
+
 [Open on Quran.com](https://quran.com/3/44)
 
 #### 3:151 · [[003 Ali Imran]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** We will cast terror into the hearts of those who disbelieve for what they have associated with Allāh of which He had not sent down [any] authority. And their refuge will be the Fire, and wretched is the residence of the wrongdoers.
 
 **English (Yusuf Ali):** Soon shall We cast terror into the hearts of the Unbelievers, for that they joined companions with Allah, for which He had sent no authority: their abode will be the Fire: And evil is the home of the wrong-doers!
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم عنقریب کافروں کے دلوں میں تمہارا رعب بٹھا دیں گے کیونکہ یہ خدا کے ساتھ شرک کرتے ہیں جس کی اس نے کوئی بھی دلیل نازل نہیں کی اور ان کا ٹھکانہ دوزخ ہے وہ ظالموں کا بہت بُرا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/3/151)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Except those who join a group between whom and you there is a treaty (of peace), or those who approach you with hearts restraining them from fighting you as well as fighting their own people. If Allah had pleased, He could have given them power over you, and they would have fought you: Therefore if they withdraw from you but fight you not, and (instead) send you (Guarantees of) peace, then Allah Hath opened no way for you (to war against them).
 
+**Urdu (Fatah Muhammad Jalandhari):** مگر جو لوگ ایسے لوگوں سے جا ملے ہوں جن میں اور تم میں (صلح کا) عہد ہو یا اس حال میں کہ ان کے دل تمہارے ساتھ یا اپنی قوم کے ساتھ لڑنے سے رک گئے ہوں تمہارے پاس آجائیں (تو احتراز ضروری نہیں) اور اگر خدا چاہتا تو ان کو تم پر غالب کردیتا تو وہ تم سے ضرور لڑتے پھر اگر وہ تم سے (جنگ کرنے سے) کنارہ کشی کریں اور لڑیں نہیں اور تمہاری طرف صلح (کا پیغام) بھیجیں تو خدا نے تمہارے لئے ان پر (زبردستی کرنے کی) کوئی سبیل مقرر نہیں کی
+
 [Open on Quran.com](https://quran.com/4/90)
 
 #### 4:91 · [[004 An-Nisa]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** You will find others who wish to obtain security from you and [to] obtain security from their people. Every time they are returned to [the influence of] disbelief, they fall back into it. So if they do not withdraw from you or offer you peace or restrain their hands, then seize them and kill them wherever you overtake them. And those - We have made for you against them a clear authorization.
 
 **English (Yusuf Ali):** Others you will find that wish to gain your confidence as well as that of their people: Every time they are sent back to temptation, they succumb thereto: if they withdraw not from you nor give you (guarantees) of peace besides restraining their hands, seize them and slay them wherever ye get them: In their case We have provided you with a clear argument against them.
+
+**Urdu (Fatah Muhammad Jalandhari):** تم کچھ اور لوگ ایسے بھی پاؤ گے جو یہ چاہتے ہیں کہ تم سے بھی امن میں رہیں اور اپنی قوم سے بھی امن میں رہیں لیکن فتنہ انگیزی کو بلائے جائیں تو اس میں اوندھے منہ گر پڑیں تو ایسے لوگ اگر تم سے (لڑنے سے) کنارہ کشی نہ کریں اور نہ تمہاری طرف (پیغام) صلح بھیجیں اور نہ اپنے ہاتھوں کو روکیں تو ان کو پکڑ لو اور جہاں پاؤ قتل کردو ان لوگوں کے مقابلے میں ہم نے تمہارے لئے سند صریح مقرر کردی ہے
 
 [Open on Quran.com](https://quran.com/4/91)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! When ye go abroad in the cause of Allah, investigate carefully, and say not to any one who offers you a salutation: "Thou art none of a believer!" Coveting the perishable goods of this life: with Allah are profits and spoils abundant. Even thus were ye yourselves before, till Allah conferred on you His favours: Therefore carefully investigate. For Allah is well aware of all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم خدا کی راہ میں باہر نکلو کرو تو تحقیق سے کام لیا کرو اور جو شخص تم سے سلام علیک کرے اس سے یہ نہ کہو کہ تم مومن نہیں اور اس سے تمہاری غرض یہ ہو کہ دنیا کی زندگی کا فائدہ حاصل کرو سو خدا کے نزدیک بہت سے غنیمتیں ہیں تم بھی تو پہلے ایسے ہی تھے پھر خدا نے تم پر احسان کیا تو (آئندہ) تحقیق کرلیا کرو اور جو عمل تم کرتے ہو خدا کو سب کی خبر ہے
+
 [Open on Quran.com](https://quran.com/4/94)
 
 #### 4:171 · [[004 An-Nisa]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O People of the Scripture, do not commit excess in your religion or say about Allāh except the truth. The Messiah, Jesus the son of Mary, was but a messenger of Allāh and His word which He directed to Mary and a soul [created at a command] from Him. So believe in Allāh and His messengers. And do not say, "Three"; desist - it is better for you. Indeed, Allāh is but one God. Exalted is He above having a son. To Him belongs whatever is in the heavens and whatever is on the earth. And sufficient is Allāh as Disposer of affairs.
 
 **English (Yusuf Ali):** O People of the Book! Commit no excesses in your religion: Nor say of Allah aught but the truth. Christ Jesus the son of Mary was (no more than) a messenger of Allah, and His Word, which He bestowed on Mary, and a spirit proceeding from Him: so believe in Allah and His messengers. Say not "Trinity": desist: it will be better for you: for Allah is one Allah: Glory be to Him: (far exalted is He) above having a son. To Him belong all things in the heavens and on earth. And enough is Allah as a Disposer of affairs.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے اہل کتاب اپنے دین (کی بات) میں حد سے نہ بڑھو اور خدا کے بارے میں حق کے سوا کچھ نہ کہو۔ مسیح (یعنی) مریم کے بیٹے عیسیٰ (نہ خدا تھے نہ خدا کے بیٹے بلکہ) خدا کے رسول اور کا کلمہٴ (بشارت) تھے جو اس نے مریم کی طرف بھیجا تھا اور اس کی طرف سے ایک روح تھے تو خدا اوراس کے رسولوں پر ایمان لاؤ۔ اور (یہ) نہ کہو (کہ خدا) تین (ہیں۔ اس اعتقاد سے) باز آؤ کہ یہ تمہارے حق میں بہتر ہے۔ خدا ہی معبود واحد ہے اور اس سے پاک ہے کہ اس کے اولاد ہو۔ جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب اسی کا ہے۔ اور خدا ہی کارساز کافی ہے
 
 [Open on Quran.com](https://quran.com/4/171)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Jews say: "Allah's hand is tied up." Be their hands tied up and be they accursed for the (blasphemy) they utter. Nay, both His hands are widely outstretched: He giveth and spendeth (of His bounty) as He pleaseth. But the revelation that cometh to thee from Allah increaseth in most of them their obstinate rebellion and blasphemy. Amongst them we have placed enmity and hatred till the Day of Judgment. Every time they kindle the fire of war, Allah doth extinguish it; but they (ever) strive to do mischief on earth. And Allah loveth not those who do mischief.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہود کہتے ہیں کہ خدا کا ہاتھ (گردن سے) بندھا ہوا ہے (یعنی الله بخیل ہے) انہیں کے ہاتھ باندھے جائیں اور ایسا کہنے کے سبب ان پر لعنت ہو (اس کا ہاتھ بندھا ہوا نہیں) بلکہ اس کے دونوں ہاتھ کھلے ہیں وہ جس طرح (اور جتنا) چاہتا ہے خرچ کرتا ہے اور (اے محمد) یہ (کتاب) جو تمہارے پروردگار کی طرف سے تم پر نازل ہوئی اس سے ان میں سے اکثر کی شرارت اور انکار اور بڑھے گا اور ہم نے ان کے باہم عداوت اور بغض قیامت تک کے لیے ڈال دیا ہے یہ جب لڑائی کے لیے آگ جلاتے ہیں خدا اس کو بجھا دیتا ہے اور یہ ملک میں فساد کے لیے دوڑے پھرتے ہیں اور خدا فساد کرنے والوں کو دوست نہیں رکھتا
+
 [Open on Quran.com](https://quran.com/5/64)
 
 #### 7:107 · [[007 Al-Araf]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then (Moses) threw his rod, and behold! it was a serpent, plain (for all to see)!
 
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے اپنی لاٹھی (زمین پر) ڈال دی تو وہ اسی وقت صریح اژدھا (ہوگیا)
+
 [Open on Quran.com](https://quran.com/7/107)
 
 #### 7:115 · [[007 Al-Araf]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "O Moses, either you throw [your staff], or we will be the ones to throw [first]."
 
 **English (Yusuf Ali):** They said: "O Moses! wilt thou throw (first), or shall we have the (first) throw?"
+
+**Urdu (Fatah Muhammad Jalandhari):** (جب فریقین روزِ مقررہ پر جمع ہوئے تو) جادوگروں نے کہا کہ موسیٰ یا تو تم (جادو کی چیز) ڈالو یا ہم ڈالتے ہیں
 
 [Open on Quran.com](https://quran.com/7/115)
 

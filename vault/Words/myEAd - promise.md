@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:9 · [[003 Ali Imran]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allāh does not fail in His promise."
 
 **English (Yusuf Ali):** "Our Lord! Thou art He that will gather mankind Together against a day about which there is no doubt; for Allah never fails in His promise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار! تو اس روز جس (کے آنے) میں کچھ بھی شک نہیں سب لوگوں کو (اپنے حضور میں) جمع کرلے گا بے شک خدا خلاف وعدہ نہیں کرتا
 
 [Open on Quran.com](https://quran.com/3/9)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Our Lord! Grant us what Thou didst promise unto us through Thine messengers, and save us from shame on the Day of Judgment: For Thou never breakest Thy promise."
 
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار تو نے جن جن چیزوں کے ہم سے اپنے پیغمبروں کے ذریعے سے وعدے کیے ہیں وہ ہمیں عطا فرما اور قیامت کے دن ہمیں رسوا نہ کیجو کچھ شک نہیں کہ تو خلاف وعدہ نہیں کرتا
+
 [Open on Quran.com](https://quran.com/3/194)
 
 #### 8:42 · [[008 Al-Anfal]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Remember] when you were on the near side of the valley, and they were on the farther side, and the caravan was lower [in position] than you. If you had made an appointment [to meet], you would have missed the appointment. But [it was] so that Allāh might accomplish a matter already destined - that those who perished [through disbelief] would perish upon evidence and those who lived [in faith] would live upon evidence; and indeed, Allāh is Hearing and Knowing.
 
 **English (Yusuf Ali):** Remember ye were on the hither side of the valley, and they on the farther side, and the caravan on lower ground than ye. Even if ye had made a mutual appointment to meet, ye would certainly have failed in the appointment: But (thus ye met), that Allah might accomplish a matter already enacted; that those who died might die after a clear Sign (had been given), and those who lived might live after a Clear Sign (had been given). And verily Allah is He Who heareth and knoweth (all things).
+
+**Urdu (Fatah Muhammad Jalandhari):** جس وقت تم (مدینے سے) قریب کے ناکے پر تھے اور کافر بعید کے ناکے پر اور قافلہ تم سے نیچے (اتر گیا) تھا۔ اور اگر تم (جنگ کے لیے) آپس میں قرارداد کرلیتے تو وقت معین (پر جمع ہونے) میں تقدیم وتاخیر ہو جاتی۔ لیکن خدا کو منظور تھا کہ جو کام ہو کر رہنے والا تھا اسے کر ہی ڈالے تاکہ جو مرے بصیرت پر (یعنی یقین جان کر) مرے اور جو جیتا رہے وہ بھی بصیرت پر (یعنی حق پہچان کر) جیتا رہے۔ اور کچھ شک نہیں کہ خدا سنتا جانتا ہے
 
 [Open on Quran.com](https://quran.com/8/42)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If there were a Qur'an with which mountains were moved, or the earth were cloven asunder, or the dead were made to speak, (this would be the one!) But, truly, the command is with Allah in all things! Do not the Believers know, that, had Allah (so) willed, He could have guided all mankind (to the right)? But the Unbelievers,- never will disaster cease to seize them for their (ill) deeds, or to settle close to their homes, until the promise of Allah come to pass, for, verily, Allah will not fail in His promise.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر کوئی قرآن ایسا ہوتا کہ اس (کی تاثیر) سے پہاڑ چل پڑتے یا زمین پھٹ جاتی یا مردوں سے کلام کرسکتے۔ (تو یہی قرآن ان اوصاف سے متصف ہوتا مگر) بات یہ ہے کہ سب باتیں خدا کے اختیار میں ہیں تو کیا مومنوں کو اس سے اطمینان نہیں ہوا کہ اگر خدا چاہتا تو سب لوگوں کو ہدایت کے رستے پر چلا دیتا۔ اور کافروں پر ہمیشہ ان کے اعمال کے بدلے بلا آتی رہے گی یا ان کے مکانات کے قریب نازل ہوتی رہے گی یہاں تک کہ خدا کا وعدہ آپہنچے۔ بےشک خدا وعدہ خلاف نہیں کرتا
+
 [Open on Quran.com](https://quran.com/13/31)
 
 #### 34:30 · [[034 Saba]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "The appointment to you is for a Day, which ye cannot put back for an hour nor put forward."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ تم سے ایک دن کا وعدہ ہے جس سے نہ ایک گھڑی پیچھے رہوگے اور نہ آگے بڑھو گے
+
 [Open on Quran.com](https://quran.com/34/30)
 
 #### 39:20 · [[039 Az-Zumar]]
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who have feared their Lord - for them are chambers, above them chambers built high, beneath which rivers flow. [This is] the promise of Allāh. Allāh does not fail in [His] promise.
 
 **English (Yusuf Ali):** But it is for those who fear their Lord. That lofty mansions, one above another, have been built: beneath them flow rivers (of delight): (such is) the Promise of Allah: never doth Allah fail in (His) promise.
+
+**Urdu (Fatah Muhammad Jalandhari):** لیکن جو لوگ اپنے پروردگار سے ڈرتے ہیں ان کے لئے اونچے اونچے محل ہیں جن کے اوپر بالا خانے بنے ہوئے ہیں۔ (اور) ان کے نیچے نہریں بہہ رہی ہیں۔ (یہ) خدا کا وعدہ ہے۔ خدا وعدے کے خلاف نہیں کرتا
 
 [Open on Quran.com](https://quran.com/39/20)
 

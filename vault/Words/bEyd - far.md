@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:176 · [[002 Al-Baqarah]]
 
@@ -52,6 +52,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That is [deserved by them] because Allāh has sent down the Book in truth. And indeed, those who differ over the Book are in extreme dissension.
 
 **English (Yusuf Ali):** (Their doom is) because Allah sent down the Book in truth but those who seek causes of dispute in the Book are in a schism Far (from the purpose).
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس لئے کہ خدا نے کتاب سچائی کے ساتھ نازل فرمائی۔ اور جن لوگوں نے اس کتاب میں اختلاف کیا وہ ضد میں (آکر نیکی سے) دور (ہوگئے) ہیں
 
 [Open on Quran.com](https://quran.com/2/176)
 
@@ -69,6 +71,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "On the Day when every soul will be confronted with all the good it has done, and all the evil it has done, it will wish there were a great distance between it and its evil. But Allah cautions you (To remember) Himself. And Allah is full of kindness to those that serve Him."
 
+**Urdu (Fatah Muhammad Jalandhari):** جس دن ہر شخص اپنے اعمال کی نیکی کو موجود پالے گا اور ان کی برائی کو بھی (دیکھ لے گا) تو آرزو کرے گا کہ اے کاش اس میں اور اس برائی میں دور کی مسافت ہو جاتی اور خدا تم کو اپنے (غضب) سے ڈراتا ہے اور خدا اپنے بندوں پر نہایت مہربان ہے
+
 [Open on Quran.com](https://quran.com/3/30)
 
 #### 4:60 · [[004 An-Nisa]]
@@ -84,6 +88,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have you not seen those who claim to have believed in what was revealed to you, [O Muḥammad], and what was revealed before you? They wish to refer legislation to ṭāghūt, while they were commanded to reject it; and Satan wishes to lead them far astray.
 
 **English (Yusuf Ali):** Hast thou not turned Thy vision to those who declare that they believe in the revelations that have come to thee and to those before thee? Their (real) wish is to resort together for judgment (in their disputes) to the Evil One, though they were ordered to reject him. But Satan's wish is to lead them astray far away (from the right).
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے ان لوگوں کو نہیں دیکھا جو دعویٰ تو یہ کرتے ہیں کہ جو (کتاب) تم پر نازل ہوئی اور جو (کتابیں) تم سے پہلے نازل ہوئیں ان سب پر ایمان رکھتے ہیں اور چاہتے یہ ہیں کہ اپنا مقدمہ ایک سرکش کے پاس لے جا کر فیصلہ کرائیں حالانکہ ان کو حکم دیا گیا تھا کہ اس سے اعتقاد نہ رکھیں اور شیطان (تو یہ) چاہتا ہے کہ ان کو بہکا کر رستے سے دور ڈال دے
 
 [Open on Quran.com](https://quran.com/4/60)
 
@@ -101,6 +107,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah forgiveth not (The sin of) joining other gods with Him; but He forgiveth whom He pleaseth other sins than this: one who joins other gods with Allah, Hath strayed far, far away (from the right).
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا اس کے گناہ کو نہیں بخشے گا کہ کسی کو اس کا شریک بنایا جائے اور اس کے سوا (اور گناہ) جس کو چاہیے گا بخش دے گا۔ اور جس نے خدا کے ساتھ شریک بنایا وہ رستے سے دور جا پڑا
+
 [Open on Quran.com](https://quran.com/4/116)
 
 #### 4:136 · [[004 An-Nisa]]
@@ -116,6 +124,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, believe in Allāh and His Messenger and the Book that He sent down upon His Messenger and the Scripture which He sent down before. And whoever disbelieves in Allāh, His angels, His books, His messengers, and the Last Day has certainly gone far astray.
 
 **English (Yusuf Ali):** O ye who believe! Believe in Allah and His Messenger, and the scripture which He hath sent to His Messenger and the scripture which He sent to those before (him). Any who denieth Allah, His angels, His Books, His Messengers, and the Day of Judgment, hath gone far, far astray.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا پر اور اس کے رسول پر اور جو کتاب اس نے اپنی پیغمبر (آخرالزماں) پر نازل کی ہے اور جو کتابیں اس سے پہلے نازل کی تھیں سب پر ایمان لاؤ۔ اور جو شخص خدا اور اس کے فرشتوں اور اس کی کتابوں اور اس کے پیغمبروں اور روزقیامت سے انکار کرے وہ رستے سے بھٹک کر دور جا پڑا
 
 [Open on Quran.com](https://quran.com/4/136)
 
@@ -133,6 +143,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who reject Faith and keep off (men) from the way of Allah, have verily strayed far, far away from the Path.
 
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے کفر کیا اور (لوگوں کو) خدا کے رستے سے روکا وہ رستے سے بھٹک کر دور جا پڑے
+
 [Open on Quran.com](https://quran.com/4/167)
 
 #### 11:83 · [[011 Hud]]
@@ -148,6 +160,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Marked from your Lord. And it [i.e., Allāh's punishment] is not from the wrongdoers [very] far.
 
 **English (Yusuf Ali):** Marked as from thy Lord: Nor are they ever far from those who do wrong!
+
+**Urdu (Fatah Muhammad Jalandhari):** جن پر تمہارے پروردگار کے ہاں سے نشان کئے ہوئے تھے اور وہ بستی ان ظالموں سے کچھ دور نہیں
 
 [Open on Quran.com](https://quran.com/11/83)
 
@@ -165,6 +179,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And O my people! let not my dissent (from you) cause you to sin, lest ye suffer a fate similar to that of the people of Noah or of Hud or of Salih, nor are the people of Lut far off from you!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اے قوم! میری مخالفت تم سے کوئی ایسا کام نہ کرادے کہ جیسی مصیبت نوح کی قوم یا ہود کی قوم یا صالح کی قوم پر واقع ہوئی تھی ویسی ہی مصیبت تم پر واقع ہو۔ اور لوط کی قوم (کا زمانہ تو) تم سے کچھ دور نہیں
+
 [Open on Quran.com](https://quran.com/11/89)
 
 #### 14:3 · [[014 Ibrahim]]
@@ -181,6 +197,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who love the life of this world more than the Hereafter, who hinder (men) from the Path of Allah and seek therein something crooked: they are astray by a long distance.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو آخرت کی نسبت دنیا کو پسند کرتے اور (لوگوں کو) خدا کے رستے سے روکتے اور اس میں کجی چاہتے ہیں۔ یہ لوگ پرلے سرے کی گمراہی میں ہیں
+
 [Open on Quran.com](https://quran.com/14/3)
 
 #### 14:18 · [[014 Ibrahim]]
@@ -196,6 +214,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The example of those who disbelieve in their Lord is [that] their deeds are like ashes which the wind blows forcefully on a stormy day; they are unable [to keep] from what they earned a [single] thing. That is what is extreme error.
 
 **English (Yusuf Ali):** The parable of those who reject their Lord is that their works are as ashes, on which the wind blows furiously on a tempestuous day: No power have they over aught that they have earned: that is the straying far, far (from the goal).
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے اپنے پروردگار سے کفر کیا ان کے اعمال کی مثال راکھ کی سی ہے کہ آندھی کے دن اس پر زور کی ہوا چلے (اور) اسے اڑا لے جائے (اس طرح) جو کام وہ کرتے رہے ان پر ان کو کچھ دسترس نہ ہوگی۔ یہی تو پرلے سرے کی گمراہی ہے
 
 [Open on Quran.com](https://quran.com/14/18)
 

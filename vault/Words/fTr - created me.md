@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:79 · [[006 Al-Anam]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh."
 
 **English (Yusuf Ali):** "For me, I have set my face, firmly and truly, towards Him Who created the heavens and the earth, and never shall I give partners to Allah."
+
+**Urdu (Fatah Muhammad Jalandhari):** میں نے سب سے یکسو ہو کر اپنے تئیں اسی ذات کی طرف متوجہ کیا جس نے آسمانوں اور زمین کو پیدا کیا ہے اور میں مشرکوں میں سے نہیں ہوں
 
 [Open on Quran.com](https://quran.com/6/79)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "O my people! I ask of you no reward for this (Message). My reward is from none but Him who created me: Will ye not then understand?
 
+**Urdu (Fatah Muhammad Jalandhari):** میری قوم! میں اس (وعظ و نصیحت) کا تم سے کچھ صلہ نہیں مانگتا۔ میرا صلہ تو اس کے ذمّے ہے جس نے مجھے پیدا کیا۔ بھلا تم سمجھتے کیوں نہیں؟
+
 [Open on Quran.com](https://quran.com/11/51)
 
 #### 17:51 · [[017 Al-Isra]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or [any] creation of that which is great within your breasts." And they will say, "Who will restore us?" Say, "He who brought you forth the first time." Then they will nod their heads toward you and say, "When is that?" Say, "Perhaps it will be soon -
 
 **English (Yusuf Ali):** "Or created matter which, in your minds, is hardest (to be raised up),- (Yet shall ye be raised up)!" then will they say: "Who will cause us to return?" Say: "He who created you first!" Then will they wag their heads towards thee, and say, "When will that be?" Say, "May be it will be quite soon!
+
+**Urdu (Fatah Muhammad Jalandhari):** یا کوئی اور چیز جو تمہارے نزدیک (پتھر اور لوہے سے بھی) بڑی (سخت) ہو (جھٹ کہیں گے) کہ (بھلا) ہمیں دوبارہ کون جِلائے گا؟ کہہ دو کہ وہی جس نے تم کو پہلی بار پیدا کیا۔ تو (تعجب سے) تمہارے آگے سرہلائیں گے اور پوچھیں گے کہ ایسا کب ہوگا؟ کہہ دو کہ امید ہے جلد ہوگا
 
 [Open on Quran.com](https://quran.com/17/51)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** At it the skies are ready to burst, the earth to split asunder, and the mountains to fall down in utter ruin,
 
+**Urdu (Fatah Muhammad Jalandhari):** قریب ہے کہ اس (افتراء) سے آسمان پھٹ پڑیں اور زمین شق ہوجائے اور پہاڑ پارہ پارہ ہو کر گر پڑیں
+
 [Open on Quran.com](https://quran.com/19/90)
 
 #### 20:72 · [[020 Taha]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "Never will we prefer you over what has come to us of clear proofs and [over] He who created us. So decree whatever you are to decree. You can only decree for this worldly life.
 
 **English (Yusuf Ali):** They said: "Never shall we regard thee as more than the Clear Signs that have come to us, or than Him Who created us! so decree whatever thou desirest to decree: for thou canst only decree (touching) the life of this world.
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا جو دلائل ہمارے پاس آگئے ہیں ان پر اور جس نے ہم کو پیدا ہے اس پر ہم آپ کو ہرگز ترجیح نہیں دیں گے تو آپ کو جو حکم دینا ہو دے دیجیئے۔ اور آپ (جو) حکم دے سکتے ہیں وہ صرف اسی دنیا کی زندگی میں (دے سکتے ہیں)
 
 [Open on Quran.com](https://quran.com/20/72)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said, "Nay, your Lord is the Lord of the heavens and the earth, He Who created them (from nothing): and I am a witness to this (Truth).
 
+**Urdu (Fatah Muhammad Jalandhari):** (ابراہیم نے) کہا (نہیں) بلکہ تمہارا پروردگار آسمانوں اور زمین کا پروردگار ہے جس نے ان کو پیدا کیا ہے۔ اور میں اس (بات) کا گواہ (اور اسی کا قائل) ہوں
+
 [Open on Quran.com](https://quran.com/21/56)
 
 #### 30:30 · [[030 Ar-Rum]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So direct your face [i.e., self] toward the religion, inclining to truth. [Adhere to] the fiṭrah of Allāh upon which He has created [all] people. No change should there be in the creation of Allāh. That is the correct religion, but most of the people do not know.
 
 **English (Yusuf Ali):** So set thou thy face steadily and truly to the Faith: (establish) Allah's handiwork according to the pattern on which He has made mankind: no change (let there be) in the work (wrought) by Allah: that is the standard Religion: but most among mankind understand not.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو تم ایک طرف کے ہوکر دین (خدا کے رستے) پر سیدھا منہ کئے چلے جاؤ (اور) خدا کی فطرت کو جس پر اُس نے لوگوں کو پیدا کیا ہے (اختیار کئے رہو) خدا کی بنائی ہوئی (فطرت) میں تغیر وتبدل نہیں ہو سکتا۔ یہی سیدھا دین ہے لیکن اکثر لوگ نہیں جانتے
 
 [Open on Quran.com](https://quran.com/30/30)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "It would not be reasonable in me if I did not serve Him Who created me, and to Whom ye shall (all) be brought back.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور مجھے کیا ہے میں اس کی پرستش نہ کروں جس نے مجھے پیدا کیا اور اسی کی طرف تم کو لوٹ کر جانا ہے
+
 [Open on Quran.com](https://quran.com/36/22)
 
 #### 42:5 · [[042 Ash-Shuraa]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The heavens are almost rent asunder from above them (by Him Glory): and the angels celebrate the Praises of their Lord, and pray for forgiveness for (all) beings on earth: Behold! Verily Allah is He, the Oft-Forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** قریب ہے کہ آسمان اوپر سے پھٹ پڑیں اور فرشتے اپنے پروردگار کی تعریف کے ساتھ اس کی تسبیج کرتے رہتے ہیں اور جو لوگ زمین میں ہیں ان کے لئے معافی مانگتے رہتے ہیں۔ سن رکھو کہ خدا بخشنے والا مہربان ہے
+
 [Open on Quran.com](https://quran.com/42/5)
 
 #### 43:27 · [[043 Az-Zukhruf]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except for He who created me; and indeed, He will guide me."
 
 **English (Yusuf Ali):** "(I worship) only Him Who made me, and He will certainly guide me."
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جس نے مجھ کو پیدا کیا وہی مجھے سیدھا رستہ دکھائے گا
 
 [Open on Quran.com](https://quran.com/43/27)
 

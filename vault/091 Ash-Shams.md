@@ -14,65 +14,65 @@ The Sun · 15 ayahs
 
 ## Words in this surah (graph)
 
-- [[xAb - disappointed]] — `خابَ` · disappointed
-- [[xAf - fear]] — `خافَ` · fear
-- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
-- [[nhAr - day]] — `نَهار` · day
-- [[>$qY - wretched one]] — `أَشْقَى` · wretched one
-- [[lyl - night]] — `لَيْل` · night
-- [[allah - God]] — `الله` · God
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[zkY - purify them]] — `زَكَّى` · purify them
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[qmr - moon]] — `قَمَر` · moon
-- [[$ms - sun]] — `شَمْس` · sun
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[rswl - messenger]] — `رَسُول` · messenger
-- [[>flH - successful]] — `أَفْلَحَ` · successful
-- [[nAqp - she-camel]] — `ناقَة` · she-camel
 - [[qAl - say]] — `قالَ` · say
-- [[tlY - recited]] — `تَلَى` · recited
-- [[DHY - its brightness]] — `ضُحًى` · its brightness
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
 - [[>rD - earth]] — `أَرْض` · earth
+- [[DHY - its brightness]] — `ضُحًى` · its brightness
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[xAf - fear]] — `خافَ` · fear
+- [[qmr - moon]] — `قَمَر` · moon
 - [[Eqr - hamstrung]] — `عَقَرَ` · hamstrung
-- [[*nb - sins]] — `ذَنب` · sins
-- [[bnY - children]] — `بُنَىّ` · children
+- [[rb - lord]] — `رَبّ` · lord
+- [[$ms - sun]] — `شَمْس` · sun
+- [[lyl - night]] — `لَيْل` · night
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[nAqp - she-camel]] — `ناقَة` · she-camel
+- [[allah - God]] — `الله` · God
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[xAb - disappointed]] — `خابَ` · disappointed
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[>$qY - wretched one]] — `أَشْقَى` · wretched one
 - [[swY - proportioned it]] — `سَوَّى` · proportioned it
+- [[>flH - successful]] — `أَفْلَحَ` · successful
+- [[*nb - sins]] — `ذَنب` · sins
+- [[nhAr - day]] — `نَهار` · day
+- [[zkY - purify them]] — `زَكَّى` · purify them
+- [[tlY - recited]] — `تَلَى` · recited
 
 ## Roots
 
 - [[$ms - horse refusing ridden]]
-- [[$qw - shqw]]
+- [[$qw - unblessed]]
 - [[*nb - tail]]
-- [[>rD - ard]]
-- [[DHw - dhw]]
+- [[>rD - earth]]
+- [[DHw - actions performed during]]
 - [[Eqb - heel human foot]]
-- [[Eqr - eqr]]
+- [[Eqr - wound hamstring]]
 - [[Tgy - transgression]]
 - [[allah - God]]
 - [[bEv - remove restraint]]
 - [[bny - sons]]
 - [[fjr - cleave cut open]]
 - [[flH - cleave split]]
-- [[g$w - gshw]]
-- [[jlw - jlw]]
+- [[g$w - cover conceal]]
+- [[jlw - clear]]
 - [[k*b - denied]]
-- [[lyl - layl]]
+- [[lyl - night]]
 - [[nfs - soul]]
-- [[nhr - nahara]]
-- [[nwq - nwq]]
-- [[qmr - qmr]]
+- [[nhr - dig river channel]]
+- [[nwq - daintiness]]
+- [[qmr - contend stakes wagers]]
 - [[qwl - qawala]]
 - [[rbb - Lord]]
 - [[rsl - messenger]]
 - [[smw - name]]
 - [[sqy - give get water]]
-- [[swy - swy]]
+- [[swy - make even]]
 - [[tlw - follow]]
-- [[wqy - wqy]]
+- [[wqy - protect]]
 - [[xwf - fear]]
-- [[xyb - khyb]]
+- [[xyb - disappointed]]
 - [[zkw - purify]]
 
 ## Sample (ayah 1)

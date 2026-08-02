@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:66 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We made it a deterrent punishment for those who were present and those who succeeded [them] and a lesson for those who fear Allāh.
 
 **English (Yusuf Ali):** So We made it an example to their own time and to their posterity, and a lesson to those who fear Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس قصے کو اس وقت کے لوگوں کے لیے اور جو ان کے بعد آنے والے تھے عبرت اور پرہیز گاروں کے لیے نصیحت بنا دیا
 
 [Open on Quran.com](https://quran.com/2/66)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "Beseech on our behalf Thy Lord to make plain to us what (heifer) it is!" He said; "He says: The heifer should be neither too old nor too young, but of middling age. Now do what ye are commanded!"
 
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ اپنے پروردگار سے التجا کیجئے کہ وہ ہمیں یہ بتائے کہ وہ بیل کس طرح کا ہو۔ (موسیٰ نے) کہا کہ پروردگار فرماتا ہے کہ وہ بیل نہ تو بوڑھا ہو اور نہ بچھڑا، بلکہ ان کے درمیان (یعنی جوان) ہو۔ جیسا تم کو حکم دیا گیا ہے، ویسا کرو
+
 [Open on Quran.com](https://quran.com/2/68)
 
 #### 2:69 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "Call upon your Lord to show us what is her color." He said, "He says, 'It is a yellow cow, bright in color - pleasing to the observers.'"
 
 **English (Yusuf Ali):** They said: "Beseech on our behalf Thy Lord to make plain to us Her colour." He said: "He says: A fawn-coloured heifer, pure and rich in tone, the admiration of beholders!"
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ پروردگار سے درخواست کیجئے کہ ہم کو یہ بھی بتائے کہ اس کا رنگ کیسا ہو۔ موسیٰ نے کہا ، پروردگار فرماتا ہے کہ اس کا رنگ گہرا زرد ہو کہ دیکھنے والوں (کے دل) کو خوش کر دیتا ہو
 
 [Open on Quran.com](https://quran.com/2/69)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "Beseech on our behalf Thy Lord to make plain to us what she is: To us are all heifers alike: We wish indeed for guidance, if Allah wills."
 
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ (اب کے) پروردگار سے پھر درخواست کیجئے کہ ہم کو بتا دے کہ وہ اور کس کس طرح کا ہو، کیونکہ بہت سے بیل ہمیں ایک دوسرے کے مشابہ معلوم ہوتے ہیں، (پھر) خدا نے چاہا تو ہمیں ٹھیک بات معلوم ہو جائے گی
+
 [Open on Quran.com](https://quran.com/2/70)
 
 #### 2:97 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "Whoever is an enemy to Gabriel - it is [none but] he who has brought it [i.e., the Qur’ān] down upon your heart, [O Muḥammad], by permission of Allāh, confirming that which was before it and as guidance and good tidings for the believers."
 
 **English (Yusuf Ali):** Say: Whoever is an enemy to Gabriel-for he brings down the (revelation) to thy heart by Allah's will, a confirmation of what went before, and guidance and glad tidings for those who believe,-
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ جو شخص جبرئیل کا دشمن ہو (اس کو غصے میں مر جانا چاہیئے) اس نے تو (یہ کتاب) خدا کے حکم سے تمہارے دل پر نازل کی ہے جو پہلی کتابوں کی تصدیق کرتی ہے، اور ایمان والوں کے لیے ہدایت اور بشارت ہے
 
 [Open on Quran.com](https://quran.com/2/97)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They followed what the evil ones gave out (falsely) against the power of Solomon: the blasphemers Were, not Solomon, but the evil ones, teaching men Magic, and such things as came down at babylon to the angels Harut and Marut. But neither of these taught anyone (Such things) without saying: "We are only for trial; so do not blaspheme." They learned from them the means to sow discord between man and wife. But they could not thus harm anyone except by Allah's permission. And they learned what harmed them, not what profited them. And they knew that the buyers of (magic) would have no share in the happiness of the Hereafter. And vile was the price for which they did sell their souls, if they but knew!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
+
 [Open on Quran.com](https://quran.com/2/102)
 
 #### 2:113 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The Jews say, "The Christians have nothing [true] to stand on," and the Christians say, "The Jews have nothing to stand on," although they [both] recite the Scripture. Thus do those who know not [i.e., the polytheists] speak the same as their words. But Allāh will judge between them on the Day of Resurrection concerning that over which they used to differ.
 
 **English (Yusuf Ali):** The Jews say: "The Christians have naught (to stand) upon; and the Christians say: "The Jews have naught (To stand) upon." Yet they (Profess to) study the (same) Book. Like unto their word is what those say who know not; but Allah will judge between them in their quarrel on the Day of Judgment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہودی کہتے ہیں کہ عیسائی رستے پر نہیں اور عیسائی کہتے ہیں کہ یہودی رستے پر نہیں۔ حالانکہ وہ کتاب (الہٰی) پڑھتے ہیں۔ اسی طرح بالکل انہی کی سی بات وہ لوگ کہتے ہیں جو (کچھ) نہیں جانتے (یعنی مشرک) تو جس بات میں یہ لوگ اختلاف کر رہے خدا قیامت کے دن اس کا ان میں فیصلہ کر دے گا
 
 [Open on Quran.com](https://quran.com/2/113)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say those without knowledge: "Why speaketh not Allah unto us? or why cometh not unto us a Sign?" So said the people before them words of similar import. Their hearts are alike. We have indeed made clear the Signs unto any people who hold firmly to Faith (in their hearts).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ (کچھ) نہیں جانتے (یعنی مشرک) وہ کہتے ہیں کہ خدا ہم سے کلام کیوں نہیں کرتا۔ یا ہمارے پاس کوئی نشانی کیوں نہیں آتی۔ اسی طرح جو لوگ ان سے پہلے تھے، وہ بھی انہی کی سی باتیں کیا کرتے تھے۔ ان لوگوں کے دل آپس میں ملتے جلتے ہیں۔ جو لوگ صاحبِ یقین ہیں، ان کے (سمجھانے کے) لیے نشانیاں بیان کردی ہیں
+
 [Open on Quran.com](https://quran.com/2/118)
 
 #### 2:136 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say ye: "We believe in Allah, and the revelation given to us, and to Abraham, Isma'il, Isaac, Jacob, and the Tribes, and that given to Moses and Jesus, and that given to (all) prophets from their Lord: We make no difference between one and another of them: And we bow to Allah (in Islam)."
 
+**Urdu (Fatah Muhammad Jalandhari):** (مسلمانو) کہو کہ ہم خدا پر ایمان لائے اور جو (کتاب) ہم پر اتری، اس پر اور جو (صحیفے) ابراہیم اور اسمٰعیل اور اسحاق اور یعقوب اور ان کی اولاد پر نازل ہوئے ان پر اور جو (کتابیں) موسیٰ اور عیسی کو عطا ہوئیں، ان پر، اور جو اور پیغمبروں کو ان کے پروردگار کی طرف سے ملیں، ان پر (سب پر ایمان لائے) ہم ان پیغمروں میں سے کسی میں کچھ فرق نہیں کرتے اور ہم اسی (خدائے واحد) کے فرمانبردار ہیں
+
 [Open on Quran.com](https://quran.com/2/136)
 
 #### 2:159 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who conceal what We sent down of clear proofs and guidance after We made it clear for the people in the Scripture - those are cursed by Allāh and cursed by those who curse,
 
 **English (Yusuf Ali):** Those who conceal the clear (Signs) We have sent down, and the Guidance, after We have made it clear for the people in the Book,-on them shall be Allah's curse, and the curse of those entitled to curse,-
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ہمارے حکموں اور ہدایتوں کو جو ہم نے نازل کی ہیں (کسی غرض فاسد سے) چھپاتے ہیں باوجود یہ کہ ہم نے ان لوگوں کے (سمجھانے کے) لئے اپنی کتاب میں کھول کھول کر بیان کردیا ہے۔ ایسوں پر خدا اور تمام لعنت کرنے والے لعنت کرتے ہیں
 
 [Open on Quran.com](https://quran.com/2/159)
 

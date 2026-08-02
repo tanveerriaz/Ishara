@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>rD - ard]]
+- [[>rD - earth]]
 
 ### Meaning
 **earth** · Lemma **أَرْض**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:11 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when it is said to them, "Do not cause corruption on the earth," they say, "We are but reformers."
 
 **English (Yusuf Ali):** When it is said to them: "Make not mischief on the earth," they say: "Why, we only Want to make peace!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان سے کہا جاتا ہے کہ زمین میں فساد نہ ڈالو تو کہتے ہیں، ہم تو اصلاح کرنے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/11)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Who has made the earth your couch, and the heavens your canopy; and sent down rain from the heavens; and brought forth therewith Fruits for your sustenance; then set not up rivals unto Allah when ye know (the truth).
 
+**Urdu (Fatah Muhammad Jalandhari):** جس نے تمھارے لیے زمین کو بچھونا اور آسمان کو چھت بنایا اور آسمان سے مینہ برسا کر تمہارے کھانے کے لیے انواع و اقسام کے میوے پیدا کئے۔ پس کسی کو خدا کا ہمسر نہ بناؤ۔ اور تم جانتے تو ہو
+
 [Open on Quran.com](https://quran.com/2/22)
 
 #### 2:27 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and cause corruption on earth. It is those who are the losers.
 
 **English (Yusuf Ali):** Those who break Allah's Covenant after it is ratified, and who sunder what Allah Has ordered to be joined, and do mischief on earth: These cause loss (only) to themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے اقرار کو مضبوط کرنے کے بعد توڑ دیتے ہیں اور جس چیز (یعنی رشتہٴ قرابت) کے جوڑے رکھنے کا الله نے حکم دیا ہے اس کو قطع کئے ڈالتے ہیں اور زمین میں خرابی کرتے ہیں یہی لوگ نقصان اٹھانے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/27)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who hath created for you all things that are on earth; Moreover His design comprehended the heavens, for He gave order and perfection to the seven firmaments; and of all things He hath perfect knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سب چیزیں جو زمین میں ہیں تمہارے لیے پیدا کیں پھر آسمان کی طرف متوجہ ہوا تو ان کو ٹھیک سات آسمان بنا دیا اور وہ ہر چیز سے خبردار ہے
+
 [Open on Quran.com](https://quran.com/2/29)
 
 #### 2:30 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when your Lord said to the angels, "Indeed, I will make upon the earth a successive authority." They said, "Will You place upon it one who causes corruption therein and sheds blood, while we exalt You with praise and declare Your perfection?" He [Allāh] said, "Indeed, I know that which you do not know."
 
 **English (Yusuf Ali):** Behold, thy Lord said to the angels: "I will create a vicegerent on earth." They said: "Wilt Thou place therein one who will make mischief therein and shed blood?- whilst we do celebrate Thy praises and glorify Thy holy (name)?" He said: "I know what ye know not."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (وہ وقت یاد کرنے کے قابل ہے) جب تمہارے پروردگار نے فرشتوں سے فرمایا کہ میں زمین میں (اپنا) نائب بنانے والا ہوں۔ انہوں نے کہا۔ کیا تُو اس میں ایسے شخص کو نائب بنانا چاہتا ہے جو خرابیاں کرے اور کشت وخون کرتا پھرے اور ہم تیری تعریف کے ساتھ تسبیح وتقدیس کرتے رہتے ہیں۔ (خدا نے) فرمایا میں وہ باتیں جانتا ہوں جو تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/2/30)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "O Adam! Tell them their names." When he had told them, Allah said: "Did I not tell you that I know the secrets of heaven and earth, and I know what ye reveal and what ye conceal?"
 
+**Urdu (Fatah Muhammad Jalandhari):** (تب) خدا نے (آدم کو) حکم دیا کہ آدم! تم ان کو ان (چیزوں) کے نام بتاؤ۔ جب انہوں نے ان کو ان کے نام بتائے تو (فرشتوں سے) فرمایا کیوں میں نے تم سے نہیں کہا تھا کہ میں آسمانوں اور زمین کی (سب) پوشیدہ باتیں جاتنا ہوں اور جو تم ظاہر کرتے ہو اور جو پوشیدہ کرتے ہو (سب) مجھ کو معلوم ہے
+
 [Open on Quran.com](https://quran.com/2/33)
 
 #### 2:36 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But Satan caused them to slip out of it and removed them from that [condition] in which they had been. And We said, "Go down, [all of you], as enemies to one another, and you will have upon the earth a place of settlement and provision for a time."
 
 **English (Yusuf Ali):** Then did Satan make them slip from the (garden), and get them out of the state (of felicity) in which they had been. We said: "Get ye down, all (ye people), with enmity between yourselves. On earth will be your dwelling-place and your means of livelihood - for a time."
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر شیطان نے دونوں کو وہاں سے پھسلا دیا اور جس (عیش ونشاط) میں تھے، اس سے ان کو نکلوا دیا۔ تب ہم نے حکم دیا کہ (بہشت بریں سے) چلے جاؤ۔ تم ایک دوسرے کے دشمن ہو، اور تمہارے لیے زمین میں ایک وقت تک ٹھکانا اور معاش (مقرر کر دیا گیا) ہے
 
 [Open on Quran.com](https://quran.com/2/36)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember Moses prayed for water for his people; We said: "Strike the rock with thy staff." Then gushed forth therefrom twelve springs. Each group knew its own place for water. So eat and drink of the sustenance provided by Allah, and do no evil nor mischief on the (face of the) earth.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لیے (خدا سے) پانی مانگا تو ہم نے کہا کہ اپنی لاٹھی پتھر پر مارو۔ (انہوں نے لاٹھی ماری) تو پھر اس میں سے بارہ چشمے پھوٹ نکلے، اور تمام لوگوں نے اپنا اپنا گھاٹ معلوم کر (کے پانی پی) لیا۔ (ہم نے حکم دیا کہ) خدا کی (عطا فرمائی ہوئی) روزی کھاؤ اور پیو، مگر زمین میں فساد نہ کرتے پھرنا
+
 [Open on Quran.com](https://quran.com/2/60)
 
 #### 2:61 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember ye said: "O Moses! we cannot endure one kind of food (always); so beseech thy Lord for us to produce for us of what the earth groweth, -its pot-herbs, and cucumbers, Its garlic, lentils, and onions." He said: "Will ye exchange the better for the worse? Go ye down to any town, and ye shall find what ye want!" They were covered with humiliation and misery; they drew on themselves the wrath of Allah. This because they went on rejecting the Signs of Allah and slaying His Messengers without just cause. This because they rebelled and went on transgressing.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے کہا کہ موسیٰ! ہم سے ایک (ہی) کھانے پر صبر نہیں ہو سکتا تو اپنے پروردگار سے دعا کیجئے کہ ترکاری اور ککڑی اور گیہوں اور مسور اور پیاز (وغیرہ) جو نباتات زمین سے اُگتی ہیں، ہمارے لیے پیدا کر دے۔ انہوں نے کہا کہ بھلا عمدہ چیزیں چھوڑ کر ان کے عوض ناقص چیزیں کیوں چاہتے ہوں۔ (اگر یہی چیزیں مطلوب ہیں) تو کسی شہر میں جا اترو، وہاں جو مانگتے ہو، مل جائے گا۔ اور (آخرکار) ذلت (ورسوائی) اور محتاجی (وبے نوائی) ان سے چمٹا دی گئی اور وہ الله کے غضب میں گرفتار ہو گئے۔ یہ اس لیے کہ وہ الله کی آیتوں سے انکار کرتے تھے اور (اس کے) نبیوں کو ناحق قتل کر دیتے تھے۔ (یعنی) یہ اس لیے کہ نافرمانی کئے جاتے اور حد سے بڑھے جاتے تھے
+
 [Open on Quran.com](https://quran.com/2/61)
 
 #### 2:71 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "He says, 'It is a cow neither trained to plow the earth nor to irrigate the field, one free from fault with no spot upon her.'" They said, "Now you have come with the truth." So they slaughtered her, but they could hardly do it.
 
 **English (Yusuf Ali):** He said: "He says: A heifer not trained to till the soil or water the fields; sound and without blemish." They said: "Now hast thou brought the truth." Then they offered her in sacrifice, but not with good-will.
+
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا کہ خدا فرماتا ہے کہ وہ بیل کام میں لگا ہوا نہ ہو، نہ تو زمین جوتتا ہو اور نہ کھیتی کو پانی دیتا ہو۔ اس میں کسی طرح کا داغ نہ ہو۔ کہنے لگے، اب تم نے سب باتیں درست بتا دیں۔ غرض (بڑی مشکل سے) انہوں نے اس بیل کو ذبح کیا، اور وہ ایسا کرنے والے تھے نہیں
 
 [Open on Quran.com](https://quran.com/2/71)
 

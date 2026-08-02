@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nqD - nqd]]
+- [[nqD - remove covering]]
 
 ### Meaning
 **break** · Lemma **نَقَضَتْ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:27 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and cause corruption on earth. It is those who are the losers.
 
 **English (Yusuf Ali):** Those who break Allah's Covenant after it is ratified, and who sunder what Allah Has ordered to be joined, and do mischief on earth: These cause loss (only) to themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے اقرار کو مضبوط کرنے کے بعد توڑ دیتے ہیں اور جس چیز (یعنی رشتہٴ قرابت) کے جوڑے رکھنے کا الله نے حکم دیا ہے اس کو قطع کئے ڈالتے ہیں اور زمین میں خرابی کرتے ہیں یہی لوگ نقصان اٹھانے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/27)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They are those with whom thou didst make a covenant, but they break their covenant every time, and they have not the fear (of Allah).
 
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں سے تم نے (صلح کا) عہد کیا ہے پھر وہ ہر بار اپنے عہد کو توڑ ڈالتے ہیں اور (خدا سے) نہیں ڈرتے
+
 [Open on Quran.com](https://quran.com/8/56)
 
 #### 13:20 · [[013 Ar-Rad]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who fulfill the covenant of Allāh and do not break the contract,
 
 **English (Yusuf Ali):** Those who fulfil the covenant of Allah and fail not in their plighted word;
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے عہد کو پورا کرتے ہیں اور اقرار کو نہیں توڑتے
 
 [Open on Quran.com](https://quran.com/13/20)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But those who break the Covenant of Allah, after having plighted their word thereto, and cut asunder those things which Allah has commanded to be joined, and work mischief in the land;- on them is the curse; for them is the terrible home!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا سے عہد واثق کر کے اس کو توڑ ڈالتے اور (رشتہ ہائے قرابت) کے جوڑے رکھنے کا خدا نے حکم دیا ہے ان کو قطع کر دیتے ہیں اور ملک میں فساد کرتے ہیں۔ ایسوں پر لعنت ہے اور ان کے لیے گھر بھی برا ہے
+
 [Open on Quran.com](https://quran.com/13/25)
 
 #### 16:91 · [[016 An-Nahl]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Fulfil the Covenant of Allah when ye have entered into it, and break not your oaths after ye have confirmed them; indeed ye have made Allah your surety; for Allah knoweth all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب خدا سے عہد واثق کرو تو اس کو پورا کرو اور جب پکی قسمیں کھاؤ تو اُن کو مت توڑو کہ تم خدا کو اپنا ضامن مقرر کرچکے ہو۔ اور جو کچھ تم کرتے ہو خدا اس کو جانتا ہے
+
 [Open on Quran.com](https://quran.com/16/91)
 
 #### 16:92 · [[016 An-Nahl]]
@@ -122,6 +132,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not be like she who untwisted her spun thread after it was strong [by] taking your oaths as [means of] deceit between you because one community is more plentiful [in number or wealth] than another community. Allāh only tries you thereby. And He will surely make clear to you on the Day of Resurrection that over which you used to differ.
 
 **English (Yusuf Ali):** And be not like a woman who breaks into untwisted strands the yarn which she has spun, after it has become strong. Nor take your oaths to practise deception between yourselves, lest one party should be more numerous than another: for Allah will test you by this; and on the Day of Judgment He will certainly make clear to you (the truth of) that wherein ye disagree.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اُس عورت کی طرح نہ ہونا جس نے محنت سے تو سوت کاتا۔ پھر اس کو توڑ کر ٹکڑے ٹکڑے کر ڈالا۔ کہ تم اپنی قسموں کو آپس میں اس بات کا ذریعہ بنانے لگو کہ ایک گروہ دوسرے گروہ سے زیادہ غالب رہے۔ بات یہ ہے کہ خدا تمہیں اس سے آزماتا ہے۔ اور جن باتوں میں تم اختلاف کرتے ہو قیامت کو اس کی حقیقت تم پر ظاہر کر دے گا
 
 [Open on Quran.com](https://quran.com/16/92)
 

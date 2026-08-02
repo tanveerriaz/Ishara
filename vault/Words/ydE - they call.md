@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 36:57 · [[036 Ya-Sin]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For them therein is fruit, and for them is whatever they request [or wish]
 
 **English (Yusuf Ali):** (Every) fruit (enjoyment) will be there for them; they shall have whatever they call for;
+
+**Urdu (Fatah Muhammad Jalandhari):** وہاں ان کے لئے میوے اور جو چاہیں گے (موجود ہوگا)
 
 [Open on Quran.com](https://quran.com/36/57)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "We are your protectors in this life and in the Hereafter: therein shall ye have all that your souls shall desire; therein shall ye have all that ye ask for!-
 
+**Urdu (Fatah Muhammad Jalandhari):** ہم دنیا کی زندگی میں بھی تمہارے دوست تھے اور آخرت میں بھی (تمہارے رفیق ہیں)۔ اور وہاں جس (نعمت) کو تمہارا جی چاہے گا تم کو (ملے گی) اور جو چیز طلب کرو گے تمہارے لئے (موجود ہوگی)
+
 [Open on Quran.com](https://quran.com/41/31)
 
 #### 67:27 · [[067 Al-Mulk]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But when they see it approaching, the faces of those who disbelieve will be distressed, and it will be said, "This is that for which you used to call."
 
 **English (Yusuf Ali):** At length, when they see it close at hand, grieved will be the faces of the Unbelievers, and it will be said (to them): "This is (the promise fulfilled), which ye were calling for!"
+
+**Urdu (Fatah Muhammad Jalandhari):** سو جب وہ دیکھ لیں گے کہ وہ (وعدہ) قریب آگیا تو کافروں کے منہ برے ہوجائیں گے اور (ان سے) کہا جائے گا کہ یہ وہی ہے جس کے تم خواستگار تھے
 
 [Open on Quran.com](https://quran.com/67/27)
 

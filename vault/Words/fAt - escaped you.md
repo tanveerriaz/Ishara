@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fwt - fwt]]
+- [[fwt - fault]]
 
 ### Meaning
 **escaped you** · Lemma **فاتَ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:153 · [[003 Ali Imran]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Remember] when you [fled and] climbed [the mountain] without looking aside at anyone while the Messenger was calling you from behind. So Allāh repaid you with distress upon distress so you would not grieve for that which had escaped you [of victory and spoils of war] or [for] that which had befallen you [of injury and death]. And Allāh is [fully] Aware of what you do.
 
 **English (Yusuf Ali):** Behold! ye were climbing up the high ground, without even casting a side glance at any one, and the Messenger in your rear was calling you back. There did Allah give you one distress after another by way of requital, to teach you not to grieve for (the booty) that had escaped you and for (the ill) that had befallen you. For Allah is well aware of all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** (وہ وقت بھی یاد کرنے کے لائق ہے) جب تم لوگ دور بھاگے جاتے تھے اور کسی کو پیچھے پھر کر نہیں دیکھتے تھے اور رسول الله تم کو تمہارے پیچھے کھڑے بلا رہے تھے تو خدا نے تم کو غم پر غم پہنچایا تاکہ جو چیز تمہارے ہاتھ سے جاتی رہی یا جو مصیبت تم پر واقع ہوئی ہے اس سے تم اندوہ ناک نہ ہو اور خدا تمہارے سب اعمال سے خبردار ہے
 
 [Open on Quran.com](https://quran.com/3/153)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In order that ye may not despair over matters that pass you by, nor exult over favours bestowed upon you. For Allah loveth not any vainglorious boaster,-
 
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ جو (مطلب) تم سے فوت ہوگیا ہو اس کا غم نہ کھایا کرو اور جو تم کو اس نے دیا ہو اس پر اترایا نہ کرو۔ اور خدا کسی اترانے اور شیخی بگھارنے والے کو دوست نہیں رکھتا
+
 [Open on Quran.com](https://quran.com/57/23)
 
 #### 60:11 · [[060 Al-Mumtahanah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you have lost any of your wives to the disbelievers and you subsequently obtain [something], then give those whose wives have gone the equivalent of what they had spent. And fear Allāh, in whom you are believers.
 
 **English (Yusuf Ali):** And if any of your wives deserts you to the Unbelievers, and ye have an accession (by the coming over of a woman from the other side), then pay to those whose wives have deserted the equivalent of what they had spent (on their dower). And fear Allah, in Whom ye believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تمہاری عورتوں میں سے کوئی عورت تمہارے ہاتھ سے نکل کر کافروں کے پاس چلی جائے (اور اس کا مہر وصول نہ ہوا ہو) پھر تم ان سے جنگ کرو (اور ان سے تم کو غنیمت ہاتھ لگے) تو جن کی عورتیں چلی گئی ہیں ان کو (اس مال میں سے) اتنا دے دو جتنا انہوں نے خرچ کیا تھا اور خدا سے جس پر تم ایمان لائے ہو ڈرو
 
 [Open on Quran.com](https://quran.com/60/11)
 

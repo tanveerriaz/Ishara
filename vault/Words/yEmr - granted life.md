@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:96 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And you will surely find them the most greedy of people for life - [even] more than those who associate others with Allāh. One of them wishes that he could be granted life a thousand years, but it would not remove him in the least from the [coming] punishment that he should be granted life. And Allāh is Seeing of what they do.
 
 **English (Yusuf Ali):** Thou wilt indeed find them, of all people, most greedy of life,-even more than the idolaters: Each one of them wishes He could be given a life of a thousand years: But the grant of such life will not save him from (due) punishment. For Allah sees well all that they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ ان کو تم اور لوگوں سے زندگی کے کہیں حریص دیکھو گے، یہاں تک کہ مشرکوں سے بھی۔ ان میں سے ہر ایک یہی خواہش کرتا ہے کہ کاش وہ ہزار برس جیتا رہے، مگر اتنی لمبی عمر اس کو مل بھی جائے تو اسے عذاب سے تو نہیں چھڑا سکتی۔ اور جو کام یہ کرتے ہیں، خدا ان کو دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/2/96)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And Allah did create you from dust; then from a sperm-drop; then He made you in pairs. And no female conceives, or lays down (her load), but with His knowledge. Nor is a man long-lived granted length of days, nor is a part cut off from his life, but is in a Decree (ordained). All this is easy to Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تم کو مٹی سے پیدا کیا پھر نطفے سے پھر تم کو جوڑا جوڑا بنا دیا۔ اور کوئی عورت نہ حاملہ ہوتی ہے اور نہ جنتی ہے مگر اس کے علم سے۔ اور نہ کسی بڑی عمر والے کو عمر زیادہ دی جاتی ہے اور نہ اس کی عمر کم کی جاتی ہے مگر (سب کچھ) کتاب میں (لکھا ہوا) ہے۔ بےشک یہ خدا کو آسان ہے
+
 [Open on Quran.com](https://quran.com/35/11)
 
 #### 35:37 · [[035 Fatir]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Therein will they cry aloud (for assistance): "Our Lord! Bring us out: we shall work righteousness, not the (deeds) we used to do!" - "Did We not give you long enough life so that he that would should receive admonition? and (moreover) the warner came to you. So taste ye (the fruits of your deeds): for the wrong-doers there is no helper."
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ اس میں چلائیں گے کہ اے پروردگار ہم کو نکال لے (اب) ہم نیک عمل کیا کریں گے۔ نہ وہ جو (پہلے) کرتے تھے۔ کیا ہم نے تم کو اتنی عمر نہیں دی تھی کہ اس میں جو سوچنا چاہتا سوچ لیتا اور تمہارے پاس ڈرانے والا بھی آیا۔ تو اب مزے چکھو۔ ظالموں کا کوئی مددگار نہیں
+
 [Open on Quran.com](https://quran.com/35/37)
 
 #### 36:68 · [[036 Ya-Sin]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And he to whom We grant long life We reverse in creation; so will they not understand?
 
 **English (Yusuf Ali):** If We grant long life to any, We cause him to be reversed in nature: Will they not then understand?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس کو ہم بڑی عمر دیتے ہیں تو اسے خلقت میں اوندھا کردیتے ہیں تو کیا یہ سمجھتے نہیں؟
 
 [Open on Quran.com](https://quran.com/36/68)
 

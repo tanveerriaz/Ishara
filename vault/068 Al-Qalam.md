@@ -14,52 +14,52 @@ The Pen · 52 ayahs
 
 ## Words in this surah (graph)
 
-- [[sjwd - prostrate]] — `سُجُود` · prostrate
-- [[mSbH - morning]] — `مُصْبِح` · morning
-- [[mjnwn - madman]] — `مَجْنُون` · madman
 - [[gd - tomorrow]] — `غَدَ` · tomorrow
-- [[mEtd - transgressor]] — `مُعْتَد` · transgressor
-- [[dEA - call]] — `دَعا` · call
-- [[rAgb - turn hopes]] — `راغِب` · turn hopes
+- [[mjnwn - madman]] — `مَجْنُون` · madman
+- [[mSbH - morning]] — `مُصْبِح` · morning
+- [[sjwd - prostrate]] — `سُجُود` · prostrate
+- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
+- [[>Elm - knowing]] — `أَعْلَم` · knowing
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[Hyv - wherever]] — `حَيْث` · wherever
+- [[k$f - we removed]] — `كَشَفَ` · we removed
+- [[TAf - will circulated]] — `طافَ` · will circulated
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[bEd - after]] — `بَعْد` · after
+- [[Elm - know]] — `عَلِمَ` · know
+- [[qAdr - able]] — `قادِر` · able
 - [[AdArk - arrested]] — `ادّارَكَ` · arrested
-- [[Dl - lost]] — `ضَلَّ` · lost
 - [[k*b - denied]] — `كَذَبَ` · denied
-- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[xA$E - humbled]] — `خاشِع` · humbled
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[nEym - delight]] — `نَعِيم` · delight
 - [[nAdY - he called]] — `نادَى` · he called
-- [[mhyn - despised]] — `مَهِين` · despised
-- [[sAq - shins]] — `ساق` · shins
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[bAlgp - conclusive]] — `بالِغَة` · conclusive
-- [[drs - studying it]] — `دَرَسُ` · studying it
-- [[mHrwm - deprived]] — `مَحْرُوم` · deprived
-- [[EZym - great]] — `عَظِيم` · great
-- [[>wl - first]] — `أَوَّل` · first
-- [[tlY - recited]] — `تَلَى` · recited
-- [[ktb - prescribed]] — `كَتَبَ` · prescribed
+- [[bED - others]] — `بَعْض` · others
+- [[Ayp - signs]] — `آيَة` · signs
+- [[mtyn - firm]] — `مَتِين` · firm
 
 ## Roots
 
 - [[$rk - sharing partnership]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[*ll - humiliation]]
 - [[*mm - disgraced]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>ty - give]]
-- [[>vm - athm]]
-- [[>wl - like milk oil]]
-- [[>xr - akhr]]
+- [[>vm - sin commit crime]]
+- [[>wl - return revert original]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
-- [[Edw - enemy]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
+- [[Edw - turn]]
 - [[Elm - knowledge]]
 - [[End - near]]
 - [[Ery - become naked]]
-- [[Esy - esy]]
+- [[Esy - hope expectation]]
 - [[Hdv - accidents]]
 - [[Hkm - prevent restrain someone]]
 - [[Hlf - type tall]]
@@ -68,30 +68,30 @@ The Pen · 52 ayahs
 - [[Hwt - striving enticing someone]]
 - [[Hyv - haythu]]
 - [[SHb - lord]]
-- [[SbH - sbh]]
+- [[SbH - morning]]
 - [[Sbr - confine restrain]]
 - [[Sdq - speak truth]]
-- [[SlH - slh]]
+- [[SlH - make something good]]
 - [[Tgy - transgression]]
-- [[Tlq - tlq]]
-- [[TwE - twe]]
-- [[Twf - twf]]
+- [[Tlq - loose]]
+- [[TwE - obey]]
+- [[Twf - go walk around]]
 - [[Zlm - put something wrong]]
-- [[bED - bed]]
+- [[bED - others]]
 - [[bEd - become distant]]
-- [[bSr - bsr]]
-- [[bdl - badala]]
-- [[blg - balagha]]
-- [[blw - blw]]
+- [[bSr - mental perception]]
+- [[bdl - change alter]]
+- [[blg - reach]]
+- [[blw - test try]]
 - [[bny - sons]]
 - [[dEw - call]]
-- [[dhn - dhn]]
+- [[dhn - anoint oil something]]
 - [[drj - path]]
 - [[drk - overtook him]]
-- [[drs - drs]]
+- [[drs - something become effaced]]
 - [[dxl - enter]]
-- [[ftn - ftn]]
-- [[gdw - gdw]]
+- [[ftn - burn melt something]]
+- [[gdw - early part morning]]
 
 ## Sample (ayah 1)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Edw - enemy]]
+- [[Edw - turn]]
 
 ### Meaning
 **transgress** · Lemma **يَعْدُ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:154 · [[004 An-Nisa]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We raised over them the mount for [refusal of] their covenant; and We said to them, "Enter the gate bowing humbly"; and We said to them, "Do not transgress on the sabbath"; and We took from them a solemn covenant.
 
 **English (Yusuf Ali):** And for their covenant we raised over them (the towering height) of Mount (Sinai); and (on another occasion) we said: "Enter the gate with humility"; and (once again) we commanded them: "Transgress not in the matter of the sabbath." And we took from them a solemn covenant.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان سے عہد لینے کو ہم نے ان پر کوہ طور اٹھا کھڑا کیا اور انہیں حکم دیا کہ (شہر کے) دروازے میں (داخل ہونا تو) سجدہ کرتے ہوئے داخل ہونا اور یہ بھی حکم دیا کہ ہفتے کے دن (مچھلیاں پکڑنے) میں تجاویز (یعنی حکم کے خلاف) نہ کرنا۔ غرض ہم نے ان سے مضبوط عہد لیا
 
 [Open on Quran.com](https://quran.com/4/154)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Ask them concerning the town standing close by the sea. Behold! they transgressed in the matter of the Sabbath. For on the day of their Sabbath their fish did come to them, openly holding up their heads, but on the day they had no Sabbath, they came not: thus did We make a trial of them, for they were given to transgression.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان سے اس گاؤں کا حال تو پوچھو جب لب دریا واقع تھا۔ جب یہ لوگ ہفتے کے دن کے بارے میں حد سے تجاوز کرنے لگے (یعنی) اس وقت کہ ان کے ہفتے کے دن مچھلیاں ان کے سامنے پانی کے اوپر آتیں اور جب ہفتے کا دن نہ ہوتا تو نہ آتیں۔ اسی طرح ہم ان لوگوں کو ان کی نافرمانیوں کے سبب آزمائش میں ڈالنے لگے
+
 [Open on Quran.com](https://quran.com/7/163)
 
 #### 18:28 · [[018 Al-Kahf]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And keep yourself patient [by being] with those who call upon their Lord in the morning and the evening, seeking His face [i.e., acceptance]. And let not your eyes pass beyond them, desiring adornments of the worldly life, and do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect.
 
 **English (Yusuf Ali):** And keep thy soul content with those who call on their Lord morning and evening, seeking His Face; and let not thine eyes pass beyond them, seeking the pomp and glitter of this Life; nor obey any whose heart We have permitted to neglect the remembrance of Us, one who follows his own desires, whose case has gone beyond all bounds.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ صبح و شام اپنے پروردگار کو پکارتے اور اس کی خوشنودی کے طالب ہیں۔ ان کے ساتھ صبر کرتے رہو۔ اور تمہاری نگاہیں ان میں (گزر کر اور طرف) نہ دوڑیں کہ تم آرائشِ زندگانی دنیا کے خواستگار ہوجاؤ۔ اور جس شخص کے دل کو ہم نے اپنی یاد سے غافل کردیا ہے اور وہ اپنی خواہش کی پیروی کرتا ہے اور اس کا کام حد سے بڑھ گیا ہے اس کا کہا نہ ماننا
 
 [Open on Quran.com](https://quran.com/18/28)
 

@@ -14,84 +14,84 @@ The Inevitable · 96 ayahs
 
 ## Words in this surah (graph)
 
-- [[mqrb - brought near]] — `مُقَرَّب` · brought near
 - [[mknwn - well-protected]] — `مَكْنُون` · well-protected
-- [[$Arb - drinkers]] — `شارِب` · drinkers
-- [[fAkhp - fruits]] — `فاكِهَة` · fruits
 - [[nEym - delight]] — `نَعِيم` · delight
+- [[fAkhp - fruits]] — `فاكِهَة` · fruits
 - [[mk*b - deniers]] — `مُكَذِّب` · deniers
-- [[mrfwEp - raised]] — `مَرْفُوعَة` · raised
-- [[>Sr - they persist]] — `أَصَرُّ` · they persist
-- [[kvyrp - many]] — `كَثِيرَة` · many
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[Hyn - time]] — `حِين` · time
-- [[yqyn - certainty]] — `يَقِين` · certainty
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
-- [[lys - not]] — `لَيْسَ` · not
-- [[n$>p - creation]] — `نَشْأَة` · creation
-- [[njm - stars]] — `نَجْم` · stars
-- [[Eml - do]] — `عَمِلَ` · do
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[mtrf - affluent ones]] — `مُتْرَف` · affluent ones
-- [[sAbq - foremost]] — `سابِق` · foremost
-- [[mHrwm - deprived]] — `مَحْرُوم` · deprived
+- [[$Arb - drinkers]] — `شارِب` · drinkers
+- [[mqrb - brought near]] — `مُقَرَّب` · brought near
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[>rD - earth]] — `أَرْض` · earth
+- [[xAlq - creator]] — `خالِق` · creator
+- [[>trAb - well-matched]] — `أَتْراب` · well-matched
+- [[mEyn - water springs]] — `مَعِين` · water springs
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[byn - between them]] — `بَيْن` · between them
+- [[TAf - will circulated]] — `طافَ` · will circulated
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[Elm - know]] — `عَلِمَ` · know
+- [[mElwm - known]] — `مَعْلُوم` · known
+- [[dyn - religion]] — `دِين` · religion
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[>jAj - bitter]] — `أُجاج` · bitter
 
 ## Roots
 
-- [[$hw - shhw]]
-- [[$jr - shjr]]
-- [[$kr - shkr]]
+- [[$hw - they desire]]
+- [[$jr - trees]]
+- [[$kr - gratitude]]
 - [[$ml - include encompass something]]
-- [[$rb - shrb]]
+- [[$rb - drink]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
-- [[>bw - abw]]
-- [[>jj - ajj]]
+- [[*kr - remember recall something]]
+- [[>bw - forefathers]]
+- [[>jj - bitter]]
 - [[>kl - eat]]
-- [[>rD - ard]]
-- [[>vm - athm]]
-- [[>wl - like milk oil]]
-- [[>xr - akhr]]
+- [[>rD - earth]]
+- [[>vm - sin commit crime]]
+- [[>wl - return revert original]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
-- [[Erb - erb]]
-- [[Eyn - eyn]]
-- [[HTm - htm]]
+- [[Eml - intentional action deed]]
+- [[Erb - bedouins]]
+- [[Eyn - eyes]]
+- [[HTm - break]]
 - [[Hdv - accidents]]
-- [[Hlq - hlq]]
-- [[Hmm - hmm]]
+- [[Hlq - shave]]
+- [[Hmm - blackness being intensely]]
 - [[Hqq - established as true]]
 - [[Hrm - reverence]]
 - [[Hrv - gain acquire wealth]]
 - [[Hwr - returning circling]]
 - [[Hyn - period time]]
 - [[SHb - lord]]
-- [[SdE - sde]]
+- [[SdE - cleave]]
 - [[Sdq - speak truth]]
-- [[Sly - sly]]
-- [[Srr - srr]]
-- [[Thr - thr]]
-- [[Twf - twf]]
+- [[Sly - exposed fire heat]]
+- [[Srr - tie bind tightly]]
+- [[Thr - cleanse purify oneself]]
+- [[Twf - go walk around]]
 - [[Tyr - anything flies]]
 - [[Zll - shade cover]]
 - [[bEv - remove restraint]]
-- [[bSr - bsr]]
+- [[bSr - mental perception]]
 - [[bTn - belly abdomen]]
-- [[bdl - badala]]
-- [[bkr - bkr]]
-- [[blg - balagha]]
+- [[bdl - change alter]]
+- [[bkr - go forth come]]
+- [[blg - reach]]
 - [[brd - become cold]]
-- [[brq - brq]]
-- [[bvv - bthth]]
+- [[brq - shine gleam]]
+- [[bvv - scatter]]
 - [[byn - clear]]
-- [[dhn - dhn]]
+- [[dhn - anoint oil something]]
 
 ## Sample (ayah 1)
 

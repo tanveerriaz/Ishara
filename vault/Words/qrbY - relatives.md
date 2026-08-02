@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:83 · [[002 Al-Baqarah]]
 
@@ -51,6 +51,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We took the covenant from the Children of Israel, [enjoining upon them], "Do not worship except Allāh; and to parents do good and to relatives, orphans, and the needy. And speak to people good [words] and establish prayer and give zakāh." Then you turned away, except a few of you, and you were refusing.
 
 **English (Yusuf Ali):** And remember We took a covenant from the Children of Israel (to this effect): Worship none but Allah; treat with kindness your parents and kindred, and orphans and those in need; speak fair to the people; be steadfast in prayer; and practise regular charity. Then did ye turn back, except a few among you, and ye backslide (even now).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے بنی اسرائیل سے عہد لیا کہ خدا کے سوا کسی کی عبادت نہ کرنا اور ماں باپ اور رشتہ داروں اور یتیموں اور محتاجوں کے ساتھ بھلائی کرتے رہنا اور لوگوں سے اچھی باتیں کہنا، اور نماز پڑھتے اور زکوٰة دیتے رہنا، تو چند شخصوں کے سوا تم سب (اس عہد سے) منہ پھیر کر پھر بیٹھے
 
 [Open on Quran.com](https://quran.com/2/83)
 
@@ -68,6 +70,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+
 [Open on Quran.com](https://quran.com/2/177)
 
 #### 4:8 · [[004 An-Nisa]]
@@ -83,6 +87,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when [other] relatives and orphans and the needy are present at the [time of] division, then provide for them [something] out of it [i.e., the estate] and speak to them words of appropriate kindness.
 
 **English (Yusuf Ali):** But if at the time of division other relatives, or orphans or poor, are present, feed them out of the (property), and speak to them words of kindness and justice.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب میراث کی تقسیم کے وقت (غیر وارث) رشتہ دار اور یتیم اور محتاج آجائیں تو ان کو بھی اس میں سے کچھ دے دیا کرو۔ اور شیریں کلامی سے پیش آیا کرو
 
 [Open on Quran.com](https://quran.com/4/8)
 
@@ -100,6 +106,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Serve Allah, and join not any partners with Him; and do good- to parents, kinsfolk, orphans, those in need, neighbours who are near, neighbours who are strangers, the companion by your side, the wayfarer (ye meet), and what your right hands possess: For Allah loveth not the arrogant, the vainglorious;-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی کی عبادت کرو اور اس کے ساتھ کسی چیز کو شریک نہ بناؤ اور ماں باپ اور قرابت والوں اور یتیموں اور محتاجوں اور رشتہ دار ہمسائیوں اور اجنبی ہمسائیوں اور رفقائے پہلو (یعنی پاس بیٹھنے والوں) اور مسافروں اور جو لوگ تمہارے قبضے میں ہوں سب کے ساتھ احسان کرو کہ خدا (احسان کرنے والوں کو دوست رکھتا ہے اور) تکبر کرنے والے بڑائی مارنے والے کو دوست نہیں رکھتا
+
 [Open on Quran.com](https://quran.com/4/36)
 
 #### 5:106 · [[005 Al-Maidah]]
@@ -115,6 +123,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, testimony [should be taken] among you when death approaches one of you at the time of bequest - [that of] two just men from among you or two others from outside if you are traveling through the land and the disaster of death should strike you. Detain them after the prayer and let them both swear by Allāh if you doubt [their testimony, saying], "We will not exchange it [i.e., our oath] for a price [i.e., worldly gain], even if he should be a near relative, and we will not withhold the testimony of [i.e., ordained by] Allāh. Indeed, we would then be of the sinful."
 
 **English (Yusuf Ali):** O ye who believe! When death approaches any of you, (take) witnesses among yourselves when making bequests,- two just men of your own (brotherhood) or others from outside if ye are journeying through the earth, and the chance of death befalls you (thus). If ye doubt (their truth), detain them both after prayer, and let them both swear by Allah: "We wish not in this for any worldly gain, even though the (beneficiary) be our near relation: we shall hide not the evidence before Allah: if we do, then behold! the sin be upon us!"
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم میں سے کسی کی موت آموجود ہو تو شہادت (کا نصاب) یہ ہے کہ وصیت کے وقت تم (مسلمانوں) میں سے دو عادل (یعنی صاحب اعتبار) گواہ ہوں یا اگر (مسلمان نہ ملیں اور) تم سفر کر رہے ہو اور (اس وقت) تم پر موت کی مصیبت واقع ہو تو کسی دوسرے مذہب کے دو (شخصوں کو) گواہ (کر لو) اگر تم کو ان گواہوں کی نسبت کچھ شک ہو تو ان کو (عصر کی) نماز کے بعد کھڑا کرو اور دونوں خدا کی قسمیں کھائیں کہ ہم شہادت کا کچھ عوض نہیں لیں گے گو ہمارا رشتہ دار ہی ہو اور نہ ہم الله کی شہادت کو چھپائیں گے اگر ایسا کریں گے تو گنہگار ہوں گے
 
 [Open on Quran.com](https://quran.com/5/106)
 
@@ -132,6 +142,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And come not nigh to the orphan's property, except to improve it, until he attain the age of full strength; give measure and weight with (full) justice;- no burden do We place on any soul, but that which it can bear;- whenever ye speak, speak justly, even if a near relative is concerned; and fulfil the covenant of Allah: thus doth He command you, that ye may remember.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ جانا مگر ایسے طریق سے کہ بہت ہی پسندیدہ ہو یہاں تک کہ وہ جوانی کو پہنچ جائے اور ناپ تول انصاف کے ساتھ پوری پوری کیا کرو ہم کسی کو تکلیف نہیں دیتے مگر اس کی طاقت کے مطابق اور جب (کسی کی نسبت) کوئی بات کہو تو انصاف سے کہو گو وہ (تمہارا) رشتہ دار ہی ہو اور خدا کے عہد کو پورا کرو ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم نصحیت کرو
+
 [Open on Quran.com](https://quran.com/6/152)
 
 #### 8:41 · [[008 Al-Anfal]]
@@ -147,6 +159,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And know that anything you obtain of war booty - then indeed, for Allāh is one fifth of it and for the Messenger and for [his] near relatives and the orphans, the needy, and the [stranded] traveler, if you have believed in Allāh and in that which We sent down to Our Servant on the day of criterion [i.e., decisive encounter] - the day when the two armies met [at Badr]. And Allāh, over all things, is competent.
 
 **English (Yusuf Ali):** And know that out of all the booty that ye may acquire (in war), a fifth share is assigned to Allah,- and to the Messenger, and to near relatives, orphans, the needy, and the wayfarer,- if ye do believe in Allah and in the revelation We sent down to Our servant on the Day of Testing,- the Day of the meeting of the two forces. For Allah hath power over all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جان رکھو کہ جو چیز تم (کفار سے) لوٹ کر لاؤ اس میں سے پانچواں حصہ خدا کا اور اس کے رسول کا اور اہل قرابت کا اور یتیموں کا اور محتاجوں کا اور مسافروں کا ہے۔ اگر تم خدا پر اور اس (نصرت) پر ایمان رکھتے ہو جو (حق وباطل میں) فرق کرنے کے دن (یعنی جنگ بدر میں) جس دن دونوں فوجوں میں مڈھ بھیڑ ہوگئی۔ اپنے بندے (محمدﷺ) پر نازل فرمائی۔ اور خدا ہر چیز پر قادر ہے
 
 [Open on Quran.com](https://quran.com/8/41)
 
@@ -164,6 +178,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is not fitting, for the Prophet and those who believe, that they should pray for forgiveness for Pagans, even though they be of kin, after it is clear to them that they are companions of the Fire.
 
+**Urdu (Fatah Muhammad Jalandhari):** پیغمبر اور مسلمانوں کو شایاں نہیں کہ جب ان پر ظاہر ہوگیا کہ مشرک اہل دوزخ ہیں۔ تو ان کے لیے بخشش مانگیں گو وہ ان کے قرابت دار ہی ہوں
+
 [Open on Quran.com](https://quran.com/9/113)
 
 #### 16:90 · [[016 An-Nahl]]
@@ -180,6 +196,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah commands justice, the doing of good, and liberality to kith and kin, and He forbids all shameful deeds, and injustice and rebellion: He instructs you, that ye may receive admonition.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا تم کو انصاف اور احسان کرنے اور رشتہ داروں کو (خرچ سے مدد) دینے کا حکم دیتا ہے۔ اور بےحیائی اور نامعقول کاموں سے اور سرکشی سے منع کرتا ہے (اور) تمہیں نصیحت کرتا ہے تاکہ تم یاد رکھو
+
 [Open on Quran.com](https://quran.com/16/90)
 
 #### 17:26 · [[017 Al-Isra]]
@@ -195,6 +213,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And give the relative his right, and [also] the poor and the traveler, and do not spend wastefully.
 
 **English (Yusuf Ali):** And render to the kindred their due rights, as (also) to those in want, and to the wayfarer: But squander not (your wealth) in the manner of a spendthrift.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور رشتہ داروں اور محتاجوں اور مسافروں کو ان کا حق ادا کرو۔ اور فضول خرچی سے مال نہ اُڑاؤ
 
 [Open on Quran.com](https://quran.com/17/26)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[swy - swy]]
+- [[swy - make even]]
 
 ### Meaning
 **it same** · Lemma **سَواء**
@@ -46,7 +46,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:6 · [[002 Al-Baqarah]]
 
@@ -61,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who disbelieve - it is all the same for them whether you warn them or do not warn them - they will not believe.
 
 **English (Yusuf Ali):** As to those who reject Faith, it is the same to them whether thou warn them or do not warn them; they will not believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں انہیں تم نصیحت کرو یا نہ کرو ان کے لیے برابر ہے۔ وہ ایمان نہیں لانے کے
 
 [Open on Quran.com](https://quran.com/2/6)
 
@@ -78,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Would ye question your Messenger as Moses was questioned of old? but whoever changeth from Faith to Unbelief, Hath strayed without doubt from the even way.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم یہ چاہتے ہو کہ اپنے پیغمبر سے اسی طرح کے سوال کرو، جس طرح کے سوال پہلے موسیٰ سے کئے گئے تھے۔ اور جس شخص نے ایمان (چھوڑ کر اس) کے بدلے کفر لیا، وہ سیدھے رستے سے بھٹک گیا
+
 [Open on Quran.com](https://quran.com/2/108)
 
 #### 3:64 · [[003 Ali Imran]]
@@ -93,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh." But if they turn away, then say, "Bear witness that we are Muslims [submitting to Him]."
 
 **English (Yusuf Ali):** Say: "O People of the Book! come to common terms as between us and you: That we worship none but Allah; that we associate no partners with him; that we erect not, from among ourselves, Lords and patrons other than Allah." If then they turn back, say ye: "Bear witness that we (at least) are Muslims (bowing to Allah's Will).
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اے اہل کتاب جو بات ہمارے اور تمہارے دونوں کے درمیان یکساں (تسلیم کی گئی) ہے اس کی طرف آؤ وہ یہ کہ خدا کے سوا ہم کسی کی عبادت نہ کریں اور اس کے ساتھ کسی چیز کو شریک نہ بنائیں اور ہم میں سے کوئی کسی کو خدا کے سوا اپنا کار ساز نہ سمجھے اگر یہ لوگ (اس بات کو) نہ مانیں تو (ان سے) کہہ دو کہ تم گواہ رہو کہ ہم (خدا کے) فرماں بردار ہیں
 
 [Open on Quran.com](https://quran.com/3/64)
 
@@ -110,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Not all of them are alike: Of the People of the Book are a portion that stand (For the right): They rehearse the Signs of Allah all night long, and they prostrate themselves in adoration.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ بھی سب ایک جیسے نہیں ہیں ان اہلِ کتاب میں کچھ لوگ (حکمِ خدا پر) قائم بھی ہیں جو رات کے وقت خدا کی آیتیں پڑھتے اور (اس کے آگے) سجدہ کرتے ہیں
+
 [Open on Quran.com](https://quran.com/3/113)
 
 #### 4:89 · [[004 An-Nisa]]
@@ -125,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They wish you would disbelieve as they disbelieved so you would be alike. So do not take from among them allies until they emigrate for the cause of Allāh. But if they turn away [i.e., refuse], then seize them and kill them [for their betrayal] wherever you find them and take not from among them any ally or helper,
 
 **English (Yusuf Ali):** They but wish that ye should reject Faith, as they do, and thus be on the same footing (as they): But take not friends from their ranks until they flee in the way of Allah (From what is forbidden). But if they turn renegades, seize them and slay them wherever ye find them; and (in any case) take no friends or helpers from their ranks;-
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ تو یہی چاہتے ہیں کہ جس طرح وہ خود کافر ہیں (اسی طرح) تم بھی کافر ہو کر (سب) برابر ہوجاؤ تو جب تک وہ خدا کی راہ میں وطن نہ چھوڑ جائیں ان میں سے کسی کو دوست نہ بنانا اگر (ترک وطن کو) قبول نہ کریں تو ان کو پکڑ لو اور جہاں پاؤ قتل کردو اور ان میں سے کسی کو اپنا رفیق اور مددگار نہ بناؤ
 
 [Open on Quran.com](https://quran.com/4/89)
 
@@ -142,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah did aforetime take a covenant from the Children of Israel, and we appointed twelve captains among them. And Allah said: "I am with you: if ye (but) establish regular prayers, practise regular charity, believe in my messengers, honour and assist them, and loan to Allah a beautiful loan, verily I will wipe out from you your evils, and admit you to gardens with rivers flowing beneath; but if any of you, after this, resisteth faith, he hath truly wandered from the path or rectitude."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے بنی اسرائیل سے اقرار لیا اور ان میں ہم نے بارہ سردار مقرر کئے پھر خدا نے فرمایا کہ میں تمہارے ساتھ ہوں اگر تم نماز پڑھتے اور زکوٰة دیتے رہو گے اور میرے پیغمبروں پر ایمان لاؤ گے اور ان کی مدد کرو گے اور خدا کو قرض حسنہ دو گے تو میں تم سے تمہارے گناہ دور کر دوں گا اور تم کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہہ رہی ہیں پھر جس نے اس کے بعد تم میں سے کفر کیا وہ سیدھے رستے سے بھٹک گیا
+
 [Open on Quran.com](https://quran.com/5/12)
 
 #### 5:60 · [[005 Al-Maidah]]
@@ -157,6 +169,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "Shall I inform you of [what is] worse than that as penalty from Allāh? [It is that of] those whom Allāh has cursed and with whom He became angry and made of them apes and pigs and slaves of ṭāghūt. Those are worse in position and further astray from the sound way."
 
 **English (Yusuf Ali):** Say: "Shall I point out to you something much worse than this, (as judged) by the treatment it received from Allah? those who incurred the curse of Allah and His wrath, those of whom some He transformed into apes and swine, those who worshipped evil;- these are (many times) worse in rank, and far more astray from the even path!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ میں تمہیں بتاؤں کہ خدا کے ہاں اس سے بھی بدتر جزا پانے والے کون ہیں؟ وہ لوگ ہیں جن پر خدا نے لعنت کی اور جن پر وہ غضبناک ہوا اور (جن کو) ان میں سے بندر اور سور بنا دیا اور جنہوں نے شیطان کی پرستش کی ایسے لوگوں کا برا ٹھکانہ ہے اور وہ سیدھے رستے سے بہت دور ہیں
 
 [Open on Quran.com](https://quran.com/5/60)
 
@@ -174,6 +188,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "O people of the Book! exceed not in your religion the bounds (of what is proper), trespassing beyond the truth, nor follow the vain desires of people who went wrong in times gone by,- who misled many, and strayed (themselves) from the even way.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اے اہل کتاب! اپنے دین (کی بات) میں ناحق مبالغہ نہ کرو اور ایسے لوگوں کی خواہشوں کے پیچھے نہ چلو جو (خود بھی) پہلے گمراہ ہوئے اور اَور بھی اکثروں کو گمراہ کر گئے اور سیدھے رستے سے بھٹک گئے
+
 [Open on Quran.com](https://quran.com/5/77)
 
 #### 7:193 · [[007 Al-Araf]]
@@ -190,6 +206,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If ye call them to guidance, they will not obey: For you it is the same whether ye call them or ye hold your peace!
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم ان کو سیدھے رستے کی طرف بلاؤ تو تمہارا کہا نہ مانیں۔ تمہارے لیے برابر ہے کہ تم ان کو بلاؤ یا چپکے ہو رہو
+
 [Open on Quran.com](https://quran.com/7/193)
 
 #### 8:58 · [[008 Al-Anfal]]
@@ -205,6 +223,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If you [have reason to] fear from a people betrayal, throw [their treaty] back to them, [putting you] on equal terms. Indeed, Allāh does not like traitors.
 
 **English (Yusuf Ali):** If thou fearest treachery from any group, throw back (their covenant) to them, (so as to be) on equal terms: for Allah loveth not the treacherous.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو کسی قوم سے دغا بازی کا خوف ہو تو (ان کا عہد) انہیں کی طرف پھینک دو (اور) برابر (کا جواب دو) کچھ شک نہیں کہ خدا دغابازوں کو دوست نہیں رکھتا
 
 [Open on Quran.com](https://quran.com/8/58)
 

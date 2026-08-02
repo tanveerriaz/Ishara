@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:259 · [[002 Al-Baqarah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, "How will Allāh bring this to life after its death?" So Allāh caused him to die for a hundred years; then He revived him. He said, "How long have you remained?" He [the man] said, "I have remained a day or part of a day." He said, "Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh." And when it became clear to him, he said, "I know that Allāh is over all things competent."
 
 **English (Yusuf Ali):** Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall Allah bring it (ever) to life, after (this) its death?" but Allah caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that Allah hath power over all things."
+
+**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
 
 [Open on Quran.com](https://quran.com/2/259)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So his fruits (and enjoyment) were encompassed (with ruin), and he remained twisting and turning his hands over what he had spent on his property, which had (now) tumbled to pieces to its very foundations, and he could only say, "Woe is me! Would I had never ascribed partners to my Lord and Cherisher!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس کے میووں کو عذاب نے آگھیرا اور وہ اپنی چھتریوں پر گر کر رہ گیا۔ تو جو مال اس نے اس پر خرچ کیا تھا اس پر (حسرت سے) ہاتھ ملنے لگا اور کہنے لگا کہ کاش میں اپنے پروردگار کے ساتھ کسی کو شریک نہ بناتا
+
 [Open on Quran.com](https://quran.com/18/42)
 
 #### 22:45 · [[022 Al-Hajj]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And how many a city did We destroy while it was committing wrong - so it is [now] fallen into ruin - and [how many] an abandoned well and [how many] a lofty palace.
 
 **English (Yusuf Ali):** How many populations have We destroyed, which were given to wrong-doing? They tumbled down on their roofs. And how many wells are lying idle and neglected, and castles lofty and well-built?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بہت سی بستیاں ہیں کہ ہم نے ان کو تباہ کر ڈالا کہ وہ نافرمان تھیں۔ سو وہ اپنی چھتوں پر گری پڑی ہیں۔ اور (بہت سے) کنوئیں بےکار اور (بہت سے) محل ویران پڑے ہیں
 
 [Open on Quran.com](https://quran.com/22/45)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Now such were their houses, - in utter ruin, - because they practised wrong-doing. Verily in this is a Sign for people of knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** اب یہ ان کے گھر ان کے ظلم کے سبب خالی پڑے ہیں۔ جو لوگ دانش رکھتے ہیں، ان کے لئے اس میں نشانی ہے
+
 [Open on Quran.com](https://quran.com/27/52)
 
 #### 69:7 · [[069 Al-Haqqah]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Which He [i.e., Allāh] imposed upon them for seven nights and eight days in succession, so you would see the people therein fallen as if they were hollow trunks of palm trees.
 
 **English (Yusuf Ali):** He made it rage against them seven nights and eight days in succession: so that thou couldst see the (whole) people lying prostrate in its (path), as they had been roots of hollow palm-trees tumbled down!
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے اس کو سات رات اور آٹھ دن لگاتار ان پر چلائے رکھا تو (اے مخاطب) تو لوگوں کو اس میں (اس طرح) ڈھئے (اور مرے) پڑے دیکھے جیسے کھجوروں کے کھوکھلے تنے
 
 [Open on Quran.com](https://quran.com/69/7)
 

@@ -15,83 +15,83 @@ The Emissaries · 50 ayahs
 ## Words in this surah (graph)
 
 - [[AnTlq - proceed]] — `انطَلَقَ` · proceed
-- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[mhyn - despised]] — `مَهِين` · despised
-- [[njm - stars]] — `نَجْم` · stars
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[Eml - do]] — `عَمِلَ` · do
-- [[n*r - vows]] — `نَذَرْ` · vows
-- [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[mA' - water]] — `ماء` · water
-- [[>wl - first]] — `أَوَّل` · first
-- [[Tmst - we efface]] — `طُمِسَتْ` · we efface
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[>y - o you]] — `أَيّ` · o you
-- [[qSr - palaces]] — `قَصْر` · palaces
-- [[rwAsy - firm mountains]] — `رَواسِي` · firm mountains
-- [[fwAkh - fruits]] — `فَواكِه` · fruits
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
-- [[>*n - ears]] — `أُذُن` · ears
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[wEd - promise]] — `وَعَدَ` · promise
-- [[>jl - term]] — `أَجَل` · term
-- [[mHsn - good-doers]] — `مُحْسِن` · good-doers
+- [[>rD - earth]] — `أَرْض` · earth
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[rmY - accuse]] — `رَمَى` · accuse
+- [[yEt*r - make excuse]] — `يَعْتَذِرُ` · make excuse
+- [[ESf - husk]] — `عَصْف` · husk
+- [[wAqE - would fall]] — `واقِع` · would fall
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[bEd - after]] — `بَعْد` · after
+- [[mElwm - known]] — `مَعْلُوم` · known
+- [[jbl - mountains]] — `جَبَل` · mountains
 - [[qAdr - able]] — `قادِر` · able
+- [[qrAr - settlement]] — `قَرار` · settlement
+- [[rwAsy - firm mountains]] — `رَواسِي` · firm mountains
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[fSl - we explain]] — `فَصَلَ` · we explain
+- [[qlyl - little]] — `قَلِيل` · little
+- [[mjrm - criminals]] — `مُجْرِم` · criminals
+- [[>*n - ears]] — `أُذُن` · ears
+- [[mtqy - righteous]] — `مُتَّقي` · righteous
+- [[mkyn - firmly established]] — `مَكِين` · firmly established
 
 ## Roots
 
-- [[$hw - shhw]]
-- [[$rb - shrb]]
+- [[$hw - they desire]]
+- [[$rb - drink]]
 - [[$rr - sparks fire]]
-- [[*kr - dhakara]]
-- [[>*n - adhn]]
+- [[*kr - remember recall something]]
+- [[>*n - ear]]
 - [[>jl - term]]
 - [[>kl - eat]]
-- [[>mn - amn]]
-- [[>rD - ard]]
-- [[>wl - like milk oil]]
-- [[>xr - akhr]]
+- [[>mn - believe]]
+- [[>rD - earth]]
+- [[>wl - return revert original]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[E*r - excuse free blame]]
-- [[ESf - esf]]
+- [[ESf - stormy]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
-- [[Erf - erf]]
-- [[Eyn - eyn]]
+- [[Eml - intentional action deed]]
+- [[Erf - right]]
+- [[Eyn - eyes]]
 - [[Hdv - accidents]]
 - [[Hsn - good]]
 - [[Hyy - life]]
 - [[Sfr - emptiness]]
-- [[Tlq - tlq]]
-- [[Tms - tms]]
+- [[Tlq - loose]]
+- [[Tms - efface obliterate something]]
 - [[Zll - shade cover]]
 - [[bEd - become distant]]
 - [[dry - know]]
 - [[fEl - deed]]
 - [[fSl - separate]]
-- [[fkh - fkh]]
-- [[frj - frj]]
-- [[frq - faraqa]]
+- [[fkh - eating fruit]]
+- [[frj - open make space]]
+- [[frq - separate]]
 - [[frt - sweet]]
 - [[gny - dwelling residing place]]
-- [[hlk - hlk]]
+- [[hlk - perish destroyed]]
 - [[hn> - satisfaction]]
 - [[jEl - we made]]
-- [[jbl - jbl]]
-- [[jmE - jme]]
+- [[jbl - large company multitude]]
+- [[jmE - collection]]
 - [[jml - male camel]]
-- [[jrm - jrm]]
+- [[jrm - criminals]]
 - [[jzy - recompense reward]]
 - [[k*b - denied]]
 - [[kwn - is]]
-- [[kyd - kyd]]
+- [[kyd - deceive]]
 - [[lqy - meeting]]
 - [[mhn - work]]
-- [[mkn - mkn]]
+- [[mkn - establish]]
 - [[mtE - anything useful advantageous]]
-- [[mwh - mwh]]
+- [[mwh - coat something]]
 
 ## Sample (ayah 1)
 

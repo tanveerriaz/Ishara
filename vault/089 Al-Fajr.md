@@ -16,69 +16,69 @@ The Dawn · 30 ayahs
 
 - [[>krm - make comfortable]] — `أَكْرَمَ` · make comfortable
 - [[AbtlY - tried]] — `ابْتَلَى` · tried
-- [[nEm - cattle]] — `نِعْمَ` · cattle
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[ytym - orphans]] — `يَتِيم` · orphans
-- [[mskyn - needy]] — `مِسْكِين` · needy
-- [[HyAp - life]] — `حَياة` · life
-- [[>y - o you]] — `أَيّ` · o you
-- [[qsm - distribute]] — `قَسَمْ` · distribute
-- [[>kvr - them]] — `أَكْثَر` · them
-- [[wAd - valley]] — `واد` · valley
-- [[lyl - night]] — `لَيْل` · night
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[>Hd - anyone]] — `أَحَد` · anyone
-- [[EAd - aad]] — `عادَ` · aad
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[rADyp - pleasant]] — `راضِيَة` · pleasant
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[TEAm - food]] — `طَعام` · food
-- [[>wtAd - stakes]] — `أَوْتاد` · stakes
-- [[fsAd - corruption]] — `فَساد` · corruption
-- [[qdm - feet]] — `قَدَّمَ` · feet
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[Sb - will poured]] — `صَبَّ` · will poured
+- [[qAl - say]] — `قالَ` · say
 - [[mlk - angels]] — `مَلَك` · angels
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[HyAp - life]] — `حَياة` · life
+- [[Sf - rows]] — `صَفّ` · rows
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[EAd - aad]] — `عادَ` · aad
+- [[dxl - enter]] — `دَخَلَ` · enter
+- [[>rD - earth]] — `أَرْض` · earth
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[fsAd - corruption]] — `فَساد` · corruption
+- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[rb - lord]] — `رَبّ` · lord
+- [[Hjr - stone]] — `حَجَر` · stone
+- [[nEm - cattle]] — `نِعْمَ` · cattle
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[*krY - reminder]] — `ذِكْرَى` · reminder
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[<nsAn - man]] — `إِنسان` · man
+- [[Sb - will poured]] — `صَبَّ` · will poured
+- [[>Hd - anyone]] — `أَحَد` · anyone
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[mskyn - needy]] — `مِسْكِين` · needy
 
 ## Roots
 
 - [[$fE - make something pair]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[>Hd - anyone]]
 - [[>kl - eat]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>yy - ism]]
-- [[E$r - eshr]]
-- [[E*b - edhb]]
+- [[E$r - ten]]
+- [[E*b - motes particles floating]]
 - [[Ebd - worship]]
 - [[Emd - tent pole column]]
-- [[Ewd - ewd]]
+- [[Ewd - aad]]
 - [[HDD - incite]]
 - [[Hbb - love]]
-- [[Hjr - hjr 2]]
+- [[Hjr - stones]]
 - [[Hyy - life]]
-- [[Sbb - sbb]]
+- [[Sbb - pour out shed]]
 - [[Sff - arrange things row]]
 - [[Sxr - rocks large]]
-- [[TEm - tem]]
+- [[TEm - food]]
 - [[Tgy - transgression]]
-- [[Tm>n - tman]]
-- [[bld - bld]]
-- [[blw - blw]]
-- [[dkk - dkk]]
+- [[Tm>n - become quiet]]
+- [[bld - country]]
+- [[blw - test try]]
+- [[dkk - crushed]]
 - [[dxl - enter]]
 - [[fEl - deed]]
 - [[fjr - cleave cut open]]
 - [[fsd - make something bad]]
 - [[hwn - state humiliation insignificance]]
-- [[jnn - jann]]
-- [[jwb - jwb]]
+- [[jnn - cover]]
+- [[jwb - make hole]]
 - [[jy> - came them]]
-- [[krm - krm]]
-- [[kvr - kthr]]
+- [[krm - noble]]
+- [[kvr - them]]
 - [[kyf - kayyafa]]
-- [[lyl - layl]]
+- [[lyl - night]]
 - [[mlk - sovereignty]]
 - [[mvl - mathal]]
 - [[mwl - wealth]]
@@ -89,8 +89,8 @@ The Dawn · 30 ayahs
 - [[qsm - division apportionment things]]
 - [[qwl - qawala]]
 - [[r>y - see eye perceive]]
-- [[rDw - rdw]]
-- [[rSd - rsd]]
+- [[rDw - pleased]]
+- [[rSd - lying wait watching]]
 - [[rbb - Lord]]
 
 ## Sample (ayah 1)

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bwb - bwb]]
+- [[bwb - gate]]
 
 ### Meaning
 **gate** · Lemma **باب**
@@ -40,7 +40,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:58 · [[002 Al-Baqarah]]
 
@@ -55,6 +55,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We said, "Enter this city [i.e., Jerusalem] and eat from it wherever you will in [ease and] abundance, and enter the gate bowing humbly and say, 'Relieve us of our burdens [i.e., sins].' We will [then] forgive your sins for you, and We will increase the doers of good [in goodness and reward]."
 
 **English (Yusuf Ali):** And remember We said: "Enter this town, and eat of the plenty therein as ye wish; but enter the gate with humility, in posture and in words, and We shall forgive you your faults and increase (the portion of) those who do good."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے (ان سے) کہا کہ اس گاؤں میں داخل ہو جاؤ اور اس میں جہاں سے چاہو، خوب کھاؤ (پیو) اور (دیکھنا) دروازے میں داخل ہونا تو سجدہ کرنا اور حطة کہنا، ہم تمہارے گناہ معاف کر دیں گے اور نیکی کرنے والوں کو اور زیادہ دیں گے
 
 [Open on Quran.com](https://quran.com/2/58)
 
@@ -72,6 +74,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They ask thee concerning the New Moons. Say: They are but signs to mark fixed periods of time in (the affairs of) men, and for Pilgrimage. It is no virtue if ye enter your houses from the back: It is virtue if ye fear Allah. Enter houses through the proper doors: And fear Allah: That ye may prosper.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے نئے چاند کے بارے میں دریافت کرتے ہیں (کہ گھٹتا بڑھتا کیوں ہے) کہہ دو کہ وہ لوگوں کے (کاموں کی میعادیں) اور حج کے وقت معلوم ہونے کا ذریعہ ہے اور نیکی اس بات میں نہیں کہ (احرام کی حالت میں) گھروں میں ان کے پچھواڑے کی طرف سے آؤ۔ بلکہ نیکوکار وہ ہے جو پرہیز گار ہو اور گھروں میں ان کے دروازوں سے آیا کرو اور خدا سے ڈرتے رہو تاکہ نجات پاؤ
+
 [Open on Quran.com](https://quran.com/2/189)
 
 #### 4:154 · [[004 An-Nisa]]
@@ -87,6 +91,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We raised over them the mount for [refusal of] their covenant; and We said to them, "Enter the gate bowing humbly"; and We said to them, "Do not transgress on the sabbath"; and We took from them a solemn covenant.
 
 **English (Yusuf Ali):** And for their covenant we raised over them (the towering height) of Mount (Sinai); and (on another occasion) we said: "Enter the gate with humility"; and (once again) we commanded them: "Transgress not in the matter of the sabbath." And we took from them a solemn covenant.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان سے عہد لینے کو ہم نے ان پر کوہ طور اٹھا کھڑا کیا اور انہیں حکم دیا کہ (شہر کے) دروازے میں (داخل ہونا تو) سجدہ کرتے ہوئے داخل ہونا اور یہ بھی حکم دیا کہ ہفتے کے دن (مچھلیاں پکڑنے) میں تجاویز (یعنی حکم کے خلاف) نہ کرنا۔ غرض ہم نے ان سے مضبوط عہد لیا
 
 [Open on Quran.com](https://quran.com/4/154)
 
@@ -104,6 +110,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (But) among (their) Allah-fearing men were two on whom Allah had bestowed His grace: They said: "Assault them at the (proper) Gate: when once ye are in, victory will be yours; But on Allah put your trust if ye have faith."
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (خدا سے) ڈرتے تھے ان میں سے دو شخص جن پر خدا کی عنایت تھی کہنے لگے کہ ان لوگوں پر دروازے کے رستے سے حملہ کردو جب تم دروازے میں داخل ہو گئے تو فتح تمہارے ہے اور خدا ہی پر بھروسہ رکھو بشرطیکہ صاحبِ ایمان ہو
+
 [Open on Quran.com](https://quran.com/5/23)
 
 #### 6:44 · [[006 Al-Anam]]
@@ -119,6 +127,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So when they forgot that by which they had been reminded, We opened to them the doors of every [good] thing until, when they rejoiced in that which they were given, We seized them suddenly, and they were [then] in despair.
 
 **English (Yusuf Ali):** But when they forgot the warning they had received, We opened to them the gates of all (good) things, until, in the midst of their enjoyment of Our gifts, on a sudden, We called them to account, when lo! they were plunged in despair!
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب انہوں نے اس نصیحت کو جو ان کو گی گئی تھی فراموش کردیا تو ہم نے ان پر ہر چیز کے دروازے کھول دیئے۔ یہاں تک کہ جب ان چیزوں سے جو ان کو دی گئی تھیں خوب خوش ہوگئے تو ہم نے ان کو ناگہاں پکڑ لیا اور وہ اس وقت مایوس ہو کر رہ گئے
 
 [Open on Quran.com](https://quran.com/6/44)
 
@@ -136,6 +146,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To those who reject Our signs and treat them with arrogance, no opening will there be of the gates of heaven, nor will they enter the garden, until the camel can pass through the eye of the needle: Such is Our reward for those in sin.
 
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے ہماری آیتوں کو جھٹلایا اور ان سے سرتابی کی۔ ان کے لیے نہ آسمان کے دروازے کھولے جائیں گے اور نہ وہ بہشت میں داخل ہوں گے۔ یہاں تک کہ اونٹ سوئی کے ناکے میں سے نہ نکل جائے اور گنہگاروں کو ہم ایسی ہی سزا دیا کرتے ہیں
+
 [Open on Quran.com](https://quran.com/7/40)
 
 #### 7:161 · [[007 Al-Araf]]
@@ -151,6 +163,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when it was said to them, "Dwell in this city [i.e., Jerusalem] and eat from it wherever you will and say, 'Relieve us of our burdens [i.e., sins],' and enter the gate bowing humbly; We will [then] forgive you your sins. We will increase the doers of good [in goodness and reward]."
 
 **English (Yusuf Ali):** And remember it was said to them: "Dwell in this town and eat therein as ye wish, but say the word of humility and enter the gate in a posture of humility: We shall forgive you your faults; We shall increase (the portion of) those who do good."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (یاد کرو) جب ان سے کہا گیا کہ اس شہر میں سکونت اختیار کرلو اور اس میں جہاں سے جی چاہے کھانا (پینا) اور (ہاں شہر میں جانا تو) حِطّتہٌ کہنا اور دروازے میں داخل ہونا تو سجدہ کرنا۔ ہم تمہارے گناہ معاف کردیں گے۔ اور نیکی کرنے والوں کو اور زیادہ دیں گے
 
 [Open on Quran.com](https://quran.com/7/161)
 
@@ -168,6 +182,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But she in whose house he was, sought to seduce him from his (true) self: she fastened the doors, and said: "Now come, thou (dear one)!" He said: "Allah forbid! truly (thy husband) is my lord! he made my sojourn agreeable! truly to no good come those who do wrong!"
 
+**Urdu (Fatah Muhammad Jalandhari):** تو جس عورت کے گھر میں وہ رہتے تھے اس نے ان کو اپنی طرف مائل کرنا چاہا اور دروازے بند کرکے کہنے لگی (یوسف) جلدی آؤ۔ انہوں نے کہا کہ خدا پناہ میں رکھے (وہ یعنی تمہارے میاں) تو میرے آقا ہیں انہوں نے مجھے اچھی طرح سے رکھا ہے (میں ایسا ظلم نہیں کرسکتا) بےشک ظالم لوگ فلاح نہیں پائیں گے
+
 [Open on Quran.com](https://quran.com/12/23)
 
 #### 12:25 · [[012 Yusuf]]
@@ -184,6 +200,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So they both raced each other to the door, and she tore his shirt from the back: they both found her lord near the door. She said: "What is the (fitting) punishment for one who formed an evil design against thy wife, but prison or a grievous chastisement?"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور دونوں دروازے کی طرف بھاگے (آگے یوسف اور پیچھے زلیخا) اور عورت نے ان کا کرتا پیچھے سے (پکڑ کر جو کھینچا تو) پھاڑ ڈالا اور دونوں کو دروازے کے پاس عورت کا خاوند مل گیا تو عورت بولی کہ جو شخص تمہاری بیوی کے ساتھ برا ارادہ کرے اس کی اس کے سوا کیا سزا ہے کہ یا تو قید کیا جائے یا دکھ کا عذاب دیا جائے
+
 [Open on Quran.com](https://quran.com/12/25)
 
 #### 12:67 · [[012 Yusuf]]
@@ -199,6 +217,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And he said, "O my sons, do not enter from one gate but enter from different gates; and I cannot avail you against [the decree of] Allāh at all. The decision is only for Allāh; upon Him I have relied, and upon Him let those who would rely [indeed] rely."
 
 **English (Yusuf Ali):** Further he said: "O my sons! enter not all by one gate: enter ye by different gates. Not that I can profit you aught against Allah (with my advice): None can command except Allah: On Him do I put my trust: and let all that trust put their trust on Him."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہدایت کی کہ بیٹا ایک ہی دروازے سے داخل نہ ہونا بلکہ جدا جدا دروازوں سے داخل ہونا۔ اور میں خدا کی تقدیر کو تم سے نہیں روک سکتا۔ بےشک حکم اسی کا ہے میں اسی پر بھروسہ رکھتا ہوں۔ اور اہلِ توکل کو اسی پر بھروسہ رکھنا چاہیئے
 
 [Open on Quran.com](https://quran.com/12/67)
 

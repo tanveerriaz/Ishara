@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 14:34 · [[014 Ibrahim]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He gave you from all you asked of Him. And if you should count the favor [i.e., blessings] of Allāh, you could not enumerate them. Indeed, mankind is [generally] most unjust and ungrateful.
 
 **English (Yusuf Ali):** And He giveth you of all that ye ask for. But if ye count the favours of Allah, never will ye be able to number them. Verily, man is given up to injustice and ingratitude.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کچھ تم نے مانگا سب میں سے تم کو عنایت کیا۔ اور اگر خدا کے احسان گننے لگو تو شمار نہ کرسکو۔ (مگر لوگ نعمتوں کا شکر نہیں کرتے) کچھ شک نہیں کہ انسان بڑا بےانصاف اور ناشکرا ہے
 
 [Open on Quran.com](https://quran.com/14/34)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If ye would count up the favours of Allah, never would ye be able to number them: for Allah is Oft-Forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم خدا کی نعمتوں کو شمار کرنا چاہو تو گن نہ سکو۔ بےشک خدا بخشنے والا مہربان ہے
+
 [Open on Quran.com](https://quran.com/16/18)
 
 #### 18:12 · [[018 Al-Kahf]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then We awakened them that We might show which of the two factions was most precise in calculating what [extent] they had remained in time.
 
 **English (Yusuf Ali):** Then We roused them, in order to test which of the two parties was best at calculating the term of years they had tarried!
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کو جگا اُٹھایا تاکہ معلوم کریں کہ جتنی مدّت وہ (غار میں) رہے دونوں جماعتوں میں سے اس کی مقدار کس کو خوب یاد ہے
 
 [Open on Quran.com](https://quran.com/18/12)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And the Book (of Deeds) will be placed (before you); and thou wilt see the sinful in great terror because of what is (recorded) therein; they will say, "Ah! woe to us! what a Book is this! It leaves out nothing small or great, but takes account thereof!" They will find all that they did, placed before them: And not one will thy Lord treat with injustice.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (عملوں کی) کتاب (کھول کر) رکھی جائے گی تو تم گنہگاروں کو دیکھو گے کہ جو کچھ اس میں (لکھا) ہوگا اس سے ڈر رہے ہوں گے اور کہیں گے ہائے شامت یہ کیسی کتاب ہے کہ نہ چھوٹی بات کو چھوڑتی ہے نہ بڑی کو۔ (کوئی بات بھی نہیں) مگر اسے لکھ رکھا ہے۔ اور جو عمل کئے ہوں گے سب کو حاضر پائیں گے۔ اور تمہارا پروردگار کسی پر ظلم نہیں کرے گا
+
 [Open on Quran.com](https://quran.com/18/49)
 
 #### 19:94 · [[019 Maryam]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He has enumerated them and counted them a [full] counting.
 
 **English (Yusuf Ali):** He does take an account of them (all), and hath numbered them (all) exactly.
+
+**Urdu (Fatah Muhammad Jalandhari):** اُس نے ان (سب) کو (اپنے علم سے) گھیر رکھا اور (ایک ایک کو) شمار کر رکھا ہے
 
 [Open on Quran.com](https://quran.com/19/94)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily We shall give life to the dead, and We record that which they send before and that which they leave behind, and of all things have We taken account in a clear Book (of evidence).
 
+**Urdu (Fatah Muhammad Jalandhari):** بےشک ہم مردوں کو زندہ کریں گے اور جو کچھ وہ آگے بھیج چکے اور (جو) ان کے نشان پیچھے رہ گئے ہم ان کو قلمبند کرلیتے ہیں۔ اور ہر چیز کو ہم نے کتاب روشن (یعنی لوح محفوظ) میں لکھ رکھا ہے۔
+
 [Open on Quran.com](https://quran.com/36/12)
 
 #### 58:6 · [[058 Al-Mujadila]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** On the Day when Allāh will resurrect them all and inform them of what they did. Allāh had enumerated it, while they forgot it; and Allāh is, over all things, Witness.
 
 **English (Yusuf Ali):** On the Day that Allah will raise them all up (again) and show them the Truth (and meaning) of their conduct. Allah has reckoned its (value), though they may have forgotten it, for Allah is Witness to all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن خدا ان سب کو جلا اٹھائے گا تو جو کام وہ کرتے رہے ان کو جتائے گا۔ خدا کو وہ سب (کام) یاد ہیں اور یہ ان کو بھول گئے ہیں اور خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/58/6)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O Prophet! When ye do divorce women, divorce them at their prescribed periods, and count (accurately), their prescribed periods: And fear Allah your Lord: and turn them not out of their houses, nor shall they (themselves) leave, except in case they are guilty of some open lewdness, those are limits set by Allah: and any who transgresses the limits of Allah, does verily wrong his (own) soul: thou knowest not if perchance Allah will bring about thereafter some new situation.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر (مسلمانوں سے کہہ دو کہ) جب تم عورتوں کو طلاق دینے لگو تو عدت کے شروع میں طلاق دو اور عدت کا شمار رکھو۔ اور خدا سے جو تمہارا پروردگار ہے ڈرو۔ (نہ تو تم ہی) ان کو (ایام عدت میں) ان کے گھروں سے نکالو اور نہ وہ (خود ہی) نکلیں۔ ہاں اگر وہ صریح بےحیائی کریں (تو نکال دینا چاہیئے) اور یہ خدا کی حدیں ہیں۔ جو خدا کی حدوں سے تجاوز کرے گا وہ اپنے آپ پر ظلم کرے گا۔ (اے طلاق دینے والے) تجھے کیا معلوم شاید خدا اس کے بعد کوئی (رجعت کی) سبیل پیدا کردے
+
 [Open on Quran.com](https://quran.com/65/1)
 
 #### 72:28 · [[072 Al-Jinn]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "That He may know that they have (truly) brought and delivered the Messages of their Lord: and He surrounds (all the mysteries) that are with them, and takes account of every single thing."
 
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ معلوم فرمائے کہ انہوں نے اپنے پروردگار کے پیغام پہنچا دیئے ہیں اور (یوں تو) اس نے ان کی سب چیزوں کو ہر طرف سے قابو کر رکھا ہے اور ایک ایک چیز گن رکھی ہے
+
 [Open on Quran.com](https://quran.com/72/28)
 
 #### 73:20 · [[073 Al-Muzzammil]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, your Lord knows, [O Muḥammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allāh determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it and has turned to you in forgiveness, so recite what is easy [for you] of the Qur’ān. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allāh and others fighting for the cause of Allāh. So recite what is easy from it and establish prayer and give zakāh and loan Allāh a goodly loan. And whatever good you put forward for yourselves - you will find it with Allāh. It is better and greater in reward. And seek forgiveness of Allāh. Indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** Thy Lord doth know that thou standest forth (to prayer) nigh two-thirds of the night, or half the night, or a third of the night, and so doth a party of those with thee. But Allah doth appoint night and day in due measure He knoweth that ye are unable to keep count thereof. So He hath turned to you (in mercy): read ye, therefore, of the Qur'an as much as may be easy for you. He knoweth that there may be (some) among you in ill-health; others travelling through the land, seeking of Allah's bounty; yet others fighting in Allah's Cause, read ye, therefore, as much of the Qur'an as may be easy (for you); and establish regular Prayer and give regular Charity; and loan to Allah a Beautiful Loan. And whatever good ye send forth for your souls ye shall find it in Allah's Presence,- yea, better and greater, in Reward and seek ye the Grace of Allah: for Allah is Oft-Forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہارا پروردگار خوب جانتا ہے کہ تم اور تمہارے ساتھ کے لوگ (کبھی) دو تہائی رات کے قریب اور (کبھی) آدھی رات اور (کبھی) تہائی رات قیام کیا کرتے ہو۔ اور خدا تو رات اور دن کا اندازہ رکھتا ہے۔ اس نے معلوم کیا کہ تم اس کو نباہ نہ سکو گے تو اس نے تم پر مہربانی کی۔ پس جتنا آسانی سے ہوسکے (اتنا) قرآن پڑھ لیا کرو۔ اس نے جانا کہ تم میں بعض بیمار بھی ہوتے ہیں اور بعض خدا کے فضل (یعنی معاش) کی تلاش میں ملک میں سفر کرتے ہیں اور بعض خدا کی راہ میں لڑتے ہیں۔ تو جتنا آسانی سے ہوسکے اتنا پڑھ لیا کرو۔ اور نماز پڑھتے رہو اور زکوٰة ادا کرتے رہو اور خدا کو نیک (اور خلوص نیت سے) قرض دیتے رہو۔ اور جو عمل نیک تم اپنے لئے آگے بھیجو گے اس کو خدا کے ہاں بہتر اور صلے میں بزرگ تر پاؤ گے۔ اور خدا سے بخشش مانگتے رہو۔ بےشک خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/73/20)
 

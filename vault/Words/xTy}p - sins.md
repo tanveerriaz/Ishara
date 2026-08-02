@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:58 · [[002 Al-Baqarah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We said, "Enter this city [i.e., Jerusalem] and eat from it wherever you will in [ease and] abundance, and enter the gate bowing humbly and say, 'Relieve us of our burdens [i.e., sins].' We will [then] forgive your sins for you, and We will increase the doers of good [in goodness and reward]."
 
 **English (Yusuf Ali):** And remember We said: "Enter this town, and eat of the plenty therein as ye wish; but enter the gate with humility, in posture and in words, and We shall forgive you your faults and increase (the portion of) those who do good."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے (ان سے) کہا کہ اس گاؤں میں داخل ہو جاؤ اور اس میں جہاں سے چاہو، خوب کھاؤ (پیو) اور (دیکھنا) دروازے میں داخل ہونا تو سجدہ کرنا اور حطة کہنا، ہم تمہارے گناہ معاف کر دیں گے اور نیکی کرنے والوں کو اور زیادہ دیں گے
 
 [Open on Quran.com](https://quran.com/2/58)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nay, those who seek gain in evil, and are girt round by their sins,- they are companions of the Fire: Therein shall they abide (For ever).
 
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جو برے کام کرے، اور اس کے گناہ (ہر طرف سے) گھیر لیں تو ایسے لوگ دوزخ (میں جانے) والے ہیں (اور) وہ ہمیشہ اس میں (جلتے) رہیں گے
+
 [Open on Quran.com](https://quran.com/2/81)
 
 #### 4:112 · [[004 An-Nisa]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But whoever earns an offense or a sin and then blames it on an innocent [person] has taken upon himself a slander and manifest sin.
 
 **English (Yusuf Ali):** But if any one earns a fault or a sin and throws it on to one that is innocent, He carries (on himself) (Both) a falsehood and a flagrant sin.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص کوئی قصور یا گناہ تو خود کرے لیکن اس سے کسی بےگناہ کو مہتم کردے تو اس نے بہتان اور صریح گناہ کا بوجھ اپنے سر پر رکھا
 
 [Open on Quran.com](https://quran.com/4/112)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember it was said to them: "Dwell in this town and eat therein as ye wish, but say the word of humility and enter the gate in a posture of humility: We shall forgive you your faults; We shall increase (the portion of) those who do good."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (یاد کرو) جب ان سے کہا گیا کہ اس شہر میں سکونت اختیار کرلو اور اس میں جہاں سے جی چاہے کھانا (پینا) اور (ہاں شہر میں جانا تو) حِطّتہٌ کہنا اور دروازے میں داخل ہونا تو سجدہ کرنا۔ ہم تمہارے گناہ معاف کردیں گے۔ اور نیکی کرنے والوں کو اور زیادہ دیں گے
+
 [Open on Quran.com](https://quran.com/7/161)
 
 #### 20:73 · [[020 Taha]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, we have believed in our Lord that He may forgive us our sins and what you compelled us [to do] of magic. And Allāh is better and more enduring."
 
 **English (Yusuf Ali):** "For us, we have believed in our Lord: may He forgive us our faults, and the magic to which thou didst compel us: for Allah is Best and Most Abiding."
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم اپنے پروردگار پر ایمان لے آئے تاکہ وہ ہمارے گناہوں کو معاف کرے اور (اسے بھی) جو آپ نے ہم سے زبردستی جادو کرایا۔ اور خدا بہتر اور باقی رہنے والا ہے
 
 [Open on Quran.com](https://quran.com/20/73)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Only, our desire is that our Lord will forgive us our faults, that we may become foremost among the believers!"
 
+**Urdu (Fatah Muhammad Jalandhari):** ہمیں امید ہے کہ ہمارا پروردگار ہمارے گناہ بخش دے گا۔ اس لئے کہ ہم اول ایمان لانے والوں میں ہیں
+
 [Open on Quran.com](https://quran.com/26/51)
 
 #### 26:82 · [[026 Ash-Shuara]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And who I aspire that He will forgive me my sin on the Day of Recompense."
 
 **English (Yusuf Ali):** "And who, I hope, will forgive me my faults on the day of Judgment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ جس سے میں امید رکھتا ہوں کہ قیامت کے دن میرے گناہ بخشے گا
 
 [Open on Quran.com](https://quran.com/26/82)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And the Unbelievers say to those who believe: "Follow our path, and we will bear (the consequences) of your faults." Never in the least will they bear their faults: in fact they are liars!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کافر ہیں وہ مومنوں سے کہتے ہیں کہ ہمارے طریق کی پیروی کرو ہم تمہارے گناہ اُٹھالیں گے۔ حالانکہ وہ اُن کے گناہوں کا کچھ بھی بوجھ اُٹھانے والے نہیں۔ کچھ شک نہیں کہ یہ جھوٹے ہیں
+
 [Open on Quran.com](https://quran.com/29/12)
 
 #### 71:25 · [[071 Nuh]]
@@ -173,6 +189,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Because of their sins they were drowned and put into the Fire, and they found not for themselves besides Allāh [any] helpers.
 
 **English (Yusuf Ali):** Because of their sins they were drowned (in the flood), and were made to enter the Fire (of Punishment): and they found- in lieu of Allah- none to help them.
+
+**Urdu (Fatah Muhammad Jalandhari):** (آخر) وہ اپنے گناہوں کے سبب پہلے غرقاب کردیئے گئے پھر آگ میں ڈال دیئے گئے۔ تو انہوں نے خدا کے سوا کسی کو اپنا مددگار نہ پایا
 
 [Open on Quran.com](https://quran.com/71/25)
 

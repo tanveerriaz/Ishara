@@ -40,7 +40,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:171 · [[002 Al-Baqarah]]
 
@@ -55,6 +55,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries [i.e., cattle or sheep] - deaf, dumb and blind, so they do not understand.
 
 **English (Yusuf Ali):** The parable of those who reject Faith is as if one were to shout Like a goat-herd, to things that listen to nothing but calls and cries: Deaf, dumb, and blind, they are void of wisdom.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں ان کی مثال اس شخص کی سی ہے جو کسی ایسی چیز کو آواز دے جو پکار اور آواز کے سوا کچھ سن نہ سکے۔ (یہ) بہرے ہیں گونگے ہیں اندھے ہیں کہ (کچھ) سمجھ ہی نہیں سکتے
 
 [Open on Quran.com](https://quran.com/2/171)
 
@@ -72,6 +74,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There did Zakariya pray to his Lord, saying: "O my Lord! Grant unto me from Thee a progeny that is pure: for Thou art He that heareth prayer!
 
+**Urdu (Fatah Muhammad Jalandhari):** اس وقت زکریا نے اپنے پروردگار سے دعا کی (اور) کہا کہ پروردگار مجھے اپنی جناب سے اولاد صالح عطا فرما تو بے شک دعا سننے (اور قبول کرنے) والا ہے
+
 [Open on Quran.com](https://quran.com/3/38)
 
 #### 13:14 · [[013 Ar-Rad]]
@@ -87,6 +91,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** To Him [alone] is the supplication of truth. And those they call upon besides Him do not respond to them with a thing, except as one who stretches his hands toward water [from afar, calling it] to reach his mouth, but it will not reach it [thus]. And the supplication of the disbelievers is not but in error [i.e., futility].
 
 **English (Yusuf Ali):** For Him (alone) is prayer in Truth: any others that they call upon besides Him hear them no more than if they were to stretch forth their hands for water to reach their mouths but it reaches them not: for the prayer of those without Faith is nothing but (futile) wandering (in the mind).
+
+**Urdu (Fatah Muhammad Jalandhari):** سودمند پکارنا تو اسی کا ہے اور جن کو یہ لوگ اس کے سوا پکارتے ہیں وہ ان کی پکار کو کسی طرح قبول نہیں کرتے مگر اس شخص کی طرح جو اپنے دونوں ہاتھ پانی کی طرف پھیلا دے تاکہ (دور ہی سے) اس کے منہ تک آ پہنچے حالانکہ وہ (اس تک کبھی بھی) نہیں آسکتا اور (اسی طرح) کافروں کی پکار بیکار ہے
 
 [Open on Quran.com](https://quran.com/13/14)
 
@@ -104,6 +110,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Praise be to Allah, Who hath granted unto me in old age Isma'il and Isaac: for truly my Lord is He, the Hearer of Prayer!
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا کا شکر ہے جس نے مجھ کو بڑی عمر میں اسماعیل اور اسحاق بخشے۔ بےشک میرا پروردگار سننے والا ہے
+
 [Open on Quran.com](https://quran.com/14/39)
 
 #### 14:40 · [[014 Ibrahim]]
@@ -119,6 +127,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication.
 
 **English (Yusuf Ali):** O my Lord! make me one who establishes regular Prayer, and also (raise such) among my offspring O our Lord! and accept Thou my Prayer.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار مجھ کو (ایسی توفیق عنایت) کر کہ نماز پڑھتا رہوں اور میری اولاد کو بھی (یہ توفیق بخش) اے پروردگار میری دعا قبول فرما
 
 [Open on Quran.com](https://quran.com/14/40)
 
@@ -136,6 +146,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The prayer that man should make for good, he maketh for evil; for man is given to hasty (deeds).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور انسان جس طرح (جلدی سے) بھلائی مانگتا ہے اسی طرح برائی مانگتا ہے۔ اور انسان جلد باز (پیدا ہوا) ہے
+
 [Open on Quran.com](https://quran.com/17/11)
 
 #### 19:4 · [[019 Maryam]]
@@ -151,6 +163,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "My Lord, indeed my bones have weakened, and my head has filled with white, and never have I been in my supplication to You, my Lord, unhappy [i.e., disappointed].
 
 **English (Yusuf Ali):** Praying: "O my Lord! infirm indeed are my bones, and the hair of my head doth glisten with grey: but never am I unblest, O my Lord, in my prayer to Thee!
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور) کہا کہ اے میرے پروردگار میری ہڈیاں بڑھاپے کے سبب کمزور ہوگئی ہیں اور سر (ہے کہ) بڑھاپے (کی وجہ سے) شعلہ مارنے لگا ہے اور اے میرے پروردگار میں تجھ سے مانگ کر کبھی محروم نہیں رہا
 
 [Open on Quran.com](https://quran.com/19/4)
 
@@ -168,6 +182,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And I will turn away from you (all) and from those whom ye invoke besides Allah: I will call on my Lord: perhaps, by my prayer to my Lord, I shall be not unblest."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور میں آپ لوگوں سے اور جن کو آپ خدا کے سوا پکارا کرتے ہیں ان سے کنارہ کرتا ہوں اور اپنے پروردگار ہی کو پکاروں گا۔ امید ہے کہ میں اپنے پروردگار کو پکار کر محروم نہیں رہوں گا
+
 [Open on Quran.com](https://quran.com/19/48)
 
 #### 21:45 · [[021 Al-Anbya]]
@@ -184,6 +200,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say, "I do but warn you according to revelation": But the deaf will not hear the call, (even) when they are warned!
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں تم کو حکم خدا کے مطابق نصیحت کرتا ہوں۔ اور بہروں کوجب نصیحت کی جائے تو وہ پکار کر سنتے ہی نہیں
+
 [Open on Quran.com](https://quran.com/21/45)
 
 #### 24:63 · [[024 An-Nur]]
@@ -199,6 +217,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do not make [your] calling of the Messenger among yourselves as the call of one of you to another. Already Allāh knows those of you who slip away, concealed by others. So let those beware who dissent from his [i.e., the Prophet's] order, lest fitnah strike them or a painful punishment.
 
 **English (Yusuf Ali):** Deem not the summons of the Messenger among yourselves like the summons of one of you to another: Allah doth know those of you who slip away under shelter of some excuse: then let those beware who withstand the Messenger's order, lest some trial befall them, or a grievous penalty be inflicted on them.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو پیغمبر کے بلانے کو ایسا خیال نہ کرنا جیسا تم آپس میں ایک دوسرے کو بلاتے ہو۔ بےشک خدا کو یہ لوگ معلوم ہیں جو تم میں سے آنکھ بچا کر چل دیتے ہیں تو جو لوگ ان کے حکم کی مخالفت کرتے ہیں ان کو ڈرنا چاہیئے کہ (ایسا نہ ہو کہ) ان پر کوئی آفت پڑ جائے یا تکلیف دینے والا عذاب نازل ہو
 
 [Open on Quran.com](https://quran.com/24/63)
 

@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:44 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason?
 
 **English (Yusuf Ali):** Do ye enjoin right conduct on the people, and forget (To practise it) yourselves, and yet ye study the Scripture? Will ye not understand?
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ) کیا (عقل کی بات ہے کہ) تم لوگوں کو نیکی کرنے کو کہتے ہو اور اپنے تئیں فراموش کئے دیتے ہو، حالانکہ تم کتاب (خدا) بھی پڑھتے ہو۔ کیا تم سمجھتے نہیں؟
 
 [Open on Quran.com](https://quran.com/2/44)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They followed what the evil ones gave out (falsely) against the power of Solomon: the blasphemers Were, not Solomon, but the evil ones, teaching men Magic, and such things as came down at babylon to the angels Harut and Marut. But neither of these taught anyone (Such things) without saying: "We are only for trial; so do not blaspheme." They learned from them the means to sow discord between man and wife. But they could not thus harm anyone except by Allah's permission. And they learned what harmed them, not what profited them. And they knew that the buyers of (magic) would have no share in the happiness of the Hereafter. And vile was the price for which they did sell their souls, if they but knew!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
+
 [Open on Quran.com](https://quran.com/2/102)
 
 #### 2:113 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The Jews say, "The Christians have nothing [true] to stand on," and the Christians say, "The Jews have nothing to stand on," although they [both] recite the Scripture. Thus do those who know not [i.e., the polytheists] speak the same as their words. But Allāh will judge between them on the Day of Resurrection concerning that over which they used to differ.
 
 **English (Yusuf Ali):** The Jews say: "The Christians have naught (to stand) upon; and the Christians say: "The Jews have naught (To stand) upon." Yet they (Profess to) study the (same) Book. Like unto their word is what those say who know not; but Allah will judge between them in their quarrel on the Day of Judgment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہودی کہتے ہیں کہ عیسائی رستے پر نہیں اور عیسائی کہتے ہیں کہ یہودی رستے پر نہیں۔ حالانکہ وہ کتاب (الہٰی) پڑھتے ہیں۔ اسی طرح بالکل انہی کی سی بات وہ لوگ کہتے ہیں جو (کچھ) نہیں جانتے (یعنی مشرک) تو جس بات میں یہ لوگ اختلاف کر رہے خدا قیامت کے دن اس کا ان میں فیصلہ کر دے گا
 
 [Open on Quran.com](https://quran.com/2/113)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those to whom We have sent the Book study it as it should be studied: They are the ones that believe therein: Those who reject faith therein,- the loss is their own.
 
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں کو ہم نے کتاب عنایت کی ہے، وہ اس کو (ایسا) پڑھتے ہیں جیسا اس کے پڑھنے کا حق ہے۔ یہی لوگ اس پر ایمان رکھنے والے ہیں، اور جو اس کو نہیں مانتے، وہ خسارہ پانے والے ہیں
+
 [Open on Quran.com](https://quran.com/2/121)
 
 #### 2:129 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Our Lord, and send among them a messenger from themselves who will recite to them Your verses and teach them the Book and wisdom and purify them. Indeed, You are the Exalted in Might, the Wise."
 
 **English (Yusuf Ali):** "Our Lord! send amongst them a Messenger of their own, who shall rehearse Thy Signs to them and instruct them in scripture and wisdom, and sanctify them: For Thou art the Exalted in Might, the Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار، ان (لوگوں) میں انہیں میں سے ایک پیغمبر مبعوث کیجیو جو ان کو تیری آیتیں پڑھ پڑھ کر سنایا کرے اور کتاب اور دانائی سکھایا کرے اور ان (کے دلوں) کو پاک صاف کیا کرے۔ بےشک تو غالب اور صاحبِ حکمت ہے
 
 [Open on Quran.com](https://quran.com/2/129)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A similar (favour have ye already received) in that We have sent among you a Messenger of your own, rehearsing to you Our Signs, and sanctifying you, and instructing you in Scripture and Wisdom, and in new knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** جس طرح (منجملہ اور نعمتوں کے) ہم نے تم میں تمھیں میں سے ایک رسول بھیجے ہیں جو تم کو ہماری آیتیں پڑھ پڑھ کر سناتے اور تمہیں پاک بناتے اور کتاب (یعنی قرآن) اور دانائی سکھاتے ہیں، اور ایسی باتیں بتاتے ہیں، جو تم پہلے نہیں جانتے تھے
+
 [Open on Quran.com](https://quran.com/2/151)
 
 #### 2:252 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** These are the verses of Allāh which We recite to you, [O Muḥammad], in truth. And indeed, you are from among the messengers.
 
 **English (Yusuf Ali):** These are the Signs of Allah: we rehearse them to thee in truth: verily Thou art one of the messengers.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ خدا کی آیتیں ہیں جو ہم تم کو سچائی کے ساتھ پڑھ کر سناتے ہیں (اور اے محمدﷺ) تم بلاشبہ پیغمبروں میں سے ہو
 
 [Open on Quran.com](https://quran.com/2/252)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "This is what we rehearse unto thee of the Signs and the Message of Wisdom."
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) یہ ہم تم کو (خدا کی) آیتیں اور حکمت بھری نصیحتیں پڑھ پڑھ کر سناتے ہیں
+
 [Open on Quran.com](https://quran.com/3/58)
 
 #### 3:93 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** All food was lawful to the Children of Israel, except what Israel Made unlawful for itself, before the Law (of Moses) was revealed. Say: "Bring ye the Law and study it, if ye be men of truth."
 
+**Urdu (Fatah Muhammad Jalandhari):** بنی اسرائیل کے لیے (تورات کے نازل ہونے سے) پہلے کھانے کی تمام چیزیں حلال تھیں بجز ان کے جو یعقوب نے خود اپنے اوپر حرام کر لی تھیں کہہ دو کہ اگر سچے ہو تو تورات لاؤ اور اسے پڑھو (یعنی دلیل پیش کرو)
+
 [Open on Quran.com](https://quran.com/3/93)
 
 #### 3:101 · [[003 Ali Imran]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And how could you disbelieve while to you are being recited the verses of Allāh and among you is His Messenger? And whoever holds firmly to Allāh has [indeed] been guided to a straight path.
 
 **English (Yusuf Ali):** And how would ye deny Faith while unto you are rehearsed the Signs of Allah, and among you Lives the Messenger? Whoever holds firmly to Allah will be shown a way that is straight.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کیونکر کفر کرو گے جبکہ تم کو خدا کی آیتیں پڑھ پڑھ کر سنائی جاتی ہیں اور تم میں اس کے پیغمبر موجود ہیں اور جس نے خدا (کی ہدایت کی رسی) کو مضبوط پکڑ لیا وہ سیدھے رستے لگ گیا
 
 [Open on Quran.com](https://quran.com/3/101)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$rb - shrb]]
+- [[$rb - drink]]
 
 ### Meaning
 **drink** · Lemma **شَرِبَ**
@@ -35,7 +35,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:60 · [[002 Al-Baqarah]]
 
@@ -50,6 +50,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when Moses prayed for water for his people, so We said, "Strike with your staff the stone." And there gushed forth from it twelve springs, and every people [i.e., tribe] knew its watering place. "Eat and drink from the provision of Allāh, and do not commit abuse on the earth, spreading corruption."
 
 **English (Yusuf Ali):** And remember Moses prayed for water for his people; We said: "Strike the rock with thy staff." Then gushed forth therefrom twelve springs. Each group knew its own place for water. So eat and drink of the sustenance provided by Allah, and do no evil nor mischief on the (face of the) earth.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لیے (خدا سے) پانی مانگا تو ہم نے کہا کہ اپنی لاٹھی پتھر پر مارو۔ (انہوں نے لاٹھی ماری) تو پھر اس میں سے بارہ چشمے پھوٹ نکلے، اور تمام لوگوں نے اپنا اپنا گھاٹ معلوم کر (کے پانی پی) لیا۔ (ہم نے حکم دیا کہ) خدا کی (عطا فرمائی ہوئی) روزی کھاؤ اور پیو، مگر زمین میں فساد نہ کرتے پھرنا
 
 [Open on Quran.com](https://quran.com/2/60)
 
@@ -67,6 +69,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Permitted to you, on the night of the fasts, is the approach to your wives. They are your garments and ye are their garments. Allah knoweth what ye used to do secretly among yourselves; but He turned to you and forgave you; so now associate with them, and seek what Allah Hath ordained for you, and eat and drink, until the white thread of dawn appear to you distinct from its black thread; then complete your fast Till the night appears; but do not associate with your wives while ye are in retreat in the mosques. Those are Limits (set by) Allah: Approach not nigh thereto. Thus doth Allah make clear His Signs to men: that they may learn self-restraint.
 
+**Urdu (Fatah Muhammad Jalandhari):** روزوں کی راتوں میں تمہارے لئے اپنی عورتوں کے پاس جانا کردیا گیا ہے وہ تمہاری پوشاک ہیں اور تم ان کی پوشاک ہو خدا کو معلوم ہے کہ تم (ان کے پاس جانے سے) اپنے حق میں خیانت کرتے تھے سو اس نے تم پر مہربانی کی اور تمہاری حرکات سےدرگزرفرمائی۔اب (تم کو اختیار ہے کہ) ان سے مباشرت کرو۔ اور خدا نے جو چیز تمہارے لئے لکھ رکھی ہے (یعنی اولاد) اس کو (خدا سے) طلب کرو اور کھاؤ پیو یہاں تک کہ صبح کی سفید دھاری (رات کی) سیاہ دھاری سے الگ نظر آنے لگے۔ پھر روزہ (رکھ کر) رات تک پورا کرو اور جب تم مسجدوں میں اعتکاف بیٹھے ہو تو ان سے مباشرت نہ کرو۔ یہ خدا کی حدیں ہیں ان کے پاس نہ جانا۔ اسی طرح خدا اپنی آیتیں لوگوں کے (سمجھانے کے) لئے کھول کھول کر بیان فرماتا ہے تاکہ وہ پرہیزگار بنیں
+
 [Open on Quran.com](https://quran.com/2/187)
 
 #### 2:249 · [[002 Al-Baqarah]]
@@ -82,6 +86,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when Saul went forth with the soldiers, he said, "Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand." But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, "There is no power for us today against Goliath and his soldiers." But those who were certain that they would meet Allāh said, "How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient."
 
 **English (Yusuf Ali):** When Talut set forth with the armies, he said: "Allah will test you at the stream: if any drinks of its water, He goes not with my army: Only those who taste not of it go with me: A mere sip out of the hand is excused." but they all drank of it, except a few. When they crossed the river,- He and the faithful ones with him,- they said: "This day We cannot cope with Goliath and his forces." but those who were convinced that they must meet Allah, said: "How oft, by Allah's will, Hath a small force vanquished a big one? Allah is with those who steadfastly persevere."
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض جب طالوت فوجیں لے کر روانہ ہوا تو اس نے (ان سے) کہا کہ خدا ایک نہر سے تمہاری آزمائش کرنے والا ہے۔ جو شخص اس میں سے پانی پی لے گا (اس کی نسبت تصور کیا جائے گا کہ) وہ میرا نہیں۔ اور جو نہ پئے گا وہ (سمجھا جائے گا کہ) میرا ہے۔ ہاں اگر کوئی ہاتھ سے چلو بھر پانی پی لے (تو خیر۔ جب وہ لوگ نہر پر پہنچے) تو چند شخصوں کے سوا سب نے پانی پی لیا۔ پھر جب طالوت اور مومن لوگ جو اس کے ساتھ تھے نہر کے پار ہوگئے۔ تو کہنے لگے کہ آج ہم میں جالوت اور اس کے لشکر سے مقابلہ کرنے کی طاقت نہیں۔ جو لوگ یقین رکھتے تھے کہ ان کو خدا کے روبرو حاضر ہونا ہے وہ کہنے لگے کہ بسااوقات تھوڑی سی جماعت نے خدا کے حکم سے بڑی جماعت پر فتح حاصل کی ہے اور خدا استقلال رکھنے والوں کے ساتھ ہے
 
 [Open on Quran.com](https://quran.com/2/249)
 
@@ -99,6 +105,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O Children of Adam! wear your beautiful apparel at every time and place of prayer: eat and drink: But waste not by excess, for Allah loveth not the wasters.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی آدم! ہر نماز کے وقت اپنے تئیں مزّین کیا کرو اور کھاؤ اور پیؤ اور بےجا نہ اڑاؤ کہ خدا بےجا اڑانے والوں کو دوست نہیں رکھتا
+
 [Open on Quran.com](https://quran.com/7/31)
 
 #### 19:26 · [[019 Maryam]]
@@ -114,6 +122,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So eat and drink and be contented. And if you see from among humanity anyone, say, 'Indeed, I have vowed to the Most Merciful abstention, so I will not speak today to [any] man.'"
 
 **English (Yusuf Ali):** "So eat and drink and cool (thine) eye. And if thou dost see any man, say, 'I have vowed a fast to (Allah) Most Gracious, and this day will I enter into not talk with any human being'"
+
+**Urdu (Fatah Muhammad Jalandhari):** تو کھاؤ اور پیو اور آنکھیں ٹھنڈی کرو۔ اگر تم کسی آدمی کو دیکھو تو کہنا کہ میں نے خدا کے لئے روزے کی منت مانی تو آج میں کسی آدمی سے ہرگز کلام نہیں کروں گی
 
 [Open on Quran.com](https://quran.com/19/26)
 
@@ -131,6 +141,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And the chiefs of his people, who disbelieved and denied the Meeting in the Hereafter, and on whom We had bestowed the good things of this life, said: "He is no more than a man like yourselves: he eats of that of which ye eat, and drinks of what ye drink.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کی قوم کے سردار جو کافر تھے اور آخرت کے آنے کو جھوٹ سمجھتے تھے اور دنیا کی زندگی میں ہم نے ان کو آسودگی دے رکھی تھی۔ کہنے لگے کہ یہ تو تم ہی جیسا آدمی ہے، جس قسم کا کھانا تم کھاتے ہو، اسی طرح کا یہ بھی کھاتا ہے اور جو پانی تم پیتے ہو اسی قسم کا یہ بھی پیتا ہے
+
 [Open on Quran.com](https://quran.com/23/33)
 
 #### 26:155 · [[026 Ash-Shuara]]
@@ -146,6 +158,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "This is a she-camel. For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day.
 
 **English (Yusuf Ali):** He said: "Here is a she-camel: she has a right of watering, and ye have a right of watering, (severally) on a day appointed.
+
+**Urdu (Fatah Muhammad Jalandhari):** صالح نے کہا (دیکھو) یہ اونٹنی ہے (ایک دن) اس کی پانی پینے کی باری ہے اور ایک معین روز تمہاری باری
 
 [Open on Quran.com](https://quran.com/26/155)
 
@@ -163,6 +177,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (To them will be said:) "Eat and drink ye, with profit and health, because of your (good) deeds."
 
+**Urdu (Fatah Muhammad Jalandhari):** اپنے اعمال کے صلے میں مزے سے کھاؤ اور پیو
+
 [Open on Quran.com](https://quran.com/52/19)
 
 #### 54:28 · [[054 Al-Qamar]]
@@ -179,6 +195,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And tell them that the water is to be divided between them: Each one's right to drink being brought forward (by suitable turns).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو آگاہ کردو کہ ان میں پانی کی باری مقرر کر دی گئی ہے۔ ہر (باری والے کو اپنی) باری پر آنا چاہیئے
+
 [Open on Quran.com](https://quran.com/54/28)
 
 #### 56:55 · [[056 Al-Waqiah]]
@@ -194,6 +212,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And will drink as the drinking of thirsty camels.
 
 **English (Yusuf Ali):** "Indeed ye shall drink like diseased camels raging with thirst!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور پیو گے بھی تو اس طرح جیسے پیاسے اونٹ پیتے ہیں
 
 [Open on Quran.com](https://quran.com/56/55)
 

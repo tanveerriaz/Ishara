@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[hTE - hte]]
+- [[hTE - racing ahead]]
 
 ### Meaning
 **racing ahead** · Lemma **مُهْطِع**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 14:43 · [[014 Ibrahim]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Racing ahead, their heads raised up, their glance does not come back to them, and their hearts are void.
 
 **English (Yusuf Ali):** They running forward with necks outstretched, their heads uplifted, their gaze returning not towards them, and their hearts a (gaping) void!
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور لوگ) سر اٹھائے ہوئے (میدان قیامت کی طرف) دوڑ رہے ہوں گے ان کی نگاہیں ان کی طرف لوٹ نہ سکیں گی اور ان کے دل (مارے خوف کے) ہوا ہو رہے ہوں گے
 
 [Open on Quran.com](https://quran.com/14/43)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Hastening, with eyes transfixed, towards the Caller!- "Hard is this Day!", the Unbelievers will say.
 
+**Urdu (Fatah Muhammad Jalandhari):** اس بلانے والے کی طرف دوڑتے جاتے ہوں گے۔ کافر کہیں گے یہ دن بڑا سخت ہے
+
 [Open on Quran.com](https://quran.com/54/8)
 
 #### 70:36 · [[070 Al-Maarij]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So what is [the matter] with those who disbelieve, hastening [from] before you, [O Muḥammad],
 
 **English (Yusuf Ali):** Now what is the matter with the Unbelievers that they rush madly before thee-
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کافروں کو کیا ہوا ہے کہ تمہاری طرف دوڑے چلے آتے ہیں
 
 [Open on Quran.com](https://quran.com/70/36)
 

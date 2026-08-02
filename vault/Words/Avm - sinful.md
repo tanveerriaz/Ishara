@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>vm - athm]]
+- [[>vm - sin commit crime]]
 
 ### Meaning
 **sinful** · Lemma **آثِم**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:283 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you are on a journey and cannot find a scribe, then a security deposit [should be] taken. And if one of you entrusts another, then let him who is entrusted discharge his trust [faithfully] and let him fear Allāh, his Lord. And do not conceal testimony, for whoever conceals it - his heart is indeed sinful, and Allāh is Knowing of what you do.
 
 **English (Yusuf Ali):** If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, Let the trustee (Faithfully) discharge His trust, and let him fear his Lord. Conceal not evidence; for whoever conceals it,- His heart is tainted with sin. And Allah Knoweth all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم سفر پر ہواور (دستاویز) لکھنے والا مل نہ سکے تو (کوئی چیز) رہن یا قبضہ رکھ کر (قرض لے لو) اور اگر کوئی کسی کو امین سمجھے (یعنی رہن کے بغیر قرض دیدے) تو امانتدار کو چاہیئے کہ صاحب امانت کی امانت ادا کردے اور خدا سے جو اس کا پروردگار ہے ڈرے۔اور (دیکھنا) شہادت کو مت چھپانا۔ جو اس کو چھپائے گا وہ دل کا گنہگار ہوگا۔ اور خدا تمہارے سب کاموں سے واقف ہے
 
 [Open on Quran.com](https://quran.com/2/283)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! When death approaches any of you, (take) witnesses among yourselves when making bequests,- two just men of your own (brotherhood) or others from outside if ye are journeying through the earth, and the chance of death befalls you (thus). If ye doubt (their truth), detain them both after prayer, and let them both swear by Allah: "We wish not in this for any worldly gain, even though the (beneficiary) be our near relation: we shall hide not the evidence before Allah: if we do, then behold! the sin be upon us!"
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم میں سے کسی کی موت آموجود ہو تو شہادت (کا نصاب) یہ ہے کہ وصیت کے وقت تم (مسلمانوں) میں سے دو عادل (یعنی صاحب اعتبار) گواہ ہوں یا اگر (مسلمان نہ ملیں اور) تم سفر کر رہے ہو اور (اس وقت) تم پر موت کی مصیبت واقع ہو تو کسی دوسرے مذہب کے دو (شخصوں کو) گواہ (کر لو) اگر تم کو ان گواہوں کی نسبت کچھ شک ہو تو ان کو (عصر کی) نماز کے بعد کھڑا کرو اور دونوں خدا کی قسمیں کھائیں کہ ہم شہادت کا کچھ عوض نہیں لیں گے گو ہمارا رشتہ دار ہی ہو اور نہ ہم الله کی شہادت کو چھپائیں گے اگر ایسا کریں گے تو گنہگار ہوں گے
+
 [Open on Quran.com](https://quran.com/5/106)
 
 #### 76:24 · [[076 Al-Insan]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So be patient for the decision of your Lord and do not obey from among them a sinner or ungrateful [disbeliever].
 
 **English (Yusuf Ali):** Therefore be patient with constancy to the Command of thy Lord, and hearken not to the sinner or the ingrate among them.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اپنے پروردگار کے حکم کے مطابق صبر کئے رہو اور ان لوگوں میں سے کسی بد عمل اور ناشکرے کا کہا نہ مانو
 
 [Open on Quran.com](https://quran.com/76/24)
 

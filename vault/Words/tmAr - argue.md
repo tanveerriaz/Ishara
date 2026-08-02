@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mry - mry]]
+- [[mry - stroke rub]]
 
 ### Meaning
 **argue** · Lemma **تُمارِ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 18:22 · [[018 Al-Kahf]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They [i.e., people] will say there were three, the fourth of them being their dog; and they will say there were five, the sixth of them being their dog - guessing at the unseen; and they will say there were seven, and the eighth of them was their dog. Say, [O Muḥammad], "My Lord is most knowing of their number. None knows them except a few. So do not argue about them except with an obvious argument and do not inquire about them among [the speculators] from anyone."
 
 **English (Yusuf Ali):** (Some) say they were three, the dog being the fourth among them; (others) say they were five, the dog being the sixth,- doubtfully guessing at the unknown; (yet others) say they were seven, the dog being the eighth. Say thou: "My Lord knoweth best their number; It is but few that know their (real case)." Enter not, therefore, into controversies concerning them, except on a matter that is clear, nor consult any of them about (the affair of) the Sleepers.
+
+**Urdu (Fatah Muhammad Jalandhari):** (بعض لوگ) اٹکل پچو کہیں گے کہ وہ تین تھے (اور) چوتھا ان کا کتّا تھا۔ اور (بعض) کہیں گے کہ وہ پانچ تھے اور چھٹا ان کا کتّا تھا۔ اور (بعض) کہیں گے کہ وہ سات تھے اور آٹھواں ان کا کتّا تھا۔ کہہ دو کہ میرا پروردگار ہی ان کے شمار سے خوب واقف ہے ان کو جانتے بھی ہیں تو تھوڑے ہی لوگ (جانتے ہیں) تو تم ان (کے معاملے) میں گفتگو نہ کرنا مگر سرسری سی گفتگو۔ اور نہ ان کے بارے میں ان میں کسی سے کچھ دریافت ہی کرنا
 
 [Open on Quran.com](https://quran.com/18/22)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Only those wish to hasten it who believe not in it: those who believe hold it in awe, and know that it is the Truth. Behold, verily those that dispute concerning the Hour are far astray.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اس پر ایمان نہیں رکھتے وہ اس کے لئے جلدی کر رہے ہیں۔ اور جو مومن ہیں وہ اس سے ڈرتے ہیں۔ اور جانتے ہیں کہ وہ برحق ہے۔ دیکھو جو لوگ قیامت میں جھگڑتے ہیں وہ پرلے درجے کی گمراہی میں ہیں
+
 [Open on Quran.com](https://quran.com/42/18)
 
 #### 53:12 · [[053 An-Najm]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So will you dispute with him over what he saw?
 
 **English (Yusuf Ali):** Will ye then dispute with him concerning what he saw?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا جو کچھ وہ دیکھتے ہیں تم اس میں ان سے جھگڑتے ہو؟
 
 [Open on Quran.com](https://quran.com/53/12)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then which of the gifts of thy Lord, (O man,) wilt thou dispute about?
 
+**Urdu (Fatah Muhammad Jalandhari):** تو (اے انسان) تو اپنے پروردگار کی کون سی نعمت پر جھگڑے گا
+
 [Open on Quran.com](https://quran.com/53/55)
 
 #### 54:36 · [[054 Al-Qamar]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And he had already warned them of Our assault, but they disputed the warning.
 
 **English (Yusuf Ali):** And (Lut) did warn them of Our Punishment, but they disputed about the Warning.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور لوطؑ نے ان کو ہماری پکڑ سے ڈرایا بھی تھا مگر انہوں نے ڈرانے میں شک کیا
 
 [Open on Quran.com](https://quran.com/54/36)
 

@@ -16,53 +16,53 @@ The Tidings · 40 ayahs
 
 - [[mAb - place return]] — `مَآب` · place return
 - [[k*Ab - liar]] — `كَذّاب` · liar
-- [[brd - coolness]] — `بَرْد` · coolness
-- [[lyl - night]] — `لَيْل` · night
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[yd - hands]] — `يَد` · hands
-- [[lgw - vain talk]] — `لَغْو` · vain talk
-- [[mA' - water]] — `ماء` · water
-- [[EZym - great]] — `عَظِيم` · great
-- [[Hq - truth]] — `حَقّ` · truth
-- [[>tY - comes them]] — `أَتَى` · comes them
+- [[Sf - rows]] — `صَفّ` · rows
+- [[>rD - earth]] — `أَرْض` · earth
 - [[>trAb - well-matched]] — `أَتْراب` · well-matched
-- [[smE - hearing]] — `سَمْع` · hearing
-- [[E*Ab - punishment]] — `عَذاب` · punishment
-- [[Enb - grapes]] — `عِنَب` · grapes
-- [[zAd - increase]] — `زادَ` · increase
-- [[mlkt - possess]] — `مَلَكَتْ` · possess
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[rb - lord]] — `رَبّ` · lord
+- [[ftH - victory]] — `فَتَحَ` · victory
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[byn - between them]] — `بَيْن` · between them
+- [[Elm - know]] — `عَلِمَ` · know
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[fwq - above them]] — `فَوْق` · above them
+- [[lbAs - garments]] — `لِباس` · garments
 - [[Swr - trumpet]] — `صَوَّرَ` · trumpet
-- [[>*n - ears]] — `أُذُن` · ears
-- [[jzA' - recompense]] — `جَزاء` · recompense
-- [[ETA' - gift]] — `عَطاء` · gift
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[bAb - gate]] — `باب` · gate
+- [[yrjwA - expect]] — `يَرْجُوا۟` · expect
+- [[lgw - vain talk]] — `لَغْو` · vain talk
+- [[$rAb - drink]] — `شَراب` · drink
+- [[>wtAd - stakes]] — `أَوْتاد` · stakes
+- [[Ayp - signs]] — `آيَة` · signs
+- [[fSl - we explain]] — `فَصَلَ` · we explain
+- [[trAb - dust]] — `تُراب` · dust
+- [[ktAb - book]] — `كِتاب` · book
+- [[smE - hearing]] — `سَمْع` · hearing
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$rb - shrb]]
+- [[$rb - drink]]
 - [[$y> - thing]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
-- [[>rD - ard]]
+- [[*wq - taste]]
+- [[>*n - ear]]
+- [[>rD - earth]]
 - [[>ty - give]]
 - [[>wb - return]]
 - [[>x* - take]]
 - [[>yy - ism]]
-- [[E*b - edhb]]
+- [[E*b - motes particles floating]]
 - [[ESr - press squeeze something]]
 - [[ETw - take handle something]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Elm - knowledge]]
-- [[Enb - enb]]
-- [[Ey$ - eysh]]
+- [[Enb - grapes]]
+- [[Ey$ - life sustenance]]
 - [[HSy - count reckon]]
 - [[Hbb - love]]
 - [[Hdq - black part eye]]
-- [[Hmm - hmm]]
+- [[Hmm - blackness being intensely]]
 - [[Hqq - established as true]]
 - [[Hsb - number]]
 - [[Sff - arrange things row]]
@@ -71,27 +71,27 @@ The Tidings · 40 ayahs
 - [[Tgy - transgression]]
 - [[bny - sons]]
 - [[brd - become cold]]
-- [[bwb - bwb]]
+- [[bwb - gate]]
 - [[byn - clear]]
 - [[fSl - separate]]
 - [[ftH - victory]]
-- [[fwj - fawj]]
-- [[fwq - hiccuping]]
-- [[fwz - fwz]]
-- [[gsq - gsq]]
+- [[fwj - company]]
+- [[fwq - above]]
+- [[fwz - attain good fortune]]
+- [[gsq - eyes shedding tears]]
 - [[jEl - we made]]
-- [[jbl - jbl]]
-- [[jnn - jann]]
+- [[jbl - large company multitude]]
+- [[jnn - cover]]
 - [[jzy - recompense reward]]
 - [[k*b - denied]]
 - [[k>s - vessel contains liquid]]
 - [[kfr - disbelieve]]
 - [[kll - every]]
-- [[klm - kalam]]
+- [[klm - speech]]
 - [[ktb - book]]
 - [[kwn - is]]
 - [[lbs - labasa]]
-- [[lbv - lbth]]
+- [[lbv - tarry]]
 
 ## Sample (ayah 1)
 

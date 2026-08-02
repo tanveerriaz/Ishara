@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:43 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And establish prayer and give zakāh and bow with those who bow [in worship and obedience].
 
 **English (Yusuf Ali):** And be steadfast in prayer; practise regular charity; and bow down your heads with those who bow down (in worship).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نماز پڑھا کرو اور زکوٰة دیا کرو اور (خدا کے آگے) جھکنے والوں کے ساتھ جھکا کرو
 
 [Open on Quran.com](https://quran.com/2/43)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember We gave Moses the Scripture and the Criterion (Between right and wrong): There was a chance for you to be guided aright.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے موسیٰ کو کتاب اور معجزے عنایت کئے، تاکہ تم ہدایت حاصل کرو
+
 [Open on Quran.com](https://quran.com/2/53)
 
 #### 2:63 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We took your covenant, [O Children of Israel, to abide by the Torah] and We raised over you the mount, [saying], "Take what We have given you with determination and remember what is in it that perhaps you may become righteous."
 
 **English (Yusuf Ali):** And remember We took your covenant and We raised above you (The towering height) of Mount (Sinai): (Saying): "Hold firmly to what We have given you and bring (ever) to remembrance what is therein: Perchance ye may fear Allah."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے تم سے عہد (کر) لیا اور کوہِ طُور کو تم پر اٹھا کھڑا کیا (اور حکم دیا) کہ جو کتاب ہم نے تم کو دی ہے، اس کو زور سے پکڑے رہو، اور جو اس میں (لکھا) ہے، اسے یاد رکھو، تاکہ (عذاب سے) محفوظ رہو
 
 [Open on Quran.com](https://quran.com/2/63)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember We took a covenant from the Children of Israel (to this effect): Worship none but Allah; treat with kindness your parents and kindred, and orphans and those in need; speak fair to the people; be steadfast in prayer; and practise regular charity. Then did ye turn back, except a few among you, and ye backslide (even now).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے بنی اسرائیل سے عہد لیا کہ خدا کے سوا کسی کی عبادت نہ کرنا اور ماں باپ اور رشتہ داروں اور یتیموں اور محتاجوں کے ساتھ بھلائی کرتے رہنا اور لوگوں سے اچھی باتیں کہنا، اور نماز پڑھتے اور زکوٰة دیتے رہنا، تو چند شخصوں کے سوا تم سب (اس عہد سے) منہ پھیر کر پھر بیٹھے
+
 [Open on Quran.com](https://quran.com/2/83)
 
 #### 2:87 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We did certainly give Moses the Scripture [i.e., the Torah] and followed up after him with messengers. And We gave Jesus, the son of Mary, clear proofs and supported him with the Pure Spirit [i.e., the angel Gabriel]. But is it [not] that every time a messenger came to you, [O Children of Israel], with what your souls did not desire, you were arrogant? And a party [of messengers] you denied and another party you killed.
 
 **English (Yusuf Ali):** We gave Moses the Book and followed him up with a succession of messengers; We gave Jesus the son of Mary Clear (Signs) and strengthened him with the holy spirit. Is it that whenever there comes to you a messenger with what ye yourselves desire not, ye are puffed up with pride?- Some ye called impostors, and others ye slay!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو کتاب عنایت کی اور ان کے پیچھے یکے بعد دیگرے پیغمبر بھیجتے رہے اور عیسیٰ بن مریم کو کھلے نشانات بخشے اور روح القدس (یعنی جبرئیل) سے ان کو مدد دی۔تو جب کوئی پیغمبر تمہارے پاس ایسی باتیں لے کر آئے، جن کو تمہارا جی نہیں چاہتا تھا، تو تم سرکش ہو جاتے رہے، اور ایک گروہ (انبیاء) کو تو جھٹلاتے رہے اور ایک گروہ کو قتل کرتے رہے
 
 [Open on Quran.com](https://quran.com/2/87)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember We took your covenant and We raised above you (the towering height) of Mount (Sinai): (Saying): "Hold firmly to what We have given you, and hearken (to the Law)": They said:" We hear, and we disobey:" And they had to drink into their hearts (of the taint) of the calf because of their Faithlessness. Say: "Vile indeed are the behests of your Faith if ye have any faith!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے تم (لوگوں) سے عہد واثق لیا اور کوہ طور کو تم پر اٹھا کھڑا کیا (اور حکم دیا کہ) جو (کتاب) ہم نے تم کو دی ہے، اس کو زور سے پکڑو اور جو تمہیں حکم ہوتا ہے (اس کو) سنو تو وہ (جو تمہارے بڑے تھے) کہنے لگے کہ ہم نے سن تو لیا لیکن مانتے نہیں۔ اور ان کے کفر کے سبب بچھڑا (گویا) ان کے دلوں میں رچ گیا تھا۔ (اے پیغمبر ان سے) کہہ دو کہ اگر تم مومن ہو تو تمہارا ایمان تم کو بری بات بتاتا ہے
+
 [Open on Quran.com](https://quran.com/2/93)
 
 #### 2:101 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when a messenger from Allāh came to them confirming that which was with them, a party of those who had been given the Scripture threw the Scripture of Allāh [i.e., the Torah] behind their backs as if they did not know [what it contained].
 
 **English (Yusuf Ali):** And when there came to them a messenger from Allah, confirming what was with them, a party of the people of the Book threw away the Book of Allah behind their backs, as if (it had been something) they did not know!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کے پاس الله کی طرف سے پیغمبر (آخرالزماں) آئے، اور وہ ان کی (آسمانی) کتاب کی بھی تصدیق کرتے ہیں تو جن لوگوں کو کتاب دی گئی تھی، ان میں سے ایک جماعت نے خدا کی کتاب کو پیٹھ پیچھے پھینک دیا، گویا وہ جانتے ہی نہیں
 
 [Open on Quran.com](https://quran.com/2/101)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And be steadfast in prayer and regular in charity: And whatever good ye send forth for your souls before you, ye shall find it with Allah: for Allah sees Well all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور نماز ادا کرتے رہو اور زکوٰة دیتے رہو۔ اور جو بھلائی اپنے لیے آگے بھیج رکھو گے، اس کو خدا کے ہاں پا لو گے۔ کچھ شک نہیں کہ خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/2/110)
 
 #### 2:121 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those to whom We have sent the Book study it as it should be studied: They are the ones that believe therein: Those who reject faith therein,- the loss is their own.
 
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں کو ہم نے کتاب عنایت کی ہے، وہ اس کو (ایسا) پڑھتے ہیں جیسا اس کے پڑھنے کا حق ہے۔ یہی لوگ اس پر ایمان رکھنے والے ہیں، اور جو اس کو نہیں مانتے، وہ خسارہ پانے والے ہیں
+
 [Open on Quran.com](https://quran.com/2/121)
 
 #### 2:136 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O believers], "We have believed in Allāh and what has been revealed to us and what has been revealed to Abraham and Ishmael and Isaac and Jacob and the Descendants [al-Asbāṭ] and what was given to Moses and Jesus and what was given to the prophets from their Lord. We make no distinction between any of them, and we are Muslims [in submission] to Him."
 
 **English (Yusuf Ali):** Say ye: "We believe in Allah, and the revelation given to us, and to Abraham, Isma'il, Isaac, Jacob, and the Tribes, and that given to Moses and Jesus, and that given to (all) prophets from their Lord: We make no difference between one and another of them: And we bow to Allah (in Islam)."
+
+**Urdu (Fatah Muhammad Jalandhari):** (مسلمانو) کہو کہ ہم خدا پر ایمان لائے اور جو (کتاب) ہم پر اتری، اس پر اور جو (صحیفے) ابراہیم اور اسمٰعیل اور اسحاق اور یعقوب اور ان کی اولاد پر نازل ہوئے ان پر اور جو (کتابیں) موسیٰ اور عیسی کو عطا ہوئیں، ان پر، اور جو اور پیغمبروں کو ان کے پروردگار کی طرف سے ملیں، ان پر (سب پر ایمان لائے) ہم ان پیغمروں میں سے کسی میں کچھ فرق نہیں کرتے اور ہم اسی (خدائے واحد) کے فرمانبردار ہیں
 
 [Open on Quran.com](https://quran.com/2/136)
 

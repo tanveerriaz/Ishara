@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>yd - ayd]]
+- [[>yd - earth]]
 
 ### Meaning
 **supports** · Lemma **أَيَّدَ**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:87 · [[002 Al-Baqarah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We did certainly give Moses the Scripture [i.e., the Torah] and followed up after him with messengers. And We gave Jesus, the son of Mary, clear proofs and supported him with the Pure Spirit [i.e., the angel Gabriel]. But is it [not] that every time a messenger came to you, [O Children of Israel], with what your souls did not desire, you were arrogant? And a party [of messengers] you denied and another party you killed.
 
 **English (Yusuf Ali):** We gave Moses the Book and followed him up with a succession of messengers; We gave Jesus the son of Mary Clear (Signs) and strengthened him with the holy spirit. Is it that whenever there comes to you a messenger with what ye yourselves desire not, ye are puffed up with pride?- Some ye called impostors, and others ye slay!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو کتاب عنایت کی اور ان کے پیچھے یکے بعد دیگرے پیغمبر بھیجتے رہے اور عیسیٰ بن مریم کو کھلے نشانات بخشے اور روح القدس (یعنی جبرئیل) سے ان کو مدد دی۔تو جب کوئی پیغمبر تمہارے پاس ایسی باتیں لے کر آئے، جن کو تمہارا جی نہیں چاہتا تھا، تو تم سرکش ہو جاتے رہے، اور ایک گروہ (انبیاء) کو تو جھٹلاتے رہے اور ایک گروہ کو قتل کرتے رہے
 
 [Open on Quran.com](https://quran.com/2/87)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those messengers We endowed with gifts, some above others: To one of them Allah spoke; others He raised to degrees (of honour); to Jesus the son of Mary We gave clear (Signs), and strengthened him with the holy spirit. If Allah had so willed, succeeding generations would not have fought among each other, after clear (Signs) had come to them, but they (chose) to wrangle, some believing and others rejecting. If Allah had so willed, they would not have fought each other; but Allah Fulfilleth His plan.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ پیغمبر (جو ہم وقتاً فوقتاً بھیجتے رہیں ہیں) ان میں سے ہم نے بعض کو بعض پر فضیلت دی ہے۔ بعض ایسے ہیں جن سے خدا نے گفتگو فرمائی اور بعض کے (دوسرے امور میں) مرتبے بلند کئے۔ اور عیسیٰ بن مریم کو ہم نے کھلی ہوئی نشانیاں عطا کیں اور روح القدس سے ان کو مدد دی۔ اور اگر خداچاہتا تو ان سے پچھلے لوگ اپنے پاس کھلی نشانیاں آنے کے بعد آپس میں نہ لڑتے لیکن انہوں نے اختلاف کیا تو ان میں سے بعض تو ایمان لے آئے اور بعض کافر ہی رہے۔ اور اگر خدا چاہتا تو یہ لوگ باہم جنگ و قتال نہ کرتے۔ لیکن خدا جو چاہتا ہے کرتا ہے
+
 [Open on Quran.com](https://quran.com/2/253)
 
 #### 3:13 · [[003 Ali Imran]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Already there has been for you a sign in the two armies which met [in combat at Badr] - one fighting in the cause of Allāh and another of disbelievers. They saw them [to be] twice their [own] number by [their] eyesight. But Allāh supports with His victory whom He wills. Indeed in that is a lesson for those of vision.
 
 **English (Yusuf Ali):** "There has already been for you a Sign in the two armies that met (in combat): One was fighting in the cause of Allah, the other resisting Allah; these saw with their own eyes Twice their number. But Allah doth support with His aid whom He pleaseth. In this is a warning for such as have eyes to see."
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہارے لیے دو گروہوں میں جو (جنگ بدر کے دن) آپس میں بھڑ گئے (قدرت خدا کی عظیم الشان) نشانی تھی ایک گروہ (مسلمانوں کا تھا وہ) خدا کی راہ میں لڑ رہا تھا اور دوسرا گروہ (کافروں کا تھا وہ) ان کو اپنی آنکھوں سے اپنے سے دگنا مشاہدہ کر رہا تھا اور خدا اپنی نصرت سے جس کو چاہتا ہے مدد دیتا ہے جو اہل بصارت ہیں ان کے لیے اس (واقعے) میں بڑی عبرت ہے
 
 [Open on Quran.com](https://quran.com/3/13)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then will Allah say: "O Jesus the son of Mary! Recount My favour to thee and to thy mother. Behold! I strengthened thee with the holy spirit, so that thou didst speak to the people in childhood and in maturity. Behold! I taught thee the Book and Wisdom, the Law and the Gospel and behold! thou makest out of clay, as it were, the figure of a bird, by My leave, and thou breathest into it and it becometh a bird by My leave, and thou healest those born blind, and the lepers, by My leave. And behold! thou bringest forth the dead by My leave. And behold! I did restrain the Children of Israel from (violence to) thee when thou didst show them the clear Signs, and the unbelievers among them said: 'This is nothing but evident magic.'
 
+**Urdu (Fatah Muhammad Jalandhari):** جب خدا (عیسیٰ سے) فرمائے گا کہ اے عیسیٰ بن مریم! میرے ان احسانوں کو یاد کرو جو میں نے تم پر اور تمہاری والدہ پر کئے جب میں نے روح القدس (یعنی جبرئیل) سے تمہاری مدد کی تم جھولے میں اور جوان ہو کر (ایک ہی نسق پر) لوگوں سے گفتگو کرتے تھے اور جب میں نے تم کو کتاب اور دانائی اور تورات اور انجیل سکھائی اور جب تم میرے حکم سے مٹی کا جانور بنا کر اس میں پھونک مار دیتے تھے تو وہ میرے حکم سے اڑنے لگتا تھا اور مادر زاد اندھے اور سفید داغ والے کو میرے حکم سے چنگا کر دیتے تھے اور مردے کو میرے حکم سے (زندہ کرکے قبر سے) نکال کھڑا کرتے تھے اور جب میں نے بنی اسرائیل (کے ہاتھوں) کو تم سے روک دیا جب تم ان کے پاس کھلے نشان لے کر آئے تو جو ان میں سے کافر تھے کہنے لگے کہ یہ صریح جادو ہے
+
 [Open on Quran.com](https://quran.com/5/110)
 
 #### 8:26 · [[008 Al-Anfal]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And remember when you were few and oppressed in the land, fearing that people might abduct you, but He sheltered you, supported you with His victory, and provided you with good things - that you might be grateful.
 
 **English (Yusuf Ali):** Call to mind when ye were a small (band), despised through the land, and afraid that men might despoil and kidnap you; But He provided a safe asylum for you, strengthened you with His aid, and gave you Good things for sustenance: that ye might be grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس وقت کو یاد کرو جب تم زمین (مکہ) میں قلیل اور ضعیف سمجھے جاتے تھے اور ڈرتے رہتے تھے کہ لوگ تمہیں اُڑا (نہ) لے جائیں (یعنی بےخان وماں نہ کردیں) تو اس نے تم کو جگہ دی اور اپنی مدد سے تم کو تقویت بخشی اور پاکیزہ چیزیں کھانے کو دیں تاکہ (اس کا) شکر کرو
 
 [Open on Quran.com](https://quran.com/8/26)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Should they intend to deceive thee,- verily Allah sufficeth thee: He it is That hath strengthened thee with His aid and with (the company of) the Believers;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر یہ چاہیں کہ تم کو فریب دیں تو خدا تمہیں کفایت کرے گا۔ وہی تو ہے جس نے تم کو اپنی مدد سے اور مسلمانوں (کی جمعیت) سے تقویت بخشی
+
 [Open on Quran.com](https://quran.com/8/62)
 
 #### 9:40 · [[009 At-Tawbah]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If you do not aid him [i.e., the Prophet (ﷺ)] - Allāh has already aided him when those who disbelieved had driven him out [of Makkah] as one of two, when they were in the cave and he [i.e., Muḥammad (ﷺ)] said to his companion, "Do not grieve; indeed Allāh is with us." And Allāh sent down His tranquility upon him and supported him with soldiers [i.e., angels] you did not see and made the word of those who disbelieved the lowest, while the word of Allāh - that is the highest. And Allāh is Exalted in Might and Wise.
 
 **English (Yusuf Ali):** If ye help not (your leader), (it is no matter): for Allah did indeed help him, when the Unbelievers drove him out: he had no more than one companion; they two were in the cave, and he said to his companion, "Have no fear, for Allah is with us": then Allah sent down His peace upon him, and strengthened him with forces which ye saw not, and humbled to the depths the word of the Unbelievers. But the word of Allah is exalted to the heights: for Allah is Exalted in might, Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم پیغمبر کی مدد نہ کرو گے تو خدا اُن کا مددگار ہے (وہ وقت تم کو یاد ہوگا) جب ان کو کافروں نے گھر سے نکال دیا۔ (اس وقت) دو (ہی ایسے شخص تھے جن) میں (ایک ابوبکرؓ تھے) اور دوسرے (خود رسول الله) جب وہ دونوں غار (ثور) میں تھے اس وقت پیغمبر اپنے رفیق کو تسلی دیتے تھے کہ غم نہ کرو خدا ہمارے ساتھ ہے۔ تو خدا نے ان پر تسکین نازل فرمائی اور ان کو ایسے لشکروں سے مدد دی جو تم کو نظر نہیں آتے تھے اور کافروں کی بات کو پست کر دیا۔ اور بات تو خدا ہی کی بلند ہے۔ اور خدا زبردست (اور) حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/9/40)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thou wilt not find any people who believe in Allah and the Last Day, loving those who resist Allah and His Messenger, even though they were their fathers or their sons, or their brothers, or their kindred. For such He has written Faith in their hearts, and strengthened them with a spirit from Himself. And He will admit them to Gardens beneath which Rivers flow, to dwell therein (for ever). Allah will be well pleased with them, and they with Him. They are the Party of Allah. Truly it is the Party of Allah that will achieve Felicity.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا پر اور روز قیامت پر ایمان رکھتے ہیں تم ان کو خدا اور اس کے رسول کے دشمنوں سے دوستی کرتے ہوئے نہ دیکھو گے۔ خواہ وہ ان کے باپ یا بیٹے یا بھائی یا خاندان ہی کے لوگ ہوں۔ یہ وہ لوگ ہیں جن کے دلوں میں خدا نے ایمان (پتھر پر لکیر کی طرح) تحریر کردیا ہے اور فیض غیبی سے ان کی مدد کی ہے۔ اور وہ ان کو بہشتوں میں جن کے تلے نہریں بہہ رہی ہیں داخل کرے گا ہمیشہ ان میں رہیں گے۔ خدا ان سے خوش اور وہ خدا سے خوش۔ یہی گروہ خدا کا لشکر ہے۔ (اور) سن رکھو کہ خدا ہی کا لشکر مراد حاصل کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/58/22)
 
 #### 61:14 · [[061 As-Saf]]
@@ -173,6 +189,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, be supporters of Allāh, as when Jesus, the son of Mary, said to the disciples, "Who are my supporters for Allāh?" The disciples said, "We are supporters of Allāh." And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant.
 
 **English (Yusuf Ali):** O ye who believe! Be ye helpers of Allah: As said Jesus the son of Mary to the Disciples, "Who will be my helpers to (the work of) Allah?" Said the disciples, "We are Allah's helpers!" then a portion of the Children of Israel believed, and a portion disbelieved: But We gave power to those who believed, against their enemies, and they became the ones that prevailed.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کے مددگار بن جاؤ جیسے عیسیٰ ابن مریم نے حواریوں سے کہا کہ بھلا کون ہیں جو خدا کی طرف (بلانے میں) میرے مددگار ہوں۔ حواریوں نے کہا کہ ہم خدا کے مددگار ہیں۔ تو بنی اسرائیل میں سے ایک گروہ تو ایمان لے آیا اور ایک گروہ کافر رہا۔ آخر الامر ہم نے ایمان لانے والوں کو ان کے دشمنوں کے مقابلے میں مدد دی اور وہ غالب ہوگئے
 
 [Open on Quran.com](https://quran.com/61/14)
 

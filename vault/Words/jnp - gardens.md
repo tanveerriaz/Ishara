@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jnn - jann]]
+- [[jnn - cover]]
 
 ### Meaning
 **gardens** · Lemma **جَنَّة**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:25 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow. Whenever they are provided with a provision of fruit therefrom, they will say, "This is what we were provided with before." And it is given to them in likeness. And they will have therein purified spouses, and they will abide therein eternally.
 
 **English (Yusuf Ali):** But give glad tidings to those who believe and work righteousness, that their portion is Gardens, beneath which rivers flow. Every time they are fed with fruits therefrom, they say: "Why, this is what we were fed with before," for they are given things in similitude; and they have therein companions pure (and holy); and they abide therein (for ever).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے، ان کو خوشخبری سنا دو کہ ان کے لیے (نعمت کے) باغ ہیں، جن کے نیچے نہریں بہہ رہی ہیں۔ جب انہیں ان میں سے کسی قسم کا میوہ کھانے کو دیا جائے گا تو کہیں گے، یہ تو وہی ہے جو ہم کو پہلے دیا گیا تھا۔ اور ان کو ایک دوسرے کے ہم شکل میوے دیئے جائیں گے اور وہاں ان کے لیے پاک بیویاں ہوں گی اور وہ بہشتوں میں ہمیشہ رہیں گے
 
 [Open on Quran.com](https://quran.com/2/25)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We said: "O Adam! dwell thou and thy wife in the Garden; and eat of the bountiful things therein as (where and when) ye will; but approach not this tree, or ye run into harm and transgression."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کہا کہ اے آدم تم اور تمہاری بیوی بہشت میں رہو اور جہاں سے چاہو بے روک ٹوک کھاؤ (پیو) لیکن اس درخت کے پاس نہ جانا نہیں تو ظالموں میں (داخل) ہو جاؤ گے
+
 [Open on Quran.com](https://quran.com/2/35)
 
 #### 2:82 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But they who believe and do righteous deeds - those are the companions of Paradise; they will abide therein eternally.
 
 **English (Yusuf Ali):** But those who have faith and work righteousness, they are companions of the Garden: Therein shall they abide (For ever).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو ایمان لائیں اور نیک کام کریں، وہ جنت کے مالک ہوں گے (اور) ہمیشہ اس میں (عیش کرتے) رہیں گے
 
 [Open on Quran.com](https://quran.com/2/82)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And they say: "None shall enter Paradise unless he be a Jew or a Christian." Those are their (vain) desires. Say: "Produce your proof if ye are truthful."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (یہودی اور عیسائی) کہتے ہیں کہ یہودیوں اور عیسائیوں کے سوا کوئی بہشت میں نہیں جانے کا۔ یہ ان لوگوں کے خیالاتِ باطل ہیں۔ (اے پیغمبر ان سے) کہہ دو کہ اگر سچے ہو تو دلیل پیش کرو
+
 [Open on Quran.com](https://quran.com/2/111)
 
 #### 2:214 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, "When is the help of Allāh?" Unquestionably, the help of Allāh is near.
 
 **English (Yusuf Ali):** Or do ye think that ye shall enter the Garden (of bliss) without such (trials) as came to those who passed away before you? they encountered suffering and adversity, and were so shaken in spirit that even the Messenger and those of faith who were with him cried: "When (will come) the help of Allah?" Ah! Verily, the help of Allah is (always) near!
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم یہ خیال کرتے ہو کہ (یوں ہی) بہشت میں داخل ہوجاؤ گے اور ابھی تم کو پہلے لوگوں کی سی (مشکلیں) تو پیش آئی ہی نہیں۔ ان کو (بڑی بڑی) سختیاں اور تکلیفیں پہنچیں اور وہ (صعوبتوں میں) ہلا ہلا دیئے گئے۔ یہاں تک کہ پیغمبر اور مومن لوگ جو ان کے ساتھ تھے سب پکار اٹھے کہ کب خدا کی مدد آئے گی ۔ دیکھو خدا کی مدد (عن) قریب (آيا چاہتی) ہے
 
 [Open on Quran.com](https://quran.com/2/214)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Do not marry unbelieving women (idolaters), until they believe: A slave woman who believes is better than an unbelieving woman, even though she allures you. Nor marry (your girls) to unbelievers until they believe: A man slave who believes is better than an unbeliever, even though he allures you. Unbelievers do (but) beckon you to the Fire. But Allah beckons by His Grace to the Garden (of bliss) and forgiveness, and makes His Signs clear to mankind: That they may celebrate His praise.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (مومنو) مشرک عورتوں سے جب تک کہ ایمان نہ لائیں نکاح نہ کرنا۔ کیونکہ مشرک عورت خواہ تم کو کیسی ہی بھلی لگے اس سے مومن لونڈی بہتر ہے۔ اور (اسی طرح) مشرک مرد جب تک ایمان نہ لائیں مومن عورتوں کو ان کو زوجیت میں نہ دینا کیونکہ مشرک (مرد) سے خواہ وہ تم کو کیسا ہی بھلا لگے مومن غلام بہتر ہے۔ یہ (مشرک لوگوں کو) دوزخ کی طرف بلاتے ہیں۔ اور خدا اپنی مہربانی سے بہشت اور بخشش کی طرف بلاتا ہے۔ اور اپنے حکم لوگوں سے کھول کھول کر بیان کرتا ہے تاکہ نصیحت حاصل کریں
+
 [Open on Quran.com](https://quran.com/2/221)
 
 #### 2:265 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the example of those who spend their wealth seeking means to the approval of Allāh and assuring [reward for] themselves is like a garden on high ground which is hit by a downpour - so it yields its fruits in double. And [even] if it is not hit by a downpour, then a drizzle [is sufficient]. And Allāh, of what you do, is Seeing.
 
 **English (Yusuf Ali):** And the likeness of those who spend their substance, seeking to please Allah and to strengthen their souls, is as a garden, high and fertile: heavy rain falls on it but makes it yield a double increase of harvest, and if it receives not Heavy rain, light moisture sufficeth it. Allah seeth well whatever ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا کی خوشنودی حاصل کرنے کے لئے خلوص نیت سے اپنا مال خرچ کرتے ہیں ان کی مثال ایک باغ کی سی ہے جو اونچی جگہ پر واقع ہو(جب) اس پر مینہ پڑے تو دگنا پھل لائے۔ اور اگر مینہ نہ بھی پڑے تو خیر پھوار ہی سہی اور خدا تمہارے کاموں کو دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/2/265)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Does any of you wish that he should have a garden with date-palms and vines and streams flowing underneath, and all kinds of fruit, while he is stricken with old age, and his children are not strong (enough to look after themselves)- that it should be caught in a whirlwind, with fire therein, and be burnt up? Thus doth Allah make clear to you (His) Signs; that ye may consider.
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم میں کوئی یہ چاہتا ہے کہ اس کا کھجوروں اور انگوروں کا باغ ہو جس میں نہریں بہہ رہی ہوں اور اس میں اس کے لئے ہر قسم کے میوے موجود ہوں اور اسے بڑھاپا آپکڑے اور اس کے ننھے ننھے بچے بھی ہوں۔ تو (ناگہاں) اس باغ پر آگ کا بھرا ہوا بگولا چلے اور وہ جل کر (راکھ کا ڈھیر ہو) جائے۔ اس طرح خدا تم سے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم سوچو (اور سمجھو)
+
 [Open on Quran.com](https://quran.com/2/266)
 
 #### 3:15 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: Shall I give you glad tidings of things Far better than those? For the righteous are Gardens in nearness to their Lord, with rivers flowing beneath; therein is their eternal home; with companions pure (and holy); and the good pleasure of Allah. For in Allah's sight are (all) His servants,-
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر ان سے) کہو کہ بھلا میں تم کو ایسی چیز بتاؤں جو ان چیزوں سے کہیں اچھی ہو (سنو) جو لوگ پرہیزگار ہیں ان کے لیے خدا کے ہاں باغات (بہشت) ہیں جن کے نیچے نہریں بہہ رہی ہیں ان میں وہ ہمیشہ رہیں گے اور پاکیزہ عورتیں ہیں اور (سب سے بڑھ کر) خدا کی خوشنودی اور خدا (اپنے نیک) بندوں کو دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/3/15)
 
 #### 3:133 · [[003 Ali Imran]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And hasten to forgiveness from your Lord and a garden [i.e., Paradise] as wide as the heavens and earth, prepared for the righteous
 
 **English (Yusuf Ali):** Be quick in the race for forgiveness from your Lord, and for a Garden whose width is that (of the whole) of the heavens and of the earth, prepared for the righteous,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اپنے پروردگار کی بخشش اور بہشت کی طرف لپکو جس کا عرض آسمان اور زمین کے برابر ہے اور جو (خدا سے) ڈرنے والوں کے لیے تیار کی گئی ہے
 
 [Open on Quran.com](https://quran.com/3/133)
 

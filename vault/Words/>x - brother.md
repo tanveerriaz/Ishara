@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>xw - akhw]]
+- [[>xw - brother]]
 
 ### Meaning
 **brother** · Lemma **أَخ**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:178 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, prescribed for you is legal retribution for those murdered - the free for the free, the slave for the slave, and the female for the female. But whoever overlooks from his brother [i.e., the killer] anything, then there should be a suitable follow-up and payment to him [i.e., the deceased's heir or legal representative] with good conduct. This is an alleviation from your Lord and a mercy. But whoever transgresses after that will have a painful punishment.
 
 **English (Yusuf Ali):** O ye who believe! the law of equality is prescribed to you in cases of murder: the free for the free, the slave for the slave, the woman for the woman. But if any remission is made by the brother of the slain, then grant any reasonable demand, and compensate him with handsome gratitude, this is a concession and a Mercy from your Lord. After this whoever exceeds the limits shall be in grave penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم کو مقتولوں کے بارےمیں قصاص (یعنی خون کے بدلے خون) کا حکم دیا جاتا ہے (اس طرح پر کہ)آزاد کے بدلے آزاد (مارا جائے) اور غلام کے بدلے غلام اور عورت کے بدلے عورت اور قاتل کو اس کے (مقتول) بھائی (کے قصاص میں) سے کچھ معاف کردیا جائے تو (وارث مقتول) کو پسندیدہ طریق سے (قرار داد کی) پیروی (یعنی مطالبہٴ خون بہا) کرنا اور (قاتل کو) خوش خوئی کے ساتھ ادا کرنا چاہیئے یہ پروردگار کی طرف سے تمہارے لئے آسانی اور مہربانی ہے جو اس کے بعد زیادتی کرے اس کے لئے دکھ کا عذاب ہے
 
 [Open on Quran.com](https://quran.com/2/178)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Their bearings) on this life and the Hereafter. They ask thee concerning orphans. Say: "The best thing to do is what is for their good; if ye mix their affairs with yours, they are your brethren; but Allah knows the man who means mischief from the man who means good. And if Allah had wished, He could have put you into difficulties: He is indeed Exalted in Power, Wise."
 
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) دنیا اور آخرت (کی باتوں) میں (غور کرو)۔ اور تم سے یتیموں کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان کی (حالت کی) اصلاح بہت اچھا کام ہے۔ اور اگر تم ان سے مل جل کر رہنا (یعنی خرچ اکھٹا رکھنا) چاہو تو وہ تمہارے بھائی ہیں اور خدا خوب جانتا ہے کہ خرابی کرنے والا کون ہے اور اصلاح کرنے والا کون۔ اور اگر خدا چاہتا تو تم کو تکلیف میں ڈال دیتا۔بےشک خدا غالب (اور) حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/2/220)
 
 #### 3:103 · [[003 Ali Imran]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And hold firmly to the rope of Allāh all together and do not become divided. And remember the favor of Allāh upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allāh make clear to you His verses that you may be guided.
 
 **English (Yusuf Ali):** And hold fast, all together, by the rope which Allah (stretches out for you), and be not divided among yourselves; and remember with gratitude Allah's favour on you; for ye were enemies and He joined your hearts in love, so that by His Grace, ye became brethren; and ye were on the brink of the pit of Fire, and He saved you from it. Thus doth Allah make His Signs clear to you: That ye may be guided.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور سب مل کر خدا کی (ہدایت کی رسی) کو مضبوط پکڑے رہنا اور متفرق نہ ہونا اور خدا کی اس مہربانی کو یاد کرو جب تم ایک دوسرے کے دشمن تھے تو اس نے تمہارے دلوں میں الفت ڈال دی اور تم اس کی مہربانی سے بھائی بھائی ہوگئے اور تم آگ کے گڑھے کے کنارے تک پہنچ چکے تھے تو خدا نے تم کو اس سے بچا لیا اس طرح خدا تم کو اپنی آیتیں کھول کھول کر سناتا ہے تاکہ تم ہدایت پاؤ
 
 [Open on Quran.com](https://quran.com/3/103)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Be not like the Unbelievers, who say of their brethren, when they are travelling through the Earth or engaged in fighting: "If they had stayed with us, they would not have died, or been slain." This that Allah may make it a cause of sighs and regrets in their hearts. It is Allah that gives Life and Death, and Allah sees well all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! ان لوگوں جیسے نہ ہونا جو کفر کرتے ہیں اور ان کے (مسلمان) بھائی جب (خدا کی راہ میں) سفر کریں (اور مر جائیں) یا جہاد کو نکلیں (اور مارے جائیں) تو ان کی نسبت کہتے ہیں کہ اگر وہ ہمارے پاس رہتے تو نہ مرتے اور نہ مارے جاتے۔ ان باتوں سے مقصود یہ ہے کہ خدا ان لوگوں کے دلوں میں افسوس پیدا کر دے اور زندگی اور موت تو خدا ہی دیتا ہے اور خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/3/156)
 
 #### 3:168 · [[003 Ali Imran]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who said about their brothers while sitting [at home], "If they had obeyed us, they would not have been killed." Say, "Then prevent death from yourselves, if you should be truthful."
 
 **English (Yusuf Ali):** (They are) the ones that say, (of their brethren slain), while they themselves sit (at ease): "If only they had listened to us they would not have been slain." Say: "Avert death from your own selves, if ye speak the truth."
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ خود تو (جنگ سے بچ کر) بیٹھ ہی رہے تھے مگر (جنہوں نے راہ خدا میں جانیں قربان کردیں) اپنے (ان) بھائیوں کے بارے میں بھی کہتے ہیں کہ اگر ہمارا کہا مانتے تو قتل نہ ہوتے۔ کہہ دو کہ اگر سچے ہو تو اپنے اوپر سے موت کو ٹال دینا
 
 [Open on Quran.com](https://quran.com/3/168)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In what your wives leave, your share is a half, if they leave no child; but if they leave a child, ye get a fourth; after payment of legacies and debts. In what ye leave, their share is a fourth, if ye leave no child; but if ye leave a child, they get an eighth; after payment of legacies and debts. If the man or woman whose inheritance is in question, has left neither ascendants nor descendants, but has left a brother or a sister, each one of the two gets a sixth; but if more than two, they share in a third; after payment of legacies and debts; so that no loss is caused (to any one). Thus is it ordained by Allah; and Allah is All-knowing, Most Forbearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو مال تمہاری عورتیں چھوڑ مریں۔ اگر ان کے اولاد نہ ہو تو اس میں نصف حصہ تمہارا۔ اور اگر اولاد ہو تو ترکے میں تمہارا حصہ چوتھائی۔ (لیکن یہ تقسیم) وصیت (کی تعمیل) کے بعد جو انہوں نے کی ہو یا قرض کے (ادا ہونے کے بعد جو ان کے ذمے ہو، کی جائے گی) اور جو مال تم (مرد) چھوڑ مرو۔ اگر تمہارے اولاد نہ ہو تو تمہاری عورتوں کا اس میں چوتھا حصہ۔ اور اگر اولاد ہو تو ان کا آٹھواں حصہ (یہ حصے) تمہاری وصیت (کی تعمیل) کے بعد جو تم نے کی ہو اور (ادائے) قرض کے (بعد تقسیم کئے جائیں گے) اور اگر ایسے مرد یا عورت کی میراث ہو جس کے نہ باپ ہو نہ بیٹا مگر اس کے بھائی بہن ہو تو ان میں سے ہر ایک کا چھٹا حصہ اور اگر ایک سے زیادہ ہوں تو سب ایک تہائی میں شریک ہوں گے (یہ حصے بھی ادائے وصیت و قرض بشرطیکہ ان سے میت نے کسی کا نقصان نہ کیا ہو (تقسیم کئے جائیں گے) یہ خدا کا فرمان ہے۔ اور خدا نہایت علم والا (اور) نہایت حلم والا ہے
+
 [Open on Quran.com](https://quran.com/4/12)
 
 #### 4:23 · [[004 An-Nisa]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Prohibited to you [for marriage] are your mothers, your daughters, your sisters, your father's sisters, your mother's sisters, your brother's daughters, your sister's daughters, your [milk] mothers who nursed you, your sisters through nursing, your wives' mothers, and your step-daughters under your guardianship [born] of your wives unto whom you have gone in. But if you have not gone in unto them, there is no sin upon you. And [also prohibited are] the wives of your sons who are from your [own] loins, and that you take [in marriage] two sisters simultaneously, except for what has already occurred. Indeed, Allāh is ever Forgiving and Merciful.
 
 **English (Yusuf Ali):** Prohibited to you (For marriage) are:- Your mothers, daughters, sisters; father's sisters, Mother's sisters; brother's daughters, sister's daughters; foster-mothers (Who gave you suck), foster-sisters; your wives' mothers; your step-daughters under your guardianship, born of your wives to whom ye have gone in,- no prohibition if ye have not gone in;- (Those who have been) wives of your sons proceeding from your loins; and two sisters in wedlock at one and the same time, except for what is past; for Allah is Oft-forgiving, Most Merciful;-
+
+**Urdu (Fatah Muhammad Jalandhari):** تم پر تمہاری مائیں اور بیٹیاں اور بہنیں اور پھوپھیاں اور خالائیں اور بھتیجیاں اور بھانجیاں اور وہ مائیں جنہوں نے تم کو دودھ پلایا ہو اور رضاعی بہنیں اور ساسیں حرام کر دی گئی ہیں اور جن عورتوں سے تم مباشرت کر چکے ہو ان کی لڑکیاں جنہیں تم پرورش کرتے (ہو وہ بھی تم پر حرام ہیں) ہاں اگر ان کے ساتھ تم نے مباشرت نہ کی ہو تو (ان کی لڑکیوں کے ساتھ نکاح کر لینے میں) تم پر کچھ گناہ نہیں اور تمہارے صلبی بیٹوں کی عورتیں بھی اور دو بہنوں کا اکٹھا کرنا بھی (حرام ہے) مگر جو ہو چکا (سو ہو چکا) بے شک خدا بخشنے والا (اور) رحم کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/4/23)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "O my Lord! I have power only over myself and my brother: so separate us from this rebellious people!"
 
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے (خدا سے) التجا کی کہ پروردگار میں اپنے اور اپنے بھائی کے سوا اور کسی پر اختیار نہیں رکھتا تو ہم میں اور ان نافرمان لوگوں میں جدائی کردے
+
 [Open on Quran.com](https://quran.com/5/25)
 
 #### 5:30 · [[005 Al-Maidah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The (selfish) soul of the other led him to the murder of his brother: he murdered him, and became (himself) one of the lost ones.
 
+**Urdu (Fatah Muhammad Jalandhari):** مگر اس کے نفس نے اس کو بھائی کے قتل ہی کی ترغیب دی تو اس نے اسے قتل کر دیا اور خسارہ اٹھانے والوں میں ہو گیا
+
 [Open on Quran.com](https://quran.com/5/30)
 
 #### 5:31 · [[005 Al-Maidah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then Allāh sent a crow searching [i.e., scratching] in the ground to show him how to hide the disgrace of his brother. He said, "O woe to me! Have I failed to be like this crow and hide the disgrace [i.e., body] of my brother?" And he became of the regretful.
 
 **English (Yusuf Ali):** Then Allah sent a raven, who scratched the ground, to show him how to hide the shame of his brother. "Woe is me!" said he; "Was I not even able to be as this raven, and to hide the shame of my brother?" then he became full of regrets-
+
+**Urdu (Fatah Muhammad Jalandhari):** اب خدا نے ایک کوّا بھیجا جو زمین کریدنے لگا تاکہ اسے دکھائے کہ اپنے بھائی کی لاش کو کیونکر چھپائے کہنے لگا اے ہے مجھ سے اتنا بھی نہ ہو سکا کہ اس کوے کے برابر ہوتا کہ اپنے بھائی کی لاش چھپا دیتا پھر وہ پشیمان ہوا
 
 [Open on Quran.com](https://quran.com/5/31)
 

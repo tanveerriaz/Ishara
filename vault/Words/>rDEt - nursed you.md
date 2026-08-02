@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:23 · [[004 An-Nisa]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Prohibited to you [for marriage] are your mothers, your daughters, your sisters, your father's sisters, your mother's sisters, your brother's daughters, your sister's daughters, your [milk] mothers who nursed you, your sisters through nursing, your wives' mothers, and your step-daughters under your guardianship [born] of your wives unto whom you have gone in. But if you have not gone in unto them, there is no sin upon you. And [also prohibited are] the wives of your sons who are from your [own] loins, and that you take [in marriage] two sisters simultaneously, except for what has already occurred. Indeed, Allāh is ever Forgiving and Merciful.
 
 **English (Yusuf Ali):** Prohibited to you (For marriage) are:- Your mothers, daughters, sisters; father's sisters, Mother's sisters; brother's daughters, sister's daughters; foster-mothers (Who gave you suck), foster-sisters; your wives' mothers; your step-daughters under your guardianship, born of your wives to whom ye have gone in,- no prohibition if ye have not gone in;- (Those who have been) wives of your sons proceeding from your loins; and two sisters in wedlock at one and the same time, except for what is past; for Allah is Oft-forgiving, Most Merciful;-
+
+**Urdu (Fatah Muhammad Jalandhari):** تم پر تمہاری مائیں اور بیٹیاں اور بہنیں اور پھوپھیاں اور خالائیں اور بھتیجیاں اور بھانجیاں اور وہ مائیں جنہوں نے تم کو دودھ پلایا ہو اور رضاعی بہنیں اور ساسیں حرام کر دی گئی ہیں اور جن عورتوں سے تم مباشرت کر چکے ہو ان کی لڑکیاں جنہیں تم پرورش کرتے (ہو وہ بھی تم پر حرام ہیں) ہاں اگر ان کے ساتھ تم نے مباشرت نہ کی ہو تو (ان کی لڑکیوں کے ساتھ نکاح کر لینے میں) تم پر کچھ گناہ نہیں اور تمہارے صلبی بیٹوں کی عورتیں بھی اور دو بہنوں کا اکٹھا کرنا بھی (حرام ہے) مگر جو ہو چکا (سو ہو چکا) بے شک خدا بخشنے والا (اور) رحم کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/4/23)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Day ye shall see it, every mother giving suck shall forget her suckling-babe, and every pregnant female shall drop her load (unformed): thou shalt see mankind as in a drunken riot, yet not drunk: but dreadful will be the Wrath of Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے مخاطب) جس دن تو اس کو دیکھے گا (اُس دن یہ حال ہوگا کہ) تمام دودھ پلانے والی عورتیں اپنے بچوں کو بھول جائیں گی۔ اور تمام حمل والیوں کے حمل گر پڑیں گے۔ اور لوگ تجھ کو متوالے نظر آئیں گے مگر وہ متوالے نہیں ہوں گے بلکہ (عذاب دیکھ کر) مدہوش ہو رہے ہوں گے۔ بےشک خدا کا عذاب بڑا سخت ہے
+
 [Open on Quran.com](https://quran.com/22/2)
 
 #### 28:7 · [[028 Al-Qasas]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So We sent this inspiration to the mother of Moses: "Suckle (thy child), but when thou hast fears about him, cast him into the river, but fear not nor grieve: for We shall restore him to thee, and We shall make him one of Our messengers."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسٰی کی ماں کی طرف وحی بھیجی کہ اس کو دودھ پلاؤ جب تم کو اس کے بارے میں کچھ خوف پیدا ہو تو اسے دریا میں ڈال دینا اور نہ تو خوف کرنا اور نہ رنج کرنا۔ ہم اس کو تمہارے پاس واپس پہنچا دیں گے اور (پھر) اُسے پیغمبر بنا دیں گے
+
 [Open on Quran.com](https://quran.com/28/7)
 
 #### 65:6 · [[065 At-Talaq]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Lodge them [in a section] of where you dwell out of your means and do not harm them in order to oppress them. And if they should be pregnant, then spend on them until they give birth. And if they breastfeed for you, then give them their payment and confer among yourselves in the acceptable way; but if you are in discord, then there may breastfeed for him [i.e., the father] another woman.
 
 **English (Yusuf Ali):** Let the women live (in 'iddat) in the same style as ye live, according to your means: Annoy them not, so as to restrict them. And if they carry (life in their wombs), then spend (your substance) on them until they deliver their burden: and if they suckle your (offspring), give them their recompense: and take mutual counsel together, according to what is just and reasonable. And if ye find yourselves in difficulties, let another woman suckle (the child) on the (father's) behalf.
+
+**Urdu (Fatah Muhammad Jalandhari):** عورتوں کو (ایام عدت میں) اپنے مقدور کے مطابق وہیں رکھو جہاں خود رہتے ہو اور ان کو تنگ کرنے کے لئے تکلیف نہ دو اور اگر حمل سے ہوں تو بچّہ جننے تک ان کا خرچ دیتے رہو۔ پھر اگر وہ بچّے کو تمہارے کہنے سے دودھ پلائیں تو ان کو ان کی اجرت دو۔ اور (بچّے کے بارے میں) پسندیدہ طریق سے مواقفت رکھو۔ اور اگر باہم ضد (اور نااتفاقی) کرو گے تو (بچّے کو) اس کے (باپ کے) کہنے سے کوئی اور عورت دودھ پلائے گی
 
 [Open on Quran.com](https://quran.com/65/6)
 

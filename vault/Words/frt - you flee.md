@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[frr - f-r-r]]
+- [[frr - flight]]
 
 ### Meaning
 **you flee** · Lemma **فَرَّتْ**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 26:21 · [[026 Ash-Shuara]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So I fled from you when I feared you. Then my Lord granted me judgement [i.e., wisdom and prophet hood] and appointed me [as one] of the messengers.
 
 **English (Yusuf Ali):** "So I fled from you (all) when I feared you; but my Lord has (since) invested me with judgment (and wisdom) and appointed me as one of the messengers.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جب مجھے تم سے ڈر لگا تو تم میں سے بھاگ گیا۔ پھر خدا نے مجھ کو نبوت وعلم بخشا اور مجھے پیغمبروں میں سے کیا
 
 [Open on Quran.com](https://quran.com/26/21)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Running away will not profit you if ye are running away from death or slaughter; and even if (ye do escape), no more than a brief (respite) will ye be allowed to enjoy!"
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر تم مرنے یا مارے سے بھاگتے ہو تو بھاگنا تم کو فائدہ نہیں دے گا اور اس وقت تم بہت ہی کم فائدہ اٹھاؤ گے
+
 [Open on Quran.com](https://quran.com/33/16)
 
 #### 51:50 · [[051 Adh-Dhariyat]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So flee to Allāh. Indeed, I am to you from Him a clear warner.
 
 **English (Yusuf Ali):** Hasten ye then (at once) to Allah: I am from Him a Warner to you, clear and open!
+
+**Urdu (Fatah Muhammad Jalandhari):** تو تم لوگ خدا کی طرف بھاگ چلو میں اس کی طرف سے تم کو صریح رستہ بتانے والا ہوں
 
 [Open on Quran.com](https://quran.com/51/50)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "The Death from which ye flee will truly overtake you: then will ye be sent back to the Knower of things secret and open: and He will tell you (the truth of) the things that ye did!"
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ موت جس سے تم گریز کرتے ہو وہ تو تمہارے سامنے آ کر رہے گی۔ پھر تم پوشیدہ اور ظاہر کے جاننے والے (خدا) کی طرف لوٹائے جاؤ گے پھر جو کچھ تم کرتے رہے ہو وہ سب تمہیں بتائے گا
+
 [Open on Quran.com](https://quran.com/62/8)
 
 #### 74:51 · [[074 Al-Muddaththir]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Fleeing from a lion!
 
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) شیر سے ڈر کر بھاگ جاتے ہیں
+
 [Open on Quran.com](https://quran.com/74/51)
 
 #### 80:34 · [[080 Abasa]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** On the Day a man will flee from his brother
 
 **English (Yusuf Ali):** That Day shall a man flee from his own brother,
+
+**Urdu (Fatah Muhammad Jalandhari):** اس دن آدمی اپنے بھائی سے دور بھاگے گا
 
 [Open on Quran.com](https://quran.com/80/34)
 

@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:11 · [[003 Ali Imran]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Theirs is] like the custom of the people of Pharaoh and those before them. They denied Our signs, so Allāh seized them for their sins. And Allāh is severe in penalty.
 
 **English (Yusuf Ali):** (Their plight will be) no better than that of the people of Pharaoh, and their predecessors: They denied our Signs, and Allah called them to account for their sins. For Allah is strict in punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کا حال بھی فرعونیوں اور ان سے پہلے لوگوں کا سا ہوگا جنہوں نے ہماری آیتوں کی تکذیب کی تھی تو خدا نے ان کو ان کے گناہوں کے سبب (عذاب میں) پکڑ لیا تھا اور خدا سخت عذاب کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/3/11)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Namely), those who say: "Our Lord! we have indeed believed: forgive us, then, our sins, and save us from the agony of the Fire;"-
 
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا سے التجا کرتے ہیں کہ اے پروردگار ہم ایمان لے آئے سو ہم کو ہمارے گناہ معاف فرما اور دوزخ کے عذاب سے محفوظ رکھ
+
 [Open on Quran.com](https://quran.com/3/16)
 
 #### 3:31 · [[003 Ali Imran]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O Muḥammad], "If you should love Allāh, then follow me, [so] Allāh will love you and forgive you your sins. And Allāh is Forgiving and Merciful."
 
 **English (Yusuf Ali):** Say: "If ye do love Allah, Follow me: Allah will love you and forgive you your sins: For Allah is Oft-Forgiving, Most Merciful."
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر لوگوں سے) کہہ دو کہ اگر تم خدا کو دوست رکھتے ہو تو میری پیروی کرو خدا بھی تمہیں دوست رکھے گا اور تمہارے گناہ معاف کر دے گا اور خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/3/31)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And those who, having done something to be ashamed of, or wronged their own souls, earnestly bring Allah to mind, and ask for forgiveness for their sins,- and who can forgive sins except Allah?- and are never obstinate in persisting knowingly in (the wrong) they have done.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ کہ جب کوئی کھلا گناہ یا اپنے حق میں کوئی اور برائی کر بیٹھتے ہیں تو خدا کو یاد کرتے اور اپنے گناہوں کی بخشش مانگتے ہیں اور خدا کے سوا گناہ بخش بھی کون سکتا ہے؟ اور جان بوجھ کر اپنے افعال پر اڑے نہیں رہتے
+
 [Open on Quran.com](https://quran.com/3/135)
 
 #### 3:147 · [[003 Ali Imran]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And their words were not but that they said, "Our Lord, forgive us our sins and the excess [committed] in our affairs and plant firmly our feet and give us victory over the disbelieving people."
 
 **English (Yusuf Ali):** All that they said was: "Our Lord! Forgive us our sins and anything We may have done that transgressed our duty: Establish our feet firmly, and help us against those that resist Faith."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس حالت میں) ان کے منہ سے کوئی بات نکلتی ہے تو یہی کہ اے پروردگار ہمارے گناہ اور زیادتیاں جو ہم اپنے کاموں میں کرتے رہے ہیں معاف فرما اور ہم کو ثابت قدم رکھ اور کافروں پر فتح عنایت فرما
 
 [Open on Quran.com](https://quran.com/3/147)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Our Lord! we have heard the call of one calling (Us) to Faith, 'Believe ye in the Lord,' and we have believed. Our Lord! Forgive us our sins, blot out from us our iniquities, and take to Thyself our souls in the company of the righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگارہم نے ایک ندا کرنے والے کو سنا کہ ایمان کے لیے پکار رہا تھا (یعنی) اپنے پروردگار پر ایمان لاؤ تو ہم ایمان لے آئے اے پروردگار ہمارے گناہ معاف فرما اور ہماری برائیوں کو ہم سے محو کر اور ہم کو دنیا سے نیک بندوں کے ساتھ اٹھا
+
 [Open on Quran.com](https://quran.com/3/193)
 
 #### 5:18 · [[005 Al-Maidah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But the Jews and the Christians say, "We are the children of Allāh and His beloved." Say, "Then why does He punish you for your sins?" Rather, you are human beings from among those He has created. He forgives whom He wills, and He punishes whom He wills. And to Allāh belongs the dominion of the heavens and the earth and whatever is between them, and to Him is the [final] destination.
 
 **English (Yusuf Ali):** (Both) the Jews and the Christians say: "We are sons of Allah, and his beloved." Say: "Why then doth He punish you for your sins? Nay, ye are but men,- of the men he hath created: He forgiveth whom He pleaseth, and He punisheth whom He pleaseth: and to Allah belongeth the dominion of the heavens and the earth, and all that is between: and unto Him is the final goal (of all)"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہود اور نصاریٰ کہتے ہیں کہ ہم خدا کے بیٹے اور اس کے پیارے ہیں کہو کہ پھر وہ تمہاری بداعمالیوں کے سبب تمھیں عذاب کیوں دیتا ہے (نہیں) بلکہ تم اس کی مخلوقات میں (دوسروں کی طرح کے) انسان ہو وہ جسے چاہے بخشے اور جسے چاہے عذاب دے اور آسمان زمین اور جو کچھ ان دونوں میں ہے سب پر خدا ہی کی حکومت ہے اور (سب کو) اسی کی طرف لوٹ کر جانا ہے
 
 [Open on Quran.com](https://quran.com/5/18)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And this (He commands): Judge thou between them by what Allah hath revealed, and follow not their vain desires, but beware of them lest they beguile thee from any of that (teaching) which Allah hath sent down to thee. And if they turn away, be assured that for some of their crime it is Allah's purpose to punish them. And truly most men are rebellious.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (ہم پھر تاکید کرتے ہیں کہ) جو (حکم) خدا نے نازل فرمایا ہے اسی کے مطابق ان میں فیصلہ کرنا اور ان کی خواہشوں کی پیروی نہ کرنا اور ان سے بچتے رہنا کہ کسی حکم سے جو خدا نے تم پر نازل فرمایا ہے یہ کہیں تم کو بہکانہ دیں اگر یہ نہ مانیں تو جان لو کہ خدا چاہتا ہے کہ ان کے بعض گناہوں کے سبب ان پر مصیبت نازل کرے اور اکثر لوگ تو نافرمان ہیں
+
 [Open on Quran.com](https://quran.com/5/49)
 
 #### 6:6 · [[006 Al-Anam]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** See they not how many of those before them We did destroy?- generations We had established on the earth, in strength such as We have not given to you - for whom We poured out rain from the skies in abundance, and gave (fertile) streams flowing beneath their (feet): yet for their sins We destroyed them, and raised in their wake fresh generations (to succeed them).
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے کتنی امتوں کو ہلاک کر دیا جن کے پاؤں ملک میں ایسے جما دیئے تھے کہ تمہارے پاؤں بھی ایسے نہیں جمائے اور ان پر آسمان سے لگاتار مینہ برسایا اور نہریں بنا دیں جو ان کے (مکانوں کے) نیچے بہہ رہی تھیں پھر ان کو ان کے گناہوں کے سبب ہلاک کر دیا اور ان کے بعد اور امتیں پیدا کر دیں
+
 [Open on Quran.com](https://quran.com/6/6)
 
 #### 7:100 · [[007 Al-Araf]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Has it not become clear to those who inherited the earth after its [previous] people that if We willed, We could afflict them for their sins? But We seal over their hearts so they do not hear.
 
 **English (Yusuf Ali):** To those who inherit the earth in succession to its (previous) possessors, is it not a guiding, (lesson) that, if We so willed, We could punish them (too) for their sins, and seal up their hearts so that they could not hear?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان لوگوں کو جو اہلِ زمین کے (مرجانے کے) بعد زمین کے مالک ہوتے ہیں، یہ امر موجب ہدایت نہیں ہوا کہ اگر ہم چاہیں تو ان کے گناہوں کے سبب ان پر مصیبت ڈال دیں۔ اور ان کے دلوں پر مہر لگادیں کہ کچھ سن ہی نہ سکیں
 
 [Open on Quran.com](https://quran.com/7/100)
 

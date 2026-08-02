@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[hjr - hjr]]
+- [[hjr - cut off]]
 
 ### Meaning
 **emigrants** · Lemma **مُهاجِر**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:100 · [[004 An-Nisa]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whoever emigrates for the cause of Allāh will find on the earth many [alternative] locations and abundance. And whoever leaves his home as an emigrant to Allāh and His Messenger and then death overtakes him - his reward has already become incumbent upon Allāh. And Allāh is ever Forgiving and Merciful.
 
 **English (Yusuf Ali):** He who forsakes his home in the cause of Allah, finds in the earth Many a refuge, wide and spacious: Should he die as a refugee from home for Allah and His Messenger, His reward becomes due and sure with Allah: And Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص خدا کی راہ میں گھر بار چھوڑ جائے وہ زمین میں بہت سی جگہ اور کشائش پائے گا اور جو شخص خدا اور رسول کی طرف ہجرت کرکے گھر سے نکل جائے پھر اس کو موت آپکڑے تو اس کا ثواب خدا کے ذمے ہوچکا اور خدا بخشنے والا اور مہربان ہے
 
 [Open on Quran.com](https://quran.com/4/100)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The vanguard (of Islam)- the first of those who forsook (their homes) and of those who gave them aid, and (also) those who follow them in (all) good deeds,- well-pleased is Allah with them, as are they with Him: for them hath He prepared gardens under which rivers flow, to dwell therein for ever: that is the supreme felicity.
 
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے سبقت کی (یعنی سب سے) پہلے (ایمان لائے) مہاجرین میں سے بھی اور انصار میں سے بھی۔ اور جنہوں نے نیکو کاری کے ساتھ ان کی پیروی کی خدا ان سے خوش ہے اور وہ خدا سے خوش ہیں اور اس نے ان کے لیے باغات تیار کئے ہیں جن کے نیچے نہریں بہہ رہی ہیں اور ہمیشہ ان میں رہیں گے۔ یہ بڑی کامیابی ہے
+
 [Open on Quran.com](https://quran.com/9/100)
 
 #### 9:117 · [[009 At-Tawbah]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh has already forgiven the Prophet and the Muhājireen and the Anṣār who followed him in the hour of difficulty after the hearts of a party of them had almost inclined [to doubt], and then He forgave them. Indeed, He was to them Kind and Merciful.
 
 **English (Yusuf Ali):** Allah turned with favour to the Prophet, the Muhajirs, and the Ansar,- who followed him in a time of distress, after that the hearts of a part of them had nearly swerved (from duty); but He turned to them (also): for He is unto them Most Kind, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** بےشک خدا نے پیغمبر پر مہربانی کی اور مہاجرین اور انصار پر جو باوجود اس کے کہ ان میں سے بعضوں کے دل جلد پھر جانے کو تھے۔ مشکل کی گھڑی میں پیغمبر کے ساتھ رہے۔ پھر خدا نے ان پر مہربانی فرمائی۔ بےشک وہ ان پر نہایت شفقت کرنے والا (اور) مہربان ہے
 
 [Open on Quran.com](https://quran.com/9/117)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Let not those among you who are endued with grace and amplitude of means resolve by oath against helping their kinsmen, those in want, and those who have left their homes in Allah's cause: let them forgive and overlook, do you not wish that Allah should forgive you? For Allah is Oft-Forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم میں صاحب فضل (اور صاحب) وسعت ہیں، وہ اس بات کی قسم نہ کھائیں کہ رشتہ داروں اور محتاجوں اور وطن چھوڑ جانے والوں کو کچھ خرچ پات نہیں دیں گے۔ ان کو چاہیئے کہ معاف کردیں اور درگزر کریں۔ کیا تم پسند نہیں کرتے کہ خدا تم کو بخش دے؟ اور خدا تو بخشنے والا مہربان ہے
+
 [Open on Quran.com](https://quran.com/24/22)
 
 #### 29:26 · [[029 Al-Ankabut]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Lot believed him. [Abraham] said, "Indeed, I will emigrate to [the service of] my Lord. Indeed, He is the Exalted in Might, the Wise."
 
 **English (Yusuf Ali):** But Lut had faith in Him: He said: "I will leave home for the sake of my Lord: for He is Exalted in Might, and Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** پس اُن پر (ایک) لوط ایمان لائے اور (ابراہیم) کہنے لگے کہ میں اپنے پروردگار کی طرف ہجرت کرنے والا ہوں۔ بیشک وہ غالب حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/29/26)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Prophet is closer to the Believers than their own selves, and his wives are their mothers. Blood-relations among each other have closer personal ties, in the Decree of Allah. Than (the Brotherhood of) Believers and Muhajirs: nevertheless do ye what is just to your closest friends: such is the writing in the Decree (of Allah).
 
+**Urdu (Fatah Muhammad Jalandhari):** پیغمبر مومنوں پر اُن کی جانوں سے بھی زیادہ حق رکھتے ہیں اور پیغمبر کی بیویاں اُن کی مائیں ہیں۔ اور رشتہ دار آپس میں کتاب الله کے رُو سے مسلمانوں اور مہاجروں سے ایک دوسرے (کے ترکے) کے زیادہ حقدار ہیں۔ مگر یہ کہ تم اپنے دوستوں سے احسان کرنا چاہو۔ (تو اور بات ہے)۔ یہ حکم کتاب یعنی (قرآن) میں لکھ دیا گیا ہے
+
 [Open on Quran.com](https://quran.com/33/6)
 
 #### 59:8 · [[059 Al-Hashr]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For the poor emigrants who were expelled from their homes and their properties, seeking bounty from Allāh and [His] approval and supporting [the cause of] Allāh and His Messenger, [there is also a share]. Those are the truthful.
 
 **English (Yusuf Ali):** (Some part is due) to the indigent Muhajirs, those who were expelled from their homes and their property, while seeking Grace from Allah and (His) Good Pleasure, and aiding Allah and His Messenger: such are indeed the sincere ones:-
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور) ان مفلسان تارک الوطن کے لئے بھی جو اپنے گھروں اور مالوں سے خارج (اور جدا) کر دیئے گئے ہیں (اور) خدا کے فضل اور اس کی خوشنودی کے طلبگار اور خدا اور اس کے پیغمبر کے مددگار ہیں۔ یہی لوگ سچے (ایماندار) ہیں
 
 [Open on Quran.com](https://quran.com/59/8)
 

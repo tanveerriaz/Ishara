@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:30 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when your Lord said to the angels, "Indeed, I will make upon the earth a successive authority." They said, "Will You place upon it one who causes corruption therein and sheds blood, while we exalt You with praise and declare Your perfection?" He [Allāh] said, "Indeed, I know that which you do not know."
 
 **English (Yusuf Ali):** Behold, thy Lord said to the angels: "I will create a vicegerent on earth." They said: "Wilt Thou place therein one who will make mischief therein and shed blood?- whilst we do celebrate Thy praises and glorify Thy holy (name)?" He said: "I know what ye know not."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (وہ وقت یاد کرنے کے قابل ہے) جب تمہارے پروردگار نے فرشتوں سے فرمایا کہ میں زمین میں (اپنا) نائب بنانے والا ہوں۔ انہوں نے کہا۔ کیا تُو اس میں ایسے شخص کو نائب بنانا چاہتا ہے جو خرابیاں کرے اور کشت وخون کرتا پھرے اور ہم تیری تعریف کے ساتھ تسبیح وتقدیس کرتے رہتے ہیں۔ (خدا نے) فرمایا میں وہ باتیں جانتا ہوں جو تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/2/30)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And He taught Adam the names of all things; then He placed them before the angels, and said: "Tell me the names of these if ye are right."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس نے آدم کو سب (چیزوں کے) نام سکھائے پھر ان کو فرشتوں کے سامنے کیا اور فرمایا کہ اگر تم سچے ہو تو مجھے ان کے نام بتاؤ
+
 [Open on Quran.com](https://quran.com/2/31)
 
 #### 2:34 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] when We said to the angels, "Prostrate before Adam"; so they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers.
 
 **English (Yusuf Ali):** And behold, We said to the angels: "Bow down to Adam" and they bowed down. Not so Iblis: he refused and was haughty: He was of those who reject Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے فرشتوں کو حکم دیا کہ آدم کے آگے سجدہ کرو تو وہ سجدے میں گر پڑے مگر شیطان نے انکار کیا اور غرور میں آکر کافر بن گیا
 
 [Open on Quran.com](https://quran.com/2/34)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whoever is an enemy to Allah and His angels and messengers, to Gabriel and Michael,- Lo! Allah is an enemy to those who reject Faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص خدا کا اور اس کے فرشتوں کا اور اس کے پیغمبروں کا اور جبرئیل اور میکائیل کا دشمن ہو تو ایسے کافروں کا خدا دشمن ہے
+
 [Open on Quran.com](https://quran.com/2/98)
 
 #### 2:102 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Hārūt and Mārūt. But they [i.e., the two angels] do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allāh. And they [i.e., people] learn what harms them and does not benefit them. But they [i.e., the Children of Israel] certainly knew that whoever purchased it [i.e., magic] would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.
 
 **English (Yusuf Ali):** They followed what the evil ones gave out (falsely) against the power of Solomon: the blasphemers Were, not Solomon, but the evil ones, teaching men Magic, and such things as came down at babylon to the angels Harut and Marut. But neither of these taught anyone (Such things) without saying: "We are only for trial; so do not blaspheme." They learned from them the means to sow discord between man and wife. But they could not thus harm anyone except by Allah's permission. And they learned what harmed them, not what profited them. And they knew that the buyers of (magic) would have no share in the happiness of the Hereafter. And vile was the price for which they did sell their souls, if they but knew!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
 
 [Open on Quran.com](https://quran.com/2/102)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Knowest thou not that to Allah belongeth the dominion of the heavens and the earth? And besides Him ye have neither patron nor helper.
 
+**Urdu (Fatah Muhammad Jalandhari):** تمہیں معلوم نہیں کہ آسمانوں اور زمین کی بادشاہت خدا ہی کی ہے، اور خدا کے سوا تمہارا کوئی دوست اور مدد گار نہیں
+
 [Open on Quran.com](https://quran.com/2/107)
 
 #### 2:161 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who disbelieve and die while they are disbelievers - upon them will be the curse of Allāh and of the angels and the people, all together,
 
 **English (Yusuf Ali):** Those who reject Faith, and die rejecting,- on them is Allah's curse, and the curse of angels, and of all mankind;
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے اور کافر ہی مرے ایسوں پر خدا کی اور فرشتوں اور لوگوں کی سب کی لعنت
 
 [Open on Quran.com](https://quran.com/2/161)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+
 [Open on Quran.com](https://quran.com/2/177)
 
 #### 2:210 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Will they wait until Allah comes to them in canopies of clouds, with angels (in His train) and the question is (thus) settled? but to Allah do all questions go back (for decision).
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ اسی بات کے منتظر ہیں کہ ان پر خدا (کاعذاب) بادل کے سائبانوں میں آنازل ہو اور فرشتے بھی (اتر آئیں) اور کام تمام کردیا جائے اور سب کاموں کا رجوع خدا ہی کی طرف ہے
+
 [Open on Quran.com](https://quran.com/2/210)
 
 #### 2:246 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have you not considered the assembly of the Children of Israel after [the time of] Moses when they said to a prophet of theirs, "Send to us a king, and we will fight in the way of Allāh"? He said, "Would you perhaps refrain from fighting if battle was prescribed for you?" They said, "And why should we not fight in the cause of Allāh when we have been driven out from our homes and from our children?" But when battle was prescribed for them, they turned away, except for a few of them. And Allāh is Knowing of the wrongdoers.
 
 **English (Yusuf Ali):** Hast thou not Turned thy vision to the Chiefs of the Children of Israel after (the time of) Moses? they said to a prophet (That was) among them: "Appoint for us a king, that we May fight in the cause of Allah." He said: "Is it not possible, if ye were commanded to fight, that that ye will not fight?" They said: "How could we refuse to fight in the cause of Allah, seeing that we were turned out of our homes and our families?" but when they were commanded to fight, they turned back, except a small band among them. But Allah Has full knowledge of those who do wrong.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے بنی اسرائیل کی ایک جماعت کو نہیں دیکھا جس نے موسیٰ کے بعد اپنے پیغمبر سے کہا کہ آپ ہمارے لئے ایک بادشاہ مقرر کردیں تاکہ ہم خدا کی راہ میں جہاد کریں۔ پیغمبر نے کہا کہ اگر تم کو جہاد کا حکم دیا جائے تو عجب نہیں کہ لڑنے سے پہلو تہی کرو۔ وہ کہنے لگے کہ ہم راہ خدا میں کیوں نہ لڑیں گے جب کہ ہم وطن سے (خارج) اور بال بچوں سے جدا کردیئے گئے۔ لیکن جب ان کو جہاد کا حکم دیا گیا تو چند اشخاص کے سوا سب پھر گئے۔ اور خدا ظالموں سے خوب واقف ہے
 
 [Open on Quran.com](https://quran.com/2/246)
 

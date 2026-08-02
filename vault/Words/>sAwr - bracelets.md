@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[swr - sawrah]]
+- [[swr - sudden rush assault]]
 
 ### Meaning
 **bracelets** · Lemma **أَساوِر**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 18:31 · [[018 Al-Kahf]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those will have gardens of perpetual residence; beneath them rivers will flow. They will be adorned therein with bracelets of gold and will wear green garments of fine silk and brocade, reclining therein on adorned couches. Excellent is the reward, and good is the resting place.
 
 **English (Yusuf Ali):** For them will be Gardens of Eternity; beneath them rivers will flow; they will be adorned therein with bracelets of gold, and they will wear green garments of fine silk and heavy brocade: They will recline therein on raised thrones. How good the recompense! How beautiful a couch to recline on!
+
+**Urdu (Fatah Muhammad Jalandhari):** ایسے لوگوں کے لئے ہمیشہ رہنے کے باغ ہیں جن میں ان کے (محلوں کے) نیچے نہریں بہہ رہی ہیں ان کو وہاں سونے کے کنگن پہنائے جائیں گے اور وہ باریک دیبا اور اطلس کے سبز کپڑے پہنا کریں گے (اور) تختوں پر تکیئے لگا کر بیٹھا کریں گے۔ (کیا) خوب بدلہ اور (کیا) خوب آرام گاہ ہے
 
 [Open on Quran.com](https://quran.com/18/31)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah will admit those who believe and work righteous deeds, to Gardens beneath which rivers flow: they shall be adorned therein with bracelets of gold and pearls; and their garments there will be of silk.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور عمل نیک کرتے رہے خدا ان کو بہشتوں میں داخل کرے گا جن کے تلے نہریں بہہ رہیں ہیں۔ وہاں ان کو سونے کے کنگن پہنائے جائیں گے اور موتی۔ اور وہاں ان کا لباس ریشمی ہوگا
+
 [Open on Quran.com](https://quran.com/22/23)
 
 #### 35:33 · [[035 Fatir]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [For them are] gardens of perpetual residence which they will enter. They will be adorned therein with bracelets of gold and pearls, and their garments therein will be silk.
 
 **English (Yusuf Ali):** Gardens of Eternity will they enter: therein will they be adorned with bracelets of gold and pearls; and their garments there will be of silk.
+
+**Urdu (Fatah Muhammad Jalandhari):** (ان لوگوں کے لئے) بہشتِ جاودانی (ہیں) جن میں وہ داخل ہوں گے۔ وہاں ان کو سونے کے کنگن اور موتی پہنائے جائیں گے۔ اور ان کی پوشاک ریشمی ہوگی
 
 [Open on Quran.com](https://quran.com/35/33)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Then why are not gold bracelets bestowed on him, or (why) come (not) with him angels accompanying him in procession?"
 
+**Urdu (Fatah Muhammad Jalandhari):** تو اس پر سونے کے کنگن کیوں نہ اُتارے گئے یا (یہ ہوتا کہ) فرشتے جمع ہو کر اس کے ساتھ آتے
+
 [Open on Quran.com](https://quran.com/43/53)
 
 #### 76:21 · [[076 Al-Insan]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Upon them [i.e., the inhabitants] will be green garments of fine silk and brocade. And they will be adorned with bracelets of silver, and their Lord will give them a purifying drink.
 
 **English (Yusuf Ali):** Upon them will be green Garments of fine silk and heavy brocade, and they will be adorned with Bracelets of silver; and their Lord will give to them to drink of a Wine Pure and Holy.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان (کے بدنوں) پر دیبا سبز اور اطلس کے کپڑے ہوں گے۔ اور انہیں چاندی کے کنگن پہنائے جائیں گے اور ان کا پروردگار ان کو نہایت پاکیزہ شراب پلائے گا
 
 [Open on Quran.com](https://quran.com/76/21)
 

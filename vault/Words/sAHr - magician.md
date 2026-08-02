@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sHr - sahar]]
+- [[sHr - time just before]]
 
 ### Meaning
 **magician** · Lemma **ساحِر**
@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:109 · [[007 Al-Araf]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Said the eminent among the people of Pharaoh, "Indeed, this is a learned magician
 
 **English (Yusuf Ali):** Said the Chiefs of the people of Pharaoh: "This is indeed a sorcerer well-versed.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو قوم فرعون میں جو سردار تھے وہ کہنے لگے کہ یہ بڑا علامہ جادوگر ہے
 
 [Open on Quran.com](https://quran.com/7/109)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And bring up to thee all (our) sorcerers well-versed."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہ تمام ماہر جادوگروں کو آپ کے پاس لے آئیں
+
 [Open on Quran.com](https://quran.com/7/112)
 
 #### 7:113 · [[007 Al-Araf]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the magicians came to Pharaoh. They said, "Indeed for us is a reward if we are the predominant."
 
 **English (Yusuf Ali):** So there came the sorcerers to Pharaoh: They said, "of course we shall have a (suitable) reward if we win!"
+
+**Urdu (Fatah Muhammad Jalandhari):** (چنانچہ ایسا ہی کیا گیا) اور جادوگر فرعون کے پاس آپہنچے اور کہنے لگے کہ اگر ہم جیت گئے تو ہمیں صلہ عطا کیا جائے
 
 [Open on Quran.com](https://quran.com/7/113)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But the sorcerers fell down prostrate in adoration.
 
+**Urdu (Fatah Muhammad Jalandhari):** (یہ کیفیت دیکھ کر) جادوگر سجدے میں گر پڑے
+
 [Open on Quran.com](https://quran.com/7/120)
 
 #### 10:2 · [[010 Yunus]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have the people been amazed that We revealed [revelation] to a man from among them, [saying], "Warn mankind and give good tidings to those who believe that they will have a [firm] precedence of honor with their Lord"? [But] the disbelievers say, "Indeed, this is an obvious magician."
 
 **English (Yusuf Ali):** Is it a matter of wonderment to men that We have sent Our inspiration to a man from among themselves?- that he should warn mankind (of their danger), and give the good news to the Believers that they have before their Lord the lofty rank of truth. (But) say the Unbelievers: "This is indeed an evident sorcerer!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا لوگوں کو تعجب ہوا کہ ہم نے ان ہی میں سے ایک مرد کو حکم بھیجا کہ لوگوں کو ڈر سنا دو۔ اور ایمان لانے والوں کو خوشخبری دے دو کہ ان کے پروردگار کے ہاں ان کا سچا درجہ ہے۔ (ایسے شخص کی نسبت) کافر کہتے ہیں کہ یہ صریح جادوگر ہے
 
 [Open on Quran.com](https://quran.com/10/2)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Said Moses: "Say ye (this) about the truth when it hath (actually) reached you? Is sorcery (like) this? But sorcerers will not prosper."
 
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا کیا تم حق کے بارے میں جب وہ تمہارے پاس آیا یہ کہتے ہو کہ یہ جادو ہے۔ حالانکہ جادوگر فلاح نہیں پانے کے
+
 [Open on Quran.com](https://quran.com/10/77)
 
 #### 10:79 · [[010 Yunus]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Pharaoh said, "Bring to me every learned magician."
 
 **English (Yusuf Ali):** Said Pharaoh: "Bring me every sorcerer well versed."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور فرعون نے حکم دیا کہ سب کامل فن جادوگروں کو ہمارے پاس لے آؤ
 
 [Open on Quran.com](https://quran.com/10/79)
 
@@ -159,6 +173,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When the sorcerers came, Moses said to them: "Throw ye what ye (wish) to throw!"
 
+**Urdu (Fatah Muhammad Jalandhari):** جب جادوگر آئے تو موسیٰ نے ان سے کہا تم کو جو ڈالنا ہے ڈالو
+
 [Open on Quran.com](https://quran.com/10/80)
 
 #### 20:63 · [[020 Taha]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "These two are certainly (expert) magicians: their object is to drive you out from your land with their magic, and to do away with your most cherished institutions.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہنے لگے یہ دونوں جادوگر ہیں چاہتے ہیں کہ اپنے جادو (کے زور) سے تم کو تمہارے ملک سے نکل دیں اور تمہارے شائستہ مذہب کو نابود کردیں
+
 [Open on Quran.com](https://quran.com/20/63)
 
 #### 20:69 · [[020 Taha]]
@@ -190,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And throw what is in your right hand; it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will not succeed wherever he is."
 
 **English (Yusuf Ali):** "Throw that which is in thy right hand: Quickly will it swallow up that which they have faked what they have faked is but a magician's trick: and the magician thrives not, (no matter) where he goes."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو چیز (یعنی لاٹھی) تمہارے داہنے ہاتھ میں ہے اسے ڈال دو کہ جو کچھ انہوں نے بنایا ہے اس کو نگل جائے گی۔ جو کچھ انہوں نے بنایا ہے (یہ تو) جادوگروں کے ہتھکنڈے ہیں اور جادوگر جہاں جائے فلاح نہیں پائے گا
 
 [Open on Quran.com](https://quran.com/20/69)
 

@@ -41,7 +41,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:44 · [[002 Al-Baqarah]]
 
@@ -56,6 +56,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason?
 
 **English (Yusuf Ali):** Do ye enjoin right conduct on the people, and forget (To practise it) yourselves, and yet ye study the Scripture? Will ye not understand?
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ) کیا (عقل کی بات ہے کہ) تم لوگوں کو نیکی کرنے کو کہتے ہو اور اپنے تئیں فراموش کئے دیتے ہو، حالانکہ تم کتاب (خدا) بھی پڑھتے ہو۔ کیا تم سمجھتے نہیں؟
 
 [Open on Quran.com](https://quran.com/2/44)
 
@@ -73,6 +75,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And if ye divorce them before consummation, but after the fixation of a dower for them, then the half of the dower (Is due to them), unless they remit it or (the man's half) is remitted by him in whose hands is the marriage tie; and the remission (of the man's half) is the nearest to righteousness. And do not forget Liberality between yourselves. For Allah sees well all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے سے پہلے طلاق دے دو لیکن مہر مقرر کرچکے ہو تو آدھا مہر دینا ہوگا۔ ہاں اگر عورتیں مہر بخش دیں یا مرد جن کے ہاتھ میں عقد نکاح ہے (اپنا حق) چھوڑ دیں۔ (اور پورا مہر دے دیں تو ان کو اختیار ہے) اور اگر تم مرد لوگ ہ اپنا حق چھوڑ دو تو یہ پرہیزگاری کی بات ہے۔ اور آپس میں بھلائی کرنے کو فراموش نہ کرنا۔ کچھ شک نہیں کہ خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/2/237)
 
 #### 2:286 · [[002 Al-Baqarah]]
@@ -88,6 +92,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people."
 
 **English (Yusuf Ali):** On no soul doth Allah Place a burden greater than it can bear. It gets every good that it earns, and it suffers every ill that it earns. (Pray:) "Our Lord! Condemn us not if we forget or fall into error; our Lord! Lay not on us a burden Like that which Thou didst lay on those before us; Our Lord! Lay not on us a burden greater than we have strength to bear. Blot out our sins, and grant us forgiveness. Have mercy on us. Thou art our Protector; Help us against those who stand against faith."
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتا۔ اچھے کام کرے گا تو اس کو ان کا فائدہ ملے گا برے کرے گا تو اسے ان کا نقصان پہنچے گا۔ اے پروردگار اگر ہم سے بھول یا چوک ہوگئی ہو تو ہم سے مؤاخذہ نہ کیجیو۔ اے پروردگار ہم پر ایسا بوجھ نہ ڈالیو جیسا تو نے ہم سے پہلے لوگوں پر ڈالا تھا۔ اے پروردگار جتنا بوجھ اٹھانے کی ہم میں طاقت نہیں اتنا ہمارے سر پر نہ رکھیو۔ اور (اے پروردگار) ہمارے گناہوں سے درگزر کر اور ہمیں بخش دے۔ اور ہم پر رحم فرما۔ تو ہی ہمارا مالک ہے اور ہم کو کافروں پر غالب فرما
 
 [Open on Quran.com](https://quran.com/2/286)
 
@@ -105,6 +111,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But because of their breach of their covenant, We cursed them, and made their hearts grow hard; they change the words from their (right) places and forget a good part of the message that was sent them, nor wilt thou cease to find them- barring a few - ever bent on (new) deceits: but forgive them, and overlook (their misdeeds): for Allah loveth those who are kind.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں کے عہد توڑ دینے کے سبب ہم نے ان پر لعنت کی اور ان کے دلوں کو سخت کر دیا یہ لوگ کلمات (کتاب) کو اپنے مقامات سے بدل دیتے ہیں اور جن باتوں کی ان کو نصیحت کی گئی تھی ان کا بھی ایک حصہ فراموش کر بیٹھے اور تھوڑے آدمیوں کے سوا ہمیشہ تم ان کی (ایک نہ ایک) خیانت کی خبر پاتے رہتے ہو تو ان کی خطائیں معاف کردو اور (ان سے) درگزر کرو کہ خدا احسان کرنے والوں کو دوست رکھتا ہے
+
 [Open on Quran.com](https://quran.com/5/13)
 
 #### 5:14 · [[005 Al-Maidah]]
@@ -120,6 +128,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And from those who say, "We are Christians" We took their covenant; but they forgot a portion of that of which they were reminded. So We caused among them animosity and hatred until the Day of Resurrection. And Allāh is going to inform them about what they used to do.
 
 **English (Yusuf Ali):** From those, too, who call themselves Christians, We did take a covenant, but they forgot a good part of the message that was sent them: so we estranged them, with enmity and hatred between the one and the other, to the day of judgment. And soon will Allah show them what it is they have done.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ (اپنے تئیں) کہتے ہیں کہ ہم نصاریٰ ہیں ہم نے ان سے بھی عہد لیا تھا مگر انہوں نے بھی اس نصیحت کا جو ان کو کی گئی تھی ایک حصہ فراموش کر دیا تو ہم نے ان کے باہم قیامت تک کے لیے دشمنی اور کینہ ڈال دیا اور جو کچھ وہ کرتے رہے خدا عنقریب ان کو اس سے آگاہ کرے گا
 
 [Open on Quran.com](https://quran.com/5/14)
 
@@ -137,6 +147,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Nay,- On Him would ye call, and if it be His will, He would remove (the distress) which occasioned your call upon Him, and ye would forget (the false gods) which ye join with Him!"
 
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ (مصیبت کے وقت تم) اسی کو پکارتے ہو تو جس دکھ کے لئے اسے پکارتے ہو۔ وہ اگر چاہتا ہے تو اس کو دور کردیتا ہے اور جن کو تم شریک بناتے ہو (اس وقت) انہیں بھول جاتے ہو
+
 [Open on Quran.com](https://quran.com/6/41)
 
 #### 6:44 · [[006 Al-Anam]]
@@ -152,6 +164,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So when they forgot that by which they had been reminded, We opened to them the doors of every [good] thing until, when they rejoiced in that which they were given, We seized them suddenly, and they were [then] in despair.
 
 **English (Yusuf Ali):** But when they forgot the warning they had received, We opened to them the gates of all (good) things, until, in the midst of their enjoyment of Our gifts, on a sudden, We called them to account, when lo! they were plunged in despair!
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب انہوں نے اس نصیحت کو جو ان کو گی گئی تھی فراموش کردیا تو ہم نے ان پر ہر چیز کے دروازے کھول دیئے۔ یہاں تک کہ جب ان چیزوں سے جو ان کو دی گئی تھیں خوب خوش ہوگئے تو ہم نے ان کو ناگہاں پکڑ لیا اور وہ اس وقت مایوس ہو کر رہ گئے
 
 [Open on Quran.com](https://quran.com/6/44)
 
@@ -169,6 +183,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Such as took their religion to be mere amusement and play, and were deceived by the life of the world." That day shall We forget them as they forgot the meeting of this day of theirs, and as they were wont to reject Our signs.
 
+**Urdu (Fatah Muhammad Jalandhari):** جنہوں نے اپنے دین کو تماشا اور کھیل بنا رکھا تھا اور دنیا کی زندگی نے ان کو دھوکے میں ڈال رکھا تھا۔ تو جس طرح یہ لوگ اس دن کے آنے کو بھولے ہوئے اور ہماری آیتوں سے منکر ہو رہے تھے۔ اسی طرح آج ہم بھی انہیں بھلا دیں گے
+
 [Open on Quran.com](https://quran.com/7/51)
 
 #### 7:53 · [[007 Al-Araf]]
@@ -185,6 +201,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Do they just wait for the final fulfilment of the event? On the day the event is finally fulfilled, those who disregarded it before will say: "The messengers of our Lord did indeed bring true (tidings). Have we no intercessors now to intercede on our behalf? Or could we be sent back? then should we behave differently from our behaviour in the past." In fact they will have lost their souls, and the things they invented will leave them in the lurch.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ اس کے وعدہٴ عذاب کے منتظر ہیں۔ جس دن وہ وعدہ آجائے گا تو جو لوگ اس کو پہلے سے بھولے ہوئے ہوں گے وہ بول اٹھیں گے کہ بےشک ہمارے پروردگار کے رسول حق لے کر آئے تھے۔ بھلا (آج) ہمارا کوئی سفارشی ہیں کہ ہماری سفارش کریں یا ہم (دنیا میں) پھر لوٹا دیئے جائیں کہ جو عمل (بد) ہم (پہلے) کرتے تھے (وہ نہ کریں بلکہ) ان کے سوا اور (نیک) عمل کریں۔ بےشک ان لوگوں نے اپنا نقصان کیا اور جو کچھ یہ افتراء کیا کرتے تھے ان سے سب جاتا رہا
+
 [Open on Quran.com](https://quran.com/7/53)
 
 #### 7:165 · [[007 Al-Araf]]
@@ -200,6 +218,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they [i.e., those advised] forgot that by which they had been reminded, We saved those who had forbidden evil and seized those who wronged, with a wretched punishment, because they were defiantly disobeying.
 
 **English (Yusuf Ali):** When they disregarded the warnings that had been given them, We rescued those who forbade Evil; but We visited the wrong-doers with a grievous punishment because they were given to transgression.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب انہوں نے ان باتوں کو فراموش کردیا جن کی ان کو نصیحت کی گئی تھی تو جو لوگ برائی سے منع کرتے تھے ان کو ہم نے نجات دی اور جو ظلم کرتے تھے ان کو برے عذاب میں پکڑ لیا کہ نافرمانی کئے جاتے تھے
 
 [Open on Quran.com](https://quran.com/7/165)
 

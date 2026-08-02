@@ -32,9 +32,10 @@ export type NoteVerse = {
   wordForm: string
   gloss: string
   sahihInternational: string
-  yusufAli: string
+  yusufAli?: string
   urdu?: string
   url: string
+  fromWord?: string
 }
 
 export type NoteData = {
@@ -49,5 +50,6 @@ export type NoteData = {
   surahCount?: number
   ayahCount?: number
   surahs?: string[]
+  words?: string[]
   verses?: NoteVerse[]
 }

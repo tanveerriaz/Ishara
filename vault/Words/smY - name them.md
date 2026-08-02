@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:36 · [[003 Ali Imran]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But when she delivered her, she said, "My Lord, I have delivered a female." And Allāh was most knowing of what she delivered, and the male is not like the female. "And I have named her Mary, and I seek refuge for her in You and [for] her descendants from Satan, the expelled [from the mercy of Allāh]."
 
 **English (Yusuf Ali):** When she was delivered, she said: "O my Lord! Behold! I am delivered of a female child!"- and Allah knew best what she brought forth- "And no wise is the male Like the female. I have named her Mary, and I commend her and her offspring to Thy protection from the Evil One, the Rejected."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب ان کے ہاں بچہ پیدا ہوا اور جو کچھ ان کے ہاں پیدا ہوا تھا خدا کو خوب معلوم تھا تو کہنے لگیں کہ پروردگار! میرے تو لڑکی ہوئی ہے اور (نذر کے لیے) لڑکا (موزوں تھا کہ وہ) لڑکی کی طرح (ناتواں) نہیں ہوتا اور میں نے اس کا نام مریم رکھا ہے اور میں اس کو اور اس کی اولاد کو شیطان مردود سے تیری پناہ میں دیتی ہوں
 
 [Open on Quran.com](https://quran.com/3/36)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "Punishment and wrath have already come upon you from your Lord: dispute ye with me over names which ye have devised - ye and your fathers,- without authority from Allah? then wait: I am amongst you, also waiting."
 
+**Urdu (Fatah Muhammad Jalandhari):** ہود نے کہا تمہارے پروردگار کی طرف سے تم پر عذاب اور غضب کا (نازل ہونا) مقرر ہو چکا ہے۔ کیا تم مجھ سے ایسے ناموں کے بارے میں جھگڑتے ہو جو تم نے اور تمہارے باپ دادا نے (اپنی طرف سے) رکھ لئے ہیں۔ جن کی خدا نے کوئی سند نازل نہیں کی۔ تو تم بھی انتظار کرو میں بھی تمہارے ساتھ انتظار کرتا ہوں
+
 [Open on Quran.com](https://quran.com/7/71)
 
 #### 12:40 · [[012 Yusuf]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** You worship not besides Him except [mere] names you have named them, you and your fathers, for which Allāh has sent down no evidence. Legislation is not but for Allāh. He has commanded that you worship not except Him. That is the correct religion, but most of the people do not know.
 
 **English (Yusuf Ali):** "If not Him, ye worship nothing but names which ye have named,- ye and your fathers,- for which Allah hath sent down no authority: the command is for none but Allah: He hath commanded that ye worship none but Him: that is the right religion, but most men understand not...
+
+**Urdu (Fatah Muhammad Jalandhari):** جن چیزوں کی تم خدا کے سوا پرستش کرتے ہو وہ صرف نام ہی نام ہیں جو تم نے اور تمہارے باپ دادا نے رکھ لیے ہیں۔ خدا نے ان کی کوئی سند نازل نہیں کی۔ (سن رکھو کہ) خدا کے سوا کسی کی حکومت نہیں ہے۔ اس نے ارشاد فرمایا ہے کہ اس کے سوا کسی کی عبادت نہ کرو۔ یہی سیدھا دین ہے لیکن اکثر لوگ نہیں جانتے
 
 [Open on Quran.com](https://quran.com/12/40)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Is then He who standeth over every soul (and knoweth) all that it doth, (like any others)? And yet they ascribe partners to Allah. Say: "But name them! is it that ye will inform Him of something he knoweth not on earth, or is it (just) a show of words?" Nay! to those who believe not, their pretence seems pleasing, but they are kept back (thereby) from the path. And those whom Allah leaves to stray, no one can guide.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو کیا جو (خدا) ہر متنفس کے اعمال کا نگراں (ونگہباں) ہے (وہ بتوں کی طرح بےعلم وبےخبر ہوسکتا ہے) اور ان لوگوں نے خدا کے شریک مقرر کر رکھے ہیں۔ ان سے کہو کہ (ذرا) ان کے نام تو لو۔ کیا تم اسے ایسی چیزیں بتاتے ہو جس کو وہ زمین میں (کہیں بھی) معلوم نہیں کرتا یا (محض) ظاہری (باطل اور جھوٹی) بات کی (تقلید کرتے ہو) اصل یہ ہے کہ کافروں کو ان کے فریب خوبصورت معلوم ہوتے ہیں۔ اور وہ (ہدایت کے) رستے سے روک لیے گئے ہیں۔ اور جسے خدا گمراہ کرے اسے کوئی ہدایت کرنے والا نہیں
+
 [Open on Quran.com](https://quran.com/13/33)
 
 #### 22:78 · [[022 Al-Hajj]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And strive for Allāh with the striving due to Him. He has chosen you and has not placed upon you in the religion any difficulty. [It is] the religion of your father, Abraham. He [i.e., Allāh] named you "Muslims" before [in former scriptures] and in this [revelation] that the Messenger may be a witness over you and you may be witnesses over the people. So establish prayer and give zakāh and hold fast to Allāh. He is your protector; and excellent is the protector, and excellent is the helper.
 
 **English (Yusuf Ali):** And strive in His cause as ye ought to strive, (with sincerity and under discipline). He has chosen you, and has imposed no difficulties on you in religion; it is the cult of your father Abraham. It is He Who has named you Muslims, both before and in this (Revelation); that the Messenger may be a witness for you, and ye be witnesses for mankind! So establish regular Prayer, give regular Charity, and hold fast to Allah! He is your Protector - the Best to protect and the Best to help!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی راہ) میں جہاد کرو جیسا جہاد کرنے کا حق ہے۔ اس نے تم کو برگزیدہ کیا ہے اور تم پر دین کی (کسی بات) میں تنگی نہیں کی۔ (اور تمہارے لئے) تمہارے باپ ابراہیم کا دین (پسند کیا) اُسی نے پہلے (یعنی پہلی کتابوں میں) تمہارا نام مسلمان رکھا تھا اور اس کتاب میں بھی (وہی نام رکھا ہے تو جہاد کرو) تاکہ پیغمبر تمہارے بارے میں شاہد ہوں۔ اور تم لوگوں کے مقابلے میں شاہد اور نماز پڑھو اور زکوٰة دو اور خدا کے دین کی (رسی کو) پکڑے رہو۔ وہی تمہارا دوست ہے۔ اور خوب دوست اور خوب مددگار ہے
 
 [Open on Quran.com](https://quran.com/22/78)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** These are nothing but names which ye have devised,- ye and your fathers,- for which Allah has sent down no authority (whatever). They follow nothing but conjecture and what their own souls desire!- Even though there has already come to them Guidance from their Lord!
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ تو صرف نام ہی نام ہیں جو تم نے اور تمہارے باپ دادا نے گھڑ لئے ہیں۔ خدا نے تو ان کی کوئی سند نازل نہیں کی۔ یہ لوگ محض ظن (فاسد) اور خواہشات نفس کے پیچھے چل رہے ہیں۔ حالانکہ ان کے پروردگار کی طرف سے ان کے پاس ہدایت آچکی ہے
+
 [Open on Quran.com](https://quran.com/53/23)
 
 #### 53:27 · [[053 An-Najm]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who believe not in the Hereafter, name the angels with female names.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ آخرت پر ایمان نہیں لاتے وہ فرشتوں کو (خدا کی) لڑکیوں کے نام سے موسوم کرتے ہیں
+
 [Open on Quran.com](https://quran.com/53/27)
 
 #### 76:18 · [[076 Al-Insan]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [From] a fountain within it [i.e., Paradise] named Salsabeel.
 
 **English (Yusuf Ali):** A fountain there, called Salsabil.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ بہشت میں ایک چشمہ ہے جس کا نام سلسبیل ہے
 
 [Open on Quran.com](https://quran.com/76/18)
 

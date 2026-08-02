@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[lwm - lwm]]
+- [[lwm - blame]]
 
 ### Meaning
 **blameworthy** · Lemma **مَلُوم**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 17:29 · [[017 Al-Isra]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not make your hand [as] chained to your neck or extend it completely and [thereby] become blamed and insolvent.
 
 **English (Yusuf Ali):** Make not thy hand tied (like a niggard's) to thy neck, nor stretch it forth to its utmost reach, so that thou become blameworthy and destitute.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے ہاتھ کو نہ تو گردن سے بندھا ہوا (یعنی بہت تنگ) کرلو (کہ کسی کچھ دو ہی نہیں) اور نہ بالکل کھول ہی دو (کہ سبھی دے ڈالو اور انجام یہ ہو) کہ ملامت زدہ اور درماندہ ہو کر بیٹھ جاؤ
 
 [Open on Quran.com](https://quran.com/17/29)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** These are among the (precepts of) wisdom, which thy Lord has revealed to thee. Take not, with Allah, another object of worship, lest thou shouldst be thrown into Hell, blameworthy and rejected.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر یہ ان (ہدایتوں) میں سے ہیں جو خدا نے دانائی کی باتیں تمہاری طرف وحی کی ہیں۔ اور خدا کے ساتھ کوئی معبود نہ بنانا کہ (ایسا کرنے سے) ملامت زدہ اور (درگاہ خدا سے) راندہ بنا کر جہنم میں ڈال دیئے جاؤ گے
+
 [Open on Quran.com](https://quran.com/17/39)
 
 #### 23:6 · [[023 Al-Muminun]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except from their wives or those their right hands possess, for indeed, they will not be blamed -
 
 **English (Yusuf Ali):** Except with those joined to them in the marriage bond, or (the captives) whom their right hands possess,- for (in their case) they are free from blame,
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر اپنی بیویوں سے یا (کنیزوں سے) جو ان کی مِلک ہوتی ہیں کہ (ان سے) مباشرت کرنے سے انہیں ملامت نہیں
 
 [Open on Quran.com](https://quran.com/23/6)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So turn away from them: not thine is the blame.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان سے اعراض کرو۔ تم کو (ہماری) طرف سے ملامت نہ ہوگی
+
 [Open on Quran.com](https://quran.com/51/54)
 
 #### 70:30 · [[070 Al-Maarij]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except from their wives or those their right hands possess, for indeed, they are not to be blamed -
 
 **English (Yusuf Ali):** Except with their wives and the (captives) whom their right hands possess,- for (then) they are not to be blamed,
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر اپنی بیویوں یا لونڈیوں سے کہ (ان کے پاس جانے پر) انہیں کچھ ملامت نہیں
 
 [Open on Quran.com](https://quran.com/70/30)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[kyd - kyd]]
+- [[kyd - deceive]]
 
 ### Meaning
 **plot** · Lemma **كَيْد**
@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:120 · [[003 Ali Imran]]
 
@@ -54,6 +54,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If good touches you, it distresses them; but if harm strikes you, they rejoice at it. And if you are patient and fear Allāh, their plot will not harm you at all. Indeed, Allāh is encompassing of what they do.
 
 **English (Yusuf Ali):** If aught that is good befalls you, it grieves them; but if some misfortune overtakes you, they rejoice at it. But if ye are constant and do right, not the least harm will their cunning do to you; for Allah Compasseth round about all that they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تمہیں آسودگی حاصل ہو تو ان کو بری لگتی ہے اور اگر رنج پہنچے تو خوش ہوتے ہیں اور اگر تم تکلیفوں کی برداشت اور (ان سے) کنارہ کشی کرتے رہو گے تو ان کا فریب تمھیں کچھ بھی نقصان نہ پہنچا سکے گا یہ جو کچھ کرتے ہیں خدا اس پر احاطہ کیے ہوئے ہے
 
 [Open on Quran.com](https://quran.com/3/120)
 
@@ -71,6 +73,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who believe fight in the cause of Allah, and those who reject Faith Fight in the cause of Evil: So fight ye against the friends of Satan: feeble indeed is the cunning of Satan.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو مومن ہیں وہ تو خدا کے لئے لڑتے ہیں اور جو کافر ہیں وہ بتوں کے لئے لڑتے ہیں سو تم شیطان کے مددگاروں سے لڑو۔ (اور ڈرو مت) کیونکہ شیطان کا داؤ بودا ہوتا ہے
+
 [Open on Quran.com](https://quran.com/4/76)
 
 #### 7:183 · [[007 Al-Araf]]
@@ -86,6 +90,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And I will give them time. Indeed, My plan is firm.
 
 **English (Yusuf Ali):** Respite will I grant unto them: for My scheme is strong (and unfailing).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور میں ان کو مہلت دیئے جاتا ہوں میری تدبیر (بڑی) مضبوط ہے
 
 [Open on Quran.com](https://quran.com/7/183)
 
@@ -103,6 +109,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Have they feet to walk with? Or hands to lay hold with? Or eyes to see with? Or ears to hear with? Say: "Call your 'god-partners', scheme (your worst) against me, and give me no respite!
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا ان کے پاؤں ہیں جن سے چلیں یا ہاتھ ہیں جن سے پکڑیں یا آنکھیں ہیں جن سے دیکھیں یا کان ہیں جن سے سنیں؟ کہہ دو کہ اپنے شریکوں کو بلالو اور میرے بارے میں (جو) تدبیر (کرنی ہو) کرلو اور مجھے کچھ مہلت بھی نہ دو (پھر دیکھو کہ وہ میرا کیا کرسکتے ہیں)
+
 [Open on Quran.com](https://quran.com/7/195)
 
 #### 8:18 · [[008 Al-Anfal]]
@@ -118,6 +126,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That [is so], and [also] that Allāh will weaken the plot of the disbelievers.
 
 **English (Yusuf Ali):** That, and also because Allah is He Who makes feeble the plans and stratagem of the Unbelievers.
+
+**Urdu (Fatah Muhammad Jalandhari):** (بات) یہ (ہے) کچھ شک نہیں کہ خدا کافروں کی تدبیر کو کمزور کر دینے والا ہے
 
 [Open on Quran.com](https://quran.com/8/18)
 
@@ -135,6 +145,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Other gods as partners! so scheme (your worst) against me, all of you, and give me no respite.
 
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی جن کی) خدا کے سوا (عبادت کرتے ہو تو) تم سب مل کر میرے بارے میں جو تدبیر (کرنی چاہو) کرلو اور مجھے مہلت نہ دو
+
 [Open on Quran.com](https://quran.com/11/55)
 
 #### 12:5 · [[012 Yusuf]]
@@ -150,6 +162,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy.
 
 **English (Yusuf Ali):** Said (the father): "My (dear) little son! relate not thy vision to thy brothers, lest they concoct a plot against thee: for Satan is to man an avowed enemy!
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ بیٹا اپنے خواب کا ذکر اپنے بھائیوں سے نہ کرنا نہیں تو وہ تمہارے حق میں کوئی فریب کی چال چلیں گے۔ کچھ شک نہیں کہ شیطان انسان کا کھلا دشمن ہے
 
 [Open on Quran.com](https://quran.com/12/5)
 
@@ -167,6 +181,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So when he saw his shirt,- that it was torn at the back,- (her husband) said: "Behold! It is a snare of you women! truly, mighty is your snare!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب اس کا کرتا دیکھا (تو) پیچھے سے پھٹا تھا (تب اس نے زلیخا سے کہا) کہ یہ تمہارا ہی فریب ہے۔ اور کچھ شک نہیں کہ تم عورتوں کے فریب بڑے (بھاری) ہوتے ہیں
+
 [Open on Quran.com](https://quran.com/12/28)
 
 #### 12:33 · [[012 Yusuf]]
@@ -183,6 +199,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "O my Lord! the prison is more to my liking than that to which they invite me: Unless Thou turn away their snare from me, I should (in my youthful folly) feel inclined towards them and join the ranks of the ignorant."
 
+**Urdu (Fatah Muhammad Jalandhari):** یوسف نے دعا کی کہ پروردگار جس کام کی طرف یہ مجھے بلاتی ہیں اس کی نسبت مجھے قید پسند ہے۔ اور اگر تو مجھ سے ان کے فریب کو نہ ہٹائے گا تو میں ان کی طرف مائل ہوجاؤں گا اور نادانوں میں داخل ہوجاؤں گا
+
 [Open on Quran.com](https://quran.com/12/33)
 
 #### 12:34 · [[012 Yusuf]]
@@ -198,6 +216,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So his Lord responded to him and averted from him their plan. Indeed, He is the Hearing, the Knowing.
 
 **English (Yusuf Ali):** So his Lord hearkened to him (in his prayer), and turned away from him their snare: Verily He heareth and knoweth (all things).
+
+**Urdu (Fatah Muhammad Jalandhari):** تو خدا نے ان کی دعا قبول کرلی اور ان سے عورتوں کا مکر دفع کر دیا۔ بےشک وہ سننے (اور) جاننے والا ہے
 
 [Open on Quran.com](https://quran.com/12/34)
 

@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:21 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O mankind, worship your Lord, who created you and those before you, that you may become righteous -
 
 **English (Yusuf Ali):** O ye people! Adore your Guardian-Lord, who created you and those who came before you, that ye may have the chance to learn righteousness;
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو! اپنے پروردگار کی عبات کرو جس نے تم کو اور تم سے پہلے لوگوں کو پیدا کیا تاکہ تم (اس کے عذاب سے) بچو
 
 [Open on Quran.com](https://quran.com/2/21)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who hath created for you all things that are on earth; Moreover His design comprehended the heavens, for He gave order and perfection to the seven firmaments; and of all things He hath perfect knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سب چیزیں جو زمین میں ہیں تمہارے لیے پیدا کیں پھر آسمان کی طرف متوجہ ہوا تو ان کو ٹھیک سات آسمان بنا دیا اور وہ ہر چیز سے خبردار ہے
+
 [Open on Quran.com](https://quran.com/2/29)
 
 #### 2:164 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, in the creation of the heavens and the earth, and the alternation of the night and the day, and the [great] ships which sail through the sea with that which benefits people, and what Allāh has sent down from the heavens of rain, giving life thereby to the earth after its lifelessness and dispersing therein every [kind of] moving creature, and [His] directing of the winds and the clouds controlled between the heaven and earth are signs for a people who use reason.
 
 **English (Yusuf Ali):** Behold! in the creation of the heavens and the earth; in the alternation of the night and the day; in the sailing of the ships through the ocean for the profit of mankind; in the rain which Allah Sends down from the skies, and the life which He gives therewith to an earth that is dead; in the beasts of all kinds that He scatters through the earth; in the change of the winds, and the clouds which they Trail like their slaves between the sky and the earth;- (Here) indeed are Signs for a people that are wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** بےشک آسمانوں اور زمین کے پیدا کرنے میں اور رات اور دن کے ایک دوسرے کے پیچھے آنے جانے میں اور کشتیوں اور جہازوں میں جو دریا میں لوگوں کے فائدے کی چیزیں لے کر رواں ہیں اور مینہ میں جس کو خدا آسمان سے برساتا اور اس سے زمین کو مرنے کے بعد زندہ (یعنی خشک ہوئے پیچھے سرسبز) کردیتا ہے اور زمین پر ہر قسم کے جانور پھیلانے میں اور ہواؤں کے چلانےمیں اور بادلوں میں جو آسمان اور زمین کے درمیان گھرے رہتے ہیں۔ عقلمندوں کے لئے (خدا کی قدرت کی) نشانیاں ہیں
 
 [Open on Quran.com](https://quran.com/2/164)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Divorced women shall wait concerning themselves for three monthly periods. Nor is it lawful for them to hide what Allah Hath created in their wombs, if they have faith in Allah and the Last Day. And their husbands have the better right to take them back in that period, if they wish for reconciliation. And women shall have rights similar to the rights against them, according to what is equitable; but men have a degree (of advantage) over them. And Allah is Exalted in Power, Wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
+
 [Open on Quran.com](https://quran.com/2/228)
 
 #### 3:47 · [[003 Ali Imran]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** She said, "My Lord, how will I have a child when no man has touched me?" [The angel] said, "Such is Allāh; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is.
 
 **English (Yusuf Ali):** She said: "O my Lord! How shall I have a son when no man hath touched me?" He said: "Even so: Allah createth what He willeth: When He hath decreed a plan, He but saith to it, 'Be,' and it is!
+
+**Urdu (Fatah Muhammad Jalandhari):** مریم نے کہا پروردگار میرے ہاں بچہ کیونکر ہوگا کہ کسی انسان نے مجھے ہاتھ تک تو لگایا نہیں فرمایا کہ خدا اسی طرح جو چاہتا ہے پیدا کرتا ہے جب وہ کوئی کام کرنا چاہتا ہے تو ارشاد فرما دیتا ہے کہ ہوجا تو وہ ہو جاتا ہے
 
 [Open on Quran.com](https://quran.com/3/47)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And (appoint him) a messenger to the Children of Israel, (with this message): "'I have come to you, with a Sign from your Lord, in that I make for you out of clay, as it were, the figure of a bird, and breathe into it, and it becomes a bird by Allah's leave: And I heal those born blind, and the lepers, and I quicken the dead, by Allah's leave; and I declare to you what ye eat, and what ye store in your houses. Surely therein is a Sign for you if ye did believe;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (عیسیٰ) بنی اسرائیل کی طرف پیغمبر (ہو کر جائیں گے اور کہیں گے) کہ میں تمہارے پروردگار کی طرف سے نشانی لے کر آیا ہوں وہ یہ کہ تمہارے سامنے مٹی کی مورت بشکل پرند بناتا ہوں پھر اس میں پھونک مارتا ہوں تو وہ خدا کے حکم سے (سچ مچ) جانور ہو جاتا ہے اور اندھے اور ابرص کو تندرست کر دیتا ہوں اور خدا کے حکم سے مردے میں جان ڈال دیتا ہوں اور جو کچھ تم کھا کر آتے ہو اور جو اپنے گھروں میں جمع کر رکھتے ہو سب تم کو بتا دیتا ہوں اگر تم صاحب ایمان ہو تو ان باتوں میں تمہارے لیے (قدرت خدا کی) نشانی ہے
+
 [Open on Quran.com](https://quran.com/3/49)
 
 #### 3:59 · [[003 Ali Imran]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the example of Jesus to Allāh is like that of Adam. He created him from dust; then He said to him, "Be," and he was.
 
 **English (Yusuf Ali):** The similitude of Jesus before Allah is as that of Adam; He created him from dust, then said to him: "Be". And he was.
+
+**Urdu (Fatah Muhammad Jalandhari):** عیسیٰ کا حال خدا کے نزدیک آدم کا سا ہے کہ اس نے (پہلے) مٹی سے ان کا قالب بنایا پھر فرمایا کہ (انسان) ہو جا تو وہ (انسان) ہو گئے
 
 [Open on Quran.com](https://quran.com/3/59)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! in the creation of the heavens and the earth, and the alternation of night and day,- there are indeed Signs for men of understanding,-
 
+**Urdu (Fatah Muhammad Jalandhari):** بے شک آسمانوں اور زمین کی پیدائش اور رات اور دن کے بدل بدل کے آنے جانے میں عقل والوں کے لیے نشانیاں ہیں
+
 [Open on Quran.com](https://quran.com/3/190)
 
 #### 3:191 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Men who celebrate the praises of Allah, standing, sitting, and lying down on their sides, and contemplate the (wonders of) creation in the heavens and the earth, (With the thought): "Our Lord! not for naught Hast Thou created (all) this! Glory to Thee! Give us salvation from the penalty of the Fire.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو کھڑے اور بیٹھے اور لیٹے (ہر حال میں) خدا کو یاد کرتے اور آسمان اور زمین کی پیدائش میں غور کرتے (اور کہتے ہیں) کہ اے پروردگار! تو نے اس (مخلوق) کو بے فائدہ نہیں پیدا کیا تو پاک ہے تو (قیامت کے دن) ہمیں دوزخ کے عذاب سے بچائیو
+
 [Open on Quran.com](https://quran.com/3/191)
 
 #### 4:1 · [[004 An-Nisa]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allāh, through whom you ask one another, and the wombs. Indeed Allāh is ever, over you, an Observer.
 
 **English (Yusuf Ali):** O mankind! reverence your Guardian-Lord, who created you from a single person, created, of like nature, His mate, and from them twain scattered (like seeds) countless men and women;- reverence Allah, through whom ye demand your mutual (rights), and (reverence) the wombs (That bore you): for Allah ever watches over you.
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو اپنے پروردگار سے ڈرو جس نے تم کو ایک شخص سے پیدا کیا (یعنی اول) اس سے اس کا جوڑا بنایا۔ پھر ان دونوں سے کثرت سے مرد وعورت (پیدا کرکے روئے زمین پر) پھیلا دیئے۔ اور خدا سے جس کے نام کو تم اپنی حاجت بر آری کا ذریعہ بناتے ہو ڈرو اور (قطع مودت) ارحام سے (بچو) کچھ شک نہیں کہ خدا تمہیں دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/4/1)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qfw - qafaw]]
+- [[qfw - follow someone's tracks]]
 
 ### Meaning
 **we sent** · Lemma **قَفَّيْ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:87 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We did certainly give Moses the Scripture [i.e., the Torah] and followed up after him with messengers. And We gave Jesus, the son of Mary, clear proofs and supported him with the Pure Spirit [i.e., the angel Gabriel]. But is it [not] that every time a messenger came to you, [O Children of Israel], with what your souls did not desire, you were arrogant? And a party [of messengers] you denied and another party you killed.
 
 **English (Yusuf Ali):** We gave Moses the Book and followed him up with a succession of messengers; We gave Jesus the son of Mary Clear (Signs) and strengthened him with the holy spirit. Is it that whenever there comes to you a messenger with what ye yourselves desire not, ye are puffed up with pride?- Some ye called impostors, and others ye slay!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو کتاب عنایت کی اور ان کے پیچھے یکے بعد دیگرے پیغمبر بھیجتے رہے اور عیسیٰ بن مریم کو کھلے نشانات بخشے اور روح القدس (یعنی جبرئیل) سے ان کو مدد دی۔تو جب کوئی پیغمبر تمہارے پاس ایسی باتیں لے کر آئے، جن کو تمہارا جی نہیں چاہتا تھا، تو تم سرکش ہو جاتے رہے، اور ایک گروہ (انبیاء) کو تو جھٹلاتے رہے اور ایک گروہ کو قتل کرتے رہے
 
 [Open on Quran.com](https://quran.com/2/87)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And in their footsteps We sent Jesus the son of Mary, confirming the Law that had come before him: We sent him the Gospel: therein was guidance and light, and confirmation of the Law that had come before him: a guidance and an admonition to those who fear Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان پیغمبروں کے بعد انہی کے قدموں پر ہم نے عیسیٰ بن مریم کو بھیجا جو اپنے سے پہلے کی کتاب تورات کی تصدیق کرتے تھے اور ان کو انجیل عنایت کی جس میں ہدایت اور نور ہے اور تورات کی جو اس سے پہلی کتاب (ہے) تصدیق کرتی ہے اور پرہیزگاروں کو راہ بتاتی اور نصیحت کرتی ہے
+
 [Open on Quran.com](https://quran.com/5/46)
 
 #### 57:27 · [[057 Al-Hadid]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then We sent following their footsteps [i.e., traditions] Our messengers and followed [them] with Jesus, the son of Mary, and gave him the Gospel. And We placed in the hearts of those who followed him compassion and mercy and monasticism, which they innovated; We did not prescribe it for them except [that they did so] seeking the approval of Allāh. But they did not observe it with due observance. So We gave the ones who believed among them their reward, but many of them are defiantly disobedient.
 
 **English (Yusuf Ali):** Then, in their wake, We followed them up with (others of) Our messengers: We sent after them Jesus the son of Mary, and bestowed on him the Gospel; and We ordained in the hearts of those who followed him Compassion and Mercy. But the Monasticism which they invented for themselves, We did not prescribe for them: (We commanded) only the seeking for the Good Pleasure of Allah; but that they did not foster as they should have done. Yet We bestowed, on those among them who believed, their (due) reward, but many of them are rebellious transgressors.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے پیچھے انہی کے قدموں پر (اور) پیغمبر بھیجے اور ان کے پیچھے مریمؑ کے بیٹے عیسیٰ کو بھیجا اور ان کو انجیل عنایت کی۔ اور جن لوگوں نے ان کی پیروی کی ان کے دلوں میں شفقت اور مہربانی ڈال دی۔ اور لذات سے کنارہ کشی کی تو انہوں نے خود ایک نئی بات نکال لی ہم نے ان کو اس کا حکم نہیں دیا تھا مگر (انہوں نے اپنے خیال میں) خدا کی خوشنودی حاصل کرنے کے لئے (آپ ہی ایسا کرلیا تھا) پھر جیسا اس کو نباہنا چاہیئے تھا نباہ بھی نہ سکے۔ پس جو لوگ ان میں سے ایمان لائے ان کو ہم نے ان کا اجر دیا اور ان میں بہت سے نافرمان ہیں
 
 [Open on Quran.com](https://quran.com/57/27)
 

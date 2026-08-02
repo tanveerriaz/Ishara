@@ -12,7 +12,7 @@ tags: [root, meaning]
 **Sense:** throw stones · **Root:** رجم
 
 ### Words (wikilinks — these create the graph)
-- [[rjm - guessing]]
+- [[rjm - surely]]
 - [[rjym - accursed]]
 
 ### Surahs where this root appears

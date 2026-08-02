@@ -14,47 +14,47 @@ The Ranks · 14 ayahs
 
 ## Words in this surah (graph)
 
-- [[dEA - call]] — `دَعا` · call
-- [[qAtl - fight]] — `قاتَلَ` · fight
-- [[mqt - hatred]] — `مَقْت` · hatred
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[yd - hands]] — `يَد` · hands
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[fwz - success]] — `فَوْز` · success
-- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[nSyr - any helper]] — `نَصِير` · any helper
-- [[>fwAh - mouths]] — `أَفْواه` · mouths
-- [[EZym - great]] — `عَظِيم` · great
-- [[>Tf> - extinguish]] — `أَطْفَأَ` · extinguish
-- [[jA' - came them]] — `جاءَ` · came them
-- [[krh - unwillingly]] — `كُرْه` · unwillingly
-- [[nhr - rivers]] — `نَهَر` · rivers
+- [[Sf - rows]] — `صَفّ` · rows
 - [[Amn - believe]] — `آمَنَ` · believe
+- [[>rD - earth]] — `أَرْض` · earth
+- [[dl - direct you]] — `دَلَّ` · direct you
+- [[ftH - victory]] — `فَتَحَ` · victory
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
+- [[byn - between them]] — `بَيْن` · between them
+- [[HwAry - disciples]] — `حَوارِيّ` · disciples
+- [[bEd - after]] — `بَعْد` · after
+- [[Elm - know]] — `عَلِمَ` · know
+- [[dyn - religion]] — `دِين` · religion
+- [[bynp - clear proofs]] — `بَيِّنَة` · clear proofs
 - [[zAg - deviated]] — `زاغَ` · deviated
-- [[>y - o you]] — `أَيّ` · o you
-- [[jry - flow]] — `جَرَيْ` · flow
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[>yd - supports]] — `أَيَّدَ` · supports
-- [[Hq - truth]] — `حَقّ` · truth
+- [[nSyr - any helper]] — `نَصِير` · any helper
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[krh - unwillingly]] — `كُرْه` · unwillingly
+- [[>fwAh - mouths]] — `أَفْواه` · mouths
+- [[Tybp - good things]] — `طَيِّبَة` · good things
+- [[sHr - magic]] — `سِحْر` · magic
+- [[nSr - help]] — `نَصَرَ` · help
+- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
+- [[>SbH - they became]] — `أَصْبَحَ` · they became
 
 ## Roots
 
 - [[$rk - sharing partnership]]
 - [[*nb - tail]]
 - [[>*y - hurt]]
-- [[>lm - alm]]
-- [[>mn - amn]]
-- [[>rD - ard]]
+- [[>lm - painful]]
+- [[>mn - believe]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>xr - akhr]]
-- [[>yd - ayd]]
+- [[>xr - final part something]]
+- [[>yd - earth]]
 - [[>yy - ism]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
-- [[Edw - enemy]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
+- [[Edw - turn]]
 - [[Elm - knowledge]]
 - [[End - near]]
 - [[Ezz - all-mighty]]
@@ -63,11 +63,11 @@ The Ranks · 14 ayahs
 - [[Hmd - praise]]
 - [[Hqq - established as true]]
 - [[Hwr - returning circling]]
-- [[SbH - sbh]]
+- [[SbH - morning]]
 - [[Sdq - speak truth]]
 - [[Sff - arrange things row]]
 - [[Tf> - specific phrase concept]]
-- [[Twf - twf]]
+- [[Twf - go walk around]]
 - [[Tyb - something good]]
 - [[Zhr - back]]
 - [[Zlm - put something wrong]]
@@ -77,19 +77,19 @@ The Ranks · 14 ayahs
 - [[bny - sons]]
 - [[byn - clear]]
 - [[dEw - call]]
-- [[dll - dll]]
+- [[dll - so he made]]
 - [[dxl - enter]]
 - [[dyn - judgment]]
 - [[fEl - deed]]
-- [[fry - fry]]
-- [[fsq - fsq]]
+- [[fry - invent]]
+- [[fsq - go forth something]]
 - [[ftH - victory]]
-- [[fwh - fwh]]
-- [[fwz - fwz]]
+- [[fwh - mouth]]
+- [[fwz - attain good fortune]]
 - [[gfr - cover conceal]]
 - [[hdy - guide]]
 - [[jhd - strive]]
-- [[jnn - jann]]
+- [[jnn - cover]]
 - [[jry - passage time events]]
 - [[jy> - came them]]
 

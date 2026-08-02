@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:119 · [[002 Al-Baqarah]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, We have sent you, [O Muḥammad], with the truth as a bringer of good tidings and a warner, and you will not be asked about the companions of Hellfire.
 
 **English (Yusuf Ali):** Verily We have sent thee in truth as a bearer of glad tidings and a warner: But of thee no question shall be asked of the Companions of the Blazing Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) ہم نے تم کو سچائی کے ساتھ خوشخبری سنانے والا اور ڈرانے والا بنا کر بھیجا ہے۔ اور اہل دوزخ کے بارے میں تم سے کچھ پرسش نہیں ہوگی
 
 [Open on Quran.com](https://quran.com/2/119)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O People of the Book! Now hath come unto you, making (things) clear unto you, Our Messenger, after the break in (the series of) our messengers, lest ye should say: "There came unto us no bringer of glad tidings and no warner (from evil)": But now hath come unto you a bringer of glad tidings and a warner (from evil). And Allah hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے اہلِ کتاب پیغمبروں کے آنے کا سلسلہ جو (ایک عرصے تک) منقطع رہا تو (اب) تمہارے پاس ہمارے پیغمبر آ گئے ہیں جو تم سے (ہمارے احکام) بیان کرتے ہیں تاکہ تم یہ نہ کہو کہ ہمارے پاس کوئی خوشخبری یا ڈر سنانے والا نہیں آیا سو (اب) تمہارے پاس خوشخبری اور ڈر سنانے والے آ گئے ہیں اور خدا ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/5/19)
 
 #### 7:188 · [[007 Al-Araf]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "I hold not for myself [the power of] benefit or harm, except what Allāh has willed. And if I knew the unseen, I could have acquired much wealth, and no harm would have touched me. I am not except a warner and a bringer of good tidings to a people who believe."
 
 **English (Yusuf Ali):** Say: "I have no power over any good or harm to myself except as Allah willeth. If I had knowledge of the unseen, I should have multiplied all good, and no evil should have touched me: I am but a warner, and a bringer of glad tidings to those who have faith."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں اپنے فائدے اور نقصان کا کچھ بھی اختیار نہیں رکھتا مگر جو الله چاہے اور اگر میں غیب کی باتیں جانتا ہوتا تو بہت سے فائدے جمع کرلیتا اور مجھ کو کوئی تکلیف نہ پہنچتی۔ میں تو مومنوں کو ڈر اور خوشخبری سنانے والا ہوں
 
 [Open on Quran.com](https://quran.com/7/188)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (It teacheth) that ye should worship none but Allah. (Say): "Verily I am (sent) unto you from Him to warn and to bring glad tidings:
 
+**Urdu (Fatah Muhammad Jalandhari):** (وہ یہ) کہ خدا کے سوا کسی کی عبادت نہ کرو اور میں اس کی طرف سے تم کو ڈر سنانے والا اور خوشخبری دینے والا ہوں
+
 [Open on Quran.com](https://quran.com/11/2)
 
 #### 12:96 · [[012 Yusuf]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, "Did I not tell you that I know from Allāh that which you do not know?"
 
 **English (Yusuf Ali):** Then when the bearer of the good news came, He cast (the shirt) over his face, and he forthwith regained clear sight. He said: "Did I not say to you, 'I know from Allah that which ye know not?'"
+
+**Urdu (Fatah Muhammad Jalandhari):** جب خوشخبری دینے والا آ پہنچا تو کرتہ یعقوب کے منہ پر ڈال دیا اور وہ بینا ہو گئے (اور بیٹوں سے) کہنے لگے کیا میں نے تم سے نہیں کہا تھا کہ میں خدا کی طرف سے وہ باتیں جانتا ہوں جو تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/12/96)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We have not sent thee but as a universal (Messenger) to men, giving them glad tidings, and warning them (against sin), but most men understand not.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے محمدﷺ) ہم نے تم کو تمام لوگوں کے لئے خوشخبری سنانے والا اور ڈرانے والا بنا کر بھیجا ہے لیکن اکثر لوگ نہیں جانتے
+
 [Open on Quran.com](https://quran.com/34/28)
 
 #### 35:24 · [[035 Fatir]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily We have sent thee in truth, as a bearer of glad tidings, and as a warner: and there never was a people, without a warner having lived among them (in the past).
 
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے تم کو حق کے ساتھ خوشخبری سنانے والا اور ڈرانے والا بھیجا ہے۔ اور کوئی اُمت نہیں مگر اس میں ہدایت کرنے والا گزر چکا ہے
+
 [Open on Quran.com](https://quran.com/35/24)
 
 #### 41:4 · [[041 Fussilat]]
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** As a giver of good tidings and a warner; but most of them turn away, so they do not hear.
 
 **English (Yusuf Ali):** Giving good news and admonition: yet most of them turn away, and so they hear not.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو بشارت بھی سناتا ہے اور خوف بھی دلاتا ہے لیکن ان میں سے اکثروں نے منہ پھیر لیا اور وہ سنتے ہی نہیں
 
 [Open on Quran.com](https://quran.com/41/4)
 

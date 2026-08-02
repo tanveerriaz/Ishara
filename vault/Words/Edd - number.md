@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 10:5 · [[010 Yunus]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is He who made the sun a shining light and the moon a derived light and determined for it phases - that you may know the number of years and account [of time]. Allāh has not created this except in truth. He details the signs for a people who know.
 
 **English (Yusuf Ali):** It is He Who made the sun to be a shining glory and the moon to be a light (of beauty), and measured out stages for her; that ye might know the number of years and the count (of time). Nowise did Allah create this but in truth and righteousness. (Thus) doth He explain His Signs in detail, for those who understand.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سورج کو روشن اور چاند کو منور بنایا اور چاند کی منزلیں مقرر کیں تاکہ تم برسوں کا شمار اور (کاموں کا) حساب معلوم کرو۔ یہ (سب کچھ) خدا نے تدبیر سے پیدا کیا ہے۔ سمجھنے والوں کے لیے وہ اپنی آیاتیں کھول کھول کر بیان فرماتا ہے
 
 [Open on Quran.com](https://quran.com/10/5)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We have made the Night and the Day as two (of Our) Signs: the Sign of the Night have We obscured, while the Sign of the Day We have made to enlighten you; that ye may seek bounty from your Lord, and that ye may know the number and count of the years: all things have We explained in detail.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے دن اور رات کو دو نشانیاں بنایا ہے رات کی نشانی کو تاریک بنایا اور دن کی نشانی کو روشن۔ تاکہ تم اپنے پروردگار کا فضل (یعنی) روزی تلاش کرو اور برسوں کا شمار اور حساب جانو۔ اور ہم نے ہر چیز کو (بخوبی) تفصیل کردی ہے
+
 [Open on Quran.com](https://quran.com/17/12)
 
 #### 18:11 · [[018 Al-Kahf]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So We cast [a cover of sleep] over their ears within the cave for a number of years.
 
 **English (Yusuf Ali):** Then We draw (a veil) over their ears, for a number of years, in the Cave, (so that they heard not):
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے غار میں کئی سال تک ان کے کانوں پر (نیند کا) پردہ ڈالے (یعنی ان کو سلائے) رکھا
 
 [Open on Quran.com](https://quran.com/18/11)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He will say: "What number of years did ye stay on earth?"
 
+**Urdu (Fatah Muhammad Jalandhari):** (خدا) پوچھے گا کہ تم زمین میں کتنے برس رہے؟
+
 [Open on Quran.com](https://quran.com/23/112)
 
 #### 72:24 · [[072 Al-Jinn]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [The disbelievers continue] until, when they see that which they are promised, then they will know who is weaker in helpers and less in number.
 
 **English (Yusuf Ali):** At length, when they see (with their own eyes) that which they are promised,- then will they know who it is that is weakest in (his) helper and least important in point of numbers.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ جب یہ لوگ وہ (دن) دیکھ لیں گے جس کا ان سے وعدہ کیا جاتا ہے تب ان کو معلوم ہو جائے گا کہ مددگار کس کے کمزور اور شمار کن کا تھوڑا ہے
 
 [Open on Quran.com](https://quran.com/72/24)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "That He may know that they have (truly) brought and delivered the Messages of their Lord: and He surrounds (all the mysteries) that are with them, and takes account of every single thing."
 
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ معلوم فرمائے کہ انہوں نے اپنے پروردگار کے پیغام پہنچا دیئے ہیں اور (یوں تو) اس نے ان کی سب چیزوں کو ہر طرف سے قابو کر رکھا ہے اور ایک ایک چیز گن رکھی ہے
+
 [Open on Quran.com](https://quran.com/72/28)
 
 #### 104:2 · [[104 Al-Humazah]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who collects wealth and [continuously] counts it.
 
 **English (Yusuf Ali):** Who pileth up wealth and layeth it by,
+
+**Urdu (Fatah Muhammad Jalandhari):** جو مال جمع کرتا اور اس کو گن گن کر رکھتا ہے
 
 [Open on Quran.com](https://quran.com/104/2)
 

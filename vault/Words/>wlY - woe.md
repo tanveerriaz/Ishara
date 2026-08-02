@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:68 · [[003 Ali Imran]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the most worthy of Abraham among the people are those who followed him [in submission to Allāh] and this prophet [i.e., Muḥammad (ﷺ)] and those who believe [in his message]. And Allāh is the Ally of the believers.
 
 **English (Yusuf Ali):** Without doubt, among men, the nearest of kin to Abraham, are those who follow him, as are also this Prophet and those who believe: And Allah is the Protector of those who have faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** ابراہیم سے قرب رکھنے والے تو وہ لوگ ہیں جو ان کی پیروی کرتے ہیں اور پیغمبر (آخرالزمان) اور وہ لوگ جو ایمان لائے ہیں اور خدا مومنوں کا کارساز ہے
 
 [Open on Quran.com](https://quran.com/3/68)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! stand out firmly for justice, as witnesses to Allah, even as against yourselves, or your parents, or your kin, and whether it be (against) rich or poor: for Allah can best protect both. Follow not the lusts (of your hearts), lest ye swerve, and if ye distort (justice) or decline to do justice, verily Allah is well-acquainted with all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! انصاف پر قائم رہو اور خدا کے لئے سچی گواہی دو خواہ (اس میں) تمہارا یا تمہارےماں باپ اور رشتہ داروں کا نقصان ہی ہو۔ اگر کوئی امیر ہے یا فقیر تو خدا ان کا خیر خواہ ہے۔ تو تم خواہش نفس کے پیچھے چل کر عدل کو نہ چھوڑ دینا۔ اگر تم پیچیدا شہادت دو گے یا (شہادت سے) بچنا چاہو گے تو (جان رکھو) خدا تمہارے سب کاموں سے واقف ہے
+
 [Open on Quran.com](https://quran.com/4/135)
 
 #### 8:75 · [[008 Al-Anfal]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who believed after [the initial emigration] and emigrated and fought with you - they are of you. But those of [blood] relationship are more entitled [to inheritance] in the decree of Allāh. Indeed, Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** And those who accept Faith subsequently, and adopt exile, and fight for the Faith in your company,- they are of you. But kindred by blood have prior rights against each other in the Book of Allah. Verily Allah is well-acquainted with all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ بعد میں ایمان لائے اور وطن سے ہجرت کرگئے اور تمہارے ساتھ ہو کر جہاد کرتے رہے وہ بھی تم ہی میں سے ہیں۔ اور رشتہ دار خدا کے حکم کی رو سے ایک دوسرے کے زیادہ حقدار ہیں۔ کچھ شک نہیں کہ خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/8/75)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And certainly We know best those who are most worthy of being burned therein.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم ان لوگوں سے خوب واقف ہیں جو ان میں داخل ہونے کے زیادہ لائق ہیں
+
 [Open on Quran.com](https://quran.com/19/70)
 
 #### 33:6 · [[033 Al-Ahzab]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The Prophet is more worthy of the believers than themselves, and his wives are [in the position of] their mothers. And those of [blood] relationship are more entitled [to inheritance] in the decree of Allāh than the [other] believers and the emigrants, except that you may do to your close associates a kindness [through bequest]. That was in the Book inscribed.
 
 **English (Yusuf Ali):** The Prophet is closer to the Believers than their own selves, and his wives are their mothers. Blood-relations among each other have closer personal ties, in the Decree of Allah. Than (the Brotherhood of) Believers and Muhajirs: nevertheless do ye what is just to your closest friends: such is the writing in the Decree (of Allah).
+
+**Urdu (Fatah Muhammad Jalandhari):** پیغمبر مومنوں پر اُن کی جانوں سے بھی زیادہ حق رکھتے ہیں اور پیغمبر کی بیویاں اُن کی مائیں ہیں۔ اور رشتہ دار آپس میں کتاب الله کے رُو سے مسلمانوں اور مہاجروں سے ایک دوسرے (کے ترکے) کے زیادہ حقدار ہیں۔ مگر یہ کہ تم اپنے دوستوں سے احسان کرنا چاہو۔ (تو اور بات ہے)۔ یہ حکم کتاب یعنی (قرآن) میں لکھ دیا گیا ہے
 
 [Open on Quran.com](https://quran.com/33/6)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who believe say, "Why is not a sura sent down (for us)?" But when a sura of basic or categorical meaning is revealed, and fighting is mentioned therein, thou wilt see those in whose hearts is a disease looking at thee with a look of one in swoon at the approach of death. But more fitting for them-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور مومن لوگ کہتے ہیں کہ (جہاد کی) کوئی سورت کیوں نازل نہیں ہوتی؟ لیکن جب کوئی صاف معنوں کی سورت نازل ہو اور اس میں جہاد کا بیان ہو تو جن لوگوں کے دلوں میں (نفاق کا) مرض ہے تم ان کو دیکھو کہ تمہاری طرف اس طرح دیکھنے لگیں جس طرح کسی پر موت کی بےہوشی (طاری) ہو رہی ہو۔ سو ان کے لئے خرابی ہے
+
 [Open on Quran.com](https://quran.com/47/20)
 
 #### 75:34 · [[075 Al-Qiyamah]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Woe to thee, (O men!), yea, woe!
 
+**Urdu (Fatah Muhammad Jalandhari):** افسوس ہے تجھ پر پھر افسوس ہے
+
 [Open on Quran.com](https://quran.com/75/34)
 
 #### 75:35 · [[075 Al-Qiyamah]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then woe to you, and woe!
 
 **English (Yusuf Ali):** Again, Woe to thee, (O men!), yea, woe!
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر افسوس ہے تجھ پر پھر افسوس ہے
 
 [Open on Quran.com](https://quran.com/75/35)
 

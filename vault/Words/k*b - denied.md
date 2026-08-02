@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:10 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** In their hearts is disease, so Allāh has increased their disease; and for them is a painful punishment because they [habitually] used to lie.
 
 **English (Yusuf Ali):** In their hearts is a disease; and Allah has increased their disease: And grievous is the penalty they (incur), because they are false (to themselves).
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کے دلوں میں (کفر کا) مرض تھا۔ خدا نے ان کا مرض اور زیادہ کر دیا اور ان کے جھوٹ بولنے کے سبب ان کو دکھ دینے والا عذاب ہوگا
 
 [Open on Quran.com](https://quran.com/2/10)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "But those who reject Faith and belie Our Signs, they shall be companions of the Fire; they shall abide therein."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے (اس کو) قبول نہ کیا اور ہماری آیتوں کو جھٹلایا، وہ دوزخ میں جانے والے ہیں (اور) وہ ہمیشہ اس میں رہیں گے
+
 [Open on Quran.com](https://quran.com/2/39)
 
 #### 2:87 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We did certainly give Moses the Scripture [i.e., the Torah] and followed up after him with messengers. And We gave Jesus, the son of Mary, clear proofs and supported him with the Pure Spirit [i.e., the angel Gabriel]. But is it [not] that every time a messenger came to you, [O Children of Israel], with what your souls did not desire, you were arrogant? And a party [of messengers] you denied and another party you killed.
 
 **English (Yusuf Ali):** We gave Moses the Book and followed him up with a succession of messengers; We gave Jesus the son of Mary Clear (Signs) and strengthened him with the holy spirit. Is it that whenever there comes to you a messenger with what ye yourselves desire not, ye are puffed up with pride?- Some ye called impostors, and others ye slay!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو کتاب عنایت کی اور ان کے پیچھے یکے بعد دیگرے پیغمبر بھیجتے رہے اور عیسیٰ بن مریم کو کھلے نشانات بخشے اور روح القدس (یعنی جبرئیل) سے ان کو مدد دی۔تو جب کوئی پیغمبر تمہارے پاس ایسی باتیں لے کر آئے، جن کو تمہارا جی نہیں چاہتا تھا، تو تم سرکش ہو جاتے رہے، اور ایک گروہ (انبیاء) کو تو جھٹلاتے رہے اور ایک گروہ کو قتل کرتے رہے
 
 [Open on Quran.com](https://quran.com/2/87)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Their plight will be) no better than that of the people of Pharaoh, and their predecessors: They denied our Signs, and Allah called them to account for their sins. For Allah is strict in punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** ان کا حال بھی فرعونیوں اور ان سے پہلے لوگوں کا سا ہوگا جنہوں نے ہماری آیتوں کی تکذیب کی تھی تو خدا نے ان کو ان کے گناہوں کے سبب (عذاب میں) پکڑ لیا تھا اور خدا سخت عذاب کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/3/11)
 
 #### 3:75 · [[003 Ali Imran]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And among the People of the Scripture is he who, if you entrust him with a great amount [of wealth], he will return it to you. And among them is he who, if you entrust him with a [single] coin, he will not return it to you unless you are constantly standing over him [demanding it]. That is because they say, "There is no blame upon us concerning the unlearned." And they speak untruth about Allāh while they know [it].
 
 **English (Yusuf Ali):** Among the People of the Book are some who, if entrusted with a hoard of gold, will (readily) pay it back; others, who, if entrusted with a single silver coin, will not repay it unless thou constantly stoodest demanding, because, they say, "there is no call on us (to keep faith) with these ignorant (Pagans)." but they tell a lie against Allah, and (well) they know it.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اہلِ کتاب میں سے کوئی تو ایسا ہے کہ اگر تم اس کے پاس (روپوں کا) ڈھیر امانت رکھ دو تو تم کو (فوراً) واپس دے دے اور کوئی اس طرح کا ہے کہ اگر اس کے پاس ایک دینار بھی امانت رکھو تو جب تک اس کے سر پر ہر وقت کھڑے نہ رہو تمہیں دے ہی نہیں یہ اس لیے کہ وہ کہتے ہیں کہ امیوں کے بارے میں ہم سے مواخذہ نہیں ہوگا یہ خدا پر محض جھوٹ بولتے ہیں اور (اس بات کو) جانتے بھی ہیں
 
 [Open on Quran.com](https://quran.com/3/75)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There is among them a section who distort the Book with their tongues: (As they read) you would think it is a part of the Book, but it is no part of the Book; and they say, "That is from Allah," but it is not from Allah: It is they who tell a lie against Allah, and (well) they know it!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (اہلِ کتاب) میں بعضے ایسے ہیں کہ کتاب (تورات) کو زبان مروڑ مروڑ کر پڑھتے ہیں تاکہ تم سمجھو کہ جو کچھ وہ پڑھتے ہیں کتاب میں سے ہے حالانکہ وہ کتاب میں سے نہیں ہے اور کہتے ہیں کہ وہ خدا کی طرف سے (نازل ہوا) ہے حالانکہ وہ خدا کی طرف سے نہیں ہوتا اور خدا پر جھوٹ بولتے ہیں اور (یہ بات) جانتے بھی ہیں
+
 [Open on Quran.com](https://quran.com/3/78)
 
 #### 3:94 · [[003 Ali Imran]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whoever invents about Allāh untruth after that - then those are [truly] the wrongdoers.
 
 **English (Yusuf Ali):** If any, after this, invent a lie and attribute it to Allah, they are indeed unjust wrong-doers.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو اس کے بعد بھی خدا پر جھوٹے افترا کریں تو ایسے لوگ ہی بےانصاف ہیں
 
 [Open on Quran.com](https://quran.com/3/94)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then if they reject thee, so were rejected messengers before thee, who came with Clear Signs, Books of dark prophecies, and the Book of Enlightenment.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر اگر یہ لوگ تم کو سچا نہ سمجھیں تو تم سے پہلے بہت سے پیغمبر کھلی ہوئی نشانیاں اور صحیفے اور روشن کتابیں لے کر آچکے ہیں اور لوگوں نے ان کو بھی سچا نہیں سمجھا
+
 [Open on Quran.com](https://quran.com/3/184)
 
 #### 4:50 · [[004 An-Nisa]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! how they invent a lie against Allah! but that by itself is a manifest sin!
 
+**Urdu (Fatah Muhammad Jalandhari):** دیکھو یہ خدا پر کیسا جھوٹ (طوفان) باندھتے ہیں اور یہی گناہ صریح کافی ہے
+
 [Open on Quran.com](https://quran.com/4/50)
 
 #### 5:10 · [[005 Al-Maidah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who disbelieve and deny Our signs - those are the companions of Hellfire.
 
 **English (Yusuf Ali):** Those who reject faith and deny our signs will be companions of Hell-fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے کفر کیا اور ہماری آیتوں کو جھٹلایا وہ جہنمی ہیں
 
 [Open on Quran.com](https://quran.com/5/10)
 

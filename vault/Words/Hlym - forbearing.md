@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hlm - hlm]]
+- [[Hlm - forbearing]]
 
 ### Meaning
 **forbearing** · Lemma **حَلِيم**
@@ -35,7 +35,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:225 · [[002 Al-Baqarah]]
 
@@ -50,6 +50,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh does not impose blame upon you for what is unintentional in your oaths, but He imposes blame upon you for what your hearts have earned. And Allāh is Forgiving and Forbearing.
 
 **English (Yusuf Ali):** Allah will not call you to account for thoughtlessness in your oaths, but for the intention in your hearts; and He is Oft-forgiving, Most Forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری لغو قسموں پر تم سے مواخذہ نہ کرے گا۔ لیکن جو قسمیں تم قصد دلی سے کھاؤ گے ان پر مواخذہ کرے گا۔ اور خدا بخشنے والا بردبار ہے
 
 [Open on Quran.com](https://quran.com/2/225)
 
@@ -67,6 +69,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There is no blame on you if ye make an offer of betrothal or hold it in your hearts. Allah knows that ye cherish them in your hearts: But do not make a secret contract with them except in terms Honourable, nor resolve on the tie of marriage till the term prescribed is fulfilled. And know that Allah Knoweth what is in your hearts, and take heed of Him; and know that Allah is Oft-forgiving, Most Forbearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کنائے کی باتوں میں عورتوں کو نکاح کا پیغام بھیجو یا (نکاح کی خواہش کو) اپنے دلوں میں مخفی رکھو تو تو تم پر کچھ گناہ نہیں۔ خدا کو معلوم ہے کہ تم ان سے (نکاح کا) ذکر کرو گے۔ مگر (ایام عدت میں) اس کے سوا کہ دستور کے مطابق کوئی بات کہہ دو پوشیدہ طور پر ان سے قول واقرار نہ کرنا۔ اور جب تک عدت پوری نہ ہولے نکاح کا پختہ ارادہ نہ کرنا۔ اور جان رکھو کہ جو کچھ تمہارے دلوں میں ہے خدا کو سب معلوم ہے تو اس سے ڈرتے رہو اور جان رکھو کہ خدا بخشنے والا اور حلم والا ہے
+
 [Open on Quran.com](https://quran.com/2/235)
 
 #### 2:263 · [[002 Al-Baqarah]]
@@ -82,6 +86,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Kind speech and forgiveness are better than charity followed by injury. And Allāh is Free of need and Forbearing.
 
 **English (Yusuf Ali):** Kind words and the covering of faults are better than charity followed by injury. Allah is free of all wants, and He is Most-Forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس خیرات دینے کے بعد (لینے والے کو) ایذا دی جائے اس سے تو نرم بات کہہ دینی اور (اس کی بے ادبی سے) درگزر کرنا بہتر ہے اور خدا بےپروا اور بردبار ہے
 
 [Open on Quran.com](https://quran.com/2/263)
 
@@ -99,6 +105,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those of you who turned back on the day the two hosts Met,-it was Satan who caused them to fail, because of some (evil) they had done. But Allah Has blotted out (their fault): For Allah is Oft-Forgiving, Most Forbearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ تم میں سے (اُحد کے دن) جبکہ (مومنوں اور کافروں کی) دو جماعتیں ایک دوسرے سے گتھ گئیں (جنگ سے) بھاگ گئے تو ان کے بعض افعال کے سبب شیطان نے ان کو پھسلا دیا مگر خدا نے ان کا قصور معاف کر دیا بےشک خدا بخشنے والا اور بردبار ہے
+
 [Open on Quran.com](https://quran.com/3/155)
 
 #### 4:12 · [[004 An-Nisa]]
@@ -114,6 +122,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And for you is half of what your wives leave if they have no child. But if they have a child, for you is one fourth of what they leave, after any bequest they [may have] made or debt. And for them [i.e., the wives] is one fourth if you leave no child. But if you leave a child, then for them is an eighth of what you leave, after any bequest you [may have] made or debt. And if a man or woman leaves neither ascendants nor descendants but has a brother or a sister, then for each one of them is a sixth. But if they are more than two, they share a third, after any bequest which was made or debt, as long as there is no detriment [caused]. [This is] an ordinance from Allāh, and Allāh is Knowing and Forbearing.
 
 **English (Yusuf Ali):** In what your wives leave, your share is a half, if they leave no child; but if they leave a child, ye get a fourth; after payment of legacies and debts. In what ye leave, their share is a fourth, if ye leave no child; but if ye leave a child, they get an eighth; after payment of legacies and debts. If the man or woman whose inheritance is in question, has left neither ascendants nor descendants, but has left a brother or a sister, each one of the two gets a sixth; but if more than two, they share in a third; after payment of legacies and debts; so that no loss is caused (to any one). Thus is it ordained by Allah; and Allah is All-knowing, Most Forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو مال تمہاری عورتیں چھوڑ مریں۔ اگر ان کے اولاد نہ ہو تو اس میں نصف حصہ تمہارا۔ اور اگر اولاد ہو تو ترکے میں تمہارا حصہ چوتھائی۔ (لیکن یہ تقسیم) وصیت (کی تعمیل) کے بعد جو انہوں نے کی ہو یا قرض کے (ادا ہونے کے بعد جو ان کے ذمے ہو، کی جائے گی) اور جو مال تم (مرد) چھوڑ مرو۔ اگر تمہارے اولاد نہ ہو تو تمہاری عورتوں کا اس میں چوتھا حصہ۔ اور اگر اولاد ہو تو ان کا آٹھواں حصہ (یہ حصے) تمہاری وصیت (کی تعمیل) کے بعد جو تم نے کی ہو اور (ادائے) قرض کے (بعد تقسیم کئے جائیں گے) اور اگر ایسے مرد یا عورت کی میراث ہو جس کے نہ باپ ہو نہ بیٹا مگر اس کے بھائی بہن ہو تو ان میں سے ہر ایک کا چھٹا حصہ اور اگر ایک سے زیادہ ہوں تو سب ایک تہائی میں شریک ہوں گے (یہ حصے بھی ادائے وصیت و قرض بشرطیکہ ان سے میت نے کسی کا نقصان نہ کیا ہو (تقسیم کئے جائیں گے) یہ خدا کا فرمان ہے۔ اور خدا نہایت علم والا (اور) نہایت حلم والا ہے
 
 [Open on Quran.com](https://quran.com/4/12)
 
@@ -131,6 +141,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Ask not questions about things which, if made plain to you, may cause you trouble. But if ye ask about things when the Qur'an is being revealed, they will be made plain to you, Allah will forgive those: for Allah is Oft-forgiving, Most Forbearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! ایسی چیزوں کے بارے میں مت سوال کرو کہ اگر (ان کی حقیقتیں) تم پر ظاہر کر دی جائیں تو تمہیں بری لگیں اور اگر قرآن کے نازل ہونے کے ایام میں ایسی باتیں پوچھو گے تو تم پر ظاہر بھی کر دی جائیں گی (اب تو) خدا نے ایسی باتوں (کے پوچھنے) سے درگزر فرمایا ہے اور خدا بخشنے والا بردبار ہے
+
 [Open on Quran.com](https://quran.com/5/101)
 
 #### 9:114 · [[009 At-Tawbah]]
@@ -146,6 +158,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the request of forgiveness of Abraham for his father was only because of a promise he had made to him. But when it became apparent to him [i.e., Abraham] that he [i.e., the father] was an enemy to Allāh, he disassociated himself from him. Indeed was Abraham compassionate and patient.
 
 **English (Yusuf Ali):** And Abraham prayed for his father's forgiveness only because of a promise he had made to him. But when it became clear to him that he was an enemy to Allah, he dissociated himself from him: for Abraham was most tender-hearted, forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم کا اپنے باپ کے لیے بخشش مانگنا تو ایک وعدے کا سبب تھا جو وہ اس سے کر چکے تھے۔ لیکن جب ان کو معلوم ہوگیا کہ وہ خدا کا دشمن ہے تو اس سے بیزار ہوگئے۔ کچھ شک نہیں کہ ابراہیم بڑے نرم دل اور متحمل تھے
 
 [Open on Quran.com](https://quran.com/9/114)
 
@@ -163,6 +177,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For Abraham was, without doubt, forbearing (of faults), compassionate, and given to look to Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** بےشک ابراہیم بڑے تحمل والے، نرم دل اور رجوع کرنے والے تھے
+
 [Open on Quran.com](https://quran.com/11/75)
 
 #### 11:87 · [[011 Hud]]
@@ -179,6 +195,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "O Shu'aib! Does thy (religion of) prayer command thee that we leave off the worship which our fathers practised, or that we leave off doing what we like with our property? truly, thou art the one that forbeareth with faults and is right-minded!"
 
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا شعیب کیا تمہاری نماز تمہیں یہ سکھاتی ہے کہ جن کو ہمارے باپ دادا پوجتے آئے ہیں ہم ان کو ترک کر دیں یا اپنے مال میں تصرف کرنا چاہیں تو نہ کریں۔ تم تو بڑے نرم دل اور راست باز ہو
+
 [Open on Quran.com](https://quran.com/11/87)
 
 #### 17:44 · [[017 Al-Isra]]
@@ -194,6 +212,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The seven heavens and the earth and whatever is in them exalt Him. And there is not a thing except that it exalts [Allāh] by His praise, but you do not understand their [way of] exalting. Indeed, He is ever Forbearing and Forgiving.
 
 **English (Yusuf Ali):** The seven heavens and the earth, and all beings therein, declare His glory: there is not a thing but celebrates His praise; And yet ye understand not how they declare His glory! Verily He is Oft-Forbear, Most Forgiving!
+
+**Urdu (Fatah Muhammad Jalandhari):** ساتوں آسمان اور زمین اور جو لوگ ان میں ہیں سب اسی کی تسبیح کرتے ہیں۔ اور (مخلوقات میں سے) کوئی چیز نہیں مگر اس کی تعریف کے ساتھ تسبیح کرتی ہے۔ لیکن تم ان کی تسبیح کو نہیں سمجھتے۔ بےشک وہ بردبار (اور) غفار ہے
 
 [Open on Quran.com](https://quran.com/17/44)
 

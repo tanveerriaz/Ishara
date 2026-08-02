@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wHd - whd]]
+- [[wHd - one]]
 
 ### Meaning
 **single** · Lemma **واحِدَة**
@@ -46,7 +46,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:213 · [[002 Al-Baqarah]]
 
@@ -61,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Mankind was [of] one religion [before their deviation]; then Allāh sent the prophets as bringers of good tidings and warners and sent down with them the Scripture in truth to judge between the people concerning that in which they differed. And none differed over it [i.e., the Scripture] except those who were given it - after the clear proofs came to them - out of jealous animosity among themselves. And Allāh guided those who believed to the truth concerning that over which they had differed, by His permission. And Allāh guides whom He wills to a straight path.
 
 **English (Yusuf Ali):** Mankind was one single nation, and Allah sent Messengers with glad tidings and warnings; and with them He sent the Book in truth, to judge between people in matters wherein they differed; but the People of the Book, after the clear Signs came to them, did not differ among themselves, except through selfish contumacy. Allah by His Grace Guided the believers to the Truth, concerning that wherein they differed. For Allah guided whom He will to a path that is straight.
+
+**Urdu (Fatah Muhammad Jalandhari):** (پہلے تو سب) لوگوں کا ایک ہی مذہب تھا (لیکن وہ آپس میں اختلاف کرنے لگے) تو خدا نے (ان کی طرف) بشارت دینے والے اور ڈر سنانے والے پیغمبر بھیجے اور ان پر سچائی کے ساتھ کتابیں نازل کیں تاکہ جن امور میں لوگ اختلاف کرتے تھے ان کا ان میں فیصلہ کردے۔ اور اس میں اختلاف بھی انہیں لوگوں نے کیا جن کو کتاب دی گئی تھی باوجود یہ کہ ان کے پاس کھلے ہوئے احکام آچکے تھے (اور یہ اختلاف انہوں نے صرف) آپس کی ضد سے (کیا) تو جس امر حق میں وہ اختلاف کرتے تھے خدا نے اپنی مہربانی سے مومنوں کو اس کی راہ دکھا دی۔ اور خدا جس کو چاہتا ہے سیدھا رستہ دکھا دیتا ہے
 
 [Open on Quran.com](https://quran.com/2/213)
 
@@ -78,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O mankind! reverence your Guardian-Lord, who created you from a single person, created, of like nature, His mate, and from them twain scattered (like seeds) countless men and women;- reverence Allah, through whom ye demand your mutual (rights), and (reverence) the wombs (That bore you): for Allah ever watches over you.
 
+**Urdu (Fatah Muhammad Jalandhari):** لوگو اپنے پروردگار سے ڈرو جس نے تم کو ایک شخص سے پیدا کیا (یعنی اول) اس سے اس کا جوڑا بنایا۔ پھر ان دونوں سے کثرت سے مرد وعورت (پیدا کرکے روئے زمین پر) پھیلا دیئے۔ اور خدا سے جس کے نام کو تم اپنی حاجت بر آری کا ذریعہ بناتے ہو ڈرو اور (قطع مودت) ارحام سے (بچو) کچھ شک نہیں کہ خدا تمہیں دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/4/1)
 
 #### 4:3 · [[004 An-Nisa]]
@@ -93,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hands possess [i.e., slaves]. That is more suitable that you may not incline [to injustice].
 
 **English (Yusuf Ali):** If ye fear that ye shall not be able to deal justly with the orphans, Marry women of your choice, Two or three or four; but if ye fear that ye shall not be able to deal justly (with them), then only one, or (a captive) that your right hands possess, that will be more suitable, to prevent you from doing injustice.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو اس بات کا خوف ہو کہ یتیم لڑکیوں کے بارےانصاف نہ کرسکوگے تو ان کے سوا جو عورتیں تم کو پسند ہوں دو دو یا تین تین یا چار چار ان سے نکاح کرلو۔ اور اگر اس بات کا اندیشہ ہو کہ (سب عورتوں سے) یکساں سلوک نہ کرسکو گے تو ایک عورت (کافی ہے) یا لونڈی جس کے تم مالک ہو۔ اس سے تم بےانصافی سے بچ جاؤ گے
 
 [Open on Quran.com](https://quran.com/4/3)
 
@@ -110,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah (thus) directs you as regards your Children's (Inheritance): to the male, a portion equal to that of two females: if only daughters, two or more, their share is two-thirds of the inheritance; if only one, her share is a half. For parents, a sixth share of the inheritance to each, if the deceased left children; if no children, and the parents are the (only) heirs, the mother has a third; if the deceased Left brothers (or sisters) the mother has a sixth. (The distribution in all cases ('s) after the payment of legacies and debts. Ye know not whether your parents or your children are nearest to you in benefit. These are settled portions ordained by Allah; and Allah is All-knowing, Al-wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری اولاد کے بارے میں تم کو ارشاد فرماتا ہے کہ ایک لڑکے کا حصہ دو لڑکیوں کے حصے کے برابر ہے۔ اور اگر اولاد میت صرف لڑکیاں ہی ہوں (یعنی دو یا) دو سے زیادہ تو کل ترکے میں ان کادو تہائی۔ اور اگر صرف ایک لڑکی ہو تو اس کا حصہ نصف۔ اور میت کے ماں باپ کا یعنی دونوں میں سے ہر ایک کا ترکے میں چھٹا حصہ بشرطیکہ میت کے اولاد ہو۔ اور اگر اولاد نہ ہو اور صرف ماں باپ ہی اس کے وارث ہوں تو ایک تہائی ماں کا حصہ۔ اور اگر میت کے بھائی بھی ہوں تو ماں کا چھٹا حصہ۔ (اور یہ تقسیم ترکہ میت کی) وصیت (کی تعمیل) کے بعد جو اس نے کی ہو یا قرض کے (ادا ہونے کے بعد جو اس کے ذمے ہو عمل میں آئے گی) تم کو معلوم نہیں کہ تمہارے باپ دادؤں اور بیٹوں پوتوں میں سے فائدے کے لحاظ سے کون تم سے زیادہ قریب ہے، یہ حصے خدا کے مقرر کئے ہوئے ہیں اور خدا سب کچھ جاننے والا اور حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/4/11)
 
 #### 4:102 · [[004 An-Nisa]]
@@ -125,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you [i.e., the commander of an army] are among them and lead them in prayer, let a group of them stand [in prayer] with you and let them carry their arms. And when they have prostrated, let them be [in position] behind you and have the other group come forward which has not [yet] prayed and let them pray with you, taking precaution and carrying their arms. Those who disbelieve wish that you would neglect your weapons and your baggage so they could come down upon you in one [single] attack. But there is no blame upon you, if you are troubled by rain or are ill, for putting down your arms, but take precaution. Indeed, Allāh has prepared for the disbelievers a humiliating punishment.
 
 **English (Yusuf Ali):** When thou (O Messenger) art with them, and standest to lead them in prayer, Let one party of them stand up (in prayer) with thee, Taking their arms with them: When they finish their prostrations, let them Take their position in the rear. And let the other party come up which hath not yet prayed - and let them pray with thee, Taking all precaution, and bearing arms: the Unbelievers wish, if ye were negligent of your arms and your baggage, to assault you in a single rush. But there is no blame on you if ye put away your arms because of the inconvenience of rain or because ye are ill; but take (every) precaution for yourselves. For the Unbelievers Allah hath prepared a humiliating punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) جب تم ان (مجاہدین کے لشکر) میں ہو اور ان کو نماز پڑھانے لگو تو چاہیئے کہ ان کی ایک جماعت تمہارے ساتھ مسلح ہو کر کھڑی رہے جب وہ سجدہ کرچکیں تو پرے ہو جائیں پھر دوسری جماعت جس نے نماز نہیں پڑھی (ان کی جگہ) آئے اور ہوشیار اور مسلح ہو کر تمہارے ساتھ نماز ادا کرے کافر اس گھات میں ہیں کہ تم ذرا اپنے ہتھیاروں اور سامان سے غافل ہو جاؤ تو تم پر یکبارگی حملہ کردیں اگر تم بارش کے سبب تکلیف میں یا بیمار ہو تو تم پر کچھ گناہ نہیں کہ ہتھیار اتار رکھو مگر ہوشیار ضرور رہنا خدا نے کافروں کے لئے ذلت کا عذاب تیار کر رکھا ہے
 
 [Open on Quran.com](https://quran.com/4/102)
 
@@ -142,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To thee We sent the Scripture in truth, confirming the scripture that came before it, and guarding it in safety: so judge between them by what Allah hath revealed, and follow not their vain desires, diverging from the Truth that hath come to thee. To each among you have we prescribed a law and an open way. If Allah had so willed, He would have made you a single people, but (His plan is) to test you in what He hath given you: so strive as in a race in all virtues. The goal of you all is to Allah; it is He that will show you the truth of the matters in which ye dispute;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر!) ہم نے تم پر سچی کتاب نازل کی ہے جو اپنے سے پہلی کتابوں کی تصدیق کرتی ہے اور ان (سب) پر شامل ہے تو جو حکم خدا نے نازل فرمایا ہے اس کے مطابق ان کا فیصلہ کرنا اور حق جو تمہارے پاس آچکا ہے اس کو چھوڑ کر ان کی خواہشوں کی پیروی نہ کرنا ہم نے تم میں سے ہر ایک (فرقے) کے لیے ایک دستور اور طریقہ مقرر کیا ہے اور اگر خدا چاہتا تو سب کو ایک ہی شریعت پر کر دیتا مگر جو حکم اس نے تم کو دیئے ہیں ان میں وہ تمہاری آزمائش کرنی چاہتا ہے سو نیک کاموں میں جلدی کرو تم سب کو خدا کی طرف لوٹ کر جانا ہے پھر جن باتوں میں تم کو اختلاف تھا وہ تم کو بتا دے گا
+
 [Open on Quran.com](https://quran.com/5/48)
 
 #### 6:98 · [[006 Al-Anam]]
@@ -157,6 +169,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And it is He who produced you from one soul and [gave you] a place of dwelling and of storage. We have detailed the signs for a people who understand.
 
 **English (Yusuf Ali):** It is He Who hath produced you from a single person: here is a place of sojourn and a place of departure: We detail Our signs for people who understand.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے تم کو ایک شخص سے پیدا کیا۔ پھر (تمہارے لئے) ایک ٹھہرنے کی جگہ ہے اور ایک سپرد ہونے کی سمجھنے والوں کے لئے ہم نے (اپنی) آیتیں کھول کھول کر بیان کردی ہیں
 
 [Open on Quran.com](https://quran.com/6/98)
 
@@ -174,6 +188,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who created you from a single person, and made his mate of like nature, in order that he might dwell with her (in love). When they are united, she bears a light burden and carries it about (unnoticed). When she grows heavy, they both pray to Allah their Lord, (saying): "If Thou givest us a goodly child, we vow we shall (ever) be grateful."
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ خدا ہی تو ہے جس نے تم کو ایک شخص سے پیدا کیا اور اس سے اس کا جوڑا بنایا تاکہ اس سے راحت حاصل کرے۔ سو جب وہ اس کے پاس جاتا ہے تو اسے ہلکا سا حمل رہ جاتا ہے اور وہ اس کے ساتھ چلتی پھرتی ہے۔ پھر جب کچھ بوجھ معلوم کرتی یعنی بچہ پیٹ میں بڑا ہوتا ہے تو دونوں میاں بیوی اپنے پروردگار خدائے عزوجل سے التجا کرتے ہیں کہ اگر تو ہمیں صحیح وسالم (بچہ) دے گا تو ہم تیرے شکر گذار ہوں گے
+
 [Open on Quran.com](https://quran.com/7/189)
 
 #### 10:19 · [[010 Yunus]]
@@ -190,6 +206,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Mankind was but one nation, but differed (later). Had it not been for a word that went forth before from thy Lord, their differences would have been settled between them.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (سب) لوگ (پہلے) ایک ہی اُمت (یعنی ایک ہی ملت پر) تھے۔ پھر جدا جدا ہوگئے۔ اور اگر ایک بات جو تمہارے پروردگار کی طرف سے پہلے ہوچکی ہے نہ ہوتی تو جن باتوں میں وہ اختلاف کرتے ہیں ان میں فیصلہ کر دیا جاتا
+
 [Open on Quran.com](https://quran.com/10/19)
 
 #### 11:118 · [[011 Hud]]
@@ -205,6 +223,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if your Lord had willed, He could have made mankind one community; but they will not cease to differ,
 
 **English (Yusuf Ali):** If thy Lord had so willed, He could have made mankind one people: but they will not cease to dispute.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تمہارا پروردگار چاہتا تو تمام لوگوں کو ایک ہی جماعت کردیتا لیکن وہ ہمیشہ اختلاف کرتے رہیں گے
 
 [Open on Quran.com](https://quran.com/11/118)
 

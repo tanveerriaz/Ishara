@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 10:16 · [[010 Yunus]]
 
@@ -52,6 +52,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "If Allāh had willed, I would not have recited it to you, nor would He have made it known to you, for I had remained among you a lifetime before it. Then will you not reason?"
 
 **English (Yusuf Ali):** Say: "If Allah had so willed, I should not have rehearsed it to you, nor would He have made it known to you. A whole life-time before this have I tarried amongst you: will ye not then understand?"
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ بھی) کہہ دو کہ اگر خدا چاہتا تو (نہ تو) میں ہی یہ (کتاب) تم کو پڑھ کر سناتا اور نہ وہی تمہیں اس سے واقف کرتا۔ میں اس سے پہلے تم میں ایک عمر رہا ہوں (اور کبھی ایک کلمہ بھی اس طرح کا نہیں کہا) بھلا تم سمجھتے نہیں
 
 [Open on Quran.com](https://quran.com/10/16)
 
@@ -69,6 +71,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Men ask thee concerning the Hour: Say, "The knowledge thereof is with Allah (alone)": and what will make thee understand?- perchance the Hour is nigh!
 
+**Urdu (Fatah Muhammad Jalandhari):** لوگ تم سے قیامت کی نسبت دریافت کرتے ہیں (کہ کب آئے گی) کہہ دو کہ اس کا علم خدا ہی کو ہے۔ اور تمہیں کیا معلوم ہے شاید قیامت قریب ہی آگئی ہو
+
 [Open on Quran.com](https://quran.com/33/63)
 
 #### 42:17 · [[042 Ash-Shuraa]]
@@ -84,6 +88,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is Allāh who has sent down the Book in truth and [also] the balance [i.e., justice]. And what will make you perceive? Perhaps the Hour is near.
 
 **English (Yusuf Ali):** It is Allah Who has sent down the Book in Truth, and the Balance (by which to weigh conduct). And what will make thee realise that perhaps the Hour is close at hand?
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے سچائی کے ساتھ کتاب نازل فرمائی اور (عدل وانصاف کی) ترازو۔ اور تم کو کیا معلوم شاید قیامت قریب ہی آ پہنچی ہو
 
 [Open on Quran.com](https://quran.com/42/17)
 
@@ -101,6 +107,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And what will make thee realise what the Sure Reality is?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کو کیا معلوم ہے کہ سچ مچ ہونے والی کیا ہے؟
+
 [Open on Quran.com](https://quran.com/69/3)
 
 #### 74:27 · [[074 Al-Muddaththir]]
@@ -116,6 +124,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And what can make you know what is Saqar?
 
 **English (Yusuf Ali):** And what will explain to thee what Hell-Fire is?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کیا سمجھے کہ سقر کیا ہے؟
 
 [Open on Quran.com](https://quran.com/74/27)
 
@@ -133,6 +143,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And what will explain to thee what is the Day of Sorting out?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہیں کیا خبر کہ فیصلے کا دن کیا ہے؟
+
 [Open on Quran.com](https://quran.com/77/14)
 
 #### 80:3 · [[080 Abasa]]
@@ -148,6 +160,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But what would make you perceive, [O Muḥammad], that perhaps he might be purified
 
 **English (Yusuf Ali):** But what could tell thee but that perchance he might grow (in spiritual understanding)?-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کو کیا خبر شاید وہ پاکیزگی حاصل کرتا
 
 [Open on Quran.com](https://quran.com/80/3)
 
@@ -165,6 +179,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And what will explain to thee what the Day of Judgment is?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہیں کیا معلوم کہ جزا کا دن کیسا ہے؟
+
 [Open on Quran.com](https://quran.com/82/17)
 
 #### 82:18 · [[082 Al-Infitar]]
@@ -181,6 +197,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Again, what will explain to thee what the Day of Judgment is?
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر تمہیں کیا معلوم کہ جزا کا دن کیسا ہے؟
+
 [Open on Quran.com](https://quran.com/82/18)
 
 #### 83:8 · [[083 Al-Mutaffifin]]
@@ -196,6 +214,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And what can make you know what is sijjeen?
 
 **English (Yusuf Ali):** And what will explain to thee what Sijjin is?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کیا جانتے ہوں کہ سجّین کیا چیز ہے؟
 
 [Open on Quran.com](https://quran.com/83/8)
 

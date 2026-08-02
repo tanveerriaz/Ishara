@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:37 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful.
 
 **English (Yusuf Ali):** Then learnt Adam from his Lord words of inspiration, and his Lord Turned towards him; for He is Oft-Returning, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر آدم نے اپنے پروردگار سے کچھ کلمات سیکھے (اور معافی مانگی) تو اس نے ان کا قصور معاف کر دیا بے شک وہ معاف کرنے والا (اور) صاحبِ رحم ہے
 
 [Open on Quran.com](https://quran.com/2/37)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Great Terror will bring them no grief: but the angels will meet them (with mutual greetings): "This is your Day,- (the Day) that ye were promised."
 
+**Urdu (Fatah Muhammad Jalandhari):** ان کو (اس دن کا) بڑا بھاری خوف غمگین نہیں کرے گا۔ اور فرشتے ان کو لینے آئیں گے (اور کہیں گے کہ) یہی وہ دن ہے جس کا تم سے وعدہ کیا جاتا ہے
+
 [Open on Quran.com](https://quran.com/21/103)
 
 #### 24:15 · [[024 An-Nur]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold, ye received it on your tongues, and said out of your mouths things of which ye had no knowledge; and ye thought it to be a light matter, while it was most serious in the sight of Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** جب تم اپنی زبانوں سے اس کا ایک دوسرے سے ذکر کرتے تھے اور اپنے منہ سے ایسی بات کہتے تھے جس کا تم کو کچھ علم نہ تھا اور تم اسے ایک ہلکی بات سمجھتے تھے اور خدا کے نزدیک وہ بڑی بھاری بات تھی
+
 [Open on Quran.com](https://quran.com/24/15)
 
 #### 50:17 · [[050 Qaf]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** When the two receivers [i.e., recording angels] receive, seated on the right and on the left.
 
 **English (Yusuf Ali):** Behold, two (guardian angels) appointed to learn (his doings) learn (and noted them), one sitting on the right and one on the left.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب (وہ کوئی کام کرتا ہے تو) دو لکھنے والے جو دائیں بائیں بیٹھے ہیں، لکھ لیتے ہیں
 
 [Open on Quran.com](https://quran.com/50/17)
 

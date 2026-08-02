@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qbl - qbl]]
+- [[qbl - face come forward]]
 
 ### Meaning
 **facing each other** · Lemma **مُتَقابِل**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 15:47 · [[015 Al-Hijr]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other.
 
 **English (Yusuf Ali):** And We shall remove from their hearts any lurking sense of injury: (they will be) brothers (joyfully) facing each other on thrones (of dignity).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں میں جو کدورت ہوگی ان کو ہم نکال کر (صاف کر) دیں گے (گویا) بھائی بھائی تختوں پر ایک دوسرے کے سامنے بیٹھے ہوئے ہیں
 
 [Open on Quran.com](https://quran.com/15/47)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Facing each other on Thrones (of Dignity):
 
+**Urdu (Fatah Muhammad Jalandhari):** ایک دوسرے کے سامنے تختوں پر (بیٹھے ہوں گے)
+
 [Open on Quran.com](https://quran.com/37/44)
 
 #### 44:53 · [[044 Ad-Dukhan]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Dressed in fine silk and in rich brocade, they will face each other;
 
+**Urdu (Fatah Muhammad Jalandhari):** حریر کا باریک اور دبیز لباس پہن کر ایک دوسرے کے سامنے بیٹھے ہوں گے
+
 [Open on Quran.com](https://quran.com/44/53)
 
 #### 56:16 · [[056 Al-Waqiah]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Reclining on them, facing each other.
 
 **English (Yusuf Ali):** Reclining on them, facing each other.
+
+**Urdu (Fatah Muhammad Jalandhari):** آمنے سامنے تکیہ لگائے ہوئے
 
 [Open on Quran.com](https://quran.com/56/16)
 

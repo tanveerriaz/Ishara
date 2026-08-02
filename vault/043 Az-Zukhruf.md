@@ -16,82 +16,82 @@ The Ornaments of Gold · 89 ayahs
 
 - [[Antqm - so we took]] — `انتَقَمْ` · so we took
 - [[qryn - companion]] — `قَرِين` · companion
+- [[mSr - egypt]] — `مِصْر` · egypt
+- [[>EmY - blind]] — `أَعْمَى` · blind
+- [[HyAp - life]] — `حَياة` · life
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[ymtr - doubt]] — `يَمْتَرُ` · doubt
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[kvyrp - many]] — `كَثِيرَة` · many
-- [[n*yr - warner]] — `نَذِير` · warner
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[Zlm - wronged]] — `ظَلَمَ` · wronged
 - [[mqrn - bound together]] — `مُقَرَّن` · bound together
-- [[wjh - faces]] — `وَجْه` · faces
-- [[wAHdp - single]] — `واحِدَة` · single
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[njwY - private conversation]] — `نَجْوَى` · private conversation
-- [[ylAq - they meet]] — `يُلاقُ` · they meet
-- [[Er$ - throne]] — `عَرْش` · throne
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[lys - not]] — `لَيْسَ` · not
+- [[zxrf - decorative]] — `زُخْرُف` · decorative
 - [[nAdY - he called]] — `نادَى` · he called
-- [[mhyn - despised]] — `مَهِين` · despised
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[xlf - behind them]] — `خَلْف` · behind them
-- [[Eml - do]] — `عَمِلَ` · do
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[DHkt - laugh]] — `ضَحِكَتْ` · laugh
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[kArh - averse]] — `كارِه` · averse
+- [[>rD - earth]] — `أَرْض` · earth
+- [[wjh - faces]] — `وَجْه` · faces
+- [[yxrS - guess]] — `يَخْرُصُ` · guess
+- [[wjd - we found]] — `وَجَدَ` · we found
+- [[>grq - we drowned]] — `أُغْرِقُ` · we drowned
+- [[xwf - fear]] — `خَوْف` · fear
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[dnyA - world]] — `دُنْيا` · world
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
 - [[$fE - make something pair]]
-- [[$hd - shhd]]
-- [[$hw - shhw]]
+- [[$hd - witnessing]]
+- [[$hw - they desire]]
 - [[$rk - sharing partnership]]
-- [[$rq - east]]
+- [[$rq - earth]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[>Hd - anyone]]
-- [[>bw - abw]]
-- [[>fk - afk]]
+- [[>bw - forefathers]]
+- [[>fk - turn something away]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
+- [[>ns - mankind]]
 - [[>nv - female]]
-- [[>rD - ard]]
-- [[>sf - grief]]
+- [[>rD - earth]]
+- [[>sf - alas]]
 - [[>ty - give]]
-- [[>vr - athr]]
-- [[>wl - like milk oil]]
+- [[>vr - trace]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
-- [[DHk - dhk]]
+- [[DHk - laugh]]
 - [[Dll - astray]]
-- [[Drb - tent]]
-- [[E$w - eshw]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[Drb - strike beat]]
+- [[E$w - eating evening meal]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edw - enemy]]
-- [[Ehd - ehd]]
+- [[Edw - turn]]
+- [[Ehd - protection safeguard]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emy - blindness]]
 - [[End - near]]
 - [[Eqb - heel human foot]]
-- [[Eql - eql]]
-- [[Er$ - ersh]]
-- [[Erb - erb]]
-- [[Erj - erj]]
+- [[Eql - withhold restrain]]
+- [[Er$ - shaded structure]]
+- [[Erb - bedouins]]
+- [[Erj - ascend mount]]
 
 ## Sample (ayah 1)
 

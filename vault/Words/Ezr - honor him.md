@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 5:12 · [[005 Al-Maidah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Allāh had already taken a covenant from the Children of Israel, and We delegated from among them twelve leaders. And Allāh said, "I am with you. If you establish prayer and give zakāh and believe in My messengers and support them and loan Allāh a goodly loan, I will surely remove from you your misdeeds and admit you to gardens beneath which rivers flow. But whoever of you disbelieves after that has certainly strayed from the soundness of the way."
 
 **English (Yusuf Ali):** Allah did aforetime take a covenant from the Children of Israel, and we appointed twelve captains among them. And Allah said: "I am with you: if ye (but) establish regular prayers, practise regular charity, believe in my messengers, honour and assist them, and loan to Allah a beautiful loan, verily I will wipe out from you your evils, and admit you to gardens with rivers flowing beneath; but if any of you, after this, resisteth faith, he hath truly wandered from the path or rectitude."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے بنی اسرائیل سے اقرار لیا اور ان میں ہم نے بارہ سردار مقرر کئے پھر خدا نے فرمایا کہ میں تمہارے ساتھ ہوں اگر تم نماز پڑھتے اور زکوٰة دیتے رہو گے اور میرے پیغمبروں پر ایمان لاؤ گے اور ان کی مدد کرو گے اور خدا کو قرض حسنہ دو گے تو میں تم سے تمہارے گناہ دور کر دوں گا اور تم کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہہ رہی ہیں پھر جس نے اس کے بعد تم میں سے کفر کیا وہ سیدھے رستے سے بھٹک گیا
 
 [Open on Quran.com](https://quran.com/5/12)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Those who follow the messenger, the unlettered Prophet, whom they find mentioned in their own (scriptures),- in the law and the Gospel;- for he commands them what is just and forbids them what is evil; he allows them as lawful what is good (and pure) and prohibits them from what is bad (and impure); He releases them from their heavy burdens and from the yokes that are upon them. So it is those who believe in him, honour him, help him, and follow the light which is sent down with him,- it is they who will prosper."
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ جو (محمدﷺ) رسول (الله) کی جو نبی اُمی ہیں پیروی کرتے ہیں جن (کے اوصاف) کو وہ اپنے ہاں تورات اور انجیل میں لکھا ہوا پاتے ہیں۔ وہ انہیں نیک کام کا حکم دیتے ہیں اور برے کام سے روکتے ہیں۔ اور پاک چیزوں کو ان کے لیے حلال کرتے ہیں اور ناپاک چیزوں کو ان پر حرام ٹہراتے ہیں اور ان پر سے بوجھ اور طوق جو ان (کے سر) پر (اور گلے میں) تھے اتارتے ہیں۔ تو جو لوگ ان پر ایمان لائے اور ان کی رفاقت کی اور انہیں مدد دی۔ اور جو نور ان کے ساتھ نازل ہوا ہے اس کی پیروی کی۔ وہی مراد پانے والے ہیں
+
 [Open on Quran.com](https://quran.com/7/157)
 
 #### 48:9 · [[048 Al-Fath]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That you [people] may believe in Allāh and His Messenger and honor him and respect him [i.e., the Prophet (ﷺ)] and exalt Him [i.e., Allāh] morning and afternoon.
 
 **English (Yusuf Ali):** In order that ye (O men) may believe in Allah and His Messenger, that ye may assist and honour Him, and celebrate His praise morning and evening.
+
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ (مسلمانو) تم لوگ خدا پر اور اس کے پیغمبر پر ایمان لاؤ اور اس کی مدد کرو اور اس کو بزرگ سمجھو۔ اور صبح وشام اس کی تسبیح کرتے رہو
 
 [Open on Quran.com](https://quran.com/48/9)
 

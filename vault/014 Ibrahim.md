@@ -15,77 +15,77 @@ Abraham · 52 ayahs
 ## Words in this surah (graph)
 
 - [[>xr - we delay]] — `أَخَّرَ` · we delay
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[brz - they leave]] — `بَرَزَ` · they leave
+- [[qrAr - settlement]] — `قَرار` · settlement
+- [[wrA' - behind]] — `وَراء` · behind
+- [[tbE - follows]] — `تَبِعَ` · follows
+- [[>skn - lodge them]] — `أَسْكَن` · lodge them
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[$k - doubt]] — `شَكّ` · doubt
+- [[dEA' - call]] — `دُعاء` · call
 - [[sxr - subjected]] — `سَخِرَ` · subjected
 - [[vmrp - fruits]] — `ثَمَرَة` · fruits
 - [[$jrp - tree]] — `شَجَرَة` · tree
-- [[wrA' - behind]] — `وَراء` · behind
-- [[dEA' - call]] — `دُعاء` · call
-- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[tbE - follows]] — `تَبِعَ` · follows
 - [[bEyd - far]] — `بَعِيد` · far
-- [[brz - they leave]] — `بَرَزَ` · they leave
-- [[>skn - lodge them]] — `أَسْكَن` · lodge them
-- [[$k - doubt]] — `شَكّ` · doubt
-- [[qrAr - settlement]] — `قَرار` · settlement
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
-- [[xAb - disappointed]] — `خابَ` · disappointed
-- [[xbyvp - evil]] — `خَبِيثَة` · evil
-- [[fATr - creator]] — `فاطِر` · creator
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[hwY - desire]] — `هَوَى` · desire
+- [[>Eln - they declare]] — `أَعْلَن` · they declare
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[HyAp - life]] — `حَياة` · life
+- [[AbA' - forefathers]] — `آباء` · forefathers
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[r>s - heads]] — `رَأْس` · heads
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[wAd - valley]] — `واد` · valley
-- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
+- [[mqrn - bound together]] — `مُقَرَّن` · bound together
+- [[Zlmp - darknesses]] — `ظُلُمَة` · darknesses
 
 ## Roots
 
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
-- [[$jr - shjr]]
-- [[$kk - shakka]]
-- [[$kr - shkr]]
+- [[$jr - trees]]
+- [[$kk - doubt uncertain about]]
+- [[$kr - gratitude]]
 - [[$ms - horse refusing ridden]]
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
 - [[*bH - cut split lengthwise]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*nb - tail]]
 - [[*rr - scattering dispersing small]]
-- [[>*n - adhn]]
+- [[>*n - ear]]
 - [[>*y - hurt]]
 - [[>Sl - foundational part something]]
-- [[>bw - abw]]
+- [[>bw - forefathers]]
 - [[>jl - term]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>lm - alm]]
-- [[>mn - amn]]
+- [[>lm - painful]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - like milk oil]]
-- [[>xr - akhr]]
+- [[>wl - return revert original]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[Drb - tent]]
-- [[E*b - edhb]]
-- [[ESf - esf]]
+- [[Drb - strike beat]]
+- [[E*b - motes particles floating]]
+- [[ESf - stormy]]
 - [[ESy - disobey]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Ebd - worship]]
 - [[Edd - count]]
 - [[Elm - knowledge]]
 - [[Eln - make something open]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
-- [[Ewd - ewd]]
-- [[Ewj - ewj]]
+- [[Ewd - aad]]
+- [[Ewj - crookedness]]
 - [[Ezz - all-mighty]]
 - [[HSy - count reckon]]
 - [[Hbb - love]]

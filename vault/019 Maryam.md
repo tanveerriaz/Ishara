@@ -14,84 +14,84 @@ Mary · 98 ayahs
 
 ## Words in this surah (graph)
 
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
 - [[whb - grant]] — `وَهَبَ` · grant
+- [[rHmn - gracious]] — `رَحْمٰن` · gracious
 - [[glAm - boy]] — `غُلام` · boy
 - [[wrv - will inherit]] — `وَرِثَ` · will inherit
 - [[swy - even]] — `سَوِيّ` · even
-- [[Ed - you count]] — `عَدَّ` · you count
-- [[Ely - high]] — `عَلِيّ` · high
-- [[qrn - generations]] — `قَرْن` · generations
-- [[Sdyq - truthful]] — `صِدِّيق` · truthful
-- [[bgy - rebellion]] — `بَغْي` · rebellion
-- [[dEA' - call]] — `دُعاء` · call
 - [[xr - fell down]] — `خَرَّ` · fell down
-- [[md - spread]] — `مَدَّ` · spread
 - [[Aty - surely coming]] — `آتِي` · surely coming
-- [[E$y - evening]] — `عَشِيّ` · evening
-- [[bkrp - morning]] — `بُكْرَة` · morning
-- [[yHyY - yahya]] — `يَحْيَى` · yahya
-- [[lsAn - tongues]] — `لِسان` · tongues
-- [[AEtzl - they withdraw you]] — `اعْتَزَلَ` · they withdraw you
-- [[jbAr - tyrant]] — `جَبّار` · tyrant
+- [[Sdyq - truthful]] — `صِدِّيق` · truthful
 - [[EbAdt - worship]] — `عِبادَت` · worship
+- [[AEtzl - they withdraw you]] — `اعْتَزَلَ` · they withdraw you
+- [[qrn - generations]] — `قَرْن` · generations
+- [[dEA' - call]] — `دُعاء` · call
+- [[bgy - rebellion]] — `بَغْي` · rebellion
+- [[lsAn - tongues]] — `لِسان` · tongues
+- [[Ed - you count]] — `عَدَّ` · you count
+- [[md - spread]] — `مَدَّ` · spread
+- [[jbAr - tyrant]] — `جَبّار` · tyrant
+- [[bkrp - morning]] — `بُكْرَة` · morning
+- [[Ely - high]] — `عَلِيّ` · high
 - [[>bSr - see]] — `أَبْصَرَ` · see
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[yHyY - yahya]] — `يَحْيَى` · yahya
+- [[E$y - evening]] — `عَشِيّ` · evening
+- [[>Elm - knowing]] — `أَعْلَم` · knowing
+- [[ymtr - doubt]] — `يَمْتَرُ` · doubt
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[r>s - heads]] — `رَأْس` · heads
 
 ## Roots
 
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
 - [[$fE - make something pair]]
-- [[$hd - shhd]]
-- [[$hw - shhw]]
+- [[$hd - witnessing]]
+- [[$hw - they desire]]
 - [[$qq - cleave]]
-- [[$qw - shqw]]
-- [[$rb - shrb]]
-- [[$rq - east]]
+- [[$qw - unblessed]]
+- [[$rb - drink]]
+- [[$rq - earth]]
 - [[$rr - sparks fire]]
-- [[$wr - shwr]]
+- [[$wr - gather honey]]
 - [[$y> - thing]]
-- [[$yE - shye]]
-- [[$yb - shyb]]
-- [[*kr - dhakara]]
+- [[$yE - follow cause follow]]
+- [[$yb - white]]
+- [[*kr - remember recall something]]
 - [[*rr - scattering dispersing small]]
 - [[>Hd - anyone]]
-- [[>bw - abw]]
-- [[>dm - adm]]
+- [[>bw - forefathers]]
+- [[>dm - seasoned food]]
 - [[>hl - people house]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - like milk oil]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xw - akhw]]
+- [[>xw - brother]]
 - [[>yy - ism]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[DyE - dye]]
-- [[E$w - eshw]]
-- [[E*b - edhb]]
+- [[DyE - perishing]]
+- [[E$w - eating evening meal]]
+- [[E*b - motes particles floating]]
 - [[ESy - disobey]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Ebd - worship]]
 - [[Edd - count]]
-- [[Ehd - ehd]]
-- [[Ejl - ejl]]
+- [[Ehd - protection safeguard]]
+- [[Ejl - incite cause someone]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
-- [[Eqr - eqr]]
-- [[Esy - esy]]
-- [[Etw - etw]]
+- [[Eqr - wound hamstring]]
+- [[Esy - hope expectation]]
+- [[Etw - pride]]
 
 ## Sample (ayah 1)
 

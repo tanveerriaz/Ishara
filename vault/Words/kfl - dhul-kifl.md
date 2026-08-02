@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[kfl - kfl]]
+- [[kfl - responsible]]
 
 ### Meaning
 **dhul-kifl** · Lemma **كَفَّلَ**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:37 · [[003 Ali Imran]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, "O Mary, from where is this [coming] to you?" She said, "It is from Allāh. Indeed, Allāh provides for whom He wills without account."
 
 **English (Yusuf Ali):** Right graciously did her Lord accept her: He made her grow in purity and beauty: To the care of Zakariya was she assigned. Every time that he entered (Her) chamber to see her, He found her supplied with sustenance. He said: "O Mary! Whence (comes) this to you?" She said: "From Allah: for Allah Provides sustenance to whom He pleases without measure."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو پروردگار نے اس کو پسندیدگی کے ساتھ قبول فرمایا اور اسے اچھی طرح پرورش کیا اور زکریا کو اس کا متکفل بنایا زکریا جب کبھی عبادت گاہ میں اس کے پاس جاتے تو اس کے پاس کھانا پاتے (یہ کیفیت دیکھ کر ایک دن مریم سے) پوچھنے لگے کہ مریم یہ کھانا تمہارے پاس کہاں سے آتا ہے وہ بولیں خدا کے ہاں سے (آتا ہے) بیشک خدا جسے چاہتا ہے بے شمار رزق دیتا ہے
 
 [Open on Quran.com](https://quran.com/3/37)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whoever recommends and helps a good cause becomes a partner therein: And whoever recommends and helps an evil cause, shares in its burden: And Allah hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص نیک بات کی سفارش کرے تو اس کو اس (کے ثواب) میں سے حصہ ملے گا اور جو بری بات کی سفارش کرے اس کو اس (کے عذاب) میں سے حصہ ملے گا اور خدا ہر چیز پر قدرت رکھتا ہے
+
 [Open on Quran.com](https://quran.com/4/85)
 
 #### 21:85 · [[021 Al-Anbya]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient.
 
 **English (Yusuf Ali):** And (remember) Isma'il, Idris, and Zul-kifl, all (men) of constancy and patience;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسمٰعیل اور ادریس اور ذوالکفل (کو بھی یاد کرو) یہ سب صبر کرنے والے تھے
 
 [Open on Quran.com](https://quran.com/21/85)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And commemorate Isma'il, Elisha, and Zul-Kifl: Each of them was of the Company of the Good.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اسمٰعیل اور الیسع اور ذوالکفل کو یاد کرو۔ وہ سب نیک لوگوں میں سے تھے
+
 [Open on Quran.com](https://quran.com/38/48)
 
 #### 57:28 · [[057 Al-Hadid]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, fear Allāh and believe in His Messenger; He will [then] give you a double portion of His mercy and make for you a light by which you will walk and forgive you; and Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** O ye that believe! Fear Allah, and believe in His Messenger, and He will bestow on you a double portion of His Mercy: He will provide for you a Light by which ye shall walk (straight in your path), and He will forgive you (your past): for Allah is Oft-Forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا سے ڈرو اور اس کے پیغمبر پر ایمان لاؤ وہ تمہیں اپنی رحمت سے دگنا اجر عطا فرمائے گا اور تمہارے لئے روشنی کردے گا جس میں چلو گے اور تم کو بخش دے گا۔ اور خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/57/28)
 

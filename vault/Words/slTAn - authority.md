@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[slT - sultan]]
+- [[slT - strength]]
 
 ### Meaning
 **authority** · Lemma **سُلْطان**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:151 · [[003 Ali Imran]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** We will cast terror into the hearts of those who disbelieve for what they have associated with Allāh of which He had not sent down [any] authority. And their refuge will be the Fire, and wretched is the residence of the wrongdoers.
 
 **English (Yusuf Ali):** Soon shall We cast terror into the hearts of the Unbelievers, for that they joined companions with Allah, for which He had sent no authority: their abode will be the Fire: And evil is the home of the wrong-doers!
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم عنقریب کافروں کے دلوں میں تمہارا رعب بٹھا دیں گے کیونکہ یہ خدا کے ساتھ شرک کرتے ہیں جس کی اس نے کوئی بھی دلیل نازل نہیں کی اور ان کا ٹھکانہ دوزخ ہے وہ ظالموں کا بہت بُرا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/3/151)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Others you will find that wish to gain your confidence as well as that of their people: Every time they are sent back to temptation, they succumb thereto: if they withdraw not from you nor give you (guarantees) of peace besides restraining their hands, seize them and slay them wherever ye get them: In their case We have provided you with a clear argument against them.
 
+**Urdu (Fatah Muhammad Jalandhari):** تم کچھ اور لوگ ایسے بھی پاؤ گے جو یہ چاہتے ہیں کہ تم سے بھی امن میں رہیں اور اپنی قوم سے بھی امن میں رہیں لیکن فتنہ انگیزی کو بلائے جائیں تو اس میں اوندھے منہ گر پڑیں تو ایسے لوگ اگر تم سے (لڑنے سے) کنارہ کشی نہ کریں اور نہ تمہاری طرف (پیغام) صلح بھیجیں اور نہ اپنے ہاتھوں کو روکیں تو ان کو پکڑ لو اور جہاں پاؤ قتل کردو ان لوگوں کے مقابلے میں ہم نے تمہارے لئے سند صریح مقرر کردی ہے
+
 [Open on Quran.com](https://quran.com/4/91)
 
 #### 4:144 · [[004 An-Nisa]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not take the disbelievers as allies instead of the believers. Do you wish to give Allāh against yourselves a clear case?
 
 **English (Yusuf Ali):** O ye who believe! Take not for friends unbelievers rather than believers: Do ye wish to offer Allah an open proof against yourselves?
+
+**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان! مومنوں کے سوا کافروں کو دوست نہ بناؤ کیا تم چاہتے ہو کہ اپنے اوپر خدا کا صریح الزام لو؟
 
 [Open on Quran.com](https://quran.com/4/144)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The people of the Book ask thee to cause a book to descend to them from heaven: Indeed they asked Moses for an even greater (miracle), for they said: "Show us Allah in public," but they were dazed for their presumption, with thunder and lightning. Yet they worshipped the calf even after clear signs had come to them; even so we forgave them; and gave Moses manifest proofs of authority.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) اہل کتاب تم سے درخواست کرتے ہیں کہ تم ان پر ایک (لکھی ہوئی) کتاب آسمان سے اتار لاؤ تو یہ موسیٰ سے اس سے بھی بڑی بڑی درخواستیں کرچکے ہیں (ان سے) کہتے تھے ہمیں خدا ظاہر (یعنی آنکھوں سے) دکھا دو سو ان کے گناہ کی وجہ سے ان کو بجلی نے آپکڑا۔ پھر کھلی نشانیاں آئے پیچھے بچھڑے کو (معبود) بنا بیٹھے تو اس سے بھی ہم نے درگزر کی۔ اور موسیٰ کو صریح غلبہ دیا
+
 [Open on Quran.com](https://quran.com/4/153)
 
 #### 6:81 · [[006 Al-Anam]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And how should I fear what you associate while you do not fear that you have associated with Allāh that for which He has not sent down to you any authority? So which of the two parties has more right to security, if you should know?"
 
 **English (Yusuf Ali):** "How should I fear (the beings) ye associate with Allah, when ye fear not to give partners to Allah without any warrant having been given to you? Which of (us) two parties hath more right to security? (tell me) if ye know.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا میں ان چیزوں سے جن کو تم (خدا کا) شریک بناتے ہو کیونکرڈروں جب کہ تم اس سے نہیں ڈرتے کہ خدا کے ساتھ شریک بناتے ہو جس کی اس نے کوئی سند نازل نہیں کی۔ اب دونوں فریق میں سے کون سا فریق امن (اور جمعیت خاطر) کا مستحق ہے۔ اگر سمجھ رکھتے ہو (تو بتاؤ)
 
 [Open on Quran.com](https://quran.com/6/81)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: the things that my Lord hath indeed forbidden are: shameful deeds, whether open or secret; sins and trespasses against truth or reason; assigning of partners to Allah, for which He hath given no authority; and saying things about Allah of which ye have no knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میرے پروردگار نے تو بےحیائی کی باتوں کو ظاہر ہوں یا پوشیدہ اور گناہ کو اور ناحق زیادتی کرنے کو حرام کیا ہے۔ اور اس کو بھی کہ تم کسی کو خدا کا شریک بناؤ جس کی اس نے کوئی سند نازل نہیں کی اور اس کو بھی کہ خدا کے بارے میں ایسی باتیں کہو جن کا تمہیں کچھ علم نہیں
+
 [Open on Quran.com](https://quran.com/7/33)
 
 #### 7:71 · [[007 Al-Araf]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Hūd] said, "Already have defilement and anger fallen upon you from your Lord. Do you dispute with me concerning [mere] names you have named them, you and your fathers, for which Allāh has not sent down any authority? Then wait; indeed, I am with you among those who wait."
 
 **English (Yusuf Ali):** He said: "Punishment and wrath have already come upon you from your Lord: dispute ye with me over names which ye have devised - ye and your fathers,- without authority from Allah? then wait: I am amongst you, also waiting."
+
+**Urdu (Fatah Muhammad Jalandhari):** ہود نے کہا تمہارے پروردگار کی طرف سے تم پر عذاب اور غضب کا (نازل ہونا) مقرر ہو چکا ہے۔ کیا تم مجھ سے ایسے ناموں کے بارے میں جھگڑتے ہو جو تم نے اور تمہارے باپ دادا نے (اپنی طرف سے) رکھ لئے ہیں۔ جن کی خدا نے کوئی سند نازل نہیں کی۔ تو تم بھی انتظار کرو میں بھی تمہارے ساتھ انتظار کرتا ہوں
 
 [Open on Quran.com](https://quran.com/7/71)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They say: "Allah hath begotten a son!" - Glory be to Him! He is self-sufficient! His are all things in the heavens and on earth! No warrant have ye for this! say ye about Allah what ye know not?
 
+**Urdu (Fatah Muhammad Jalandhari):** (بعض لوگ) کہتے ہیں کہ خدا نے بیٹا بنا لیا ہے۔ اس کی ذات (اولاد سے) پاک ہے (اور) وہ بےنیاز ہے۔ جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے وہ سب اسی کا ہے (اے افتراء پردازو) تمہارے پاس اس (قول باطل) کی کوئی دلیل نہیں ہے۔ تم خدا کی نسبت ایسی بات کیوں کہتے ہو جو جانتے نہیں
+
 [Open on Quran.com](https://quran.com/10/68)
 
 #### 11:96 · [[011 Hud]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And we sent Moses, with Our Clear (Signs) and an authority manifest,
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو اپنی نشانیاں اور دلیل روشن دے کر بھیجا
+
 [Open on Quran.com](https://quran.com/11/96)
 
 #### 12:40 · [[012 Yusuf]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** You worship not besides Him except [mere] names you have named them, you and your fathers, for which Allāh has sent down no evidence. Legislation is not but for Allāh. He has commanded that you worship not except Him. That is the correct religion, but most of the people do not know.
 
 **English (Yusuf Ali):** "If not Him, ye worship nothing but names which ye have named,- ye and your fathers,- for which Allah hath sent down no authority: the command is for none but Allah: He hath commanded that ye worship none but Him: that is the right religion, but most men understand not...
+
+**Urdu (Fatah Muhammad Jalandhari):** جن چیزوں کی تم خدا کے سوا پرستش کرتے ہو وہ صرف نام ہی نام ہیں جو تم نے اور تمہارے باپ دادا نے رکھ لیے ہیں۔ خدا نے ان کی کوئی سند نازل نہیں کی۔ (سن رکھو کہ) خدا کے سوا کسی کی حکومت نہیں ہے۔ اس نے ارشاد فرمایا ہے کہ اس کے سوا کسی کی عبادت نہ کرو۔ یہی سیدھا دین ہے لیکن اکثر لوگ نہیں جانتے
 
 [Open on Quran.com](https://quran.com/12/40)
 

@@ -14,84 +14,84 @@ The Ant · 93 ayahs
 
 ## Words in this surah (graph)
 
-- [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
-- [[>*lp - weak]] — `أَذِلَّة` · weak
-- [[wqE - became incumbent]] — `وَقَعَ` · became incumbent
-- [[ywqn - certain]] — `يُوقِنُ` · certain
-- [[jnd - hosts]] — `جُند` · hosts
-- [[fzE - terror]] — `فَزَع` · terror
 - [[>Eln - they declare]] — `أَعْلَن` · they declare
+- [[fzE - terror]] — `فَزَع` · terror
+- [[>*lp - weak]] — `أَذِلَّة` · weak
+- [[ywqn - certain]] — `يُوقِنُ` · certain
+- [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
 - [[mdbr - fleeing]] — `مُدْبِر` · fleeing
-- [[Hsn - good]] — `حُسْن` · good
-- [[dEA - call]] — `دَعا` · call
-- [[nAr - fire]] — `نار` · fire
-- [[lyl - night]] — `لَيْل` · night
-- [[ESA - staff]] — `عَصا` · staff
-- [[>slm - submits]] — `أَسْلَمَ` · submits
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[yqyn - certainty]] — `يَقِين` · certainty
-- [[Dl - lost]] — `ضَلَّ` · lost
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[Eml - do]] — `عَمِلَ` · do
-- [[>mr - command]] — `أَمَرَ` · command
-- [[wly - protector]] — `وَلِيّ` · protector
-- [[byt - houses]] — `بَيْت` · houses
-- [[lqY - it granted]] — `لَقَّى` · it granted
-- [[mA' - water]] — `ماء` · water
+- [[jnd - hosts]] — `جُند` · hosts
+- [[wqE - became incumbent]] — `وَقَعَ` · became incumbent
+- [[wlY - so turn]] — `وَلَّى` · so turn
+- [[hAt - bring]] — `هاتُ` · bring
+- [[ryH - wind]] — `رِيح` · wind
 - [[Amn - believe]] — `آمَنَ` · believe
+- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[SAgr - disgraced ones]] — `صاغِر` · disgraced ones
+- [[ldn - yourself]] — `لَدُن` · yourself
+- [[wAldy - parents]] — `والِدَي` · parents
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
+- [[jwAb - answer]] — `جَواب` · answer
+- [[Al - people]] — `آل` · people
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[qbl - before]] — `قَبْل` · before
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
-- [[$hb - shhb]]
-- [[$hd - shhd]]
-- [[$hw - shhw]]
-- [[$jr - shjr]]
-- [[$kk - shakka]]
-- [[$kr - shkr]]
+- [[$hb - burning flame]]
+- [[$hd - witnessing]]
+- [[$hw - they desire]]
+- [[$jr - trees]]
+- [[$kk - doubt uncertain about]]
+- [[$kr - gratitude]]
 - [[$ms - horse refusing ridden]]
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
 - [[*bH - cut split lengthwise]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*ll - humiliation]]
-- [[>bw - abw]]
+- [[>bw - forefathers]]
 - [[>hl - people house]]
 - [[>lh - god]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - like milk oil]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>wl - return revert original]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
-- [[DHk - dhk]]
+- [[DHk - laugh]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
-- [[Dyq - dyq]]
-- [[E*b - edhb]]
+- [[Dyq - become narrow strait]]
+- [[E*b - motes particles floating]]
 - [[ESw - staff stick]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edl - edl]]
-- [[Ejl - ejl]]
+- [[Edl - act justly equitably]]
+- [[Ejl - incite cause someone]]
 - [[Elm - knowledge]]
 - [[Eln - make something open]]
 - [[Elw - superiority]]
-- [[Emh - emh]]
-- [[Eml - eml]]
+- [[Emh - mental confusion]]
+- [[Eml - intentional action deed]]
 - [[Emy - blindness]]
 - [[End - near]]
 - [[Eqb - heel human foot]]
-- [[Er$ - ersh]]
-- [[Erf - erf]]
-- [[Esy - esy]]
+- [[Er$ - shaded structure]]
+- [[Erf - right]]
+- [[Esy - hope expectation]]
 
 ## Sample (ayah 1)
 

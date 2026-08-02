@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:57 · [[007 Al-Araf]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And it is He who sends the winds as good tidings before His mercy [i.e., rainfall] until, when they have carried heavy rainclouds, We drive them to a dead land and We send down rain therein and bring forth thereby [some] of all the fruits. Thus will We bring forth the dead; perhaps you may be reminded.
 
 **English (Yusuf Ali):** It is He Who sendeth the winds like heralds of glad tidings, going before His mercy: when they have carried the heavy-laden clouds, We drive them to a land that is dead, make rain to descend thereon, and produce every kind of harvest therewith: thus shall We raise up the dead: perchance ye may remember.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو اپنی رحمت (یعنی مینھ) سے پہلے ہواؤں کو خوشخبری (بنا کر) بھیجتا ہے۔ یہاں تک کہ جب وہ بھاری بھاری بادلوں کو اٹھا لاتی ہے تو ہم اس کو ایک مری ہوئی بستی کی طرف ہانک دیتے ہیں۔ پھر بادل سے مینھ برساتے ہیں۔ پھر مینھ سے ہر طرح کے پھل پیدا کرتے ہیں۔ اسی طرح ہم مردوں کو (زمین سے) زندہ کرکے باہر نکال لیں گے۔ (یہ آیات اس لیے بیان کی جاتی ہیں) تاکہ تم نصیحت پکڑو
 
 [Open on Quran.com](https://quran.com/7/57)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Disputing with thee concerning the truth after it was made manifest, as if they were being driven to death and they (actually) saw it.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ لوگ حق بات میں اس کے ظاہر ہوئے پیچھے تم سے جھگڑنے لگے گویا موت کی طرف دھکیلے جاتے ہیں اور اسے دیکھ رہے ہیں
+
 [Open on Quran.com](https://quran.com/8/6)
 
 #### 19:86 · [[019 Maryam]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And will drive the criminals to Hell in thirst
 
 **English (Yusuf Ali):** And We shall drive the sinners to Hell, like thirsty cattle driven down to water,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور گنہگاروں کو دوزخ کی طرف پیاسے ہانک لے جائیں گے
 
 [Open on Quran.com](https://quran.com/19/86)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And do they not see that We do drive rain to parched soil (bare of herbage), and produce therewith crops, providing food for their cattle and themselves? Have they not the vision?
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا اُنہوں نے نہیں دیکھا کہ ہم بنجر زمین کی طرف پانی رواں کرتے ہیں پھر اس سے کھیتی پیدا کرتے ہیں جس میں سے ان کے چوپائے بھی کھاتے ہیں اور وہ خود بھی (کھاتے ہیں) تو یہ دیکھتے کیوں نہیں۔
+
 [Open on Quran.com](https://quran.com/32/27)
 
 #### 35:9 · [[035 Fatir]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And it is Allāh who sends the winds, and they stir the clouds, and We drive them to a dead land and give life thereby to the earth after its lifelessness. Thus is the resurrection.
 
 **English (Yusuf Ali):** It is Allah Who sends forth the Winds, so that they raise up the Clouds, and We drive them to a land that is dead, and revive the earth therewith after its death: even so (will be) the Resurrection!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی تو ہے جو ہوائیں چلاتا ہے اور وہ بادل کو اُبھارتی ہیں پھر ہم ان کو ایک بےجان شہر کی طرف چلاتے ہیں۔ پھر اس سے زمین کو اس کے مرنے کے بعد زندہ کردیتے ہیں۔ اسی طرح مردوں کو جی اُٹھنا ہوگا
 
 [Open on Quran.com](https://quran.com/35/9)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Unbelievers will be led to Hell in crowd: until, when they arrive, there, its gates will be opened. And its keepers will say, "Did not messengers come to you from among yourselves, rehearsing to you the Signs of your Lord, and warning you of the Meeting of This Day of yours?" The answer will be: "True: but the Decree of Punishment has been proved true against the Unbelievers!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کافروں کو گروہ گروہ بنا کر جہنم کی طرف لے جائیں گے۔ یہاں تک کہ جب وہ اس کے پاس پہنچ جائیں گے تو اس کے دروازے کھول دیئے جائیں گے تو اس کے داروغہ ان سے کہیں گے کہ کیا تمہارے پاس تم ہی میں سے پیغمبر نہیں آئے تھے جو تم کو تمہارے پروردگار کی آیتیں پڑھ پڑھ کر سناتے اور اس دن کے پیش آنے سے ڈراتے تھے کہیں گے کیوں نہیں لیکن کافروں کے حق میں عذاب کا حکم متحقق ہوچکا تھا
+
 [Open on Quran.com](https://quran.com/39/71)
 
 #### 39:73 · [[039 Az-Zumar]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who feared their Lord will be driven to Paradise in groups until, when they reach it while its gates have been opened and its keepers say, "Peace be upon you; you have become pure; so enter it to abide eternally therein," [they will enter].
 
 **English (Yusuf Ali):** And those who feared their Lord will be led to the Garden in crowds: until behold, they arrive there; its gates will be opened; and its keepers will say: "Peace be upon you! well have ye done! enter ye here, to dwell therein."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ اپنے پروردگار سے ڈرتے ہیں ان کو گروہ گروہ بنا کر بہشت کی طرف لے جائیں گے یہاں تک کہ جب اس کے پاس پہنچ جائیں گے اور اس کے دروازے کھول دیئے جائیں گے تو اس کے داروغہ ان سے کہیں کہ تم پر سلام تم بہت اچھے رہے۔ اب اس میں ہمیشہ کے لئے داخل ہوجاؤ
 
 [Open on Quran.com](https://quran.com/39/73)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:80 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they say, "Never will the Fire touch us, except for [a few] numbered days." Say, "Have you taken a covenant with Allāh? For Allāh will never break His covenant. Or do you say about Allāh that which you do not know?"
 
 **English (Yusuf Ali):** And they say: "The Fire shall not touch us but for a few numbered days:" Say: "Have ye taken a promise from Allah, for He never breaks His promise? or is it that ye say of Allah what ye do not know?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ (دوزخ کی) آگ ہمیں چند روز کے سوا چھو ہی نہیں سکے گی۔ ان سے پوچھو، کیا تم نے خدا سے اقرار لے رکھا ہے کہ خدا اپنے اقرار کے خلاف نہیں کرے گا۔ (نہیں)، بلکہ تم خدا کے بارے میں ایسی باتیں کہتے ہو جن کا تمہیں مطلق علم نہیں
 
 [Open on Quran.com](https://quran.com/2/80)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Fasting) for a fixed number of days; but if any of you is ill, or on a journey, the prescribed number (Should be made up) from days later. For those who can do it (With hardship), is a ransom, the feeding of one that is indigent. But he that will give more, of his own free will,- it is better for him. And it is better for you that ye fast, if ye only knew.
 
+**Urdu (Fatah Muhammad Jalandhari):** (روزوں کے دن) گنتی کے چند روز ہیں تو جو شخص تم میں سے بیمار ہو یا سفر میں ہو تو دوسرے دنوں میں روزوں کا شمار پورا کرلے اور جو لوگ روزہ رکھنے کی طاقت رکھیں (لیکن رکھیں نہیں) وہ روزے کے بدلے محتاج کو کھانا کھلا دیں اور جو کوئی شوق سے نیکی کرے تو اس کے حق میں زیادہ اچھا ہے۔ اور اگر سمجھو تو روزہ رکھنا ہی تمہارے حق میں بہتر ہے
+
 [Open on Quran.com](https://quran.com/2/184)
 
 #### 2:203 · [[002 Al-Baqarah]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And remember Allāh during [specific] numbered days. Then whoever hastens [his departure] in two days - there is no sin upon him; and whoever delays [until the third] - there is no sin upon him - for him who fears Allāh. And fear Allāh and know that unto Him you will be gathered.
 
 **English (Yusuf Ali):** Celebrate the praises of Allah during the Appointed Days. But if any one hastens to leave in two days, there is no blame on him, and if any one stays on, there is no blame on him, if his aim is to do right. Then fear Allah, and know that ye will surely be gathered unto Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (قیام منیٰ کے) دنوں میں (جو) گنتی کے (دن میں) خدا کو یاد کرو۔ اگر کوئی جلدی کرے (اور) دو ہی دن میں (چل دے) تو اس پر بھی کچھ گناہ نہیں۔ اور جو بعد تک ٹھہرا رہے اس پر بھی کچھ گناہ نہیں۔ یہ باتیں اس شخص کے لئے ہیں جو (خدا سے) ڈرے اور تم لوگ خدا سے ڈرتے رہو اور جان رکھو کہ تم سب اس کے پاس جمع کئے جاؤ گے۔
 
 [Open on Quran.com](https://quran.com/2/203)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** This because they say: "The Fire shall not touch us but for a few numbered days": For their forgeries deceive them as to their own religion.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس لیے کہ یہ اس بات کے قائل ہیں کہ (دوزخ کی) آگ ہمیں چند روز کے سوا چھو ہی نہیں سکے گی اور جو کچھ یہ دین کے بارے میں بہتان باندھتے رہے ہیں اس نے ان کو دھوکے میں ڈال رکھا ہے
+
 [Open on Quran.com](https://quran.com/3/24)
 
 #### 11:8 · [[011 Hud]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If We delay the penalty for them for a definite term, they are sure to say, "What keeps it back?" Ah! On the day it (actually) reaches them, nothing will turn it away from them, and they will be completely encircled by that which they used to mock at!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ایک مدت معین تک ہم ان سے عذاب روک دیں تو کہیں گے کہ کون سی چیز عذاب روکے ہوئے ہے۔ دیکھو جس روز وہ ان پر واقع ہوگا (پھر) ٹلنے کا نہیں اور جس چیز کے ساتھ یہ استہزاء کیا کرتے ہیں وہ ان کو گھیر لے گی
+
 [Open on Quran.com](https://quran.com/11/8)
 
 #### 12:20 · [[012 Yusuf]]
@@ -122,6 +132,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they sold him for a reduced price - a few dirhams - and they were, concerning him, of those content with little.
 
 **English (Yusuf Ali):** The (Brethren) sold him for a miserable price, for a few dirhams counted out: in such low estimation did they hold him!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس کو تھوڑی سی قیمت (یعنی) معدودے چند درہموں پر بیچ ڈالا۔ اور انہیں ان (کے بارے) میں کچھ لالچ نہ تھا
 
 [Open on Quran.com](https://quran.com/12/20)
 

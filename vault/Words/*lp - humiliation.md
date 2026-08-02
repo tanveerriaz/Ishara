@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:61 · [[002 Al-Baqarah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when you said, "O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions." [Moses] said, "Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked." And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing.
 
 **English (Yusuf Ali):** And remember ye said: "O Moses! we cannot endure one kind of food (always); so beseech thy Lord for us to produce for us of what the earth groweth, -its pot-herbs, and cucumbers, Its garlic, lentils, and onions." He said: "Will ye exchange the better for the worse? Go ye down to any town, and ye shall find what ye want!" They were covered with humiliation and misery; they drew on themselves the wrath of Allah. This because they went on rejecting the Signs of Allah and slaying His Messengers without just cause. This because they rebelled and went on transgressing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے کہا کہ موسیٰ! ہم سے ایک (ہی) کھانے پر صبر نہیں ہو سکتا تو اپنے پروردگار سے دعا کیجئے کہ ترکاری اور ککڑی اور گیہوں اور مسور اور پیاز (وغیرہ) جو نباتات زمین سے اُگتی ہیں، ہمارے لیے پیدا کر دے۔ انہوں نے کہا کہ بھلا عمدہ چیزیں چھوڑ کر ان کے عوض ناقص چیزیں کیوں چاہتے ہوں۔ (اگر یہی چیزیں مطلوب ہیں) تو کسی شہر میں جا اترو، وہاں جو مانگتے ہو، مل جائے گا۔ اور (آخرکار) ذلت (ورسوائی) اور محتاجی (وبے نوائی) ان سے چمٹا دی گئی اور وہ الله کے غضب میں گرفتار ہو گئے۔ یہ اس لیے کہ وہ الله کی آیتوں سے انکار کرتے تھے اور (اس کے) نبیوں کو ناحق قتل کر دیتے تھے۔ (یعنی) یہ اس لیے کہ نافرمانی کئے جاتے اور حد سے بڑھے جاتے تھے
 
 [Open on Quran.com](https://quran.com/2/61)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Shame is pitched over them (Like a tent) wherever they are found, except when under a covenant (of protection) from Allah and from men; they draw on themselves wrath from Allah, and pitched over them is (the tent of) destitution. This because they rejected the Signs of Allah, and slew the prophets in defiance of right; this because they rebelled and transgressed beyond bounds.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ جہاں نظر آئیں گے ذلت (کو دیکھو گے کہ) ان سے چمٹ رہی ہے بجز اس کے کہ یہ خدا اور (مسلمان) لوگوں کی پناہ میں آ جائیں اور یہ لوگ خدا کے غضب میں گرفتار ہیں اور ناداری ان سے لپٹ رہی ہے یہ اس لیے کہ خدا کی آیتوں سے انکار کرتےتھے اور (اس کے) پیغمبروں کو ناحق قتل کر دیتے تھے یہ اس لیے کہ یہ نافرمانی کیے جاتے اور حد سے بڑھے جاتے تھے
+
 [Open on Quran.com](https://quran.com/3/112)
 
 #### 7:152 · [[007 Al-Araf]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who took the calf [for worship] will obtain anger from their Lord and humiliation in the life of this world, and thus do We recompense the inventors [of falsehood].
 
 **English (Yusuf Ali):** Those who took the calf (for worship) will indeed be overwhelmed with wrath from their Lord, and with shame in this life: thus do We recompense those who invent (falsehoods).
+
+**Urdu (Fatah Muhammad Jalandhari):** (خدا نے فرمایا کہ) جن لوگوں نے بچھڑے کو (معبود) بنا لیا تھا ان پر پروردگار کا غضب واقع ہوگا اور دنیا کی زندگی میں ذلت (نصیب ہوگی) اور ہم افتراء پردازوں کو ایسا ہی بدلہ دیا کرتے ہیں
 
 [Open on Quran.com](https://quran.com/7/152)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To those who do right is a goodly (reward)- Yea, more (than in measure)! No darkness nor shame shall cover their faces! they are companions of the garden; they will abide therein (for aye)!
 
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے نیکو کاری کی ان کے لیے بھلائی ہے اور (مزید برآں) اور بھی اور ان کے مونہوں پر نہ تو سیاہی چھائے گی اور نہ رسوائی۔ یہی جنتی ہیں کہ اس میں ہمیشہ رہیں گے
+
 [Open on Quran.com](https://quran.com/10/26)
 
 #### 10:27 · [[010 Yunus]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But they who have earned [blame for] evil doings - the recompense of an evil deed is its equivalent, and humiliation will cover them. They will have from Allāh no protector. It will be as if their faces are covered with pieces of the night - so dark [are they]. Those are the companions of the Fire; they will abide therein eternally.
 
 **English (Yusuf Ali):** But those who have earned evil will have a reward of like evil: ignominy will cover their (faces): No defender will they have from (the wrath of) Allah: Their faces will be covered, as it were, with pieces from the depth of the darkness of night: they are companions of the Fire: they will abide therein (for aye)!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے برے کام کئے تو برائی کا بدلہ ویسا ہی ہوگا۔ اور ان کے مونہوں پر ذلت چھا جائے گی۔ اور کوئی ان کو خدا سے بچانے والا نہ ہوگا۔ ان کے مونہوں (کی سیاہی کا یہ عالم ہوگا کہ ان) پر گویا اندھیری رات کے ٹکڑے اُڑھا دیئے گئے ہیں۔ یہی دوزخی ہیں کہ ہمیشہ اس میں رہیں گے
 
 [Open on Quran.com](https://quran.com/10/27)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Their eyes will be cast down,- ignominy will cover them; seeing that they had been summoned aforetime to bow in adoration, while they were whole, (and had refused).
 
+**Urdu (Fatah Muhammad Jalandhari):** ان کی آنکھیں جھکی ہوئی ہوں گی اور ان پر ذلت چھا رہی ہوگی حالانکہ پہلے (اُس وقت) سجدے کے لئے بلاتے جاتے تھے جب کہ صحیح وسالم تھے
+
 [Open on Quran.com](https://quran.com/68/43)
 
 #### 70:44 · [[070 Al-Maarij]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Their eyes humbled, humiliation will cover them. That is the Day which they had been promised.
 
 **English (Yusuf Ali):** Their eyes lowered in dejection,- ignominy covering them (all over)! such is the Day the which they are promised!
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کی آنکھیں جھک رہی ہوں گی اور ذلت ان پر چھا رہی ہوگی۔ یہی وہ دن ہے جس کا ان سے وعدہ کیا جاتا تھا
 
 [Open on Quran.com](https://quran.com/70/44)
 

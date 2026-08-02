@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sEy - sey]]
+- [[sEy - walk]]
 
 ### Meaning
 **effort** · Lemma **سَعْي**
@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:260 · [[002 Al-Baqarah]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] when Abraham said, "My Lord, show me how You give life to the dead." [Allāh] said, "Have you not believed?" He said, "Yes, but [I ask] only that my heart may be satisfied." [Allāh] said, "Take four birds and commit them to yourself. Then [after slaughtering them] put on each hill a portion of them; then call them - they will come [flying] to you in haste. And know that Allāh is Exalted in Might and Wise."
 
 **English (Yusuf Ali):** When Abraham said: "Show me, Lord, how You will raise the dead, " He replied: "Have you no faith?" He said "Yes, but just to reassure my heart." Allah said, "Take four birds, draw them to you, and cut their bodies to pieces. Scatter them over the mountain-tops, then call them back. They will come swiftly to you. Know that Allah is Mighty, Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے (خدا سے) کہا کہ اے پروردگار مجھے دکھا کہ تو مردوں کو کیونکر زندہ کرے گا۔ خدا نے فرمایا کیا تم نے (اس بات کو) باور نہیں کیا۔ انہوں نے کہا کیوں نہیں۔ لیکن (میں دیکھنا) اس لئے (چاہتا ہوں) کہ میرا دل اطمینان کامل حاصل کرلے۔ خدا نے فرمایا کہ چار جانور پکڑوا کر اپنے پاس منگا لو (اور ٹکڑے ٹکڑے کرادو) پھر ان کا ایک ٹکڑا ہر ایک پہاڑ پر رکھوا دو پھر ان کو بلاؤ تو وہ تمہارے پاس دوڑتے چلے آئیں گے۔ اور جان رکھو کہ خدا غالب اور صاحب حکمت ہے۔
 
 [Open on Quran.com](https://quran.com/2/260)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who do wish for the (things of) the Hereafter, and strive therefor with all due striving, and have Faith,- they are the ones whose striving is acceptable (to Allah).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص آخرت کا خواستگار ہوا اور اس میں اتنی کوشش کرے جتنی اسے لائق ہے اور وہ مومن بھی ہو تو ایسے ہی لوگوں کی کوشش ٹھکانے لگتی ہے
+
 [Open on Quran.com](https://quran.com/17/19)
 
 #### 18:104 · [[018 Al-Kahf]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [They are] those whose effort is lost in worldly life, while they think that they are doing well in work."
 
 **English (Yusuf Ali):** "Those whose efforts have been wasted in this life, while they thought that they were acquiring good by their works?"
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ لوگ جن کی سعی دنیا کی زندگی میں برباد ہوگئی۔ اور وہ یہ سمجھے ہوئے ہیں کہ اچھے کام کر رہے ہیں
 
 [Open on Quran.com](https://quran.com/18/104)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whoever works any act of righteousness and has faith,- His endeavour will not be rejected: We shall record it in his favour.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو نیک کام کرے گا اور مومن بھی ہوگا تو اس کی کوشش رائیگاں نہ جائے گی۔ اور ہم اس کے لئے (ثواب اعمال) لکھ رہے ہیں
+
 [Open on Quran.com](https://quran.com/21/94)
 
 #### 37:102 · [[037 As-Saffat]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when he reached with him [the age of] exertion, he said, "O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think." He said, "O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast."
 
 **English (Yusuf Ali):** Then, when (the son) reached (the age of) (serious) work with him, he said: "O my son! I see in vision that I offer thee in sacrifice: Now see what is thy view!" (The son) said: "O my father! Do as thou art commanded: thou will find me, if Allah so wills one practising Patience and Constancy!"
+
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ ان کے ساتھ دوڑنے (کی عمر) کو پہنچا تو ابراہیم نے کہا کہ بیٹا میں خواب میں دیکھتا ہوں کہ (گویا) تم کو ذبح کر رہا ہوں تو تم سوچو کہ تمہارا کیا خیال ہے؟ انہوں نے کہا کہ ابا جو آپ کو حکم ہوا ہے وہی کیجیئے خدا نے چاہا تو آپ مجھے صابروں میں پایئے گا
 
 [Open on Quran.com](https://quran.com/37/102)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** That (the fruit of) his striving will soon come in sight:
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ اس کی کوشش دیکھی جائے گی
+
 [Open on Quran.com](https://quran.com/53/40)
 
 #### 76:22 · [[076 Al-Insan]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [And it will be said], "Indeed, this is for you a reward, and your effort has been appreciated."
 
 **English (Yusuf Ali):** "Verily this is a Reward for you, and your Endeavour is accepted and recognised."
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ تمہارا صلہ اور تمہاری کوشش (خدا کے ہاں) مقبول ہوئی
 
 [Open on Quran.com](https://quran.com/76/22)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Pleased with their striving,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اپنے اعمال (کی جزا )سے خوش دل
+
 [Open on Quran.com](https://quran.com/88/9)
 
 #### 92:4 · [[092 Al-Layl]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, your efforts are diverse.
 
 **English (Yusuf Ali):** Verily, (the ends) ye strive for are diverse.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہ تم لوگوں کی کوششں طرح طرح کی ہے
 
 [Open on Quran.com](https://quran.com/92/4)
 

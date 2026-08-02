@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ftn - ftn]]
+- [[ftn - burn melt something]]
 
 ### Meaning
 **we tried** · Lemma **فَتَنُ**
@@ -40,7 +40,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:101 · [[004 An-Nisa]]
 
@@ -55,6 +55,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you travel throughout the land, there is no blame upon you for shortening the prayer, [especially] if you fear that those who disbelieve may disrupt [or attack] you. Indeed, the disbelievers are ever to you a clear enemy.
 
 **English (Yusuf Ali):** When ye travel through the earth, there is no blame on you if ye shorten your prayers, for fear the Unbelievers May attack you: For the Unbelievers are unto you open enemies.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم سفر کو جاؤ تو تم پر کچھ گناہ نہیں کہ نماز کو کم کرکے پڑھو بشرطیکہ تم کو خوف ہو کہ کافر لوگ تم کو ایذا دیں گے بےشک کافر تمہارے کھلے دشمن ہیں
 
 [Open on Quran.com](https://quran.com/4/101)
 
@@ -72,6 +74,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And this (He commands): Judge thou between them by what Allah hath revealed, and follow not their vain desires, but beware of them lest they beguile thee from any of that (teaching) which Allah hath sent down to thee. And if they turn away, be assured that for some of their crime it is Allah's purpose to punish them. And truly most men are rebellious.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (ہم پھر تاکید کرتے ہیں کہ) جو (حکم) خدا نے نازل فرمایا ہے اسی کے مطابق ان میں فیصلہ کرنا اور ان کی خواہشوں کی پیروی نہ کرنا اور ان سے بچتے رہنا کہ کسی حکم سے جو خدا نے تم پر نازل فرمایا ہے یہ کہیں تم کو بہکانہ دیں اگر یہ نہ مانیں تو جان لو کہ خدا چاہتا ہے کہ ان کے بعض گناہوں کے سبب ان پر مصیبت نازل کرے اور اکثر لوگ تو نافرمان ہیں
+
 [Open on Quran.com](https://quran.com/5/49)
 
 #### 6:53 · [[006 Al-Anam]]
@@ -87,6 +91,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And thus We have tried some of them through others that they [i.e., the disbelievers] might say, "Is it these whom Allāh has favored among us?" Is not Allāh most knowing of those who are grateful?
 
 **English (Yusuf Ali):** Thus did We try some of them by comparison with others, that they should say: "Is it these then that Allah hath favoured from amongst us?" Doth not Allah know best those who are grateful?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے بعض لوگوں کی بعض سے آزمائش کی ہے کہ (جو دولتمند ہیں وہ غریبوں کی نسبت) کہتے ہیں کیا یہی لوگ ہیں جن پر خدا نے ہم میں سے فضل کیا ہے (خدا نے فرمایا) بھلا خدا شکر کرنے والوں سے واقف نہیں؟
 
 [Open on Quran.com](https://quran.com/6/53)
 
@@ -104,6 +110,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye Children of Adam! Let not Satan seduce you, in the same manner as He got your parents out of the Garden, stripping them of their raiment, to expose their shame: for he and his tribe watch you from a position where ye cannot see them: We made the evil ones friends (only) to those without faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی آدم (دیکھنا کہیں) شیطان تمہیں بہکا نہ دے جس طرح تمہارے ماں باپ کو (بہکا کر) بہشت سے نکلوا دیا اور ان سے ان کے کپڑے اتروا دیئے تاکہ ان کے ستر ان کو کھول کر دکھا دے۔ وہ اور اس کے بھائی تم کو ایسی جگہ سے دیکھتے رہے ہیں جہاں سے تم ان کو نہیں دیکھ سکتے ہم نے شیطانوں کو انہیں لوگوں کا رفیق کار بنایا ہے جو ایمان نہیں رکھتے
+
 [Open on Quran.com](https://quran.com/7/27)
 
 #### 9:49 · [[009 At-Tawbah]]
@@ -119,6 +127,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And among them is he who says, "Permit me [to remain at home] and do not put me to trial." Unquestionably, into trial they have fallen. And indeed, Hell will encompass the disbelievers.
 
 **English (Yusuf Ali):** Among them is (many) a man who says: "Grant me exemption and draw me not into trial." Have they not fallen into trial already? and indeed Hell surrounds the Unbelievers (on all sides).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں کوئی ایسا بھی ہے جو کہتا ہے کہ مجھے تو اجازت ہی دیجئے اور آفت میں نہ ڈالئے۔ دیکھو یہ آفت میں پڑگئے ہیں اور دوزخ سب کافروں کو گھیرے ہوئے ہے
 
 [Open on Quran.com](https://quran.com/9/49)
 
@@ -136,6 +146,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** See they not that they are tried every year once or twice? Yet they turn not in repentance, and they take no heed.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ دیکھتے نہیں کہ یہ ہر سال ایک یا دو بار بلا میں پھنسا دیئے جاتے ہیں پھر بھی توبہ نہیں کرتے اور نہ نصیحت پکڑتے ہیں
+
 [Open on Quran.com](https://quran.com/9/126)
 
 #### 10:83 · [[010 Yunus]]
@@ -151,6 +163,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But no one believed Moses, except [some] offspring [i.e., youths] among his people, for fear of Pharaoh and his establishment that they would persecute them. And indeed, Pharaoh was haughty within the land, and indeed, he was of the transgressors.
 
 **English (Yusuf Ali):** But none believed in Moses except some children of his people, because of the fear of Pharaoh and his chiefs, lest they should persecute them; and certainly Pharaoh was mighty on the earth and one who transgressed all bounds.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو موسیٰ پر کوئی ایمان نہ لایا۔ مگر اس کی قوم میں سے چند لڑکے (اور وہ بھی) فرعون اور اس کے اہل دربار سے ڈرتے ڈرتے کہ کہیں وہ ان کو آفت میں نہ پھنسا دے۔ اور فرعون ملک میں متکبر ومتغلب اور (کبر وکفر) میں حد سے بڑھا ہوا تھا
 
 [Open on Quran.com](https://quran.com/10/83)
 
@@ -168,6 +182,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But verily thy Lord,- to those who leave their homes after trials and persecutions,- and who thereafter strive and fight for the faith and patiently persevere,- Thy Lord, after all this is oft-forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر جن لوگوں نے ایذائیں اٹھانے کے بعد ترک وطن کیا۔ پھر جہاد کئے اور ثابت قدم رہے تمہارا پروردگار ان کو بےشک ان (آزمائشوں) کے بعد بخشنے والا (اور ان پر) رحمت کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/16/110)
 
 #### 17:73 · [[017 Al-Isra]]
@@ -184,6 +200,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And their purpose was to tempt thee away from that which We had revealed unto thee, to substitute in our name something quite different; (in that case), behold! they would certainly have made thee (their) friend!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اے پیغمبر جو وحی ہم نے تمہاری طرف بھیجی ہے قریب تھا کہ یہ (کافر) لوگ تم کو اس سے بچلا دیں تاکہ تم اس کے سوا اور باتیں ہماری نسبت بنالو۔ اور اس وقت وہ تم کو دوست بنا لیتے
+
 [Open on Quran.com](https://quran.com/17/73)
 
 #### 20:40 · [[020 Taha]]
@@ -199,6 +217,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [And We favored you] when your sister went and said, 'Shall I direct you to someone who will be responsible for him?' So We restored you to your mother that she might be content and not grieve. And you killed someone, but We saved you from retaliation and tried you with a [severe] trial. And you remained [some] years among the people of Madyan. Then you came [here] at the decreed time, O Moses.
 
 **English (Yusuf Ali):** "Behold! thy sister goeth forth and saith, 'shall I show you one who will nurse and rear the (child)?' So We brought thee back to thy mother, that her eye might be cooled and she should not grieve. Then thou didst slay a man, but We saved thee from trouble, and We tried thee in various ways. Then didst thou tarry a number of years with the people of Midian. Then didst thou come hither as ordained, O Moses!
+
+**Urdu (Fatah Muhammad Jalandhari):** جب تمہاری بہن (فرعون کے ہاں) گئی اور کہنے لگی کہ میں تمہیں ایسا شخص بتاؤں جو اس کو پالے۔ تو (اس طریق سے) ہم نے تم کو تمہاری ماں کے پاس پہنچا دیا تاکہ ان کی آنکھیں ٹھنڈی ہوں اور وہ رنج نہ کریں۔ اور تم نے ایک شخص کو مار ڈالا تو ہم نے تم کو غم سے مخلصی دی اور ہم نے تمہاری (کئی بار) آزمائش کی۔ پھر تم کئی سال اہل مدین میں ٹھہرے رہے۔ پھر اے موسیٰ تم (قابلیت رسالت کے) اندازے پر آ پہنچے
 
 [Open on Quran.com](https://quran.com/20/40)
 

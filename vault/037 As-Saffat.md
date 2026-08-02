@@ -15,83 +15,83 @@ Those who set the Ranks · 182 ayahs
 ## Words in this surah (graph)
 
 - [[jHym - hellfire]] — `جَحِيم` · hellfire
-- [[mHDr - will brought]] — `مُحْضَر` · will brought
 - [[>qbl - will approach]] — `أَقْبَلَ` · will approach
-- [[ystft - inquire]] — `يَسْتَفْتُ` · inquire
-- [[TlE - discover]] — `طَلَعَ` · discover
-- [[EZAm - bones]] — `عِظام` · bones
-- [[*bH - you slaughter]] — `ذُبِحَ` · you slaughter
-- [[ytsA'l - you ask]] — `يَتَساءَلُ` · you ask
-- [[bnt - daughters]] — `بِنْت` · daughters
-- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
-- [[<fk - lie]] — `إِفْك` · lie
+- [[mHDr - will brought]] — `مُحْضَر` · will brought
 - [[mElwm - known]] — `مَعْلُوم` · known
+- [[TlE - discover]] — `طَلَعَ` · discover
+- [[bnt - daughters]] — `بِنْت` · daughters
 - [[krb - distress]] — `كَرْب` · distress
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[HfZ - guard]] — `حِفْظ` · guard
-- [[r>s - heads]] — `رَأْس` · heads
-- [[SAfp - wings outspread]] — `صافَّة` · wings outspread
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[Zlm - wronged]] — `ظَلَمَ` · wronged
-- [[gAlb - victorious]] — `غالِب` · victorious
-- [[lyl - night]] — `لَيْل` · night
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[>slm - submits]] — `أَسْلَمَ` · submits
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[<fk - lie]] — `إِفْك` · lie
+- [[EZAm - bones]] — `عِظام` · bones
+- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
+- [[ystft - inquire]] — `يَسْتَفْتُ` · inquire
+- [[ytsA'l - you ask]] — `يَتَساءَلُ` · you ask
+- [[*bH - you slaughter]] — `ذُبِحَ` · you slaughter
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[Hlym - forbearing]] — `حَلِيم` · forbearing
+- [[Sf - rows]] — `صَفّ` · rows
+- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
+- [[nAdY - he called]] — `نادَى` · he called
+- [[mrsl - messengers]] — `مُرْسَل` · messengers
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[mdbr - fleeing]] — `مُدْبِر` · fleeing
+- [[>rD - earth]] — `أَرْض` · earth
+- [[xTf - snatches away]] — `خَطِفَ` · snatches away
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Hn - shhn]]
-- [[$Tn - shtn]]
+- [[$Hn - fill]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
-- [[$hb - shhb]]
-- [[$hd - shhd]]
-- [[$jr - shjr]]
-- [[$rb - shrb]]
+- [[$hb - burning flame]]
+- [[$hd - witnessing]]
+- [[$jr - trees]]
+- [[$rb - drink]]
 - [[$rk - sharing partnership]]
-- [[$rq - east]]
+- [[$rq - earth]]
 - [[$y> - thing]]
-- [[$yE - shye]]
+- [[$yE - follow cause follow]]
 - [[*bH - cut split lengthwise]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*rr - scattering dispersing small]]
-- [[*wq - dhwq]]
+- [[*wq - taste]]
 - [[>Sl - foundational part something]]
-- [[>bw - abw]]
-- [[>fk - afk]]
+- [[>bw - forefathers]]
+- [[>fk - turn something away]]
 - [[>hl - people house]]
 - [[>kl - eat]]
-- [[>lf - alifa]]
+- [[>lf - become familiar]]
 - [[>lh - god]]
-- [[>lm - alm]]
-- [[>mn - amn]]
+- [[>lm - painful]]
+- [[>mn - believe]]
 - [[>mr - amara]]
 - [[>nv - female]]
-- [[>rD - ard]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vr - athr]]
-- [[>wl - like milk oil]]
-- [[>xr - akhr]]
+- [[>vr - trace]]
+- [[>wl - return revert original]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[Drb - tent]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[Drb - strike beat]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Ebd - worship]]
 - [[Ejb - amazing]]
-- [[Ejl - ejl]]
+- [[Ejl - incite cause someone]]
 - [[Ejz - old age weakness]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
 - [[Eqb - heel human foot]]
-- [[Eql - eql]]
+- [[Eql - withhold restrain]]
 - [[Ery - become naked]]
-- [[Eyn - eyn]]
+- [[Eyn - eyes]]
 
 ## Sample (ayah 1)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 10:24 · [[010 Yunus]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The example of [this] worldly life is but like rain which We have sent down from the sky that the plants of the earth absorb - [those] from which men and livestock eat - until, when the earth has taken on its adornment and is beautified and its people suppose that they have capability over it, there comes to it Our command by night or by day, and We make it as a harvest, as if it had not flourished yesterday. Thus do We explain in detail the signs for a people who give thought.
 
 **English (Yusuf Ali):** The likeness of the life of the present is as the rain which We send down from the skies: by its mingling arises the produce of the earth- which provides food for men and animals: (It grows) till the earth is clad with its golden ornaments and is decked out (in beauty): the people to whom it belongs think they have all powers of disposal over it: There reaches it Our command by night or by day, and We make it like a harvest clean-mown, as if it had not flourished only the day before! thus do We explain the Signs in detail for those who reflect.
+
+**Urdu (Fatah Muhammad Jalandhari):** دنیا کی زندگی کی مثال مینھہ کی سی ہے کہ ہم نے اس کو آسمان سے برسایا۔ پھر اس کے ساتھ سبزہ جسے آدمی اور جانور کھاتے ہیں مل کر نکلا یہاں تک کہ زمین سبزے سے خوشنما اور آراستہ ہوگئی اور زمین والوں نے خیال کیا کہ وہ اس پر پوری دسترس رکھتے ہیں ناگہاں رات کو یا دن کو ہمارا حکم (عذاب) آپہنچا تو ہم نے اس کو کاٹ (کر ایسا کر) ڈالا کہ گویا کل وہاں کچھ تھا ہی نہیں۔ جو لوگ غور کرنے والے ہیں۔ ان کے لیے ہم (اپنی قدرت کی) نشانیاں اسی طرح کھول کھول کر بیان کرتے ہیں
 
 [Open on Quran.com](https://quran.com/10/24)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** These are some of the stories of communities which We relate unto thee: of them some are standing, and some have been mown down (by the sickle of time).
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ (پرانی) بستیوں کے تھوڑے سے حالات ہیں جو ہم تم سے بیان کرتے ہیں۔ ان میں سے بعض تو باقی ہیں اور بعض کا تہس نہس ہوگیا
+
 [Open on Quran.com](https://quran.com/11/100)
 
 #### 21:15 · [[021 Al-Anbya]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And that cry of theirs ceased not, till We made them as a field that is mown, as ashes silent and quenched.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو وہ ہمیشہ اسی طرح پکارتے رہے یہاں تک کہ ہم نے ان کو (کھیتی کی طرح) کاٹ کر (اور آگ کی طرح) بجھا کر ڈھیر کردیا
+
 [Open on Quran.com](https://quran.com/21/15)
 
 #### 50:9 · [[050 Qaf]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have sent down blessed rain from the sky and made grow thereby gardens and grain from the harvest
 
 **English (Yusuf Ali):** And We send down from the sky rain charted with blessing, and We produce therewith gardens and Grain for harvests;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور آسمان سے برکت والا پانی اُتارا اور اس سے باغ وبستان اُگائے اور کھیتی کا اناج
 
 [Open on Quran.com](https://quran.com/50/9)
 

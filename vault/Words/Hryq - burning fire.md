@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hrq - hrq]]
+- [[Hrq - burn]]
 
 ### Meaning
 **burning fire** · Lemma **حَرِيق**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:181 · [[003 Ali Imran]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh has certainly heard the statement of those [Jews] who said, "Indeed, Allāh is poor, while we are rich." We will record what they said and their killing of the prophets without right and will say, "Taste the punishment of the Burning Fire.
 
 **English (Yusuf Ali):** Allah hath heard the taunt of those who say: "Truly, Allah is indigent and we are rich!"- We shall certainly record their word and (their act) of slaying the prophets in defiance of right, and We shall say: "Taste ye the penalty of the Scorching Fire!
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے ان لوگوں کا قول سن لیا ہے جو کہتے ہیں کہ خدا فقیر ہے۔ اور ہم امیر ہیں۔ یہ جو کہتے ہیں ہم اس کو لکھ لیں گے۔ اور پیغمبروں کو جو یہ ناحق قتل کرتے رہے ہیں اس کو بھی (قلمبند کر رکھیں گے) اور (قیامت کے روز) کہیں گے کہ عذاب (آتش) سوزاں کے مزے چکھتے رہو
 
 [Open on Quran.com](https://quran.com/3/181)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If thou couldst see, when the angels take the souls of the Unbelievers (at death), (How) they smite their faces and their backs, (saying): "Taste the penalty of the blazing Fire-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کاش تم اس وقت (کی کیفیت) دیکھو۔ جب فرشتے کافروں کی جانیں نکالتے ہیں ان کے مونہوں اور پیٹھوں پر (کوڑے اور ہتھوڑے وغیرہ) مارتے (ہیں اور کہتے ہیں) کہ (اب) عذاب آتش (کا مزہ) چکھو
+
 [Open on Quran.com](https://quran.com/8/50)
 
 #### 22:9 · [[022 Al-Hajj]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Twisting his neck [in arrogance] to mislead [people] from the way of Allāh. For him in the world is disgrace, and We will make him taste on the Day of Resurrection the punishment of the Burning Fire [while it is said],
 
 **English (Yusuf Ali):** (Disdainfully) bending his side, in order to lead (men) astray from the Path of Allah: for him there is disgrace in this life, and on the Day of Judgment We shall make him taste the Penalty of burning (Fire).
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور تکبر سے) گردن موڑ لیتا (ہے) تاکہ (لوگوں کو) خدا کے رستے سے گمراہ کردے۔ اس کے لئے دنیا میں ذلت ہے۔ اور قیامت کے دن ہم اسے عذاب (آتش) سوزاں کا مزہ چکھائیں گے
 
 [Open on Quran.com](https://quran.com/22/9)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Every time they wish to get away therefrom, from anguish, they will be forced back therein, and (it will be said), "Taste ye the Penalty of Burning!"
 
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ چاہیں گے کہ اس رنج (وتکلیف) کی وجہ سے دوزخ سے نکل جائیں تو پھر اسی میں لوٹا دیئے جائیں گے۔ اور (کہا جائے گا کہ) جلنے کے عذاب کا مزہ چکھتے رہو
+
 [Open on Quran.com](https://quran.com/22/22)
 
 #### 85:10 · [[085 Al-Buruj]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who have tortured the believing men and believing women and then have not repented will have the punishment of Hell, and they will have the punishment of the Burning Fire.
 
 **English (Yusuf Ali):** Those who persecute (or draw into temptation) the Believers, men and women, and do not turn in repentance, will have the Penalty of Hell: They will have the Penalty of the Burning Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے مومن مردوں اور مومن عورتوں کو تکلیفیں دیں اور توبہ نہ کی ان کو دوزخ کا (اور) عذاب بھی ہوگا اور جلنے کا عذاب بھی ہوگا
 
 [Open on Quran.com](https://quran.com/85/10)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 18:51 · [[018 Al-Kahf]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** I did not make them witness to the creation of the heavens and the earth or to the creation of themselves, and I would not have taken the misguiders as assistants.
 
 **English (Yusuf Ali):** I called them not to witness the creation of the heavens and the earth, nor (even) their own creation: nor is it for helpers such as Me to take as lead (men) astray!
+
+**Urdu (Fatah Muhammad Jalandhari):** میں نے ان کو نہ تو آسمانوں اور زمین کے پیدا کرنے کے وقت بلایا تھا اور نہ خود ان کے پیدا کرنے کے وقت۔ اور میں ایسا نہ تھا کہ گمراہ کرنے والوں کو مددگار بناتا
 
 [Open on Quran.com](https://quran.com/18/51)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And he entered the city at a time when its people were not watching: and he found there two men fighting,- one of his own religion, and the other, of his foes. Now the man of his own religion appealed to him against his foe, and Moses struck him with his fist and made an end of him. He said: "This is a work of Evil (Satan): for he is an enemy that manifestly misleads!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ ایسے وقت شہر میں داخل ہوئے کہ وہاں کے باشندے بےخبر ہو رہے تھے تو دیکھا کہ وہاں دو شخص لڑ رہے تھے ایک تو موسٰی کی قوم کا ہے اور دوسرا اُن کے دشمنوں میں سے تو جو شخص اُن کی قوم میں سے تھا اس نے دوسرے شخص کے مقابلے میں جو موسٰی کے دشمنوں میں سے تھا مدد طلب کی تو اُنہوں نے اس کو مکا مارا اور اس کا کام تمام کر دیا کہنے لگے کہ یہ کام تو (اغوائے) شیطان سے ہوا بیشک وہ (انسان کا) دشمن اور صریح بہکانے والا ہے
+
 [Open on Quran.com](https://quran.com/28/15)
 
 #### 39:37 · [[039 Az-Zumar]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whoever Allāh guides - for him there is no misleader. Is not Allāh Exalted in Might and Owner of Retribution?
 
 **English (Yusuf Ali):** And such as Allah doth guide there can be none to lead astray. Is not Allah Exalted in Power, (Able to enforce His Will), Lord of Retribution?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس کو خدا ہدایت دے اس کو کوئی گمراہ کرنے والا نہیں۔ کیا خدا غالب (اور) بدلہ لینے والا نہیں ہے؟
 
 [Open on Quran.com](https://quran.com/39/37)
 

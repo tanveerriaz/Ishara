@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:37 · [[006 Al-Anam]]
 
@@ -49,6 +49,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they say, "Why has a sign not been sent down to him from his Lord?" Say, "Indeed, Allāh is Able to send down a sign, but most of them do not know."
 
 **English (Yusuf Ali):** They say: "Why is not a sign sent down to him from his Lord?" Say: "Allah hath certainly power to send down a sign: but most of them understand not.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ ان پر ان کے پروردگارکے پاس کوئی نشانی کیوں نازل نہیں ہوئی۔ کہہ دو کہ خدا نشانی اتارنے پر قادر ہے لیکن اکثر لوگ نہیں جانتے
 
 [Open on Quran.com](https://quran.com/6/37)
 
@@ -66,6 +68,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "He hath power to send calamities on you, from above and below, or to cover you with confusion in party strife, giving you a taste of mutual vengeance - each from the other." See how We explain the signs by various (symbols); that they may understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ وہ (اس پر بھی) قدرت رکھتا ہے کہ تم پر اوپر کی طرف سے یا تمہارے پاؤں کے نیچے سے عذاب بھیجے یا تمہیں فرقہ فرقہ کردے اور ایک کو دوسرے (سے لڑا کر آپس) کی لڑائی کا مزہ چکھادے۔ دیکھو ہم اپنی آیتوں کو کس کس طرح بیان کرتے ہیں تاکہ یہ لوگ سمجھیں
+
 [Open on Quran.com](https://quran.com/6/65)
 
 #### 10:24 · [[010 Yunus]]
@@ -81,6 +85,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The example of [this] worldly life is but like rain which We have sent down from the sky that the plants of the earth absorb - [those] from which men and livestock eat - until, when the earth has taken on its adornment and is beautified and its people suppose that they have capability over it, there comes to it Our command by night or by day, and We make it as a harvest, as if it had not flourished yesterday. Thus do We explain in detail the signs for a people who give thought.
 
 **English (Yusuf Ali):** The likeness of the life of the present is as the rain which We send down from the skies: by its mingling arises the produce of the earth- which provides food for men and animals: (It grows) till the earth is clad with its golden ornaments and is decked out (in beauty): the people to whom it belongs think they have all powers of disposal over it: There reaches it Our command by night or by day, and We make it like a harvest clean-mown, as if it had not flourished only the day before! thus do We explain the Signs in detail for those who reflect.
+
+**Urdu (Fatah Muhammad Jalandhari):** دنیا کی زندگی کی مثال مینھہ کی سی ہے کہ ہم نے اس کو آسمان سے برسایا۔ پھر اس کے ساتھ سبزہ جسے آدمی اور جانور کھاتے ہیں مل کر نکلا یہاں تک کہ زمین سبزے سے خوشنما اور آراستہ ہوگئی اور زمین والوں نے خیال کیا کہ وہ اس پر پوری دسترس رکھتے ہیں ناگہاں رات کو یا دن کو ہمارا حکم (عذاب) آپہنچا تو ہم نے اس کو کاٹ (کر ایسا کر) ڈالا کہ گویا کل وہاں کچھ تھا ہی نہیں۔ جو لوگ غور کرنے والے ہیں۔ ان کے لیے ہم (اپنی قدرت کی) نشانیاں اسی طرح کھول کھول کر بیان کرتے ہیں
 
 [Open on Quran.com](https://quran.com/10/24)
 
@@ -98,6 +104,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** See they not that Allah, Who created the heavens and the earth, has power to create the like of them (anew)? Only He has decreed a term appointed, of which there is no doubt. But the unjust refuse (to receive it) except with ingratitude.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ خدا جس نے آسمانوں اور زمین کو پیدا کیا ہے اس بات پر قادر ہے کہ ان جیسے (لوگ) پیدا کردے۔ اور اس نے ان کے لئے ایک وقت مقرر کر دیا ہے جس میں کچھ بھی شک نہیں۔ تو ظالموں نے انکار کرنے کے سوا (اسے) قبول نہ کیا
+
 [Open on Quran.com](https://quran.com/17/99)
 
 #### 23:18 · [[023 Al-Muminun]]
@@ -113,6 +121,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have sent down rain from the sky in a measured amount and settled it in the earth. And indeed, We are Able to take it away.
 
 **English (Yusuf Ali):** And We send down water from the sky according to (due) measure, and We cause it to soak in the soil; and We certainly are able to drain it off (with ease).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہی نے آسمان سے ایک اندازے کے ساتھ پانی نازل کیا۔ پھر اس کو زمین میں ٹھہرا دیا اور ہم اس کے نابود کردینے پر بھی قادر ہیں
 
 [Open on Quran.com](https://quran.com/23/18)
 
@@ -130,6 +140,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We are certainly able to show thee (in fulfilment) that against which they are warned.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو وعدہ ہم ان سے کر رہے ہیں ہم تم کو دکھا کر ان پر نازل کرنے پر قادر ہیں
+
 [Open on Quran.com](https://quran.com/23/95)
 
 #### 36:81 · [[036 Ya-Sin]]
@@ -145,6 +157,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Is not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator.
 
 **English (Yusuf Ali):** "Is not He Who created the heavens and the earth able to create the like thereof?" - Yea, indeed! for He is the Creator Supreme, of skill and knowledge (infinite)!
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس نے آسمانوں اور زمین کو پیدا کیا، کیا وہ اس بات پر قادر نہیں کہ (ان کو پھر) ویسے ہی پیدا کر دے۔ کیوں نہیں۔ اور وہ تو بڑا پیدا کرنے والا اور علم والا ہے
 
 [Open on Quran.com](https://quran.com/36/81)
 
@@ -162,6 +176,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** See they not that Allah, Who created the heavens and the earth, and never wearied with their creation, is able to give life to the dead? Yea, verily He has power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں سمجھا کہ جس خدا نے آسمانوں اور زمین کو پیدا کیا اور ان کے پیدا کرنے سے تھکا نہیں۔ وہ اس (بات) پر بھی قادر ہے کہ مردوں کو زندہ کر دے۔ ہاں ہاں وہ ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/46/33)
 
 #### 68:25 · [[068 Al-Qalam]]
@@ -178,6 +194,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And they opened the morning, strong in an (unjust) resolve.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کوشش کے ساتھ سویرے ہی جا پہنچے (گویا کھیتی پر) قادر ہیں
+
 [Open on Quran.com](https://quran.com/68/25)
 
 #### 70:40 · [[070 Al-Maarij]]
@@ -193,6 +211,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So I swear by the Lord of [all] risings and settings that indeed We are able
 
 **English (Yusuf Ali):** Now I do call to witness the Lord of all points in the East and the West that We can certainly-
+
+**Urdu (Fatah Muhammad Jalandhari):** ہمیں مشرقوں اور مغربوں کے مالک کی قسم کہ ہم طاقت رکھتے ہیں
 
 [Open on Quran.com](https://quran.com/70/40)
 

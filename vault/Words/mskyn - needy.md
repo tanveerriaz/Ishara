@@ -41,7 +41,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:83 · [[002 Al-Baqarah]]
 
@@ -56,6 +56,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We took the covenant from the Children of Israel, [enjoining upon them], "Do not worship except Allāh; and to parents do good and to relatives, orphans, and the needy. And speak to people good [words] and establish prayer and give zakāh." Then you turned away, except a few of you, and you were refusing.
 
 **English (Yusuf Ali):** And remember We took a covenant from the Children of Israel (to this effect): Worship none but Allah; treat with kindness your parents and kindred, and orphans and those in need; speak fair to the people; be steadfast in prayer; and practise regular charity. Then did ye turn back, except a few among you, and ye backslide (even now).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے بنی اسرائیل سے عہد لیا کہ خدا کے سوا کسی کی عبادت نہ کرنا اور ماں باپ اور رشتہ داروں اور یتیموں اور محتاجوں کے ساتھ بھلائی کرتے رہنا اور لوگوں سے اچھی باتیں کہنا، اور نماز پڑھتے اور زکوٰة دیتے رہنا، تو چند شخصوں کے سوا تم سب (اس عہد سے) منہ پھیر کر پھر بیٹھے
 
 [Open on Quran.com](https://quran.com/2/83)
 
@@ -73,6 +75,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+
 [Open on Quran.com](https://quran.com/2/177)
 
 #### 2:184 · [[002 Al-Baqarah]]
@@ -88,6 +92,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Fasting for] a limited number of days. So whoever among you is ill or on a journey [during them] - then an equal number of other days [are to be made up]. And upon those who are able [to fast, but with hardship] - a ransom [as substitute] of feeding a poor person [each day]. And whoever volunteers good [i.e., excess] - it is better for him. But to fast is best for you, if you only knew.
 
 **English (Yusuf Ali):** (Fasting) for a fixed number of days; but if any of you is ill, or on a journey, the prescribed number (Should be made up) from days later. For those who can do it (With hardship), is a ransom, the feeding of one that is indigent. But he that will give more, of his own free will,- it is better for him. And it is better for you that ye fast, if ye only knew.
+
+**Urdu (Fatah Muhammad Jalandhari):** (روزوں کے دن) گنتی کے چند روز ہیں تو جو شخص تم میں سے بیمار ہو یا سفر میں ہو تو دوسرے دنوں میں روزوں کا شمار پورا کرلے اور جو لوگ روزہ رکھنے کی طاقت رکھیں (لیکن رکھیں نہیں) وہ روزے کے بدلے محتاج کو کھانا کھلا دیں اور جو کوئی شوق سے نیکی کرے تو اس کے حق میں زیادہ اچھا ہے۔ اور اگر سمجھو تو روزہ رکھنا ہی تمہارے حق میں بہتر ہے
 
 [Open on Quran.com](https://quran.com/2/184)
 
@@ -105,6 +111,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They ask thee what they should spend (In charity). Say: Whatever ye spend that is good, is for parents and kindred and orphans and those in want and for wayfarers. And whatever ye do that is good, -Allah knoweth it well.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے پوچھتے ہیں کہ (خدا کی راہ میں) کس طرح کا مال خرچ کریں۔ کہہ دو کہ (جو چاہو خرچ کرو لیکن) جو مال خرچ کرنا چاہو وہ (درجہ بدرجہ اہل استحقاق یعنی) ماں باپ اور قریب کے رشتے داروں کو اور یتیموں کو اور محتاجوں کو اور مسافروں کو (سب کو دو) اور جو بھلائی تم کرو گے خدا اس کو جانتا ہے
+
 [Open on Quran.com](https://quran.com/2/215)
 
 #### 4:8 · [[004 An-Nisa]]
@@ -120,6 +128,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when [other] relatives and orphans and the needy are present at the [time of] division, then provide for them [something] out of it [i.e., the estate] and speak to them words of appropriate kindness.
 
 **English (Yusuf Ali):** But if at the time of division other relatives, or orphans or poor, are present, feed them out of the (property), and speak to them words of kindness and justice.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب میراث کی تقسیم کے وقت (غیر وارث) رشتہ دار اور یتیم اور محتاج آجائیں تو ان کو بھی اس میں سے کچھ دے دیا کرو۔ اور شیریں کلامی سے پیش آیا کرو
 
 [Open on Quran.com](https://quran.com/4/8)
 
@@ -137,6 +147,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Serve Allah, and join not any partners with Him; and do good- to parents, kinsfolk, orphans, those in need, neighbours who are near, neighbours who are strangers, the companion by your side, the wayfarer (ye meet), and what your right hands possess: For Allah loveth not the arrogant, the vainglorious;-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی کی عبادت کرو اور اس کے ساتھ کسی چیز کو شریک نہ بناؤ اور ماں باپ اور قرابت والوں اور یتیموں اور محتاجوں اور رشتہ دار ہمسائیوں اور اجنبی ہمسائیوں اور رفقائے پہلو (یعنی پاس بیٹھنے والوں) اور مسافروں اور جو لوگ تمہارے قبضے میں ہوں سب کے ساتھ احسان کرو کہ خدا (احسان کرنے والوں کو دوست رکھتا ہے اور) تکبر کرنے والے بڑائی مارنے والے کو دوست نہیں رکھتا
+
 [Open on Quran.com](https://quran.com/4/36)
 
 #### 5:89 · [[005 Al-Maidah]]
@@ -152,6 +164,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh will not impose blame upon you for what is meaningless in your oaths, but He will impose blame upon you for [breaking] what you intended of oaths. So its expiation is the feeding of ten needy people from the average of that which you feed your [own] families or clothing them or the freeing of a slave. But whoever cannot find [or afford it] - then a fast of three days [is required]. That is the expiation for oaths when you have sworn. But guard your oaths. Thus does Allāh make clear to you His verses [i.e., revealed law] that you may be grateful.
 
 **English (Yusuf Ali):** Allah will not call you to account for what is futile in your oaths, but He will call you to account for your deliberate oaths: for expiation, feed ten indigent persons, on a scale of the average for the food of your families; or clothe them; or give a slave his freedom. If that is beyond your means, fast for three days. That is the expiation for the oaths ye have sworn. But keep to your oaths. Thus doth Allah make clear to you His signs, that ye may be grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری بےارادہ قسموں پر تم سے مواخذہ نہیں کرے گا لیکن پختہ قسموں پر (جن کے خلاف کرو گے) مواخذہ کرے گا تو اس کا کفارہ دس محتاجوں کو اوسط درجے کا کھانا کھلانا ہے جو تم اپنے اہل وعیال کو کھلاتے ہو یا ان کو کپڑے دینا یا ایک غلام آزاد کرنا اور جس کو میسر نہ ہو وہ تین روزے رکھے یہ تمہاری قسموں کا کفارہ ہے جب تم قسم کھا لو (اور اسے توڑ دو) اور (تم کو) چاہئے کہ اپنی قسموں کی حفاظت کرو اس طرح خدا تمہارے (سمجھانے کے) لیے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم شکر کرو
 
 [Open on Quran.com](https://quran.com/5/89)
 
@@ -169,6 +183,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Kill not game while in the sacred precincts or in pilgrim garb. If any of you doth so intentionally, the compensation is an offering, brought to the Ka'ba, of a domestic animal equivalent to the one he killed, as adjudged by two just men among you; or by way of atonement, the feeding of the indigent; or its equivalent in fasts: that he may taste of the penalty of his deed. Allah forgives what is past: for repetition Allah will exact from him the penalty. For Allah is Exalted, and Lord of Retribution.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم احرام کی حالت میں ہو تو شکار نہ مارنا اور جو تم میں سے جان بوجھ کر اسے مارے تو (یا تو اس کا) بدلہ (دے اور وہ یہ ہے کہ) اسی طرح کا چارپایہ جسے تم میں دو معتبر شخص مقرر کردیں قربانی (کرے اور یہ قربانی) کعبے پہنچائی جائے یا کفارہ (دے اور وہ) مسکینوں کو کھانا کھلانا (ہے) یا اس کے برابر روزے رکھے تاکہ اپنے کام کی سزا (کا مزہ) چکھے (اور) جو پہلے ہو چکا وہ خدا نے معاف کر دیا اور جو پھر (ایسا کام) کرے گا تو خدا اس سے انتقام لے گا اور خدا غالب اور انتقام لینے والا ہے
+
 [Open on Quran.com](https://quran.com/5/95)
 
 #### 8:41 · [[008 Al-Anfal]]
@@ -185,6 +201,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And know that out of all the booty that ye may acquire (in war), a fifth share is assigned to Allah,- and to the Messenger, and to near relatives, orphans, the needy, and the wayfarer,- if ye do believe in Allah and in the revelation We sent down to Our servant on the Day of Testing,- the Day of the meeting of the two forces. For Allah hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جان رکھو کہ جو چیز تم (کفار سے) لوٹ کر لاؤ اس میں سے پانچواں حصہ خدا کا اور اس کے رسول کا اور اہل قرابت کا اور یتیموں کا اور محتاجوں کا اور مسافروں کا ہے۔ اگر تم خدا پر اور اس (نصرت) پر ایمان رکھتے ہو جو (حق وباطل میں) فرق کرنے کے دن (یعنی جنگ بدر میں) جس دن دونوں فوجوں میں مڈھ بھیڑ ہوگئی۔ اپنے بندے (محمدﷺ) پر نازل فرمائی۔ اور خدا ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/8/41)
 
 #### 9:60 · [[009 At-Tawbah]]
@@ -200,6 +218,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Zakāh expenditures are only for the poor and for the needy and for those employed for it and for bringing hearts together [for Islām] and for freeing captives [or slaves] and for those in debt and for the cause of Allāh and for the [stranded] traveler - an obligation [imposed] by Allāh. And Allāh is Knowing and Wise.
 
 **English (Yusuf Ali):** Alms are for the poor and the needy, and those employed to administer the (funds); for those whose hearts have been (recently) reconciled (to Truth); for those in bondage and in debt; in the cause of Allah; and for the wayfarer: (thus is it) ordained by Allah, and Allah is full of knowledge and wisdom.
+
+**Urdu (Fatah Muhammad Jalandhari):** صدقات (یعنی زکوٰة وخیرات) تو مفلسوں اور محتاجوں اور کارکنان صدقات کا حق ہے اور ان لوگوں کا جن کی تالیف قلوب منظور ہے اور غلاموں کے آزاد کرانے میں اور قرضداروں (کے قرض ادا کرنے میں) اور خدا کی راہ میں اور مسافروں (کی مدد) میں (بھی یہ مال خرچ کرنا چاہیئے یہ حقوق) خدا کی طرف سے مقرر کر دیئے گئے ہیں اور خدا جاننے والا (اور) حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/9/60)
 

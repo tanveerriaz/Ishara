@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xyr - khyr]]
+- [[xyr - better]]
 
 ### Meaning
 **good deeds** · Lemma **خَيْرَة**
@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:148 · [[002 Al-Baqarah]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For each [religious following] is a [prayer] direction toward which it faces. So race to [all that is] good. Wherever you may be, Allāh will bring you forth [for judgement] all together. Indeed, Allāh is over all things competent.
 
 **English (Yusuf Ali):** To each is a goal to which Allah turns him; then strive together (as in a race) Towards all that is good. Wheresoever ye are, Allah will bring you Together. For Allah Hath power over all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہر ایک (فرقے) کے لیے ایک سمت (مقرر) ہے۔ جدھر وہ (عبادت کے وقت) منہ کیا کرتے ہیں۔ تو تم نیکیوں میں سبقت حاصل کرو۔ تم جہاں رہو گے خدا تم سب کو جمع کرلے گا۔ بے شک خدا ہر چیز پر قادر ہے
 
 [Open on Quran.com](https://quran.com/2/148)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They believe in Allah and the Last Day; they enjoin what is right, and forbid what is wrong; and they hasten (in emulation) in (all) good works: They are in the ranks of the righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اور) خدا پر اور روز آخرت پر ایمان رکھتے اور اچھے کام کرنےکو کہتے اور بری باتوں سے منع کرتےاور نیکیوں پر لپکتے ہیں اور یہی لوگ نیکوکار ہیں
+
 [Open on Quran.com](https://quran.com/3/114)
 
 #### 5:48 · [[005 Al-Maidah]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have revealed to you, [O Muḥammad], the Book [i.e., the Qur’ān] in truth, confirming that which preceded it of the Scripture and as a criterion over it. So judge between them by what Allāh has revealed and do not follow their inclinations away from what has come to you of the truth. To each of you We prescribed a law and a method. Had Allāh willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good. To Allāh is your return all together, and He will [then] inform you concerning that over which you used to differ.
 
 **English (Yusuf Ali):** To thee We sent the Scripture in truth, confirming the scripture that came before it, and guarding it in safety: so judge between them by what Allah hath revealed, and follow not their vain desires, diverging from the Truth that hath come to thee. To each among you have we prescribed a law and an open way. If Allah had so willed, He would have made you a single people, but (His plan is) to test you in what He hath given you: so strive as in a race in all virtues. The goal of you all is to Allah; it is He that will show you the truth of the matters in which ye dispute;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر!) ہم نے تم پر سچی کتاب نازل کی ہے جو اپنے سے پہلی کتابوں کی تصدیق کرتی ہے اور ان (سب) پر شامل ہے تو جو حکم خدا نے نازل فرمایا ہے اس کے مطابق ان کا فیصلہ کرنا اور حق جو تمہارے پاس آچکا ہے اس کو چھوڑ کر ان کی خواہشوں کی پیروی نہ کرنا ہم نے تم میں سے ہر ایک (فرقے) کے لیے ایک دستور اور طریقہ مقرر کیا ہے اور اگر خدا چاہتا تو سب کو ایک ہی شریعت پر کر دیتا مگر جو حکم اس نے تم کو دیئے ہیں ان میں وہ تمہاری آزمائش کرنی چاہتا ہے سو نیک کاموں میں جلدی کرو تم سب کو خدا کی طرف لوٹ کر جانا ہے پھر جن باتوں میں تم کو اختلاف تھا وہ تم کو بتا دے گا
 
 [Open on Quran.com](https://quran.com/5/48)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But the Messenger, and those who believe with him, strive and fight with their wealth and their persons: for them are (all) good things: and it is they who will prosper.
 
+**Urdu (Fatah Muhammad Jalandhari):** لیکن پیغمبر اور جو لوگ ان کے ساتھ ایمان لائے سب اپنے مال اور جان سے لڑے۔ انہیں لوگوں کے لیے بھلائیاں ہیں۔ اور یہی مراد پانے والے ہیں
+
 [Open on Quran.com](https://quran.com/9/88)
 
 #### 21:73 · [[021 Al-Anbya]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We made them leaders guiding by Our command. And We inspired to them the doing of good deeds, establishment of prayer, and giving of zakāh; and they were worshippers of Us.
 
 **English (Yusuf Ali):** And We made them leaders, guiding (men) by Our Command, and We sent them inspiration to do good deeds, to establish regular prayers, and to practise regular charity; and they constantly served Us (and Us only).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو پیشوا بنایا کہ ہمارے حکم سے ہدایت کرتے تھے اور ان کو نیک کام کرنے اور نماز پڑھنے اور زکوٰة دینے کا حکم بھیجا۔ اور وہ ہماری عبادت کیا کرتے تھے
 
 [Open on Quran.com](https://quran.com/21/73)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So We listened to him: and We granted him Yahya: We cured his wife's (Barrenness) for him. These (three) were ever quick in emulation in good works; they used to call on Us with love and reverence, and humble themselves before Us.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان کی پکار سن لی۔ اور ان کو یحییٰ بخشے اور ان کی بیوی کو اُن کے (حسن معاشرت کے) قابل بنادیا۔ یہ لوگ لپک لپک کر نیکیاں کرتے اور ہمیں امید سے پکارتے اور ہمارے آگے عاجزی کیا کرتے تھے
+
 [Open on Quran.com](https://quran.com/21/90)
 
 #### 23:56 · [[023 Al-Muminun]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Is [because] We hasten for them good things? Rather, they do not perceive.
 
 **English (Yusuf Ali):** We would hasten them on in every good? Nay, they do not understand.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو (اس سے) ان کی بھلائی میں جلدی کر رہے ہیں (نہیں) بلکہ یہ سمجھتے ہی نہیں
 
 [Open on Quran.com](https://quran.com/23/56)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is these who hasten in every good work, and these who are foremost in them.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ نیکیوں میں جلدی کرے اور یہی اُن کے لئے آگے نکل جاتے ہیں
+
 [Open on Quran.com](https://quran.com/23/61)
 
 #### 28:68 · [[028 Al-Qasas]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thy Lord does create and choose as He pleases: no choice have they (in the matter): Glory to Allah! and far is He above the partners they ascribe (to Him)!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا پروردگار جو چاہتا ہے پیدا کرتا ہے اور (جسے چاہتا ہے) برگزیدہ کرلیتا ہے۔ ان کو اس کا اختیار نہیں ہے۔ یہ جو شرک کرتے ہیں خدا اس سے پاک وبالاتر ہے
+
 [Open on Quran.com](https://quran.com/28/68)
 
 #### 33:36 · [[033 Al-Ahzab]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is not for a believing man or a believing woman, when Allāh and His Messenger have decided a matter, that they should [thereafter] have any choice about their affair. And whoever disobeys Allāh and His Messenger has certainly strayed into clear error.
 
 **English (Yusuf Ali):** It is not fitting for a Believer, man or woman, when a matter has been decided by Allah and His Messenger to have any option about their decision: if any one disobeys Allah and His Messenger, he is indeed on a clearly wrong Path.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کسی مومن مرد اور مومن عورت کو حق نہیں ہے کہ جب خدا اور اس کا رسول کوئی امر مقرر کردیں تو وہ اس کام میں اپنا بھی کچھ اختیار سمجھیں۔ اور جو کوئی خدا اور اس کے رسول کی نافرمانی کرے وہ صریح گمراہ ہوگیا
 
 [Open on Quran.com](https://quran.com/33/36)
 

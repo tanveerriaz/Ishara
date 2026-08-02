@@ -14,81 +14,81 @@ The Consultation · 53 ayahs
 
 ## Words in this surah (graph)
 
-- [[Hjp - argument]] — `حُجَّة` · argument
-- [[m$fq - fearful]] — `مُشْفِق` · fearful
-- [[Ely - high]] — `عَلِيّ` · high
-- [[tfrq - divided]] — `تَفَرَّقَ` · divided
-- [[HfyZ - guardian]] — `حَفِيظ` · guardian
 - [[>nAb - turns]] — `أَنابَ` · turns
-- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
-- [[mrd - return]] — `مَرَدّ` · return
+- [[m$fq - fearful]] — `مُشْفِق` · fearful
 - [[$kwr - grateful]] — `شَكُور` · grateful
-- [[qrbY - relatives]] — `قُرْبَى` · relatives
-- [[Hsn - good]] — `حُسْن` · good
+- [[HfyZ - guardian]] — `حَفِيظ` · guardian
+- [[mrd - return]] — `مَرَدّ` · return
+- [[tfrq - divided]] — `تَفَرَّقَ` · divided
+- [[Hjp - argument]] — `حُجَّة` · argument
+- [[Ely - high]] — `عَلِيّ` · high
+- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
+- [[HyAp - life]] — `حَياة` · life
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[xtm - sealed]] — `خَتَمَ` · sealed
-- [[fATr - creator]] — `فاطِر` · creator
-- [[dAbp - moving creature]] — `دابَّة` · moving creature
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[Zlm - wronged]] — `ظَلَمَ` · wronged
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[jAdl - dispute]] — `جادَلُ` · dispute
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
-- [[wAHdp - single]] — `واحِدَة` · single
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[yd - hands]] — `يَد` · hands
+- [[nkyr - my rejection]] — `نَكِير` · my rejection
+- [[>SlH - reforms]] — `أَصْلَحَ` · reforms
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[ryH - wind]] — `رِيح` · wind
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>rD - earth]] — `أَرْض` · earth
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[dnyA - world]] — `دُنْيا` · world
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[nAs - people]] — `ناس` · people
+- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$fq - shfq]]
-- [[$kk - shakka]]
-- [[$kr - shkr]]
+- [[$fq - fear]]
+- [[$kk - doubt uncertain about]]
+- [[$kr - gratitude]]
 - [[$rE - enter water drink]]
 - [[$rk - sharing partnership]]
-- [[$wr - shwr]]
+- [[$wr - gather honey]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[*ll - humiliation]]
 - [[*r> - create]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
+- [[*wq - taste]]
+- [[>*n - ear]]
 - [[>hl - people house]]
 - [[>jl - term]]
-- [[>jr - ajr]]
-- [[>lm - alm]]
+- [[>jr - recompensing rewarding someone]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
+- [[>ns - mankind]]
 - [[>nv - female]]
-- [[>rD - ard]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - athm]]
+- [[>vm - sin commit crime]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edl - edl]]
-- [[Efw - efw]]
-- [[Ejl - ejl]]
+- [[Edl - act justly equitably]]
+- [[Efw - efface obliterate]]
+- [[Ejl - incite cause someone]]
 - [[Ejz - old age weakness]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
-- [[Eqm - eqm]]
-- [[ErD - erd]]
-- [[Erb - erb]]
-- [[Ezm - ezm]]
+- [[Eqm - barren]]
+- [[ErD - turn away]]
+- [[Erb - bedouins]]
+- [[Ezm - determine]]
 - [[Ezz - all-mighty]]
 - [[Hbb - love]]
-- [[HfZ - hfzh]]
+- [[HfZ - keep]]
 - [[Hjb - prevent]]
 - [[Hjj - hajj]]
 - [[Hkm - prevent restrain someone]]

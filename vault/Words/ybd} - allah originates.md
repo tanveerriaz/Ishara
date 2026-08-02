@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bd> - bda]]
+- [[bd> - originates]]
 
 ### Meaning
 **allah originates** · Lemma **يُبْدِئُ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 29:19 · [[029 Al-Ankabut]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have they not considered how Allāh begins creation and then repeats it? Indeed that, for Allāh, is easy.
 
 **English (Yusuf Ali):** See they not how Allah originates creation, then repeats it: truly that is easy for Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا اُنہوں نے نہیں دیکھا کہ خدا کس طرح خلقت کو پہلی بار پیدا کرتا پھر (کس طرح) اس کو بار بار پیدا کرتا رہتا ہے۔ یہ خدا کو آسان ہے
 
 [Open on Quran.com](https://quran.com/29/19)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "The Truth has arrived, and Falsehood neither creates anything new, nor restores anything."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ حق آچکا اور (معبود) باطل نہ تو پہلی بار پیدا کرسکتا ہے اور نہ دوبارہ پیدا کرے گا
+
 [Open on Quran.com](https://quran.com/34/49)
 
 #### 85:13 · [[085 Al-Buruj]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, it is He who originates [creation] and repeats.
 
 **English (Yusuf Ali):** It is He Who creates from the very beginning, and He can restore (life).
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی پہلی دفعہ پیدا کرتا ہے اور وہی دوبارہ( زندہ) کرے گا
 
 [Open on Quran.com](https://quran.com/85/13)
 

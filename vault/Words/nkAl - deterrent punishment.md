@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nkl - nkl]]
+- [[nkl - punishment serves as]]
 
 ### Meaning
 **deterrent punishment** · Lemma **نَكال**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:66 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We made it a deterrent punishment for those who were present and those who succeeded [them] and a lesson for those who fear Allāh.
 
 **English (Yusuf Ali):** So We made it an example to their own time and to their posterity, and a lesson to those who fear Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس قصے کو اس وقت کے لوگوں کے لیے اور جو ان کے بعد آنے والے تھے عبرت اور پرہیز گاروں کے لیے نصیحت بنا دیا
 
 [Open on Quran.com](https://quran.com/2/66)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** As to the thief, Male or female, cut off his or her hands: a punishment by way of example, from Allah, for their crime: and Allah is Exalted in power.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو چوری کرے مرد ہو یا عورت ان کے ہاتھ کاٹ ڈالو یہ ان کے فعلوں کی سزا اور خدا کی طرف سے عبرت ہے اور خدا زبردست (اور) صاحب حکمت ہے
+
 [Open on Quran.com](https://quran.com/5/38)
 
 #### 79:25 · [[079 An-Naziat]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So Allāh seized him in exemplary punishment for the last and the first [transgression]..
 
 **English (Yusuf Ali):** But Allah did punish him, (and made an) example of him, - in the Hereafter, as in this life.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو خدا نے اس کو دنیا اور آخرت (دونوں) کے عذاب میں پکڑ لیا
 
 [Open on Quran.com](https://quran.com/79/25)
 

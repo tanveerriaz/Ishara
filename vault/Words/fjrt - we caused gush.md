@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 17:91 · [[017 Al-Isra]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or [until] you have a garden of palm trees and grapes and make rivers gush forth within them in force [and abundance]
 
 **English (Yusuf Ali):** "Or (until) thou have a garden of date trees and vines, and cause rivers to gush forth in their midst, carrying abundant water;
+
+**Urdu (Fatah Muhammad Jalandhari):** یا تمہارا کھجوروں اور انگوروں کا کوئی باغ ہو اور اس کے بیچ میں نہریں بہا نکالو
 
 [Open on Quran.com](https://quran.com/17/91)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Each of those gardens brought forth its produce, and failed not in the least therein: in the midst of them We caused a river to flow.
 
+**Urdu (Fatah Muhammad Jalandhari):** دونوں باغ (کثرت سے) پھل لاتے۔ اور اس (کی پیداوار) میں کسی طرح کی کمی نہ ہوتی اور دونوں میں ہم نے ایک نہر بھی جاری کر رکھی تھی
+
 [Open on Quran.com](https://quran.com/18/33)
 
 #### 36:34 · [[036 Ya-Sin]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We placed therein gardens of palm trees and grapevines and caused to burst forth therefrom some springs -
 
 **English (Yusuf Ali):** And We produce therein orchard with date-palms and vines, and We cause springs to gush forth therein:
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس میں کھجوروں اور انگوروں کے باغ پیدا کیے اور اس میں چشمے جاری کردیئے
 
 [Open on Quran.com](https://quran.com/36/34)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We caused the earth to gush forth with springs, so the waters met (and rose) to the extent decreed.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور زمین میں چشمے جاری کردیئے تو پانی ایک کام کے لئے جو مقدر ہوچکا تھا جمع ہوگیا
+
 [Open on Quran.com](https://quran.com/54/12)
 
 #### 76:6 · [[076 Al-Insan]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A Fountain where the Devotees of Allah do drink, making it flow in unstinted abundance.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ ایک چشمہ ہے جس میں سے خدا کے بندے پئیں گے اور اس میں سے (چھوٹی چھوٹی) نہریں نکالیں گے
+
 [Open on Quran.com](https://quran.com/76/6)
 
 #### 82:3 · [[082 Al-Infitar]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when the seas are erupted
 
 **English (Yusuf Ali):** When the Oceans are suffered to burst forth;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب دریا بہہ (کر ایک دوسرے سے مل) جائیں گے
 
 [Open on Quran.com](https://quran.com/82/3)
 

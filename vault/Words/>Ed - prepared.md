@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:24 · [[002 Al-Baqarah]]
 
@@ -49,6 +49,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But if you do not - and you will never be able to - then fear the Fire, whose fuel is people and stones, prepared for the disbelievers.
 
 **English (Yusuf Ali):** But if ye cannot- and of a surety ye cannot- then fear the Fire whose fuel is men and stones,- which is prepared for those who reject Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** لیکن اگر (ایسا) نہ کر سکو اور ہرگز نہیں کر سکو گے تو اس آگ سے ڈرو جس کا ایندھن آدمی اور پتھر ہوں گے (اور جو) کافروں کے لیے تیار کی گئی ہے
 
 [Open on Quran.com](https://quran.com/2/24)
 
@@ -66,6 +68,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Fear the Fire, which is prepared for those who reject Faith:
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (دوزخ کی) آگ سے بچو جو کافروں کے لیے تیار کی گئی ہے
+
 [Open on Quran.com](https://quran.com/3/131)
 
 #### 3:133 · [[003 Ali Imran]]
@@ -81,6 +85,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And hasten to forgiveness from your Lord and a garden [i.e., Paradise] as wide as the heavens and earth, prepared for the righteous
 
 **English (Yusuf Ali):** Be quick in the race for forgiveness from your Lord, and for a Garden whose width is that (of the whole) of the heavens and of the earth, prepared for the righteous,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اپنے پروردگار کی بخشش اور بہشت کی طرف لپکو جس کا عرض آسمان اور زمین کے برابر ہے اور جو (خدا سے) ڈرنے والوں کے لیے تیار کی گئی ہے
 
 [Open on Quran.com](https://quran.com/3/133)
 
@@ -98,6 +104,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If a man kills a believer intentionally, his recompense is Hell, to abide therein (For ever): And the wrath and the curse of Allah are upon him, and a dreadful penalty is prepared for him.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص مسلمان کو قصداً مار ڈالے گا تو اس کی سزا دوزخ ہے جس میں وہ ہمیشہ (جلتا) رہے گا اور خدا اس پر غضبناک ہوگا اور اس پر لعنت کرے گا اور ایسے شخص کے لئے اس نے بڑا (سخت) عذاب تیار کر رکھا ہے
+
 [Open on Quran.com](https://quran.com/4/93)
 
 #### 4:102 · [[004 An-Nisa]]
@@ -113,6 +121,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you [i.e., the commander of an army] are among them and lead them in prayer, let a group of them stand [in prayer] with you and let them carry their arms. And when they have prostrated, let them be [in position] behind you and have the other group come forward which has not [yet] prayed and let them pray with you, taking precaution and carrying their arms. Those who disbelieve wish that you would neglect your weapons and your baggage so they could come down upon you in one [single] attack. But there is no blame upon you, if you are troubled by rain or are ill, for putting down your arms, but take precaution. Indeed, Allāh has prepared for the disbelievers a humiliating punishment.
 
 **English (Yusuf Ali):** When thou (O Messenger) art with them, and standest to lead them in prayer, Let one party of them stand up (in prayer) with thee, Taking their arms with them: When they finish their prostrations, let them Take their position in the rear. And let the other party come up which hath not yet prayed - and let them pray with thee, Taking all precaution, and bearing arms: the Unbelievers wish, if ye were negligent of your arms and your baggage, to assault you in a single rush. But there is no blame on you if ye put away your arms because of the inconvenience of rain or because ye are ill; but take (every) precaution for yourselves. For the Unbelievers Allah hath prepared a humiliating punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) جب تم ان (مجاہدین کے لشکر) میں ہو اور ان کو نماز پڑھانے لگو تو چاہیئے کہ ان کی ایک جماعت تمہارے ساتھ مسلح ہو کر کھڑی رہے جب وہ سجدہ کرچکیں تو پرے ہو جائیں پھر دوسری جماعت جس نے نماز نہیں پڑھی (ان کی جگہ) آئے اور ہوشیار اور مسلح ہو کر تمہارے ساتھ نماز ادا کرے کافر اس گھات میں ہیں کہ تم ذرا اپنے ہتھیاروں اور سامان سے غافل ہو جاؤ تو تم پر یکبارگی حملہ کردیں اگر تم بارش کے سبب تکلیف میں یا بیمار ہو تو تم پر کچھ گناہ نہیں کہ ہتھیار اتار رکھو مگر ہوشیار ضرور رہنا خدا نے کافروں کے لئے ذلت کا عذاب تیار کر رکھا ہے
 
 [Open on Quran.com](https://quran.com/4/102)
 
@@ -130,6 +140,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Against them make ready your strength to the utmost of your power, including steeds of war, to strike terror into (the hearts of) the enemies, of Allah and your enemies, and others besides, whom ye may not know, but whom Allah doth know. Whatever ye shall spend in the cause of Allah, shall be repaid unto you, and ye shall not be treated unjustly.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جہاں تک ہوسکے (فوج کی جمعیت کے) زور سے اور گھوڑوں کے تیار رکھنے سے ان کے (مقابلے کے) لیے مستعد رہو کہ اس سے خدا کے دشمنوں اور تمہارے دشمنوں اور ان کے سوا اور لوگوں پر جن کو تم نہیں جانتے اور خدا جانتا ہے ہیبت بیٹھی رہے گی۔ اور تم جو کچھ راہ خدا میں خرچ کرو گے اس کا ثواب تم کو پورا پورا دیا جائے گا اور تمہارا ذرا نقصان نہیں کیا جائے گا
+
 [Open on Quran.com](https://quran.com/8/60)
 
 #### 9:46 · [[009 At-Tawbah]]
@@ -145,6 +157,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if they had intended to go forth, they would have prepared for it [some] preparation. But Allāh disliked their being sent, so He kept them back, and they were told, "Remain [behind] with those who remain."
 
 **English (Yusuf Ali):** If they had intended to come out, they would certainly have made some preparation therefor; but Allah was averse to their being sent forth; so He made them lag behind, and they were told, "Sit ye among those who sit (inactive)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر وہ نکلنے کا ارادہ کرتے ہیں تو اس کے لیے سامان تیار کرتے لیکن خدا نے ان کا اُٹھنا (اور نکلنا) پسند نہ کیا تو ان کو ہلنے جلنے ہی نہ دیا اور (ان سے) کہہ دیا گیا کہ جہاں (معذور) بیٹھے ہیں تم بھی ان کے ساتھ بیٹھے رہو
 
 [Open on Quran.com](https://quran.com/9/46)
 
@@ -162,6 +176,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah hath prepared for them gardens under which rivers flow, to dwell therein: that is the supreme felicity.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے ان کے لیے باغات تیار کر رکھے ہیں جن کے نیچے نہریں بہہ رہی ہیں ہمیشہ ان میں رہی گے۔ یہ بڑی کامیابی ہے
+
 [Open on Quran.com](https://quran.com/9/89)
 
 #### 9:100 · [[009 At-Tawbah]]
@@ -178,6 +194,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The vanguard (of Islam)- the first of those who forsook (their homes) and of those who gave them aid, and (also) those who follow them in (all) good deeds,- well-pleased is Allah with them, as are they with Him: for them hath He prepared gardens under which rivers flow, to dwell therein for ever: that is the supreme felicity.
 
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے سبقت کی (یعنی سب سے) پہلے (ایمان لائے) مہاجرین میں سے بھی اور انصار میں سے بھی۔ اور جنہوں نے نیکو کاری کے ساتھ ان کی پیروی کی خدا ان سے خوش ہے اور وہ خدا سے خوش ہیں اور اس نے ان کے لیے باغات تیار کئے ہیں جن کے نیچے نہریں بہہ رہی ہیں اور ہمیشہ ان میں رہیں گے۔ یہ بڑی کامیابی ہے
+
 [Open on Quran.com](https://quran.com/9/100)
 
 #### 33:8 · [[033 Al-Ahzab]]
@@ -193,6 +211,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That He may question the truthful about their truth. And He has prepared for the disbelievers a painful punishment.
 
 **English (Yusuf Ali):** That (Allah) may question the (custodians) of Truth concerning the Truth they (were charged with): And He has prepared for the Unbelievers a grievous Penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ سچ کہنے والوں سے اُن کی سچائی کے بارے میں دریافت کرے اور اس نے کافروں کے لئے دکھ دینے والا عذاب تیار کر رکھا ہے
 
 [Open on Quran.com](https://quran.com/33/8)
 

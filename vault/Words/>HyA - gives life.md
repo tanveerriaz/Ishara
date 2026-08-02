@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:28 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** How can you disbelieve in Allāh when you were lifeless and He brought you to life; then He will cause you to die, then He will bring you [back] to life, and then to Him you will be returned.
 
 **English (Yusuf Ali):** How can ye reject the faith in Allah?- seeing that ye were without life, and He gave you life; then will He cause you to die, and will again bring you to life; and again to Him will ye return.
+
+**Urdu (Fatah Muhammad Jalandhari):** (کافرو!) تم خدا سے کیوں کر منکر ہو سکتے ہو جس حال میں کہ تم بےجان تھے تو اس نے تم کو جان بخشی پھر وہی تم کو مارتا ہے پھر وہی تم کو زندہ کرے گا پھر تم اسی کی طرف لوٹ کر جاؤ گے
 
 [Open on Quran.com](https://quran.com/2/28)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So We said: "Strike the (body) with a piece of the (heifer)." Thus Allah bringeth the dead to life and showeth you His Signs: Perchance ye may understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے کہا کہ اس بیل کا کوئی سا ٹکڑا مقتول کو مارو۔ اس طرح خدا مردوں کو زندہ کرتا ہے اور تم کو اپنی (قدرت کی) نشانیاں دکھاتا ہے تاکہ تم سمجھو
+
 [Open on Quran.com](https://quran.com/2/73)
 
 #### 2:164 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, in the creation of the heavens and the earth, and the alternation of the night and the day, and the [great] ships which sail through the sea with that which benefits people, and what Allāh has sent down from the heavens of rain, giving life thereby to the earth after its lifelessness and dispersing therein every [kind of] moving creature, and [His] directing of the winds and the clouds controlled between the heaven and earth are signs for a people who use reason.
 
 **English (Yusuf Ali):** Behold! in the creation of the heavens and the earth; in the alternation of the night and the day; in the sailing of the ships through the ocean for the profit of mankind; in the rain which Allah Sends down from the skies, and the life which He gives therewith to an earth that is dead; in the beasts of all kinds that He scatters through the earth; in the change of the winds, and the clouds which they Trail like their slaves between the sky and the earth;- (Here) indeed are Signs for a people that are wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** بےشک آسمانوں اور زمین کے پیدا کرنے میں اور رات اور دن کے ایک دوسرے کے پیچھے آنے جانے میں اور کشتیوں اور جہازوں میں جو دریا میں لوگوں کے فائدے کی چیزیں لے کر رواں ہیں اور مینہ میں جس کو خدا آسمان سے برساتا اور اس سے زمین کو مرنے کے بعد زندہ (یعنی خشک ہوئے پیچھے سرسبز) کردیتا ہے اور زمین پر ہر قسم کے جانور پھیلانے میں اور ہواؤں کے چلانےمیں اور بادلوں میں جو آسمان اور زمین کے درمیان گھرے رہتے ہیں۔ عقلمندوں کے لئے (خدا کی قدرت کی) نشانیاں ہیں
 
 [Open on Quran.com](https://quran.com/2/164)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Didst thou not Turn by vision to those who abandoned their homes, though they were thousands (In number), for fear of death? Allah said to them: "Die": Then He restored them to life. For Allah is full of bounty to mankind, but Most of them are ungrateful.
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جو (شمار میں) ہزاروں ہی تھے اور موت کے ڈر سے اپنے گھروں سے نکل بھاگے تھے۔ تو خدا نے ان کو حکم دیا کہ مرجاؤ۔ پھر ان کو زندہ بھی کردیا۔ کچھ شک نہیں کہ خدا لوگوں پر مہربانی رکھتا ہے۔ لیکن اکثر لوگ شکر نہیں کرتے
+
 [Open on Quran.com](https://quran.com/2/243)
 
 #### 2:258 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have you not considered the one who argued with Abraham about his Lord [merely] because Allāh had given him kingship? When Abraham said, "My Lord is the one who gives life and causes death," he said, "I give life and cause death." Abraham said, "Indeed, Allāh brings up the sun from the east, so bring it up from the west." So the disbeliever was overwhelmed [by astonishment], and Allāh does not guide the wrongdoing people.
 
 **English (Yusuf Ali):** Hast thou not Turned thy vision to one who disputed with Abraham About his Lord, because Allah had granted him power? Abraham said: "My Lord is He Who Giveth life and death." He said: "I give life and death". Said Abraham: "But it is Allah that causeth the sun to rise from the east: Do thou then cause him to rise from the West." Thus was he confounded who (in arrogance) rejected faith. Nor doth Allah Give guidance to a people unjust.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے اس شخص کو نہیں دیکھا جو اس (غرور کے) سبب سے کہ خدا نے اس کو سلطنت بخشی تھی ابراہیم سے پروردگار کے بارے میں جھگڑنے لگا۔ جب ابراہیم نے کہا میرا پروردگار تو وہ ہے جو جلاتا اور مارتا ہے۔ وہ بولا کہ جلا اور مار تو میں بھی سکتا ہوں۔ ابراہیم نے کہا کہ خدا تو سورج کو مشرق سے نکالتا ہے آپ اسے مغرب سے نکال دیجیئے (یہ سن کر) کافر حیران رہ گیا اور خدا بےانصافوں کو ہدایت نہیں دیا کرتا
 
 [Open on Quran.com](https://quran.com/2/258)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall Allah bring it (ever) to life, after (this) its death?" but Allah caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that Allah hath power over all things."
 
+**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/2/259)
 
 #### 2:260 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] when Abraham said, "My Lord, show me how You give life to the dead." [Allāh] said, "Have you not believed?" He said, "Yes, but [I ask] only that my heart may be satisfied." [Allāh] said, "Take four birds and commit them to yourself. Then [after slaughtering them] put on each hill a portion of them; then call them - they will come [flying] to you in haste. And know that Allāh is Exalted in Might and Wise."
 
 **English (Yusuf Ali):** When Abraham said: "Show me, Lord, how You will raise the dead, " He replied: "Have you no faith?" He said "Yes, but just to reassure my heart." Allah said, "Take four birds, draw them to you, and cut their bodies to pieces. Scatter them over the mountain-tops, then call them back. They will come swiftly to you. Know that Allah is Mighty, Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے (خدا سے) کہا کہ اے پروردگار مجھے دکھا کہ تو مردوں کو کیونکر زندہ کرے گا۔ خدا نے فرمایا کیا تم نے (اس بات کو) باور نہیں کیا۔ انہوں نے کہا کیوں نہیں۔ لیکن (میں دیکھنا) اس لئے (چاہتا ہوں) کہ میرا دل اطمینان کامل حاصل کرلے۔ خدا نے فرمایا کہ چار جانور پکڑوا کر اپنے پاس منگا لو (اور ٹکڑے ٹکڑے کرادو) پھر ان کا ایک ٹکڑا ہر ایک پہاڑ پر رکھوا دو پھر ان کو بلاؤ تو وہ تمہارے پاس دوڑتے چلے آئیں گے۔ اور جان رکھو کہ خدا غالب اور صاحب حکمت ہے۔
 
 [Open on Quran.com](https://quran.com/2/260)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And (appoint him) a messenger to the Children of Israel, (with this message): "'I have come to you, with a Sign from your Lord, in that I make for you out of clay, as it were, the figure of a bird, and breathe into it, and it becomes a bird by Allah's leave: And I heal those born blind, and the lepers, and I quicken the dead, by Allah's leave; and I declare to you what ye eat, and what ye store in your houses. Surely therein is a Sign for you if ye did believe;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (عیسیٰ) بنی اسرائیل کی طرف پیغمبر (ہو کر جائیں گے اور کہیں گے) کہ میں تمہارے پروردگار کی طرف سے نشانی لے کر آیا ہوں وہ یہ کہ تمہارے سامنے مٹی کی مورت بشکل پرند بناتا ہوں پھر اس میں پھونک مارتا ہوں تو وہ خدا کے حکم سے (سچ مچ) جانور ہو جاتا ہے اور اندھے اور ابرص کو تندرست کر دیتا ہوں اور خدا کے حکم سے مردے میں جان ڈال دیتا ہوں اور جو کچھ تم کھا کر آتے ہو اور جو اپنے گھروں میں جمع کر رکھتے ہو سب تم کو بتا دیتا ہوں اگر تم صاحب ایمان ہو تو ان باتوں میں تمہارے لیے (قدرت خدا کی) نشانی ہے
+
 [Open on Quran.com](https://quran.com/3/49)
 
 #### 3:156 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Be not like the Unbelievers, who say of their brethren, when they are travelling through the Earth or engaged in fighting: "If they had stayed with us, they would not have died, or been slain." This that Allah may make it a cause of sighs and regrets in their hearts. It is Allah that gives Life and Death, and Allah sees well all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! ان لوگوں جیسے نہ ہونا جو کفر کرتے ہیں اور ان کے (مسلمان) بھائی جب (خدا کی راہ میں) سفر کریں (اور مر جائیں) یا جہاد کو نکلیں (اور مارے جائیں) تو ان کی نسبت کہتے ہیں کہ اگر وہ ہمارے پاس رہتے تو نہ مرتے اور نہ مارے جاتے۔ ان باتوں سے مقصود یہ ہے کہ خدا ان لوگوں کے دلوں میں افسوس پیدا کر دے اور زندگی اور موت تو خدا ہی دیتا ہے اور خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/3/156)
 
 #### 5:32 · [[005 Al-Maidah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Because of that, We decreed upon the Children of Israel that whoever kills a soul unless for a soul or for corruption [done] in the land - it is as if he had slain mankind entirely. And whoever saves one - it is as if he had saved mankind entirely. And Our messengers had certainly come to them with clear proofs. Then indeed many of them, [even] after that, throughout the land, were transgressors.
 
 **English (Yusuf Ali):** On that account: We ordained for the Children of Israel that if any one slew a person - unless it be for murder or for spreading mischief in the land - it would be as if he slew the whole people: and if any one saved a life, it would be as if he saved the life of the whole people. Then although there came to them Our messengers with clear signs, yet, even after that, many of them continued to commit excesses in the land.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس قتل کی وجہ سے ہم نے بنی اسرائیل پر یہ حکم نازل کیا کہ جو شخص کسی کو (ناحق) قتل کرے گا (یعنی) بغیر اس کے کہ جان کا بدلہ لیا جائے یا ملک میں خرابی کرنے کی سزا دی جائے اُس نے گویا تمام لوگوں کو قتل کیا اور جو اس کی زندگانی کا موجب ہوا تو گویا تمام لوگوں کی زندگانی کا موجب ہوا اور ان لوگوں کے پاس ہمارے پیغمبر روشن دلیلیں لا چکے ہیں پھر اس کے بعد بھی ان سے بہت سے لوگ ملک میں حدِ اعتدال سے نکل جاتے ہیں
 
 [Open on Quran.com](https://quran.com/5/32)
 

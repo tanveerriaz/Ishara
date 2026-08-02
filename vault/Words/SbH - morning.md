@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[SbH - sbh]]
+- [[SbH - morning]]
 
 ### Meaning
 **morning** · Lemma **صُبْح**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:81 · [[011 Hud]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They [the angels] said, "O Lot, indeed we are messengers of your Lord; [therefore], they will never reach you. So set out with your family during a portion of the night and let not any among you look back - except your wife; indeed, she will be struck by that which strikes them. Indeed, their appointment is [for] the morning. Is not the morning near?"
 
 **English (Yusuf Ali):** (The Messengers) said: "O Lut! We are Messengers from thy Lord! By no means shall they reach thee! now travel with thy family while yet a part of the night remains, and let not any of you look back: but thy wife (will remain behind): To her will happen what happens to the people. Morning is their time appointed: Is not the morning nigh?"
+
+**Urdu (Fatah Muhammad Jalandhari):** فرشتوں نے کہا کہ لوط ہم تمہارے پروردگار کے فرشتے ہیں۔ یہ لوگ ہرگز تم تک نہیں پہنچ سکیں گے تو کچھ رات رہے سے اپنے گھر والوں کو لے کر چل دو اور تم میں سے کوئی شخص پیچھے پھر کر نہ دیکھے۔ مگر تمہاری بیوی کہ جو آفت ان پر پڑنے والی ہے وہی اس پر پڑے گی۔ ان کے (عذاب کے) وعدے کا وقت صبح ہے۔ اور کیا صبح کچھ دور ہے؟
 
 [Open on Quran.com](https://quran.com/11/81)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Early on the morrow an abiding Punishment seized them:
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان پر صبح سویرے ہی اٹل عذاب آ نازل ہوا
+
 [Open on Quran.com](https://quran.com/54/38)
 
 #### 74:34 · [[074 Al-Muddaththir]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [by] the morning when it brightens,
 
 **English (Yusuf Ali):** And by the Dawn as it shineth forth,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور صبح کی جب روشن ہو
 
 [Open on Quran.com](https://quran.com/74/34)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And the Dawn as it breathes away the darkness;-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور صبح کی قسم جب نمودار ہوتی ہے
+
 [Open on Quran.com](https://quran.com/81/18)
 
 #### 100:3 · [[100 Al-Adiyat]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the chargers at dawn,
 
 **English (Yusuf Ali):** And push home the charge in the morning,
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر صبح کو چھاپہ مارتے ہیں
 
 [Open on Quran.com](https://quran.com/100/3)
 

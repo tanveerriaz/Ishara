@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:164 · [[003 Ali Imran]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Certainly did Allāh confer [great] favor upon the believers when He sent among them a Messenger from themselves, reciting to them His verses and purifying them and teaching them the Book [i.e., the Qur’ān] and wisdom, although they had been before in manifest error.
 
 **English (Yusuf Ali):** Allah did confer a great favour on the believers when He sent among them a messenger from among themselves, rehearsing unto them the Signs of Allah, sanctifying them, and instructing them in Scripture and Wisdom, while, before that, they had been in manifest error.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے مومنوں پر بڑا احسان کیا ہے کہ ان میں انہیں میں سے ایک پیغمبر بھیجے۔ جو ان کو خدا کی آیتیں پڑھ پڑھ کر سناتے اور ان کو پاک کرتے اور (خدا کی) کتاب اور دانائی سکھاتے ہیں اور پہلے تو یہ لوگ صریح گمراہی میں تھے
 
 [Open on Quran.com](https://quran.com/3/164)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Hast thou not turned Thy vision to those who declare that they believe in the revelations that have come to thee and to those before thee? Their (real) wish is to resort together for judgment (in their disputes) to the Evil One, though they were ordered to reject him. But Satan's wish is to lead them astray far away (from the right).
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے ان لوگوں کو نہیں دیکھا جو دعویٰ تو یہ کرتے ہیں کہ جو (کتاب) تم پر نازل ہوئی اور جو (کتابیں) تم سے پہلے نازل ہوئیں ان سب پر ایمان رکھتے ہیں اور چاہتے یہ ہیں کہ اپنا مقدمہ ایک سرکش کے پاس لے جا کر فیصلہ کرائیں حالانکہ ان کو حکم دیا گیا تھا کہ اس سے اعتقاد نہ رکھیں اور شیطان (تو یہ) چاہتا ہے کہ ان کو بہکا کر رستے سے دور ڈال دے
+
 [Open on Quran.com](https://quran.com/4/60)
 
 #### 4:116 · [[004 An-Nisa]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Allāh does not forgive association with Him, but He forgives what is less than that for whom He wills. And he who associates others with Allāh has certainly gone far astray.
 
 **English (Yusuf Ali):** Allah forgiveth not (The sin of) joining other gods with Him; but He forgiveth whom He pleaseth other sins than this: one who joins other gods with Allah, Hath strayed far, far away (from the right).
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا اس کے گناہ کو نہیں بخشے گا کہ کسی کو اس کا شریک بنایا جائے اور اس کے سوا (اور گناہ) جس کو چاہیے گا بخش دے گا۔ اور جس نے خدا کے ساتھ شریک بنایا وہ رستے سے دور جا پڑا
 
 [Open on Quran.com](https://quran.com/4/116)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Believe in Allah and His Messenger, and the scripture which He hath sent to His Messenger and the scripture which He sent to those before (him). Any who denieth Allah, His angels, His Books, His Messengers, and the Day of Judgment, hath gone far, far astray.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا پر اور اس کے رسول پر اور جو کتاب اس نے اپنی پیغمبر (آخرالزماں) پر نازل کی ہے اور جو کتابیں اس سے پہلے نازل کی تھیں سب پر ایمان لاؤ۔ اور جو شخص خدا اور اس کے فرشتوں اور اس کی کتابوں اور اس کے پیغمبروں اور روزقیامت سے انکار کرے وہ رستے سے بھٹک کر دور جا پڑا
+
 [Open on Quran.com](https://quran.com/4/136)
 
 #### 4:167 · [[004 An-Nisa]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who disbelieve and avert [people] from the way of Allāh have certainly gone far astray.
 
 **English (Yusuf Ali):** Those who reject Faith and keep off (men) from the way of Allah, have verily strayed far, far away from the Path.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے کفر کیا اور (لوگوں کو) خدا کے رستے سے روکا وہ رستے سے بھٹک کر دور جا پڑے
 
 [Open on Quran.com](https://quran.com/4/167)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Lo! Abraham said to his father Azar: "Takest thou idols for gods? For I see thee and thy people in manifest error."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (وہ وقت بھی یاد کرنے کے لائق ہے) جب ابراہیم نے اپنے باپ آزر سے کہا کہ تم بتوں کو کیا معبود بناتے ہو۔ میں دیکھتا ہوں کہ تم اور تمہاری قوم صریح گمراہی میں ہو
+
 [Open on Quran.com](https://quran.com/6/74)
 
 #### 7:60 · [[007 Al-Araf]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Said the eminent among his people, "Indeed, we see you in clear error."
 
 **English (Yusuf Ali):** The leaders of his people said: "Ah! we see thee evidently wandering (in mind)."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جو ان کی قوم میں سردار تھے وہ کہنے لگے کہ ہم تمہیں صریح گمراہی میں (مبتلا) دیکھتے ہیں
 
 [Open on Quran.com](https://quran.com/7/60)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Such is Allah, your real Cherisher and Sustainer: apart from truth, what (remains) but error? How then are ye turned away?
 
+**Urdu (Fatah Muhammad Jalandhari):** یہی خدا تو تمہارا پروردگار برحق ہے۔ اور حق بات کے ظاہر ہونے کے بعد گمراہی کے سوا ہے ہی کیا؟ تو تم کہاں پھرے جاتے ہو
+
 [Open on Quran.com](https://quran.com/10/32)
 
 #### 12:8 · [[012 Yusuf]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "Truly Joseph and his brother are loved more by our father than we: But we are a goodly body! really our father is obviously wandering (in his mind)!
 
+**Urdu (Fatah Muhammad Jalandhari):** جب انہوں نے (آپس میں) تذکرہ کیا کہ یوسف اور اس کا بھائی ابا کو ہم سے زیادہ پیارے ہیں حالانکہ ہم جماعت (کی جماعت) ہیں۔ کچھ شک نہیں کہ ابا صریح غلطی پر ہیں
+
 [Open on Quran.com](https://quran.com/12/8)
 
 #### 12:30 · [[012 Yusuf]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And women in the city said, "The wife of al-ʿAzeez is seeking to seduce her slave boy; he has impassioned her with love. Indeed, we see her [to be] in clear error."
 
 **English (Yusuf Ali):** Ladies said in the City: "The wife of the (great) 'Aziz is seeking to seduce her slave from his (true) self: Truly hath he inspired her with violent love: we see she is evidently going astray."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور شہر میں عورتیں گفتگوئیں کرنے لگیں کہ عزیز کی بیوی اپنے غلام کو اپنی طرف مائل کرنا چاہتی ہے۔ اور اس کی محبت اس کے دل میں گھر کرگئی ہے۔ ہم دیکھتی ہیں کہ وہ صریح گمراہی میں ہے
 
 [Open on Quran.com](https://quran.com/12/30)
 

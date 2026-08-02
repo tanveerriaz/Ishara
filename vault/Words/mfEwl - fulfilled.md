@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:47 · [[004 An-Nisa]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who were given the Scripture, believe in what We have sent down [to Prophet Muḥammad (ﷺ)], confirming that which is with you, before We obliterate faces and turn them toward their backs or curse them as We cursed the sabbath-breakers. And ever is the matter [i.e., decree] of Allāh accomplished.
 
 **English (Yusuf Ali):** O ye People of the Book! believe in what We have (now) revealed, confirming what was (already) with you, before We change the face and fame of some (of you) beyond all recognition, and turn them hindwards, or curse them as We cursed the Sabbath-breakers, for the decision of Allah Must be carried out.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے کتاب والو! قبل اس کے کہ ہم لوگوں کے مونہوں کو بگاڑ کر ان کی پیٹھ کی طرف پھیر دیں یا ان پر اس طرح لعنت کریں جس طرح ہفتے والوں پر کی تھی ہماری نازل کی ہوئی کتاب پر جو تمہاری کتاب کی بھی تصدیق کرتی ہے ایمان لے آؤ اور خدا نے جو حکم فرمایا سو (سمجھ لو کہ) ہوچکا
 
 [Open on Quran.com](https://quran.com/4/47)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Remember ye were on the hither side of the valley, and they on the farther side, and the caravan on lower ground than ye. Even if ye had made a mutual appointment to meet, ye would certainly have failed in the appointment: But (thus ye met), that Allah might accomplish a matter already enacted; that those who died might die after a clear Sign (had been given), and those who lived might live after a Clear Sign (had been given). And verily Allah is He Who heareth and knoweth (all things).
 
+**Urdu (Fatah Muhammad Jalandhari):** جس وقت تم (مدینے سے) قریب کے ناکے پر تھے اور کافر بعید کے ناکے پر اور قافلہ تم سے نیچے (اتر گیا) تھا۔ اور اگر تم (جنگ کے لیے) آپس میں قرارداد کرلیتے تو وقت معین (پر جمع ہونے) میں تقدیم وتاخیر ہو جاتی۔ لیکن خدا کو منظور تھا کہ جو کام ہو کر رہنے والا تھا اسے کر ہی ڈالے تاکہ جو مرے بصیرت پر (یعنی یقین جان کر) مرے اور جو جیتا رہے وہ بھی بصیرت پر (یعنی حق پہچان کر) جیتا رہے۔ اور کچھ شک نہیں کہ خدا سنتا جانتا ہے
+
 [Open on Quran.com](https://quran.com/8/42)
 
 #### 8:44 · [[008 Al-Anfal]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [remember] when He showed them to you, when you met, as few in your eyes, and He made you [appear] as few in their eyes so that Allāh might accomplish a matter already destined. And to Allāh are [all] matters returned.
 
 **English (Yusuf Ali):** And remember when ye met, He showed them to you as few in your eyes, and He made you appear as contemptible in their eyes: that Allah might accomplish a matter already enacted. For to Allah do all questions go back (for decision).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس وقت جب تم ایک دوسرے کے مقابل ہوئے تو کافروں کو تمہاری نظروں میں تھوڑا کر کے دکھاتا تھا اور تم کو ان کی نگاہوں میں تھوڑا کر کے دکھاتا تھا تاکہ خدا کو جو کام منظور کرنا تھا اسے کر ڈالے۔ اور سب کاموں کا رجوع خدا کی طرف ہے
 
 [Open on Quran.com](https://quran.com/8/44)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When the first of the warnings came to pass, We sent against you Our servants given to terrible warfare: They entered the very inmost parts of your homes; and it was a warning (completely) fulfilled.
 
+**Urdu (Fatah Muhammad Jalandhari):** پس جب پہلے (وعدے) کا وقت آیا تو ہم نے سخت لڑائی لڑنے والے بندے تم پر مسلط کردیئے اور وہ شہروں کے اندر پھیل گئے۔ اور وہ وعدہ پورا ہو کر رہا
+
 [Open on Quran.com](https://quran.com/17/5)
 
 #### 17:108 · [[017 Al-Isra]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they say, "Exalted is our Lord! Indeed, the promise of our Lord has been fulfilled."
 
 **English (Yusuf Ali):** "And they say: 'Glory to our Lord! Truly has the promise of our Lord been fulfilled!'"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ ہمارا پروردگار پاک ہے بےشک ہمارے پروردگار کا وعدہ پورا ہو کر رہا
 
 [Open on Quran.com](https://quran.com/17/108)
 
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! Thou didst say to one who had received the grace of Allah and thy favour: "Retain thou (in wedlock) thy wife, and fear Allah." But thou didst hide in thy heart that which Allah was about to make manifest: thou didst fear the people, but it is more fitting that thou shouldst fear Allah. Then when Zaid had dissolved (his marriage) with her, with the necessary (formality), We joined her in marriage to thee: in order that (in future) there may be no difficulty to the Believers in (the matter of) marriage with the wives of their adopted sons, when the latter have dissolved with the necessary (formality) (their marriage) with them. And Allah's command must be fulfilled.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم اس شخص سے جس پر خدا نے احسان کیا اور تم نے بھی احسان کیا (یہ) کہتے تھے کہ اپنی بیوی کو اپنے پاس رہنے دے اور خدا سے ڈر اور تم اپنے دل میں وہ بات پوشیدہ کرتے تھے جس کو خدا ظاہر کرنے والا تھا اور تم لوگوں سے ڈرتے تھے۔ حالانکہ خدا ہی اس کا زیادہ مستحق ہے کہ اس سے ڈرو۔ پھر جب زید نے اس سے (کوئی) حاجت (متعلق) نہ رکھی (یعنی اس کو طلاق دے دی) تو ہم نے تم سے اس کا نکاح کردیا تاکہ مومنوں کے لئے ان کے منہ بولے بیٹوں کی بیویوں (کے ساتھ نکاح کرنے کے بارے) میں جب وہ ان سے اپنی حاجت (متعلق) نہ رکھیں (یعنی طلاق دے دیں) کچھ تنگی نہ رہے۔ اور خدا کا حکم واقع ہو کر رہنے والا تھا
+
 [Open on Quran.com](https://quran.com/33/37)
 
 #### 73:18 · [[073 Al-Muzzammil]]
@@ -139,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The heaven will break apart therefrom; ever is His promise fulfilled.
 
 **English (Yusuf Ali):** Whereon the sky will be cleft asunder? His Promise needs must be accomplished.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور) جس سے آسمان پھٹ جائے گا۔ یہ اس کا وعدہ (پورا) ہو کر رہے گا
 
 [Open on Quran.com](https://quran.com/73/18)
 

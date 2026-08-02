@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 37:49 · [[037 As-Saffat]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** As if they were [delicate] eggs, well-protected.
 
 **English (Yusuf Ali):** As if they were (delicate) eggs closely guarded.
+
+**Urdu (Fatah Muhammad Jalandhari):** گویا وہ محفوظ انڈے ہیں
 
 [Open on Quran.com](https://quran.com/37/49)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Round about them will serve, (devoted) to them, young male servants (handsome) as Pearls well-guarded.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور نوجوان خدمت گار (جو ایسے ہوں گے) جیسے چھپائے ہوئے موتی ان کے آس پاس پھریں گے
+
 [Open on Quran.com](https://quran.com/52/24)
 
 #### 56:23 · [[056 Al-Waqiah]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Like unto Pearls well-guarded.
 
+**Urdu (Fatah Muhammad Jalandhari):** جیسے (حفاظت سے) تہہ کئے ہوئے (آب دار) موتی
+
 [Open on Quran.com](https://quran.com/56/23)
 
 #### 56:78 · [[056 Al-Waqiah]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** In a Register well-protected;.
 
 **English (Yusuf Ali):** In Book well-guarded,
+
+**Urdu (Fatah Muhammad Jalandhari):** (جو) کتاب محفوظ میں (لکھا ہوا ہے)
 
 [Open on Quran.com](https://quran.com/56/78)
 

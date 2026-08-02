@@ -14,40 +14,40 @@ The Courser · 11 ayahs
 
 ## Words in this surah (graph)
 
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
-- [[$hyd - witness]] — `شَهِيد` · witness
-- [[qbr - graves]] — `قَبْر` · graves
-- [[>vAr - plough]] — `أَثارُ` · plough
-- [[$dyd - severe]] — `شَدِيد` · severe
-- [[Elm - know]] — `عَلِمَ` · know
-- [[xyr - better]] — `خَيْر` · better
-- [[Hb - grain]] — `حُبّ` · grain
-- [[ywm - day]] — `يَوْم` · day
-- [[<nsAn - man]] — `إِنسان` · man
-- [[Sdr - breasts]] — `صَدْر` · breasts
 - [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[SbH - morning]] — `صُبْح` · morning
+- [[Sdr - breasts]] — `صَدْر` · breasts
+- [[$dyd - severe]] — `شَدِيد` · severe
 - [[rb - lord]] — `رَبّ` · lord
+- [[<nsAn - man]] — `إِنسان` · man
+- [[Elm - know]] — `عَلِمَ` · know
+- [[Hb - grain]] — `حُبّ` · grain
+- [[>vAr - plough]] — `أَثارُ` · plough
+- [[$hyd - witness]] — `شَهِيد` · witness
+- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[ywm - day]] — `يَوْم` · day
+- [[SbH - morning]] — `صُبْح` · morning
+- [[qbr - graves]] — `قَبْر` · graves
+- [[xyr - better]] — `خَيْر` · better
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$hd - shhd]]
-- [[>ns - ans]]
-- [[Edw - enemy]]
+- [[$hd - witnessing]]
+- [[>ns - mankind]]
+- [[Edw - turn]]
 - [[Elm - knowledge]]
 - [[Hbb - love]]
-- [[SbH - sbh]]
+- [[SbH - morning]]
 - [[Sdr - front part something]]
 - [[gyr - ghayr]]
-- [[jmE - jme]]
+- [[jmE - collection]]
 - [[qbr - type small bird]]
 - [[rbb - Lord]]
-- [[vwr - thwr]]
+- [[vwr - raised]]
 - [[wry - conceal hide something]]
 - [[wsT - middle part something]]
-- [[xbr - khabra]]
-- [[xyr - khyr]]
+- [[xbr - know something deeply]]
+- [[xyr - better]]
 - [[ywm - day]]
 
 ## Sample (ayah 1)

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jdv - jdth]]
+- [[jdv - grave sepulchre]]
 
 ### Meaning
 **graves** · Lemma **أَجْداث**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 36:51 · [[036 Ya-Sin]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the Horn will be blown; and at once from the graves to their Lord they will hasten.
 
 **English (Yusuf Ali):** The trumpet shall be sounded, when behold! from the sepulchres (men) will rush forth to their Lord!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (جس وقت) صور پھونکا جائے گا یہ قبروں سے (نکل کر) اپنے پروردگار کی طرف دوڑ پڑیں گے
 
 [Open on Quran.com](https://quran.com/36/51)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They will come forth,- their eyes humbled - from (their) graves, (torpid) like locusts scattered abroad,
 
+**Urdu (Fatah Muhammad Jalandhari):** تو آنکھیں نیچی کئے ہوئے قبروں سے نکل پڑیں گے گویا بکھری ہوئی ٹڈیاں
+
 [Open on Quran.com](https://quran.com/54/7)
 
 #### 70:43 · [[070 Al-Maarij]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The Day they will emerge from the graves rapidly as if they were, toward an erected idol, hastening.
 
 **English (Yusuf Ali):** The Day whereon they will issue from their sepulchres in sudden haste as if they were rushing to a goal-post (fixed for them),-
+
+**Urdu (Fatah Muhammad Jalandhari):** اس دن یہ قبر سے نکل کر (اس طرح) دوڑیں گے جیسے (شکاری) شکار کے جال کی طرف دوڑتے ہیں
 
 [Open on Quran.com](https://quran.com/70/43)
 

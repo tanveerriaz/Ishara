@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jhr - jhr]]
+- [[jhr - make something plain]]
 
 ### Meaning
 **loud** · Lemma **جَهْر**
@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:148 · [[004 An-Nisa]]
 
@@ -49,6 +49,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh does not like the public mention of evil except by one who has been wronged. And ever is Allāh Hearing and Knowing.
 
 **English (Yusuf Ali):** Allah loveth not that evil should be noised abroad in public speech, except where injustice hath been done; for Allah is He who heareth and knoweth all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا اس بات کو پسند نہیں کرتا کہ کوئی کسی کو علانیہ برا کہے مگر وہ جو مظلوم ہو۔ اور خدا (سب کچھ) سنتا (اور) جانتا ہے
 
 [Open on Quran.com](https://quran.com/4/148)
 
@@ -66,6 +68,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And He is Allah in the heavens and on earth. He knoweth what ye hide, and what ye reveal, and He knoweth the (recompense) which ye earn (by your deeds).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور آسمانوں اور زمین میں وہی (ایک) خدا ہے تمہاری پوشیدہ اور ظاہر سب باتیں جانتا ہے اور تم جو عمل کرتے ہو سب سے واقف ہے
+
 [Open on Quran.com](https://quran.com/6/3)
 
 #### 7:205 · [[007 Al-Araf]]
@@ -81,6 +85,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And remember your Lord within yourself in humility and in fear without being apparent in speech - in the mornings and the evenings. And do not be among the heedless.
 
 **English (Yusuf Ali):** And do thou (O reader!) Bring thy Lord to remembrance in thy (very) soul, with humility and in reverence, without loudness in words, in the mornings and evenings; and be not thou of those who are unheedful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے پروردگار کو دل ہی دل میں عاجزی اور خوف سے اور پست آواز سے صبح وشام یاد کرتے رہو اور (دیکھنا) غافل نہ ہونا
 
 [Open on Quran.com](https://quran.com/7/205)
 
@@ -98,6 +104,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is the same (to Him) whether any of you conceal his speech or declare it openly; whether he lie hid by night or walk forth freely by day.
 
+**Urdu (Fatah Muhammad Jalandhari):** کوئی تم میں سے چپکے سے بات کہے یا پکار کر یا رات کو کہیں چھپ جائے یا دن کی روشنی میں کھلم کھلا چلے پھرے (اس کے نزدیک) برابر ہے
+
 [Open on Quran.com](https://quran.com/13/10)
 
 #### 16:75 · [[016 An-Nahl]]
@@ -113,6 +121,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh presents an example: a slave [who is] owned and unable to do a thing and he to whom We have provided from Us good provision, so he spends from it secretly and publicly. Can they be equal? Praise to Allāh! But most of them do not know.
 
 **English (Yusuf Ali):** Allah sets forth the Parable (of two men: one) a slave under the dominion of another; He has no power of any sort; and (the other) a man on whom We have bestowed goodly favours from Ourselves, and he spends thereof (freely), privately and publicly: are the two equal? (By no means;) praise be to Allah. But most of them understand not.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ایک اور مثال بیان فرماتا ہے کہ ایک غلام ہے جو (بالکل) دوسرے کے اختیار میں ہے اور کسی چیز پر قدرت نہیں رکھتا اور ایک ایسا شخص ہے جس کو ہم نے اپنے ہاں سے (بہت سا) مال طیب عطا فرمایا ہے اور وہ اس میں سے (رات دن) پوشیدہ اور ظاہر خرچ کرتا رہتا ہے تو کیا یہ دونوں شخص برابر ہیں؟ (ہرگز نہیں) الحمدلله لیکن ان میں سے اکثر لوگ نہیں سمجھ رکھتے
 
 [Open on Quran.com](https://quran.com/16/75)
 
@@ -130,6 +140,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Call upon Allah, or call upon Rahman: by whatever name ye call upon Him, (it is well): for to Him belong the Most Beautiful Names. Neither speak thy Prayer aloud, nor speak it in a low tone, but seek a middle course between."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ تم (خدا کو) الله (کے نام سے) پکارو یا رحمٰن (کے نام سے) جس نام سے پکارو اس کے سب اچھے نام ہیں۔ اور نماز نہ بلند آواز سے پڑھو اور نہ آہستہ بلکہ اس کے بیچ کا طریقہ اختیار کرو
+
 [Open on Quran.com](https://quran.com/17/110)
 
 #### 20:7 · [[020 Taha]]
@@ -145,6 +157,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you speak aloud - then indeed, He knows the secret and what is [even] more hidden.
 
 **English (Yusuf Ali):** If thou pronounce the word aloud, (it is no matter): for verily He knoweth what is secret and what is yet more hidden.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم پکار کر بات کہو تو وہ تو چھپے بھید اور نہایت پوشیدہ بات تک کو جانتا ہے
 
 [Open on Quran.com](https://quran.com/20/7)
 
@@ -162,6 +176,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "It is He Who knows what is open in speech and what ye hide (in your hearts).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو بات پکار کی جائے وہ اسے بھی جانتا ہے اور جو تم پوشیدہ کرتے ہو اس سے بھی واقف ہے
+
 [Open on Quran.com](https://quran.com/21/110)
 
 #### 49:2 · [[049 Al-Hujurat]]
@@ -178,6 +194,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Raise not your voices above the voice of the Prophet, nor speak aloud to him in talk, as ye may speak aloud to one another, lest your deeds become vain and ye perceive not.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان! اپنی آوازیں پیغمبر کی آواز سے اونچی نہ کرو اور جس طرح آپس میں ایک دوسرے سے زور سے بولتے ہو (اس طرح) ان کے روبرو زور سے نہ بولا کرو (ایسا نہ ہو) کہ تمہارے اعمال ضائع ہوجائیں اور تم کو خبر بھی نہ ہو
+
 [Open on Quran.com](https://quran.com/49/2)
 
 #### 67:13 · [[067 Al-Mulk]]
@@ -193,6 +211,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And conceal your speech or publicize it; indeed, He is Knowing of that within the breasts.
 
 **English (Yusuf Ali):** And whether ye hide your word or publish it, He certainly has (full) knowledge, of the secrets of (all) hearts.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم (لوگ) بات پوشیدہ کہو یا ظاہر۔ وہ دل کے بھیدوں تک سے واقف ہے
 
 [Open on Quran.com](https://quran.com/67/13)
 

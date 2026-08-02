@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sbl - sbl]]
+- [[sbl - way]]
 
 ### Meaning
 **way** · Lemma **سَبِيل**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:108 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or do you intend to ask your Messenger as Moses was asked before? And whoever exchanges faith for disbelief has certainly strayed from the soundness of the way.
 
 **English (Yusuf Ali):** Would ye question your Messenger as Moses was questioned of old? but whoever changeth from Faith to Unbelief, Hath strayed without doubt from the even way.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم یہ چاہتے ہو کہ اپنے پیغمبر سے اسی طرح کے سوال کرو، جس طرح کے سوال پہلے موسیٰ سے کئے گئے تھے۔ اور جس شخص نے ایمان (چھوڑ کر اس) کے بدلے کفر لیا، وہ سیدھے رستے سے بھٹک گیا
 
 [Open on Quran.com](https://quran.com/2/108)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And say not of those who are slain in the way of Allah: "They are dead." Nay, they are living, though ye perceive (it) not.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا کی راہ میں مارے جائیں ان کی نسبت یہ کہنا کہ وہ مرے ہوئے ہیں (وہ مردہ نہیں) بلکہ زندہ ہیں لیکن تم نہیں جانتے
+
 [Open on Quran.com](https://quran.com/2/154)
 
 #### 2:177 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
 
 **English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/177)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Fight in the cause of Allah those who fight you, but do not transgress limits; for Allah loveth not transgressors.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم سے لڑتے ہیں تم بھی خدا کی راہ میں ان سے لڑو مگر زیادتی نہ کرنا کہ خدا زیادتی کرنے والوں کو دوست نہیں رکھتا
+
 [Open on Quran.com](https://quran.com/2/190)
 
 #### 2:195 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And spend in the way of Allāh and do not throw [yourselves] with your [own] hands into destruction [by refraining]. And do good; indeed, Allāh loves the doers of good.
 
 **English (Yusuf Ali):** And spend of your substance in the cause of Allah, and make not your own hands contribute to (your) destruction; but do good; for Allah loveth those who do good.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا کی راہ میں (مال) خرچ کرو اور اپنے آپ کو ہلاکت میں نہ ڈالو اور نیکی کرو بےشک خدا نیکی کرنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/2/195)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They ask thee what they should spend (In charity). Say: Whatever ye spend that is good, is for parents and kindred and orphans and those in want and for wayfarers. And whatever ye do that is good, -Allah knoweth it well.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے پوچھتے ہیں کہ (خدا کی راہ میں) کس طرح کا مال خرچ کریں۔ کہہ دو کہ (جو چاہو خرچ کرو لیکن) جو مال خرچ کرنا چاہو وہ (درجہ بدرجہ اہل استحقاق یعنی) ماں باپ اور قریب کے رشتے داروں کو اور یتیموں کو اور محتاجوں کو اور مسافروں کو (سب کو دو) اور جو بھلائی تم کرو گے خدا اس کو جانتا ہے
+
 [Open on Quran.com](https://quran.com/2/215)
 
 #### 2:217 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They ask you about the sacred month - about fighting therein. Say, "Fighting therein is great [sin], but averting [people] from the way of Allāh and disbelief in Him and [preventing access to] al-Masjid al-Ḥarām and the expulsion of its people therefrom are greater [evil] in the sight of Allāh. And fitnah is greater than killing." And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire; they will abide therein eternally.
 
 **English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
 
 [Open on Quran.com](https://quran.com/2/217)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who believed and those who suffered exile and fought (and strove and struggled) in the path of Allah,- they have the hope of the Mercy of Allah: And Allah is Oft-forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور خدا کے لئے وطن چھوڑ گئے اور (کفار سے) جنگ کرتے رہے وہی خدا کی رحمت کے امیدوار ہیں۔ اور خدا بخشنے والا (اور) رحمت کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/2/218)
 
 #### 2:244 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then fight in the cause of Allah, and know that Allah Heareth and knoweth all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (مسلمانو) خدا کی راہ میں جہاد کرو اور جان رکھو کہ خدا (سب کچھ) جانتا ہے
+
 [Open on Quran.com](https://quran.com/2/244)
 
 #### 2:246 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have you not considered the assembly of the Children of Israel after [the time of] Moses when they said to a prophet of theirs, "Send to us a king, and we will fight in the way of Allāh"? He said, "Would you perhaps refrain from fighting if battle was prescribed for you?" They said, "And why should we not fight in the cause of Allāh when we have been driven out from our homes and from our children?" But when battle was prescribed for them, they turned away, except for a few of them. And Allāh is Knowing of the wrongdoers.
 
 **English (Yusuf Ali):** Hast thou not Turned thy vision to the Chiefs of the Children of Israel after (the time of) Moses? they said to a prophet (That was) among them: "Appoint for us a king, that we May fight in the cause of Allah." He said: "Is it not possible, if ye were commanded to fight, that that ye will not fight?" They said: "How could we refuse to fight in the cause of Allah, seeing that we were turned out of our homes and our families?" but when they were commanded to fight, they turned back, except a small band among them. But Allah Has full knowledge of those who do wrong.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے بنی اسرائیل کی ایک جماعت کو نہیں دیکھا جس نے موسیٰ کے بعد اپنے پیغمبر سے کہا کہ آپ ہمارے لئے ایک بادشاہ مقرر کردیں تاکہ ہم خدا کی راہ میں جہاد کریں۔ پیغمبر نے کہا کہ اگر تم کو جہاد کا حکم دیا جائے تو عجب نہیں کہ لڑنے سے پہلو تہی کرو۔ وہ کہنے لگے کہ ہم راہ خدا میں کیوں نہ لڑیں گے جب کہ ہم وطن سے (خارج) اور بال بچوں سے جدا کردیئے گئے۔ لیکن جب ان کو جہاد کا حکم دیا گیا تو چند اشخاص کے سوا سب پھر گئے۔ اور خدا ظالموں سے خوب واقف ہے
 
 [Open on Quran.com](https://quran.com/2/246)
 

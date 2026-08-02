@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:54 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when Moses said to his people, "O my people, indeed you have wronged yourselves by your taking of the calf [for worship]. So repent to your Creator and kill yourselves [i.e., the guilty among you]. That is best for [all of] you in the sight of your Creator." Then He accepted your repentance; indeed, He is the Accepting of Repentance, the Merciful.
 
 **English (Yusuf Ali):** And remember Moses said to his people: "O my people! Ye have indeed wronged yourselves by your worship of the calf: So turn (in repentance) to your Maker, and slay yourselves (the wrong-doers); that will be better for you in the sight of your Maker." Then He turned towards you (in forgiveness): For He is Oft-Returning, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لوگوں سے کہا کہ بھائیو، تم نے بچھڑے کو (معبود) ٹھہرانے میں (بڑا) ظلم کیا ہے، تو اپنے پیدا کرنے والے کے آگے توبہ کرو اور اپنے تئیں ہلاک کر ڈالو۔ تمہارے خالق کے نزدیک تمہارے حق میں یہی بہتر ہے۔ پھر اس نے تمہارا قصور معاف کر دیا۔ وہ بے شک معاف کرنے والا (اور) صاحبِ رحم ہے
 
 [Open on Quran.com](https://quran.com/2/54)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who believe (in the Qur'an), and those who follow the Jewish (scriptures), and the Christians and the Sabians,- any who believe in Allah and the Last Day, and work righteousness, shall have their reward with their Lord; on them shall be no fear, nor shall they grieve.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ مسلمان ہیں یا یہودی یا عیسائی یا ستارہ پرست، (یعنی کوئی شخص کسی قوم و مذہب کا ہو) جو خدا اور روز قیامت پر ایمان لائے گا، اور نیک عمل کرے گا، تو ایسے لوگوں کو ان (کے اعمال) کا صلہ خدا کے ہاں ملے گا اور (قیامت کے دن) ان کو نہ کسی طرح کا خوف ہوگا اور نہ وہ غم ناک ہوں گے
+
 [Open on Quran.com](https://quran.com/2/62)
 
 #### 2:76 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they meet those who believe, they say, "We have believed"; but when they are alone with one another, they say, "Do you talk to them about what Allāh has revealed to you so they can argue with you about it before your Lord?" Then will you not reason?
 
 **English (Yusuf Ali):** Behold! when they meet the men of Faith, they say: "We believe": But when they meet each other in private, they say: "Shall you tell them what Allah hath revealed to you, that they may engage you in argument about it before your Lord?"- Do ye not understand (their aim)?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ جب مومنوں سے ملتے ہیں تو کہتے ہیں، ہم ایمان لے آئے ہیں۔ اور جب آپس میں ایک دوسرے سے ملتے ہیں تو کہتے ہیں، جو بات خدا نے تم پر ظاہر فرمائی ہے، وہ تم ان کو اس لیے بتائے دیتے ہو کہ (قیامت کے دن) اسی کے حوالے سے تمہارے پروردگار کے سامنے تم کو الزام دیں۔ کیا تم سمجھتے نہیں؟
 
 [Open on Quran.com](https://quran.com/2/76)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then woe to those who write the Book with their own hands, and then say:"This is from Allah," to traffic with it for miserable price!- Woe to them for what their hands do write, and for the gain they make thereby.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں پر افسوس ہے جو اپنے ہاتھ سے تو کتاب لکھتے ہیں اور کہتے یہ ہیں کہ یہ خدا کے پاس سے (آئی) ہے، تاکہ اس کے عوض تھوڑی سے قیمت (یعنی دنیوی منفعت) حاصل کریں۔ ان پر افسوس ہے، اس لیے کہ (بےاصل باتیں) اپنے ہاتھ سے لکھتے ہیں اور (پھر) ان پر افسوس ہے، اس لیے کہ ایسے کام کرتے ہیں
+
 [Open on Quran.com](https://quran.com/2/79)
 
 #### 2:80 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they say, "Never will the Fire touch us, except for [a few] numbered days." Say, "Have you taken a covenant with Allāh? For Allāh will never break His covenant. Or do you say about Allāh that which you do not know?"
 
 **English (Yusuf Ali):** And they say: "The Fire shall not touch us but for a few numbered days:" Say: "Have ye taken a promise from Allah, for He never breaks His promise? or is it that ye say of Allah what ye do not know?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ (دوزخ کی) آگ ہمیں چند روز کے سوا چھو ہی نہیں سکے گی۔ ان سے پوچھو، کیا تم نے خدا سے اقرار لے رکھا ہے کہ خدا اپنے اقرار کے خلاف نہیں کرے گا۔ (نہیں)، بلکہ تم خدا کے بارے میں ایسی باتیں کہتے ہو جن کا تمہیں مطلق علم نہیں
 
 [Open on Quran.com](https://quran.com/2/80)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And when there comes to them a Book from Allah, confirming what is with them,- although from of old they had prayed for victory against those without Faith,- when there comes to them that which they (should) have recognised, they refuse to believe in it but the curse of Allah is on those without Faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب الله کے ہاں سے ان کے پاس کتاب آئی جو ان کی (آسمانی) کتاب کی بھی تصدیق کرتی ہے، اور وہ پہلے (ہمیشہ) کافروں پر فتح مانگا کرتے تھے، تو جس چیز کو وہ خوب پہچانتے تھے، جب ان کے پاس آپہنچی تو اس سے کافر ہو گئے۔ پس کافروں پر الله کی لعنت
+
 [Open on Quran.com](https://quran.com/2/89)
 
 #### 2:94 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O Muḥammad], "If the home of the Hereafter with Allāh is for you alone and not the [other] people, then wish for death, if you should be truthful."
 
 **English (Yusuf Ali):** Say: "If the last Home, with Allah, be for you specially, and not for anyone else, then seek ye for death, if ye are sincere."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر آخرت کا گھر اور لوگوں (یعنی مسلمانوں) کے لیے نہیں اور خدا کے نزدیک تمہارے ہی لیے مخصوص ہے تو اگر سچے ہو تو موت کی آرزو تو کرو
 
 [Open on Quran.com](https://quran.com/2/94)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And when there came to them a messenger from Allah, confirming what was with them, a party of the people of the Book threw away the Book of Allah behind their backs, as if (it had been something) they did not know!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کے پاس الله کی طرف سے پیغمبر (آخرالزماں) آئے، اور وہ ان کی (آسمانی) کتاب کی بھی تصدیق کرتے ہیں تو جن لوگوں کو کتاب دی گئی تھی، ان میں سے ایک جماعت نے خدا کی کتاب کو پیٹھ پیچھے پھینک دیا، گویا وہ جانتے ہی نہیں
+
 [Open on Quran.com](https://quran.com/2/101)
 
 #### 2:103 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If they had kept their Faith and guarded themselves from evil, far better had been the reward from their Lord, if they but knew!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر وہ ایمان لاتے اور پرہیز گاری کرتے تو خدا کے ہاں سے بہت اچھا صلہ ملتا۔ اے کاش، وہ اس سے واقف ہوتے
+
 [Open on Quran.com](https://quran.com/2/103)
 
 #### 2:109 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Many of the People of the Scripture wish they could turn you back to disbelief after you have believed, out of envy from themselves [even] after the truth has become clear to them. So pardon and overlook until Allāh delivers His command. Indeed, Allāh is over all things competent.
 
 **English (Yusuf Ali):** Quite a number of the People of the Book wish they could Turn you (people) back to infidelity after ye have believed, from selfish envy, after the Truth hath become Manifest unto them: But forgive and overlook, Till Allah accomplish His purpose; for Allah Hath power over all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** بہت سے اہل کتاب اپنے دل کی جلن سے یہ چاہتے ہیں کہ ایمان لا چکنے کے بعد تم کو پھر کافر بنا دیں۔ حالانکہ ان پر حق ظاہر ہو چکا ہے۔ تو تم معاف کردو اور درگزر کرو۔ یہاں تک کہ خدا اپنا (دوسرا) حکم بھیجے۔ بے شک خدا ہر بات پر قادر ہے
 
 [Open on Quran.com](https://quran.com/2/109)
 

@@ -15,81 +15,81 @@ The Troops · 75 ayahs
 ## Words in this surah (graph)
 
 - [[mvwY - abode]] — `مَثْوًى` · abode
-- [[bdA - will appear]] — `بَدا` · will appear
-- [[xznt - its keepers]] — `خَزَنَت` · its keepers
 - [[syq - will driven]] — `سِيقَ` · will driven
-- [[hAd - guide]] — `هاد` · guide
-- [[yxwf - frightens you]] — `يُخَوِّفُ` · frightens you
 - [[mtkbr - arrogant]] — `مُتَكَبِّر` · arrogant
+- [[bdA - will appear]] — `بَدا` · will appear
+- [[hAd - guide]] — `هاد` · guide
+- [[xznt - its keepers]] — `خَزَنَت` · its keepers
 - [[>nAb - turns]] — `أَنابَ` · turns
-- [[fATr - creator]] — `فاطِر` · creator
-- [[dEA - call]] — `دَعا` · call
-- [[nAr - fire]] — `نار` · fire
-- [[lyl - night]] — `لَيْل` · night
-- [[>slm - submits]] — `أَسْلَمَ` · submits
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[Dl - lost]] — `ضَلَّ` · lost
-- [[>nq* - would saved]] — `أَنقَذَ` · would saved
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[TAgwt - false deities]] — `طاغُوت` · false deities
-- [[Eml - do]] — `عَمِلَ` · do
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[>ndAd - rivals]] — `أَنداد` · rivals
-- [[>mr - command]] — `أَمَرَ` · command
-- [[wly - protector]] — `وَلِيّ` · protector
-- [[myEAd - promise]] — `مِيعاد` · promise
+- [[yxwf - frightens you]] — `يُخَوِّفُ` · frightens you
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[ftH - victory]] — `فَتَحَ` · victory
+- [[lwn - colors]] — `لَوْن` · colors
+- [[kfAr - disbeliever]] — `كَفّار` · disbeliever
+- [[dyn - religion]] — `دِين` · religion
+- [[qbl - before]] — `قَبْل` · before
+- [[Zlp - coverings]] — `ظُلَّة` · coverings
+- [[$fyE - any intercessor]] — `شَفِيع` · any intercessor
+- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
+- [[mwt - death]] — `مَوْت` · death
+- [[rDy - they pleased]] — `رَضِيَ` · they pleased
+- [[xsr - lost]] — `خَسِرَ` · lost
+- [[mAt - died]] — `ماتَ` · died
+- [[Ayp - signs]] — `آيَة` · signs
+- [[Eql - use reason]] — `عَقَلُ` · use reason
+- [[slk - follow]] — `سَلَكَ` · follow
 
 ## Roots
 
 - [[$Er - name]]
-- [[$bh - shbh]]
+- [[$bh - likeness resemblance]]
 - [[$fE - make something pair]]
-- [[$hd - shhd]]
-- [[$kr - shkr]]
+- [[$hd - witnessing]]
+- [[$kr - gratitude]]
 - [[$ms - horse refusing ridden]]
 - [[$rH - uncover]]
 - [[$rk - sharing partnership]]
-- [[$rq - east]]
+- [[$rq - earth]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[*nb - tail]]
-- [[*wq - dhwq]]
+- [[*wq - taste]]
 - [[>hl - people house]]
 - [[>jl - term]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>lh - god]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>ny - any]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>ny - hours]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - like milk oil]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[Drb - tent]]
+- [[Drb - strike beat]]
 - [[Drr - adversity]]
-- [[E*b - edhb]]
+- [[E*b - motes particles floating]]
 - [[ESy - disobey]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Ebd - worship]]
 - [[Ejz - old age weakness]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
-- [[Eql - eql]]
-- [[Er$ - ersh]]
-- [[Erb - erb]]
-- [[Ewj - ewj]]
+- [[Eql - withhold restrain]]
+- [[Er$ - shaded structure]]
+- [[Erb - bedouins]]
+- [[Ewj - crookedness]]
 - [[Ezz - all-mighty]]
-- [[H*r - hdhr]]
-- [[HTm - htm]]
-- [[HbT - hbt]]
+- [[H*r - fear]]
+- [[HTm - break]]
+- [[HbT - worthless]]
 - [[Hdv - accidents]]
 - [[Hkm - prevent restrain someone]]
 

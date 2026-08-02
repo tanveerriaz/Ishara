@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:164 · [[007 Al-Araf]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when a community among them said, "Why do you advise [or warn] a people whom Allāh is [about] to destroy or to punish with a severe punishment?" they [the advisors] said, "To be absolved before your Lord and perhaps they may fear Him."
 
 **English (Yusuf Ali):** When some of them said: "Why do ye preach to a people whom Allah will destroy or visit with a terrible punishment?"- said the preachers:" To discharge our duty to your Lord, and perchance they may fear Him."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان میں سے ایک جماعت نے کہا کہ تم ایسے لوگوں کو کیوں نصیحت کرتے ہو جن کو الله ہلاک کرنے والا یا سخت عذاب دینے والا ہے تو انہوں نے کہا اس لیے کہ تمہارے پروردگار کے سامنے معذرت کرسکیں اور عجب نہیں کہ وہ پرہیزگاری اختیار کریں
 
 [Open on Quran.com](https://quran.com/7/164)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So on that Day no excuse of theirs will avail the transgressors, nor will they be invited (then) to seek grace (by repentance).
 
+**Urdu (Fatah Muhammad Jalandhari):** تو اس روز ظالم لوگوں کو ان کا عذر کچھ فائدہ نہ دے گا اور نہ اُن سے توبہ قبول کی جائے گی
+
 [Open on Quran.com](https://quran.com/30/57)
 
 #### 40:52 · [[040 Ghafir]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The Day their excuse will not benefit the wrongdoers, and they will have the curse, and they will have the worst home [i.e., Hell].
 
 **English (Yusuf Ali):** The Day when no profit will it be to Wrong-doers to present their excuses, but they will (only) have the Curse and the Home of Misery.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن ظالموں کو ان کی معذرت کچھ فائدہ نہ دے گی اور ان کے لئے لعنت اور برا گھر ہے
 
 [Open on Quran.com](https://quran.com/40/52)
 

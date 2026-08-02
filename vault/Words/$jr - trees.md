@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$jr - shjr]]
+- [[$jr - trees]]
 
 ### Meaning
 **trees** · Lemma **شَجَرَ**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:65 · [[004 An-Nisa]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But no, by your Lord, they will not [truly] believe until they make you, [O Muḥammad], judge concerning that over which they dispute among themselves and then find within themselves no discomfort from what you have judged and submit in [full, willing] submission.
 
 **English (Yusuf Ali):** But no, by the Lord, they can have no (real) Faith, until they make thee judge in all disputes between them, and find in their souls no resistance against Thy decisions, but accept them with the fullest conviction.
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہارے پروردگار کی قسم یہ لوگ جب تک اپنے تنازعات میں تمہیں منصف نہ بنائیں اور جو فیصلہ تم کردو اس سے اپنے دل میں تنگ نہ ہوں بلکہ اس کو خوشی سے مان لیں تب تک مومن نہیں ہوں گے
 
 [Open on Quran.com](https://quran.com/4/65)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He who sends down rain from the sky: from it ye drink, and out of it (grows) the vegetation on which ye feed your cattle.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے آسمان سے پانی برسایا جسے تم پیتے ہو اور اس سے درخت بھی (شاداب ہوتے ہیں) جن میں تم اپنے چارپایوں کو چراتے ہو
+
 [Open on Quran.com](https://quran.com/16/10)
 
 #### 16:68 · [[016 An-Nahl]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And your Lord inspired to the bee, "Take for yourself among the mountains, houses [i.e., hives], and among the trees and [in] that which they construct.
 
 **English (Yusuf Ali):** And thy Lord taught the Bee to build its cells in hills, on trees, and in (men's) habitations;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے پروردگار نے شہد کی مکھیوں کو ارشاد فرمایا کہ پہاڑوں میں اور درختوں میں اور اونچی اونچی چھتریوں میں جو لوگ بناتے ہیں گھر بنا
 
 [Open on Quran.com](https://quran.com/16/68)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Seest thou not that to Allah bow down in worship all things that are in the heavens and on earth,- the sun, the moon, the stars; the hills, the trees, the animals; and a great number among mankind? But a great number are (also) such as are fit for Punishment: and such as Allah shall disgrace,- None can raise to honour: for Allah carries out all that He wills.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ جو (مخلوق) آسمانوں میں ہے اور جو زمین میں ہے اور سورج اور چاند ستارے اور پہاڑ اور درخت اور چار پائے اور بہت سے انسان خدا کو سجدہ کرتے ہیں۔ اور بہت سے ایسے ہیں جن پر عذاب ثابت ہوچکا ہے۔ اور جس شخص کو خدا ذلیل کرے اس کو عزت دینے والا نہیں۔ بےشک خدا جو چاہتا ہے کرتا ہے
+
 [Open on Quran.com](https://quran.com/22/18)
 
 #### 27:60 · [[027 An-Naml]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [More precisely], is He [not best] who created the heavens and the earth and sent down for you rain from the sky, causing to grow thereby gardens of joyful beauty which you could not [otherwise] have grown the trees thereof? Is there a deity with Allāh? [No], but they are a people who ascribe equals [to Him].
 
 **English (Yusuf Ali):** Or, Who has created the heavens and the earth, and Who sends you down rain from the sky? Yea, with it We cause to grow well-planted orchards full of beauty of delight: it is not in your power to cause the growth of the trees in them. (Can there be another) god besides Allah? Nay, they are a people who swerve from justice.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا کس نے آسمانوں اور زمین کو پیدا کیا اور (کس نے) تمہارے لئے آسمان سے پانی برسایا۔ (ہم نے) پھر ہم ہی نے اس سے سرسبز باغ اُگائے۔ تمہارا کام تو نہ تھا کہ تم اُن کے درختوں کو اگاتے۔ تو کیا خدا کے ساتھ کوئی اور بھی معبود ہے؟ (ہرگز نہیں) بلکہ یہ لوگ رستے سے الگ ہو رہے ہیں
 
 [Open on Quran.com](https://quran.com/27/60)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "The same Who produces for you fire out of the green tree, when behold! ye kindle therewith (your own fires)!
 
+**Urdu (Fatah Muhammad Jalandhari):** جس نے تمہارے لئے سبز درخت سے آگ پیدا کی پھر تم اس (کی ٹہنیوں کو رگڑ کر ان) سے آگ نکالتے ہو
+
 [Open on Quran.com](https://quran.com/36/80)
 
 #### 55:6 · [[055 Ar-Rahman]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And the herbs and the trees - both (alike) prostrate in adoration.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور بوٹیاں اور درخت سجدہ کر رہے ہیں
+
 [Open on Quran.com](https://quran.com/55/6)
 
 #### 56:52 · [[056 Al-Waqiah]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Will be eating from trees of zaqqūm
 
 **English (Yusuf Ali):** "Ye will surely taste of the Tree of Zaqqum.
+
+**Urdu (Fatah Muhammad Jalandhari):** تھوہر کے درخت کھاؤ گے
 
 [Open on Quran.com](https://quran.com/56/52)
 

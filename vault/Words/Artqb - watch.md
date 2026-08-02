@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rqb - rqb]]
+- [[rqb - slave]]
 
 ### Meaning
 **watch** · Lemma **ارْتَقِبْ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:93 · [[011 Hud]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And O my people, work according to your position; indeed, I am working. You are going to know to whom will come a punishment that will disgrace him and who is a liar. So watch; indeed, I am with you a watcher, [awaiting the outcome]."
 
 **English (Yusuf Ali):** "And O my people! Do whatever ye can: I will do (my part): Soon will ye know who it is on whom descends the penalty of ignominy; and who is a liar! and watch ye! for I too am watching with you!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور برادران ملت! تم اپنی جگہ کام کیے جاؤ میں (اپنی جگہ) کام کیے جاتا ہوں۔ تم کو عنقریب معلوم ہوجائے گا کہ رسوا کرنے والا عذاب کس پر آتا ہے اور جھوٹا کون ہے اور تم بھی انتظار کرو، میں بھی تمہارے ساتھ انتظار کرتا ہوں
 
 [Open on Quran.com](https://quran.com/11/93)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then watch thou for the Day that the sky will bring forth a kind of smoke (or mist) plainly visible,
 
+**Urdu (Fatah Muhammad Jalandhari):** تو اس دن کا انتظار کرو کہ آسمان سے صریح دھواں نکلے گا
+
 [Open on Quran.com](https://quran.com/44/10)
 
 #### 44:59 · [[044 Ad-Dukhan]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So wait thou and watch; for they (too) are waiting.
 
+**Urdu (Fatah Muhammad Jalandhari):** پس تم بھی انتظار کرو یہ بھی انتظار کر رہے ہیں
+
 [Open on Quran.com](https://quran.com/44/59)
 
 #### 54:27 · [[054 Al-Qamar]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, We are sending the she-camel as trial for them, so watch them and be patient.
 
 **English (Yusuf Ali):** For We will send the she-camel by way of trial for them. So watch them, (O Salih), and possess thyself in patience!
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے صالح) ہم ان کی آزمائش کے لئے اونٹنی بھیجنے والے ہیں تو تم ان کو دیکھتے رہو اور صبر کرو
 
 [Open on Quran.com](https://quran.com/54/27)
 

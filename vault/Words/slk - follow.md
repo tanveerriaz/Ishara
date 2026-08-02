@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[slk - slk]]
+- [[slk - travel]]
 
 ### Meaning
 **follow** · Lemma **سَلَكَ**
@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 15:12 · [[015 Al-Hijr]]
 
@@ -49,6 +49,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Thus do We insert it [i.e., denial] into the hearts of the criminals.
 
 **English (Yusuf Ali):** Even so do we let it creep into the hearts of the sinners -
+
+**Urdu (Fatah Muhammad Jalandhari):** اسی طرح ہم اس (تکذیب وضلال) کو گنہگاروں کے دلوں میں داخل کر دیتے ہیں
 
 [Open on Quran.com](https://quran.com/15/12)
 
@@ -66,6 +68,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then to eat of all the produce (of the earth), and find with skill the spacious paths of its Lord: there issues from within their bodies a drink of varying colours, wherein is healing for men: verily in this is a Sign for those who give thought.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہر قسم کے میوے کھا۔ اور اپنے پروردگار کے صاف رستوں پر چلی جا۔ اس کے پیٹ سے پینے کی چیز نکلتی ہے جس کے مختلف رنگ ہوتے ہیں اس میں لوگوں (کے کئی امراض) کی شفا ہے۔ بےشک سوچنے والوں کے لیے اس میں بھی نشانی ہے
+
 [Open on Quran.com](https://quran.com/16/69)
 
 #### 20:53 · [[020 Taha]]
@@ -81,6 +85,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [It is He] who has made for you the earth as a bed [spread out] and inserted therein for you roadways and sent down from the sky, rain and produced thereby categories of various plants.
 
 **English (Yusuf Ali):** "He Who has, made for you the earth like a carpet spread out; has enabled you to go about therein by roads (and channels); and has sent down water from the sky." With it have We produced diverse pairs of plants each separate from the others.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ (وہی تو ہے) جس نے تم لوگوں کے لئے زمین کو فرش بنایا اور اس میں تمہارے لئے رستے جاری کئے اور آسمان سے پانی برسایا۔ پھر اس سے انواع واقسام کی مختلف روئیدگیاں پیدا کیں
 
 [Open on Quran.com](https://quran.com/20/53)
 
@@ -98,6 +104,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So We inspired him (with this message): "Construct the Ark within Our sight and under Our guidance: then when comes Our Command, and the fountains of the earth gush forth, take thou on board pairs of every species, male and female, and thy family- except those of them against whom the Word has already gone forth: And address Me not in favour of the wrong-doers; for they shall be drowned (in the Flood).
 
+**Urdu (Fatah Muhammad Jalandhari):** پس ہم نے ان کی طرف وحی بھیجی کہ ہمارے سامنے اور ہمارے حکم سے ایک کشتی بناؤ۔ پھر جب ہمارا حکم آ پہنچے اور تنور (پانی سے بھر کر) جوش مارنے لگے تو سب (قسم کے حیوانات) میں جوڑا جوڑا (یعنی نر اور مادہ) دو دو کشتی میں بٹھا دو اور اپنے گھر والوں کو بھی، سو ان کے جن کی نسبت ان میں سے (ہلاک ہونے کا) حکم پہلے صادر ہوچکا ہے۔ اور ظالموں کے بارے میں ہم سے کچھ نہ کہنا، وہ ضرور ڈبو دیئے جائیں گے
+
 [Open on Quran.com](https://quran.com/23/27)
 
 #### 26:200 · [[026 Ash-Shuara]]
@@ -113,6 +121,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Thus have We inserted it [i.e., disbelief] into the hearts of the criminals.
 
 **English (Yusuf Ali):** Thus have We caused it to enter the hearts of the sinners.
+
+**Urdu (Fatah Muhammad Jalandhari):** اسی طرح ہم نے انکار کو گنہگاروں کے دلوں میں داخل کردیا
 
 [Open on Quran.com](https://quran.com/26/200)
 
@@ -130,6 +140,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Move thy hand into thy bosom, and it will come forth white without stain (or harm), and draw thy hand close to thy side (to guard) against fear. Those are the two credentials from thy Lord to Pharaoh and his Chiefs: for truly they are a people rebellious and wicked."
 
+**Urdu (Fatah Muhammad Jalandhari):** اپنا ہاتھ گریبان میں ڈالو تو بغیر کسی عیب کے سفید نکل آئے گا اور خوف دور ہونے (کی وجہ) سے اپنے بازو کو اپنی طرف سیکڑلو۔ یہ دو دلیلیں تمہارے پروردگار کی طرف سے ہیں (ان کے ساتھ) فرعون اور اس کے درباریوں کے پاس جاؤ کہ وہ نافرمان لوگ ہیں
+
 [Open on Quran.com](https://quran.com/28/32)
 
 #### 39:21 · [[039 Az-Zumar]]
@@ -145,6 +157,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do you not see that Allāh sends down rain from the sky and makes it flow as springs [and rivers] in the earth; then He produces thereby crops of varying colors; then they dry and you see them turned yellow; then He makes them [scattered] debris. Indeed in that is a reminder for those of understanding.
 
 **English (Yusuf Ali):** Seest thou not that Allah sends down rain from the sky, and leads it through springs in the earth? Then He causes to grow, therewith, produce of various colours: then it withers; thou wilt see it grow yellow; then He makes it dry up and crumble away. Truly, in this, is a Message of remembrance to men of understanding.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا آسمان سے پانی نازل کرتا پھر اس کو زمین میں چشمے بنا کر جاری کرتا پھر اس سے کھیتی اُگاتا ہے جس کے طرح طرح کے رنگ ہوتے ہیں۔ پھر وہ خشک ہوجاتی ہے تو تم اس کو دیکھتے ہو (کہ) زرد (ہوگئی ہے) پھر اسے چورا چورا کر دیتا ہے۔ بےشک اس میں عقل والوں کے لئے نصیحت ہے
 
 [Open on Quran.com](https://quran.com/39/21)
 
@@ -162,6 +176,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Further, make him march in a chain, whereof the length is seventy cubits!
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر زنجیر سے جس کی ناپ ستر گز ہے جکڑ دو
+
 [Open on Quran.com](https://quran.com/69/32)
 
 #### 71:20 · [[071 Nuh]]
@@ -178,6 +194,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "'That ye may go about therein, in spacious roads.'"
 
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ اس کے بڑے بڑے کشادہ رستوں میں چلو پھرو
+
 [Open on Quran.com](https://quran.com/71/20)
 
 #### 72:17 · [[072 Al-Jinn]]
@@ -193,6 +211,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So We might test them therein. And whoever turns away from the remembrance of his Lord He will put into arduous punishment.
 
 **English (Yusuf Ali):** "That We might try them by that (means). But if any turns away from the remembrance of his Lord, He will cause him to undergo a severe Penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ اس سے ان کی آزمائش کریں۔ اور جو شخص اپنے پروردگار کی یاد سے منہ پھیرے گا وہ اس کو سخت عذاب میں داخل کرے گا
 
 [Open on Quran.com](https://quran.com/72/17)
 

@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:124 · [[003 Ali Imran]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Remember] when you said to the believers, "Is it not sufficient for you that your Lord should reinforce you with three thousand angels sent down?
 
 **English (Yusuf Ali):** Remember thou saidst to the Faithful: "Is it not enough for you that Allah should help you with three thousand angels (Specially) sent down?
+
+**Urdu (Fatah Muhammad Jalandhari):** جب تم مومنوں سے یہ کہہ (کر ان کے دل بڑھا) رہے تھے کہ کیا یہ کافی نہیں کہ پروردگار تین ہزار فرشتے نازل کر کے تمہیں مدد دے
 
 [Open on Quran.com](https://quran.com/3/124)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Yea, - if ye remain firm, and act aright, even if the enemy should rush here on you in hot haste, your Lord would help you with five thousand angels Making a terrific onslaught.
 
+**Urdu (Fatah Muhammad Jalandhari):** ہاں اگر تم دل کو مضبوط رکھو اور (خدا سے) ڈرتے رہو اور کافر تم پر جوش کے ساتھ دفعتہً حملہ کردیں تو پروردگار پانچ ہزار فرشتے جن پر نشان ہوں گے تمہاری مدد کو بھیجے گا
+
 [Open on Quran.com](https://quran.com/3/125)
 
 #### 17:6 · [[017 Al-Isra]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then We gave back to you a return victory over them. And We reinforced you with wealth and sons and made you more numerous in manpower.
 
 **English (Yusuf Ali):** Then did We grant you the Return as against them: We gave you increase in resources and sons, and made you the more numerous in man-power.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے دوسری بات تم کو اُن پر غلبہ دیا اور مال اور بیٹوں سے تمہاری مدد کی۔ اور تم کو جماعت کثیر بنا دیا
 
 [Open on Quran.com](https://quran.com/17/6)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Of the bounties of thy Lord We bestow freely on all- These as well as those: The bounties of thy Lord are not closed (to anyone).
 
+**Urdu (Fatah Muhammad Jalandhari):** ہم اُن کو اور ان کو سب کو تمہارے پروردگار کی بخشش سے مدد دیتے ہیں۔ اور تمہارے پروردگار کی بخشش (کسی سے) رکی ہوئی نہیں
+
 [Open on Quran.com](https://quran.com/17/20)
 
 #### 23:55 · [[023 Al-Muminun]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do they think that what We extend to them of wealth and children
 
 **English (Yusuf Ali):** Do they think that because We have granted them abundance of wealth and sons,
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ خیال کرتے ہیں کہ ہم جو دنیا میں ان کو مال اور بیٹوں سے مدد دیتے ہیں
 
 [Open on Quran.com](https://quran.com/23/55)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Yea, fear Him Who has bestowed on you freely all that ye know.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے جس نے تم کو ان چیزوں سے مدد دی جن کو تم جانتے ہو۔ ڈرو
+
 [Open on Quran.com](https://quran.com/26/132)
 
 #### 26:133 · [[026 Ash-Shuara]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Provided you with grazing livestock and children
 
 **English (Yusuf Ali):** "Freely has He bestowed on you cattle and sons,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اس نے تمہیں چارپایوں اور بیٹوں سے مدد دی
 
 [Open on Quran.com](https://quran.com/26/133)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Now when (the embassy) came to Solomon, he said: "Will ye give me abundance in wealth? But that which Allah has given me is better than that which He has given you! Nay it is ye who rejoice in your gift!
 
+**Urdu (Fatah Muhammad Jalandhari):** جب (قاصد) سلیمان کے پاس پہنچا تو سلیمان نے کہا کیا تم مجھے مال سے مدد دینا چاہتے ہو، جو کچھ خدا نے مجھے عطا فرمایا ہے وہ اس سے بہتر ہے جو تمہیں دیا ہے حقیقت یہ ہے کہ تم ہی اپنے تحفے سے خوش ہوتے ہوگے
+
 [Open on Quran.com](https://quran.com/27/36)
 
 #### 52:22 · [[052 At-Tur]]
@@ -174,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We shall bestow on them, of fruit and meat, anything they shall desire.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جس طرح کے میوے اور گوشت کو ان کا جی چاہے گا ہم ان کو عطا کریں گے
+
 [Open on Quran.com](https://quran.com/52/22)
 
 #### 71:12 · [[071 Nuh]]
@@ -189,6 +207,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And give you increase in wealth and children and provide for you gardens and provide for you rivers.
 
 **English (Yusuf Ali):** "'Give you increase in wealth and sons; and bestow on you gardens and bestow on you rivers (of flowing water).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مال اور بیٹوں سے تمہاری مدد فرمائے گا اور تمہیں باغ عطا کرے گا اور ان میں تمہارے لئے نہریں بہا دے گا
 
 [Open on Quran.com](https://quran.com/71/12)
 

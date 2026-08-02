@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[x$E - khashaa]]
+- [[x$E - humble]]
 
 ### Meaning
 **humbled** · Lemma **خاشِع**
@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:45 · [[002 Al-Baqarah]]
 
@@ -51,6 +51,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And seek help through patience and prayer; and indeed, it is difficult except for the humbly submissive [to Allāh]
 
 **English (Yusuf Ali):** Nay, seek (Allah's) help with patient perseverance and prayer: It is indeed hard, except to those who bring a lowly spirit,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (رنج وتکلیف میں) صبر اور نماز سے مدد لیا کرو اور بے شک نماز گراں ہے، مگر ان لوگوں پر (گراں نہیں) جو عجز کرنے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/45)
 
@@ -68,6 +70,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And there are, certainly, among the People of the Book, those who believe in Allah, in the revelation to you, and in the revelation to them, bowing in humility to Allah: They will not sell the Signs of Allah for a miserable gain! For them is a reward with their Lord, and Allah is swift in account.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض اہلِ کتاب ایسے بھی ہیں جو خدا پر اور اس (کتاب) پر جو تم پر نازل ہوئی اور اس پر جو ان پر نازل ہوئی ایمان رکھتے ہیں اور خدا کے آگے عاجزی کرتے ہیں اور خدا کی آیتوں کے بدلے تھوڑی سی قیمت نہیں لیتے یہی لوگ ہیں جن کا صلہ ان کے پروردگار کے ہاں تیار ہے اور خدا جلد حساب لینے والا ہے
+
 [Open on Quran.com](https://quran.com/3/199)
 
 #### 21:90 · [[021 Al-Anbya]]
@@ -83,6 +87,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate Us in hope and fear, and they were to Us humbly submissive.
 
 **English (Yusuf Ali):** So We listened to him: and We granted him Yahya: We cured his wife's (Barrenness) for him. These (three) were ever quick in emulation in good works; they used to call on Us with love and reverence, and humble themselves before Us.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان کی پکار سن لی۔ اور ان کو یحییٰ بخشے اور ان کی بیوی کو اُن کے (حسن معاشرت کے) قابل بنادیا۔ یہ لوگ لپک لپک کر نیکیاں کرتے اور ہمیں امید سے پکارتے اور ہمارے آگے عاجزی کیا کرتے تھے
 
 [Open on Quran.com](https://quran.com/21/90)
 
@@ -100,6 +106,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who humble themselves in their prayers;
 
+**Urdu (Fatah Muhammad Jalandhari):** جو نماز میں عجزو نیاز کرتے ہیں
+
 [Open on Quran.com](https://quran.com/23/2)
 
 #### 33:35 · [[033 Al-Ahzab]]
@@ -115,6 +123,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the Muslim men and Muslim women, the believing men and believing women, the obedient men and obedient women, the truthful men and truthful women, the patient men and patient women, the humble men and humble women, the charitable men and charitable women, the fasting men and fasting women, the men who guard their private parts and the women who do so, and the men who remember Allāh often and the women who do so - for them Allāh has prepared forgiveness and a great reward.
 
 **English (Yusuf Ali):** For Muslim men and women,- for believing men and women, for devout men and women, for true men and women, for men and women who are patient and constant, for men and women who humble themselves, for men and women who give in Charity, for men and women who fast (and deny themselves), for men and women who guard their chastity, and for men and women who engage much in Allah's praise,- for them has Allah prepared forgiveness and great reward.
+
+**Urdu (Fatah Muhammad Jalandhari):** (جو لوگ خدا کے آگے سر اطاعت خم کرنے والے ہیں یعنی) مسلمان مرد اور مسلمان عورتیں اور مومن مرد اور مومن عورتیں اور فرماں بردار مرد اور فرماں بردار عورتیں اور راست باز مرد اور راست باز عورتیں اور صبر کرنے والے مرد اور صبر کرنے والی عورتیں اور فروتنی کرنے والے مرد اور فروتنی کرنے والی عورتیں اور خیرات کرنے والے مرد اور اور خیرات کرنے والی عورتیں اور روزے رکھنے والے مرد اور روزے رکھنے والی عورتیں اور اپنی شرمگاہوں کی حفاظت کرنے والے مرد اور حفاظت کرنے والی عورتیں اور خدا کو کثرت سے یاد کرنے والے مرد اور کثرت سے یاد کرنے والی عورتیں۔ کچھ شک نہیں کہ ان کے لئے خدا نے بخشش اور اجر عظیم تیار کر رکھا ہے
 
 [Open on Quran.com](https://quran.com/33/35)
 
@@ -132,6 +142,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And among His Signs in this: thou seest the earth barren and desolate; but when We send down rain to it, it is stirred to life and yields increase. Truly, He Who gives life to the (dead) earth can surely give life to (men) who are dead. For He has power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے بندے یہ) اسی کی قدرت کے نمونے ہیں کہ تو زمین کو دبی ہوئی (یعنی خشک) دیکھتا ہے۔ جب ہم اس پر پانی برسا دیتے ہیں تو شاداب ہوجاتی اور پھولنے لگتی ہے تو جس نے زمین کو زندہ کیا وہی مردوں کو زندہ کرنے والا ہے۔ بےشک وہ ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/41/39)
 
 #### 42:45 · [[042 Ash-Shuraa]]
@@ -147,6 +159,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And you will see them being exposed to it [i.e., the Fire], humbled from humiliation, looking from [behind] a covert glance. And those who had believed will say, "Indeed, the [true] losers are the ones who lost themselves and their families on the Day of Resurrection. Unquestionably, the wrongdoers are in an enduring punishment."
 
 **English (Yusuf Ali):** And thou wilt see them brought forward to the (Penalty), in a humble frame of mind because of (their) disgrace, (and) looking with a stealthy glance. And the Believers will say: "Those are indeed in loss, who have given to perdition their own selves and those belonging to them on the Day of Judgment. Behold! Truly the Wrong-doers are in a lasting Penalty!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم ان کو دیکھو گے کہ دوزخ کے سامنے لائے جائیں گے ذلت سے عاجزی کرتے ہوئے چھپی (اور نیچی) نگاہ سے دیکھ رہے ہوں گے۔ اور مومن لوگ کہیں کے کہ خسارہ اٹھانے والے تو وہ ہیں جنہوں نے قیامت کے دن اپنے آپ کو اور اپنے گھر والوں کو خسارے میں ڈالا۔ دیکھو کہ بےانصاف لوگ ہمیشہ کے دکھ میں (پڑے) رہیں گے
 
 [Open on Quran.com](https://quran.com/42/45)
 
@@ -164,6 +178,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They will come forth,- their eyes humbled - from (their) graves, (torpid) like locusts scattered abroad,
 
+**Urdu (Fatah Muhammad Jalandhari):** تو آنکھیں نیچی کئے ہوئے قبروں سے نکل پڑیں گے گویا بکھری ہوئی ٹڈیاں
+
 [Open on Quran.com](https://quran.com/54/7)
 
 #### 59:21 · [[059 Al-Hashr]]
@@ -180,6 +196,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Had We sent down this Qur'an on a mountain, verily, thou wouldst have seen it humble itself and cleave asunder for fear of Allah. Such are the similitudes which We propound to men, that they may reflect.
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر ہم یہ قرآن کسی پہاڑ پر نازل کرتے تو تم اس کو دیکھتے کہ خدا کے خوف سے دبا اور پھٹا جاتا ہے۔ اور یہ باتیں ہم لوگوں کے لئے بیان کرتے ہیں تاکہ وہ فکر کریں
+
 [Open on Quran.com](https://quran.com/59/21)
 
 #### 68:43 · [[068 Al-Qalam]]
@@ -195,6 +213,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Their eyes humbled, humiliation will cover them. And they used to be invited to prostration while they were sound.
 
 **English (Yusuf Ali):** Their eyes will be cast down,- ignominy will cover them; seeing that they had been summoned aforetime to bow in adoration, while they were whole, (and had refused).
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کی آنکھیں جھکی ہوئی ہوں گی اور ان پر ذلت چھا رہی ہوگی حالانکہ پہلے (اُس وقت) سجدے کے لئے بلاتے جاتے تھے جب کہ صحیح وسالم تھے
 
 [Open on Quran.com](https://quran.com/68/43)
 

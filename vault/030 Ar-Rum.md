@@ -14,72 +14,72 @@ The Romans · 60 ayahs
 
 ## Words in this surah (graph)
 
-- [[sAr - travel]] — `سارَ` · travel
-- [[>vAr - plough]] — `أَثارُ` · plough
-- [[qym - right]] — `قِيَم` · right
-- [[mnyb - turning]] — `مُنِيب` · turning
 - [[bd> - originates]] — `بَدَأَ` · originates
+- [[mnyb - turning]] — `مُنِيب` · turning
 - [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
+- [[qym - right]] — `قِيَم` · right
 - [[bsT - extends]] — `بَسَطَ` · extends
-- [[qrbY - relatives]] — `قُرْبَى` · relatives
+- [[>vAr - plough]] — `أَثارُ` · plough
+- [[sAr - travel]] — `سارَ` · travel
+- [[wlY - so turn]] — `وَلَّى` · so turn
+- [[>EmY - blind]] — `أَعْمَى` · blind
+- [[HyAp - life]] — `حَياة` · life
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[mHDr - will brought]] — `مُحْضَر` · will brought
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[Zlm - wronged]] — `ظَلَمَ` · wronged
-- [[rbt - it swells]] — `رَبَتْ` · it swells
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[lyl - night]] — `لَيْل` · night
+- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
+- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[ryH - wind]] — `رِيح` · wind
+- [[>rD - earth]] — `أَرْض` · earth
 - [[wjh - faces]] — `وَجْه` · faces
-- [[qwp - strength]] — `قُوَّة` · strength
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[Hyn - time]] — `حِين` · time
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[yd - hands]] — `يَد` · hands
-- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
-- [[hAd - guide]] — `هاد` · guide
+- [[mdbr - fleeing]] — `مُدْبِر` · fleeing
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[xwf - fear]] — `خَوْف` · fear
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[dnyA - world]] — `دُنْيا` · world
 
 ## Roots
 
 - [[$dd - severe]]
 - [[$fE - make something pair]]
-- [[$kr - shkr]]
+- [[$kr - gratitude]]
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
-- [[$yE - shye]]
-- [[$yb - shyb]]
-- [[*wq - dhwq]]
-- [[>fk - afk]]
+- [[$yE - follow cause follow]]
+- [[$yb - white]]
+- [[*wq - taste]]
+- [[>fk - turn something away]]
 - [[>jl - term]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vr - athr]]
-- [[>xr - akhr]]
+- [[>vr - trace]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[Drb - tent]]
+- [[Drb - strike beat]]
 - [[Drr - adversity]]
-- [[E$w - eshw]]
-- [[E*b - edhb]]
+- [[E$w - eating evening meal]]
+- [[E*b - motes particles floating]]
 - [[E*r - excuse free blame]]
 - [[Ebd - worship]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emr - life]]
 - [[Emy - blindness]]
 - [[End - near]]
 - [[Eqb - heel human foot]]
-- [[Eql - eql]]
-- [[Etb - etb]]
-- [[Ewd - ewd]]
+- [[Eql - withhold restrain]]
+- [[Etb - angry someone]]
+- [[Ewd - aad]]
 - [[Ezz - all-mighty]]
-- [[HDr - hdr]]
+- [[HDr - present]]
 - [[Hbb - love]]
 - [[Hbr - name]]
 - [[Hkm - prevent restrain someone]]
@@ -89,9 +89,9 @@ The Romans · 60 ayahs
 - [[Hyn - period time]]
 - [[Hyy - life]]
 - [[Hzb - set portion quran]]
-- [[SbH - sbh]]
+- [[SbH - morning]]
 - [[Sbr - confine restrain]]
-- [[SdE - sde]]
+- [[SdE - cleave]]
 
 ## Sample (ayah 1)
 

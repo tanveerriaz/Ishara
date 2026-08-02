@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[hz> - hza]]
+- [[hz> - mock]]
 
 ### Meaning
 **mock** · Lemma **اسْتُهْزِئَ**
@@ -40,7 +40,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:15 · [[002 Al-Baqarah]]
 
@@ -55,6 +55,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [But] Allāh mocks them and prolongs them in their transgression [while] they wander blindly.
 
 **English (Yusuf Ali):** Allah will throw back their mockery on them, and give them rope in their trespasses; so they will wander like blind ones (To and fro).
+
+**Urdu (Fatah Muhammad Jalandhari):** ان (منافقوں) سے خدا ہنسی کرتا ہے اور انہیں مہلت دیئے جاتا ہے کہ شرارت وسرکشی میں پڑے بہک رہے ہیں
 
 [Open on Quran.com](https://quran.com/2/15)
 
@@ -72,6 +74,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Already has He sent you Word in the Book, that when ye hear the signs of Allah held in defiance and ridicule, ye are not to sit with them unless they turn to a different theme: if ye did, ye would be like them. For Allah will collect the hypocrites and those who defy faith - all in Hell:-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے تم (مومنوں) پر اپنی کتاب میں (یہ حکم) نازل فرمایا ہے کہ جب تم (کہیں) سنو کہ خدا کی آیتوں سے انکار ہورہا ہے اور ان کی ہنسی اڑائی جاتی ہے تو جب تک وہ لوگ اور باتیں (نہ) کرنے لگیں۔ ان کے پاس مت بیٹھو۔ ورنہ تم بھی انہیں جیسے ہوجاؤ گے۔ کچھ شک نہیں کہ خدا منافقوں اور کافروں سب کو دوزخ میں اکھٹا کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/4/140)
 
 #### 6:5 · [[006 Al-Anam]]
@@ -87,6 +91,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For they had denied the truth when it came to them, but there is going to reach them the news of what they used to ridicule.
 
 **English (Yusuf Ali):** And now they reject the truth when it reaches them: but soon shall they learn the reality of what they used to mock at.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب ان کے پاس حق آیا تو اس کو بھی جھٹلا دیا سو ان کو ان چیزوں کا جن سے یہ استہزا کرتے ہیں عنقریب انجام معلوم ہو جائے گا
 
 [Open on Quran.com](https://quran.com/6/5)
 
@@ -104,6 +110,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Mocked were (many) messengers before thee; but their scoffers were hemmed in by the thing that they mocked.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے پہلے بھی پیغمبروں کے ساتھ تمسخر ہوتے رہے ہیں سو جو لوگ ان میں سے تمسخر کیا کرتے تھے ان کو تمسخر کی سزا نے آگھیرا
+
 [Open on Quran.com](https://quran.com/6/10)
 
 #### 9:64 · [[009 At-Tawbah]]
@@ -119,6 +127,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The hypocrites are apprehensive lest a sūrah be revealed about them, informing them of what is in their hearts. Say, "Mock [as you wish]; indeed, Allāh will expose that which you fear."
 
 **English (Yusuf Ali):** The Hypocrites are afraid lest a Sura should be sent down about them, showing them what is (really passing) in their hearts. Say: "Mock ye! But verily Allah will bring to light all that ye fear (should be revealed).
+
+**Urdu (Fatah Muhammad Jalandhari):** منافق ڈرتے رہتے ہیں کہ ان (کے پیغمبر) پر کہیں کوئی ایسی سورت (نہ) اُتر آئے کہ ان کے دل کی باتوں کو ان (مسلمانوں) پر ظاہر کر دے۔ کہہ دو کہ ہنسی کئے جاؤ۔ جس بات سے تم ڈرتے ہو خدا اس کو ضرور ظاہر کردے گا
 
 [Open on Quran.com](https://quran.com/9/64)
 
@@ -136,6 +146,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If thou dost question them, they declare (with emphasis): "We were only talking idly and in play." Say: "Was it at Allah, and His Signs, and His Messenger, that ye were mocking?"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم ان سے (اس بارے میں) دریافت کرو تو کہیں گے ہم تو یوں ہی بات چیت اور دل لگی کرتے تھے۔ کہو کیا تم خدا اور اس کی آیتوں اور اس کے رسول سے ہنسی کرتے تھے
+
 [Open on Quran.com](https://quran.com/9/65)
 
 #### 11:8 · [[011 Hud]]
@@ -151,6 +163,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if We hold back from them the punishment for a limited time, they will surely say, "What detains it?" Unquestionably, on the Day it comes to them, it will not be averted from them, and they will be enveloped by what they used to ridicule.
 
 **English (Yusuf Ali):** If We delay the penalty for them for a definite term, they are sure to say, "What keeps it back?" Ah! On the day it (actually) reaches them, nothing will turn it away from them, and they will be completely encircled by that which they used to mock at!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ایک مدت معین تک ہم ان سے عذاب روک دیں تو کہیں گے کہ کون سی چیز عذاب روکے ہوئے ہے۔ دیکھو جس روز وہ ان پر واقع ہوگا (پھر) ٹلنے کا نہیں اور جس چیز کے ساتھ یہ استہزاء کیا کرتے ہیں وہ ان کو گھیر لے گی
 
 [Open on Quran.com](https://quran.com/11/8)
 
@@ -168,6 +182,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Mocked were (many) messengers before thee: but I granted respite to the unbelievers, and finally I punished them: Then how (terrible) was my requital!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے پہلے بھی رسولوں کے ساتھ تمسخر ہوتے رہے ہیں تو ہم نے کافروں کو مہلت دی پھر پکڑ لیا۔ سو (دیکھ لو کہ) ہمارا عذاب کیسا تھا
+
 [Open on Quran.com](https://quran.com/13/32)
 
 #### 15:11 · [[015 Al-Hijr]]
@@ -184,6 +200,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But never came a messenger to them but they mocked him.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اُن کے پاس کوئی پیغمبر نہیں آتا تھا مگر وہ اُس کے ساتھ استہزاء کرتے تھے
+
 [Open on Quran.com](https://quran.com/15/11)
 
 #### 16:34 · [[016 An-Nahl]]
@@ -199,6 +217,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So they were struck by the evil consequences of what they did and were enveloped by what they used to ridicule.
 
 **English (Yusuf Ali):** But the evil results of their deeds overtook them, and that very (Wrath) at which they had scoffed hemmed them in.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کو ان کے اعمال کے برے بدلے ملے اور جس چیز کے ساتھ وہ ٹھٹھے کیا کرتے تھے اس نے ان کو (ہر طرف سے) گھیر لیا
 
 [Open on Quran.com](https://quran.com/16/34)
 

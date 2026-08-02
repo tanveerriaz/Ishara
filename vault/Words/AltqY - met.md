@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:13 · [[003 Ali Imran]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Already there has been for you a sign in the two armies which met [in combat at Badr] - one fighting in the cause of Allāh and another of disbelievers. They saw them [to be] twice their [own] number by [their] eyesight. But Allāh supports with His victory whom He wills. Indeed in that is a lesson for those of vision.
 
 **English (Yusuf Ali):** "There has already been for you a Sign in the two armies that met (in combat): One was fighting in the cause of Allah, the other resisting Allah; these saw with their own eyes Twice their number. But Allah doth support with His aid whom He pleaseth. In this is a warning for such as have eyes to see."
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہارے لیے دو گروہوں میں جو (جنگ بدر کے دن) آپس میں بھڑ گئے (قدرت خدا کی عظیم الشان) نشانی تھی ایک گروہ (مسلمانوں کا تھا وہ) خدا کی راہ میں لڑ رہا تھا اور دوسرا گروہ (کافروں کا تھا وہ) ان کو اپنی آنکھوں سے اپنے سے دگنا مشاہدہ کر رہا تھا اور خدا اپنی نصرت سے جس کو چاہتا ہے مدد دیتا ہے جو اہل بصارت ہیں ان کے لیے اس (واقعے) میں بڑی عبرت ہے
 
 [Open on Quran.com](https://quran.com/3/13)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those of you who turned back on the day the two hosts Met,-it was Satan who caused them to fail, because of some (evil) they had done. But Allah Has blotted out (their fault): For Allah is Oft-Forgiving, Most Forbearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ تم میں سے (اُحد کے دن) جبکہ (مومنوں اور کافروں کی) دو جماعتیں ایک دوسرے سے گتھ گئیں (جنگ سے) بھاگ گئے تو ان کے بعض افعال کے سبب شیطان نے ان کو پھسلا دیا مگر خدا نے ان کا قصور معاف کر دیا بےشک خدا بخشنے والا اور بردبار ہے
+
 [Open on Quran.com](https://quran.com/3/155)
 
 #### 3:166 · [[003 Ali Imran]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And what struck you on the day the two armies met [at Uḥud] was by permission of Allāh that He might make evident the [true] believers
 
 **English (Yusuf Ali):** What ye suffered on the day the two armies Met, was with the leave of Allah, in order that He might test the believers,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو مصیبت تم پر دونوں جماعتوں کے مقابلے کے دن واقع ہوئی سو خدا کے حکم سے (واقع ہوئی) اور (اس سے) یہ مقصود تھا کہ خدا مومنوں کو اچھی طرح معلوم
 
 [Open on Quran.com](https://quran.com/3/166)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And know that out of all the booty that ye may acquire (in war), a fifth share is assigned to Allah,- and to the Messenger, and to near relatives, orphans, the needy, and the wayfarer,- if ye do believe in Allah and in the revelation We sent down to Our servant on the Day of Testing,- the Day of the meeting of the two forces. For Allah hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جان رکھو کہ جو چیز تم (کفار سے) لوٹ کر لاؤ اس میں سے پانچواں حصہ خدا کا اور اس کے رسول کا اور اہل قرابت کا اور یتیموں کا اور محتاجوں کا اور مسافروں کا ہے۔ اگر تم خدا پر اور اس (نصرت) پر ایمان رکھتے ہو جو (حق وباطل میں) فرق کرنے کے دن (یعنی جنگ بدر میں) جس دن دونوں فوجوں میں مڈھ بھیڑ ہوگئی۔ اپنے بندے (محمدﷺ) پر نازل فرمائی۔ اور خدا ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/8/41)
 
 #### 8:44 · [[008 Al-Anfal]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [remember] when He showed them to you, when you met, as few in your eyes, and He made you [appear] as few in their eyes so that Allāh might accomplish a matter already destined. And to Allāh are [all] matters returned.
 
 **English (Yusuf Ali):** And remember when ye met, He showed them to you as few in your eyes, and He made you appear as contemptible in their eyes: that Allah might accomplish a matter already enacted. For to Allah do all questions go back (for decision).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس وقت جب تم ایک دوسرے کے مقابل ہوئے تو کافروں کو تمہاری نظروں میں تھوڑا کر کے دکھاتا تھا اور تم کو ان کی نگاہوں میں تھوڑا کر کے دکھاتا تھا تاکہ خدا کو جو کام منظور کرنا تھا اسے کر ڈالے۔ اور سب کاموں کا رجوع خدا کی طرف ہے
 
 [Open on Quran.com](https://quran.com/8/44)
 
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We caused the earth to gush forth with springs, so the waters met (and rose) to the extent decreed.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور زمین میں چشمے جاری کردیئے تو پانی ایک کام کے لئے جو مقدر ہوچکا تھا جمع ہوگیا
+
 [Open on Quran.com](https://quran.com/54/12)
 
 #### 55:19 · [[055 Ar-Rahman]]
@@ -138,6 +150,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He released the two seas, meeting [one another];
 
 **English (Yusuf Ali):** He has let free the two bodies of flowing water, meeting together:
+
+**Urdu (Fatah Muhammad Jalandhari):** اسی نے دو دریا رواں کئے جو آپس میں ملتے ہیں
 
 [Open on Quran.com](https://quran.com/55/19)
 

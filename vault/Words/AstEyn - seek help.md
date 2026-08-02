@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 1:5 · [[001 Al-Fatihah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is You we worship and You we ask for help.
 
 **English (Yusuf Ali):** Thee do we worship, and Thine aid we seek.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پروردگار) ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد مانگتے ہیں
 
 [Open on Quran.com](https://quran.com/1/5)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nay, seek (Allah's) help with patient perseverance and prayer: It is indeed hard, except to those who bring a lowly spirit,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (رنج وتکلیف میں) صبر اور نماز سے مدد لیا کرو اور بے شک نماز گراں ہے، مگر ان لوگوں پر (گراں نہیں) جو عجز کرنے والے ہیں
+
 [Open on Quran.com](https://quran.com/2/45)
 
 #### 2:153 · [[002 Al-Baqarah]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! seek help with patient perseverance and prayer; for Allah is with those who patiently persevere.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو صبر اور نماز سے مدد لیا کرو بےشک خدا صبر کرنے والوں کے ساتھ ہے
+
 [Open on Quran.com](https://quran.com/2/153)
 
 #### 7:128 · [[007 Al-Araf]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Said Moses to his people, "Seek help through Allāh and be patient. Indeed, the earth belongs to Allāh. He causes to inherit it whom He wills of His servants. And the [best] outcome is for the righteous."
 
 **English (Yusuf Ali):** Said Moses to his people: "Pray for help from Allah, and (wait) in patience and constancy: for the earth is Allah's, to give as a heritage to such of His servants as He pleaseth; and the end is (best) for the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے اپنی قوم سے کہا کہ خدا سے مدد مانگو اور ثابت قدم رہو۔ زمین تو خدا کی ہے۔ وہ اپنے بندوں میں سے جسے چاہتا ہے اس کا مالک بناتا ہے۔ اور آخر بھلا تو ڈرنے والوں کا ہے
 
 [Open on Quran.com](https://quran.com/7/128)
 

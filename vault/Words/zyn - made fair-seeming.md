@@ -43,7 +43,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:212 · [[002 Al-Baqarah]]
 
@@ -58,6 +58,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Beautified for those who disbelieve is the life of this world, and they ridicule those who believe. But those who fear Allāh are above them on the Day of Resurrection. And Allāh gives provision to whom He wills without account.
 
 **English (Yusuf Ali):** The life of this world is alluring to those who reject faith, and they scoff at those who believe. But the righteous will be above them on the Day of Resurrection; for Allah bestows His abundance without measure on whom He will.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کافر ہیں ان کے لئے دنیا کی زندگی خوشنما کر دی گئی ہے اور وہ مومنوں سے تمسخر کرتے ہیں لیکن جو پرہیز گار ہیں وہ قیامت کے دن ان پر غالب ہوں گے اور خدا جس کو چاہتا ہے بےشمار رزق دیتا ہے
 
 [Open on Quran.com](https://quran.com/2/212)
 
@@ -75,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Fair in the eyes of men is the love of things they covet: Women and sons; Heaped-up hoards of gold and silver; horses branded (for blood and excellence); and (wealth of) cattle and well-tilled land. Such are the possessions of this world's life; but in nearness to Allah is the best of the goals (To return to).
 
+**Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
+
 [Open on Quran.com](https://quran.com/3/14)
 
 #### 6:43 · [[006 Al-Anam]]
@@ -90,6 +94,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then why, when Our punishment came to them, did they not humble themselves? But their hearts became hardened, and Satan made attractive to them that which they were doing.
 
 **English (Yusuf Ali):** When the suffering reached them from us, why then did they not learn humility? On the contrary their hearts became hardened, and Satan made their (sinful) acts seem alluring to them.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جب ان پر ہمارا عذاب آتا رہا کیوں نہیں عاجزی کرتے رہے۔ مگر ان کے تو دل ہی سخت ہوگئے تھے۔ اور جو وہ کام کرتے تھے شیطان ان کو (ان کی نظروں میں) آراستہ کر دکھاتا تھا
 
 [Open on Quran.com](https://quran.com/6/43)
 
@@ -107,6 +113,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Revile not ye those whom they call upon besides Allah, lest they out of spite revile Allah in their ignorance. Thus have We made alluring to each people its own doings. In the end will they return to their Lord, and We shall then tell them the truth of all that they did.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں کو یہ مشرک خدا کے سوا پکارتے ہیں ان کو برا نہ کہنا کہ یہ بھی کہیں خدا کو بےادبی سے بے سمجھے برا (نہ) کہہ بیٹھیں۔ اس طرح ہم نے ہر ایک فرقے کے اعمال (ان کی نظروں میں) اچھے کر دکھائے ہیں۔ پھر ان کو اپنے پروردگار ک طرف لوٹ کر جانا ہے تب وہ ان کو بتائے گا کہ وہ کیا کیا کرتے تھے
+
 [Open on Quran.com](https://quran.com/6/108)
 
 #### 6:122 · [[006 Al-Anam]]
@@ -122,6 +130,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And is one who was dead and We gave him life and made for him light by which to walk among the people like one who is in darkness, never to emerge therefrom? Thus it has been made pleasing to the disbelievers that which they were doing.
 
 **English (Yusuf Ali):** Can he who was dead, to whom We gave life, and a light whereby he can walk amongst men, be like him who is in the depths of darkness, from which he can never come out? Thus to those without faith their own deeds seem pleasing.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جو پہلے مردہ تھا پھر ہم نے اس کو زندہ کیا اور اس کے لیے روشنی کر دی جس کے ذریعے سے وہ لوگوں میں چلتا پھرتا ہے کہیں اس شخص جیسا ہو سکتا ہے جو اندھیرے میں پڑا ہوا ہو اور اس سے نکل ہی نہ سکے اسی طرح کافر جو عمل کر رہے ہیں وہ انہیں اچھے معلوم ہوتے ہیں
 
 [Open on Quran.com](https://quran.com/6/122)
 
@@ -139,6 +149,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Even so, in the eyes of most of the pagans, their "partners" made alluring the slaughter of their children, in order to lead them to their own destruction, and cause confusion in their religion. If Allah had willed, they would not have done so: But leave alone them and their inventions.
 
+**Urdu (Fatah Muhammad Jalandhari):** اسی طرح بہت سے مشرکوں کو ان کے شریکوں نے ان کے بچوں کو جان سے مار ڈالنا اچھا کر دکھایا ہے تاکہ انہیں ہلاکت میں ڈال دیں اور ان کے دین کو ان پر خلط ملط کر دیں اور اگر خدا چاہتا تو وہ ایسا نہ کرتے تو ان کو چھوڑ دو کہ وہ جانیں اور ان کا جھوٹ
+
 [Open on Quran.com](https://quran.com/6/137)
 
 #### 8:48 · [[008 Al-Anfal]]
@@ -154,6 +166,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [remember] when Satan made their deeds pleasing to them and said, "No one can overcome you today from among the people, and indeed, I am your protector." But when the two armies sighted each other, he turned on his heels and said, "Indeed, I am disassociated from you. Indeed, I see what you do not see; indeed, I fear Allāh. And Allāh is severe in penalty."
 
 **English (Yusuf Ali):** Remember Satan made their (sinful) acts seem alluring to them, and said: "No one among men can overcome you this day, while I am near to you": But when the two forces came in sight of each other, he turned on his heels, and said: "Lo! I am clear of you; lo! I see what ye see not; Lo! I fear Allah: for Allah is strict in punishment."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب شیطانوں نے ان کے اعمال ان کو آراستہ کر کے دکھائے اور کہا کہ آج کے دن لوگوں میں کوئی تم پر غالب نہ ہوگا اور میں تمہارا رفیق ہوں (لیکن) جب دونوں فوجیں ایک دوسرے کے مقابل صف آراء ہوئیں تو پسپا ہو کر چل دیا اور کہنے لگا کہ مجھے تم سے کوئی واسطہ نہیں۔ میں تو ایسی چیزیں دیکھ رہا ہوں جو تم نہیں دیکھ سکتے۔ مجھے تو خدا سے ڈر لگتا ہے۔ اور خدا سخت عذاب کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/8/48)
 
@@ -171,6 +185,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily the transposing (of a prohibited month) is an addition to Unbelief: the Unbelievers are led to wrong thereby: for they make it lawful one year, and forbidden another year, in order to adjust the number of months forbidden by Allah and make such forbidden ones lawful. The evil of their course seems pleasing to them. But Allah guideth not those who reject Faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** امن کے کس مہینے کو ہٹا کر آگے پیچھے کر دینا کفر میں اضافہ کرتا ہے اس سے کافر گمراہی میں پڑے رہتے ہیں۔ ایک سال تو اس کو حلال سمجھ لیتے ہیں اور دوسرے سال حرام۔ تاکہ ادب کے مہینوں کو جو خدا نے مقرر کئے ہیں گنتی پوری کر لیں۔ اور جو خدا نے منع کیا ہے اس کو جائز کر لیں۔ ان کے برے اعمال ان کے بھلے دکھائی دیتے ہیں۔ اور خدا کافر لوگوں کو ہدایت نہیں دیا کرتا
+
 [Open on Quran.com](https://quran.com/9/37)
 
 #### 10:12 · [[010 Yunus]]
@@ -187,6 +203,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When trouble toucheth a man, He crieth unto Us (in all postures)- lying down on his side, or sitting, or standing. But when We have solved his trouble, he passeth on his way as if he had never cried to Us for a trouble that touched him! thus do the deeds of transgressors seem fair in their eyes!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب انسان کو تکلیف پہنچتی ہے تو لیٹا اور بیٹھا اور کھڑا (ہر حال میں) ہمیں پکارتا ہے۔ پھر جب ہم اس تکلیف کو اس سے دور کر دیتے ہیں تو (بےلحاظ ہو جاتا ہے اور) اس طرح گزر جاتا ہے گویا کسی تکلیف پہنچنے پر ہمیں کبھی پکارا ہی نہ تھا۔ اسی طرح حد سے نکل جانے والوں کو ان کے اعمال آراستہ کرکے دکھائے گئے ہیں
+
 [Open on Quran.com](https://quran.com/10/12)
 
 #### 13:33 · [[013 Ar-Rad]]
@@ -202,6 +220,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then is He who is a maintainer of every soul, [knowing] what it has earned, [like any other]? But to Allāh they have attributed partners. Say, "Name them. Or do you inform Him of that which He knows not upon the earth or of what is apparent [i.e., alleged] of speech?" Rather, their [own] plan has been made attractive to those who disbelieve, and they have been averted from the way. And whomever Allāh sends astray - there will be for him no guide.
 
 **English (Yusuf Ali):** Is then He who standeth over every soul (and knoweth) all that it doth, (like any others)? And yet they ascribe partners to Allah. Say: "But name them! is it that ye will inform Him of something he knoweth not on earth, or is it (just) a show of words?" Nay! to those who believe not, their pretence seems pleasing, but they are kept back (thereby) from the path. And those whom Allah leaves to stray, no one can guide.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو کیا جو (خدا) ہر متنفس کے اعمال کا نگراں (ونگہباں) ہے (وہ بتوں کی طرح بےعلم وبےخبر ہوسکتا ہے) اور ان لوگوں نے خدا کے شریک مقرر کر رکھے ہیں۔ ان سے کہو کہ (ذرا) ان کے نام تو لو۔ کیا تم اسے ایسی چیزیں بتاتے ہو جس کو وہ زمین میں (کہیں بھی) معلوم نہیں کرتا یا (محض) ظاہری (باطل اور جھوٹی) بات کی (تقلید کرتے ہو) اصل یہ ہے کہ کافروں کو ان کے فریب خوبصورت معلوم ہوتے ہیں۔ اور وہ (ہدایت کے) رستے سے روک لیے گئے ہیں۔ اور جسے خدا گمراہ کرے اسے کوئی ہدایت کرنے والا نہیں
 
 [Open on Quran.com](https://quran.com/13/33)
 

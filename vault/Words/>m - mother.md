@@ -45,7 +45,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:7 · [[003 Ali Imran]]
 
@@ -60,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is He who has sent down to you, [O Muḥammad], the Book; in it are verses [that are] precise - they are the foundation of the Book - and others unspecific. As for those in whose hearts is deviation [from truth], they will follow that of it which is unspecific, seeking discord and seeking an interpretation [suitable to them]. And no one knows its [true] interpretation except Allāh. But those firm in knowledge say, "We believe in it. All [of it] is from our Lord." And no one will be reminded except those of understanding.
 
 **English (Yusuf Ali):** He it is Who has sent down to thee the Book: In it are verses basic or fundamental (of established meaning); they are the foundation of the Book: others are allegorical. But those in whose hearts is perversity follow the part thereof that is allegorical, seeking discord, and searching for its hidden meanings, but no one knows its hidden meanings except Allah. And those who are firmly grounded in knowledge say: "We believe in the Book; the whole of it is from our Lord:" and none will grasp the Message except men of understanding.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم پر کتاب نازل کی جس کی بعض آیتیں محکم ہیں (اور) وہی اصل کتاب ہیں اور بعض متشابہ ہیں تو جن لوگوں کے دلوں میں کجی ہے وہ متشابہات کا اتباع کرتے ہیں تاکہ فتنہ برپا کریں اور مراد اصلی کا پتہ لگائیں حالانکہ مراد اصلی خدا کے سوا کوئی نہیں جانتا اور جو لوگ علم میں دست گاہ کامل رکھتے ہیں وہ یہ کہتے ہیں کہ ہم ان پر ایمان لائے یہ سب ہمارے پروردگار کی طرف سے ہیں اور نصیحت تو عقل مند ہی قبول کرتے ہیں
 
 [Open on Quran.com](https://quran.com/3/7)
 
@@ -77,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah (thus) directs you as regards your Children's (Inheritance): to the male, a portion equal to that of two females: if only daughters, two or more, their share is two-thirds of the inheritance; if only one, her share is a half. For parents, a sixth share of the inheritance to each, if the deceased left children; if no children, and the parents are the (only) heirs, the mother has a third; if the deceased Left brothers (or sisters) the mother has a sixth. (The distribution in all cases ('s) after the payment of legacies and debts. Ye know not whether your parents or your children are nearest to you in benefit. These are settled portions ordained by Allah; and Allah is All-knowing, Al-wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری اولاد کے بارے میں تم کو ارشاد فرماتا ہے کہ ایک لڑکے کا حصہ دو لڑکیوں کے حصے کے برابر ہے۔ اور اگر اولاد میت صرف لڑکیاں ہی ہوں (یعنی دو یا) دو سے زیادہ تو کل ترکے میں ان کادو تہائی۔ اور اگر صرف ایک لڑکی ہو تو اس کا حصہ نصف۔ اور میت کے ماں باپ کا یعنی دونوں میں سے ہر ایک کا ترکے میں چھٹا حصہ بشرطیکہ میت کے اولاد ہو۔ اور اگر اولاد نہ ہو اور صرف ماں باپ ہی اس کے وارث ہوں تو ایک تہائی ماں کا حصہ۔ اور اگر میت کے بھائی بھی ہوں تو ماں کا چھٹا حصہ۔ (اور یہ تقسیم ترکہ میت کی) وصیت (کی تعمیل) کے بعد جو اس نے کی ہو یا قرض کے (ادا ہونے کے بعد جو اس کے ذمے ہو عمل میں آئے گی) تم کو معلوم نہیں کہ تمہارے باپ دادؤں اور بیٹوں پوتوں میں سے فائدے کے لحاظ سے کون تم سے زیادہ قریب ہے، یہ حصے خدا کے مقرر کئے ہوئے ہیں اور خدا سب کچھ جاننے والا اور حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/4/11)
 
 #### 4:23 · [[004 An-Nisa]]
@@ -92,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Prohibited to you [for marriage] are your mothers, your daughters, your sisters, your father's sisters, your mother's sisters, your brother's daughters, your sister's daughters, your [milk] mothers who nursed you, your sisters through nursing, your wives' mothers, and your step-daughters under your guardianship [born] of your wives unto whom you have gone in. But if you have not gone in unto them, there is no sin upon you. And [also prohibited are] the wives of your sons who are from your [own] loins, and that you take [in marriage] two sisters simultaneously, except for what has already occurred. Indeed, Allāh is ever Forgiving and Merciful.
 
 **English (Yusuf Ali):** Prohibited to you (For marriage) are:- Your mothers, daughters, sisters; father's sisters, Mother's sisters; brother's daughters, sister's daughters; foster-mothers (Who gave you suck), foster-sisters; your wives' mothers; your step-daughters under your guardianship, born of your wives to whom ye have gone in,- no prohibition if ye have not gone in;- (Those who have been) wives of your sons proceeding from your loins; and two sisters in wedlock at one and the same time, except for what is past; for Allah is Oft-forgiving, Most Merciful;-
+
+**Urdu (Fatah Muhammad Jalandhari):** تم پر تمہاری مائیں اور بیٹیاں اور بہنیں اور پھوپھیاں اور خالائیں اور بھتیجیاں اور بھانجیاں اور وہ مائیں جنہوں نے تم کو دودھ پلایا ہو اور رضاعی بہنیں اور ساسیں حرام کر دی گئی ہیں اور جن عورتوں سے تم مباشرت کر چکے ہو ان کی لڑکیاں جنہیں تم پرورش کرتے (ہو وہ بھی تم پر حرام ہیں) ہاں اگر ان کے ساتھ تم نے مباشرت نہ کی ہو تو (ان کی لڑکیوں کے ساتھ نکاح کر لینے میں) تم پر کچھ گناہ نہیں اور تمہارے صلبی بیٹوں کی عورتیں بھی اور دو بہنوں کا اکٹھا کرنا بھی (حرام ہے) مگر جو ہو چکا (سو ہو چکا) بے شک خدا بخشنے والا (اور) رحم کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/4/23)
 
@@ -109,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In blasphemy indeed are those that say that Allah is Christ the son of Mary. Say: "Who then hath the least power against Allah, if His will were to destroy Christ the son of Mary, his mother, and all every - one that is on the earth? For to Allah belongeth the dominion of the heavens and the earth, and all that is between. He createth what He pleaseth. For Allah hath power over all things."
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اس بات کے قائل ہیں کہ عیسیٰ بن مریم خدا ہیں وہ بےشک کافر ہیں (ان سے) کہہ دو کہ اگر خدا عیسیٰ بن مریم کو اور ان کی والدہ کو اور جتنے لوگ زمین میں ہیں سب کو ہلاک کرنا چاہے تو اس کے آگے کس کی پیش چل سکتی ہے؟ اور آسمان اور زمین اور جو کچھ ان دونوں میں ہے سب پر خدا ہی کی بادشاہی ہے وہ جو چاہتا ہے پیدا کرتا ہے اور خدا ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/5/17)
 
 #### 5:75 · [[005 Al-Maidah]]
@@ -124,6 +132,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The Messiah, son of Mary, was not but a messenger; [other] messengers have passed on before him. And his mother was a supporter of truth. They both used to eat food. Look how We make clear to them the signs; then look how they are deluded.
 
 **English (Yusuf Ali):** Christ the son of Mary was no more than a messenger; many were the messengers that passed away before him. His mother was a woman of truth. They had both to eat their (daily) food. See how Allah doth make His signs clear to them; yet see in what ways they are deluded away from the truth!
+
+**Urdu (Fatah Muhammad Jalandhari):** مسیح ابن مریم تو صرف (خدا) کے پیغمبر تھے ان سے پہلے بھی بہت سے رسول گزر چکے تھے اور ان کی والدہ (مریم خدا کی) ولی اور سچی فرمانبردار تھیں دونوں (انسان تھے اور) کھانا کھاتے تھے دیکھو ہم ان لوگوں کے لیے اپنی آیتیں کس طرح کھول کھول کر بیان کرتے ہیں پھر (یہ) دیکھو کہ یہ کدھر الٹے جا رہے ہیں
 
 [Open on Quran.com](https://quran.com/5/75)
 
@@ -141,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And behold! Allah will say: "O Jesus the son of Mary! Didst thou say unto men, worship me and my mother as gods in derogation of Allah'?" He will say: "Glory to Thee! never could I say what I had no right (to say). Had I said such a thing, thou wouldst indeed have known it. Thou knowest what is in my heart, Thou I know not what is in Thine. For Thou knowest in full all that is hidden.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس وقت کو بھی یاد رکھو) جب خدا فرمائے گا کہ اے عیسیٰ بن مریم! کیا تم نے لوگوں سے کہا تھا کہ خدا کے سوا مجھے اور میری والدہ کو معبود مقرر کرو؟ وہ کہیں گے کہ تو پاک ہے مجھے کب شایاں تھا کہ میں ایسی بات کہتا جس کا مجھے کچھ حق نہیں اگر میں نے ایسا کہا ہوگا تو تجھ کو معلوم ہوگا (کیونکہ) جو بات میرے دل میں ہے تو اسے جانتا ہے اور جو تیرے ضمیر میں ہے اسے میں نہیں جانتا بےشک تو علاّم الغیوب ہے
+
 [Open on Quran.com](https://quran.com/5/116)
 
 #### 6:92 · [[006 Al-Anam]]
@@ -156,6 +168,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And this is a Book which We have sent down, blessed and confirming what was before it, that you may warn the Mother of Cities [i.e., Makkah] and those around it. Those who believe in the Hereafter believe in it, and they are maintaining their prayers.
 
 **English (Yusuf Ali):** And this is a Book which We have sent down, bringing blessings, and confirming (the revelations) which came before it: that thou mayest warn the mother of cities and all around her. Those who believe in the Hereafter believe in this (Book), and they are constant in guarding their prayers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (ویسی ہی) یہ کتاب ہے جسے ہم نے نازل کیا ہے بابرکت جو اپنے سے پہلی (کتابوں) کی تصدیق کرتی ہے اور (جو) اس لئے (نازل کی گئی ہے) کہ تم مکے اور اس کے آس پاس کے لوگوں کو آگاہ کردو۔ اور جو لوگ آخرت پر ایمان رکھتے ہیں وہ اس کتاب پر بھی ایمان رکھتے ہیں اور وہ اپنی نمازوں کی پوری خبر رکھتے ہیں
 
 [Open on Quran.com](https://quran.com/6/92)
 
@@ -173,6 +187,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When Moses came back to his people, angry and grieved, he said: "Evil it is that ye have done in my place in my absence: did ye make haste to bring on the judgment of your Lord?" He put down the tablets, seized his brother by (the hair of) his head, and dragged him to him. Aaron said: "Son of my mother! the people did indeed reckon me as naught, and went near to slaying me! Make not the enemies rejoice over my misfortune, nor count thou me amongst the people of sin."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ اپنی قوم میں نہایت غصے اور افسوس کی حالت میں واپس آئے۔ تو کہنے لگے کہ تم نے میرے بعد بہت ہی بداطواری کی۔ کیا تم نے اپنے پروردگار کا حکم (یعنی میرا اپنے پاس آنا) جلد چاہا (یہ کہا) اور (شدت غضب سے تورات کی) تختیاں ڈال دیں اور اپنے بھائی کے سر (کے بالوں) کو پکڑ کر اپنی طرف کھینچنے لگے۔ انہوں نے کہا کہ بھائی جان لوگ تو مجھے کمزور سمجھتے تھے اور قریب تھا کہ قتل کردیں۔ تو ایسا کام نہ کیجیے کہ دشمن مجھ پر ہنسیں اور مجھے ظالم لوگوں میں مت ملایئے
+
 [Open on Quran.com](https://quran.com/7/150)
 
 #### 13:39 · [[013 Ar-Rad]]
@@ -189,6 +205,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah doth blot out or confirm what He pleaseth: with Him is the Mother of the Book.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا جس کو چاہتا ہے مٹا دیتا ہے اور (جس کو چاہتا ہے) قائم رکھتا ہے اور اسی کے پاس اصل کتاب ہے
+
 [Open on Quran.com](https://quran.com/13/39)
 
 #### 16:78 · [[016 An-Nahl]]
@@ -204,6 +222,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Allāh has extracted you from the wombs of your mothers not knowing a thing, and He made for you hearing and vision and hearts [i.e., intellect] that perhaps you would be grateful.
 
 **English (Yusuf Ali):** It is He Who brought you forth from the wombs of your mothers when ye knew nothing; and He gave you hearing and sight and intelligence and affections: that ye may give thanks (to Allah).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تم کو تمہاری ماؤں کے شکم سے پیدا کیا کہ تم کچھ نہیں جانتے تھے۔ اور اس نے تم کو کان اور آنکھیں اور دل (اور اُن کے علاوہ اور) اعضا بخشے تاکہ تم شکر کرو
 
 [Open on Quran.com](https://quran.com/16/78)
 

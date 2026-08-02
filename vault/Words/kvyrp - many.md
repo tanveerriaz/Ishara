@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[kvr - kthr]]
+- [[kvr - them]]
 
 ### Meaning
 **many** · Lemma **كَثِيرَة**
@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:245 · [[002 Al-Baqarah]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who is it that would loan Allāh a goodly loan so He may multiply it for him many times over? And it is Allāh who withholds and grants abundance, and to Him you will be returned.
 
 **English (Yusuf Ali):** Who is he that will loan to Allah a beautiful loan, which Allah will double unto his credit and multiply many times? It is Allah that giveth (you) Want or plenty, and to Him shall be your return.
+
+**Urdu (Fatah Muhammad Jalandhari):** کوئی ہے کہ خدا کو قرض حسنہ دے کہ وہ اس کے بدلے اس کو کئی حصے زیادہ دے گا۔ اور خدا ہی روزی کو تنگ کرتا اور (وہی اسے) کشادہ کرتا ہے۔ اور تم اسی کی طرف لوٹ کر جاؤ گے
 
 [Open on Quran.com](https://quran.com/2/245)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When Talut set forth with the armies, he said: "Allah will test you at the stream: if any drinks of its water, He goes not with my army: Only those who taste not of it go with me: A mere sip out of the hand is excused." but they all drank of it, except a few. When they crossed the river,- He and the faithful ones with him,- they said: "This day We cannot cope with Goliath and his forces." but those who were convinced that they must meet Allah, said: "How oft, by Allah's will, Hath a small force vanquished a big one? Allah is with those who steadfastly persevere."
 
+**Urdu (Fatah Muhammad Jalandhari):** غرض جب طالوت فوجیں لے کر روانہ ہوا تو اس نے (ان سے) کہا کہ خدا ایک نہر سے تمہاری آزمائش کرنے والا ہے۔ جو شخص اس میں سے پانی پی لے گا (اس کی نسبت تصور کیا جائے گا کہ) وہ میرا نہیں۔ اور جو نہ پئے گا وہ (سمجھا جائے گا کہ) میرا ہے۔ ہاں اگر کوئی ہاتھ سے چلو بھر پانی پی لے (تو خیر۔ جب وہ لوگ نہر پر پہنچے) تو چند شخصوں کے سوا سب نے پانی پی لیا۔ پھر جب طالوت اور مومن لوگ جو اس کے ساتھ تھے نہر کے پار ہوگئے۔ تو کہنے لگے کہ آج ہم میں جالوت اور اس کے لشکر سے مقابلہ کرنے کی طاقت نہیں۔ جو لوگ یقین رکھتے تھے کہ ان کو خدا کے روبرو حاضر ہونا ہے وہ کہنے لگے کہ بسااوقات تھوڑی سی جماعت نے خدا کے حکم سے بڑی جماعت پر فتح حاصل کی ہے اور خدا استقلال رکھنے والوں کے ساتھ ہے
+
 [Open on Quran.com](https://quran.com/2/249)
 
 #### 4:94 · [[004 An-Nisa]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, when you go forth [to fight] in the cause of Allāh, investigate; and do not say to one who gives you [a greeting of] peace, "You are not a believer," aspiring for the goods of worldly life; for with Allāh are many acquisitions. You [yourselves] were like that before; then Allāh conferred His favor [i.e., guidance] upon you, so investigate. Indeed Allāh is ever, of what you do, Aware.
 
 **English (Yusuf Ali):** O ye who believe! When ye go abroad in the cause of Allah, investigate carefully, and say not to any one who offers you a salutation: "Thou art none of a believer!" Coveting the perishable goods of this life: with Allah are profits and spoils abundant. Even thus were ye yourselves before, till Allah conferred on you His favours: Therefore carefully investigate. For Allah is well aware of all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم خدا کی راہ میں باہر نکلو کرو تو تحقیق سے کام لیا کرو اور جو شخص تم سے سلام علیک کرے اس سے یہ نہ کہو کہ تم مومن نہیں اور اس سے تمہاری غرض یہ ہو کہ دنیا کی زندگی کا فائدہ حاصل کرو سو خدا کے نزدیک بہت سے غنیمتیں ہیں تم بھی تو پہلے ایسے ہی تھے پھر خدا نے تم پر احسان کیا تو (آئندہ) تحقیق کرلیا کرو اور جو عمل تم کرتے ہو خدا کو سب کی خبر ہے
 
 [Open on Quran.com](https://quran.com/4/94)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Assuredly Allah did help you in many battle-fields and on the day of Hunain: Behold! your great numbers elated you, but they availed you naught: the land, for all that it is wide, did constrain you, and ye turned back in retreat.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے بہت سے موقعوں پر تم کو مدد دی ہے اور (جنگ) حنین کے دن۔ جب تم کو اپنی (جماعت کی) کثرت پر غرّہ تھا تو وہ تمہارے کچھ بھی کام نہ آئی۔ اور زمین باوجود (اتنی بڑی) فراخی کے تم پر تنگ ہوگئی پھر تم پیٹھ پھیر کر پھر گئے
+
 [Open on Quran.com](https://quran.com/9/25)
 
 #### 23:19 · [[023 Al-Muminun]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We brought forth for you thereby gardens of palm trees and grapevines in which for you are abundant fruits and from which you eat.
 
 **English (Yusuf Ali):** With it We grow for you gardens of date-palms and vines: in them have ye abundant fruits: and of them ye eat (and have enjoyment),-
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے اس سے تمہارے لئے کھجوروں اور انگوروں کے باغ بنائے، ان میں تمہارے لئے بہت سے میوے پیدا ہوتے ہیں۔ اور ان میں سے تم کھاتے بھی ہو
 
 [Open on Quran.com](https://quran.com/23/19)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And in cattle (too) ye have an instructive example: from within their bodies We produce (milk) for you to drink; there are, in them, (besides), numerous (other) benefits for you; and of their (meat) ye eat;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے لئے چارپایوں میں بھی عبرت (اور نشانی) ہے کہ ان کے پیٹوں میں ہے اس سے ہم تمہیں (دودھ) پلاتے ہیں اور تمہارے لئے ان میں اور بھی بہت سے فائدے ہیں اور بعض کو تم کھاتے بھی ہو
+
 [Open on Quran.com](https://quran.com/23/21)
 
 #### 38:51 · [[038 Sad]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Reclining within them, they will call therein for abundant fruit and drink.
 
 **English (Yusuf Ali):** Therein will they recline (at ease): Therein can they call (at pleasure) for fruit in abundance, and (delicious) drink;
+
+**Urdu (Fatah Muhammad Jalandhari):** ان میں تکیٴے لگائے بیٹھے ہوں گے اور (کھانے پینے کے لئے) بہت سے میوے اور شراب منگواتے رہیں گے
 
 [Open on Quran.com](https://quran.com/38/51)
 
@@ -159,6 +173,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Ye shall have therein abundance of fruit, from which ye shall have satisfaction.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہاں تمہارے لئے بہت سے میوے ہیں جن کو تم کھاؤ گے
+
 [Open on Quran.com](https://quran.com/43/73)
 
 #### 48:19 · [[048 Al-Fath]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And many gains will they acquire (besides): and Allah is Exalted in Power, Full of Wisdom.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور بہت سی غنیمتیں جو انہوں نے حاصل کیں۔ اور خدا غالب حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/48/19)
 
 #### 48:20 · [[048 Al-Fath]]
@@ -190,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh has promised you much booty that you will take [in the future] and has hastened for you this [victory] and withheld the hands of people from you - that it may be a sign for the believers and [that] He may guide you to a straight path.
 
 **English (Yusuf Ali):** Allah has promised you many gains that ye shall acquire, and He has given you these beforehand; and He has restrained the hands of men from you; that it may be a Sign for the Believers, and that He may guide you to a Straight Path;
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے تم سے بہت سی غنیمتوں کا وعدہ فرمایا کہ تم ان کو حاصل کرو گے سو اس نے غنیمت کی تمہارے لئے جلدی فرمائی اور لوگوں کے ہاتھ تم سے روک دیئے۔ غرض یہ تھی کہ یہ مومنوں کے لئے (خدا کی) قدرت کا نمونہ ہو اور وہ تم کو سیدھے رستے پر چلائے
 
 [Open on Quran.com](https://quran.com/48/20)
 

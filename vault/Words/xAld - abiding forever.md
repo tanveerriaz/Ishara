@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xld - khld]]
+- [[xld - type bracelet earring]]
 
 ### Meaning
 **abiding forever** · Lemma **خالِد**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:25 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow. Whenever they are provided with a provision of fruit therefrom, they will say, "This is what we were provided with before." And it is given to them in likeness. And they will have therein purified spouses, and they will abide therein eternally.
 
 **English (Yusuf Ali):** But give glad tidings to those who believe and work righteousness, that their portion is Gardens, beneath which rivers flow. Every time they are fed with fruits therefrom, they say: "Why, this is what we were fed with before," for they are given things in similitude; and they have therein companions pure (and holy); and they abide therein (for ever).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے، ان کو خوشخبری سنا دو کہ ان کے لیے (نعمت کے) باغ ہیں، جن کے نیچے نہریں بہہ رہی ہیں۔ جب انہیں ان میں سے کسی قسم کا میوہ کھانے کو دیا جائے گا تو کہیں گے، یہ تو وہی ہے جو ہم کو پہلے دیا گیا تھا۔ اور ان کو ایک دوسرے کے ہم شکل میوے دیئے جائیں گے اور وہاں ان کے لیے پاک بیویاں ہوں گی اور وہ بہشتوں میں ہمیشہ رہیں گے
 
 [Open on Quran.com](https://quran.com/2/25)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "But those who reject Faith and belie Our Signs, they shall be companions of the Fire; they shall abide therein."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے (اس کو) قبول نہ کیا اور ہماری آیتوں کو جھٹلایا، وہ دوزخ میں جانے والے ہیں (اور) وہ ہمیشہ اس میں رہیں گے
+
 [Open on Quran.com](https://quran.com/2/39)
 
 #### 2:81 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Yes, [on the contrary], whoever earns evil and his sin has encompassed him - those are the companions of the Fire; they will abide therein eternally.
 
 **English (Yusuf Ali):** Nay, those who seek gain in evil, and are girt round by their sins,- they are companions of the Fire: Therein shall they abide (For ever).
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جو برے کام کرے، اور اس کے گناہ (ہر طرف سے) گھیر لیں تو ایسے لوگ دوزخ (میں جانے) والے ہیں (اور) وہ ہمیشہ اس میں (جلتے) رہیں گے
 
 [Open on Quran.com](https://quran.com/2/81)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But those who have faith and work righteousness, they are companions of the Garden: Therein shall they abide (For ever).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو ایمان لائیں اور نیک کام کریں، وہ جنت کے مالک ہوں گے (اور) ہمیشہ اس میں (عیش کرتے) رہیں گے
+
 [Open on Quran.com](https://quran.com/2/82)
 
 #### 2:162 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Abiding eternally therein. The punishment will not be lightened for them, nor will they be reprieved.
 
 **English (Yusuf Ali):** They will abide therein: Their penalty will not be lightened, nor will respite be their (lot).
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ ہمیشہ اسی (لعنت) میں (گرفتار) رہیں گے۔ ان سے نہ تو عذاب ہی ہلکا کیا جائے گا اور نہ انہیں (کچھ) مہلت ملے گی
 
 [Open on Quran.com](https://quran.com/2/162)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
+
 [Open on Quran.com](https://quran.com/2/217)
 
 #### 2:257 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh is the Ally of those who believe. He brings them out from darknesses into the light. And those who disbelieve - their allies are ṭāghūt. They take them out of the light into darknesses. Those are the companions of the Fire; they will abide eternally therein.
 
 **English (Yusuf Ali):** Allah is the Protector of those who have faith: from the depths of darkness He will lead them forth into light. Of those who reject faith the patrons are the evil ones: from light they will lead them forth into the depths of darkness. They will be companions of the fire, to dwell therein (For ever).
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے ہیں ان کا دوست خدا ہے کہ اُن کو اندھیرے سے نکال کر روشنی میں لے جاتا ہے اور جو کافر ہیں ان کے دوست شیطان ہیں کہ ان کو روشنی سے نکال کر اندھیرے میں لے جاتے ہیں یہی لوگ اہل دوزخ ہیں کہ اس میں ہمیشہ رہیں گے
 
 [Open on Quran.com](https://quran.com/2/257)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who devour usury will not stand except as stand one whom the Evil one by his touch Hath driven to madness. That is because they say: "Trade is like usury," but Allah hath permitted trade and forbidden usury. Those who after receiving direction from their Lord, desist, shall be pardoned for the past; their case is for Allah (to judge); but those who repeat (The offence) are companions of the Fire: They will abide therein (for ever).
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ سود کھاتے ہیں وہ (قبروں سے) اس طرح (حواس باختہ) اٹھیں گے جیسے کسی کو جن نے لپٹ کر دیوانہ بنا دیا ہو یہ اس لئے کہ وہ کہتے ہیں کہ سودا بیچنا بھی تو (نفع کے لحاظ سے) ویسا ہی ہے جیسے سود (لینا) حالانکہ سودے کو خدا نے حلال کیا ہے اور سود کو حرام۔ تو جس شخص کے پاس خدا کی نصیحت پہنچی اور وہ (سود لینے سے) باز آگیا تو جو پہلے ہوچکا وہ اس کا۔ اور (قیامت میں) اس کا معاملہ خدا کے سپرد اور جو پھر لینے لگا تو ایسے لوگ دوزخی ہیں کہ ہمیشہ دوزخ میں (جلتے) رہیں گے
+
 [Open on Quran.com](https://quran.com/2/275)
 
 #### 3:15 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: Shall I give you glad tidings of things Far better than those? For the righteous are Gardens in nearness to their Lord, with rivers flowing beneath; therein is their eternal home; with companions pure (and holy); and the good pleasure of Allah. For in Allah's sight are (all) His servants,-
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر ان سے) کہو کہ بھلا میں تم کو ایسی چیز بتاؤں جو ان چیزوں سے کہیں اچھی ہو (سنو) جو لوگ پرہیزگار ہیں ان کے لیے خدا کے ہاں باغات (بہشت) ہیں جن کے نیچے نہریں بہہ رہی ہیں ان میں وہ ہمیشہ رہیں گے اور پاکیزہ عورتیں ہیں اور (سب سے بڑھ کر) خدا کی خوشنودی اور خدا (اپنے نیک) بندوں کو دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/3/15)
 
 #### 3:88 · [[003 Ali Imran]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Abiding eternally therein. The punishment will not be lightened for them, nor will they be reprieved,
 
 **English (Yusuf Ali):** In that will they dwell; nor will their penalty be lightened, nor respite be (their lot);-
+
+**Urdu (Fatah Muhammad Jalandhari):** ہمیشہ اس لعنت میں (گرفتار) رہیں گے ان سے نہ تو عذاب ہلکا کیا جائے گا اور نہ انہیں مہلت دے جائے گی
 
 [Open on Quran.com](https://quran.com/3/88)
 

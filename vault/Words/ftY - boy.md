@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 12:30 · [[012 Yusuf]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And women in the city said, "The wife of al-ʿAzeez is seeking to seduce her slave boy; he has impassioned her with love. Indeed, we see her [to be] in clear error."
 
 **English (Yusuf Ali):** Ladies said in the City: "The wife of the (great) 'Aziz is seeking to seduce her slave from his (true) self: Truly hath he inspired her with violent love: we see she is evidently going astray."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور شہر میں عورتیں گفتگوئیں کرنے لگیں کہ عزیز کی بیوی اپنے غلام کو اپنی طرف مائل کرنا چاہتی ہے۔ اور اس کی محبت اس کے دل میں گھر کرگئی ہے۔ ہم دیکھتی ہیں کہ وہ صریح گمراہی میں ہے
 
 [Open on Quran.com](https://quran.com/12/30)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold, Moses said to his attendant, "I will not give up until I reach the junction of the two seas or (until) I spend years and years in travel."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنے شاگرد سے کہا کہ جب تک دو دریاؤں کے ملنے کی جگہ نہ پہنچ جاؤں ہٹنے کا نہیں خواہ برسوں چلتا رہوں
+
 [Open on Quran.com](https://quran.com/18/60)
 
 #### 18:62 · [[018 Al-Kahf]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When they had passed on (some distance), Moses said to his attendant: "Bring us our early meal; truly we have suffered much fatigue at this (stage of) our journey."
 
+**Urdu (Fatah Muhammad Jalandhari):** جب آگے چلے تو (موسیٰ نے) اپنے شاگرد سے کہا کہ ہمارے لئے کھانا لاؤ۔ اس سفر سے ہم کو بہت تکان ہوگئی ہے
+
 [Open on Quran.com](https://quran.com/18/62)
 
 #### 21:60 · [[021 Al-Anbya]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "We heard a young man mention them who is called Abraham."
 
 **English (Yusuf Ali):** They said, "We heard a youth talk of them: He is called Abraham."
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگوں نے کہا کہ ہم نے ایک جوان کو ان کا ذکر کرتے ہوئے سنا ہے اس کو ابراہیم کہتے ہیں
 
 [Open on Quran.com](https://quran.com/21/60)
 

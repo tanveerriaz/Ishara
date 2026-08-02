@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 22:52 · [[022 Al-Hajj]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We did not send before you any messenger or prophet except that when he spoke [or recited], Satan threw into it [some misunderstanding]. But Allāh abolishes that which Satan throws in; then Allāh makes precise His verses. And Allāh is Knowing and Wise.
 
 **English (Yusuf Ali):** Never did We send a messenger or a prophet before thee, but, when he framed a desire, Satan threw some (vanity) into his desire: but Allah will cancel anything (vain) that Satan throws in, and Allah will confirm (and establish) His Signs: for Allah is full of Knowledge and Wisdom:
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تم سے پہلے کوئی رسول اور نبی نہیں بھیجا مگر (اس کا یہ حال تھا کہ) جب وہ کوئی آرزو کرتا تھا تو شیطان اس کی آرزو میں (وسوسہ) ڈال دیتا تھا۔ تو جو (وسوسہ) شیطان ڈالتا ہے خدا اس کو دور کردیتا ہے۔ پھر خدا اپنی آیتوں کو مضبوط کردیتا ہے۔ اور خدا علم والا اور حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/22/52)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And those who had envied his position the day before began to say on the morrow: "Ah! it is indeed Allah Who enlarges the provision or restricts it, to any of His servants He pleases! had it not been that Allah was gracious to us, He could have caused the earth to swallow us up! Ah! those who reject Allah will assuredly never prosper."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ لوگ جو کل اُس کے رتبے کی تمنا کرتے تھے صبح کو کہنے لگے ہائے شامت! خدا ہی تو اپنے بندوں میں سے جس کے لئے چاہتا ہے رزق فراخ کر دیتا ہے اور (جس کے لئے چاہتا ہے) تنگ کر دیتا ہے۔ اگر خدا ہم پر احسان نہ کرتا تو ہمیں بھی دھنسا دیتا۔ ہائے خرابی! کافر نجات نہیں پا سکتے
+
 [Open on Quran.com](https://quran.com/28/82)
 
 #### 53:24 · [[053 An-Najm]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or is there for man whatever he wishes?
 
 **English (Yusuf Ali):** Nay, shall man have (just) anything he hankers after?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا جس چیز کی انسان آرزو کرتا ہے وہ اسے ضرور ملتی ہے
 
 [Open on Quran.com](https://quran.com/53/24)
 

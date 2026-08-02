@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[trk - taraka]]
+- [[trk - leave]]
 
 ### Meaning
 **we left** · Lemma **تَرَكَ**
@@ -43,7 +43,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:17 · [[002 Al-Baqarah]]
 
@@ -58,6 +58,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Their example is that of one who kindled a fire, but when it illuminated what was around him, Allāh took away their light and left them in darkness [so] they could not see.
 
 **English (Yusuf Ali):** Their similitude is that of a man who kindled a fire; when it lighted all around him, Allah took away their light and left them in utter darkness. So they could not see.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کی مثال اس شخص کی سی ہے کہ جس نے (شبِ تاریک میں) آگ جلائی۔ جب آگ نے اس کے اردگرد کی چیزیں روشن کیں تو خدا نے ان کی روشنی زائل کر دی اور ان کو اندھیروں میں چھوڑ دیا کہ کچھ نہیں دیکھتے
 
 [Open on Quran.com](https://quran.com/2/17)
 
@@ -75,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is prescribed, when death approaches any of you, if he leave any goods that he make a bequest to parents and next of kin, according to reasonable usage; this is due from the Allah-fearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** تم پر فرض کیا جاتا ہے کہ جب تم میں سے کسی کو موت کا وقت آجائے تو اگر وہ کچھ مال چھوڑ جانے والا ہو تو ماں با پ اور رشتہ داروں کے لئے دستور کے مطابق وصیت کرجائے (خدا سے) ڈر نے والوں پر یہ ایک حق ہے
+
 [Open on Quran.com](https://quran.com/2/180)
 
 #### 2:248 · [[002 Al-Baqarah]]
@@ -90,6 +94,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And their prophet said to them, "Indeed, a sign of his kingship is that the chest will come to you in which is assurance from your Lord and a remnant of what the family of Moses and the family of Aaron had left, carried by the angels. Indeed in that is a sign for you, if you are believers."
 
 **English (Yusuf Ali):** And (further) their Prophet said to them: "A Sign of his authority is that there shall come to you the Ark of the covenant, with (an assurance) therein of security from your Lord, and the relics left by the family of Moses and the family of Aaron, carried by angels. In this is a symbol for you if ye indeed have faith."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبر نے ان سے کہا کہ ان کی بادشاہی کی نشانی یہ ہے کہ تمہارے پاس ایک صندوق آئے گا جس کو فرشتے اٹھائے ہوئے ہوں گے اس میں تمہارے پروردگار کی طرف سے تسلی (بخشنے والی چیز) ہوگی اور کچھ اور چیزیں بھی ہوں گی جو موسیٰ اور ہارون چھوڑ گئے تھے۔ اگر تم ایمان رکھتے ہو تو یہ تمہارے لئے ایک بڑی نشانی ہے
 
 [Open on Quran.com](https://quran.com/2/248)
 
@@ -107,6 +113,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! cancel not your charity by reminders of your generosity or by injury,- like those who spend their substance to be seen of men, but believe neither in Allah nor in the Last Day. They are in parable like a hard, barren rock, on which is a little soil: on it falls heavy rain, which leaves it (Just) a bare stone. They will be able to do nothing with aught they have earned. And Allah guideth not those who reject faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اپنے صدقات (وخیرات)احسان رکھنے اور ایذا دینے سے اس شخص کی طرح برباد نہ کردینا۔ جو لوگوں کو دکھاوے کے لئے مال خرچ کرتا ہے اور خدا اور روز آخرت پر ایمان نہیں رکھتا۔ تو اس (کے مال) کی مثال اس چٹان کی سی ہے جس پر تھوڑی سی مٹی پڑی ہو اور اس پر زور کا مینہ برس کر اسے صاف کر ڈالے۔ (اسی طرح) یہ (ریاکار) لوگ اپنے اعمال کا کچھ بھی صلہ حاصل نہیں کرسکیں گے۔ اور خدا ایسے ناشکروں کو ہدایت نہیں دیا کرتا
+
 [Open on Quran.com](https://quran.com/2/264)
 
 #### 4:7 · [[004 An-Nisa]]
@@ -122,6 +130,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For men is a share of what the parents and close relatives leave, and for women is a share of what the parents and close relatives leave, be it little or much - an obligatory share.
 
 **English (Yusuf Ali):** From what is left by parents and those nearest related there is a share for men and a share for women, whether the property be small or large,-a determinate share.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو مال ماں باپ اور رشتہ دار چھوڑ مریں تھوڑا ہو یا بہت۔ اس میں مردوں کا بھی حصہ ہے اور عورتوں کا بھی یہ حصے (خدا کے) مقرر کئے ہوئے ہیں
 
 [Open on Quran.com](https://quran.com/4/7)
 
@@ -139,6 +149,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Let those (disposing of an estate) have the same fear in their minds as they would have for their own if they had left a helpless family behind: Let them fear Allah, and speak words of appropriate (comfort).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ایسے لوگوں کو ڈرنا چاہیئے جو (ایسی حالت میں ہوں کہ) اپنے بعد ننھے ننھے بچے چھوڑ جائیں اور ان کو ان کی نسبت خوف ہو (کہ ان کے مرنے کے بعد ان بیچاروں کا کیا حال ہوگا) پس چاہیئے کہ یہ لوگ خدا سے ڈریں اور معقول بات کہیں
+
 [Open on Quran.com](https://quran.com/4/9)
 
 #### 4:11 · [[004 An-Nisa]]
@@ -154,6 +166,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh instructs you concerning your children [i.e., their portions of inheritance]: for the male, what is equal to the share of two females. But if there are [only] daughters, two or more, for them is two thirds of one's estate. And if there is only one, for her is half. And for one's parents, to each one of them is a sixth of his estate if he left children. But if he had no children and the parents [alone] inherit from him, then for his mother is one third. And if he had brothers [and/or sisters], for his mother is a sixth, after any bequest he [may have] made or debt. Your parents or your children - you know not which of them are nearest to you in benefit. [These shares are] an obligation [imposed] by Allāh. Indeed, Allāh is ever Knowing and Wise.
 
 **English (Yusuf Ali):** Allah (thus) directs you as regards your Children's (Inheritance): to the male, a portion equal to that of two females: if only daughters, two or more, their share is two-thirds of the inheritance; if only one, her share is a half. For parents, a sixth share of the inheritance to each, if the deceased left children; if no children, and the parents are the (only) heirs, the mother has a third; if the deceased Left brothers (or sisters) the mother has a sixth. (The distribution in all cases ('s) after the payment of legacies and debts. Ye know not whether your parents or your children are nearest to you in benefit. These are settled portions ordained by Allah; and Allah is All-knowing, Al-wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری اولاد کے بارے میں تم کو ارشاد فرماتا ہے کہ ایک لڑکے کا حصہ دو لڑکیوں کے حصے کے برابر ہے۔ اور اگر اولاد میت صرف لڑکیاں ہی ہوں (یعنی دو یا) دو سے زیادہ تو کل ترکے میں ان کادو تہائی۔ اور اگر صرف ایک لڑکی ہو تو اس کا حصہ نصف۔ اور میت کے ماں باپ کا یعنی دونوں میں سے ہر ایک کا ترکے میں چھٹا حصہ بشرطیکہ میت کے اولاد ہو۔ اور اگر اولاد نہ ہو اور صرف ماں باپ ہی اس کے وارث ہوں تو ایک تہائی ماں کا حصہ۔ اور اگر میت کے بھائی بھی ہوں تو ماں کا چھٹا حصہ۔ (اور یہ تقسیم ترکہ میت کی) وصیت (کی تعمیل) کے بعد جو اس نے کی ہو یا قرض کے (ادا ہونے کے بعد جو اس کے ذمے ہو عمل میں آئے گی) تم کو معلوم نہیں کہ تمہارے باپ دادؤں اور بیٹوں پوتوں میں سے فائدے کے لحاظ سے کون تم سے زیادہ قریب ہے، یہ حصے خدا کے مقرر کئے ہوئے ہیں اور خدا سب کچھ جاننے والا اور حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/4/11)
 
@@ -171,6 +185,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In what your wives leave, your share is a half, if they leave no child; but if they leave a child, ye get a fourth; after payment of legacies and debts. In what ye leave, their share is a fourth, if ye leave no child; but if ye leave a child, they get an eighth; after payment of legacies and debts. If the man or woman whose inheritance is in question, has left neither ascendants nor descendants, but has left a brother or a sister, each one of the two gets a sixth; but if more than two, they share in a third; after payment of legacies and debts; so that no loss is caused (to any one). Thus is it ordained by Allah; and Allah is All-knowing, Most Forbearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو مال تمہاری عورتیں چھوڑ مریں۔ اگر ان کے اولاد نہ ہو تو اس میں نصف حصہ تمہارا۔ اور اگر اولاد ہو تو ترکے میں تمہارا حصہ چوتھائی۔ (لیکن یہ تقسیم) وصیت (کی تعمیل) کے بعد جو انہوں نے کی ہو یا قرض کے (ادا ہونے کے بعد جو ان کے ذمے ہو، کی جائے گی) اور جو مال تم (مرد) چھوڑ مرو۔ اگر تمہارے اولاد نہ ہو تو تمہاری عورتوں کا اس میں چوتھا حصہ۔ اور اگر اولاد ہو تو ان کا آٹھواں حصہ (یہ حصے) تمہاری وصیت (کی تعمیل) کے بعد جو تم نے کی ہو اور (ادائے) قرض کے (بعد تقسیم کئے جائیں گے) اور اگر ایسے مرد یا عورت کی میراث ہو جس کے نہ باپ ہو نہ بیٹا مگر اس کے بھائی بہن ہو تو ان میں سے ہر ایک کا چھٹا حصہ اور اگر ایک سے زیادہ ہوں تو سب ایک تہائی میں شریک ہوں گے (یہ حصے بھی ادائے وصیت و قرض بشرطیکہ ان سے میت نے کسی کا نقصان نہ کیا ہو (تقسیم کئے جائیں گے) یہ خدا کا فرمان ہے۔ اور خدا نہایت علم والا (اور) نہایت حلم والا ہے
+
 [Open on Quran.com](https://quran.com/4/12)
 
 #### 4:33 · [[004 An-Nisa]]
@@ -187,6 +203,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To (benefit) every one, We have appointed shares and heirs to property left by parents and relatives. To those, also, to whom your right hand was pledged, give their due portion. For truly Allah is witness to all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو مال ماں باپ اور رشتہ دار چھوڑ مریں تو (حق داروں میں تقسیم کردو کہ) ہم نے ہر ایک کے حقدار مقرر کردیئے ہیں اور جن لوگوں سے تم عہد کرچکے ہو ان کو بھی ان کا حصہ دو بےشک خدا ہر چیز کے سامنے ہے
+
 [Open on Quran.com](https://quran.com/4/33)
 
 #### 4:176 · [[004 An-Nisa]]
@@ -202,6 +220,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They request from you a [legal] ruling. Say, "Allāh gives you a ruling concerning one having neither descendants nor ascendants [as heirs]." If a man dies, leaving no child but [only] a sister, she will have half of what he left. And he inherits from her if she [dies and] has no child. But if there are two sisters [or more], they will have two thirds of what he left. If there are both brothers and sisters, the male will have the share of two females. Allāh makes clear to you [His law], lest you go astray. And Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** They ask thee for a legal decision. Say: Allah directs (thus) about those who leave no descendants or ascendants as heirs. If it is a man that dies, leaving a sister but no child, she shall have half the inheritance: If (such a deceased was) a woman, who left no child, Her brother takes her inheritance: If there are two sisters, they shall have two-thirds of the inheritance (between them): if there are brothers and sisters, (they share), the male having twice the share of the female. Thus doth Allah make clear to you (His law), lest ye err. And Allah hath knowledge of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگ تم سے (کلالہ کے بارے میں) حکم (خدا) دریافت کرتے ہیں کہہ دو کہ خدا کلالہ بارے میں یہ حکم دیتا ہے کہ اگر کوئی ایسا مرد مرجائے جس کے اولاد نہ ہو (اور نہ ماں باپ) اور اس کے بہن ہو تو اس کو بھائی کے ترکے میں سے آدھا حصہ ملے گا۔ اور اگر بہن مرجائے اور اس کے اولاد نہ ہو تو اس کے تمام مال کا وارث بھائی ہوگا اور اگر (مرنے والے بھائی کی) دو بہنیں ہوں تو دونوں کو بھائی کے ترکے میں سے دو تہائی۔ اور اگر بھائی اور بہن یعنی مرد اور عورتیں ملے جلے وارث ہوں تو مرد کا حصہ دو عورتوں کے برابر ہے۔ (یہ احکام) خدا تم سے اس لئے بیان فرماتا ہے کہ بھٹکتے نہ پھرو۔ اور خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/4/176)
 

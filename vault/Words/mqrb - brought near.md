@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:45 · [[003 Ali Imran]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [And mention] when the angels said, "O Mary, indeed Allāh gives you good tidings of a word from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allāh].
 
 **English (Yusuf Ali):** Behold! the angels said: "O Mary! Allah giveth thee glad tidings of a Word from Him: his name will be Christ Jesus, the son of Mary, held in honour in this world and the Hereafter and of (the company of) those nearest to Allah;
+
+**Urdu (Fatah Muhammad Jalandhari):** (وہ وقت بھی یاد کرنے کے لائق ہے) جب فرشتوں نے (مریم سے کہا) کہ مریم خدا تم کو اپنی طرف سے ایک فیض کی بشارت دیتا ہے جس کا نام مسیح (اور مشہور) عیسیٰ ابن مریم ہوگا (اور) جو دنیا اور آخرت میں باآبرو اور (خدا کے) خاصوں میں سے ہوگا
 
 [Open on Quran.com](https://quran.com/3/45)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Christ disdaineth nor to serve and worship Allah, nor do the angels, those nearest (to Allah): those who disdain His worship and are arrogant,-He will gather them all together unto Himself to (answer).
 
+**Urdu (Fatah Muhammad Jalandhari):** مسیح اس بات سے عار نہیں رکھتے کہ خدا کے بندے ہوں اور نہ مقرب فرشتے (عار رکھتے ہیں) اور جو شخص خدا کا بندہ ہونے کو موجب عار سمجھے اور سرکشی کرے تو خدا سب کو اپنے پاس جمع کرلے گا
+
 [Open on Quran.com](https://quran.com/4/172)
 
 #### 7:114 · [[007 Al-Araf]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "Yes, and, [moreover], you will be among those made near [to me]."
 
 **English (Yusuf Ali):** He said: "Yea, (and more),- for ye shall in that case be (raised to posts) nearest (to my person)."
+
+**Urdu (Fatah Muhammad Jalandhari):** (فرعون نے) کہا ہاں (ضرور) اور (اس کے علاوہ) تم مقربوں میں داخل کرلیے جاؤ گے
 
 [Open on Quran.com](https://quran.com/7/114)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "Yea, (and more),- for ye shall in that case be (raised to posts) nearest (to my person)."
 
+**Urdu (Fatah Muhammad Jalandhari):** فرعون نے کہا ہاں اور تم مقربوں میں بھی داخل کرلئے جاؤ گے
+
 [Open on Quran.com](https://quran.com/26/42)
 
 #### 56:11 · [[056 Al-Waqiah]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the ones brought near [to Allāh]
 
 **English (Yusuf Ali):** These will be those Nearest to Allah:
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی (خدا کے) مقرب ہیں
 
 [Open on Quran.com](https://quran.com/56/11)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thus, then, if he be of those Nearest to Allah,
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر اگر وہ (خدا کے) مقربوں میں سے ہے
+
 [Open on Quran.com](https://quran.com/56/88)
 
 #### 83:21 · [[083 Al-Mutaffifin]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To which bear witness those Nearest (to Allah).
 
+**Urdu (Fatah Muhammad Jalandhari):** جس کے پاس مقرب (فرشتے) حاضر رہتے ہیں
+
 [Open on Quran.com](https://quran.com/83/21)
 
 #### 83:28 · [[083 Al-Mutaffifin]]
@@ -156,6 +170,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** A spring from which those near [to Allāh] drink.
 
 **English (Yusuf Ali):** A spring, from (the waters) whereof drink those Nearest to Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ ایک چشمہ ہے جس میں سے (خدا کے) مقرب پیئیں گے
 
 [Open on Quran.com](https://quran.com/83/28)
 

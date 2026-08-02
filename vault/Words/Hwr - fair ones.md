@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 44:54 · [[044 Ad-Dukhan]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Thus. And We will marry them to fair women with large, [beautiful] eyes.
 
 **English (Yusuf Ali):** So; and We shall join them to fair women with beautiful, big, and lustrous eyes.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس طرح (کا حال ہوگا) اور ہم بڑی بڑی آنکھوں والی سفید رنگ کی عورتوں سے ان کے جوڑے لگائیں گے
 
 [Open on Quran.com](https://quran.com/44/54)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They will recline (with ease) on Thrones (of dignity) arranged in ranks; and We shall join them to Companions, with beautiful big and lustrous eyes.
 
+**Urdu (Fatah Muhammad Jalandhari):** تختوں پر جو برابر برابر بچھے ہوئے ہیں تکیہ لگائے ہوئے اور بڑی بڑی آنکھوں والی حوروں سے ہم ان کا عقد کر دیں گے
+
 [Open on Quran.com](https://quran.com/52/20)
 
 #### 55:72 · [[055 Ar-Rahman]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Companions restrained (as to their glances), in (goodly) pavilions;-
 
+**Urdu (Fatah Muhammad Jalandhari):** (وہ) حوریں (ہیں جو) خیموں میں مستور (ہیں)
+
 [Open on Quran.com](https://quran.com/55/72)
 
 #### 56:22 · [[056 Al-Waqiah]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [for them are] fair women with large, [beautiful] eyes,
 
 **English (Yusuf Ali):** And (there will be) Companions with beautiful, big, and lustrous eyes,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بڑی بڑی آنکھوں والی حوریں
 
 [Open on Quran.com](https://quran.com/56/22)
 

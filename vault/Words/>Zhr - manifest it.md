@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:33 · [[009 At-Tawbah]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is He who has sent His Messenger with guidance and the religion of truth to manifest it over all religion, although they who associate others with Allāh dislike it.
 
 **English (Yusuf Ali):** It is He Who hath sent His Messenger with guidance and the Religion of Truth, to proclaim it over all religion, even though the Pagans may detest (it).
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے اپنے پیغمبر کو ہدایت اور دین حق دے کر بھیجا تاکہ اس (دین) کو (دنیا کے) تمام دینوں پر غالب کرے۔ اگرچہ کافر ناخوش ہی ہوں
 
 [Open on Quran.com](https://quran.com/9/33)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But (now), when the Truth has come to them from Ourselves, they say, "Why are not (Signs) sent to him, like those which were sent to Moses?" Do they not then reject (the Signs) which were formerly sent to Moses? They say: "Two kinds of sorcery, each assisting the other!" And they say: "For us, we reject all (such things)!"
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب اُن کے پاس ہماری طرف سے حق آپہنچا تو کہنے لگے کہ جیسی (نشانیاں) موسٰی کو ملی تھیں ویسی اس کو کیوں نہیں ملیں۔ کیا جو (نشانیاں) پہلے موسٰی کو دی گئی تھیں اُنہوں نے اُن سے کفر نہیں کیا۔ کہنے لگے کہ دونوں جادوگر ہیں ایک دوسرے کے موافق۔ اور بولے کہ ہم سب سے منکر ہیں
+
 [Open on Quran.com](https://quran.com/28/48)
 
 #### 30:18 · [[030 Ar-Rum]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And to Him is [due all] praise throughout the heavens and the earth. And [exalted is He] at night and when you are at noon.
 
 **English (Yusuf Ali):** Yea, to Him be praise, in the heavens and on earth; and in the late afternoon and when the day begins to decline.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور آسمانوں اور زمین میں اُسی کی تعریف ہے۔ اور تیسرے پہر بھی اور جب دوپہر ہو (اُس وقت بھی نماز پڑھا کرو)
 
 [Open on Quran.com](https://quran.com/30/18)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Said Pharaoh: "Leave me to slay Moses; and let him call on his Lord! What I fear is lest he should change your religion, or lest he should cause mischief to appear in the land!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور فرعون بولا کہ مجھے چھوڑو کہ موسیٰ کو قتل کردوں اور وہ اپنے پروردگار کو بلالے۔ مجھے ڈر ہے کہ وہ (کہیں) تمہارے دین کو نہ بدل دے یا ملک میں فساد (نہ) پیدا کردے
+
 [Open on Quran.com](https://quran.com/40/26)
 
 #### 48:28 · [[048 Al-Fath]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion. And sufficient is Allāh as Witness.
 
 **English (Yusuf Ali):** It is He Who has sent His Messenger with Guidance and the Religion of Truth, to proclaim it over all religion: and enough is Allah for a Witness.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے اپنے پیغمبر کو ہدایت (کی کتاب) اور دین حق دے کر بھیجا تاکہ اس کو تمام دینوں پر غالب کرے۔ اور حق ظاہر کرنے کے لئے خدا ہی کافی ہے
 
 [Open on Quran.com](https://quran.com/48/28)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who has sent His Messenger with Guidance and the Religion of Truth, that he may proclaim it over all religion, even though the Pagans may detest (it).
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے اپنے پیغمبر کو ہدایت اور دین حق دے کر بھیجا تاکہ اسے اور سب دینوں پر غالب کرے خواہ مشرکوں کو برا ہی لگے
+
 [Open on Quran.com](https://quran.com/61/9)
 
 #### 66:3 · [[066 At-Tahrim]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When the Prophet disclosed a matter in confidence to one of his consorts, and she then divulged it (to another), and Allah made it known to him, he confirmed part thereof and repudiated a part. Then when he told her thereof, she said, "Who told thee this? "He said, "He told me Who knows and is well-acquainted (with all things)."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (یاد کرو) جب پیغمبر نے اپنی ایک بی بی سے ایک بھید کی بات کہی تو (اس نے دوسری کو بتا دی)۔ جب اس نے اس کو افشاء کیا اور خدا نے اس (حال) سے پیغمبر کو آگاہ کردیا تو پیغمبر نے ان (بی بی کو وہ بات) کچھ تو بتائی اور کچھ نہ بتائی۔ تو جب وہ ان کو جتائی تو پوچھنے لگیں کہ آپ کو کس نے بتایا؟ انہوں نے کہا کہ مجھے اس نے بتایا ہے جو جاننے والا خبردار ہے
+
 [Open on Quran.com](https://quran.com/66/3)
 
 #### 72:26 · [[072 Al-Jinn]]
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [He is] Knower of the unseen, and He does not disclose His [knowledge of the] unseen to anyone
 
 **English (Yusuf Ali):** "He (alone) knows the Unseen, nor does He make any one acquainted with His Mysteries,-
+
+**Urdu (Fatah Muhammad Jalandhari):** غیب (کی بات) جاننے والا ہے اور کسی پر اپنے غیب کو ظاہر نہیں کرتا
 
 [Open on Quran.com](https://quran.com/72/26)
 

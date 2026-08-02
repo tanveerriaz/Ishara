@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:44 · [[003 Ali Imran]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That is from the news of the unseen which We reveal to you, [O Muḥammad]. And you were not with them when they cast their pens as to which of them should be responsible for Mary. Nor were you with them when they disputed.
 
 **English (Yusuf Ali):** This is part of the tidings of the things unseen, which We reveal unto thee (O Messenger!) by inspiration: Thou wast not with them when they cast lots with arrows, as to which of them should be charged with the care of Mary: Nor wast thou with them when they disputed (the point).
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) یہ باتیں اخبار غیب میں سے ہیں جو ہم تمہارے پاس بھیجتے ہیں اور جب وہ لوگ اپنے قلم (بطور قرعہ) ڈال رہے تھے کہ مریم کا متکفل کون بنے تو تم ان کے پاس نہیں تھے اور نہ اس وقت ہی ان کے پاس تھے جب وہ آپس میں جھگڑ رہے تھے
 
 [Open on Quran.com](https://quran.com/3/44)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And if all the trees on earth were pens and the ocean (were ink), with seven oceans behind it to add to its (supply), yet would not the words of Allah be exhausted (in the writing): for Allah is Exalted in Power, full of Wisdom.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر یوں ہو کہ زمین میں جتنے درخت ہیں (سب کے سب) قلم ہوں اور سمندر (کا تمام پانی) سیاہی ہو (اور) اس کے بعد سات سمندر اور (سیاہی ہو جائیں) تو خدا کی باتیں (یعنی اس کی صفتیں) ختم نہ ہوں۔ بیشک خدا غالب حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/31/27)
 
 #### 68:1 · [[068 Al-Qalam]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nun. By the Pen and the (Record) which (men) write,-
 
+**Urdu (Fatah Muhammad Jalandhari):** نٓ۔ قلم کی اور جو (اہل قلم) لکھتے ہیں اس کی قسم
+
 [Open on Quran.com](https://quran.com/68/1)
 
 #### 96:4 · [[096 Al-Alaq]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who taught by the pen
 
 **English (Yusuf Ali):** He Who taught (the use of) the pen,-
+
+**Urdu (Fatah Muhammad Jalandhari):** جس نے قلم کے ذریعے سے علم سکھایا
 
 [Open on Quran.com](https://quran.com/96/4)
 

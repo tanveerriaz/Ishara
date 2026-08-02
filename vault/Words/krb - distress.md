@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[krb - krb]]
+- [[krb - distress]]
 
 ### Meaning
 **distress** · Lemma **كَرْب**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:64 · [[006 Al-Anam]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "It is Allāh who saves you from it and from every distress; then you [still] associate others with Him."
 
 **English (Yusuf Ali):** Say "It is Allah that delivereth you from these and all (other) distresses: and yet ye worship false gods!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ خدا ہی تم کو اس (تنگی) سے اور ہر سختی سے نجات بخشتا ہے۔ پھر (تم) اس کے ساتھ شرک کرتے ہو
 
 [Open on Quran.com](https://quran.com/6/64)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Remember) Noah, when he cried (to Us) aforetime: We listened to his (prayer) and delivered him and his family from great distress.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور نوح (کا قصہ بھی یاد کرو) جب (اس سے) پیشتر انہوں نے ہم کو پکارا تو ہم نے ان کی دعا قبول فرمائی اور ان کو اور ان کے ساتھیوں کو بڑی گھبراہٹ سے نجات دی
+
 [Open on Quran.com](https://quran.com/21/76)
 
 #### 37:76 · [[037 As-Saffat]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We delivered him and his people from the Great Calamity,
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو اور ان کے گھر والوں کو بڑی مصیبت سے نجات دی
+
 [Open on Quran.com](https://quran.com/37/76)
 
 #### 37:115 · [[037 As-Saffat]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We saved them and their people from the great affliction,
 
 **English (Yusuf Ali):** And We delivered them and their people from (their) Great Calamity;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو اور ان کی قوم کو مصیبت عظیمہ سے نجات بخشی
 
 [Open on Quran.com](https://quran.com/37/115)
 

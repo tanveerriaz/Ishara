@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hzn - hzn]]
+- [[Hzn - become sorrowful]]
 
 ### Meaning
 **sorrow** · Lemma **حَزَن**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:92 · [[009 At-Tawbah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Nor [is there blame] upon those who, when they came to you for you to take them along, you said, "I can find nothing upon which to carry you." They turned back while their eyes overflowed with tears out of grief that they could not find something to spend [for the cause of Allāh].
 
 **English (Yusuf Ali):** Nor (is there blame) on those who came to thee to be provided with mounts, and when thou saidst, "I can find no mounts for you," they turned back, their eyes streaming with tears of grief that they had no resources wherewith to provide the expenses.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نہ ان (بےسروسامان) لوگوں پر (الزام) ہے کہ تمہارے پاس آئے کہ ان کو سواری دو اور تم نے کہا کہ میرے پاس کوئی ایسی چیز نہیں جس پر تم کو سوار کروں تو وہ لوٹ گئے اور اس غم سے کہ ان کے پاس خرچ موجود نہ تھا، ان کی آنکھوں سے آنسو بہہ رہے تھے
 
 [Open on Quran.com](https://quran.com/9/92)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And he turned away from them, and said: "How great is my grief for Joseph!" And his eyes became white with sorrow, and he fell into silent melancholy.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے پاس سے چلے گئے اور کہنے لگے ہائے افسوس یوسف (ہائے افسوس) اور رنج والم میں (اس قدر روئے کہ) ان کی آنکھیں سفید ہوگئیں اور ان کا دل غم سے بھر رہا تھا
+
 [Open on Quran.com](https://quran.com/12/84)
 
 #### 12:86 · [[012 Yusuf]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know.
 
 **English (Yusuf Ali):** He said: "I only complain of my distraction and anguish to Allah, and I know from Allah that which ye know not...
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ میں اپنے غم واندوہ کا اظہار خدا سے کرتا ہوں۔ اور خدا کی طرف سے وہ باتیں جانتا ہوں جو تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/12/86)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then the people of Pharaoh picked him up (from the river): (It was intended) that (Moses) should be to them an adversary and a cause of sorrow: for Pharaoh and Haman and (all) their hosts were men of sin.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو فرعون کے لوگوں نے اس کو اُٹھا لیا اس لئے کہ (نتیجہ یہ ہونا تھا کہ) وہ اُن کا دشمن اور (ان کے لئے موجب) غم ہو۔ بیشک فرعون اور ہامان اور اُن کے لشکر چوک گئے
+
 [Open on Quran.com](https://quran.com/28/8)
 
 #### 35:34 · [[035 Fatir]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they will say, "Praise to Allāh, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative -
 
 **English (Yusuf Ali):** And they will say: "Praise be to Allah, Who has removed from us (all) sorrow: for our Lord is indeed Oft-Forgiving Ready to appreciate (service):
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہیں گے کہ خدا کا شکر ہے جس نے ہم سے غم دور کیا۔ بےشک ہمارا پروردگار بخشنے والا (اور) قدردان ہے
 
 [Open on Quran.com](https://quran.com/35/34)
 

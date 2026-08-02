@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:271 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If you disclose your charitable expenditures, they are good; but if you conceal them and give them to the poor, it is better for you, and He will remove from you some of your misdeeds [thereby]. And Allāh, of what you do, is [fully] Aware.
 
 **English (Yusuf Ali):** If ye disclose (acts of) charity, even so it is well, but if ye conceal them, and make them reach those (really) in need, that is best for you: It will remove from you some of your (stains of) evil. And Allah is well acquainted with what ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم خیرات ظاہر دو تو وہ بھی خوب ہے اور اگر پوشیدہ دو اور دو بھی اہل حاجت کو تو وہ خوب تر ہے اور (اس طرح کا دینا) تمہارے گناہوں کو بھی دور کردے گا۔ اور خدا کو تمہارے سب کاموں کی خبر ہے
 
 [Open on Quran.com](https://quran.com/2/271)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Fair in the eyes of men is the love of things they covet: Women and sons; Heaped-up hoards of gold and silver; horses branded (for blood and excellence); and (wealth of) cattle and well-tilled land. Such are the possessions of this world's life; but in nearness to Allah is the best of the goals (To return to).
 
+**Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
+
 [Open on Quran.com](https://quran.com/3/14)
 
 #### 3:136 · [[003 Ali Imran]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those - their reward is forgiveness from their Lord and gardens beneath which rivers flow [in Paradise], wherein they will abide eternally; and excellent is the reward of the [righteous] workers.
 
 **English (Yusuf Ali):** For such the reward is forgiveness from their Lord, and Gardens with rivers flowing underneath,- an eternal dwelling: How excellent a recompense for those who work (and strive)!
+
+**Urdu (Fatah Muhammad Jalandhari):** ایسے ہی لوگوں کا صلہ پروردگار کی طرف سے بخشش اور باغ ہیں جن کے نیچے نہریں بہہ رہی ہیں (اور) وہ ان میں ہمیشہ بستے رہیں گے اور (اچھے) کام کرنے والوں کا بدلہ بہت اچھا ہے
 
 [Open on Quran.com](https://quran.com/3/136)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Men said to them: "A great army is gathering against you": And frightened them: But it (only) increased their Faith: They said: "For us Allah sufficeth, and He is the best disposer of affairs."
 
+**Urdu (Fatah Muhammad Jalandhari):** (جب) ان سے لوگوں نے آکر بیان کیا کہ کفار نے تمہارے (مقابلے کے) لئے لشکر کثیر) جمع کیا ہے تو ان سے ڈرو۔ تو ان کا ایمان اور زیادہ ہوگیا۔ اور کہنے لگے ہم کو خدا کافی ہے اور وہ بہت اچھا کارساز ہے
+
 [Open on Quran.com](https://quran.com/3/173)
 
 #### 4:58 · [[004 An-Nisa]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Allāh commands you to render trusts to whom they are due and when you judge between people to judge with justice. Excellent is that which Allāh instructs you. Indeed, Allāh is ever Hearing and Seeing.
 
 **English (Yusuf Ali):** Allah doth command you to render back your Trusts to those to whom they are due; And when ye judge between man and man, that ye judge with justice: Verily how excellent is the teaching which He giveth you! For Allah is He Who heareth and seeth all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تم کو حکم دیتا ہے کہ امانت والوں کی امانتیں ان کے حوالے کردیا کرو اور جب لوگوں میں فیصلہ کرنے لگو تو انصاف سے فیصلہ کیا کرو خدا تمہیں بہت خوب نصیحت کرتا ہے بےشک خدا سنتا اور دیکھتا ہے
 
 [Open on Quran.com](https://quran.com/4/58)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "I will mislead them, and I will create in them false desires; I will order them to slit the ears of cattle, and to deface the (fair) nature created by Allah." Whoever, forsaking Allah, takes satan for a friend, hath of a surety suffered a loss that is manifest.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو گمراہ کرتا اور امیدیں دلاتا ہروں گا اور یہ سکھاتا رہوں گا کہ جانوروں کے کان چیرتے رہیں اور (یہ بھی) کہتا رہوں گا کہ وہ خدا کی بنائی ہوئی صورتوں کو بدلتے رہیں اور جس شخص نے خدا کو چھوڑ کر شیطان کو دوست بنایا اور وہ صریح نقصان میں پڑ گیا
+
 [Open on Quran.com](https://quran.com/4/119)
 
 #### 5:1 · [[005 Al-Maidah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, fulfill [all] contracts. Lawful for you are the animals of grazing livestock except for that which is recited to you [in this Qur’ān] - hunting not being permitted while you are in the state of iḥrām. Indeed, Allāh ordains what He intends.
 
 **English (Yusuf Ali):** O ye who believe! fulfil (all) obligations. Lawful unto you (for food) are all four-footed animals, with the exceptions named: But animals of the chase are forbidden while ye are in the sacred precincts or in pilgrim garb: for Allah doth command according to His will and plan.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! اپنے اقراروں کو پورا کرو۔ تمہارے لیے چارپائے جانور (جو چرنے والے ہیں) حلال کر دیئے گئے ہیں۔ بجز ان کے جو تمہیں پڑھ کر سنائے جاتے ہیں مگر احرام (حج) میں شکار کو حلال نہ جاننا۔ خدا جیسا چاہتا ہے حکم دیتا ہے
 
 [Open on Quran.com](https://quran.com/5/1)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Kill not game while in the sacred precincts or in pilgrim garb. If any of you doth so intentionally, the compensation is an offering, brought to the Ka'ba, of a domestic animal equivalent to the one he killed, as adjudged by two just men among you; or by way of atonement, the feeding of the indigent; or its equivalent in fasts: that he may taste of the penalty of his deed. Allah forgives what is past: for repetition Allah will exact from him the penalty. For Allah is Exalted, and Lord of Retribution.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم احرام کی حالت میں ہو تو شکار نہ مارنا اور جو تم میں سے جان بوجھ کر اسے مارے تو (یا تو اس کا) بدلہ (دے اور وہ یہ ہے کہ) اسی طرح کا چارپایہ جسے تم میں دو معتبر شخص مقرر کردیں قربانی (کرے اور یہ قربانی) کعبے پہنچائی جائے یا کفارہ (دے اور وہ) مسکینوں کو کھانا کھلانا (ہے) یا اس کے برابر روزے رکھے تاکہ اپنے کام کی سزا (کا مزہ) چکھے (اور) جو پہلے ہو چکا وہ خدا نے معاف کر دیا اور جو پھر (ایسا کام) کرے گا تو خدا اس سے انتقام لے گا اور خدا غالب اور انتقام لینے والا ہے
+
 [Open on Quran.com](https://quran.com/5/95)
 
 #### 6:136 · [[006 Al-Anam]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Out of what Allah hath produced in abundance in tilth and in cattle, they assigned Him a share: they say, according to their fancies: "This is for Allah, and this" - for our "partners"! but the share of their" partners "reacheth not Allah, whilst the share of Allah reacheth their "partners"! evil (and unjust) is their assignment!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (یہ لوگ) خدا ہی کی پیدا کی ہوئی چیزوں یعنی کھیتی اور چوپایوں میں خدا کا بھی ایک حصہ مقرر کرتے ہیں اور اپنے خیال (باطل) سے کہتے ہیں کہ یہ (حصہ) تو خدا کا اور یہ ہمارے شریکوں (یعنی بتوں) کا تو جو حصہ ان کے شریکوں کا ہوتا ہے وہ تو خدا کی طرف نہیں جا سکتا اور جو حصہ خدا کا ہوتا ہے وہ ان کے شریکوں کی طرف جا سکتا ہے یہ کیسا برا انصاف ہے
+
 [Open on Quran.com](https://quran.com/6/136)
 
 #### 6:138 · [[006 Al-Anam]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they say, "These animals and crops are forbidden; no one may eat from them except whom we will," by their claim. And there are those [camels] whose backs are forbidden [by them] and those upon which the name of Allāh is not mentioned - [all of this] an invention of untruth about Him. He will punish them for what they were inventing.
 
 **English (Yusuf Ali):** And they say that such and such cattle and crops are taboo, and none should eat of them except those whom - so they say - We wish; further, there are cattle forbidden to yoke or burden, and cattle on which, (at slaughter), the name of Allah is not pronounced; - inventions against Allah's name: soon will He requite them for their inventions.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے خیال سے یہ بھی کہتے ہیں کہ یہ چارپائے اور کھیتی منع ہے اسے اس شخص کے سوا جسے ہم چاہیں کوئی نہ کھائے اور (بعض) چارپائے ایسے ہیں کہ ان کی پیٹ پر چڑھنا منع کر دیا گیا ہے اور بعض مویشی ایسے ہیں جن پر (ذبح کرتے وقت) خدا کا نام نہیں لیتے سب خدا پر جھوٹ ہے وہ عنقریب ان کو ان کے جھوٹ کا بدلہ دے گا
 
 [Open on Quran.com](https://quran.com/6/138)
 

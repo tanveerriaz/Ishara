@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:178 · [[003 Ali Imran]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And let not those who disbelieve ever think that [because] We extend their time [of enjoyment] it is better for them. We only extend it for them so that they may increase in sin, and for them is a humiliating punishment.
 
 **English (Yusuf Ali):** Let not the Unbelievers think that our respite to them is good for themselves: We grant them respite that they may grow in their iniquity: But they will have a shameful punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر لوگ یہ نہ خیال کریں کہ ہم جو ان کو مہلت دیئے جاتے ہیں تو یہ ان کے حق میں اچھا ہے۔ (نہیں بلکہ) ہم ان کو اس لئے مہلت دیتے ہیں کہ اور گناہ کرلیں۔ آخرکار ان کو ذلیل کرنے والا عذاب ہوگا
 
 [Open on Quran.com](https://quran.com/3/178)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Respite will I grant unto them: for My scheme is strong (and unfailing).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور میں ان کو مہلت دیئے جاتا ہوں میری تدبیر (بڑی) مضبوط ہے
+
 [Open on Quran.com](https://quran.com/7/183)
 
 #### 13:32 · [[013 Ar-Rad]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And already were [other] messengers ridiculed before you, and I extended the time of those who disbelieved; then I seized them, and how [terrible] was My penalty.
 
 **English (Yusuf Ali):** Mocked were (many) messengers before thee: but I granted respite to the unbelievers, and finally I punished them: Then how (terrible) was my requital!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے پہلے بھی رسولوں کے ساتھ تمسخر ہوتے رہے ہیں تو ہم نے کافروں کو مہلت دی پھر پکڑ لیا۔ سو (دیکھ لو کہ) ہمارا عذاب کیسا تھا
 
 [Open on Quran.com](https://quran.com/13/32)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And the Companions of the Madyan People; and Moses was rejected (in the same way). But I granted respite to the Unbelievers, and (only) after that did I punish them: but how (terrible) was my rejection (of them)!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور مدین کے رہنے والے بھی۔ اور موسیٰ بھی تو جھٹلائے جاچکے ہیں لیکن میں کافروں کو مہلت دیتا رہا پھر ان کو پکڑ لیا۔ تو (دیکھ لو) کہ میرا عذاب کیسا (سخت) تھا
+
 [Open on Quran.com](https://quran.com/22/44)
 
 #### 22:48 · [[022 Al-Hajj]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And for how many a city did I prolong enjoyment while it was committing wrong. Then I seized it, and to Me is the [final] destination.
 
 **English (Yusuf Ali):** And to how many populations did I give respite, which were given to wrong-doing? in the end I punished them. To me is the destination (of all).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بہت سی بستیاں ہیں کہ میں ان کو مہلت دیتا رہا اور وہ نافرمان تھیں۔ پھر میں نے ان کو پکڑ لیا۔ اور میری طرف ہی لوٹ کر آنا ہے
 
 [Open on Quran.com](https://quran.com/22/48)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And they say: "Tales of the ancients, which he has caused to be written: and they are dictated before him morning and evening."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ یہ پہلے لوگوں کی کہانیاں ہیں جس کو اس نے لکھ رکھا ہے اور وہ صبح وشام اس کو پڑھ پڑھ کر سنائی جاتی ہیں
+
 [Open on Quran.com](https://quran.com/25/5)
 
 #### 47:25 · [[047 Muhammad]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who turn back as apostates after Guidance was clearly shown to them,- the Evil One has instigated them and busied them up with false hopes.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ راہ ہدایت ظاہر ہونے کے بعد پیٹھ دے کر پھر گئے۔ شیطان نے (یہ کام) ان کو مزین کر دکھایا اور انہیں طول (عمر کا وعدہ) دیا
+
 [Open on Quran.com](https://quran.com/47/25)
 
 #### 68:45 · [[068 Al-Qalam]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And I will give them time. Indeed, My plan is firm.
 
 **English (Yusuf Ali):** A (long) respite will I grant them: truly powerful is My Plan.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور میں ان کو مہلت دیئے جاتا ہوں میری تدبیر قوی ہے
 
 [Open on Quran.com](https://quran.com/68/45)
 

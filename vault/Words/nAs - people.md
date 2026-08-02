@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>ns - ans]]
+- [[>ns - mankind]]
 
 ### Meaning
 **people** · Lemma **ناس**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:8 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And of the people are some who say, "We believe in Allāh and the Last Day," but they are not believers.
 
 **English (Yusuf Ali):** Of the people there are some who say: "We believe in Allah and the Last Day;" but they do not (really) believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض لوگ ایسے ہیں جو کہتے ہیں کہ ہم خدا پر اور روزِ آخرت پر ایمان رکھتے ہیں حالانکہ وہ ایمان نہیں رکھتے
 
 [Open on Quran.com](https://quran.com/2/8)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When it is said to them: "Believe as the others believe:" They say: "Shall we believe as the fools believe?" Nay, of a surety they are the fools, but they do not know.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان سے کہا جاتا ہے کہ جس طرح اور لوگ ایمان لے آئے، تم بھی ایمان لے آؤ تو کہتے ہیں، بھلا جس طرح بےوقوف ایمان لے آئے ہیں اسی طرح ہم بھی ایمان لے آئیں؟ سن لو کہ یہی بےوقوف ہیں لیکن نہیں جانتے
+
 [Open on Quran.com](https://quran.com/2/13)
 
 #### 2:21 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O mankind, worship your Lord, who created you and those before you, that you may become righteous -
 
 **English (Yusuf Ali):** O ye people! Adore your Guardian-Lord, who created you and those who came before you, that ye may have the chance to learn righteousness;
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو! اپنے پروردگار کی عبات کرو جس نے تم کو اور تم سے پہلے لوگوں کو پیدا کیا تاکہ تم (اس کے عذاب سے) بچو
 
 [Open on Quran.com](https://quran.com/2/21)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But if ye cannot- and of a surety ye cannot- then fear the Fire whose fuel is men and stones,- which is prepared for those who reject Faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** لیکن اگر (ایسا) نہ کر سکو اور ہرگز نہیں کر سکو گے تو اس آگ سے ڈرو جس کا ایندھن آدمی اور پتھر ہوں گے (اور جو) کافروں کے لیے تیار کی گئی ہے
+
 [Open on Quran.com](https://quran.com/2/24)
 
 #### 2:44 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason?
 
 **English (Yusuf Ali):** Do ye enjoin right conduct on the people, and forget (To practise it) yourselves, and yet ye study the Scripture? Will ye not understand?
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ) کیا (عقل کی بات ہے کہ) تم لوگوں کو نیکی کرنے کو کہتے ہو اور اپنے تئیں فراموش کئے دیتے ہو، حالانکہ تم کتاب (خدا) بھی پڑھتے ہو۔ کیا تم سمجھتے نہیں؟
 
 [Open on Quran.com](https://quran.com/2/44)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember We took a covenant from the Children of Israel (to this effect): Worship none but Allah; treat with kindness your parents and kindred, and orphans and those in need; speak fair to the people; be steadfast in prayer; and practise regular charity. Then did ye turn back, except a few among you, and ye backslide (even now).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے بنی اسرائیل سے عہد لیا کہ خدا کے سوا کسی کی عبادت نہ کرنا اور ماں باپ اور رشتہ داروں اور یتیموں اور محتاجوں کے ساتھ بھلائی کرتے رہنا اور لوگوں سے اچھی باتیں کہنا، اور نماز پڑھتے اور زکوٰة دیتے رہنا، تو چند شخصوں کے سوا تم سب (اس عہد سے) منہ پھیر کر پھر بیٹھے
+
 [Open on Quran.com](https://quran.com/2/83)
 
 #### 2:94 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O Muḥammad], "If the home of the Hereafter with Allāh is for you alone and not the [other] people, then wish for death, if you should be truthful."
 
 **English (Yusuf Ali):** Say: "If the last Home, with Allah, be for you specially, and not for anyone else, then seek ye for death, if ye are sincere."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر آخرت کا گھر اور لوگوں (یعنی مسلمانوں) کے لیے نہیں اور خدا کے نزدیک تمہارے ہی لیے مخصوص ہے تو اگر سچے ہو تو موت کی آرزو تو کرو
 
 [Open on Quran.com](https://quran.com/2/94)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thou wilt indeed find them, of all people, most greedy of life,-even more than the idolaters: Each one of them wishes He could be given a life of a thousand years: But the grant of such life will not save him from (due) punishment. For Allah sees well all that they do.
 
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ ان کو تم اور لوگوں سے زندگی کے کہیں حریص دیکھو گے، یہاں تک کہ مشرکوں سے بھی۔ ان میں سے ہر ایک یہی خواہش کرتا ہے کہ کاش وہ ہزار برس جیتا رہے، مگر اتنی لمبی عمر اس کو مل بھی جائے تو اسے عذاب سے تو نہیں چھڑا سکتی۔ اور جو کام یہ کرتے ہیں، خدا ان کو دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/2/96)
 
 #### 2:102 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They followed what the evil ones gave out (falsely) against the power of Solomon: the blasphemers Were, not Solomon, but the evil ones, teaching men Magic, and such things as came down at babylon to the angels Harut and Marut. But neither of these taught anyone (Such things) without saying: "We are only for trial; so do not blaspheme." They learned from them the means to sow discord between man and wife. But they could not thus harm anyone except by Allah's permission. And they learned what harmed them, not what profited them. And they knew that the buyers of (magic) would have no share in the happiness of the Hereafter. And vile was the price for which they did sell their souls, if they but knew!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
+
 [Open on Quran.com](https://quran.com/2/102)
 
 #### 2:124 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when Abraham was tried by his Lord with words [i.e., commands] and he fulfilled them. [Allāh] said, "Indeed, I will make you a leader for the people." [Abraham] said, "And of my descendants?" [Allāh] said, "My covenant does not include the wrongdoers."
 
 **English (Yusuf Ali):** And remember that Abraham was tried by his Lord with certain commands, which he fulfilled: He said: "I will make thee an Imam to the Nations." He pleaded: "And also (Imams) from my offspring!" He answered: "But My Promise is not within the reach of evil-doers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب پروردگار نے چند باتوں میں ابراہیم کی آزمائش کی تو ان میں پورے اترے۔ خدا نے کہا کہ میں تم کو لوگوں کا پیشوا بناؤں گا۔ انہوں نے کہا کہ (پروردگار) میری اولاد میں سے بھی (پیشوا بنائیو)۔ خدا نے فرمایا کہ ہمارا اقرار ظالموں کے لیے نہیں ہوا کرتا
 
 [Open on Quran.com](https://quran.com/2/124)
 

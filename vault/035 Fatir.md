@@ -14,72 +14,72 @@ Originator · 45 ayahs
 
 ## Words in this surah (graph)
 
-- [[lwn - colors]] — `لَوْن` · colors
-- [[>*hb - remove]] — `أَذْهَبَ` · remove
-- [[$rk - associating partners]] — `شِرْك` · associating partners
 - [[yEmr - granted life]] — `يُعَمَّرُ` · granted life
+- [[lwn - colors]] — `لَوْن` · colors
+- [[$kwr - grateful]] — `شَكُور` · grateful
+- [[>*hb - remove]] — `أَذْهَبَ` · remove
 - [[mxtlf - various]] — `مُخْتَلِف` · various
 - [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[$rk - associating partners]] — `شِرْك` · associating partners
 - [[grwr - delusion]] — `غُرُور` · delusion
-- [[$kwr - grateful]] — `شَكُور` · grateful
-- [[Hsn - good]] — `حُسْن` · good
-- [[qrbY - relatives]] — `قُرْبَى` · relatives
-- [[dAbp - moving creature]] — `دابَّة` · moving creature
-- [[fATr - creator]] — `فاطِر` · creator
-- [[n*yr - warner]] — `نَذِير` · warner
-- [[Astxrj - bring forth]] — `اسْتَخْرَجَ` · bring forth
-- [[dEA - call]] — `دَعا` · call
-- [[gny - free need]] — `غَنِيّ` · free need
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[lyl - night]] — `لَيْل` · night
-- [[sAr - travel]] — `سارَ` · travel
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[qwp - strength]] — `قُوَّة` · strength
-- [[mqt - hatred]] — `مَقْت` · hatred
-- [[ftH - victory]] — `فَتَحَ` · victory
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[>EmY - blind]] — `أَعْمَى` · blind
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
+- [[HyAp - life]] — `حَياة` · life
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[Hlym - forbearing]] — `حَلِيم` · forbearing
+- [[nkyr - my rejection]] — `نَكِير` · my rejection
+- [[jmyE - all]] — `جَمِيع` · all
+- [[mrsl - messengers]] — `مُرْسَل` · messengers
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[ryH - wind]] — `رِيح` · wind
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[Zlmp - darknesses]] — `ظُلُمَة` · darknesses
+- [[>rD - earth]] — `أَرْض` · earth
+- [[jnAH - blame]] — `جُناح` · blame
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[xAlq - creator]] — `خالِق` · creator
 
 ## Roots
 
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
-- [[$kr - shkr]]
+- [[$kr - gratitude]]
 - [[$ms - horse refusing ridden]]
-- [[$rb - shrb]]
+- [[$rb - drink]]
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
+- [[*wq - taste]]
+- [[>*n - ear]]
 - [[>Hd - anyone]]
-- [[>fk - afk]]
+- [[>fk - turn something away]]
 - [[>hl - people house]]
-- [[>jj - ajj]]
+- [[>jj - bitter]]
 - [[>jl - term]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
+- [[>ns - mankind]]
 - [[>nv - female]]
-- [[>rD - ard]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - like milk oil]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[E*b - edhb]]
+- [[E*b - motes particles floating]]
 - [[Ebd - worship]]
-- [[Edw - enemy]]
+- [[Edw - turn]]
 - [[Ejz - old age weakness]]
 - [[Elm - knowledge]]
 - [[Eln - make something open]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emr - life]]
 - [[Emy - blindness]]
 - [[End - near]]
@@ -87,11 +87,11 @@ Originator · 45 ayahs
 - [[Ezz - all-mighty]]
 - [[Hkm - prevent restrain someone]]
 - [[Hll - lawful]]
-- [[Hlm - hlm]]
-- [[Hly - hly]]
+- [[Hlm - forbearing]]
+- [[Hly - being sweet becoming]]
 - [[Hmd - praise]]
 - [[Hml - bear]]
-- [[Hmr - hmr]]
+- [[Hmr - color red]]
 
 ## Sample (ayah 1)
 

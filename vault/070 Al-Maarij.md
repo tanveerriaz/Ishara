@@ -15,83 +15,83 @@ The Ascending Stairways · 44 ayahs
 ## Words in this surah (graph)
 
 - [[sA}l - ask]] — `سائِل` · ask
-- [[>mAnp - trusts]] — `أَمانَة` · trusts
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[qA}m - standing]] — `قائِم` · standing
-- [[yTmE - hope]] — `يَطْمَعُ` · hope
-- [[ylAq - they meet]] — `يُلاقُ` · they meet
-- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[xA$E - humbled]] — `خاشِع` · humbled
-- [[lys - not]] — `لَيْسَ` · not
-- [[m$fq - fearful]] — `مُشْفِق` · fearful
-- [[snp - years]] — `سَنَة` · years
-- [[SAHbp - wife]] — `صاحِبَة` · wife
-- [[mHrwm - deprived]] — `مَحْرُوم` · deprived
-- [[AftdY - she ransoms]] — `افْتَدَى` · she ransoms
-- [[mqdAr - due proportion]] — `مِقْدار` · due proportion
+- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
+- [[jmyE - all]] — `جَمِيع` · all
+- [[>rD - earth]] — `أَرْض` · earth
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[mgrb - west]] — `مَغْرِب` · west
+- [[wAqE - would fall]] — `واقِع` · would fall
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
 - [[m$rq - east]] — `مَشْرِق` · east
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[Hq - truth]] — `حَقّ` · truth
-- [[E*Ab - punishment]] — `عَذاب` · punishment
-- [[$hAdp - witnessed]] — `شَهادَة` · witnessed
-- [[mlkt - possess]] — `مَلَكَتْ` · possess
-- [[rb - lord]] — `رَبّ` · lord
-- [[ms - touch]] — `مَسَّ` · touch
+- [[Elm - know]] — `عَلِمَ` · know
+- [[mElwm - known]] — `مَعْلُوم` · known
+- [[dyn - religion]] — `دِين` · religion
+- [[m$fq - fearful]] — `مُشْفِق` · fearful
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[qbl - before]] — `قَبْل` · before
+- [[Sdq - truth]] — `صَدَقَ` · truth
+- [[qAdr - able]] — `قادِر` · able
+- [[nEym - delight]] — `نَعِيم` · delight
+- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[wrA' - behind]] — `وَراء` · behind
+- [[>dbr - turned back]] — `أَدْبَرَ` · turned back
+- [[>mAnp - trusts]] — `أَمانَة` · trusts
+- [[mjrm - criminals]] — `مُجْرِم` · criminals
+- [[SlAp - prayer]] — `صَلاة` · prayer
+- [[AwY - gave shelter]] — `آوَى` · gave shelter
 
 ## Roots
 
-- [[$fq - shfq]]
-- [[$hd - shhd]]
+- [[$fq - fear]]
+- [[$hd - witnessing]]
 - [[$ml - include encompass something]]
-- [[$rq - east]]
+- [[$rq - earth]]
 - [[$rr - sparks fire]]
 - [[*ll - humiliation]]
-- [[>lf - alifa]]
-- [[>mn - amn]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>lf - become familiar]]
+- [[>mn - believe]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>wy - betake oneself place]]
-- [[>xw - akhw]]
-- [[E*b - edhb]]
-- [[Edw - enemy]]
-- [[Ehd - ehd]]
+- [[>xw - brother]]
+- [[E*b - motes particles floating]]
+- [[Edw - turn]]
+- [[Ehd - protection safeguard]]
 - [[Elm - knowledge]]
-- [[Erj - erj]]
-- [[HfZ - hfzh]]
-- [[Hmm - hmm]]
+- [[Erj - ascend mount]]
+- [[HfZ - keep]]
+- [[Hmm - blackness being intensely]]
 - [[Hqq - established as true]]
 - [[Hrm - reverence]]
 - [[SHb - lord]]
 - [[Sbr - confine restrain]]
 - [[Sdq - speak truth]]
 - [[Slw - prayer]]
-- [[TmE - tme]]
+- [[TmE - covet desire something]]
 - [[allah - God]]
 - [[bEd - become distant]]
-- [[bSr - bsr]]
-- [[bdl - badala]]
+- [[bSr - mental perception]]
+- [[bdl - change alter]]
 - [[bgy - seek desire something]]
 - [[bny - sons]]
 - [[dEw - call]]
-- [[dbr - dbr]]
-- [[dfE - dfe]]
+- [[dbr - turn back]]
+- [[dfE - impel]]
 - [[dwm - birds circling]]
 - [[dxl - enter]]
 - [[dyn - judgment]]
 - [[fSl - separate]]
-- [[fdy - fdy]]
-- [[frj - frj]]
+- [[fdy - ransom redeem someone]]
+- [[frj - open make space]]
 - [[grb - distance west]]
 - [[gyr - ghayr]]
-- [[hTE - hte]]
-- [[jbl - jbl]]
-- [[jdv - jdth]]
-- [[jmE - jme]]
+- [[hTE - racing ahead]]
+- [[jbl - large company multitude]]
+- [[jdv - grave sepulchre]]
+- [[jmE - collection]]
 - [[jml - male camel]]
-- [[jnn - jann]]
-- [[jrm - jrm]]
+- [[jnn - cover]]
+- [[jrm - criminals]]
 
 ## Sample (ayah 1)
 

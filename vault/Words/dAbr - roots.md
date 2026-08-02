@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[dbr - dbr]]
+- [[dbr - turn back]]
 
 ### Meaning
 **roots** · Lemma **دابِر**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:45 · [[006 Al-Anam]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So the people that committed wrong were eliminated. And praise to Allāh, Lord of the worlds.
 
 **English (Yusuf Ali):** Of the wrong-doers the last remnant was cut off. Praise be to Allah, the Cherisher of the worlds.
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض ظالم لوگوں کی جڑ کاٹ دی گئی۔ اور سب تعریف خدائے رب العالمین ہی کو (سزاوار ہے)
 
 [Open on Quran.com](https://quran.com/6/45)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We saved him and those who adhered to him. By Our mercy, and We cut off the roots of those who rejected Our signs and did not believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے ہود کو اور جو لوگ ان کے ساتھ تھے ان کو نجات بخشی اور جنہوں نے ہماری آیتوں کو جھٹلایا تھا ان کی جڑ کاٹ دی اور وہ ایمان لانے والے تھے ہی نہیں
+
 [Open on Quran.com](https://quran.com/7/72)
 
 #### 8:7 · [[008 Al-Anfal]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! Allah promised you one of the two (enemy) parties, that it should be yours: Ye wished that the one unarmed should be yours, but Allah willed to justify the Truth according to His words and to cut off the roots of the Unbelievers;-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس وقت کو یاد کرو) جب خدا تم سے وعدہ کرتا تھا کہ (ابوسفیان اور ابوجہل کے) دو گروہوں میں سے ایک گروہ تمہارا (مسخر) ہوجائے گا۔ اور تم چاہتے تھے کہ جو قافلہ بے (شان و) شوکت (یعنی بے ہتھیار ہے) وہ تمہارے ہاتھ آجائے اور خدا چاہتا تھا کہ اپنے فرمان سے حق کو قائم رکھے اور کافروں کی جڑ کاٹ کر (پھینک) دے
+
 [Open on Quran.com](https://quran.com/8/7)
 
 #### 15:66 · [[015 Al-Hijr]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We conveyed to him [the decree] of that matter: that those [sinners] would be eliminated by early morning.
 
 **English (Yusuf Ali):** And We made known this decree to him, that the last remnants of those (sinners) should be cut off by the morning.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے لوط کی طرف وحی بھیجی کہ ان لوگوں کی جڑ صبح ہوتے ہوتے کاٹ دی جائے گی
 
 [Open on Quran.com](https://quran.com/15/66)
 

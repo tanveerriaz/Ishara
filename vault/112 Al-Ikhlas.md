@@ -14,11 +14,11 @@ The Sincerity · 4 ayahs
 
 ## Words in this surah (graph)
 
-- [[kAn - is]] — `كانَ` · is
-- [[wld - children]] — `وَلَد` · children
 - [[qAl - say]] — `قالَ` · say
-- [[allah - God]] — `الله` · God
 - [[>Hd - anyone]] — `أَحَد` · anyone
+- [[allah - God]] — `الله` · God
+- [[wld - children]] — `وَلَد` · children
+- [[kAn - is]] — `كانَ` · is
 
 ## Roots
 

@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:43 · [[007 Al-Araf]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We will have removed whatever is within their breasts of resentment, [while] flowing beneath them are rivers. And they will say, "Praise to Allāh, who has guided us to this; and we would never have been guided if Allāh had not guided us. Certainly the messengers of our Lord had come with the truth." And they will be called, "This is Paradise, which you have been made to inherit for what you used to do."
 
 **English (Yusuf Ali):** And We shall remove from their hearts any lurking sense of injury;- beneath them will be rivers flowing;- and they shall say: "Praise be to Allah, who hath guided us to this (felicity): never could we have found guidance, had it not been for the guidance of Allah: indeed it was the truth, that the messengers of our Lord brought unto us." And they shall hear the cry: "Behold! the garden before you! Ye have been made its inheritors, for your deeds (of righteousness)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کینے ان کے دلوں میں ہوں گے ہم سب نکال ڈالیں گے۔ ان کے محلوں کے نیچے نہریں بہہ رہی ہوں گی اور کہیں گے کہ خدا کا شکر ہے جس نے ہم کو یہاں کا راستہ دکھایا اور اگر خدا ہم کو رستہ نہ دکھاتا تو ہم رستہ نہ پا سکتے۔ بےشک ہمارا پروردگار کے رسول حق بات لے کر آئے تھے اور (اس روز) منادی کر دی جائے گی کہ تم ان اعمال کے صلے میں جو دنیا میں کرتے تھے اس بہشت کے وارث بنا دیئے گئے ہو
 
 [Open on Quran.com](https://quran.com/7/43)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Said Moses to his people: "Pray for help from Allah, and (wait) in patience and constancy: for the earth is Allah's, to give as a heritage to such of His servants as He pleaseth; and the end is (best) for the righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے اپنی قوم سے کہا کہ خدا سے مدد مانگو اور ثابت قدم رہو۔ زمین تو خدا کی ہے۔ وہ اپنے بندوں میں سے جسے چاہتا ہے اس کا مالک بناتا ہے۔ اور آخر بھلا تو ڈرنے والوں کا ہے
+
 [Open on Quran.com](https://quran.com/7/128)
 
 #### 7:137 · [[007 Al-Araf]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We caused the people who had been oppressed to inherit the eastern regions of the land and the western ones, which We had blessed. And the good word [i.e., decree] of your Lord was fulfilled for the Children of Israel because of what they had patiently endured. And We destroyed [all] that Pharaoh and his people were producing and what they had been building.
 
 **English (Yusuf Ali):** And We made a people, considered weak (and of no account), inheritors of lands in both east and west, - lands whereon We sent down Our blessings. The fair promise of thy Lord was fulfilled for the Children of Israel, because they had patience and constancy, and We levelled to the ground the great works and fine buildings which Pharaoh and his people erected (with such pride).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ کمزور سمجھے جاتے تھے ان کو زمین (شام) کے مشرق ومغرب کا جس میں ہم نے برکت دی تھی وارث کردیا اور بنی اسرائیل کے بارے میں ان کے صبر کی وجہ سے تمہارے پروردگار کا وعدہٴ نیک پورا ہوا اور فرعون اور قوم فرعون جو (محل) بناتے اور (انگور کے باغ) جو چھتریوں پر چڑھاتے تھے سب کو ہم نے تباہ کردیا
 
 [Open on Quran.com](https://quran.com/7/137)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Such is the Garden which We give as an inheritance to those of Our servants who guard against Evil.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہی وہ جنت ہے جس کا ہم اپنے بندوں میں سے ایسے شخص کو وارث بنائیں گے جو پرہیزگار ہوگا
+
 [Open on Quran.com](https://quran.com/19/63)
 
 #### 26:59 · [[026 Ash-Shuara]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Thus. And We caused to inherit it the Children of Israel.
 
 **English (Yusuf Ali):** Thus it was, but We made the Children of Israel inheritors of such things.
+
+**Urdu (Fatah Muhammad Jalandhari):** (ان کے ساتھ ہم نے) اس طرح (کیا) اور ان چیزوں کا وارث بنی اسرائیل کو کر دیا
 
 [Open on Quran.com](https://quran.com/26/59)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And He made you heirs of their lands, their houses, and their goods, and of a land which ye had not frequented (before). And Allah has power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اُن کی زمین اور ان کے گھروں اور ان کے مال کا اور اس زمین کا جس میں تم نے پاؤں بھی نہیں رکھا تھا تم کو وارث بنا دیا۔ اور خدا ہر چیز پر قدرت رکھتا ہے
+
 [Open on Quran.com](https://quran.com/33/27)
 
 #### 35:32 · [[035 Fatir]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then We caused to inherit the Book those We have chosen of Our servants; and among them is he who wrongs himself [i.e., sins], and among them is he who is moderate, and among them is he who is foremost in good deeds by permission of Allāh. That [inheritance] is what is the great bounty.
 
 **English (Yusuf Ali):** Then We have given the Book for inheritance to such of Our Servants as We have chosen: but there are among them some who wrong their own souls; some who follow a middle course; and some who are, by Allah's leave, foremost in good deeds; that is the highest Grace.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے ان لوگوں کو کتاب کا وارث ٹھیرایا جن کو اپنے بندوں میں سے برگزیدہ کیا۔ تو کچھ تو ان میں سے اپنے آپ پر ظلم کرتے ہیں۔ اور کچھ میانہ رو ہیں۔ اور کچھ خدا کے حکم سے نیکیوں میں آگے نکل جانے والے ہیں۔ یہی بڑا فضل ہے
 
 [Open on Quran.com](https://quran.com/35/32)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They will say: "Praise be to Allah, Who has truly fulfilled His Promise to us, and has given us (this) land in heritage: We can dwell in the Garden as we will: how excellent a reward for those who work (righteousness)!"
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہیں گے کہ خدا کا شکر ہے جس نے اپنے وعدہ کو ہم سے سچا کردیا اور ہم کو اس زمین کا وارث بنا دیا ہم بہشت میں جس مکان میں چاہیں رہیں تو (اچھے) عمل کرنے والوں کا بدلہ بھی کیسا خوب ہے
+
 [Open on Quran.com](https://quran.com/39/74)
 
 #### 40:53 · [[040 Ghafir]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We did aforetime give Moses the (Book of) Guidance, and We gave the book in inheritance to the Children of Israel,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو ہدایت (کی کتاب) دی اور بنی اسرائیل کو اس کتاب کا وارث بنایا
+
 [Open on Quran.com](https://quran.com/40/53)
 
 #### 42:14 · [[042 Ash-Shuraa]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they did not become divided until after knowledge had come to them - out of jealous animosity between themselves. And if not for a word that preceded from your Lord [postponing the penalty] until a specified time, it would have been concluded between them. And indeed, those who were granted inheritance of the Scripture after them are, concerning it, in disquieting doubt.
 
 **English (Yusuf Ali):** And they became divided only after Knowledge reached them,- through selfish envy as between themselves. Had it not been for a Word that went forth before from thy Lord, (tending) to a Term appointed, the matter would have been settled between them: But truly those who have inherited the Book after them are in suspicious (disquieting) doubt concerning it.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ جو الگ الگ ہوئے ہیں تو علم (حق) آچکنے کے بعد آپس کی ضد سے (ہوئے ہیں)۔ اور اگر تمہارے پروردگار کی طرف سے ایک وقت مقرر تک کے لئے بات نہ ٹھہر چکی ہوتی تو ان میں فیصلہ کردیا جاتا۔ اور جو لوگ ان کے بعد (خدا کی) کتاب کے وارث ہوئے وہ اس (کی طرف) سے شبہے کی الجھن میں (پھنسے ہوئے) ہیں
 
 [Open on Quran.com](https://quran.com/42/14)
 

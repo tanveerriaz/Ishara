@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mqt - mqt]]
+- [[mqt - hatred]]
 
 ### Meaning
 **hatred** · Lemma **مَقْت**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:22 · [[004 An-Nisa]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not marry those [women] whom your fathers married, except what has already occurred. Indeed, it was an immorality and hateful [to Allāh] and was evil as a way.
 
 **English (Yusuf Ali):** And marry not women whom your fathers married,- except what is past: It was shameful and odious,- an abominable custom indeed.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن عورتوں سے تمہارے باپ نے نکاح کیا ہو ان نکاح مت کرنا (مگر جاہلیت میں) جو ہوچکا (سوہوچکا) یہ نہایت بےحیائی اور (خدا کی) ناخوشی کی بات تھی۔ اور بہت برا دستور تھا
 
 [Open on Quran.com](https://quran.com/4/22)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He it is That has made you inheritors in the earth: if, then, any do reject (Allah), their rejection (works) against themselves: their rejection but adds to the odium for the Unbelievers in the sight of their Lord: their rejection but adds to (their own) undoing.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم کو زمین میں (پہلوں کا) جانشین بنایا۔ تو جس نے کفر کیا اس کے کفر کا ضرر اسی کو ہے۔ اور کافروں کے حق میں ان کے کفر سے پروردگار کے ہاں ناخوشی ہی بڑھتی ہے اور کافروں کو ان کا کفر نقصان ہی زیادہ کرتا ہے
+
 [Open on Quran.com](https://quran.com/35/39)
 
 #### 40:10 · [[040 Ghafir]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who disbelieve will be addressed, "The hatred of Allāh for you was [even] greater than your hatred of yourselves [this Day in Hell] when you were invited to faith, but you disbelieved [i.e., refused]."
 
 **English (Yusuf Ali):** The Unbelievers will be addressed: "Greater was the aversion of Allah to you than (is) your aversion to yourselves, seeing that ye were called to the Faith and ye used to refuse."
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے کفر کیا ان سے پکار کر کہہ دیا جائے گا کہ جب تم (دنیا میں) ایمان کی طرف بلائے جاتے تھے اور مانتے نہیں تھے تو خدا اس سے کہیں زیادہ بیزار ہوتا تھا جس قدر تم اپنے آپ سے بیزار ہو رہے ہو
 
 [Open on Quran.com](https://quran.com/40/10)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "(Such) as dispute about the Signs of Allah, without any authority that hath reached them, grievous and odious (is such conduct) in the sight of Allah and of the Believers. Thus doth Allah, seal up every heart - of arrogant and obstinate Transgressors."
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ بغیر اس کے کہ ان کے پاس کوئی دلیل آئی ہو خدا کی آیتوں میں جھگڑتے ہیں۔ خدا کے نزدیک اور مومنوں کے نزدیک یہ جھگڑا سخت ناپسند ہے۔ اسی طرح خدا ہر متکبر سرکش کے دل پر مہر لگا دیتا ہے
+
 [Open on Quran.com](https://quran.com/40/35)
 
 #### 61:3 · [[061 As-Saf]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Greatly hateful in the sight of Allāh is that you say what you do not do.
 
 **English (Yusuf Ali):** Grievously odious is it in the sight of Allah that ye say that which ye do not.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا اس بات سے سخت بیزار ہے کہ ایسی بات کہو جو کرو نہیں
 
 [Open on Quran.com](https://quran.com/61/3)
 

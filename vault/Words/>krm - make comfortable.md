@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[krm - krm]]
+- [[krm - noble]]
 
 ### Meaning
 **make comfortable** · Lemma **أَكْرَمَ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 12:21 · [[012 Yusuf]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the one from Egypt who bought him said to his wife, "Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son." And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know.
 
 **English (Yusuf Ali):** The man in Egypt who bought him, said to his wife: "Make his stay (among us) honourable: may be he will bring us much good, or we shall adopt him as a son." Thus did We establish Joseph in the land, that We might teach him the interpretation of stories (and events). And Allah hath full power and control over His affairs; but most among mankind know it not.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مصر میں جس شخص نے اس کو خریدا اس نے اپنی بیوی سے (جس کا نام زلیخا تھا) کہا کہ اس کو عزت واکرام سے رکھو عجب نہیں کہ یہ ہمیں فائدہ دے یا ہم اسے بیٹا بنالیں۔ اس طرح ہم نے یوسف کو سرزمین (مصر) میں جگہ دی اور غرض یہ تھی کہ ہم ان کو (خواب کی) باتوں کی تعبیر سکھائیں اور خدا اپنے کام پر غالب ہے لیکن اکثر لوگ نہیں جانتے
 
 [Open on Quran.com](https://quran.com/12/21)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O mankind! We created you from a single (pair) of a male and a female, and made you into nations and tribes, that ye may know each other (not that ye may despise (each other). Verily the most honoured of you in the sight of Allah is (he who is) the most righteous of you. And Allah has full knowledge and is well acquainted (with all things).
 
+**Urdu (Fatah Muhammad Jalandhari):** لوگو! ہم نے تم کو ایک مرد اور ایک عورت سے پیدا کیا اور تمہاری قومیں اور قبیلے بنائے۔ تاکہ ایک دوسرے کو شناخت کرو۔ اور خدا کے نزدیک تم میں زیادہ عزت والا وہ ہے جو زیادہ پرہیزگار ہے۔ بےشک خدا سب کچھ جاننے والا (اور) سب سے خبردار ہے
+
 [Open on Quran.com](https://quran.com/49/13)
 
 #### 89:15 · [[089 Al-Fajr]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And as for man, when his Lord tries him and [thus] is generous to him and favors him, he says, "My Lord has honored me."
 
 **English (Yusuf Ali):** Now, as for man, when his Lord trieth him, giving him honour and gifts, then saith he, (puffed up), "My Lord hath honoured me."
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر انسان (عجیب مخلوق ہے کہ) جب اس کا پروردگار اس کو آزماتا ہے تو اسے عزت دیتا اور نعمت بخشتا ہے۔ تو کہتا ہے کہ (آہا) میرے پروردگار نے مجھے عزت بخشی
 
 [Open on Quran.com](https://quran.com/89/15)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nay, nay! but ye honour not the orphans!
 
+**Urdu (Fatah Muhammad Jalandhari):** نہیں بلکہ تم لوگ یتیم کی خاطر نہیں کرتے
+
 [Open on Quran.com](https://quran.com/89/17)
 
 #### 96:3 · [[096 Al-Alaq]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Recite, and your Lord is the most Generous -
 
 **English (Yusuf Ali):** Proclaim! And thy Lord is Most Bountiful,-
+
+**Urdu (Fatah Muhammad Jalandhari):** پڑھو اور تمہارا پروردگار بڑا کریم ہے
 
 [Open on Quran.com](https://quran.com/96/3)
 

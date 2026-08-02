@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:105 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Neither those who disbelieve from the People of the Scripture [i.e., the Jews and Christians] nor the polytheists wish that any good should be sent down to you from your Lord. But Allāh selects for His mercy whom He wills, and Allāh is the possessor of great bounty.
 
 **English (Yusuf Ali):** It is never the wish of those without Faith among the People of the Book, nor of the Pagans, that anything good should come down to you from your Lord. But Allah will choose for His special Mercy whom He will - for Allah is Lord of grace abounding.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں، اہل کتاب یا مشرک وہ اس بات کو پسند نہیں کرتے کہ تم پر تمہارے پروردگار کی طرف سے خیر (وبرکت) نازل ہو۔ اور خدا تو جس کو چاہتا ہے، اپنی رحمت کے ساتھ خاص کر لیتا ہے اور خدا بڑے فضل کا مالک ہے
 
 [Open on Quran.com](https://quran.com/2/105)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Quite a number of the People of the Book wish they could Turn you (people) back to infidelity after ye have believed, from selfish envy, after the Truth hath become Manifest unto them: But forgive and overlook, Till Allah accomplish His purpose; for Allah Hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** بہت سے اہل کتاب اپنے دل کی جلن سے یہ چاہتے ہیں کہ ایمان لا چکنے کے بعد تم کو پھر کافر بنا دیں۔ حالانکہ ان پر حق ظاہر ہو چکا ہے۔ تو تم معاف کردو اور درگزر کرو۔ یہاں تک کہ خدا اپنا (دوسرا) حکم بھیجے۔ بے شک خدا ہر بات پر قادر ہے
+
 [Open on Quran.com](https://quran.com/2/109)
 
 #### 2:126 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] when Abraham said, "My Lord, make this a secure city and provide its people with fruits - whoever of them believes in Allāh and the Last Day." [Allāh] said, "And whoever disbelieves - I will grant him enjoyment for a little; then I will force him to the punishment of the Fire, and wretched is the destination."
 
 **English (Yusuf Ali):** And remember Abraham said: "My Lord, make this a City of Peace, and feed its people with fruits,-such of them as believe in Allah and the Last Day." He said: "(Yea), and such as reject Faith,-for a while will I grant them their pleasure, but will soon drive them to the torment of Fire,- an evil destination (indeed)!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے دعا کی کہ اے پروردگار، اس جگہ کو امن کا شہر بنا اور اس کے رہنے والوں میں سے جو خدا پر اور روزِ آخرت پر ایمان لائیں، ان کے کھانے کو میوے عطا کر، تو خدا نے فرمایا کہ جو کافر ہوگا، میں اس کو بھی کسی قدر متمتع کروں گا، (مگر) پھر اس کو (عذاب) دوزخ کے (بھگتنے کے) لیے ناچار کردوں گا، اور وہ بری جگہ ہے
 
 [Open on Quran.com](https://quran.com/2/126)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And complete the Hajj or 'umra in the service of Allah. But if ye are prevented (From completing it), send an offering for sacrifice, such as ye may find, and do not shave your heads until the offering reaches the place of sacrifice. And if any of you is ill, or has an ailment in his scalp, (Necessitating shaving), (He should) in compensation either fast, or feed the poor, or offer sacrifice; and when ye are in peaceful conditions (again), if any one wishes to continue the 'umra on to the hajj, He must make an offering, such as he can afford, but if he cannot afford it, He should fast three days during the hajj and seven days on his return, Making ten days in all. This is for those whose household is not in (the precincts of) the Sacred Mosque. And fear Allah, and know that Allah Is strict in punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی خوشنودی) کے لئے حج اور عمرے کو پورا کرو۔ اور اگر (راستےمیں) روک لئے جاؤ تو جیسی قربانی میسر ہو (کردو) اور جب تک قربانی اپنے مقام پر نہ پہنچ جائے سر نہ منڈاؤ۔ اور اگر کوئی تم میں بیمار ہو یا اس کے سر میں کسی طرح کی تکلیف ہو تو (اگر وہ سر منڈالے تو) اس کے بدلے روزے رکھے یا صدقہ دے یا قربانی کرے پھر جب (تکلیف دور ہو کر) تم مطمئن ہوجاؤ تو جو (تم میں) حج کے وقت تک عمرے سے فائدہ اٹھانا چاہے وہ جیسی قربانی میسر ہو کرے۔ اور جس کو (قربانی) نہ ملے وہ تین روزے ایام حج میں رکھے اور سات جب واپس ہو۔ یہ پورے دس ہوئے۔ یہ حکم اس شخص کے لئے ہے جس کے اہل وعیال مکے میں نہ رہتے ہوں اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا سخت عذاب دینے والا ہے
+
 [Open on Quran.com](https://quran.com/2/196)
 
 #### 2:217 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They ask you about the sacred month - about fighting therein. Say, "Fighting therein is great [sin], but averting [people] from the way of Allāh and disbelief in Him and [preventing access to] al-Masjid al-Ḥarām and the expulsion of its people therefrom are greater [evil] in the sight of Allāh. And fitnah is greater than killing." And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire; they will abide therein eternally.
 
 **English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
 
 [Open on Quran.com](https://quran.com/2/217)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "O People of the Book! come to common terms as between us and you: That we worship none but Allah; that we associate no partners with him; that we erect not, from among ourselves, Lords and patrons other than Allah." If then they turn back, say ye: "Bear witness that we (at least) are Muslims (bowing to Allah's Will).
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اے اہل کتاب جو بات ہمارے اور تمہارے دونوں کے درمیان یکساں (تسلیم کی گئی) ہے اس کی طرف آؤ وہ یہ کہ خدا کے سوا ہم کسی کی عبادت نہ کریں اور اس کے ساتھ کسی چیز کو شریک نہ بنائیں اور ہم میں سے کوئی کسی کو خدا کے سوا اپنا کار ساز نہ سمجھے اگر یہ لوگ (اس بات کو) نہ مانیں تو (ان سے) کہہ دو کہ تم گواہ رہو کہ ہم (خدا کے) فرماں بردار ہیں
+
 [Open on Quran.com](https://quran.com/3/64)
 
 #### 3:65 · [[003 Ali Imran]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O People of the Scripture, why do you argue about Abraham while the Torah and the Gospel were not revealed until after him? Then will you not reason?
 
 **English (Yusuf Ali):** Ye People of the Book! Why dispute ye about Abraham, when the Law and the Gospel Were not revealed Till after him? Have ye no understanding?
+
+**Urdu (Fatah Muhammad Jalandhari):** اے اہلِ کتاب تم ابراہیم کے بارے میں کیوں جھگڑتے ہو حالانکہ تورات اور انجیل ان کے بعد اتری ہیں (اور وہ پہلے ہو چکے ہیں) تو کیا تم عقل نہیں رکھتے
 
 [Open on Quran.com](https://quran.com/3/65)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is the wish of a section of the People of the Book to lead you astray. But they shall lead astray (Not you), but themselves, and they do not perceive!
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے اہل اسلام) بعضے اہلِ کتاب اس بات کی خواہش رکھتے ہیں کہ تم کو گمراہ کر دیں مگر یہ (تم کو کیا گمراہ کریں گے) اپنے آپ کو ہی گمراہ کر رہے ہیں اور نہیں جانتے
+
 [Open on Quran.com](https://quran.com/3/69)
 
 #### 3:70 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Ye People of the Book! Why reject ye the Signs of Allah, of which ye are (Yourselves) witnesses?
 
+**Urdu (Fatah Muhammad Jalandhari):** اے اہلِ کتاب تم خدا کی آیتوں سے کیوں انکار کرتے ہو اور تم (تورات کو) مانتے تو ہو
+
 [Open on Quran.com](https://quran.com/3/70)
 
 #### 3:71 · [[003 Ali Imran]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O People of the Scripture, why do you mix [i.e., confuse] the truth with falsehood and conceal the truth while you know [it]?
 
 **English (Yusuf Ali):** Ye People of the Book! Why do ye clothe Truth with falsehood, and conceal the Truth, while ye have knowledge?
+
+**Urdu (Fatah Muhammad Jalandhari):** اے اہلِ کتاب تم سچ کو جھوٹ کے ساتھ خلط ملط کیوں کرتے ہو اور حق کو کیوں چھپاتے ہو اور تم جانتے بھی ہو
 
 [Open on Quran.com](https://quran.com/3/71)
 

@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:85 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then, you are those [same ones who are] killing one another and evicting a party of your people from their homes, cooperating against them in sin and aggression. And if they come to you as captives, you ransom them, although their eviction was forbidden to you. So do you believe in part of the Scripture and disbelieve in part? Then what is the recompense for those who do that among you except disgrace in worldly life; and on the Day of Resurrection they will be sent back to the severest of punishment. And Allāh is not unaware of what you do.
 
 **English (Yusuf Ali):** After this it is ye, the same people, who slay among yourselves, and banish a party of you from their homes; assist (Their enemies) against them, in guilt and rancour; and if they come to you as captives, ye ransom them, though it was not lawful for you to banish them. Then is it only a part of the Book that ye believe in, and do ye reject the rest? but what is the reward for those among you who behave like this but disgrace in this life?- and on the Day of Judgment they shall be consigned to the most grievous penalty. For Allah is not unmindful of what ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر تم وہی ہو کہ اپنوں کو قتل بھی کر دیتے ہو اور اپنے میں سے بعض لوگوں پر گناہ اور ظلم سے چڑھائی کرکے انہیں وطن سے نکال بھی دیتے ہو، اور اگر وہ تمہارے پاس قید ہو کر آئیں تو بدلہ دے کر ان کو چھڑا بھی لیتے ہو، حالانکہ ان کا نکال دینا ہی تم کو حرام تھا۔ (یہ) کیا (بات ہے کہ) تم کتابِ (خدا) کے بعض احکام کو تو مانتے ہو اور بعض سے انکار کئے دیتے ہو، تو جو تم میں سے ایسی حرکت کریں، ان کی سزا اس کے سوا اور کیا ہو سکتی ہے کہ دنیا کی زندگی میں تو رسوائی ہو اور قیامت کے دن سخت سے سخت عذاب میں ڈال دیئے جائیں اور جو کام تم کرتے ہو، خدا ان سے غافل نہیں
 
 [Open on Quran.com](https://quran.com/2/85)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** These are the people who buy the life of this world at the price of the Hereafter: their penalty shall not be lightened nor shall they be helped.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے آخرت کے بدلے دنیا کی زندگی خریدی۔ سو نہ تو ان سے عذاب ہی ہلکا کیا جائے گا اور نہ ان کو (اور طرح کی) مدد ملے گی
+
 [Open on Quran.com](https://quran.com/2/86)
 
 #### 2:96 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And you will surely find them the most greedy of people for life - [even] more than those who associate others with Allāh. One of them wishes that he could be granted life a thousand years, but it would not remove him in the least from the [coming] punishment that he should be granted life. And Allāh is Seeing of what they do.
 
 **English (Yusuf Ali):** Thou wilt indeed find them, of all people, most greedy of life,-even more than the idolaters: Each one of them wishes He could be given a life of a thousand years: But the grant of such life will not save him from (due) punishment. For Allah sees well all that they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ ان کو تم اور لوگوں سے زندگی کے کہیں حریص دیکھو گے، یہاں تک کہ مشرکوں سے بھی۔ ان میں سے ہر ایک یہی خواہش کرتا ہے کہ کاش وہ ہزار برس جیتا رہے، مگر اتنی لمبی عمر اس کو مل بھی جائے تو اسے عذاب سے تو نہیں چھڑا سکتی۔ اور جو کام یہ کرتے ہیں، خدا ان کو دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/2/96)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In the Law of Equality there is (saving of) Life to you, o ye men of understanding; that ye may restrain yourselves.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اے اہل عقل (حکم) قصاص میں (تمہاری) زندگانی ہے کہ تم (قتل و خونریزی سے) بچو
+
 [Open on Quran.com](https://quran.com/2/179)
 
 #### 2:204 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And of the people is he whose speech pleases you in worldly life, and he calls Allāh to witness as to what is in his heart, yet he is the fiercest of opponents.
 
 **English (Yusuf Ali):** There is the type of man whose speech about this world's life May dazzle thee, and he calls Allah to witness about what is in his heart; yet is he the most contentious of enemies.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کوئی شخص تو ایسا ہے جس کی گفتگو دنیا کی زندگی میں تم کو دلکش معلوم ہوتی ہے اور وہ اپنی مانی الضمیر پر خدا کو گواہ بناتا ہے حالانکہ وہ سخت جھگڑالو ہے
 
 [Open on Quran.com](https://quran.com/2/204)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The life of this world is alluring to those who reject faith, and they scoff at those who believe. But the righteous will be above them on the Day of Resurrection; for Allah bestows His abundance without measure on whom He will.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کافر ہیں ان کے لئے دنیا کی زندگی خوشنما کر دی گئی ہے اور وہ مومنوں سے تمسخر کرتے ہیں لیکن جو پرہیز گار ہیں وہ قیامت کے دن ان پر غالب ہوں گے اور خدا جس کو چاہتا ہے بےشمار رزق دیتا ہے
+
 [Open on Quran.com](https://quran.com/2/212)
 
 #### 3:14 · [[003 Ali Imran]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allāh has with Him the best return [i.e., Paradise].
 
 **English (Yusuf Ali):** Fair in the eyes of men is the love of things they covet: Women and sons; Heaped-up hoards of gold and silver; horses branded (for blood and excellence); and (wealth of) cattle and well-tilled land. Such are the possessions of this world's life; but in nearness to Allah is the best of the goals (To return to).
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/3/14)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** What they spend in the life of this (material) world May be likened to a wind which brings a nipping frost: It strikes and destroys the harvest of men who have wronged their own souls: it is not Allah that hath wronged them, but they wrong themselves.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ جو مال دنیا کی زندگی میں خرچ کرتے ہیں اس کی مثال ہوا کی سی ہے جس میں سخت سردی ہو اور وہ ایسے لوگوں کی کھیتی پر جو اپنے آپ پر ظلم کرتے تھے چلے اور اسے تباہ کر دے اور خدا نے ان پر کچھ ظلم نہیں کیا بلکہ یہ خود اپنے اوپر ظلم کر رہے ہیں
+
 [Open on Quran.com](https://quran.com/3/117)
 
 #### 3:185 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Every soul shall have a taste of death: And only on the Day of Judgment shall you be paid your full recompense. Only he who is saved far from the Fire and admitted to the Garden will have attained the object (of Life): For the life of this world is but goods and chattels of deception.
 
+**Urdu (Fatah Muhammad Jalandhari):** ہر متنفس کو موت کا مزا چکھنا ہے اور تم کو قیامت کے دن تمہارے اعمال کا پورا پورا بدلا دیا جائے گا۔ تو جو شخص آتش جہنم سے دور رکھا گیا اور بہشت میں داخل کیا گیا وہ مراد کو پہنچ گیا اور دنیا کی زندگی تو دھوکے کا سامان ہے
+
 [Open on Quran.com](https://quran.com/3/185)
 
 #### 4:74 · [[004 An-Nisa]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So let those fight in the cause of Allāh who sell the life of this world for the Hereafter. And he who fights in the cause of Allāh and is killed or achieves victory - We will bestow upon him a great reward.
 
 **English (Yusuf Ali):** Let those fight in the cause of Allah Who sell the life of this world for the hereafter. To him who fighteth in the cause of Allah,- whether he is slain or gets victory - Soon shall We give him a reward of great (value).
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جو لوگ آخرت (کو خریدتے اور اس) کے بدلے دنیا کی زندگی کو بیچنا چاہتے ہیں اُن کو چاہیئے کہ خدا کی راہ میں جنگ کریں اور جو شخص خدا کی راہ میں جنگ کرے اور شہید ہوجائے یا غلبہ پائے ہم عنقریب اس کو بڑا ثواب دیں گے
 
 [Open on Quran.com](https://quran.com/4/74)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nwb - nwb]]
+- [[nwb - turns]]
 
 ### Meaning
 **turning** · Lemma **مُنِيب**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:75 · [[011 Hud]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Abraham was forbearing, grieving and [frequently] returning [to Allāh].
 
 **English (Yusuf Ali):** For Abraham was, without doubt, forbearing (of faults), compassionate, and given to look to Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** بےشک ابراہیم بڑے تحمل والے، نرم دل اور رجوع کرنے والے تھے
 
 [Open on Quran.com](https://quran.com/11/75)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Turn ye back in repentance to Him, and fear Him: establish regular prayers, and be not ye among those who join gods with Allah,-
 
+**Urdu (Fatah Muhammad Jalandhari):** (مومنو) اُسی (خدا )کی طرف رجوع کئے رہو اور اس سے ڈرتے رہو اور نماز پڑھتے رہو اور مشرکوں میں نہ ہونا
+
 [Open on Quran.com](https://quran.com/30/31)
 
 #### 30:33 · [[030 Ar-Rum]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when adversity touches the people, they call upon their Lord, turning in repentance to Him. Then when He lets them taste mercy from Him, at once a party of them associate others with their Lord,
 
 **English (Yusuf Ali):** When trouble touches men, they cry to their Lord, turning back to Him in repentance: but when He gives them a taste of Mercy as from Himself, behold, some of them pay part-worship to other god's besides their Lord,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب لوگوں کو تکلیف پہنچتی ہے تو اپنے پروردگار کو پکارتے اور اسی کی طرف رجوع ہوتے ہیں۔ پھر جب وہ ان کو اپنی رحمت کا مزا چکھاتا ہے تو ایک فرقہ اُن میں سے اپنے پروردگار سے شرک کرنے لگتا ہے
 
 [Open on Quran.com](https://quran.com/30/33)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** See they not what is before them and behind them, of the sky and the earth? If We wished, We could cause the earth to swallow them up, or cause a piece of the sky to fall upon them. Verily in this is a Sign for every devotee that turns to Allah (in repentance).
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے اس کو نہیں دیکھا جو ان کے آگے اور پیچھے ہے یعنی آسمان اور زمین۔ اگر ہم چاہیں تو ان کو زمین میں دھنسا دیں یا ان پر آسمان کے ٹکڑے گرا دیں۔ اس میں ہر بندے کے لئے جو رجوع کرنے والا ہے ایک نشانی ہے
+
 [Open on Quran.com](https://quran.com/34/9)
 
 #### 39:8 · [[039 Az-Zumar]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when adversity touches man, he calls upon his Lord, turning to Him [alone]; then when He bestows on him a favor from Himself, he forgets Him whom he called upon before, and he attributes to Allāh equals to mislead [people] from His way. Say, "Enjoy your disbelief for a little; indeed, you are of the companions of the Fire."
 
 **English (Yusuf Ali):** When some trouble toucheth man, he crieth unto his Lord, turning to Him in repentance: but when He bestoweth a favour upon him as from Himself, (man) doth forget what he cried and prayed for before, and he doth set up rivals unto Allah, thus misleading others from Allah's Path. Say, "Enjoy thy blasphemy for a little while: verily thou art (one) of the Companions of the Fire!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب انسان کو تکلیف پہنچتی ہے تو اپنے پروردگار کو پکارتا (اور) اس کی طرف دل سے رجوع کرتا ہے۔ پھر جب وہ اس کو اپنی طرف سے کوئی نعمت دیتا ہے تو جس کام کے لئے پہلے اس کو پکارتا ہے اسے بھول جاتا ہے اور خدا کا شریک بنانے لگتا ہے تاکہ (لوگوں کو) اس کے رستے سے گمراہ کرے۔ کہہ دو کہ (اے کافر نعمت) اپنی ناشکری سے تھوڑا سا فائدہ اٹھالے۔ پھر تُو تو دوزخیوں میں ہوگا
 
 [Open on Quran.com](https://quran.com/39/8)
 
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To be observed and commemorated by every devotee turning (to Allah).
 
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ رجوع لانے والے بندے ہدایت اور نصیحت حاصل کریں
+
 [Open on Quran.com](https://quran.com/50/8)
 
 #### 50:33 · [[050 Qaf]]
@@ -139,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who feared the Most Merciful in the unseen and came with a heart returning [in repentance].
 
 **English (Yusuf Ali):** "Who feared (Allah) Most Gracious Unseen, and brought a heart turned in devotion (to Him):
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا سے بن دیکھے ڈرتا ہے اور رجوع لانے والا دل لے کر آیا
 
 [Open on Quran.com](https://quran.com/50/33)
 

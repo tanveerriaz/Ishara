@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[smE - sense ear]]
+- [[smE - hearing]]
 
 ### Meaning
 **listen** · Lemma **اسْتَمَعَ**
@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:25 · [[006 Al-Anam]]
 
@@ -52,6 +52,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And among them are those who listen to you, but We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And if they should see every sign, they will not believe in it. Even when they come to you arguing with you, those who disbelieve say, "This is not but legends of the former peoples."
 
 **English (Yusuf Ali):** Of them there are some who (pretend to) listen to thee; but We have thrown veils on their hearts, So they understand it not, and deafness in their ears; if they saw every one of the signs, not they will believe in them; in so much that when they come to thee, they (but) dispute with thee; the Unbelievers say: "These are nothing but tales of the ancients."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں بعض ایسے ہیں کہ تمہاری (باتوں کی) طرف کان رکھتے ہیں۔ اور ہم نے ان کے دلوں پر تو پردے ڈال دیئے ہیں کہ ان کو سمجھ نہ سکیں اور کانوں میں ثقل پیدا کردیا ہے (کہ سن نہ سکیں) اور اگر یہ تمام نشانیاں بھی دیکھ لیں تب بھی ان پر ایمان نہ لائیں۔ یہاں تک کہ جب تمہارے پاس تم سے بحث کرنے کو آتے ہیں تو جو کافر ہیں کہتے ہیں یہ (قرآن) اور کچھ بھی نہیں صرف پہلے لوگوں کی کہانیاں ہیں
 
 [Open on Quran.com](https://quran.com/6/25)
 
@@ -69,6 +71,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When the Qur'an is read, listen to it with attention, and hold your peace: that ye may receive Mercy.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب قرآن پڑھا جائے تو توجہ سے سنا کرو اور خاموش رہا کرو تاکہ تم پر رحم کیا جائے
+
 [Open on Quran.com](https://quran.com/7/204)
 
 #### 10:42 · [[010 Yunus]]
@@ -84,6 +88,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And among them are those who listen to you. But can you cause the deaf to hear [i.e., benefit from this hearing], although they will not use reason?
 
 **English (Yusuf Ali):** Among them are some who (pretend to) listen to thee: But canst thou make the deaf to hear,- even though they are without understanding?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے بعض ایسے ہیں کہ تمہاری طرف کان لگاتے ہیں تو کیا تم بہروں کو سناؤ گے اگرچہ کچھ بھی (سنتے) سمجھتے نہ ہوں
 
 [Open on Quran.com](https://quran.com/10/42)
 
@@ -101,6 +107,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We know best why it is they listen, when they listen to thee; and when they meet in private conference, behold, the wicked say, "Ye follow none other than a man bewitched!"
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ لوگ جب تمہاری طرف کان لگاتے ہیں تو جس نیت سے یہ سنتے ہیں ہم اسے خوب جانتے ہیں اور جب یہ سرگوشیاں کرتے ہیں (یعنی) جب ظالم کہتے ہیں کہ تم ایک ایسے شخص کی پیروی کرتے ہو جس پر جادو کیا گیا ہے
+
 [Open on Quran.com](https://quran.com/17/47)
 
 #### 20:13 · [[020 Taha]]
@@ -116,6 +124,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And I have chosen you, so listen to what is revealed [to you].
 
 **English (Yusuf Ali):** "I have chosen thee: listen, then, to the inspiration (sent to thee).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور میں نے تم کو انتخاب کرلیا ہے تو جو حکم دیا جائے اسے سنو
 
 [Open on Quran.com](https://quran.com/20/13)
 
@@ -133,6 +143,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Never comes (aught) to them of a renewed Message from their Lord, but they listen to it as in jest,-
 
+**Urdu (Fatah Muhammad Jalandhari):** ان کے پاس کوئی نئی نصیحت ان کے پروردگار کی طرف سے نہیں آتی مگر وہ اسے کھیلتے ہوئے سنتے ہیں
+
 [Open on Quran.com](https://quran.com/21/2)
 
 #### 22:73 · [[022 Al-Hajj]]
@@ -148,6 +160,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O people, an example is presented, so listen to it. Indeed, those you invoke besides Allāh will never create [as much as] a fly, even if they gathered together for it [i.e., that purpose]. And if the fly should steal from them a [tiny] thing, they could not recover it from him. Weak are the pursuer and pursued.
 
 **English (Yusuf Ali):** O men! Here is a parable set forth! listen to it! Those on whom, besides Allah, ye call, cannot create (even) a fly, if they all met together for the purpose! and if the fly should snatch away anything from them, they would have no power to release it from the fly. Feeble are those who petition and those whom they petition!
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو! ایک مثال بیان کی جاتی ہے اسے غور سے سنو۔ کہ جن لوگوں کو تم خدا کے سوا پکارتے ہو وہ ایک مکھی بھی نہیں بنا سکتے اگرچہ اس کے لئے سب مجتمع ہوجائیں۔ اور اگر ان سے مکھی کوئی چیز لے جائے تو اسے اس سے چھڑا نہیں سکتے۔ طالب اور مطلوب (یعنی عابد اور معبود دونوں) گئے گزرے ہیں
 
 [Open on Quran.com](https://quran.com/22/73)
 
@@ -165,6 +179,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Pharaoh) said to those around: "Did ye not listen (to what he says)?"
 
+**Urdu (Fatah Muhammad Jalandhari):** فرعون نے اپنے اہالی موالی سے کہا کہ کیا تم سنتے نہیں
+
 [Open on Quran.com](https://quran.com/26/25)
 
 #### 39:18 · [[039 Az-Zumar]]
@@ -181,6 +197,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who listen to the Word, and follow the best (meaning) in it: those are the ones whom Allah has guided, and those are the ones endued with understanding.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو بات کو سنتے اور اچھی باتوں کی پیروی کرتے ہیں۔ یہی وہ لوگ ہیں جن کو خدا نے ہدایت دی اور یہی عقل والے ہیں
+
 [Open on Quran.com](https://quran.com/39/18)
 
 #### 46:29 · [[046 Al-Ahqaf]]
@@ -196,6 +214,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when We directed to you a few of the jinn, listening to the Qur’ān. And when they attended it, they said, "Listen attentively." And when it was concluded, they went back to their people as warners.
 
 **English (Yusuf Ali):** Behold, We turned towards thee a company of Jinns (quietly) listening to the Qur'an: when they stood in the presence thereof, they said, "Listen in silence!" When the (reading) was finished, they returned to their people, to warn (them of their sins).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے جنوں میں سے کئی شخص تمہاری طرف متوجہ کئے کہ قرآن سنیں۔ تو جب وہ اس کے پاس آئے تو (آپس میں) کہنے لگے کہ خاموش رہو۔ جب (پڑھنا) تمام ہوا تو اپنی برادری کے لوگوں میں واپس گئے کہ (ان کو) نصیحت کریں
 
 [Open on Quran.com](https://quran.com/46/29)
 

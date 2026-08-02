@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Erf - erf]]
+- [[Erf - right]]
 
 ### Meaning
 **have acknowledged** · Lemma **اعْتَرَفُ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:102 · [[009 At-Tawbah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [there are] others who have acknowledged their sins. They had mixed [i.e., polluted] a righteous deed with another that was bad. Perhaps Allāh will turn to them in forgiveness. Indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** Others (there are who) have acknowledged their wrong-doings: they have mixed an act that was good with another that was evil. Perhaps Allah will turn unto them (in Mercy): for Allah is Oft-Forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کچھ اور لوگ ہیں کہ اپنے گناہوں کا (صاف) اقرار کرتے ہیں انہوں نے اچھے برے عملوں کو ملا جلا دیا تھا۔ قریب ہے کہ خدا ان پر مہربانی سے توجہ فرمائے۔ بےشک خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/9/102)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They will say: "Our Lord! twice hast Thou made us without life, and twice hast Thou given us Life! Now have we recognised our sins: Is there any way out (of this)?"
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہیں گے کہ اے ہمارے پروردگار تو نے ہم کو دو دفعہ بےجان کیا اور دو دفعہ جان بخشی۔ ہم کو اپنے گناہوں کا اقرار ہے تو کیا نکلنے کی کوئی سبیل ہے؟
+
 [Open on Quran.com](https://quran.com/40/11)
 
 #### 67:11 · [[067 Al-Mulk]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they will admit their sin, so [it is] alienation for the companions of the Blaze.
 
 **English (Yusuf Ali):** They will then confess their sins: but far will be (Forgiveness) from the Companions of the Blazing Fire!
+
+**Urdu (Fatah Muhammad Jalandhari):** پس وہ اپنے گناہ کا اقرار کرلیں گے۔ سو دوزخیوں کے لئے (رحمت خدا سے) دور ہی ہے
 
 [Open on Quran.com](https://quran.com/67/11)
 

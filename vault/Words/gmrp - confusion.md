@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[gmr - gmr]]
+- [[gmr - confusion]]
 
 ### Meaning
 **confusion** · Lemma **غَمَرَة**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:93 · [[006 Al-Anam]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And who is more unjust than one who invents a lie about Allāh or says, "It has been inspired to me," while nothing has been inspired to him, and one who says, "I will reveal [something] like what Allāh revealed." And if you could but see when the wrongdoers are in the overwhelming pangs of death while the angels extend their hands, [saying], "Discharge your souls! Today you will be awarded the punishment of [extreme] humiliation for what you used to say against Allāh other than the truth and [that] you were, toward His verses, being arrogant."
 
 **English (Yusuf Ali):** Who can be more wicked than one who inventeth a lie against Allah, or saith, "I have received inspiration," when he hath received none, or (again) who saith, "I can reveal the like of what Allah hath revealed"? If thou couldst but see how the wicked (do fare) in the flood of confusion at death! - the angels stretch forth their hands, (saying),"Yield up your souls: this day shall ye receive your reward,- a penalty of shame, for that ye used to tell lies against Allah, and scornfully to reject of His signs!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے بڑھ کر ظالم کون ہوگا جو خدا پر جھوٹ افتراء کرے۔ یا یہ کہے کہ مجھ پر وحی آئی ہے حالانکہ اس پر کچھ بھی وحی نہ آئی ہو اور جو یہ کہے کہ جس طرح کی کتاب خدا نے نازل کی ہے اس طرح کی میں بھی بنا لیتا ہوں۔ اور کاش تم ان ظالم (یعنی مشرک) لوگوں کو اس وقت دیکھو جب موت کی سختیوں میں (مبتلا) ہوں اور فرشتے (ان کی طرف عذاب کے لئے) ہاتھ بڑھا رہے ہوں کہ نکالو اپنی جانیں۔ آج تم کو ذلت کے عذاب کی سزا دی جائے گی اس لئے کہ تم خدا پر جھوٹ بولا کرتے تھے اور اس کی آیتوں سے سرکشی کرتے تھے
 
 [Open on Quran.com](https://quran.com/6/93)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But leave them in their confused ignorance for a time.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کو ایک مدت تک ان کی غفلت میں رہنے دو
+
 [Open on Quran.com](https://quran.com/23/54)
 
 #### 23:63 · [[023 Al-Muminun]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But their hearts are in confused ignorance of this; and there are, besides that, deeds of theirs, which they will (continue) to do,-
 
+**Urdu (Fatah Muhammad Jalandhari):** مگر ان کے دل ان (باتوں) کی طرف سے غفلت میں (پڑے ہوئے) ہیں، اور ان کے سوا اور اعمال بھی ہیں جو یہ کرتے رہتے ہیں
+
 [Open on Quran.com](https://quran.com/23/63)
 
 #### 51:11 · [[051 Adh-Dhariyat]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who are within a flood [of confusion] and heedless.
 
 **English (Yusuf Ali):** Those who (flounder) heedless in a flood of confusion:
+
+**Urdu (Fatah Muhammad Jalandhari):** جو بےخبری میں بھولے ہوئے ہیں
 
 [Open on Quran.com](https://quran.com/51/11)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[frq - faraqa]]
+- [[frq - separate]]
 
 ### Meaning
 **they differentiate** · Lemma **فَرَقْ**
@@ -35,7 +35,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:50 · [[002 Al-Baqarah]]
 
@@ -50,6 +50,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We parted the sea for you and saved you and drowned the people of Pharaoh while you were looking on.
 
 **English (Yusuf Ali):** And remember We divided the sea for you and saved you and drowned Pharaoh's people within your very sight.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے تمہارے لیے دریا کو پھاڑ دیا تم کو نجات دی اور فرعون کی قوم کو غرق کر دیا اور تم دیکھ ہی تو رہے تھے
 
 [Open on Quran.com](https://quran.com/2/50)
 
@@ -67,6 +69,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They followed what the evil ones gave out (falsely) against the power of Solomon: the blasphemers Were, not Solomon, but the evil ones, teaching men Magic, and such things as came down at babylon to the angels Harut and Marut. But neither of these taught anyone (Such things) without saying: "We are only for trial; so do not blaspheme." They learned from them the means to sow discord between man and wife. But they could not thus harm anyone except by Allah's permission. And they learned what harmed them, not what profited them. And they knew that the buyers of (magic) would have no share in the happiness of the Hereafter. And vile was the price for which they did sell their souls, if they but knew!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
+
 [Open on Quran.com](https://quran.com/2/102)
 
 #### 2:136 · [[002 Al-Baqarah]]
@@ -82,6 +86,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O believers], "We have believed in Allāh and what has been revealed to us and what has been revealed to Abraham and Ishmael and Isaac and Jacob and the Descendants [al-Asbāṭ] and what was given to Moses and Jesus and what was given to the prophets from their Lord. We make no distinction between any of them, and we are Muslims [in submission] to Him."
 
 **English (Yusuf Ali):** Say ye: "We believe in Allah, and the revelation given to us, and to Abraham, Isma'il, Isaac, Jacob, and the Tribes, and that given to Moses and Jesus, and that given to (all) prophets from their Lord: We make no difference between one and another of them: And we bow to Allah (in Islam)."
+
+**Urdu (Fatah Muhammad Jalandhari):** (مسلمانو) کہو کہ ہم خدا پر ایمان لائے اور جو (کتاب) ہم پر اتری، اس پر اور جو (صحیفے) ابراہیم اور اسمٰعیل اور اسحاق اور یعقوب اور ان کی اولاد پر نازل ہوئے ان پر اور جو (کتابیں) موسیٰ اور عیسی کو عطا ہوئیں، ان پر، اور جو اور پیغمبروں کو ان کے پروردگار کی طرف سے ملیں، ان پر (سب پر ایمان لائے) ہم ان پیغمروں میں سے کسی میں کچھ فرق نہیں کرتے اور ہم اسی (خدائے واحد) کے فرمانبردار ہیں
 
 [Open on Quran.com](https://quran.com/2/136)
 
@@ -99,6 +105,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Messenger believeth in what hath been revealed to him from his Lord, as do the men of faith. Each one (of them) believeth in Allah, His angels, His books, and His messengers. "We make no distinction (they say) between one and another of His messengers." And they say: "We hear, and we obey: (We seek) Thy forgiveness, our Lord, and to Thee is the end of all journeys."
 
+**Urdu (Fatah Muhammad Jalandhari):** رسول (خدا) اس کتاب پر جو ان کے پروردگار کی طرف سے ان پر نازل ہوئی ایمان رکھتے ہیں اور مومن بھی۔ سب خدا پر اور اس کے فرشتوں پر اور اس کی کتابوں پر اور اس کے پیغمبروں پر ایمان رکھتے ہیں (اورکہتے ہیں کہ) ہم اس کے پیغمبروں سے کسی میں کچھ فرق نہیں کرتے اور وہ (خدا سے) عرض کرتے ہیں کہ ہم نے (تیرا حکم) سنا اور قبول کیا۔ اے پروردگار ہم تیری بخشش مانگتے ہیں اور تیری ہی طرف لوٹ کر جانا ہے
+
 [Open on Quran.com](https://quran.com/2/285)
 
 #### 3:84 · [[003 Ali Imran]]
@@ -114,6 +122,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "We have believed in Allāh and in what was revealed to us and what was revealed to Abraham, Ishmael, Isaac, Jacob, and the Descendants [al-Asbāṭ], and in what was given to Moses and Jesus and to the prophets from their Lord. We make no distinction between any of them, and we are Muslims [submitting] to Him."
 
 **English (Yusuf Ali):** Say: "We believe in Allah, and in what has been revealed to us and what was revealed to Abraham, Isma'il, Isaac, Jacob, and the Tribes, and in (the Books) given to Moses, Jesus, and the prophets, from their Lord: We make no distinction between one and another among them, and to Allah do we bow our will (in Islam)."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ ہم خدا پر ایمان لائے اور جو کتاب ہم پر نازل ہوئی اور جو صحیفے ابراہیم اور اسماعیل اور اسحٰق اور یعقوب اور ان کی اولاد پر اترے اور جو کتابیں موسیٰ اور عیسیٰ اور دوسرے انبیاء کو پروردگار کی طرف سے ملیں سب پر ایمان لائے ہم ان پیغمبروں میں سے کسی میں کچھ فرق نہیں کرتے اور ہم اسی (خدائے واحد) کے فرماں بردار ہیں
 
 [Open on Quran.com](https://quran.com/3/84)
 
@@ -131,6 +141,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who deny Allah and His messengers, and (those who) wish to separate Allah from His messengers, saying: "We believe in some but reject others": And (those who) wish to take a course midway,-
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا سے اور اس کے پیغمبروں سے کفر کرتے ہیں اور خدا اور اس کے پیغمبروں میں فرق کرنا چاہتے ہیں اور کہتے ہیں کہ ہم بعض کو مانتے ہیں اور بعض کو نہیں مانتے اور ایمان اور کفر کے بیچ میں ایک راہ نکالنی چاہتے ہیں
+
 [Open on Quran.com](https://quran.com/4/150)
 
 #### 4:152 · [[004 An-Nisa]]
@@ -146,6 +158,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But they who believe in Allāh and His messengers and do not discriminate between any of them - to those He is going to give their rewards. And ever is Allāh Forgiving and Merciful.
 
 **English (Yusuf Ali):** To those who believe in Allah and His messengers and make no distinction between any of the messengers, we shall soon give their (due) rewards: for Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا اور اس کے پیغمبروں پر ایمان لائے اور ان میں سے کسی میں فرق نہ کیا (یعنی سب کو مانا) ایسے لوگوں کو وہ عنقریب ان (کی نیکیوں) کے صلے عطا فرمائے گا اور خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/4/152)
 
@@ -163,6 +177,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "O my Lord! I have power only over myself and my brother: so separate us from this rebellious people!"
 
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے (خدا سے) التجا کی کہ پروردگار میں اپنے اور اپنے بھائی کے سوا اور کسی پر اختیار نہیں رکھتا تو ہم میں اور ان نافرمان لوگوں میں جدائی کردے
+
 [Open on Quran.com](https://quran.com/5/25)
 
 #### 6:159 · [[006 Al-Anam]]
@@ -179,6 +195,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** As for those who divide their religion and break up into sects, thou hast no part in them in the least: their affair is with Allah: He will in the end tell them the truth of all that they did.
 
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے اپنے دین میں (بہت سے) رستے نکالے اور کئی کئی فرقے ہو گئے ان سے تم کو کچھ کام نہیں ان کا کام خدا کے حوالے پھر جو کچھ وہ کرتے رہے ہیں وہ ان کو (سب) بتائے گا
+
 [Open on Quran.com](https://quran.com/6/159)
 
 #### 9:56 · [[009 At-Tawbah]]
@@ -194,6 +212,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they swear by Allāh that they are from among you while they are not from among you; but they are a people who are afraid.
 
 **English (Yusuf Ali):** They swear by Allah that they are indeed of you; but they are not of you: yet they are afraid (to appear in their true colours).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا کی قسمیں کھاتے ہیں کہ وہ تم ہی میں سے ہیں حالانکہ ہو تم میں سے نہیں ہیں۔ اصل یہ ہے کہ یہ ڈرپوک لوگ ہیں
 
 [Open on Quran.com](https://quran.com/9/56)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bxs - bakhs]]
+- [[bxs - diminish]]
 
 ### Meaning
 **deprive** · Lemma **يَبْخَسْ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:282 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, when you contract a debt for a specified term, write it down. And let a scribe write [it] between you in justice. Let no scribe refuse to write as Allāh has taught him. So let him write and let the one who has the obligation [i.e., the debtor] dictate. And let him fear Allāh, his Lord, and not leave anything out of it. But if the one who has the obligation is of limited understanding or weak or unable to dictate himself, then let his guardian dictate in justice. And bring to witness two witnesses from among your men. And if there are not two men [available], then a man and two women from those whom you accept as witnesses - so that if one of them [i.e., the women] errs, then the other can remind her. And let not the witnesses refuse when they are called upon. And do not be [too] weary to write it, whether it is small or large, for its [specified] term. That is more just in the sight of Allāh and stronger as evidence and more likely to prevent doubt between you, except when it is an immediate transaction which you conduct among yourselves. For [then] there is no blame upon you if you do not write it. And take witnesses when you conclude a contract. Let no scribe be harmed or any witness. For if you do so, indeed, it is [grave] disobedience in you. And fear Allāh. And Allāh teaches you. And Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah; For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/2/282)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To the Madyan people We sent Shu'aib, one of their own brethren: he said: "O my people! worship Allah; Ye have no other god but Him. Now hath come unto you a clear (Sign) from your Lord! Give just measure and weight, nor withhold from the people the things that are their due; and do no mischief on the earth after it has been set in order: that will be best for you, if ye have Faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور مَدین کی طرف ان کے بھائی شعیب کو بھیجا۔ (تو) انہوں نے کہا کہ قوم! خدا ہی کی عبادت کرو اس کے سوا تمہارا کوئی معبود نہیں۔ تمہارے پاس تمہارے پروردگار کی طرف سے نشانی آچکی ہے تو تم ناپ تول پوری کیا کرو اور لوگوں کو چیزیں کم نہ دیا کرو۔ اور زمین میں اصلاح کے بعد خرابی نہ کرو۔ اگر تم صاحب ایمان ہو تو سمجھ لو کہ یہ بات تمہارے حق میں بہتر ہے
+
 [Open on Quran.com](https://quran.com/7/85)
 
 #### 11:15 · [[011 Hud]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Whoever desires the life of this world and its adornments - We fully repay them for their deeds therein, and they therein will not be deprived.
 
 **English (Yusuf Ali):** Those who desire the life of the present and its glitter,- to them we shall pay (the price of) their deeds therein,- without diminution.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ دنیا کی زندگی اور اس کی زیب و زینت کے طالب ہوں ہم ان کے اعمال کا بدلہ انہیں دنیا میں ہی دے دیتے ہیں اور اس میں ان کی حق تلفی نہیں کی جاتی
 
 [Open on Quran.com](https://quran.com/11/15)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And O my people! give just measure and weight, nor withhold from the people the things that are their due: commit not evil in the land with intent to do mischief.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور قوم! ماپ اور تول انصاف کے ساتھ پوری پوری کیا کرو اور لوگوں کو ان کی چیزیں کم نہ دیا کرو اور زمین میں خرابی کرتے نہ پھرو
+
 [Open on Quran.com](https://quran.com/11/85)
 
 #### 26:183 · [[026 Ash-Shuara]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not deprive people of their due and do not commit abuse on earth, spreading corruption.
 
 **English (Yusuf Ali):** "And withhold not things justly due to men, nor do evil in the land, working mischief.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور لوگوں کو ان کی چیزیں کم نہ دیا کرو اور ملک میں فساد نہ کرتے پھرو
 
 [Open on Quran.com](https://quran.com/26/183)
 

@@ -40,7 +40,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:201 · [[002 Al-Baqarah]]
 
@@ -55,6 +55,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But among them is he who says, "Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire."
 
 **English (Yusuf Ali):** And there are men who say: "Our Lord! Give us good in this world and good in the Hereafter, and defend us from the torment of the Fire!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعضے ایسے ہیں کہ دعا کرتے ہیں کہ پروردگار ہم کو دنیا میں بھی نعمت عطا فرما اور آخرت میں بھی نعمت بخشیو اور دوزخ کے عذاب سے محفوظ رکھیو
 
 [Open on Quran.com](https://quran.com/2/201)
 
@@ -72,6 +74,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If aught that is good befalls you, it grieves them; but if some misfortune overtakes you, they rejoice at it. But if ye are constant and do right, not the least harm will their cunning do to you; for Allah Compasseth round about all that they do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر تمہیں آسودگی حاصل ہو تو ان کو بری لگتی ہے اور اگر رنج پہنچے تو خوش ہوتے ہیں اور اگر تم تکلیفوں کی برداشت اور (ان سے) کنارہ کشی کرتے رہو گے تو ان کا فریب تمھیں کچھ بھی نقصان نہ پہنچا سکے گا یہ جو کچھ کرتے ہیں خدا اس پر احاطہ کیے ہوئے ہے
+
 [Open on Quran.com](https://quran.com/3/120)
 
 #### 4:40 · [[004 An-Nisa]]
@@ -87,6 +91,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Allāh does not do injustice, [even] as much as an atom's weight; while if there is a good deed, He multiplies it and gives from Himself a great reward.
 
 **English (Yusuf Ali):** Allah is never unjust in the least degree: If there is any good (done), He doubleth it, and giveth from His own presence a great reward.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا کسی کی ذرا بھی حق تلفی نہیں کرتا اور اگر نیکی (کی) ہوگی تو اس کو دوچند کردے گا اور اپنے ہاں سے اجرعظیم بخشے گا
 
 [Open on Quran.com](https://quran.com/4/40)
 
@@ -104,6 +110,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Wherever ye are, death will find you out, even if ye are in towers built up strong and high!" If some good befalls them, they say, "This is from Allah"; but if evil, they say, "This is from thee" (O Prophet). Say: "All things are from Allah." But what hath come to these people, that they fail to understand a single fact?
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے جہاد سے ڈرنے والو) تم کہیں رہو موت تو تمہیں آ کر رہے گی خواہ بڑے بڑے محلوں میں رہو اور ان لوگوں کو اگر کوئی فائدہ پہنچتا ہے تو کہتے ہیں یہ خدا کی طرف سے ہے اور اگر کوئی گزند پہنچتا ہے تو (اے محمدﷺ تم سے) کہتے ہیں کہ یہ گزند آپ کی وجہ سے (ہمیں پہنچا) ہے کہہ دو کہ (رنج وراحت) سب الله ہی کی طرف سے ہے ان لوگوں کو کیا ہوگیا ہے کہ بات بھی نہیں سمجھ سکتے
+
 [Open on Quran.com](https://quran.com/4/78)
 
 #### 4:79 · [[004 An-Nisa]]
@@ -119,6 +127,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** What comes to you of good is from Allāh, but what comes to you of evil, [O man], is from yourself. And We have sent you, [O Muḥammad], to the people as a messenger, and sufficient is Allāh as Witness.
 
 **English (Yusuf Ali):** Whatever good, (O man!) happens to thee, is from Allah; but whatever evil happens to thee, is from thy (own) soul. and We have sent thee as a messenger to (instruct) mankind. And enough is Allah for a witness.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے (آدم زاد) تجھ کو جو فائدہ پہنچے وہ خدا کی طرف سے ہے اور جو نقصان پہنچے وہ تیری ہی (شامت اعمال) کی وجہ سے ہے اور (اے محمدﷺ) ہم نے تم کو لوگوں (کی ہدایت) کے لئے پیغمبر بنا کر بھیجا ہے اور (اس بات کا) خدا ہی گواہ کافی ہے
 
 [Open on Quran.com](https://quran.com/4/79)
 
@@ -136,6 +146,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whoever recommends and helps a good cause becomes a partner therein: And whoever recommends and helps an evil cause, shares in its burden: And Allah hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص نیک بات کی سفارش کرے تو اس کو اس (کے ثواب) میں سے حصہ ملے گا اور جو بری بات کی سفارش کرے اس کو اس (کے عذاب) میں سے حصہ ملے گا اور خدا ہر چیز پر قدرت رکھتا ہے
+
 [Open on Quran.com](https://quran.com/4/85)
 
 #### 6:160 · [[006 Al-Anam]]
@@ -151,6 +163,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Whoever comes [on the Day of Judgement] with a good deed will have ten times the like thereof [to his credit], and whoever comes with an evil deed will not be recompensed except the like thereof; and they will not be wronged.
 
 **English (Yusuf Ali):** He that doeth good shall have ten times as much to his credit: He that doeth evil shall only be recompensed according to his evil: no wrong shall be done unto (any of) them.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کوئی (خدا کے حضور) نیکی لے کر آئے گا اس کو ویسی دس نیکیاں ملیں گی اور جو برائی لائے گا اسے سزا ویسے ہی ملے گی اور ان پر ظلم نہیں کیا جائے گا
 
 [Open on Quran.com](https://quran.com/6/160)
 
@@ -168,6 +182,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then We changed their suffering into prosperity, until they grew and multiplied, and began to say: "Our fathers (too) were touched by suffering and affluence"... Behold! We called them to account of a sudden, while they realised not (their peril).
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے تکلیف کو آسودگی سے بدل دیا یہاں تک کہ (مال واولاد میں) زیادہ ہوگئے تو کہنے لگے کہ اس طرح کا رنج وراحت ہمارے بڑوں کو بھی پہنچتا رہا ہے تو ہم نے ان کو ناگہاں پکڑلیا اور وہ (اپنے حال میں) بےخبر تھے
+
 [Open on Quran.com](https://quran.com/7/95)
 
 #### 7:131 · [[007 Al-Araf]]
@@ -184,6 +200,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But when good (times) came, they said, "This is due to us;" When gripped by calamity, they ascribed it to evil omens connected with Moses and those with him! Behold! in truth the omens of evil are theirs in Allah's sight, but most of them do not understand!
 
+**Urdu (Fatah Muhammad Jalandhari):** تو جب ان کو آسائش حاصل ہوتی تو کہتے کہ ہم اس کے مستحق ہیں۔ اور اگر سختی پہنچتی تو موسیٰ اور ان کے رفیقوں کی بدشگونی بتاتے۔ دیکھو ان کی بدشگونی خدا کے ہاں مقرر ہے لیکن ان میں اکثر نہیں جانتے
+
 [Open on Quran.com](https://quran.com/7/131)
 
 #### 7:156 · [[007 Al-Araf]]
@@ -199,6 +217,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And decree for us in this world [that which is] good and [also] in the Hereafter; indeed, we have turned back to You." [Allāh] said, "My punishment - I afflict with it whom I will, but My mercy encompasses all things." So I will decree it [especially] for those who fear Me and give zakāh and those who believe in Our verses-
 
 **English (Yusuf Ali):** "And ordain for us that which is good, in this life and in the Hereafter: for we have turned unto Thee." He said: "With My punishment I visit whom I will; but My mercy extendeth to all things. That (mercy) I shall ordain for those who do right, and practise regular charity, and those who believe in Our signs;-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہمارے لیے اس دنیا میں بھی بھلائی لکھ دے اور آخرت میں بھی۔ ہم تیری طرف رجوع ہوچکے۔ فرمایا کہ جو میرا عذاب ہے اسے تو جس پر چاہتا ہوں نازل کرتا ہوں اور جو میری رحمت ہے وہ ہر چیز کو شامل ہے۔ میں اس کو ان لوگوں کے لیے لکھ دوں گا جو پرہیزگاری کرتے اور زکوٰة دیتے اور ہماری آیتوں پر ایمان رکھتے ہیں
 
 [Open on Quran.com](https://quran.com/7/156)
 

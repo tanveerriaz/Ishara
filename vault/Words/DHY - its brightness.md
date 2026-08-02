@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[DHw - dhw]]
+- [[DHw - actions performed during]]
 
 ### Meaning
 **its brightness** · Lemma **ضُحًى**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:98 · [[007 Al-Araf]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or did the people of the cities feel secure from Our punishment coming to them in the morning while they were at play?
 
 **English (Yusuf Ali):** Or else did they feel secure against its coming in broad daylight while they played about (care-free)?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کیا اہلِ شہر اس سے نڈر ہیں کہ ان پر ہمارا عذاب دن چڑھے آ نازل ہو اور وہ کھیل رہے ہوں
 
 [Open on Quran.com](https://quran.com/7/98)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Moses said: "Your tryst is the Day of the Festival, and let the people be assembled when the sun is well up."
 
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا آپ کے لئے (مقابلے کا) دن نو روز (مقرر کیا جاتا ہے) اور یہ کہ لوگ اس دن چاشت کے وقت اکھٹے ہوجائیں
+
 [Open on Quran.com](https://quran.com/20/59)
 
 #### 79:29 · [[079 An-Naziat]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He darkened its night and extracted its brightness.
 
 **English (Yusuf Ali):** Its night doth He endow with darkness, and its splendour doth He bring out (with light).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے رات کو تاریک بنایا اور (دن کو) دھوپ نکالی
 
 [Open on Quran.com](https://quran.com/79/29)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Day they see it, (It will be) as if they had tarried but a single evening, or (at most till) the following morn!
 
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ اس کو دیکھیں گے (تو ایسا خیال کریں گے) کہ گویا( دنیا میں صرف) ایک شام یا صبح رہے تھے
+
 [Open on Quran.com](https://quran.com/79/46)
 
 #### 91:1 · [[091 Ash-Shams]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** By the Sun and his (glorious) splendour;
 
+**Urdu (Fatah Muhammad Jalandhari):** سورج کی قسم اور اس کی روشنی کی
+
 [Open on Quran.com](https://quran.com/91/1)
 
 #### 93:1 · [[093 Ad-Duhaa]]
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** By the morning brightness
 
 **English (Yusuf Ali):** By the Glorious Morning Light,
+
+**Urdu (Fatah Muhammad Jalandhari):** آفتاب کی روشنی کی قسم
 
 [Open on Quran.com](https://quran.com/93/1)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[lyl - layl]]
+- [[lyl - night]]
 
 ### Meaning
 **nights** · Lemma **لَيْلَة**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:51 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We made an appointment with Moses for forty nights. Then you took [for worship] the calf after him [i.e., his departure], while you were wrongdoers.
 
 **English (Yusuf Ali):** And remember We appointed forty nights for Moses, and in his absence ye took the calf (for worship), and ye did grievous wrong.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے موسیٰ سے چالیس رات کا وعدہ کیا تو تم نے ان کے پیچھے بچھڑے کو (معبود) مقرر کر لیا اور تم ظلم کر رہے تھے
 
 [Open on Quran.com](https://quran.com/2/51)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Permitted to you, on the night of the fasts, is the approach to your wives. They are your garments and ye are their garments. Allah knoweth what ye used to do secretly among yourselves; but He turned to you and forgave you; so now associate with them, and seek what Allah Hath ordained for you, and eat and drink, until the white thread of dawn appear to you distinct from its black thread; then complete your fast Till the night appears; but do not associate with your wives while ye are in retreat in the mosques. Those are Limits (set by) Allah: Approach not nigh thereto. Thus doth Allah make clear His Signs to men: that they may learn self-restraint.
 
+**Urdu (Fatah Muhammad Jalandhari):** روزوں کی راتوں میں تمہارے لئے اپنی عورتوں کے پاس جانا کردیا گیا ہے وہ تمہاری پوشاک ہیں اور تم ان کی پوشاک ہو خدا کو معلوم ہے کہ تم (ان کے پاس جانے سے) اپنے حق میں خیانت کرتے تھے سو اس نے تم پر مہربانی کی اور تمہاری حرکات سےدرگزرفرمائی۔اب (تم کو اختیار ہے کہ) ان سے مباشرت کرو۔ اور خدا نے جو چیز تمہارے لئے لکھ رکھی ہے (یعنی اولاد) اس کو (خدا سے) طلب کرو اور کھاؤ پیو یہاں تک کہ صبح کی سفید دھاری (رات کی) سیاہ دھاری سے الگ نظر آنے لگے۔ پھر روزہ (رکھ کر) رات تک پورا کرو اور جب تم مسجدوں میں اعتکاف بیٹھے ہو تو ان سے مباشرت نہ کرو۔ یہ خدا کی حدیں ہیں ان کے پاس نہ جانا۔ اسی طرح خدا اپنی آیتیں لوگوں کے (سمجھانے کے) لئے کھول کھول کر بیان فرماتا ہے تاکہ وہ پرہیزگار بنیں
+
 [Open on Quran.com](https://quran.com/2/187)
 
 #### 7:142 · [[007 Al-Araf]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We made an appointment with Moses for thirty nights and perfected them by [the addition of] ten; so the term of his Lord was completed as forty nights. And Moses said to his brother Aaron, "Take my place among my people, do right [by them], and do not follow the way of the corrupters."
 
 **English (Yusuf Ali):** We appointed for Moses thirty nights, and completed (the period) with ten (more): thus was completed the term (of communion) with his Lord, forty nights. And Moses had charged his brother Aaron (before he went up): "Act for me amongst my people: Do right, and follow not the way of those who do mischief."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ سے تیس رات کی میعاد مقرر کی۔ اور اس دس (راتیں) اور ملا کر اسے پورا (چلّہ) کردیا تو اس کے پروردگار کی چالیس رات کی میعاد پوری ہوگئی۔ اور موسیٰ نے اپنے بھائی ہارون سے کہا کہ میرے (کوہِٰ طور پر جانے کے) بعد تم میری قوم میں میرے جانشین ہو (ان کی) اصلاح کرتے رہنا ٹھیک اور شریروں کے رستے نہ چلنا
 
 [Open on Quran.com](https://quran.com/7/142)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We sent it down during a Blessed Night: for We (ever) wish to warn (against Evil).
 
+**Urdu (Fatah Muhammad Jalandhari):** کہ ہم نے اس کو مبارک رات میں نازل فرمایا ہم تو رستہ دکھانے والے ہیں
+
 [Open on Quran.com](https://quran.com/44/3)
 
 #### 97:1 · [[097 Al-Qadr]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, We sent it [i.e., the Qur’ān] down during the Night of Decree.
 
 **English (Yusuf Ali):** We have indeed revealed this (Message) in the Night of Power:
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے اس( قرآن) کو شب قدر میں نازل (کرنا شروع) کیا
 
 [Open on Quran.com](https://quran.com/97/1)
 
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And what will explain to thee what the night of power is?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہیں کیا معلوم کہ شب قدر کیا ہے؟
+
 [Open on Quran.com](https://quran.com/97/2)
 
 #### 97:3 · [[097 Al-Qadr]]
@@ -138,6 +150,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The Night of Decree is better than a thousand months.
 
 **English (Yusuf Ali):** The Night of Power is better than a thousand months.
+
+**Urdu (Fatah Muhammad Jalandhari):** شب قدر ہزار مہینے سے بہتر ہے
 
 [Open on Quran.com](https://quran.com/97/3)
 

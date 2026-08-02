@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[trb - dust]]
+- [[trb - earth]]
 
 ### Meaning
 **well-matched** · Lemma **أَتْراب**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 38:52 · [[038 Sad]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And with them will be women limiting [their] glances and of equal age.
 
 **English (Yusuf Ali):** And beside them will be chaste women restraining their glances, (companions) of equal age.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے پاس نیچی نگاہ رکھنے والی (اور) ہم عمر (عورتیں) ہوں گی
 
 [Open on Quran.com](https://quran.com/38/52)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Beloved (by nature), equal in age,-
 
+**Urdu (Fatah Muhammad Jalandhari):** (اور شوہروں کی) پیاریاں اور ہم عمر
+
 [Open on Quran.com](https://quran.com/56/37)
 
 #### 78:33 · [[078 An-Naba]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And full-breasted [companions] of equal age.
 
 **English (Yusuf Ali):** And voluptuous women of equal age;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم عمر نوجوان عورتیں
 
 [Open on Quran.com](https://quran.com/78/33)
 

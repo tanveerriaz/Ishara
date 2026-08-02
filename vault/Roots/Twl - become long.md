@@ -12,7 +12,7 @@ tags: [root, meaning]
 **Sense:** become long · **Root:** طول
 
 ### Words (wikilinks — these create the graph)
-- [[TAl - grew long]]
+- [[TAl - then]]
 - [[Twl - afford]]
 
 ### Surahs where this root appears

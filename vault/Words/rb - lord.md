@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 1:2 · [[001 Al-Fatihah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [All] praise is [due] to Allāh, Lord of the worlds -
 
 **English (Yusuf Ali):** Praise be to Allah, the Cherisher and Sustainer of the worlds;
+
+**Urdu (Fatah Muhammad Jalandhari):** سب طرح کی تعریف خدا ہی کو (سزاوار) ہے جو تمام مخلوقات کا پروردگار ہے
 
 [Open on Quran.com](https://quran.com/1/2)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They are on (true) guidance, from their Lord, and it is these who will prosper.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ اپنے پروردگار (کی طرف) سے ہدایت پر ہیں اور یہی نجات پانے والے ہیں
+
 [Open on Quran.com](https://quran.com/2/5)
 
 #### 2:21 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O mankind, worship your Lord, who created you and those before you, that you may become righteous -
 
 **English (Yusuf Ali):** O ye people! Adore your Guardian-Lord, who created you and those who came before you, that ye may have the chance to learn righteousness;
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو! اپنے پروردگار کی عبات کرو جس نے تم کو اور تم سے پہلے لوگوں کو پیدا کیا تاکہ تم (اس کے عذاب سے) بچو
 
 [Open on Quran.com](https://quran.com/2/21)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah disdains not to use the similitude of things, lowest as well as highest. Those who believe know that it is truth from their Lord; but those who reject Faith say: "What means Allah by this similitude?" By it He causes many to stray, and many He leads into the right path; but He causes not to stray, except those who forsake (the path),-
 
+**Urdu (Fatah Muhammad Jalandhari):** الله اس بات سے عار نہیں کرتا کہ مچھر یا اس سے بڑھ کر کسی چیز (مثلاً مکھی مکڑی وغیرہ) کی مثال بیان فرمائے۔ جو مومن ہیں، وہ یقین کرتے ہیں وہ ان کے پروردگار کی طرف سے سچ ہے اور جو کافر ہیں وہ کہتے ہیں کہ اس مثال سے خدا کی مراد ہی کیا ہے۔ اس سے (خدا) بہتوں کو گمراہ کرتا ہے اور بہتوں کو ہدایت بخشتا ہے اور گمراہ بھی کرتا تو نافرمانوں ہی کو
+
 [Open on Quran.com](https://quran.com/2/26)
 
 #### 2:30 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when your Lord said to the angels, "Indeed, I will make upon the earth a successive authority." They said, "Will You place upon it one who causes corruption therein and sheds blood, while we exalt You with praise and declare Your perfection?" He [Allāh] said, "Indeed, I know that which you do not know."
 
 **English (Yusuf Ali):** Behold, thy Lord said to the angels: "I will create a vicegerent on earth." They said: "Wilt Thou place therein one who will make mischief therein and shed blood?- whilst we do celebrate Thy praises and glorify Thy holy (name)?" He said: "I know what ye know not."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (وہ وقت یاد کرنے کے قابل ہے) جب تمہارے پروردگار نے فرشتوں سے فرمایا کہ میں زمین میں (اپنا) نائب بنانے والا ہوں۔ انہوں نے کہا۔ کیا تُو اس میں ایسے شخص کو نائب بنانا چاہتا ہے جو خرابیاں کرے اور کشت وخون کرتا پھرے اور ہم تیری تعریف کے ساتھ تسبیح وتقدیس کرتے رہتے ہیں۔ (خدا نے) فرمایا میں وہ باتیں جانتا ہوں جو تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/2/30)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then learnt Adam from his Lord words of inspiration, and his Lord Turned towards him; for He is Oft-Returning, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر آدم نے اپنے پروردگار سے کچھ کلمات سیکھے (اور معافی مانگی) تو اس نے ان کا قصور معاف کر دیا بے شک وہ معاف کرنے والا (اور) صاحبِ رحم ہے
+
 [Open on Quran.com](https://quran.com/2/37)
 
 #### 2:46 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who are certain that they will meet their Lord and that they will return to Him.
 
 **English (Yusuf Ali):** Who bear in mind the certainty that they are to meet their Lord, and that they are to return to Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو یقین کئے ہوئے ہیں کہ وہ اپنے پروردگار سے ملنے والے ہیں اور اس کی طرف لوٹ کر جانے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/46)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember, We delivered you from the people of Pharaoh: They set you hard tasks and punishments, slaughtered your sons and let your women-folk live; therein was a tremendous trial from your Lord.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (ہمارے ان احسانات کو یاد کرو) جب ہم نے تم کو قومِ فرعون سے نجات بخشی وہ (لوگ) تم کو بڑا دکھ دیتے تھے تمہارے بیٹوں کو تو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
+
 [Open on Quran.com](https://quran.com/2/49)
 
 #### 2:61 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember ye said: "O Moses! we cannot endure one kind of food (always); so beseech thy Lord for us to produce for us of what the earth groweth, -its pot-herbs, and cucumbers, Its garlic, lentils, and onions." He said: "Will ye exchange the better for the worse? Go ye down to any town, and ye shall find what ye want!" They were covered with humiliation and misery; they drew on themselves the wrath of Allah. This because they went on rejecting the Signs of Allah and slaying His Messengers without just cause. This because they rebelled and went on transgressing.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے کہا کہ موسیٰ! ہم سے ایک (ہی) کھانے پر صبر نہیں ہو سکتا تو اپنے پروردگار سے دعا کیجئے کہ ترکاری اور ککڑی اور گیہوں اور مسور اور پیاز (وغیرہ) جو نباتات زمین سے اُگتی ہیں، ہمارے لیے پیدا کر دے۔ انہوں نے کہا کہ بھلا عمدہ چیزیں چھوڑ کر ان کے عوض ناقص چیزیں کیوں چاہتے ہوں۔ (اگر یہی چیزیں مطلوب ہیں) تو کسی شہر میں جا اترو، وہاں جو مانگتے ہو، مل جائے گا۔ اور (آخرکار) ذلت (ورسوائی) اور محتاجی (وبے نوائی) ان سے چمٹا دی گئی اور وہ الله کے غضب میں گرفتار ہو گئے۔ یہ اس لیے کہ وہ الله کی آیتوں سے انکار کرتے تھے اور (اس کے) نبیوں کو ناحق قتل کر دیتے تھے۔ (یعنی) یہ اس لیے کہ نافرمانی کئے جاتے اور حد سے بڑھے جاتے تھے
+
 [Open on Quran.com](https://quran.com/2/61)
 
 #### 2:62 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who believed and those who were Jews or Christians or Sabeans [before Prophet Muḥammad (ﷺ)] - those [among them] who believed in Allāh and the Last Day and did righteousness - will have their reward with their Lord, and no fear will there be concerning them, nor will they grieve.
 
 **English (Yusuf Ali):** Those who believe (in the Qur'an), and those who follow the Jewish (scriptures), and the Christians and the Sabians,- any who believe in Allah and the Last Day, and work righteousness, shall have their reward with their Lord; on them shall be no fear, nor shall they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ مسلمان ہیں یا یہودی یا عیسائی یا ستارہ پرست، (یعنی کوئی شخص کسی قوم و مذہب کا ہو) جو خدا اور روز قیامت پر ایمان لائے گا، اور نیک عمل کرے گا، تو ایسے لوگوں کو ان (کے اعمال) کا صلہ خدا کے ہاں ملے گا اور (قیامت کے دن) ان کو نہ کسی طرح کا خوف ہوگا اور نہ وہ غم ناک ہوں گے
 
 [Open on Quran.com](https://quran.com/2/62)
 

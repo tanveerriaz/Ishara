@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[slsl - slsl]]
+- [[slsl - chains]]
 
 ### Meaning
 **chains** · Lemma **سِلْسِلَة**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 40:71 · [[040 Ghafir]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** When the shackles are around their necks and the chains; they will be dragged
 
 **English (Yusuf Ali):** When the yokes (shall be) round their necks, and the chains; they shall be dragged along-
+
+**Urdu (Fatah Muhammad Jalandhari):** جب کہ ان کی گردنوں میں طوق اور زنجیریں ہوں گی (اور) گھسیٹے جائیں گے
 
 [Open on Quran.com](https://quran.com/40/71)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Further, make him march in a chain, whereof the length is seventy cubits!
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر زنجیر سے جس کی ناپ ستر گز ہے جکڑ دو
+
 [Open on Quran.com](https://quran.com/69/32)
 
 #### 76:4 · [[076 Al-Insan]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, We have prepared for the disbelievers chains and shackles and a blaze.
 
 **English (Yusuf Ali):** For the Rejecters we have prepared chains, yokes, and a blazing Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے کافروں کے لئے زنجیر اور طوق اور دہکتی آگ تیار کر رکھی ہے
 
 [Open on Quran.com](https://quran.com/76/4)
 

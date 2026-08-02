@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:259 · [[002 Al-Baqarah]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, "How will Allāh bring this to life after its death?" So Allāh caused him to die for a hundred years; then He revived him. He said, "How long have you remained?" He [the man] said, "I have remained a day or part of a day." He said, "Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh." And when it became clear to him, he said, "I know that Allāh is over all things competent."
 
 **English (Yusuf Ali):** Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall Allah bring it (ever) to life, after (this) its death?" but Allah caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that Allah hath power over all things."
+
+**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
 
 [Open on Quran.com](https://quran.com/2/259)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who created you from a single person, and made his mate of like nature, in order that he might dwell with her (in love). When they are united, she bears a light burden and carries it about (unnoticed). When she grows heavy, they both pray to Allah their Lord, (saying): "If Thou givest us a goodly child, we vow we shall (ever) be grateful."
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ خدا ہی تو ہے جس نے تم کو ایک شخص سے پیدا کیا اور اس سے اس کا جوڑا بنایا تاکہ اس سے راحت حاصل کرے۔ سو جب وہ اس کے پاس جاتا ہے تو اسے ہلکا سا حمل رہ جاتا ہے اور وہ اس کے ساتھ چلتی پھرتی ہے۔ پھر جب کچھ بوجھ معلوم کرتی یعنی بچہ پیٹ میں بڑا ہوتا ہے تو دونوں میاں بیوی اپنے پروردگار خدائے عزوجل سے التجا کرتے ہیں کہ اگر تو ہمیں صحیح وسالم (بچہ) دے گا تو ہم تیرے شکر گذار ہوں گے
+
 [Open on Quran.com](https://quran.com/7/189)
 
 #### 10:12 · [[010 Yunus]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when affliction touches man, he calls upon Us, whether lying on his side or sitting or standing; but when We remove from him his affliction, he continues [in disobedience] as if he had never called upon Us to [remove] an affliction that touched him. Thus is made pleasing to the transgressors that which they have been doing.
 
 **English (Yusuf Ali):** When trouble toucheth a man, He crieth unto Us (in all postures)- lying down on his side, or sitting, or standing. But when We have solved his trouble, he passeth on his way as if he had never cried to Us for a trouble that touched him! thus do the deeds of transgressors seem fair in their eyes!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب انسان کو تکلیف پہنچتی ہے تو لیٹا اور بیٹھا اور کھڑا (ہر حال میں) ہمیں پکارتا ہے۔ پھر جب ہم اس تکلیف کو اس سے دور کر دیتے ہیں تو (بےلحاظ ہو جاتا ہے اور) اس طرح گزر جاتا ہے گویا کسی تکلیف پہنچنے پر ہمیں کبھی پکارا ہی نہ تھا۔ اسی طرح حد سے نکل جانے والوں کو ان کے اعمال آراستہ کرکے دکھائے گئے ہیں
 
 [Open on Quran.com](https://quran.com/10/12)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Forthwith he (starts) constructing the Ark: Every time that the chiefs of his people passed by him, they threw ridicule on him. He said: "If ye ridicule us now, we (in our turn) can look down on you with ridicule likewise!
 
+**Urdu (Fatah Muhammad Jalandhari):** تو نوح نے کشتی بنانی شروع کردی۔ اور جب ان کی قوم کے سردار ان کے پاس سے گزرتے تو ان سے تمسخر کرتے۔ وہ کہتے کہ اگر تم ہم سے تمسخر کرتے ہو تو جس طرح تم ہم سے تمسخر کرتے ہو اس طرح (ایک وقت) ہم بھی تم سے تمسخر کریں گے
+
 [Open on Quran.com](https://quran.com/11/38)
 
 #### 12:105 · [[012 Yusuf]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And how many a sign within the heavens and earth do they pass over while they, therefrom, are turning away.
 
 **English (Yusuf Ali):** And how many Signs in the heavens and the earth do they pass by? Yet they turn (their faces) away from them!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور آسمان و زمین میں بہت سی نشانیاں ہیں جن پر یہ گزرتے ہیں اور ان سے اعراض کرتے ہیں
 
 [Open on Quran.com](https://quran.com/12/105)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who witness no falsehood, and, if they pass by futility, they pass by it with honourable (avoidance);
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ جو جھوٹی گواہی نہیں دیتے اور جب ان کو بیہودہ چیزوں کے پاس سے گزرنے کا اتفاق ہو تو بزرگانہ انداز سے گزرتے ہیں
+
 [Open on Quran.com](https://quran.com/25/72)
 
 #### 27:88 · [[027 An-Naml]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And you see the mountains, thinking them motionless, while they will pass as the passing of clouds. [It is] the work of Allāh, who perfected all things. Indeed, He is Aware of that which you do.
 
 **English (Yusuf Ali):** Thou seest the mountains and thinkest them firmly fixed: but they shall pass away as the clouds pass away: (such is) the artistry of Allah, who disposes of all things in perfect order: for he is well acquainted with all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم پہاڑوں کو دیکھتے ہو تو خیال کرتے ہو کہ (اپنی جگہ پر) کھڑے ہیں مگر وہ (اس روز) اس طرح اُڑے پھریں گے جیسے بادل۔ (یہ) خدا کی کاریگری ہے جس نے ہر چیز کو مضبوط بنایا۔ بےشک وہ تمہارے سب افعال سے باخبر ہے
 
 [Open on Quran.com](https://quran.com/27/88)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily, ye pass by their (sites), by day-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم دن کو بھی ان (کی بستیوں) کے پاس سے گزرتے رہتے ہو
+
 [Open on Quran.com](https://quran.com/37/137)
 
 #### 83:30 · [[083 Al-Mutaffifin]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they passed by them, they would exchange derisive glances.
 
 **English (Yusuf Ali):** And whenever they passed by them, used to wink at each other (in mockery);
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کے پاس سے گزرتے تو حقارت سے اشارے کرتے
 
 [Open on Quran.com](https://quran.com/83/30)
 

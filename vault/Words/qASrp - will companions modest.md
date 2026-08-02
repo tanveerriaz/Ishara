@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 37:48 · [[037 As-Saffat]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And with them will be women limiting [their] glances, with large, [beautiful] eyes,
 
 **English (Yusuf Ali):** And besides them will be chaste women, restraining their glances, with big eyes (of wonder and beauty).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے پاس عورتیں ہوں گی جو نگاہیں نیچی رکھتی ہوں گی اور آنکھیں بڑی بڑی
 
 [Open on Quran.com](https://quran.com/37/48)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And beside them will be chaste women restraining their glances, (companions) of equal age.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے پاس نیچی نگاہ رکھنے والی (اور) ہم عمر (عورتیں) ہوں گی
+
 [Open on Quran.com](https://quran.com/38/52)
 
 #### 55:56 · [[055 Ar-Rahman]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** In them are women limiting [their] glances, untouched before them by man or jinnī -
 
 **English (Yusuf Ali):** In them will be (Maidens), chaste, restraining their glances, whom no man or Jinn before them has touched;-
+
+**Urdu (Fatah Muhammad Jalandhari):** ان میں نیچی نگاہ والی عورتیں ہیں جن کو اہل جنت سے پہلے نہ کسی انسان نے ہاتھ لگایا اور نہ کسی جن نے
 
 [Open on Quran.com](https://quran.com/55/56)
 

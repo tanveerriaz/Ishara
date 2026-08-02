@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 15:4 · [[015 Al-Hijr]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We did not destroy any city but that for it was a known decree.
 
 **English (Yusuf Ali):** Never did We destroy a population that had not a term decreed and assigned beforehand.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کوئی بستی ہلاک نہیں کی۔ مگر اس کا وقت مرقوم ومعین تھا
 
 [Open on Quran.com](https://quran.com/15/4)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And there is not a thing but its (sources and) treasures (inexhaustible) are with Us; but We only send down thereof in due and ascertainable measures.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہمارے ہاں ہر چیز کے خزانے ہیں اور ہم ان کو بمقدار مناسب اُتارتے رہتے ہیں
+
 [Open on Quran.com](https://quran.com/15/21)
 
 #### 15:38 · [[015 Al-Hijr]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Until the Day of the time well-known."
 
 **English (Yusuf Ali):** "Till the Day of the Time appointed."
+
+**Urdu (Fatah Muhammad Jalandhari):** وقت مقرر (یعنی قیامت) کے دن تک
 
 [Open on Quran.com](https://quran.com/15/38)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So the sorcerers were got together for the appointment of a day well-known,
 
+**Urdu (Fatah Muhammad Jalandhari):** تو جادوگر ایک مقررہ دن کی میعاد پر جمع ہوگئے
+
 [Open on Quran.com](https://quran.com/26/38)
 
 #### 26:155 · [[026 Ash-Shuara]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "This is a she-camel. For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day.
 
 **English (Yusuf Ali):** He said: "Here is a she-camel: she has a right of watering, and ye have a right of watering, (severally) on a day appointed.
+
+**Urdu (Fatah Muhammad Jalandhari):** صالح نے کہا (دیکھو) یہ اونٹنی ہے (ایک دن) اس کی پانی پینے کی باری ہے اور ایک معین روز تمہاری باری
 
 [Open on Quran.com](https://quran.com/26/155)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For them is a Sustenance determined,
 
+**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن کے لئے روزی مقرر ہے
+
 [Open on Quran.com](https://quran.com/37/41)
 
 #### 37:164 · [[037 As-Saffat]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [The angels say], "There is not among us any except that he has a known position.
 
 **English (Yusuf Ali):** (Those ranged in ranks say): "Not one of us but has a place appointed;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (فرشتے کہتے ہیں کہ) ہم میں سے ہر ایک کا ایک مقام مقرر ہے
 
 [Open on Quran.com](https://quran.com/37/164)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Till the Day of the Time Appointed."
 
+**Urdu (Fatah Muhammad Jalandhari):** اس روز تک جس کا وقت مقرر ہے
+
 [Open on Quran.com](https://quran.com/38/81)
 
 #### 56:50 · [[056 Al-Waqiah]]
@@ -174,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "All will certainly be gathered together for the meeting appointed for a Day well-known.
 
+**Urdu (Fatah Muhammad Jalandhari):** (سب) ایک روز مقرر کے وقت پر جمع کئے جائیں گے
+
 [Open on Quran.com](https://quran.com/56/50)
 
 #### 70:24 · [[070 Al-Maarij]]
@@ -189,6 +207,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those within whose wealth is a known right
 
 **English (Yusuf Ali):** And those in whose wealth is a recognised right.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن کے مال میں حصہ مقرر ہے
 
 [Open on Quran.com](https://quran.com/70/24)
 

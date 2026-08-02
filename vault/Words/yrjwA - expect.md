@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:218 · [[002 Al-Baqarah]]
 
@@ -54,6 +54,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who have believed and those who have emigrated and fought in the cause of Allāh - those expect the mercy of Allāh. And Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** Those who believed and those who suffered exile and fought (and strove and struggled) in the path of Allah,- they have the hope of the Mercy of Allah: And Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور خدا کے لئے وطن چھوڑ گئے اور (کفار سے) جنگ کرتے رہے وہی خدا کی رحمت کے امیدوار ہیں۔ اور خدا بخشنے والا (اور) رحمت کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/2/218)
 
@@ -71,6 +73,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And slacken not in following up the enemy: If ye are suffering hardships, they are suffering similar hardships; but ye have Hope from Allah, while they have none. And Allah is full of knowledge and wisdom.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کفار کا پیچھا کرنے میں سستی نہ کرنا اگر تم بےآرام ہوتے ہو تو جس طرح تم بےآرام ہوتے ہو اسی طرح وہ بھی بےآرام ہوتے ہیں اور تم خدا سے ایسی ایسی امیدیں رکھتے ہو جو وہ نہیں رکھ سکتے اور خدا سب کچھ جانتا اور (بڑی) حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/4/104)
 
 #### 10:7 · [[010 Yunus]]
@@ -86,6 +90,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who do not expect the meeting with Us and are satisfied with the life of this world and feel secure therein and those who are heedless of Our signs -
 
 **English (Yusuf Ali):** Those who rest not their hope on their meeting with Us, but are pleased and satisfied with the life of the present, and those who heed not Our Signs,-
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں کو ہم سے ملنے کی توقع نہیں اور دنیا کی زندگی سے خوش اور اسی پر مطئمن ہو بیٹھے اور ہماری نشانیوں سے غافل ہو رہے ہیں
 
 [Open on Quran.com](https://quran.com/10/7)
 
@@ -103,6 +109,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If Allah were to hasten for men the ill (they have earned) as they would fain hasten on the good,- then would their respite be settled at once. But We leave those who rest not their hope on their meeting with Us, in their trespasses, wandering in distraction to and fro.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا لوگوں کی برائی میں جلدی کرتا جس طرح وہ طلب خیر میں جلدی کرتے ہیں۔ تو ان کی (عمر کی) میعاد پوری ہوچکی ہوتی سو جن لوگوں کو ہم سے ملنے کی توقع نہیں انہیں ہم چھوڑے رکھتے ہیں کہ اپنی سرکشی میں بہکتے رہیں
+
 [Open on Quran.com](https://quran.com/10/11)
 
 #### 10:15 · [[010 Yunus]]
@@ -118,6 +126,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when Our verses are recited to them as clear evidences, those who do not expect the meeting with Us say, "Bring us a Qur’ān other than this or change it." Say, [O Muḥammad], "It is not for me to change it on my own accord. I only follow what is revealed to me. Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day."
 
 **English (Yusuf Ali):** But when Our Clear Signs are rehearsed unto them, those who rest not their hope on their meeting with Us, Say: "Bring us a reading other than this, or change this," Say: "It is not for me, of my own accord, to change it: I follow naught but what is revealed unto me: if I were to disobey my Lord, I should myself fear the penalty of a Great Day (to come)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کو ہماری آیتیں پڑھ کر سنائی جاتی ہیں تو جن لوگوں کو ہم سے ملنے کی امید نہیں وہ کہتے ہیں کہ (یا تو) اس کے سوا کوئی اور قرآن (بنا) لاؤ یا اس کو بدل دو۔ کہہ دو کہ مجھ کو اختیار نہیں ہے کہ اسے اپنی طرف سے بدل دو۔ میں تو اسی حکم کا تابع ہوں جو میری طرف آتا ہے۔ اگر میں اپنے پروردگار کی نافرمانی کروں تو مجھے بڑے (سخت) دن کے عذاب سے خوف آتا ہے
 
 [Open on Quran.com](https://quran.com/10/15)
 
@@ -135,6 +145,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And even if thou hast to turn away from them in pursuit of the Mercy from thy Lord which thou dost expect, yet speak to them a word of easy kindness.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم نے اپنے پروردگار کی رحمت (یعنی فراخ دستی) کے انتظار میں جس کی تمہیں امید ہو ان (مستحقین) کی طرف توجہ نہ کرسکو اُن سے نرمی سے بات کہہ دیا کرو
+
 [Open on Quran.com](https://quran.com/17/28)
 
 #### 17:57 · [[017 Al-Isra]]
@@ -150,6 +162,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those whom they invoke seek means of access to their Lord, [striving as to] which of them would be nearest, and they hope for His mercy and fear His punishment. Indeed, the punishment of your Lord is ever feared.
 
 **English (Yusuf Ali):** Those whom they call upon do desire (for themselves) means of access to their Lord, - even those who are nearest: they hope for His Mercy and fear His Wrath: for the Wrath of thy Lord is something to take heed of.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ لوگ جن کو (خدا کے سوا) پکارتے ہیں وہ خود اپنے پروردگار کے ہاں ذریعہ (تقرب) تلاش کرتے رہتے ہیں کہ کون ان میں (خدا کا) زیادہ مقرب ہوتا ہے اور اس کی رحمت کے امیدوار رہتے ہیں اور اس کے عذاب سے خوف رکھتے ہیں۔ بےشک تمہارے پروردگار کا عذاب ڈرنے کی چیز ہے
 
 [Open on Quran.com](https://quran.com/17/57)
 
@@ -167,6 +181,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "I am but a man like yourselves, (but) the inspiration has come to me, that your Allah is one Allah: whoever expects to meet his Lord, let him work righteousness, and, in the worship of his Lord, admit no one as partner.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں تمہاری کا ایک بشر ہوں۔ (البتہ) میری طرف وحی آتی ہے کہ تمہارا معبود (وہی) ایک معبود ہے۔ تو جو شخص اپنے پروردگار سے ملنے کی امید رکھے چاہیئے کہ عمل نیک کرے اور اپنے پروردگار کی عبادت میں کسی کو شریک نہ بنائے
+
 [Open on Quran.com](https://quran.com/18/110)
 
 #### 24:60 · [[024 An-Nur]]
@@ -183,6 +199,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Such elderly women as are past the prospect of marriage,- there is no blame on them if they lay aside their (outer) garments, provided they make not a wanton display of their beauty: but it is best for them to be modest: and Allah is One Who sees and knows all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور بڑی عمر کی عورتیں جن کو نکاح کی توقع نہیں رہی، اور وہ کپڑے اتار کر سر ننگا کرلیا کریں تو ان پر کچھ گناہ نہیں بشرطیکہ اپنی زینت کی چیزیں نہ ظاہر کریں۔ اور اس سے بھی بچیں تو یہ ان کے حق میں بہتر ہے۔ اور خدا سنتا اور جانتا ہے
+
 [Open on Quran.com](https://quran.com/24/60)
 
 #### 25:21 · [[025 Al-Furqan]]
@@ -198,6 +216,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who do not expect the meeting with Us say, "Why were not angels sent down to us, or [why] do we [not] see our Lord?" They have certainly become arrogant within themselves and [become] insolent with great insolence.
 
 **English (Yusuf Ali):** Such as fear not the meeting with Us (for Judgment) say: "Why are not the angels sent down to us, or (why) do we not see our Lord?" Indeed they have an arrogant conceit of themselves, and mighty is the insolence of their impiety!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ہم سے ملنے کی امید نہیں رکھتے۔ کہتے ہیں کہ ہم پر فرشتے کیوں نہ نازل کئے گئے۔ یا ہم اپنی آنکھ سے اپنے پروردگار کو دیکھ لیں۔ یہ اپنے خیال میں بڑائی رکھتے ہیں اور (اسی بنا پر) بڑے سرکش ہو رہے ہی
 
 [Open on Quran.com](https://quran.com/25/21)
 

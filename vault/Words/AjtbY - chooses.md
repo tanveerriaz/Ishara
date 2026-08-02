@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jby - jby]]
+- [[jby - chooses]]
 
 ### Meaning
 **chooses** · Lemma **اجْتَبَى**
@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:179 · [[003 Ali Imran]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh would not leave the believers in that [state] you are in [presently] until He separates the evil from the good. Nor would Allāh reveal to you the unseen. But [instead], Allāh chooses of His messengers whom He wills, so believe in Allāh and His messengers. And if you believe and fear Him, then for you is a great reward.
 
 **English (Yusuf Ali):** Allah will not leave the believers in the state in which ye are now, until He separates what is evil from what is good nor will He disclose to you the secrets of the Unseen. But He chooses of His Messengers (For the purpose) whom He pleases. So believe in Allah. And His messengers: And if ye believe and do right, ye have a reward without measure.
+
+**Urdu (Fatah Muhammad Jalandhari):** (لوگو) جب تک خدا ناپاک کو پاک سے الگ نہ کردے گا مومنوں کو اس حال میں جس میں تم ہو ہرگز نہیں رہنے دے گا۔ اور الله تم کوغیب کی باتوں سے بھی مطلع نہیں کرے گاالبتہ خدا اپنے پیغمبروں میں سے جسے چاہتا ہے انتخاب کرلیتا ہے۔ تو تم خدا پر اور اس کے رسولوں پر ایمان لاؤاور اگر ایمان لاؤ گے اور پرہیزگاری کرو گے تو تم کو اجر عظیم ملے گا
 
 [Open on Quran.com](https://quran.com/3/179)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (To them) and to their fathers, and progeny and brethren: We chose them, and we guided them to a straight way.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض بعض کو ان کے باپ دادا اور اولاد اور بھائیوں میں سے بھی۔ اور ان کو برگزیدہ بھی کیا تھا اور سیدھا رستہ بھی دکھایا تھا
+
 [Open on Quran.com](https://quran.com/6/87)
 
 #### 7:203 · [[007 Al-Araf]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you, [O Muḥammad], do not bring them a sign [i.e., miracle], they say, "Why have you not contrived it?" Say, "I only follow what is revealed to me from my Lord. This [Qur’ān] is enlightenment from your Lord and guidance and mercy for a people who believe."
 
 **English (Yusuf Ali):** If thou bring them not a revelation, they say: "Why hast thou not got it together?" Say: "I but follow what is revealed to me from my Lord: this is (nothing but) lights from your Lord, and Guidance, and mercy, for any who have faith."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم ان کے پاس (کچھ دنوں تک) کوئی آیت نہیں لاتے تو کہتے ہیں کہ تم نے (اپنی طرف سے) کیوں نہیں بنالی۔ کہہ دو کہ میں تو اسی کی پیروی کرتا ہوں جو میرے پروردگار کی طرف سے میرے پاس آتا ہے۔ یہ قرآن تمہارے پروردگار کی جانب سے دانش وبصیرت اور مومنوں کے لیے ہدایت اور رحمت ہے
 
 [Open on Quran.com](https://quran.com/7/203)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Thus will thy Lord choose thee and teach thee the interpretation of stories (and events) and perfect His favour to thee and to the posterity of Jacob - even as He perfected it to thy fathers Abraham and Isaac aforetime! for Allah is full of knowledge and wisdom."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح خدا تمہیں برگزیدہ (وممتاز) کرے گا اور (خواب کی) باتوں کی تعبیر کا علم سکھائے گا۔ اور جس طرح اس نے اپنی نعمت پہلے تمہارے دادا، پردادا ابراہیم اور اسحاق پر پوری کی تھی اسی طرح تم پر اور اولاد یعقوب پر پوری کرے گا۔ بےشک تمہارا پروردگار (سب کچھ) جاننے والا (اور) حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/12/6)
 
 #### 16:121 · [[016 An-Nahl]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [He was] grateful for His favors. He [i.e., Allāh] chose him and guided him to a straight path.
 
 **English (Yusuf Ali):** He showed his gratitude for the favours of Allah, who chose him, and guided him to a Straight Way.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کی نعمتوں کے شکرگزار تھے۔ خدا نے ان کو برگزیدہ کیا تھا اور (اپنی) سیدھی راہ پر چلایا تھا
 
 [Open on Quran.com](https://quran.com/16/121)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those were some of the prophets on whom Allah did bestow His Grace,- of the posterity of Adam, and of those who We carried (in the Ark) with Noah, and of the posterity of Abraham and Israel of those whom We guided and chose. Whenever the Signs of (Allah) Most Gracious were rehearsed to them, they would fall down in prostrate adoration and in tears.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جن پر خدا نے اپنے پیغمبروں میں سے فضل کیا۔ (یعنی) اولاد آدم میں سے اور ان لوگوں میں سے جن کو نوح کے ساتھ (کشتی میں) سوار کیا اور ابراہیم اور یعقوب کی اولاد میں سے اور ان لوگوں میں سے جن کو ہم نے ہدایت دی اور برگزیدہ کیا۔ جب ان کے سامنے ہماری آیتیں پڑھی جاتی تھیں تو سجدے میں گر پڑتے اور روتے رہتے تھے
+
 [Open on Quran.com](https://quran.com/19/58)
 
 #### 20:122 · [[020 Taha]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then his Lord chose him and turned to him in forgiveness and guided [him].
 
 **English (Yusuf Ali):** But his Lord chose him (for His Grace): He turned to him, and gave him Guidance.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے پروردگار نے ان کو نوازا تو ان پر مہربانی سے توجہ فرمائی اور سیدھی راہ بتائی
 
 [Open on Quran.com](https://quran.com/20/122)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And strive in His cause as ye ought to strive, (with sincerity and under discipline). He has chosen you, and has imposed no difficulties on you in religion; it is the cult of your father Abraham. It is He Who has named you Muslims, both before and in this (Revelation); that the Messenger may be a witness for you, and ye be witnesses for mankind! So establish regular Prayer, give regular Charity, and hold fast to Allah! He is your Protector - the Best to protect and the Best to help!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی راہ) میں جہاد کرو جیسا جہاد کرنے کا حق ہے۔ اس نے تم کو برگزیدہ کیا ہے اور تم پر دین کی (کسی بات) میں تنگی نہیں کی۔ (اور تمہارے لئے) تمہارے باپ ابراہیم کا دین (پسند کیا) اُسی نے پہلے (یعنی پہلی کتابوں میں) تمہارا نام مسلمان رکھا تھا اور اس کتاب میں بھی (وہی نام رکھا ہے تو جہاد کرو) تاکہ پیغمبر تمہارے بارے میں شاہد ہوں۔ اور تم لوگوں کے مقابلے میں شاہد اور نماز پڑھو اور زکوٰة دو اور خدا کے دین کی (رسی کو) پکڑے رہو۔ وہی تمہارا دوست ہے۔ اور خوب دوست اور خوب مددگار ہے
+
 [Open on Quran.com](https://quran.com/22/78)
 
 #### 42:13 · [[042 Ash-Shuraa]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The same religion has He established for you as that which He enjoined on Noah - the which We have sent by inspiration to thee - and that which We enjoined on Abraham, Moses, and Jesus: Namely, that ye should remain steadfast in religion, and make no divisions therein: to those who worship other things than Allah, hard is the (way) to which thou callest them. Allah chooses to Himself those whom He pleases, and guides to Himself those who turn (to Him).
 
+**Urdu (Fatah Muhammad Jalandhari):** اسی نے تمہارے لئے دین کا وہی رستہ مقرر کیا جس (کے اختیار کرنے کا) نوح کو حکم دیا تھا اور جس کی (اے محمدﷺ) ہم نے تمہاری طرف وحی بھیجی ہے اور جس کا ابراہیم اور موسیٰ اور عیسیٰ کو حکم دیا تھا (وہ یہ) کہ دین کو قائم رکھنا اور اس میں پھوٹ نہ ڈالنا۔ جس چیز کی طرف تم مشرکوں کو بلاتے ہو وہ ان کو دشوار گزرتی ہے۔ الله جس کو چاہتا ہے اپنی بارگاہ کا برگزیدہ کرلیتا ہے اور جو اس کی طرف رجوع کرے اسے اپنی طرف رستہ دکھا دیتا ہے
+
 [Open on Quran.com](https://quran.com/42/13)
 
 #### 68:50 · [[068 Al-Qalam]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And his Lord chose him and made him of the righteous.
 
 **English (Yusuf Ali):** Thus did his Lord choose him and make him of the Company of the Righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر پروردگار نے ان کو برگزیدہ کرکے نیکوکاروں میں کرلیا
 
 [Open on Quran.com](https://quran.com/68/50)
 

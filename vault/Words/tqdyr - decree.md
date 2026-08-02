@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:96 · [[006 Al-Anam]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [He is] the cleaver of daybreak and has made the night for rest and the sun and moon for calculation. That is the determination of the Exalted in Might, the Knowing.
 
 **English (Yusuf Ali):** He it is that cleaveth the day-break (from the dark): He makes the night for rest and tranquillity, and the sun and moon for the reckoning (of time): Such is the judgment and ordering of (Him), the Exalted in Power, the Omniscient.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی (رات کے اندھیرے سے) صبح کی روشنی پھاڑ نکالتا ہے اور اسی نے رات کو (موجب) آرام (ٹھہرایا) اور سورج اور چاند کو (ذرائع) شمار بنایا ہے۔ یہ خدا کے (مقرر کئے ہوئے) اندازے ہیں جو غالب (اور) علم والا ہے
 
 [Open on Quran.com](https://quran.com/6/96)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He to whom belongs the dominion of the heavens and the earth: no son has He begotten, nor has He a partner in His dominion: it is He who created all things, and ordered them in due proportions.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی کہ آسمان اور زمین کی بادشاہی اسی کی ہے اور جس نے (کسی کو) بیٹا نہیں بنایا اور جس کا بادشاہی میں کوئی شریک نہیں اور جس نے ہر چیز کو پیدا کیا اور پھر اس کا ایک اندازہ ٹھہرایا
+
 [Open on Quran.com](https://quran.com/25/2)
 
 #### 36:38 · [[036 Ya-Sin]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the sun runs [on course] toward its stopping point. That is the determination of the Exalted in Might, the Knowing.
 
 **English (Yusuf Ali):** And the sun runs his course for a period determined for him: that is the decree of (Him), the Exalted in Might, the All-Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور سورج اپنے مقرر رستے پر چلتا رہتا ہے۔ یہ (خدائے) غالب اور دانا کا (مقرر کیا ہوا) اندازہ ہے
 
 [Open on Quran.com](https://quran.com/36/38)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So He completed them as seven firmaments in two Days, and He assigned to each heaven its duty and command. And We adorned the lower heaven with lights, and (provided it) with guard. Such is the Decree of (Him) the Exalted in Might, Full of Knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر دو دن میں سات آسمان بنائے اور ہر آسمان میں اس (کے کام) کا حکم بھیجا اور ہم نے آسمان دنیا کو چراغوں (یعنی ستاروں) سے مزین کیا اور (شیطانوں سے) محفوظ رکھا۔ یہ زبردست (اور) خبردار کے (مقرر کئے ہوئے) اندازے ہیں
+
 [Open on Quran.com](https://quran.com/41/12)
 
 #### 76:16 · [[076 Al-Insan]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Clear glasses [made] from silver of which they have determined the measure.
 
 **English (Yusuf Ali):** Crystal-clear, made of silver: they will determine the measure thereof (according to their wishes).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور شیشے بھی چاندی کے جو ٹھیک اندازے کے مطابق بنائے گئے ہیں
 
 [Open on Quran.com](https://quran.com/76/16)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hrj - hrj]]
+- [[Hrj - any blame]]
 
 ### Meaning
 **any blame** · Lemma **حَرَج**
@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:65 · [[004 An-Nisa]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But no, by your Lord, they will not [truly] believe until they make you, [O Muḥammad], judge concerning that over which they dispute among themselves and then find within themselves no discomfort from what you have judged and submit in [full, willing] submission.
 
 **English (Yusuf Ali):** But no, by the Lord, they can have no (real) Faith, until they make thee judge in all disputes between them, and find in their souls no resistance against Thy decisions, but accept them with the fullest conviction.
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہارے پروردگار کی قسم یہ لوگ جب تک اپنے تنازعات میں تمہیں منصف نہ بنائیں اور جو فیصلہ تم کردو اس سے اپنے دل میں تنگ نہ ہوں بلکہ اس کو خوشی سے مان لیں تب تک مومن نہیں ہوں گے
 
 [Open on Quran.com](https://quran.com/4/65)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! when ye prepare for prayer, wash your faces, and your hands (and arms) to the elbows; Rub your heads (with water); and (wash) your feet to the ankles. If ye are in a state of ceremonial impurity, bathe your whole body. But if ye are ill, or on a journey, or one of you cometh from offices of nature, or ye have been in contact with women, and ye find no water, then take for yourselves clean sand or earth, and rub therewith your faces and hands, Allah doth not wish to place you in a difficulty, but to make you clean, and to complete his favour to you, that ye may be grateful.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم نماز پڑھنے کا قصد کیا کرو تم منہ اور کہنیوں تک ہاتھ دھو لیا کرو اور سر کا مسح کر لیا کرو اور ٹخنوں تک پاؤں (دھو لیا کرو) اور اگر نہانے کی حاجت ہو تو (نہا کر) پاک ہو جایا کرو اور اگر بیمار ہو یا سفر میں ہو یا کوئی تم میں سے بیت الخلا سے ہو کر آیا ہو یا تم عورتوں سے ہم بستر ہوئے ہو اور تمہیں پانی نہ مل سکے تو پاک مٹی لو اور اس سے منہ اور ہاتھوں کا مسح (یعنی تیمم) کر لو۔ خدا تم پر کسی طرح کی تنگی نہیں کرنا چاہتا بلکہ یہ چاہتا ہے کہ تمہیں پاک کرے اور اپنی نعمتیں تم پر پوری کرے تاکہ تم شکر کرو
+
 [Open on Quran.com](https://quran.com/5/6)
 
 #### 6:125 · [[006 Al-Anam]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So whoever Allāh wants to guide - He expands his breast to [contain] Islām; and whoever He wants to send astray - He makes his breast tight and constricted as though he were climbing into the sky. Thus does Allāh place defilement upon those who do not believe.
 
 **English (Yusuf Ali):** Those whom Allah (in His plan) willeth to guide,- He openeth their breast to Islam; those whom He willeth to leave straying,- He maketh their breast close and constricted, as if they had to climb up to the skies: thus doth Allah (heap) the penalty on those who refuse to believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جس شخص کو خدا چاہتا ہے کہ ہدایت بخشے اس کا سینہ اسلام کے لیے کھول دیتا ہے اور جسے چاہتا ہے کہ گمراہ کرے اس کا سینہ تنگ اور گھٹا ہوا کر دیتا ہے گویا وہ آسمان پر چڑھ رہا ہے اس طرح خدا ان لوگوں پر جو ایمان نہیں لاتے عذاب بھیجتا ہے
 
 [Open on Quran.com](https://quran.com/6/125)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A Book revealed unto thee,- So let thy heart be oppressed no more by any difficulty on that account,- that with it thou mightest warn (the erring) and teach the Believers).
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) یہ کتاب (جو) تم پر نازل ہوئی ہے۔ اس سے تمہیں تنگ دل نہیں ہونا چاہیئے، (یہ نازل) اس لیے (ہوئی ہے) کہ تم اس کے ذریعے سے (لوگوں) کو ڈر سناؤ اور (یہ) ایمان والوں کے لیے نصیحت ہے
+
 [Open on Quran.com](https://quran.com/7/2)
 
 #### 9:91 · [[009 At-Tawbah]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** There is not upon the weak or upon the ill or upon those who do not find anything to spend any discomfort [i.e., guilt] when they are sincere to Allāh and His Messenger. There is not upon the doers of good any cause [for blame]. And Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** There is no blame on those who are infirm, or ill, or who find no resources to spend (on the cause), if they are sincere (in duty) to Allah and His Messenger: no ground (of complaint) can there be against such as do right: and Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** نہ تو ضعیفوں پر کچھ گناہ ہے اور نہ بیماروں پر نہ ان پر جن کے پاس خرچ موجود نہیں (کہ شریک جہاد نہ ہوں یعنی) جب کہ خدا اور اس کے رسول کے خیراندیش (اور دل سے ان کے ساتھ) ہوں۔ نیکو کاروں پر کسی طرح کا الزام نہیں ہے۔ اور خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/9/91)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And strive in His cause as ye ought to strive, (with sincerity and under discipline). He has chosen you, and has imposed no difficulties on you in religion; it is the cult of your father Abraham. It is He Who has named you Muslims, both before and in this (Revelation); that the Messenger may be a witness for you, and ye be witnesses for mankind! So establish regular Prayer, give regular Charity, and hold fast to Allah! He is your Protector - the Best to protect and the Best to help!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی راہ) میں جہاد کرو جیسا جہاد کرنے کا حق ہے۔ اس نے تم کو برگزیدہ کیا ہے اور تم پر دین کی (کسی بات) میں تنگی نہیں کی۔ (اور تمہارے لئے) تمہارے باپ ابراہیم کا دین (پسند کیا) اُسی نے پہلے (یعنی پہلی کتابوں میں) تمہارا نام مسلمان رکھا تھا اور اس کتاب میں بھی (وہی نام رکھا ہے تو جہاد کرو) تاکہ پیغمبر تمہارے بارے میں شاہد ہوں۔ اور تم لوگوں کے مقابلے میں شاہد اور نماز پڑھو اور زکوٰة دو اور خدا کے دین کی (رسی کو) پکڑے رہو۔ وہی تمہارا دوست ہے۔ اور خوب دوست اور خوب مددگار ہے
+
 [Open on Quran.com](https://quran.com/22/78)
 
 #### 24:61 · [[024 An-Nur]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** There is not upon the blind [any] constraint nor upon the lame constraint nor upon the ill constraint nor upon yourselves when you eat from your [own] houses or the houses of your fathers or the houses of your mothers or the houses of your brothers or the houses of your sisters or the houses of your father's brothers or the houses of your father's sisters or the houses of your mother's brothers or the houses of your mother's sisters or [from houses] whose keys you possess or [from the house] of your friend. There is no blame upon you whether you eat together or separately. But when you enter houses, give greetings of peace upon each other - a greeting from Allāh, blessed and good. Thus does Allāh make clear to you the verses [of ordinance] that you may understand.
 
 **English (Yusuf Ali):** It is no fault in the blind nor in one born lame, nor in one afflicted with illness, nor in yourselves, that ye should eat in your own houses, or those of your fathers, or your mothers, or your brothers, or your sisters, or your father's brothers or your father's sisters, or your mother's brothers, or your mother's sisters, or in houses of which the keys are in your possession, or in the house of a sincere friend of yours: there is no blame on you, whether ye eat in company or separately. But if ye enter houses, salute each other - a greeting of blessing and purity as from Allah. Thus does Allah make clear the signs to you: that ye may understand.
+
+**Urdu (Fatah Muhammad Jalandhari):** نہ تو اندھے پر کچھ گناہ ہے اور نہ لنگڑے پر اور نہ بیمار پر اور نہ خود تم پر کہ اپنے گھروں سے کھانا کھاؤ یا اپنے باپوں کے گھروں سے یا اپنی ماؤں کے گھروں سے یا بھائیوں کے گھروں سے یا اپنی بہنوں کے گھروں سے یا اپنے چچاؤں کے گھروں سے یا اپنی پھوپھیوں کے گھروں سے یا اپنے ماموؤں کے گھروں سے یا اپنی خالاؤں کے گھروں سے یا اس گھر سے جس کی کنجیاں تمہارے ہاتھ میں ہوں یا اپنے دوستوں کے گھروں سے (اور اس کا بھی) تم پر کچھ گناہ نہیں کہ سب مل کر کھانا کھاؤ یا جدا جدا۔ اور جب گھروں میں جایا کرو تو اپنے (گھر والوں کو) سلام کیا کرو۔ (یہ) خدا کی طرف سے مبارک اور پاکیزہ تحفہ ہے۔ اس طرح خدا اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم سمجھو
 
 [Open on Quran.com](https://quran.com/24/61)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! Thou didst say to one who had received the grace of Allah and thy favour: "Retain thou (in wedlock) thy wife, and fear Allah." But thou didst hide in thy heart that which Allah was about to make manifest: thou didst fear the people, but it is more fitting that thou shouldst fear Allah. Then when Zaid had dissolved (his marriage) with her, with the necessary (formality), We joined her in marriage to thee: in order that (in future) there may be no difficulty to the Believers in (the matter of) marriage with the wives of their adopted sons, when the latter have dissolved with the necessary (formality) (their marriage) with them. And Allah's command must be fulfilled.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم اس شخص سے جس پر خدا نے احسان کیا اور تم نے بھی احسان کیا (یہ) کہتے تھے کہ اپنی بیوی کو اپنے پاس رہنے دے اور خدا سے ڈر اور تم اپنے دل میں وہ بات پوشیدہ کرتے تھے جس کو خدا ظاہر کرنے والا تھا اور تم لوگوں سے ڈرتے تھے۔ حالانکہ خدا ہی اس کا زیادہ مستحق ہے کہ اس سے ڈرو۔ پھر جب زید نے اس سے (کوئی) حاجت (متعلق) نہ رکھی (یعنی اس کو طلاق دے دی) تو ہم نے تم سے اس کا نکاح کردیا تاکہ مومنوں کے لئے ان کے منہ بولے بیٹوں کی بیویوں (کے ساتھ نکاح کرنے کے بارے) میں جب وہ ان سے اپنی حاجت (متعلق) نہ رکھیں (یعنی طلاق دے دیں) کچھ تنگی نہ رہے۔ اور خدا کا حکم واقع ہو کر رہنے والا تھا
+
 [Open on Quran.com](https://quran.com/33/37)
 
 #### 33:38 · [[033 Al-Ahzab]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There can be no difficulty to the Prophet in what Allah has indicated to him as a duty. It was the practice (approved) of Allah amongst those of old that have passed away. And the command of Allah is a decree determined.
 
+**Urdu (Fatah Muhammad Jalandhari):** پیغمبر پر اس کام میں کچھ تنگی نہیں جو خدا نے ان کے لئے مقرر کردیا۔ اور جو لوگ پہلے گزر چکے ہیں ان میں بھی خدا کا یہی دستور رہا ہے۔ اور خدا کا حکم ٹھیر چکا ہے
+
 [Open on Quran.com](https://quran.com/33/38)
 
 #### 33:50 · [[033 Al-Ahzab]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O Prophet, indeed We have made lawful to you your wives to whom you have given their due compensation and those your right hand possesses from what Allāh has returned to you [of captives] and the daughters of your paternal uncles and the daughters of your paternal aunts and the daughters of your maternal uncles and the daughters of your maternal aunts who emigrated with you and a believing woman if she gives herself to the Prophet [and] if the Prophet wishes to marry her; [this is] only for you, excluding the [other] believers. We certainly know what We have made obligatory upon them concerning their wives and those their right hands possess, [but this is for you] in order that there will be upon you no discomfort [i.e., difficulty]. And ever is Allāh Forgiving and Merciful.
 
 **English (Yusuf Ali):** O Prophet! We have made lawful to thee thy wives to whom thou hast paid their dowers; and those whom thy right hand possesses out of the prisoners of war whom Allah has assigned to thee; and daughters of thy paternal uncles and aunts, and daughters of thy maternal uncles and aunts, who migrated (from Makka) with thee; and any believing woman who dedicates her soul to the Prophet if the Prophet wishes to wed her;- this only for thee, and not for the Believers (at large); We know what We have appointed for them as to their wives and the captives whom their right hands possess;- in order that there should be no difficulty for thee. And Allah is Oft-Forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر ہم نے تمہارے لئے تمہاری بیویاں جن کو تم نے ان کے مہر دے دیئے ہیں حلال کردی ہیں اور تمہاری لونڈیاں جو خدا نے تم کو (کفار سے بطور مال غنیمت) دلوائی ہیں اور تمہارے چچا کی بیٹیاں اور تمہاری پھوپھیوں کی بیٹیاں اور تمہارے ماموؤں کی بیٹیاں اور تمہاری خالاؤں کی بیٹیاں جو تمہارے ساتھ وطن چھوڑ کر آئی ہیں (سب حلال ہیں) اور کوئی مومن عورت اگر اپنے تئیں پیغمبر کو بخش دے (یعنی مہر لینے کے بغیر نکاح میں آنا چاہے) بشرطیکہ پیغمبر بھی ان سے نکاح کرنا چاہیں (وہ بھی حلال ہے لیکن) یہ اجازت (اے محمدﷺ) خاص تم ہی کو ہے سب مسلمانوں کو نہیں۔ ہم نے ان کی بیویوں اور لونڈیوں کے بارے میں جو (مہر واجب الادا) مقرر کردیا ہے ہم کو معلوم ہے (یہ) اس لئے (کیا گیا ہے) کہ تم پر کسی طرح کی تنگی نہ رہے۔ اور خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/33/50)
 

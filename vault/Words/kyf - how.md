@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:28 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** How can you disbelieve in Allāh when you were lifeless and He brought you to life; then He will cause you to die, then He will bring you [back] to life, and then to Him you will be returned.
 
 **English (Yusuf Ali):** How can ye reject the faith in Allah?- seeing that ye were without life, and He gave you life; then will He cause you to die, and will again bring you to life; and again to Him will ye return.
+
+**Urdu (Fatah Muhammad Jalandhari):** (کافرو!) تم خدا سے کیوں کر منکر ہو سکتے ہو جس حال میں کہ تم بےجان تھے تو اس نے تم کو جان بخشی پھر وہی تم کو مارتا ہے پھر وہی تم کو زندہ کرے گا پھر تم اسی کی طرف لوٹ کر جاؤ گے
 
 [Open on Quran.com](https://quran.com/2/28)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall Allah bring it (ever) to life, after (this) its death?" but Allah caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that Allah hath power over all things."
 
+**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/2/259)
 
 #### 2:260 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] when Abraham said, "My Lord, show me how You give life to the dead." [Allāh] said, "Have you not believed?" He said, "Yes, but [I ask] only that my heart may be satisfied." [Allāh] said, "Take four birds and commit them to yourself. Then [after slaughtering them] put on each hill a portion of them; then call them - they will come [flying] to you in haste. And know that Allāh is Exalted in Might and Wise."
 
 **English (Yusuf Ali):** When Abraham said: "Show me, Lord, how You will raise the dead, " He replied: "Have you no faith?" He said "Yes, but just to reassure my heart." Allah said, "Take four birds, draw them to you, and cut their bodies to pieces. Scatter them over the mountain-tops, then call them back. They will come swiftly to you. Know that Allah is Mighty, Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے (خدا سے) کہا کہ اے پروردگار مجھے دکھا کہ تو مردوں کو کیونکر زندہ کرے گا۔ خدا نے فرمایا کیا تم نے (اس بات کو) باور نہیں کیا۔ انہوں نے کہا کیوں نہیں۔ لیکن (میں دیکھنا) اس لئے (چاہتا ہوں) کہ میرا دل اطمینان کامل حاصل کرلے۔ خدا نے فرمایا کہ چار جانور پکڑوا کر اپنے پاس منگا لو (اور ٹکڑے ٹکڑے کرادو) پھر ان کا ایک ٹکڑا ہر ایک پہاڑ پر رکھوا دو پھر ان کو بلاؤ تو وہ تمہارے پاس دوڑتے چلے آئیں گے۔ اور جان رکھو کہ خدا غالب اور صاحب حکمت ہے۔
 
 [Open on Quran.com](https://quran.com/2/260)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He it is Who shapes you in the wombs as He pleases. There is no god but He, the Exalted in Might, the Wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جو (ماں کے پیٹ میں) جیسی چاہتا ہے تمہاری صورتیں بناتا ہے اس غالب حکمت والے کے سوا کوئی عبادت کے لائق نہیں
+
 [Open on Quran.com](https://quran.com/3/6)
 
 #### 3:25 · [[003 Ali Imran]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So how will it be when We assemble them for a Day about which there is no doubt? And each soul will be compensated [in full for] what it earned, and they will not be wronged.
 
 **English (Yusuf Ali):** But how (will they fare) when we gather them together against a day about which there is no doubt, and each soul will be paid out just what it has earned, without (favour or) injustice?
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اس وقت کیا حال ہوگا جب ہم ان کو جمع کریں گے (یعنی) اس روز جس (کے آنے) میں کچھ بھی شک نہیں اور ہر نفس اپنے اعمال کا پورا پورا بدلہ پائے گا اور ان پر ظلم نہیں کیا جائے گا
 
 [Open on Quran.com](https://quran.com/3/25)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** How shall Allah Guide those who reject Faith after they accepted it and bore witness that the Messenger was true and that Clear Signs had come unto them? but Allah guides not a people unjust.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا ایسے لوگوں کو کیونکر ہدایت دے جو ایمان لانے کے بعد کافر ہوگئے اور (پہلے) اس بات کی گواہی دے چکے کہ یہ پیغمبر برحق ہے اور ان کے پاس دلائل بھی آگئے اور خدا بے انصافوں کو ہدایت نہیں دیتا
+
 [Open on Quran.com](https://quran.com/3/86)
 
 #### 3:101 · [[003 Ali Imran]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And how could you disbelieve while to you are being recited the verses of Allāh and among you is His Messenger? And whoever holds firmly to Allāh has [indeed] been guided to a straight path.
 
 **English (Yusuf Ali):** And how would ye deny Faith while unto you are rehearsed the Signs of Allah, and among you Lives the Messenger? Whoever holds firmly to Allah will be shown a way that is straight.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کیونکر کفر کرو گے جبکہ تم کو خدا کی آیتیں پڑھ پڑھ کر سنائی جاتی ہیں اور تم میں اس کے پیغمبر موجود ہیں اور جس نے خدا (کی ہدایت کی رسی) کو مضبوط پکڑ لیا وہ سیدھے رستے لگ گیا
 
 [Open on Quran.com](https://quran.com/3/101)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Many were the Ways of Life that have passed away before you: travel through the earth, and see what was the end of those who rejected Truth.
 
+**Urdu (Fatah Muhammad Jalandhari):** تم لوگوں سے پہلے بھی بہت سے واقعات گزر چکے ہیں تو تم زمین کی سیر کرکے دیکھ لو کہ جھٹلانے والوں کا کیسا انجام ہوا
+
 [Open on Quran.com](https://quran.com/3/137)
 
 #### 4:21 · [[004 An-Nisa]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And how could ye take it when ye have gone in unto each other, and they have Taken from you a solemn covenant?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم دیا ہوا مال کیونکر واپس لے سکتے ہو جب کہ تم ایک دوسرے کے ساتھ صحبت کرچکے ہو۔ اور وہ تم سے عہد واثق بھی لے چکی ہے
+
 [Open on Quran.com](https://quran.com/4/21)
 
 #### 4:41 · [[004 An-Nisa]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So how [will it be] when We bring from every nation a witness and We bring you, [O Muḥammad], against these [people] as a witness?
 
 **English (Yusuf Ali):** How then if We brought from each people a witness, and We brought thee as a witness against these people!
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا اس دن کا کیا حال ہوگا جب ہم ہر امت میں سے احوال بتائے والے کو بلائیں گے اور تم کو ان لوگوں کا حال (بتانے کو) گواہ طلب کریں گے
 
 [Open on Quran.com](https://quran.com/4/41)
 

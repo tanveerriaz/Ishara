@@ -30,7 +30,7 @@ MIN_SURAHS_FOR_WORD = 3
 MAX_WORDS_PER_SURAH = 25
 MAX_SURAHS_LISTED = 25
 MAX_WORDS_PER_ROOT = 25
-MAX_OCC_LINES = 10  # full verses per word note (Arabic + Sahih International + Yusuf Ali)
+MAX_OCC_LINES = 10  # full verses per word note (Arabic + SI + Yusuf Ali + Urdu)
 
 AR_TO_BW = {
     "ء": "'", "آ": "A", "أ": ">", "ؤ": "&", "إ": "<", "ئ": "}",
@@ -52,6 +52,7 @@ CURATED_ROOT_LABELS = {
     "يوم": "day", "هدي": "guide", "قوم": "upright", "نعم": "favor", "غضب": "wrath",
     "ضلل": "astray", "عون": "help", "سمو": "name", "امن": "believe", "كتب": "book",
     "صلو": "prayer", "زكو": "purify", "كفر": "disbelieve", "سبح": "glory", "خلق": "create",
+    "شكر": "gratitude", "أرض": "earth", "دبر": "turn back",
 }
 
 
@@ -78,6 +79,8 @@ def clean_trans(text: str) -> str:
 
 def sanitize_gloss(gloss: str) -> str:
     g = re.sub(r"[()\[\]]", "", gloss.strip())
+    # Prefer the clause before a comma (Lane often piles synonyms after).
+    g = g.split(",")[0].strip()
     words = [w for w in re.split(r"\s+", g) if w and w.lower() not in STOP]
     if not words:
         words = g.split()[:3]
@@ -85,29 +88,82 @@ def sanitize_gloss(gloss: str) -> str:
     return re.sub(r"\s+", " ", label) or "word"
 
 
-def short_label_from_lane(summary: str | None, definition: str | None) -> str | None:
+def _norm_rom(s: str) -> str:
+    """Normalize Buckwalter / common romanization for stub comparison."""
+    t = (s or "").lower()
+    for a, b in (
+        ("$", "sh"),
+        ("*", "dh"),
+        ("v", "th"),
+        (">", "a"),
+        ("<", "i"),
+        ("&", "w"),
+        ("'", "a"),
+        ("}", "i"),
+        ("{", "a"),
+    ):
+        t = t.replace(a, b)
+    return re.sub(r"[^a-z0-9]", "", t)
+
+
+def looks_like_bw_stub(text: str, root_bw: str | None = None) -> bool:
+    """True when a 'gloss' is really a transliteration code (shkr, dbr, ard…)."""
+    t = (text or "").strip().lower()
+    if not t:
+        return True
+    if re.fullmatch(r"[a-z](?:-[a-z]){1,6}", t):  # f-r-r style
+        return True
+    if " " in t:
+        return False
+    cleaned = re.sub(r"[^a-z0-9$'>]", "", t)
+    if root_bw:
+        rb = re.sub(r"[^a-z0-9$'>]", "", root_bw.lower())
+        if cleaned == rb or _norm_rom(cleaned) == _norm_rom(rb):
+            return True
+    # Consonant-only short tokens are almost always BW romanization stubs
+    if re.fullmatch(r"[a-z$'>]{2,8}", cleaned) and not any(c in "aeiou" for c in cleaned):
+        return True
+    return False
+
+
+def short_label_from_lane(
+    summary: str | None, definition: str | None, root_bw: str | None = None
+) -> str | None:
     text = (summary or "").strip()
+    low = text.lower()
 
     def ok(s: str) -> bool:
         s = s.strip()
         if not s or s in STOP:
             return False
+        if looks_like_bw_stub(s, root_bw):
+            return False
         if re.fullmatch(r"[A-Za-z$]{1,5}", s) and any(c.isupper() for c in s):
             return False
         return True
 
-    if text:
-        for m in re.finditer(r"\(([a-z][a-z\s\-]{1,40})\)", text.lower()):
-            if ok(m.group(1)):
-                return sanitize_gloss(m.group(1))
+    # Prefer English gloss clauses over parenthetical transliteration codes.
+    if low:
         m = re.search(
-            r"(?:means|refers to|denotes|relates to)\s+(?:to\s+|the\s+|a\s+|an\s+)?([a-z][a-z\s\-]{1,40})",
-            text.lower(),
+            r"(?:primarily\s+)?(?:means|refers to|denotes|relates to)\s+"
+            r"(?:to\s+|the\s+|a\s+|an\s+)?"
+            r"([a-z][a-z\s\-']{1,50})",
+            low,
         )
         if m and ok(m.group(1)):
             return sanitize_gloss(m.group(1))
+        means_at = m.start() if m else -1
+        for pm in re.finditer(r"\(([a-z][a-z\s\-]{1,40})\)", low):
+            # Skip (bw) stubs that appear before the means-clause.
+            if means_at >= 0 and pm.start() < means_at:
+                continue
+            if ok(pm.group(1)):
+                return sanitize_gloss(pm.group(1))
     defn = (definition or "")[:600]
-    for candidate in ("mercy", "praise", "worship", "name", "path", "guide", "glory", "believe"):
+    for candidate in (
+        "mercy", "praise", "worship", "name", "path", "guide", "glory", "believe",
+        "earth", "thank", "grateful", "gratitude", "turn", "retreat", "back",
+    ):
         if re.search(rf"\b{candidate}\b", defn.lower()):
             return candidate
     return None
@@ -122,11 +178,14 @@ def load_lane_labels() -> dict[str, str]:
         root = e.get("root")
         if not root:
             continue
-        label = short_label_from_lane(e.get("summary_en"), e.get("definition_en"))
+        bw = e.get("root_buckwalter")
+        label = short_label_from_lane(e.get("summary_en"), e.get("definition_en"), bw)
+        if label and looks_like_bw_stub(label, bw):
+            label = None
         if label:
             out[root] = label
-            if e.get("root_buckwalter"):
-                out[f"bw:{e['root_buckwalter']}"] = label
+            if bw:
+                out[f"bw:{bw}"] = label
     return out
 
 
@@ -333,6 +392,7 @@ def main():
                     "surahs": set(),
                     "ayahs": set(),
                     "occs": [],
+                    "all_occs": [],
                     "occ_keys": set(),
                     "forms": Counter(),
                 },
@@ -342,11 +402,13 @@ def main():
             lm["surahs"].add(s)
             lm["ayahs"].add(f"{s}:{a}")
             lm["forms"][ar_w] += 1
-            # One sample slot per unique ayah (full verse shown later)
+            # Store every unique ayah once; markdown samples only use occs[:MAX_OCC_LINES]
             vk = f"{s}:{a}"
-            if vk not in lm["occ_keys"] and len(lm["occs"]) < MAX_OCC_LINES:
+            if vk not in lm["occ_keys"]:
                 lm["occ_keys"].add(vk)
-                lm["occs"].append((s, a, ar_w, gloss))
+                lm["all_occs"].append((s, a, ar_w, gloss))
+                if len(lm["occs"]) < MAX_OCC_LINES:
+                    lm["occs"].append((s, a, ar_w, gloss))
 
             surah_lemma_keys[s].add(lk)
             surah_root_keys[s].add(root_key)
@@ -358,19 +420,26 @@ def main():
             return CURATED_ROOT_LABELS[meta["root_ar"]]
         bw = arabic_to_bw(meta["root_ar"])
         for k in (meta["root_ar"], f"bw:{bw}"):
-            if k in lane:
+            if k in lane and not looks_like_bw_stub(lane[k], bw):
                 return lane[k]
         ranked = sorted(meta["glosses"].items(), key=lambda kv: (-kv[1], len(kv[0])))
-        return ranked[0][0] if ranked else "root"
+        for g, _ in ranked:
+            if g and g not in {"root", "word", "of", "to"} and not looks_like_bw_stub(g, bw):
+                return g
+        return "root"
 
     def pick_word_gloss(meta):
         if meta["root_key"] == "ALLAH":
             return "God"
+        bw = arabic_to_bw(meta["root_ar"])
         ranked = sorted(meta["glosses"].items(), key=lambda kv: (0 if len(kv[0].split()) <= 2 else 1, -kv[1]))
         for g, _ in ranked:
-            if g not in {"root", "word", "of", "to"}:
+            if g not in {"root", "word", "of", "to"} and not looks_like_bw_stub(g, bw):
                 return g
-        return pick_root_gloss(meta["root_key"], root_meta[meta["root_key"]])
+        root_g = pick_root_gloss(meta["root_key"], root_meta[meta["root_key"]])
+        if not looks_like_bw_stub(root_g, bw):
+            return root_g
+        return "word"
 
     # Keep only cross-surah words (+ Allah)
     keep_lemmas = {
@@ -451,6 +520,7 @@ tags: [root, meaning]
 
     # Words — full verse context (Arabic + Sahih International + Yusuf Ali)
     print("Writing words…")
+    web_full_verses: dict[str, list] = {}
     for lk, slug in word_slug.items():
         if lk == "ALLAH":
             continue
@@ -468,6 +538,7 @@ tags: [root, meaning]
             arabic = uth[abs_i]["text_uthmani"]
             en = si[abs_i]
             ya_t = ya[abs_i]
+            urdu = ur[abs_i]
             sname = surah_filename(s, chapter_by_id[s]["name_simple"])
             verse_blocks.append(
                 f"""#### {vk} · [[{sname}]]
@@ -483,6 +554,8 @@ tags: [root, meaning]
 **English (Sahih International):** {en}
 
 **English (Yusuf Ali):** {ya_t}
+
+**Urdu (Fatah Muhammad Jalandhari):** {urdu}
 
 [Open on Quran.com](https://quran.com/{s}/{a})
 """
@@ -521,12 +594,38 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to {MAX_OCC_LINES} verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to {MAX_OCC_LINES} verses in Obsidian (web app shows all).
 
 {chr(10).join(verse_blocks)}{more_line}
 """,
             encoding="utf-8",
         )
+
+        # Full verse list for the web app (Obsidian stays capped above)
+        full_list = []
+        for s, a, ar_w, g in meta.get("all_occs") or meta["occs"]:
+            vk = f"{s}:{a}"
+            abs_i = verse_by_key[vk]
+            sname = surah_filename(s, chapter_by_id[s]["name_simple"])
+            full_list.append(
+                {
+                    "ref": vk,
+                    "surah": sname,
+                    "arabic": uth[abs_i]["text_uthmani"],
+                    "wordForm": ar_w,
+                    "gloss": g,
+                    "sahihInternational": si[abs_i],
+                    "yusufAli": ya[abs_i],
+                    "urdu": ur[abs_i],
+                    "url": f"https://quran.com/{s}/{a}",
+                }
+            )
+        web_full_verses[slug] = full_list
+
+    # Cache every ayah for the static web viewer (gitignored under data/)
+    web_verses_path = DATA / "word_verses_full.json"
+    web_verses_path.write_text(json.dumps(web_full_verses, ensure_ascii=False), encoding="utf-8")
+    print(f"Wrote full web verses for {len(web_full_verses)} words → {web_verses_path}")
 
     # Surah hubs — LIGHT (no full mushaf text)
     print("Writing surah hubs…")
@@ -671,6 +770,7 @@ tags: [meta, sources]
 
 - Arabic: Quran.com / Tanzil Uthmani
 - English on word-verse blocks: Sahih International (API id 20) + Yusuf Ali (API id 22)
+- Urdu on word-verse blocks: Fatah Muhammad Jalandhari (API id 234)
 - Full-chapter reading: quran.com links from surah hubs
 - Morphology: Quranic Arabic Corpus (mustafa0x/quran-morphology)
 - Root labels: Lane lexicon dataset + curated senses

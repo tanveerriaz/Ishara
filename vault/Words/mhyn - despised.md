@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 32:8 · [[032 As-Sajdah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then He made his posterity out of the extract of a liquid disdained.
 
 **English (Yusuf Ali):** And made his progeny from a quintessence of the nature of a fluid despised:
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اس کی نسل خلاصے سے (یعنی) حقیر پانی سے پیدا کی
 
 [Open on Quran.com](https://quran.com/32/8)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Am I not better than this (Moses), who is a contemptible wretch and can scarcely express himself clearly?
 
+**Urdu (Fatah Muhammad Jalandhari):** بےشک میں اس شخص سے جو کچھ عزت نہیں رکھتا اور صاف گفتگو بھی نہیں کرسکتا کہیں بہتر ہوں
+
 [Open on Quran.com](https://quran.com/43/52)
 
 #### 68:10 · [[068 Al-Qalam]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Heed not the type of despicable men,- ready with oaths,
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کسی ایسے شخص کے کہے میں نہ آجانا جو بہت قسمیں کھانے والا ذلیل اوقات ہے
+
 [Open on Quran.com](https://quran.com/68/10)
 
 #### 77:20 · [[077 Al-Mursalat]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Did We not create you from a liquid disdained?
 
 **English (Yusuf Ali):** Have We not created you from a fluid (held) despicable?-
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا ہم نے تم کو حقیر پانی سے نہیں پیدا کیا؟
 
 [Open on Quran.com](https://quran.com/77/20)
 

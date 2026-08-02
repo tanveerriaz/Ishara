@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Eqr - eqr]]
+- [[Eqr - wound hamstring]]
 
 ### Meaning
 **hamstrung** · Lemma **عَقَرَ**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:77 · [[007 Al-Araf]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So they hamstrung the she-camel and were insolent toward the command of their Lord and said, "O Ṣāliḥ, bring us what you promise us, if you should be of the messengers."
 
 **English (Yusuf Ali):** Then they ham-strung the she-camel, and insolently defied the order of their Lord, saying: "O Salih! bring about thy threats, if thou art a messenger (of Allah)!"
+
+**Urdu (Fatah Muhammad Jalandhari):** آخر انہوں نے اونٹی (کی کونچوں) کو کاٹ ڈالا اور اپنے پروردگار کے حکم سے سرکشی کی اور کہنے لگے کہ صالح! جس چیز سے تم ہمیں ڈراتے تھے اگر تم (خدا کے) پیغمبر ہو تو اسے ہم پر لے آؤ
 
 [Open on Quran.com](https://quran.com/7/77)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But they did ham-string her. So he said: "Enjoy yourselves in your homes for three days: (Then will be your ruin): (Behold) there a promise not to be belied!"
 
+**Urdu (Fatah Muhammad Jalandhari):** مگر انہوں نے اس کی کانچیں کاٹ ڈالیں۔ تو (صالح نے) کہا کہ اپنے گھروں میں تم تین دن (اور) فائدہ اٹھا لو۔ یہ وعدہ ہے کہ جھوٹا نہ ہوگا
+
 [Open on Quran.com](https://quran.com/11/65)
 
 #### 26:157 · [[026 Ash-Shuara]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But they hamstrung her and so became regretful.
 
 **English (Yusuf Ali):** But they ham-strung her: then did they become full of regrets.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے اس کی کونچیں کاٹ ڈالیں پھر نادم ہوئے
 
 [Open on Quran.com](https://quran.com/26/157)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But they called to their companion, and he took a sword in hand, and hamstrung (her).
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں نے اپنے رفیق کو بلایا اور اس نے (اونٹنی کو پکڑ کر اس کی) کونچیں کاٹ ڈالیں
+
 [Open on Quran.com](https://quran.com/54/29)
 
 #### 91:14 · [[091 Ash-Shams]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But they denied him and hamstrung her. So their Lord brought down upon them destruction for their sin and made it equal [upon all of them].
 
 **English (Yusuf Ali):** Then they rejected him (as a false prophet), and they hamstrung her. So their Lord, on account of their crime, obliterated their traces and made them equal (in destruction, high and low)!
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر انہوں نے پیغمبر کو جھٹلایا اور اونٹنی کی کونچیں کاٹ دیں تو خدا نے ان کےگناہ کے سبب ان پر عذاب نازل کیا اور سب کو (ہلاک کر کے) برابر کر دیا
 
 [Open on Quran.com](https://quran.com/91/14)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[srf - srf]]
+- [[srf - ignorant]]
 
 ### Meaning
 **extravagant** · Lemma **أَسْرَفَ**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:141 · [[006 Al-Anam]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakāh] on the day of its harvest. And be not excessive. Indeed, He does not like those who commit excess.
 
 **English (Yusuf Ali):** It is He Who produceth gardens, with trellises and without, and dates, and tilth with produce of all kinds, and olives and pomegranates, similar (in kind) and different (in variety): eat of their fruit in their season, but render the dues that are proper on the day that the harvest is gathered. But waste not by excess: for Allah loveth not the wasters.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی تو ہے جس نے باغ پیدا کئے چھتریوں پر چڑھائے ہوئے بھی اور جو چھتریوں پر نہیں چڑھائے ہوئے وہ بھی اور کھجور اور کھیتی جن کے طرح طرح کے پھل ہوتے ہیں اور زیتون اور انار جو (بعض باتوں میں) ایک دوسرے سے ملتے ہیں جب یہ چیزیں پھلیں تو ان کے پھل کھاؤ اور جس دن (پھل توڑو اور کھیتی) کاٹو تو خدا کا حق بھی اس میں سے ادا کرو اور بےجا نہ اڑاؤ کہ خدا بیجا اڑانے والوں کو دوست نہیں رکھتا
 
 [Open on Quran.com](https://quran.com/6/141)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O Children of Adam! wear your beautiful apparel at every time and place of prayer: eat and drink: But waste not by excess, for Allah loveth not the wasters.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی آدم! ہر نماز کے وقت اپنے تئیں مزّین کیا کرو اور کھاؤ اور پیؤ اور بےجا نہ اڑاؤ کہ خدا بےجا اڑانے والوں کو دوست نہیں رکھتا
+
 [Open on Quran.com](https://quran.com/7/31)
 
 #### 17:33 · [[017 Al-Isra]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not kill the soul [i.e., person] which Allāh has forbidden, except by right. And whoever is killed unjustly - We have given his heir authority, but let him not exceed limits in [the matter of] taking life. Indeed, he has been supported [by the law].
 
 **English (Yusuf Ali):** Nor take life - which Allah has made sacred - except for just cause. And if anyone is slain wrongfully, we have given his heir authority (to demand qisas or to forgive): but let him not exceed bounds in the matter of taking life; for he is helped (by the Law).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس کا جاندار کا مارنا خدا نے حرام کیا ہے اسے قتل نہ کرنا مگر جائز طور پر (یعنی بفتویٰ شریعت)۔ اور جو شخص ظلم سے قتل کیا جائے ہم نے اس کے وارث کو اختیار دیا ہے (کہ ظالم قاتل سے بدلہ لے) تو اس کو چاہیئے کہ قتل (کے قصاص) میں زیادتی نہ کرے کہ وہ منصورو فتحیاب ہے
 
 [Open on Quran.com](https://quran.com/17/33)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And thus do We recompense him who transgresses beyond bounds and believes not in the Signs of his Lord: and the Penalty of the Hereafter is far more grievous and more enduring.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص حد سے نکل جائے اور اپنے پروردگار کی آیتوں پر ایمان نہ لائے ہم اس کو ایسا ہی بدلہ دیتے ہیں۔ اور آخرت کا عذاب بہت سخت اور بہت دیر رہنے والا ہے
+
 [Open on Quran.com](https://quran.com/20/127)
 
 #### 25:67 · [[025 Al-Furqan]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who, when they spend, are not extravagant and not niggardly, but hold a just (balance) between those (extremes);
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ جب خرچ کرتے ہیں تو نہ بےجا اُڑاتے ہیں اور نہ تنگی کو کام میں لاتے ہیں بلکہ اعتدال کے ساتھ۔ نہ ضرورت سے زیادہ نہ کم
+
 [Open on Quran.com](https://quran.com/25/67)
 
 #### 39:53 · [[039 Az-Zumar]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allāh. Indeed, Allāh forgives all sins. Indeed, it is He who is the Forgiving, the Merciful."
 
 **English (Yusuf Ali):** Say: "O my Servants who have transgressed against their souls! Despair not of the Mercy of Allah: for Allah forgives all sins: for He is Oft-Forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر میری طرف سے لوگوں کو) کہہ دو کہ اے میرے بندو جنہوں نے اپنی جانوں پر زیادتی کی ہے خدا کی رحمت سے ناامید نہ ہونا۔ خدا تو سب گناہوں کو بخش دیتا ہے۔ (اور) وہ تو بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/39/53)
 

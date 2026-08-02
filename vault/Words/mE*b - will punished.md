@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[E*b - edhb]]
+- [[E*b - motes particles floating]]
 
 ### Meaning
 **will punished** · Lemma **مُعَذِّب**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:164 · [[007 Al-Araf]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when a community among them said, "Why do you advise [or warn] a people whom Allāh is [about] to destroy or to punish with a severe punishment?" they [the advisors] said, "To be absolved before your Lord and perhaps they may fear Him."
 
 **English (Yusuf Ali):** When some of them said: "Why do ye preach to a people whom Allah will destroy or visit with a terrible punishment?"- said the preachers:" To discharge our duty to your Lord, and perchance they may fear Him."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان میں سے ایک جماعت نے کہا کہ تم ایسے لوگوں کو کیوں نصیحت کرتے ہو جن کو الله ہلاک کرنے والا یا سخت عذاب دینے والا ہے تو انہوں نے کہا اس لیے کہ تمہارے پروردگار کے سامنے معذرت کرسکیں اور عجب نہیں کہ وہ پرہیزگاری اختیار کریں
 
 [Open on Quran.com](https://quran.com/7/164)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But Allah was not going to send them a penalty whilst thou wast amongst them; nor was He going to send it whilst they could ask for pardon.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ایسا نہ تھا کہ جب تک تم ان میں سے تھے انہیں عذاب دیتا۔ اور ایسا نہ تھا کہ وہ بخششیں مانگیں اور انہیں عذاب دے
+
 [Open on Quran.com](https://quran.com/8/33)
 
 #### 17:15 · [[017 Al-Isra]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Whoever is guided is only guided for [the benefit of] his soul. And whoever errs only errs against it. And no bearer of burdens will bear the burden of another. And never would We punish until We sent a messenger.
 
 **English (Yusuf Ali):** Who receiveth guidance, receiveth it for his own benefit: who goeth astray doth so to his own loss: No bearer of burdens can bear the burden of another: nor would We visit with Our Wrath until We had sent an messenger (to give warning).
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص ہدایت اختیار کرتا ہے تو اپنے لئے اختیار کرتا ہے۔ اور جو گمراہ ہوتا ہے گمراہی کا ضرر بھی اسی کو ہوگا۔ اور کوئی شخص کسی دوسرے کا بوجھ نہیں اٹھائے گا۔ اور جب تک ہم پیغمبر نہ بھیج لیں عذاب نہیں دیا کرتے
 
 [Open on Quran.com](https://quran.com/17/15)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There is not a population but We shall destroy it before the Day of Judgment or punish it with a dreadful Penalty: that is written in the (eternal) Record.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (کفر کرنے والوں کی) کوئی بستی نہیں مگر قیامت کے دن سے پہلے ہم اسے ہلاک کردیں گے یا سخت عذاب سے معذب کریں گے۔ یہ کتاب (یعنی تقدیر) میں لکھا جاچکا ہے
+
 [Open on Quran.com](https://quran.com/17/58)
 
 #### 26:138 · [[026 Ash-Shuara]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And we are not to be punished."
 
 **English (Yusuf Ali):** "And we are not the ones to receive Pains and Penalties!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم پر کوئی عذاب نہیں آئے گا
 
 [Open on Quran.com](https://quran.com/26/138)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So call not on any other god with Allah, or thou wilt be among those under the Penalty.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو خدا کے سوا کسی اور معبود کو مت پکارنا، ورنہ تم کو عذاب دیا جائے گا
+
 [Open on Quran.com](https://quran.com/26/213)
 
 #### 34:35 · [[034 Saba]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "We have more in wealth and in sons, and we cannot be punished."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (یہ بھی) کہنے لگے کہ ہم بہت سا مال اور اولاد رکھتے ہیں اور ہم کو عذاب نہیں ہوگا
+
 [Open on Quran.com](https://quran.com/34/35)
 
 #### 37:59 · [[037 As-Saffat]]
@@ -156,6 +170,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except for our first death, and we will not be punished?"
 
 **English (Yusuf Ali):** "Except our first death, and that we shall not be punished?"
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں (جو) پہلی بار مرنا (تھا سو مرچکے) اور ہمیں عذاب بھی نہیں ہونے کا
 
 [Open on Quran.com](https://quran.com/37/59)
 

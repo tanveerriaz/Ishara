@@ -14,45 +14,45 @@ The Morning Hours · 11 ayahs
 
 ## Words in this surah (graph)
 
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[ytym - orphans]] — `يَتِيم` · orphans
-- [[nEmp - favor]] — `نِعْمَة` · favor
-- [[AwY - gave shelter]] — `آوَى` · gave shelter
-- [[lyl - night]] — `لَيْل` · night
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>gnY - availed]] — `أَغْنَى` · availed
 - [[hdY - guidance]] — `هَدَى` · guidance
-- [[sA}l - ask]] — `سائِل` · ask
-- [[wjd - we found]] — `وَجَدَ` · we found
-- [[xyr - better]] — `خَيْر` · better
-- [[>ETY - they given]] — `أَعْطَى` · they given
-- [[>wl - first]] — `أَوَّل` · first
-- [[DAl - astray]] — `ضالّ` · astray
+- [[nEmp - favor]] — `نِعْمَة` · favor
 - [[DHY - its brightness]] — `ضُحًى` · its brightness
-- [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
+- [[wjd - we found]] — `وَجَدَ` · we found
 - [[rb - lord]] — `رَبّ` · lord
+- [[DAl - astray]] — `ضالّ` · astray
+- [[>ETY - they given]] — `أَعْطَى` · they given
+- [[ytym - orphans]] — `يَتِيم` · orphans
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[>wl - first]] — `أَوَّل` · first
+- [[lyl - night]] — `لَيْل` · night
+- [[sA}l - ask]] — `سائِل` · ask
+- [[rDy - they pleased]] — `رَضِيَ` · they pleased
+- [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
+- [[AwY - gave shelter]] — `آوَى` · gave shelter
+- [[>gnY - availed]] — `أَغْنَى` · availed
+- [[xyr - better]] — `خَيْر` · better
 
 ## Roots
 
-- [[>wl - like milk oil]]
+- [[>wl - return revert original]]
 - [[>wy - betake oneself place]]
-- [[>xr - akhr]]
-- [[DHw - dhw]]
+- [[>xr - final part something]]
+- [[DHw - actions performed during]]
 - [[Dll - astray]]
 - [[ETw - take handle something]]
 - [[Hdv - accidents]]
 - [[gny - dwelling residing place]]
 - [[hdy - guide]]
-- [[lyl - layl]]
+- [[lyl - night]]
 - [[nEm - favor]]
-- [[nhr - nahara]]
-- [[qhr - qahr]]
-- [[rDw - rdw]]
+- [[nhr - dig river channel]]
+- [[qhr - overcome]]
+- [[rDw - pleased]]
 - [[rbb - Lord]]
 - [[s>l - ask]]
 - [[wdE - still]]
 - [[wjd - you will find]]
-- [[xyr - khyr]]
+- [[xyr - better]]
 - [[ytm - make someone orphan]]
 
 ## Sample (ayah 1)

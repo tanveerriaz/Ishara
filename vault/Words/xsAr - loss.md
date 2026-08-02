@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xsr - khsr]]
+- [[xsr - lose]]
 
 ### Meaning
 **loss** · Lemma **خَسار**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 17:82 · [[017 Al-Isra]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We send down of the Qur’ān that which is healing and mercy for the believers, but it does not increase the wrongdoers except in loss.
 
 **English (Yusuf Ali):** We send down (stage by stage) in the Qur'an that which is a healing and a mercy to those who believe: to the unjust it causes nothing but loss after loss.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم قرآن (کے ذریعے) سے وہ چیز نازل کرتے ہیں جو مومنوں کے لئے شفا اور رحمت ہے اور ظالموں کے حق میں تو اس سے نقصان ہی بڑھتا ہے
 
 [Open on Quran.com](https://quran.com/17/82)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He it is That has made you inheritors in the earth: if, then, any do reject (Allah), their rejection (works) against themselves: their rejection but adds to the odium for the Unbelievers in the sight of their Lord: their rejection but adds to (their own) undoing.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم کو زمین میں (پہلوں کا) جانشین بنایا۔ تو جس نے کفر کیا اس کے کفر کا ضرر اسی کو ہے۔ اور کافروں کے حق میں ان کے کفر سے پروردگار کے ہاں ناخوشی ہی بڑھتی ہے اور کافروں کو ان کا کفر نقصان ہی زیادہ کرتا ہے
+
 [Open on Quran.com](https://quran.com/35/39)
 
 #### 71:21 · [[071 Nuh]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Noah said, "My Lord, indeed they have disobeyed me and followed him whose wealth and children will not increase him except in loss.
 
 **English (Yusuf Ali):** Noah said: "O my Lord! They have disobeyed me, but they follow (men) whose wealth and children give them no increase but only Loss.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اس کے بعد) نوح نے عرض کی کہ میرے پروردگار! یہ لوگ میرے کہنے پر نہیں چلے اور ایسوں کے تابع ہوئے جن کو ان کے مال اور اولاد نے نقصان کے سوا کچھ فائدہ نہیں دیا
 
 [Open on Quran.com](https://quran.com/71/21)
 

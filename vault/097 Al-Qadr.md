@@ -15,41 +15,41 @@ The Power · 5 ayahs
 ## Words in this surah (graph)
 
 - [[lylp - nights]] — `لَيْلَة` · nights
-- [[$hr - months]] — `شَهْر` · months
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[<*n - by permission]] — `إِذْن` · by permission
-- [[slAm - peace]] — `سَلام` · peace
-- [[xyr - better]] — `خَيْر` · better
-- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
 - [[kl - every]] — `كُلّ` · every
 - [[>lf - thousand]] — `أَلْف` · thousand
-- [[fjr - dawn]] — `فَجْر` · dawn
-- [[mTlE - rising place]] — `مَطْلِع` · rising place
 - [[mlk - angels]] — `مَلَك` · angels
-- [[rwH - spirit]] — `رُوح` · spirit
-- [[>mr - command]] — `أَمَرَ` · command
-- [[qdr - restricts]] — `قَدَر` · restricts
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
 - [[rb - lord]] — `رَبّ` · lord
 - [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[fjr - dawn]] — `فَجْر` · dawn
+- [[rwH - spirit]] — `رُوح` · spirit
+- [[$hr - months]] — `شَهْر` · months
+- [[<*n - by permission]] — `إِذْن` · by permission
+- [[mTlE - rising place]] — `مَطْلِع` · rising place
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[>mr - command]] — `أَمَرَ` · command
+- [[slAm - peace]] — `سَلام` · peace
+- [[xyr - better]] — `خَيْر` · better
 
 ## Roots
 
-- [[$hr - shahr]]
-- [[>*n - adhn]]
-- [[>lf - alifa]]
+- [[$hr - new moon]]
+- [[>*n - ear]]
+- [[>lf - become familiar]]
 - [[>mr - amara]]
 - [[TlE - rising]]
 - [[dry - know]]
 - [[fjr - cleave cut open]]
 - [[kll - every]]
-- [[lyl - layl]]
+- [[lyl - night]]
 - [[mlk - sovereignty]]
 - [[nzl - lodge host someone]]
 - [[qdr - measuring]]
 - [[rbb - Lord]]
 - [[rwH - wind]]
 - [[slm - peace]]
-- [[xyr - khyr]]
+- [[xyr - better]]
 
 ## Sample (ayah 1)
 

@@ -15,83 +15,83 @@ The Rooms · 18 ayahs
 ## Words in this surah (graph)
 
 - [[Swt - voice]] — `صَوْت` · voice
-- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
-- [[qAtl - fight]] — `قاتَلَ` · fight
-- [[>slm - submits]] — `أَسْلَمَ` · submits
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[yd - hands]] — `يَد` · hands
-- [[nAdm - regretful]] — `نادِم` · regretful
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[nAdY - he called]] — `نادَى` · he called
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[Aqttl - fight]] — `اقْتَتَلَ` · fight
-- [[Eml - do]] — `عَمِلَ` · do
-- [[jhr - loud]] — `جَهْر` · loud
-- [[>mr - command]] — `أَمَرَ` · command
-- [[nsA' - women]] — `نِساء` · women
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[EZym - great]] — `عَظِيم` · great
-- [[smyE - all-hearer]] — `سَمِيع` · all-hearer
-- [[sxr - subjected]] — `سَخِرَ` · subjected
-- [[jA' - came them]] — `جاءَ` · came them
-- [[krh - unwillingly]] — `كُرْه` · unwillingly
-- [[>nvY - female]] — `أُنثَى` · female
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
+- [[mqsT - act justly]] — `مُقْسِط` · act justly
+- [[>SlH - reforms]] — `أَصْلَحَ` · reforms
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[<HdY - one them]] — `إِحْدَى` · one them
+- [[>rD - earth]] — `أَرْض` · earth
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[nAs - people]] — `ناس` · people
+- [[byn - between them]] — `بَيْن` · between them
+- [[>Hd - anyone]] — `أَحَد` · anyone
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[tqsT - act justly]] — `تُقْسِطُ` · act justly
+- [[ygD - lower]] — `يَغُضُّ` · lower
+- [[Elm - know]] — `عَلِمَ` · know
+- [[bEd - after]] — `بَعْد` · after
+- [[dyn - religion]] — `دِين` · religion
+- [[Ajtnb - avoid]] — `اجْتَنَبُ` · avoid
+- [[<ymAn - faith]] — `إِيمان` · faith
+- [[fwq - above them]] — `فَوْق` · above them
+- [[bgY - seek it]] — `بَغَى` · seek it
+- [[twAb - oft-returning]] — `تَوّاب` · oft-returning
+- [[>ErAb - bedouins]] — `أَعْراب` · bedouins
+- [[krh - unwillingly]] — `كُرْه` · unwillingly
 
 ## Roots
 
 - [[$Er - name]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[>Hd - anyone]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
+- [[>ns - mankind]]
 - [[>nv - female]]
-- [[>rD - ard]]
-- [[>vm - athm]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>rD - earth]]
+- [[>vm - sin commit crime]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
 - [[ESy - disobey]]
-- [[EZm - ezhm]]
-- [[Edl - edl]]
+- [[EZm - great]]
+- [[Edl - act justly equitably]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
-- [[Ent - ent]]
-- [[Eql - eql]]
-- [[Erb - erb]]
-- [[Erf - erf]]
-- [[Esy - esy]]
-- [[HbT - hbt]]
+- [[Ent - you suffer]]
+- [[Eql - withhold restrain]]
+- [[Erb - bedouins]]
+- [[Erf - right]]
+- [[Esy - hope expectation]]
+- [[HbT - worthless]]
 - [[Hbb - love]]
-- [[Hjr - hjr 2]]
+- [[Hjr - stones]]
 - [[Hkm - prevent restrain someone]]
-- [[SbH - sbh]]
+- [[SbH - morning]]
 - [[Sbr - confine restrain]]
 - [[Sdq - speak truth]]
-- [[SlH - slh]]
+- [[SlH - make something good]]
 - [[Swb - descend go down]]
 - [[Swt - sound]]
-- [[TwE - twe]]
-- [[Twf - twf]]
+- [[TwE - obey]]
+- [[Twf - go walk around]]
 - [[Zlm - put something wrong]]
 - [[Znn - think]]
 - [[allah - God]]
-- [[b>s - bas]]
-- [[bED - bed]]
+- [[b>s - wretched]]
+- [[bED - others]]
 - [[bEd - become distant]]
-- [[bSr - bsr]]
+- [[bSr - mental perception]]
 - [[bgy - seek desire something]]
 - [[byn - clear]]
 - [[dxl - enter]]
 - [[dyn - judgment]]
-- [[fDl - fdl]]
+- [[fDl - bounty]]
 
 ## Sample (ayah 1)
 

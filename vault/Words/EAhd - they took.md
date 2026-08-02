@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Ehd - ehd]]
+- [[Ehd - protection safeguard]]
 
 ### Meaning
 **they took** · Lemma **عاهَدَ**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:100 · [[002 Al-Baqarah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Is it not [true] that every time they took a covenant a party of them threw it away? But, [in fact], most of them do not believe.
 
 **English (Yusuf Ali):** Is it not (the case) that every time they make a covenant, some party among them throw it aside?- Nay, Most of them are faithless.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں نے جب (خدا سے) عہد واثق کیا تو ان میں سے ایک فریق نے اس کو (کسی چیز کی طرح) پھینک دیا۔ حقیقت یہ ہے کہ ان میں اکثر بے ایمان ہیں
 
 [Open on Quran.com](https://quran.com/2/100)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+
 [Open on Quran.com](https://quran.com/2/177)
 
 #### 8:56 · [[008 Al-Anfal]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The ones with whom you made a treaty but then they break their pledge every time, and they do not fear Allāh.
 
 **English (Yusuf Ali):** They are those with whom thou didst make a covenant, but they break their covenant every time, and they have not the fear (of Allah).
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں سے تم نے (صلح کا) عہد کیا ہے پھر وہ ہر بار اپنے عہد کو توڑ ڈالتے ہیں اور (خدا سے) نہیں ڈرتے
 
 [Open on Quran.com](https://quran.com/8/56)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A (declaration) of immunity from Allah and His Messenger, to those of the Pagans with whom ye have contracted mutual alliances:-
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے اہل اسلام اب) خدا اور اس کے رسول کی طرف سے مشرکوں سے جن سے تم نے عہد کر رکھا تھا بیزاری (اور جنگ کی تیاری) ہے
+
 [Open on Quran.com](https://quran.com/9/1)
 
 #### 9:4 · [[009 At-Tawbah]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Excepted are those with whom you made a treaty among the polytheists and then they have not been deficient toward you in anything or supported anyone against you; so complete for them their treaty until their term [has ended]. Indeed, Allāh loves the righteous [who fear Him].
 
 **English (Yusuf Ali):** (But the treaties are) not dissolved with those Pagans with whom ye have entered into alliance and who have not subsequently failed you in aught, nor aided any one against you. So fulfil your engagements with them to the end of their term: for Allah loveth the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** البتہ جن مشرکوں کے ساتھ تم نے عہد کیا ہو اور انہوں نے تمہارا کسی طرح کا قصور نہ کیا ہو اور نہ تمہارے مقابلے میں کسی کی مدد کی ہو تو جس مدت تک ان کے ساتھ عہد کیا ہو اسے پورا کرو۔ (کہ) خدا پرہیزگاروں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/9/4)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** How can there be a league, before Allah and His Messenger, with the Pagans, except those with whom ye made a treaty near the sacred Mosque? As long as these stand true to you, stand ye true to them: for Allah doth love the righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا مشرکوں کے لیے (جنہوں نے عہد توڑ ڈالا) خدا اور اس کے رسول کے نزدیک عہد کیونکر (قائم) رہ سکتا ہے ہاں جن لوگوں کے ساتھ تم نے مسجد محترم (یعنی خانہ کعبہ) کے نزدیک عہد کیا ہے اگر وہ (اپنے عہد پر) قائم رہیں تو تم بھی اپنے قول وقرار (پر) قائم رہو۔ بےشک خدا پرہیز گاروں کو دوست رکھتا ہے
+
 [Open on Quran.com](https://quran.com/9/7)
 
 #### 9:75 · [[009 At-Tawbah]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And among them are those who made a covenant with Allāh, [saying], "If He should give us from His bounty, we will surely spend in charity, and we will surely be among the righteous."
 
 **English (Yusuf Ali):** Amongst them are men who made a covenant with Allah, that if He bestowed on them of His bounty, they would give (largely) in charity, and be truly amongst those who are righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے بعض ایسے ہیں جنہوں نے خدا سے عہد کیا تھا کہ اگر وہ ہم کو اپنی مہربانی سے (مال) عطا فرمائے گا تو ہم ضرور خیرات کیا کریں گے اور نیک کاروں میں ہو جائیں گے
 
 [Open on Quran.com](https://quran.com/9/75)
 
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Fulfil the Covenant of Allah when ye have entered into it, and break not your oaths after ye have confirmed them; indeed ye have made Allah your surety; for Allah knoweth all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب خدا سے عہد واثق کرو تو اس کو پورا کرو اور جب پکی قسمیں کھاؤ تو اُن کو مت توڑو کہ تم خدا کو اپنا ضامن مقرر کرچکے ہو۔ اور جو کچھ تم کرتے ہو خدا اس کو جانتا ہے
+
 [Open on Quran.com](https://quran.com/16/91)
 
 #### 33:15 · [[033 Al-Ahzab]]
@@ -173,6 +189,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And yet they had already covenanted with Allah not to turn their backs, and a covenant with Allah must (surely) be answered for.
 
+**Urdu (Fatah Muhammad Jalandhari):** حالانکہ پہلے خدا سے اقرار کر چکے تھے کہ پیٹھ نہیں پھریں گے۔ اور خدا سے (جو) اقرار (کیا جاتا ہے اُس کی) ضرور پرسش ہوگی
+
 [Open on Quran.com](https://quran.com/33/15)
 
 #### 33:23 · [[033 Al-Ahzab]]
@@ -188,6 +206,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Among the believers are men true to what they promised Allāh. Among them is he who has fulfilled his vow [to the death], and among them is he who awaits [his chance]. And they did not alter [the terms of their commitment] by any alteration -
 
 **English (Yusuf Ali):** Among the Believers are men who have been true to their covenant with Allah: of them some have completed their vow (to the extreme), and some (still) wait: but they have never changed (their determination) in the least:
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنوں میں کتنے ہی ایسے شخص ہیں کہ جو اقرار اُنہوں نے خدا سے کیا تھا اس کو سچ کر دکھایا۔ تو ان میں بعض ایسے ہیں جو اپنی نذر سے فارغ ہوگئے اور بعض ایسے ہیں کہ انتظار کر رہے ہیں اور اُنہوں نے (اپنے قول کو) ذرا بھی نہیں بدلا
 
 [Open on Quran.com](https://quran.com/33/23)
 

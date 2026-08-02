@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:256 · [[002 Al-Baqarah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** There shall be no compulsion in [acceptance of] the religion. The right course has become distinct from the wrong. So whoever disbelieves in ṭāghūt and believes in Allāh has grasped the most trustworthy handhold with no break in it. And Allāh is Hearing and Knowing.
 
 **English (Yusuf Ali):** Let there be no compulsion in religion: Truth stands out clear from Error: whoever rejects evil and believes in Allah hath grasped the most trustworthy hand-hold, that never breaks. And Allah heareth and knoweth all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** دین (اسلام) میں زبردستی نہیں ہے ہدایت (صاف طور پر ظاہر اور) گمراہی سے الگ ہو چکی ہے تو جو شخص بتوں سے اعتقاد نہ رکھے اور خدا پر ایمان لائے اس نے ایسی مضبوط رسی ہاتھ میں پکڑ لی ہے جو کبھی ٹوٹنے والی نہیں اور خدا (سب کچھ) سنتا اور (سب کچھ) جانتا ہے
 
 [Open on Quran.com](https://quran.com/2/256)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah is the Protector of those who have faith: from the depths of darkness He will lead them forth into light. Of those who reject faith the patrons are the evil ones: from light they will lead them forth into the depths of darkness. They will be companions of the fire, to dwell therein (For ever).
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے ہیں ان کا دوست خدا ہے کہ اُن کو اندھیرے سے نکال کر روشنی میں لے جاتا ہے اور جو کافر ہیں ان کے دوست شیطان ہیں کہ ان کو روشنی سے نکال کر اندھیرے میں لے جاتے ہیں یہی لوگ اہل دوزخ ہیں کہ اس میں ہمیشہ رہیں گے
+
 [Open on Quran.com](https://quran.com/2/257)
 
 #### 4:51 · [[004 An-Nisa]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have you not seen those who were given a portion of the Scripture, who believe in jibt [superstition] and ṭāghūt [false objects of worship] and say about the disbelievers, "These are better guided than the believers as to the way"?
 
 **English (Yusuf Ali):** Hast thou not turned Thy vision to those who were given a portion of the Book? they believe in sorcery and Evil, and say to the Unbelievers that they are better guided in the (right) way Than the believers!
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جن کو کتاب سے حصہ دیا گیا ہے کہ بتوں اور شیطان کو مانتے ہیں اور کفار کے بارے میں کہتے ہیں کہ یہ لوگ مومنوں کی نسبت سیدھے رستے پر ہیں
 
 [Open on Quran.com](https://quran.com/4/51)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Hast thou not turned Thy vision to those who declare that they believe in the revelations that have come to thee and to those before thee? Their (real) wish is to resort together for judgment (in their disputes) to the Evil One, though they were ordered to reject him. But Satan's wish is to lead them astray far away (from the right).
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے ان لوگوں کو نہیں دیکھا جو دعویٰ تو یہ کرتے ہیں کہ جو (کتاب) تم پر نازل ہوئی اور جو (کتابیں) تم سے پہلے نازل ہوئیں ان سب پر ایمان رکھتے ہیں اور چاہتے یہ ہیں کہ اپنا مقدمہ ایک سرکش کے پاس لے جا کر فیصلہ کرائیں حالانکہ ان کو حکم دیا گیا تھا کہ اس سے اعتقاد نہ رکھیں اور شیطان (تو یہ) چاہتا ہے کہ ان کو بہکا کر رستے سے دور ڈال دے
+
 [Open on Quran.com](https://quran.com/4/60)
 
 #### 4:76 · [[004 An-Nisa]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who believe fight in the cause of Allāh, and those who disbelieve fight in the cause of ṭāghūt. So fight against the allies of Satan. Indeed, the plot of Satan has ever been weak.
 
 **English (Yusuf Ali):** Those who believe fight in the cause of Allah, and those who reject Faith Fight in the cause of Evil: So fight ye against the friends of Satan: feeble indeed is the cunning of Satan.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو مومن ہیں وہ تو خدا کے لئے لڑتے ہیں اور جو کافر ہیں وہ بتوں کے لئے لڑتے ہیں سو تم شیطان کے مددگاروں سے لڑو۔ (اور ڈرو مت) کیونکہ شیطان کا داؤ بودا ہوتا ہے
 
 [Open on Quran.com](https://quran.com/4/76)
 
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Shall I point out to you something much worse than this, (as judged) by the treatment it received from Allah? those who incurred the curse of Allah and His wrath, those of whom some He transformed into apes and swine, those who worshipped evil;- these are (many times) worse in rank, and far more astray from the even path!"
 
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ میں تمہیں بتاؤں کہ خدا کے ہاں اس سے بھی بدتر جزا پانے والے کون ہیں؟ وہ لوگ ہیں جن پر خدا نے لعنت کی اور جن پر وہ غضبناک ہوا اور (جن کو) ان میں سے بندر اور سور بنا دیا اور جنہوں نے شیطان کی پرستش کی ایسے لوگوں کا برا ٹھکانہ ہے اور وہ سیدھے رستے سے بہت دور ہیں
+
 [Open on Quran.com](https://quran.com/5/60)
 
 #### 16:36 · [[016 An-Nahl]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For We assuredly sent amongst every People a messenger, (with the Command), "Serve Allah, and eschew Evil": of the People were some whom Allah guided, and some on whom error became inevitably (established). So travel through the earth, and see what was the end of those who denied (the Truth).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ہر جماعت میں پیغمبر بھیجا کہ خدا ہی کی عبادت کرو اور بتوں (کی پرستش) سے اجتناب کرو۔ تو ان میں بعض ایسے ہیں جن کو خدا نے ہدایت دی اور بعض ایسے ہیں جن پر گمراہی ثابت ہوئی۔ سو زمین پر چل پھر کر دیکھ لو کہ جھٹلانے والوں کا انجام کیسا ہوا
+
 [Open on Quran.com](https://quran.com/16/36)
 
 #### 39:17 · [[039 Az-Zumar]]
@@ -155,6 +169,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who have avoided ṭāghūt, lest they worship it, and turned back to Allāh - for them are good tidings. So give good tidings to My servants
 
 **English (Yusuf Ali):** Those who eschew Evil,- and fall not into its worship,- and turn to Allah (in repentance),- for them is Good News: so announce the Good News to My Servants,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے اس سے اجتناب کیا کہ بتوں کو پوجیں اور خدا کی طرف رجوع کیا ان کے لئے بشارت ہے۔ تو میرے بندوں کو بشارت سنا دو
 
 [Open on Quran.com](https://quran.com/39/17)
 

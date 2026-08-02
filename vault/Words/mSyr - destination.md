@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Syr - syr]]
+- [[Syr - destination]]
 
 ### Meaning
 **destination** · Lemma **مَصِير**
@@ -45,7 +45,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:126 · [[002 Al-Baqarah]]
 
@@ -60,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] when Abraham said, "My Lord, make this a secure city and provide its people with fruits - whoever of them believes in Allāh and the Last Day." [Allāh] said, "And whoever disbelieves - I will grant him enjoyment for a little; then I will force him to the punishment of the Fire, and wretched is the destination."
 
 **English (Yusuf Ali):** And remember Abraham said: "My Lord, make this a City of Peace, and feed its people with fruits,-such of them as believe in Allah and the Last Day." He said: "(Yea), and such as reject Faith,-for a while will I grant them their pleasure, but will soon drive them to the torment of Fire,- an evil destination (indeed)!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے دعا کی کہ اے پروردگار، اس جگہ کو امن کا شہر بنا اور اس کے رہنے والوں میں سے جو خدا پر اور روزِ آخرت پر ایمان لائیں، ان کے کھانے کو میوے عطا کر، تو خدا نے فرمایا کہ جو کافر ہوگا، میں اس کو بھی کسی قدر متمتع کروں گا، (مگر) پھر اس کو (عذاب) دوزخ کے (بھگتنے کے) لیے ناچار کردوں گا، اور وہ بری جگہ ہے
 
 [Open on Quran.com](https://quran.com/2/126)
 
@@ -77,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Messenger believeth in what hath been revealed to him from his Lord, as do the men of faith. Each one (of them) believeth in Allah, His angels, His books, and His messengers. "We make no distinction (they say) between one and another of His messengers." And they say: "We hear, and we obey: (We seek) Thy forgiveness, our Lord, and to Thee is the end of all journeys."
 
+**Urdu (Fatah Muhammad Jalandhari):** رسول (خدا) اس کتاب پر جو ان کے پروردگار کی طرف سے ان پر نازل ہوئی ایمان رکھتے ہیں اور مومن بھی۔ سب خدا پر اور اس کے فرشتوں پر اور اس کی کتابوں پر اور اس کے پیغمبروں پر ایمان رکھتے ہیں (اورکہتے ہیں کہ) ہم اس کے پیغمبروں سے کسی میں کچھ فرق نہیں کرتے اور وہ (خدا سے) عرض کرتے ہیں کہ ہم نے (تیرا حکم) سنا اور قبول کیا۔ اے پروردگار ہم تیری بخشش مانگتے ہیں اور تیری ہی طرف لوٹ کر جانا ہے
+
 [Open on Quran.com](https://quran.com/2/285)
 
 #### 3:28 · [[003 Ali Imran]]
@@ -92,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Let not believers take disbelievers as allies [i.e., supporters or protectors] rather than believers. And whoever [of you] does that has nothing [i.e., no association] with Allāh, except when taking precaution against them in prudence. And Allāh warns you of Himself, and to Allāh is the [final] destination.
 
 **English (Yusuf Ali):** Let not the believers Take for friends or helpers Unbelievers rather than believers: if any do that, in nothing will there be help from Allah: except by way of precaution, that ye may Guard yourselves from them. But Allah cautions you (To remember) Himself; for the final goal is to Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** مؤمنوں کو چاہئے کہ مؤمنوں کے سوا کافروں کو دوست نہ بنائیں اور جو ایسا کرے گا اس سے خدا کا کچھ (عہد) نہیں ہاں اگر اس طریق سے تم ان (کے شر) سے بچاؤ کی صورت پیدا کرو (تو مضائقہ نہیں) اور خدا تم کو اپنے (غضب) سے ڈراتا ہے اور خدا ہی کی طرف (تم کو) لوٹ کر جانا ہے
 
 [Open on Quran.com](https://quran.com/3/28)
 
@@ -109,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Is the man who follows the good pleasure of Allah Like the man who draws on himself the wrath of Allah, and whose abode is in Hell?- A woeful refuge!
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جو شخص خدا کی خوشنودی کا تابع ہو وہ اس شخص کی طرح(مرتکب خیانت) ہوسکتا ہے جو خدا کی ناخوشی میں گرفتار ہو اور جس کا ٹھکانہ دوزخ ہے، اور وہ برا ٹھکانا ہے
+
 [Open on Quran.com](https://quran.com/3/162)
 
 #### 4:97 · [[004 An-Nisa]]
@@ -124,6 +132,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those whom the angels take [in death] while wronging themselves - [the angels] will say, "In what [condition] were you?" They will say, "We were oppressed in the land." They [the angels] will say, "Was not the earth of Allāh spacious [enough] for you to emigrate therein?" For those, their refuge is Hell - and evil it is as a destination.
 
 **English (Yusuf Ali):** When angels take the souls of those who die in sin against their souls, they say: "In what (plight) Were ye?" They reply: "Weak and oppressed Were we in the earth." They say: "Was not the earth of Allah spacious enough for you to move yourselves away (From evil)?" Such men will find their abode in Hell,- What an evil refuge! -
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ اپنی جانوں پر ظلم کرتے ہیں جب فرشتے ان کی جان قبض کرنے لگتے ہیں تو ان سے پوچھتے ہیں کہ تم کس حال میں تھے وہ کہتے ہیں کہ ہم ملک میں عاجز وناتواں تھے فرشتے کہتے ہیں کیا خدا کا ملک فراخ نہیں تھا کہ تم اس میں ہجرت کر جاتے ایسے لوگوں کا ٹھکانہ دوزخ ہے اور وہ بری جگہ ہے
 
 [Open on Quran.com](https://quran.com/4/97)
 
@@ -141,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If anyone contends with the Messenger even after guidance has been plainly conveyed to him, and follows a path other than that becoming to men of Faith, We shall leave him in the path he has chosen, and land him in Hell,- what an evil refuge!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص سیدھا رستہ معلوم ہونے کے بعد پیغمبر کی مخالف کرے اور مومنوں کے رستے کے سوا اور رستے پر چلے تو جدھر وہ چلتا ہے ہم اسے ادھر ہی چلنے دیں گے اور (قیامت کے دن) جہنم میں داخل کریں گے اور وہ بری جگہ ہے
+
 [Open on Quran.com](https://quran.com/4/115)
 
 #### 5:18 · [[005 Al-Maidah]]
@@ -156,6 +168,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But the Jews and the Christians say, "We are the children of Allāh and His beloved." Say, "Then why does He punish you for your sins?" Rather, you are human beings from among those He has created. He forgives whom He wills, and He punishes whom He wills. And to Allāh belongs the dominion of the heavens and the earth and whatever is between them, and to Him is the [final] destination.
 
 **English (Yusuf Ali):** (Both) the Jews and the Christians say: "We are sons of Allah, and his beloved." Say: "Why then doth He punish you for your sins? Nay, ye are but men,- of the men he hath created: He forgiveth whom He pleaseth, and He punisheth whom He pleaseth: and to Allah belongeth the dominion of the heavens and the earth, and all that is between: and unto Him is the final goal (of all)"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہود اور نصاریٰ کہتے ہیں کہ ہم خدا کے بیٹے اور اس کے پیارے ہیں کہو کہ پھر وہ تمہاری بداعمالیوں کے سبب تمھیں عذاب کیوں دیتا ہے (نہیں) بلکہ تم اس کی مخلوقات میں (دوسروں کی طرح کے) انسان ہو وہ جسے چاہے بخشے اور جسے چاہے عذاب دے اور آسمان زمین اور جو کچھ ان دونوں میں ہے سب پر خدا ہی کی حکومت ہے اور (سب کو) اسی کی طرف لوٹ کر جانا ہے
 
 [Open on Quran.com](https://quran.com/5/18)
 
@@ -173,6 +187,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If any do turn his back to them on such a day - unless it be in a stratagem of war, or to retreat to a troop (of his own)- he draws on himself the wrath of Allah, and his abode is Hell,- an evil refuge (indeed)!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص جنگ کے روز اس صورت کے سوا کہ لڑائی کے لیے کنارے کنارے چلے (یعنی حکمت عملی سے دشمن کو مارے) یا اپنی فوج میں جا ملنا چاہے۔ ان سے پیٹھ پھیرے گا تو (سمجھو کہ) وہ خدا کے غضب میں گرفتار ہوگیا اور اس کا ٹھکانا دوزخ ہے۔ اور وہ بہت ہی بری جگہ ہے
+
 [Open on Quran.com](https://quran.com/8/16)
 
 #### 9:73 · [[009 At-Tawbah]]
@@ -189,6 +205,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O Prophet! strive hard against the unbelievers and the Hypocrites, and be firm against them. Their abode is Hell,- an evil refuge indeed.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر! کافروں اور منافقوں سے لڑو۔ اور ان پر سختی کرو۔ اور ان کا ٹھکانہ دورخ ہے اور وہ بری جگہ ہے
+
 [Open on Quran.com](https://quran.com/9/73)
 
 #### 14:30 · [[014 Ibrahim]]
@@ -204,6 +222,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they have attributed to Allāh equals to mislead [people] from His way. Say, "Enjoy yourselves, for indeed, your destination is the Fire."
 
 **English (Yusuf Ali):** And they set up (idols) as equal to Allah, to mislead (men) from the Path! Say: "Enjoy (your brief power)! But verily ye are making straightway for Hell!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے خدا کے شریک مقرر کئے کہ (لوگوں کو) اس کے رستے سے گمراہ کریں۔ کہہ دو کہ (چند روز) فائدے اٹھا لو آخرکار تم کو دوزخ کی طرف لوٹ کر جانا ہے
 
 [Open on Quran.com](https://quran.com/14/30)
 

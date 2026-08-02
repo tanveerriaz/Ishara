@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wqy - wqy]]
+- [[wqy - protect]]
 
 ### Meaning
 **righteousness** · Lemma **تَقْوَى**
@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:197 · [[002 Al-Baqarah]]
 
@@ -51,6 +51,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Ḥajj is [during] well-known months, so whoever has made ḥajj obligatory upon himself therein [by entering the state of iḥrām], there is [to be for him] no sexual relations and no disobedience and no disputing during ḥajj. And whatever good you do - Allāh knows it. And take provisions, but indeed, the best provision is fear of Allāh. And fear Me, O you of understanding.
 
 **English (Yusuf Ali):** For Hajj are the months well known. If any one undertakes that duty therein, Let there be no obscenity, nor wickedness, nor wrangling in the Hajj. And whatever good ye do, (be sure) Allah knoweth it. And take a provision (With you) for the journey, but the best of provisions is right conduct. So fear Me, o ye that are wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** حج کے مہینے (معین ہیں جو) معلوم ہیں تو شخص ان مہینوں میں حج کی نیت کرلے تو حج (کے دنوں) میں نہ عورتوں سے اختلاط کرے نہ کوئی برا کام کرے نہ کسی سے جھگڑے۔ اور جو نیک کام تم کرو گے وہ خدا کو معلوم ہوجائے گا اور زاد راہ (یعنی رستے کا خرچ) ساتھ لے جاؤ کیونکہ بہتر (فائدہ) زاد راہ (کا) پرہیزگاری ہے اور اے اہل عقل مجھ سے ڈرتے رہو
 
 [Open on Quran.com](https://quran.com/2/197)
 
@@ -68,6 +70,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And if ye divorce them before consummation, but after the fixation of a dower for them, then the half of the dower (Is due to them), unless they remit it or (the man's half) is remitted by him in whose hands is the marriage tie; and the remission (of the man's half) is the nearest to righteousness. And do not forget Liberality between yourselves. For Allah sees well all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے سے پہلے طلاق دے دو لیکن مہر مقرر کرچکے ہو تو آدھا مہر دینا ہوگا۔ ہاں اگر عورتیں مہر بخش دیں یا مرد جن کے ہاتھ میں عقد نکاح ہے (اپنا حق) چھوڑ دیں۔ (اور پورا مہر دے دیں تو ان کو اختیار ہے) اور اگر تم مرد لوگ ہ اپنا حق چھوڑ دو تو یہ پرہیزگاری کی بات ہے۔ اور آپس میں بھلائی کرنے کو فراموش نہ کرنا۔ کچھ شک نہیں کہ خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/2/237)
 
 #### 5:2 · [[005 Al-Maidah]]
@@ -83,6 +87,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not violate the rites of Allāh or [the sanctity of] the sacred month or [neglect the marking of] the sacrificial animals and garlanding [them] or [violate the safety of] those coming to the Sacred House seeking bounty from their Lord and [His] approval. But when you come out of iḥrām, then [you may] hunt. And do not let the hatred of a people for having obstructed you from al-Masjid al-Ḥarām lead you to transgress. And cooperate in righteousness and piety, but do not cooperate in sin and aggression. And fear Allāh; indeed, Allāh is severe in penalty.
 
 **English (Yusuf Ali):** O ye who believe! Violate not the sanctity of the symbols of Allah, nor of the sacred month, nor of the animals brought for sacrifice, nor the garlands that mark out such animals, nor the people resorting to the sacred house, seeking of the bounty and good pleasure of their Lord. But when ye are clear of the sacred precincts and of pilgrim garb, ye may hunt and let not the hatred of some people in (once) shutting you out of the Sacred Mosque lead you to transgression (and hostility on your part). Help ye one another in righteousness and piety, but help ye not one another in sin and rancour: fear Allah: for Allah is strict in punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کے نام کی چیزوں کی بےحرمتی نہ کرنا اور نہ ادب کے مہینے کی اور نہ قربانی کے جانوروں کی اور نہ ان جانوروں کی (جو خدا کی نذر کر دیئے گئے ہوں اور) جن کے گلوں میں پٹے بندھے ہوں اور نہ ان لوگوں کی جو عزت کے گھر (یعنی بیت الله) کو جا رہے ہوں (اور) اپنے پروردگار کے فضل اور اس کی خوشنودی کے طلبگار ہوں اور جب احرام اتار دو تو (پھر اختیار ہے کہ) شکار کرو اور لوگوں کی دشمنی اس وجہ سے کہ انہوں نے تم کو عزت والی مسجد سے روکا تھا تمہیں اس بات پر آمادہ نہ کرے کہ تم ان پر زیادتی کرنے لگو اور (دیکھو) نیکی اور پرہیزگاری کے کاموں میں ایک دوسرے کی مدد کیا کرو اور گناہ اور ظلم کی باتوں میں مدد نہ کیا کرو اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا کا عذاب سخت ہے
 
 [Open on Quran.com](https://quran.com/5/2)
 
@@ -100,6 +106,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! stand out firmly for Allah, as witnesses to fair dealing, and let not the hatred of others to you make you swerve to wrong and depart from justice. Be just: that is next to piety: and fear Allah. For Allah is well-acquainted with all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والوں! خدا کے لیے انصاف کی گواہی دینے کے لیے کھڑے ہو جایا کرو۔ اور لوگوں کی دشمنی تم کو اس بات پر آمادہ نہ کرے کہ انصاف چھوڑ دو۔ انصاف کیا کرو کہ یہی پرہیزگاری کی بات ہے اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا تمہارے سب اعمال سے خبردار ہے
+
 [Open on Quran.com](https://quran.com/5/8)
 
 #### 7:26 · [[007 Al-Araf]]
@@ -115,6 +123,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O children of Adam, We have bestowed upon you clothing to conceal your private parts and as adornment. But the clothing of righteousness - that is best. That is from the signs of Allāh that perhaps they will remember.
 
 **English (Yusuf Ali):** O ye Children of Adam! We have bestowed raiment upon you to cover your shame, as well as to be an adornment to you. But the raiment of righteousness,- that is the best. Such are among the Signs of Allah, that they may receive admonition!
+
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی آدم ہم نے تم پر پوشاک اتاری کہ تمہارا ستر ڈھانکے اور (تمہارے بدن کو) زینت (دے) اور (جو) پرہیزگاری کا لباس (ہے) وہ سب سے اچھا ہے۔ یہ خدا کی نشانیاں ہیں تاکہ لوگ نصحیت پکڑ یں
 
 [Open on Quran.com](https://quran.com/7/26)
 
@@ -132,6 +142,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Never stand thou forth therein. There is a mosque whose foundation was laid from the first day on piety; it is more worthy of the standing forth (for prayer) therein. In it are men who love to be purified; and Allah loveth those who make themselves pure.
 
+**Urdu (Fatah Muhammad Jalandhari):** تم اس (مسجد) میں کبھی (جاکر) کھڑے بھی نہ ہونا۔ البتہ وہ مسجد جس کی بنیاد پہلے دن سے تقویٰ پر رکھی گئی ہے اس قابل ہے کہ اس میں جایا (اور نماز پڑھایا) کرو۔ اس میں ایسے لوگ ہیں جو کہ پاک رہنے کو پسند کرتے ہیں۔ اور خدا پاک رہنے والوں کو ہی پسند کرتا ہے
+
 [Open on Quran.com](https://quran.com/9/108)
 
 #### 9:109 · [[009 At-Tawbah]]
@@ -147,6 +159,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then is one who laid the foundation of his building on righteousness [with fear] from Allāh and [seeking] His approval better or one who laid the foundation of his building on the edge of a bank about to collapse, so it collapsed with him into the fire of Hell? And Allāh does not guide the wrongdoing people.
 
 **English (Yusuf Ali):** Which then is best? - he that layeth his foundation on piety to Allah and His good pleasure? - or he that layeth his foundation on an undermined sand-cliff ready to crumble to pieces? and it doth crumble to pieces with him, into the fire of Hell. And Allah guideth not people that do wrong.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس شخص نے اپنی عمارت کی بنیاد خدا کے خوف اور اس کی رضامندی پر رکھی وہ اچھا ہے یا وہ جس نے اپنی عمارت کی بنیاد گر جانے والی کھائی کے کنارے پر رکھی کہ وہ اس کو دوزخ کی آگ میں لے گری اور خدا ظالموں کو ہدایت نہیں دیتا
 
 [Open on Quran.com](https://quran.com/9/109)
 
@@ -164,6 +178,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Enjoin prayer on thy people, and be constant therein. We ask thee not to provide sustenance: We provide it for thee. But the (fruit of) the Hereafter is for righteousness.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے گھر والوں کو نماز کا حکم کرو اور اس پر قائم رہو۔ ہم تم سے روزی کے خواستگار نہیں۔ بلکہ تمہیں ہم روزی دیتے ہیں اور (نیک) انجام (اہل) تقویٰ کا ہے
+
 [Open on Quran.com](https://quran.com/20/132)
 
 #### 22:32 · [[022 Al-Hajj]]
@@ -180,6 +196,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Such (is his state): and whoever holds in honour the symbols of Allah, (in the sacrifice of animals), such (honour) should come truly from piety of heart.
 
+**Urdu (Fatah Muhammad Jalandhari):** (یہ ہمارا حکم ہے) اور جو شخص ادب کی چیزوں کی جو خدا نے مقرر کی ہیں عظمت رکھے تو یہ (فعل) دلوں کی پرہیزگاری میں سے ہے
+
 [Open on Quran.com](https://quran.com/22/32)
 
 #### 22:37 · [[022 Al-Hajj]]
@@ -195,6 +213,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Their meat will not reach Allāh, nor will their blood, but what reaches Him is piety from you. Thus have We subjected them to you that you may glorify Allāh for that [to] which He has guided you; and give good tidings to the doers of good.
 
 **English (Yusuf Ali):** It is not their meat nor their blood, that reaches Allah: it is your piety that reaches Him: He has thus made them subject to you, that ye may glorify Allah for His Guidance to you and proclaim the good news to all who do right.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تک نہ اُن کا گوشت پہنچتا ہے اور نہ خون۔ بلکہ اس تک تمہاری پرہیزگاری پہنچتی ہے۔ اسی طرح خدا نے ان کو تمہارا مسخر کر دیا ہے تاکہ اس بات کے بدلے کہ اس نے تم کو ہدایت بخشی ہے اسے بزرگی سے یاد کرو۔ اور (اے پیغمبر) نیکوکاروں کو خوشخبری سنا دو
 
 [Open on Quran.com](https://quran.com/22/37)
 

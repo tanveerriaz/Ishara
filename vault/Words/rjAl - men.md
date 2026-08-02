@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rjl - rijl]]
+- [[rjl - leg foot humans]]
 
 ### Meaning
 **men** · Lemma **رِجال**
@@ -38,7 +38,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:228 · [[002 Al-Baqarah]]
 
@@ -53,6 +53,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Divorced women remain in waiting [i.e., do not remarry] for three periods, and it is not lawful for them to conceal what Allāh has created in their wombs if they believe in Allāh and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to them [i.e., the wives] is similar to what is expected of them, according to what is reasonable. But the men [i.e., husbands] have a degree over them [in responsibility and authority]. And Allāh is Exalted in Might and Wise.
 
 **English (Yusuf Ali):** Divorced women shall wait concerning themselves for three monthly periods. Nor is it lawful for them to hide what Allah Hath created in their wombs, if they have faith in Allah and the Last Day. And their husbands have the better right to take them back in that period, if they wish for reconciliation. And women shall have rights similar to the rights against them, according to what is equitable; but men have a degree (of advantage) over them. And Allah is Exalted in Power, Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
 
 [Open on Quran.com](https://quran.com/2/228)
 
@@ -70,6 +72,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If ye fear (an enemy), pray on foot, or riding, (as may be most convenient), but when ye are in security, celebrate Allah's praises in the manner He has taught you, which ye knew not (before).
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم خوف کی حالت میں ہو تو پیادے یا سوار (جس حال میں ہو نماز پڑھ لو) پھر جب امن (واطمینان) ہوجائے تو جس طریق سے خدا نے تم کو سکھایا ہے جو تم پہلے نہیں جانتے تھے خدا کو یاد کرو
+
 [Open on Quran.com](https://quran.com/2/239)
 
 #### 2:282 · [[002 Al-Baqarah]]
@@ -85,6 +89,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, when you contract a debt for a specified term, write it down. And let a scribe write [it] between you in justice. Let no scribe refuse to write as Allāh has taught him. So let him write and let the one who has the obligation [i.e., the debtor] dictate. And let him fear Allāh, his Lord, and not leave anything out of it. But if the one who has the obligation is of limited understanding or weak or unable to dictate himself, then let his guardian dictate in justice. And bring to witness two witnesses from among your men. And if there are not two men [available], then a man and two women from those whom you accept as witnesses - so that if one of them [i.e., the women] errs, then the other can remind her. And let not the witnesses refuse when they are called upon. And do not be [too] weary to write it, whether it is small or large, for its [specified] term. That is more just in the sight of Allāh and stronger as evidence and more likely to prevent doubt between you, except when it is an immediate transaction which you conduct among yourselves. For [then] there is no blame upon you if you do not write it. And take witnesses when you conclude a contract. Let no scribe be harmed or any witness. For if you do so, indeed, it is [grave] disobedience in you. And fear Allāh. And Allāh teaches you. And Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah; For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/2/282)
 
@@ -102,6 +108,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O mankind! reverence your Guardian-Lord, who created you from a single person, created, of like nature, His mate, and from them twain scattered (like seeds) countless men and women;- reverence Allah, through whom ye demand your mutual (rights), and (reverence) the wombs (That bore you): for Allah ever watches over you.
 
+**Urdu (Fatah Muhammad Jalandhari):** لوگو اپنے پروردگار سے ڈرو جس نے تم کو ایک شخص سے پیدا کیا (یعنی اول) اس سے اس کا جوڑا بنایا۔ پھر ان دونوں سے کثرت سے مرد وعورت (پیدا کرکے روئے زمین پر) پھیلا دیئے۔ اور خدا سے جس کے نام کو تم اپنی حاجت بر آری کا ذریعہ بناتے ہو ڈرو اور (قطع مودت) ارحام سے (بچو) کچھ شک نہیں کہ خدا تمہیں دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/4/1)
 
 #### 4:7 · [[004 An-Nisa]]
@@ -117,6 +125,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For men is a share of what the parents and close relatives leave, and for women is a share of what the parents and close relatives leave, be it little or much - an obligatory share.
 
 **English (Yusuf Ali):** From what is left by parents and those nearest related there is a share for men and a share for women, whether the property be small or large,-a determinate share.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو مال ماں باپ اور رشتہ دار چھوڑ مریں تھوڑا ہو یا بہت۔ اس میں مردوں کا بھی حصہ ہے اور عورتوں کا بھی یہ حصے (خدا کے) مقرر کئے ہوئے ہیں
 
 [Open on Quran.com](https://quran.com/4/7)
 
@@ -134,6 +144,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And in no wise covet those things in which Allah Hath bestowed His gifts More freely on some of you than on others: To men is allotted what they earn, and to women what they earn: But ask Allah of His bounty. For Allah hath full knowledge of all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جس چیز میں خدا نے تم میں سے بعض کو بعض پر فضیلت دی ہے اس کی ہوس مت کرو مردوں کو ان کاموں کا ثواب ہے جو انہوں نے کئے اور عورتوں کو ان کاموں کا ثواب ہے جو انہوں نے کئے اور خدا سے اس کا فضل (وکرم) مانگتے رہو کچھ شک نہیں کہ خدا ہر چیز سے واقف ہے
+
 [Open on Quran.com](https://quran.com/4/32)
 
 #### 4:34 · [[004 An-Nisa]]
@@ -149,6 +161,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Men are in charge of women by [right of] what Allāh has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allāh would have them guard. But those [wives] from whom you fear arrogance - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them [lightly]. But if they obey you [once more], seek no means against them. Indeed, Allāh is ever Exalted and Grand.
 
 **English (Yusuf Ali):** Men are the protectors and maintainers of women, because Allah has given the one more (strength) than the other, and because they support them from their means. Therefore the righteous women are devoutly obedient, and guard in (the husband's) absence what Allah would have them guard. As to those women on whose part ye fear disloyalty and ill-conduct, admonish them (first), (Next), refuse to share their beds, (And last) beat them (lightly); but if they return to obedience, seek not against them Means (of annoyance): For Allah is Most High, great (above you all).
+
+**Urdu (Fatah Muhammad Jalandhari):** مرد عورتوں پر مسلط وحاکم ہیں اس لئے کہ خدا نے بعض کو بعض سے افضل بنایا ہے اور اس لئے بھی کہ مرد اپنا مال خرچ کرتے ہیں تو جو نیک بیبیاں ہیں وہ مردوں کے حکم پر چلتی ہیں اور ان کے پیٹھ پیچھے خدا کی حفاظت میں (مال وآبرو کی) خبرداری کرتی ہیں اور جن عورتوں کی نسبت تمہیں معلوم ہو کہ سرکشی (اور بدخوئی) کرنے لگی ہیں تو (پہلے) ان کو (زبانی) سمجھاؤ (اگر نہ سمجھیں تو) پھر ان کے ساتھ سونا ترک کردو اگر اس پر بھی باز نہ آئیں تو زدوکوب کرو اور اگر فرمانبردار ہوجائیں تو پھر ان کو ایذا دینے کا کوئی بہانہ مت ڈھونڈو بےشک خدا سب سے اعلیٰ (اور) جلیل القدر ہے
 
 [Open on Quran.com](https://quran.com/4/34)
 
@@ -166,6 +180,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And why should ye not fight in the cause of Allah and of those who, being weak, are ill-treated (and oppressed)?- Men, women, and children, whose cry is: "Our Lord! Rescue us from this town, whose people are oppressors; and raise for us from thee one who will protect; and raise for us from thee one who will help!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کو کیا ہوا ہے کہ خدا کی راہ میں اور اُن بےبس مردوں اور عورتوں اور بچوں کی خاطر نہیں لڑتے جو دعائیں کیا کرتے ہیں کہ اے پروردگار ہم کو اس شہر سے جس کے رہنے والے ظالم ہیں نکال کر کہیں اور لے جا۔ اور اپنی طرف سے کسی کو ہمارا حامی بنا۔ اور اپنی ہی طرف سے کسی کو ہمارا مددگار مقرر فرما
+
 [Open on Quran.com](https://quran.com/4/75)
 
 #### 4:98 · [[004 An-Nisa]]
@@ -182,6 +198,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Except those who are (really) weak and oppressed - men, women, and children - who have no means in their power, nor (a guide-post) to their way.
 
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جو مرد اور عورتیں اور بچے بےبس ہیں کہ نہ تو کوئی چارہ کر سکتے ہیں اور نہ رستہ جانتے ہیں
+
 [Open on Quran.com](https://quran.com/4/98)
 
 #### 4:176 · [[004 An-Nisa]]
@@ -197,6 +215,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They request from you a [legal] ruling. Say, "Allāh gives you a ruling concerning one having neither descendants nor ascendants [as heirs]." If a man dies, leaving no child but [only] a sister, she will have half of what he left. And he inherits from her if she [dies and] has no child. But if there are two sisters [or more], they will have two thirds of what he left. If there are both brothers and sisters, the male will have the share of two females. Allāh makes clear to you [His law], lest you go astray. And Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** They ask thee for a legal decision. Say: Allah directs (thus) about those who leave no descendants or ascendants as heirs. If it is a man that dies, leaving a sister but no child, she shall have half the inheritance: If (such a deceased was) a woman, who left no child, Her brother takes her inheritance: If there are two sisters, they shall have two-thirds of the inheritance (between them): if there are brothers and sisters, (they share), the male having twice the share of the female. Thus doth Allah make clear to you (His law), lest ye err. And Allah hath knowledge of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگ تم سے (کلالہ کے بارے میں) حکم (خدا) دریافت کرتے ہیں کہہ دو کہ خدا کلالہ بارے میں یہ حکم دیتا ہے کہ اگر کوئی ایسا مرد مرجائے جس کے اولاد نہ ہو (اور نہ ماں باپ) اور اس کے بہن ہو تو اس کو بھائی کے ترکے میں سے آدھا حصہ ملے گا۔ اور اگر بہن مرجائے اور اس کے اولاد نہ ہو تو اس کے تمام مال کا وارث بھائی ہوگا اور اگر (مرنے والے بھائی کی) دو بہنیں ہوں تو دونوں کو بھائی کے ترکے میں سے دو تہائی۔ اور اگر بھائی اور بہن یعنی مرد اور عورتیں ملے جلے وارث ہوں تو مرد کا حصہ دو عورتوں کے برابر ہے۔ (یہ احکام) خدا تم سے اس لئے بیان فرماتا ہے کہ بھٹکتے نہ پھرو۔ اور خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/4/176)
 

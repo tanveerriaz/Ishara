@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xfy - khfy]]
+- [[xfy - hidden]]
 
 ### Meaning
 **hidden** · Lemma **يَخْفَى**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:5 · [[003 Ali Imran]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, from Allāh nothing is hidden in the earth nor in the heaven.
 
 **English (Yusuf Ali):** From Allah, verily nothing is hidden on earth or in the heavens.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا (ایسا خبیر وبصیر ہے کہ) کوئی چیز اس سے پوشیدہ نہیں نہ زمین میں اور نہ آسمان میں
 
 [Open on Quran.com](https://quran.com/3/5)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "O our Lord! truly Thou dost know what we conceal and what we reveal: for nothing whatever is hidden from Allah, whether on earth or in heaven.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار جو بات ہم چھپاتے اور جو ظاہر کرتے ہیں تو سب جانتا ہے۔ اور خدا سے کوئی چیز مخفی نہیں (نہ) زمین میں نہ آسمان میں
+
 [Open on Quran.com](https://quran.com/14/38)
 
 #### 40:16 · [[040 Ghafir]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The Day they come forth nothing concerning them will be concealed from Allāh. To whom belongs [all] sovereignty this Day? To Allāh, the One, the Prevailing.
 
 **English (Yusuf Ali):** The Day whereon they will (all) come forth: not a single thing concerning them is hidden from Allah. Whose will be the dominion that Day?" That of Allah, the One the Irresistible!
+
+**Urdu (Fatah Muhammad Jalandhari):** جس روز وہ نکل پڑیں گے ان کی کوئی چیز خدا سے مخفی نہ رہے گی۔ آج کس کی بادشاہت ہے؟ خدا کی جو اکیلا اور غالب ہے
 
 [Open on Quran.com](https://quran.com/40/16)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who pervert the Truth in Our Signs are not hidden from Us. Which is better?- he that is cast into the Fire, or he that comes safe through, on the Day of Judgment? Do what ye will: verily He seeth (clearly) all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ہماری آیتوں میں کج راہی کرتے ہیں وہ ہم سے پوشیدہ نہیں ہیں۔ بھلا جو شخص دوزخ میں ڈالا جائے وہ بہتر ہے یا وہ جو قیامت کے دن امن وامان سے آئے۔ (تو خیر) جو چاہو سو کرلو۔ جو کچھ تم کرتے ہو وہ اس کو دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/41/40)
 
 #### 69:18 · [[069 Al-Haqqah]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** That Day shall ye be brought to Judgment: not an act of yours that ye hide will be hidden.
 
+**Urdu (Fatah Muhammad Jalandhari):** اس روز تم (سب لوگوں کے سامنے) پیش کئے جاؤ گے اور تمہاری کوئی پوشیدہ بات چھپی نہ رہے گی
+
 [Open on Quran.com](https://quran.com/69/18)
 
 #### 87:7 · [[087 Al-Ala]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except what Allāh should will. Indeed, He knows what is declared and what is hidden.
 
 **English (Yusuf Ali):** Except as Allah wills: For He knoweth what is manifest and what is hidden.
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر جو خدا چاہے۔ وہ کھلی بات کو بھی جانتا ہے اور چھپی کو بھی
 
 [Open on Quran.com](https://quran.com/87/7)
 

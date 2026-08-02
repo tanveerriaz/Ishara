@@ -46,7 +46,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:36 · [[002 Al-Baqarah]]
 
@@ -61,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But Satan caused them to slip out of it and removed them from that [condition] in which they had been. And We said, "Go down, [all of you], as enemies to one another, and you will have upon the earth a place of settlement and provision for a time."
 
 **English (Yusuf Ali):** Then did Satan make them slip from the (garden), and get them out of the state (of felicity) in which they had been. We said: "Get ye down, all (ye people), with enmity between yourselves. On earth will be your dwelling-place and your means of livelihood - for a time."
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر شیطان نے دونوں کو وہاں سے پھسلا دیا اور جس (عیش ونشاط) میں تھے، اس سے ان کو نکلوا دیا۔ تب ہم نے حکم دیا کہ (بہشت بریں سے) چلے جاؤ۔ تم ایک دوسرے کے دشمن ہو، اور تمہارے لیے زمین میں ایک وقت تک ٹھکانا اور معاش (مقرر کر دیا گیا) ہے
 
 [Open on Quran.com](https://quran.com/2/36)
 
@@ -78,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There is no blame on you if ye divorce women before consummation or the fixation of their dower; but bestow on them (A suitable gift), the wealthy according to his means, and the poor according to his means;- A gift of a reasonable amount is due from those who wish to do the right thing.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے یا ان کا مہر مقرر کرنے سے پہلے طلاق دے دو تو تم پر کچھ گناہ نہیں۔ ہاں ان کو دستور کے مطابق کچھ خرچ ضرور دو (یعنی) مقدور والا اپنے مقدور کے مطابق دے اور تنگدست اپنی حیثیت کے مطابق۔ نیک لوگوں پر یہ ایک طرح کا حق ہے
+
 [Open on Quran.com](https://quran.com/2/236)
 
 #### 2:240 · [[002 Al-Baqarah]]
@@ -93,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who are taken in death among you and leave wives behind - for their wives is a bequest: maintenance for one year without turning [them] out. But if they leave [of their own accord], then there is no blame upon you for what they do with themselves in an acceptable way. And Allāh is Exalted in Might and Wise.
 
 **English (Yusuf Ali):** Those of you who die and leave widows should bequeath for their widows a year's maintenance and residence; but if they leave (The residence), there is no blame on you for what they do with themselves, provided it is reasonable. And Allah is Exalted in Power, Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم میں سے مرجائیں اور عورتیں چھوڑ جائیں وہ اپنی عورتوں کے حق میں وصیت کرجائیں کہ ان کو ایک سال تک خرچ دیا جائے اور گھر سے نہ نکالی جائیں۔ ہاں اگر وہ خود گھر سے نکل جائیں اور اپنے حق میں پسندیدہ کام (یعنی نکاح) کرلیں تو تم پر کچھ گناہ نہیں۔ اور خدا زبردست حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/2/240)
 
@@ -110,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For divorced women Maintenance (should be provided) on a reasonable (scale). This is a duty on the righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور مطلقہ عورتوں کو بھی دستور کے مطابق نان و نفقہ دینا چاہیئے پرہیزگاروں پر (یہ بھی) حق ہے
+
 [Open on Quran.com](https://quran.com/2/241)
 
 #### 3:14 · [[003 Ali Imran]]
@@ -125,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allāh has with Him the best return [i.e., Paradise].
 
 **English (Yusuf Ali):** Fair in the eyes of men is the love of things they covet: Women and sons; Heaped-up hoards of gold and silver; horses branded (for blood and excellence); and (wealth of) cattle and well-tilled land. Such are the possessions of this world's life; but in nearness to Allah is the best of the goals (To return to).
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/3/14)
 
@@ -142,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Every soul shall have a taste of death: And only on the Day of Judgment shall you be paid your full recompense. Only he who is saved far from the Fire and admitted to the Garden will have attained the object (of Life): For the life of this world is but goods and chattels of deception.
 
+**Urdu (Fatah Muhammad Jalandhari):** ہر متنفس کو موت کا مزا چکھنا ہے اور تم کو قیامت کے دن تمہارے اعمال کا پورا پورا بدلا دیا جائے گا۔ تو جو شخص آتش جہنم سے دور رکھا گیا اور بہشت میں داخل کیا گیا وہ مراد کو پہنچ گیا اور دنیا کی زندگی تو دھوکے کا سامان ہے
+
 [Open on Quran.com](https://quran.com/3/185)
 
 #### 3:197 · [[003 Ali Imran]]
@@ -157,6 +169,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [It is but] a small enjoyment; then their [final] refuge is Hell, and wretched is the resting place.
 
 **English (Yusuf Ali):** Little is it for enjoyment: Their ultimate abode is Hell: what an evil bed (To lie on)!
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ دنیا کا) تھوڑا سا فائدہ ہے پھر (آخرت میں) تو ان کا ٹھکانا دوزخ ہے اور وہ بری جگہ ہے
 
 [Open on Quran.com](https://quran.com/3/197)
 
@@ -174,6 +188,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Hast thou not turned Thy vision to those who were told to hold back their hands (from fight) but establish regular prayers and spend in regular charity? When (at length) the order for fighting was issued to them, behold! a section of them feared men as - or even more than - they should have feared Allah: They said: "Our Lord! Why hast Thou ordered us to fight? Wouldst Thou not Grant us respite to our (natural) term, near (enough)?" Say: "Short is the enjoyment of this world: the Hereafter is the best for those who do right: Never will ye be dealt with unjustly in the very least!
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جن کو (پہلے یہ) حکم دیا گیا تھا کہ اپنے ہاتھوں کو (جنگ سے) روکے رہو اور نماز پڑھتے رہو اور زکوٰة دیتے رہو پھر جب ان پر جہاد فرض کردیا گیا تو بعض لوگ ان میں سے لوگوں سے یوں ڈرنے لگے جیسے خدا سے ڈرا کرتے ہیں بلکہ اس سے بھی زیادہ اور بڑبڑانے لگے کہ اے خدا تو نے ہم پر جہاد (جلد) کیوں فرض کردیا تھوڑی مدت اور ہمیں کیوں مہلت نہ دی (اے پیغمبر ان س)ے کہہ دو کہ دنیا کا فائدہ بہت تھوڑا ہے اور بہت اچھی چیز تو پرہیزگار کے لئے (نجات) آخرت ہے اور تم پر دھاگے برابر بھی ظلم نہیں کیا جائے گا
+
 [Open on Quran.com](https://quran.com/4/77)
 
 #### 4:102 · [[004 An-Nisa]]
@@ -190,6 +206,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When thou (O Messenger) art with them, and standest to lead them in prayer, Let one party of them stand up (in prayer) with thee, Taking their arms with them: When they finish their prostrations, let them Take their position in the rear. And let the other party come up which hath not yet prayed - and let them pray with thee, Taking all precaution, and bearing arms: the Unbelievers wish, if ye were negligent of your arms and your baggage, to assault you in a single rush. But there is no blame on you if ye put away your arms because of the inconvenience of rain or because ye are ill; but take (every) precaution for yourselves. For the Unbelievers Allah hath prepared a humiliating punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) جب تم ان (مجاہدین کے لشکر) میں ہو اور ان کو نماز پڑھانے لگو تو چاہیئے کہ ان کی ایک جماعت تمہارے ساتھ مسلح ہو کر کھڑی رہے جب وہ سجدہ کرچکیں تو پرے ہو جائیں پھر دوسری جماعت جس نے نماز نہیں پڑھی (ان کی جگہ) آئے اور ہوشیار اور مسلح ہو کر تمہارے ساتھ نماز ادا کرے کافر اس گھات میں ہیں کہ تم ذرا اپنے ہتھیاروں اور سامان سے غافل ہو جاؤ تو تم پر یکبارگی حملہ کردیں اگر تم بارش کے سبب تکلیف میں یا بیمار ہو تو تم پر کچھ گناہ نہیں کہ ہتھیار اتار رکھو مگر ہوشیار ضرور رہنا خدا نے کافروں کے لئے ذلت کا عذاب تیار کر رکھا ہے
+
 [Open on Quran.com](https://quran.com/4/102)
 
 #### 5:96 · [[005 Al-Maidah]]
@@ -205,6 +223,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Lawful to you is game from the sea and its food as provision for you and the travelers, but forbidden to you is game from the land as long as you are in the state of iḥrām. And fear Allāh to whom you will be gathered.
 
 **English (Yusuf Ali):** Lawful to you is the pursuit of water-game and its use for food,- for the benefit of yourselves and those who travel; but forbidden is the pursuit of land-game;- as long as ye are in the sacred precincts or in pilgrim garb. And fear Allah, to Whom ye shall be gathered back.
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہارے لیے دریا (کی چیزوں) کا شکار اور ان کا کھانا حلال کر دیا گیا ہے (یعنی) تمہارے اور مسافروں کے فائدے کے لیے اور جنگل (کی چیزوں) کا شکار جب تک تم احرام کی حالت میں رہو تم پر حرام ہے اور خدا سے جس کے پاس تم (سب) جمع کئے جاؤ گے ڈرتے رہو
 
 [Open on Quran.com](https://quran.com/5/96)
 

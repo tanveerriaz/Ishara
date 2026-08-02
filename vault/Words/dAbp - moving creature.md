@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:164 · [[002 Al-Baqarah]]
 
@@ -52,6 +52,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, in the creation of the heavens and the earth, and the alternation of the night and the day, and the [great] ships which sail through the sea with that which benefits people, and what Allāh has sent down from the heavens of rain, giving life thereby to the earth after its lifelessness and dispersing therein every [kind of] moving creature, and [His] directing of the winds and the clouds controlled between the heaven and earth are signs for a people who use reason.
 
 **English (Yusuf Ali):** Behold! in the creation of the heavens and the earth; in the alternation of the night and the day; in the sailing of the ships through the ocean for the profit of mankind; in the rain which Allah Sends down from the skies, and the life which He gives therewith to an earth that is dead; in the beasts of all kinds that He scatters through the earth; in the change of the winds, and the clouds which they Trail like their slaves between the sky and the earth;- (Here) indeed are Signs for a people that are wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** بےشک آسمانوں اور زمین کے پیدا کرنے میں اور رات اور دن کے ایک دوسرے کے پیچھے آنے جانے میں اور کشتیوں اور جہازوں میں جو دریا میں لوگوں کے فائدے کی چیزیں لے کر رواں ہیں اور مینہ میں جس کو خدا آسمان سے برساتا اور اس سے زمین کو مرنے کے بعد زندہ (یعنی خشک ہوئے پیچھے سرسبز) کردیتا ہے اور زمین پر ہر قسم کے جانور پھیلانے میں اور ہواؤں کے چلانےمیں اور بادلوں میں جو آسمان اور زمین کے درمیان گھرے رہتے ہیں۔ عقلمندوں کے لئے (خدا کی قدرت کی) نشانیاں ہیں
 
 [Open on Quran.com](https://quran.com/2/164)
 
@@ -69,6 +71,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There is not an animal (that lives) on the earth, nor a being that flies on its wings, but (forms part of) communities like you. Nothing have we omitted from the Book, and they (all) shall be gathered to their Lord in the end.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور زمین میں جو چلنے پھرنے والا (حیوان) یا دو پروں سے اڑنے والا جانور ہے ان کی بھی تم لوگوں کی طرح جماعتیں ہیں۔ ہم نے کتاب (یعنی لوح محفوظ) میں کسی چیز (کے لکھنے) میں کوتاہی نہیں کی پھر سب اپنے پروردگار کی طرف جمع کئے جائیں گے
+
 [Open on Quran.com](https://quran.com/6/38)
 
 #### 8:22 · [[008 Al-Anfal]]
@@ -84,6 +88,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the worst of living creatures in the sight of Allāh are the deaf and dumb who do not use reason [i.e., the disbelievers].
 
 **English (Yusuf Ali):** For the worst of beasts in the sight of Allah are the deaf and the dumb,- those who understand not.
+
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ خدا کے نزدیک تمام جانداروں سے بدتر بہرے گونگے ہیں جو کچھ نہیں سمجھتے
 
 [Open on Quran.com](https://quran.com/8/22)
 
@@ -101,6 +107,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For the worst of beasts in the sight of Allah are those who reject Him: They will not believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** جانداروں میں سب سے بدتر خدا کے نزدیک وہ لوگ ہیں جو کافر ہیں سو وہ ایمان نہیں لاتے
+
 [Open on Quran.com](https://quran.com/8/55)
 
 #### 11:6 · [[011 Hud]]
@@ -116,6 +124,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And there is no creature on earth but that upon Allāh is its provision, and He knows its place of dwelling and place of storage. All is in a clear register.
 
 **English (Yusuf Ali):** There is no moving creature on earth but its sustenance dependeth on Allah: He knoweth the time and place of its definite abode and its temporary deposit: All is in a clear Record.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور زمین پر کوئی چلنے پھرنے والا نہیں مگر اس کا رزق خدا کے ذمے ہے وہ جہاں رہتا ہے، اسے بھی جانتا ہے اور جہاں سونپا جاتا ہے اسے بھی۔ یہ سب کچھ کتاب روشن میں (لکھا ہوا) ہے
 
 [Open on Quran.com](https://quran.com/11/6)
 
@@ -133,6 +143,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "I put my trust in Allah, My Lord and your Lord! There is not a moving creature, but He hath grasp of its fore-lock. Verily, it is my Lord that is on a straight Path.
 
+**Urdu (Fatah Muhammad Jalandhari):** میں خدا پر جو میرا اور تمہارا (سب کا) پروردگار ہے، بھروسہ رکھتا ہوں (زمین پر) جو چلنے پھرنے والا ہے وہ اس کو چوٹی سے پکڑے ہوئے ہے۔ بےشک میرا پروردگار سیدھے رستے پر ہے
+
 [Open on Quran.com](https://quran.com/11/56)
 
 #### 16:49 · [[016 An-Nahl]]
@@ -148,6 +160,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And to Allāh prostrates whatever is in the heavens and whatever is on the earth of creatures, and the angels [as well], and they are not arrogant.
 
 **English (Yusuf Ali):** And to Allah doth obeisance all that is in the heavens and on earth, whether moving (living) creatures or the angels: for none are arrogant (before their Lord).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تمام جاندار جو آسمانوں میں ہیں اور جو زمین میں ہیں سب خدا کے آگے سجدہ کرتے ہیں اور فرشتے بھی اور وہ ذرا غرور نہیں کرتے
 
 [Open on Quran.com](https://quran.com/16/49)
 
@@ -165,6 +179,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If Allah were to punish men for their wrong-doing, He would not leave, on the (earth), a single living creature: but He gives them respite for a stated Term: When their Term expires, they would not be able to delay (the punishment) for a single hour, just as they would not be able to anticipate it (for a single hour).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا لوگوں کو ان کے ظلم کے سبب پکڑنے لگے تو ایک جاندار کو زمین پر نہ چھوڑے لیکن ان کو ایک وقت مقرر تک مہلت دیئے جاتا ہے۔ جب وہ وقت آجاتا ہے تو ایک گھڑی نہ پیچھے رہ سکتے ہیں نہ آگے بڑھ سکتے ہیں
+
 [Open on Quran.com](https://quran.com/16/61)
 
 #### 22:18 · [[022 Al-Hajj]]
@@ -181,6 +197,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Seest thou not that to Allah bow down in worship all things that are in the heavens and on earth,- the sun, the moon, the stars; the hills, the trees, the animals; and a great number among mankind? But a great number are (also) such as are fit for Punishment: and such as Allah shall disgrace,- None can raise to honour: for Allah carries out all that He wills.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ جو (مخلوق) آسمانوں میں ہے اور جو زمین میں ہے اور سورج اور چاند ستارے اور پہاڑ اور درخت اور چار پائے اور بہت سے انسان خدا کو سجدہ کرتے ہیں۔ اور بہت سے ایسے ہیں جن پر عذاب ثابت ہوچکا ہے۔ اور جس شخص کو خدا ذلیل کرے اس کو عزت دینے والا نہیں۔ بےشک خدا جو چاہتا ہے کرتا ہے
+
 [Open on Quran.com](https://quran.com/22/18)
 
 #### 24:45 · [[024 An-Nur]]
@@ -196,6 +214,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh has created every [living] creature from water. And of them are those that move on their bellies, and of them are those that walk on two legs, and of them are those that walk on four. Allāh creates what He wills. Indeed, Allāh is over all things competent.
 
 **English (Yusuf Ali):** And Allah has created every animal from water: of them there are some that creep on their bellies; some that walk on two legs; and some that walk on four. Allah creates what He wills for verily Allah has power over all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے ہر چلنے پھرنے والے جاندار کو پانی سے پیدا کیا۔ تو اس میں بعضے ایسے ہیں کہ پیٹ کے بل چلتے ہیں اور بعض ایسے ہیں جو دو پاؤں پر چلتے ہیں اور بعض ایسے ہیں جو چار پاؤں پر چلتے ہیں۔ خدا جو چاہتا ہے پیدا کرتا ہے، بےشک خدا ہر چیز پر قادر ہے
 
 [Open on Quran.com](https://quran.com/24/45)
 

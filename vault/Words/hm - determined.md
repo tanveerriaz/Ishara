@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:122 · [[003 Ali Imran]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** When two parties among you were about to lose courage, but Allāh was their ally; and upon Allāh the believers should rely.
 
 **English (Yusuf Ali):** Remember two of your parties Meditated cowardice; but Allah was their protector, and in Allah should the faithful (Ever) put their trust.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس وقت تم میں سے دو جماعتوں نے جی چھوڑ دینا چاہا مگر خدا ان کا مددگار تھا اور مومنوں کو خدا ہی پر بھروسہ رکھنا چاہیئے
 
 [Open on Quran.com](https://quran.com/3/122)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But for the Grace of Allah to thee and his Mercy, a party of them would certainly have plotted to lead thee astray. But (in fact) they will only Lead their own souls astray, and to thee they can do no harm in the least. For Allah hath sent down to thee the Book and wisdom and taught thee what thou Knewest not (before): And great is the Grace of Allah unto thee.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم پر خدا کا فضل اور مہربانی نہ ہوتی تو ان میں سے ایک جماعت تم کو بہکانے کا قصد کر ہی چکی تھی اور یہ اپنے سوا (کسی کو) بہکا نہیں سکتے اور نہ تمہارا کچھ بگاڑ سکتے ہیں اور خدا نے تم پر کتاب اور دانائی نازل فرمائی ہے اور تمہیں وہ باتیں سکھائی ہیں جو تم جانتے نہیں تھے اور تم پر خدا کا بڑا فضل ہے
+
 [Open on Quran.com](https://quran.com/4/113)
 
 #### 5:11 · [[005 Al-Maidah]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, remember the favor of Allāh upon you when a people determined to extend their hands [in aggression] against you, but He withheld their hands from you; and fear Allāh. And upon Allāh let the believers rely.
 
 **English (Yusuf Ali):** O ye who believe! Call in remembrance the favour of Allah unto you when certain men formed the design to stretch out their hands against you, but (Allah) held back their hands from you: so fear Allah. And on Allah let believers put (all) their trust.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! خدا نے جو تم پر احسان کیا ہے اس کو یاد کرو۔ جب ایک جماعت نے ارادہ کیا کہ تم پر دست درازی کریں تو اس نے ان کے ہاتھ روک دیئے اور خدا سے ڈرتے رہوں اور مومنو کو خدا ہی پر بھروسہ رکھنا چاہیئے
 
 [Open on Quran.com](https://quran.com/5/11)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Will ye not fight people who violated their oaths, plotted to expel the Messenger, and took the aggressive by being the first (to assault) you? Do ye fear them? Nay, it is Allah Whom ye should more justly fear, if ye believe!
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم ایسے لوگوں سے کیوں نہ لڑو جنہوں نے اپنی قسموں کو توڑ ڈالا اور پیغمبر (خدا) کے جلا وطن کرنے کا عزم مصمم کر لیا اور انہوں نے تم سے (عہد شکنی کی) ابتدا کی۔ کیا تم ایسے لوگوں سے ڈرتے ہو حالانکہ ڈرنے کے لائق خدا ہے بشرطیکہ ایمان رکھتے ہو
+
 [Open on Quran.com](https://quran.com/9/13)
 
 #### 9:74 · [[009 At-Tawbah]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They swear by Allāh that they did not say [anything against the Prophet (ﷺ)] while they had said the word of disbelief and disbelieved after their [pretense of] Islām and planned that which they were not to attain. And they were not resentful except [for the fact] that Allāh and His Messenger had enriched them of His bounty. So if they repent, it is better for them; but if they turn away, Allāh will punish them with a painful punishment in this world and the Hereafter. And there will not be for them on earth any protector or helper.
 
 **English (Yusuf Ali):** They swear by Allah that they said nothing (evil), but indeed they uttered blasphemy, and they did it after accepting Islam; and they meditated a plot which they were unable to carry out: this revenge of theirs was (their) only return for the bounty with which Allah and His Messenger had enriched them! If they repent, it will be best for them; but if they turn back (to their evil ways), Allah will punish them with a grievous penalty in this life and in the Hereafter: They shall have none on earth to protect or help them.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ خدا کی قسمیں کھاتے ہیں کہ انہوں نے (تو کچھ) نہیں کہا حالانکہ انہوں نے کفر کا کلمہ کہا ہے اور یہ اسلام لانے کے بعد کافر ہوگئے ہیں اور ایسی بات کا قصد کرچکے ہیں جس پر قدرت نہیں پاسکے۔ اور انہوں نے (مسلمانوں میں) عیب ہی کون سا دیکھا ہے سوا اس کے کہ خدا نے اپنے فضل سے اور اس کے پیغمبر نے (اپنی مہربانی سے) ان کو دولت مند کر دیا ہے۔ تو اگر یہ لوگ توبہ کرلیں تو ان کے حق میں بہتر ہوگا۔ اور اگر منہ پھیر لیں تو ان کو دنیا اور آخرت میں دکھ دینے والا عذاب دے گا اور زمین میں ان کا کوئی دوست اور مددگار نہ ہوگا
 
 [Open on Quran.com](https://quran.com/9/74)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And (with passion) did she desire him, and he would have desired her, but that he saw the evidence of his Lord: thus (did We order) that We might turn away from him (all) evil and shameful deeds: for he was one of Our servants, sincere and purified.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس عورت نے ان کا قصد کیا اور انہوں نے اس کا قصد کیا۔ اگر وہ اپنے پروردگار کی نشانی نہ دیکھتے (تو جو ہوتا ہوتا) یوں اس لیے (کیا گیا) کہ ہم ان سے برائی اور بےحیائی کو روک دیں۔ بےشک وہ ہمارے خالص بندوں میں سے تھے
+
 [Open on Quran.com](https://quran.com/12/24)
 
 #### 40:5 · [[040 Ghafir]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The people of Noah denied before them and the [disbelieving] factions after them, and every nation intended [a plot] for their messenger to seize him, and they disputed by [using] falsehood to [attempt to] invalidate thereby the truth. So I seized them, and how [terrible] was My penalty.
 
 **English (Yusuf Ali):** But (there were people) before them, who denied (the Signs),- the People of Noah, and the Confederates (of Evil) after them; and every People plotted against their prophet, to seize him, and disputed by means of vanities, therewith to condemn the Truth; but it was I that seized them! and how (terrible) was My Requital!
+
+**Urdu (Fatah Muhammad Jalandhari):** ان سے پہلے نوح کی قوم اور ان کے بعد اور اُمتوں نے بھی (پیغمبروں کی) تکذیب کی۔ اور ہر اُمت نے اپنے پیغمبر کے بارے میں یہی قصد کیا کہ اس کو پکڑ لیں اور بیہودہ (شہبات سے) جھگڑتے رہے کہ اس سے حق کو زائل کردیں تو میں نے ان کو پکڑ لیا (سو دیکھ لو) میرا عذاب کیسا ہوا
 
 [Open on Quran.com](https://quran.com/40/5)
 

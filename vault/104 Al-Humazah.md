@@ -14,31 +14,31 @@ The Traducer · 9 ayahs
 
 ## Words in this surah (graph)
 
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
 - [[Edd - number]] — `عَدَد` · number
-- [[nAr - fire]] — `نار` · fire
-- [[allah - God]] — `الله` · God
-- [[TlE - discover]] — `طَلَعَ` · discover
-- [[mAl - wealth]] — `مال` · wealth
-- [[Emd - pillars]] — `عَمَد` · pillars
-- [[>drY - can make you]] — `أَدْرَى` · can make you
 - [[Hsb - think]] — `حَسْب` · think
 - [[nb* - threw away]] — `نَبَذَ` · threw away
+- [[Emd - pillars]] — `عَمَد` · pillars
 - [[kl - every]] — `كُلّ` · every
+- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[allah - God]] — `الله` · God
+- [[mAl - wealth]] — `مال` · wealth
+- [[nAr - fire]] — `نار` · fire
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[TlE - discover]] — `طَلَعَ` · discover
 
 ## Roots
 
 - [[Edd - count]]
 - [[Emd - tent pole column]]
-- [[HTm - htm]]
+- [[HTm - break]]
 - [[Hsb - number]]
 - [[TlE - rising]]
 - [[allah - God]]
 - [[dry - know]]
 - [[f>d - heart]]
 - [[hmz - press]]
-- [[jmE - jme]]
+- [[jmE - collection]]
 - [[kll - every]]
 - [[lmz - someone habitually blames]]
 - [[mdd - spread]]
@@ -47,7 +47,7 @@ The Traducer · 9 ayahs
 - [[nwr - brand mark camels]]
 - [[wSd - open space court]]
 - [[wqd - waqada]]
-- [[xld - khld]]
+- [[xld - type bracelet earring]]
 
 ## Sample (ayah 1)
 

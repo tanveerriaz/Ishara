@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[b>s - bas]]
+- [[b>s - wretched]]
 
 ### Meaning
 **punishment** · Lemma **بَأْس**
@@ -38,7 +38,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:177 · [[002 Al-Baqarah]]
 
@@ -53,6 +53,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
 
 **English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/177)
 
@@ -70,6 +72,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then fight in Allah's cause - Thou art held responsible only for thyself - and rouse the believers. It may be that Allah will restrain the fury of the Unbelievers; for Allah is the strongest in might and in punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو (اے محمدﷺ) تم خدا کی راہ میں لڑو تم اپنے سوا کسی کے ذمہ دار نہیں اور مومنوں کو بھی ترغیب دو قریب ہے کہ خدا کافروں کی لڑائی کو بند کردے اور خدا لڑائی کے اعتبار سے بہت سخت ہے اور سزا کے لحاظ سے بھی بہت سخت ہے
+
 [Open on Quran.com](https://quran.com/4/84)
 
 #### 6:43 · [[006 Al-Anam]]
@@ -85,6 +89,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then why, when Our punishment came to them, did they not humble themselves? But their hearts became hardened, and Satan made attractive to them that which they were doing.
 
 **English (Yusuf Ali):** When the suffering reached them from us, why then did they not learn humility? On the contrary their hearts became hardened, and Satan made their (sinful) acts seem alluring to them.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جب ان پر ہمارا عذاب آتا رہا کیوں نہیں عاجزی کرتے رہے۔ مگر ان کے تو دل ہی سخت ہوگئے تھے۔ اور جو وہ کام کرتے تھے شیطان ان کو (ان کی نظروں میں) آراستہ کر دکھاتا تھا
 
 [Open on Quran.com](https://quran.com/6/43)
 
@@ -102,6 +108,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "He hath power to send calamities on you, from above and below, or to cover you with confusion in party strife, giving you a taste of mutual vengeance - each from the other." See how We explain the signs by various (symbols); that they may understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ وہ (اس پر بھی) قدرت رکھتا ہے کہ تم پر اوپر کی طرف سے یا تمہارے پاؤں کے نیچے سے عذاب بھیجے یا تمہیں فرقہ فرقہ کردے اور ایک کو دوسرے (سے لڑا کر آپس) کی لڑائی کا مزہ چکھادے۔ دیکھو ہم اپنی آیتوں کو کس کس طرح بیان کرتے ہیں تاکہ یہ لوگ سمجھیں
+
 [Open on Quran.com](https://quran.com/6/65)
 
 #### 6:147 · [[006 Al-Anam]]
@@ -117,6 +125,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So if they deny you, [O Muḥammad], say, "Your Lord is the possessor of vast mercy; but His punishment cannot be repelled from the people who are criminals."
 
 **English (Yusuf Ali):** If they accuse thee of falsehood, say: "Your Lord is full of mercy all-embracing; but from people in guilt never will His wrath be turned back.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر یوں لوگ تمہاری تکذیب کریں تو کہہ دو تمہارا پروردگار صاحب رحمت وسیع ہے مگر اس کا عذاب گنہ گاروں لوگوں سے نہیں ٹلے گا
 
 [Open on Quran.com](https://quran.com/6/147)
 
@@ -134,6 +144,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who give partners (to Allah) will say: "If Allah had wished, we should not have given partners to Him nor would our fathers; nor should we have had any taboos." So did their ancestors argue falsely, until they tasted of Our wrath. Say: "Have ye any (certain) knowledge? If so, produce it before us. Ye follow nothing but conjecture: ye do nothing but lie."
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ شرک کرتے ہیں وہ کہیں گے کہ اگر خدا چاہتا تو ہم شرک نہ کرتے اور نہ ہمارے باپ دادا (شرک کرتے) اور نہ ہم کسی چیز کو حرام ٹھہراتے اسی طرح ان لوگوں نے تکذیب کی تھی جو ان سے پہلے تھے یہاں تک کہ ہمارے عذاب کا مزہ چکھ کر رہے کہہ دو کیا تمہارے پاس کوئی سند ہے (اگر ہے) تو اسے ہمارے سامنے نکالو تم محض خیال کے پیچھے چلتے اور اٹکل کی تیر چلاتے ہو
+
 [Open on Quran.com](https://quran.com/6/148)
 
 #### 7:4 · [[007 Al-Araf]]
@@ -149,6 +161,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And how many cities have We destroyed, and Our punishment came to them at night or while they were sleeping at noon.
 
 **English (Yusuf Ali):** How many towns have We destroyed (for their sins)? Our punishment took them on a sudden by night or while they slept for their afternoon rest.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کتنی ہی بستیاں ہیں کہ ہم نے تباہ کر ڈالیں جن پر ہمارا عذاب (یا تو رات کو) آتا تھا جبکہ وہ سوتے تھے یا (دن کو) جب وہ قیلولہ (یعنی دوپہر کو آرام) کرتے تھے
 
 [Open on Quran.com](https://quran.com/7/4)
 
@@ -166,6 +180,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When (thus) Our punishment took them, no cry did they utter but this: "Indeed we did wrong."
 
+**Urdu (Fatah Muhammad Jalandhari):** تو جس وقت ان پر عذاب آتا تھا ان کے منہ سے یہی نکلتا تھا کہ (ہائے) ہم (ہائے) ہم (اپنے اوپر) ظلم کرتے رہے
+
 [Open on Quran.com](https://quran.com/7/5)
 
 #### 7:97 · [[007 Al-Araf]]
@@ -182,6 +198,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Did the people of the towns feel secure against the coming of Our wrath by night while they were asleep?
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا بستیوں کے رہنے والے اس سے بےخوف ہیں کہ ان پر ہمارا عذاب رات کو واقع ہو اور وہ (بےخبر) سو رہے ہوں
+
 [Open on Quran.com](https://quran.com/7/97)
 
 #### 7:98 · [[007 Al-Araf]]
@@ -197,6 +215,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or did the people of the cities feel secure from Our punishment coming to them in the morning while they were at play?
 
 **English (Yusuf Ali):** Or else did they feel secure against its coming in broad daylight while they played about (care-free)?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کیا اہلِ شہر اس سے نڈر ہیں کہ ان پر ہمارا عذاب دن چڑھے آ نازل ہو اور وہ کھیل رہے ہوں
 
 [Open on Quran.com](https://quran.com/7/98)
 

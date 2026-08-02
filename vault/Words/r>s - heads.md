@@ -38,7 +38,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:196 · [[002 Al-Baqarah]]
 
@@ -53,6 +53,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And complete the ḥajj and ʿumrah for Allāh. But if you are prevented, then [offer] what can be obtained with ease of sacrificial animals. And do not shave your heads until the sacrificial animal has reached its place of slaughter. And whoever among you is ill or has an ailment of the head [making shaving necessary must offer] a ransom of fasting [three days] or charity or sacrifice. And when you are secure, then whoever performs ʿumrah [during the ḥajj months] followed by ḥajj [offers] what can be obtained with ease of sacrificial animals. And whoever cannot find [or afford such an animal] - then a fast of three days during ḥajj and of seven when you have returned [home]. Those are ten complete [days]. This is for those whose family is not in the area of al-Masjid al-Ḥarām. And fear Allāh and know that Allāh is severe in penalty.
 
 **English (Yusuf Ali):** And complete the Hajj or 'umra in the service of Allah. But if ye are prevented (From completing it), send an offering for sacrifice, such as ye may find, and do not shave your heads until the offering reaches the place of sacrifice. And if any of you is ill, or has an ailment in his scalp, (Necessitating shaving), (He should) in compensation either fast, or feed the poor, or offer sacrifice; and when ye are in peaceful conditions (again), if any one wishes to continue the 'umra on to the hajj, He must make an offering, such as he can afford, but if he cannot afford it, He should fast three days during the hajj and seven days on his return, Making ten days in all. This is for those whose household is not in (the precincts of) the Sacred Mosque. And fear Allah, and know that Allah Is strict in punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی خوشنودی) کے لئے حج اور عمرے کو پورا کرو۔ اور اگر (راستےمیں) روک لئے جاؤ تو جیسی قربانی میسر ہو (کردو) اور جب تک قربانی اپنے مقام پر نہ پہنچ جائے سر نہ منڈاؤ۔ اور اگر کوئی تم میں بیمار ہو یا اس کے سر میں کسی طرح کی تکلیف ہو تو (اگر وہ سر منڈالے تو) اس کے بدلے روزے رکھے یا صدقہ دے یا قربانی کرے پھر جب (تکلیف دور ہو کر) تم مطمئن ہوجاؤ تو جو (تم میں) حج کے وقت تک عمرے سے فائدہ اٹھانا چاہے وہ جیسی قربانی میسر ہو کرے۔ اور جس کو (قربانی) نہ ملے وہ تین روزے ایام حج میں رکھے اور سات جب واپس ہو۔ یہ پورے دس ہوئے۔ یہ حکم اس شخص کے لئے ہے جس کے اہل وعیال مکے میں نہ رہتے ہوں اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا سخت عذاب دینے والا ہے
 
 [Open on Quran.com](https://quran.com/2/196)
 
@@ -70,6 +72,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If ye do it not, Take notice of war from Allah and His Messenger: But if ye turn back, ye shall have your capital sums: Deal not unjustly, and ye shall not be dealt with unjustly.
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر ایسا نہ کرو گے تو خبردار ہوجاؤ (کہ تم) خدا اور رسول سے جنگ کرنے کے لئے (تیار ہوتے ہو) اور اگر توبہ کرلو گے (اور سود چھوڑ دو گے) تو تم کو اپنی اصل رقم لینے کا حق ہے جس میں نہ اوروں کا نقصان اور تمہارا نقصان
+
 [Open on Quran.com](https://quran.com/2/279)
 
 #### 5:6 · [[005 Al-Maidah]]
@@ -85,6 +89,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, when you rise to [perform] prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of janābah, then purify yourselves. But if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women and do not find water, then seek clean earth and wipe over your faces and hands with it. Allāh does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful.
 
 **English (Yusuf Ali):** O ye who believe! when ye prepare for prayer, wash your faces, and your hands (and arms) to the elbows; Rub your heads (with water); and (wash) your feet to the ankles. If ye are in a state of ceremonial impurity, bathe your whole body. But if ye are ill, or on a journey, or one of you cometh from offices of nature, or ye have been in contact with women, and ye find no water, then take for yourselves clean sand or earth, and rub therewith your faces and hands, Allah doth not wish to place you in a difficulty, but to make you clean, and to complete his favour to you, that ye may be grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم نماز پڑھنے کا قصد کیا کرو تم منہ اور کہنیوں تک ہاتھ دھو لیا کرو اور سر کا مسح کر لیا کرو اور ٹخنوں تک پاؤں (دھو لیا کرو) اور اگر نہانے کی حاجت ہو تو (نہا کر) پاک ہو جایا کرو اور اگر بیمار ہو یا سفر میں ہو یا کوئی تم میں سے بیت الخلا سے ہو کر آیا ہو یا تم عورتوں سے ہم بستر ہوئے ہو اور تمہیں پانی نہ مل سکے تو پاک مٹی لو اور اس سے منہ اور ہاتھوں کا مسح (یعنی تیمم) کر لو۔ خدا تم پر کسی طرح کی تنگی نہیں کرنا چاہتا بلکہ یہ چاہتا ہے کہ تمہیں پاک کرے اور اپنی نعمتیں تم پر پوری کرے تاکہ تم شکر کرو
 
 [Open on Quran.com](https://quran.com/5/6)
 
@@ -102,6 +108,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When Moses came back to his people, angry and grieved, he said: "Evil it is that ye have done in my place in my absence: did ye make haste to bring on the judgment of your Lord?" He put down the tablets, seized his brother by (the hair of) his head, and dragged him to him. Aaron said: "Son of my mother! the people did indeed reckon me as naught, and went near to slaying me! Make not the enemies rejoice over my misfortune, nor count thou me amongst the people of sin."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ اپنی قوم میں نہایت غصے اور افسوس کی حالت میں واپس آئے۔ تو کہنے لگے کہ تم نے میرے بعد بہت ہی بداطواری کی۔ کیا تم نے اپنے پروردگار کا حکم (یعنی میرا اپنے پاس آنا) جلد چاہا (یہ کہا) اور (شدت غضب سے تورات کی) تختیاں ڈال دیں اور اپنے بھائی کے سر (کے بالوں) کو پکڑ کر اپنی طرف کھینچنے لگے۔ انہوں نے کہا کہ بھائی جان لوگ تو مجھے کمزور سمجھتے تھے اور قریب تھا کہ قتل کردیں۔ تو ایسا کام نہ کیجیے کہ دشمن مجھ پر ہنسیں اور مجھے ظالم لوگوں میں مت ملایئے
+
 [Open on Quran.com](https://quran.com/7/150)
 
 #### 12:36 · [[012 Yusuf]]
@@ -117,6 +125,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And there entered the prison with him two young men. One of them said, "Indeed, I have seen myself [in a dream] pressing [grapes for] wine." The other said, "Indeed, I have seen myself carrying upon my head [some] bread, from which the birds were eating. Inform us of its interpretation; indeed, we see you to be of those who do good."
 
 **English (Yusuf Ali):** Now with him there came into the prison two young men. Said one of them: "I see myself (in a dream) pressing wine." said the other: "I see myself (in a dream) carrying bread on my head, and birds are eating, thereof." "Tell us" (they said) "The truth and meaning thereof: for we see thou art one that doth good (to all)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے ساتھ دو اور جوان بھی داخل زندان ہوئے۔ ایک نے ان میں سے کہا کہ (میں نے خواب دیکھا ہے) دیکھتا (کیا) ہوں کہ شراب (کے لیے انگور) نچوڑ رہا ہوں۔ دوسرے نے کہا کہ (میں نے بھی خواب دیکھا ہے) میں یہ دیکھتا ہوں کہ اپنے سر پر روٹیاں اٹھائے ہوئے ہوں اور جانور ان میں سے کھا رہے (ہیں تو) ہمیں ان کی تعبیر بتا دیجیئے کہ ہم تمہیں نیکوکار دیکھتے ہیں
 
 [Open on Quran.com](https://quran.com/12/36)
 
@@ -134,6 +144,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "O my two companions of the prison! As to one of you, he will pour out the wine for his lord to drink: as for the other, he will hang from the cross, and the birds will eat from off his head. (so) hath been decreed that matter whereof ye twain do enquire"...
 
+**Urdu (Fatah Muhammad Jalandhari):** میرے جیل خانے کے رفیقو! تم میں سے ایک (جو پہلا خواب بیان کرنے والا ہے وہ) تو اپنے آقا کو شراب پلایا کرے گا اور جو دوسرا ہے وہ سولی دیا جائے گا اور جانور اس کا سر کھا جائیں گے۔ جو امر تم مجھ سے پوچھتے تھے وہ فیصلہ ہوچکا ہے
+
 [Open on Quran.com](https://quran.com/12/41)
 
 #### 14:43 · [[014 Ibrahim]]
@@ -149,6 +161,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Racing ahead, their heads raised up, their glance does not come back to them, and their hearts are void.
 
 **English (Yusuf Ali):** They running forward with necks outstretched, their heads uplifted, their gaze returning not towards them, and their hearts a (gaping) void!
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور لوگ) سر اٹھائے ہوئے (میدان قیامت کی طرف) دوڑ رہے ہوں گے ان کی نگاہیں ان کی طرف لوٹ نہ سکیں گی اور ان کے دل (مارے خوف کے) ہوا ہو رہے ہوں گے
 
 [Open on Quran.com](https://quran.com/14/43)
 
@@ -166,6 +180,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Or created matter which, in your minds, is hardest (to be raised up),- (Yet shall ye be raised up)!" then will they say: "Who will cause us to return?" Say: "He who created you first!" Then will they wag their heads towards thee, and say, "When will that be?" Say, "May be it will be quite soon!
 
+**Urdu (Fatah Muhammad Jalandhari):** یا کوئی اور چیز جو تمہارے نزدیک (پتھر اور لوہے سے بھی) بڑی (سخت) ہو (جھٹ کہیں گے) کہ (بھلا) ہمیں دوبارہ کون جِلائے گا؟ کہہ دو کہ وہی جس نے تم کو پہلی بار پیدا کیا۔ تو (تعجب سے) تمہارے آگے سرہلائیں گے اور پوچھیں گے کہ ایسا کب ہوگا؟ کہہ دو کہ امید ہے جلد ہوگا
+
 [Open on Quran.com](https://quran.com/17/51)
 
 #### 19:4 · [[019 Maryam]]
@@ -182,6 +198,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Praying: "O my Lord! infirm indeed are my bones, and the hair of my head doth glisten with grey: but never am I unblest, O my Lord, in my prayer to Thee!
 
+**Urdu (Fatah Muhammad Jalandhari):** (اور) کہا کہ اے میرے پروردگار میری ہڈیاں بڑھاپے کے سبب کمزور ہوگئی ہیں اور سر (ہے کہ) بڑھاپے (کی وجہ سے) شعلہ مارنے لگا ہے اور اے میرے پروردگار میں تجھ سے مانگ کر کبھی محروم نہیں رہا
+
 [Open on Quran.com](https://quran.com/19/4)
 
 #### 20:94 · [[020 Taha]]
@@ -197,6 +215,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Aaron] said, "O son of my mother, do not seize [me] by my beard or by my head. Indeed, I feared that you would say, 'You caused division among the Children of Israel, and you did not observe [or await] my word.'"
 
 **English (Yusuf Ali):** (Aaron) replied: "O son of my mother! Seize (me) not by my beard nor by (the hair of) my head! Truly I feared lest thou shouldst say, 'Thou has caused a division among the children of Israel, and thou didst not respect my word!'"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہنے لگے کہ بھائی میری ڈاڑھی اور سر (کے بالوں) کو نہ پکڑیئے۔ میں تو اس سے ڈرا کہ آپ یہ نہ کہیں کہ تم نے بنی اسرائیل میں تفرقہ ڈال دیا اور میری بات کو ملحوظ نہ رکھا
 
 [Open on Quran.com](https://quran.com/20/94)
 

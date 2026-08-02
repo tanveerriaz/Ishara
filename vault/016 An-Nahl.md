@@ -14,84 +14,84 @@ The Bee · 128 ayahs
 
 ## Words in this surah (graph)
 
-- [[Zl - shade]] — `ظِلّ` · shade
-- [[bTn - bellies]] — `بَطْن` · bellies
-- [[jrm - doubt]] — `جَرَم` · doubt
 - [[lsAn - tongues]] — `لِسان` · tongues
-- [[njm - stars]] — `نَجْم` · stars
-- [[>nvY - female]] — `أُنثَى` · female
-- [[r'wf - full kindness]] — `رَءُوف` · full kindness
+- [[Zl - shade]] — `ظِلّ` · shade
+- [[jrm - doubt]] — `جَرَم` · doubt
+- [[bTn - bellies]] — `بَطْن` · bellies
+- [[>Eln - they declare]] — `أَعْلَن` · they declare
+- [[lwn - colors]] — `لَوْن` · colors
+- [[HlAl - lawful]] — `حَلال` · lawful
+- [[Hnyf - upright]] — `حَنِيف` · upright
+- [[tEAlY - exalted he]] — `تَعالَى` · exalted he
+- [[ySf - they attribute]] — `يَصِفُ` · they attribute
+- [[$rAb - drink]] — `شَراب` · drink
 - [[ytfkr - reflect]] — `يَتَفَكَّرُ` · reflect
+- [[nxyl - date-palms]] — `نَخِيل` · date-palms
+- [[sxr - subjected]] — `سَخِرَ` · subjected
+- [[dAbp - moving creature]] — `دابَّة` · moving creature
+- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[njm - stars]] — `نَجْم` · stars
+- [[dm - blood]] — `دَم` · blood
+- [[r'wf - full kindness]] — `رَءُوف` · full kindness
+- [[Enb - grapes]] — `عِنَب` · grapes
+- [[>nvY - female]] — `أُنثَى` · female
+- [[rwH - spirit]] — `رُوح` · spirit
 - [[blAg - conveyance]] — `بَلاغ` · conveyance
 - [[nqDt - break]] — `نَقَضَتْ` · break
 - [[Dr - adversity]] — `ضَرّ` · adversity
-- [[Hnyf - upright]] — `حَنِيف` · upright
-- [[slm - peace]] — `سِلْم` · peace
-- [[lHm - flesh]] — `لَحْم` · flesh
-- [[dAbp - moving creature]] — `دابَّة` · moving creature
-- [[HlAl - lawful]] — `حَلال` · lawful
-- [[lwn - colors]] — `لَوْن` · colors
-- [[Enb - grapes]] — `عِنَب` · grapes
-- [[mxtlf - various]] — `مُخْتَلِف` · various
-- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
-- [[mstkbr - arrogant]] — `مُسْتَكْبِر` · arrogant
-- [[$jr - trees]] — `شَجَرَ` · trees
-- [[dm - blood]] — `دَم` · blood
-- [[>sr - they conceal]] — `أَسَرَّ` · they conceal
-- [[rwH - spirit]] — `رُوح` · spirit
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$fy - heal recover illness]]
-- [[$hd - shhd]]
-- [[$hw - shhw]]
-- [[$jr - shjr]]
-- [[$kr - shkr]]
+- [[$hd - witnessing]]
+- [[$hw - they desire]]
+- [[$jr - trees]]
+- [[$kr - gratitude]]
 - [[$ml - include encompass something]]
 - [[$ms - horse refusing ridden]]
 - [[$qq - cleave]]
 - [[$rH - uncover]]
-- [[$rb - shrb]]
+- [[$rb - drink]]
 - [[$rk - sharing partnership]]
 - [[$ry - buy sell]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[*ll - humiliation]]
 - [[*r> - create]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
+- [[*wq - taste]]
+- [[>*n - ear]]
 - [[>Hd - anyone]]
-- [[>bw - abw]]
+- [[>bw - forefathers]]
 - [[>hl - people house]]
 - [[>jl - term]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
+- [[>ns - mankind]]
 - [[>nv - female]]
-- [[>rD - ard]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - like milk oil]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[Drb - tent]]
+- [[Drb - strike beat]]
 - [[Drr - adversity]]
-- [[Dyq - dyq]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[Dyq - become narrow strait]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Ebd - worship]]
-- [[Ebr - ebr]]
+- [[Ebr - cross pass something]]
 - [[Edd - count]]
-- [[Edl - edl]]
-- [[Edw - enemy]]
+- [[Edl - act justly equitably]]
+- [[Edw - turn]]
 
 ## Sample (ayah 1)
 

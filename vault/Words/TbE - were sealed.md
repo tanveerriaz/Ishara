@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[TbE - tbe]]
+- [[TbE - seal]]
 
 ### Meaning
 **were sealed** · Lemma **طَبَعَ**
@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:155 · [[004 An-Nisa]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [We cursed them] for their breaking of the covenant and their disbelief in the signs of Allāh and their killing of the prophets without right and their saying, "Our hearts are wrapped" [i.e., sealed against reception]. Rather, Allāh has sealed them because of their disbelief, so they believe not, except for a few.
 
 **English (Yusuf Ali):** (They have incurred divine displeasure): In that they broke their covenant; that they rejected the signs of Allah; that they slew the Messengers in defiance of right; that they said, "Our hearts are the wrappings (which preserve Allah's Word; We need no more)";- Nay, Allah hath set the seal on their hearts for their blasphemy, and little is it they believe;-
+
+**Urdu (Fatah Muhammad Jalandhari):** (لیکن انہوں نے عہد کو توڑ ڈالا) تو ان کے عہد توڑ دینے اور خدا کی آیتوں سے کفر کرنے اور انبیاء کو ناحق مار ڈالنے اور یہ کہنے کے سبب کہ ہمارے دلوں پر پردے (پڑے ہوئے) ہیں۔ (خدا نے ان کو مردود کردیا اور ان کے دلوں پر پردے نہیں ہیں) بلکہ ان کے کفر کے سبب خدا نے ان پر مہر کردی ہے تو یہ کم ہی ایمان لاتے ہیں
 
 [Open on Quran.com](https://quran.com/4/155)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To those who inherit the earth in succession to its (previous) possessors, is it not a guiding, (lesson) that, if We so willed, We could punish them (too) for their sins, and seal up their hearts so that they could not hear?
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان لوگوں کو جو اہلِ زمین کے (مرجانے کے) بعد زمین کے مالک ہوتے ہیں، یہ امر موجب ہدایت نہیں ہوا کہ اگر ہم چاہیں تو ان کے گناہوں کے سبب ان پر مصیبت ڈال دیں۔ اور ان کے دلوں پر مہر لگادیں کہ کچھ سن ہی نہ سکیں
+
 [Open on Quran.com](https://quran.com/7/100)
 
 #### 7:101 · [[007 Al-Araf]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those cities - We relate to you, [O Muḥammad], some of their news. And certainly did their messengers come to them with clear proofs, but they were not to believe in that which they had denied before. Thus does Allāh seal over the hearts of the disbelievers.
 
 **English (Yusuf Ali):** Such were the towns whose story We (thus) relate unto thee: There came indeed to them their messengers with clear (signs): But they would not believe what they had rejected before. Thus doth Allah seal up the hearts of those who reject faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ بستیاں ہیں جن کے کچھ حالات ہم تم کو سناتے ہیں۔ اور ان کے پاس ان کے پیغمبر نشانیاں لے کر آئے۔ مگر وہ ایسے نہیں تھے کہ جس چیز کو پہلے جھٹلا چکے ہوں اسے مان لیں اسی طرح خدا کافروں کے دلوں پر مہر لگا دیتا ہے
 
 [Open on Quran.com](https://quran.com/7/101)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They prefer to be with (the women), who remain behind (at home): their hearts are sealed and so they understand not.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس بات سے خوش ہیں کہ عورتوں کے ساتھ جو پیچھے رہ جاتی ہیں۔ (گھروں میں بیٹھ) رہیں ان کے دلوں پر مہر لگا دی گئی ہے تو یہ سمجھتے ہی نہیں
+
 [Open on Quran.com](https://quran.com/9/87)
 
 #### 9:93 · [[009 At-Tawbah]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The cause [for blame] is only upon those who ask permission of you while they are rich. They are satisfied to be with those who stay behind, and Allāh has sealed over their hearts, so they do not know.
 
 **English (Yusuf Ali):** The ground (of complaint) is against such as claim exemption while they are rich. They prefer to stay with the (women) who remain behind: Allah hath sealed their hearts; so they know not (What they miss).
+
+**Urdu (Fatah Muhammad Jalandhari):** الزام تو ان لوگوں پر ہے۔ جو دولت مند ہیں اور (پھر) تم سے اجازت طلب کرتے ہیں (یعنی) اس بات سے خوش ہیں کہ عورتوں کے ساتھ جو پیچھے رہ جاتی ہیں (گھروں میں بیٹھ) رہیں۔ خدا نے ان کے دلوں پر مہر کردی ہے پس وہ سمجھتے ہی نہیں
 
 [Open on Quran.com](https://quran.com/9/93)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then after him We sent (many) messengers to their peoples: they brought them Clear Signs, but they would not believe what they had already rejected beforehand. Thus do We seal the hearts of the transgressors.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر نوح کے بعد ہم نے اور پیغمبر اپنی اپنی قوم کی طرف بھیجے۔ تو وہ ان کے پاس کھلی نشانیاں لے کر آئے۔ مگر وہ لوگ ایسے نہ تھے کہ جس چیز کی پہلے تکذیب کرچکے تھے اس پر ایمان لے آتے۔ اسی طرح ہم زیادتی کرنے والوں کے دلوں پر مہر لگا دیتے ہیں
+
 [Open on Quran.com](https://quran.com/10/74)
 
 #### 16:108 · [[016 An-Nahl]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the ones over whose hearts and hearing and vision Allāh has sealed, and it is those who are the heedless.
 
 **English (Yusuf Ali):** Those are they whose hearts, ears, and eyes Allah has sealed up, and they take no heed.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن کے دلوں پر اور کانوں پر اور آنکھوں پر خدا نے مہر لگا رکھی ہے۔ اور یہی غفلت میں پڑے ہوئے ہیں
 
 [Open on Quran.com](https://quran.com/16/108)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thus does Allah seal up the hearts of those who understand not.
 
+**Urdu (Fatah Muhammad Jalandhari):** اسی طرح خدا اُن لوگوں کے دلوں پر جو سمجھ نہیں رکھتے مہر لگا دیتا ہے
+
 [Open on Quran.com](https://quran.com/30/59)
 
 #### 40:35 · [[040 Ghafir]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "(Such) as dispute about the Signs of Allah, without any authority that hath reached them, grievous and odious (is such conduct) in the sight of Allah and of the Believers. Thus doth Allah, seal up every heart - of arrogant and obstinate Transgressors."
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ بغیر اس کے کہ ان کے پاس کوئی دلیل آئی ہو خدا کی آیتوں میں جھگڑتے ہیں۔ خدا کے نزدیک اور مومنوں کے نزدیک یہ جھگڑا سخت ناپسند ہے۔ اسی طرح خدا ہر متکبر سرکش کے دل پر مہر لگا دیتا ہے
+
 [Open on Quran.com](https://quran.com/40/35)
 
 #### 47:16 · [[047 Muhammad]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And among them, [O Muḥammad], are those who listen to you, until when they depart from you, they say to those who were given knowledge, "What has he said just now?" Those are the ones of whom Allāh has sealed over their hearts and who have followed their [own] desires.
 
 **English (Yusuf Ali):** And among them are men who listen to thee, but in the end, when they go out from thee, they say to those who have received Knowledge, "What is it he said just then?" Such are men whose hearts Allah has sealed, and who follow their own lusts.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں بعض ایسے بھی ہیں جو تمہاری طرف کان لگائے یہاں تک کہ (سب کچھ سنتے ہیں لیکن) جب تمہارے پاس سے نکل کر چلے جاتے ہیں تو جن لوگوں کو علم (دین) دیا گیا ہے ان سے کہتے ہیں کہ (بھلا) انہوں نے ابھی کیا کہا تھا؟ یہی لوگ ہیں جن کے دلوں پر خدا نے مہر لگا رکھی ہے اور وہ اپنی خواہشوں کے پیچھے چل رہے ہیں
 
 [Open on Quran.com](https://quran.com/47/16)
 

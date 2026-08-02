@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:228 · [[002 Al-Baqarah]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Divorced women remain in waiting [i.e., do not remarry] for three periods, and it is not lawful for them to conceal what Allāh has created in their wombs if they believe in Allāh and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to them [i.e., the wives] is similar to what is expected of them, according to what is reasonable. But the men [i.e., husbands] have a degree over them [in responsibility and authority]. And Allāh is Exalted in Might and Wise.
 
 **English (Yusuf Ali):** Divorced women shall wait concerning themselves for three monthly periods. Nor is it lawful for them to hide what Allah Hath created in their wombs, if they have faith in Allah and the Last Day. And their husbands have the better right to take them back in that period, if they wish for reconciliation. And women shall have rights similar to the rights against them, according to what is equitable; but men have a degree (of advantage) over them. And Allah is Exalted in Power, Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
 
 [Open on Quran.com](https://quran.com/2/228)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A divorce is only permissible twice: after that, the parties should either hold Together on equitable terms, or separate with kindness. It is not lawful for you, (Men), to take back any of your gifts (from your wives), except when both parties fear that they would be unable to keep the limits ordained by Allah. If ye (judges) do indeed fear that they would be unable to keep the limits ordained by Allah, there is no blame on either of them if she give something for her freedom. These are the limits ordained by Allah; so do not transgress them if any do transgress the limits ordained by Allah, such persons wrong (Themselves as well as others).
 
+**Urdu (Fatah Muhammad Jalandhari):** طلاق (صرف) دوبار ہے (یعنی جب دو دفعہ طلاق دے دی جائے تو) پھر (عورتوں کو) یا تو بطریق شائستہ (نکاح میں) رہنے دینا یا بھلائی کے ساتھ چھوڑ دینا۔ اور یہ جائز نہیں کہ جو مہر تم ان کو دے چکے ہو اس میں سے کچھ واپس لے لو۔ ہاں اگر زن و شوہر کو خوف ہو کہ وہ خدا کی حدوں کو قائم نہیں رکھ سکیں گے تو اگر عورت (خاوند کے ہاتھ سے) رہائی پانے کے بدلے میں کچھ دے ڈالے تو دونوں پر کچھ گناہ نہیں۔ یہ خدا کی (مقرر کی ہوئی) حدیں ہیں ان سے باہر نہ نکلنا۔ اور جو لوگ خدا کی حدوں سے باہر نکل جائیں گے وہ گنہگار ہوں گے
+
 [Open on Quran.com](https://quran.com/2/229)
 
 #### 2:230 · [[002 Al-Baqarah]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if he has divorced her [for the third time], then she is not lawful to him afterward until [after] she marries a husband other than him. And if he [i.e., the latter husband] divorces her [or dies], there is no blame upon them [i.e., the woman and her former husband] for returning to each other if they think that they can keep [within] the limits of Allāh. These are the limits of Allāh, which He makes clear to a people who know [i.e.,understand].
 
 **English (Yusuf Ali):** So if a husband divorces his wife (irrevocably), He cannot, after that, re-marry her until after she has married another husband and He has divorced her. In that case there is no blame on either of them if they re-unite, provided they feel that they can keep the limits ordained by Allah. Such are the limits ordained by Allah, which He makes plain to those who understand.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اگر شوہر (دو طلاقوں کے بعد تیسری) طلاق عورت کو دے دے تو اس کے بعد جب تک عورت کسی دوسرے شخص سے نکاح نہ کرلے اس (پہلے شوہر) پر حلال نہ ہوگی۔ ہاں اگر دوسرا خاوند بھی طلاق دے دے اورعورت اور پہلا خاوند پھر ایک دوسرے کی طرف رجوع کرلیں تو ان پر کچھ گناہ نہیں بشرطیکہ دونوں یقین کریں کہ خدا کی حدوں کو قائم رکھ سکیں گے اور یہ خدا کی حدیں ہیں ان کو وہ ان لوگوں کے لئے بیان فرماتا ہے جو دانش رکھتے ہیں
 
 [Open on Quran.com](https://quran.com/2/230)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Ye are forbidden to inherit women against their will. Nor should ye treat them with harshness, that ye may Take away part of the dower ye have given them,-except where they have been guilty of open lewdness; on the contrary live with them on a footing of kindness and equity. If ye take a dislike to them it may be that ye dislike a thing, and Allah brings about through it a great deal of good.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم کو جائز نہیں کہ زبردستی عورتوں کے وارث بن جاؤ۔ اور (دیکھنا) اس نیت سے کہ جو کچھ تم نے ان کو دیا ہے اس میں سے کچھ لے لو انہیں (گھروں میں) میں مت روک رکھنا ہاں اگر وہ کھلے طور پر بدکاری کی مرتکب ہوں (تو روکنا مناسب نہیں) اور ان کے ساتھ اچھی طرح رہو سہو اگر وہ تم کو ناپسند ہوں تو عجب نہیں کہ تم کسی چیز کو ناپسند کرو اور خدا اس میں بہت سی بھلائی پیدا کردے
+
 [Open on Quran.com](https://quran.com/4/19)
 
 #### 5:2 · [[005 Al-Maidah]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not violate the rites of Allāh or [the sanctity of] the sacred month or [neglect the marking of] the sacrificial animals and garlanding [them] or [violate the safety of] those coming to the Sacred House seeking bounty from their Lord and [His] approval. But when you come out of iḥrām, then [you may] hunt. And do not let the hatred of a people for having obstructed you from al-Masjid al-Ḥarām lead you to transgress. And cooperate in righteousness and piety, but do not cooperate in sin and aggression. And fear Allāh; indeed, Allāh is severe in penalty.
 
 **English (Yusuf Ali):** O ye who believe! Violate not the sanctity of the symbols of Allah, nor of the sacred month, nor of the animals brought for sacrifice, nor the garlands that mark out such animals, nor the people resorting to the sacred house, seeking of the bounty and good pleasure of their Lord. But when ye are clear of the sacred precincts and of pilgrim garb, ye may hunt and let not the hatred of some people in (once) shutting you out of the Sacred Mosque lead you to transgression (and hostility on your part). Help ye one another in righteousness and piety, but help ye not one another in sin and rancour: fear Allah: for Allah is strict in punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کے نام کی چیزوں کی بےحرمتی نہ کرنا اور نہ ادب کے مہینے کی اور نہ قربانی کے جانوروں کی اور نہ ان جانوروں کی (جو خدا کی نذر کر دیئے گئے ہوں اور) جن کے گلوں میں پٹے بندھے ہوں اور نہ ان لوگوں کی جو عزت کے گھر (یعنی بیت الله) کو جا رہے ہوں (اور) اپنے پروردگار کے فضل اور اس کی خوشنودی کے طلبگار ہوں اور جب احرام اتار دو تو (پھر اختیار ہے کہ) شکار کرو اور لوگوں کی دشمنی اس وجہ سے کہ انہوں نے تم کو عزت والی مسجد سے روکا تھا تمہیں اس بات پر آمادہ نہ کرے کہ تم ان پر زیادتی کرنے لگو اور (دیکھو) نیکی اور پرہیزگاری کے کاموں میں ایک دوسرے کی مدد کیا کرو اور گناہ اور ظلم کی باتوں میں مدد نہ کیا کرو اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا کا عذاب سخت ہے
 
 [Open on Quran.com](https://quran.com/5/2)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "But soon will ye know who it is on whom will descend a penalty that will cover them with shame,- on whom will be unloosed a penalty lasting:"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کو جلد معلوم ہوجائے گا کہ کس پر عذاب آتا ہے اور جو اسے رسوا کرے گا اور کس پر ہمیشہ کا عذاب نازل ہوتا ہے
+
 [Open on Quran.com](https://quran.com/11/39)
 
 #### 13:31 · [[013 Ar-Rad]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if there was any Qur’ān [i.e., recitation] by which the mountains would be removed or the earth would be broken apart or the dead would be made to speak, [it would be this Qur’ān], but to Allāh belongs the affair entirely. Then have those who believed not accepted that had Allāh willed, He would have guided the people, all of them? And those who disbelieve do not cease to be struck, for what they have done, by calamity - or it will descend near their home - until there comes the promise of Allāh. Indeed, Allāh does not fail in [His] promise.
 
 **English (Yusuf Ali):** If there were a Qur'an with which mountains were moved, or the earth were cloven asunder, or the dead were made to speak, (this would be the one!) But, truly, the command is with Allah in all things! Do not the Believers know, that, had Allah (so) willed, He could have guided all mankind (to the right)? But the Unbelievers,- never will disaster cease to seize them for their (ill) deeds, or to settle close to their homes, until the promise of Allah come to pass, for, verily, Allah will not fail in His promise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر کوئی قرآن ایسا ہوتا کہ اس (کی تاثیر) سے پہاڑ چل پڑتے یا زمین پھٹ جاتی یا مردوں سے کلام کرسکتے۔ (تو یہی قرآن ان اوصاف سے متصف ہوتا مگر) بات یہ ہے کہ سب باتیں خدا کے اختیار میں ہیں تو کیا مومنوں کو اس سے اطمینان نہیں ہوا کہ اگر خدا چاہتا تو سب لوگوں کو ہدایت کے رستے پر چلا دیتا۔ اور کافروں پر ہمیشہ ان کے اعمال کے بدلے بلا آتی رہے گی یا ان کے مکانات کے قریب نازل ہوتی رہے گی یہاں تک کہ خدا کا وعدہ آپہنچے۔ بےشک خدا وعدہ خلاف نہیں کرتا
 
 [Open on Quran.com](https://quran.com/13/31)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And remove the impediment from my speech,
 
+**Urdu (Fatah Muhammad Jalandhari):** اور میری زبان کی گرہ کھول دے
+
 [Open on Quran.com](https://quran.com/20/27)
 
 #### 20:81 · [[020 Taha]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Saying): "Eat of the good things We have provided for your sustenance, but commit no excess therein, lest My Wrath should justly descend on you: and those on whom descends My Wrath do perish indeed!
 
+**Urdu (Fatah Muhammad Jalandhari):** (اور حکم دیا کہ) جو پاکیزہ چیزیں ہم نے تم کو دی ہیں ان کو کھاؤ۔ اور اس میں حد سے نہ نکلنا۔ ورنہ تم پر میرا غضب نازل ہوگا۔ اور جس پر میرا غضب نازل ہوا وہ ہلاک ہوگیا
+
 [Open on Quran.com](https://quran.com/20/81)
 
 #### 20:86 · [[020 Taha]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So Moses returned to his people, angry and grieved. He said, "O my people, did your Lord not make you a good promise? Then, was the time [of its fulfillment] too long for you, or did you wish that wrath from your Lord descend upon you, so you broke your promise [of obedience] to me?"
 
 **English (Yusuf Ali):** So Moses returned to his people in a state of indignation and sorrow. He said: "O my people! did not your Lord make a handsome promise to you? Did then the promise seem to you long (in coming)? Or did ye desire that Wrath should descend from your Lord on you, and so ye broke your promise to me?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ غصّے اور غم کی حالت میں اپنی قوم کے پاس واپس آئے (اور) کہنے لگے کہ اے قوم کیا تمہارے پروردگار نے تم سے ایک اچھا وعدہ نہیں کیا تھا؟ کیا (میری جدائی کی) مدت تمہیں دراز (معلوم) ہوئی یا تم نے چاہا کہ تم پر تمہارے پروردگار کی طرف سے غضب نازل ہو۔ اور (اس لئے) تم نے مجھ سے جو وعدہ کیا تھا (اس کے) خلاف کیا
 
 [Open on Quran.com](https://quran.com/20/86)
 

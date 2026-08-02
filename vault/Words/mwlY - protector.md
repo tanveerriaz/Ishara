@@ -35,7 +35,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:286 · [[002 Al-Baqarah]]
 
@@ -50,6 +50,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people."
 
 **English (Yusuf Ali):** On no soul doth Allah Place a burden greater than it can bear. It gets every good that it earns, and it suffers every ill that it earns. (Pray:) "Our Lord! Condemn us not if we forget or fall into error; our Lord! Lay not on us a burden Like that which Thou didst lay on those before us; Our Lord! Lay not on us a burden greater than we have strength to bear. Blot out our sins, and grant us forgiveness. Have mercy on us. Thou art our Protector; Help us against those who stand against faith."
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتا۔ اچھے کام کرے گا تو اس کو ان کا فائدہ ملے گا برے کرے گا تو اسے ان کا نقصان پہنچے گا۔ اے پروردگار اگر ہم سے بھول یا چوک ہوگئی ہو تو ہم سے مؤاخذہ نہ کیجیو۔ اے پروردگار ہم پر ایسا بوجھ نہ ڈالیو جیسا تو نے ہم سے پہلے لوگوں پر ڈالا تھا۔ اے پروردگار جتنا بوجھ اٹھانے کی ہم میں طاقت نہیں اتنا ہمارے سر پر نہ رکھیو۔ اور (اے پروردگار) ہمارے گناہوں سے درگزر کر اور ہمیں بخش دے۔ اور ہم پر رحم فرما۔ تو ہی ہمارا مالک ہے اور ہم کو کافروں پر غالب فرما
 
 [Open on Quran.com](https://quran.com/2/286)
 
@@ -67,6 +69,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nay, Allah is your protector, and He is the best of helpers.
 
+**Urdu (Fatah Muhammad Jalandhari):** (یہ تمہارے مددگار نہیں ہیں) بلکہ خدا تمہارا مددگار ہے اور وہ سب سے بہتر مددگار ہے
+
 [Open on Quran.com](https://quran.com/3/150)
 
 #### 6:62 · [[006 Al-Anam]]
@@ -82,6 +86,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then they [i.e., His servants] are returned to Allāh, their true Lord. Unquestionably, His is the judgement, and He is the swiftest of accountants.
 
 **English (Yusuf Ali):** Then are men returned unto Allah, their protector, the (only) reality: Is not His the command? and He is the swiftest in taking account.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر (قیامت کے دن تمام) لوگ اپنے مالک برحق خدا تعالیٰ کے پاس واپس بلائے جائیں گے۔ سن لو کہ حکم اسی کا ہے اور وہ نہایت جلد حساب لینے والا ہے
 
 [Open on Quran.com](https://quran.com/6/62)
 
@@ -99,6 +105,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If they refuse, be sure that Allah is your Protector - the best to protect and the best to help.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر روگردانی کریں تو جان رکھو کہ خدا تمہارا حمایتی ہے۔ (اور) وہ خوب حمایتی اور خوب مددگار ہے
+
 [Open on Quran.com](https://quran.com/8/40)
 
 #### 9:51 · [[009 At-Tawbah]]
@@ -114,6 +122,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "Never will we be struck except by what Allāh has decreed for us; He is our protector." And upon Allāh let the believers rely.
 
 **English (Yusuf Ali):** Say: "Nothing will happen to us except what Allah has decreed for us: He is our protector": and on Allah let the Believers put their trust.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ ہم کو کوئی مصیبت نہیں پہنچ سکتی بجز اس کے جو خدا نے ہمارے لیے لکھ دی ہو وہی ہمارا کارساز ہے۔ اور مومنوں کو خدا ہی کا بھروسہ رکھنا چاہیئے
 
 [Open on Quran.com](https://quran.com/9/51)
 
@@ -131,6 +141,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There will every soul prove (the fruits of) the deeds it sent before: they will be brought back to Allah their rightful Lord, and their invented falsehoods will leave them in the lurch.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہاں ہر شخص (اپنے اعمال کی) جو اس نے آگے بھیجے ہوں گے آزمائش کرلے گا اور وہ اپنے سچے مالک کی طرف لوٹائے جائیں گے اور جو کچھ وہ بہتان باندھا کرتے تھے سب ان سے جاتا رہے گا
+
 [Open on Quran.com](https://quran.com/10/30)
 
 #### 16:76 · [[016 An-Nahl]]
@@ -146,6 +158,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Allāh presents an example of two men, one of them dumb and unable to do a thing, while he is a burden to his guardian. Wherever he directs him, he brings no good. Is he equal to one who commands justice, while he is on a straight path?
 
 **English (Yusuf Ali):** Allah sets forth (another) Parable of two men: one of them dumb, with no power of any sort; a wearisome burden is he to his master; whichever way be directs him, he brings no good: is such a man equal with one who commands Justice, and is on a Straight Way?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ایک اور مثال بیان فرماتا ہے کہ دو آدمی ہیں ایک اُن میں سے گونگا (اور دوسرے کی ملک) ہے (بےاختیار وناتوان) کہ کسی چیز پر قدرت نہیں رکھتا۔ اور اپنے مالک کو دوبھر ہو رہا ہے وہ جہاں اُسے بھیجتا ہے (خیر سے کبھی) بھلائی نہیں لاتا۔ کیا ایسا (گونگا بہرا) اور وہ شخص جو (سنتا بولتا اور) لوگوں کو انصاف کرنے کا حکم دیتا ہے اور خود سیدھے راستے پر چل رہا ہے دونوں برابر ہیں؟
 
 [Open on Quran.com](https://quran.com/16/76)
 
@@ -163,6 +177,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Perhaps) they call on one whose hurt is nearer than his profit: evil, indeed, is the patron, and evil the companion (or help)!
 
+**Urdu (Fatah Muhammad Jalandhari):** ایسے شخص کو پکارتا ہے جس کا نقصان فائدہ سے زیادہ قریب ہے۔ ایسا دوست برا بھی اور ایسا ہم صحبت بھی برا
+
 [Open on Quran.com](https://quran.com/22/13)
 
 #### 22:78 · [[022 Al-Hajj]]
@@ -179,6 +195,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And strive in His cause as ye ought to strive, (with sincerity and under discipline). He has chosen you, and has imposed no difficulties on you in religion; it is the cult of your father Abraham. It is He Who has named you Muslims, both before and in this (Revelation); that the Messenger may be a witness for you, and ye be witnesses for mankind! So establish regular Prayer, give regular Charity, and hold fast to Allah! He is your Protector - the Best to protect and the Best to help!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی راہ) میں جہاد کرو جیسا جہاد کرنے کا حق ہے۔ اس نے تم کو برگزیدہ کیا ہے اور تم پر دین کی (کسی بات) میں تنگی نہیں کی۔ (اور تمہارے لئے) تمہارے باپ ابراہیم کا دین (پسند کیا) اُسی نے پہلے (یعنی پہلی کتابوں میں) تمہارا نام مسلمان رکھا تھا اور اس کتاب میں بھی (وہی نام رکھا ہے تو جہاد کرو) تاکہ پیغمبر تمہارے بارے میں شاہد ہوں۔ اور تم لوگوں کے مقابلے میں شاہد اور نماز پڑھو اور زکوٰة دو اور خدا کے دین کی (رسی کو) پکڑے رہو۔ وہی تمہارا دوست ہے۔ اور خوب دوست اور خوب مددگار ہے
+
 [Open on Quran.com](https://quran.com/22/78)
 
 #### 44:41 · [[044 Ad-Dukhan]]
@@ -194,6 +212,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The Day when no relation will avail a relation at all, nor will they be helped -
 
 **English (Yusuf Ali):** The Day when no protector can avail his client in aught, and no help can they receive,
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن کوئی دوست کسی دوست کے کچھ کام نہ آئے گا اور نہ ان کو مدد ملے گی
 
 [Open on Quran.com](https://quran.com/44/41)
 

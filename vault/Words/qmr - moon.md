@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qmr - qmr]]
+- [[qmr - contend stakes wagers]]
 
 ### Meaning
 **moon** · Lemma **قَمَر**
@@ -46,7 +46,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:77 · [[006 Al-Anam]]
 
@@ -61,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when he saw the moon rising, he said, "This is my lord." But when it set, he said, "Unless my Lord guides me, I will surely be among the people gone astray."
 
 **English (Yusuf Ali):** When he saw the moon rising in splendour, he said: "This is my Lord." But when the moon set, He said: "unless my Lord guide me, I shall surely be among those who go astray."
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب چاند کو دیکھا کہ چمک رہا ہے تو کہنے لگے یہ میرا پروردگار ہے۔ لیکن جب وہ بھی چھپ گیا تو بول اٹھے کہ میرا پروردگار مجھے سیدھا رستہ نہیں دکھائے گا تو میں ان لوگوں میں ہوجاؤں گا جو بھٹک رہے ہیں
 
 [Open on Quran.com](https://quran.com/6/77)
 
@@ -78,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He it is that cleaveth the day-break (from the dark): He makes the night for rest and tranquillity, and the sun and moon for the reckoning (of time): Such is the judgment and ordering of (Him), the Exalted in Power, the Omniscient.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی (رات کے اندھیرے سے) صبح کی روشنی پھاڑ نکالتا ہے اور اسی نے رات کو (موجب) آرام (ٹھہرایا) اور سورج اور چاند کو (ذرائع) شمار بنایا ہے۔ یہ خدا کے (مقرر کئے ہوئے) اندازے ہیں جو غالب (اور) علم والا ہے
+
 [Open on Quran.com](https://quran.com/6/96)
 
 #### 7:54 · [[007 Al-Araf]]
@@ -93,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, your Lord is Allāh, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allāh, Lord of the worlds.
 
 **English (Yusuf Ali):** Your Guardian-Lord is Allah, Who created the heavens and the earth in six days, and is firmly established on the throne (of authority): He draweth the night as a veil o'er the day, each seeking the other in rapid succession: He created the sun, the moon, and the stars, (all) governed by laws under His command. Is it not His to create and to govern? Blessed be Allah, the Cherisher and Sustainer of the worlds!
+
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ تمہارا پروردگار خدا ہی ہے جس نے آسمانوں اور زمین کو چھ دن میں پیدا کیا پھر عرش پر جا ٹھہرا۔ وہی رات کو دن کا لباس پہناتا ہے کہ وہ اس کے پیچھے دوڑتا چلا آتا ہے۔ اور اسی نے سورج اور چاند ستاروں کو پیدا کیا سب اس کے حکم کے مطابق کام میں لگے ہوئے ہیں۔ دیکھو سب مخلوق بھی اسی کی ہے اور حکم بھی (اسی کا ہے)۔ یہ خدا رب العالمین بڑی برکت والا ہے
 
 [Open on Quran.com](https://quran.com/7/54)
 
@@ -110,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who made the sun to be a shining glory and the moon to be a light (of beauty), and measured out stages for her; that ye might know the number of years and the count (of time). Nowise did Allah create this but in truth and righteousness. (Thus) doth He explain His Signs in detail, for those who understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سورج کو روشن اور چاند کو منور بنایا اور چاند کی منزلیں مقرر کیں تاکہ تم برسوں کا شمار اور (کاموں کا) حساب معلوم کرو۔ یہ (سب کچھ) خدا نے تدبیر سے پیدا کیا ہے۔ سمجھنے والوں کے لیے وہ اپنی آیاتیں کھول کھول کر بیان فرماتا ہے
+
 [Open on Quran.com](https://quran.com/10/5)
 
 #### 12:4 · [[012 Yusuf]]
@@ -125,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Of these stories mention] when Joseph said to his father, "O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me."
 
 **English (Yusuf Ali):** Behold! Joseph said to his father: "O my father! I did see eleven stars and the sun and the moon: I saw them prostrate themselves to me!"
+
+**Urdu (Fatah Muhammad Jalandhari):** جب یوسف نے اپنے والد سے کہا کہ ابا میں نے (خواب میں) گیارہ ستاروں اور سورج اور چاند کو دیکھا ہے۔ دیکھتا (کیا) ہوں کہ وہ مجھے سجدہ کر رہے ہیں
 
 [Open on Quran.com](https://quran.com/12/4)
 
@@ -142,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah is He Who raised the heavens without any pillars that ye can see; is firmly established on the throne (of authority); He has subjected the sun and the moon (to his Law)! Each one runs (its course) for a term appointed. He doth regulate all affairs, explaining the signs in detail, that ye may believe with certainty in the meeting with your Lord.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا وہی تو ہے جس نے ستونوں کے بغیر آسمان جیسا کہ تم دیکھتے ہو (اتنے) اونچے بنائے۔ پھر عرش پر جا ٹھہرا اور سورج اور چاند کو کام میں لگا دیا۔ ہر ایک ایک میعاد معین تک گردش کر رہا ہے۔ وہی (دنیا کے) کاموں کا انتظام کرتا ہے (اس طرح) وہ اپنی آیتیں کھول کھول کر بیان کرتا ہے کہ تم اپنے پروردگار کے روبرو جانے کا یقین کرو
+
 [Open on Quran.com](https://quran.com/13/2)
 
 #### 14:33 · [[014 Ibrahim]]
@@ -157,6 +169,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He subjected for you the sun and the moon, continuous [in orbit], and subjected for you the night and the day.
 
 **English (Yusuf Ali):** And He hath made subject to you the sun and the moon, both diligently pursuing their courses; and the night and the day hath he (also) made subject to you.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور سورج اور چاند کو تمہارے لیے کام میں لگا دیا کہ دونوں (دن رات) ایک دستور پر چل رہے ہیں۔ اور رات اور دن کو بھی تمہاری خاطر کام میں لگا دیا
 
 [Open on Quran.com](https://quran.com/14/33)
 
@@ -174,6 +188,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He has made subject to you the Night and the Day; the sun and the moon; and the stars are in subjection by His Command: verily in this are Signs for men who are wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے تمہارے لیے رات اور دن اور سورج اور چاند کو کام میں لگایا۔ اور اسی کے حکم سے ستارے بھی کام میں لگے ہوئے ہیں۔ سمجھنے والوں کے لیے اس میں (قدرت خدا کی بہت سی) نشانیاں ہیں
+
 [Open on Quran.com](https://quran.com/16/12)
 
 #### 21:33 · [[021 Al-Anbya]]
@@ -190,6 +206,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who created the Night and the Day, and the sun and the moon: all (the celestial bodies) swim along, each in its rounded course.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے رات اور دن اور سورج اور چاند کو بنایا۔ (یہ) سب (یعنی سورج اور چاند اور ستارے) آسمان میں (اس طرح چلتے ہیں گویا) تیر رہے ہیں
+
 [Open on Quran.com](https://quran.com/21/33)
 
 #### 22:18 · [[022 Al-Hajj]]
@@ -205,6 +223,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do you not see [i.e., know] that to Allāh prostrates whoever is in the heavens and whoever is on the earth and the sun, the moon, the stars, the mountains, the trees, the moving creatures and many of the people? But upon many the punishment has been justified. And he whom Allāh humiliates - for him there is no bestower of honor. Indeed, Allāh does what He wills.
 
 **English (Yusuf Ali):** Seest thou not that to Allah bow down in worship all things that are in the heavens and on earth,- the sun, the moon, the stars; the hills, the trees, the animals; and a great number among mankind? But a great number are (also) such as are fit for Punishment: and such as Allah shall disgrace,- None can raise to honour: for Allah carries out all that He wills.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ جو (مخلوق) آسمانوں میں ہے اور جو زمین میں ہے اور سورج اور چاند ستارے اور پہاڑ اور درخت اور چار پائے اور بہت سے انسان خدا کو سجدہ کرتے ہیں۔ اور بہت سے ایسے ہیں جن پر عذاب ثابت ہوچکا ہے۔ اور جس شخص کو خدا ذلیل کرے اس کو عزت دینے والا نہیں۔ بےشک خدا جو چاہتا ہے کرتا ہے
 
 [Open on Quran.com](https://quran.com/22/18)
 

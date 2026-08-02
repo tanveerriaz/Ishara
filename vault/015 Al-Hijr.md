@@ -14,84 +14,84 @@ The Rocky Tract · 99 ayahs
 
 ## Words in this surah (graph)
 
-- [[mElwm - known]] — `مَعْلُوم` · known
 - [[mrsl - messengers]] — `مُرْسَل` · messengers
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[SyHp - shout]] — `صَيْحَة` · shout
-- [[rjym - accursed]] — `رَجِيم` · accursed
+- [[mElwm - known]] — `مَعْلُوم` · known
 - [[Dyf - guests]] — `ضَيْف` · guests
-- [[md - spread]] — `مَدَّ` · spread
-- [[sjd - prostrate]] — `سَجَدَ` · prostrate
-- [[sAjd - prostrating]] — `ساجِد` · prostrating
+- [[rjym - accursed]] — `رَجِيم` · accursed
 - [[mSbH - morning]] — `مُصْبِح` · morning
 - [[mnZr - given respite]] — `مُنظَر` · given respite
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[sjd - prostrate]] — `سَجَدَ` · prostrate
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[md - spread]] — `مَدَّ` · spread
+- [[sAjd - prostrating]] — `ساجِد` · prostrating
+- [[SyHp - shout]] — `صَيْحَة` · shout
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[ymtr - doubt]] — `يَمْتَرُ` · doubt
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[HfZ - guard]] — `حِفْظ` · guard
-- [[n*yr - warner]] — `نَذِير` · warner
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[xTb - was affair]] — `خَطْب` · was affair
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[lyl - night]] — `لَيْل` · night
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
+- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
+- [[ryH - wind]] — `رِيح` · wind
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>rD - earth]] — `أَرْض` · earth
+- [[jnAH - blame]] — `جُناح` · blame
+- [[xAlq - creator]] — `خالِق` · creator
+- [[xrj - come forth]] — `خَرَجَ` · come forth
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[sAfl - its downside]] — `سافِل` · its downside
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[>gnY - availed]] — `أَغْنَى` · availed
+- [[>tY - comes them]] — `أَتَى` · comes them
 
 ## Roots
 
-- [[$Tn - shtn]]
-- [[$hb - shhb]]
+- [[$Tn - anything excessively proud]]
+- [[$hb - burning flame]]
 - [[$rk - sharing partnership]]
-- [[$rq - east]]
+- [[$rq - earth]]
 - [[$y> - thing]]
-- [[$yE - shye]]
-- [[*kr - dhakara]]
+- [[$yE - follow cause follow]]
+- [[*kr - remember recall something]]
 - [[>Hd - anyone]]
-- [[>by - aby]]
+- [[>by - refuse]]
 - [[>hl - people house]]
 - [[>jl - term]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - like milk oil]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[Dyf - dyf]]
-- [[Dyq - dyq]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[Dyf - inclining]]
+- [[Dyq - become narrow strait]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Ebd - worship]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Emh - emh]]
-- [[Eml - eml]]
+- [[Emh - mental confusion]]
+- [[Eml - intentional action deed]]
 - [[Emr - life]]
 - [[End - near]]
-- [[ErD - erd]]
-- [[Erj - erj]]
-- [[Ey$ - eysh]]
-- [[Eyn - eyn]]
-- [[H$r - hshr]]
-- [[HfZ - hfzh]]
-- [[Hjr - hjr 2]]
+- [[ErD - turn away]]
+- [[Erj - ascend mount]]
+- [[Ey$ - life sustenance]]
+- [[Eyn - eyes]]
+- [[H$r - gather collect people]]
+- [[HfZ - keep]]
+- [[Hjr - stones]]
 - [[Hkm - prevent restrain someone]]
 - [[Hmd - praise]]
 - [[Hqq - established as true]]
 - [[Hyv - haythu]]
 - [[Hyy - life]]
-- [[Hzn - hzn]]
+- [[Hzn - become sorrowful]]
 
 ## Sample (ayah 1)
 

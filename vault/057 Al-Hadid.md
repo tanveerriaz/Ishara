@@ -14,71 +14,71 @@ The Iron · 29 ayahs
 
 ## Words in this surah (graph)
 
-- [[yDAEf - will doubled]] — `يُضاعِفُ` · will doubled
-- [[>qrD - you loan]] — `أَقْرَضُ` · you loan
 - [[qrD - loan]] — `قَرْض` · loan
+- [[yDAEf - will doubled]] — `يُضاعِفُ` · will doubled
 - [[ZAhr - apparent]] — `ظاهِر` · apparent
-- [[Hsn - good]] — `حُسْن` · good
+- [[>qrD - you loan]] — `أَقْرَضُ` · you loan
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
+- [[HyAp - life]] — `حَياة` · life
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[gny - free need]] — `غَنِيّ` · free need
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[trbS - waiting]] — `تَرَبُّص` · waiting
-- [[qAtl - fight]] — `قاتَلَ` · fight
-- [[lyl - night]] — `لَيْل` · night
-- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
-- [[qdr - restricts]] — `قَدَر` · restricts
+- [[Zlmp - darknesses]] — `ظُلُمَة` · darknesses
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>rD - earth]] — `أَرْض` · earth
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[Er$ - throne]] — `عَرْش` · throne
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[kfl - dhul-kifl]] — `كَفَّلَ` · dhul-kifl
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[yd - hands]] — `يَد` · hands
-- [[nAdY - he called]] — `نادَى` · he called
-- [[fwz - success]] — `فَوْز` · success
-- [[>nfq - spend]] — `أَنفَقَ` · spend
-- [[mwlY - protector]] — `مَوْلَى` · protector
+- [[dnyA - world]] — `دُنْيا` · world
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[nAs - people]] — `ناس` · people
+- [[ysyr - easy]] — `يَسِير` · easy
+- [[byn - between them]] — `بَيْن` · between them
+- [[rHmp - mercy]] — `رَحْمَة` · mercy
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[mnAfE - benefits]] — `مَنافِع` · benefits
+- [[bEd - after]] — `بَعْد` · after
+- [[Elm - know]] — `عَلِمَ` · know
+- [[m>wY - abode]] — `مَأْوَى` · abode
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$hd - shhd]]
+- [[$hd - witnessing]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[*rr - scattering dispersing small]]
 - [[>hl - people house]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>md - period time defined]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>ny - any]]
-- [[>rD - ard]]
-- [[>sw - asw]]
+- [[>ns - mankind]]
+- [[>ny - hours]]
+- [[>rD - earth]]
+- [[>sw - grieve]]
 - [[>ty - give]]
-- [[>vr - athr]]
-- [[>wl - like milk oil]]
+- [[>vr - trace]]
+- [[>wl - return revert original]]
 - [[>wy - betake oneself place]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[DEf - weak]]
-- [[Drb - tent]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[Drb - strike beat]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Ebd - worship]]
 - [[Edd - count]]
 - [[Ejb - amazing]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
-- [[Eql - eql]]
-- [[Er$ - ersh]]
-- [[ErD - erd]]
-- [[Erj - erj]]
+- [[Eql - withhold restrain]]
+- [[Er$ - shaded structure]]
+- [[ErD - turn away]]
+- [[Erj - ascend mount]]
 - [[Ezz - all-mighty]]
-- [[HTm - htm]]
+- [[HTm - break]]
 - [[Hbb - love]]
 - [[Hdd - define]]
 - [[Hkm - prevent restrain someone]]
@@ -91,7 +91,7 @@ The Iron · 29 ayahs
 - [[Sdr - front part something]]
 - [[Sfr - emptiness]]
 - [[Swb - descend go down]]
-- [[Syr - syr]]
+- [[Syr - destination]]
 
 ## Sample (ayah 1)
 

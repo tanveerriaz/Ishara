@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[trf - trf 2]]
+- [[trf - while we had]]
 
 ### Meaning
 **luxury they were** · Lemma **أُتْرِفُ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:116 · [[011 Hud]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So why were there not among the generations before you those of enduring discrimination forbidding corruption on earth - except a few of those We saved from among them? But those who wronged pursued what luxury they were given therein, and they were criminals.
 
 **English (Yusuf Ali):** Why were there not, among the generations before you, persons possessed of balanced good sense, prohibiting (men) from mischief in the earth - except a few among them whom We saved (from harm)? But the wrong-doers pursued the enjoyment of the good things of life which were given them, and persisted in sin.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جو اُمتیں تم سے پہلے گزر چکی ہیں، ان میں ایسے ہوش مند کیوں نہ ہوئے جو ملک میں خرابی کرنے سے روکتے ہاں (ایسے) تھوڑے سے (تھے) جن کو ہم نے ان میں سے مخلصی بخشی۔ اور جو ظالم تھے وہ ان ہی باتوں کے پیچھے لگے رہے جس میں عیش وآرام تھا اور وہ گناہوں میں ڈوبے ہوئے تھے
 
 [Open on Quran.com](https://quran.com/11/116)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Flee not, but return to the good things of this life which were given you, and to your homes in order that ye may be called to account.
 
+**Urdu (Fatah Muhammad Jalandhari):** مت بھاگو اور جن (نعمتوں) میں تم عیش وآسائش کرتے تھے ان کی اور اپنے گھروں کی طرف لوٹ جاؤ۔ شاید تم سے (اس بارے میں) دریافت کیا جائے
+
 [Open on Quran.com](https://quran.com/21/13)
 
 #### 23:33 · [[023 Al-Muminun]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the eminent among his people who disbelieved and denied the meeting of the Hereafter while We had given them luxury in the worldly life said, "This is not but a man like yourselves. He eats of that from which you eat and drinks of what you drink.
 
 **English (Yusuf Ali):** And the chiefs of his people, who disbelieved and denied the Meeting in the Hereafter, and on whom We had bestowed the good things of this life, said: "He is no more than a man like yourselves: he eats of that of which ye eat, and drinks of what ye drink.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کی قوم کے سردار جو کافر تھے اور آخرت کے آنے کو جھوٹ سمجھتے تھے اور دنیا کی زندگی میں ہم نے ان کو آسودگی دے رکھی تھی۔ کہنے لگے کہ یہ تو تم ہی جیسا آدمی ہے، جس قسم کا کھانا تم کھاتے ہو، اسی طرح کا یہ بھی کھاتا ہے اور جو پانی تم پیتے ہو اسی قسم کا یہ بھی پیتا ہے
 
 [Open on Quran.com](https://quran.com/23/33)
 

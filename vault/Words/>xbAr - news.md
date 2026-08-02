@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xbr - khabra]]
+- [[xbr - know something deeply]]
 
 ### Meaning
 **news** · Lemma **أَخْبار**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:94 · [[009 At-Tawbah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They will make excuses to you when you have returned to them. Say, "Make no excuse - never will we believe you. Allāh has already informed us of your news [i.e., affair]. And Allāh will observe your deeds, and [so will] His Messenger; then you will be taken back to the Knower of the unseen and the witnessed, and He will inform you of what you used to do."
 
 **English (Yusuf Ali):** They will present their excuses to you when ye return to them. Say thou: "Present no excuses: we shall not believe you: Allah hath already informed us of the true state of matters concerning you: It is your actions that Allah and His Messenger will observe: in the end will ye be brought back to Him Who knoweth what is hidden and what is open: then will He show you the truth of all that ye did."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب تم ان کے پاس واپس جاؤ گے تو تم سے عذر کریں گے تم کہنا کہ مت عذر کرو ہم ہرگز تمہاری بات نہیں مانیں گے خدا نے ہم کو تمہارے سب حالات بتا دیئے ہیں۔ اور ابھی خدا اور اس کا رسول تمہارے عملوں کو (اور) دیکھیں گے پھر تم غائب وحاضر کے جاننے والے (خدائے واحد) کی طرف لوٹائے جاؤ گے اور جو عمل تم کرتے رہے ہو وہ سب تمہیں بتائے گا
 
 [Open on Quran.com](https://quran.com/9/94)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We shall try you until We test those among you who strive their utmost and persevere in patience; and We shall try your reported (mettle).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم تو لوگوں کو آزمائیں گے تاکہ جو تم میں لڑائی کرنے والے اور ثابت قدم رہنے والے ہیں ان کو معلوم کریں۔ اور تمہارے حالات جانچ لیں
+
 [Open on Quran.com](https://quran.com/47/31)
 
 #### 99:4 · [[099 Az-Zalzalah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That Day, it will report its news
 
 **English (Yusuf Ali):** On that Day will she declare her tidings:
+
+**Urdu (Fatah Muhammad Jalandhari):** اس روز وہ اپنے حالات بیان کردے گی
 
 [Open on Quran.com](https://quran.com/99/4)
 

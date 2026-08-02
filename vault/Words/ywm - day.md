@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 1:4 · [[001 Al-Fatihah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Sovereign of the Day of Recompense.
 
 **English (Yusuf Ali):** Master of the Day of Judgment.
+
+**Urdu (Fatah Muhammad Jalandhari):** انصاف کے دن کا حاکم
 
 [Open on Quran.com](https://quran.com/1/4)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Of the people there are some who say: "We believe in Allah and the Last Day;" but they do not (really) believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض لوگ ایسے ہیں جو کہتے ہیں کہ ہم خدا پر اور روزِ آخرت پر ایمان رکھتے ہیں حالانکہ وہ ایمان نہیں رکھتے
+
 [Open on Quran.com](https://quran.com/2/8)
 
 #### 2:48 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And fear a Day when no soul will suffice for another soul at all, nor will intercession be accepted from it, nor will compensation be taken from it, nor will they be aided.
 
 **English (Yusuf Ali):** Then guard yourselves against a day when one soul shall not avail another nor shall intercession be accepted for her, nor shall compensation be taken from her, nor shall anyone be helped (from outside).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس دن سے ڈرو جب کوئی کسی کے کچھ کام نہ آئے اور نہ کسی کی سفارش منظور کی جائے اور نہ کسی سے کسی طرح کا بدلہ قبول کیا جائے اور نہ لوگ (کسی اور طرح) مدد حاصل کر سکیں
 
 [Open on Quran.com](https://quran.com/2/48)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who believe (in the Qur'an), and those who follow the Jewish (scriptures), and the Christians and the Sabians,- any who believe in Allah and the Last Day, and work righteousness, shall have their reward with their Lord; on them shall be no fear, nor shall they grieve.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ مسلمان ہیں یا یہودی یا عیسائی یا ستارہ پرست، (یعنی کوئی شخص کسی قوم و مذہب کا ہو) جو خدا اور روز قیامت پر ایمان لائے گا، اور نیک عمل کرے گا، تو ایسے لوگوں کو ان (کے اعمال) کا صلہ خدا کے ہاں ملے گا اور (قیامت کے دن) ان کو نہ کسی طرح کا خوف ہوگا اور نہ وہ غم ناک ہوں گے
+
 [Open on Quran.com](https://quran.com/2/62)
 
 #### 2:80 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they say, "Never will the Fire touch us, except for [a few] numbered days." Say, "Have you taken a covenant with Allāh? For Allāh will never break His covenant. Or do you say about Allāh that which you do not know?"
 
 **English (Yusuf Ali):** And they say: "The Fire shall not touch us but for a few numbered days:" Say: "Have ye taken a promise from Allah, for He never breaks His promise? or is it that ye say of Allah what ye do not know?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ (دوزخ کی) آگ ہمیں چند روز کے سوا چھو ہی نہیں سکے گی۔ ان سے پوچھو، کیا تم نے خدا سے اقرار لے رکھا ہے کہ خدا اپنے اقرار کے خلاف نہیں کرے گا۔ (نہیں)، بلکہ تم خدا کے بارے میں ایسی باتیں کہتے ہو جن کا تمہیں مطلق علم نہیں
 
 [Open on Quran.com](https://quran.com/2/80)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** After this it is ye, the same people, who slay among yourselves, and banish a party of you from their homes; assist (Their enemies) against them, in guilt and rancour; and if they come to you as captives, ye ransom them, though it was not lawful for you to banish them. Then is it only a part of the Book that ye believe in, and do ye reject the rest? but what is the reward for those among you who behave like this but disgrace in this life?- and on the Day of Judgment they shall be consigned to the most grievous penalty. For Allah is not unmindful of what ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر تم وہی ہو کہ اپنوں کو قتل بھی کر دیتے ہو اور اپنے میں سے بعض لوگوں پر گناہ اور ظلم سے چڑھائی کرکے انہیں وطن سے نکال بھی دیتے ہو، اور اگر وہ تمہارے پاس قید ہو کر آئیں تو بدلہ دے کر ان کو چھڑا بھی لیتے ہو، حالانکہ ان کا نکال دینا ہی تم کو حرام تھا۔ (یہ) کیا (بات ہے کہ) تم کتابِ (خدا) کے بعض احکام کو تو مانتے ہو اور بعض سے انکار کئے دیتے ہو، تو جو تم میں سے ایسی حرکت کریں، ان کی سزا اس کے سوا اور کیا ہو سکتی ہے کہ دنیا کی زندگی میں تو رسوائی ہو اور قیامت کے دن سخت سے سخت عذاب میں ڈال دیئے جائیں اور جو کام تم کرتے ہو، خدا ان سے غافل نہیں
+
 [Open on Quran.com](https://quran.com/2/85)
 
 #### 2:113 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The Jews say, "The Christians have nothing [true] to stand on," and the Christians say, "The Jews have nothing to stand on," although they [both] recite the Scripture. Thus do those who know not [i.e., the polytheists] speak the same as their words. But Allāh will judge between them on the Day of Resurrection concerning that over which they used to differ.
 
 **English (Yusuf Ali):** The Jews say: "The Christians have naught (to stand) upon; and the Christians say: "The Jews have naught (To stand) upon." Yet they (Profess to) study the (same) Book. Like unto their word is what those say who know not; but Allah will judge between them in their quarrel on the Day of Judgment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہودی کہتے ہیں کہ عیسائی رستے پر نہیں اور عیسائی کہتے ہیں کہ یہودی رستے پر نہیں۔ حالانکہ وہ کتاب (الہٰی) پڑھتے ہیں۔ اسی طرح بالکل انہی کی سی بات وہ لوگ کہتے ہیں جو (کچھ) نہیں جانتے (یعنی مشرک) تو جس بات میں یہ لوگ اختلاف کر رہے خدا قیامت کے دن اس کا ان میں فیصلہ کر دے گا
 
 [Open on Quran.com](https://quran.com/2/113)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then guard yourselves against a Day when one soul shall not avail another, nor shall compensation be accepted from her nor shall intercession profit her nor shall anyone be helped (from outside).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس دن سے ڈرو جب کوئی شخص کسی شخص کے کچھ کام نہ آئے، اور نہ اس سے بدلہ قبول کیا جائے اور نہ اس کو کسی کی سفارش کچھ فائدہ دے اور نہ لوگوں کو (کسی اور طرح کی) مدد مل سکے
+
 [Open on Quran.com](https://quran.com/2/123)
 
 #### 2:126 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember Abraham said: "My Lord, make this a City of Peace, and feed its people with fruits,-such of them as believe in Allah and the Last Day." He said: "(Yea), and such as reject Faith,-for a while will I grant them their pleasure, but will soon drive them to the torment of Fire,- an evil destination (indeed)!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے دعا کی کہ اے پروردگار، اس جگہ کو امن کا شہر بنا اور اس کے رہنے والوں میں سے جو خدا پر اور روزِ آخرت پر ایمان لائیں، ان کے کھانے کو میوے عطا کر، تو خدا نے فرمایا کہ جو کافر ہوگا، میں اس کو بھی کسی قدر متمتع کروں گا، (مگر) پھر اس کو (عذاب) دوزخ کے (بھگتنے کے) لیے ناچار کردوں گا، اور وہ بری جگہ ہے
+
 [Open on Quran.com](https://quran.com/2/126)
 
 #### 2:174 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, they who conceal what Allāh has sent down of the Book and exchange it for a small price - those consume not into their bellies except the Fire. And Allāh will not speak to them on the Day of Resurrection, nor will He purify them. And they will have a painful punishment.
 
 **English (Yusuf Ali):** Those who conceal Allah's revelations in the Book, and purchase for them a miserable profit,- they swallow into themselves naught but Fire; Allah will not address them on the Day of Resurrection. Nor purify them: Grievous will be their penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (خدا) کی کتاب سے ان (آیتوں اور ہدایتوں) کو جو اس نے نازل فرمائی ہیں چھپاتے اور ان کے بدلے تھوڑی سی قیمت (یعنی دنیاوی منفعت)حاصل کرتے ہیں وہ اپنے پیٹوں میں محض آگ بھرتے ہیں۔ ایسے لوگوں سے خدا قیامت کے دن نہ کلام کرے گا اور نہ ان کو (گناہوں سے) پاک کرے گا۔اور ان کے لئے دکھ دینے والا عذاب ہے
 
 [Open on Quran.com](https://quran.com/2/174)
 

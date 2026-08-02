@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[tjr - tjr]]
+- [[tjr - merchant trader]]
 
 ### Meaning
 **commerce** · Lemma **تِجارَة**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:16 · [[002 Al-Baqarah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the ones who have purchased error [in exchange] for guidance, so their transaction has brought no profit, nor were they guided.
 
 **English (Yusuf Ali):** These are they who have bartered Guidance for error: But their traffic is profitless, and they have lost true direction,
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے ہدایت چھوڑ کر گمراہی خریدی، تو نہ تو ان کی تجارت ہی نے کچھ نفع دیا اور نہ وہ ہدایت یاب ہی ہوئے
 
 [Open on Quran.com](https://quran.com/2/16)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah; For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
+
 [Open on Quran.com](https://quran.com/2/282)
 
 #### 4:29 · [[004 An-Nisa]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not consume one another's wealth unjustly but only [in lawful] business by mutual consent. And do not kill yourselves [or one another]. Indeed, Allāh is to you ever Merciful.
 
 **English (Yusuf Ali):** O ye who believe! Eat not up your property among yourselves in vanities: But let there be amongst you Traffic and trade by mutual good-will: Nor kill (or destroy) yourselves: for verily Allah hath been to you Most Merciful!
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! ایک دوسرے کا مال ناحق نہ کھاؤ ہاں اگر آپس کی رضامندی سے تجارت کا لین دین ہو (اور اس سے مالی فائدہ حاصل ہو جائے تو وہ جائز ہے) اور اپنے آپ کو ہلاک نہ کرو کچھ شک نہیں کہ خدا تم پر مہربان ہے
 
 [Open on Quran.com](https://quran.com/4/29)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: If it be that your fathers, your sons, your brothers, your mates, or your kindred; the wealth that ye have gained; the commerce in which ye fear a decline: or the dwellings in which ye delight - are dearer to you than Allah, or His Messenger, or the striving in His cause;- then wait until Allah brings about His decision: and Allah guides not the rebellious.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر تمہارے باپ اور بیٹے اور بھائی اور عورتیں اور خاندان کے آدمی اور مال جو تم کماتے ہو اور تجارت جس کے بند ہونے سے ڈرتے ہو اور مکانات جن کو پسند کرتے ہو خدا اور اس کے رسول سے اور خدا کی راہ میں جہاد کرنے سے تمہیں زیادہ عزیز ہوں تو ٹھہرے رہو یہاں تک کہ خدا اپنا حکم (یعنی عذاب) بھیجے۔ اور خدا نافرمان لوگوں کو ہدایت نہیں دیا کرتا
+
 [Open on Quran.com](https://quran.com/9/24)
 
 #### 24:37 · [[024 An-Nur]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Are] men whom neither commerce nor sale distracts from the remembrance of Allāh and performance of prayer and giving of zakāh. They fear a Day in which the hearts and eyes will [fearfully] turn about -
 
 **English (Yusuf Ali):** By men whom neither traffic nor merchandise can divert from the Remembrance of Allah, nor from regular Prayer, nor from the practice of regular Charity: Their (only) fear is for the Day when hearts and eyes will be transformed (in a world wholly new),-
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی ایسے) لوگ جن کو خدا کے ذکر اور نماز پڑھنے اور زکوٰة دینے سے نہ سوداگری غافل کرتی ہے نہ خرید وفروخت۔ وہ اس دن سے جب دل (خوف اور گھبراہٹ کے سبب) الٹ جائیں گے اور آنکھیں (اوپر کو چڑھ جائیں گی) ڈرتے ہیں
 
 [Open on Quran.com](https://quran.com/24/37)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who rehearse the Book of Allah, establish regular Prayer, and spend (in Charity) out of what We have provided for them, secretly and openly, hope for a commerce that will never fail:
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کی کتاب پڑھتے اور نماز کی پابندی کرتے ہیں اور جو کچھ ہم نے ان کو دیا ہے اس میں سے پوشیدہ اور ظاہر خرچ کرتے ہیں وہ اس تجارت (کے فائدے) کے امیدوار ہیں جو کبھی تباہ نہیں ہوگی
+
 [Open on Quran.com](https://quran.com/35/29)
 
 #### 61:10 · [[061 As-Saf]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Shall I lead you to a bargain that will save you from a grievous Penalty?-
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! میں تم کو ایسی تجارت بتاؤں جو تمہیں عذاب الیم سے مخلصی دے
+
 [Open on Quran.com](https://quran.com/61/10)
 
 #### 62:11 · [[062 Al-Jumuah]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But [on one occasion] when they saw a transaction or a diversion, [O Muḥammad], they rushed to it and left you standing. Say, "What is with Allāh is better than diversion and than a transaction, and Allāh is the best of providers."
 
 **English (Yusuf Ali):** But when they see some bargain or some amusement, they disperse headlong to it, and leave thee standing. Say: "The (blessing) from the Presence of Allah is better than any amusement or bargain! and Allah is the Best to provide (for all needs)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب یہ لوگ سودا بکتا یا تماشا ہوتا دیکھتے ہیں تو ادھر بھاگ جاتے ہیں اور تمہیں (کھڑے کا) کھڑا چھوڑ جاتے ہیں۔ کہہ دو کہ جو چیز خدا کے ہاں ہے وہ تماشے اور سودے سے کہیں بہتر ہے اور خدا سب سے بہتر رزق دینے والا ہے
 
 [Open on Quran.com](https://quran.com/62/11)
 

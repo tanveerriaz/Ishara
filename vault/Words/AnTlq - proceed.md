@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Tlq - tlq]]
+- [[Tlq - loose]]
 
 ### Meaning
 **proceed** · Lemma **انطَلَقَ**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 18:71 · [[018 Al-Kahf]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So they set out, until when they had embarked on the ship, he [i.e., al-Khiḍr] tore it open. [Moses] said, "Have you torn it open to drown its people? You have certainly done a grave thing."
 
 **English (Yusuf Ali):** So they both proceeded: until, when they were in the boat, he scuttled it. Said Moses: "Hast thou scuttled it in order to drown those in it? Truly a strange thing hast thou done!"
+
+**Urdu (Fatah Muhammad Jalandhari):** تو دونوں چل پڑے۔ یہاں تک کہ جب کشتی میں سوار ہوئے تو (خضر نے) کشتی کو پھاڑ ڈالا۔ (موسیٰ نے) کہا کیا آپ نے اس لئے پھاڑا ہے کہ سواروں کو غرق کردیں یہ تو آپ نے بڑی (عجیب) بات کی
 
 [Open on Quran.com](https://quran.com/18/71)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then they proceeded: until, when they met a young man, he slew him. Moses said: "Hast thou slain an innocent person who had slain none? Truly a foul (unheard of) thing hast thou done!"
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر دونوں چلے۔ یہاں تک کہ (رستے میں) ایک لڑکا ملا تو (خضر نے) اُسے مار ڈالا۔ (موسیٰ نے) کہا کہ آپ نے ایک بےگناہ شخص کو ناحق بغیر قصاص کے مار ڈالا۔ (یہ تو) آپ نے بری بات کی
+
 [Open on Quran.com](https://quran.com/18/74)
 
 #### 18:77 · [[018 Al-Kahf]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So they set out, until when they came to the people of a town, they asked its people for food, but they refused to offer them hospitality. And they found therein a wall about to collapse, so he [i.e., al-Khiḍr] restored it. [Moses] said, "If you wished, you could have taken for it a payment."
 
 **English (Yusuf Ali):** Then they proceeded: until, when they came to the inhabitants of a town, they asked them for food, but they refused them hospitality. They found there a wall on the point of falling down, but he set it up straight. (Moses) said: "If thou hadst wished, surely thou couldst have exacted some recompense for it!"
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر دونوں چلے۔ یہاں تک کہ ایک گاؤں والوں کے پاس پہنچے اور ان سے کھانا طلب کیا۔ انہوں نے ان کی ضیافت کرنے سے انکار کر دیا۔ پھر انہوں نے وہاں ایک دیوار دیکھی جو (جھک کر) گرا چاہتی تھی۔ خضر نے اس کو سیدھا کر دیا۔ موسیٰ نے کہا اگر آپ چاہتے تو ان سے (اس کا) معاوضہ لیتے (تاکہ کھانے کا کام چلتا)
 
 [Open on Quran.com](https://quran.com/18/77)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "My breast will be straitened. And my speech may not go (smoothly): so send unto Aaron.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور میرا دل تنگ ہوتا ہے اور میری زبان رکتی ہے تو ہارون کو حکم بھیج کہ میرے ساتھ چلیں
+
 [Open on Quran.com](https://quran.com/26/13)
 
 #### 38:6 · [[038 Sad]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the eminent among them went forth, [saying], "Continue, and be patient over [the defense of] your gods. Indeed, this is a thing intended.
 
 **English (Yusuf Ali):** And the leader among them go away (impatiently), (saying), "Walk ye away, and remain constant to your gods! For this is truly a thing designed (against you)!
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان میں جو معزز تھے وہ چل کھڑے ہوئے (اور بولے) کہ چلو اور اپنے معبودوں (کی پوجا) پر قائم رہو۔ بےشک یہ ایسی بات ہے جس سے (تم پر شرف وفضلیت) مقصود ہے
 
 [Open on Quran.com](https://quran.com/38/6)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who lagged behind (will say), when ye (are free to) march and take booty (in war): "Permit us to follow you." They wish to change Allah's decree: Say: "Not thus will ye follow us: Allah has already declared (this) beforehand": then they will say, "But ye are jealous of us." Nay, but little do they understand (such things).
 
+**Urdu (Fatah Muhammad Jalandhari):** جب تم لوگ غنیمتیں لینے چلو گے تو جو لوگ پیچھے رہ گئے تھے وہ کہیں گے ہمیں بھی اجازت دیجیئے کہ آپ کے ساتھ چلیں۔ یہ چاہتے ہیں کہ خدا کے قول کو بدل دیں۔ کہہ دو کہ تم ہرگز ہمارے ساتھ نہیں چل سکتے۔ اسی طرح خدا نے پہلے سے فرما دیا ہے۔ پھر کہیں گے (نہیں) تم تو ہم سے حسد کرتے ہو۔ بات یہ ہے کہ یہ لوگ سمجھتے ہی نہیں مگر بہت کم
+
 [Open on Quran.com](https://quran.com/48/15)
 
 #### 68:23 · [[068 Al-Qalam]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So they set out, while lowering their voices,
 
 **English (Yusuf Ali):** So they departed, conversing in secret low tones, (saying)-
+
+**Urdu (Fatah Muhammad Jalandhari):** تو وہ چل پڑے اور آپس میں چپکے چپکے کہتے جاتے تھے
 
 [Open on Quran.com](https://quran.com/68/23)
 
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (It will be said:) "Depart ye to that which ye used to reject as false!
 
+**Urdu (Fatah Muhammad Jalandhari):** جس چیز کو تم جھٹلایا کرتے تھے۔ (اب) اس کی طرف چلو
+
 [Open on Quran.com](https://quran.com/77/29)
 
 #### 77:30 · [[077 Al-Mursalat]]
@@ -172,6 +188,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Proceed to a shadow [of smoke] having three columns.
 
 **English (Yusuf Ali):** "Depart ye to a Shadow (of smoke ascending) in three columns,
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) اس سائے کی طرف چلو جس کی تین شاخیں ہیں
 
 [Open on Quran.com](https://quran.com/77/30)
 

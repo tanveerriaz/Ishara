@@ -14,73 +14,73 @@ The Night · 21 ayahs
 
 ## Words in this surah (graph)
 
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[nhAr - day]] — `نَهار` · day
-- [[>$qY - wretched one]] — `أَشْقَى` · wretched one
-- [[nEmp - favor]] — `نِعْمَة` · favor
-- [[nAr - fire]] — `نار` · fire
-- [[>ElY - highest]] — `أَعْلَى` · highest
-- [[lyl - night]] — `لَيْل` · night
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[wjh - faces]] — `وَجْه` · faces
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[>Hd - anyone]] — `أَحَد` · anyone
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[>n*r - warn]] — `أَنذَرَ` · warn
-- [[HsnY - best]] — `حُسْنَى` · best
 - [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
-- [[ysr - ease]] — `يُسْر` · ease
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[jzY - we recompense]] — `جَزَى` · we recompense
-- [[$tY - diverse]] — `شَتَّى` · diverse
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[AtqY - fear]] — `اتَّقَى` · fear
-- [[bxl - withhold]] — `بَخِلَ` · withhold
-- [[mAl - wealth]] — `مال` · wealth
 - [[End - near]] — `عِند` · near
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[AtY - give]] — `آتَى` · give
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[nEmp - favor]] — `نِعْمَة` · favor
+- [[wjh - faces]] — `وَجْه` · faces
+- [[rb - lord]] — `رَبّ` · lord
+- [[>Hd - anyone]] — `أَحَد` · anyone
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[>ETY - they given]] — `أَعْطَى` · they given
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[>ElY - highest]] — `أَعْلَى` · highest
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
+- [[>wl - first]] — `أَوَّل` · first
+- [[Sdq - truth]] — `صَدَقَ` · truth
+- [[lyl - night]] — `لَيْل` · night
+- [[$tY - diverse]] — `شَتَّى` · diverse
+- [[>nvY - female]] — `أُنثَى` · female
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[HsnY - best]] — `حُسْنَى` · best
+- [[sEy - effort]] — `سَعْي` · effort
 
 ## Roots
 
-- [[$qw - shqw]]
+- [[$qw - unblessed]]
 - [[$tt - scatter]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[>Hd - anyone]]
 - [[>nv - female]]
 - [[>ty - give]]
-- [[>wl - like milk oil]]
-- [[>xr - akhr]]
+- [[>wl - return revert original]]
+- [[>xr - final part something]]
 - [[ETw - take handle something]]
 - [[Elw - superiority]]
 - [[End - near]]
-- [[Esr - esr]]
+- [[Esr - hardship]]
 - [[Hsn - good]]
 - [[Sdq - speak truth]]
-- [[Sly - sly]]
+- [[Sly - exposed fire heat]]
 - [[bgy - seek desire something]]
-- [[bxl - bkhl]]
-- [[g$w - gshw]]
+- [[bxl - person niggardliness often]]
+- [[g$w - cover conceal]]
 - [[gny - dwelling residing place]]
 - [[hdy - guide]]
-- [[jlw - jlw]]
-- [[jnb - jnb]]
+- [[jlw - clear]]
+- [[jnb - side person object]]
 - [[jzy - recompense reward]]
 - [[k*b - denied]]
-- [[lyl - layl]]
+- [[lyl - night]]
 - [[mwl - wealth]]
-- [[n*r - ndhr]]
+- [[n*r - make vow impose]]
 - [[nEm - favor]]
-- [[nhr - nahara]]
+- [[nhr - dig river channel]]
 - [[nwr - brand mark camels]]
-- [[rDw - rdw]]
+- [[rDw - pleased]]
 - [[rbb - Lord]]
 - [[rdy - he falls]]
-- [[sEy - sey]]
-- [[wjh - wjh]]
+- [[sEy - walk]]
+- [[wjh - 'face' 'countenance]]
 - [[wly - protector]]
-- [[wqy - wqy]]
+- [[wqy - protect]]
 - [[xlq - create]]
-- [[ysr - ysr]]
+- [[ysr - easy]]
 - [[zkw - purify]]
 
 ## Sample (ayah 1)

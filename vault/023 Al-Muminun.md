@@ -14,83 +14,83 @@ The Believers · 118 ayahs
 
 ## Words in this surah (graph)
 
-- [[EZAm - bones]] — `عِظام` · bones
 - [[>n$> - we produced]] — `أَنشَأَ` · we produced
-- [[kvyrp - many]] — `كَثِيرَة` · many
+- [[EZAm - bones]] — `عِظام` · bones
 - [[trAb - dust]] — `تُراب` · dust
-- [[myzAn - scales]] — `مِيزان` · scales
-- [[gmrp - confusion]] — `غَمَرَة` · confusion
-- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
 - [[E* - seek refuge]] — `عُذْ` · seek refuge
-- [[qrAr - settlement]] — `قَرار` · settlement
-- [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
-- [[ysArE - hasten]] — `يُسارِعُ` · hasten
-- [[rAHm - merciful]] — `راحِم` · merciful
-- [[qAdr - able]] — `قادِر` · able
 - [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
 - [[tEAlY - exalted he]] — `تَعالَى` · exalted he
 - [[ySf - they attribute]] — `يَصِفُ` · they attribute
-- [[dEA - call]] — `دَعا` · call
-- [[nAr - fire]] — `نار` · fire
-- [[lyl - night]] — `لَيْل` · night
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[SyHp - shout]] — `صَيْحَة` · shout
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[xA$E - humbled]] — `خاشِع` · humbled
-- [[Eml - do]] — `عَمِلَ` · do
-- [[DHkt - laugh]] — `ضَحِكَتْ` · laugh
+- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
+- [[qAdr - able]] — `قادِر` · able
+- [[qrAr - settlement]] — `قَرار` · settlement
+- [[ysArE - hasten]] — `يُسارِعُ` · hasten
+- [[myzAn - scales]] — `مِيزان` · scales
+- [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
+- [[kvyrp - many]] — `كَثِيرَة` · many
+- [[gmrp - confusion]] — `غَمَرَة` · confusion
+- [[rAHm - merciful]] — `راحِم` · merciful
+- [[xft - light]] — `خَفَّتْ` · light
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[ftH - victory]] — `فَتَحَ` · victory
+- [[>Hd - anyone]] — `أَحَد` · anyone
+- [[qbl - before]] — `قَبْل` · before
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
-- [[$fq - shfq]]
-- [[$hd - shhd]]
-- [[$jr - shjr]]
-- [[$kr - shkr]]
-- [[$qw - shqw]]
-- [[$rb - shrb]]
+- [[$fq - fear]]
+- [[$hd - witnessing]]
+- [[$jr - trees]]
+- [[$kr - gratitude]]
+- [[$qw - unblessed]]
+- [[$rb - drink]]
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*r> - create]]
 - [[>Hd - anyone]]
-- [[>bw - abw]]
+- [[>bw - forefathers]]
 - [[>hl - people house]]
 - [[>jl - term]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - like milk oil]]
+- [[>wl - return revert original]]
 - [[>wy - betake oneself place]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
-- [[DHk - dhk]]
+- [[DHk - laugh]]
 - [[Dll - astray]]
-- [[DrE - dre]]
+- [[DrE - lower]]
 - [[Drr - adversity]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Ebd - worship]]
-- [[Ebr - ebr]]
+- [[Ebr - cross pass something]]
 - [[Edd - count]]
-- [[Edw - enemy]]
-- [[Ehd - ehd]]
+- [[Edw - turn]]
+- [[Ehd - protection safeguard]]
 - [[Elm - knowledge]]
 - [[Elq - hang]]
 - [[Elw - superiority]]
-- [[Emh - emh]]
-- [[Eml - eml]]
-- [[Enb - enb]]
+- [[Emh - mental confusion]]
+- [[Eml - intentional action deed]]
+- [[Enb - grapes]]
 - [[End - near]]
 
 ## Sample (ayah 1)

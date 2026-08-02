@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:152 · [[003 Ali Imran]]
 
@@ -52,6 +52,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Allāh had certainly fulfilled His promise to you when you were killing them [i.e., the enemy] by His permission until [the time] when you lost courage and fell to disputing about the order [given by the Prophet (ﷺ)] and disobeyed after He had shown you that which you love. Among you are some who desire this world, and among you are some who desire the Hereafter. Then He turned you back from them [defeated] that He might test you. And He has already forgiven you, and Allāh is the possessor of bounty for the believers.
 
 **English (Yusuf Ali):** Allah did indeed fulfil His promise to you when ye with His permission Were about to annihilate your enemy,-until ye flinched and fell to disputing about the order, and disobeyed it after He brought you in sight (of the booty) which ye covet. Among you are some that hanker after this world and some that desire the Hereafter. Then did He divert you from your foes in order to test you but He forgave you: For Allah is full of grace to those who believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے اپنا وعدہ سچا کر دیا (یعنی) اس وقت جبکہ تم کافروں کو اس کے حکم سے قتل کر رہے تھے یہاں تک کہ جو تم چاہتے تھے خدا نے تم کو دکھا دیا اس کے بعد تم نے ہمت ہار دی اور حکم (پیغمبر) میں جھگڑا کرنے لگے اور اس کی نافرمانی کی بعض تو تم میں سے دنیا کے خواستگار تھے اور بعض آخرت کے طالب اس وقت خدا نے تم کو ان (کے مقابلے) سے پھیر (کر بھگا) دیا تاکہ تمہاری آزمائش کرے اور اس نے تمہارا قصور معاف کر دیا اور خدا مومنو پر بڑا فضل کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/3/152)
 
@@ -69,6 +71,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "On that day, if the penalty is averted from any, it is due to Allah's mercy; And that would be (Salvation), the obvious fulfilment of all desire.
 
+**Urdu (Fatah Muhammad Jalandhari):** جس شخص سے اس روز عذاب ٹال دیا گیا اس پر خدا نے (بڑی) مہربانی فرمائی اور یہ کھلی کامیابی ہے
+
 [Open on Quran.com](https://quran.com/6/16)
 
 #### 6:46 · [[006 Al-Anam]]
@@ -84,6 +88,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "Have you considered: if Allāh should take away your hearing and your sight and set a seal upon your hearts, which deity other than Allāh could bring them [back] to you?" Look how We diversify the verses; then they [still] turn away.
 
 **English (Yusuf Ali):** Say: "Think ye, if Allah took away your hearing and your sight, and sealed up your hearts, who - a god other than Allah - could restore them to you?" See how We explain the signs by various (symbols); yet they turn aside.
+
+**Urdu (Fatah Muhammad Jalandhari):** (ان کافروں سے) کہو کہ بھلا دیکھو تو اگر خدا تمہارے کان اور آنکھیں چھین لے اور تمہارے دلوں پر مہر لگادے تو خداکے سوا کون سا معبود ہے جو تمہیں یہ نعمتیں پھر بخشے؟ دیکھو ہم کس کس طرح اپنی آیتیں بیان کرتے ہیں۔ پھر بھی یہ لوگ ردگردانی کرتے ہیں
 
 [Open on Quran.com](https://quran.com/6/46)
 
@@ -101,6 +107,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "He hath power to send calamities on you, from above and below, or to cover you with confusion in party strife, giving you a taste of mutual vengeance - each from the other." See how We explain the signs by various (symbols); that they may understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ وہ (اس پر بھی) قدرت رکھتا ہے کہ تم پر اوپر کی طرف سے یا تمہارے پاؤں کے نیچے سے عذاب بھیجے یا تمہیں فرقہ فرقہ کردے اور ایک کو دوسرے (سے لڑا کر آپس) کی لڑائی کا مزہ چکھادے۔ دیکھو ہم اپنی آیتوں کو کس کس طرح بیان کرتے ہیں تاکہ یہ لوگ سمجھیں
+
 [Open on Quran.com](https://quran.com/6/65)
 
 #### 6:105 · [[006 Al-Anam]]
@@ -116,6 +124,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And thus do We diversify the verses so they [i.e., the disbelievers] will say, "You have studied," and so We may make it [i.e., the Qur’ān] clear for a people who know.
 
 **English (Yusuf Ali):** Thus do we explain the signs by various (symbols): that they may say, "Thou hast taught (us) diligently," and that We may make the matter clear to those who know.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم اسی طرح اپنی آیتیں پھیر پھیر کر بیان کرتے ہیں تاکہ کافر یہ نہ کہیں کہ تم (یہ باتیں اہل کتاب سے) سیکھے ہوئے ہو اور تاکہ سمجھنے والے لوگوں کے لئے تشریح کردیں
 
 [Open on Quran.com](https://quran.com/6/105)
 
@@ -133,6 +143,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When their eyes shall be turned towards the Companions of the Fire, they will say: "Our Lord! send us not to the company of the wrong-doers."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کی نگاہیں پلٹ کر اہل دوزخ کی طرف جائیں گی تو عرض کریں گے کہ اے ہمارے پروردگار ہم کو ظالم لوگوں کے ساتھ شامل نہ کیجیو
+
 [Open on Quran.com](https://quran.com/7/47)
 
 #### 7:58 · [[007 Al-Araf]]
@@ -148,6 +160,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the good land - its vegetation emerges by permission of its Lord; but that which is bad - nothing emerges except sparsely, with difficulty. Thus do We diversify the signs for a people who are grateful.
 
 **English (Yusuf Ali):** From the land that is clean and good, by the will of its Cherisher, springs up produce, (rich) after its kind: but from the land that is bad, springs up nothing but that which is niggardly: thus do we explain the signs by various (symbols) to those who are grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو زمین پاکیزہ (ہے) اس میں سے سبزہ بھی پروردگار کے حکم سے (نفیس ہی) نکلتا ہے اور جو خراب ہے اس میں جو کچھ ہے ناقص ہوتا ہے۔ اسی طرح ہم آیتوں کو شکرگزار لوگوں کے لئے پھیر پھیر کر بیان کرتے ہیں
 
 [Open on Quran.com](https://quran.com/7/58)
 
@@ -165,6 +179,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who behave arrogantly on the earth in defiance of right - them will I turn away from My signs: Even if they see all the signs, they will not believe in them; and if they see the way of right conduct, they will not adopt it as the way; but if they see the way of error, that is the way they will adopt. For they have rejected our signs, and failed to take warning from them.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ زمین میں ناحق غرور کرتے ہیں ان کو اپنی آیتوں سے پھیر دوں گا۔ اگر یہ سب نشانیاں بھی دیکھ لیں تب بھی ان پر ایمان نہ لائیں اور اگر راستی کا رستہ دیکھیں تو اسے (اپنا) رستہ نہ بنائیں۔ اور اگر گمراہی کی راہ دیکھیں تو اسے رستہ بنالیں۔ یہ اس لیے کہ انہوں نے ہماری آیات کو جھٹلایا اور ان سے غفلت کرتے رہے
+
 [Open on Quran.com](https://quran.com/7/146)
 
 #### 9:127 · [[009 At-Tawbah]]
@@ -181,6 +197,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whenever there cometh down a Sura, they look at each other, (saying), "Doth anyone see you?" Then they turn aside: Allah hath turned their hearts (from the light); for they are a people that understand not.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب کوئی سورت نازل ہوتی ہے ایک دوسرے کی جانب دیکھنے لگتے ہیں (اور پوچھتے ہیں کہ) بھلا تمہیں کوئی دیکھتا ہے پھر پھر جاتے ہیں۔ خدا نے ان کے دلوں کو پھیر رکھا ہے کیونکہ یہ ایسے لوگ ہیں کہ سمجھ سے کام نہیں لیتے
+
 [Open on Quran.com](https://quran.com/9/127)
 
 #### 10:32 · [[010 Yunus]]
@@ -196,6 +214,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For that is Allāh, your Lord, the Truth. And what can be beyond truth except error? So how are you averted?
 
 **English (Yusuf Ali):** Such is Allah, your real Cherisher and Sustainer: apart from truth, what (remains) but error? How then are ye turned away?
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی خدا تو تمہارا پروردگار برحق ہے۔ اور حق بات کے ظاہر ہونے کے بعد گمراہی کے سوا ہے ہی کیا؟ تو تم کہاں پھرے جاتے ہو
 
 [Open on Quran.com](https://quran.com/10/32)
 

@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:107 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do you not know that to Allāh belongs the dominion of the heavens and the earth and [that] you have not besides Allāh any protector or any helper?
 
 **English (Yusuf Ali):** Knowest thou not that to Allah belongeth the dominion of the heavens and the earth? And besides Him ye have neither patron nor helper.
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہیں معلوم نہیں کہ آسمانوں اور زمین کی بادشاہت خدا ہی کی ہے، اور خدا کے سوا تمہارا کوئی دوست اور مدد گار نہیں
 
 [Open on Quran.com](https://quran.com/2/107)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Never will the Jews or the Christians be satisfied with thee unless thou follow their form of religion. Say: "The Guidance of Allah,-that is the (only) Guidance." Wert thou to follow their desires after the knowledge which hath reached thee, then wouldst thou find neither Protector nor helper against Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے نہ تو یہودی کبھی خوش ہوں گے اور نہ عیسائی، یہاں تک کہ تم ان کے مذہب کی پیروی اختیار کرلو۔ (ان سے) کہہ دو کہ خدا کی ہدایت (یعنی دین اسلام) ہی ہدایت ہے۔ اور (اے پیغمبر) اگر تم اپنے پاس علم (یعنی وحی خدا) کے آ جانے پر بھی ان کی خواہشوں پر چلو گے تو تم کو (عذاب) خدا سے (بچانے والا) نہ کوئی دوست ہوگا اور نہ کوئی مددگار
+
 [Open on Quran.com](https://quran.com/2/120)
 
 #### 2:257 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh is the Ally of those who believe. He brings them out from darknesses into the light. And those who disbelieve - their allies are ṭāghūt. They take them out of the light into darknesses. Those are the companions of the Fire; they will abide eternally therein.
 
 **English (Yusuf Ali):** Allah is the Protector of those who have faith: from the depths of darkness He will lead them forth into light. Of those who reject faith the patrons are the evil ones: from light they will lead them forth into the depths of darkness. They will be companions of the fire, to dwell therein (For ever).
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے ہیں ان کا دوست خدا ہے کہ اُن کو اندھیرے سے نکال کر روشنی میں لے جاتا ہے اور جو کافر ہیں ان کے دوست شیطان ہیں کہ ان کو روشنی سے نکال کر اندھیرے میں لے جاتے ہیں یہی لوگ اہل دوزخ ہیں کہ اس میں ہمیشہ رہیں گے
 
 [Open on Quran.com](https://quran.com/2/257)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah; For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
+
 [Open on Quran.com](https://quran.com/2/282)
 
 #### 3:28 · [[003 Ali Imran]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Let not believers take disbelievers as allies [i.e., supporters or protectors] rather than believers. And whoever [of you] does that has nothing [i.e., no association] with Allāh, except when taking precaution against them in prudence. And Allāh warns you of Himself, and to Allāh is the [final] destination.
 
 **English (Yusuf Ali):** Let not the believers Take for friends or helpers Unbelievers rather than believers: if any do that, in nothing will there be help from Allah: except by way of precaution, that ye may Guard yourselves from them. But Allah cautions you (To remember) Himself; for the final goal is to Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** مؤمنوں کو چاہئے کہ مؤمنوں کے سوا کافروں کو دوست نہ بنائیں اور جو ایسا کرے گا اس سے خدا کا کچھ (عہد) نہیں ہاں اگر اس طریق سے تم ان (کے شر) سے بچاؤ کی صورت پیدا کرو (تو مضائقہ نہیں) اور خدا تم کو اپنے (غضب) سے ڈراتا ہے اور خدا ہی کی طرف (تم کو) لوٹ کر جانا ہے
 
 [Open on Quran.com](https://quran.com/3/28)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Without doubt, among men, the nearest of kin to Abraham, are those who follow him, as are also this Prophet and those who believe: And Allah is the Protector of those who have faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** ابراہیم سے قرب رکھنے والے تو وہ لوگ ہیں جو ان کی پیروی کرتے ہیں اور پیغمبر (آخرالزمان) اور وہ لوگ جو ایمان لائے ہیں اور خدا مومنوں کا کارساز ہے
+
 [Open on Quran.com](https://quran.com/3/68)
 
 #### 3:122 · [[003 Ali Imran]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** When two parties among you were about to lose courage, but Allāh was their ally; and upon Allāh the believers should rely.
 
 **English (Yusuf Ali):** Remember two of your parties Meditated cowardice; but Allah was their protector, and in Allah should the faithful (Ever) put their trust.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس وقت تم میں سے دو جماعتوں نے جی چھوڑ دینا چاہا مگر خدا ان کا مددگار تھا اور مومنوں کو خدا ہی پر بھروسہ رکھنا چاہیئے
 
 [Open on Quran.com](https://quran.com/3/122)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is only the Evil One that suggests to you the fear of his votaries: Be ye not afraid of them, but fear Me, if ye have Faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ (خوف دلانے والا) تو شیطان ہے جو اپنے دوستوں سے ڈراتا ہے تو اگر تم مومن ہو تو ان سے مت ڈرنا اور مجھ ہی سے ڈرتے رہنا
+
 [Open on Quran.com](https://quran.com/3/175)
 
 #### 4:45 · [[004 An-Nisa]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But Allah hath full knowledge of your enemies: Allah is enough for a protector, and Allah is enough for a Helper.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا تمہارے دشمنوں سے خوب واقف ہے اور خدا ہی کافی کارساز ہے اور کافی مددگار ہے
+
 [Open on Quran.com](https://quran.com/4/45)
 
 #### 4:75 · [[004 An-Nisa]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And what is [the matter] with you that you fight not in the cause of Allāh and [for] the oppressed among men, women, and children who say, "Our Lord, take us out of this city of oppressive people and appoint for us from Yourself a protector and appoint for us from Yourself a helper"?
 
 **English (Yusuf Ali):** And why should ye not fight in the cause of Allah and of those who, being weak, are ill-treated (and oppressed)?- Men, women, and children, whose cry is: "Our Lord! Rescue us from this town, whose people are oppressors; and raise for us from thee one who will protect; and raise for us from thee one who will help!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کو کیا ہوا ہے کہ خدا کی راہ میں اور اُن بےبس مردوں اور عورتوں اور بچوں کی خاطر نہیں لڑتے جو دعائیں کیا کرتے ہیں کہ اے پروردگار ہم کو اس شہر سے جس کے رہنے والے ظالم ہیں نکال کر کہیں اور لے جا۔ اور اپنی طرف سے کسی کو ہمارا حامی بنا۔ اور اپنی ہی طرف سے کسی کو ہمارا مددگار مقرر فرما
 
 [Open on Quran.com](https://quran.com/4/75)
 

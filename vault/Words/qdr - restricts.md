@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:236 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** There is no blame upon you if you divorce women you have not touched nor specified for them an obligation. But give them [a gift of] compensation - the wealthy according to his capability and the poor according to his capability - a provision according to what is acceptable, a duty upon the doers of good.
 
 **English (Yusuf Ali):** There is no blame on you if ye divorce women before consummation or the fixation of their dower; but bestow on them (A suitable gift), the wealthy according to his means, and the poor according to his means;- A gift of a reasonable amount is due from those who wish to do the right thing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے یا ان کا مہر مقرر کرنے سے پہلے طلاق دے دو تو تم پر کچھ گناہ نہیں۔ ہاں ان کو دستور کے مطابق کچھ خرچ ضرور دو (یعنی) مقدور والا اپنے مقدور کے مطابق دے اور تنگدست اپنی حیثیت کے مطابق۔ نیک لوگوں پر یہ ایک طرح کا حق ہے
 
 [Open on Quran.com](https://quran.com/2/236)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! cancel not your charity by reminders of your generosity or by injury,- like those who spend their substance to be seen of men, but believe neither in Allah nor in the Last Day. They are in parable like a hard, barren rock, on which is a little soil: on it falls heavy rain, which leaves it (Just) a bare stone. They will be able to do nothing with aught they have earned. And Allah guideth not those who reject faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اپنے صدقات (وخیرات)احسان رکھنے اور ایذا دینے سے اس شخص کی طرح برباد نہ کردینا۔ جو لوگوں کو دکھاوے کے لئے مال خرچ کرتا ہے اور خدا اور روز آخرت پر ایمان نہیں رکھتا۔ تو اس (کے مال) کی مثال اس چٹان کی سی ہے جس پر تھوڑی سی مٹی پڑی ہو اور اس پر زور کا مینہ برس کر اسے صاف کر ڈالے۔ (اسی طرح) یہ (ریاکار) لوگ اپنے اعمال کا کچھ بھی صلہ حاصل نہیں کرسکیں گے۔ اور خدا ایسے ناشکروں کو ہدایت نہیں دیا کرتا
+
 [Open on Quran.com](https://quran.com/2/264)
 
 #### 5:34 · [[005 Al-Maidah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except for those who return [repenting] before you overcome [i.e., apprehend] them. And know that Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** Except for those who repent before they fall into your power: in that case, know that Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جن لوگوں نے اس سے پیشتر کہ تمہارے قابو میں آ جائیں توبہ کر لی تو جان رکھو کہ خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/5/34)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** No just estimate of Allah do they make when they say: "Nothing doth Allah send down to man (by way of revelation)" Say: "Who then sent down the Book which Moses brought?- a light and guidance to man: But ye make it into (separate) sheets for show, while ye conceal much (of its contents): therein were ye taught that which ye knew not- neither ye nor your fathers." Say: "Allah (sent it down)": Then leave them to plunge in vain discourse and trifling.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے خدا کی قدر جیسی جاننی چاہیئے تھی نہ جانی۔ جب انہوں نے کہا کہ خدا نے انسان پر (وحی اور کتاب وغیرہ) کچھ بھی نازل نہیں کیا۔ کہو جو کتاب موسیٰ لے کر آئے تھے اسے کس نے نازل کیا تھا جو لوگوں کے لئے نور اور ہدایت تھی اور جسے تم نے علیحدہ علیحدہ اوراق (پر نقل) کر رکھا ہے ان (کے کچھ حصے) کو تو ظاہر کرتے ہو اور اکثر کو چھپاتے ہو۔ اور تم کو وہ باتیں سکھائی گئیں جن کو نہ تم جانتے تھے اور نہ تمہارے باپ دادا۔ کہہ دو (اس کتاب کو) خدا ہی نے (نازل کیا تھا) پھر ان کو چھوڑ دیا کہ اپنی بیہودہ بکواس میں کھیلتے رہیں
+
 [Open on Quran.com](https://quran.com/6/91)
 
 #### 10:5 · [[010 Yunus]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is He who made the sun a shining light and the moon a derived light and determined for it phases - that you may know the number of years and account [of time]. Allāh has not created this except in truth. He details the signs for a people who know.
 
 **English (Yusuf Ali):** It is He Who made the sun to be a shining glory and the moon to be a light (of beauty), and measured out stages for her; that ye might know the number of years and the count (of time). Nowise did Allah create this but in truth and righteousness. (Thus) doth He explain His Signs in detail, for those who understand.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سورج کو روشن اور چاند کو منور بنایا اور چاند کی منزلیں مقرر کیں تاکہ تم برسوں کا شمار اور (کاموں کا) حساب معلوم کرو۔ یہ (سب کچھ) خدا نے تدبیر سے پیدا کیا ہے۔ سمجھنے والوں کے لیے وہ اپنی آیاتیں کھول کھول کر بیان فرماتا ہے
 
 [Open on Quran.com](https://quran.com/10/5)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He sends down water from the skies, and the channels flow, each according to its measure: But the torrent bears away to foam that mounts up to the surface. Even so, from that (ore) which they heat in the fire, to make ornaments or utensils therewith, there is a scum likewise. Thus doth Allah (by parables) show forth Truth and Vanity. For the scum disappears like forth cast out; while that which is for the good of mankind remains on the earth. Thus doth Allah set forth parables.
 
+**Urdu (Fatah Muhammad Jalandhari):** اسی نے آسمان سے مینہ برسایا پھر اس سے اپنے اپنے اندازے کے مطابق نالے بہہ نکلے پھر نالے پر پھولا ہوا جھاگ آگیا۔ اور جس چیز کو زیور یا کوئی اور سامان بنانے کے لیے آگ میں تپاتے ہیں اس میں بھی ایسا ہی جھاگ ہوتا ہے۔ اس طرح خدا حق اور باطل کی مثال بیان فرماتا ہے۔ سو جھاگ تو سوکھ کر زائل ہو جاتا ہے۔ اور (پانی) جو لوگوں کو فائدہ پہنچاتا ہے وہ زمین میں ٹھہرا رہتا ہے۔ اس طرح خدا (صحیح اور غلط کی) مثالیں بیان فرماتا ہے (تاکہ تم سمجھو)
+
 [Open on Quran.com](https://quran.com/13/17)
 
 #### 13:26 · [[013 Ar-Rad]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh extends provision for whom He wills and restricts [it]. And they rejoice in the worldly life, while the worldly life is not, compared to the Hereafter, except [brief] enjoyment.
 
 **English (Yusuf Ali):** Allah doth enlarge, or grant by (strict) measure, the sustenance (which He giveth) to whomso He pleaseth. (The wordly) rejoice in the life of this world: But the life of this world is but little comfort in the Hereafter.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا جس کا چاہتا ہے رزق فراخ کر دیتا ہے اور (جس کا چاہتا ہے) تنگ کر دیتا ہے۔ اور کافر لوگ دنیا کی زندگی پر خوش ہو رہے ہیں اور دنیا کی زندگی آخرت (کے مقابلے) میں (بہت) تھوڑا فائدہ ہے
 
 [Open on Quran.com](https://quran.com/13/26)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The parable of those who reject their Lord is that their works are as ashes, on which the wind blows furiously on a tempestuous day: No power have they over aught that they have earned: that is the straying far, far (from the goal).
 
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے اپنے پروردگار سے کفر کیا ان کے اعمال کی مثال راکھ کی سی ہے کہ آندھی کے دن اس پر زور کی ہوا چلے (اور) اسے اڑا لے جائے (اس طرح) جو کام وہ کرتے رہے ان پر ان کو کچھ دسترس نہ ہوگی۔ یہی تو پرلے سرے کی گمراہی ہے
+
 [Open on Quran.com](https://quran.com/14/18)
 
 #### 15:21 · [[015 Al-Hijr]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And there is not a thing but its (sources and) treasures (inexhaustible) are with Us; but We only send down thereof in due and ascertainable measures.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہمارے ہاں ہر چیز کے خزانے ہیں اور ہم ان کو بمقدار مناسب اُتارتے رہتے ہیں
+
 [Open on Quran.com](https://quran.com/15/21)
 
 #### 15:60 · [[015 Al-Hijr]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except his wife." We [i.e., Allāh] decreed that she is of those who remain behind.
 
 **English (Yusuf Ali):** "Except his wife, who, We have ascertained, will be among those who will lag behind."
+
+**Urdu (Fatah Muhammad Jalandhari):** البتہ ان کی عورت (کہ) اس کے لیے ہم نے ٹھہرا دیا ہے کہ وہ پیچھے رہ جائے گی
 
 [Open on Quran.com](https://quran.com/15/60)
 

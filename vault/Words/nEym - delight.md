@@ -38,7 +38,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 5:65 · [[005 Al-Maidah]]
 
@@ -53,6 +53,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if only the People of the Scripture had believed and feared Allāh, We would have removed from them their misdeeds and admitted them to Gardens of Pleasure.
 
 **English (Yusuf Ali):** If only the People of the Book had believed and been righteous, We should indeed have blotted out their iniquities and admitted them to gardens of bliss.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر اہل کتاب ایمان لاتے اور پرہیز گاری کرتے تو ہم ان سے ان کے گناہ محو کر دیتے اور ان کو نعمت کے باغوں میں داخل کرتے
 
 [Open on Quran.com](https://quran.com/5/65)
 
@@ -70,6 +72,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Their Lord doth give them glad tidings of a Mercy from Himself, of His good pleasure, and of gardens for them, wherein are delights that endure:
 
+**Urdu (Fatah Muhammad Jalandhari):** ان کا پروردگار ان کو اپنی رحمت کی اور خوشنودی کی اور بہشتوں کی خوشخبری دیتا ہے جن میں ان کے لیے نعمت ہائے جاودانی ہے
+
 [Open on Quran.com](https://quran.com/9/21)
 
 #### 10:9 · [[010 Yunus]]
@@ -85,6 +89,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who have believed and done righteous deeds - their Lord will guide them because of their faith. Beneath them rivers will flow in the Gardens of Pleasure.
 
 **English (Yusuf Ali):** Those who believe, and work righteousness,- their Lord will guide them because of their faith: beneath them will flow rivers in gardens of bliss.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور نیک کام کرتے رہے ان کو پروردگار ان کے ایمان کی وجہ سے (ایسے محلوں کی) راہ دکھائے گا (کہ) ان کے نیچے نعمت کے باغوں میں نہریں بہہ رہی ہوں گی
 
 [Open on Quran.com](https://quran.com/10/9)
 
@@ -102,6 +108,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** On that Day of Dominion will be that of Allah: He will judge between them: so those who believe and work righteous deeds will be in Gardens of Delight.
 
+**Urdu (Fatah Muhammad Jalandhari):** اس روز بادشاہی خدا ہی کی ہوگی۔ اور ان میں فیصلہ کردے گا تو جو لوگ ایمان لائے اور عمل نیک کرتے رہے وہ نعمت کے باغوں میں ہوں گے
+
 [Open on Quran.com](https://quran.com/22/56)
 
 #### 26:85 · [[026 Ash-Shuara]]
@@ -117,6 +125,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And place me among the inheritors of the Garden of Pleasure.
 
 **English (Yusuf Ali):** "Make me one of the inheritors of the Garden of Bliss;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مجھے نعمت کی بہشت کے وارثوں میں کر
 
 [Open on Quran.com](https://quran.com/26/85)
 
@@ -134,6 +144,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For those who believe and work righteous deeds, there will be Gardens of Bliss,-
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور نیک کام کرتے رہے اُن کے لئے نعمت کے باغ ہیں
+
 [Open on Quran.com](https://quran.com/31/8)
 
 #### 37:43 · [[037 As-Saffat]]
@@ -149,6 +161,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** In gardens of pleasure
 
 **English (Yusuf Ali):** In Gardens of Felicity,
+
+**Urdu (Fatah Muhammad Jalandhari):** نعمت کے باغوں میں
 
 [Open on Quran.com](https://quran.com/37/43)
 
@@ -166,6 +180,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** As to the Righteous, they will be in Gardens, and in Happiness,-
 
+**Urdu (Fatah Muhammad Jalandhari):** جو پرہیزگار ہیں وہ باغوں اور نعتموں میں ہوں گے
+
 [Open on Quran.com](https://quran.com/52/17)
 
 #### 56:12 · [[056 Al-Waqiah]]
@@ -182,6 +198,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In Gardens of Bliss:
 
+**Urdu (Fatah Muhammad Jalandhari):** نعمت کے بہشتوں میں
+
 [Open on Quran.com](https://quran.com/56/12)
 
 #### 56:89 · [[056 Al-Waqiah]]
@@ -197,6 +215,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then [for him is] rest and bounty and a garden of pleasure.
 
 **English (Yusuf Ali):** (There is for him) Rest and Satisfaction, and a Garden of Delights.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو (اس کے لئے) آرام اور خوشبودار پھول اور نعمت کے باغ ہیں
 
 [Open on Quran.com](https://quran.com/56/89)
 

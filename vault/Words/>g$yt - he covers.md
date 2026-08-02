@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[g$w - gshw]]
+- [[g$w - cover conceal]]
 
 ### Meaning
 **he covers** · Lemma **أُغْشِيَتْ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:54 · [[007 Al-Araf]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, your Lord is Allāh, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allāh, Lord of the worlds.
 
 **English (Yusuf Ali):** Your Guardian-Lord is Allah, Who created the heavens and the earth in six days, and is firmly established on the throne (of authority): He draweth the night as a veil o'er the day, each seeking the other in rapid succession: He created the sun, the moon, and the stars, (all) governed by laws under His command. Is it not His to create and to govern? Blessed be Allah, the Cherisher and Sustainer of the worlds!
+
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ تمہارا پروردگار خدا ہی ہے جس نے آسمانوں اور زمین کو چھ دن میں پیدا کیا پھر عرش پر جا ٹھہرا۔ وہی رات کو دن کا لباس پہناتا ہے کہ وہ اس کے پیچھے دوڑتا چلا آتا ہے۔ اور اسی نے سورج اور چاند ستاروں کو پیدا کیا سب اس کے حکم کے مطابق کام میں لگے ہوئے ہیں۔ دیکھو سب مخلوق بھی اسی کی ہے اور حکم بھی (اسی کا ہے)۔ یہ خدا رب العالمین بڑی برکت والا ہے
 
 [Open on Quran.com](https://quran.com/7/54)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But those who have earned evil will have a reward of like evil: ignominy will cover their (faces): No defender will they have from (the wrath of) Allah: Their faces will be covered, as it were, with pieces from the depth of the darkness of night: they are companions of the Fire: they will abide therein (for aye)!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے برے کام کئے تو برائی کا بدلہ ویسا ہی ہوگا۔ اور ان کے مونہوں پر ذلت چھا جائے گی۔ اور کوئی ان کو خدا سے بچانے والا نہ ہوگا۔ ان کے مونہوں (کی سیاہی کا یہ عالم ہوگا کہ ان) پر گویا اندھیری رات کے ٹکڑے اُڑھا دیئے گئے ہیں۔ یہی دوزخی ہیں کہ ہمیشہ اس میں رہیں گے
+
 [Open on Quran.com](https://quran.com/10/27)
 
 #### 13:3 · [[013 Ar-Rad]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And it is He who spread out the earth, and set thereon mountains standing firm and (flowing) rivers: and fruit of every kind He made in pairs, two and two: He draweth the night as a veil o'er the Day. Behold, verily in these things there are signs for those who consider!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ وہی ہے جس نے زمین کو پھیلایا اور اس میں پہاڑ اور دریا پیدا کئے اور ہر طرح کے میوؤں کی دو دو قسمیں بنائیں۔ وہی رات کو دن کا لباس پہناتا ہے۔ غور کرنے والوں کے لیے اس میں بہت سی نشانیاں ہیں
+
 [Open on Quran.com](https://quran.com/13/3)
 
 #### 36:9 · [[036 Ya-Sin]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have put before them a barrier and behind them a barrier and covered them, so they do not see.
 
 **English (Yusuf Ali):** And We have put a bar in front of them and a bar behind them, and further, We have covered them up; so that they cannot see.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کے آگے بھی دیوار بنا دی اور ان کے پیچھے بھی۔ پھر ان پر پردہ ڈال دیا تو یہ دیکھ نہیں سکتے
 
 [Open on Quran.com](https://quran.com/36/9)
 

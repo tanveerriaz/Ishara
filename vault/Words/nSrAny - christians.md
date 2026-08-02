@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nSr - nsr]]
+- [[nSr - aid]]
 
 ### Meaning
 **christians** · Lemma **نَصْرانِيّ**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:62 · [[002 Al-Baqarah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who believed and those who were Jews or Christians or Sabeans [before Prophet Muḥammad (ﷺ)] - those [among them] who believed in Allāh and the Last Day and did righteousness - will have their reward with their Lord, and no fear will there be concerning them, nor will they grieve.
 
 **English (Yusuf Ali):** Those who believe (in the Qur'an), and those who follow the Jewish (scriptures), and the Christians and the Sabians,- any who believe in Allah and the Last Day, and work righteousness, shall have their reward with their Lord; on them shall be no fear, nor shall they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ مسلمان ہیں یا یہودی یا عیسائی یا ستارہ پرست، (یعنی کوئی شخص کسی قوم و مذہب کا ہو) جو خدا اور روز قیامت پر ایمان لائے گا، اور نیک عمل کرے گا، تو ایسے لوگوں کو ان (کے اعمال) کا صلہ خدا کے ہاں ملے گا اور (قیامت کے دن) ان کو نہ کسی طرح کا خوف ہوگا اور نہ وہ غم ناک ہوں گے
 
 [Open on Quran.com](https://quran.com/2/62)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And they say: "None shall enter Paradise unless he be a Jew or a Christian." Those are their (vain) desires. Say: "Produce your proof if ye are truthful."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (یہودی اور عیسائی) کہتے ہیں کہ یہودیوں اور عیسائیوں کے سوا کوئی بہشت میں نہیں جانے کا۔ یہ ان لوگوں کے خیالاتِ باطل ہیں۔ (اے پیغمبر ان سے) کہہ دو کہ اگر سچے ہو تو دلیل پیش کرو
+
 [Open on Quran.com](https://quran.com/2/111)
 
 #### 2:113 · [[002 Al-Baqarah]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The Jews say, "The Christians have nothing [true] to stand on," and the Christians say, "The Jews have nothing to stand on," although they [both] recite the Scripture. Thus do those who know not [i.e., the polytheists] speak the same as their words. But Allāh will judge between them on the Day of Resurrection concerning that over which they used to differ.
 
 **English (Yusuf Ali):** The Jews say: "The Christians have naught (to stand) upon; and the Christians say: "The Jews have naught (To stand) upon." Yet they (Profess to) study the (same) Book. Like unto their word is what those say who know not; but Allah will judge between them in their quarrel on the Day of Judgment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہودی کہتے ہیں کہ عیسائی رستے پر نہیں اور عیسائی کہتے ہیں کہ یہودی رستے پر نہیں۔ حالانکہ وہ کتاب (الہٰی) پڑھتے ہیں۔ اسی طرح بالکل انہی کی سی بات وہ لوگ کہتے ہیں جو (کچھ) نہیں جانتے (یعنی مشرک) تو جس بات میں یہ لوگ اختلاف کر رہے خدا قیامت کے دن اس کا ان میں فیصلہ کر دے گا
 
 [Open on Quran.com](https://quran.com/2/113)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Never will the Jews or the Christians be satisfied with thee unless thou follow their form of religion. Say: "The Guidance of Allah,-that is the (only) Guidance." Wert thou to follow their desires after the knowledge which hath reached thee, then wouldst thou find neither Protector nor helper against Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے نہ تو یہودی کبھی خوش ہوں گے اور نہ عیسائی، یہاں تک کہ تم ان کے مذہب کی پیروی اختیار کرلو۔ (ان سے) کہہ دو کہ خدا کی ہدایت (یعنی دین اسلام) ہی ہدایت ہے۔ اور (اے پیغمبر) اگر تم اپنے پاس علم (یعنی وحی خدا) کے آ جانے پر بھی ان کی خواہشوں پر چلو گے تو تم کو (عذاب) خدا سے (بچانے والا) نہ کوئی دوست ہوگا اور نہ کوئی مددگار
+
 [Open on Quran.com](https://quran.com/2/120)
 
 #### 2:135 · [[002 Al-Baqarah]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They say, "Be Jews or Christians [so] you will be guided." Say, "Rather, [we follow] the religion of Abraham, inclining toward truth, and he was not of the polytheists."
 
 **English (Yusuf Ali):** They say: "Become Jews or Christians if ye would be guided (To salvation)." Say thou: "Nay! (I would rather) the Religion of Abraham the True, and he joined not gods with Allah."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (یہودی اور عیسائی) کہتے ہیں کہ یہودی یا عیسائی ہو جاؤ تو سیدھے رستے پر لگ جاؤ۔ (اے پیغمبر ان سے) کہہ دو، (نہیں) بلکہ (ہم) دین ابراہیم (اختیار کئے ہوئے ہیں) جو ایک خدا کے ہو رہے تھے اور مشرکوں میں سے نہ تھے
 
 [Open on Quran.com](https://quran.com/2/135)
 
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or do ye say that Abraham, Isma'il Isaac, Jacob and the Tribes were Jews or Christians? Say: Do ye know better than Allah? Ah! who is more unjust than those who conceal the testimony they have from Allah? but Allah is not unmindful of what ye do!
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے یہود ونصاریٰ) کیا تم اس بات کے قائل ہو کہ ابراہیم اور اسمٰعیل اور اسحاق اور یعقوب اور ان کی اولاد یہودی یا عیسائی تھے۔ (اے محمدﷺ ان سے) کہو کہ بھلا تم زیادہ جانتے ہو یا خدا؟ اور اس سے بڑھ کر ظالم کون، جو خدا کی شہادت کو، جو اس کے پاس (کتاب میں موجود) ہے چھپائے۔ اور جو کچھ تم کر رہے ہو، خدا اس سے غافل نہیں
+
 [Open on Quran.com](https://quran.com/2/140)
 
 #### 3:67 · [[003 Ali Imran]]
@@ -139,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allāh]. And he was not of the polytheists.
 
 **English (Yusuf Ali):** Abraham was not a Jew nor yet a Christian; but he was true in Faith, and bowed his will to Allah's (Which is Islam), and he joined not gods with Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** ابراہیم نہ تو یہودی تھے اور نہ عیسائی بلکہ سب سے بے تعلق ہو کر ایک (خدا) کے ہو رہے تھے اور اسی کے فرماں بردار تھے اور مشرکوں میں نہ تھے
 
 [Open on Quran.com](https://quran.com/3/67)
 
@@ -156,6 +170,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** From those, too, who call themselves Christians, We did take a covenant, but they forgot a good part of the message that was sent them: so we estranged them, with enmity and hatred between the one and the other, to the day of judgment. And soon will Allah show them what it is they have done.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ (اپنے تئیں) کہتے ہیں کہ ہم نصاریٰ ہیں ہم نے ان سے بھی عہد لیا تھا مگر انہوں نے بھی اس نصیحت کا جو ان کو کی گئی تھی ایک حصہ فراموش کر دیا تو ہم نے ان کے باہم قیامت تک کے لیے دشمنی اور کینہ ڈال دیا اور جو کچھ وہ کرتے رہے خدا عنقریب ان کو اس سے آگاہ کرے گا
+
 [Open on Quran.com](https://quran.com/5/14)
 
 #### 5:18 · [[005 Al-Maidah]]
@@ -172,6 +188,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Both) the Jews and the Christians say: "We are sons of Allah, and his beloved." Say: "Why then doth He punish you for your sins? Nay, ye are but men,- of the men he hath created: He forgiveth whom He pleaseth, and He punisheth whom He pleaseth: and to Allah belongeth the dominion of the heavens and the earth, and all that is between: and unto Him is the final goal (of all)"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہود اور نصاریٰ کہتے ہیں کہ ہم خدا کے بیٹے اور اس کے پیارے ہیں کہو کہ پھر وہ تمہاری بداعمالیوں کے سبب تمھیں عذاب کیوں دیتا ہے (نہیں) بلکہ تم اس کی مخلوقات میں (دوسروں کی طرح کے) انسان ہو وہ جسے چاہے بخشے اور جسے چاہے عذاب دے اور آسمان زمین اور جو کچھ ان دونوں میں ہے سب پر خدا ہی کی حکومت ہے اور (سب کو) اسی کی طرف لوٹ کر جانا ہے
+
 [Open on Quran.com](https://quran.com/5/18)
 
 #### 5:51 · [[005 Al-Maidah]]
@@ -187,6 +205,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not take the Jews and the Christians as allies. They are [in fact] allies of one another. And whoever is an ally to them among you - then indeed, he is [one] of them. Indeed, Allāh guides not the wrongdoing people.
 
 **English (Yusuf Ali):** O ye who believe! take not the Jews and the Christians for your friends and protectors: They are but friends and protectors to each other. And he amongst you that turns to them (for friendship) is of them. Verily Allah guideth not a people unjust.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! یہود اور نصاریٰ کو دوست نہ بناؤ یہ ایک دوسرے کے دوست ہیں اور جو شخص تم میں سے ان کو دوست بنائے گا وہ بھی انہیں میں سے ہوگا بیشک خدا ظالم لوگوں کو ہدایت نہیں دیتا
 
 [Open on Quran.com](https://quran.com/5/51)
 

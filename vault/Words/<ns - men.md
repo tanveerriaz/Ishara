@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>ns - ans]]
+- [[>ns - mankind]]
 
 ### Meaning
 **men** · Lemma **إِنس**
@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:112 · [[006 Al-Anam]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And thus We have made for every prophet an enemy - devils from mankind and jinn, inspiring to one another decorative speech in delusion. But if your Lord had willed, they would not have done it, so leave them and that which they invent.
 
 **English (Yusuf Ali):** Likewise did We make for every Messenger an enemy,- evil ones among men and jinns, inspiring each other with flowery discourses by way of deception. If thy Lord had so planned, they would not have done it: so leave them and their inventions alone.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے شیطان (سیرت) انسانوں اور جنوں کو ہر پیغمبر کا دشمن بنا دیا تھا وہ دھوکا دینے کے لیے ایک دوسرے کے دل میں ملمع کی باتیں ڈالتے رہتے تھے اور اگر تمہارا پروردگار چاہتا تو وہ ایسا نہ کرتے تو ان کو اور جو کچھ یہ افتراء کرتے ہیں اسے چھوڑ دو
 
 [Open on Quran.com](https://quran.com/6/112)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** One day will He gather them all together, (and say): "O ye assembly of Jinns! Much (toll) did ye take of men." Their friends amongst men will say: "Our Lord! we made profit from each other: but (alas!) we reached our term - which thou didst appoint for us." He will say: "The Fire be your dwelling-place: you will dwell therein for ever, except as Allah willeth." for thy Lord is full of wisdom and knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن وہ سب (جنّ وانس) کو جمع کرے گا (اور فرمائے گا کہ) اے گروہ جنّات تم نے انسانوں سے بہت (فائدے) حاصل کئے تو جو انسانوں میں ان کے دوستدار ہوں گے وہ کہیں گے کہ پروردگار ہم ایک دوسرے سے فائدہ اٹھاتے رہے اور (آخر) اس وقت کو پہنچ گئے جو تو نے ہمارے لیے مقرر کیا تھا خدا فرمائے گا (اب) تمہارا ٹھکانہ دوزخ ہے ہمیشہ اس میں (جلتے) رہو گے مگر جو خدا چاہے بےشک تمہارا پروردگار دانا اور خبردار ہے
+
 [Open on Quran.com](https://quran.com/6/128)
 
 #### 6:130 · [[006 Al-Anam]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** "O company of jinn and mankind, did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours?" They will say, "We bear witness against ourselves"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers.
 
 **English (Yusuf Ali):** "O ye assembly of Jinns and men! came there not unto you messengers from amongst you, setting forth unto you My signs, and warning you of the meeting of this Day of yours?" They will say: "We bear witness against ourselves." It was the life of this world that deceived them. So against themselves will they bear witness that they rejected Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے جنّوں اور انسانوں کی جماعت کیا تمہارے پاس تم ہی میں سے پیغمبر نہیں آتے رہے جو میری آیتیں تم کو پڑھ پڑھ کر سناتے اور اس دن کے سامنے آموجود ہونے سے ڈراتے تھے وہ کہیں گے کہ (پروردگار) ہمیں اپنے گناہوں کا اقرار ہے ان لوگوں کو دنیاکی زندگی نے دھوکے میں ڈال رکھا تھا اور (اب) خود اپنے اوپر گواہی دی کہ کفر کرتے تھے
 
 [Open on Quran.com](https://quran.com/6/130)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He will say: "Enter ye in the company of the peoples who passed away before you - men and jinns, - into the Fire." Every time a new people enters, it curses its sister-people (that went before), until they follow each other, all into the Fire. Saith the last about the first: "Our Lord! it is these that misled us: so give them a double penalty in the Fire." He will say: "Doubled for all": but this ye do not understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو خدا فرمائے گا کہ جنّوں اور انسانوں کی جو جماعتیں تم سے پہلے ہو گزری ہیں ان کے ساتھ تم بھی داخل جہنم ہو جاؤ۔ جب ایک جماعت (وہاں) جا داخل ہو گئی تو اپنی (مذہبی) بہن (یعنی اپنے جیسی دوسری جماعت) پر لعنت کرے گی۔ یہاں تک کہ جب سب اس میں داخل ہو جائیں گے تو پچھلی جماعت پہلی کی نسبت کہے گی کہ اے پروردگار! ان ہی لوگوں نے ہم کو گمراہ کیا تھا تو ان کو آتش جہنم کا دگنا عذاب دے۔ خدا فرمائے گا کہ (تم) سب کو دگنا (عذاب دیا جائے گا) مگر تم نہیں جانتے
+
 [Open on Quran.com](https://quran.com/7/38)
 
 #### 7:179 · [[007 Al-Araf]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have certainly created for Hell many of the jinn and mankind. They have hearts with which they do not understand, they have eyes with which they do not see, and they have ears with which they do not hear. Those are like livestock; rather, they are more astray. It is they who are the heedless.
 
 **English (Yusuf Ali):** Many are the Jinns and men we have made for Hell: They have hearts wherewith they understand not, eyes wherewith they see not, and ears wherewith they hear not. They are like cattle,- nay more misguided: for they are heedless (of warning).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بہت سے جن اور انسان دوزخ کے لیے پیدا کیے ہیں۔ ان کے دل ہیں لیکن ان سے سمجھتے نہیں اور ان کی آنکھیں ہیں مگر ان سے دیکھتے نہیں اور ان کے کان ہیں پر ان سے سنتے نہیں۔ یہ لوگ بالکل چارپایوں کی طرح ہیں بلکہ ان سے بھی بھٹکے ہوئے۔ یہی وہ ہیں جو غفلت میں پڑے ہوئے ہیں
 
 [Open on Quran.com](https://quran.com/7/179)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "If the whole of mankind and Jinns were to gather together to produce the like of this Qur'an, they could not produce the like thereof, even if they backed up each other with help and support.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر انسان اور جن اس بات پر مجتمع ہوں کہ اس قرآن جیسا بنا لائیں تو اس جیسا نہ لاسکیں گے اگرچہ وہ ایک دوسرے کو مددگار ہوں
+
 [Open on Quran.com](https://quran.com/17/88)
 
 #### 27:17 · [[027 An-Naml]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And gathered for Solomon were his soldiers of the jinn and men and birds, and they were [marching] in rows
 
 **English (Yusuf Ali):** And before Solomon were marshalled his hosts,- of Jinns and men and birds, and they were all kept in order and ranks.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور سلیمان کے لئے جنوں اور انسانوں اور پرندوں کے لشکر جمع کئے گئے اور قسم وار کئے جاتے تھے
 
 [Open on Quran.com](https://quran.com/27/17)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We have destined for them intimate companions (of like nature), who made alluring to them what was before them and behind them; and the sentence among the previous generations of Jinns and men, who have passed away, is proved against them; for they are utterly lost.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے (شیطانوں کو) ان کا ہم نشین مقرر کردیا تھا تو انہوں نے ان کے اگلے اور پچھلے اعمال ان کو عمدہ کر دکھائے تھے اور جنات اور انسانوں کی جماعتیں جو ان سے پہلے گذر چکیں ان پر بھی خدا (کے عذاب) کا وعدہ پورا ہوگیا۔ بےشک یہ نقصان اٹھانے والے ہیں
+
 [Open on Quran.com](https://quran.com/41/25)
 
 #### 41:29 · [[041 Fussilat]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And the Unbelievers will say: "Our Lord! Show us those, among Jinns and men, who misled us: We shall crush them beneath our feet, so that they become the vilest (before all)."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر کہیں گے کہ اے ہمارے پروردگار جنوں اور انسانوں میں سے جن لوگوں نے ہم کو گمراہ کیا تھا ان کو ہمیں دکھا کہ ہم ان کو اپنے پاؤں کے تلے (روند) ڈالیں تاکہ وہ نہایت ذلیل ہوں
+
 [Open on Quran.com](https://quran.com/41/29)
 
 #### 46:18 · [[046 Al-Ahqaf]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the ones upon whom the word [i.e., decree] has come into effect, [who will be] among nations which had passed on before them of jinn and men. Indeed, they [all] were losers.
 
 **English (Yusuf Ali):** Such are they against whom is proved the sentence among the previous generations of Jinns and men, that have passed away; for they will be (utterly) lost.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی وہ لوگ ہیں جن کے بارے میں جنوں اور انسانوں کی (دوسری) اُمتوں میں سے جو ان سے پہلے گزر چکیں عذاب کا وعدہ متحقق ہوگیا۔ بےشک وہ نقصان اٹھانے والے تھے
 
 [Open on Quran.com](https://quran.com/46/18)
 

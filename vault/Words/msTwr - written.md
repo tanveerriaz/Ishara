@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sTr - str]]
+- [[sTr - tales]]
 
 ### Meaning
 **written** · Lemma **مَسْطُور**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 17:58 · [[017 Al-Isra]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And there is no city but that We will destroy it before the Day of Resurrection or punish it with a severe punishment. That has ever been in the Register inscribed.
 
 **English (Yusuf Ali):** There is not a population but We shall destroy it before the Day of Judgment or punish it with a dreadful Penalty: that is written in the (eternal) Record.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (کفر کرنے والوں کی) کوئی بستی نہیں مگر قیامت کے دن سے پہلے ہم اسے ہلاک کردیں گے یا سخت عذاب سے معذب کریں گے۔ یہ کتاب (یعنی تقدیر) میں لکھا جاچکا ہے
 
 [Open on Quran.com](https://quran.com/17/58)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Prophet is closer to the Believers than their own selves, and his wives are their mothers. Blood-relations among each other have closer personal ties, in the Decree of Allah. Than (the Brotherhood of) Believers and Muhajirs: nevertheless do ye what is just to your closest friends: such is the writing in the Decree (of Allah).
 
+**Urdu (Fatah Muhammad Jalandhari):** پیغمبر مومنوں پر اُن کی جانوں سے بھی زیادہ حق رکھتے ہیں اور پیغمبر کی بیویاں اُن کی مائیں ہیں۔ اور رشتہ دار آپس میں کتاب الله کے رُو سے مسلمانوں اور مہاجروں سے ایک دوسرے (کے ترکے) کے زیادہ حقدار ہیں۔ مگر یہ کہ تم اپنے دوستوں سے احسان کرنا چاہو۔ (تو اور بات ہے)۔ یہ حکم کتاب یعنی (قرآن) میں لکھ دیا گیا ہے
+
 [Open on Quran.com](https://quran.com/33/6)
 
 #### 52:2 · [[052 At-Tur]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [by] a Book inscribed
 
 **English (Yusuf Ali):** By a Decree inscribed
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کتاب کی جو لکھی ہوئی ہے
 
 [Open on Quran.com](https://quran.com/52/2)
 

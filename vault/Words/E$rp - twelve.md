@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[E$r - eshr]]
+- [[E$r - ten]]
 
 ### Meaning
 **twelve** · Lemma **عَشْرَة**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:60 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when Moses prayed for water for his people, so We said, "Strike with your staff the stone." And there gushed forth from it twelve springs, and every people [i.e., tribe] knew its watering place. "Eat and drink from the provision of Allāh, and do not commit abuse on the earth, spreading corruption."
 
 **English (Yusuf Ali):** And remember Moses prayed for water for his people; We said: "Strike the rock with thy staff." Then gushed forth therefrom twelve springs. Each group knew its own place for water. So eat and drink of the sustenance provided by Allah, and do no evil nor mischief on the (face of the) earth.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لیے (خدا سے) پانی مانگا تو ہم نے کہا کہ اپنی لاٹھی پتھر پر مارو۔ (انہوں نے لاٹھی ماری) تو پھر اس میں سے بارہ چشمے پھوٹ نکلے، اور تمام لوگوں نے اپنا اپنا گھاٹ معلوم کر (کے پانی پی) لیا۔ (ہم نے حکم دیا کہ) خدا کی (عطا فرمائی ہوئی) روزی کھاؤ اور پیو، مگر زمین میں فساد نہ کرتے پھرنا
 
 [Open on Quran.com](https://quran.com/2/60)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And complete the Hajj or 'umra in the service of Allah. But if ye are prevented (From completing it), send an offering for sacrifice, such as ye may find, and do not shave your heads until the offering reaches the place of sacrifice. And if any of you is ill, or has an ailment in his scalp, (Necessitating shaving), (He should) in compensation either fast, or feed the poor, or offer sacrifice; and when ye are in peaceful conditions (again), if any one wishes to continue the 'umra on to the hajj, He must make an offering, such as he can afford, but if he cannot afford it, He should fast three days during the hajj and seven days on his return, Making ten days in all. This is for those whose household is not in (the precincts of) the Sacred Mosque. And fear Allah, and know that Allah Is strict in punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی خوشنودی) کے لئے حج اور عمرے کو پورا کرو۔ اور اگر (راستےمیں) روک لئے جاؤ تو جیسی قربانی میسر ہو (کردو) اور جب تک قربانی اپنے مقام پر نہ پہنچ جائے سر نہ منڈاؤ۔ اور اگر کوئی تم میں بیمار ہو یا اس کے سر میں کسی طرح کی تکلیف ہو تو (اگر وہ سر منڈالے تو) اس کے بدلے روزے رکھے یا صدقہ دے یا قربانی کرے پھر جب (تکلیف دور ہو کر) تم مطمئن ہوجاؤ تو جو (تم میں) حج کے وقت تک عمرے سے فائدہ اٹھانا چاہے وہ جیسی قربانی میسر ہو کرے۔ اور جس کو (قربانی) نہ ملے وہ تین روزے ایام حج میں رکھے اور سات جب واپس ہو۔ یہ پورے دس ہوئے۔ یہ حکم اس شخص کے لئے ہے جس کے اہل وعیال مکے میں نہ رہتے ہوں اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا سخت عذاب دینے والا ہے
+
 [Open on Quran.com](https://quran.com/2/196)
 
 #### 5:89 · [[005 Al-Maidah]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah will not call you to account for what is futile in your oaths, but He will call you to account for your deliberate oaths: for expiation, feed ten indigent persons, on a scale of the average for the food of your families; or clothe them; or give a slave his freedom. If that is beyond your means, fast for three days. That is the expiation for the oaths ye have sworn. But keep to your oaths. Thus doth Allah make clear to you His signs, that ye may be grateful.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری بےارادہ قسموں پر تم سے مواخذہ نہیں کرے گا لیکن پختہ قسموں پر (جن کے خلاف کرو گے) مواخذہ کرے گا تو اس کا کفارہ دس محتاجوں کو اوسط درجے کا کھانا کھلانا ہے جو تم اپنے اہل وعیال کو کھلاتے ہو یا ان کو کپڑے دینا یا ایک غلام آزاد کرنا اور جس کو میسر نہ ہو وہ تین روزے رکھے یہ تمہاری قسموں کا کفارہ ہے جب تم قسم کھا لو (اور اسے توڑ دو) اور (تم کو) چاہئے کہ اپنی قسموں کی حفاظت کرو اس طرح خدا تمہارے (سمجھانے کے) لیے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم شکر کرو
+
 [Open on Quran.com](https://quran.com/5/89)
 
 #### 7:160 · [[007 Al-Araf]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We divided them into twelve descendant tribes [as distinct] nations. And We inspired to Moses when his people implored him for water, "Strike with your staff the stone," and there gushed forth from it twelve springs. Every people [i.e., tribe] knew its watering place. And We shaded them with clouds and sent down upon them manna and quails, [saying], "Eat from the good things with which We have provided you." And they wronged Us not, but they were [only] wronging themselves.
 
 **English (Yusuf Ali):** We divided them into twelve tribes or nations. We directed Moses by inspiration, when his (thirsty) people asked him for water: "Strike the rock with thy staff": out of it there gushed forth twelve springs: Each group knew its own place for water. We gave them the shade of clouds, and sent down to them manna and quails, (saying): "Eat of the good things We have provided for you": (but they rebelled); to Us they did no harm, but they harmed their own souls.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو (یعنی بنی اسرائیل کو) الگ الگ کرکے بارہ قبیلے (اور) بڑی بڑی جماعتیں بنا دیا۔ اور جب موسیٰ سے ان کی قوم نے پانی طلب کیا تو ہم نے ان کی طرف وحی بھیجی کہ اپنی لاٹھی پتھر پر مار دو۔ تو اس میں سے بارہ چشمے پھوٹ نکلے۔ اور سب لوگوں نے اپنا اپنا گھاٹ معلوم کرلیا۔ اور ہم نے ان (کے سروں) پر بادل کو سائبان بنائے رکھا اور ان پر من وسلویٰ اتارتے رہے۔ اور (ان سے کہا کہ) جو پاکیزہ چیزیں ہم تمہیں دیتے ہیں انہیں کھاؤ۔ اور ان لوگوں نے ہمارا کچھ نقصان نہیں کیا بلکہ (جو) نقصان کیا اپنا ہی کیا
 
 [Open on Quran.com](https://quran.com/7/160)
 

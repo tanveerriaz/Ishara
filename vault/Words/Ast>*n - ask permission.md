@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>*n - adhn]]
+- [[>*n - ear]]
 
 ### Meaning
 **ask permission** · Lemma **اسْتَأْذَنَ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:44 · [[009 At-Tawbah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who believe in Allāh and the Last Day would not ask permission of you to be excused from striving [i.e., fighting] with their wealth and their lives. And Allāh is Knowing of those who fear Him.
 
 **English (Yusuf Ali):** Those who believe in Allah and the Last Day ask thee for no exemption from fighting with their goods and persons. And Allah knoweth well those who do their duty.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا پر اور روز آخرت پر ایمان رکھتے ہیں وہ تو تم سے اجازت نہیں مانگتے (کہ پیچھے رہ جائیں بلکہ چاہتے ہیں کہ) اپنے مال اور جان سے جہاد کریں۔ اور خدا ڈرنے والوں سے واقف ہے
 
 [Open on Quran.com](https://quran.com/9/44)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Only those ask thee for exemption who believe not in Allah and the Last Day, and whose hearts are in doubt, so that they are tossed in their doubts to and fro.
 
+**Urdu (Fatah Muhammad Jalandhari):** اجازت وہی لوگ مانگتے ہیں جو خدا پر اور پچھلے دن پر ایمان نہیں رکھتے اور ان کے دل شک میں پڑے ہوئے ہیں۔ سو وہ اپنے شک میں ڈانواں ڈول ہو رہے ہیں
+
 [Open on Quran.com](https://quran.com/9/45)
 
 #### 9:83 · [[009 At-Tawbah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If Allāh should return you to a faction of them [after the expedition] and then they ask your permission to go out [to battle], say, "You will not go out with me, ever, and you will never fight with me an enemy. Indeed, you were satisfied with sitting [at home] the first time, so sit [now] with those who stay behind."
 
 **English (Yusuf Ali):** If, then, Allah bring thee back to any of them, and they ask thy permission to come out (with thee), say: "Never shall ye come out with me, nor fight an enemy with me: for ye preferred to sit inactive on the first occasion: Then sit ye (now) with those who lag behind."
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اگر خدا تم کو ان میں سے کسی گروہ کی طرف لے جائے اور وہ تم سے نکلنے کی اجازت طلب کریں تو کہہ دینا کہ تم میرے ساتھ ہرگز نہیں نکلو گے اور نہ میرے ساتھ (مددگار ہوکر) دشمن سے لڑائی کرو گے۔ تم پہلی دفعہ بیٹھ رہنے سے خوش ہوئے تو اب بھی پیچھے رہنے والوں کے ساتھ بیٹھے رہو
 
 [Open on Quran.com](https://quran.com/9/83)
 
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When a Sura comes down, enjoining them to believe in Allah and to strive and fight along with His Messenger, those with wealth and influence among them ask thee for exemption, and say: "Leave us (behind): we would be with those who sit (at home)."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب کوئی سورت نازل ہوتی ہے کہ خدا پر ایمان لاؤ اور اس کے رسول کے ساتھ ہو کر لڑائی کرو تو جو ان میں دولت مند ہیں وہ تم سے اجازت طلب کرتے ہیں اور کہتے ہیں کہ ہمیں تو رہنے ہی دیجیئے کہ جو لوگ گھروں میں رہیں گے ہم بھی ان کے ساتھ رہیں
+
 [Open on Quran.com](https://quran.com/9/86)
 
 #### 9:93 · [[009 At-Tawbah]]
@@ -105,6 +113,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The cause [for blame] is only upon those who ask permission of you while they are rich. They are satisfied to be with those who stay behind, and Allāh has sealed over their hearts, so they do not know.
 
 **English (Yusuf Ali):** The ground (of complaint) is against such as claim exemption while they are rich. They prefer to stay with the (women) who remain behind: Allah hath sealed their hearts; so they know not (What they miss).
+
+**Urdu (Fatah Muhammad Jalandhari):** الزام تو ان لوگوں پر ہے۔ جو دولت مند ہیں اور (پھر) تم سے اجازت طلب کرتے ہیں (یعنی) اس بات سے خوش ہیں کہ عورتوں کے ساتھ جو پیچھے رہ جاتی ہیں (گھروں میں بیٹھ) رہیں۔ خدا نے ان کے دلوں پر مہر کردی ہے پس وہ سمجھتے ہی نہیں
 
 [Open on Quran.com](https://quran.com/9/93)
 
@@ -122,6 +132,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! let those whom your right hands possess, and the (children) among you who have not come of age ask your permission (before they come to your presence), on three occasions: before morning prayer; the while ye doff your clothes for the noonday heat; and after the late-night prayer: these are your three times of undress: outside those times it is not wrong for you or for them to move about attending to each other: Thus does Allah make clear the Signs to you: for Allah is full of knowledge and wisdom.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تمہارے غلام لونڈیاں اور جو بچّے تم میں سے بلوغ کو نہیں پہنچے تین دفعہ یعنی (تین اوقات میں) تم سے اجازت لیا کریں۔ (ایک تو) نماز صبح سے پہلے اور (دوسرے گرمی کی دوپہر کو) جب تم کپڑے اتار دیتے ہو۔ اور تیسرے عشاء کی نماز کے بعد۔ (یہ) تین (وقت) تمہارے پردے (کے) ہیں ان کے (آگے) پیچھے (یعنی دوسرے وقتوں میں) نہ تم پر کچھ گناہ ہے اور نہ ان پر۔ کہ کام کاج کے لئے ایک دوسرے کے پاس آتے رہتے ہو۔ اس طرح خدا اپنی آیتیں تم سے کھول کھول کر بیان فرماتا ہے اور خدا بڑا علم والا اور بڑا حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/24/58)
 
 #### 24:59 · [[024 An-Nur]]
@@ -137,6 +149,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when the children among you reach puberty, let them ask permission [at all times] as those before them have done. Thus does Allāh make clear to you His verses; and Allāh is Knowing and Wise.
 
 **English (Yusuf Ali):** But when the children among you come of age, let them (also) ask for permission, as do those senior to them (in age): Thus does Allah make clear His Signs to you: for Allah is full of knowledge and wisdom.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تمہارے لڑکے بالغ ہوجائیں تو ان کو بھی اسی طرح اجازت لینی چاہیئے جس طرح ان سے اگلے (یعنی بڑے آدمی) اجازت حاصل کرتے رہے ہیں۔ اس طرح خدا تم سے اپنی آیتیں کھول کھول کر سناتا ہے۔ اور خدا جاننے والا اور حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/24/59)
 
@@ -154,6 +168,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Only those are believers, who believe in Allah and His Messenger: when they are with him on a matter requiring collective action, they do not depart until they have asked for his leave; those who ask for thy leave are those who believe in Allah and His Messenger; so when they ask for thy leave, for some business of theirs, give leave to those of them whom thou wilt, and ask Allah for their forgiveness: for Allah is Oft-Forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومن تو وہ ہیں جو خدا پر اور اس کے رسول پر ایمان لائے اور جب کبھی ایسے کام کے لئے جو جمع ہو کر کرنے کا ہو پیغمبر خدا کے پاس جمع ہوں تو ان سے اجازت لئے بغیر چلے نہیں جاتے۔ اے پیغمبر جو لوگ تم سے اجازت حاصل کرتے ہیں وہی خدا پر اور اس کے رسول پر ایمان رکھتے ہیں۔ سو جب یہ لوگ تم سے کسی کام کے لئے اجازت مانگا کریں تو ان میں سے جسے چاہا کرو اجازت دے دیا کرو اور ان کے لئے خدا سے بخششیں مانگا کرو۔ کچھ شک نہیں کہ خدا بخشنے والا مہربان ہے
+
 [Open on Quran.com](https://quran.com/24/62)
 
 #### 33:13 · [[033 Al-Ahzab]]
@@ -169,6 +185,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when a faction of them said, "O people of Yathrib, there is no stability for you [here], so return [home]." And a party of them asked permission of the Prophet, saying, "Indeed, our houses are exposed [i.e., unprotected]," while they were not exposed. They did not intend except to flee.
 
 **English (Yusuf Ali):** Behold! A party among them said: "Ye men of Yathrib! ye cannot stand (the attack)! therefore go back!" And a band of them ask for leave of the Prophet, saying, "Truly our houses are bare and exposed," though they were not exposed they intended nothing but to run away.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب اُن میں سے ایک جماعت کہتی تھی کہ اے اہل مدینہ (یہاں) تمہارے ٹھہرنے کا مقام نہیں تو لوٹ چلو۔ اور ایک گروہ ان میں سے پیغمبر سے اجازت مانگنے اور کہنے لگا کہ ہمارے گھر کھلے پڑے ہیں حالانکہ وہ کھلے نہیں تھے۔ وہ تو صرف بھاگنا چاہتے تھے
 
 [Open on Quran.com](https://quran.com/33/13)
 

@@ -15,76 +15,76 @@ The Spider · 69 ayahs
 ## Words in this surah (graph)
 
 - [[jwAb - answer]] — `جَواب` · answer
-- [[gAbr - remain behind]] — `غابِر` · remain behind
 - [[jHd - they reject]] — `جَحَدُ` · they reject
-- [[Hsn - good]] — `حُسْن` · good
+- [[gAbr - remain behind]] — `غابِر` · remain behind
+- [[>Elm - knowing]] — `أَعْلَم` · knowing
+- [[HyAp - life]] — `حَياة` · life
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[dAbp - moving creature]] — `دابَّة` · moving creature
-- [[fH$A' - immorality]] — `فَحْشاء` · immorality
-- [[n*yr - warner]] — `نَذِير` · warner
-- [[gny - free need]] — `غَنِيّ` · free need
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[Zlm - wronged]] — `ظَلَمَ` · wronged
-- [[Hrq - burn him]] — `حَرِّقُ` · burn him
-- [[jAdl - dispute]] — `جادَلُ` · dispute
-- [[sAr - travel]] — `سارَ` · travel
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[SyHp - shout]] — `صَيْحَة` · shout
-- [[fsq - defiantly disobeying]] — `فَسَقَ` · defiantly disobeying
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[lys - not]] — `لَيْسَ` · not
+- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[EAd - aad]] — `عادَ` · aad
+- [[>rD - earth]] — `أَرْض` · earth
+- [[>grq - we drowned]] — `أُغْرِقُ` · we drowned
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[dnyA - world]] — `دُنْيا` · world
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[nAs - people]] — `ناس` · people
+- [[qmr - moon]] — `قَمَر` · moon
+- [[lqA' - meeting]] — `لِقاء` · meeting
+- [[ysyr - easy]] — `يَسِير` · easy
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Tn - shtn]]
-- [[$hd - shhd]]
-- [[$kr - shkr]]
+- [[$Tn - anything excessively proud]]
+- [[$hd - witnessing]]
+- [[$kr - gratitude]]
 - [[$ms - horse refusing ridden]]
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[*nb - tail]]
 - [[*rE - forearm]]
 - [[*rr - scattering dispersing small]]
-- [[*wq - dhwq]]
+- [[*wq - taste]]
 - [[>*y - hurt]]
 - [[>Hd - anyone]]
-- [[>fk - afk]]
+- [[>fk - turn something away]]
 - [[>hl - people house]]
 - [[>jl - term]]
-- [[>jr - ajr]]
-- [[>lf - alifa]]
+- [[>jr - recompensing rewarding someone]]
+- [[>lf - become familiar]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>mn - believe]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
 - [[>wy - betake oneself place]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
-- [[Drb - tent]]
-- [[Dyq - dyq]]
-- [[E*b - edhb]]
+- [[Drb - strike beat]]
+- [[Dyq - become narrow strait]]
+- [[E*b - motes particles floating]]
 - [[Ebd - worship]]
-- [[Ejl - ejl]]
+- [[Ejl - incite cause someone]]
 - [[Ejz - old age weakness]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
-- [[Eql - eql]]
+- [[Eql - withhold restrain]]
 - [[Evw - act corruptly make]]
-- [[Ewd - ewd]]
+- [[Ewd - aad]]
 - [[Ewm - years]]
 - [[Ezz - all-mighty]]
 - [[HSb - pelt pebbles spread]]

@@ -38,7 +38,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:80 · [[007 Al-Araf]]
 
@@ -53,6 +53,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [We had sent] Lot when he said to his people, "Do you commit such immorality as no one has preceded you with from among the worlds [i.e., peoples]?
 
 **English (Yusuf Ali):** We also (sent) Lut: He said to his people: "Do ye commit lewdness such as no people in creation (ever) committed before you?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح جب ہم نے لوط کو (پیغمبر بنا کر بھیجا تو) اس وقت انہوں نے اپنی قوم سے کہا کہ تم ایسی بےحیائی کا کام کیوں کرتے ہو کہ تم سے اہل عالم میں سے کسی نے اس طرح کا کام نہیں کیا
 
 [Open on Quran.com](https://quran.com/7/80)
 
@@ -70,6 +72,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Let not the unbelievers think that they can get the better (of the godly): they will never frustrate (them).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر یہ نہ خیال کریں کہ وہ بھاگ نکلے ہیں۔ وہ (اپنی چالوں سے ہم کو) ہرگز عاجز نہیں کرسکتے
+
 [Open on Quran.com](https://quran.com/8/59)
 
 #### 8:68 · [[008 Al-Anfal]]
@@ -85,6 +89,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If not for a decree from Allāh that preceded, you would have been touched for what you took by a great punishment.
 
 **English (Yusuf Ali):** Had it not been for a previous ordainment from Allah, a severe penalty would have reached you for the (ransom) that ye took.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر خدا کا حکم پہلے نہ ہوچکا ہوتا تو جو (فدیہ) تم نے لیا ہے اس کے بدلے تم پر بڑا عذاب نازل ہوتا
 
 [Open on Quran.com](https://quran.com/8/68)
 
@@ -102,6 +108,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Mankind was but one nation, but differed (later). Had it not been for a word that went forth before from thy Lord, their differences would have been settled between them.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (سب) لوگ (پہلے) ایک ہی اُمت (یعنی ایک ہی ملت پر) تھے۔ پھر جدا جدا ہوگئے۔ اور اگر ایک بات جو تمہارے پروردگار کی طرف سے پہلے ہوچکی ہے نہ ہوتی تو جن باتوں میں وہ اختلاف کرتے ہیں ان میں فیصلہ کر دیا جاتا
+
 [Open on Quran.com](https://quran.com/10/19)
 
 #### 11:40 · [[011 Hud]]
@@ -117,6 +125,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [So it was], until when Our command came and the oven overflowed, We said, "Load upon it [i.e., the ship] of each [creature] two mates and your family, except those about whom the word [i.e., decree] has preceded, and [include] whoever has believed." But none had believed with him, except a few.
 
 **English (Yusuf Ali):** At length, behold! there came Our command, and the fountains of the earth gushed forth! We said: "Embark therein, of each kind two, male and female, and your family - except those against whom the word has already gone forth,- and the Believers." but only a few believed with him.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ جب ہمارا حکم آپہنچا اور تنور جوش مارنے لگا تو ہم نے نوح کو حکم دیا کہ ہر قسم (کے جانداروں) میں سے جوڑا جوڑا (یعنی) دو (دو جانور۔ ایک ایک نر اور ایک ایک مادہ) لے لو اور جس شخص کی نسبت حکم ہوچکا ہے (کہ ہلاک ہوجائے گا) اس کو چھوڑ کر اپنے گھر والوں کو جو ایمان لایا ہو اس کو کشتی میں سوار کر لو اور ان کے ساتھ ایمان بہت ہی کم لوگ لائے تھے
 
 [Open on Quran.com](https://quran.com/11/40)
 
@@ -134,6 +144,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We certainly gave the Book to Moses, but differences arose therein: had it not been that a word had gone forth before from thy Lord, the matter would have been decided between them, but they are in suspicious doubt concerning it.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو کتاب دی تو اس میں اختلاف کیا گیا اور اگر تمہارے پروردگار کی طرف سے ایک بات پہلے نہ ہوچکی ہوتی تو ان میں فیصلہ کردیا جاتا۔ اور وہ تو اس سے قوی شبہے میں (پڑے ہوئے) ہیں
+
 [Open on Quran.com](https://quran.com/11/110)
 
 #### 15:5 · [[015 Al-Hijr]]
@@ -149,6 +161,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** No nation will precede its term, nor will they remain thereafter.
 
 **English (Yusuf Ali):** Neither can a people anticipate its term, nor delay it.
+
+**Urdu (Fatah Muhammad Jalandhari):** کوئی جماعت اپنی مدت (وفات) سے نہ آگے نکل سکتی ہے نہ پیچھے رہ سکتی ہے
 
 [Open on Quran.com](https://quran.com/15/5)
 
@@ -166,6 +180,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thus do We relate to thee some stories of what happened before: for We have sent thee a Message from Our own Presence.
 
+**Urdu (Fatah Muhammad Jalandhari):** اس طرح پر ہم تم سے وہ حالات بیان کرتے ہیں جو گذر چکے ہیں۔ اور ہم نے تمہیں اپنے پاس سے نصیحت (کی کتاب) عطا فرمائی ہے
+
 [Open on Quran.com](https://quran.com/20/99)
 
 #### 20:129 · [[020 Taha]]
@@ -182,6 +198,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Had it not been for a Word that went forth before from thy Lord, (their punishment) must necessarily have come; but there is a Term appointed (for respite).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ایک بات تمہارے پروردگار کی طرف سے پہلے صادر اور (جزائے اعمال کے لئے) ایک میعاد مقرر نہ ہوچکی ہوتی تو (نزول) عذاب لازم ہوجاتا
+
 [Open on Quran.com](https://quran.com/20/129)
 
 #### 21:27 · [[021 Al-Anbya]]
@@ -197,6 +215,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They cannot precede Him in word, and they act by His command.
 
 **English (Yusuf Ali):** They speak not before He speaks, and they act (in all things) by His Command.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کے آگے بڑھ کر بول نہیں سکتے۔ اور اس کے حکم پر عمل کرتے ہیں
 
 [Open on Quran.com](https://quran.com/21/27)
 

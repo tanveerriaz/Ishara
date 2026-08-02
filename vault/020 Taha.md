@@ -14,82 +14,82 @@ Ta-Ha · 135 ayahs
 
 ## Words in this surah (graph)
 
-- [[TgY - has transgressed]] — `طَغَى` · has transgressed
 - [[>xlf - break]] — `أَخْلَفُ` · break
+- [[TgY - has transgressed]] — `طَغَى` · has transgressed
 - [[>bqY - more lasting]] — `أَبْقَى` · more lasting
 - [[mwEd - appointment]] — `مَوْعِد` · appointment
-- [[Hll - lawful]] — `حَلَلْ` · lawful
 - [[ym - sea]] — `يَمّ` · sea
 - [[sEY - strive]] — `سَعَى` · strive
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[zynp - adornment]] — `زِينَة` · adornment
-- [[Tryqp - way]] — `طَرِيقَة` · way
-- [[q*f - cast him]] — `قَذَفَ` · cast him
-- [[>bY - he refused]] — `أَبَى` · he refused
-- [[dl - direct you]] — `دَلَّ` · direct you
+- [[Hll - lawful]] — `حَلَلْ` · lawful
 - [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
-- [[Ewj - crookedness]] — `عِوَج` · crookedness
-- [[xAb - disappointed]] — `خابَ` · disappointed
-- [[wzr - burden]] — `وِزْر` · burden
 - [[>vr - footsteps]] — `أَثَر` · footsteps
-- [[sbq - preceded]] — `سَبَقَ` · preceded
-- [[EAkf - devoted]] — `عاكِف` · devoted
-- [[sAHr - magician]] — `ساحِر` · magician
+- [[>bY - he refused]] — `أَبَى` · he refused
+- [[xAb - disappointed]] — `خابَ` · disappointed
+- [[dl - direct you]] — `دَلَّ` · direct you
+- [[Ewj - crookedness]] — `عِوَج` · crookedness
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
 - [[m$ - walk]] — `مَشَ` · walk
-- [[Hsn - good]] — `حُسْن` · good
-- [[r>s - heads]] — `رَأْس` · heads
-- [[xTb - was affair]] — `خَطْب` · was affair
+- [[wzr - burden]] — `وِزْر` · burden
+- [[Tryqp - way]] — `طَرِيقَة` · way
+- [[EAkf - devoted]] — `عاكِف` · devoted
+- [[sbq - preceded]] — `سَبَقَ` · preceded
+- [[zynp - adornment]] — `زِينَة` · adornment
+- [[sAHr - magician]] — `ساحِر` · magician
+- [[q*f - cast him]] — `قَذَفَ` · cast him
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[SAlH - righteous]] — `صالِح` · righteous
 
 ## Roots
 
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
 - [[$fE - make something pair]]
-- [[$jr - shjr]]
+- [[$jr - trees]]
 - [[$ms - horse refusing ridden]]
-- [[$qw - shqw]]
+- [[$qw - unblessed]]
 - [[$rH - uncover]]
 - [[$rk - sharing partnership]]
 - [[$tt - scatter]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*ll - humiliation]]
-- [[>*n - adhn]]
-- [[>by - aby]]
-- [[>dm - adm]]
+- [[>*n - ear]]
+- [[>by - refuse]]
+- [[>dm - seasoned food]]
 - [[>hl - people house]]
 - [[>jl - term]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>ny - any]]
-- [[>rD - ard]]
-- [[>sf - grief]]
+- [[>ns - mankind]]
+- [[>ny - hours]]
+- [[>rD - earth]]
+- [[>sf - alas]]
 - [[>ty - give]]
-- [[>vr - athr]]
-- [[>wl - like milk oil]]
+- [[>vr - trace]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
-- [[DHw - dhw]]
+- [[DHw - actions performed during]]
 - [[Dll - astray]]
-- [[Drb - tent]]
+- [[Drb - strike beat]]
 - [[Drr - adversity]]
-- [[E$r - eshr]]
-- [[E*b - edhb]]
+- [[E$r - ten]]
+- [[E*b - motes particles floating]]
 - [[ESw - staff stick]]
 - [[ESy - disobey]]
 - [[ETw - take handle something]]
 - [[Ebd - worship]]
-- [[Edw - enemy]]
-- [[Ehd - ehd]]
-- [[Ejl - ejl]]
-- [[Ekf - ekf]]
+- [[Edw - turn]]
+- [[Ehd - protection safeguard]]
+- [[Ejl - incite cause someone]]
+- [[Ekf - cleave something constantly]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
 

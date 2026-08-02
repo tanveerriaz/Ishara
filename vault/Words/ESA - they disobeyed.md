@@ -43,7 +43,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:61 · [[002 Al-Baqarah]]
 
@@ -58,6 +58,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when you said, "O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions." [Moses] said, "Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked." And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing.
 
 **English (Yusuf Ali):** And remember ye said: "O Moses! we cannot endure one kind of food (always); so beseech thy Lord for us to produce for us of what the earth groweth, -its pot-herbs, and cucumbers, Its garlic, lentils, and onions." He said: "Will ye exchange the better for the worse? Go ye down to any town, and ye shall find what ye want!" They were covered with humiliation and misery; they drew on themselves the wrath of Allah. This because they went on rejecting the Signs of Allah and slaying His Messengers without just cause. This because they rebelled and went on transgressing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے کہا کہ موسیٰ! ہم سے ایک (ہی) کھانے پر صبر نہیں ہو سکتا تو اپنے پروردگار سے دعا کیجئے کہ ترکاری اور ککڑی اور گیہوں اور مسور اور پیاز (وغیرہ) جو نباتات زمین سے اُگتی ہیں، ہمارے لیے پیدا کر دے۔ انہوں نے کہا کہ بھلا عمدہ چیزیں چھوڑ کر ان کے عوض ناقص چیزیں کیوں چاہتے ہوں۔ (اگر یہی چیزیں مطلوب ہیں) تو کسی شہر میں جا اترو، وہاں جو مانگتے ہو، مل جائے گا۔ اور (آخرکار) ذلت (ورسوائی) اور محتاجی (وبے نوائی) ان سے چمٹا دی گئی اور وہ الله کے غضب میں گرفتار ہو گئے۔ یہ اس لیے کہ وہ الله کی آیتوں سے انکار کرتے تھے اور (اس کے) نبیوں کو ناحق قتل کر دیتے تھے۔ (یعنی) یہ اس لیے کہ نافرمانی کئے جاتے اور حد سے بڑھے جاتے تھے
 
 [Open on Quran.com](https://quran.com/2/61)
 
@@ -75,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember We took your covenant and We raised above you (the towering height) of Mount (Sinai): (Saying): "Hold firmly to what We have given you, and hearken (to the Law)": They said:" We hear, and we disobey:" And they had to drink into their hearts (of the taint) of the calf because of their Faithlessness. Say: "Vile indeed are the behests of your Faith if ye have any faith!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے تم (لوگوں) سے عہد واثق لیا اور کوہ طور کو تم پر اٹھا کھڑا کیا (اور حکم دیا کہ) جو (کتاب) ہم نے تم کو دی ہے، اس کو زور سے پکڑو اور جو تمہیں حکم ہوتا ہے (اس کو) سنو تو وہ (جو تمہارے بڑے تھے) کہنے لگے کہ ہم نے سن تو لیا لیکن مانتے نہیں۔ اور ان کے کفر کے سبب بچھڑا (گویا) ان کے دلوں میں رچ گیا تھا۔ (اے پیغمبر ان سے) کہہ دو کہ اگر تم مومن ہو تو تمہارا ایمان تم کو بری بات بتاتا ہے
+
 [Open on Quran.com](https://quran.com/2/93)
 
 #### 3:112 · [[003 Ali Imran]]
@@ -90,6 +94,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They have been put under humiliation [by Allāh] wherever they are overtaken, except for a rope [i.e., covenant] from Allāh and a rope [i.e., treaty] from the people [i.e., the Muslims]. And they have drawn upon themselves anger from Allāh and have been put under destitution. That is because they disbelieved in [i.e., rejected] the verses of Allāh and killed the prophets without right. That is because they disobeyed and [habitually] transgressed.
 
 **English (Yusuf Ali):** Shame is pitched over them (Like a tent) wherever they are found, except when under a covenant (of protection) from Allah and from men; they draw on themselves wrath from Allah, and pitched over them is (the tent of) destitution. This because they rejected the Signs of Allah, and slew the prophets in defiance of right; this because they rebelled and transgressed beyond bounds.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ جہاں نظر آئیں گے ذلت (کو دیکھو گے کہ) ان سے چمٹ رہی ہے بجز اس کے کہ یہ خدا اور (مسلمان) لوگوں کی پناہ میں آ جائیں اور یہ لوگ خدا کے غضب میں گرفتار ہیں اور ناداری ان سے لپٹ رہی ہے یہ اس لیے کہ خدا کی آیتوں سے انکار کرتےتھے اور (اس کے) پیغمبروں کو ناحق قتل کر دیتے تھے یہ اس لیے کہ یہ نافرمانی کیے جاتے اور حد سے بڑھے جاتے تھے
 
 [Open on Quran.com](https://quran.com/3/112)
 
@@ -107,6 +113,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah did indeed fulfil His promise to you when ye with His permission Were about to annihilate your enemy,-until ye flinched and fell to disputing about the order, and disobeyed it after He brought you in sight (of the booty) which ye covet. Among you are some that hanker after this world and some that desire the Hereafter. Then did He divert you from your foes in order to test you but He forgave you: For Allah is full of grace to those who believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے اپنا وعدہ سچا کر دیا (یعنی) اس وقت جبکہ تم کافروں کو اس کے حکم سے قتل کر رہے تھے یہاں تک کہ جو تم چاہتے تھے خدا نے تم کو دکھا دیا اس کے بعد تم نے ہمت ہار دی اور حکم (پیغمبر) میں جھگڑا کرنے لگے اور اس کی نافرمانی کی بعض تو تم میں سے دنیا کے خواستگار تھے اور بعض آخرت کے طالب اس وقت خدا نے تم کو ان (کے مقابلے) سے پھیر (کر بھگا) دیا تاکہ تمہاری آزمائش کرے اور اس نے تمہارا قصور معاف کر دیا اور خدا مومنو پر بڑا فضل کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/3/152)
 
 #### 4:14 · [[004 An-Nisa]]
@@ -122,6 +130,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whoever disobeys Allāh and His Messenger and transgresses His limits - He will put him into the Fire to abide eternally therein, and he will have a humiliating punishment.
 
 **English (Yusuf Ali):** But those who disobey Allah and His Messenger and transgress His limits will be admitted to a Fire, to abide therein: And they shall have a humiliating punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو خدا اور اس کے رسول کی نافرمانی کرے گا اور اس کی حدوں سے نکل جائے گا اس کو خدا دوزخ میں ڈالے گا جہاں وہ ہمیشہ رہے گا۔ اور اس کو ذلت کا عذاب ہوگا
 
 [Open on Quran.com](https://quran.com/4/14)
 
@@ -139,6 +149,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** On that day those who reject Faith and disobey the messenger will wish that the earth Were made one with them: But never will they hide a single fact from Allah!
 
+**Urdu (Fatah Muhammad Jalandhari):** اس روز کافر اور پیغمبر کے نافرمان آرزو کریں گے کہ کاش ان کو زمین میں مدفون کرکے مٹی برابر کردی جاتی اور خدا سے کوئی بات چھپا نہیں سکیں گے
+
 [Open on Quran.com](https://quran.com/4/42)
 
 #### 4:46 · [[004 An-Nisa]]
@@ -154,6 +166,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Among the Jews are those who distort words from their [proper] places [i.e., usages] and say, "We hear and disobey" and "Hear but be not heard" and "Rāʿinā," twisting their tongues and defaming the religion. And if they had said [instead], "We hear and obey" and "Wait for us [to understand]," it would have been better for them and more suitable. But Allāh has cursed them for their disbelief, so they believe not, except for a few.
 
 **English (Yusuf Ali):** Of the Jews there are those who displace words from their (right) places, and say: "We hear and we disobey"; and "Hear what is not Heard"; and "Ra'ina"; with a twist of their tongues and a slander to Faith. If only they had said: "What hear and we obey"; and "Do hear"; and "Do look at us"; it would have been better for them, and more proper; but Allah hath cursed them for their Unbelief; and but few of them will believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ جو یہودی ہیں ان میں سے کچھ لوگ ایسے بھی ہیں کہ کلمات کو ان کے مقامات سے بدل دیتے ہیں اور کہتے ہیں کہ ہم نے سن لیا اور نہیں مانا اور سنیئے نہ سنوائے جاؤ اور زبان کو مروڑ کر اور دین میں طعن کی راہ سے (تم سے گفتگو) کے وقت راعنا کہتے ہیں اور اگر (یوں) کہتے ہیں کہ ہم نے سن لیا اور مان لیا اور (صرف) اسمع اور (راعنا کی جگہ) انظرنا (کہتے) تو ان کے حق میں بہتر ہوتا اور بات بھی بہت درست ہوتی لیکن خدان نے ان کے کفر کے سبب ان پر لعنت کر رکھی ہے تو یہ کچھ تھوڑے ہی ایمان لاتے ہیں
 
 [Open on Quran.com](https://quran.com/4/46)
 
@@ -171,6 +185,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Curses were pronounced on those among the Children of Israel who rejected Faith, by the tongue of David and of Jesus the son of Mary: because they disobeyed and persisted in excesses.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ بنی اسرائیل میں کافر ہوئے ان پر داؤد اور عیسیٰ بن مریم کی زبان سے لعنت کی گئی یہ اس لیے کہ نافرمانی کرتے تھے اور حد سے تجاوز کرتے تھے
+
 [Open on Quran.com](https://quran.com/5/78)
 
 #### 6:15 · [[006 Al-Anam]]
@@ -187,6 +203,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "I would, if I disobeyed my Lord, indeed have fear of the penalty of a Mighty Day.
 
+**Urdu (Fatah Muhammad Jalandhari):** (یہ بھی) کہہ دو کہ اگر میں اپنے پروردگار کی نافرمانی کروں تو مجھے بڑے دن کے عذاب کا خوف ہے
+
 [Open on Quran.com](https://quran.com/6/15)
 
 #### 10:15 · [[010 Yunus]]
@@ -202,6 +220,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when Our verses are recited to them as clear evidences, those who do not expect the meeting with Us say, "Bring us a Qur’ān other than this or change it." Say, [O Muḥammad], "It is not for me to change it on my own accord. I only follow what is revealed to me. Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day."
 
 **English (Yusuf Ali):** But when Our Clear Signs are rehearsed unto them, those who rest not their hope on their meeting with Us, Say: "Bring us a reading other than this, or change this," Say: "It is not for me, of my own accord, to change it: I follow naught but what is revealed unto me: if I were to disobey my Lord, I should myself fear the penalty of a Great Day (to come)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کو ہماری آیتیں پڑھ کر سنائی جاتی ہیں تو جن لوگوں کو ہم سے ملنے کی امید نہیں وہ کہتے ہیں کہ (یا تو) اس کے سوا کوئی اور قرآن (بنا) لاؤ یا اس کو بدل دو۔ کہہ دو کہ مجھ کو اختیار نہیں ہے کہ اسے اپنی طرف سے بدل دو۔ میں تو اسی حکم کا تابع ہوں جو میری طرف آتا ہے۔ اگر میں اپنے پروردگار کی نافرمانی کروں تو مجھے بڑے (سخت) دن کے عذاب سے خوف آتا ہے
 
 [Open on Quran.com](https://quran.com/10/15)
 

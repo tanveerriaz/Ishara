@@ -15,56 +15,56 @@ She that is to be examined · 13 ayahs
 ## Words in this surah (graph)
 
 - [[mwdp - love]] — `مَوَدَّة` · love
-- [[qAtl - fight]] — `قاتَلَ` · fight
-- [[Dl - lost]] — `ضَلَّ` · lost
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[yd - hands]] — `يَد` · hands
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[>nfq - spend]] — `أَنفَقَ` · spend
-- [[Eml - do]] — `عَمِلَ` · do
-- [[wly - protector]] — `وَلِيّ` · protector
-- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
-- [[Hll - lawful]] — `حَلَلْ` · lawful
-- [[bry' - innocent]] — `بَرِيء` · innocent
-- [[ftnp - trial]] — `فِتْنَة` · trial
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[bgDA' - hatred]] — `بَغْضاء` · hatred
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[>Elm - knowing]] — `أَعْلَم` · knowing
 - [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[jA' - came them]] — `جاءَ` · came them
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[<xrAj - eviction]] — `إِخْراج` · eviction
-- [[>y - o you]] — `أَيّ` · o you
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[Hq - truth]] — `حَقّ` · truth
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[dAr - home]] — `دار` · home
 - [[mqsT - act justly]] — `مُقْسِط` · act justly
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>rHAm - wombs]] — `أَرْحام` · wombs
+- [[jnAH - blame]] — `جُناح` · blame
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[mrDAt - pleasure]] — `مَرْضات` · pleasure
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[gDb - wrath]] — `غَضَب` · wrath
+- [[byn - between them]] — `بَيْن` · between them
+- [[>nAb - turns]] — `أَنابَ` · turns
+- [[tqsT - act justly]] — `تُقْسِطُ` · act justly
+- [[Elm - know]] — `عَلِمَ` · know
+- [[dyn - religion]] — `دِين` · religion
+- [[>b - father]] — `أَب` · father
+- [[<ymAn - faith]] — `إِيمان` · faith
+- [[mvl - example]] — `مَثَل` · example
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[vqf - they found]] — `ثُقِفُ` · they found
+- [[yrjwA - expect]] — `يَرْجُوا۟` · expect
+- [[rjE - return]] — `رَجَعَ` · return
 
 ## Roots
 
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[>bd - abad]]
-- [[>bw - abw]]
-- [[>jr - ajr]]
-- [[>mn - amn]]
-- [[>sw - asw]]
+- [[*hb - go]]
+- [[>bd - absolute long]]
+- [[>bw - forefathers]]
+- [[>jr - recompensing rewarding someone]]
+- [[>mn - believe]]
+- [[>sw - grieve]]
 - [[>ty - give]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[Dll - astray]]
 - [[ESm - tie cord]]
 - [[ESy - disobey]]
 - [[Ebd - worship]]
-- [[Edw - enemy]]
+- [[Edw - turn]]
 - [[Elm - knowledge]]
 - [[Eln - make something open]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Eqb - heel human foot]]
-- [[Erf - erf]]
-- [[Esy - esy]]
+- [[Erf - right]]
+- [[Esy - hope expectation]]
 - [[Ezz - all-mighty]]
 - [[Hbb - love]]
 - [[Hkm - prevent restrain someone]]
@@ -73,18 +73,18 @@ She that is to be examined · 13 ayahs
 - [[Hqq - established as true]]
 - [[Hsn - good]]
 - [[SHb - lord]]
-- [[Syr - syr]]
+- [[Syr - destination]]
 - [[Zhr - back]]
 - [[Zlm - put something wrong]]
 - [[allah - God]]
-- [[bSr - bsr]]
+- [[bSr - mental perception]]
 - [[bdw - you reveal]]
-- [[bgD - bgd]]
+- [[bgD - hate]]
 - [[bgy - seek desire something]]
-- [[bht - bht]]
-- [[br> - bra]]
-- [[brr - brr]]
-- [[bsT - bst]]
+- [[bht - confounded]]
+- [[br> - clear free something]]
+- [[brr - land]]
+- [[bsT - spread]]
 - [[byE - exchange property]]
 - [[byn - clear]]
 - [[dwn - besides]]

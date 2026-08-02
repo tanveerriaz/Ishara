@@ -15,23 +15,23 @@ The Opener · 7 ayahs
 ## Words in this surah (graph)
 
 - [[allah - God]] — `الله` · God
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
 - [[SrAT - path]] — `صِراط` · path
+- [[rHmn - gracious]] — `رَحْمٰن` · gracious
 - [[rHym - merciful]] — `رَحِيم` · merciful
-- [[Hmd - all praise]] — `حَمْد` · all praise
 - [[hdY - guidance]] — `هَدَى` · guidance
 - [[EAlm - worlds]] — `عالَم` · worlds
-- [[AstEyn - seek help]] — `اسْتَعِينُ` · seek help
-- [[mstqym - straight]] — `مُسْتَقِيم` · straight
-- [[gyr - without]] — `غَيْر` · without
-- [[Asm - name]] — `اسْم` · name
-- [[mAlk - master]] — `مالِك` · master
-- [[dyn - religion]] — `دِين` · religion
-- [[ywm - day]] — `يَوْم` · day
-- [[DAl - astray]] — `ضالّ` · astray
-- [[>nEm - i bestowed]] — `أَنْعَمَ` · i bestowed
+- [[Hmd - all praise]] — `حَمْد` · all praise
 - [[Ebd - slaves]] — `عَبَدَ` · slaves
 - [[rb - lord]] — `رَبّ` · lord
+- [[DAl - astray]] — `ضالّ` · astray
+- [[Asm - name]] — `اسْم` · name
+- [[dyn - religion]] — `دِين` · religion
+- [[AstEyn - seek help]] — `اسْتَعِينُ` · seek help
+- [[mAlk - master]] — `مالِك` · master
+- [[ywm - day]] — `يَوْم` · day
+- [[mstqym - straight]] — `مُسْتَقِيم` · straight
+- [[gyr - without]] — `غَيْر` · without
+- [[>nEm - i bestowed]] — `أَنْعَمَ` · i bestowed
 
 ## Roots
 

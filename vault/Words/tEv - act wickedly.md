@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:60 · [[002 Al-Baqarah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when Moses prayed for water for his people, so We said, "Strike with your staff the stone." And there gushed forth from it twelve springs, and every people [i.e., tribe] knew its watering place. "Eat and drink from the provision of Allāh, and do not commit abuse on the earth, spreading corruption."
 
 **English (Yusuf Ali):** And remember Moses prayed for water for his people; We said: "Strike the rock with thy staff." Then gushed forth therefrom twelve springs. Each group knew its own place for water. So eat and drink of the sustenance provided by Allah, and do no evil nor mischief on the (face of the) earth.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لیے (خدا سے) پانی مانگا تو ہم نے کہا کہ اپنی لاٹھی پتھر پر مارو۔ (انہوں نے لاٹھی ماری) تو پھر اس میں سے بارہ چشمے پھوٹ نکلے، اور تمام لوگوں نے اپنا اپنا گھاٹ معلوم کر (کے پانی پی) لیا۔ (ہم نے حکم دیا کہ) خدا کی (عطا فرمائی ہوئی) روزی کھاؤ اور پیو، مگر زمین میں فساد نہ کرتے پھرنا
 
 [Open on Quran.com](https://quran.com/2/60)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And remember how He made you inheritors after the 'Ad people and gave you habitations in the land: ye build for yourselves palaces and castles in (open) plains, and carve out homes in the mountains; so bring to remembrance the benefits (ye have received) from Allah, and refrain from evil and mischief on the earth."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یاد تو کرو جب اس نے تم کو قوم عاد کے بعد سردار بنایا اور زمین پر آباد کیا کہ نرم زمین سے (مٹی لے لے کر) محل تعمیر کرتے ہو اور پہاڑوں کو تراش تراش کر گھر بناتے ہو۔ پس خدا کی نعمتوں کو یاد کرو اور زمین میں فساد نہ کرتے پھرو
+
 [Open on Quran.com](https://quran.com/7/74)
 
 #### 11:85 · [[011 Hud]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And O my people, give full measure and weight in justice and do not deprive the people of their due and do not commit abuse on the earth, spreading corruption.
 
 **English (Yusuf Ali):** "And O my people! give just measure and weight, nor withhold from the people the things that are their due: commit not evil in the land with intent to do mischief.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور قوم! ماپ اور تول انصاف کے ساتھ پوری پوری کیا کرو اور لوگوں کو ان کی چیزیں کم نہ دیا کرو اور زمین میں خرابی کرتے نہ پھرو
 
 [Open on Quran.com](https://quran.com/11/85)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And withhold not things justly due to men, nor do evil in the land, working mischief.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور لوگوں کو ان کی چیزیں کم نہ دیا کرو اور ملک میں فساد نہ کرتے پھرو
+
 [Open on Quran.com](https://quran.com/26/183)
 
 #### 29:36 · [[029 Al-Ankabut]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And to Madyan [We sent] their brother Shuʿayb, and he said, "O my people, worship Allāh and expect the Last Day and do not commit abuse on the earth, spreading corruption."
 
 **English (Yusuf Ali):** To the Madyan (people) (We sent) their brother Shu'aib. Then he said: "O my people! serve Allah, and fear the Last Day: nor commit evil on the earth, with intent to do mischief."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مدین کی طرف اُن کے بھائی شعیب کو (بھیجا) تو اُنہوں نے کہا (اے قوم) خدا کی عبادت کرو اور پچھلے دن کے آنے کی اُمید رکھو اور ملک میں فساد نہ مچاؤ
 
 [Open on Quran.com](https://quran.com/29/36)
 

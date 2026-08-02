@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:17 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Their example is that of one who kindled a fire, but when it illuminated what was around him, Allāh took away their light and left them in darkness [so] they could not see.
 
 **English (Yusuf Ali):** Their similitude is that of a man who kindled a fire; when it lighted all around him, Allah took away their light and left them in utter darkness. So they could not see.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کی مثال اس شخص کی سی ہے کہ جس نے (شبِ تاریک میں) آگ جلائی۔ جب آگ نے اس کے اردگرد کی چیزیں روشن کیں تو خدا نے ان کی روشنی زائل کر دی اور ان کو اندھیروں میں چھوڑ دیا کہ کچھ نہیں دیکھتے
 
 [Open on Quran.com](https://quran.com/2/17)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But if ye cannot- and of a surety ye cannot- then fear the Fire whose fuel is men and stones,- which is prepared for those who reject Faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** لیکن اگر (ایسا) نہ کر سکو اور ہرگز نہیں کر سکو گے تو اس آگ سے ڈرو جس کا ایندھن آدمی اور پتھر ہوں گے (اور جو) کافروں کے لیے تیار کی گئی ہے
+
 [Open on Quran.com](https://quran.com/2/24)
 
 #### 2:39 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who disbelieve and deny Our signs - those will be companions of the Fire; they will abide therein eternally."
 
 **English (Yusuf Ali):** "But those who reject Faith and belie Our Signs, they shall be companions of the Fire; they shall abide therein."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے (اس کو) قبول نہ کیا اور ہماری آیتوں کو جھٹلایا، وہ دوزخ میں جانے والے ہیں (اور) وہ ہمیشہ اس میں رہیں گے
 
 [Open on Quran.com](https://quran.com/2/39)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And they say: "The Fire shall not touch us but for a few numbered days:" Say: "Have ye taken a promise from Allah, for He never breaks His promise? or is it that ye say of Allah what ye do not know?"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ (دوزخ کی) آگ ہمیں چند روز کے سوا چھو ہی نہیں سکے گی۔ ان سے پوچھو، کیا تم نے خدا سے اقرار لے رکھا ہے کہ خدا اپنے اقرار کے خلاف نہیں کرے گا۔ (نہیں)، بلکہ تم خدا کے بارے میں ایسی باتیں کہتے ہو جن کا تمہیں مطلق علم نہیں
+
 [Open on Quran.com](https://quran.com/2/80)
 
 #### 2:81 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Yes, [on the contrary], whoever earns evil and his sin has encompassed him - those are the companions of the Fire; they will abide therein eternally.
 
 **English (Yusuf Ali):** Nay, those who seek gain in evil, and are girt round by their sins,- they are companions of the Fire: Therein shall they abide (For ever).
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جو برے کام کرے، اور اس کے گناہ (ہر طرف سے) گھیر لیں تو ایسے لوگ دوزخ (میں جانے) والے ہیں (اور) وہ ہمیشہ اس میں (جلتے) رہیں گے
 
 [Open on Quran.com](https://quran.com/2/81)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember Abraham said: "My Lord, make this a City of Peace, and feed its people with fruits,-such of them as believe in Allah and the Last Day." He said: "(Yea), and such as reject Faith,-for a while will I grant them their pleasure, but will soon drive them to the torment of Fire,- an evil destination (indeed)!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے دعا کی کہ اے پروردگار، اس جگہ کو امن کا شہر بنا اور اس کے رہنے والوں میں سے جو خدا پر اور روزِ آخرت پر ایمان لائیں، ان کے کھانے کو میوے عطا کر، تو خدا نے فرمایا کہ جو کافر ہوگا، میں اس کو بھی کسی قدر متمتع کروں گا، (مگر) پھر اس کو (عذاب) دوزخ کے (بھگتنے کے) لیے ناچار کردوں گا، اور وہ بری جگہ ہے
+
 [Open on Quran.com](https://quran.com/2/126)
 
 #### 2:167 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who followed will say, "If only we had another turn [at worldly life] so we could disassociate ourselves from them as they have disassociated themselves from us." Thus will Allāh show them their deeds as regrets upon them. And they are never to emerge from the Fire.
 
 **English (Yusuf Ali):** And those who followed would say: "If only We had one more chance, We would clear ourselves of them, as they have cleared themselves of us." Thus will Allah show them (The fruits of) their deeds as (nothing but) regrets. Nor will there be a way for them out of the Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ حال دیکھ کر) پیروی کرنے والے (حسرت سے) کہیں گے کہ اے کاش ہمیں پھر دنیا میں جانا نصیب ہو تاکہ جس طرح یہ ہم سے بیزار ہو رہے ہیں اسی طرح ہم بھی ان سے بیزار ہوں۔ اسی طرح خدا ان کے اعمال انہیں حسرت بنا کر دکھائے گااور وہ دوزخ سے نکل نہیں سکیں گے
 
 [Open on Quran.com](https://quran.com/2/167)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who conceal Allah's revelations in the Book, and purchase for them a miserable profit,- they swallow into themselves naught but Fire; Allah will not address them on the Day of Resurrection. Nor purify them: Grievous will be their penalty.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (خدا) کی کتاب سے ان (آیتوں اور ہدایتوں) کو جو اس نے نازل فرمائی ہیں چھپاتے اور ان کے بدلے تھوڑی سی قیمت (یعنی دنیاوی منفعت)حاصل کرتے ہیں وہ اپنے پیٹوں میں محض آگ بھرتے ہیں۔ ایسے لوگوں سے خدا قیامت کے دن نہ کلام کرے گا اور نہ ان کو (گناہوں سے) پاک کرے گا۔اور ان کے لئے دکھ دینے والا عذاب ہے
+
 [Open on Quran.com](https://quran.com/2/174)
 
 #### 2:175 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They are the ones who buy Error in place of Guidance and Torment in place of Forgiveness. Ah! what boldness (They show) for the Fire!
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے ہدایت چھوڑ کر گمراہی اور بخشش چھوڑ کر عذاب خریدا۔ یہ (آتش) جہنم کی کیسی برداشت کرنے والے ہیں!
+
 [Open on Quran.com](https://quran.com/2/175)
 
 #### 2:201 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But among them is he who says, "Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire."
 
 **English (Yusuf Ali):** And there are men who say: "Our Lord! Give us good in this world and good in the Hereafter, and defend us from the torment of the Fire!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعضے ایسے ہیں کہ دعا کرتے ہیں کہ پروردگار ہم کو دنیا میں بھی نعمت عطا فرما اور آخرت میں بھی نعمت بخشیو اور دوزخ کے عذاب سے محفوظ رکھیو
 
 [Open on Quran.com](https://quran.com/2/201)
 

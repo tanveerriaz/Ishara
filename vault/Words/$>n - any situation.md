@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 10:61 · [[010 Yunus]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And, [O Muḥammad], you are not [engaged] in any matter and do not recite any of the Qur’ān and you [people] do not do any deed except that We are witness over you when you are involved in it. And not absent from your Lord is any [part] of an atom's weight within the earth or within the heaven or [anything] smaller than that or greater but that it is in a clear register.
 
 **English (Yusuf Ali):** In whatever business thou mayest be, and whatever portion thou mayest be reciting from the Qur'an,- and whatever deed ye (mankind) may be doing,- We are witnesses thereof when ye are deeply engrossed therein. Nor is hidden from thy Lord (so much as) the weight of an atom on the earth or in heaven. And not the least and not the greatest of these things but are recorded in a clear record.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم جس حال میں ہوتے ہو یا قرآن میں کچھ پڑھتے ہو یا تم لوگ کوئی (اور) کام کرتے ہو جب اس میں مصروف ہوتے ہو ہم تمہارے سامنے ہوتے ہیں اور تمہارے پروردگار سے ذرہ برابر بھی کوئی چیز پوشیدہ نہیں ہے نہ زمین میں نہ آسمان میں اور نہ کوئی چیز اس سے چھوٹی ہے یا بڑی مگر کتاب روشن میں (لکھی ہوئی) ہے
 
 [Open on Quran.com](https://quran.com/10/61)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Only those are believers, who believe in Allah and His Messenger: when they are with him on a matter requiring collective action, they do not depart until they have asked for his leave; those who ask for thy leave are those who believe in Allah and His Messenger; so when they ask for thy leave, for some business of theirs, give leave to those of them whom thou wilt, and ask Allah for their forgiveness: for Allah is Oft-Forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومن تو وہ ہیں جو خدا پر اور اس کے رسول پر ایمان لائے اور جب کبھی ایسے کام کے لئے جو جمع ہو کر کرنے کا ہو پیغمبر خدا کے پاس جمع ہوں تو ان سے اجازت لئے بغیر چلے نہیں جاتے۔ اے پیغمبر جو لوگ تم سے اجازت حاصل کرتے ہیں وہی خدا پر اور اس کے رسول پر ایمان رکھتے ہیں۔ سو جب یہ لوگ تم سے کسی کام کے لئے اجازت مانگا کریں تو ان میں سے جسے چاہا کرو اجازت دے دیا کرو اور ان کے لئے خدا سے بخششیں مانگا کرو۔ کچھ شک نہیں کہ خدا بخشنے والا مہربان ہے
+
 [Open on Quran.com](https://quran.com/24/62)
 
 #### 55:29 · [[055 Ar-Rahman]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Of Him seeks (its need) every creature in the heavens and on earth: every day in (new) Splendour doth He (shine)!
 
+**Urdu (Fatah Muhammad Jalandhari):** آسمان اور زمین میں جتنے لوگ ہیں سب اسی سے مانگتے ہیں۔ وہ ہر روز کام میں مصروف رہتا ہے
+
 [Open on Quran.com](https://quran.com/55/29)
 
 #### 80:37 · [[080 Abasa]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For every man, that Day, will be a matter adequate for him.
 
 **English (Yusuf Ali):** Each one of them, that Day, will have enough concern (of his own) to make him indifferent to the others.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہر شخص اس روز ایک فکر میں ہو گا جو اسے( مصروفیت کے لیے) بس کرے گا
 
 [Open on Quran.com](https://quran.com/80/37)
 

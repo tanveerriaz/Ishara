@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>mn - amn]]
+- [[>mn - believe]]
 
 ### Meaning
 **believe** · Lemma **آمَنَ**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:3 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who believe in the unseen, establish prayer, and spend out of what We have provided for them,
 
 **English (Yusuf Ali):** Who believe in the Unseen, are steadfast in prayer, and spend out of what We have provided for them;
+
+**Urdu (Fatah Muhammad Jalandhari):** جو غیب پر ایمان لاتے اور آداب کے ساتھ نماز پڑھتے اور جو کچھ ہم نے ان کو عطا فرمایا ہے اس میں سے خرچ کرتے ہیں
 
 [Open on Quran.com](https://quran.com/2/3)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And who believe in the Revelation sent to thee, and sent before thy time, and (in their hearts) have the assurance of the Hereafter.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کتاب (اے محمدﷺ) تم پر نازل ہوئی اور جو کتابیں تم سے پہلے (پیغمبروں پر) نازل ہوئیں سب پر ایمان لاتے اور آخرت کا یقین رکھتے ہیں
+
 [Open on Quran.com](https://quran.com/2/4)
 
 #### 2:6 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who disbelieve - it is all the same for them whether you warn them or do not warn them - they will not believe.
 
 **English (Yusuf Ali):** As to those who reject Faith, it is the same to them whether thou warn them or do not warn them; they will not believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں انہیں تم نصیحت کرو یا نہ کرو ان کے لیے برابر ہے۔ وہ ایمان نہیں لانے کے
 
 [Open on Quran.com](https://quran.com/2/6)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Of the people there are some who say: "We believe in Allah and the Last Day;" but they do not (really) believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض لوگ ایسے ہیں جو کہتے ہیں کہ ہم خدا پر اور روزِ آخرت پر ایمان رکھتے ہیں حالانکہ وہ ایمان نہیں رکھتے
+
 [Open on Quran.com](https://quran.com/2/8)
 
 #### 2:9 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They [think to] deceive Allāh and those who believe, but they deceive not except themselves and perceive [it] not.
 
 **English (Yusuf Ali):** Fain would they deceive Allah and those who believe, but they only deceive themselves, and realise (it) not!
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ (اپنے پندار میں) خدا کو اور مومنوں کو چکما دیتے ہیں مگر (حقیقت میں) اپنے سوا کسی کو چکما نہیں دیتے اور اس سے بے خبر ہیں
 
 [Open on Quran.com](https://quran.com/2/9)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When it is said to them: "Believe as the others believe:" They say: "Shall we believe as the fools believe?" Nay, of a surety they are the fools, but they do not know.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان سے کہا جاتا ہے کہ جس طرح اور لوگ ایمان لے آئے، تم بھی ایمان لے آؤ تو کہتے ہیں، بھلا جس طرح بےوقوف ایمان لے آئے ہیں اسی طرح ہم بھی ایمان لے آئیں؟ سن لو کہ یہی بےوقوف ہیں لیکن نہیں جانتے
+
 [Open on Quran.com](https://quran.com/2/13)
 
 #### 2:14 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they meet those who believe, they say, "We believe"; but when they are alone with their evil ones, they say, "Indeed, we are with you; we were only mockers."
 
 **English (Yusuf Ali):** When they meet those who believe, they say: "We believe;" but when they are alone with their evil ones, they say: "We are really with you: We (were) only jesting."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ جب مومنوں سے ملتے ہیں تو کہتے ہیں کہ ہم ایمان لے آئے ہیں، اور جب اپنے شیطانوں میں جاتے ہیں تو (ان سے) کہتے ہیں کہ ہم تمھارے ساتھ ہیں اور (پیروانِ محمدﷺ سے) تو ہم ہنسی کیا کرتے ہیں
 
 [Open on Quran.com](https://quran.com/2/14)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But give glad tidings to those who believe and work righteousness, that their portion is Gardens, beneath which rivers flow. Every time they are fed with fruits therefrom, they say: "Why, this is what we were fed with before," for they are given things in similitude; and they have therein companions pure (and holy); and they abide therein (for ever).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے، ان کو خوشخبری سنا دو کہ ان کے لیے (نعمت کے) باغ ہیں، جن کے نیچے نہریں بہہ رہی ہیں۔ جب انہیں ان میں سے کسی قسم کا میوہ کھانے کو دیا جائے گا تو کہیں گے، یہ تو وہی ہے جو ہم کو پہلے دیا گیا تھا۔ اور ان کو ایک دوسرے کے ہم شکل میوے دیئے جائیں گے اور وہاں ان کے لیے پاک بیویاں ہوں گی اور وہ بہشتوں میں ہمیشہ رہیں گے
+
 [Open on Quran.com](https://quran.com/2/25)
 
 #### 2:26 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah disdains not to use the similitude of things, lowest as well as highest. Those who believe know that it is truth from their Lord; but those who reject Faith say: "What means Allah by this similitude?" By it He causes many to stray, and many He leads into the right path; but He causes not to stray, except those who forsake (the path),-
 
+**Urdu (Fatah Muhammad Jalandhari):** الله اس بات سے عار نہیں کرتا کہ مچھر یا اس سے بڑھ کر کسی چیز (مثلاً مکھی مکڑی وغیرہ) کی مثال بیان فرمائے۔ جو مومن ہیں، وہ یقین کرتے ہیں وہ ان کے پروردگار کی طرف سے سچ ہے اور جو کافر ہیں وہ کہتے ہیں کہ اس مثال سے خدا کی مراد ہی کیا ہے۔ اس سے (خدا) بہتوں کو گمراہ کرتا ہے اور بہتوں کو ہدایت بخشتا ہے اور گمراہ بھی کرتا تو نافرمانوں ہی کو
+
 [Open on Quran.com](https://quran.com/2/26)
 
 #### 2:41 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And believe in what I have sent down confirming that which is [already] with you, and be not the first to disbelieve in it. And do not exchange My signs for a small price, and fear [only] Me.
 
 **English (Yusuf Ali):** And believe in what I reveal, confirming the revelation which is with you, and be not the first to reject Faith therein, nor sell My Signs for a small price; and fear Me, and Me alone.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کتاب میں نے (اپنے رسول محمدﷺ پر) نازل کی ہے جو تمہاری کتاب تورات کو سچا کہتی ہے، اس پر ایمان لاؤ اور اس سے منکرِ اول نہ بنو، اور میری آیتوں میں (تحریف کر کے) ان کے بدلے تھوڑی سی قیمت (یعنی دنیاوی منعفت) نہ حاصل کرو، اور مجھی سے خوف رکھو
 
 [Open on Quran.com](https://quran.com/2/41)
 

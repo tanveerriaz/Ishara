@@ -14,65 +14,65 @@ The Winnowing Winds · 60 ayahs
 
 ## Words in this surah (graph)
 
-- [[Eqym - barren]] — `عَقِيم` · barren
 - [[mjnwn - madman]] — `مَجْنُون` · madman
-- [[n*yr - warner]] — `نَذِير` · warner
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[xTb - was affair]] — `خَطْب` · was affair
-- [[Zlm - wronged]] — `ظَلَمَ` · wronged
-- [[lyl - night]] — `لَيْل` · night
+- [[Eqym - barren]] — `عَقِيم` · barren
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[Dyf - guests]] — `ضَيْف` · guests
+- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
+- [[mrsl - messengers]] — `مُرْسَل` · messengers
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[ryH - wind]] — `رِيح` · wind
+- [[EAd - aad]] — `عادَ` · aad
+- [[>rD - earth]] — `أَرْض` · earth
 - [[wjh - faces]] — `وَجْه` · faces
-- [[qwp - strength]] — `قُوَّة` · strength
-- [[Hyn - time]] — `حِين` · time
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[>wjs - felt apprehension]] — `أَوْجَسَ` · felt apprehension
-- [[jnd - hosts]] — `جُند` · hosts
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[>mr - command]] — `أَمَرَ` · command
-- [[mHrwm - deprived]] — `مَحْرُوم` · deprived
-- [[glAm - boy]] — `غُلام` · boy
-- [[HjArp - stones]] — `حِجارَة` · stones
-- [[byt - houses]] — `بَيْت` · houses
-- [[Ejl - calf]] — `عِجْل` · calf
-- [[ftnp - trial]] — `فِتْنَة` · trial
 - [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[wjd - we found]] — `وَجَدَ` · we found
+- [[s>l - ask]] — `سَأَلَ` · ask
 - [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[mswmp - marked]] — `مُسَوَّمَة` · marked
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[mntSr - he supported]] — `مُنتَصِر` · he supported
+- [[frt - you flee]] — `فَرَّتْ` · you flee
+- [[wAqE - would fall]] — `واقِع` · would fall
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[mwqn - certain]] — `مُوقِن` · certain
+- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
 
 ## Roots
 
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[*nb - tail]]
-- [[*wq - dhwq]]
-- [[>fk - afk]]
+- [[*wq - taste]]
+- [[>fk - turn something away]]
 - [[>hl - people house]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>lm - alm]]
-- [[>mn - amn]]
+- [[>lm - painful]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>yd - ayd]]
+- [[>xr - final part something]]
+- [[>yd - earth]]
 - [[>yy - ism]]
-- [[Dyf - dyf]]
-- [[E*b - edhb]]
+- [[Dyf - inclining]]
+- [[E*b - motes particles floating]]
 - [[Ebd - worship]]
-- [[Ejl - ejl]]
+- [[Ejl - incite cause someone]]
 - [[Ejz - old age weakness]]
 - [[Elm - knowledge]]
 - [[End - near]]
-- [[Eqm - eqm]]
-- [[Etw - etw]]
-- [[Ewd - ewd]]
-- [[Eyn - eyn]]
+- [[Eqm - barren]]
+- [[Etw - pride]]
+- [[Ewd - aad]]
+- [[Eyn - eyes]]
 - [[Hdv - accidents]]
-- [[Hjr - hjr 2]]
+- [[Hjr - stones]]
 - [[Hkm - prevent restrain someone]]
 - [[Hml - bear]]
 - [[Hqq - established as true]]
@@ -82,15 +82,15 @@ The Winnowing Winds · 60 ayahs
 - [[SEq - loud]]
 - [[SHb - lord]]
 - [[Sdq - speak truth]]
-- [[Srr - srr]]
-- [[TEm - tem]]
+- [[Srr - tie bind tightly]]
+- [[TEm - food]]
 - [[Tgy - transgression]]
-- [[TwE - twe]]
-- [[Tyn - tyn]]
+- [[TwE - obey]]
+- [[Tyn - plaster seal clay]]
 - [[Zlm - put something wrong]]
 - [[allah - God]]
 - [[b$r - strip pare something]]
-- [[bSr - bsr]]
+- [[bSr - mental perception]]
 - [[bny - sons]]
 
 ## Sample (ayah 1)

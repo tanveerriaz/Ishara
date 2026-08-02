@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[E$r - eshr]]
+- [[E$r - ten]]
 
 ### Meaning
 **kindred** · Lemma **عَشِيرَت**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:24 · [[009 At-Tawbah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O Muḥammad], "If your fathers, your sons, your brothers, your wives, your relatives, wealth which you have obtained, commerce wherein you fear decline, and dwellings with which you are pleased are more beloved to you than Allāh and His Messenger and jihād [i.e., striving] in His cause, then wait until Allāh executes His command. And Allāh does not guide the defiantly disobedient people."
 
 **English (Yusuf Ali):** Say: If it be that your fathers, your sons, your brothers, your mates, or your kindred; the wealth that ye have gained; the commerce in which ye fear a decline: or the dwellings in which ye delight - are dearer to you than Allah, or His Messenger, or the striving in His cause;- then wait until Allah brings about His decision: and Allah guides not the rebellious.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر تمہارے باپ اور بیٹے اور بھائی اور عورتیں اور خاندان کے آدمی اور مال جو تم کماتے ہو اور تجارت جس کے بند ہونے سے ڈرتے ہو اور مکانات جن کو پسند کرتے ہو خدا اور اس کے رسول سے اور خدا کی راہ میں جہاد کرنے سے تمہیں زیادہ عزیز ہوں تو ٹھہرے رہو یہاں تک کہ خدا اپنا حکم (یعنی عذاب) بھیجے۔ اور خدا نافرمان لوگوں کو ہدایت نہیں دیا کرتا
 
 [Open on Quran.com](https://quran.com/9/24)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And admonish thy nearest kinsmen,
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے قریب کے رشتہ داروں کو ڈر سنا دو
+
 [Open on Quran.com](https://quran.com/26/214)
 
 #### 58:22 · [[058 Al-Mujadila]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** You will not find a people who believe in Allāh and the Last Day having affection for those who oppose Allāh and His Messenger, even if they were their fathers or their sons or their brothers or their kindred. Those - He has decreed within their hearts faith and supported them with spirit from Him. And We will admit them to gardens beneath which rivers flow, wherein they abide eternally. Allāh is pleased with them, and they are pleased with Him - those are the party of Allāh. Unquestionably, the party of Allāh - they are the successful.
 
 **English (Yusuf Ali):** Thou wilt not find any people who believe in Allah and the Last Day, loving those who resist Allah and His Messenger, even though they were their fathers or their sons, or their brothers, or their kindred. For such He has written Faith in their hearts, and strengthened them with a spirit from Himself. And He will admit them to Gardens beneath which Rivers flow, to dwell therein (for ever). Allah will be well pleased with them, and they with Him. They are the Party of Allah. Truly it is the Party of Allah that will achieve Felicity.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا پر اور روز قیامت پر ایمان رکھتے ہیں تم ان کو خدا اور اس کے رسول کے دشمنوں سے دوستی کرتے ہوئے نہ دیکھو گے۔ خواہ وہ ان کے باپ یا بیٹے یا بھائی یا خاندان ہی کے لوگ ہوں۔ یہ وہ لوگ ہیں جن کے دلوں میں خدا نے ایمان (پتھر پر لکیر کی طرح) تحریر کردیا ہے اور فیض غیبی سے ان کی مدد کی ہے۔ اور وہ ان کو بہشتوں میں جن کے تلے نہریں بہہ رہی ہیں داخل کرے گا ہمیشہ ان میں رہیں گے۔ خدا ان سے خوش اور وہ خدا سے خوش۔ یہی گروہ خدا کا لشکر ہے۔ (اور) سن رکھو کہ خدا ہی کا لشکر مراد حاصل کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/58/22)
 

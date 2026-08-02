@@ -38,7 +38,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:6 · [[006 Al-Anam]]
 
@@ -53,6 +53,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have they not seen how many generations We destroyed before them which We had established upon the earth as We have not established you? And We sent [rain from] the sky upon them in showers and made rivers flow beneath them; then We destroyed them for their sins and brought forth after them a generation of others.
 
 **English (Yusuf Ali):** See they not how many of those before them We did destroy?- generations We had established on the earth, in strength such as We have not given to you - for whom We poured out rain from the skies in abundance, and gave (fertile) streams flowing beneath their (feet): yet for their sins We destroyed them, and raised in their wake fresh generations (to succeed them).
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے کتنی امتوں کو ہلاک کر دیا جن کے پاؤں ملک میں ایسے جما دیئے تھے کہ تمہارے پاؤں بھی ایسے نہیں جمائے اور ان پر آسمان سے لگاتار مینہ برسایا اور نہریں بنا دیں جو ان کے (مکانوں کے) نیچے بہہ رہی تھیں پھر ان کو ان کے گناہوں کے سبب ہلاک کر دیا اور ان کے بعد اور امتیں پیدا کر دیں
 
 [Open on Quran.com](https://quran.com/6/6)
 
@@ -70,6 +72,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Generations before you We destroyed when they did wrong: their messengers came to them with clear-signs, but they would not believe! thus do We requite those who sin!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے پہلے ہم کئی امتوں کو جب انہوں نے ظلم کا راستہ اختیار کیا ہلاک کرچکے ہیں۔ اور ان کے پاس پیغمبر کھلی نشانیاں لے کر آئے مگر وہ ایسے نہ تھے کہ ایمان لاتے۔ ہم گنہگار لوگوں کو اسی طرح بدلہ دیا کرتے ہیں
+
 [Open on Quran.com](https://quran.com/10/13)
 
 #### 11:116 · [[011 Hud]]
@@ -85,6 +89,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So why were there not among the generations before you those of enduring discrimination forbidding corruption on earth - except a few of those We saved from among them? But those who wronged pursued what luxury they were given therein, and they were criminals.
 
 **English (Yusuf Ali):** Why were there not, among the generations before you, persons possessed of balanced good sense, prohibiting (men) from mischief in the earth - except a few among them whom We saved (from harm)? But the wrong-doers pursued the enjoyment of the good things of life which were given them, and persisted in sin.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جو اُمتیں تم سے پہلے گزر چکی ہیں، ان میں ایسے ہوش مند کیوں نہ ہوئے جو ملک میں خرابی کرنے سے روکتے ہاں (ایسے) تھوڑے سے (تھے) جن کو ہم نے ان میں سے مخلصی بخشی۔ اور جو ظالم تھے وہ ان ہی باتوں کے پیچھے لگے رہے جس میں عیش وآرام تھا اور وہ گناہوں میں ڈوبے ہوئے تھے
 
 [Open on Quran.com](https://quran.com/11/116)
 
@@ -102,6 +108,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** How many generations have We destroyed after Noah? and enough is thy Lord to note and see the sins of His servants.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے نوح کے بعد بہت سی اُمتوں کو ہلاک کر ڈالا۔ اور تمہارا پروردگار اپنے بندوں کے گناہوں کو جاننے اور دیکھنے والا کافی ہے
+
 [Open on Quran.com](https://quran.com/17/17)
 
 #### 18:83 · [[018 Al-Kahf]]
@@ -117,6 +125,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they ask you, [O Muḥammad], about Dhul-Qarnayn. Say, "I will recite to you about him a report."
 
 **English (Yusuf Ali):** They ask thee concerning Zul-qarnain. Say, "I will rehearse to you something of his story."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے ذوالقرنین کے بارے میں دریافت کرتے ہیں۔ کہہ دو کہ میں اس کا کسی قدر حال تمہیں پڑھ کر سناتا ہوں
 
 [Open on Quran.com](https://quran.com/18/83)
 
@@ -134,6 +144,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Until, when he reached the setting of the sun, he found it set in a spring of murky water: Near it he found a People: We said: "O Zul-qarnain! (thou hast authority,) either to punish them, or to treat them with kindness."
 
+**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ جب سورج کے غروب ہونے کی جگہ پہنچا تو اسے ایسا پایا کہ ایک کیچڑ کی ندی میں ڈوب رہا ہے اور اس (ندی) کے پاس ایک قوم دیکھی۔ ہم نے کہا ذوالقرنین! تم ان کو خواہ تکلیف دو خواہ ان (کے بارے) میں بھلائی اختیار کرو (دونوں باتوں میں تم کو قدرت ہے)
+
 [Open on Quran.com](https://quran.com/18/86)
 
 #### 18:94 · [[018 Al-Kahf]]
@@ -149,6 +161,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "O Dhul-Qarnayn, indeed Gog and Magog are [great] corrupters in the land. So may we assign for you an expenditure that you might make between us and them a barrier?"
 
 **English (Yusuf Ali):** They said: "O Zul-qarnain! the Gog and Magog (People) do great mischief on earth: shall we then render thee tribute in order that thou mightest erect a barrier between us and them?
+
+**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں نے کہا ذوالقرنین! یاجوج اور ماجوج زمین میں فساد کرتے رہتے ہیں بھلا ہم آپ کے لئے خرچ (کا انتظام) کردیں کہ آپ ہمارے اور ان کے درمیان ایک دیوار کھینچ دیں
 
 [Open on Quran.com](https://quran.com/18/94)
 
@@ -166,6 +180,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But how many (countless) generations before them have we destroyed, who were even better in equipment and in glitter to the eye?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان سے پہلے بہت سی اُمتیں ہلاک کردیں۔ وہ لوگ (ان سے) ٹھاٹھ اور نمود میں کہیں اچھے تھے
+
 [Open on Quran.com](https://quran.com/19/74)
 
 #### 19:98 · [[019 Maryam]]
@@ -182,6 +198,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But how many (countless) generations before them have We destroyed? Canst thou find a single one of them (now) or hear (so much as) a whisper of them?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس سے پہلے بہت سے گروہوں کو ہلاک کردیا ہے۔ بھلا تم ان میں سے کسی کو دیکھتے ہو یا (کہیں) ان کی بھنک سنتے ہو
+
 [Open on Quran.com](https://quran.com/19/98)
 
 #### 20:51 · [[020 Taha]]
@@ -197,6 +215,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Pharaoh] said, "Then what is the case of the former generations?"
 
 **English (Yusuf Ali):** (Pharaoh) said: "What then is the condition of previous generations?"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہا تو پہلی جماعتوں کا کیا حال؟
 
 [Open on Quran.com](https://quran.com/20/51)
 

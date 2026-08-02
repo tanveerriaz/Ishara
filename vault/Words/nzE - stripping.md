@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:26 · [[003 Ali Imran]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "O Allāh, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent.
 
 **English (Yusuf Ali):** Say: "O Allah! Lord of Power (And Rule), Thou givest power to whom Thou pleasest, and Thou strippest off power from whom Thou pleasest: Thou enduest with honour whom Thou pleasest, and Thou bringest low whom Thou pleasest: In Thy hand is all good. Verily, over all things Thou hast power.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اے خدا (اے) بادشاہی کے مالک تو جس کو چاہے بادشاہی بخشے اور جس سے چاہے بادشاہی چھین لے اور جس کو چاہے عزت دے اور جسے چاہے ذلیل کرے ہر طرح کی بھلائی تیرے ہی ہاتھ ہے اور بے شک تو ہر چیز پر قادر ہے
 
 [Open on Quran.com](https://quran.com/3/26)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye Children of Adam! Let not Satan seduce you, in the same manner as He got your parents out of the Garden, stripping them of their raiment, to expose their shame: for he and his tribe watch you from a position where ye cannot see them: We made the evil ones friends (only) to those without faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی آدم (دیکھنا کہیں) شیطان تمہیں بہکا نہ دے جس طرح تمہارے ماں باپ کو (بہکا کر) بہشت سے نکلوا دیا اور ان سے ان کے کپڑے اتروا دیئے تاکہ ان کے ستر ان کو کھول کر دکھا دے۔ وہ اور اس کے بھائی تم کو ایسی جگہ سے دیکھتے رہے ہیں جہاں سے تم ان کو نہیں دیکھ سکتے ہم نے شیطانوں کو انہیں لوگوں کا رفیق کار بنایا ہے جو ایمان نہیں رکھتے
+
 [Open on Quran.com](https://quran.com/7/27)
 
 #### 7:43 · [[007 Al-Araf]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We will have removed whatever is within their breasts of resentment, [while] flowing beneath them are rivers. And they will say, "Praise to Allāh, who has guided us to this; and we would never have been guided if Allāh had not guided us. Certainly the messengers of our Lord had come with the truth." And they will be called, "This is Paradise, which you have been made to inherit for what you used to do."
 
 **English (Yusuf Ali):** And We shall remove from their hearts any lurking sense of injury;- beneath them will be rivers flowing;- and they shall say: "Praise be to Allah, who hath guided us to this (felicity): never could we have found guidance, had it not been for the guidance of Allah: indeed it was the truth, that the messengers of our Lord brought unto us." And they shall hear the cry: "Behold! the garden before you! Ye have been made its inheritors, for your deeds (of righteousness)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کینے ان کے دلوں میں ہوں گے ہم سب نکال ڈالیں گے۔ ان کے محلوں کے نیچے نہریں بہہ رہی ہوں گی اور کہیں گے کہ خدا کا شکر ہے جس نے ہم کو یہاں کا راستہ دکھایا اور اگر خدا ہم کو رستہ نہ دکھاتا تو ہم رستہ نہ پا سکتے۔ بےشک ہمارا پروردگار کے رسول حق بات لے کر آئے تھے اور (اس روز) منادی کر دی جائے گی کہ تم ان اعمال کے صلے میں جو دنیا میں کرتے تھے اس بہشت کے وارث بنا دیئے گئے ہو
 
 [Open on Quran.com](https://quran.com/7/43)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And he drew out his hand, and behold! it was white to all beholders!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ باہر نکالا تو اسی دم دیکھنے والوں کی نگاہوں میں سفید براق (تھا)
+
 [Open on Quran.com](https://quran.com/7/108)
 
 #### 11:9 · [[011 Hud]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if We give man a taste of mercy from Us and then We withdraw it from him, indeed, he is despairing and ungrateful.
 
 **English (Yusuf Ali):** If We give man a taste of Mercy from Ourselves, and then withdraw it from him, behold! he is in despair and (falls into) blasphemy.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم انسان کو اپنے پاس سے نعمت بخشیں پھر اس سے اس کو چھین لیں تو ناامید (اور) ناشکرا (ہوجاتا) ہے
 
 [Open on Quran.com](https://quran.com/11/9)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We shall remove from their hearts any lurking sense of injury: (they will be) brothers (joyfully) facing each other on thrones (of dignity).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں میں جو کدورت ہوگی ان کو ہم نکال کر (صاف کر) دیں گے (گویا) بھائی بھائی تختوں پر ایک دوسرے کے سامنے بیٹھے ہوئے ہیں
+
 [Open on Quran.com](https://quran.com/15/47)
 
 #### 19:69 · [[019 Maryam]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then We will surely extract from every sect those of them who were worst against the Most Merciful in insolence.
 
 **English (Yusuf Ali):** Then shall We certainly drag out from every sect all those who were worst in obstinate rebellion against (Allah) Most Gracious.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہر جماعت میں سے ہم ایسے لوگوں کو کھینچ نکالیں گے جو خدا سے سخت سرکشی کرتے تھے
 
 [Open on Quran.com](https://quran.com/19/69)
 
@@ -159,6 +173,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And he drew out his hand, and behold, it was white to all beholders!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ نکالا تو اسی دم دیکھنے والوں کے لئے سفید (براق نظر آنے لگا)
+
 [Open on Quran.com](https://quran.com/26/33)
 
 #### 28:75 · [[028 Al-Qasas]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And from each people shall We draw a witness, and We shall say: "Produce your Proof": then shall they know that the Truth is in Allah (alone), and the (lies) which they invented will leave them in lurch.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہر ایک اُمت میں سے گواہ نکال لیں گے پھر کہیں گے کہ اپنی دلیل پیش کرو تو وہ جان لیں گے کہ سچ بات خدا کی ہے اور جو کچھ وہ افتراء کیا کرتے تھے ان سے جاتا رہے گا
+
 [Open on Quran.com](https://quran.com/28/75)
 
 #### 54:20 · [[054 Al-Qamar]]
@@ -190,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Extracting the people as if they were trunks of palm trees uprooted.
 
 **English (Yusuf Ali):** Plucking out men as if they were roots of palm-trees torn up (from the ground).
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ لوگوں کو (اس طرح) اکھیڑے ڈالتی تھی گویا اکھڑی ہوئی کھجوروں کے تنے ہیں
 
 [Open on Quran.com](https://quran.com/54/20)
 

@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:25 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow. Whenever they are provided with a provision of fruit therefrom, they will say, "This is what we were provided with before." And it is given to them in likeness. And they will have therein purified spouses, and they will abide therein eternally.
 
 **English (Yusuf Ali):** But give glad tidings to those who believe and work righteousness, that their portion is Gardens, beneath which rivers flow. Every time they are fed with fruits therefrom, they say: "Why, this is what we were fed with before," for they are given things in similitude; and they have therein companions pure (and holy); and they abide therein (for ever).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے، ان کو خوشخبری سنا دو کہ ان کے لیے (نعمت کے) باغ ہیں، جن کے نیچے نہریں بہہ رہی ہیں۔ جب انہیں ان میں سے کسی قسم کا میوہ کھانے کو دیا جائے گا تو کہیں گے، یہ تو وہی ہے جو ہم کو پہلے دیا گیا تھا۔ اور ان کو ایک دوسرے کے ہم شکل میوے دیئے جائیں گے اور وہاں ان کے لیے پاک بیویاں ہوں گی اور وہ بہشتوں میں ہمیشہ رہیں گے
 
 [Open on Quran.com](https://quran.com/2/25)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! in the creation of the heavens and the earth; in the alternation of the night and the day; in the sailing of the ships through the ocean for the profit of mankind; in the rain which Allah Sends down from the skies, and the life which He gives therewith to an earth that is dead; in the beasts of all kinds that He scatters through the earth; in the change of the winds, and the clouds which they Trail like their slaves between the sky and the earth;- (Here) indeed are Signs for a people that are wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** بےشک آسمانوں اور زمین کے پیدا کرنے میں اور رات اور دن کے ایک دوسرے کے پیچھے آنے جانے میں اور کشتیوں اور جہازوں میں جو دریا میں لوگوں کے فائدے کی چیزیں لے کر رواں ہیں اور مینہ میں جس کو خدا آسمان سے برساتا اور اس سے زمین کو مرنے کے بعد زندہ (یعنی خشک ہوئے پیچھے سرسبز) کردیتا ہے اور زمین پر ہر قسم کے جانور پھیلانے میں اور ہواؤں کے چلانےمیں اور بادلوں میں جو آسمان اور زمین کے درمیان گھرے رہتے ہیں۔ عقلمندوں کے لئے (خدا کی قدرت کی) نشانیاں ہیں
+
 [Open on Quran.com](https://quran.com/2/164)
 
 #### 2:266 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Would one of you like to have a garden of palm trees and grapevines underneath which rivers flow in which he has from every fruit? But he is afflicted with old age and has weak [i.e., immature] offspring, and it is hit by a whirlwind containing fire and is burned. Thus does Allāh make clear to you [His] verses that you might give thought.
 
 **English (Yusuf Ali):** Does any of you wish that he should have a garden with date-palms and vines and streams flowing underneath, and all kinds of fruit, while he is stricken with old age, and his children are not strong (enough to look after themselves)- that it should be caught in a whirlwind, with fire therein, and be burnt up? Thus doth Allah make clear to you (His) Signs; that ye may consider.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم میں کوئی یہ چاہتا ہے کہ اس کا کھجوروں اور انگوروں کا باغ ہو جس میں نہریں بہہ رہی ہوں اور اس میں اس کے لئے ہر قسم کے میوے موجود ہوں اور اسے بڑھاپا آپکڑے اور اس کے ننھے ننھے بچے بھی ہوں۔ تو (ناگہاں) اس باغ پر آگ کا بھرا ہوا بگولا چلے اور وہ جل کر (راکھ کا ڈھیر ہو) جائے۔ اس طرح خدا تم سے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم سوچو (اور سمجھو)
 
 [Open on Quran.com](https://quran.com/2/266)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: Shall I give you glad tidings of things Far better than those? For the righteous are Gardens in nearness to their Lord, with rivers flowing beneath; therein is their eternal home; with companions pure (and holy); and the good pleasure of Allah. For in Allah's sight are (all) His servants,-
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر ان سے) کہو کہ بھلا میں تم کو ایسی چیز بتاؤں جو ان چیزوں سے کہیں اچھی ہو (سنو) جو لوگ پرہیزگار ہیں ان کے لیے خدا کے ہاں باغات (بہشت) ہیں جن کے نیچے نہریں بہہ رہی ہیں ان میں وہ ہمیشہ رہیں گے اور پاکیزہ عورتیں ہیں اور (سب سے بڑھ کر) خدا کی خوشنودی اور خدا (اپنے نیک) بندوں کو دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/3/15)
 
 #### 3:136 · [[003 Ali Imran]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those - their reward is forgiveness from their Lord and gardens beneath which rivers flow [in Paradise], wherein they will abide eternally; and excellent is the reward of the [righteous] workers.
 
 **English (Yusuf Ali):** For such the reward is forgiveness from their Lord, and Gardens with rivers flowing underneath,- an eternal dwelling: How excellent a recompense for those who work (and strive)!
+
+**Urdu (Fatah Muhammad Jalandhari):** ایسے ہی لوگوں کا صلہ پروردگار کی طرف سے بخشش اور باغ ہیں جن کے نیچے نہریں بہہ رہی ہیں (اور) وہ ان میں ہمیشہ بستے رہیں گے اور (اچھے) کام کرنے والوں کا بدلہ بہت اچھا ہے
 
 [Open on Quran.com](https://quran.com/3/136)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And their Lord hath accepted of them, and answered them: "Never will I suffer to be lost the work of any of you, be he male or female: Ye are members, one of another: Those who have left their homes, or been driven out therefrom, or suffered harm in My Cause, or fought or been slain,- verily, I will blot out from them their iniquities, and admit them into Gardens with rivers flowing beneath;- A reward from the presence of Allah, and from His presence is the best of rewards."
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کے پرردگار نے ان کی دعا قبول کر لی (اور فرمایا) کہ میں کسی عمل کرنے والے کے عمل کو مرد ہو یا عورت ضائع نہیں کرتا تم ایک دوسرے کی جنس ہو تو جو لوگ میرے لیے وطن چھوڑ گئے اور اپنے گھروں سے نکالے گئے اور ستائے گئے اور لڑے اور قتل کیے گئے میں ان کے گناہ دور کردوں گا اور ان کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہ رہی ہیں (یہ) خدا کے ہاں سے بدلہ ہے اور خدا کے ہاں اچھا بدلہ ہے
+
 [Open on Quran.com](https://quran.com/3/195)
 
 #### 3:198 · [[003 Ali Imran]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who feared their Lord will have gardens beneath which rivers flow, abiding eternally therein, as accommodation from Allāh. And that which is with Allāh is best for the righteous.
 
 **English (Yusuf Ali):** On the other hand, for those who fear their Lord, are Gardens, with rivers flowing beneath; therein are they to dwell (for ever),- a gift from the presence of Allah; and that which is in the presence of Allah is the best (bliss) for the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** لیکن جو لوگ اپنے پروردگار سے ڈرتے رہے ان کے لیے باغ ہے جن کے نیچے نہریں بہہ رہی ہیں (اور) ان میں ہمیشہ رہیں گے (یہ) خدا کے ہاں سے (ان کی) مہمانی ہے اور جو کچھ خدا کے ہاں ہے وہ نیکو کاروں کے لیے بہت اچھا ہے
 
 [Open on Quran.com](https://quran.com/3/198)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those are limits set by Allah: those who obey Allah and His Messenger will be admitted to Gardens with rivers flowing beneath, to abide therein (for ever) and that will be the supreme achievement.
 
+**Urdu (Fatah Muhammad Jalandhari):** (یہ تمام احکام) خدا کی حدیں ہیں۔ اور جو شخص خدا اور اس کے پیغمبر کی فرمانبرداری کرے گا خدا اس کو بہشتوں میں داخل کرے گا جن میں نہریں بہہ رہی ہیں وہ ان میں ہمیشہ رہیں گے۔اور یہ بڑی کامیابی ہے
+
 [Open on Quran.com](https://quran.com/4/13)
 
 #### 4:57 · [[004 An-Nisa]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But those who believe and do deeds of righteousness, We shall soon admit to Gardens, with rivers flowing beneath,- their eternal home: Therein shall they have companions pure and holy: We shall admit them to shades, cool and ever deepening.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو ایمان لائے اور نیک عمل کرتے رہے ان کو ہم بہشتوں میں داخل کریں گے جن کے نیچے نہریں بہہ رہی ہیں وہ ان میں ہمیشہ ہمیشہ رہیں گے وہاں ان کے لئے پاک بیبیاں ہیں اور ان کو ہم گھنے سائے میں داخل کریں گے
+
 [Open on Quran.com](https://quran.com/4/57)
 
 #### 4:122 · [[004 An-Nisa]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But the ones who believe and do righteous deeds - We will admit them to gardens beneath which rivers flow, wherein they will abide forever. [It is] the promise of Allāh, [which is] truth, and who is more truthful than Allāh in statement.
 
 **English (Yusuf Ali):** But those who believe and do deeds of righteousness,- we shall soon admit them to gardens, with rivers flowing beneath,-to dwell therein for ever. Allah's promise is the truth, and whose word can be truer than Allah's?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور نیک کام کرتے رہے ان کو ہم بہشتوں میں داخل کریں گے جن کے نیچے نہریں جاری ہیں۔ ابدالآباد ان میں رہیں گے۔ یہ خدا کا سچا وعدہ ہے۔ اور خدا سے زیادہ بات کا سچا کون ہوسکتا ہے
 
 [Open on Quran.com](https://quran.com/4/122)
 

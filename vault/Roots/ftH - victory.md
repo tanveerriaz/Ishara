@@ -12,7 +12,7 @@ tags: [root, meaning]
 **Sense:** victory · **Root:** فتح
 
 ### Words (wikilinks — these create the graph)
-- [[AstftH - that pray victory]]
+- [[AstftH - that]]
 - [[ftH - victory]]
 - [[mfAtH - keys]]
 

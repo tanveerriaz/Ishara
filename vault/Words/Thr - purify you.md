@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Thr - thr]]
+- [[Thr - cleanse purify oneself]]
 
 ### Meaning
 **purify you** · Lemma **طَهَّرَ**
@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:125 · [[002 Al-Baqarah]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] when We made the House [i.e., the Kaʿbah] a place of return for the people and [a place of] security. And take, [O believers], from the standing place of Abraham a place of prayer. And We charged Abraham and Ishmael, [saying], "Purify My House for those who perform ṭawāf and those who are staying [there] for worship and those who bow and prostrate [in prayer]."
 
 **English (Yusuf Ali):** Remember We made the House a place of assembly for men and a place of safety; and take ye the station of Abraham as a place of prayer; and We covenanted with Abraham and Isma'il, that they should sanctify My House for those who compass it round, or use it as a retreat, or bow, or prostrate themselves (therein in prayer).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے خانہٴ کعبہ کو لوگوں کے لیے جمع ہونے اور امن پانے کی جگہ مقرر کیا اور (حکم دیا کہ) جس مقام پر ابراہیم کھڑے ہوئے تھے، اس کو نماز کی جگہ بنا لو۔ اور ابراہیم اور اسمٰعیل کو کہا کہ طواف کرنے والوں اور اعتکاف کرنے والوں اور رکوع کرنے والوں اور سجدہ کرنے والوں کے لیے میرے گھر کو پاک صاف رکھا کرو
 
 [Open on Quran.com](https://quran.com/2/125)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! the angels said: "O Mary! Allah hath chosen thee and purified thee- chosen thee above the women of all nations.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب فرشتوں نے (مریم سے) کہا کہ مریم! خدا نے تم کو برگزیدہ کیا ہے اور پاک بنایا ہے اور جہان کی عورتوں میں منتخب کیا ہے
+
 [Open on Quran.com](https://quran.com/3/42)
 
 #### 5:6 · [[005 Al-Maidah]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, when you rise to [perform] prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of janābah, then purify yourselves. But if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women and do not find water, then seek clean earth and wipe over your faces and hands with it. Allāh does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful.
 
 **English (Yusuf Ali):** O ye who believe! when ye prepare for prayer, wash your faces, and your hands (and arms) to the elbows; Rub your heads (with water); and (wash) your feet to the ankles. If ye are in a state of ceremonial impurity, bathe your whole body. But if ye are ill, or on a journey, or one of you cometh from offices of nature, or ye have been in contact with women, and ye find no water, then take for yourselves clean sand or earth, and rub therewith your faces and hands, Allah doth not wish to place you in a difficulty, but to make you clean, and to complete his favour to you, that ye may be grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم نماز پڑھنے کا قصد کیا کرو تم منہ اور کہنیوں تک ہاتھ دھو لیا کرو اور سر کا مسح کر لیا کرو اور ٹخنوں تک پاؤں (دھو لیا کرو) اور اگر نہانے کی حاجت ہو تو (نہا کر) پاک ہو جایا کرو اور اگر بیمار ہو یا سفر میں ہو یا کوئی تم میں سے بیت الخلا سے ہو کر آیا ہو یا تم عورتوں سے ہم بستر ہوئے ہو اور تمہیں پانی نہ مل سکے تو پاک مٹی لو اور اس سے منہ اور ہاتھوں کا مسح (یعنی تیمم) کر لو۔ خدا تم پر کسی طرح کی تنگی نہیں کرنا چاہتا بلکہ یہ چاہتا ہے کہ تمہیں پاک کرے اور اپنی نعمتیں تم پر پوری کرے تاکہ تم شکر کرو
 
 [Open on Quran.com](https://quran.com/5/6)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O Messenger! let not those grieve thee, who race each other into unbelief: (whether it be) among those who say "We believe" with their lips but whose hearts have no faith; or it be among the Jews,- men who will listen to any lie,- will listen even to others who have never so much as come to thee. They change the words from their (right) times and places: they say, "If ye are given this, take it, but if not, beware!" If any one's trial is intended by Allah, thou hast no authority in the least for him against Allah. For such - it is not Allah's will to purify their hearts. For them there is disgrace in this world, and in the Hereafter a heavy punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر! جو لوگ کفر میں جلدی کرتے ہیں (کچھ تو) ان میں سے (ہیں) جو منہ سے کہتے ہیں کہ ہم مومن ہیں لیکن ان کے دل مومن نہیں ہیں اور (کچھ) ان میں سے جو یہودی ہیں ان کی وجہ سے غمناک نہ ہونا یہ غلط باتیں بنانے کے لیے جاسوسی کرتے پھرتے ہیں اور ایسے لوگوں (کے بہکانے) کے لیے جاسوس بنے ہیں جو ابھی تمہارے پاس نہیں آئے (صحیح) باتوں کو ان کے مقامات (میں ثابت ہونے) کے بعد بدل دیتے ہیں (اور لوگوں سے) کہتے ہیں کہ اگر تم کو یہی (حکم) ملے تو اسے قبول کر لینا اور اگر یہ نہ ملے تو اس سے احتراز کرنا اور اگر کسی کو خدا گمراہ کرنا چاہے تو اس کے لیے تم کچھ بھی خدا سے (ہدایت کا) اختیار نہیں رکھتے یہ وہ لوگ ہیں جن کے دلوں کو خدا نے پاک کرنا نہیں چاہا ان کے لیے دنیا میں بھی ذلت ہے اور آخرت میں بھی بڑا عذاب ہے
+
 [Open on Quran.com](https://quran.com/5/41)
 
 #### 8:11 · [[008 Al-Anfal]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Remember] when He overwhelmed you with drowsiness [giving] security from Him and sent down upon you from the sky, rain by which to purify you and remove from you the evil [suggestions] of Satan and to make steadfast your hearts and plant firmly thereby your feet.
 
 **English (Yusuf Ali):** Remember He covered you with a sort of drowsiness, to give you calm as from Himself, and he caused rain to descend on you from heaven, to clean you therewith, to remove from you the stain of Satan, to strengthen your hearts, and to plant your feet firmly therewith.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب اس نے (تمہاری) تسکین کے لیے اپنی طرف سے تمہیں نیند (کی چادر) اُڑھا دی اور تم پر آسمان سے پانی برسادیا تاکہ تم کو اس سے (نہلا کر) پاک کر دے اور شیطانی نجاست کو تم سے دور کردے۔ اور اس لیے بھی کہ تمہارے دلوں کو مضبوط کردے اور اس سے تمہارے پاؤں جمائے رکھے
 
 [Open on Quran.com](https://quran.com/8/11)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Of their goods, take alms, that so thou mightest purify and sanctify them; and pray on their behalf. Verily thy prayers are a source of security for them: And Allah is One Who heareth and knoweth.
 
+**Urdu (Fatah Muhammad Jalandhari):** ان کے مال میں سے زکوٰة قبول کر لو کہ اس سے تم ان کو (ظاہر میں بھی) پاک اور (باطن میں بھی) پاکیزہ کرتے ہو اور ان کے حق میں دعائے خیر کرو کہ تمہاری دعا ان کے لیے موجب تسکین ہے اور خدا سننے والا اور جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/9/103)
 
 #### 22:26 · [[022 Al-Hajj]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when We designated for Abraham the site of the House, [saying], "Do not associate anything with Me and purify My House for those who perform ṭawāf and those who stand [in prayer] and those who bow and prostrate.
 
 **English (Yusuf Ali):** Behold! We gave the site, to Abraham, of the (Sacred) House, (saying): "Associate not anything (in worship) with Me; and sanctify My House for those who compass it round, or stand up, or bow, or prostrate themselves (therein in prayer).
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور ایک وقت تھا) جب ہم نے ابراہیم کے لئے خانہ کعبہ کو مقرر کیا (اور ارشاد فرمایا) کہ میرے ساتھ کسی چیز کو شریک نہ کیجیو اور طواف کرنے والوں اور قیام کرنے والوں اور رکوع کرنے والوں (اور) سجدہ کرنے والوں کے لئے میرے گھر کو صاف رکھا کرو
 
 [Open on Quran.com](https://quran.com/22/26)
 
@@ -159,6 +173,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And stay quietly in your houses, and make not a dazzling display, like that of the former Times of Ignorance; and establish regular Prayer, and give regular Charity; and obey Allah and His Messenger. And Allah only wishes to remove all abomination from you, ye members of the Family, and to make you pure and spotless.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے گھروں میں ٹھہری رہو اور جس طرح (پہلے) جاہلیت (کے دنوں) میں اظہار تجمل کرتی تھیں اس طرح زینت نہ دکھاؤ۔ اور نماز پڑھتی رہو اور زکوٰة دیتی رہو اور خدا اور اس کے رسول کی فرمانبرداری کرتی رہو۔ اے (پیغمبر کے) اہل بیت خدا چاہتا ہے کہ تم سے ناپاکی (کا میل کچیل) دور کردے اور تمہیں بالکل پاک صاف کردے
+
 [Open on Quran.com](https://quran.com/33/33)
 
 #### 74:4 · [[074 Al-Muddaththir]]
@@ -174,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And your clothing purify.
 
 **English (Yusuf Ali):** And thy garments keep free from stain!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے کپڑوں کو پاک رکھو
 
 [Open on Quran.com](https://quran.com/74/4)
 

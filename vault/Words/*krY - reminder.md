@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 
 ### Meaning
 **reminder** · Lemma **ذِكْرَى**
@@ -41,7 +41,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:68 · [[006 Al-Anam]]
 
@@ -56,6 +56,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you see those who engage in [offensive] discourse concerning Our verses, then turn away from them until they enter into another conversation. And if Satan should cause you to forget, then do not remain after the reminder with the wrongdoing people.
 
 **English (Yusuf Ali):** When thou seest men engaged in vain discourse about Our signs, turn away from them unless they turn to a different theme. If Satan ever makes thee forget, then after recollection, sit not thou in the company of those who do wrong.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم ایسے لوگوں کو دیکھو جو ہماری آیتوں کے بارے میں بیہودہ بکواس کر رہے ہوں تو ان سے الگ ہوجاؤ یہاں تک کہ اور باتوں میں مصروف ہوجائیں۔ اور اگر (یہ بات) شیطان تمہیں بھلا دے تو یاد آنے پر ظالم لوگوں کے ساتھ نہ بیٹھو
 
 [Open on Quran.com](https://quran.com/6/68)
 
@@ -73,6 +75,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** On their account no responsibility falls on the righteous, but (their duty) is to remind them, that they may (learn to) fear Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور پرہیزگاروں پر ان لوگوں کے حساب کی کچھ بھی جواب دہی نہیں ہاں نصیحت تاکہ وہ بھی پرہیزگار ہوں
+
 [Open on Quran.com](https://quran.com/6/69)
 
 #### 6:90 · [[006 Al-Anam]]
@@ -88,6 +92,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the ones whom Allāh has guided, so from their guidance take an example. Say, "I ask of you for it [i.e., this message] no payment. It is not but a reminder for the worlds."
 
 **English (Yusuf Ali):** Those were the (prophets) who received Allah's guidance: Copy the guidance they received; Say: "No reward for this do I ask of you: This is no less than a message for the nations."
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جن کو خدا نے ہدایت دی تھی تو تم انہیں کی ہدایت کی پیروی کرو۔ کہہ دو کہ میں تم سے اس (قرآن) کا صلہ نہیں مانگتا۔ یہ تو جہان کے لوگوں کے لئےمحض نصیحت ہے
 
 [Open on Quran.com](https://quran.com/6/90)
 
@@ -105,6 +111,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A Book revealed unto thee,- So let thy heart be oppressed no more by any difficulty on that account,- that with it thou mightest warn (the erring) and teach the Believers).
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) یہ کتاب (جو) تم پر نازل ہوئی ہے۔ اس سے تمہیں تنگ دل نہیں ہونا چاہیئے، (یہ نازل) اس لیے (ہوئی ہے) کہ تم اس کے ذریعے سے (لوگوں) کو ڈر سناؤ اور (یہ) ایمان والوں کے لیے نصیحت ہے
+
 [Open on Quran.com](https://quran.com/7/2)
 
 #### 11:114 · [[011 Hud]]
@@ -120,6 +128,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And establish prayer at the two ends of the day and at the approach of the night. Indeed, good deeds do away with misdeeds. That is a reminder for those who remember.
 
 **English (Yusuf Ali):** And establish regular prayers at the two ends of the day and at the approaches of the night: For those things, that are good remove those that are evil: Be that the word of remembrance to those who remember (their Lord):
+
+**Urdu (Fatah Muhammad Jalandhari):** اور دن کے دونوں سروں (یعنی صبح اور شام کے اوقات میں) اور رات کی چند (پہلی) ساعات میں نماز پڑھا کرو۔ کچھ شک نہیں کہ نیکیاں گناہوں کو دور کر دیتی ہیں۔ یہ ان کے لیے نصیحت ہے جو نصیحت قبول کرنے والے ہیں
 
 [Open on Quran.com](https://quran.com/11/114)
 
@@ -137,6 +147,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** All that we relate to thee of the stories of the messengers,- with it We make firm thy heart: in them there cometh to thee the Truth, as well as an exhortation and a message of remembrance to those who believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) اور پیغمبروں کے وہ سب حالات جو ہم تم سے بیان کرتے ہیں ان سے ہم تمہارے دل کو قائم رکھتے ہیں۔ اور ان (قصص) میں تمہارے پاس حق پہنچ گیا اور یہ مومنوں کے لیے نصیحت اور عبرت ہے
+
 [Open on Quran.com](https://quran.com/11/120)
 
 #### 21:84 · [[021 Al-Anbya]]
@@ -152,6 +164,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So We responded to him and removed what afflicted him of adversity. And We gave him [back] his family and the like thereof with them as mercy from Us and a reminder for the worshippers [of Allāh].
 
 **English (Yusuf Ali):** So We listened to him: We removed the distress that was on him, and We restored his people to him, and doubled their number,- as a Grace from Ourselves, and a thing for commemoration, for all who serve Us.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان کی دعا قبول کرلی اور جو ان کو تکلیف تھی وہ دور کردی اور ان کو بال بچے بھی عطا فرمائے اور اپنی مہربانی کے ساتھ اتنے ہی اور (بخشے) اور عبادت کرنے والوں کے لئے (یہ) نصیحت ہے
 
 [Open on Quran.com](https://quran.com/21/84)
 
@@ -169,6 +183,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** By way of reminder; and We never are unjust.
 
+**Urdu (Fatah Muhammad Jalandhari):** نصیحت کردیں اور ہم ظالم نہیں ہیں
+
 [Open on Quran.com](https://quran.com/26/209)
 
 #### 29:51 · [[029 Al-Ankabut]]
@@ -185,6 +201,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And is it not enough for them that we have sent down to thee the Book which is rehearsed to them? Verily, in it is Mercy and a Reminder to those who believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا اُن لوگوں کے لئے یہ کافی نہیں کہ ہم نے تم پر کتاب نازل کی جو اُن کو پڑھ کر سنائی جاتی ہے۔ کچھ شک نہیں کہ مومن لوگوں کے لیے اس میں رحمت اور نصیحت ہے
+
 [Open on Quran.com](https://quran.com/29/51)
 
 #### 38:43 · [[038 Sad]]
@@ -200,6 +218,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding.
 
 **English (Yusuf Ali):** And We gave him (back) his people, and doubled their number,- as a Grace from Ourselves, and a thing for commemoration, for all who have Understanding.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو اہل و عیال اور ان کے ساتھ ان کے برابر اور بخشے۔ (یہ) ہماری طرف سے رحمت اور عقل والوں کے لئے نصیحت تھی
 
 [Open on Quran.com](https://quran.com/38/43)
 

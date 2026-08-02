@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jvm - jthm]]
+- [[jvm - body person]]
 
 ### Meaning
 **fallen prone** · Lemma **جاثِم**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:78 · [[007 Al-Araf]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So the earthquake seized them, and they became within their home [corpses] fallen prone.
 
 **English (Yusuf Ali):** So the earthquake took them unawares, and they lay prostrate in their homes in the morning!
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کو بھونچال نے آ پکڑا اور وہ اپنے گھروں میں اوندھے پڑے رہ گئے
 
 [Open on Quran.com](https://quran.com/7/78)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But the earthquake took them unawares, and they lay prostrate in their homes before the morning!
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کو بھونچال نے آپکڑا اور وہ اپنے گھروں میں اوندھے پڑے رہ گئے
+
 [Open on Quran.com](https://quran.com/7/91)
 
 #### 11:67 · [[011 Hud]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone
 
 **English (Yusuf Ali):** The (mighty) Blast overtook the wrong-doers, and they lay prostrate in their homes before the morning,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے ظلم کیا تھا ان کو چنگھاڑ (کی صورت میں عذاب) نے آپکڑا تو وہ اپنے گھروں میں اوندھے پڑے رہ گئے
 
 [Open on Quran.com](https://quran.com/11/67)
 
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When Our decree issued, We saved Shu'aib and those who believed with him, by (special) mercy from Ourselves: But the (mighty) blast did seize the wrong-doers, and they lay prostrate in their homes by the morning,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہمارا حکم آپہنچا تو ہم نے شعیب کو اور جو لوگ ان کے ساتھ ایمان لائے تھے ان کو تو اپنی رحمت سے بچا لیا۔ اور جو لوگ ظالم تھے، ان کو چنگھاڑ نے آدبوچا تو وہ اپنے گھروں میں اوندھے پڑے رہ گئے
+
 [Open on Quran.com](https://quran.com/11/94)
 
 #### 29:37 · [[029 Al-Ankabut]]
@@ -105,6 +113,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But they denied him, so the earthquake seized them, and they became within their home [corpses] fallen prone.
 
 **English (Yusuf Ali):** But they rejected him: Then the mighty Blast seized them, and they lay prostrate in their homes by the morning.
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر اُنہوں نے اُن کو جھوٹا سمجھا سو اُن کو زلزلے (کے عذاب) نے آپکڑا اور وہ اپنے گھروں میں اوندھے پڑے رہ گئے
 
 [Open on Quran.com](https://quran.com/29/37)
 

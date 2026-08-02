@@ -14,59 +14,59 @@ The Crouching · 37 ayahs
 
 ## Words in this surah (graph)
 
-- [[>Sr - they persist]] — `أَصَرُّ` · they persist
-- [[dAbp - moving creature]] — `دابَّة` · moving creature
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[HyAp - life]] — `حَياة` · life
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[xtm - sealed]] — `خَتَمَ` · sealed
-- [[dEA - call]] — `دَعا` · call
-- [[nAr - fire]] — `نار` · fire
-- [[Zlm - wronged]] — `ظَلَمَ` · wronged
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[lyl - night]] — `لَيْل` · night
-- [[Hjp - argument]] — `حُجَّة` · argument
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[fwz - success]] — `فَوْز` · success
-- [[Eml - do]] — `عَمِلَ` · do
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[>mr - command]] — `أَمَرَ` · command
-- [[wly - protector]] — `وَلِيّ` · protector
-- [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[hzw - ridicule]] — `هُزُو` · ridicule
-- [[EZym - great]] — `عَظِيم` · great
-- [[tlY - recited]] — `تَلَى` · recited
-- [[sxr - subjected]] — `سَخِرَ` · subjected
-- [[jA' - came them]] — `جاءَ` · came them
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[jmyE - all]] — `جَمِيع` · all
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[ryH - wind]] — `رِيح` · wind
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[>y - o you]] — `أَيّ` · o you
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[>rD - earth]] — `أَرْض` · earth
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[dnyA - world]] — `دُنْيا` · world
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[nAs - people]] — `ناس` · people
+- [[lqA' - meeting]] — `لِقاء` · meeting
+- [[byn - between them]] — `بَيْن` · between them
+- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[Hsb - think]] — `حَسْب` · think
+- [[rHmp - mercy]] — `رَحْمَة` · mercy
+- [[bEd - after]] — `بَعْد` · after
+- [[Elm - know]] — `عَلِمَ` · know
+- [[m>wY - abode]] — `مَأْوَى` · abode
 
 ## Roots
 
-- [[$kr - shkr]]
+- [[$kr - gratitude]]
 - [[$rE - enter water drink]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
-- [[>bw - abw]]
-- [[>fk - afk]]
+- [[*kr - remember recall something]]
+- [[>bw - forefathers]]
+- [[>fk - turn something away]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - athm]]
+- [[>vm - sin commit crime]]
 - [[>wy - betake oneself place]]
 - [[>x* - take]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
-- [[Eql - eql]]
-- [[Etb - etb]]
+- [[Eml - intentional action deed]]
+- [[Eql - withhold restrain]]
+- [[Etb - angry someone]]
 - [[Ezz - all-mighty]]
 - [[Hdv - accidents]]
 - [[Hjj - hajj]]
@@ -74,22 +74,22 @@ The Crouching · 37 ayahs
 - [[Hmd - praise]]
 - [[Hqq - established as true]]
 - [[Hsb - number]]
-- [[Hyq - hyq]]
+- [[Hyq - surround encompass]]
 - [[Hyy - life]]
 - [[Sdq - speak truth]]
-- [[SlH - slh]]
+- [[SlH - make something good]]
 - [[Srf - turn something away]]
-- [[Srr - srr]]
+- [[Srr - tie bind tightly]]
 - [[Tyb - something good]]
 - [[Zlm - put something wrong]]
 - [[Znn - think]]
 - [[allah - God]]
 - [[b$r - strip pare something]]
-- [[bED - bed]]
+- [[bED - others]]
 - [[bEd - become distant]]
 - [[bHr - large body water]]
-- [[bSr - bsr]]
-- [[bTl - btl]]
+- [[bSr - mental perception]]
+- [[bTl - something becoming false]]
 - [[bdw - you reveal]]
 - [[bgy - seek desire something]]
 

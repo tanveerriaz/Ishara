@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nqS - nqs]]
+- [[nqS - decrease]]
 
 ### Meaning
 **decrease** · Lemma **يُنقَصُ**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:4 · [[009 At-Tawbah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Excepted are those with whom you made a treaty among the polytheists and then they have not been deficient toward you in anything or supported anyone against you; so complete for them their treaty until their term [has ended]. Indeed, Allāh loves the righteous [who fear Him].
 
 **English (Yusuf Ali):** (But the treaties are) not dissolved with those Pagans with whom ye have entered into alliance and who have not subsequently failed you in aught, nor aided any one against you. So fulfil your engagements with them to the end of their term: for Allah loveth the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** البتہ جن مشرکوں کے ساتھ تم نے عہد کیا ہو اور انہوں نے تمہارا کسی طرح کا قصور نہ کیا ہو اور نہ تمہارے مقابلے میں کسی کی مدد کی ہو تو جس مدت تک ان کے ساتھ عہد کیا ہو اسے پورا کرو۔ (کہ) خدا پرہیزگاروں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/9/4)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To the Madyan People (We sent) Shu'aib, one of their own brethren: he said: "O my people! worship Allah: Ye have no other god but Him. And give not short measure or weight: I see you in prosperity, but I fear for you the penalty of a day that will compass (you) all round.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور مدین کی طرف ان کے بھائی شعیب کو (بھیجا) تو اُنہوں نے کہا کہ اے قوم! خدا ہی کی عبادت کرو کہ اس کے سوا تمہارا کوئی معبود نہیں۔ اور ناپ تول میں کمی نہ کیا کرو۔ میں تو تم کو آسودہ حال دیکھتا ہوں اور (اگر تم ایمان نہ لاؤ گے تو) مجھے تمہارے بارے میں ایک ایسے دن کے عذاب کا خوف ہے جو تم کو گھیر کر رہے گا
+
 [Open on Quran.com](https://quran.com/11/84)
 
 #### 13:41 · [[013 Ar-Rad]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have they not seen that We set upon the land, reducing it from its borders? And Allāh decides; there is no adjuster of His decision. And He is swift in account.
 
 **English (Yusuf Ali):** See they not that We gradually reduce the land (in their control) from its outlying borders? (Where) Allah commands, there is none to put back His Command: and He is swift in calling to account.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ ہم زمین کو اس کے کناروں سے گھٹاتے چلے آتے ہیں۔ اور خدا (جیسا چاہتا ہے) حکم کرتا ہے کوئی اس کے حکم کا رد کرنے والا نہیں۔ اور وہ جلد حساب لینے والا ہے
 
 [Open on Quran.com](https://quran.com/13/41)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nay, We gave the good things of this life to these men and their fathers until the period grew long for them; See they not that We gradually reduce the land (in their control) from its outlying borders? Is it then they who will win?
 
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ ہم ان لوگوں کو اور ان کے باپ دادا کو متمتع کرتے رہے یہاں تک کہ (اسی حالت میں) ان کی عمریں بسر ہوگئیں۔ کیا یہ نہیں دیکھتے کہ ہم زمین کو اس کے کناروں سے گھٹاتے چلے آتے ہیں۔ تو کیا یہ لوگ غلبہ پانے والے ہیں؟
+
 [Open on Quran.com](https://quran.com/21/44)
 
 #### 35:11 · [[035 Fatir]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Allāh created you from dust, then from a sperm-drop; then He made you mates. And no female conceives nor does she give birth except with His knowledge. And no aged person is granted [additional] life nor is his lifespan lessened but that it is in a register. Indeed, that for Allāh is easy.
 
 **English (Yusuf Ali):** And Allah did create you from dust; then from a sperm-drop; then He made you in pairs. And no female conceives, or lays down (her load), but with His knowledge. Nor is a man long-lived granted length of days, nor is a part cut off from his life, but is in a Decree (ordained). All this is easy to Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تم کو مٹی سے پیدا کیا پھر نطفے سے پھر تم کو جوڑا جوڑا بنا دیا۔ اور کوئی عورت نہ حاملہ ہوتی ہے اور نہ جنتی ہے مگر اس کے علم سے۔ اور نہ کسی بڑی عمر والے کو عمر زیادہ دی جاتی ہے اور نہ اس کی عمر کم کی جاتی ہے مگر (سب کچھ) کتاب میں (لکھا ہوا) ہے۔ بےشک یہ خدا کو آسان ہے
 
 [Open on Quran.com](https://quran.com/35/11)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We already know how much of them the earth takes away: With Us is a record guarding (the full account).
 
+**Urdu (Fatah Muhammad Jalandhari):** ان کے جسموں کو زمین جتنا (کھا کھا کر) کم کرتی جاتی ہے ہمیں معلوم ہے۔ اور ہمارے پاس تحریری یادداشت بھی ہے
+
 [Open on Quran.com](https://quran.com/50/4)
 
 #### 73:3 · [[073 Al-Muzzammil]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Half of it - or subtract from it a little
 
 **English (Yusuf Ali):** Half of it,- or a little less,
+
+**Urdu (Fatah Muhammad Jalandhari):** (قیام) آدھی رات (کیا کرو)
 
 [Open on Quran.com](https://quran.com/73/3)
 

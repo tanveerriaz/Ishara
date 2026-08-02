@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:17 · [[004 An-Nisa]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The repentance accepted by Allāh is only for those who do wrong in ignorance [or carelessness] and then repent soon [after]. It is those to whom Allāh will turn in forgiveness, and Allāh is ever Knowing and Wise.
 
 **English (Yusuf Ali):** Allah accept the repentance of those who do evil in ignorance and repent soon afterwards; to them will Allah turn in mercy: For Allah is full of knowledge and wisdom.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا انہیں لوگوں کی توبہ قبول فرماتا ہے جو نادانی سے بری حرکت کر بیٹھے ہیں۔ پھر جلد توبہ قبول کرلیتے ہیں پس ایسے لوگوں پر خدا مہربانی کرتا ہے۔ اور وہ سب کچھ جانتا (اور) حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/4/17)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When those come to thee who believe in Our signs, Say: "Peace be on you: Your Lord hath inscribed for Himself (the rule of) mercy: verily, if any of you did evil in ignorance, and thereafter repented, and amend (his conduct), lo! He is Oft-forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تمہارے پاس ایسے لوگ آیا کریں جو ہماری آیتوں پر ایمان لاتے ہیں تو (ان سے) سلام علیکم کہا کرو خدا نے اپنی ذات (پاک) پر رحمت کو لازم کرلیا ہے کہ جو کوئی تم میں نادانی سے کوئی بری حرکت کر بیٹھے پھر اس کے بعد توبہ کرلے اور نیکوکار ہوجائے تو وہ بخشنے والا مہربان ہے
+
 [Open on Quran.com](https://quran.com/6/54)
 
 #### 16:119 · [[016 An-Nahl]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But verily thy Lord,- to those who do wrong in ignorance, but who thereafter repent and make amends,- thy Lord, after all this, is Oft-Forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر جن لوگوں نے نادانی سے برا کام کیا۔ پھر اس کے بعد توبہ کی اور نیکوکار ہوگئے تو تمہارا پروردگار (ان کو) توبہ کرنے اور نیکوکار ہوجانے کے بعد بخشنے والا اور ان پر رحمت کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/16/119)
 
 #### 49:6 · [[049 Al-Hujurat]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, if there comes to you a disobedient one with information, investigate, lest you harm a people out of ignorance and become, over what you have done, regretful.
 
 **English (Yusuf Ali):** O ye who believe! If a wicked person comes to you with any news, ascertain the truth, lest ye harm people unwittingly, and afterwards become full of repentance for what ye have done.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اگر کوئی بدکردار تمہارے پاس کوئی خبر لے کر آئے تو خوب تحقیق کرلیا کرو (مبادا) کہ کسی قوم کو نادانی سے نقصان پہنچا دو۔ پھر تم کو اپنے کئے پر نادم ہونا پڑے
 
 [Open on Quran.com](https://quran.com/49/6)
 

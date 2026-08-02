@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:103 · [[003 Ali Imran]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And hold firmly to the rope of Allāh all together and do not become divided. And remember the favor of Allāh upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allāh make clear to you His verses that you may be guided.
 
 **English (Yusuf Ali):** And hold fast, all together, by the rope which Allah (stretches out for you), and be not divided among yourselves; and remember with gratitude Allah's favour on you; for ye were enemies and He joined your hearts in love, so that by His Grace, ye became brethren; and ye were on the brink of the pit of Fire, and He saved you from it. Thus doth Allah make His Signs clear to you: That ye may be guided.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور سب مل کر خدا کی (ہدایت کی رسی) کو مضبوط پکڑے رہنا اور متفرق نہ ہونا اور خدا کی اس مہربانی کو یاد کرو جب تم ایک دوسرے کے دشمن تھے تو اس نے تمہارے دلوں میں الفت ڈال دی اور تم اس کی مہربانی سے بھائی بھائی ہوگئے اور تم آگ کے گڑھے کے کنارے تک پہنچ چکے تھے تو خدا نے تم کو اس سے بچا لیا اس طرح خدا تم کو اپنی آیتیں کھول کھول کر سناتا ہے تاکہ تم ہدایت پاؤ
 
 [Open on Quran.com](https://quran.com/3/103)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Shame is pitched over them (Like a tent) wherever they are found, except when under a covenant (of protection) from Allah and from men; they draw on themselves wrath from Allah, and pitched over them is (the tent of) destitution. This because they rejected the Signs of Allah, and slew the prophets in defiance of right; this because they rebelled and transgressed beyond bounds.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ جہاں نظر آئیں گے ذلت (کو دیکھو گے کہ) ان سے چمٹ رہی ہے بجز اس کے کہ یہ خدا اور (مسلمان) لوگوں کی پناہ میں آ جائیں اور یہ لوگ خدا کے غضب میں گرفتار ہیں اور ناداری ان سے لپٹ رہی ہے یہ اس لیے کہ خدا کی آیتوں سے انکار کرتےتھے اور (اس کے) پیغمبروں کو ناحق قتل کر دیتے تھے یہ اس لیے کہ یہ نافرمانی کیے جاتے اور حد سے بڑھے جاتے تھے
+
 [Open on Quran.com](https://quran.com/3/112)
 
 #### 20:66 · [[020 Taha]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "Rather, you throw." And suddenly their ropes and staffs seemed to him from their magic that they were moving [like snakes].
 
 **English (Yusuf Ali):** He said, "Nay, throw ye first!" Then behold their ropes and their rods-so it seemed to him on account of their magic - began to be in lively motion!
+
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا نہیں تم ہی ڈالو۔ (جب انہوں نے چیزیں ڈالیں) تو ناگہاں ان کی رسیاں اور لاٹھیاں موسی کے خیال میں ایسی آنے لگیں کہ وہ (میدان) میں ادھر اُدھر دوڑ رہی ہیں
 
 [Open on Quran.com](https://quran.com/20/66)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So they threw their ropes and their rods, and said: "By the might of Pharaoh, it is we who will certainly win!"
 
+**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے اپنی رسیاں اور لاٹھیاں ڈالیں اور کہنے لگے کہ فرعون کے اقبال کی قسم ہم ضرور غالب رہیں گے
+
 [Open on Quran.com](https://quran.com/26/44)
 
 #### 50:16 · [[050 Qaf]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It was We Who created man, and We know what dark suggestions his soul makes to him: for We are nearer to him than (his) jugular vein.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہی نے انسان کو پیدا کیا ہے اور جو خیالات اس کے دل میں گزرتے ہیں ہم ان کو جانتے ہیں۔ اور ہم اس کی رگ جان سے بھی اس سے زیادہ قریب ہیں
+
 [Open on Quran.com](https://quran.com/50/16)
 
 #### 111:5 · [[111 Al-Masad]]
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Around her neck is a rope of [twisted] fiber.
 
 **English (Yusuf Ali):** A twisted rope of palm-leaf fibre round her (own) neck!
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کے گلے میں مونج کی رسّی ہو گی
 
 [Open on Quran.com](https://quran.com/111/5)
 

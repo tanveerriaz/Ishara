@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sw> - swa]]
+- [[sw> - become evil]]
 
 ### Meaning
 **shame** · Lemma **سَوْءَة**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 5:31 · [[005 Al-Maidah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then Allāh sent a crow searching [i.e., scratching] in the ground to show him how to hide the disgrace of his brother. He said, "O woe to me! Have I failed to be like this crow and hide the disgrace [i.e., body] of my brother?" And he became of the regretful.
 
 **English (Yusuf Ali):** Then Allah sent a raven, who scratched the ground, to show him how to hide the shame of his brother. "Woe is me!" said he; "Was I not even able to be as this raven, and to hide the shame of my brother?" then he became full of regrets-
+
+**Urdu (Fatah Muhammad Jalandhari):** اب خدا نے ایک کوّا بھیجا جو زمین کریدنے لگا تاکہ اسے دکھائے کہ اپنے بھائی کی لاش کو کیونکر چھپائے کہنے لگا اے ہے مجھ سے اتنا بھی نہ ہو سکا کہ اس کوے کے برابر ہوتا کہ اپنے بھائی کی لاش چھپا دیتا پھر وہ پشیمان ہوا
 
 [Open on Quran.com](https://quran.com/5/31)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then began Satan to whisper suggestions to them, bringing openly before their minds all their shame that was hidden from them (before): he said: "Your Lord only forbade you this tree, lest ye should become angels or such beings as live for ever."
 
+**Urdu (Fatah Muhammad Jalandhari):** تو شیطان دونوں کو بہکانے لگا تاکہ ان کی ستر کی چیزیں جو ان سے پوشیدہ تھیں کھول دے اور کہنے لگا کہ تم کو تمہارے پروردگار نے اس درخت سے صرف اس لیے منع کیا ہے کہ کہ تم فرشتے نہ بن جاؤ یا ہمیشہ جیتے نہ رہو
+
 [Open on Quran.com](https://quran.com/7/20)
 
 #### 7:22 · [[007 Al-Araf]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, "Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?"
 
 **English (Yusuf Ali):** So by deceit he brought about their fall: when they tasted of the tree, their shame became manifest to them, and they began to sew together the leaves of the garden over their bodies. And their Lord called unto them: "Did I not forbid you that tree, and tell you that Satan was an avowed enemy unto you?"
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض (مردود نے) دھوکہ دے کر ان کو (معصیت کی طرف) کھینچ ہی لیا جب انہوں نے اس درخت (کے پھل) کو کھا لیا تو ان کی ستر کی چیزیں کھل گئیں اور وہ بہشت کے (درختوں کے) پتے توڑ توڑ کر اپنے اوپر چپکانے لگے اور (ستر چھپانے لگے) تب ان کے پروردگار نے ان کو پکارا کہ کیا میں نے تم کو اس درخت (کے پاس جانے) سے منع نہیں کیا تھا اور جتا نہیں دیا تھا کہ شیطان تمہارا کھلم کھلا دشمن ہے
 
 [Open on Quran.com](https://quran.com/7/22)
 
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye Children of Adam! We have bestowed raiment upon you to cover your shame, as well as to be an adornment to you. But the raiment of righteousness,- that is the best. Such are among the Signs of Allah, that they may receive admonition!
 
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی آدم ہم نے تم پر پوشاک اتاری کہ تمہارا ستر ڈھانکے اور (تمہارے بدن کو) زینت (دے) اور (جو) پرہیزگاری کا لباس (ہے) وہ سب سے اچھا ہے۔ یہ خدا کی نشانیاں ہیں تاکہ لوگ نصحیت پکڑ یں
+
 [Open on Quran.com](https://quran.com/7/26)
 
 #### 7:27 · [[007 Al-Araf]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye Children of Adam! Let not Satan seduce you, in the same manner as He got your parents out of the Garden, stripping them of their raiment, to expose their shame: for he and his tribe watch you from a position where ye cannot see them: We made the evil ones friends (only) to those without faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی آدم (دیکھنا کہیں) شیطان تمہیں بہکا نہ دے جس طرح تمہارے ماں باپ کو (بہکا کر) بہشت سے نکلوا دیا اور ان سے ان کے کپڑے اتروا دیئے تاکہ ان کے ستر ان کو کھول کر دکھا دے۔ وہ اور اس کے بھائی تم کو ایسی جگہ سے دیکھتے رہے ہیں جہاں سے تم ان کو نہیں دیکھ سکتے ہم نے شیطانوں کو انہیں لوگوں کا رفیق کار بنایا ہے جو ایمان نہیں رکھتے
+
 [Open on Quran.com](https://quran.com/7/27)
 
 #### 20:121 · [[020 Taha]]
@@ -121,6 +131,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they [i.e., Adam and his wife] ate of it, and their private parts became apparent to them, and they began to fasten over themselves from the leaves of Paradise. And Adam disobeyed his Lord and erred.
 
 **English (Yusuf Ali):** In the result, they both ate of the tree, and so their nakedness appeared to them: they began to sew together, for their covering, leaves from the Garden: thus did Adam disobey his Lord, and allow himself to be seduced.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو دونوں نے اس درخت کا پھل کھا لیا تو ان پر ان کی شرمگاہیں ظاہر ہوگئیں اور وہ اپنے (بدنوں) پر بہشت کے پتّے چپکانے لگے۔ اور آدم نے اپنے پروردگار کے حکم خلاف کیا تو (وہ اپنے مطلوب سے) بےراہ ہو گئے
 
 [Open on Quran.com](https://quran.com/20/121)
 

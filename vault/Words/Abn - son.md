@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:49 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We saved you [i.e., your forefathers] from the people of Pharaoh, who afflicted you with the worst torment, slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.
 
 **English (Yusuf Ali):** And remember, We delivered you from the people of Pharaoh: They set you hard tasks and punishments, slaughtered your sons and let your women-folk live; therein was a tremendous trial from your Lord.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (ہمارے ان احسانات کو یاد کرو) جب ہم نے تم کو قومِ فرعون سے نجات بخشی وہ (لوگ) تم کو بڑا دکھ دیتے تھے تمہارے بیٹوں کو تو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
 
 [Open on Quran.com](https://quran.com/2/49)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We gave Moses the Book and followed him up with a succession of messengers; We gave Jesus the son of Mary Clear (Signs) and strengthened him with the holy spirit. Is it that whenever there comes to you a messenger with what ye yourselves desire not, ye are puffed up with pride?- Some ye called impostors, and others ye slay!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو کتاب عنایت کی اور ان کے پیچھے یکے بعد دیگرے پیغمبر بھیجتے رہے اور عیسیٰ بن مریم کو کھلے نشانات بخشے اور روح القدس (یعنی جبرئیل) سے ان کو مدد دی۔تو جب کوئی پیغمبر تمہارے پاس ایسی باتیں لے کر آئے، جن کو تمہارا جی نہیں چاہتا تھا، تو تم سرکش ہو جاتے رہے، اور ایک گروہ (انبیاء) کو تو جھٹلاتے رہے اور ایک گروہ کو قتل کرتے رہے
+
 [Open on Quran.com](https://quran.com/2/87)
 
 #### 2:146 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those to whom We gave the Scripture know him [i.e., Prophet Muḥammad (ﷺ)] as they know their own sons. But indeed, a party of them conceal the truth while they know [it].
 
 **English (Yusuf Ali):** The people of the Book know this as they know their own sons; but some of them conceal the truth which they themselves know.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں کو ہم نے کتاب دی ہے، وہ ان (پیغمبر آخرالزماں) کو اس طرح پہچانتے ہیں، جس طرح اپنے بیٹوں کو پہچانا کرتے ہیں، مگر ایک فریق ان میں سے سچی بات کو جان بوجھ کر چھپا رہا ہے
 
 [Open on Quran.com](https://quran.com/2/146)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+
 [Open on Quran.com](https://quran.com/2/177)
 
 #### 2:215 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They ask you, [O Muḥammad], what they should spend. Say, "Whatever you spend of good is [to be] for parents and relatives and orphans and the needy and the traveler. And whatever you do of good - indeed, Allāh is Knowing of it."
 
 **English (Yusuf Ali):** They ask thee what they should spend (In charity). Say: Whatever ye spend that is good, is for parents and kindred and orphans and those in want and for wayfarers. And whatever ye do that is good, -Allah knoweth it well.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے پوچھتے ہیں کہ (خدا کی راہ میں) کس طرح کا مال خرچ کریں۔ کہہ دو کہ (جو چاہو خرچ کرو لیکن) جو مال خرچ کرنا چاہو وہ (درجہ بدرجہ اہل استحقاق یعنی) ماں باپ اور قریب کے رشتے داروں کو اور یتیموں کو اور محتاجوں کو اور مسافروں کو (سب کو دو) اور جو بھلائی تم کرو گے خدا اس کو جانتا ہے
 
 [Open on Quran.com](https://quran.com/2/215)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Hast thou not Turned thy vision to the Chiefs of the Children of Israel after (the time of) Moses? they said to a prophet (That was) among them: "Appoint for us a king, that we May fight in the cause of Allah." He said: "Is it not possible, if ye were commanded to fight, that that ye will not fight?" They said: "How could we refuse to fight in the cause of Allah, seeing that we were turned out of our homes and our families?" but when they were commanded to fight, they turned back, except a small band among them. But Allah Has full knowledge of those who do wrong.
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے بنی اسرائیل کی ایک جماعت کو نہیں دیکھا جس نے موسیٰ کے بعد اپنے پیغمبر سے کہا کہ آپ ہمارے لئے ایک بادشاہ مقرر کردیں تاکہ ہم خدا کی راہ میں جہاد کریں۔ پیغمبر نے کہا کہ اگر تم کو جہاد کا حکم دیا جائے تو عجب نہیں کہ لڑنے سے پہلو تہی کرو۔ وہ کہنے لگے کہ ہم راہ خدا میں کیوں نہ لڑیں گے جب کہ ہم وطن سے (خارج) اور بال بچوں سے جدا کردیئے گئے۔ لیکن جب ان کو جہاد کا حکم دیا گیا تو چند اشخاص کے سوا سب پھر گئے۔ اور خدا ظالموں سے خوب واقف ہے
+
 [Open on Quran.com](https://quran.com/2/246)
 
 #### 2:253 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those messengers - some of them We caused to exceed others. Among them were those to whom Allāh spoke, and He raised some of them in degree. And We gave Jesus, the son of Mary, clear proofs, and We supported him with the Pure Spirit [i.e., Gabriel]. If Allāh had willed, those [generations] succeeding them would not have fought each other after the clear proofs had come to them. But they differed, and some of them believed and some of them disbelieved. And if Allāh had willed, they would not have fought each other, but Allāh does what He intends.
 
 **English (Yusuf Ali):** Those messengers We endowed with gifts, some above others: To one of them Allah spoke; others He raised to degrees (of honour); to Jesus the son of Mary We gave clear (Signs), and strengthened him with the holy spirit. If Allah had so willed, succeeding generations would not have fought among each other, after clear (Signs) had come to them, but they (chose) to wrangle, some believing and others rejecting. If Allah had so willed, they would not have fought each other; but Allah Fulfilleth His plan.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ پیغمبر (جو ہم وقتاً فوقتاً بھیجتے رہیں ہیں) ان میں سے ہم نے بعض کو بعض پر فضیلت دی ہے۔ بعض ایسے ہیں جن سے خدا نے گفتگو فرمائی اور بعض کے (دوسرے امور میں) مرتبے بلند کئے۔ اور عیسیٰ بن مریم کو ہم نے کھلی ہوئی نشانیاں عطا کیں اور روح القدس سے ان کو مدد دی۔ اور اگر خداچاہتا تو ان سے پچھلے لوگ اپنے پاس کھلی نشانیاں آنے کے بعد آپس میں نہ لڑتے لیکن انہوں نے اختلاف کیا تو ان میں سے بعض تو ایمان لے آئے اور بعض کافر ہی رہے۔ اور اگر خدا چاہتا تو یہ لوگ باہم جنگ و قتال نہ کرتے۔ لیکن خدا جو چاہتا ہے کرتا ہے
 
 [Open on Quran.com](https://quran.com/2/253)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! the angels said: "O Mary! Allah giveth thee glad tidings of a Word from Him: his name will be Christ Jesus, the son of Mary, held in honour in this world and the Hereafter and of (the company of) those nearest to Allah;
 
+**Urdu (Fatah Muhammad Jalandhari):** (وہ وقت بھی یاد کرنے کے لائق ہے) جب فرشتوں نے (مریم سے کہا) کہ مریم خدا تم کو اپنی طرف سے ایک فیض کی بشارت دیتا ہے جس کا نام مسیح (اور مشہور) عیسیٰ ابن مریم ہوگا (اور) جو دنیا اور آخرت میں باآبرو اور (خدا کے) خاصوں میں سے ہوگا
+
 [Open on Quran.com](https://quran.com/3/45)
 
 #### 3:61 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If any one disputes in this matter with thee, now after (full) knowledge Hath come to thee, say: "Come! let us gather together,- our sons and your sons, our women and your women, ourselves and yourselves: Then let us earnestly pray, and invoke the curse of Allah on those who lie!"
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر اگر یہ لوگ عیسیٰ کے بارے میں تم سے جھگڑا کریں اور تم کو حقیقت الحال تو معلوم ہو ہی چلی ہے تو ان سے کہنا کہ آؤ ہم اپنے بیٹوں اور عورتوں کو بلائیں تم اپنے بیٹوں اور عورتوں کو بلاؤ اور ہم خود بھی آئیں اور تم خود بھی آؤ پھر دونوں فریق (خدا سے) دعا والتجا کریں اور جھوٹوں پر خدا کی لعنت بھیجیں
+
 [Open on Quran.com](https://quran.com/3/61)
 
 #### 4:11 · [[004 An-Nisa]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh instructs you concerning your children [i.e., their portions of inheritance]: for the male, what is equal to the share of two females. But if there are [only] daughters, two or more, for them is two thirds of one's estate. And if there is only one, for her is half. And for one's parents, to each one of them is a sixth of his estate if he left children. But if he had no children and the parents [alone] inherit from him, then for his mother is one third. And if he had brothers [and/or sisters], for his mother is a sixth, after any bequest he [may have] made or debt. Your parents or your children - you know not which of them are nearest to you in benefit. [These shares are] an obligation [imposed] by Allāh. Indeed, Allāh is ever Knowing and Wise.
 
 **English (Yusuf Ali):** Allah (thus) directs you as regards your Children's (Inheritance): to the male, a portion equal to that of two females: if only daughters, two or more, their share is two-thirds of the inheritance; if only one, her share is a half. For parents, a sixth share of the inheritance to each, if the deceased left children; if no children, and the parents are the (only) heirs, the mother has a third; if the deceased Left brothers (or sisters) the mother has a sixth. (The distribution in all cases ('s) after the payment of legacies and debts. Ye know not whether your parents or your children are nearest to you in benefit. These are settled portions ordained by Allah; and Allah is All-knowing, Al-wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری اولاد کے بارے میں تم کو ارشاد فرماتا ہے کہ ایک لڑکے کا حصہ دو لڑکیوں کے حصے کے برابر ہے۔ اور اگر اولاد میت صرف لڑکیاں ہی ہوں (یعنی دو یا) دو سے زیادہ تو کل ترکے میں ان کادو تہائی۔ اور اگر صرف ایک لڑکی ہو تو اس کا حصہ نصف۔ اور میت کے ماں باپ کا یعنی دونوں میں سے ہر ایک کا ترکے میں چھٹا حصہ بشرطیکہ میت کے اولاد ہو۔ اور اگر اولاد نہ ہو اور صرف ماں باپ ہی اس کے وارث ہوں تو ایک تہائی ماں کا حصہ۔ اور اگر میت کے بھائی بھی ہوں تو ماں کا چھٹا حصہ۔ (اور یہ تقسیم ترکہ میت کی) وصیت (کی تعمیل) کے بعد جو اس نے کی ہو یا قرض کے (ادا ہونے کے بعد جو اس کے ذمے ہو عمل میں آئے گی) تم کو معلوم نہیں کہ تمہارے باپ دادؤں اور بیٹوں پوتوں میں سے فائدے کے لحاظ سے کون تم سے زیادہ قریب ہے، یہ حصے خدا کے مقرر کئے ہوئے ہیں اور خدا سب کچھ جاننے والا اور حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/4/11)
 

@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:282 · [[002 Al-Baqarah]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, when you contract a debt for a specified term, write it down. And let a scribe write [it] between you in justice. Let no scribe refuse to write as Allāh has taught him. So let him write and let the one who has the obligation [i.e., the debtor] dictate. And let him fear Allāh, his Lord, and not leave anything out of it. But if the one who has the obligation is of limited understanding or weak or unable to dictate himself, then let his guardian dictate in justice. And bring to witness two witnesses from among your men. And if there are not two men [available], then a man and two women from those whom you accept as witnesses - so that if one of them [i.e., the women] errs, then the other can remind her. And let not the witnesses refuse when they are called upon. And do not be [too] weary to write it, whether it is small or large, for its [specified] term. That is more just in the sight of Allāh and stronger as evidence and more likely to prevent doubt between you, except when it is an immediate transaction which you conduct among yourselves. For [then] there is no blame upon you if you do not write it. And take witnesses when you conclude a contract. Let no scribe be harmed or any witness. For if you do so, indeed, it is [grave] disobedience in you. And fear Allāh. And Allāh teaches you. And Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah; For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/2/282)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But if ye decide to take one wife in place of another, even if ye had given the latter a whole treasure for dower, Take not the least bit of it back: Would ye take it by slander and manifest wrong?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم ایک عورت کو چھوڑ کر دوسری عورت کرنی چاہو۔ اور پہلی عورت کو بہت سال مال دے چکے ہو تو اس میں سے کچھ مت لینا۔ بھلا تم ناجائز طور پر اور صریح ظلم سے اپنا مال اس سے واپس لے لوگے؟
+
 [Open on Quran.com](https://quran.com/4/20)
 
 #### 8:7 · [[008 Al-Anfal]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Remember, O believers], when Allāh promised you one of the two groups - that it would be yours - and you wished that the unarmed one would be yours. But Allāh intended to establish the truth by His words and to eliminate the disbelievers
 
 **English (Yusuf Ali):** Behold! Allah promised you one of the two (enemy) parties, that it should be yours: Ye wished that the one unarmed should be yours, but Allah willed to justify the Truth according to His words and to cut off the roots of the Unbelievers;-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس وقت کو یاد کرو) جب خدا تم سے وعدہ کرتا تھا کہ (ابوسفیان اور ابوجہل کے) دو گروہوں میں سے ایک گروہ تمہارا (مسخر) ہوجائے گا۔ اور تم چاہتے تھے کہ جو قافلہ بے (شان و) شوکت (یعنی بے ہتھیار ہے) وہ تمہارے ہاتھ آجائے اور خدا چاہتا تھا کہ اپنے فرمان سے حق کو قائم رکھے اور کافروں کی جڑ کاٹ کر (پھینک) دے
 
 [Open on Quran.com](https://quran.com/8/7)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Can you expect for us (any fate) other than one of two glorious things- (Martyrdom or victory)? But we can expect for you either that Allah will send his punishment from Himself, or by our hands. So wait (expectant); we too will wait with you."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ تم ہمارے حق میں دو بھلائیوں میں سے ایک کے منتظر ہو اور ہم تمہارے حق میں اس بات کے منتظر ہیں کہ خدا (یا تو) اپنے پاس سے تم پر کوئی عذاب نازل کرے یا ہمارے ہاتھوں سے (عذاب دلوائے) تو تم بھی انتظار کرو ہم بھی تمہارے ساتھ انتظار کرتے ہیں
+
 [Open on Quran.com](https://quran.com/9/52)
 
 #### 28:25 · [[028 Al-Qasas]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then one of the two women came to him walking with shyness. She said, "Indeed, my father invites you that he may reward you for having watered for us." So when he came to him and related to him the story, he said, "Fear not. You have escaped from the wrongdoing people."
 
 **English (Yusuf Ali):** Afterwards one of the (damsels) came (back) to him, walking bashfully. She said: "My father invites thee that he may reward thee for having watered (our flocks) for us." So when he came to him and narrated the story, he said: "Fear thou not: (well) hast thou escaped from unjust people."
+
+**Urdu (Fatah Muhammad Jalandhari):** (تھوڑی دیر کے بعد) ان میں سے ایک عورت جو شرماتی اور لجاتی چلی آتی تھی۔ موسٰی کے پاس آئی اور کہنے لگی کہ تم کو میرے والد بلاتے ہیں کہ تم نے جو ہمارے لئے پانی پلایا تھا اس کی تم کو اُجرت دیں۔ جب وہ اُن کے پاس آئے اور اُن سے اپنا ماجرا بیان کیا تو اُنہوں نے کہا کہ کچھ خوف نہ کرو۔ تم ظالم لوگوں سے بچ آئے ہو
 
 [Open on Quran.com](https://quran.com/28/25)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Said one of the (damsels): "O my (dear) father! engage him on wages: truly the best of men for thee to employ is the (man) who is strong and trusty"....
 
+**Urdu (Fatah Muhammad Jalandhari):** ایک لڑکی بولی کہ ابّا ان کو نوکر رکھ لیجئے کیونکہ بہتر نوکر جو آپ رکھیں وہ ہے (جو) توانا اور امانت دار (ہو)
+
 [Open on Quran.com](https://quran.com/28/26)
 
 #### 28:27 · [[028 Al-Qasas]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "Indeed, I wish to wed you one of these, my two daughters, on [the condition] that you serve me for eight years; but if you complete ten, it will be [as a favor] from you. And I do not wish to put you in difficulty. You will find me, if Allāh wills, from among the righteous."
 
 **English (Yusuf Ali):** He said: "I intend to wed one of these my daughters to thee, on condition that thou serve me for eight years; but if thou complete ten years, it will be (grace) from thee. But I intend not to place thee under a difficulty: thou wilt find me, indeed, if Allah wills, one of the righteous."
+
+**Urdu (Fatah Muhammad Jalandhari):** اُنہوں نے( موسٰی سے) کہا کہ میں چاہتا ہوں اپنی دو بیٹیوں میں سے ایک کو تم سے بیاہ دوں اس عہد پر کہ تم آٹھ برس میری خدمت کرو اور اگر دس سال پورے کر دو تو تمہاری طرف سے (احسان) ہے اور میں تم پر تکلیف ڈالنی نہیں چاہتا۔ مجھے انشاء الله نیک لوگوں میں پاؤ گے
 
 [Open on Quran.com](https://quran.com/28/27)
 
@@ -159,6 +173,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They swore their strongest oaths by Allah that if a warner came to them, they would follow his guidance better than any (other) of the Peoples: But when a warner came to them, it has only increased their flight (from righteousness),-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر ان کے پاس کوئی ہدایت کرنے والا آئے تو ہر ایک اُمت سے بڑھ کر ہدایت پر ہوں۔ مگر جب ان کے پاس ہدایت کرنے والا آیا تو اس سے ان کو نفرت ہی بڑھی
+
 [Open on Quran.com](https://quran.com/35/42)
 
 #### 49:9 · [[049 Al-Hujurat]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If two parties among the Believers fall into a quarrel, make ye peace between them: but if one of them transgresses beyond bounds against the other, then fight ye (all) against the one that transgresses until it complies with the command of Allah; but if it complies, then make peace between them with justice, and be fair: for Allah loves those who are fair (and just).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر مومنوں میں سے کوئی دو فریق آپس میں لڑ پڑیں تو ان میں صلح کرا دو۔ اور اگر ایک فریق دوسرے پر زیادتی کرے تو زیادتی کرنے والے سے لڑو یہاں تک کہ وہ خدا کے حکم کی طرف رجوع لائے۔ پس جب وہ رجوع لائے تو وہ دونوں فریق میں مساوات کے ساتھ صلح کرا دو اور انصاف سے کام لو۔ کہ خدا انصاف کرنے والوں کو پسند کرتا ہے
+
 [Open on Quran.com](https://quran.com/49/9)
 
 #### 74:35 · [[074 Al-Muddaththir]]
@@ -190,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, it [i.e., the Fire] is of the greatest [afflictions].
 
 **English (Yusuf Ali):** This is but one of the mighty (portents),
+
+**Urdu (Fatah Muhammad Jalandhari):** کہ وہ (آگ) ایک بہت بڑی (آفت) ہے
 
 [Open on Quran.com](https://quran.com/74/35)
 

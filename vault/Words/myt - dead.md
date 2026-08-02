@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:28 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** How can you disbelieve in Allāh when you were lifeless and He brought you to life; then He will cause you to die, then He will bring you [back] to life, and then to Him you will be returned.
 
 **English (Yusuf Ali):** How can ye reject the faith in Allah?- seeing that ye were without life, and He gave you life; then will He cause you to die, and will again bring you to life; and again to Him will ye return.
+
+**Urdu (Fatah Muhammad Jalandhari):** (کافرو!) تم خدا سے کیوں کر منکر ہو سکتے ہو جس حال میں کہ تم بےجان تھے تو اس نے تم کو جان بخشی پھر وہی تم کو مارتا ہے پھر وہی تم کو زندہ کرے گا پھر تم اسی کی طرف لوٹ کر جاؤ گے
 
 [Open on Quran.com](https://quran.com/2/28)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So We said: "Strike the (body) with a piece of the (heifer)." Thus Allah bringeth the dead to life and showeth you His Signs: Perchance ye may understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے کہا کہ اس بیل کا کوئی سا ٹکڑا مقتول کو مارو۔ اس طرح خدا مردوں کو زندہ کرتا ہے اور تم کو اپنی (قدرت کی) نشانیاں دکھاتا ہے تاکہ تم سمجھو
+
 [Open on Quran.com](https://quran.com/2/73)
 
 #### 2:154 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not say about those who are killed in the way of Allāh, "They are dead." Rather, they are alive, but you perceive [it] not.
 
 **English (Yusuf Ali):** And say not of those who are slain in the way of Allah: "They are dead." Nay, they are living, though ye perceive (it) not.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا کی راہ میں مارے جائیں ان کی نسبت یہ کہنا کہ وہ مرے ہوئے ہیں (وہ مردہ نہیں) بلکہ زندہ ہیں لیکن تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/2/154)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When Abraham said: "Show me, Lord, how You will raise the dead, " He replied: "Have you no faith?" He said "Yes, but just to reassure my heart." Allah said, "Take four birds, draw them to you, and cut their bodies to pieces. Scatter them over the mountain-tops, then call them back. They will come swiftly to you. Know that Allah is Mighty, Wise."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے (خدا سے) کہا کہ اے پروردگار مجھے دکھا کہ تو مردوں کو کیونکر زندہ کرے گا۔ خدا نے فرمایا کیا تم نے (اس بات کو) باور نہیں کیا۔ انہوں نے کہا کیوں نہیں۔ لیکن (میں دیکھنا) اس لئے (چاہتا ہوں) کہ میرا دل اطمینان کامل حاصل کرلے۔ خدا نے فرمایا کہ چار جانور پکڑوا کر اپنے پاس منگا لو (اور ٹکڑے ٹکڑے کرادو) پھر ان کا ایک ٹکڑا ہر ایک پہاڑ پر رکھوا دو پھر ان کو بلاؤ تو وہ تمہارے پاس دوڑتے چلے آئیں گے۔ اور جان رکھو کہ خدا غالب اور صاحب حکمت ہے۔
+
 [Open on Quran.com](https://quran.com/2/260)
 
 #### 3:27 · [[003 Ali Imran]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** You cause the night to enter the day, and You cause the day to enter the night; and You bring the living out of the dead, and You bring the dead out of the living. And You give provision to whom You will without account [i.e., limit or measure]."
 
 **English (Yusuf Ali):** "Thou causest the night to gain on the day, and thou causest the day to gain on the night; Thou bringest the Living out of the dead, and Thou bringest the dead out of the Living; and Thou givest sustenance to whom Thou pleasest, without measure."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہی رات کو دن میں داخل کرتا اور تو ہی دن کو رات میں داخل کرتا ہے تو ہی بے جان سے جاندار پیدا کرتا ہے اور تو ہی جاندار سے بے جان پیدا کرتا ہے اور توہی جس کو چاہتا ہے بے شمار رزق بخشتا ہے
 
 [Open on Quran.com](https://quran.com/3/27)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And (appoint him) a messenger to the Children of Israel, (with this message): "'I have come to you, with a Sign from your Lord, in that I make for you out of clay, as it were, the figure of a bird, and breathe into it, and it becomes a bird by Allah's leave: And I heal those born blind, and the lepers, and I quicken the dead, by Allah's leave; and I declare to you what ye eat, and what ye store in your houses. Surely therein is a Sign for you if ye did believe;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (عیسیٰ) بنی اسرائیل کی طرف پیغمبر (ہو کر جائیں گے اور کہیں گے) کہ میں تمہارے پروردگار کی طرف سے نشانی لے کر آیا ہوں وہ یہ کہ تمہارے سامنے مٹی کی مورت بشکل پرند بناتا ہوں پھر اس میں پھونک مارتا ہوں تو وہ خدا کے حکم سے (سچ مچ) جانور ہو جاتا ہے اور اندھے اور ابرص کو تندرست کر دیتا ہوں اور خدا کے حکم سے مردے میں جان ڈال دیتا ہوں اور جو کچھ تم کھا کر آتے ہو اور جو اپنے گھروں میں جمع کر رکھتے ہو سب تم کو بتا دیتا ہوں اگر تم صاحب ایمان ہو تو ان باتوں میں تمہارے لیے (قدرت خدا کی) نشانی ہے
+
 [Open on Quran.com](https://quran.com/3/49)
 
 #### 3:169 · [[003 Ali Imran]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And never think of those who have been killed in the cause of Allāh as dead. Rather, they are alive with their Lord, receiving provision,
 
 **English (Yusuf Ali):** Think not of those who are slain in Allah's way as dead. Nay, they live, finding their sustenance in the presence of their Lord;
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کی راہ میں مارے گئے ان کو مرے ہوئے نہ سمجھنا (وہ مرے ہوئے نہیں ہیں) بلکہ خدا کے نزدیک زندہ ہیں اور ان کو رزق مل رہا ہے
 
 [Open on Quran.com](https://quran.com/3/169)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then will Allah say: "O Jesus the son of Mary! Recount My favour to thee and to thy mother. Behold! I strengthened thee with the holy spirit, so that thou didst speak to the people in childhood and in maturity. Behold! I taught thee the Book and Wisdom, the Law and the Gospel and behold! thou makest out of clay, as it were, the figure of a bird, by My leave, and thou breathest into it and it becometh a bird by My leave, and thou healest those born blind, and the lepers, by My leave. And behold! thou bringest forth the dead by My leave. And behold! I did restrain the Children of Israel from (violence to) thee when thou didst show them the clear Signs, and the unbelievers among them said: 'This is nothing but evident magic.'
 
+**Urdu (Fatah Muhammad Jalandhari):** جب خدا (عیسیٰ سے) فرمائے گا کہ اے عیسیٰ بن مریم! میرے ان احسانوں کو یاد کرو جو میں نے تم پر اور تمہاری والدہ پر کئے جب میں نے روح القدس (یعنی جبرئیل) سے تمہاری مدد کی تم جھولے میں اور جوان ہو کر (ایک ہی نسق پر) لوگوں سے گفتگو کرتے تھے اور جب میں نے تم کو کتاب اور دانائی اور تورات اور انجیل سکھائی اور جب تم میرے حکم سے مٹی کا جانور بنا کر اس میں پھونک مار دیتے تھے تو وہ میرے حکم سے اڑنے لگتا تھا اور مادر زاد اندھے اور سفید داغ والے کو میرے حکم سے چنگا کر دیتے تھے اور مردے کو میرے حکم سے (زندہ کرکے قبر سے) نکال کھڑا کرتے تھے اور جب میں نے بنی اسرائیل (کے ہاتھوں) کو تم سے روک دیا جب تم ان کے پاس کھلے نشان لے کر آئے تو جو ان میں سے کافر تھے کہنے لگے کہ یہ صریح جادو ہے
+
 [Open on Quran.com](https://quran.com/5/110)
 
 #### 6:36 · [[006 Al-Anam]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who listen (in truth), be sure, will accept: as to the dead, Allah will raise them up; then will they be turned unto Him.
 
+**Urdu (Fatah Muhammad Jalandhari):** بات یہ ہے کہ (حق کو) قبول وہی کرتے ہیں جو سنتے بھی ہیں اور مردوں کو تو خدا (قیامت ہی کو) اٹھائے گا۔ پھر اسی کی طرف لوٹ کر جائیں گے
+
 [Open on Quran.com](https://quran.com/6/36)
 
 #### 6:95 · [[006 Al-Anam]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Allāh is the cleaver of grain and date seeds. He brings the living out of the dead and brings the dead out of the living. That is Allāh; so how are you deluded?
 
 **English (Yusuf Ali):** It is Allah Who causeth the seed-grain and the date-stone to split and sprout. He causeth the living to issue from the dead, and He is the one to cause the dead to issue from the living. That is Allah: then how are ye deluded away from the truth?
+
+**Urdu (Fatah Muhammad Jalandhari):** بے شک خدا ہی دانے اور گٹھلی کو پھاڑ کر (ان سے درخت وغیرہ) اگاتا ہے وہی جاندار کو بے جان سے نکالتا ہے اور وہی بےجان کا جاندار سے نکالنے والا ہے۔ یہی تو خدا ہے۔ پھر تم کہاں بہکے پھرتے ہو
 
 [Open on Quran.com](https://quran.com/6/95)
 

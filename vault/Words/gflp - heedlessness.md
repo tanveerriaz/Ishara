@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[gfl - gfl]]
+- [[gfl - unaware]]
 
 ### Meaning
 **heedlessness** · Lemma **غَفْلَة**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 19:39 · [[019 Maryam]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And warn them, [O Muḥammad], of the Day of Regret, when the matter will be concluded; and [yet], they are in [a state of] heedlessness, and they do not believe.
 
 **English (Yusuf Ali):** But warn them of the Day of Distress, when the matter will be determined: for (behold,) they are negligent and they do not believe!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو حسرت (وافسوس) کے دن سے ڈراؤ جب بات فیصل کردی جائے گی۔ اور (ہیہات) وہ غفلت میں (پڑے ہوئے ہیں) اور ایمان نہیں لاتے
 
 [Open on Quran.com](https://quran.com/19/39)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Closer and closer to mankind comes their Reckoning: yet they heed not and they turn away.
 
+**Urdu (Fatah Muhammad Jalandhari):** لوگوں کا حساب (اعمال کا وقت) نزدیک آپہنچا ہے اور وہ غفلت میں (پڑے اس سے) منہ پھیر رہے ہیں
+
 [Open on Quran.com](https://quran.com/21/1)
 
 #### 21:97 · [[021 Al-Anbya]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [when] the true promise [i.e., the resurrection] has approached; then suddenly the eyes of those who disbelieved will be staring [in horror, while they say], "O woe to us; we had been unmindful of this; rather, we were wrongdoers."
 
 **English (Yusuf Ali):** Then will the true promise draw nigh (of fulfilment): then behold! the eyes of the Unbelievers will fixedly stare in horror: "Ah! Woe to us! we were indeed heedless of this; nay, we truly did wrong!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (قیامت کا) سچا وعدہ قریب آجائے تو ناگاہ کافروں کی آنکھیں کھلی کی کھلی رہ جائیں (اور کہنے لگیں کہ) ہائے شامت ہم اس (حال) سے غفلت میں رہے بلکہ (اپنے حق میں) ظالم تھے
 
 [Open on Quran.com](https://quran.com/21/97)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And he entered the city at a time when its people were not watching: and he found there two men fighting,- one of his own religion, and the other, of his foes. Now the man of his own religion appealed to him against his foe, and Moses struck him with his fist and made an end of him. He said: "This is a work of Evil (Satan): for he is an enemy that manifestly misleads!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ ایسے وقت شہر میں داخل ہوئے کہ وہاں کے باشندے بےخبر ہو رہے تھے تو دیکھا کہ وہاں دو شخص لڑ رہے تھے ایک تو موسٰی کی قوم کا ہے اور دوسرا اُن کے دشمنوں میں سے تو جو شخص اُن کی قوم میں سے تھا اس نے دوسرے شخص کے مقابلے میں جو موسٰی کے دشمنوں میں سے تھا مدد طلب کی تو اُنہوں نے اس کو مکا مارا اور اس کا کام تمام کر دیا کہنے لگے کہ یہ کام تو (اغوائے) شیطان سے ہوا بیشک وہ (انسان کا) دشمن اور صریح بہکانے والا ہے
+
 [Open on Quran.com](https://quran.com/28/15)
 
 #### 50:22 · [[050 Qaf]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [It will be said], "You were certainly in unmindfulness of this, and We have removed from you your cover, so your sight, this Day, is sharp."
 
 **English (Yusuf Ali):** (It will be said:) "Thou wast heedless of this; now have We removed thy veil, and sharp is thy sight this Day!"
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ وہ دن ہے کہ) اس سے تو غافل ہو رہا تھا۔ اب ہم نے تجھ پر سے پردہ اُٹھا دیا۔ تو آج تیری نگاہ تیز ہے
 
 [Open on Quran.com](https://quran.com/50/22)
 

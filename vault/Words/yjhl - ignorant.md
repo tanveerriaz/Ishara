@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:111 · [[006 Al-Anam]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And even if We had sent down to them the angels [with the message] and the dead spoke to them [of it] and We gathered together every [created] thing in front of them, they would not believe unless Allāh should will. But most of them, [of that], are ignorant.
 
 **English (Yusuf Ali):** Even if We did send unto them angels, and the dead did speak unto them, and We gathered together all things before their very eyes, they are not the ones to believe, unless it is in Allah's plan. But most of them ignore (the truth).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم ان پر فرشتے بھی اتار دیتے اور مردے بھی ان سے گفتگو کرنے لگتے اور ہم سب چیزوں کو ان کے سامنے لا موجود بھی کر دیتے تو بھی یہ ایمان لانے والے نہ تھے اِلّا ماشائالله بات یہ ہے کہ یہ اکثر نادان ہیں
 
 [Open on Quran.com](https://quran.com/6/111)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We took the Children of Israel (with safety) across the sea. They came upon a people devoted entirely to some idols they had. They said: "O Moses! fashion for us a god like unto the gods they have." He said: "Surely ye are a people without knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بنی اسرائیل کو دریا کے پار اتارا تو وہ ایسے لوگوں کے پاس جا پہنچے جو اپنے بتوں (کی عبادت) کے لیے بیٹھے رہتے تھے۔ (بنی اسرائیل) کہنے لگے کہ موسیٰ جیسے ان لوگوں کے معبود ہیں۔ ہمارے لیے بھی ایک معبود بنا دو۔ موسیٰ نے کہا کہ تم بڑے ہی جاہل لوگ ہو
+
 [Open on Quran.com](https://quran.com/7/138)
 
 #### 11:29 · [[011 Hud]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And O my people, I ask not of you for it any wealth. My reward is not but from Allāh. And I am not one to drive away those who have believed. Indeed, they will meet their Lord, but I see that you are a people behaving ignorantly.
 
 **English (Yusuf Ali):** "And O my people! I ask you for no wealth in return: my reward is from none but Allah: But I will not drive away (in contempt) those who believe: for verily they are to meet their Lord, and ye I see are the ignorant ones!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اے قوم! میں اس (نصیحت) کے بدلے تم سے مال وزر کا خواہاں نہیں ہوں، میرا صلہ تو خدا کے ذمے ہے اور جو لوگ ایمان لائے ہیں، میں ان کو نکالنے والا بھی نہیں ہوں۔ وہ تو اپنے پروردگار سے ملنے والے ہیں لیکن میں دیکھتا ہوں کہ تم لوگ نادانی کر رہے ہو
 
 [Open on Quran.com](https://quran.com/11/29)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Would ye really approach men in your lusts rather than women? Nay, ye are a people (grossly) ignorant!
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم عورتوں کو چھوڑ کر (لذت حاصل کرنے) کے لئے مردوں کی طرف مائل ہوتے ہو۔ حقیقت یہ ہے کہ تم احمق لوگ ہو
+
 [Open on Quran.com](https://quran.com/27/55)
 
 #### 46:23 · [[046 Al-Ahqaf]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "Knowledge [of its time] is only with Allāh, and I convey to you that with which I was sent; but I see you [to be] a people behaving ignorantly."
 
 **English (Yusuf Ali):** He said: "The Knowledge (of when it will come) is only with Allah: I proclaim to you the mission on which I have been sent: But I see that ye are a people in ignorance!"..
+
+**Urdu (Fatah Muhammad Jalandhari):** (انہوں نے) کہا کہ (اس کا) علم تو خدا ہی کو ہے۔ اور میں تو جو (احکام)دے کر بھیجا گیا ہوں وہ تمہیں پہنچا رہا ہوں لیکن میں دیکھتا ہوں کہ تم لوگ نادانی میں پھنس رہے ہو
 
 [Open on Quran.com](https://quran.com/46/23)
 

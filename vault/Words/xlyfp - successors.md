@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xlf - khlf]]
+- [[xlf - come after]]
 
 ### Meaning
 **successors** · Lemma **خَلِيفَة**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:30 · [[002 Al-Baqarah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when your Lord said to the angels, "Indeed, I will make upon the earth a successive authority." They said, "Will You place upon it one who causes corruption therein and sheds blood, while we exalt You with praise and declare Your perfection?" He [Allāh] said, "Indeed, I know that which you do not know."
 
 **English (Yusuf Ali):** Behold, thy Lord said to the angels: "I will create a vicegerent on earth." They said: "Wilt Thou place therein one who will make mischief therein and shed blood?- whilst we do celebrate Thy praises and glorify Thy holy (name)?" He said: "I know what ye know not."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (وہ وقت یاد کرنے کے قابل ہے) جب تمہارے پروردگار نے فرشتوں سے فرمایا کہ میں زمین میں (اپنا) نائب بنانے والا ہوں۔ انہوں نے کہا۔ کیا تُو اس میں ایسے شخص کو نائب بنانا چاہتا ہے جو خرابیاں کرے اور کشت وخون کرتا پھرے اور ہم تیری تعریف کے ساتھ تسبیح وتقدیس کرتے رہتے ہیں۔ (خدا نے) فرمایا میں وہ باتیں جانتا ہوں جو تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/2/30)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who hath made you (His) agents, inheritors of the earth: He hath raised you in ranks, some above others: that He may try you in the gifts He hath given you: for thy Lord is quick in punishment: yet He is indeed Oft-forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے زمین میں تم کو اپنا نائب بنایا اور ایک کے دوسرے پر درجے بلند کئے تاکہ جو کچھ اس نے تمہیں بخشا ہے اس میں تمہاری آزمائش ہے بےشک تمہارا پروردگار جلد عذاب دینے والا ہے اور بےشک وہ بخشنے والا مہربان بھی ہے
+
 [Open on Quran.com](https://quran.com/6/165)
 
 #### 7:69 · [[007 Al-Araf]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed."
 
 **English (Yusuf Ali):** "Do ye wonder that there hath come to you a message from your Lord through a man of your own people, to warn you? call in remembrance that He made you inheritors after the people of Noah, and gave you a stature tall among the nations. Call in remembrance the benefits (ye have received) from Allah: that so ye may prosper."
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم کو اس بات سے تعجب ہوا ہے کہ تم میں سے ایک شخص کے ہاتھ تمہارے پروردگار کی طرف سے تمہارے پاس نصیحت آئی تاکہ وہ تمہیں ڈرائے اور یاد کرو تو کرو جب اس نے تم کو قوم نوح کے بعد سردار بنایا۔ اور تم کو پھیلاؤ زیادہ دیا۔ پس خدا کی نعمتوں کو یاد کرو۔ تاکہ نجات حاصل کرو
 
 [Open on Quran.com](https://quran.com/7/69)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And remember how He made you inheritors after the 'Ad people and gave you habitations in the land: ye build for yourselves palaces and castles in (open) plains, and carve out homes in the mountains; so bring to remembrance the benefits (ye have received) from Allah, and refrain from evil and mischief on the earth."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یاد تو کرو جب اس نے تم کو قوم عاد کے بعد سردار بنایا اور زمین پر آباد کیا کہ نرم زمین سے (مٹی لے لے کر) محل تعمیر کرتے ہو اور پہاڑوں کو تراش تراش کر گھر بناتے ہو۔ پس خدا کی نعمتوں کو یاد کرو اور زمین میں فساد نہ کرتے پھرو
+
 [Open on Quran.com](https://quran.com/7/74)
 
 #### 10:14 · [[010 Yunus]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then We made you successors in the land after them so that We may observe how you will do.
 
 **English (Yusuf Ali):** Then We made you heirs in the land after them, to see how ye would behave!
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے ان کے بعد تم لوگوں کو ملک میں خلیفہ بنایا تاکہ دیکھیں تم کیسے کام کرتے ہو
 
 [Open on Quran.com](https://quran.com/10/14)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They rejected Him, but We delivered him, and those with him, in the Ark, and We made them inherit (the earth), while We overwhelmed in the flood those who rejected Our Signs. Then see what was the end of those who were warned (but heeded not)!
 
+**Urdu (Fatah Muhammad Jalandhari):** لیکن ان لوگوں نے ان کی تکذیب کی تو ہم نے ان کو اور جو لوگ ان کے ساتھ کشتی میں سوار تھے سب کو (طوفان سے) بچا لیا اور انہیں (زمین میں) خلیفہ بنادیا اور جن لوگوں نے ہماری آیتوں کو جھٹلایا ان کو غرق کر دیا تو دیکھ لو کہ جو لوگ ڈرائے گئے تھے ان کا کیا انجام ہوا
+
 [Open on Quran.com](https://quran.com/10/73)
 
 #### 27:62 · [[027 An-Naml]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Is He [not best] who responds to the desperate one when he calls upon Him and removes evil and makes you inheritors of the earth? Is there a deity with Allāh? Little do you remember.
 
 **English (Yusuf Ali):** Or, Who listens to the (soul) distressed when it calls on Him, and Who relieves its suffering, and makes you (mankind) inheritors of the earth? (Can there be another) god besides Allah? Little it is that ye heed!
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا کون بیقرار کی التجا قبول کرتا ہے۔ جب وہ اس سے دعا کرتا ہے اور (کون اس کی) تکلیف کو دور کرتا ہے اور (کون) تم کو زمین میں (اگلوں کا) جانشین بناتا ہے (یہ سب کچھ خدا کرتا ہے) تو کیا خدا کے ساتھ کوئی اور معبود بھی ہے (ہرگز نہیں مگر) تم بہت کم غور کرتے ہو
 
 [Open on Quran.com](https://quran.com/27/62)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He it is That has made you inheritors in the earth: if, then, any do reject (Allah), their rejection (works) against themselves: their rejection but adds to the odium for the Unbelievers in the sight of their Lord: their rejection but adds to (their own) undoing.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم کو زمین میں (پہلوں کا) جانشین بنایا۔ تو جس نے کفر کیا اس کے کفر کا ضرر اسی کو ہے۔ اور کافروں کے حق میں ان کے کفر سے پروردگار کے ہاں ناخوشی ہی بڑھتی ہے اور کافروں کو ان کا کفر نقصان ہی زیادہ کرتا ہے
+
 [Open on Quran.com](https://quran.com/35/39)
 
 #### 38:26 · [[038 Sad]]
@@ -173,6 +189,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [We said], "O David, indeed We have made you a successor upon the earth, so judge between the people in truth and do not follow [your own] desire, as it will lead you astray from the way of Allāh." Indeed, those who go astray from the way of Allāh will have a severe punishment for having forgotten the Day of Account.
 
 **English (Yusuf Ali):** O David! We did indeed make thee a vicegerent on earth: so judge thou between men in truth (and justice): Nor follow thou the lusts (of thy heart), for they will mislead thee from the Path of Allah: for those who wander astray from the Path of Allah, is a Penalty Grievous, for that they forget the Day of Account.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے داؤد ہم نے تم کو زمین میں بادشاہ بنایا ہے تو لوگوں میں انصاف کے فیصلے کیا کرو اور خواہش کی پیروی نہ کرنا کہ وہ تمہیں خدا کے رستے سے بھٹکا دے گی۔ جو لوگ خدا کے رستے سے بھٹکتے ہیں ان کے لئے سخت عذاب (تیار) ہے کہ انہوں نے حساب کے دن کو بھلا دیا
 
 [Open on Quran.com](https://quran.com/38/26)
 

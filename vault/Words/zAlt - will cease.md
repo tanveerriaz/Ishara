@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[zyl - zyl]]
+- [[zyl - separate remove something]]
 
 ### Meaning
 **will cease** · Lemma **زالَت**
@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:217 · [[002 Al-Baqarah]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They ask you about the sacred month - about fighting therein. Say, "Fighting therein is great [sin], but averting [people] from the way of Allāh and disbelief in Him and [preventing access to] al-Masjid al-Ḥarām and the expulsion of its people therefrom are greater [evil] in the sight of Allāh. And fitnah is greater than killing." And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire; they will abide therein eternally.
 
 **English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
 
 [Open on Quran.com](https://quran.com/2/217)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But because of their breach of their covenant, We cursed them, and made their hearts grow hard; they change the words from their (right) places and forget a good part of the message that was sent them, nor wilt thou cease to find them- barring a few - ever bent on (new) deceits: but forgive them, and overlook (their misdeeds): for Allah loveth those who are kind.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں کے عہد توڑ دینے کے سبب ہم نے ان پر لعنت کی اور ان کے دلوں کو سخت کر دیا یہ لوگ کلمات (کتاب) کو اپنے مقامات سے بدل دیتے ہیں اور جن باتوں کی ان کو نصیحت کی گئی تھی ان کا بھی ایک حصہ فراموش کر بیٹھے اور تھوڑے آدمیوں کے سوا ہمیشہ تم ان کی (ایک نہ ایک) خیانت کی خبر پاتے رہتے ہو تو ان کی خطائیں معاف کردو اور (ان سے) درگزر کرو کہ خدا احسان کرنے والوں کو دوست رکھتا ہے
+
 [Open on Quran.com](https://quran.com/5/13)
 
 #### 9:110 · [[009 At-Tawbah]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Their building which they built will not cease to be a [cause of] skepticism in their hearts until their hearts are cut [i.e., stopped]. And Allāh is Knowing and Wise.
 
 **English (Yusuf Ali):** The foundation of those who so build is never free from suspicion and shakiness in their hearts, until their hearts are cut to pieces. And Allah is All-Knowing, Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ عمارت جو انہوں نے بنائی ہے ہمیشہ ان کے دلوں میں (موجب) خلجان رہے گی (اور ان کو متردد رکھے گی) مگر یہ کہ ان کے دل پاش پاش ہو جائیں اور خدا جاننے والا اور حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/9/110)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If thy Lord had so willed, He could have made mankind one people: but they will not cease to dispute.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تمہارا پروردگار چاہتا تو تمام لوگوں کو ایک ہی جماعت کردیتا لیکن وہ ہمیشہ اختلاف کرتے رہیں گے
+
 [Open on Quran.com](https://quran.com/11/118)
 
 #### 13:31 · [[013 Ar-Rad]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if there was any Qur’ān [i.e., recitation] by which the mountains would be removed or the earth would be broken apart or the dead would be made to speak, [it would be this Qur’ān], but to Allāh belongs the affair entirely. Then have those who believed not accepted that had Allāh willed, He would have guided the people, all of them? And those who disbelieve do not cease to be struck, for what they have done, by calamity - or it will descend near their home - until there comes the promise of Allāh. Indeed, Allāh does not fail in [His] promise.
 
 **English (Yusuf Ali):** If there were a Qur'an with which mountains were moved, or the earth were cloven asunder, or the dead were made to speak, (this would be the one!) But, truly, the command is with Allah in all things! Do not the Believers know, that, had Allah (so) willed, He could have guided all mankind (to the right)? But the Unbelievers,- never will disaster cease to seize them for their (ill) deeds, or to settle close to their homes, until the promise of Allah come to pass, for, verily, Allah will not fail in His promise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر کوئی قرآن ایسا ہوتا کہ اس (کی تاثیر) سے پہاڑ چل پڑتے یا زمین پھٹ جاتی یا مردوں سے کلام کرسکتے۔ (تو یہی قرآن ان اوصاف سے متصف ہوتا مگر) بات یہ ہے کہ سب باتیں خدا کے اختیار میں ہیں تو کیا مومنوں کو اس سے اطمینان نہیں ہوا کہ اگر خدا چاہتا تو سب لوگوں کو ہدایت کے رستے پر چلا دیتا۔ اور کافروں پر ہمیشہ ان کے اعمال کے بدلے بلا آتی رہے گی یا ان کے مکانات کے قریب نازل ہوتی رہے گی یہاں تک کہ خدا کا وعدہ آپہنچے۔ بےشک خدا وعدہ خلاف نہیں کرتا
 
 [Open on Quran.com](https://quran.com/13/31)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And that cry of theirs ceased not, till We made them as a field that is mown, as ashes silent and quenched.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو وہ ہمیشہ اسی طرح پکارتے رہے یہاں تک کہ ہم نے ان کو (کھیتی کی طرح) کاٹ کر (اور آگ کی طرح) بجھا کر ڈھیر کردیا
+
 [Open on Quran.com](https://quran.com/21/15)
 
 #### 22:55 · [[022 Al-Hajj]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who reject Faith will not cease to be in doubt concerning (Revelation) until the Hour (of Judgment) comes suddenly upon them, or there comes to them the Penalty of a Day of Disaster.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر لوگ ہمیشہ اس سے شک میں رہیں گے یہاں تک کہ قیامت ان پر ناگہاں آجائے یا ایک نامبارک دن کا عذاب ان پر واقع ہو
+
 [Open on Quran.com](https://quran.com/22/55)
 
 #### 40:34 · [[040 Ghafir]]
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Joseph had already come to you before with clear proofs, but you remained in doubt of that which he brought to you, until when he died, you said, 'Never will Allāh send a messenger after him.' Thus does Allāh leave astray he who is a transgressor and skeptic."
 
 **English (Yusuf Ali):** "And to you there came Joseph in times gone by, with Clear Signs, but ye ceased not to doubt of the (Mission) for which he had come: At length, when he died, ye said: 'No messenger will Allah send after him.' thus doth Allah leave to stray such as transgress and live in doubt,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور پہلے یوسف بھی تمہارے پاس نشانیاں لے کر آئے تھے تو جو وہ لائے تھے اس سے تم ہمیشہ شک ہی میں رہے۔ یہاں تک کہ جب وہ فوت ہوگئے تو تم کہنے لگے کہ خدا اس کے بعد کبھی کوئی پیغمبر نہیں بھیجے گا۔ اسی طرح خدا اس شخص کو گمراہ کر دیتا ہے جو حد سے نکل جانے والا اور شک کرنے والا ہو
 
 [Open on Quran.com](https://quran.com/40/34)
 

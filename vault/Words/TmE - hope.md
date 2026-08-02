@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[TmE - tme]]
+- [[TmE - covet desire something]]
 
 ### Meaning
 **hope** · Lemma **طَمَع**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:56 · [[007 Al-Araf]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allāh is near to the doers of good.
 
 **English (Yusuf Ali):** Do no mischief on the earth, after it hath been set in order, but call on Him with fear and longing (in your hearts): for the Mercy of Allah is (always) near to those who do good.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ملک میں اصلاح کے بعد خرابی نہ کرنا اور خدا سے خوف کرتے ہوئے اور امید رکھ کر دعائیں مانگتے رہنا۔ کچھ شک نہیں کہ خدا کی رحمت نیکی کرنے والوں سے قریب ہے
 
 [Open on Quran.com](https://quran.com/7/56)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who doth show you the lightning, by way both of fear and of hope: It is He Who doth raise up the clouds, heavy with (fertilising) rain!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو تم کو ڈرانے اور امید دلانے کے لیے بجلی دکھاتا اور بھاری بھاری بادل پیدا کرتا ہے
+
 [Open on Quran.com](https://quran.com/13/12)
 
 #### 30:24 · [[030 Ar-Rum]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And among His Signs, He shows you the lightning, by way both of fear and of hope, and He sends down rain from the sky and with it gives life to the earth after it is dead: verily in that are Signs for those who are wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی کے نشانات (اور تصرفات) میں سے ہے کہ تم کو خوف اور اُمید دلانے کے لئے بجلی دکھاتا ہے اور آسمان سے مینھہ برساتا ہے۔ پھر زمین کو اس کے مر جانے کے بعد زندہ (و شاداب) کر دیتا ہے۔ عقل والوں کے لئے ان (باتوں) میں (بہت سی) نشانیاں ہیں
+
 [Open on Quran.com](https://quran.com/30/24)
 
 #### 32:16 · [[032 As-Sajdah]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Their sides part [i.e., they arise] from [their] beds; they supplicate their Lord in fear and aspiration, and from what We have provided them, they spend.
 
 **English (Yusuf Ali):** Their limbs do forsake their beds of sleep, the while they call on their Lord, in Fear and Hope: and they spend (in charity) out of the sustenance which We have bestowed on them.
+
+**Urdu (Fatah Muhammad Jalandhari):** اُن کے پہلو بچھونوں سے الگ رہتے ہیں (اور) وہ اپنے پروردگار کو خوف اور اُمید سے پکارتے اور جو (مال) ہم نے اُن کو دیا ہے اس میں سے خرچ کرتے ہیں
 
 [Open on Quran.com](https://quran.com/32/16)
 

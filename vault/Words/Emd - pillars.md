@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 13:2 · [[013 Ar-Rad]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is Allāh who erected the heavens without pillars that you [can] see; then He established Himself above the Throne and made subject the sun and the moon, each running [its course] for a specified term. He arranges [each] matter; He details the signs that you may, of the meeting with your Lord, be certain.
 
 **English (Yusuf Ali):** Allah is He Who raised the heavens without any pillars that ye can see; is firmly established on the throne (of authority); He has subjected the sun and the moon (to his Law)! Each one runs (its course) for a term appointed. He doth regulate all affairs, explaining the signs in detail, that ye may believe with certainty in the meeting with your Lord.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا وہی تو ہے جس نے ستونوں کے بغیر آسمان جیسا کہ تم دیکھتے ہو (اتنے) اونچے بنائے۔ پھر عرش پر جا ٹھہرا اور سورج اور چاند کو کام میں لگا دیا۔ ہر ایک ایک میعاد معین تک گردش کر رہا ہے۔ وہی (دنیا کے) کاموں کا انتظام کرتا ہے (اس طرح) وہ اپنی آیتیں کھول کھول کر بیان کرتا ہے کہ تم اپنے پروردگار کے روبرو جانے کا یقین کرو
 
 [Open on Quran.com](https://quran.com/13/2)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He created the heavens without any pillars that ye can see; He set on the earth mountains standing firm, lest it should shake with you; and He scattered through it beasts of all kinds. We send down rain from the sky, and produce on the earth every kind of noble creature, in pairs.
 
+**Urdu (Fatah Muhammad Jalandhari):** اُسی نے آسمانوں کو ستونوں کے بغیر پیدا کیا جیسا کہ تم دیکھتے ہو اور زمین پر پہاڑ (بنا کر) رکھ دیئے تاکہ تم کو ہلا ہلا نہ دے اور اس میں ہر طرح کے جانور پھیلا دیئے۔ اور ہم ہی نے آسمانوں سے پانی نازل کیا پھر (اُس سے) اس میں ہر قسم کی نفیس چیزیں اُگائیں
+
 [Open on Quran.com](https://quran.com/31/10)
 
 #### 104:9 · [[104 Al-Humazah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** In extended columns.
 
 **English (Yusuf Ali):** In columns outstretched.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی آگ کے) لمبے لمبے ستونوں میں
 
 [Open on Quran.com](https://quran.com/104/9)
 

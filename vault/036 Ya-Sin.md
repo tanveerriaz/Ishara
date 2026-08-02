@@ -18,79 +18,79 @@ Ya Sin · 83 ayahs
 - [[SyHp - shout]] — `صَيْحَة` · shout
 - [[>nq* - would saved]] — `أَنقَذَ` · would saved
 - [[ynbgy - appropriate]] — `يَنۢبَغِي` · appropriate
+- [[>Eln - they declare]] — `أَعْلَن` · they declare
+- [[>wqd - they kindled]] — `أَوْقَدُ` · they kindled
+- [[AbA' - forefathers]] — `آباء` · forefathers
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[Avnyn - two]] — `اثْنَيْن` · two
-- [[xtm - sealed]] — `خَتَمَ` · sealed
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[Zlm - wronged]] — `ظَلَمَ` · wronged
-- [[lyl - night]] — `لَيْل` · night
-- [[wAHdp - single]] — `واحِدَة` · single
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[Hyn - time]] — `حِين` · time
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[yd - hands]] — `يَد` · hands
-- [[vmr - its fruit]] — `ثَمَر` · its fruit
+- [[jmyE - all]] — `جَمِيع` · all
+- [[mrsl - messengers]] — `مُرْسَل` · messengers
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[EAd - aad]] — `عادَ` · aad
+- [[>rD - earth]] — `أَرْض` · earth
 - [[Adm - adam]] — `آدَم` · adam
-- [[lys - not]] — `لَيْسَ` · not
-- [[jnd - hosts]] — `جُند` · hosts
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[>nfq - spend]] — `أَنفَقَ` · spend
-- [[xlf - behind them]] — `خَلْف` · behind them
-- [[Eml - do]] — `عَمِلَ` · do
+- [[yEmr - granted life]] — `يُعَمَّرُ` · granted life
+- [[>grq - we drowned]] — `أُغْرِقُ` · we drowned
+- [[m$Hwn - laden]] — `مَشْحُون` · laden
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[vmr - its fruit]] — `ثَمَر` · its fruit
+- [[qmr - moon]] — `قَمَر` · moon
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[mrp - time]] — `مَرَّة` · time
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Hn - shhn]]
-- [[$Tn - shtn]]
+- [[$Hn - fill]]
+- [[$Tn - anything excessively proud]]
 - [[$fE - make something pair]]
-- [[$hd - shhd]]
-- [[$jr - shjr]]
-- [[$kr - shkr]]
+- [[$hd - witnessing]]
+- [[$jr - trees]]
+- [[$kr - gratitude]]
 - [[$ms - horse refusing ridden]]
-- [[$rb - shrb]]
+- [[$rb - drink]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[*ll - humiliation]]
 - [[*rr - scattering dispersing small]]
-- [[>bw - abw]]
-- [[>dm - adm]]
+- [[>bw - forefathers]]
+- [[>dm - seasoned food]]
 - [[>hl - people house]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
-- [[>rk - ark]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
+- [[>rk - person staying put]]
 - [[>ty - give]]
-- [[>vr - athr]]
-- [[>wl - like milk oil]]
+- [[>vr - trace]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[Drb - tent]]
+- [[Drb - strike beat]]
 - [[Drr - adversity]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edw - enemy]]
-- [[Ehd - ehd]]
+- [[Edw - turn]]
+- [[Ehd - protection safeguard]]
 - [[Elm - knowledge]]
 - [[Eln - make something open]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emr - life]]
-- [[Enb - enb]]
+- [[Enb - grapes]]
 - [[Enq - like summer age]]
-- [[Eql - eql]]
-- [[ErD - erd]]
-- [[Ewd - ewd]]
-- [[Eyn - eyn]]
+- [[Eql - withhold restrain]]
+- [[ErD - turn away]]
+- [[Ewd - aad]]
+- [[Eyn - eyes]]
 - [[Ezz - all-mighty]]
 
 ## Sample (ayah 1)

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fkh - fkh]]
+- [[fkh - eating fruit]]
 
 ### Meaning
 **fruits** · Lemma **فاكِهَة**
@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 36:57 · [[036 Ya-Sin]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For them therein is fruit, and for them is whatever they request [or wish]
 
 **English (Yusuf Ali):** (Every) fruit (enjoyment) will be there for them; they shall have whatever they call for;
+
+**Urdu (Fatah Muhammad Jalandhari):** وہاں ان کے لئے میوے اور جو چاہیں گے (موجود ہوگا)
 
 [Open on Quran.com](https://quran.com/36/57)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Therein will they recline (at ease): Therein can they call (at pleasure) for fruit in abundance, and (delicious) drink;
 
+**Urdu (Fatah Muhammad Jalandhari):** ان میں تکیٴے لگائے بیٹھے ہوں گے اور (کھانے پینے کے لئے) بہت سے میوے اور شراب منگواتے رہیں گے
+
 [Open on Quran.com](https://quran.com/38/51)
 
 #### 43:73 · [[043 Az-Zukhruf]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For you therein is much fruit from which you will eat.
 
 **English (Yusuf Ali):** Ye shall have therein abundance of fruit, from which ye shall have satisfaction.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہاں تمہارے لئے بہت سے میوے ہیں جن کو تم کھاؤ گے
 
 [Open on Quran.com](https://quran.com/43/73)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There can they call for every kind of fruit in peace and security;
 
+**Urdu (Fatah Muhammad Jalandhari):** وہاں خاطر جمع سے ہر قسم کے میوے منگوائیں گے (اور کھائیں گے)
+
 [Open on Quran.com](https://quran.com/44/55)
 
 #### 52:22 · [[052 At-Tur]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We will provide them with fruit and meat from whatever they desire.
 
 **English (Yusuf Ali):** And We shall bestow on them, of fruit and meat, anything they shall desire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس طرح کے میوے اور گوشت کو ان کا جی چاہے گا ہم ان کو عطا کریں گے
 
 [Open on Quran.com](https://quran.com/52/22)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Therein is fruit and date-palms, producing spathes (enclosing dates);
 
+**Urdu (Fatah Muhammad Jalandhari):** اس میں میوے اور کھجور کے درخت ہیں جن کے خوشوں پر غلاف ہوتے ہیں
+
 [Open on Quran.com](https://quran.com/55/11)
 
 #### 55:52 · [[055 Ar-Rahman]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** In both of them are of every fruit, two kinds.
 
 **English (Yusuf Ali):** In them will be Fruits of every kind, two and two.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان میں سب میوے دو دو قسم کے ہیں
 
 [Open on Quran.com](https://quran.com/55/52)
 
@@ -159,6 +173,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In them will be Fruits, and dates and pomegranates:
 
+**Urdu (Fatah Muhammad Jalandhari):** ان میں میوے اور کھجوریں اور انار ہیں
+
 [Open on Quran.com](https://quran.com/55/68)
 
 #### 56:20 · [[056 Al-Waqiah]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And with fruits, any that they may select:
 
+**Urdu (Fatah Muhammad Jalandhari):** اور میوے جس طرح کے ان کو پسند ہوں
+
 [Open on Quran.com](https://quran.com/56/20)
 
 #### 56:32 · [[056 Al-Waqiah]]
@@ -190,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And fruit, abundant [and varied],
 
 **English (Yusuf Ali):** And fruit in abundance.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور میوہ ہائے کثیرہ (کے باغوں) میں
 
 [Open on Quran.com](https://quran.com/56/32)
 

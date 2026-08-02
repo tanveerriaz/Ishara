@@ -15,80 +15,80 @@ The Man · 31 ayahs
 ## Words in this surah (graph)
 
 - [[fDp - silver]] — `فِضَّة` · silver
-- [[>TEm - feed]] — `أَطْعَمَ` · feed
 - [[TAf - will circulated]] — `طافَ` · will circulated
 - [[k>s - cup]] — `كَأْس` · cup
-- [[lyl - night]] — `لَيْل` · night
+- [[>TEm - feed]] — `أَطْعَمَ` · feed
 - [[wjh - faces]] — `وَجْه` · faces
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[Hyn - time]] — `حِين` · time
-- [[Hl - they will adorned]] — `حُلُّ` · they will adorned
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[$dd - we strengthened]] — `شَدَدْ` · we strengthened
-- [[n*r - vows]] — `نَذَرْ` · vows
-- [[lqY - it granted]] — `لَقَّى` · it granted
-- [[mtk} - reclining]] — `مُتَّكِئ` · reclining
 - [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[smyE - all-hearer]] — `سَمِيع` · all-hearer
-- [[fjrt - we caused gush]] — `فُجِّرَتْ` · we caused gush
-- [[Hsb - think]] — `حَسْب` · think
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
 - [[>tY - comes them]] — `أَتَى` · comes them
+- [[$A' - he wills]] — `شاءَ` · he wills
 - [[slslp - chains]] — `سِلْسِلَة` · chains
-- [[E*Ab - punishment]] — `عَذاب` · punishment
-- [[tqdyr - decree]] — `تَقْدِير` · decree
-- [[$Akr - grateful]] — `شاكِر` · grateful
+- [[Avm - sinful]] — `آثِم` · sinful
+- [[Hsb - think]] — `حَسْب` · think
+- [[rHmp - mercy]] — `رَحْمَة` · mercy
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[lqY - it granted]] — `لَقَّى` · it granted
+- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
+- [[smY - name them]] — `سَمَّى` · name them
+- [[EAly - its upside]] — `عالِي` · its upside
+- [[mvl - example]] — `مَثَل` · example
+- [[nEym - delight]] — `نَعِيم` · delight
+- [[$dd - we strengthened]] — `شَدَدْ` · we strengthened
+- [[EAjlp - immediate]] — `عاجِلَة` · immediate
+- [[wrA' - behind]] — `وَراء` · behind
+- [[$rAb - drink]] — `شَراب` · drink
+- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$kr - shkr]]
+- [[$kr - gratitude]]
 - [[$ms - horse refusing ridden]]
-- [[$rb - shrb]]
+- [[$rb - drink]]
 - [[$rr - sparks fire]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[*ll - humiliation]]
 - [[>Sl - foundational part something]]
-- [[>lm - alm]]
-- [[>ns - ans]]
-- [[>ny - any]]
-- [[>rk - ark]]
-- [[>sr - asr]]
+- [[>lm - painful]]
+- [[>ns - mankind]]
+- [[>ny - hours]]
+- [[>rk - person staying put]]
+- [[>sr - bind capture]]
 - [[>ty - give]]
-- [[>vm - athm]]
+- [[>vm - sin commit crime]]
 - [[>x* - take]]
-- [[E*b - edhb]]
+- [[E*b - motes particles floating]]
 - [[Ebd - worship]]
-- [[Ebs - ebs]]
+- [[Ebs - frown]]
 - [[Edd - count]]
-- [[Ejl - ejl]]
+- [[Ejl - incite cause someone]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Etd - etd]]
-- [[Eyn - eyn]]
+- [[Etd - preparation readiness]]
+- [[Eyn - eyes]]
 - [[Hbb - love]]
 - [[Hkm - prevent restrain someone]]
-- [[Hly - hly]]
-- [[Hrr - hrr]]
+- [[Hly - being sweet becoming]]
+- [[Hrr - heat]]
 - [[Hsb - number]]
 - [[Hyn - period time]]
 - [[Sbr - confine restrain]]
-- [[TEm - tem]]
-- [[Thr - thr]]
-- [[TwE - twe]]
-- [[Twf - twf]]
+- [[TEm - food]]
+- [[Thr - cleanse purify oneself]]
+- [[TwE - obey]]
+- [[Twf - go walk around]]
 - [[Twl - become long]]
 - [[Tyr - anything flies]]
 - [[Zll - shade cover]]
 - [[Zlm - put something wrong]]
 - [[allah - God]]
-- [[bSr - bsr]]
-- [[bdl - badala]]
-- [[bkr - bkr]]
-- [[blw - blw]]
-- [[brr - brr]]
+- [[bSr - mental perception]]
+- [[bdl - change alter]]
+- [[bkr - go forth come]]
+- [[blw - test try]]
+- [[brr - land]]
 - [[dnw - become near]]
 - [[dxl - enter]]
 - [[fDD - break]]

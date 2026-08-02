@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$hd - shhd]]
+- [[$hd - witnessing]]
 
 ### Meaning
 **witnesses** · Lemma **شاهِد**
@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:53 · [[003 Ali Imran]]
 
@@ -54,6 +54,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Our Lord, we have believed in what You revealed and have followed the messenger [i.e., Jesus], so register us among the witnesses [to truth]."
 
 **English (Yusuf Ali):** "Our Lord! we believe in what Thou hast revealed, and we follow the Messenger; then write us down among those who bear witness."
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار جو (کتاب) تو نے نازل فرمائی ہے ہم اس پر ایمان لے آئے اور (تیرے) پیغمبر کے متبع ہو چکے تو ہم کو ماننے والوں میں لکھ رکھ
 
 [Open on Quran.com](https://quran.com/3/53)
 
@@ -71,6 +73,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! Allah took the covenant of the prophets, saying: "I give you a Book and Wisdom; then comes to you a messenger, confirming what is with you; do ye believe in him and render him help." Allah said: "Do ye agree, and take this my Covenant as binding on you?" They said: "We agree." He said: "Then bear witness, and I am with you among the witnesses."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب خدا نے پیغمبروں سے عہد لیا کہ جب میں تم کو کتاب اور دانائی عطا کروں پھر تمہارے پاس کوئی پیغمبر آئے جو تمہاری کتاب کی تصدیق کرے تو تمھیں ضرور اس پر ایمان لانا ہوگا اور ضرور اس کی مدد کرنی ہوگی اور (عہد لینے کے بعد) پوچھا کہ بھلا تم نے اقرار کیا اور اس اقرار پر میرا ذمہ لیا (یعنی مجھے ضامن ٹہرایا) انہوں نے کہا (ہاں) ہم نے اقرار کیا (خدا نے) فرمایا کہ تم (اس عہد وپیمان کے) گواہ رہو اور میں بھی تمہارے ساتھ گواہ ہوں
+
 [Open on Quran.com](https://quran.com/3/81)
 
 #### 5:83 · [[005 Al-Maidah]]
@@ -86,6 +90,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they hear what has been revealed to the Messenger, you see their eyes overflowing with tears because of what they have recognized of the truth. They say, "Our Lord, we have believed, so register us among the witnesses.
 
 **English (Yusuf Ali):** And when they listen to the revelation received by the Messenger, thou wilt see their eyes overflowing with tears, for they recognise the truth: they pray: "Our Lord! we believe; write us down among the witnesses.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب اس (کتاب) کو سنتے ہیں جو (سب سے پہلے) پیغمبر (محمدﷺ) پر نازل ہوئی تو تم دیکھتے ہو کہ ان کی آنکھوں سے آنسو جاری ہو جاتے ہیں اس لیے کہ انہوں نے حق بات پہچان لی اور وہ (خدا کی جناب میں) عرض کرتے ہیں کہ اے پروردگار ہم ایمان لے آئے تو ہم کو ماننے والوں میں لکھ لے
 
 [Open on Quran.com](https://quran.com/5/83)
 
@@ -103,6 +109,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "We only wish to eat thereof and satisfy our hearts, and to know that thou hast indeed told us the truth; and that we ourselves may be witnesses to the miracle."
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ ہماری یہ خواہش ہے کہ ہم اس میں سے کھائیں اور ہمارے دل تسلی پائیں اور ہم جان لیں کہ تم نے ہم سے سچ کہا ہے اور ہم اس (خوان کے نزول) پر گواہ رہیں
+
 [Open on Quran.com](https://quran.com/5/113)
 
 #### 9:17 · [[009 At-Tawbah]]
@@ -118,6 +126,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is not for the polytheists to maintain the mosques of Allāh [while] witnessing against themselves with disbelief. [For] those, their deeds have become worthless, and in the Fire they will abide eternally.
 
 **English (Yusuf Ali):** It is not for such as join gods with Allah, to visit or maintain the mosques of Allah while they witness against their own souls to infidelity. The works of such bear no fruit: In Fire shall they dwell.
+
+**Urdu (Fatah Muhammad Jalandhari):** مشرکوں کی زیبا نہیں کہ خدا کی مسجدوں کو آباد کریں جب کہ وہ اپنے آپ پر کفر کی گواہی دے رہے ہیں۔ ان لوگوں کے سب اعمال بےکار ہیں اور یہ ہمیشہ دوزخ میں رہیں گے
 
 [Open on Quran.com](https://quran.com/9/17)
 
@@ -135,6 +145,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In whatever business thou mayest be, and whatever portion thou mayest be reciting from the Qur'an,- and whatever deed ye (mankind) may be doing,- We are witnesses thereof when ye are deeply engrossed therein. Nor is hidden from thy Lord (so much as) the weight of an atom on the earth or in heaven. And not the least and not the greatest of these things but are recorded in a clear record.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم جس حال میں ہوتے ہو یا قرآن میں کچھ پڑھتے ہو یا تم لوگ کوئی (اور) کام کرتے ہو جب اس میں مصروف ہوتے ہو ہم تمہارے سامنے ہوتے ہیں اور تمہارے پروردگار سے ذرہ برابر بھی کوئی چیز پوشیدہ نہیں ہے نہ زمین میں نہ آسمان میں اور نہ کوئی چیز اس سے چھوٹی ہے یا بڑی مگر کتاب روشن میں (لکھی ہوئی) ہے
+
 [Open on Quran.com](https://quran.com/10/61)
 
 #### 11:17 · [[011 Hud]]
@@ -150,6 +162,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So is one who [stands] upon a clear evidence from his Lord [like the aforementioned]? And a witness from Him follows it, and before it was the Scripture of Moses to lead and as mercy. Those [believers in the former revelations] believe in it [i.e., the Qur’ān]. But whoever disbelieves in it from the [various] factions - the Fire is his promised destination. So be not in doubt about it. Indeed, it is the truth from your Lord, but most of the people do not believe.
 
 **English (Yusuf Ali):** Can they be (like) those who accept a Clear (Sign) from their Lord, and whom a witness from Himself doth teach, as did the Book of Moses before it,- a guide and a mercy? They believe therein; but those of the Sects that reject it,- the Fire will be their promised meeting-place. Be not then in doubt thereon: for it is the truth from thy Lord: yet many among men do not believe!
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جو لوگ اپنے پروردگار کی طرف سے (روشن) دلیل رکھتے ہوں اور ان کے ساتھ ایک (آسمانی) گواہ بھی اس کی جانب سے ہو اور اس سے پہلے موسیٰ کی کتاب ہو جو پیشوا اور رحمت ہے (تو کیا وہ قرآن پر ایمان نہیں لائیں گے) یہی لوگ اس پر ایمان لاتے ہیں اور جو کوئی اور فرقوں میں سے اس سے منکر ہو تو اس کا ٹھکانہ آگ ہے۔ تو تم اس (قرآن) سے شک میں نہ ہونا۔ یہ تمہارے پروردگار کی طرف سے حق ہے لیکن اکثر لوگ ایمان نہیں لاتے
 
 [Open on Quran.com](https://quran.com/11/17)
 
@@ -167,6 +181,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Who doth more wrong than those who invent a lie against Allah? They will be turned back to the presence of their Lord, and the witnesses will say, "These are the ones who lied against their Lord! Behold! the Curse of Allah is on those who do wrong!-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے بڑھ کر ظالم کون ہوگا جو خدا پر جھوٹ افتراء کرے ایسے لوگ خدا کے سامنے پیش کئے جائیں گے اور گواہ کہیں گے کہ یہی لوگ ہیں جنہوں نے اپنے پروردگار پر جھوٹ بولا تھا۔ سن رکھو کہ ظالموں پر الله کی لعنت ہے
+
 [Open on Quran.com](https://quran.com/11/18)
 
 #### 12:26 · [[012 Yusuf]]
@@ -183,6 +199,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "It was she that sought to seduce me - from my (true) self." And one of her household saw (this) and bore witness, (thus):- "If it be that his shirt is rent from the front, then is her tale true, and he is a liar!
 
+**Urdu (Fatah Muhammad Jalandhari):** یوسف نے کہا اسی نے مجھ کو اپنی طرف مائل کرنا چاہا تھا۔ اس کے قبیلے میں سے ایک فیصلہ کرنے والے نے فیصلہ کیا کہ اگر اس کا کرتا آگے سے پھٹا تو یہ سچی اور یوسف جھوٹا
+
 [Open on Quran.com](https://quran.com/12/26)
 
 #### 21:56 · [[021 Al-Anbya]]
@@ -198,6 +216,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "[No], rather, your Lord is the Lord of the heavens and the earth who created them, and I, to that, am of those who testify.
 
 **English (Yusuf Ali):** He said, "Nay, your Lord is the Lord of the heavens and the earth, He Who created them (from nothing): and I am a witness to this (Truth).
+
+**Urdu (Fatah Muhammad Jalandhari):** (ابراہیم نے) کہا (نہیں) بلکہ تمہارا پروردگار آسمانوں اور زمین کا پروردگار ہے جس نے ان کو پیدا کیا ہے۔ اور میں اس (بات) کا گواہ (اور اسی کا قائل) ہوں
 
 [Open on Quran.com](https://quran.com/21/56)
 

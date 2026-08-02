@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:61 · [[002 Al-Baqarah]]
 
@@ -51,6 +51,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when you said, "O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions." [Moses] said, "Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked." And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing.
 
 **English (Yusuf Ali):** And remember ye said: "O Moses! we cannot endure one kind of food (always); so beseech thy Lord for us to produce for us of what the earth groweth, -its pot-herbs, and cucumbers, Its garlic, lentils, and onions." He said: "Will ye exchange the better for the worse? Go ye down to any town, and ye shall find what ye want!" They were covered with humiliation and misery; they drew on themselves the wrath of Allah. This because they went on rejecting the Signs of Allah and slaying His Messengers without just cause. This because they rebelled and went on transgressing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے کہا کہ موسیٰ! ہم سے ایک (ہی) کھانے پر صبر نہیں ہو سکتا تو اپنے پروردگار سے دعا کیجئے کہ ترکاری اور ککڑی اور گیہوں اور مسور اور پیاز (وغیرہ) جو نباتات زمین سے اُگتی ہیں، ہمارے لیے پیدا کر دے۔ انہوں نے کہا کہ بھلا عمدہ چیزیں چھوڑ کر ان کے عوض ناقص چیزیں کیوں چاہتے ہوں۔ (اگر یہی چیزیں مطلوب ہیں) تو کسی شہر میں جا اترو، وہاں جو مانگتے ہو، مل جائے گا۔ اور (آخرکار) ذلت (ورسوائی) اور محتاجی (وبے نوائی) ان سے چمٹا دی گئی اور وہ الله کے غضب میں گرفتار ہو گئے۔ یہ اس لیے کہ وہ الله کی آیتوں سے انکار کرتے تھے اور (اس کے) نبیوں کو ناحق قتل کر دیتے تھے۔ (یعنی) یہ اس لیے کہ نافرمانی کئے جاتے اور حد سے بڑھے جاتے تھے
 
 [Open on Quran.com](https://quran.com/2/61)
 
@@ -68,6 +70,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The parable of those who spend their substance in the way of Allah is that of a grain of corn: it groweth seven ears, and each ear Hath a hundred grains. Allah giveth manifold increase to whom He pleaseth: And Allah careth for all and He knoweth all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال خدا کی راہ میں خرچ کرتے ہیں ان (کے مال) کی مثال اس دانے کی سی ہے جس سے سات بالیں اگیں اور ہر ایک بال میں سو سو دانے ہوں اور خدا جس (کے مال) کو چاہتا ہے زیادہ کرتا ہے۔ وہ بڑی کشائش والا اور سب کچھ جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/2/261)
 
 #### 3:37 · [[003 Ali Imran]]
@@ -83,6 +87,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, "O Mary, from where is this [coming] to you?" She said, "It is from Allāh. Indeed, Allāh provides for whom He wills without account."
 
 **English (Yusuf Ali):** Right graciously did her Lord accept her: He made her grow in purity and beauty: To the care of Zakariya was she assigned. Every time that he entered (Her) chamber to see her, He found her supplied with sustenance. He said: "O Mary! Whence (comes) this to you?" She said: "From Allah: for Allah Provides sustenance to whom He pleases without measure."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو پروردگار نے اس کو پسندیدگی کے ساتھ قبول فرمایا اور اسے اچھی طرح پرورش کیا اور زکریا کو اس کا متکفل بنایا زکریا جب کبھی عبادت گاہ میں اس کے پاس جاتے تو اس کے پاس کھانا پاتے (یہ کیفیت دیکھ کر ایک دن مریم سے) پوچھنے لگے کہ مریم یہ کھانا تمہارے پاس کہاں سے آتا ہے وہ بولیں خدا کے ہاں سے (آتا ہے) بیشک خدا جسے چاہتا ہے بے شمار رزق دیتا ہے
 
 [Open on Quran.com](https://quran.com/3/37)
 
@@ -100,6 +106,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And the earth We have spread out (like a carpet); set thereon mountains firm and immovable; and produced therein all kinds of things in due balance.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور زمین کو بھی ہم ہی نے پھیلایا اور اس پر پہاڑ (بنا کر) رکھ دیئے اور اس میں ہر ایک سنجیدہ چیز اُگائی
+
 [Open on Quran.com](https://quran.com/15/19)
 
 #### 16:11 · [[016 An-Nahl]]
@@ -115,6 +123,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He causes to grow for you thereby the crops, olives, palm trees, grapevines, and of all the fruits. Indeed in that is a sign for a people who give thought.
 
 **English (Yusuf Ali):** With it He produces for you corn, olives, date-palms, grapes and every kind of fruit: verily in this is a sign for those who give thought.
+
+**Urdu (Fatah Muhammad Jalandhari):** اسی پانی سے وہ تمہارے لیے کھیتی اور زیتون اور کھجور اور انگور (اور بےشمار درخت) اُگاتا ہے۔ اور ہر طرح کے پھل (پیدا کرتا ہے) غور کرنے والوں کے لیے اس میں (قدرتِ خدا کی بڑی) نشانی ہے
 
 [Open on Quran.com](https://quran.com/16/11)
 
@@ -132,6 +142,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O mankind! if ye have a doubt about the Resurrection, (consider) that We created you out of dust, then out of sperm, then out of a leech-like clot, then out of a morsel of flesh, partly formed and partly unformed, in order that We may manifest (our power) to you; and We cause whom We will to rest in the wombs for an appointed term, then do We bring you out as babes, then (foster you) that ye may reach your age of full strength; and some of you are called to die, and some are sent back to the feeblest old age, so that they know nothing after having known (much), and (further), thou seest the earth barren and lifeless, but when We pour down rain on it, it is stirred (to life), it swells, and it puts forth every kind of beautiful growth (in pairs).
 
+**Urdu (Fatah Muhammad Jalandhari):** لوگو اگر تم کو مرنے کے بعد جی اُٹھنے میں کچھ شک ہو تو ہم نے تم کو (پہلی بار بھی تو) پیدا کیا تھا (یعنی ابتدا میں) مٹی سے پھر اس سے نطفہ بنا کر۔ پھر اس سے خون کا لوتھڑا بنا کر۔ پھر اس سے بوٹی بنا کر جس کی بناوٹ کامل بھی ہوتی ہے اور ناقص بھی تاکہ تم پر (اپنی خالقیت) ظاہر کردیں۔ اور ہم جس کو چاہتے ہیں ایک میعاد مقرر تک پیٹ میں ٹھہرائے رکھتے ہیں پھر تم کو بچہ بنا کر نکالتے ہیں۔ پھر تم جوانی کو پہنچتے ہو۔ اور بعض (قبل از پیری مرجاتے ہیں اور بعض شیخ فالی ہوجاتے اور بڑھاپے کی) نہایت خراب عمر کی طرف لوٹائے جاتے ہیں کہ بہت کچھ جاننے کے بعد بالکل بےعلم ہوجاتے ہیں۔ اور (اے دیکھنے والے) تو دیکھتا ہے (کہ ایک وقت میں) زمین خشک (پڑی ہوتی ہے) پھر جب ہم اس پر مینہ برساتے ہیں تو شاداب ہوجاتی اور ابھرنے لگتی ہے اور طرح طرح کی بارونق چیزیں اُگاتی ہے
+
 [Open on Quran.com](https://quran.com/22/5)
 
 #### 26:7 · [[026 Ash-Shuara]]
@@ -147,6 +159,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Did they not look at the earth - how much We have produced therein from every noble kind?
 
 **English (Yusuf Ali):** Do they not look at the earth,- how many noble things of all kinds We have produced therein?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے زمین کی طرف نہیں دیکھا کہ ہم نے اس میں ہر قسم کی کتنی نفیس چیزیں اُگائی ہیں
 
 [Open on Quran.com](https://quran.com/26/7)
 
@@ -164,6 +178,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or, Who has created the heavens and the earth, and Who sends you down rain from the sky? Yea, with it We cause to grow well-planted orchards full of beauty of delight: it is not in your power to cause the growth of the trees in them. (Can there be another) god besides Allah? Nay, they are a people who swerve from justice.
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا کس نے آسمانوں اور زمین کو پیدا کیا اور (کس نے) تمہارے لئے آسمان سے پانی برسایا۔ (ہم نے) پھر ہم ہی نے اس سے سرسبز باغ اُگائے۔ تمہارا کام تو نہ تھا کہ تم اُن کے درختوں کو اگاتے۔ تو کیا خدا کے ساتھ کوئی اور بھی معبود ہے؟ (ہرگز نہیں) بلکہ یہ لوگ رستے سے الگ ہو رہے ہیں
+
 [Open on Quran.com](https://quran.com/27/60)
 
 #### 31:10 · [[031 Luqman]]
@@ -180,6 +196,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He created the heavens without any pillars that ye can see; He set on the earth mountains standing firm, lest it should shake with you; and He scattered through it beasts of all kinds. We send down rain from the sky, and produce on the earth every kind of noble creature, in pairs.
 
+**Urdu (Fatah Muhammad Jalandhari):** اُسی نے آسمانوں کو ستونوں کے بغیر پیدا کیا جیسا کہ تم دیکھتے ہو اور زمین پر پہاڑ (بنا کر) رکھ دیئے تاکہ تم کو ہلا ہلا نہ دے اور اس میں ہر طرح کے جانور پھیلا دیئے۔ اور ہم ہی نے آسمانوں سے پانی نازل کیا پھر (اُس سے) اس میں ہر قسم کی نفیس چیزیں اُگائیں
+
 [Open on Quran.com](https://quran.com/31/10)
 
 #### 36:36 · [[036 Ya-Sin]]
@@ -195,6 +213,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Exalted is He who created all pairs - from what the earth grows and from themselves and from that which they do not know.
 
 **English (Yusuf Ali):** Glory to Allah, Who created in pairs all things that the earth produces, as well as their own (human) kind and (other) things of which they have no knowledge.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ خدا پاک ہے جس نے زمین کی نباتات کے اور خود ان کے اور جن چیزوں کی ان کو خبر نہیں سب کے جوڑے بنائے
 
 [Open on Quran.com](https://quran.com/36/36)
 

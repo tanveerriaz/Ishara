@@ -14,31 +14,31 @@ Jonah · 109 ayahs
 
 ## Words in this surah (graph)
 
-- [[lqA' - meeting]] — `لِقاء` · meeting
-- [[njY - we saved]] — `نَجَّى` · we saved
 - [[mrjE - return]] — `مَرْجِع` · return
+- [[njY - we saved]] — `نَجَّى` · we saved
+- [[lqA' - meeting]] — `لِقاء` · meeting
 - [[sAHr - magician]] — `ساحِر` · magician
-- [[Dr - adversity]] — `ضَرّ` · adversity
-- [[yrjwA - expect]] — `يَرْجُوا۟` · expect
-- [[>njY - we saved]] — `أَنجَى` · we saved
-- [[qr'An - quran]] — `قُرْءان` · quran
 - [[sHr - magic]] — `سِحْر` · magic
-- [[frH - rejoice]] — `فَرِحَ` · rejoice
-- [[lbv - you remained]] — `لَبِثَ` · you remained
-- [[slAm - peace]] — `سَلام` · peace
-- [[msrf - transgressors]] — `مُسْرِف` · transgressors
-- [[mjrm - criminals]] — `مُجْرِم` · criminals
-- [[An - now]] — `آن` · now
-- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
-- [[qsT - justice]] — `قِسْط` · justice
-- [[sbHAn - glory]] — `سُبْحان` · glory
-- [[EAqbp - end]] — `عاقِبَة` · end
+- [[yrjwA - expect]] — `يَرْجُوا۟` · expect
+- [[Dr - adversity]] — `ضَرّ` · adversity
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[>njY - we saved]] — `أَنجَى` · we saved
 - [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
-- [[*lp - humiliation]] — `ذِلَّة` · humiliation
-- [[nhAr - day]] — `نَهار` · day
-- [[$k - doubt]] — `شَكّ` · doubt
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
 - [[$fyE - any intercessor]] — `شَفِيع` · any intercessor
+- [[$k - doubt]] — `شَكّ` · doubt
+- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
+- [[ydbr - disposing]] — `يُدَبِّرُ` · disposing
+- [[nhAr - day]] — `نَهار` · day
+- [[bHr - sea]] — `بَحْر` · sea
+- [[k$f - we removed]] — `كَشَفَ` · we removed
+- [[Sdq - truth]] — `صَدَقَ` · truth
+- [[mjrm - criminals]] — `مُجْرِم` · criminals
+- [[*lp - humiliation]] — `ذِلَّة` · humiliation
+- [[mkAn - place]] — `مَكان` · place
+- [[sbHAn - glory]] — `سُبْحان` · glory
+- [[>*Aq - surely]] — `أَذاقَ` · surely
+- [[bgy - rebellion]] — `بَغْي` · rebellion
+- [[mntZr - ones wait]] — `مُنتَظِر` · ones wait
 
 ## Roots
 
@@ -46,51 +46,51 @@ Jonah · 109 ayahs
 - [[$dd - severe]]
 - [[$fE - make something pair]]
 - [[$fy - heal recover illness]]
-- [[$hd - shhd]]
-- [[$kk - shakka]]
-- [[$kr - shkr]]
+- [[$hd - witnessing]]
+- [[$kk - doubt uncertain about]]
+- [[$kr - gratitude]]
 - [[$ms - horse refusing ridden]]
-- [[$rb - shrb]]
+- [[$rb - drink]]
 - [[$rk - sharing partnership]]
 - [[$rr - sparks fire]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[*ll - humiliation]]
 - [[*rr - scattering dispersing small]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
-- [[>bw - abw]]
-- [[>fk - afk]]
+- [[*wq - taste]]
+- [[>*n - ear]]
+- [[>bw - forefathers]]
+- [[>fk - turn something away]]
 - [[>hl - people house]]
 - [[>jl - term]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - like milk oil]]
-- [[>wn - awn]]
+- [[>wl - return revert original]]
+- [[>wn - now]]
 - [[>wy - betake oneself place]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
-- [[Dw> - dwa]]
-- [[E*b - edhb]]
-- [[ESf - esf]]
+- [[Dw> - light]]
+- [[E*b - motes particles floating]]
+- [[ESf - stormy]]
 - [[ESm - tie cord]]
 - [[ESy - disobey]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Ebd - worship]]
 - [[Edd - count]]
-- [[Edw - enemy]]
+- [[Edw - turn]]
 - [[Ejb - amazing]]
 
 ## Sample (ayah 1)

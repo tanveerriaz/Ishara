@@ -21,77 +21,77 @@ The Repentance · 129 ayahs
 - [[mrp - time]] — `مَرَّة` · time
 - [[Ast>*n - ask permission]] — `اسْتَأْذَنَ` · ask permission
 - [[qEd - sit]] — `قَعَدَ` · sit
-- [[swrp - surah]] — `سُورَة` · surah
-- [[fwz - success]] — `فَوْز` · success
-- [[>bdA - ever]] — `أَبَدًا` · ever
 - [[EAhd - they took]] — `عاهَدَ` · they took
-- [[yfqh - understand]] — `يَفْقَهُ` · understand
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[tbyn - became clear]] — `تَبَيَّنَ` · became clear
-- [[EAm - years]] — `عام` · years
-- [[>Hq - more worthy]] — `أَحَقّ` · more worthy
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[fwz - success]] — `فَوْز` · success
+- [[swrp - surah]] — `سُورَة` · surah
 - [[trbS - waiting]] — `تَرَبُّص` · waiting
-- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
 - [[>fwAh - mouths]] — `أَفْواه` · mouths
+- [[rDy - they pleased]] — `رَضِيَ` · they pleased
+- [[>Hq - more worthy]] — `أَحَقّ` · more worthy
+- [[jAhd - strive]] — `جاهَدَ` · strive
 - [[Sdqp - charities]] — `صَدَقَة` · charities
-- [[mnkr - wrong]] — `مُنكَر` · wrong
-- [[rDwAn - pleasure]] — `رِضْوان` · pleasure
+- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
 - [[>Ejb - pleases you]] — `أَعْجَبَ` · pleases you
-- [[>Ed - prepared]] — `أَعَدَّ` · prepared
 - [[kA*b - liars]] — `كاذِب` · liars
+- [[EAm - years]] — `عام` · years
+- [[rDwAn - pleasure]] — `رِضْوان` · pleasure
+- [[Edp - number]] — `عِدَّة` · number
+- [[tbyn - became clear]] — `تَبَيَّنَ` · became clear
+- [[mnkr - wrong]] — `مُنكَر` · wrong
 
 ## Roots
 
 - [[$dd - severe]]
 - [[$fy - heal recover illness]]
-- [[$hd - shhd]]
-- [[$hr - shahr]]
+- [[$hd - witnessing]]
+- [[$hr - new moon]]
 - [[$qq - cleave]]
 - [[$rk - sharing partnership]]
 - [[$ry - buy sell]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*mm - disgraced]]
 - [[*nb - tail]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
+- [[*wq - taste]]
+- [[>*n - ear]]
 - [[>*y - hurt]]
 - [[>Hd - anyone]]
-- [[>bd - abad]]
-- [[>bw - abw]]
-- [[>by - aby]]
-- [[>fk - afk]]
+- [[>bd - absolute long]]
+- [[>bw - forefathers]]
+- [[>by - refuse]]
+- [[>fk - turn something away]]
 - [[>hl - people house]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
-- [[>lf - alifa]]
+- [[>lf - become familiar]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - like milk oil]]
+- [[>wl - return revert original]]
 - [[>wy - betake oneself place]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
-- [[>yd - ayd]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
+- [[>yd - earth]]
 - [[>yy - ism]]
 - [[DEf - weak]]
-- [[DHk - dhk]]
+- [[DHk - laugh]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
-- [[DyE - dye]]
-- [[Dyq - dyq]]
-- [[E$r - eshr]]
-- [[E*b - edhb]]
+- [[DyE - perishing]]
+- [[Dyq - become narrow strait]]
+- [[E$r - ten]]
+- [[E*b - motes particles floating]]
 - [[E*r - excuse free blame]]
 - [[ETw - take handle something]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 
 ## Sample (ayah 1)
 

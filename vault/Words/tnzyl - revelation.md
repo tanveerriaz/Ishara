@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 17:106 · [[017 Al-Isra]]
 
@@ -52,6 +52,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [it is] a Qur’ān which We have separated [by intervals] that you might recite it to the people over a prolonged period. And We have sent it down progressively.
 
 **English (Yusuf Ali):** (It is) a Qur'an which We have divided (into parts from time to time), in order that thou mightest recite it to men at intervals: We have revealed it by stages.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن کو جزو جزو کرکے نازل کیا ہے تاکہ تم لوگوں کو ٹھیر ٹھیر کر پڑھ کر سناؤ اور ہم نے اس کو آہستہ آہستہ اُتارا ہے
 
 [Open on Quran.com](https://quran.com/17/106)
 
@@ -69,6 +71,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A revelation from Him Who created the earth and the heavens on high.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس (ذات برتر) کا اتارا ہوا ہے جس نے زمین اور اونچے اونچے آسمان بنائے
+
 [Open on Quran.com](https://quran.com/20/4)
 
 #### 25:25 · [[025 Al-Furqan]]
@@ -84,6 +88,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] the Day when the heaven will split open with [emerging] clouds, and the angels will be sent down in successive descent.
 
 **English (Yusuf Ali):** The Day the heaven shall be rent asunder with clouds, and angels shall be sent down, descending (in ranks),-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن آسمان ابر کے ساتھ پھٹ جائے گا اور فرشتے نازل کئے جائیں گے
 
 [Open on Quran.com](https://quran.com/25/25)
 
@@ -101,6 +107,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily this is a Revelation from the Lord of the Worlds:
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ قرآن (خدائے) پروردگار عالم کا اُتارا ہوا ہے
+
 [Open on Quran.com](https://quran.com/26/192)
 
 #### 32:2 · [[032 As-Sajdah]]
@@ -116,6 +124,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [This is] the revelation of the Book about which there is no doubt from the Lord of the worlds.
 
 **English (Yusuf Ali):** (This is) the Revelation of the Book in which there is no doubt,- from the Lord of the Worlds.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس میں کچھ شک نہیں کہ اس کتاب کا نازل کیا جانا تمام جہان کے پروردگار کی طرف سے ہے
 
 [Open on Quran.com](https://quran.com/32/2)
 
@@ -133,6 +143,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is a Revelation sent down by (Him), the Exalted in Might, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ خدائے) غالب (اور) مہربان نے نازل کیا ہے
+
 [Open on Quran.com](https://quran.com/36/5)
 
 #### 39:1 · [[039 Az-Zumar]]
@@ -148,6 +160,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The revelation of the Book [i.e., the Qur’ān] is from Allāh, the Exalted in Might, the Wise.
 
 **English (Yusuf Ali):** The revelation of this Book is from Allah, the Exalted in Power, full of Wisdom.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کتاب کا اُتارا جانا خدائے غالب (اور) حکمت والے کی طرف سے ہے
 
 [Open on Quran.com](https://quran.com/39/1)
 
@@ -165,6 +179,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The revelation of this Book is from Allah, Exalted in Power, Full of Knowledge,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اس کتاب کا اتارا جانا خدائے غالب ودانا کی طرف سے ہے
+
 [Open on Quran.com](https://quran.com/40/2)
 
 #### 41:2 · [[041 Fussilat]]
@@ -181,6 +197,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A Revelation from (Allah), Most Gracious, Most Merciful;-
 
+**Urdu (Fatah Muhammad Jalandhari):** (یہ کتاب خدائے) رحمٰن ورحیم (کی طرف) سے اُتری ہے
+
 [Open on Quran.com](https://quran.com/41/2)
 
 #### 41:42 · [[041 Fussilat]]
@@ -196,6 +214,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Falsehood cannot approach it from before it or from behind it; [it is] a revelation from a [Lord who is] Wise and Praiseworthy.
 
 **English (Yusuf Ali):** No falsehood can approach it from before or behind it: It is sent down by One Full of Wisdom, Worthy of all Praise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس پر جھوٹ کا دخل نہ آگے سے ہوسکتا ہے نہ پیچھے سے۔ (اور) دانا (اور) خوبیوں والے (خدا) کی اُتاری ہوئی ہے
 
 [Open on Quran.com](https://quran.com/41/42)
 

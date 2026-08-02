@@ -41,7 +41,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:263 · [[002 Al-Baqarah]]
 
@@ -56,6 +56,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Kind speech and forgiveness are better than charity followed by injury. And Allāh is Free of need and Forbearing.
 
 **English (Yusuf Ali):** Kind words and the covering of faults are better than charity followed by injury. Allah is free of all wants, and He is Most-Forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس خیرات دینے کے بعد (لینے والے کو) ایذا دی جائے اس سے تو نرم بات کہہ دینی اور (اس کی بے ادبی سے) درگزر کرنا بہتر ہے اور خدا بےپروا اور بردبار ہے
 
 [Open on Quran.com](https://quran.com/2/263)
 
@@ -73,6 +75,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Give of the good things which ye have (honourably) earned, and of the fruits of the earth which We have produced for you, and do not even aim at getting anything which is bad, in order that out of it ye may give away something, when ye yourselves would not receive it except with closed eyes. And know that Allah is Free of all wants, and worthy of all praise.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جو پاکیزہ اور عمدہ مال تم کماتے ہوں اور جو چیزیں ہم تمہارے لئے زمین سےنکالتے ہیں ان میں سے (راہ خدا میں) خرچ کرو۔ اور بری اور ناپاک چیزیں دینے کا قصد نہ کرنا کہ (اگر وہ چیزیں تمہیں دی جائیں تو) بجز اس کے کہ (لیتے وقت) آنکھیں بند کرلو ان کو کبھی نہ لو۔ اور جان رکھو کہ خدا بےپروا (اور) قابل ستائش ہے
+
 [Open on Quran.com](https://quran.com/2/267)
 
 #### 2:273 · [[002 Al-Baqarah]]
@@ -88,6 +92,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Charity is] for the poor who have been restricted for the cause of Allāh, unable to move about in the land. An ignorant [person] would think them self-sufficient because of their restraint, but you will know them by their [characteristic] sign. They do not ask people persistently [or at all]. And whatever you spend of good - indeed, Allāh is Knowing of it.
 
 **English (Yusuf Ali):** (Charity is) for those in need, who, in Allah's cause are restricted (from travel), and cannot move about in the land, seeking (For trade or work): the ignorant man thinks, because of their modesty, that they are free from want. Thou shalt know them by their (Unfailing) mark: They beg not importunately from all the sundry. And whatever of good ye give, be assured Allah knoweth it well.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور ہاں تم جو خرچ کرو گے تو) ان حاجتمندوں کے لئے جو خدا کی راہ میں رکے بیٹھے ہیں اور ملک میں کسی طرف جانے کی طاقت نہیں رکھتے (اور مانگنے سے عار رکھتے ہیں) یہاں تک کہ نہ مانگنے کی وجہ سے ناواقف شخص ان کو غنی خیال کرتا ہے اور تم قیافے سے ان کو صاف پہچان لو (کہ حاجتمند ہیں اور شرم کے سبب) لوگوں سے (منہ پھوڑ کر اور) لپٹ کر نہیں مانگ سکتے اور تم جو مال خرچ کرو گے کچھ شک نہیں کہ خدا اس کو جانتا ہے
 
 [Open on Quran.com](https://quran.com/2/273)
 
@@ -105,6 +111,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In it are Signs Manifest; (for example), the Station of Abraham; whoever enters it attains security; Pilgrimage thereto is a duty men owe to Allah,- those who can afford the journey; but if any deny faith, Allah stands not in need of any of His creatures.
 
+**Urdu (Fatah Muhammad Jalandhari):** اس میں کھلی ہوئی نشانیاں ہیں جن میں سے ایک ابراہیم کے کھڑے ہونے کی جگہ ہے جو شخص اس (مبارک) گھر میں داخل ہوا اس نے امن پا لیا اور لوگوں پر خدا کا حق (یعنی فرض) ہے کہ جو اس گھر تک جانے کا مقدور رکھے وہ اس کا حج کرے اور جو اس حکم کی تعمیل نہ کرے گا تو خدا بھی اہلِ عالم سے بے نیاز ہے
+
 [Open on Quran.com](https://quran.com/3/97)
 
 #### 3:181 · [[003 Ali Imran]]
@@ -120,6 +128,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh has certainly heard the statement of those [Jews] who said, "Indeed, Allāh is poor, while we are rich." We will record what they said and their killing of the prophets without right and will say, "Taste the punishment of the Burning Fire.
 
 **English (Yusuf Ali):** Allah hath heard the taunt of those who say: "Truly, Allah is indigent and we are rich!"- We shall certainly record their word and (their act) of slaying the prophets in defiance of right, and We shall say: "Taste ye the penalty of the Scorching Fire!
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے ان لوگوں کا قول سن لیا ہے جو کہتے ہیں کہ خدا فقیر ہے۔ اور ہم امیر ہیں۔ یہ جو کہتے ہیں ہم اس کو لکھ لیں گے۔ اور پیغمبروں کو جو یہ ناحق قتل کرتے رہے ہیں اس کو بھی (قلمبند کر رکھیں گے) اور (قیامت کے روز) کہیں گے کہ عذاب (آتش) سوزاں کے مزے چکھتے رہو
 
 [Open on Quran.com](https://quran.com/3/181)
 
@@ -137,6 +147,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Make trial of orphans until they reach the age of marriage; if then ye find sound judgment in them, release their property to them; but consume it not wastefully, nor in haste against their growing up. If the guardian is well-off, Let him claim no remuneration, but if he is poor, let him have for himself what is just and reasonable. When ye release their property to them, take witnesses in their presence: But all-sufficient is Allah in taking account.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یتمیوں کو بالغ ہونے تک کام کاج میں مصروف رکھو پھر (بالغ ہونے پر) اگر ان میں عقل کی پختگی دیکھو تو ان کا مال ان کے حوالے کردو اور اس خوف سے کہ وہ بڑے ہوجائیں گے (یعنی بڑے ہو کر تم سے اپنا مال واپس لے لیں گے) اس کو فضول خرچی اور جلدی میں نہ اڑا دینا۔ جو شخص آسودہ حال ہو اس کو (ایسے مال سے قطعی طور پر) پرہیز رکھنا چاہیئے اور جو بے مقدور ہو وہ مناسب طور پر (یعنی بقدر خدمت) کچھ لے لے اور جب ان کا مال ان کے حوالے کرنے لگو تو گواہ کرلیا کرو۔ اور حقیقت میں تو خدا ہی (گواہ اور) حساب لینے والا کافی ہے
+
 [Open on Quran.com](https://quran.com/4/6)
 
 #### 4:131 · [[004 An-Nisa]]
@@ -152,6 +164,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And to Allāh belongs whatever is in the heavens and whatever is on the earth. And We have instructed those who were given the Scripture before you and yourselves to fear Allāh. But if you disbelieve - then to Allāh belongs whatever is in the heavens and whatever is on the earth. And ever is Allāh Free of need and Praiseworthy.
 
 **English (Yusuf Ali):** To Allah belong all things in the heavens and on earth. Verily we have directed the People of the Book before you, and you (o Muslims) to fear Allah. But if ye deny Him, lo! unto Allah belong all things in the heavens and on earth, and Allah is free of all wants, worthy of all praise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کچھ آسمانوں اور جو کچھ زمین میں ہے سب خدا ہی کا ہے۔ اور جن لوگوں کو تم سے پہلے کتاب دی گئی تھی ان کو بھی اور (اے محمدﷺ) تم کو بھی ہم نے حکم تاکیدی کیا ہے کہ خدا سے ڈرتے رہو اور اگر کفر کرو گے تو (سمجھ رکھو کہ) جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب خدا ہی کا ہے۔ اور خدا بے پروا اور سزاوار حمدوثنا ہے
 
 [Open on Quran.com](https://quran.com/4/131)
 
@@ -169,6 +183,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! stand out firmly for justice, as witnesses to Allah, even as against yourselves, or your parents, or your kin, and whether it be (against) rich or poor: for Allah can best protect both. Follow not the lusts (of your hearts), lest ye swerve, and if ye distort (justice) or decline to do justice, verily Allah is well-acquainted with all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! انصاف پر قائم رہو اور خدا کے لئے سچی گواہی دو خواہ (اس میں) تمہارا یا تمہارےماں باپ اور رشتہ داروں کا نقصان ہی ہو۔ اگر کوئی امیر ہے یا فقیر تو خدا ان کا خیر خواہ ہے۔ تو تم خواہش نفس کے پیچھے چل کر عدل کو نہ چھوڑ دینا۔ اگر تم پیچیدا شہادت دو گے یا (شہادت سے) بچنا چاہو گے تو (جان رکھو) خدا تمہارے سب کاموں سے واقف ہے
+
 [Open on Quran.com](https://quran.com/4/135)
 
 #### 6:133 · [[006 Al-Anam]]
@@ -185,6 +201,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thy Lord is self-sufficient, full of Mercy: if it were His will, He could destroy you, and in your place appoint whom He will as your successors, even as He raised you up from the posterity of other people.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا پروردگار بےپروا (اور) صاحب رحمت ہے اگر چاہے (تو اے بندوں) تمہیں نابود کر دے اور تمہارے بعد جن لوگوں کو چاہے تمہارا جانشین بنا دے جیسا تم کو بھی دوسرے لوگوں کی نسل سے پیدا کیا ہے
+
 [Open on Quran.com](https://quran.com/6/133)
 
 #### 9:93 · [[009 At-Tawbah]]
@@ -200,6 +218,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The cause [for blame] is only upon those who ask permission of you while they are rich. They are satisfied to be with those who stay behind, and Allāh has sealed over their hearts, so they do not know.
 
 **English (Yusuf Ali):** The ground (of complaint) is against such as claim exemption while they are rich. They prefer to stay with the (women) who remain behind: Allah hath sealed their hearts; so they know not (What they miss).
+
+**Urdu (Fatah Muhammad Jalandhari):** الزام تو ان لوگوں پر ہے۔ جو دولت مند ہیں اور (پھر) تم سے اجازت طلب کرتے ہیں (یعنی) اس بات سے خوش ہیں کہ عورتوں کے ساتھ جو پیچھے رہ جاتی ہیں (گھروں میں بیٹھ) رہیں۔ خدا نے ان کے دلوں پر مہر کردی ہے پس وہ سمجھتے ہی نہیں
 
 [Open on Quran.com](https://quran.com/9/93)
 

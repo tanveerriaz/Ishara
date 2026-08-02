@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[gwy - gwy]]
+- [[gwy - deviators]]
 
 ### Meaning
 **error** · Lemma **غَيّ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:256 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** There shall be no compulsion in [acceptance of] the religion. The right course has become distinct from the wrong. So whoever disbelieves in ṭāghūt and believes in Allāh has grasped the most trustworthy handhold with no break in it. And Allāh is Hearing and Knowing.
 
 **English (Yusuf Ali):** Let there be no compulsion in religion: Truth stands out clear from Error: whoever rejects evil and believes in Allah hath grasped the most trustworthy hand-hold, that never breaks. And Allah heareth and knoweth all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** دین (اسلام) میں زبردستی نہیں ہے ہدایت (صاف طور پر ظاہر اور) گمراہی سے الگ ہو چکی ہے تو جو شخص بتوں سے اعتقاد نہ رکھے اور خدا پر ایمان لائے اس نے ایسی مضبوط رسی ہاتھ میں پکڑ لی ہے جو کبھی ٹوٹنے والی نہیں اور خدا (سب کچھ) سنتا اور (سب کچھ) جانتا ہے
 
 [Open on Quran.com](https://quran.com/2/256)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who behave arrogantly on the earth in defiance of right - them will I turn away from My signs: Even if they see all the signs, they will not believe in them; and if they see the way of right conduct, they will not adopt it as the way; but if they see the way of error, that is the way they will adopt. For they have rejected our signs, and failed to take warning from them.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ زمین میں ناحق غرور کرتے ہیں ان کو اپنی آیتوں سے پھیر دوں گا۔ اگر یہ سب نشانیاں بھی دیکھ لیں تب بھی ان پر ایمان نہ لائیں اور اگر راستی کا رستہ دیکھیں تو اسے (اپنا) رستہ نہ بنائیں۔ اور اگر گمراہی کی راہ دیکھیں تو اسے رستہ بنالیں۔ یہ اس لیے کہ انہوں نے ہماری آیات کو جھٹلایا اور ان سے غفلت کرتے رہے
+
 [Open on Quran.com](https://quran.com/7/146)
 
 #### 7:202 · [[007 Al-Araf]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But their brethren (the evil ones) plunge them deeper into error, and never relax (their efforts).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (کفار) کے بھائی انہیں گمراہی میں کھینچے جاتے ہیں پھر (اس میں کسی طرح کی) کوتاہی نہیں کرتے
+
 [Open on Quran.com](https://quran.com/7/202)
 
 #### 19:59 · [[019 Maryam]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But there came after them successors [i.e., later generations] who neglected prayer and pursued desires; so they are going to meet evil -
 
 **English (Yusuf Ali):** But after them there followed a posterity who missed prayers and followed after lusts soon, then, will they face Destruction,-
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے بعد چند ناخلف ان کے جانشیں ہوئے جنہوں نے نماز کو (چھوڑ دیا گویا اسے) کھو دیا۔ اور خواہشات نفسانی کے پیچھے لگ گئے۔ سو عنقریب ان کو گمراہی (کی سزا) ملے گی
 
 [Open on Quran.com](https://quran.com/19/59)
 

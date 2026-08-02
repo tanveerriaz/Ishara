@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:9 · [[007 Al-Araf]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those whose scales are light - they are the ones who will lose themselves for what injustice they were doing toward Our verses.
 
 **English (Yusuf Ali):** Those whose scale will be light, will be their souls in perdition, for that they wrongfully treated Our signs.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن کے وزن ہلکے ہوں گے تو یہی لوگ ہیں جنہوں نے اپنے تئیں خسارے میں ڈالا اس لیے کہ ہماری آیتوں کے بارے میں بےانصافی کرتے تھے
 
 [Open on Quran.com](https://quran.com/7/9)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But those whose balance is light, will be those who have lost their souls, in Hell will they abide.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جن کے بوجھ ہلکے ہوں گے وہ لوگ ہیں جنہوں نے اپنے تئیں خسارے میں ڈالا، ہمیشہ دوزخ میں رہیں گے
+
 [Open on Quran.com](https://quran.com/23/103)
 
 #### 101:8 · [[101 Al-Qariah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But as for one whose scales are light,
 
 **English (Yusuf Ali):** But he whose balance (of good deeds) will be (found) light,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس کے وزن ہلکے نکلیں گے
 
 [Open on Quran.com](https://quran.com/101/8)
 

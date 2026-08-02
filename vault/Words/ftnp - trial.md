@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ftn - ftn]]
+- [[ftn - burn melt something]]
 
 ### Meaning
 **trial** · Lemma **فِتْنَة**
@@ -46,7 +46,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:102 · [[002 Al-Baqarah]]
 
@@ -61,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Hārūt and Mārūt. But they [i.e., the two angels] do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allāh. And they [i.e., people] learn what harms them and does not benefit them. But they [i.e., the Children of Israel] certainly knew that whoever purchased it [i.e., magic] would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.
 
 **English (Yusuf Ali):** They followed what the evil ones gave out (falsely) against the power of Solomon: the blasphemers Were, not Solomon, but the evil ones, teaching men Magic, and such things as came down at babylon to the angels Harut and Marut. But neither of these taught anyone (Such things) without saying: "We are only for trial; so do not blaspheme." They learned from them the means to sow discord between man and wife. But they could not thus harm anyone except by Allah's permission. And they learned what harmed them, not what profited them. And they knew that the buyers of (magic) would have no share in the happiness of the Hereafter. And vile was the price for which they did sell their souls, if they but knew!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
 
 [Open on Quran.com](https://quran.com/2/102)
 
@@ -78,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And slay them wherever ye catch them, and turn them out from where they have Turned you out; for tumult and oppression are worse than slaughter; but fight them not at the Sacred Mosque, unless they (first) fight you there; but if they fight you, slay them. Such is the reward of those who suppress faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو جہاں پاؤ قتل کردو اور جہاں سے انہوں نے تم کو نکالا ہے (یعنی مکے سے) وہاں سے تم بھی ان کو نکال دو۔ اور (دین سے گمراہ کرنے کا) فساد قتل وخونریزی سے کہیں بڑھ کر ہے اور جب تک وہ تم سے مسجد محترم (یعنی خانہ کعبہ) کے پاس نہ لڑیں تم بھی وہاں ان سے نہ لڑنا۔ ہاں اگر وہ تم سے لڑیں تو تم ان کو قتل کرڈالو۔ کافروں کی یہی سزا ہے
+
 [Open on Quran.com](https://quran.com/2/191)
 
 #### 2:193 · [[002 Al-Baqarah]]
@@ -93,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Fight them until there is no [more] fitnah and [until] religion [i.e., worship] is [acknowledged to be] for Allāh. But if they cease, then there is to be no aggression [i.e., assault] except against the oppressors.
 
 **English (Yusuf Ali):** And fight them on until there is no more Tumult or oppression, and there prevail justice and faith in Allah; but if they cease, Let there be no hostility except to those who practise oppression.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان سے اس وقت تک لڑتے رہنا کہ فساد نابود ہوجائے اور (ملک میں) خدا ہی کا دین ہوجائے اور اگر وہ (فساد سے) باز آجائیں تو ظالموں کے سوا کسی پر زیادتی نہیں (کرنی چاہیئے)
 
 [Open on Quran.com](https://quran.com/2/193)
 
@@ -110,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
+
 [Open on Quran.com](https://quran.com/2/217)
 
 #### 3:7 · [[003 Ali Imran]]
@@ -125,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is He who has sent down to you, [O Muḥammad], the Book; in it are verses [that are] precise - they are the foundation of the Book - and others unspecific. As for those in whose hearts is deviation [from truth], they will follow that of it which is unspecific, seeking discord and seeking an interpretation [suitable to them]. And no one knows its [true] interpretation except Allāh. But those firm in knowledge say, "We believe in it. All [of it] is from our Lord." And no one will be reminded except those of understanding.
 
 **English (Yusuf Ali):** He it is Who has sent down to thee the Book: In it are verses basic or fundamental (of established meaning); they are the foundation of the Book: others are allegorical. But those in whose hearts is perversity follow the part thereof that is allegorical, seeking discord, and searching for its hidden meanings, but no one knows its hidden meanings except Allah. And those who are firmly grounded in knowledge say: "We believe in the Book; the whole of it is from our Lord:" and none will grasp the Message except men of understanding.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم پر کتاب نازل کی جس کی بعض آیتیں محکم ہیں (اور) وہی اصل کتاب ہیں اور بعض متشابہ ہیں تو جن لوگوں کے دلوں میں کجی ہے وہ متشابہات کا اتباع کرتے ہیں تاکہ فتنہ برپا کریں اور مراد اصلی کا پتہ لگائیں حالانکہ مراد اصلی خدا کے سوا کوئی نہیں جانتا اور جو لوگ علم میں دست گاہ کامل رکھتے ہیں وہ یہ کہتے ہیں کہ ہم ان پر ایمان لائے یہ سب ہمارے پروردگار کی طرف سے ہیں اور نصیحت تو عقل مند ہی قبول کرتے ہیں
 
 [Open on Quran.com](https://quran.com/3/7)
 
@@ -142,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Others you will find that wish to gain your confidence as well as that of their people: Every time they are sent back to temptation, they succumb thereto: if they withdraw not from you nor give you (guarantees) of peace besides restraining their hands, seize them and slay them wherever ye get them: In their case We have provided you with a clear argument against them.
 
+**Urdu (Fatah Muhammad Jalandhari):** تم کچھ اور لوگ ایسے بھی پاؤ گے جو یہ چاہتے ہیں کہ تم سے بھی امن میں رہیں اور اپنی قوم سے بھی امن میں رہیں لیکن فتنہ انگیزی کو بلائے جائیں تو اس میں اوندھے منہ گر پڑیں تو ایسے لوگ اگر تم سے (لڑنے سے) کنارہ کشی نہ کریں اور نہ تمہاری طرف (پیغام) صلح بھیجیں اور نہ اپنے ہاتھوں کو روکیں تو ان کو پکڑ لو اور جہاں پاؤ قتل کردو ان لوگوں کے مقابلے میں ہم نے تمہارے لئے سند صریح مقرر کردی ہے
+
 [Open on Quran.com](https://quran.com/4/91)
 
 #### 5:41 · [[005 Al-Maidah]]
@@ -157,6 +169,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O Messenger, let them not grieve you who hasten into disbelief of those who say, "We believe" with their mouths, but their hearts believe not, and from among the Jews. [They are] avid listeners to falsehood, listening to another people who have not come to you. They distort words beyond their [proper] places [i.e., usages], saying, "If you are given this, take it; but if you are not given it, then beware." But he for whom Allāh intends fitnah - never will you possess [power to do] for him a thing against Allāh. Those are the ones for whom Allāh does not intend to purify their hearts. For them in this world is disgrace, and for them in the Hereafter is a great punishment.
 
 **English (Yusuf Ali):** O Messenger! let not those grieve thee, who race each other into unbelief: (whether it be) among those who say "We believe" with their lips but whose hearts have no faith; or it be among the Jews,- men who will listen to any lie,- will listen even to others who have never so much as come to thee. They change the words from their (right) times and places: they say, "If ye are given this, take it, but if not, beware!" If any one's trial is intended by Allah, thou hast no authority in the least for him against Allah. For such - it is not Allah's will to purify their hearts. For them there is disgrace in this world, and in the Hereafter a heavy punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر! جو لوگ کفر میں جلدی کرتے ہیں (کچھ تو) ان میں سے (ہیں) جو منہ سے کہتے ہیں کہ ہم مومن ہیں لیکن ان کے دل مومن نہیں ہیں اور (کچھ) ان میں سے جو یہودی ہیں ان کی وجہ سے غمناک نہ ہونا یہ غلط باتیں بنانے کے لیے جاسوسی کرتے پھرتے ہیں اور ایسے لوگوں (کے بہکانے) کے لیے جاسوس بنے ہیں جو ابھی تمہارے پاس نہیں آئے (صحیح) باتوں کو ان کے مقامات (میں ثابت ہونے) کے بعد بدل دیتے ہیں (اور لوگوں سے) کہتے ہیں کہ اگر تم کو یہی (حکم) ملے تو اسے قبول کر لینا اور اگر یہ نہ ملے تو اس سے احتراز کرنا اور اگر کسی کو خدا گمراہ کرنا چاہے تو اس کے لیے تم کچھ بھی خدا سے (ہدایت کا) اختیار نہیں رکھتے یہ وہ لوگ ہیں جن کے دلوں کو خدا نے پاک کرنا نہیں چاہا ان کے لیے دنیا میں بھی ذلت ہے اور آخرت میں بھی بڑا عذاب ہے
 
 [Open on Quran.com](https://quran.com/5/41)
 
@@ -174,6 +188,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They thought there would be no trial (or punishment); so they became blind and deaf; yet Allah (in mercy) turned to them; yet again many of them became blind and deaf. But Allah sees well all that they do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خیال کرتے تھے کہ (اس سے ان پر) کوئی آفت نہیں آنے کی تو وہ اندھے اور بہرے ہو گئے پھر خدا نے ان پر مہربانی فرمائی (لیکن) پھر ان میں سے بہت سے اندھے اور بہرے ہو گئے اور خدا ان کے سب کاموں کو دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/5/71)
 
 #### 6:23 · [[006 Al-Anam]]
@@ -190,6 +206,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There will then be (left) no subterfuge for them but to say: "By Allah our Lord, we were not those who joined gods with Allah."
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان سے کچھ عذر نہ بن پڑے گا (اور) بجز اس کے (کچھ چارہ نہ ہوگا) کہ کہیں خدا کی قسم جو ہمارا پروردگار ہے ہم شریک نہیں بناتے تھے
+
 [Open on Quran.com](https://quran.com/6/23)
 
 #### 7:155 · [[007 Al-Araf]]
@@ -205,6 +223,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Moses chose from his people seventy men for Our appointment. And when the earthquake seized them, he said, "My Lord, if You had willed, You could have destroyed them before and me [as well]. Would You destroy us for what the foolish among us have done? This is not but Your trial by which You send astray whom You will and guide whom You will. You are our Protector, so forgive us and have mercy upon us; and You are the best of forgivers.
 
 **English (Yusuf Ali):** And Moses chose seventy of his people for Our place of meeting: when they were seized with violent quaking, he prayed: "O my Lord! if it had been Thy will Thou couldst have destroyed, long before, both them and me: wouldst Thou destroy us for the deeds of the foolish ones among us? this is no more than Thy trial: by it Thou causest whom Thou wilt to stray, and Thou leadest whom Thou wilt into the right path. Thou art our Protector: so forgive us and give us Thy mercy; for Thou art the best of those who forgive.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ نے اس میعاد پر جو ہم نے مقرر کی تھی اپنی قوم کے ستر آدمی منتخب (کرکے کوہ طور پر حاضر) ٹل کیے۔ جب ان کو زلزلے نے پکڑا تو موسیٰ نے کہا کہ اے پروردگار تو چاہتا تو ان کو اور مجھ کو پہلے ہی سے ہلاک کر دیتا۔ کیا تو اس فعل کی سزا میں جو ہم میں سے بےعقل لوگوں نے کیا ہے ہمیں ہلاک کردے گا۔ یہ تو تیری آزمائش ہے۔ اس سے تو جس کو چاہے گمراہ کرے اور جس کو چاہے ہدایت بخشے۔ تو ہی ہمارا کارساز ہے تو ہمیں (ہمارے گناہ) بخش دے اور ہم پر رحم فرما اور تو سب سے بہتر بخشنے والا ہے
 
 [Open on Quran.com](https://quran.com/7/155)
 

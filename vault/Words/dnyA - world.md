@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:85 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then, you are those [same ones who are] killing one another and evicting a party of your people from their homes, cooperating against them in sin and aggression. And if they come to you as captives, you ransom them, although their eviction was forbidden to you. So do you believe in part of the Scripture and disbelieve in part? Then what is the recompense for those who do that among you except disgrace in worldly life; and on the Day of Resurrection they will be sent back to the severest of punishment. And Allāh is not unaware of what you do.
 
 **English (Yusuf Ali):** After this it is ye, the same people, who slay among yourselves, and banish a party of you from their homes; assist (Their enemies) against them, in guilt and rancour; and if they come to you as captives, ye ransom them, though it was not lawful for you to banish them. Then is it only a part of the Book that ye believe in, and do ye reject the rest? but what is the reward for those among you who behave like this but disgrace in this life?- and on the Day of Judgment they shall be consigned to the most grievous penalty. For Allah is not unmindful of what ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر تم وہی ہو کہ اپنوں کو قتل بھی کر دیتے ہو اور اپنے میں سے بعض لوگوں پر گناہ اور ظلم سے چڑھائی کرکے انہیں وطن سے نکال بھی دیتے ہو، اور اگر وہ تمہارے پاس قید ہو کر آئیں تو بدلہ دے کر ان کو چھڑا بھی لیتے ہو، حالانکہ ان کا نکال دینا ہی تم کو حرام تھا۔ (یہ) کیا (بات ہے کہ) تم کتابِ (خدا) کے بعض احکام کو تو مانتے ہو اور بعض سے انکار کئے دیتے ہو، تو جو تم میں سے ایسی حرکت کریں، ان کی سزا اس کے سوا اور کیا ہو سکتی ہے کہ دنیا کی زندگی میں تو رسوائی ہو اور قیامت کے دن سخت سے سخت عذاب میں ڈال دیئے جائیں اور جو کام تم کرتے ہو، خدا ان سے غافل نہیں
 
 [Open on Quran.com](https://quran.com/2/85)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** These are the people who buy the life of this world at the price of the Hereafter: their penalty shall not be lightened nor shall they be helped.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے آخرت کے بدلے دنیا کی زندگی خریدی۔ سو نہ تو ان سے عذاب ہی ہلکا کیا جائے گا اور نہ ان کو (اور طرح کی) مدد ملے گی
+
 [Open on Quran.com](https://quran.com/2/86)
 
 #### 2:114 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And who are more unjust than those who prevent the name of Allāh from being mentioned [i.e., praised] in His mosques and strive toward their destruction. It is not for them to enter them except in fear. For them in this world is disgrace, and they will have in the Hereafter a great punishment.
 
 **English (Yusuf Ali):** And who is more unjust than he who forbids that in places for the worship of Allah, Allah's name should be celebrated?-whose zeal is (in fact) to ruin them? It was not fitting that such should themselves enter them except in fear. For them there is nothing but disgrace in this world, and in the world to come, an exceeding torment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے بڑھ کر ظالم کون، جو خدا کی مسجدوں میں خدا کے نام کا ذکر کئے جانے کو منع کرے اور ان کی ویرانی میں ساعی ہو۔ان لوگوں کو کچھ حق نہیں کہ ان میں داخل ہوں، مگر ڈرتے ہوئے۔ ان کے لیے دنیا میں رسوائی ہے اور آخرت میں بڑا عذاب
 
 [Open on Quran.com](https://quran.com/2/114)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And who turns away from the religion of Abraham but such as debase their souls with folly? Him We chose and rendered pure in this world: And he will be in the Hereafter in the ranks of the Righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم کے دین سے کون رو گردانی کر سکتا ہے، بجز اس کے جو نہایت نادان ہو۔ ہم نے ان کو دنیا میں بھی منتخب کیا تھا اور آخرت میں بھی وہ (زمرہٴ) صلحا میں سے ہوں گے
+
 [Open on Quran.com](https://quran.com/2/130)
 
 #### 2:200 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you have completed your rites, remember Allāh like your [previous] remembrance of your fathers or with [much] greater remembrance. And among the people is he who says, "Our Lord, give us in this world," and he will have in the Hereafter no share.
 
 **English (Yusuf Ali):** So when ye have accomplished your holy rites, celebrate the praises of Allah, as ye used to celebrate the praises of your fathers,- yea, with far more Heart and soul. There are men who say: "Our Lord! Give us (Thy bounties) in this world!" but they will have no portion in the Hereafter.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب حج کے تمام ارکان پورے کرچکو تو (منیٰ میں) خدا کو یاد کرو۔ جس طرح اپنے باپ دادا کو یاد کیا کرتے تھے بلکہ اس سے بھی زیادہ اور بعض لوگ ایسے ہیں جو (خدا سے) التجا کرتے ہیں کہ اے پروردگار ہم کو (جو دنیا ہے) دنیا ہی میں عنایت کر ایسے لوگوں کا آخرت میں کچھ حصہ نہیں
 
 [Open on Quran.com](https://quran.com/2/200)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And there are men who say: "Our Lord! Give us good in this world and good in the Hereafter, and defend us from the torment of the Fire!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور بعضے ایسے ہیں کہ دعا کرتے ہیں کہ پروردگار ہم کو دنیا میں بھی نعمت عطا فرما اور آخرت میں بھی نعمت بخشیو اور دوزخ کے عذاب سے محفوظ رکھیو
+
 [Open on Quran.com](https://quran.com/2/201)
 
 #### 2:204 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And of the people is he whose speech pleases you in worldly life, and he calls Allāh to witness as to what is in his heart, yet he is the fiercest of opponents.
 
 **English (Yusuf Ali):** There is the type of man whose speech about this world's life May dazzle thee, and he calls Allah to witness about what is in his heart; yet is he the most contentious of enemies.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کوئی شخص تو ایسا ہے جس کی گفتگو دنیا کی زندگی میں تم کو دلکش معلوم ہوتی ہے اور وہ اپنی مانی الضمیر پر خدا کو گواہ بناتا ہے حالانکہ وہ سخت جھگڑالو ہے
 
 [Open on Quran.com](https://quran.com/2/204)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The life of this world is alluring to those who reject faith, and they scoff at those who believe. But the righteous will be above them on the Day of Resurrection; for Allah bestows His abundance without measure on whom He will.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کافر ہیں ان کے لئے دنیا کی زندگی خوشنما کر دی گئی ہے اور وہ مومنوں سے تمسخر کرتے ہیں لیکن جو پرہیز گار ہیں وہ قیامت کے دن ان پر غالب ہوں گے اور خدا جس کو چاہتا ہے بےشمار رزق دیتا ہے
+
 [Open on Quran.com](https://quran.com/2/212)
 
 #### 2:217 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
+
 [Open on Quran.com](https://quran.com/2/217)
 
 #### 2:220 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** To this world and the Hereafter. And they ask you about orphans. Say, "Improvement for them is best. And if you mix your affairs with theirs - they are your brothers. And Allāh knows the corrupter from the amender. And if Allāh had willed, He could have put you in difficulty. Indeed, Allāh is Exalted in Might and Wise."
 
 **English (Yusuf Ali):** (Their bearings) on this life and the Hereafter. They ask thee concerning orphans. Say: "The best thing to do is what is for their good; if ye mix their affairs with yours, they are your brethren; but Allah knows the man who means mischief from the man who means good. And if Allah had wished, He could have put you into difficulties: He is indeed Exalted in Power, Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) دنیا اور آخرت (کی باتوں) میں (غور کرو)۔ اور تم سے یتیموں کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان کی (حالت کی) اصلاح بہت اچھا کام ہے۔ اور اگر تم ان سے مل جل کر رہنا (یعنی خرچ اکھٹا رکھنا) چاہو تو وہ تمہارے بھائی ہیں اور خدا خوب جانتا ہے کہ خرابی کرنے والا کون ہے اور اصلاح کرنے والا کون۔ اور اگر خدا چاہتا تو تم کو تکلیف میں ڈال دیتا۔بےشک خدا غالب (اور) حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/2/220)
 

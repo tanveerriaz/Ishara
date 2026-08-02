@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[krh - krh]]
+- [[krh - dislike it]]
 
 ### Meaning
 **averse** · Lemma **كارِه**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:88 · [[007 Al-Araf]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Said the eminent ones who were arrogant among his people, "We will surely evict you, O Shuʿayb, and those who have believed with you from our city, or you must return to our religion." He said, "Even if we were unwilling?
 
 **English (Yusuf Ali):** The leaders, the arrogant party among his people, said: "O Shu'aib! we shall certainly drive thee out of our city - (thee) and those who believe with thee; or else ye (thou and they) shall have to return to our ways and religion." He said: "What! even though we do detest (them)?
+
+**Urdu (Fatah Muhammad Jalandhari):** (تو) ان کی قوم میں جو لوگ سردار اور بڑے آدمی تھے، وہ کہنے لگے کہ شعیب! (یا تو) ہم تم کو اور جو لوگ تمہارے ساتھ ایمان لائے ہیں، ان کو اپنے شہر سے نکال دیں گے۔ یا تم ہمارے مذہب میں آجاؤ۔ انہوں نے کہا خواہ ہم (تمہارے دین سے) بیزار ہی ہوں (تو بھی؟)
 
 [Open on Quran.com](https://quran.com/7/88)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Just as thy Lord ordered thee out of thy house in truth, even though a party among the Believers disliked it,
 
+**Urdu (Fatah Muhammad Jalandhari):** (ان لوگوں کو اپنے گھروں سے اسی طرح نکلنا چاہیئے تھا) جس طرح تمہارے پروردگار نے تم کو تدبیر کے ساتھ اپنے گھر سے نکالا اور (اس وقت) مومنوں ایک جماعت ناخوش تھی
+
 [Open on Quran.com](https://quran.com/8/5)
 
 #### 9:48 · [[009 At-Tawbah]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They had already desired dissension before and had upset matters for you until the truth came and the ordinance [i.e., victory] of Allāh appeared, while they were averse.
 
 **English (Yusuf Ali):** Indeed they had plotted sedition before, and upset matters for thee, until,- the Truth arrived, and the Decree of Allah became manifest much to their disgust.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ پہلے بھی طالب فساد رہے ہیں اور بہت سی باتوں میں تمہارے لیے الٹ پھیر کرتے رہے ہیں۔ یہاں تک کہ حق آپہنچا اور خدا کا حکم غالب ہوا اور وہ برا مانتے ہی رہ گئے
 
 [Open on Quran.com](https://quran.com/9/48)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The only reasons why their contributions are not accepted are: that they reject Allah and His Messenger; that they come to prayer without earnestness; and that they offer contributions unwillingly.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے خرچ (موال) کے قبول ہونے سے کوئی چیز مانع نہیں ہوئی سوا اس کے انہوں نے خدا سے اور اس کے رسول سے کفر کیا اور نماز کو آتے ہیں تو سست کاہل ہوکر اور خرچ کرتے ہیں تو ناخوشی سے
+
 [Open on Quran.com](https://quran.com/9/54)
 
 #### 11:28 · [[011 Hud]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "O my people, have you considered: if I should be upon clear evidence from my Lord while He has given me mercy from Himself but it has been made unapparent to you, should we force it upon you while you are averse to it?
 
 **English (Yusuf Ali):** He said: "O my people! See ye if (it be that) I have a Clear Sign from my Lord, and that He hath sent Mercy unto me from His own presence, but that the Mercy hath been obscured from your sight? shall we compel you to accept it when ye are averse to it?
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ اے قوم! دیکھو تو اگر میں اپنے پروردگار کی طرف سے دلیل (روشن) رکھتا ہوں اور اس نے مجھے اپنے ہاں سے رحمت بخشی ہو جس کی حقیقت تم سے پوشیدہ رکھی گئی ہے۔ تو کیا ہم اس کے لیے تمہیں مجبور کرسکتے ہیں اور تم ہو کہ اس سے ناخوش ہو رہے ہو
 
 [Open on Quran.com](https://quran.com/11/28)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or do they say, "He is possessed"? Nay, he has brought them the Truth, but most of them hate the Truth.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ کہتے ہیں کہ اسے سودا ہے (نہیں) بلکہ وہ ان کے پاس حق کو لے کر آئے ہیں اور ان میں سے اکثر حق کو ناپسند کرتے ہیں
+
 [Open on Quran.com](https://quran.com/23/70)
 
 #### 43:78 · [[043 Az-Zukhruf]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** We had certainly brought you the truth, but most of you, to the truth, were averse.
 
 **English (Yusuf Ali):** Verily We have brought the Truth to you: but most of you have a hatred for Truth.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم تمہارے پاس حق لے کر آئے ہیں لیکن تم اکثر حق سے ناخوش ہوتے رہے
 
 [Open on Quran.com](https://quran.com/43/78)
 

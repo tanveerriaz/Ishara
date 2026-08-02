@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:6 · [[004 An-Nisa]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And test the orphans [in their abilities] until they reach marriageable age. Then if you perceive in them sound judgement, release their property to them. And do not consume it excessively and quickly, [anticipating] that they will grow up. And whoever, [when acting as guardian], is self-sufficient should refrain [from taking a fee]; and whoever is poor - let him take according to what is acceptable. Then when you release their property to them, bring witnesses upon them. And sufficient is Allāh as Accountant.
 
 **English (Yusuf Ali):** Make trial of orphans until they reach the age of marriage; if then ye find sound judgment in them, release their property to them; but consume it not wastefully, nor in haste against their growing up. If the guardian is well-off, Let him claim no remuneration, but if he is poor, let him have for himself what is just and reasonable. When ye release their property to them, take witnesses in their presence: But all-sufficient is Allah in taking account.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یتمیوں کو بالغ ہونے تک کام کاج میں مصروف رکھو پھر (بالغ ہونے پر) اگر ان میں عقل کی پختگی دیکھو تو ان کا مال ان کے حوالے کردو اور اس خوف سے کہ وہ بڑے ہوجائیں گے (یعنی بڑے ہو کر تم سے اپنا مال واپس لے لیں گے) اس کو فضول خرچی اور جلدی میں نہ اڑا دینا۔ جو شخص آسودہ حال ہو اس کو (ایسے مال سے قطعی طور پر) پرہیز رکھنا چاہیئے اور جو بے مقدور ہو وہ مناسب طور پر (یعنی بقدر خدمت) کچھ لے لے اور جب ان کا مال ان کے حوالے کرنے لگو تو گواہ کرلیا کرو۔ اور حقیقت میں تو خدا ہی (گواہ اور) حساب لینے والا کافی ہے
 
 [Open on Quran.com](https://quran.com/4/6)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When a (courteous) greeting is offered you, meet it with a greeting still more courteous, or (at least) of equal courtesy. Allah takes careful account of all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم کو کوئی دعا دے تو (جواب میں) تم اس سے بہتر (کلمے) سے (اسے) دعا دو یا انہیں لفظوں سے دعا دو بےشک خدا ہر چیز کا حساب لینے والا ہے
+
 [Open on Quran.com](https://quran.com/4/86)
 
 #### 17:14 · [[017 Al-Isra]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (It will be said to him:) "Read thine (own) record: Sufficient is thy soul this day to make out an account against thee."
 
+**Urdu (Fatah Muhammad Jalandhari):** (کہا جائے گا کہ) اپنی کتاب پڑھ لے۔ تو آج اپنا آپ ہی محاسب کافی ہے
+
 [Open on Quran.com](https://quran.com/17/14)
 
 #### 33:39 · [[033 Al-Ahzab]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Allāh praises] those who convey the messages of Allāh and fear Him and do not fear anyone but Allāh. And sufficient is Allāh as Accountant.
 
 **English (Yusuf Ali):** (It is the practice of those) who preach the Messages of Allah, and fear Him, and fear none but Allah. And enough is Allah to call (men) to account.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو خدا کے پیغام (جوں کے توں) پہنچاتے اور اس سے ڈرتے ہیں اور خدا کے سوا کسی سے نہیں ڈرتے تھے۔ اور خدا ہی حساب کرنے کو کافی ہے
 
 [Open on Quran.com](https://quran.com/33/39)
 

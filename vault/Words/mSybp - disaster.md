@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:156 · [[002 Al-Baqarah]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who, when disaster strikes them, say, "Indeed we belong to Allāh, and indeed to Him we will return."
 
 **English (Yusuf Ali):** Who say, when afflicted with calamity: "To Allah We belong, and to Him is our return":-
+
+**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں پر جب کوئی مصیبت واقع ہوتی ہے تو کہتے ہیں کہ ہم خدا ہی کا مال ہیں اور اسی کی طرف لوٹ کر جانے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/156)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** What! When a single disaster smites you, although ye smote (your enemies) with one twice as great, do ye say?- "Whence is this?" Say (to them): "It is from yourselves: For Allah hath power over all things."
 
+**Urdu (Fatah Muhammad Jalandhari):** (بھلا یہ) کیا (بات ہے کہ) جب (اُحد کے دن کافر کے ہاتھ سے) تم پر مصیبت واقع ہوئی حالانکہ (جنگ بدر میں) اس سے دوچند مصیبت تمہارے ہاتھ سے ان پر پڑچکی ہے توتم چلا اٹھے کہ (ہائے) آفت (ہم پر) کہاں سے آپڑی کہہ دو کہ یہ تمہاری ہی شامت اعمال ہے (کہ تم نے پیغمبر کے حکم کے خلاف کیا) بےشک خدا ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/3/165)
 
 #### 4:62 · [[004 An-Nisa]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So how [will it be] when disaster strikes them because of what their hands have put forth and then they come to you swearing by Allāh, "We intended nothing but good conduct and accommodation."
 
 **English (Yusuf Ali):** How then, when they are seized by misfortune, because of the deeds which they hands have sent forth? Then their come to thee, swearing by Allah: "We meant no more than good-will and conciliation!"
+
+**Urdu (Fatah Muhammad Jalandhari):** تو کیسی (ندامت کی) بات ہے کہ جب ان کے اعمال (کی شامت سے) ان پر کوئی مصیبت واقع ہوتی ہے تو تمہارے پاس بھاگے آتے ہیں اور قسمیں کھاتے ہیں کہ والله ہمارا مقصود تو بھلائی اور موافقت تھا
 
 [Open on Quran.com](https://quran.com/4/62)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There are certainly among you men who would tarry behind: If a misfortune befalls you, they say: "Allah did favour us in that we were not present among them."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم میں کوئی ایسا بھی ہے کہ (عمداً) دیر لگاتا ہے۔ پھر اگر تم پر کوئی مصیبت پڑ جائے تو کہتا ہے کہ خدا نے مجھ پر بڑی مہربانی کی کہ میں ان میں موجود نہ تھا
+
 [Open on Quran.com](https://quran.com/4/72)
 
 #### 5:106 · [[005 Al-Maidah]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, testimony [should be taken] among you when death approaches one of you at the time of bequest - [that of] two just men from among you or two others from outside if you are traveling through the land and the disaster of death should strike you. Detain them after the prayer and let them both swear by Allāh if you doubt [their testimony, saying], "We will not exchange it [i.e., our oath] for a price [i.e., worldly gain], even if he should be a near relative, and we will not withhold the testimony of [i.e., ordained by] Allāh. Indeed, we would then be of the sinful."
 
 **English (Yusuf Ali):** O ye who believe! When death approaches any of you, (take) witnesses among yourselves when making bequests,- two just men of your own (brotherhood) or others from outside if ye are journeying through the earth, and the chance of death befalls you (thus). If ye doubt (their truth), detain them both after prayer, and let them both swear by Allah: "We wish not in this for any worldly gain, even though the (beneficiary) be our near relation: we shall hide not the evidence before Allah: if we do, then behold! the sin be upon us!"
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم میں سے کسی کی موت آموجود ہو تو شہادت (کا نصاب) یہ ہے کہ وصیت کے وقت تم (مسلمانوں) میں سے دو عادل (یعنی صاحب اعتبار) گواہ ہوں یا اگر (مسلمان نہ ملیں اور) تم سفر کر رہے ہو اور (اس وقت) تم پر موت کی مصیبت واقع ہو تو کسی دوسرے مذہب کے دو (شخصوں کو) گواہ (کر لو) اگر تم کو ان گواہوں کی نسبت کچھ شک ہو تو ان کو (عصر کی) نماز کے بعد کھڑا کرو اور دونوں خدا کی قسمیں کھائیں کہ ہم شہادت کا کچھ عوض نہیں لیں گے گو ہمارا رشتہ دار ہی ہو اور نہ ہم الله کی شہادت کو چھپائیں گے اگر ایسا کریں گے تو گنہگار ہوں گے
 
 [Open on Quran.com](https://quran.com/5/106)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If good befalls thee, it grieves them; but if a misfortune befalls thee, they say, "We took indeed our precautions beforehand," and they turn away rejoicing.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) اگر تم کو آسائش حاصل ہوتی ہے تو ان کو بری لگتی ہے۔ اور کوئی مشکل پڑتی ہے تو کہتے کہ ہم نے اپنا کام پہلے ہیں (درست) کر لیا تھا اور خوشیاں مناتے لوٹ جاتے ہیں
+
 [Open on Quran.com](https://quran.com/9/50)
 
 #### 28:47 · [[028 Al-Qasas]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if not that a disaster should strike them for what their hands put forth [of sins] and they would say, "Our Lord, why did You not send us a messenger so we could have followed Your verses and been among the believers?"...
 
 **English (Yusuf Ali):** If (We had) not (sent thee to the Quraish),- in case a calamity should seize them for (the deeds) that their hands have sent forth, they might say: "Our Lord! why didst Thou not sent us a messenger? We should then have followed Thy Signs and been amongst those who believe!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر ہم نے تو کو اس لئے بھیجا ہے کہ) ایسا نہ ہو کہ اگر ان (اعمال) کے سبب جو اُن کے ہاتھ آگے بھیج چکے ہیں ان پر کوئی مصیبت واقع ہو تو یہ کہنے لگیں کہ اے پروردگار تو نے ہماری طرف کوئی پیغمبر کیوں نہ بھیجا کہ ہم تیری آیتوں کی پیروی کرنے اور ایمان لانے والوں میں ہوتے
 
 [Open on Quran.com](https://quran.com/28/47)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whatever misfortune happens to you, is because on the things your hands have wrought, and for many (of them) He grants forgiveness.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو مصیبت تم پر واقع ہوتی ہے سو تمہارے اپنے فعلوں سے اور وہ بہت سے گناہ تو معاف ہی کردیتا ہے
+
 [Open on Quran.com](https://quran.com/42/30)
 
 #### 57:22 · [[057 Al-Hadid]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** No misfortune can happen on earth or in your souls but is recorded in a decree before We bring it into existence: That is truly easy for Allah:
 
+**Urdu (Fatah Muhammad Jalandhari):** کوئی مصیبت ملک پر اور خود تم پر نہیں پڑتی مگر پیشتر اس کے کہ ہم اس کو پیدا کریں ایک کتاب میں (لکھی ہوئی) ہے۔ (اور) یہ (کام) خدا کو آسان ہے
+
 [Open on Quran.com](https://quran.com/57/22)
 
 #### 64:11 · [[064 At-Taghabun]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** No disaster strikes except by permission of Allāh. And whoever believes in Allāh - He will guide his heart. And Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** No kind of calamity can occur, except by the leave of Allah: and if any one believes in Allah, (Allah) guides his heart (aright): for Allah knows all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** کوئی مصیبت نازل نہیں ہوتی مگر خدا کے حکم سے۔ اور جو شخص خدا پر ایمان لاتا ہے وہ اس کے دل کو ہدایت دیتا ہے۔ اور خدا ہر چیز سے باخبر ہے
 
 [Open on Quran.com](https://quran.com/64/11)
 

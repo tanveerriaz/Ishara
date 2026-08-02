@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:154 · [[002 Al-Baqarah]]
 
@@ -54,6 +54,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not say about those who are killed in the way of Allāh, "They are dead." Rather, they are alive, but you perceive [it] not.
 
 **English (Yusuf Ali):** And say not of those who are slain in the way of Allah: "They are dead." Nay, they are living, though ye perceive (it) not.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا کی راہ میں مارے جائیں ان کی نسبت یہ کہنا کہ وہ مرے ہوئے ہیں (وہ مردہ نہیں) بلکہ زندہ ہیں لیکن تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/2/154)
 
@@ -71,6 +73,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah! There is no god but He,-the Living, the Self-subsisting, Eternal. No slumber can seize Him nor sleep. His are all things in the heavens and on earth. Who is there can intercede in His presence except as He permitteth? He knoweth what (appeareth to His creatures as) before or after or behind them. Nor shall they compass aught of His knowledge except as He willeth. His Throne doth extend over the heavens and the earth, and He feeleth no fatigue in guarding and preserving them for He is the Most High, the Supreme (in glory).
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا (وہ معبود برحق ہے کہ) اس کے سوا کوئی عبادت کے لائق نہیں زندہ ہمیشہ رہنے والا اسے نہ اونگھ آتی ہے نہ نیند جو کچھ آسمانوں میں اور جو کچھ زمین میں ہیں سب اسی کا ہے کون ہے جو اس کی اجازت کے بغیر اس سے (کسی کی) سفارش کر سکے جو کچھ لوگوں کے روبرو ہو رہا ہے اور جو کچھ ان کے پیچھے ہوچکا ہے اسے سب معلوم ہے اور وہ اس کی معلومات میں سے کسی چیز پر دسترس حاصل نہیں کر سکتے ہاں جس قدر وہ چاہتا ہے (اسی قدر معلوم کرا دیتا ہے) اس کی بادشاہی (اور علم) آسمان اور زمین سب پر حاوی ہے اور اسے ان کی حفاظت کچھ بھی دشوار نہیں وہ بڑا عالی رتبہ اور جلیل القدر ہے
+
 [Open on Quran.com](https://quran.com/2/255)
 
 #### 3:2 · [[003 Ali Imran]]
@@ -86,6 +90,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh - there is no deity except Him, the Ever-Living, the Self-Sustaining.
 
 **English (Yusuf Ali):** Allah! There is no god but He,-the Living, the Self-Subsisting, Eternal.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا (جو معبود برحق ہے) اس کے سوا کوئی عبادت کے لائق نہیں ہمیشہ زندہ رہنے والا
 
 [Open on Quran.com](https://quran.com/3/2)
 
@@ -103,6 +109,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Thou causest the night to gain on the day, and thou causest the day to gain on the night; Thou bringest the Living out of the dead, and Thou bringest the dead out of the Living; and Thou givest sustenance to whom Thou pleasest, without measure."
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ہی رات کو دن میں داخل کرتا اور تو ہی دن کو رات میں داخل کرتا ہے تو ہی بے جان سے جاندار پیدا کرتا ہے اور تو ہی جاندار سے بے جان پیدا کرتا ہے اور توہی جس کو چاہتا ہے بے شمار رزق بخشتا ہے
+
 [Open on Quran.com](https://quran.com/3/27)
 
 #### 3:169 · [[003 Ali Imran]]
@@ -118,6 +126,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And never think of those who have been killed in the cause of Allāh as dead. Rather, they are alive with their Lord, receiving provision,
 
 **English (Yusuf Ali):** Think not of those who are slain in Allah's way as dead. Nay, they live, finding their sustenance in the presence of their Lord;
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کی راہ میں مارے گئے ان کو مرے ہوئے نہ سمجھنا (وہ مرے ہوئے نہیں ہیں) بلکہ خدا کے نزدیک زندہ ہیں اور ان کو رزق مل رہا ہے
 
 [Open on Quran.com](https://quran.com/3/169)
 
@@ -135,6 +145,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When a (courteous) greeting is offered you, meet it with a greeting still more courteous, or (at least) of equal courtesy. Allah takes careful account of all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم کو کوئی دعا دے تو (جواب میں) تم اس سے بہتر (کلمے) سے (اسے) دعا دو یا انہیں لفظوں سے دعا دو بےشک خدا ہر چیز کا حساب لینے والا ہے
+
 [Open on Quran.com](https://quran.com/4/86)
 
 #### 6:95 · [[006 Al-Anam]]
@@ -150,6 +162,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Allāh is the cleaver of grain and date seeds. He brings the living out of the dead and brings the dead out of the living. That is Allāh; so how are you deluded?
 
 **English (Yusuf Ali):** It is Allah Who causeth the seed-grain and the date-stone to split and sprout. He causeth the living to issue from the dead, and He is the one to cause the dead to issue from the living. That is Allah: then how are ye deluded away from the truth?
+
+**Urdu (Fatah Muhammad Jalandhari):** بے شک خدا ہی دانے اور گٹھلی کو پھاڑ کر (ان سے درخت وغیرہ) اگاتا ہے وہی جاندار کو بے جان سے نکالتا ہے اور وہی بےجان کا جاندار سے نکالنے والا ہے۔ یہی تو خدا ہے۔ پھر تم کہاں بہکے پھرتے ہو
 
 [Open on Quran.com](https://quran.com/6/95)
 
@@ -167,6 +181,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Who is it that sustains you (in life) from the sky and from the earth? or who is it that has power over hearing and sight? And who is it that brings out the living from the dead and the dead from the living? and who is it that rules and regulates all affairs?" They will soon say, "Allah". Say, "will ye not then show piety (to Him)?"
 
+**Urdu (Fatah Muhammad Jalandhari):** (ان سے) پوچھو کہ تم کو آسمان اور زمین میں رزق کون دیتا ہے یا (تمہارے) کانوں اور آنکھوں کا مالک کون ہے اور بےجان سے جاندار کون پیدا کرتا ہے اور دنیا کے کاموں کا انتظام کون کرتا ہے۔ جھٹ کہہ دیں گے کہ خدا۔ تو کہو کہ پھر تم (خدا سے) ڈرتے کیوں نہیں؟
+
 [Open on Quran.com](https://quran.com/10/31)
 
 #### 16:21 · [[016 An-Nahl]]
@@ -183,6 +199,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (They are things) dead, lifeless: nor do they know when they will be raised up.
 
+**Urdu (Fatah Muhammad Jalandhari):** لاشیں ہیں بےجان۔ ان کو یہ بھی تو معلوم نہیں کہ اٹھائے کب جائیں گے
+
 [Open on Quran.com](https://quran.com/16/21)
 
 #### 19:15 · [[019 Maryam]]
@@ -198,6 +216,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And peace be upon him the day he was born and the day he dies and the day he is raised alive.
 
 **English (Yusuf Ali):** So Peace on him the day he was born, the day that he dies, and the day that he will be raised up to life (again)!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن وہ پیدا ہوئے اور جس دن وفات پائیں گے اور جس دن زندہ کرکے اٹھائے جائیں گے۔ ان پر سلام اور رحمت (ہے)
 
 [Open on Quran.com](https://quran.com/19/15)
 

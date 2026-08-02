@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:46 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who are certain that they will meet their Lord and that they will return to Him.
 
 **English (Yusuf Ali):** Who bear in mind the certainty that they are to meet their Lord, and that they are to return to Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو یقین کئے ہوئے ہیں کہ وہ اپنے پروردگار سے ملنے والے ہیں اور اس کی طرف لوٹ کر جانے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/46)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Who say, when afflicted with calamity: "To Allah We belong, and to Him is our return":-
 
+**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں پر جب کوئی مصیبت واقع ہوتی ہے تو کہتے ہیں کہ ہم خدا ہی کا مال ہیں اور اسی کی طرف لوٹ کر جانے والے ہیں
+
 [Open on Quran.com](https://quran.com/2/156)
 
 #### 21:93 · [[021 Al-Anbya]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But (later generations) cut off their affair (of unity), one from another: (yet) will they all return to Us.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ اپنے معاملے میں باہم متفرق ہوگئے۔ (مگر) سب ہماری طرف رجوع کرنے والے ہیں
+
 [Open on Quran.com](https://quran.com/21/93)
 
 #### 23:60 · [[023 Al-Muminun]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they who give what they give while their hearts are fearful because they will be returning to their Lord -
 
 **English (Yusuf Ali):** And those who dispense their charity with their hearts full of fear, because they will return to their Lord;-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو دے سکتے ہیں دیتے ہیں اور ان کے دل اس بات سے ڈرتے رہتے ہیں کہ ان کو اپنے پروردگار کی لوٹ کر جانا ہے
 
 [Open on Quran.com](https://quran.com/23/60)
 

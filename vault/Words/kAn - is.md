@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:10 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** In their hearts is disease, so Allāh has increased their disease; and for them is a painful punishment because they [habitually] used to lie.
 
 **English (Yusuf Ali):** In their hearts is a disease; and Allah has increased their disease: And grievous is the penalty they (incur), because they are false (to themselves).
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کے دلوں میں (کفر کا) مرض تھا۔ خدا نے ان کا مرض اور زیادہ کر دیا اور ان کے جھوٹ بولنے کے سبب ان کو دکھ دینے والا عذاب ہوگا
 
 [Open on Quran.com](https://quran.com/2/10)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** These are they who have bartered Guidance for error: But their traffic is profitless, and they have lost true direction,
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے ہدایت چھوڑ کر گمراہی خریدی، تو نہ تو ان کی تجارت ہی نے کچھ نفع دیا اور نہ وہ ہدایت یاب ہی ہوئے
+
 [Open on Quran.com](https://quran.com/2/16)
 
 #### 2:23 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you are in doubt about what We have sent down [i.e., the Qur’ān] upon Our Servant [i.e., Prophet Muḥammad (ﷺ)], then produce a sūrah the like thereof and call upon your witnesses [i.e., supporters] other than Allāh, if you should be truthful.
 
 **English (Yusuf Ali):** And if ye are in doubt as to what We have revealed from time to time to Our servant, then produce a Sura like thereunto; and call your witnesses or helpers (If there are any) besides Allah, if your (doubts) are true.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو اس (کتاب) میں، جو ہم نے اپنے بندے (محمدﷺ عربی) پر نازل فرمائی ہے کچھ شک ہو تو اسی طرح کی ایک سورت تم بھی بنا لاؤ اور خدا کے سوا جو تمہارے مددگار ہوں ان کو بھی بلالو اگر تم سچے ہو
 
 [Open on Quran.com](https://quran.com/2/23)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** How can ye reject the faith in Allah?- seeing that ye were without life, and He gave you life; then will He cause you to die, and will again bring you to life; and again to Him will ye return.
 
+**Urdu (Fatah Muhammad Jalandhari):** (کافرو!) تم خدا سے کیوں کر منکر ہو سکتے ہو جس حال میں کہ تم بےجان تھے تو اس نے تم کو جان بخشی پھر وہی تم کو مارتا ہے پھر وہی تم کو زندہ کرے گا پھر تم اسی کی طرف لوٹ کر جاؤ گے
+
 [Open on Quran.com](https://quran.com/2/28)
 
 #### 2:31 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He taught Adam the names - all of them. Then He showed them to the angels and said, "Inform Me of the names of these, if you are truthful."
 
 **English (Yusuf Ali):** And He taught Adam the names of all things; then He placed them before the angels, and said: "Tell me the names of these if ye are right."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس نے آدم کو سب (چیزوں کے) نام سکھائے پھر ان کو فرشتوں کے سامنے کیا اور فرمایا کہ اگر تم سچے ہو تو مجھے ان کے نام بتاؤ
 
 [Open on Quran.com](https://quran.com/2/31)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "O Adam! Tell them their names." When he had told them, Allah said: "Did I not tell you that I know the secrets of heaven and earth, and I know what ye reveal and what ye conceal?"
 
+**Urdu (Fatah Muhammad Jalandhari):** (تب) خدا نے (آدم کو) حکم دیا کہ آدم! تم ان کو ان (چیزوں) کے نام بتاؤ۔ جب انہوں نے ان کو ان کے نام بتائے تو (فرشتوں سے) فرمایا کیوں میں نے تم سے نہیں کہا تھا کہ میں آسمانوں اور زمین کی (سب) پوشیدہ باتیں جاتنا ہوں اور جو تم ظاہر کرتے ہو اور جو پوشیدہ کرتے ہو (سب) مجھ کو معلوم ہے
+
 [Open on Quran.com](https://quran.com/2/33)
 
 #### 2:34 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] when We said to the angels, "Prostrate before Adam"; so they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers.
 
 **English (Yusuf Ali):** And behold, We said to the angels: "Bow down to Adam" and they bowed down. Not so Iblis: he refused and was haughty: He was of those who reject Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے فرشتوں کو حکم دیا کہ آدم کے آگے سجدہ کرو تو وہ سجدے میں گر پڑے مگر شیطان نے انکار کیا اور غرور میں آکر کافر بن گیا
 
 [Open on Quran.com](https://quran.com/2/34)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We said: "O Adam! dwell thou and thy wife in the Garden; and eat of the bountiful things therein as (where and when) ye will; but approach not this tree, or ye run into harm and transgression."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کہا کہ اے آدم تم اور تمہاری بیوی بہشت میں رہو اور جہاں سے چاہو بے روک ٹوک کھاؤ (پیو) لیکن اس درخت کے پاس نہ جانا نہیں تو ظالموں میں (داخل) ہو جاؤ گے
+
 [Open on Quran.com](https://quran.com/2/35)
 
 #### 2:36 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then did Satan make them slip from the (garden), and get them out of the state (of felicity) in which they had been. We said: "Get ye down, all (ye people), with enmity between yourselves. On earth will be your dwelling-place and your means of livelihood - for a time."
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر شیطان نے دونوں کو وہاں سے پھسلا دیا اور جس (عیش ونشاط) میں تھے، اس سے ان کو نکلوا دیا۔ تب ہم نے حکم دیا کہ (بہشت بریں سے) چلے جاؤ۔ تم ایک دوسرے کے دشمن ہو، اور تمہارے لیے زمین میں ایک وقت تک ٹھکانا اور معاش (مقرر کر دیا گیا) ہے
+
 [Open on Quran.com](https://quran.com/2/36)
 
 #### 2:41 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And believe in what I have sent down confirming that which is [already] with you, and be not the first to disbelieve in it. And do not exchange My signs for a small price, and fear [only] Me.
 
 **English (Yusuf Ali):** And believe in what I reveal, confirming the revelation which is with you, and be not the first to reject Faith therein, nor sell My Signs for a small price; and fear Me, and Me alone.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کتاب میں نے (اپنے رسول محمدﷺ پر) نازل کی ہے جو تمہاری کتاب تورات کو سچا کہتی ہے، اس پر ایمان لاؤ اور اس سے منکرِ اول نہ بنو، اور میری آیتوں میں (تحریف کر کے) ان کے بدلے تھوڑی سی قیمت (یعنی دنیاوی منعفت) نہ حاصل کرو، اور مجھی سے خوف رکھو
 
 [Open on Quran.com](https://quran.com/2/41)
 

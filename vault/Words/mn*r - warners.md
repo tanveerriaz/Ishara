@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[n*r - ndhr]]
+- [[n*r - make vow impose]]
 
 ### Meaning
 **warners** · Lemma **مُنذِر**
@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:213 · [[002 Al-Baqarah]]
 
@@ -52,6 +52,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Mankind was [of] one religion [before their deviation]; then Allāh sent the prophets as bringers of good tidings and warners and sent down with them the Scripture in truth to judge between the people concerning that in which they differed. And none differed over it [i.e., the Scripture] except those who were given it - after the clear proofs came to them - out of jealous animosity among themselves. And Allāh guided those who believed to the truth concerning that over which they had differed, by His permission. And Allāh guides whom He wills to a straight path.
 
 **English (Yusuf Ali):** Mankind was one single nation, and Allah sent Messengers with glad tidings and warnings; and with them He sent the Book in truth, to judge between people in matters wherein they differed; but the People of the Book, after the clear Signs came to them, did not differ among themselves, except through selfish contumacy. Allah by His Grace Guided the believers to the Truth, concerning that wherein they differed. For Allah guided whom He will to a path that is straight.
+
+**Urdu (Fatah Muhammad Jalandhari):** (پہلے تو سب) لوگوں کا ایک ہی مذہب تھا (لیکن وہ آپس میں اختلاف کرنے لگے) تو خدا نے (ان کی طرف) بشارت دینے والے اور ڈر سنانے والے پیغمبر بھیجے اور ان پر سچائی کے ساتھ کتابیں نازل کیں تاکہ جن امور میں لوگ اختلاف کرتے تھے ان کا ان میں فیصلہ کردے۔ اور اس میں اختلاف بھی انہیں لوگوں نے کیا جن کو کتاب دی گئی تھی باوجود یہ کہ ان کے پاس کھلے ہوئے احکام آچکے تھے (اور یہ اختلاف انہوں نے صرف) آپس کی ضد سے (کیا) تو جس امر حق میں وہ اختلاف کرتے تھے خدا نے اپنی مہربانی سے مومنوں کو اس کی راہ دکھا دی۔ اور خدا جس کو چاہتا ہے سیدھا رستہ دکھا دیتا ہے
 
 [Open on Quran.com](https://quran.com/2/213)
 
@@ -69,6 +71,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Messengers who gave good news as well as warning, that mankind, after (the coming) of the messengers, should have no plea against Allah: For Allah is Exalted in Power, Wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** (سب) پیغمبروں کو (خدا نے) خوشخبری سنانے والے اور ڈرانے والے (بنا کر بھیجا تھا) تاکہ پیغمبروں کے آنے کے بعد لوگوں کو خدا پر الزام کا موقع نہ رہے اور خدا غالب حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/4/165)
 
 #### 6:48 · [[006 Al-Anam]]
@@ -84,6 +88,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We send not the messengers except as bringers of good tidings and warners. So whoever believes and reforms - there will be no fear concerning them, nor will they grieve.
 
 **English (Yusuf Ali):** We send the messengers only to give good news and to warn: so those who believe and mend (their lives),- upon them shall be no fear, nor shall they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم جو پیغمبروں کو بھیجتے رہے ہیں تو خوشخبری سنانے اور ڈرانے کو پھر جو شخص ایمان لائے اور نیکوکار ہوجائے تو ایسے لوگوں کو نہ کچھ خوف ہوگا اور نہ وہ اندوہناک ہوں گے
 
 [Open on Quran.com](https://quran.com/6/48)
 
@@ -101,6 +107,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They rejected Him, but We delivered him, and those with him, in the Ark, and We made them inherit (the earth), while We overwhelmed in the flood those who rejected Our Signs. Then see what was the end of those who were warned (but heeded not)!
 
+**Urdu (Fatah Muhammad Jalandhari):** لیکن ان لوگوں نے ان کی تکذیب کی تو ہم نے ان کو اور جو لوگ ان کے ساتھ کشتی میں سوار تھے سب کو (طوفان سے) بچا لیا اور انہیں (زمین میں) خلیفہ بنادیا اور جن لوگوں نے ہماری آیتوں کو جھٹلایا ان کو غرق کر دیا تو دیکھ لو کہ جو لوگ ڈرائے گئے تھے ان کا کیا انجام ہوا
+
 [Open on Quran.com](https://quran.com/10/73)
 
 #### 13:7 · [[013 Ar-Rad]]
@@ -116,6 +124,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who disbelieved say, "Why has a sign not been sent down to him from his Lord?" You are only a warner, and for every people is a guide.
 
 **English (Yusuf Ali):** And the Unbelievers say: "Why is not a sign sent down to him from his Lord?" But thou art truly a warner, and to every people a guide.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر لوگ کہتے ہیں کہ اس (پیغمبر) پر اس کے پروردگار کی طرف سے کوئی نشانی نازل نہیں ہوئی۔ سو (اے محمدﷺ) تم تو صرف ہدایت کرنے والے ہو اور ہر ایک قوم کے لیے رہنما ہوا کرتا ہے
 
 [Open on Quran.com](https://quran.com/13/7)
 
@@ -133,6 +143,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We only send the messengers to give Glad Tidings and to give warnings: But the unbelievers dispute with vain argument, in order therewith to weaken the truth, and they treat My Signs as a jest, as also the fact that they are warned!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم جو پیغمبروں کو بھیجا کرتے ہیں تو صرف اس لئے کہ (لوگوں کو خدا کی نعمتوں کی) خوشخبریاں سنائیں اور (عذاب سے) ڈرائیں۔ اور جو کافر ہیں وہ باطل کی (سند) سے جھگڑا کرتے ہیں تاکہ اس سے حق کو پھسلا دیں اور انہوں نے ہماری آیتوں کو اور جس چیز سے ان کو ڈرایا جاتا ہے ہنسی بنا لیا
+
 [Open on Quran.com](https://quran.com/18/56)
 
 #### 26:173 · [[026 Ash-Shuara]]
@@ -148,6 +160,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We rained upon them a rain [of stones], and evil was the rain of those who were warned.
 
 **English (Yusuf Ali):** We rained down on them a shower (of brimstone): and evil was the shower on those who were admonished (but heeded not)!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان پر مینھہ برسایا۔ سو جو مینھہ ان (لوگوں) پر (برسا) جو ڈرائے گئے برا تھا
 
 [Open on Quran.com](https://quran.com/26/173)
 
@@ -165,6 +179,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To thy heart and mind, that thou mayest admonish.
 
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی اس نے) تمہارے دل پر (القا) کیا ہے تاکہ (لوگوں کو) نصیحت کرتے رہو
+
 [Open on Quran.com](https://quran.com/26/194)
 
 #### 26:208 · [[026 Ash-Shuara]]
@@ -181,6 +197,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Never did We destroy a population, but had its warners -
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کوئی بستی ہلاک نہیں کی مگر اس کے لئے نصیحت کرنے والے (پہلے بھیج دیتے) تھے
+
 [Open on Quran.com](https://quran.com/26/208)
 
 #### 27:58 · [[027 An-Naml]]
@@ -196,6 +214,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We rained upon them a rain [of stones], and evil was the rain of those who were warned.
 
 **English (Yusuf Ali):** And We rained down on them a shower (of brimstone): and evil was the shower on those who were admonished (but heeded not)!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان پر مینھہ برسایا سو (جو) مینھہ ان لوگوں پر برسا جن کو متنبہ کردیا گیا تھا، برا تھا
 
 [Open on Quran.com](https://quran.com/27/58)
 

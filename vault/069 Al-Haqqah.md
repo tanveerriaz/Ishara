@@ -14,82 +14,82 @@ The Reality · 52 ayahs
 
 ## Words in this surah (graph)
 
-- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
 - [[vmAnyp - eight]] — `ثَمانِيَة` · eight
-- [[qbl - before]] — `قَبْل` · before
-- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
-- [[lyl - night]] — `لَيْل` · night
-- [[wAHdp - single]] — `واحِدَة` · single
-- [[>gnY - availed]] — `أَغْنَى` · availed
-- [[yqyn - certainty]] — `يَقِين` · certainty
-- [[Er$ - throne]] — `عَرْش` · throne
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[qr> - read]] — `قَرَأَ` · read
-- [[xAwyp - had overturned]] — `خاوِيَة` · had overturned
-- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
-- [[lys - not]] — `لَيْسَ` · not
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[mA' - water]] — `ماء` · water
-- [[EZym - great]] — `عَظِيم` · great
-- [[sxr - subjected]] — `سَخِرَ` · subjected
-- [[jA' - came them]] — `جاءَ` · came them
+- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[ryH - wind]] — `رِيح` · wind
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[EAd - aad]] — `عادَ` · aad
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[*rE - uneasy]] — `ذَرْع` · uneasy
-- [[bED - others]] — `بَعْض` · others
-- [[Hq - truth]] — `حَقّ` · truth
+- [[>rD - earth]] — `أَرْض` · earth
+- [[qr> - read]] — `قَرَأَ` · read
 - [[slslp - chains]] — `سِلْسِلَة` · chains
+- [[>Hd - anyone]] — `أَحَد` · anyone
+- [[Elm - know]] — `عَلِمَ` · know
+- [[xAwyp - had overturned]] — `خاوِيَة` · had overturned
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[fwq - above them]] — `فَوْق` · above them
+- [[qbl - before]] — `قَبْل` · before
+- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[wAHdp - single]] — `واحِدَة` · single
+- [[bED - others]] — `بَعْض` · others
+- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
+- [[qlyl - little]] — `قَلِيل` · little
+- [[ktAb - book]] — `كِتاب` · book
+- [[nxl - date-palms]] — `نَخْل` · date-palms
+- [[slk - follow]] — `سَلَكَ` · follow
 
 ## Roots
 
 - [[$Er - name]]
 - [[$ml - include encompass something]]
 - [[$qq - cleave]]
-- [[$rb - shrb]]
-- [[*kr - dhakara]]
+- [[$rb - drink]]
+- [[*kr - remember recall something]]
 - [[*rE - forearm]]
-- [[>*n - adhn]]
+- [[>*n - ear]]
 - [[>Hd - anyone]]
-- [[>fk - afk]]
+- [[>fk - turn something away]]
 - [[>kl - eat]]
-- [[>mn - amn]]
-- [[>rD - ard]]
+- [[>mn - believe]]
+- [[>rD - earth]]
 - [[>ty - give]]
 - [[>x* - take]]
 - [[ESy - disobey]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Ejz - old age weakness]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Er$ - ersh]]
-- [[ErD - erd]]
-- [[Etw - etw]]
-- [[Ewd - ewd]]
-- [[Ey$ - eysh]]
+- [[Er$ - shaded structure]]
+- [[ErD - turn away]]
+- [[Etw - pride]]
+- [[Ewd - aad]]
+- [[Ey$ - life sustenance]]
 - [[HDD - incite]]
 - [[Hml - bear]]
-- [[Hmm - hmm]]
+- [[Hmm - blackness being intensely]]
 - [[Hqq - established as true]]
 - [[Hsb - number]]
 - [[Hsr - remove uncover something]]
-- [[Sly - sly]]
-- [[SrSr - srsr]]
+- [[Sly - exposed fire heat]]
+- [[SrSr - furious]]
 - [[Swr - incline]]
-- [[TEm - tem]]
+- [[TEm - food]]
 - [[Tgy - transgression]]
 - [[Znn - think]]
 - [[allah - God]]
-- [[bED - bed]]
-- [[bSr - bsr]]
+- [[bED - others]]
+- [[bSr - mental perception]]
 - [[bqy - remain]]
-- [[dkk - dkk]]
+- [[dkk - crushed]]
 - [[dnw - become near]]
 - [[dry - know]]
-- [[fwq - hiccuping]]
+- [[fwq - above]]
 - [[gll - enter penetrate]]
 - [[gny - dwelling residing place]]
 - [[gsl - wash water]]
-- [[hlk - hlk]]
+- [[hlk - perish destroyed]]
 - [[hn> - satisfaction]]
 - [[jEl - we made]]
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[frg - as body becomes]]
+- [[frg - empty vacant]]
 
 ### Meaning
 **pour** · Lemma **أَفْرِغْ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:250 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they went forth to [face] Goliath and his soldiers, they said, "Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people."
 
 **English (Yusuf Ali):** When they advanced to meet Goliath and his forces, they prayed: "Our Lord! Pour out constancy on us and make our steps firm: Help us against those that reject faith."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب وہ لوگ جالوت اور اس کے لشکر کے مقابل آئے تو (خدا سے) دعا کی کہ اے پروردگار ہم پر صبر کے دہانے کھول دے اور ہمیں (لڑائی میں) ثابت قدم رکھ اور (لشکر) کفار پر فتحیاب کر
 
 [Open on Quran.com](https://quran.com/2/250)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "But thou dost wreak thy vengeance on us simply because we believed in the Signs of our Lord when they reached us! Our Lord! pour out on us patience and constancy, and take our souls unto thee as Muslims (who bow to thy will)!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس کے سوا تجھ کو ہماری کون سی بات بری لگی ہے کہ جب ہمارے پروردگار کی نشانیاں ہمارے پاس آگئیں تو ہم ان پر ایمان لے آئے۔ اے پروردگار ہم پر صبرواستقامت کے دہانے کھول دے اور ہمیں (ماریو تو) مسلمان ہی ماریو
+
 [Open on Quran.com](https://quran.com/7/126)
 
 #### 18:96 · [[018 Al-Kahf]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Bring me bars of iron" - until, when he had leveled [them] between the two mountain walls, he said, "Blow [with bellows]," until when he had made it [like] fire, he said, "Bring me, that I may pour over it molten copper."
 
 **English (Yusuf Ali):** "Bring me blocks of iron." At length, when he had filled up the space between the two steep mountain-sides, He said, "Blow (with your bellows)" Then, when he had made it (red) as fire, he said: "Bring me, that I may pour over it, molten lead."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو تم لوہے کے (بڑے بڑے) تختے لاؤ (چنانچہ کام جاری کردیا گیا) یہاں تک کہ جب اس نے دونوں پہاڑوں کے درمیان (کا حصہ) برابر کر دیا۔ اور کہا کہ (اب اسے) دھونکو۔ یہاں تک کہ جب اس کو (دھونک دھونک) کر آگ کر دیا تو کہا کہ (اب) میرے پاس تانبہ لاؤ اس پر پگھلا کر ڈال دوں
 
 [Open on Quran.com](https://quran.com/18/96)
 

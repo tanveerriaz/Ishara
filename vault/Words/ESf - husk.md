@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ESf - esf]]
+- [[ESf - stormy]]
 
 ### Meaning
 **husk** · Lemma **عَصْف**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 55:12 · [[055 Ar-Rahman]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And grain having husks and scented plants.
 
 **English (Yusuf Ali):** Also corn, with (its) leaves and stalk for fodder, and sweet-smelling plants.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اناج جس کے ساتھ بھس ہوتا ہے اور خوشبودار پھول
 
 [Open on Quran.com](https://quran.com/55/12)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Which then blow violently in tempestuous Gusts,
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر زور پکڑ کر جھکڑ ہو جاتی ہیں
+
 [Open on Quran.com](https://quran.com/77/2)
 
 #### 105:5 · [[105 Al-Fil]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He made them like eaten straw.
 
 **English (Yusuf Ali):** Then did He make them like an empty field of stalks and straw, (of which the corn) has been eaten up.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کو ایسا کر دیا جیسے کھایا ہوا بھس
 
 [Open on Quran.com](https://quran.com/105/5)
 

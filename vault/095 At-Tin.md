@@ -14,42 +14,42 @@ The Fig · 8 ayahs
 
 ## Words in this surah (graph)
 
-- [[>Hsn - best]] — `أَحْسَن` · best
-- [[allah - God]] — `الله` · God
-- [[sAfl - its downside]] — `سافِل` · its downside
-- [[mmnwn - ending]] — `مَمْنُون` · ending
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[lys - not]] — `لَيْسَ` · not
-- [[HAkm - judges]] — `حاكِم` · judges
-- [[>myn - trustworthy]] — `أَمِين` · trustworthy
-- [[Eml - do]] — `عَمِلَ` · do
+- [[rd - returned]] — `رَدَّ` · returned
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[<nsAn - man]] — `إِنسان` · man
+- [[xlq - creation]] — `خَلَقَ` · creation
 - [[bEd - after]] — `بَعْد` · after
-- [[gyr - without]] — `غَيْر` · without
+- [[Twr - mount]] — `طُور` · mount
+- [[dyn - religion]] — `دِين` · religion
+- [[lys - not]] — `لَيْسَ` · not
+- [[>Hsn - best]] — `أَحْسَن` · best
+- [[>sfl - lowest]] — `أَسْفَل` · lowest
+- [[mmnwn - ending]] — `مَمْنُون` · ending
 - [[>jr - reward]] — `أَجْر` · reward
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[Eml - do]] — `عَمِلَ` · do
+- [[HAkm - judges]] — `حاكِم` · judges
+- [[allah - God]] — `الله` · God
+- [[>myn - trustworthy]] — `أَمِين` · trustworthy
+- [[sAfl - its downside]] — `سافِل` · its downside
+- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
 - [[zytwn - olives]] — `زَيْتُون` · olives
 - [[bld - city]] — `بَلَد` · city
-- [[dyn - religion]] — `دِين` · religion
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[<nsAn - man]] — `إِنسان` · man
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[rd - returned]] — `رَدَّ` · returned
-- [[Twr - mount]] — `طُور` · mount
-- [[>sfl - lowest]] — `أَسْفَل` · lowest
+- [[gyr - without]] — `غَيْر` · without
 
 ## Roots
 
-- [[>jr - ajr]]
-- [[>mn - amn]]
-- [[>ns - ans]]
-- [[Eml - eml]]
+- [[>jr - recompensing rewarding someone]]
+- [[>mn - believe]]
+- [[>ns - mankind]]
+- [[Eml - intentional action deed]]
 - [[Hkm - prevent restrain someone]]
 - [[Hsn - good]]
-- [[SlH - slh]]
-- [[Twr - twr]]
+- [[SlH - make something good]]
+- [[Twr - mount]]
 - [[allah - God]]
 - [[bEd - become distant]]
-- [[bld - bld]]
+- [[bld - country]]
 - [[dyn - judgment]]
 - [[gyr - ghayr]]
 - [[k*b - denied]]
@@ -57,7 +57,7 @@ The Fig · 8 ayahs
 - [[mnn - cut break something]]
 - [[qwm - upright]]
 - [[rdd - return]]
-- [[sfl - sfl]]
+- [[sfl - become low]]
 - [[xlq - create]]
 - [[zyt - olive tree its]]
 

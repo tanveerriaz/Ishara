@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:255 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh - there is no deity except Him, the Ever-Living, the Self-Sustaining. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursī extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.
 
 **English (Yusuf Ali):** Allah! There is no god but He,-the Living, the Self-subsisting, Eternal. No slumber can seize Him nor sleep. His are all things in the heavens and on earth. Who is there can intercede in His presence except as He permitteth? He knoweth what (appeareth to His creatures as) before or after or behind them. Nor shall they compass aught of His knowledge except as He willeth. His Throne doth extend over the heavens and the earth, and He feeleth no fatigue in guarding and preserving them for He is the Most High, the Supreme (in glory).
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا (وہ معبود برحق ہے کہ) اس کے سوا کوئی عبادت کے لائق نہیں زندہ ہمیشہ رہنے والا اسے نہ اونگھ آتی ہے نہ نیند جو کچھ آسمانوں میں اور جو کچھ زمین میں ہیں سب اسی کا ہے کون ہے جو اس کی اجازت کے بغیر اس سے (کسی کی) سفارش کر سکے جو کچھ لوگوں کے روبرو ہو رہا ہے اور جو کچھ ان کے پیچھے ہوچکا ہے اسے سب معلوم ہے اور وہ اس کی معلومات میں سے کسی چیز پر دسترس حاصل نہیں کر سکتے ہاں جس قدر وہ چاہتا ہے (اسی قدر معلوم کرا دیتا ہے) اس کی بادشاہی (اور علم) آسمان اور زمین سب پر حاوی ہے اور اسے ان کی حفاظت کچھ بھی دشوار نہیں وہ بڑا عالی رتبہ اور جلیل القدر ہے
 
 [Open on Quran.com](https://quran.com/2/255)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whoever recommends and helps a good cause becomes a partner therein: And whoever recommends and helps an evil cause, shares in its burden: And Allah hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص نیک بات کی سفارش کرے تو اس کو اس (کے ثواب) میں سے حصہ ملے گا اور جو بری بات کی سفارش کرے اس کو اس (کے عذاب) میں سے حصہ ملے گا اور خدا ہر چیز پر قدرت رکھتا ہے
+
 [Open on Quran.com](https://quran.com/4/85)
 
 #### 7:53 · [[007 Al-Araf]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Do they just wait for the final fulfilment of the event? On the day the event is finally fulfilled, those who disregarded it before will say: "The messengers of our Lord did indeed bring true (tidings). Have we no intercessors now to intercede on our behalf? Or could we be sent back? then should we behave differently from our behaviour in the past." In fact they will have lost their souls, and the things they invented will leave them in the lurch.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ اس کے وعدہٴ عذاب کے منتظر ہیں۔ جس دن وہ وعدہ آجائے گا تو جو لوگ اس کو پہلے سے بھولے ہوئے ہوں گے وہ بول اٹھیں گے کہ بےشک ہمارے پروردگار کے رسول حق لے کر آئے تھے۔ بھلا (آج) ہمارا کوئی سفارشی ہیں کہ ہماری سفارش کریں یا ہم (دنیا میں) پھر لوٹا دیئے جائیں کہ جو عمل (بد) ہم (پہلے) کرتے تھے (وہ نہ کریں بلکہ) ان کے سوا اور (نیک) عمل کریں۔ بےشک ان لوگوں نے اپنا نقصان کیا اور جو کچھ یہ افتراء کیا کرتے تھے ان سے سب جاتا رہا
+
 [Open on Quran.com](https://quran.com/7/53)
 
 #### 21:28 · [[021 Al-Anbya]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He knows what is [presently] before them and what will be after them, and they cannot intercede except on behalf of one whom He approves. And they, from fear of Him, are apprehensive.
 
 **English (Yusuf Ali):** He knows what is before them, and what is behind them, and they offer no intercession except for those who are acceptable, and they stand in awe and reverence of His (Glory).
+
+**Urdu (Fatah Muhammad Jalandhari):** جو کچھ ان کے آگے ہوچکا ہے اور پیچھے ہوگا وہ سب سے واقف ہے اور وہ (اس کے پاس کسی کی) سفارش نہیں کرسکتے مگر اس شخص کی جس سے خدا خوش ہو اور وہ اس کی ہیبت سے ڈرتے رہتے ہیں
 
 [Open on Quran.com](https://quran.com/21/28)
 

@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:139 · [[002 Al-Baqarah]]
 
@@ -51,6 +51,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O Muḥammad], "Do you argue with us about Allāh while He is our Lord and your Lord? For us are our deeds, and for you are your deeds. And we are sincere [in deed and intention] to Him."
 
 **English (Yusuf Ali):** Say: Will ye dispute with us about Allah, seeing that He is our Lord and your Lord; that we are responsible for our doings and ye for yours; and that We are sincere (in our faith) in Him?
+
+**Urdu (Fatah Muhammad Jalandhari):** (ان سے) کہو، کیا تم خدا کے بارے میں ہم سے جھگڑتے ہو، حالانکہ وہی ہمارا اور تمھارا پروردگار ہے اور ہم کو ہمارے اعمال (کا بدلہ ملے گا) اور تم کو تمھارے اعمال (کا) اور ہم خاص اسی کی عبادت کرنے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/139)
 
@@ -68,6 +70,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "My Lord hath commanded justice; and that ye set your whole selves (to Him) at every time and place of prayer, and call upon Him, making your devotion sincere as in His sight: such as He created you in the beginning, so shall ye return."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میرے پروردگار نے تو انصاف کرنے کا حکم دیا ہے۔ اور یہ کہ ہر نماز کے وقت سیدھا (قبلے کی طرف) رخ کیا کرو اور خاص اسی کی عبادت کرو اور اسی کو پکارو۔ اس نے جس طرح تم کو ابتداء میں پیدا کیا تھا اسی طرح تم پھر پیدا ہوگے
+
 [Open on Quran.com](https://quran.com/7/29)
 
 #### 10:22 · [[010 Yunus]]
@@ -83,6 +87,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is He who enables you to travel on land and sea until, when you are in ships and they sail with them by a good wind and they rejoice therein, there comes a storm wind and the waves come upon them from every place and they expect to be engulfed, they supplicate Allāh, sincere to Him in religion, "If You should save us from this, we will surely be among the thankful."
 
 **English (Yusuf Ali):** He it is Who enableth you to traverse through land and sea; so that ye even board ships;- they sail with them with a favourable wind, and they rejoice thereat; then comes a stormy wind and the waves come to them from all sides, and they think they are being overwhelmed: they cry unto Allah, sincerely offering (their) duty unto Him saying, "If thou dost deliver us from this, we shall truly show our gratitude!"
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جو تم کو جنگل اور دریا میں چلنے پھرنے اور سیر کرنے کی توفیق دیتا ہے۔ یہاں تک کہ جب تم کشتیوں میں (سوار) ہوتے اور کشتیاں پاکیزہ ہوا (کے نرم نرم جھونکوں) سے سواروں کو لے کر چلنے لگتی ہیں اور وہ ان سے خوش ہوتے ہیں تو ناگہاں زناٹے کی ہوا چل پڑتی ہے اور لہریں ہر طرف سے ان پر (جوش مارتی ہوئی) آنے لگتی ہیں اور وہ خیال کرتے ہیں کہ (اب تو) لہروں میں گھر گئے تو اس وقت خالص خدا ہی کی عبادت کرکے اس سے دعا مانگنے لگتے ہیں کہ (اے خدا) اگر تو ہم کو اس سے نجات بخشے تو ہم (تیرے) بہت ہی شکر گزار ہوں
 
 [Open on Quran.com](https://quran.com/10/22)
 
@@ -100,6 +106,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And (with passion) did she desire him, and he would have desired her, but that he saw the evidence of his Lord: thus (did We order) that We might turn away from him (all) evil and shameful deeds: for he was one of Our servants, sincere and purified.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس عورت نے ان کا قصد کیا اور انہوں نے اس کا قصد کیا۔ اگر وہ اپنے پروردگار کی نشانی نہ دیکھتے (تو جو ہوتا ہوتا) یوں اس لیے (کیا گیا) کہ ہم ان سے برائی اور بےحیائی کو روک دیں۔ بےشک وہ ہمارے خالص بندوں میں سے تھے
+
 [Open on Quran.com](https://quran.com/12/24)
 
 #### 15:40 · [[015 Al-Hijr]]
@@ -115,6 +123,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except, among them, Your chosen servants."
 
 **English (Yusuf Ali):** "Except Thy servants among them, sincere and purified (by Thy Grace)."
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں ان میں جو تیرے مخلص بندے ہیں (ان پر قابو چلنا مشکل ہے)
 
 [Open on Quran.com](https://quran.com/15/40)
 
@@ -132,6 +142,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Also mention in the Book (the story of) Moses: for he was specially chosen, and he was a messenger (and) a prophet.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کتاب میں موسیٰ کا بھی ذکر کرو۔ بےشک وہ (ہمارے) برگزیدہ اور پیغمبر مُرسل تھے
+
 [Open on Quran.com](https://quran.com/19/51)
 
 #### 29:65 · [[029 Al-Ankabut]]
@@ -147,6 +159,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they board a ship, they supplicate Allāh, sincere to Him in religion [i.e., faith and hope]. But when He delivers them to the land, at once they associate others with Him
 
 **English (Yusuf Ali):** Now, if they embark on a boat, they call on Allah, making their devotion sincerely (and exclusively) to Him; but when He has delivered them safely to (dry) land, behold, they give a share (of their worship to others)!-
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب یہ کشتی میں سوار ہوتے ہیں تو خدا کو پکارتے (اور) خالص اُسی کی عبادت کرتے ہیں۔ لیکن جب وہ اُن کو نجات دے کر خشکی پر پہنچا دیتا ہے تو جھٹ شرک کرنے لگے جاتے ہیں
 
 [Open on Quran.com](https://quran.com/29/65)
 
@@ -164,6 +178,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When a wave covers them like the canopy (of clouds), they call to Allah, offering Him sincere devotion. But when He has delivered them safely to land, there are among them those that halt between (right and wrong). But none reject Our Signs except only a perfidious ungrateful (wretch)!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب اُن پر (دریا کی) لہریں سائبانوں کی طرح چھا جاتی ہیں تو خدا کو پکارنے (اور) خالص اس کی عبادت کرنے لگتے ہیں پھر جب وہ اُن کو نجات دے کر خشکی پر پہنچا دیتا ہے تو بعض ہی انصاف پر قائم رہتے ہیں۔ اور ہماری نشانیوں سے وہی انکار کرتے ہیں جو عہد شکن اور ناشکرے ہیں
+
 [Open on Quran.com](https://quran.com/31/32)
 
 #### 37:40 · [[037 As-Saffat]]
@@ -180,6 +196,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But the sincere (and devoted) Servants of Allah,-
 
+**Urdu (Fatah Muhammad Jalandhari):** مگر جو خدا کے بندگان خاص ہیں
+
 [Open on Quran.com](https://quran.com/37/40)
 
 #### 37:74 · [[037 As-Saffat]]
@@ -195,6 +213,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But not the chosen servants of Allāh.
 
 **English (Yusuf Ali):** Except the sincere (and devoted) Servants of Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں خدا کے بندگان خاص (کا انجام بہت اچھا ہوا)
 
 [Open on Quran.com](https://quran.com/37/74)
 

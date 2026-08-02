@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 25:61 · [[025 Al-Furqan]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Blessed is He who has placed in the sky great stars and placed therein a [burning] lamp and luminous moon.
 
 **English (Yusuf Ali):** Blessed is He Who made constellations in the skies, and placed therein a Lamp and a Moon giving light;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (خدا) بڑی برکت والا ہے جس نے آسمانوں میں برج بنائے اور ان میں (آفتاب کا نہایت روشن) چراغ اور چمکتا ہوا چاند بھی بنایا
 
 [Open on Quran.com](https://quran.com/25/61)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And as one who invites to Allah's (grace) by His leave, and as a lamp spreading light.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا کی طرف بلانے والا اور چراغ روشن
+
 [Open on Quran.com](https://quran.com/33/46)
 
 #### 71:16 · [[071 Nuh]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "'And made the moon a light in their midst, and made the sun as a (Glorious) Lamp?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور چاند کو ان میں (زمین کا) نور بنایا ہے اور سورج کو چراغ ٹھہرایا ہے
+
 [Open on Quran.com](https://quran.com/71/16)
 
 #### 78:13 · [[078 An-Naba]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And made [therein] a burning lamp
 
 **English (Yusuf Ali):** And placed (therein) a Light of Splendour?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (آفتاب کا) روشن چراغ بنایا
 
 [Open on Quran.com](https://quran.com/78/13)
 

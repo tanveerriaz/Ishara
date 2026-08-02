@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:152 · [[006 Al-Anam]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not approach the orphan's property except in a way that is best [i.e., intending improvement] until he reaches maturity. And give full measure and weight in justice. We do not charge any soul except [with that within] its capacity. And when you speak [i.e., testify], be just, even if [it concerns] a near relative. And the covenant of Allāh fulfill. This has He instructed you that you may remember.
 
 **English (Yusuf Ali):** And come not nigh to the orphan's property, except to improve it, until he attain the age of full strength; give measure and weight with (full) justice;- no burden do We place on any soul, but that which it can bear;- whenever ye speak, speak justly, even if a near relative is concerned; and fulfil the covenant of Allah: thus doth He command you, that ye may remember.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ جانا مگر ایسے طریق سے کہ بہت ہی پسندیدہ ہو یہاں تک کہ وہ جوانی کو پہنچ جائے اور ناپ تول انصاف کے ساتھ پوری پوری کیا کرو ہم کسی کو تکلیف نہیں دیتے مگر اس کی طاقت کے مطابق اور جب (کسی کی نسبت) کوئی بات کہو تو انصاف سے کہو گو وہ (تمہارا) رشتہ دار ہی ہو اور خدا کے عہد کو پورا کرو ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم نصحیت کرو
 
 [Open on Quran.com](https://quran.com/6/152)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The balance that day will be true (to nicety): those whose scale (of good) will be heavy, will prosper:
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس روز (اعمال کا) تلنا برحق ہے تو جن لوگوں کے (عملوں کے) وزن بھاری ہوں گے وہ تو نجات پانے والے ہیں
+
 [Open on Quran.com](https://quran.com/7/8)
 
 #### 7:9 · [[007 Al-Araf]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those whose scales are light - they are the ones who will lose themselves for what injustice they were doing toward Our verses.
 
 **English (Yusuf Ali):** Those whose scale will be light, will be their souls in perdition, for that they wrongfully treated Our signs.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن کے وزن ہلکے ہوں گے تو یہی لوگ ہیں جنہوں نے اپنے تئیں خسارے میں ڈالا اس لیے کہ ہماری آیتوں کے بارے میں بےانصافی کرتے تھے
 
 [Open on Quran.com](https://quran.com/7/9)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To the Madyan people We sent Shu'aib, one of their own brethren: he said: "O my people! worship Allah; Ye have no other god but Him. Now hath come unto you a clear (Sign) from your Lord! Give just measure and weight, nor withhold from the people the things that are their due; and do no mischief on the earth after it has been set in order: that will be best for you, if ye have Faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور مَدین کی طرف ان کے بھائی شعیب کو بھیجا۔ (تو) انہوں نے کہا کہ قوم! خدا ہی کی عبادت کرو اس کے سوا تمہارا کوئی معبود نہیں۔ تمہارے پاس تمہارے پروردگار کی طرف سے نشانی آچکی ہے تو تم ناپ تول پوری کیا کرو اور لوگوں کو چیزیں کم نہ دیا کرو۔ اور زمین میں اصلاح کے بعد خرابی نہ کرو۔ اگر تم صاحب ایمان ہو تو سمجھ لو کہ یہ بات تمہارے حق میں بہتر ہے
+
 [Open on Quran.com](https://quran.com/7/85)
 
 #### 11:84 · [[011 Hud]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And to Madyan [We sent] their brother Shuʿayb. He said, "O my people, worship Allāh; you have no deity other than Him. And do not decrease from the measure and the scale. Indeed, I see you in prosperity, but indeed, I fear for you the punishment of an all-encompassing Day.
 
 **English (Yusuf Ali):** To the Madyan People (We sent) Shu'aib, one of their own brethren: he said: "O my people! worship Allah: Ye have no other god but Him. And give not short measure or weight: I see you in prosperity, but I fear for you the penalty of a day that will compass (you) all round.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مدین کی طرف ان کے بھائی شعیب کو (بھیجا) تو اُنہوں نے کہا کہ اے قوم! خدا ہی کی عبادت کرو کہ اس کے سوا تمہارا کوئی معبود نہیں۔ اور ناپ تول میں کمی نہ کیا کرو۔ میں تو تم کو آسودہ حال دیکھتا ہوں اور (اگر تم ایمان نہ لاؤ گے تو) مجھے تمہارے بارے میں ایک ایسے دن کے عذاب کا خوف ہے جو تم کو گھیر کر رہے گا
 
 [Open on Quran.com](https://quran.com/11/84)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And O my people! give just measure and weight, nor withhold from the people the things that are their due: commit not evil in the land with intent to do mischief.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور قوم! ماپ اور تول انصاف کے ساتھ پوری پوری کیا کرو اور لوگوں کو ان کی چیزیں کم نہ دیا کرو اور زمین میں خرابی کرتے نہ پھرو
+
 [Open on Quran.com](https://quran.com/11/85)
 
 #### 21:47 · [[021 Al-Anbya]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We place the scales of justice for the Day of Resurrection, so no soul will be treated unjustly at all. And if there is [even] the weight of a mustard seed, We will bring it forth. And sufficient are We as accountant.
 
 **English (Yusuf Ali):** We shall set up scales of justice for the Day of Judgment, so that not a soul will be dealt with unjustly in the least, and if there be (no more than) the weight of a mustard seed, We will bring it (to account): and enough are We to take account.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم قیامت کے دن انصاف کی ترازو کھڑی کریں گے تو کسی شخص کی ذرا بھی حق تلفی نہ کی جائے گی۔ اور اگر رائی کے دانے کے برابر بھی (کسی کا عمل) ہوگا تو ہم اس کو لاحاضر کریں گے۔ اور ہم حساب کرنے کو کافی ہیں
 
 [Open on Quran.com](https://quran.com/21/47)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then those whose balance (of good deeds) is heavy,- they will attain salvation:
 
+**Urdu (Fatah Muhammad Jalandhari):** تو جن کے (عملوں کے) بوجھ بھاری ہوں گے۔ وہ فلاح پانے والے ہیں
+
 [Open on Quran.com](https://quran.com/23/102)
 
 #### 23:103 · [[023 Al-Muminun]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But those whose balance is light, will be those who have lost their souls, in Hell will they abide.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جن کے بوجھ ہلکے ہوں گے وہ لوگ ہیں جنہوں نے اپنے تئیں خسارے میں ڈالا، ہمیشہ دوزخ میں رہیں گے
+
 [Open on Quran.com](https://quran.com/23/103)
 
 #### 42:17 · [[042 Ash-Shuraa]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is Allāh who has sent down the Book in truth and [also] the balance [i.e., justice]. And what will make you perceive? Perhaps the Hour is near.
 
 **English (Yusuf Ali):** It is Allah Who has sent down the Book in Truth, and the Balance (by which to weigh conduct). And what will make thee realise that perhaps the Hour is close at hand?
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے سچائی کے ساتھ کتاب نازل فرمائی اور (عدل وانصاف کی) ترازو۔ اور تم کو کیا معلوم شاید قیامت قریب ہی آ پہنچی ہو
 
 [Open on Quran.com](https://quran.com/42/17)
 

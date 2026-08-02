@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 18:90 · [[018 Al-Kahf]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Until, when he came to the rising of the sun [i.e., the east], he found it rising on a people for whom We had not made against it any shield.
 
 **English (Yusuf Ali):** Until, when he came to the rising of the sun, he found it rising on a people for whom We had provided no covering protection against the sun.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ سورج کے طلوع ہونے کے مقام پر پہنچا تو دیکھا کہ وہ ایسے لوگوں پر طلوع کرتا ہے جن کے لئے ہم نے سورج کے اس طرف کوئی اوٹ نہیں بنائی تھی
 
 [Open on Quran.com](https://quran.com/18/90)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (A voice) said: "Would ye like to look down?"
 
+**Urdu (Fatah Muhammad Jalandhari):** (پھر) کہے گا کہ بھلا تم (اسے) جھانک کر دیکھنا چاہتے ہو؟
+
 [Open on Quran.com](https://quran.com/37/54)
 
 #### 97:5 · [[097 Al-Qadr]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Peace it is until the emergence of dawn.
 
 **English (Yusuf Ali):** Peace!... This until the rise of morn!
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ( رات) طلوع صبح تک (امان اور) سلامتی ہے
 
 [Open on Quran.com](https://quran.com/97/5)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:191 · [[003 Ali Imran]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who remember Allāh while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], "Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire.
 
 **English (Yusuf Ali):** Men who celebrate the praises of Allah, standing, sitting, and lying down on their sides, and contemplate the (wonders of) creation in the heavens and the earth, (With the thought): "Our Lord! not for naught Hast Thou created (all) this! Glory to Thee! Give us salvation from the penalty of the Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو کھڑے اور بیٹھے اور لیٹے (ہر حال میں) خدا کو یاد کرتے اور آسمان اور زمین کی پیدائش میں غور کرتے (اور کہتے ہیں) کہ اے پروردگار! تو نے اس (مخلوق) کو بے فائدہ نہیں پیدا کیا تو پاک ہے تو (قیامت کے دن) ہمیں دوزخ کے عذاب سے بچائیو
 
 [Open on Quran.com](https://quran.com/3/191)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When ye pass (Congregational) prayers, celebrate Allah's praises, standing, sitting down, or lying down on your sides; but when ye are free from danger, set up Regular Prayers: For such prayers are enjoined on believers at stated times.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب تم نماز تمام کرچکو تو کھڑے اور بیٹھے اور لیٹے (ہر حالت میں) خدا کو یاد کرو پھر جب خوف جاتا رہے تو (اس طرح سے) نماز پڑھو (جس طرح امن کی حالت میں پڑھتے ہو) بےشک نماز کا مومنوں پر اوقات (مقررہ) میں ادا کرنا فرض ہے
+
 [Open on Quran.com](https://quran.com/4/103)
 
 #### 9:83 · [[009 At-Tawbah]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If, then, Allah bring thee back to any of them, and they ask thy permission to come out (with thee), say: "Never shall ye come out with me, nor fight an enemy with me: for ye preferred to sit inactive on the first occasion: Then sit ye (now) with those who lag behind."
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر اگر خدا تم کو ان میں سے کسی گروہ کی طرف لے جائے اور وہ تم سے نکلنے کی اجازت طلب کریں تو کہہ دینا کہ تم میرے ساتھ ہرگز نہیں نکلو گے اور نہ میرے ساتھ (مددگار ہوکر) دشمن سے لڑائی کرو گے۔ تم پہلی دفعہ بیٹھ رہنے سے خوش ہوئے تو اب بھی پیچھے رہنے والوں کے ساتھ بیٹھے رہو
+
 [Open on Quran.com](https://quran.com/9/83)
 
 #### 85:6 · [[085 Al-Buruj]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** When they were sitting near it.
 
 **English (Yusuf Ali):** Behold! they sat over against the (fire),
+
+**Urdu (Fatah Muhammad Jalandhari):** جب کہ وہ ان (کے کناروں) پر بیٹھے ہوئے تھے
 
 [Open on Quran.com](https://quran.com/85/6)
 

@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:267 · [[002 Al-Baqarah]]
 
@@ -52,6 +52,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, spend from the good things which you have earned and from that which We have produced for you from the earth. And do not aim toward the defective therefrom, spending [from that] while you would not take it [yourself] except with closed eyes. And know that Allāh is Free of need and Praiseworthy.
 
 **English (Yusuf Ali):** O ye who believe! Give of the good things which ye have (honourably) earned, and of the fruits of the earth which We have produced for you, and do not even aim at getting anything which is bad, in order that out of it ye may give away something, when ye yourselves would not receive it except with closed eyes. And know that Allah is Free of all wants, and worthy of all praise.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جو پاکیزہ اور عمدہ مال تم کماتے ہوں اور جو چیزیں ہم تمہارے لئے زمین سےنکالتے ہیں ان میں سے (راہ خدا میں) خرچ کرو۔ اور بری اور ناپاک چیزیں دینے کا قصد نہ کرنا کہ (اگر وہ چیزیں تمہیں دی جائیں تو) بجز اس کے کہ (لیتے وقت) آنکھیں بند کرلو ان کو کبھی نہ لو۔ اور جان رکھو کہ خدا بےپروا (اور) قابل ستائش ہے
 
 [Open on Quran.com](https://quran.com/2/267)
 
@@ -69,6 +71,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To Allah belong all things in the heavens and on earth. Verily we have directed the People of the Book before you, and you (o Muslims) to fear Allah. But if ye deny Him, lo! unto Allah belong all things in the heavens and on earth, and Allah is free of all wants, worthy of all praise.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کچھ آسمانوں اور جو کچھ زمین میں ہے سب خدا ہی کا ہے۔ اور جن لوگوں کو تم سے پہلے کتاب دی گئی تھی ان کو بھی اور (اے محمدﷺ) تم کو بھی ہم نے حکم تاکیدی کیا ہے کہ خدا سے ڈرتے رہو اور اگر کفر کرو گے تو (سمجھ رکھو کہ) جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب خدا ہی کا ہے۔ اور خدا بے پروا اور سزاوار حمدوثنا ہے
+
 [Open on Quran.com](https://quran.com/4/131)
 
 #### 11:73 · [[011 Hud]]
@@ -84,6 +88,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "Are you amazed at the decree of Allāh? May the mercy of Allāh and His blessings be upon you, people of the house. Indeed, He is Praiseworthy and Honorable."
 
 **English (Yusuf Ali):** They said: "Dost thou wonder at Allah's decree? The grace of Allah and His blessings on you, o ye people of the house! for He is indeed worthy of all praise, full of all glory!"
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کیا تم خدا کی قدرت سے تعجب کرتی ہو؟ اے اہل بیت تم پر خدا کی رحمت اور اس کی برکتیں ہیں۔ وہ سزاوار تعریف اور بزرگوار ہے
 
 [Open on Quran.com](https://quran.com/11/73)
 
@@ -101,6 +107,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A. L. R. A Book which We have revealed unto thee, in order that thou mightest lead mankind out of the depths of darkness into light - by the leave of their Lord - to the Way of (Him) the Exalted in power, worthy of all praise!-
 
+**Urdu (Fatah Muhammad Jalandhari):** الٓرٰ۔ (یہ) ایک (پُرنور) کتاب (ہے) اس کو ہم نے تم پر اس لیے نازل کیا ہے کہ لوگوں کو اندھیرے سے نکال کر روشنی کی طرف لے جاؤ (یعنی) ان کے پروردگار کے حکم سے غالب اور قابل تعریف (خدا) کے رستے کی طرف
+
 [Open on Quran.com](https://quran.com/14/1)
 
 #### 14:8 · [[014 Ibrahim]]
@@ -116,6 +124,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Moses said, "If you should disbelieve, you and whoever is on the earth entirely - indeed, Allāh is Free of need and Praiseworthy."
 
 **English (Yusuf Ali):** And Moses said: "If ye show ingratitude, ye and all on earth together, yet is Allah free of all wants, worthy of all praise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ نے (صاف صاف) کہہ دیا کہ اگر تم اور جتنے اور لوگ زمین میں ہیں سب کے سب ناشکری کرو تو خدا بھی بےنیاز (اور) قابل تعریف ہے
 
 [Open on Quran.com](https://quran.com/14/8)
 
@@ -133,6 +143,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For they have been guided (in this life) to the purest of speeches; they have been guided to the Path of Him Who is Worthy of (all) Praise.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو پاکیزہ کلام کی ہدایت کی گئی اور (خدائے) حمید کی راہ بتائی گئی
+
 [Open on Quran.com](https://quran.com/22/24)
 
 #### 22:64 · [[022 Al-Hajj]]
@@ -148,6 +160,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** To Him belongs what is in the heavens and what is on the earth. And indeed, Allāh is the Free of need, the Praiseworthy.
 
 **English (Yusuf Ali):** To Him belongs all that is in the heavens and on earth: for verily Allah,- He is free of all wants, Worthy of all Praise.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے اسی کا ہے۔ اور بےشک خدا بےنیاز اور قابل ستائش ہے۔
 
 [Open on Quran.com](https://quran.com/22/64)
 
@@ -165,6 +179,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** we bestowed (in the past) Wisdom on Luqman: "Show (thy) gratitude to Allah." Any who is (so) grateful does so to the profit of his own soul: but if any is ungrateful, verily Allah is free of all wants, Worthy of all praise.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے لقمان کو دانائی بخشی۔ کہ خدا کا شکر کرو۔ اور جو شخص شکر کرتا ہے تو اپنے ہی فائدے کے لئے شکر کرتا ہے۔ اور جو ناشکری کرتا ہے تو خدا بھی بےپروا اور سزاوار حمد (وثنا) ہے
+
 [Open on Quran.com](https://quran.com/31/12)
 
 #### 31:26 · [[031 Luqman]]
@@ -181,6 +197,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To Allah belong all things in heaven and earth: verily Allah is He (that is) free of all wants, worthy of all praise.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو کچھ آسمانوں اور زمین میں ہے (سب) خدا ہی کا ہے۔ بیشک خدا بےپروا اور سزا وارِ حمد (وثنا) ہے
+
 [Open on Quran.com](https://quran.com/31/26)
 
 #### 34:6 · [[034 Saba]]
@@ -196,6 +214,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who have been given knowledge see that what is revealed to you from your Lord is the truth, and it guides to the path of the Exalted in Might, the Praiseworthy.
 
 **English (Yusuf Ali):** And those to whom knowledge has come see that the (Revelation) sent down to thee from thy Lord - that is the Truth, and that it guides to the Path of the Exalted (in might), Worthy of all praise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں کو علم دیا گیا ہے وہ جانتے ہیں کہ جو (قرآن) تمہارے پروردگار کی طرف سے تم پر نازل ہوا ہے وہ حق ہے۔ اور (خدائے) غالب اور سزاوار تعریف کا رستہ بتاتا ہے
 
 [Open on Quran.com](https://quran.com/34/6)
 

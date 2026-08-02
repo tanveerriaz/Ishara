@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[brk - brk]]
+- [[brk - camel's breast]]
 
 ### Meaning
 **blessed** · Lemma **مُبارَك**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:96 · [[003 Ali Imran]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the first House [of worship] established for mankind was that at Bakkah [i.e., Makkah] - blessed and a guidance for the worlds.
 
 **English (Yusuf Ali):** The first House (of worship) appointed for men was that at Bakka: Full of blessing and of guidance for all kinds of beings:
+
+**Urdu (Fatah Muhammad Jalandhari):** پہلا گھر جو لوگوں (کے عبادت کرنے) کے لیے مقرر کیا گیا تھا وہی ہے جو مکے میں ہے بابرکت اور جہاں کے لیے موجبِ ہدایت
 
 [Open on Quran.com](https://quran.com/3/96)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And this is a Book which We have sent down, bringing blessings, and confirming (the revelations) which came before it: that thou mayest warn the mother of cities and all around her. Those who believe in the Hereafter believe in this (Book), and they are constant in guarding their prayers.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (ویسی ہی) یہ کتاب ہے جسے ہم نے نازل کیا ہے بابرکت جو اپنے سے پہلی (کتابوں) کی تصدیق کرتی ہے اور (جو) اس لئے (نازل کی گئی ہے) کہ تم مکے اور اس کے آس پاس کے لوگوں کو آگاہ کردو۔ اور جو لوگ آخرت پر ایمان رکھتے ہیں وہ اس کتاب پر بھی ایمان رکھتے ہیں اور وہ اپنی نمازوں کی پوری خبر رکھتے ہیں
+
 [Open on Quran.com](https://quran.com/6/92)
 
 #### 6:155 · [[006 Al-Anam]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And this [Qur’ān] is a Book We have revealed [which is] blessed, so follow it and fear Allāh that you may receive mercy.
 
 **English (Yusuf Ali):** And this is a Book which We have revealed as a blessing: so follow it and be righteous, that ye may receive mercy:
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے کفر کرنے والوں) یہ کتاب بھی ہمیں نے اتاری ہے برکت والی تو اس کی پیروی کرو اور (خدا سے) ڈرو تاکہ تم پر مہربانی کی جائے
 
 [Open on Quran.com](https://quran.com/6/155)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And He hath made me blessed wheresoever I be, and hath enjoined on me Prayer and Charity as long as I live;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور میں جہاں ہوں (اور جس حال میں ہوں) مجھے صاحب برکت کیا ہے اور جب تک زندہ ہوں مجھ کو نماز اور زکوٰة کا ارشاد فرمایا ہے
+
 [Open on Quran.com](https://quran.com/19/31)
 
 #### 21:50 · [[021 Al-Anbya]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And this [Qur’ān] is a blessed message which We have sent down. Then are you with it unacquainted?
 
 **English (Yusuf Ali):** And this is a blessed Message which We have sent down: will ye then reject it?
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ مبارک نصیحت ہے جسے ہم نے نازل فرمایا ہے تو کیا تم اس سے انکار کرتے ہو؟
 
 [Open on Quran.com](https://quran.com/21/50)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And say: "O my Lord! enable me to disembark with thy blessing: for Thou art the Best to enable (us) to disembark."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (یہ بھی) دعا کرنا کہ اے پروردگار ہم کو مبارک جگہ اُتاریو اور تو سب سے بہتر اُتارنے والا ہے
+
 [Open on Quran.com](https://quran.com/23/29)
 
 #### 38:29 · [[038 Sad]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Here is) a Book which We have sent down unto thee, full of blessings, that they may mediate on its Signs, and that men of understanding may receive admonition.
 
+**Urdu (Fatah Muhammad Jalandhari):** (یہ) کتاب جو ہم نے تم پر نازل کی ہے بابرکت ہے تاکہ لوگ اس کی آیتوں میں غور کریں اور تاکہ اہل عقل نصیحت پکڑیں
+
 [Open on Quran.com](https://quran.com/38/29)
 
 #### 50:9 · [[050 Qaf]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have sent down blessed rain from the sky and made grow thereby gardens and grain from the harvest
 
 **English (Yusuf Ali):** And We send down from the sky rain charted with blessing, and We produce therewith gardens and Grain for harvests;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور آسمان سے برکت والا پانی اُتارا اور اس سے باغ وبستان اُگائے اور کھیتی کا اناج
 
 [Open on Quran.com](https://quran.com/50/9)
 

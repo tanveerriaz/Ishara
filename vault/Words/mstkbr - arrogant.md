@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[kbr - kbr]]
+- [[kbr - greater]]
 
 ### Meaning
 **arrogant** · Lemma **مُسْتَكْبِر**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 16:22 · [[016 An-Nahl]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Your god is one God. But those who do not believe in the Hereafter - their hearts are disapproving, and they are arrogant.
 
 **English (Yusuf Ali):** Your Allah is one Allah: as to those who believe not in the Hereafter, their hearts refuse to know, and they are arrogant.
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہارا معبود تو اکیلا خدا ہے۔ تو جو آخرت پر ایمان نہیں رکھتے ان کے دل انکار کر رہے ہیں اور وہ سرکش ہو رہے ہیں
 
 [Open on Quran.com](https://quran.com/16/22)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Undoubtedly Allah doth know what they conceal, and what they reveal: verily He loveth not the arrogant.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ جو کچھ چھپاتے ہیں اور جو ظاہر کرتے ہیں خدا اس کو ضرور جانتا ہے۔ وہ سرکشوں کو ہرگز پسند نہیں کرتا
+
 [Open on Quran.com](https://quran.com/16/23)
 
 #### 23:67 · [[023 Al-Muminun]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** In arrogance regarding it, conversing by night, speaking evil.
 
 **English (Yusuf Ali):** "In arrogance: talking nonsense about the (Qur'an), like one telling fables by night."
+
+**Urdu (Fatah Muhammad Jalandhari):** ان سے سرکشی کرتے، کہانیوں میں مشغول ہوتے اور بیہودہ بکواس کرتے تھے
 
 [Open on Quran.com](https://quran.com/23/67)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When Our Signs are rehearsed to such a one, he turns away in arrogance, as if he heard them not, as if there were deafness in both his ears: announce to him a grievous Penalty.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب اس کو ہماری آیتیں سنائی جاتی ہیں تو اکڑ کر منہ پھیر لیتا ہے گویا اُن کو سنا ہی نہیں جیسے اُن کے کانوں میں ثقل ہے تو اس کو درد دینے والے عذاب کی خوشخبری سنادو
+
 [Open on Quran.com](https://quran.com/31/7)
 
 #### 45:8 · [[045 Al-Jathiyah]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He hears the Signs of Allah rehearsed to him, yet is obstinate and lofty, as if he had not heard them: then announce to him a Penalty Grievous!
 
+**Urdu (Fatah Muhammad Jalandhari):** (کہ) خدا کی آیتیں اس کو پڑھ کر سنائی جاتی ہیں تو ان کو سن تو لیتا ہے (مگر) پھر غرور سے ضد کرتا ہے کہ گویا ان کو سنا ہی نہیں۔ سو ایسے شخص کو دکھ دینے والے عذاب کی خوشخبری سنا دو
+
 [Open on Quran.com](https://quran.com/45/8)
 
 #### 63:5 · [[063 Al-Munafiqun]]
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when it is said to them, "Come, the Messenger of Allāh will ask forgiveness for you," they turn their heads aside and you see them evading while they are arrogant.
 
 **English (Yusuf Ali):** And when it is said to them, "Come, the Messenger of Allah will pray for your forgiveness", they turn aside their heads, and thou wouldst see them turning away their faces in arrogance.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان سے کہا جائے کہ آؤ رسول خدا تمہارے لئے مغفرت مانگیں تو سر ہلا دیتے ہیں اور تم ان کو دیکھو کہ تکبر کرتے ہوئے منہ پھیر لیتے ہیں
 
 [Open on Quran.com](https://quran.com/63/5)
 

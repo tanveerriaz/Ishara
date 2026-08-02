@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fqr - fqr]]
+- [[fqr - hollow well]]
 
 ### Meaning
 **poor** · Lemma **فَقِير**
@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:271 · [[002 Al-Baqarah]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If you disclose your charitable expenditures, they are good; but if you conceal them and give them to the poor, it is better for you, and He will remove from you some of your misdeeds [thereby]. And Allāh, of what you do, is [fully] Aware.
 
 **English (Yusuf Ali):** If ye disclose (acts of) charity, even so it is well, but if ye conceal them, and make them reach those (really) in need, that is best for you: It will remove from you some of your (stains of) evil. And Allah is well acquainted with what ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم خیرات ظاہر دو تو وہ بھی خوب ہے اور اگر پوشیدہ دو اور دو بھی اہل حاجت کو تو وہ خوب تر ہے اور (اس طرح کا دینا) تمہارے گناہوں کو بھی دور کردے گا۔ اور خدا کو تمہارے سب کاموں کی خبر ہے
 
 [Open on Quran.com](https://quran.com/2/271)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Charity is) for those in need, who, in Allah's cause are restricted (from travel), and cannot move about in the land, seeking (For trade or work): the ignorant man thinks, because of their modesty, that they are free from want. Thou shalt know them by their (Unfailing) mark: They beg not importunately from all the sundry. And whatever of good ye give, be assured Allah knoweth it well.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اور ہاں تم جو خرچ کرو گے تو) ان حاجتمندوں کے لئے جو خدا کی راہ میں رکے بیٹھے ہیں اور ملک میں کسی طرف جانے کی طاقت نہیں رکھتے (اور مانگنے سے عار رکھتے ہیں) یہاں تک کہ نہ مانگنے کی وجہ سے ناواقف شخص ان کو غنی خیال کرتا ہے اور تم قیافے سے ان کو صاف پہچان لو (کہ حاجتمند ہیں اور شرم کے سبب) لوگوں سے (منہ پھوڑ کر اور) لپٹ کر نہیں مانگ سکتے اور تم جو مال خرچ کرو گے کچھ شک نہیں کہ خدا اس کو جانتا ہے
+
 [Open on Quran.com](https://quran.com/2/273)
 
 #### 3:181 · [[003 Ali Imran]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh has certainly heard the statement of those [Jews] who said, "Indeed, Allāh is poor, while we are rich." We will record what they said and their killing of the prophets without right and will say, "Taste the punishment of the Burning Fire.
 
 **English (Yusuf Ali):** Allah hath heard the taunt of those who say: "Truly, Allah is indigent and we are rich!"- We shall certainly record their word and (their act) of slaying the prophets in defiance of right, and We shall say: "Taste ye the penalty of the Scorching Fire!
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے ان لوگوں کا قول سن لیا ہے جو کہتے ہیں کہ خدا فقیر ہے۔ اور ہم امیر ہیں۔ یہ جو کہتے ہیں ہم اس کو لکھ لیں گے۔ اور پیغمبروں کو جو یہ ناحق قتل کرتے رہے ہیں اس کو بھی (قلمبند کر رکھیں گے) اور (قیامت کے روز) کہیں گے کہ عذاب (آتش) سوزاں کے مزے چکھتے رہو
 
 [Open on Quran.com](https://quran.com/3/181)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Make trial of orphans until they reach the age of marriage; if then ye find sound judgment in them, release their property to them; but consume it not wastefully, nor in haste against their growing up. If the guardian is well-off, Let him claim no remuneration, but if he is poor, let him have for himself what is just and reasonable. When ye release their property to them, take witnesses in their presence: But all-sufficient is Allah in taking account.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یتمیوں کو بالغ ہونے تک کام کاج میں مصروف رکھو پھر (بالغ ہونے پر) اگر ان میں عقل کی پختگی دیکھو تو ان کا مال ان کے حوالے کردو اور اس خوف سے کہ وہ بڑے ہوجائیں گے (یعنی بڑے ہو کر تم سے اپنا مال واپس لے لیں گے) اس کو فضول خرچی اور جلدی میں نہ اڑا دینا۔ جو شخص آسودہ حال ہو اس کو (ایسے مال سے قطعی طور پر) پرہیز رکھنا چاہیئے اور جو بے مقدور ہو وہ مناسب طور پر (یعنی بقدر خدمت) کچھ لے لے اور جب ان کا مال ان کے حوالے کرنے لگو تو گواہ کرلیا کرو۔ اور حقیقت میں تو خدا ہی (گواہ اور) حساب لینے والا کافی ہے
+
 [Open on Quran.com](https://quran.com/4/6)
 
 #### 4:135 · [[004 An-Nisa]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, be persistently standing firm in justice, witnesses for Allāh, even if it be against yourselves or parents and relatives. Whether one is rich or poor, Allāh is more worthy of both. So follow not [personal] inclination, lest you not be just. And if you distort [your testimony] or refuse [to give it], then indeed Allāh is ever, of what you do, Aware.
 
 **English (Yusuf Ali):** O ye who believe! stand out firmly for justice, as witnesses to Allah, even as against yourselves, or your parents, or your kin, and whether it be (against) rich or poor: for Allah can best protect both. Follow not the lusts (of your hearts), lest ye swerve, and if ye distort (justice) or decline to do justice, verily Allah is well-acquainted with all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! انصاف پر قائم رہو اور خدا کے لئے سچی گواہی دو خواہ (اس میں) تمہارا یا تمہارےماں باپ اور رشتہ داروں کا نقصان ہی ہو۔ اگر کوئی امیر ہے یا فقیر تو خدا ان کا خیر خواہ ہے۔ تو تم خواہش نفس کے پیچھے چل کر عدل کو نہ چھوڑ دینا۔ اگر تم پیچیدا شہادت دو گے یا (شہادت سے) بچنا چاہو گے تو (جان رکھو) خدا تمہارے سب کاموں سے واقف ہے
 
 [Open on Quran.com](https://quran.com/4/135)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Alms are for the poor and the needy, and those employed to administer the (funds); for those whose hearts have been (recently) reconciled (to Truth); for those in bondage and in debt; in the cause of Allah; and for the wayfarer: (thus is it) ordained by Allah, and Allah is full of knowledge and wisdom.
 
+**Urdu (Fatah Muhammad Jalandhari):** صدقات (یعنی زکوٰة وخیرات) تو مفلسوں اور محتاجوں اور کارکنان صدقات کا حق ہے اور ان لوگوں کا جن کی تالیف قلوب منظور ہے اور غلاموں کے آزاد کرانے میں اور قرضداروں (کے قرض ادا کرنے میں) اور خدا کی راہ میں اور مسافروں (کی مدد) میں (بھی یہ مال خرچ کرنا چاہیئے یہ حقوق) خدا کی طرف سے مقرر کر دیئے گئے ہیں اور خدا جاننے والا (اور) حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/9/60)
 
 #### 22:28 · [[022 Al-Hajj]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That they may witness [i.e., attend] benefits for themselves and mention the name of Allāh on known [i.e., specific] days over what He has provided for them of [sacrificial] animals. So eat of them and feed the miserable and poor.
 
 **English (Yusuf Ali):** "That they may witness the benefits (provided) for them, and celebrate the name of Allah, through the Days appointed, over the cattle which He has provided for them (for sacrifice): then eat ye thereof and feed the distressed ones in want.
+
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ اپنے فائدے کے کاموں کے لئے حاضر ہوں۔ اور (قربانی کے) ایام معلوم میں چہار پایاں مویشی (کے ذبح کے وقت) جو خدا نے ان کو دیئے ہیں ان پر خدا کا نام لیں۔ اس میں سے تم خود بھی کھاؤ اور فقیر درماندہ کو بھی کھلاؤ
 
 [Open on Quran.com](https://quran.com/22/28)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Marry those among you who are single, or the virtuous ones among yourselves, male or female: if they are in poverty, Allah will give them means out of His grace: for Allah encompasseth all, and he knoweth all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی قوم کی بیوہ عورتوں کے نکاح کردیا کرو۔ اور اپنے غلاموں اور لونڈیوں کے بھی جو نیک ہوں (نکاح کردیا کرو) اگر وہ مفلس ہوں گے تو خدا ان کو اپنے فضل سے خوش حال کردے گا۔ اور خدا (بہت) وسعت والا اور (سب کچھ) جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/24/32)
 
 #### 28:24 · [[028 Al-Qasas]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So he watered (their flocks) for them; then he turned back to the shade, and said:"O my Lord! truly am I in (desperate) need of any good that Thou dost send me!"
 
+**Urdu (Fatah Muhammad Jalandhari):** تو موسٰی نے اُن کے لئے (بکریوں کو) پانی پلا دیا پھر سائے کی طرف چلے گئے۔ اور کہنے لگے کہ پروردگار میں اس کا محتاج ہوں کہ تو مجھ پر اپنی نعمت نازل فرمائے
+
 [Open on Quran.com](https://quran.com/28/24)
 
 #### 35:15 · [[035 Fatir]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O mankind, you are those in need of Allāh, while Allāh is the Free of need, the Praiseworthy.
 
 **English (Yusuf Ali):** O ye men! It is ye that have need of Allah: but Allah is the One Free of all wants, worthy of all praise.
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو تم (سب) خدا کے محتاج ہو اور خدا بےپروا سزاوار (حمد وثنا) ہے
 
 [Open on Quran.com](https://quran.com/35/15)
 

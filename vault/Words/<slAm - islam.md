@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:19 · [[003 Ali Imran]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the religion in the sight of Allāh is Islām. And those who were given the Scripture did not differ except after knowledge had come to them - out of jealous animosity between themselves. And whoever disbelieves in the verses of Allāh, then indeed, Allāh is swift in [taking] account.
 
 **English (Yusuf Ali):** The Religion before Allah is Islam (submission to His Will): Nor did the People of the Book dissent therefrom except through envy of each other, after knowledge had come to them. But if any deny the Signs of Allah, Allah is swift in calling to account.
+
+**Urdu (Fatah Muhammad Jalandhari):** دین تو خدا کے نزدیک اسلام ہے اور اہل کتاب نے جو (اس دین سے) اختلاف کیا تو علم ہونے کے بعد آپس کی ضد سے کیا اور جو شخص خدا کی آیتوں کو نہ مانے تو خدا جلد حساب لینے والا (اور سزا دینے والا) ہے
 
 [Open on Quran.com](https://quran.com/3/19)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If anyone desires a religion other than Islam (submission to Allah), never will it be accepted of him; and in the Hereafter He will be in the ranks of those who have lost (All spiritual good).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص اسلام کے سوا کسی اور دین کا طالب ہوگا وہ اس سے ہرگز قبول نہیں کیا جائے گا اور ایسا شخص آخرت میں نقصان اٹھانے والوں میں ہوگا
+
 [Open on Quran.com](https://quran.com/3/85)
 
 #### 5:3 · [[005 Al-Maidah]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** Forbidden to you (for food) are: dead meat, blood, the flesh of swine, and that on which hath been invoked the name of other than Allah; that which hath been killed by strangling, or by a violent blow, or by a headlong fall, or by being gored to death; that which hath been (partly) eaten by a wild animal; unless ye are able to slaughter it (in due form); that which is sacrificed on stone (altars); (forbidden) also is the division (of meat) by raffling with arrows: that is impiety. This day have those who reject faith given up all hope of your religion: yet fear them not but fear Me. This day have I perfected your religion for you, completed My favour upon you, and have chosen for you Islam as your religion. But if any is forced by hunger, with no inclination to transgression, Allah is indeed Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** تم پر مرا ہوا جانور اور (بہتا) لہو اور سور کا گوشت اور جس چیز پر خدا کے سوا کسی اور کا نام پکارا جائے اور جو جانور گلا گھٹ کر مر جائے اور جو چوٹ لگ کر مر جائے اور جو گر کر مر جائے اور جو سینگ لگ کر مر جائے یہ سب حرام ہیں اور وہ جانور بھی جس کو درندے پھاڑ کھائیں۔ مگر جس کو تم (مرنے سے پہلے) ذبح کرلو اور وہ جانور بھی جو تھان پر ذبح کیا جائے اور یہ بھی کہ پاسوں سے قسمت معلوم کرو یہ سب گناہ (کے کام) ہیں آج کافر تمہارے دین سے ناامید ہو گئے ہیں تو ان سے مت ڈرو اور مجھی سے ڈرتے رہو (اور) آج ہم نے تمہارے لئے تمہارا دین کامل کر دیا اور اپنی نعمتیں تم پر پوری کر دیں اور تمہارے لئے اسلام کو دین پسند کیا ہاں جو شخص بھوک میں ناچار ہو جائے (بشرطیکہ) گناہ کی طرف مائل نہ ہو تو خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/5/3)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those whom Allah (in His plan) willeth to guide,- He openeth their breast to Islam; those whom He willeth to leave straying,- He maketh their breast close and constricted, as if they had to climb up to the skies: thus doth Allah (heap) the penalty on those who refuse to believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو جس شخص کو خدا چاہتا ہے کہ ہدایت بخشے اس کا سینہ اسلام کے لیے کھول دیتا ہے اور جسے چاہتا ہے کہ گمراہ کرے اس کا سینہ تنگ اور گھٹا ہوا کر دیتا ہے گویا وہ آسمان پر چڑھ رہا ہے اس طرح خدا ان لوگوں پر جو ایمان نہیں لاتے عذاب بھیجتا ہے
+
 [Open on Quran.com](https://quran.com/6/125)
 
 #### 9:74 · [[009 At-Tawbah]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They swear by Allāh that they did not say [anything against the Prophet (ﷺ)] while they had said the word of disbelief and disbelieved after their [pretense of] Islām and planned that which they were not to attain. And they were not resentful except [for the fact] that Allāh and His Messenger had enriched them of His bounty. So if they repent, it is better for them; but if they turn away, Allāh will punish them with a painful punishment in this world and the Hereafter. And there will not be for them on earth any protector or helper.
 
 **English (Yusuf Ali):** They swear by Allah that they said nothing (evil), but indeed they uttered blasphemy, and they did it after accepting Islam; and they meditated a plot which they were unable to carry out: this revenge of theirs was (their) only return for the bounty with which Allah and His Messenger had enriched them! If they repent, it will be best for them; but if they turn back (to their evil ways), Allah will punish them with a grievous penalty in this life and in the Hereafter: They shall have none on earth to protect or help them.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ خدا کی قسمیں کھاتے ہیں کہ انہوں نے (تو کچھ) نہیں کہا حالانکہ انہوں نے کفر کا کلمہ کہا ہے اور یہ اسلام لانے کے بعد کافر ہوگئے ہیں اور ایسی بات کا قصد کرچکے ہیں جس پر قدرت نہیں پاسکے۔ اور انہوں نے (مسلمانوں میں) عیب ہی کون سا دیکھا ہے سوا اس کے کہ خدا نے اپنے فضل سے اور اس کے پیغمبر نے (اپنی مہربانی سے) ان کو دولت مند کر دیا ہے۔ تو اگر یہ لوگ توبہ کرلیں تو ان کے حق میں بہتر ہوگا۔ اور اگر منہ پھیر لیں تو ان کو دنیا اور آخرت میں دکھ دینے والا عذاب دے گا اور زمین میں ان کا کوئی دوست اور مددگار نہ ہوگا
 
 [Open on Quran.com](https://quran.com/9/74)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Is one whose heart Allah has opened to Islam, so that he has received Enlightenment from Allah, (no better than one hard-hearted)? Woe to those whose hearts are hardened against celebrating the praises of Allah! they are manifestly wandering (in error)!
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس شخص کا سینہ خدا نے اسلام کے لئے کھول دیا ہو اور وہ اپنے پروردگار کی طرف سے روشنی پر ہو (تو کیا وہ سخت دل کافر کی طرح ہوسکتا ہے) پس ان پر افسوس ہے جن کے دل خدا کی یاد سے سخت ہو رہے ہیں۔ اور یہی لوگ صریح گمراہی میں ہیں
+
 [Open on Quran.com](https://quran.com/39/22)
 
 #### 49:17 · [[049 Al-Hujurat]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They impress on thee as a favour that they have embraced Islam. Say, "Count not your Islam as a favour upon me: Nay, Allah has conferred a favour upon you that He has guided you to the faith, if ye be true and sincere.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ لوگ تم پر احسان رکھتے ہیں کہ مسلمان ہوگئے ہیں۔ کہہ دو کہ اپنے مسلمان ہونے کا مجھ پر احسان نہ رکھو۔ بلکہ خدا تم پر احسان رکھتا ہے کہ اس نے تمہیں ایمان کا رستہ دکھایا بشرطیکہ تم سچے (مسلمان) ہو
+
 [Open on Quran.com](https://quran.com/49/17)
 
 #### 61:7 · [[061 As-Saf]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And who is more unjust than one who invents about Allāh untruth while he is being invited to Islām. And Allāh does not guide the wrongdoing people.
 
 **English (Yusuf Ali):** Who doth greater wrong than one who invents falsehood against Allah, even as he is being invited to Islam? And Allah guides not those who do wrong.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے ظالم کون کہ بلایا تو جائے اسلام کی طرف اور وہ خدا پر جھوٹ بہتان باندھے۔ اور خدا ظالم لوگوں کو ہدایت نہیں دیا کرتا
 
 [Open on Quran.com](https://quran.com/61/7)
 

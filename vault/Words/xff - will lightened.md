@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:86 · [[002 Al-Baqarah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the ones who have bought the life of this world [in exchange] for the Hereafter, so the punishment will not be lightened for them, nor will they be aided.
 
 **English (Yusuf Ali):** These are the people who buy the life of this world at the price of the Hereafter: their penalty shall not be lightened nor shall they be helped.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے آخرت کے بدلے دنیا کی زندگی خریدی۔ سو نہ تو ان سے عذاب ہی ہلکا کیا جائے گا اور نہ ان کو (اور طرح کی) مدد ملے گی
 
 [Open on Quran.com](https://quran.com/2/86)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They will abide therein: Their penalty will not be lightened, nor will respite be their (lot).
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ ہمیشہ اسی (لعنت) میں (گرفتار) رہیں گے۔ ان سے نہ تو عذاب ہی ہلکا کیا جائے گا اور نہ انہیں (کچھ) مہلت ملے گی
+
 [Open on Quran.com](https://quran.com/2/162)
 
 #### 3:88 · [[003 Ali Imran]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Abiding eternally therein. The punishment will not be lightened for them, nor will they be reprieved,
 
 **English (Yusuf Ali):** In that will they dwell; nor will their penalty be lightened, nor respite be (their lot);-
+
+**Urdu (Fatah Muhammad Jalandhari):** ہمیشہ اس لعنت میں (گرفتار) رہیں گے ان سے نہ تو عذاب ہلکا کیا جائے گا اور نہ انہیں مہلت دے جائے گی
 
 [Open on Quran.com](https://quran.com/3/88)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah doth wish to lighten your (difficulties): For man was created Weak (in flesh).
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا چاہتا ہے کہ تم پر سے بوجھ ہلکا کرے اور انسان (طبعاً) کمزور پیدا ہوا ہے
+
 [Open on Quran.com](https://quran.com/4/28)
 
 #### 8:66 · [[008 Al-Anfal]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Now, Allāh has lightened [the hardship] for you, and He knows that among you is weakness. So if there are from you one hundred [who are] steadfast, they will overcome two hundred. And if there are among you a thousand, they will overcome two thousand by permission of Allāh. And Allāh is with the steadfast.
 
 **English (Yusuf Ali):** For the present, Allah hath lightened your (task), for He knoweth that there is a weak spot in you: But (even so), if there are a hundred of you, patient and persevering, they will vanquish two hundred, and if a thousand, they will vanquish two thousand, with the leave of Allah: for Allah is with those who patiently persevere.
+
+**Urdu (Fatah Muhammad Jalandhari):** اب خدا نے تم پر سے بوجھ ہلکا کر دیا اور معلوم کرلیا کہ (ابھی) تم میں کسی قدر کمزوری ہے۔ پس اگر تم میں ایک سو ثابت قدم رہنے والے ہوں گے تو دو سو پر غالب رہیں گے۔ اور اگر ایک ہزار ہوں گے تو خدا کے حکم سے دو ہزار پر غالب رہیں گے۔ اور خدا ثابت قدم رہنے والوں کا مدد گار ہے
 
 [Open on Quran.com](https://quran.com/8/66)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When the wrong-doers (actually) see the Penalty, then will it in no way be mitigated, nor will they then receive respite.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ظالم لوگ عذاب دیکھ لیں گے تو پھر نہ تو اُن کے عذاب ہی میں تخفیف کی جائے گی اور نہ اُن کو مہلت ہی دی جائے گی
+
 [Open on Quran.com](https://quran.com/16/85)
 
 #### 35:36 · [[035 Fatir]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But those who reject (Allah) - for them will be the Fire of Hell: No term shall be determined for them, so they should die, nor shall its Penalty be lightened for them. Thus do We reward every ungrateful one!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے کفر کیا ان کے لئے دوزخ کی آگ ہے۔ نہ انہیں موت آئے گی کہ مرجائیں اور نہ ان کا عذاب ہی ان سے ہلکا کیا جائے گا۔ ہم ہر ایک ناشکرے کو ایسا ہی بدلہ دیا کرتے ہیں
+
 [Open on Quran.com](https://quran.com/35/36)
 
 #### 40:49 · [[040 Ghafir]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those in the Fire will say to the keepers of Hell, "Supplicate your Lord to lighten for us a day from the punishment."
 
 **English (Yusuf Ali):** Those in the Fire will say to the Keepers of Hell: "Pray to your Lord to lighten us the Penalty for a day (at least)!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ آگ میں (جل رہے) ہوں گے وہ دوزخ کے داروغوں سے کہیں گے کہ اپنے پروردگار سے دعا کرو کہ ایک روز تو ہم سے عذاب ہلکا کردے
 
 [Open on Quran.com](https://quran.com/40/49)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[EZm - ezhm]]
+- [[EZm - great]]
 
 ### Meaning
 **greater** · Lemma **أَعْظَم**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:20 · [[009 At-Tawbah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The ones who have believed, emigrated and striven in the cause of Allāh with their wealth and their lives are greater in rank in the sight of Allāh. And it is those who are the attainers [of success].
 
 **English (Yusuf Ali):** Those who believe, and suffer exile and strive with might and main, in Allah's cause, with their goods and their persons, have the highest rank in the sight of Allah: they are the people who will achieve (salvation).
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور وطن چھوڑ گئے اور خدا کی راہ میں مال اور جان سے جہاد کرتے رہے۔ خدا کے ہاں ان کے درجے بہت بڑے ہیں۔ اور وہی مراد کو پہنچنے والے ہیں
 
 [Open on Quran.com](https://quran.com/9/20)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And what cause have ye why ye should not spend in the cause of Allah?- For to Allah belongs the heritage of the heavens and the earth. Not equal among you are those who spent (freely) and fought, before the Victory, (with those who did so later). Those are higher in rank than those who spent (freely) and fought afterwards. But to all has Allah promised a goodly (reward). And Allah is well acquainted with all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کو کیا ہوا ہے کہ خدا کے رستے میں خرچ نہیں کرتے حالانکہ آسمانوں اور زمین کی وراثت خدا ہی کی ہے۔ جس شخص نے تم میں سے فتح (مکہ) سے پہلے خرچ کیا اور لڑائی کی وہ (اور جس نے یہ کام پیچھے کئے وہ) برابر نہیں۔ ان کا درجہ ان لوگوں سے کہیں بڑھ کر ہے جنہوں نے بعد میں خرچ (اموال) اور (کفار سے) جہاد وقتال کیا۔ اور خدا نے سب سے (ثواب) نیک (کا) وعدہ تو کیا ہے۔ اور جو کام تم کرتے ہو خدا ان سے واقف ہے
+
 [Open on Quran.com](https://quran.com/57/10)
 
 #### 73:20 · [[073 Al-Muzzammil]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, your Lord knows, [O Muḥammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allāh determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it and has turned to you in forgiveness, so recite what is easy [for you] of the Qur’ān. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allāh and others fighting for the cause of Allāh. So recite what is easy from it and establish prayer and give zakāh and loan Allāh a goodly loan. And whatever good you put forward for yourselves - you will find it with Allāh. It is better and greater in reward. And seek forgiveness of Allāh. Indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** Thy Lord doth know that thou standest forth (to prayer) nigh two-thirds of the night, or half the night, or a third of the night, and so doth a party of those with thee. But Allah doth appoint night and day in due measure He knoweth that ye are unable to keep count thereof. So He hath turned to you (in mercy): read ye, therefore, of the Qur'an as much as may be easy for you. He knoweth that there may be (some) among you in ill-health; others travelling through the land, seeking of Allah's bounty; yet others fighting in Allah's Cause, read ye, therefore, as much of the Qur'an as may be easy (for you); and establish regular Prayer and give regular Charity; and loan to Allah a Beautiful Loan. And whatever good ye send forth for your souls ye shall find it in Allah's Presence,- yea, better and greater, in Reward and seek ye the Grace of Allah: for Allah is Oft-Forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہارا پروردگار خوب جانتا ہے کہ تم اور تمہارے ساتھ کے لوگ (کبھی) دو تہائی رات کے قریب اور (کبھی) آدھی رات اور (کبھی) تہائی رات قیام کیا کرتے ہو۔ اور خدا تو رات اور دن کا اندازہ رکھتا ہے۔ اس نے معلوم کیا کہ تم اس کو نباہ نہ سکو گے تو اس نے تم پر مہربانی کی۔ پس جتنا آسانی سے ہوسکے (اتنا) قرآن پڑھ لیا کرو۔ اس نے جانا کہ تم میں بعض بیمار بھی ہوتے ہیں اور بعض خدا کے فضل (یعنی معاش) کی تلاش میں ملک میں سفر کرتے ہیں اور بعض خدا کی راہ میں لڑتے ہیں۔ تو جتنا آسانی سے ہوسکے اتنا پڑھ لیا کرو۔ اور نماز پڑھتے رہو اور زکوٰة ادا کرتے رہو اور خدا کو نیک (اور خلوص نیت سے) قرض دیتے رہو۔ اور جو عمل نیک تم اپنے لئے آگے بھیجو گے اس کو خدا کے ہاں بہتر اور صلے میں بزرگ تر پاؤ گے۔ اور خدا سے بخشش مانگتے رہو۔ بےشک خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/73/20)
 

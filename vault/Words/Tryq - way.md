@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Trq - trq]]
+- [[Trq - strike beat]]
 
 ### Meaning
 **way** · Lemma **طَرِيق**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:168 · [[004 An-Nisa]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who disbelieve and commit wrong [or injustice] - never will Allāh forgive them, nor will He guide them to a path,
 
 **English (Yusuf Ali):** Those who reject Faith and do wrong,- Allah will not forgive them nor guide them to any way-
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے اور ظلم کرتے رہے خدا ان کو بخشنے والا نہیں اور نہ انہیں رستہ ہی دکھائے گا
 
 [Open on Quran.com](https://quran.com/4/168)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Except the way of Hell, to dwell therein for ever. And this to Allah is easy.
 
+**Urdu (Fatah Muhammad Jalandhari):** ہاں دوزخ کا رستہ جس میں وہ ہمیشہ (جلتے) رہیں گے۔ اور یہ (بات) خدا کو آسان ہے
+
 [Open on Quran.com](https://quran.com/4/169)
 
 #### 20:77 · [[020 Taha]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We sent an inspiration to Moses: "Travel by night with My servants, and strike a dry path for them through the sea, without fear of being overtaken (by Pharaoh) and without (any other) fear."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کی طرف وحی بھیجی کہ ہمارے بندوں کو راتوں رات نکال لے جاؤ پھر ان کے لئے دریا میں (لاٹھی مار کر) خشک رستہ بنا دو پھر تم کو نہ تو (فرعون کے) آپکڑنے کا خوف ہوگا اور نہ (غرق ہونے کا) ڈر
+
 [Open on Quran.com](https://quran.com/20/77)
 
 #### 46:30 · [[046 Al-Ahqaf]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "O our people, indeed we have heard a [recited] Book revealed after Moses confirming what was before it which guides to the truth and to a straight path.
 
 **English (Yusuf Ali):** They said, "O our people! We have heard a Book revealed after Moses, confirming what came before it: it guides (men) to the Truth and to a Straight Path.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہنے لگے کہ اے قوم! ہم نے ایک کتاب سنی ہے جو موسیٰ کے بعد نازل ہوئی ہے۔ جو (کتابیں) اس سے پہلے (نازل ہوئی) ہیں ان کی تصدیق کرتی ہے (اور) سچا (دین) اور سیدھا رستہ بتاتی ہے
 
 [Open on Quran.com](https://quran.com/46/30)
 

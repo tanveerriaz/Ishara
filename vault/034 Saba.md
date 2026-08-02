@@ -15,81 +15,81 @@ Sheba · 54 ayahs
 ## Words in this surah (graph)
 
 - [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
-- [[mvqAl - weight]] — `مِثْقال` · weight
-- [[*rp - atom]] — `ذَرَّة` · atom
-- [[q*f - cast him]] — `قَذَفَ` · cast him
 - [[dl - direct you]] — `دَلَّ` · direct you
-- [[fzE - terror]] — `فَزَع` · terror
+- [[*rp - atom]] — `ذَرَّة` · atom
 - [[$k - doubt]] — `شَكّ` · doubt
 - [[$kwr - grateful]] — `شَكُور` · grateful
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[dAbp - moving creature]] — `دابَّة` · moving creature
+- [[fzE - terror]] — `فَزَع` · terror
+- [[mvqAl - weight]] — `مِثْقال` · weight
+- [[q*f - cast him]] — `قَذَفَ` · cast him
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
+- [[AbA' - forefathers]] — `آباء` · forefathers
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[n*yr - warner]] — `نَذِير` · warner
-- [[mHDr - will brought]] — `مُحْضَر` · will brought
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[Zlm - wronged]] — `ظَلَمَ` · wronged
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[lyl - night]] — `لَيْل` · night
-- [[sAr - travel]] — `سارَ` · travel
-- [[wAHdp - single]] — `واحِدَة` · single
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[Dl - lost]] — `ضَلَّ` · lost
+- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[nkyr - my rejection]] — `نَكِير` · my rejection
+- [[jmyE - all]] — `جَمِيع` · all
+- [[zlfY - position]] — `زُلْفَى` · position
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[ryH - wind]] — `رِيح` · wind
+- [[>rD - earth]] — `أَرْض` · earth
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[SAlH - righteous]] — `صالِح` · righteous
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[$hr - months]] — `شَهْر` · months
 
 ## Roots
 
 - [[$dd - severe]]
 - [[$fE - make something pair]]
-- [[$hd - shhd]]
-- [[$hr - shahr]]
-- [[$hw - shhw]]
-- [[$kk - shakka]]
-- [[$kr - shkr]]
+- [[$hd - witnessing]]
+- [[$hr - new moon]]
+- [[$hw - they desire]]
+- [[$kk - doubt uncertain about]]
+- [[$kr - gratitude]]
 - [[$ml - include encompass something]]
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
-- [[$yE - shye]]
+- [[$yE - follow cause follow]]
 - [[*rr - scattering dispersing small]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
-- [[>bw - abw]]
-- [[>fk - afk]]
-- [[>jr - ajr]]
+- [[*wq - taste]]
+- [[>*n - ear]]
+- [[>bw - forefathers]]
+- [[>fk - turn something away]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
-- [[>lm - alm]]
-- [[>mn - amn]]
+- [[>lm - painful]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
 - [[>wb - return]]
-- [[>wl - like milk oil]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[DEf - weak]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
-- [[E$r - eshr]]
-- [[E*b - edhb]]
+- [[E$r - ten]]
+- [[E*b - motes particles floating]]
 - [[Ebd - worship]]
 - [[Ejz - old age weakness]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
 - [[Enq - like summer age]]
-- [[ErD - erd]]
-- [[Erj - erj]]
-- [[Ewd - ewd]]
-- [[Eyn - eyn]]
+- [[ErD - turn away]]
+- [[Erj - ascend mount]]
+- [[Ewd - aad]]
+- [[Eyn - eyes]]
 - [[Ezz - all-mighty]]
-- [[H$r - hshr]]
-- [[HDr - hdr]]
+- [[H$r - gather collect people]]
+- [[HDr - present]]
 - [[Hdd - define]]
 - [[Hdv - accidents]]
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>bw - abw]]
+- [[>bw - forefathers]]
 
 ### Meaning
 **forefathers** · Lemma **آباء**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:133 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or were you witnesses when death approached Jacob, when he said to his sons, "What will you worship after me?" They said, "We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac - one God. And we are Muslims [in submission] to Him."
 
 **English (Yusuf Ali):** Were ye witnesses when death appeared before Jacob? Behold, he said to his sons: "What will ye worship after me?" They said: "We shall worship Thy god and the god of thy fathers, of Abraham, Isma'il and Isaac,- the one (True) Allah: To Him we bow (in Islam)."
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس وقت یعقوب وفات پانے لگے تو تم اس وقت موجود تھے، جب انہوں نے اپنے بیٹوں سے پوچھا کہ میرے بعد تم کس کی عبادت کرو گے، تو انہوں نے کہا کہ آپ کے معبود اور آپ کے باپ دادا ابراہیم اور اسمٰعیل اور اسحاق کے معبود کی عبادت کریں گے جو معبود یکتا ہے اور ہم اُسی کے حکم بردار ہیں
 
 [Open on Quran.com](https://quran.com/2/133)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When it is said to them: "Follow what Allah hath revealed:" They say: "Nay! we shall follow the ways of our fathers." What! even though their fathers Were void of wisdom and guidance?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان لوگوں سے کہا جاتا ہے کہ جو (کتاب) خدا نے نازل فرمائی ہے اس کی پیروی کرو تو کہتے ہیں (نہیں) بلکہ ہم تو اسی چیز کی پیروی کریں گے جس پر ہم نے اپنے باپ دادا کو پایا۔ بھلا اگرچہ ان کے باپ دادا نہ کچھ سمجھتے ہوں اورنہ سیدھے رستے پر ہوں (تب بھی وہ انہیں کی تقلید کئے جائیں گے)
+
 [Open on Quran.com](https://quran.com/2/170)
 
 #### 2:200 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you have completed your rites, remember Allāh like your [previous] remembrance of your fathers or with [much] greater remembrance. And among the people is he who says, "Our Lord, give us in this world," and he will have in the Hereafter no share.
 
 **English (Yusuf Ali):** So when ye have accomplished your holy rites, celebrate the praises of Allah, as ye used to celebrate the praises of your fathers,- yea, with far more Heart and soul. There are men who say: "Our Lord! Give us (Thy bounties) in this world!" but they will have no portion in the Hereafter.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب حج کے تمام ارکان پورے کرچکو تو (منیٰ میں) خدا کو یاد کرو۔ جس طرح اپنے باپ دادا کو یاد کیا کرتے تھے بلکہ اس سے بھی زیادہ اور بعض لوگ ایسے ہیں جو (خدا سے) التجا کرتے ہیں کہ اے پروردگار ہم کو (جو دنیا ہے) دنیا ہی میں عنایت کر ایسے لوگوں کا آخرت میں کچھ حصہ نہیں
 
 [Open on Quran.com](https://quran.com/2/200)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah (thus) directs you as regards your Children's (Inheritance): to the male, a portion equal to that of two females: if only daughters, two or more, their share is two-thirds of the inheritance; if only one, her share is a half. For parents, a sixth share of the inheritance to each, if the deceased left children; if no children, and the parents are the (only) heirs, the mother has a third; if the deceased Left brothers (or sisters) the mother has a sixth. (The distribution in all cases ('s) after the payment of legacies and debts. Ye know not whether your parents or your children are nearest to you in benefit. These are settled portions ordained by Allah; and Allah is All-knowing, Al-wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری اولاد کے بارے میں تم کو ارشاد فرماتا ہے کہ ایک لڑکے کا حصہ دو لڑکیوں کے حصے کے برابر ہے۔ اور اگر اولاد میت صرف لڑکیاں ہی ہوں (یعنی دو یا) دو سے زیادہ تو کل ترکے میں ان کادو تہائی۔ اور اگر صرف ایک لڑکی ہو تو اس کا حصہ نصف۔ اور میت کے ماں باپ کا یعنی دونوں میں سے ہر ایک کا ترکے میں چھٹا حصہ بشرطیکہ میت کے اولاد ہو۔ اور اگر اولاد نہ ہو اور صرف ماں باپ ہی اس کے وارث ہوں تو ایک تہائی ماں کا حصہ۔ اور اگر میت کے بھائی بھی ہوں تو ماں کا چھٹا حصہ۔ (اور یہ تقسیم ترکہ میت کی) وصیت (کی تعمیل) کے بعد جو اس نے کی ہو یا قرض کے (ادا ہونے کے بعد جو اس کے ذمے ہو عمل میں آئے گی) تم کو معلوم نہیں کہ تمہارے باپ دادؤں اور بیٹوں پوتوں میں سے فائدے کے لحاظ سے کون تم سے زیادہ قریب ہے، یہ حصے خدا کے مقرر کئے ہوئے ہیں اور خدا سب کچھ جاننے والا اور حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/4/11)
 
 #### 4:22 · [[004 An-Nisa]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not marry those [women] whom your fathers married, except what has already occurred. Indeed, it was an immorality and hateful [to Allāh] and was evil as a way.
 
 **English (Yusuf Ali):** And marry not women whom your fathers married,- except what is past: It was shameful and odious,- an abominable custom indeed.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن عورتوں سے تمہارے باپ نے نکاح کیا ہو ان نکاح مت کرنا (مگر جاہلیت میں) جو ہوچکا (سوہوچکا) یہ نہایت بےحیائی اور (خدا کی) ناخوشی کی بات تھی۔ اور بہت برا دستور تھا
 
 [Open on Quran.com](https://quran.com/4/22)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When it is said to them: "Come to what Allah hath revealed; come to the Messenger": They say: "Enough for us are the ways we found our fathers following." what! even though their fathers were void of knowledge and guidance?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان لوگوں سے کہا جاتا ہے کہ جو (کتاب) خدا نے نازل فرمائی ہے اس کی اور رسول الله کی طرف رجوع کرو تو کہتے ہیں کہ جس طریق پر ہم نے اپنے باپ دادا کو پایا ہے وہی ہمیں کافی ہے بھلا اگر ان کے باپ دادا نہ تو کچھ جانتے ہوں اور نہ سیدھے رستے پر ہوں (تب بھی؟)
+
 [Open on Quran.com](https://quran.com/5/104)
 
 #### 6:87 · [[006 Al-Anam]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [some] among their fathers and their descendants and their brothers - and We chose them and We guided them to a straight path.
 
 **English (Yusuf Ali):** (To them) and to their fathers, and progeny and brethren: We chose them, and we guided them to a straight way.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض بعض کو ان کے باپ دادا اور اولاد اور بھائیوں میں سے بھی۔ اور ان کو برگزیدہ بھی کیا تھا اور سیدھا رستہ بھی دکھایا تھا
 
 [Open on Quran.com](https://quran.com/6/87)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** No just estimate of Allah do they make when they say: "Nothing doth Allah send down to man (by way of revelation)" Say: "Who then sent down the Book which Moses brought?- a light and guidance to man: But ye make it into (separate) sheets for show, while ye conceal much (of its contents): therein were ye taught that which ye knew not- neither ye nor your fathers." Say: "Allah (sent it down)": Then leave them to plunge in vain discourse and trifling.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے خدا کی قدر جیسی جاننی چاہیئے تھی نہ جانی۔ جب انہوں نے کہا کہ خدا نے انسان پر (وحی اور کتاب وغیرہ) کچھ بھی نازل نہیں کیا۔ کہو جو کتاب موسیٰ لے کر آئے تھے اسے کس نے نازل کیا تھا جو لوگوں کے لئے نور اور ہدایت تھی اور جسے تم نے علیحدہ علیحدہ اوراق (پر نقل) کر رکھا ہے ان (کے کچھ حصے) کو تو ظاہر کرتے ہو اور اکثر کو چھپاتے ہو۔ اور تم کو وہ باتیں سکھائی گئیں جن کو نہ تم جانتے تھے اور نہ تمہارے باپ دادا۔ کہہ دو (اس کتاب کو) خدا ہی نے (نازل کیا تھا) پھر ان کو چھوڑ دیا کہ اپنی بیہودہ بکواس میں کھیلتے رہیں
+
 [Open on Quran.com](https://quran.com/6/91)
 
 #### 6:148 · [[006 Al-Anam]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who give partners (to Allah) will say: "If Allah had wished, we should not have given partners to Him nor would our fathers; nor should we have had any taboos." So did their ancestors argue falsely, until they tasted of Our wrath. Say: "Have ye any (certain) knowledge? If so, produce it before us. Ye follow nothing but conjecture: ye do nothing but lie."
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ شرک کرتے ہیں وہ کہیں گے کہ اگر خدا چاہتا تو ہم شرک نہ کرتے اور نہ ہمارے باپ دادا (شرک کرتے) اور نہ ہم کسی چیز کو حرام ٹھہراتے اسی طرح ان لوگوں نے تکذیب کی تھی جو ان سے پہلے تھے یہاں تک کہ ہمارے عذاب کا مزہ چکھ کر رہے کہہ دو کیا تمہارے پاس کوئی سند ہے (اگر ہے) تو اسے ہمارے سامنے نکالو تم محض خیال کے پیچھے چلتے اور اٹکل کی تیر چلاتے ہو
+
 [Open on Quran.com](https://quran.com/6/148)
 
 #### 7:28 · [[007 Al-Araf]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they commit an immorality, they say, "We found our fathers doing it, and Allāh has ordered us to do it." Say, "Indeed, Allāh does not order immorality. Do you say about Allāh that which you do not know?"
 
 **English (Yusuf Ali):** When they do aught that is shameful, they say: "We found our fathers doing so"; and "Allah commanded us thus": Say: "Nay, Allah never commands what is shameful: do ye say of Allah what ye know not?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب کوئی بے حیائی کا کام کرتے ہیں تو کہتے ہیں کہ ہم نے اپنے بزرگوں کو اسی طرح کرتے دیکھا ہے اور خدا نے بھی ہم کو یہی حکم دیا ہے۔ کہہ دو خدا بےحیائی کے کام کرنے کا ہرگز حکم نہیں دیتا۔ بھلا تم خدا کی نسبت ایسی بات کیوں کہتے ہو جس کا تمہیں علم نہیں
 
 [Open on Quran.com](https://quran.com/7/28)
 

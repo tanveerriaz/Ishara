@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[kvr - kthr]]
+- [[kvr - them]]
 
 ### Meaning
 **much** · Lemma **كَثُرَ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:7 · [[004 An-Nisa]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For men is a share of what the parents and close relatives leave, and for women is a share of what the parents and close relatives leave, be it little or much - an obligatory share.
 
 **English (Yusuf Ali):** From what is left by parents and those nearest related there is a share for men and a share for women, whether the property be small or large,-a determinate share.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو مال ماں باپ اور رشتہ دار چھوڑ مریں تھوڑا ہو یا بہت۔ اس میں مردوں کا بھی حصہ ہے اور عورتوں کا بھی یہ حصے (خدا کے) مقرر کئے ہوئے ہیں
 
 [Open on Quran.com](https://quran.com/4/7)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And squat not on every road, breathing threats, hindering from the path of Allah those who believe in Him, and seeking in it something crooked; But remember how ye were little, and He gave you increase. And hold in your mind's eye what was the end of those who did mischief.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہر رستے پر مت بیٹھا کرو کہ جو شخص خدا پر ایمان نہیں لاتا ہے اسے تم ڈراتے اور راہ خدا سے روکتے اور اس میں کجی ڈھونڈتے ہو اور (اس وقت کو) یاد کرو جب تم تھوڑے سے تھے تو خدا نے تم کو جماعت کثیر کر دیا اور دیکھ لو کہ خرابی کرنے والوں کا انجام کیسا ہوا
+
 [Open on Quran.com](https://quran.com/7/86)
 
 #### 8:19 · [[008 Al-Anfal]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If you [disbelievers] seek the decision [i.e., victory] - the decision [i.e., defeat] has come to you. And if you desist [from hostilities], it is best for you; but if you return [to war], We will return, and never will you be availed by your [large] company at all, even if it should increase; and [that is] because Allāh is with the believers.
 
 **English (Yusuf Ali):** (O Unbelievers!) if ye prayed for victory and judgment, now hath the judgment come to you: if ye desist (from wrong), it will be best for you: if ye return (to the attack), so shall We. Not the least good will your forces be to you even if they were multiplied: for verily Allah is with those who believe!
+
+**Urdu (Fatah Muhammad Jalandhari):** (کافرو) اگر تم (محمد صلی الله علیہ وآلہ وسلم پر) فتح چاہتے ہو تو تمہارے پاس فتح آچکی۔ (دیکھو) اگر تم (اپنے افعال سے) باز آجاؤ تو تمہارے حق میں بہتر ہے۔ اور اگر پھر (نافرمانی) کرو گے تو ہم بھی پھر تمہیں عذاب کریں گے اور تمہاری جماعت خواہ کتنی ہی کثیر ہو تمہارے کچھ بھی کام نہ آئے گی۔ اور خدا تو مومنوں کے ساتھ ہے
 
 [Open on Quran.com](https://quran.com/8/19)
 

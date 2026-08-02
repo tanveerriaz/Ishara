@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 15:88 · [[015 Al-Hijr]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do not extend your eyes toward that by which We have given enjoyment to [certain] categories of them [i.e., the disbelievers], and do not grieve over them. And lower your wing [i.e., show kindness] to the believers.
 
 **English (Yusuf Ali):** Strain not thine eyes. (Wistfully) at what We have bestowed on certain classes of them, nor grieve over them: but lower thy wing (in gentleness) to the believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کفار کی کئی جماعتوں کو جو (فوائد دنیاوی سے) متمتع کیا ہے تم ان کی طرف (رغبت سے) آنکھ اٹھا کر نہ دیکھنا اور نہ ان کے حال پر تاسف کرنا اور مومنوں سے خاطر اور تواضع سے پیش آنا
 
 [Open on Quran.com](https://quran.com/15/88)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And, out of kindness, lower to them the wing of humility, and say: "My Lord! bestow on them thy Mercy even as they cherished me in childhood."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور عجزو نیاز سے ان کے آگے جھکے رہو اور ان کے حق میں دعا کرو کہ اے پروردگار جیسا انہوں نے مجھے بچپن میں (شفقت سے) پرورش کیا ہے تو بھی اُن (کے حال) پر رحمت فرما
+
 [Open on Quran.com](https://quran.com/17/24)
 
 #### 26:215 · [[026 Ash-Shuara]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And lower your wing [i.e., show kindness] to those who follow you of the believers.
 
 **English (Yusuf Ali):** And lower thy wing to the Believers who follow thee.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو مومن تمہارے پیرو ہوگئے ہیں ان سے متواضع پیش آؤ
 
 [Open on Quran.com](https://quran.com/26/215)
 

@@ -16,42 +16,42 @@ The Earthquake · 8 ayahs
 
 - [[mvqAl - weight]] — `مِثْقال` · weight
 - [[*rp - atom]] — `ذَرَّة` · atom
-- [[vql - burdens]] — `ثَقَل` · burdens
-- [[zlzl - shaken]] — `زُلْزِلُ` · shaken
-- [[nAs - people]] — `ناس` · people
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[>xbAr - news]] — `أَخْبار` · news
+- [[qAl - say]] — `قالَ` · say
 - [[>ry - show me]] — `أَرَيْ` · show me
-- [[Eml - do]] — `عَمِلَ` · do
+- [[vql - burdens]] — `ثَقَل` · burdens
+- [[>rD - earth]] — `أَرْض` · earth
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[rb - lord]] — `رَبّ` · lord
+- [[nAs - people]] — `ناس` · people
+- [[<nsAn - man]] — `إِنسان` · man
+- [[$r - evil]] — `شَرّ` · evil
 - [[r>Y - you see]] — `رَأَى` · you see
 - [[xyr - better]] — `خَيْر` · better
-- [[qAl - say]] — `قالَ` · say
-- [[$r - evil]] — `شَرّ` · evil
-- [[ywm - day]] — `يَوْم` · day
-- [[<nsAn - man]] — `إِنسان` · man
-- [[>rD - earth]] — `أَرْض` · earth
-- [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
+- [[Eml - do]] — `عَمِلَ` · do
+- [[zlzl - shaken]] — `زُلْزِلُ` · shaken
 - [[>wHY - we revealed]] — `أَوْحَى` · we revealed
-- [[rb - lord]] — `رَبّ` · lord
+- [[ywm - day]] — `يَوْم` · day
+- [[>xbAr - news]] — `أَخْبار` · news
+- [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
 
 ## Roots
 
 - [[$rr - sparks fire]]
 - [[$tt - scatter]]
 - [[*rr - scattering dispersing small]]
-- [[>ns - ans]]
-- [[>rD - ard]]
-- [[Eml - eml]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
+- [[Eml - intentional action deed]]
 - [[Hdv - accidents]]
 - [[Sdr - front part something]]
 - [[qwl - qawala]]
 - [[r>y - see eye perceive]]
 - [[rbb - Lord]]
-- [[vql - thql]]
+- [[vql - heavy]]
 - [[wHy - we revealed]]
-- [[xbr - khabra]]
-- [[xrj - khrj]]
-- [[xyr - khyr]]
+- [[xbr - know something deeply]]
+- [[xrj - go come out]]
+- [[xyr - better]]
 - [[ywm - day]]
 - [[zlzl - shake]]
 

@@ -14,84 +14,84 @@ The Cow · 286 ayahs
 
 ## Words in this surah (graph)
 
-- [[nAr - fire]] — `نار` · fire
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[Eml - do]] — `عَمِلَ` · do
-- [[>mr - command]] — `أَمَرَ` · command
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[qwm - people]] — `قَوْم` · people
-- [[Elm - know]] — `عَلِمَ` · know
-- [[End - near]] — `عِند` · near
-- [[sbyl - way]] — `سَبِيل` · way
-- [[dnyA - world]] — `دُنْيا` · world
-- [[>x* - we took]] — `أَخَذَ` · we took
-- [[fDl - bounty]] — `فَضَّلَ` · bounty
-- [[mlk - angels]] — `مَلَك` · angels
-- [[xyr - better]] — `خَيْر` · better
-- [[jnAH - blame]] — `جُناح` · blame
-- [[kAn - is]] — `كانَ` · is
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[byn - between them]] — `بَيْن` · between them
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[kl - every]] — `كُلّ` · every
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
 - [[qbl - before]] — `قَبْل` · before
-- [[>nfq - spend]] — `أَنفَقَ` · spend
-- [[jA' - came them]] — `جاءَ` · came them
-- [[Hq - truth]] — `حَقّ` · truth
+- [[Ayp - signs]] — `آيَة` · signs
+- [[kl - every]] — `كُلّ` · every
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[qlb - hearts]] — `قَلْب` · hearts
+- [[mAl - wealth]] — `مال` · wealth
+- [[sbyl - way]] — `سَبِيل` · way
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[kAn - is]] — `كانَ` · is
+- [[End - near]] — `عِند` · near
+- [[>x* - we took]] — `أَخَذَ` · we took
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[nAs - people]] — `ناس` · people
+- [[dnyA - world]] — `دُنْيا` · world
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[ksb - earn]] — `كَسَبَ` · earn
+- [[ktAb - book]] — `كِتاب` · book
+- [[SlAp - prayer]] — `صَلاة` · prayer
+- [[AtqY - fear]] — `اتَّقَى` · fear
+- [[>y - o you]] — `أَيّ` · o you
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Tn - shtn]]
-- [[$bh - shbh]]
+- [[$Tn - anything excessively proud]]
+- [[$bh - likeness resemblance]]
 - [[$dd - severe]]
 - [[$fE - make something pair]]
-- [[$hd - shhd]]
-- [[$hr - shahr]]
-- [[$jr - shjr]]
-- [[$kr - shkr]]
+- [[$hd - witnessing]]
+- [[$hr - new moon]]
+- [[$jr - trees]]
+- [[$kr - gratitude]]
 - [[$ms - horse refusing ridden]]
 - [[$qq - cleave]]
-- [[$rb - shrb]]
+- [[$rb - drink]]
 - [[$rk - sharing partnership]]
-- [[$rq - east]]
+- [[$rq - earth]]
 - [[$rr - sparks fire]]
 - [[$ry - buy sell]]
-- [[$wr - shwr]]
+- [[$wr - gather honey]]
 - [[$y> - thing]]
 - [[*bH - cut split lengthwise]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*ll - humiliation]]
 - [[*rr - scattering dispersing small]]
-- [[>*n - adhn]]
+- [[>*n - ear]]
 - [[>*y - hurt]]
 - [[>Hd - anyone]]
-- [[>Sr - asr 2]]
-- [[>bd - abad]]
-- [[>bw - abw]]
-- [[>by - aby]]
-- [[>dm - adm]]
-- [[>dy - ady]]
+- [[>Sr - things bind tie]]
+- [[>bd - absolute long]]
+- [[>bw - forefathers]]
+- [[>by - refuse]]
+- [[>dm - seasoned food]]
+- [[>dy - perform]]
 - [[>hl - people house]]
 - [[>jl - term]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
-- [[>lf - alifa]]
+- [[>lf - become familiar]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>lw - ila]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
+- [[>ns - mankind]]
 - [[>nv - female]]
-- [[>rD - ard]]
-- [[>sr - asr]]
+- [[>rD - earth]]
+- [[>sr - bind capture]]
 - [[>ty - give]]
-- [[>vm - athm]]
-- [[>wl - like milk oil]]
+- [[>vm - sin commit crime]]
+- [[>wl - return revert original]]
 
 ## Sample (ayah 1)
 

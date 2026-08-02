@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 20:71 · [[020 Taha]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Pharaoh] said, "You believed him [i.e., Moses] before I gave you permission. Indeed, he is your leader who has taught you magic. So I will surely cut off your hands and your feet on opposite sides, and I will crucify you on the trunks of palm trees, and you will surely know which of us is more severe in [giving] punishment and more enduring."
 
 **English (Yusuf Ali):** (Pharaoh) said: "Believe ye in Him before I give you permission? Surely this must be your leader, who has taught you magic! be sure I will cut off your hands and feet on opposite sides, and I will have you crucified on trunks of palm-trees: so shall ye know for certain, which of us can give the more severe and the more lasting punishment!"
+
+**Urdu (Fatah Muhammad Jalandhari):** (فرعون) بولا کہ پیشتر اس کے میں تمہیں اجازت دوں تم اس پر ایمان لے آئے۔ بےشک وہ تمہارا بڑا (یعنی استاد) ہے جس نے تم کو جادو سکھایا ہے۔ سو میں تمہارے ہاتھ اور پاؤں (جانب) خلاف سے کٹوا دوں گا اور کھجور کے تنوں پر سولی چڑھوا دوں گا (اس وقت) تم کو معلوم ہوگا کہ ہم میں سے کس کا عذاب زیادہ سخت اور دیر تک رہنے والا ہے
 
 [Open on Quran.com](https://quran.com/20/71)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "For us, we have believed in our Lord: may He forgive us our faults, and the magic to which thou didst compel us: for Allah is Best and Most Abiding."
 
+**Urdu (Fatah Muhammad Jalandhari):** ہم اپنے پروردگار پر ایمان لے آئے تاکہ وہ ہمارے گناہوں کو معاف کرے اور (اسے بھی) جو آپ نے ہم سے زبردستی جادو کرایا۔ اور خدا بہتر اور باقی رہنے والا ہے
+
 [Open on Quran.com](https://quran.com/20/73)
 
 #### 20:127 · [[020 Taha]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And thus do We recompense he who transgressed and did not believe in the signs of his Lord. And the punishment of the Hereafter is more severe and more enduring.
 
 **English (Yusuf Ali):** And thus do We recompense him who transgresses beyond bounds and believes not in the Signs of his Lord: and the Penalty of the Hereafter is far more grievous and more enduring.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص حد سے نکل جائے اور اپنے پروردگار کی آیتوں پر ایمان نہ لائے ہم اس کو ایسا ہی بدلہ دیتے ہیں۔ اور آخرت کا عذاب بہت سخت اور بہت دیر رہنے والا ہے
 
 [Open on Quran.com](https://quran.com/20/127)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nor strain thine eyes in longing for the things We have given for enjoyment to parties of them, the splendour of the life of this world, through which We test them: but the provision of thy Lord is better and more enduring.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کئی طرح کے لوگوں کو جو ہم نے دنیا کی زندگی میں آرائش کی چیزوں سے بہرہ مند کیا ہے تاکہ ان کی آزمائش کریں ان پر نگاہ نہ کرنا۔ اور تمہاری پروردگار کی (عطا فرمائی ہوئی) روزی بہت بہتر اور باقی رہنے والی ہے
+
 [Open on Quran.com](https://quran.com/20/131)
 
 #### 28:60 · [[028 Al-Qasas]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whatever thing you [people] have been given - it is [only for] the enjoyment of worldly life and its adornment. And what is with Allāh is better and more lasting; so will you not use reason?
 
 **English (Yusuf Ali):** The (material) things which ye are given are but the conveniences of this life and the glitter thereof; but that which is with Allah is better and more enduring: will ye not then be wise?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو چیز تم کو دی گئی ہے وہ دنیا کی زندگی کا فائدہ اور اس کی زینت ہے۔ اور جو خدا کے پاس ہے وہ بہتر اور باقی رہنے والی ہے۔ کیا تم سمجھتے نہیں؟
 
 [Open on Quran.com](https://quran.com/28/60)
 
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whatever ye are given (here) is (but) a convenience of this life: but that which is with Allah is better and more lasting: (it is) for those who believe and put their trust in their Lord:
 
+**Urdu (Fatah Muhammad Jalandhari):** (لوگو) جو (مال ومتاع) تم کو دیا گیا ہے وہ دنیا کی زندگی کا (ناپائدار) فائدہ ہے۔ اور جو کچھ خدا کے ہاں ہے وہ بہتر اور قائم رہنے والا ہے (یعنی) ان لوگوں کے لئے جو ایمان لائے اور اپنے پروردگار پر بھروسا رکھتے ہیں
+
 [Open on Quran.com](https://quran.com/42/36)
 
 #### 87:17 · [[087 Al-Ala]]
@@ -138,6 +150,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** While the Hereafter is better and more enduring.
 
 **English (Yusuf Ali):** But the Hereafter is better and more enduring.
+
+**Urdu (Fatah Muhammad Jalandhari):** حالانکہ آخرت بہت بہتر اور پائندہ تر ہے
 
 [Open on Quran.com](https://quran.com/87/17)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xll - khall]]
+- [[xll - gap]]
 
 ### Meaning
 **as friend** · Lemma **خَلِيل**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:125 · [[004 An-Nisa]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And who is better in religion than one who submits himself to Allāh while being a doer of good and follows the religion of Abraham, inclining toward truth? And Allāh took Abraham as an intimate friend.
 
 **English (Yusuf Ali):** Who can be better in religion than one who submits his whole self to Allah, does good, and follows the way of Abraham the true in Faith? For Allah did take Abraham for a friend.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس شخص سے کس کا دین اچھا ہوسکتا ہے جس نے حکم خدا کو قبول کیا اور وہ نیکوکار بھی ہے۔ اور ابراہیم کے دین کا پیرو ہے جو یکسوں (مسلمان ) تھے اور خدا نے ابراہیم کو اپنا دوست بنایا تھا
 
 [Open on Quran.com](https://quran.com/4/125)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And their purpose was to tempt thee away from that which We had revealed unto thee, to substitute in our name something quite different; (in that case), behold! they would certainly have made thee (their) friend!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اے پیغمبر جو وحی ہم نے تمہاری طرف بھیجی ہے قریب تھا کہ یہ (کافر) لوگ تم کو اس سے بچلا دیں تاکہ تم اس کے سوا اور باتیں ہماری نسبت بنالو۔ اور اس وقت وہ تم کو دوست بنا لیتے
+
 [Open on Quran.com](https://quran.com/17/73)
 
 #### 25:28 · [[025 Al-Furqan]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Ah! woe is me! Would that I had never taken such a one for a friend!
 
+**Urdu (Fatah Muhammad Jalandhari):** ہائے شامت کاش میں نے فلاں شخص کو دوست نہ بنایا ہوتا
+
 [Open on Quran.com](https://quran.com/25/28)
 
 #### 43:67 · [[043 Az-Zukhruf]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Close friends, that Day, will be enemies to each other, except for the righteous
 
 **English (Yusuf Ali):** Friends on that day will be foes, one to another,- except the Righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** (جو آپس میں) دوست (ہیں) اس روز ایک دوسرے کے دشمن ہوں گے۔ مگر پرہیزگار (کہ باہم دوست ہی رہیں گے)
 
 [Open on Quran.com](https://quran.com/43/67)
 

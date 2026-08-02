@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:196 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And complete the ḥajj and ʿumrah for Allāh. But if you are prevented, then [offer] what can be obtained with ease of sacrificial animals. And do not shave your heads until the sacrificial animal has reached its place of slaughter. And whoever among you is ill or has an ailment of the head [making shaving necessary must offer] a ransom of fasting [three days] or charity or sacrifice. And when you are secure, then whoever performs ʿumrah [during the ḥajj months] followed by ḥajj [offers] what can be obtained with ease of sacrificial animals. And whoever cannot find [or afford such an animal] - then a fast of three days during ḥajj and of seven when you have returned [home]. Those are ten complete [days]. This is for those whose family is not in the area of al-Masjid al-Ḥarām. And fear Allāh and know that Allāh is severe in penalty.
 
 **English (Yusuf Ali):** And complete the Hajj or 'umra in the service of Allah. But if ye are prevented (From completing it), send an offering for sacrifice, such as ye may find, and do not shave your heads until the offering reaches the place of sacrifice. And if any of you is ill, or has an ailment in his scalp, (Necessitating shaving), (He should) in compensation either fast, or feed the poor, or offer sacrifice; and when ye are in peaceful conditions (again), if any one wishes to continue the 'umra on to the hajj, He must make an offering, such as he can afford, but if he cannot afford it, He should fast three days during the hajj and seven days on his return, Making ten days in all. This is for those whose household is not in (the precincts of) the Sacred Mosque. And fear Allah, and know that Allah Is strict in punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی خوشنودی) کے لئے حج اور عمرے کو پورا کرو۔ اور اگر (راستےمیں) روک لئے جاؤ تو جیسی قربانی میسر ہو (کردو) اور جب تک قربانی اپنے مقام پر نہ پہنچ جائے سر نہ منڈاؤ۔ اور اگر کوئی تم میں بیمار ہو یا اس کے سر میں کسی طرح کی تکلیف ہو تو (اگر وہ سر منڈالے تو) اس کے بدلے روزے رکھے یا صدقہ دے یا قربانی کرے پھر جب (تکلیف دور ہو کر) تم مطمئن ہوجاؤ تو جو (تم میں) حج کے وقت تک عمرے سے فائدہ اٹھانا چاہے وہ جیسی قربانی میسر ہو کرے۔ اور جس کو (قربانی) نہ ملے وہ تین روزے ایام حج میں رکھے اور سات جب واپس ہو۔ یہ پورے دس ہوئے۔ یہ حکم اس شخص کے لئے ہے جس کے اہل وعیال مکے میں نہ رہتے ہوں اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا سخت عذاب دینے والا ہے
 
 [Open on Quran.com](https://quran.com/2/196)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They ask thee concerning women's courses. Say: They are a hurt and a pollution: So keep away from women in their courses, and do not approach them until they are clean. But when they have purified themselves, ye may approach them in any manner, time, or place ordained for you by Allah. For Allah loves those who turn to Him constantly and He loves those who keep themselves pure and clean.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے حیض کے بارے میں دریافت کرتے ہیں۔ کہہ دو کہ وہ تو نجاست ہے۔ سو ایام حیض میں عورتوں سے کنارہ کش رہو۔ اور جب تک پاک نہ ہوجائیں ان سے مقاربت نہ کرو۔ ہاں جب پاک ہوجائیں تو جس طریق سے خدا نے ارشاد فرمایا ہے ان کے پاس جاؤ۔ کچھ شک نہیں کہ خدا توبہ کرنے والوں اور پاک صاف رہنے والوں کو دوست رکھتا ہے
+
 [Open on Quran.com](https://quran.com/2/222)
 
 #### 2:262 · [[002 Al-Baqarah]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who spend their wealth in the way of Allāh and then do not follow up what they have spent with reminders [of it] or [other] injury will have their reward with their Lord, and there will be no fear concerning them, nor will they grieve.
 
 **English (Yusuf Ali):** Those who spend their substance in the cause of Allah, and follow not up their gifts with reminders of their generosity or with injury,-for them their reward is with their Lord: on them shall be no fear, nor shall they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال خدا کے رستے میں صرف کرتے ہیں پھر اس کے بعد نہ اس خرچ کا (کسی پر) احسان رکھتے ہیں اور نہ (کسی کو) تکلیف دیتے ہیں۔ ان کا صلہ ان کے پروردگار کے پاس (تیار) ہے۔ اور (قیامت کے روز) نہ ان کو کچھ خوف ہوگا اور نہ وہ غمگین ہوں گے
 
 [Open on Quran.com](https://quran.com/2/262)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Kind words and the covering of faults are better than charity followed by injury. Allah is free of all wants, and He is Most-Forbearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** جس خیرات دینے کے بعد (لینے والے کو) ایذا دی جائے اس سے تو نرم بات کہہ دینی اور (اس کی بے ادبی سے) درگزر کرنا بہتر ہے اور خدا بےپروا اور بردبار ہے
+
 [Open on Quran.com](https://quran.com/2/263)
 
 #### 2:264 · [[002 Al-Baqarah]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not invalidate your charities with reminders [of it] or injury as does one who spends his wealth [only] to be seen by the people and does not believe in Allāh and the Last Day. His example is like that of a [large] smooth stone upon which is dust and is hit by a downpour that leaves it bare. They are unable [to keep] anything of what they have earned. And Allāh does not guide the disbelieving people.
 
 **English (Yusuf Ali):** O ye who believe! cancel not your charity by reminders of your generosity or by injury,- like those who spend their substance to be seen of men, but believe neither in Allah nor in the Last Day. They are in parable like a hard, barren rock, on which is a little soil: on it falls heavy rain, which leaves it (Just) a bare stone. They will be able to do nothing with aught they have earned. And Allah guideth not those who reject faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اپنے صدقات (وخیرات)احسان رکھنے اور ایذا دینے سے اس شخص کی طرح برباد نہ کردینا۔ جو لوگوں کو دکھاوے کے لئے مال خرچ کرتا ہے اور خدا اور روز آخرت پر ایمان نہیں رکھتا۔ تو اس (کے مال) کی مثال اس چٹان کی سی ہے جس پر تھوڑی سی مٹی پڑی ہو اور اس پر زور کا مینہ برس کر اسے صاف کر ڈالے۔ (اسی طرح) یہ (ریاکار) لوگ اپنے اعمال کا کچھ بھی صلہ حاصل نہیں کرسکیں گے۔ اور خدا ایسے ناشکروں کو ہدایت نہیں دیا کرتا
 
 [Open on Quran.com](https://quran.com/2/264)
 
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They will do you no harm, barring a trifling annoyance; if they come out to fight you, they will show you their backs, and no help shall they get.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ تمہیں خفیف سی تکلیف کے سوا کچھ نقصان نہیں پہنچا سکیں گے اور اگر تم سے لڑیں گے تو پیٹھ پھیر کر بھاگ جائیں گے پھر ان کو مدد بھی (کہیں سے) نہیں ملے گی
+
 [Open on Quran.com](https://quran.com/3/111)
 
 #### 3:186 · [[003 Ali Imran]]
@@ -138,6 +150,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** You will surely be tested in your possessions and in yourselves. And you will surely hear from those who were given the Scripture before you and from those who associate others with Allāh much abuse. But if you are patient and fear Allāh - indeed, that is of the matters [worthy] of resolve.
 
 **English (Yusuf Ali):** Ye shall certainly be tried and tested in your possessions and in your personal selves; and ye shall certainly Hear much that will grieve you, from those who received the Book before you and from those who worship many gods. But if ye persevere patiently, and guard against evil,-then that will be a determining factor in all affairs.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے اہل ایمان) تمہارے مال و جان میں تمہاری آزمائش کی جائے گی۔ اور تم اہل کتاب سے اور ان لوگوں سے جو مشرک ہیں بہت سی ایذا کی باتیں سنو گے۔ اور تو اگر صبر اور پرہیزگاری کرتے رہو گے تو یہ بڑی ہمت کے کام ہیں
 
 [Open on Quran.com](https://quran.com/3/186)
 
@@ -155,6 +169,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When thou (O Messenger) art with them, and standest to lead them in prayer, Let one party of them stand up (in prayer) with thee, Taking their arms with them: When they finish their prostrations, let them Take their position in the rear. And let the other party come up which hath not yet prayed - and let them pray with thee, Taking all precaution, and bearing arms: the Unbelievers wish, if ye were negligent of your arms and your baggage, to assault you in a single rush. But there is no blame on you if ye put away your arms because of the inconvenience of rain or because ye are ill; but take (every) precaution for yourselves. For the Unbelievers Allah hath prepared a humiliating punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) جب تم ان (مجاہدین کے لشکر) میں ہو اور ان کو نماز پڑھانے لگو تو چاہیئے کہ ان کی ایک جماعت تمہارے ساتھ مسلح ہو کر کھڑی رہے جب وہ سجدہ کرچکیں تو پرے ہو جائیں پھر دوسری جماعت جس نے نماز نہیں پڑھی (ان کی جگہ) آئے اور ہوشیار اور مسلح ہو کر تمہارے ساتھ نماز ادا کرے کافر اس گھات میں ہیں کہ تم ذرا اپنے ہتھیاروں اور سامان سے غافل ہو جاؤ تو تم پر یکبارگی حملہ کردیں اگر تم بارش کے سبب تکلیف میں یا بیمار ہو تو تم پر کچھ گناہ نہیں کہ ہتھیار اتار رکھو مگر ہوشیار ضرور رہنا خدا نے کافروں کے لئے ذلت کا عذاب تیار کر رکھا ہے
+
 [Open on Quran.com](https://quran.com/4/102)
 
 #### 33:48 · [[033 Al-Ahzab]]
@@ -170,6 +186,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not obey the disbelievers and the hypocrites and disregard their annoyance, and rely upon Allāh. And sufficient is Allāh as Disposer of affairs.
 
 **English (Yusuf Ali):** And obey not (the behests) of the Unbelievers and the Hypocrites, and heed not their annoyances, but put thy Trust in Allah. For enough is Allah as a Disposer of affairs.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کافروں اور منافقوں کا کہا نہ ماننا اور نہ ان کے تکلیف دینے پر نظر کرنا اور خدا پر بھروسہ رکھنا۔ اور خدا ہی کارساز کافی ہے
 
 [Open on Quran.com](https://quran.com/33/48)
 

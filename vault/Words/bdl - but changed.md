@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bdl - badala]]
+- [[bdl - change alter]]
 
 ### Meaning
 **but changed** · Lemma **بَدَّلَ**
@@ -41,7 +41,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:59 · [[002 Al-Baqarah]]
 
@@ -56,6 +56,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who wronged changed [those words] to a statement other than that which had been said to them, so We sent down upon those who wronged a punishment [i.e., plague] from the sky because they were defiantly disobeying.
 
 **English (Yusuf Ali):** But the transgressors changed the word from that which had been given them; so We sent on the transgressors a plague from heaven, for that they infringed (Our command) repeatedly.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جو ظالم تھے، انہوں نے اس لفظ کو، جس کا ان کو حکم دیا تھا، بدل کر اس کی جگہ اور لفظ کہنا شروع کیا، پس ہم نے (ان) ظالموں پر آسمان سے عذاب نازل کیا، کیونکہ نافرمانیاں کئے جاتے تھے
 
 [Open on Quran.com](https://quran.com/2/59)
 
@@ -73,6 +75,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If anyone changes the bequest after hearing it, the guilt shall be on those who make the change. For Allah hears and knows (All things).
 
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص وصیت کو سننے کے بعد بدل ڈالے تو اس (کے بدلنے) کا گناہ انہیں لوگوں پر ہے جو اس کو بدلیں۔ اور بےشک خدا سنتا جانتا ہے
+
 [Open on Quran.com](https://quran.com/2/181)
 
 #### 2:211 · [[002 Al-Baqarah]]
@@ -88,6 +92,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Ask the Children of Israel how many a sign of evidence We have given them. And whoever exchanges the favor of Allāh [for disbelief] after it has come to him - then indeed, Allāh is severe in penalty.
 
 **English (Yusuf Ali):** Ask the Children of Israel how many clear (Signs) We have sent them. But if any one, after Allah's favour has come to him, substitutes (something else), Allah is strict in punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمد) بنی اسرائیل سے پوچھو کہ ہم نے ان کو کتنی کھلی نشانیاں دیں۔ اور جو شخص خدا کی نعمت کو اپنے پاس آنے کے بعد بدل دے تو خدا سخت عذاب کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/2/211)
 
@@ -105,6 +111,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who reject our Signs, We shall soon cast into the Fire: as often as their skins are roasted through, We shall change them for fresh skins, that they may taste the penalty: for Allah is Exalted in Power, Wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے ہماری آیتوں سے کفر کیا ان کو ہم عنقریب آگ میں داخل کریں گے جب ان کی کھالیں گل (اور جل) جائیں گی تو ہم اور کھالیں بدل دیں گے تاکہ (ہمیشہ) عذاب (کا مزہ چکھتے) رہیں بےشک خدا غالب حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/4/56)
 
 #### 7:95 · [[007 Al-Araf]]
@@ -120,6 +128,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then We exchanged in place of the bad [condition], good, until they increased [and prospered] and said, "Our fathers [also] were touched with hardship and ease." So We seized them suddenly while they did not perceive.
 
 **English (Yusuf Ali):** Then We changed their suffering into prosperity, until they grew and multiplied, and began to say: "Our fathers (too) were touched by suffering and affluence"... Behold! We called them to account of a sudden, while they realised not (their peril).
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے تکلیف کو آسودگی سے بدل دیا یہاں تک کہ (مال واولاد میں) زیادہ ہوگئے تو کہنے لگے کہ اس طرح کا رنج وراحت ہمارے بڑوں کو بھی پہنچتا رہا ہے تو ہم نے ان کو ناگہاں پکڑلیا اور وہ (اپنے حال میں) بےخبر تھے
 
 [Open on Quran.com](https://quran.com/7/95)
 
@@ -137,6 +147,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But the transgressors among them changed the word from that which had been given them so we sent on them a plague from heaven. For that they repeatedly transgressed.
 
+**Urdu (Fatah Muhammad Jalandhari):** مگر جو ان میں ظالم تھے انہوں نے اس لفظ کو جس کا ان کو حکم دیا گیا تھا بدل کر اس کی جگہ اور لفظ کہنا شروع کیا تو ہم نے ان پر آسمان سے عذاب بھیجا اس لیے کہ ظلم کرتے تھے
+
 [Open on Quran.com](https://quran.com/7/162)
 
 #### 10:15 · [[010 Yunus]]
@@ -152,6 +164,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when Our verses are recited to them as clear evidences, those who do not expect the meeting with Us say, "Bring us a Qur’ān other than this or change it." Say, [O Muḥammad], "It is not for me to change it on my own accord. I only follow what is revealed to me. Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day."
 
 **English (Yusuf Ali):** But when Our Clear Signs are rehearsed unto them, those who rest not their hope on their meeting with Us, Say: "Bring us a reading other than this, or change this," Say: "It is not for me, of my own accord, to change it: I follow naught but what is revealed unto me: if I were to disobey my Lord, I should myself fear the penalty of a Great Day (to come)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کو ہماری آیتیں پڑھ کر سنائی جاتی ہیں تو جن لوگوں کو ہم سے ملنے کی امید نہیں وہ کہتے ہیں کہ (یا تو) اس کے سوا کوئی اور قرآن (بنا) لاؤ یا اس کو بدل دو۔ کہہ دو کہ مجھ کو اختیار نہیں ہے کہ اسے اپنی طرف سے بدل دو۔ میں تو اسی حکم کا تابع ہوں جو میری طرف آتا ہے۔ اگر میں اپنے پروردگار کی نافرمانی کروں تو مجھے بڑے (سخت) دن کے عذاب سے خوف آتا ہے
 
 [Open on Quran.com](https://quran.com/10/15)
 
@@ -169,6 +183,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Hast thou not turned thy vision to those who have changed the favour of Allah. Into blasphemy and caused their people to descend to the House of Perdition?-
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے ان لوگوں کو نہیں دیکھا جنہوں نے خدا کے احسان کو ناشکری سے بدل دیا۔ اور اپنی قوم کو تباہی کے گھر میں اتارا
+
 [Open on Quran.com](https://quran.com/14/28)
 
 #### 14:48 · [[014 Ibrahim]]
@@ -185,6 +201,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** One day the earth will be changed to a different earth, and so will be the heavens, and (men) will be marshalled forth, before Allah, the One, the Irresistible;
 
+**Urdu (Fatah Muhammad Jalandhari):** جس دن یہ زمین دوسری زمین سے بدل دی جائے گی اور آسمان بھی (بدل دیئے جائیں گے) اور سب لوگ خدائے یگانہ وزبردست کے سامنے نکل کھڑے ہوں گے
+
 [Open on Quran.com](https://quran.com/14/48)
 
 #### 16:101 · [[016 An-Nahl]]
@@ -200,6 +218,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when We substitute a verse in place of a verse - and Allāh is most knowing of what He sends down - they say, "You, [O Muḥammad], are but an inventor [of lies]." But most of them do not know.
 
 **English (Yusuf Ali):** When We substitute one revelation for another,- and Allah knows best what He reveals (in stages),- they say, "Thou art but a forger": but most of them understand not.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم کوئی آیت کسی آیت کی جگہ بدل دیتے ہیں۔ اور خدا جو کچھ نازل فرماتا ہے اسے خوب جانتا ہے تو (کافر) کہتے ہیں کہ تم یونہی اپنی طرف سے بنا لاتے ہو۔ حقیقت یہ ہے کہ ان میں اکثر نادان ہیں
 
 [Open on Quran.com](https://quran.com/16/101)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:78 · [[004 An-Nisa]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Wherever you may be, death will overtake you, even if you should be within towers of lofty construction. But if good comes to them, they say, "This is from Allāh"; and if evil befalls them, they say, "This is from you." Say, "All [things] are from Allāh." So what is [the matter] with those people that they can hardly understand any statement?
 
 **English (Yusuf Ali):** "Wherever ye are, death will find you out, even if ye are in towers built up strong and high!" If some good befalls them, they say, "This is from Allah"; but if evil, they say, "This is from thee" (O Prophet). Say: "All things are from Allah." But what hath come to these people, that they fail to understand a single fact?
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے جہاد سے ڈرنے والو) تم کہیں رہو موت تو تمہیں آ کر رہے گی خواہ بڑے بڑے محلوں میں رہو اور ان لوگوں کو اگر کوئی فائدہ پہنچتا ہے تو کہتے ہیں یہ خدا کی طرف سے ہے اور اگر کوئی گزند پہنچتا ہے تو (اے محمدﷺ تم سے) کہتے ہیں کہ یہ گزند آپ کی وجہ سے (ہمیں پہنچا) ہے کہہ دو کہ (رنج وراحت) سب الله ہی کی طرف سے ہے ان لوگوں کو کیا ہوگیا ہے کہ بات بھی نہیں سمجھ سکتے
 
 [Open on Quran.com](https://quran.com/4/78)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is We Who have set out the zodiacal signs in the heavens, and made them fair-seeming to (all) beholders;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہی نے آسمان میں برج بنائے اور دیکھنے والوں کے لیے اُس کو سجا دیا
+
 [Open on Quran.com](https://quran.com/15/16)
 
 #### 25:61 · [[025 Al-Furqan]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Blessed is He Who made constellations in the skies, and placed therein a Lamp and a Moon giving light;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (خدا) بڑی برکت والا ہے جس نے آسمانوں میں برج بنائے اور ان میں (آفتاب کا نہایت روشن) چراغ اور چمکتا ہوا چاند بھی بنایا
+
 [Open on Quran.com](https://quran.com/25/61)
 
 #### 85:1 · [[085 Al-Buruj]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** By the sky containing great stars
 
 **English (Yusuf Ali):** By the sky, (displaying) the Zodiacal Signs;
+
+**Urdu (Fatah Muhammad Jalandhari):** آسمان کی قسم جس میں برج ہیں
 
 [Open on Quran.com](https://quran.com/85/1)
 

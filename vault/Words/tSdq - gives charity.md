@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:280 · [[002 Al-Baqarah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if someone is in hardship, then [let there be] postponement until [a time of] ease. But if you give [from your right as] charity, then it is better for you, if you only knew.
 
 **English (Yusuf Ali):** If the debtor is in a difficulty, grant him time Till it is easy for him to repay. But if ye remit it by way of charity, that is best for you if ye only knew.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر قرض لینے والا تنگ دست ہو تو (اسے) کشائش (کے حاصل ہونے) تک مہلت (دو) اور اگر (زر قرض) بخش ہی دو توتمہارے لئے زیادہ اچھا ہے بشرطیکہ سمجھو
 
 [Open on Quran.com](https://quran.com/2/280)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Never should a believer kill a believer; but (If it so happens) by mistake, (Compensation is due): If one (so) kills a believer, it is ordained that he should free a believing slave, and pay compensation to the deceased's family, unless they remit it freely. If the deceased belonged to a people at war with you, and he was a believer, the freeing of a believing slave (Is enough). If he belonged to a people with whom ye have treaty of Mutual alliance, compensation should be paid to his family, and a believing slave be freed. For those who find this beyond their means, (is prescribed) a fast for two months running: by way of repentance to Allah: for Allah hath all knowledge and all wisdom.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کسی مومن کو شایان نہیں کہ مومن کو مار ڈالے مگر بھول کر اور جو بھول کر بھی مومن کو مار ڈالے تو (ایک تو) ایک مسلمان غلام آزاد کردے اور (دوسرے) مقتول کے وارثوں کو خون بہا دے ہاں اگر وہ معاف کردیں (تو ان کو اختیار ہے) اگر مقتول تمہارے دشمنوں کی جماعت میں سے ہو اور وہ خود مومن ہو تو صرف ایک مسلمان غلام آزاد کرنا چاہیئے اور اگر مقتول ایسے لوگوں میں سے ہو جن میں اور تم میں صلح کا عہد ہو تو وارثان مقتول کو خون بہا دینا اور ایک مسلمان غلام آزاد کرنا چاہیئے اور جس کو یہ میسر نہ ہو وہ متواتر دو مہینے کے روزے رکھے یہ (کفارہ) خدا کی طرف سے (قبول) توبہ (کے لئے) ہے اور خدا (سب کچھ) جانتا اور بڑی حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/4/92)
 
 #### 5:45 · [[005 Al-Maidah]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We ordained for them therein a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and for wounds is legal retribution. But whoever gives [up his right as] charity, it is an expiation for him. And whoever does not judge by what Allāh has revealed - then it is those who are the wrongdoers [i.e., the unjust].
 
 **English (Yusuf Ali):** We ordained therein for them: "Life for life, eye for eye, nose or nose, ear for ear, tooth for tooth, and wounds equal for equal." But if any one remits the retaliation by way of charity, it is an act of atonement for himself. And if any fail to judge by (the light of) what Allah hath revealed, they are (No better than) wrong-doers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان لوگوں کے لیے تورات میں یہ حکم لکھ دیا تھا کہ جان کے بدلے جان اور آنکھ کے بدلے آنکھ اور ناک کے بدلے ناک اور کان کے بدلے کان اور دانت کے بدلے دانت اور سب زخموں کا اسی طرح بدلہ ہے لیکن جو شخص بدلہ معاف کر دے وہ اس کے لیے کفارہ ہوگا اور جو خدا کے نازل فرمائے ہوئے احکام کے مطابق حکم نہ دے تو ایسے ہی لوگ بےانصاف ہیں
 
 [Open on Quran.com](https://quran.com/5/45)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Amongst them are men who made a covenant with Allah, that if He bestowed on them of His bounty, they would give (largely) in charity, and be truly amongst those who are righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے بعض ایسے ہیں جنہوں نے خدا سے عہد کیا تھا کہ اگر وہ ہم کو اپنی مہربانی سے (مال) عطا فرمائے گا تو ہم ضرور خیرات کیا کریں گے اور نیک کاروں میں ہو جائیں گے
+
 [Open on Quran.com](https://quran.com/9/75)
 
 #### 12:88 · [[012 Yusuf]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then, when they came (back) into (Joseph's) presence they said: "O exalted one! distress has seized us and our family: we have (now) brought but scanty capital: so pay us full measure, (we pray thee), and treat it as charity to us: for Allah doth reward the charitable."
 
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ یوسف کے پاس گئے تو کہنے لگے کہ عزیز ہمیں اور ہمارے اہل وعیال کو بڑی تکلیف ہو رہی ہے اور ہم تھوڑا سا سرمایہ لائے ہیں آپ ہمیں (اس کے عوض) پورا غلّہ دے دیجیئے اور خیرات کیجیئے۔ کہ خدا خیرات کرنے والوں کو ثواب دیتا ہے
+
 [Open on Quran.com](https://quran.com/12/88)
 
 #### 63:10 · [[063 Al-Munafiqun]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And spend [in the way of Allāh] from what We have provided you before death approaches one of you and he says, "My Lord, if only You would delay me for a brief term so I would give charity and be of the righteous."
 
 **English (Yusuf Ali):** and spend something (in charity) out of the substance which We have bestowed on you, before Death should come to any of you and he should say, "O my Lord! why didst Thou not give me respite for a little while? I should then have given (largely) in charity, and I should have been one of the doers of good".
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو (مال) ہم نے تم کو دیا ہے اس میں سے اس (وقت) سے پیشتر خرچ کرلو کہ تم میں سے کسی کی موت آجائے تو (اس وقت) کہنے لگے کہ اے میرے پروردگار تو نے مجھے تھوڑی سی اور مہلت کیوں نہ دی تاکہ میں خیرات کرلیتا اور نیک لوگوں میں داخل ہوجاتا
 
 [Open on Quran.com](https://quran.com/63/10)
 

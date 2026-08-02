@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 17:88 · [[017 Al-Isra]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "If mankind and the jinn gathered in order to produce the like of this Qur’ān, they could not produce the like of it, even if they were to each other assistants."
 
 **English (Yusuf Ali):** Say: "If the whole of mankind and Jinns were to gather together to produce the like of this Qur'an, they could not produce the like thereof, even if they backed up each other with help and support.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر انسان اور جن اس بات پر مجتمع ہوں کہ اس قرآن جیسا بنا لائیں تو اس جیسا نہ لاسکیں گے اگرچہ وہ ایک دوسرے کو مددگار ہوں
 
 [Open on Quran.com](https://quran.com/17/88)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Yet do they worship, besides Allah, things that can neither profit them nor harm them: and the Misbeliever is a helper (of Evil), against his own Lord!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ خدا کو چھوڑ کر ایسی چیز کی پرستش کر تے ہیں جو نہ ان کو فائدہ پہنچا سکے اور نہ ضرر۔ اور کافر اپنے پروردگار کی مخالفت میں بڑا زور مارتا ہے
+
 [Open on Quran.com](https://quran.com/25/55)
 
 #### 28:17 · [[028 Al-Qasas]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "My Lord, for the favor You bestowed upon me, I will never be an assistant to the criminals."
 
 **English (Yusuf Ali):** He said: "O my Lord! For that Thou hast bestowed Thy Grace on me, never shall I be a help to those who sin!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہنے لگے کہ اے پروردگار تو نے جو مجھ پر مہربانی فرمائی ہے میں (آئندہ) کبھی گنہگاروں کا مددگار نہ بنوں
 
 [Open on Quran.com](https://quran.com/28/17)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And thou hadst not expected that the Book would be sent to thee except as a Mercy from thy Lord: Therefore lend not thou support in any way to those who reject (Allah's Message).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہیں اُمید نہ تھی کہ تم پر کتاب نازل کی جائے گی۔ مگر تمہارے پروردگار کی مہربانی سے (نازل ہوئی) تو تم ہرگز کافروں کے مددگار نہ ہونا
+
 [Open on Quran.com](https://quran.com/28/86)
 
 #### 34:22 · [[034 Saba]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Call upon other (gods) whom ye fancy, besides Allah: They have no power,- not the weight of an atom,- in the heavens or on earth: No (sort of) share have they therein, nor is any of them a helper to Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ جن کو تم خدا کے سوا (معبود) خیال کرتے ہو ان کو بلاؤ۔ وہ آسمانوں اور زمین میں ذرہ بھر چیز کے بھی مالک نہیں ہیں اور نہ ان میں ان کی شرکت ہے اور نہ ان میں سے کوئی خدا کا مددگار ہے
+
 [Open on Quran.com](https://quran.com/34/22)
 
 #### 66:4 · [[066 At-Tahrim]]
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If you two [wives] repent to Allāh, [it is best], for your hearts have deviated. But if you cooperate against him - then indeed Allāh is his protector, and Gabriel and the righteous of the believers and the angels, moreover, are [his] assistants.
 
 **English (Yusuf Ali):** If ye two turn in repentance to Him, your hearts are indeed so inclined; But if ye back up each other against him, truly Allah is his Protector, and Gabriel, and (every) righteous one among those who believe,- and furthermore, the angels - will back (him) up.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم دونوں خدا کے آگے توبہ کرو (تو بہتر ہے کیونکہ) تمہارے دل کج ہوگئے ہیں۔ اور اگر پیغمبر (کی ایذا) پر باہم اعانت کرو گی تو خدا اور جبریل اور نیک کردار مسلمان ان کے حامی (اور دوستدار) ہیں۔ اور ان کے علاوہ (اور) فرشتے بھی مددگار ہیں
 
 [Open on Quran.com](https://quran.com/66/4)
 

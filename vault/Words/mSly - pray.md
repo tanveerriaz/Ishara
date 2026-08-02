@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 70:22 · [[070 Al-Maarij]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except the observers of prayer -
 
 **English (Yusuf Ali):** Not so those devoted to Prayer;-
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر نماز گزار
 
 [Open on Quran.com](https://quran.com/70/22)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They will say: "We were not of those who prayed;
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ جواب دیں گے کہ ہم نماز نہیں پڑھتے تھے
+
 [Open on Quran.com](https://quran.com/74/43)
 
 #### 107:4 · [[107 Al-Maun]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So woe to those who pray
 
 **English (Yusuf Ali):** So woe to the worshippers
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ایسے نمازیوں کی خرابی ہے
 
 [Open on Quran.com](https://quran.com/107/4)
 

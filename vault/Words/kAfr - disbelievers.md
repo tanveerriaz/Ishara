@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:19 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or [it is] like a rainstorm from the sky within which is darkness, thunder and lightning. They put their fingers in their ears against the thunderclaps in dread of death. But Allāh is encompassing of the disbelievers.
 
 **English (Yusuf Ali):** Or (another similitude) is that of a rain-laden cloud from the sky: In it are zones of darkness, and thunder and lightning: They press their fingers in their ears to keep out the stunning thunder-clap, the while they are in terror of death. But Allah is ever round the rejecters of Faith!
+
+**Urdu (Fatah Muhammad Jalandhari):** یا ان کی مثال مینہ کی سی ہے کہ آسمان سے (برس رہا ہو اور) اس میں اندھیرے پر اندھیرا (چھا رہا) ہو اور (بادل) گرج (رہا) ہو اور بجلی (کوند رہی) ہو تو یہ کڑک سے (ڈر کر) موت کے خوف سے کانوں میں انگلیاں دے لیں اور الله کافروں کو (ہر طرف سے) گھیرے ہوئے ہے
 
 [Open on Quran.com](https://quran.com/2/19)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But if ye cannot- and of a surety ye cannot- then fear the Fire whose fuel is men and stones,- which is prepared for those who reject Faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** لیکن اگر (ایسا) نہ کر سکو اور ہرگز نہیں کر سکو گے تو اس آگ سے ڈرو جس کا ایندھن آدمی اور پتھر ہوں گے (اور جو) کافروں کے لیے تیار کی گئی ہے
+
 [Open on Quran.com](https://quran.com/2/24)
 
 #### 2:34 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] when We said to the angels, "Prostrate before Adam"; so they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers.
 
 **English (Yusuf Ali):** And behold, We said to the angels: "Bow down to Adam" and they bowed down. Not so Iblis: he refused and was haughty: He was of those who reject Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے فرشتوں کو حکم دیا کہ آدم کے آگے سجدہ کرو تو وہ سجدے میں گر پڑے مگر شیطان نے انکار کیا اور غرور میں آکر کافر بن گیا
 
 [Open on Quran.com](https://quran.com/2/34)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And believe in what I reveal, confirming the revelation which is with you, and be not the first to reject Faith therein, nor sell My Signs for a small price; and fear Me, and Me alone.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کتاب میں نے (اپنے رسول محمدﷺ پر) نازل کی ہے جو تمہاری کتاب تورات کو سچا کہتی ہے، اس پر ایمان لاؤ اور اس سے منکرِ اول نہ بنو، اور میری آیتوں میں (تحریف کر کے) ان کے بدلے تھوڑی سی قیمت (یعنی دنیاوی منعفت) نہ حاصل کرو، اور مجھی سے خوف رکھو
+
 [Open on Quran.com](https://quran.com/2/41)
 
 #### 2:89 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when there came to them a Book [i.e., the Qur’ān] from Allāh confirming that which was with them - although before they used to pray for victory against those who disbelieved - but [then] when there came to them that which they recognized, they disbelieved in it; so the curse of Allāh will be upon the disbelievers.
 
 **English (Yusuf Ali):** And when there comes to them a Book from Allah, confirming what is with them,- although from of old they had prayed for victory against those without Faith,- when there comes to them that which they (should) have recognised, they refuse to believe in it but the curse of Allah is on those without Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب الله کے ہاں سے ان کے پاس کتاب آئی جو ان کی (آسمانی) کتاب کی بھی تصدیق کرتی ہے، اور وہ پہلے (ہمیشہ) کافروں پر فتح مانگا کرتے تھے، تو جس چیز کو وہ خوب پہچانتے تھے، جب ان کے پاس آپہنچی تو اس سے کافر ہو گئے۔ پس کافروں پر الله کی لعنت
 
 [Open on Quran.com](https://quran.com/2/89)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Miserable is the price for which they have sold their souls, in that they deny (the revelation) which Allah has sent down, in insolent envy that Allah of His Grace should send it to any of His servants He pleases: Thus have they drawn on themselves Wrath upon Wrath. And humiliating is the punishment of those who reject Faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** جس چیز کے بدلے انہوں نے اپنے تئیں بیچ ڈالا، وہ بہت بری ہے، یعنی اس جلن سے کہ خدا اپنے بندوں میں جس پر چاہتا ہے، اپنی مہربانی سے نازل فرماتا ہے۔ خدا کی نازل کی ہوئی کتاب سے کفر کرنے لگے تو وہ (اس کے) غضب بالائے غضب میں مبتلا ہو گئے۔ اور کافروں کے لیے ذلیل کرنے والا عذاب ہے
+
 [Open on Quran.com](https://quran.com/2/90)
 
 #### 2:98 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Whoever is an enemy to Allāh and His angels and His messengers and Gabriel and Michael - then indeed, Allāh is an enemy to the disbelievers.
 
 **English (Yusuf Ali):** Whoever is an enemy to Allah and His angels and messengers, to Gabriel and Michael,- Lo! Allah is an enemy to those who reject Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص خدا کا اور اس کے فرشتوں کا اور اس کے پیغمبروں کا اور جبرئیل اور میکائیل کا دشمن ہو تو ایسے کافروں کا خدا دشمن ہے
 
 [Open on Quran.com](https://quran.com/2/98)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye of Faith! Say not (to the Messenger) words of ambiguous import, but words of respect; and hearken (to him): To those without Faith is a grievous punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان! (گفتگو کے وقت پیغمبرِ خدا سے) راعنا نہ کہا کرو۔ انظرنا کہا کرو۔ اور خوب سن رکھو، اور کافروں کے لیے دکھ دینے والا عذاب ہے
+
 [Open on Quran.com](https://quran.com/2/104)
 
 #### 2:109 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Quite a number of the People of the Book wish they could Turn you (people) back to infidelity after ye have believed, from selfish envy, after the Truth hath become Manifest unto them: But forgive and overlook, Till Allah accomplish His purpose; for Allah Hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** بہت سے اہل کتاب اپنے دل کی جلن سے یہ چاہتے ہیں کہ ایمان لا چکنے کے بعد تم کو پھر کافر بنا دیں۔ حالانکہ ان پر حق ظاہر ہو چکا ہے۔ تو تم معاف کردو اور درگزر کرو۔ یہاں تک کہ خدا اپنا (دوسرا) حکم بھیجے۔ بے شک خدا ہر بات پر قادر ہے
+
 [Open on Quran.com](https://quran.com/2/109)
 
 #### 2:161 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who disbelieve and die while they are disbelievers - upon them will be the curse of Allāh and of the angels and the people, all together,
 
 **English (Yusuf Ali):** Those who reject Faith, and die rejecting,- on them is Allah's curse, and the curse of angels, and of all mankind;
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے اور کافر ہی مرے ایسوں پر خدا کی اور فرشتوں اور لوگوں کی سب کی لعنت
 
 [Open on Quran.com](https://quran.com/2/161)
 

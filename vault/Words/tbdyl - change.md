@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bdl - badala]]
+- [[bdl - change alter]]
 
 ### Meaning
 **change** · Lemma **تَبْدِيل**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 10:64 · [[010 Yunus]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For them are good tidings in the worldly life and in the Hereafter. No change is there in the words [i.e., decrees] of Allāh. That is what is the great attainment.
 
 **English (Yusuf Ali):** For them are glad tidings, in the life of the present and in the Hereafter; no change can there be in the words of Allah. This is indeed the supreme felicity.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کے لیے دنیا کی زندگی میں بھی بشارت ہے اور آخرت میں بھی۔ خدا کی باتیں بدلتی نہیں۔ یہی تو بڑی کامیابی ہے
 
 [Open on Quran.com](https://quran.com/10/64)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So set thou thy face steadily and truly to the Faith: (establish) Allah's handiwork according to the pattern on which He has made mankind: no change (let there be) in the work (wrought) by Allah: that is the standard Religion: but most among mankind understand not.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو تم ایک طرف کے ہوکر دین (خدا کے رستے) پر سیدھا منہ کئے چلے جاؤ (اور) خدا کی فطرت کو جس پر اُس نے لوگوں کو پیدا کیا ہے (اختیار کئے رہو) خدا کی بنائی ہوئی (فطرت) میں تغیر وتبدل نہیں ہو سکتا۔ یہی سیدھا دین ہے لیکن اکثر لوگ نہیں جانتے
+
 [Open on Quran.com](https://quran.com/30/30)
 
 #### 33:23 · [[033 Al-Ahzab]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Among the believers are men true to what they promised Allāh. Among them is he who has fulfilled his vow [to the death], and among them is he who awaits [his chance]. And they did not alter [the terms of their commitment] by any alteration -
 
 **English (Yusuf Ali):** Among the Believers are men who have been true to their covenant with Allah: of them some have completed their vow (to the extreme), and some (still) wait: but they have never changed (their determination) in the least:
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنوں میں کتنے ہی ایسے شخص ہیں کہ جو اقرار اُنہوں نے خدا سے کیا تھا اس کو سچ کر دکھایا۔ تو ان میں بعض ایسے ہیں جو اپنی نذر سے فارغ ہوگئے اور بعض ایسے ہیں کہ انتظار کر رہے ہیں اور اُنہوں نے (اپنے قول کو) ذرا بھی نہیں بدلا
 
 [Open on Quran.com](https://quran.com/33/23)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Such was) the practice (approved) of Allah among those who lived aforetime: No change wilt thou find in the practice (approved) of Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ پہلے گزر چکے ہیں ان کے بارے میں بھی خدا کی یہی عادت رہی ہے۔ اور تم خدا کی عادت میں تغیر وتبدل نہ پاؤ گے
+
 [Open on Quran.com](https://quran.com/33/62)
 
 #### 35:43 · [[035 Fatir]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Due to] arrogance in the land and plotting of evil; but the evil plot does not encompass except its own people. Then do they await except the way [i.e., fate] of the former peoples? But you will never find in the way [i.e., established method] of Allāh any change, and you will never find in the way of Allāh any alteration.
 
 **English (Yusuf Ali):** On account of their arrogance in the land and their plotting of Evil, but the plotting of Evil will hem in only the authors thereof. Now are they but looking for the way the ancients were dealt with? But no change wilt thou find in Allah's way (of dealing): no turning off wilt thou find in Allah's way (of dealing).
+
+**Urdu (Fatah Muhammad Jalandhari):** یعنی (انہوں نے) ملک میں غرور کرنا اور بری چال چلنا (اختیار کیا) اور بری چال کا وبال اس کے چلنے والے ہی پر پڑتا ہے۔ یہ اگلے لوگوں کی روش کے سوا اور کسی چیز کے منتظر نہیں۔ سو تم خدا کی عادت میں ہرگز تبدل نہ پاؤ گے۔ اور خدا کے طریقے میں کبھی تغیر نہ دیکھو گے
 
 [Open on Quran.com](https://quran.com/35/43)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Such has been) the practice (approved) of Allah already in the past: no change wilt thou find in the practice (approved) of Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** (یہی) خدا کی عادت ہے جو پہلے سے چلی آتی ہے۔ اور تم خدا کی عادت کبھی بدلتی نہ دیکھو گے
+
 [Open on Quran.com](https://quran.com/48/23)
 
 #### 76:28 · [[076 Al-Insan]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** We have created them and strengthened their forms, and when We will, We can change their likenesses with [complete] alteration.
 
 **English (Yusuf Ali):** It is We Who created them, and We have made their joints strong; but, when We will, We can substitute the like of them by a complete change.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے ان کو پیدا کیا اور ان کے مقابل کو مضبوط بنایا۔ اور اگر ہم چاہیں تو ان کے بدلے ان ہی کی طرح اور لوگ لے آئیں
 
 [Open on Quran.com](https://quran.com/76/28)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[grf - grf]]
+- [[grf - type tree used]]
 
 ### Meaning
 **lofty mansions** · Lemma **غُرْفَة**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:249 · [[002 Al-Baqarah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when Saul went forth with the soldiers, he said, "Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand." But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, "There is no power for us today against Goliath and his soldiers." But those who were certain that they would meet Allāh said, "How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient."
 
 **English (Yusuf Ali):** When Talut set forth with the armies, he said: "Allah will test you at the stream: if any drinks of its water, He goes not with my army: Only those who taste not of it go with me: A mere sip out of the hand is excused." but they all drank of it, except a few. When they crossed the river,- He and the faithful ones with him,- they said: "This day We cannot cope with Goliath and his forces." but those who were convinced that they must meet Allah, said: "How oft, by Allah's will, Hath a small force vanquished a big one? Allah is with those who steadfastly persevere."
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض جب طالوت فوجیں لے کر روانہ ہوا تو اس نے (ان سے) کہا کہ خدا ایک نہر سے تمہاری آزمائش کرنے والا ہے۔ جو شخص اس میں سے پانی پی لے گا (اس کی نسبت تصور کیا جائے گا کہ) وہ میرا نہیں۔ اور جو نہ پئے گا وہ (سمجھا جائے گا کہ) میرا ہے۔ ہاں اگر کوئی ہاتھ سے چلو بھر پانی پی لے (تو خیر۔ جب وہ لوگ نہر پر پہنچے) تو چند شخصوں کے سوا سب نے پانی پی لیا۔ پھر جب طالوت اور مومن لوگ جو اس کے ساتھ تھے نہر کے پار ہوگئے۔ تو کہنے لگے کہ آج ہم میں جالوت اور اس کے لشکر سے مقابلہ کرنے کی طاقت نہیں۔ جو لوگ یقین رکھتے تھے کہ ان کو خدا کے روبرو حاضر ہونا ہے وہ کہنے لگے کہ بسااوقات تھوڑی سی جماعت نے خدا کے حکم سے بڑی جماعت پر فتح حاصل کی ہے اور خدا استقلال رکھنے والوں کے ساتھ ہے
 
 [Open on Quran.com](https://quran.com/2/249)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those are the ones who will be rewarded with the highest place in heaven, because of their patient constancy: therein shall they be met with salutations and peace,
 
+**Urdu (Fatah Muhammad Jalandhari):** ان (صفات کے) لوگوں کو ان کے صبر کے بدلے اونچے اونچے محل دیئے جائیں گے۔ اور وہاں فرشتے ان سے دعا وسلام کے ساتھ ملاقات کریں گے
+
 [Open on Quran.com](https://quran.com/25/75)
 
 #### 29:58 · [[029 Al-Ankabut]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who have believed and done righteous deeds - We will surely assign to them of Paradise [elevated] chambers beneath which rivers flow, wherein they abide eternally. Excellent is the reward of the [righteous] workers
 
 **English (Yusuf Ali):** But those who believe and work deeds of righteousness - to them shall We give a Home in Heaven,- lofty mansions beneath which flow rivers,- to dwell therein for aye;- an excellent reward for those who do (good)!-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے اُن کو ہم بہشت کے اُونچے اُونچے محلوں میں جگہ دیں گے۔ جن کے نیچے نہریں بہ رہی ہیں۔ ہمیشہ ان میں رہیں گے۔ (نیک )عمل کرنے والوں کا (یہ) خوب بدلہ ہے
 
 [Open on Quran.com](https://quran.com/29/58)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is not your wealth nor your sons, that will bring you nearer to Us in degree: but only those who believe and work righteousness - these are the ones for whom there is a multiplied Reward for their deeds, while secure they (reside) in the dwellings on high!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا مال اور اولاد ایسی چیز نہیں کہ تم کو ہمارا مقرب بنا دیں۔ ہاں (ہمارا مقرب وہ ہے) جو ایمان لایا اور عمل نیک کرتا رہا۔ ایسے ہی لوگوں کو ان کے اعمال کے سبب دگنا بدلہ ملے گا اور وہ خاطر جمع سے بالاخانوں میں بیٹھے ہوں گے
+
 [Open on Quran.com](https://quran.com/34/37)
 
 #### 39:20 · [[039 Az-Zumar]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who have feared their Lord - for them are chambers, above them chambers built high, beneath which rivers flow. [This is] the promise of Allāh. Allāh does not fail in [His] promise.
 
 **English (Yusuf Ali):** But it is for those who fear their Lord. That lofty mansions, one above another, have been built: beneath them flow rivers (of delight): (such is) the Promise of Allah: never doth Allah fail in (His) promise.
+
+**Urdu (Fatah Muhammad Jalandhari):** لیکن جو لوگ اپنے پروردگار سے ڈرتے ہیں ان کے لئے اونچے اونچے محل ہیں جن کے اوپر بالا خانے بنے ہوئے ہیں۔ (اور) ان کے نیچے نہریں بہہ رہی ہیں۔ (یہ) خدا کا وعدہ ہے۔ خدا وعدے کے خلاف نہیں کرتا
 
 [Open on Quran.com](https://quran.com/39/20)
 

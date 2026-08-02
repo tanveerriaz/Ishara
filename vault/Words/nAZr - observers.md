@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:69 · [[002 Al-Baqarah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "Call upon your Lord to show us what is her color." He said, "He says, 'It is a yellow cow, bright in color - pleasing to the observers.'"
 
 **English (Yusuf Ali):** They said: "Beseech on our behalf Thy Lord to make plain to us Her colour." He said: "He says: A fawn-coloured heifer, pure and rich in tone, the admiration of beholders!"
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ پروردگار سے درخواست کیجئے کہ ہم کو یہ بھی بتائے کہ اس کا رنگ کیسا ہو۔ موسیٰ نے کہا ، پروردگار فرماتا ہے کہ اس کا رنگ گہرا زرد ہو کہ دیکھنے والوں (کے دل) کو خوش کر دیتا ہو
 
 [Open on Quran.com](https://quran.com/2/69)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And he drew out his hand, and behold! it was white to all beholders!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ باہر نکالا تو اسی دم دیکھنے والوں کی نگاہوں میں سفید براق (تھا)
+
 [Open on Quran.com](https://quran.com/7/108)
 
 #### 15:16 · [[015 Al-Hijr]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have placed within the heaven great stars and have beautified it for the observers.
 
 **English (Yusuf Ali):** It is We Who have set out the zodiacal signs in the heavens, and made them fair-seeming to (all) beholders;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہی نے آسمان میں برج بنائے اور دیکھنے والوں کے لیے اُس کو سجا دیا
 
 [Open on Quran.com](https://quran.com/15/16)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And he drew out his hand, and behold, it was white to all beholders!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ نکالا تو اسی دم دیکھنے والوں کے لئے سفید (براق نظر آنے لگا)
+
 [Open on Quran.com](https://quran.com/26/33)
 
 #### 33:53 · [[033 Al-Ahzab]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not enter the houses of the Prophet except when you are permitted for a meal, without awaiting its readiness. But when you are invited, then enter; and when you have eaten, disperse without seeking to remain for conversation. Indeed, that [behavior] was troubling the Prophet, and he is shy of [dismissing] you. But Allāh is not shy of the truth. And when you ask [his wives] for something, ask them from behind a partition. That is purer for your hearts and their hearts. And it is not [conceivable or lawful] for you to harm the Messenger of Allāh or to marry his wives after him, ever. Indeed, that would be in the sight of Allāh an enormity.
 
 **English (Yusuf Ali):** O ye who believe! Enter not the Prophet's houses,- until leave is given you,- for a meal, (and then) not (so early as) to wait for its preparation: but when ye are invited, enter; and when ye have taken your meal, disperse, without seeking familiar talk. Such (behaviour) annoys the Prophet: he is ashamed to dismiss you, but Allah is not ashamed (to tell you) the truth. And when ye ask (his ladies) for anything ye want, ask them from before a screen: that makes for greater purity for your hearts and for theirs. Nor is it right for you that ye should annoy Allah's Messenger, or that ye should marry his widows after him at any time. Truly such a thing is in Allah's sight an enormity.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو پیغمبر کے گھروں میں نہ جایا کرو مگر اس صورت میں کہ تم کو کھانے کے لئے اجازت دی جائے اور اس کے پکنے کا انتظار بھی نہ کرنا پڑے۔ لیکن جب تمہاری دعوت کی جائے تو جاؤ اور جب کھانا کھاچکو تو چل دو اور باتوں میں جی لگا کر نہ بیٹھ رہو۔ یہ بات پیغمبر کو ایذا دیتی ہے۔ اور وہ تم سے شرم کرتے ہیں (اور کہتے نہیں ہیں) لیکن خدا سچی بات کے کہنے سے شرم نہیں کرتا۔ اور جب پیغمبروں کی بیویوں سے کوئی سامان مانگو تو پردے کے باہر مانگو۔ یہ تمہارے اور ان کے دونوں کے دلوں کے لئے بہت پاکیزگی کی بات ہے۔ اور تم کو یہ شایاں نہیں کہ پیغمبر خدا کو تکلیف دو اور نہ یہ کہ ان کی بیویوں سے کبھی ان کے بعد نکاح کرو۔ بےشک یہ خدا کے نزدیک بڑا (گناہ کا کام) ہے
 
 [Open on Quran.com](https://quran.com/33/53)
 

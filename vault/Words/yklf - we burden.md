@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[klf - klf]]
+- [[klf - we burden]]
 
 ### Meaning
 **we burden** · Lemma **يُكَلِّفُ**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:233 · [[002 Al-Baqarah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Mothers may nurse [i.e., breastfeed] their children two complete years for whoever wishes to complete the nursing [period]. Upon the father is their [i.e., the mothers'] provision and their clothing according to what is acceptable. No person is charged with more than his capacity. No mother should be harmed through her child, and no father through his child. And upon the [father's] heir is [a duty] like that [of the father]. And if they both desire weaning through mutual consent from both of them and consultation, there is no blame upon either of them. And if you wish to have your children nursed by a substitute, there is no blame upon you as long as you give payment according to what is acceptable. And fear Allāh and know that Allāh is Seeing of what you do.
 
 **English (Yusuf Ali):** The mothers shall give such to their offspring for two whole years, if the father desires to complete the term. But he shall bear the cost of their food and clothing on equitable terms. No soul shall have a burden laid on it greater than it can bear. No mother shall be Treated unfairly on account of her child. Nor father on account of his child, an heir shall be chargeable in the same way. If they both decide on weaning, by mutual consent, and after due consultation, there is no blame on them. If ye decide on a foster-mother for your offspring, there is no blame on you, provided ye pay (the mother) what ye offered, on equitable terms. But fear Allah and know that Allah sees well what ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مائیں اپنے بچوں کو پورے دو سال دودھ پلائیں یہ (حکم) اس شخص کے لئے ہے جو پوری مدت تک دودھ پلوانا چاہے۔ اور دودھ پلانے والی ماؤں کا کھانا اور کپڑا دستور کے مطابق باپ کے ذمے ہوگا۔ کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دی جاتی (تو یاد رکھو کہ) نہ تو ماں کو اس کے بچے کے سبب نقصان پہنچایا جائے اور نہ باپ کو اس کی اولاد کی وجہ سے نقصان پہنچایا جائے اور اسی طرح (نان نفقہ) بچے کے وارث کے ذمے ہے۔ اور اگر دونوں (یعنی ماں باپ) آپس کی رضامندی اور صلاح سے بچے کا دودھ چھڑانا چاہیں تو ان پر کچھ گناہ نہیں۔ اور اگر تم اپنی اولاد کو دودھ پلوانا چاہو تو تم پر کچھ گناہ نہیں بشرطیکہ تم دودھ پلانے والیوں کو دستور کے مطابق ان کا حق جو تم نے دینا کیا تھا دے دو اور خدا سے ڈرتے رہو اور جان رکھو کہ جو کچھ تم کرتے ہو خدا اس کو دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/2/233)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** On no soul doth Allah Place a burden greater than it can bear. It gets every good that it earns, and it suffers every ill that it earns. (Pray:) "Our Lord! Condemn us not if we forget or fall into error; our Lord! Lay not on us a burden Like that which Thou didst lay on those before us; Our Lord! Lay not on us a burden greater than we have strength to bear. Blot out our sins, and grant us forgiveness. Have mercy on us. Thou art our Protector; Help us against those who stand against faith."
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتا۔ اچھے کام کرے گا تو اس کو ان کا فائدہ ملے گا برے کرے گا تو اسے ان کا نقصان پہنچے گا۔ اے پروردگار اگر ہم سے بھول یا چوک ہوگئی ہو تو ہم سے مؤاخذہ نہ کیجیو۔ اے پروردگار ہم پر ایسا بوجھ نہ ڈالیو جیسا تو نے ہم سے پہلے لوگوں پر ڈالا تھا۔ اے پروردگار جتنا بوجھ اٹھانے کی ہم میں طاقت نہیں اتنا ہمارے سر پر نہ رکھیو۔ اور (اے پروردگار) ہمارے گناہوں سے درگزر کر اور ہمیں بخش دے۔ اور ہم پر رحم فرما۔ تو ہی ہمارا مالک ہے اور ہم کو کافروں پر غالب فرما
+
 [Open on Quran.com](https://quran.com/2/286)
 
 #### 4:84 · [[004 An-Nisa]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So fight, [O Muḥammad], in the cause of Allāh; you are not held responsible except for yourself. And encourage the believers [to join you] that perhaps Allāh will restrain the [military] might of those who disbelieve. And Allāh is greater in might and stronger in [exemplary] punishment.
 
 **English (Yusuf Ali):** Then fight in Allah's cause - Thou art held responsible only for thyself - and rouse the believers. It may be that Allah will restrain the fury of the Unbelievers; for Allah is the strongest in might and in punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو (اے محمدﷺ) تم خدا کی راہ میں لڑو تم اپنے سوا کسی کے ذمہ دار نہیں اور مومنوں کو بھی ترغیب دو قریب ہے کہ خدا کافروں کی لڑائی کو بند کردے اور خدا لڑائی کے اعتبار سے بہت سخت ہے اور سزا کے لحاظ سے بھی بہت سخت ہے
 
 [Open on Quran.com](https://quran.com/4/84)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And come not nigh to the orphan's property, except to improve it, until he attain the age of full strength; give measure and weight with (full) justice;- no burden do We place on any soul, but that which it can bear;- whenever ye speak, speak justly, even if a near relative is concerned; and fulfil the covenant of Allah: thus doth He command you, that ye may remember.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ جانا مگر ایسے طریق سے کہ بہت ہی پسندیدہ ہو یہاں تک کہ وہ جوانی کو پہنچ جائے اور ناپ تول انصاف کے ساتھ پوری پوری کیا کرو ہم کسی کو تکلیف نہیں دیتے مگر اس کی طاقت کے مطابق اور جب (کسی کی نسبت) کوئی بات کہو تو انصاف سے کہو گو وہ (تمہارا) رشتہ دار ہی ہو اور خدا کے عہد کو پورا کرو ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم نصحیت کرو
+
 [Open on Quran.com](https://quran.com/6/152)
 
 #### 7:42 · [[007 Al-Araf]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who believed and did righteous deeds - We charge no soul except [within] its capacity. Those are the companions of Paradise; they will abide therein eternally.
 
 **English (Yusuf Ali):** But those who believe and work righteousness,- no burden do We place on any soul, but that which it can bear,- they will be Companions of the Garden, therein to dwell (for ever).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور عمل نیک کرتے رہے اور ہم (عملوں کے لیے) کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتے۔ ایسے ہی لوگ اہل بہشت ہیں (کہ) اس میں ہمیشہ رہیں گے
 
 [Open on Quran.com](https://quran.com/7/42)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** On no soul do We place a burden greater than it can bear: before Us is a record which clearly shows the truth: they will never be wronged.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتے اور ہمارے پاس کتاب ہے جو سچ سچ کہہ دیتی ہے اور ان لوگوں پر ظلم نہیں کیا جائے گا
+
 [Open on Quran.com](https://quran.com/23/62)
 
 #### 65:7 · [[065 At-Talaq]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Let a man of wealth spend from his wealth, and he whose provision is restricted - let him spend from what Allāh has given him. Allāh does not charge a soul except [according to] what He has given it. Allāh will bring about, after hardship, ease [i.e., relief].
 
 **English (Yusuf Ali):** Let the man of means spend according to his means: and the man whose resources are restricted, let him spend according to what Allah has given him. Allah puts no burden on any person beyond what He has given him. After a difficulty, Allah will soon grant relief.
+
+**Urdu (Fatah Muhammad Jalandhari):** صاحب وسعت کو اپنی وسعت کے مطابق خرچ کرنا چاہیئے۔ اور جس کے رزق میں تنگی ہو وہ جتنا خدا نے اس کو دیا ہے اس کے موافق خرچ کرے۔ خدا کسی کو تکلیف نہیں دیتا مگر اسی کے مطابق جو اس کو دیا ہے۔ اور خدا عنقریب تنگی کے بعد کشائش بخشے گا
 
 [Open on Quran.com](https://quran.com/65/7)
 

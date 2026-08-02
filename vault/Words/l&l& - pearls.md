@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 22:23 · [[022 Al-Hajj]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Allāh will admit those who believe and do righteous deeds to gardens beneath which rivers flow. They will be adorned therein with bracelets of gold and pearl, and their garments therein will be silk.
 
 **English (Yusuf Ali):** Allah will admit those who believe and work righteous deeds, to Gardens beneath which rivers flow: they shall be adorned therein with bracelets of gold and pearls; and their garments there will be of silk.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور عمل نیک کرتے رہے خدا ان کو بہشتوں میں داخل کرے گا جن کے تلے نہریں بہہ رہیں ہیں۔ وہاں ان کو سونے کے کنگن پہنائے جائیں گے اور موتی۔ اور وہاں ان کا لباس ریشمی ہوگا
 
 [Open on Quran.com](https://quran.com/22/23)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Gardens of Eternity will they enter: therein will they be adorned with bracelets of gold and pearls; and their garments there will be of silk.
 
+**Urdu (Fatah Muhammad Jalandhari):** (ان لوگوں کے لئے) بہشتِ جاودانی (ہیں) جن میں وہ داخل ہوں گے۔ وہاں ان کو سونے کے کنگن اور موتی پہنائے جائیں گے۔ اور ان کی پوشاک ریشمی ہوگی
+
 [Open on Quran.com](https://quran.com/35/33)
 
 #### 52:24 · [[052 At-Tur]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** There will circulate among them [servant] boys [especially] for them, as if they were pearls well-protected.
 
 **English (Yusuf Ali):** Round about them will serve, (devoted) to them, young male servants (handsome) as Pearls well-guarded.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نوجوان خدمت گار (جو ایسے ہوں گے) جیسے چھپائے ہوئے موتی ان کے آس پاس پھریں گے
 
 [Open on Quran.com](https://quran.com/52/24)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Out of them come Pearls and Coral:
 
+**Urdu (Fatah Muhammad Jalandhari):** دونوں دریاؤں سے موتی اور مونگے نکلتے ہیں
+
 [Open on Quran.com](https://quran.com/55/22)
 
 #### 56:23 · [[056 Al-Waqiah]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Like unto Pearls well-guarded.
 
+**Urdu (Fatah Muhammad Jalandhari):** جیسے (حفاظت سے) تہہ کئے ہوئے (آب دار) موتی
+
 [Open on Quran.com](https://quran.com/56/23)
 
 #### 76:19 · [[076 Al-Insan]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** There will circulate among them young boys made eternal. When you see them, you would think them [as beautiful as] scattered pearls.
 
 **English (Yusuf Ali):** And round about them will (serve) youths of perpetual (freshness): If thou seest them, thou wouldst think them scattered Pearls.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے پاس لڑکے آتے جاتے ہوں گے جو ہمیشہ (ایک ہی حالت پر) رہیں گے۔ جب تم ان پر نگاہ ڈالو تو خیال کرو کہ بکھرے ہوئے موتی ہیں
 
 [Open on Quran.com](https://quran.com/76/19)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:40 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O Children of Israel, remember My favor which I have bestowed upon you and fulfill My covenant [upon you] that I will fulfill your covenant [from Me], and be afraid of [only] Me.
 
 **English (Yusuf Ali):** O Children of Israel! call to mind the (special) favour which I bestowed upon you, and fulfil your covenant with Me as I fulfil My Covenant with you, and fear none but Me.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے یعقوب کی اولاد! میرے وہ احسان یاد کرو جو میں نے تم پر کئے تھے اور اس اقرار کو پورا کرو جو تم نے مجھ سے کیا تھا۔ میں اس اقرار کو پورا کروں گا جو میں نے تم سے کیا تھا اور مجھی سے ڈرتے رہو
 
 [Open on Quran.com](https://quran.com/2/40)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When the anger of Moses was appeased, he took up the tablets: in the writing thereon was guidance and Mercy for such as fear their Lord.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ کا غصہ فرو ہوا تو (تورات) کی تختیاں اٹھالیں اور جو کچھ ان میں لکھا تھا وہ ان لوگوں کے لیے جو اپنے پروردگار سے ڈرتے ہیں۔ ہدایت اور رحمت تھی
+
 [Open on Quran.com](https://quran.com/7/154)
 
 #### 16:51 · [[016 An-Nahl]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Allāh has said, "Do not take for yourselves two deities. He [i.e., Allāh] is but one God, so fear only Me."
 
 **English (Yusuf Ali):** Allah has said: "Take not (for worship) two gods: for He is just One Allah: then fear Me (and Me alone)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے فرمایا ہے کہ دو دو معبود نہ بناؤ۔ معبود وہی ایک ہے۔ تو مجھ ہی سے ڈرتے رہو
 
 [Open on Quran.com](https://quran.com/16/51)
 

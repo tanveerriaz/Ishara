@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 12:8 · [[012 Yusuf]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** When they said, "Joseph and his brother are more beloved to our father than we, while we are a clan. Indeed, our father is in clear error.
 
 **English (Yusuf Ali):** They said: "Truly Joseph and his brother are loved more by our father than we: But we are a goodly body! really our father is obviously wandering (in his mind)!
+
+**Urdu (Fatah Muhammad Jalandhari):** جب انہوں نے (آپس میں) تذکرہ کیا کہ یوسف اور اس کا بھائی ابا کو ہم سے زیادہ پیارے ہیں حالانکہ ہم جماعت (کی جماعت) ہیں۔ کچھ شک نہیں کہ ابا صریح غلطی پر ہیں
 
 [Open on Quran.com](https://quran.com/12/8)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "If the wolf were to devour him while we are (so large) a party, then should we indeed (first) have perished ourselves!"
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ اگر ہماری موجودگی میں کہ ہم ایک طاقتور جماعت ہیں، اسے بھیڑیا کھا گیا تو ہم بڑے نقصان میں پڑگئے
+
 [Open on Quran.com](https://quran.com/12/14)
 
 #### 24:11 · [[024 An-Nur]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who brought forward the lie are a body among yourselves: think it not to be an evil to you; On the contrary it is good for you: to every man among them (will come the punishment) of the sin that he earned, and to him who took on himself the lead among them, will be a penalty grievous.
 
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے بہتان باندھا ہے تم ہی میں سے ایک جماعت ہے اس کو اپنے حق میں برا نہ سمجھنا۔ بلکہ وہ تمہارے لئے اچھا ہے۔ ان میں سے جس شخص نے گناہ کا جتنا حصہ لیا اس کے لئے اتنا ہی وبال ہے۔ اور جس نے ان میں سے اس بہتان کا بڑا بوجھ اٹھایا ہے اس کو بڑا عذاب ہوگا
+
 [Open on Quran.com](https://quran.com/24/11)
 
 #### 28:76 · [[028 Al-Qasas]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Qārūn was from the people of Moses, but he tyrannized them. And We gave him of treasures whose keys would burden a band of strong men; thereupon his people said to him, "Do not exult. Indeed, Allāh does not like the exultant.
 
 **English (Yusuf Ali):** Qarun was doubtless, of the people of Moses; but he acted insolently towards them: such were the treasures We had bestowed on him that their very keys would have been a burden to a body of strong men, behold, his people said to him: "Exult not, for Allah loveth not those who exult (in riches).
+
+**Urdu (Fatah Muhammad Jalandhari):** قارون موسٰی کی قوم میں سے تھا اور ان پر تعدّی کرتا تھا۔ اور ہم نے اس کو اتنے خزانے دیئے تھے کہ اُن کی کنجیاں ایک طاقتور جماعت کو اُٹھانی مشکل ہوتیں جب اس سے اس کی قوم نے کہا کہ اترائیے مت۔ کہ خدا اترانے والوں کو پسند نہیں کرتا
 
 [Open on Quran.com](https://quran.com/28/76)
 

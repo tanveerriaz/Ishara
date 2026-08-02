@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:61 · [[002 Al-Baqarah]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when you said, "O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions." [Moses] said, "Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked." And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing.
 
 **English (Yusuf Ali):** And remember ye said: "O Moses! we cannot endure one kind of food (always); so beseech thy Lord for us to produce for us of what the earth groweth, -its pot-herbs, and cucumbers, Its garlic, lentils, and onions." He said: "Will ye exchange the better for the worse? Go ye down to any town, and ye shall find what ye want!" They were covered with humiliation and misery; they drew on themselves the wrath of Allah. This because they went on rejecting the Signs of Allah and slaying His Messengers without just cause. This because they rebelled and went on transgressing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے کہا کہ موسیٰ! ہم سے ایک (ہی) کھانے پر صبر نہیں ہو سکتا تو اپنے پروردگار سے دعا کیجئے کہ ترکاری اور ککڑی اور گیہوں اور مسور اور پیاز (وغیرہ) جو نباتات زمین سے اُگتی ہیں، ہمارے لیے پیدا کر دے۔ انہوں نے کہا کہ بھلا عمدہ چیزیں چھوڑ کر ان کے عوض ناقص چیزیں کیوں چاہتے ہوں۔ (اگر یہی چیزیں مطلوب ہیں) تو کسی شہر میں جا اترو، وہاں جو مانگتے ہو، مل جائے گا۔ اور (آخرکار) ذلت (ورسوائی) اور محتاجی (وبے نوائی) ان سے چمٹا دی گئی اور وہ الله کے غضب میں گرفتار ہو گئے۔ یہ اس لیے کہ وہ الله کی آیتوں سے انکار کرتے تھے اور (اس کے) نبیوں کو ناحق قتل کر دیتے تھے۔ (یعنی) یہ اس لیے کہ نافرمانی کئے جاتے اور حد سے بڑھے جاتے تھے
 
 [Open on Quran.com](https://quran.com/2/61)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah; For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
+
 [Open on Quran.com](https://quran.com/2/282)
 
 #### 4:3 · [[004 An-Nisa]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hands possess [i.e., slaves]. That is more suitable that you may not incline [to injustice].
 
 **English (Yusuf Ali):** If ye fear that ye shall not be able to deal justly with the orphans, Marry women of your choice, Two or three or four; but if ye fear that ye shall not be able to deal justly (with them), then only one, or (a captive) that your right hands possess, that will be more suitable, to prevent you from doing injustice.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو اس بات کا خوف ہو کہ یتیم لڑکیوں کے بارےانصاف نہ کرسکوگے تو ان کے سوا جو عورتیں تم کو پسند ہوں دو دو یا تین تین یا چار چار ان سے نکاح کرلو۔ اور اگر اس بات کا اندیشہ ہو کہ (سب عورتوں سے) یکساں سلوک نہ کرسکو گے تو ایک عورت (کافی ہے) یا لونڈی جس کے تم مالک ہو۔ اس سے تم بےانصافی سے بچ جاؤ گے
 
 [Open on Quran.com](https://quran.com/4/3)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** That is most suitable: that they may give the evidence in its true nature and shape, or else they would fear that other oaths would be taken after their oaths. But fear Allah, and listen (to His counsel): for Allah guideth not a rebellious people:
 
+**Urdu (Fatah Muhammad Jalandhari):** اس طریق سے بہت قریب ہے کہ یہ لوگ صحیح صحیح شہادت دیں یا اس بات سے خوف کریں کہ (ہماری) قسمیں ان کی قسموں کے بعد رد کر دی جائیں گی اور خدا سے ڈرو اور اس کے حکموں کو (گوشِ ہوش سے) سنو اور خدا نافرمان لوگوں کو ہدایت نہیں دیتا
+
 [Open on Quran.com](https://quran.com/5/108)
 
 #### 7:169 · [[007 Al-Araf]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And there followed them successors who inherited the Scripture [while] taking the commodities of this lower life and saying, "It will be forgiven for us." And if an offer like it comes to them, they will [again] take it. Was not the covenant of the Scripture [i.e., the Torah] taken from them that they would not say about Allāh except the truth, and they studied what was in it? And the home of the Hereafter is better for those who fear Allāh, so will you not use reason?
 
 **English (Yusuf Ali):** After them succeeded an (evil) generation: They inherited the Book, but they chose (for themselves) the vanities of this world, saying (for excuse): "(Everything) will be forgiven us." (Even so), if similar vanities came their way, they would (again) seize them. Was not the covenant of the Book taken from them, that they would not ascribe to Allah anything but the truth? and they study what is in the Book. But best for the righteous is the home in the Hereafter. Will ye not understand?
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے بعد ناخلف ان کے قائم مقام ہوئے جو کتاب کے وارث بنے۔ یہ (بےتامل) اس دنیائے دنی کا مال ومتاع لے لیتے ہیں اور کہتے ہیں کہ ہم بخش دیئے جائیں گے۔ اور (لوگ ایسوں پر طعن کرتے ہیں) اگر ان کے سامنے بھی ویسا ہی مال آجاتا ہے تو وہ بھی اسے لے لیتے ہیں۔ کیا ان سے کتاب کی نسبت عہد نہیں لیا گیا کہ خدا پر سچ کے سوا اور کچھ نہیں کہیں گے۔ اور جو کچھ اس (کتاب) میں ہے اس کو انہوں نے پڑھ بھی لیا ہے۔ اور آخرت کا گھر پرہیزگاروں کے لیے بہتر ہے کیا تم سمجھتے نہیں
 
 [Open on Quran.com](https://quran.com/7/169)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In a land close by; but they, (even) after (this) defeat of theirs, will soon be victorious-
 
+**Urdu (Fatah Muhammad Jalandhari):** نزدیک کے ملک میں اور وہ مغلوب ہونے کے بعد عنقریب غالب آجائیں گے
+
 [Open on Quran.com](https://quran.com/30/3)
 
 #### 32:21 · [[032 As-Sajdah]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We will surely let them taste the nearer punishment short of the greater punishment that perhaps they will return [i.e., repent].
 
 **English (Yusuf Ali):** And indeed We will make them taste of the Penalty of this (life) prior to the supreme Penalty, in order that they may (repent and) return.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم اُن کو (قیامت کے) بڑے عذاب کے سوا عذاب دنیا کا بھی مزہ چکھائیں گے۔ شاید (ہماری طرف) لوٹ آئیں
 
 [Open on Quran.com](https://quran.com/32/21)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thou mayest defer (the turn of) any of them that thou pleasest, and thou mayest receive any thou pleasest: and there is no blame on thee if thou invite one whose (turn) thou hadst set aside. This were nigher to the cooling of their eyes, the prevention of their grief, and their satisfaction - that of all of them - with that which thou hast to give them: and Allah knows (all) that is in your hearts: and Allah is All-Knowing, Most Forbearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اور تم کو یہ بھی اختیار ہے کہ) جس بیوی کو چاہو علیحدہ رکھو اور جسے چاہو اپنے پاس رکھو۔ اور جس کو تم نے علیحدہ کردیا ہو اگر اس کو پھر اپنے پاس طلب کرلو تو تم پر کچھ گناہ نہیں۔ یہ (اجازت) اس لئے ہے کہ ان کی آنکھیں ٹھنڈی رہیں اور وہ غمناک نہ ہوں اور جو کچھ تم ان کو دو۔ اسے لے کر سب خوش رہیں۔ اور جو کچھ تمہارے دلوں میں ہے خدا اسے جانتا ہے۔ اور خدا جاننے والا اور بردبار ہے
+
 [Open on Quran.com](https://quran.com/33/51)
 
 #### 33:59 · [[033 Al-Ahzab]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O Prophet! Tell thy wives and daughters, and the believing women, that they should cast their outer garments over their persons (when abroad): that is most convenient, that they should be known (as such) and not molested. And Allah is Oft-Forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر اپنی بیویوں اور بیٹیوں اور مسلمانوں کی عورتوں سے کہہ دو کہ (باہر نکلا کریں تو) اپنے (مونہوں) پر چادر لٹکا (کر گھونگھٹ نکال) لیا کریں۔ یہ امر ان کے لئے موجب شناخت (وامتیاز) ہوگا تو کوئی ان کو ایذا نہ دے گا۔ اور خدا بخشنے والا مہربان ہے
+
 [Open on Quran.com](https://quran.com/33/59)
 
 #### 53:9 · [[053 An-Najm]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And was at a distance of two bow lengths or nearer.
 
 **English (Yusuf Ali):** And was at a distance of but two bow-lengths or (even) nearer;
+
+**Urdu (Fatah Muhammad Jalandhari):** تو دو کمان کے فاصلے پر یا اس سے بھی کم
 
 [Open on Quran.com](https://quran.com/53/9)
 

@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:156 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who, when disaster strikes them, say, "Indeed we belong to Allāh, and indeed to Him we will return."
 
 **English (Yusuf Ali):** Who say, when afflicted with calamity: "To Allah We belong, and to Him is our return":-
+
+**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں پر جب کوئی مصیبت واقع ہوتی ہے تو کہتے ہیں کہ ہم خدا ہی کا مال ہیں اور اسی کی طرف لوٹ کر جانے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/156)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! cancel not your charity by reminders of your generosity or by injury,- like those who spend their substance to be seen of men, but believe neither in Allah nor in the Last Day. They are in parable like a hard, barren rock, on which is a little soil: on it falls heavy rain, which leaves it (Just) a bare stone. They will be able to do nothing with aught they have earned. And Allah guideth not those who reject faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اپنے صدقات (وخیرات)احسان رکھنے اور ایذا دینے سے اس شخص کی طرح برباد نہ کردینا۔ جو لوگوں کو دکھاوے کے لئے مال خرچ کرتا ہے اور خدا اور روز آخرت پر ایمان نہیں رکھتا۔ تو اس (کے مال) کی مثال اس چٹان کی سی ہے جس پر تھوڑی سی مٹی پڑی ہو اور اس پر زور کا مینہ برس کر اسے صاف کر ڈالے۔ (اسی طرح) یہ (ریاکار) لوگ اپنے اعمال کا کچھ بھی صلہ حاصل نہیں کرسکیں گے۔ اور خدا ایسے ناشکروں کو ہدایت نہیں دیا کرتا
+
 [Open on Quran.com](https://quran.com/2/264)
 
 #### 2:265 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the example of those who spend their wealth seeking means to the approval of Allāh and assuring [reward for] themselves is like a garden on high ground which is hit by a downpour - so it yields its fruits in double. And [even] if it is not hit by a downpour, then a drizzle [is sufficient]. And Allāh, of what you do, is Seeing.
 
 **English (Yusuf Ali):** And the likeness of those who spend their substance, seeking to please Allah and to strengthen their souls, is as a garden, high and fertile: heavy rain falls on it but makes it yield a double increase of harvest, and if it receives not Heavy rain, light moisture sufficeth it. Allah seeth well whatever ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا کی خوشنودی حاصل کرنے کے لئے خلوص نیت سے اپنا مال خرچ کرتے ہیں ان کی مثال ایک باغ کی سی ہے جو اونچی جگہ پر واقع ہو(جب) اس پر مینہ پڑے تو دگنا پھل لائے۔ اور اگر مینہ نہ بھی پڑے تو خیر پھوار ہی سہی اور خدا تمہارے کاموں کو دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/2/265)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Does any of you wish that he should have a garden with date-palms and vines and streams flowing underneath, and all kinds of fruit, while he is stricken with old age, and his children are not strong (enough to look after themselves)- that it should be caught in a whirlwind, with fire therein, and be burnt up? Thus doth Allah make clear to you (His) Signs; that ye may consider.
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم میں کوئی یہ چاہتا ہے کہ اس کا کھجوروں اور انگوروں کا باغ ہو جس میں نہریں بہہ رہی ہوں اور اس میں اس کے لئے ہر قسم کے میوے موجود ہوں اور اسے بڑھاپا آپکڑے اور اس کے ننھے ننھے بچے بھی ہوں۔ تو (ناگہاں) اس باغ پر آگ کا بھرا ہوا بگولا چلے اور وہ جل کر (راکھ کا ڈھیر ہو) جائے۔ اس طرح خدا تم سے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم سوچو (اور سمجھو)
+
 [Open on Quran.com](https://quran.com/2/266)
 
 #### 3:117 · [[003 Ali Imran]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The example of what they spend in this worldly life is like that of a wind containing frost which strikes the harvest of a people who have wronged themselves [i.e., sinned] and destroys it. And Allāh has not wronged them, but they wrong themselves.
 
 **English (Yusuf Ali):** What they spend in the life of this (material) world May be likened to a wind which brings a nipping frost: It strikes and destroys the harvest of men who have wronged their own souls: it is not Allah that hath wronged them, but they wrong themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ جو مال دنیا کی زندگی میں خرچ کرتے ہیں اس کی مثال ہوا کی سی ہے جس میں سخت سردی ہو اور وہ ایسے لوگوں کی کھیتی پر جو اپنے آپ پر ظلم کرتے تھے چلے اور اسے تباہ کر دے اور خدا نے ان پر کچھ ظلم نہیں کیا بلکہ یہ خود اپنے اوپر ظلم کر رہے ہیں
 
 [Open on Quran.com](https://quran.com/3/117)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If aught that is good befalls you, it grieves them; but if some misfortune overtakes you, they rejoice at it. But if ye are constant and do right, not the least harm will their cunning do to you; for Allah Compasseth round about all that they do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر تمہیں آسودگی حاصل ہو تو ان کو بری لگتی ہے اور اگر رنج پہنچے تو خوش ہوتے ہیں اور اگر تم تکلیفوں کی برداشت اور (ان سے) کنارہ کشی کرتے رہو گے تو ان کا فریب تمھیں کچھ بھی نقصان نہ پہنچا سکے گا یہ جو کچھ کرتے ہیں خدا اس پر احاطہ کیے ہوئے ہے
+
 [Open on Quran.com](https://quran.com/3/120)
 
 #### 3:146 · [[003 Ali Imran]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And how many a prophet [fought in battle and] with him fought many religious scholars. But they never lost assurance due to what afflicted them in the cause of Allāh, nor did they weaken or submit. And Allāh loves the steadfast.
 
 **English (Yusuf Ali):** How many of the prophets fought (in Allah's way), and with them (fought) Large bands of godly men? but they never lost heart if they met with disaster in Allah's way, nor did they weaken (in will) nor give in. And Allah Loves those who are firm and steadfast.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بہت سے نبی ہوئے ہیں جن کے ساتھ ہو کر اکثر اہل الله (خدا کے دشمنوں سے) لڑے ہیں تو جو مصبتیں ان پر راہِ خدا میں واقع ہوئیں ان کے سبب انہوں نے نہ تو ہمت ہاری اور نہ بزدلی کی نہ (کافروں سے) دبے اور خدا استقلال رکھنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/3/146)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! ye were climbing up the high ground, without even casting a side glance at any one, and the Messenger in your rear was calling you back. There did Allah give you one distress after another by way of requital, to teach you not to grieve for (the booty) that had escaped you and for (the ill) that had befallen you. For Allah is well aware of all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** (وہ وقت بھی یاد کرنے کے لائق ہے) جب تم لوگ دور بھاگے جاتے تھے اور کسی کو پیچھے پھر کر نہیں دیکھتے تھے اور رسول الله تم کو تمہارے پیچھے کھڑے بلا رہے تھے تو خدا نے تم کو غم پر غم پہنچایا تاکہ جو چیز تمہارے ہاتھ سے جاتی رہی یا جو مصیبت تم پر واقع ہوئی ہے اس سے تم اندوہ ناک نہ ہو اور خدا تمہارے سب اعمال سے خبردار ہے
+
 [Open on Quran.com](https://quran.com/3/153)
 
 #### 3:165 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** What! When a single disaster smites you, although ye smote (your enemies) with one twice as great, do ye say?- "Whence is this?" Say (to them): "It is from yourselves: For Allah hath power over all things."
 
+**Urdu (Fatah Muhammad Jalandhari):** (بھلا یہ) کیا (بات ہے کہ) جب (اُحد کے دن کافر کے ہاتھ سے) تم پر مصیبت واقع ہوئی حالانکہ (جنگ بدر میں) اس سے دوچند مصیبت تمہارے ہاتھ سے ان پر پڑچکی ہے توتم چلا اٹھے کہ (ہائے) آفت (ہم پر) کہاں سے آپڑی کہہ دو کہ یہ تمہاری ہی شامت اعمال ہے (کہ تم نے پیغمبر کے حکم کے خلاف کیا) بےشک خدا ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/3/165)
 
 #### 3:166 · [[003 Ali Imran]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And what struck you on the day the two armies met [at Uḥud] was by permission of Allāh that He might make evident the [true] believers
 
 **English (Yusuf Ali):** What ye suffered on the day the two armies Met, was with the leave of Allah, in order that He might test the believers,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو مصیبت تم پر دونوں جماعتوں کے مقابلے کے دن واقع ہوئی سو خدا کے حکم سے (واقع ہوئی) اور (اس سے) یہ مقصود تھا کہ خدا مومنوں کو اچھی طرح معلوم
 
 [Open on Quran.com](https://quran.com/3/166)
 

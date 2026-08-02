@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 20:76 · [[020 Taha]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Gardens of perpetual residence beneath which rivers flow, wherein they abide eternally. And that is the reward of one who purifies himself.
 
 **English (Yusuf Ali):** Gardens of Eternity, beneath which flow rivers: they will dwell therein for aye: such is the reward of those who purify themselves (from evil).
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) ہمیشہ رہنے کے باغ جن کے نیچے نہریں بہہ رہی ہیں۔ ہمیشہ ان میں رہیں گے۔ اور یہ اس شخص کا بدلہ ہے جو پاک ہوا
 
 [Open on Quran.com](https://quran.com/20/76)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nor can a bearer of burdens bear another's burdens if one heavily laden should call another to (bear) his load. Not the least portion of it can be carried (by the other). Even though he be nearly related. Thou canst but admonish such as fear their Lord unseen and establish regular Prayer. And whoever purifies himself does so for the benefit of his own soul; and the destination (of all) is to Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کوئی اٹھانے والا دوسرے کا بوجھ نہ اٹھائے گا۔ اور کوئی بوجھ میں دبا ہوا اپنا بوجھ بٹانے کو کسی کو بلائے تو کوئی اس میں سے کچھ نہ اٹھائے گا اگرچہ قرابت دار ہی ہو۔ (اے پیغمبر) تم انہی لوگوں کو نصیحت کرسکتے ہو جو بن دیکھے اپنے پروردگار سے ڈرتے اور نماز بالالتزام پڑھتے ہیں۔ اور جو شخص پاک ہوتا ہے اپنے ہی لئے پاک ہوتا ہے۔ اور (سب کو) خدا ہی کی طرف لوٹ کر جانا ہے
+
 [Open on Quran.com](https://quran.com/35/18)
 
 #### 79:18 · [[079 An-Naziat]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And say to him, 'Would you [be willing to] purify yourself
 
 **English (Yusuf Ali):** "And say to him, 'Wouldst thou that thou shouldst be purified (from sin)?-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس سے) کہو کہ کیا تو چاہتا ہے کہ پاک ہو جائے؟
 
 [Open on Quran.com](https://quran.com/79/18)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But what could tell thee but that perchance he might grow (in spiritual understanding)?-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کو کیا خبر شاید وہ پاکیزگی حاصل کرتا
+
 [Open on Quran.com](https://quran.com/80/3)
 
 #### 80:7 · [[080 Abasa]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And not upon you [is any blame] if he will not be purified.
 
 **English (Yusuf Ali):** Though it is no blame to thee if he grow not (in spiritual understanding).
+
+**Urdu (Fatah Muhammad Jalandhari):** حالانکہ اگر وہ نہ سنورے تو تم پر کچھ (الزام) نہیں
 
 [Open on Quran.com](https://quran.com/80/7)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But those will prosper who purify themselves,
 
+**Urdu (Fatah Muhammad Jalandhari):** بے شک وہ مراد کو پہنچ گیا جو پاک ہوا
+
 [Open on Quran.com](https://quran.com/87/14)
 
 #### 92:18 · [[092 Al-Layl]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [He] who gives [from] his wealth to purify himself
 
 **English (Yusuf Ali):** Those who spend their wealth for increase in self-purification,
+
+**Urdu (Fatah Muhammad Jalandhari):** جو مال دیتا ہے تاکہ پاک ہو
 
 [Open on Quran.com](https://quran.com/92/18)
 

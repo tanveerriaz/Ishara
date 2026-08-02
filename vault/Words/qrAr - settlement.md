@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 14:26 · [[014 Ibrahim]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the example of a bad word is like a bad tree, uprooted from the surface of the earth, not having any stability.
 
 **English (Yusuf Ali):** And the parable of an evil Word is that of an evil tree: It is torn up by the root from the surface of the earth: it has no stability.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ناپاک بات کی مثال ناپاک درخت کی سی ہے (نہ جڑ مستحکم نہ شاخیں بلند) زمین کے اوپر ہی سے اکھیڑ کر پھینک دیا جائے گا اس کو ذرا بھی قرار (وثبات) نہیں
 
 [Open on Quran.com](https://quran.com/14/26)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Into Hell? They will burn therein,- an evil place to stay in!
 
+**Urdu (Fatah Muhammad Jalandhari):** (وہ گھر) دوزخ ہے۔ (سب ناشکرے) اس میں داخل ہوں گے۔ اور وہ برا ٹھکانہ ہے
+
 [Open on Quran.com](https://quran.com/14/29)
 
 #### 23:13 · [[023 Al-Muminun]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then We placed him as a sperm-drop in a firm lodging [i.e., the womb].
 
 **English (Yusuf Ali):** Then We placed him as (a drop of) sperm in a place of rest, firmly fixed;
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اس کو ایک مضبوط (اور محفوظ) جگہ میں نطفہ بنا کر رکھا
 
 [Open on Quran.com](https://quran.com/23/13)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We made the son of Mary and his mother as a Sign: We gave them both shelter on high ground, affording rest and security and furnished with springs.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے مریم کے بیٹے (عیسیٰ) اور ان کی ماں کو (اپنی) نشانی بنایا تھا اور ان کو ایک اونچی جگہ پر جو رہنے کے لائق تھی اور جہاں (نتھرا ہوا) پانی جاری تھا، پناہ دی تھی
+
 [Open on Quran.com](https://quran.com/23/50)
 
 #### 27:61 · [[027 An-Naml]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Is He [not best] who made the earth a stable ground and placed within it rivers and made for it firmly set mountains and placed between the two seas a barrier? Is there a deity with Allāh? [No], but most of them do not know.
 
 **English (Yusuf Ali):** Or, Who has made the earth firm to live in; made rivers in its midst; set thereon mountains immovable; and made a separating bar between the two bodies of flowing water? (can there be another) god besides Allah? Nay, most of them know not.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا کس نے زمین کو قرار گاہ بنایا اور اس کے بیچ نہریں بنائیں اور اس کے لئے پہاڑ بنائے اور (کس نے) دو دریاؤں کے بیچ اوٹ بنائی (یہ سب کچھ خدا نے بنایا) تو کیا خدا کے ساتھ کوئی اور معبود بھی ہے؟ (ہرگز نہیں) بلکہ ان میں اکثر دانش نہیں رکھتے
 
 [Open on Quran.com](https://quran.com/27/61)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (The followers shall cry to the misleaders:) "Nay, ye (too)! No welcome for you! It is ye who have brought this upon us! Now evil is (this) place to stay in!"
 
+**Urdu (Fatah Muhammad Jalandhari):** کہیں گے بلکہ تم ہی کو خوشی نہ ہو۔ تم ہی تو یہ (بلا) ہمارے سامنے لائے سو (یہ) برا ٹھکانا ہے
+
 [Open on Quran.com](https://quran.com/38/60)
 
 #### 40:39 · [[040 Ghafir]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O my people, this worldly life is only [temporary] enjoyment, and indeed, the Hereafter - that is the home of [permanent] settlement.
 
 **English (Yusuf Ali):** "O my people! This life of the present is nothing but (temporary) convenience: It is the Hereafter that is the Home that will last.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھائیو یہ دنیا کی زندگی (چند روزہ) فائدہ اٹھانے کی چیز ہے۔ اور جو آخرت ہے وہی ہمیشہ رہنے کا گھر ہے
 
 [Open on Quran.com](https://quran.com/40/39)
 
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is Allah Who has made for you the earth as a resting place, and the sky as a canopy, and has given you shape- and made your shapes beautiful,- and has provided for you Sustenance, of things pure and good;- such is Allah your Lord. So Glory to Allah, the Lord of the Worlds!
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے زمین کو تمہارے لئے ٹھیرنے کی جگہ اور آسمان کو چھت بنایا اور تمہاری صورتیں بنائیں اور صورتیں بھی خوب بنائیں اور تمہیں پاکیزہ چیزیں کھانے کو دیں۔ یہی خدا تمہارا پروردگار ہے۔ پس خدائے پروردگار عالم بہت ہی بابرکت ہے
+
 [Open on Quran.com](https://quran.com/40/64)
 
 #### 77:21 · [[077 Al-Mursalat]]
@@ -172,6 +188,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We placed it in a firm lodging [i.e., the womb]
 
 **English (Yusuf Ali):** The which We placed in a place of rest, firmly fixed,
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کو ایک محفوظ جگہ میں رکھا
 
 [Open on Quran.com](https://quran.com/77/21)
 

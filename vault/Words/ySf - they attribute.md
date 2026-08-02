@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wSf - wasafa]]
+- [[wSf - describing attributing qualities]]
 
 ### Meaning
 **they attribute** · Lemma **يَصِفُ**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:100 · [[006 Al-Anam]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But they have attributed to Allāh partners - the jinn, while He has created them - and have fabricated for Him sons and daughters without knowledge. Exalted is He and high above what they describe.
 
 **English (Yusuf Ali):** Yet they make the Jinns equals with Allah, though Allah did create the Jinns; and they falsely, having no knowledge, attribute to Him sons and daughters. Praise and glory be to Him! (for He is) above what they attribute to Him!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے جنوں کو خدا کا شریک ٹھہرایا۔ حالانکہ ان کو اسی نے پیدا کیا اور بےسمجھے (جھوٹ بہتان) اس کے لئے بیٹے اور بیٹیاں بنا کھڑی کیں وہ ان باتوں سے جو اس کی نسبت بیان کرتے ہیں پاک ہے اور (اس کی شان ان سے) بلند ہے
 
 [Open on Quran.com](https://quran.com/6/100)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They stained his shirt with false blood. He said: "Nay, but your minds have made up a tale (that may pass) with you, (for me) patience is most fitting: Against that which ye assert, it is Allah (alone) Whose help can be sought"..
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے کرتے پر جھوٹ موٹ کا لہو بھی لگا لائے۔ یعقوب نے کہا (کہ حقیقت حال یوں نہیں ہے) بلکہ تم اپنے دل سے (یہ) بات بنا لائے ہو۔ اچھا صبر (کہ وہی) خوب (ہے) اور جو تم بیان کرتے ہو اس کے بارے میں خدا ہی سے مدد مطلوب ہے
+
 [Open on Quran.com](https://quran.com/12/18)
 
 #### 12:77 · [[012 Yusuf]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "If he steals - a brother of his has stolen before." But Joseph kept it within himself and did not reveal it to them. He said, "You are worse in position, and Allāh is most knowing of what you describe."
 
 **English (Yusuf Ali):** They said: "If he steals, there was a brother of his who did steal before (him)." But these things did Joseph keep locked in his heart, revealing not the secrets to them. He (simply) said (to himself): "Ye are the worse situated; and Allah knoweth best the truth of what ye assert!"
+
+**Urdu (Fatah Muhammad Jalandhari):** (برادران یوسف نے) کہا کہ اگر اس نے چوری کی ہو تو (کچھ عجب نہیں کہ) اس کے ایک بھائی نے بھی پہلے چوری کی تھی یوسف نے اس بات کو اپنے دل میں مخفی رکھا اور ان پر ظاہر نہ ہونے دیا (اور) کہا کہ تم بڑے بدقماش ہو۔ اور جو تم بیان کرتے ہو خدا اسے خوب جانتا ہے
 
 [Open on Quran.com](https://quran.com/12/77)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They attribute to Allah what they hate (for themselves), and their tongues assert the falsehood that all good things are for themselves: without doubt for them is the Fire, and they will be the first to be hastened on into it!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ خدا کے لیے ایسی چیزیں تجویز کرتے ہیں جن کو خود ناپسند کرتے ہیں اور زبان سے جھوٹ بکے جاتے ہیں کہ ان کو (قیامت کے دن) بھلائی (یعنی نجات) ہوگی۔ کچھ شک نہیں کہ ان کے لیے (دوزخ کی) آگ (تیار) ہے اور یہ (دوزخ میں) سب سے آگے بھیجے جائیں گے
+
 [Open on Quran.com](https://quran.com/16/62)
 
 #### 16:116 · [[016 An-Nahl]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not say about what your tongues assert of untruth, "This is lawful and this is unlawful," to invent falsehood about Allāh. Indeed, those who invent falsehood about Allāh will not succeed.
 
 **English (Yusuf Ali):** But say not - for any false thing that your tongues may put forth,- "This is lawful, and this is forbidden," so as to ascribe false things to Allah. For those who ascribe false things to Allah, will never prosper.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یوں ہی جھوٹ جو تمہاری زبان پر آجائے مت کہہ دیا کرو کہ یہ حلال ہے اور یہ حرام ہے کہ خدا پر جھوٹ بہتان باندھنے لگو۔ جو لوگ خدا پر جھوٹ بہتان باندھتے ہیں ان کا بھلا نہیں ہوگا
 
 [Open on Quran.com](https://quran.com/16/116)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nay, We hurl the Truth against falsehood, and it knocks out its brain, and behold, falsehood doth perish! Ah! woe be to you for the (false) things ye ascribe (to Us).
 
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ ہم سچ کو جھوٹ پر کھینچ مارتے ہیں تو وہ اس کا سر توڑ دیتا ہے اور جھوٹ اسی وقت نابود ہوجاتا ہے۔ اور جو باتیں تم بناتے ہو ان سے تمہاری ہی خرابی ہے
+
 [Open on Quran.com](https://quran.com/21/18)
 
 #### 21:22 · [[021 Al-Anbya]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Had there been within them [i.e., the heavens and earth] gods besides Allāh, they both would have been ruined. So exalted is Allāh, Lord of the Throne, above what they describe.
 
 **English (Yusuf Ali):** If there were, in the heavens and the earth, other gods besides Allah, there would have been confusion in both! but glory to Allah, the Lord of the Throne: (High is He) above what they attribute to Him!
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر آسمان اور زمین میں خدا کے سوا اور معبود ہوتے تو زمین وآسمان درہم برہم ہوجاتے۔ جو باتیں یہ لوگ بتاتے ہیں خدائے مالک عرش ان سے پاک ہے
 
 [Open on Quran.com](https://quran.com/21/22)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "O my Lord! judge Thou in truth!" "Our Lord Most Gracious is the One Whose assistance should be sought against the blasphemies ye utter!"
 
+**Urdu (Fatah Muhammad Jalandhari):** پیغمبر نے کہا کہ اے میرے پروردگار حق کے ساتھ فیصلہ کردے۔ اور ہمارا پروردگار بڑا مہربان ہے اسی سے ان باتوں میں جو تم بیان کرتے ہو مدد مانگی جاتی ہے
+
 [Open on Quran.com](https://quran.com/21/112)
 
 #### 23:91 · [[023 Al-Muminun]]
@@ -174,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** No son did Allah beget, nor is there any god along with Him: (if there were many gods), behold, each god would have taken away what he had created, and some would have lorded it over others! Glory to Allah! (He is free) from the (sort of) things they attribute to Him!
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے نہ تو (اپنا) کسی کو بیٹا بنایا ہے اور نہ اس کے ساتھ کوئی معبود ہے، ایسا ہوتا تو ہر معبود اپنی اپنی مخلوقات کو لے کر چل دیتا اور ایک دوسرے پر غالب آجاتا۔ یہ لوگ جو کچھ خدا کے بارے میں بیان کرتے ہیں خدا اس سے پاک ہے
+
 [Open on Quran.com](https://quran.com/23/91)
 
 #### 23:96 · [[023 Al-Muminun]]
@@ -189,6 +207,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Repel, by [means of] what is best, [their] evil. We are most knowing of what they describe.
 
 **English (Yusuf Ali):** Repel evil with that which is best: We are well acquainted with the things they say.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بری بات کے جواب میں ایسی بات کہو جو نہایت اچھی ہو۔ اور یہ جو کچھ بیان کرتے ہیں ہمیں خوب معلوم ہے
 
 [Open on Quran.com](https://quran.com/23/96)
 

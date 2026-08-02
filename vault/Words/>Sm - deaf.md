@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Smm - smm]]
+- [[Smm - deaf]]
 
 ### Meaning
 **deaf** · Lemma **أَصَمّ**
@@ -35,7 +35,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:18 · [[002 Al-Baqarah]]
 
@@ -50,6 +50,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Deaf, dumb and blind - so they will not return [to the right path].
 
 **English (Yusuf Ali):** Deaf, dumb, and blind, they will not return (to the path).
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ) بہرے ہیں، گونگے ہیں، اندھے ہیں کہ (کسی طرح سیدھے رستے کی طرف) لوٹ ہی نہیں سکتے
 
 [Open on Quran.com](https://quran.com/2/18)
 
@@ -67,6 +69,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The parable of those who reject Faith is as if one were to shout Like a goat-herd, to things that listen to nothing but calls and cries: Deaf, dumb, and blind, they are void of wisdom.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں ان کی مثال اس شخص کی سی ہے جو کسی ایسی چیز کو آواز دے جو پکار اور آواز کے سوا کچھ سن نہ سکے۔ (یہ) بہرے ہیں گونگے ہیں اندھے ہیں کہ (کچھ) سمجھ ہی نہیں سکتے
+
 [Open on Quran.com](https://quran.com/2/171)
 
 #### 6:39 · [[006 Al-Anam]]
@@ -82,6 +86,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who deny Our verses are deaf and dumb within darknesses. Whomever Allāh wills - He sends astray; and whomever He wills - He puts him on a straight path.
 
 **English (Yusuf Ali):** Those who reject our signs are deaf and dumb,- in the midst of darkness profound: whom Allah willeth, He leaveth to wander: whom He willeth, He placeth on the way that is straight.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے ہماری آیتوں کو جھٹلایا وہ بہرے اور گونگے ہیں (اس کے علاوہ) اندھیرے میں (پڑے ہوئے) جس کو خدا چاہے گمراہ کردے اور جسے چاہے سیدھے رستے پر چلا دے
 
 [Open on Quran.com](https://quran.com/6/39)
 
@@ -99,6 +105,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For the worst of beasts in the sight of Allah are the deaf and the dumb,- those who understand not.
 
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ خدا کے نزدیک تمام جانداروں سے بدتر بہرے گونگے ہیں جو کچھ نہیں سمجھتے
+
 [Open on Quran.com](https://quran.com/8/22)
 
 #### 10:42 · [[010 Yunus]]
@@ -114,6 +122,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And among them are those who listen to you. But can you cause the deaf to hear [i.e., benefit from this hearing], although they will not use reason?
 
 **English (Yusuf Ali):** Among them are some who (pretend to) listen to thee: But canst thou make the deaf to hear,- even though they are without understanding?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے بعض ایسے ہیں کہ تمہاری طرف کان لگاتے ہیں تو کیا تم بہروں کو سناؤ گے اگرچہ کچھ بھی (سنتے) سمجھتے نہ ہوں
 
 [Open on Quran.com](https://quran.com/10/42)
 
@@ -131,6 +141,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** These two kinds (of men) may be compared to the blind and deaf, and those who can see and hear well. Are they equal when compared? Will ye not then take heed?
 
+**Urdu (Fatah Muhammad Jalandhari):** دونوں فرقوں (یعنی کافرومومن) کی مثال ایسی ہے جیسے ایک اندھا بہرا ہو اور ایک دیکھتا سنتا۔ بھلا دونوں کا حال یکساں ہوسکتا ہے؟ پھر تم سوچتے کیوں نہیں؟
+
 [Open on Quran.com](https://quran.com/11/24)
 
 #### 17:97 · [[017 Al-Isra]]
@@ -146,6 +158,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whoever Allāh guides - he is the [rightly] guided; and whoever He sends astray - you will never find for them protectors besides Him, and We will gather them on the Day of Resurrection [fallen] on their faces - blind, dumb and deaf. Their refuge is Hell; every time it subsides, We increase [for] them blazing fire.
 
 **English (Yusuf Ali):** It is he whom Allah guides, that is on true Guidance; but he whom He leaves astray - for such wilt thou find no protector besides Him. On the Day of Judgment We shall gather, them together, prone on their faces, blind, dumb, and deaf: their abode will be Hell: every time it shows abatement, We shall increase from them the fierceness of the Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس شخص کو خدا ہدایت دے وہی ہدایت یاب ہے۔ اور جن کو گمراہ کرے تو تم خدا کے سوا اُن کے رفیق نہیں پاؤ گے۔ اور ہم اُن کو قیامت کے دن اوندھے منہ اندھے گونگے اور بہرے (بنا کر) اٹھائیں گے۔ اور ان کا ٹھکانہ دوزخ ہے۔ جب (اس کی آگ) بجھنے کو ہوگی تو ہم ان کو (عذاب دینے کے لئے) اور بھڑکا دیں گے
 
 [Open on Quran.com](https://quran.com/17/97)
 
@@ -163,6 +177,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say, "I do but warn you according to revelation": But the deaf will not hear the call, (even) when they are warned!
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں تم کو حکم خدا کے مطابق نصیحت کرتا ہوں۔ اور بہروں کوجب نصیحت کی جائے تو وہ پکار کر سنتے ہی نہیں
+
 [Open on Quran.com](https://quran.com/21/45)
 
 #### 25:73 · [[025 Al-Furqan]]
@@ -179,6 +195,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who, when they are admonished with the Signs of their Lord, droop not down at them as if they were deaf or blind;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ کہ جب ان کو پروردگار کی باتیں سمجھائی جاتی ہیں تو اُن پر اندھے اور بہرے ہو کر نہیں گرتے (بلکہ غور سے سنتے ہیں)
+
 [Open on Quran.com](https://quran.com/25/73)
 
 #### 27:80 · [[027 An-Naml]]
@@ -194,6 +212,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, you will not make the dead hear, nor will you make the deaf hear the call when they have turned their backs retreating.
 
 **English (Yusuf Ali):** Truly thou canst not cause the dead to listen, nor canst thou cause the deaf to hear the call, (especially) when they turn back in retreat.
+
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ تم مردوں کو (بات) نہیں سنا سکتے اور نہ بہروں کو جب کہ وہ پیٹھ پھیر کر پھر جائیں آواز سنا سکتے ہو
 
 [Open on Quran.com](https://quran.com/27/80)
 

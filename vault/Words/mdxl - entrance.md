@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:31 · [[004 An-Nisa]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If you avoid the major sins which you are forbidden, We will remove from you your lesser sins and admit you to a noble entrance [into Paradise].
 
 **English (Yusuf Ali):** If ye (but) eschew the most heinous of the things which ye are forbidden to do, We shall expel out of you all the evil in you, and admit you to a gate of great honour.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم بڑے بڑے گناہوں سے جن سے تم کو منع کیا جاتا ہے اجتناب رکھو گے تو ہم تمہارے (چھوٹے چھوٹے) گناہ معاف کردیں گے اور تمہیں عزت کے مکانوں میں داخل کریں گے
 
 [Open on Quran.com](https://quran.com/4/31)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If they could find a place to flee to, or caves, or a place of concealment, they would turn straightaway thereto, with an obstinate rush.
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر ان کی کوئی بچاؤ کی جگہ (جیسے قلعہ) یا غار ومغاک یا (زمین کے اندر) گھسنے کی جگہ مل جائے تو اسی طرف رسیاں تڑاتے ہوئے بھاگ جائیں
+
 [Open on Quran.com](https://quran.com/9/57)
 
 #### 17:80 · [[017 Al-Isra]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "O my Lord! Let my entry be by the Gate of Truth and Honour, and likewise my exit by the Gate of Truth and Honour; and grant me from Thy Presence an authority to aid (me)."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کہو کہ اے پروردگار مجھے (مدینے میں) اچھی طرح داخل کیجیو اور (مکے سے) اچھی طرح نکالیو۔ اور اپنے ہاں سے زور وقوت کو میرا مددگار بنائیو
+
 [Open on Quran.com](https://quran.com/17/80)
 
 #### 22:59 · [[022 Al-Hajj]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He will surely cause them to enter an entrance with which they will be pleased, and indeed, Allāh is Knowing and Forbearing.
 
 **English (Yusuf Ali):** Verily He will admit them to a place with which they shall be well pleased: for Allah is All-Knowing, Most Forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ ان کو ایسے مقام میں داخل کرے گا جسے وہ پسند کریں گے۔ اور خدا تو جاننے والا (اور) بردبار ہے
 
 [Open on Quran.com](https://quran.com/22/59)
 

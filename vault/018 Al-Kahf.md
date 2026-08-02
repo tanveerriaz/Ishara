@@ -16,81 +16,81 @@ The Cave · 110 ayahs
 
 - [[sbb - course]] — `سَبَب` · course
 - [[>HAT - they encompass]] — `أَحاطَ` · they encompass
-- [[glAm - boy]] — `غُلام` · boy
-- [[lbv - you remained]] — `لَبِثَ` · you remained
-- [[zynp - adornment]] — `زِينَة` · adornment
+- [[ldn - yourself]] — `لَدُن` · yourself
+- [[qrn - generations]] — `قَرْن` · generations
+- [[r$d - right path]] — `رُشْد` · right path
 - [[vwAb - reward]] — `ثَواب` · reward
 - [[>tbE - he followed]] — `أَتْبَعَ` · he followed
 - [[AnTlq - proceed]] — `انطَلَقَ` · proceed
-- [[qrn - generations]] — `قَرْن` · generations
-- [[r$d - right path]] — `رُشْد` · right path
-- [[ldn - yourself]] — `لَدُن` · yourself
+- [[zynp - adornment]] — `زِينَة` · adornment
+- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[glAm - boy]] — `غُلام` · boy
 - [[mwEd - appointment]] — `مَوْعِد` · appointment
-- [[vmr - its fruit]] — `ثَمَر` · its fruit
-- [[xbr - some information]] — `خُبْر` · some information
-- [[$mAl - left]] — `شِمال` · left
+- [[Hwt - fish]] — `حُوت` · fish
+- [[zEm - claim]] — `زَعَمَ` · claim
+- [[>vr - footsteps]] — `أَثَر` · footsteps
+- [[nfx - will blown]] — `نَفَخَ` · will blown
 - [[mdynp - city]] — `مَدِينَة` · city
 - [[ErD - its width]] — `عَرَضَ` · its width
-- [[>HSY - best calculated]] — `أَحْصَى` · best calculated
-- [[Hwt - fish]] — `حُوت` · fish
-- [[lq - you meet]] — `لَقُ` · you meet
-- [[y&Ax* - blame me]] — `يُؤاخِذُ` · blame me
-- [[zEm - claim]] — `زَعَمَ` · claim
+- [[hzw - ridicule]] — `هُزُو` · ridicule
+- [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
 - [[Ejb - wonder]] — `عَجِبُ` · wonder
+- [[mk - we established]] — `مَكَّ` · we established
+- [[ftY - boy]] — `فَتَى` · boy
 - [[SAHb - companion]] — `صاحِب` · companion
-- [[nkr - terrible]] — `نَكِرَ` · terrible
+- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
 
 ## Roots
 
 - [[$Er - name]]
 - [[$TT - exceed just limit]]
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
-- [[$fq - shfq]]
-- [[$hd - shhd]]
+- [[$fq - fear]]
+- [[$hd - witnessing]]
 - [[$ml - include encompass something]]
 - [[$ms - horse refusing ridden]]
-- [[$rb - shrb]]
+- [[$rb - drink]]
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*rE - forearm]]
 - [[*rr - scattering dispersing small]]
-- [[>*n - adhn]]
+- [[>*n - ear]]
 - [[>Hd - anyone]]
-- [[>bd - abad]]
-- [[>bw - abw]]
-- [[>by - aby]]
-- [[>dm - adm]]
+- [[>bd - absolute long]]
+- [[>bw - forefathers]]
+- [[>by - refuse]]
+- [[>dm - seasoned food]]
 - [[>hl - people house]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>md - period time defined]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
-- [[>rk - ark]]
-- [[>sf - grief]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
+- [[>rk - person staying put]]
+- [[>sf - alas]]
 - [[>ty - give]]
-- [[>vr - athr]]
-- [[>wl - like milk oil]]
+- [[>vr - trace]]
+- [[>wl - return revert original]]
 - [[>wy - betake oneself place]]
 - [[>x* - take]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[Drb - tent]]
-- [[DyE - dye]]
-- [[Dyf - dyf]]
-- [[E$w - eshw]]
-- [[E*b - edhb]]
+- [[Drb - strike beat]]
+- [[DyE - perishing]]
+- [[Dyf - inclining]]
+- [[E$w - eating evening meal]]
+- [[E*b - motes particles floating]]
 - [[E*r - excuse free blame]]
 - [[ESy - disobey]]
 - [[Ebd - worship]]
 - [[Edd - count]]
-- [[Edw - enemy]]
+- [[Edw - turn]]
 - [[Ejb - amazing]]
 
 ## Sample (ayah 1)

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:65 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And you had already known about those who transgressed among you concerning the sabbath, and We said to them, "Be apes, despised."
 
 **English (Yusuf Ali):** And well ye knew those amongst you who transgressed in the matter of the Sabbath: We said to them: "Be ye apes, despised and rejected."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم ان لوگوں کو خوب جانتے ہوں، جو تم میں سے ہفتے کے دن (مچھلی کا شکار کرنے) میں حد سے تجاوز کر گئے تھے، تو ہم نے ان سے کہا کہ ذلیل وخوار بندر ہو جاؤ
 
 [Open on Quran.com](https://quran.com/2/65)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye People of the Book! believe in what We have (now) revealed, confirming what was (already) with you, before We change the face and fame of some (of you) beyond all recognition, and turn them hindwards, or curse them as We cursed the Sabbath-breakers, for the decision of Allah Must be carried out.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے کتاب والو! قبل اس کے کہ ہم لوگوں کے مونہوں کو بگاڑ کر ان کی پیٹھ کی طرف پھیر دیں یا ان پر اس طرح لعنت کریں جس طرح ہفتے والوں پر کی تھی ہماری نازل کی ہوئی کتاب پر جو تمہاری کتاب کی بھی تصدیق کرتی ہے ایمان لے آؤ اور خدا نے جو حکم فرمایا سو (سمجھ لو کہ) ہوچکا
+
 [Open on Quran.com](https://quran.com/4/47)
 
 #### 4:154 · [[004 An-Nisa]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We raised over them the mount for [refusal of] their covenant; and We said to them, "Enter the gate bowing humbly"; and We said to them, "Do not transgress on the sabbath"; and We took from them a solemn covenant.
 
 **English (Yusuf Ali):** And for their covenant we raised over them (the towering height) of Mount (Sinai); and (on another occasion) we said: "Enter the gate with humility"; and (once again) we commanded them: "Transgress not in the matter of the sabbath." And we took from them a solemn covenant.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان سے عہد لینے کو ہم نے ان پر کوہ طور اٹھا کھڑا کیا اور انہیں حکم دیا کہ (شہر کے) دروازے میں (داخل ہونا تو) سجدہ کرتے ہوئے داخل ہونا اور یہ بھی حکم دیا کہ ہفتے کے دن (مچھلیاں پکڑنے) میں تجاویز (یعنی حکم کے خلاف) نہ کرنا۔ غرض ہم نے ان سے مضبوط عہد لیا
 
 [Open on Quran.com](https://quran.com/4/154)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Ask them concerning the town standing close by the sea. Behold! they transgressed in the matter of the Sabbath. For on the day of their Sabbath their fish did come to them, openly holding up their heads, but on the day they had no Sabbath, they came not: thus did We make a trial of them, for they were given to transgression.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان سے اس گاؤں کا حال تو پوچھو جب لب دریا واقع تھا۔ جب یہ لوگ ہفتے کے دن کے بارے میں حد سے تجاوز کرنے لگے (یعنی) اس وقت کہ ان کے ہفتے کے دن مچھلیاں ان کے سامنے پانی کے اوپر آتیں اور جب ہفتے کا دن نہ ہوتا تو نہ آتیں۔ اسی طرح ہم ان لوگوں کو ان کی نافرمانیوں کے سبب آزمائش میں ڈالنے لگے
+
 [Open on Quran.com](https://quran.com/7/163)
 
 #### 16:124 · [[016 An-Nahl]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The sabbath was only appointed for those who differed over it. And indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ.
 
 **English (Yusuf Ali):** The Sabbath was only made (strict) for those who disagreed (as to its observance); But Allah will judge between them on the Day of Judgment, as to their differences.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہفتے کا دن تو ان ہی لوگوں کے لئے مقرر کیا گیا تھا۔ جنہوں نے اس میں اختلاف کیا۔ اور تمہارا پروردگار قیامت کے دن ان میں ان باتوں کا فیصلہ کردے گا جن میں وہ اختلاف کرتے تھے
 
 [Open on Quran.com](https://quran.com/16/124)
 

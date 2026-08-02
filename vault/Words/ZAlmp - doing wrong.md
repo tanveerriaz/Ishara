@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:102 · [[011 Hud]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And thus is the seizure of your Lord when He seizes the cities while they are committing wrong. Indeed, His seizure is painful and severe.
 
 **English (Yusuf Ali):** Such is the chastisement of thy Lord when He chastises communities in the midst of their wrong: grievous, indeed, and severe is His chastisement.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا پروردگار جب نافرمان بستیوں کو پکڑا کرتا ہے تو اس کی پکڑ اسی طرح کی ہوتی ہے۔ بےشک اس کی پکڑ دکھ دینے والی اور سخت ہے
 
 [Open on Quran.com](https://quran.com/11/102)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** How many were the populations We utterly destroyed because of their iniquities, setting up in their places other peoples?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بہت سی بستیوں کو جو ستمگار تھیں ہلاک کر مارا اور ان کے بعد اور لوگ پیدا کردیئے
+
 [Open on Quran.com](https://quran.com/21/11)
 
 #### 22:45 · [[022 Al-Hajj]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** How many populations have We destroyed, which were given to wrong-doing? They tumbled down on their roofs. And how many wells are lying idle and neglected, and castles lofty and well-built?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور بہت سی بستیاں ہیں کہ ہم نے ان کو تباہ کر ڈالا کہ وہ نافرمان تھیں۔ سو وہ اپنی چھتوں پر گری پڑی ہیں۔ اور (بہت سے) کنوئیں بےکار اور (بہت سے) محل ویران پڑے ہیں
+
 [Open on Quran.com](https://quran.com/22/45)
 
 #### 22:48 · [[022 Al-Hajj]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And for how many a city did I prolong enjoyment while it was committing wrong. Then I seized it, and to Me is the [final] destination.
 
 **English (Yusuf Ali):** And to how many populations did I give respite, which were given to wrong-doing? in the end I punished them. To me is the destination (of all).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بہت سی بستیاں ہیں کہ میں ان کو مہلت دیتا رہا اور وہ نافرمان تھیں۔ پھر میں نے ان کو پکڑ لیا۔ اور میری طرف ہی لوٹ کر آنا ہے
 
 [Open on Quran.com](https://quran.com/22/48)
 

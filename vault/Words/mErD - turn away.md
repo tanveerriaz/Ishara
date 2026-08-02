@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ErD - erd]]
+- [[ErD - turn away]]
 
 ### Meaning
 **turn away** · Lemma **مُعْرِض**
@@ -38,7 +38,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:83 · [[002 Al-Baqarah]]
 
@@ -53,6 +53,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We took the covenant from the Children of Israel, [enjoining upon them], "Do not worship except Allāh; and to parents do good and to relatives, orphans, and the needy. And speak to people good [words] and establish prayer and give zakāh." Then you turned away, except a few of you, and you were refusing.
 
 **English (Yusuf Ali):** And remember We took a covenant from the Children of Israel (to this effect): Worship none but Allah; treat with kindness your parents and kindred, and orphans and those in need; speak fair to the people; be steadfast in prayer; and practise regular charity. Then did ye turn back, except a few among you, and ye backslide (even now).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے بنی اسرائیل سے عہد لیا کہ خدا کے سوا کسی کی عبادت نہ کرنا اور ماں باپ اور رشتہ داروں اور یتیموں اور محتاجوں کے ساتھ بھلائی کرتے رہنا اور لوگوں سے اچھی باتیں کہنا، اور نماز پڑھتے اور زکوٰة دیتے رہنا، تو چند شخصوں کے سوا تم سب (اس عہد سے) منہ پھیر کر پھر بیٹھے
 
 [Open on Quran.com](https://quran.com/2/83)
 
@@ -70,6 +72,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Hast thou not turned Thy vision to those who have been given a portion of the Book? They are invited to the Book of Allah, to settle their dispute, but a party of them Turn back and decline (The arbitration).
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جن کو کتاب (خدا یعنی تورات سے) بہرہ دیا گیا اور وہ (اس) کتاب الله کی طرف بلائے جاتے ہیں تاکہ وہ (ان کے تنازعات کا) ان میں فیصلہ کر دے تو ایک فریق ان میں سے کج ادائی کے ساتھ منہ پھیر لیتا ہے
+
 [Open on Quran.com](https://quran.com/3/23)
 
 #### 6:4 · [[006 Al-Anam]]
@@ -85,6 +89,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And no sign comes to them from the signs of their Lord except that they turn away therefrom.
 
 **English (Yusuf Ali):** But never did a single one of the signs of their Lord reach them, but they turned away therefrom.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا کی نشانیوں میں سے کوئی نشانی ان لوگوں کے پاس نہیں آتی مگر یہ اس سے منہ پھیر لیتے ہیں
 
 [Open on Quran.com](https://quran.com/6/4)
 
@@ -102,6 +108,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If Allah had found in them any good. He would indeed have made them listen: (As it is), if He had made them listen, they would but have turned back and declined (Faith).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا ان میں نیکی (کا مادہ) دیکھتا تو ان کو سننے کی توفیق بخشتا۔ اور اگر (بغیر صلاحیت ہدایت کے) سماعت دیتا تو وہ منہ پھیر کر بھاگ جاتے
+
 [Open on Quran.com](https://quran.com/8/23)
 
 #### 9:76 · [[009 At-Tawbah]]
@@ -117,6 +125,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But when He gave them from His bounty, they were stingy with it and turned away while they refused.
 
 **English (Yusuf Ali):** But when He did bestow of His bounty, they became covetous, and turned back (from their covenant), averse (from its fulfilment).
+
+**Urdu (Fatah Muhammad Jalandhari):** لیکن جب خدا نے ان کو اپنے فضل سے (مال) دیا تو اس میں بخل کرنے لگے اور (اپنے عہد سے) روگردانی کرکے پھر بیٹھے
 
 [Open on Quran.com](https://quran.com/9/76)
 
@@ -134,6 +144,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And how many Signs in the heavens and the earth do they pass by? Yet they turn (their faces) away from them!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور آسمان و زمین میں بہت سی نشانیاں ہیں جن پر یہ گزرتے ہیں اور ان سے اعراض کرتے ہیں
+
 [Open on Quran.com](https://quran.com/12/105)
 
 #### 15:81 · [[015 Al-Hijr]]
@@ -149,6 +161,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We gave them Our signs, but from them they were turning away.
 
 **English (Yusuf Ali):** We sent them Our Signs, but they persisted in turning away from them.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے ان کو اپنی نشانیاں دیں اور وہ ان سے منہ پھرتے رہے
 
 [Open on Quran.com](https://quran.com/15/81)
 
@@ -166,6 +180,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Closer and closer to mankind comes their Reckoning: yet they heed not and they turn away.
 
+**Urdu (Fatah Muhammad Jalandhari):** لوگوں کا حساب (اعمال کا وقت) نزدیک آپہنچا ہے اور وہ غفلت میں (پڑے اس سے) منہ پھیر رہے ہیں
+
 [Open on Quran.com](https://quran.com/21/1)
 
 #### 21:24 · [[021 Al-Anbya]]
@@ -182,6 +198,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or have they taken for worship (other) gods besides him? Say, "Bring your convincing proof: this is the Message of those with me and the Message of those before me." But most of them know not the Truth, and so turn away.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا لوگوں نے خدا کو چھوڑ کر اور معبود بنالئے ہیں۔ کہہ دو کہ (اس بات پر) اپنی دلیل پیش کرو۔ یہ (میری اور) میرے ساتھ والوں کی کتاب بھی ہے اور جو مجھ سے پہلے (پیغمبر) ہوئے ہیں۔ ان کی کتابیں بھی ہیں۔ بلکہ (بات یہ ہے کہ) ان اکثر حق بات کو نہیں جانتے اور اس لئے اس سے منہ پھیر لیتے ہیں
+
 [Open on Quran.com](https://quran.com/21/24)
 
 #### 21:32 · [[021 Al-Anbya]]
@@ -197,6 +215,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We made the sky a protected ceiling, but they, from its signs, are turning away.
 
 **English (Yusuf Ali):** And We have made the heavens as a canopy well guarded: yet do they turn away from the Signs which these things (point to)!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور آسمان کو محفوظ چھت بنایا۔ اس پر بھی وہ ہماری نشانیوں سے منہ پھیر رہے ہیں
 
 [Open on Quran.com](https://quran.com/21/32)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[SlH - slh]]
+- [[SlH - make something good]]
 
 ### Meaning
 **righteous** · Lemma **صالِح**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:62 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who believed and those who were Jews or Christians or Sabeans [before Prophet Muḥammad (ﷺ)] - those [among them] who believed in Allāh and the Last Day and did righteousness - will have their reward with their Lord, and no fear will there be concerning them, nor will they grieve.
 
 **English (Yusuf Ali):** Those who believe (in the Qur'an), and those who follow the Jewish (scriptures), and the Christians and the Sabians,- any who believe in Allah and the Last Day, and work righteousness, shall have their reward with their Lord; on them shall be no fear, nor shall they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ مسلمان ہیں یا یہودی یا عیسائی یا ستارہ پرست، (یعنی کوئی شخص کسی قوم و مذہب کا ہو) جو خدا اور روز قیامت پر ایمان لائے گا، اور نیک عمل کرے گا، تو ایسے لوگوں کو ان (کے اعمال) کا صلہ خدا کے ہاں ملے گا اور (قیامت کے دن) ان کو نہ کسی طرح کا خوف ہوگا اور نہ وہ غم ناک ہوں گے
 
 [Open on Quran.com](https://quran.com/2/62)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And who turns away from the religion of Abraham but such as debase their souls with folly? Him We chose and rendered pure in this world: And he will be in the Hereafter in the ranks of the Righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم کے دین سے کون رو گردانی کر سکتا ہے، بجز اس کے جو نہایت نادان ہو۔ ہم نے ان کو دنیا میں بھی منتخب کیا تھا اور آخرت میں بھی وہ (زمرہٴ) صلحا میں سے ہوں گے
+
 [Open on Quran.com](https://quran.com/2/130)
 
 #### 3:39 · [[003 Ali Imran]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So the angels called him while he was standing in prayer in the chamber, "Indeed, Allāh gives you good tidings of John, confirming a word from Allāh and [who will be] honorable, abstaining [from women], and a prophet from among the righteous."
 
 **English (Yusuf Ali):** While he was standing in prayer in the chamber, the angels called unto him: "Allah doth give thee glad tidings of Yahya, witnessing the truth of a Word from Allah, and (be besides) noble, chaste, and a prophet,- of the (goodly) company of the righteous."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ ابھی عبادت گاہ میں کھڑے نماز ہی پڑھ رہے تھے کہ فرشتوں نے آواز دی کہ (زکریا) خدا تمہیں یحییٰ کی بشارت دیتا ہے جو خدا کے فیض یعنی (عیسیٰ) کی تصدیق کریں گے اور سردار ہوں گے اور عورتوں سے رغبت نہ رکھنے والے اور (خدا کے) پیغمبر (یعنی) نیکو کاروں میں ہوں گے
 
 [Open on Quran.com](https://quran.com/3/39)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "He shall speak to the people in childhood and in maturity. And he shall be (of the company) of the righteous."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ماں کی گود میں اور بڑی عمر کا ہو کر (دونوں حالتوں میں) لوگوں سے (یکساں) گفتگو کرے گا اور نیکو کاروں میں ہوگا
+
 [Open on Quran.com](https://quran.com/3/46)
 
 #### 3:114 · [[003 Ali Imran]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They believe in Allāh and the Last Day, and they enjoin what is right and forbid what is wrong and hasten to good deeds. And those are among the righteous.
 
 **English (Yusuf Ali):** They believe in Allah and the Last Day; they enjoin what is right, and forbid what is wrong; and they hasten (in emulation) in (all) good works: They are in the ranks of the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور) خدا پر اور روز آخرت پر ایمان رکھتے اور اچھے کام کرنےکو کہتے اور بری باتوں سے منع کرتےاور نیکیوں پر لپکتے ہیں اور یہی لوگ نیکوکار ہیں
 
 [Open on Quran.com](https://quran.com/3/114)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** All who obey Allah and the messenger are in the company of those on whom is the Grace of Allah,- of the prophets (who teach), the sincere (lovers of Truth), the witnesses (who testify), and the Righteous (who do good): Ah! what a beautiful fellowship!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا اور اس کے رسول کی اطاعت کرتے ہیں وہ (قیامت کے روز) ان لوگوں کے ساتھ ہوں گے جن پر خدا نے بڑا فضل کیا یعنی انبیاء اور صدیق اور شہید اور نیک لوگ اور ان لوگوں کی رفاقت بہت ہی خوب ہے
+
 [Open on Quran.com](https://quran.com/4/69)
 
 #### 5:69 · [[005 Al-Maidah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who have believed [in Prophet Muḥammad (ﷺ)] and those [before him (ﷺ)] who were Jews or Sabeans or Christians - those [among them] who believed in Allāh and the Last Day and did righteousness - no fear will there be concerning them, nor will they grieve.
 
 **English (Yusuf Ali):** Those who believe (in the Qur'an), those who follow the Jewish (scriptures), and the Sabians and the Christians,- any who believe in Allah and the Last Day, and work righteousness,- on them shall be no fear, nor shall they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا پر اور روز آخرت پر ایمان لائیں گے اور عمل نیک کریں گے خواہ وہ مسلمان ہوں یا یہودی یا ستارہ پرست یا عیسائی ان کو (قیامت کے دن) نہ کچھ خوف ہو گا اور نہ غمناک ہوں گے
 
 [Open on Quran.com](https://quran.com/5/69)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "What cause can we have not to believe in Allah and the truth which has come to us, seeing that we long for our Lord to admit us to the company of the righteous?"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہمیں کیا ہوا ہے کہ خدا پر اور حق بات پر جو ہمارے پاس آئی ہے ایمان نہ لائیں اور ہم امید رکھتے ہیں کہ پروردگار ہم کو نیک بندوں کے ساتھ (بہشت میں) داخل کرے گا
+
 [Open on Quran.com](https://quran.com/5/84)
 
 #### 6:85 · [[006 Al-Anam]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And Zakariya and John, and Jesus and Elias: all in the ranks of the righteous:
 
+**Urdu (Fatah Muhammad Jalandhari):** اور زکریا اور یحییٰ اور عیسیٰ اور الیاس کو بھی۔ یہ سب نیکوکار تھے
+
 [Open on Quran.com](https://quran.com/6/85)
 
 #### 7:73 · [[007 Al-Araf]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And to the Thamūd [We sent] their brother Ṣāliḥ. He said, "O my people, worship Allāh; you have no deity other than Him. There has come to you clear evidence from your Lord. This is the she-camel of Allāh [sent] to you as a sign. So leave her to eat within Allāh's land and do not touch her with harm, lest there seize you a painful punishment.
 
 **English (Yusuf Ali):** To the Thamud people (We sent) Salih, one of their own brethren: He said: "O my people! worship Allah: ye have no other god but Him. Now hath come unto you a clear (Sign) from your Lord! This she-camel of Allah is a Sign unto you: So leave her to graze in Allah's earth, and let her come to no harm, or ye shall be seized with a grievous punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور قوم ثمود کی طرف ان کے بھائی صالح کو بھیجا۔ (تو) صالح نے کہا کہ اے قوم! خدا ہی کی عبادت کرو اس کے سوا تمہارا کوئی معبود نہیں۔ تمہارے پاس تمہارے پروردگار کی طرف سے ایک معجزہ آ چکا ہے۔ (یعنی) یہی خدا کی اونٹنی تمہارے لیے معجزہ ہے۔ تو اسے (آزاد) چھوڑ دو کہ خدا کی زمین میں چرتی پھرے اور تم اسے بری نیت سے ہاتھ بھی نہ لگانا۔ ورنہ عذابِ الیم میں تمہیں پکڑ لے گا
 
 [Open on Quran.com](https://quran.com/7/73)
 

@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:197 · [[002 Al-Baqarah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Ḥajj is [during] well-known months, so whoever has made ḥajj obligatory upon himself therein [by entering the state of iḥrām], there is [to be for him] no sexual relations and no disobedience and no disputing during ḥajj. And whatever good you do - Allāh knows it. And take provisions, but indeed, the best provision is fear of Allāh. And fear Me, O you of understanding.
 
 **English (Yusuf Ali):** For Hajj are the months well known. If any one undertakes that duty therein, Let there be no obscenity, nor wickedness, nor wrangling in the Hajj. And whatever good ye do, (be sure) Allah knoweth it. And take a provision (With you) for the journey, but the best of provisions is right conduct. So fear Me, o ye that are wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** حج کے مہینے (معین ہیں جو) معلوم ہیں تو شخص ان مہینوں میں حج کی نیت کرلے تو حج (کے دنوں) میں نہ عورتوں سے اختلاط کرے نہ کوئی برا کام کرے نہ کسی سے جھگڑے۔ اور جو نیک کام تم کرو گے وہ خدا کو معلوم ہوجائے گا اور زاد راہ (یعنی رستے کا خرچ) ساتھ لے جاؤ کیونکہ بہتر (فائدہ) زاد راہ (کا) پرہیزگاری ہے اور اے اہل عقل مجھ سے ڈرتے رہو
 
 [Open on Quran.com](https://quran.com/2/197)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There is no blame on you if ye divorce women before consummation or the fixation of their dower; but bestow on them (A suitable gift), the wealthy according to his means, and the poor according to his means;- A gift of a reasonable amount is due from those who wish to do the right thing.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے یا ان کا مہر مقرر کرنے سے پہلے طلاق دے دو تو تم پر کچھ گناہ نہیں۔ ہاں ان کو دستور کے مطابق کچھ خرچ ضرور دو (یعنی) مقدور والا اپنے مقدور کے مطابق دے اور تنگدست اپنی حیثیت کے مطابق۔ نیک لوگوں پر یہ ایک طرح کا حق ہے
+
 [Open on Quran.com](https://quran.com/2/236)
 
 #### 2:237 · [[002 Al-Baqarah]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you divorce them before you have touched them and you have already specified for them an obligation, then [give] half of what you specified - unless they forego the right or the one in whose hand is the marriage contract foregoes it. And to forego it is nearer to righteousness. And do not forget graciousness between you. Indeed Allāh, of whatever you do, is Seeing.
 
 **English (Yusuf Ali):** And if ye divorce them before consummation, but after the fixation of a dower for them, then the half of the dower (Is due to them), unless they remit it or (the man's half) is remitted by him in whose hands is the marriage tie; and the remission (of the man's half) is the nearest to righteousness. And do not forget Liberality between yourselves. For Allah sees well all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے سے پہلے طلاق دے دو لیکن مہر مقرر کرچکے ہو تو آدھا مہر دینا ہوگا۔ ہاں اگر عورتیں مہر بخش دیں یا مرد جن کے ہاتھ میں عقد نکاح ہے (اپنا حق) چھوڑ دیں۔ (اور پورا مہر دے دیں تو ان کو اختیار ہے) اور اگر تم مرد لوگ ہ اپنا حق چھوڑ دو تو یہ پرہیزگاری کی بات ہے۔ اور آپس میں بھلائی کرنے کو فراموش نہ کرنا۔ کچھ شک نہیں کہ خدا تمہارے سب کاموں کو دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/2/237)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A sura which We have sent down and which We have ordained in it have We sent down Clear Signs, in order that ye may receive admonition.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ (ایک) سورت ہے جس کو ہم نے نازل کیا اور اس (کے احکام) کو فرض کر دیا، اور اس میں واضح المطالب آیتیں نازل کیں تاکہ تم یاد رکھو
+
 [Open on Quran.com](https://quran.com/24/1)
 
 #### 28:85 · [[028 Al-Qasas]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, [O Muḥammad], He who imposed upon you the Qur’ān will take you back to a place of return. Say, "My Lord is most knowing of who brings guidance and who is in clear error."
 
 **English (Yusuf Ali):** Verily He Who ordained the Qur'an for thee, will bring thee back to the Place of Return. Say: "My Lord knows best who it is that brings true guidance, and who is in manifest error."
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) جس (خدا) نے تم پر قرآن (کے احکام) کو فرض کیا ہے وہ تمہیں بازگشت کی جگہ لوٹا دے گا۔ کہہ دو کہ میرا پروردگار اس شخص کو بھی خوب جانتا ہے جو ہدایت لےکر آیا اور (اس کو بھی) جو صریح گمراہی میں ہے
 
 [Open on Quran.com](https://quran.com/28/85)
 
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There can be no difficulty to the Prophet in what Allah has indicated to him as a duty. It was the practice (approved) of Allah amongst those of old that have passed away. And the command of Allah is a decree determined.
 
+**Urdu (Fatah Muhammad Jalandhari):** پیغمبر پر اس کام میں کچھ تنگی نہیں جو خدا نے ان کے لئے مقرر کردیا۔ اور جو لوگ پہلے گزر چکے ہیں ان میں بھی خدا کا یہی دستور رہا ہے۔ اور خدا کا حکم ٹھیر چکا ہے
+
 [Open on Quran.com](https://quran.com/33/38)
 
 #### 33:50 · [[033 Al-Ahzab]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O Prophet! We have made lawful to thee thy wives to whom thou hast paid their dowers; and those whom thy right hand possesses out of the prisoners of war whom Allah has assigned to thee; and daughters of thy paternal uncles and aunts, and daughters of thy maternal uncles and aunts, who migrated (from Makka) with thee; and any believing woman who dedicates her soul to the Prophet if the Prophet wishes to wed her;- this only for thee, and not for the Believers (at large); We know what We have appointed for them as to their wives and the captives whom their right hands possess;- in order that there should be no difficulty for thee. And Allah is Oft-Forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر ہم نے تمہارے لئے تمہاری بیویاں جن کو تم نے ان کے مہر دے دیئے ہیں حلال کردی ہیں اور تمہاری لونڈیاں جو خدا نے تم کو (کفار سے بطور مال غنیمت) دلوائی ہیں اور تمہارے چچا کی بیٹیاں اور تمہاری پھوپھیوں کی بیٹیاں اور تمہارے ماموؤں کی بیٹیاں اور تمہاری خالاؤں کی بیٹیاں جو تمہارے ساتھ وطن چھوڑ کر آئی ہیں (سب حلال ہیں) اور کوئی مومن عورت اگر اپنے تئیں پیغمبر کو بخش دے (یعنی مہر لینے کے بغیر نکاح میں آنا چاہے) بشرطیکہ پیغمبر بھی ان سے نکاح کرنا چاہیں (وہ بھی حلال ہے لیکن) یہ اجازت (اے محمدﷺ) خاص تم ہی کو ہے سب مسلمانوں کو نہیں۔ ہم نے ان کی بیویوں اور لونڈیوں کے بارے میں جو (مہر واجب الادا) مقرر کردیا ہے ہم کو معلوم ہے (یہ) اس لئے (کیا گیا ہے) کہ تم پر کسی طرح کی تنگی نہ رہے۔ اور خدا بخشنے والا مہربان ہے
+
 [Open on Quran.com](https://quran.com/33/50)
 
 #### 66:2 · [[066 At-Tahrim]]
@@ -155,6 +169,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh has already ordained for you [Muslims] the dissolution of your oaths. And Allāh is your protector, and He is the Knowing, the Wise.
 
 **English (Yusuf Ali):** Allah has already ordained for you, (O men), the dissolution of your oaths (in some cases): and Allah is your Protector, and He is Full of Knowledge and Wisdom.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے تم لوگوں کے لئے تمہاری قسموں کا کفارہ مقرر کردیا ہے۔ اور خدا ہی تمہارا کارساز ہے۔ اور وہ دانا (اور) حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/66/2)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 22:5 · [[022 Al-Hajj]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O people, if you should be in doubt about the Resurrection, then [consider that] indeed, We created you from dust, then from a sperm-drop, then from a clinging clot, and then from a lump of flesh, formed and unformed - that We may show you. And We settle in the wombs whom We will for a specified term, then We bring you out as a child, and then [We develop you] that you may reach your [time of] maturity. And among you is he who is taken in [early] death, and among you is he who is returned to the most decrepit [old] age so that he knows, after [once having] knowledge, nothing. And you see the earth barren, but when We send down upon it rain, it quivers and swells and grows [something] of every beautiful kind.
 
 **English (Yusuf Ali):** O mankind! if ye have a doubt about the Resurrection, (consider) that We created you out of dust, then out of sperm, then out of a leech-like clot, then out of a morsel of flesh, partly formed and partly unformed, in order that We may manifest (our power) to you; and We cause whom We will to rest in the wombs for an appointed term, then do We bring you out as babes, then (foster you) that ye may reach your age of full strength; and some of you are called to die, and some are sent back to the feeblest old age, so that they know nothing after having known (much), and (further), thou seest the earth barren and lifeless, but when We pour down rain on it, it is stirred (to life), it swells, and it puts forth every kind of beautiful growth (in pairs).
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو اگر تم کو مرنے کے بعد جی اُٹھنے میں کچھ شک ہو تو ہم نے تم کو (پہلی بار بھی تو) پیدا کیا تھا (یعنی ابتدا میں) مٹی سے پھر اس سے نطفہ بنا کر۔ پھر اس سے خون کا لوتھڑا بنا کر۔ پھر اس سے بوٹی بنا کر جس کی بناوٹ کامل بھی ہوتی ہے اور ناقص بھی تاکہ تم پر (اپنی خالقیت) ظاہر کردیں۔ اور ہم جس کو چاہتے ہیں ایک میعاد مقرر تک پیٹ میں ٹھہرائے رکھتے ہیں پھر تم کو بچہ بنا کر نکالتے ہیں۔ پھر تم جوانی کو پہنچتے ہو۔ اور بعض (قبل از پیری مرجاتے ہیں اور بعض شیخ فالی ہوجاتے اور بڑھاپے کی) نہایت خراب عمر کی طرف لوٹائے جاتے ہیں کہ بہت کچھ جاننے کے بعد بالکل بےعلم ہوجاتے ہیں۔ اور (اے دیکھنے والے) تو دیکھتا ہے (کہ ایک وقت میں) زمین خشک (پڑی ہوتی ہے) پھر جب ہم اس پر مینہ برساتے ہیں تو شاداب ہوجاتی اور ابھرنے لگتی ہے اور طرح طرح کی بارونق چیزیں اُگاتی ہے
 
 [Open on Quran.com](https://quran.com/22/5)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Now do thou throw thy rod!" But when he saw it moving (of its own accord) as if it had been a snake, he turned back in retreat, and retraced not his steps: "O Moses!" (it was said), "Fear not: truly, in My presence, those called as messengers have no fear,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی لاٹھی ڈال دو۔ جب اُسے دیکھا تو (اس طرح) ہل رہی تھی گویا سانپ ہے تو پیٹھ پھیر کر بھاگے اور پیچھے مڑ کر نہ دیکھا (حکم ہوا کہ) موسیٰ ڈرو مت۔ ہمارے پاس پیغمبر ڈرا نہیں کرتے
+
 [Open on Quran.com](https://quran.com/27/10)
 
 #### 28:31 · [[028 Al-Qasas]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Now do thou throw thy rod!" but when he saw it moving (of its own accord) as if it had been a snake, he turned back in retreat, and retraced not his steps: O Moses!" (It was said), "Draw near, and fear not: for thou art of those who are secure.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ اپنی لاٹھی ڈالدو۔ جب دیکھا کہ وہ حرکت کر رہی ہے گویا سانپ ہے، تو پیٹھ پھیر کر چل دیئے اور پیچھے پھر کر بھی نہ دیکھا۔ (ہم نے کہا کہ) موسٰی آگے آؤ اور ڈرومت تم امن پانے والوں میں ہو
+
 [Open on Quran.com](https://quran.com/28/31)
 
 #### 41:39 · [[041 Fussilat]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And of His signs is that you see the earth stilled, but when We send down upon it rain, it quivers and grows. Indeed, He who has given it life is the Giver of Life to the dead. Indeed, He is over all things competent.
 
 **English (Yusuf Ali):** And among His Signs in this: thou seest the earth barren and desolate; but when We send down rain to it, it is stirred to life and yields increase. Truly, He Who gives life to the (dead) earth can surely give life to (men) who are dead. For He has power over all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے بندے یہ) اسی کی قدرت کے نمونے ہیں کہ تو زمین کو دبی ہوئی (یعنی خشک) دیکھتا ہے۔ جب ہم اس پر پانی برسا دیتے ہیں تو شاداب ہوجاتی اور پھولنے لگتی ہے تو جس نے زمین کو زندہ کیا وہی مردوں کو زندہ کرنے والا ہے۔ بےشک وہ ہر چیز پر قادر ہے
 
 [Open on Quran.com](https://quran.com/41/39)
 

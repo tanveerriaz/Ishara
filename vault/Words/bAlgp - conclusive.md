@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[blg - balagha]]
+- [[blg - reach]]
 
 ### Meaning
 **conclusive** · Lemma **بالِغَة**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:149 · [[006 Al-Anam]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "With Allāh is the far-reaching [i.e., conclusive] argument. If He had willed, He would have guided you all."
 
 **English (Yusuf Ali):** Say: "With Allah is the argument that reaches home: if it had been His will, He could indeed have guided you all."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ خدا ہی کی حجت غالب ہے اگر وہ چاہتا تو تم سب کو ہدایت دے دیتا
 
 [Open on Quran.com](https://quran.com/6/149)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Mature wisdom;- but (the preaching of) Warners profits them not.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کامل دانائی (کی کتاب بھی) لیکن ڈرانا ان کو کچھ فائدہ نہیں دیتا
+
 [Open on Quran.com](https://quran.com/54/5)
 
 #### 68:39 · [[068 Al-Qalam]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or do you have oaths [binding] upon Us, extending until the Day of Resurrection, that indeed for you is whatever you judge?
 
 **English (Yusuf Ali):** Or have ye Covenants with Us to oath, reaching to the Day of Judgment, (providing) that ye shall have whatever ye shall demand?
+
+**Urdu (Fatah Muhammad Jalandhari):** یا تم نے ہم سے قسمیں لے رکھی ہیں جو قیامت کے دن تک چلی جائیں گی کہ جس شے کا تم حکم کرو گے وہ تمہارے لئے حاضر ہوگی
 
 [Open on Quran.com](https://quran.com/68/39)
 

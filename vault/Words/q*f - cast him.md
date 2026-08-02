@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[q*f - qadhf]]
+- [[q*f - throw cast something]]
 
 ### Meaning
 **cast him** · Lemma **قَذَفَ**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 20:39 · [[020 Taha]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Saying], 'Cast him into the chest and cast it into the river, and the river will throw it onto the bank; there will take him an enemy to Me and an enemy to him.' And I bestowed upon you love from Me that you would be brought up under My eye [i.e., observation and care].
 
 **English (Yusuf Ali):** "'Throw (the child) into the chest, and throw (the chest) into the river: the river will cast him up on the bank, and he will be taken up by one who is an enemy to Me and an enemy to him': But I cast (the garment of) love over thee from Me: and (this) in order that thou mayest be reared under Mine eye.
+
+**Urdu (Fatah Muhammad Jalandhari):** (وہ یہ تھا) کہ اسے (یعنی موسیٰ کو) صندوق میں رکھو پھر اس (صندوق) کو دریا میں ڈال دو تو دریا اسے کنارے پر ڈال دے گا (اور) میرا اور اس کا دشمن اسے اٹھا لے گا۔ اور (موسیٰ) میں نے تم پر اپنی طرف سے محبت ڈال دی ہے (اس لئے کہ تم پر مہربانی کی جائے) اور اس لئے کہ تم میرے سامنے پرورش پاؤ
 
 [Open on Quran.com](https://quran.com/20/39)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "We broke not the promise to thee, as far as lay in our power: but we were made to carry the weight of the ornaments of the (whole) people, and we threw them (into the fire), and that was what the Samiri suggested.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ ہم نے اپنے اختیار سے تم سے وعدہ خلاف نہیں کیا۔ بلکہ ہم لوگوں کے زیوروں کا بوجھ اٹھائے ہوئے تھے۔ پھر ہم نے اس کو (آگ میں) ڈال دیا اور اسی طرح سامری نے ڈال دیا
+
 [Open on Quran.com](https://quran.com/20/87)
 
 #### 21:18 · [[021 Al-Anbya]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Rather, We dash the truth upon falsehood, and it destroys it, and thereupon it departs. And for you is destruction from that which you describe.
 
 **English (Yusuf Ali):** Nay, We hurl the Truth against falsehood, and it knocks out its brain, and behold, falsehood doth perish! Ah! woe be to you for the (false) things ye ascribe (to Us).
+
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ ہم سچ کو جھوٹ پر کھینچ مارتے ہیں تو وہ اس کا سر توڑ دیتا ہے اور جھوٹ اسی وقت نابود ہوجاتا ہے۔ اور جو باتیں تم بناتے ہو ان سے تمہاری ہی خرابی ہے
 
 [Open on Quran.com](https://quran.com/21/18)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And those of the People of the Book who aided them - Allah did take them down from their strongholds and cast terror into their hearts. (So that) some ye slew, and some ye made prisoners.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اہل کتاب میں سے جنہوں نے اُن کی مدد کی تھی اُن کو اُن کے قلعوں سے اُتار دیا اور اُن کے دلوں میں دہشت ڈال دی۔ تو کتنوں کو تم قتل کر دیتے تھے اور کتنوں کو قید کرلیتے تھے
+
 [Open on Quran.com](https://quran.com/33/26)
 
 #### 34:48 · [[034 Saba]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "Indeed, my Lord projects the truth, Knower of the unseen."
 
 **English (Yusuf Ali):** Say: "Verily my Lord doth cast the (mantle of) Truth (over His servants),- He that has full knowledge of (all) that is hidden."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میرا پروردگار اوپر سے حق اُتارتا ہے (اور وہ) غیب کی باتوں کا جاننے والا ہے
 
 [Open on Quran.com](https://quran.com/34/48)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Seeing that they did reject Faith (entirely) before, and that they (continually) cast (slanders) on the unseen from a position far off?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور پہلے تو اس سے انکار کرتے رہے اور بن دیکھے دور ہی سے (ظن کے) تیر چلاتے رہے
+
 [Open on Quran.com](https://quran.com/34/53)
 
 #### 37:8 · [[037 As-Saffat]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (So) they should not strain their ears in the direction of the Exalted Assembly but be cast away from every side,
 
+**Urdu (Fatah Muhammad Jalandhari):** کہ اوپر کی مجلس کی طرف کان نہ لگاسکیں اور ہر طرف سے (ان پر انگارے) پھینکے جاتے ہیں
+
 [Open on Quran.com](https://quran.com/37/8)
 
 #### 59:2 · [[059 Al-Hashr]]
@@ -156,6 +170,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is He who expelled the ones who disbelieved among the People of the Scripture from their homes at the first gathering. You did not think they would leave, and they thought that their fortresses would protect them from Allāh; but [the decree of] Allāh came upon them from where they had not expected, and He cast terror into their hearts [so] they destroyed their houses by their [own] hands and the hands of the believers. So take warning, O people of vision.
 
 **English (Yusuf Ali):** It is He Who got out the Unbelievers among the People of the Book from their homes at the first gathering (of the forces). Little did ye think that they would get out: And they thought that their fortresses would defend them from Allah! But the (Wrath of) Allah came to them from quarters from which they little expected (it), and cast terror into their hearts, so that they destroyed their dwellings by their own hands and the hands of the Believers, take warning, then, O ye with eyes (to see)!
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے کفار اہل کتاب کو حشر اول کے وقت ان کے گھروں سے نکال دیا۔ تمہارے خیال میں بھی نہ تھا کہ وہ نکل جائیں گے اور وہ لوگ یہ سمجھے ہوئے تھے کہ ان کے قلعے ان کو خدا (کے عذاب) سے بچا لیں گے۔ مگر خدا نے ان کو وہاں سے آ لیا جہاں سے ان کو گمان بھی نہ تھا۔ اور ان کے دلوں میں دہشت ڈال دی کہ اپنے گھروں کو خود اپنے ہاتھوں اور مومنوں کے ہاتھوں سے اُجاڑنے لگے تو اے (بصیرت کی) آنکھیں رکھنے والو عبرت پکڑو
 
 [Open on Quran.com](https://quran.com/59/2)
 

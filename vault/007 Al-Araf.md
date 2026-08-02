@@ -16,81 +16,81 @@ The Heights · 206 ayahs
 
 - [[ml> - chiefs]] — `مَلَأ` · chiefs
 - [[nAdY - he called]] — `نادَى` · he called
-- [[EAd - aad]] — `عادَ` · aad
 - [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
-- [[>njY - we saved]] — `أَنجَى` · we saved
 - [[rsAlp - messages]] — `رِسالَة` · messages
-- [[xlf - behind them]] — `خَلْف` · behind them
-- [[b>s - punishment]] — `بَأْس` · punishment
-- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[EAd - aad]] — `عادَ` · aad
+- [[>njY - we saved]] — `أَنجَى` · we saved
 - [[mfsd - corrupters]] — `مُفْسِد` · corrupters
-- [[EAqbp - end]] — `عاقِبَة` · end
-- [[qryp - town]] — `قَرْيَة` · town
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[Eyn - eyes]] — `عَيْن` · eyes
+- [[sw'p - shame]] — `سَوْءَة` · shame
+- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
 - [[qS - we relate]] — `قَصَّ` · we relate
 - [[qTE - cut off]] — `قُطِعَ` · cut off
+- [[xlf - behind them]] — `خَلْف` · behind them
+- [[EAqbp - end]] — `عاقِبَة` · end
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
 - [[>*n - ears]] — `أُذُن` · ears
-- [[sw'p - shame]] — `سَوْءَة` · shame
-- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
+- [[Eyn - eyes]] — `عَيْن` · eyes
 - [[sAHr - magician]] — `ساحِر` · magician
-- [[ESA - staff]] — `عَصا` · staff
-- [[>wrv - we caused inherit]] — `أَوْرَثَ` · we caused inherit
-- [[bgY - seek it]] — `بَغَى` · seek it
-- [[myzAn - scales]] — `مِيزان` · scales
-- [[Srf - we explain]] — `صَرَفَ` · we explain
+- [[b>s - punishment]] — `بَأْس` · punishment
+- [[qryp - town]] — `قَرْيَة` · town
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[>n*r - warn]] — `أَنذَرَ` · warn
+- [[rjz - punishment]] — `رِجْز` · punishment
+- [[ynAl - reach]] — `يَنالُ` · reach
+- [[wsE - its capacity]] — `وُسْع` · its capacity
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
 - [[$fE - make something pair]]
-- [[$hd - shhd]]
-- [[$hw - shhw]]
-- [[$jr - shjr]]
-- [[$kr - shkr]]
+- [[$hd - witnessing]]
+- [[$hw - they desire]]
+- [[$jr - trees]]
+- [[$kr - gratitude]]
 - [[$ml - include encompass something]]
 - [[$ms - horse refusing ridden]]
 - [[$rE - enter water drink]]
-- [[$rb - shrb]]
+- [[$rb - drink]]
 - [[$rk - sharing partnership]]
-- [[$rq - east]]
+- [[$rq - earth]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[*ll - humiliation]]
 - [[*nb - tail]]
 - [[*r> - create]]
 - [[*rr - scattering dispersing small]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
+- [[*wq - taste]]
+- [[>*n - ear]]
 - [[>*y - hurt]]
 - [[>Hd - anyone]]
 - [[>Sl - foundational part something]]
-- [[>Sr - asr 2]]
-- [[>bw - abw]]
-- [[>dm - adm]]
-- [[>fk - afk]]
+- [[>Sr - things bind tie]]
+- [[>bw - forefathers]]
+- [[>dm - seasoned food]]
+- [[>fk - turn something away]]
 - [[>hl - people house]]
 - [[>jl - term]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>lw - ila]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
-- [[>sf - grief]]
-- [[>sw - asw]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
+- [[>sf - alas]]
+- [[>sw - grieve]]
 - [[>ty - give]]
-- [[>vm - athm]]
-- [[>wl - like milk oil]]
+- [[>vm - sin commit crime]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
 
 ## Sample (ayah 1)

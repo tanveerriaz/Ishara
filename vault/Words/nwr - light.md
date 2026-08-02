@@ -43,7 +43,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:17 · [[002 Al-Baqarah]]
 
@@ -58,6 +58,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Their example is that of one who kindled a fire, but when it illuminated what was around him, Allāh took away their light and left them in darkness [so] they could not see.
 
 **English (Yusuf Ali):** Their similitude is that of a man who kindled a fire; when it lighted all around him, Allah took away their light and left them in utter darkness. So they could not see.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کی مثال اس شخص کی سی ہے کہ جس نے (شبِ تاریک میں) آگ جلائی۔ جب آگ نے اس کے اردگرد کی چیزیں روشن کیں تو خدا نے ان کی روشنی زائل کر دی اور ان کو اندھیروں میں چھوڑ دیا کہ کچھ نہیں دیکھتے
 
 [Open on Quran.com](https://quran.com/2/17)
 
@@ -75,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah is the Protector of those who have faith: from the depths of darkness He will lead them forth into light. Of those who reject faith the patrons are the evil ones: from light they will lead them forth into the depths of darkness. They will be companions of the fire, to dwell therein (For ever).
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے ہیں ان کا دوست خدا ہے کہ اُن کو اندھیرے سے نکال کر روشنی میں لے جاتا ہے اور جو کافر ہیں ان کے دوست شیطان ہیں کہ ان کو روشنی سے نکال کر اندھیرے میں لے جاتے ہیں یہی لوگ اہل دوزخ ہیں کہ اس میں ہمیشہ رہیں گے
+
 [Open on Quran.com](https://quran.com/2/257)
 
 #### 4:174 · [[004 An-Nisa]]
@@ -90,6 +94,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O mankind, there has come to you a conclusive proof from your Lord, and We have sent down to you a clear light.
 
 **English (Yusuf Ali):** O mankind! verily there hath come to you a convincing proof from your Lord: For We have sent unto you a light (that is) manifest.
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو تمہارے پروردگار کی طرف سے تمہارے پاس دلیل (روشن) آچکی ہے اور ہم نے (کفر اور ضلالت کا اندھیرا دور کرنے کو) تمہاری طرف چمکتا ہوا نور بھیج دیا ہے
 
 [Open on Quran.com](https://quran.com/4/174)
 
@@ -107,6 +113,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O people of the Book! There hath come to you our Messenger, revealing to you much that ye used to hide in the Book, and passing over much (that is now unnecessary): There hath come to you from Allah a (new) light and a perspicuous Book, -
 
+**Urdu (Fatah Muhammad Jalandhari):** اے اہل کتاب! تمہارے پاس ہمارے پیغمبر (آخرالزماں) آ گئے ہیں کہ جو کچھ تم کتاب (الہٰی) میں سے چھپاتے تھے وہ اس میں سے بہت کچھ تمہیں کھول کھول کر بتا دیتے ہیں اور تمہارے بہت سے قصور معاف کر دیتے ہیں بےشک تمہارے پاس خدا کی طرف سے نور اور روشن کتاب آ چکی ہے
+
 [Open on Quran.com](https://quran.com/5/15)
 
 #### 5:16 · [[005 Al-Maidah]]
@@ -122,6 +130,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** By which Allāh guides those who pursue His pleasure to the ways of peace and brings them out from darknesses into the light, by His permission, and guides them to a straight path.
 
 **English (Yusuf Ali):** Wherewith Allah guideth all who seek His good pleasure to ways of peace and safety, and leadeth them out of darkness, by His will, unto the light,- guideth them to a path that is straight.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس سے خدا اپنی رضا پر چلنے والوں کو نجات کے رستے دکھاتا ہے اور اپنے حکم سے اندھیرے میں سے نکال کر روشنی کی طرف لے جاتا اور ان کو سیدھے رستہ پر چلاتا ہے
 
 [Open on Quran.com](https://quran.com/5/16)
 
@@ -139,6 +149,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It was We who revealed the law (to Moses): therein was guidance and light. By its standard have been judged the Jews, by the prophets who bowed (as in Islam) to Allah's will, by the rabbis and the doctors of law: for to them was entrusted the protection of Allah's book, and they were witnesses thereto: therefore fear not men, but fear me, and sell not my signs for a miserable price. If any do fail to judge by (the light of) what Allah hath revealed, they are (no better than) Unbelievers.
 
+**Urdu (Fatah Muhammad Jalandhari):** بیشک ہم نے توریت نازل فرمائی جس میں ہدایت اور روشنی ہے اسی کے مطابق انبیاء جو (خدا کے) فرمانبردار تھے یہودیوں کو حکم دیتے رہے ہیں اور مشائخ اور علماء بھی کیونکہ وہ کتاب خدا کے نگہبان مقرر کیے گئے تھے اور اس پر گواہ تھے (یعنی حکم الہٰی کا یقین رکھتے تھے) تو تم لوگوں سے مت ڈرنا اور مجھی سے ڈرتے رہنا اور میری آیتوں کے بدلے تھوڑی سی قیمت نہ لینا اور جو خدا کے نازل فرمائے ہوئے احکام کے مطابق حکم نہ دے تو ایسے ہی لوگ کافر ہیں
+
 [Open on Quran.com](https://quran.com/5/44)
 
 #### 5:46 · [[005 Al-Maidah]]
@@ -154,6 +166,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We sent, following in their footsteps, Jesus, the son of Mary, confirming that which came before him in the Torah; and We gave him the Gospel, in which was guidance and light and confirming that which preceded it of the Torah as guidance and instruction for the righteous.
 
 **English (Yusuf Ali):** And in their footsteps We sent Jesus the son of Mary, confirming the Law that had come before him: We sent him the Gospel: therein was guidance and light, and confirmation of the Law that had come before him: a guidance and an admonition to those who fear Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان پیغمبروں کے بعد انہی کے قدموں پر ہم نے عیسیٰ بن مریم کو بھیجا جو اپنے سے پہلے کی کتاب تورات کی تصدیق کرتے تھے اور ان کو انجیل عنایت کی جس میں ہدایت اور نور ہے اور تورات کی جو اس سے پہلی کتاب (ہے) تصدیق کرتی ہے اور پرہیزگاروں کو راہ بتاتی اور نصیحت کرتی ہے
 
 [Open on Quran.com](https://quran.com/5/46)
 
@@ -171,6 +185,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Praise be Allah, Who created the heavens and the earth, and made the darkness and the light. Yet those who reject Faith hold (others) as equal, with their Guardian-Lord.
 
+**Urdu (Fatah Muhammad Jalandhari):** ہر طرح کی تعریف خدا ہی کو سزاوار ہے جس نے آسمانوں اور زمین کو پیدا کیا اور اندھیرا اور روشنی بنائی پھر بھی کافر (اور چیزوں کو) خدا کے برابر ٹھیراتے ہیں
+
 [Open on Quran.com](https://quran.com/6/1)
 
 #### 6:91 · [[006 Al-Anam]]
@@ -187,6 +203,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** No just estimate of Allah do they make when they say: "Nothing doth Allah send down to man (by way of revelation)" Say: "Who then sent down the Book which Moses brought?- a light and guidance to man: But ye make it into (separate) sheets for show, while ye conceal much (of its contents): therein were ye taught that which ye knew not- neither ye nor your fathers." Say: "Allah (sent it down)": Then leave them to plunge in vain discourse and trifling.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے خدا کی قدر جیسی جاننی چاہیئے تھی نہ جانی۔ جب انہوں نے کہا کہ خدا نے انسان پر (وحی اور کتاب وغیرہ) کچھ بھی نازل نہیں کیا۔ کہو جو کتاب موسیٰ لے کر آئے تھے اسے کس نے نازل کیا تھا جو لوگوں کے لئے نور اور ہدایت تھی اور جسے تم نے علیحدہ علیحدہ اوراق (پر نقل) کر رکھا ہے ان (کے کچھ حصے) کو تو ظاہر کرتے ہو اور اکثر کو چھپاتے ہو۔ اور تم کو وہ باتیں سکھائی گئیں جن کو نہ تم جانتے تھے اور نہ تمہارے باپ دادا۔ کہہ دو (اس کتاب کو) خدا ہی نے (نازل کیا تھا) پھر ان کو چھوڑ دیا کہ اپنی بیہودہ بکواس میں کھیلتے رہیں
+
 [Open on Quran.com](https://quran.com/6/91)
 
 #### 6:122 · [[006 Al-Anam]]
@@ -202,6 +220,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And is one who was dead and We gave him life and made for him light by which to walk among the people like one who is in darkness, never to emerge therefrom? Thus it has been made pleasing to the disbelievers that which they were doing.
 
 **English (Yusuf Ali):** Can he who was dead, to whom We gave life, and a light whereby he can walk amongst men, be like him who is in the depths of darkness, from which he can never come out? Thus to those without faith their own deeds seem pleasing.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جو پہلے مردہ تھا پھر ہم نے اس کو زندہ کیا اور اس کے لیے روشنی کر دی جس کے ذریعے سے وہ لوگوں میں چلتا پھرتا ہے کہیں اس شخص جیسا ہو سکتا ہے جو اندھیرے میں پڑا ہوا ہو اور اس سے نکل ہی نہ سکے اسی طرح کافر جو عمل کر رہے ہیں وہ انہیں اچھے معلوم ہوتے ہیں
 
 [Open on Quran.com](https://quran.com/6/122)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[swy - swy]]
+- [[swy - make even]]
 
 ### Meaning
 **proportioned it** · Lemma **سَوَّى**
@@ -35,7 +35,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:29 · [[002 Al-Baqarah]]
 
@@ -50,6 +50,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is He who created for you all of that which is on the earth. Then He directed Himself to the heaven, [His being above all creation], and made them seven heavens, and He is Knowing of all things.
 
 **English (Yusuf Ali):** It is He Who hath created for you all things that are on earth; Moreover His design comprehended the heavens, for He gave order and perfection to the seven firmaments; and of all things He hath perfect knowledge.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سب چیزیں جو زمین میں ہیں تمہارے لیے پیدا کیں پھر آسمان کی طرف متوجہ ہوا تو ان کو ٹھیک سات آسمان بنا دیا اور وہ ہر چیز سے خبردار ہے
 
 [Open on Quran.com](https://quran.com/2/29)
 
@@ -67,6 +69,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "When I have fashioned him (in due proportion) and breathed into him of My spirit, fall ye down in obeisance unto him."
 
+**Urdu (Fatah Muhammad Jalandhari):** جب اس کو (صورت انسانیہ میں) درست کر لوں اور اس میں اپنی (بےبہا چیز یعنی) روح پھونک دوں تو اس کے آگے سجدے میں گر پڑنا
+
 [Open on Quran.com](https://quran.com/15/29)
 
 #### 18:37 · [[018 Al-Kahf]]
@@ -82,6 +86,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** His companion said to him while he was conversing with him, "Have you disbelieved in He who created you from dust and then from a sperm-drop and then proportioned you [as] a man?
 
 **English (Yusuf Ali):** His companion said to him, in the course of the argument with him: "Dost thou deny Him Who created thee out of dust, then out of a sperm-drop, then fashioned thee into a man?
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اس کا دوست جو اس سے گفتگو کر رہا تھا کہنے لگا کہ کیا تم اس (خدا) سے کفر کرتے ہو جس نے تم کو مٹی سے پیدا کیا پھر نطفے سے پھر تمہیں پورا مرد بنایا
 
 [Open on Quran.com](https://quran.com/18/37)
 
@@ -99,6 +105,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "But we can surely produce magic to match thine! So make a tryst between us and thee, which we shall not fail to keep - neither we nor thou - in a place where both shall have even chances."
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم بھی تمہارے مقابل ایسا ہی جادو لائیں گے تو ہمارے اور اپنے درمیان ایک وقت مقرر کر لو کہ نہ تو ہم اس کے خلاف کریں اور نہ تم (اور یہ مقابلہ) ایک ہموار میدان میں (ہوگا)
+
 [Open on Quran.com](https://quran.com/20/58)
 
 #### 26:98 · [[026 Ash-Shuara]]
@@ -114,6 +122,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** When we equated you with the Lord of the worlds.
 
 **English (Yusuf Ali):** "'When we held you as equals with the Lord of the Worlds;
+
+**Urdu (Fatah Muhammad Jalandhari):** جب کہ تمہیں (خدائے) رب العالمین کے برابر ٹھہراتے تھے
 
 [Open on Quran.com](https://quran.com/26/98)
 
@@ -131,6 +141,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But He fashioned him in due proportion, and breathed into him something of His spirit. And He gave you (the faculties of) hearing and sight and feeling (and understanding): little thanks do ye give!
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر اُس کو درست کیا پھر اس میں اپنی( طرف سے) روح پھونکی اور تمہارے کان اور آنکھیں اور دل بنائے مگر تم بہت کم شکر کرتے ہو
+
 [Open on Quran.com](https://quran.com/32/9)
 
 #### 38:72 · [[038 Sad]]
@@ -146,6 +158,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration."
 
 **English (Yusuf Ali):** "When I have fashioned him (in due proportion) and breathed into him of My spirit, fall ye down in obeisance unto him."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب اس کو درست کرلوں اور اس میں اپنی روح پھونک دوں تو اس کے آگے سجدے میں گر پڑنا
 
 [Open on Quran.com](https://quran.com/38/72)
 
@@ -163,6 +177,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nay, We are able to put together in perfect order the very tips of his fingers.
 
+**Urdu (Fatah Muhammad Jalandhari):** ضرور کریں گے (اور) ہم اس بات پر قادر ہیں کہ اس کی پور پور درست کردیں
+
 [Open on Quran.com](https://quran.com/75/4)
 
 #### 75:38 · [[075 Al-Qiyamah]]
@@ -179,6 +195,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then did he become a leech-like clot; then did (Allah) make and fashion (him) in due proportion.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر لوتھڑا ہوا پھر (خدا نے) اس کو بنایا پھر (اس کے اعضا کو) درست کیا
+
 [Open on Quran.com](https://quran.com/75/38)
 
 #### 79:28 · [[079 An-Naziat]]
@@ -194,6 +212,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He raised its ceiling and proportioned it.
 
 **English (Yusuf Ali):** On high hath He raised its canopy, and He hath given it order and perfection.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کی چھت کو اونچا کیا اور پھر اسے برابر کر دیا
 
 [Open on Quran.com](https://quran.com/79/28)
 

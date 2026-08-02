@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fqh - fqh]]
+- [[fqh - understand]]
 
 ### Meaning
 **understand** · Lemma **يَفْقَهُ**
@@ -35,7 +35,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:78 · [[004 An-Nisa]]
 
@@ -50,6 +50,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Wherever you may be, death will overtake you, even if you should be within towers of lofty construction. But if good comes to them, they say, "This is from Allāh"; and if evil befalls them, they say, "This is from you." Say, "All [things] are from Allāh." So what is [the matter] with those people that they can hardly understand any statement?
 
 **English (Yusuf Ali):** "Wherever ye are, death will find you out, even if ye are in towers built up strong and high!" If some good befalls them, they say, "This is from Allah"; but if evil, they say, "This is from thee" (O Prophet). Say: "All things are from Allah." But what hath come to these people, that they fail to understand a single fact?
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے جہاد سے ڈرنے والو) تم کہیں رہو موت تو تمہیں آ کر رہے گی خواہ بڑے بڑے محلوں میں رہو اور ان لوگوں کو اگر کوئی فائدہ پہنچتا ہے تو کہتے ہیں یہ خدا کی طرف سے ہے اور اگر کوئی گزند پہنچتا ہے تو (اے محمدﷺ تم سے) کہتے ہیں کہ یہ گزند آپ کی وجہ سے (ہمیں پہنچا) ہے کہہ دو کہ (رنج وراحت) سب الله ہی کی طرف سے ہے ان لوگوں کو کیا ہوگیا ہے کہ بات بھی نہیں سمجھ سکتے
 
 [Open on Quran.com](https://quran.com/4/78)
 
@@ -67,6 +69,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Of them there are some who (pretend to) listen to thee; but We have thrown veils on their hearts, So they understand it not, and deafness in their ears; if they saw every one of the signs, not they will believe in them; in so much that when they come to thee, they (but) dispute with thee; the Unbelievers say: "These are nothing but tales of the ancients."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں بعض ایسے ہیں کہ تمہاری (باتوں کی) طرف کان رکھتے ہیں۔ اور ہم نے ان کے دلوں پر تو پردے ڈال دیئے ہیں کہ ان کو سمجھ نہ سکیں اور کانوں میں ثقل پیدا کردیا ہے (کہ سن نہ سکیں) اور اگر یہ تمام نشانیاں بھی دیکھ لیں تب بھی ان پر ایمان نہ لائیں۔ یہاں تک کہ جب تمہارے پاس تم سے بحث کرنے کو آتے ہیں تو جو کافر ہیں کہتے ہیں یہ (قرآن) اور کچھ بھی نہیں صرف پہلے لوگوں کی کہانیاں ہیں
+
 [Open on Quran.com](https://quran.com/6/25)
 
 #### 6:65 · [[006 Al-Anam]]
@@ -82,6 +86,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "He is the [one] Able to send upon you affliction from above you or from beneath your feet or to confuse you [so you become] sects and make you taste the violence of one another." Look how We diversify the signs that they might understand.
 
 **English (Yusuf Ali):** Say: "He hath power to send calamities on you, from above and below, or to cover you with confusion in party strife, giving you a taste of mutual vengeance - each from the other." See how We explain the signs by various (symbols); that they may understand.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ وہ (اس پر بھی) قدرت رکھتا ہے کہ تم پر اوپر کی طرف سے یا تمہارے پاؤں کے نیچے سے عذاب بھیجے یا تمہیں فرقہ فرقہ کردے اور ایک کو دوسرے (سے لڑا کر آپس) کی لڑائی کا مزہ چکھادے۔ دیکھو ہم اپنی آیتوں کو کس کس طرح بیان کرتے ہیں تاکہ یہ لوگ سمجھیں
 
 [Open on Quran.com](https://quran.com/6/65)
 
@@ -99,6 +105,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who hath produced you from a single person: here is a place of sojourn and a place of departure: We detail Our signs for people who understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے تم کو ایک شخص سے پیدا کیا۔ پھر (تمہارے لئے) ایک ٹھہرنے کی جگہ ہے اور ایک سپرد ہونے کی سمجھنے والوں کے لئے ہم نے (اپنی) آیتیں کھول کھول کر بیان کردی ہیں
+
 [Open on Quran.com](https://quran.com/6/98)
 
 #### 7:179 · [[007 Al-Araf]]
@@ -114,6 +122,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have certainly created for Hell many of the jinn and mankind. They have hearts with which they do not understand, they have eyes with which they do not see, and they have ears with which they do not hear. Those are like livestock; rather, they are more astray. It is they who are the heedless.
 
 **English (Yusuf Ali):** Many are the Jinns and men we have made for Hell: They have hearts wherewith they understand not, eyes wherewith they see not, and ears wherewith they hear not. They are like cattle,- nay more misguided: for they are heedless (of warning).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بہت سے جن اور انسان دوزخ کے لیے پیدا کیے ہیں۔ ان کے دل ہیں لیکن ان سے سمجھتے نہیں اور ان کی آنکھیں ہیں مگر ان سے دیکھتے نہیں اور ان کے کان ہیں پر ان سے سنتے نہیں۔ یہ لوگ بالکل چارپایوں کی طرح ہیں بلکہ ان سے بھی بھٹکے ہوئے۔ یہی وہ ہیں جو غفلت میں پڑے ہوئے ہیں
 
 [Open on Quran.com](https://quran.com/7/179)
 
@@ -131,6 +141,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O Prophet! rouse the Believers to the fight. If there are twenty amongst you, patient and persevering, they will vanquish two hundred: if a hundred, they will vanquish a thousand of the Unbelievers: for these are a people without understanding.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی! مسلمانوں کو جہاد کی ترغیب دو۔ اور اگر تم بیس آدمی ثابت قدم رہنے والے ہوں گے تو دو سو کافروں پر غالب رہیں گے۔ اور اگر سو (ایسے) ہوں گے تو ہزار پر غالب رہیں گے۔ اس لیے کہ کافر ایسے لوگ ہیں کہ کچھ بھی سمجھ نہیں رکھتے
+
 [Open on Quran.com](https://quran.com/8/65)
 
 #### 9:81 · [[009 At-Tawbah]]
@@ -146,6 +158,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who remained behind rejoiced in their staying [at home] after [the departure of] the Messenger of Allāh and disliked to strive with their wealth and their lives in the cause of Allāh and said, "Do not go forth in the heat." Say, "The fire of Hell is more intense in heat" - if they would but understand.
 
 **English (Yusuf Ali):** Those who were left behind (in the Tabuk expedition) rejoiced in their inaction behind the back of the Messenger of Allah: they hated to strive and fight, with their goods and their persons, in the cause of Allah: they said, "Go not forth in the heat." Say, "The fire of Hell is fiercer in heat." If only they could understand!
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (غزوہٴ تبوک میں) پیچھے رہ گئے وہ پیغمبر خدا (کی مرضی) کے خلاف بیٹھے رہنے سے خوش ہوئے اور اس بات کو ناپسند کیا کہ خدا کی راہ میں اپنے مال اور جان سے جہاد کریں۔ اور (اوروں سے بھی) کہنے لگے کہ گرمی میں مت نکلنا۔ (ان سے) کہہ دو کہ دوزخ کی آگ اس سے کہیں زیادہ گرم ہے۔ کاش یہ (اس بات) کو سمجھتے
 
 [Open on Quran.com](https://quran.com/9/81)
 
@@ -163,6 +177,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They prefer to be with (the women), who remain behind (at home): their hearts are sealed and so they understand not.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس بات سے خوش ہیں کہ عورتوں کے ساتھ جو پیچھے رہ جاتی ہیں۔ (گھروں میں بیٹھ) رہیں ان کے دلوں پر مہر لگا دی گئی ہے تو یہ سمجھتے ہی نہیں
+
 [Open on Quran.com](https://quran.com/9/87)
 
 #### 9:127 · [[009 At-Tawbah]]
@@ -179,6 +195,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whenever there cometh down a Sura, they look at each other, (saying), "Doth anyone see you?" Then they turn aside: Allah hath turned their hearts (from the light); for they are a people that understand not.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب کوئی سورت نازل ہوتی ہے ایک دوسرے کی جانب دیکھنے لگتے ہیں (اور پوچھتے ہیں کہ) بھلا تمہیں کوئی دیکھتا ہے پھر پھر جاتے ہیں۔ خدا نے ان کے دلوں کو پھیر رکھا ہے کیونکہ یہ ایسے لوگ ہیں کہ سمجھ سے کام نہیں لیتے
+
 [Open on Quran.com](https://quran.com/9/127)
 
 #### 11:91 · [[011 Hud]]
@@ -194,6 +212,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "O Shuʿayb, we do not understand much of what you say, and indeed, we consider you among us as weak. And if not for your family, we would have stoned you [to death]; and you are not to us one respected."
 
 **English (Yusuf Ali):** They said: "O Shu'aib! much of what thou sayest we do not understand! In fact among us we see that thou hast no strength! Were it not for thy family, we should certainly have stoned thee! for thou hast among us no great position!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اُنہوں نے کہا کہ شعیب تمہاری بہت سی باتیں ہماری سمجھ میں نہیں آتیں اور ہم دیکھتے ہیں کہ تم ہم میں کمزور بھی ہو اور اگر تمہارے بھائی نہ ہوتے تو ہم تم کو سنگسار کر دیتے اور تم ہم پر (کسی طرح بھی) غالب نہیں ہو
 
 [Open on Quran.com](https://quran.com/11/91)
 

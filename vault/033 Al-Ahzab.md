@@ -14,82 +14,82 @@ The Combined Forces · 73 ayahs
 
 ## Words in this surah (graph)
 
-- [[ysyr - easy]] — `يَسِير` · easy
-- [[>w*y - hurt]] — `أُوذِيَ` · hurt
-- [[Hrj - any blame]] — `حَرَج` · any blame
 - [[mrD - disease]] — `مَرَض` · disease
-- [[frD - undertakes]] — `فَرَضَ` · undertakes
-- [[frAr - flight]] — `فِرار` · flight
-- [[jmyl - good]] — `جَمِيل` · good
-- [[ZAhr - apparent]] — `ظاهِر` · apparent
-- [[EAhd - they took]] — `عاهَدَ` · they took
-- [[nkH - marry]] — `نَكَحَ` · marry
-- [[Hzb - party]] — `حِزْب` · party
-- [[tqr - may cooled]] — `تَقَرَّ` · may cooled
-- [[tbdyl - change]] — `تَبْدِيل` · change
-- [[SlY - send blessings]] — `صَلَّى` · send blessings
-- [[bnt - daughters]] — `بِنْت` · daughters
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
+- [[>w*y - hurt]] — `أُوذِيَ` · hurt
+- [[ysyr - easy]] — `يَسِير` · easy
+- [[Hrj - any blame]] — `حَرَج` · any blame
 - [[snp - way]] — `سُنَّة` · way
-- [[Hsn - good]] — `حُسْن` · good
-- [[dEA - call]] — `دَعا` · call
-- [[nAr - fire]] — `نار` · fire
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[yTmE - hope]] — `يَطْمَعُ` · hope
-- [[Dl - lost]] — `ضَلَّ` · lost
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[xA$E - humbled]] — `خاشِع` · humbled
+- [[nkH - marry]] — `نَكَحَ` · marry
+- [[frAr - flight]] — `فِرار` · flight
+- [[EAhd - they took]] — `عاهَدَ` · they took
+- [[tbdyl - change]] — `تَبْدِيل` · change
+- [[tqr - may cooled]] — `تَقَرَّ` · may cooled
+- [[>dnY - nearer]] — `أَدْنَى` · nearer
+- [[SlY - send blessings]] — `صَلَّى` · send blessings
+- [[Hzb - party]] — `حِزْب` · party
+- [[frD - undertakes]] — `فَرَضَ` · undertakes
+- [[ZAhr - apparent]] — `ظاهِر` · apparent
+- [[bnt - daughters]] — `بِنْت` · daughters
+- [[jmyl - good]] — `جَمِيل` · good
+- [[wlY - so turn]] — `وَلَّى` · so turn
+- [[Hlym - forbearing]] — `حَلِيم` · forbearing
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[ryH - wind]] — `رِيح` · wind
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[$Ahd - witnesses]] — `شاهِد` · witnesses
 
 ## Roots
 
-- [[$HH - shhh]]
+- [[$HH - miserly]]
 - [[$dd - severe]]
-- [[$fq - shfq]]
-- [[$hd - shhd]]
+- [[$fq - fear]]
+- [[$hd - witnessing]]
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*nb - tail]]
-- [[>*n - adhn]]
+- [[>*n - ear]]
 - [[>*y - hurt]]
 - [[>Hd - anyone]]
 - [[>Sl - foundational part something]]
-- [[>bd - abad]]
-- [[>bw - abw]]
-- [[>by - aby]]
+- [[>bd - absolute long]]
+- [[>bw - forefathers]]
+- [[>by - refuse]]
 - [[>hl - people house]]
-- [[>jr - ajr]]
-- [[>lm - alm]]
+- [[>jr - recompensing rewarding someone]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>ny - any]]
-- [[>rD - ard]]
-- [[>sr - asr]]
-- [[>sw - asw]]
+- [[>ns - mankind]]
+- [[>ny - hours]]
+- [[>rD - earth]]
+- [[>sr - bind capture]]
+- [[>sw - grieve]]
 - [[>ty - give]]
-- [[>vm - athm]]
-- [[>wl - like milk oil]]
+- [[>vm - sin commit crime]]
+- [[>wl - return revert original]]
 - [[>wy - betake oneself place]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[E*b - edhb]]
+- [[E*b - motes particles floating]]
 - [[ESm - tie cord]]
 - [[ESy - disobey]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Edd - count]]
-- [[Ehd - ehd]]
+- [[Ehd - protection safeguard]]
 - [[Ejb - amazing]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
 - [[Emd - tent pole column]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emm - paternal aunts]]
 - [[End - near]]
 

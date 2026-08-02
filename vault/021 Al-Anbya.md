@@ -14,83 +14,83 @@ The Prophets · 112 ayahs
 
 ## Words in this surah (graph)
 
-- [[EAbd - worshippers]] — `عابِد` · worshippers
 - [[fAEl - doers]] — `فاعِل` · doers
-- [[mErD - turn away]] — `مُعْرِض` · turn away
+- [[EAbd - worshippers]] — `عابِد` · worshippers
 - [[ySf - they attribute]] — `يَصِفُ` · they attribute
-- [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
-- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
-- [[m$fq - fearful]] — `مُشْفِق` · fearful
+- [[mErD - turn away]] — `مُعْرِض` · turn away
 - [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
+- [[tdry - i know]] — `تَدْرِي` · i know
+- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
 - [[bArk - we blessed]] — `بارَكَ` · we blessed
+- [[m$fq - fearful]] — `مُشْفِق` · fearful
 - [[gflp - heedlessness]] — `غَفْلَة` · heedlessness
 - [[>HSnt - guarded]] — `أَحْصَنَتْ` · guarded
-- [[tdry - i know]] — `تَدْرِي` · i know
-- [[r>s - heads]] — `رَأْس` · heads
-- [[dEA - call]] — `دَعا` · call
-- [[nAr - fire]] — `نار` · fire
-- [[lyl - night]] — `لَيْل` · night
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[xA$E - humbled]] — `خاشِع` · humbled
-- [[xlf - behind them]] — `خَلْف` · behind them
-- [[Eml - do]] — `عَمِلَ` · do
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[>mr - command]] — `أَمَرَ` · command
-- [[n*r - vows]] — `نَذَرْ` · vows
+- [[y$fE - intercedes]] — `يَشْفَعُ` · intercedes
+- [[wlY - so turn]] — `وَلَّى` · so turn
+- [[hAt - bring]] — `هاتُ` · bring
+- [[ryH - wind]] — `رِيح` · wind
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[ftH - victory]] — `فَتَحَ` · victory
+- [[ldn - yourself]] — `لَدُن` · yourself
+- [[$Ahd - witnesses]] — `شاهِد` · witnesses
+- [[gAlb - victorious]] — `غالِب` · victorious
+- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
+- [[jbl - mountains]] — `جَبَل` · mountains
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$fE - make something pair]]
-- [[$fq - shfq]]
-- [[$hd - shhd]]
-- [[$hw - shhw]]
-- [[$kr - shkr]]
+- [[$fq - fear]]
+- [[$hd - witnessing]]
+- [[$hw - they desire]]
+- [[$kr - gratitude]]
 - [[$ms - horse refusing ridden]]
 - [[$rr - sparks fire]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
-- [[>bw - abw]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
+- [[*wq - taste]]
+- [[>*n - ear]]
+- [[>bw - forefathers]]
 - [[>ff - sound expression disgust]]
 - [[>hl - people house]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - like milk oil]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[Dgv - dgith]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
-- [[Dw> - dwa]]
-- [[E*b - edhb]]
-- [[ESf - esf]]
-- [[EZm - ezhm]]
+- [[Dw> - light]]
+- [[E*b - motes particles floating]]
+- [[ESf - stormy]]
+- [[EZm - great]]
 - [[Ebd - worship]]
-- [[Ejl - ejl]]
-- [[Ekf - ekf]]
+- [[Ejl - incite cause someone]]
+- [[Ekf - cleave something constantly]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emr - life]]
 - [[End - near]]
-- [[Eql - eql]]
-- [[Er$ - ersh]]
-- [[ErD - erd]]
-- [[Ewd - ewd]]
+- [[Eql - withhold restrain]]
+- [[Er$ - shaded structure]]
+- [[ErD - turn away]]
+- [[Ewd - aad]]
 - [[Ewn - help]]
-- [[Eyn - eyn]]
+- [[Eyn - eyes]]
 - [[HSb - pelt pebbles spread]]
 
 ## Sample (ayah 1)

@@ -40,7 +40,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:28 · [[002 Al-Baqarah]]
 
@@ -55,6 +55,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** How can you disbelieve in Allāh when you were lifeless and He brought you to life; then He will cause you to die, then He will bring you [back] to life, and then to Him you will be returned.
 
 **English (Yusuf Ali):** How can ye reject the faith in Allah?- seeing that ye were without life, and He gave you life; then will He cause you to die, and will again bring you to life; and again to Him will ye return.
+
+**Urdu (Fatah Muhammad Jalandhari):** (کافرو!) تم خدا سے کیوں کر منکر ہو سکتے ہو جس حال میں کہ تم بےجان تھے تو اس نے تم کو جان بخشی پھر وہی تم کو مارتا ہے پھر وہی تم کو زندہ کرے گا پھر تم اسی کی طرف لوٹ کر جاؤ گے
 
 [Open on Quran.com](https://quran.com/2/28)
 
@@ -72,6 +74,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Hast thou not Turned thy vision to one who disputed with Abraham About his Lord, because Allah had granted him power? Abraham said: "My Lord is He Who Giveth life and death." He said: "I give life and death". Said Abraham: "But it is Allah that causeth the sun to rise from the east: Do thou then cause him to rise from the West." Thus was he confounded who (in arrogance) rejected faith. Nor doth Allah Give guidance to a people unjust.
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے اس شخص کو نہیں دیکھا جو اس (غرور کے) سبب سے کہ خدا نے اس کو سلطنت بخشی تھی ابراہیم سے پروردگار کے بارے میں جھگڑنے لگا۔ جب ابراہیم نے کہا میرا پروردگار تو وہ ہے جو جلاتا اور مارتا ہے۔ وہ بولا کہ جلا اور مار تو میں بھی سکتا ہوں۔ ابراہیم نے کہا کہ خدا تو سورج کو مشرق سے نکالتا ہے آپ اسے مغرب سے نکال دیجیئے (یہ سن کر) کافر حیران رہ گیا اور خدا بےانصافوں کو ہدایت نہیں دیا کرتا
+
 [Open on Quran.com](https://quran.com/2/258)
 
 #### 2:259 · [[002 Al-Baqarah]]
@@ -87,6 +91,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, "How will Allāh bring this to life after its death?" So Allāh caused him to die for a hundred years; then He revived him. He said, "How long have you remained?" He [the man] said, "I have remained a day or part of a day." He said, "Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh." And when it became clear to him, he said, "I know that Allāh is over all things competent."
 
 **English (Yusuf Ali):** Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall Allah bring it (ever) to life, after (this) its death?" but Allah caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that Allah hath power over all things."
+
+**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
 
 [Open on Quran.com](https://quran.com/2/259)
 
@@ -104,6 +110,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Be not like the Unbelievers, who say of their brethren, when they are travelling through the Earth or engaged in fighting: "If they had stayed with us, they would not have died, or been slain." This that Allah may make it a cause of sighs and regrets in their hearts. It is Allah that gives Life and Death, and Allah sees well all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! ان لوگوں جیسے نہ ہونا جو کفر کرتے ہیں اور ان کے (مسلمان) بھائی جب (خدا کی راہ میں) سفر کریں (اور مر جائیں) یا جہاد کو نکلیں (اور مارے جائیں) تو ان کی نسبت کہتے ہیں کہ اگر وہ ہمارے پاس رہتے تو نہ مرتے اور نہ مارے جاتے۔ ان باتوں سے مقصود یہ ہے کہ خدا ان لوگوں کے دلوں میں افسوس پیدا کر دے اور زندگی اور موت تو خدا ہی دیتا ہے اور خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/3/156)
 
 #### 7:158 · [[007 Al-Araf]]
@@ -119,6 +127,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O Muḥammad], "O mankind, indeed I am the Messenger of Allāh to you all, [from Him] to whom belongs the dominion of the heavens and the earth. There is no deity except Him; He gives life and causes death." So believe in Allāh and His Messenger, the unlettered prophet, who believes in Allāh and His words, and follow him that you may be guided.
 
 **English (Yusuf Ali):** Say: "O men! I am sent unto you all, as the Messenger of Allah, to Whom belongeth the dominion of the heavens and the earth: there is no god but He: it is He That giveth both life and death. So believe in Allah and His Messenger, the Unlettered Prophet, who believeth in Allah and His words: follow him that (so) ye may be guided."
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) کہہ دو کہ لوگو میں تم سب کی طرف خدا کا بھیجا ہوا (یعنی اس کا رسول) ہوں۔ (وہ) جو آسمانوں اور زمین کا بادشاہ ہے۔ اس کے سوا کوئی معبود نہیں وہی زندگانی بخشتا ہے اور وہی موت دیتا ہے۔ تو خدا پر اور اس کے رسول پیغمبر اُمی پر جو خدا پر اور اس کے تمام کلام پر ایمان رکھتے ہیں ایمان لاؤ اور ان کی پیروی کرو تاکہ ہدایت پاؤ
 
 [Open on Quran.com](https://quran.com/7/158)
 
@@ -136,6 +146,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Unto Allah belongeth the dominion of the heavens and the earth. He giveth life and He taketh it. Except for Him ye have no protector nor helper.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی ہے جس کے لیے آسمانوں اور زمینوں کی بادشاہت ہے۔ وہی زندگانی بخشتا ہے (وہی) موت دیتا ہے اور خدا کے سوا تمہارا کوئی دوست اور مددگار نہیں ہے
+
 [Open on Quran.com](https://quran.com/9/116)
 
 #### 10:56 · [[010 Yunus]]
@@ -151,6 +163,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He gives life and causes death, and to Him you will be returned.
 
 **English (Yusuf Ali):** It is He Who giveth life and who taketh it, and to Him shall ye all be brought back.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی جان بخشتا اور (وہی) موت دیتا ہے اور تم لوگ اسی کی طرف لوٹ کر جاؤ گے
 
 [Open on Quran.com](https://quran.com/10/56)
 
@@ -168,6 +182,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And verily, it is We Who give life, and Who give death: it is We Who remain inheritors (after all else passes away).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہی حیات بخشتے اور ہم ہی موت دیتے ہیں۔ اور ہم سب کے وارث (مالک) ہیں
+
 [Open on Quran.com](https://quran.com/15/23)
 
 #### 22:66 · [[022 Al-Hajj]]
@@ -184,6 +200,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who gave you life, will cause you to die, and will again give you life: Truly man is a most ungrateful creature!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے تم کو حیات بخشی۔ پھر تم کو مارتا ہے۔ پھر تمہیں زندہ بھی کرے گا۔ اور انسان تو بڑا ناشکر ہے
+
 [Open on Quran.com](https://quran.com/22/66)
 
 #### 23:80 · [[023 Al-Muminun]]
@@ -199,6 +217,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And it is He who gives life and causes death, and His is the alternation of the night and the day. Then will you not reason?
 
 **English (Yusuf Ali):** It is He Who gives life and death, and to Him (is due) the alternation of Night and Day: will ye not then understand?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی ہے جو زندگی بخشتا ہے اور موت دیتا ہے اور رات اور دن کا بدلتے رہنا اسی کا تصرف ہے، کیا تم سمجھتے نہیں
 
 [Open on Quran.com](https://quran.com/23/80)
 

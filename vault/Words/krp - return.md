@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[krr - krr]]
+- [[krr - return]]
 
 ### Meaning
 **return** · Lemma **كَرَّة**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:167 · [[002 Al-Baqarah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who followed will say, "If only we had another turn [at worldly life] so we could disassociate ourselves from them as they have disassociated themselves from us." Thus will Allāh show them their deeds as regrets upon them. And they are never to emerge from the Fire.
 
 **English (Yusuf Ali):** And those who followed would say: "If only We had one more chance, We would clear ourselves of them, as they have cleared themselves of us." Thus will Allah show them (The fruits of) their deeds as (nothing but) regrets. Nor will there be a way for them out of the Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ حال دیکھ کر) پیروی کرنے والے (حسرت سے) کہیں گے کہ اے کاش ہمیں پھر دنیا میں جانا نصیب ہو تاکہ جس طرح یہ ہم سے بیزار ہو رہے ہیں اسی طرح ہم بھی ان سے بیزار ہوں۔ اسی طرح خدا ان کے اعمال انہیں حسرت بنا کر دکھائے گااور وہ دوزخ سے نکل نہیں سکیں گے
 
 [Open on Quran.com](https://quran.com/2/167)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then did We grant you the Return as against them: We gave you increase in resources and sons, and made you the more numerous in man-power.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے دوسری بات تم کو اُن پر غلبہ دیا اور مال اور بیٹوں سے تمہاری مدد کی۔ اور تم کو جماعت کثیر بنا دیا
+
 [Open on Quran.com](https://quran.com/17/6)
 
 #### 26:102 · [[026 Ash-Shuara]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then if we only had a return [to the world] and could be of the believers..."
 
 **English (Yusuf Ali):** "'Now if we only had a chance of return we shall truly be of those who believe!'"
+
+**Urdu (Fatah Muhammad Jalandhari):** کاش ہمیں (دنیا میں) پھر جانا ہو تم ہم مومنوں میں ہوجائیں
 
 [Open on Quran.com](https://quran.com/26/102)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Or (lest) it should say when it (actually) sees the penalty: 'If only I had another chance, I should certainly be among those who do good!'
 
+**Urdu (Fatah Muhammad Jalandhari):** یا جب عذاب دیکھ لے تو کہنے لگے کہ اگر مجھے پھر ایک دفعہ دنیا میں جانا ہو تو میں نیکوکاروں میں ہو جاؤں
+
 [Open on Quran.com](https://quran.com/39/58)
 
 #### 67:4 · [[067 Al-Mulk]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Again turn thy vision a second time: (thy) vision will come back to thee dull and discomfited, in a state worn out.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر دو بارہ (سہ بارہ) نظر کر، تو نظر (ہر بار) تیرے پاس ناکام اور تھک کر لوٹ آئے گی
+
 [Open on Quran.com](https://quran.com/67/4)
 
 #### 79:12 · [[079 An-Naziat]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They say, "That, then, would be a losing return."
 
 **English (Yusuf Ali):** They say: "It would, in that case, be a return with loss!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہتے ہیں کہ یہ لوٹنا تو( موجب) زیاں ہے
 
 [Open on Quran.com](https://quran.com/79/12)
 

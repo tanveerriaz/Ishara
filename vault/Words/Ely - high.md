@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:255 · [[002 Al-Baqarah]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh - there is no deity except Him, the Ever-Living, the Self-Sustaining. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursī extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.
 
 **English (Yusuf Ali):** Allah! There is no god but He,-the Living, the Self-subsisting, Eternal. No slumber can seize Him nor sleep. His are all things in the heavens and on earth. Who is there can intercede in His presence except as He permitteth? He knoweth what (appeareth to His creatures as) before or after or behind them. Nor shall they compass aught of His knowledge except as He willeth. His Throne doth extend over the heavens and the earth, and He feeleth no fatigue in guarding and preserving them for He is the Most High, the Supreme (in glory).
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا (وہ معبود برحق ہے کہ) اس کے سوا کوئی عبادت کے لائق نہیں زندہ ہمیشہ رہنے والا اسے نہ اونگھ آتی ہے نہ نیند جو کچھ آسمانوں میں اور جو کچھ زمین میں ہیں سب اسی کا ہے کون ہے جو اس کی اجازت کے بغیر اس سے (کسی کی) سفارش کر سکے جو کچھ لوگوں کے روبرو ہو رہا ہے اور جو کچھ ان کے پیچھے ہوچکا ہے اسے سب معلوم ہے اور وہ اس کی معلومات میں سے کسی چیز پر دسترس حاصل نہیں کر سکتے ہاں جس قدر وہ چاہتا ہے (اسی قدر معلوم کرا دیتا ہے) اس کی بادشاہی (اور علم) آسمان اور زمین سب پر حاوی ہے اور اسے ان کی حفاظت کچھ بھی دشوار نہیں وہ بڑا عالی رتبہ اور جلیل القدر ہے
 
 [Open on Quran.com](https://quran.com/2/255)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Men are the protectors and maintainers of women, because Allah has given the one more (strength) than the other, and because they support them from their means. Therefore the righteous women are devoutly obedient, and guard in (the husband's) absence what Allah would have them guard. As to those women on whose part ye fear disloyalty and ill-conduct, admonish them (first), (Next), refuse to share their beds, (And last) beat them (lightly); but if they return to obedience, seek not against them Means (of annoyance): For Allah is Most High, great (above you all).
 
+**Urdu (Fatah Muhammad Jalandhari):** مرد عورتوں پر مسلط وحاکم ہیں اس لئے کہ خدا نے بعض کو بعض سے افضل بنایا ہے اور اس لئے بھی کہ مرد اپنا مال خرچ کرتے ہیں تو جو نیک بیبیاں ہیں وہ مردوں کے حکم پر چلتی ہیں اور ان کے پیٹھ پیچھے خدا کی حفاظت میں (مال وآبرو کی) خبرداری کرتی ہیں اور جن عورتوں کی نسبت تمہیں معلوم ہو کہ سرکشی (اور بدخوئی) کرنے لگی ہیں تو (پہلے) ان کو (زبانی) سمجھاؤ (اگر نہ سمجھیں تو) پھر ان کے ساتھ سونا ترک کردو اگر اس پر بھی باز نہ آئیں تو زدوکوب کرو اور اگر فرمانبردار ہوجائیں تو پھر ان کو ایذا دینے کا کوئی بہانہ مت ڈھونڈو بےشک خدا سب سے اعلیٰ (اور) جلیل القدر ہے
+
 [Open on Quran.com](https://quran.com/4/34)
 
 #### 19:50 · [[019 Maryam]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We gave them of Our mercy, and We made for them a mention [i.e., reputation] of high honor.
 
 **English (Yusuf Ali):** And We bestowed of Our Mercy on them, and We granted them lofty honour on the tongue of truth.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو اپنی رحمت سے (بہت سی چیزیں) عنایت کیں۔ اور ان کا ذکر جمیل بلند کیا
 
 [Open on Quran.com](https://quran.com/19/50)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We raised him to a lofty station.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو اونچی جگہ اُٹھا لیا تھا
+
 [Open on Quran.com](https://quran.com/19/57)
 
 #### 22:62 · [[022 Al-Hajj]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That is because Allāh is the True Reality, and that which they call upon other than Him is falsehood, and because Allāh is the Most High, the Grand.
 
 **English (Yusuf Ali):** That is because Allah - He is the Reality; and those besides Him whom they invoke,- they are but vain Falsehood: verily Allah is He, Most High, Most Great.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس لئے کہ خدا ہی برحق ہے اور جس چیز کو (کافر) خدا کے سوا پکارتے ہیں وہ باطل ہے اور اس لئے خدا رفیع الشان اور بڑا ہے
 
 [Open on Quran.com](https://quran.com/22/62)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** That is because Allah is the (only) Reality, and because whatever else they invoke besides Him is Falsehood; and because Allah,- He is the Most High, Most Great.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس لئے کہ خدا کی ذات برحق ہے اور جن کو یہ لوگ خدا کے سوا پکارتے ہیں وہ لغو ہیں اور یہ کہ خدا ہی عالی رتبہ اور گرامی قدر ہے
+
 [Open on Quran.com](https://quran.com/31/30)
 
 #### 34:23 · [[034 Saba]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And intercession does not benefit with Him except for one whom He permits. [And those wait] until, when terror is removed from their hearts, they will say [to one another], "What has your Lord said?" They will say, "The truth." And He is the Most High, the Grand.
 
 **English (Yusuf Ali):** "No intercession can avail in His Presence, except for those for whom He has granted permission. So far (is this the case) that, when terror is removed from their hearts (at the Day of Judgment, then) will they say, 'what is it that your Lord commanded?' they will say, 'That which is true and just; and He is the Most High Most Great'."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا کے ہاں (کسی کے لئے) سفارش فائدہ نہ دے گی مگر اس کے لئے جس کے بارے میں وہ اجازت بخشے۔ یہاں تک کہ جب ان کے دلوں سے اضطراب دور کردیا جائے گا تو کہیں گے تمہارے پروردگار نے کیا فرمایا ہے۔ (فرشتے) کہیں گے کہ حق (فرمایا ہے) اور وہ عالی رتبہ اور گرامی قدر ہے
 
 [Open on Quran.com](https://quran.com/34/23)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (The answer will be:) "This is because, when Allah was invoked as the Only (object of worship), ye did reject Faith, but when partners were joined to Him, ye believed! the Command is with Allah, Most High, Most Great!"
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس لئے کہ جب تنہا خدا کو پکارا جاتا تھا تو تم انکار کردیتے تھے۔ اور اگر اس کے ساتھ شریک مقرر کیا جاتا تھا تو تسلیم کرلیتے تھے تو حکم تو خدا ہی کا ہے جو (سب سے) اوپر اور (سب سے) بڑا ہے
+
 [Open on Quran.com](https://quran.com/40/12)
 
 #### 42:4 · [[042 Ash-Shuraa]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To Him belongs all that is in the heavens and on earth: and He is Most High, Most Great.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب اسی کا ہے۔ اور وہ عالی رتبہ اور گرامی قدر ہے
+
 [Open on Quran.com](https://quran.com/42/4)
 
 #### 42:51 · [[042 Ash-Shuraa]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And it is not for any human being that Allāh should speak to him except by revelation or from behind a partition or that He sends a messenger [i.e., angel] to reveal, by His permission, what He wills. Indeed, He is Most High and Wise.
 
 **English (Yusuf Ali):** It is not fitting for a man that Allah should speak to him except by inspiration, or from behind a veil, or by the sending of a messenger to reveal, with Allah's permission, what Allah wills: for He is Most High, Most Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کسی آدمی کے لئے ممکن نہیں کہ خدا اس سے بات کرے مگر الہام (کے ذریعے) سے یا پردے کے پیچھے سے یا کوئی فرشتہ بھیج دے تو وہ خدا کے حکم سے جو خدا چاہے القا کرے۔ بےشک وہ عالی رتبہ (اور) حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/42/51)
 

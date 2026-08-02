@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:24 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But if you do not - and you will never be able to - then fear the Fire, whose fuel is people and stones, prepared for the disbelievers.
 
 **English (Yusuf Ali):** But if ye cannot- and of a surety ye cannot- then fear the Fire whose fuel is men and stones,- which is prepared for those who reject Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** لیکن اگر (ایسا) نہ کر سکو اور ہرگز نہیں کر سکو گے تو اس آگ سے ڈرو جس کا ایندھن آدمی اور پتھر ہوں گے (اور جو) کافروں کے لیے تیار کی گئی ہے
 
 [Open on Quran.com](https://quran.com/2/24)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who reject Faith,- neither their possessions nor their (numerous) progeny will avail them aught against Allah: They are themselves but fuel for the Fire.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے (اس دن) نہ تو ان کا مال ہی خدا (کے عذاب) سے ان کو بچا سکے گا اور نہ ان کی اولاد ہی (کچھ کام آئے گی) اور یہ لوگ آتش (جہنم) کا ایندھن ہوں گے
+
 [Open on Quran.com](https://quran.com/3/10)
 
 #### 66:6 · [[066 At-Tahrim]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! save yourselves and your families from a Fire whose fuel is Men and Stones, over which are (appointed) angels stern (and) severe, who flinch not (from executing) the Commands they receive from Allah, but do (precisely) what they are commanded.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اپنے آپ کو اور اپنے اہل عیال کو آتش (جہنم) سے بچاؤ جس کا ایندھن آدمی اور پتھر ہیں اور جس پر تند خو اور سخت مزاج فرشتے (مقرر) ہیں جو ارشاد خدا ان کو فرماتا ہے اس کی نافرمانی نہیں کرتے اور جو حکم ان کو ملتا ہے اسے بجا لاتے ہیں
+
 [Open on Quran.com](https://quran.com/66/6)
 
 #### 85:5 · [[085 Al-Buruj]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Containing] the fire full of fuel,
 
 **English (Yusuf Ali):** Fire supplied (abundantly) with fuel:
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) آگ (کی خندقیں) جس میں ایندھن (جھونک رکھا) تھا
 
 [Open on Quran.com](https://quran.com/85/5)
 

@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 1:4 · [[001 Al-Fatihah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Sovereign of the Day of Recompense.
 
 **English (Yusuf Ali):** Master of the Day of Judgment.
+
+**Urdu (Fatah Muhammad Jalandhari):** انصاف کے دن کا حاکم
 
 [Open on Quran.com](https://quran.com/1/4)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And this was the legacy that Abraham left to his sons, and so did Jacob; "Oh my sons! Allah hath chosen the Faith for you; then die not except in the Faith of Islam."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ابرہیم نے اپنے بیٹوں کو اسی بات کی وصیت کی اور یعقوب نے بھی (اپنے فرزندوں سے یہی کہا) کہ بیٹا خدا نے تمہارے لیے یہی دین پسند فرمایا ہے تو مرنا ہے تو مسلمان ہی مرنا
+
 [Open on Quran.com](https://quran.com/2/132)
 
 #### 2:193 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Fight them until there is no [more] fitnah and [until] religion [i.e., worship] is [acknowledged to be] for Allāh. But if they cease, then there is to be no aggression [i.e., assault] except against the oppressors.
 
 **English (Yusuf Ali):** And fight them on until there is no more Tumult or oppression, and there prevail justice and faith in Allah; but if they cease, Let there be no hostility except to those who practise oppression.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان سے اس وقت تک لڑتے رہنا کہ فساد نابود ہوجائے اور (ملک میں) خدا ہی کا دین ہوجائے اور اگر وہ (فساد سے) باز آجائیں تو ظالموں کے سوا کسی پر زیادتی نہیں (کرنی چاہیئے)
 
 [Open on Quran.com](https://quran.com/2/193)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
+
 [Open on Quran.com](https://quran.com/2/217)
 
 #### 2:256 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** There shall be no compulsion in [acceptance of] the religion. The right course has become distinct from the wrong. So whoever disbelieves in ṭāghūt and believes in Allāh has grasped the most trustworthy handhold with no break in it. And Allāh is Hearing and Knowing.
 
 **English (Yusuf Ali):** Let there be no compulsion in religion: Truth stands out clear from Error: whoever rejects evil and believes in Allah hath grasped the most trustworthy hand-hold, that never breaks. And Allah heareth and knoweth all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** دین (اسلام) میں زبردستی نہیں ہے ہدایت (صاف طور پر ظاہر اور) گمراہی سے الگ ہو چکی ہے تو جو شخص بتوں سے اعتقاد نہ رکھے اور خدا پر ایمان لائے اس نے ایسی مضبوط رسی ہاتھ میں پکڑ لی ہے جو کبھی ٹوٹنے والی نہیں اور خدا (سب کچھ) سنتا اور (سب کچھ) جانتا ہے
 
 [Open on Quran.com](https://quran.com/2/256)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah; For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
+
 [Open on Quran.com](https://quran.com/2/282)
 
 #### 3:19 · [[003 Ali Imran]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the religion in the sight of Allāh is Islām. And those who were given the Scripture did not differ except after knowledge had come to them - out of jealous animosity between themselves. And whoever disbelieves in the verses of Allāh, then indeed, Allāh is swift in [taking] account.
 
 **English (Yusuf Ali):** The Religion before Allah is Islam (submission to His Will): Nor did the People of the Book dissent therefrom except through envy of each other, after knowledge had come to them. But if any deny the Signs of Allah, Allah is swift in calling to account.
+
+**Urdu (Fatah Muhammad Jalandhari):** دین تو خدا کے نزدیک اسلام ہے اور اہل کتاب نے جو (اس دین سے) اختلاف کیا تو علم ہونے کے بعد آپس کی ضد سے کیا اور جو شخص خدا کی آیتوں کو نہ مانے تو خدا جلد حساب لینے والا (اور سزا دینے والا) ہے
 
 [Open on Quran.com](https://quran.com/3/19)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** This because they say: "The Fire shall not touch us but for a few numbered days": For their forgeries deceive them as to their own religion.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس لیے کہ یہ اس بات کے قائل ہیں کہ (دوزخ کی) آگ ہمیں چند روز کے سوا چھو ہی نہیں سکے گی اور جو کچھ یہ دین کے بارے میں بہتان باندھتے رہے ہیں اس نے ان کو دھوکے میں ڈال رکھا ہے
+
 [Open on Quran.com](https://quran.com/3/24)
 
 #### 3:73 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And believe no one unless he follows your religion." Say: "True guidance is the Guidance of Allah: (Fear ye) Lest a revelation be sent to someone (else) Like unto that which was sent unto you? or that those (Receiving such revelation) should engage you in argument before your Lord?" Say: "All bounties are in the hand of Allah: He granteth them to whom He pleaseth: And Allah careth for all, and He knoweth all things."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے دین کے پیرو کے سوا کسی اور کے قائل نہ ہونا (اے پیغمبر) کہہ دو کہ ہدایت تو خدا ہی کی ہدایت ہے (وہ یہ بھی کہتے ہیں) یہ بھی (نہ ماننا) کہ جو چیز تم کو ملی ہے ویسی کسی اور کو ملے گی یا وہ تمہیں خدا کے روبرو قائل معقول کر سکیں گے یہ بھی کہہ دو کہ بزرگی خدا ہی کے ہاتھ میں ہے وہ جسے چاہتا ہے دیتا ہے اور خدا کشائش والا (اور) علم والا ہے
+
 [Open on Quran.com](https://quran.com/3/73)
 
 #### 3:83 · [[003 Ali Imran]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So is it other than the religion of Allāh they desire, while to Him have submitted [all] those within the heavens and earth, willingly or by compulsion, and to Him they will be returned?
 
 **English (Yusuf Ali):** Do they seek for other than the Religion of Allah?-while all creatures in the heavens and on earth have, willing or unwilling, bowed to His Will (Accepted Islam), and to Him shall they all be brought back.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ (کافر) خدا کے دین کے سوا کسی اور دین کے طالب ہیں حالانکہ سب اہلِ آسمان و زمین خوشی یا زبردستی سے خدا کے فرماں بردار ہیں اور اسی کی طرف لوٹ کر جانے والے ہیں
 
 [Open on Quran.com](https://quran.com/3/83)
 

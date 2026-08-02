@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:73 · [[004 An-Nisa]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But if bounty comes to you from Allāh, he will surely say, as if [i.e., showing that] there had never been between you and him any affection, "Oh, I wish I had been with them so I could have attained a great attainment."
 
 **English (Yusuf Ali):** But if good fortune comes to you from Allah, they would be sure to say - as if there had never been Ties of affection between you and them - "Oh! I wish I had been with them; a fine thing should I then have made of it!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا تم پر فضل کرے تو اس طرح سے کہ گویا تم میں اس میں دوستی تھی ہی نہیں (کہ افسوس کرتا اور) کہتا ہے کہ کاش میں بھی ان کے ساتھ ہوتا تو مقصد عظیم حاصل کرتا
 
 [Open on Quran.com](https://quran.com/4/73)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Strongest among men in enmity to the believers wilt thou find the Jews and Pagans; and nearest among them in love to the believers wilt thou find those who say, "We are Christians": because amongst these are men devoted to learning and men who have renounced the world, and they are not arrogant.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبرﷺ!) تم دیکھو گے کہ مومنوں کے ساتھ سب سے زیادہ دشمنی کرنے والے یہودی اور مشرک ہیں اور دوستی کے لحاظ سے مومنوں سے قریب تر ان لوگوں کو پاؤ گے جو کہتے ہیں کہ ہم نصاریٰ ہیں یہ اس لیے کہ ان میں عالم بھی ہیں اور مشائخ بھی اور وہ تکبر نہیں کرتے
+
 [Open on Quran.com](https://quran.com/5/82)
 
 #### 29:25 · [[029 Al-Ankabut]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [Abraham] said, "You have only taken, other than Allāh, idols as [a bond of] affection among you in worldly life. Then on the Day of Resurrection you will deny one another and curse one another, and your refuge will be the Fire, and you will not have any helpers."
 
 **English (Yusuf Ali):** And he said: "For you, ye have taken (for worship) idols besides Allah, out of mutual love and regard between yourselves in this life; but on the Day of Judgment ye shall disown each other and curse each other: and your abode will be the Fire, and ye shall have none to help."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم نے کہا کہ تم جو خدا کو چھوڑ کر بتوں کو لے بیٹھے ہو تو دنیا کی زندگی میں باہم دوستی کے لئے (مگر) پھر قیامت کے دن تم ایک دوسرے (کی دوستی) سے انکار کر دو گے اور ایک دوسرے پر لعنت بھیجو گے اور تمہارا ٹھکانا دوزخ ہوگا اور کوئی تمہارا مددگار نہ ہوگا
 
 [Open on Quran.com](https://quran.com/29/25)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And among His Signs is this, that He created for you mates from among yourselves, that ye may dwell in tranquillity with them, and He has put love and mercy between your (hearts): verily in that are Signs for those who reflect.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی کے نشانات (اور تصرفات) میں سے ہے کہ اُس نے تمہارے لئے تمہاری ہی جنس کی عورتیں پیدا کیں تاکہ اُن کی طرف (مائل ہوکر) آرام حاصل کرو اور تم میں محبت اور مہربانی پیدا کر دی جو لوگ غور کرتے ہیں اُن کے لئے ان باتوں میں (بہت سی) نشانیاں ہیں
+
 [Open on Quran.com](https://quran.com/30/21)
 
 #### 42:23 · [[042 Ash-Shuraa]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is that of which Allāh gives good tidings to His servants who believe and do righteous deeds. Say, [O Muḥammad], "I do not ask you for it [i.e., this message] any payment [but] only good will through [i.e., due to] kinship." And whoever commits a good deed - We will increase for him good therein. Indeed, Allāh is Forgiving and Appreciative.
 
 **English (Yusuf Ali):** That is (the Bounty) whereof Allah gives Glad Tidings to His Servants who believe and do righteous deeds. Say: "No reward do I ask of you for this except the love of those near of kin." And if any one earns any good, We shall give him an increase of good in respect thereof: for Allah is Oft-Forgiving, Most Ready to appreciate (service).
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی وہ (انعام ہے) جس کی خدا اپنے ان بندوں کو جو ایمان لاتے اور عمل نیک کرتے ہیں بشارت دیتا ہے۔ کہہ دو کہ میں اس کا تم سے صلہ نہیں مانگتا مگر (تم کو) قرابت کی محبت (تو چاہیئے) اور جو کوئی نیکی کرے گا ہم اس کے لئے اس میں ثواب بڑھائیں گے۔ بےشک خدا بخشنے والا قدردان ہے
 
 [Open on Quran.com](https://quran.com/42/23)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Take not my enemies and yours as friends (or protectors),- offering them (your) love, even though they have rejected the Truth that has come to you, and have (on the contrary) driven out the Prophet and yourselves (from your homes), (simply) because ye believe in Allah your Lord! If ye have come out to strive in My Way and to seek My Good Pleasure, (take them not as friends), holding secret converse of love (and friendship) with them: for I know full well all that ye conceal and all that ye reveal. And any of you that does this has strayed from the Straight Path.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اگر تم میری راہ میں لڑنے اور میری خوشنودی طلب کرنے کے لئے (مکے سے) نکلے ہو تو میرے اور اپنے دشمنوں کو دوست نہ بناؤ۔ تم تو ان کو دوستی کے پیغام بھیجتے ہو اور وہ (دین) حق سے جو تمہارے پاس آیا ہے منکر ہیں۔ اور اس باعث سے کہ تم اپنے پروردگار خدا تعالیٰ پر ایمان لائے ہو پیغمبر کو اور تم کو جلاوطن کرتے ہیں۔ تم ان کی طرف پوشیدہ پوشیدہ دوستی کے پیغام بھیجتے ہو۔ اور جو کچھ تم مخفی طور پر اور جو علیٰ الاعلان کرتے ہو وہ مجھے معلوم ہے۔ اور جو کوئی تم میں سے ایسا کرے گا وہ سیدھے راستے سے بھٹک گیا
+
 [Open on Quran.com](https://quran.com/60/1)
 
 #### 60:7 · [[060 Al-Mumtahanah]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Perhaps Allāh will put, between you and those to whom you have been enemies among them, affection. And Allāh is competent, and Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** It may be that Allah will grant love (and friendship) between you and those whom ye (now) hold as enemies. For Allah has power (over all things); And Allah is Oft-Forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** عجب نہیں کہ خدا تم میں اور ان لوگوں میں جن سے تم دشمنی رکھتے ہو دوستی پیدا کردے۔ اور خدا قادر ہے اور خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/60/7)
 

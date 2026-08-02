@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sw> - swa]]
+- [[sw> - become evil]]
 
 ### Meaning
 **evil** · Lemma **سَيِّئ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:102 · [[009 At-Tawbah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [there are] others who have acknowledged their sins. They had mixed [i.e., polluted] a righteous deed with another that was bad. Perhaps Allāh will turn to them in forgiveness. Indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** Others (there are who) have acknowledged their wrong-doings: they have mixed an act that was good with another that was evil. Perhaps Allah will turn unto them (in Mercy): for Allah is Oft-Forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کچھ اور لوگ ہیں کہ اپنے گناہوں کا (صاف) اقرار کرتے ہیں انہوں نے اچھے برے عملوں کو ملا جلا دیا تھا۔ قریب ہے کہ خدا ان پر مہربانی سے توجہ فرمائے۔ بےشک خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/9/102)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Of all such things the evil is hateful in the sight of thy Lord.
 
+**Urdu (Fatah Muhammad Jalandhari):** ان سب (عادتوں) کی برائی تیرے پروردگار کے نزدیک بہت ناپسند ہے
+
 [Open on Quran.com](https://quran.com/17/38)
 
 #### 35:43 · [[035 Fatir]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Due to] arrogance in the land and plotting of evil; but the evil plot does not encompass except its own people. Then do they await except the way [i.e., fate] of the former peoples? But you will never find in the way [i.e., established method] of Allāh any change, and you will never find in the way of Allāh any alteration.
 
 **English (Yusuf Ali):** On account of their arrogance in the land and their plotting of Evil, but the plotting of Evil will hem in only the authors thereof. Now are they but looking for the way the ancients were dealt with? But no change wilt thou find in Allah's way (of dealing): no turning off wilt thou find in Allah's way (of dealing).
+
+**Urdu (Fatah Muhammad Jalandhari):** یعنی (انہوں نے) ملک میں غرور کرنا اور بری چال چلنا (اختیار کیا) اور بری چال کا وبال اس کے چلنے والے ہی پر پڑتا ہے۔ یہ اگلے لوگوں کی روش کے سوا اور کسی چیز کے منتظر نہیں۔ سو تم خدا کی عادت میں ہرگز تبدل نہ پاؤ گے۔ اور خدا کے طریقے میں کبھی تغیر نہ دیکھو گے
 
 [Open on Quran.com](https://quran.com/35/43)
 

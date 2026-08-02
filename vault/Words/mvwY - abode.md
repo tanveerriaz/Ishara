@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:151 · [[003 Ali Imran]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** We will cast terror into the hearts of those who disbelieve for what they have associated with Allāh of which He had not sent down [any] authority. And their refuge will be the Fire, and wretched is the residence of the wrongdoers.
 
 **English (Yusuf Ali):** Soon shall We cast terror into the hearts of the Unbelievers, for that they joined companions with Allah, for which He had sent no authority: their abode will be the Fire: And evil is the home of the wrong-doers!
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم عنقریب کافروں کے دلوں میں تمہارا رعب بٹھا دیں گے کیونکہ یہ خدا کے ساتھ شرک کرتے ہیں جس کی اس نے کوئی بھی دلیل نازل نہیں کی اور ان کا ٹھکانہ دوزخ ہے وہ ظالموں کا بہت بُرا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/3/151)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** One day will He gather them all together, (and say): "O ye assembly of Jinns! Much (toll) did ye take of men." Their friends amongst men will say: "Our Lord! we made profit from each other: but (alas!) we reached our term - which thou didst appoint for us." He will say: "The Fire be your dwelling-place: you will dwell therein for ever, except as Allah willeth." for thy Lord is full of wisdom and knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن وہ سب (جنّ وانس) کو جمع کرے گا (اور فرمائے گا کہ) اے گروہ جنّات تم نے انسانوں سے بہت (فائدے) حاصل کئے تو جو انسانوں میں ان کے دوستدار ہوں گے وہ کہیں گے کہ پروردگار ہم ایک دوسرے سے فائدہ اٹھاتے رہے اور (آخر) اس وقت کو پہنچ گئے جو تو نے ہمارے لیے مقرر کیا تھا خدا فرمائے گا (اب) تمہارا ٹھکانہ دوزخ ہے ہمیشہ اس میں (جلتے) رہو گے مگر جو خدا چاہے بےشک تمہارا پروردگار دانا اور خبردار ہے
+
 [Open on Quran.com](https://quran.com/6/128)
 
 #### 12:21 · [[012 Yusuf]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the one from Egypt who bought him said to his wife, "Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son." And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know.
 
 **English (Yusuf Ali):** The man in Egypt who bought him, said to his wife: "Make his stay (among us) honourable: may be he will bring us much good, or we shall adopt him as a son." Thus did We establish Joseph in the land, that We might teach him the interpretation of stories (and events). And Allah hath full power and control over His affairs; but most among mankind know it not.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مصر میں جس شخص نے اس کو خریدا اس نے اپنی بیوی سے (جس کا نام زلیخا تھا) کہا کہ اس کو عزت واکرام سے رکھو عجب نہیں کہ یہ ہمیں فائدہ دے یا ہم اسے بیٹا بنالیں۔ اس طرح ہم نے یوسف کو سرزمین (مصر) میں جگہ دی اور غرض یہ تھی کہ ہم ان کو (خواب کی) باتوں کی تعبیر سکھائیں اور خدا اپنے کام پر غالب ہے لیکن اکثر لوگ نہیں جانتے
 
 [Open on Quran.com](https://quran.com/12/21)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But she in whose house he was, sought to seduce him from his (true) self: she fastened the doors, and said: "Now come, thou (dear one)!" He said: "Allah forbid! truly (thy husband) is my lord! he made my sojourn agreeable! truly to no good come those who do wrong!"
 
+**Urdu (Fatah Muhammad Jalandhari):** تو جس عورت کے گھر میں وہ رہتے تھے اس نے ان کو اپنی طرف مائل کرنا چاہا اور دروازے بند کرکے کہنے لگی (یوسف) جلدی آؤ۔ انہوں نے کہا کہ خدا پناہ میں رکھے (وہ یعنی تمہارے میاں) تو میرے آقا ہیں انہوں نے مجھے اچھی طرح سے رکھا ہے (میں ایسا ظلم نہیں کرسکتا) بےشک ظالم لوگ فلاح نہیں پائیں گے
+
 [Open on Quran.com](https://quran.com/12/23)
 
 #### 16:29 · [[016 An-Nahl]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So enter the gates of Hell to abide eternally therein, and how wretched is the residence of the arrogant.
 
 **English (Yusuf Ali):** "So enter the gates of Hell, to dwell therein. Thus evil indeed is the abode of the arrogant."
+
+**Urdu (Fatah Muhammad Jalandhari):** سو دوزخ کے دروازوں میں داخل ہوجاؤ۔ ہمیشہ اس میں رہو گے۔ اب تکبر کرنے والوں کا برا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/16/29)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And who does more wrong than he who invents a lie against Allah or rejects the Truth when it reaches him? Is there not a home in Hell for those who reject Faith?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے ظالم کون جو خدا پر جھوٹ بہتان باندھے یا جب حق بات اُس کے پاس آئے تو اس کی تکذیب کرے۔ کیا کافروں کا ٹھکانا جہنم میں نہیں ہے؟
+
 [Open on Quran.com](https://quran.com/29/68)
 
 #### 39:32 · [[039 Az-Zumar]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So who is more unjust than one who lies about Allāh and denies the truth when it has come to him? Is there not in Hell a residence for the disbelievers?
 
 **English (Yusuf Ali):** Who, then, doth more wrong than one who utters a lie concerning Allah, and rejects the Truth when it comes to him; is there not in Hell an abode for blasphemers?
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اس سے بڑھ کر ظالم کون جو خدا پر جھوٹ بولے اور سچی بات جب اس کے پاس پہنچ جائے تو اسے جھٹلائے۔ کیا جہنم میں کافروں کا ٹھکانا نہیں ہے؟
 
 [Open on Quran.com](https://quran.com/39/32)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** On the Day of Judgment wilt thou see those who told lies against Allah;- their faces will be turned black; Is there not in Hell an abode for the Haughty?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے خدا پر جھوٹ بولا تم قیامت کے دن دیکھو گے کہ ان کے منہ کالے ہو رہے ہوں گے۔ کیا غرور کرنے والوں کو ٹھکانا دوزخ میں نہیں ہے
+
 [Open on Quran.com](https://quran.com/39/60)
 
 #### 39:72 · [[039 Az-Zumar]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (To them) will be said: "Enter ye the gates of Hell, to dwell therein: and evil is (this) Abode of the Arrogant!"
 
+**Urdu (Fatah Muhammad Jalandhari):** کہا جائے گا کہ دوزخ کے دروازوں میں داخل ہوجاؤ ہمیشہ اس میں رہو گے۔ تکبر کرنے والوں کا برا ٹھکانا ہے
+
 [Open on Quran.com](https://quran.com/39/72)
 
 #### 40:76 · [[040 Ghafir]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Enter the gates of Hell to abide eternally therein, and wretched is the residence of the arrogant."
 
 **English (Yusuf Ali):** "Enter ye the gates of Hell, to dwell therein: and evil is (this) abode of the arrogant!"
+
+**Urdu (Fatah Muhammad Jalandhari):** (اب) جہنم کے دروازوں میں داخل ہوجاؤ۔ ہمیشہ اسی میں رہو گے۔ متکبروں کا کیا برا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/40/76)
 

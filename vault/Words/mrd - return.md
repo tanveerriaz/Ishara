@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 13:11 · [[013 Ar-Rad]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For him [i.e., each one] are successive [angels] before and behind him who protect him by the decree of Allāh. Indeed, Allāh will not change the condition of a people until they change what is in themselves. And when Allāh intends for a people ill, there is no repelling it. And there is not for them besides Him any patron.
 
 **English (Yusuf Ali):** For each (such person) there are (angels) in succession, before and behind him: They guard him by command of Allah. Allah does not change a people's lot unless they change what is in their hearts. But when (once) Allah willeth a people's punishment, there can be no turning it back, nor will they find, besides Him, any to protect.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کے آگے اور پیچھے خدا کے چوکیدار ہیں جو خدا کے حکم سے اس کی حفاظت کرتے ہیں۔ خدا اس (نعمت) کو جو کسی قوم کو (حاصل) ہے نہیں بدلتا جب تک کہ وہ اپنی حالت کو نہ بدلے۔ اور جب خدا کسی قوم کے ساتھ برائی کا ارادہ کرتا ہے تو پھر وہ پھر نہیں سکتی۔ اور خدا کے سوا ان کا کوئی مددگار نہیں ہوتا
 
 [Open on Quran.com](https://quran.com/13/11)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And Allah doth advance in guidance those who seek guidance: and the things that endure, Good Deeds, are best in the sight of thy Lord, as rewards, and best in respect of (their) eventual return."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ہدایت یاب ہیں خدا ان کو زیادہ ہدایت دیتا ہے۔ اور نیکیاں جو باقی رہنے والی ہیں وہ تمہارے پروردگار کے صلے کے لحاظ سے خوب اور انجام کے اعتبار سے بہتر ہیں
+
 [Open on Quran.com](https://quran.com/19/76)
 
 #### 30:43 · [[030 Ar-Rum]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So direct your face [i.e., self] toward the correct religion before a Day comes from Allāh of which there is no repelling. That Day, they will be divided.
 
 **English (Yusuf Ali):** But set thou thy face to the right Religion before there come from Allah the Day which there is no chance of averting: on that Day shall men be divided (in two).
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اس روز سے پہلے جو خدا کی طرف سے آکر رہے گا اور رک نہیں سکے گا دین (کے رستے) پر سیدھا منہ کئے چلے چلو اس روز (سب) لوگ منتشر ہوجائیں گے
 
 [Open on Quran.com](https://quran.com/30/43)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Without doubt ye do call me to one who is not fit to be called to, whether in this world, or in the Hereafter; our return will be to Allah; and the Transgressors will be Companions of the Fire!
 
+**Urdu (Fatah Muhammad Jalandhari):** سچ تو یہ ہے کہ جس چیز کی طرف تم مجھے بلاتے ہو اس کو دنیا اور آخرت میں بلانے (یعنی دعا قبول کرنے) کا مقدور نہیں اور ہم کو خدا کی طرف لوٹنا ہے اور حد سے نکل جانے والے دوزخی ہیں
+
 [Open on Quran.com](https://quran.com/40/43)
 
 #### 42:44 · [[042 Ash-Shuraa]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For any whom Allah leaves astray, there is no protector thereafter. And thou wilt see the Wrong-doers, when in sight of the Penalty, Say: "Is there any way (to effect) a return?"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جس شخص کو خدا گمراہ کرے تو اس کے بعد اس کا کوئی دوست نہیں۔ اور تم ظالموں کو دیکھو گے کہ جب وہ (دوزخ کا) عذاب دیکھیں گے تو کہیں گے کیا (دنیا میں) واپس جانے کی بھی کوئی سبیل ہے؟
+
 [Open on Quran.com](https://quran.com/42/44)
 
 #### 42:47 · [[042 Ash-Shuraa]]
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Respond to your Lord before a Day comes from Allāh of which there is no repelling. No refuge will you have that Day, nor for you will there be any denial.
 
 **English (Yusuf Ali):** Hearken ye to your Lord, before there come a Day which there will be no putting back, because of (the Ordainment of) Allah! that Day there will be for you no place of refuge nor will there be for you any room for denial (of your sins)!
+
+**Urdu (Fatah Muhammad Jalandhari):** ان سے کہہ دو کہ) قبل اس کے کہ وہ دن جو ٹلے گا نہیں خدا کی طرف سے آ موجود ہو اپنے پروردگار کا حکم قبول کرو۔ اس دن تمہارے لئے نہ کوئی جائے پناہ ہوگی اور نہ تم سے گناہوں کا انکار ہی بن پڑے گا
 
 [Open on Quran.com](https://quran.com/42/47)
 

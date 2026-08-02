@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wqy - wqy]]
+- [[wqy - protect]]
 
 ### Meaning
 **righteous** · Lemma **مُتَّقي**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:2 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** This is the Book about which there is no doubt, a guidance for those conscious of Allāh -
 
 **English (Yusuf Ali):** This is the Book; in it is guidance sure, without doubt, to those who fear Allah;
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ کتاب (قرآن مجید) اس میں کچھ شک نہیں (کہ کلامِ خدا ہے۔ خدا سے) ڈرنے والوں کی رہنما ہے
 
 [Open on Quran.com](https://quran.com/2/2)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So We made it an example to their own time and to their posterity, and a lesson to those who fear Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس قصے کو اس وقت کے لوگوں کے لیے اور جو ان کے بعد آنے والے تھے عبرت اور پرہیز گاروں کے لیے نصیحت بنا دیا
+
 [Open on Quran.com](https://quran.com/2/66)
 
 #### 2:177 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
 
 **English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/177)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is prescribed, when death approaches any of you, if he leave any goods that he make a bequest to parents and next of kin, according to reasonable usage; this is due from the Allah-fearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** تم پر فرض کیا جاتا ہے کہ جب تم میں سے کسی کو موت کا وقت آجائے تو اگر وہ کچھ مال چھوڑ جانے والا ہو تو ماں با پ اور رشتہ داروں کے لئے دستور کے مطابق وصیت کرجائے (خدا سے) ڈر نے والوں پر یہ ایک حق ہے
+
 [Open on Quran.com](https://quran.com/2/180)
 
 #### 2:194 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Battle in] the sacred month is for [aggression committed in] the sacred month, and for [all] violations is legal retribution. So whoever has assaulted you, then assault him in the same way that he has assaulted you. And fear Allāh and know that Allāh is with those who fear Him.
 
 **English (Yusuf Ali):** The prohibited month for the prohibited month,- and so for all things prohibited,- there is the law of equality. If then any one transgresses the prohibition against you, Transgress ye likewise against him. But fear Allah, and know that Allah is with those who restrain themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** ادب کا مہینہ ادب کے مہینے کے مقابل ہے اور ادب کی چیزیں ایک دوسرے کا بدلہ ہیں۔ پس اگر کوئی تم پر زیادتی کرے تو جیسی زیادتی وہ تم پر کرے ویسی ہی تم اس پر کرو۔ اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا ڈرنے والوں کے ساتھ ہے
 
 [Open on Quran.com](https://quran.com/2/194)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For divorced women Maintenance (should be provided) on a reasonable (scale). This is a duty on the righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور مطلقہ عورتوں کو بھی دستور کے مطابق نان و نفقہ دینا چاہیئے پرہیزگاروں پر (یہ بھی) حق ہے
+
 [Open on Quran.com](https://quran.com/2/241)
 
 #### 3:76 · [[003 Ali Imran]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But yes, whoever fulfills his commitment and fears Allāh - then indeed, Allāh loves those who fear Him.
 
 **English (Yusuf Ali):** Nay.- Those that keep their plighted faith and act aright,-verily Allah loves those who act aright.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جو شخص اپنے اقرار کو پورا کرے اور (خدا سے) ڈرے تو خدا ڈرنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/3/76)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Of the good that they do, nothing will be rejected of them; for Allah knoweth well those that do right.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ جس طرح کی نیکی کریں گے اس کی ناقدری نہیں کی جائے گی اور خدا پرہیزگاروں کو خوب جانتا ہے
+
 [Open on Quran.com](https://quran.com/3/115)
 
 #### 3:133 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Be quick in the race for forgiveness from your Lord, and for a Garden whose width is that (of the whole) of the heavens and of the earth, prepared for the righteous,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اپنے پروردگار کی بخشش اور بہشت کی طرف لپکو جس کا عرض آسمان اور زمین کے برابر ہے اور جو (خدا سے) ڈرنے والوں کے لیے تیار کی گئی ہے
+
 [Open on Quran.com](https://quran.com/3/133)
 
 #### 3:138 · [[003 Ali Imran]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** This [Qur’ān] is a clear statement to [all] the people and a guidance and instruction for those conscious of Allāh.
 
 **English (Yusuf Ali):** Here is a plain statement to men, a guidance and instruction to those who fear Allah!
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ (قرآن) لوگوں کے لیے بیان صریح اور اہلِ تقویٰ کے لیے ہدایت اور نصیحت ہے
 
 [Open on Quran.com](https://quran.com/3/138)
 

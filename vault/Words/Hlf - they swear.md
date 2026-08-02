@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:62 · [[004 An-Nisa]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So how [will it be] when disaster strikes them because of what their hands have put forth and then they come to you swearing by Allāh, "We intended nothing but good conduct and accommodation."
 
 **English (Yusuf Ali):** How then, when they are seized by misfortune, because of the deeds which they hands have sent forth? Then their come to thee, swearing by Allah: "We meant no more than good-will and conciliation!"
+
+**Urdu (Fatah Muhammad Jalandhari):** تو کیسی (ندامت کی) بات ہے کہ جب ان کے اعمال (کی شامت سے) ان پر کوئی مصیبت واقع ہوتی ہے تو تمہارے پاس بھاگے آتے ہیں اور قسمیں کھاتے ہیں کہ والله ہمارا مقصود تو بھلائی اور موافقت تھا
 
 [Open on Quran.com](https://quran.com/4/62)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah will not call you to account for what is futile in your oaths, but He will call you to account for your deliberate oaths: for expiation, feed ten indigent persons, on a scale of the average for the food of your families; or clothe them; or give a slave his freedom. If that is beyond your means, fast for three days. That is the expiation for the oaths ye have sworn. But keep to your oaths. Thus doth Allah make clear to you His signs, that ye may be grateful.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری بےارادہ قسموں پر تم سے مواخذہ نہیں کرے گا لیکن پختہ قسموں پر (جن کے خلاف کرو گے) مواخذہ کرے گا تو اس کا کفارہ دس محتاجوں کو اوسط درجے کا کھانا کھلانا ہے جو تم اپنے اہل وعیال کو کھلاتے ہو یا ان کو کپڑے دینا یا ایک غلام آزاد کرنا اور جس کو میسر نہ ہو وہ تین روزے رکھے یہ تمہاری قسموں کا کفارہ ہے جب تم قسم کھا لو (اور اسے توڑ دو) اور (تم کو) چاہئے کہ اپنی قسموں کی حفاظت کرو اس طرح خدا تمہارے (سمجھانے کے) لیے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم شکر کرو
+
 [Open on Quran.com](https://quran.com/5/89)
 
 #### 9:42 · [[009 At-Tawbah]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Had it been a near [i.e., easy] gain and a moderate trip, they [i.e., the hypocrites] would have followed you, but distant to them was the journey. And they will swear by Allāh, "If we were able, we would have gone forth with you," destroying themselves [through false oaths], and Allāh knows that indeed they are liars.
 
 **English (Yusuf Ali):** If there had been immediate gain (in sight), and the journey easy, they would (all) without doubt have followed thee, but the distance was long, (and weighed) on them. They would indeed swear by Allah, "If we only could, we should certainly have come out with you": They would destroy their own souls; for Allah doth know that they are certainly lying.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر مالِ غنیمت سہل الحصول اور سفر بھی ہلکا سا ہوتا تو تمہارے ساتھ (شوق سے) چل دیتے۔ لیکن مسافت ان کو دور (دراز) نظر آئی (تو عذر کریں گے)۔ اور خدا کی قسمیں کھائیں گے کہ اگر ہم طاقت رکھتے تو آپ کے ساتھ ضرور نکل کھڑے ہوتے یہ (ایسے عذروں سے) اپنے تئیں ہلاک کر رہے ہیں۔ اور خدا جانتا ہے کہ جھوٹے ہیں
 
 [Open on Quran.com](https://quran.com/9/42)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They swear by Allah that they are indeed of you; but they are not of you: yet they are afraid (to appear in their true colours).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا کی قسمیں کھاتے ہیں کہ وہ تم ہی میں سے ہیں حالانکہ ہو تم میں سے نہیں ہیں۔ اصل یہ ہے کہ یہ ڈرپوک لوگ ہیں
+
 [Open on Quran.com](https://quran.com/9/56)
 
 #### 9:62 · [[009 At-Tawbah]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They swear by Allāh to you [Muslims] to satisfy you. But Allāh and His Messenger are more worthy for them to satisfy, if they were to be believers.
 
 **English (Yusuf Ali):** To you they swear by Allah. In order to please you: But it is more fitting that they should please Allah and His Messenger, if they are Believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! یہ لوگ تمہارے سامنے خدا کی قسمیں کھاتے ہیں تاکہ تم کو خوش کر دیں۔ حالانکہ اگر یہ (دل سے) مومن ہوتے تو خدا اور اس کے پیغمبر خوش کرنے کے زیادہ مستحق ہیں
 
 [Open on Quran.com](https://quran.com/9/62)
 
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They swear by Allah that they said nothing (evil), but indeed they uttered blasphemy, and they did it after accepting Islam; and they meditated a plot which they were unable to carry out: this revenge of theirs was (their) only return for the bounty with which Allah and His Messenger had enriched them! If they repent, it will be best for them; but if they turn back (to their evil ways), Allah will punish them with a grievous penalty in this life and in the Hereafter: They shall have none on earth to protect or help them.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ خدا کی قسمیں کھاتے ہیں کہ انہوں نے (تو کچھ) نہیں کہا حالانکہ انہوں نے کفر کا کلمہ کہا ہے اور یہ اسلام لانے کے بعد کافر ہوگئے ہیں اور ایسی بات کا قصد کرچکے ہیں جس پر قدرت نہیں پاسکے۔ اور انہوں نے (مسلمانوں میں) عیب ہی کون سا دیکھا ہے سوا اس کے کہ خدا نے اپنے فضل سے اور اس کے پیغمبر نے (اپنی مہربانی سے) ان کو دولت مند کر دیا ہے۔ تو اگر یہ لوگ توبہ کرلیں تو ان کے حق میں بہتر ہوگا۔ اور اگر منہ پھیر لیں تو ان کو دنیا اور آخرت میں دکھ دینے والا عذاب دے گا اور زمین میں ان کا کوئی دوست اور مددگار نہ ہوگا
+
 [Open on Quran.com](https://quran.com/9/74)
 
 #### 9:95 · [[009 At-Tawbah]]
@@ -138,6 +150,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They will swear by Allāh to you when you return to them that you would leave them alone. So leave them alone; indeed they are evil; and their refuge is Hell as recompense for what they had been earning.
 
 **English (Yusuf Ali):** They will swear to you by Allah, when ye return to them, that ye may leave them alone. So leave them alone: For they are an abomination, and Hell is their dwelling-place,-a fitting recompense for the (evil) that they did.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب تم ان کے پاس لوٹ کر جاؤ گے تو تمہارے روبرو خدا کی قسمیں کھائیں گے تاکہ تم ان سے درگزر کرو سو اُن کی طرف التفات نہ کرنا۔ یہ ناپاک ہیں اور جو یہ کام کرتے رہے ہیں اس کے بدلہ ان کا ٹھکانہ دوزخ ہے
 
 [Open on Quran.com](https://quran.com/9/95)
 
@@ -155,6 +169,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They will swear unto you, that ye may be pleased with them but if ye are pleased with them, Allah is not pleased with those who disobey.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ تمہارے آگے قسمیں کھائیں گے تاکہ تم ان سے خوش ہو جاؤ لیکن اگر تم اُن سے خوش ہو جاؤ گے تو خدا تو نافرمان لوگوں سے خوش نہیں ہوتا
+
 [Open on Quran.com](https://quran.com/9/96)
 
 #### 9:107 · [[009 At-Tawbah]]
@@ -171,6 +187,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And there are those who put up a mosque by way of mischief and infidelity - to disunite the Believers - and in preparation for one who warred against Allah and His Messenger aforetime. They will indeed swear that their intention is nothing but good; But Allah doth declare that they are certainly liars.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (ان میں سے ایسے بھی ہیں) جنہوں نے اس غرض سے مسجد بنوائی کہ ضرر پہنچائیں اور کفر کریں اور مومنوں میں تفرقہ ڈالیں اور جو لوگ خدا اور اس کے رسول سے پہلے جنگ کرچکے ہیں ان کے لیے گھات کی جگہ بنائیں۔ اور قسمیں کھائیں گے کہ ہمارا مقصود تو صرف بھلائی تھی۔ مگر خدا گواہی دیتا ہے کہ یہ جھوٹے ہیں
+
 [Open on Quran.com](https://quran.com/9/107)
 
 #### 58:14 · [[058 Al-Mujadila]]
@@ -186,6 +204,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have you not considered those who make allies of a people with whom Allāh has become angry? They are neither of you nor of them, and they swear to untruth while they know [they are lying].
 
 **English (Yusuf Ali):** Turnest thou not thy attention to those who turn (in friendship) to such as have the Wrath of Allah upon them? They are neither of you nor of them, and they swear to falsehood knowingly.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جو ایسوں سے دوستی کرتے ہیں جن پر خدا کا غضب ہوا۔ وہ نہ تم میں ہیں نہ ان میں۔ اور جان بوجھ کر جھوٹی باتوں پر قسمیں کھاتے ہیں
 
 [Open on Quran.com](https://quran.com/58/14)
 

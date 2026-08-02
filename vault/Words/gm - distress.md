@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[gmm - gmm]]
+- [[gmm - covering concealing something]]
 
 ### Meaning
 **distress** · Lemma **غَمّ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:153 · [[003 Ali Imran]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Remember] when you [fled and] climbed [the mountain] without looking aside at anyone while the Messenger was calling you from behind. So Allāh repaid you with distress upon distress so you would not grieve for that which had escaped you [of victory and spoils of war] or [for] that which had befallen you [of injury and death]. And Allāh is [fully] Aware of what you do.
 
 **English (Yusuf Ali):** Behold! ye were climbing up the high ground, without even casting a side glance at any one, and the Messenger in your rear was calling you back. There did Allah give you one distress after another by way of requital, to teach you not to grieve for (the booty) that had escaped you and for (the ill) that had befallen you. For Allah is well aware of all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** (وہ وقت بھی یاد کرنے کے لائق ہے) جب تم لوگ دور بھاگے جاتے تھے اور کسی کو پیچھے پھر کر نہیں دیکھتے تھے اور رسول الله تم کو تمہارے پیچھے کھڑے بلا رہے تھے تو خدا نے تم کو غم پر غم پہنچایا تاکہ جو چیز تمہارے ہاتھ سے جاتی رہی یا جو مصیبت تم پر واقع ہوئی ہے اس سے تم اندوہ ناک نہ ہو اور خدا تمہارے سب اعمال سے خبردار ہے
 
 [Open on Quran.com](https://quran.com/3/153)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** After (the excitement) of the distress, He sent down calm on a band of you overcome with slumber, while another band was stirred to anxiety by their own feelings, Moved by wrong suspicions of Allah-suspicions due to ignorance. They said: "What affair is this of ours?" Say thou: "Indeed, this affair is wholly Allah's." They hide in their minds what they dare not reveal to thee. They say (to themselves): "If we had had anything to do with this affair, We should not have been in the slaughter here." Say: "Even if you had remained in your homes, those for whom death was decreed would certainly have gone forth to the place of their death"; but (all this was) that Allah might test what is in your breasts and purge what is in your hearts. For Allah knoweth well the secrets of your hearts.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر خدا نے غم ورنج کے بعد تم پر تسلی نازل فرمائی (یعنی) نیند کہ تم میں سے ایک جماعت پر طاری ہو گئی اور کچھ لوگ جن کو جان کے لالے پڑ رہے تھے خدا کے بارے میں ناحق (ایام) کفر کے سے گمان کرتے تھے اور کہتے تھے بھلا ہمارے اختیار کی کچھ بات ہے؟ تم کہہ دو کہ بےشک سب باتیں خدا ہی کے اختیار میں ہیں یہ لوگ (بہت سی باتیں) دلوں میں مخفی رکھتے ہیں جو تم پر ظاہر نہیں کرتے تھے کہتے تھے کہ ہمارے بس کی بات ہوتی تو ہم یہاں قتل ہی نہ کیے جاتے کہہ دو کہ اگر تم اپنے گھروں میں بھی ہوتے تو جن کی تقدیر میں مارا جانا لکھا تھا وہ اپنی اپنی قتل گاہوں کی طرف ضرور نکل آتے اس سے غرض یہ تھی کہ خدا تمہارے سینوں کی باتوں کو آزمائے اور جو کچھ تمہارے دلوں میں ہے اس کو خالص اور صاف کر دے اور خدا دلوں کی باتوں سے خوب واقف ہے
+
 [Open on Quran.com](https://quran.com/3/154)
 
 #### 20:40 · [[020 Taha]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [And We favored you] when your sister went and said, 'Shall I direct you to someone who will be responsible for him?' So We restored you to your mother that she might be content and not grieve. And you killed someone, but We saved you from retaliation and tried you with a [severe] trial. And you remained [some] years among the people of Madyan. Then you came [here] at the decreed time, O Moses.
 
 **English (Yusuf Ali):** "Behold! thy sister goeth forth and saith, 'shall I show you one who will nurse and rear the (child)?' So We brought thee back to thy mother, that her eye might be cooled and she should not grieve. Then thou didst slay a man, but We saved thee from trouble, and We tried thee in various ways. Then didst thou tarry a number of years with the people of Midian. Then didst thou come hither as ordained, O Moses!
+
+**Urdu (Fatah Muhammad Jalandhari):** جب تمہاری بہن (فرعون کے ہاں) گئی اور کہنے لگی کہ میں تمہیں ایسا شخص بتاؤں جو اس کو پالے۔ تو (اس طریق سے) ہم نے تم کو تمہاری ماں کے پاس پہنچا دیا تاکہ ان کی آنکھیں ٹھنڈی ہوں اور وہ رنج نہ کریں۔ اور تم نے ایک شخص کو مار ڈالا تو ہم نے تم کو غم سے مخلصی دی اور ہم نے تمہاری (کئی بار) آزمائش کی۔ پھر تم کئی سال اہل مدین میں ٹھہرے رہے۔ پھر اے موسیٰ تم (قابلیت رسالت کے) اندازے پر آ پہنچے
 
 [Open on Quran.com](https://quran.com/20/40)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So We listened to him: and delivered him from distress: and thus do We deliver those who have faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان کی دعا قبول کرلی اور ان کو غم سے نجات بخشی۔ اور ایمان والوں کو ہم اسی طرح نجات دیا کرتے ہیں
+
 [Open on Quran.com](https://quran.com/21/88)
 
 #### 22:22 · [[022 Al-Hajj]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Every time they want to get out of it [i.e., Hellfire] from anguish, they will be returned to it, and [it will be said], "Taste the punishment of the Burning Fire!"
 
 **English (Yusuf Ali):** Every time they wish to get away therefrom, from anguish, they will be forced back therein, and (it will be said), "Taste ye the Penalty of Burning!"
+
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ چاہیں گے کہ اس رنج (وتکلیف) کی وجہ سے دوزخ سے نکل جائیں تو پھر اسی میں لوٹا دیئے جائیں گے۔ اور (کہا جائے گا کہ) جلنے کے عذاب کا مزہ چکھتے رہو
 
 [Open on Quran.com](https://quran.com/22/22)
 

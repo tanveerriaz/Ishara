@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jnd - jnd]]
+- [[jnd - army]]
 
 ### Meaning
 **hosts** · Lemma **جُند**
@@ -41,7 +41,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:249 · [[002 Al-Baqarah]]
 
@@ -56,6 +56,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when Saul went forth with the soldiers, he said, "Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand." But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, "There is no power for us today against Goliath and his soldiers." But those who were certain that they would meet Allāh said, "How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient."
 
 **English (Yusuf Ali):** When Talut set forth with the armies, he said: "Allah will test you at the stream: if any drinks of its water, He goes not with my army: Only those who taste not of it go with me: A mere sip out of the hand is excused." but they all drank of it, except a few. When they crossed the river,- He and the faithful ones with him,- they said: "This day We cannot cope with Goliath and his forces." but those who were convinced that they must meet Allah, said: "How oft, by Allah's will, Hath a small force vanquished a big one? Allah is with those who steadfastly persevere."
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض جب طالوت فوجیں لے کر روانہ ہوا تو اس نے (ان سے) کہا کہ خدا ایک نہر سے تمہاری آزمائش کرنے والا ہے۔ جو شخص اس میں سے پانی پی لے گا (اس کی نسبت تصور کیا جائے گا کہ) وہ میرا نہیں۔ اور جو نہ پئے گا وہ (سمجھا جائے گا کہ) میرا ہے۔ ہاں اگر کوئی ہاتھ سے چلو بھر پانی پی لے (تو خیر۔ جب وہ لوگ نہر پر پہنچے) تو چند شخصوں کے سوا سب نے پانی پی لیا۔ پھر جب طالوت اور مومن لوگ جو اس کے ساتھ تھے نہر کے پار ہوگئے۔ تو کہنے لگے کہ آج ہم میں جالوت اور اس کے لشکر سے مقابلہ کرنے کی طاقت نہیں۔ جو لوگ یقین رکھتے تھے کہ ان کو خدا کے روبرو حاضر ہونا ہے وہ کہنے لگے کہ بسااوقات تھوڑی سی جماعت نے خدا کے حکم سے بڑی جماعت پر فتح حاصل کی ہے اور خدا استقلال رکھنے والوں کے ساتھ ہے
 
 [Open on Quran.com](https://quran.com/2/249)
 
@@ -73,6 +75,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When they advanced to meet Goliath and his forces, they prayed: "Our Lord! Pour out constancy on us and make our steps firm: Help us against those that reject faith."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب وہ لوگ جالوت اور اس کے لشکر کے مقابل آئے تو (خدا سے) دعا کی کہ اے پروردگار ہم پر صبر کے دہانے کھول دے اور ہمیں (لڑائی میں) ثابت قدم رکھ اور (لشکر) کفار پر فتحیاب کر
+
 [Open on Quran.com](https://quran.com/2/250)
 
 #### 9:26 · [[009 At-Tawbah]]
@@ -88,6 +92,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then Allāh sent down His tranquility upon His Messenger and upon the believers and sent down soldiers [i.e., angels] whom you did not see and punished those who disbelieved. And that is the recompense of the disbelievers.
 
 **English (Yusuf Ali):** But Allah did pour His calm on the Messenger and on the Believers, and sent down forces which ye saw not: He punished the Unbelievers; thus doth He reward those without Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر خدا نے اپنے پیغمبر پر اور مومنوں پر اپنی طرف سے تسکین نازل فرمائی (اور تمہاری مدد کو فرشتوں کے) لشکر جو تمہیں نظر نہیں آتے تھے (آسمان سے) اُتارے اور کافروں کو عذاب دیا۔ اور کفر کرنے والوں کی یہی سزا ہے
 
 [Open on Quran.com](https://quran.com/9/26)
 
@@ -105,6 +111,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If ye help not (your leader), (it is no matter): for Allah did indeed help him, when the Unbelievers drove him out: he had no more than one companion; they two were in the cave, and he said to his companion, "Have no fear, for Allah is with us": then Allah sent down His peace upon him, and strengthened him with forces which ye saw not, and humbled to the depths the word of the Unbelievers. But the word of Allah is exalted to the heights: for Allah is Exalted in might, Wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم پیغمبر کی مدد نہ کرو گے تو خدا اُن کا مددگار ہے (وہ وقت تم کو یاد ہوگا) جب ان کو کافروں نے گھر سے نکال دیا۔ (اس وقت) دو (ہی ایسے شخص تھے جن) میں (ایک ابوبکرؓ تھے) اور دوسرے (خود رسول الله) جب وہ دونوں غار (ثور) میں تھے اس وقت پیغمبر اپنے رفیق کو تسلی دیتے تھے کہ غم نہ کرو خدا ہمارے ساتھ ہے۔ تو خدا نے ان پر تسکین نازل فرمائی اور ان کو ایسے لشکروں سے مدد دی جو تم کو نظر نہیں آتے تھے اور کافروں کی بات کو پست کر دیا۔ اور بات تو خدا ہی کی بلند ہے۔ اور خدا زبردست (اور) حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/9/40)
 
 #### 10:90 · [[010 Yunus]]
@@ -120,6 +128,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We took the Children of Israel across the sea, and Pharaoh and his soldiers pursued them in tyranny and enmity until, when drowning overtook him, he said, "I believe that there is no deity except that in whom the Children of Israel believe, and I am of the Muslims."
 
 **English (Yusuf Ali):** We took the Children of Israel across the sea: Pharaoh and his hosts followed them in insolence and spite. At length, when overwhelmed with the flood, he said: "I believe that there is no god except Him Whom the Children of Israel believe in: I am of those who submit (to Allah in Islam)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بنی اسرائیل کو دریا سے پار کردیا تو فرعون اور اس کے لشکر نے سرکشی اور تعدی سے ان کا تعاقب کیا۔ یہاں تک کہ جب اس کو غرق (کے عذاب) نے آپکڑا تو کہنے لگا کہ میں ایمان لایا کہ جس (خدا) پر بنی اسرائیل ایمان لائے ہیں اس کے سوا کوئی معبود نہیں اور میں فرمانبرداروں میں ہوں
 
 [Open on Quran.com](https://quran.com/10/90)
 
@@ -137,6 +147,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "If any men go astray, (Allah) Most Gracious extends (the rope) to them, until, when they see the warning of Allah (being fulfilled) - either in punishment or in (the approach of) the Hour,- they will at length realise who is worst in position, and (who) weakest in forces!
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ جو شخص گمراہی میں پڑا ہوا ہے خدا اس کو آہستہ آہستہ مہلت دیئے جاتا ہے۔ یہاں تک کہ جب اس چیز کو دیکھ لیں گے جس کا ان سے وعدہ کیا جاتا ہے خواہ عذاب اور خواہ قیامت۔ تو (اس وقت) جان لیں گے کہ مکان کس کا برا ہے اور لشکر کس کا کمزور ہے
+
 [Open on Quran.com](https://quran.com/19/75)
 
 #### 20:78 · [[020 Taha]]
@@ -152,6 +164,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them,
 
 **English (Yusuf Ali):** Then Pharaoh pursued them with his forces, but the waters completely overwhelmed them and covered them up.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر فرعون نے اپنے لشکر کے ساتھ ان کا تعاقب کیا تو دریا (کی موجوں) نے ان پر چڑھ کر انہیں ڈھانک لیا (یعنی ڈبو دیا)
 
 [Open on Quran.com](https://quran.com/20/78)
 
@@ -169,6 +183,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And the whole hosts of Iblis together.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور شیطان کے لشکر سب کے سب (داخل جہنم ہوں گے)
+
 [Open on Quran.com](https://quran.com/26/95)
 
 #### 27:17 · [[027 An-Naml]]
@@ -185,6 +201,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And before Solomon were marshalled his hosts,- of Jinns and men and birds, and they were all kept in order and ranks.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور سلیمان کے لئے جنوں اور انسانوں اور پرندوں کے لشکر جمع کئے گئے اور قسم وار کئے جاتے تھے
+
 [Open on Quran.com](https://quran.com/27/17)
 
 #### 27:18 · [[027 An-Naml]]
@@ -200,6 +218,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Until, when they came upon the valley of the ants, an ant said, "O ants, enter your dwellings that you not be crushed by Solomon and his soldiers while they perceive not."
 
 **English (Yusuf Ali):** At length, when they came to a (lowly) valley of ants, one of the ants said: "O ye ants, get into your habitations, lest Solomon and his hosts crush you (under foot) without knowing it."
+
+**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ جب چیونٹیوں کے میدان میں پہنچے تو ایک چیونٹی نے کہا کہ چیونٹیوں اپنے اپنے بلوں میں داخل ہو جاؤ ایسا نہ ہو کہ سلیمان اور اس کے لشکر تم کو کچل ڈالیں اور ان کو خبر بھی نہ ہو
 
 [Open on Quran.com](https://quran.com/27/18)
 

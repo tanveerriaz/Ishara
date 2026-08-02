@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Sly - sly]]
+- [[Sly - exposed fire heat]]
 
 ### Meaning
 **burn therein** · Lemma **يَصْلَى**
@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:10 · [[004 An-Nisa]]
 
@@ -51,6 +51,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who devour the property of orphans unjustly are only consuming into their bellies fire. And they will be burned in a Blaze [i.e., Hellfire].
 
 **English (Yusuf Ali):** Those who unjustly eat up the property of orphans, eat up a Fire into their own bodies: They will soon be enduring a Blazing Fire!
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگ یتیموں کا مال ناجائز طور پر کھاتے ہیں وہ اپنے پیٹ میں آگ بھرتے ہیں۔ اور دوزخ میں ڈالے جائیں گے
 
 [Open on Quran.com](https://quran.com/4/10)
 
@@ -68,6 +70,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Into Hell? They will burn therein,- an evil place to stay in!
 
+**Urdu (Fatah Muhammad Jalandhari):** (وہ گھر) دوزخ ہے۔ (سب ناشکرے) اس میں داخل ہوں گے۔ اور وہ برا ٹھکانہ ہے
+
 [Open on Quran.com](https://quran.com/14/29)
 
 #### 17:18 · [[017 Al-Isra]]
@@ -83,6 +87,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Whoever should desire the immediate - We hasten for him from it what We will to whom We intend. Then We have made for him Hell, which he will [enter to] burn, censured and banished.
 
 **English (Yusuf Ali):** If any do wish for the transitory things (of this life), We readily grant them - such things as We will, to such person as We will: in the end have We provided Hell for them: they will burn therein, disgraced and rejected.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص دنیا (کی آسودگی) کا خواہشمند ہو تو ہم اس میں سے جسے چاہتے ہیں اور جتنا چاہتے ہیں جلد دے دیتے ہیں۔ پھر اس کے لئے جہنم کو (ٹھکانا) مقرر کر رکھا ہے۔ جس میں وہ نفرین سن کر اور (درگاہ خدا سے) راندہ ہو کر داخل ہوگا
 
 [Open on Quran.com](https://quran.com/17/18)
 
@@ -100,6 +106,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Embrace ye the (fire) this Day, for that ye (persistently) rejected (Truth)."
 
+**Urdu (Fatah Muhammad Jalandhari):** (سو) جو تم کفر کرتے رہے ہو اس کے بدلے آج اس میں داخل ہوجاؤ
+
 [Open on Quran.com](https://quran.com/36/64)
 
 #### 38:56 · [[038 Sad]]
@@ -115,6 +123,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Hell, which they will [enter to] burn, and wretched is the resting place.
 
 **English (Yusuf Ali):** Hell!- they will burn therein, - an evil bed (indeed, to lie on)!-
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) دوزخ۔ جس میں وہ داخل ہوں گے اور وہ بری آرام گاہ ہے
 
 [Open on Quran.com](https://quran.com/38/56)
 
@@ -132,6 +142,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Burn ye therein: the same is it to you whether ye bear it with patience, or not: Ye but receive the recompense of your (own) deeds."
 
+**Urdu (Fatah Muhammad Jalandhari):** اس میں داخل ہوجاؤ اور صبر کرو یا نہ کرو تمہارے لئے یکساں ہے۔ جو کام تم کیا کرتے تھے (یہ) انہی کا تم کو بدلہ مل رہا ہے
+
 [Open on Quran.com](https://quran.com/52/16)
 
 #### 58:8 · [[058 Al-Mujadila]]
@@ -147,6 +159,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have you not considered those who were forbidden from private conversation [i.e., ridicule and conspiracy] and then return to that which they were forbidden and converse among themselves about sin and aggression and disobedience to the Messenger? And when they come to you, they greet you with that [word] by which Allāh does not greet you and say among themselves, "Why does Allāh not punish us for what we say?" Sufficient for them is Hell, which they will [enter to] burn, and wretched is the destination.
 
 **English (Yusuf Ali):** Turnest thou not thy sight towards those who were forbidden secret counsels yet revert to that which they were forbidden (to do)? And they hold secret counsels among themselves for iniquity and hostility, and disobedience to the Messenger. And when they come to thee, they salute thee, not as Allah salutes thee, (but in crooked ways): And they say to themselves, "Why does not Allah punish us for our words?" Enough for them is Hell: In it will they burn, and evil is that destination!
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے ان لوگوں کو نہیں دیکھا جن کو سرگوشیاں کرنے سے منع کیا گیا تھا۔ پھر جس (کام) سے منع کیا گیا تھا وہی پھر کرنے لگے اور یہ تو گناہ اور ظلم اور رسول (خدا) کی نافرمانی کی سرگوشیاں کرتے ہیں۔ اور جب تمہارے پاس آتے ہیں تو جس (کلمے) سے خدا نے تم کو دعا نہیں دی اس سے تمہیں دعا دیتے ہیں۔ اور اپنے دل میں کہتے ہیں کہ (اگر یہ واقعی پیغمبر ہیں تو) جو کچھ ہم کہتے ہیں خدا ہمیں اس کی سزا کیوں نہیں دیتا؟ (اے پیغمبر) ان کو دوزخ (ہی کی سزا) کافی ہے۔ یہ اسی میں داخل ہوں گے۔ اور وہ بری جگہ ہے
 
 [Open on Quran.com](https://quran.com/58/8)
 
@@ -164,6 +178,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Which they will enter on the Day of Judgment,
 
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) جزا کے دن اس میں داخل ہوں گے
+
 [Open on Quran.com](https://quran.com/82/15)
 
 #### 84:12 · [[084 Al-Inshiqaq]]
@@ -180,6 +196,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And he will enter a Blazing Fire.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ دوزخ میں داخل ہو گا
+
 [Open on Quran.com](https://quran.com/84/12)
 
 #### 87:12 · [[087 Al-Ala]]
@@ -195,6 +213,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [He] who will [enter and] burn in the greatest Fire,
 
 **English (Yusuf Ali):** Who will enter the Great Fire,
+
+**Urdu (Fatah Muhammad Jalandhari):** جو (قیامت کو) بڑی (تیز) آگ میں داخل ہو گا
 
 [Open on Quran.com](https://quran.com/87/12)
 

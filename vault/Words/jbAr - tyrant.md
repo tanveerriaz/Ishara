@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jbr - jabr]]
+- [[jbr - set broken bone]]
 
 ### Meaning
 **tyrant** · Lemma **جَبّار**
@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 5:22 · [[005 Al-Maidah]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "O Moses, indeed within it is a people of tyrannical strength, and indeed, we will never enter it until they leave it; but if they leave it, then we will enter."
 
 **English (Yusuf Ali):** They said: "O Moses! In this land are a people of exceeding strength: Never shall we enter it until they leave it: if (once) they leave, then shall we enter."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ موسیٰ! وہاں تو بڑے زبردست لوگ (رہتے) ہیں اور جب تک وہ اس سرزمین سے نکل نہ جائیں ہم وہاں جا نہیں سکتے ہاں اگر وہ وہاں سے نکل جائیں تو ہم جا داخل ہوں گے
 
 [Open on Quran.com](https://quran.com/5/22)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Such were the 'Ad People: they rejected the Signs of their Lord and Cherisher; disobeyed His messengers; And followed the command of every powerful, obstinate transgressor.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ (وہی) عاد ہیں جنہوں نے خدا کی نشانیوں سے انکار کیا اور اس کے پیغمبروں کی نافرمانی کی اور ہر متکبر وسرکش کا کہا مانا
+
 [Open on Quran.com](https://quran.com/11/59)
 
 #### 14:15 · [[014 Ibrahim]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they requested decision [i.e., victory from Allāh], and disappointed, [therefore], was every obstinate tyrant.
 
 **English (Yusuf Ali):** But they sought victory and decision (there and then), and frustration was the lot of every powerful obstinate transgressor.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبروں نے (خدا سے اپنی) فتح چاہی تو ہر سرکش ضدی نامراد رہ گیا
 
 [Open on Quran.com](https://quran.com/14/15)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And kind to his parents, and he was not overbearing or rebellious.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ماں باپ کے ساتھ نیکی کرنے والے تھے اور سرکش اور نافرمان نہیں تھے
+
 [Open on Quran.com](https://quran.com/19/14)
 
 #### 19:32 · [[019 Maryam]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [made me] dutiful to my mother, and He has not made me a wretched tyrant.
 
 **English (Yusuf Ali):** "(He) hath made me kind to my mother, and not overbearing or miserable;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (مجھے) اپنی ماں کے ساتھ نیک سلوک کرنے والا (بنایا ہے) اور سرکش وبدبخت نہیں بنایا
 
 [Open on Quran.com](https://quran.com/19/32)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And when ye exert your strong hand, do ye do it like men of absolute power?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب (کسی کو) پکڑتے ہو تو ظالمانہ پکڑتے ہو
+
 [Open on Quran.com](https://quran.com/26/130)
 
 #### 28:19 · [[028 Al-Qasas]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when he wanted to strike the one who was an enemy to both of them, he said, "O Moses, do you intend to kill me as you killed someone yesterday? You only want to be a tyrant in the land and do not want to be of the amenders."
 
 **English (Yusuf Ali):** Then, when he decided to lay hold of the man who was an enemy to both of them, that man said: "O Moses! Is it thy intention to slay me as thou slewest a man yesterday? Thy intention is none other than to become a powerful violent man in the land, and not to be one who sets things right!"
+
+**Urdu (Fatah Muhammad Jalandhari):** جب موسٰی نے ارادہ کیا کہ اس شخص کو جو ان دونوں کا دشمن تھا پکڑ لیں تو وہ (یعنی موسٰی کی قوم کا آدمی) بول اُٹھا کہ جس طرح تم نے کل ایک شخص کو مار ڈالا تھا اسی طرح چاہتے ہو کہ مجھے بھی مار ڈالو۔ تم تو یہی چاہتے ہو کہ ملک میں ظلم وستم کرتے پھرو اور یہ نہیں چاہتے ہو کہ نیکو کاروں میں ہو
 
 [Open on Quran.com](https://quran.com/28/19)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "(Such) as dispute about the Signs of Allah, without any authority that hath reached them, grievous and odious (is such conduct) in the sight of Allah and of the Believers. Thus doth Allah, seal up every heart - of arrogant and obstinate Transgressors."
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ بغیر اس کے کہ ان کے پاس کوئی دلیل آئی ہو خدا کی آیتوں میں جھگڑتے ہیں۔ خدا کے نزدیک اور مومنوں کے نزدیک یہ جھگڑا سخت ناپسند ہے۔ اسی طرح خدا ہر متکبر سرکش کے دل پر مہر لگا دیتا ہے
+
 [Open on Quran.com](https://quran.com/40/35)
 
 #### 50:45 · [[050 Qaf]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We know best what they say; and thou art not one to overawe them by force. So admonish with the Qur'an such as fear My Warning!
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ لوگ جو کچھ کہتے ہیں ہمیں خوب معلوم ہے اور تم ان پر زبردستی کرنے والے نہیں ہو۔ پس جو ہمارے (عذاب کی) وعید سے ڈرے اس کو قرآن سے نصیحت کرتے رہو
+
 [Open on Quran.com](https://quran.com/50/45)
 
 #### 59:23 · [[059 Al-Hashr]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He is Allāh, other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Grantor of Security, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allāh above whatever they associate with Him.
 
 **English (Yusuf Ali):** Allah is He, than Whom there is no other god;- the Sovereign, the Holy One, the Source of Peace (and Perfection), the Guardian of Faith, the Preserver of Safety, the Exalted in Might, the Irresistible, the Supreme: Glory to Allah! (High is He) above the partners they attribute to Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی خدا ہے جس کے سوا کوئی عبادت کے لائق نہیں۔ بادشاہ (حقیقی) پاک ذات (ہر عیب سے) سلامتی امن دینے والا نگہبان غالب زبردست بڑائی والا۔ خدا ان لوگوں کے شریک مقرر کرنے سے پاک ہے
 
 [Open on Quran.com](https://quran.com/59/23)
 

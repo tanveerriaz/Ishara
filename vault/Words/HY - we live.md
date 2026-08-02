@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:25 · [[007 Al-Araf]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "Therein you will live, and therein you will die, and from it you will be brought forth."
 
 **English (Yusuf Ali):** He said: "Therein shall ye live, and therein shall ye die; but from it shall ye be taken out (at last)."
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) فرمایا کہ اسی میں تمہارا جینا ہوگا اور اسی میں مرنا اور اسی میں سے (قیامت کو زندہ کر کے) نکالے جاؤ گے
 
 [Open on Quran.com](https://quran.com/7/25)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Remember ye were on the hither side of the valley, and they on the farther side, and the caravan on lower ground than ye. Even if ye had made a mutual appointment to meet, ye would certainly have failed in the appointment: But (thus ye met), that Allah might accomplish a matter already enacted; that those who died might die after a clear Sign (had been given), and those who lived might live after a Clear Sign (had been given). And verily Allah is He Who heareth and knoweth (all things).
 
+**Urdu (Fatah Muhammad Jalandhari):** جس وقت تم (مدینے سے) قریب کے ناکے پر تھے اور کافر بعید کے ناکے پر اور قافلہ تم سے نیچے (اتر گیا) تھا۔ اور اگر تم (جنگ کے لیے) آپس میں قرارداد کرلیتے تو وقت معین (پر جمع ہونے) میں تقدیم وتاخیر ہو جاتی۔ لیکن خدا کو منظور تھا کہ جو کام ہو کر رہنے والا تھا اسے کر ہی ڈالے تاکہ جو مرے بصیرت پر (یعنی یقین جان کر) مرے اور جو جیتا رہے وہ بھی بصیرت پر (یعنی حق پہچان کر) جیتا رہے۔ اور کچھ شک نہیں کہ خدا سنتا جانتا ہے
+
 [Open on Quran.com](https://quran.com/8/42)
 
 #### 20:74 · [[020 Taha]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, whoever comes to his Lord as a criminal - indeed, for him is Hell; he will neither die therein nor live.
 
 **English (Yusuf Ali):** Verily he who comes to his Lord as a sinner (at Judgment),- for him is Hell: therein shall he neither die nor live.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص اپنے پروردگار کے پاس گنہگار ہو کر آئے گا تو اس کے لئے جہنم ہے۔ جس میں نہ مرے گا نہ جیئے گا
 
 [Open on Quran.com](https://quran.com/20/74)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "There is nothing but our life in this world! We shall die and we live! But we shall never be raised up again!
 
+**Urdu (Fatah Muhammad Jalandhari):** زندگی تو یہی ہماری دنیا کی زندگی ہے کہ (اسی میں) ہم مرتے اور جیتے ہیں، اور ہم پھر نہیں اُٹھائے جائیں گے
+
 [Open on Quran.com](https://quran.com/23/37)
 
 #### 45:24 · [[045 Al-Jathiyah]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And they say: "What is there but our life in this world? We shall die and we live, and nothing but time can destroy us." But of that they have no knowledge: they merely conjecture:
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ ہماری زندگی تو صرف دنیا ہی کی ہے کہ (یہیں) مرتے اور جیتے ہیں اور ہمیں تو زمانہ مار دیتا ہے۔ اور ان کو اس کا کچھ علم نہیں۔ صرف ظن سے کام لیتے ہیں
+
 [Open on Quran.com](https://quran.com/45/24)
 
 #### 87:13 · [[087 Al-Ala]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Neither dying therein nor living.
 
 **English (Yusuf Ali):** In which they will then neither die nor live.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر وہاں نہ مرے گا اور نہ جئے گا
 
 [Open on Quran.com](https://quran.com/87/13)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[HDr - hdr]]
+- [[HDr - present]]
 
 ### Meaning
 **approaches** · Lemma **حَضَرَ**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:133 · [[002 Al-Baqarah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or were you witnesses when death approached Jacob, when he said to his sons, "What will you worship after me?" They said, "We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac - one God. And we are Muslims [in submission] to Him."
 
 **English (Yusuf Ali):** Were ye witnesses when death appeared before Jacob? Behold, he said to his sons: "What will ye worship after me?" They said: "We shall worship Thy god and the god of thy fathers, of Abraham, Isma'il and Isaac,- the one (True) Allah: To Him we bow (in Islam)."
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس وقت یعقوب وفات پانے لگے تو تم اس وقت موجود تھے، جب انہوں نے اپنے بیٹوں سے پوچھا کہ میرے بعد تم کس کی عبادت کرو گے، تو انہوں نے کہا کہ آپ کے معبود اور آپ کے باپ دادا ابراہیم اور اسمٰعیل اور اسحاق کے معبود کی عبادت کریں گے جو معبود یکتا ہے اور ہم اُسی کے حکم بردار ہیں
 
 [Open on Quran.com](https://quran.com/2/133)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is prescribed, when death approaches any of you, if he leave any goods that he make a bequest to parents and next of kin, according to reasonable usage; this is due from the Allah-fearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** تم پر فرض کیا جاتا ہے کہ جب تم میں سے کسی کو موت کا وقت آجائے تو اگر وہ کچھ مال چھوڑ جانے والا ہو تو ماں با پ اور رشتہ داروں کے لئے دستور کے مطابق وصیت کرجائے (خدا سے) ڈر نے والوں پر یہ ایک حق ہے
+
 [Open on Quran.com](https://quran.com/2/180)
 
 #### 4:8 · [[004 An-Nisa]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when [other] relatives and orphans and the needy are present at the [time of] division, then provide for them [something] out of it [i.e., the estate] and speak to them words of appropriate kindness.
 
 **English (Yusuf Ali):** But if at the time of division other relatives, or orphans or poor, are present, feed them out of the (property), and speak to them words of kindness and justice.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب میراث کی تقسیم کے وقت (غیر وارث) رشتہ دار اور یتیم اور محتاج آجائیں تو ان کو بھی اس میں سے کچھ دے دیا کرو۔ اور شیریں کلامی سے پیش آیا کرو
 
 [Open on Quran.com](https://quran.com/4/8)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Of no effect is the repentance of those who continue to do evil, until death faces one of them, and he says, "Now have I repented indeed;" nor of those who die rejecting Faith: for them have We prepared a punishment most grievous.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ایسے لوگوں کی توبہ قبول نہیں ہوتی جو (ساری عمر) برے کام کرتے ہیں۔ یہاں تک کہ جب ان میں سے کسی موت آموجود ہو تو اس وقت کہنے لگے کہ اب میں توبہ کرتا ہوں اور نہ ان کی (توبہ قبول ہوتی ہے) جو کفر کی حالت میں مریں۔ ایسے لوگوں کے لئے ہم نے عذاب الیم تیار کر رکھا ہے
+
 [Open on Quran.com](https://quran.com/4/18)
 
 #### 5:106 · [[005 Al-Maidah]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, testimony [should be taken] among you when death approaches one of you at the time of bequest - [that of] two just men from among you or two others from outside if you are traveling through the land and the disaster of death should strike you. Detain them after the prayer and let them both swear by Allāh if you doubt [their testimony, saying], "We will not exchange it [i.e., our oath] for a price [i.e., worldly gain], even if he should be a near relative, and we will not withhold the testimony of [i.e., ordained by] Allāh. Indeed, we would then be of the sinful."
 
 **English (Yusuf Ali):** O ye who believe! When death approaches any of you, (take) witnesses among yourselves when making bequests,- two just men of your own (brotherhood) or others from outside if ye are journeying through the earth, and the chance of death befalls you (thus). If ye doubt (their truth), detain them both after prayer, and let them both swear by Allah: "We wish not in this for any worldly gain, even though the (beneficiary) be our near relation: we shall hide not the evidence before Allah: if we do, then behold! the sin be upon us!"
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم میں سے کسی کی موت آموجود ہو تو شہادت (کا نصاب) یہ ہے کہ وصیت کے وقت تم (مسلمانوں) میں سے دو عادل (یعنی صاحب اعتبار) گواہ ہوں یا اگر (مسلمان نہ ملیں اور) تم سفر کر رہے ہو اور (اس وقت) تم پر موت کی مصیبت واقع ہو تو کسی دوسرے مذہب کے دو (شخصوں کو) گواہ (کر لو) اگر تم کو ان گواہوں کی نسبت کچھ شک ہو تو ان کو (عصر کی) نماز کے بعد کھڑا کرو اور دونوں خدا کی قسمیں کھائیں کہ ہم شہادت کا کچھ عوض نہیں لیں گے گو ہمارا رشتہ دار ہی ہو اور نہ ہم الله کی شہادت کو چھپائیں گے اگر ایسا کریں گے تو گنہگار ہوں گے
 
 [Open on Quran.com](https://quran.com/5/106)
 
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And I seek refuge with Thee O my Lord! lest they should come near me."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اے پروردگار! اس سے بھی تیری پناہ مانگتا ہوں کہ وہ میرے پاس آموجود ہوں
+
 [Open on Quran.com](https://quran.com/23/98)
 
 #### 46:29 · [[046 Al-Ahqaf]]
@@ -139,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when We directed to you a few of the jinn, listening to the Qur’ān. And when they attended it, they said, "Listen attentively." And when it was concluded, they went back to their people as warners.
 
 **English (Yusuf Ali):** Behold, We turned towards thee a company of Jinns (quietly) listening to the Qur'an: when they stood in the presence thereof, they said, "Listen in silence!" When the (reading) was finished, they returned to their people, to warn (them of their sins).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے جنوں میں سے کئی شخص تمہاری طرف متوجہ کئے کہ قرآن سنیں۔ تو جب وہ اس کے پاس آئے تو (آپس میں) کہنے لگے کہ خاموش رہو۔ جب (پڑھنا) تمام ہوا تو اپنی برادری کے لوگوں میں واپس گئے کہ (ان کو) نصیحت کریں
 
 [Open on Quran.com](https://quran.com/46/29)
 

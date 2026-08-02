@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:14 · [[003 Ali Imran]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allāh has with Him the best return [i.e., Paradise].
 
 **English (Yusuf Ali):** Fair in the eyes of men is the love of things they covet: Women and sons; Heaped-up hoards of gold and silver; horses branded (for blood and excellence); and (wealth of) cattle and well-tilled land. Such are the possessions of this world's life; but in nearness to Allah is the best of the goals (To return to).
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/3/14)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! there are indeed many among the priests and anchorites, who in Falsehood devour the substance of men and hinder (them) from the way of Allah. And there are those who bury gold and silver and spend it not in the way of Allah: announce unto them a most grievous penalty-
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! (اہل کتاب کے) بہت سے عالم اور مشائخ لوگوں کا مال ناحق کھاتے اور (ان کو) راہ خدا سے روکتے ہیں۔ اور جو لوگ سونا اور چاندی جمع کرتے ہیں اور اس کو خدا کے رستے میں خرچ نہیں کرتے۔ ان کو اس دن عذاب الیم کی خبر سنادو
+
 [Open on Quran.com](https://quran.com/9/34)
 
 #### 43:33 · [[043 Az-Zukhruf]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if it were not that the people would become one community [of disbelievers], We would have made for those who disbelieve in the Most Merciful - for their houses - ceilings and stairways of silver upon which to mount.
 
 **English (Yusuf Ali):** And were it not that (all) men might become of one (evil) way of life, We would provide, for everyone that blasphemes against (Allah) Most Gracious, silver roofs for their houses and (silver) stair-ways on which to go up,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر یہ خیال نہ ہوتا کہ سب لوگ ایک ہی جماعت ہوجائیں گے تو جو لوگ خدا سے انکار کرتے ہیں ہم ان کے گھروں کی چھتیں چاندی کی بنا دیتے اور سیڑھیاں (بھی) جن پر وہ چڑھتے ہیں
 
 [Open on Quran.com](https://quran.com/43/33)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And amongst them will be passed round vessels of silver and goblets of crystal,-
 
+**Urdu (Fatah Muhammad Jalandhari):** خدام) چاندی کے باسن لئے ہوئے ان کے اردگرد پھریں گے اور شیشے کے (نہایت شفاف) گلاس
+
 [Open on Quran.com](https://quran.com/76/15)
 
 #### 76:16 · [[076 Al-Insan]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Crystal-clear, made of silver: they will determine the measure thereof (according to their wishes).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور شیشے بھی چاندی کے جو ٹھیک اندازے کے مطابق بنائے گئے ہیں
+
 [Open on Quran.com](https://quran.com/76/16)
 
 #### 76:21 · [[076 Al-Insan]]
@@ -122,6 +132,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Upon them [i.e., the inhabitants] will be green garments of fine silk and brocade. And they will be adorned with bracelets of silver, and their Lord will give them a purifying drink.
 
 **English (Yusuf Ali):** Upon them will be green Garments of fine silk and heavy brocade, and they will be adorned with Bracelets of silver; and their Lord will give to them to drink of a Wine Pure and Holy.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان (کے بدنوں) پر دیبا سبز اور اطلس کے کپڑے ہوں گے۔ اور انہیں چاندی کے کنگن پہنائے جائیں گے اور ان کا پروردگار ان کو نہایت پاکیزہ شراب پلائے گا
 
 [Open on Quran.com](https://quran.com/76/21)
 

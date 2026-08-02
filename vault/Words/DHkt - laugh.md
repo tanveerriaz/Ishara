@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[DHk - dhk]]
+- [[DHk - laugh]]
 
 ### Meaning
 **laugh** · Lemma **ضَحِكَتْ**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:82 · [[009 At-Tawbah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So let them laugh a little and [then] weep much as recompense for what they used to earn.
 
 **English (Yusuf Ali):** Let them laugh a little: much will they weep: a recompense for the (evil) that they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ (دنیا میں) تھوڑا سا ہنس لیں اور (آخرت میں) ان کو ان اعمال کے بدلے جو کرتے رہے ہیں بہت سا رونا ہوگا
 
 [Open on Quran.com](https://quran.com/9/82)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And his wife was standing (there), and she laughed: But we gave her glad tidings of Isaac, and after him, of Jacob.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم کی بیوی (جو پاس) کھڑی تھی، ہنس پڑی تو ہم نے اس کو اسحاق کی اور اسحاق کے بعد یعقوب کی خوشخبری دی
+
 [Open on Quran.com](https://quran.com/11/71)
 
 #### 23:110 · [[023 Al-Muminun]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But you took them in mockery to the point that they made you forget My remembrance, and you used to laugh at them.
 
 **English (Yusuf Ali):** "But ye treated them with ridicule, so much so that (ridicule of) them made you forget My Message while ye were laughing at them!
+
+**Urdu (Fatah Muhammad Jalandhari):** تو تم ان سے تمسخر کرتے رہے یہاں تک کہ ان کے پیچھے میری یاد بھی بھول گئے اور تم (ہمیشہ) ان سے ہنسی کیا کرتے تھے
 
 [Open on Quran.com](https://quran.com/23/110)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But when he came to them with Our Signs, behold they ridiculed them.
 
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ ان کے پاس ہماری نشانیاں لے کر آئے تو وہ نشانیوں سے ہنسی کرنے لگے
+
 [Open on Quran.com](https://quran.com/43/47)
 
 #### 53:60 · [[053 An-Najm]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And you laugh and do not weep
 
 **English (Yusuf Ali):** And will ye laugh and not weep,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہنستے ہو اور روتے نہیں؟
 
 [Open on Quran.com](https://quran.com/53/60)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those in sin used to laugh at those who believed,
 
+**Urdu (Fatah Muhammad Jalandhari):** جو گنہگار (یعنی کفار) ہیں وہ (دنیا میں) مومنوں سے ہنسی کیا کرتے تھے
+
 [Open on Quran.com](https://quran.com/83/29)
 
 #### 83:34 · [[083 Al-Mutaffifin]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So Today those who believed are laughing at the disbelievers,
 
 **English (Yusuf Ali):** But on this Day the Believers will laugh at the Unbelievers:
+
+**Urdu (Fatah Muhammad Jalandhari):** تو آج مومن کافروں سے ہنسی کریں گے
 
 [Open on Quran.com](https://quran.com/83/34)
 

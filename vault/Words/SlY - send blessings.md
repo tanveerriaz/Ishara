@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:39 · [[003 Ali Imran]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So the angels called him while he was standing in prayer in the chamber, "Indeed, Allāh gives you good tidings of John, confirming a word from Allāh and [who will be] honorable, abstaining [from women], and a prophet from among the righteous."
 
 **English (Yusuf Ali):** While he was standing in prayer in the chamber, the angels called unto him: "Allah doth give thee glad tidings of Yahya, witnessing the truth of a Word from Allah, and (be besides) noble, chaste, and a prophet,- of the (goodly) company of the righteous."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ ابھی عبادت گاہ میں کھڑے نماز ہی پڑھ رہے تھے کہ فرشتوں نے آواز دی کہ (زکریا) خدا تمہیں یحییٰ کی بشارت دیتا ہے جو خدا کے فیض یعنی (عیسیٰ) کی تصدیق کریں گے اور سردار ہوں گے اور عورتوں سے رغبت نہ رکھنے والے اور (خدا کے) پیغمبر (یعنی) نیکو کاروں میں ہوں گے
 
 [Open on Quran.com](https://quran.com/3/39)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When thou (O Messenger) art with them, and standest to lead them in prayer, Let one party of them stand up (in prayer) with thee, Taking their arms with them: When they finish their prostrations, let them Take their position in the rear. And let the other party come up which hath not yet prayed - and let them pray with thee, Taking all precaution, and bearing arms: the Unbelievers wish, if ye were negligent of your arms and your baggage, to assault you in a single rush. But there is no blame on you if ye put away your arms because of the inconvenience of rain or because ye are ill; but take (every) precaution for yourselves. For the Unbelievers Allah hath prepared a humiliating punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) جب تم ان (مجاہدین کے لشکر) میں ہو اور ان کو نماز پڑھانے لگو تو چاہیئے کہ ان کی ایک جماعت تمہارے ساتھ مسلح ہو کر کھڑی رہے جب وہ سجدہ کرچکیں تو پرے ہو جائیں پھر دوسری جماعت جس نے نماز نہیں پڑھی (ان کی جگہ) آئے اور ہوشیار اور مسلح ہو کر تمہارے ساتھ نماز ادا کرے کافر اس گھات میں ہیں کہ تم ذرا اپنے ہتھیاروں اور سامان سے غافل ہو جاؤ تو تم پر یکبارگی حملہ کردیں اگر تم بارش کے سبب تکلیف میں یا بیمار ہو تو تم پر کچھ گناہ نہیں کہ ہتھیار اتار رکھو مگر ہوشیار ضرور رہنا خدا نے کافروں کے لئے ذلت کا عذاب تیار کر رکھا ہے
+
 [Open on Quran.com](https://quran.com/4/102)
 
 #### 9:84 · [[009 At-Tawbah]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not pray [the funeral prayer, O Muḥammad], over any of them who has died - ever - or stand at his grave. Indeed, they disbelieved in Allāh and His Messenger and died while they were defiantly disobedient.
 
 **English (Yusuf Ali):** Nor do thou ever pray for any of them that dies, nor stand at his grave; for they rejected Allah and His Messenger, and died in a state of perverse rebellion.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) ان میں سے کوئی مر جائے تو کبھی اس (کے جنازے) پر نماز نہ پڑھنا اور نہ اس کی قبر پر (جا کر) کھڑے ہونا۔ یہ خدا اور اس کے رسول کے ساتھ کفر کرتے رہے اور مرے بھی نافرمان (ہی مرے)
 
 [Open on Quran.com](https://quran.com/9/84)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Of their goods, take alms, that so thou mightest purify and sanctify them; and pray on their behalf. Verily thy prayers are a source of security for them: And Allah is One Who heareth and knoweth.
 
+**Urdu (Fatah Muhammad Jalandhari):** ان کے مال میں سے زکوٰة قبول کر لو کہ اس سے تم ان کو (ظاہر میں بھی) پاک اور (باطن میں بھی) پاکیزہ کرتے ہو اور ان کے حق میں دعائے خیر کرو کہ تمہاری دعا ان کے لیے موجب تسکین ہے اور خدا سننے والا اور جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/9/103)
 
 #### 33:43 · [[033 Al-Ahzab]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is He who confers blessing upon you, and His angels [ask Him to do so] that He may bring you out from darknesses into the light. And ever is He, to the believers, Merciful.
 
 **English (Yusuf Ali):** He it is Who sends blessings on you, as do His angels, that He may bring you out from the depths of Darkness into Light: and He is Full of Mercy to the Believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جو تم پر رحمت بھیجتا ہے اور اس کے فرشتے بھی۔ تاکہ تم کو اندھیروں سے نکال کر روشنی کی طرف لے جائے۔ اور خدا مومنوں پر مہربان ہے
 
 [Open on Quran.com](https://quran.com/33/43)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah and His angels send blessings on the Prophet: O ye that believe! Send ye blessings on him, and salute him with all respect.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا اور اس کے فرشتے پیغمبر پر درود بھیجتے ہیں۔ مومنو تم بھی ان پر دُرود اور سلام بھیجا کرو
+
 [Open on Quran.com](https://quran.com/33/56)
 
 #### 75:31 · [[075 Al-Qiyamah]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And he [i.e., the disbeliever] had not believed, nor had he prayed.
 
 **English (Yusuf Ali):** So he gave nothing in charity, nor did he pray!-
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اس (ناعاقبت) اندیش نے نہ تو (کلام خدا) کی تصدیق کی نہ نماز پڑھی
 
 [Open on Quran.com](https://quran.com/75/31)
 
@@ -159,6 +173,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And glorify the name of their Guardian-Lord, and (lift their hearts) in prayer.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے پروردگار کے نام کا ذکر کرتا رہا اور نماز پڑھتا رہا
+
 [Open on Quran.com](https://quran.com/87/15)
 
 #### 96:10 · [[096 Al-Alaq]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A votary when he (turns) to pray?
 
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) ایک بندے کو جب وہ نماز پڑھنے لگتا ہے
+
 [Open on Quran.com](https://quran.com/96/10)
 
 #### 108:2 · [[108 Al-Kawthar]]
@@ -190,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So pray to your Lord and offer sacrifice [to Him alone].
 
 **English (Yusuf Ali):** Therefore to thy Lord turn in Prayer and Sacrifice.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اپنے پروردگار کے لیے نماز پڑھا کرو اور قربانی دیا کرو
 
 [Open on Quran.com](https://quran.com/108/2)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:73 · [[011 Hud]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "Are you amazed at the decree of Allāh? May the mercy of Allāh and His blessings be upon you, people of the house. Indeed, He is Praiseworthy and Honorable."
 
 **English (Yusuf Ali):** They said: "Dost thou wonder at Allah's decree? The grace of Allah and His blessings on you, o ye people of the house! for He is indeed worthy of all praise, full of all glory!"
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کیا تم خدا کی قدرت سے تعجب کرتی ہو؟ اے اہل بیت تم پر خدا کی رحمت اور اس کی برکتیں ہیں۔ وہ سزاوار تعریف اور بزرگوار ہے
 
 [Open on Quran.com](https://quran.com/11/73)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Qaf: By the Glorious Qur'an (Thou art Allah's Messenger).
 
+**Urdu (Fatah Muhammad Jalandhari):** قٓ۔ قرآن مجید کی قسم (کہ محمد پیغمبر خدا ہیں)
+
 [Open on Quran.com](https://quran.com/50/1)
 
 #### 85:15 · [[085 Al-Buruj]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Lord of the Throne of Glory,
 
+**Urdu (Fatah Muhammad Jalandhari):** عرش کا مالک بڑی شان والا
+
 [Open on Quran.com](https://quran.com/85/15)
 
 #### 85:21 · [[085 Al-Buruj]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But this is an honored Qur’ān
 
 **English (Yusuf Ali):** Nay, this is a Glorious Qur'an,
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ کتاب ہزل و بطلان نہیں) بلکہ یہ قرآن عظیم الشان ہے
 
 [Open on Quran.com](https://quran.com/85/21)
 

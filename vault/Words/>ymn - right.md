@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ymn - ymn]]
+- [[ymn - right side south]]
 
 ### Meaning
 **right** · Lemma **أَيْمَن**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 19:52 · [[019 Maryam]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We called him from the side of the mount at [his] right and brought him near, confiding [to him].
 
 **English (Yusuf Ali):** And we called him from the right side of Mount (Sinai), and made him draw near to Us, for mystic (converse).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو طور کی داہنی جانب پکارا اور باتیں کرنے کے لئے نزدیک بلایا
 
 [Open on Quran.com](https://quran.com/19/52)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye Children of Israel! We delivered you from your enemy, and We made a Covenant with you on the right side of Mount (Sinai), and We sent down to you Manna and quails:
 
+**Urdu (Fatah Muhammad Jalandhari):** اے آل یعقوب ہم نے تم کو تمہارے دشمن سے نجات دی اور تورات دینے کے لئے تم سے کوہ طور کی داہنی طرف مقرر کی اور تم پر من اور سلویٰ نازل کیا
+
 [Open on Quran.com](https://quran.com/20/80)
 
 #### 28:30 · [[028 Al-Qasas]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But when he came to it, he was called from the right side of the valley in a blessed spot - from the tree, "O Moses, indeed I am Allāh, Lord of the worlds."
 
 **English (Yusuf Ali):** But when he came to the (fire), a voice was heard from the right bank of the valley, from a tree in hallowed ground: "O Moses! Verily I am Allah, the Lord of the Worlds....
+
+**Urdu (Fatah Muhammad Jalandhari):** جب اس کے پاس پہنچے تو میدان کے دائیں کنارے سے ایک مبارک جگہ میں ایک درخت میں سے آواز آئی کہ موسٰی میں تو خدائے رب العالمین ہوں
 
 [Open on Quran.com](https://quran.com/28/30)
 

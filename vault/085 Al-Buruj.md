@@ -15,80 +15,80 @@ The Mansions of the Stars · 22 ayahs
 ## Words in this surah (graph)
 
 - [[mjyd - glorious]] — `مَجِيد` · glorious
-- [[qEwd - sitting]] — `قُعُود` · sitting
-- [[Hryq - burning fire]] — `حَرِيق` · burning fire
-- [[kbyr - great]] — `كَبِير` · great
-- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[nAr - fire]] — `نار` · fire
-- [[ybd} - allah originates]] — `يُبْدِئُ` · allah originates
-- [[allah - God]] — `الله` · God
-- [[$hyd - witness]] — `شَهِيد` · witness
-- [[tAb - repent]] — `تابَ` · repent
-- [[Er$ - throne]] — `عَرْش` · throne
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[jnd - hosts]] — `جُند` · hosts
-- [[m$hwd - witnessed]] — `مَشْهُود` · witnessed
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[tHt - underneath it]] — `تَحْت` · underneath it
-- [[fwz - success]] — `فَوْز` · success
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[Eml - do]] — `عَمِلَ` · do
-- [[mlk - angels]] — `مَلَك` · angels
-- [[$dyd - severe]] — `شَدِيد` · severe
 - [[ftn - we tried]] — `فَتَنُ` · we tried
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[tHt - underneath it]] — `تَحْت` · underneath it
+- [[mlk - angels]] — `مَلَك` · angels
 - [[Hdyv - statement]] — `حَدِيث` · statement
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[nqm - you resent]] — `نَقَمُ` · you resent
+- [[tAb - repent]] — `تابَ` · repent
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>rD - earth]] — `أَرْض` · earth
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[kbyr - great]] — `كَبِير` · great
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[rb - lord]] — `رَبّ` · lord
+- [[m&mn - believers]] — `مُؤْمِن` · believers
+- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
+- [[lwH - tablets]] — `لَوْح` · tablets
+- [[qEwd - sitting]] — `قُعُود` · sitting
+- [[$Ahd - witnesses]] — `شاهِد` · witnesses
+- [[mHyT - all-encompassing]] — `مُحِيط` · all-encompassing
+- [[Hryq - burning fire]] — `حَرِيق` · burning fire
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[ybd} - allah originates]] — `يُبْدِئُ` · allah originates
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$hd - shhd]]
+- [[$hd - witnessing]]
 - [[$y> - thing]]
-- [[>mn - amn]]
-- [[>rD - ard]]
+- [[>mn - believe]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[E*b - edhb]]
-- [[Eml - eml]]
-- [[Er$ - ersh]]
-- [[Ewd - ewd]]
+- [[E*b - motes particles floating]]
+- [[Eml - intentional action deed]]
+- [[Er$ - shaded structure]]
+- [[Ewd - aad]]
 - [[Ezz - all-mighty]]
 - [[Hdv - accidents]]
-- [[HfZ - hfzh]]
+- [[HfZ - keep]]
 - [[Hmd - praise]]
-- [[Hrq - hrq]]
+- [[Hrq - burn]]
 - [[HwT - guard]]
 - [[SHb - lord]]
-- [[SlH - slh]]
+- [[SlH - make something good]]
 - [[allah - God]]
 - [[bT$ - seize assault violence]]
-- [[bd> - bda]]
+- [[bd> - originates]]
 - [[brj - tower]]
 - [[fEl - deed]]
-- [[ftn - ftn]]
-- [[fwz - fwz]]
+- [[ftn - burn melt something]]
+- [[fwz - attain good fortune]]
 - [[gfr - cover conceal]]
-- [[jnd - jnd]]
-- [[jnn - jann]]
+- [[jnd - army]]
+- [[jnn - cover]]
 - [[jry - passage time events]]
 - [[k*b - denied]]
-- [[kbr - kbr]]
+- [[kbr - greater]]
 - [[kfr - disbelieve]]
 - [[kll - every]]
-- [[lwH - lwh]]
+- [[lwH - tablets]]
 - [[mjd - glorious]]
 - [[mlk - sovereignty]]
-- [[nhr - nahara]]
-- [[nqm - nqm]]
+- [[nhr - dig river channel]]
+- [[nqm - take vengeance inflict]]
 - [[nwr - brand mark camels]]
 - [[qEd - sit]]
 - [[qr> - someone teaches others]]
 - [[qtl - kill]]
 - [[rbb - Lord]]
-- [[rwd - rwd]]
+- [[rwd - he intends]]
 - [[smw - name]]
 - [[tHt - underneath it]]
-- [[twb - twb]]
+- [[twb - return]]
 - [[wEd - promise]]
 - [[wdd - love]]
 - [[wqd - waqada]]

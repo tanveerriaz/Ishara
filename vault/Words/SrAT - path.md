@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 1:6 · [[001 Al-Fatihah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Guide us to the straight path -
 
 **English (Yusuf Ali):** Show us the straight way,
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم کو سیدھے رستے چلا
 
 [Open on Quran.com](https://quran.com/1/6)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.
 
+**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں کے رستے جن پر تو اپنا فضل وکرم کرتا رہا نہ ان کے جن پر غصے ہوتا رہا اور نہ گمراہوں کے
+
 [Open on Quran.com](https://quran.com/1/7)
 
 #### 2:142 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The foolish among the people will say, "What has turned them away from their qiblah, which they used to face?" Say, "To Allāh belongs the east and the west. He guides whom He wills to a straight path."
 
 **English (Yusuf Ali):** The fools among the people will say: "What hath turned them from the Qibla to which they were used?" Say: To Allah belong both east and West: He guideth whom He will to a Way that is straight.
+
+**Urdu (Fatah Muhammad Jalandhari):** احمق لوگ کہیں گے کہ مسلمان جس قبلے پر (پہلے سے چلے آتے) تھے (اب) اس سے کیوں منہ پھیر بیٹھے۔ تم کہہ دو کہ مشرق اور مغرب سب خدا ہی کا ہے۔ وہ جس کو چاہتا ہے، سیدھے رستے پر چلاتا ہے
 
 [Open on Quran.com](https://quran.com/2/142)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Mankind was one single nation, and Allah sent Messengers with glad tidings and warnings; and with them He sent the Book in truth, to judge between people in matters wherein they differed; but the People of the Book, after the clear Signs came to them, did not differ among themselves, except through selfish contumacy. Allah by His Grace Guided the believers to the Truth, concerning that wherein they differed. For Allah guided whom He will to a path that is straight.
 
+**Urdu (Fatah Muhammad Jalandhari):** (پہلے تو سب) لوگوں کا ایک ہی مذہب تھا (لیکن وہ آپس میں اختلاف کرنے لگے) تو خدا نے (ان کی طرف) بشارت دینے والے اور ڈر سنانے والے پیغمبر بھیجے اور ان پر سچائی کے ساتھ کتابیں نازل کیں تاکہ جن امور میں لوگ اختلاف کرتے تھے ان کا ان میں فیصلہ کردے۔ اور اس میں اختلاف بھی انہیں لوگوں نے کیا جن کو کتاب دی گئی تھی باوجود یہ کہ ان کے پاس کھلے ہوئے احکام آچکے تھے (اور یہ اختلاف انہوں نے صرف) آپس کی ضد سے (کیا) تو جس امر حق میں وہ اختلاف کرتے تھے خدا نے اپنی مہربانی سے مومنوں کو اس کی راہ دکھا دی۔ اور خدا جس کو چاہتا ہے سیدھا رستہ دکھا دیتا ہے
+
 [Open on Quran.com](https://quran.com/2/213)
 
 #### 3:51 · [[003 Ali Imran]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Allāh is my Lord and your Lord, so worship Him. That is the straight path.'"
 
 **English (Yusuf Ali):** "'It is Allah Who is my Lord and your Lord; then worship Him. This is a Way that is straight.'"
+
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ خدا ہی میرا اور تمہارا پروردگار ہے تو اسی کی عبادت کرو یہی سیدھا رستہ ہے
 
 [Open on Quran.com](https://quran.com/3/51)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And how would ye deny Faith while unto you are rehearsed the Signs of Allah, and among you Lives the Messenger? Whoever holds firmly to Allah will be shown a way that is straight.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کیونکر کفر کرو گے جبکہ تم کو خدا کی آیتیں پڑھ پڑھ کر سنائی جاتی ہیں اور تم میں اس کے پیغمبر موجود ہیں اور جس نے خدا (کی ہدایت کی رسی) کو مضبوط پکڑ لیا وہ سیدھے رستے لگ گیا
+
 [Open on Quran.com](https://quran.com/3/101)
 
 #### 4:68 · [[004 An-Nisa]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We would have guided them to a straight path.
 
 **English (Yusuf Ali):** And We should have shown them the Straight Way.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور سیدھا رستہ بھی دکھاتے
 
 [Open on Quran.com](https://quran.com/4/68)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then those who believe in Allah, and hold fast to Him,- soon will He admit them to mercy and grace from Himself, and guide them to Himself by a straight way.
 
+**Urdu (Fatah Muhammad Jalandhari):** پس جو لوگ خدا پر ایمان لائے اور اس (کے دین کی رسی) کو مضبوط پکڑے رہے ان کو وہ اپنی رحمت اور فضل (کے بہشتوں) میں داخل کرے گا۔ اور اپنی طرف (پہچنے کا) سیدھا رستہ دکھائے گا
+
 [Open on Quran.com](https://quran.com/4/175)
 
 #### 5:16 · [[005 Al-Maidah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Wherewith Allah guideth all who seek His good pleasure to ways of peace and safety, and leadeth them out of darkness, by His will, unto the light,- guideth them to a path that is straight.
 
+**Urdu (Fatah Muhammad Jalandhari):** جس سے خدا اپنی رضا پر چلنے والوں کو نجات کے رستے دکھاتا ہے اور اپنے حکم سے اندھیرے میں سے نکال کر روشنی کی طرف لے جاتا اور ان کو سیدھے رستہ پر چلاتا ہے
+
 [Open on Quran.com](https://quran.com/5/16)
 
 #### 6:39 · [[006 Al-Anam]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who deny Our verses are deaf and dumb within darknesses. Whomever Allāh wills - He sends astray; and whomever He wills - He puts him on a straight path.
 
 **English (Yusuf Ali):** Those who reject our signs are deaf and dumb,- in the midst of darkness profound: whom Allah willeth, He leaveth to wander: whom He willeth, He placeth on the way that is straight.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے ہماری آیتوں کو جھٹلایا وہ بہرے اور گونگے ہیں (اس کے علاوہ) اندھیرے میں (پڑے ہوئے) جس کو خدا چاہے گمراہ کردے اور جسے چاہے سیدھے رستے پر چلا دے
 
 [Open on Quran.com](https://quran.com/6/39)
 

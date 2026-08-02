@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:87 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We did certainly give Moses the Scripture [i.e., the Torah] and followed up after him with messengers. And We gave Jesus, the son of Mary, clear proofs and supported him with the Pure Spirit [i.e., the angel Gabriel]. But is it [not] that every time a messenger came to you, [O Children of Israel], with what your souls did not desire, you were arrogant? And a party [of messengers] you denied and another party you killed.
 
 **English (Yusuf Ali):** We gave Moses the Book and followed him up with a succession of messengers; We gave Jesus the son of Mary Clear (Signs) and strengthened him with the holy spirit. Is it that whenever there comes to you a messenger with what ye yourselves desire not, ye are puffed up with pride?- Some ye called impostors, and others ye slay!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو کتاب عنایت کی اور ان کے پیچھے یکے بعد دیگرے پیغمبر بھیجتے رہے اور عیسیٰ بن مریم کو کھلے نشانات بخشے اور روح القدس (یعنی جبرئیل) سے ان کو مدد دی۔تو جب کوئی پیغمبر تمہارے پاس ایسی باتیں لے کر آئے، جن کو تمہارا جی نہیں چاہتا تھا، تو تم سرکش ہو جاتے رہے، اور ایک گروہ (انبیاء) کو تو جھٹلاتے رہے اور ایک گروہ کو قتل کرتے رہے
 
 [Open on Quran.com](https://quran.com/2/87)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those messengers We endowed with gifts, some above others: To one of them Allah spoke; others He raised to degrees (of honour); to Jesus the son of Mary We gave clear (Signs), and strengthened him with the holy spirit. If Allah had so willed, succeeding generations would not have fought among each other, after clear (Signs) had come to them, but they (chose) to wrangle, some believing and others rejecting. If Allah had so willed, they would not have fought each other; but Allah Fulfilleth His plan.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ پیغمبر (جو ہم وقتاً فوقتاً بھیجتے رہیں ہیں) ان میں سے ہم نے بعض کو بعض پر فضیلت دی ہے۔ بعض ایسے ہیں جن سے خدا نے گفتگو فرمائی اور بعض کے (دوسرے امور میں) مرتبے بلند کئے۔ اور عیسیٰ بن مریم کو ہم نے کھلی ہوئی نشانیاں عطا کیں اور روح القدس سے ان کو مدد دی۔ اور اگر خداچاہتا تو ان سے پچھلے لوگ اپنے پاس کھلی نشانیاں آنے کے بعد آپس میں نہ لڑتے لیکن انہوں نے اختلاف کیا تو ان میں سے بعض تو ایمان لے آئے اور بعض کافر ہی رہے۔ اور اگر خدا چاہتا تو یہ لوگ باہم جنگ و قتال نہ کرتے۔ لیکن خدا جو چاہتا ہے کرتا ہے
+
 [Open on Quran.com](https://quran.com/2/253)
 
 #### 5:110 · [[005 Al-Maidah]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then will Allah say: "O Jesus the son of Mary! Recount My favour to thee and to thy mother. Behold! I strengthened thee with the holy spirit, so that thou didst speak to the people in childhood and in maturity. Behold! I taught thee the Book and Wisdom, the Law and the Gospel and behold! thou makest out of clay, as it were, the figure of a bird, by My leave, and thou breathest into it and it becometh a bird by My leave, and thou healest those born blind, and the lepers, by My leave. And behold! thou bringest forth the dead by My leave. And behold! I did restrain the Children of Israel from (violence to) thee when thou didst show them the clear Signs, and the unbelievers among them said: 'This is nothing but evident magic.'
 
+**Urdu (Fatah Muhammad Jalandhari):** جب خدا (عیسیٰ سے) فرمائے گا کہ اے عیسیٰ بن مریم! میرے ان احسانوں کو یاد کرو جو میں نے تم پر اور تمہاری والدہ پر کئے جب میں نے روح القدس (یعنی جبرئیل) سے تمہاری مدد کی تم جھولے میں اور جوان ہو کر (ایک ہی نسق پر) لوگوں سے گفتگو کرتے تھے اور جب میں نے تم کو کتاب اور دانائی اور تورات اور انجیل سکھائی اور جب تم میرے حکم سے مٹی کا جانور بنا کر اس میں پھونک مار دیتے تھے تو وہ میرے حکم سے اڑنے لگتا تھا اور مادر زاد اندھے اور سفید داغ والے کو میرے حکم سے چنگا کر دیتے تھے اور مردے کو میرے حکم سے (زندہ کرکے قبر سے) نکال کھڑا کرتے تھے اور جب میں نے بنی اسرائیل (کے ہاتھوں) کو تم سے روک دیا جب تم ان کے پاس کھلے نشان لے کر آئے تو جو ان میں سے کافر تھے کہنے لگے کہ یہ صریح جادو ہے
+
 [Open on Quran.com](https://quran.com/5/110)
 
 #### 16:102 · [[016 An-Nahl]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O Muḥammad], "The Pure Spirit [i.e., Gabriel] has brought it down from your Lord in truth to make firm those who believe and as guidance and good tidings to the Muslims."
 
 **English (Yusuf Ali):** Say, the Holy Spirit has brought the revelation from thy Lord in Truth, in order to strengthen those who believe, and as a Guide and Glad Tidings to Muslims.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اس کو روح القدس تمہارے پروردگار کی طرف سے سچائی کے ساتھ لے کر نازل ہوئے ہیں تاکہ یہ (قرآن) مومنوں کو ثابت قدم رکھے اور حکم ماننے والوں کے لئے تو (یہ) ہدایت اور بشارت ہے
 
 [Open on Quran.com](https://quran.com/16/102)
 

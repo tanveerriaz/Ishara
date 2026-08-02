@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:5 · [[011 Hud]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Unquestionably, they [i.e., the disbelievers] turn away their breasts to hide themselves from him. Unquestionably, [even] when they cover themselves in their clothing, He [i.e., Allāh] knows what they conceal and what they declare. Indeed, He is Knowing of that within the breasts.
 
 **English (Yusuf Ali):** Behold! they fold up their hearts, that they may lie hid from Him! Ah even when they cover themselves with their garments, He knoweth what they conceal, and what they reveal: for He knoweth well the (inmost secrets) of the hearts.
+
+**Urdu (Fatah Muhammad Jalandhari):** دیکھو یہ اپنے سینوں کو دوھرا کرتے ہیں تاکہ خدا سے پردہ کریں۔ سن رکھو جس وقت یہ کپڑوں میں لپٹ کر پڑتے ہیں (تب بھی) وہ ان کی چھپی اور کھلی باتوں کو جانتا ہے۔ وہ تو دلوں تک کی باتوں سے آگاہ ہے
 
 [Open on Quran.com](https://quran.com/11/5)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For them will be Gardens of Eternity; beneath them rivers will flow; they will be adorned therein with bracelets of gold, and they will wear green garments of fine silk and heavy brocade: They will recline therein on raised thrones. How good the recompense! How beautiful a couch to recline on!
 
+**Urdu (Fatah Muhammad Jalandhari):** ایسے لوگوں کے لئے ہمیشہ رہنے کے باغ ہیں جن میں ان کے (محلوں کے) نیچے نہریں بہہ رہی ہیں ان کو وہاں سونے کے کنگن پہنائے جائیں گے اور وہ باریک دیبا اور اطلس کے سبز کپڑے پہنا کریں گے (اور) تختوں پر تکیئے لگا کر بیٹھا کریں گے۔ (کیا) خوب بدلہ اور (کیا) خوب آرام گاہ ہے
+
 [Open on Quran.com](https://quran.com/18/31)
 
 #### 22:19 · [[022 Al-Hajj]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** These are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water
 
 **English (Yusuf Ali):** These two antagonists dispute with each other about their Lord: But those who deny (their Lord),- for them will be cut out a garment of Fire: over their heads will be poured out boiling water.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ دو (فریق) ایک دوسرے کے دشمن اپنے پروردگار (کے بارے) میں جھگڑتے ہیں۔ تو کافر ہیں ان کے لئے آگ کے کپڑے قطع کئے جائیں گے (اور) ان کے سروں پر جلتا ہوا پانی ڈالا جائے گا
 
 [Open on Quran.com](https://quran.com/22/19)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! let those whom your right hands possess, and the (children) among you who have not come of age ask your permission (before they come to your presence), on three occasions: before morning prayer; the while ye doff your clothes for the noonday heat; and after the late-night prayer: these are your three times of undress: outside those times it is not wrong for you or for them to move about attending to each other: Thus does Allah make clear the Signs to you: for Allah is full of knowledge and wisdom.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تمہارے غلام لونڈیاں اور جو بچّے تم میں سے بلوغ کو نہیں پہنچے تین دفعہ یعنی (تین اوقات میں) تم سے اجازت لیا کریں۔ (ایک تو) نماز صبح سے پہلے اور (دوسرے گرمی کی دوپہر کو) جب تم کپڑے اتار دیتے ہو۔ اور تیسرے عشاء کی نماز کے بعد۔ (یہ) تین (وقت) تمہارے پردے (کے) ہیں ان کے (آگے) پیچھے (یعنی دوسرے وقتوں میں) نہ تم پر کچھ گناہ ہے اور نہ ان پر۔ کہ کام کاج کے لئے ایک دوسرے کے پاس آتے رہتے ہو۔ اس طرح خدا اپنی آیتیں تم سے کھول کھول کر بیان فرماتا ہے اور خدا بڑا علم والا اور بڑا حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/24/58)
 
 #### 24:60 · [[024 An-Nur]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And women of post-menstrual age who have no desire for marriage - there is no blame upon them for putting aside their outer garments [but] not displaying adornment. But to modestly refrain [from that] is better for them. And Allāh is Hearing and Knowing.
 
 **English (Yusuf Ali):** Such elderly women as are past the prospect of marriage,- there is no blame on them if they lay aside their (outer) garments, provided they make not a wanton display of their beauty: but it is best for them to be modest: and Allah is One Who sees and knows all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بڑی عمر کی عورتیں جن کو نکاح کی توقع نہیں رہی، اور وہ کپڑے اتار کر سر ننگا کرلیا کریں تو ان پر کچھ گناہ نہیں بشرطیکہ اپنی زینت کی چیزیں نہ ظاہر کریں۔ اور اس سے بھی بچیں تو یہ ان کے حق میں بہتر ہے۔ اور خدا سنتا اور جانتا ہے
 
 [Open on Quran.com](https://quran.com/24/60)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And every time I have called to them, that Thou mightest forgive them, they have (only) thrust their fingers into their ears, covered themselves up with their garments, grown obstinate, and given themselves up to arrogance.
 
+**Urdu (Fatah Muhammad Jalandhari):** جب جب میں نے ان کو بلایا کہ (توبہ کریں اور) تو ان کو معاف فرمائے تو انہوں نے اپنے کانوں میں انگلیاں دے لیں اور کپڑے اوڑھ لئے اور اڑ گئے اور اکڑ بیٹھے
+
 [Open on Quran.com](https://quran.com/71/7)
 
 #### 74:4 · [[074 Al-Muddaththir]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And thy garments keep free from stain!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے کپڑوں کو پاک رکھو
+
 [Open on Quran.com](https://quran.com/74/4)
 
 #### 76:21 · [[076 Al-Insan]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Upon them [i.e., the inhabitants] will be green garments of fine silk and brocade. And they will be adorned with bracelets of silver, and their Lord will give them a purifying drink.
 
 **English (Yusuf Ali):** Upon them will be green Garments of fine silk and heavy brocade, and they will be adorned with Bracelets of silver; and their Lord will give to them to drink of a Wine Pure and Holy.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان (کے بدنوں) پر دیبا سبز اور اطلس کے کپڑے ہوں گے۔ اور انہیں چاندی کے کنگن پہنائے جائیں گے اور ان کا پروردگار ان کو نہایت پاکیزہ شراب پلائے گا
 
 [Open on Quran.com](https://quran.com/76/21)
 

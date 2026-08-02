@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:90 · [[002 Al-Baqarah]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** How wretched is that for which they sold themselves - that they would disbelieve in what Allāh has revealed through [their] outrage that Allāh would send down His favor upon whom He wills from among His servants. So they returned having [earned] wrath upon wrath. And for the disbelievers is a humiliating punishment.
 
 **English (Yusuf Ali):** Miserable is the price for which they have sold their souls, in that they deny (the revelation) which Allah has sent down, in insolent envy that Allah of His Grace should send it to any of His servants He pleases: Thus have they drawn on themselves Wrath upon Wrath. And humiliating is the punishment of those who reject Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس چیز کے بدلے انہوں نے اپنے تئیں بیچ ڈالا، وہ بہت بری ہے، یعنی اس جلن سے کہ خدا اپنے بندوں میں جس پر چاہتا ہے، اپنی مہربانی سے نازل فرماتا ہے۔ خدا کی نازل کی ہوئی کتاب سے کفر کرنے لگے تو وہ (اس کے) غضب بالائے غضب میں مبتلا ہو گئے۔ اور کافروں کے لیے ذلیل کرنے والا عذاب ہے
 
 [Open on Quran.com](https://quran.com/2/90)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Mankind was one single nation, and Allah sent Messengers with glad tidings and warnings; and with them He sent the Book in truth, to judge between people in matters wherein they differed; but the People of the Book, after the clear Signs came to them, did not differ among themselves, except through selfish contumacy. Allah by His Grace Guided the believers to the Truth, concerning that wherein they differed. For Allah guided whom He will to a path that is straight.
 
+**Urdu (Fatah Muhammad Jalandhari):** (پہلے تو سب) لوگوں کا ایک ہی مذہب تھا (لیکن وہ آپس میں اختلاف کرنے لگے) تو خدا نے (ان کی طرف) بشارت دینے والے اور ڈر سنانے والے پیغمبر بھیجے اور ان پر سچائی کے ساتھ کتابیں نازل کیں تاکہ جن امور میں لوگ اختلاف کرتے تھے ان کا ان میں فیصلہ کردے۔ اور اس میں اختلاف بھی انہیں لوگوں نے کیا جن کو کتاب دی گئی تھی باوجود یہ کہ ان کے پاس کھلے ہوئے احکام آچکے تھے (اور یہ اختلاف انہوں نے صرف) آپس کی ضد سے (کیا) تو جس امر حق میں وہ اختلاف کرتے تھے خدا نے اپنی مہربانی سے مومنوں کو اس کی راہ دکھا دی۔ اور خدا جس کو چاہتا ہے سیدھا رستہ دکھا دیتا ہے
+
 [Open on Quran.com](https://quran.com/2/213)
 
 #### 3:19 · [[003 Ali Imran]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the religion in the sight of Allāh is Islām. And those who were given the Scripture did not differ except after knowledge had come to them - out of jealous animosity between themselves. And whoever disbelieves in the verses of Allāh, then indeed, Allāh is swift in [taking] account.
 
 **English (Yusuf Ali):** The Religion before Allah is Islam (submission to His Will): Nor did the People of the Book dissent therefrom except through envy of each other, after knowledge had come to them. But if any deny the Signs of Allah, Allah is swift in calling to account.
+
+**Urdu (Fatah Muhammad Jalandhari):** دین تو خدا کے نزدیک اسلام ہے اور اہل کتاب نے جو (اس دین سے) اختلاف کیا تو علم ہونے کے بعد آپس کی ضد سے کیا اور جو شخص خدا کی آیتوں کو نہ مانے تو خدا جلد حساب لینے والا (اور سزا دینے والا) ہے
 
 [Open on Quran.com](https://quran.com/3/19)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For those who followed the Jewish Law, We forbade every (animal) with undivided hoof, and We forbade them that fat of the ox and the sheep, except what adheres to their backs or their entrails, or is mixed up with a bone: this in recompense for their wilful disobedience: for We are true (in Our ordinances).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہودیوں پر ہم نے سب ناخن والے جانور حرام کر دئیے تھے اور گایوں اور بکریوں سے ان کی چربی حرام کر دی تھی سوا اس کے جو ان کی پیٹھ پر لگی ہو یا اوجھڑی میں ہو یا ہڈی میں ملی ہو یہ سزا ہم نے ان کو ان کی شرارت کے سبب دی تھی اور ہم تو سچ کہنے والے ہیں
+
 [Open on Quran.com](https://quran.com/6/146)
 
 #### 7:33 · [[007 Al-Araf]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "My Lord has only forbidden immoralities - what is apparent of them and what is concealed - and sin, and oppression without right, and that you associate with Allāh that for which He has not sent down authority, and that you say about Allāh that which you do not know."
 
 **English (Yusuf Ali):** Say: the things that my Lord hath indeed forbidden are: shameful deeds, whether open or secret; sins and trespasses against truth or reason; assigning of partners to Allah, for which He hath given no authority; and saying things about Allah of which ye have no knowledge.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میرے پروردگار نے تو بےحیائی کی باتوں کو ظاہر ہوں یا پوشیدہ اور گناہ کو اور ناحق زیادتی کرنے کو حرام کیا ہے۔ اور اس کو بھی کہ تم کسی کو خدا کا شریک بناؤ جس کی اس نے کوئی سند نازل نہیں کی اور اس کو بھی کہ خدا کے بارے میں ایسی باتیں کہو جن کا تمہیں کچھ علم نہیں
 
 [Open on Quran.com](https://quran.com/7/33)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But when he delivereth them, behold! they transgress insolently through the earth in defiance of right! O mankind! your insolence is against your own souls,- an enjoyment of the life of the present: in the end, to Us is your return, and We shall show you the truth of all that ye did.
 
+**Urdu (Fatah Muhammad Jalandhari):** لیکن جب وہ ان کو نجات دے دیتا ہے تو ملک میں ناحق شرارت کرنے لگتے ہیں۔ لوگو! تمہاری شرارت کا وبال تمہاری ہی جانوں پر ہوگا تم دنیا کی زندگی کے فائدے اُٹھا لو۔ پھر تم کو ہمارے پاس لوٹ کر آنا ہے۔ اس وقت ہم تم کو بتائیں گے جو کچھ تم کیا کرتے تھے
+
 [Open on Quran.com](https://quran.com/10/23)
 
 #### 10:90 · [[010 Yunus]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We took the Children of Israel across the sea, and Pharaoh and his soldiers pursued them in tyranny and enmity until, when drowning overtook him, he said, "I believe that there is no deity except that in whom the Children of Israel believe, and I am of the Muslims."
 
 **English (Yusuf Ali):** We took the Children of Israel across the sea: Pharaoh and his hosts followed them in insolence and spite. At length, when overwhelmed with the flood, he said: "I believe that there is no god except Him Whom the Children of Israel believe in: I am of those who submit (to Allah in Islam)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بنی اسرائیل کو دریا سے پار کردیا تو فرعون اور اس کے لشکر نے سرکشی اور تعدی سے ان کا تعاقب کیا۔ یہاں تک کہ جب اس کو غرق (کے عذاب) نے آپکڑا تو کہنے لگا کہ میں ایمان لایا کہ جس (خدا) پر بنی اسرائیل ایمان لائے ہیں اس کے سوا کوئی معبود نہیں اور میں فرمانبرداروں میں ہوں
 
 [Open on Quran.com](https://quran.com/10/90)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah commands justice, the doing of good, and liberality to kith and kin, and He forbids all shameful deeds, and injustice and rebellion: He instructs you, that ye may receive admonition.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا تم کو انصاف اور احسان کرنے اور رشتہ داروں کو (خرچ سے مدد) دینے کا حکم دیتا ہے۔ اور بےحیائی اور نامعقول کاموں سے اور سرکشی سے منع کرتا ہے (اور) تمہیں نصیحت کرتا ہے تاکہ تم یاد رکھو
+
 [Open on Quran.com](https://quran.com/16/90)
 
 #### 19:20 · [[019 Maryam]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** She said: "How shall I have a son, seeing that no man has touched me, and I am not unchaste?"
 
+**Urdu (Fatah Muhammad Jalandhari):** مریم نے کہا کہ میرے ہاں لڑکا کیونکر ہوگا مجھے کسی بشر نے چھوا تک نہیں اور میں بدکار بھی نہیں ہوں
+
 [Open on Quran.com](https://quran.com/19/20)
 
 #### 19:28 · [[019 Maryam]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O sister [i.e., descendant] of Aaron, your father was not a man of evil, nor was your mother unchaste."
 
 **English (Yusuf Ali):** "O sister of Aaron! Thy father was not a man of evil, nor thy mother a woman unchaste!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ہارون کی بہن نہ تو تیرا باپ ہی بداطوار آدمی تھا اور نہ تیری ماں ہی بدکار تھی
 
 [Open on Quran.com](https://quran.com/19/28)
 

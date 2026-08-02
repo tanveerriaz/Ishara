@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nyl - nyl]]
+- [[nyl - obtain]]
 
 ### Meaning
 **reach** · Lemma **يَنالُ**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:124 · [[002 Al-Baqarah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when Abraham was tried by his Lord with words [i.e., commands] and he fulfilled them. [Allāh] said, "Indeed, I will make you a leader for the people." [Abraham] said, "And of my descendants?" [Allāh] said, "My covenant does not include the wrongdoers."
 
 **English (Yusuf Ali):** And remember that Abraham was tried by his Lord with certain commands, which he fulfilled: He said: "I will make thee an Imam to the Nations." He pleaded: "And also (Imams) from my offspring!" He answered: "But My Promise is not within the reach of evil-doers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب پروردگار نے چند باتوں میں ابراہیم کی آزمائش کی تو ان میں پورے اترے۔ خدا نے کہا کہ میں تم کو لوگوں کا پیشوا بناؤں گا۔ انہوں نے کہا کہ (پروردگار) میری اولاد میں سے بھی (پیشوا بنائیو)۔ خدا نے فرمایا کہ ہمارا اقرار ظالموں کے لیے نہیں ہوا کرتا
 
 [Open on Quran.com](https://quran.com/2/124)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** By no means shall ye attain righteousness unless ye give (freely) of that which ye love; and whatever ye give, of a truth Allah knoweth it well.
 
+**Urdu (Fatah Muhammad Jalandhari):** (مومنو!) جب تک تم ان چیزوں میں سے جو تمھیں عزیز ہیں (راہِ خدا میں) صرف نہ کرو گے کبھی نیکی حاصل نہ کر سکو گے اور جو چیز تم صرف کرو گے خدا اس کو جانتا ہے
+
 [Open on Quran.com](https://quran.com/3/92)
 
 #### 5:94 · [[005 Al-Maidah]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, Allāh will surely test you through something of the game that your hands and spears [can] reach, that Allāh may make evident those who fear Him unseen. And whoever transgresses after that - for him is a painful punishment.
 
 **English (Yusuf Ali):** O ye who believe! Allah doth but make a trial of you in a little matter of game well within reach of your hands and your lances, that He may test who feareth Him unseen: any who transgress thereafter, will have a grievous penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! کسی قدر شکار سے جن کو تم ہاتھوں اور نیزوں سے پکڑ سکو خدا تمہاری آزمائش کرے گا (یعنی حالت احرام میں شکار کی ممانعت سے) تا کہ معلوم کرے کہ اس سے غائبانہ کون ڈرتا ہے تو جو اس کے بعد زیادتی کرے اس کے لیے دکھ دینے والا عذاب (تیار) ہے
 
 [Open on Quran.com](https://quran.com/5/94)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Who is more unjust than one who invents a lie against Allah or rejects His Signs? For such, their portion appointed must reach them from the Book (of decrees): until, when our messengers (of death) arrive and take their souls, they say: "Where are the things that ye used to invoke besides Allah?" They will reply, "They have left us in the lurch," And they will bear witness against themselves, that they had rejected Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو اس سے زیادہ ظالم کون ہے جو خدا پر جھوٹ باندھے یا اس کی آیتوں کو جھٹلائے۔ ان کو ان کے نصیب کا لکھا ملتا ہی رہے گا یہاں تک کہ جب ان کے پاس ہمارے بھیجے ہوئے (فرشتے) جان نکالنے آئیں گے تو کہیں گے کہ جن کو تم خدا کے سوا پکارا کرتے تھے وہ (اب) کہاں ہیں؟ وہ کہیں گے (معلوم نہیں) کہ وہ ہم سے (کہاں) غائب ہوگئے اور اقرار کریں گے کہ بےشک وہ کافر تھے
+
 [Open on Quran.com](https://quran.com/7/37)
 
 #### 7:49 · [[007 Al-Araf]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Allāh will say], "Are these the ones whom you [inhabitants of Hell] swore that Allāh would never offer them mercy? Enter Paradise, [O people of the Elevations]. No fear will there be concerning you, nor will you grieve."
 
 **English (Yusuf Ali):** "Behold! are these not the men whom you swore that Allah with His Mercy would never bless? Enter ye the Garden: no fear shall be on you, nor shall ye grieve."
+
+**Urdu (Fatah Muhammad Jalandhari):** (پھر مومنوں کی طرف اشارہ کر کے کہیں گے) کیا یہ وہی لوگ ہیں جن کے بارے میں تم قسمیں کھایا کرتے تھے کہ خدا اپنی رحمت سے ان کی دستگیری نہیں کرے گا (تو مومنو) تم بہشت میں داخل ہو جاؤ تمہیں کچھ خوف نہیں اور نہ تم کو کچھ رنج واندوہ ہوگا
 
 [Open on Quran.com](https://quran.com/7/49)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who took the calf (for worship) will indeed be overwhelmed with wrath from their Lord, and with shame in this life: thus do We recompense those who invent (falsehoods).
 
+**Urdu (Fatah Muhammad Jalandhari):** (خدا نے فرمایا کہ) جن لوگوں نے بچھڑے کو (معبود) بنا لیا تھا ان پر پروردگار کا غضب واقع ہوگا اور دنیا کی زندگی میں ذلت (نصیب ہوگی) اور ہم افتراء پردازوں کو ایسا ہی بدلہ دیا کرتے ہیں
+
 [Open on Quran.com](https://quran.com/7/152)
 
 #### 9:74 · [[009 At-Tawbah]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They swear by Allāh that they did not say [anything against the Prophet (ﷺ)] while they had said the word of disbelief and disbelieved after their [pretense of] Islām and planned that which they were not to attain. And they were not resentful except [for the fact] that Allāh and His Messenger had enriched them of His bounty. So if they repent, it is better for them; but if they turn away, Allāh will punish them with a painful punishment in this world and the Hereafter. And there will not be for them on earth any protector or helper.
 
 **English (Yusuf Ali):** They swear by Allah that they said nothing (evil), but indeed they uttered blasphemy, and they did it after accepting Islam; and they meditated a plot which they were unable to carry out: this revenge of theirs was (their) only return for the bounty with which Allah and His Messenger had enriched them! If they repent, it will be best for them; but if they turn back (to their evil ways), Allah will punish them with a grievous penalty in this life and in the Hereafter: They shall have none on earth to protect or help them.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ خدا کی قسمیں کھاتے ہیں کہ انہوں نے (تو کچھ) نہیں کہا حالانکہ انہوں نے کفر کا کلمہ کہا ہے اور یہ اسلام لانے کے بعد کافر ہوگئے ہیں اور ایسی بات کا قصد کرچکے ہیں جس پر قدرت نہیں پاسکے۔ اور انہوں نے (مسلمانوں میں) عیب ہی کون سا دیکھا ہے سوا اس کے کہ خدا نے اپنے فضل سے اور اس کے پیغمبر نے (اپنی مہربانی سے) ان کو دولت مند کر دیا ہے۔ تو اگر یہ لوگ توبہ کرلیں تو ان کے حق میں بہتر ہوگا۔ اور اگر منہ پھیر لیں تو ان کو دنیا اور آخرت میں دکھ دینے والا عذاب دے گا اور زمین میں ان کا کوئی دوست اور مددگار نہ ہوگا
 
 [Open on Quran.com](https://quran.com/9/74)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It was not fitting for the people of Medina and the Bedouin Arabs of the neighbourhood, to refuse to follow Allah's Messenger, nor to prefer their own lives to his: because nothing could they suffer or do, but was reckoned to their credit as a deed of righteousness,- whether they suffered thirst, or fatigue, or hunger, in the cause of Allah, or trod paths to raise the ire of the Unbelievers, or received any injury whatever from an enemy: for Allah suffereth not the reward to be lost of those who do good;-
 
+**Urdu (Fatah Muhammad Jalandhari):** اہل مدینہ کو اور جو ان کے آس پاس دیہاتی رہتے ہیں ان کو شایاں نہ تھا کہ پیغمبر خدا سے پیچھے رہ جائیں اور نہ یہ کہ اپنی جانوں کو ان کی جان سے زیادہ عزیز رکھیں۔ یہ اس لیے کہ انہیں خدا کی راہ میں تکلیف پہنچتی ہے پیاس کی، محنت کی یا بھوک کی یا وہ ایسی جگہ چلتے ہیں کہ کافروں کو غصہ آئے یا دشمنوں سے کوئی چیز لیتے ہیں تو ہر بات پر ان کے لیے عمل نیک لکھا جاتا ہے۔ کچھ شک نہیں کہ خدا نیکو کاروں کا اجر ضائع نہیں کرتا
+
 [Open on Quran.com](https://quran.com/9/120)
 
 #### 22:37 · [[022 Al-Hajj]]
@@ -174,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is not their meat nor their blood, that reaches Allah: it is your piety that reaches Him: He has thus made them subject to you, that ye may glorify Allah for His Guidance to you and proclaim the good news to all who do right.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا تک نہ اُن کا گوشت پہنچتا ہے اور نہ خون۔ بلکہ اس تک تمہاری پرہیزگاری پہنچتی ہے۔ اسی طرح خدا نے ان کو تمہارا مسخر کر دیا ہے تاکہ اس بات کے بدلے کہ اس نے تم کو ہدایت بخشی ہے اسے بزرگی سے یاد کرو۔ اور (اے پیغمبر) نیکوکاروں کو خوشخبری سنا دو
+
 [Open on Quran.com](https://quran.com/22/37)
 
 #### 33:25 · [[033 Al-Ahzab]]
@@ -189,6 +207,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Allāh repelled those who disbelieved, in their rage, not having obtained any good. And sufficient was Allāh for the believers in battle, and ever is Allāh Powerful and Exalted in Might.
 
 **English (Yusuf Ali):** And Allah turned back the Unbelievers for (all) their fury: no advantage did they gain; and enough is Allah for the believers in their fight. And Allah is full of Strength, able to enforce His Will.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کافر تھے اُن کو خدا نے پھیر دیا وہ اپنے غصے میں (بھرے ہوئے تھے) کچھ بھلائی حاصل نہ کر سکے۔ اور خدا مومنوں کو لڑائی کے بارے میں کافی ہوا۔ اور خدا طاقتور (اور) زبردست ہے
 
 [Open on Quran.com](https://quran.com/33/25)
 

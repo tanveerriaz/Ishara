@@ -15,81 +15,81 @@ Explained in Detail · 54 ayahs
 ## Words in this surah (graph)
 
 - [[jlwd - skins]] — `جُلُود` · skins
-- [[<ns - men]] — `إِنس` · men
 - [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
+- [[<ns - men]] — `إِنس` · men
 - [[tnzyl - revelation]] — `تَنزِيل` · revelation
-- [[SAEqp - thunderbolt]] — `صاعِقَة` · thunderbolt
 - [[Erby - arabic]] — `عَرَبِيّ` · arabic
+- [[SAEqp - thunderbolt]] — `صاعِقَة` · thunderbolt
 - [[wqr - deafness]] — `وَقْر` · deafness
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[HfZ - guard]] — `حِفْظ` · guard
-- [[n*yr - warner]] — `نَذِير` · warner
-- [[dEA - call]] — `دَعا` · call
-- [[>knp - coverings]] — `أَكِنَّة` · coverings
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[rbt - it swells]] — `رَبَتْ` · it swells
-- [[lyl - night]] — `لَيْل` · night
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[qwp - strength]] — `قُوَّة` · strength
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[Dl - lost]] — `ضَلَّ` · lost
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[yd - hands]] — `يَد` · hands
-- [[xA$E - humbled]] — `خاشِع` · humbled
-- [[nAdY - he called]] — `نادَى` · he called
-- [[qA}mp - standing]] — `قائِمَة` · standing
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[HyAp - life]] — `حَياة` · life
+- [[>sA' - does evil]] — `أَساءَ` · does evil
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[ryH - wind]] — `رِيح` · wind
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[EAd - aad]] — `عادَ` · aad
+- [[>rD - earth]] — `أَرْض` · earth
+- [[rd - returned]] — `رَدَّ` · returned
+- [[y}ws - despairing]] — `يَئُوس` · despairing
+- [[TwE - willingly]] — `طَوْع` · willingly
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[dnyA - world]] — `دُنْيا` · world
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[qmr - moon]] — `قَمَر` · moon
 
 ## Roots
 
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
 - [[$fy - heal recover illness]]
-- [[$hd - shhd]]
-- [[$hw - shhw]]
-- [[$kk - shakka]]
+- [[$hd - witnessing]]
+- [[$hw - they desire]]
+- [[$kk - doubt uncertain about]]
 - [[$ms - horse refusing ridden]]
 - [[$qq - cleave]]
 - [[$rk - sharing partnership]]
 - [[$rr - sparks fire]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
-- [[>fq - afq]]
-- [[>jr - ajr]]
+- [[*kr - remember recall something]]
+- [[*wq - taste]]
+- [[>*n - ear]]
+- [[>fq - go one's own]]
+- [[>jr - recompensing rewarding someone]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
+- [[>ns - mankind]]
 - [[>nv - female]]
-- [[>rD - ard]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - like milk oil]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edw - enemy]]
+- [[Edw - turn]]
 - [[Ejm - bite chew]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emy - blindness]]
 - [[End - near]]
 - [[Eqb - heel human foot]]
-- [[ErD - erd]]
-- [[Erb - erb]]
-- [[Etb - etb]]
-- [[Ew* - ewdh]]
-- [[Ewd - ewd]]
+- [[ErD - turn away]]
+- [[Erb - bedouins]]
+- [[Etb - angry someone]]
+- [[Ew* - seek protection]]
+- [[Ewd - aad]]
 - [[Ezz - all-mighty]]
-- [[H$r - hshr]]
+- [[H$r - gather collect people]]
 - [[HZZ - have good fortune]]
 - [[Hbb - love]]
 

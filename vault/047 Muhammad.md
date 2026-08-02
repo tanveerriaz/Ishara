@@ -14,84 +14,84 @@ Muhammad · 38 ayahs
 
 ## Words in this surah (graph)
 
-- [[bxl - withhold]] — `بَخِلَ` · withhold
 - [[bAl - case]] — `بال` · case
+- [[bxl - withhold]] — `بَخِلَ` · withhold
+- [[HyAp - life]] — `حَياة` · life
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[rqbp - slave]] — `رَقَبَة` · slave
-- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
-- [[dEA - call]] — `دَعا` · call
-- [[lq - you meet]] — `لَقُ` · you meet
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[sAr - travel]] — `سارَ` · travel
+- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
+- [[>SlH - reforms]] — `أَصْلَحَ` · reforms
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>rHAm - wombs]] — `أَرْحام` · wombs
+- [[>rD - earth]] — `أَرْض` · earth
 - [[wjh - faces]] — `وَجْه` · faces
-- [[qwp - strength]] — `قُوَّة` · strength
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[>xbAr - news]] — `أَخْبار` · news
-- [[fqyr - poor]] — `فَقِير` · poor
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[>nfq - spend]] — `أَنفَقَ` · spend
-- [[mwlY - protector]] — `مَوْلَى` · protector
-- [[Eml - do]] — `عَمِلَ` · do
-- [[>fsd - spread corruption]] — `أَفْسَدُ` · spread corruption
-- [[$dd - we strengthened]] — `شَدَدْ` · we strengthened
-- [[>mr - command]] — `أَمَرَ` · command
+- [[xrj - come forth]] — `خَرَجَ` · come forth
 - [[whn - weaken]] — `وَهَنَ` · weaken
-- [[mA' - water]] — `ماء` · water
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[mrD - disease]] — `مَرَض` · disease
+- [[dnyA - world]] — `دُنْيا` · world
+- [[nAs - people]] — `ناس` · people
+- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[Hsb - think]] — `حَسْب` · think
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[>Sm - deaf]] — `أَصَمّ` · deaf
+- [[bEd - after]] — `بَعْد` · after
+- [[Elm - know]] — `عَلِمَ` · know
+- [[qbl - before]] — `قَبْل` · before
+- [[bynp - clear proofs]] — `بَيِّنَة` · clear proofs
 
 ## Roots
 
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
 - [[$qq - cleave]]
-- [[$rb - shrb]]
+- [[$rb - drink]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[*nb - tail]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[Drb - tent]]
+- [[Drb - strike beat]]
 - [[Drr - adversity]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emy - blindness]]
 - [[End - near]]
 - [[Eqb - heel human foot]]
-- [[Erf - erf]]
-- [[Esy - esy]]
-- [[Ezm - ezm]]
-- [[HbT - hbt]]
+- [[Erf - right]]
+- [[Esy - hope expectation]]
+- [[Ezm - determine]]
+- [[HbT - worthless]]
 - [[Hfw - press you]]
 - [[Hkm - prevent restrain someone]]
 - [[Hmd - praise]]
-- [[Hmm - hmm]]
+- [[Hmm - blackness being intensely]]
 - [[Hqq - established as true]]
-- [[Hrb - hrb]]
+- [[Hrb - war]]
 - [[Hsb - number]]
 - [[Hyy - life]]
 - [[Sbr - confine restrain]]
 - [[Sdd - turn away]]
 - [[Sdq - speak truth]]
 - [[Sfw - smooth]]
-- [[SlH - slh]]
-- [[Smm - smm]]
-- [[TEm - tem]]
-- [[TbE - tbe]]
-- [[TwE - twe]]
+- [[SlH - make something good]]
+- [[Smm - deaf]]
+- [[TEm - food]]
+- [[TbE - seal]]
+- [[TwE - obey]]
 - [[allah - God]]
-- [[bED - bed]]
+- [[bED - others]]
 - [[bEd - become distant]]
-- [[bSr - bsr]]
+- [[bSr - mental perception]]
 
 ## Sample (ayah 1)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[SbH - sbh]]
+- [[SbH - morning]]
 
 ### Meaning
 **lamp** · Lemma **مِصْباح**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 24:35 · [[024 An-Nur]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh is the Light of the heavens and the earth. The example of His light is like a niche within which is a lamp; the lamp is within glass, the glass as if it were a pearly [white] star lit from [the oil of] a blessed olive tree, neither of the east nor of the west, whose oil would almost glow even if untouched by fire. Light upon light. Allāh guides to His light whom He wills. And Allāh presents examples for the people, and Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** Allah is the Light of the heavens and the earth. The Parable of His Light is as if there were a Niche and within it a Lamp: the Lamp enclosed in Glass: the glass as it were a brilliant star: Lit from a blessed Tree, an Olive, neither of the east nor of the west, whose oil is well-nigh luminous, though fire scarce touched it: Light upon Light! Allah doth guide whom He will to His Light: Allah doth set forth Parables for men: and Allah doth know all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا آسمانوں اور زمین کا نور ہے۔ اس کے نور کی مثال ایسی ہے کہ گویا ایک طاق ہے جس میں چراغ ہے۔ اور چراغ ایک قندیل میں ہے۔ اور قندیل (ایسی صاف شفاف ہے کہ) گویا موتی کا سا چمکتا ہوا تارہ ہے اس میں ایک مبارک درخت کا تیل جلایا جاتا ہے (یعنی) زیتون کہ نہ مشرق کی طرف ہے نہ مغرب کی طرف۔ (ایسا معلوم ہوتا ہے کہ) اس کا تیل خواہ آگ اسے نہ بھی چھوئے جلنے کو تیار ہے (پڑی) روشنی پر روشنی (ہو رہی ہے) خدا اپنے نور سے جس کو چاہتا ہے سیدھی راہ دکھاتا ہے۔ اور خدا نے (جو مثالیں) بیان فرماتا ہے (تو) لوگوں کے (سمجھانے کے) لئے اور خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/24/35)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So He completed them as seven firmaments in two Days, and He assigned to each heaven its duty and command. And We adorned the lower heaven with lights, and (provided it) with guard. Such is the Decree of (Him) the Exalted in Might, Full of Knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر دو دن میں سات آسمان بنائے اور ہر آسمان میں اس (کے کام) کا حکم بھیجا اور ہم نے آسمان دنیا کو چراغوں (یعنی ستاروں) سے مزین کیا اور (شیطانوں سے) محفوظ رکھا۔ یہ زبردست (اور) خبردار کے (مقرر کئے ہوئے) اندازے ہیں
+
 [Open on Quran.com](https://quran.com/41/12)
 
 #### 67:5 · [[067 Al-Mulk]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have certainly beautified the nearest heaven with lamps [i.e., stars] and have made [from] them what is thrown at the devils and have prepared for them the punishment of the Blaze.
 
 **English (Yusuf Ali):** And we have, (from of old), adorned the lowest heaven with Lamps, and We have made such (Lamps) (as) missiles to drive away the Evil Ones, and have prepared for them the Penalty of the Blazing Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قریب کے آسمان کو (تاروں کے) چراغوں سے زینت دی۔ اور ان کو شیطان کے مارنے کا آلہ بنایا اور ان کے لئے دہکتی آگ کا عذاب تیار کر رکھا ہے
 
 [Open on Quran.com](https://quran.com/67/5)
 

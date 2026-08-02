@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:235 · [[002 Al-Baqarah]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** There is no blame upon you for that to which you [indirectly] allude concerning a proposal to women or for what you conceal within yourselves. Allāh knows that you will have them in mind. But do not promise them secretly except for saying a proper saying. And do not determine to undertake a marriage contract until the decreed period reaches its end. And know that Allāh knows what is within yourselves, so beware of Him. And know that Allāh is Forgiving and Forbearing.
 
 **English (Yusuf Ali):** There is no blame on you if ye make an offer of betrothal or hold it in your hearts. Allah knows that ye cherish them in your hearts: But do not make a secret contract with them except in terms Honourable, nor resolve on the tie of marriage till the term prescribed is fulfilled. And know that Allah Knoweth what is in your hearts, and take heed of Him; and know that Allah is Oft-forgiving, Most Forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کنائے کی باتوں میں عورتوں کو نکاح کا پیغام بھیجو یا (نکاح کی خواہش کو) اپنے دلوں میں مخفی رکھو تو تو تم پر کچھ گناہ نہیں۔ خدا کو معلوم ہے کہ تم ان سے (نکاح کا) ذکر کرو گے۔ مگر (ایام عدت میں) اس کے سوا کہ دستور کے مطابق کوئی بات کہہ دو پوشیدہ طور پر ان سے قول واقرار نہ کرنا۔ اور جب تک عدت پوری نہ ہولے نکاح کا پختہ ارادہ نہ کرنا۔ اور جان رکھو کہ جو کچھ تمہارے دلوں میں ہے خدا کو سب معلوم ہے تو اس سے ڈرتے رہو اور جان رکھو کہ خدا بخشنے والا اور حلم والا ہے
 
 [Open on Quran.com](https://quran.com/2/235)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who (in charity) spend of their goods by night and by day, in secret and in public, have their reward with their Lord: on them shall be no fear, nor shall they grieve.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال رات اور دن اور پوشیدہ اور ظاہر (راہ خدا میں) خرچ کرتے رہتے ہیں ان کا صلہ پروردگار کے پاس ہے اور ان کو (قیامت کے دن) نہ کسی طرح کا خوف ہوگا اور نہ غم
+
 [Open on Quran.com](https://quran.com/2/274)
 
 #### 6:3 · [[006 Al-Anam]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He is Allāh, [the only deity] in the heavens and the earth. He knows your secret and what you make public, and He knows that which you earn.
 
 **English (Yusuf Ali):** And He is Allah in the heavens and on earth. He knoweth what ye hide, and what ye reveal, and He knoweth the (recompense) which ye earn (by your deeds).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور آسمانوں اور زمین میں وہی (ایک) خدا ہے تمہاری پوشیدہ اور ظاہر سب باتیں جانتا ہے اور تم جو عمل کرتے ہو سب سے واقف ہے
 
 [Open on Quran.com](https://quran.com/6/3)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Know they not that Allah doth know their secret (thoughts) and their secret counsels, and that Allah knoweth well all things unseen?
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان کو معلوم نہیں کہ خدا ان کے بھیدوں اور مشوروں تک سے واقف ہے اور یہ کہ وہ غیب کی باتیں جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/9/78)
 
 #### 13:22 · [[013 Ar-Rad]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who are patient, seeking the face [i.e., acceptance] of their Lord, and establish prayer and spend from what We have provided for them secretly and publicly and prevent evil with good - those will have the good consequence of [this] home -
 
 **English (Yusuf Ali):** Those who patiently persevere, seeking the countenance of their Lord; Establish regular prayers; spend, out of (the gifts) We have bestowed for their sustenance, secretly and openly; and turn off Evil with good: for such there is the final attainment of the (eternal) home,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو پروردگار کی خوشنودی حاصل کرنے کے لیے (مصائب پر) صبر کرتے ہیں اور نماز پڑھتے ہیں اور جو (مال) ہم نے ان کو دیا ہے اس میں سے پوشیدہ اور ظاہر خرچ کرتے ہیں اور نیکی سے برائی دور کرتے ہیں یہی لوگ ہیں جن کے لیے عاقبت کا گھر ہے
 
 [Open on Quran.com](https://quran.com/13/22)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Speak to my servants who have believed, that they may establish regular prayers, and spend (in charity) out of the sustenance we have given them, secretly and openly, before the coming of a Day in which there will be neither mutual bargaining nor befriending.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) میرے مومن بندوں سے کہہ دو کہ نماز پڑھا کریں اور اس دن کے آنے سے پیشتر جس میں نہ (اعمال کا) سودا ہوگا اور نہ دوستی (کام آئے گی) ہمارے دیئے ہوئے مال میں سے درپردہ اور ظاہر خرچ کرتے رہیں
+
 [Open on Quran.com](https://quran.com/14/31)
 
 #### 16:75 · [[016 An-Nahl]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh presents an example: a slave [who is] owned and unable to do a thing and he to whom We have provided from Us good provision, so he spends from it secretly and publicly. Can they be equal? Praise to Allāh! But most of them do not know.
 
 **English (Yusuf Ali):** Allah sets forth the Parable (of two men: one) a slave under the dominion of another; He has no power of any sort; and (the other) a man on whom We have bestowed goodly favours from Ourselves, and he spends thereof (freely), privately and publicly: are the two equal? (By no means;) praise be to Allah. But most of them understand not.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ایک اور مثال بیان فرماتا ہے کہ ایک غلام ہے جو (بالکل) دوسرے کے اختیار میں ہے اور کسی چیز پر قدرت نہیں رکھتا اور ایک ایسا شخص ہے جس کو ہم نے اپنے ہاں سے (بہت سا) مال طیب عطا فرمایا ہے اور وہ اس میں سے (رات دن) پوشیدہ اور ظاہر خرچ کرتا رہتا ہے تو کیا یہ دونوں شخص برابر ہیں؟ (ہرگز نہیں) الحمدلله لیکن ان میں سے اکثر لوگ نہیں سمجھ رکھتے
 
 [Open on Quran.com](https://quran.com/16/75)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If thou pronounce the word aloud, (it is no matter): for verily He knoweth what is secret and what is yet more hidden.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم پکار کر بات کہو تو وہ تو چھپے بھید اور نہایت پوشیدہ بات تک کو جانتا ہے
+
 [Open on Quran.com](https://quran.com/20/7)
 
 #### 25:6 · [[025 Al-Furqan]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "The (Qur'an) was sent down by Him who knows the mystery (that is) in the heavens and the earth: verily He is Oft-Forgiving, Most Merciful."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اُس نے اُس کو اُتارا ہے جو آسمانوں اور زمین کی پوشیدہ باتوں کو جانتا ہے۔ بےشک وہ بخشنے والا مہربان ہے
+
 [Open on Quran.com](https://quran.com/25/6)
 
 #### 35:29 · [[035 Fatir]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who recite the Book of Allāh and establish prayer and spend [in His cause] out of what We have provided them, secretly and publicly, [can] expect a transaction [i.e., profit] that will never perish -
 
 **English (Yusuf Ali):** Those who rehearse the Book of Allah, establish regular Prayer, and spend (in Charity) out of what We have provided for them, secretly and openly, hope for a commerce that will never fail:
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کی کتاب پڑھتے اور نماز کی پابندی کرتے ہیں اور جو کچھ ہم نے ان کو دیا ہے اس میں سے پوشیدہ اور ظاہر خرچ کرتے ہیں وہ اس تجارت (کے فائدے) کے امیدوار ہیں جو کبھی تباہ نہیں ہوگی
 
 [Open on Quran.com](https://quran.com/35/29)
 

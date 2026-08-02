@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[glm - glm]]
+- [[glm - young man]]
 
 ### Meaning
 **boy** · Lemma **غُلام**
@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:40 · [[003 Ali Imran]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "My Lord, how will I have a boy when I have reached old age and my wife is barren?" He [the angel] said, "Such is Allāh; He does what He wills."
 
 **English (Yusuf Ali):** He said: "O my Lord! How shall I have son, seeing I am very old, and my wife is barren?" "Thus," was the answer, "Doth Allah accomplish what He willeth."
+
+**Urdu (Fatah Muhammad Jalandhari):** زکریا نے کہا اے پروردگار میرے ہاں لڑکا کیونکر پیدا ہوگا کہ میں تو بڈھا ہوگیا ہوں اور میری بیوی بانجھ ہے خدا نے فرمایا اسی طرح خدا جو چاہتا ہے کرتا ہے
 
 [Open on Quran.com](https://quran.com/3/40)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then there came a caravan of travellers: they sent their water-carrier (for water), and he let down his bucket (into the well)... He said: "Ah there! Good news! Here is a (fine) young man!" So they concealed him as a treasure! But Allah knoweth well all that they do!
 
+**Urdu (Fatah Muhammad Jalandhari):** (اب خدا کی شان دیکھو کہ اس کنویں کے قریب) ایک قافلہ آوارد ہوا اور انہوں نے (پانی کے لیے) اپنا سقا بھیجا۔ اس نے کنویں میں ڈول لٹکایا (تو یوسف اس سے لٹک گئے) وہ بولا زہے قسمت یہ تو (نہایت حسین) لڑکا ہے۔ اور اس کو قیمتی سرمایہ سمجھ کر چھپا لیا اور جو کچھ وہ کرتے تھے خدا کو سب معلوم تھا
+
 [Open on Quran.com](https://quran.com/12/19)
 
 #### 15:53 · [[015 Al-Hijr]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [The angels] said, "Fear not. Indeed, we give you good tidings of a learned boy."
 
 **English (Yusuf Ali):** They said: "Fear not! We give thee glad tidings of a son endowed with wisdom."
+
+**Urdu (Fatah Muhammad Jalandhari):** (مہمانوں نے) کہا کہ ڈریئے نہیں ہم آپ کو ایک دانشمند لڑکے کی خوشخبری دیتے ہیں
 
 [Open on Quran.com](https://quran.com/15/53)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then they proceeded: until, when they met a young man, he slew him. Moses said: "Hast thou slain an innocent person who had slain none? Truly a foul (unheard of) thing hast thou done!"
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر دونوں چلے۔ یہاں تک کہ (رستے میں) ایک لڑکا ملا تو (خضر نے) اُسے مار ڈالا۔ (موسیٰ نے) کہا کہ آپ نے ایک بےگناہ شخص کو ناحق بغیر قصاص کے مار ڈالا۔ (یہ تو) آپ نے بری بات کی
+
 [Open on Quran.com](https://quran.com/18/74)
 
 #### 18:80 · [[018 Al-Kahf]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And as for the boy, his parents were believers, and we feared that he would overburden them by transgression and disbelief.
 
 **English (Yusuf Ali):** "As for the youth, his parents were people of Faith, and we feared that he would grieve them by obstinate rebellion and ingratitude (to Allah and man).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ جو لڑکا تھا اس کے ماں باپ دنوں مومن تھے ہمیں اندیشہ ہوا کہ (وہ بڑا ہو کر بدکردار ہوتا کہیں) ان کو سرکشی اور کفر میں نہ پھنسا دے
 
 [Open on Quran.com](https://quran.com/18/80)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "As for the wall, it belonged to two youths, orphans, in the Town; there was, beneath it, a buried treasure, to which they were entitled: their father had been a righteous man: So thy Lord desired that they should attain their age of full strength and get out their treasure - a mercy (and favour) from thy Lord. I did it not of my own accord. Such is the interpretation of (those things) over which thou wast unable to hold patience."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ جو دیوار تھی سو وہ دو یتیم لڑکوں کی تھی (جو) شہر میں (رہتے تھے) اور اس کے نیچے ان کا خزانہ (مدفون) تھا اور ان کا باپ ایک نیک بخت آدمی تھا۔ تو تمہارے پروردگار نے چاہا کہ وہ اپنی جوانی کو پہنچ جائیں اور (پھر) اپنا خزانہ نکالیں۔ یہ تمہارے پروردگار کی مہربانی ہے۔ اور یہ کام میں نے اپنی طرف سے نہیں کئے۔ یہ ان باتوں کا راز ہے جن پر تم صبر نہ کرسکے
+
 [Open on Quran.com](https://quran.com/18/82)
 
 #### 19:7 · [[019 Maryam]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [He was told], "O Zechariah, indeed We give you good tidings of a boy whose name will be John. We have not assigned to any before [this] name."
 
 **English (Yusuf Ali):** (His prayer was answered): "O Zakariya! We give thee good news of a son: His name shall be Yahya: on none by that name have We conferred distinction before."
+
+**Urdu (Fatah Muhammad Jalandhari):** اے زکریا ہم تم کو ایک لڑکے کی بشارت دیتے ہیں جس کا نام یحییٰ ہے۔ اس سے پہلے ہم نے اس نام کا کوئی شخص پیدا نہیں کیا
 
 [Open on Quran.com](https://quran.com/19/7)
 
@@ -159,6 +173,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "O my Lord! How shall I have a son, when my wife is barren and I have grown quite decrepit from old age?"
 
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا پروردگار میرے ہاں کس طرح لڑکا ہوگا۔ جس حال میں میری بیوی بانجھ ہے اور میں بڑھاپے کی انتہا کو پہنچ گیا ہوں
+
 [Open on Quran.com](https://quran.com/19/8)
 
 #### 19:19 · [[019 Maryam]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "Nay, I am only a messenger from thy Lord, (to announce) to thee the gift of a holy son.
 
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ میں تو تمہارے پروردگار کا بھیجا ہوا (یعنی فرشتہ) ہوں (اور اس لئے آیا ہوں) کہ تمہیں پاکیزہ لڑکا بخشوں
+
 [Open on Quran.com](https://quran.com/19/19)
 
 #### 19:20 · [[019 Maryam]]
@@ -190,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** She said, "How can I have a boy while no man has touched me and I have not been unchaste?"
 
 **English (Yusuf Ali):** She said: "How shall I have a son, seeing that no man has touched me, and I am not unchaste?"
+
+**Urdu (Fatah Muhammad Jalandhari):** مریم نے کہا کہ میرے ہاں لڑکا کیونکر ہوگا مجھے کسی بشر نے چھوا تک نہیں اور میں بدکار بھی نہیں ہوں
 
 [Open on Quran.com](https://quran.com/19/20)
 

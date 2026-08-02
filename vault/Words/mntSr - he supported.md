@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nSr - nsr]]
+- [[nSr - aid]]
 
 ### Meaning
 **he supported** · Lemma **مُنتَصِر**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 18:43 · [[018 Al-Kahf]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And there was for him no company to aid him other than Allāh, nor could he defend himself.
 
 **English (Yusuf Ali):** Nor had he numbers to help him against Allah, nor was he able to deliver himself.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اس وقت) خدا کے سوا کوئی جماعت اس کی مددگار نہ ہوئی اور نہ وہ بدلہ لے سکا
 
 [Open on Quran.com](https://quran.com/18/43)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then We caused the earth to swallow up him and his house; and he had not (the least little) party to help him against Allah, nor could he defend himself.
 
+**Urdu (Fatah Muhammad Jalandhari):** پس ہم نے قارون کو اور اس کے گھر کو زمین میں دھنسا دیا تو خدا کے سوا کوئی جماعت اس کی مددگار نہ ہوسکی۔ اور نہ وہ بدلہ لے سکا
+
 [Open on Quran.com](https://quran.com/28/81)
 
 #### 51:45 · [[051 Adh-Dhariyat]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then they could not even stand (on their feet), nor could they help themselves.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر وہ نہ تو اُٹھنے کی طاقت رکھتے تھے اور نہ مقابلہ ہی کرسکتے تھے
+
 [Open on Quran.com](https://quran.com/51/45)
 
 #### 54:44 · [[054 Al-Qamar]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or do they say, "We are an assembly supporting [each other]"?
 
 **English (Yusuf Ali):** Or do they say: "We acting together can defend ourselves"?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ کہتے ہیں کہ ہماری جماعت بڑی مضبوط ہے
 
 [Open on Quran.com](https://quran.com/54/44)
 

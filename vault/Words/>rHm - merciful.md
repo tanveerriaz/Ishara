@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:151 · [[007 Al-Araf]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Moses] said, "My Lord, forgive me and my brother and admit us into Your mercy, for You are the most merciful of the merciful."
 
 **English (Yusuf Ali):** Moses prayed: "O my Lord! forgive me and my brother! admit us to Thy mercy! for Thou art the Most Merciful of those who show mercy!"
+
+**Urdu (Fatah Muhammad Jalandhari):** تب انہوں نے دعا کی کہ اے میرے پروردگار مجھے اور میرے بھائی کو معاف فرما اور ہمیں اپنی رحمت میں داخل کر تو سب سے بڑھ کر رحم کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/7/151)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "Shall I trust you with him with any result other than when I trusted you with his brother aforetime? But Allah is the best to take care (of him), and He is the Most Merciful of those who show mercy!"
 
+**Urdu (Fatah Muhammad Jalandhari):** (یعقوب نے) کہا کہ میں اس کے بارے میں تمہارا اعتبار نہیں کرتا مگر ویسا ہی جیسا اس کے بھائی کے بارے میں کیا تھا۔ سو خدا ہی بہتر نگہبان ہے۔ اور وہ سب سے زیادہ رحم کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/12/64)
 
 #### 12:92 · [[012 Yusuf]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "This day let no reproach be (cast) on you: Allah will forgive you, and He is the Most Merciful of those who show mercy!
 
+**Urdu (Fatah Muhammad Jalandhari):** (یوسف نے) کہا کہ آج کے دن سے تم پر کچھ عتاب (وملامت) نہیں ہے۔ خدا تم کو معاف کرے۔ اور وہ بہت رحم کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/12/92)
 
 #### 21:83 · [[021 Al-Anbya]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] Job, when he called to his Lord, "Indeed, adversity has touched me, and You are the most merciful of the merciful."
 
 **English (Yusuf Ali):** And (remember) Job, when He cried to his Lord, "Truly distress has seized me, but Thou art the Most Merciful of those that are merciful."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ایوب کو (یاد کرو) جب انہوں نے اپنے پروردگار سے دعا کی کہ مجھے ایذا ہو رہی ہے اور تو سب سے بڑھ کر رحم کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/21/83)
 

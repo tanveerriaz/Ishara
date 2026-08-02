@@ -15,35 +15,35 @@ The Calamity · 11 ayahs
 ## Words in this surah (graph)
 
 - [[qArEp - striking calamity]] — `قارِعَة` · striking calamity
-- [[vqlt - heavy]] — `ثَقُلَتْ` · heavy
-- [[kAn - is]] — `كانَ` · is
-- [[nAr - fire]] — `نار` · fire
+- [[xft - light]] — `خَفَّتْ` · light
 - [[nAs - people]] — `ناس` · people
 - [[rADyp - pleasant]] — `راضِيَة` · pleasant
 - [[jbl - mountains]] — `جَبَل` · mountains
 - [[myzAn - scales]] — `مِيزان` · scales
 - [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[ywm - day]] — `يَوْم` · day
+- [[kAn - is]] — `كانَ` · is
+- [[vqlt - heavy]] — `ثَقُلَتْ` · heavy
 - [[frA$ - couches]] — `فِراش` · couches
+- [[ywm - day]] — `يَوْم` · day
+- [[nAr - fire]] — `نار` · fire
 - [[>m - mother]] — `أُمّ` · mother
-- [[xft - light]] — `خَفَّتْ` · light
 
 ## Roots
 
 - [[>mm - leadership]]
-- [[>ns - ans]]
-- [[Ey$ - eysh]]
-- [[Hmy - hmy]]
-- [[bvv - bthth]]
+- [[>ns - mankind]]
+- [[Ey$ - life sustenance]]
+- [[Hmy - protect]]
+- [[bvv - scatter]]
 - [[dry - know]]
-- [[fr$ - frsh]]
-- [[hwy - hwy]]
-- [[jbl - jbl]]
+- [[fr$ - spread expand something]]
+- [[hwy - desires]]
+- [[jbl - large company multitude]]
 - [[kwn - is]]
 - [[nwr - brand mark camels]]
-- [[qrE - qre]]
-- [[rDw - rdw]]
-- [[vql - thql]]
+- [[qrE - strike hit]]
+- [[rDw - pleased]]
+- [[vql - heavy]]
 - [[wzn - weight]]
 - [[xff - light make something]]
 - [[ywm - day]]

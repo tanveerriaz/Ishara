@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:19 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or [it is] like a rainstorm from the sky within which is darkness, thunder and lightning. They put their fingers in their ears against the thunderclaps in dread of death. But Allāh is encompassing of the disbelievers.
 
 **English (Yusuf Ali):** Or (another similitude) is that of a rain-laden cloud from the sky: In it are zones of darkness, and thunder and lightning: They press their fingers in their ears to keep out the stunning thunder-clap, the while they are in terror of death. But Allah is ever round the rejecters of Faith!
+
+**Urdu (Fatah Muhammad Jalandhari):** یا ان کی مثال مینہ کی سی ہے کہ آسمان سے (برس رہا ہو اور) اس میں اندھیرے پر اندھیرا (چھا رہا) ہو اور (بادل) گرج (رہا) ہو اور بجلی (کوند رہی) ہو تو یہ کڑک سے (ڈر کر) موت کے خوف سے کانوں میں انگلیاں دے لیں اور الله کافروں کو (ہر طرف سے) گھیرے ہوئے ہے
 
 [Open on Quran.com](https://quran.com/2/19)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Who has made the earth your couch, and the heavens your canopy; and sent down rain from the heavens; and brought forth therewith Fruits for your sustenance; then set not up rivals unto Allah when ye know (the truth).
 
+**Urdu (Fatah Muhammad Jalandhari):** جس نے تمھارے لیے زمین کو بچھونا اور آسمان کو چھت بنایا اور آسمان سے مینہ برسا کر تمہارے کھانے کے لیے انواع و اقسام کے میوے پیدا کئے۔ پس کسی کو خدا کا ہمسر نہ بناؤ۔ اور تم جانتے تو ہو
+
 [Open on Quran.com](https://quran.com/2/22)
 
 #### 2:30 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when your Lord said to the angels, "Indeed, I will make upon the earth a successive authority." They said, "Will You place upon it one who causes corruption therein and sheds blood, while we exalt You with praise and declare Your perfection?" He [Allāh] said, "Indeed, I know that which you do not know."
 
 **English (Yusuf Ali):** Behold, thy Lord said to the angels: "I will create a vicegerent on earth." They said: "Wilt Thou place therein one who will make mischief therein and shed blood?- whilst we do celebrate Thy praises and glorify Thy holy (name)?" He said: "I know what ye know not."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (وہ وقت یاد کرنے کے قابل ہے) جب تمہارے پروردگار نے فرشتوں سے فرمایا کہ میں زمین میں (اپنا) نائب بنانے والا ہوں۔ انہوں نے کہا۔ کیا تُو اس میں ایسے شخص کو نائب بنانا چاہتا ہے جو خرابیاں کرے اور کشت وخون کرتا پھرے اور ہم تیری تعریف کے ساتھ تسبیح وتقدیس کرتے رہتے ہیں۔ (خدا نے) فرمایا میں وہ باتیں جانتا ہوں جو تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/2/30)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So We made it an example to their own time and to their posterity, and a lesson to those who fear Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس قصے کو اس وقت کے لوگوں کے لیے اور جو ان کے بعد آنے والے تھے عبرت اور پرہیز گاروں کے لیے نصیحت بنا دیا
+
 [Open on Quran.com](https://quran.com/2/66)
 
 #### 2:125 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] when We made the House [i.e., the Kaʿbah] a place of return for the people and [a place of] security. And take, [O believers], from the standing place of Abraham a place of prayer. And We charged Abraham and Ishmael, [saying], "Purify My House for those who perform ṭawāf and those who are staying [there] for worship and those who bow and prostrate [in prayer]."
 
 **English (Yusuf Ali):** Remember We made the House a place of assembly for men and a place of safety; and take ye the station of Abraham as a place of prayer; and We covenanted with Abraham and Isma'il, that they should sanctify My House for those who compass it round, or use it as a retreat, or bow, or prostrate themselves (therein in prayer).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے خانہٴ کعبہ کو لوگوں کے لیے جمع ہونے اور امن پانے کی جگہ مقرر کیا اور (حکم دیا کہ) جس مقام پر ابراہیم کھڑے ہوئے تھے، اس کو نماز کی جگہ بنا لو۔ اور ابراہیم اور اسمٰعیل کو کہا کہ طواف کرنے والوں اور اعتکاف کرنے والوں اور رکوع کرنے والوں اور سجدہ کرنے والوں کے لیے میرے گھر کو پاک صاف رکھا کرو
 
 [Open on Quran.com](https://quran.com/2/125)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember Abraham said: "My Lord, make this a City of Peace, and feed its people with fruits,-such of them as believe in Allah and the Last Day." He said: "(Yea), and such as reject Faith,-for a while will I grant them their pleasure, but will soon drive them to the torment of Fire,- an evil destination (indeed)!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے دعا کی کہ اے پروردگار، اس جگہ کو امن کا شہر بنا اور اس کے رہنے والوں میں سے جو خدا پر اور روزِ آخرت پر ایمان لائیں، ان کے کھانے کو میوے عطا کر، تو خدا نے فرمایا کہ جو کافر ہوگا، میں اس کو بھی کسی قدر متمتع کروں گا، (مگر) پھر اس کو (عذاب) دوزخ کے (بھگتنے کے) لیے ناچار کردوں گا، اور وہ بری جگہ ہے
+
 [Open on Quran.com](https://quran.com/2/126)
 
 #### 2:128 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites [of worship] and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful.
 
 **English (Yusuf Ali):** "Our Lord! make of us Muslims, bowing to Thy (Will), and of our progeny a people Muslim, bowing to Thy (will); and show us our place for the celebration of (due) rites; and turn unto us (in Mercy); for Thou art the Oft-Returning, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار، ہم کو اپنا فرمانبردار بنائے رکھیو۔ اور ہماری اولاد میں سے بھی ایک گروہ کو اپنا مطیع بنائے رہیو، اور (پروردگار) ہمیں طریق عبادت بتا اور ہمارے حال پر (رحم کے ساتھ) توجہ فرما۔ بے شک تو توجہ فرمانے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/2/128)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thus, have We made of you an Ummat justly balanced, that ye might be witnesses over the nations, and the Messenger a witness over yourselves; and We appointed the Qibla to which thou wast used, only to test those who followed the Messenger from those who would turn on their heels (From the Faith). Indeed it was (A change) momentous, except to those guided by Allah. And never would Allah Make your faith of no effect. For Allah is to all people Most surely full of kindness, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے تم کو امتِ معتدل بنایا ہے، تاکہ تم لوگوں پر گواہ بنو اور پیغمبر (آخرالزماں) تم پر گواہ بنیں۔ اور جس قبلے پر تم (پہلے) تھے، اس کو ہم نے اس لیے مقرر کیا تھا کہ معلوم کریں، کون (ہمارے) پیغمبر کا تابع رہتا ہے، اور کون الٹے پاؤں پھر جاتا ہے۔ اور یہ بات (یعنی تحویل قبلہ لوگوں کو) گراں معلوم ہوئی، مگر جن کو خدا نے ہدایت بخشی (وہ اسے گراں نہیں سمجھتے) اور خدا ایسا نہیں کہ تمہارے ایمان کو یونہی کھو دے۔ خدا تو لوگوں پر بڑا مہربان (اور) صاحبِ رحمت ہے
+
 [Open on Quran.com](https://quran.com/2/143)
 
 #### 2:224 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And make not Allah's (name) an excuse in your oaths against doing good, or acting rightly, or making peace between persons; for Allah is One Who heareth and knoweth all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کے نام کو) اس بات کا حیلہ نہ بنانا کہ (اس کی) قسمیں کھا کھا کر سلوک کرنے اورپرہیزگاری کرنے اور لوگوں میں صلح و سازگاری کرانے سے رک جاؤ۔ اور خدا سب کچھ سنتا اور جانتا ہے
+
 [Open on Quran.com](https://quran.com/2/224)
 
 #### 2:259 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, "How will Allāh bring this to life after its death?" So Allāh caused him to die for a hundred years; then He revived him. He said, "How long have you remained?" He [the man] said, "I have remained a day or part of a day." He said, "Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh." And when it became clear to him, he said, "I know that Allāh is over all things competent."
 
 **English (Yusuf Ali):** Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall Allah bring it (ever) to life, after (this) its death?" but Allah caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that Allah hath power over all things."
+
+**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
 
 [Open on Quran.com](https://quran.com/2/259)
 

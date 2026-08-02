@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[dbr - dbr]]
+- [[dbr - turn back]]
 
 ### Meaning
 **disposing** · Lemma **يُدَبِّرُ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 10:3 · [[010 Yunus]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, your Lord is Allāh, who created the heavens and the earth in six days and then established Himself above the Throne, arranging the matter [of His creation]. There is no intercessor except after His permission. That is Allāh, your Lord, so worship Him. Then will you not remember?
 
 **English (Yusuf Ali):** Verily your Lord is Allah, who created the heavens and the earth in six days, and is firmly established on the throne (of authority), regulating and governing all things. No intercessor (can plead with Him) except after His leave (hath been obtained). This is Allah your Lord; Him therefore serve ye: will ye not receive admonition?
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہارا پروردگار تو خدا ہی ہے جس نے آسمان اور زمین چھ دن میں بنائے پھر عرش (تخت شاہی) پر قائم ہوا وہی ہر ایک کا انتظام کرتا ہے۔ کوئی (اس کے پاس) اس کا اذن حاصل کیے بغیر کسی کی سفارش نہیں کرسکتا، یہی خدا تمہارا پروردگار ہے تو اسی کی عبادت کرو۔ بھلا تم غور کیوں نہیں کرتے
 
 [Open on Quran.com](https://quran.com/10/3)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Who is it that sustains you (in life) from the sky and from the earth? or who is it that has power over hearing and sight? And who is it that brings out the living from the dead and the dead from the living? and who is it that rules and regulates all affairs?" They will soon say, "Allah". Say, "will ye not then show piety (to Him)?"
 
+**Urdu (Fatah Muhammad Jalandhari):** (ان سے) پوچھو کہ تم کو آسمان اور زمین میں رزق کون دیتا ہے یا (تمہارے) کانوں اور آنکھوں کا مالک کون ہے اور بےجان سے جاندار کون پیدا کرتا ہے اور دنیا کے کاموں کا انتظام کون کرتا ہے۔ جھٹ کہہ دیں گے کہ خدا۔ تو کہو کہ پھر تم (خدا سے) ڈرتے کیوں نہیں؟
+
 [Open on Quran.com](https://quran.com/10/31)
 
 #### 13:2 · [[013 Ar-Rad]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah is He Who raised the heavens without any pillars that ye can see; is firmly established on the throne (of authority); He has subjected the sun and the moon (to his Law)! Each one runs (its course) for a term appointed. He doth regulate all affairs, explaining the signs in detail, that ye may believe with certainty in the meeting with your Lord.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا وہی تو ہے جس نے ستونوں کے بغیر آسمان جیسا کہ تم دیکھتے ہو (اتنے) اونچے بنائے۔ پھر عرش پر جا ٹھہرا اور سورج اور چاند کو کام میں لگا دیا۔ ہر ایک ایک میعاد معین تک گردش کر رہا ہے۔ وہی (دنیا کے) کاموں کا انتظام کرتا ہے (اس طرح) وہ اپنی آیتیں کھول کھول کر بیان کرتا ہے کہ تم اپنے پروردگار کے روبرو جانے کا یقین کرو
+
 [Open on Quran.com](https://quran.com/13/2)
 
 #### 32:5 · [[032 As-Sajdah]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He arranges [each] matter from the heaven to the earth; then it will ascend to Him in a Day, the extent of which is a thousand years of those which you count.
 
 **English (Yusuf Ali):** He rules (all) affairs from the heavens to the earth: in the end will (all affairs) go up to Him, on a Day, the space whereof will be (as) a thousand years of your reckoning.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی آسمان سے زمین تک (کے) ہر کام کا انتظام کرتا ہے۔ پھر وہ ایک روز جس کی مقدار تمہارے شمار کے مطابق ہزار برس ہوگی۔ اس کی طرف صعود (اور رجوع) کرے گا
 
 [Open on Quran.com](https://quran.com/32/5)
 

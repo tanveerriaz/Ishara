@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>vm - athm]]
+- [[>vm - sin commit crime]]
 
 ### Meaning
 **sin** · Lemma **إِثْم**
@@ -35,7 +35,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:85 · [[002 Al-Baqarah]]
 
@@ -50,6 +50,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then, you are those [same ones who are] killing one another and evicting a party of your people from their homes, cooperating against them in sin and aggression. And if they come to you as captives, you ransom them, although their eviction was forbidden to you. So do you believe in part of the Scripture and disbelieve in part? Then what is the recompense for those who do that among you except disgrace in worldly life; and on the Day of Resurrection they will be sent back to the severest of punishment. And Allāh is not unaware of what you do.
 
 **English (Yusuf Ali):** After this it is ye, the same people, who slay among yourselves, and banish a party of you from their homes; assist (Their enemies) against them, in guilt and rancour; and if they come to you as captives, ye ransom them, though it was not lawful for you to banish them. Then is it only a part of the Book that ye believe in, and do ye reject the rest? but what is the reward for those among you who behave like this but disgrace in this life?- and on the Day of Judgment they shall be consigned to the most grievous penalty. For Allah is not unmindful of what ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر تم وہی ہو کہ اپنوں کو قتل بھی کر دیتے ہو اور اپنے میں سے بعض لوگوں پر گناہ اور ظلم سے چڑھائی کرکے انہیں وطن سے نکال بھی دیتے ہو، اور اگر وہ تمہارے پاس قید ہو کر آئیں تو بدلہ دے کر ان کو چھڑا بھی لیتے ہو، حالانکہ ان کا نکال دینا ہی تم کو حرام تھا۔ (یہ) کیا (بات ہے کہ) تم کتابِ (خدا) کے بعض احکام کو تو مانتے ہو اور بعض سے انکار کئے دیتے ہو، تو جو تم میں سے ایسی حرکت کریں، ان کی سزا اس کے سوا اور کیا ہو سکتی ہے کہ دنیا کی زندگی میں تو رسوائی ہو اور قیامت کے دن سخت سے سخت عذاب میں ڈال دیئے جائیں اور جو کام تم کرتے ہو، خدا ان سے غافل نہیں
 
 [Open on Quran.com](https://quran.com/2/85)
 
@@ -67,6 +69,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He hath only forbidden you dead meat, and blood, and the flesh of swine, and that on which any other name hath been invoked besides that of Allah. But if one is forced by necessity, without wilful disobedience, nor transgressing due limits,- then is he guiltless. For Allah is Oft-forgiving Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اس نے تم پر مرا ہوا جانور اور لہو اور سور کا گوشت اور جس چیز پر خدا کے سوا کسی اور کا نام پکارا جائے حرام کردیا ہے ہاں جو ناچار ہوجائے (بشرطیکہ ) خدا کی نافرمانی نہ کرے اور حد (ضرورت) سے باہر نہ نکل جائے اس پر کچھ گناہ نہیں۔ بےشک خدا بخشنے والا (اور) رحم کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/2/173)
 
 #### 2:181 · [[002 Al-Baqarah]]
@@ -82,6 +86,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then whoever alters it [i.e., the bequest] after he has heard it - the sin is only upon those who have altered it. Indeed, Allāh is Hearing and Knowing.
 
 **English (Yusuf Ali):** If anyone changes the bequest after hearing it, the guilt shall be on those who make the change. For Allah hears and knows (All things).
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص وصیت کو سننے کے بعد بدل ڈالے تو اس (کے بدلنے) کا گناہ انہیں لوگوں پر ہے جو اس کو بدلیں۔ اور بےشک خدا سنتا جانتا ہے
 
 [Open on Quran.com](https://quran.com/2/181)
 
@@ -99,6 +105,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But if anyone fears partiality or wrong-doing on the part of the testator, and makes peace between (The parties concerned), there is no wrong in him: For Allah is Oft-forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر کسی کو وصیت کرنے والے کی طرف سے (کسی وارث کی) طرفداری یا حق تلفی کا اندیشہ ہو تو اگر وہ (وصیت کو بدل کر) وارثوں میں صلح کرادے تو اس پر کچھ گناہ نہیں۔ بےشک خدا بخشنے والا (اور) رحم والا ہے
+
 [Open on Quran.com](https://quran.com/2/182)
 
 #### 2:188 · [[002 Al-Baqarah]]
@@ -114,6 +122,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not consume one another's wealth unjustly or send it [in bribery] to the rulers in order that [they might aid] you [to] consume a portion of the wealth of the people in sin, while you know [it is unlawful].
 
 **English (Yusuf Ali):** And do not eat up your property among yourselves for vanities, nor use it as bait for the judges, with intent that ye may eat up wrongfully and knowingly a little of (other) people's property.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ایک دوسرے کا مال ناحق نہ کھاؤ اورنہ اس کو (رشوةً) حاکموں کے پاس پہنچاؤ تاکہ لوگوں کے مال کا کچھ حصہ ناجائز طور پر کھا جاؤ اور (اسے) تم جانتے بھی ہو
 
 [Open on Quran.com](https://quran.com/2/188)
 
@@ -131,6 +141,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Celebrate the praises of Allah during the Appointed Days. But if any one hastens to leave in two days, there is no blame on him, and if any one stays on, there is no blame on him, if his aim is to do right. Then fear Allah, and know that ye will surely be gathered unto Him.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (قیام منیٰ کے) دنوں میں (جو) گنتی کے (دن میں) خدا کو یاد کرو۔ اگر کوئی جلدی کرے (اور) دو ہی دن میں (چل دے) تو اس پر بھی کچھ گناہ نہیں۔ اور جو بعد تک ٹھہرا رہے اس پر بھی کچھ گناہ نہیں۔ یہ باتیں اس شخص کے لئے ہیں جو (خدا سے) ڈرے اور تم لوگ خدا سے ڈرتے رہو اور جان رکھو کہ تم سب اس کے پاس جمع کئے جاؤ گے۔
+
 [Open on Quran.com](https://quran.com/2/203)
 
 #### 2:206 · [[002 Al-Baqarah]]
@@ -146,6 +158,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when it is said to him, "Fear Allāh," pride in the sin takes hold of him. Sufficient for him is Hellfire, and how wretched is the resting place.
 
 **English (Yusuf Ali):** When it is said to him, "Fear Allah", He is led by arrogance to (more) crime. Enough for him is Hell;-An evil bed indeed (To lie on)!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب اس سے کہا جاتا ہے کہ خدا سے خوف کر تو غرور اس کو گناہ میں پھنسا دیتا ہے۔ سو ایسے کو جہنم سزاوار ہے۔ اور وہ بہت برا ٹھکانہ ہے
 
 [Open on Quran.com](https://quran.com/2/206)
 
@@ -163,6 +177,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They ask thee concerning wine and gambling. Say: "In them is great sin, and some profit, for men; but the sin is greater than the profit." They ask thee how much they are to spend; Say: "What is beyond your needs." Thus doth Allah Make clear to you His Signs: In order that ye may consider-
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگ تم سے شراب اور جوئے کا حکم دریافت کرتے ہیں۔ کہہ دو کہ ان میں نقصان بڑے ہیں اور لوگوں کے لئے کچھ فائدے بھی ہیں مگر ان کے نقصان فائدوں سے کہیں زیادہ ہیں اور یہ بھی تم سے پوچھتے ہیں کہ (خدا کی راہ میں) کون سا مال خرچ کریں۔ کہہ دو کہ جو ضرورت سے زیادہ ہو۔ اس طرح خدا تمہارے لئے اپنے احکام کھول کھول کر بیان فرماتا ہے تاکہ تم سوچو
+
 [Open on Quran.com](https://quran.com/2/219)
 
 #### 3:178 · [[003 Ali Imran]]
@@ -179,6 +195,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Let not the Unbelievers think that our respite to them is good for themselves: We grant them respite that they may grow in their iniquity: But they will have a shameful punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر لوگ یہ نہ خیال کریں کہ ہم جو ان کو مہلت دیئے جاتے ہیں تو یہ ان کے حق میں اچھا ہے۔ (نہیں بلکہ) ہم ان کو اس لئے مہلت دیتے ہیں کہ اور گناہ کرلیں۔ آخرکار ان کو ذلیل کرنے والا عذاب ہوگا
+
 [Open on Quran.com](https://quran.com/3/178)
 
 #### 4:20 · [[004 An-Nisa]]
@@ -194,6 +212,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But if you want to replace one wife with another and you have given one of them a great amount [in gifts], do not take [back] from it anything. Would you take it in injustice and manifest sin?
 
 **English (Yusuf Ali):** But if ye decide to take one wife in place of another, even if ye had given the latter a whole treasure for dower, Take not the least bit of it back: Would ye take it by slander and manifest wrong?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم ایک عورت کو چھوڑ کر دوسری عورت کرنی چاہو۔ اور پہلی عورت کو بہت سال مال دے چکے ہو تو اس میں سے کچھ مت لینا۔ بھلا تم ناجائز طور پر اور صریح ظلم سے اپنا مال اس سے واپس لے لوگے؟
 
 [Open on Quran.com](https://quran.com/4/20)
 

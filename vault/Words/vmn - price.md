@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[vmn - thmn]]
+- [[vmn - number]]
 
 ### Meaning
 **price** · Lemma **ثَمَن**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:41 · [[002 Al-Baqarah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And believe in what I have sent down confirming that which is [already] with you, and be not the first to disbelieve in it. And do not exchange My signs for a small price, and fear [only] Me.
 
 **English (Yusuf Ali):** And believe in what I reveal, confirming the revelation which is with you, and be not the first to reject Faith therein, nor sell My Signs for a small price; and fear Me, and Me alone.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کتاب میں نے (اپنے رسول محمدﷺ پر) نازل کی ہے جو تمہاری کتاب تورات کو سچا کہتی ہے، اس پر ایمان لاؤ اور اس سے منکرِ اول نہ بنو، اور میری آیتوں میں (تحریف کر کے) ان کے بدلے تھوڑی سی قیمت (یعنی دنیاوی منعفت) نہ حاصل کرو، اور مجھی سے خوف رکھو
 
 [Open on Quran.com](https://quran.com/2/41)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then woe to those who write the Book with their own hands, and then say:"This is from Allah," to traffic with it for miserable price!- Woe to them for what their hands do write, and for the gain they make thereby.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں پر افسوس ہے جو اپنے ہاتھ سے تو کتاب لکھتے ہیں اور کہتے یہ ہیں کہ یہ خدا کے پاس سے (آئی) ہے، تاکہ اس کے عوض تھوڑی سے قیمت (یعنی دنیوی منفعت) حاصل کریں۔ ان پر افسوس ہے، اس لیے کہ (بےاصل باتیں) اپنے ہاتھ سے لکھتے ہیں اور (پھر) ان پر افسوس ہے، اس لیے کہ ایسے کام کرتے ہیں
+
 [Open on Quran.com](https://quran.com/2/79)
 
 #### 2:174 · [[002 Al-Baqarah]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, they who conceal what Allāh has sent down of the Book and exchange it for a small price - those consume not into their bellies except the Fire. And Allāh will not speak to them on the Day of Resurrection, nor will He purify them. And they will have a painful punishment.
 
 **English (Yusuf Ali):** Those who conceal Allah's revelations in the Book, and purchase for them a miserable profit,- they swallow into themselves naught but Fire; Allah will not address them on the Day of Resurrection. Nor purify them: Grievous will be their penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (خدا) کی کتاب سے ان (آیتوں اور ہدایتوں) کو جو اس نے نازل فرمائی ہیں چھپاتے اور ان کے بدلے تھوڑی سی قیمت (یعنی دنیاوی منفعت)حاصل کرتے ہیں وہ اپنے پیٹوں میں محض آگ بھرتے ہیں۔ ایسے لوگوں سے خدا قیامت کے دن نہ کلام کرے گا اور نہ ان کو (گناہوں سے) پاک کرے گا۔اور ان کے لئے دکھ دینے والا عذاب ہے
 
 [Open on Quran.com](https://quran.com/2/174)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** As for those who sell the faith they owe to Allah and their own plighted word for a small price, they shall have no portion in the Hereafter: Nor will Allah (Deign to) speak to them or look at them on the Day of Judgment, nor will He cleans them (of sin): They shall have a grievous penalty.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کے اقراروں اور اپنی قسموں (کو بیچ ڈالتے ہیں اور ان) کے عوض تھوڑی سی قیمت حاصل کرتے ہیں ان کا آخرت میں کچھ حصہ نہیں ان سے خدا نہ تو کلام کرے گا اور نہ قیامت کے روز ان کی طرف دیکھے گا اور نہ ان کو پاک کرے گا اور ان کو دکھ دینے والا عذاب ہوگا
+
 [Open on Quran.com](https://quran.com/3/77)
 
 #### 3:187 · [[003 Ali Imran]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when Allāh took a covenant from those who were given the Scripture, [saying], "You must make it clear [i.e., explain it] to the people and not conceal it." But they threw it away behind their backs and exchanged it for a small price. And wretched is that which they purchased.
 
 **English (Yusuf Ali):** And remember Allah took a covenant from the People of the Book, to make it known and clear to mankind, and not to hide it; but they threw it away behind their backs, and purchased with it some miserable gain! And vile was the bargain they made!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب خدا نے ان لوگوں سے جن کو کتاب عنایت کی گئی تھی اقرار کرلیا کہ (جو کچھ اس میں لکھا ہے) اسے صاف صاف بیان کرتے رہنا۔ اور اس (کی کسی بات) کو نہ چھپانا تو انہں نے اس کو پس پشت پھینک دیا اور اس کے بدلے تھوڑی سی قیمت حاصل کی۔ یہ جو کچھ حاصل کرتے ہیں برا ہے
 
 [Open on Quran.com](https://quran.com/3/187)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And there are, certainly, among the People of the Book, those who believe in Allah, in the revelation to you, and in the revelation to them, bowing in humility to Allah: They will not sell the Signs of Allah for a miserable gain! For them is a reward with their Lord, and Allah is swift in account.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض اہلِ کتاب ایسے بھی ہیں جو خدا پر اور اس (کتاب) پر جو تم پر نازل ہوئی اور اس پر جو ان پر نازل ہوئی ایمان رکھتے ہیں اور خدا کے آگے عاجزی کرتے ہیں اور خدا کی آیتوں کے بدلے تھوڑی سی قیمت نہیں لیتے یہی لوگ ہیں جن کا صلہ ان کے پروردگار کے ہاں تیار ہے اور خدا جلد حساب لینے والا ہے
+
 [Open on Quran.com](https://quran.com/3/199)
 
 #### 4:12 · [[004 An-Nisa]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And for you is half of what your wives leave if they have no child. But if they have a child, for you is one fourth of what they leave, after any bequest they [may have] made or debt. And for them [i.e., the wives] is one fourth if you leave no child. But if you leave a child, then for them is an eighth of what you leave, after any bequest you [may have] made or debt. And if a man or woman leaves neither ascendants nor descendants but has a brother or a sister, then for each one of them is a sixth. But if they are more than two, they share a third, after any bequest which was made or debt, as long as there is no detriment [caused]. [This is] an ordinance from Allāh, and Allāh is Knowing and Forbearing.
 
 **English (Yusuf Ali):** In what your wives leave, your share is a half, if they leave no child; but if they leave a child, ye get a fourth; after payment of legacies and debts. In what ye leave, their share is a fourth, if ye leave no child; but if ye leave a child, they get an eighth; after payment of legacies and debts. If the man or woman whose inheritance is in question, has left neither ascendants nor descendants, but has left a brother or a sister, each one of the two gets a sixth; but if more than two, they share in a third; after payment of legacies and debts; so that no loss is caused (to any one). Thus is it ordained by Allah; and Allah is All-knowing, Most Forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو مال تمہاری عورتیں چھوڑ مریں۔ اگر ان کے اولاد نہ ہو تو اس میں نصف حصہ تمہارا۔ اور اگر اولاد ہو تو ترکے میں تمہارا حصہ چوتھائی۔ (لیکن یہ تقسیم) وصیت (کی تعمیل) کے بعد جو انہوں نے کی ہو یا قرض کے (ادا ہونے کے بعد جو ان کے ذمے ہو، کی جائے گی) اور جو مال تم (مرد) چھوڑ مرو۔ اگر تمہارے اولاد نہ ہو تو تمہاری عورتوں کا اس میں چوتھا حصہ۔ اور اگر اولاد ہو تو ان کا آٹھواں حصہ (یہ حصے) تمہاری وصیت (کی تعمیل) کے بعد جو تم نے کی ہو اور (ادائے) قرض کے (بعد تقسیم کئے جائیں گے) اور اگر ایسے مرد یا عورت کی میراث ہو جس کے نہ باپ ہو نہ بیٹا مگر اس کے بھائی بہن ہو تو ان میں سے ہر ایک کا چھٹا حصہ اور اگر ایک سے زیادہ ہوں تو سب ایک تہائی میں شریک ہوں گے (یہ حصے بھی ادائے وصیت و قرض بشرطیکہ ان سے میت نے کسی کا نقصان نہ کیا ہو (تقسیم کئے جائیں گے) یہ خدا کا فرمان ہے۔ اور خدا نہایت علم والا (اور) نہایت حلم والا ہے
 
 [Open on Quran.com](https://quran.com/4/12)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It was We who revealed the law (to Moses): therein was guidance and light. By its standard have been judged the Jews, by the prophets who bowed (as in Islam) to Allah's will, by the rabbis and the doctors of law: for to them was entrusted the protection of Allah's book, and they were witnesses thereto: therefore fear not men, but fear me, and sell not my signs for a miserable price. If any do fail to judge by (the light of) what Allah hath revealed, they are (no better than) Unbelievers.
 
+**Urdu (Fatah Muhammad Jalandhari):** بیشک ہم نے توریت نازل فرمائی جس میں ہدایت اور روشنی ہے اسی کے مطابق انبیاء جو (خدا کے) فرمانبردار تھے یہودیوں کو حکم دیتے رہے ہیں اور مشائخ اور علماء بھی کیونکہ وہ کتاب خدا کے نگہبان مقرر کیے گئے تھے اور اس پر گواہ تھے (یعنی حکم الہٰی کا یقین رکھتے تھے) تو تم لوگوں سے مت ڈرنا اور مجھی سے ڈرتے رہنا اور میری آیتوں کے بدلے تھوڑی سی قیمت نہ لینا اور جو خدا کے نازل فرمائے ہوئے احکام کے مطابق حکم نہ دے تو ایسے ہی لوگ کافر ہیں
+
 [Open on Quran.com](https://quran.com/5/44)
 
 #### 5:106 · [[005 Al-Maidah]]
@@ -174,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! When death approaches any of you, (take) witnesses among yourselves when making bequests,- two just men of your own (brotherhood) or others from outside if ye are journeying through the earth, and the chance of death befalls you (thus). If ye doubt (their truth), detain them both after prayer, and let them both swear by Allah: "We wish not in this for any worldly gain, even though the (beneficiary) be our near relation: we shall hide not the evidence before Allah: if we do, then behold! the sin be upon us!"
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم میں سے کسی کی موت آموجود ہو تو شہادت (کا نصاب) یہ ہے کہ وصیت کے وقت تم (مسلمانوں) میں سے دو عادل (یعنی صاحب اعتبار) گواہ ہوں یا اگر (مسلمان نہ ملیں اور) تم سفر کر رہے ہو اور (اس وقت) تم پر موت کی مصیبت واقع ہو تو کسی دوسرے مذہب کے دو (شخصوں کو) گواہ (کر لو) اگر تم کو ان گواہوں کی نسبت کچھ شک ہو تو ان کو (عصر کی) نماز کے بعد کھڑا کرو اور دونوں خدا کی قسمیں کھائیں کہ ہم شہادت کا کچھ عوض نہیں لیں گے گو ہمارا رشتہ دار ہی ہو اور نہ ہم الله کی شہادت کو چھپائیں گے اگر ایسا کریں گے تو گنہگار ہوں گے
+
 [Open on Quran.com](https://quran.com/5/106)
 
 #### 9:9 · [[009 At-Tawbah]]
@@ -189,6 +207,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They have exchanged the signs of Allāh for a small price and averted [people] from His way. Indeed, it was evil that they were doing.
 
 **English (Yusuf Ali):** The Signs of Allah have they sold for a miserable price, and (many) have they hindered from His way: evil indeed are the deeds they have done.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ خدا کی آیتوں کے عوض تھوڑا سا فائدہ حاصل کرتے اور لوگوں کو خدا کے رستے سے روکتے ہیں۔ کچھ شک نہیں کہ جو کام یہ کرتے ہیں برے ہیں
 
 [Open on Quran.com](https://quran.com/9/9)
 

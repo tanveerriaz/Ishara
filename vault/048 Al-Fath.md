@@ -14,84 +14,84 @@ The Victory · 29 ayahs
 
 ## Words in this surah (graph)
 
-- [[skynp - tranquility]] — `سَكِينَة` · tranquility
 - [[mxlf - remained behind]] — `مُخَلَّف` · remained behind
-- [[kvyrp - many]] — `كَثِيرَة` · many
-- [[kf - restrain]] — `كَفَّ` · restrain
+- [[skynp - tranquility]] — `سَكِينَة` · tranquility
 - [[>ErAb - bedouins]] — `أَعْراب` · bedouins
 - [[bAyE - pledging you]] — `بايَعْ` · pledging you
-- [[Hsn - good]] — `حُسْن` · good
+- [[kf - restrain]] — `كَفَّ` · restrain
+- [[kvyrp - many]] — `كَثِيرَة` · many
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[wlY - so turn]] — `وَلَّى` · so turn
+- [[>EmY - blind]] — `أَعْمَى` · blind
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[n*yr - warner]] — `نَذِير` · warner
-- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
-- [[r>s - heads]] — `رَأْس` · heads
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[qAtl - fight]] — `قاتَلَ` · fight
-- [[sjwd - prostrate]] — `سُجُود` · prostrate
-- [[>slm - submits]] — `أَسْلَمَ` · submits
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>rD - earth]] — `أَرْض` · earth
 - [[wjh - faces]] — `وَجْه` · faces
-- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
-- [[qdr - restricts]] — `قَدَر` · restricts
+- [[wjd - we found]] — `وَجَدَ` · we found
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[yd - hands]] — `يَد` · hands
-- [[lys - not]] — `لَيْسَ` · not
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[dA}rp - misfortune]] — `دائِرَة` · misfortune
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[nAs - people]] — `ناس` · people
+- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
+- [[gDb - wrath]] — `غَضَب` · wrath
+- [[byn - between them]] — `بَيْن` · between them
+- [[nkv - broke word]] — `نَكَثَ` · broke word
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$hd - shhd]]
-- [[$jr - shjr]]
+- [[$hd - witnessing]]
+- [[$jr - trees]]
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
 - [[*nb - tail]]
 - [[>Sl - foundational part something]]
-- [[>bd - abad]]
+- [[>bd - absolute long]]
 - [[>hl - people house]]
-- [[>jr - ajr]]
-- [[>lm - alm]]
-- [[>mn - amn]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>jr - recompensing rewarding someone]]
+- [[>lm - painful]]
+- [[>mn - believe]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vr - athr]]
+- [[>vr - trace]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[Drr - adversity]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Edd - count]]
-- [[Ehd - ehd]]
+- [[Ehd - protection safeguard]]
 - [[Ejb - amazing]]
-- [[Ejl - ejl]]
-- [[Ekf - ekf]]
+- [[Ejl - incite cause someone]]
+- [[Ekf - cleave something constantly]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emy - blindness]]
 - [[End - near]]
-- [[Erb - erb]]
-- [[Erj - erj]]
-- [[Etd - etd]]
+- [[Erb - bedouins]]
+- [[Erj - ascend mount]]
+- [[Etd - preparation readiness]]
 - [[Ezr - discipline]]
 - [[Ezz - all-mighty]]
 - [[Hkm - prevent restrain someone]]
 - [[Hll - lawful]]
-- [[Hlq - hlq]]
+- [[Hlq - shave]]
 - [[Hmd - praise]]
-- [[Hmy - hmy]]
+- [[Hmy - protect]]
 - [[Hqq - established as true]]
-- [[Hrj - hrj]]
+- [[Hrj - any blame]]
 - [[Hrm - reverence]]
 - [[Hsd - envy someone blessing]]
 - [[Hsn - good]]
 - [[HwT - guard]]
 - [[Sdd - turn away]]
 - [[Sdq - speak truth]]
-- [[SlH - slh]]
+- [[SlH - make something good]]
 
 ## Sample (ayah 1)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ysr - ysr]]
+- [[ysr - easy]]
 
 ### Meaning
 **ease** · Lemma **يُسْر**
@@ -35,7 +35,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:185 · [[002 Al-Baqarah]]
 
@@ -50,6 +50,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The month of Ramaḍān [is that] in which was revealed the Qur’ān, a guidance for the people and clear proofs of guidance and criterion. So whoever sights [the crescent of] the month, let him fast it; and whoever is ill or on a journey - then an equal number of other days. Allāh intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allāh for that [to] which He has guided you; and perhaps you will be grateful.
 
 **English (Yusuf Ali):** Ramadhan is the (month) in which was sent down the Qur'an, as a guide to mankind, also clear (Signs) for guidance and judgment (Between right and wrong). So every one of you who is present (at his home) during that month should spend it in fasting, but if any one is ill, or on a journey, the prescribed period (Should be made up) by days later. Allah intends every facility for you; He does not want to put to difficulties. (He wants you) to complete the prescribed period, and to glorify Him in that He has guided you; and perchance ye shall be grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** (روزوں کا مہینہ) رمضان کا مہینہ (ہے) جس میں قرآن (اول اول) نازل ہوا جو لوگوں کا رہنما ہے اور (جس میں) ہدایت کی کھلی نشانیاں ہیں اور (جو حق و باطل کو) الگ الگ کرنے والا ہے تو جو کوئی تم میں سے اس مہینے میں موجود ہو چاہیئے کہ پورے مہینے کے روزے رکھے اور جو بیمار ہو یا سفر میں ہو تو دوسرے دنوں میں (رکھ کر) ان کا شمار پورا کرلے۔ خدا تمہارے حق میں آسانی چاہتا ہے اور سختی نہیں چاہتا اور (یہ آسانی کا حکم) اس لئے (دیا گیا ہے) کہ تم روزوں کا شمار پورا کرلو اور اس احسان کے بدلے کہ خدا نے تم کو ہدایت بخشی ہے تم اس کو بزرگی سے یاد کر واور اس کا شکر کرو
 
 [Open on Quran.com](https://quran.com/2/185)
 
@@ -67,6 +69,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "But whoever believes, and works righteousness,- he shall have a goodly reward, and easy will be his task as We order it by our Command."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو ایمان لائے گا اور عمل نیک کرے گا اس کے لئے بہت اچھا بدلہ ہے۔ اور ہم اپنے معاملے میں (اس پر کسی طرح کی سختی نہیں کریں گے بلکہ) اس سے نرم بات کہیں گے
+
 [Open on Quran.com](https://quran.com/18/88)
 
 #### 19:97 · [[019 Maryam]]
@@ -82,6 +86,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So, [O Muḥammad], We have only made it [i.e., the Qur’ān] easy in your tongue [i.e., the Arabic language] that you may give good tidings thereby to the righteous and warn thereby a hostile people.
 
 **English (Yusuf Ali):** So have We made the (Qur'an) easy in thine own tongue, that with it thou mayest give Glad Tidings to the righteous, and warnings to people given to contention.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) ہم نے یہ (قرآن) تمہاری زبان میں آسان (نازل) کیا ہے تاکہ تم اس سے پرہیزگاروں کو خوشخبری پہنچا دو اور جھگڑالوؤں کو ڈر سنا دو
 
 [Open on Quran.com](https://quran.com/19/97)
 
@@ -99,6 +105,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Ease my task for me;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور میرا کام آسان کردے
+
 [Open on Quran.com](https://quran.com/20/26)
 
 #### 44:58 · [[044 Ad-Dukhan]]
@@ -114,6 +122,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And indeed, We have eased it [i.e., the Qur’ān] in your tongue that they might be reminded.
 
 **English (Yusuf Ali):** Verily, We have made this (Qur'an) easy, in thy tongue, in order that they may give heed.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے اس (قرآن) کو تمہاری زبان میں آسان کردیا ہے تاکہ یہ لوگ نصیحت پکڑیں
 
 [Open on Quran.com](https://quran.com/44/58)
 
@@ -131,6 +141,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And those that flow with ease and gentleness;
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر آہستہ آہستہ چلتی ہیں
+
 [Open on Quran.com](https://quran.com/51/3)
 
 #### 54:17 · [[054 Al-Qamar]]
@@ -146,6 +158,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have certainly made the Qur’ān easy for remembrance, so is there any who will remember?
 
 **English (Yusuf Ali):** And We have indeed made the Qur'an easy to understand and remember: then is there any that will receive admonition?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن کو سمجھنے کے لئے آسان کردیا ہے تو کوئی ہے کہ سوچے سمجھے؟
 
 [Open on Quran.com](https://quran.com/54/17)
 
@@ -163,6 +177,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But We have indeed made the Qur'an easy to understand and remember: then is there any that will receive admonition?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن کو سمجھنے کے لئے آسان کردیا ہے تو کوئی ہے کہ سوچے سمجھے؟
+
 [Open on Quran.com](https://quran.com/54/22)
 
 #### 54:32 · [[054 Al-Qamar]]
@@ -179,6 +195,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We have indeed made the Qur'an easy to understand and remember: then is there any that will receive admonition?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن کو سمجھنے کے لئے آسان کردیا ہے تو کوئی ہے کہ سوچے سمجھے؟
+
 [Open on Quran.com](https://quran.com/54/32)
 
 #### 54:40 · [[054 Al-Qamar]]
@@ -194,6 +212,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have certainly made the Qur’ān easy for remembrance, so is there any who will remember?
 
 **English (Yusuf Ali):** And We have indeed made the Qur'an easy to understand and remember: then is there any that will receive admonition?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن کو سمجھنے کے لئے آسان کردیا ہے تو کوئی ہے کہ سوچے سمجھے؟
 
 [Open on Quran.com](https://quran.com/54/40)
 

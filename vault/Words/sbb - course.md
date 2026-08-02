@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:166 · [[002 Al-Baqarah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [And they should consider that] when those who have been followed disassociate themselves from those who followed [them], and they [all] see the punishment, and cut off from them are the ties [of relationship],
 
 **English (Yusuf Ali):** Then would those who are followed clear themselves of those who follow (them): They would see the penalty, and all relations between them would be cut off.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس دن (کفر کے) پیشوا اپنے پیرووں سے بیزاری ظاہر کریں گے اور (دونوں) عذاب (الہیٰ) دیکھ لیں گے اور ان کے آپس کے تعلقات منقطع ہوجائیں گے
 
 [Open on Quran.com](https://quran.com/2/166)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily We established his power on earth, and We gave him the ways and the means to all ends.
 
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے اس کو زمین میں بڑی دسترس دی تھی اور ہر طرح کا سامان عطا کیا تھا
+
 [Open on Quran.com](https://quran.com/18/84)
 
 #### 18:85 · [[018 Al-Kahf]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So he followed a way
 
 **English (Yusuf Ali):** One (such) way he followed,
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اس نے (سفر کا) ایک سامان کیا
 
 [Open on Quran.com](https://quran.com/18/85)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then followed he (another) way,
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر اس نے ایک اور سامان (سفر کا) کیا
+
 [Open on Quran.com](https://quran.com/18/89)
 
 #### 18:92 · [[018 Al-Kahf]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then he followed a way.
 
 **English (Yusuf Ali):** Then followed he (another) way,
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اس نے ایک اور سامان کیا
 
 [Open on Quran.com](https://quran.com/18/92)
 
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If any think that Allah will not help him (His Messenger) in this world and the Hereafter, let him stretch out a rope to the ceiling and cut (himself) off: then let him see whether his plan will remove that which enrages (him)!
 
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص یہ گمان کرتا ہے کہ خدا اس کو دنیا اور آخرت میں مدد نہیں دے گا تو اس کو چاہیئے کہ اوپر کی طرف (یعنی اپنے گھر کی چھت میں) ایک رسی باندھے پھر (اس سے اپنا) گلا گھونٹ لے۔ پھر دیکھے کہ آیا یہ تدبیر اس کے غصے کو دور کردیتی ہے
+
 [Open on Quran.com](https://quran.com/22/15)
 
 #### 38:10 · [[038 Sad]]
@@ -139,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or is theirs the dominion of the heavens and the earth and what is between them? Then let them ascend through [any] ways of access.
 
 **English (Yusuf Ali):** Or have they the dominion of the heavens and the earth and all between? If so, let them mount up with the ropes and means (to reach that end)!
+
+**Urdu (Fatah Muhammad Jalandhari):** یا آسمانوں اور زمین اور جو کچھ ان میں ہے ان (سب) پر ان ہی کی حکومت ہے۔ تو چاہیئے کہ رسیاں تان کر (آسمانوں) پر چڑھ جائیں
 
 [Open on Quran.com](https://quran.com/38/10)
 
@@ -156,6 +170,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Pharaoh said: "O Haman! Build me a lofty palace, that I may attain the ways and means-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور فرعون نے کہا کہ ہامان میرے لئے ایک محل بناؤ تاکہ میں (اس پر چڑھ کر) رستوں پر پہنچ جاؤں
+
 [Open on Quran.com](https://quran.com/40/36)
 
 #### 40:37 · [[040 Ghafir]]
@@ -171,6 +187,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar." And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin.
 
 **English (Yusuf Ali):** "The ways and means of (reaching) the heavens, and that I may mount up to the god of Moses: But as far as I am concerned, I think (Moses) is a liar!" Thus was made alluring, in Pharaoh's eyes, the evil of his deeds, and he was hindered from the Path; and the plot of Pharaoh led to nothing but perdition (for him).
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) آسمانوں کے رستوں پر، پھر موسیٰ کے خدا کو دیکھ لوں اور میں تو اسے جھوٹا سمجھتا ہوں۔ اور اسی طرح فرعون کو اس کے اعمال بد اچھے معلوم ہوتے تھے اور وہ رستے سے روک دیا گیا تھا۔ اور فرعون کی تدبیر تو بےکار تھی
 
 [Open on Quran.com](https://quran.com/40/37)
 

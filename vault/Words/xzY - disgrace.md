@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:85 · [[002 Al-Baqarah]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then, you are those [same ones who are] killing one another and evicting a party of your people from their homes, cooperating against them in sin and aggression. And if they come to you as captives, you ransom them, although their eviction was forbidden to you. So do you believe in part of the Scripture and disbelieve in part? Then what is the recompense for those who do that among you except disgrace in worldly life; and on the Day of Resurrection they will be sent back to the severest of punishment. And Allāh is not unaware of what you do.
 
 **English (Yusuf Ali):** After this it is ye, the same people, who slay among yourselves, and banish a party of you from their homes; assist (Their enemies) against them, in guilt and rancour; and if they come to you as captives, ye ransom them, though it was not lawful for you to banish them. Then is it only a part of the Book that ye believe in, and do ye reject the rest? but what is the reward for those among you who behave like this but disgrace in this life?- and on the Day of Judgment they shall be consigned to the most grievous penalty. For Allah is not unmindful of what ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر تم وہی ہو کہ اپنوں کو قتل بھی کر دیتے ہو اور اپنے میں سے بعض لوگوں پر گناہ اور ظلم سے چڑھائی کرکے انہیں وطن سے نکال بھی دیتے ہو، اور اگر وہ تمہارے پاس قید ہو کر آئیں تو بدلہ دے کر ان کو چھڑا بھی لیتے ہو، حالانکہ ان کا نکال دینا ہی تم کو حرام تھا۔ (یہ) کیا (بات ہے کہ) تم کتابِ (خدا) کے بعض احکام کو تو مانتے ہو اور بعض سے انکار کئے دیتے ہو، تو جو تم میں سے ایسی حرکت کریں، ان کی سزا اس کے سوا اور کیا ہو سکتی ہے کہ دنیا کی زندگی میں تو رسوائی ہو اور قیامت کے دن سخت سے سخت عذاب میں ڈال دیئے جائیں اور جو کام تم کرتے ہو، خدا ان سے غافل نہیں
 
 [Open on Quran.com](https://quran.com/2/85)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And who is more unjust than he who forbids that in places for the worship of Allah, Allah's name should be celebrated?-whose zeal is (in fact) to ruin them? It was not fitting that such should themselves enter them except in fear. For them there is nothing but disgrace in this world, and in the world to come, an exceeding torment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے بڑھ کر ظالم کون، جو خدا کی مسجدوں میں خدا کے نام کا ذکر کئے جانے کو منع کرے اور ان کی ویرانی میں ساعی ہو۔ان لوگوں کو کچھ حق نہیں کہ ان میں داخل ہوں، مگر ڈرتے ہوئے۔ ان کے لیے دنیا میں رسوائی ہے اور آخرت میں بڑا عذاب
+
 [Open on Quran.com](https://quran.com/2/114)
 
 #### 5:33 · [[005 Al-Maidah]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the penalty for those who wage war against Allāh and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment,
 
 **English (Yusuf Ali):** The punishment of those who wage war against Allah and His Messenger, and strive with might and main for mischief through the land is: execution, or crucifixion, or the cutting off of hands and feet from opposite sides, or exile from the land: that is their disgrace in this world, and a heavy punishment is theirs in the Hereafter;
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا اور اس کے رسول سے لڑائی کریں اور ملک میں فساد کرنے کو دوڑتے پھریں ان کی یہی سزا ہے کہ قتل کر دیئے جائیں یا سولی چڑھا دیئے جائیں یا ان کے ایک ایک طرف کے ہاتھ اور ایک ایک طرف کے پاؤں کاٹ دیئے جائیں یا ملک سے نکال دیئے جائیں یہ تو دنیا میں ان کی رسوائی ہے اور آخرت میں ان کے لیے بڑا (بھاری) عذاب تیار ہے
 
 [Open on Quran.com](https://quran.com/5/33)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O Messenger! let not those grieve thee, who race each other into unbelief: (whether it be) among those who say "We believe" with their lips but whose hearts have no faith; or it be among the Jews,- men who will listen to any lie,- will listen even to others who have never so much as come to thee. They change the words from their (right) times and places: they say, "If ye are given this, take it, but if not, beware!" If any one's trial is intended by Allah, thou hast no authority in the least for him against Allah. For such - it is not Allah's will to purify their hearts. For them there is disgrace in this world, and in the Hereafter a heavy punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر! جو لوگ کفر میں جلدی کرتے ہیں (کچھ تو) ان میں سے (ہیں) جو منہ سے کہتے ہیں کہ ہم مومن ہیں لیکن ان کے دل مومن نہیں ہیں اور (کچھ) ان میں سے جو یہودی ہیں ان کی وجہ سے غمناک نہ ہونا یہ غلط باتیں بنانے کے لیے جاسوسی کرتے پھرتے ہیں اور ایسے لوگوں (کے بہکانے) کے لیے جاسوس بنے ہیں جو ابھی تمہارے پاس نہیں آئے (صحیح) باتوں کو ان کے مقامات (میں ثابت ہونے) کے بعد بدل دیتے ہیں (اور لوگوں سے) کہتے ہیں کہ اگر تم کو یہی (حکم) ملے تو اسے قبول کر لینا اور اگر یہ نہ ملے تو اس سے احتراز کرنا اور اگر کسی کو خدا گمراہ کرنا چاہے تو اس کے لیے تم کچھ بھی خدا سے (ہدایت کا) اختیار نہیں رکھتے یہ وہ لوگ ہیں جن کے دلوں کو خدا نے پاک کرنا نہیں چاہا ان کے لیے دنیا میں بھی ذلت ہے اور آخرت میں بھی بڑا عذاب ہے
+
 [Open on Quran.com](https://quran.com/5/41)
 
 #### 9:63 · [[009 At-Tawbah]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do they not know that whoever opposes Allāh and His Messenger - that for him is the fire of Hell, wherein he will abide eternally? That is the great disgrace.
 
 **English (Yusuf Ali):** Know they not that for those who oppose Allah and His Messenger, is the Fire of Hell?- wherein they shall dwell. That is the supreme disgrace.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان لوگوں کو معلوم نہیں کہ جو شخص خدا اور اس کے رسول سے مقابلہ کرتا ہے تو اس کے لیے جہنم کی آگ (تیار) ہے جس میں وہ ہمیشہ (جلتا) رہے گا۔ یہ بڑی رسوائی ہے
 
 [Open on Quran.com](https://quran.com/9/63)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Why was there not a single township (among those We warned), which believed,- so its faith should have profited it,- except the people of Jonah? When they believed, We removed from them the penalty of ignominy in the life of the present, and permitted them to enjoy (their life) for a while.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو کوئی بستی ایسی کیوں نہ ہوئی کہ ایمان لاتی تو اس کا ایمان اسے نفع دیتا ہاں یونس کی قوم۔ جب ایمان لائی تو ہم نے دنیا کی زندگی میں ان سے ذلت کا عذاب دور کردیا اور ایک مدت تک (فوائد دنیاوی سے) ان کو بہرہ مند رکھا
+
 [Open on Quran.com](https://quran.com/10/98)
 
 #### 11:66 · [[011 Hud]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So when Our command came, We saved Ṣāliḥ and those who believed with him, by mercy from Us, and [saved them] from the disgrace of that day. Indeed, it is your Lord who is the Powerful, the Exalted in Might.
 
 **English (Yusuf Ali):** When Our Decree issued, We saved Salih and those who believed with him, by (special) Grace from Ourselves - and from the Ignominy of that day. For thy Lord - He is the Strong One, and able to enforce His Will.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب ہمارا حکم آگیا تو ہم نے صالح کو اور جو لوگ ان کے ساتھ ایمان لائے تھے ان کو اپنی مہربانی سے بچالیا۔ اور اس دن کی رسوائی سے (محفوظ رکھا)۔ بےشک تمہارا پروردگار طاقتور اور زبردست ہے
 
 [Open on Quran.com](https://quran.com/11/66)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then, on the Day of Judgment, He will cover them with shame, and say: "Where are My 'partners' concerning whom ye used to dispute (with the godly)?" Those endued with knowledge will say: "This Day, indeed, are the Unbelievers covered with shame and misery,-
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر وہ ان کو قیامت کے دن بھی ذلیل کرے گا اور کہے گا کہ میرے وہ شریک کہاں ہیں جن کے بارے میں تم جھگڑا کرتے تھے۔ جن لوگوں کو علم دیا گیا تھا وہ کہیں گے کہ آج کافروں کی رسوائی اور برائی ہے
+
 [Open on Quran.com](https://quran.com/16/27)
 
 #### 22:9 · [[022 Al-Hajj]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Disdainfully) bending his side, in order to lead (men) astray from the Path of Allah: for him there is disgrace in this life, and on the Day of Judgment We shall make him taste the Penalty of burning (Fire).
 
+**Urdu (Fatah Muhammad Jalandhari):** (اور تکبر سے) گردن موڑ لیتا (ہے) تاکہ (لوگوں کو) خدا کے رستے سے گمراہ کردے۔ اس کے لئے دنیا میں ذلت ہے۔ اور قیامت کے دن ہم اسے عذاب (آتش) سوزاں کا مزہ چکھائیں گے
+
 [Open on Quran.com](https://quran.com/22/9)
 
 #### 39:26 · [[039 Az-Zumar]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So Allāh made them taste disgrace in worldly life. But the punishment of the Hereafter is greater, if they only knew.
 
 **English (Yusuf Ali):** So Allah gave them a taste of humiliation in the present life, but greater is the punishment of the Hereafter, if they only knew!
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کو خدا نے دنیا کی زندگی میں رسوائی کا مزہ چکھا دیا۔ اور آخرت کا عذاب تو بہت بڑا ہے۔ کاش یہ سمجھ رکھتے
 
 [Open on Quran.com](https://quran.com/39/26)
 

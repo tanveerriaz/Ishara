@@ -15,83 +15,83 @@ The Poets · 227 ayahs
 ## Words in this surah (graph)
 
 - [[>myn - trustworthy]] — `أَمِين` · trustworthy
-- [[ESA - staff]] — `عَصا` · staff
 - [[gAlb - victorious]] — `غالِب` · victorious
-- [[mn*r - warners]] — `مُنذِر` · warners
 - [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
+- [[mn*r - warners]] — `مُنذِر` · warners
+- [[ESA - staff]] — `عَصا` · staff
 - [[gAwy - deviators]] — `غاوي` · deviators
-- [[yTmE - hope]] — `يَطْمَعُ` · hope
-- [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
-- [[m$rq - east]] — `مَشْرِق` · east
-- [[xTy}p - sins]] — `خَطِيئَة` · sins
-- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
-- [[>zlft - brought near]] — `أُزْلِفَتْ` · brought near
-- [[DAl - astray]] — `ضالّ` · astray
-- [[mnqlb - will return]] — `مُنقَلِب` · will return
 - [[mE*b - will punished]] — `مُعَذِّب` · will punished
+- [[mnqlb - will return]] — `مُنقَلِب` · will return
+- [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
+- [[xTy}p - sins]] — `خَطِيئَة` · sins
+- [[DAl - astray]] — `ضالّ` · astray
 - [[mElwm - known]] — `مَعْلُوم` · known
-- [[dEA - call]] — `دَعا` · call
-- [[wEZ - admonished]] — `وَعَظْ` · admonished
-- [[Eml - do]] — `عَمِلَ` · do
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[>mr - command]] — `أَمَرَ` · command
-- [[byt - houses]] — `بَيْت` · houses
-- [[tqlb - movement]] — `تَقَلُّب` · movement
-- [[>wrv - we caused inherit]] — `أَوْرَثَ` · we caused inherit
-- [[smyE - all-hearer]] — `سَمِيع` · all-hearer
+- [[m$rq - east]] — `مَشْرِق` · east
+- [[>zlft - brought near]] — `أُزْلِفَتْ` · brought near
+- [[yTmE - hope]] — `يَطْمَعُ` · hope
+- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[ftH - victory]] — `فَتَحَ` · victory
+- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
+- [[dyn - religion]] — `دِين` · religion
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[qbl - before]] — `قَبْل` · before
+- [[Zlp - coverings]] — `ظُلَّة` · coverings
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Hn - shhn]]
-- [[$Tn - shtn]]
+- [[$Hn - fill]]
+- [[$Tn - anything excessively proud]]
 - [[$fE - make something pair]]
 - [[$fy - heal recover illness]]
-- [[$rb - shrb]]
-- [[$rq - east]]
+- [[$rb - drink]]
+- [[$rq - earth]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*nb - tail]]
-- [[>*n - adhn]]
-- [[>bw - abw]]
-- [[>fk - afk]]
+- [[>*n - ear]]
+- [[>bw - forefathers]]
+- [[>fk - turn something away]]
 - [[>hl - people house]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>lh - god]]
-- [[>lm - alm]]
-- [[>mn - amn]]
+- [[>lm - painful]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - athm]]
-- [[>wl - like milk oil]]
+- [[>vm - sin commit crime]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[Drb - tent]]
+- [[Drb - strike beat]]
 - [[Drr - adversity]]
-- [[Dyq - dyq]]
-- [[E$r - eshr]]
-- [[E*b - edhb]]
+- [[Dyq - become narrow strait]]
+- [[E$r - ten]]
+- [[E*b - motes particles floating]]
 - [[ESw - staff stick]]
 - [[ESy - disobey]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edw - enemy]]
-- [[Ejl - ejl]]
+- [[Edw - turn]]
+- [[Ejl - incite cause someone]]
 - [[Ejm - bite chew]]
 - [[Ejz - old age weakness]]
-- [[Ekf - ekf]]
+- [[Ekf - cleave something constantly]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emr - life]]
 - [[Enq - like summer age]]
-- [[Eql - eql]]
-- [[Eqr - eqr]]
+- [[Eql - withhold restrain]]
+- [[Eqr - wound hamstring]]
 
 ## Sample (ayah 1)
 

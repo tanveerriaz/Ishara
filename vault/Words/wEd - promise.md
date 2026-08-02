@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:268 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Satan threatens you with poverty and orders you to immorality, while Allāh promises you forgiveness from Him and bounty. And Allāh is all-Encompassing and Knowing.
 
 **English (Yusuf Ali):** The Evil one threatens you with poverty and bids you to conduct unseemly. Allah promiseth you His forgiveness and bounties. And Allah careth for all and He knoweth all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور دیکھنا) شیطان (کا کہنا نہ ماننا وہ) تمہیں تنگ دستی کا خوف دلاتا اور بےحیائی کے کام کر نے کو کہتا ہے۔ اور خدا تم سے اپنی بخشش اور رحمت کا وعدہ کرتا ہے۔ اور خدا بڑی کشائش والا (اور) سب کچھ جاننے والا ہے
 
 [Open on Quran.com](https://quran.com/2/268)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah did indeed fulfil His promise to you when ye with His permission Were about to annihilate your enemy,-until ye flinched and fell to disputing about the order, and disobeyed it after He brought you in sight (of the booty) which ye covet. Among you are some that hanker after this world and some that desire the Hereafter. Then did He divert you from your foes in order to test you but He forgave you: For Allah is full of grace to those who believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے اپنا وعدہ سچا کر دیا (یعنی) اس وقت جبکہ تم کافروں کو اس کے حکم سے قتل کر رہے تھے یہاں تک کہ جو تم چاہتے تھے خدا نے تم کو دکھا دیا اس کے بعد تم نے ہمت ہار دی اور حکم (پیغمبر) میں جھگڑا کرنے لگے اور اس کی نافرمانی کی بعض تو تم میں سے دنیا کے خواستگار تھے اور بعض آخرت کے طالب اس وقت خدا نے تم کو ان (کے مقابلے) سے پھیر (کر بھگا) دیا تاکہ تمہاری آزمائش کرے اور اس نے تمہارا قصور معاف کر دیا اور خدا مومنو پر بڑا فضل کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/3/152)
 
 #### 3:194 · [[003 Ali Imran]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise."
 
 **English (Yusuf Ali):** "Our Lord! Grant us what Thou didst promise unto us through Thine messengers, and save us from shame on the Day of Judgment: For Thou never breakest Thy promise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار تو نے جن جن چیزوں کے ہم سے اپنے پیغمبروں کے ذریعے سے وعدے کیے ہیں وہ ہمیں عطا فرما اور قیامت کے دن ہمیں رسوا نہ کیجو کچھ شک نہیں کہ تو خلاف وعدہ نہیں کرتا
 
 [Open on Quran.com](https://quran.com/3/194)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Not equal are those believers who sit (at home) and receive no hurt, and those who strive and fight in the cause of Allah with their goods and their persons. Allah hath granted a grade higher to those who strive and fight with their goods and persons than to those who sit (at home). Unto all (in Faith) Hath Allah promised good: But those who strive and fight Hath He distinguished above those who sit (at home) by a special reward,-
 
+**Urdu (Fatah Muhammad Jalandhari):** جو مسلمان (گھروں میں) بیٹھ رہتے (اور لڑنے سے جی چراتے) ہیں اور کوئی عذر نہیں رکھتے وہ اور جو خدا کی راہ میں اپنے مال اور جان سے لڑتے ہیں وہ دونوں برابر نہیں ہو سکتے خدا نے مال اور جان سے جہاد کرنے والوں کو بیٹھ رہنے والوں پر درجے میں فضیلت بخشی ہے اور (گو) نیک وعدہ سب سے ہے لیکن اجر عظیم کے لحاظ سے خدا نے جہاد کرنے والوں کو بیٹھ رہنے والوں پر کہیں فضیلت بخشی ہے
+
 [Open on Quran.com](https://quran.com/4/95)
 
 #### 4:120 · [[004 An-Nisa]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He [i.e., Satan] promises them and arouses desire in them. But Satan does not promise them except delusion.
 
 **English (Yusuf Ali):** Satan makes them promises, and creates in them false desires; but satan's promises are nothing but deception.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ ان کو وعدے دیتا رہا اور امیدیں دلاتا ہے اور جو کچھ شیطان انہیں وعدے دیتا ہے جو دھوکا ہی دھوکا ہے
 
 [Open on Quran.com](https://quran.com/4/120)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But those who believe and do deeds of righteousness,- we shall soon admit them to gardens, with rivers flowing beneath,-to dwell therein for ever. Allah's promise is the truth, and whose word can be truer than Allah's?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور نیک کام کرتے رہے ان کو ہم بہشتوں میں داخل کریں گے جن کے نیچے نہریں جاری ہیں۔ ابدالآباد ان میں رہیں گے۔ یہ خدا کا سچا وعدہ ہے۔ اور خدا سے زیادہ بات کا سچا کون ہوسکتا ہے
+
 [Open on Quran.com](https://quran.com/4/122)
 
 #### 5:9 · [[005 Al-Maidah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh has promised those who believe and do righteous deeds [that] for them there is forgiveness and great reward.
 
 **English (Yusuf Ali):** To those who believe and do deeds of righteousness hath Allah promised forgiveness and a great reward.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور نیک کام کرتے رہے ان سے خدا نے وعدہ فرمایا ہے کہ ان کے لیے بخشش اور اجر عظیم ہے
 
 [Open on Quran.com](https://quran.com/5/9)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** All that hath been promised unto you will come to pass: nor can ye frustrate it (in the least bit).
 
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ جو وعدہ تم سے کیا جاتا ہے وہ (وقوع میں) آنے والا ہے اور تم (خدا کو) مغلوب نہیں کر سکتے
+
 [Open on Quran.com](https://quran.com/6/134)
 
 #### 7:44 · [[007 Al-Araf]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Companions of the Garden will call out to the Companions of the Fire: "We have indeed found the promises of our Lord to us true: Have you also found Your Lord's promises true?" They shall say, "Yes"; but a crier shall proclaim between them: "The curse of Allah is on the wrong-doers;-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اہل بہشت دوزخیوں سے پکار کر کہیں گے کہ جو وعدہ ہمارے پروردگار نے ہم سے کیا تھا ہم نے تو اسے سچا پالیا۔ بھلا جو وعدہ تمہارے پروردگار نے تم سے کیا تھا تم نے بھی اسے سچا پایا؟ وہ کہیں گے ہاں تو (اس وقت) ان میں ایک پکارنے والا پکارے گا کہ بےانصافوں پر خدا کی لعنت
+
 [Open on Quran.com](https://quran.com/7/44)
 
 #### 7:70 · [[007 Al-Araf]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "Have you come to us that we should worship Allāh alone and leave what our fathers have worshipped? Then bring us what you promise us, if you should be of the truthful."
 
 **English (Yusuf Ali):** They said: "Comest thou to us, that we may worship Allah alone, and give up the cult of our fathers? bring us what thou threatenest us with, if so be that thou tellest the truth!"
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ تم ہمارے پاس اس لیے آئے ہو کہ ہم اکیلے خدا ہی کی عبادت کریں۔ اور جن کو ہمارے باپ دادا پوجتے چلے آئے ہیں ان کو چھوڑ دیں؟ تو اگر سچے ہو تو جس چیز سے ہمیں ڈراتے ہو اسے لے آؤ
 
 [Open on Quran.com](https://quran.com/7/70)
 

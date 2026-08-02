@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Ewd - ewd]]
+- [[Ewd - aad]]
 
 ### Meaning
 **repeats it** · Lemma **أُعِيدُ**
@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 10:4 · [[010 Yunus]]
 
@@ -51,6 +51,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** To Him is your return all together. [It is] the promise of Allāh [which is] truth. Indeed, He begins the [process of] creation and then repeats it that He may reward those who have believed and done righteous deeds, in justice. But those who disbelieved will have a drink of scalding water and a painful punishment for what they used to deny.
 
 **English (Yusuf Ali):** To Him will be your return- of all of you. The promise of Allah is true and sure. It is He Who beginneth the process of creation, and repeateth it, that He may reward with justice those who believe and work righteousness; but those who reject Him will have draughts of boiling fluids, and a penalty grievous, because they did reject Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** اسی کے پاس تم سب کو لوٹ کر جانا ہے۔ خدا کا وعدہ سچا ہے۔ وہی خلقت کو پہلی بار پیدا کرتا ہے۔ پھر وہی اس کو دوبارہ پیدا کرے گا تاکہ ایمان والوں اور نیک کام کرنے والوں کو انصاف کے ساتھ بدلہ دے۔ اور جو کافر ہیں ان کے لیے پینے کو نہایت گرم پانی اور درد دینے والا عذاب ہوگا کیوں کہ (خدا سے) انکار کرتے تھے
 
 [Open on Quran.com](https://quran.com/10/4)
 
@@ -68,6 +70,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Of your 'partners', can any originate creation and repeat it?" Say: "It is Allah Who originates creation and repeats it: then how are ye deluded away (from the truth)?"
 
+**Urdu (Fatah Muhammad Jalandhari):** (ان سے) پوچھو کہ بھلا تمھارے شریکوں میں سے کوئی ایسا ہے کہ مخلوق کو ابتداً پیدا کرے (اور) پھر اس کو دوبارہ بنائے؟ کہہ دو کہ خدا ہی پہلی بار پیدا کرتا ہے پھر وہی اس کو دوبارہ پیدا کرے گا تو تم کہاں اُکسے جارہے ہو
+
 [Open on Quran.com](https://quran.com/10/34)
 
 #### 17:51 · [[017 Al-Isra]]
@@ -83,6 +87,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or [any] creation of that which is great within your breasts." And they will say, "Who will restore us?" Say, "He who brought you forth the first time." Then they will nod their heads toward you and say, "When is that?" Say, "Perhaps it will be soon -
 
 **English (Yusuf Ali):** "Or created matter which, in your minds, is hardest (to be raised up),- (Yet shall ye be raised up)!" then will they say: "Who will cause us to return?" Say: "He who created you first!" Then will they wag their heads towards thee, and say, "When will that be?" Say, "May be it will be quite soon!
+
+**Urdu (Fatah Muhammad Jalandhari):** یا کوئی اور چیز جو تمہارے نزدیک (پتھر اور لوہے سے بھی) بڑی (سخت) ہو (جھٹ کہیں گے) کہ (بھلا) ہمیں دوبارہ کون جِلائے گا؟ کہہ دو کہ وہی جس نے تم کو پہلی بار پیدا کیا۔ تو (تعجب سے) تمہارے آگے سرہلائیں گے اور پوچھیں گے کہ ایسا کب ہوگا؟ کہہ دو کہ امید ہے جلد ہوگا
 
 [Open on Quran.com](https://quran.com/17/51)
 
@@ -100,6 +106,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or do ye feel secure that He will not send you back a second time to sea and send against you a heavy gale to drown you because of your ingratitude, so that ye find no helper. Therein against Us?
 
+**Urdu (Fatah Muhammad Jalandhari):** یا (اس سے) بےخوف ہو کر تم دوسری دفعہ دریا میں لے جائے پھر تم پر تیز ہوا چلائے اور تمہارے کفر کے سبب تمہیں ڈبو دے۔ پھر تم اس غرق کے سبب اپنے لئے کوئی ہمارا پیچھا کرنے والا نہ پاؤ
+
 [Open on Quran.com](https://quran.com/17/69)
 
 #### 18:20 · [[018 Al-Kahf]]
@@ -115,6 +123,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, if they come to know of you, they will stone you or return you to their religion. And never would you succeed, then - ever."
 
 **English (Yusuf Ali):** "For if they should come upon you, they would stone you or force you to return to their cult, and in that case ye would never attain prosperity."
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر وہ تم پر دسترس پالیں گے تو تمہیں سنگسار کردیں گے یا پھر اپنے مذہب میں داخل کرلیں گے اور اس وقت تم کبھی فلاح نہیں پاؤ گے
 
 [Open on Quran.com](https://quran.com/18/20)
 
@@ -132,6 +142,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Allah) said, "Seize it, and fear not: We shall return it at once to its former condition"..
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے فرمایا کہ اسے پکڑ لو اور ڈرنا مت۔ ہم اس کو ابھی اس کی پہلی حالت پر لوٹا دیں گے
+
 [Open on Quran.com](https://quran.com/20/21)
 
 #### 20:55 · [[020 Taha]]
@@ -147,6 +159,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** From it [i.e., the earth] We created you, and into it We will return you, and from it We will extract you another time.
 
 **English (Yusuf Ali):** From the (earth) did We create you, and into it shall We return you, and from it shall We bring you out once again.
+
+**Urdu (Fatah Muhammad Jalandhari):** اسی (زمین) سے ہم تم کو پیدا کیا اور اسی میں تمہیں لوٹائیں گے اور اسی سے دوسری دفعہ نکالیں گے
 
 [Open on Quran.com](https://quran.com/20/55)
 
@@ -164,6 +178,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Day that We roll up the heavens like a scroll rolled up for books (completed),- even as We produced the first creation, so shall We produce a new one: a promise We have undertaken: truly shall We fulfil it.
 
+**Urdu (Fatah Muhammad Jalandhari):** جس دن ہم آسمان کو اس طرح لپیٹ لیں گے جیسے خطوں کا طومار لپیٹ لیتے ہیں۔ جس طرح ہم نے (کائنات کو) پہلے پیدا کیا اسی طرح دوبارہ پیدا کردیں گے۔ (یہ) وعدہ (جس کا پورا کرنا لازم) ہے۔ ہم (ایسا) ضرور کرنے والے ہیں
+
 [Open on Quran.com](https://quran.com/21/104)
 
 #### 22:22 · [[022 Al-Hajj]]
@@ -180,6 +196,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Every time they wish to get away therefrom, from anguish, they will be forced back therein, and (it will be said), "Taste ye the Penalty of Burning!"
 
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ چاہیں گے کہ اس رنج (وتکلیف) کی وجہ سے دوزخ سے نکل جائیں تو پھر اسی میں لوٹا دیئے جائیں گے۔ اور (کہا جائے گا کہ) جلنے کے عذاب کا مزہ چکھتے رہو
+
 [Open on Quran.com](https://quran.com/22/22)
 
 #### 27:64 · [[027 An-Naml]]
@@ -195,6 +213,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Is He [not best] who begins creation and then repeats it and who provides for you from the heaven and earth? Is there a deity with Allāh? Say, "Produce your proof, if you should be truthful."
 
 **English (Yusuf Ali):** Or, Who originates creation, then repeats it, and who gives you sustenance from heaven and earth? (Can there be another) god besides Allah? Say, "Bring forth your argument, if ye are telling the truth!"
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا کون خلقت کو پہلی بار پیدا کرتا۔ پھر اس کو بار بار پیدا کرتا رہتا ہے اور (کون) تم کو آسمان اور زمین سے رزق دیتا ہے (یہ سب کچھ خدا کرتا ہے) تو کیا خدا کے ساتھ کوئی اور معبود بھی ہے (ہرگز نہیں) کہہ دو کہ (مشرکو) اگر تم سچے ہو تو دلیل پیش کرو
 
 [Open on Quran.com](https://quran.com/27/64)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fkh - fkh]]
+- [[fkh - eating fruit]]
 
 ### Meaning
 **amusement** · Lemma **فاكِه**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 36:55 · [[036 Ya-Sin]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed the companions of Paradise, that Day, will be amused in [joyful] occupation -
 
 **English (Yusuf Ali):** Verily the Companions of the Garden shall that Day have joy in all that they do;
+
+**Urdu (Fatah Muhammad Jalandhari):** اہل جنت اس روز عیش ونشاط کے مشغلے میں ہوں گے
 
 [Open on Quran.com](https://quran.com/36/55)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And wealth (and conveniences of life), wherein they had taken such delight!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور آرام کی چیزیں جن میں عیش کیا کرتے تھے
+
 [Open on Quran.com](https://quran.com/44/27)
 
 #### 52:18 · [[052 At-Tur]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Enjoying what their Lord has given them, and their Lord protected them from the punishment of Hellfire.
 
 **English (Yusuf Ali):** Enjoying the (Bliss) which their Lord hath bestowed on them, and their Lord shall deliver them from the Penalty of the Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو کچھ ان کے پروردگار نے ان کو بخشا اس (کی وجہ) سے خوشحال۔ اور ان کے پروردگار نے ان کو دوزخ کے عذاب سے بچا لیا
 
 [Open on Quran.com](https://quran.com/52/18)
 

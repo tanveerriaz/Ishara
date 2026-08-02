@@ -15,83 +15,83 @@ The Table Spread · 120 ayahs
 ## Words in this surah (graph)
 
 - [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[nb> - news]] — `نَبَّأَ` · news
-- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
-- [[>SbH - they became]] — `أَصْبَحَ` · they became
 - [[jzA' - recompense]] — `جَزاء` · recompense
-- [[TEAm - food]] — `طَعام` · food
+- [[>SbH - they became]] — `أَصْبَحَ` · they became
+- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
+- [[nb> - news]] — `نَبَّأَ` · news
 - [[nwr - light]] — `نُور` · light
-- [[E*b - punishes]] — `عَذَّبَ` · punishes
 - [[EdAwp - enmity]] — `عَداوَة` · enmity
 - [[rjl - man]] — `رَجُل` · man
 - [[mlkt - possess]] — `مَلَكَتْ` · possess
-- [[xAsr - losers]] — `خاسِر` · losers
 - [[Hrm - made unlawful]] — `حَرَّمَ` · made unlawful
+- [[xAsr - losers]] — `خاسِر` · losers
 - [[yhwd - jews]] — `يَهُود` · jews
-- [[Dl - lost]] — `ضَلَّ` · lost
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[TEAm - food]] — `طَعام` · food
 - [[bgDA' - hatred]] — `بَغْضاء` · hatred
-- [[$hAdp - witnessed]] — `شَهادَة` · witnessed
-- [[fsAd - corruption]] — `فَساد` · corruption
-- [[Edl - justice]] — `عَدْل` · justice
-- [[>hwA' - desires]] — `أَهْواء` · desires
-- [[Tybp - good things]] — `طَيِّبَة` · good things
-- [[dAm - as long as]] — `دامُ` · as long as
-- [[hAd - jews]] — `هادُ` · jews
-- [[Tyb - good]] — `طَيِّب` · good
 - [[>x - brother]] — `أَخ` · brother
+- [[>hwA' - desires]] — `أَهْواء` · desires
+- [[hdy - sacrificial animal]] — `هَدْي` · sacrificial animal
+- [[>m - mother]] — `أُمّ` · mother
+- [[dAm - as long as]] — `دامُ` · as long as
+- [[msyH - messiah]] — `مَسِيح` · messiah
+- [[mHsn - good-doers]] — `مُحْسِن` · good-doers
+- [[Edl - justice]] — `عَدْل` · justice
+- [[swA' - it same]] — `سَواء` · it same
+- [[ysArE - hasten]] — `يُسارِعُ` · hasten
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
-- [[$hd - shhd]]
-- [[$hr - shahr]]
-- [[$kr - shkr]]
+- [[$hd - witnessing]]
+- [[$hr - new moon]]
+- [[$kr - gratitude]]
 - [[$rE - enter water drink]]
 - [[$rk - sharing partnership]]
 - [[$rr - sparks fire]]
 - [[$ry - buy sell]]
 - [[$y> - thing]]
 - [[*bH - cut split lengthwise]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*ll - humiliation]]
 - [[*nb - tail]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
+- [[*wq - taste]]
+- [[>*n - ear]]
 - [[>Hd - anyone]]
-- [[>bd - abad]]
-- [[>bw - abw]]
-- [[>dm - adm]]
-- [[>fk - afk]]
+- [[>bd - absolute long]]
+- [[>bw - forefathers]]
+- [[>dm - seasoned food]]
+- [[>fk - turn something away]]
 - [[>hl - people house]]
 - [[>jl - term]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
-- [[>sw - asw]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
+- [[>sw - grieve]]
 - [[>ty - give]]
-- [[>vm - athm]]
-- [[>vr - athr]]
-- [[>wl - like milk oil]]
+- [[>vm - sin commit crime]]
+- [[>vr - trace]]
+- [[>wl - return revert original]]
 - [[>wy - betake oneself place]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
-- [[>yd - ayd]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
+- [[>yd - earth]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[Drb - tent]]
+- [[Drb - strike beat]]
 - [[Drr - adversity]]
-- [[E$r - eshr]]
-- [[E*b - edhb]]
+- [[E$r - ten]]
+- [[E*b - motes particles floating]]
 
 ## Sample (ayah 1)
 

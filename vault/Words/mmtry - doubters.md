@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mry - mry]]
+- [[mry - stroke rub]]
 
 ### Meaning
 **doubters** · Lemma **مُمْتَري**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:147 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The truth is from your Lord, so never be among the doubters.
 
 **English (Yusuf Ali):** The Truth is from thy Lord; so be not at all in doubt.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر، یہ نیا قبلہ) تمہارے پروردگار کی طرف سے حق ہے تو تم ہرگز شک کرنے والوں میں نہ ہونا
 
 [Open on Quran.com](https://quran.com/2/147)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Truth (comes) from Allah alone; so be not of those who doubt.
 
+**Urdu (Fatah Muhammad Jalandhari):** (یہ بات) تمہارے پروردگار کی طرف سے حق ہے تو تم ہرگز شک کرنے والوں میں نہ ہونا
+
 [Open on Quran.com](https://quran.com/3/60)
 
 #### 6:114 · [[006 Al-Anam]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Shall I seek for judge other than Allah? - when He it is Who hath sent unto you the Book, explained in detail." They know full well, to whom We have given the Book, that it hath been sent down from thy Lord in truth. Never be then of those who doubt.
 
+**Urdu (Fatah Muhammad Jalandhari):** (کہو) کیا میں خدا کے سوا اور منصف تلاش کروں حالانکہ اس نے تمہاری طرف واضع المطالب کتاب بھیجی ہے اور جن لوگوں کو ہم نے کتاب (تورات) دی ہے وہ جانتے ہیں کہ وہ تمہارے پروردگار کی طرف سے برحق نازل ہوئی ہے تو تم ہرگز شک کرنے والوں میں نہ ہونا
+
 [Open on Quran.com](https://quran.com/6/114)
 
 #### 10:94 · [[010 Yunus]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So if you are in doubt, [O Muḥammad], about that which We have revealed to you, then ask those who have been reading the Scripture before you. The truth has certainly come to you from your Lord, so never be among the doubters.
 
 **English (Yusuf Ali):** If thou wert in doubt as to what We have revealed unto thee, then ask those who have been reading the Book from before thee: the Truth hath indeed come to thee from thy Lord: so be in no wise of those in doubt.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم کو اس (کتاب کے) بارے میں جو ہم نے تم پر نازل کی ہے کچھ شک ہو تو جو لوگ تم سے پہلے کی (اُتری ہوئی) کتابیں پڑھتے ہیں ان سے پوچھ لو۔ تمہارے پروردگار کی طرف سے تمہارے پاس حق آچکا ہے تو تم ہرگز شک کرنے والوں میں نہ ہونا
 
 [Open on Quran.com](https://quran.com/10/94)
 

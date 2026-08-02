@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jdl - jdl]]
+- [[jdl - braided twisted object]]
 
 ### Meaning
 **dispute** · Lemma **جادَلُ**
@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:107 · [[004 An-Nisa]]
 
@@ -52,6 +52,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not argue on behalf of those who deceive themselves. Indeed, Allāh loves not one who is a habitually sinful deceiver.
 
 **English (Yusuf Ali):** Contend not on behalf of such as betray their own souls; for Allah loveth not one given to perfidy and crime:
+
+**Urdu (Fatah Muhammad Jalandhari):** اور لوگ اپنے ہم جنسوں کی خیانت کرتے ہیں ان کی طرف سے بحث نہ کرنا کیونکہ خدا خائن اور مرتکب جرائم کو دوست نہیں رکھتا
 
 [Open on Quran.com](https://quran.com/4/107)
 
@@ -69,6 +71,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Ah! These are the sort of men on whose behalf ye may contend in this world; but who will contend with Allah on their behalf on the Day of Judgment, or who will carry their affairs through?
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم لوگ دنیا کی زندگی میں تو ان کی طرف سے بحث کر لیتے ہو قیامت کو ان کی طرف سے خدا کے ساتھ کون جھگڑے گا اور کون ان کا وکیل بنے گا؟
+
 [Open on Quran.com](https://quran.com/4/109)
 
 #### 6:25 · [[006 Al-Anam]]
@@ -84,6 +88,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And among them are those who listen to you, but We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And if they should see every sign, they will not believe in it. Even when they come to you arguing with you, those who disbelieve say, "This is not but legends of the former peoples."
 
 **English (Yusuf Ali):** Of them there are some who (pretend to) listen to thee; but We have thrown veils on their hearts, So they understand it not, and deafness in their ears; if they saw every one of the signs, not they will believe in them; in so much that when they come to thee, they (but) dispute with thee; the Unbelievers say: "These are nothing but tales of the ancients."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں بعض ایسے ہیں کہ تمہاری (باتوں کی) طرف کان رکھتے ہیں۔ اور ہم نے ان کے دلوں پر تو پردے ڈال دیئے ہیں کہ ان کو سمجھ نہ سکیں اور کانوں میں ثقل پیدا کردیا ہے (کہ سن نہ سکیں) اور اگر یہ تمام نشانیاں بھی دیکھ لیں تب بھی ان پر ایمان نہ لائیں۔ یہاں تک کہ جب تمہارے پاس تم سے بحث کرنے کو آتے ہیں تو جو کافر ہیں کہتے ہیں یہ (قرآن) اور کچھ بھی نہیں صرف پہلے لوگوں کی کہانیاں ہیں
 
 [Open on Quran.com](https://quran.com/6/25)
 
@@ -101,6 +107,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Eat not of (meats) on which Allah's name hath not been pronounced: That would be impiety. But the evil ones ever inspire their friends to contend with you if ye were to obey them, ye would indeed be Pagans.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جس چیز پر خدا کا نام نہ لیا جائے اسے مت کھاؤ کہ اس کا کھانا گناہ ہے اور شیطان (لوگ) اپنے رفیقوں کے دلوں میں یہ بات ڈالتے ہیں کہ تم سے جھگڑا کریں اور اگر تم لوگ ان کے کہے پر چلے تو بےشک تم بھی مشرک ہوئے
+
 [Open on Quran.com](https://quran.com/6/121)
 
 #### 7:71 · [[007 Al-Araf]]
@@ -116,6 +124,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Hūd] said, "Already have defilement and anger fallen upon you from your Lord. Do you dispute with me concerning [mere] names you have named them, you and your fathers, for which Allāh has not sent down any authority? Then wait; indeed, I am with you among those who wait."
 
 **English (Yusuf Ali):** He said: "Punishment and wrath have already come upon you from your Lord: dispute ye with me over names which ye have devised - ye and your fathers,- without authority from Allah? then wait: I am amongst you, also waiting."
+
+**Urdu (Fatah Muhammad Jalandhari):** ہود نے کہا تمہارے پروردگار کی طرف سے تم پر عذاب اور غضب کا (نازل ہونا) مقرر ہو چکا ہے۔ کیا تم مجھ سے ایسے ناموں کے بارے میں جھگڑتے ہو جو تم نے اور تمہارے باپ دادا نے (اپنی طرف سے) رکھ لئے ہیں۔ جن کی خدا نے کوئی سند نازل نہیں کی۔ تو تم بھی انتظار کرو میں بھی تمہارے ساتھ انتظار کرتا ہوں
 
 [Open on Quran.com](https://quran.com/7/71)
 
@@ -133,6 +143,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Disputing with thee concerning the truth after it was made manifest, as if they were being driven to death and they (actually) saw it.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ لوگ حق بات میں اس کے ظاہر ہوئے پیچھے تم سے جھگڑنے لگے گویا موت کی طرف دھکیلے جاتے ہیں اور اسے دیکھ رہے ہیں
+
 [Open on Quran.com](https://quran.com/8/6)
 
 #### 11:32 · [[011 Hud]]
@@ -148,6 +160,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "O Noah, you have disputed [i.e., opposed] us and been frequent in dispute of us. So bring us what you threaten us, if you should be of the truthful."
 
 **English (Yusuf Ali):** They said: "O Noah! thou hast disputed with us, and (much) hast thou prolonged the dispute with us: now bring upon us what thou threatenest us with, if thou speakest the truth!?"
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ نوح تم نے ہم سے جھگڑا تو کیا اور جھگڑا بھی بہت کیا۔ لیکن اگر سچے ہو تو جس چیز سے ہمیں ڈراتے ہو وہ ہم پر لا نازل کرو
 
 [Open on Quran.com](https://quran.com/11/32)
 
@@ -165,6 +179,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When fear had passed from (the mind of) Abraham and the glad tidings had reached him, he began to plead with us for Lut's people.
 
+**Urdu (Fatah Muhammad Jalandhari):** جب ابراہیم سے خوف جاتا رہا اور ان کو خوشخبری بھی مل گئی تو قوم لوط کے بارے میں لگے ہم سے بحث کرنے
+
 [Open on Quran.com](https://quran.com/11/74)
 
 #### 13:13 · [[013 Ar-Rad]]
@@ -181,6 +197,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nay, thunder repeateth His praises, and so do the angels, with awe: He flingeth the loud-voiced thunder-bolts, and therewith He striketh whomsoever He will.. yet these (are the men) who (dare to) dispute about Allah, with the strength of His power (supreme)!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور رعد اور فرشتے سب اس کے خوف سے اس کی تسبیح و تحمید کرتے رہتے ہیں اور وہی بجلیاں بھیجتا ہے پھر جس پر چاہتا ہے گرا بھی دیتا ہے اور وہ خدا کے بارے میں جھگڑتے ہیں۔ اور وہ بڑی قوت والا ہے
+
 [Open on Quran.com](https://quran.com/13/13)
 
 #### 16:111 · [[016 An-Nahl]]
@@ -196,6 +214,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** On the Day when every soul will come disputing [i.e., pleading] for itself, and every soul will be fully compensated for what it did, and they will not be wronged [i.e., treated unjustly].
 
 **English (Yusuf Ali):** One Day every soul will come up struggling for itself, and every soul will be recompensed (fully) for all its actions, and none will be unjustly dealt with.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن ہر متنفس اپنی طرف سے جھگڑا کرنے آئے گا۔ اور ہر شخص کو اس کے اعمال کا پورا پورا بدلہ دیا جائے گا۔ اور کسی کا نقصان نہیں کیا جائے گا
 
 [Open on Quran.com](https://quran.com/16/111)
 

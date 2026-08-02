@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 51:19 · [[051 Adh-Dhariyat]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And from their properties was [given] the right of the [needy] petitioner and the deprived.
 
 **English (Yusuf Ali):** And in their wealth and possessions (was remembered) the right of the (needy,) him who asked, and him who (for some reason) was prevented (from asking).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے مال میں مانگنے والے اور نہ مانگنے والے (دونوں) کا حق ہوتا تھا
 
 [Open on Quran.com](https://quran.com/51/19)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Indeed are we shut out (of the fruits of our labour)"
 
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ ہم ہیں ہی بےنصیب
+
 [Open on Quran.com](https://quran.com/56/67)
 
 #### 68:27 · [[068 Al-Qalam]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Indeed we are shut out (of the fruits of our labour)!"
 
+**Urdu (Fatah Muhammad Jalandhari):** نہیں بلکہ ہم (برگشتہ نصیب) بےنصیب ہیں
+
 [Open on Quran.com](https://quran.com/68/27)
 
 #### 70:25 · [[070 Al-Maarij]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For the petitioner and the deprived -
 
 **English (Yusuf Ali):** For the (needy) who asks and him who is prevented (for some reason from asking);
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) مانگنے والے کا۔ اور نہ مانگے والے والا کا
 
 [Open on Quran.com](https://quran.com/70/25)
 

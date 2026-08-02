@@ -14,81 +14,81 @@ Those who drag forth · 46 ayahs
 
 ## Words in this surah (graph)
 
-- [[TgY - has transgressed]] — `طَغَى` · has transgressed
-- [[kbrY - greatest]] — `كُبْرَى` · greatest
 - [[DHY - its brightness]] — `ضُحًى` · its brightness
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[wAd - valley]] — `واد` · valley
-- [[lyl - night]] — `لَيْل` · night
-- [[wAHdp - single]] — `واحِدَة` · single
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[xA$E - humbled]] — `خاشِع` · humbled
-- [[nAdY - he called]] — `نادَى` · he called
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[>mr - command]] — `أَمَرَ` · command
-- [[Avr - but prefer]] — `آثَرَ` · but prefer
-- [[mA' - water]] — `ماء` · water
-- [[>wl - first]] — `أَوَّل` · first
-- [[jA' - came them]] — `جاءَ` · came them
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[rb - lord]] — `رَبّ` · lord
-- [[xAf - fear]] — `خافَ` · fear
-- [[>ElY - highest]] — `أَعْلَى` · highest
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[mtAE - enjoyment]] — `مَتاع` · enjoyment
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[mn*r - warners]] — `مُنذِر` · warners
+- [[kbrY - greatest]] — `كُبْرَى` · greatest
+- [[TgY - has transgressed]] — `طَغَى` · has transgressed
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[HyAp - life]] — `حَياة` · life
 - [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[>rD - earth]] — `أَرْض` · earth
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[dnyA - world]] — `دُنْيا` · world
+- [[nkAl - deterrent punishment]] — `نَكال` · deterrent punishment
+- [[bEd - after]] — `بَعْد` · after
+- [[m>wY - abode]] — `مَأْوَى` · abode
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[nAdY - he called]] — `نادَى` · he called
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[wAHdp - single]] — `واحِدَة` · single
+- [[tbE - follows]] — `تَبِعَ` · follows
+- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
+- [[Ayp - signs]] — `آيَة` · signs
+- [[>dbr - turned back]] — `أَدْبَرَ` · turned back
+- [[mtAE - enjoyment]] — `مَتاع` · enjoyment
+- [[mrsY - its anchorage]] — `مُرْسَى` · its anchorage
+- [[xA$E - humbled]] — `خاشِع` · humbled
 
 ## Roots
 
 - [[$dd - severe]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vr - athr]]
-- [[>wl - like milk oil]]
+- [[>vr - trace]]
+- [[>wl - return revert original]]
 - [[>wy - betake oneself place]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
-- [[DHw - dhw]]
-- [[E$w - eshw]]
+- [[DHw - actions performed during]]
+- [[E$w - eating evening meal]]
 - [[ESy - disobey]]
-- [[EZm - ezhm]]
-- [[Ebr - ebr]]
+- [[EZm - great]]
+- [[Ebr - cross pass something]]
 - [[Elw - superiority]]
-- [[H$r - hshr]]
+- [[H$r - gather collect people]]
 - [[Hdv - accidents]]
 - [[Hyy - life]]
 - [[Tgy - transgression]]
 - [[Twy - fold]]
 - [[allah - God]]
 - [[bEd - become distant]]
-- [[bSr - bsr]]
+- [[bSr - mental perception]]
 - [[bny - sons]]
-- [[brz - baraza]]
-- [[dbr - dbr]]
+- [[brz - go come out]]
+- [[dbr - turn back]]
 - [[dnw - become near]]
-- [[grq - gharaqa]]
+- [[grq - drown sink]]
 - [[hdy - guide]]
-- [[hwy - hwy]]
-- [[jHm - jhm]]
-- [[jbl - jbl]]
-- [[jnn - jann]]
+- [[hwy - desires]]
+- [[jHm - intense heat burning]]
+- [[jbl - large company multitude]]
+- [[jnn - cover]]
 - [[jy> - came them]]
 - [[k*b - denied]]
-- [[kbr - kbr]]
-- [[krr - krr]]
+- [[kbr - greater]]
+- [[krr - return]]
 - [[kwn - is]]
-- [[lbv - lbth]]
-- [[lyl - layl]]
+- [[lbv - tarry]]
+- [[lyl - night]]
 - [[mtE - anything useful advantageous]]
-- [[mwh - mwh]]
-- [[n*r - ndhr]]
+- [[mwh - coat something]]
+- [[n*r - make vow impose]]
 - [[nEm - favor]]
 - [[ndy - he called]]
 - [[nfs - soul]]

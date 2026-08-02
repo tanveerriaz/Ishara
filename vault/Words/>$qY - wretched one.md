@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$qw - shqw]]
+- [[$qw - unblessed]]
 
 ### Meaning
 **wretched one** · Lemma **أَشْقَى**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 87:11 · [[087 Al-Ala]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But the wretched one will avoid it
 
 **English (Yusuf Ali):** But it will be avoided by those most unfortunate ones,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (بےخوف) بدبخت پہلو تہی کرے گا
 
 [Open on Quran.com](https://quran.com/87/11)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold, the most wicked man among them was deputed (for impiety).
 
+**Urdu (Fatah Muhammad Jalandhari):** جب ان میں سے ایک نہایت بدبخت اٹھا
+
 [Open on Quran.com](https://quran.com/91/12)
 
 #### 92:15 · [[092 Al-Layl]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** None will [enter to] burn therein except the most wretched one
 
 **English (Yusuf Ali):** None shall reach it but those most unfortunate ones
+
+**Urdu (Fatah Muhammad Jalandhari):** اس میں وہی داخل ہو گا جو بڑا بدبخت ہے
 
 [Open on Quran.com](https://quran.com/92/15)
 

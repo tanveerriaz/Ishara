@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rbE - rbe]]
+- [[rbE - concept]]
 
 ### Meaning
 **four** · Lemma **أَرْبَعَة**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:226 · [[002 Al-Baqarah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For those who swear not to have sexual relations with their wives is a waiting time of four months, but if they return [to normal relations] - then indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** For those who take an oath for abstention from their wives, a waiting for four months is ordained; if then they return, Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنی عورتوں کے پاس جانے سے قسم کھالیں ان کو چار مہینے تک انتظار کرنا چاہیئے۔ اگر (اس عرصے میں قسم سے) رجوع کرلیں تو خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/2/226)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If any of you die and leave widows behind, they shall wait concerning themselves four months and ten days: When they have fulfilled their term, there is no blame on you if they dispose of themselves in a just and reasonable manner. And Allah is well acquainted with what ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم میں سے مرجائیں اور عورتیں چھوڑ جائیں تو عورتیں چار مہینے دس دن اپنے آپ کو روکے رہیں۔ اور جب (یہ) عدت پوری کرچکیں اور اپنے حق میں پسندیدہ کام (یعنی نکاح) کرلیں تو ان پر کچھ گناہ نہیں۔ اور خدا تمہارے سب کاموں سے واقف ہے
+
 [Open on Quran.com](https://quran.com/2/234)
 
 #### 2:260 · [[002 Al-Baqarah]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] when Abraham said, "My Lord, show me how You give life to the dead." [Allāh] said, "Have you not believed?" He said, "Yes, but [I ask] only that my heart may be satisfied." [Allāh] said, "Take four birds and commit them to yourself. Then [after slaughtering them] put on each hill a portion of them; then call them - they will come [flying] to you in haste. And know that Allāh is Exalted in Might and Wise."
 
 **English (Yusuf Ali):** When Abraham said: "Show me, Lord, how You will raise the dead, " He replied: "Have you no faith?" He said "Yes, but just to reassure my heart." Allah said, "Take four birds, draw them to you, and cut their bodies to pieces. Scatter them over the mountain-tops, then call them back. They will come swiftly to you. Know that Allah is Mighty, Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے (خدا سے) کہا کہ اے پروردگار مجھے دکھا کہ تو مردوں کو کیونکر زندہ کرے گا۔ خدا نے فرمایا کیا تم نے (اس بات کو) باور نہیں کیا۔ انہوں نے کہا کیوں نہیں۔ لیکن (میں دیکھنا) اس لئے (چاہتا ہوں) کہ میرا دل اطمینان کامل حاصل کرلے۔ خدا نے فرمایا کہ چار جانور پکڑوا کر اپنے پاس منگا لو (اور ٹکڑے ٹکڑے کرادو) پھر ان کا ایک ٹکڑا ہر ایک پہاڑ پر رکھوا دو پھر ان کو بلاؤ تو وہ تمہارے پاس دوڑتے چلے آئیں گے۔ اور جان رکھو کہ خدا غالب اور صاحب حکمت ہے۔
 
 [Open on Quran.com](https://quran.com/2/260)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If any of your women are guilty of lewdness, Take the evidence of four (Reliable) witnesses from amongst you against them; and if they testify, confine them to houses until death do claim them, or Allah ordain for them some (other) way.
 
+**Urdu (Fatah Muhammad Jalandhari):** مسلمانو تمہاری عورتوں میں جو بدکاری کا ارتکاب کر بیٹھیں ان پر اپنے لوگوں میں سے چار شخصوں کی شہادت لو۔ اگر وہ (ان کی بدکاری کی)گواہی دیں تو ان عورتوں کو گھروں میں بند رکھو یہاں تک کہ موت ان کا کام تمام کردے یا خدا ان کے لئے کوئی اور سبیل (پیدا) کرے
+
 [Open on Quran.com](https://quran.com/4/15)
 
 #### 9:2 · [[009 At-Tawbah]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So travel freely, [O disbelievers], throughout the land [during] four months but know that you cannot cause failure to Allāh and that Allāh will disgrace the disbelievers.
 
 **English (Yusuf Ali):** Go ye, then, for four months, backwards and forwards, (as ye will), throughout the land, but know ye that ye cannot frustrate Allah (by your falsehood) but that Allah will cover with shame those who reject Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو (مشرکو تم) زمین میں چار مہینے چل پھر لو اور جان رکھو کہ تم خدا کو عاجز نہ کرسکو گے۔ اور یہ بھی کہ خدا کافروں کو رسوا کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/9/2)
 
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The number of months in the sight of Allah is twelve (in a year)- so ordained by Him the day He created the heavens and the earth; of them four are sacred: that is the straight usage. So wrong not yourselves therein, and fight the Pagans all together as they fight you all together. But know that Allah is with those who restrain themselves.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا کے نزدیک مہینے گنتی میں (بارہ ہیں یعنی) اس روز (سے) کہ اس نے آسمانوں اور زمین کو پیدا کیا۔ کتاب خدا میں (برس کے) بارہ مہینے (لکھے ہوئے) ہیں۔ ان میں سے چار مہینے ادب کے ہیں۔ یہی دین (کا) سیدھا راستہ ہے۔ تو ان (مہینوں) میں (قتال ناحق سے) اپنے آپ پر ظلم نہ کرنا۔ اور تم سب کے سب مشرکوں سے لڑو جیسے وہ سب کے سب تم سے لڑتے ہیں۔ اور جان رکھو کہ خدا پرہیز گاروں کے ساتھ ہے
+
 [Open on Quran.com](https://quran.com/9/36)
 
 #### 24:4 · [[024 An-Nur]]
@@ -139,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who accuse chaste women and then do not produce four witnesses - lash them with eighty lashes and do not accept from them testimony ever after. And those are the defiantly disobedient,
 
 **English (Yusuf Ali):** And those who launch a charge against chaste women, and produce not four witnesses (to support their allegations),- flog them with eighty stripes; and reject their evidence ever after: for such men are wicked transgressors;-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ پرہیزگار عورتوں کو بدکاری کا عیب لگائیں اور اس پر چار گواہ نہ لائیں تو ان کو اسی درے مارو اور کبھی ان کی شہادت قبول نہ کرو۔ اور یہی بدکردار ہیں
 
 [Open on Quran.com](https://quran.com/24/4)
 
@@ -156,6 +170,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Why did they not bring four witnesses to prove it? When they have not brought the witnesses, such men, in the sight of Allah, (stand forth) themselves as liars!
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ (افتراء پرداز) اپنی بات (کی تصدیق) کے (لئے) چار گواہ کیوں نہ لائے۔ تو جب یہ گواہ نہیں لاسکے تو خدا کے نزدیک یہی جھوٹے ہیں
+
 [Open on Quran.com](https://quran.com/24/13)
 
 #### 41:10 · [[041 Fussilat]]
@@ -171,6 +187,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He placed on it [i.e., the earth] firmly set mountains over its surface, and He blessed it and determined therein its [creatures'] sustenance in four days without distinction - for [the information of] those who ask.
 
 **English (Yusuf Ali):** He set on the (earth), mountains standing firm, high above it, and bestowed blessings on the earth, and measure therein all things to give them nourishment in due proportion, in four Days, in accordance with (the needs of) those who seek (Sustenance).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے زمین میں اس کے اوپر پہاڑ بنائے اور زمین میں برکت رکھی اور اس میں سب سامان معیشت مقرر کیا (سب) چار دن میں۔ (اور تمام) طلبگاروں کے لئے یکساں
 
 [Open on Quran.com](https://quran.com/41/10)
 

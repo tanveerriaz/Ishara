@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qsT - qst]]
+- [[qsT - justice]]
 
 ### Meaning
 **act justly** · Lemma **مُقْسِط**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 5:42 · [[005 Al-Maidah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [They are] avid listeners to falsehood, devourers of [what is] unlawful. So if they come to you, [O Muḥammad], judge between them or turn away from them. And if you turn away from them - never will they harm you at all. And if you judge, judge between them with justice. Indeed, Allāh loves those who act justly.
 
 **English (Yusuf Ali):** (They are fond of) listening to falsehood, of devouring anything forbidden. If they do come to thee, either judge between them, or decline to interfere. If thou decline, they cannot hurt thee in the least. If thou judge, judge in equity between them. For Allah loveth those who judge in equity.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ) جھوٹی باتیں بنانے کے جاسوسی کرنے والے اور (رشوت کا) حرام مال کھانے والے ہیں اگر یہ تمہارے پاس (کوئی مقدمہ فیصل کرانے کو) آئیں تو تم ان میں فیصلہ کر دینا یا اعراض کرنا اور اگر ان سے اعراض کرو گے تو وہ تمہارا کچھ بھی نہیں بگاڑ سکیں گے اور اگر فیصلہ کرنا چاہو تو انصاف کا فیصلہ کرنا کہ خدا انصاف کرنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/5/42)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If two parties among the Believers fall into a quarrel, make ye peace between them: but if one of them transgresses beyond bounds against the other, then fight ye (all) against the one that transgresses until it complies with the command of Allah; but if it complies, then make peace between them with justice, and be fair: for Allah loves those who are fair (and just).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر مومنوں میں سے کوئی دو فریق آپس میں لڑ پڑیں تو ان میں صلح کرا دو۔ اور اگر ایک فریق دوسرے پر زیادتی کرے تو زیادتی کرنے والے سے لڑو یہاں تک کہ وہ خدا کے حکم کی طرف رجوع لائے۔ پس جب وہ رجوع لائے تو وہ دونوں فریق میں مساوات کے ساتھ صلح کرا دو اور انصاف سے کام لو۔ کہ خدا انصاف کرنے والوں کو پسند کرتا ہے
+
 [Open on Quran.com](https://quran.com/49/9)
 
 #### 60:8 · [[060 Al-Mumtahanah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh does not forbid you from those who do not fight you because of religion and do not expel you from your homes - from being righteous toward them and acting justly toward them. Indeed, Allāh loves those who act justly.
 
 **English (Yusuf Ali):** Allah forbids you not, with regard to those who fight you not for (your) Faith nor drive you out of your homes, from dealing kindly and justly with them: for Allah loveth those who are just.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے تم سے دین کے بارے میں جنگ نہیں کی اور نہ تم کو تمہارے گھروں سے نکالا ان کے ساتھ بھلائی اور انصاف کا سلوک کرنے سے خدا تم کو منع نہیں کرتا۔ خدا تو انصاف کرنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/60/8)
 

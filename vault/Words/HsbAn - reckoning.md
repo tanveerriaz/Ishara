@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:96 · [[006 Al-Anam]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [He is] the cleaver of daybreak and has made the night for rest and the sun and moon for calculation. That is the determination of the Exalted in Might, the Knowing.
 
 **English (Yusuf Ali):** He it is that cleaveth the day-break (from the dark): He makes the night for rest and tranquillity, and the sun and moon for the reckoning (of time): Such is the judgment and ordering of (Him), the Exalted in Power, the Omniscient.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی (رات کے اندھیرے سے) صبح کی روشنی پھاڑ نکالتا ہے اور اسی نے رات کو (موجب) آرام (ٹھہرایا) اور سورج اور چاند کو (ذرائع) شمار بنایا ہے۔ یہ خدا کے (مقرر کئے ہوئے) اندازے ہیں جو غالب (اور) علم والا ہے
 
 [Open on Quran.com](https://quran.com/6/96)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "It may be that my Lord will give me something better than thy garden, and that He will send on thy garden thunderbolts (by way of reckoning) from heaven, making it (but) slippery sand!-
 
+**Urdu (Fatah Muhammad Jalandhari):** تو عجب نہیں کہ میرا پروردگار مجھے تمہارے باغ سے بہتر عطا فرمائے اور اس (تمہارے باغ) پر آسمان سے آفت بھیج دے تو وہ صاف میدان ہوجائے
+
 [Open on Quran.com](https://quran.com/18/40)
 
 #### 55:5 · [[055 Ar-Rahman]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The sun and the moon [move] by precise calculation,
 
 **English (Yusuf Ali):** The sun and the moon follow courses (exactly) computed;
+
+**Urdu (Fatah Muhammad Jalandhari):** سورج اور چاند ایک حساب مقرر سے چل رہے ہیں
 
 [Open on Quran.com](https://quran.com/55/5)
 

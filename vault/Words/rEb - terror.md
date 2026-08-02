@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rEb - reb]]
+- [[rEb - fear]]
 
 ### Meaning
 **terror** · Lemma **رُعْب**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:151 · [[003 Ali Imran]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** We will cast terror into the hearts of those who disbelieve for what they have associated with Allāh of which He had not sent down [any] authority. And their refuge will be the Fire, and wretched is the residence of the wrongdoers.
 
 **English (Yusuf Ali):** Soon shall We cast terror into the hearts of the Unbelievers, for that they joined companions with Allah, for which He had sent no authority: their abode will be the Fire: And evil is the home of the wrong-doers!
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم عنقریب کافروں کے دلوں میں تمہارا رعب بٹھا دیں گے کیونکہ یہ خدا کے ساتھ شرک کرتے ہیں جس کی اس نے کوئی بھی دلیل نازل نہیں کی اور ان کا ٹھکانہ دوزخ ہے وہ ظالموں کا بہت بُرا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/3/151)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Remember thy Lord inspired the angels (with the message): "I am with you: give firmness to the Believers: I will instil terror into the hearts of the Unbelievers: smite ye above their necks and smite all their finger-tips off them."
 
+**Urdu (Fatah Muhammad Jalandhari):** جب تمہارا پروردگار فرشتوں کو ارشاد فرماتا تھا کہ میں تمہارے ساتھ ہوں تم مومنوں کو تسلی دو کہ ثابت قدم رہیں۔ میں ابھی ابھی کافروں کے دلوں میں رعب وہیبت ڈالے دیتا ہوں تو ان کے سر مار (کر) اڑا دو اور ان کا پور پور مار (کر توڑ) دو
+
 [Open on Quran.com](https://quran.com/8/12)
 
 #### 18:18 · [[018 Al-Kahf]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And you would think them awake, while they were asleep. And We turned them to the right and to the left, while their dog stretched his forelegs at the entrance. If you had looked at them, you would have turned from them in flight and been filled by them with terror.
 
 **English (Yusuf Ali):** Thou wouldst have deemed them awake, whilst they were asleep, and We turned them on their right and on their left sides: their dog stretching forth his two fore-legs on the threshold: if thou hadst come up on to them, thou wouldst have certainly turned back from them in flight, and wouldst certainly have been filled with terror of them.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم ان کو خیال کرو کہ جاگ رہے ہیں حالانکہ وہ سوتے ہیں۔ اور ہم ان کو دائیں اور بائیں کروٹ بدلاتے تھے۔ اور ان کا کتا چوکھٹ پر دونوں ہاتھ پھیلائے ہوئے تھا۔ اگر تم ان کو جھانک کر دیکھتے تو پیٹھ پھیر کر بھاگ جاتے اور ان سے دہشت میں آجاتے
 
 [Open on Quran.com](https://quran.com/18/18)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And those of the People of the Book who aided them - Allah did take them down from their strongholds and cast terror into their hearts. (So that) some ye slew, and some ye made prisoners.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اہل کتاب میں سے جنہوں نے اُن کی مدد کی تھی اُن کو اُن کے قلعوں سے اُتار دیا اور اُن کے دلوں میں دہشت ڈال دی۔ تو کتنوں کو تم قتل کر دیتے تھے اور کتنوں کو قید کرلیتے تھے
+
 [Open on Quran.com](https://quran.com/33/26)
 
 #### 59:2 · [[059 Al-Hashr]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is He who expelled the ones who disbelieved among the People of the Scripture from their homes at the first gathering. You did not think they would leave, and they thought that their fortresses would protect them from Allāh; but [the decree of] Allāh came upon them from where they had not expected, and He cast terror into their hearts [so] they destroyed their houses by their [own] hands and the hands of the believers. So take warning, O people of vision.
 
 **English (Yusuf Ali):** It is He Who got out the Unbelievers among the People of the Book from their homes at the first gathering (of the forces). Little did ye think that they would get out: And they thought that their fortresses would defend them from Allah! But the (Wrath of) Allah came to them from quarters from which they little expected (it), and cast terror into their hearts, so that they destroyed their dwellings by their own hands and the hands of the Believers, take warning, then, O ye with eyes (to see)!
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے کفار اہل کتاب کو حشر اول کے وقت ان کے گھروں سے نکال دیا۔ تمہارے خیال میں بھی نہ تھا کہ وہ نکل جائیں گے اور وہ لوگ یہ سمجھے ہوئے تھے کہ ان کے قلعے ان کو خدا (کے عذاب) سے بچا لیں گے۔ مگر خدا نے ان کو وہاں سے آ لیا جہاں سے ان کو گمان بھی نہ تھا۔ اور ان کے دلوں میں دہشت ڈال دی کہ اپنے گھروں کو خود اپنے ہاتھوں اور مومنوں کے ہاتھوں سے اُجاڑنے لگے تو اے (بصیرت کی) آنکھیں رکھنے والو عبرت پکڑو
 
 [Open on Quran.com](https://quran.com/59/2)
 

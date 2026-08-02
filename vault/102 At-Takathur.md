@@ -16,26 +16,26 @@ The Rivalry in world increase · 8 ayahs
 
 - [[yqyn - certainty]] — `يَقِين` · certainty
 - [[ywm - day]] — `يَوْم` · day
+- [[>lhY - diverted them]] — `أَلْهَى` · diverted them
+- [[nEym - delight]] — `نَعِيم` · delight
+- [[Eyn - eyes]] — `عَيْن` · eyes
 - [[r>Y - you see]] — `رَأَى` · you see
 - [[Elm - know]] — `عَلِمَ` · know
-- [[Eyn - eyes]] — `عَيْن` · eyes
-- [[nEym - delight]] — `نَعِيم` · delight
-- [[s>l - ask]] — `سَأَلَ` · ask
 - [[jHym - hellfire]] — `جَحِيم` · hellfire
-- [[>lhY - diverted them]] — `أَلْهَى` · diverted them
+- [[s>l - ask]] — `سَأَلَ` · ask
 
 ## Roots
 
 - [[Elm - knowledge]]
-- [[Eyn - eyn]]
-- [[jHm - jhm]]
-- [[kvr - kthr]]
+- [[Eyn - eyes]]
+- [[jHm - intense heat burning]]
+- [[kvr - them]]
 - [[lhw - uvula]]
 - [[nEm - favor]]
 - [[qbr - type small bird]]
 - [[r>y - see eye perceive]]
 - [[s>l - ask]]
-- [[yqn - yqn]]
+- [[yqn - know something certainty]]
 - [[ywm - day]]
 - [[zwr - honor visitor]]
 

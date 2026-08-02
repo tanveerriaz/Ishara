@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:36 · [[002 Al-Baqarah]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But Satan caused them to slip out of it and removed them from that [condition] in which they had been. And We said, "Go down, [all of you], as enemies to one another, and you will have upon the earth a place of settlement and provision for a time."
 
 **English (Yusuf Ali):** Then did Satan make them slip from the (garden), and get them out of the state (of felicity) in which they had been. We said: "Get ye down, all (ye people), with enmity between yourselves. On earth will be your dwelling-place and your means of livelihood - for a time."
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر شیطان نے دونوں کو وہاں سے پھسلا دیا اور جس (عیش ونشاط) میں تھے، اس سے ان کو نکلوا دیا۔ تب ہم نے حکم دیا کہ (بہشت بریں سے) چلے جاؤ۔ تم ایک دوسرے کے دشمن ہو، اور تمہارے لیے زمین میں ایک وقت تک ٹھکانا اور معاش (مقرر کر دیا گیا) ہے
 
 [Open on Quran.com](https://quran.com/2/36)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For every message is a limit of time, and soon shall ye know it."
 
+**Urdu (Fatah Muhammad Jalandhari):** ہر خبر کے لئے ایک وقت مقرر ہے اور تم کو عنقریب معلوم ہوجائے گا
+
 [Open on Quran.com](https://quran.com/6/67)
 
 #### 6:98 · [[006 Al-Anam]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And it is He who produced you from one soul and [gave you] a place of dwelling and of storage. We have detailed the signs for a people who understand.
 
 **English (Yusuf Ali):** It is He Who hath produced you from a single person: here is a place of sojourn and a place of departure: We detail Our signs for people who understand.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے تم کو ایک شخص سے پیدا کیا۔ پھر (تمہارے لئے) ایک ٹھہرنے کی جگہ ہے اور ایک سپرد ہونے کی سمجھنے والوں کے لئے ہم نے (اپنی) آیتیں کھول کھول کر بیان کردی ہیں
 
 [Open on Quran.com](https://quran.com/6/98)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Allah) said: "Get ye down. With enmity between yourselves. On earth will be your dwelling-place and your means of livelihood,- for a time."
 
+**Urdu (Fatah Muhammad Jalandhari):** (خدا نے) فرمایا (تم سب بہشت سے) اتر جاؤ (اب سے) تم ایک دوسرے کے دشمن ہو اور تمہارے لیے ایک وقت (خاص) تک زمین پر ٹھکانہ اور (زندگی کا) سامان (کر دیا گیا) ہے
+
 [Open on Quran.com](https://quran.com/7/24)
 
 #### 11:6 · [[011 Hud]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And there is no creature on earth but that upon Allāh is its provision, and He knows its place of dwelling and place of storage. All is in a clear register.
 
 **English (Yusuf Ali):** There is no moving creature on earth but its sustenance dependeth on Allah: He knoweth the time and place of its definite abode and its temporary deposit: All is in a clear Record.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور زمین پر کوئی چلنے پھرنے والا نہیں مگر اس کا رزق خدا کے ذمے ہے وہ جہاں رہتا ہے، اسے بھی جانتا ہے اور جہاں سونپا جاتا ہے اسے بھی۔ یہ سب کچھ کتاب روشن میں (لکھا ہوا) ہے
 
 [Open on Quran.com](https://quran.com/11/6)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Companions of the Garden will be well, that Day, in their abode, and have the fairest of places for repose.
 
+**Urdu (Fatah Muhammad Jalandhari):** اس دن اہل جنت کا ٹھکانا بھی بہتر ہوگا اور مقام استراحت بھی ہوگا
+
 [Open on Quran.com](https://quran.com/25/24)
 
 #### 25:66 · [[025 Al-Furqan]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, it is evil as a settlement and residence."
 
 **English (Yusuf Ali):** "Evil indeed is it as an abode, and as a place to rest in";
+
+**Urdu (Fatah Muhammad Jalandhari):** اور دوزخ ٹھیرنے اور رہنے کی بہت بری جگہ ہے
 
 [Open on Quran.com](https://quran.com/25/66)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Dwelling therein;- how beautiful an abode and place of rest!
 
+**Urdu (Fatah Muhammad Jalandhari):** اس میں وہ ہمیشہ رہیں گے۔ اور وہ ٹھیرنے اور رہنے کی بہت ہی عمدہ جگہ ہے
+
 [Open on Quran.com](https://quran.com/25/76)
 
 #### 27:40 · [[027 An-Naml]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Said one who had knowledge of the Book: "I will bring it to thee within the twinkling of an eye!" Then when (Solomon) saw it placed firmly before him, he said: "This is by the Grace of my Lord!- to test me whether I am grateful or ungrateful! and if any is grateful, truly his gratitude is (a gain) for his own soul; but if any is ungrateful, truly my Lord is Free of all Needs, Supreme in Honour!"
 
+**Urdu (Fatah Muhammad Jalandhari):** ایک شخص جس کو کتاب الہیٰ کا علم تھا کہنے لگا کہ میں آپ کی آنکھ کے جھپکنے سے پہلے پہلے اسے آپ کے پاس حاضر کئے دیتا ہوں۔ جب سلیمان نے تخت کو اپنے پاس رکھا ہوا دیکھا تو کہا کہ یہ میرے پروردگار کا فضل ہے تاکہ مجھے آزمائے کہ میں شکر کرتا ہوں یا کفران نعمت کرتا ہوں اور جو شکر کرتا ہے تو اپنے ہی فائدے کے لئے شکر کرتا ہے اور جو ناشکری کرتا ہے تو میرا پروردگار بےپروا (اور) کرم کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/27/40)
 
 #### 36:38 · [[036 Ya-Sin]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the sun runs [on course] toward its stopping point. That is the determination of the Exalted in Might, the Knowing.
 
 **English (Yusuf Ali):** And the sun runs his course for a period determined for him: that is the decree of (Him), the Exalted in Might, the All-Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور سورج اپنے مقرر رستے پر چلتا رہتا ہے۔ یہ (خدائے) غالب اور دانا کا (مقرر کیا ہوا) اندازہ ہے
 
 [Open on Quran.com](https://quran.com/36/38)
 

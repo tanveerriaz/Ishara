@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:117 · [[009 At-Tawbah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh has already forgiven the Prophet and the Muhājireen and the Anṣār who followed him in the hour of difficulty after the hearts of a party of them had almost inclined [to doubt], and then He forgave them. Indeed, He was to them Kind and Merciful.
 
 **English (Yusuf Ali):** Allah turned with favour to the Prophet, the Muhajirs, and the Ansar,- who followed him in a time of distress, after that the hearts of a part of them had nearly swerved (from duty); but He turned to them (also): for He is unto them Most Kind, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** بےشک خدا نے پیغمبر پر مہربانی کی اور مہاجرین اور انصار پر جو باوجود اس کے کہ ان میں سے بعضوں کے دل جلد پھر جانے کو تھے۔ مشکل کی گھڑی میں پیغمبر کے ساتھ رہے۔ پھر خدا نے ان پر مہربانی فرمائی۔ بےشک وہ ان پر نہایت شفقت کرنے والا (اور) مہربان ہے
 
 [Open on Quran.com](https://quran.com/9/117)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! they came on you from above you and from below you, and behold, the eyes became dim and the hearts gaped up to the throats, and ye imagined various (vain) thoughts about Allah!
 
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ تمہارے اُوپر اور نیچے کی طرف سے تم پر چڑھ آئے اور جب آنکھیں پھر گئیں اور دل (مارے دہشت کے) گلوں تک پہنچ گئے اور تم خدا کی نسبت طرح طرح کے گمان کرنے لگے
+
 [Open on Quran.com](https://quran.com/33/10)
 
 #### 34:12 · [[034 Saba]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And to Solomon [We subjected] the wind - its morning [journey was that of] a month - and its afternoon [journey was that of] a month, and We made flow for him a spring of [liquid] copper. And among the jinn were those who worked for him by the permission of his Lord. And whoever deviated among them from Our command - We will make him taste of the punishment of the Blaze.
 
 **English (Yusuf Ali):** And to Solomon (We made) the Wind (obedient): Its early morning (stride) was a month's (journey), and its evening (stride) was a month's (journey); and We made a Font of molten brass to flow for him; and there were Jinns that worked in front of him, by the leave of his Lord, and if any of them turned aside from our command, We made him taste of the Penalty of the Blazing Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہوا کو (ہم نے) سلیمان کا تابع کردیا تھا اس کی صبح کی منزل ایک مہینے کی راہ ہوتی اور شام کی منزل بھی مہینے بھر کی ہوتی۔ اور ان کے لئے ہم نے تانبے کا چشمہ بہا دیا تھا اور جِنّوں میں سے ایسے تھے جو ان کے پروردگار کے حکم سے ان کے آگے کام کرتے تھے۔ اور جو کوئی ان میں سے ہمارے حکم سے پھرے گا اس کو ہم (جہنم کی) آگ کا مزہ چکھائیں گے
 
 [Open on Quran.com](https://quran.com/34/12)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Did we treat them (as such) in ridicule, or have (our) eyes failed to perceive them?"
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا ہم نے ان سے ٹھٹھا کیا ہے یا (ہماری) آنکھیں ان (کی طرف) سے پھر گئی ہیں؟
+
 [Open on Quran.com](https://quran.com/38/63)
 
 #### 53:17 · [[053 An-Najm]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (His) sight never swerved, nor did it go wrong!
 
+**Urdu (Fatah Muhammad Jalandhari):** ان کی آنکھ نہ تو اور طرف مائل ہوئی اور نہ (حد سے) آگے بڑھی
+
 [Open on Quran.com](https://quran.com/53/17)
 
 #### 61:5 · [[061 As-Saf]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when Moses said to his people, "O my people, why do you harm me while you certainly know that I am the messenger of Allāh to you?" And when they deviated, Allāh caused their hearts to deviate. And Allāh does not guide the defiantly disobedient people.
 
 **English (Yusuf Ali):** And remember, Moses said to his people: "O my people! why do ye vex and insult me, though ye know that I am the messenger of Allah (sent) to you?" Then when they went wrong, Allah let their hearts go wrong. For Allah guides not those who are rebellious transgressors.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ وقت یاد کرنے کے لائق ہے جب موسیٰ نے اپنی قوم سے کہا کہ اے قوم! تم مجھے کیوں ایذا دیتے ہو حالانکہ تم جانتے ہو کہ میں تمہارے پاس خدا کا بھیجا ہوا آیا ہوں۔ تو جب ان لوگوں نے کج روی کی خدا نے بھی ان کے دل ٹیڑھے کردیئے۔ اور خدا نافرمانوں کو ہدایت نہیں دیتا
 
 [Open on Quran.com](https://quran.com/61/5)
 

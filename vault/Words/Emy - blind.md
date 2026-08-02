@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 5:71 · [[005 Al-Maidah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they thought there would be no [resulting] punishment, so they became blind and deaf. Then Allāh turned to them in forgiveness; then [again] many of them became blind and deaf. And Allāh is Seeing of what they do.
 
 **English (Yusuf Ali):** They thought there would be no trial (or punishment); so they became blind and deaf; yet Allah (in mercy) turned to them; yet again many of them became blind and deaf. But Allah sees well all that they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خیال کرتے تھے کہ (اس سے ان پر) کوئی آفت نہیں آنے کی تو وہ اندھے اور بہرے ہو گئے پھر خدا نے ان پر مہربانی فرمائی (لیکن) پھر ان میں سے بہت سے اندھے اور بہرے ہو گئے اور خدا ان کے سب کاموں کو دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/5/71)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Now have come to you, from your Lord, proofs (to open your eyes): if any will see, it will be for (the good of) his own soul; if any will be blind, it will be to his own (harm): I am not (here) to watch over your doings."
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ! ان سے کہہ دو کہ) تمہارے (پاس) پروردگار کی طرف سے (روشن) دلیلیں پہنچ چکی ہیں تو جس نے (ان کو آنکھ کھول کر) دیکھا اس نے اپنا بھلا کیا اور جو اندھا بنا رہا اس نے اپنے حق میں برا کیا۔ اور میں تمہارا نگہبان نہیں ہوں
+
 [Open on Quran.com](https://quran.com/6/104)
 
 #### 7:64 · [[007 Al-Araf]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But they denied him, so We saved him and those who were with him in the ship. And We drowned those who denied Our signs. Indeed, they were a blind people.
 
 **English (Yusuf Ali):** But they rejected him, and We delivered him, and those with him, in the Ark: but We overwhelmed in the flood those who rejected Our signs. They were indeed a blind people!
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر ان لوگوں نے ان کی تکذیب کی۔ تو ہم نے نوح کو اور جو ان کے ساتھ کشتی میں سوار تھے ان کو تو بچا لیا اور جن لوگوں نے ہماری آیتوں کو جھٹلایا تھا انہیں غرق کر دیا۔ کچھ شک نہیں کہ وہ اندھے لوگ تھے
 
 [Open on Quran.com](https://quran.com/7/64)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Do they not travel through the land, so that their hearts (and minds) may thus learn wisdom and their ears may thus learn to hear? Truly it is not their eyes that are blind, but their hearts which are in their breasts.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان لوگوں نے ملک میں سیر نہیں کی تاکہ ان کے دل (ایسے) ہوتے کہ ان سے سمجھ سکتے۔ اور کان (ایسے) ہوتے کہ ان سے سن سکتے۔ بات یہ ہے کہ آنکھیں اندھی نہیں ہوتیں بلکہ دل جو سینوں میں ہیں (وہ) اندھے ہوتے ہیں
+
 [Open on Quran.com](https://quran.com/22/46)
 
 #### 27:66 · [[027 An-Naml]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Rather, their knowledge is arrested concerning the Hereafter. Rather, they are in doubt about it. Rather, they are, concerning it, blind.
 
 **English (Yusuf Ali):** Still less can their knowledge comprehend the Hereafter: Nay, they are in doubt and uncertainty thereanent; nay, they are blind thereunto!
+
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ آخرت (کے بارے) میں ان کا علم منتہی ہوچکا ہے بلکہ وہ اس سے شک میں ہیں۔ بلکہ اس سے اندھے ہو رہے ہیں
 
 [Open on Quran.com](https://quran.com/27/66)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then the (whole) story that Day will seem obscure to them (like light to the blind) and they will not be able (even) to question each other.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو وہ اس روز خبروں سے اندھے ہو جائیں گے، اور آپس میں کچھ بھی پوچھ نہ سکیں گے
+
 [Open on Quran.com](https://quran.com/28/66)
 
 #### 47:23 · [[047 Muhammad]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those [who do so] are the ones that Allāh has cursed, so He deafened them and blinded their vision.
 
 **English (Yusuf Ali):** Such are the men whom Allah has cursed for He has made them deaf and blinded their sight.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن پر خدا نے لعنت کی ہے اور ان (کے کانوں) کو بہرا اور (ان کی) آنکھوں کو اندھا کردیا ہے
 
 [Open on Quran.com](https://quran.com/47/23)
 

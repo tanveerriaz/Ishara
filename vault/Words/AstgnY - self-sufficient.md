@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 64:6 · [[064 At-Taghabun]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That is because their messengers used to come to them with clear evidences, but they said, "Shall human beings guide us?" and disbelieved and turned away. And Allāh dispensed [with them]; and Allāh is Free of need and Praiseworthy.
 
 **English (Yusuf Ali):** That was because there came to them messengers with Clear Signs, but they said: "Shall (mere) human beings direct us?" So they rejected (the Message) and turned away. But Allah can do without (them): and Allah is free of all needs, worthy of all praise.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس لئے کہ ان کے پاس پیغمبر کھلی نشانیاں لے کر آئے تو یہ کہتے کہ کیا آدمی ہمارے ہادی بنتے ہیں؟ تو انہوں نے (ان کو) نہ مانا اور منہ پھیر لیا اور خدا نے بھی بےپروائی کی۔ اور خدا بےپروا (اور) سزاوار حمد (وثنا) ہے
 
 [Open on Quran.com](https://quran.com/64/6)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** As to one who regards Himself as self-sufficient,
 
+**Urdu (Fatah Muhammad Jalandhari):** جو پروا نہیں کرتا
+
 [Open on Quran.com](https://quran.com/80/5)
 
 #### 92:8 · [[092 Al-Layl]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But he who is a greedy miser and thinks himself self-sufficient,
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جس نے بخل کیا اور بےپروا بنا رہا
+
 [Open on Quran.com](https://quran.com/92/8)
 
 #### 96:7 · [[096 Al-Alaq]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Because he sees himself self-sufficient.
 
 **English (Yusuf Ali):** In that he looketh upon himself as self-sufficient.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب کہ اپنے تیئں غنی دیکھتا ہے
 
 [Open on Quran.com](https://quran.com/96/7)
 

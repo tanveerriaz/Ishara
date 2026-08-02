@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bTl - btl]]
+- [[bTl - something becoming false]]
 
 ### Meaning
 **render vain** · Lemma **يُبْطِلَ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:264 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not invalidate your charities with reminders [of it] or injury as does one who spends his wealth [only] to be seen by the people and does not believe in Allāh and the Last Day. His example is like that of a [large] smooth stone upon which is dust and is hit by a downpour that leaves it bare. They are unable [to keep] anything of what they have earned. And Allāh does not guide the disbelieving people.
 
 **English (Yusuf Ali):** O ye who believe! cancel not your charity by reminders of your generosity or by injury,- like those who spend their substance to be seen of men, but believe neither in Allah nor in the Last Day. They are in parable like a hard, barren rock, on which is a little soil: on it falls heavy rain, which leaves it (Just) a bare stone. They will be able to do nothing with aught they have earned. And Allah guideth not those who reject faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اپنے صدقات (وخیرات)احسان رکھنے اور ایذا دینے سے اس شخص کی طرح برباد نہ کردینا۔ جو لوگوں کو دکھاوے کے لئے مال خرچ کرتا ہے اور خدا اور روز آخرت پر ایمان نہیں رکھتا۔ تو اس (کے مال) کی مثال اس چٹان کی سی ہے جس پر تھوڑی سی مٹی پڑی ہو اور اس پر زور کا مینہ برس کر اسے صاف کر ڈالے۔ (اسی طرح) یہ (ریاکار) لوگ اپنے اعمال کا کچھ بھی صلہ حاصل نہیں کرسکیں گے۔ اور خدا ایسے ناشکروں کو ہدایت نہیں دیا کرتا
 
 [Open on Quran.com](https://quran.com/2/264)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** That He might justify Truth and prove Falsehood false, distasteful though it be to those in guilt.
 
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ سچ کو سچ اور جھوٹ کو جھوٹ کردے۔ گو مشرک ناخوش ہی ہوں
+
 [Open on Quran.com](https://quran.com/8/8)
 
 #### 10:81 · [[010 Yunus]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When they had had their throw, Moses said: "What ye have brought is sorcery: Allah will surely make it of no effect: for Allah prospereth not the work of those who make mischief.
 
+**Urdu (Fatah Muhammad Jalandhari):** جب انہوں نے (اپنی رسیوں اور لاٹھیوں کو) ڈالا تو موسیٰ نے کہا کہ جو چیزیں تم (بنا کر) لائے ہو جادو ہے خدا اس کو بھی نیست ونابود کردے گا۔ خدا شریروں کے کام سنوارا نہیں کرتا
+
 [Open on Quran.com](https://quran.com/10/81)
 
 #### 47:33 · [[047 Muhammad]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, obey Allāh and obey the Messenger and do not invalidate your deeds.
 
 **English (Yusuf Ali):** O ye who believe! Obey Allah, and obey the messenger, and make not vain your deeds!
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کا ارشاد مانو اور پیغمبر کی فرمانبرداری کرو اور اپنے عملوں کو ضائع نہ ہونے دو
 
 [Open on Quran.com](https://quran.com/47/33)
 

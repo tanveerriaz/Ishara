@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bSr - bsr]]
+- [[bSr - mental perception]]
 
 ### Meaning
 **vision** · Lemma **بَصَر**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:7 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh has set a seal upon their hearts and upon their hearing, and over their vision is a veil. And for them is a great punishment.
 
 **English (Yusuf Ali):** Allah hath set a seal on their hearts and on their hearing, and on their eyes is a veil; great is the penalty they (incur).
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے ان کے دلوں اور کانوں پر مہر لگا رکھی ہے اور ان کی آنکھوں پر پردہ (پڑا ہوا) ہے اور ان کے لیے بڑا عذاب (تیار) ہے
 
 [Open on Quran.com](https://quran.com/2/7)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The lightning all but snatches away their sight; every time the light (Helps) them, they walk therein, and when the darkness grows on them, they stand still. And if Allah willed, He could take away their faculty of hearing and seeing; for Allah hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** قریب ہے کہ بجلی (کی چمک) ان کی آنکھوں (کی بصارت) کو اچک لے جائے۔ جب بجلی (چمکتی اور) ان پر روشنی ڈالی ہے تو اس میں چل پڑتے ہیں اور جب اندھیرا ہو جاتا ہے تو کھڑے کے کھڑے رہ جاتے ہیں اور اگر الله چاہتا تو ان کے کانوں (کی شنوائی) اور آنکھوں (کی بینائی دونوں) کو زائل کر دیتا ہے۔ بے شک الله ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/2/20)
 
 #### 3:13 · [[003 Ali Imran]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Already there has been for you a sign in the two armies which met [in combat at Badr] - one fighting in the cause of Allāh and another of disbelievers. They saw them [to be] twice their [own] number by [their] eyesight. But Allāh supports with His victory whom He wills. Indeed in that is a lesson for those of vision.
 
 **English (Yusuf Ali):** "There has already been for you a Sign in the two armies that met (in combat): One was fighting in the cause of Allah, the other resisting Allah; these saw with their own eyes Twice their number. But Allah doth support with His aid whom He pleaseth. In this is a warning for such as have eyes to see."
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہارے لیے دو گروہوں میں جو (جنگ بدر کے دن) آپس میں بھڑ گئے (قدرت خدا کی عظیم الشان) نشانی تھی ایک گروہ (مسلمانوں کا تھا وہ) خدا کی راہ میں لڑ رہا تھا اور دوسرا گروہ (کافروں کا تھا وہ) ان کو اپنی آنکھوں سے اپنے سے دگنا مشاہدہ کر رہا تھا اور خدا اپنی نصرت سے جس کو چاہتا ہے مدد دیتا ہے جو اہل بصارت ہیں ان کے لیے اس (واقعے) میں بڑی عبرت ہے
 
 [Open on Quran.com](https://quran.com/3/13)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Think ye, if Allah took away your hearing and your sight, and sealed up your hearts, who - a god other than Allah - could restore them to you?" See how We explain the signs by various (symbols); yet they turn aside.
 
+**Urdu (Fatah Muhammad Jalandhari):** (ان کافروں سے) کہو کہ بھلا دیکھو تو اگر خدا تمہارے کان اور آنکھیں چھین لے اور تمہارے دلوں پر مہر لگادے تو خداکے سوا کون سا معبود ہے جو تمہیں یہ نعمتیں پھر بخشے؟ دیکھو ہم کس کس طرح اپنی آیتیں بیان کرتے ہیں۔ پھر بھی یہ لوگ ردگردانی کرتے ہیں
+
 [Open on Quran.com](https://quran.com/6/46)
 
 #### 6:103 · [[006 Al-Anam]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Vision perceives Him not, but He perceives [all] vision; and He is the Subtle, the Aware.
 
 **English (Yusuf Ali):** No vision can grasp Him, but His grasp is over all vision: He is above all comprehension, yet is acquainted with all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** (وہ ایسا ہے کہ) نگاہیں اس کا ادراک نہیں کرسکتیں اور وہ نگاہوں کا ادراک کرسکتا ہے اور وہ بھید جاننے والا خبردار ہے
 
 [Open on Quran.com](https://quran.com/6/103)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We (too) shall turn to (confusion) their hearts and their eyes, even as they refused to believe in this in the first instance: We shall leave them in their trespasses, to wander in distraction.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم ان کے دلوں اور آنکھوں کو الٹ دیں گے (تو) جیسے یہ اس (قرآن) پر پہلی دفعہ ایمان نہیں لائے (ویسے پھر نہ لائیں گے) اور ان کو چھوڑ دیں گے کہ اپنی سرکشی میں بہکتے رہیں
+
 [Open on Quran.com](https://quran.com/6/110)
 
 #### 7:47 · [[007 Al-Araf]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when their eyes are turned toward the companions of the Fire, they say, "Our Lord, do not place us with the wrongdoing people."
 
 **English (Yusuf Ali):** When their eyes shall be turned towards the Companions of the Fire, they will say: "Our Lord! send us not to the company of the wrong-doers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کی نگاہیں پلٹ کر اہل دوزخ کی طرف جائیں گی تو عرض کریں گے کہ اے ہمارے پروردگار ہم کو ظالم لوگوں کے ساتھ شامل نہ کیجیو
 
 [Open on Quran.com](https://quran.com/7/47)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Who is it that sustains you (in life) from the sky and from the earth? or who is it that has power over hearing and sight? And who is it that brings out the living from the dead and the dead from the living? and who is it that rules and regulates all affairs?" They will soon say, "Allah". Say, "will ye not then show piety (to Him)?"
 
+**Urdu (Fatah Muhammad Jalandhari):** (ان سے) پوچھو کہ تم کو آسمان اور زمین میں رزق کون دیتا ہے یا (تمہارے) کانوں اور آنکھوں کا مالک کون ہے اور بےجان سے جاندار کون پیدا کرتا ہے اور دنیا کے کاموں کا انتظام کون کرتا ہے۔ جھٹ کہہ دیں گے کہ خدا۔ تو کہو کہ پھر تم (خدا سے) ڈرتے کیوں نہیں؟
+
 [Open on Quran.com](https://quran.com/10/31)
 
 #### 14:42 · [[014 Ibrahim]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Think not that Allah doth not heed the deeds of those who do wrong. He but giveth them respite against a Day when the eyes will fixedly stare in horror,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (مومنو) مت خیال کرنا کہ یہ ظالم جو عمل کر رہے ہیں خدا ان سے بےخبر ہے۔ وہ ان کو اس دن تک مہلت دے رہا ہے جب کہ (دہشت کے سبب) آنکھیں کھلی کی کھلی رہ جائیں گی
+
 [Open on Quran.com](https://quran.com/14/42)
 
 #### 15:15 · [[015 Al-Hijr]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They would say, "Our eyes have only been dazzled. Rather, we are a people affected by magic."
 
 **English (Yusuf Ali):** They would only say: "Our eyes have been intoxicated: Nay, we have been bewitched by sorcery."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو بھی یہی کہیں کہ ہماری آنکھیں مخمور ہوگئی ہیں بلکہ ہم پر جادو کر دیا گیا ہے
 
 [Open on Quran.com](https://quran.com/15/15)
 

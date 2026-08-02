@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nkr - nkr]]
+- [[nkr - ignore]]
 
 ### Meaning
 **my rejection** · Lemma **نَكِير**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 22:44 · [[022 Al-Hajj]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the inhabitants of Madyan. And Moses was denied, so I prolonged enjoyment for the disbelievers; then I seized them, and how [terrible] was My reproach.
 
 **English (Yusuf Ali):** And the Companions of the Madyan People; and Moses was rejected (in the same way). But I granted respite to the Unbelievers, and (only) after that did I punish them: but how (terrible) was my rejection (of them)!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مدین کے رہنے والے بھی۔ اور موسیٰ بھی تو جھٹلائے جاچکے ہیں لیکن میں کافروں کو مہلت دیتا رہا پھر ان کو پکڑ لیا۔ تو (دیکھ لو) کہ میرا عذاب کیسا (سخت) تھا
 
 [Open on Quran.com](https://quran.com/22/44)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And their predecessors rejected (the Truth); these have not received a tenth of what We had granted to those: yet when they rejected My messengers, how (terrible) was My rejection (of them)!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ان سے پہلے تھے انہوں نے تکذیب کی تھی اور جو کچھ ہم نے ان کو دیا تھا یہ اس کے دسویں حصے کو بھی نہیں پہنچے تو انہوں نے میرے پیغمبروں کو جھٹلایا۔ سو میرا عذاب کیسا ہوا
+
 [Open on Quran.com](https://quran.com/34/45)
 
 #### 35:26 · [[035 Fatir]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then I seized the ones who disbelieved, and how [terrible] was My reproach.
 
 **English (Yusuf Ali):** In the end did I punish those who rejected Faith: and how (terrible) was My rejection (of them)!
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر میں نے کافروں کو پکڑ لیا سو (دیکھ لو کہ) میرا عذاب کیسا ہوا
 
 [Open on Quran.com](https://quran.com/35/26)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Hearken ye to your Lord, before there come a Day which there will be no putting back, because of (the Ordainment of) Allah! that Day there will be for you no place of refuge nor will there be for you any room for denial (of your sins)!
 
+**Urdu (Fatah Muhammad Jalandhari):** ان سے کہہ دو کہ) قبل اس کے کہ وہ دن جو ٹلے گا نہیں خدا کی طرف سے آ موجود ہو اپنے پروردگار کا حکم قبول کرو۔ اس دن تمہارے لئے نہ کوئی جائے پناہ ہوگی اور نہ تم سے گناہوں کا انکار ہی بن پڑے گا
+
 [Open on Quran.com](https://quran.com/42/47)
 
 #### 67:18 · [[067 Al-Mulk]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And already had those before them denied, and how [terrible] was My reproach.
 
 **English (Yusuf Ali):** But indeed men before them rejected (My warning): then how (terrible) was My rejection (of them)?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ان سے پہلے تھے انہوں نے بھی جھٹلایا تھا سو (دیکھ لو کہ) میرا کیسا عذاب ہوا
 
 [Open on Quran.com](https://quran.com/67/18)
 

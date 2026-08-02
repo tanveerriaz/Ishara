@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:134 · [[006 Al-Anam]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, what you are promised is coming, and you will not cause failure [to Allāh].
 
 **English (Yusuf Ali):** All that hath been promised unto you will come to pass: nor can ye frustrate it (in the least bit).
+
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ جو وعدہ تم سے کیا جاتا ہے وہ (وقوع میں) آنے والا ہے اور تم (خدا کو) مغلوب نہیں کر سکتے
 
 [Open on Quran.com](https://quran.com/6/134)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Go ye, then, for four months, backwards and forwards, (as ye will), throughout the land, but know ye that ye cannot frustrate Allah (by your falsehood) but that Allah will cover with shame those who reject Him.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو (مشرکو تم) زمین میں چار مہینے چل پھر لو اور جان رکھو کہ تم خدا کو عاجز نہ کرسکو گے۔ اور یہ بھی کہ خدا کافروں کو رسوا کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/9/2)
 
 #### 9:3 · [[009 At-Tawbah]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [it is] an announcement from Allāh and His Messenger to the people on the day of the greater pilgrimage that Allāh is disassociated from the disbelievers, and [so is] His Messenger. So if you repent, that is best for you; but if you turn away - then know that you will not cause failure to Allāh. And give tidings to those who disbelieve of a painful punishment.
 
 **English (Yusuf Ali):** And an announcement from Allah and His Messenger, to the people (assembled) on the day of the Great Pilgrimage,- that Allah and His Messenger dissolve (treaty) obligations with the Pagans. If then, ye repent, it were best for you; but if ye turn away, know ye that ye cannot frustrate Allah. And proclaim a grievous penalty to those who reject Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور حج اکبر کے دن خدا اور اس کے رسول کی طرف سے لوگوں کو آگاہ کیا جاتا ہے کہ خدا مشرکوں سے بیزار ہے اور اس کا رسول بھی (ان سے دستبردار ہے)۔ پس اگر تم توبہ کرلو تو تمھارے حق میں بہتر ہے۔ اور اگر نہ مانو (اور خدا سے مقابلہ کرو) تو جان رکھو کہ تم خدا کو ہرا نہیں سکو گے اور (اے پیغمبر) کافروں کو دکھ دینے والے عذاب کی خبر سنا دو
 
 [Open on Quran.com](https://quran.com/9/3)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They seek to be informed by thee: "Is that true?" Say: "Aye! by my Lord! it is the very truth! and ye cannot frustrate it!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے دریافت کرتے ہیں کہ آیا یہ سچ ہے۔ کہہ دو ہاں خدا کی قسم سچ ہے اور تم (بھاگ کر خدا کو) عاجز نہیں کرسکو گے
+
 [Open on Quran.com](https://quran.com/10/53)
 
 #### 11:20 · [[011 Hud]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those were not causing failure [to Allāh] on earth, nor did they have besides Allāh any protectors. For them the punishment will be multiplied. They were not able to hear, nor did they see.
 
 **English (Yusuf Ali):** They will in no wise frustrate (His design) on earth, nor have they protectors besides Allah! Their penalty will be doubled! They lost the power to hear, and they did not see!
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ لوگ زمین میں (کہیں بھاگ کر خدا کو) نہیں ہرا سکتے اور نہ خدا کے سوا کوئی ان کا حمایتی ہے۔ (اے پیغمبر) ان کو دگنا عذاب دیا جائے گا کیونکہ یہ (شدت کفر سے تمہاری بات) نہیں سن سکتے تھے اور نہ (تم کو) دیکھ سکتے تھے
 
 [Open on Quran.com](https://quran.com/11/20)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "Truly, Allah will bring it on you if He wills,- and then, ye will not be able to frustrate it!
 
+**Urdu (Fatah Muhammad Jalandhari):** نوح نے کہا کہ اس کو خدا ہی چاہے گا تو نازل کرے گا۔ اور تم (اُس کو کسی طرح) ہرا نہیں سکتے
+
 [Open on Quran.com](https://quran.com/11/33)
 
 #### 16:46 · [[016 An-Nahl]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or that He would not seize them during their [usual] activity, and they could not cause failure [i.e., escape from Him]?
 
 **English (Yusuf Ali):** Or that He may not call them to account in the midst of their goings to and fro, without a chance of their frustrating Him?-
+
+**Urdu (Fatah Muhammad Jalandhari):** یا ان کو چلتے پھرتے پکڑ لے وہ (خدا کو) عاجز نہیں کرسکتے
 
 [Open on Quran.com](https://quran.com/16/46)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Never think thou that the Unbelievers are going to frustrate (Allah's Plan) on earth: their abode is the Fire,- and it is indeed an evil refuge!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ایسا خیال نہ کرنا کہ تم پر کافر لوگ غالب آجائیں گے (وہ جا ہی کہاں سکتے ہیں) ان کا ٹھکانا دوزخ ہے اور وہ بہت برا ٹھکانا ہے
+
 [Open on Quran.com](https://quran.com/24/57)
 
 #### 29:22 · [[029 Al-Ankabut]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Not on earth nor in heaven will ye be able (fleeing) to frustrate (his Plan), nor have ye, besides Allah, any protector or helper."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم (اُس کو) نہ زمین میں عاجز کرسکتے ہو نہ آسمان میں اور نہ خدا کے سوا تمہارا کوئی دوست ہے اور نہ مددگار
+
 [Open on Quran.com](https://quran.com/29/22)
 
 #### 39:51 · [[039 Az-Zumar]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the evil consequences of what they earned struck them. And those who have wronged of these [people] will be struck [i.e., afflicted] by the evil consequences of what they earned; and they will not cause failure.
 
 **English (Yusuf Ali):** Nay, the evil results of their Deeds overtook them. And the wrong-doers of this (generation)- the evil results of their Deeds will soon overtake them (too), and they will never be able to frustrate (Our Plan)!
+
+**Urdu (Fatah Muhammad Jalandhari):** ان پر ان کے اعمال کے وبال پڑ گئے۔ اور جو لوگ ان میں سے ظلم کرتے رہے ہیں ان پر ان کے عملوں کے وبال عنقریب پڑیں گے۔ اور وہ (خدا کو) عاجز نہیں کرسکتے
 
 [Open on Quran.com](https://quran.com/39/51)
 

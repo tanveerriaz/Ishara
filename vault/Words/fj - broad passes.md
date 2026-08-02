@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 21:31 · [[021 Al-Anbya]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We placed within the earth firmly set mountains, lest it should shift with them, and We made therein [mountain] passes [as] roads that they might be guided.
 
 **English (Yusuf Ali):** And We have set on the earth mountains standing firm, lest it should shake with them, and We have made therein broad highways (between mountains) for them to pass through: that they may receive Guidance.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے زمین میں پہاڑ بنائے تاکہ لوگوں (کے بوجھ) سے ہلنے (اور جھکنے) نہ لگے اور اس میں کشادہ راستے بنائے تاکہ لوگ ان پر چلیں
 
 [Open on Quran.com](https://quran.com/21/31)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And proclaim the Pilgrimage among men: they will come to thee on foot and (mounted) on every kind of camel, lean on account of journeys through deep and distant mountain highways;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور لوگوں میں حج کے لئے ندا کر دو کہ تمہاری پیدل اور دبلے دبلے اونٹوں پر جو دور دراز رستوں سے چلے آتے ہو (سوار ہو کر) چلے آئیں
+
 [Open on Quran.com](https://quran.com/22/27)
 
 #### 71:20 · [[071 Nuh]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That you may follow therein roads of passage.'"
 
 **English (Yusuf Ali):** "'That ye may go about therein, in spacious roads.'"
+
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ اس کے بڑے بڑے کشادہ رستوں میں چلو پھرو
 
 [Open on Quran.com](https://quran.com/71/20)
 

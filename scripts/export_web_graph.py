@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import json
 import re
+from collections import Counter
 from pathlib import Path
 from urllib.parse import quote
 
@@ -23,6 +24,62 @@ COLORS = {
     "surah": "#ffbf00",  # Obsidian Surahs — rgb 16760576
 }
 
+BW_STUB_CHARS = re.compile(r"^[a-z$'>]{2,8}$", re.I)
+BW_HYPHEN = re.compile(r"^[a-z](?:-[a-z]){1,6}$", re.I)
+
+
+def _norm_rom(s: str) -> str:
+    t = (s or "").lower()
+    for a, b in (
+        ("$", "sh"),
+        ("*", "dh"),
+        ("v", "th"),
+        (">", "a"),
+        ("<", "i"),
+        ("&", "w"),
+        ("'", "a"),
+        ("}", "i"),
+        ("{", "a"),
+    ):
+        t = t.replace(a, b)
+    return re.sub(r"[^a-z0-9]", "", t)
+
+
+def looks_like_bw_stub(text: str, root_bw: str | None = None) -> bool:
+    t = (text or "").strip().lower()
+    if not t:
+        return True
+    if BW_HYPHEN.fullmatch(t):
+        return True
+    if " " in t:
+        return False
+    cleaned = re.sub(r"[^a-z0-9$'>]", "", t)
+    if root_bw:
+        rb = re.sub(r"[^a-z0-9$'>]", "", root_bw.lower())
+        if cleaned == rb or _norm_rom(cleaned) == _norm_rom(rb):
+            return True
+    if BW_STUB_CHARS.fullmatch(cleaned) and not any(c in "aeiou" for c in cleaned):
+        return True
+    return False
+
+
+def slug_parts(slug: str) -> tuple[str, str]:
+    if " - " in slug:
+        bw, rest = slug.split(" - ", 1)
+        return bw.strip(), rest.strip()
+    return slug.strip(), ""
+
+
+def english_meaning(*candidates: str, root_bw: str | None = None, fallback: str = "root") -> str:
+    for c in candidates:
+        c = (c or "").strip()
+        if not c:
+            continue
+        if looks_like_bw_stub(c, root_bw):
+            continue
+        return c
+    return fallback
+
 
 def safe_id(slug: str, kind: str = "") -> str:
     """Path + URL safe id. Avoid raw '%' so browsers don't mis-decode filenames."""
@@ -35,8 +92,8 @@ VERSE_BLOCK = re.compile(
     r".*?<div[^>]*>\s*(?P<arabic>.*?)\s*</div>\s*"
     r"\*\*Word in this verse:\*\*\s*`(?P<form>[^`]+)`\s*—\s*(?P<gloss>[^\n]+)\s*"
     r"\*\*English \(Sahih International\):\*\*\s*(?P<si>[^\n]+)\s*"
-    r"(?:\*\*English \(Yusuf Ali\):\*\*\s*(?P<ya>[^\n]+)\s*|"
-    r"\*\*Urdu[^*]*:\*\*\s*(?P<urdu>[^\n]+)\s*)"
+    r"(?:\*\*English \(Yusuf Ali\):\*\*\s*(?P<ya>[^\n]+)\s*)?"
+    r"(?:\*\*Urdu[^*]*:\*\*\s*(?P<urdu>[^\n]+)\s*)?"
     r"(?:\[Open on Quran\.com\]\((?P<url>https?://[^)]+)\))?",
     re.S,
 )
@@ -63,19 +120,21 @@ def parse_verses(body: str) -> list[dict]:
     return out
 
 
-def word_summary(meta: dict, body: str, slug: str) -> dict:
+def word_summary(meta: dict, body: str, slug: str, full_verses: dict[str, list] | None = None) -> dict:
     meaning_m = re.search(r"\*\*([^*]+)\*\*\s*·\s*Lemma\s*\*\*([^*]+)\*\*", body)
     root_m = re.search(r"### Root\s*\n-\s*\[\[([^\]]+)\]\]", body)
     surahs = re.findall(r"### Surahs[^\n]*\n((?:- \[\[[^\]]+\]\]\n?)+)", body)
     surah_list = WIKILINK.findall(surahs[0]) if surahs else []
+    verses = (full_verses or {}).get(slug) or parse_verses(body)
+    ayah_count = int(meta.get("ayah_count") or 0) or len(verses)
     return {
         "meaning": meaning_m.group(1).strip() if meaning_m else slug.split(" - ")[-1],
         "lemma": (meaning_m.group(2).strip() if meaning_m else meta.get("lemma", "")),
         "root": root_m.group(1).strip() if root_m else "",
         "surahCount": int(meta.get("surah_count") or len(surah_list) or 0),
-        "ayahCount": int(meta.get("ayah_count") or 0),
+        "ayahCount": ayah_count,
         "surahs": surah_list,
-        "verses": parse_verses(body),
+        "verses": verses,
     }
 
 
@@ -224,6 +283,15 @@ def main() -> None:
         edge_set.add(key)
         links.append({"source": a, "target": b})
 
+    word_notes_by_slug: dict[str, dict] = {}
+    full_verses_path = ROOT / "data" / "word_verses_full.json"
+    full_verses: dict[str, list] = {}
+    if full_verses_path.exists():
+        full_verses = json.loads(full_verses_path.read_text(encoding="utf-8"))
+        print(f"Loaded full verses for {len(full_verses)} words")
+    else:
+        print("WARNING: data/word_verses_full.json missing — falling back to vault samples")
+
     # --- Words ---
     for path in sorted((VAULT / "Words").glob("*.md")):
         text = path.read_text(encoding="utf-8")
@@ -234,15 +302,20 @@ def main() -> None:
         title_to_id[path.stem] = nid
         title_to_id[f"Words/{path.stem}"] = nid
         lemma = meta.get("lemma", "")
+        bw_part, slug_gloss = slug_parts(slug)
         meaning_m = re.search(r"\*\*([^*]+)\*\*\s*·\s*Lemma", body)
-        meaning = meaning_m.group(1).strip() if meaning_m else slug.split(" - ")[-1]
-        search = " ".join([slug, lemma, meaning, meta.get("lemma", "")])
+        raw_meaning = meaning_m.group(1).strip() if meaning_m else slug_gloss
+        meaning = english_meaning(raw_meaning, slug_gloss, root_bw=bw_part, fallback="word")
+        label = meaning if len(meaning) < 28 else " ".join(meaning.split()[:3])
+        search = " ".join([slug, lemma, meaning, bw_part, meta.get("lemma", "")])
+        summary = word_summary(meta, body, slug, full_verses)
+        summary["meaning"] = meaning
         nodes.append(
             {
                 "id": nid,
                 "slug": slug,
                 "type": "word",
-                "label": meaning if len(meaning) < 28 else slug.split(" - ")[-1],
+                "label": label,
                 "title": slug,
                 "color": COLORS["word"],
                 "searchText": search,
@@ -256,8 +329,10 @@ def main() -> None:
             "type": "word",
             "title": slug,
             "html": md_to_simple_html(strip_md_noise(body)),
-            **word_summary(meta, body, slug),
+            **summary,
         }
+        word_notes_by_slug[slug] = note
+        word_notes_by_slug[path.stem] = note
         (NOTES / f"{nid}.json").write_text(json.dumps(note, ensure_ascii=False), encoding="utf-8")
 
     word_targets: dict[str, list[str]] = {}
@@ -273,7 +348,6 @@ def main() -> None:
         meta, body = parse_frontmatter(text)
         slug = meta.get("slug") or path.stem
         nid = safe_id(slug, "root")
-        # Prefer word id when resolving bare wikilinks that collide; keep root under typed keys.
         title_to_id[f"Roots/{path.stem}"] = nid
         title_to_id[f"root:{slug}"] = nid
         if slug not in title_to_id:
@@ -281,17 +355,52 @@ def main() -> None:
         if path.stem not in title_to_id:
             title_to_id[path.stem] = nid
         arabic = meta.get("arabic_root", "")
-        sense_m = re.search(r"\*\*Sense:\*\*\s*([^\s·]+)", body)
-        sense = sense_m.group(1) if sense_m else slug.split(" - ")[-1]
+        bw_part, slug_gloss = slug_parts(slug)
+        sense_m = re.search(r"\*\*Sense:\*\*\s*([^\n·]+)", body)
+        raw_sense = sense_m.group(1).strip() if sense_m else slug_gloss
+        linked = wikilinks(body)
+        linked_words = [w for w in linked if w in word_notes_by_slug]
+        # Prefer common English senses from linked lemmas when Sense is a BW stub.
+        word_meanings = [
+            word_notes_by_slug[w].get("meaning", "")
+            for w in linked_words
+            if word_notes_by_slug[w].get("meaning")
+        ]
+        ranked_meanings = [g for g, _ in Counter(word_meanings).most_common()]
+        sense = english_meaning(
+            raw_sense,
+            slug_gloss,
+            *ranked_meanings,
+            root_bw=bw_part,
+            fallback="root",
+        )
+        label = sense if len(sense) < 28 else " ".join(sense.split()[:3])
+        verses: list[dict] = []
+        seen_refs: set[str] = set()
+        for wslug in linked_words:
+            for v in word_notes_by_slug[wslug].get("verses") or []:
+                key = f"{v['ref']}|{v.get('wordForm','')}"
+                if key in seen_refs:
+                    continue
+                seen_refs.add(key)
+                verses.append({**v, "fromWord": wslug})
+        surah_from_verse = sorted({v["surah"] for v in verses if v.get("surah")})
+        surah_codes = re.findall(r"`?(\d{3})(?:\s*,\s*|\s*`|$)", body)
+        surah_count = len({c for c in surah_codes}) or len(
+            {v["ref"].split(":")[0] for v in verses}
+        )
+        ayah_count = len({v["ref"] for v in verses})
         nodes.append(
             {
                 "id": nid,
                 "slug": slug,
                 "type": "root",
-                "label": sense,
+                "label": label,
                 "title": slug,
                 "color": COLORS["root"],
-                "searchText": f"{slug} {arabic} {sense}",
+                "searchText": f"{slug} {arabic} {sense} {bw_part}",
+                "surahCount": surah_count,
+                "ayahCount": ayah_count,
             }
         )
         note = {
@@ -302,11 +411,12 @@ def main() -> None:
             "html": md_to_simple_html(strip_md_noise(body)),
             "meaning": sense,
             "lemma": arabic,
-            "surahCount": 0,
-            "ayahCount": 0,
-            "surahs": [],
-            "verses": [],
+            "surahCount": surah_count,
+            "ayahCount": ayah_count,
+            "surahs": surah_from_verse,
+            "verses": verses,
             "root": slug,
+            "words": linked_words,
         }
         (NOTES / f"{nid}.json").write_text(json.dumps(note, ensure_ascii=False), encoding="utf-8")
 

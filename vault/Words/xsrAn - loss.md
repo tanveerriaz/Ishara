@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xsr - khsr]]
+- [[xsr - lose]]
 
 ### Meaning
 **loss** · Lemma **خُسْران**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:119 · [[004 An-Nisa]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And I will mislead them, and I will arouse in them [sinful] desires, and I will command them so they will slit the ears of cattle, and I will command them so they will change the creation of Allāh." And whoever takes Satan as an ally instead of Allāh has certainly sustained a clear loss.
 
 **English (Yusuf Ali):** "I will mislead them, and I will create in them false desires; I will order them to slit the ears of cattle, and to deface the (fair) nature created by Allah." Whoever, forsaking Allah, takes satan for a friend, hath of a surety suffered a loss that is manifest.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو گمراہ کرتا اور امیدیں دلاتا ہروں گا اور یہ سکھاتا رہوں گا کہ جانوروں کے کان چیرتے رہیں اور (یہ بھی) کہتا رہوں گا کہ وہ خدا کی بنائی ہوئی صورتوں کو بدلتے رہیں اور جس شخص نے خدا کو چھوڑ کر شیطان کو دوست بنایا اور وہ صریح نقصان میں پڑ گیا
 
 [Open on Quran.com](https://quran.com/4/119)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There are among men some who serve Allah, as it were, on the verge: if good befalls them, they are, therewith, well content; but if a trial comes to them, they turn on their faces: they lose both this world and the Hereafter: that is loss for all to see!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور لوگوں میں بعض ایسا بھی ہے جو کنارے پر (کھڑا ہو کر) خدا کی عبادت کرتا ہے۔ اگر اس کو کوئی (دنیاوی) فائدہ پہنچے تو اس کے سبب مطمئن ہوجائے اور اگر کوئی آفت پڑے تو منہ کے بل لوٹ جائے (یعنی پھر کافر ہوجائے) اس نے دنیا میں بھی نقصان اٹھایا اور آخرت میں بھی۔ یہی تو نقصان صریح ہے
+
 [Open on Quran.com](https://quran.com/22/11)
 
 #### 39:15 · [[039 Az-Zumar]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So worship what you will besides Him." Say, "Indeed, the losers are the ones who will lose themselves and their families on the Day of Resurrection. Unquestionably, that is the manifest loss."
 
 **English (Yusuf Ali):** "Serve ye what ye will besides him." Say: "Truly, those in loss are those who lose their own souls and their People on the Day of Judgment: Ah! that is indeed the (real and) evident Loss!
+
+**Urdu (Fatah Muhammad Jalandhari):** تو تم اس کے سوا جس کی چاہو پرستش کرو۔ کہہ دو کہ نقصان اٹھانے والے وہی لوگ ہیں جنہوں نے قیامت کے دن اپنے آپ کو اور اپنے گھر والوں کو نقصان میں ڈالا۔ دیکھو یہی صریح نقصان ہے
 
 [Open on Quran.com](https://quran.com/39/15)
 

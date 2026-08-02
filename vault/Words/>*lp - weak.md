@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:123 · [[003 Ali Imran]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And already had Allāh given you victory at [the battle of] Badr while you were weak [i.e., few in number]. Then fear Allāh; perhaps you will be grateful.
 
 **English (Yusuf Ali):** Allah had helped you at Badr, when ye were a contemptible little force; then fear Allah; thus May ye show your gratitude.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے جنگِ بدر میں بھی تمہاری مدد کی تھی اور اس وقت بھی تم بے سرو وسامان تھے پس خدا سے ڈرو (اور ان احسانوں کو یاد کرو) تاکہ شکر کرو
 
 [Open on Quran.com](https://quran.com/3/123)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! if any from among you turn back from his Faith, soon will Allah produce a people whom He will love as they will love Him,- lowly with the believers, mighty against the rejecters, fighting in the way of Allah, and never afraid of the reproaches of such as find fault. That is the grace of Allah, which He will bestow on whom He pleaseth. And Allah encompasseth all, and He knoweth all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو اگر کوئی تم میں سے اپنے دین سے پھر جائے گا تو خدا ایسے لوگ پیدا کر دے گا جن کو وہ دوست رکھے اور جسے وہ دوست رکھیں اور جو مومنوں کے حق میں نرمی کریں اور کافروں سے سختی سے پیش آئیں خدا کی راہ میں جہاد کریں اور کسی ملامت کرنے والی کی ملامت سے نہ ڈریں یہ خدا کا فضل ہے وہ جسے چاہتا ہے دیتا ہے اور الله بڑی کشائش والا اور جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/5/54)
 
 #### 27:34 · [[027 An-Naml]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** She said: "Kings, when they enter a country, despoil it, and make the noblest of its people its meanest thus do they behave.
 
+**Urdu (Fatah Muhammad Jalandhari):** اس نے کہا کہ بادشاہ جب کسی شہر میں داخل ہوتے ہیں تو اس کو تباہ کر دیتے ہیں اور وہاں کے عزت والوں کو ذلیل کر دیا کرتے ہیں اور اسی طرح یہ بھی کریں گے
+
 [Open on Quran.com](https://quran.com/27/34)
 
 #### 27:37 · [[027 An-Naml]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Return to them, for we will surely come to them with soldiers that they will be powerless to encounter, and we will surely expel them therefrom in humiliation, and they will be debased."
 
 **English (Yusuf Ali):** "Go back to them, and be sure we shall come to them with such hosts as they will never be able to meet: We shall expel them from there in disgrace, and they will feel humbled (indeed)."
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کے پاس واپس جاؤ ہم ان پر ایسے لشکر سے حملہ کریں گے جس کے مقابلے کی ان میں طاقت نہ ہوگی اور ان کو وہاں سے بےعزت کرکے نکال دیں گے اور وہ ذلیل ہوں گے
 
 [Open on Quran.com](https://quran.com/27/37)
 

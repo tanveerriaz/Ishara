@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>mn - amn]]
+- [[>mn - believe]]
 
 ### Meaning
 **trustworthy** · Lemma **أَمِين**
@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:68 · [[007 Al-Araf]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** I convey to you the messages of my Lord, and I am to you a trustworthy adviser.
 
 **English (Yusuf Ali):** "I but fulfil towards you the duties of my Lord's mission: I am to you a sincere and trustworthy adviser.
+
+**Urdu (Fatah Muhammad Jalandhari):** میں تمہیں خدا کے پیغام پہنچاتا ہوں اور تمہارا امانت دار خیرخواہ ہوں
 
 [Open on Quran.com](https://quran.com/7/68)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So the king said: "Bring him unto me; I will take him specially to serve about my own person." Therefore when he had spoken to him, he said: "Be assured this day, thou art, before our own presence, with rank firmly established, and fidelity fully proved!
 
+**Urdu (Fatah Muhammad Jalandhari):** بادشاہ نے حکم دیا کہ اسے میرے پاس لاؤ میں اسے اپنا مصاحب خاص بناؤں گا۔ پھر جب ان سے گفتگو کی تو کہا کہ آج سے تم ہمارے ہاں صاحب منزلت اور صاحبِ اعتبار ہو
+
 [Open on Quran.com](https://quran.com/12/54)
 
 #### 26:107 · [[026 Ash-Shuara]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, I am to you a trustworthy messenger.
 
 **English (Yusuf Ali):** "I am to you a messenger worthy of all trust:
+
+**Urdu (Fatah Muhammad Jalandhari):** میں تو تمہارا امانت دار ہوں
 
 [Open on Quran.com](https://quran.com/26/107)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "I am to you a messenger worthy of all trust:
 
+**Urdu (Fatah Muhammad Jalandhari):** میں تو تمہارا امانت دار پیغمبر ہوں
+
 [Open on Quran.com](https://quran.com/26/125)
 
 #### 26:143 · [[026 Ash-Shuara]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, I am to you a trustworthy messenger.
 
 **English (Yusuf Ali):** "I am to you a messenger worthy of all trust.
+
+**Urdu (Fatah Muhammad Jalandhari):** میں تو تمہارا امانت دار ہوں
 
 [Open on Quran.com](https://quran.com/26/143)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "I am to you a messenger worthy of all trust.
 
+**Urdu (Fatah Muhammad Jalandhari):** میں تو تمہارا امانت دار پیغمبر ہوں
+
 [Open on Quran.com](https://quran.com/26/162)
 
 #### 26:178 · [[026 Ash-Shuara]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, I am to you a trustworthy messenger.
 
 **English (Yusuf Ali):** "I am to you a messenger worthy of all trust.
+
+**Urdu (Fatah Muhammad Jalandhari):** میں تو تمہارا امانت دار پیغمبر ہوں
 
 [Open on Quran.com](https://quran.com/26/178)
 
@@ -159,6 +173,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** With it came down the spirit of Faith and Truth-
 
+**Urdu (Fatah Muhammad Jalandhari):** اس کو امانت دار فرشتہ لے کر اُترا ہے
+
 [Open on Quran.com](https://quran.com/26/193)
 
 #### 27:39 · [[027 An-Naml]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Said an 'Ifrit, of the Jinns: "I will bring it to thee before thou rise from thy council: indeed I have full strength for the purpose, and may be trusted."
 
+**Urdu (Fatah Muhammad Jalandhari):** جنات میں سے ایک قوی ہیکل جن نے کہا کہ قبل اس کے کہ آپ اپنی جگہ سے اٹھیں میں اس کو آپ کے پاس لاحاضر کرتا ہوں اور میں اس (کے اٹھانے کی) طاقت رکھتا ہوں (اور) امانت دار ہوں
+
 [Open on Quran.com](https://quran.com/27/39)
 
 #### 28:26 · [[028 Al-Qasas]]
@@ -190,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** One of the women said, "O my father, hire him. Indeed, the best one you can hire is the strong and the trustworthy."
 
 **English (Yusuf Ali):** Said one of the (damsels): "O my (dear) father! engage him on wages: truly the best of men for thee to employ is the (man) who is strong and trusty"....
+
+**Urdu (Fatah Muhammad Jalandhari):** ایک لڑکی بولی کہ ابّا ان کو نوکر رکھ لیجئے کیونکہ بہتر نوکر جو آپ رکھیں وہ ہے (جو) توانا اور امانت دار (ہو)
 
 [Open on Quran.com](https://quran.com/28/26)
 

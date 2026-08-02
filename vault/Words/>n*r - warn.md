@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[n*r - ndhr]]
+- [[n*r - make vow impose]]
 
 ### Meaning
 **warn** · Lemma **أَنذَرَ**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:6 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who disbelieve - it is all the same for them whether you warn them or do not warn them - they will not believe.
 
 **English (Yusuf Ali):** As to those who reject Faith, it is the same to them whether thou warn them or do not warn them; they will not believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں انہیں تم نصیحت کرو یا نہ کرو ان کے لیے برابر ہے۔ وہ ایمان نہیں لانے کے
 
 [Open on Quran.com](https://quran.com/2/6)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "What thing is most weighty in evidence?" Say: "Allah is witness between me and you; This Qur'an hath been revealed to me by inspiration, that I may warn you and all whom it reaches. Can ye possibly bear witness that besides Allah there is another Allah?" Say: "Nay! I cannot bear witness!" Say: "But in truth He is the one Allah, and I truly am innocent of (your blasphemy of) joining others with Him."
 
+**Urdu (Fatah Muhammad Jalandhari):** ان سے پوچھو کہ سب سے بڑھ کر (قرین انصاف) کس کی شہادت ہے کہہ دو کہ خدا ہی مجھ میں اور تم میں گواہ ہے اور یہ قرآن مجھ پر اس لیے اتارا گیا ہے کہ اس کے ذریعے سے تم کو اور جس شخص تک وہ پہنچ سکے آگاہ کردوں کیا تم لوگ اس بات کی شہادت دیتے ہو کہ خدا کے ساتھ اور بھی معبود ہیں (اے محمدﷺ!) کہہ دو کہ میں تو (ایسی) شہادت نہیں دیتا کہہ دو کہ صرف وہی ایک معبود ہے اور جن کو تم لوگ شریک بناتے ہو میں ان سے بیزار ہوں
+
 [Open on Quran.com](https://quran.com/6/19)
 
 #### 6:51 · [[006 Al-Anam]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And warn by it [i.e., the Qur’ān] those who fear that they will be gathered before their Lord - for them besides Him will be no protector and no intercessor - that they might become righteous.
 
 **English (Yusuf Ali):** Give this warning to those in whose (hearts) is the fear that they will be brought (to judgment) before their Lord: except for Him they will have no protector nor intercessor: that they may guard (against evil).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ جو خوف رکھتے ہیں کہ اپنے پروردگار کے روبرو حاضر کئے جائیں گے (اور جانتے ہیں کہ) اس کے سوا نہ تو ان کا کوئی دوست ہوگا اور نہ سفارش کرنے والا، ان کو اس (قرآن) کے ذریعے سے نصیحت کر دو تاکہ پرہیزگار بنیں
 
 [Open on Quran.com](https://quran.com/6/51)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And this is a Book which We have sent down, bringing blessings, and confirming (the revelations) which came before it: that thou mayest warn the mother of cities and all around her. Those who believe in the Hereafter believe in this (Book), and they are constant in guarding their prayers.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (ویسی ہی) یہ کتاب ہے جسے ہم نے نازل کیا ہے بابرکت جو اپنے سے پہلی (کتابوں) کی تصدیق کرتی ہے اور (جو) اس لئے (نازل کی گئی ہے) کہ تم مکے اور اس کے آس پاس کے لوگوں کو آگاہ کردو۔ اور جو لوگ آخرت پر ایمان رکھتے ہیں وہ اس کتاب پر بھی ایمان رکھتے ہیں اور وہ اپنی نمازوں کی پوری خبر رکھتے ہیں
+
 [Open on Quran.com](https://quran.com/6/92)
 
 #### 6:130 · [[006 Al-Anam]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** "O company of jinn and mankind, did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours?" They will say, "We bear witness against ourselves"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers.
 
 **English (Yusuf Ali):** "O ye assembly of Jinns and men! came there not unto you messengers from amongst you, setting forth unto you My signs, and warning you of the meeting of this Day of yours?" They will say: "We bear witness against ourselves." It was the life of this world that deceived them. So against themselves will they bear witness that they rejected Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے جنّوں اور انسانوں کی جماعت کیا تمہارے پاس تم ہی میں سے پیغمبر نہیں آتے رہے جو میری آیتیں تم کو پڑھ پڑھ کر سناتے اور اس دن کے سامنے آموجود ہونے سے ڈراتے تھے وہ کہیں گے کہ (پروردگار) ہمیں اپنے گناہوں کا اقرار ہے ان لوگوں کو دنیاکی زندگی نے دھوکے میں ڈال رکھا تھا اور (اب) خود اپنے اوپر گواہی دی کہ کفر کرتے تھے
 
 [Open on Quran.com](https://quran.com/6/130)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A Book revealed unto thee,- So let thy heart be oppressed no more by any difficulty on that account,- that with it thou mightest warn (the erring) and teach the Believers).
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) یہ کتاب (جو) تم پر نازل ہوئی ہے۔ اس سے تمہیں تنگ دل نہیں ہونا چاہیئے، (یہ نازل) اس لیے (ہوئی ہے) کہ تم اس کے ذریعے سے (لوگوں) کو ڈر سناؤ اور (یہ) ایمان والوں کے لیے نصیحت ہے
+
 [Open on Quran.com](https://quran.com/7/2)
 
 #### 7:63 · [[007 Al-Araf]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you and that you may fear Allāh so you might receive mercy?"
 
 **English (Yusuf Ali):** "Do ye wonder that there hath come to you a message from your Lord, through a man of your own people, to warn you,- so that ye may fear Allah and haply receive His Mercy?"
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم کو اس بات سے تعجب ہوا ہے کہ تم میں سے ایک شخص کے ہاتھ تمہارے پروردگار کی طرف سے تمہارے پاس نصیحت آئی تاکہ وہ تم کو ڈرائے اور تاکہ تم پرہیزگار بنو اور تاکہ تم پر رحم کیا جائے
 
 [Open on Quran.com](https://quran.com/7/63)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Do ye wonder that there hath come to you a message from your Lord through a man of your own people, to warn you? call in remembrance that He made you inheritors after the people of Noah, and gave you a stature tall among the nations. Call in remembrance the benefits (ye have received) from Allah: that so ye may prosper."
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم کو اس بات سے تعجب ہوا ہے کہ تم میں سے ایک شخص کے ہاتھ تمہارے پروردگار کی طرف سے تمہارے پاس نصیحت آئی تاکہ وہ تمہیں ڈرائے اور یاد کرو تو کرو جب اس نے تم کو قوم نوح کے بعد سردار بنایا۔ اور تم کو پھیلاؤ زیادہ دیا۔ پس خدا کی نعمتوں کو یاد کرو۔ تاکہ نجات حاصل کرو
+
 [Open on Quran.com](https://quran.com/7/69)
 
 #### 9:122 · [[009 At-Tawbah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nor should the Believers all go forth together: if a contingent from every expedition remained behind, they could devote themselves to studies in religion, and admonish the people when they return to them,- that thus they (may learn) to guard themselves (against evil).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ تو ہو نہیں سکتا کہ مومن سب کے سب نکل آئیں۔ تو یوں کیوں نہ کیا کہ ہر ایک جماعت میں سے چند اشخاص نکل جاتے تاکہ دین کا (علم سیکھتے اور اس) میں سمجھ پیدا کرتے اور جب اپنی قوم کی طرف واپس آتے تو ان کو ڈر سناتے تاکہ وہ حذر کرتے
+
 [Open on Quran.com](https://quran.com/9/122)
 
 #### 10:2 · [[010 Yunus]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have the people been amazed that We revealed [revelation] to a man from among them, [saying], "Warn mankind and give good tidings to those who believe that they will have a [firm] precedence of honor with their Lord"? [But] the disbelievers say, "Indeed, this is an obvious magician."
 
 **English (Yusuf Ali):** Is it a matter of wonderment to men that We have sent Our inspiration to a man from among themselves?- that he should warn mankind (of their danger), and give the good news to the Believers that they have before their Lord the lofty rank of truth. (But) say the Unbelievers: "This is indeed an evident sorcerer!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا لوگوں کو تعجب ہوا کہ ہم نے ان ہی میں سے ایک مرد کو حکم بھیجا کہ لوگوں کو ڈر سنا دو۔ اور ایمان لانے والوں کو خوشخبری دے دو کہ ان کے پروردگار کے ہاں ان کا سچا درجہ ہے۔ (ایسے شخص کی نسبت) کافر کہتے ہیں کہ یہ صریح جادوگر ہے
 
 [Open on Quran.com](https://quran.com/10/2)
 

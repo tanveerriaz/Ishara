@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mkn - mkn]]
+- [[mkn - establish]]
 
 ### Meaning
 **firmly established** · Lemma **مَكِين**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 12:54 · [[012 Yusuf]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the king said, "Bring him to me; I will appoint him exclusively for myself." And when he spoke to him, he said, "Indeed, you are today established [in position] and trusted."
 
 **English (Yusuf Ali):** So the king said: "Bring him unto me; I will take him specially to serve about my own person." Therefore when he had spoken to him, he said: "Be assured this day, thou art, before our own presence, with rank firmly established, and fidelity fully proved!
+
+**Urdu (Fatah Muhammad Jalandhari):** بادشاہ نے حکم دیا کہ اسے میرے پاس لاؤ میں اسے اپنا مصاحب خاص بناؤں گا۔ پھر جب ان سے گفتگو کی تو کہا کہ آج سے تم ہمارے ہاں صاحب منزلت اور صاحبِ اعتبار ہو
 
 [Open on Quran.com](https://quran.com/12/54)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then We placed him as (a drop of) sperm in a place of rest, firmly fixed;
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر اس کو ایک مضبوط (اور محفوظ) جگہ میں نطفہ بنا کر رکھا
+
 [Open on Quran.com](https://quran.com/23/13)
 
 #### 77:21 · [[077 Al-Mursalat]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The which We placed in a place of rest, firmly fixed,
 
+**Urdu (Fatah Muhammad Jalandhari):** اس کو ایک محفوظ جگہ میں رکھا
+
 [Open on Quran.com](https://quran.com/77/21)
 
 #### 81:20 · [[081 At-Takwir]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Who is] possessed of power and with the Owner of the Throne, secure [in position],
 
 **English (Yusuf Ali):** Endued with Power, with rank before the Lord of the Throne,
+
+**Urdu (Fatah Muhammad Jalandhari):** جو صاحب قوت مالک عرش کے ہاں اونچے درجے والا ہے
 
 [Open on Quran.com](https://quran.com/81/20)
 

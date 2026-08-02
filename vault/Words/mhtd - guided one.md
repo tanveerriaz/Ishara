@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 17:97 · [[017 Al-Isra]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whoever Allāh guides - he is the [rightly] guided; and whoever He sends astray - you will never find for them protectors besides Him, and We will gather them on the Day of Resurrection [fallen] on their faces - blind, dumb and deaf. Their refuge is Hell; every time it subsides, We increase [for] them blazing fire.
 
 **English (Yusuf Ali):** It is he whom Allah guides, that is on true Guidance; but he whom He leaves astray - for such wilt thou find no protector besides Him. On the Day of Judgment We shall gather, them together, prone on their faces, blind, dumb, and deaf: their abode will be Hell: every time it shows abatement, We shall increase from them the fierceness of the Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس شخص کو خدا ہدایت دے وہی ہدایت یاب ہے۔ اور جن کو گمراہ کرے تو تم خدا کے سوا اُن کے رفیق نہیں پاؤ گے۔ اور ہم اُن کو قیامت کے دن اوندھے منہ اندھے گونگے اور بہرے (بنا کر) اٹھائیں گے۔ اور ان کا ٹھکانہ دوزخ ہے۔ جب (اس کی آگ) بجھنے کو ہوگی تو ہم ان کو (عذاب دینے کے لئے) اور بھڑکا دیں گے
 
 [Open on Quran.com](https://quran.com/17/97)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thou wouldst have seen the sun, when it rose, declining to the right from their Cave, and when it set, turning away from them to the left, while they lay in the open space in the midst of the Cave. Such are among the Signs of Allah: He whom Allah, guides is rightly guided; but he whom Allah leaves to stray,- for him wilt thou find no protector to lead him to the Right Way.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب سورج نکلے تو تم دیکھو کہ (دھوپ) ان کے غار سے داہنی طرف سمٹ جائے اور جب غروب ہو تو ان سے بائیں طرف کترا جائے اور وہ اس کے میدان میں تھے۔ یہ خدا کی نشانیوں میں سے ہیں۔ جس کو خدا ہدایت دے یا وہ ہدایت یاب ہے اور جس کو گمراہ کرے تو تم اس کے لئے کوئی دوست راہ بتانے والا نہ پاؤ گے
+
 [Open on Quran.com](https://quran.com/18/17)
 
 #### 57:26 · [[057 Al-Hadid]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have already sent Noah and Abraham and placed in their descendants prophethood and scripture; and among them is he who is guided, but many of them are defiantly disobedient.
 
 **English (Yusuf Ali):** And We sent Noah and Abraham, and established in their line Prophethood and Revelation: and some of them were on right guidance. But many of them became rebellious transgressors.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے نوح اور ابراہیم کو (پیغمبر بنا کر) بھیجا اور ان کی اولاد میں پیغمبری اور کتاب (کے سلسلے) کو (وقتاً فوقتاً جاری) رکھا تو بعض تو ان میں سے ہدایت پر ہیں۔ اور اکثر ان میں سے خارج از اطاعت ہیں
 
 [Open on Quran.com](https://quran.com/57/26)
 

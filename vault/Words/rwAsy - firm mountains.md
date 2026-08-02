@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 13:3 · [[013 Ar-Rad]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And it is He who spread the earth and placed therein firmly set mountains and rivers; and from all of the fruits He made therein two mates; He causes the night to cover the day. Indeed in that are signs for a people who give thought.
 
 **English (Yusuf Ali):** And it is He who spread out the earth, and set thereon mountains standing firm and (flowing) rivers: and fruit of every kind He made in pairs, two and two: He draweth the night as a veil o'er the Day. Behold, verily in these things there are signs for those who consider!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ وہی ہے جس نے زمین کو پھیلایا اور اس میں پہاڑ اور دریا پیدا کئے اور ہر طرح کے میوؤں کی دو دو قسمیں بنائیں۔ وہی رات کو دن کا لباس پہناتا ہے۔ غور کرنے والوں کے لیے اس میں بہت سی نشانیاں ہیں
 
 [Open on Quran.com](https://quran.com/13/3)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And the earth We have spread out (like a carpet); set thereon mountains firm and immovable; and produced therein all kinds of things in due balance.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور زمین کو بھی ہم ہی نے پھیلایا اور اس پر پہاڑ (بنا کر) رکھ دیئے اور اس میں ہر ایک سنجیدہ چیز اُگائی
+
 [Open on Quran.com](https://quran.com/15/19)
 
 #### 16:15 · [[016 An-Nahl]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He has cast into the earth firmly set mountains, lest it shift with you, and [made] rivers and roads, that you may be guided,
 
 **English (Yusuf Ali):** And He has set up on the earth mountains standing firm, lest it should shake with you; and rivers and roads; that ye may guide yourselves;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے زمین پر پہاڑ (بنا کر) رکھ دیئے کہ تم کو لے کر کہیں جھک نہ جائے اور نہریں اور رستے بنا دیئے تاکہ ایک مقام سے دوسرے مقام تک (آسانی سے) جاسکو
 
 [Open on Quran.com](https://quran.com/16/15)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We have set on the earth mountains standing firm, lest it should shake with them, and We have made therein broad highways (between mountains) for them to pass through: that they may receive Guidance.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے زمین میں پہاڑ بنائے تاکہ لوگوں (کے بوجھ) سے ہلنے (اور جھکنے) نہ لگے اور اس میں کشادہ راستے بنائے تاکہ لوگ ان پر چلیں
+
 [Open on Quran.com](https://quran.com/21/31)
 
 #### 27:61 · [[027 An-Naml]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Is He [not best] who made the earth a stable ground and placed within it rivers and made for it firmly set mountains and placed between the two seas a barrier? Is there a deity with Allāh? [No], but most of them do not know.
 
 **English (Yusuf Ali):** Or, Who has made the earth firm to live in; made rivers in its midst; set thereon mountains immovable; and made a separating bar between the two bodies of flowing water? (can there be another) god besides Allah? Nay, most of them know not.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا کس نے زمین کو قرار گاہ بنایا اور اس کے بیچ نہریں بنائیں اور اس کے لئے پہاڑ بنائے اور (کس نے) دو دریاؤں کے بیچ اوٹ بنائی (یہ سب کچھ خدا نے بنایا) تو کیا خدا کے ساتھ کوئی اور معبود بھی ہے؟ (ہرگز نہیں) بلکہ ان میں اکثر دانش نہیں رکھتے
 
 [Open on Quran.com](https://quran.com/27/61)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He created the heavens without any pillars that ye can see; He set on the earth mountains standing firm, lest it should shake with you; and He scattered through it beasts of all kinds. We send down rain from the sky, and produce on the earth every kind of noble creature, in pairs.
 
+**Urdu (Fatah Muhammad Jalandhari):** اُسی نے آسمانوں کو ستونوں کے بغیر پیدا کیا جیسا کہ تم دیکھتے ہو اور زمین پر پہاڑ (بنا کر) رکھ دیئے تاکہ تم کو ہلا ہلا نہ دے اور اس میں ہر طرح کے جانور پھیلا دیئے۔ اور ہم ہی نے آسمانوں سے پانی نازل کیا پھر (اُس سے) اس میں ہر قسم کی نفیس چیزیں اُگائیں
+
 [Open on Quran.com](https://quran.com/31/10)
 
 #### 34:13 · [[034 Saba]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They made for him what he willed of elevated chambers, statues, bowls like reservoirs, and stationary kettles. [We said], "Work, O family of David, in gratitude." And few of My servants are grateful.
 
 **English (Yusuf Ali):** They worked for him as he desired, (making) arches, images, basons as large as reservoirs, and (cooking) cauldrons fixed (in their places): "Work ye, sons of David, with thanks! but few of My servants are grateful!"
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ جو چاہتے یہ ان کے لئے بناتے یعنی قلعے اور مجسمے اور (بڑے بڑے) لگن جیسے تالاب اور دیگیں جو ایک ہی جگہ رکھی رہیں۔ اے داؤد کی اولاد (میرا) شکر کرو اور میرے بندوں میں شکرگزار تھوڑے ہیں
 
 [Open on Quran.com](https://quran.com/34/13)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He set on the (earth), mountains standing firm, high above it, and bestowed blessings on the earth, and measure therein all things to give them nourishment in due proportion, in four Days, in accordance with (the needs of) those who seek (Sustenance).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے زمین میں اس کے اوپر پہاڑ بنائے اور زمین میں برکت رکھی اور اس میں سب سامان معیشت مقرر کیا (سب) چار دن میں۔ (اور تمام) طلبگاروں کے لئے یکساں
+
 [Open on Quran.com](https://quran.com/41/10)
 
 #### 50:7 · [[050 Qaf]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And the earth- We have spread it out, and set thereon mountains standing firm, and produced therein every kind of beautiful growth (in pairs)-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور زمین کو (دیکھو اسے) ہم نے پھیلایا اور اس میں پہاڑ رکھ دیئے اور اس میں ہر طرح کی خوشنما چیزیں اُگائیں
+
 [Open on Quran.com](https://quran.com/50/7)
 
 #### 77:27 · [[077 Al-Mursalat]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We placed therein lofty, firmly set mountains and have given you to drink sweet water.
 
 **English (Yusuf Ali):** And made therein mountains standing firm, lofty (in stature); and provided for you water sweet (and wholesome)?
+
+**Urdu (Fatah Muhammad Jalandhari):** (بنایا) اور اس پر اونچے اونچے پہاڑ رکھ دیئے اور تم لوگوں کو میٹھا پانی پلایا
 
 [Open on Quran.com](https://quran.com/77/27)
 

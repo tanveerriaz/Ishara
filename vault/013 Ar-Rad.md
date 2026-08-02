@@ -14,84 +14,84 @@ The Thunder · 43 ayahs
 
 ## Words in this surah (graph)
 
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[hAd - guide]] — `هاد` · guide
 - [[>EmY - blind]] — `أَعْمَى` · blind
-- [[ySl - joined]] — `يَصِلُ` · joined
-- [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
-- [[mAb - place return]] — `مَآب` · place return
 - [[nqDt - break]] — `نَقَضَتْ` · break
+- [[ySl - joined]] — `يَصِلُ` · joined
+- [[mAb - place return]] — `مَآب` · place return
+- [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
+- [[hAd - guide]] — `هاد` · guide
+- [[qdr - restricts]] — `قَدَر` · restricts
 - [[Zl - shade]] — `ظِلّ` · shade
-- [[Hsn - good]] — `حُسْن` · good
-- [[Avnyn - two]] — `اثْنَيْن` · two
-- [[HfZ - guard]] — `حِفْظ` · guard
+- [[>wqd - they kindled]] — `أَوْقَدُ` · they kindled
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[HyAp - life]] — `حَياة` · life
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[Zlm - wronged]] — `ظَلَمَ` · wronged
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[lyl - night]] — `لَيْل` · night
-- [[jAdl - dispute]] — `جادَلُ` · dispute
+- [[Zlmp - darknesses]] — `ظُلُمَة` · darknesses
+- [[jmyE - all]] — `جَمِيع` · all
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[bAlg - reaching]] — `بالِغ` · reaching
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>rHAm - wombs]] — `أَرْحام` · wombs
+- [[>rD - earth]] — `أَرْض` · earth
 - [[wjh - faces]] — `وَجْه` · faces
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[qA}m - standing]] — `قائِم` · standing
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[Er$ - throne]] — `عَرْش` · throne
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[TwE - willingly]] — `طَوْع` · willingly
+- [[xAlq - creator]] — `خالِق` · creator
+- [[xwf - fear]] — `خَوْف` · fear
+- [[qmr - moon]] — `قَمَر` · moon
 
 ## Roots
 
-- [[$bh - shbh]]
+- [[$bh - likeness resemblance]]
 - [[$dd - severe]]
-- [[$hd - shhd]]
+- [[$hd - witnessing]]
 - [[$ms - horse refusing ridden]]
 - [[$qq - cleave]]
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*rr - scattering dispersing small]]
-- [[>*n - adhn]]
+- [[>*n - ear]]
 - [[>Sl - foundational part something]]
-- [[>bw - abw]]
+- [[>bw - forefathers]]
 - [[>jl - term]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
+- [[>ns - mankind]]
 - [[>nv - female]]
-- [[>rD - ard]]
+- [[>rD - earth]]
 - [[>ty - give]]
 - [[>wb - return]]
 - [[>wy - betake oneself place]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[Drb - tent]]
+- [[Drb - strike beat]]
 - [[Drr - adversity]]
-- [[E*b - edhb]]
+- [[E*b - motes particles floating]]
 - [[Ebd - worship]]
-- [[Ehd - ehd]]
+- [[Ehd - protection safeguard]]
 - [[Ejb - amazing]]
-- [[Ejl - ejl]]
+- [[Ejl - incite cause someone]]
 - [[Elm - knowledge]]
 - [[Eln - make something open]]
 - [[Elw - superiority]]
 - [[Emd - tent pole column]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emy - blindness]]
-- [[Enb - enb]]
+- [[Enb - grapes]]
 - [[End - near]]
 - [[Enq - like summer age]]
 - [[Eqb - heel human foot]]
-- [[Eql - eql]]
-- [[Er$ - ersh]]
-- [[Erb - erb]]
-- [[HfZ - hfzh]]
+- [[Eql - withhold restrain]]
+- [[Er$ - shaded structure]]
+- [[Erb - bedouins]]
+- [[HfZ - keep]]
 
 ## Sample (ayah 1)
 

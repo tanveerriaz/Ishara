@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:113 · [[003 Ali Imran]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They are not [all] the same; among the People of the Scripture is a community standing [in obedience], reciting the verses of Allāh during periods of the night and prostrating [in prayer].
 
 **English (Yusuf Ali):** Not all of them are alike: Of the People of the Book are a portion that stand (For the right): They rehearse the Signs of Allah all night long, and they prostrate themselves in adoration.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ بھی سب ایک جیسے نہیں ہیں ان اہلِ کتاب میں کچھ لوگ (حکمِ خدا پر) قائم بھی ہیں جو رات کے وقت خدا کی آیتیں پڑھتے اور (اس کے آگے) سجدہ کرتے ہیں
 
 [Open on Quran.com](https://quran.com/3/113)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And his wife was standing (there), and she laughed: But we gave her glad tidings of Isaac, and after him, of Jacob.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم کی بیوی (جو پاس) کھڑی تھی، ہنس پڑی تو ہم نے اس کو اسحاق کی اور اسحاق کے بعد یعقوب کی خوشخبری دی
+
 [Open on Quran.com](https://quran.com/11/71)
 
 #### 18:36 · [[018 Al-Kahf]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And I do not think the Hour will occur. And even if I should be brought back to my Lord, I will surely find better than this as a return."
 
 **English (Yusuf Ali):** "Nor do I deem that the Hour (of Judgment) will (ever) come: Even if I am brought back to my Lord, I shall surely find (there) something better in exchange."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نہ خیال کرتا ہوں کہ قیامت برپا ہو۔ اور اگر میں اپنے پروردگار کی طرف لوٹایا بھی جاؤں تو (وہاں) ضرور اس سے اچھی جگہ پاؤں گا
 
 [Open on Quran.com](https://quran.com/18/36)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When we give him a taste of some Mercy from Ourselves, after some adversity has touched him, he is sure to say, "This is due to my (merit): I think not that the Hour (of Judgment) will (ever) be established; but if I am brought back to my Lord, I have (much) good (stored) in His sight!" But We will show the Unbelievers the truth of all that they did, and We shall give them the taste of a severe Penalty.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تکلیف پہنچنے کے بعد ہم اس کو اپنی رحمت کا مزہ چکھاتے ہیں تو کہتا ہے کہ یہ تو میرا حق تھا اور میں نہیں خیال کرتا کہ قیامت برپا ہو۔ اور اگر (قیامت سچ مچ بھی ہو اور) میں اپنے پروردگار کی طرف لوٹایا بھی جاؤں تو میرے لئے اس کے ہاں بھی خوشحالی ہے۔ پس کافر جو عمل کیا کرتے وہ ہم ان کو ضرور جتائیں گے اور ان کو سخت عذاب کا مزہ چکھائیں گے
+
 [Open on Quran.com](https://quran.com/41/50)
 
 #### 59:5 · [[059 Al-Hashr]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient.
 
 **English (Yusuf Ali):** Whether ye cut down (O ye Muslim!) The tender palm-trees, or ye left them standing on their roots, it was by leave of Allah, and in order that He might cover with shame the rebellious transgresses.
+
+**Urdu (Fatah Muhammad Jalandhari):** (مومنو) کھجور کے جو درخت تم نے کاٹ ڈالے یا ان کو اپنی جڑوں پر کھڑا رہنے دیا سو خدا کے حکم سے تھا اور مقصود یہ تھا کہ وہ نافرمانوں کو رسوا کرے
 
 [Open on Quran.com](https://quran.com/59/5)
 

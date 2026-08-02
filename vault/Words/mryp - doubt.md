@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mry - mry]]
+- [[mry - stroke rub]]
 
 ### Meaning
 **doubt** · Lemma **مِرْيَة**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:17 · [[011 Hud]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So is one who [stands] upon a clear evidence from his Lord [like the aforementioned]? And a witness from Him follows it, and before it was the Scripture of Moses to lead and as mercy. Those [believers in the former revelations] believe in it [i.e., the Qur’ān]. But whoever disbelieves in it from the [various] factions - the Fire is his promised destination. So be not in doubt about it. Indeed, it is the truth from your Lord, but most of the people do not believe.
 
 **English (Yusuf Ali):** Can they be (like) those who accept a Clear (Sign) from their Lord, and whom a witness from Himself doth teach, as did the Book of Moses before it,- a guide and a mercy? They believe therein; but those of the Sects that reject it,- the Fire will be their promised meeting-place. Be not then in doubt thereon: for it is the truth from thy Lord: yet many among men do not believe!
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جو لوگ اپنے پروردگار کی طرف سے (روشن) دلیل رکھتے ہوں اور ان کے ساتھ ایک (آسمانی) گواہ بھی اس کی جانب سے ہو اور اس سے پہلے موسیٰ کی کتاب ہو جو پیشوا اور رحمت ہے (تو کیا وہ قرآن پر ایمان نہیں لائیں گے) یہی لوگ اس پر ایمان لاتے ہیں اور جو کوئی اور فرقوں میں سے اس سے منکر ہو تو اس کا ٹھکانہ آگ ہے۔ تو تم اس (قرآن) سے شک میں نہ ہونا۔ یہ تمہارے پروردگار کی طرف سے حق ہے لیکن اکثر لوگ ایمان نہیں لاتے
 
 [Open on Quran.com](https://quran.com/11/17)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Be not then in doubt as to what these men worship. They worship nothing but what their fathers worshipped before (them): but verily We shall pay them back (in full) their portion without (the least) abatement.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو یہ لوگ جو (غیر خدا کی) پرستش کرتے ہیں۔ اس سے تم خلجان میں نہ پڑنا۔ یہ اسی طرح پرستش کرتے ہیں جس طرح پہلے سے ان کے باپ دادا پرستش کرتے آئے ہیں۔ اور ہم ان کو ان کا حصہ پورا پورا بلا کم وکاست دینے والے ہیں
+
 [Open on Quran.com](https://quran.com/11/109)
 
 #### 22:55 · [[022 Al-Hajj]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who disbelieve will not cease to be in doubt of it until the Hour comes upon them unexpectedly or there comes to them the punishment of a barren Day.
 
 **English (Yusuf Ali):** Those who reject Faith will not cease to be in doubt concerning (Revelation) until the Hour (of Judgment) comes suddenly upon them, or there comes to them the Penalty of a Day of Disaster.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر لوگ ہمیشہ اس سے شک میں رہیں گے یہاں تک کہ قیامت ان پر ناگہاں آجائے یا ایک نامبارک دن کا عذاب ان پر واقع ہو
 
 [Open on Quran.com](https://quran.com/22/55)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We did indeed aforetime give the Book to Moses: be not then in doubt of its reaching (thee): and We made it a guide to the Children of Israel.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسٰی کو کتاب دی تو تم اُن کے ملنے سے شک میں نہ ہونا اور ہم نے اس (کتاب) کو (یا موسٰی کو) بنی اسرائیل کے لئے( ذریعہ) ہدایت بنایا
+
 [Open on Quran.com](https://quran.com/32/23)
 
 #### 41:54 · [[041 Fussilat]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Unquestionably, they are in doubt about the meeting with their Lord. Unquestionably He is, of all things, encompassing.
 
 **English (Yusuf Ali):** Ah indeed! Are they in doubt concerning the Meeting with their Lord? Ah indeed! It is He that doth encompass all things!
+
+**Urdu (Fatah Muhammad Jalandhari):** دیکھو یہ اپنے پروردگار کے روبرو حاضر ہونے سے شک میں ہیں۔ سن رکھو کہ وہ ہر چیز پر احاطہ کئے ہوئے ہے
 
 [Open on Quran.com](https://quran.com/41/54)
 

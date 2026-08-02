@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:177 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
 
 **English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/177)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Allah speaketh the Truth: follow the religion of Abraham, the sane in faith; he was not of the Pagans."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ خدا نے سچ فرمایا دیا پس دین ابراہیم کی پیروی کرو جو سب سے بےتعلق ہو کر ایک (خدا) کے ہو رہے تھے اور مشرکوں سے نہ تھے
+
 [Open on Quran.com](https://quran.com/3/95)
 
 #### 3:152 · [[003 Ali Imran]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Allāh had certainly fulfilled His promise to you when you were killing them [i.e., the enemy] by His permission until [the time] when you lost courage and fell to disputing about the order [given by the Prophet (ﷺ)] and disobeyed after He had shown you that which you love. Among you are some who desire this world, and among you are some who desire the Hereafter. Then He turned you back from them [defeated] that He might test you. And He has already forgiven you, and Allāh is the possessor of bounty for the believers.
 
 **English (Yusuf Ali):** Allah did indeed fulfil His promise to you when ye with His permission Were about to annihilate your enemy,-until ye flinched and fell to disputing about the order, and disobeyed it after He brought you in sight (of the booty) which ye covet. Among you are some that hanker after this world and some that desire the Hereafter. Then did He divert you from your foes in order to test you but He forgave you: For Allah is full of grace to those who believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے اپنا وعدہ سچا کر دیا (یعنی) اس وقت جبکہ تم کافروں کو اس کے حکم سے قتل کر رہے تھے یہاں تک کہ جو تم چاہتے تھے خدا نے تم کو دکھا دیا اس کے بعد تم نے ہمت ہار دی اور حکم (پیغمبر) میں جھگڑا کرنے لگے اور اس کی نافرمانی کی بعض تو تم میں سے دنیا کے خواستگار تھے اور بعض آخرت کے طالب اس وقت خدا نے تم کو ان (کے مقابلے) سے پھیر (کر بھگا) دیا تاکہ تمہاری آزمائش کرے اور اس نے تمہارا قصور معاف کر دیا اور خدا مومنو پر بڑا فضل کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/3/152)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "We only wish to eat thereof and satisfy our hearts, and to know that thou hast indeed told us the truth; and that we ourselves may be witnesses to the miracle."
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ ہماری یہ خواہش ہے کہ ہم اس میں سے کھائیں اور ہمارے دل تسلی پائیں اور ہم جان لیں کہ تم نے ہم سے سچ کہا ہے اور ہم اس (خوان کے نزول) پر گواہ رہیں
+
 [Open on Quran.com](https://quran.com/5/113)
 
 #### 5:119 · [[005 Al-Maidah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh will say, "This is the Day when the truthful will benefit from their truthfulness." For them are gardens [in Paradise] beneath which rivers flow, wherein they will abide forever, Allāh being pleased with them, and they with Him. That is the great attainment.
 
 **English (Yusuf Ali):** Allah will say: "This is a day on which the truthful will profit from their truth: theirs are gardens, with rivers flowing beneath,- their eternal Home: Allah well-pleased with them, and they with Allah: That is the great salvation, (the fulfilment of all desires).
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا فرمائے گا کہ آج وہ دن ہے کہ راست بازوں کو ان کی سچائی ہی فائدہ دے گی ان کے لئے باغ ہیں جن کے نیچے نہریں بہہ رہی ہیں ابدالآباد ان میں بستے رہیں گے خدا ان سے خوش ہے اور وہ خدا سے خوش ہیں یہ بڑی کامیابی ہے
 
 [Open on Quran.com](https://quran.com/5/119)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The word of thy Lord doth find its fulfilment in truth and in justice: None can change His words: for He is the one who heareth and knoweth all.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے پروردگار کی باتیں سچائی اور انصاف میں پوری ہیں اس کی باتوں کو کوئی بدلنے والا نہیں اور وہ سنتا جانتا ہے
+
 [Open on Quran.com](https://quran.com/6/115)
 
 #### 9:43 · [[009 At-Tawbah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh has pardoned you, [O Muḥammad, but] why did you give them permission [to remain behind]? [You should not have] until it was evident to you who were truthful and you knew [who were] the liars.
 
 **English (Yusuf Ali):** Allah give thee grace! why didst thou grant them until those who told the truth were seen by thee in a clear light, and thou hadst proved the liars?
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہیں معاف کرے۔ تم نے پیشتر اس کے کہ تم پر وہ لوگ بھی ظاہر ہو جاتے ہیں جو سچے ہیں اور وہ بھی تمہیں معلوم ہو جاتے جو جھوٹے ہیں اُن کو اجازت کیوں دی
 
 [Open on Quran.com](https://quran.com/9/43)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Is it a matter of wonderment to men that We have sent Our inspiration to a man from among themselves?- that he should warn mankind (of their danger), and give the good news to the Believers that they have before their Lord the lofty rank of truth. (But) say the Unbelievers: "This is indeed an evident sorcerer!"
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا لوگوں کو تعجب ہوا کہ ہم نے ان ہی میں سے ایک مرد کو حکم بھیجا کہ لوگوں کو ڈر سنا دو۔ اور ایمان لانے والوں کو خوشخبری دے دو کہ ان کے پروردگار کے ہاں ان کا سچا درجہ ہے۔ (ایسے شخص کی نسبت) کافر کہتے ہیں کہ یہ صریح جادوگر ہے
+
 [Open on Quran.com](https://quran.com/10/2)
 
 #### 10:93 · [[010 Yunus]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We settled the Children of Israel in a beautiful dwelling-place, and provided for them sustenance of the best: it was after knowledge had been granted to them, that they fell into schisms. Verily Allah will judge between them as to the schisms amongst them, on the Day of Judgment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بنی اسرائیل کو رہنے کو عمدہ جگہ دی اور کھانے کو پاکیزہ چیزیں عطا کیں لیکن وہ باوجود علم ہونے کے اختلاف کرتے رہے۔ بےشک جن باتوں میں وہ اختلاف کرتے رہے ہیں تمہارا پروردگار قیامت کے دن ان میں ان باتوں کا فیصلہ کردے گا
+
 [Open on Quran.com](https://quran.com/10/93)
 
 #### 12:26 · [[012 Yusuf]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Joseph] said, "It was she who sought to seduce me." And a witness from her family testified, "If his shirt is torn from the front, then she has told the truth, and he is of the liars.
 
 **English (Yusuf Ali):** He said: "It was she that sought to seduce me - from my (true) self." And one of her household saw (this) and bore witness, (thus):- "If it be that his shirt is rent from the front, then is her tale true, and he is a liar!
+
+**Urdu (Fatah Muhammad Jalandhari):** یوسف نے کہا اسی نے مجھ کو اپنی طرف مائل کرنا چاہا تھا۔ اس کے قبیلے میں سے ایک فیصلہ کرنے والے نے فیصلہ کیا کہ اگر اس کا کرتا آگے سے پھٹا تو یہ سچی اور یوسف جھوٹا
 
 [Open on Quran.com](https://quran.com/12/26)
 

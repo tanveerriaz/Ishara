@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:130 · [[002 Al-Baqarah]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And who would be averse to the religion of Abraham except one who makes a fool of himself. And We had chosen him in this world, and indeed he, in the Hereafter, will be among the righteous.
 
 **English (Yusuf Ali):** And who turns away from the religion of Abraham but such as debase their souls with folly? Him We chose and rendered pure in this world: And he will be in the Hereafter in the ranks of the Righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم کے دین سے کون رو گردانی کر سکتا ہے، بجز اس کے جو نہایت نادان ہو۔ ہم نے ان کو دنیا میں بھی منتخب کیا تھا اور آخرت میں بھی وہ (زمرہٴ) صلحا میں سے ہوں گے
 
 [Open on Quran.com](https://quran.com/2/130)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And this was the legacy that Abraham left to his sons, and so did Jacob; "Oh my sons! Allah hath chosen the Faith for you; then die not except in the Faith of Islam."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ابرہیم نے اپنے بیٹوں کو اسی بات کی وصیت کی اور یعقوب نے بھی (اپنے فرزندوں سے یہی کہا) کہ بیٹا خدا نے تمہارے لیے یہی دین پسند فرمایا ہے تو مرنا ہے تو مسلمان ہی مرنا
+
 [Open on Quran.com](https://quran.com/2/132)
 
 #### 2:247 · [[002 Al-Baqarah]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And their prophet said to them, "Indeed, Allāh has sent to you Saul as a king." They said, "How can he have kingship over us while we are more worthy of kingship than him and he has not been given any measure of wealth?" He said, "Indeed, Allāh has chosen him over you and has increased him abundantly in knowledge and stature. And Allāh gives His sovereignty to whom He wills. And Allāh is all-Encompassing [in favor] and Knowing."
 
 **English (Yusuf Ali):** Their Prophet said to them: "Allah hath appointed Talut as king over you." They said: "How can he exercise authority over us when we are better fitted than he to exercise authority, and he is not even gifted, with wealth in abundance?" He said: "Allah hath Chosen him above you, and hath gifted him abundantly with knowledge and bodily prowess: Allah Granteth His authority to whom He pleaseth. Allah careth for all, and He knoweth all things."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبر نے ان سے (یہ بھی) کہا کہ خدا نے تم پر طالوت کو بادشاہ مقرر فرمایا ہے۔ وہ بولے کہ اسے ہم پر بادشاہی کا حق کیونکر ہوسکتا ہےبادشاہی کے مستحق تو ہم ہیں اور اس کے پاس تو بہت سی دولت بھی نہیں۔ پیغمبر نے کہا کہ خدا نےاس کو تم پر فضیلت دی ہے اور (بادشاہی کے لئے) منتخب فرمایا ہے اس نے اسے علم بھی بہت سا بخشا ہے اور تن و توش بھی (بڑا عطا کیا ہے) اور خدا (کو اختیار ہے) جسے چاہے بادشاہی بخشے۔ وہ بڑا کشائش والا اور دانا ہے
 
 [Open on Quran.com](https://quran.com/2/247)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah did choose Adam and Noah, the family of Abraham, and the family of 'Imran above all people,-
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے آدم اور نوح اور خاندان ابراہیم اور خاندان عمران کو تمام جہان کے لوگوں میں منتخب فرمایا تھا
+
 [Open on Quran.com](https://quran.com/3/33)
 
 #### 3:42 · [[003 Ali Imran]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] when the angels said, "O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds.
 
 **English (Yusuf Ali):** Behold! the angels said: "O Mary! Allah hath chosen thee and purified thee- chosen thee above the women of all nations.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب فرشتوں نے (مریم سے) کہا کہ مریم! خدا نے تم کو برگزیدہ کیا ہے اور پاک بنایا ہے اور جہان کی عورتوں میں منتخب کیا ہے
 
 [Open on Quran.com](https://quran.com/3/42)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Allah) said: "O Moses! I have chosen thee above (other) men, by the mission I (have given thee) and the words I (have spoken to thee): take then the (revelation) which I give thee, and be of those who give thanks."
 
+**Urdu (Fatah Muhammad Jalandhari):** (خدا نے) فرمایا موسیٰ میں نے تم کو اپنے پیغام اور اپنے کلام سے لوگوں سے ممتاز کیا ہے۔ تو جو میں نے تم کو عطا کیا ہے اسے پکڑ رکھو اور (میرا) شکر بجالاؤ
+
 [Open on Quran.com](https://quran.com/7/144)
 
 #### 22:75 · [[022 Al-Hajj]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh chooses from the angels messengers and from the people. Indeed, Allāh is Hearing and Seeing.
 
 **English (Yusuf Ali):** Allah chooses messengers from angels and from men for Allah is He Who hears and sees (all things).
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا فرشتوں میں سے پیغام پہنچانے والے منتخب کرلیتا ہے اور انسانوں میں سے بھی۔ بےشک خدا سننے والا (اور) دیکھنے والا ہے
 
 [Open on Quran.com](https://quran.com/22/75)
 
@@ -159,6 +173,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: Praise be to Allah, and Peace on his servants whom He has chosen (for his Message). (Who) is better?- Allah or the false gods they associate (with Him)?
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ سب تعریف خدا ہی کو سزاوار ہے اور اس کے بندوں پر سلام ہے جن کو اس نے منتخب فرمایا۔ بھلا خدا بہتر ہے یا وہ جن کو یہ (اس کا شریک) ٹھہراتے ہیں
+
 [Open on Quran.com](https://quran.com/27/59)
 
 #### 35:32 · [[035 Fatir]]
@@ -175,6 +191,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then We have given the Book for inheritance to such of Our Servants as We have chosen: but there are among them some who wrong their own souls; some who follow a middle course; and some who are, by Allah's leave, foremost in good deeds; that is the highest Grace.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے ان لوگوں کو کتاب کا وارث ٹھیرایا جن کو اپنے بندوں میں سے برگزیدہ کیا۔ تو کچھ تو ان میں سے اپنے آپ پر ظلم کرتے ہیں۔ اور کچھ میانہ رو ہیں۔ اور کچھ خدا کے حکم سے نیکیوں میں آگے نکل جانے والے ہیں۔ یہی بڑا فضل ہے
+
 [Open on Quran.com](https://quran.com/35/32)
 
 #### 37:153 · [[037 As-Saffat]]
@@ -190,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Has He chosen daughters over sons?
 
 **English (Yusuf Ali):** Did He (then) choose daughters rather than sons?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا اس نے بیٹوں کی نسبت بیٹیوں کو پسند کیا ہے؟
 
 [Open on Quran.com](https://quran.com/37/153)
 

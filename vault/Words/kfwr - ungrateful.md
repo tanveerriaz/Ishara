@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:9 · [[011 Hud]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if We give man a taste of mercy from Us and then We withdraw it from him, indeed, he is despairing and ungrateful.
 
 **English (Yusuf Ali):** If We give man a taste of Mercy from Ourselves, and then withdraw it from him, behold! he is in despair and (falls into) blasphemy.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم انسان کو اپنے پاس سے نعمت بخشیں پھر اس سے اس کو چھین لیں تو ناامید (اور) ناشکرا (ہوجاتا) ہے
 
 [Open on Quran.com](https://quran.com/11/9)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily spendthrifts are brothers of the Evil Ones; and the Evil One is to his Lord (himself) ungrateful.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہ فضول خرچی کرنے والے تو شیطان کے بھائی ہیں۔ اور شیطان اپنے پروردگار (کی نعمتوں) کا کفر ان کرنے والا (یعنی ناشکرا) ہے
+
 [Open on Quran.com](https://quran.com/17/27)
 
 #### 17:67 · [[017 Al-Isra]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when adversity touches you at sea, lost are [all] those you invoke except for Him. But when He delivers you to the land, you turn away [from Him]. And ever is man ungrateful.
 
 **English (Yusuf Ali):** When distress seizes you at sea, those that ye call upon - besides Himself - leave you in the lurch! but when He brings you back safe to land, ye turn away (from Him). Most ungrateful is man!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم کو دریا میں تکلیف پہنچتی ہے (یعنی ڈوبنے کا خوف ہوتا ہے) تو جن کو تم پکارا کرتے ہو سب اس (پروردگار) کے سوا گم ہوجاتے ہیں۔ پھر جب وہ تم کو (ڈوبنے سے) بچا کر خشکی پر لے جاتا ہے تو تم منہ پھیر لیتے ہو اور انسان ہے ہی ناشکرا
 
 [Open on Quran.com](https://quran.com/17/67)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We have explained to man, in this Qur'an, every kind of similitude: yet the greater part of men refuse (to receive it) except with ingratitude!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن میں سب باتیں طرح طرح سے بیان کردی ہیں۔ مگر اکثر لوگوں نے انکار کرنے کے سوا قبول نہ کیا
+
 [Open on Quran.com](https://quran.com/17/89)
 
 #### 17:99 · [[017 Al-Isra]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do they not see that Allāh, who created the heavens and earth, is [the one] Able to create the likes of them? And He has appointed for them a term, about which there is no doubt. But the wrongdoers refuse except disbelief.
 
 **English (Yusuf Ali):** See they not that Allah, Who created the heavens and the earth, has power to create the like of them (anew)? Only He has decreed a term appointed, of which there is no doubt. But the unjust refuse (to receive it) except with ingratitude.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ خدا جس نے آسمانوں اور زمین کو پیدا کیا ہے اس بات پر قادر ہے کہ ان جیسے (لوگ) پیدا کردے۔ اور اس نے ان کے لئے ایک وقت مقرر کر دیا ہے جس میں کچھ بھی شک نہیں۔ تو ظالموں نے انکار کرنے کے سوا (اسے) قبول نہ کیا
 
 [Open on Quran.com](https://quran.com/17/99)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily Allah will defend (from ill) those who believe: verily, Allah loveth not any that is a traitor to faith, or show ingratitude.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا تو مومنوں سے ان کے دشمنوں کو ہٹاتا رہتا ہے۔ بےشک خدا کسی خیانت کرنے والے اور کفران نعمت کرنے والے کو دوست نہیں رکھتا۔
+
 [Open on Quran.com](https://quran.com/22/38)
 
 #### 22:66 · [[022 Al-Hajj]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He is the one who gave you life; then He causes you to die and then will [again] give you life. Indeed, mankind is ungrateful.
 
 **English (Yusuf Ali):** It is He Who gave you life, will cause you to die, and will again give you life: Truly man is a most ungrateful creature!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے تم کو حیات بخشی۔ پھر تم کو مارتا ہے۔ پھر تمہیں زندہ بھی کرے گا۔ اور انسان تو بڑا ناشکر ہے
 
 [Open on Quran.com](https://quran.com/22/66)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We have distributed the (water) amongst them, in order that they may celebrate (our) praises, but most men are averse (to aught) but (rank) ingratitude.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس (قرآن کی آیتوں) کو طرح طرح سے لوگوں میں بیان کیا تاکہ نصیحت پکڑیں مگر بہت سے لوگوں نے انکار کے سوا قبول نہ کیا
+
 [Open on Quran.com](https://quran.com/25/50)
 
 #### 31:32 · [[031 Luqman]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When a wave covers them like the canopy (of clouds), they call to Allah, offering Him sincere devotion. But when He has delivered them safely to land, there are among them those that halt between (right and wrong). But none reject Our Signs except only a perfidious ungrateful (wretch)!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب اُن پر (دریا کی) لہریں سائبانوں کی طرح چھا جاتی ہیں تو خدا کو پکارنے (اور) خالص اس کی عبادت کرنے لگتے ہیں پھر جب وہ اُن کو نجات دے کر خشکی پر پہنچا دیتا ہے تو بعض ہی انصاف پر قائم رہتے ہیں۔ اور ہماری نشانیوں سے وہی انکار کرتے ہیں جو عہد شکن اور ناشکرے ہیں
+
 [Open on Quran.com](https://quran.com/31/32)
 
 #### 34:17 · [[034 Saba]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [By] that We repaid them because they disbelieved. And do We [thus] repay except the ungrateful?
 
 **English (Yusuf Ali):** That was the Requital We gave them because they ungratefully rejected Faith: and never do We give (such) requital except to such as are ungrateful rejecters.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ ہم نے ان کی ناشکری کی ان کو سزا دی۔ اور ہم سزا ناشکرے ہی کو دیا کرتے ہیں
 
 [Open on Quran.com](https://quran.com/34/17)
 

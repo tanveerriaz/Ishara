@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mhd - mhd]]
+- [[mhd - make something plain]]
 
 ### Meaning
 **cradle** · Lemma **مَهْد**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:46 · [[003 Ali Imran]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He will speak to the people in the cradle and in maturity and will be of the righteous."
 
 **English (Yusuf Ali):** "He shall speak to the people in childhood and in maturity. And he shall be (of the company) of the righteous."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ماں کی گود میں اور بڑی عمر کا ہو کر (دونوں حالتوں میں) لوگوں سے (یکساں) گفتگو کرے گا اور نیکو کاروں میں ہوگا
 
 [Open on Quran.com](https://quran.com/3/46)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then will Allah say: "O Jesus the son of Mary! Recount My favour to thee and to thy mother. Behold! I strengthened thee with the holy spirit, so that thou didst speak to the people in childhood and in maturity. Behold! I taught thee the Book and Wisdom, the Law and the Gospel and behold! thou makest out of clay, as it were, the figure of a bird, by My leave, and thou breathest into it and it becometh a bird by My leave, and thou healest those born blind, and the lepers, by My leave. And behold! thou bringest forth the dead by My leave. And behold! I did restrain the Children of Israel from (violence to) thee when thou didst show them the clear Signs, and the unbelievers among them said: 'This is nothing but evident magic.'
 
+**Urdu (Fatah Muhammad Jalandhari):** جب خدا (عیسیٰ سے) فرمائے گا کہ اے عیسیٰ بن مریم! میرے ان احسانوں کو یاد کرو جو میں نے تم پر اور تمہاری والدہ پر کئے جب میں نے روح القدس (یعنی جبرئیل) سے تمہاری مدد کی تم جھولے میں اور جوان ہو کر (ایک ہی نسق پر) لوگوں سے گفتگو کرتے تھے اور جب میں نے تم کو کتاب اور دانائی اور تورات اور انجیل سکھائی اور جب تم میرے حکم سے مٹی کا جانور بنا کر اس میں پھونک مار دیتے تھے تو وہ میرے حکم سے اڑنے لگتا تھا اور مادر زاد اندھے اور سفید داغ والے کو میرے حکم سے چنگا کر دیتے تھے اور مردے کو میرے حکم سے (زندہ کرکے قبر سے) نکال کھڑا کرتے تھے اور جب میں نے بنی اسرائیل (کے ہاتھوں) کو تم سے روک دیا جب تم ان کے پاس کھلے نشان لے کر آئے تو جو ان میں سے کافر تھے کہنے لگے کہ یہ صریح جادو ہے
+
 [Open on Quran.com](https://quran.com/5/110)
 
 #### 19:29 · [[019 Maryam]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So she pointed to him. They said, "How can we speak to one who is in the cradle a child?"
 
 **English (Yusuf Ali):** But she pointed to the babe. They said: "How can we talk to one who is a child in the cradle?"
+
+**Urdu (Fatah Muhammad Jalandhari):** تو مریم نے اس لڑکے کی طرف اشارہ کیا۔ وہ بولے کہ ہم اس سے کہ گود کا بچہ ہے کیونکر بات کریں
 
 [Open on Quran.com](https://quran.com/19/29)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "He Who has, made for you the earth like a carpet spread out; has enabled you to go about therein by roads (and channels); and has sent down water from the sky." With it have We produced diverse pairs of plants each separate from the others.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ (وہی تو ہے) جس نے تم لوگوں کے لئے زمین کو فرش بنایا اور اس میں تمہارے لئے رستے جاری کئے اور آسمان سے پانی برسایا۔ پھر اس سے انواع واقسام کی مختلف روئیدگیاں پیدا کیں
+
 [Open on Quran.com](https://quran.com/20/53)
 
 #### 43:10 · [[043 Az-Zukhruf]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Yea, the same that) has made for you the earth (like a carpet) spread out, and has made for you roads (and channels) therein, in order that ye may find guidance (on the way);
 
+**Urdu (Fatah Muhammad Jalandhari):** جس نے تمہارے لئے زمین کو بچھونا بنایا۔ اور اس میں تمہارے لئے رستے بنائے تاکہ تم راہ معلوم کرو
+
 [Open on Quran.com](https://quran.com/43/10)
 
 #### 74:14 · [[074 Al-Muddaththir]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And spread [everything] before him, easing [his life].
 
 **English (Yusuf Ali):** To whom I made (life) smooth and comfortable!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہر طرح کے سامان میں وسعت دی
 
 [Open on Quran.com](https://quran.com/74/14)
 

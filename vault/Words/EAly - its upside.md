@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:82 · [[011 Hud]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were]
 
 **English (Yusuf Ali):** When Our Decree issued, We turned (the cities) upside down, and rained down on them brimstones hard as baked clay, spread, layer on layer,-
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جب ہمارا حکم آیا ہم نے اس (بستی) کو (اُلٹ کر) نیچے اوپر کردیا اور ان پر پتھر کی تہہ بہ تہہ (یعنی پےدرپے) کنکریاں برسائیں
 
 [Open on Quran.com](https://quran.com/11/82)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We turned (the cities) upside down, and rained down on them brimstones hard as baked clay.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس شہر کو (الٹ کر) نیچے اوپر کردیا۔ اور ان پر کھنگر کی پتھریاں برسائیں
+
 [Open on Quran.com](https://quran.com/15/74)
 
 #### 23:46 · [[023 Al-Muminun]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** To Pharaoh and his establishment, but they were arrogant and were a haughty people.
 
 **English (Yusuf Ali):** To Pharaoh and his Chiefs: But these behaved insolently: they were an arrogant people.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) فرعون اور اس کی جماعت کی طرف، تو انہوں نے تکبر کیا اور وہ سرکش لوگ تھے
 
 [Open on Quran.com](https://quran.com/23/46)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Allah) said: "O Iblis! What prevents thee from prostrating thyself to one whom I have created with my hands? Art thou haughty? Or art thou one of the high (and mighty) ones?"
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے) فرمایا کہ اے ابلیس جس شخص کو میں نے اپنے ہاتھوں سے بنایا اس کے آگے سجدہ کرنے سے تجھے کس چیز نے منع کیا۔ کیا تو غرور میں آگیا یا اونچے درجے والوں میں تھا؟
+
 [Open on Quran.com](https://quran.com/38/75)
 
 #### 44:31 · [[044 Ad-Dukhan]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Inflicted by Pharaoh, for he was arrogant (even) among inordinate transgressors.
 
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) فرعون سے۔ بےشک وہ سرکش (اور) حد سے نکلا ہوا تھا
+
 [Open on Quran.com](https://quran.com/44/31)
 
 #### 76:21 · [[076 Al-Insan]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Upon them [i.e., the inhabitants] will be green garments of fine silk and brocade. And they will be adorned with bracelets of silver, and their Lord will give them a purifying drink.
 
 **English (Yusuf Ali):** Upon them will be green Garments of fine silk and heavy brocade, and they will be adorned with Bracelets of silver; and their Lord will give to them to drink of a Wine Pure and Holy.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان (کے بدنوں) پر دیبا سبز اور اطلس کے کپڑے ہوں گے۔ اور انہیں چاندی کے کنگن پہنائے جائیں گے اور ان کا پروردگار ان کو نہایت پاکیزہ شراب پلائے گا
 
 [Open on Quran.com](https://quran.com/76/21)
 

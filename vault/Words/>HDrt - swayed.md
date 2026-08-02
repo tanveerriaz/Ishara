@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[HDr - hdr]]
+- [[HDr - present]]
 
 ### Meaning
 **swayed** · Lemma **أَحْضَرَتْ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:128 · [[004 An-Nisa]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if a woman fears from her husband contempt or evasion, there is no sin upon them if they make terms of settlement between them - and settlement is best. And present in [human] souls is stinginess. But if you do good and fear Allāh - then indeed Allāh is ever, of what you do, Aware.
 
 **English (Yusuf Ali):** If a wife fears cruelty or desertion on her husband's part, there is no blame on them if they arrange an amicable settlement between themselves; and such settlement is best; even though men's souls are swayed by greed. But if ye do good and practise self-restraint, Allah is well-acquainted with all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر کسی عورت کو اپنے خاوند کی طرف سے زیادتی یا بےرغبتی کا اندیشہ ہو تم میاں بیوی پر کچھ گناہ نہیں کہ آپس میں کسی قرارداد پر صلح کرلیں۔ اور صلح خوب (چیز) ہے اور طبیعتیں تو بخل کی طرف مائل ہوتی ہیں اور اگر تم نیکوکاری اور پرہیزگاری کرو گے تو خدا تمہارے سب کاموں سے واقف ہے
 
 [Open on Quran.com](https://quran.com/4/128)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So, by thy Lord, without doubt, We shall gather them together, and (also) the Evil Ones (with them); then shall We bring them forth on their knees round about Hell;
 
+**Urdu (Fatah Muhammad Jalandhari):** تمہارے پروردگار کی قسم! ہم ان کو جمع کریں گے اور شیطانوں کو بھی۔ پھر ان سب کو جہنم کے گرد حاضر کریں گے (اور وہ) گھٹنوں پر گرے ہوئے (ہوں گے)
+
 [Open on Quran.com](https://quran.com/19/68)
 
 #### 81:14 · [[081 At-Takwir]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** A soul will [then] know what it has brought [with it].
 
 **English (Yusuf Ali):** (Then) shall each soul know what it has put forward.
+
+**Urdu (Fatah Muhammad Jalandhari):** تب ہر شخص معلوم کر لے گا کہ وہ کیا لے کر آیا ہے
 
 [Open on Quran.com](https://quran.com/81/14)
 

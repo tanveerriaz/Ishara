@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:129 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Our Lord, and send among them a messenger from themselves who will recite to them Your verses and teach them the Book and wisdom and purify them. Indeed, You are the Exalted in Might, the Wise."
 
 **English (Yusuf Ali):** "Our Lord! send amongst them a Messenger of their own, who shall rehearse Thy Signs to them and instruct them in scripture and wisdom, and sanctify them: For Thou art the Exalted in Might, the Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار، ان (لوگوں) میں انہیں میں سے ایک پیغمبر مبعوث کیجیو جو ان کو تیری آیتیں پڑھ پڑھ کر سنایا کرے اور کتاب اور دانائی سکھایا کرے اور ان (کے دلوں) کو پاک صاف کیا کرے۔ بےشک تو غالب اور صاحبِ حکمت ہے
 
 [Open on Quran.com](https://quran.com/2/129)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If ye backslide after the clear (Signs) have come to you, then know that Allah is Exalted in Power, Wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر اگر تم احکام روشن پہنچ جانے کے بعد لڑکھڑاجاؤ تو جان جاؤ کہ خدا غالب (اور) حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/2/209)
 
 #### 2:220 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** To this world and the Hereafter. And they ask you about orphans. Say, "Improvement for them is best. And if you mix your affairs with theirs - they are your brothers. And Allāh knows the corrupter from the amender. And if Allāh had willed, He could have put you in difficulty. Indeed, Allāh is Exalted in Might and Wise."
 
 **English (Yusuf Ali):** (Their bearings) on this life and the Hereafter. They ask thee concerning orphans. Say: "The best thing to do is what is for their good; if ye mix their affairs with yours, they are your brethren; but Allah knows the man who means mischief from the man who means good. And if Allah had wished, He could have put you into difficulties: He is indeed Exalted in Power, Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) دنیا اور آخرت (کی باتوں) میں (غور کرو)۔ اور تم سے یتیموں کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان کی (حالت کی) اصلاح بہت اچھا کام ہے۔ اور اگر تم ان سے مل جل کر رہنا (یعنی خرچ اکھٹا رکھنا) چاہو تو وہ تمہارے بھائی ہیں اور خدا خوب جانتا ہے کہ خرابی کرنے والا کون ہے اور اصلاح کرنے والا کون۔ اور اگر خدا چاہتا تو تم کو تکلیف میں ڈال دیتا۔بےشک خدا غالب (اور) حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/2/220)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Divorced women shall wait concerning themselves for three monthly periods. Nor is it lawful for them to hide what Allah Hath created in their wombs, if they have faith in Allah and the Last Day. And their husbands have the better right to take them back in that period, if they wish for reconciliation. And women shall have rights similar to the rights against them, according to what is equitable; but men have a degree (of advantage) over them. And Allah is Exalted in Power, Wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
+
 [Open on Quran.com](https://quran.com/2/228)
 
 #### 2:240 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who are taken in death among you and leave wives behind - for their wives is a bequest: maintenance for one year without turning [them] out. But if they leave [of their own accord], then there is no blame upon you for what they do with themselves in an acceptable way. And Allāh is Exalted in Might and Wise.
 
 **English (Yusuf Ali):** Those of you who die and leave widows should bequeath for their widows a year's maintenance and residence; but if they leave (The residence), there is no blame on you for what they do with themselves, provided it is reasonable. And Allah is Exalted in Power, Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم میں سے مرجائیں اور عورتیں چھوڑ جائیں وہ اپنی عورتوں کے حق میں وصیت کرجائیں کہ ان کو ایک سال تک خرچ دیا جائے اور گھر سے نہ نکالی جائیں۔ ہاں اگر وہ خود گھر سے نکل جائیں اور اپنے حق میں پسندیدہ کام (یعنی نکاح) کرلیں تو تم پر کچھ گناہ نہیں۔ اور خدا زبردست حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/2/240)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When Abraham said: "Show me, Lord, how You will raise the dead, " He replied: "Have you no faith?" He said "Yes, but just to reassure my heart." Allah said, "Take four birds, draw them to you, and cut their bodies to pieces. Scatter them over the mountain-tops, then call them back. They will come swiftly to you. Know that Allah is Mighty, Wise."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے (خدا سے) کہا کہ اے پروردگار مجھے دکھا کہ تو مردوں کو کیونکر زندہ کرے گا۔ خدا نے فرمایا کیا تم نے (اس بات کو) باور نہیں کیا۔ انہوں نے کہا کیوں نہیں۔ لیکن (میں دیکھنا) اس لئے (چاہتا ہوں) کہ میرا دل اطمینان کامل حاصل کرلے۔ خدا نے فرمایا کہ چار جانور پکڑوا کر اپنے پاس منگا لو (اور ٹکڑے ٹکڑے کرادو) پھر ان کا ایک ٹکڑا ہر ایک پہاڑ پر رکھوا دو پھر ان کو بلاؤ تو وہ تمہارے پاس دوڑتے چلے آئیں گے۔ اور جان رکھو کہ خدا غالب اور صاحب حکمت ہے۔
+
 [Open on Quran.com](https://quran.com/2/260)
 
 #### 3:4 · [[003 Ali Imran]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Before, as guidance for the people. And He revealed the Criterion [i.e., the Qur’ān]. Indeed, those who disbelieve in the verses of Allāh will have a severe punishment, and Allāh is Exalted in Might, the Owner of Retribution.
 
 **English (Yusuf Ali):** before this, as a guide to mankind, and He sent down the criterion (of judgment between right and wrong). Then those who reject Faith in the Signs of Allah will suffer the severest penalty, and Allah is Exalted in Might, Lord of Retribution.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) لوگوں کی ہدایت کے لیے پہلے (تورات اور انجیل اتاری) اور (پھر قرآن جو حق اور باطل کو) الگ الگ کر دینے والا (ہے) نازل کیا جو لوگ خدا کی آیتوں کا انکار کرتے ہیں ان کو سخت عذاب ہوگا اور خدا زبردست (اور) بدلہ لینے والا ہے
 
 [Open on Quran.com](https://quran.com/3/4)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He it is Who shapes you in the wombs as He pleases. There is no god but He, the Exalted in Might, the Wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جو (ماں کے پیٹ میں) جیسی چاہتا ہے تمہاری صورتیں بناتا ہے اس غالب حکمت والے کے سوا کوئی عبادت کے لائق نہیں
+
 [Open on Quran.com](https://quran.com/3/6)
 
 #### 3:18 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There is no god but He: That is the witness of Allah, His angels, and those endued with knowledge, standing firm on justice. There is no god but He, the Exalted in Power, the Wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا تو اس بات کی گواہی دیتا ہے کہ اس کے سوا کوئی معبود نہیں اور فرشتے اور علم والے لوگ جو انصاف پر قائم ہیں وہ بھی (گواہی دیتے ہیں کہ) اس غالب حکمت والے کے سوا کوئی عبادت کے لائق نہیں
+
 [Open on Quran.com](https://quran.com/3/18)
 
 #### 3:62 · [[003 Ali Imran]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, this is the true narration. And there is no deity except Allāh. And indeed, Allāh is the Exalted in Might, the Wise.
 
 **English (Yusuf Ali):** This is the true account: There is no god except Allah; and Allah-He is indeed the Exalted in Power, the Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ تمام بیانات صحیح ہیں اور خدا کے سوا کوئی معبود نہیں اور بیشک خدا غالب اور صاحبِ حکمت ہے
 
 [Open on Quran.com](https://quran.com/3/62)
 

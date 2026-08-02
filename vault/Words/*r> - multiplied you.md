@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:136 · [[006 Al-Anam]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they [i.e., the polytheists] assign to Allāh from that which He created of crops and livestock a share and say, "This is for Allāh," by their claim, "and this is for our 'partners' [associated with Him]." But what is for their "partners" does not reach Allāh, while what is for Allāh - this reaches their "partners." Evil is that which they rule.
 
 **English (Yusuf Ali):** Out of what Allah hath produced in abundance in tilth and in cattle, they assigned Him a share: they say, according to their fancies: "This is for Allah, and this" - for our "partners"! but the share of their" partners "reacheth not Allah, whilst the share of Allah reacheth their "partners"! evil (and unjust) is their assignment!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (یہ لوگ) خدا ہی کی پیدا کی ہوئی چیزوں یعنی کھیتی اور چوپایوں میں خدا کا بھی ایک حصہ مقرر کرتے ہیں اور اپنے خیال (باطل) سے کہتے ہیں کہ یہ (حصہ) تو خدا کا اور یہ ہمارے شریکوں (یعنی بتوں) کا تو جو حصہ ان کے شریکوں کا ہوتا ہے وہ تو خدا کی طرف نہیں جا سکتا اور جو حصہ خدا کا ہوتا ہے وہ ان کے شریکوں کی طرف جا سکتا ہے یہ کیسا برا انصاف ہے
 
 [Open on Quran.com](https://quran.com/6/136)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Many are the Jinns and men we have made for Hell: They have hearts wherewith they understand not, eyes wherewith they see not, and ears wherewith they hear not. They are like cattle,- nay more misguided: for they are heedless (of warning).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بہت سے جن اور انسان دوزخ کے لیے پیدا کیے ہیں۔ ان کے دل ہیں لیکن ان سے سمجھتے نہیں اور ان کی آنکھیں ہیں مگر ان سے دیکھتے نہیں اور ان کے کان ہیں پر ان سے سنتے نہیں۔ یہ لوگ بالکل چارپایوں کی طرح ہیں بلکہ ان سے بھی بھٹکے ہوئے۔ یہی وہ ہیں جو غفلت میں پڑے ہوئے ہیں
+
 [Open on Quran.com](https://quran.com/7/179)
 
 #### 16:13 · [[016 An-Nahl]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [He has subjected] whatever He multiplied for you on the earth of varying colors. Indeed in that is a sign for a people who remember.
 
 **English (Yusuf Ali):** And the things on this earth which He has multiplied in varying colours (and qualities): verily in this is a sign for men who celebrate the praises of Allah (in gratitude).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو طرح طرح کے رنگوں کی چیزیں اس نے زمین میں پیدا کیں (سب تمہارے زیر فرمان کردیں) نصیحت پکڑنے والوں کے لیے اس میں نشانی ہے
 
 [Open on Quran.com](https://quran.com/16/13)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And He has multiplied you through the earth, and to Him shall ye be gathered back.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے تم کو زمین میں پیدا کیا اور اسی کی طرف تم جمع ہو کر جاؤ گے
+
 [Open on Quran.com](https://quran.com/23/79)
 
 #### 42:11 · [[042 Ash-Shuraa]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (He is) the Creator of the heavens and the earth: He has made for you pairs from among yourselves, and pairs among cattle: by this means does He multiply you: there is nothing whatever like unto Him, and He is the One that hears and sees (all things).
 
+**Urdu (Fatah Muhammad Jalandhari):** آسمانوں اور زمین کا پیدا کرنے والا (وہی ہے)۔ اسی نے تمہارے لئے تمہاری ہی جنس کے جوڑے بنائے اور چارپایوں کے بھی جوڑے (بنائے اور) اسی طریق پر تم کو پھیلاتا رہتا ہے۔ اس جیسی کوئی چیز نہیں۔ اور وہ دیکھتا سنتا ہے
+
 [Open on Quran.com](https://quran.com/42/11)
 
 #### 67:24 · [[067 Al-Mulk]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "It is He who has multiplied you throughout the earth, and to Him you will be gathered."
 
 **English (Yusuf Ali):** Say: "It is He Who has multiplied you through the earth, and to Him shall ye be gathered together."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ وہی ہے جس نے تم کو زمین میں پھیلایا اور اسی کے روبرو تم جمع کئے جاؤ گے
 
 [Open on Quran.com](https://quran.com/67/24)
 

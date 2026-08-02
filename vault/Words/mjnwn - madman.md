@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jnn - jann]]
+- [[jnn - cover]]
 
 ### Meaning
 **madman** · Lemma **مَجْنُون**
@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 15:6 · [[015 Al-Hijr]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they say, "O you upon whom the message has been sent down, indeed you are mad.
 
 **English (Yusuf Ali):** They say: "O thou to whom the Message is being revealed! truly thou art mad (or possessed)!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کفار کہتے ہیں کہ اے شخص جس پر نصیحت (کی کتاب) نازل ہوئی ہے تُو تو دیوانہ ہے
 
 [Open on Quran.com](https://quran.com/15/6)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Pharaoh) said: "Truly your messenger who has been sent to you is a veritable madman!"
 
+**Urdu (Fatah Muhammad Jalandhari):** (فرعون نے) کہا کہ (یہ) پیغمبر جو تمہاری طرف بھیجا گیا ہے باؤلا ہے
+
 [Open on Quran.com](https://quran.com/26/27)
 
 #### 37:36 · [[037 As-Saffat]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And were saying, "Are we to leave our gods for a mad poet?"
 
 **English (Yusuf Ali):** And say: "What! shall we give up our gods for the sake of a Poet possessed?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے تھے کہ بھلا ہم ایک دیوانے شاعر کے کہنے سے کہیں اپنے معبودوں کو چھوڑ دینے والے ہیں
 
 [Open on Quran.com](https://quran.com/37/36)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Yet they turn away from him and say: "Tutored (by others), a man possessed!"
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر انہوں نے ان سے منہ پھیر لیا اور کہنے لگے (یہ تو) پڑھایا ہوا (اور) دیوانہ ہے
+
 [Open on Quran.com](https://quran.com/44/14)
 
 #### 51:39 · [[051 Adh-Dhariyat]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But he turned away with his supporters and said, "A magician or a madman."
 
 **English (Yusuf Ali):** But (Pharaoh) turned back with his Chiefs, and said, "A sorcerer, or one possessed!"
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اس نے اپنی جماعت (کے گھمنڈ) پر منہ موڑ لیا اور کہنے لگا یہ تو جادوگر ہے یا دیوانہ
 
 [Open on Quran.com](https://quran.com/51/39)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Similarly, no messenger came to the Peoples before them, but they said (of him) in like manner, "A sorcerer, or one possessed"!
 
+**Urdu (Fatah Muhammad Jalandhari):** اسی طرح ان سے پہلے لوگوں کے پاس جو پیغمبر آتا وہ اس کو جادوگر یا دیوانہ کہتے
+
 [Open on Quran.com](https://quran.com/51/52)
 
 #### 52:29 · [[052 At-Tur]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So remind, [O Muḥammad], for you are not, by the favor of your Lord, a soothsayer or a madman.
 
 **English (Yusuf Ali):** Therefore proclaim thou the praises (of thy Lord): for by the Grace of thy Lord, thou art no (vulgar) soothsayer, nor art thou one possessed.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو (اے پیغمبر) تم نصیحت کرتے رہو تم اپنے پروردگار کے فضل سے نہ تو کاہن ہو اور نہ دیوانے
 
 [Open on Quran.com](https://quran.com/52/29)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Before them the People of Noah rejected (their messenger): they rejected Our servant, and said, "Here is one possessed!", and he was driven out.
 
+**Urdu (Fatah Muhammad Jalandhari):** ان سے پہلے نوحؑ کی قوم نے بھی تکذیب کی تھی تو انہوں نے ہمارے بندے کو جھٹلایا اور کہا کہ دیوانہ ہے اور انہیں ڈانٹا بھی
+
 [Open on Quran.com](https://quran.com/54/9)
 
 #### 68:2 · [[068 Al-Qalam]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thou art not, by the Grace of thy Lord, mad or possessed.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہ (اے محمدﷺ) تم اپنے پروردگار کے فضل سے دیوانے نہیں ہو
+
 [Open on Quran.com](https://quran.com/68/2)
 
 #### 68:51 · [[068 Al-Qalam]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And indeed, those who disbelieve would almost make you slip with their eyes [i.e., looks] when they hear the message, and they say, "Indeed, he is mad."
 
 **English (Yusuf Ali):** And the Unbelievers would almost trip thee up with their eyes when they hear the Message; and they say: "Surely he is possessed!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر جب (یہ) نصیحت (کی کتاب) سنتے ہیں تو یوں لگتے ہیں کہ تم کو اپنی نگاہوں سے پھسلا دیں گے اور کہتے یہ تو دیوانہ ہے
 
 [Open on Quran.com](https://quran.com/68/51)
 

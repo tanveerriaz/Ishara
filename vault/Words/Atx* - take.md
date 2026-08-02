@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:51 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We made an appointment with Moses for forty nights. Then you took [for worship] the calf after him [i.e., his departure], while you were wrongdoers.
 
 **English (Yusuf Ali):** And remember We appointed forty nights for Moses, and in his absence ye took the calf (for worship), and ye did grievous wrong.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے موسیٰ سے چالیس رات کا وعدہ کیا تو تم نے ان کے پیچھے بچھڑے کو (معبود) مقرر کر لیا اور تم ظلم کر رہے تھے
 
 [Open on Quran.com](https://quran.com/2/51)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember Moses said to his people: "Allah commands that ye sacrifice a heifer." They said: "Makest thou a laughing-stock of us?" He said: "Allah save me from being an ignorant (fool)!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لوگوں سے کہا کہ خدا تم کو حکم دیتا ہے کہ ایک بیل ذبح کرو۔ وہ بولے، کیا تم ہم سے ہنسی کرتے ہو۔ (موسیٰ نے) کہا کہ میں الله کی پناہ مانگتا ہوں کہ نادان بنوں
+
 [Open on Quran.com](https://quran.com/2/67)
 
 #### 2:80 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they say, "Never will the Fire touch us, except for [a few] numbered days." Say, "Have you taken a covenant with Allāh? For Allāh will never break His covenant. Or do you say about Allāh that which you do not know?"
 
 **English (Yusuf Ali):** And they say: "The Fire shall not touch us but for a few numbered days:" Say: "Have ye taken a promise from Allah, for He never breaks His promise? or is it that ye say of Allah what ye do not know?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ (دوزخ کی) آگ ہمیں چند روز کے سوا چھو ہی نہیں سکے گی۔ ان سے پوچھو، کیا تم نے خدا سے اقرار لے رکھا ہے کہ خدا اپنے اقرار کے خلاف نہیں کرے گا۔ (نہیں)، بلکہ تم خدا کے بارے میں ایسی باتیں کہتے ہو جن کا تمہیں مطلق علم نہیں
 
 [Open on Quran.com](https://quran.com/2/80)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There came to you Moses with clear (Signs); yet ye worshipped the calf (Even) after that, and ye did behave wrongfully.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ تمہارے پاس کھلے ہوئے معجزات لے کر آئے تو تم ان کے (کوہِ طور جانے کے) بعد بچھڑے کو معبود بنا بیٹھے اور تم (اپنے ہی حق میں) ظلم کرتے تھے
+
 [Open on Quran.com](https://quran.com/2/92)
 
 #### 2:116 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They say, "Allāh has taken a son." Exalted is He! Rather, to Him belongs whatever is in the heavens and the earth. All are devoutly obedient to Him,
 
 **English (Yusuf Ali):** They say: "Allah hath begotten a son": Glory be to Him.-Nay, to Him belongs all that is in the heavens and on earth: everything renders worship to Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ اس بات کے قائل ہیں کہ خدا اولاد رکھتا ہے۔ (نہیں) وہ پاک ہے، بلکہ جو کچھ آسمانوں اور زمین میں ہے، سب اسی کا ہے اور سب اس کے فرماں بردار ہیں
 
 [Open on Quran.com](https://quran.com/2/116)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Remember We made the House a place of assembly for men and a place of safety; and take ye the station of Abraham as a place of prayer; and We covenanted with Abraham and Isma'il, that they should sanctify My House for those who compass it round, or use it as a retreat, or bow, or prostrate themselves (therein in prayer).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے خانہٴ کعبہ کو لوگوں کے لیے جمع ہونے اور امن پانے کی جگہ مقرر کیا اور (حکم دیا کہ) جس مقام پر ابراہیم کھڑے ہوئے تھے، اس کو نماز کی جگہ بنا لو۔ اور ابراہیم اور اسمٰعیل کو کہا کہ طواف کرنے والوں اور اعتکاف کرنے والوں اور رکوع کرنے والوں اور سجدہ کرنے والوں کے لیے میرے گھر کو پاک صاف رکھا کرو
+
 [Open on Quran.com](https://quran.com/2/125)
 
 #### 2:165 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [yet], among the people are those who take other than Allāh as equals [to Him]. They love them as they [should] love Allāh. But those who believe are stronger in love for Allāh. And if only they who have wronged would consider [that] when they see the punishment, [they will be certain] that all power belongs to Allāh and that Allāh is severe in punishment.
 
 **English (Yusuf Ali):** Yet there are men who take (for worship) others besides Allah, as equal (with Allah): They love them as they should love Allah. But those of Faith are overflowing in their love for Allah. If only the unrighteous could see, behold, they would see the penalty: that to Allah belongs all power, and Allah will strongly enforce the penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض لوگ ایسے ہیں جو غیر خدا کو شریک (خدا) بناتے اور ان سے خدا کی سی محبت کرتے ہیں۔ لیکن جو ایمان والے ہیں وہ تو خدا ہی کے سب سے زیادہ دوستدار ہیں۔ اور اے کاش ظالم لوگ جو بات عذاب کے وقت دیکھیں گے اب دیکھ لیتے کہ سب طرح کی طاقت خدا ہی کو ہے۔ اور یہ کہ خدا سخت عذاب کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/2/165)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When ye divorce women, and they fulfil the term of their ('Iddat), either take them back on equitable terms or set them free on equitable terms; but do not take them back to injure them, (or) to take undue advantage; if any one does that; He wrongs his own soul. Do not treat Allah's Signs as a jest, but solemnly rehearse Allah's favours on you, and the fact that He sent down to you the Book and Wisdom, for your instruction. And fear Allah, and know that Allah is well acquainted with all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم عورتوں کو (دو دفعہ) طلاق دے چکو اور ان کی عدت پوری ہوجائے تو انہیں یا تو حسن سلوک سے نکاح میں رہنے دو یا بطریق شائستہ رخصت کردو اور اس نیت سے ان کو نکاح میں نہ رہنے دینا چاہئے کہ انہیں تکلیف دو اور ان پر زیادتی کرو۔ اور جو ایسا کرے گا وہ اپنا ہی نقصان کرے گا اور خدا کے احکام کو ہنسی (اور کھیل) نہ بناؤ اور خدا نے تم کو جو نعمتیں بخشی ہیں اور تم پر جو کتاب اور دانائی کی باتیں نازل کی ہیں جن سے وہ تمہیں نصیحت فرماتا ہے ان کو یاد کرو۔ اور خدا سے ڈرتے رہو اور جان رکھوکہ خدا ہر چیز سے واقف ہے
+
 [Open on Quran.com](https://quran.com/2/231)
 
 #### 3:28 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Let not the believers Take for friends or helpers Unbelievers rather than believers: if any do that, in nothing will there be help from Allah: except by way of precaution, that ye may Guard yourselves from them. But Allah cautions you (To remember) Himself; for the final goal is to Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** مؤمنوں کو چاہئے کہ مؤمنوں کے سوا کافروں کو دوست نہ بنائیں اور جو ایسا کرے گا اس سے خدا کا کچھ (عہد) نہیں ہاں اگر اس طریق سے تم ان (کے شر) سے بچاؤ کی صورت پیدا کرو (تو مضائقہ نہیں) اور خدا تم کو اپنے (غضب) سے ڈراتا ہے اور خدا ہی کی طرف (تم کو) لوٹ کر جانا ہے
+
 [Open on Quran.com](https://quran.com/3/28)
 
 #### 3:64 · [[003 Ali Imran]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh." But if they turn away, then say, "Bear witness that we are Muslims [submitting to Him]."
 
 **English (Yusuf Ali):** Say: "O People of the Book! come to common terms as between us and you: That we worship none but Allah; that we associate no partners with him; that we erect not, from among ourselves, Lords and patrons other than Allah." If then they turn back, say ye: "Bear witness that we (at least) are Muslims (bowing to Allah's Will).
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اے اہل کتاب جو بات ہمارے اور تمہارے دونوں کے درمیان یکساں (تسلیم کی گئی) ہے اس کی طرف آؤ وہ یہ کہ خدا کے سوا ہم کسی کی عبادت نہ کریں اور اس کے ساتھ کسی چیز کو شریک نہ بنائیں اور ہم میں سے کوئی کسی کو خدا کے سوا اپنا کار ساز نہ سمجھے اگر یہ لوگ (اس بات کو) نہ مانیں تو (ان سے) کہہ دو کہ تم گواہ رہو کہ ہم (خدا کے) فرماں بردار ہیں
 
 [Open on Quran.com](https://quran.com/3/64)
 

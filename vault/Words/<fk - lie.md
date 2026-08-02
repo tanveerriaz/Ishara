@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>fk - afk]]
+- [[>fk - turn something away]]
 
 ### Meaning
 **lie** · Lemma **إِفْك**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 24:11 · [[024 An-Nur]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who came with falsehood are a group among you. Do not think it bad for you; rather, it is good for you. For every person among them is what [punishment] he has earned from the sin, and he who took upon himself the greater portion thereof - for him is a great punishment [i.e., Hellfire].
 
 **English (Yusuf Ali):** Those who brought forward the lie are a body among yourselves: think it not to be an evil to you; On the contrary it is good for you: to every man among them (will come the punishment) of the sin that he earned, and to him who took on himself the lead among them, will be a penalty grievous.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے بہتان باندھا ہے تم ہی میں سے ایک جماعت ہے اس کو اپنے حق میں برا نہ سمجھنا۔ بلکہ وہ تمہارے لئے اچھا ہے۔ ان میں سے جس شخص نے گناہ کا جتنا حصہ لیا اس کے لئے اتنا ہی وبال ہے۔ اور جس نے ان میں سے اس بہتان کا بڑا بوجھ اٹھایا ہے اس کو بڑا عذاب ہوگا
 
 [Open on Quran.com](https://quran.com/24/11)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Why did not the believers - men and women - when ye heard of the affair,- put the best construction on it in their own minds and say, "This (charge) is an obvious lie"?
 
+**Urdu (Fatah Muhammad Jalandhari):** جب تم نے وہ بات سنی تھی تو مومن مردوں اور عورتوں نے کیوں اپنے دلوں میں نیک گمان نہ کیا۔ اور کیوں نہ کہا کہ یہ صریح طوفان ہے
+
 [Open on Quran.com](https://quran.com/24/12)
 
 #### 25:4 · [[025 Al-Furqan]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who disbelieve say, "This [Qur’ān] is not except a falsehood he invented, and another people assisted him in it." But they have committed an injustice and a lie.
 
 **English (Yusuf Ali):** But the misbelievers say: "Naught is this but a lie which he has forged, and others have helped him at it." In truth it is they who have put forward an iniquity and a falsehood.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر کہتے ہیں کہ یہ (قرآن) من گھڑت باتیں ہی جو اس (مدعی رسالت) نے بنالی ہیں۔ اور لوگوں نے اس میں اس کی مدد کی ہے۔ یہ لوگ (ایسا کہنے سے) ظلم اور جھوٹ پر (اُتر) آئے ہیں
 
 [Open on Quran.com](https://quran.com/25/4)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "For ye do worship idols besides Allah, and ye invent falsehood. The things that ye worship besides Allah have no power to give you sustenance: then seek ye sustenance from Allah, serve Him, and be grateful to Him: to Him will be your return.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو تم خدا کو چھوڑ کر بتوں کو پوجتے اور طوفان باندھتے ہو تو جن لوگوں کو تم خدا کے سوا پوجتے ہو وہ تم کو رزق دینے کا اختیار نہیں رکھتے پس خدا ہی کے ہاں سے رزق طلب کرو اور اسی کی عبادت کرو اور اسی کا شکر کرو اسی کی طرف تم لوٹ کر جاؤ گے
+
 [Open on Quran.com](https://quran.com/29/17)
 
 #### 34:43 · [[034 Saba]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when Our verses are recited to them as clear evidences, they say, "This is not but a man who wishes to avert you from that which your fathers were worshipping." And they say, "This is not except a lie invented." And those who disbelieve say of the truth when it has come to them, "This is not but obvious magic."
 
 **English (Yusuf Ali):** When Our Clear Signs are rehearsed to them, they say, "This is only a man who wishes to hinder you from the (worship) which your fathers practised." And they say, "This is only a falsehood invented!" and the Unbelievers say of the Truth when it comes to them, "This is nothing but evident magic!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کو ہماری روشن آیتیں پڑھ کر سنائی جاتی ہیں تو کہتے ہیں یہ ایک (ایسا) شخص ہے جو چاہتا ہے کہ جن چیزوں کی تمہارے باپ دادا پرستش کیا کرتے تھے ان سے تم کو روک دے اور (یہ بھی) کہتے ہیں کہ یہ (قرآن) محض جھوٹ ہے (جو اپنی طرف سے) بنا لیا گیا ہے۔ اور کافروں کے پاس جب حق آیا تو اس کے بارے میں کہنے لگے کہ یہ تو صریح جادو ہے
 
 [Open on Quran.com](https://quran.com/34/43)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Is it a falsehood- gods other than Allah- that ye desire?
 
+**Urdu (Fatah Muhammad Jalandhari):** کیوں جھوٹ (بنا کر) خدا کے سوا اور معبودوں کے طالب ہو؟
+
 [Open on Quran.com](https://quran.com/37/86)
 
 #### 37:151 · [[037 As-Saffat]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Unquestionably, it is out of their [invented] falsehood that they say,
 
 **English (Yusuf Ali):** Is it not that they say, from their own invention,
+
+**Urdu (Fatah Muhammad Jalandhari):** دیکھو یہ اپنی جھوٹ بنائی ہوئی (بات) کہتے ہیں
 
 [Open on Quran.com](https://quran.com/37/151)
 
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Unbelievers say of those who believe: "If (this Message) were a good thing, (such men) would not have gone to it first, before us!" And seeing that they guide not themselves thereby, they will say, "this is an (old,) falsehood!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر مومنوں سے کہتے ہیں کہ اگر یہ (دین) کچھ بہتر ہوتا تو یہ لوگ اس کی طرف ہم سے پہلے نہ دوڑ پڑتے اور جب وہ اس سے ہدایت یاب نہ ہوئے تو اب کہیں گے کہ یہ پرانا جھوٹ ہے
+
 [Open on Quran.com](https://quran.com/46/11)
 
 #### 46:28 · [[046 Al-Ahqaf]]
@@ -172,6 +188,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then why did those they took besides Allāh as deities by which to approach [Him] not aid them? But they had strayed [i.e., departed] from them. And that was their falsehood and what they were inventing.
 
 **English (Yusuf Ali):** Why then was no help forthcoming to them from those whom they worshipped as gods, besides Allah, as a means of access (to Allah)? Nay, they left them in the lurch: but that was their falsehood and their invention.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جن کو ان لوگوں نے تقرب (خدا) کے سوا معبود بنایا تھا انہوں نے ان کی کیوں مدد نہ کی۔ بلکہ وہ ان (کے سامنے) سے گم ہوگئے۔ اور یہ ان کا جھوٹ تھا اور یہی وہ افتراء کیا کرتے تھے
 
 [Open on Quran.com](https://quran.com/46/28)
 

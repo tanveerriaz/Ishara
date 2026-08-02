@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sqT - sqt]]
+- [[sqT - falls]]
 
 ### Meaning
 **cause fall** · Lemma **تُسْقِطَ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 17:92 · [[017 Al-Isra]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or you make the heaven fall upon us in fragments as you have claimed or you bring Allāh and the angels before [us]
 
 **English (Yusuf Ali):** "Or thou cause the sky to fall in pieces, as thou sayest (will happen), against us; or thou bring Allah and the angels before (us) face to face:
+
+**Urdu (Fatah Muhammad Jalandhari):** یا جیسا تم کہا کرتے ہو ہم پر آسمان کے ٹکڑے لا گراؤ یا خدا اور فرشتوں کو (ہمارے) سامنے لاؤ
 
 [Open on Quran.com](https://quran.com/17/92)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Now cause a piece of the sky to fall on us, if thou art truthful!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر سچے ہو تو ہم پر آسمان سے ایک ٹکڑا لا کر گراؤ
+
 [Open on Quran.com](https://quran.com/26/187)
 
 #### 34:9 · [[034 Saba]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then, do they not look at what is before them and what is behind them of the heaven and earth? If We should will, We could cause the earth to swallow them or [could] let fall upon them fragments from the sky. Indeed in that is a sign for every servant turning back [to Allāh].
 
 **English (Yusuf Ali):** See they not what is before them and behind them, of the sky and the earth? If We wished, We could cause the earth to swallow them up, or cause a piece of the sky to fall upon them. Verily in this is a Sign for every devotee that turns to Allah (in repentance).
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے اس کو نہیں دیکھا جو ان کے آگے اور پیچھے ہے یعنی آسمان اور زمین۔ اگر ہم چاہیں تو ان کو زمین میں دھنسا دیں یا ان پر آسمان کے ٹکڑے گرا دیں۔ اس میں ہر بندے کے لئے جو رجوع کرنے والا ہے ایک نشانی ہے
 
 [Open on Quran.com](https://quran.com/34/9)
 

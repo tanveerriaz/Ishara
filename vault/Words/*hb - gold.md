@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[*hb - gold]]
+- [[*hb - go]]
 
 ### Meaning
 **gold** · Lemma **ذَهَبَ**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:17 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Their example is that of one who kindled a fire, but when it illuminated what was around him, Allāh took away their light and left them in darkness [so] they could not see.
 
 **English (Yusuf Ali):** Their similitude is that of a man who kindled a fire; when it lighted all around him, Allah took away their light and left them in utter darkness. So they could not see.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کی مثال اس شخص کی سی ہے کہ جس نے (شبِ تاریک میں) آگ جلائی۔ جب آگ نے اس کے اردگرد کی چیزیں روشن کیں تو خدا نے ان کی روشنی زائل کر دی اور ان کو اندھیروں میں چھوڑ دیا کہ کچھ نہیں دیکھتے
 
 [Open on Quran.com](https://quran.com/2/17)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The lightning all but snatches away their sight; every time the light (Helps) them, they walk therein, and when the darkness grows on them, they stand still. And if Allah willed, He could take away their faculty of hearing and seeing; for Allah hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** قریب ہے کہ بجلی (کی چمک) ان کی آنکھوں (کی بصارت) کو اچک لے جائے۔ جب بجلی (چمکتی اور) ان پر روشنی ڈالی ہے تو اس میں چل پڑتے ہیں اور جب اندھیرا ہو جاتا ہے تو کھڑے کے کھڑے رہ جاتے ہیں اور اگر الله چاہتا تو ان کے کانوں (کی شنوائی) اور آنکھوں (کی بینائی دونوں) کو زائل کر دیتا ہے۔ بے شک الله ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/2/20)
 
 #### 3:14 · [[003 Ali Imran]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allāh has with Him the best return [i.e., Paradise].
 
 **English (Yusuf Ali):** Fair in the eyes of men is the love of things they covet: Women and sons; Heaped-up hoards of gold and silver; horses branded (for blood and excellence); and (wealth of) cattle and well-tilled land. Such are the possessions of this world's life; but in nearness to Allah is the best of the goals (To return to).
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/3/14)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** As to those who reject Faith, and die rejecting,- never would be accepted from any such as much gold as the earth contains, though they should offer it for ransom. For such is (in store) a penalty grievous, and they will find no helpers.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے اور کفر ہی کی حالت میں مر گئے وہ اگر (نجات حاصل کرنی چاہیں اور) بدلے میں زمین بھر کر سونا دیں تو ہرگز قبول نہ کیا جائے گا ان لوگوں کو دکھ دینے والا عذاب ہو گا اور ان کی کوئی مدد نہیں کرے گا
+
 [Open on Quran.com](https://quran.com/3/91)
 
 #### 4:19 · [[004 An-Nisa]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, it is not lawful for you to inherit women by compulsion. And do not make difficulties for them in order to take [back] part of what you gave them unless they commit a clear immorality [i.e., adultery]. And live with them in kindness. For if you dislike them - perhaps you dislike a thing and Allāh makes therein much good.
 
 **English (Yusuf Ali):** O ye who believe! Ye are forbidden to inherit women against their will. Nor should ye treat them with harshness, that ye may Take away part of the dower ye have given them,-except where they have been guilty of open lewdness; on the contrary live with them on a footing of kindness and equity. If ye take a dislike to them it may be that ye dislike a thing, and Allah brings about through it a great deal of good.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم کو جائز نہیں کہ زبردستی عورتوں کے وارث بن جاؤ۔ اور (دیکھنا) اس نیت سے کہ جو کچھ تم نے ان کو دیا ہے اس میں سے کچھ لے لو انہیں (گھروں میں) میں مت روک رکھنا ہاں اگر وہ کھلے طور پر بدکاری کی مرتکب ہوں (تو روکنا مناسب نہیں) اور ان کے ساتھ اچھی طرح رہو سہو اگر وہ تم کو ناپسند ہوں تو عجب نہیں کہ تم کسی چیز کو ناپسند کرو اور خدا اس میں بہت سی بھلائی پیدا کردے
 
 [Open on Quran.com](https://quran.com/4/19)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "O Moses! while they remain there, never shall we be able to enter, to the end of time. Go thou, and thy Lord, and fight ye two, while we sit here (and watch)."
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ موسیٰ! جب تک وہ لوگ وہاں ہیں ہم کبھی وہاں نہیں جا سکتے (اگر لڑنا ہی ضرور ہے) تو تم اور تمہارا خدا جاؤ اور لڑو ہم یہیں بیٹھے رہیں گے
+
 [Open on Quran.com](https://quran.com/5/24)
 
 #### 8:46 · [[008 Al-Anfal]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And obey Allāh and His Messenger, and do not dispute and [thus] lose courage and [then] your strength would depart; and be patient. Indeed, Allāh is with the patient.
 
 **English (Yusuf Ali):** And obey Allah and His Messenger; and fall into no disputes, lest ye lose heart and your power depart; and be patient and persevering: For Allah is with those who patiently persevere:
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا اور اس کے رسول کے حکم پر چلو اور آپس میں جھگڑا نہ کرنا کہ (ایسا کرو گے تو) تم بزدل ہو جاؤ گے اور تمہارا اقبال جاتا رہے گا اور صبر سے کام لو۔ کہ خدا صبر کرنے والوں کا مددگار ہے
 
 [Open on Quran.com](https://quran.com/8/46)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! there are indeed many among the priests and anchorites, who in Falsehood devour the substance of men and hinder (them) from the way of Allah. And there are those who bury gold and silver and spend it not in the way of Allah: announce unto them a most grievous penalty-
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! (اہل کتاب کے) بہت سے عالم اور مشائخ لوگوں کا مال ناحق کھاتے اور (ان کو) راہ خدا سے روکتے ہیں۔ اور جو لوگ سونا اور چاندی جمع کرتے ہیں اور اس کو خدا کے رستے میں خرچ نہیں کرتے۔ ان کو اس دن عذاب الیم کی خبر سنادو
+
 [Open on Quran.com](https://quran.com/9/34)
 
 #### 11:10 · [[011 Hud]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But if We give him a taste of (Our) favours after adversity hath touched him, he is sure to say, "All evil has departed from me:" Behold! he falls into exultation and pride.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تکلیف پہنچنے کے بعد آسائش کا مزہ چکھائیں تو (خوش ہو کر) کہتا ہے کہ (آہا) سب سختیاں مجھ سے دور ہوگئیں۔ بےشک وہ خوشیاں منانے والا (اور) فخر کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/11/10)
 
 #### 11:74 · [[011 Hud]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when the fright had left Abraham and the good tidings had reached him, he began to argue [i.e., plead] with Us concerning the people of Lot.
 
 **English (Yusuf Ali):** When fear had passed from (the mind of) Abraham and the glad tidings had reached him, he began to plead with us for Lut's people.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب ابراہیم سے خوف جاتا رہا اور ان کو خوشخبری بھی مل گئی تو قوم لوط کے بارے میں لگے ہم سے بحث کرنے
 
 [Open on Quran.com](https://quran.com/11/74)
 

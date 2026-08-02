@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 
 ### Meaning
 **seek delay** · Lemma **يَسْتَأْخِرُ**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:34 · [[007 Al-Araf]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And for every nation is a [specified] term. So when their time has come, they will not remain behind an hour, nor will they precede [it].
 
 **English (Yusuf Ali):** To every people is a term appointed: when their term is reached, not an hour can they cause delay, nor (an hour) can they advance (it in anticipation).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہر ایک فرقے کے لیے (موت کا) ایک وقت مقرر ہے۔ جب وہ آ جاتا ہے تو نہ تو ایک گھڑی دیر کرسکتے ہیں نہ جلدی
 
 [Open on Quran.com](https://quran.com/7/34)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "I have no power over any harm or profit to myself except as Allah willeth. To every people is a term appointed: when their term is reached, not an hour can they cause delay, nor (an hour) can they advance (it in anticipation)."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں اپنے نقصان اور فائدے کا بھی کچھ اختیار نہیں رکھتا۔ مگر جو خدا چاہے۔ ہر ایک امت کے لیے (موت کا) ایک وقت مقرر ہے۔ جب وہ وقت آجاتا ہے تو ایک گھڑی بھی دیر نہیں کرسکتے اور نہ جلدی کرسکتے ہیں
+
 [Open on Quran.com](https://quran.com/10/49)
 
 #### 15:5 · [[015 Al-Hijr]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** No nation will precede its term, nor will they remain thereafter.
 
 **English (Yusuf Ali):** Neither can a people anticipate its term, nor delay it.
+
+**Urdu (Fatah Muhammad Jalandhari):** کوئی جماعت اپنی مدت (وفات) سے نہ آگے نکل سکتی ہے نہ پیچھے رہ سکتی ہے
 
 [Open on Quran.com](https://quran.com/15/5)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If Allah were to punish men for their wrong-doing, He would not leave, on the (earth), a single living creature: but He gives them respite for a stated Term: When their Term expires, they would not be able to delay (the punishment) for a single hour, just as they would not be able to anticipate it (for a single hour).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا لوگوں کو ان کے ظلم کے سبب پکڑنے لگے تو ایک جاندار کو زمین پر نہ چھوڑے لیکن ان کو ایک وقت مقرر تک مہلت دیئے جاتا ہے۔ جب وہ وقت آجاتا ہے تو ایک گھڑی نہ پیچھے رہ سکتے ہیں نہ آگے بڑھ سکتے ہیں
+
 [Open on Quran.com](https://quran.com/16/61)
 
 #### 23:43 · [[023 Al-Muminun]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** No people can hasten their term, nor can they delay (it).
 
+**Urdu (Fatah Muhammad Jalandhari):** کوئی جماعت اپنے وقت سے نہ آگے جاسکتی ہے نہ پیچھے رہ سکتی ہے
+
 [Open on Quran.com](https://quran.com/23/43)
 
 #### 34:30 · [[034 Saba]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "For you is the appointment of a Day [when] you will not remain thereafter an hour, nor will you precede [it]."
 
 **English (Yusuf Ali):** Say: "The appointment to you is for a Day, which ye cannot put back for an hour nor put forward."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ تم سے ایک دن کا وعدہ ہے جس سے نہ ایک گھڑی پیچھے رہوگے اور نہ آگے بڑھو گے
 
 [Open on Quran.com](https://quran.com/34/30)
 

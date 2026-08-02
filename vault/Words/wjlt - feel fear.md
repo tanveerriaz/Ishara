@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 8:2 · [[008 Al-Anfal]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The believers are only those who, when Allāh is mentioned, their hearts become fearful, and when His verses are recited to them, it increases them in faith; and upon their Lord they rely -
 
 **English (Yusuf Ali):** For, Believers are those who, when Allah is mentioned, feel a tremor in their hearts, and when they hear His signs rehearsed, find their faith strengthened, and put (all) their trust in their Lord;
+
+**Urdu (Fatah Muhammad Jalandhari):** مومن تو وہ ہیں کہ جب خدا کا ذکر کیا جاتا ہے کہ ان کے دل ڈر جاتے ہیں اور جب انہیں اس کی آیتیں پڑھ کر سنائی جاتی ہیں تو ان کا ایمان اور بڑھ جاتا ہے۔ اور وہ اپنے پروردگار پر بھروسہ رکھتے ہیں
 
 [Open on Quran.com](https://quran.com/8/2)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "Fear not! We give thee glad tidings of a son endowed with wisdom."
 
+**Urdu (Fatah Muhammad Jalandhari):** (مہمانوں نے) کہا کہ ڈریئے نہیں ہم آپ کو ایک دانشمند لڑکے کی خوشخبری دیتے ہیں
+
 [Open on Quran.com](https://quran.com/15/53)
 
 #### 22:35 · [[022 Al-Hajj]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who, when Allāh is mentioned, their hearts are fearful, and [to] the patient over what has afflicted them, and the establishers of prayer and those who spend from what We have provided them.
 
 **English (Yusuf Ali):** To those whose hearts when Allah is mentioned, are filled with fear, who show patient perseverance over their afflictions, keep up regular prayer, and spend (in charity) out of what We have bestowed upon them.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں کہ جب خدا کا نام لیا جاتا ہے تو ان کے دل ڈر جاتے ہیں اور جب ان پر مصیبت پڑتی ہے تو صبر کرتے ہیں اور نماز آداب سے پڑھتے ہیں اور جو (مال) ہم نے ان کو عطا فرمایا ہے (اس میں سے) (نیک کاموں میں) خرچ کرتے ہیں
 
 [Open on Quran.com](https://quran.com/22/35)
 

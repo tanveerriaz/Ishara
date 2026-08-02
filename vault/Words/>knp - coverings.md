@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:25 · [[006 Al-Anam]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And among them are those who listen to you, but We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And if they should see every sign, they will not believe in it. Even when they come to you arguing with you, those who disbelieve say, "This is not but legends of the former peoples."
 
 **English (Yusuf Ali):** Of them there are some who (pretend to) listen to thee; but We have thrown veils on their hearts, So they understand it not, and deafness in their ears; if they saw every one of the signs, not they will believe in them; in so much that when they come to thee, they (but) dispute with thee; the Unbelievers say: "These are nothing but tales of the ancients."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں بعض ایسے ہیں کہ تمہاری (باتوں کی) طرف کان رکھتے ہیں۔ اور ہم نے ان کے دلوں پر تو پردے ڈال دیئے ہیں کہ ان کو سمجھ نہ سکیں اور کانوں میں ثقل پیدا کردیا ہے (کہ سن نہ سکیں) اور اگر یہ تمام نشانیاں بھی دیکھ لیں تب بھی ان پر ایمان نہ لائیں۔ یہاں تک کہ جب تمہارے پاس تم سے بحث کرنے کو آتے ہیں تو جو کافر ہیں کہتے ہیں یہ (قرآن) اور کچھ بھی نہیں صرف پہلے لوگوں کی کہانیاں ہیں
 
 [Open on Quran.com](https://quran.com/6/25)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We put coverings over their hearts (and minds) lest they should understand the Qur'an, and deafness into their ears: when thou dost commemorate thy Lord and Him alone in the Qur'an, they turn on their backs, fleeing (from the Truth).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں پر پردہ ڈال دیتے ہیں کہ اسے سمجھ نہ سکیں اور ان کے کانوں میں ثقل پیدا کر دیتے ہیں۔ اور جب تم قرآن میں اپنے پروردگار یکتا کا ذکر کرتے ہو تو وہ بدک جاتے اور پیٹھ پھیر کر چل دیتے ہیں
+
 [Open on Quran.com](https://quran.com/17/46)
 
 #### 18:57 · [[018 Al-Kahf]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And who doth more wrong than one who is reminded of the Signs of his Lord, but turns away from them, forgetting the (deeds) which his hands have sent forth? Verily We have set veils over their hearts lest they should understand this, and over their ears, deafness, if thou callest them to guidance, even then will they never accept guidance.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے ظالم کون جس کو اس کے پروردگار کے کلام سے سمجھایا گیا تو اُس نے اس سے منہ پھیر لیا۔ اور جو اعمال وہ آگے کرچکا اس کو بھول گیا۔ ہم نے ان کے دلوں پر پردے ڈال دیئے کہ اسے سمجھ نہ سکیں۔ اور کانوں میں ثقل (پیدا کردیا ہے کہ سن نہ سکیں) اور اگر تم ان کو رستے کی طرف بلاؤ تو کبھی رستے پر نہ آئیں گے
+
 [Open on Quran.com](https://quran.com/18/57)
 
 #### 41:5 · [[041 Fussilat]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they say, "Our hearts are within coverings [i.e., screened] from that to which you invite us, and in our ears is deafness, and between us and you is a partition, so work; indeed, we are working."
 
 **English (Yusuf Ali):** They say: "Our hearts are under veils, (concealed) from that to which thou dost invite us, and in our ears in a deafness, and between us and thee is a screen: so do thou (what thou wilt); for us, we shall do (what we will!)"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ جس چیز کی طرف تم ہمیں بلاتے ہو اس سے ہمارے دل پردوں میں ہیں اور ہمارے کانوں میں بوجھ (یعنی بہراپن) ہے اور ہمارے اور تمہارے درمیان پردہ ہے تو تم (اپنا) کام کرو ہم (اپنا) کام کرتے ہیں
 
 [Open on Quran.com](https://quran.com/41/5)
 

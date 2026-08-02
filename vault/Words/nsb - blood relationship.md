@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nsb - mention trace one]]
+- [[nsb - mention trace one's]]
 
 ### Meaning
 **blood relationship** · Lemma **نَسَب**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 23:101 · [[023 Al-Muminun]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So when the Horn is blown, no relationship will there be among them that Day, nor will they ask about one another.
 
 **English (Yusuf Ali):** Then when the Trumpet is blown, there will be no more relationships between them that Day, nor will one ask after another!
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب صور پھونکا جائے گا تو نہ تو ان میں قرابتیں ہوں گی اور نہ ایک دوسرے کو پوچھیں گے
 
 [Open on Quran.com](https://quran.com/23/101)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who has created man from water: then has He established relationships of lineage and marriage: for thy Lord has power (over all things).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے پانی سے آدمی پیدا کیا۔ پھر اس کو صاحب نسب اور صاحب قرابت دامادی بنایا۔ اور تمہارا پروردگار (ہر طرح کی) قدرت رکھتا ہے
+
 [Open on Quran.com](https://quran.com/25/54)
 
 #### 37:158 · [[037 As-Saffat]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they have made [i.e., claimed] between Him and the jinn a lineage, but the jinn have already known that they [who made such claims] will be brought [to punishment].
 
 **English (Yusuf Ali):** And they have invented a blood-relationship between Him and the Jinns: but the Jinns know (quite well) that they have indeed to appear (before his Judgment-Seat)!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور انہوں نے خدا میں اور جنوں میں رشتہ مقرر کیا۔ حالانکہ جنات جانتے ہیں کہ وہ (خدا کے سامنے) حاضر کئے جائیں گے
 
 [Open on Quran.com](https://quran.com/37/158)
 

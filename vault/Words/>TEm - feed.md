@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[TEm - tem]]
+- [[TEm - food]]
 
 ### Meaning
 **feed** · Lemma **أَطْعَمَ**
@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 5:89 · [[005 Al-Maidah]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh will not impose blame upon you for what is meaningless in your oaths, but He will impose blame upon you for [breaking] what you intended of oaths. So its expiation is the feeding of ten needy people from the average of that which you feed your [own] families or clothing them or the freeing of a slave. But whoever cannot find [or afford it] - then a fast of three days [is required]. That is the expiation for oaths when you have sworn. But guard your oaths. Thus does Allāh make clear to you His verses [i.e., revealed law] that you may be grateful.
 
 **English (Yusuf Ali):** Allah will not call you to account for what is futile in your oaths, but He will call you to account for your deliberate oaths: for expiation, feed ten indigent persons, on a scale of the average for the food of your families; or clothe them; or give a slave his freedom. If that is beyond your means, fast for three days. That is the expiation for the oaths ye have sworn. But keep to your oaths. Thus doth Allah make clear to you His signs, that ye may be grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری بےارادہ قسموں پر تم سے مواخذہ نہیں کرے گا لیکن پختہ قسموں پر (جن کے خلاف کرو گے) مواخذہ کرے گا تو اس کا کفارہ دس محتاجوں کو اوسط درجے کا کھانا کھلانا ہے جو تم اپنے اہل وعیال کو کھلاتے ہو یا ان کو کپڑے دینا یا ایک غلام آزاد کرنا اور جس کو میسر نہ ہو وہ تین روزے رکھے یہ تمہاری قسموں کا کفارہ ہے جب تم قسم کھا لو (اور اسے توڑ دو) اور (تم کو) چاہئے کہ اپنی قسموں کی حفاظت کرو اس طرح خدا تمہارے (سمجھانے کے) لیے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم شکر کرو
 
 [Open on Quran.com](https://quran.com/5/89)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Shall I take for my protector any other than Allah, the Maker of the heavens and the earth? And He it is that feedeth but is not fed." Say: "Nay! but I am commanded to be the first of those who bow to Allah (in Islam), and be not thou of the company of those who join gods with Allah."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہو کیا میں خدا کو چھوڑ کر کسی اور کو مددگار بناؤں کہ (وہی تو) آسمانوں اور زمین کا پیدا کرنے والا ہے اور وہی (سب کو) کھانا دیتا ہے اور خود کسی سے کھانا نہیں لیتا (یہ بھی) کہہ دو کہ مجھے یہ حکم ہوا ہے کہ میں سب سے پہلے اسلام لانے والا ہوں اور یہ کہ تم (اے پیغمبر!) مشرکوں میں نہ ہونا
+
 [Open on Quran.com](https://quran.com/6/14)
 
 #### 22:28 · [[022 Al-Hajj]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That they may witness [i.e., attend] benefits for themselves and mention the name of Allāh on known [i.e., specific] days over what He has provided for them of [sacrificial] animals. So eat of them and feed the miserable and poor.
 
 **English (Yusuf Ali):** "That they may witness the benefits (provided) for them, and celebrate the name of Allah, through the Days appointed, over the cattle which He has provided for them (for sacrifice): then eat ye thereof and feed the distressed ones in want.
+
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ اپنے فائدے کے کاموں کے لئے حاضر ہوں۔ اور (قربانی کے) ایام معلوم میں چہار پایاں مویشی (کے ذبح کے وقت) جو خدا نے ان کو دیئے ہیں ان پر خدا کا نام لیں۔ اس میں سے تم خود بھی کھاؤ اور فقیر درماندہ کو بھی کھلاؤ
 
 [Open on Quran.com](https://quran.com/22/28)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The sacrificial camels we have made for you as among the symbols from Allah: in them is (much) good for you: then pronounce the name of Allah over them as they line up (for sacrifice): when they are down on their sides (after slaughter), eat ye thereof, and feed such as (beg not but) live in contentment, and such as beg with due humility: thus have We made animals subject to you, that ye may be grateful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور قربانی کے اونٹوں کو بھی ہم نے تمہارے لئے شعائر خدا مقرر کیا ہے۔ ان میں تمہارے لئے فائدے ہیں۔ تو (قربانی کرنے کے وقت) قطار باندھ کر ان پر خدا کا نام لو۔ جب پہلو کے بل گر پڑیں تو ان میں سے کھاؤ اور قناعت سے بیٹھ رہنے والوں اور سوال کرنے والوں کو بھی کھلاؤ۔ اس طرح ہم نے ان کو تمہارے زیرفرمان کردیا ہے تاکہ تم شکر کرو
+
 [Open on Quran.com](https://quran.com/22/36)
 
 #### 26:79 · [[026 Ash-Shuara]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And it is He who feeds me and gives me drink.
 
 **English (Yusuf Ali):** "Who gives me food and drink,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ جو مجھے کھلاتا اور پلاتا ہے
 
 [Open on Quran.com](https://quran.com/26/79)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And when they are told, "Spend ye of (the bounties) with which Allah has provided you," the Unbelievers say to those who believe: "Shall we then feed those whom, if Allah had so willed, He would have fed, (Himself)?- Ye are in nothing but manifest error."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان سے کہا جاتا ہے کہ جو رزق خدا نے تم کو دیا ہے اس میں سے خرچ کرو۔ تو کافر مومنوں سے کہتے ہیں کہ بھلا ہم ان لوگوں کو کھانا کھلائیں جن کو اگر خدا چاہتا تو خود کھلا دیتا۔ تم تو صریح غلطی میں ہو
+
 [Open on Quran.com](https://quran.com/36/47)
 
 #### 51:57 · [[051 Adh-Dhariyat]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** I do not want from them any provision, nor do I want them to feed Me.
 
 **English (Yusuf Ali):** No Sustenance do I require of them, nor do I require that they should feed Me.
+
+**Urdu (Fatah Muhammad Jalandhari):** میں ان سے طالب رزق نہیں اور نہ یہ چاہتا ہوں کہ مجھے (کھانا) کھلائیں
 
 [Open on Quran.com](https://quran.com/51/57)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Nor were we of those who fed the indigent;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور نہ فقیروں کو کھانا کھلاتے تھے
+
 [Open on Quran.com](https://quran.com/74/44)
 
 #### 76:8 · [[076 Al-Insan]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And they feed, for the love of Allah, the indigent, the orphan, and the captive,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور باوجود یہ کہ ان کو خود طعام کی خواہش (اور حاجت) ہے فقیروں اور یتیموں اور قیدیوں کو کھلاتے ہیں
+
 [Open on Quran.com](https://quran.com/76/8)
 
 #### 76:9 · [[076 Al-Insan]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Saying], "We feed you only for the face [i.e., approval] of Allāh. We wish not from you reward or gratitude.
 
 **English (Yusuf Ali):** (Saying),"We feed you for the sake of Allah alone: no reward do we desire from you, nor thanks.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور کہتے ہیں کہ) ہم تم کو خالص خدا کے لئے کھلاتے ہیں۔ نہ تم سے عوض کے خواستگار ہیں نہ شکرگزاری کے (طلبگار)
 
 [Open on Quran.com](https://quran.com/76/9)
 

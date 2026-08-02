@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$hw - shhw]]
+- [[$hw - they desire]]
 
 ### Meaning
 **passions** · Lemma **شَهَوَة**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:14 · [[003 Ali Imran]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allāh has with Him the best return [i.e., Paradise].
 
 **English (Yusuf Ali):** Fair in the eyes of men is the love of things they covet: Women and sons; Heaped-up hoards of gold and silver; horses branded (for blood and excellence); and (wealth of) cattle and well-tilled land. Such are the possessions of this world's life; but in nearness to Allah is the best of the goals (To return to).
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/3/14)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah doth wish to Turn to you, but the wish of those who follow their lusts is that ye should turn away (from Him),- far, far away.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا تو چاہتا ہے کہ تم پر مہربانی کرے اور جو لوگ اپنی خواہشوں کے پیچھے چلتے ہیں وہ چاہتے ہیں کہ تم سیدھے راستے سے بھٹک کر دور جا پڑو
+
 [Open on Quran.com](https://quran.com/4/27)
 
 #### 7:81 · [[007 Al-Araf]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, you approach men with desire, instead of women. Rather, you are a transgressing people."
 
 **English (Yusuf Ali):** "For ye practise your lusts on men in preference to women: ye are indeed a people transgressing beyond bounds."
+
+**Urdu (Fatah Muhammad Jalandhari):** یعنی خواہش نفسانی پورا کرنے کے لیے عورتوں کو چھوڑ کر لونڈوں پر گرتے ہو۔ حقیقت یہ ہے کہ تم لوگ حد سے نکل جانے والے ہو
 
 [Open on Quran.com](https://quran.com/7/81)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But after them there followed a posterity who missed prayers and followed after lusts soon, then, will they face Destruction,-
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے بعد چند ناخلف ان کے جانشیں ہوئے جنہوں نے نماز کو (چھوڑ دیا گویا اسے) کھو دیا۔ اور خواہشات نفسانی کے پیچھے لگ گئے۔ سو عنقریب ان کو گمراہی (کی سزا) ملے گی
+
 [Open on Quran.com](https://quran.com/19/59)
 
 #### 27:55 · [[027 An-Naml]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do you indeed approach men with desire instead of women? Rather, you are a people behaving ignorantly."
 
 **English (Yusuf Ali):** Would ye really approach men in your lusts rather than women? Nay, ye are a people (grossly) ignorant!
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم عورتوں کو چھوڑ کر (لذت حاصل کرنے) کے لئے مردوں کی طرف مائل ہوتے ہو۔ حقیقت یہ ہے کہ تم احمق لوگ ہو
 
 [Open on Quran.com](https://quran.com/27/55)
 

@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:90 · [[003 Ali Imran]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who disbelieve [i.e., reject the message] after their belief and then increase in disbelief - never will their [claimed] repentance be accepted, and they are the ones astray.
 
 **English (Yusuf Ali):** But those who reject Faith after they accepted it, and then go on adding to their defiance of Faith,- never will their repentance be accepted; for they are those who have (of set purpose) gone astray.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لانے کے بعد کافر ہو گئے پھر کفر میں بڑھتے گئے ایسوں کی توبہ ہرگز قبول نہ ہوگی اور یہ لوگ گمراہ ہیں
 
 [Open on Quran.com](https://quran.com/3/90)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Let not the Unbelievers think that our respite to them is good for themselves: We grant them respite that they may grow in their iniquity: But they will have a shameful punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر لوگ یہ نہ خیال کریں کہ ہم جو ان کو مہلت دیئے جاتے ہیں تو یہ ان کے حق میں اچھا ہے۔ (نہیں بلکہ) ہم ان کو اس لئے مہلت دیتے ہیں کہ اور گناہ کرلیں۔ آخرکار ان کو ذلیل کرنے والا عذاب ہوگا
+
 [Open on Quran.com](https://quran.com/3/178)
 
 #### 4:137 · [[004 An-Nisa]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who have believed then disbelieved, then believed then disbelieved, and then increased in disbelief - never will Allāh forgive them, nor will He guide them to a way.
 
 **English (Yusuf Ali):** Those who believe, then reject faith, then believe (again) and (again) reject faith, and go on increasing in unbelief,- Allah will not forgive them nor guide them nor guide them on the way.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے پھر کافر ہوگئے پھر ایمان لائے پھر کافر ہوگئے پھر کفر میں بڑھتے گئے ان کو خدا نہ تو بخشے گا اور نہ سیدھا رستہ دکھائے گا
 
 [Open on Quran.com](https://quran.com/4/137)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then when they opened their baggage, they found their stock-in-trade had been returned to them. They said: "O our father! What (more) can we desire? this our stock-in-trade has been returned to us: so we shall get (more) food for our family; We shall take care of our brother; and add (at the same time) a full camel's load (of grain to our provisions). This is but a small quantity.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب انہوں نے اپنا اسباب کھولا تو دیکھا کہ ان کا سرمایہ واپس کر دیا گیا ہے۔ کہنے لگے ابّا ہمیں (اور) کیا چاہیئے (دیکھیے) یہ ہماری پونجی بھی ہمیں واپس کر دی گئی ہے۔ اب ہم اپنے اہل وعیال کے لیے پھر غلّہ لائیں گے اور اپنے بھائی کی نگہبانی کریں گے اور ایک بار شتر زیادہ لائیں گے (کہ) یہ غلّہ جو ہم لائے ہیں تھوڑا ہے
+
 [Open on Quran.com](https://quran.com/12/65)
 
 #### 13:8 · [[013 Ar-Rad]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh knows what every female carries and what the wombs lose [prematurely] or exceed. And everything with Him is by due measure.
 
 **English (Yusuf Ali):** Allah doth know what every female (womb) doth bear, by how much the wombs fall short (of their time or number) or do exceed. Every single thing is before His sight, in (due) proportion.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی اس بچے سے واقف ہے جو عورت کے پیٹ میں ہوتا ہے اور پیٹ کے سکڑنے اور بڑھنے سے بھی (واقف ہے)۔ اور ہر چیز کا اس کے ہاں ایک اندازہ مقرر ہے
 
 [Open on Quran.com](https://quran.com/13/8)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So they stayed in their Cave three hundred years, and (some) add nine (more)
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اصحاب کہف اپنے غار میں نو اوپر تین سو سال رہے
+
 [Open on Quran.com](https://quran.com/18/25)
 
 #### 48:4 · [[048 Al-Fath]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who sent down tranquillity into the hearts of the Believers, that they may add faith to their faith;- for to Allah belong the Forces of the heavens and the earth; and Allah is Full of Knowledge and Wisdom;-
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے مومنوں کے دلوں پر تسلی نازل فرمائی تاکہ ان کے ایمان کے ساتھ اور ایمان بڑھے۔ اور آسمانوں اور زمین کے لشکر (سب) خدا ہی کے ہیں۔ اور خدا جاننے والا (اور) حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/48/4)
 
 #### 74:31 · [[074 Al-Muddaththir]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have not made the keepers of the Fire except angels. And We have not made their number except as a trial for those who disbelieve - that those who were given the Scripture will be convinced and those who have believed will increase in faith and those who were given the Scripture and the believers will not doubt and that those in whose hearts is disease [i.e., hypocrisy] and the disbelievers will say, "What does Allāh intend by this as an example?" Thus does Allāh send astray whom He wills and guide whom He wills. And none knows the soldiers of your Lord except Him. And it [i.e., mention of the Fire] is not but a reminder to humanity.
 
 **English (Yusuf Ali):** And We have set none but angels as Guardians of the Fire; and We have fixed their number only as a trial for Unbelievers,- in order that the People of the Book may arrive at certainty, and the Believers may increase in Faith,- and that no doubts may be left for the People of the Book and the Believers, and that those in whose hearts is a disease and the Unbelievers may say, "What symbol doth Allah intend by this?" Thus doth Allah leave to stray whom He pleaseth, and guide whom He pleaseth: and none can know the forces of thy Lord, except He and this is no other than a warning to mankind.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے دوزخ کے داروغہ فرشتے بنائے ہیں۔ اور ان کا شمار کافروں کی آزمائش کے لئے مقرر کیا ہے (اور) اس لئے کہ اہل کتاب یقین کریں اور مومنوں کا ایمان اور زیادہ ہو اور اہل کتاب اور مومن شک نہ لائیں۔ اور اس لئے کہ جن لوگوں کے دلوں میں (نفاق کا) مرض ہے اور (جو) کافر (ہیں) کہیں کہ اس مثال (کے بیان کرنے) سے خدا کا مقصد کیا ہے؟ اسی طرح خدا جس کو چاہتا ہے گمراہ کرتا ہے اور جس کو چاہتا ہے ہدایت کرتا ہے اور تمہارے پروردگار کے لشکروں کو اس کے سوا کوئی نہیں جانتا۔ اور یہ تو بنی آدم کے لئے نصیحت ہے
 
 [Open on Quran.com](https://quran.com/74/31)
 

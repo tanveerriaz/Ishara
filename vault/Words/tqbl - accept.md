@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qbl - qbl]]
+- [[qbl - face come forward]]
 
 ### Meaning
 **accept** · Lemma **تَقَبَّلَ**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:127 · [[002 Al-Baqarah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] when Abraham was raising the foundations of the House and [with him] Ishmael, [saying], "Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.
 
 **English (Yusuf Ali):** And remember Abraham and Isma'il raised the foundations of the House (With this prayer): "Our Lord! Accept (this service) from us: For Thou art the All-Hearing, the All-knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم اور اسمٰعیل بیت الله کی بنیادیں اونچی کر رہے تھے (تو دعا کئے جاتے تھے کہ) اے پروردگار، ہم سے یہ خدمت قبول فرما۔ بےشک تو سننے والا (اور) جاننے والا ہے
 
 [Open on Quran.com](https://quran.com/2/127)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! a woman of 'Imran said: "O my Lord! I do dedicate unto Thee what is in my womb for Thy special service: So accept this of me: For Thou hearest and knowest all things."
 
+**Urdu (Fatah Muhammad Jalandhari):** (وہ وقت یاد کرنے کے لائق ہے) جب عمران کی بیوی نے کہا کہ اے پروردگار جو (بچہ) میرے پیٹ میں ہے میں اس کو تیری نذر کرتی ہوں اسے دنیا کے کاموں سے آزاد رکھوں گی تو (اسے) میری طرف سے قبول فرما توتو سننے والا (اور) جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/3/35)
 
 #### 3:37 · [[003 Ali Imran]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, "O Mary, from where is this [coming] to you?" She said, "It is from Allāh. Indeed, Allāh provides for whom He wills without account."
 
 **English (Yusuf Ali):** Right graciously did her Lord accept her: He made her grow in purity and beauty: To the care of Zakariya was she assigned. Every time that he entered (Her) chamber to see her, He found her supplied with sustenance. He said: "O Mary! Whence (comes) this to you?" She said: "From Allah: for Allah Provides sustenance to whom He pleases without measure."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو پروردگار نے اس کو پسندیدگی کے ساتھ قبول فرمایا اور اسے اچھی طرح پرورش کیا اور زکریا کو اس کا متکفل بنایا زکریا جب کبھی عبادت گاہ میں اس کے پاس جاتے تو اس کے پاس کھانا پاتے (یہ کیفیت دیکھ کر ایک دن مریم سے) پوچھنے لگے کہ مریم یہ کھانا تمہارے پاس کہاں سے آتا ہے وہ بولیں خدا کے ہاں سے (آتا ہے) بیشک خدا جسے چاہتا ہے بے شمار رزق دیتا ہے
 
 [Open on Quran.com](https://quran.com/3/37)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Recite to them the truth of the story of the two sons of Adam. Behold! they each presented a sacrifice (to Allah): It was accepted from one, but not from the other. Said the latter: "Be sure I will slay thee." "Surely," said the former, "Allah doth accept of the sacrifice of those who are righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے محمد) ان کو آدم کے دو بیٹوں (ہابیل اور قابیل) کے حالات (جو بالکل) سچے (ہیں) پڑھ کر سنا دو کہ جب ان دونوں نے خدا (کی جناب میں) کچھ نیازیں چڑھائیں تو ایک کی نیاز تو قبول ہو گئی اور دوسرے کی قبول نہ ہوئی (تب قابیل ہابیل سے) کہنے لگا کہ میں تجھے قتل کروں گا اس نے کہا کہ خدا پرہیزگاروں ہی کی (نیاز) قبول فرمایا کرتا ہے
+
 [Open on Quran.com](https://quran.com/5/27)
 
 #### 5:36 · [[005 Al-Maidah]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who disbelieve - if they should have all that is in the earth and the like of it with it by which to ransom themselves from the punishment of the Day of Resurrection, it will not be accepted from them, and for them is a painful punishment.
 
 **English (Yusuf Ali):** As to those who reject Faith,- if they had everything on earth, and twice repeated, to give as ransom for the penalty of the Day of Judgment, it would never be accepted of them, theirs would be a grievous penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں اگر ان کے پاس روئے زمین (کے تمام خزانے اور اس) کا سب مال ومتاع ہو اور اس کے ساتھ اسی قدر اور بھی ہو تاکہ قیامت کے روز عذاب (سے رستگاری حاصل کرنے) کا بدلہ دیں تو ان سے قبول نہیں کیا جائے گا اور ان کو درد دینے والا عذاب ہوگا
 
 [Open on Quran.com](https://quran.com/5/36)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Spend (for the cause) willingly or unwillingly: not from you will it be accepted: for ye are indeed a people rebellious and wicked."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ تم (مال) خوشی سے خرچ کرو یا ناخوشی سے تم سے ہرگز قبول نہیں کیا جائے گا تم نافرمان لوگ ہو
+
 [Open on Quran.com](https://quran.com/9/53)
 
 #### 14:40 · [[014 Ibrahim]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O my Lord! make me one who establishes regular Prayer, and also (raise such) among my offspring O our Lord! and accept Thou my Prayer.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار مجھ کو (ایسی توفیق عنایت) کر کہ نماز پڑھتا رہوں اور میری اولاد کو بھی (یہ توفیق بخش) اے پروردگار میری دعا قبول فرما
+
 [Open on Quran.com](https://quran.com/14/40)
 
 #### 46:16 · [[046 Al-Ahqaf]]
@@ -156,6 +170,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the ones from whom We will accept the best of what they did and overlook their misdeeds, [their being] among the companions of Paradise. [That is] the promise of truth which they had been promised.
 
 **English (Yusuf Ali):** Such are they from whom We shall accept the best of their deeds and pass by their ill deeds: (They shall be) among the Companions of the Garden: a promise! of truth, which was made to them (in this life).
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن کے اعمال نیک ہم قبول کریں گے اور ان کے گناہوں سے درگزر فرمائیں گے اور (یہی) اہل جنت میں (ہوں گے)۔ (یہ) سچا وعدہ (ہے) جو ان سے کیا جاتا ہے
 
 [Open on Quran.com](https://quran.com/46/16)
 

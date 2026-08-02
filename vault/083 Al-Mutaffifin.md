@@ -14,78 +14,78 @@ The Defrauding · 36 ayahs
 
 ## Words in this surah (graph)
 
-- [[DHkt - laugh]] — `ضَحِكَتْ` · laugh
 - [[mqrb - brought near]] — `مُقَرَّب` · brought near
+- [[DHkt - laugh]] — `ضَحِكَتْ` · laugh
 - [[>rA}k - couches]] — `أَرائِك` · couches
-- [[mEtd - transgressor]] — `مُعْتَد` · transgressor
-- [[kAn - is]] — `كانَ` · is
-- [[nEym - delight]] — `نَعِيم` · delight
-- [[Eyn - eyes]] — `عَيْن` · eyes
-- [[>sqy - we give you]] — `أَسْقَيْ` · we give you
-- [[fjAr - wicked]] — `فُجّار` · wicked
-- [[nAs - people]] — `ناس` · people
-- [[wzn - weigh]] — `وَزْن` · weigh
-- [[wjh - faces]] — `وَجْه` · faces
-- [[qlb - hearts]] — `قَلْب` · hearts
+- [[qAl - say]] — `قالَ` · say
 - [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[>sATyr - tales]] — `أَساطِير` · tales
-- [[jHym - hellfire]] — `جَحِيم` · hellfire
-- [[br - land]] — `بِرّ` · land
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[HAfZ - guardians]] — `حافِظ` · guardians
-- [[r>Y - you see]] — `رَأَى` · you see
+- [[qAm - stand]] — `قامَ` · stand
 - [[>vym - sinful]] — `أَثِيم` · sinful
-- [[$rb - drink]] — `شَرِبَ` · drink
-- [[mr - they pass]] — `مَرَّ` · they pass
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[kAfr - disbelievers]] — `كافِر` · disbelievers
+- [[wjh - faces]] — `وَجْه` · faces
+- [[rb - lord]] — `رَبّ` · lord
+- [[nAs - people]] — `ناس` · people
+- [[DAl - astray]] — `ضالّ` · astray
+- [[$hd - bear witness]] — `شَهِدَ` · bear witness
+- [[Eyn - eyes]] — `عَيْن` · eyes
+- [[>jrm - committed crimes]] — `أَجْرَمُ` · committed crimes
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[dyn - religion]] — `دِين` · religion
+- [[mEtd - transgressor]] — `مُعْتَد` · transgressor
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[Erf - they recognize]] — `عَرَفَ` · they recognize
+- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
+- [[>wl - first]] — `أَوَّل` · first
+- [[kl - every]] — `كُلّ` · every
 
 ## Roots
 
-- [[$hd - shhd]]
-- [[$rb - shrb]]
+- [[$hd - witnessing]]
+- [[$rb - drink]]
 - [[>hl - people house]]
-- [[>mn - amn]]
-- [[>ns - ans]]
-- [[>rk - ark]]
-- [[>vm - athm]]
-- [[>wl - like milk oil]]
+- [[>mn - believe]]
+- [[>ns - mankind]]
+- [[>rk - person staying put]]
+- [[>vm - sin commit crime]]
+- [[>wl - return revert original]]
 - [[>yy - ism]]
-- [[DHk - dhk]]
+- [[DHk - laugh]]
 - [[Dll - astray]]
-- [[EZm - ezhm]]
-- [[Edw - enemy]]
+- [[EZm - great]]
+- [[Edw - turn]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Erf - erf]]
-- [[Eyn - eyn]]
-- [[HfZ - hfzh]]
+- [[Erf - right]]
+- [[Eyn - eyes]]
+- [[HfZ - keep]]
 - [[Hjb - prevent]]
-- [[Sly - sly]]
+- [[Sly - exposed fire heat]]
 - [[Znn - think]]
 - [[bEv - remove restraint]]
-- [[brr - brr]]
+- [[brr - land]]
 - [[dry - know]]
 - [[dyn - judgment]]
 - [[fEl - deed]]
 - [[fjr - cleave cut open]]
-- [[fkh - fkh]]
-- [[jHm - jhm]]
-- [[jrm - jrm]]
+- [[fkh - eating fruit]]
+- [[jHm - intense heat burning]]
+- [[jrm - criminals]]
 - [[k*b - denied]]
 - [[kfr - disbelieve]]
 - [[kll - every]]
-- [[ksb - kasaba]]
+- [[ksb - collect gain]]
 - [[ktb - book]]
 - [[kwn - is]]
-- [[kyl - mikyal]]
+- [[kyl - specific capacity measure]]
 - [[mrr - time]]
-- [[msk - msk]]
+- [[msk - hold]]
 - [[nDr - radiance]]
 - [[nEm - favor]]
 - [[nZr - look at towards]]
 - [[nfs - soul]]
-- [[qlb - qlb]]
+- [[qlb - alter]]
 - [[qrb - become near]]
 - [[qwl - qawala]]
 - [[qwm - upright]]

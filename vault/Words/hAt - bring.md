@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:111 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they say, "None will enter Paradise except one who is a Jew or a Christian." That is [merely] their wishful thinking. Say, "Produce your proof, if you should be truthful."
 
 **English (Yusuf Ali):** And they say: "None shall enter Paradise unless he be a Jew or a Christian." Those are their (vain) desires. Say: "Produce your proof if ye are truthful."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (یہودی اور عیسائی) کہتے ہیں کہ یہودیوں اور عیسائیوں کے سوا کوئی بہشت میں نہیں جانے کا۔ یہ ان لوگوں کے خیالاتِ باطل ہیں۔ (اے پیغمبر ان سے) کہہ دو کہ اگر سچے ہو تو دلیل پیش کرو
 
 [Open on Quran.com](https://quran.com/2/111)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or have they taken for worship (other) gods besides him? Say, "Bring your convincing proof: this is the Message of those with me and the Message of those before me." But most of them know not the Truth, and so turn away.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا لوگوں نے خدا کو چھوڑ کر اور معبود بنالئے ہیں۔ کہہ دو کہ (اس بات پر) اپنی دلیل پیش کرو۔ یہ (میری اور) میرے ساتھ والوں کی کتاب بھی ہے اور جو مجھ سے پہلے (پیغمبر) ہوئے ہیں۔ ان کی کتابیں بھی ہیں۔ بلکہ (بات یہ ہے کہ) ان اکثر حق بات کو نہیں جانتے اور اس لئے اس سے منہ پھیر لیتے ہیں
+
 [Open on Quran.com](https://quran.com/21/24)
 
 #### 27:64 · [[027 An-Naml]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or, Who originates creation, then repeats it, and who gives you sustenance from heaven and earth? (Can there be another) god besides Allah? Say, "Bring forth your argument, if ye are telling the truth!"
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا کون خلقت کو پہلی بار پیدا کرتا۔ پھر اس کو بار بار پیدا کرتا رہتا ہے اور (کون) تم کو آسمان اور زمین سے رزق دیتا ہے (یہ سب کچھ خدا کرتا ہے) تو کیا خدا کے ساتھ کوئی اور معبود بھی ہے (ہرگز نہیں) کہہ دو کہ (مشرکو) اگر تم سچے ہو تو دلیل پیش کرو
+
 [Open on Quran.com](https://quran.com/27/64)
 
 #### 28:75 · [[028 Al-Qasas]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We will extract from every nation a witness and say, "Produce your proof," and they will know that the truth belongs to Allāh, and lost from them is that which they used to invent.
 
 **English (Yusuf Ali):** And from each people shall We draw a witness, and We shall say: "Produce your Proof": then shall they know that the Truth is in Allah (alone), and the (lies) which they invented will leave them in lurch.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہر ایک اُمت میں سے گواہ نکال لیں گے پھر کہیں گے کہ اپنی دلیل پیش کرو تو وہ جان لیں گے کہ سچ بات خدا کی ہے اور جو کچھ وہ افتراء کیا کرتے تھے ان سے جاتا رہے گا
 
 [Open on Quran.com](https://quran.com/28/75)
 

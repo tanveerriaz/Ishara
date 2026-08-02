@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Ejl - ejl]]
+- [[Ejl - incite cause someone]]
 
 ### Meaning
 **immediate** · Lemma **عاجِلَة**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 17:18 · [[017 Al-Isra]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Whoever should desire the immediate - We hasten for him from it what We will to whom We intend. Then We have made for him Hell, which he will [enter to] burn, censured and banished.
 
 **English (Yusuf Ali):** If any do wish for the transitory things (of this life), We readily grant them - such things as We will, to such person as We will: in the end have We provided Hell for them: they will burn therein, disgraced and rejected.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص دنیا (کی آسودگی) کا خواہشمند ہو تو ہم اس میں سے جسے چاہتے ہیں اور جتنا چاہتے ہیں جلد دے دیتے ہیں۔ پھر اس کے لئے جہنم کو (ٹھکانا) مقرر کر رکھا ہے۔ جس میں وہ نفرین سن کر اور (درگاہ خدا سے) راندہ ہو کر داخل ہوگا
 
 [Open on Quran.com](https://quran.com/17/18)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nay, (ye men!) but ye love the fleeting life,
 
+**Urdu (Fatah Muhammad Jalandhari):** مگر (لوگو) تم دنیا کو دوست رکھتے ہو
+
 [Open on Quran.com](https://quran.com/75/20)
 
 #### 76:27 · [[076 Al-Insan]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, these [disbelievers] love the immediate and leave behind them a grave Day.
 
 **English (Yusuf Ali):** As to these, they love the fleeting life, and put away behind them a Day (that will be) hard.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ لوگ دنیا کو دوست رکھتے ہیں اور (قیامت کے) بھاری دن کو پس پشت چھوڑے دیتے ہیں
 
 [Open on Quran.com](https://quran.com/76/27)
 

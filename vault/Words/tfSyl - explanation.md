@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:154 · [[006 Al-Anam]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then We gave Moses the Scripture, making complete [Our favor] upon the one who did good [i.e., Moses] and as a detailed explanation of all things and as guidance and mercy that perhaps in the meeting with their Lord they would believe.
 
 **English (Yusuf Ali):** Moreover, We gave Moses the Book, completing (Our favour) to those who would do right, and explaining all things in detail,- and a guide and a mercy, that they might believe in the meeting with their Lord.
+
+**Urdu (Fatah Muhammad Jalandhari):** (ہاں) پھر (سن لو کہ) ہم نے موسیؑ کو کتاب عنایت کی تھی تاکہ ان لوگوں پر جو نیکوکار ہیں نعمت پوری کر دیں اور (اس میں) ہر چیز کا بیان (ہے) اور ہدایت (ہے) اور رحمت ہے تاکہ (ان کی امت کے) لوگ اپنے پروردگار کے رُوبرو حاضر ہونے کا یقین کریں
 
 [Open on Quran.com](https://quran.com/6/154)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We ordained laws for him in the tablets in all matters, both commanding and explaining all things, (and said): "Take and hold these with firmness, and enjoin thy people to hold fast by the best in the precepts: soon shall I show you the homes of the wicked,- (How they lie desolate)."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے (تورات) کی تختیوں میں ان کے لیے ہر قسم کی نصیحت اور ہر چیز کی تفصیل لکھ دی پھر (ارشاد فرمایا کہ) اسے زور سے پکڑے رہو اور اپنی قوم سے بھی کہہ دو کہ ان باتوں کو جو اس میں (مندرج ہیں اور) بہت بہتر ہیں پکڑے رہیں۔ میں عنقریب تم کو نافرمان لوگوں کا گھر دکھاؤں گا
+
 [Open on Quran.com](https://quran.com/7/145)
 
 #### 10:37 · [[010 Yunus]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And it was not [possible] for this Qur’ān to be produced by other than Allāh, but [it is] a confirmation of what was before it and a detailed explanation of the [former] Scripture, about which there is no doubt, from the Lord of the worlds.
 
 **English (Yusuf Ali):** This Qur'an is not such as can be produced by other than Allah; on the contrary it is a confirmation of (revelations) that went before it, and a fuller explanation of the Book - wherein there is no doubt - from the Lord of the worlds.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ قرآن ایسا نہیں کہ خدا کے سوا کوئی اس کو اپنی طرف سے بنا لائے۔ ہاں (ہاں یہ خدا کا کلام ہے) جو (کتابیں) اس سے پہلے (کی) ہیں۔ ان کی تصدیق کرتا ہے اور ان ہی کتابوں کی (اس میں) تفصیل ہے اس میں کچھ شک نہیں (کہ) یہ رب العالمین کی طرف سے (نازل ہوا) ہے
 
 [Open on Quran.com](https://quran.com/10/37)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There is, in their stories, instruction for men endued with understanding. It is not a tale invented, but a confirmation of what went before it,- a detailed exposition of all things, and a guide and a mercy to any such as believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** ان کے قصے میں عقلمندوں کے لیے عبرت ہے۔ یہ (قرآن) ایسی بات نہیں ہے جو (اپنے دل سے) بنائی گئی ہو بلکہ جو (کتابیں) اس سے پہلے نازل ہوئی ہیں ان کی تصدیق (کرنے والا) ہے اور مومنوں کے لیے ہدایت اور رحمت ہے
+
 [Open on Quran.com](https://quran.com/12/111)
 
 #### 17:12 · [[017 Al-Isra]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have made the night and day two signs, and We erased the sign of the night and made the sign of the day visible that you may seek bounty from your Lord and may know the number of years and the account [of time]. And everything We have set out in detail.
 
 **English (Yusuf Ali):** We have made the Night and the Day as two (of Our) Signs: the Sign of the Night have We obscured, while the Sign of the Day We have made to enlighten you; that ye may seek bounty from your Lord, and that ye may know the number and count of the years: all things have We explained in detail.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے دن اور رات کو دو نشانیاں بنایا ہے رات کی نشانی کو تاریک بنایا اور دن کی نشانی کو روشن۔ تاکہ تم اپنے پروردگار کا فضل (یعنی) روزی تلاش کرو اور برسوں کا شمار اور حساب جانو۔ اور ہم نے ہر چیز کو (بخوبی) تفصیل کردی ہے
 
 [Open on Quran.com](https://quran.com/17/12)
 

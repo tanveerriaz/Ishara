@@ -14,65 +14,65 @@ The Overthrowing · 29 ayahs
 
 ## Words in this surah (graph)
 
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[jwAr - ships]] — `جَوار` · ships
-- [[gyb - unseen]] — `غَيْب` · unseen
-- [[s>l - ask]] — `سَأَلَ` · ask
-- [[>HDrt - swayed]] — `أَحْضَرَتْ` · swayed
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
-- [[lyl - night]] — `لَيْل` · night
-- [[allah - God]] — `الله` · God
-- [[qwp - strength]] — `قُوَّة` · strength
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[syrt - could moved]] — `سُيِّرَتْ` · could moved
-- [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
-- [[Er$ - throne]] — `عَرْش` · throne
-- [[qwl - speech]] — `قَوْل` · speech
-- [[njm - stars]] — `نَجْم` · stars
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[jHym - hellfire]] — `جَحِيم` · hellfire
-- [[>myn - trustworthy]] — `أَمِين` · trustworthy
-- [[mjnwn - madman]] — `مَجْنُون` · madman
-- [[$ms - sun]] — `شَمْس` · sun
+- [[$yTAn - shaitaan]] — `شَيْطان` · shaitaan
+- [[End - near]] — `عِند` · near
 - [[mkyn - firmly established]] — `مَكِين` · firmly established
+- [[njm - stars]] — `نَجْم` · stars
+- [[krym - noble]] — `كَرِيم` · noble
+- [[syrt - could moved]] — `سُيِّرَتْ` · could moved
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[>fq - horizons]] — `أُفُق` · horizons
+- [[n$rt - will spread]] — `نُشِرَتْ` · will spread
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[rjym - accursed]] — `رَجِيم` · accursed
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[rb - lord]] — `رَبّ` · lord
+- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
+- [[$ms - sun]] — `شَمْس` · sun
+- [[zwjt - paired]] — `زُوِّجَتْ` · paired
+- [[>y - o you]] — `أَيّ` · o you
+- [[qwl - speech]] — `قَوْل` · speech
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[SHf - scriptures]] — `صُحُف` · scriptures
+- [[Elm - know]] — `عَلِمَ` · know
 - [[r>Y - you see]] — `رَأَى` · you see
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[jbl - mountains]] — `جَبَل` · mountains
 
 ## Roots
 
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$ms - horse refusing ridden]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*nb - tail]]
-- [[>fq - afq]]
-- [[>mn - amn]]
+- [[>fq - go one's own]]
+- [[>mn - believe]]
 - [[>yy - ism]]
-- [[E$r - eshr]]
+- [[E$r - ten]]
 - [[Elm - knowledge]]
 - [[End - near]]
-- [[Er$ - ersh]]
-- [[H$r - hshr]]
-- [[HDr - hdr]]
+- [[Er$ - shaded structure]]
+- [[H$r - gather collect people]]
+- [[HDr - present]]
 - [[SHb - lord]]
 - [[SHf - scriptures]]
-- [[SbH - sbh]]
-- [[TwE - twe]]
+- [[SbH - morning]]
+- [[TwE - obey]]
 - [[allah - God]]
 - [[bHr - large body water]]
 - [[byn - clear]]
-- [[gyb - ghyb]]
-- [[jHm - jhm]]
-- [[jbl - jbl]]
-- [[jnn - jann]]
+- [[gyb - absent]]
+- [[jHm - intense heat burning]]
+- [[jbl - large company multitude]]
+- [[jnn - cover]]
 - [[jry - passage time events]]
-- [[krm - krm]]
-- [[lyl - layl]]
-- [[mkn - mkn]]
-- [[n$r - n-sh-r]]
+- [[krm - noble]]
+- [[lyl - night]]
+- [[mkn - establish]]
+- [[n$r - spread open something]]
 - [[nfs - soul]]
 - [[njm - star constellation]]
 - [[qsm - division apportionment things]]
@@ -88,9 +88,9 @@ The Overthrowing · 29 ayahs
 - [[sEr - kindle stir fire]]
 - [[sjr - fill something]]
 - [[smw - name]]
-- [[syr - syr 2]]
-- [[zlf - zlf]]
-- [[zwj - zawj]]
+- [[syr - go]]
+- [[zlf - will brought near]]
+- [[zwj - one pair couple]]
 
 ## Sample (ayah 1)
 

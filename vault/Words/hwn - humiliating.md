@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:93 · [[006 Al-Anam]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And who is more unjust than one who invents a lie about Allāh or says, "It has been inspired to me," while nothing has been inspired to him, and one who says, "I will reveal [something] like what Allāh revealed." And if you could but see when the wrongdoers are in the overwhelming pangs of death while the angels extend their hands, [saying], "Discharge your souls! Today you will be awarded the punishment of [extreme] humiliation for what you used to say against Allāh other than the truth and [that] you were, toward His verses, being arrogant."
 
 **English (Yusuf Ali):** Who can be more wicked than one who inventeth a lie against Allah, or saith, "I have received inspiration," when he hath received none, or (again) who saith, "I can reveal the like of what Allah hath revealed"? If thou couldst but see how the wicked (do fare) in the flood of confusion at death! - the angels stretch forth their hands, (saying),"Yield up your souls: this day shall ye receive your reward,- a penalty of shame, for that ye used to tell lies against Allah, and scornfully to reject of His signs!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے بڑھ کر ظالم کون ہوگا جو خدا پر جھوٹ افتراء کرے۔ یا یہ کہے کہ مجھ پر وحی آئی ہے حالانکہ اس پر کچھ بھی وحی نہ آئی ہو اور جو یہ کہے کہ جس طرح کی کتاب خدا نے نازل کی ہے اس طرح کی میں بھی بنا لیتا ہوں۔ اور کاش تم ان ظالم (یعنی مشرک) لوگوں کو اس وقت دیکھو جب موت کی سختیوں میں (مبتلا) ہوں اور فرشتے (ان کی طرف عذاب کے لئے) ہاتھ بڑھا رہے ہوں کہ نکالو اپنی جانیں۔ آج تم کو ذلت کے عذاب کی سزا دی جائے گی اس لئے کہ تم خدا پر جھوٹ بولا کرتے تھے اور اس کی آیتوں سے سرکشی کرتے تھے
 
 [Open on Quran.com](https://quran.com/6/93)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** With shame does he hide himself from his people, because of the bad news he has had! Shall he retain it on (sufferance and) contempt, or bury it in the dust? Ah! what an evil (choice) they decide on?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس خبر بد سے (جو وہ سنتا ہے) لوگوں سے چھپتا پھرتا ہے (اور سوچتا ہے) کہ آیا ذلت برداشت کرکے لڑکی کو زندہ رہنے دے یا زمین میں گاڑ دے۔ دیکھو یہ جو تجویز کرتے ہیں بہت بری ہے
+
 [Open on Quran.com](https://quran.com/16/59)
 
 #### 25:63 · [[025 Al-Furqan]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace,
 
 **English (Yusuf Ali):** And the servants of (Allah) Most Gracious are those who walk on the earth in humility, and when the ignorant address them, they say, "Peace!";
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا کے بندے تو وہ ہیں جو زمین پر آہستگی سے چلتے ہیں اور جب جاہل لوگ ان سے (جاہلانہ) گفتگو کرتے ہیں تو سلام کہتے ہیں
 
 [Open on Quran.com](https://quran.com/25/63)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** As to the Thamud, We gave them Guidance, but they preferred blindness (of heart) to Guidance: so the stunning Punishment of humiliation seized them, because of what they had earned.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو ثمود تھے ان کو ہم نے سیدھا رستہ دکھا دیا تھا مگر انہوں نے ہدایت کے مقابلے میں اندھا دھند رہنا پسند کیا تو ان کے اعمال کی سزا میں کڑک نے ان کو آپکڑا۔ اور وہ ذلت کا عذاب تھا
+
 [Open on Quran.com](https://quran.com/41/17)
 
 #### 46:20 · [[046 Al-Ahqaf]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the Day those who disbelieved are exposed to the Fire [it will be said], "You exhausted your pleasures during your worldly life and enjoyed them, so this Day you will be awarded the punishment of [extreme] humiliation because you were arrogant upon the earth without right and because you were defiantly disobedient."
 
 **English (Yusuf Ali):** And on the Day that the Unbelievers will be placed before the Fire, (It will be said to them): "Ye received your good things in the life of the world, and ye took your pleasure out of them: but today shall ye be recompensed with a Penalty of humiliation: for that ye were arrogant on earth without just cause, and that ye (ever) transgressed."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن کافر دوزخ کے سامنے کئے جائیں گے (تو کہا جائے گا کہ) تم اپنی دنیا کی زندگی میں لذتیں حاصل کرچکے اور ان سے متمتع ہوچکے سو آج تم کو ذلت کا عذاب ہے، (یہ) اس کی سزا (ہے) کہ تم زمین میں ناحق غرور کیا کرتے تھے۔ اور اس کی بدکرداری کرتے تھے
 
 [Open on Quran.com](https://quran.com/46/20)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Erb - erb]]
+- [[Erb - bedouins]]
 
 ### Meaning
 **arabic** · Lemma **عَرَبِيّ**
@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 12:2 · [[012 Yusuf]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, We have sent it down as an Arabic Qur’ān that you might understand.
 
 **English (Yusuf Ali):** We have sent it down as an Arabic Qur'an, in order that ye may learn wisdom.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے اس قرآن کو عربی میں نازل کیا ہے تاکہ تم سمجھ سکو
 
 [Open on Quran.com](https://quran.com/12/2)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thus have We revealed it to be a judgment of authority in Arabic. Wert thou to follow their (vain) desires after the knowledge which hath reached thee, then wouldst thou find neither protector nor defender against Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے اس قرآن کو عربی زبان کا فرمان نازل کیا ہے۔ اور اگر تم علم (ودانش) آنے کے بعد ان لوگوں کی خواہشوں کے پیچھے چلو گے تو خدا کے سامنے کوئی نہ تمہارا مددگار ہوگا اور نہ کوئی بچانے والا
+
 [Open on Quran.com](https://quran.com/13/37)
 
 #### 16:103 · [[016 An-Nahl]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We certainly know that they say, "It is only a human being who teaches him [i.e., the Prophet (ﷺ)]." The tongue of the one they refer to is foreign, and this [recitation, i.e., Qur’ān] is [in] a clear Arabic language.
 
 **English (Yusuf Ali):** We know indeed that they say, "It is a man that teaches him." The tongue of him they wickedly point to is notably foreign, while this is Arabic, pure and clear.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہمیں معلوم ہے کہ یہ کہتے ہیں کہ اس (پیغمبر) کو ایک شخص سکھا جاتا ہے۔ مگر جس کی طرف (تعلیم کی) نسبت کرتے ہیں اس کی زبان تو عجمی ہے اور یہ صاف عربی زبان ہے
 
 [Open on Quran.com](https://quran.com/16/103)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thus have We sent this down - an arabic Qur'an - and explained therein in detail some of the warnings, in order that they may fear Allah, or that it may cause their remembrance (of Him).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس کو اسی طرح کا قرآن عربی نازل کیا ہے اور اس میں طرح طرح کے ڈراوے بیان کردیئے ہیں تاکہ لوگ پرہیزگار بنیں یا خدا ان کے لئے نصیحت پیدا کردے
+
 [Open on Quran.com](https://quran.com/20/113)
 
 #### 26:195 · [[026 Ash-Shuara]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** In a clear Arabic language.
 
 **English (Yusuf Ali):** In the perspicuous Arabic tongue.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (القا بھی) فصیح عربی زبان میں (کیا ہے)
 
 [Open on Quran.com](https://quran.com/26/195)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (It is) a Qur'an in Arabic, without any crookedness (therein): in order that they may guard against Evil.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ) قرآن عربی (ہے) جس میں کوئی عیب (اور اختلاف) نہیں تاکہ وہ ڈر مانیں
+
 [Open on Quran.com](https://quran.com/39/28)
 
 #### 41:3 · [[041 Fussilat]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** A Book whose verses have been detailed, an Arabic Qur’ān for a people who know,
 
 **English (Yusuf Ali):** A Book, whereof the verses are explained in detail;- a Qur'an in Arabic, for people who understand;-
+
+**Urdu (Fatah Muhammad Jalandhari):** کتاب جس کی آیتیں واضح (المعانی) ہیں (یعنی) قرآن عربی ان لوگوں کے لئے جو سمجھ رکھتے ہیں
 
 [Open on Quran.com](https://quran.com/41/3)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Had We sent this as a Qur'an (in the language) other than Arabic, they would have said: "Why are not its verses explained in detail? What! (a Book) not in Arabic and (a Messenger an Arab?" Say: "It is a Guide and a Healing to those who believe; and for those who believe not, there is a deafness in their ears, and it is blindness in their (eyes): They are (as it were) being called from a place far distant!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم اس قرآن کو غیر زبان عرب میں (نازل) کرتے تو یہ لوگ کہتے کہ اس کی آیتیں (ہماری زبان میں) کیوں کھول کر بیان نہیں کی گئیں۔ کیا (خوب کہ قرآن تو) عجمی اور (مخاطب) عربی۔ کہہ دو کہ جو ایمان لاتے ہیں ان کے لئے (یہ) ہدایت اور شفا ہے۔ اور جو ایمان نہیں لاتے ان کے کانوں میں گرانی (یعنی بہراپن) ہے اور یہ ان کے حق میں (موجب) نابینائی ہے۔ گرانی کے سبب ان کو (گویا) دور جگہ سے آواز دی جاتی ہے
+
 [Open on Quran.com](https://quran.com/41/44)
 
 #### 42:7 · [[042 Ash-Shuraa]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thus have We sent by inspiration to thee an Arabic Qur'an: that thou mayest warn the Mother of Cities and all around her,- and warn (them) of the Day of Assembly, of which there is no doubt: (when) some will be in the Garden, and some in the Blazing Fire.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح تمہارے پاس قرآن عربی بھیجا ہے تاکہ تم بڑے گاؤں (یعنی مکّے) کے رہنے والوں کو اور جو لوگ اس کے اردگرد رہتے ہیں ان کو رستہ دکھاؤ اور انہیں قیامت کے دن کا بھی جس میں کچھ شک نہیں ہے خوف دلاؤ۔ اس روز ایک فریق بہشت میں ہوگا اور ایک فریق دوزخ میں
+
 [Open on Quran.com](https://quran.com/42/7)
 
 #### 43:3 · [[043 Az-Zukhruf]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, We have made it an Arabic Qur’ān that you might understand.
 
 **English (Yusuf Ali):** We have made it a Qur'an in Arabic, that ye may be able to understand (and learn wisdom).
+
+**Urdu (Fatah Muhammad Jalandhari):** کہ ہم نے اس کو قرآن عربی بنایا ہے تاکہ تم سمجھو
 
 [Open on Quran.com](https://quran.com/43/3)
 

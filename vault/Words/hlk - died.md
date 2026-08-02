@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[hlk - hlk]]
+- [[hlk - perish destroyed]]
 
 ### Meaning
 **died** · Lemma **هَلَكَ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:176 · [[004 An-Nisa]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They request from you a [legal] ruling. Say, "Allāh gives you a ruling concerning one having neither descendants nor ascendants [as heirs]." If a man dies, leaving no child but [only] a sister, she will have half of what he left. And he inherits from her if she [dies and] has no child. But if there are two sisters [or more], they will have two thirds of what he left. If there are both brothers and sisters, the male will have the share of two females. Allāh makes clear to you [His law], lest you go astray. And Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** They ask thee for a legal decision. Say: Allah directs (thus) about those who leave no descendants or ascendants as heirs. If it is a man that dies, leaving a sister but no child, she shall have half the inheritance: If (such a deceased was) a woman, who left no child, Her brother takes her inheritance: If there are two sisters, they shall have two-thirds of the inheritance (between them): if there are brothers and sisters, (they share), the male having twice the share of the female. Thus doth Allah make clear to you (His law), lest ye err. And Allah hath knowledge of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگ تم سے (کلالہ کے بارے میں) حکم (خدا) دریافت کرتے ہیں کہہ دو کہ خدا کلالہ بارے میں یہ حکم دیتا ہے کہ اگر کوئی ایسا مرد مرجائے جس کے اولاد نہ ہو (اور نہ ماں باپ) اور اس کے بہن ہو تو اس کو بھائی کے ترکے میں سے آدھا حصہ ملے گا۔ اور اگر بہن مرجائے اور اس کے اولاد نہ ہو تو اس کے تمام مال کا وارث بھائی ہوگا اور اگر (مرنے والے بھائی کی) دو بہنیں ہوں تو دونوں کو بھائی کے ترکے میں سے دو تہائی۔ اور اگر بھائی اور بہن یعنی مرد اور عورتیں ملے جلے وارث ہوں تو مرد کا حصہ دو عورتوں کے برابر ہے۔ (یہ احکام) خدا تم سے اس لئے بیان فرماتا ہے کہ بھٹکتے نہ پھرو۔ اور خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/4/176)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Remember ye were on the hither side of the valley, and they on the farther side, and the caravan on lower ground than ye. Even if ye had made a mutual appointment to meet, ye would certainly have failed in the appointment: But (thus ye met), that Allah might accomplish a matter already enacted; that those who died might die after a clear Sign (had been given), and those who lived might live after a Clear Sign (had been given). And verily Allah is He Who heareth and knoweth (all things).
 
+**Urdu (Fatah Muhammad Jalandhari):** جس وقت تم (مدینے سے) قریب کے ناکے پر تھے اور کافر بعید کے ناکے پر اور قافلہ تم سے نیچے (اتر گیا) تھا۔ اور اگر تم (جنگ کے لیے) آپس میں قرارداد کرلیتے تو وقت معین (پر جمع ہونے) میں تقدیم وتاخیر ہو جاتی۔ لیکن خدا کو منظور تھا کہ جو کام ہو کر رہنے والا تھا اسے کر ہی ڈالے تاکہ جو مرے بصیرت پر (یعنی یقین جان کر) مرے اور جو جیتا رہے وہ بھی بصیرت پر (یعنی حق پہچان کر) جیتا رہے۔ اور کچھ شک نہیں کہ خدا سنتا جانتا ہے
+
 [Open on Quran.com](https://quran.com/8/42)
 
 #### 40:34 · [[040 Ghafir]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And to you there came Joseph in times gone by, with Clear Signs, but ye ceased not to doubt of the (Mission) for which he had come: At length, when he died, ye said: 'No messenger will Allah send after him.' thus doth Allah leave to stray such as transgress and live in doubt,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور پہلے یوسف بھی تمہارے پاس نشانیاں لے کر آئے تھے تو جو وہ لائے تھے اس سے تم ہمیشہ شک ہی میں رہے۔ یہاں تک کہ جب وہ فوت ہوگئے تو تم کہنے لگے کہ خدا اس کے بعد کبھی کوئی پیغمبر نہیں بھیجے گا۔ اسی طرح خدا اس شخص کو گمراہ کر دیتا ہے جو حد سے نکل جانے والا اور شک کرنے والا ہو
+
 [Open on Quran.com](https://quran.com/40/34)
 
 #### 69:29 · [[069 Al-Haqqah]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Gone from me is my authority."
 
 **English (Yusuf Ali):** "My power has perished from me!"...
+
+**Urdu (Fatah Muhammad Jalandhari):** (ہائے) میری سلطنت خاک میں مل گئی
 
 [Open on Quran.com](https://quran.com/69/29)
 

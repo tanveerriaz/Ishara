@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[srE - sre]]
+- [[srE - quicken hasten]]
 
 ### Meaning
 **hasten** · Lemma **يُسارِعُ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:114 · [[003 Ali Imran]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They believe in Allāh and the Last Day, and they enjoin what is right and forbid what is wrong and hasten to good deeds. And those are among the righteous.
 
 **English (Yusuf Ali):** They believe in Allah and the Last Day; they enjoin what is right, and forbid what is wrong; and they hasten (in emulation) in (all) good works: They are in the ranks of the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور) خدا پر اور روز آخرت پر ایمان رکھتے اور اچھے کام کرنےکو کہتے اور بری باتوں سے منع کرتےاور نیکیوں پر لپکتے ہیں اور یہی لوگ نیکوکار ہیں
 
 [Open on Quran.com](https://quran.com/3/114)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Be quick in the race for forgiveness from your Lord, and for a Garden whose width is that (of the whole) of the heavens and of the earth, prepared for the righteous,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اپنے پروردگار کی بخشش اور بہشت کی طرف لپکو جس کا عرض آسمان اور زمین کے برابر ہے اور جو (خدا سے) ڈرنے والوں کے لیے تیار کی گئی ہے
+
 [Open on Quran.com](https://quran.com/3/133)
 
 #### 3:176 · [[003 Ali Imran]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not be grieved, [O Muḥammad], by those who hasten into disbelief. Indeed, they will never harm Allāh at all. Allāh intends that He should give them no share in the Hereafter, and for them is a great punishment.
 
 **English (Yusuf Ali):** Let not those grieve thee who rush headlong into Unbelief: Not the least harm will they do to Allah: Allah's plan is that He will give them no portion in the Hereafter, but a severe punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ کفر میں جلدی کرتے ہیں ان (کی وجہ) سے غمگین نہ ہونا۔ یہ خدا کا کچھ نقصان نہیں کرسکتے خدا چاہتا ہے کہ آخرت میں ان کو کچھ حصہ نہ دے اور ان کے لئے بڑا عذاب تیار ہے
 
 [Open on Quran.com](https://quran.com/3/176)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O Messenger! let not those grieve thee, who race each other into unbelief: (whether it be) among those who say "We believe" with their lips but whose hearts have no faith; or it be among the Jews,- men who will listen to any lie,- will listen even to others who have never so much as come to thee. They change the words from their (right) times and places: they say, "If ye are given this, take it, but if not, beware!" If any one's trial is intended by Allah, thou hast no authority in the least for him against Allah. For such - it is not Allah's will to purify their hearts. For them there is disgrace in this world, and in the Hereafter a heavy punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر! جو لوگ کفر میں جلدی کرتے ہیں (کچھ تو) ان میں سے (ہیں) جو منہ سے کہتے ہیں کہ ہم مومن ہیں لیکن ان کے دل مومن نہیں ہیں اور (کچھ) ان میں سے جو یہودی ہیں ان کی وجہ سے غمناک نہ ہونا یہ غلط باتیں بنانے کے لیے جاسوسی کرتے پھرتے ہیں اور ایسے لوگوں (کے بہکانے) کے لیے جاسوس بنے ہیں جو ابھی تمہارے پاس نہیں آئے (صحیح) باتوں کو ان کے مقامات (میں ثابت ہونے) کے بعد بدل دیتے ہیں (اور لوگوں سے) کہتے ہیں کہ اگر تم کو یہی (حکم) ملے تو اسے قبول کر لینا اور اگر یہ نہ ملے تو اس سے احتراز کرنا اور اگر کسی کو خدا گمراہ کرنا چاہے تو اس کے لیے تم کچھ بھی خدا سے (ہدایت کا) اختیار نہیں رکھتے یہ وہ لوگ ہیں جن کے دلوں کو خدا نے پاک کرنا نہیں چاہا ان کے لیے دنیا میں بھی ذلت ہے اور آخرت میں بھی بڑا عذاب ہے
+
 [Open on Quran.com](https://quran.com/5/41)
 
 #### 5:52 · [[005 Al-Maidah]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So you see those in whose hearts is disease [i.e., hypocrisy] hastening into [association with] them, saying, "We are afraid a misfortune may strike us." But perhaps Allāh will bring conquest or a decision from Him, and they will become, over what they have been concealing within themselves, regretful.
 
 **English (Yusuf Ali):** Those in whose hearts is a disease - thou seest how eagerly they run about amongst them, saying: "We do fear lest a change of fortune bring us disaster." Ah! perhaps Allah will give (thee) victory, or a decision according to His will. Then will they repent of the thoughts which they secretly harboured in their hearts.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جن لوگوں کے دلوں میں (نفاق کا) مرض ہے تم ان کو دیکھو گے کہ ان میں دوڑ دوڑ کے ملے جاتے ہیں کہتے ہیں کہ ہمیں خوف ہے کہ کہیں ہم پر زمانے کی گردش نہ آجائے سو قریب ہے کہ خدا فتح بھیجے یا اپنے ہاں سے کوئی اور امر (نازل فرمائے) پھر یہ اپنے دل کی باتوں پر جو چھپایا کرتے تھے پشیمان ہو کر رہ جائیں گے
 
 [Open on Quran.com](https://quran.com/5/52)
 
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Many of them dost thou see, racing each other in sin and rancour, and their eating of things forbidden. Evil indeed are the things that they do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم دیکھو گے کہ ان میں اکثر گناہ اور زیادتی اور حرام کھانے میں جلدی کر رہے ہیں بےشک یہ جو کچھ کرتے ہیں برا کرتے ہیں
+
 [Open on Quran.com](https://quran.com/5/62)
 
 #### 21:90 · [[021 Al-Anbya]]
@@ -138,6 +150,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate Us in hope and fear, and they were to Us humbly submissive.
 
 **English (Yusuf Ali):** So We listened to him: and We granted him Yahya: We cured his wife's (Barrenness) for him. These (three) were ever quick in emulation in good works; they used to call on Us with love and reverence, and humble themselves before Us.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان کی پکار سن لی۔ اور ان کو یحییٰ بخشے اور ان کی بیوی کو اُن کے (حسن معاشرت کے) قابل بنادیا۔ یہ لوگ لپک لپک کر نیکیاں کرتے اور ہمیں امید سے پکارتے اور ہمارے آگے عاجزی کیا کرتے تھے
 
 [Open on Quran.com](https://quran.com/21/90)
 
@@ -155,6 +169,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We would hasten them on in every good? Nay, they do not understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو (اس سے) ان کی بھلائی میں جلدی کر رہے ہیں (نہیں) بلکہ یہ سمجھتے ہی نہیں
+
 [Open on Quran.com](https://quran.com/23/56)
 
 #### 23:61 · [[023 Al-Muminun]]
@@ -170,6 +186,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is those who hasten to good deeds, and they outstrip [others] therein.
 
 **English (Yusuf Ali):** It is these who hasten in every good work, and these who are foremost in them.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ نیکیوں میں جلدی کرے اور یہی اُن کے لئے آگے نکل جاتے ہیں
 
 [Open on Quran.com](https://quran.com/23/61)
 

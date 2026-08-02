@@ -14,45 +14,45 @@ The Resurrection · 40 ayahs
 
 ## Words in this surah (graph)
 
-- [[swY - proportioned it]] — `سَوَّى` · proportioned it
 - [[>wlY - woe]] — `أَوْلَى` · woe
+- [[swY - proportioned it]] — `سَوَّى` · proportioned it
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[wjh - faces]] — `وَجْه` · faces
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[qr> - read]] — `قَرَأَ` · read
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
-- [[lys - not]] — `لَيْسَ` · not
-- [[sAq - shins]] — `ساق` · shins
-- [[Ejl - calf]] — `عِجْل` · calf
-- [[>nvY - female]] — `أُنثَى` · female
-- [[Hsb - think]] — `حَسْب` · think
-- [[bSyrp - enlightenment]] — `بَصِيرَة` · enlightenment
-- [[rb - lord]] — `رَبّ` · lord
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
 - [[Elqp - clinging substance]] — `عَلَقَة` · clinging substance
 - [[SlY - send blessings]] — `صَلَّى` · send blessings
-- [[wzr - burden]] — `وِزْر` · burden
-- [[>lqY - throw]] — `أَلْقَى` · throw
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[qAdr - able]] — `قادِر` · able
+- [[byAn - declaration]] — `بَيان` · declaration
+- [[wjh - faces]] — `وَجْه` · faces
 - [[qmr - moon]] — `قَمَر` · moon
-- [[mstqr - dwelling place]] — `مُسْتَقَرّ` · dwelling place
-- [[xsf - becomes dark]] — `خَسَفَ` · becomes dark
+- [[qr> - read]] — `قَرَأَ` · read
+- [[Hsb - think]] — `حَسْب` · think
+- [[brq - lightning]] — `بَرْق` · lightning
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[qAdr - able]] — `قادِر` · able
+- [[Sdq - truth]] — `صَدَقَ` · truth
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[EAjlp - immediate]] — `عاجِلَة` · immediate
+- [[>xr - we delay]] — `أَخَّرَ` · we delay
+- [[bSyrp - enlightenment]] — `بَصِيرَة` · enlightenment
+- [[>lqY - throw]] — `أَلْقَى` · throw
+- [[y*r - leave]] — `يَذَرَ` · leave
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[qyAmp - resurrection]] — `قِيامَة` · resurrection
+- [[qr'An - quran]] — `قُرْءان` · quran
 
 ## Roots
 
 - [[$ms - horse refusing ridden]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[>hl - people house]]
 - [[>mm - leadership]]
-- [[>ns - ans]]
+- [[>ns - mankind]]
 - [[>nv - female]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[E*r - excuse free blame]]
-- [[EZm - ezhm]]
-- [[Ejl - ejl]]
+- [[EZm - great]]
+- [[Ejl - incite cause someone]]
 - [[Elq - hang]]
 - [[Hbb - love]]
 - [[Hsb - number]]
@@ -60,34 +60,34 @@ The Resurrection · 40 ayahs
 - [[Sdq - speak truth]]
 - [[Slw - prayer]]
 - [[Znn - think]]
-- [[bSr - bsr]]
-- [[blg - balagha]]
-- [[brq - brq]]
+- [[bSr - mental perception]]
+- [[blg - reach]]
+- [[brq - shine gleam]]
 - [[byn - clear]]
 - [[fEl - deed]]
 - [[fjr - cleave cut open]]
-- [[fqr - fqr]]
-- [[frq - faraqa]]
-- [[frr - f-r-r]]
+- [[fqr - hollow well]]
+- [[frq - separate]]
+- [[frr - flight]]
 - [[jEl - we made]]
-- [[jmE - jme]]
+- [[jmE - collection]]
 - [[k*b - denied]]
 - [[kwn - is]]
 - [[lff - wrap]]
 - [[lqy - meeting]]
 - [[lsn - tongue]]
-- [[lwm - lwm]]
+- [[lwm - blame]]
 - [[lys - not]]
 - [[mny - decreeing]]
 - [[mwt - death]]
 - [[nDr - radiance]]
-- [[nTf - ntf]]
+- [[nTf - type sweetmeat]]
 - [[nZr - look at towards]]
-- [[nb> - nba]]
+- [[nb> - utter low sound]]
 - [[nfs - soul]]
 - [[qdm - putting something forward]]
 - [[qdr - measuring]]
-- [[qmr - qmr]]
+- [[qmr - contend stakes wagers]]
 - [[qr> - someone teaches others]]
 - [[qrr - abode]]
 - [[qsm - division apportionment things]]

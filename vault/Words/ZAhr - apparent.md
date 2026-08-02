@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:120 · [[006 Al-Anam]]
 
@@ -49,6 +49,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And leave [i.e., desist from] what is apparent of sin and what is concealed thereof. Indeed, those who earn [blame for] sin will be recompensed for that which they used to commit.
 
 **English (Yusuf Ali):** Eschew all sin, open or secret: those who earn sin will get due recompense for their "earnings."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ظاہری اور پوشیدہ (ہر طرح کا) گناہ ترک کر دو جو لوگ گناہ کرتے ہیں وہ عنقریب اپنے کئے کی سزا پائیں گے
 
 [Open on Quran.com](https://quran.com/6/120)
 
@@ -66,6 +68,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (But the treaties are) not dissolved with those Pagans with whom ye have entered into alliance and who have not subsequently failed you in aught, nor aided any one against you. So fulfil your engagements with them to the end of their term: for Allah loveth the righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** البتہ جن مشرکوں کے ساتھ تم نے عہد کیا ہو اور انہوں نے تمہارا کسی طرح کا قصور نہ کیا ہو اور نہ تمہارے مقابلے میں کسی کی مدد کی ہو تو جس مدت تک ان کے ساتھ عہد کیا ہو اسے پورا کرو۔ (کہ) خدا پرہیزگاروں کو دوست رکھتا ہے
+
 [Open on Quran.com](https://quran.com/9/4)
 
 #### 13:33 · [[013 Ar-Rad]]
@@ -81,6 +85,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then is He who is a maintainer of every soul, [knowing] what it has earned, [like any other]? But to Allāh they have attributed partners. Say, "Name them. Or do you inform Him of that which He knows not upon the earth or of what is apparent [i.e., alleged] of speech?" Rather, their [own] plan has been made attractive to those who disbelieve, and they have been averted from the way. And whomever Allāh sends astray - there will be for him no guide.
 
 **English (Yusuf Ali):** Is then He who standeth over every soul (and knoweth) all that it doth, (like any others)? And yet they ascribe partners to Allah. Say: "But name them! is it that ye will inform Him of something he knoweth not on earth, or is it (just) a show of words?" Nay! to those who believe not, their pretence seems pleasing, but they are kept back (thereby) from the path. And those whom Allah leaves to stray, no one can guide.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو کیا جو (خدا) ہر متنفس کے اعمال کا نگراں (ونگہباں) ہے (وہ بتوں کی طرح بےعلم وبےخبر ہوسکتا ہے) اور ان لوگوں نے خدا کے شریک مقرر کر رکھے ہیں۔ ان سے کہو کہ (ذرا) ان کے نام تو لو۔ کیا تم اسے ایسی چیزیں بتاتے ہو جس کو وہ زمین میں (کہیں بھی) معلوم نہیں کرتا یا (محض) ظاہری (باطل اور جھوٹی) بات کی (تقلید کرتے ہو) اصل یہ ہے کہ کافروں کو ان کے فریب خوبصورت معلوم ہوتے ہیں۔ اور وہ (ہدایت کے) رستے سے روک لیے گئے ہیں۔ اور جسے خدا گمراہ کرے اسے کوئی ہدایت کرنے والا نہیں
 
 [Open on Quran.com](https://quran.com/13/33)
 
@@ -98,6 +104,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Some) say they were three, the dog being the fourth among them; (others) say they were five, the dog being the sixth,- doubtfully guessing at the unknown; (yet others) say they were seven, the dog being the eighth. Say thou: "My Lord knoweth best their number; It is but few that know their (real case)." Enter not, therefore, into controversies concerning them, except on a matter that is clear, nor consult any of them about (the affair of) the Sleepers.
 
+**Urdu (Fatah Muhammad Jalandhari):** (بعض لوگ) اٹکل پچو کہیں گے کہ وہ تین تھے (اور) چوتھا ان کا کتّا تھا۔ اور (بعض) کہیں گے کہ وہ پانچ تھے اور چھٹا ان کا کتّا تھا۔ اور (بعض) کہیں گے کہ وہ سات تھے اور آٹھواں ان کا کتّا تھا۔ کہہ دو کہ میرا پروردگار ہی ان کے شمار سے خوب واقف ہے ان کو جانتے بھی ہیں تو تھوڑے ہی لوگ (جانتے ہیں) تو تم ان (کے معاملے) میں گفتگو نہ کرنا مگر سرسری سی گفتگو۔ اور نہ ان کے بارے میں ان میں کسی سے کچھ دریافت ہی کرنا
+
 [Open on Quran.com](https://quran.com/18/22)
 
 #### 30:7 · [[030 Ar-Rum]]
@@ -113,6 +121,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They know what is apparent of the worldly life, but they, of the Hereafter, are unaware.
 
 **English (Yusuf Ali):** They know but the outer (things) in the life of this world: but of the End of things they are heedless.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ تو دنیا کی ظاہری زندگی کو جانتے ہیں۔ اور آخرت (کی طرف) سے غافل ہیں
 
 [Open on Quran.com](https://quran.com/30/7)
 
@@ -130,6 +140,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah has not made for any man two hearts in his (one) body: nor has He made your wives whom ye divorce by Zihar your mothers: nor has He made your adopted sons your sons. Such is (only) your (manner of) speech by your mouths. But Allah tells (you) the Truth, and He shows the (right) Way.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے کسی آدمی کے پہلو میں دو دل نہیں بنائے۔ اور نہ تمہاری عورتوں کو جن کو تم ماں کہہ بیٹھتے ہو تمہاری ماں بنایا اور نہ تمہارے لے پالکوں کو تمہارے بیٹے بنایا۔ یہ سب تمہارے منہ کی باتیں ہیں۔ اور خدا تو سچی بات فرماتا ہے اور وہی سیدھا رستہ دکھاتا ہے
+
 [Open on Quran.com](https://quran.com/33/4)
 
 #### 33:26 · [[033 Al-Ahzab]]
@@ -145,6 +157,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He brought down those who supported them among the People of the Scripture from their fortresses and cast terror into their hearts [so that] a party [i.e., their men] you killed, and you took captive a party [i.e., the women and children].
 
 **English (Yusuf Ali):** And those of the People of the Book who aided them - Allah did take them down from their strongholds and cast terror into their hearts. (So that) some ye slew, and some ye made prisoners.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اہل کتاب میں سے جنہوں نے اُن کی مدد کی تھی اُن کو اُن کے قلعوں سے اُتار دیا اور اُن کے دلوں میں دہشت ڈال دی۔ تو کتنوں کو تم قتل کر دیتے تھے اور کتنوں کو قید کرلیتے تھے
 
 [Open on Quran.com](https://quran.com/33/26)
 
@@ -162,6 +176,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "O my People! Yours is the dominion this day: Ye have the upper hand in the land: but who will help us from the Punishment of Allah, should it befall us?" Pharaoh said: "I but point out to you that which I see (myself); Nor do I guide you but to the Path of Right!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اے قوم آج تمہاری ہی بادشاہت ہے اور تم ہی ملک میں غالب ہو۔ (لیکن) اگر ہم پر خدا کا عذاب آگیا تو (اس کے دور کرنے کے لئے) ہماری مدد کون کرے گا۔ فرعون نے کہا کہ میں تمہیں وہی بات سُجھاتا ہوں جو مجھے سوجھی ہے اور وہی راہ بتاتا ہوں جس میں بھلائی ہے
+
 [Open on Quran.com](https://quran.com/40/29)
 
 #### 57:3 · [[057 Al-Hadid]]
@@ -178,6 +194,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He is the First and the Last, the Evident and the Immanent: and He has full knowledge of all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ (سب سے) پہلا اور (سب سے) پچھلا اور (اپنی قدرتوں سے سب پر) ظاہر اور (اپنی ذات سے) پوشیدہ ہے اور وہ تمام چیزوں کو جانتا ہے
+
 [Open on Quran.com](https://quran.com/57/3)
 
 #### 57:13 · [[057 Al-Hadid]]
@@ -193,6 +211,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** On the [same] Day the hypocrite men and hypocrite women will say to those who believed, "Wait for us that we may acquire some of your light." It will be said, "Go back behind you and seek light." And a wall will be placed between them with a door, its interior containing mercy, but on the outside of it is torment.
 
 **English (Yusuf Ali):** One Day will the Hypocrites- men and women - say to the Believers: "Wait for us! Let us borrow (a Light) from your Light!" It will be said: "Turn ye back to your rear! then seek a Light (where ye can)!" So a wall will be put up betwixt them, with a gate therein. Within it will be Mercy throughout, and without it, all alongside, will be (Wrath and) Punishment!
+
+**Urdu (Fatah Muhammad Jalandhari):** اُس دن منافق مرد اور منافق عورتیں مومنوں سے کہیں گے کہ ہماری طرف سے (شفقت) کیجیئے کہ ہم بھی تمہارے نور سے روشنی حاصل کریں۔ تو ان سے کہا جائے گا کہ پیچھے کو لوٹ جاؤ اور (وہاں) نور تلاش کرو۔ پھر ان کے بیچ میں ایک دیوار کھڑی کر دی جائے گی۔ جس میں ایک دروازہ ہوگا جو اس کی جانب اندرونی ہے اس میں تو رحمت ہے اور جو جانب بیرونی ہے اس طرف عذاب (واذیت)
 
 [Open on Quran.com](https://quran.com/57/13)
 

@@ -16,82 +16,82 @@ The Wind-Curved Sandhills · 35 ayahs
 
 - [[wAldy - parents]] — `والِدَي` · parents
 - [[>jybt - respond]] — `أُجِيبَت` · respond
-- [[dAEy - caller]] — `داعِي` · caller
 - [[<fk - lie]] — `إِفْك` · lie
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[dAEy - caller]] — `داعِي` · caller
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[>Elm - knowing]] — `أَعْلَم` · knowing
+- [[wlY - so turn]] — `وَلَّى` · so turn
+- [[HyAp - life]] — `حَياة` · life
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[n*yr - warner]] — `نَذِير` · warner
-- [[dEA - call]] — `دَعا` · call
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[Zlm - wronged]] — `ظَلَمَ` · wronged
-- [[>gnY - availed]] — `أَغْنَى` · availed
-- [[Dl - lost]] — `ضَلَّ` · lost
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[$hr - months]] — `شَهْر` · months
-- [[fsq - defiantly disobeying]] — `فَسَقَ` · defiantly disobeying
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[yd - hands]] — `يَد` · hands
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[lys - not]] — `لَيْسَ` · not
-- [[xlf - behind them]] — `خَلْف` · behind them
-- [[Eml - do]] — `عَمِلَ` · do
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[snp - years]] — `سَنَة` · years
+- [[AstgAv - seek help]] — `اسْتَغاثَ` · seek help
+- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[>SlH - reforms]] — `أَصْلَحَ` · reforms
+- [[ryH - wind]] — `رِيح` · wind
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[EAd - aad]] — `عادَ` · aad
+- [[>rD - earth]] — `أَرْض` · earth
+- [[xwf - fear]] — `خَوْف` · fear
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[dnyA - world]] — `دُنْيا` · world
+- [[nAs - people]] — `ناس` · people
+- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
+- [[byn - between them]] — `بَيْن` · between them
+- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$hd - shhd]]
-- [[$hr - shahr]]
-- [[$kr - shkr]]
+- [[$hd - witnessing]]
+- [[$hr - new moon]]
+- [[$kr - gratitude]]
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*nb - tail]]
 - [[*rr - scattering dispersing small]]
-- [[*wq - dhwq]]
+- [[*wq - taste]]
 - [[>ff - sound expression disgust]]
-- [[>fk - afk]]
+- [[>fk - turn something away]]
 - [[>jl - term]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vr - athr]]
-- [[>wl - like milk oil]]
+- [[>vr - trace]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xw - akhw]]
+- [[>xw - brother]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edw - enemy]]
-- [[Ejl - ejl]]
+- [[Edw - turn]]
+- [[Ejl - incite cause someone]]
 - [[Ejz - old age weakness]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
-- [[ErD - erd]]
-- [[Erb - erb]]
-- [[Ewd - ewd]]
-- [[Ezm - ezm]]
+- [[ErD - turn away]]
+- [[Erb - bedouins]]
+- [[Ewd - aad]]
+- [[Ezm - determine]]
 - [[Ezz - all-mighty]]
-- [[H$r - hshr]]
-- [[HDr - hdr]]
+- [[H$r - gather collect people]]
+- [[HDr - present]]
 - [[Hkm - prevent restrain someone]]
 - [[Hml - bear]]
 - [[Hqq - established as true]]
 - [[Hsn - good]]
 - [[Hwl - around it]]
-- [[Hyq - hyq]]
+- [[Hyq - surround encompass]]
 
 ## Sample (ayah 1)
 

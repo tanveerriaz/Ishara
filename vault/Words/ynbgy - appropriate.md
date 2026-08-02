@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 19:92 · [[019 Maryam]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And it is not appropriate for the Most Merciful that He should take a son.
 
 **English (Yusuf Ali):** For it is not consonant with the majesty of (Allah) Most Gracious that He should beget a son.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا کو شایاں نہیں کہ کسی کو بیٹا بنائے
 
 [Open on Quran.com](https://quran.com/19/92)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They will say: "Glory to Thee! not meet was it for us that we should take for protectors others besides Thee: But Thou didst bestow, on them and their fathers, good things (in life), until they forgot the Message: for they were a people (worthless and) lost."
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہیں گے تو پاک ہے ہمیں یہ بات شایان نہ تھی کہ تیرے سوا اوروں کو دوست بناتے۔ لیکن تو نے ہی ان کو اور ان کے باپ دادا کو برتنے کو نعمتیں دیں یہاں تک کہ وہ تیری یاد کو بھول گئے۔ اور یہ ہلاک ہونے والے لوگ تھے
+
 [Open on Quran.com](https://quran.com/25/18)
 
 #### 26:211 · [[026 Ash-Shuara]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is not allowable for them, nor would they be able.
 
 **English (Yusuf Ali):** It would neither suit them nor would they be able (to produce it).
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ کام نہ تو ان کو سزاوار ہے اور نہ وہ اس کی طاقت رکھتے ہیں
 
 [Open on Quran.com](https://quran.com/26/211)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is not permitted to the Sun to catch up the Moon, nor can the Night outstrip the Day: Each (just) swims along in (its own) orbit (according to Law).
 
+**Urdu (Fatah Muhammad Jalandhari):** نہ تو سورج ہی سے ہوسکتا ہے کہ چاند کو جا پکڑے اور نہ رات ہی دن سے پہلے آسکتی ہے۔ اور سب اپنے اپنے دائرے میں تیر رہے ہیں
+
 [Open on Quran.com](https://quran.com/36/40)
 
 #### 36:69 · [[036 Ya-Sin]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We have not instructed the (Prophet) in Poetry, nor is it meet for him: this is no less than a Message and a Qur'an making things clear:
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان (پیغمبر) کو شعر گوئی نہیں سکھائی اور نہ وہ ان کو شایاں ہے۔ یہ تو محض نصیحت اور صاف صاف قرآن (پُرازحکمت) ہے
+
 [Open on Quran.com](https://quran.com/36/69)
 
 #### 38:35 · [[038 Sad]]
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "My Lord, forgive me and grant me a kingdom such as will not belong to anyone after me. Indeed, You are the Bestower."
 
 **English (Yusuf Ali):** He said, "O my Lord! Forgive me, and grant me a kingdom which, (it may be), suits not another after me: for Thou art the Grantor of Bounties (without measure).
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور) دعا کی کہ اے پروردگار مجھے مغفرت کر اور مجھ کو ایسی بادشاہی عطا کر کہ میرے بعد کسی کو شایاں نہ ہو۔ بےشک تو بڑا عطا فرمانے والا ہے
 
 [Open on Quran.com](https://quran.com/38/35)
 

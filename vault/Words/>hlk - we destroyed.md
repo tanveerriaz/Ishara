@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[hlk - hlk]]
+- [[hlk - perish destroyed]]
 
 ### Meaning
 **we destroyed** · Lemma **أَهْلَكَ**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:205 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when he goes away, he strives throughout the land to cause corruption therein and destroy crops and animals. And Allāh does not like corruption.
 
 **English (Yusuf Ali):** When he turns his back, His aim everywhere is to spread mischief through the earth and destroy crops and cattle. But Allah loveth not mischief.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب پیٹھ پھیر کر چلا جاتا ہے تو زمین میں دوڑتا پھرتا ہے تاکہ اس میں فتنہ انگیزی کرے اور کھیتی کو (برباد) اور (انسانوں اور حیوانوں کی) نسل کو نابود کردے اور خدا فتنہ انگیزی کو پسند نہیں کرتا
 
 [Open on Quran.com](https://quran.com/2/205)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** What they spend in the life of this (material) world May be likened to a wind which brings a nipping frost: It strikes and destroys the harvest of men who have wronged their own souls: it is not Allah that hath wronged them, but they wrong themselves.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ جو مال دنیا کی زندگی میں خرچ کرتے ہیں اس کی مثال ہوا کی سی ہے جس میں سخت سردی ہو اور وہ ایسے لوگوں کی کھیتی پر جو اپنے آپ پر ظلم کرتے تھے چلے اور اسے تباہ کر دے اور خدا نے ان پر کچھ ظلم نہیں کیا بلکہ یہ خود اپنے اوپر ظلم کر رہے ہیں
+
 [Open on Quran.com](https://quran.com/3/117)
 
 #### 5:17 · [[005 Al-Maidah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They have certainly disbelieved who say that Allāh is Christ, the son of Mary. Say, "Then who could prevent Allāh at all if He had intended to destroy Christ, the son of Mary, or his mother or everyone on the earth?" And to Allāh belongs the dominion of the heavens and the earth and whatever is between them. He creates what He wills, and Allāh is over all things competent.
 
 **English (Yusuf Ali):** In blasphemy indeed are those that say that Allah is Christ the son of Mary. Say: "Who then hath the least power against Allah, if His will were to destroy Christ the son of Mary, his mother, and all every - one that is on the earth? For to Allah belongeth the dominion of the heavens and the earth, and all that is between. He createth what He pleaseth. For Allah hath power over all things."
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اس بات کے قائل ہیں کہ عیسیٰ بن مریم خدا ہیں وہ بےشک کافر ہیں (ان سے) کہہ دو کہ اگر خدا عیسیٰ بن مریم کو اور ان کی والدہ کو اور جتنے لوگ زمین میں ہیں سب کو ہلاک کرنا چاہے تو اس کے آگے کس کی پیش چل سکتی ہے؟ اور آسمان اور زمین اور جو کچھ ان دونوں میں ہے سب پر خدا ہی کی بادشاہی ہے وہ جو چاہتا ہے پیدا کرتا ہے اور خدا ہر چیز پر قادر ہے
 
 [Open on Quran.com](https://quran.com/5/17)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** See they not how many of those before them We did destroy?- generations We had established on the earth, in strength such as We have not given to you - for whom We poured out rain from the skies in abundance, and gave (fertile) streams flowing beneath their (feet): yet for their sins We destroyed them, and raised in their wake fresh generations (to succeed them).
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے کتنی امتوں کو ہلاک کر دیا جن کے پاؤں ملک میں ایسے جما دیئے تھے کہ تمہارے پاؤں بھی ایسے نہیں جمائے اور ان پر آسمان سے لگاتار مینہ برسایا اور نہریں بنا دیں جو ان کے (مکانوں کے) نیچے بہہ رہی تھیں پھر ان کو ان کے گناہوں کے سبب ہلاک کر دیا اور ان کے بعد اور امتیں پیدا کر دیں
+
 [Open on Quran.com](https://quran.com/6/6)
 
 #### 6:26 · [[006 Al-Anam]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they prevent [others] from him and are [themselves] remote from him. And they do not destroy except themselves, but they perceive [it] not.
 
 **English (Yusuf Ali):** Others they keep away from it, and themselves they keep away; but they only destroy their own souls, and they perceive it not.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ اس سے (اوروں کو بھی) روکتے ہیں اور خود بھی پرے رہتے ہیں مگر (ان باتوں سے) اپنے آپ ہی کو ہلاک کرتے ہیں اور (اس سے) بےخبر ہیں
 
 [Open on Quran.com](https://quran.com/6/26)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Think ye, if the punishment of Allah comes to you, whether suddenly or openly, will any be destroyed except those who do wrong?
 
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ بھلا بتاؤ تو اگر تم پر خدا کا عذاب بےخبری میں یا خبر آنے کے بعد آئے تو کیا ظالم لوگوں کے سوا کوئی اور بھی ہلاک ہوگا؟
+
 [Open on Quran.com](https://quran.com/6/47)
 
 #### 7:4 · [[007 Al-Araf]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And how many cities have We destroyed, and Our punishment came to them at night or while they were sleeping at noon.
 
 **English (Yusuf Ali):** How many towns have We destroyed (for their sins)? Our punishment took them on a sudden by night or while they slept for their afternoon rest.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کتنی ہی بستیاں ہیں کہ ہم نے تباہ کر ڈالیں جن پر ہمارا عذاب (یا تو رات کو) آتا تھا جبکہ وہ سوتے تھے یا (دن کو) جب وہ قیلولہ (یعنی دوپہر کو آرام) کرتے تھے
 
 [Open on Quran.com](https://quran.com/7/4)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "We have had (nothing but) trouble, both before and after thou camest to us." He said: "It may be that your Lord will destroy your enemy and make you inheritors in the earth; that so He may try you by your deeds."
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ تمہارے آنے سے پہلے بھی ہم کو اذیتیں پہنچتی رہیں اور آنے کے بعد بھی۔ موسیٰ نے کہا کہ قریب ہے کہ تمہارا پروردگار تمہارے دشمن کو ہلاک کردے اور اس کی جگہ تمہیں زمین میں خلیفہ بنائے پھر دیکھے کہ تم کیسے عمل کرتے ہو
+
 [Open on Quran.com](https://quran.com/7/129)
 
 #### 7:155 · [[007 Al-Araf]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And Moses chose seventy of his people for Our place of meeting: when they were seized with violent quaking, he prayed: "O my Lord! if it had been Thy will Thou couldst have destroyed, long before, both them and me: wouldst Thou destroy us for the deeds of the foolish ones among us? this is no more than Thy trial: by it Thou causest whom Thou wilt to stray, and Thou leadest whom Thou wilt into the right path. Thou art our Protector: so forgive us and give us Thy mercy; for Thou art the best of those who forgive.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ نے اس میعاد پر جو ہم نے مقرر کی تھی اپنی قوم کے ستر آدمی منتخب (کرکے کوہ طور پر حاضر) ٹل کیے۔ جب ان کو زلزلے نے پکڑا تو موسیٰ نے کہا کہ اے پروردگار تو چاہتا تو ان کو اور مجھ کو پہلے ہی سے ہلاک کر دیتا۔ کیا تو اس فعل کی سزا میں جو ہم میں سے بےعقل لوگوں نے کیا ہے ہمیں ہلاک کردے گا۔ یہ تو تیری آزمائش ہے۔ اس سے تو جس کو چاہے گمراہ کرے اور جس کو چاہے ہدایت بخشے۔ تو ہی ہمارا کارساز ہے تو ہمیں (ہمارے گناہ) بخش دے اور ہم پر رحم فرما اور تو سب سے بہتر بخشنے والا ہے
+
 [Open on Quran.com](https://quran.com/7/155)
 
 #### 7:173 · [[007 Al-Araf]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or [lest] you say, "It was only that our fathers associated [others in worship] with Allāh before, and we were but descendants after them. Then would You destroy us for what the falsifiers have done?"
 
 **English (Yusuf Ali):** Or lest ye should say: "Our fathers before us may have taken false gods, but we are (their) descendants after them: wilt Thou then destroy us because of the deeds of men who were futile?"
+
+**Urdu (Fatah Muhammad Jalandhari):** یا یہ (نہ) کہو کہ شرک تو پہلے ہمارے بڑوں نے کیا تھا۔ اور ہم تو ان کی اولاد تھے (جو) ان کے بعد (پیدا ہوئے)۔ تو کیا جو کام اہل باطل کرتے رہے اس کے بدلے تو ہمیں ہلاک کرتا ہے
 
 [Open on Quran.com](https://quran.com/7/173)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[vql - thql]]
+- [[vql - heavy]]
 
 ### Meaning
 **burdens** · Lemma **ثَقَل**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 16:7 · [[016 An-Nahl]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they carry your loads to a land you could not have reached except with difficulty to yourselves. Indeed, your Lord is Kind and Merciful.
 
 **English (Yusuf Ali):** And they carry your heavy loads to lands that ye could not (otherwise) reach except with souls distressed: for your Lord is indeed Most Kind, Most Merciful,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (دور دراز) شہروں میں جہاں تم زحمتِ شاقّہ کے بغیر پہنچ نہیں سکتے وہ تمہارے بوجھ اٹھا کر لے جاتے ہیں۔ کچھ شک نہیں کہ تمہارا پروردگار نہایت شفقت والا اور مہربان ہے
 
 [Open on Quran.com](https://quran.com/16/7)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They will bear their own burdens, and (other) burdens along with their own, and on the Day of Judgments they will be called to account for their falsehoods.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ اپنے بوجھ بھی اُٹھائیں گے اور اپنے بوجھوں کے ساتھ اور (لوگوں کے) بوجھ بھی۔ اور جو بہتان یہ باندھتے رہے قیامت کے دن اُن کی اُن سے ضرور پرسش ہوگی
+
 [Open on Quran.com](https://quran.com/29/13)
 
 #### 55:31 · [[055 Ar-Rahman]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Soon shall We settle your affairs, O both ye worlds!
 
+**Urdu (Fatah Muhammad Jalandhari):** اے دونوں جماعتو! ہم عنقریب تمہاری طرف متوجہ ہوتے ہیں
+
 [Open on Quran.com](https://quran.com/55/31)
 
 #### 99:2 · [[099 Az-Zalzalah]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the earth discharges its burdens
 
 **English (Yusuf Ali):** And the earth throws up her burdens (from within),
+
+**Urdu (Fatah Muhammad Jalandhari):** اور زمین اپنے (اندر) کے بوجھ نکال ڈالے گی
 
 [Open on Quran.com](https://quran.com/99/2)
 

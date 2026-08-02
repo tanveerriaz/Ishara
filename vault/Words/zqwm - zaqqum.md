@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 37:62 · [[037 As-Saffat]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Is that [i.e., Paradise] a better accommodation or the tree of zaqqūm?
 
 **English (Yusuf Ali):** Is that the better entertainment or the Tree of Zaqqum?
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا یہ مہمانی اچھی ہے یا تھوہر کا درخت؟
 
 [Open on Quran.com](https://quran.com/37/62)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily the tree of Zaqqum
 
+**Urdu (Fatah Muhammad Jalandhari):** بلاشبہ تھوہر کا درخت
+
 [Open on Quran.com](https://quran.com/44/43)
 
 #### 56:52 · [[056 Al-Waqiah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Will be eating from trees of zaqqūm
 
 **English (Yusuf Ali):** "Ye will surely taste of the Tree of Zaqqum.
+
+**Urdu (Fatah Muhammad Jalandhari):** تھوہر کے درخت کھاؤ گے
 
 [Open on Quran.com](https://quran.com/56/52)
 

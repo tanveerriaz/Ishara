@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[msk - msk]]
+- [[msk - hold]]
 
 ### Meaning
 **he withholds** · Lemma **أَمْسَكَ**
@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:231 · [[002 Al-Baqarah]]
 
@@ -51,6 +51,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you divorce women and they have [nearly] fulfilled their term, either retain them according to acceptable terms or release them according to acceptable terms, and do not keep them, intending harm, to transgress [against them]. And whoever does that has certainly wronged himself. And do not take the verses of Allāh in jest. And remember the favor of Allāh upon you and what has been revealed to you of the Book [i.e., the Qur’ān] and wisdom [i.e., the Prophet's sunnah] by which He instructs you. And fear Allāh and know that Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** When ye divorce women, and they fulfil the term of their ('Iddat), either take them back on equitable terms or set them free on equitable terms; but do not take them back to injure them, (or) to take undue advantage; if any one does that; He wrongs his own soul. Do not treat Allah's Signs as a jest, but solemnly rehearse Allah's favours on you, and the fact that He sent down to you the Book and Wisdom, for your instruction. And fear Allah, and know that Allah is well acquainted with all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم عورتوں کو (دو دفعہ) طلاق دے چکو اور ان کی عدت پوری ہوجائے تو انہیں یا تو حسن سلوک سے نکاح میں رہنے دو یا بطریق شائستہ رخصت کردو اور اس نیت سے ان کو نکاح میں نہ رہنے دینا چاہئے کہ انہیں تکلیف دو اور ان پر زیادتی کرو۔ اور جو ایسا کرے گا وہ اپنا ہی نقصان کرے گا اور خدا کے احکام کو ہنسی (اور کھیل) نہ بناؤ اور خدا نے تم کو جو نعمتیں بخشی ہیں اور تم پر جو کتاب اور دانائی کی باتیں نازل کی ہیں جن سے وہ تمہیں نصیحت فرماتا ہے ان کو یاد کرو۔ اور خدا سے ڈرتے رہو اور جان رکھوکہ خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/2/231)
 
@@ -68,6 +70,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If any of your women are guilty of lewdness, Take the evidence of four (Reliable) witnesses from amongst you against them; and if they testify, confine them to houses until death do claim them, or Allah ordain for them some (other) way.
 
+**Urdu (Fatah Muhammad Jalandhari):** مسلمانو تمہاری عورتوں میں جو بدکاری کا ارتکاب کر بیٹھیں ان پر اپنے لوگوں میں سے چار شخصوں کی شہادت لو۔ اگر وہ (ان کی بدکاری کی)گواہی دیں تو ان عورتوں کو گھروں میں بند رکھو یہاں تک کہ موت ان کا کام تمام کردے یا خدا ان کے لئے کوئی اور سبیل (پیدا) کرے
+
 [Open on Quran.com](https://quran.com/4/15)
 
 #### 5:4 · [[005 Al-Maidah]]
@@ -83,6 +87,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They ask you, [O Muḥammad], what has been made lawful for them. Say, "Lawful for you are [all] good foods and [game caught by] what you have trained of hunting animals which you train as Allāh has taught you. So eat of what they catch for you, and mention the name of Allāh upon it, and fear Allāh." Indeed, Allāh is swift in account.
 
 **English (Yusuf Ali):** They ask thee what is lawful to them (as food). Say: lawful unto you are (all) things good and pure: and what ye have taught your trained hunting animals (to catch) in the manner directed to you by Allah: eat what they catch for you, but pronounce the name of Allah over it: and fear Allah; for Allah is swift in taking account.
+
+**Urdu (Fatah Muhammad Jalandhari):** تم سے پوچھتے ہیں کہ کون کون سی چیزیں ان کے لیے حلال ہیں (ان سے) کہہ دو کہ سب پاکیزہ چیزیں تم کو حلال ہیں اور وہ (شکار) بھی حلال ہے جو تمہارے لیے ان شکاری جانوروں نے پکڑا ہو جن کو تم نے سدھا رکھا ہو اور جس (طریق) سے خدا نے تمہیں (شکار کرنا) سکھایا ہے (اس طریق سے) تم نے ان کو سکھایا ہو تو جو شکار وہ تمہارے لئے پکڑ رکھیں اس کو کھا لیا کرو اور (شکاری جانوروں کو چھوڑتے وقت) خدا کا نام لے لیا کرو اور خدا سے ڈرتے رہو۔ بےشک خدا جلد حساب لینے والا ہے
 
 [Open on Quran.com](https://quran.com/5/4)
 
@@ -100,6 +106,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** With shame does he hide himself from his people, because of the bad news he has had! Shall he retain it on (sufferance and) contempt, or bury it in the dust? Ah! what an evil (choice) they decide on?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس خبر بد سے (جو وہ سنتا ہے) لوگوں سے چھپتا پھرتا ہے (اور سوچتا ہے) کہ آیا ذلت برداشت کرکے لڑکی کو زندہ رہنے دے یا زمین میں گاڑ دے۔ دیکھو یہ جو تجویز کرتے ہیں بہت بری ہے
+
 [Open on Quran.com](https://quran.com/16/59)
 
 #### 16:79 · [[016 An-Nahl]]
@@ -115,6 +123,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do they not see the birds controlled in the atmosphere of the sky? None holds them up except Allāh. Indeed in that are signs for a people who believe.
 
 **English (Yusuf Ali):** Do they not look at the birds, held poised in the midst of (the air and) the sky? Nothing holds them up but (the power of) Allah. Verily in this are signs for those who believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان لوگوں نے پرندوں کو نہیں دیکھا کہ آسمان کی ہوا میں گھرے ہوئے (اُڑتے رہتے) ہیں۔ ان کو خدا ہی تھامے رکھتا ہے۔ ایمان والوں کے لیے اس میں (بہت سی) نشانیاں ہیں
 
 [Open on Quran.com](https://quran.com/16/79)
 
@@ -132,6 +142,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "If ye had control of the Treasures of the Mercy of my Lord, behold, ye would keep them back, for fear of spending them: for man is (every) niggardly!"
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر میرے پروردگار کی رحمت کے خزانے تمہارے ہاتھ میں ہوتے تو تم خرچ ہوجانے کے خوف سے (ان کو) بند رکھتے۔ اور انسان دل کا بہت تنگ ہے
+
 [Open on Quran.com](https://quran.com/17/100)
 
 #### 22:65 · [[022 Al-Hajj]]
@@ -147,6 +159,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do you not see that Allāh has subjected to you whatever is on the earth and the ships which run through the sea by His command? And He restrains the sky from falling upon the earth, unless by His permission. Indeed Allāh, to the people, is Kind and Merciful.
 
 **English (Yusuf Ali):** Seest thou not that Allah has made subject to you (men) all that is on the earth, and the ships that sail through the sea by His Command? He withholds the sky (rain) from failing on the earth except by His leave: for Allah is Most Kind and Most Merciful to man.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نہیں دیکھتے کہ جتنی چیزیں زمین میں ہیں (سب) خدا نے تمہارے زیرفرمان کر رکھی ہیں اور کشتیاں (بھی) جو اسی کے حکم سے دریا میں چلتی ہیں۔ اور وہ آسمان کو تھامے رہتا ہے کہ زمین پر (نہ) گڑ پڑے مگر اس کے حکم سے۔ بےشک خدا لوگوں پر نہایت شفقت کرنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/22/65)
 
@@ -164,6 +178,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! Thou didst say to one who had received the grace of Allah and thy favour: "Retain thou (in wedlock) thy wife, and fear Allah." But thou didst hide in thy heart that which Allah was about to make manifest: thou didst fear the people, but it is more fitting that thou shouldst fear Allah. Then when Zaid had dissolved (his marriage) with her, with the necessary (formality), We joined her in marriage to thee: in order that (in future) there may be no difficulty to the Believers in (the matter of) marriage with the wives of their adopted sons, when the latter have dissolved with the necessary (formality) (their marriage) with them. And Allah's command must be fulfilled.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم اس شخص سے جس پر خدا نے احسان کیا اور تم نے بھی احسان کیا (یہ) کہتے تھے کہ اپنی بیوی کو اپنے پاس رہنے دے اور خدا سے ڈر اور تم اپنے دل میں وہ بات پوشیدہ کرتے تھے جس کو خدا ظاہر کرنے والا تھا اور تم لوگوں سے ڈرتے تھے۔ حالانکہ خدا ہی اس کا زیادہ مستحق ہے کہ اس سے ڈرو۔ پھر جب زید نے اس سے (کوئی) حاجت (متعلق) نہ رکھی (یعنی اس کو طلاق دے دی) تو ہم نے تم سے اس کا نکاح کردیا تاکہ مومنوں کے لئے ان کے منہ بولے بیٹوں کی بیویوں (کے ساتھ نکاح کرنے کے بارے) میں جب وہ ان سے اپنی حاجت (متعلق) نہ رکھیں (یعنی طلاق دے دیں) کچھ تنگی نہ رہے۔ اور خدا کا حکم واقع ہو کر رہنے والا تھا
+
 [Open on Quran.com](https://quran.com/33/37)
 
 #### 35:2 · [[035 Fatir]]
@@ -180,6 +196,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** What Allah out of his Mercy doth bestow on mankind there is none can withhold: what He doth withhold, there is none can grant, apart from Him: and He is the Exalted in Power, full of Wisdom.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا جو اپنی رحمت (کا دروازہ) کھول دے تو کوئی اس کو بند کرنے والا نہیں۔ اور جو بند کردے تو اس کے بعد کوئی اس کو کھولنے والا نہیں۔ اور وہ غالب حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/35/2)
 
 #### 35:41 · [[035 Fatir]]
@@ -195,6 +213,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Allāh holds the heavens and the earth, lest they cease. And if they should cease, no one could hold them [in place] after Him. Indeed, He is Forbearing and Forgiving.
 
 **English (Yusuf Ali):** It is Allah Who sustains the heavens and the earth, lest they cease (to function): and if they should fail, there is none - not one - can sustain them thereafter: Verily He is Most Forbearing, Oft-Forgiving.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی آسمانوں اور زمین کو تھامے رکھتا ہے کہ ٹل نہ جائیں۔ اگر وہ ٹل جائیں تو خدا کے سوا کوئی ایسا نہیں جو ان کو تھام سکے۔ بےشک وہ بردبار (اور) بخشنے والا ہے
 
 [Open on Quran.com](https://quran.com/35/41)
 

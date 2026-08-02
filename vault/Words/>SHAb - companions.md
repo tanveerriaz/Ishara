@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:39 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who disbelieve and deny Our signs - those will be companions of the Fire; they will abide therein eternally."
 
 **English (Yusuf Ali):** "But those who reject Faith and belie Our Signs, they shall be companions of the Fire; they shall abide therein."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے (اس کو) قبول نہ کیا اور ہماری آیتوں کو جھٹلایا، وہ دوزخ میں جانے والے ہیں (اور) وہ ہمیشہ اس میں رہیں گے
 
 [Open on Quran.com](https://quran.com/2/39)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nay, those who seek gain in evil, and are girt round by their sins,- they are companions of the Fire: Therein shall they abide (For ever).
 
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جو برے کام کرے، اور اس کے گناہ (ہر طرف سے) گھیر لیں تو ایسے لوگ دوزخ (میں جانے) والے ہیں (اور) وہ ہمیشہ اس میں (جلتے) رہیں گے
+
 [Open on Quran.com](https://quran.com/2/81)
 
 #### 2:82 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But they who believe and do righteous deeds - those are the companions of Paradise; they will abide therein eternally.
 
 **English (Yusuf Ali):** But those who have faith and work righteousness, they are companions of the Garden: Therein shall they abide (For ever).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو ایمان لائیں اور نیک کام کریں، وہ جنت کے مالک ہوں گے (اور) ہمیشہ اس میں (عیش کرتے) رہیں گے
 
 [Open on Quran.com](https://quran.com/2/82)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily We have sent thee in truth as a bearer of glad tidings and a warner: But of thee no question shall be asked of the Companions of the Blazing Fire.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) ہم نے تم کو سچائی کے ساتھ خوشخبری سنانے والا اور ڈرانے والا بنا کر بھیجا ہے۔ اور اہل دوزخ کے بارے میں تم سے کچھ پرسش نہیں ہوگی
+
 [Open on Quran.com](https://quran.com/2/119)
 
 #### 2:217 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They ask you about the sacred month - about fighting therein. Say, "Fighting therein is great [sin], but averting [people] from the way of Allāh and disbelief in Him and [preventing access to] al-Masjid al-Ḥarām and the expulsion of its people therefrom are greater [evil] in the sight of Allāh. And fitnah is greater than killing." And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire; they will abide therein eternally.
 
 **English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
 
 [Open on Quran.com](https://quran.com/2/217)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah is the Protector of those who have faith: from the depths of darkness He will lead them forth into light. Of those who reject faith the patrons are the evil ones: from light they will lead them forth into the depths of darkness. They will be companions of the fire, to dwell therein (For ever).
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے ہیں ان کا دوست خدا ہے کہ اُن کو اندھیرے سے نکال کر روشنی میں لے جاتا ہے اور جو کافر ہیں ان کے دوست شیطان ہیں کہ ان کو روشنی سے نکال کر اندھیرے میں لے جاتے ہیں یہی لوگ اہل دوزخ ہیں کہ اس میں ہمیشہ رہیں گے
+
 [Open on Quran.com](https://quran.com/2/257)
 
 #### 2:275 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who consume interest cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, "Trade is [just] like interest." But Allāh has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair rests with Allāh. But whoever returns [to dealing in interest or usury] - those are the companions of the Fire; they will abide eternally therein.
 
 **English (Yusuf Ali):** Those who devour usury will not stand except as stand one whom the Evil one by his touch Hath driven to madness. That is because they say: "Trade is like usury," but Allah hath permitted trade and forbidden usury. Those who after receiving direction from their Lord, desist, shall be pardoned for the past; their case is for Allah (to judge); but those who repeat (The offence) are companions of the Fire: They will abide therein (for ever).
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ سود کھاتے ہیں وہ (قبروں سے) اس طرح (حواس باختہ) اٹھیں گے جیسے کسی کو جن نے لپٹ کر دیوانہ بنا دیا ہو یہ اس لئے کہ وہ کہتے ہیں کہ سودا بیچنا بھی تو (نفع کے لحاظ سے) ویسا ہی ہے جیسے سود (لینا) حالانکہ سودے کو خدا نے حلال کیا ہے اور سود کو حرام۔ تو جس شخص کے پاس خدا کی نصیحت پہنچی اور وہ (سود لینے سے) باز آگیا تو جو پہلے ہوچکا وہ اس کا۔ اور (قیامت میں) اس کا معاملہ خدا کے سپرد اور جو پھر لینے لگا تو ایسے لوگ دوزخی ہیں کہ ہمیشہ دوزخ میں (جلتے) رہیں گے
 
 [Open on Quran.com](https://quran.com/2/275)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who reject Faith,- neither their possessions nor their (numerous) progeny will avail them aught against Allah: They will be companions of the Fire,-dwelling therein (for ever).
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں ان کے مال اور اولاد خدا کے غضب کو ہرگز نہیں ٹال سکیں گے اور یہ لوگ اہلِ دوزخ ہیں کہ ہمیشہ اسی میں رہیں گے
+
 [Open on Quran.com](https://quran.com/3/116)
 
 #### 4:47 · [[004 An-Nisa]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye People of the Book! believe in what We have (now) revealed, confirming what was (already) with you, before We change the face and fame of some (of you) beyond all recognition, and turn them hindwards, or curse them as We cursed the Sabbath-breakers, for the decision of Allah Must be carried out.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے کتاب والو! قبل اس کے کہ ہم لوگوں کے مونہوں کو بگاڑ کر ان کی پیٹھ کی طرف پھیر دیں یا ان پر اس طرح لعنت کریں جس طرح ہفتے والوں پر کی تھی ہماری نازل کی ہوئی کتاب پر جو تمہاری کتاب کی بھی تصدیق کرتی ہے ایمان لے آؤ اور خدا نے جو حکم فرمایا سو (سمجھ لو کہ) ہوچکا
+
 [Open on Quran.com](https://quran.com/4/47)
 
 #### 5:10 · [[005 Al-Maidah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who disbelieve and deny Our signs - those are the companions of Hellfire.
 
 **English (Yusuf Ali):** Those who reject faith and deny our signs will be companions of Hell-fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے کفر کیا اور ہماری آیتوں کو جھٹلایا وہ جہنمی ہیں
 
 [Open on Quran.com](https://quran.com/5/10)
 

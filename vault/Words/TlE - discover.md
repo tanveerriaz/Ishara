@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 5:13 · [[005 Al-Maidah]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So for their breaking of the covenant We cursed them and made their hearts hardened. They distort words from their [proper] places [i.e., usages] and have forgotten a portion of that of which they were reminded. And you will still observe deceit among them, except a few of them. But pardon them and overlook [their misdeeds]. Indeed, Allāh loves the doers of good.
 
 **English (Yusuf Ali):** But because of their breach of their covenant, We cursed them, and made their hearts grow hard; they change the words from their (right) places and forget a good part of the message that was sent them, nor wilt thou cease to find them- barring a few - ever bent on (new) deceits: but forgive them, and overlook (their misdeeds): for Allah loveth those who are kind.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں کے عہد توڑ دینے کے سبب ہم نے ان پر لعنت کی اور ان کے دلوں کو سخت کر دیا یہ لوگ کلمات (کتاب) کو اپنے مقامات سے بدل دیتے ہیں اور جن باتوں کی ان کو نصیحت کی گئی تھی ان کا بھی ایک حصہ فراموش کر بیٹھے اور تھوڑے آدمیوں کے سوا ہمیشہ تم ان کی (ایک نہ ایک) خیانت کی خبر پاتے رہتے ہو تو ان کی خطائیں معاف کردو اور (ان سے) درگزر کرو کہ خدا احسان کرنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/5/13)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who sendeth down rain from the skies: with it We produce vegetation of all kinds: from some We produce green (crops), out of which We produce grain, heaped up (at harvest); out of the date-palm and its sheaths (or spathes) (come) clusters of dates hanging low and near: and (then there are) gardens of grapes, and olives, and pomegranates, each similar (in kind) yet different (in variety): when they begin to bear fruit, feast your eyes with the fruit and the ripeness thereof. Behold! in these things there are signs for people who believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو آسمان سے مینھ برساتا ہے۔ پھر ہم ہی (جو مینھ برساتے ہیں) اس سے ہر طرح کی روئیدگی اگاتے ہیں۔ پھر اس میں سے سبز سبز کونپلیں نکالتے ہیں۔ اور ان کونپلوں میں سے ایک دوسرے کے ساتھ جڑے ہوئے دانے نکالتے ہیں اور کھجور کے گابھے میں سے لٹکتے ہوئے گچھے اور انگوروں کے باغ اور زیتون اور انار جو ایک دوسرے سے ملتے جلتے بھی ہیں۔ اور نہیں بھی ملتے۔ یہ چیزیں جب پھلتی ہیں تو ان کے پھلوں پر اور (جب پکتی ہیں تو) ان کے پکنے پر نظر کرو۔ ان میں ان لوگوں کے لئے جو ایمان لاتے ہیں (قدرت خدا کی بہت سی) نشانیاں ہیں
+
 [Open on Quran.com](https://quran.com/6/99)
 
 #### 18:18 · [[018 Al-Kahf]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And you would think them awake, while they were asleep. And We turned them to the right and to the left, while their dog stretched his forelegs at the entrance. If you had looked at them, you would have turned from them in flight and been filled by them with terror.
 
 **English (Yusuf Ali):** Thou wouldst have deemed them awake, whilst they were asleep, and We turned them on their right and on their left sides: their dog stretching forth his two fore-legs on the threshold: if thou hadst come up on to them, thou wouldst have certainly turned back from them in flight, and wouldst certainly have been filled with terror of them.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم ان کو خیال کرو کہ جاگ رہے ہیں حالانکہ وہ سوتے ہیں۔ اور ہم ان کو دائیں اور بائیں کروٹ بدلاتے تھے۔ اور ان کا کتا چوکھٹ پر دونوں ہاتھ پھیلائے ہوئے تھا۔ اگر تم ان کو جھانک کر دیکھتے تو پیٹھ پھیر کر بھاگ جاتے اور ان سے دہشت میں آجاتے
 
 [Open on Quran.com](https://quran.com/18/18)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Has he penetrated to the Unseen, or has he taken a contract with (Allah) Most Gracious?
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا اس نے غیب کی خبر پالی ہے یا خدا کے یہاں (سے) عہد لے لیا ہے؟
+
 [Open on Quran.com](https://quran.com/19/78)
 
 #### 26:148 · [[026 Ash-Shuara]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And fields of crops and palm trees with softened fruit?
 
 **English (Yusuf Ali):** "And corn-fields and date-palms with spathes near breaking (with the weight of fruit)?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کھیتیاں اور کھجوریں جن کے خوشے لطیف ونازک ہوتے ہیں
 
 [Open on Quran.com](https://quran.com/26/148)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Pharaoh said: "O Chiefs! no god do I know for you but myself: therefore, O Haman! light me a (kiln to bake bricks) out of clay, and build me a lofty palace, that I may mount up to the god of Moses: but as far as I am concerned, I think (Moses) is a liar!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور فرعون نے کہا کہ اے اہلِ دربار میں تمہارا اپنے سوا کسی کو خدا نہیں جانتا تو ہامان میرے لئے گارے کو آگ لگوا (کر اینٹیں پکوا) دو پھر ایک (اُونچا) محل بنادو تاکہ میں موسٰی کے خدا کی طرف چڑھ جاؤں اور میں تو اُسے جھوٹا سمجھتا ہوں
+
 [Open on Quran.com](https://quran.com/28/38)
 
 #### 37:55 · [[037 As-Saffat]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And he will look and see him in the midst of the Hellfire.
 
 **English (Yusuf Ali):** He looked down and saw him in the midst of the Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اتنے میں) وہ (خود) جھانکے گا تو اس کو وسط دوزخ میں دیکھے گا
 
 [Open on Quran.com](https://quran.com/37/55)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The shoots of its fruit-stalks are like the heads of devils:
 
+**Urdu (Fatah Muhammad Jalandhari):** اُس کے خوشے ایسے ہوں گے جیسے شیطانوں کے سر
+
 [Open on Quran.com](https://quran.com/37/65)
 
 #### 40:37 · [[040 Ghafir]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "The ways and means of (reaching) the heavens, and that I may mount up to the god of Moses: But as far as I am concerned, I think (Moses) is a liar!" Thus was made alluring, in Pharaoh's eyes, the evil of his deeds, and he was hindered from the Path; and the plot of Pharaoh led to nothing but perdition (for him).
 
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) آسمانوں کے رستوں پر، پھر موسیٰ کے خدا کو دیکھ لوں اور میں تو اسے جھوٹا سمجھتا ہوں۔ اور اسی طرح فرعون کو اس کے اعمال بد اچھے معلوم ہوتے تھے اور وہ رستے سے روک دیا گیا تھا۔ اور فرعون کی تدبیر تو بےکار تھی
+
 [Open on Quran.com](https://quran.com/40/37)
 
 #### 50:10 · [[050 Qaf]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And lofty palm trees having fruit arranged in layers -
 
 **English (Yusuf Ali):** And tall (and stately) palm-trees, with shoots of fruit-stalks, piled one over another;-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور لمبی لمبی کھجوریں جن کا گابھا تہہ بہ تہہ ہوتا ہے
 
 [Open on Quran.com](https://quran.com/50/10)
 

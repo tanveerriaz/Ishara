@@ -14,83 +14,83 @@ The Prohibition · 12 ayahs
 
 ## Words in this surah (graph)
 
-- [[nAr - fire]] — `نار` · fire
-- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[yd - hands]] — `يَد` · hands
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[mwlY - protector]] — `مَوْلَى` · protector
-- [[Eml - do]] — `عَمِلَ` · do
-- [[>mr - command]] — `أَمَرَ` · command
-- [[>tm - complete]] — `أَتَمَّ` · complete
-- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
-- [[HjArp - stones]] — `حِجارَة` · stones
-- [[byt - houses]] — `بَيْت` · houses
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[Hdyv - statement]] — `حَدِيث` · statement
 - [[xAn - betray]] — `خانُ` · betray
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[nhr - rivers]] — `نَهَر` · rivers
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
+- [[Tlq - you divorce]] — `طَلَّقَ` · you divorce
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[>y - o you]] — `أَيّ` · o you
-- [[jry - flow]] — `جَرَيْ` · flow
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[mrDAt - pleasure]] — `مَرْضات` · pleasure
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[yEt*r - make excuse]] — `يَعْتَذِرُ` · make excuse
+- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
+- [[nAs - people]] — `ناس` · people
+- [[byn - between them]] — `بَيْن` · between them
+- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[glyZ - severe]] — `غَلِيظ` · severe
+- [[bEd - after]] — `بَعْد` · after
+- [[m>wY - abode]] — `مَأْوَى` · abode
+- [[>tm - complete]] — `أَتَمَّ` · complete
+- [[Sdq - truth]] — `صَدَقَ` · truth
+- [[mvl - example]] — `مَثَل` · example
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[byt - houses]] — `بَيْت` · houses
 - [[bED - others]] — `بَعْض` · others
-- [[njY - we saved]] — `نَجَّى` · we saved
-- [[>xzy - disgrace me]] — `أَخْزَيْ` · disgrace me
-- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[rb - lord]] — `رَبّ` · lord
+- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
+- [[ktAb - book]] — `كِتاب` · book
 
 ## Roots
 
 - [[$dd - severe]]
 - [[$y> - thing]]
 - [[>hl - people house]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
+- [[>ns - mankind]]
 - [[>wy - betake oneself place]]
 - [[>yy - ism]]
-- [[Drb - tent]]
+- [[Drb - strike beat]]
 - [[E*r - excuse free blame]]
 - [[ESy - disobey]]
 - [[Ebd - worship]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
-- [[ErD - erd]]
-- [[Erf - erf]]
-- [[Esy - esy]]
+- [[ErD - turn away]]
+- [[Erf - right]]
+- [[Esy - hope expectation]]
 - [[HSn - protection chastity]]
 - [[Hdv - accidents]]
-- [[Hjr - hjr 2]]
+- [[Hjr - stones]]
 - [[Hkm - prevent restrain someone]]
 - [[Hll - lawful]]
 - [[Hrm - reverence]]
 - [[Sdq - speak truth]]
-- [[SlH - slh]]
-- [[Syr - syr]]
-- [[Tlq - tlq]]
+- [[SlH - make something good]]
+- [[Syr - destination]]
+- [[Tlq - loose]]
 - [[Zhr - back]]
 - [[Zlm - put something wrong]]
 - [[allah - God]]
-- [[b>s - bas]]
-- [[bED - bed]]
+- [[b>s - wretched]]
+- [[bED - others]]
 - [[bEd - become distant]]
-- [[bdl - badala]]
+- [[bdl - change alter]]
 - [[bgy - seek desire something]]
-- [[bkr - bkr]]
+- [[bkr - go forth come]]
 - [[bny - sons]]
 - [[byn - clear]]
 - [[byt - any house]]
 - [[dxl - enter]]
 - [[fEl - deed]]
 - [[frD - mark incision]]
-- [[frj - frj]]
+- [[frj - open make space]]
 - [[gfr - cover conceal]]
 - [[glZ - ghalaza]]
 - [[gny - dwelling residing place]]
 - [[jhd - strive]]
-- [[jnn - jann]]
+- [[jnn - cover]]
 - [[jry - passage time events]]
 
 ## Sample (ayah 1)

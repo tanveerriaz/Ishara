@@ -42,7 +42,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:43 · [[002 Al-Baqarah]]
 
@@ -57,6 +57,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And establish prayer and give zakāh and bow with those who bow [in worship and obedience].
 
 **English (Yusuf Ali):** And be steadfast in prayer; practise regular charity; and bow down your heads with those who bow down (in worship).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نماز پڑھا کرو اور زکوٰة دیا کرو اور (خدا کے آگے) جھکنے والوں کے ساتھ جھکا کرو
 
 [Open on Quran.com](https://quran.com/2/43)
 
@@ -74,6 +76,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember We took a covenant from the Children of Israel (to this effect): Worship none but Allah; treat with kindness your parents and kindred, and orphans and those in need; speak fair to the people; be steadfast in prayer; and practise regular charity. Then did ye turn back, except a few among you, and ye backslide (even now).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے بنی اسرائیل سے عہد لیا کہ خدا کے سوا کسی کی عبادت نہ کرنا اور ماں باپ اور رشتہ داروں اور یتیموں اور محتاجوں کے ساتھ بھلائی کرتے رہنا اور لوگوں سے اچھی باتیں کہنا، اور نماز پڑھتے اور زکوٰة دیتے رہنا، تو چند شخصوں کے سوا تم سب (اس عہد سے) منہ پھیر کر پھر بیٹھے
+
 [Open on Quran.com](https://quran.com/2/83)
 
 #### 2:110 · [[002 Al-Baqarah]]
@@ -89,6 +93,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And establish prayer and give zakāh, and whatever good you put forward for yourselves - you will find it with Allāh. Indeed Allāh, of what you do, is Seeing.
 
 **English (Yusuf Ali):** And be steadfast in prayer and regular in charity: And whatever good ye send forth for your souls before you, ye shall find it with Allah: for Allah sees Well all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نماز ادا کرتے رہو اور زکوٰة دیتے رہو۔ اور جو بھلائی اپنے لیے آگے بھیج رکھو گے، اس کو خدا کے ہاں پا لو گے۔ کچھ شک نہیں کہ خدا تمہارے سب کاموں کو دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/2/110)
 
@@ -106,6 +112,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+
 [Open on Quran.com](https://quran.com/2/177)
 
 #### 2:277 · [[002 Al-Baqarah]]
@@ -121,6 +129,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who believe and do righteous deeds and establish prayer and give zakāh will have their reward with their Lord, and there will be no fear concerning them, nor will they grieve.
 
 **English (Yusuf Ali):** Those who believe, and do deeds of righteousness, and establish regular prayers and regular charity, will have their reward with their Lord: on them shall be no fear, nor shall they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور نیک عمل کرتے اور نماز پڑھتے اور زکوٰة دیتے رہے ان کو ان کے کاموں کا صلہ خدا کے ہاں ملے گا اور (قیامت کے دن) ان کو نہ کچھ خوف ہوا اور نہ وہ غمناک ہوں گے
 
 [Open on Quran.com](https://quran.com/2/277)
 
@@ -138,6 +148,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Hast thou not turned Thy vision to those who were told to hold back their hands (from fight) but establish regular prayers and spend in regular charity? When (at length) the order for fighting was issued to them, behold! a section of them feared men as - or even more than - they should have feared Allah: They said: "Our Lord! Why hast Thou ordered us to fight? Wouldst Thou not Grant us respite to our (natural) term, near (enough)?" Say: "Short is the enjoyment of this world: the Hereafter is the best for those who do right: Never will ye be dealt with unjustly in the very least!
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جن کو (پہلے یہ) حکم دیا گیا تھا کہ اپنے ہاتھوں کو (جنگ سے) روکے رہو اور نماز پڑھتے رہو اور زکوٰة دیتے رہو پھر جب ان پر جہاد فرض کردیا گیا تو بعض لوگ ان میں سے لوگوں سے یوں ڈرنے لگے جیسے خدا سے ڈرا کرتے ہیں بلکہ اس سے بھی زیادہ اور بڑبڑانے لگے کہ اے خدا تو نے ہم پر جہاد (جلد) کیوں فرض کردیا تھوڑی مدت اور ہمیں کیوں مہلت نہ دی (اے پیغمبر ان س)ے کہہ دو کہ دنیا کا فائدہ بہت تھوڑا ہے اور بہت اچھی چیز تو پرہیزگار کے لئے (نجات) آخرت ہے اور تم پر دھاگے برابر بھی ظلم نہیں کیا جائے گا
+
 [Open on Quran.com](https://quran.com/4/77)
 
 #### 4:162 · [[004 An-Nisa]]
@@ -153,6 +165,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those firm in knowledge among them and the believers believe in what has been revealed to you, [O Muḥammad], and what was revealed before you. And the establishers of prayer [especially] and the givers of zakāh and the believers in Allāh and the Last Day - those We will give a great reward.
 
 **English (Yusuf Ali):** But those among them who are well-grounded in knowledge, and the believers, believe in what hath been revealed to thee and what was revealed before thee: And (especially) those who establish regular prayer and practise regular charity and believe in Allah and in the Last Day: To them shall We soon give a great reward.
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر جو لوگ ان میں سے علم میں پکے ہیں اور جو مومن ہیں وہ اس (کتاب) پر جو تم پر نازل ہوئی اور جو (کتابیں) تم سے پہلے نازل ہوئیں (سب پر) ایمان رکھتے ہیں اور نماز پڑھتے ہیں اور زکوٰة دیتے ہیں اور خدا اور روز آخرت کو مانتے ہیں۔ ان کو ہم عنقریب اجر عظیم دیں گے
 
 [Open on Quran.com](https://quran.com/4/162)
 
@@ -170,6 +184,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah did aforetime take a covenant from the Children of Israel, and we appointed twelve captains among them. And Allah said: "I am with you: if ye (but) establish regular prayers, practise regular charity, believe in my messengers, honour and assist them, and loan to Allah a beautiful loan, verily I will wipe out from you your evils, and admit you to gardens with rivers flowing beneath; but if any of you, after this, resisteth faith, he hath truly wandered from the path or rectitude."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے بنی اسرائیل سے اقرار لیا اور ان میں ہم نے بارہ سردار مقرر کئے پھر خدا نے فرمایا کہ میں تمہارے ساتھ ہوں اگر تم نماز پڑھتے اور زکوٰة دیتے رہو گے اور میرے پیغمبروں پر ایمان لاؤ گے اور ان کی مدد کرو گے اور خدا کو قرض حسنہ دو گے تو میں تم سے تمہارے گناہ دور کر دوں گا اور تم کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہہ رہی ہیں پھر جس نے اس کے بعد تم میں سے کفر کیا وہ سیدھے رستے سے بھٹک گیا
+
 [Open on Quran.com](https://quran.com/5/12)
 
 #### 5:55 · [[005 Al-Maidah]]
@@ -186,6 +202,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Your (real) friends are (no less than) Allah, His Messenger, and the (fellowship of) believers,- those who establish regular prayers and regular charity, and they bow down humbly (in worship).
 
+**Urdu (Fatah Muhammad Jalandhari):** تمہارے دوست تو خدا اور اس کے پیغمبر اور مومن لوگ ہی ہیں جو نماز پڑھتے اور زکوٰة دیتے اور (خدا کے آگے) جھکتے ہیں
+
 [Open on Quran.com](https://quran.com/5/55)
 
 #### 7:156 · [[007 Al-Araf]]
@@ -201,6 +219,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And decree for us in this world [that which is] good and [also] in the Hereafter; indeed, we have turned back to You." [Allāh] said, "My punishment - I afflict with it whom I will, but My mercy encompasses all things." So I will decree it [especially] for those who fear Me and give zakāh and those who believe in Our verses-
 
 **English (Yusuf Ali):** "And ordain for us that which is good, in this life and in the Hereafter: for we have turned unto Thee." He said: "With My punishment I visit whom I will; but My mercy extendeth to all things. That (mercy) I shall ordain for those who do right, and practise regular charity, and those who believe in Our signs;-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہمارے لیے اس دنیا میں بھی بھلائی لکھ دے اور آخرت میں بھی۔ ہم تیری طرف رجوع ہوچکے۔ فرمایا کہ جو میرا عذاب ہے اسے تو جس پر چاہتا ہوں نازل کرتا ہوں اور جو میری رحمت ہے وہ ہر چیز کو شامل ہے۔ میں اس کو ان لوگوں کے لیے لکھ دوں گا جو پرہیزگاری کرتے اور زکوٰة دیتے اور ہماری آیتوں پر ایمان رکھتے ہیں
 
 [Open on Quran.com](https://quran.com/7/156)
 

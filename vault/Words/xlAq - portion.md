@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:102 · [[002 Al-Baqarah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Hārūt and Mārūt. But they [i.e., the two angels] do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allāh. And they [i.e., people] learn what harms them and does not benefit them. But they [i.e., the Children of Israel] certainly knew that whoever purchased it [i.e., magic] would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.
 
 **English (Yusuf Ali):** They followed what the evil ones gave out (falsely) against the power of Solomon: the blasphemers Were, not Solomon, but the evil ones, teaching men Magic, and such things as came down at babylon to the angels Harut and Marut. But neither of these taught anyone (Such things) without saying: "We are only for trial; so do not blaspheme." They learned from them the means to sow discord between man and wife. But they could not thus harm anyone except by Allah's permission. And they learned what harmed them, not what profited them. And they knew that the buyers of (magic) would have no share in the happiness of the Hereafter. And vile was the price for which they did sell their souls, if they but knew!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
 
 [Open on Quran.com](https://quran.com/2/102)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So when ye have accomplished your holy rites, celebrate the praises of Allah, as ye used to celebrate the praises of your fathers,- yea, with far more Heart and soul. There are men who say: "Our Lord! Give us (Thy bounties) in this world!" but they will have no portion in the Hereafter.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب حج کے تمام ارکان پورے کرچکو تو (منیٰ میں) خدا کو یاد کرو۔ جس طرح اپنے باپ دادا کو یاد کیا کرتے تھے بلکہ اس سے بھی زیادہ اور بعض لوگ ایسے ہیں جو (خدا سے) التجا کرتے ہیں کہ اے پروردگار ہم کو (جو دنیا ہے) دنیا ہی میں عنایت کر ایسے لوگوں کا آخرت میں کچھ حصہ نہیں
+
 [Open on Quran.com](https://quran.com/2/200)
 
 #### 3:77 · [[003 Ali Imran]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who exchange the covenant of Allāh and their [own] oaths for a small price will have no share in the Hereafter, and Allāh will not speak to them or look at them on the Day of Resurrection, nor will He purify them; and they will have a painful punishment.
 
 **English (Yusuf Ali):** As for those who sell the faith they owe to Allah and their own plighted word for a small price, they shall have no portion in the Hereafter: Nor will Allah (Deign to) speak to them or look at them on the Day of Judgment, nor will He cleans them (of sin): They shall have a grievous penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کے اقراروں اور اپنی قسموں (کو بیچ ڈالتے ہیں اور ان) کے عوض تھوڑی سی قیمت حاصل کرتے ہیں ان کا آخرت میں کچھ حصہ نہیں ان سے خدا نہ تو کلام کرے گا اور نہ قیامت کے روز ان کی طرف دیکھے گا اور نہ ان کو پاک کرے گا اور ان کو دکھ دینے والا عذاب ہوگا
 
 [Open on Quran.com](https://quran.com/3/77)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** As in the case of those before you: they were mightier than you in power, and more flourishing in wealth and children. They had their enjoyment of their portion: and ye have of yours, as did those before you; and ye indulge in idle talk as they did. They!- their work are fruitless in this world and in the Hereafter, and they will lose (all spiritual good).
 
+**Urdu (Fatah Muhammad Jalandhari):** (تم منافق لوگ) ان لوگوں کی طرح ہو، جو تم سے پہلے ہوچکے ہیں۔ وہ تم سے بہت زیادہ طاقتور اور مال و اولاد میں کہیں زیادہ تھے تو وہ اپنے حصے سے بہرہ یاب ہوچکے۔ سو جس طرح تم سے پہلے لوگ اپنے حصے سے فائدہ اٹھا چکے ہیں۔ اسی طرح تم نے اپنے حصے سے فائدہ اٹھا لیا۔ اور جس طرح وہ باطل میں ڈوبے رہے اسی طرح تم باطل میں ڈوبے رہے یہ وہ لوگ ہیں جن کے اعمال دنیا اور آخرت میں ضائع ہوگئے۔ اور یہی نقصان اٹھانے والے ہیں
+
 [Open on Quran.com](https://quran.com/9/69)
 
 #### 15:86 · [[015 Al-Hijr]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For verily it is thy Lord who is the Master-Creator, knowing all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ تمہارا پروردگار (سب کچھ) پیدا کرنے والا (اور) جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/15/86)
 
 #### 36:81 · [[036 Ya-Sin]]
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Is not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator.
 
 **English (Yusuf Ali):** "Is not He Who created the heavens and the earth able to create the like thereof?" - Yea, indeed! for He is the Creator Supreme, of skill and knowledge (infinite)!
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس نے آسمانوں اور زمین کو پیدا کیا، کیا وہ اس بات پر قادر نہیں کہ (ان کو پھر) ویسے ہی پیدا کر دے۔ کیوں نہیں۔ اور وہ تو بڑا پیدا کرنے والا اور علم والا ہے
 
 [Open on Quran.com](https://quran.com/36/81)
 

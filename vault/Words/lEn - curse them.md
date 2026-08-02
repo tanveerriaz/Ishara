@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[lEn - len]]
+- [[lEn - curse]]
 
 ### Meaning
 **curse them** · Lemma **لَعَنَ**
@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:88 · [[002 Al-Baqarah]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they said, "Our hearts are wrapped." But, [in fact], Allāh has cursed them for their disbelief, so little is it that they believe.
 
 **English (Yusuf Ali):** They say, "Our hearts are the wrappings (which preserve Allah's Word: we need no more)." Nay, Allah's curse is on them for their blasphemy: Little is it they believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں، ہمارے دل پردے میں ہیں۔ (نہیں) بلکہ الله نے ان کے کفر کے سبب ان پر لعنت کر رکھی ہے۔ پس یہ تھوڑے ہی پر ایمان لاتے ہیں
 
 [Open on Quran.com](https://quran.com/2/88)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who conceal the clear (Signs) We have sent down, and the Guidance, after We have made it clear for the people in the Book,-on them shall be Allah's curse, and the curse of those entitled to curse,-
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ہمارے حکموں اور ہدایتوں کو جو ہم نے نازل کی ہیں (کسی غرض فاسد سے) چھپاتے ہیں باوجود یہ کہ ہم نے ان لوگوں کے (سمجھانے کے) لئے اپنی کتاب میں کھول کھول کر بیان کردیا ہے۔ ایسوں پر خدا اور تمام لعنت کرنے والے لعنت کرتے ہیں
+
 [Open on Quran.com](https://quran.com/2/159)
 
 #### 4:46 · [[004 An-Nisa]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Among the Jews are those who distort words from their [proper] places [i.e., usages] and say, "We hear and disobey" and "Hear but be not heard" and "Rāʿinā," twisting their tongues and defaming the religion. And if they had said [instead], "We hear and obey" and "Wait for us [to understand]," it would have been better for them and more suitable. But Allāh has cursed them for their disbelief, so they believe not, except for a few.
 
 **English (Yusuf Ali):** Of the Jews there are those who displace words from their (right) places, and say: "We hear and we disobey"; and "Hear what is not Heard"; and "Ra'ina"; with a twist of their tongues and a slander to Faith. If only they had said: "What hear and we obey"; and "Do hear"; and "Do look at us"; it would have been better for them, and more proper; but Allah hath cursed them for their Unbelief; and but few of them will believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ جو یہودی ہیں ان میں سے کچھ لوگ ایسے بھی ہیں کہ کلمات کو ان کے مقامات سے بدل دیتے ہیں اور کہتے ہیں کہ ہم نے سن لیا اور نہیں مانا اور سنیئے نہ سنوائے جاؤ اور زبان کو مروڑ کر اور دین میں طعن کی راہ سے (تم سے گفتگو) کے وقت راعنا کہتے ہیں اور اگر (یوں) کہتے ہیں کہ ہم نے سن لیا اور مان لیا اور (صرف) اسمع اور (راعنا کی جگہ) انظرنا (کہتے) تو ان کے حق میں بہتر ہوتا اور بات بھی بہت درست ہوتی لیکن خدان نے ان کے کفر کے سبب ان پر لعنت کر رکھی ہے تو یہ کچھ تھوڑے ہی ایمان لاتے ہیں
 
 [Open on Quran.com](https://quran.com/4/46)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye People of the Book! believe in what We have (now) revealed, confirming what was (already) with you, before We change the face and fame of some (of you) beyond all recognition, and turn them hindwards, or curse them as We cursed the Sabbath-breakers, for the decision of Allah Must be carried out.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے کتاب والو! قبل اس کے کہ ہم لوگوں کے مونہوں کو بگاڑ کر ان کی پیٹھ کی طرف پھیر دیں یا ان پر اس طرح لعنت کریں جس طرح ہفتے والوں پر کی تھی ہماری نازل کی ہوئی کتاب پر جو تمہاری کتاب کی بھی تصدیق کرتی ہے ایمان لے آؤ اور خدا نے جو حکم فرمایا سو (سمجھ لو کہ) ہوچکا
+
 [Open on Quran.com](https://quran.com/4/47)
 
 #### 4:52 · [[004 An-Nisa]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the ones whom Allāh has cursed; and he whom Allāh curses - never will you find for him a helper.
 
 **English (Yusuf Ali):** They are (men) whom Allah hath cursed: And those whom Allah Hath cursed, thou wilt find, have no one to help.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن پر خدا نے لعنت کی ہے اور جس پر خدا لعنت کرے تو تم اس کا کسی کو مددگار نہ پاؤ گے
 
 [Open on Quran.com](https://quran.com/4/52)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If a man kills a believer intentionally, his recompense is Hell, to abide therein (For ever): And the wrath and the curse of Allah are upon him, and a dreadful penalty is prepared for him.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص مسلمان کو قصداً مار ڈالے گا تو اس کی سزا دوزخ ہے جس میں وہ ہمیشہ (جلتا) رہے گا اور خدا اس پر غضبناک ہوگا اور اس پر لعنت کرے گا اور ایسے شخص کے لئے اس نے بڑا (سخت) عذاب تیار کر رکھا ہے
+
 [Open on Quran.com](https://quran.com/4/93)
 
 #### 4:118 · [[004 An-Nisa]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Whom Allāh has cursed. For he had said, "I will surely take from among Your servants a specific portion.
 
 **English (Yusuf Ali):** Allah did curse him, but he said: "I will take of Thy servants a portion Marked off;
+
+**Urdu (Fatah Muhammad Jalandhari):** جس پر خدا نے لعنت کی ہے (جو خدا سے) کہنے لگا میں تیرے بندوں سے (غیر خدا کی نذر دلوا کر مال کا) ایک مقرر حصہ لے لیا کروں گا۔
 
 [Open on Quran.com](https://quran.com/4/118)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But because of their breach of their covenant, We cursed them, and made their hearts grow hard; they change the words from their (right) places and forget a good part of the message that was sent them, nor wilt thou cease to find them- barring a few - ever bent on (new) deceits: but forgive them, and overlook (their misdeeds): for Allah loveth those who are kind.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں کے عہد توڑ دینے کے سبب ہم نے ان پر لعنت کی اور ان کے دلوں کو سخت کر دیا یہ لوگ کلمات (کتاب) کو اپنے مقامات سے بدل دیتے ہیں اور جن باتوں کی ان کو نصیحت کی گئی تھی ان کا بھی ایک حصہ فراموش کر بیٹھے اور تھوڑے آدمیوں کے سوا ہمیشہ تم ان کی (ایک نہ ایک) خیانت کی خبر پاتے رہتے ہو تو ان کی خطائیں معاف کردو اور (ان سے) درگزر کرو کہ خدا احسان کرنے والوں کو دوست رکھتا ہے
+
 [Open on Quran.com](https://quran.com/5/13)
 
 #### 5:60 · [[005 Al-Maidah]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Shall I point out to you something much worse than this, (as judged) by the treatment it received from Allah? those who incurred the curse of Allah and His wrath, those of whom some He transformed into apes and swine, those who worshipped evil;- these are (many times) worse in rank, and far more astray from the even path!"
 
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ میں تمہیں بتاؤں کہ خدا کے ہاں اس سے بھی بدتر جزا پانے والے کون ہیں؟ وہ لوگ ہیں جن پر خدا نے لعنت کی اور جن پر وہ غضبناک ہوا اور (جن کو) ان میں سے بندر اور سور بنا دیا اور جنہوں نے شیطان کی پرستش کی ایسے لوگوں کا برا ٹھکانہ ہے اور وہ سیدھے رستے سے بہت دور ہیں
+
 [Open on Quran.com](https://quran.com/5/60)
 
 #### 5:64 · [[005 Al-Maidah]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the Jews say, "The hand of Allāh is chained." Chained are their hands, and cursed are they for what they say. Rather, both His hands are extended; He spends however He wills. And that which has been revealed to you from your Lord will surely increase many of them in transgression and disbelief. And We have cast among them animosity and hatred until the Day of Resurrection. Every time they kindled the fire of war [against you], Allāh extinguished it. And they strive throughout the land [causing] corruption, and Allāh does not like corrupters.
 
 **English (Yusuf Ali):** The Jews say: "Allah's hand is tied up." Be their hands tied up and be they accursed for the (blasphemy) they utter. Nay, both His hands are widely outstretched: He giveth and spendeth (of His bounty) as He pleaseth. But the revelation that cometh to thee from Allah increaseth in most of them their obstinate rebellion and blasphemy. Amongst them we have placed enmity and hatred till the Day of Judgment. Every time they kindle the fire of war, Allah doth extinguish it; but they (ever) strive to do mischief on earth. And Allah loveth not those who do mischief.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہود کہتے ہیں کہ خدا کا ہاتھ (گردن سے) بندھا ہوا ہے (یعنی الله بخیل ہے) انہیں کے ہاتھ باندھے جائیں اور ایسا کہنے کے سبب ان پر لعنت ہو (اس کا ہاتھ بندھا ہوا نہیں) بلکہ اس کے دونوں ہاتھ کھلے ہیں وہ جس طرح (اور جتنا) چاہتا ہے خرچ کرتا ہے اور (اے محمد) یہ (کتاب) جو تمہارے پروردگار کی طرف سے تم پر نازل ہوئی اس سے ان میں سے اکثر کی شرارت اور انکار اور بڑھے گا اور ہم نے ان کے باہم عداوت اور بغض قیامت تک کے لیے ڈال دیا ہے یہ جب لڑائی کے لیے آگ جلاتے ہیں خدا اس کو بجھا دیتا ہے اور یہ ملک میں فساد کے لیے دوڑے پھرتے ہیں اور خدا فساد کرنے والوں کو دوست نہیں رکھتا
 
 [Open on Quran.com](https://quran.com/5/64)
 

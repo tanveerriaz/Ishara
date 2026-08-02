@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 
 ### Meaning
 **working** · Lemma **عامِل**
@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:136 · [[003 Ali Imran]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those - their reward is forgiveness from their Lord and gardens beneath which rivers flow [in Paradise], wherein they will abide eternally; and excellent is the reward of the [righteous] workers.
 
 **English (Yusuf Ali):** For such the reward is forgiveness from their Lord, and Gardens with rivers flowing underneath,- an eternal dwelling: How excellent a recompense for those who work (and strive)!
+
+**Urdu (Fatah Muhammad Jalandhari):** ایسے ہی لوگوں کا صلہ پروردگار کی طرف سے بخشش اور باغ ہیں جن کے نیچے نہریں بہہ رہی ہیں (اور) وہ ان میں ہمیشہ بستے رہیں گے اور (اچھے) کام کرنے والوں کا بدلہ بہت اچھا ہے
 
 [Open on Quran.com](https://quran.com/3/136)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And their Lord hath accepted of them, and answered them: "Never will I suffer to be lost the work of any of you, be he male or female: Ye are members, one of another: Those who have left their homes, or been driven out therefrom, or suffered harm in My Cause, or fought or been slain,- verily, I will blot out from them their iniquities, and admit them into Gardens with rivers flowing beneath;- A reward from the presence of Allah, and from His presence is the best of rewards."
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کے پرردگار نے ان کی دعا قبول کر لی (اور فرمایا) کہ میں کسی عمل کرنے والے کے عمل کو مرد ہو یا عورت ضائع نہیں کرتا تم ایک دوسرے کی جنس ہو تو جو لوگ میرے لیے وطن چھوڑ گئے اور اپنے گھروں سے نکالے گئے اور ستائے گئے اور لڑے اور قتل کیے گئے میں ان کے گناہ دور کردوں گا اور ان کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہ رہی ہیں (یہ) خدا کے ہاں سے بدلہ ہے اور خدا کے ہاں اچھا بدلہ ہے
+
 [Open on Quran.com](https://quran.com/3/195)
 
 #### 6:135 · [[006 Al-Anam]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "O my people, work according to your position; [for] indeed, I am working. And you are going to know who will have succession in the home. Indeed, the wrongdoers will not succeed."
 
 **English (Yusuf Ali):** Say: "O my people! Do whatever ye can: I will do (my part): soon will ye know who it is whose end will be (best) in the Hereafter: certain it is that the wrong-doers will not prosper."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ لوگو تم اپنی جگہ عمل کئے جاؤ میں (اپنی جگہ) عمل کئے جاتا ہوں عنقریب تم کو معلوم ہو جائے گا کہ آخرت میں (بہشت) کس کا گھر ہوگا کچھ شک نہیں کہ مشرک نجات نہیں پانے کے
 
 [Open on Quran.com](https://quran.com/6/135)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Alms are for the poor and the needy, and those employed to administer the (funds); for those whose hearts have been (recently) reconciled (to Truth); for those in bondage and in debt; in the cause of Allah; and for the wayfarer: (thus is it) ordained by Allah, and Allah is full of knowledge and wisdom.
 
+**Urdu (Fatah Muhammad Jalandhari):** صدقات (یعنی زکوٰة وخیرات) تو مفلسوں اور محتاجوں اور کارکنان صدقات کا حق ہے اور ان لوگوں کا جن کی تالیف قلوب منظور ہے اور غلاموں کے آزاد کرانے میں اور قرضداروں (کے قرض ادا کرنے میں) اور خدا کی راہ میں اور مسافروں (کی مدد) میں (بھی یہ مال خرچ کرنا چاہیئے یہ حقوق) خدا کی طرف سے مقرر کر دیئے گئے ہیں اور خدا جاننے والا (اور) حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/9/60)
 
 #### 11:93 · [[011 Hud]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And O my people, work according to your position; indeed, I am working. You are going to know to whom will come a punishment that will disgrace him and who is a liar. So watch; indeed, I am with you a watcher, [awaiting the outcome]."
 
 **English (Yusuf Ali):** "And O my people! Do whatever ye can: I will do (my part): Soon will ye know who it is on whom descends the penalty of ignominy; and who is a liar! and watch ye! for I too am watching with you!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور برادران ملت! تم اپنی جگہ کام کیے جاؤ میں (اپنی جگہ) کام کیے جاتا ہوں۔ تم کو عنقریب معلوم ہوجائے گا کہ رسوا کرنے والا عذاب کس پر آتا ہے اور جھوٹا کون ہے اور تم بھی انتظار کرو، میں بھی تمہارے ساتھ انتظار کرتا ہوں
 
 [Open on Quran.com](https://quran.com/11/93)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say to those who do not believe: "Do what ever ye can: We shall do our part;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان نہیں لائے ان سے کہہ دو کہ تم اپنی جگہ عمل کیے جاؤ۔ ہم اپنی جگہ عمل کیے جاتے ہیں
+
 [Open on Quran.com](https://quran.com/11/121)
 
 #### 23:63 · [[023 Al-Muminun]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But their hearts are covered with confusion over this, and they have [evil] deeds besides that [i.e., disbelief] which they are doing,
 
 **English (Yusuf Ali):** But their hearts are in confused ignorance of this; and there are, besides that, deeds of theirs, which they will (continue) to do,-
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر ان کے دل ان (باتوں) کی طرف سے غفلت میں (پڑے ہوئے) ہیں، اور ان کے سوا اور اعمال بھی ہیں جو یہ کرتے رہتے ہیں
 
 [Open on Quran.com](https://quran.com/23/63)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But those who believe and work deeds of righteousness - to them shall We give a Home in Heaven,- lofty mansions beneath which flow rivers,- to dwell therein for aye;- an excellent reward for those who do (good)!-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے اُن کو ہم بہشت کے اُونچے اُونچے محلوں میں جگہ دیں گے۔ جن کے نیچے نہریں بہ رہی ہیں۔ ہمیشہ ان میں رہیں گے۔ (نیک )عمل کرنے والوں کا (یہ) خوب بدلہ ہے
+
 [Open on Quran.com](https://quran.com/29/58)
 
 #### 37:61 · [[037 As-Saffat]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For the like of this let all strive, who wish to strive.
 
+**Urdu (Fatah Muhammad Jalandhari):** ایسی ہی (نعمتوں) کے لئے عمل کرنے والوں کو عمل کرنے چاہئیں
+
 [Open on Quran.com](https://quran.com/37/61)
 
 #### 39:39 · [[039 Az-Zumar]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "O my people, work according to your position, [for] indeed, I am working; and you are going to know
 
 **English (Yusuf Ali):** Say: "O my People! Do whatever ye can: I will do (my part): but soon will ye know-
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اے قوم تم اپنی جگہ عمل کئے جاؤ میں (اپنی جگہ) عمل کئے جاتا ہوں۔ عنقریب تم کو معلوم ہوجائے گا
 
 [Open on Quran.com](https://quran.com/39/39)
 

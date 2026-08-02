@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 1:4 · [[001 Al-Fatihah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Sovereign of the Day of Recompense.
 
 **English (Yusuf Ali):** Master of the Day of Judgment.
+
+**Urdu (Fatah Muhammad Jalandhari):** انصاف کے دن کا حاکم
 
 [Open on Quran.com](https://quran.com/1/4)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "O Allah! Lord of Power (And Rule), Thou givest power to whom Thou pleasest, and Thou strippest off power from whom Thou pleasest: Thou enduest with honour whom Thou pleasest, and Thou bringest low whom Thou pleasest: In Thy hand is all good. Verily, over all things Thou hast power.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اے خدا (اے) بادشاہی کے مالک تو جس کو چاہے بادشاہی بخشے اور جس سے چاہے بادشاہی چھین لے اور جس کو چاہے عزت دے اور جسے چاہے ذلیل کرے ہر طرح کی بھلائی تیرے ہی ہاتھ ہے اور بے شک تو ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/3/26)
 
 #### 36:71 · [[036 Ya-Sin]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** See they not that it is We Who have created for them - among the things which Our hands have fashioned - cattle, which are under their dominion?-
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ جو چیزیں ہم نے اپنے ہاتھوں سے بنائیں ان میں سے ہم نے ان کے لئے چارپائے پیدا کر دیئے اور یہ ان کے مالک ہیں
+
 [Open on Quran.com](https://quran.com/36/71)
 
 #### 43:77 · [[043 Az-Zukhruf]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they will call, "O Mālik, let your Lord put an end to us!" He will say, "Indeed, you will remain."
 
 **English (Yusuf Ali):** They will cry: "O Malik! would that thy Lord put an end to us!" He will say, "Nay, but ye shall abide!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور پکاریں گے کہ اے مالک تمہارا پروردگار ہمیں موت دے دے۔ وہ کہے گا کہ تم ہمیشہ (اسی حالت میں) رہو گے
 
 [Open on Quran.com](https://quran.com/43/77)
 

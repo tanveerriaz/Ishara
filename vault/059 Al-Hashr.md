@@ -14,83 +14,83 @@ The Exile · 24 ayahs
 
 ## Words in this surah (graph)
 
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[qrbY - relatives]] — `قُرْبَى` · relatives
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[qAtl - fight]] — `قاتَلَ` · fight
-- [[>nsY - so he made]] — `أَنسَى` · so he made
-- [[fqyr - poor]] — `فَقِير` · poor
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[yd - hands]] — `يَد` · hands
-- [[xA$E - humbled]] — `خاشِع` · humbled
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[qA}mp - standing]] — `قائِمَة` · standing
-- [[Eml - do]] — `عَمِلَ` · do
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[>mr - command]] — `أَمَرَ` · command
-- [[Avr - but prefer]] — `آثَرَ` · but prefer
-- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
-- [[byt - houses]] — `بَيْت` · houses
-- [[>Sl - its root]] — `أَصْل` · its root
-- [[bry' - innocent]] — `بَرِيء` · innocent
-- [[>wl - first]] — `أَوَّل` · first
-- [[ktb - prescribed]] — `كَتَبَ` · prescribed
-- [[$H - miserly]] — `شُحّ` · miserly
-- [[jA' - came them]] — `جاءَ` · came them
+- [[wlY - so turn]] — `وَلَّى` · so turn
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
+- [[jmyE - all]] — `جَمِيع` · all
+- [[EAlm - worlds]] — `عالَم` · worlds
 - [[Amn - believe]] — `آمَنَ` · believe
+- [[>rD - earth]] — `أَرْض` · earth
+- [[wjd - we found]] — `وَجَدَ` · we found
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[xAlq - creator]] — `خالِق` · creator
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[dnyA - world]] — `دُنْيا` · world
+- [[nAs - people]] — `ناس` · people
+- [[Hyv - wherever]] — `حَيْث` · wherever
+- [[byn - between them]] — `بَيْن` · between them
+- [[Hsb - think]] — `حَسْب` · think
+- [[>Hd - anyone]] — `أَحَد` · anyone
+- [[xyl - horses]] — `خَيْل` · horses
+- [[bEd - after]] — `بَعْد` · after
+- [[<ymAn - faith]] — `إِيمان` · faith
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[qbl - before]] — `قَبْل` · before
+- [[rDwAn - pleasure]] — `رِضْوان` · pleasure
+- [[mvl - example]] — `مَثَل` · example
+- [[gfr - forgive]] — `غَفَرَ` · forgive
 
 ## Roots
 
-- [[$HH - shhh]]
-- [[$Tn - shtn]]
+- [[$HH - miserly]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
-- [[$hd - shhd]]
+- [[$hd - witnessing]]
 - [[$qq - cleave]]
 - [[$rk - sharing partnership]]
 - [[$tt - scatter]]
 - [[$y> - thing]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
+- [[*wq - taste]]
+- [[>*n - ear]]
 - [[>Hd - anyone]]
 - [[>Sl - foundational part something]]
-- [[>bd - abad]]
+- [[>bd - absolute long]]
 - [[>hl - people house]]
 - [[>lh - god]]
-- [[>lm - alm]]
-- [[>mn - amn]]
+- [[>lm - painful]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vr - athr]]
-- [[>wl - like milk oil]]
+- [[>vr - trace]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
-- [[Drb - tent]]
-- [[E*b - edhb]]
-- [[Ebr - ebr]]
+- [[Drb - strike beat]]
+- [[E*b - motes particles floating]]
+- [[Ebr - cross pass something]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Eqb - heel human foot]]
-- [[Eql - eql]]
+- [[Eql - withhold restrain]]
 - [[Ezz - all-mighty]]
-- [[H$r - hshr]]
+- [[H$r - gather collect people]]
 - [[HSn - protection chastity]]
 - [[Hbb - love]]
 - [[Hkm - prevent restrain someone]]
 - [[Hsb - number]]
 - [[Hsn - good]]
-- [[Hwj - hwj]]
+- [[Hwj - need]]
 - [[Hyv - haythu]]
 - [[SHb - lord]]
-- [[SdE - sde]]
+- [[SdE - cleave]]
 - [[Sdq - speak truth]]
 - [[Sdr - front part something]]
 - [[Swr - incline]]
-- [[TwE - twe]]
+- [[TwE - obey]]
 - [[Zlm - put something wrong]]
 
 ## Sample (ayah 1)

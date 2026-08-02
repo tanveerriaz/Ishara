@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[njw - njw]]
+- [[njw - escape safe]]
 
 ### Meaning
 **private conversation** · Lemma **نَجْوَى**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:114 · [[004 An-Nisa]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** No good is there in much of their private conversation, except for those who enjoin charity or that which is right or conciliation between people. And whoever does that seeking means to the approval of Allāh - then We are going to give him a great reward.
 
 **English (Yusuf Ali):** In most of their secret talks there is no good: But if one exhorts to a deed of charity or justice or conciliation between men, (Secrecy is permissible): To him who does this, seeking the good pleasure of Allah, We shall soon give a reward of the highest (value).
+
+**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں کی بہت سی مشورتیں اچھی نہیں ہاں (اس شخص کی مشورت اچھی ہوسکتی ہے) جو خیرات یا نیک بات یا لوگوں میں صلح کرنے کو کہے اور جو ایسے کام خدا کی خوشنودی حاصل کرنے کے لئے کرے گا تو ہم اس کو بڑا ثواب دیں گے
 
 [Open on Quran.com](https://quran.com/4/114)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Know they not that Allah doth know their secret (thoughts) and their secret counsels, and that Allah knoweth well all things unseen?
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان کو معلوم نہیں کہ خدا ان کے بھیدوں اور مشوروں تک سے واقف ہے اور یہ کہ وہ غیب کی باتیں جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/9/78)
 
 #### 17:47 · [[017 Al-Isra]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** We are most knowing of how they listen to it when they listen to you and [of] when they are in private conversation, when the wrongdoers say, "You follow not but a man affected by magic."
 
 **English (Yusuf Ali):** We know best why it is they listen, when they listen to thee; and when they meet in private conference, behold, the wicked say, "Ye follow none other than a man bewitched!"
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ لوگ جب تمہاری طرف کان لگاتے ہیں تو جس نیت سے یہ سنتے ہیں ہم اسے خوب جانتے ہیں اور جب یہ سرگوشیاں کرتے ہیں (یعنی) جب ظالم کہتے ہیں کہ تم ایک ایسے شخص کی پیروی کرتے ہو جس پر جادو کیا گیا ہے
 
 [Open on Quran.com](https://quran.com/17/47)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So they disputed, one with another, over their affair, but they kept their talk secret.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو وہ باہم اپنے معاملے میں جھگڑانے اور چپکے چپکے سرگوشی کرنے لگے
+
 [Open on Quran.com](https://quran.com/20/62)
 
 #### 21:3 · [[021 Al-Anbya]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** With their hearts distracted. And those who do wrong conceal their private conversation, [saying], "Is this [Prophet] except a human being like you? So would you approach magic while you are aware [of it]?"
 
 **English (Yusuf Ali):** Their hearts toying as with trifles. The wrong-doers conceal their private counsels, (saying), "Is this (one) more than a man like yourselves? Will ye go to witchcraft with your eyes open?"
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کے دل غفلت میں پڑے ہوئے ہیں اور ظالم لوگ (آپس میں) چپکے چپکے باتیں کرتے ہیں کہ یہ (شخص کچھ بھی) نہیں مگر تمہارے جیسا آدمی ہے۔ تو تم آنکھوں دیکھتے جادو (کی لپیٹ) میں کیوں آتے ہو
 
 [Open on Quran.com](https://quran.com/21/3)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or do they think that We hear not their secrets and their private counsels? Indeed (We do), and Our messengers are by them, to record.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ یہ خیال کرتے ہیں کہ ہم ان کی پوشیدہ باتوں اور سرگوشیوں کو سنتے نہیں؟ ہاں ہاں (سب سنتے ہیں) اور ہمارے فرشتے ان کے پاس (ان کی سب باتیں) لکھ لیتے ہیں
+
 [Open on Quran.com](https://quran.com/43/80)
 
 #### 58:7 · [[058 Al-Mujadila]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have you not considered that Allāh knows what is in the heavens and what is on the earth? There are not three in a private conversation but that He is the fourth of them, nor are there five but that He is the sixth of them - and no less than that and no more except that He is with them [in knowledge] wherever they are. Then He will inform them of what they did, on the Day of Resurrection. Indeed Allāh is, of all things, Knowing.
 
 **English (Yusuf Ali):** Seest thou not that Allah doth know (all) that is in the heavens and on earth? There is not a secret consultation between three, but He makes the fourth among them, - Nor between five but He makes the sixth,- nor between fewer nor more, but He is in their midst, wheresoever they be: In the end will He tell them the truth of their conduct, on the Day of Judgment. For Allah has full knowledge of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم کو معلوم نہیں کہ جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے خدا کو سب معلوم ہے۔ (کسی جگہ) تین (شخصوں) کا (مجمع اور) کانوں میں صلاح ومشورہ نہیں ہوتا مگر وہ ان میں چوتھا ہوتا ہے اور نہ کہیں پانچ کا مگر وہ ان میں چھٹا ہوتا ہے اور نہ اس سے کم یا زیادہ مگر وہ ان کے ساتھ ہوتا ہے خواہ وہ کہیں ہوں۔ پھر جو جو کام یہ کرتے رہے ہیں قیامت کے دن وہ (ایک ایک) ان کو بتائے گا۔ بےشک خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/58/7)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Turnest thou not thy sight towards those who were forbidden secret counsels yet revert to that which they were forbidden (to do)? And they hold secret counsels among themselves for iniquity and hostility, and disobedience to the Messenger. And when they come to thee, they salute thee, not as Allah salutes thee, (but in crooked ways): And they say to themselves, "Why does not Allah punish us for our words?" Enough for them is Hell: In it will they burn, and evil is that destination!
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے ان لوگوں کو نہیں دیکھا جن کو سرگوشیاں کرنے سے منع کیا گیا تھا۔ پھر جس (کام) سے منع کیا گیا تھا وہی پھر کرنے لگے اور یہ تو گناہ اور ظلم اور رسول (خدا) کی نافرمانی کی سرگوشیاں کرتے ہیں۔ اور جب تمہارے پاس آتے ہیں تو جس (کلمے) سے خدا نے تم کو دعا نہیں دی اس سے تمہیں دعا دیتے ہیں۔ اور اپنے دل میں کہتے ہیں کہ (اگر یہ واقعی پیغمبر ہیں تو) جو کچھ ہم کہتے ہیں خدا ہمیں اس کی سزا کیوں نہیں دیتا؟ (اے پیغمبر) ان کو دوزخ (ہی کی سزا) کافی ہے۔ یہ اسی میں داخل ہوں گے۔ اور وہ بری جگہ ہے
+
 [Open on Quran.com](https://quran.com/58/8)
 
 #### 58:10 · [[058 Al-Mujadila]]
@@ -174,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Secret counsels are only (inspired) by the Evil One, in order that he may cause grief to the Believers; but he cannot harm them in the least, except as Allah permits; and on Allah let the Believers put their trust.
 
+**Urdu (Fatah Muhammad Jalandhari):** کافروں کی) سرگوشیاں تو شیطان (کی حرکات) سے ہیں (جو) اس لئے (کی جاتی ہیں) کہ مومن (ان سے) غمناک ہوں مگر خدا کے حکم کے سوا ان سے انہیں کچھ نقصان نہیں پہنچ سکتا۔ تو مومنو کو چاہیئے کہ خدا ہی پر بھروسہ رکھیں
+
 [Open on Quran.com](https://quran.com/58/10)
 
 #### 58:12 · [[058 Al-Mujadila]]
@@ -189,6 +207,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, when you [wish to] privately consult the Messenger, present before your consultation a charity. That is better for you and purer. But if you find not [the means] - then indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** O ye who believe! When ye consult the Messenger in private, spend something in charity before your private consultation. That will be best for you, and most conducive to purity (of conduct). But if ye find not (the wherewithal), Allah is Oft-Forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم پیغمبر کے کان میں کوئی بات کہو تو بات کہنے سے پہلے (مساکین کو) کچھ خیرات دے دیا کرو۔ یہ تمہارے لئے بہت بہتر اور پاکیزگی کی بات ہے۔ اور اگر خیرات تم کو میسر نہ آئے تو خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/58/12)
 

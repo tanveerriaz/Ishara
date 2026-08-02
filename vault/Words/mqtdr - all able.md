@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 18:45 · [[018 Al-Kahf]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And present to them the example of the life of this world, [its being] like rain which We send down from the sky, and the vegetation of the earth mingles with it and [then] it becomes dry remnants, scattered by the winds. And Allāh is ever, over all things, Perfect in Ability.
 
 **English (Yusuf Ali):** Set forth to them the similitude of the life of this world: It is like the rain which we send down from the skies: the earth's vegetation absorbs it, but soon it becomes dry stubble, which the winds do scatter: it is (only) Allah who prevails over all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان سے دنیا کی زندگی کی مثال بھی بیان کردو (وہ ایسی ہے) جیسے پانی جسے ہم نے آسمان سے برسایا۔ تو اس کے ساتھ زمین کی روئیدگی مل گئی۔ پھر وہ چورا چورا ہوگئی کہ ہوائیں اسے اڑاتی پھرتی ہیں۔ اور خدا تو ہر چیز پر قدرت رکھتا ہے
 
 [Open on Quran.com](https://quran.com/18/45)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or We shall show thee that (accomplished) which We have promised them: for verily We shall prevail over them.
 
+**Urdu (Fatah Muhammad Jalandhari):** یا (تمہاری زندگی ہی میں) تمہیں وہ (عذاب) دکھا دیں گے جن کا ہم نے ان سے وعدہ کیا ہے ہم ان پر قابو رکھتے ہیں
+
 [Open on Quran.com](https://quran.com/43/42)
 
 #### 54:42 · [[054 Al-Qamar]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The (people) rejected all Our Signs; but We seized them with such Penalty (as comes) from One Exalted in Power, able to carry out His Will.
 
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے ہماری تمام نشانیوں کو جھٹلایا تو ہم نے ان کو اس طرح پکڑ لیا جس طرح ایک قوی اور غالب شخص پکڑ لیتا ہے
+
 [Open on Quran.com](https://quran.com/54/42)
 
 #### 54:55 · [[054 Al-Qamar]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** In a seat of honor near a Sovereign, Perfect in Ability.
 
 **English (Yusuf Ali):** In an Assembly of Truth, in the Presence of a Sovereign Omnipotent.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) پاک مقام میں ہر طرح کی قدرت رکھنے والے بادشاہ کی بارگاہ میں
 
 [Open on Quran.com](https://quran.com/54/55)
 

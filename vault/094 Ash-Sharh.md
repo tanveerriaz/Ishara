@@ -15,33 +15,33 @@ The Relief · 8 ayahs
 ## Words in this surah (graph)
 
 - [[Esr - hardship]] — `عُسْر` · hardship
-- [[Zhr - backs]] — `ظَهْر` · backs
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[yrgb - you desire]] — `يَرْغَبُ` · you desire
-- [[$rH - he expands]] — `شَرَحَ` · he expands
-- [[Sdr - breasts]] — `صَدْر` · breasts
-- [[wzr - burden]] — `وِزْر` · burden
-- [[ysr - ease]] — `يُسْر` · ease
-- [[wDE - she delivered]] — `وَضَعَ` · she delivered
 - [[rfE - we raised]] — `رَفَعَ` · we raised
+- [[Sdr - breasts]] — `صَدْر` · breasts
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[Zhr - backs]] — `ظَهْر` · backs
+- [[ysr - ease]] — `يُسْر` · ease
+- [[$rH - he expands]] — `شَرَحَ` · he expands
+- [[wzr - burden]] — `وِزْر` · burden
+- [[yrgb - you desire]] — `يَرْغَبُ` · you desire
 - [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 
 - [[$rH - uncover]]
-- [[*kr - dhakara]]
-- [[Esr - esr]]
+- [[*kr - remember recall something]]
+- [[Esr - hardship]]
 - [[Sdr - front part something]]
 - [[Zhr - back]]
-- [[frg - as body becomes]]
+- [[frg - empty vacant]]
 - [[nSb - set up]]
-- [[nqD - nqd]]
+- [[nqD - remove covering]]
 - [[rbb - Lord]]
 - [[rfE - raise]]
-- [[rgb - rgb]]
+- [[rgb - hope]]
 - [[wDE - put lay down]]
 - [[wzr - bear heavy burden]]
-- [[ysr - ysr]]
+- [[ysr - easy]]
 
 ## Sample (ayah 1)
 

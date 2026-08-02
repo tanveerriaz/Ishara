@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[E$r - eshr]]
+- [[E$r - ten]]
 
 ### Meaning
 **ten** · Lemma **عَشْر**
@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:234 · [[002 Al-Baqarah]]
 
@@ -49,6 +49,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who are taken in death among you and leave wives behind - they, [the wives, shall] wait four months and ten [days]. And when they have fulfilled their term, then there is no blame upon you for what they do with themselves in an acceptable manner. And Allāh is [fully] Aware of what you do.
 
 **English (Yusuf Ali):** If any of you die and leave widows behind, they shall wait concerning themselves four months and ten days: When they have fulfilled their term, there is no blame on you if they dispose of themselves in a just and reasonable manner. And Allah is well acquainted with what ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم میں سے مرجائیں اور عورتیں چھوڑ جائیں تو عورتیں چار مہینے دس دن اپنے آپ کو روکے رہیں۔ اور جب (یہ) عدت پوری کرچکیں اور اپنے حق میں پسندیدہ کام (یعنی نکاح) کرلیں تو ان پر کچھ گناہ نہیں۔ اور خدا تمہارے سب کاموں سے واقف ہے
 
 [Open on Quran.com](https://quran.com/2/234)
 
@@ -66,6 +68,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah did aforetime take a covenant from the Children of Israel, and we appointed twelve captains among them. And Allah said: "I am with you: if ye (but) establish regular prayers, practise regular charity, believe in my messengers, honour and assist them, and loan to Allah a beautiful loan, verily I will wipe out from you your evils, and admit you to gardens with rivers flowing beneath; but if any of you, after this, resisteth faith, he hath truly wandered from the path or rectitude."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے بنی اسرائیل سے اقرار لیا اور ان میں ہم نے بارہ سردار مقرر کئے پھر خدا نے فرمایا کہ میں تمہارے ساتھ ہوں اگر تم نماز پڑھتے اور زکوٰة دیتے رہو گے اور میرے پیغمبروں پر ایمان لاؤ گے اور ان کی مدد کرو گے اور خدا کو قرض حسنہ دو گے تو میں تم سے تمہارے گناہ دور کر دوں گا اور تم کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہہ رہی ہیں پھر جس نے اس کے بعد تم میں سے کفر کیا وہ سیدھے رستے سے بھٹک گیا
+
 [Open on Quran.com](https://quran.com/5/12)
 
 #### 6:160 · [[006 Al-Anam]]
@@ -81,6 +85,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Whoever comes [on the Day of Judgement] with a good deed will have ten times the like thereof [to his credit], and whoever comes with an evil deed will not be recompensed except the like thereof; and they will not be wronged.
 
 **English (Yusuf Ali):** He that doeth good shall have ten times as much to his credit: He that doeth evil shall only be recompensed according to his evil: no wrong shall be done unto (any of) them.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کوئی (خدا کے حضور) نیکی لے کر آئے گا اس کو ویسی دس نیکیاں ملیں گی اور جو برائی لائے گا اسے سزا ویسے ہی ملے گی اور ان پر ظلم نہیں کیا جائے گا
 
 [Open on Quran.com](https://quran.com/6/160)
 
@@ -98,6 +104,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We appointed for Moses thirty nights, and completed (the period) with ten (more): thus was completed the term (of communion) with his Lord, forty nights. And Moses had charged his brother Aaron (before he went up): "Act for me amongst my people: Do right, and follow not the way of those who do mischief."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ سے تیس رات کی میعاد مقرر کی۔ اور اس دس (راتیں) اور ملا کر اسے پورا (چلّہ) کردیا تو اس کے پروردگار کی چالیس رات کی میعاد پوری ہوگئی۔ اور موسیٰ نے اپنے بھائی ہارون سے کہا کہ میرے (کوہِٰ طور پر جانے کے) بعد تم میری قوم میں میرے جانشین ہو (ان کی) اصلاح کرتے رہنا ٹھیک اور شریروں کے رستے نہ چلنا
+
 [Open on Quran.com](https://quran.com/7/142)
 
 #### 9:36 · [[009 At-Tawbah]]
@@ -113,6 +121,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the number of months with Allāh is twelve [lunar] months in the register of Allāh [from] the day He created the heavens and the earth; of these, four are sacred. That is the correct religion [i.e., way], so do not wrong yourselves during them. And fight against the disbelievers collectively as they fight against you collectively. And know that Allāh is with the righteous [who fear Him].
 
 **English (Yusuf Ali):** The number of months in the sight of Allah is twelve (in a year)- so ordained by Him the day He created the heavens and the earth; of them four are sacred: that is the straight usage. So wrong not yourselves therein, and fight the Pagans all together as they fight you all together. But know that Allah is with those who restrain themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا کے نزدیک مہینے گنتی میں (بارہ ہیں یعنی) اس روز (سے) کہ اس نے آسمانوں اور زمین کو پیدا کیا۔ کتاب خدا میں (برس کے) بارہ مہینے (لکھے ہوئے) ہیں۔ ان میں سے چار مہینے ادب کے ہیں۔ یہی دین (کا) سیدھا راستہ ہے۔ تو ان (مہینوں) میں (قتال ناحق سے) اپنے آپ پر ظلم نہ کرنا۔ اور تم سب کے سب مشرکوں سے لڑو جیسے وہ سب کے سب تم سے لڑتے ہیں۔ اور جان رکھو کہ خدا پرہیز گاروں کے ساتھ ہے
 
 [Open on Quran.com](https://quran.com/9/36)
 
@@ -130,6 +140,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or they may say, "He forged it," Say, "Bring ye then ten suras forged, like unto it, and call (to your aid) whomsoever ye can, other than Allah!- If ye speak the truth!
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ کیا کہتے ہیں کہ اس نے قرآن ازخود بنا لیا ہے؟ کہہ دو کہ اگر سچے ہو تو تم بھی ایسی دس سورتیں بنا لاؤ اور خدا کے سوا جس جس کو بلاسکتے ہو، بلا بھی لو
+
 [Open on Quran.com](https://quran.com/11/13)
 
 #### 12:4 · [[012 Yusuf]]
@@ -145,6 +157,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Of these stories mention] when Joseph said to his father, "O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me."
 
 **English (Yusuf Ali):** Behold! Joseph said to his father: "O my father! I did see eleven stars and the sun and the moon: I saw them prostrate themselves to me!"
+
+**Urdu (Fatah Muhammad Jalandhari):** جب یوسف نے اپنے والد سے کہا کہ ابا میں نے (خواب میں) گیارہ ستاروں اور سورج اور چاند کو دیکھا ہے۔ دیکھتا (کیا) ہوں کہ وہ مجھے سجدہ کر رہے ہیں
 
 [Open on Quran.com](https://quran.com/12/4)
 
@@ -162,6 +176,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In whispers will they consult each other: "Yet tarried not longer than ten (Days);
 
+**Urdu (Fatah Muhammad Jalandhari):** (تو) وہ آپس میں آہستہ آہستہ کہیں گے کہ تم (دنیا میں) صرف دس ہی دن رہے ہو
+
 [Open on Quran.com](https://quran.com/20/103)
 
 #### 28:27 · [[028 Al-Qasas]]
@@ -178,6 +194,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said: "I intend to wed one of these my daughters to thee, on condition that thou serve me for eight years; but if thou complete ten years, it will be (grace) from thee. But I intend not to place thee under a difficulty: thou wilt find me, indeed, if Allah wills, one of the righteous."
 
+**Urdu (Fatah Muhammad Jalandhari):** اُنہوں نے( موسٰی سے) کہا کہ میں چاہتا ہوں اپنی دو بیٹیوں میں سے ایک کو تم سے بیاہ دوں اس عہد پر کہ تم آٹھ برس میری خدمت کرو اور اگر دس سال پورے کر دو تو تمہاری طرف سے (احسان) ہے اور میں تم پر تکلیف ڈالنی نہیں چاہتا۔ مجھے انشاء الله نیک لوگوں میں پاؤ گے
+
 [Open on Quran.com](https://quran.com/28/27)
 
 #### 74:30 · [[074 Al-Muddaththir]]
@@ -193,6 +211,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Over it are nineteen [angels].
 
 **English (Yusuf Ali):** Over it are Nineteen.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس پر اُنیس داروغہ ہیں
 
 [Open on Quran.com](https://quran.com/74/30)
 

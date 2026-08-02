@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 19:64 · [[019 Maryam]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Gabriel said], "And we [angels] descend not except by the order of your Lord. To Him belongs that before us and that behind us and what is in between. And never is your Lord forgetful -
 
 **English (Yusuf Ali):** (The angels say:) "We descend not but by command of thy Lord: to Him belongeth what is before us and what is behind us, and what is between: and thy Lord never doth forget,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (فرشتوں نے پیغمبر کو جواب دیا کہ) ہم تمہارے پروردگار کے حکم سوا اُتر نہیں سکتے۔ جو کچھ ہمارے آگے ہے اور پیچھے ہے اور جو ان کے درمیان ہے سب اسی کا ہے اور تمہارا پروردگار بھولنے والا نہیں
 
 [Open on Quran.com](https://quran.com/19/64)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** No evil ones have brought down this (Revelation):
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس (قرآن) کو شیطان لے کر نازل نہیں ہوئے
+
 [Open on Quran.com](https://quran.com/26/210)
 
 #### 26:221 · [[026 Ash-Shuara]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Shall I inform you upon whom the devils descend?
 
 **English (Yusuf Ali):** Shall I inform you, (O people!), on whom it is that the evil ones descend?
+
+**Urdu (Fatah Muhammad Jalandhari):** (اچھا) میں تمیں بتاؤں کہ شیطان کس پر اُترتے ہیں
 
 [Open on Quran.com](https://quran.com/26/221)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They descend on every lying, wicked person,
 
+**Urdu (Fatah Muhammad Jalandhari):** ہر جھوٹے گنہگار پر اُترتے ہیں
+
 [Open on Quran.com](https://quran.com/26/222)
 
 #### 41:30 · [[041 Fussilat]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who have said, "Our Lord is Allāh" and then remained on a right course - the angels will descend upon them, [saying], "Do not fear and do not grieve but receive good tidings of Paradise, which you were promised.
 
 **English (Yusuf Ali):** In the case of those who say, "Our Lord is Allah", and, further, stand straight and steadfast, the angels descend on them (from time to time): "Fear ye not!" (they suggest), "Nor grieve! but receive the Glad Tidings of the Garden (of Bliss), the which ye were promised!
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے کہا کہ ہمارا پروردگار خدا ہے پھر وہ (اس پر) قائم رہے ان پر فرشتے اُتریں گے (اور کہیں گے) کہ نہ خوف کرو اور نہ غمناک ہو اور بہشت کی جس کا تم سے وعدہ کیا جاتا تھا خوشی مناؤ
 
 [Open on Quran.com](https://quran.com/41/30)
 
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah is He Who created seven Firmaments and of the earth a similar number. Through the midst of them (all) descends His Command: that ye may know that Allah has power over all things, and that Allah comprehends, all things in (His) Knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے سات آسمان پیدا کئے اور ایسی ہی زمینیں۔ ان میں (خدا کے) حکم اُترتے رہتے ہیں تاکہ تم لوگ جان لو کہ خدا چیز پر قادر ہے۔ اور یہ کہ خدا اپنے علم سے ہر چیز پر احاطہ کئے ہوئے ہے
+
 [Open on Quran.com](https://quran.com/65/12)
 
 #### 97:4 · [[097 Al-Qadr]]
@@ -139,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The angels and the Spirit [i.e., Gabriel] descend therein by permission of their Lord for every matter.
 
 **English (Yusuf Ali):** Therein come down the angels and the Spirit by Allah's permission, on every errand:
+
+**Urdu (Fatah Muhammad Jalandhari):** اس میں روح (الامین) اور فرشتے ہر کام کے (انتظام کے) لیے اپنے پروردگار کے حکم سے اترتے ہیں
 
 [Open on Quran.com](https://quran.com/97/4)
 

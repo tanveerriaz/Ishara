@@ -14,62 +14,62 @@ The Divorce · 12 ayahs
 
 ## Words in this surah (graph)
 
-- [[Edp - number]] — `عِدَّة` · number
 - [[mbynp - clear]] — `مُبَيِّنَة` · clear
-- [[Zlm - wronged]] — `ظَلَمَ` · wronged
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[$hr - months]] — `شَهْر` · months
-- [[wEZ - admonished]] — `وَعَظْ` · admonished
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[>nfq - spend]] — `أَنفَقَ` · spend
-- [[Eml - do]] — `عَمِلَ` · do
-- [[>rDEt - nursed you]] — `أَرْضَعَتْ` · nursed you
-- [[>mr - command]] — `أَمَرَ` · command
-- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
-- [[nsA' - women]] — `نِساء` · women
-- [[byt - houses]] — `بَيْت` · houses
-- [[tlY - recited]] — `تَلَى` · recited
-- [[nhr - rivers]] — `نَهَر` · rivers
+- [[Edp - number]] — `عِدَّة` · number
+- [[Tlq - you divorce]] — `طَلَّقَ` · you divorce
+- [[Zlmp - darknesses]] — `ظُلُمَة` · darknesses
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[bAlg - reaching]] — `بالِغ` · reaching
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[>y - o you]] — `أَيّ` · o you
-- [[jry - flow]] — `جَرَيْ` · flow
-- [[Hsb - think]] — `حَسْب` · think
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[>rD - earth]] — `أَرْض` · earth
+- [[wjd - we found]] — `وَجَدَ` · we found
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[SAlH - righteous]] — `صالِح` · righteous
 - [[>tY - comes them]] — `أَتَى` · comes them
+- [[sEp - abundance]] — `سَعَة` · abundance
+- [[Hyv - wherever]] — `حَيْث` · wherever
+- [[byn - between them]] — `بَيْن` · between them
+- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[Hsb - think]] — `حَسْب` · think
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[bEd - after]] — `بَعْد` · after
+- [[Elm - know]] — `عَلِمَ` · know
+- [[mvl - example]] — `مَثَل` · example
+- [[>$hd - take witness]] — `أَشْهَدَ` · take witness
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[byt - houses]] — `بَيْت` · houses
+- [[skn - dwell]] — `سَكَنَ` · dwell
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$hd - shhd]]
-- [[$hr - shahr]]
+- [[$hd - witnessing]]
+- [[$hr - new moon]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
-- [[*wq - dhwq]]
-- [[>bd - abad]]
+- [[*kr - remember recall something]]
+- [[*wq - taste]]
+- [[>bd - absolute long]]
 - [[>jl - term]]
-- [[>jr - ajr]]
-- [[>mn - amn]]
+- [[>jr - recompensing rewarding someone]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>rD - ard]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[Drr - adversity]]
-- [[Dyq - dyq]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
+- [[Dyq - become narrow strait]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
 - [[Edd - count]]
-- [[Edl - edl]]
-- [[Edw - enemy]]
+- [[Edl - act justly equitably]]
+- [[Edw - turn]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Eqb - heel human foot]]
-- [[Erf - erf]]
-- [[Esr - esr]]
-- [[Etw - etw]]
+- [[Erf - right]]
+- [[Esr - hardship]]
+- [[Etw - pride]]
 - [[HSy - count reckon]]
 - [[Hdd - define]]
 - [[Hdv - accidents]]
@@ -78,20 +78,20 @@ The Divorce · 12 ayahs
 - [[Hsn - good]]
 - [[HwT - guard]]
 - [[Hyv - haythu]]
-- [[SlH - slh]]
-- [[Tlq - tlq]]
+- [[SlH - make something good]]
+- [[Tlq - loose]]
 - [[Zlm - put something wrong]]
 - [[allah - God]]
 - [[bEd - become distant]]
-- [[blg - balagha]]
+- [[blg - reach]]
 - [[byn - clear]]
 - [[byt - any house]]
 - [[dry - know]]
 - [[dxl - enter]]
-- [[fH$ - fhsh]]
-- [[frq - faraqa]]
+- [[fH$ - actions speech foul]]
+- [[frq - separate]]
 - [[jEl - we made]]
-- [[jnn - jann]]
+- [[jnn - cover]]
 
 ## Sample (ayah 1)
 

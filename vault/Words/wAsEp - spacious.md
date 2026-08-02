@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:97 · [[004 An-Nisa]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those whom the angels take [in death] while wronging themselves - [the angels] will say, "In what [condition] were you?" They will say, "We were oppressed in the land." They [the angels] will say, "Was not the earth of Allāh spacious [enough] for you to emigrate therein?" For those, their refuge is Hell - and evil it is as a destination.
 
 **English (Yusuf Ali):** When angels take the souls of those who die in sin against their souls, they say: "In what (plight) Were ye?" They reply: "Weak and oppressed Were we in the earth." They say: "Was not the earth of Allah spacious enough for you to move yourselves away (From evil)?" Such men will find their abode in Hell,- What an evil refuge! -
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ اپنی جانوں پر ظلم کرتے ہیں جب فرشتے ان کی جان قبض کرنے لگتے ہیں تو ان سے پوچھتے ہیں کہ تم کس حال میں تھے وہ کہتے ہیں کہ ہم ملک میں عاجز وناتواں تھے فرشتے کہتے ہیں کیا خدا کا ملک فراخ نہیں تھا کہ تم اس میں ہجرت کر جاتے ایسے لوگوں کا ٹھکانہ دوزخ ہے اور وہ بری جگہ ہے
 
 [Open on Quran.com](https://quran.com/4/97)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If they accuse thee of falsehood, say: "Your Lord is full of mercy all-embracing; but from people in guilt never will His wrath be turned back.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر یوں لوگ تمہاری تکذیب کریں تو کہہ دو تمہارا پروردگار صاحب رحمت وسیع ہے مگر اس کا عذاب گنہ گاروں لوگوں سے نہیں ٹلے گا
+
 [Open on Quran.com](https://quran.com/6/147)
 
 #### 29:56 · [[029 Al-Ankabut]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O My servants who believe! truly, spacious is My Earth: therefore serve ye Me - (and Me alone)!
 
+**Urdu (Fatah Muhammad Jalandhari):** اے میرے بندو جو ایمان لائے ہو میری زمین فراخ ہے تو میری ہی عبادت کرو
+
 [Open on Quran.com](https://quran.com/29/56)
 
 #### 39:10 · [[039 Az-Zumar]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "O My servants who have believed, fear your Lord. For those who do good in this world is good, and the earth of Allāh is spacious. Indeed, the patient will be given their reward without account [i.e., limit]."
 
 **English (Yusuf Ali):** Say: "O ye my servants who believe! Fear your Lord, good is (the reward) for those who do good in this world. Spacious is Allah's earth! those who patiently persevere will truly receive a reward without measure!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اے میرے بندو جو ایمان لائے ہو اپنے پروردگار سے ڈرو۔ جنہوں نے اس دنیا میں نیکی کی ان کے لئے بھلائی ہے۔ اور خدا کی زمین کشادہ ہے۔ جو صبر کرنے والے ہیں ان کو بےشمار ثواب ملے گا
 
 [Open on Quran.com](https://quran.com/39/10)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jhr - jhr]]
+- [[jhr - make something plain]]
 
 ### Meaning
 **manifestly** · Lemma **جَهْرَة**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:55 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when you said, "O Moses, we will never believe you until we see Allāh outright"; so the thunderbolt took you while you were looking on.
 
 **English (Yusuf Ali):** And remember ye said: "O Moses! We shall never believe in thee until we see Allah manifestly," but ye were dazed with thunder and lighting even as ye looked on.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے (موسیٰ) سے کہا کہ موسیٰ، جب تک ہم خدا کو سامنے نہ دیکھ لیں گے، تم پر ایمان نہیں لائیں گے، تو تم کو بجلی نے آ گھیرا اور تم دیکھ رہے تھے
 
 [Open on Quran.com](https://quran.com/2/55)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The people of the Book ask thee to cause a book to descend to them from heaven: Indeed they asked Moses for an even greater (miracle), for they said: "Show us Allah in public," but they were dazed for their presumption, with thunder and lightning. Yet they worshipped the calf even after clear signs had come to them; even so we forgave them; and gave Moses manifest proofs of authority.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) اہل کتاب تم سے درخواست کرتے ہیں کہ تم ان پر ایک (لکھی ہوئی) کتاب آسمان سے اتار لاؤ تو یہ موسیٰ سے اس سے بھی بڑی بڑی درخواستیں کرچکے ہیں (ان سے) کہتے تھے ہمیں خدا ظاہر (یعنی آنکھوں سے) دکھا دو سو ان کے گناہ کی وجہ سے ان کو بجلی نے آپکڑا۔ پھر کھلی نشانیاں آئے پیچھے بچھڑے کو (معبود) بنا بیٹھے تو اس سے بھی ہم نے درگزر کی۔ اور موسیٰ کو صریح غلبہ دیا
+
 [Open on Quran.com](https://quran.com/4/153)
 
 #### 6:47 · [[006 Al-Anam]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "Have you considered: if the punishment of Allāh should come to you unexpectedly or manifestly, will any be destroyed but the wrongdoing people?"
 
 **English (Yusuf Ali):** Say: "Think ye, if the punishment of Allah comes to you, whether suddenly or openly, will any be destroyed except those who do wrong?
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ بھلا بتاؤ تو اگر تم پر خدا کا عذاب بےخبری میں یا خبر آنے کے بعد آئے تو کیا ظالم لوگوں کے سوا کوئی اور بھی ہلاک ہوگا؟
 
 [Open on Quran.com](https://quran.com/6/47)
 

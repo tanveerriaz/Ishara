@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Etd - etd]]
+- [[Etd - preparation readiness]]
 
 ### Meaning
 **she prepared** · Lemma **أَعْتَدَتْ**
@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:18 · [[004 An-Nisa]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But repentance is not [accepted] of those who [continue to] do evil deeds up until, when death comes to one of them, he says, "Indeed, I have repented now," or of those who die while they are disbelievers. For them We have prepared a painful punishment.
 
 **English (Yusuf Ali):** Of no effect is the repentance of those who continue to do evil, until death faces one of them, and he says, "Now have I repented indeed;" nor of those who die rejecting Faith: for them have We prepared a punishment most grievous.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ایسے لوگوں کی توبہ قبول نہیں ہوتی جو (ساری عمر) برے کام کرتے ہیں۔ یہاں تک کہ جب ان میں سے کسی موت آموجود ہو تو اس وقت کہنے لگے کہ اب میں توبہ کرتا ہوں اور نہ ان کی (توبہ قبول ہوتی ہے) جو کفر کی حالت میں مریں۔ ایسے لوگوں کے لئے ہم نے عذاب الیم تیار کر رکھا ہے
 
 [Open on Quran.com](https://quran.com/4/18)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Nor) those who are niggardly or enjoin niggardliness on others, or hide the bounties which Allah hath bestowed on them; for We have prepared, for those who resist Faith, a punishment that steeps them in contempt;-
 
+**Urdu (Fatah Muhammad Jalandhari):** جو خود بھی بخل کریں اور لوگوں کو بھی بخل سکھائیں اور جو (مال) خدا نے ان کو اپنے فضل سے عطا فرمایا ہے اسے چھپا چھپا کے رکھیں اور ہم نے ناشکروں کے لئے ذلت کا عذاب تیار کر رکھا ہے
+
 [Open on Quran.com](https://quran.com/4/37)
 
 #### 4:151 · [[004 An-Nisa]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the disbelievers, truly. And We have prepared for the disbelievers a humiliating punishment.
 
 **English (Yusuf Ali):** They are in truth (equally) unbelievers; and we have prepared for unbelievers a humiliating punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ بلا اشتباہ کافر ہیں اور کافروں کے لئے ہم نے ذلت کا عذاب تیار کر رکھا ہے
 
 [Open on Quran.com](https://quran.com/4/151)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** That they took usury, though they were forbidden; and that they devoured men's substance wrongfully;- we have prepared for those among them who reject faith a grievous punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سبب سے بھی کہ باوجود منع کئے جانے کے سود لیتے تھے اور اس سبب سے بھی کہ لوگوں کا مال ناحق کھاتے تھے۔ اور ان میں سے جو کافر ہیں ان کے لئے ہم نے درد دینے والا عذاب تیار کر رکھا ہے
+
 [Open on Quran.com](https://quran.com/4/161)
 
 #### 12:31 · [[012 Yusuf]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So when she heard of their scheming, she sent for them and prepared for them a banquet and gave each one of them a knife and said [to Joseph], "Come out before them." And when they saw him, they greatly admired him and cut their hands and said, "Perfect is Allāh! This is not a man; this is none but a noble angel."
 
 **English (Yusuf Ali):** When she heard of their malicious talk, she sent for them and prepared a banquet for them: she gave each of them a knife: and she said (to Joseph), "Come out before them." When they saw him, they did extol him, and (in their amazement) cut their hands: they said, "Allah preserve us! no mortal is this! this is none other than a noble angel!"
+
+**Urdu (Fatah Muhammad Jalandhari):** جب زلیخا نے ان عورتوں کی (گفتگو جو حقیقت میں دیدار یوسف کے لیے ایک) چال (تھی) سنی تو ان کے پاس (دعوت کا) پیغام بھیجا اور ان کے لیے ایک محفل مرتب کی۔ اور (پھل تراشنے کے لیے) ہر ایک کو ایک چھری دی اور (یوسف سے) کہا کہ ان کے سامنے باہر آؤ۔ جب عورتوں نے ان کو دیکھا تو ان کا رعب (حسن) ان پر (ایسا) چھا گیا کہ (پھل تراشتے تراشتے) اپنے ہاتھ کاٹ لیے اور بےساختہ بول اٹھیں کہ سبحان الله (یہ حسن) یہ آدمی نہیں کوئی بزرگ فرشتہ ہے
 
 [Open on Quran.com](https://quran.com/12/31)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And to those who believe not in the Hereafter, (it announceth) that We have prepared for them a Penalty Grievous (indeed).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ بھی (بتاتا ہے) کہ جو آخرت پر ایمان نہیں رکھتے اُن کے لئے ہم نے دکھ دینے والا عذاب تیار کر رکھا ہے
+
 [Open on Quran.com](https://quran.com/17/10)
 
 #### 18:29 · [[018 Al-Kahf]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And say, "The truth is from your Lord, so whoever wills - let him believe; and whoever wills - let him disbelieve." Indeed, We have prepared for the wrongdoers a fire whose walls will surround them. And if they call for relief, they will be relieved with water like murky oil, which scalds [their] faces. Wretched is the drink, and evil is the resting place.
 
 **English (Yusuf Ali):** Say, "The truth is from your Lord": Let him who will believe, and let him who will, reject (it): for the wrong-doers We have prepared a Fire whose (smoke and flames), like the walls and roof of a tent, will hem them in: if they implore relief they will be granted water like melted brass, that will scald their faces, how dreadful the drink! How uncomfortable a couch to recline on!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہہ دو کہ (لوگو) یہ قرآن تمہارے پروردگار کی طرف سے برحق ہے تو جو چاہے ایمان لائے اور جو چاہے کافر رہے۔ ہم نے ظالموں کے لئے دوزخ کی آگ تیار کر رکھی ہے جس کی قناتیں ان کو گھیر رہی ہوں گی۔ اور اگر فریاد کریں گے تو ایسے کھولتے ہوئے پانی سے ان کی دادرسی کی جائے گی (جو) پگھلے ہوئے تانبے کی طرح (گرم ہوگا اور جو) مونہوں کو بھون ڈالے گا (ان کے پینے کا) پانی بھی برا اور آرام گاہ بھی بری
 
 [Open on Quran.com](https://quran.com/18/29)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Do the Unbelievers think that they can take My servants as protectors besides Me? Verily We have prepared Hell for the Unbelievers for (their) entertainment.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا کافر یہ خیال کرتے ہیں کہ وہ ہمارے بندوں کو ہمارے سوا (اپنا) کارساز بنائیں گے (تو ہم خفا نہیں ہوں گے) ہم نے (ایسے) کافروں کے لئے جہنم کی (مہمانی) تیار کر رکھی ہے
+
 [Open on Quran.com](https://quran.com/18/102)
 
 #### 25:11 · [[025 Al-Furqan]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nay they deny the hour (of the judgment to come): but We have prepared a blazing fire for such as deny the hour:
 
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ یہ تو قیامت ہی کو جھٹلاتے ہیں اور ہم نے قیامت کے جھٹلانے والوں کے لئے دوزخ تیار کر رکھی ہے
+
 [Open on Quran.com](https://quran.com/25/11)
 
 #### 25:37 · [[025 Al-Furqan]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the people of Noah - when they denied the messengers, We drowned them, and We made them for mankind a sign. And We have prepared for the wrongdoers a painful punishment.
 
 **English (Yusuf Ali):** And the people of Noah,- when they rejected the messengers, We drowned them, and We made them as a Sign for mankind; and We have prepared for (all) wrong-doers a grievous Penalty;-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نوح کی قوم نے بھی جب پیغمبروں کو جھٹلایا تو ہم نے انہیں غرق کر ڈالا اور لوگوں کے لئے نشانی بنا دیا۔ اور ظالموں کے لئے ہم نے دکھ دینے والا عذاب تیار کر رکھا ہے
 
 [Open on Quran.com](https://quran.com/25/37)
 

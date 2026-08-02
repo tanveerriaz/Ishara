@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 1:5 · [[001 Al-Fatihah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is You we worship and You we ask for help.
 
 **English (Yusuf Ali):** Thee do we worship, and Thine aid we seek.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پروردگار) ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد مانگتے ہیں
 
 [Open on Quran.com](https://quran.com/1/5)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye people! Adore your Guardian-Lord, who created you and those who came before you, that ye may have the chance to learn righteousness;
 
+**Urdu (Fatah Muhammad Jalandhari):** لوگو! اپنے پروردگار کی عبات کرو جس نے تم کو اور تم سے پہلے لوگوں کو پیدا کیا تاکہ تم (اس کے عذاب سے) بچو
+
 [Open on Quran.com](https://quran.com/2/21)
 
 #### 2:23 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you are in doubt about what We have sent down [i.e., the Qur’ān] upon Our Servant [i.e., Prophet Muḥammad (ﷺ)], then produce a sūrah the like thereof and call upon your witnesses [i.e., supporters] other than Allāh, if you should be truthful.
 
 **English (Yusuf Ali):** And if ye are in doubt as to what We have revealed from time to time to Our servant, then produce a Sura like thereunto; and call your witnesses or helpers (If there are any) besides Allah, if your (doubts) are true.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو اس (کتاب) میں، جو ہم نے اپنے بندے (محمدﷺ عربی) پر نازل فرمائی ہے کچھ شک ہو تو اسی طرح کی ایک سورت تم بھی بنا لاؤ اور خدا کے سوا جو تمہارے مددگار ہوں ان کو بھی بلالو اگر تم سچے ہو
 
 [Open on Quran.com](https://quran.com/2/23)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember We took a covenant from the Children of Israel (to this effect): Worship none but Allah; treat with kindness your parents and kindred, and orphans and those in need; speak fair to the people; be steadfast in prayer; and practise regular charity. Then did ye turn back, except a few among you, and ye backslide (even now).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے بنی اسرائیل سے عہد لیا کہ خدا کے سوا کسی کی عبادت نہ کرنا اور ماں باپ اور رشتہ داروں اور یتیموں اور محتاجوں کے ساتھ بھلائی کرتے رہنا اور لوگوں سے اچھی باتیں کہنا، اور نماز پڑھتے اور زکوٰة دیتے رہنا، تو چند شخصوں کے سوا تم سب (اس عہد سے) منہ پھیر کر پھر بیٹھے
+
 [Open on Quran.com](https://quran.com/2/83)
 
 #### 2:90 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** How wretched is that for which they sold themselves - that they would disbelieve in what Allāh has revealed through [their] outrage that Allāh would send down His favor upon whom He wills from among His servants. So they returned having [earned] wrath upon wrath. And for the disbelievers is a humiliating punishment.
 
 **English (Yusuf Ali):** Miserable is the price for which they have sold their souls, in that they deny (the revelation) which Allah has sent down, in insolent envy that Allah of His Grace should send it to any of His servants He pleases: Thus have they drawn on themselves Wrath upon Wrath. And humiliating is the punishment of those who reject Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس چیز کے بدلے انہوں نے اپنے تئیں بیچ ڈالا، وہ بہت بری ہے، یعنی اس جلن سے کہ خدا اپنے بندوں میں جس پر چاہتا ہے، اپنی مہربانی سے نازل فرماتا ہے۔ خدا کی نازل کی ہوئی کتاب سے کفر کرنے لگے تو وہ (اس کے) غضب بالائے غضب میں مبتلا ہو گئے۔ اور کافروں کے لیے ذلیل کرنے والا عذاب ہے
 
 [Open on Quran.com](https://quran.com/2/90)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Were ye witnesses when death appeared before Jacob? Behold, he said to his sons: "What will ye worship after me?" They said: "We shall worship Thy god and the god of thy fathers, of Abraham, Isma'il and Isaac,- the one (True) Allah: To Him we bow (in Islam)."
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس وقت یعقوب وفات پانے لگے تو تم اس وقت موجود تھے، جب انہوں نے اپنے بیٹوں سے پوچھا کہ میرے بعد تم کس کی عبادت کرو گے، تو انہوں نے کہا کہ آپ کے معبود اور آپ کے باپ دادا ابراہیم اور اسمٰعیل اور اسحاق کے معبود کی عبادت کریں گے جو معبود یکتا ہے اور ہم اُسی کے حکم بردار ہیں
+
 [Open on Quran.com](https://quran.com/2/133)
 
 #### 2:172 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, eat from the good [i.e., lawful] things which We have provided for you and be grateful to Allāh if it is [indeed] Him that you worship.
 
 **English (Yusuf Ali):** O ye who believe! Eat of the good things that We have provided for you, and be grateful to Allah, if it is Him ye worship.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان جو پاکیزہ چیزیں ہم نے تم کو عطا فرمائیں ہیں ان کو کھاؤ اور اگر خدا ہی کے بندے ہو تو اس (کی نعمتوں) کا شکر بھی ادا کرو
 
 [Open on Quran.com](https://quran.com/2/172)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! the law of equality is prescribed to you in cases of murder: the free for the free, the slave for the slave, the woman for the woman. But if any remission is made by the brother of the slain, then grant any reasonable demand, and compensate him with handsome gratitude, this is a concession and a Mercy from your Lord. After this whoever exceeds the limits shall be in grave penalty.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم کو مقتولوں کے بارےمیں قصاص (یعنی خون کے بدلے خون) کا حکم دیا جاتا ہے (اس طرح پر کہ)آزاد کے بدلے آزاد (مارا جائے) اور غلام کے بدلے غلام اور عورت کے بدلے عورت اور قاتل کو اس کے (مقتول) بھائی (کے قصاص میں) سے کچھ معاف کردیا جائے تو (وارث مقتول) کو پسندیدہ طریق سے (قرار داد کی) پیروی (یعنی مطالبہٴ خون بہا) کرنا اور (قاتل کو) خوش خوئی کے ساتھ ادا کرنا چاہیئے یہ پروردگار کی طرف سے تمہارے لئے آسانی اور مہربانی ہے جو اس کے بعد زیادتی کرے اس کے لئے دکھ کا عذاب ہے
+
 [Open on Quran.com](https://quran.com/2/178)
 
 #### 2:186 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When My servants ask thee concerning Me, I am indeed close (to them): I listen to the prayer of every suppliant when he calleth on Me: Let them also, with a will, Listen to My call, and believe in Me: That they may walk in the right way.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) جب تم سے میرے بندے میرے بارے میں دریافت کریں تو (کہہ دو کہ) میں تو (تمہارے) پاس ہوں جب کوئی پکارنے والا مجھے پکارتا ہے تو میں اس کی دعا قبول کرتا ہوں تو ان کو چاہیئے کہ میرے حکموں کو مانیں اور مجھ پر ایمان لائیں تاکہ نیک رستہ پائیں
+
 [Open on Quran.com](https://quran.com/2/186)
 
 #### 2:207 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And of the people is he who sells himself, seeking means to the approval of Allāh. And Allāh is Kind to [His] servants.
 
 **English (Yusuf Ali):** And there is the type of man who gives his life to earn the pleasure of Allah: And Allah is full of kindness to (His) devotees.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کوئی شخص ایسا ہے کہ خدا کی خوشنودی حاصل کرنے کے لئے اپنی جان بیچ ڈالتا ہے اور خدا بندوں پر بہت مہربان ہے
 
 [Open on Quran.com](https://quran.com/2/207)
 

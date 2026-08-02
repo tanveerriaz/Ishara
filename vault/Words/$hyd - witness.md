@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$hd - shhd]]
+- [[$hd - witnessing]]
 
 ### Meaning
 **witness** · Lemma **شَهِيد**
@@ -47,7 +47,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:23 · [[002 Al-Baqarah]]
 
@@ -62,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you are in doubt about what We have sent down [i.e., the Qur’ān] upon Our Servant [i.e., Prophet Muḥammad (ﷺ)], then produce a sūrah the like thereof and call upon your witnesses [i.e., supporters] other than Allāh, if you should be truthful.
 
 **English (Yusuf Ali):** And if ye are in doubt as to what We have revealed from time to time to Our servant, then produce a Sura like thereunto; and call your witnesses or helpers (If there are any) besides Allah, if your (doubts) are true.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو اس (کتاب) میں، جو ہم نے اپنے بندے (محمدﷺ عربی) پر نازل فرمائی ہے کچھ شک ہو تو اسی طرح کی ایک سورت تم بھی بنا لاؤ اور خدا کے سوا جو تمہارے مددگار ہوں ان کو بھی بلالو اگر تم سچے ہو
 
 [Open on Quran.com](https://quran.com/2/23)
 
@@ -79,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Were ye witnesses when death appeared before Jacob? Behold, he said to his sons: "What will ye worship after me?" They said: "We shall worship Thy god and the god of thy fathers, of Abraham, Isma'il and Isaac,- the one (True) Allah: To Him we bow (in Islam)."
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس وقت یعقوب وفات پانے لگے تو تم اس وقت موجود تھے، جب انہوں نے اپنے بیٹوں سے پوچھا کہ میرے بعد تم کس کی عبادت کرو گے، تو انہوں نے کہا کہ آپ کے معبود اور آپ کے باپ دادا ابراہیم اور اسمٰعیل اور اسحاق کے معبود کی عبادت کریں گے جو معبود یکتا ہے اور ہم اُسی کے حکم بردار ہیں
+
 [Open on Quran.com](https://quran.com/2/133)
 
 #### 2:143 · [[002 Al-Baqarah]]
@@ -94,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And thus We have made you a median [i.e., just] community that you will be witnesses over the people and the Messenger will be a witness over you. And We did not make the qiblah which you used to face except that We might make evident who would follow the Messenger from who would turn back on his heels. And indeed, it is difficult except for those whom Allāh has guided. And never would Allāh have caused you to lose your faith [i.e., your previous prayers]. Indeed Allāh is, to the people, Kind and Merciful.
 
 **English (Yusuf Ali):** Thus, have We made of you an Ummat justly balanced, that ye might be witnesses over the nations, and the Messenger a witness over yourselves; and We appointed the Qibla to which thou wast used, only to test those who followed the Messenger from those who would turn on their heels (From the Faith). Indeed it was (A change) momentous, except to those guided by Allah. And never would Allah Make your faith of no effect. For Allah is to all people Most surely full of kindness, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے تم کو امتِ معتدل بنایا ہے، تاکہ تم لوگوں پر گواہ بنو اور پیغمبر (آخرالزماں) تم پر گواہ بنیں۔ اور جس قبلے پر تم (پہلے) تھے، اس کو ہم نے اس لیے مقرر کیا تھا کہ معلوم کریں، کون (ہمارے) پیغمبر کا تابع رہتا ہے، اور کون الٹے پاؤں پھر جاتا ہے۔ اور یہ بات (یعنی تحویل قبلہ لوگوں کو) گراں معلوم ہوئی، مگر جن کو خدا نے ہدایت بخشی (وہ اسے گراں نہیں سمجھتے) اور خدا ایسا نہیں کہ تمہارے ایمان کو یونہی کھو دے۔ خدا تو لوگوں پر بڑا مہربان (اور) صاحبِ رحمت ہے
 
 [Open on Quran.com](https://quran.com/2/143)
 
@@ -111,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah; For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
+
 [Open on Quran.com](https://quran.com/2/282)
 
 #### 3:98 · [[003 Ali Imran]]
@@ -126,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "O People of the Scripture, why do you disbelieve in the verses of Allāh while Allāh is Witness over what you do?"
 
 **English (Yusuf Ali):** Say: "O People of the Book! Why reject ye the Signs of Allah, when Allah is Himself witness to all ye do?"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اہلِ کتاب! تم خدا کی آیتوں سے کیوں کفر کرتے ہو اور خدا تمہارے سب اعمال سے باخبر ہے
 
 [Open on Quran.com](https://quran.com/3/98)
 
@@ -143,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "O ye People of the Book! Why obstruct ye those who believe, from the path of Allah, Seeking to make it crooked, while ye were yourselves witnesses (to Allah's Covenant)? but Allah is not unmindful of all that ye do."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اہلِ کتاب تم مومنوں کو خدا کے رستے سے کیوں روکتے ہو اور باوجود یہ کہ تم اس سے واقف ہو اس میں کجی نکالتے ہو اور خدا تمھارے کاموں سے بےخبر نہیں
+
 [Open on Quran.com](https://quran.com/3/99)
 
 #### 3:140 · [[003 Ali Imran]]
@@ -158,6 +170,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If a wound should touch you - there has already touched the [opposing] people a wound similar to it. And these days [of varying conditions] We alternate among the people so that Allāh may make evident those who believe and [may] take to Himself from among you martyrs - and Allāh does not like the wrongdoers -
 
 **English (Yusuf Ali):** If a wound hath touched you, be sure a similar wound hath touched the others. Such days (of varying fortunes) We give to men and men by turns: that Allah may know those that believe, and that He may take to Himself from your ranks Martyr-witnesses (to Truth). And Allah loveth not those that do wrong.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تمہیں زخم (شکست) لگا ہے تو ان لوگوں کو بھی ایسا زخم لگ چکا ہے اور یہ دن ہیں کہ ہم ان کو لوگوں میں بدلتے رہتے ہیں اور اس سے یہ بھی مقصود تھا کہ خدا ایمان والوں کو متمیز کر دے اور تم میں سے گواہ بنائے اور خدا بےانصافوں کو پسند نہیں کرتا
 
 [Open on Quran.com](https://quran.com/3/140)
 
@@ -175,6 +189,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To (benefit) every one, We have appointed shares and heirs to property left by parents and relatives. To those, also, to whom your right hand was pledged, give their due portion. For truly Allah is witness to all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو مال ماں باپ اور رشتہ دار چھوڑ مریں تو (حق داروں میں تقسیم کردو کہ) ہم نے ہر ایک کے حقدار مقرر کردیئے ہیں اور جن لوگوں سے تم عہد کرچکے ہو ان کو بھی ان کا حصہ دو بےشک خدا ہر چیز کے سامنے ہے
+
 [Open on Quran.com](https://quran.com/4/33)
 
 #### 4:41 · [[004 An-Nisa]]
@@ -191,6 +207,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** How then if We brought from each people a witness, and We brought thee as a witness against these people!
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا اس دن کا کیا حال ہوگا جب ہم ہر امت میں سے احوال بتائے والے کو بلائیں گے اور تم کو ان لوگوں کا حال (بتانے کو) گواہ طلب کریں گے
+
 [Open on Quran.com](https://quran.com/4/41)
 
 #### 4:69 · [[004 An-Nisa]]
@@ -206,6 +224,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whoever obeys Allāh and the Messenger - those will be with the ones upon whom Allāh has bestowed favor of the prophets, the steadfast affirmers of truth, the martyrs and the righteous. And excellent are those as companions.
 
 **English (Yusuf Ali):** All who obey Allah and the messenger are in the company of those on whom is the Grace of Allah,- of the prophets (who teach), the sincere (lovers of Truth), the witnesses (who testify), and the Righteous (who do good): Ah! what a beautiful fellowship!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا اور اس کے رسول کی اطاعت کرتے ہیں وہ (قیامت کے روز) ان لوگوں کے ساتھ ہوں گے جن پر خدا نے بڑا فضل کیا یعنی انبیاء اور صدیق اور شہید اور نیک لوگ اور ان لوگوں کی رفاقت بہت ہی خوب ہے
 
 [Open on Quran.com](https://quran.com/4/69)
 

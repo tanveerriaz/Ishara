@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sjl - sajl]]
+- [[sjl - full bucket water]]
 
 ### Meaning
 **baked clay** · Lemma **سِجِّيل**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:82 · [[011 Hud]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were]
 
 **English (Yusuf Ali):** When Our Decree issued, We turned (the cities) upside down, and rained down on them brimstones hard as baked clay, spread, layer on layer,-
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جب ہمارا حکم آیا ہم نے اس (بستی) کو (اُلٹ کر) نیچے اوپر کردیا اور ان پر پتھر کی تہہ بہ تہہ (یعنی پےدرپے) کنکریاں برسائیں
 
 [Open on Quran.com](https://quran.com/11/82)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We turned (the cities) upside down, and rained down on them brimstones hard as baked clay.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس شہر کو (الٹ کر) نیچے اوپر کردیا۔ اور ان پر کھنگر کی پتھریاں برسائیں
+
 [Open on Quran.com](https://quran.com/15/74)
 
 #### 105:4 · [[105 Al-Fil]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Striking them with stones of hard clay,
 
 **English (Yusuf Ali):** Striking them with stones of baked clay.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو ان پر کھنگر کی پتھریاں پھینکتے تھے
 
 [Open on Quran.com](https://quran.com/105/4)
 

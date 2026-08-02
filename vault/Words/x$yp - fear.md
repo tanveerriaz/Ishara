@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:74 · [[002 Al-Baqarah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then your hearts became hardened after that, being like stones or even harder. For indeed, there are stones from which rivers burst forth, and there are some of them that split open and water comes out, and there are some of them that fall down for fear of Allāh. And Allāh is not unaware of what you do.
 
 **English (Yusuf Ali):** Thenceforth were your hearts hardened: They became like a rock and even worse in hardness. For among rocks there are some from which rivers gush forth; others there are which when split asunder send forth water; and others which sink for fear of Allah. And Allah is not unmindful of what ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اس کے بعد تمہارے دل سخت ہو گئے۔ گویا وہ پتھر ہیں یا ان سے بھی زیادہ سخت۔ اور پتھر تو بعضے ایسے ہوتے ہیں کہ ان میں سے چشمے پھوٹ نکلتے ہیں، اور بعضے ایسے ہوتے ہیں کہ پھٹ جاتے ہیں،اور ان میں سے پانی نکلنے لگتا ہے، اور بعضے ایسے ہوتے ہیں کہ خدا کے خوف سے گر پڑتے ہیں، اور خدا تمہارے عملوں سے بے خبر نہیں
 
 [Open on Quran.com](https://quran.com/2/74)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Hast thou not turned Thy vision to those who were told to hold back their hands (from fight) but establish regular prayers and spend in regular charity? When (at length) the order for fighting was issued to them, behold! a section of them feared men as - or even more than - they should have feared Allah: They said: "Our Lord! Why hast Thou ordered us to fight? Wouldst Thou not Grant us respite to our (natural) term, near (enough)?" Say: "Short is the enjoyment of this world: the Hereafter is the best for those who do right: Never will ye be dealt with unjustly in the very least!
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جن کو (پہلے یہ) حکم دیا گیا تھا کہ اپنے ہاتھوں کو (جنگ سے) روکے رہو اور نماز پڑھتے رہو اور زکوٰة دیتے رہو پھر جب ان پر جہاد فرض کردیا گیا تو بعض لوگ ان میں سے لوگوں سے یوں ڈرنے لگے جیسے خدا سے ڈرا کرتے ہیں بلکہ اس سے بھی زیادہ اور بڑبڑانے لگے کہ اے خدا تو نے ہم پر جہاد (جلد) کیوں فرض کردیا تھوڑی مدت اور ہمیں کیوں مہلت نہ دی (اے پیغمبر ان س)ے کہہ دو کہ دنیا کا فائدہ بہت تھوڑا ہے اور بہت اچھی چیز تو پرہیزگار کے لئے (نجات) آخرت ہے اور تم پر دھاگے برابر بھی ظلم نہیں کیا جائے گا
+
 [Open on Quran.com](https://quran.com/4/77)
 
 #### 17:31 · [[017 Al-Isra]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not kill your children for fear of poverty. We provide for them and for you. Indeed, their killing is ever a great sin.
 
 **English (Yusuf Ali):** Kill not your children for fear of want: We shall provide sustenance for them as well as for you. Verily the killing of them is a great sin.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی اولاد کو مفلسی کے خوف سے قتل نہ کرنا۔ (کیونکہ) ان کو اور تم کو ہم ہی رزق دیتے ہیں۔ کچھ شک نہیں کہ ان کا مار ڈالنا بڑا سخت گناہ ہے
 
 [Open on Quran.com](https://quran.com/17/31)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "If ye had control of the Treasures of the Mercy of my Lord, behold, ye would keep them back, for fear of spending them: for man is (every) niggardly!"
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر میرے پروردگار کی رحمت کے خزانے تمہارے ہاتھ میں ہوتے تو تم خرچ ہوجانے کے خوف سے (ان کو) بند رکھتے۔ اور انسان دل کا بہت تنگ ہے
+
 [Open on Quran.com](https://quran.com/17/100)
 
 #### 21:28 · [[021 Al-Anbya]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He knows what is [presently] before them and what will be after them, and they cannot intercede except on behalf of one whom He approves. And they, from fear of Him, are apprehensive.
 
 **English (Yusuf Ali):** He knows what is before them, and what is behind them, and they offer no intercession except for those who are acceptable, and they stand in awe and reverence of His (Glory).
+
+**Urdu (Fatah Muhammad Jalandhari):** جو کچھ ان کے آگے ہوچکا ہے اور پیچھے ہوگا وہ سب سے واقف ہے اور وہ (اس کے پاس کسی کی) سفارش نہیں کرسکتے مگر اس شخص کی جس سے خدا خوش ہو اور وہ اس کی ہیبت سے ڈرتے رہتے ہیں
 
 [Open on Quran.com](https://quran.com/21/28)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily those who live in awe for fear of their Lord;
 
+**Urdu (Fatah Muhammad Jalandhari):** جو اپنے پروردگار کے خوف سے ڈرتے ہیں
+
 [Open on Quran.com](https://quran.com/23/57)
 
 #### 59:21 · [[059 Al-Hashr]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If We had sent down this Qur’ān upon a mountain, you would have seen it humbled and splitting from fear of Allāh. And these examples We present to the people that perhaps they will give thought.
 
 **English (Yusuf Ali):** Had We sent down this Qur'an on a mountain, verily, thou wouldst have seen it humble itself and cleave asunder for fear of Allah. Such are the similitudes which We propound to men, that they may reflect.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر ہم یہ قرآن کسی پہاڑ پر نازل کرتے تو تم اس کو دیکھتے کہ خدا کے خوف سے دبا اور پھٹا جاتا ہے۔ اور یہ باتیں ہم لوگوں کے لئے بیان کرتے ہیں تاکہ وہ فکر کریں
 
 [Open on Quran.com](https://quran.com/59/21)
 

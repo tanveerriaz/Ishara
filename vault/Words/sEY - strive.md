@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sEy - sey]]
+- [[sEy - walk]]
 
 ### Meaning
 **strive** · Lemma **سَعَى**
@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:114 · [[002 Al-Baqarah]]
 
@@ -52,6 +52,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And who are more unjust than those who prevent the name of Allāh from being mentioned [i.e., praised] in His mosques and strive toward their destruction. It is not for them to enter them except in fear. For them in this world is disgrace, and they will have in the Hereafter a great punishment.
 
 **English (Yusuf Ali):** And who is more unjust than he who forbids that in places for the worship of Allah, Allah's name should be celebrated?-whose zeal is (in fact) to ruin them? It was not fitting that such should themselves enter them except in fear. For them there is nothing but disgrace in this world, and in the world to come, an exceeding torment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے بڑھ کر ظالم کون، جو خدا کی مسجدوں میں خدا کے نام کا ذکر کئے جانے کو منع کرے اور ان کی ویرانی میں ساعی ہو۔ان لوگوں کو کچھ حق نہیں کہ ان میں داخل ہوں، مگر ڈرتے ہوئے۔ ان کے لیے دنیا میں رسوائی ہے اور آخرت میں بڑا عذاب
 
 [Open on Quran.com](https://quran.com/2/114)
 
@@ -69,6 +71,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When he turns his back, His aim everywhere is to spread mischief through the earth and destroy crops and cattle. But Allah loveth not mischief.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب پیٹھ پھیر کر چلا جاتا ہے تو زمین میں دوڑتا پھرتا ہے تاکہ اس میں فتنہ انگیزی کرے اور کھیتی کو (برباد) اور (انسانوں اور حیوانوں کی) نسل کو نابود کردے اور خدا فتنہ انگیزی کو پسند نہیں کرتا
+
 [Open on Quran.com](https://quran.com/2/205)
 
 #### 5:33 · [[005 Al-Maidah]]
@@ -84,6 +88,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the penalty for those who wage war against Allāh and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment,
 
 **English (Yusuf Ali):** The punishment of those who wage war against Allah and His Messenger, and strive with might and main for mischief through the land is: execution, or crucifixion, or the cutting off of hands and feet from opposite sides, or exile from the land: that is their disgrace in this world, and a heavy punishment is theirs in the Hereafter;
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا اور اس کے رسول سے لڑائی کریں اور ملک میں فساد کرنے کو دوڑتے پھریں ان کی یہی سزا ہے کہ قتل کر دیئے جائیں یا سولی چڑھا دیئے جائیں یا ان کے ایک ایک طرف کے ہاتھ اور ایک ایک طرف کے پاؤں کاٹ دیئے جائیں یا ملک سے نکال دیئے جائیں یہ تو دنیا میں ان کی رسوائی ہے اور آخرت میں ان کے لیے بڑا (بھاری) عذاب تیار ہے
 
 [Open on Quran.com](https://quran.com/5/33)
 
@@ -101,6 +107,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Jews say: "Allah's hand is tied up." Be their hands tied up and be they accursed for the (blasphemy) they utter. Nay, both His hands are widely outstretched: He giveth and spendeth (of His bounty) as He pleaseth. But the revelation that cometh to thee from Allah increaseth in most of them their obstinate rebellion and blasphemy. Amongst them we have placed enmity and hatred till the Day of Judgment. Every time they kindle the fire of war, Allah doth extinguish it; but they (ever) strive to do mischief on earth. And Allah loveth not those who do mischief.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہود کہتے ہیں کہ خدا کا ہاتھ (گردن سے) بندھا ہوا ہے (یعنی الله بخیل ہے) انہیں کے ہاتھ باندھے جائیں اور ایسا کہنے کے سبب ان پر لعنت ہو (اس کا ہاتھ بندھا ہوا نہیں) بلکہ اس کے دونوں ہاتھ کھلے ہیں وہ جس طرح (اور جتنا) چاہتا ہے خرچ کرتا ہے اور (اے محمد) یہ (کتاب) جو تمہارے پروردگار کی طرف سے تم پر نازل ہوئی اس سے ان میں سے اکثر کی شرارت اور انکار اور بڑھے گا اور ہم نے ان کے باہم عداوت اور بغض قیامت تک کے لیے ڈال دیا ہے یہ جب لڑائی کے لیے آگ جلاتے ہیں خدا اس کو بجھا دیتا ہے اور یہ ملک میں فساد کے لیے دوڑے پھرتے ہیں اور خدا فساد کرنے والوں کو دوست نہیں رکھتا
+
 [Open on Quran.com](https://quran.com/5/64)
 
 #### 17:19 · [[017 Al-Isra]]
@@ -116,6 +124,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But whoever desires the Hereafter and exerts the effort due to it while he is a believer - it is those whose effort is ever appreciated [by Allāh].
 
 **English (Yusuf Ali):** Those who do wish for the (things of) the Hereafter, and strive therefor with all due striving, and have Faith,- they are the ones whose striving is acceptable (to Allah).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص آخرت کا خواستگار ہوا اور اس میں اتنی کوشش کرے جتنی اسے لائق ہے اور وہ مومن بھی ہو تو ایسے ہی لوگوں کی کوشش ٹھکانے لگتی ہے
 
 [Open on Quran.com](https://quran.com/17/19)
 
@@ -133,6 +143,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Verily the Hour is coming - My design is to keep it hidden - for every soul to receive its reward by the measure of its Endeavour.
 
+**Urdu (Fatah Muhammad Jalandhari):** قیامت یقیناً آنے والی ہے۔ میں چاہتا ہوں کہ اس (کے وقت) کو پوشیدہ رکھوں تاکہ ہر شخص جو کوشش کرے اس کا بدلا پائے
+
 [Open on Quran.com](https://quran.com/20/15)
 
 #### 20:20 · [[020 Taha]]
@@ -148,6 +160,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So he threw it down, and thereupon it was a snake, moving swiftly.
 
 **English (Yusuf Ali):** He threw it, and behold! It was a snake, active in motion.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے اس کو ڈال دیا اور وہ ناگہاں سانپ بن کر دوڑنے لگا
 
 [Open on Quran.com](https://quran.com/20/20)
 
@@ -165,6 +179,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said, "Nay, throw ye first!" Then behold their ropes and their rods-so it seemed to him on account of their magic - began to be in lively motion!
 
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا نہیں تم ہی ڈالو۔ (جب انہوں نے چیزیں ڈالیں) تو ناگہاں ان کی رسیاں اور لاٹھیاں موسی کے خیال میں ایسی آنے لگیں کہ وہ (میدان) میں ادھر اُدھر دوڑ رہی ہیں
+
 [Open on Quran.com](https://quran.com/20/66)
 
 #### 22:51 · [[022 Al-Hajj]]
@@ -181,6 +197,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "But those who strive against Our Signs, to frustrate them,- they will be Companions of the Fire."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے ہماری آیتوں میں (اپنے زعم باطل میں) ہمیں عاجز کرنے کے لئے سعی کی، وہ اہل دوزخ ہیں
+
 [Open on Quran.com](https://quran.com/22/51)
 
 #### 28:20 · [[028 Al-Qasas]]
@@ -196,6 +214,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And a man came from the farthest end of the city, running. He said, "O Moses, indeed the eminent ones are conferring over you [intending] to kill you, so leave [the city]; indeed, I am to you of the sincere advisors."
 
 **English (Yusuf Ali):** And there came a man, running, from the furthest end of the City. He said: "O Moses! the Chiefs are taking counsel together about thee, to slay thee: so get thee away, for I do give thee sincere advice."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ایک شخص شہر کی پرلی طرف سے دوڑتا ہوا آیا (اور) بولا کہ موسٰی (شہر کے) رئیس تمہارے بارے میں صلاحیں کرتے ہیں کہ تم کو مار ڈالیں سو تم یہاں سے نکل جاؤ۔ میں تمہارا خیر خواہ ہوں
 
 [Open on Quran.com](https://quran.com/28/20)
 

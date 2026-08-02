@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 25:75 · [[025 Al-Furqan]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those will be awarded the Chamber for what they patiently endured, and they will be received therein with greetings and [words of] peace,
 
 **English (Yusuf Ali):** Those are the ones who will be rewarded with the highest place in heaven, because of their patient constancy: therein shall they be met with salutations and peace,
+
+**Urdu (Fatah Muhammad Jalandhari):** ان (صفات کے) لوگوں کو ان کے صبر کے بدلے اونچے اونچے محل دیئے جائیں گے۔ اور وہاں فرشتے ان سے دعا وسلام کے ساتھ ملاقات کریں گے
 
 [Open on Quran.com](https://quran.com/25/75)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** As to thee, the Qur'an is bestowed upon thee from the presence of one who is wise and all-knowing.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کو قرآن (خدائے) حکیم وعلیم کی طرف سے عطا کیا جاتا ہے
+
 [Open on Quran.com](https://quran.com/27/6)
 
 #### 28:80 · [[028 Al-Qasas]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who had been given knowledge said, "Woe to you! The reward of Allāh is better for he who believes and does righteousness. And none are granted it except the patient."
 
 **English (Yusuf Ali):** But those who had been granted (true) knowledge said: "Alas for you! The reward of Allah (in the Hereafter) is best for those who believe and work righteousness: but this none shall attain, save those who steadfastly persevere (in good)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں کو علم دیا گیا تھا وہ کہنے لگے کہ تم پر افسوس۔ مومنوں اور نیکوکاروں کے لئے (جو) ثواب خدا (کے ہاں تیار ہے وہ) کہیں بہتر ہے اور وہ صرف صبر کرنے والوں ہی کو ملے گا
 
 [Open on Quran.com](https://quran.com/28/80)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And no one will be granted such goodness except those who exercise patience and self-restraint,- none but persons of the greatest good fortune.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ بات ان ہی لوگوں کو حاصل ہوتی ہے جو برداشت کرنے والے ہیں۔ اور ان ہی کو نصیب ہوتی ہے جو بڑے صاحب نصیب ہیں
+
 [Open on Quran.com](https://quran.com/41/35)
 
 #### 76:11 · [[076 Al-Insan]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So Allāh will protect them from the evil of that Day and give them radiance and happiness
 
 **English (Yusuf Ali):** But Allah will deliver them from the evil of that Day, and will shed over them a Light of Beauty and (blissful) Joy.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو خدا ان کو اس دن کی سختی سے بچالے گا اور تازگی اور خوش دلی عنایت فرمائے گا
 
 [Open on Quran.com](https://quran.com/76/11)
 

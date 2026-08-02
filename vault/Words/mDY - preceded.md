@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 8:38 · [[008 Al-Anfal]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say to those who have disbelieved [that] if they cease, what has previously occurred will be forgiven for them. But if they return [to hostility] - then the precedent of the former [rebellious] peoples has already taken place.
 
 **English (Yusuf Ali):** Say to the Unbelievers, if (now) they desist (from Unbelief), their past would be forgiven them; but if they persist, the punishment of those before them is already (a matter of warning for them).
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) کفار سے کہہ دو کہ اگر وہ اپنے افعال سے باز آجائیں تو جو ہوچکا وہ انہیں معاف کردیا جائے گا۔ اور اگر پھر (وہی حرکات) کرنے لگیں گے تو اگلے لوگوں کا (جو) طریق جاری ہوچکا ہے (وہی ان کے حق میں برتا جائے گا)
 
 [Open on Quran.com](https://quran.com/8/38)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Then travel by night with thy household, when a portion of the night (yet remains), and do thou bring up the rear: let no one amongst you look back, but pass on whither ye are ordered."
 
+**Urdu (Fatah Muhammad Jalandhari):** تو آپ کچھ رات رہے سے اپنے گھر والوں کو لے نکلیں اور خود ان کے پیچھے چلیں اور اور آپ میں سے کوئی شخص مڑ کر نہ دیکھے۔ اور جہاں آپ کو حکم ہو وہاں چلے جایئے
+
 [Open on Quran.com](https://quran.com/15/65)
 
 #### 18:60 · [[018 Al-Kahf]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold, Moses said to his attendant, "I will not give up until I reach the junction of the two seas or (until) I spend years and years in travel."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنے شاگرد سے کہا کہ جب تک دو دریاؤں کے ملنے کی جگہ نہ پہنچ جاؤں ہٹنے کا نہیں خواہ برسوں چلتا رہوں
+
 [Open on Quran.com](https://quran.com/18/60)
 
 #### 43:8 · [[043 Az-Zukhruf]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We destroyed greater than them in [striking] power, and the example of the former peoples has preceded.
 
 **English (Yusuf Ali):** So We destroyed (them)- stronger in power than these;- and (thus) has passed on the Parable of the peoples of old.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جو ان میں سخت زور والے تھے ان کو ہم نے ہلاک کردیا اور اگلے لوگوں کی حالت گزر گئی
 
 [Open on Quran.com](https://quran.com/43/8)
 

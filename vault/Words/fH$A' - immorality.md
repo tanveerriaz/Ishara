@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fH$ - fhsh]]
+- [[fH$ - actions speech foul]]
 
 ### Meaning
 **immorality** · Lemma **فَحْشاء**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:169 · [[002 Al-Baqarah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He only orders you to evil and immorality and to say about Allāh what you do not know.
 
 **English (Yusuf Ali):** For he commands you what is evil and shameful, and that ye should say of Allah that of which ye have no knowledge.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ تو تم کو برائی اور بےحیائی ہی کے کام کرنے کو کہتا ہے اور یہ بھی کہ خدا کی نسبت ایسی باتیں کہو جن کا تمہیں (کچھ بھی) علم نہیں
 
 [Open on Quran.com](https://quran.com/2/169)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Evil one threatens you with poverty and bids you to conduct unseemly. Allah promiseth you His forgiveness and bounties. And Allah careth for all and He knoweth all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اور دیکھنا) شیطان (کا کہنا نہ ماننا وہ) تمہیں تنگ دستی کا خوف دلاتا اور بےحیائی کے کام کر نے کو کہتا ہے۔ اور خدا تم سے اپنی بخشش اور رحمت کا وعدہ کرتا ہے۔ اور خدا بڑی کشائش والا (اور) سب کچھ جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/2/268)
 
 #### 7:28 · [[007 Al-Araf]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they commit an immorality, they say, "We found our fathers doing it, and Allāh has ordered us to do it." Say, "Indeed, Allāh does not order immorality. Do you say about Allāh that which you do not know?"
 
 **English (Yusuf Ali):** When they do aught that is shameful, they say: "We found our fathers doing so"; and "Allah commanded us thus": Say: "Nay, Allah never commands what is shameful: do ye say of Allah what ye know not?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب کوئی بے حیائی کا کام کرتے ہیں تو کہتے ہیں کہ ہم نے اپنے بزرگوں کو اسی طرح کرتے دیکھا ہے اور خدا نے بھی ہم کو یہی حکم دیا ہے۔ کہہ دو خدا بےحیائی کے کام کرنے کا ہرگز حکم نہیں دیتا۔ بھلا تم خدا کی نسبت ایسی بات کیوں کہتے ہو جس کا تمہیں علم نہیں
 
 [Open on Quran.com](https://quran.com/7/28)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And (with passion) did she desire him, and he would have desired her, but that he saw the evidence of his Lord: thus (did We order) that We might turn away from him (all) evil and shameful deeds: for he was one of Our servants, sincere and purified.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس عورت نے ان کا قصد کیا اور انہوں نے اس کا قصد کیا۔ اگر وہ اپنے پروردگار کی نشانی نہ دیکھتے (تو جو ہوتا ہوتا) یوں اس لیے (کیا گیا) کہ ہم ان سے برائی اور بےحیائی کو روک دیں۔ بےشک وہ ہمارے خالص بندوں میں سے تھے
+
 [Open on Quran.com](https://quran.com/12/24)
 
 #### 16:90 · [[016 An-Nahl]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Allāh orders justice and good conduct and giving [help] to relatives and forbids immorality and bad conduct and oppression. He admonishes you that perhaps you will be reminded.
 
 **English (Yusuf Ali):** Allah commands justice, the doing of good, and liberality to kith and kin, and He forbids all shameful deeds, and injustice and rebellion: He instructs you, that ye may receive admonition.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تم کو انصاف اور احسان کرنے اور رشتہ داروں کو (خرچ سے مدد) دینے کا حکم دیتا ہے۔ اور بےحیائی اور نامعقول کاموں سے اور سرکشی سے منع کرتا ہے (اور) تمہیں نصیحت کرتا ہے تاکہ تم یاد رکھو
 
 [Open on Quran.com](https://quran.com/16/90)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! follow not Satan's footsteps: if any will follow the footsteps of Satan, he will (but) command what is shameful and wrong: and were it not for the grace and mercy of Allah on you, not one of you would ever have been pure: but Allah doth purify whom He pleases: and Allah is One Who hears and knows (all things).
 
+**Urdu (Fatah Muhammad Jalandhari):** اے مومنو! شیطان کے قدموں پر نہ چلنا۔ اور جو شخص شیطان کے قدموں پر چلے گا تو شیطان تو بےحیائی (کی باتیں) اور برے کام ہی بتائے گا۔ اور اگر تم پر خدا کا فضل اور اس کی مہربانی نہ ہوتی تو ایک شخص بھی تم میں پاک نہ ہوسکتا۔ مگر خدا جس کو چاہتا ہے پاک کردیتا ہے۔ اور خدا سننے والا (اور) جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/24/21)
 
 #### 29:45 · [[029 Al-Ankabut]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Recite, [O Muḥammad], what has been revealed to you of the Book and establish prayer. Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allāh is greater. And Allāh knows that which you do.
 
 **English (Yusuf Ali):** Recite what is sent of the Book by inspiration to thee, and establish regular Prayer: for Prayer restrains from shameful and unjust deeds; and remembrance of Allah is the greatest (thing in life) without doubt. And Allah knows the (deeds) that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ! یہ) کتاب جو تمہاری طرف وحی کی گئی ہے اس کو پڑھا کرو اور نماز کے پابند رہو۔ کچھ شک نہیں کہ نماز بےحیائی اور بری باتوں سے روکتی ہے۔ اور خدا کا ذکر بڑا (اچھا کام) ہے۔ اور جو کچھ تم کرتے ہو خدا اُسے جانتا ہے
 
 [Open on Quran.com](https://quran.com/29/45)
 

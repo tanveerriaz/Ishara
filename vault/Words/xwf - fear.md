@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:38 · [[002 Al-Baqarah]]
 
@@ -54,6 +54,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** We said, "Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance - there will be no fear concerning them, nor will they grieve.
 
 **English (Yusuf Ali):** We said: "Get ye down all from here; and if, as is sure, there comes to you Guidance from me, whosoever follows My guidance, on them shall be no fear, nor shall they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے فرمایا کہ تم سب یہاں سے اتر جاؤ جب تمہارے پاس میری طرف سے ہدایت پہنچے تو (اس کی پیروی کرنا کہ) جنہوں نے میری ہدایت کی پیروی کی ان کو نہ کچھ خوف ہوگا اور نہ وہ غمناک ہوں گے
 
 [Open on Quran.com](https://quran.com/2/38)
 
@@ -71,6 +73,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who believe (in the Qur'an), and those who follow the Jewish (scriptures), and the Christians and the Sabians,- any who believe in Allah and the Last Day, and work righteousness, shall have their reward with their Lord; on them shall be no fear, nor shall they grieve.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ مسلمان ہیں یا یہودی یا عیسائی یا ستارہ پرست، (یعنی کوئی شخص کسی قوم و مذہب کا ہو) جو خدا اور روز قیامت پر ایمان لائے گا، اور نیک عمل کرے گا، تو ایسے لوگوں کو ان (کے اعمال) کا صلہ خدا کے ہاں ملے گا اور (قیامت کے دن) ان کو نہ کسی طرح کا خوف ہوگا اور نہ وہ غم ناک ہوں گے
+
 [Open on Quran.com](https://quran.com/2/62)
 
 #### 2:112 · [[002 Al-Baqarah]]
@@ -86,6 +90,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Yes, [on the contrary], whoever submits his face [i.e., self] in Islām to Allāh while being a doer of good will have his reward with his Lord. And no fear will there be concerning them, nor will they grieve.
 
 **English (Yusuf Ali):** Nay,-whoever submits His whole self to Allah and is a doer of good,- He will get his reward with his Lord; on such shall be no fear, nor shall they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جو شخص خدا کے آگے گردن جھکا دے، (یعنی ایمان لے آئے) اور وہ نیکو کار بھی ہو تو اس کا صلہ اس کے پروردگار کے پاس ہے اور ایسے لوگوں کو (قیامت کے دن) نہ کسی طرح کا خوف ہوگا اور نہ وہ غمناک ہوں گے
 
 [Open on Quran.com](https://quran.com/2/112)
 
@@ -103,6 +109,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Be sure we shall test you with something of fear and hunger, some loss in goods or lives or the fruits (of your toil), but give glad tidings to those who patiently persevere,
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم کسی قدر خوف اور بھوک اور مال اور جانوں اور میوؤں کے نقصان سے تمہاری آزمائش کریں گے توصبر کرنے والوں کو (خدا کی خوشنودی کی) بشارت سنا دو
+
 [Open on Quran.com](https://quran.com/2/155)
 
 #### 2:262 · [[002 Al-Baqarah]]
@@ -118,6 +126,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who spend their wealth in the way of Allāh and then do not follow up what they have spent with reminders [of it] or [other] injury will have their reward with their Lord, and there will be no fear concerning them, nor will they grieve.
 
 **English (Yusuf Ali):** Those who spend their substance in the cause of Allah, and follow not up their gifts with reminders of their generosity or with injury,-for them their reward is with their Lord: on them shall be no fear, nor shall they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال خدا کے رستے میں صرف کرتے ہیں پھر اس کے بعد نہ اس خرچ کا (کسی پر) احسان رکھتے ہیں اور نہ (کسی کو) تکلیف دیتے ہیں۔ ان کا صلہ ان کے پروردگار کے پاس (تیار) ہے۔ اور (قیامت کے روز) نہ ان کو کچھ خوف ہوگا اور نہ وہ غمگین ہوں گے
 
 [Open on Quran.com](https://quran.com/2/262)
 
@@ -135,6 +145,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who (in charity) spend of their goods by night and by day, in secret and in public, have their reward with their Lord: on them shall be no fear, nor shall they grieve.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال رات اور دن اور پوشیدہ اور ظاہر (راہ خدا میں) خرچ کرتے رہتے ہیں ان کا صلہ پروردگار کے پاس ہے اور ان کو (قیامت کے دن) نہ کسی طرح کا خوف ہوگا اور نہ غم
+
 [Open on Quran.com](https://quran.com/2/274)
 
 #### 2:277 · [[002 Al-Baqarah]]
@@ -150,6 +162,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who believe and do righteous deeds and establish prayer and give zakāh will have their reward with their Lord, and there will be no fear concerning them, nor will they grieve.
 
 **English (Yusuf Ali):** Those who believe, and do deeds of righteousness, and establish regular prayers and regular charity, will have their reward with their Lord: on them shall be no fear, nor shall they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور نیک عمل کرتے اور نماز پڑھتے اور زکوٰة دیتے رہے ان کو ان کے کاموں کا صلہ خدا کے ہاں ملے گا اور (قیامت کے دن) ان کو نہ کچھ خوف ہوا اور نہ وہ غمناک ہوں گے
 
 [Open on Quran.com](https://quran.com/2/277)
 
@@ -167,6 +181,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They rejoice in the bounty provided by Allah: And with regard to those left behind, who have not yet joined them (in their bliss), the (Martyrs) glory in the fact that on them is no fear, nor have they (cause to) grieve.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو کچھ خدا نے ان کو اپنے فضل سے بخش رکھا ہے اس میں خوش ہیں۔ اور جو لوگ ان کے پیچھے رہ گئے اور( شہید ہوکر) ان میں شامل نہیں ہوسکے ان کی نسبت خوشیاں منا رہے ہیں کہ (قیامت کے دن) ان کو بھی نہ کچھ خوف ہوگا اور نہ وہ غمناک ہوں گے
+
 [Open on Quran.com](https://quran.com/3/170)
 
 #### 4:83 · [[004 An-Nisa]]
@@ -183,6 +199,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When there comes to them some matter touching (Public) safety or fear, they divulge it. If they had only referred it to the Messenger, or to those charged with authority among them, the proper investigators would have Tested it from them (direct). Were it not for the Grace and Mercy of Allah unto you, all but a few of you would have fallen into the clutches of Satan.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کے پاس امن یا خوف کی کوئی خبر پہنچتی ہے تو اس کو مشہور کردیتے ہیں اور اگر اس کو پیغمبر اور اپنے سرداروں کے پاس پہنچاتے تو تحقیق کرنے والے اس کی تحقیق کر لیتے اور اگر تم پر خدا کا فضل اور اس کی مہربانی نہ ہوتی تو چند اشخاص کے سوا سب شیطان کے پیرو ہوجاتے
+
 [Open on Quran.com](https://quran.com/4/83)
 
 #### 5:69 · [[005 Al-Maidah]]
@@ -198,6 +216,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who have believed [in Prophet Muḥammad (ﷺ)] and those [before him (ﷺ)] who were Jews or Sabeans or Christians - those [among them] who believed in Allāh and the Last Day and did righteousness - no fear will there be concerning them, nor will they grieve.
 
 **English (Yusuf Ali):** Those who believe (in the Qur'an), those who follow the Jewish (scriptures), and the Sabians and the Christians,- any who believe in Allah and the Last Day, and work righteousness,- on them shall be no fear, nor shall they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا پر اور روز آخرت پر ایمان لائیں گے اور عمل نیک کریں گے خواہ وہ مسلمان ہوں یا یہودی یا ستارہ پرست یا عیسائی ان کو (قیامت کے دن) نہ کچھ خوف ہو گا اور نہ غمناک ہوں گے
 
 [Open on Quran.com](https://quran.com/5/69)
 

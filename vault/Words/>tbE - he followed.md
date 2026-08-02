@@ -35,7 +35,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:262 · [[002 Al-Baqarah]]
 
@@ -50,6 +50,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who spend their wealth in the way of Allāh and then do not follow up what they have spent with reminders [of it] or [other] injury will have their reward with their Lord, and there will be no fear concerning them, nor will they grieve.
 
 **English (Yusuf Ali):** Those who spend their substance in the cause of Allah, and follow not up their gifts with reminders of their generosity or with injury,-for them their reward is with their Lord: on them shall be no fear, nor shall they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال خدا کے رستے میں صرف کرتے ہیں پھر اس کے بعد نہ اس خرچ کا (کسی پر) احسان رکھتے ہیں اور نہ (کسی کو) تکلیف دیتے ہیں۔ ان کا صلہ ان کے پروردگار کے پاس (تیار) ہے۔ اور (قیامت کے روز) نہ ان کو کچھ خوف ہوگا اور نہ وہ غمگین ہوں گے
 
 [Open on Quran.com](https://quran.com/2/262)
 
@@ -67,6 +69,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Relate to them the story of the man to whom We sent Our signs, but he passed them by: so Satan followed him up, and he went astray.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو اس شخص کا حال پڑھ کر سنا دو جس کو ہم نے اپنی آیتیں عطا فرمائیں (اور ہفت پارچہٴ علم شرائع سے مزین کیا) تو اس نے ان کو اتار دیا پھر شیطان اس کے پیچھے لگا تو وہ گمراہوں میں ہوگیا
+
 [Open on Quran.com](https://quran.com/7/175)
 
 #### 10:90 · [[010 Yunus]]
@@ -82,6 +86,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We took the Children of Israel across the sea, and Pharaoh and his soldiers pursued them in tyranny and enmity until, when drowning overtook him, he said, "I believe that there is no deity except that in whom the Children of Israel believe, and I am of the Muslims."
 
 **English (Yusuf Ali):** We took the Children of Israel across the sea: Pharaoh and his hosts followed them in insolence and spite. At length, when overwhelmed with the flood, he said: "I believe that there is no god except Him Whom the Children of Israel believe in: I am of those who submit (to Allah in Islam)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بنی اسرائیل کو دریا سے پار کردیا تو فرعون اور اس کے لشکر نے سرکشی اور تعدی سے ان کا تعاقب کیا۔ یہاں تک کہ جب اس کو غرق (کے عذاب) نے آپکڑا تو کہنے لگا کہ میں ایمان لایا کہ جس (خدا) پر بنی اسرائیل ایمان لائے ہیں اس کے سوا کوئی معبود نہیں اور میں فرمانبرداروں میں ہوں
 
 [Open on Quran.com](https://quran.com/10/90)
 
@@ -99,6 +105,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And they were pursued by a Curse in this life,- and on the Day of Judgment. Ah! Behold! for the 'Ad rejected their Lord and Cherisher! Ah! Behold! removed (from sight) were 'Ad the people of Hud!
 
+**Urdu (Fatah Muhammad Jalandhari):** تو اس دنیا میں بھی لعنت ان کے پیچھے لگی رہے گی اور قیامت کے دن بھی (لگی رہے گی) دیکھو عاد نے اپنے پروردگار سے کفر کیا۔ (اور) سن رکھو ہود کی قوم عاد پر پھٹکار ہے
+
 [Open on Quran.com](https://quran.com/11/60)
 
 #### 11:99 · [[011 Hud]]
@@ -114,6 +122,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they were followed in this [world] with a curse and on the Day of Resurrection. And wretched is the gift which is given.
 
 **English (Yusuf Ali):** And they are followed by a curse in this (life) and on the Day of Judgment: and woeful is the gift which shall be given (unto them)!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس جہان میں بھی لعنت ان کے پیچھے لگا دی گئی اور قیامت کے دن بھی (پیچھے لگی رہے گی)۔ جو انعام ان کو ملا ہے برا ہے
 
 [Open on Quran.com](https://quran.com/11/99)
 
@@ -131,6 +141,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But any that gains a hearing by stealth, is pursued by a flaming fire, bright (to see).
 
+**Urdu (Fatah Muhammad Jalandhari):** ہاں اگر کوئی چوری سے سننا چاہے تو چمکتا ہوا انگارہ اس کے پیچھے لپکتا ہے
+
 [Open on Quran.com](https://quran.com/15/18)
 
 #### 18:85 · [[018 Al-Kahf]]
@@ -146,6 +158,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So he followed a way
 
 **English (Yusuf Ali):** One (such) way he followed,
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اس نے (سفر کا) ایک سامان کیا
 
 [Open on Quran.com](https://quran.com/18/85)
 
@@ -163,6 +177,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then followed he (another) way,
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر اس نے ایک اور سامان (سفر کا) کیا
+
 [Open on Quran.com](https://quran.com/18/89)
 
 #### 18:92 · [[018 Al-Kahf]]
@@ -179,6 +195,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then followed he (another) way,
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر اس نے ایک اور سامان کیا
+
 [Open on Quran.com](https://quran.com/18/92)
 
 #### 20:78 · [[020 Taha]]
@@ -194,6 +212,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them,
 
 **English (Yusuf Ali):** Then Pharaoh pursued them with his forces, but the waters completely overwhelmed them and covered them up.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر فرعون نے اپنے لشکر کے ساتھ ان کا تعاقب کیا تو دریا (کی موجوں) نے ان پر چڑھ کر انہیں ڈھانک لیا (یعنی ڈبو دیا)
 
 [Open on Quran.com](https://quran.com/20/78)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sfl - sfl]]
+- [[sfl - become low]]
 
 ### Meaning
 **lowest** · Lemma **أَسْفَل**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:145 · [[004 An-Nisa]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the hypocrites will be in the lowest depths of the Fire - and never will you find for them a helper -
 
 **English (Yusuf Ali):** The Hypocrites will be in the lowest depths of the Fire: no helper wilt thou find for them;-
+
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ منافق لوگ دوزخ کے سب سے نیچے کے درجے میں ہوں گے۔ اور تم ان کا کسی کو مددگار نہ پاؤ گے
 
 [Open on Quran.com](https://quran.com/4/145)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Remember ye were on the hither side of the valley, and they on the farther side, and the caravan on lower ground than ye. Even if ye had made a mutual appointment to meet, ye would certainly have failed in the appointment: But (thus ye met), that Allah might accomplish a matter already enacted; that those who died might die after a clear Sign (had been given), and those who lived might live after a Clear Sign (had been given). And verily Allah is He Who heareth and knoweth (all things).
 
+**Urdu (Fatah Muhammad Jalandhari):** جس وقت تم (مدینے سے) قریب کے ناکے پر تھے اور کافر بعید کے ناکے پر اور قافلہ تم سے نیچے (اتر گیا) تھا۔ اور اگر تم (جنگ کے لیے) آپس میں قرارداد کرلیتے تو وقت معین (پر جمع ہونے) میں تقدیم وتاخیر ہو جاتی۔ لیکن خدا کو منظور تھا کہ جو کام ہو کر رہنے والا تھا اسے کر ہی ڈالے تاکہ جو مرے بصیرت پر (یعنی یقین جان کر) مرے اور جو جیتا رہے وہ بھی بصیرت پر (یعنی حق پہچان کر) جیتا رہے۔ اور کچھ شک نہیں کہ خدا سنتا جانتا ہے
+
 [Open on Quran.com](https://quran.com/8/42)
 
 #### 33:10 · [[033 Al-Ahzab]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Remember] when they came at you from above you and from below you, and when eyes shifted [in fear], and hearts reached the throats, and you assumed about Allāh [various] assumptions.
 
 **English (Yusuf Ali):** Behold! they came on you from above you and from below you, and behold, the eyes became dim and the hearts gaped up to the throats, and ye imagined various (vain) thoughts about Allah!
+
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ تمہارے اُوپر اور نیچے کی طرف سے تم پر چڑھ آئے اور جب آنکھیں پھر گئیں اور دل (مارے دہشت کے) گلوں تک پہنچ گئے اور تم خدا کی نسبت طرح طرح کے گمان کرنے لگے
 
 [Open on Quran.com](https://quran.com/33/10)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (This failing), they then sought a stratagem against him, but We made them the ones most humiliated!
 
+**Urdu (Fatah Muhammad Jalandhari):** غرض انہوں نے ان کے ساتھ ایک چال چلنی چاہی اور ہم نے ان ہی کو زیر کردیا
+
 [Open on Quran.com](https://quran.com/37/98)
 
 #### 41:29 · [[041 Fussilat]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And the Unbelievers will say: "Our Lord! Show us those, among Jinns and men, who misled us: We shall crush them beneath our feet, so that they become the vilest (before all)."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر کہیں گے کہ اے ہمارے پروردگار جنوں اور انسانوں میں سے جن لوگوں نے ہم کو گمراہ کیا تھا ان کو ہمیں دکھا کہ ہم ان کو اپنے پاؤں کے تلے (روند) ڈالیں تاکہ وہ نہایت ذلیل ہوں
+
 [Open on Quran.com](https://quran.com/41/29)
 
 #### 95:5 · [[095 At-Tin]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then We return him to the lowest of the low,
 
 **English (Yusuf Ali):** Then do We abase him (to be) the lowest of the low,-
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر (رفتہ رفتہ) اس (کی حالت) کو (بدل کر) پست سے پست کر دیا
 
 [Open on Quran.com](https://quran.com/95/5)
 

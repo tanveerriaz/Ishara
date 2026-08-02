@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 16:80 · [[016 An-Nahl]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Allāh has made for you from your homes a place of rest and made for you from the hides of the animals tents which you find light on your day of travel and your day of encampment; and from their wool, fur and hair is furnishing and enjoyment [i.e., provision] for a time.
 
 **English (Yusuf Ali):** It is Allah Who made your habitations homes of rest and quiet for you; and made for you, out of the skins of animals, (tents for) dwellings, which ye find so light (and handy) when ye travel and when ye stop (in your travels); and out of their wool, and their soft fibres (between wool and hair), and their hair, rich stuff and articles of convenience (to serve you) for a time.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تمہارے لیے گھروں کو رہنے کی جگہ بنایا اور اُسی نے چوپایوں کی کھالوں سے تمہارے لیے ڈیرے بنائے۔ جن کو تم سبک دیکھ کر سفر اور حضر میں کام میں لاتے ہو اور اُن کی اون، پشم اور بالوں سے تم اسباب اور برتنے کی چیزیں (بناتے ہو جو) مدت تک (کام دیتی ہیں)
 
 [Open on Quran.com](https://quran.com/16/80)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So patiently persevere: for verily the promise of Allah is true: nor let those shake thy firmness, who have (themselves) no certainty of faith.
 
+**Urdu (Fatah Muhammad Jalandhari):** پس تم صبر کرو بیشک خدا کا وعدہ سچا ہے اور( دیکھو) جو لوگ یقین نہیں رکھتے وہ تمہیں اوچھا نہ بنادیں
+
 [Open on Quran.com](https://quran.com/30/60)
 
 #### 43:54 · [[043 Az-Zukhruf]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So he bluffed his people, and they obeyed him. Indeed, they were [themselves] a people defiantly disobedient [of Allāh].
 
 **English (Yusuf Ali):** Thus did he make fools of his people, and they obeyed him: truly were they a people rebellious (against Allah).
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض اس نے اپنی قوم کی عقل مار دی۔ اور انہوں نے اس کی بات مان لی۔ بےشک وہ نافرمان لوگ تھے
 
 [Open on Quran.com](https://quran.com/43/54)
 

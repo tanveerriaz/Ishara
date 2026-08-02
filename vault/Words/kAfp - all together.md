@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[kff - kff]]
+- [[kff - restrain]]
 
 ### Meaning
 **all together** · Lemma **كافَّة**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:208 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, enter into Islām completely [and perfectly] and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.
 
 **English (Yusuf Ali):** O ye who believe! Enter into Islam whole-heartedly; and follow not the footsteps of the evil one; for he is to you an avowed enemy.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اسلام میں پورے پورے داخل ہوجاؤ اور شیطان کے پیچھے نہ چلو وہ تو تمہارا صریح دشمن ہے
 
 [Open on Quran.com](https://quran.com/2/208)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The number of months in the sight of Allah is twelve (in a year)- so ordained by Him the day He created the heavens and the earth; of them four are sacred: that is the straight usage. So wrong not yourselves therein, and fight the Pagans all together as they fight you all together. But know that Allah is with those who restrain themselves.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا کے نزدیک مہینے گنتی میں (بارہ ہیں یعنی) اس روز (سے) کہ اس نے آسمانوں اور زمین کو پیدا کیا۔ کتاب خدا میں (برس کے) بارہ مہینے (لکھے ہوئے) ہیں۔ ان میں سے چار مہینے ادب کے ہیں۔ یہی دین (کا) سیدھا راستہ ہے۔ تو ان (مہینوں) میں (قتال ناحق سے) اپنے آپ پر ظلم نہ کرنا۔ اور تم سب کے سب مشرکوں سے لڑو جیسے وہ سب کے سب تم سے لڑتے ہیں۔ اور جان رکھو کہ خدا پرہیز گاروں کے ساتھ ہے
+
 [Open on Quran.com](https://quran.com/9/36)
 
 #### 9:122 · [[009 At-Tawbah]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nor should the Believers all go forth together: if a contingent from every expedition remained behind, they could devote themselves to studies in religion, and admonish the people when they return to them,- that thus they (may learn) to guard themselves (against evil).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ تو ہو نہیں سکتا کہ مومن سب کے سب نکل آئیں۔ تو یوں کیوں نہ کیا کہ ہر ایک جماعت میں سے چند اشخاص نکل جاتے تاکہ دین کا (علم سیکھتے اور اس) میں سمجھ پیدا کرتے اور جب اپنی قوم کی طرف واپس آتے تو ان کو ڈر سناتے تاکہ وہ حذر کرتے
+
 [Open on Quran.com](https://quran.com/9/122)
 
 #### 34:28 · [[034 Saba]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have not sent you except comprehensively to mankind as a bringer of good tidings and a warner. But most of the people do not know.
 
 **English (Yusuf Ali):** We have not sent thee but as a universal (Messenger) to men, giving them glad tidings, and warning them (against sin), but most men understand not.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے محمدﷺ) ہم نے تم کو تمام لوگوں کے لئے خوشخبری سنانے والا اور ڈرانے والا بنا کر بھیجا ہے لیکن اکثر لوگ نہیں جانتے
 
 [Open on Quran.com](https://quran.com/34/28)
 

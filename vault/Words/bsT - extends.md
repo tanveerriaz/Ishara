@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bsT - bst]]
+- [[bsT - spread]]
 
 ### Meaning
 **extends** · Lemma **بَسَطَ**
@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:245 · [[002 Al-Baqarah]]
 
@@ -49,6 +49,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who is it that would loan Allāh a goodly loan so He may multiply it for him many times over? And it is Allāh who withholds and grants abundance, and to Him you will be returned.
 
 **English (Yusuf Ali):** Who is he that will loan to Allah a beautiful loan, which Allah will double unto his credit and multiply many times? It is Allah that giveth (you) Want or plenty, and to Him shall be your return.
+
+**Urdu (Fatah Muhammad Jalandhari):** کوئی ہے کہ خدا کو قرض حسنہ دے کہ وہ اس کے بدلے اس کو کئی حصے زیادہ دے گا۔ اور خدا ہی روزی کو تنگ کرتا اور (وہی اسے) کشادہ کرتا ہے۔ اور تم اسی کی طرف لوٹ کر جاؤ گے
 
 [Open on Quran.com](https://quran.com/2/245)
 
@@ -66,6 +68,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Call in remembrance the favour of Allah unto you when certain men formed the design to stretch out their hands against you, but (Allah) held back their hands from you: so fear Allah. And on Allah let believers put (all) their trust.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! خدا نے جو تم پر احسان کیا ہے اس کو یاد کرو۔ جب ایک جماعت نے ارادہ کیا کہ تم پر دست درازی کریں تو اس نے ان کے ہاتھ روک دیئے اور خدا سے ڈرتے رہوں اور مومنو کو خدا ہی پر بھروسہ رکھنا چاہیئے
+
 [Open on Quran.com](https://quran.com/5/11)
 
 #### 5:28 · [[005 Al-Maidah]]
@@ -81,6 +85,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If you should raise your hand toward me to kill me - I shall not raise my hand toward you to kill you. Indeed, I fear Allāh, Lord of the worlds.
 
 **English (Yusuf Ali):** "If thou dost stretch thy hand against me, to slay me, it is not for me to stretch my hand against thee to slay thee: for I do fear Allah, the cherisher of the worlds.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تو مجھے قتل کرنے کے لیے مجھ پر ہاتھ چلائے گا تو میں تجھ کو قتل کرنے کے لئے تجھ پر ہاتھ نہیں چلاؤں گا مجھے تو خدائے رب العالمین سے ڈر لگتا ہے
 
 [Open on Quran.com](https://quran.com/5/28)
 
@@ -98,6 +104,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah doth enlarge, or grant by (strict) measure, the sustenance (which He giveth) to whomso He pleaseth. (The wordly) rejoice in the life of this world: But the life of this world is but little comfort in the Hereafter.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا جس کا چاہتا ہے رزق فراخ کر دیتا ہے اور (جس کا چاہتا ہے) تنگ کر دیتا ہے۔ اور کافر لوگ دنیا کی زندگی پر خوش ہو رہے ہیں اور دنیا کی زندگی آخرت (کے مقابلے) میں (بہت) تھوڑا فائدہ ہے
+
 [Open on Quran.com](https://quran.com/13/26)
 
 #### 17:29 · [[017 Al-Isra]]
@@ -113,6 +121,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not make your hand [as] chained to your neck or extend it completely and [thereby] become blamed and insolvent.
 
 **English (Yusuf Ali):** Make not thy hand tied (like a niggard's) to thy neck, nor stretch it forth to its utmost reach, so that thou become blameworthy and destitute.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے ہاتھ کو نہ تو گردن سے بندھا ہوا (یعنی بہت تنگ) کرلو (کہ کسی کچھ دو ہی نہیں) اور نہ بالکل کھول ہی دو (کہ سبھی دے ڈالو اور انجام یہ ہو) کہ ملامت زدہ اور درماندہ ہو کر بیٹھ جاؤ
 
 [Open on Quran.com](https://quran.com/17/29)
 
@@ -130,6 +140,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily thy Lord doth provide sustenance in abundance for whom He pleaseth, and He provideth in a just measure. For He doth know and regard all His servants.
 
+**Urdu (Fatah Muhammad Jalandhari):** بےشک تمہارا پروردگار جس کی روزی چاہتا ہے فراخ کردیتا ہے اور (جس کی روزی چاہتا ہے) تنگ کردیتا ہے وہ اپنے بندوں سے خبردار ہے اور (ان کو) دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/17/30)
 
 #### 28:82 · [[028 Al-Qasas]]
@@ -145,6 +157,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who had wished for his position the previous day began to say, "Oh, how Allāh extends provision to whom He wills of His servants and restricts it! If not that Allāh had conferred favor on us, He would have caused it to swallow us. Oh, how the disbelievers do not succeed!"
 
 **English (Yusuf Ali):** And those who had envied his position the day before began to say on the morrow: "Ah! it is indeed Allah Who enlarges the provision or restricts it, to any of His servants He pleases! had it not been that Allah was gracious to us, He could have caused the earth to swallow us up! Ah! those who reject Allah will assuredly never prosper."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ لوگ جو کل اُس کے رتبے کی تمنا کرتے تھے صبح کو کہنے لگے ہائے شامت! خدا ہی تو اپنے بندوں میں سے جس کے لئے چاہتا ہے رزق فراخ کر دیتا ہے اور (جس کے لئے چاہتا ہے) تنگ کر دیتا ہے۔ اگر خدا ہم پر احسان نہ کرتا تو ہمیں بھی دھنسا دیتا۔ ہائے خرابی! کافر نجات نہیں پا سکتے
 
 [Open on Quran.com](https://quran.com/28/82)
 
@@ -162,6 +176,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah enlarges the sustenance (which He gives) to whichever of His servants He pleases; and He (similarly) grants by (strict) measure, (as He pleases): for Allah has full knowledge of all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی اپنے بندوں میں سے جس کے لئے چاہتا ہے روزی فراخ کر دیتا ہے اور جس کے لئے چاہتا ہے تنگ کر دیتا ہے بیشک خدا ہر چیز سے واقف ہے
+
 [Open on Quran.com](https://quran.com/29/62)
 
 #### 30:37 · [[030 Ar-Rum]]
@@ -178,6 +194,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** See they not that Allah enlarges the provision and restricts it, to whomsoever He pleases? Verily in that are Signs for those who believe.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا اُنہوں نے نہیں دیکھا کہ خدا ہی جس کے لئے چاہتا ہے رزق فراخ کرتا ہے اور( جس کے لئے چاہتا ہے) تنگ کرتا ہے۔ بیشک اس میں ایمان لانے والوں کے لئے نشانیاں ہیں
+
 [Open on Quran.com](https://quran.com/30/37)
 
 #### 30:48 · [[030 Ar-Rum]]
@@ -193,6 +211,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is Allāh who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice
 
 **English (Yusuf Ali):** It is Allah Who sends the Winds, and they raise the Clouds: then does He spread them in the sky as He wills, and break them into fragments, until thou seest rain-drops issue from the midst thereof: then when He has made them reach such of his servants as He wills behold, they do rejoice!-
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جو ہواؤں کو چلاتا ہے تو وہ بادل کو اُبھارتی ہیں۔ پھر خدا اس کو جس طرح چاہتا ہے آسمان میں پھیلا دیتا اور تہ بتہ کر دیتا ہے پھر تم دیکھتے ہو کہ اس کے بیچ میں سے مینھہ نکلنے لگتا ہے پھر جب وہ اپنے بندوں میں سے جن پر چاہتا ہے اُسے برسا دیتا ہے تو وہ خوش ہو جاتے ہیں
 
 [Open on Quran.com](https://quran.com/30/48)
 

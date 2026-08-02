@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:196 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And complete the ḥajj and ʿumrah for Allāh. But if you are prevented, then [offer] what can be obtained with ease of sacrificial animals. And do not shave your heads until the sacrificial animal has reached its place of slaughter. And whoever among you is ill or has an ailment of the head [making shaving necessary must offer] a ransom of fasting [three days] or charity or sacrifice. And when you are secure, then whoever performs ʿumrah [during the ḥajj months] followed by ḥajj [offers] what can be obtained with ease of sacrificial animals. And whoever cannot find [or afford such an animal] - then a fast of three days during ḥajj and of seven when you have returned [home]. Those are ten complete [days]. This is for those whose family is not in the area of al-Masjid al-Ḥarām. And fear Allāh and know that Allāh is severe in penalty.
 
 **English (Yusuf Ali):** And complete the Hajj or 'umra in the service of Allah. But if ye are prevented (From completing it), send an offering for sacrifice, such as ye may find, and do not shave your heads until the offering reaches the place of sacrifice. And if any of you is ill, or has an ailment in his scalp, (Necessitating shaving), (He should) in compensation either fast, or feed the poor, or offer sacrifice; and when ye are in peaceful conditions (again), if any one wishes to continue the 'umra on to the hajj, He must make an offering, such as he can afford, but if he cannot afford it, He should fast three days during the hajj and seven days on his return, Making ten days in all. This is for those whose household is not in (the precincts of) the Sacred Mosque. And fear Allah, and know that Allah Is strict in punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی خوشنودی) کے لئے حج اور عمرے کو پورا کرو۔ اور اگر (راستےمیں) روک لئے جاؤ تو جیسی قربانی میسر ہو (کردو) اور جب تک قربانی اپنے مقام پر نہ پہنچ جائے سر نہ منڈاؤ۔ اور اگر کوئی تم میں بیمار ہو یا اس کے سر میں کسی طرح کی تکلیف ہو تو (اگر وہ سر منڈالے تو) اس کے بدلے روزے رکھے یا صدقہ دے یا قربانی کرے پھر جب (تکلیف دور ہو کر) تم مطمئن ہوجاؤ تو جو (تم میں) حج کے وقت تک عمرے سے فائدہ اٹھانا چاہے وہ جیسی قربانی میسر ہو کرے۔ اور جس کو (قربانی) نہ ملے وہ تین روزے ایام حج میں رکھے اور سات جب واپس ہو۔ یہ پورے دس ہوئے۔ یہ حکم اس شخص کے لئے ہے جس کے اہل وعیال مکے میں نہ رہتے ہوں اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا سخت عذاب دینے والا ہے
 
 [Open on Quran.com](https://quran.com/2/196)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In them ye have benefits for a term appointed: in the end their place of sacrifice is near the Ancient House.
 
+**Urdu (Fatah Muhammad Jalandhari):** ان میں ایک وقت مقرر تک تمہارے لئے فائدے ہیں پھر ان کو خانہٴ قدیم (یعنی بیت الله) تک پہنچانا (اور ذبح ہونا) ہے
+
 [Open on Quran.com](https://quran.com/22/33)
 
 #### 48:25 · [[048 Al-Fath]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They are the ones who disbelieved and obstructed you from al-Masjid al-Ḥarām while the offering was prevented from reaching its place of sacrifice. And if not for believing men and believing women whom you did not know - that you might trample [i.e., kill] them and there would befall you because of them dishonor without [your] knowledge - [you would have been permitted to enter Makkah]. [This was so] that Allāh might admit to His mercy whom He willed. If they had been apart [from them], We would have punished those who disbelieved among them with painful punishment
 
 **English (Yusuf Ali):** They are the ones who denied Revelation and hindered you from the Sacred Mosque and the sacrificial animals, detained from reaching their place of sacrifice. Had there not been believing men and believing women whom ye did not know that ye were trampling down and on whose account a crime would have accrued to you without (your) knowledge, (Allah would have allowed you to force your way, but He held back your hands) that He may admit to His Mercy whom He will. If they had been apart, We should certainly have punished the Unbelievers among them with a grievous Punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہی لوگ ہیں جنہوں نے کفر کیا اور تم کو مسجد حرام سے روک دیا اور قربانیوں کو بھی کہ اپنی جگہ پہنچنے سے رکی رہیں۔ اور اگر ایسے مسلمان مرد اور مسلمان عورتیں نہ ہوتیں جن کو تم جانتے نہ تھے کہ اگر تم ان کو پامال کر دیتے تو تم کو ان کی طرف سے بےخبری میں نقصان پہنچ جاتا۔ (تو بھی تمہارے ہاتھ سے فتح ہوجاتی مگر تاخیر) اس لئے (ہوئی) کہ خدا اپنی رحمت میں جس کو چاہے داخل کرلے۔ اور اگر دونوں فریق الگ الگ ہوجاتے تو جو ان میں کافر تھے ان ہم دکھ دینے والا عذاب دیتے
 
 [Open on Quran.com](https://quran.com/48/25)
 

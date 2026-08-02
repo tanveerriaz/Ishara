@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 1:2 · [[001 Al-Fatihah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [All] praise is [due] to Allāh, Lord of the worlds -
 
 **English (Yusuf Ali):** Praise be to Allah, the Cherisher and Sustainer of the worlds;
+
+**Urdu (Fatah Muhammad Jalandhari):** سب طرح کی تعریف خدا ہی کو (سزاوار) ہے جو تمام مخلوقات کا پروردگار ہے
 
 [Open on Quran.com](https://quran.com/1/2)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold, thy Lord said to the angels: "I will create a vicegerent on earth." They said: "Wilt Thou place therein one who will make mischief therein and shed blood?- whilst we do celebrate Thy praises and glorify Thy holy (name)?" He said: "I know what ye know not."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (وہ وقت یاد کرنے کے قابل ہے) جب تمہارے پروردگار نے فرشتوں سے فرمایا کہ میں زمین میں (اپنا) نائب بنانے والا ہوں۔ انہوں نے کہا۔ کیا تُو اس میں ایسے شخص کو نائب بنانا چاہتا ہے جو خرابیاں کرے اور کشت وخون کرتا پھرے اور ہم تیری تعریف کے ساتھ تسبیح وتقدیس کرتے رہتے ہیں۔ (خدا نے) فرمایا میں وہ باتیں جانتا ہوں جو تم نہیں جانتے
+
 [Open on Quran.com](https://quran.com/2/30)
 
 #### 6:1 · [[006 Al-Anam]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [All] praise is [due] to Allāh, who created the heavens and the earth and made the darkness and the light. Then those who disbelieve equate [others] with their Lord.
 
 **English (Yusuf Ali):** Praise be Allah, Who created the heavens and the earth, and made the darkness and the light. Yet those who reject Faith hold (others) as equal, with their Guardian-Lord.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہر طرح کی تعریف خدا ہی کو سزاوار ہے جس نے آسمانوں اور زمین کو پیدا کیا اور اندھیرا اور روشنی بنائی پھر بھی کافر (اور چیزوں کو) خدا کے برابر ٹھیراتے ہیں
 
 [Open on Quran.com](https://quran.com/6/1)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Of the wrong-doers the last remnant was cut off. Praise be to Allah, the Cherisher of the worlds.
 
+**Urdu (Fatah Muhammad Jalandhari):** غرض ظالم لوگوں کی جڑ کاٹ دی گئی۔ اور سب تعریف خدائے رب العالمین ہی کو (سزاوار ہے)
+
 [Open on Quran.com](https://quran.com/6/45)
 
 #### 7:43 · [[007 Al-Araf]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We will have removed whatever is within their breasts of resentment, [while] flowing beneath them are rivers. And they will say, "Praise to Allāh, who has guided us to this; and we would never have been guided if Allāh had not guided us. Certainly the messengers of our Lord had come with the truth." And they will be called, "This is Paradise, which you have been made to inherit for what you used to do."
 
 **English (Yusuf Ali):** And We shall remove from their hearts any lurking sense of injury;- beneath them will be rivers flowing;- and they shall say: "Praise be to Allah, who hath guided us to this (felicity): never could we have found guidance, had it not been for the guidance of Allah: indeed it was the truth, that the messengers of our Lord brought unto us." And they shall hear the cry: "Behold! the garden before you! Ye have been made its inheritors, for your deeds (of righteousness)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کینے ان کے دلوں میں ہوں گے ہم سب نکال ڈالیں گے۔ ان کے محلوں کے نیچے نہریں بہہ رہی ہوں گی اور کہیں گے کہ خدا کا شکر ہے جس نے ہم کو یہاں کا راستہ دکھایا اور اگر خدا ہم کو رستہ نہ دکھاتا تو ہم رستہ نہ پا سکتے۔ بےشک ہمارا پروردگار کے رسول حق بات لے کر آئے تھے اور (اس روز) منادی کر دی جائے گی کہ تم ان اعمال کے صلے میں جو دنیا میں کرتے تھے اس بہشت کے وارث بنا دیئے گئے ہو
 
 [Open on Quran.com](https://quran.com/7/43)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (This will be) their cry therein: "Glory to Thee, O Allah!" And "Peace" will be their greeting therein! and the close of their cry will be: "Praise be to Allah, the Cherisher and Sustainer of the worlds!"
 
+**Urdu (Fatah Muhammad Jalandhari):** (جب وہ) ان میں (ان نعمتوں کو دیکھوں گے تو بےساختہ) کہیں گے سبحان الله۔ اور آپس میں ان کی دعا سلامٌ علیکم ہوگی اور ان کا آخری قول یہ (ہوگا) کہ خدائے رب العالمین کی حمد (اور اس کا شکر) ہے
+
 [Open on Quran.com](https://quran.com/10/10)
 
 #### 13:13 · [[013 Ar-Rad]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the thunder exalts [Allāh] with praise of Him - and the angels [as well] from fear of Him - and He sends thunderbolts and strikes therewith whom He wills while they dispute about Allāh; and He is severe in assault.
 
 **English (Yusuf Ali):** Nay, thunder repeateth His praises, and so do the angels, with awe: He flingeth the loud-voiced thunder-bolts, and therewith He striketh whomsoever He will.. yet these (are the men) who (dare to) dispute about Allah, with the strength of His power (supreme)!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور رعد اور فرشتے سب اس کے خوف سے اس کی تسبیح و تحمید کرتے رہتے ہیں اور وہی بجلیاں بھیجتا ہے پھر جس پر چاہتا ہے گرا بھی دیتا ہے اور وہ خدا کے بارے میں جھگڑتے ہیں۔ اور وہ بڑی قوت والا ہے
 
 [Open on Quran.com](https://quran.com/13/13)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Praise be to Allah, Who hath granted unto me in old age Isma'il and Isaac: for truly my Lord is He, the Hearer of Prayer!
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا کا شکر ہے جس نے مجھ کو بڑی عمر میں اسماعیل اور اسحاق بخشے۔ بےشک میرا پروردگار سننے والا ہے
+
 [Open on Quran.com](https://quran.com/14/39)
 
 #### 15:98 · [[015 Al-Hijr]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But celebrate the praises of thy Lord, and be of those who prostrate themselves in adoration.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو تم اپنے پروردگار کی تسبیح کہتے اور (اس کی) خوبیاں بیان کرتے رہو اور سجدہ کرنے والوں میں داخل رہو
+
 [Open on Quran.com](https://quran.com/15/98)
 
 #### 16:75 · [[016 An-Nahl]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh presents an example: a slave [who is] owned and unable to do a thing and he to whom We have provided from Us good provision, so he spends from it secretly and publicly. Can they be equal? Praise to Allāh! But most of them do not know.
 
 **English (Yusuf Ali):** Allah sets forth the Parable (of two men: one) a slave under the dominion of another; He has no power of any sort; and (the other) a man on whom We have bestowed goodly favours from Ourselves, and he spends thereof (freely), privately and publicly: are the two equal? (By no means;) praise be to Allah. But most of them understand not.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ایک اور مثال بیان فرماتا ہے کہ ایک غلام ہے جو (بالکل) دوسرے کے اختیار میں ہے اور کسی چیز پر قدرت نہیں رکھتا اور ایک ایسا شخص ہے جس کو ہم نے اپنے ہاں سے (بہت سا) مال طیب عطا فرمایا ہے اور وہ اس میں سے (رات دن) پوشیدہ اور ظاہر خرچ کرتا رہتا ہے تو کیا یہ دونوں شخص برابر ہیں؟ (ہرگز نہیں) الحمدلله لیکن ان میں سے اکثر لوگ نہیں سمجھ رکھتے
 
 [Open on Quran.com](https://quran.com/16/75)
 

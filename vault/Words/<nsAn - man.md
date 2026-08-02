@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>ns - ans]]
+- [[>ns - mankind]]
 
 ### Meaning
 **man** · Lemma **إِنسان**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:60 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when Moses prayed for water for his people, so We said, "Strike with your staff the stone." And there gushed forth from it twelve springs, and every people [i.e., tribe] knew its watering place. "Eat and drink from the provision of Allāh, and do not commit abuse on the earth, spreading corruption."
 
 **English (Yusuf Ali):** And remember Moses prayed for water for his people; We said: "Strike the rock with thy staff." Then gushed forth therefrom twelve springs. Each group knew its own place for water. So eat and drink of the sustenance provided by Allah, and do no evil nor mischief on the (face of the) earth.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لیے (خدا سے) پانی مانگا تو ہم نے کہا کہ اپنی لاٹھی پتھر پر مارو۔ (انہوں نے لاٹھی ماری) تو پھر اس میں سے بارہ چشمے پھوٹ نکلے، اور تمام لوگوں نے اپنا اپنا گھاٹ معلوم کر (کے پانی پی) لیا۔ (ہم نے حکم دیا کہ) خدا کی (عطا فرمائی ہوئی) روزی کھاؤ اور پیو، مگر زمین میں فساد نہ کرتے پھرنا
 
 [Open on Quran.com](https://quran.com/2/60)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah doth wish to lighten your (difficulties): For man was created Weak (in flesh).
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا چاہتا ہے کہ تم پر سے بوجھ ہلکا کرے اور انسان (طبعاً) کمزور پیدا ہوا ہے
+
 [Open on Quran.com](https://quran.com/4/28)
 
 #### 7:82 · [[007 Al-Araf]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But the answer of his people was only that they said, "Evict them from your city! Indeed, they are men who keep themselves pure."
 
 **English (Yusuf Ali):** And his people gave no answer but this: they said, "Drive them out of your city: these are indeed men who want to be clean and pure!"
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان سے اس کا جواب کچھ نہ بن پڑا اور بولے تو یہ بولے کہ ان لوگوں (یعنی لوط اور اس کے گھر والوں) کو اپنے گاؤں سے نکال دو (کہ) یہ لوگ پاک بننا چاہتے ہیں
 
 [Open on Quran.com](https://quran.com/7/82)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We divided them into twelve tribes or nations. We directed Moses by inspiration, when his (thirsty) people asked him for water: "Strike the rock with thy staff": out of it there gushed forth twelve springs: Each group knew its own place for water. We gave them the shade of clouds, and sent down to them manna and quails, (saying): "Eat of the good things We have provided for you": (but they rebelled); to Us they did no harm, but they harmed their own souls.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو (یعنی بنی اسرائیل کو) الگ الگ کرکے بارہ قبیلے (اور) بڑی بڑی جماعتیں بنا دیا۔ اور جب موسیٰ سے ان کی قوم نے پانی طلب کیا تو ہم نے ان کی طرف وحی بھیجی کہ اپنی لاٹھی پتھر پر مار دو۔ تو اس میں سے بارہ چشمے پھوٹ نکلے۔ اور سب لوگوں نے اپنا اپنا گھاٹ معلوم کرلیا۔ اور ہم نے ان (کے سروں) پر بادل کو سائبان بنائے رکھا اور ان پر من وسلویٰ اتارتے رہے۔ اور (ان سے کہا کہ) جو پاکیزہ چیزیں ہم تمہیں دیتے ہیں انہیں کھاؤ۔ اور ان لوگوں نے ہمارا کچھ نقصان نہیں کیا بلکہ (جو) نقصان کیا اپنا ہی کیا
+
 [Open on Quran.com](https://quran.com/7/160)
 
 #### 10:12 · [[010 Yunus]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when affliction touches man, he calls upon Us, whether lying on his side or sitting or standing; but when We remove from him his affliction, he continues [in disobedience] as if he had never called upon Us to [remove] an affliction that touched him. Thus is made pleasing to the transgressors that which they have been doing.
 
 **English (Yusuf Ali):** When trouble toucheth a man, He crieth unto Us (in all postures)- lying down on his side, or sitting, or standing. But when We have solved his trouble, he passeth on his way as if he had never cried to Us for a trouble that touched him! thus do the deeds of transgressors seem fair in their eyes!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب انسان کو تکلیف پہنچتی ہے تو لیٹا اور بیٹھا اور کھڑا (ہر حال میں) ہمیں پکارتا ہے۔ پھر جب ہم اس تکلیف کو اس سے دور کر دیتے ہیں تو (بےلحاظ ہو جاتا ہے اور) اس طرح گزر جاتا ہے گویا کسی تکلیف پہنچنے پر ہمیں کبھی پکارا ہی نہ تھا۔ اسی طرح حد سے نکل جانے والوں کو ان کے اعمال آراستہ کرکے دکھائے گئے ہیں
 
 [Open on Quran.com](https://quran.com/10/12)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If We give man a taste of Mercy from Ourselves, and then withdraw it from him, behold! he is in despair and (falls into) blasphemy.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم انسان کو اپنے پاس سے نعمت بخشیں پھر اس سے اس کو چھین لیں تو ناامید (اور) ناشکرا (ہوجاتا) ہے
+
 [Open on Quran.com](https://quran.com/11/9)
 
 #### 12:5 · [[012 Yusuf]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He said, "O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy.
 
 **English (Yusuf Ali):** Said (the father): "My (dear) little son! relate not thy vision to thy brothers, lest they concoct a plot against thee: for Satan is to man an avowed enemy!
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ بیٹا اپنے خواب کا ذکر اپنے بھائیوں سے نہ کرنا نہیں تو وہ تمہارے حق میں کوئی فریب کی چال چلیں گے۔ کچھ شک نہیں کہ شیطان انسان کا کھلا دشمن ہے
 
 [Open on Quran.com](https://quran.com/12/5)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And He giveth you of all that ye ask for. But if ye count the favours of Allah, never will ye be able to number them. Verily, man is given up to injustice and ingratitude.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کچھ تم نے مانگا سب میں سے تم کو عنایت کیا۔ اور اگر خدا کے احسان گننے لگو تو شمار نہ کرسکو۔ (مگر لوگ نعمتوں کا شکر نہیں کرتے) کچھ شک نہیں کہ انسان بڑا بےانصاف اور ناشکرا ہے
+
 [Open on Quran.com](https://quran.com/14/34)
 
 #### 15:26 · [[015 Al-Hijr]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We created man from sounding clay, from mud moulded into shape;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے انسان کو کھنکھناتے سڑے ہوئے گارے سے پیدا کیا ہے
+
 [Open on Quran.com](https://quran.com/15/26)
 
 #### 16:4 · [[016 An-Nahl]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He created man from a sperm-drop; then at once he is a clear adversary.
 
 **English (Yusuf Ali):** He has created man from a sperm-drop; and behold this same (man) becomes an open disputer!
+
+**Urdu (Fatah Muhammad Jalandhari):** اسی نے انسان کو نطفے سے بنایا مگر وہ اس (خالق) کے بارے میں علانیہ جھگڑنے لگا
 
 [Open on Quran.com](https://quran.com/16/4)
 

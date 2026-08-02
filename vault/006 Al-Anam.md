@@ -17,81 +17,81 @@ The Cattle · 165 ayahs
 - [[$ryk - partners]] — `شَرِيك` · partners
 - [[>wHY - we revealed]] — `أَوْحَى` · we revealed
 - [[Zlmp - darknesses]] — `ظُلُمَة` · darknesses
-- [[jzY - we recompense]] — `جَزَى` · we recompense
-- [[y*r - leave]] — `يَذَرَ` · leave
-- [[jn - jinn]] — `جَنَّ` · jinn
 - [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[Zhr - backs]] — `ظَهْر` · backs
 - [[fSl - we explain]] — `فَصَلَ` · we explain
-- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
 - [[>wl - first]] — `أَوَّل` · first
 - [[AftrY - invent]] — `افْتَرَى` · invent
-- [[lyl - night]] — `لَيْل` · night
-- [[wSY - enjoined]] — `وَصَّى` · enjoined
-- [[Srf - we explain]] — `صَرَفَ` · we explain
-- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
-- [[b>s - punishment]] — `بَأْس` · punishment
-- [[qDY - he decrees]] — `قَضَى` · he decrees
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[lbs - mix]] — `لَبَسْ` · mix
-- [[>n$> - we produced]] — `أَنشَأَ` · we produced
-- [[zEm - claim]] — `زَعَمَ` · claim
+- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
+- [[y*r - leave]] — `يَذَرَ` · leave
+- [[Zhr - backs]] — `ظَهْر` · backs
+- [[jn - jinn]] — `جَنَّ` · jinn
+- [[jzY - we recompense]] — `جَزَى` · we recompense
 - [[xsr - lost]] — `خَسِرَ` · lost
+- [[>n*r - warn]] — `أَنذَرَ` · warn
+- [[zEm - claim]] — `زَعَمَ` · claim
+- [[lyl - night]] — `لَيْل` · night
+- [[qDY - surely]] — `قَضَى` · surely
+- [[wSY - enjoined]] — `وَصَّى` · enjoined
+- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[>n$> - we produced]] — `أَنشَأَ` · we produced
+- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
+- [[mhtdy - guided ones]] — `مُهْتَدي` · guided ones
 - [[>Elm - knowing]] — `أَعْلَم` · knowing
-- [[Asm - name]] — `اسْم` · name
+- [[Srf - we explain]] — `صَرَفَ` · we explain
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Tn - shtn]]
-- [[$bh - shbh]]
+- [[$Tn - anything excessively proud]]
+- [[$bh - likeness resemblance]]
 - [[$dd - severe]]
 - [[$fE - make something pair]]
-- [[$hd - shhd]]
-- [[$kr - shkr]]
+- [[$hd - witnessing]]
+- [[$kr - gratitude]]
 - [[$ml - include encompass something]]
 - [[$ms - horse refusing ridden]]
 - [[$rH - uncover]]
-- [[$rb - shrb]]
+- [[$rb - drink]]
 - [[$rk - sharing partnership]]
 - [[$y> - thing]]
-- [[$yE - shye]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[$yE - follow cause follow]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*nb - tail]]
 - [[*r> - create]]
 - [[*rr - scattering dispersing small]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
+- [[*wq - taste]]
+- [[>*n - ear]]
 - [[>*y - hurt]]
 - [[>Hd - anyone]]
-- [[>bl - abl]]
-- [[>bw - abw]]
-- [[>fk - afk]]
+- [[>bl - camels]]
+- [[>bw - forefathers]]
+- [[>fk - turn something away]]
 - [[>hl - people house]]
 - [[>jl - term]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
+- [[>ns - mankind]]
 - [[>nv - female]]
-- [[>rD - ard]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - athm]]
-- [[>wl - like milk oil]]
+- [[>vm - sin commit crime]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
 - [[Dll - astray]]
-- [[DrE - dre]]
+- [[DrE - lower]]
 - [[Drr - adversity]]
-- [[Dyq - dyq]]
-- [[E$r - eshr]]
+- [[Dyq - become narrow strait]]
+- [[E$r - ten]]
 
 ## Sample (ayah 1)
 

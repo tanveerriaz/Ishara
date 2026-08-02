@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[hz> - hza]]
+- [[hz> - mock]]
 
 ### Meaning
 **ridicule** · Lemma **هُزُو**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:67 · [[002 Al-Baqarah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when Moses said to his people, "Indeed, Allāh commands you to slaughter a cow." They said, "Do you take us in ridicule?" He said, "I seek refuge in Allāh from being among the ignorant."
 
 **English (Yusuf Ali):** And remember Moses said to his people: "Allah commands that ye sacrifice a heifer." They said: "Makest thou a laughing-stock of us?" He said: "Allah save me from being an ignorant (fool)!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لوگوں سے کہا کہ خدا تم کو حکم دیتا ہے کہ ایک بیل ذبح کرو۔ وہ بولے، کیا تم ہم سے ہنسی کرتے ہو۔ (موسیٰ نے) کہا کہ میں الله کی پناہ مانگتا ہوں کہ نادان بنوں
 
 [Open on Quran.com](https://quran.com/2/67)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When ye divorce women, and they fulfil the term of their ('Iddat), either take them back on equitable terms or set them free on equitable terms; but do not take them back to injure them, (or) to take undue advantage; if any one does that; He wrongs his own soul. Do not treat Allah's Signs as a jest, but solemnly rehearse Allah's favours on you, and the fact that He sent down to you the Book and Wisdom, for your instruction. And fear Allah, and know that Allah is well acquainted with all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم عورتوں کو (دو دفعہ) طلاق دے چکو اور ان کی عدت پوری ہوجائے تو انہیں یا تو حسن سلوک سے نکاح میں رہنے دو یا بطریق شائستہ رخصت کردو اور اس نیت سے ان کو نکاح میں نہ رہنے دینا چاہئے کہ انہیں تکلیف دو اور ان پر زیادتی کرو۔ اور جو ایسا کرے گا وہ اپنا ہی نقصان کرے گا اور خدا کے احکام کو ہنسی (اور کھیل) نہ بناؤ اور خدا نے تم کو جو نعمتیں بخشی ہیں اور تم پر جو کتاب اور دانائی کی باتیں نازل کی ہیں جن سے وہ تمہیں نصیحت فرماتا ہے ان کو یاد کرو۔ اور خدا سے ڈرتے رہو اور جان رکھوکہ خدا ہر چیز سے واقف ہے
+
 [Open on Quran.com](https://quran.com/2/231)
 
 #### 5:57 · [[005 Al-Maidah]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, take not those who have taken your religion in ridicule and amusement among the ones who were given the Scripture before you nor the disbelievers as allies. And fear Allāh, if you should [truly] be believers.
 
 **English (Yusuf Ali):** O ye who believe! take not for friends and protectors those who take your religion for a mockery or sport,- whether among those who received the Scripture before you, or among those who reject Faith; but fear ye Allah, if ye have faith (indeed).
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والوں! جن لوگوں کو تم سے پہلے کتابیں دی گئی تھیں ان کو اور کافروں کو جنہوں نے تمہارے دین کو ہنسی اور کھیل بنا رکھا ہے دوست نہ بناؤ اور مومن ہو تو خدا سے ڈرتے رہو
 
 [Open on Quran.com](https://quran.com/5/57)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When ye proclaim your call to prayer they take it (but) as mockery and sport; that is because they are a people without understanding.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم لوگ نماز کے لیے اذان دیتے ہو تو یہ اسے بھی ہنسی اور کھیل بناتے ہیں یہ اس لیے کہ سمجھ نہیں رکھتے
+
 [Open on Quran.com](https://quran.com/5/58)
 
 #### 18:56 · [[018 Al-Kahf]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We send not the messengers except as bringers of good tidings and warners. And those who disbelieve dispute by [using] falsehood to [attempt to] invalidate thereby the truth and have taken My verses, and that of which they are warned, in ridicule.
 
 **English (Yusuf Ali):** We only send the messengers to give Glad Tidings and to give warnings: But the unbelievers dispute with vain argument, in order therewith to weaken the truth, and they treat My Signs as a jest, as also the fact that they are warned!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم جو پیغمبروں کو بھیجا کرتے ہیں تو صرف اس لئے کہ (لوگوں کو خدا کی نعمتوں کی) خوشخبریاں سنائیں اور (عذاب سے) ڈرائیں۔ اور جو کافر ہیں وہ باطل کی (سند) سے جھگڑا کرتے ہیں تاکہ اس سے حق کو پھسلا دیں اور انہوں نے ہماری آیتوں کو اور جس چیز سے ان کو ڈرایا جاتا ہے ہنسی بنا لیا
 
 [Open on Quran.com](https://quran.com/18/56)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** That is their reward, Hell, because they rejected Faith, and took My Signs and My Messengers by way of jest.
 
+**Urdu (Fatah Muhammad Jalandhari):** یہ ان کی سزا ہے (یعنی) جہنم۔ اس لئے کہ انہوں نے کفر کیا اور ہماری آیتوں اور ہمارے پیغمبروں کی ہنسی اُڑائی
+
 [Open on Quran.com](https://quran.com/18/106)
 
 #### 21:36 · [[021 Al-Anbya]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when those who disbelieve see you, [O Muḥammad], they take you not except in ridicule, [saying], "Is this the one who mentions [i.e., insults] your gods?" And they are, at the mention of the Most Merciful, disbelievers.
 
 **English (Yusuf Ali):** When the Unbelievers see thee, they treat thee not except with ridicule. "Is this," (they say), "the one who talks of your gods?" and they blaspheme at the mention of (Allah) Most Gracious!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب کافر تم کو دیکھتے ہیں تو تم سے استہزاء کرتے ہیں کہ کیا یہی شخص ہے جو تمہارے معبودوں کا ذکر (برائی سے) کیا کرتا ہے حالانکہ وہ خود رحمٰن کے نام سے منکر ہیں
 
 [Open on Quran.com](https://quran.com/21/36)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When they see thee, they treat thee no otherwise than in mockery: "Is this the one whom Allah has sent as a messenger?"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ جب تم کو دیکھتے ہیں تو تمہاری ہنسی اُڑاتے ہیں۔ کہ کیا یہی شخص ہے جس کو خدا نے پیغمبر بنا کر بھیجا ہے
+
 [Open on Quran.com](https://quran.com/25/41)
 
 #### 31:6 · [[031 Luqman]]
@@ -174,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But there are, among men, those who purchase idle tales, without knowledge (or meaning), to mislead (men) from the Path of Allah and throw ridicule (on the Path): for such there will be a Humiliating Penalty.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور لوگوں میں بعض ایسا ہے جو بیہودہ حکایتیں خریدتا ہے تاکہ( لوگوں کو) بےسمجھے خدا کے رستے سے گمراہ کرے اور اس سے استہزاء کرے یہی لوگ ہیں جن کو ذلیل کرنے والا عذاب ہوگا
+
 [Open on Quran.com](https://quran.com/31/6)
 
 #### 45:9 · [[045 Al-Jathiyah]]
@@ -189,6 +207,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when he knows anything of Our verses, he takes them in ridicule. Those will have a humiliating punishment.
 
 **English (Yusuf Ali):** And when he learns something of Our Signs, he takes them in jest: for such there will be a humiliating Penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہماری کچھ آیتیں اسے معلوم ہوتی ہیں تو ان کی ہنسی اُڑاتا ہے۔ ایسے لوگوں کے لئے ذلیل کرنے والا عذاب ہے
 
 [Open on Quran.com](https://quran.com/45/9)
 

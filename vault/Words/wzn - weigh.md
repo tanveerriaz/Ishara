@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:8 · [[007 Al-Araf]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the weighing [of deeds] that Day will be the truth. So those whose scales are heavy - it is they who will be the successful.
 
 **English (Yusuf Ali):** The balance that day will be true (to nicety): those whose scale (of good) will be heavy, will prosper:
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس روز (اعمال کا) تلنا برحق ہے تو جن لوگوں کے (عملوں کے) وزن بھاری ہوں گے وہ تو نجات پانے والے ہیں
 
 [Open on Quran.com](https://quran.com/7/8)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Give full measure when ye measure, and weigh with a balance that is straight: that is the most fitting and the most advantageous in the final determination.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب (کوئی چیز) ناپ کر دینے لگو تو پیمانہ پورا بھرا کرو اور (جب تول کر دو تو) ترازو سیدھی رکھ کر تولا کرو۔ یہ بہت اچھی بات اور انجام کے لحاظ سے بھی بہت بہتر ہے
+
 [Open on Quran.com](https://quran.com/17/35)
 
 #### 18:105 · [[018 Al-Kahf]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the ones who disbelieve in the verses of their Lord and in [their] meeting Him, so their deeds have become worthless; and We will not assign to them on the Day of Resurrection any weight [i.e., importance].
 
 **English (Yusuf Ali):** They are those who deny the Signs of their Lord and the fact of their having to meet Him (in the Hereafter): vain will be their works, nor shall We, on the Day of Judgment, give them any weight.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے اپنے پروردگار کی آیتوں اور اس کے سامنے جانے سے انکار کیا تو ان کے اعمال ضائع ہوگئے اور ہم قیامت کے دن ان کے لئے کچھ بھی وزن قائم نہیں کریں گے
 
 [Open on Quran.com](https://quran.com/18/105)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And weigh with scales true and upright.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ترازو سیدھی رکھ کر تولا کرو
+
 [Open on Quran.com](https://quran.com/26/182)
 
 #### 55:9 · [[055 Ar-Rahman]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So establish weight with justice and fall not short in the balance.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور انصاف کے ساتھ ٹھیک تولو۔ اور تول کم مت کرو
+
 [Open on Quran.com](https://quran.com/55/9)
 
 #### 83:3 · [[083 Al-Mutaffifin]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But if they give by measure or by weight to them, they cause loss.
 
 **English (Yusuf Ali):** But when they have to give by measure or weight to men, give less than due.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کو ناپ کر یا تول کر دیں تو کم کر دیں
 
 [Open on Quran.com](https://quran.com/83/3)
 

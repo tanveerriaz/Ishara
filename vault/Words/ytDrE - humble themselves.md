@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[DrE - dre]]
+- [[DrE - lower]]
 
 ### Meaning
 **humble themselves** · Lemma **يَتَضَرَّعُ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:42 · [[006 Al-Anam]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have already sent [messengers] to nations before you, [O Muḥammad]; then We seized them with poverty and hardship that perhaps they might humble themselves [to Us].
 
 **English (Yusuf Ali):** Before thee We sent (messengers) to many nations, and We afflicted the nations with suffering and adversity, that they might learn humility.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تم سے پہلے بہت سی امتوں کی طرف پیغمبر بھیجے۔ پھر (ان کی نافرمانیوں کے سبب) ہم انہیں سختیوں اور تکلیفوں میں پکڑتے رہے تاکہ عاجزی کریں
 
 [Open on Quran.com](https://quran.com/6/42)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whenever We sent a prophet to a town, We took up its people in suffering and adversity, in order that they might learn humility.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کسی شہر میں کوئی پیغمبر نہیں بھیجا مگر وہاں کے رہنے والوں کو (جو ایمان نہ لائے) دکھوں اور مصیبتوں میں مبتلا کیا تاکہ وہ عاجزی اور زاری کریں
+
 [Open on Quran.com](https://quran.com/7/94)
 
 #### 23:76 · [[023 Al-Muminun]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We had gripped them with suffering [as a warning], but they did not yield to their Lord, nor did they humbly supplicate, [and will continue thus]
 
 **English (Yusuf Ali):** We inflicted Punishment on them, but they humbled not themselves to their Lord, nor do they submissively entreat (Him)!-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو عذاب میں پکڑا تو بھی انہوں نے خدا کے آگے عاجزی نہ کی اور وہ عاجزی کرتے ہی نہیں
 
 [Open on Quran.com](https://quran.com/23/76)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 18:46 · [[018 Al-Kahf]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Wealth and children are [but] adornment of the worldly life. But the enduring good deeds are better to your Lord for reward and better for [one's] hope.
 
 **English (Yusuf Ali):** Wealth and sons are allurements of the life of this world: But the things that endure, good deeds, are best in the sight of thy Lord, as rewards, and best as (the foundation for) hopes.
+
+**Urdu (Fatah Muhammad Jalandhari):** مال اور بیٹے تو دنیا کی زندگی کی (رونق و) زینت ہیں۔ اور نیکیاں جو باقی رہنے والی ہیں وہ ثواب کے لحاظ سے تمہارے پروردگار کے ہاں بہت اچھی اور امید کے لحاظ سے بہت بہتر ہیں
 
 [Open on Quran.com](https://quran.com/18/46)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And Allah doth advance in guidance those who seek guidance: and the things that endure, Good Deeds, are best in the sight of thy Lord, as rewards, and best in respect of (their) eventual return."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ہدایت یاب ہیں خدا ان کو زیادہ ہدایت دیتا ہے۔ اور نیکیاں جو باقی رہنے والی ہیں وہ تمہارے پروردگار کے صلے کے لحاظ سے خوب اور انجام کے اعتبار سے بہتر ہیں
+
 [Open on Quran.com](https://quran.com/19/76)
 
 #### 43:28 · [[043 Az-Zukhruf]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And he left it as a Word to endure among those who came after him, that they may turn back (to Allah).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہی بات اپنی اولاد میں پیچھے چھوڑ گئے تاکہ وہ (خدا کی طرف) رجوع کریں
+
 [Open on Quran.com](https://quran.com/43/28)
 
 #### 69:8 · [[069 Al-Haqqah]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then do you see of them any remains?
 
 **English (Yusuf Ali):** Then seest thou any of them left surviving?
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تو ان میں سے کسی کو بھی باقی دیکھتا ہے؟
 
 [Open on Quran.com](https://quran.com/69/8)
 

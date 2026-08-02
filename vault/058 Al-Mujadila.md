@@ -16,82 +16,82 @@ The Pleading Woman · 22 ayahs
 
 - [[njwY - private conversation]] — `نَجْوَى` · private conversation
 - [[EdwAn - transgression]] — `عُدْوان` · transgression
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[rqbp - slave]] — `رَقَبَة` · slave
-- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[jAdl - dispute]] — `جادَلُ` · dispute
-- [[$hr - months]] — `شَهْر` · months
-- [[>nsY - so he made]] — `أَنسَى` · so he made
-- [[wEZ - admonished]] — `وَعَظْ` · admonished
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[yd - hands]] — `يَد` · hands
-- [[lys - not]] — `لَيْسَ` · not
-- [[Eml - do]] — `عَمِلَ` · do
-- [[SyAm - fasting]] — `صِيام` · fasting
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
-- [[bEv - we sent]] — `بَعَثَ` · we sent
-- [[nsA' - women]] — `نِساء` · women
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[jmyE - all]] — `جَمِيع` · all
+- [[EAd - aad]] — `عادَ` · aad
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>rD - earth]] — `أَرْض` · earth
+- [[wjd - we found]] — `وَجَدَ` · we found
 - [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[>Thr - purer]] — `أَطْهَر` · purer
-- [[smyE - all-hearer]] — `سَمِيع` · all-hearer
-- [[ktb - prescribed]] — `كَتَبَ` · prescribed
-- [[jA' - came them]] — `جاءَ` · came them
-- [[nhr - rivers]] — `نَهَر` · rivers
+- [[gDb - wrath]] — `غَضَب` · wrath
+- [[byn - between them]] — `بَيْن` · between them
+- [[Hsb - think]] — `حَسْب` · think
+- [[bEv - we sent]] — `بَعَثَ` · we sent
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[Elm - know]] — `عَلِمَ` · know
+- [[zkAp - zakah]] — `زَكاة` · zakah
+- [[<ymAn - faith]] — `إِيمان` · faith
+- [[qbl - before]] — `قَبْل` · before
+- [[bynp - clear proofs]] — `بَيِّنَة` · clear proofs
+- [[Hzb - party]] — `حِزْب` · party
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[kA*b - liars]] — `كاذِب` · liars
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
 
 ## Roots
 
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
-- [[$fq - shfq]]
-- [[$hd - shhd]]
-- [[$hr - shahr]]
-- [[$kw - shkw]]
+- [[$fq - fear]]
+- [[$hd - witnessing]]
+- [[$hr - new moon]]
+- [[$kw - complain show grief]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[*ll - humiliation]]
-- [[>*n - adhn]]
-- [[>bw - abw]]
-- [[>lm - alm]]
+- [[>*n - ear]]
+- [[>bw - forefathers]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
-- [[>rD - ard]]
+- [[>mn - believe]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - athm]]
+- [[>vm - sin commit crime]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
-- [[>yd - ayd]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
+- [[>yd - earth]]
 - [[>yy - ism]]
 - [[Drr - adversity]]
-- [[E$r - eshr]]
-- [[E*b - edhb]]
+- [[E$r - ten]]
+- [[E*b - motes particles floating]]
 - [[ESy - disobey]]
 - [[Edd - count]]
-- [[Edw - enemy]]
-- [[Efw - efw]]
+- [[Edw - turn]]
+- [[Efw - efface obliterate]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
-- [[Ewd - ewd]]
+- [[Eml - intentional action deed]]
+- [[Ewd - aad]]
 - [[Ezz - all-mighty]]
-- [[H$r - hshr]]
+- [[H$r - gather collect people]]
 - [[HSy - count reckon]]
 - [[Hdd - define]]
 - [[Hlf - type tall]]
-- [[Hrr - hrr]]
+- [[Hrr - heat]]
 - [[Hsb - number]]
 - [[Hwr - returning circling]]
 - [[Hyy - life]]
 - [[Hzb - set portion quran]]
-- [[Hzn - hzn]]
+- [[Hzn - become sorrowful]]
 - [[SHb - lord]]
 - [[Sdd - turn away]]
 - [[Sdq - speak truth]]
 - [[Slw - prayer]]
-- [[Sly - sly]]
-- [[Swm - swm]]
-- [[Syr - syr]]
+- [[Sly - exposed fire heat]]
+- [[Swm - abstain]]
+- [[Syr - destination]]
 
 ## Sample (ayah 1)
 

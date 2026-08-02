@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bdl - badala]]
+- [[bdl - change alter]]
 
 ### Meaning
 **would you exchange** · Lemma **يَسْتَبْدِلْ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:61 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when you said, "O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions." [Moses] said, "Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked." And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing.
 
 **English (Yusuf Ali):** And remember ye said: "O Moses! we cannot endure one kind of food (always); so beseech thy Lord for us to produce for us of what the earth groweth, -its pot-herbs, and cucumbers, Its garlic, lentils, and onions." He said: "Will ye exchange the better for the worse? Go ye down to any town, and ye shall find what ye want!" They were covered with humiliation and misery; they drew on themselves the wrath of Allah. This because they went on rejecting the Signs of Allah and slaying His Messengers without just cause. This because they rebelled and went on transgressing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے کہا کہ موسیٰ! ہم سے ایک (ہی) کھانے پر صبر نہیں ہو سکتا تو اپنے پروردگار سے دعا کیجئے کہ ترکاری اور ککڑی اور گیہوں اور مسور اور پیاز (وغیرہ) جو نباتات زمین سے اُگتی ہیں، ہمارے لیے پیدا کر دے۔ انہوں نے کہا کہ بھلا عمدہ چیزیں چھوڑ کر ان کے عوض ناقص چیزیں کیوں چاہتے ہوں۔ (اگر یہی چیزیں مطلوب ہیں) تو کسی شہر میں جا اترو، وہاں جو مانگتے ہو، مل جائے گا۔ اور (آخرکار) ذلت (ورسوائی) اور محتاجی (وبے نوائی) ان سے چمٹا دی گئی اور وہ الله کے غضب میں گرفتار ہو گئے۔ یہ اس لیے کہ وہ الله کی آیتوں سے انکار کرتے تھے اور (اس کے) نبیوں کو ناحق قتل کر دیتے تھے۔ (یعنی) یہ اس لیے کہ نافرمانی کئے جاتے اور حد سے بڑھے جاتے تھے
 
 [Open on Quran.com](https://quran.com/2/61)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Unless ye go forth, He will punish you with a grievous penalty, and put others in your place; but Him ye would not harm in the least. For Allah hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم نہ نکلو گے تو خدا تم کو بڑی تکلیف کا عذاب دے گا۔ اور تمہاری جگہ اور لوگ پیدا کر دے گا (جو خدا کے پورے فرمانبردار ہوں گے) اور تم اس کو کچھ نقصان نہ پہنچا سکو گے اور خدا ہر چیز پر قدرت رکھتا ہے
+
 [Open on Quran.com](https://quran.com/9/39)
 
 #### 47:38 · [[047 Muhammad]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Here you are - those invited to spend in the cause of Allāh - but among you are those who withhold [out of greed]. And whoever withholds only withholds [benefit] from himself; and Allāh is the Free of need, while you are the needy. And if you turn away [i.e., refuse], He will replace you with another people; then they will not be the likes of you.
 
 **English (Yusuf Ali):** Behold, ye are those invited to spend (of your substance) in the Way of Allah: But among you are some that are niggardly. But any who are niggardly are so at the expense of their own souls. But Allah is free of all wants, and it is ye that are needy. If ye turn back (from the Path), He will substitute in your stead another people; then they would not be like you!
+
+**Urdu (Fatah Muhammad Jalandhari):** دیکھو تم وہ لوگ ہو کہ خدا کی راہ میں خرچ کرنے کے لئے بلائے جاتے ہو۔ تو تم میں ایسے شخص بھی ہیں جو بخل کرنے لگتے ہیں۔ اور جو بخل کرتا ہے اپنے آپ سے بخل کرتا ہے۔ اور خدا بےنیاز ہے اور تم محتاج۔ اور اگر تم منہ پھیرو گے تو وہ تمہاری جگہ اور لوگوں کو لے آئے گا اور وہ تمہاری طرح کے نہیں ہوں گے
 
 [Open on Quran.com](https://quran.com/47/38)
 

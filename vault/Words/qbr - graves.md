@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:84 · [[009 At-Tawbah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not pray [the funeral prayer, O Muḥammad], over any of them who has died - ever - or stand at his grave. Indeed, they disbelieved in Allāh and His Messenger and died while they were defiantly disobedient.
 
 **English (Yusuf Ali):** Nor do thou ever pray for any of them that dies, nor stand at his grave; for they rejected Allah and His Messenger, and died in a state of perverse rebellion.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) ان میں سے کوئی مر جائے تو کبھی اس (کے جنازے) پر نماز نہ پڑھنا اور نہ اس کی قبر پر (جا کر) کھڑے ہونا۔ یہ خدا اور اس کے رسول کے ساتھ کفر کرتے رہے اور مرے بھی نافرمان (ہی مرے)
 
 [Open on Quran.com](https://quran.com/9/84)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And verily the Hour will come: there can be no doubt about it, or about (the fact) that Allah will raise up all who are in the graves.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ قیامت آنے والی ہے۔ اس میں کچھ شک نہیں۔ اور یہ کہ خدا سب لوگوں کو جو قبروں میں ہیں جلا اٹھائے گا
+
 [Open on Quran.com](https://quran.com/22/7)
 
 #### 35:22 · [[035 Fatir]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And not equal are the living and the dead. Indeed, Allāh causes to hear whom He wills, but you cannot make hear those in the graves.
 
 **English (Yusuf Ali):** Nor are alike those that are living and those that are dead. Allah can make any that He wills to hear; but thou canst not make those to hear who are (buried) in graves.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نہ زندے اور مردے برابر ہوسکتے ہیں۔ خدا جس کو چاہتا ہے سنا دیتا ہے۔ اور تم ان کو جو قبروں میں مدفون ہیں نہیں سنا سکتے
 
 [Open on Quran.com](https://quran.com/35/22)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Turn not (for friendship) to people on whom is the Wrath of Allah, of the Hereafter they are already in despair, just as the Unbelievers are in despair about those (buried) in graves.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! ان لوگوں سے جن پر خدا غصے ہوا ہے دوستی نہ کرو (کیونکہ) جس طرح کافروں کو مردوں (کے جی اُٹھنے) کی امید نہیں اسی طرح ان لوگوں کو بھی آخرت (کے آنے) کی امید نہیں
+
 [Open on Quran.com](https://quran.com/60/13)
 
 #### 82:4 · [[082 Al-Infitar]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And when the Graves are turned upside down;-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب قبریں اکھیڑ دی جائیں گی
+
 [Open on Quran.com](https://quran.com/82/4)
 
 #### 100:9 · [[100 Al-Adiyat]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But does he not know that when the contents of the graves are scattered
 
 **English (Yusuf Ali):** Does he not know,- when that which is in the graves is scattered abroad
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا وہ اس وقت کو نہیں جانتا کہ جو( مردے) قبروں میں ہیں وہ باہر نکال لیے جائیں گے
 
 [Open on Quran.com](https://quran.com/100/9)
 

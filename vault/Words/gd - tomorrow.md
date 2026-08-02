@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[gdw - gdw]]
+- [[gdw - early part morning]]
 
 ### Meaning
 **tomorrow** · Lemma **غَدَ**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:121 · [[003 Ali Imran]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [remember] when you, [O Muḥammad], left your family in the morning to post the believers at their stations for the battle [of Uḥud] - and Allāh is Hearing and Knowing -
 
 **English (Yusuf Ali):** Remember that morning Thou didst leave Thy household (early) to post the faithful at their stations for battle: And Allah heareth and knoweth all things:
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس وقت کو یاد کرو) جب تم صبح کو اپنے گھر روانہ ہو کر ایمان والوں کو لڑائی کے لیے مورچوں پر (موقع بہ موقع) متعین کرنے لگے اور خدا سب کچھ سنتا اور جانتا ہے
 
 [Open on Quran.com](https://quran.com/3/121)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Send him with us tomorrow to enjoy himself and play, and we shall take every care of him."
 
+**Urdu (Fatah Muhammad Jalandhari):** کل اسے ہمارے ساتھ بھیج دیجیئے کہ خوب میوے کھائے اور کھیلے کودے۔ ہم اس کے نگہبان ہیں
+
 [Open on Quran.com](https://quran.com/12/12)
 
 #### 18:23 · [[018 Al-Kahf]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And never say of anything, "Indeed, I will do that tomorrow,"
 
 **English (Yusuf Ali):** Nor say of anything, "I shall be sure to do so and so tomorrow"-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کسی کام کی نسبت نہ کہنا کہ میں اسے کل کردوں گا
 
 [Open on Quran.com](https://quran.com/18/23)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily the knowledge of the Hour is with Allah (alone). It is He Who sends down rain, and He Who knows what is in the wombs. Nor does any one know what it is that he will earn on the morrow: Nor does any one know in what land he is to die. Verily with Allah is full knowledge and He is acquainted (with all things).
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی کو قیامت کا علم ہے اور وہی مینھہ برساتا ہے۔ اور وہی (حاملہ کے) پیٹ کی چیزوں کو جانتا ہے (کہ نر ہے یا مادہ) اور کوئی شخص نہیں جانتا کہ وہ کل کیا کام کرے گا۔ اور کوئی متنفس نہیں جانتا کہ کس سرزمین میں اُسے موت آئے گی بیشک خدا ہی جاننے والا (اور) خبردار ہے
+
 [Open on Quran.com](https://quran.com/31/34)
 
 #### 54:26 · [[054 Al-Qamar]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They will know tomorrow who is the insolent liar.
 
 **English (Yusuf Ali):** Ah! they will know on the morrow, which is the liar, the insolent one!
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کو کل ہی معلوم ہوجائے گا کہ کون جھوٹا خود پسند ہے
 
 [Open on Quran.com](https://quran.com/54/26)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Fear Allah, and let every soul look to what (provision) He has sent forth for the morrow. Yea, fear Allah: for Allah is well-acquainted with (all) that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والوں! خدا سے ڈرتے رہو اور ہر شخص کو دیکھنا چاہیئے کہ اس نے کل (یعنی فردائے قیامت) کے لئے کیا (سامان) بھیجا ہے اور (ہم پھر کہتے ہیں کہ) خدا سے ڈرتے رہو بےشک خدا تمہارے سب اعمال سے خبردار ہے
+
 [Open on Quran.com](https://quran.com/59/18)
 
 #### 68:22 · [[068 Al-Qalam]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Go ye to your tilth (betimes) in the morning, if ye would gather the fruits."
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم کو کاٹنا ہے تو اپنی کھیتی پر سویرے ہی جا پہنچو
+
 [Open on Quran.com](https://quran.com/68/22)
 
 #### 68:25 · [[068 Al-Qalam]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they went early in determination, [assuming themselves] able.
 
 **English (Yusuf Ali):** And they opened the morning, strong in an (unjust) resolve.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کوشش کے ساتھ سویرے ہی جا پہنچے (گویا کھیتی پر) قادر ہیں
 
 [Open on Quran.com](https://quran.com/68/25)
 

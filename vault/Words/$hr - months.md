@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$hr - shahr]]
+- [[$hr - new moon]]
 
 ### Meaning
 **months** · Lemma **شَهْر**
@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:185 · [[002 Al-Baqarah]]
 
@@ -47,6 +47,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The month of Ramaḍān [is that] in which was revealed the Qur’ān, a guidance for the people and clear proofs of guidance and criterion. So whoever sights [the crescent of] the month, let him fast it; and whoever is ill or on a journey - then an equal number of other days. Allāh intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allāh for that [to] which He has guided you; and perhaps you will be grateful.
 
 **English (Yusuf Ali):** Ramadhan is the (month) in which was sent down the Qur'an, as a guide to mankind, also clear (Signs) for guidance and judgment (Between right and wrong). So every one of you who is present (at his home) during that month should spend it in fasting, but if any one is ill, or on a journey, the prescribed period (Should be made up) by days later. Allah intends every facility for you; He does not want to put to difficulties. (He wants you) to complete the prescribed period, and to glorify Him in that He has guided you; and perchance ye shall be grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** (روزوں کا مہینہ) رمضان کا مہینہ (ہے) جس میں قرآن (اول اول) نازل ہوا جو لوگوں کا رہنما ہے اور (جس میں) ہدایت کی کھلی نشانیاں ہیں اور (جو حق و باطل کو) الگ الگ کرنے والا ہے تو جو کوئی تم میں سے اس مہینے میں موجود ہو چاہیئے کہ پورے مہینے کے روزے رکھے اور جو بیمار ہو یا سفر میں ہو تو دوسرے دنوں میں (رکھ کر) ان کا شمار پورا کرلے۔ خدا تمہارے حق میں آسانی چاہتا ہے اور سختی نہیں چاہتا اور (یہ آسانی کا حکم) اس لئے (دیا گیا ہے) کہ تم روزوں کا شمار پورا کرلو اور اس احسان کے بدلے کہ خدا نے تم کو ہدایت بخشی ہے تم اس کو بزرگی سے یاد کر واور اس کا شکر کرو
 
 [Open on Quran.com](https://quran.com/2/185)
 
@@ -64,6 +66,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The prohibited month for the prohibited month,- and so for all things prohibited,- there is the law of equality. If then any one transgresses the prohibition against you, Transgress ye likewise against him. But fear Allah, and know that Allah is with those who restrain themselves.
 
+**Urdu (Fatah Muhammad Jalandhari):** ادب کا مہینہ ادب کے مہینے کے مقابل ہے اور ادب کی چیزیں ایک دوسرے کا بدلہ ہیں۔ پس اگر کوئی تم پر زیادتی کرے تو جیسی زیادتی وہ تم پر کرے ویسی ہی تم اس پر کرو۔ اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا ڈرنے والوں کے ساتھ ہے
+
 [Open on Quran.com](https://quran.com/2/194)
 
 #### 2:197 · [[002 Al-Baqarah]]
@@ -79,6 +83,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Ḥajj is [during] well-known months, so whoever has made ḥajj obligatory upon himself therein [by entering the state of iḥrām], there is [to be for him] no sexual relations and no disobedience and no disputing during ḥajj. And whatever good you do - Allāh knows it. And take provisions, but indeed, the best provision is fear of Allāh. And fear Me, O you of understanding.
 
 **English (Yusuf Ali):** For Hajj are the months well known. If any one undertakes that duty therein, Let there be no obscenity, nor wickedness, nor wrangling in the Hajj. And whatever good ye do, (be sure) Allah knoweth it. And take a provision (With you) for the journey, but the best of provisions is right conduct. So fear Me, o ye that are wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** حج کے مہینے (معین ہیں جو) معلوم ہیں تو شخص ان مہینوں میں حج کی نیت کرلے تو حج (کے دنوں) میں نہ عورتوں سے اختلاط کرے نہ کوئی برا کام کرے نہ کسی سے جھگڑے۔ اور جو نیک کام تم کرو گے وہ خدا کو معلوم ہوجائے گا اور زاد راہ (یعنی رستے کا خرچ) ساتھ لے جاؤ کیونکہ بہتر (فائدہ) زاد راہ (کا) پرہیزگاری ہے اور اے اہل عقل مجھ سے ڈرتے رہو
 
 [Open on Quran.com](https://quran.com/2/197)
 
@@ -96,6 +102,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
+
 [Open on Quran.com](https://quran.com/2/217)
 
 #### 2:226 · [[002 Al-Baqarah]]
@@ -111,6 +119,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For those who swear not to have sexual relations with their wives is a waiting time of four months, but if they return [to normal relations] - then indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** For those who take an oath for abstention from their wives, a waiting for four months is ordained; if then they return, Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنی عورتوں کے پاس جانے سے قسم کھالیں ان کو چار مہینے تک انتظار کرنا چاہیئے۔ اگر (اس عرصے میں قسم سے) رجوع کرلیں تو خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/2/226)
 
@@ -128,6 +138,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If any of you die and leave widows behind, they shall wait concerning themselves four months and ten days: When they have fulfilled their term, there is no blame on you if they dispose of themselves in a just and reasonable manner. And Allah is well acquainted with what ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم میں سے مرجائیں اور عورتیں چھوڑ جائیں تو عورتیں چار مہینے دس دن اپنے آپ کو روکے رہیں۔ اور جب (یہ) عدت پوری کرچکیں اور اپنے حق میں پسندیدہ کام (یعنی نکاح) کرلیں تو ان پر کچھ گناہ نہیں۔ اور خدا تمہارے سب کاموں سے واقف ہے
+
 [Open on Quran.com](https://quran.com/2/234)
 
 #### 4:92 · [[004 An-Nisa]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And never is it for a believer to kill a believer except by mistake. And whoever kills a believer by mistake - then the freeing of a believing slave and a compensation payment [diyah] presented to his [i.e., the deceased's] family [is required], unless they give [up their right as] charity. But if he [i.e., the deceased] was from a people at war with you and he was a believer - then [only] the freeing of a believing slave; and if he was from a people with whom you have a treaty - then a compensation payment presented to his family and the freeing of a believing slave. And whoever does not find [one or cannot afford to buy one] - then [instead], a fast for two months consecutively, [seeking] acceptance of repentance from Allāh. And Allāh is ever Knowing and Wise.
 
 **English (Yusuf Ali):** Never should a believer kill a believer; but (If it so happens) by mistake, (Compensation is due): If one (so) kills a believer, it is ordained that he should free a believing slave, and pay compensation to the deceased's family, unless they remit it freely. If the deceased belonged to a people at war with you, and he was a believer, the freeing of a believing slave (Is enough). If he belonged to a people with whom ye have treaty of Mutual alliance, compensation should be paid to his family, and a believing slave be freed. For those who find this beyond their means, (is prescribed) a fast for two months running: by way of repentance to Allah: for Allah hath all knowledge and all wisdom.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کسی مومن کو شایان نہیں کہ مومن کو مار ڈالے مگر بھول کر اور جو بھول کر بھی مومن کو مار ڈالے تو (ایک تو) ایک مسلمان غلام آزاد کردے اور (دوسرے) مقتول کے وارثوں کو خون بہا دے ہاں اگر وہ معاف کردیں (تو ان کو اختیار ہے) اگر مقتول تمہارے دشمنوں کی جماعت میں سے ہو اور وہ خود مومن ہو تو صرف ایک مسلمان غلام آزاد کرنا چاہیئے اور اگر مقتول ایسے لوگوں میں سے ہو جن میں اور تم میں صلح کا عہد ہو تو وارثان مقتول کو خون بہا دینا اور ایک مسلمان غلام آزاد کرنا چاہیئے اور جس کو یہ میسر نہ ہو وہ متواتر دو مہینے کے روزے رکھے یہ (کفارہ) خدا کی طرف سے (قبول) توبہ (کے لئے) ہے اور خدا (سب کچھ) جانتا اور بڑی حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/4/92)
 
@@ -160,6 +174,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Violate not the sanctity of the symbols of Allah, nor of the sacred month, nor of the animals brought for sacrifice, nor the garlands that mark out such animals, nor the people resorting to the sacred house, seeking of the bounty and good pleasure of their Lord. But when ye are clear of the sacred precincts and of pilgrim garb, ye may hunt and let not the hatred of some people in (once) shutting you out of the Sacred Mosque lead you to transgression (and hostility on your part). Help ye one another in righteousness and piety, but help ye not one another in sin and rancour: fear Allah: for Allah is strict in punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کے نام کی چیزوں کی بےحرمتی نہ کرنا اور نہ ادب کے مہینے کی اور نہ قربانی کے جانوروں کی اور نہ ان جانوروں کی (جو خدا کی نذر کر دیئے گئے ہوں اور) جن کے گلوں میں پٹے بندھے ہوں اور نہ ان لوگوں کی جو عزت کے گھر (یعنی بیت الله) کو جا رہے ہوں (اور) اپنے پروردگار کے فضل اور اس کی خوشنودی کے طلبگار ہوں اور جب احرام اتار دو تو (پھر اختیار ہے کہ) شکار کرو اور لوگوں کی دشمنی اس وجہ سے کہ انہوں نے تم کو عزت والی مسجد سے روکا تھا تمہیں اس بات پر آمادہ نہ کرے کہ تم ان پر زیادتی کرنے لگو اور (دیکھو) نیکی اور پرہیزگاری کے کاموں میں ایک دوسرے کی مدد کیا کرو اور گناہ اور ظلم کی باتوں میں مدد نہ کیا کرو اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا کا عذاب سخت ہے
+
 [Open on Quran.com](https://quran.com/5/2)
 
 #### 5:97 · [[005 Al-Maidah]]
@@ -176,6 +192,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah made the Ka'ba, the Sacred House, an asylum of security for men, as also the Sacred Months, the animals for offerings, and the garlands that mark them: That ye may know that Allah hath knowledge of what is in the heavens and on earth and that Allah is well acquainted with all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے عزت کے گھر (یعنی) کعبے کو لوگوں کے لیے موجب امن مقرر فرمایا ہے اور عزت کے مہینوں کو اور قربانی کو اور ان جانوروں کو جن کے گلے میں پٹے بندھے ہوں یہ اس لیے کہ تم جان لو کہ جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے خدا سب کو جانتا ہے اور یہ کہ خدا کو ہر چیز کا علم ہے
+
 [Open on Quran.com](https://quran.com/5/97)
 
 #### 9:2 · [[009 At-Tawbah]]
@@ -191,6 +209,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So travel freely, [O disbelievers], throughout the land [during] four months but know that you cannot cause failure to Allāh and that Allāh will disgrace the disbelievers.
 
 **English (Yusuf Ali):** Go ye, then, for four months, backwards and forwards, (as ye will), throughout the land, but know ye that ye cannot frustrate Allah (by your falsehood) but that Allah will cover with shame those who reject Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو (مشرکو تم) زمین میں چار مہینے چل پھر لو اور جان رکھو کہ تم خدا کو عاجز نہ کرسکو گے۔ اور یہ بھی کہ خدا کافروں کو رسوا کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/9/2)
 

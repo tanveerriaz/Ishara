@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xyr - khyr]]
+- [[xyr - better]]
 
 ### Meaning
 **chose** · Lemma **اخْتارَ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:155 · [[007 Al-Araf]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Moses chose from his people seventy men for Our appointment. And when the earthquake seized them, he said, "My Lord, if You had willed, You could have destroyed them before and me [as well]. Would You destroy us for what the foolish among us have done? This is not but Your trial by which You send astray whom You will and guide whom You will. You are our Protector, so forgive us and have mercy upon us; and You are the best of forgivers.
 
 **English (Yusuf Ali):** And Moses chose seventy of his people for Our place of meeting: when they were seized with violent quaking, he prayed: "O my Lord! if it had been Thy will Thou couldst have destroyed, long before, both them and me: wouldst Thou destroy us for the deeds of the foolish ones among us? this is no more than Thy trial: by it Thou causest whom Thou wilt to stray, and Thou leadest whom Thou wilt into the right path. Thou art our Protector: so forgive us and give us Thy mercy; for Thou art the best of those who forgive.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ نے اس میعاد پر جو ہم نے مقرر کی تھی اپنی قوم کے ستر آدمی منتخب (کرکے کوہ طور پر حاضر) ٹل کیے۔ جب ان کو زلزلے نے پکڑا تو موسیٰ نے کہا کہ اے پروردگار تو چاہتا تو ان کو اور مجھ کو پہلے ہی سے ہلاک کر دیتا۔ کیا تو اس فعل کی سزا میں جو ہم میں سے بےعقل لوگوں نے کیا ہے ہمیں ہلاک کردے گا۔ یہ تو تیری آزمائش ہے۔ اس سے تو جس کو چاہے گمراہ کرے اور جس کو چاہے ہدایت بخشے۔ تو ہی ہمارا کارساز ہے تو ہمیں (ہمارے گناہ) بخش دے اور ہم پر رحم فرما اور تو سب سے بہتر بخشنے والا ہے
 
 [Open on Quran.com](https://quran.com/7/155)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "I have chosen thee: listen, then, to the inspiration (sent to thee).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور میں نے تم کو انتخاب کرلیا ہے تو جو حکم دیا جائے اسے سنو
+
 [Open on Quran.com](https://quran.com/20/13)
 
 #### 28:68 · [[028 Al-Qasas]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thy Lord does create and choose as He pleases: no choice have they (in the matter): Glory to Allah! and far is He above the partners they ascribe (to Him)!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا پروردگار جو چاہتا ہے پیدا کرتا ہے اور (جسے چاہتا ہے) برگزیدہ کرلیتا ہے۔ ان کو اس کا اختیار نہیں ہے۔ یہ جو شرک کرتے ہیں خدا اس سے پاک وبالاتر ہے
+
 [Open on Quran.com](https://quran.com/28/68)
 
 #### 44:32 · [[044 Ad-Dukhan]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We certainly chose them by knowledge over [all] the worlds.
 
 **English (Yusuf Ali):** And We chose them aforetime above the nations, knowingly,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بنی اسرائیل کو اہل عالم سے دانستہ منتخب کیا تھا
 
 [Open on Quran.com](https://quran.com/44/32)
 

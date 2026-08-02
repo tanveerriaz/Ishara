@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 51:3 · [[051 Adh-Dhariyat]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the ships sailing with ease
 
 **English (Yusuf Ali):** And those that flow with ease and gentleness;
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر آہستہ آہستہ چلتی ہیں
 
 [Open on Quran.com](https://quran.com/51/3)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We, when the water (of Noah's Flood) overflowed beyond its limits, carried you (mankind), in the floating (Ark),
 
+**Urdu (Fatah Muhammad Jalandhari):** جب پانی طغیانی پر آیا تو ہم نے تم (لوگوں )کو کشتی میں سوار کرلیا
+
 [Open on Quran.com](https://quran.com/69/11)
 
 #### 88:12 · [[088 Al-Ghashiyah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Within it is a flowing spring.
 
 **English (Yusuf Ali):** Therein will be a bubbling spring:
+
+**Urdu (Fatah Muhammad Jalandhari):** اس میں چشمے بہ رہے ہوں گے
 
 [Open on Quran.com](https://quran.com/88/12)
 

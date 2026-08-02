@@ -42,7 +42,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:105 · [[002 Al-Baqarah]]
 
@@ -57,6 +57,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Neither those who disbelieve from the People of the Scripture [i.e., the Jews and Christians] nor the polytheists wish that any good should be sent down to you from your Lord. But Allāh selects for His mercy whom He wills, and Allāh is the possessor of great bounty.
 
 **English (Yusuf Ali):** It is never the wish of those without Faith among the People of the Book, nor of the Pagans, that anything good should come down to you from your Lord. But Allah will choose for His special Mercy whom He will - for Allah is Lord of grace abounding.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں، اہل کتاب یا مشرک وہ اس بات کو پسند نہیں کرتے کہ تم پر تمہارے پروردگار کی طرف سے خیر (وبرکت) نازل ہو۔ اور خدا تو جس کو چاہتا ہے، اپنی رحمت کے ساتھ خاص کر لیتا ہے اور خدا بڑے فضل کا مالک ہے
 
 [Open on Quran.com](https://quran.com/2/105)
 
@@ -74,6 +76,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They say: "Become Jews or Christians if ye would be guided (To salvation)." Say thou: "Nay! (I would rather) the Religion of Abraham the True, and he joined not gods with Allah."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (یہودی اور عیسائی) کہتے ہیں کہ یہودی یا عیسائی ہو جاؤ تو سیدھے رستے پر لگ جاؤ۔ (اے پیغمبر ان سے) کہہ دو، (نہیں) بلکہ (ہم) دین ابراہیم (اختیار کئے ہوئے ہیں) جو ایک خدا کے ہو رہے تھے اور مشرکوں میں سے نہ تھے
+
 [Open on Quran.com](https://quran.com/2/135)
 
 #### 2:221 · [[002 Al-Baqarah]]
@@ -89,6 +93,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not marry polytheistic women until they believe. And a believing slave woman is better than a polytheist, even though she might please you. And do not marry polytheistic men [to your women] until they believe. And a believing slave is better than a polytheist, even though he might please you. Those invite [you] to the Fire, but Allāh invites to Paradise and to forgiveness, by His permission. And He makes clear His verses [i.e., ordinances] to the people that perhaps they may remember.
 
 **English (Yusuf Ali):** Do not marry unbelieving women (idolaters), until they believe: A slave woman who believes is better than an unbelieving woman, even though she allures you. Nor marry (your girls) to unbelievers until they believe: A man slave who believes is better than an unbeliever, even though he allures you. Unbelievers do (but) beckon you to the Fire. But Allah beckons by His Grace to the Garden (of bliss) and forgiveness, and makes His Signs clear to mankind: That they may celebrate His praise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (مومنو) مشرک عورتوں سے جب تک کہ ایمان نہ لائیں نکاح نہ کرنا۔ کیونکہ مشرک عورت خواہ تم کو کیسی ہی بھلی لگے اس سے مومن لونڈی بہتر ہے۔ اور (اسی طرح) مشرک مرد جب تک ایمان نہ لائیں مومن عورتوں کو ان کو زوجیت میں نہ دینا کیونکہ مشرک (مرد) سے خواہ وہ تم کو کیسا ہی بھلا لگے مومن غلام بہتر ہے۔ یہ (مشرک لوگوں کو) دوزخ کی طرف بلاتے ہیں۔ اور خدا اپنی مہربانی سے بہشت اور بخشش کی طرف بلاتا ہے۔ اور اپنے حکم لوگوں سے کھول کھول کر بیان کرتا ہے تاکہ نصیحت حاصل کریں
 
 [Open on Quran.com](https://quran.com/2/221)
 
@@ -106,6 +112,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Abraham was not a Jew nor yet a Christian; but he was true in Faith, and bowed his will to Allah's (Which is Islam), and he joined not gods with Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** ابراہیم نہ تو یہودی تھے اور نہ عیسائی بلکہ سب سے بے تعلق ہو کر ایک (خدا) کے ہو رہے تھے اور اسی کے فرماں بردار تھے اور مشرکوں میں نہ تھے
+
 [Open on Quran.com](https://quran.com/3/67)
 
 #### 3:95 · [[003 Ali Imran]]
@@ -121,6 +129,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "Allāh has told the truth. So follow the religion of Abraham, inclining toward truth; and he was not of the polytheists."
 
 **English (Yusuf Ali):** Say: "Allah speaketh the Truth: follow the religion of Abraham, the sane in faith; he was not of the Pagans."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ خدا نے سچ فرمایا دیا پس دین ابراہیم کی پیروی کرو جو سب سے بےتعلق ہو کر ایک (خدا) کے ہو رہے تھے اور مشرکوں سے نہ تھے
 
 [Open on Quran.com](https://quran.com/3/95)
 
@@ -138,6 +148,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Shall I take for my protector any other than Allah, the Maker of the heavens and the earth? And He it is that feedeth but is not fed." Say: "Nay! but I am commanded to be the first of those who bow to Allah (in Islam), and be not thou of the company of those who join gods with Allah."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہو کیا میں خدا کو چھوڑ کر کسی اور کو مددگار بناؤں کہ (وہی تو) آسمانوں اور زمین کا پیدا کرنے والا ہے اور وہی (سب کو) کھانا دیتا ہے اور خود کسی سے کھانا نہیں لیتا (یہ بھی) کہہ دو کہ مجھے یہ حکم ہوا ہے کہ میں سب سے پہلے اسلام لانے والا ہوں اور یہ کہ تم (اے پیغمبر!) مشرکوں میں نہ ہونا
+
 [Open on Quran.com](https://quran.com/6/14)
 
 #### 6:23 · [[006 Al-Anam]]
@@ -153,6 +165,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then there will be no [excuse upon] examination except they will say, "By Allāh, our Lord, we were not those who associated."
 
 **English (Yusuf Ali):** There will then be (left) no subterfuge for them but to say: "By Allah our Lord, we were not those who joined gods with Allah."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان سے کچھ عذر نہ بن پڑے گا (اور) بجز اس کے (کچھ چارہ نہ ہوگا) کہ کہیں خدا کی قسم جو ہمارا پروردگار ہے ہم شریک نہیں بناتے تھے
 
 [Open on Quran.com](https://quran.com/6/23)
 
@@ -170,6 +184,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "For me, I have set my face, firmly and truly, towards Him Who created the heavens and the earth, and never shall I give partners to Allah."
 
+**Urdu (Fatah Muhammad Jalandhari):** میں نے سب سے یکسو ہو کر اپنے تئیں اسی ذات کی طرف متوجہ کیا جس نے آسمانوں اور زمین کو پیدا کیا ہے اور میں مشرکوں میں سے نہیں ہوں
+
 [Open on Quran.com](https://quran.com/6/79)
 
 #### 6:106 · [[006 Al-Anam]]
@@ -186,6 +202,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Follow what thou art taught by inspiration from thy Lord: there is no god but He: and turn aside from those who join gods with Allah.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو حکم تمہارے پروردگار کی طرف سے تمہارے پاس آتا ہے اسی کی پیروی کرو۔ اس (پروردگار) کے سوا کوئی معبود نہیں۔ اور مشرکوں سے کنارہ کرلو
+
 [Open on Quran.com](https://quran.com/6/106)
 
 #### 6:121 · [[006 Al-Anam]]
@@ -201,6 +219,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not eat of that upon which the name of Allāh has not been mentioned, for indeed, it is grave disobedience. And indeed do the devils inspire their allies [among men] to dispute with you. And if you were to obey them, indeed, you would be associators [of others with Him].
 
 **English (Yusuf Ali):** Eat not of (meats) on which Allah's name hath not been pronounced: That would be impiety. But the evil ones ever inspire their friends to contend with you if ye were to obey them, ye would indeed be Pagans.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس چیز پر خدا کا نام نہ لیا جائے اسے مت کھاؤ کہ اس کا کھانا گناہ ہے اور شیطان (لوگ) اپنے رفیقوں کے دلوں میں یہ بات ڈالتے ہیں کہ تم سے جھگڑا کریں اور اگر تم لوگ ان کے کہے پر چلے تو بےشک تم بھی مشرک ہوئے
 
 [Open on Quran.com](https://quran.com/6/121)
 

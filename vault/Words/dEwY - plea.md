@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:5 · [[007 Al-Araf]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And their declaration when Our punishment came to them was only that they said, "Indeed, we were wrongdoers!"
 
 **English (Yusuf Ali):** When (thus) Our punishment took them, no cry did they utter but this: "Indeed we did wrong."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جس وقت ان پر عذاب آتا تھا ان کے منہ سے یہی نکلتا تھا کہ (ہائے) ہم (ہائے) ہم (اپنے اوپر) ظلم کرتے رہے
 
 [Open on Quran.com](https://quran.com/7/5)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (This will be) their cry therein: "Glory to Thee, O Allah!" And "Peace" will be their greeting therein! and the close of their cry will be: "Praise be to Allah, the Cherisher and Sustainer of the worlds!"
 
+**Urdu (Fatah Muhammad Jalandhari):** (جب وہ) ان میں (ان نعمتوں کو دیکھوں گے تو بےساختہ) کہیں گے سبحان الله۔ اور آپس میں ان کی دعا سلامٌ علیکم ہوگی اور ان کا آخری قول یہ (ہوگا) کہ خدائے رب العالمین کی حمد (اور اس کا شکر) ہے
+
 [Open on Quran.com](https://quran.com/10/10)
 
 #### 21:15 · [[021 Al-Anbya]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And that declaration of theirs did not cease until We made them [as] a harvest [mowed down], extinguished [like a fire].
 
 **English (Yusuf Ali):** And that cry of theirs ceased not, till We made them as a field that is mown, as ashes silent and quenched.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو وہ ہمیشہ اسی طرح پکارتے رہے یہاں تک کہ ہم نے ان کو (کھیتی کی طرح) کاٹ کر (اور آگ کی طرح) بجھا کر ڈھیر کردیا
 
 [Open on Quran.com](https://quran.com/21/15)
 

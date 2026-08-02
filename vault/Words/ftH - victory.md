@@ -44,7 +44,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:76 · [[002 Al-Baqarah]]
 
@@ -59,6 +59,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they meet those who believe, they say, "We have believed"; but when they are alone with one another, they say, "Do you talk to them about what Allāh has revealed to you so they can argue with you about it before your Lord?" Then will you not reason?
 
 **English (Yusuf Ali):** Behold! when they meet the men of Faith, they say: "We believe": But when they meet each other in private, they say: "Shall you tell them what Allah hath revealed to you, that they may engage you in argument about it before your Lord?"- Do ye not understand (their aim)?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ جب مومنوں سے ملتے ہیں تو کہتے ہیں، ہم ایمان لے آئے ہیں۔ اور جب آپس میں ایک دوسرے سے ملتے ہیں تو کہتے ہیں، جو بات خدا نے تم پر ظاہر فرمائی ہے، وہ تم ان کو اس لیے بتائے دیتے ہو کہ (قیامت کے دن) اسی کے حوالے سے تمہارے پروردگار کے سامنے تم کو الزام دیں۔ کیا تم سمجھتے نہیں؟
 
 [Open on Quran.com](https://quran.com/2/76)
 
@@ -76,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (These are) the ones who wait and watch about you: if ye do gain a victory from Allah, they say: "Were we not with you?"- but if the unbelievers gain a success, they say (to them): "Did we not gain an advantage over you, and did we not guard you from the believers?" but Allah will judge betwixt you on the Day of Judgment. And never will Allah grant to the unbelievers a way (to triumphs) over the believers.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو تم کو دیکھتے رہتے ہیں اگر خدا کی طرف سے تم کو فتح ملے تو کہتے ہیں کیا ہم تمہارے ساتھ نہ تھے۔ اور اگر کافروں کو (فتح) نصیب ہو تو (ان سے) کہتے ہیں کیا ہم تم پر غالب نہیں تھے اور تم کو مسلمانوں (کے ہاتھ) سے بچایا نہیں۔ تو خدا تم میں قیامت کے دن فیصلہ کردے گا۔ اور خدا کافروں کو مومنوں پر ہرگز غلبہ نہیں دے گا
+
 [Open on Quran.com](https://quran.com/4/141)
 
 #### 5:52 · [[005 Al-Maidah]]
@@ -91,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So you see those in whose hearts is disease [i.e., hypocrisy] hastening into [association with] them, saying, "We are afraid a misfortune may strike us." But perhaps Allāh will bring conquest or a decision from Him, and they will become, over what they have been concealing within themselves, regretful.
 
 **English (Yusuf Ali):** Those in whose hearts is a disease - thou seest how eagerly they run about amongst them, saying: "We do fear lest a change of fortune bring us disaster." Ah! perhaps Allah will give (thee) victory, or a decision according to His will. Then will they repent of the thoughts which they secretly harboured in their hearts.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جن لوگوں کے دلوں میں (نفاق کا) مرض ہے تم ان کو دیکھو گے کہ ان میں دوڑ دوڑ کے ملے جاتے ہیں کہتے ہیں کہ ہمیں خوف ہے کہ کہیں ہم پر زمانے کی گردش نہ آجائے سو قریب ہے کہ خدا فتح بھیجے یا اپنے ہاں سے کوئی اور امر (نازل فرمائے) پھر یہ اپنے دل کی باتوں پر جو چھپایا کرتے تھے پشیمان ہو کر رہ جائیں گے
 
 [Open on Quran.com](https://quran.com/5/52)
 
@@ -108,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But when they forgot the warning they had received, We opened to them the gates of all (good) things, until, in the midst of their enjoyment of Our gifts, on a sudden, We called them to account, when lo! they were plunged in despair!
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب انہوں نے اس نصیحت کو جو ان کو گی گئی تھی فراموش کردیا تو ہم نے ان پر ہر چیز کے دروازے کھول دیئے۔ یہاں تک کہ جب ان چیزوں سے جو ان کو دی گئی تھیں خوب خوش ہوگئے تو ہم نے ان کو ناگہاں پکڑ لیا اور وہ اس وقت مایوس ہو کر رہ گئے
+
 [Open on Quran.com](https://quran.com/6/44)
 
 #### 7:89 · [[007 Al-Araf]]
@@ -123,6 +131,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** We would have invented against Allāh a lie if we returned to your religion after Allāh had saved us from it. And it is not for us to return to it except that Allāh, our Lord, should will. Our Lord has encompassed all things in knowledge. Upon Allāh we have relied. Our Lord, decide between us and our people in truth, and You are the best of those who give decision."
 
 **English (Yusuf Ali):** "We should indeed invent a lie against Allah, if we returned to your ways after Allah hath rescued us therefrom; nor could we by any manner of means return thereto unless it be as in the will and plan of Allah, Our Lord. Our Lord can reach out to the utmost recesses of things by His knowledge. In the Allah is our trust. our Lord! decide Thou between us and our people in truth, for Thou art the best to decide."
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر ہم اس کے بعد کہ خدا ہمیں اس سے نجات بخش چکا ہے تمہارے مذہب میں لوٹ جائیں تو بےشک ہم نے خدا پر جھوٹ افتراء باندھا۔ اور ہمیں شایاں نہیں کہ ہم اس میں لوٹ جائیں ہاں خدا جو ہمارا پروردگار ہے وہ چاہے تو (ہم مجبور ہیں)۔ ہمارے پروردگار کا علم ہر چیز پر احاطہ کیے ہوئے ہے۔ ہمارا خدا ہی پر بھروسہ ہے۔ اے پروردگار ہم میں اور ہماری قوم میں انصاف کے ساتھ فیصلہ کردے اور تو سب سے بہتر فیصلہ کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/7/89)
 
@@ -140,6 +150,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If the people of the towns had but believed and feared Allah, We should indeed have opened out to them (All kinds of) blessings from heaven and earth; but they rejected (the truth), and We brought them to book for their misdeeds.
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر ان بستیوں کے لوگ ایمان لے آتے اور پرہیزگار ہوجاتے۔ تو ہم ان پر آسمان اور زمین کی برکات (کے دروازے) کھول دیتے مگر انہوں نے تو تکذیب کی۔ سو ان کے اعمال کی سزا میں ہم نے ان کو پکڑ لیا
+
 [Open on Quran.com](https://quran.com/7/96)
 
 #### 8:19 · [[008 Al-Anfal]]
@@ -155,6 +167,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If you [disbelievers] seek the decision [i.e., victory] - the decision [i.e., defeat] has come to you. And if you desist [from hostilities], it is best for you; but if you return [to war], We will return, and never will you be availed by your [large] company at all, even if it should increase; and [that is] because Allāh is with the believers.
 
 **English (Yusuf Ali):** (O Unbelievers!) if ye prayed for victory and judgment, now hath the judgment come to you: if ye desist (from wrong), it will be best for you: if ye return (to the attack), so shall We. Not the least good will your forces be to you even if they were multiplied: for verily Allah is with those who believe!
+
+**Urdu (Fatah Muhammad Jalandhari):** (کافرو) اگر تم (محمد صلی الله علیہ وآلہ وسلم پر) فتح چاہتے ہو تو تمہارے پاس فتح آچکی۔ (دیکھو) اگر تم (اپنے افعال سے) باز آجاؤ تو تمہارے حق میں بہتر ہے۔ اور اگر پھر (نافرمانی) کرو گے تو ہم بھی پھر تمہیں عذاب کریں گے اور تمہاری جماعت خواہ کتنی ہی کثیر ہو تمہارے کچھ بھی کام نہ آئے گی۔ اور خدا تو مومنوں کے ساتھ ہے
 
 [Open on Quran.com](https://quran.com/8/19)
 
@@ -172,6 +186,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then when they opened their baggage, they found their stock-in-trade had been returned to them. They said: "O our father! What (more) can we desire? this our stock-in-trade has been returned to us: so we shall get (more) food for our family; We shall take care of our brother; and add (at the same time) a full camel's load (of grain to our provisions). This is but a small quantity.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب انہوں نے اپنا اسباب کھولا تو دیکھا کہ ان کا سرمایہ واپس کر دیا گیا ہے۔ کہنے لگے ابّا ہمیں (اور) کیا چاہیئے (دیکھیے) یہ ہماری پونجی بھی ہمیں واپس کر دی گئی ہے۔ اب ہم اپنے اہل وعیال کے لیے پھر غلّہ لائیں گے اور اپنے بھائی کی نگہبانی کریں گے اور ایک بار شتر زیادہ لائیں گے (کہ) یہ غلّہ جو ہم لائے ہیں تھوڑا ہے
+
 [Open on Quran.com](https://quran.com/12/65)
 
 #### 15:14 · [[015 Al-Hijr]]
@@ -188,6 +204,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Even if We opened out to them a gate from heaven, and they were to continue (all day) ascending therein,
 
+**Urdu (Fatah Muhammad Jalandhari):** اوراگر ہم آسمان کا کوئی دروازہ اُن پر کھول دیں اور وہ اس میں چڑھنے بھی لگیں
+
 [Open on Quran.com](https://quran.com/15/14)
 
 #### 21:96 · [[021 Al-Anbya]]
@@ -203,6 +221,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Until when [the dam of] Gog and Magog has been opened and they, from every elevation, descend
 
 **English (Yusuf Ali):** Until the Gog and Magog (people) are let through (their barrier), and they swiftly swarm from every hill.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ یاجوج ماجوج کھول دیئے جائیں اور وہ ہر بلندی سے دوڑ رہے ہوں
 
 [Open on Quran.com](https://quran.com/21/96)
 

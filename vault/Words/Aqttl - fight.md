@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:253 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those messengers - some of them We caused to exceed others. Among them were those to whom Allāh spoke, and He raised some of them in degree. And We gave Jesus, the son of Mary, clear proofs, and We supported him with the Pure Spirit [i.e., Gabriel]. If Allāh had willed, those [generations] succeeding them would not have fought each other after the clear proofs had come to them. But they differed, and some of them believed and some of them disbelieved. And if Allāh had willed, they would not have fought each other, but Allāh does what He intends.
 
 **English (Yusuf Ali):** Those messengers We endowed with gifts, some above others: To one of them Allah spoke; others He raised to degrees (of honour); to Jesus the son of Mary We gave clear (Signs), and strengthened him with the holy spirit. If Allah had so willed, succeeding generations would not have fought among each other, after clear (Signs) had come to them, but they (chose) to wrangle, some believing and others rejecting. If Allah had so willed, they would not have fought each other; but Allah Fulfilleth His plan.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ پیغمبر (جو ہم وقتاً فوقتاً بھیجتے رہیں ہیں) ان میں سے ہم نے بعض کو بعض پر فضیلت دی ہے۔ بعض ایسے ہیں جن سے خدا نے گفتگو فرمائی اور بعض کے (دوسرے امور میں) مرتبے بلند کئے۔ اور عیسیٰ بن مریم کو ہم نے کھلی ہوئی نشانیاں عطا کیں اور روح القدس سے ان کو مدد دی۔ اور اگر خداچاہتا تو ان سے پچھلے لوگ اپنے پاس کھلی نشانیاں آنے کے بعد آپس میں نہ لڑتے لیکن انہوں نے اختلاف کیا تو ان میں سے بعض تو ایمان لے آئے اور بعض کافر ہی رہے۔ اور اگر خدا چاہتا تو یہ لوگ باہم جنگ و قتال نہ کرتے۔ لیکن خدا جو چاہتا ہے کرتا ہے
 
 [Open on Quran.com](https://quran.com/2/253)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And he entered the city at a time when its people were not watching: and he found there two men fighting,- one of his own religion, and the other, of his foes. Now the man of his own religion appealed to him against his foe, and Moses struck him with his fist and made an end of him. He said: "This is a work of Evil (Satan): for he is an enemy that manifestly misleads!"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ ایسے وقت شہر میں داخل ہوئے کہ وہاں کے باشندے بےخبر ہو رہے تھے تو دیکھا کہ وہاں دو شخص لڑ رہے تھے ایک تو موسٰی کی قوم کا ہے اور دوسرا اُن کے دشمنوں میں سے تو جو شخص اُن کی قوم میں سے تھا اس نے دوسرے شخص کے مقابلے میں جو موسٰی کے دشمنوں میں سے تھا مدد طلب کی تو اُنہوں نے اس کو مکا مارا اور اس کا کام تمام کر دیا کہنے لگے کہ یہ کام تو (اغوائے) شیطان سے ہوا بیشک وہ (انسان کا) دشمن اور صریح بہکانے والا ہے
+
 [Open on Quran.com](https://quran.com/28/15)
 
 #### 49:9 · [[049 Al-Hujurat]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if two factions among the believers should fight, then make settlement between the two. But if one of them oppresses the other, then fight against the one that oppresses until it returns to the ordinance of Allāh. And if it returns, then make settlement between them in justice and act justly. Indeed, Allāh loves those who act justly.
 
 **English (Yusuf Ali):** If two parties among the Believers fall into a quarrel, make ye peace between them: but if one of them transgresses beyond bounds against the other, then fight ye (all) against the one that transgresses until it complies with the command of Allah; but if it complies, then make peace between them with justice, and be fair: for Allah loves those who are fair (and just).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر مومنوں میں سے کوئی دو فریق آپس میں لڑ پڑیں تو ان میں صلح کرا دو۔ اور اگر ایک فریق دوسرے پر زیادتی کرے تو زیادتی کرنے والے سے لڑو یہاں تک کہ وہ خدا کے حکم کی طرف رجوع لائے۔ پس جب وہ رجوع لائے تو وہ دونوں فریق میں مساوات کے ساتھ صلح کرا دو اور انصاف سے کام لو۔ کہ خدا انصاف کرنے والوں کو پسند کرتا ہے
 
 [Open on Quran.com](https://quran.com/49/9)
 

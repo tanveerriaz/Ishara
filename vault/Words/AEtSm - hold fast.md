@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:101 · [[003 Ali Imran]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And how could you disbelieve while to you are being recited the verses of Allāh and among you is His Messenger? And whoever holds firmly to Allāh has [indeed] been guided to a straight path.
 
 **English (Yusuf Ali):** And how would ye deny Faith while unto you are rehearsed the Signs of Allah, and among you Lives the Messenger? Whoever holds firmly to Allah will be shown a way that is straight.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کیونکر کفر کرو گے جبکہ تم کو خدا کی آیتیں پڑھ پڑھ کر سنائی جاتی ہیں اور تم میں اس کے پیغمبر موجود ہیں اور جس نے خدا (کی ہدایت کی رسی) کو مضبوط پکڑ لیا وہ سیدھے رستے لگ گیا
 
 [Open on Quran.com](https://quran.com/3/101)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And hold fast, all together, by the rope which Allah (stretches out for you), and be not divided among yourselves; and remember with gratitude Allah's favour on you; for ye were enemies and He joined your hearts in love, so that by His Grace, ye became brethren; and ye were on the brink of the pit of Fire, and He saved you from it. Thus doth Allah make His Signs clear to you: That ye may be guided.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور سب مل کر خدا کی (ہدایت کی رسی) کو مضبوط پکڑے رہنا اور متفرق نہ ہونا اور خدا کی اس مہربانی کو یاد کرو جب تم ایک دوسرے کے دشمن تھے تو اس نے تمہارے دلوں میں الفت ڈال دی اور تم اس کی مہربانی سے بھائی بھائی ہوگئے اور تم آگ کے گڑھے کے کنارے تک پہنچ چکے تھے تو خدا نے تم کو اس سے بچا لیا اس طرح خدا تم کو اپنی آیتیں کھول کھول کر سناتا ہے تاکہ تم ہدایت پاؤ
+
 [Open on Quran.com](https://quran.com/3/103)
 
 #### 4:146 · [[004 An-Nisa]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except for those who repent, correct themselves, hold fast to Allāh, and are sincere in their religion for Allāh, for those will be with the believers. And Allāh is going to give the believers a great reward.
 
 **English (Yusuf Ali):** Except for those who repent, mend (their lives) hold fast to Allah, and purify their religion as in Allah's sight: if so they will be (numbered) with the believers. And soon will Allah grant to the believers a reward of immense value.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جنہوں نے توبہ کی اور اپنی حالت کو درست کیا اور خدا (کی رسی) کو مضبوط پکڑا اور خاص خدا کے فرمانبردار ہوگئے تو ایسے لوگ مومنوں کے زمرے میں ہوں گے اور خدا عنقریب مومنوں کو بڑا ثواب دے گا
 
 [Open on Quran.com](https://quran.com/4/146)
 
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then those who believe in Allah, and hold fast to Him,- soon will He admit them to mercy and grace from Himself, and guide them to Himself by a straight way.
 
+**Urdu (Fatah Muhammad Jalandhari):** پس جو لوگ خدا پر ایمان لائے اور اس (کے دین کی رسی) کو مضبوط پکڑے رہے ان کو وہ اپنی رحمت اور فضل (کے بہشتوں) میں داخل کرے گا۔ اور اپنی طرف (پہچنے کا) سیدھا رستہ دکھائے گا
+
 [Open on Quran.com](https://quran.com/4/175)
 
 #### 22:78 · [[022 Al-Hajj]]
@@ -105,6 +113,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And strive for Allāh with the striving due to Him. He has chosen you and has not placed upon you in the religion any difficulty. [It is] the religion of your father, Abraham. He [i.e., Allāh] named you "Muslims" before [in former scriptures] and in this [revelation] that the Messenger may be a witness over you and you may be witnesses over the people. So establish prayer and give zakāh and hold fast to Allāh. He is your protector; and excellent is the protector, and excellent is the helper.
 
 **English (Yusuf Ali):** And strive in His cause as ye ought to strive, (with sincerity and under discipline). He has chosen you, and has imposed no difficulties on you in religion; it is the cult of your father Abraham. It is He Who has named you Muslims, both before and in this (Revelation); that the Messenger may be a witness for you, and ye be witnesses for mankind! So establish regular Prayer, give regular Charity, and hold fast to Allah! He is your Protector - the Best to protect and the Best to help!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی راہ) میں جہاد کرو جیسا جہاد کرنے کا حق ہے۔ اس نے تم کو برگزیدہ کیا ہے اور تم پر دین کی (کسی بات) میں تنگی نہیں کی۔ (اور تمہارے لئے) تمہارے باپ ابراہیم کا دین (پسند کیا) اُسی نے پہلے (یعنی پہلی کتابوں میں) تمہارا نام مسلمان رکھا تھا اور اس کتاب میں بھی (وہی نام رکھا ہے تو جہاد کرو) تاکہ پیغمبر تمہارے بارے میں شاہد ہوں۔ اور تم لوگوں کے مقابلے میں شاہد اور نماز پڑھو اور زکوٰة دو اور خدا کے دین کی (رسی کو) پکڑے رہو۔ وہی تمہارا دوست ہے۔ اور خوب دوست اور خوب مددگار ہے
 
 [Open on Quran.com](https://quran.com/22/78)
 

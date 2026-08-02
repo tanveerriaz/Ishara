@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xyb - khyb]]
+- [[xyb - disappointed]]
 
 ### Meaning
 **disappointed** · Lemma **خابَ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 14:15 · [[014 Ibrahim]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they requested decision [i.e., victory from Allāh], and disappointed, [therefore], was every obstinate tyrant.
 
 **English (Yusuf Ali):** But they sought victory and decision (there and then), and frustration was the lot of every powerful obstinate transgressor.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبروں نے (خدا سے اپنی) فتح چاہی تو ہر سرکش ضدی نامراد رہ گیا
 
 [Open on Quran.com](https://quran.com/14/15)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Moses said to him: Woe to you! Forge not ye a lie against Allah, lest He destroy you (at once) utterly by chastisement: the forger must suffer frustration!"
 
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے ان (جادوگروں) سے کہا کہ ہائے تمہاری کمبختی۔ خدا پر جھوٹ افتراء نہ کرو کہ وہ تمہیں عذاب سے فنا کردے گا اور جس نے افتراء کیا وہ نامراد رہا
+
 [Open on Quran.com](https://quran.com/20/61)
 
 #### 20:111 · [[020 Taha]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (All) faces shall be humbled before (Him) - the Living, the Self-Subsisting, Eternal: hopeless indeed will be the man that carries iniquity (on his back).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس زندہ و قائم کے رو برو منہ نیچے ہوجائیں گے۔ اور جس نے ظلم کا بوجھ اٹھایا وہ نامراد رہا
+
 [Open on Quran.com](https://quran.com/20/111)
 
 #### 91:10 · [[091 Ash-Shams]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And he has failed who instills it [with corruption].
 
 **English (Yusuf Ali):** And he fails that corrupts it!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس نے اسے خاک میں ملایا وہ خسارے میں رہا
 
 [Open on Quran.com](https://quran.com/91/10)
 

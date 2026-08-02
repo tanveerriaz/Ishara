@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[gDD - gdd]]
+- [[gDD - lower]]
 
 ### Meaning
 **lower** · Lemma **يَغُضُّ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 24:30 · [[024 An-Nur]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Tell the believing men to reduce [some] of their vision and guard their private parts. That is purer for them. Indeed, Allāh is [fully] Aware of what they do.
 
 **English (Yusuf Ali):** Say to the believing men that they should lower their gaze and guard their modesty: that will make for greater purity for them: And Allah is well acquainted with all that they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومن مردوں سے کہہ دو کہ اپنی نظریں نیچی رکھا کریں اور اپنی شرم گاہوں کی حفاظت کیا کریں۔ یہ ان کے لئے بڑی پاکیزگی کی بات ہے اور جو کام یہ کرتے ہیں خدا ان سے خبردار ہے
 
 [Open on Quran.com](https://quran.com/24/30)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And say to the believing women that they should lower their gaze and guard their modesty; that they should not display their beauty and ornaments except what (must ordinarily) appear thereof; that they should draw their veils over their bosoms and not display their beauty except to their husbands, their fathers, their husband's fathers, their sons, their husbands' sons, their brothers or their brothers' sons, or their sisters' sons, or their women, or the slaves whom their right hands possess, or male servants free of physical needs, or small children who have no sense of the shame of sex; and that they should not strike their feet in order to draw attention to their hidden ornaments. And O ye Believers! turn ye all together towards Allah, that ye may attain Bliss.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور مومن عورتوں سے بھی کہہ دو کہ وہ بھی اپنی نگاہیں نیچی رکھا کریں اور اپنی شرم گاہوں کی حفاظت کیا کریں اور اپنی آرائش (یعنی زیور کے مقامات) کو ظاہر نہ ہونے دیا کریں مگر جو ان میں سے کھلا رہتا ہو۔ اور اپنے سینوں پر اوڑھنیاں اوڑھے رہا کریں اور اپنے خاوند اور باپ اور خسر اور بیٹیوں اور خاوند کے بیٹوں اور بھائیوں اور بھتیجیوں اور بھانجوں اور اپنی (ہی قسم کی) عورتوں اور لونڈی غلاموں کے سوا نیز ان خدام کے جو عورتوں کی خواہش نہ رکھیں یا ایسے لڑکوں کے جو عورتوں کے پردے کی چیزوں سے واقف نہ ہوں (غرض ان لوگوں کے سوا) کسی پر اپنی زینت (اور سنگار کے مقامات) کو ظاہر نہ ہونے دیں۔ اور اپنے پاؤں (ایسے طور سے زمین پر) نہ ماریں (کہ جھنکار کانوں میں پہنچے اور) ان کا پوشیدہ زیور معلوم ہوجائے۔ اور مومنو! سب خدا کے آگے توبہ کرو تاکہ فلاح پاؤ
+
 [Open on Quran.com](https://quran.com/24/31)
 
 #### 31:19 · [[031 Luqman]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And be moderate in thy pace, and lower thy voice; for the harshest of sounds without doubt is the braying of the ass."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی چال میں اعتدال کئے رہنا اور (بولتے وقت) آواز نیچی رکھنا کیونکہ (اُونچی آواز گدھوں کی ہے اور کچھ شک نہیں کہ) سب آوازوں سے بُری آواز گدھوں کی ہے
+
 [Open on Quran.com](https://quran.com/31/19)
 
 #### 49:3 · [[049 Al-Hujurat]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who lower their voices before the Messenger of Allāh - they are the ones whose hearts Allāh has tested for righteousness. For them is forgiveness and great reward.
 
 **English (Yusuf Ali):** Those that lower their voices in the presence of Allah's Messenger,- their hearts has Allah tested for piety: for them is Forgiveness and a great Reward.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ پیغمبر خدا کے سامنے دبی آواز سے بولتے ہیں خدا نے ان کے دل تقویٰ کے لئے آزما لئے ہیں۔ ان کے لئے بخشش اور اجر عظیم ہے
 
 [Open on Quran.com](https://quran.com/49/3)
 

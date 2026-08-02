@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 38:12 · [[038 Sad]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The people of Noah denied before them, and [the tribe of] ʿAad and Pharaoh, the owner of stakes,
 
 **English (Yusuf Ali):** Before them (were many who) rejected messengers,- the people of Noah, and 'Ad, and Pharaoh, the Lord of Stakes,
+
+**Urdu (Fatah Muhammad Jalandhari):** ان سے پہلے نوح کی قوم اور عاد اور میخوں والا فرعون (اور اس کی قوم کے لوگ) بھی جھٹلا چکے ہیں
 
 [Open on Quran.com](https://quran.com/38/12)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And the mountains as pegs?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور پہاڑوں کو (ا س کی) میخیں (نہیں ٹھہرایا؟)
+
 [Open on Quran.com](https://quran.com/78/7)
 
 #### 89:10 · [[089 Al-Fajr]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [with] Pharaoh, owner of the stakes?
 
 **English (Yusuf Ali):** And with Pharaoh, lord of stakes?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور فرعون کے ساتھ (کیا کیا) جو خیمے اور میخیں رکھتا تھا
 
 [Open on Quran.com](https://quran.com/89/10)
 

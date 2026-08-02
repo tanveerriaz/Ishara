@@ -15,51 +15,51 @@ The Jinn · 28 ayahs
 ## Words in this surah (graph)
 
 - [[r$d - right path]] — `رُشْد` · right path
+- [[rsAlp - messages]] — `رِسالَة` · messages
 - [[Edd - number]] — `عَدَد` · number
 - [[Tryqp - way]] — `طَرِيقَة` · way
-- [[rsAlp - messages]] — `رِسالَة` · messages
-- [[dEA - call]] — `دَعا` · call
-- [[nAr - fire]] — `نار` · fire
-- [[>slm - submits]] — `أَسْلَمَ` · submits
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[yd - hands]] — `يَد` · hands
-- [[xlf - behind them]] — `خَلْف` · behind them
-- [[An - now]] — `آن` · now
-- [[Ejb - wonder]] — `عَجِبُ` · wonder
-- [[SAHbp - wife]] — `صاحِبَة` · wife
-- [[bEv - we sent]] — `بَعَثَ` · we sent
-- [[mA' - water]] — `ماء` · water
+- [[ArtDY - he approves]] — `ارْتَضَى` · he approves
+- [[EAlm - worlds]] — `عالَم` · worlds
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[$hAb - burning flame]] — `شِهاب` · burning flame
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[smE - hearing]] — `سَمْع` · hearing
-- [[E*Ab - punishment]] — `عَذاب` · punishment
-- [[ml}t - filled]] — `مُلِئَتْ` · filled
-- [[zAd - increase]] — `زادَ` · increase
-- [[mlkt - possess]] — `مَلَكَتْ` · possess
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[rb - lord]] — `رَبّ` · lord
+- [[>rD - earth]] — `أَرْض` · earth
+- [[wjd - we found]] — `وَجَدَ` · we found
+- [[sfyh - fools]] — `سَفِيه` · fools
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[mqEd - take positions]] — `مَقْعَد` · take positions
+- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
+- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
+- [[byn - between them]] — `بَيْن` · between them
+- [[>Hd - anyone]] — `أَحَد` · anyone
+- [[An - now]] — `آن` · now
+- [[bEv - we sent]] — `بَعَثَ` · we sent
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[Elm - know]] — `عَلِمَ` · know
+- [[Dr - adversity]] — `ضَرّ` · adversity
+- [[nfr - go forth]] — `نَفَرَ` · go forth
+- [[qEd - sit]] — `قَعَدَ` · sit
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
 
 ## Roots
 
 - [[$TT - exceed just limit]]
 - [[$dd - severe]]
-- [[$hb - shhb]]
+- [[$hb - burning flame]]
 - [[$rk - sharing partnership]]
 - [[$rr - sparks fire]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
+- [[*kr - remember recall something]]
 - [[>Hd - anyone]]
-- [[>bd - abad]]
+- [[>bd - absolute long]]
 - [[>md - period time defined]]
-- [[>mn - amn]]
-- [[>ns - ans]]
-- [[>rD - ard]]
-- [[>wn - awn]]
+- [[>mn - believe]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
+- [[>wn - now]]
 - [[>x* - take]]
 - [[DEf - weak]]
 - [[Drr - adversity]]
-- [[E*b - edhb]]
+- [[E*b - motes particles floating]]
 - [[ESy - disobey]]
 - [[Ebd - worship]]
 - [[Edd - count]]
@@ -67,30 +67,30 @@ The Jinn · 28 ayahs
 - [[Ejz - old age weakness]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[ErD - erd]]
-- [[Ew* - ewdh]]
+- [[ErD - turn away]]
+- [[Ew* - seek protection]]
 - [[HSy - count reckon]]
 - [[HwT - guard]]
-- [[SEd - sed]]
+- [[SEd - ascend go upwards]]
 - [[SHb - lord]]
-- [[SlH - slh]]
-- [[Trq - trq]]
+- [[SlH - make something good]]
+- [[Trq - strike beat]]
 - [[Zhr - back]]
 - [[Znn - think]]
 - [[allah - God]]
 - [[bEv - remove restraint]]
-- [[blg - balagha]]
-- [[bxs - bakhs]]
+- [[blg - reach]]
+- [[bxs - diminish]]
 - [[byn - clear]]
 - [[dEw - call]]
 - [[dry - know]]
 - [[dwn - besides]]
-- [[ftn - ftn]]
-- [[gyb - ghyb]]
+- [[ftn - burn melt something]]
+- [[gyb - absent]]
 - [[hdy - guide]]
 - [[jEl - we made]]
-- [[jdd - jadd]]
-- [[jnn - jann]]
+- [[jdd - cut make something]]
+- [[jnn - cover]]
 - [[jwr - neighbor]]
 
 ## Sample (ayah 1)

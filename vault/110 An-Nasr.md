@@ -14,39 +14,39 @@ The Divine Support · 3 ayahs
 
 ## Words in this surah (graph)
 
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[kAn - is]] — `كانَ` · is
-- [[Astgfr - ask forgiveness]] — `اسْتَغْفَرَ` · ask forgiveness
-- [[rb - lord]] — `رَبّ` · lord
-- [[nSr - help]] — `نَصَرَ` · help
-- [[twAb - oft-returning]] — `تَوّاب` · oft-returning
-- [[nAs - people]] — `ناس` · people
 - [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[dxl - enter]] — `دَخَلَ` · enter
-- [[allah - God]] — `الله` · God
 - [[fwj - troop]] — `فَوْج` · troop
-- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[allah - God]] — `الله` · God
 - [[jA' - came them]] — `جاءَ` · came them
+- [[dxl - enter]] — `دَخَلَ` · enter
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[kAn - is]] — `كانَ` · is
 - [[dyn - religion]] — `دِين` · religion
+- [[Astgfr - ask forgiveness]] — `اسْتَغْفَرَ` · ask forgiveness
 - [[ftH - victory]] — `فَتَحَ` · victory
+- [[rb - lord]] — `رَبّ` · lord
+- [[twAb - oft-returning]] — `تَوّاب` · oft-returning
+- [[nSr - help]] — `نَصَرَ` · help
+- [[nAs - people]] — `ناس` · people
 
 ## Roots
 
-- [[>ns - ans]]
+- [[>ns - mankind]]
 - [[Hmd - praise]]
 - [[allah - God]]
 - [[dxl - enter]]
 - [[dyn - judgment]]
 - [[ftH - victory]]
-- [[fwj - fawj]]
+- [[fwj - company]]
 - [[gfr - cover conceal]]
 - [[jy> - came them]]
 - [[kwn - is]]
-- [[nSr - nsr]]
+- [[nSr - aid]]
 - [[r>y - see eye perceive]]
 - [[rbb - Lord]]
 - [[sbH - glory]]
-- [[twb - twb]]
+- [[twb - return]]
 
 ## Sample (ayah 1)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hrq - hrq]]
+- [[Hrq - burn]]
 
 ### Meaning
 **burn him** · Lemma **حَرِّقُ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 20:97 · [[020 Taha]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Moses] said, "Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast.
 
 **English (Yusuf Ali):** (Moses) said: "Get thee gone! but thy (punishment) in this life will be that thou wilt say, 'touch me not'; and moreover (for a future penalty) thou hast a promise that will not fail: Now look at thy god, of whom thou hast become a devoted worshipper: We will certainly (melt) it in a blazing fire and scatter it broadcast in the sea!"
+
+**Urdu (Fatah Muhammad Jalandhari):** (موسیٰ نے) کہا جا تجھ کو دنیا کی زندگی میں یہ (سزا) ہے کہ کہتا رہے کہ مجھ کو ہاتھ نہ لگانا اور تیرے لئے ایک اور وعدہ ہے (یعنی عذاب کا) جو تجھ سے ٹل نہ سکے گا اور جس معبود (کی پوجا) پر تو (قائم و) معتکف تھا اس کو دیکھ۔ ہم اسے جلادیں گے پھر اس (کی راکھ) کو اُڑا کر دریا میں بکھیر دیں گے
 
 [Open on Quran.com](https://quran.com/20/97)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said, "Burn him and protect your gods, If ye do (anything at all)!"
 
+**Urdu (Fatah Muhammad Jalandhari):** (تب وہ) کہنے لگے کہ اگر تمہیں (اس سے اپنے معبود کا انتقام لینا اور) کچھ کرنا ہے تو اس کو جلا دو اور اپنے معبودوں کی مدد کرو
+
 [Open on Quran.com](https://quran.com/21/68)
 
 #### 29:24 · [[029 Al-Ankabut]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the answer of his [i.e., Abraham's] people was not but that they said, "Kill him or burn him," but Allāh saved him from the fire. Indeed in that are signs for a people who believe.
 
 **English (Yusuf Ali):** So naught was the answer of (Abraham's) people except that they said: "Slay him or burn him." But Allah did save him from the Fire. Verily in this are Signs for people who believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اُن کی قوم کے لوگ جواب میں بولے تو یہ بولے کہ اُسے مار ڈالو یا جلا دو۔ مگر خدا نے اُن کو آگ (کی سوزش) سے بچالیا۔ جو لوگ ایمان رکھتے ہیں اُن کے لئے اس میں نشانیاں ہیں
 
 [Open on Quran.com](https://quran.com/29/24)
 

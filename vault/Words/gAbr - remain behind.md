@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[gbr - gbr]]
+- [[gbr - dust dusty color]]
 
 ### Meaning
 **remain behind** · Lemma **غابِر**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:83 · [[007 Al-Araf]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So We saved him and his family, except for his wife; she was of those who remained [with the evildoers].
 
 **English (Yusuf Ali):** But we saved him and his family, except his wife: she was of those who legged behind.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان کو اور ان کے گھر والوں کو بچا لیا مگر ان کی بی بی (نہ بچی) کہ وہ پیچھے رہنے والوں میں تھی
 
 [Open on Quran.com](https://quran.com/7/83)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Except his wife, who, We have ascertained, will be among those who will lag behind."
 
+**Urdu (Fatah Muhammad Jalandhari):** البتہ ان کی عورت (کہ) اس کے لیے ہم نے ٹھہرا دیا ہے کہ وہ پیچھے رہ جائے گی
+
 [Open on Quran.com](https://quran.com/15/60)
 
 #### 26:171 · [[026 Ash-Shuara]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except an old woman among those who remained behind.
 
 **English (Yusuf Ali):** Except an old woman who lingered behind.
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر ایک بڑھیا کہ پیچھے رہ گئی
 
 [Open on Quran.com](https://quran.com/26/171)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But We saved him and his family, except his wife; her We destined to be of those who lagged behind.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان کو اور ان کے گھر والوں کو نجات دی۔ مگر ان کی بیوی کہ اس کی نسبت ہم نے مقرر کر رکھا ہے (کہ وہ پیچھے رہنے والوں میں ہوگی)
+
 [Open on Quran.com](https://quran.com/27/57)
 
 #### 29:32 · [[029 Al-Ankabut]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Abraham] said, "Indeed, within it is Lot." They said, "We are more knowing of who is within it. We will surely save him and his family, except his wife. She is to be of those who remain behind."
 
 **English (Yusuf Ali):** He said: "But there is Lut there." They said: "Well do we know who is there: we will certainly save him and his following,- except his wife: she is of those who lag behind!"
+
+**Urdu (Fatah Muhammad Jalandhari):** ابراہیم نے کہا کہ اس میں تو لوط بھی ہیں۔ وہ کہنے لگے کہ جو لوگ یہاں (رہتے) ہیں ہمیں سب معلوم ہیں۔ ہم اُن کو اور اُن کے گھر والوں کو بچالیں گے بجز اُن کی بیوی کے وہ پیچھے رہنے والوں میں ہوگی
 
 [Open on Quran.com](https://quran.com/29/32)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And when Our Messengers came to Lut, he was grieved on their account, and felt himself powerless (to protect) them: but they said: "Fear thou not, nor grieve: we are (here) to save thee and thy following, except thy wife: she is of those who lag behind.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہمارے فرشتے لوط کے پاس آئے تو وہ اُن (کی وجہ) سے ناخوش اور تنگ دل ہوئے۔ فرشتوں نے کہا کچھ خوف نہ کیجئے۔ اور نہ رنج کیجئے ہم آپ کو اور آپ کے گھر والوں کو بچالیں گے مگر آپ کی بیوی کہ پیچھے رہنے والوں میں ہوگی
+
 [Open on Quran.com](https://quran.com/29/33)
 
 #### 37:135 · [[037 As-Saffat]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except an old woman [i.e., his wife] among those who remained [with the evildoers].
 
 **English (Yusuf Ali):** Except an old woman who was among those who lagged behind:
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر ایک بڑھیا کہ پیچھے رہ جانے والوں میں تھی
 
 [Open on Quran.com](https://quran.com/37/135)
 

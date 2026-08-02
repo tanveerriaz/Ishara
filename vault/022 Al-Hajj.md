@@ -14,82 +14,82 @@ The Pilgrimage · 78 ayahs
 
 ## Words in this surah (graph)
 
+- [[mwlY - protector]] — `مَوْلَى` · protector
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[>mlY - dictated]] — `أَمْلَى` · dictated
+- [[qwy - all-strong]] — `قَوِيّ` · all-strong
+- [[>*Aq - surely]] — `أَذاقَ` · surely
 - [[>TEm - feed]] — `أَطْعَمَ` · feed
 - [[tqwY - righteousness]] — `تَقْوَى` · righteousness
-- [[$EA}r - symbols]] — `شَعائِر` · symbols
-- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[msmY - appointed]] — `مُسَمًّى` · appointed
-- [[mwlY - protector]] — `مَوْلَى` · protector
-- [[ZAlmp - doing wrong]] — `ظالِمَة` · doing wrong
-- [[>*Aq - we will make]] — `أَذاقَ` · we will make
-- [[Hryq - burning fire]] — `حَرِيق` · burning fire
 - [[mnAfE - benefits]] — `مَنافِع` · benefits
-- [[>mlY - dictated]] — `أَمْلَى` · dictated
+- [[Hryq - burning fire]] — `حَرِيق` · burning fire
+- [[msmY - appointed]] — `مُسَمًّى` · appointed
 - [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[qwy - all-strong]] — `قَوِيّ` · all-strong
-- [[Hsn - good]] — `حُسْن` · good
-- [[r>s - heads]] — `رَأْس` · heads
-- [[dEA - call]] — `دَعا` · call
-- [[nAr - fire]] — `نار` · fire
-- [[jAdl - dispute]] — `جادَلُ` · dispute
-- [[lyl - night]] — `لَيْل` · night
-- [[>slm - submits]] — `أَسْلَمَ` · submits
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[njm - stars]] — `نَجْم` · stars
-- [[$qAq - dissension]] — `شِقاق` · dissension
-- [[xlf - behind them]] — `خَلْف` · behind them
+- [[ZAlmp - doing wrong]] — `ظالِمَة` · doing wrong
+- [[$EA}r - symbols]] — `شَعائِر` · symbols
+- [[Hlym - forbearing]] — `حَلِيم` · forbearing
+- [[nkyr - my rejection]] — `نَكِير` · my rejection
+- [[ryH - wind]] — `رِيح` · wind
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[xTf - snatches away]] — `خَطِفَ` · snatches away
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
+- [[dyn - religion]] — `دِين` · religion
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[qbl - before]] — `قَبْل` · before
+- [[byt - houses]] — `بَيْت` · houses
+- [[mAt - died]] — `ماتَ` · died
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
-- [[$hd - shhd]]
-- [[$jr - shjr]]
-- [[$kr - shkr]]
+- [[$hd - witnessing]]
+- [[$jr - trees]]
+- [[$kr - gratitude]]
 - [[$ms - horse refusing ridden]]
 - [[$qq - cleave]]
 - [[$rk - sharing partnership]]
 - [[$rr - sparks fire]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
-- [[>bw - abw]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
+- [[*wq - taste]]
+- [[>*n - ear]]
+- [[>bw - forefathers]]
 - [[>jl - term]]
 - [[>kl - eat]]
-- [[>lf - alifa]]
+- [[>lf - become familiar]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[Drb - tent]]
+- [[Drb - strike beat]]
 - [[Drr - adversity]]
-- [[E$r - eshr]]
-- [[E*b - edhb]]
+- [[E$r - ten]]
+- [[E*b - motes particles floating]]
 - [[ESm - tie cord]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Ebd - worship]]
 - [[Edd - count]]
-- [[Efw - efw]]
-- [[Ejl - ejl]]
+- [[Efw - efface obliterate]]
+- [[Ejl - incite cause someone]]
 - [[Ejz - old age weakness]]
-- [[Ekf - ekf]]
+- [[Ekf - cleave something constantly]]
 - [[Elm - knowledge]]
 - [[Elq - hang]]
 - [[Elw - superiority]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emr - life]]
 - [[Emy - blindness]]
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Thr - thr]]
+- [[Thr - cleanse purify oneself]]
 
 ### Meaning
 **purer** · Lemma **أَطْهَر**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:232 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you divorce women and they have fulfilled their term, do not prevent them from remarrying their [former] husbands if they [i.e., all parties] agree among themselves on an acceptable basis. That is instructed to whoever of you believes in Allāh and the Last Day. That is better for you and purer, and Allāh knows and you know not.
 
 **English (Yusuf Ali):** When ye divorce women, and they fulfil the term of their ('Iddat), do not prevent them from marrying their (former) husbands, if they mutually agree on equitable terms. This instruction is for all amongst you, who believe in Allah and the Last Day. That is (the course Making for) most virtue and purity amongst you and Allah knows, and ye know not.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم عورتوں کو طلاق دے چکو اور ان کی عدت پوری ہوجائے تو ان کو دوسرے شوہروں کے ساتھ جب وہ آپس میں جائز طور پر راضی ہوجائیں نکاح کرنے سے مت روکو۔ اس (حکم) سے اس شخص کو نصیحت کی جاتی ہے جو تم میں خدا اور روز آخرت پر یقین رکھتا ہے۔ یہ تمہارے لئے نہایت خوب اور بہت پاکیزگی کی بات ہے اور خدا جانتا ہے اور تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/2/232)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And his people came rushing towards him, and they had been long in the habit of practising abominations. He said: "O my people! Here are my daughters: they are purer for you (if ye marry)! Now fear Allah, and cover me not with shame about my guests! Is there not among you a single right-minded man?"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور لوط کی قوم کے لوگ ان کے پاس بےتحاشا دوڑتے ہوئے آئے اور یہ لوگ پہلے ہی سے فعل شنیع کیا کرتے تھے۔ لوط نے کہا کہ اے قوم! یہ (جو) میری (قوم کی) لڑکیاں ہیں، یہ تمہارے لیے (جائز اور) پاک ہیں۔ تو خدا سے ڈرو اور میرے مہمانوں کے (بارے) میں میری آبرو نہ کھوؤ۔ کیا تم میں کوئی بھی شائستہ آدمی نہیں
+
 [Open on Quran.com](https://quran.com/11/78)
 
 #### 33:53 · [[033 Al-Ahzab]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Enter not the Prophet's houses,- until leave is given you,- for a meal, (and then) not (so early as) to wait for its preparation: but when ye are invited, enter; and when ye have taken your meal, disperse, without seeking familiar talk. Such (behaviour) annoys the Prophet: he is ashamed to dismiss you, but Allah is not ashamed (to tell you) the truth. And when ye ask (his ladies) for anything ye want, ask them from before a screen: that makes for greater purity for your hearts and for theirs. Nor is it right for you that ye should annoy Allah's Messenger, or that ye should marry his widows after him at any time. Truly such a thing is in Allah's sight an enormity.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو پیغمبر کے گھروں میں نہ جایا کرو مگر اس صورت میں کہ تم کو کھانے کے لئے اجازت دی جائے اور اس کے پکنے کا انتظار بھی نہ کرنا پڑے۔ لیکن جب تمہاری دعوت کی جائے تو جاؤ اور جب کھانا کھاچکو تو چل دو اور باتوں میں جی لگا کر نہ بیٹھ رہو۔ یہ بات پیغمبر کو ایذا دیتی ہے۔ اور وہ تم سے شرم کرتے ہیں (اور کہتے نہیں ہیں) لیکن خدا سچی بات کے کہنے سے شرم نہیں کرتا۔ اور جب پیغمبروں کی بیویوں سے کوئی سامان مانگو تو پردے کے باہر مانگو۔ یہ تمہارے اور ان کے دونوں کے دلوں کے لئے بہت پاکیزگی کی بات ہے۔ اور تم کو یہ شایاں نہیں کہ پیغمبر خدا کو تکلیف دو اور نہ یہ کہ ان کی بیویوں سے کبھی ان کے بعد نکاح کرو۔ بےشک یہ خدا کے نزدیک بڑا (گناہ کا کام) ہے
+
 [Open on Quran.com](https://quran.com/33/53)
 
 #### 58:12 · [[058 Al-Mujadila]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, when you [wish to] privately consult the Messenger, present before your consultation a charity. That is better for you and purer. But if you find not [the means] - then indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** O ye who believe! When ye consult the Messenger in private, spend something in charity before your private consultation. That will be best for you, and most conducive to purity (of conduct). But if ye find not (the wherewithal), Allah is Oft-Forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم پیغمبر کے کان میں کوئی بات کہو تو بات کہنے سے پہلے (مساکین کو) کچھ خیرات دے دیا کرو۔ یہ تمہارے لئے بہت بہتر اور پاکیزگی کی بات ہے۔ اور اگر خیرات تم کو میسر نہ آئے تو خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/58/12)
 

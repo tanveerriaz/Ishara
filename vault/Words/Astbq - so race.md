@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:148 · [[002 Al-Baqarah]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For each [religious following] is a [prayer] direction toward which it faces. So race to [all that is] good. Wherever you may be, Allāh will bring you forth [for judgement] all together. Indeed, Allāh is over all things competent.
 
 **English (Yusuf Ali):** To each is a goal to which Allah turns him; then strive together (as in a race) Towards all that is good. Wheresoever ye are, Allah will bring you Together. For Allah Hath power over all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہر ایک (فرقے) کے لیے ایک سمت (مقرر) ہے۔ جدھر وہ (عبادت کے وقت) منہ کیا کرتے ہیں۔ تو تم نیکیوں میں سبقت حاصل کرو۔ تم جہاں رہو گے خدا تم سب کو جمع کرلے گا۔ بے شک خدا ہر چیز پر قادر ہے
 
 [Open on Quran.com](https://quran.com/2/148)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To thee We sent the Scripture in truth, confirming the scripture that came before it, and guarding it in safety: so judge between them by what Allah hath revealed, and follow not their vain desires, diverging from the Truth that hath come to thee. To each among you have we prescribed a law and an open way. If Allah had so willed, He would have made you a single people, but (His plan is) to test you in what He hath given you: so strive as in a race in all virtues. The goal of you all is to Allah; it is He that will show you the truth of the matters in which ye dispute;
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر!) ہم نے تم پر سچی کتاب نازل کی ہے جو اپنے سے پہلی کتابوں کی تصدیق کرتی ہے اور ان (سب) پر شامل ہے تو جو حکم خدا نے نازل فرمایا ہے اس کے مطابق ان کا فیصلہ کرنا اور حق جو تمہارے پاس آچکا ہے اس کو چھوڑ کر ان کی خواہشوں کی پیروی نہ کرنا ہم نے تم میں سے ہر ایک (فرقے) کے لیے ایک دستور اور طریقہ مقرر کیا ہے اور اگر خدا چاہتا تو سب کو ایک ہی شریعت پر کر دیتا مگر جو حکم اس نے تم کو دیئے ہیں ان میں وہ تمہاری آزمائش کرنی چاہتا ہے سو نیک کاموں میں جلدی کرو تم سب کو خدا کی طرف لوٹ کر جانا ہے پھر جن باتوں میں تم کو اختلاف تھا وہ تم کو بتا دے گا
+
 [Open on Quran.com](https://quran.com/5/48)
 
 #### 12:17 · [[012 Yusuf]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "O our father, indeed we went racing each other and left Joseph with our possessions, and a wolf ate him. But you would not believe us, even if we were truthful."
 
 **English (Yusuf Ali):** They said: "O our father! We went racing with one another, and left Joseph with our things; and the wolf devoured him.... But thou wilt never believe us even though we tell the truth."
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور) کہنے لگے کہ اباجان ہم تو دوڑنے اور ایک دوسرے سے آگے نکلنے میں مصروف ہوگئے اور یوسف کو اپنے اسباب کے پاس چھوڑ گئے تو اسے بھیڑیا کھا گیا۔ اور آپ ہماری بات کو گو ہم سچ ہی کہتے ہوں باور نہیں کریں گے
 
 [Open on Quran.com](https://quran.com/12/17)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So they both raced each other to the door, and she tore his shirt from the back: they both found her lord near the door. She said: "What is the (fitting) punishment for one who formed an evil design against thy wife, but prison or a grievous chastisement?"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور دونوں دروازے کی طرف بھاگے (آگے یوسف اور پیچھے زلیخا) اور عورت نے ان کا کرتا پیچھے سے (پکڑ کر جو کھینچا تو) پھاڑ ڈالا اور دونوں کو دروازے کے پاس عورت کا خاوند مل گیا تو عورت بولی کہ جو شخص تمہاری بیوی کے ساتھ برا ارادہ کرے اس کی اس کے سوا کیا سزا ہے کہ یا تو قید کیا جائے یا دکھ کا عذاب دیا جائے
+
 [Open on Quran.com](https://quran.com/12/25)
 
 #### 36:66 · [[036 Ya-Sin]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if We willed, We could have obliterated their eyes, and they would race to [find] the path, and how could they see?
 
 **English (Yusuf Ali):** If it had been our Will, We could surely have blotted out their eyes; then should they have run about groping for the Path, but how could they have seen?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم چاہیں تو ان کی آنکھوں کو مٹا کر (اندھا کر) دیں۔ پھر یہ رستے کو دوڑیں تو کہاں دیکھ سکیں گے
 
 [Open on Quran.com](https://quran.com/36/66)
 

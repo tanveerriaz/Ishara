@@ -14,83 +14,83 @@ The Hypocrites · 11 ayahs
 
 ## Words in this surah (graph)
 
-- [[r>s - heads]] — `رَأْس` · heads
-- [[qbl - before]] — `قَبْل` · before
-- [[qAtl - fight]] — `قاتَلَ` · fight
-- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
-- [[SyHp - shout]] — `صَيْحَة` · shout
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[>nfq - spend]] — `أَنفَقَ` · spend
-- [[Eml - do]] — `عَمِلَ` · do
-- [[AnfD - they rushed]] — `انفَضُّ` · they rushed
-- [[jA' - came them]] — `جاءَ` · came them
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
+- [[yH*r - warns you]] — `يَحْذَرُ` · warns you
+- [[rzq - provision]] — `رَزَقَ` · provision
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[>y - o you]] — `أَيّ` · o you
-- [[Hsb - think]] — `حَسْب` · think
-- [[>Ez - mightier]] — `أَعَزّ` · mightier
+- [[>rD - earth]] — `أَرْض` · earth
+- [[SAlH - righteous]] — `صالِح` · righteous
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[smE - hearing]] — `سَمْع` · hearing
-- [[TbE - were sealed]] — `طَبَعَ` · were sealed
-- [[yfqh - understand]] — `يَفْقَهُ` · understand
-- [[rb - lord]] — `رَبّ` · lord
+- [[Hsb - think]] — `حَسْب` · think
 - [[>Hd - anyone]] — `أَحَد` · anyone
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[>jl - term]] — `أَجَل` · term
-- [[sA' - evil]] — `ساءَ` · evil
-- [[Sd - hinder]] — `صَدّ` · hinder
-- [[qwm - people]] — `قَوْم` · people
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[Elm - know]] — `عَلِمَ` · know
+- [[qbl - before]] — `قَبْل` · before
+- [[kA*b - liars]] — `كاذِب` · liars
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[xzA}n - treasures]] — `خَزائِن` · treasures
+- [[rjE - return]] — `رَجَعَ` · return
+- [[mwt - death]] — `مَوْت` · death
+- [[>xr - we delay]] — `أَخَّرَ` · we delay
+- [[mstkbr - arrogant]] — `مُسْتَكْبِر` · arrogant
+- [[smE - hearing]] — `سَمْع` · hearing
+- [[>fk - they deluded]] — `أُفِكَ` · they deluded
+- [[xAsr - losers]] — `خاسِر` · losers
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[m&mn - believers]] — `مُؤْمِن` · believers
+- [[tEAl - come]] — `تَعالَ` · come
 
 ## Roots
 
-- [[$hd - shhd]]
-- [[*kr - dhakara]]
+- [[$hd - witnessing]]
+- [[*kr - remember recall something]]
 - [[*ll - humiliation]]
 - [[>Hd - anyone]]
-- [[>fk - afk]]
+- [[>fk - turn something away]]
 - [[>jl - term]]
-- [[>mn - amn]]
-- [[>rD - ard]]
+- [[>mn - believe]]
+- [[>rD - earth]]
 - [[>ty - give]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
-- [[Edw - enemy]]
+- [[Edw - turn]]
 - [[Ejb - amazing]]
 - [[Elm - knowledge]]
 - [[Elw - superiority]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
 - [[Ezz - all-mighty]]
-- [[H*r - hdhr]]
+- [[H*r - fear]]
 - [[Hsb - number]]
 - [[Sdd - turn away]]
 - [[Sdq - speak truth]]
-- [[SlH - slh]]
-- [[SyH - syh]]
-- [[TbE - tbe]]
+- [[SlH - make something good]]
+- [[SyH - raise one's voice]]
+- [[TbE - seal]]
 - [[allah - God]]
 - [[fDD - break]]
 - [[fEl - deed]]
-- [[fqh - fqh]]
-- [[fsq - fsq]]
+- [[fqh - understand]]
+- [[fsq - go forth something]]
 - [[gfr - cover conceal]]
 - [[hdy - guide]]
-- [[jnn - jann]]
+- [[jnn - cover]]
 - [[jy> - came them]]
 - [[k*b - denied]]
-- [[kbr - kbr]]
+- [[kbr - greater]]
 - [[kfr - disbelieve]]
 - [[kll - every]]
 - [[kwn - is]]
 - [[lhw - uvula]]
 - [[lwy - twisting]]
-- [[mdn - madana]]
+- [[mdn - dwelling city being]]
 - [[mwl - wealth]]
 - [[mwt - death]]
-- [[nfq - nfq]]
+- [[nfq - something being demand]]
 - [[nfs - soul]]
-- [[qbl - qbl]]
-- [[qlb - qlb]]
+- [[qbl - face come forward]]
+- [[qlb - alter]]
 - [[qrb - become near]]
 
 ## Sample (ayah 1)

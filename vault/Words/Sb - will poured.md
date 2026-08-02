@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Sbb - sbb]]
+- [[Sbb - pour out shed]]
 
 ### Meaning
 **will poured** · Lemma **صَبَّ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 22:19 · [[022 Al-Hajj]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** These are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water
 
 **English (Yusuf Ali):** These two antagonists dispute with each other about their Lord: But those who deny (their Lord),- for them will be cut out a garment of Fire: over their heads will be poured out boiling water.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ دو (فریق) ایک دوسرے کے دشمن اپنے پروردگار (کے بارے) میں جھگڑتے ہیں۔ تو کافر ہیں ان کے لئے آگ کے کپڑے قطع کئے جائیں گے (اور) ان کے سروں پر جلتا ہوا پانی ڈالا جائے گا
 
 [Open on Quran.com](https://quran.com/22/19)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Then pour over his head the Penalty of Boiling Water,
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر اس کے سر پر کھولتا ہوا پانی انڈیل دو (کہ عذاب پر) عذاب (ہو)
+
 [Open on Quran.com](https://quran.com/44/48)
 
 #### 80:25 · [[080 Abasa]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For that We pour forth water in abundance,
 
+**Urdu (Fatah Muhammad Jalandhari):** بے شک ہم ہی نے پانی برسایا
+
 [Open on Quran.com](https://quran.com/80/25)
 
 #### 89:13 · [[089 Al-Fajr]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So your Lord poured upon them a scourge of punishment.
 
 **English (Yusuf Ali):** Therefore did thy Lord pour on them a scourge of diverse chastisements:
+
+**Urdu (Fatah Muhammad Jalandhari):** تو تمہارے پروردگار نے ان پر عذاب کا کوڑا نازل کیا
 
 [Open on Quran.com](https://quran.com/89/13)
 

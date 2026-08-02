@@ -15,81 +15,81 @@ He Frowned · 42 ayahs
 ## Words in this surah (graph)
 
 - [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
-- [[mrfwEp - raised]] — `مَرْفُوعَة` · raised
-- [[wjh - faces]] — `وَجْه` · faces
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[yd - hands]] — `يَد` · hands
-- [[>mr - command]] — `أَمَرَ` · command
-- [[SAHbp - wife]] — `صاحِبَة` · wife
-- [[mA' - water]] — `ماء` · water
-- [[jA' - came them]] — `جاءَ` · came them
-- [[>y - o you]] — `أَيّ` · o you
-- [[mThrp - purified]] — `مُطَهَّرَة` · purified
-- [[Enb - grapes]] — `عِنَب` · grapes
+- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
 - [[>EmY - blind]] — `أَعْمَى` · blind
-- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[mtAE - enjoyment]] — `مَتاع` · enjoyment
-- [[frt - you flee]] — `فَرَّتْ` · you flee
-- [[>b - father]] — `أَب` · father
-- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
 - [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[TEAm - food]] — `طَعام` · food
-- [[Sb - will poured]] — `صَبَّ` · will poured
+- [[>rD - earth]] — `أَرْض` · earth
+- [[wjh - faces]] — `وَجْه` · faces
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[frt - you flee]] — `فَرَّتْ` · you flee
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[>b - father]] — `أَب` · father
+- [[mrfwEp - raised]] — `مَرْفُوعَة` · raised
+- [[mtAE - enjoyment]] — `مَتاع` · enjoyment
+- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
+- [[nxl - date-palms]] — `نَخْل` · date-palms
+- [[$>n - any situation]] — `شَأْن` · any situation
 - [[ysr - ease]] — `يُسْر` · ease
-- [[br - land]] — `بِرّ` · land
+- [[qtl - kill]] — `قَتَلَ` · kill
+- [[fAkhp - fruits]] — `فاكِهَة` · fruits
+- [[krym - noble]] — `كَرِيم` · noble
+- [[*krY - reminder]] — `ذِكْرَى` · reminder
+- [[mThrp - purified]] — `مُطَهَّرَة` · purified
+- [[Sb - will poured]] — `صَبَّ` · will poured
+- [[>y - o you]] — `أَيّ` · o you
+- [[Enb - grapes]] — `عِنَب` · grapes
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
 
 ## Roots
 
 - [[$>n - matter]]
 - [[$qq - cleave]]
 - [[$y> - thing]]
-- [[*kr - dhakara]]
-- [[>bw - abw]]
+- [[*kr - remember recall something]]
+- [[>bw - forefathers]]
 - [[>mm - leadership]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
-- [[>xw - akhw]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
+- [[>xw - brother]]
 - [[>yy - ism]]
-- [[DHk - dhk]]
-- [[Ebs - ebs]]
+- [[DHk - laugh]]
+- [[Ebs - frown]]
 - [[Emy - blindness]]
-- [[Enb - enb]]
+- [[Enb - grapes]]
 - [[Hbb - love]]
 - [[Hdq - black part eye]]
 - [[SHb - lord]]
 - [[SHf - scriptures]]
-- [[Sbb - sbb]]
-- [[TEm - tem]]
-- [[Thr - thr]]
+- [[Sbb - pour out shed]]
+- [[TEm - food]]
+- [[Thr - cleanse purify oneself]]
 - [[b$r - strip pare something]]
 - [[bny - sons]]
-- [[brr - brr]]
+- [[brr - land]]
 - [[dry - know]]
 - [[fjr - cleave cut open]]
-- [[fkh - fkh]]
-- [[frr - f-r-r]]
-- [[gbr - gbr]]
-- [[glb - ghalaba]]
+- [[fkh - eating fruit]]
+- [[frr - flight]]
+- [[gbr - dust dusty color]]
+- [[glb - overcome]]
 - [[gny - dwelling residing place]]
 - [[jy> - came them]]
 - [[kfr - disbelieve]]
 - [[kll - every]]
-- [[krm - krm]]
+- [[krm - noble]]
 - [[lhw - uvula]]
-- [[mr> - mra]]
+- [[mr> - wife]]
 - [[mtE - anything useful advantageous]]
-- [[mwh - mwh]]
+- [[mwh - coat something]]
 - [[mwt - death]]
-- [[n$r - n-sh-r]]
+- [[n$r - spread open something]]
 - [[nEm - favor]]
-- [[nTf - ntf]]
+- [[nTf - type sweetmeat]]
 - [[nZr - look at towards]]
 - [[nbt - grows]]
-- [[nfE - nfe]]
-- [[nxl - nkhl]]
+- [[nfE - profit]]
+- [[nxl - clear]]
 - [[qDy - decide]]
 - [[qbr - type small bird]]
 

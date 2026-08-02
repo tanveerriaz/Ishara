@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rqb - rqb]]
+- [[rqb - slave]]
 
 ### Meaning
 **watcher** · Lemma **رَقِيب**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:1 · [[004 An-Nisa]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allāh, through whom you ask one another, and the wombs. Indeed Allāh is ever, over you, an Observer.
 
 **English (Yusuf Ali):** O mankind! reverence your Guardian-Lord, who created you from a single person, created, of like nature, His mate, and from them twain scattered (like seeds) countless men and women;- reverence Allah, through whom ye demand your mutual (rights), and (reverence) the wombs (That bore you): for Allah ever watches over you.
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو اپنے پروردگار سے ڈرو جس نے تم کو ایک شخص سے پیدا کیا (یعنی اول) اس سے اس کا جوڑا بنایا۔ پھر ان دونوں سے کثرت سے مرد وعورت (پیدا کرکے روئے زمین پر) پھیلا دیئے۔ اور خدا سے جس کے نام کو تم اپنی حاجت بر آری کا ذریعہ بناتے ہو ڈرو اور (قطع مودت) ارحام سے (بچو) کچھ شک نہیں کہ خدا تمہیں دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/4/1)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Never said I to them aught except what Thou didst command me to say, to wit, 'worship Allah, my Lord and your Lord'; and I was a witness over them whilst I dwelt amongst them; when Thou didst take me up Thou wast the Watcher over them, and Thou art a witness to all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** میں نے ان سے کچھ نہیں کہا بجز اس کے جس کا تو نے مجھے حکم دیا ہے وہ یہ کہ تم خدا کی عبادت کرو جو میرا اور تمہارا سب کا پروردگار ہے اور جب تک میں ان میں رہا ان (کے حالات) کی خبر رکھتا رہا جب تو نے مجھے دنیا سے اٹھا لیا تو تو ان کا نگران تھا اور تو ہر چیز سے خبردار ہے
+
 [Open on Quran.com](https://quran.com/5/117)
 
 #### 11:93 · [[011 Hud]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And O my people, work according to your position; indeed, I am working. You are going to know to whom will come a punishment that will disgrace him and who is a liar. So watch; indeed, I am with you a watcher, [awaiting the outcome]."
 
 **English (Yusuf Ali):** "And O my people! Do whatever ye can: I will do (my part): Soon will ye know who it is on whom descends the penalty of ignominy; and who is a liar! and watch ye! for I too am watching with you!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور برادران ملت! تم اپنی جگہ کام کیے جاؤ میں (اپنی جگہ) کام کیے جاتا ہوں۔ تم کو عنقریب معلوم ہوجائے گا کہ رسوا کرنے والا عذاب کس پر آتا ہے اور جھوٹا کون ہے اور تم بھی انتظار کرو، میں بھی تمہارے ساتھ انتظار کرتا ہوں
 
 [Open on Quran.com](https://quran.com/11/93)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is not lawful for thee (to marry more) women after this, nor to change them for (other) wives, even though their beauty attract thee, except any thy right hand should possess (as handmaidens): and Allah doth watch over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) ان کے سوا اور عورتیں تم کو جائز نہیں اور نہ یہ کہ ان بیویوں کو چھوڑ کر اور بیویاں کرو خواہ ان کا حسن تم کو (کیسا ہی) اچھا لگے مگر وہ جو تمہارے ہاتھ کا مال ہے (یعنی لونڈیوں کے بارے میں تم کو اختیار ہے) اور خدا ہر چیز پر نگاہ رکھتا ہے
+
 [Open on Quran.com](https://quran.com/33/52)
 
 #### 50:18 · [[050 Qaf]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He [i.e., man] utters no word except that with him is an observer prepared [to record].
 
 **English (Yusuf Ali):** Not a word does he utter but there is a sentinel by him, ready (to note it).
+
+**Urdu (Fatah Muhammad Jalandhari):** کوئی بات اس کی زبان پر نہیں آتی مگر ایک نگہبان اس کے پاس تیار رہتا ہے
 
 [Open on Quran.com](https://quran.com/50/18)
 

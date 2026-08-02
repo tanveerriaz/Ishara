@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$hd - shhd]]
+- [[$hd - witnessing]]
 
 ### Meaning
 **witnessed** · Lemma **مَشْهُود**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:103 · [[011 Hud]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed in that is a sign for those who fear the punishment of the Hereafter. That is a Day for which the people will be collected, and that is a Day [which will be] witnessed.
 
 **English (Yusuf Ali):** In that is a Sign for those who fear the penalty of the Hereafter: that is a Day for which mankind will be gathered together: that will be a Day of Testimony.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان (قصوں) میں اس شخص کے لیے جو عذاب آخرت سے ڈرے عبرت ہے۔ یہ وہ دن ہوگا جس میں سب لوگ اکٹھے کیے جائیں گے اور یہی وہ دن ہوگا جس میں سب (خدا کے روبرو) حاضر کیے جائیں گے
 
 [Open on Quran.com](https://quran.com/11/103)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Establish regular prayers - at the sun's decline till the darkness of the night, and the morning prayer and reading: for the prayer and reading in the morning carry their testimony.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) سورج کے ڈھلنے سے رات کے اندھیرے تک (ظہر، عصر، مغرب، عشا کی) نمازیں اور صبح کو قرآن پڑھا کرو۔ کیوں صبح کے وقت قرآن کا پڑھنا موجب حضور (ملائکہ) ہے
+
 [Open on Quran.com](https://quran.com/17/78)
 
 #### 85:3 · [[085 Al-Buruj]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [by] the witness and what is witnessed,
 
 **English (Yusuf Ali):** By one that witnesses, and the subject of the witness;-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور حاضر ہونے والے کی اور جو اس کے پاس حاضر کیا جائے اسکی
 
 [Open on Quran.com](https://quran.com/85/3)
 

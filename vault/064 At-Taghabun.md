@@ -14,84 +14,84 @@ The Mutual Disillusion · 18 ayahs
 
 ## Words in this surah (graph)
 
-- [[Hsn - good]] — `حُسْن` · good
-- [[qbl - before]] — `قَبْل` · before
-- [[nAr - fire]] — `نار` · fire
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[fwz - success]] — `فَوْز` · success
-- [[>nfq - spend]] — `أَنفَقَ` · spend
-- [[Eml - do]] — `عَمِلَ` · do
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[>mr - command]] — `أَمَرَ` · command
-- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
-- [[bEv - we sent]] — `بَعَثَ` · we sent
-- [[ftnp - trial]] — `فِتْنَة` · trial
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[EZym - great]] — `عَظِيم` · great
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
 - [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[$H - miserly]] — `شُحّ` · miserly
-- [[nhr - rivers]] — `نَهَر` · rivers
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
+- [[yH*r - warns you]] — `يَحْذَرُ` · warns you
+- [[Hlym - forbearing]] — `حَلِيم` · forbearing
+- [[EAlm - worlds]] — `عالَم` · worlds
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[>y - o you]] — `أَيّ` · o you
-- [[jry - flow]] — `جَرَيْ` · flow
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[Hq - truth]] — `حَقّ` · truth
+- [[>rD - earth]] — `أَرْض` · earth
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[ysyr - easy]] — `يَسِير` · easy
+- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[qrD - loan]] — `قَرْض` · loan
+- [[bEv - we sent]] — `بَعَثَ` · we sent
+- [[Elm - know]] — `عَلِمَ` · know
+- [[yDAEf - will doubled]] — `يُضاعِفُ` · will doubled
+- [[qbl - before]] — `قَبْل` · before
+- [[bynp - clear proofs]] — `بَيِّنَة` · clear proofs
+- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[Ayp - signs]] — `آيَة` · signs
 
 ## Roots
 
-- [[$HH - shhh]]
-- [[$hd - shhd]]
-- [[$kr - shkr]]
+- [[$HH - miserly]]
+- [[$hd - witnessing]]
+- [[$kr - gratitude]]
 - [[$y> - thing]]
-- [[*wq - dhwq]]
-- [[>*n - adhn]]
-- [[>bd - abad]]
-- [[>jr - ajr]]
+- [[*wq - taste]]
+- [[>*n - ear]]
+- [[>bd - absolute long]]
+- [[>jr - recompensing rewarding someone]]
 - [[>lh - god]]
-- [[>lm - alm]]
-- [[>mn - amn]]
+- [[>lm - painful]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>rD - ard]]
+- [[>rD - earth]]
 - [[>ty - give]]
 - [[>yy - ism]]
 - [[DEf - weak]]
-- [[E*b - edhb]]
-- [[EZm - ezhm]]
-- [[Edw - enemy]]
-- [[Efw - efw]]
+- [[E*b - motes particles floating]]
+- [[EZm - great]]
+- [[Edw - turn]]
+- [[Efw - efface obliterate]]
 - [[Elm - knowledge]]
 - [[Eln - make something open]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[End - near]]
 - [[Ezz - all-mighty]]
-- [[H*r - hdhr]]
+- [[H*r - fear]]
 - [[Hkm - prevent restrain someone]]
-- [[Hlm - hlm]]
+- [[Hlm - forbearing]]
 - [[Hmd - praise]]
 - [[Hqq - established as true]]
 - [[Hsn - good]]
 - [[SHb - lord]]
 - [[Sdr - front part something]]
-- [[SfH - sfh]]
-- [[SlH - slh]]
+- [[SfH - side lateral part]]
+- [[SlH - make something good]]
 - [[Swb - descend go down]]
 - [[Swr - incline]]
-- [[Syr - syr]]
-- [[TwE - twe]]
+- [[Syr - destination]]
+- [[TwE - obey]]
 - [[allah - God]]
 - [[b$r - strip pare something]]
-- [[b>s - bas]]
+- [[b>s - wretched]]
 - [[bEv - remove restraint]]
-- [[bSr - bsr]]
-- [[blg - balagha]]
+- [[bSr - mental perception]]
+- [[blg - reach]]
 - [[byn - clear]]
 - [[dxl - enter]]
 - [[flH - cleave split]]
-- [[ftn - ftn]]
-- [[fwz - fwz]]
+- [[ftn - burn melt something]]
+- [[fwz - attain good fortune]]
 
 ## Sample (ayah 1)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:131 · [[007 Al-Araf]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But when good [i.e., provision] came to them, they said, "This is ours [by right]." And if a bad [condition] struck them, they saw an evil omen in Moses and those with him. Unquestionably, their fortune is with Allāh, but most of them do not know.
 
 **English (Yusuf Ali):** But when good (times) came, they said, "This is due to us;" When gripped by calamity, they ascribed it to evil omens connected with Moses and those with him! Behold! in truth the omens of evil are theirs in Allah's sight, but most of them do not understand!
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جب ان کو آسائش حاصل ہوتی تو کہتے کہ ہم اس کے مستحق ہیں۔ اور اگر سختی پہنچتی تو موسیٰ اور ان کے رفیقوں کی بدشگونی بتاتے۔ دیکھو ان کی بدشگونی خدا کے ہاں مقرر ہے لیکن ان میں اکثر نہیں جانتے
 
 [Open on Quran.com](https://quran.com/7/131)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "Ill omen do we augur from thee and those that are with thee". He said: "Your ill omen is with Allah; yea, ye are a people under trial."
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ تم اور تمہارے ساتھی ہمارے لئے شگون بد ہے۔ صالح نے کہا کہ تمہاری بدشگونی خدا کی طرف سے ہے بلکہ تم ایسے لوگ ہو جن کی آزمائش کی جاتی ہے
+
 [Open on Quran.com](https://quran.com/27/47)
 
 #### 36:18 · [[036 Ya-Sin]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "Indeed, we consider you a bad omen. If you do not desist, we will surely stone you, and there will surely touch you, from us, a painful punishment."
 
 **English (Yusuf Ali):** The (people) said: "for us, we augur an evil omen from you: if ye desist not, we will certainly stone you. And a grievous punishment indeed will be inflicted on you by us."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ ہم تم کو نامبارک سمجھتے ہیں۔ اگر تم باز نہ آؤ گے تو ہم تمہیں سنگسار کردیں گے اور تم کو ہم سے دکھ دینے والا عذاب پہنچے گا
 
 [Open on Quran.com](https://quran.com/36/18)
 

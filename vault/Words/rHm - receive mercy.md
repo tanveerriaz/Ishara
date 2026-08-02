@@ -41,7 +41,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:286 · [[002 Al-Baqarah]]
 
@@ -56,6 +56,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people."
 
 **English (Yusuf Ali):** On no soul doth Allah Place a burden greater than it can bear. It gets every good that it earns, and it suffers every ill that it earns. (Pray:) "Our Lord! Condemn us not if we forget or fall into error; our Lord! Lay not on us a burden Like that which Thou didst lay on those before us; Our Lord! Lay not on us a burden greater than we have strength to bear. Blot out our sins, and grant us forgiveness. Have mercy on us. Thou art our Protector; Help us against those who stand against faith."
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتا۔ اچھے کام کرے گا تو اس کو ان کا فائدہ ملے گا برے کرے گا تو اسے ان کا نقصان پہنچے گا۔ اے پروردگار اگر ہم سے بھول یا چوک ہوگئی ہو تو ہم سے مؤاخذہ نہ کیجیو۔ اے پروردگار ہم پر ایسا بوجھ نہ ڈالیو جیسا تو نے ہم سے پہلے لوگوں پر ڈالا تھا۔ اے پروردگار جتنا بوجھ اٹھانے کی ہم میں طاقت نہیں اتنا ہمارے سر پر نہ رکھیو۔ اور (اے پروردگار) ہمارے گناہوں سے درگزر کر اور ہمیں بخش دے۔ اور ہم پر رحم فرما۔ تو ہی ہمارا مالک ہے اور ہم کو کافروں پر غالب فرما
 
 [Open on Quran.com](https://quran.com/2/286)
 
@@ -73,6 +75,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And obey Allah and the Messenger; that ye may obtain mercy.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا اور اس کے رسول کی اطاعت کرو تاکہ تم پر رحمت کی جائے
+
 [Open on Quran.com](https://quran.com/3/132)
 
 #### 6:16 · [[006 Al-Anam]]
@@ -88,6 +92,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He from whom it is averted that Day - [Allāh] has granted him mercy. And that is the clear attainment.
 
 **English (Yusuf Ali):** "On that day, if the penalty is averted from any, it is due to Allah's mercy; And that would be (Salvation), the obvious fulfilment of all desire.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس شخص سے اس روز عذاب ٹال دیا گیا اس پر خدا نے (بڑی) مہربانی فرمائی اور یہ کھلی کامیابی ہے
 
 [Open on Quran.com](https://quran.com/6/16)
 
@@ -105,6 +111,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And this is a Book which We have revealed as a blessing: so follow it and be righteous, that ye may receive mercy:
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے کفر کرنے والوں) یہ کتاب بھی ہمیں نے اتاری ہے برکت والی تو اس کی پیروی کرو اور (خدا سے) ڈرو تاکہ تم پر مہربانی کی جائے
+
 [Open on Quran.com](https://quran.com/6/155)
 
 #### 7:23 · [[007 Al-Araf]]
@@ -120,6 +128,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers."
 
 **English (Yusuf Ali):** They said: "Our Lord! We have wronged our own souls: If thou forgive us not and bestow not upon us Thy Mercy, we shall certainly be lost."
+
+**Urdu (Fatah Muhammad Jalandhari):** دونوں عرض کرنے لگے کہ پروردگار ہم نے اپنی جانوں پر ظلم کیا اور اگر تو ہمیں نہیں بخشے گا اور ہم پر رحم نہیں کرے گا تو ہم تباہ ہو جائیں گے
 
 [Open on Quran.com](https://quran.com/7/23)
 
@@ -137,6 +147,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Do ye wonder that there hath come to you a message from your Lord, through a man of your own people, to warn you,- so that ye may fear Allah and haply receive His Mercy?"
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم کو اس بات سے تعجب ہوا ہے کہ تم میں سے ایک شخص کے ہاتھ تمہارے پروردگار کی طرف سے تمہارے پاس نصیحت آئی تاکہ وہ تم کو ڈرائے اور تاکہ تم پرہیزگار بنو اور تاکہ تم پر رحم کیا جائے
+
 [Open on Quran.com](https://quran.com/7/63)
 
 #### 7:149 · [[007 Al-Araf]]
@@ -152,6 +164,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when regret overcame them and they saw that they had gone astray, they said, "If our Lord does not have mercy upon us and forgive us, we will surely be among the losers."
 
 **English (Yusuf Ali):** When they repented, and saw that they had erred, they said: "If our Lord have not mercy upon us and forgive us, we shall indeed be of those who perish."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب وہ نادم ہوئے اور دیکھا کہ گمراہ ہوگئے ہیں تو کہنے لگے کہ اگر ہمارا پروردگار ہم پر رحم نہیں کرے گا اور ہم کو معاف نہیں فرمائے گا تو ہم برباد ہوجائیں گے
 
 [Open on Quran.com](https://quran.com/7/149)
 
@@ -169,6 +183,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And Moses chose seventy of his people for Our place of meeting: when they were seized with violent quaking, he prayed: "O my Lord! if it had been Thy will Thou couldst have destroyed, long before, both them and me: wouldst Thou destroy us for the deeds of the foolish ones among us? this is no more than Thy trial: by it Thou causest whom Thou wilt to stray, and Thou leadest whom Thou wilt into the right path. Thou art our Protector: so forgive us and give us Thy mercy; for Thou art the best of those who forgive.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ نے اس میعاد پر جو ہم نے مقرر کی تھی اپنی قوم کے ستر آدمی منتخب (کرکے کوہ طور پر حاضر) ٹل کیے۔ جب ان کو زلزلے نے پکڑا تو موسیٰ نے کہا کہ اے پروردگار تو چاہتا تو ان کو اور مجھ کو پہلے ہی سے ہلاک کر دیتا۔ کیا تو اس فعل کی سزا میں جو ہم میں سے بےعقل لوگوں نے کیا ہے ہمیں ہلاک کردے گا۔ یہ تو تیری آزمائش ہے۔ اس سے تو جس کو چاہے گمراہ کرے اور جس کو چاہے ہدایت بخشے۔ تو ہی ہمارا کارساز ہے تو ہمیں (ہمارے گناہ) بخش دے اور ہم پر رحم فرما اور تو سب سے بہتر بخشنے والا ہے
+
 [Open on Quran.com](https://quran.com/7/155)
 
 #### 7:204 · [[007 Al-Araf]]
@@ -185,6 +201,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When the Qur'an is read, listen to it with attention, and hold your peace: that ye may receive Mercy.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب قرآن پڑھا جائے تو توجہ سے سنا کرو اور خاموش رہا کرو تاکہ تم پر رحم کیا جائے
+
 [Open on Quran.com](https://quran.com/7/204)
 
 #### 9:71 · [[009 At-Tawbah]]
@@ -200,6 +218,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The believing men and believing women are allies of one another. They enjoin what is right and forbid what is wrong and establish prayer and give zakāh and obey Allāh and His Messenger. Those - Allāh will have mercy upon them. Indeed, Allāh is Exalted in Might and Wise.
 
 **English (Yusuf Ali):** The Believers, men and women, are protectors one of another: they enjoin what is just, and forbid what is evil: they observe regular prayers, practise regular charity, and obey Allah and His Messenger. On them will Allah pour His mercy: for Allah is Exalted in power, Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مومن مرد اور مومن عورتیں ایک دوسرے کے دوست ہیں کہ اچھے کام کرنے کو کہتے ہیں اور بری باتوں سے منع کرتے اور نماز پڑھتے اور زکوٰة دیتے اور خدا اور اس کے رسول کی اطاعت کرتے ہیں۔ یہی لوگ ہیں جن پر خدا رحم کرے گا۔ بےشک خدا غالب حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/9/71)
 

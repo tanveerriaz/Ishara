@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Eql - eql]]
+- [[Eql - withhold restrain]]
 
 ### Meaning
 **use reason** · Lemma **عَقَلُ**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:44 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason?
 
 **English (Yusuf Ali):** Do ye enjoin right conduct on the people, and forget (To practise it) yourselves, and yet ye study the Scripture? Will ye not understand?
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ) کیا (عقل کی بات ہے کہ) تم لوگوں کو نیکی کرنے کو کہتے ہو اور اپنے تئیں فراموش کئے دیتے ہو، حالانکہ تم کتاب (خدا) بھی پڑھتے ہو۔ کیا تم سمجھتے نہیں؟
 
 [Open on Quran.com](https://quran.com/2/44)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So We said: "Strike the (body) with a piece of the (heifer)." Thus Allah bringeth the dead to life and showeth you His Signs: Perchance ye may understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے کہا کہ اس بیل کا کوئی سا ٹکڑا مقتول کو مارو۔ اس طرح خدا مردوں کو زندہ کرتا ہے اور تم کو اپنی (قدرت کی) نشانیاں دکھاتا ہے تاکہ تم سمجھو
+
 [Open on Quran.com](https://quran.com/2/73)
 
 #### 2:75 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do you covet [the hope, O believers], that they would believe for you while a party of them used to hear the words of Allāh and then distort it [i.e., the Torah] after they had understood it while they were knowing?
 
 **English (Yusuf Ali):** Can ye (o ye men of Faith) entertain the hope that they will believe in you?- Seeing that a party of them heard the Word of Allah, and perverted it knowingly after they understood it.
+
+**Urdu (Fatah Muhammad Jalandhari):** (مومنو) کیا تم امید رکھتے ہو کہ یہ لوگ تمہارے (دین کے) قائل ہو جائیں گے، (حالانکہ) ان میں سے کچھ لوگ کلامِ خدا (یعنی تورات) کو سنتے، پھر اس کے سمجھ لینے کے بعد اس کو جان بوجھ کر بدل دیتے رہے ہیں
 
 [Open on Quran.com](https://quran.com/2/75)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! when they meet the men of Faith, they say: "We believe": But when they meet each other in private, they say: "Shall you tell them what Allah hath revealed to you, that they may engage you in argument about it before your Lord?"- Do ye not understand (their aim)?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ جب مومنوں سے ملتے ہیں تو کہتے ہیں، ہم ایمان لے آئے ہیں۔ اور جب آپس میں ایک دوسرے سے ملتے ہیں تو کہتے ہیں، جو بات خدا نے تم پر ظاہر فرمائی ہے، وہ تم ان کو اس لیے بتائے دیتے ہو کہ (قیامت کے دن) اسی کے حوالے سے تمہارے پروردگار کے سامنے تم کو الزام دیں۔ کیا تم سمجھتے نہیں؟
+
 [Open on Quran.com](https://quran.com/2/76)
 
 #### 2:164 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, in the creation of the heavens and the earth, and the alternation of the night and the day, and the [great] ships which sail through the sea with that which benefits people, and what Allāh has sent down from the heavens of rain, giving life thereby to the earth after its lifelessness and dispersing therein every [kind of] moving creature, and [His] directing of the winds and the clouds controlled between the heaven and earth are signs for a people who use reason.
 
 **English (Yusuf Ali):** Behold! in the creation of the heavens and the earth; in the alternation of the night and the day; in the sailing of the ships through the ocean for the profit of mankind; in the rain which Allah Sends down from the skies, and the life which He gives therewith to an earth that is dead; in the beasts of all kinds that He scatters through the earth; in the change of the winds, and the clouds which they Trail like their slaves between the sky and the earth;- (Here) indeed are Signs for a people that are wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** بےشک آسمانوں اور زمین کے پیدا کرنے میں اور رات اور دن کے ایک دوسرے کے پیچھے آنے جانے میں اور کشتیوں اور جہازوں میں جو دریا میں لوگوں کے فائدے کی چیزیں لے کر رواں ہیں اور مینہ میں جس کو خدا آسمان سے برساتا اور اس سے زمین کو مرنے کے بعد زندہ (یعنی خشک ہوئے پیچھے سرسبز) کردیتا ہے اور زمین پر ہر قسم کے جانور پھیلانے میں اور ہواؤں کے چلانےمیں اور بادلوں میں جو آسمان اور زمین کے درمیان گھرے رہتے ہیں۔ عقلمندوں کے لئے (خدا کی قدرت کی) نشانیاں ہیں
 
 [Open on Quran.com](https://quran.com/2/164)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When it is said to them: "Follow what Allah hath revealed:" They say: "Nay! we shall follow the ways of our fathers." What! even though their fathers Were void of wisdom and guidance?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان لوگوں سے کہا جاتا ہے کہ جو (کتاب) خدا نے نازل فرمائی ہے اس کی پیروی کرو تو کہتے ہیں (نہیں) بلکہ ہم تو اسی چیز کی پیروی کریں گے جس پر ہم نے اپنے باپ دادا کو پایا۔ بھلا اگرچہ ان کے باپ دادا نہ کچھ سمجھتے ہوں اورنہ سیدھے رستے پر ہوں (تب بھی وہ انہیں کی تقلید کئے جائیں گے)
+
 [Open on Quran.com](https://quran.com/2/170)
 
 #### 2:171 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries [i.e., cattle or sheep] - deaf, dumb and blind, so they do not understand.
 
 **English (Yusuf Ali):** The parable of those who reject Faith is as if one were to shout Like a goat-herd, to things that listen to nothing but calls and cries: Deaf, dumb, and blind, they are void of wisdom.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں ان کی مثال اس شخص کی سی ہے جو کسی ایسی چیز کو آواز دے جو پکار اور آواز کے سوا کچھ سن نہ سکے۔ (یہ) بہرے ہیں گونگے ہیں اندھے ہیں کہ (کچھ) سمجھ ہی نہیں سکتے
 
 [Open on Quran.com](https://quran.com/2/171)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thus doth Allah Make clear His Signs to you: In order that ye may understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** اسی طرح خدا اپنے احکام تمہارے لئے بیان فرماتا ہے تاکہ تم سمجھو
+
 [Open on Quran.com](https://quran.com/2/242)
 
 #### 3:65 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Ye People of the Book! Why dispute ye about Abraham, when the Law and the Gospel Were not revealed Till after him? Have ye no understanding?
 
+**Urdu (Fatah Muhammad Jalandhari):** اے اہلِ کتاب تم ابراہیم کے بارے میں کیوں جھگڑتے ہو حالانکہ تورات اور انجیل ان کے بعد اتری ہیں (اور وہ پہلے ہو چکے ہیں) تو کیا تم عقل نہیں رکھتے
+
 [Open on Quran.com](https://quran.com/3/65)
 
 #### 3:118 · [[003 Ali Imran]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not take as intimates those other than yourselves [i.e., believers], for they will not spare you [any] ruin. They wish you would have hardship. Hatred has already appeared from their mouths, and what their breasts conceal is greater. We have certainly made clear to you the signs, if you will use reason.
 
 **English (Yusuf Ali):** O ye who believe! Take not into your intimacy those outside your ranks: They will not fail to corrupt you. They only desire your ruin: Rank hatred has already appeared from their mouths: What their hearts conceal is far worse. We have made plain to you the Signs, if ye have wisdom.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! کسی غیر (مذہب کے آدمی) کو اپنا رازداں نہ بنانا یہ لوگ تمہاری خرابی اور (فتنہ انگیزی کرنے) میں کسی طرح کی کوتاہی نہیں کرتے اور چاہتے ہیں کہ (جس طرح ہو) تمہیں تکلیف پہنچے ان کی زبانوں سے تو دشمنی ظاہر ہوہی چکی ہے اور جو (کینے) ان کے سینوں میں مخفی ہیں وہ کہیں زیادہ ہیں اگر تم عقل رکھتے ہو تو ہم نے تم کو اپنی آیتیں کھول کھول کر سنا دی ہیں
 
 [Open on Quran.com](https://quran.com/3/118)
 

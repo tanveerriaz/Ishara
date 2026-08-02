@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:39 · [[003 Ali Imran]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So the angels called him while he was standing in prayer in the chamber, "Indeed, Allāh gives you good tidings of John, confirming a word from Allāh and [who will be] honorable, abstaining [from women], and a prophet from among the righteous."
 
 **English (Yusuf Ali):** While he was standing in prayer in the chamber, the angels called unto him: "Allah doth give thee glad tidings of Yahya, witnessing the truth of a Word from Allah, and (be besides) noble, chaste, and a prophet,- of the (goodly) company of the righteous."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ ابھی عبادت گاہ میں کھڑے نماز ہی پڑھ رہے تھے کہ فرشتوں نے آواز دی کہ (زکریا) خدا تمہیں یحییٰ کی بشارت دیتا ہے جو خدا کے فیض یعنی (عیسیٰ) کی تصدیق کریں گے اور سردار ہوں گے اور عورتوں سے رغبت نہ رکھنے والے اور (خدا کے) پیغمبر (یعنی) نیکو کاروں میں ہوں گے
 
 [Open on Quran.com](https://quran.com/3/39)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So they both raced each other to the door, and she tore his shirt from the back: they both found her lord near the door. She said: "What is the (fitting) punishment for one who formed an evil design against thy wife, but prison or a grievous chastisement?"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور دونوں دروازے کی طرف بھاگے (آگے یوسف اور پیچھے زلیخا) اور عورت نے ان کا کرتا پیچھے سے (پکڑ کر جو کھینچا تو) پھاڑ ڈالا اور دونوں کو دروازے کے پاس عورت کا خاوند مل گیا تو عورت بولی کہ جو شخص تمہاری بیوی کے ساتھ برا ارادہ کرے اس کی اس کے سوا کیا سزا ہے کہ یا تو قید کیا جائے یا دکھ کا عذاب دیا جائے
+
 [Open on Quran.com](https://quran.com/12/25)
 
 #### 33:67 · [[033 Al-Ahzab]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they will say, "Our Lord, indeed we obeyed our masters and our dignitaries, and they led us astray from the [right] way.
 
 **English (Yusuf Ali):** And they would say: "Our Lord! We obeyed our chiefs and our great ones, and they misled us as to the (right) Path.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہیں گے کہ اے ہمارے پروردگار ہم نے اپنے سرداروں اور بڑے لوگوں کا کہا مانا تو انہوں نے ہم کو رستے سے گمراہ کردیا
 
 [Open on Quran.com](https://quran.com/33/67)
 

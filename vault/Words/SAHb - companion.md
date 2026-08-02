@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:36 · [[004 An-Nisa]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Worship Allāh and associate nothing with Him, and to parents do good, and to relatives, orphans, the needy, the near neighbor, the neighbor farther away, the companion at your side, the traveler, and those whom your right hands possess. Indeed, Allāh does not like those who are self-deluding and boastful,
 
 **English (Yusuf Ali):** Serve Allah, and join not any partners with Him; and do good- to parents, kinsfolk, orphans, those in need, neighbours who are near, neighbours who are strangers, the companion by your side, the wayfarer (ye meet), and what your right hands possess: For Allah loveth not the arrogant, the vainglorious;-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی کی عبادت کرو اور اس کے ساتھ کسی چیز کو شریک نہ بناؤ اور ماں باپ اور قرابت والوں اور یتیموں اور محتاجوں اور رشتہ دار ہمسائیوں اور اجنبی ہمسائیوں اور رفقائے پہلو (یعنی پاس بیٹھنے والوں) اور مسافروں اور جو لوگ تمہارے قبضے میں ہوں سب کے ساتھ احسان کرو کہ خدا (احسان کرنے والوں کو دوست رکھتا ہے اور) تکبر کرنے والے بڑائی مارنے والے کو دوست نہیں رکھتا
 
 [Open on Quran.com](https://quran.com/4/36)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Do they not reflect? Their companion is not seized with madness: he is but a perspicuous warner.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے غور نہیں کیا کہ ان کے رفیق محمد (ﷺ) کو (کسی طرح کا بھی) جنون نہیں ہے۔ وہ تو ظاہر ظہور ڈر سنانے والے ہیں
+
 [Open on Quran.com](https://quran.com/7/184)
 
 #### 9:40 · [[009 At-Tawbah]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If you do not aid him [i.e., the Prophet (ﷺ)] - Allāh has already aided him when those who disbelieved had driven him out [of Makkah] as one of two, when they were in the cave and he [i.e., Muḥammad (ﷺ)] said to his companion, "Do not grieve; indeed Allāh is with us." And Allāh sent down His tranquility upon him and supported him with soldiers [i.e., angels] you did not see and made the word of those who disbelieved the lowest, while the word of Allāh - that is the highest. And Allāh is Exalted in Might and Wise.
 
 **English (Yusuf Ali):** If ye help not (your leader), (it is no matter): for Allah did indeed help him, when the Unbelievers drove him out: he had no more than one companion; they two were in the cave, and he said to his companion, "Have no fear, for Allah is with us": then Allah sent down His peace upon him, and strengthened him with forces which ye saw not, and humbled to the depths the word of the Unbelievers. But the word of Allah is exalted to the heights: for Allah is Exalted in might, Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم پیغمبر کی مدد نہ کرو گے تو خدا اُن کا مددگار ہے (وہ وقت تم کو یاد ہوگا) جب ان کو کافروں نے گھر سے نکال دیا۔ (اس وقت) دو (ہی ایسے شخص تھے جن) میں (ایک ابوبکرؓ تھے) اور دوسرے (خود رسول الله) جب وہ دونوں غار (ثور) میں تھے اس وقت پیغمبر اپنے رفیق کو تسلی دیتے تھے کہ غم نہ کرو خدا ہمارے ساتھ ہے۔ تو خدا نے ان پر تسکین نازل فرمائی اور ان کو ایسے لشکروں سے مدد دی جو تم کو نظر نہیں آتے تھے اور کافروں کی بات کو پست کر دیا۔ اور بات تو خدا ہی کی بلند ہے۔ اور خدا زبردست (اور) حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/9/40)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "O my two companions of the prison! (I ask you): are many lords differing among themselves better, or the One Allah, Supreme and Irresistible?
 
+**Urdu (Fatah Muhammad Jalandhari):** میرے جیل خانے کے رفیقو! بھلا کئی جدا جدا آقا اچھے یا (ایک) خدائے یکتا وغالب؟
+
 [Open on Quran.com](https://quran.com/12/39)
 
 #### 12:41 · [[012 Yusuf]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O two companions of prison, as for one of you, he will give drink to his master of wine; but as for the other, he will be crucified, and the birds will eat from his head. The matter has been decreed about which you both inquire."
 
 **English (Yusuf Ali):** "O my two companions of the prison! As to one of you, he will pour out the wine for his lord to drink: as for the other, he will hang from the cross, and the birds will eat from off his head. (so) hath been decreed that matter whereof ye twain do enquire"...
+
+**Urdu (Fatah Muhammad Jalandhari):** میرے جیل خانے کے رفیقو! تم میں سے ایک (جو پہلا خواب بیان کرنے والا ہے وہ) تو اپنے آقا کو شراب پلایا کرے گا اور جو دوسرا ہے وہ سولی دیا جائے گا اور جانور اس کا سر کھا جائیں گے۔ جو امر تم مجھ سے پوچھتے تھے وہ فیصلہ ہوچکا ہے
 
 [Open on Quran.com](https://quran.com/12/41)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Abundant) was the produce this man had: he said to his companion, in the course of a mutual argument: "more wealth have I than you, and more honour and power in (my following of) men."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس طرح) اس (شخص) کو (ان کی) پیداوار (ملتی رہتی) تھی تو (ایک دن) جب کہ وہ اپنے دوست سے باتیں کر رہا تھا کہنے لگا کہ میں تم سے مال ودولت میں بھی زیادہ ہوں اور جتھے (اور جماعت) کے لحاظ سے بھی زیادہ عزت والا ہوں
+
 [Open on Quran.com](https://quran.com/18/34)
 
 #### 18:37 · [[018 Al-Kahf]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** His companion said to him while he was conversing with him, "Have you disbelieved in He who created you from dust and then from a sperm-drop and then proportioned you [as] a man?
 
 **English (Yusuf Ali):** His companion said to him, in the course of the argument with him: "Dost thou deny Him Who created thee out of dust, then out of a sperm-drop, then fashioned thee into a man?
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اس کا دوست جو اس سے گفتگو کر رہا تھا کہنے لگا کہ کیا تم اس (خدا) سے کفر کرتے ہو جس نے تم کو مٹی سے پیدا کیا پھر نطفے سے پھر تمہیں پورا مرد بنایا
 
 [Open on Quran.com](https://quran.com/18/37)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "I do admonish you on one point: that ye do stand up before Allah,- (It may be) in pairs, or (it may be) singly,- and reflect (within yourselves): your Companion is not possessed: he is no less than a warner to you, in face of a terrible Penalty."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں تمہیں صرف ایک بات کی نصیحت کرتا ہوں کہ تم خدا کے لئے دو دو اور اکیلے اکیلے کھڑے ہوجاؤ پھر غور کرو۔ تمہارے رفیق کو سودا نہیں وہ تم کو عذاب سخت (کے آنے) سے پہلے صرف ڈرانے والے ہیں
+
 [Open on Quran.com](https://quran.com/34/46)
 
 #### 53:2 · [[053 An-Najm]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Your Companion is neither astray nor being misled.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہ تمہارے رفیق (محمدﷺ) نہ رستہ بھولے ہیں نہ بھٹکے ہیں
+
 [Open on Quran.com](https://quran.com/53/2)
 
 #### 54:29 · [[054 Al-Qamar]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But they called their companion, and he dared and hamstrung [her].
 
 **English (Yusuf Ali):** But they called to their companion, and he took a sword in hand, and hamstrung (her).
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں نے اپنے رفیق کو بلایا اور اس نے (اونٹنی کو پکڑ کر اس کی) کونچیں کاٹ ڈالیں
 
 [Open on Quran.com](https://quran.com/54/29)
 

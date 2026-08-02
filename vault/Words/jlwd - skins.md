@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jld - jld]]
+- [[jld - strike beat]]
 
 ### Meaning
 **skins** · Lemma **جُلُود**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:56 · [[004 An-Nisa]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who disbelieve in Our verses - We will drive them into a fire. Every time their skins are roasted through, We will replace them with other skins so they may taste the punishment. Indeed, Allāh is ever Exalted in Might and Wise.
 
 **English (Yusuf Ali):** Those who reject our Signs, We shall soon cast into the Fire: as often as their skins are roasted through, We shall change them for fresh skins, that they may taste the penalty: for Allah is Exalted in Power, Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے ہماری آیتوں سے کفر کیا ان کو ہم عنقریب آگ میں داخل کریں گے جب ان کی کھالیں گل (اور جل) جائیں گی تو ہم اور کھالیں بدل دیں گے تاکہ (ہمیشہ) عذاب (کا مزہ چکھتے) رہیں بےشک خدا غالب حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/4/56)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is Allah Who made your habitations homes of rest and quiet for you; and made for you, out of the skins of animals, (tents for) dwellings, which ye find so light (and handy) when ye travel and when ye stop (in your travels); and out of their wool, and their soft fibres (between wool and hair), and their hair, rich stuff and articles of convenience (to serve you) for a time.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تمہارے لیے گھروں کو رہنے کی جگہ بنایا اور اُسی نے چوپایوں کی کھالوں سے تمہارے لیے ڈیرے بنائے۔ جن کو تم سبک دیکھ کر سفر اور حضر میں کام میں لاتے ہو اور اُن کی اون، پشم اور بالوں سے تم اسباب اور برتنے کی چیزیں (بناتے ہو جو) مدت تک (کام دیتی ہیں)
+
 [Open on Quran.com](https://quran.com/16/80)
 
 #### 22:20 · [[022 Al-Hajj]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** By which is melted that within their bellies and [their] skins.
 
 **English (Yusuf Ali):** With it will be scalded what is within their bodies, as well as (their) skins.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس سے ان کے پیٹ کے اندر کی چیزیں اور کھالیں گل جائیں گی
 
 [Open on Quran.com](https://quran.com/22/20)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah has revealed (from time to time) the most beautiful Message in the form of a Book, consistent with itself, (yet) repeating (its teaching in various aspects): the skins of those who fear their Lord tremble thereat; then their skins and their hearts do soften to the celebration of Allah's praises. Such is the guidance of Allah: He guides therewith whom He pleases, but such as Allah leaves to stray, can have none to guide.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے نہایت اچھی باتیں نازل فرمائی ہیں (یعنی) کتاب (جس کی آیتیں باہم) ملتی جلتی (ہیں) اور دہرائی جاتی (ہیں) جو لوگ اپنے پروردگار سے ڈرتے ہیں ان کے بدن کے (اس سے) رونگٹے کھڑے ہوجاتے ہیں۔ پھر ان کے بدن اور دل نرم (ہو کر) خدا کی یاد کی طرف (متوجہ) ہوجاتے ہیں۔ یہی خدا کی ہدایت ہے وہ اس سے جس کو چاہتا ہے ہدایت دیتا ہے۔ اور جس کو خدا گمراہ کرے اس کو کوئی ہدایت دینے والا نہیں
+
 [Open on Quran.com](https://quran.com/39/23)
 
 #### 41:20 · [[041 Fussilat]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Until, when they reach it, their hearing and their eyes and their skins will testify against them of what they used to do.
 
 **English (Yusuf Ali):** At length, when they reach the (Fire), their hearing, their sight, and their skins will bear witness against them, as to (all) their deeds.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ جب اس کے پاس پہنچ جائیں گے تو ان کے کان اور آنکھیں اور چمڑے (یعنی دوسرے اعضا) ان کے خلاف ان کے اعمال کی شہادت دیں گے
 
 [Open on Quran.com](https://quran.com/41/20)
 
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They will say to their skins: "Why bear ye witness against us?" They will say: "Allah hath given us speech,- (He) Who giveth speech to everything: He created you for the first time, and unto Him were ye to return.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ اپنے چمڑوں (یعنی اعضا) سے کہیں گے کہ تم نے ہمارے خلاف کیوں شہادت دی؟ وہ کہیں گے کہ جس خدا نے سب چیزوں کو نطق بخشا اسی نے ہم کو بھی گویائی دی اور اسی نے تم کو پہلی بار پیدا کیا تھا اور اسی کی طرف تم کو لوٹ کر جانا ہے
+
 [Open on Quran.com](https://quran.com/41/21)
 
 #### 41:22 · [[041 Fussilat]]
@@ -139,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And you were not covering [i.e., protecting] yourselves, lest your hearing testify against you or your sight or your skins, but you assumed that Allāh does not know much of what you do.
 
 **English (Yusuf Ali):** "Ye did not seek to hide yourselves, lest your hearing, your sight, and your skins should bear witness against you! But ye did think that Allah knew not many of the things that ye used to do!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم اس (بات کے خوف) سے تو پردہ نہیں کرتے تھے کہ تمہارے کان اور تمہاری آنکھیں اور چمڑے تمہارے خلاف شہادت دیں گے بلکہ تم یہ خیال کرتے تھے کہ خدا کو تمہارے بہت سے عملوں کی خبر ہی نہیں
 
 [Open on Quran.com](https://quran.com/41/22)
 

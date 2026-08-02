@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:20 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The lightning almost snatches away their sight. Every time it lights [the way] for them, they walk therein; but when darkness comes over them, they stand [still]. And if Allāh had willed, He could have taken away their hearing and their sight. Indeed, Allāh is over all things competent.
 
 **English (Yusuf Ali):** The lightning all but snatches away their sight; every time the light (Helps) them, they walk therein, and when the darkness grows on them, they stand still. And if Allah willed, He could take away their faculty of hearing and seeing; for Allah hath power over all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** قریب ہے کہ بجلی (کی چمک) ان کی آنکھوں (کی بصارت) کو اچک لے جائے۔ جب بجلی (چمکتی اور) ان پر روشنی ڈالی ہے تو اس میں چل پڑتے ہیں اور جب اندھیرا ہو جاتا ہے تو کھڑے کے کھڑے رہ جاتے ہیں اور اگر الله چاہتا تو ان کے کانوں (کی شنوائی) اور آنکھوں (کی بینائی دونوں) کو زائل کر دیتا ہے۔ بے شک الله ہر چیز پر قادر ہے
 
 [Open on Quran.com](https://quran.com/2/20)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who hath created for you all things that are on earth; Moreover His design comprehended the heavens, for He gave order and perfection to the seven firmaments; and of all things He hath perfect knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سب چیزیں جو زمین میں ہیں تمہارے لیے پیدا کیں پھر آسمان کی طرف متوجہ ہوا تو ان کو ٹھیک سات آسمان بنا دیا اور وہ ہر چیز سے خبردار ہے
+
 [Open on Quran.com](https://quran.com/2/29)
 
 #### 2:31 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He taught Adam the names - all of them. Then He showed them to the angels and said, "Inform Me of the names of these, if you are truthful."
 
 **English (Yusuf Ali):** And He taught Adam the names of all things; then He placed them before the angels, and said: "Tell me the names of these if ye are right."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس نے آدم کو سب (چیزوں کے) نام سکھائے پھر ان کو فرشتوں کے سامنے کیا اور فرمایا کہ اگر تم سچے ہو تو مجھے ان کے نام بتاؤ
 
 [Open on Quran.com](https://quran.com/2/31)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember Moses prayed for water for his people; We said: "Strike the rock with thy staff." Then gushed forth therefrom twelve springs. Each group knew its own place for water. So eat and drink of the sustenance provided by Allah, and do no evil nor mischief on the (face of the) earth.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لیے (خدا سے) پانی مانگا تو ہم نے کہا کہ اپنی لاٹھی پتھر پر مارو۔ (انہوں نے لاٹھی ماری) تو پھر اس میں سے بارہ چشمے پھوٹ نکلے، اور تمام لوگوں نے اپنا اپنا گھاٹ معلوم کر (کے پانی پی) لیا۔ (ہم نے حکم دیا کہ) خدا کی (عطا فرمائی ہوئی) روزی کھاؤ اور پیو، مگر زمین میں فساد نہ کرتے پھرنا
+
 [Open on Quran.com](https://quran.com/2/60)
 
 #### 2:106 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** We do not abrogate a verse or cause it to be forgotten except that We bring forth [one] better than it or similar to it. Do you not know that Allāh is over all things competent?
 
 **English (Yusuf Ali):** None of Our revelations do We abrogate or cause to be forgotten, but We substitute something better or similar: Knowest thou not that Allah Hath power over all things?
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم جس آیت کو منسوخ کر دیتے یا اسے فراموش کرا دیتے ہیں تو اس سے بہتر یا ویسی ہی اور آیت بھیج دیتے ہیں۔ کیا تم نہیں جانتے کہ خدا ہر بات پر قادر ہے
 
 [Open on Quran.com](https://quran.com/2/106)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Quite a number of the People of the Book wish they could Turn you (people) back to infidelity after ye have believed, from selfish envy, after the Truth hath become Manifest unto them: But forgive and overlook, Till Allah accomplish His purpose; for Allah Hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** بہت سے اہل کتاب اپنے دل کی جلن سے یہ چاہتے ہیں کہ ایمان لا چکنے کے بعد تم کو پھر کافر بنا دیں۔ حالانکہ ان پر حق ظاہر ہو چکا ہے۔ تو تم معاف کردو اور درگزر کرو۔ یہاں تک کہ خدا اپنا (دوسرا) حکم بھیجے۔ بے شک خدا ہر بات پر قادر ہے
+
 [Open on Quran.com](https://quran.com/2/109)
 
 #### 2:116 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They say, "Allāh has taken a son." Exalted is He! Rather, to Him belongs whatever is in the heavens and the earth. All are devoutly obedient to Him,
 
 **English (Yusuf Ali):** They say: "Allah hath begotten a son": Glory be to Him.-Nay, to Him belongs all that is in the heavens and on earth: everything renders worship to Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ اس بات کے قائل ہیں کہ خدا اولاد رکھتا ہے۔ (نہیں) وہ پاک ہے، بلکہ جو کچھ آسمانوں اور زمین میں ہے، سب اسی کا ہے اور سب اس کے فرماں بردار ہیں
 
 [Open on Quran.com](https://quran.com/2/116)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Even if thou wert to bring to the people of the Book all the Signs (together), they would not follow Thy Qibla; nor art thou going to follow their Qibla; nor indeed will they follow each other's Qibla. If thou after the knowledge hath reached thee, Wert to follow their (vain) desires,-then wert thou Indeed (clearly) in the wrong.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم ان اہلِ کتاب کے پاس تمام نشانیاں بھی لے کر آؤ، تو بھی یہ تمہارے قبلے کی پیروی نہ کریں۔ اور تم بھی ان کے قبلے کی پیروی کرنے والے نہیں ہو۔ اور ان میں سے بھی بعض بعض کے قبلے کے پیرو نہیں۔ اور اگر تم باوجود اس کے کہ تمہارے پاس دانش (یعنی وحئ خدا) آ چکی ہے، ان کی خواہشوں کے پیچھے چلو گے تو ظالموں میں (داخل) ہو جاؤ گے
+
 [Open on Quran.com](https://quran.com/2/145)
 
 #### 2:148 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To each is a goal to which Allah turns him; then strive together (as in a race) Towards all that is good. Wheresoever ye are, Allah will bring you Together. For Allah Hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہر ایک (فرقے) کے لیے ایک سمت (مقرر) ہے۔ جدھر وہ (عبادت کے وقت) منہ کیا کرتے ہیں۔ تو تم نیکیوں میں سبقت حاصل کرو۔ تم جہاں رہو گے خدا تم سب کو جمع کرلے گا۔ بے شک خدا ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/2/148)
 
 #### 2:164 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, in the creation of the heavens and the earth, and the alternation of the night and the day, and the [great] ships which sail through the sea with that which benefits people, and what Allāh has sent down from the heavens of rain, giving life thereby to the earth after its lifelessness and dispersing therein every [kind of] moving creature, and [His] directing of the winds and the clouds controlled between the heaven and earth are signs for a people who use reason.
 
 **English (Yusuf Ali):** Behold! in the creation of the heavens and the earth; in the alternation of the night and the day; in the sailing of the ships through the ocean for the profit of mankind; in the rain which Allah Sends down from the skies, and the life which He gives therewith to an earth that is dead; in the beasts of all kinds that He scatters through the earth; in the change of the winds, and the clouds which they Trail like their slaves between the sky and the earth;- (Here) indeed are Signs for a people that are wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** بےشک آسمانوں اور زمین کے پیدا کرنے میں اور رات اور دن کے ایک دوسرے کے پیچھے آنے جانے میں اور کشتیوں اور جہازوں میں جو دریا میں لوگوں کے فائدے کی چیزیں لے کر رواں ہیں اور مینہ میں جس کو خدا آسمان سے برساتا اور اس سے زمین کو مرنے کے بعد زندہ (یعنی خشک ہوئے پیچھے سرسبز) کردیتا ہے اور زمین پر ہر قسم کے جانور پھیلانے میں اور ہواؤں کے چلانےمیں اور بادلوں میں جو آسمان اور زمین کے درمیان گھرے رہتے ہیں۔ عقلمندوں کے لئے (خدا کی قدرت کی) نشانیاں ہیں
 
 [Open on Quran.com](https://quran.com/2/164)
 

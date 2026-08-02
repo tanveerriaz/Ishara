@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:245 · [[002 Al-Baqarah]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Who is it that would loan Allāh a goodly loan so He may multiply it for him many times over? And it is Allāh who withholds and grants abundance, and to Him you will be returned.
 
 **English (Yusuf Ali):** Who is he that will loan to Allah a beautiful loan, which Allah will double unto his credit and multiply many times? It is Allah that giveth (you) Want or plenty, and to Him shall be your return.
+
+**Urdu (Fatah Muhammad Jalandhari):** کوئی ہے کہ خدا کو قرض حسنہ دے کہ وہ اس کے بدلے اس کو کئی حصے زیادہ دے گا۔ اور خدا ہی روزی کو تنگ کرتا اور (وہی اسے) کشادہ کرتا ہے۔ اور تم اسی کی طرف لوٹ کر جاؤ گے
 
 [Open on Quran.com](https://quran.com/2/245)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And the likeness of those who spend their substance, seeking to please Allah and to strengthen their souls, is as a garden, high and fertile: heavy rain falls on it but makes it yield a double increase of harvest, and if it receives not Heavy rain, light moisture sufficeth it. Allah seeth well whatever ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا کی خوشنودی حاصل کرنے کے لئے خلوص نیت سے اپنا مال خرچ کرتے ہیں ان کی مثال ایک باغ کی سی ہے جو اونچی جگہ پر واقع ہو(جب) اس پر مینہ پڑے تو دگنا پھل لائے۔ اور اگر مینہ نہ بھی پڑے تو خیر پھوار ہی سہی اور خدا تمہارے کاموں کو دیکھ رہا ہے
+
 [Open on Quran.com](https://quran.com/2/265)
 
 #### 3:130 · [[003 Ali Imran]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not consume usury, doubled and multiplied, but fear Allāh that you may be successful.
 
 **English (Yusuf Ali):** O ye who believe! Devour not usury, doubled and multiplied; but fear Allah; that ye may (really) prosper.
+
+**Urdu (Fatah Muhammad Jalandhari):** اےایمان والو! دگنا چوگنا سود نہ کھاؤ اور خدا سے ڈرو تاکہ نجات حاصل کرو
 
 [Open on Quran.com](https://quran.com/3/130)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** How many of the prophets fought (in Allah's way), and with them (fought) Large bands of godly men? but they never lost heart if they met with disaster in Allah's way, nor did they weaken (in will) nor give in. And Allah Loves those who are firm and steadfast.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور بہت سے نبی ہوئے ہیں جن کے ساتھ ہو کر اکثر اہل الله (خدا کے دشمنوں سے) لڑے ہیں تو جو مصبتیں ان پر راہِ خدا میں واقع ہوئیں ان کے سبب انہوں نے نہ تو ہمت ہاری اور نہ بزدلی کی نہ (کافروں سے) دبے اور خدا استقلال رکھنے والوں کو دوست رکھتا ہے
+
 [Open on Quran.com](https://quran.com/3/146)
 
 #### 7:38 · [[007 Al-Araf]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Allāh] will say, "Enter among nations which had passed on before you of jinn and mankind into the Fire." Every time a nation enters, it will curse its sister until, when they have all overtaken one another therein, the last of them will say about the first of them, "Our Lord, these had misled us, so give them a double punishment of the Fire." He will say, "For each is double, but you do not know."
 
 **English (Yusuf Ali):** He will say: "Enter ye in the company of the peoples who passed away before you - men and jinns, - into the Fire." Every time a new people enters, it curses its sister-people (that went before), until they follow each other, all into the Fire. Saith the last about the first: "Our Lord! it is these that misled us: so give them a double penalty in the Fire." He will say: "Doubled for all": but this ye do not understand.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو خدا فرمائے گا کہ جنّوں اور انسانوں کی جو جماعتیں تم سے پہلے ہو گزری ہیں ان کے ساتھ تم بھی داخل جہنم ہو جاؤ۔ جب ایک جماعت (وہاں) جا داخل ہو گئی تو اپنی (مذہبی) بہن (یعنی اپنے جیسی دوسری جماعت) پر لعنت کرے گی۔ یہاں تک کہ جب سب اس میں داخل ہو جائیں گے تو پچھلی جماعت پہلی کی نسبت کہے گی کہ اے پروردگار! ان ہی لوگوں نے ہم کو گمراہ کیا تھا تو ان کو آتش جہنم کا دگنا عذاب دے۔ خدا فرمائے گا کہ (تم) سب کو دگنا (عذاب دیا جائے گا) مگر تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/7/38)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For the present, Allah hath lightened your (task), for He knoweth that there is a weak spot in you: But (even so), if there are a hundred of you, patient and persevering, they will vanquish two hundred, and if a thousand, they will vanquish two thousand, with the leave of Allah: for Allah is with those who patiently persevere.
 
+**Urdu (Fatah Muhammad Jalandhari):** اب خدا نے تم پر سے بوجھ ہلکا کر دیا اور معلوم کرلیا کہ (ابھی) تم میں کسی قدر کمزوری ہے۔ پس اگر تم میں ایک سو ثابت قدم رہنے والے ہوں گے تو دو سو پر غالب رہیں گے۔ اور اگر ایک ہزار ہوں گے تو خدا کے حکم سے دو ہزار پر غالب رہیں گے۔ اور خدا ثابت قدم رہنے والوں کا مدد گار ہے
+
 [Open on Quran.com](https://quran.com/8/66)
 
 #### 17:75 · [[017 Al-Isra]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then [if you had], We would have made you taste double [punishment in] life and double [after] death. Then you would not find for yourself against Us a helper.
 
 **English (Yusuf Ali):** In that case We should have made thee taste an equal portion (of punishment) in this life, and an equal portion in death: and moreover thou wouldst have found none to help thee against Us!
+
+**Urdu (Fatah Muhammad Jalandhari):** اس وقت ہم تم کو زندگی میں (عذاب کا) دونا اور مرنے پر بھی دونا مزا چکھاتے پھر تم ہمارے مقابلے میں کسی کو اپنا مددگار نہ پاتے
 
 [Open on Quran.com](https://quran.com/17/75)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O men! Here is a parable set forth! listen to it! Those on whom, besides Allah, ye call, cannot create (even) a fly, if they all met together for the purpose! and if the fly should snatch away anything from them, they would have no power to release it from the fly. Feeble are those who petition and those whom they petition!
 
+**Urdu (Fatah Muhammad Jalandhari):** لوگو! ایک مثال بیان کی جاتی ہے اسے غور سے سنو۔ کہ جن لوگوں کو تم خدا کے سوا پکارتے ہو وہ ایک مکھی بھی نہیں بنا سکتے اگرچہ اس کے لئے سب مجتمع ہوجائیں۔ اور اگر ان سے مکھی کوئی چیز لے جائے تو اسے اس سے چھڑا نہیں سکتے۔ طالب اور مطلوب (یعنی عابد اور معبود دونوں) گئے گزرے ہیں
+
 [Open on Quran.com](https://quran.com/22/73)
 
 #### 30:54 · [[030 Ar-Rum]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is Allah Who created you in a state of (helpless) weakness, then gave (you) strength after weakness, then, after strength, gave (you weakness and a hoary head: He creates as He wills, and it is He Who has all knowledge and power.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے تم کو (ابتدا میں) کمزور حالت میں پیدا کیا پھر کمزوری کے بعد طاقت عنایت کی پھر طاقت کے بعد کمزوری اور بڑھاپا دیا۔ وہ جو چاہتا ہے پیدا کرتا ہے اور وہ صاحب دانش اور صاحب قدرت ہے
+
 [Open on Quran.com](https://quran.com/30/54)
 
 #### 33:30 · [[033 Al-Ahzab]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O wives of the Prophet, whoever of you should commit a clear immorality - for her the punishment would be doubled two fold, and ever is that, for Allāh, easy.
 
 **English (Yusuf Ali):** O Consorts of the Prophet! If any of you were guilty of evident unseemly conduct, the Punishment would be doubled to her, and that is easy for Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر کی بیویو تم میں سے جو کوئی صریح ناشائستہ (الفاظ کہہ کر رسول الله کو ایذا دینے کی) حرکت کرے گی۔ اس کو دونی سزا دی جائے گی۔ اور یہ (بات) خدا کو آسان ہے
 
 [Open on Quran.com](https://quran.com/33/30)
 

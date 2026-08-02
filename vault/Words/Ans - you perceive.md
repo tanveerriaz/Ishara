@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>ns - ans]]
+- [[>ns - mankind]]
 
 ### Meaning
 **you perceive** · Lemma **آنَسَ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:6 · [[004 An-Nisa]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And test the orphans [in their abilities] until they reach marriageable age. Then if you perceive in them sound judgement, release their property to them. And do not consume it excessively and quickly, [anticipating] that they will grow up. And whoever, [when acting as guardian], is self-sufficient should refrain [from taking a fee]; and whoever is poor - let him take according to what is acceptable. Then when you release their property to them, bring witnesses upon them. And sufficient is Allāh as Accountant.
 
 **English (Yusuf Ali):** Make trial of orphans until they reach the age of marriage; if then ye find sound judgment in them, release their property to them; but consume it not wastefully, nor in haste against their growing up. If the guardian is well-off, Let him claim no remuneration, but if he is poor, let him have for himself what is just and reasonable. When ye release their property to them, take witnesses in their presence: But all-sufficient is Allah in taking account.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یتمیوں کو بالغ ہونے تک کام کاج میں مصروف رکھو پھر (بالغ ہونے پر) اگر ان میں عقل کی پختگی دیکھو تو ان کا مال ان کے حوالے کردو اور اس خوف سے کہ وہ بڑے ہوجائیں گے (یعنی بڑے ہو کر تم سے اپنا مال واپس لے لیں گے) اس کو فضول خرچی اور جلدی میں نہ اڑا دینا۔ جو شخص آسودہ حال ہو اس کو (ایسے مال سے قطعی طور پر) پرہیز رکھنا چاہیئے اور جو بے مقدور ہو وہ مناسب طور پر (یعنی بقدر خدمت) کچھ لے لے اور جب ان کا مال ان کے حوالے کرنے لگو تو گواہ کرلیا کرو۔ اور حقیقت میں تو خدا ہی (گواہ اور) حساب لینے والا کافی ہے
 
 [Open on Quran.com](https://quran.com/4/6)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold, he saw a fire: So he said to his family, "Tarry ye; I perceive a fire; perhaps I can bring you some burning brand therefrom, or find some guidance at the fire."
 
+**Urdu (Fatah Muhammad Jalandhari):** جب انہوں نے آگ دیکھی تو اپنے گھر والوں سے کہا کہ تم (یہاں) ٹھہرو میں نے آگ دیکھی ہے (میں وہاں جاتا ہوں) شاید اس میں سے میں تمہارے پاس انگاری لاؤں یا آگ (کے مقام) کا رستہ معلوم کرسکوں
+
 [Open on Quran.com](https://quran.com/20/10)
 
 #### 27:7 · [[027 An-Naml]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! Moses said to his family: "I perceive a fire; soon will I bring you from there some information, or I will bring you a burning brand to light our fuel, that ye may warm yourselves.
 
+**Urdu (Fatah Muhammad Jalandhari):** جب موسیٰ نے اپنے گھر والوں سے کہا کہ میں نے آگ دیکھی ہے، میں وہاں سے (رستے) کا پتہ لاتا ہوں یا سلگتا ہوا انگارہ تمہارے پاس لاتا ہوں تاکہ تم تاپو
+
 [Open on Quran.com](https://quran.com/27/7)
 
 #### 28:29 · [[028 Al-Qasas]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when Moses had completed the term and was traveling with his family, he perceived from the direction of the mount a fire. He said to his family, "Stay here; indeed, I have perceived a fire. Perhaps I will bring you from there [some] information or burning wood from the fire that you may warm yourselves."
 
 **English (Yusuf Ali):** Now when Moses had fulfilled the term, and was travelling with his family, he perceived a fire in the direction of Mount Tur. He said to his family: "Tarry ye; I perceive a fire; I hope to bring you from there some information, or a burning firebrand, that ye may warm yourselves."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب موسٰی نے مدت پوری کردی اور اپنے گھر کے لوگوں کو لے کر چلے تو طور کی طرف سے آگ دکھائی دی تو اپنے گھر والوں سے کہنے لگے کہ تم یہاں ٹھیرو۔ مجھے آگ نظر آئی ہے شاید میں وہاں سے (رستے کا) کچھ پتہ لاؤں یا آگ کا انگارہ لے آؤں تاکہ تم تاپو
 
 [Open on Quran.com](https://quran.com/28/29)
 

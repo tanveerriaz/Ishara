@@ -14,59 +14,59 @@ The Sundering · 25 ayahs
 
 ## Words in this surah (graph)
 
-- [[kAn - is]] — `كانَ` · is
-- [[Tbq - stage]] — `طَبَق` · stage
-- [[dEA - call]] — `دَعا` · call
-- [[>*n - ears]] — `أُذُن` · ears
-- [[>lqY - throw]] — `أَلْقَى` · throw
-- [[lyl - night]] — `لَيْل` · night
-- [[allah - God]] — `الله` · God
-- [[qr> - read]] — `قَرَأَ` · read
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
 - [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[mmnwn - ending]] — `مَمْنُون` · ending
-- [[sjd - prostrate]] — `سَجَدَ` · prostrate
-- [[ysyr - easy]] — `يَسِير` · easy
-- [[bSyr - all-seer]] — `بَصِير` · all-seer
-- [[>lym - painful]] — `أَلِيم` · painful
+- [[>Elm - knowing]] — `أَعْلَم` · knowing
 - [[b$r - man]] — `بُشِّرَ` · man
-- [[Eml - do]] — `عَمِلَ` · do
+- [[AtY - give]] — `آتَى` · give
+- [[>rD - earth]] — `أَرْض` · earth
+- [[dEA - call]] — `دَعا` · call
+- [[Amn - believe]] — `آمَنَ` · believe
 - [[qmr - moon]] — `قَمَر` · moon
-- [[Zhr - backs]] — `ظَهْر` · backs
-- [[gyr - without]] — `غَيْر` · without
-- [[>jr - reward]] — `أَجْر` · reward
-- [[>hl - people]] — `أَهْل` · people
+- [[rb - lord]] — `رَبّ` · lord
+- [[qr> - read]] — `قَرَأَ` · read
+- [[ysyr - easy]] — `يَسِير` · easy
+- [[<nsAn - man]] — `إِنسان` · man
+- [[>y - o you]] — `أَيّ` · o you
+- [[sjd - prostrate]] — `سَجَدَ` · prostrate
+- [[md - spread]] — `مَدَّ` · spread
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[ymyn - oaths]] — `يَمِين` · oaths
 - [[HsAb - account]] — `حِساب` · account
+- [[Hq - truth]] — `حَقّ` · truth
+- [[rkb - embark]] — `رَكْب` · embark
+- [[mmnwn - ending]] — `مَمْنُون` · ending
+- [[lyl - night]] — `لَيْل` · night
+- [[>hl - people]] — `أَهْل` · people
+- [[Zn - assumption]] — `ظَنَّ` · assumption
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
 
 ## Roots
 
-- [[$fq - shfq]]
+- [[$fq - fear]]
 - [[$qq - cleave]]
-- [[>*n - adhn]]
+- [[>*n - ear]]
 - [[>hl - people house]]
-- [[>jr - ajr]]
-- [[>lm - alm]]
-- [[>mn - amn]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>jr - recompensing rewarding someone]]
+- [[>lm - painful]]
+- [[>mn - believe]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
 - [[>yy - ism]]
-- [[E*b - edhb]]
+- [[E*b - motes particles floating]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Hqq - established as true]]
 - [[Hsb - number]]
 - [[Hwr - returning circling]]
-- [[SlH - slh]]
-- [[Sly - sly]]
+- [[SlH - make something good]]
+- [[Sly - exposed fire heat]]
 - [[Tbq - thing equal another]]
 - [[Zhr - back]]
 - [[Znn - think]]
 - [[allah - God]]
 - [[b$r - strip pare something]]
-- [[bSr - bsr]]
+- [[bSr - mental perception]]
 - [[dEw - call]]
 - [[gyr - ghayr]]
 - [[k*b - denied]]
@@ -74,15 +74,15 @@ The Sundering · 25 ayahs
 - [[ktb - book]]
 - [[kwn - is]]
 - [[lqy - meeting]]
-- [[lyl - layl]]
+- [[lyl - night]]
 - [[mdd - spread]]
 - [[mnn - cut break something]]
-- [[qlb - qlb]]
-- [[qmr - qmr]]
+- [[qlb - alter]]
+- [[qmr - contend stakes wagers]]
 - [[qr> - someone teaches others]]
 - [[qsm - division apportionment things]]
 - [[rbb - Lord]]
-- [[rkb - rkb]]
+- [[rkb - ride mount something]]
 - [[sEr - kindle stir fire]]
 - [[sjd - humble]]
 - [[smw - name]]
@@ -90,8 +90,8 @@ The Sundering · 25 ayahs
 - [[vbr - confine]]
 - [[wEy - understand]]
 - [[wry - conceal hide something]]
-- [[xlw - khlw]]
-- [[ymn - ymn]]
+- [[xlw - empty]]
+- [[ymn - right side south]]
 
 ## Sample (ayah 1)
 

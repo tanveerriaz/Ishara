@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 
 ### Meaning
 **shaitaan** · Lemma **شَيْطان**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:14 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they meet those who believe, they say, "We believe"; but when they are alone with their evil ones, they say, "Indeed, we are with you; we were only mockers."
 
 **English (Yusuf Ali):** When they meet those who believe, they say: "We believe;" but when they are alone with their evil ones, they say: "We are really with you: We (were) only jesting."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ جب مومنوں سے ملتے ہیں تو کہتے ہیں کہ ہم ایمان لے آئے ہیں، اور جب اپنے شیطانوں میں جاتے ہیں تو (ان سے) کہتے ہیں کہ ہم تمھارے ساتھ ہیں اور (پیروانِ محمدﷺ سے) تو ہم ہنسی کیا کرتے ہیں
 
 [Open on Quran.com](https://quran.com/2/14)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then did Satan make them slip from the (garden), and get them out of the state (of felicity) in which they had been. We said: "Get ye down, all (ye people), with enmity between yourselves. On earth will be your dwelling-place and your means of livelihood - for a time."
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر شیطان نے دونوں کو وہاں سے پھسلا دیا اور جس (عیش ونشاط) میں تھے، اس سے ان کو نکلوا دیا۔ تب ہم نے حکم دیا کہ (بہشت بریں سے) چلے جاؤ۔ تم ایک دوسرے کے دشمن ہو، اور تمہارے لیے زمین میں ایک وقت تک ٹھکانا اور معاش (مقرر کر دیا گیا) ہے
+
 [Open on Quran.com](https://quran.com/2/36)
 
 #### 2:102 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Hārūt and Mārūt. But they [i.e., the two angels] do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allāh. And they [i.e., people] learn what harms them and does not benefit them. But they [i.e., the Children of Israel] certainly knew that whoever purchased it [i.e., magic] would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.
 
 **English (Yusuf Ali):** They followed what the evil ones gave out (falsely) against the power of Solomon: the blasphemers Were, not Solomon, but the evil ones, teaching men Magic, and such things as came down at babylon to the angels Harut and Marut. But neither of these taught anyone (Such things) without saying: "We are only for trial; so do not blaspheme." They learned from them the means to sow discord between man and wife. But they could not thus harm anyone except by Allah's permission. And they learned what harmed them, not what profited them. And they knew that the buyers of (magic) would have no share in the happiness of the Hereafter. And vile was the price for which they did sell their souls, if they but knew!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
 
 [Open on Quran.com](https://quran.com/2/102)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye people! Eat of what is on earth, Lawful and good; and do not follow the footsteps of the evil one, for he is to you an avowed enemy.
 
+**Urdu (Fatah Muhammad Jalandhari):** لوگو جو چیزیں زمین میں حلال طیب ہیں وہ کھاؤ۔ اور شیطان کے قدموں پر نہ چلو۔ وہ تمہارا کھلا دشمن ہے
+
 [Open on Quran.com](https://quran.com/2/168)
 
 #### 2:208 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, enter into Islām completely [and perfectly] and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.
 
 **English (Yusuf Ali):** O ye who believe! Enter into Islam whole-heartedly; and follow not the footsteps of the evil one; for he is to you an avowed enemy.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اسلام میں پورے پورے داخل ہوجاؤ اور شیطان کے پیچھے نہ چلو وہ تو تمہارا صریح دشمن ہے
 
 [Open on Quran.com](https://quran.com/2/208)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Evil one threatens you with poverty and bids you to conduct unseemly. Allah promiseth you His forgiveness and bounties. And Allah careth for all and He knoweth all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اور دیکھنا) شیطان (کا کہنا نہ ماننا وہ) تمہیں تنگ دستی کا خوف دلاتا اور بےحیائی کے کام کر نے کو کہتا ہے۔ اور خدا تم سے اپنی بخشش اور رحمت کا وعدہ کرتا ہے۔ اور خدا بڑی کشائش والا (اور) سب کچھ جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/2/268)
 
 #### 2:275 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who consume interest cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, "Trade is [just] like interest." But Allāh has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair rests with Allāh. But whoever returns [to dealing in interest or usury] - those are the companions of the Fire; they will abide eternally therein.
 
 **English (Yusuf Ali):** Those who devour usury will not stand except as stand one whom the Evil one by his touch Hath driven to madness. That is because they say: "Trade is like usury," but Allah hath permitted trade and forbidden usury. Those who after receiving direction from their Lord, desist, shall be pardoned for the past; their case is for Allah (to judge); but those who repeat (The offence) are companions of the Fire: They will abide therein (for ever).
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ سود کھاتے ہیں وہ (قبروں سے) اس طرح (حواس باختہ) اٹھیں گے جیسے کسی کو جن نے لپٹ کر دیوانہ بنا دیا ہو یہ اس لئے کہ وہ کہتے ہیں کہ سودا بیچنا بھی تو (نفع کے لحاظ سے) ویسا ہی ہے جیسے سود (لینا) حالانکہ سودے کو خدا نے حلال کیا ہے اور سود کو حرام۔ تو جس شخص کے پاس خدا کی نصیحت پہنچی اور وہ (سود لینے سے) باز آگیا تو جو پہلے ہوچکا وہ اس کا۔ اور (قیامت میں) اس کا معاملہ خدا کے سپرد اور جو پھر لینے لگا تو ایسے لوگ دوزخی ہیں کہ ہمیشہ دوزخ میں (جلتے) رہیں گے
 
 [Open on Quran.com](https://quran.com/2/275)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When she was delivered, she said: "O my Lord! Behold! I am delivered of a female child!"- and Allah knew best what she brought forth- "And no wise is the male Like the female. I have named her Mary, and I commend her and her offspring to Thy protection from the Evil One, the Rejected."
 
+**Urdu (Fatah Muhammad Jalandhari):** جب ان کے ہاں بچہ پیدا ہوا اور جو کچھ ان کے ہاں پیدا ہوا تھا خدا کو خوب معلوم تھا تو کہنے لگیں کہ پروردگار! میرے تو لڑکی ہوئی ہے اور (نذر کے لیے) لڑکا (موزوں تھا کہ وہ) لڑکی کی طرح (ناتواں) نہیں ہوتا اور میں نے اس کا نام مریم رکھا ہے اور میں اس کو اور اس کی اولاد کو شیطان مردود سے تیری پناہ میں دیتی ہوں
+
 [Open on Quran.com](https://quran.com/3/36)
 
 #### 3:155 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those of you who turned back on the day the two hosts Met,-it was Satan who caused them to fail, because of some (evil) they had done. But Allah Has blotted out (their fault): For Allah is Oft-Forgiving, Most Forbearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ تم میں سے (اُحد کے دن) جبکہ (مومنوں اور کافروں کی) دو جماعتیں ایک دوسرے سے گتھ گئیں (جنگ سے) بھاگ گئے تو ان کے بعض افعال کے سبب شیطان نے ان کو پھسلا دیا مگر خدا نے ان کا قصور معاف کر دیا بےشک خدا بخشنے والا اور بردبار ہے
+
 [Open on Quran.com](https://quran.com/3/155)
 
 #### 3:175 · [[003 Ali Imran]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** That is only Satan who frightens [you] of his supporters. So fear them not, but fear Me, if you are [indeed] believers.
 
 **English (Yusuf Ali):** It is only the Evil One that suggests to you the fear of his votaries: Be ye not afraid of them, but fear Me, if ye have Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ (خوف دلانے والا) تو شیطان ہے جو اپنے دوستوں سے ڈراتا ہے تو اگر تم مومن ہو تو ان سے مت ڈرنا اور مجھ ہی سے ڈرتے رہنا
 
 [Open on Quran.com](https://quran.com/3/175)
 

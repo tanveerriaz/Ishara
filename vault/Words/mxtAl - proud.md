@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xyl - khyl]]
+- [[xyl - imaging fancying something]]
 
 ### Meaning
 **proud** · Lemma **مُخْتال**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:36 · [[004 An-Nisa]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Worship Allāh and associate nothing with Him, and to parents do good, and to relatives, orphans, the needy, the near neighbor, the neighbor farther away, the companion at your side, the traveler, and those whom your right hands possess. Indeed, Allāh does not like those who are self-deluding and boastful,
 
 **English (Yusuf Ali):** Serve Allah, and join not any partners with Him; and do good- to parents, kinsfolk, orphans, those in need, neighbours who are near, neighbours who are strangers, the companion by your side, the wayfarer (ye meet), and what your right hands possess: For Allah loveth not the arrogant, the vainglorious;-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی کی عبادت کرو اور اس کے ساتھ کسی چیز کو شریک نہ بناؤ اور ماں باپ اور قرابت والوں اور یتیموں اور محتاجوں اور رشتہ دار ہمسائیوں اور اجنبی ہمسائیوں اور رفقائے پہلو (یعنی پاس بیٹھنے والوں) اور مسافروں اور جو لوگ تمہارے قبضے میں ہوں سب کے ساتھ احسان کرو کہ خدا (احسان کرنے والوں کو دوست رکھتا ہے اور) تکبر کرنے والے بڑائی مارنے والے کو دوست نہیں رکھتا
 
 [Open on Quran.com](https://quran.com/4/36)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And swell not thy cheek (for pride) at men, nor walk in insolence through the earth; for Allah loveth not any arrogant boaster.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (ازراہ غرور) لوگوں سے گال نہ پھلانا اور زمین میں اکڑ کر نہ چلنا۔ کہ خدا کسی اترانے والے خود پسند کو پسند نہیں کرتا
+
 [Open on Quran.com](https://quran.com/31/18)
 
 #### 57:23 · [[057 Al-Hadid]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** In order that you not despair over what has eluded you and not exult [in pride] over what He has given you. And Allāh does not like everyone self-deluded and boastful -
 
 **English (Yusuf Ali):** In order that ye may not despair over matters that pass you by, nor exult over favours bestowed upon you. For Allah loveth not any vainglorious boaster,-
+
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ جو (مطلب) تم سے فوت ہوگیا ہو اس کا غم نہ کھایا کرو اور جو تم کو اس نے دیا ہو اس پر اترایا نہ کرو۔ اور خدا کسی اترانے اور شیخی بگھارنے والے کو دوست نہیں رکھتا
 
 [Open on Quran.com](https://quran.com/57/23)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:146 · [[006 Al-Anam]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And to those who are Jews We prohibited every animal of uncloven hoof; and of the cattle and the sheep We prohibited to them their fat, except what adheres to their backs or the entrails or what is joined with bone. [By] that We repaid them for their transgression. And indeed, We are truthful.
 
 **English (Yusuf Ali):** For those who followed the Jewish Law, We forbade every (animal) with undivided hoof, and We forbade them that fat of the ox and the sheep, except what adheres to their backs or their entrails, or is mixed up with a bone: this in recompense for their wilful disobedience: for We are true (in Our ordinances).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہودیوں پر ہم نے سب ناخن والے جانور حرام کر دئیے تھے اور گایوں اور بکریوں سے ان کی چربی حرام کر دی تھی سوا اس کے جو ان کی پیٹھ پر لگی ہو یا اوجھڑی میں ہو یا ہڈی میں ملی ہو یہ سزا ہم نے ان کو ان کی شرارت کے سبب دی تھی اور ہم تو سچ کہنے والے ہیں
 
 [Open on Quran.com](https://quran.com/6/146)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And know that out of all the booty that ye may acquire (in war), a fifth share is assigned to Allah,- and to the Messenger, and to near relatives, orphans, the needy, and the wayfarer,- if ye do believe in Allah and in the revelation We sent down to Our servant on the Day of Testing,- the Day of the meeting of the two forces. For Allah hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جان رکھو کہ جو چیز تم (کفار سے) لوٹ کر لاؤ اس میں سے پانچواں حصہ خدا کا اور اس کے رسول کا اور اہل قرابت کا اور یتیموں کا اور محتاجوں کا اور مسافروں کا ہے۔ اگر تم خدا پر اور اس (نصرت) پر ایمان رکھتے ہو جو (حق وباطل میں) فرق کرنے کے دن (یعنی جنگ بدر میں) جس دن دونوں فوجوں میں مڈھ بھیڑ ہوگئی۔ اپنے بندے (محمدﷺ) پر نازل فرمائی۔ اور خدا ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/8/41)
 
 #### 8:69 · [[008 Al-Anfal]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So consume what you have taken of war booty [as being] lawful and good, and fear Allāh. Indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** But (now) enjoy what ye took in war, lawful and good: but fear Allah: for Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جو مالِ غنیمت تمہیں ملا ہے اسے کھاؤ (کہ وہ تمہارے لیے) حلال طیب رہے اور خدا سے ڈرتے رہو۔ بےشک خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/8/69)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He said, "It is my rod: on it I lean; with it I beat down fodder for my flocks; and in it I find other uses."
 
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا یہ میری لاٹھی ہے۔ اس پر میں سہارا لگاتا ہوں اور اس سے اپنی بکریوں کے لئے پتے جھاڑتا ہوں اور اس میں میرے لئے اور بھی کئی فائدے ہیں
+
 [Open on Quran.com](https://quran.com/20/18)
 
 #### 21:78 · [[021 Al-Anbya]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention] David and Solomon, when they judged concerning the field - when the sheep of a people overran it [at night], and We were witness to their judgement.
 
 **English (Yusuf Ali):** And remember David and Solomon, when they gave judgment in the matter of the field into which the sheep of certain people had strayed by night: We did witness their judgment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور داؤد اور سلیمان (کا حال بھی سن لو کہ) جب وہ ایک کھیتی کا مقدمہ فیصلہ کرنے لگے جس میں کچھ لوگوں کی بکریاں رات کو چر گئی (اور اسے روند گئی) تھیں اور ہم ان کے فیصلے کے وقت موجود تھے
 
 [Open on Quran.com](https://quran.com/21/78)
 

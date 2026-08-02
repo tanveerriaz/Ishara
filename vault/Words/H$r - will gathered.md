@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[H$r - hshr]]
+- [[H$r - gather collect people]]
 
 ### Meaning
 **will gathered** · Lemma **حَشَرَ**
@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:203 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And remember Allāh during [specific] numbered days. Then whoever hastens [his departure] in two days - there is no sin upon him; and whoever delays [until the third] - there is no sin upon him - for him who fears Allāh. And fear Allāh and know that unto Him you will be gathered.
 
 **English (Yusuf Ali):** Celebrate the praises of Allah during the Appointed Days. But if any one hastens to leave in two days, there is no blame on him, and if any one stays on, there is no blame on him, if his aim is to do right. Then fear Allah, and know that ye will surely be gathered unto Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (قیام منیٰ کے) دنوں میں (جو) گنتی کے (دن میں) خدا کو یاد کرو۔ اگر کوئی جلدی کرے (اور) دو ہی دن میں (چل دے) تو اس پر بھی کچھ گناہ نہیں۔ اور جو بعد تک ٹھہرا رہے اس پر بھی کچھ گناہ نہیں۔ یہ باتیں اس شخص کے لئے ہیں جو (خدا سے) ڈرے اور تم لوگ خدا سے ڈرتے رہو اور جان رکھو کہ تم سب اس کے پاس جمع کئے جاؤ گے۔
 
 [Open on Quran.com](https://quran.com/2/203)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say to those who reject Faith: "Soon will ye be vanquished and gathered together to Hell,-an evil bed indeed (to lie on)!
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) کافروں سے کہدو کہ تم (دنیا میں بھی) عنقریب مغلوب ہو جاؤ گے اور (آخرت میں) جہنم کی طرف ہانکے جاؤ گے اور وہ بری جگہ ہے
+
 [Open on Quran.com](https://quran.com/3/12)
 
 #### 3:158 · [[003 Ali Imran]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whether you die or are killed, unto Allāh you will be gathered.
 
 **English (Yusuf Ali):** And if ye die, or are slain, Lo! it is unto Allah that ye are brought together.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم مرجاؤ یا مارے جاؤ خدا کے حضور میں ضرور اکھٹے کئے جاؤ گے
 
 [Open on Quran.com](https://quran.com/3/158)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Christ disdaineth nor to serve and worship Allah, nor do the angels, those nearest (to Allah): those who disdain His worship and are arrogant,-He will gather them all together unto Himself to (answer).
 
+**Urdu (Fatah Muhammad Jalandhari):** مسیح اس بات سے عار نہیں رکھتے کہ خدا کے بندے ہوں اور نہ مقرب فرشتے (عار رکھتے ہیں) اور جو شخص خدا کا بندہ ہونے کو موجب عار سمجھے اور سرکشی کرے تو خدا سب کو اپنے پاس جمع کرلے گا
+
 [Open on Quran.com](https://quran.com/4/172)
 
 #### 5:96 · [[005 Al-Maidah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Lawful to you is game from the sea and its food as provision for you and the travelers, but forbidden to you is game from the land as long as you are in the state of iḥrām. And fear Allāh to whom you will be gathered.
 
 **English (Yusuf Ali):** Lawful to you is the pursuit of water-game and its use for food,- for the benefit of yourselves and those who travel; but forbidden is the pursuit of land-game;- as long as ye are in the sacred precincts or in pilgrim garb. And fear Allah, to Whom ye shall be gathered back.
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہارے لیے دریا (کی چیزوں) کا شکار اور ان کا کھانا حلال کر دیا گیا ہے (یعنی) تمہارے اور مسافروں کے فائدے کے لیے اور جنگل (کی چیزوں) کا شکار جب تک تم احرام کی حالت میں رہو تم پر حرام ہے اور خدا سے جس کے پاس تم (سب) جمع کئے جاؤ گے ڈرتے رہو
 
 [Open on Quran.com](https://quran.com/5/96)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** One day shall We gather them all together: We shall say to those who ascribed partners (to Us): "Where are the partners whom ye (invented and) talked about?"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن ہم سب لوگوں کو جمع کریں گے پھر مشرکوں سے پوچھیں گے کہ (آج) وہ تمہارے شریک کہاں ہیں جن کو تمہیں دعویٰ تھا
+
 [Open on Quran.com](https://quran.com/6/22)
 
 #### 6:38 · [[006 Al-Anam]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And there is no creature on [or within] the earth or bird that flies with its wings except [that they are] communities like you. We have not neglected in the Register a thing. Then unto their Lord they will be gathered.
 
 **English (Yusuf Ali):** There is not an animal (that lives) on the earth, nor a being that flies on its wings, but (forms part of) communities like you. Nothing have we omitted from the Book, and they (all) shall be gathered to their Lord in the end.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور زمین میں جو چلنے پھرنے والا (حیوان) یا دو پروں سے اڑنے والا جانور ہے ان کی بھی تم لوگوں کی طرح جماعتیں ہیں۔ ہم نے کتاب (یعنی لوح محفوظ) میں کسی چیز (کے لکھنے) میں کوتاہی نہیں کی پھر سب اپنے پروردگار کی طرف جمع کئے جائیں گے
 
 [Open on Quran.com](https://quran.com/6/38)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Give this warning to those in whose (hearts) is the fear that they will be brought (to judgment) before their Lord: except for Him they will have no protector nor intercessor: that they may guard (against evil).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ جو خوف رکھتے ہیں کہ اپنے پروردگار کے روبرو حاضر کئے جائیں گے (اور جانتے ہیں کہ) اس کے سوا نہ تو ان کا کوئی دوست ہوگا اور نہ سفارش کرنے والا، ان کو اس (قرآن) کے ذریعے سے نصیحت کر دو تاکہ پرہیزگار بنیں
+
 [Open on Quran.com](https://quran.com/6/51)
 
 #### 6:72 · [[006 Al-Anam]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "To establish regular prayers and to fear Allah: for it is to Him that we shall be gathered together."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ (بھی) کہ نماز پڑھتے رہو اور اس سے ڈرتے رہو۔ اور وہی تو ہے جس کے پاس تم جمع کئے جاؤ گے
+
 [Open on Quran.com](https://quran.com/6/72)
 
 #### 6:111 · [[006 Al-Anam]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And even if We had sent down to them the angels [with the message] and the dead spoke to them [of it] and We gathered together every [created] thing in front of them, they would not believe unless Allāh should will. But most of them, [of that], are ignorant.
 
 **English (Yusuf Ali):** Even if We did send unto them angels, and the dead did speak unto them, and We gathered together all things before their very eyes, they are not the ones to believe, unless it is in Allah's plan. But most of them ignore (the truth).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم ان پر فرشتے بھی اتار دیتے اور مردے بھی ان سے گفتگو کرنے لگتے اور ہم سب چیزوں کو ان کے سامنے لا موجود بھی کر دیتے تو بھی یہ ایمان لانے والے نہ تھے اِلّا ماشائالله بات یہ ہے کہ یہ اکثر نادان ہیں
 
 [Open on Quran.com](https://quran.com/6/111)
 

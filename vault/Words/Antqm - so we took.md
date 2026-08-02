@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nqm - nqm]]
+- [[nqm - take vengeance inflict]]
 
 ### Meaning
 **so we took** · Lemma **انتَقَمْ**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 5:95 · [[005 Al-Maidah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not kill game while you are in the state of iḥrām. And whoever of you kills it intentionally - the penalty is an equivalent from sacrificial animals to what he killed, as judged by two just men among you as an offering [to Allāh] delivered to the Kaʿbah, or an expiation: the feeding of needy people or the equivalent of that in fasting, that he may taste the consequence of his matter [i.e., deed]. Allāh has pardoned what is past; but whoever returns [to violation], then Allāh will take retribution from him. And Allāh is Exalted in Might and Owner of Retribution.
 
 **English (Yusuf Ali):** O ye who believe! Kill not game while in the sacred precincts or in pilgrim garb. If any of you doth so intentionally, the compensation is an offering, brought to the Ka'ba, of a domestic animal equivalent to the one he killed, as adjudged by two just men among you; or by way of atonement, the feeding of the indigent; or its equivalent in fasts: that he may taste of the penalty of his deed. Allah forgives what is past: for repetition Allah will exact from him the penalty. For Allah is Exalted, and Lord of Retribution.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم احرام کی حالت میں ہو تو شکار نہ مارنا اور جو تم میں سے جان بوجھ کر اسے مارے تو (یا تو اس کا) بدلہ (دے اور وہ یہ ہے کہ) اسی طرح کا چارپایہ جسے تم میں دو معتبر شخص مقرر کردیں قربانی (کرے اور یہ قربانی) کعبے پہنچائی جائے یا کفارہ (دے اور وہ) مسکینوں کو کھانا کھلانا (ہے) یا اس کے برابر روزے رکھے تاکہ اپنے کام کی سزا (کا مزہ) چکھے (اور) جو پہلے ہو چکا وہ خدا نے معاف کر دیا اور جو پھر (ایسا کام) کرے گا تو خدا اس سے انتقام لے گا اور خدا غالب اور انتقام لینے والا ہے
 
 [Open on Quran.com](https://quran.com/5/95)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So We exacted retribution from them: We drowned them in the sea, because they rejected Our Signs and failed to take warning from them.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان سے بدلہ لے کر ہی چھوڑا کہ ان کو دریا میں ڈبو دیا اس لیے کہ وہ ہماری آیتوں کو جھٹلاتے اور ان سے بےپروائی کرتے تھے
+
 [Open on Quran.com](https://quran.com/7/136)
 
 #### 15:79 · [[015 Al-Hijr]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So We took retribution from them, and indeed, both [cities] are on a clear highway.
 
 **English (Yusuf Ali):** So We exacted retribution from them. They were both on an open highway, plain to see.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان سے بھی بدلہ لیا۔ اور یہ دونوں شہر کھلے رستے پر (موجود) ہیں
 
 [Open on Quran.com](https://quran.com/15/79)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We did indeed send, before thee, messengers to their (respective) peoples, and they came to them with Clear Signs: then, to those who transgressed, We meted out Retribution: and it was due from Us to aid those who believed.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تم سے پہلے بھی پیغمبر ان کی قوم کی طرف بھیجے تو وہ اُن کے پاس نشانیاں لےکر آئے سو جو لوگ نافرمانی کرتے تھے ہم نے اُن سے بدلہ لےکر چھوڑا اور مومنوں کی مدد ہم پر لازم تھی
+
 [Open on Quran.com](https://quran.com/30/47)
 
 #### 43:25 · [[043 Az-Zukhruf]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So We exacted retribution from them: now see what was the end of those who rejected (Truth)!
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان سے انتقام لیا سو دیکھ لو کہ جھٹلانے والوں کا انجام کیسا ہوا
+
 [Open on Quran.com](https://quran.com/43/25)
 
 #### 43:55 · [[043 Az-Zukhruf]]
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when they angered Us, We took retribution from them and drowned them all.
 
 **English (Yusuf Ali):** When at length they provoked Us, We exacted retribution from them, and We drowned them all.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب انہوں نے ہم کو خفا کیا تو ہم نے ان سے انتقام لے کر اور ان سب کو ڈبو کر چھوڑا
 
 [Open on Quran.com](https://quran.com/43/55)
 

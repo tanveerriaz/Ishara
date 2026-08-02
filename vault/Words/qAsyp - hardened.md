@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 5:13 · [[005 Al-Maidah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So for their breaking of the covenant We cursed them and made their hearts hardened. They distort words from their [proper] places [i.e., usages] and have forgotten a portion of that of which they were reminded. And you will still observe deceit among them, except a few of them. But pardon them and overlook [their misdeeds]. Indeed, Allāh loves the doers of good.
 
 **English (Yusuf Ali):** But because of their breach of their covenant, We cursed them, and made their hearts grow hard; they change the words from their (right) places and forget a good part of the message that was sent them, nor wilt thou cease to find them- barring a few - ever bent on (new) deceits: but forgive them, and overlook (their misdeeds): for Allah loveth those who are kind.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں کے عہد توڑ دینے کے سبب ہم نے ان پر لعنت کی اور ان کے دلوں کو سخت کر دیا یہ لوگ کلمات (کتاب) کو اپنے مقامات سے بدل دیتے ہیں اور جن باتوں کی ان کو نصیحت کی گئی تھی ان کا بھی ایک حصہ فراموش کر بیٹھے اور تھوڑے آدمیوں کے سوا ہمیشہ تم ان کی (ایک نہ ایک) خیانت کی خبر پاتے رہتے ہو تو ان کی خطائیں معاف کردو اور (ان سے) درگزر کرو کہ خدا احسان کرنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/5/13)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** That He may make the suggestions thrown in by Satan, but a trial for those in whose hearts is a disease and who are hardened of heart: verily the wrong-doers are in a schism far (from the Truth):
 
+**Urdu (Fatah Muhammad Jalandhari):** غرض (اس سے) یہ ہے کہ جو (وسوسہ) شیطان ڈالتا ہے اس کو ان لوگوں کے لئے جن کے دلوں میں بیماری ہے اور جن کے دل سخت ہیں ذریعہ آزمائش ٹھہرائے۔ بےشک ظالم پرلے درجے کی مخالفت میں ہیں
+
 [Open on Quran.com](https://quran.com/22/53)
 
 #### 39:22 · [[039 Az-Zumar]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So is one whose breast Allāh has expanded to [accept] Islām and he is upon [i.e., guided by] a light from his Lord [like one whose heart rejects it]? Then woe to those whose hearts are hardened against the remembrance of Allāh. Those are in manifest error.
 
 **English (Yusuf Ali):** Is one whose heart Allah has opened to Islam, so that he has received Enlightenment from Allah, (no better than one hard-hearted)? Woe to those whose hearts are hardened against celebrating the praises of Allah! they are manifestly wandering (in error)!
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس شخص کا سینہ خدا نے اسلام کے لئے کھول دیا ہو اور وہ اپنے پروردگار کی طرف سے روشنی پر ہو (تو کیا وہ سخت دل کافر کی طرح ہوسکتا ہے) پس ان پر افسوس ہے جن کے دل خدا کی یاد سے سخت ہو رہے ہیں۔ اور یہی لوگ صریح گمراہی میں ہیں
 
 [Open on Quran.com](https://quran.com/39/22)
 

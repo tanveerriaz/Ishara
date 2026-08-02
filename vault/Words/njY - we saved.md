@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[njw - njw]]
+- [[njw - escape safe]]
 
 ### Meaning
 **we saved** · Lemma **نَجَّى**
@@ -44,7 +44,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:49 · [[002 Al-Baqarah]]
 
@@ -59,6 +59,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We saved you [i.e., your forefathers] from the people of Pharaoh, who afflicted you with the worst torment, slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.
 
 **English (Yusuf Ali):** And remember, We delivered you from the people of Pharaoh: They set you hard tasks and punishments, slaughtered your sons and let your women-folk live; therein was a tremendous trial from your Lord.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (ہمارے ان احسانات کو یاد کرو) جب ہم نے تم کو قومِ فرعون سے نجات بخشی وہ (لوگ) تم کو بڑا دکھ دیتے تھے تمہارے بیٹوں کو تو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
 
 [Open on Quran.com](https://quran.com/2/49)
 
@@ -76,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Who is it that delivereth you from the dark recesses of land and sea, when ye call upon Him in humility and silent terror: 'If He only delivers us from these (dangers), (we vow) we shall truly show our gratitude'?"
 
+**Urdu (Fatah Muhammad Jalandhari):** کہو بھلا تم کو جنگلوں اور دریاؤں کے اندھیروں سے کون مخلصی دیتا ہے (جب) کہ تم اسے عاجزی اور نیاز پنہانی سے پکارتے ہو (اور کہتے ہو) اگر خدا ہم کو اس (تنگی) سے نجات بخشے تو ہم اس کے بہت شکر گزار ہوں
+
 [Open on Quran.com](https://quran.com/6/63)
 
 #### 6:64 · [[006 Al-Anam]]
@@ -91,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "It is Allāh who saves you from it and from every distress; then you [still] associate others with Him."
 
 **English (Yusuf Ali):** Say "It is Allah that delivereth you from these and all (other) distresses: and yet ye worship false gods!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ خدا ہی تم کو اس (تنگی) سے اور ہر سختی سے نجات بخشتا ہے۔ پھر (تم) اس کے ساتھ شرک کرتے ہو
 
 [Open on Quran.com](https://quran.com/6/64)
 
@@ -108,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "We should indeed invent a lie against Allah, if we returned to your ways after Allah hath rescued us therefrom; nor could we by any manner of means return thereto unless it be as in the will and plan of Allah, Our Lord. Our Lord can reach out to the utmost recesses of things by His knowledge. In the Allah is our trust. our Lord! decide Thou between us and our people in truth, for Thou art the best to decide."
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر ہم اس کے بعد کہ خدا ہمیں اس سے نجات بخش چکا ہے تمہارے مذہب میں لوٹ جائیں تو بےشک ہم نے خدا پر جھوٹ افتراء باندھا۔ اور ہمیں شایاں نہیں کہ ہم اس میں لوٹ جائیں ہاں خدا جو ہمارا پروردگار ہے وہ چاہے تو (ہم مجبور ہیں)۔ ہمارے پروردگار کا علم ہر چیز پر احاطہ کیے ہوئے ہے۔ ہمارا خدا ہی پر بھروسہ ہے۔ اے پروردگار ہم میں اور ہماری قوم میں انصاف کے ساتھ فیصلہ کردے اور تو سب سے بہتر فیصلہ کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/7/89)
 
 #### 10:73 · [[010 Yunus]]
@@ -123,6 +131,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they denied him, so We saved him and those with him in the ship and made them successors, and We drowned those who denied Our signs. Then see how was the end of those who were warned.
 
 **English (Yusuf Ali):** They rejected Him, but We delivered him, and those with him, in the Ark, and We made them inherit (the earth), while We overwhelmed in the flood those who rejected Our Signs. Then see what was the end of those who were warned (but heeded not)!
+
+**Urdu (Fatah Muhammad Jalandhari):** لیکن ان لوگوں نے ان کی تکذیب کی تو ہم نے ان کو اور جو لوگ ان کے ساتھ کشتی میں سوار تھے سب کو (طوفان سے) بچا لیا اور انہیں (زمین میں) خلیفہ بنادیا اور جن لوگوں نے ہماری آیتوں کو جھٹلایا ان کو غرق کر دیا تو دیکھ لو کہ جو لوگ ڈرائے گئے تھے ان کا کیا انجام ہوا
 
 [Open on Quran.com](https://quran.com/10/73)
 
@@ -140,6 +150,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And deliver us by Thy Mercy from those who reject (Thee)."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی رحمت سے قوم کفار سے نجات بخش
+
 [Open on Quran.com](https://quran.com/10/86)
 
 #### 10:92 · [[010 Yunus]]
@@ -155,6 +167,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So today We will save you in body that you may be to those who succeed you a sign. And indeed, many among the people, of Our signs, are heedless.
 
 **English (Yusuf Ali):** "This day shall We save thee in the body, that thou mayest be a sign to those who come after thee! but verily, many among mankind are heedless of Our Signs!"
+
+**Urdu (Fatah Muhammad Jalandhari):** تو آج ہم تیرے بدن کو (دریا سے) نکال لیں گے تاکہ تو پچھلوں کے لئے عبرت ہو۔ اور بہت سے لوگ ہماری نشانیوں سے بےخبر ہیں
 
 [Open on Quran.com](https://quran.com/10/92)
 
@@ -172,6 +186,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In the end We deliver Our messengers and those who believe: Thus is it fitting on Our part that We should deliver those who believe!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم اپنے پیغمبروں کو اور مومنوں کو نجات دیتے رہے ہیں۔ اسی طرح ہمارا ذمہ ہے کہ مسلمانوں کو نجات دیں
+
 [Open on Quran.com](https://quran.com/10/103)
 
 #### 11:58 · [[011 Hud]]
@@ -188,6 +204,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So when Our decree issued, We saved Hud and those who believed with him, by (special) Grace from Ourselves: We saved them from a severe penalty.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہمارا حکم عذاب آپہنچا تو ہم نے ہود کو اور جو لوگ ان کے ساتھ ایمان لائے تھے ان کو اپنی مہربانی سے بچا لیا۔ اور ان کو عذاب شدید سے نجات دی
+
 [Open on Quran.com](https://quran.com/11/58)
 
 #### 11:66 · [[011 Hud]]
@@ -203,6 +221,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So when Our command came, We saved Ṣāliḥ and those who believed with him, by mercy from Us, and [saved them] from the disgrace of that day. Indeed, it is your Lord who is the Powerful, the Exalted in Might.
 
 **English (Yusuf Ali):** When Our Decree issued, We saved Salih and those who believed with him, by (special) Grace from Ourselves - and from the Ignominy of that day. For thy Lord - He is the Strong One, and able to enforce His Will.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب ہمارا حکم آگیا تو ہم نے صالح کو اور جو لوگ ان کے ساتھ ایمان لائے تھے ان کو اپنی مہربانی سے بچالیا۔ اور اس دن کی رسوائی سے (محفوظ رکھا)۔ بےشک تمہارا پروردگار طاقتور اور زبردست ہے
 
 [Open on Quran.com](https://quran.com/11/66)
 

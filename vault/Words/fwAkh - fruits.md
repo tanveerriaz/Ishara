@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fkh - fkh]]
+- [[fkh - eating fruit]]
 
 ### Meaning
 **fruits** · Lemma **فَواكِه**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 23:19 · [[023 Al-Muminun]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We brought forth for you thereby gardens of palm trees and grapevines in which for you are abundant fruits and from which you eat.
 
 **English (Yusuf Ali):** With it We grow for you gardens of date-palms and vines: in them have ye abundant fruits: and of them ye eat (and have enjoyment),-
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے اس سے تمہارے لئے کھجوروں اور انگوروں کے باغ بنائے، ان میں تمہارے لئے بہت سے میوے پیدا ہوتے ہیں۔ اور ان میں سے تم کھاتے بھی ہو
 
 [Open on Quran.com](https://quran.com/23/19)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Fruits (Delights); and they (shall enjoy) honour and dignity,
 
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) میوے اور ان کا اعزاز کیا جائے گا
+
 [Open on Quran.com](https://quran.com/37/42)
 
 #### 77:42 · [[077 Al-Mursalat]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And fruits from whatever they desire,
 
 **English (Yusuf Ali):** And (they shall have) fruits,- all they desire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور میؤوں میں جو ان کو مرغوب ہوں
 
 [Open on Quran.com](https://quran.com/77/42)
 

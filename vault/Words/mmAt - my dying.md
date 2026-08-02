@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:162 · [[006 Al-Anam]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allāh, Lord of the worlds.
 
 **English (Yusuf Ali):** Say: "Truly, my prayer and my service of sacrifice, my life and my death, are (all) for Allah, the Cherisher of the Worlds:
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ بھی) کہہ دو کہ میری نماز اور میری عبادت اور میرا جینا اور میرا مرنا سب خدائے رب العالمین ہی کے لیے ہے
 
 [Open on Quran.com](https://quran.com/6/162)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In that case We should have made thee taste an equal portion (of punishment) in this life, and an equal portion in death: and moreover thou wouldst have found none to help thee against Us!
 
+**Urdu (Fatah Muhammad Jalandhari):** اس وقت ہم تم کو زندگی میں (عذاب کا) دونا اور مرنے پر بھی دونا مزا چکھاتے پھر تم ہمارے مقابلے میں کسی کو اپنا مددگار نہ پاتے
+
 [Open on Quran.com](https://quran.com/17/75)
 
 #### 45:21 · [[045 Al-Jathiyah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or do those who commit evils think We will make them like those who have believed and done righteous deeds - [make them] equal in their life and their death? Evil is that which they judge [i.e., assume].
 
 **English (Yusuf Ali):** What! Do those who seek after evil ways think that We shall hold them equal with those who believe and do righteous deeds,- that equal will be their life and their death? Ill is the judgment that they make.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ برے کام کرتے ہیں کیا وہ یہ خیال کرتے ہیں کہ ہم ان کو ان لوگوں جیسا کردیں گے جو ایمان لائے اور عمل نیک کرتے رہے اور ان کی زندگی اور موت یکساں ہوگی۔ یہ جو دعوے کرتے ہیں برے ہیں
 
 [Open on Quran.com](https://quran.com/45/21)
 

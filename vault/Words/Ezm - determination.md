@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Ezm - ezm]]
+- [[Ezm - determine]]
 
 ### Meaning
 **determination** · Lemma **عَزَمَ**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:227 · [[002 Al-Baqarah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if they decide on divorce - then indeed, Allāh is Hearing and Knowing.
 
 **English (Yusuf Ali):** But if their intention is firm for divorce, Allah heareth and knoweth all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر طلاق کا ارادہ کرلیں تو بھی خدا سنتا (اور) جانتا ہے
 
 [Open on Quran.com](https://quran.com/2/227)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There is no blame on you if ye make an offer of betrothal or hold it in your hearts. Allah knows that ye cherish them in your hearts: But do not make a secret contract with them except in terms Honourable, nor resolve on the tie of marriage till the term prescribed is fulfilled. And know that Allah Knoweth what is in your hearts, and take heed of Him; and know that Allah is Oft-forgiving, Most Forbearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کنائے کی باتوں میں عورتوں کو نکاح کا پیغام بھیجو یا (نکاح کی خواہش کو) اپنے دلوں میں مخفی رکھو تو تو تم پر کچھ گناہ نہیں۔ خدا کو معلوم ہے کہ تم ان سے (نکاح کا) ذکر کرو گے۔ مگر (ایام عدت میں) اس کے سوا کہ دستور کے مطابق کوئی بات کہہ دو پوشیدہ طور پر ان سے قول واقرار نہ کرنا۔ اور جب تک عدت پوری نہ ہولے نکاح کا پختہ ارادہ نہ کرنا۔ اور جان رکھو کہ جو کچھ تمہارے دلوں میں ہے خدا کو سب معلوم ہے تو اس سے ڈرتے رہو اور جان رکھو کہ خدا بخشنے والا اور حلم والا ہے
+
 [Open on Quran.com](https://quran.com/2/235)
 
 #### 3:159 · [[003 Ali Imran]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So by mercy from Allāh, [O Muḥammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter. And when you have decided, then rely upon Allāh. Indeed, Allāh loves those who rely [upon Him].
 
 **English (Yusuf Ali):** It is part of the Mercy of Allah that thou dost deal gently with them Wert thou severe or harsh-hearted, they would have broken away from about thee: so pass over (Their faults), and ask for (Allah's) forgiveness for them; and consult them in affairs (of moment). Then, when thou hast Taken a decision put thy trust in Allah. For Allah loves those who put their trust (in Him).
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) خدا کی مہربانی سے تمہاری افتاد مزاج ان لوگوں کے لئے نرم واقع ہوئی ہے۔ اور اگر تم بدخو اور سخت دل ہوتے تو یہ تمہارے پاس سے بھاگ کھڑے ہوتے۔ تو ان کو معاف کردو اور ان کے لئے (خدا سے) مغفرت مانگو۔ اور اپنے کاموں میں ان سے مشورت لیا کرو۔ اور جب (کسی کام کا) عزم مصمم کرلو تو خدا پر بھروسا رکھو۔ بےشک خدا بھروسا رکھنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/3/159)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Ye shall certainly be tried and tested in your possessions and in your personal selves; and ye shall certainly Hear much that will grieve you, from those who received the Book before you and from those who worship many gods. But if ye persevere patiently, and guard against evil,-then that will be a determining factor in all affairs.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے اہل ایمان) تمہارے مال و جان میں تمہاری آزمائش کی جائے گی۔ اور تم اہل کتاب سے اور ان لوگوں سے جو مشرک ہیں بہت سی ایذا کی باتیں سنو گے۔ اور تو اگر صبر اور پرہیزگاری کرتے رہو گے تو یہ بڑی ہمت کے کام ہیں
+
 [Open on Quran.com](https://quran.com/3/186)
 
 #### 20:115 · [[020 Taha]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We had already taken a promise from Adam before, but he forgot; and We found not in him determination.
 
 **English (Yusuf Ali):** We had already, beforehand, taken the covenant of Adam, but he forgot: and We found on his part no firm resolve.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے پہلے آدم سے عہد لیا تھا مگر وہ (اسے) بھول گئے اور ہم نے ان میں صبر وثبات نہ دیکھا
 
 [Open on Quran.com](https://quran.com/20/115)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "O my son! establish regular prayer, enjoin what is just, and forbid what is wrong: and bear with patient constancy whatever betide thee; for this is firmness (of purpose) in (the conduct of) affairs.
 
+**Urdu (Fatah Muhammad Jalandhari):** بیٹا نماز کی پابندی رکھنا اور (لوگوں کو) اچھے کاموں کے کرنے کا امر اور بری باتوں سے منع کرتے رہنا اور جو مصیبت تجھ پر واقع ہو اس پر صبر کرنا۔ بیشک یہ بڑی ہمت کے کام ہیں
+
 [Open on Quran.com](https://quran.com/31/17)
 
 #### 42:43 · [[042 Ash-Shuraa]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whoever is patient and forgives - indeed, that is of the matters [worthy] of resolve.
 
 **English (Yusuf Ali):** But indeed if any show patience and forgive, that would truly be an exercise of courageous will and resolution in the conduct of affairs.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو صبر کرے اور قصور معاف کردے تو یہ ہمت کے کام ہیں
 
 [Open on Quran.com](https://quran.com/42/43)
 
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Therefore patiently persevere, as did (all) messengers of inflexible purpose; and be in no haste about the (Unbelievers). On the Day that they see the (Punishment) promised them, (it will be) as if they had not tarried more than an hour in a single day. (Thine but) to proclaim the Message: but shall any be destroyed except those who transgress?
 
+**Urdu (Fatah Muhammad Jalandhari):** پس (اے محمدﷺ) جس طرح اور عالی ہمت پیغمبر صبر کرتے رہے ہیں اسی طرح تم بھی صبر کرو اور ان کے لئے (عذاب) جلدی نہ مانگو۔ جس دن یہ اس چیز کو دیکھیں گے جس کا ان سے وعدہ کیا جاتا ہے تو (خیال کریں گے کہ) گویا (دنیا میں) رہے ہی نہ تھے مگر گھڑی بھر دن۔ (یہ قرآن) پیغام ہے۔ سو (اب) وہی ہلاک ہوں گے جو نافرمان تھے
+
 [Open on Quran.com](https://quran.com/46/35)
 
 #### 47:21 · [[047 Muhammad]]
@@ -173,6 +189,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Obedience and good words. And when the matter [of fighting] was determined, if they had been true to Allāh, it would have been better for them.
 
 **English (Yusuf Ali):** Were it to obey and say what is just, and when a matter is resolved on, it were best for them if they were true to Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** (خوب کام تو) فرمانبرداری اور پسندیدہ بات کہنا (ہے) پھر جب (جہاد کی) بات پختہ ہوگئی تو اگر یہ لوگ خدا سے سچے رہنا چاہتے تو ان کے لئے بہت اچھا ہوتا
 
 [Open on Quran.com](https://quran.com/47/21)
 

@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 9:24 · [[009 At-Tawbah]]
 
@@ -49,6 +49,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O Muḥammad], "If your fathers, your sons, your brothers, your wives, your relatives, wealth which you have obtained, commerce wherein you fear decline, and dwellings with which you are pleased are more beloved to you than Allāh and His Messenger and jihād [i.e., striving] in His cause, then wait until Allāh executes His command. And Allāh does not guide the defiantly disobedient people."
 
 **English (Yusuf Ali):** Say: If it be that your fathers, your sons, your brothers, your mates, or your kindred; the wealth that ye have gained; the commerce in which ye fear a decline: or the dwellings in which ye delight - are dearer to you than Allah, or His Messenger, or the striving in His cause;- then wait until Allah brings about His decision: and Allah guides not the rebellious.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر تمہارے باپ اور بیٹے اور بھائی اور عورتیں اور خاندان کے آدمی اور مال جو تم کماتے ہو اور تجارت جس کے بند ہونے سے ڈرتے ہو اور مکانات جن کو پسند کرتے ہو خدا اور اس کے رسول سے اور خدا کی راہ میں جہاد کرنے سے تمہیں زیادہ عزیز ہوں تو ٹھہرے رہو یہاں تک کہ خدا اپنا حکم (یعنی عذاب) بھیجے۔ اور خدا نافرمان لوگوں کو ہدایت نہیں دیا کرتا
 
 [Open on Quran.com](https://quran.com/9/24)
 
@@ -66,6 +68,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah hath promised to Believers, men and women, gardens under which rivers flow, to dwell therein, and beautiful mansions in gardens of everlasting bliss. But the greatest bliss is the good pleasure of Allah: that is the supreme felicity.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے مومن مردوں اور مومن عورتوں سے بہشتوں کا وعدہ کیا ہے جن کے نیچے نہریں بہہ رہی ہیں (وہ) ان میں ہمیشہ رہیں گے اور بہشت ہائے جاودانی میں نفیس مکانات کا (وعدہ کیا ہے) اور خدا کی رضا مندی تو سب سے بڑھ کر نعمت ہے یہی بڑی کامیابی ہے
+
 [Open on Quran.com](https://quran.com/9/72)
 
 #### 14:45 · [[014 Ibrahim]]
@@ -81,6 +85,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And you lived among the dwellings of those who wronged themselves, and it had become clear to you how We dealt with them. And We presented for you [many] examples."
 
 **English (Yusuf Ali):** "And ye dwelt in the dwellings of men who wronged their own souls; ye were clearly shown how We dealt with them; and We put forth (many) parables in your behoof!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ اپنے آپ پر ظلم کرتے تھے تم ان کے مکانوں میں رہتے تھے اور تم پر ظاہر ہوچکا تھا کہ ہم نے ان لوگوں کے ساتھ کس طرح (کا معاملہ) کیا تھا اور تمہارے (سمجھانے) کے لیے مثالیں بیان کر دی تھیں
 
 [Open on Quran.com](https://quran.com/14/45)
 
@@ -98,6 +104,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Is it not a warning to such men (to call to mind) how many generations before them We destroyed, in whose haunts they (now) move? Verily, in this are Signs for men endued with understanding.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ بات ان لوگوں کے لئے موجب ہدایت نہ ہوئی کہ ہم ان سے پہلے بہت سے لوگوں کو ہلاک کرچکے ہیں جن کے رہنے کے مقامات میں یہ چلتے پھرتے ہیں۔ عقل والوں کے لئے اس میں (بہت سی) نشانیاں ہیں
+
 [Open on Quran.com](https://quran.com/20/128)
 
 #### 21:13 · [[021 Al-Anbya]]
@@ -113,6 +121,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Some angels said], "Do not flee but return to where you were given luxury and to your homes - perhaps you will be questioned."
 
 **English (Yusuf Ali):** Flee not, but return to the good things of this life which were given you, and to your homes in order that ye may be called to account.
+
+**Urdu (Fatah Muhammad Jalandhari):** مت بھاگو اور جن (نعمتوں) میں تم عیش وآسائش کرتے تھے ان کی اور اپنے گھروں کی طرف لوٹ جاؤ۔ شاید تم سے (اس بارے میں) دریافت کیا جائے
 
 [Open on Quran.com](https://quran.com/21/13)
 
@@ -130,6 +140,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** At length, when they came to a (lowly) valley of ants, one of the ants said: "O ye ants, get into your habitations, lest Solomon and his hosts crush you (under foot) without knowing it."
 
+**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ جب چیونٹیوں کے میدان میں پہنچے تو ایک چیونٹی نے کہا کہ چیونٹیوں اپنے اپنے بلوں میں داخل ہو جاؤ ایسا نہ ہو کہ سلیمان اور اس کے لشکر تم کو کچل ڈالیں اور ان کو خبر بھی نہ ہو
+
 [Open on Quran.com](https://quran.com/27/18)
 
 #### 28:58 · [[028 Al-Qasas]]
@@ -145,6 +157,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And how many a city have We destroyed that was insolent in its [way of] living, and those are their dwellings which have not been inhabited after them except briefly. And it is We who were the inheritors.
 
 **English (Yusuf Ali):** And how many populations We destroyed, which exulted in their life (of ease and plenty)! now those habitations of theirs, after them, are deserted,- All but a (miserable) few! and We are their heirs!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بہت سی بستیوں کو ہلاک کر ڈالا جو اپنی (فراخی) معیشت میں اترا رہے تھے۔ سو یہ اُن کے مکانات ہیں جو اُن کے بعد آباد ہی نہیں ہوئے مگر بہت کم۔ اور اُن کے پیچھے ہم ہی اُن کے وارث ہوئے
 
 [Open on Quran.com](https://quran.com/28/58)
 
@@ -162,6 +176,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Remember also) the 'Ad and the Thamud (people): clearly will appear to you from (the traces) of their buildings (their fate): the Evil One made their deeds alluring to them, and kept them back from the Path, though they were gifted with intelligence and skill.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور عاد اور ثمود کو بھی (ہم نے ہلاک کر دیا) چنانچہ اُن کے (ویران گھر) تمہاری آنکھوں کے سامنے ہیں اور شیطان نے اُن کے اعمال ان کو آراستہ کر دکھائے اور ان کو (سیدھے) رستے سے روک دیا۔ حالانکہ وہ دیکھنے والے (لوگ )تھے
+
 [Open on Quran.com](https://quran.com/29/38)
 
 #### 32:26 · [[032 As-Sajdah]]
@@ -178,6 +194,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Does it not teach them a lesson, how many generations We destroyed before them, in whose dwellings they (now) go to and fro? Verily in that are Signs: Do they not then listen?
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا اُن کو اس (امر )سے ہدایت نہ ہوئی کہ ہم نے اُن سے پہلے بہت سی اُمتوں کو جن کے مقامات سکونت میں یہ چلتے پھرتے ہیں ہلاک کر دیا۔ بیشک اس میں نشانیاں ہیں۔ تو یہ سنتے کیوں نہیں
+
 [Open on Quran.com](https://quran.com/32/26)
 
 #### 34:15 · [[034 Saba]]
@@ -193,6 +211,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** There was for [the tribe of] Saba’ in their dwelling place a sign: two [fields of] gardens on the right and on the left. [They were told], "Eat from the provisions of your Lord and be grateful to Him. A good land [have you], and a forgiving Lord."
 
 **English (Yusuf Ali):** There was, for Saba, aforetime, a Sign in their home-land - two Gardens to the right and to the left. "Eat of the Sustenance (provided) by your Lord, and be grateful to Him: a territory fair and happy, and a Lord Oft-Forgiving!
+
+**Urdu (Fatah Muhammad Jalandhari):** (اہل) سبا کے لئے ان کے مقام بودوباش میں ایک نشانی تھی (یعنی) دو باغ (ایک) داہنی طرف اور (ایک) بائیں طرف۔ اپنے پروردگار کا رزق کھاؤ اور اس کا شکر کرو۔ (یہاں تمہارے رہنے کو یہ) پاکیزہ شہر ہے اور (وہاں بخشنے کو) خدائے غفار
 
 [Open on Quran.com](https://quran.com/34/15)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Esy - esy]]
+- [[Esy - hope expectation]]
 
 ### Meaning
 **perhaps** · Lemma **عَسَى**
@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:216 · [[002 Al-Baqarah]]
 
@@ -54,6 +54,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Battle has been enjoined upon you while it is hateful to you. But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allāh knows, while you know not.
 
 **English (Yusuf Ali):** Fighting is prescribed for you, and ye dislike it. But it is possible that ye dislike a thing which is good for you, and that ye love a thing which is bad for you. But Allah knoweth, and ye know not.
+
+**Urdu (Fatah Muhammad Jalandhari):** (مسلمانو) تم پر (خدا کے رستے میں) لڑنا فرض کردیا گیا ہے وہ تمہیں ناگوار تو ہوگا مگر عجب نہیں کہ ایک چیز تم کو بری لگے اور وہ تمہارے حق میں بھلی ہو اور عجب نہیں کہ ایک چیز تم کو بھلی لگے اور وہ تمہارے لئے مضر ہو۔ اور ان باتوں کو) خدا ہی بہتر جانتا ہے اور تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/2/216)
 
@@ -71,6 +73,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Hast thou not Turned thy vision to the Chiefs of the Children of Israel after (the time of) Moses? they said to a prophet (That was) among them: "Appoint for us a king, that we May fight in the cause of Allah." He said: "Is it not possible, if ye were commanded to fight, that that ye will not fight?" They said: "How could we refuse to fight in the cause of Allah, seeing that we were turned out of our homes and our families?" but when they were commanded to fight, they turned back, except a small band among them. But Allah Has full knowledge of those who do wrong.
 
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے بنی اسرائیل کی ایک جماعت کو نہیں دیکھا جس نے موسیٰ کے بعد اپنے پیغمبر سے کہا کہ آپ ہمارے لئے ایک بادشاہ مقرر کردیں تاکہ ہم خدا کی راہ میں جہاد کریں۔ پیغمبر نے کہا کہ اگر تم کو جہاد کا حکم دیا جائے تو عجب نہیں کہ لڑنے سے پہلو تہی کرو۔ وہ کہنے لگے کہ ہم راہ خدا میں کیوں نہ لڑیں گے جب کہ ہم وطن سے (خارج) اور بال بچوں سے جدا کردیئے گئے۔ لیکن جب ان کو جہاد کا حکم دیا گیا تو چند اشخاص کے سوا سب پھر گئے۔ اور خدا ظالموں سے خوب واقف ہے
+
 [Open on Quran.com](https://quran.com/2/246)
 
 #### 4:19 · [[004 An-Nisa]]
@@ -86,6 +90,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, it is not lawful for you to inherit women by compulsion. And do not make difficulties for them in order to take [back] part of what you gave them unless they commit a clear immorality [i.e., adultery]. And live with them in kindness. For if you dislike them - perhaps you dislike a thing and Allāh makes therein much good.
 
 **English (Yusuf Ali):** O ye who believe! Ye are forbidden to inherit women against their will. Nor should ye treat them with harshness, that ye may Take away part of the dower ye have given them,-except where they have been guilty of open lewdness; on the contrary live with them on a footing of kindness and equity. If ye take a dislike to them it may be that ye dislike a thing, and Allah brings about through it a great deal of good.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم کو جائز نہیں کہ زبردستی عورتوں کے وارث بن جاؤ۔ اور (دیکھنا) اس نیت سے کہ جو کچھ تم نے ان کو دیا ہے اس میں سے کچھ لے لو انہیں (گھروں میں) میں مت روک رکھنا ہاں اگر وہ کھلے طور پر بدکاری کی مرتکب ہوں (تو روکنا مناسب نہیں) اور ان کے ساتھ اچھی طرح رہو سہو اگر وہ تم کو ناپسند ہوں تو عجب نہیں کہ تم کسی چیز کو ناپسند کرو اور خدا اس میں بہت سی بھلائی پیدا کردے
 
 [Open on Quran.com](https://quran.com/4/19)
 
@@ -103,6 +109,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then fight in Allah's cause - Thou art held responsible only for thyself - and rouse the believers. It may be that Allah will restrain the fury of the Unbelievers; for Allah is the strongest in might and in punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو (اے محمدﷺ) تم خدا کی راہ میں لڑو تم اپنے سوا کسی کے ذمہ دار نہیں اور مومنوں کو بھی ترغیب دو قریب ہے کہ خدا کافروں کی لڑائی کو بند کردے اور خدا لڑائی کے اعتبار سے بہت سخت ہے اور سزا کے لحاظ سے بھی بہت سخت ہے
+
 [Open on Quran.com](https://quran.com/4/84)
 
 #### 4:99 · [[004 An-Nisa]]
@@ -118,6 +126,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For those it is expected that Allāh will pardon them, and Allāh is ever Pardoning and Forgiving.
 
 **English (Yusuf Ali):** For these, there is hope that Allah will forgive: For Allah doth blot out (sins) and forgive again and again.
+
+**Urdu (Fatah Muhammad Jalandhari):** قریب ہے کہ خدا ایسوں کو معاف کردے اور خدا معاف کرنے والا (اور) بخشنے والا ہے
 
 [Open on Quran.com](https://quran.com/4/99)
 
@@ -135,6 +145,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those in whose hearts is a disease - thou seest how eagerly they run about amongst them, saying: "We do fear lest a change of fortune bring us disaster." Ah! perhaps Allah will give (thee) victory, or a decision according to His will. Then will they repent of the thoughts which they secretly harboured in their hearts.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو جن لوگوں کے دلوں میں (نفاق کا) مرض ہے تم ان کو دیکھو گے کہ ان میں دوڑ دوڑ کے ملے جاتے ہیں کہتے ہیں کہ ہمیں خوف ہے کہ کہیں ہم پر زمانے کی گردش نہ آجائے سو قریب ہے کہ خدا فتح بھیجے یا اپنے ہاں سے کوئی اور امر (نازل فرمائے) پھر یہ اپنے دل کی باتوں پر جو چھپایا کرتے تھے پشیمان ہو کر رہ جائیں گے
+
 [Open on Quran.com](https://quran.com/5/52)
 
 #### 7:129 · [[007 Al-Araf]]
@@ -150,6 +162,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They said, "We have been harmed before you came to us and after you have come to us." He said, "Perhaps your Lord will destroy your enemy and grant you succession in the land and see how you will do."
 
 **English (Yusuf Ali):** They said: "We have had (nothing but) trouble, both before and after thou camest to us." He said: "It may be that your Lord will destroy your enemy and make you inheritors in the earth; that so He may try you by your deeds."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ تمہارے آنے سے پہلے بھی ہم کو اذیتیں پہنچتی رہیں اور آنے کے بعد بھی۔ موسیٰ نے کہا کہ قریب ہے کہ تمہارا پروردگار تمہارے دشمن کو ہلاک کردے اور اس کی جگہ تمہیں زمین میں خلیفہ بنائے پھر دیکھے کہ تم کیسے عمل کرتے ہو
 
 [Open on Quran.com](https://quran.com/7/129)
 
@@ -167,6 +181,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Do they see nothing in the government of the heavens and the earth and all that Allah hath created? (Do they not see) that it may well be that their terms is nigh drawing to an end? In what message after this will they then believe?
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے آسمان اور زمین کی بادشاہت میں جو چیزیں خدا نے پیدا کی ہیں ان پر نظر نہیں کی اور اس بات پر (خیال نہیں کیا) کہ عجب نہیں ان (کی موت) کا وقت نزدیک پہنچ گیا ہو۔ تو اس کے بعد وہ اور کس بات پر ایمان لائیں گے
+
 [Open on Quran.com](https://quran.com/7/185)
 
 #### 9:18 · [[009 At-Tawbah]]
@@ -183,6 +199,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The mosques of Allah shall be visited and maintained by such as believe in Allah and the Last Day, establish regular prayers, and practise regular charity, and fear none (at all) except Allah. It is they who are expected to be on true guidance.
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا کی مسجدوں کو تو وہ لوگ آباد کرتے ہیں جو خدا پر اور روز قیامت پر ایمان لاتے ہیں اور نماز پڑھتے اور زکواة دیتے ہیں اور خدا کے سوا کسی سے نہیں ڈرتے۔ یہی لوگ امید ہے کہ ہدایت یافتہ لوگوں میں (داخل) ہوں
+
 [Open on Quran.com](https://quran.com/9/18)
 
 #### 9:102 · [[009 At-Tawbah]]
@@ -198,6 +216,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [there are] others who have acknowledged their sins. They had mixed [i.e., polluted] a righteous deed with another that was bad. Perhaps Allāh will turn to them in forgiveness. Indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** Others (there are who) have acknowledged their wrong-doings: they have mixed an act that was good with another that was evil. Perhaps Allah will turn unto them (in Mercy): for Allah is Oft-Forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کچھ اور لوگ ہیں کہ اپنے گناہوں کا (صاف) اقرار کرتے ہیں انہوں نے اچھے برے عملوں کو ملا جلا دیا تھا۔ قریب ہے کہ خدا ان پر مہربانی سے توجہ فرمائے۔ بےشک خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/9/102)
 

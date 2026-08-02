@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Tfl - tfl]]
+- [[Tfl - young one]]
 
 ### Meaning
 **as child** · Lemma **طِفْل**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 22:5 · [[022 Al-Hajj]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O people, if you should be in doubt about the Resurrection, then [consider that] indeed, We created you from dust, then from a sperm-drop, then from a clinging clot, and then from a lump of flesh, formed and unformed - that We may show you. And We settle in the wombs whom We will for a specified term, then We bring you out as a child, and then [We develop you] that you may reach your [time of] maturity. And among you is he who is taken in [early] death, and among you is he who is returned to the most decrepit [old] age so that he knows, after [once having] knowledge, nothing. And you see the earth barren, but when We send down upon it rain, it quivers and swells and grows [something] of every beautiful kind.
 
 **English (Yusuf Ali):** O mankind! if ye have a doubt about the Resurrection, (consider) that We created you out of dust, then out of sperm, then out of a leech-like clot, then out of a morsel of flesh, partly formed and partly unformed, in order that We may manifest (our power) to you; and We cause whom We will to rest in the wombs for an appointed term, then do We bring you out as babes, then (foster you) that ye may reach your age of full strength; and some of you are called to die, and some are sent back to the feeblest old age, so that they know nothing after having known (much), and (further), thou seest the earth barren and lifeless, but when We pour down rain on it, it is stirred (to life), it swells, and it puts forth every kind of beautiful growth (in pairs).
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو اگر تم کو مرنے کے بعد جی اُٹھنے میں کچھ شک ہو تو ہم نے تم کو (پہلی بار بھی تو) پیدا کیا تھا (یعنی ابتدا میں) مٹی سے پھر اس سے نطفہ بنا کر۔ پھر اس سے خون کا لوتھڑا بنا کر۔ پھر اس سے بوٹی بنا کر جس کی بناوٹ کامل بھی ہوتی ہے اور ناقص بھی تاکہ تم پر (اپنی خالقیت) ظاہر کردیں۔ اور ہم جس کو چاہتے ہیں ایک میعاد مقرر تک پیٹ میں ٹھہرائے رکھتے ہیں پھر تم کو بچہ بنا کر نکالتے ہیں۔ پھر تم جوانی کو پہنچتے ہو۔ اور بعض (قبل از پیری مرجاتے ہیں اور بعض شیخ فالی ہوجاتے اور بڑھاپے کی) نہایت خراب عمر کی طرف لوٹائے جاتے ہیں کہ بہت کچھ جاننے کے بعد بالکل بےعلم ہوجاتے ہیں۔ اور (اے دیکھنے والے) تو دیکھتا ہے (کہ ایک وقت میں) زمین خشک (پڑی ہوتی ہے) پھر جب ہم اس پر مینہ برساتے ہیں تو شاداب ہوجاتی اور ابھرنے لگتی ہے اور طرح طرح کی بارونق چیزیں اُگاتی ہے
 
 [Open on Quran.com](https://quran.com/22/5)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And say to the believing women that they should lower their gaze and guard their modesty; that they should not display their beauty and ornaments except what (must ordinarily) appear thereof; that they should draw their veils over their bosoms and not display their beauty except to their husbands, their fathers, their husband's fathers, their sons, their husbands' sons, their brothers or their brothers' sons, or their sisters' sons, or their women, or the slaves whom their right hands possess, or male servants free of physical needs, or small children who have no sense of the shame of sex; and that they should not strike their feet in order to draw attention to their hidden ornaments. And O ye Believers! turn ye all together towards Allah, that ye may attain Bliss.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور مومن عورتوں سے بھی کہہ دو کہ وہ بھی اپنی نگاہیں نیچی رکھا کریں اور اپنی شرم گاہوں کی حفاظت کیا کریں اور اپنی آرائش (یعنی زیور کے مقامات) کو ظاہر نہ ہونے دیا کریں مگر جو ان میں سے کھلا رہتا ہو۔ اور اپنے سینوں پر اوڑھنیاں اوڑھے رہا کریں اور اپنے خاوند اور باپ اور خسر اور بیٹیوں اور خاوند کے بیٹوں اور بھائیوں اور بھتیجیوں اور بھانجوں اور اپنی (ہی قسم کی) عورتوں اور لونڈی غلاموں کے سوا نیز ان خدام کے جو عورتوں کی خواہش نہ رکھیں یا ایسے لڑکوں کے جو عورتوں کے پردے کی چیزوں سے واقف نہ ہوں (غرض ان لوگوں کے سوا) کسی پر اپنی زینت (اور سنگار کے مقامات) کو ظاہر نہ ہونے دیں۔ اور اپنے پاؤں (ایسے طور سے زمین پر) نہ ماریں (کہ جھنکار کانوں میں پہنچے اور) ان کا پوشیدہ زیور معلوم ہوجائے۔ اور مومنو! سب خدا کے آگے توبہ کرو تاکہ فلاح پاؤ
+
 [Open on Quran.com](https://quran.com/24/31)
 
 #### 24:59 · [[024 An-Nur]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But when the children among you come of age, let them (also) ask for permission, as do those senior to them (in age): Thus does Allah make clear His Signs to you: for Allah is full of knowledge and wisdom.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تمہارے لڑکے بالغ ہوجائیں تو ان کو بھی اسی طرح اجازت لینی چاہیئے جس طرح ان سے اگلے (یعنی بڑے آدمی) اجازت حاصل کرتے رہے ہیں۔ اس طرح خدا تم سے اپنی آیتیں کھول کھول کر سناتا ہے۔ اور خدا جاننے والا اور حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/24/59)
 
 #### 40:67 · [[040 Ghafir]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It is He who created you from dust, then from a sperm-drop, then from a clinging clot; then He brings you out as a child; then [He develops you] that you reach your [time of] maturity, then [further] that you become elders. And among you is he who is taken in death before [that], so that you reach a specified term; and perhaps you will use reason.
 
 **English (Yusuf Ali):** It is He Who has created you from dust then from a sperm-drop, then from a leech-like clot; then does he get you out (into the light) as a child: then lets you (grow and) reach your age of full strength; then lets you become old,- though of you there are some who die before;- and lets you reach a Term appointed; in order that ye may learn wisdom.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم کو (پہلے) مٹی سے پیدا کیا۔ ہھر نطفہ بنا کر پھر لوتھڑا بنا کر پھر تم کو نکالتا ہے (کہ تم) بچّے (ہوتے ہو) پھر تم اپنی جوانی کو پہنچتے ہو۔ پھر بوڑھے ہوجاتے ہو۔ اور کوئی تم میں سے پہلے ہی مرجاتا ہے اور تم (موت کے) وقت مقرر تک پہنچ جاتے ہو اور تاکہ تم سمجھو
 
 [Open on Quran.com](https://quran.com/40/67)
 

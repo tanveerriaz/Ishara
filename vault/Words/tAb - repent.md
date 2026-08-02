@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[twb - twb]]
+- [[twb - return]]
 
 ### Meaning
 **repent** · Lemma **تابَ**
@@ -45,7 +45,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:37 · [[002 Al-Baqarah]]
 
@@ -60,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful.
 
 **English (Yusuf Ali):** Then learnt Adam from his Lord words of inspiration, and his Lord Turned towards him; for He is Oft-Returning, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر آدم نے اپنے پروردگار سے کچھ کلمات سیکھے (اور معافی مانگی) تو اس نے ان کا قصور معاف کر دیا بے شک وہ معاف کرنے والا (اور) صاحبِ رحم ہے
 
 [Open on Quran.com](https://quran.com/2/37)
 
@@ -77,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember Moses said to his people: "O my people! Ye have indeed wronged yourselves by your worship of the calf: So turn (in repentance) to your Maker, and slay yourselves (the wrong-doers); that will be better for you in the sight of your Maker." Then He turned towards you (in forgiveness): For He is Oft-Returning, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لوگوں سے کہا کہ بھائیو، تم نے بچھڑے کو (معبود) ٹھہرانے میں (بڑا) ظلم کیا ہے، تو اپنے پیدا کرنے والے کے آگے توبہ کرو اور اپنے تئیں ہلاک کر ڈالو۔ تمہارے خالق کے نزدیک تمہارے حق میں یہی بہتر ہے۔ پھر اس نے تمہارا قصور معاف کر دیا۔ وہ بے شک معاف کرنے والا (اور) صاحبِ رحم ہے
+
 [Open on Quran.com](https://quran.com/2/54)
 
 #### 2:128 · [[002 Al-Baqarah]]
@@ -92,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites [of worship] and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful.
 
 **English (Yusuf Ali):** "Our Lord! make of us Muslims, bowing to Thy (Will), and of our progeny a people Muslim, bowing to Thy (will); and show us our place for the celebration of (due) rites; and turn unto us (in Mercy); for Thou art the Oft-Returning, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار، ہم کو اپنا فرمانبردار بنائے رکھیو۔ اور ہماری اولاد میں سے بھی ایک گروہ کو اپنا مطیع بنائے رہیو، اور (پروردگار) ہمیں طریق عبادت بتا اور ہمارے حال پر (رحم کے ساتھ) توجہ فرما۔ بے شک تو توجہ فرمانے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/2/128)
 
@@ -109,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Except those who repent and make amends and openly declare (the Truth): To them I turn; for I am Oft-returning, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جو توبہ کرتے ہیں اور اپنی حالت درست کرلیتے اور (احکام الہیٰ کو) صاف صاف بیان کردیتے ہیں تو میں ان کے قصور معاف کردیتا ہوں اور میں بڑا معاف کرنے والا (اور) رحم والا ہوں
+
 [Open on Quran.com](https://quran.com/2/160)
 
 #### 2:187 · [[002 Al-Baqarah]]
@@ -124,6 +132,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are a clothing for you and you are a clothing for them. Allāh knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allāh has decreed for you [i.e., offspring]. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the night [i.e., sunset]. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allāh, so do not approach them. Thus does Allāh make clear His verses [i.e., ordinances] to the people that they may become righteous.
 
 **English (Yusuf Ali):** Permitted to you, on the night of the fasts, is the approach to your wives. They are your garments and ye are their garments. Allah knoweth what ye used to do secretly among yourselves; but He turned to you and forgave you; so now associate with them, and seek what Allah Hath ordained for you, and eat and drink, until the white thread of dawn appear to you distinct from its black thread; then complete your fast Till the night appears; but do not associate with your wives while ye are in retreat in the mosques. Those are Limits (set by) Allah: Approach not nigh thereto. Thus doth Allah make clear His Signs to men: that they may learn self-restraint.
+
+**Urdu (Fatah Muhammad Jalandhari):** روزوں کی راتوں میں تمہارے لئے اپنی عورتوں کے پاس جانا کردیا گیا ہے وہ تمہاری پوشاک ہیں اور تم ان کی پوشاک ہو خدا کو معلوم ہے کہ تم (ان کے پاس جانے سے) اپنے حق میں خیانت کرتے تھے سو اس نے تم پر مہربانی کی اور تمہاری حرکات سےدرگزرفرمائی۔اب (تم کو اختیار ہے کہ) ان سے مباشرت کرو۔ اور خدا نے جو چیز تمہارے لئے لکھ رکھی ہے (یعنی اولاد) اس کو (خدا سے) طلب کرو اور کھاؤ پیو یہاں تک کہ صبح کی سفید دھاری (رات کی) سیاہ دھاری سے الگ نظر آنے لگے۔ پھر روزہ (رکھ کر) رات تک پورا کرو اور جب تم مسجدوں میں اعتکاف بیٹھے ہو تو ان سے مباشرت نہ کرو۔ یہ خدا کی حدیں ہیں ان کے پاس نہ جانا۔ اسی طرح خدا اپنی آیتیں لوگوں کے (سمجھانے کے) لئے کھول کھول کر بیان فرماتا ہے تاکہ وہ پرہیزگار بنیں
 
 [Open on Quran.com](https://quran.com/2/187)
 
@@ -141,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If ye do it not, Take notice of war from Allah and His Messenger: But if ye turn back, ye shall have your capital sums: Deal not unjustly, and ye shall not be dealt with unjustly.
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر ایسا نہ کرو گے تو خبردار ہوجاؤ (کہ تم) خدا اور رسول سے جنگ کرنے کے لئے (تیار ہوتے ہو) اور اگر توبہ کرلو گے (اور سود چھوڑ دو گے) تو تم کو اپنی اصل رقم لینے کا حق ہے جس میں نہ اوروں کا نقصان اور تمہارا نقصان
+
 [Open on Quran.com](https://quran.com/2/279)
 
 #### 3:89 · [[003 Ali Imran]]
@@ -156,6 +168,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except for those who repent after that and correct themselves. For indeed, Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** Except for those that repent (Even) after that, and make amends; for verily Allah is Oft-Forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جنہوں نے اس کے بعد توبہ کی اور اپنی حالت درست کر لی تو خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/3/89)
 
@@ -173,6 +187,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Not for thee, (but for Allah), is the decision: Whether He turn in mercy to them, or punish them; for they are indeed wrong-doers.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) اس کام میں تمہارا کچھ اختیار نہیں (اب دو صورتیں ہیں) یا خدا انکے حال پر مہربانی کرے یا انہیں عذاب دے کہ یہ ظالم لوگ ہیں
+
 [Open on Quran.com](https://quran.com/3/128)
 
 #### 4:16 · [[004 An-Nisa]]
@@ -189,6 +205,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If two men among you are guilty of lewdness, punish them both. If they repent and amend, Leave them alone; for Allah is Oft-returning, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو دو مرد تم میں سے بدکاری کریں تو ان کو ایذا دو۔ پھر اگر وہ توبہ کرلیں اور نیکوکار ہوجائیں تو ان کا پیچھا چھوڑ دو۔ بےشک خدا توبہ قبول کرنے والا (اور) مہربان ہے
+
 [Open on Quran.com](https://quran.com/4/16)
 
 #### 4:17 · [[004 An-Nisa]]
@@ -204,6 +222,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The repentance accepted by Allāh is only for those who do wrong in ignorance [or carelessness] and then repent soon [after]. It is those to whom Allāh will turn in forgiveness, and Allāh is ever Knowing and Wise.
 
 **English (Yusuf Ali):** Allah accept the repentance of those who do evil in ignorance and repent soon afterwards; to them will Allah turn in mercy: For Allah is full of knowledge and wisdom.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا انہیں لوگوں کی توبہ قبول فرماتا ہے جو نادانی سے بری حرکت کر بیٹھے ہیں۔ پھر جلد توبہ قبول کرلیتے ہیں پس ایسے لوگوں پر خدا مہربانی کرتا ہے۔ اور وہ سب کچھ جانتا (اور) حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/4/17)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[TwE - twe]]
+- [[TwE - obey]]
 
 ### Meaning
 **they able** · Lemma **اسْتَطاعَ**
@@ -45,7 +45,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:217 · [[002 Al-Baqarah]]
 
@@ -60,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They ask you about the sacred month - about fighting therein. Say, "Fighting therein is great [sin], but averting [people] from the way of Allāh and disbelief in Him and [preventing access to] al-Masjid al-Ḥarām and the expulsion of its people therefrom are greater [evil] in the sight of Allāh. And fitnah is greater than killing." And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire; they will abide therein eternally.
 
 **English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
 
 [Open on Quran.com](https://quran.com/2/217)
 
@@ -77,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Charity is) for those in need, who, in Allah's cause are restricted (from travel), and cannot move about in the land, seeking (For trade or work): the ignorant man thinks, because of their modesty, that they are free from want. Thou shalt know them by their (Unfailing) mark: They beg not importunately from all the sundry. And whatever of good ye give, be assured Allah knoweth it well.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اور ہاں تم جو خرچ کرو گے تو) ان حاجتمندوں کے لئے جو خدا کی راہ میں رکے بیٹھے ہیں اور ملک میں کسی طرف جانے کی طاقت نہیں رکھتے (اور مانگنے سے عار رکھتے ہیں) یہاں تک کہ نہ مانگنے کی وجہ سے ناواقف شخص ان کو غنی خیال کرتا ہے اور تم قیافے سے ان کو صاف پہچان لو (کہ حاجتمند ہیں اور شرم کے سبب) لوگوں سے (منہ پھوڑ کر اور) لپٹ کر نہیں مانگ سکتے اور تم جو مال خرچ کرو گے کچھ شک نہیں کہ خدا اس کو جانتا ہے
+
 [Open on Quran.com](https://quran.com/2/273)
 
 #### 2:282 · [[002 Al-Baqarah]]
@@ -92,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, when you contract a debt for a specified term, write it down. And let a scribe write [it] between you in justice. Let no scribe refuse to write as Allāh has taught him. So let him write and let the one who has the obligation [i.e., the debtor] dictate. And let him fear Allāh, his Lord, and not leave anything out of it. But if the one who has the obligation is of limited understanding or weak or unable to dictate himself, then let his guardian dictate in justice. And bring to witness two witnesses from among your men. And if there are not two men [available], then a man and two women from those whom you accept as witnesses - so that if one of them [i.e., the women] errs, then the other can remind her. And let not the witnesses refuse when they are called upon. And do not be [too] weary to write it, whether it is small or large, for its [specified] term. That is more just in the sight of Allāh and stronger as evidence and more likely to prevent doubt between you, except when it is an immediate transaction which you conduct among yourselves. For [then] there is no blame upon you if you do not write it. And take witnesses when you conclude a contract. Let no scribe be harmed or any witness. For if you do so, indeed, it is [grave] disobedience in you. And fear Allāh. And Allāh teaches you. And Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah; For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/2/282)
 
@@ -109,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** In it are Signs Manifest; (for example), the Station of Abraham; whoever enters it attains security; Pilgrimage thereto is a duty men owe to Allah,- those who can afford the journey; but if any deny faith, Allah stands not in need of any of His creatures.
 
+**Urdu (Fatah Muhammad Jalandhari):** اس میں کھلی ہوئی نشانیاں ہیں جن میں سے ایک ابراہیم کے کھڑے ہونے کی جگہ ہے جو شخص اس (مبارک) گھر میں داخل ہوا اس نے امن پا لیا اور لوگوں پر خدا کا حق (یعنی فرض) ہے کہ جو اس گھر تک جانے کا مقدور رکھے وہ اس کا حج کرے اور جو اس حکم کی تعمیل نہ کرے گا تو خدا بھی اہلِ عالم سے بے نیاز ہے
+
 [Open on Quran.com](https://quran.com/3/97)
 
 #### 4:25 · [[004 An-Nisa]]
@@ -124,6 +132,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And whoever among you cannot [find] the means to marry free, believing women, then [he may marry] from those whom your right hands possess of believing slave girls. And Allāh is most knowing about your faith. You [believers] are of one another. So marry them with the permission of their people and give them their due compensation [i.e., mahr] according to what is acceptable. [They should be] chaste, neither [of] those who commit unlawful intercourse randomly nor those who take [secret] lovers. But once they are sheltered in marriage, if they should commit adultery, then for them is half the punishment for free [unmarried] women. This [allowance] is for him among you who fears affliction [i.e., sin], but to be patient is better for you. And Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** If any of you have not the means wherewith to wed free believing women, they may wed believing girls from among those whom your right hands possess: And Allah hath full knowledge about your faith. Ye are one from another: Wed them with the leave of their owners, and give them their dowers, according to what is reasonable: They should be chaste, not lustful, nor taking paramours: when they are taken in wedlock, if they fall into shame, their punishment is half that for free women. This (permission) is for those among you who fear sin; but it is better for you that ye practise self-restraint. And Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص تم میں سے مومن آزاد عورتوں (یعنی بیبیوں) سے نکاح کرنے کا مقدور نہ رکھے تو مومن لونڈیوں میں ہی جو تمہارے قبضے میں آگئی ہوں (نکاح کرلے) اور خدا تمہارے ایمان کو اچھی طرح جانتا ہے تم آپس میں ایک دوسرے کے ہم جنس ہو تو ان لونڈیوں کے ساتھ ان کے مالکوں سے اجازت حاصل کرکے نکاح کر لو اور دستور کے مطابق ان کا مہر بھی ادا کردو بشرطیکہ عفیفہ ہوں نہ ایسی کہ کھلم کھلا بدکاری کریں اور نہ درپردہ دوستی کرنا چاہیں پھر اگر نکاح میں آکر بدکاری کا ارتکاب کر بیٹھیں تو جو سزا آزاد عورتوں (یعنی بیبیوں) کے لئے ہے اس کی آدھی ان کو (دی جائے) یہ (لونڈی کے ساتھ نکاح کرنے کی) اجازت اس شخص کو ہے جسے گناہ کر بیٹھنے کا اندیشہ ہو اور اگر صبر کرو تو یہ تمہارے لئے بہت اچھا ہے اور خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/4/25)
 
@@ -141,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Except those who are (really) weak and oppressed - men, women, and children - who have no means in their power, nor (a guide-post) to their way.
 
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جو مرد اور عورتیں اور بچے بےبس ہیں کہ نہ تو کوئی چارہ کر سکتے ہیں اور نہ رستہ جانتے ہیں
+
 [Open on Quran.com](https://quran.com/4/98)
 
 #### 4:129 · [[004 An-Nisa]]
@@ -156,6 +168,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And you will never be able to be equal [in feeling] between wives, even if you should strive [to do so]. So do not incline completely [toward one] and leave another hanging. And if you amend [your affairs] and fear Allāh - then indeed, Allāh is ever Forgiving and Merciful.
 
 **English (Yusuf Ali):** Ye are never able to be fair and just as between women, even if it is your ardent desire: But turn not away (from a woman) altogether, so as to leave her (as it were) hanging (in the air). If ye come to a friendly understanding, and practise self-restraint, Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم خوا کتنا ہی چاہو عورتوں میں ہرگز برابری نہیں کرسکو گے تو ایسا بھی نہ کرنا کہ ایک ہی کی طرف ڈھل جاؤ اور دوسری کو (ایسی حالت میں) چھوڑ دو کہ گویا ادھر ہوا میں لٹک رہی ہے اور اگر آپس میں موافقت کرلو اور پرہیزگاری کرو تو خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/4/129)
 
@@ -173,6 +187,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold! the disciples, said: "O Jesus the son of Mary! can thy Lord send down to us a table set (with viands) from heaven?" Said Jesus: "Fear Allah, if ye have faith."
 
+**Urdu (Fatah Muhammad Jalandhari):** (وہ قصہ بھی یاد کرو) جب حواریوں نے کہا کہ اے عیسیٰ بن مریم! کیا تمہارا پروردگار ایسا کر سکتا ہے کہ ہم پر آسمان سے (طعام کا) خوان نازل کرے؟ انہوں نے کہا کہ اگر ایمان رکھتے ہو تو خدا سے ڈرو
+
 [Open on Quran.com](https://quran.com/5/112)
 
 #### 6:35 · [[006 Al-Anam]]
@@ -189,6 +205,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If their spurning is hard on thy mind, yet if thou wert able to seek a tunnel in the ground or a ladder to the skies and bring them a sign,- (what good?). If it were Allah's will, He could gather them together unto true guidance: so be not thou amongst those who are swayed by ignorance (and impatience)!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ان کی روگردانی تم پر شاق گزرتی ہے تو اگر طاقت ہو تو زمین میں کوئی سرنگ ڈھونڈ نکالو یا آسمان میں سیڑھی (تلاش کرو) پھر ان کے پاس کوئی معجزہ لاؤ۔ اور اگر خدا چاہتا تو سب کو ہدایت پر جمع کردیتا پس تم ہرگز نادانوں میں نہ ہونا
+
 [Open on Quran.com](https://quran.com/6/35)
 
 #### 7:192 · [[007 Al-Araf]]
@@ -204,6 +222,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they [i.e., the false deities] are unable to [give] them help, nor can they help themselves.
 
 **English (Yusuf Ali):** No aid can they give them, nor can they aid themselves!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نہ ان کی مدد کی طاقت رکھتے ہیں اور نہ اپنی ہی مدد کرسکتے ہیں
 
 [Open on Quran.com](https://quran.com/7/192)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[kbr - kbr]]
+- [[kbr - greater]]
 
 ### Meaning
 **arrogant** · Lemma **مُتَكَبِّر**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 16:29 · [[016 An-Nahl]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So enter the gates of Hell to abide eternally therein, and how wretched is the residence of the arrogant.
 
 **English (Yusuf Ali):** "So enter the gates of Hell, to dwell therein. Thus evil indeed is the abode of the arrogant."
+
+**Urdu (Fatah Muhammad Jalandhari):** سو دوزخ کے دروازوں میں داخل ہوجاؤ۔ ہمیشہ اس میں رہو گے۔ اب تکبر کرنے والوں کا برا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/16/29)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** On the Day of Judgment wilt thou see those who told lies against Allah;- their faces will be turned black; Is there not in Hell an abode for the Haughty?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے خدا پر جھوٹ بولا تم قیامت کے دن دیکھو گے کہ ان کے منہ کالے ہو رہے ہوں گے۔ کیا غرور کرنے والوں کو ٹھکانا دوزخ میں نہیں ہے
+
 [Open on Quran.com](https://quran.com/39/60)
 
 #### 39:72 · [[039 Az-Zumar]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [To them] it will be said, "Enter the gates of Hell to abide eternally therein, and wretched is the residence of the arrogant."
 
 **English (Yusuf Ali):** (To them) will be said: "Enter ye the gates of Hell, to dwell therein: and evil is (this) Abode of the Arrogant!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہا جائے گا کہ دوزخ کے دروازوں میں داخل ہوجاؤ ہمیشہ اس میں رہو گے۔ تکبر کرنے والوں کا برا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/39/72)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Moses said: "I have indeed called upon my Lord and your Lord (for protection) from every arrogant one who believes not in the Day of Account!"
 
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا کہ میں ہر متکبر سے جو حساب کے دن (یعنی قیامت) پر ایمان نہیں لاتا۔ اپنے اور تمہارے پروردگار کی پناہ لے چکا ہوں
+
 [Open on Quran.com](https://quran.com/40/27)
 
 #### 40:35 · [[040 Ghafir]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who dispute concerning the signs of Allāh without an authority having come to them - great is hatred [of them] in the sight of Allāh and in the sight of those who have believed. Thus does Allāh seal over every heart [belonging to] an arrogant tyrant.
 
 **English (Yusuf Ali):** "(Such) as dispute about the Signs of Allah, without any authority that hath reached them, grievous and odious (is such conduct) in the sight of Allah and of the Believers. Thus doth Allah, seal up every heart - of arrogant and obstinate Transgressors."
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ بغیر اس کے کہ ان کے پاس کوئی دلیل آئی ہو خدا کی آیتوں میں جھگڑتے ہیں۔ خدا کے نزدیک اور مومنوں کے نزدیک یہ جھگڑا سخت ناپسند ہے۔ اسی طرح خدا ہر متکبر سرکش کے دل پر مہر لگا دیتا ہے
 
 [Open on Quran.com](https://quran.com/40/35)
 
@@ -123,6 +133,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Enter ye the gates of Hell, to dwell therein: and evil is (this) abode of the arrogant!"
 
+**Urdu (Fatah Muhammad Jalandhari):** (اب) جہنم کے دروازوں میں داخل ہوجاؤ۔ ہمیشہ اسی میں رہو گے۔ متکبروں کا کیا برا ٹھکانا ہے
+
 [Open on Quran.com](https://quran.com/40/76)
 
 #### 59:23 · [[059 Al-Hashr]]
@@ -138,6 +150,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He is Allāh, other than whom there is no deity, the Sovereign, the Pure, the Perfection, the Grantor of Security, the Overseer, the Exalted in Might, the Compeller, the Superior. Exalted is Allāh above whatever they associate with Him.
 
 **English (Yusuf Ali):** Allah is He, than Whom there is no other god;- the Sovereign, the Holy One, the Source of Peace (and Perfection), the Guardian of Faith, the Preserver of Safety, the Exalted in Might, the Irresistible, the Supreme: Glory to Allah! (High is He) above the partners they attribute to Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی خدا ہے جس کے سوا کوئی عبادت کے لائق نہیں۔ بادشاہ (حقیقی) پاک ذات (ہر عیب سے) سلامتی امن دینے والا نگہبان غالب زبردست بڑائی والا۔ خدا ان لوگوں کے شریک مقرر کرنے سے پاک ہے
 
 [Open on Quran.com](https://quran.com/59/23)
 

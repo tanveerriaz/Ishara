@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[dmr - dmr]]
+- [[dmr - we destroyed]]
 
 ### Meaning
 **we destroyed** · Lemma **دَمَّرَ**
@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:137 · [[007 Al-Araf]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We caused the people who had been oppressed to inherit the eastern regions of the land and the western ones, which We had blessed. And the good word [i.e., decree] of your Lord was fulfilled for the Children of Israel because of what they had patiently endured. And We destroyed [all] that Pharaoh and his people were producing and what they had been building.
 
 **English (Yusuf Ali):** And We made a people, considered weak (and of no account), inheritors of lands in both east and west, - lands whereon We sent down Our blessings. The fair promise of thy Lord was fulfilled for the Children of Israel, because they had patience and constancy, and We levelled to the ground the great works and fine buildings which Pharaoh and his people erected (with such pride).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ کمزور سمجھے جاتے تھے ان کو زمین (شام) کے مشرق ومغرب کا جس میں ہم نے برکت دی تھی وارث کردیا اور بنی اسرائیل کے بارے میں ان کے صبر کی وجہ سے تمہارے پروردگار کا وعدہٴ نیک پورا ہوا اور فرعون اور قوم فرعون جو (محل) بناتے اور (انگور کے باغ) جو چھتریوں پر چڑھاتے تھے سب کو ہم نے تباہ کردیا
 
 [Open on Quran.com](https://quran.com/7/137)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When We decide to destroy a population, We (first) send a definite order to those among them who are given the good things of this life and yet transgress; so that the word is proved true against them: then (it is) We destroy them utterly.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہمارا ارادہ کسی بستی کے ہلاک کرنے کا ہوا تو وہاں کے آسودہ لوگوں کو (فواحش پر) مامور کردیا تو وہ نافرمانیاں کرتے رہے۔ پھر اس پر (عذاب کا) حکم ثابت ہوگیا۔ اور ہم نے اسے ہلاک کر ڈالا
+
 [Open on Quran.com](https://quran.com/17/16)
 
 #### 25:36 · [[025 Al-Furqan]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We said, "Go both of you to the people who have denied Our signs." Then We destroyed them with [complete] destruction.
 
 **English (Yusuf Ali):** And We command: "Go ye both, to the people who have rejected our Signs:" And those (people) We destroyed with utter destruction.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہا کہ دونوں ان لوگوں کے پاس جاؤ جن لوگوں نے ہماری آیتوں کی تکذیب کی۔ (جب تکذیب پر اڑے رہے) تو ہم نے ان کو ہلاک کر ڈالا
 
 [Open on Quran.com](https://quran.com/25/36)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But the rest We destroyed utterly.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے اوروں کو ہلاک کردیا
+
 [Open on Quran.com](https://quran.com/26/172)
 
 #### 27:51 · [[027 An-Naml]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then look how was the outcome of their plan - that We destroyed them and their people, all.
 
 **English (Yusuf Ali):** Then see what was the end of their plot!- this, that We destroyed them and their people, all (of them).
+
+**Urdu (Fatah Muhammad Jalandhari):** تو دیکھ لو ان کی چال کا کیسا انجام ہوا۔ ہم نے ان کو اور ان کی قوم سب کو ہلاک کر ڈالا
 
 [Open on Quran.com](https://quran.com/27/51)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then We destroyed the rest.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے اوروں کو ہلاک کردیا
+
 [Open on Quran.com](https://quran.com/37/136)
 
 #### 46:25 · [[046 Al-Ahqaf]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Everything will it destroy by the command of its Lord!" Then by the morning they - nothing was to be seen but (the ruins of) their houses! thus do We recompense those given to sin!
 
+**Urdu (Fatah Muhammad Jalandhari):** ہر چیز کو اپنے پروردگار کے حکم سے تباہ کئے دیتی ہے تو وہ ایسے ہوگئے کہ ان کے گھروں کے سوا کچھ نظر ہی نہیں آتا تھا۔ گنہگار لوگوں کو ہم اسی طرح سزا دیا کرتے ہیں
+
 [Open on Quran.com](https://quran.com/46/25)
 
 #### 47:10 · [[047 Muhammad]]
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have they not traveled through the land and seen how was the end of those before them? Allāh destroyed [everything] over them, and for the disbelievers is something comparable.
 
 **English (Yusuf Ali):** Do they not travel through the earth, and see what was the End of those before them (who did evil)? Allah brought utter destruction on them, and similar (fates await) those who reject Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے ملک میں سیر نہیں کی تاکہ دیکھتے کہ جو لوگ ان سے پہلے تھے ان کا انجام کیسا ہوا؟ خدا نے ان پر تباہی ڈال دی۔ اور اسی طرح کا (عذاب) ان کافروں کو ہوگا
 
 [Open on Quran.com](https://quran.com/47/10)
 

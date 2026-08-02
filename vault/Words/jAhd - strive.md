@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:218 · [[002 Al-Baqarah]]
 
@@ -51,6 +51,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who have believed and those who have emigrated and fought in the cause of Allāh - those expect the mercy of Allāh. And Allāh is Forgiving and Merciful.
 
 **English (Yusuf Ali):** Those who believed and those who suffered exile and fought (and strove and struggled) in the path of Allah,- they have the hope of the Mercy of Allah: And Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور خدا کے لئے وطن چھوڑ گئے اور (کفار سے) جنگ کرتے رہے وہی خدا کی رحمت کے امیدوار ہیں۔ اور خدا بخشنے والا (اور) رحمت کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/2/218)
 
@@ -68,6 +70,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Did ye think that ye would enter Heaven without Allah testing those of you who fought hard (In His Cause) and remained steadfast?
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم یہ سمجھتے ہو کہ (بےآزمائش) بہشت میں جا داخل ہو گے حالانکہ ابھی خدا نے تم میں سے جہاد کرنے والوں کو تو اچھی طرح معلوم کیا ہی نہیں اور (یہ بھی مقصود ہے) کہ وہ ثابت قدم رہنے والوں کو معلوم کرے
+
 [Open on Quran.com](https://quran.com/3/142)
 
 #### 5:35 · [[005 Al-Maidah]]
@@ -83,6 +87,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, fear Allāh and seek the means [of nearness] to Him and strive in His cause that you may succeed.
 
 **English (Yusuf Ali):** O ye who believe! Do your duty to Allah, seek the means of approach unto Him, and strive with might and main in his cause: that ye may prosper.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! خدا سے ڈرتے رہو اور اس کا قرب حاصل کرنے کا ذریعہ تلاش کرتے رہو اور اس کے رستے میں جہاد کرو تاکہ رستگاری پاؤ
 
 [Open on Quran.com](https://quran.com/5/35)
 
@@ -100,6 +106,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! if any from among you turn back from his Faith, soon will Allah produce a people whom He will love as they will love Him,- lowly with the believers, mighty against the rejecters, fighting in the way of Allah, and never afraid of the reproaches of such as find fault. That is the grace of Allah, which He will bestow on whom He pleaseth. And Allah encompasseth all, and He knoweth all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو اگر کوئی تم میں سے اپنے دین سے پھر جائے گا تو خدا ایسے لوگ پیدا کر دے گا جن کو وہ دوست رکھے اور جسے وہ دوست رکھیں اور جو مومنوں کے حق میں نرمی کریں اور کافروں سے سختی سے پیش آئیں خدا کی راہ میں جہاد کریں اور کسی ملامت کرنے والی کی ملامت سے نہ ڈریں یہ خدا کا فضل ہے وہ جسے چاہتا ہے دیتا ہے اور الله بڑی کشائش والا اور جاننے والا ہے
+
 [Open on Quran.com](https://quran.com/5/54)
 
 #### 8:72 · [[008 Al-Anfal]]
@@ -115,6 +123,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, those who have believed and emigrated and fought with their wealth and lives in the cause of Allāh and those who gave shelter and aided - they are allies of one another. But those who believed and did not emigrate - for you there is no support of them until they emigrate. And if they seek help of you for the religion, then you must help, except against a people between yourselves and whom is a treaty. And Allāh is Seeing of what you do.
 
 **English (Yusuf Ali):** Those who believed, and adopted exile, and fought for the Faith, with their property and their persons, in the cause of Allah, as well as those who gave (them) asylum and aid,- these are (all) friends and protectors, one of another. As to those who believed but came not into exile, ye owe no duty of protection to them until they come into exile; but if they seek your aid in religion, it is your duty to help them, except against a people with whom ye have a treaty of mutual alliance. And (remember) Allah seeth all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور وطن سے ہجرت کر گئے اور خدا کی راہ میں اپنے مال اور جان سے لڑے وہ اور جنہوں نے (ہجرت کرنے والوں کو) جگہ دی اور ان کی مدد کی وہ آپس میں ایک دوسرے کے رفیق ہیں۔ اور جو لوگ ایمان تو لے آئے لیکن ہجرت نہیں کی تو جب تک وہ ہجرت نہ کریں تم کو ان کی رفاقت سے کچھ سروکار نہیں۔ اور اگر وہ تم سے دین (کے معاملات) میں مدد طلب کریں تو تم کو مدد کرنی لازم ہوگی۔ مگر ان لوگوں کے مقابلے میں کہ تم میں اور ان میں (صلح کا) عہد ہو (مدد نہیں کرنی چاہیئے) اور خدا تمہارے سب کاموں کو دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/8/72)
 
@@ -132,6 +142,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who believe, and adopt exile, and fight for the Faith, in the cause of Allah as well as those who give (them) asylum and aid,- these are (all) in very truth the Believers: for them is the forgiveness of sins and a provision most generous.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور وطن سے ہجرت کر گئے اور خدا کی راہ میں لڑائیاں کرتے رہے اور جنہوں نے (ہجرت کرنے والوں کو) جگہ دی اور ان کی مدد کی۔ یہی لوگ سچے مسلمان ہیں۔ ان کے لیے (خدا کے ہاں) بخشش اور عزت کی روزی ہے
+
 [Open on Quran.com](https://quran.com/8/74)
 
 #### 8:75 · [[008 Al-Anfal]]
@@ -147,6 +159,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who believed after [the initial emigration] and emigrated and fought with you - they are of you. But those of [blood] relationship are more entitled [to inheritance] in the decree of Allāh. Indeed, Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** And those who accept Faith subsequently, and adopt exile, and fight for the Faith in your company,- they are of you. But kindred by blood have prior rights against each other in the Book of Allah. Verily Allah is well-acquainted with all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ بعد میں ایمان لائے اور وطن سے ہجرت کرگئے اور تمہارے ساتھ ہو کر جہاد کرتے رہے وہ بھی تم ہی میں سے ہیں۔ اور رشتہ دار خدا کے حکم کی رو سے ایک دوسرے کے زیادہ حقدار ہیں۔ کچھ شک نہیں کہ خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/8/75)
 
@@ -164,6 +178,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or think ye that ye shall be abandoned, as though Allah did not know those among you who strive with might and main, and take none for friends and protectors except Allah, His Messenger, and the (community of) Believers? But Allah is well-acquainted with (all) that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم لوگ یہ خیال کرتے ہو کہ (بےآزمائش) چھوڑ دیئے جاؤ گے اور ابھی خدا نے ایسے لوگوں کو متمیز کیا ہی نہیں جنہوں نے تم میں سے جہاد کئے اور خدا اور اس کے رسول اور مومنوں کے سوا کسی کو دلی دوست نہیں بنایا۔ اور خدا تمہارے سب کاموں سے واقف ہے
+
 [Open on Quran.com](https://quran.com/9/16)
 
 #### 9:19 · [[009 At-Tawbah]]
@@ -180,6 +196,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Do ye make the giving of drink to pilgrims, or the maintenance of the Sacred Mosque, equal to (the pious service of) those who believe in Allah and the Last Day, and strive with might and main in the cause of Allah? They are not comparable in the sight of Allah: and Allah guides not those who do wrong.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے حاجیوں کو پانی پلانا اور مسجد محترم یعنی (خانہٴ کعبہ) کو آباد کرنا اس شخص کے اعمال جیسا خیال کیا ہے جو خدا اور روز آخرت پر ایمان رکھتا ہے اور خدا کی راہ میں جہاد کرتا ہے۔ یہ لوگ خدا کے نزدیک برابر نہیں ہیں۔ اور خدا ظالم لوگوں کو ہدایت نہیں دیا کرتا
+
 [Open on Quran.com](https://quran.com/9/19)
 
 #### 9:20 · [[009 At-Tawbah]]
@@ -195,6 +213,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The ones who have believed, emigrated and striven in the cause of Allāh with their wealth and their lives are greater in rank in the sight of Allāh. And it is those who are the attainers [of success].
 
 **English (Yusuf Ali):** Those who believe, and suffer exile and strive with might and main, in Allah's cause, with their goods and their persons, have the highest rank in the sight of Allah: they are the people who will achieve (salvation).
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور وطن چھوڑ گئے اور خدا کی راہ میں مال اور جان سے جہاد کرتے رہے۔ خدا کے ہاں ان کے درجے بہت بڑے ہیں۔ اور وہی مراد کو پہنچنے والے ہیں
 
 [Open on Quran.com](https://quran.com/9/20)
 

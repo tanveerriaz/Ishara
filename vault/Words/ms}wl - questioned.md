@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 17:34 · [[017 Al-Isra]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not approach the property of an orphan, except in the way that is best, until he reaches maturity. And fulfill [every] commitment. Indeed, the commitment is ever [that about which one will be] questioned.
 
 **English (Yusuf Ali):** Come not nigh to the orphan's property except to improve it, until he attains the age of full strength; and fulfil (every) engagement, for (every) engagement will be enquired into (on the Day of Reckoning).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ پھٹکنا مگر ایسے طریق سے کہ بہت بہتر ہو یہاں تک کہ ہو جوانی کو پہنچ جائے۔ اور عہد کو پورا کرو کہ عہد کے بارے میں ضرور پرسش ہوگی
 
 [Open on Quran.com](https://quran.com/17/34)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And pursue not that of which thou hast no knowledge; for every act of hearing, or of seeing or of (feeling in) the heart will be enquired into (on the Day of Reckoning).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے بندے) جس چیز کا تجھے علم نہیں اس کے پیچھے نہ پڑ۔ کہ کان اور آنکھ اور دل ان سب (جوارح) سے ضرور باز پرس ہوگی
+
 [Open on Quran.com](https://quran.com/17/36)
 
 #### 25:16 · [[025 Al-Furqan]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** For them therein is whatever they wish, [while] abiding eternally. It is ever upon your Lord a promise [worthy to be] requested.
 
 **English (Yusuf Ali):** "For them there will be therein all that they wish for: they will dwell (there) for aye: A promise to be prayed for from thy Lord."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہاں جو چاہیں گے ان کے لئے میسر ہوگا ہمیشہ اس میں رہیں گے۔ یہ وعدہ خدا کو (پورا کرنا) لازم ہے اور اس لائق ہے کہ مانگ لیا جائے
 
 [Open on Quran.com](https://quran.com/25/16)
 
@@ -91,6 +97,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And yet they had already covenanted with Allah not to turn their backs, and a covenant with Allah must (surely) be answered for.
 
+**Urdu (Fatah Muhammad Jalandhari):** حالانکہ پہلے خدا سے اقرار کر چکے تھے کہ پیٹھ نہیں پھریں گے۔ اور خدا سے (جو) اقرار (کیا جاتا ہے اُس کی) ضرور پرسش ہوگی
+
 [Open on Quran.com](https://quran.com/33/15)
 
 #### 37:24 · [[037 As-Saffat]]
@@ -106,6 +114,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And stop them; indeed, they are to be questioned."
 
 **English (Yusuf Ali):** "But stop them, for they must be asked:
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو ٹھیرائے رکھو کہ ان سے (کچھ) پوچھنا ہے
 
 [Open on Quran.com](https://quran.com/37/24)
 

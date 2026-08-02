@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:48 · [[002 Al-Baqarah]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And fear a Day when no soul will suffice for another soul at all, nor will intercession be accepted from it, nor will compensation be taken from it, nor will they be aided.
 
 **English (Yusuf Ali):** Then guard yourselves against a day when one soul shall not avail another nor shall intercession be accepted for her, nor shall compensation be taken from her, nor shall anyone be helped (from outside).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس دن سے ڈرو جب کوئی کسی کے کچھ کام نہ آئے اور نہ کسی کی سفارش منظور کی جائے اور نہ کسی سے کسی طرح کا بدلہ قبول کیا جائے اور نہ لوگ (کسی اور طرح) مدد حاصل کر سکیں
 
 [Open on Quran.com](https://quran.com/2/48)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then guard yourselves against a Day when one soul shall not avail another, nor shall compensation be accepted from her nor shall intercession profit her nor shall anyone be helped (from outside).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اس دن سے ڈرو جب کوئی شخص کسی شخص کے کچھ کام نہ آئے، اور نہ اس سے بدلہ قبول کیا جائے اور نہ اس کو کسی کی سفارش کچھ فائدہ دے اور نہ لوگوں کو (کسی اور طرح کی) مدد مل سکے
+
 [Open on Quran.com](https://quran.com/2/123)
 
 #### 2:254 · [[002 Al-Baqarah]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, spend from that which We have provided for you before there comes a Day in which there is no exchange [i.e., ransom] and no friendship and no intercession. And the disbelievers - they are the wrongdoers.
 
 **English (Yusuf Ali):** O ye who believe! Spend out of (the bounties) We have provided for you, before the Day comes when no bargaining (Will avail), nor friendship nor intercession. Those who reject Faith they are the wrong-doers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو جو (مال) ہم نے تم کو دیا ہے اس میں سے اس دن کے آنے سے پہلے پہلے خرچ کرلو جس میں نہ (اعمال کا) سودا ہو اور نہ دوستی اور سفارش ہو سکے اور کفر کرنے والے لوگ ظالم ہیں
 
 [Open on Quran.com](https://quran.com/2/254)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whoever recommends and helps a good cause becomes a partner therein: And whoever recommends and helps an evil cause, shares in its burden: And Allah hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص نیک بات کی سفارش کرے تو اس کو اس (کے ثواب) میں سے حصہ ملے گا اور جو بری بات کی سفارش کرے اس کو اس (کے عذاب) میں سے حصہ ملے گا اور خدا ہر چیز پر قدرت رکھتا ہے
+
 [Open on Quran.com](https://quran.com/4/85)
 
 #### 19:87 · [[019 Maryam]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** None will have [power of] intercession except he who had taken from the Most Merciful a covenant.
 
 **English (Yusuf Ali):** None shall have the power of intercession, but such a one as has received permission (or promise) from (Allah) Most Gracious.
+
+**Urdu (Fatah Muhammad Jalandhari):** (تو لوگ) کسی کی سفارش کا اختیار نہ رکھیں گے مگر جس نے خدا سے اقرار لیا ہو
 
 [Open on Quran.com](https://quran.com/19/87)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** On that Day shall no intercession avail except for those for whom permission has been granted by (Allah) Most Gracious and whose word is acceptable to Him.
 
+**Urdu (Fatah Muhammad Jalandhari):** اس روز (کسی کی) سفارش کچھ فائدہ نہ دے گی مگر اس شخص کی جسے خدا اجازت دے اور اس کی بات کو پسند فرمائے
+
 [Open on Quran.com](https://quran.com/20/109)
 
 #### 34:23 · [[034 Saba]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And intercession does not benefit with Him except for one whom He permits. [And those wait] until, when terror is removed from their hearts, they will say [to one another], "What has your Lord said?" They will say, "The truth." And He is the Most High, the Grand.
 
 **English (Yusuf Ali):** "No intercession can avail in His Presence, except for those for whom He has granted permission. So far (is this the case) that, when terror is removed from their hearts (at the Day of Judgment, then) will they say, 'what is it that your Lord commanded?' they will say, 'That which is true and just; and He is the Most High Most Great'."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا کے ہاں (کسی کے لئے) سفارش فائدہ نہ دے گی مگر اس کے لئے جس کے بارے میں وہ اجازت بخشے۔ یہاں تک کہ جب ان کے دلوں سے اضطراب دور کردیا جائے گا تو کہیں گے تمہارے پروردگار نے کیا فرمایا ہے۔ (فرشتے) کہیں گے کہ حق (فرمایا ہے) اور وہ عالی رتبہ اور گرامی قدر ہے
 
 [Open on Quran.com](https://quran.com/34/23)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Shall I take (other) gods besides Him? If (Allah) Most Gracious should intend some adversity for me, of no use whatever will be their intercession for me, nor can they deliver me.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا میں ان کو چھوڑ کر اوروں کو معبود بناؤں؟ اگر خدا میرے حق میں نقصان کرنا چاہے تو ان کی سفارش مجھے کچھ بھی فائدہ نہ دے سکے اور نہ وہ مجھ کو چھڑا ہی سکیں
+
 [Open on Quran.com](https://quran.com/36/23)
 
 #### 39:44 · [[039 Az-Zumar]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "To Allah belongs exclusively (the right to grant) intercession: to Him belongs the dominion of the heavens and the earth: In the End, it is to Him that ye shall be brought back."
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ سفارش تو سب خدا ہی کے اختیار میں ہے۔ اسی کے لئے آسمانوں اور زمین کی بادشاہت ہے۔ پھر تم اسی کی طرف لوٹ کر جاؤ گے
+
 [Open on Quran.com](https://quran.com/39/44)
 
 #### 43:86 · [[043 Az-Zukhruf]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those they invoke besides Him do not possess [power of] intercession; but only those who testify to the truth [can benefit], and they know.
 
 **English (Yusuf Ali):** And those whom they invoke besides Allah have no power of intercession;- only he who bears witness to the Truth, and they know (him).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن کو یہ لوگ خدا کے سوا پکارتے ہیں وہ سفارش کا کچھ اختیار نہیں رکھتے۔ ہاں جو علم ویقین کے ساتھ حق کی گواہی دیں (وہ سفارش کرسکتے ہیں)
 
 [Open on Quran.com](https://quran.com/43/86)
 

@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:119 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, We have sent you, [O Muḥammad], with the truth as a bringer of good tidings and a warner, and you will not be asked about the companions of Hellfire.
 
 **English (Yusuf Ali):** Verily We have sent thee in truth as a bearer of glad tidings and a warner: But of thee no question shall be asked of the Companions of the Blazing Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) ہم نے تم کو سچائی کے ساتھ خوشخبری سنانے والا اور ڈرانے والا بنا کر بھیجا ہے۔ اور اہل دوزخ کے بارے میں تم سے کچھ پرسش نہیں ہوگی
 
 [Open on Quran.com](https://quran.com/2/119)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A similar (favour have ye already received) in that We have sent among you a Messenger of your own, rehearsing to you Our Signs, and sanctifying you, and instructing you in Scripture and Wisdom, and in new knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** جس طرح (منجملہ اور نعمتوں کے) ہم نے تم میں تمھیں میں سے ایک رسول بھیجے ہیں جو تم کو ہماری آیتیں پڑھ پڑھ کر سناتے اور تمہیں پاک بناتے اور کتاب (یعنی قرآن) اور دانائی سکھاتے ہیں، اور ایسی باتیں بتاتے ہیں، جو تم پہلے نہیں جانتے تھے
+
 [Open on Quran.com](https://quran.com/2/151)
 
 #### 4:64 · [[004 An-Nisa]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We did not send any messenger except to be obeyed by permission of Allāh. And if, when they wronged themselves, they had come to you, [O Muḥammad], and asked forgiveness of Allāh and the Messenger had asked forgiveness for them, they would have found Allāh Accepting of Repentance and Merciful.
 
 **English (Yusuf Ali):** We sent not a messenger, but to be obeyed, in accordance with the will of Allah. If they had only, when they were unjust to themselves, come unto thee and asked Allah's forgiveness, and the Messenger had asked forgiveness for them, they would have found Allah indeed Oft-returning, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے جو پیغمبر بھیجا ہے اس لئے بھیجا ہے کہ خدا کے فرمان کے مطابق اس کا حکم مانا جائے اور یہ لوگ جب اپنے حق میں ظلم کر بیٹھے تھے اگر تمہارے پاس آتے اور خدا سے بخشش مانگتے اور رسول (خدا) بھی ان کے لئے بخشش طلب کرتے تو خدا کو معاف کرنے والا (اور) مہربان پاتے
 
 [Open on Quran.com](https://quran.com/4/64)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whatever good, (O man!) happens to thee, is from Allah; but whatever evil happens to thee, is from thy (own) soul. and We have sent thee as a messenger to (instruct) mankind. And enough is Allah for a witness.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے (آدم زاد) تجھ کو جو فائدہ پہنچے وہ خدا کی طرف سے ہے اور جو نقصان پہنچے وہ تیری ہی (شامت اعمال) کی وجہ سے ہے اور (اے محمدﷺ) ہم نے تم کو لوگوں (کی ہدایت) کے لئے پیغمبر بنا کر بھیجا ہے اور (اس بات کا) خدا ہی گواہ کافی ہے
+
 [Open on Quran.com](https://quran.com/4/79)
 
 #### 4:80 · [[004 An-Nisa]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** He who obeys the Messenger has obeyed Allāh; but those who turn away - We have not sent you over them as a guardian.
 
 **English (Yusuf Ali):** He who obeys the Messenger, obeys Allah: But if any turn away, We have not sent thee to watch over their (evil deeds).
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص رسول کی فرمانبرداری کرے گا تو بےشک اس نے خدا کی فرمانبرداری کی اور جو نافرمانی کرے گا تو اے پیغمبر تمہیں ہم نے ان کا نگہبان بنا کر نہیں بھیجا
 
 [Open on Quran.com](https://quran.com/4/80)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We took the covenant of the Children of Israel and sent them messengers, every time, there came to them a messenger with what they themselves desired not - some (of these) they called impostors, and some they (go so far as to) slay.
 
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے بنی اسرائیل سے عہد بھی لیا اور ان کی طرف پیغمبر بھی بھیجے (لیکن) جب کوئی پیغمبر ان کے پاس ایسی باتیں لےکر آتا جن کو ان کے دل نہیں چاہتے تھے تو وہ (انبیاء کی) ایک جماعت کو تو جھٹلا دیتے اور ایک جماعت کو قتل کر دیتے تھے
+
 [Open on Quran.com](https://quran.com/5/70)
 
 #### 6:6 · [[006 Al-Anam]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have they not seen how many generations We destroyed before them which We had established upon the earth as We have not established you? And We sent [rain from] the sky upon them in showers and made rivers flow beneath them; then We destroyed them for their sins and brought forth after them a generation of others.
 
 **English (Yusuf Ali):** See they not how many of those before them We did destroy?- generations We had established on the earth, in strength such as We have not given to you - for whom We poured out rain from the skies in abundance, and gave (fertile) streams flowing beneath their (feet): yet for their sins We destroyed them, and raised in their wake fresh generations (to succeed them).
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے کتنی امتوں کو ہلاک کر دیا جن کے پاؤں ملک میں ایسے جما دیئے تھے کہ تمہارے پاؤں بھی ایسے نہیں جمائے اور ان پر آسمان سے لگاتار مینہ برسایا اور نہریں بنا دیں جو ان کے (مکانوں کے) نیچے بہہ رہی تھیں پھر ان کو ان کے گناہوں کے سبب ہلاک کر دیا اور ان کے بعد اور امتیں پیدا کر دیں
 
 [Open on Quran.com](https://quran.com/6/6)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Before thee We sent (messengers) to many nations, and We afflicted the nations with suffering and adversity, that they might learn humility.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تم سے پہلے بہت سی امتوں کی طرف پیغمبر بھیجے۔ پھر (ان کی نافرمانیوں کے سبب) ہم انہیں سختیوں اور تکلیفوں میں پکڑتے رہے تاکہ عاجزی کریں
+
 [Open on Quran.com](https://quran.com/6/42)
 
 #### 6:48 · [[006 Al-Anam]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We send the messengers only to give good news and to warn: so those who believe and mend (their lives),- upon them shall be no fear, nor shall they grieve.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم جو پیغمبروں کو بھیجتے رہے ہیں تو خوشخبری سنانے اور ڈرانے کو پھر جو شخص ایمان لائے اور نیکوکار ہوجائے تو ایسے لوگوں کو نہ کچھ خوف ہوگا اور نہ وہ اندوہناک ہوں گے
+
 [Open on Quran.com](https://quran.com/6/48)
 
 #### 6:61 · [[006 Al-Anam]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He is the subjugator over His servants, and He sends over you guardian-angels until, when death comes to one of you, Our messengers [i.e., angels of death] take him, and they do not fail [in their duties].
 
 **English (Yusuf Ali):** He is the irresistible, (watching) from above over His worshippers, and He sets guardians over you. At length, when death approaches one of you, Our angels take his soul, and they never fail in their duty.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ اپنے بندوں پر غالب ہے۔ اور تم پر نگہبان مقرر کئے رکھتا ہے۔ یہاں تک کہ جب تم میں سے کسی کی موت آتی ہے تو ہمارے فرشتے اس کی روح قبض کرلیتے ہیں اور وہ کسی طرح کی کوتاہی نہیں کرتے
 
 [Open on Quran.com](https://quran.com/6/61)
 

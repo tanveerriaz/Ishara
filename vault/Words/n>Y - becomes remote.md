@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:26 · [[006 Al-Anam]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they prevent [others] from him and are [themselves] remote from him. And they do not destroy except themselves, but they perceive [it] not.
 
 **English (Yusuf Ali):** Others they keep away from it, and themselves they keep away; but they only destroy their own souls, and they perceive it not.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ اس سے (اوروں کو بھی) روکتے ہیں اور خود بھی پرے رہتے ہیں مگر (ان باتوں سے) اپنے آپ ہی کو ہلاک کرتے ہیں اور (اس سے) بےخبر ہیں
 
 [Open on Quran.com](https://quran.com/6/26)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Yet when We bestow Our favours on man, he turns away and becomes remote on his side (instead of coming to Us), and when evil seizes him he gives himself up to despair!
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم انسان کو نعمت بخشتے ہیں تو ردگرداں ہوجاتا اور پہلو پھیر لیتا ہے۔ اور جب اسے سختی پہنچتی ہے تو ناامید ہوجاتا ہے
+
 [Open on Quran.com](https://quran.com/17/83)
 
 #### 41:51 · [[041 Fussilat]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when We bestow favor upon man, he turns away and distances himself; but when evil touches him, then he is full of extensive supplication.
 
 **English (Yusuf Ali):** When We bestow favours on man, he turns away, and gets himself remote on his side (instead of coming to Us); and when evil seizes him, (he comes) full of prolonged prayer!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم انسان پر کرم کرتے ہیں تو منہ موڑ لیتا ہے اور پہلو پھیر کر چل دیتا ہے۔ اور جب اس کو تکلیف پہنچتی ہے تو لمبی لمبی دعائیں کرنے لگتا ہے
 
 [Open on Quran.com](https://quran.com/41/51)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 11:77 · [[011 Hud]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when Our messengers, [the angels], came to Lot, he was anguished for them and felt for them great discomfort and said, "This is a trying day."
 
 **English (Yusuf Ali):** When Our messengers came to Lut, he was grieved on their account and felt himself powerless (to protect) them. He said: "This is a distressful day."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہمارے فرشتے لوط کے پاس آئے تو وہ ان (کے آنے) سے غمناک اور تنگ دل ہوئے اور کہنے لگے کہ آج کا دن بڑی مشکل کا دن ہے
 
 [Open on Quran.com](https://quran.com/11/77)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And when Our Messengers came to Lut, he was grieved on their account, and felt himself powerless (to protect) them: but they said: "Fear thou not, nor grieve: we are (here) to save thee and thy following, except thy wife: she is of those who lag behind.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہمارے فرشتے لوط کے پاس آئے تو وہ اُن (کی وجہ) سے ناخوش اور تنگ دل ہوئے۔ فرشتوں نے کہا کچھ خوف نہ کیجئے۔ اور نہ رنج کیجئے ہم آپ کو اور آپ کے گھر والوں کو بچالیں گے مگر آپ کی بیوی کہ پیچھے رہنے والوں میں ہوگی
+
 [Open on Quran.com](https://quran.com/29/33)
 
 #### 69:32 · [[069 Al-Haqqah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then into a chain whose length is seventy cubits insert him."
 
 **English (Yusuf Ali):** "Further, make him march in a chain, whereof the length is seventy cubits!
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر زنجیر سے جس کی ناپ ستر گز ہے جکڑ دو
 
 [Open on Quran.com](https://quran.com/69/32)
 

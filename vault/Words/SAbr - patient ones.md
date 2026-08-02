@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:153 · [[002 Al-Baqarah]]
 
@@ -51,6 +51,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, seek help through patience and prayer. Indeed, Allāh is with the patient.
 
 **English (Yusuf Ali):** O ye who believe! seek help with patient perseverance and prayer; for Allah is with those who patiently persevere.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو صبر اور نماز سے مدد لیا کرو بےشک خدا صبر کرنے والوں کے ساتھ ہے
 
 [Open on Quran.com](https://quran.com/2/153)
 
@@ -68,6 +70,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Be sure we shall test you with something of fear and hunger, some loss in goods or lives or the fruits (of your toil), but give glad tidings to those who patiently persevere,
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم کسی قدر خوف اور بھوک اور مال اور جانوں اور میوؤں کے نقصان سے تمہاری آزمائش کریں گے توصبر کرنے والوں کو (خدا کی خوشنودی کی) بشارت سنا دو
+
 [Open on Quran.com](https://quran.com/2/155)
 
 #### 2:177 · [[002 Al-Baqarah]]
@@ -83,6 +87,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
 
 **English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/177)
 
@@ -100,6 +106,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When Talut set forth with the armies, he said: "Allah will test you at the stream: if any drinks of its water, He goes not with my army: Only those who taste not of it go with me: A mere sip out of the hand is excused." but they all drank of it, except a few. When they crossed the river,- He and the faithful ones with him,- they said: "This day We cannot cope with Goliath and his forces." but those who were convinced that they must meet Allah, said: "How oft, by Allah's will, Hath a small force vanquished a big one? Allah is with those who steadfastly persevere."
 
+**Urdu (Fatah Muhammad Jalandhari):** غرض جب طالوت فوجیں لے کر روانہ ہوا تو اس نے (ان سے) کہا کہ خدا ایک نہر سے تمہاری آزمائش کرنے والا ہے۔ جو شخص اس میں سے پانی پی لے گا (اس کی نسبت تصور کیا جائے گا کہ) وہ میرا نہیں۔ اور جو نہ پئے گا وہ (سمجھا جائے گا کہ) میرا ہے۔ ہاں اگر کوئی ہاتھ سے چلو بھر پانی پی لے (تو خیر۔ جب وہ لوگ نہر پر پہنچے) تو چند شخصوں کے سوا سب نے پانی پی لیا۔ پھر جب طالوت اور مومن لوگ جو اس کے ساتھ تھے نہر کے پار ہوگئے۔ تو کہنے لگے کہ آج ہم میں جالوت اور اس کے لشکر سے مقابلہ کرنے کی طاقت نہیں۔ جو لوگ یقین رکھتے تھے کہ ان کو خدا کے روبرو حاضر ہونا ہے وہ کہنے لگے کہ بسااوقات تھوڑی سی جماعت نے خدا کے حکم سے بڑی جماعت پر فتح حاصل کی ہے اور خدا استقلال رکھنے والوں کے ساتھ ہے
+
 [Open on Quran.com](https://quran.com/2/249)
 
 #### 3:17 · [[003 Ali Imran]]
@@ -115,6 +123,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The patient, the true, the obedient, those who spend [in the way of Allāh], and those who seek forgiveness before dawn.
 
 **English (Yusuf Ali):** Those who show patience, Firmness and self-control; who are true (in word and deed); who worship devoutly; who spend (in the way of Allah); and who pray for forgiveness in the early hours of the morning.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جو (مشکلات میں) صبر کرتے اور سچ بولتے اور عبادت میں لگے رہتے اور (راہ خدا میں) خرچ کرتے اور اوقات سحر میں گناہوں کی معافی مانگا کرتے ہیں
 
 [Open on Quran.com](https://quran.com/3/17)
 
@@ -132,6 +142,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Did ye think that ye would enter Heaven without Allah testing those of you who fought hard (In His Cause) and remained steadfast?
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم یہ سمجھتے ہو کہ (بےآزمائش) بہشت میں جا داخل ہو گے حالانکہ ابھی خدا نے تم میں سے جہاد کرنے والوں کو تو اچھی طرح معلوم کیا ہی نہیں اور (یہ بھی مقصود ہے) کہ وہ ثابت قدم رہنے والوں کو معلوم کرے
+
 [Open on Quran.com](https://quran.com/3/142)
 
 #### 3:146 · [[003 Ali Imran]]
@@ -147,6 +159,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And how many a prophet [fought in battle and] with him fought many religious scholars. But they never lost assurance due to what afflicted them in the cause of Allāh, nor did they weaken or submit. And Allāh loves the steadfast.
 
 **English (Yusuf Ali):** How many of the prophets fought (in Allah's way), and with them (fought) Large bands of godly men? but they never lost heart if they met with disaster in Allah's way, nor did they weaken (in will) nor give in. And Allah Loves those who are firm and steadfast.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بہت سے نبی ہوئے ہیں جن کے ساتھ ہو کر اکثر اہل الله (خدا کے دشمنوں سے) لڑے ہیں تو جو مصبتیں ان پر راہِ خدا میں واقع ہوئیں ان کے سبب انہوں نے نہ تو ہمت ہاری اور نہ بزدلی کی نہ (کافروں سے) دبے اور خدا استقلال رکھنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/3/146)
 
@@ -164,6 +178,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Persevere in patience and constancy; vie in such perseverance; strengthen each other; and fear Allah; that ye may prosper.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان (کفار کے مقابلے میں) ثابت قدم رہو اور استقامت رکھو اور مورچوں پر جمے رہو اور خدا سے ڈرو تاکہ مراد حاصل کرو
+
 [Open on Quran.com](https://quran.com/3/200)
 
 #### 8:46 · [[008 Al-Anfal]]
@@ -180,6 +196,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And obey Allah and His Messenger; and fall into no disputes, lest ye lose heart and your power depart; and be patient and persevering: For Allah is with those who patiently persevere:
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا اور اس کے رسول کے حکم پر چلو اور آپس میں جھگڑا نہ کرنا کہ (ایسا کرو گے تو) تم بزدل ہو جاؤ گے اور تمہارا اقبال جاتا رہے گا اور صبر سے کام لو۔ کہ خدا صبر کرنے والوں کا مددگار ہے
+
 [Open on Quran.com](https://quran.com/8/46)
 
 #### 8:65 · [[008 Al-Anfal]]
@@ -195,6 +213,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O Prophet, urge the believers to battle. If there are among you twenty [who are] steadfast, they will overcome two hundred. And if there are among you one hundred [who are steadfast], they will overcome a thousand of those who have disbelieved because they are a people who do not understand.
 
 **English (Yusuf Ali):** O Prophet! rouse the Believers to the fight. If there are twenty amongst you, patient and persevering, they will vanquish two hundred: if a hundred, they will vanquish a thousand of the Unbelievers: for these are a people without understanding.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی! مسلمانوں کو جہاد کی ترغیب دو۔ اور اگر تم بیس آدمی ثابت قدم رہنے والے ہوں گے تو دو سو کافروں پر غالب رہیں گے۔ اور اگر سو (ایسے) ہوں گے تو ہزار پر غالب رہیں گے۔ اس لیے کہ کافر ایسے لوگ ہیں کہ کچھ بھی سمجھ نہیں رکھتے
 
 [Open on Quran.com](https://quran.com/8/65)
 

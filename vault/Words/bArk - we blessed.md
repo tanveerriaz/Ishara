@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[brk - brk]]
+- [[brk - camel's breast]]
 
 ### Meaning
 **we blessed** · Lemma **بارَكَ**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:137 · [[007 Al-Araf]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We caused the people who had been oppressed to inherit the eastern regions of the land and the western ones, which We had blessed. And the good word [i.e., decree] of your Lord was fulfilled for the Children of Israel because of what they had patiently endured. And We destroyed [all] that Pharaoh and his people were producing and what they had been building.
 
 **English (Yusuf Ali):** And We made a people, considered weak (and of no account), inheritors of lands in both east and west, - lands whereon We sent down Our blessings. The fair promise of thy Lord was fulfilled for the Children of Israel, because they had patience and constancy, and We levelled to the ground the great works and fine buildings which Pharaoh and his people erected (with such pride).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ کمزور سمجھے جاتے تھے ان کو زمین (شام) کے مشرق ومغرب کا جس میں ہم نے برکت دی تھی وارث کردیا اور بنی اسرائیل کے بارے میں ان کے صبر کی وجہ سے تمہارے پروردگار کا وعدہٴ نیک پورا ہوا اور فرعون اور قوم فرعون جو (محل) بناتے اور (انگور کے باغ) جو چھتریوں پر چڑھاتے تھے سب کو ہم نے تباہ کردیا
 
 [Open on Quran.com](https://quran.com/7/137)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Glory to (Allah) Who did take His servant for a Journey by night from the Sacred Mosque to the farthest Mosque, whose precincts We did bless,- in order that We might show him some of Our Signs: for He is the One Who heareth and seeth (all things).
 
+**Urdu (Fatah Muhammad Jalandhari):** وہ (ذات) پاک ہے جو ایک رات اپنے بندے کو مسجدالحرام یعنی (خانہٴ کعبہ) سے مسجد اقصیٰ (یعنی بیت المقدس) تک جس کے گردا گرد ہم نے برکتیں رکھی ہیں لے گیا تاکہ ہم اسے اپنی (قدرت کی) نشانیاں دکھائیں۔ بےشک وہ سننے والا (اور) دیکھنے والا ہے
+
 [Open on Quran.com](https://quran.com/17/1)
 
 #### 21:71 · [[021 Al-Anbya]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We delivered him and Lot to the land which We had blessed for the worlds [i.e., peoples].
 
 **English (Yusuf Ali):** But We delivered him and (his nephew) Lut (and directed them) to the land which We have blessed for the nations.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم اور لوط کو اس سرزمین کی طرف بچا نکالا جس میں ہم نے اہل عالم کے لئے برکت رکھی تھی
 
 [Open on Quran.com](https://quran.com/21/71)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (It was Our power that made) the violent (unruly) wind flow (tamely) for Solomon, to his order, to the land which We had blessed: for We do know all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تیز ہوا سلیمان کے تابع (فرمان) کردی تھی جو ان کے حکم سے اس ملک میں چلتی تھی جس میں ہم نے برکت دی تھی (یعنی شام) اور ہم ہر چیز سے خبردار ہیں
+
 [Open on Quran.com](https://quran.com/21/81)
 
 #### 27:8 · [[027 An-Naml]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But when he came to it, he was called, "Blessed is whoever is at the fire and whoever is around it. And exalted is Allāh, Lord of the worlds.
 
 **English (Yusuf Ali):** But when he came to the (fire), a voice was heard: "Blessed are those in the fire and those around: and glory to Allah, the Lord of the worlds.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب موسیٰ اس کے پاس آئے تو ندا آئی کہ وہ جو آگ میں (تجلّی دکھاتا) ہے بابرکت ہے۔ اور جو آگ کے اردگرد ہیں اور خدا جو تمام عالم کا پروردگار ہے پاک ہے
 
 [Open on Quran.com](https://quran.com/27/8)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Between them and the Cities on which We had poured our blessings, We had placed Cities in prominent positions, and between them We had appointed stages of journey in due proportion: "Travel therein, secure, by night and by day."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کے اور (شام کی) ان بستیوں کے درمیان جن میں ہم نے برکت دی تھی (ایک دوسرے کے متصل) دیہات بنائے تھے جو سامنے نظر آتے تھے اور ان میں آمد ورفت کا اندازہ مقرر کردیا تھا کہ رات دن بےخوف وخطر چلتے رہو
+
 [Open on Quran.com](https://quran.com/34/18)
 
 #### 37:113 · [[037 As-Saffat]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We blessed him and Isaac: but of their progeny are (some) that do right, and (some) that obviously do wrong, to their own souls.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان پر اور اسحاق پر برکتیں نازل کی تھیں۔ اور ان دونوں اولاد کی میں سے نیکوکار بھی ہیں اور اپنے آپ پر صریح ظلم کرنے والے (یعنی گنہگار) بھی ہیں
+
 [Open on Quran.com](https://quran.com/37/113)
 
 #### 41:10 · [[041 Fussilat]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And He placed on it [i.e., the earth] firmly set mountains over its surface, and He blessed it and determined therein its [creatures'] sustenance in four days without distinction - for [the information of] those who ask.
 
 **English (Yusuf Ali):** He set on the (earth), mountains standing firm, high above it, and bestowed blessings on the earth, and measure therein all things to give them nourishment in due proportion, in four Days, in accordance with (the needs of) those who seek (Sustenance).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے زمین میں اس کے اوپر پہاڑ بنائے اور زمین میں برکت رکھی اور اس میں سب سامان معیشت مقرر کیا (سب) چار دن میں۔ (اور تمام) طلبگاروں کے لئے یکساں
 
 [Open on Quran.com](https://quran.com/41/10)
 

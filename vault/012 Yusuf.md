@@ -17,81 +17,81 @@ Joseph · 111 ayahs
 - [[>b - father]] — `أَب` · father
 - [[t>wyl - interpretation]] — `تَأْوِيل` · interpretation
 - [[kyl - measure]] — `كَيْل` · measure
-- [[sbE - seven]] — `سَبْع` · seven
+- [[HAfZ - guardians]] — `حافِظ` · guardians
 - [[<xwp - brothers]] — `إِخْوَة` · brothers
 - [[kyd - plot]] — `كَيْد` · plot
-- [[HAfZ - guardians]] — `حافِظ` · guardians
 - [[Hdyv - statement]] — `حَدِيث` · statement
-- [[r'yA - vision]] — `رُءْيا` · vision
+- [[sbE - seven]] — `سَبْع` · seven
 - [[>bwAn - parents]] — `أَبَوان` · parents
-- [[xAT} - sinners]] — `خاطِئ` · sinners
-- [[>jmE - all]] — `أَجْمَع` · all
 - [[bAb - gate]] — `باب` · gate
+- [[xAT} - sinners]] — `خاطِئ` · sinners
+- [[r'yA - vision]] — `رُءْيا` · vision
 - [[dbr - backs]] — `دُبُر` · backs
-- [[r>s - heads]] — `رَأْس` · heads
-- [[AwY - gave shelter]] — `آوَى` · gave shelter
-- [[yfty - explain me]] — `يُفْتِي` · explain me
-- [[>rHm - merciful]] — `أَرْحَم` · merciful
-- [[kbyr - great]] — `كَبِير` · great
-- [[jmyl - good]] — `جَمِيل` · good
-- [[qSS - story]] — `قَصَص` · story
+- [[>jmE - all]] — `أَجْمَع` · all
+- [[mSr - egypt]] — `مِصْر` · egypt
+- [[>DAE - allow lost]] — `أَضاعُ` · allow lost
+- [[Tyr - birds]] — `طَيْر` · birds
 - [[Amr>t - wife]] — `امْرَأَت` · wife
-- [[ESbp - group]] — `عُصْبَة` · group
-- [[xmr - intoxicants]] — `خَمْر` · intoxicants
-- [[DlAl - error]] — `ضَلال` · error
+- [[>wfY - fulfil]] — `أَوْفَى` · fulfil
+- [[mkr - plot]] — `مَكَرَ` · plot
+- [[ySf - they attribute]] — `يَصِفُ` · they attribute
+- [[kA*b - liars]] — `كاذِب` · liars
+- [[qSS - story]] — `قَصَص` · story
+- [[AwY - gave shelter]] — `آوَى` · gave shelter
+- [[swl - have enticed]] — `سَوَّلَ` · have enticed
 
 ## Roots
 
 - [[$Er - name]]
-- [[$Tn - shtn]]
+- [[$Tn - anything excessively proud]]
 - [[$dd - severe]]
-- [[$hd - shhd]]
-- [[$kr - shkr]]
-- [[$kw - shkw]]
+- [[$hd - witnessing]]
+- [[$kr - gratitude]]
+- [[$kw - complain show grief]]
 - [[$ms - horse refusing ridden]]
 - [[$rk - sharing partnership]]
 - [[$rr - sparks fire]]
 - [[$ry - buy sell]]
 - [[$y> - thing]]
 - [[$yx - old]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*nb - tail]]
-- [[>*n - adhn]]
+- [[>*n - ear]]
 - [[>Hd - anyone]]
-- [[>bw - abw]]
+- [[>bw - forefathers]]
 - [[>hl - people house]]
-- [[>jr - ajr]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
-- [[>sf - grief]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
+- [[>sf - alas]]
 - [[>ty - give]]
-- [[>vr - athr]]
-- [[>wl - like milk oil]]
-- [[>wn - awn]]
+- [[>vr - trace]]
+- [[>wl - return revert original]]
+- [[>wn - now]]
 - [[>wy - betake oneself place]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
 - [[Dgv - dgith]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
-- [[DyE - dye]]
-- [[E$r - eshr]]
-- [[E$w - eshw]]
-- [[E*b - edhb]]
+- [[DyE - perishing]]
+- [[E$r - ten]]
+- [[E$w - eating evening meal]]
+- [[E*b - motes particles floating]]
 - [[ESb - twist]]
 - [[ESm - tie cord]]
 - [[ESr - press squeeze something]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Ebd - worship]]
-- [[Ebr - ebr]]
+- [[Ebr - cross pass something]]
 
 ## Sample (ayah 1)
 

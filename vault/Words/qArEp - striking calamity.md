@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qrE - qre]]
+- [[qrE - strike hit]]
 
 ### Meaning
 **striking calamity** · Lemma **قارِعَة**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 13:31 · [[013 Ar-Rad]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if there was any Qur’ān [i.e., recitation] by which the mountains would be removed or the earth would be broken apart or the dead would be made to speak, [it would be this Qur’ān], but to Allāh belongs the affair entirely. Then have those who believed not accepted that had Allāh willed, He would have guided the people, all of them? And those who disbelieve do not cease to be struck, for what they have done, by calamity - or it will descend near their home - until there comes the promise of Allāh. Indeed, Allāh does not fail in [His] promise.
 
 **English (Yusuf Ali):** If there were a Qur'an with which mountains were moved, or the earth were cloven asunder, or the dead were made to speak, (this would be the one!) But, truly, the command is with Allah in all things! Do not the Believers know, that, had Allah (so) willed, He could have guided all mankind (to the right)? But the Unbelievers,- never will disaster cease to seize them for their (ill) deeds, or to settle close to their homes, until the promise of Allah come to pass, for, verily, Allah will not fail in His promise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر کوئی قرآن ایسا ہوتا کہ اس (کی تاثیر) سے پہاڑ چل پڑتے یا زمین پھٹ جاتی یا مردوں سے کلام کرسکتے۔ (تو یہی قرآن ان اوصاف سے متصف ہوتا مگر) بات یہ ہے کہ سب باتیں خدا کے اختیار میں ہیں تو کیا مومنوں کو اس سے اطمینان نہیں ہوا کہ اگر خدا چاہتا تو سب لوگوں کو ہدایت کے رستے پر چلا دیتا۔ اور کافروں پر ہمیشہ ان کے اعمال کے بدلے بلا آتی رہے گی یا ان کے مکانات کے قریب نازل ہوتی رہے گی یہاں تک کہ خدا کا وعدہ آپہنچے۔ بےشک خدا وعدہ خلاف نہیں کرتا
 
 [Open on Quran.com](https://quran.com/13/31)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The Thamud and the 'Ad People (branded) as false the Stunning Calamity!
 
+**Urdu (Fatah Muhammad Jalandhari):** کھڑکھڑانے والی (جس) کو ثمود اور عاد (دونوں) نے جھٹلایا
+
 [Open on Quran.com](https://quran.com/69/4)
 
 #### 101:1 · [[101 Al-Qariah]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The Striking Calamity -
 
 **English (Yusuf Ali):** The (Day) of Noise and Clamour:
+
+**Urdu (Fatah Muhammad Jalandhari):** کھڑ کھڑانے والی
 
 [Open on Quran.com](https://quran.com/101/1)
 
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** What is the (Day) of Noise and Clamour?
 
+**Urdu (Fatah Muhammad Jalandhari):** کھڑ کھڑانے والی کیا ہے؟
+
 [Open on Quran.com](https://quran.com/101/2)
 
 #### 101:3 · [[101 Al-Qariah]]
@@ -105,6 +113,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And what can make you know what is the Striking Calamity?
 
 **English (Yusuf Ali):** And what will explain to thee what the (Day) of Noise and Clamour is?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کیا جانوں کھڑ کھڑانے والی کیا ہے؟
 
 [Open on Quran.com](https://quran.com/101/3)
 

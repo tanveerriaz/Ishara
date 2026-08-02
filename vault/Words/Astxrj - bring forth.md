@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xrj - khrj]]
+- [[xrj - go come out]]
 
 ### Meaning
 **bring forth** · Lemma **اسْتَخْرَجَ**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 12:76 · [[012 Yusuf]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So he began [the search] with their bags before the bag of his brother; then he extracted it from the bag of his brother. Thus did We plan for Joseph. He could not have taken his brother within the religion [i.e., law] of the king except that Allāh willed. We raise in degrees whom We will, but over every possessor of knowledge is one [more] knowing.
 
 **English (Yusuf Ali):** So he began (the search) with their baggage, before (he came to) the baggage of his brother: at length he brought it out of his brother's baggage. Thus did We plan for Joseph. He could not take his brother by the law of the king except that Allah willed it (so). We raise to degrees (of wisdom) whom We please: but over all endued with knowledge is one, the All-Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر یوسف نے اپنے بھائی کے شلیتے سے پہلے ان کے شلیتوں کو دیکھنا شروع کیا پھر اپنے بھائی کے شلیتے میں سے اس کو نکال لیا۔ اس طرح ہم نے یوسف کے لیے تدبیر کی (ورنہ) بادشاہ کے قانون کے مطابق وہ مشیتِ خدا کے سوا اپنے بھائی کو لے نہیں سکتے تھے۔ ہم جس کے لیے چاہتے ہیں درجے بلند کرتے ہیں۔ اور ہر علم والے سے دوسرا علم والا بڑھ کر ہے
 
 [Open on Quran.com](https://quran.com/12/76)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is He Who has made the sea subject, that ye may eat thereof flesh that is fresh and tender, and that ye may extract therefrom ornaments to wear; and thou seest the ships therein that plough the waves, that ye may seek (thus) of the bounty of Allah and that ye may be grateful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے دریا کو تمہارے اختیار میں کیا تاکہ اس میں سے تازہ گوشت کھاؤ اور اس سے زیور (موتی وغیرہ) نکالو جسے تم پہنتے ہو۔ اور تم دیکھتے ہو کہ کشتیاں دریا میں پانی کو پھاڑتی چلی جاتی ہیں۔ اور اس لیے بھی (دریا کو تمہارے اختیار میں کیا) کہ تم خدا کے فضل سے (معاش) تلاش کرو تاکہ اس کا شکر کرو
+
 [Open on Quran.com](https://quran.com/16/14)
 
 #### 18:82 · [[018 Al-Kahf]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "As for the wall, it belonged to two youths, orphans, in the Town; there was, beneath it, a buried treasure, to which they were entitled: their father had been a righteous man: So thy Lord desired that they should attain their age of full strength and get out their treasure - a mercy (and favour) from thy Lord. I did it not of my own accord. Such is the interpretation of (those things) over which thou wast unable to hold patience."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ جو دیوار تھی سو وہ دو یتیم لڑکوں کی تھی (جو) شہر میں (رہتے تھے) اور اس کے نیچے ان کا خزانہ (مدفون) تھا اور ان کا باپ ایک نیک بخت آدمی تھا۔ تو تمہارے پروردگار نے چاہا کہ وہ اپنی جوانی کو پہنچ جائیں اور (پھر) اپنا خزانہ نکالیں۔ یہ تمہارے پروردگار کی مہربانی ہے۔ اور یہ کام میں نے اپنی طرف سے نہیں کئے۔ یہ ان باتوں کا راز ہے جن پر تم صبر نہ کرسکے
+
 [Open on Quran.com](https://quran.com/18/82)
 
 #### 35:12 · [[035 Fatir]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And not alike are the two seas [i.e., bodies of water]. One is fresh and sweet, palatable for drinking, and one is salty and bitter. And from each you eat tender meat and extract ornaments which you wear, and you see the ships plowing through [them] that you might seek of His bounty; and perhaps you will be grateful.
 
 **English (Yusuf Ali):** Nor are the two bodies of flowing water alike,- the one palatable, sweet, and pleasant to drink, and the other, salt and bitter. Yet from each (kind of water) do ye eat flesh fresh and tender, and ye extract ornaments to wear; and thou seest the ships therein that plough the waves, that ye may seek (thus) of the Bounty of Allah that ye may be grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور دونوں دریا (مل کر) یکساں نہیں ہوجاتے۔ یہ تو میٹھا ہے پیاس بجھانے والا۔ جس کا پانی خوشگوار ہے اور یہ کھاری ہے کڑوا۔ اور سب سے تم تازہ گوشت کھاتے ہو اور زیور نکالتے ہو جسے پہنتے ہو۔ اور تم دریا میں کشتیوں کو دیکھتے ہو کہ (پانی کو) پھاڑتی چلی آتی ہیں تاکہ تم اس کے فضل سے (معاش) تلاش کرو اور تاکہ شکر کرو
 
 [Open on Quran.com](https://quran.com/35/12)
 

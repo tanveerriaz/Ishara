@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:251 · [[002 Al-Baqarah]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So they defeated them by permission of Allāh, and David killed Goliath, and Allāh gave him the kingship and wisdom [i.e., prophethood] and taught him from that which He willed. And if it were not for Allāh checking [some] people by means of others, the earth would have been corrupted, but Allāh is the possessor of bounty for the worlds.
 
 **English (Yusuf Ali):** By Allah's will they routed them; and David slew Goliath; and Allah gave him power and wisdom and taught him whatever (else) He willed. And did not Allah Check one set of people by means of another, the earth would indeed be full of mischief: But Allah is full of bounty to all the worlds.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو طالوت کی فوج نے خدا کے حکم سے ان کو ہزیمت دی۔ اور داؤد نے جالوت کو قتل کر ڈالا۔ اور خدا نے اس کو بادشاہی اور دانائی بخشی اور جو کچھ چاہا سکھایا۔ اور خدا لوگوں کو ایک دوسرے (پر چڑھائی اور حملہ کرنے) سے ہٹاتا نہ رہتا تو ملک تباہ ہوجاتا لیکن خدا اہل عالم پر بڑا مہربان ہے
 
 [Open on Quran.com](https://quran.com/2/251)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If there were, in the heavens and the earth, other gods besides Allah, there would have been confusion in both! but glory to Allah, the Lord of the Throne: (High is He) above what they attribute to Him!
 
+**Urdu (Fatah Muhammad Jalandhari):** اگر آسمان اور زمین میں خدا کے سوا اور معبود ہوتے تو زمین وآسمان درہم برہم ہوجاتے۔ جو باتیں یہ لوگ بتاتے ہیں خدائے مالک عرش ان سے پاک ہے
+
 [Open on Quran.com](https://quran.com/21/22)
 
 #### 23:71 · [[023 Al-Muminun]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But if the Truth [i.e., Allāh] had followed their inclinations, the heavens and the earth and whoever is in them would have been ruined. Rather, We have brought them their message, but they, from their message, are turning away.
 
 **English (Yusuf Ali):** If the Truth had been in accord with their desires, truly the heavens and the earth, and all beings therein would have been in confusion and corruption! Nay, We have sent them their admonition, but they turn away from their admonition.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدائے (برحق) ان کی خواہشوں پر چلے تو آسمان اور زمین اور جو ان میں ہیں سب درہم برہم ہوجائیں۔ بلکہ ہم نے ان کے پاس ان کی نصیحت (کی کتاب) پہنچا دی ہے اور وہ اپنی (کتاب) نصیحت سے منہ پھیر رہے ہیں
 
 [Open on Quran.com](https://quran.com/23/71)
 

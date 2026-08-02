@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[blw - blw]]
+- [[blw - test try]]
 
 ### Meaning
 **was trial** · Lemma **بَلاء**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:49 · [[002 Al-Baqarah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We saved you [i.e., your forefathers] from the people of Pharaoh, who afflicted you with the worst torment, slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.
 
 **English (Yusuf Ali):** And remember, We delivered you from the people of Pharaoh: They set you hard tasks and punishments, slaughtered your sons and let your women-folk live; therein was a tremendous trial from your Lord.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (ہمارے ان احسانات کو یاد کرو) جب ہم نے تم کو قومِ فرعون سے نجات بخشی وہ (لوگ) تم کو بڑا دکھ دیتے تھے تمہارے بیٹوں کو تو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
 
 [Open on Quran.com](https://quran.com/2/49)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And remember We rescued you from Pharaoh's people, who afflicted you with the worst of penalties, who slew your male children and saved alive your females: in that was a momentous trial from your Lord.
 
+**Urdu (Fatah Muhammad Jalandhari):** (اور ہمارے ان احسانوں کو یاد کرو) جب ہم نے تم کو فرعونیوں (کے ہاتھ) سے نجات بخشی وہ لوگ تم کو بڑا دکھ دیتے تھے۔ تمہارے بیٹوں کو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے۔ اور اس میں تمہارے پروردگار کی طرف سے سخت آزمائش تھی
+
 [Open on Quran.com](https://quran.com/7/141)
 
 #### 8:17 · [[008 Al-Anfal]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And you did not kill them, but it was Allāh who killed them. And you threw not, [O Muḥammad], when you threw, but it was Allāh who threw that He might test the believers with a good test. Indeed, Allāh is Hearing and Knowing.
 
 **English (Yusuf Ali):** It is not ye who slew them; it was Allah: when thou threwest (a handful of dust), it was not thy act, but Allah's: in order that He might test the Believers by a gracious trial from Himself: for Allah is He Who heareth and knoweth (all things).
+
+**Urdu (Fatah Muhammad Jalandhari):** تم لوگوں نے ان (کفار) کو قتل نہیں کیا بلکہ خدا نے انہیں قتل کیا۔ اور (اے محمدﷺ) جس وقت تم نے کنکریاں پھینکی تھیں تو وہ تم نے نہیں پھینکی تھیں بلکہ الله نے پھینکی تھیں۔ اس سے یہ غرض تھی کہ مومنوں کو اپنے (احسانوں) سے اچھی طرح آزمالے۔ بےشک خدا سنتا جانتا ہے
 
 [Open on Quran.com](https://quran.com/8/17)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Remember! Moses said to his people: "Call to mind the favour of Allah to you when He delivered you from the people of Pharaoh: they set you hard tasks and punishments, slaughtered your sons, and let your women-folk live: therein was a tremendous trial from your Lord."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم سے کہا کہ خدا نے جو تم پر مہربانیاں کی ہیں ان کو یاد کرو جب کہ تم کو فرعون کی قوم (کے ہاتھ) سے مخلصی دی وہ لوگ تمہیں بُرے عذاب دیتے تھے اور تمہارے بیٹوں کو مار ڈالتے تھے اور عورت ذات یعنی تمہاری لڑکیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
+
 [Open on Quran.com](https://quran.com/14/6)
 
 #### 37:106 · [[037 As-Saffat]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For this was obviously a trial-
 
+**Urdu (Fatah Muhammad Jalandhari):** بلاشبہ یہ صریح آزمائش تھی
+
 [Open on Quran.com](https://quran.com/37/106)
 
 #### 44:33 · [[044 Ad-Dukhan]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We gave them of signs that in which there was a clear trial.
 
 **English (Yusuf Ali):** And granted them Signs in which there was a manifest trial
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو ایسی نشانیاں دی تھیں جن میں صریح آزمائش تھی
 
 [Open on Quran.com](https://quran.com/44/33)
 

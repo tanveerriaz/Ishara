@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:124 · [[002 Al-Baqarah]]
 
@@ -49,6 +49,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [mention, O Muḥammad], when Abraham was tried by his Lord with words [i.e., commands] and he fulfilled them. [Allāh] said, "Indeed, I will make you a leader for the people." [Abraham] said, "And of my descendants?" [Allāh] said, "My covenant does not include the wrongdoers."
 
 **English (Yusuf Ali):** And remember that Abraham was tried by his Lord with certain commands, which he fulfilled: He said: "I will make thee an Imam to the Nations." He pleaded: "And also (Imams) from my offspring!" He answered: "But My Promise is not within the reach of evil-doers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب پروردگار نے چند باتوں میں ابراہیم کی آزمائش کی تو ان میں پورے اترے۔ خدا نے کہا کہ میں تم کو لوگوں کا پیشوا بناؤں گا۔ انہوں نے کہا کہ (پروردگار) میری اولاد میں سے بھی (پیشوا بنائیو)۔ خدا نے فرمایا کہ ہمارا اقرار ظالموں کے لیے نہیں ہوا کرتا
 
 [Open on Quran.com](https://quran.com/2/124)
 
@@ -66,6 +68,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But if they violate their oaths after their covenant, and taunt you for your Faith,- fight ye the chiefs of Unfaith: for their oaths are nothing to them: that thus they may be restrained.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر عہد کرنے کے بعد اپنی قسموں کو توڑ ڈالیں اور تمہارے دین میں طعنے کرنے لگیں تو ان کفر کے پیشواؤں سے جنگ کرو (یہ یہ بےایمان لوگ ہیں اور) ان کی قسموں کا کچھ اعتبار نہیں ہے۔ عجب نہیں کہ (اپنی حرکات سے) باز آجائیں
+
 [Open on Quran.com](https://quran.com/9/12)
 
 #### 11:17 · [[011 Hud]]
@@ -81,6 +85,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So is one who [stands] upon a clear evidence from his Lord [like the aforementioned]? And a witness from Him follows it, and before it was the Scripture of Moses to lead and as mercy. Those [believers in the former revelations] believe in it [i.e., the Qur’ān]. But whoever disbelieves in it from the [various] factions - the Fire is his promised destination. So be not in doubt about it. Indeed, it is the truth from your Lord, but most of the people do not believe.
 
 **English (Yusuf Ali):** Can they be (like) those who accept a Clear (Sign) from their Lord, and whom a witness from Himself doth teach, as did the Book of Moses before it,- a guide and a mercy? They believe therein; but those of the Sects that reject it,- the Fire will be their promised meeting-place. Be not then in doubt thereon: for it is the truth from thy Lord: yet many among men do not believe!
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جو لوگ اپنے پروردگار کی طرف سے (روشن) دلیل رکھتے ہوں اور ان کے ساتھ ایک (آسمانی) گواہ بھی اس کی جانب سے ہو اور اس سے پہلے موسیٰ کی کتاب ہو جو پیشوا اور رحمت ہے (تو کیا وہ قرآن پر ایمان نہیں لائیں گے) یہی لوگ اس پر ایمان لاتے ہیں اور جو کوئی اور فرقوں میں سے اس سے منکر ہو تو اس کا ٹھکانہ آگ ہے۔ تو تم اس (قرآن) سے شک میں نہ ہونا۔ یہ تمہارے پروردگار کی طرف سے حق ہے لیکن اکثر لوگ ایمان نہیں لاتے
 
 [Open on Quran.com](https://quran.com/11/17)
 
@@ -98,6 +104,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So We exacted retribution from them. They were both on an open highway, plain to see.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان سے بھی بدلہ لیا۔ اور یہ دونوں شہر کھلے رستے پر (موجود) ہیں
+
 [Open on Quran.com](https://quran.com/15/79)
 
 #### 17:71 · [[017 Al-Isra]]
@@ -113,6 +121,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Mention, O Muḥammad], the Day We will call forth every people with their record [of deeds]. Then whoever is given his record in his right hand - those will read their records, and injustice will not be done to them, [even] as much as a thread [inside the date seed].
 
 **English (Yusuf Ali):** One day We shall call together all human beings with their (respective) Imams: those who are given their record in their right hand will read it (with pleasure), and they will not be dealt with unjustly in the least.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن ہم سب لوگوں کو ان کے پیشواؤں کے ساتھ بلائیں گے۔ تو جن (کے اعمال) کی کتاب ان کے داہنے ہاتھ میں دی جائے گی وہ اپنی کتاب کو (خوش ہو ہو کر) پڑھیں گے اور ان پر دھاگے برابر بھی ظلم نہ ہوگا
 
 [Open on Quran.com](https://quran.com/17/71)
 
@@ -130,6 +140,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We made them leaders, guiding (men) by Our Command, and We sent them inspiration to do good deeds, to establish regular prayers, and to practise regular charity; and they constantly served Us (and Us only).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو پیشوا بنایا کہ ہمارے حکم سے ہدایت کرتے تھے اور ان کو نیک کام کرنے اور نماز پڑھنے اور زکوٰة دینے کا حکم بھیجا۔ اور وہ ہماری عبادت کیا کرتے تھے
+
 [Open on Quran.com](https://quran.com/21/73)
 
 #### 25:74 · [[025 Al-Furqan]]
@@ -145,6 +157,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who say, "Our Lord, grant us from among our wives and offspring comfort to our eyes and make us a leader [i.e., example] for the righteous."
 
 **English (Yusuf Ali):** And those who pray, "Our Lord! Grant unto us wives and offspring who will be the comfort of our eyes, and give us (the grace) to lead the righteous."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ جو (خدا سے) دعا مانگتے ہیں کہ اے پروردگار ہم کو ہماری بیویوں کی طرف سے (دل کا چین) اور اولاد کی طرف سے آنکھ کی ٹھنڈک عطا فرما اور ہمیں پرہیزگاروں کا امام بنا
 
 [Open on Quran.com](https://quran.com/25/74)
 
@@ -162,6 +176,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We wished to be Gracious to those who were being depressed in the land, to make them leaders (in Faith) and make them heirs,
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم چاہتے تھے کہ جو لوگ ملک میں کمزور کر دیئے گئے ہیں اُن پر احسان کریں اور اُن کو پیشوا بنائیں اور انہیں (ملک کا) وارث کریں
+
 [Open on Quran.com](https://quran.com/28/5)
 
 #### 28:41 · [[028 Al-Qasas]]
@@ -178,6 +194,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And we made them (but) leaders inviting to the Fire; and on the Day of Judgment no help shall they find.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو پیشوا بنایا تھا وہ (لوگوں) کو دوزخ کی طرف بلاتے تھے اور قیامت کے دن اُن کی مدد نہیں کی جائے گی
+
 [Open on Quran.com](https://quran.com/28/41)
 
 #### 32:24 · [[032 As-Sajdah]]
@@ -193,6 +211,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We made from among them leaders guiding by Our command when they were patient and [when] they were certain of Our signs.
 
 **English (Yusuf Ali):** And We appointed, from among them, leaders, giving guidance under Our command, so long as they persevered with patience and continued to have faith in Our Signs.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے ہم نے پیشوا بنائے تھے جو ہمارے حکم سے ہدایت کیا کرتے تھے۔ جب وہ صبر کرتے تھے اور وہ ہماری آیتوں پر یقین رکھتے تھے
 
 [Open on Quran.com](https://quran.com/32/24)
 

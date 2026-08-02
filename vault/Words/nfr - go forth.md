@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nfr - nafara]]
+- [[nfr - take fright flee]]
 
 ### Meaning
 **go forth** · Lemma **نَفَرَ**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:71 · [[004 An-Nisa]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, take your precaution and [either] go forth in companies or go forth all together.
 
 **English (Yusuf Ali):** O ye who believe! Take your precautions, and either go forth in parties or go forth all together.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! (جہاد کے لئے) ہتھیار لے لیا کرو پھر یا تو جماعت جماعت ہو کر نکلا کرو یا سب اکھٹے کوچ کیا کرو
 
 [Open on Quran.com](https://quran.com/4/71)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! what is the matter with you, that, when ye are asked to go forth in the cause of Allah, ye cling heavily to the earth? Do ye prefer the life of this world to the Hereafter? But little is the comfort of this life, as compared with the Hereafter.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تمہیں کیا ہوا ہے کہ جب تم سے کہا جاتا ہے کہ خدا کی راہ میں (جہاد کے لیے) نکلو تو تم (کاہلی کے سبب سے) زمین پر گرے جاتے ہو (یعنی گھروں سے نکلنا نہیں چاہتے) کیا تم آخرت (کی نعمتوں) کو چھوڑ کر دینا کی زندگی پر خوش ہو بیٹھے ہو۔ دنیا کی زندگی کے فائدے تو آخرت کے مقابل بہت ہی کم ہیں
+
 [Open on Quran.com](https://quran.com/9/38)
 
 #### 9:39 · [[009 At-Tawbah]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If you do not go forth, He will punish you with a painful punishment and will replace you with another people, and you will not harm Him at all. And Allāh is over all things competent.
 
 **English (Yusuf Ali):** Unless ye go forth, He will punish you with a grievous penalty, and put others in your place; but Him ye would not harm in the least. For Allah hath power over all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم نہ نکلو گے تو خدا تم کو بڑی تکلیف کا عذاب دے گا۔ اور تمہاری جگہ اور لوگ پیدا کر دے گا (جو خدا کے پورے فرمانبردار ہوں گے) اور تم اس کو کچھ نقصان نہ پہنچا سکو گے اور خدا ہر چیز پر قدرت رکھتا ہے
 
 [Open on Quran.com](https://quran.com/9/39)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Go ye forth, (whether equipped) lightly or heavily, and strive and struggle, with your goods and your persons, in the cause of Allah. That is best for you, if ye (but) knew.
 
+**Urdu (Fatah Muhammad Jalandhari):** تم سبکبار ہو یا گراں بار (یعنی مال و اسباب تھوڑا رکھتے ہو یا بہت، گھروں سے) نکل آؤ۔ اور خدا کے رستے میں مال اور جان سے لڑو۔ یہی تمہارے حق میں اچھا ہے بشرطیکہ سمجھو
+
 [Open on Quran.com](https://quran.com/9/41)
 
 #### 9:81 · [[009 At-Tawbah]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those who remained behind rejoiced in their staying [at home] after [the departure of] the Messenger of Allāh and disliked to strive with their wealth and their lives in the cause of Allāh and said, "Do not go forth in the heat." Say, "The fire of Hell is more intense in heat" - if they would but understand.
 
 **English (Yusuf Ali):** Those who were left behind (in the Tabuk expedition) rejoiced in their inaction behind the back of the Messenger of Allah: they hated to strive and fight, with their goods and their persons, in the cause of Allah: they said, "Go not forth in the heat." Say, "The fire of Hell is fiercer in heat." If only they could understand!
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (غزوہٴ تبوک میں) پیچھے رہ گئے وہ پیغمبر خدا (کی مرضی) کے خلاف بیٹھے رہنے سے خوش ہوئے اور اس بات کو ناپسند کیا کہ خدا کی راہ میں اپنے مال اور جان سے جہاد کریں۔ اور (اوروں سے بھی) کہنے لگے کہ گرمی میں مت نکلنا۔ (ان سے) کہہ دو کہ دوزخ کی آگ اس سے کہیں زیادہ گرم ہے۔ کاش یہ (اس بات) کو سمجھتے
 
 [Open on Quran.com](https://quran.com/9/81)
 
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Nor should the Believers all go forth together: if a contingent from every expedition remained behind, they could devote themselves to studies in religion, and admonish the people when they return to them,- that thus they (may learn) to guard themselves (against evil).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ تو ہو نہیں سکتا کہ مومن سب کے سب نکل آئیں۔ تو یوں کیوں نہ کیا کہ ہر ایک جماعت میں سے چند اشخاص نکل جاتے تاکہ دین کا (علم سیکھتے اور اس) میں سمجھ پیدا کرتے اور جب اپنی قوم کی طرف واپس آتے تو ان کو ڈر سناتے تاکہ وہ حذر کرتے
+
 [Open on Quran.com](https://quran.com/9/122)
 
 #### 18:34 · [[018 Al-Kahf]]
@@ -139,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And he had fruit, so he said to his companion while he was conversing with him, "I am greater than you in wealth and mightier in [numbers of] men."
 
 **English (Yusuf Ali):** (Abundant) was the produce this man had: he said to his companion, in the course of a mutual argument: "more wealth have I than you, and more honour and power in (my following of) men."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس طرح) اس (شخص) کو (ان کی) پیداوار (ملتی رہتی) تھی تو (ایک دن) جب کہ وہ اپنے دوست سے باتیں کر رہا تھا کہنے لگا کہ میں تم سے مال ودولت میں بھی زیادہ ہوں اور جتھے (اور جماعت) کے لحاظ سے بھی زیادہ عزت والا ہوں
 
 [Open on Quran.com](https://quran.com/18/34)
 
@@ -156,6 +170,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Behold, We turned towards thee a company of Jinns (quietly) listening to the Qur'an: when they stood in the presence thereof, they said, "Listen in silence!" When the (reading) was finished, they returned to their people, to warn (them of their sins).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے جنوں میں سے کئی شخص تمہاری طرف متوجہ کئے کہ قرآن سنیں۔ تو جب وہ اس کے پاس آئے تو (آپس میں) کہنے لگے کہ خاموش رہو۔ جب (پڑھنا) تمام ہوا تو اپنی برادری کے لوگوں میں واپس گئے کہ (ان کو) نصیحت کریں
+
 [Open on Quran.com](https://quran.com/46/29)
 
 #### 72:1 · [[072 Al-Jinn]]
@@ -171,6 +187,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O Muḥammad], "It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur’ān [i.e., recitation].
 
 **English (Yusuf Ali):** Say: It has been revealed to me that a company of Jinns listened (to the Qur'an). They said, 'We have really heard a wonderful Recital!
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر لوگوں سے) کہہ دو کہ میرے پاس وحی آئی ہے کہ جنوں کی ایک جماعت نے (اس کتاب کو) سنا تو کہنے لگے کہ ہم نے ایک عجیب قرآن سنا
 
 [Open on Quran.com](https://quran.com/72/1)
 

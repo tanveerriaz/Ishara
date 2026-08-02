@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 5:114 · [[005 Al-Maidah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Said Jesus, the son of Mary, "O Allāh, our Lord, send down to us a table [spread with food] from the heaven to be for us a festival for the first of us and the last of us and a sign from You. And provide for us, and You are the best of providers."
 
 **English (Yusuf Ali):** Said Jesus the son of Mary: "O Allah our Lord! Send us from heaven a table set (with viands), that there may be for us - for the first and the last of us - a solemn festival and a sign from thee; and provide for our sustenance, for thou art the best Sustainer (of our needs)."
+
+**Urdu (Fatah Muhammad Jalandhari):** (تب) عیسیٰ بن مریم نے دعا کی کہ اے ہمارے پروردگار! ہم پر آسمان سے خوان نازل فرما کہ ہمارے لیے (وہ دن) عید قرار پائے یعنی ہمارے اگلوں اور پچھلوں (سب) کے لیے اور وہ تیری طرف سے نشانی ہو اور ہمیں رزق دے تو بہتر رزق دینے والا ہے
 
 [Open on Quran.com](https://quran.com/5/114)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We have provided therein means of subsistence,- for you and for those for whose sustenance ye are not responsible.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہی نے تمہارے لیے اور ان لوگوں کے لیے جن کو تم روزی نہیں دیتے اس میں معاش کے سامان پیدا کئے
+
 [Open on Quran.com](https://quran.com/15/20)
 
 #### 22:58 · [[022 Al-Hajj]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who emigrated for the cause of Allāh and then were killed or died - Allāh will surely provide for them a good provision. And indeed, it is Allāh who is the best of providers.
 
 **English (Yusuf Ali):** Those who leave their homes in the cause of Allah, and are then slain or die,- On them will Allah bestow verily a goodly Provision: Truly Allah is He Who bestows the best provision.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے خدا کی راہ میں ہجرت کی پھر مارے گئے یا مر گئے۔ ان کو خدا اچھی روزی دے گا۔ اور بےشک خدا سب سے بہتر رزق دینے والا ہے
 
 [Open on Quran.com](https://quran.com/22/58)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Or is it that thou askest them for some recompense? But the recompense of thy Lord is best: He is the Best of those who give sustenance.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم ان سے (تبلیغ کے صلے میں) کچھ مال مانگتے ہو، تو تمہارا پروردگار کا مال بہت اچھا ہے اور وہ سب سے بہتر رزق دینے والا ہے
+
 [Open on Quran.com](https://quran.com/23/72)
 
 #### 34:39 · [[034 Saba]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "Verily my Lord enlarges and restricts the Sustenance to such of his servants as He pleases: and nothing do ye spend in the least (in His cause) but He replaces it: for He is the Best of those who grant Sustenance.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میرا پروردگار اپنے بندوں میں سے جس کے لئے چاہتا ہے روزی فراخ کردیتا ہے اور (جس کے لئے چاہتا ہے) تنگ کردیتا ہے اور تم جو چیز خرچ کرو گے وہ اس کا (تمہیں) عوض دے گا۔ اور وہ سب سے بہتر رزق دینے والا ہے
+
 [Open on Quran.com](https://quran.com/34/39)
 
 #### 62:11 · [[062 Al-Jumuah]]
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But [on one occasion] when they saw a transaction or a diversion, [O Muḥammad], they rushed to it and left you standing. Say, "What is with Allāh is better than diversion and than a transaction, and Allāh is the best of providers."
 
 **English (Yusuf Ali):** But when they see some bargain or some amusement, they disperse headlong to it, and leave thee standing. Say: "The (blessing) from the Presence of Allah is better than any amusement or bargain! and Allah is the Best to provide (for all needs)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب یہ لوگ سودا بکتا یا تماشا ہوتا دیکھتے ہیں تو ادھر بھاگ جاتے ہیں اور تمہیں (کھڑے کا) کھڑا چھوڑ جاتے ہیں۔ کہہ دو کہ جو چیز خدا کے ہاں ہے وہ تماشے اور سودے سے کہیں بہتر ہے اور خدا سب سے بہتر رزق دینے والا ہے
 
 [Open on Quran.com](https://quran.com/62/11)
 

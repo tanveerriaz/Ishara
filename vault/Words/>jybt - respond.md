@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jwb - jwb]]
+- [[jwb - make hole]]
 
 ### Meaning
 **respond** · Lemma **أُجِيبَت**
@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:186 · [[002 Al-Baqarah]]
 
@@ -45,6 +45,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when My servants ask you, [O Muḥammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided.
 
 **English (Yusuf Ali):** When My servants ask thee concerning Me, I am indeed close (to them): I listen to the prayer of every suppliant when he calleth on Me: Let them also, with a will, Listen to My call, and believe in Me: That they may walk in the right way.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) جب تم سے میرے بندے میرے بارے میں دریافت کریں تو (کہہ دو کہ) میں تو (تمہارے) پاس ہوں جب کوئی پکارنے والا مجھے پکارتا ہے تو میں اس کی دعا قبول کرتا ہوں تو ان کو چاہیئے کہ میرے حکموں کو مانیں اور مجھ پر ایمان لائیں تاکہ نیک رستہ پائیں
 
 [Open on Quran.com](https://quran.com/2/186)
 
@@ -62,6 +64,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** One day will Allah gather the messengers together, and ask: "What was the response ye received (from men to your teaching)?" They will say: "We have no knowledge: it is Thou Who knowest in full all that is hidden."
 
+**Urdu (Fatah Muhammad Jalandhari):** (وہ دن یاد رکھنے کے لائق ہے) جس دن خدا پیغمبروں کو جمع کرے گا پھر ان سے پوچھے گا کہ تمہیں کیا جواب ملا تھا وہ عرض کریں گے کہ ہمیں کچھ معلوم نہیں توہی غیب کی باتوں سے واقف ہے
+
 [Open on Quran.com](https://quran.com/5/109)
 
 #### 10:89 · [[010 Yunus]]
@@ -77,6 +81,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** [Allāh] said, "Your supplication has been answered." So remain on a right course and follow not the way of those who do not know."
 
 **English (Yusuf Ali):** Allah said: "Accepted is your prayer (O Moses and Aaron)! So stand ye straight, and follow not the path of those who know not."
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے فرمایا کہ تمہاری دعا قبول کرلی گئی تو تم ثابت قدم رہنا اور بےعقلوں کے رستے نہ چلنا
 
 [Open on Quran.com](https://quran.com/10/89)
 
@@ -94,6 +100,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So warn mankind of the Day when the Wrath will reach them: then will the wrong-doers say: "Our Lord! respite us (if only) for a short term: we will answer Thy call, and follow the messengers!" "What! were ye not wont to swear aforetime that ye should suffer no decline?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور لوگوں کو اس دن سے آگاہ کردو جب ان پر عذاب آجائے گا تب ظالم لوگ کہیں گے کہ اے ہمارے پروردگار ہمیں تھوڑی سی مدت مہلت عطا کر۔ تاکہ تیری دعوت (توحید) قبول کریں اور (تیرے) پیغمبروں کے پیچھے چلیں (تو جواب ملے گا) کیا تم پہلے قسمیں نہیں کھایا کرتے تھے کہ تم کو (اس حال سے جس میں تم ہو) زوال (اور قیامت کو حساب اعمال) نہیں ہوگا
+
 [Open on Quran.com](https://quran.com/14/44)
 
 #### 27:62 · [[027 An-Naml]]
@@ -109,6 +117,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Is He [not best] who responds to the desperate one when he calls upon Him and removes evil and makes you inheritors of the earth? Is there a deity with Allāh? Little do you remember.
 
 **English (Yusuf Ali):** Or, Who listens to the (soul) distressed when it calls on Him, and Who relieves its suffering, and makes you (mankind) inheritors of the earth? (Can there be another) god besides Allah? Little it is that ye heed!
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا کون بیقرار کی التجا قبول کرتا ہے۔ جب وہ اس سے دعا کرتا ہے اور (کون اس کی) تکلیف کو دور کرتا ہے اور (کون) تم کو زمین میں (اگلوں کا) جانشین بناتا ہے (یہ سب کچھ خدا کرتا ہے) تو کیا خدا کے ساتھ کوئی اور معبود بھی ہے (ہرگز نہیں مگر) تم بہت کم غور کرتے ہو
 
 [Open on Quran.com](https://quran.com/27/62)
 
@@ -126,6 +136,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** That Day (Allah) will call to them, and say: "What was the answer ye gave to the messengers?"
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جس روز خدا اُن کو پکارے گا اور کہے گا کہ تم نے پیغمبروں کو کیا جواب دیا
+
 [Open on Quran.com](https://quran.com/28/65)
 
 #### 46:31 · [[046 Al-Ahqaf]]
@@ -142,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "O our people, hearken to the one who invites (you) to Allah, and believe in him: He will forgive you your faults, and deliver you from a Penalty Grievous.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے قوم! خدا کی طرف بلانے والے کی بات قبول کرو اور اس پر ایمان لاؤ۔ خدا تمہارے گناہ بخش دے گا اور تمہیں دکھ دینے والے عذاب سے پناہ میں رکھے گا
+
 [Open on Quran.com](https://quran.com/46/31)
 
 #### 46:32 · [[046 Al-Ahqaf]]
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But he who does not respond to the Caller of Allāh will not cause failure [to Him] upon earth, and he will not have besides Him any protectors. Those are in manifest error."
 
 **English (Yusuf Ali):** "If any does not hearken to the one who invites (us) to Allah, he cannot frustrate (Allah's Plan) on earth, and no protectors can he have besides Allah: such men (wander) in manifest error."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص خدا کی طرف بلانے والے کی بات قبول نہ کرے گا تو وہ زمین میں (خدا کو) عاجز نہیں کرسکے گا اور نہ اس کے سوا اس کے حمایتی ہوں گے۔ یہ لوگ صریح گمراہی میں ہیں
 
 [Open on Quran.com](https://quran.com/46/32)
 

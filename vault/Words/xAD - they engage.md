@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xwD - khawd]]
+- [[xwD - wade pass through]]
 
 ### Meaning
 **they engage** · Lemma **خاضُ**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:140 · [[004 An-Nisa]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And it has already come down to you in the Book [i.e., the Qur’ān] that when you hear the verses of Allāh [recited], they are denied [by them] and ridiculed; so do not sit with them until they enter into another conversation. Indeed, you would then be like them. Indeed, Allāh will gather the hypocrites and disbelievers in Hell all together -
 
 **English (Yusuf Ali):** Already has He sent you Word in the Book, that when ye hear the signs of Allah held in defiance and ridicule, ye are not to sit with them unless they turn to a different theme: if ye did, ye would be like them. For Allah will collect the hypocrites and those who defy faith - all in Hell:-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے تم (مومنوں) پر اپنی کتاب میں (یہ حکم) نازل فرمایا ہے کہ جب تم (کہیں) سنو کہ خدا کی آیتوں سے انکار ہورہا ہے اور ان کی ہنسی اڑائی جاتی ہے تو جب تک وہ لوگ اور باتیں (نہ) کرنے لگیں۔ ان کے پاس مت بیٹھو۔ ورنہ تم بھی انہیں جیسے ہوجاؤ گے۔ کچھ شک نہیں کہ خدا منافقوں اور کافروں سب کو دوزخ میں اکھٹا کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/4/140)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When thou seest men engaged in vain discourse about Our signs, turn away from them unless they turn to a different theme. If Satan ever makes thee forget, then after recollection, sit not thou in the company of those who do wrong.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم ایسے لوگوں کو دیکھو جو ہماری آیتوں کے بارے میں بیہودہ بکواس کر رہے ہوں تو ان سے الگ ہوجاؤ یہاں تک کہ اور باتوں میں مصروف ہوجائیں۔ اور اگر (یہ بات) شیطان تمہیں بھلا دے تو یاد آنے پر ظالم لوگوں کے ساتھ نہ بیٹھو
+
 [Open on Quran.com](https://quran.com/6/68)
 
 #### 9:65 · [[009 At-Tawbah]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you ask them, they will surely say, "We were only conversing and playing." Say, "Is it Allāh and His verses and His Messenger that you were mocking?"
 
 **English (Yusuf Ali):** If thou dost question them, they declare (with emphasis): "We were only talking idly and in play." Say: "Was it at Allah, and His Signs, and His Messenger, that ye were mocking?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم ان سے (اس بارے میں) دریافت کرو تو کہیں گے ہم تو یوں ہی بات چیت اور دل لگی کرتے تھے۔ کہو کیا تم خدا اور اس کی آیتوں اور اس کے رسول سے ہنسی کرتے تھے
 
 [Open on Quran.com](https://quran.com/9/65)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** As in the case of those before you: they were mightier than you in power, and more flourishing in wealth and children. They had their enjoyment of their portion: and ye have of yours, as did those before you; and ye indulge in idle talk as they did. They!- their work are fruitless in this world and in the Hereafter, and they will lose (all spiritual good).
 
+**Urdu (Fatah Muhammad Jalandhari):** (تم منافق لوگ) ان لوگوں کی طرح ہو، جو تم سے پہلے ہوچکے ہیں۔ وہ تم سے بہت زیادہ طاقتور اور مال و اولاد میں کہیں زیادہ تھے تو وہ اپنے حصے سے بہرہ یاب ہوچکے۔ سو جس طرح تم سے پہلے لوگ اپنے حصے سے فائدہ اٹھا چکے ہیں۔ اسی طرح تم نے اپنے حصے سے فائدہ اٹھا لیا۔ اور جس طرح وہ باطل میں ڈوبے رہے اسی طرح تم باطل میں ڈوبے رہے یہ وہ لوگ ہیں جن کے اعمال دنیا اور آخرت میں ضائع ہوگئے۔ اور یہی نقصان اٹھانے والے ہیں
+
 [Open on Quran.com](https://quran.com/9/69)
 
 #### 43:83 · [[043 Az-Zukhruf]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So leave them to converse vainly and amuse themselves until they meet their Day which they are promised.
 
 **English (Yusuf Ali):** So leave them to babble and play (with vanities) until they meet that Day of theirs, which they have been promised.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کو بک بک کرنے اور کھیلنے دو۔ یہاں تک کہ جس دن کا ان سے وعدہ کیا جاتا ہے اس کو دیکھ لیں
 
 [Open on Quran.com](https://quran.com/43/83)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So leave them to plunge in vain talk and play about, until they encounter that Day of theirs which they have been promised!-
 
+**Urdu (Fatah Muhammad Jalandhari):** تو (اے پیغمبر) ان کو باطل میں پڑے رہنے اور کھیل لینے دو یہاں تک کہ جس دن کا ان سے وعدہ کیا جاتا ہے وہ ان کے سامنے آ موجود ہو
+
 [Open on Quran.com](https://quran.com/70/42)
 
 #### 74:45 · [[074 Al-Muddaththir]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And we used to enter into vain discourse with those who engaged [in it],
 
 **English (Yusuf Ali):** "But we used to talk vanities with vain talkers;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اہل باطل کے ساتھ مل کر (حق سے) انکار کرتے تھے
 
 [Open on Quran.com](https://quran.com/74/45)
 

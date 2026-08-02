@@ -15,81 +15,81 @@ The Enshrouded One · 20 ayahs
 ## Words in this surah (graph)
 
 - [[nSf - half]] — `نِصْف` · half
-- [[Hsn - good]] — `حُسْن` · good
-- [[qAtl - fight]] — `قاتَلَ` · fight
-- [[lyl - night]] — `لَيْل` · night
-- [[qdr - restricts]] — `قَدَر` · restricts
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[>rD - earth]] — `أَرْض` · earth
+- [[wjd - we found]] — `وَجَدَ` · we found
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[mgrb - west]] — `مَغْرِب` · west
 - [[qr> - read]] — `قَرَأَ` · read
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
-- [[>EZm - greater]] — `أَعْظَم` · greater
-- [[>y - o you]] — `أَيّ` · o you
+- [[qrD - loan]] — `قَرْض` · loan
+- [[$Ahd - witnesses]] — `شاهِد` · witnesses
+- [[*kr - remember]] — `ذَكَرَ` · remember
 - [[m$rq - east]] — `مَشْرِق` · east
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[E*Ab - punishment]] — `عَذاب` · punishment
-- [[zAd - increase]] — `زادَ` · increase
-- [[rb - lord]] — `رَبّ` · lord
-- [[vqyl - heavy]] — `ثَقِيل` · heavy
-- [[nEmp - favor]] — `نِعْمَة` · favor
+- [[Elm - know]] — `عَلِمَ` · know
+- [[zkAp - zakah]] — `زَكاة` · zakah
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
+- [[qlyl - little]] — `قَلِيل` · little
+- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
 - [[SlAp - prayer]] — `صَلاة` · prayer
 - [[>lqY - throw]] — `أَلْقَى` · throw
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[wEd - promise]] — `وَعَدَ` · promise
-- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
-- [[TEAm - food]] — `طَعام` · food
+- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
+- [[AtqY - fear]] — `اتَّقَى` · fear
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[qAm - stand]] — `قامَ` · stand
+- [[y*r - leave]] — `يَذَرَ` · leave
+- [[Drb - strike]] — `ضَرَبَ` · strike
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$hd - shhd]]
-- [[$rq - east]]
+- [[$hd - witnessing]]
+- [[$rq - earth]]
 - [[$y> - thing]]
-- [[$yb - shyb]]
-- [[*kr - dhakara]]
-- [[>jr - ajr]]
+- [[$yb - white]]
+- [[*kr - remember recall something]]
+- [[>jr - recompensing rewarding someone]]
 - [[>lh - god]]
-- [[>lm - alm]]
-- [[>rD - ard]]
+- [[>lm - painful]]
+- [[>rD - earth]]
 - [[>ty - give]]
 - [[>x* - take]]
-- [[>xr - akhr]]
+- [[>xr - final part something]]
 - [[>yy - ism]]
-- [[Drb - tent]]
-- [[E*b - edhb]]
+- [[Drb - strike beat]]
+- [[E*b - motes particles floating]]
 - [[ESy - disobey]]
-- [[EZm - ezhm]]
+- [[EZm - great]]
 - [[Elm - knowledge]]
 - [[End - near]]
 - [[HSy - count reckon]]
 - [[Hsn - good]]
 - [[Sbr - confine restrain]]
 - [[Slw - prayer]]
-- [[TEm - tem]]
-- [[Twf - twf]]
+- [[TEm - food]]
+- [[Twf - go walk around]]
 - [[Twl - become long]]
 - [[allah - God]]
 - [[bgy - seek desire something]]
 - [[dnw - become near]]
-- [[fDl - fdl]]
+- [[fDl - bounty]]
 - [[fEl - deed]]
 - [[fTr - cleave split]]
 - [[gfr - cover conceal]]
 - [[grb - distance west]]
-- [[hjr - hjr]]
+- [[hjr - cut off]]
 - [[jEl - we made]]
-- [[jHm - jhm]]
-- [[jbl - jbl]]
+- [[jHm - intense heat burning]]
+- [[jbl - large company multitude]]
 - [[jml - male camel]]
 - [[k*b - denied]]
 - [[kfr - disbelieve]]
 - [[kwn - is]]
 - [[kyf - kayyafa]]
 - [[lqy - meeting]]
-- [[lyl - layl]]
+- [[lyl - night]]
 - [[mhl - act gently leisurely]]
-- [[mrD - marad]]
+- [[mrD - physical illness sickness]]
 - [[n$> - originate]]
 - [[nEm - favor]]
 

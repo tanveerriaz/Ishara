@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[brr - brr]]
+- [[brr - land]]
 
 ### Meaning
 **land** · Lemma **بِرّ**
@@ -40,7 +40,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:44 · [[002 Al-Baqarah]]
 
@@ -55,6 +55,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason?
 
 **English (Yusuf Ali):** Do ye enjoin right conduct on the people, and forget (To practise it) yourselves, and yet ye study the Scripture? Will ye not understand?
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ) کیا (عقل کی بات ہے کہ) تم لوگوں کو نیکی کرنے کو کہتے ہو اور اپنے تئیں فراموش کئے دیتے ہو، حالانکہ تم کتاب (خدا) بھی پڑھتے ہو۔ کیا تم سمجھتے نہیں؟
 
 [Open on Quran.com](https://quran.com/2/44)
 
@@ -72,6 +74,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+
 [Open on Quran.com](https://quran.com/2/177)
 
 #### 2:189 · [[002 Al-Baqarah]]
@@ -87,6 +91,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They ask you, [O Muḥammad], about the crescent moons. Say, "They are measurements of time for the people and for ḥajj [pilgrimage]." And it is not righteousness to enter houses from the back, but righteousness is [in] one who fears Allāh. And enter houses from their doors. And fear Allāh that you may succeed.
 
 **English (Yusuf Ali):** They ask thee concerning the New Moons. Say: They are but signs to mark fixed periods of time in (the affairs of) men, and for Pilgrimage. It is no virtue if ye enter your houses from the back: It is virtue if ye fear Allah. Enter houses through the proper doors: And fear Allah: That ye may prosper.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے نئے چاند کے بارے میں دریافت کرتے ہیں (کہ گھٹتا بڑھتا کیوں ہے) کہہ دو کہ وہ لوگوں کے (کاموں کی میعادیں) اور حج کے وقت معلوم ہونے کا ذریعہ ہے اور نیکی اس بات میں نہیں کہ (احرام کی حالت میں) گھروں میں ان کے پچھواڑے کی طرف سے آؤ۔ بلکہ نیکوکار وہ ہے جو پرہیز گار ہو اور گھروں میں ان کے دروازوں سے آیا کرو اور خدا سے ڈرتے رہو تاکہ نجات پاؤ
 
 [Open on Quran.com](https://quran.com/2/189)
 
@@ -104,6 +110,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** By no means shall ye attain righteousness unless ye give (freely) of that which ye love; and whatever ye give, of a truth Allah knoweth it well.
 
+**Urdu (Fatah Muhammad Jalandhari):** (مومنو!) جب تک تم ان چیزوں میں سے جو تمھیں عزیز ہیں (راہِ خدا میں) صرف نہ کرو گے کبھی نیکی حاصل نہ کر سکو گے اور جو چیز تم صرف کرو گے خدا اس کو جانتا ہے
+
 [Open on Quran.com](https://quran.com/3/92)
 
 #### 3:193 · [[003 Ali Imran]]
@@ -119,6 +127,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Our Lord, indeed we have heard a caller [i.e., Prophet Muḥammad (ﷺ)] calling to faith, [saying], 'Believe in your Lord,' and we have believed. Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die among the righteous.
 
 **English (Yusuf Ali):** "Our Lord! we have heard the call of one calling (Us) to Faith, 'Believe ye in the Lord,' and we have believed. Our Lord! Forgive us our sins, blot out from us our iniquities, and take to Thyself our souls in the company of the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگارہم نے ایک ندا کرنے والے کو سنا کہ ایمان کے لیے پکار رہا تھا (یعنی) اپنے پروردگار پر ایمان لاؤ تو ہم ایمان لے آئے اے پروردگار ہمارے گناہ معاف فرما اور ہماری برائیوں کو ہم سے محو کر اور ہم کو دنیا سے نیک بندوں کے ساتھ اٹھا
 
 [Open on Quran.com](https://quran.com/3/193)
 
@@ -136,6 +146,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** On the other hand, for those who fear their Lord, are Gardens, with rivers flowing beneath; therein are they to dwell (for ever),- a gift from the presence of Allah; and that which is in the presence of Allah is the best (bliss) for the righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** لیکن جو لوگ اپنے پروردگار سے ڈرتے رہے ان کے لیے باغ ہے جن کے نیچے نہریں بہہ رہی ہیں (اور) ان میں ہمیشہ رہیں گے (یہ) خدا کے ہاں سے (ان کی) مہمانی ہے اور جو کچھ خدا کے ہاں ہے وہ نیکو کاروں کے لیے بہت اچھا ہے
+
 [Open on Quran.com](https://quran.com/3/198)
 
 #### 5:2 · [[005 Al-Maidah]]
@@ -151,6 +163,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not violate the rites of Allāh or [the sanctity of] the sacred month or [neglect the marking of] the sacrificial animals and garlanding [them] or [violate the safety of] those coming to the Sacred House seeking bounty from their Lord and [His] approval. But when you come out of iḥrām, then [you may] hunt. And do not let the hatred of a people for having obstructed you from al-Masjid al-Ḥarām lead you to transgress. And cooperate in righteousness and piety, but do not cooperate in sin and aggression. And fear Allāh; indeed, Allāh is severe in penalty.
 
 **English (Yusuf Ali):** O ye who believe! Violate not the sanctity of the symbols of Allah, nor of the sacred month, nor of the animals brought for sacrifice, nor the garlands that mark out such animals, nor the people resorting to the sacred house, seeking of the bounty and good pleasure of their Lord. But when ye are clear of the sacred precincts and of pilgrim garb, ye may hunt and let not the hatred of some people in (once) shutting you out of the Sacred Mosque lead you to transgression (and hostility on your part). Help ye one another in righteousness and piety, but help ye not one another in sin and rancour: fear Allah: for Allah is strict in punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کے نام کی چیزوں کی بےحرمتی نہ کرنا اور نہ ادب کے مہینے کی اور نہ قربانی کے جانوروں کی اور نہ ان جانوروں کی (جو خدا کی نذر کر دیئے گئے ہوں اور) جن کے گلوں میں پٹے بندھے ہوں اور نہ ان لوگوں کی جو عزت کے گھر (یعنی بیت الله) کو جا رہے ہوں (اور) اپنے پروردگار کے فضل اور اس کی خوشنودی کے طلبگار ہوں اور جب احرام اتار دو تو (پھر اختیار ہے کہ) شکار کرو اور لوگوں کی دشمنی اس وجہ سے کہ انہوں نے تم کو عزت والی مسجد سے روکا تھا تمہیں اس بات پر آمادہ نہ کرے کہ تم ان پر زیادتی کرنے لگو اور (دیکھو) نیکی اور پرہیزگاری کے کاموں میں ایک دوسرے کی مدد کیا کرو اور گناہ اور ظلم کی باتوں میں مدد نہ کیا کرو اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا کا عذاب سخت ہے
 
 [Open on Quran.com](https://quran.com/5/2)
 
@@ -168,6 +182,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Lawful to you is the pursuit of water-game and its use for food,- for the benefit of yourselves and those who travel; but forbidden is the pursuit of land-game;- as long as ye are in the sacred precincts or in pilgrim garb. And fear Allah, to Whom ye shall be gathered back.
 
+**Urdu (Fatah Muhammad Jalandhari):** تمہارے لیے دریا (کی چیزوں) کا شکار اور ان کا کھانا حلال کر دیا گیا ہے (یعنی) تمہارے اور مسافروں کے فائدے کے لیے اور جنگل (کی چیزوں) کا شکار جب تک تم احرام کی حالت میں رہو تم پر حرام ہے اور خدا سے جس کے پاس تم (سب) جمع کئے جاؤ گے ڈرتے رہو
+
 [Open on Quran.com](https://quran.com/5/96)
 
 #### 6:59 · [[006 Al-Anam]]
@@ -184,6 +200,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** With Him are the keys of the unseen, the treasures that none knoweth but He. He knoweth whatever there is on the earth and in the sea. Not a leaf doth fall but with His knowledge: there is not a grain in the darkness (or depths) of the earth, nor anything fresh or dry (green or withered), but is (inscribed) in a record clear (to those who can read).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی کے پاس غیب کی کنجیاں ہیں جن کو اس کے سوا کوئی نہیں جانتا۔ اور اسے جنگلوں اور دریاؤں کی سب چیزوں کا علم ہے۔ اور کوئی پتہ نہیں جھڑتا مگر وہ اس کو جانتا ہے اور زمین کے اندھیروں میں کوئی دانہ اور کوئی ہری اور سوکھی چیز نہیں ہے مگر کتاب روشن میں (لکھی ہوئی) ہے
+
 [Open on Quran.com](https://quran.com/6/59)
 
 #### 6:63 · [[006 Al-Anam]]
@@ -199,6 +217,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, "Who rescues you from the darknesses of the land and sea [when] you call upon Him imploring [aloud] and privately, 'If He should save us from this [crisis], we will surely be among the thankful.'"
 
 **English (Yusuf Ali):** Say: "Who is it that delivereth you from the dark recesses of land and sea, when ye call upon Him in humility and silent terror: 'If He only delivers us from these (dangers), (we vow) we shall truly show our gratitude'?"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو بھلا تم کو جنگلوں اور دریاؤں کے اندھیروں سے کون مخلصی دیتا ہے (جب) کہ تم اسے عاجزی اور نیاز پنہانی سے پکارتے ہو (اور کہتے ہو) اگر خدا ہم کو اس (تنگی) سے نجات بخشے تو ہم اس کے بہت شکر گزار ہوں
 
 [Open on Quran.com](https://quran.com/6/63)
 

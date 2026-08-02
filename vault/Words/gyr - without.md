@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 1:7 · [[001 Al-Fatihah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The path of those upon whom You have bestowed favor, not of those who have earned [Your] anger or of those who are astray.
 
 **English (Yusuf Ali):** The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں کے رستے جن پر تو اپنا فضل وکرم کرتا رہا نہ ان کے جن پر غصے ہوتا رہا اور نہ گمراہوں کے
 
 [Open on Quran.com](https://quran.com/1/7)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But the transgressors changed the word from that which had been given them; so We sent on the transgressors a plague from heaven, for that they infringed (Our command) repeatedly.
 
+**Urdu (Fatah Muhammad Jalandhari):** تو جو ظالم تھے، انہوں نے اس لفظ کو، جس کا ان کو حکم دیا تھا، بدل کر اس کی جگہ اور لفظ کہنا شروع کیا، پس ہم نے (ان) ظالموں پر آسمان سے عذاب نازل کیا، کیونکہ نافرمانیاں کئے جاتے تھے
+
 [Open on Quran.com](https://quran.com/2/59)
 
 #### 2:61 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when you said, "O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions." [Moses] said, "Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked." And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing.
 
 **English (Yusuf Ali):** And remember ye said: "O Moses! we cannot endure one kind of food (always); so beseech thy Lord for us to produce for us of what the earth groweth, -its pot-herbs, and cucumbers, Its garlic, lentils, and onions." He said: "Will ye exchange the better for the worse? Go ye down to any town, and ye shall find what ye want!" They were covered with humiliation and misery; they drew on themselves the wrath of Allah. This because they went on rejecting the Signs of Allah and slaying His Messengers without just cause. This because they rebelled and went on transgressing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے کہا کہ موسیٰ! ہم سے ایک (ہی) کھانے پر صبر نہیں ہو سکتا تو اپنے پروردگار سے دعا کیجئے کہ ترکاری اور ککڑی اور گیہوں اور مسور اور پیاز (وغیرہ) جو نباتات زمین سے اُگتی ہیں، ہمارے لیے پیدا کر دے۔ انہوں نے کہا کہ بھلا عمدہ چیزیں چھوڑ کر ان کے عوض ناقص چیزیں کیوں چاہتے ہوں۔ (اگر یہی چیزیں مطلوب ہیں) تو کسی شہر میں جا اترو، وہاں جو مانگتے ہو، مل جائے گا۔ اور (آخرکار) ذلت (ورسوائی) اور محتاجی (وبے نوائی) ان سے چمٹا دی گئی اور وہ الله کے غضب میں گرفتار ہو گئے۔ یہ اس لیے کہ وہ الله کی آیتوں سے انکار کرتے تھے اور (اس کے) نبیوں کو ناحق قتل کر دیتے تھے۔ (یعنی) یہ اس لیے کہ نافرمانی کئے جاتے اور حد سے بڑھے جاتے تھے
 
 [Open on Quran.com](https://quran.com/2/61)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** He hath only forbidden you dead meat, and blood, and the flesh of swine, and that on which any other name hath been invoked besides that of Allah. But if one is forced by necessity, without wilful disobedience, nor transgressing due limits,- then is he guiltless. For Allah is Oft-forgiving Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اس نے تم پر مرا ہوا جانور اور لہو اور سور کا گوشت اور جس چیز پر خدا کے سوا کسی اور کا نام پکارا جائے حرام کردیا ہے ہاں جو ناچار ہوجائے (بشرطیکہ ) خدا کی نافرمانی نہ کرے اور حد (ضرورت) سے باہر نہ نکل جائے اس پر کچھ گناہ نہیں۔ بےشک خدا بخشنے والا (اور) رحم کرنے والا ہے
+
 [Open on Quran.com](https://quran.com/2/173)
 
 #### 2:212 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Beautified for those who disbelieve is the life of this world, and they ridicule those who believe. But those who fear Allāh are above them on the Day of Resurrection. And Allāh gives provision to whom He wills without account.
 
 **English (Yusuf Ali):** The life of this world is alluring to those who reject faith, and they scoff at those who believe. But the righteous will be above them on the Day of Resurrection; for Allah bestows His abundance without measure on whom He will.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کافر ہیں ان کے لئے دنیا کی زندگی خوشنما کر دی گئی ہے اور وہ مومنوں سے تمسخر کرتے ہیں لیکن جو پرہیز گار ہیں وہ قیامت کے دن ان پر غالب ہوں گے اور خدا جس کو چاہتا ہے بےشمار رزق دیتا ہے
 
 [Open on Quran.com](https://quran.com/2/212)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** So if a husband divorces his wife (irrevocably), He cannot, after that, re-marry her until after she has married another husband and He has divorced her. In that case there is no blame on either of them if they re-unite, provided they feel that they can keep the limits ordained by Allah. Such are the limits ordained by Allah, which He makes plain to those who understand.
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر اگر شوہر (دو طلاقوں کے بعد تیسری) طلاق عورت کو دے دے تو اس کے بعد جب تک عورت کسی دوسرے شخص سے نکاح نہ کرلے اس (پہلے شوہر) پر حلال نہ ہوگی۔ ہاں اگر دوسرا خاوند بھی طلاق دے دے اورعورت اور پہلا خاوند پھر ایک دوسرے کی طرف رجوع کرلیں تو ان پر کچھ گناہ نہیں بشرطیکہ دونوں یقین کریں کہ خدا کی حدوں کو قائم رکھ سکیں گے اور یہ خدا کی حدیں ہیں ان کو وہ ان لوگوں کے لئے بیان فرماتا ہے جو دانش رکھتے ہیں
+
 [Open on Quran.com](https://quran.com/2/230)
 
 #### 2:240 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who are taken in death among you and leave wives behind - for their wives is a bequest: maintenance for one year without turning [them] out. But if they leave [of their own accord], then there is no blame upon you for what they do with themselves in an acceptable way. And Allāh is Exalted in Might and Wise.
 
 **English (Yusuf Ali):** Those of you who die and leave widows should bequeath for their widows a year's maintenance and residence; but if they leave (The residence), there is no blame on you for what they do with themselves, provided it is reasonable. And Allah is Exalted in Power, Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم میں سے مرجائیں اور عورتیں چھوڑ جائیں وہ اپنی عورتوں کے حق میں وصیت کرجائیں کہ ان کو ایک سال تک خرچ دیا جائے اور گھر سے نہ نکالی جائیں۔ ہاں اگر وہ خود گھر سے نکل جائیں اور اپنے حق میں پسندیدہ کام (یعنی نکاح) کرلیں تو تم پر کچھ گناہ نہیں۔ اور خدا زبردست حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/2/240)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** As to those who deny the Signs of Allah and in defiance of right, slay the prophets, and slay those who teach just dealing with mankind, announce to them a grievous penalty.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کی آیتوں کو نہیں مانتے اور انبیاء کو ناحق قتل کرتے رہے ہیں اور جو انصاف (کرنے) کا حکم دیتے ہیں انہیں بھی مار ڈالتے ہیں ان کو دکھ دینے والے عذاب کی خوشخبری سنا دو
+
 [Open on Quran.com](https://quran.com/3/21)
 
 #### 3:27 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Thou causest the night to gain on the day, and thou causest the day to gain on the night; Thou bringest the Living out of the dead, and Thou bringest the dead out of the Living; and Thou givest sustenance to whom Thou pleasest, without measure."
 
+**Urdu (Fatah Muhammad Jalandhari):** تو ہی رات کو دن میں داخل کرتا اور تو ہی دن کو رات میں داخل کرتا ہے تو ہی بے جان سے جاندار پیدا کرتا ہے اور تو ہی جاندار سے بے جان پیدا کرتا ہے اور توہی جس کو چاہتا ہے بے شمار رزق بخشتا ہے
+
 [Open on Quran.com](https://quran.com/3/27)
 
 #### 3:37 · [[003 Ali Imran]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, "O Mary, from where is this [coming] to you?" She said, "It is from Allāh. Indeed, Allāh provides for whom He wills without account."
 
 **English (Yusuf Ali):** Right graciously did her Lord accept her: He made her grow in purity and beauty: To the care of Zakariya was she assigned. Every time that he entered (Her) chamber to see her, He found her supplied with sustenance. He said: "O Mary! Whence (comes) this to you?" She said: "From Allah: for Allah Provides sustenance to whom He pleases without measure."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو پروردگار نے اس کو پسندیدگی کے ساتھ قبول فرمایا اور اسے اچھی طرح پرورش کیا اور زکریا کو اس کا متکفل بنایا زکریا جب کبھی عبادت گاہ میں اس کے پاس جاتے تو اس کے پاس کھانا پاتے (یہ کیفیت دیکھ کر ایک دن مریم سے) پوچھنے لگے کہ مریم یہ کھانا تمہارے پاس کہاں سے آتا ہے وہ بولیں خدا کے ہاں سے (آتا ہے) بیشک خدا جسے چاہتا ہے بے شمار رزق دیتا ہے
 
 [Open on Quran.com](https://quran.com/3/37)
 

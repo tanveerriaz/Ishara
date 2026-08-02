@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mtn - matn]]
+- [[mtn - strong]]
 
 ### Meaning
 **firm** · Lemma **مَتِين**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 7:183 · [[007 Al-Araf]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And I will give them time. Indeed, My plan is firm.
 
 **English (Yusuf Ali):** Respite will I grant unto them: for My scheme is strong (and unfailing).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور میں ان کو مہلت دیئے جاتا ہوں میری تدبیر (بڑی) مضبوط ہے
 
 [Open on Quran.com](https://quran.com/7/183)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** For Allah is He Who gives (all) Sustenance,- Lord of Power,- Steadfast (for ever).
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو رزق دینے والا زور آور اور مضبوط ہے
+
 [Open on Quran.com](https://quran.com/51/58)
 
 #### 68:45 · [[068 Al-Qalam]]
@@ -73,6 +77,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And I will give them time. Indeed, My plan is firm.
 
 **English (Yusuf Ali):** A (long) respite will I grant them: truly powerful is My Plan.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور میں ان کو مہلت دیئے جاتا ہوں میری تدبیر قوی ہے
 
 [Open on Quran.com](https://quran.com/68/45)
 

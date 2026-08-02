@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wkl - wakala]]
+- [[wkl - rely someone]]
 
 ### Meaning
 **trust** · Lemma **مُتَوَكِّل**
@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:159 · [[003 Ali Imran]]
 
@@ -42,6 +42,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** So by mercy from Allāh, [O Muḥammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter. And when you have decided, then rely upon Allāh. Indeed, Allāh loves those who rely [upon Him].
 
 **English (Yusuf Ali):** It is part of the Mercy of Allah that thou dost deal gently with them Wert thou severe or harsh-hearted, they would have broken away from about thee: so pass over (Their faults), and ask for (Allah's) forgiveness for them; and consult them in affairs (of moment). Then, when thou hast Taken a decision put thy trust in Allah. For Allah loves those who put their trust (in Him).
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) خدا کی مہربانی سے تمہاری افتاد مزاج ان لوگوں کے لئے نرم واقع ہوئی ہے۔ اور اگر تم بدخو اور سخت دل ہوتے تو یہ تمہارے پاس سے بھاگ کھڑے ہوتے۔ تو ان کو معاف کردو اور ان کے لئے (خدا سے) مغفرت مانگو۔ اور اپنے کاموں میں ان سے مشورت لیا کرو۔ اور جب (کسی کام کا) عزم مصمم کرلو تو خدا پر بھروسا رکھو۔ بےشک خدا بھروسا رکھنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/3/159)
 
@@ -59,6 +61,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Further he said: "O my sons! enter not all by one gate: enter ye by different gates. Not that I can profit you aught against Allah (with my advice): None can command except Allah: On Him do I put my trust: and let all that trust put their trust on Him."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہدایت کی کہ بیٹا ایک ہی دروازے سے داخل نہ ہونا بلکہ جدا جدا دروازوں سے داخل ہونا۔ اور میں خدا کی تقدیر کو تم سے نہیں روک سکتا۔ بےشک حکم اسی کا ہے میں اسی پر بھروسہ رکھتا ہوں۔ اور اہلِ توکل کو اسی پر بھروسہ رکھنا چاہیئے
+
 [Open on Quran.com](https://quran.com/12/67)
 
 #### 14:12 · [[014 Ibrahim]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "No reason have we why we should not put our trust on Allah. Indeed He Has guided us to the Ways we (follow). We shall certainly bear with patience all the hurt you may cause us. For those who put their trust should put their trust on Allah."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم کیونکر خدا پر بھروسہ نہ رکھیں حالانکہ اس نے ہم کو ہمارے (دین کے سیدھے) رستے بتائے ہیں۔ جو تکلیفیں تم ہم کو دیتے ہو اس پر صبر کریں گے۔ اور اہل توکل کو خدا ہی پر بھروسہ رکھنا چاہیئے
+
 [Open on Quran.com](https://quran.com/14/12)
 
 #### 39:38 · [[039 Az-Zumar]]
@@ -90,6 +96,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And if you asked them, "Who created the heavens and the earth?" they would surely say, "Allāh." Say, "Then have you considered what you invoke besides Allāh? If Allāh intended me harm, are they removers of His harm; or if He intended me mercy, are they withholders of His mercy?" Say, "Sufficient for me is Allāh; upon Him [alone] rely the [wise] reliers."
 
 **English (Yusuf Ali):** If indeed thou ask them who it is that created the heavens and the earth, they would be sure to say, "Allah". Say: "See ye then? the things that ye invoke besides Allah,- can they, if Allah wills some Penalty for me, remove His Penalty?- Or if He wills some Grace for me, can they keep back his Grace?" Say: "Sufficient is Allah for me! In Him trust those who put their trust."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم ان سے پوچھو کہ آسمانوں اور زمین کو کس نے پیدا کیا تو کہہ دیں کہ خدا نے۔ کہو کہ بھلا دیکھو تو جن کو تم خدا کے سوا پکارتے ہو۔ اگر خدا مجھ کو کوئی تکلیف پہنچانی چاہے تو کیا وہ اس تکلیف کو دور کرسکتے ہیں یا اگر مجھ پر مہربانی کرنا چاہے تو وہ اس کی مہربانی کو روک سکتے ہیں؟ کہہ دو کہ مجھے خدا ہی کافی ہے۔ بھروسہ رکھنے والے اسی پر بھروسہ رکھتے ہیں
 
 [Open on Quran.com](https://quran.com/39/38)
 

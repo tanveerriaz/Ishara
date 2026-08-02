@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 15:22 · [[015 Al-Hijr]]
 
@@ -46,6 +46,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers.
 
 **English (Yusuf Ali):** And We send the fecundating winds, then cause the rain to descend from the sky, therewith providing you with water (in abundance), though ye are not the guardians of its stores.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہی ہوائیں چلاتے ہیں (جو بادلوں کے پانی سے) بھری ہوئی ہوتی ہیں اور ہم ہی آسمان سے مینہ برساتے ہیں اور ہم ہی تم کو اس کا پانی پلاتے ہیں اور تم تو اس کا خرانہ نہیں رکھتے
 
 [Open on Quran.com](https://quran.com/15/22)
 
@@ -63,6 +65,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And verily in cattle (too) will ye find an instructive sign. From what is within their bodies between excretions and blood, We produce, for your drink, milk, pure and agreeable to those who drink it.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے لیے چارپایوں میں بھی (مقام) عبرت (وغور) ہے کہ ان کے پیٹوں میں جو گوبر اور لہو ہے اس سے ہم تم کو خالص دودھ پلاتے ہیں جو پینے والوں کے لیے خوشگوار ہے
+
 [Open on Quran.com](https://quran.com/16/66)
 
 #### 23:21 · [[023 Al-Muminun]]
@@ -78,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And indeed, for you in livestock is a lesson. We give you drink from that which is in their bellies, and for you in them are numerous benefits, and from them you eat.
 
 **English (Yusuf Ali):** And in cattle (too) ye have an instructive example: from within their bodies We produce (milk) for you to drink; there are, in them, (besides), numerous (other) benefits for you; and of their (meat) ye eat;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے لئے چارپایوں میں بھی عبرت (اور نشانی) ہے کہ ان کے پیٹوں میں ہے اس سے ہم تمہیں (دودھ) پلاتے ہیں اور تمہارے لئے ان میں اور بھی بہت سے فائدے ہیں اور بعض کو تم کھاتے بھی ہو
 
 [Open on Quran.com](https://quran.com/23/21)
 
@@ -95,6 +101,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** That with it We may give life to a dead land, and slake the thirst of things We have created,- cattle and men in great numbers.
 
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ اس سے شہر مردہ (یعنی زمین افتادہ) کو زندہ کردیں اور پھر اسے بہت سے چوپایوں اور آدمیوں کو جو ہم نے پیدا کئے ہیں پلاتے ہیں
+
 [Open on Quran.com](https://quran.com/25/49)
 
 #### 72:16 · [[072 Al-Jinn]]
@@ -110,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [Allāh revealed] that if they had remained straight on the way, We would have given them abundant rain [i.e., provision].
 
 **English (Yusuf Ali):** (And Allah's Message is): "If they (the Pagans) had (only) remained on the (right) Way, We should certainly have bestowed on them Rain in abundance.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) یہ (بھی ان سے کہہ دو) کہ اگر یہ لوگ سیدھے رستے پر رہتے تو ہم ان کے پینے کو بہت سا پانی دیتے
 
 [Open on Quran.com](https://quran.com/72/16)
 
@@ -127,6 +137,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And they will be given to drink there of a Cup (of Wine) mixed with Zanjabil,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور وہاں ان کو ایسی شراب (بھی) پلائی جائے گی جس میں سونٹھ کی آمیزش ہوگی
+
 [Open on Quran.com](https://quran.com/76/17)
 
 #### 77:27 · [[077 Al-Mursalat]]
@@ -143,6 +155,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And made therein mountains standing firm, lofty (in stature); and provided for you water sweet (and wholesome)?
 
+**Urdu (Fatah Muhammad Jalandhari):** (بنایا) اور اس پر اونچے اونچے پہاڑ رکھ دیئے اور تم لوگوں کو میٹھا پانی پلایا
+
 [Open on Quran.com](https://quran.com/77/27)
 
 #### 83:25 · [[083 Al-Mutaffifin]]
@@ -158,6 +172,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They will be given to drink [pure] wine [which was] sealed.
 
 **English (Yusuf Ali):** Their thirst will be slaked with Pure Wine sealed:
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کو خالص شراب سربمہر پلائی جائے گی
 
 [Open on Quran.com](https://quran.com/83/25)
 

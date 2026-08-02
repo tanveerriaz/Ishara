@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Erf - erf]]
+- [[Erf - right]]
 
 ### Meaning
 **fair manner** · Lemma **مَعْرُوف**
@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:178 · [[002 Al-Baqarah]]
 
@@ -49,6 +49,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, prescribed for you is legal retribution for those murdered - the free for the free, the slave for the slave, and the female for the female. But whoever overlooks from his brother [i.e., the killer] anything, then there should be a suitable follow-up and payment to him [i.e., the deceased's heir or legal representative] with good conduct. This is an alleviation from your Lord and a mercy. But whoever transgresses after that will have a painful punishment.
 
 **English (Yusuf Ali):** O ye who believe! the law of equality is prescribed to you in cases of murder: the free for the free, the slave for the slave, the woman for the woman. But if any remission is made by the brother of the slain, then grant any reasonable demand, and compensate him with handsome gratitude, this is a concession and a Mercy from your Lord. After this whoever exceeds the limits shall be in grave penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم کو مقتولوں کے بارےمیں قصاص (یعنی خون کے بدلے خون) کا حکم دیا جاتا ہے (اس طرح پر کہ)آزاد کے بدلے آزاد (مارا جائے) اور غلام کے بدلے غلام اور عورت کے بدلے عورت اور قاتل کو اس کے (مقتول) بھائی (کے قصاص میں) سے کچھ معاف کردیا جائے تو (وارث مقتول) کو پسندیدہ طریق سے (قرار داد کی) پیروی (یعنی مطالبہٴ خون بہا) کرنا اور (قاتل کو) خوش خوئی کے ساتھ ادا کرنا چاہیئے یہ پروردگار کی طرف سے تمہارے لئے آسانی اور مہربانی ہے جو اس کے بعد زیادتی کرے اس کے لئے دکھ کا عذاب ہے
 
 [Open on Quran.com](https://quran.com/2/178)
 
@@ -66,6 +68,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** It is prescribed, when death approaches any of you, if he leave any goods that he make a bequest to parents and next of kin, according to reasonable usage; this is due from the Allah-fearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** تم پر فرض کیا جاتا ہے کہ جب تم میں سے کسی کو موت کا وقت آجائے تو اگر وہ کچھ مال چھوڑ جانے والا ہو تو ماں با پ اور رشتہ داروں کے لئے دستور کے مطابق وصیت کرجائے (خدا سے) ڈر نے والوں پر یہ ایک حق ہے
+
 [Open on Quran.com](https://quran.com/2/180)
 
 #### 2:228 · [[002 Al-Baqarah]]
@@ -81,6 +85,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Divorced women remain in waiting [i.e., do not remarry] for three periods, and it is not lawful for them to conceal what Allāh has created in their wombs if they believe in Allāh and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to them [i.e., the wives] is similar to what is expected of them, according to what is reasonable. But the men [i.e., husbands] have a degree over them [in responsibility and authority]. And Allāh is Exalted in Might and Wise.
 
 **English (Yusuf Ali):** Divorced women shall wait concerning themselves for three monthly periods. Nor is it lawful for them to hide what Allah Hath created in their wombs, if they have faith in Allah and the Last Day. And their husbands have the better right to take them back in that period, if they wish for reconciliation. And women shall have rights similar to the rights against them, according to what is equitable; but men have a degree (of advantage) over them. And Allah is Exalted in Power, Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
 
 [Open on Quran.com](https://quran.com/2/228)
 
@@ -98,6 +104,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** A divorce is only permissible twice: after that, the parties should either hold Together on equitable terms, or separate with kindness. It is not lawful for you, (Men), to take back any of your gifts (from your wives), except when both parties fear that they would be unable to keep the limits ordained by Allah. If ye (judges) do indeed fear that they would be unable to keep the limits ordained by Allah, there is no blame on either of them if she give something for her freedom. These are the limits ordained by Allah; so do not transgress them if any do transgress the limits ordained by Allah, such persons wrong (Themselves as well as others).
 
+**Urdu (Fatah Muhammad Jalandhari):** طلاق (صرف) دوبار ہے (یعنی جب دو دفعہ طلاق دے دی جائے تو) پھر (عورتوں کو) یا تو بطریق شائستہ (نکاح میں) رہنے دینا یا بھلائی کے ساتھ چھوڑ دینا۔ اور یہ جائز نہیں کہ جو مہر تم ان کو دے چکے ہو اس میں سے کچھ واپس لے لو۔ ہاں اگر زن و شوہر کو خوف ہو کہ وہ خدا کی حدوں کو قائم نہیں رکھ سکیں گے تو اگر عورت (خاوند کے ہاتھ سے) رہائی پانے کے بدلے میں کچھ دے ڈالے تو دونوں پر کچھ گناہ نہیں۔ یہ خدا کی (مقرر کی ہوئی) حدیں ہیں ان سے باہر نہ نکلنا۔ اور جو لوگ خدا کی حدوں سے باہر نکل جائیں گے وہ گنہگار ہوں گے
+
 [Open on Quran.com](https://quran.com/2/229)
 
 #### 2:231 · [[002 Al-Baqarah]]
@@ -113,6 +121,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And when you divorce women and they have [nearly] fulfilled their term, either retain them according to acceptable terms or release them according to acceptable terms, and do not keep them, intending harm, to transgress [against them]. And whoever does that has certainly wronged himself. And do not take the verses of Allāh in jest. And remember the favor of Allāh upon you and what has been revealed to you of the Book [i.e., the Qur’ān] and wisdom [i.e., the Prophet's sunnah] by which He instructs you. And fear Allāh and know that Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** When ye divorce women, and they fulfil the term of their ('Iddat), either take them back on equitable terms or set them free on equitable terms; but do not take them back to injure them, (or) to take undue advantage; if any one does that; He wrongs his own soul. Do not treat Allah's Signs as a jest, but solemnly rehearse Allah's favours on you, and the fact that He sent down to you the Book and Wisdom, for your instruction. And fear Allah, and know that Allah is well acquainted with all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم عورتوں کو (دو دفعہ) طلاق دے چکو اور ان کی عدت پوری ہوجائے تو انہیں یا تو حسن سلوک سے نکاح میں رہنے دو یا بطریق شائستہ رخصت کردو اور اس نیت سے ان کو نکاح میں نہ رہنے دینا چاہئے کہ انہیں تکلیف دو اور ان پر زیادتی کرو۔ اور جو ایسا کرے گا وہ اپنا ہی نقصان کرے گا اور خدا کے احکام کو ہنسی (اور کھیل) نہ بناؤ اور خدا نے تم کو جو نعمتیں بخشی ہیں اور تم پر جو کتاب اور دانائی کی باتیں نازل کی ہیں جن سے وہ تمہیں نصیحت فرماتا ہے ان کو یاد کرو۔ اور خدا سے ڈرتے رہو اور جان رکھوکہ خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/2/231)
 
@@ -130,6 +140,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When ye divorce women, and they fulfil the term of their ('Iddat), do not prevent them from marrying their (former) husbands, if they mutually agree on equitable terms. This instruction is for all amongst you, who believe in Allah and the Last Day. That is (the course Making for) most virtue and purity amongst you and Allah knows, and ye know not.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم عورتوں کو طلاق دے چکو اور ان کی عدت پوری ہوجائے تو ان کو دوسرے شوہروں کے ساتھ جب وہ آپس میں جائز طور پر راضی ہوجائیں نکاح کرنے سے مت روکو۔ اس (حکم) سے اس شخص کو نصیحت کی جاتی ہے جو تم میں خدا اور روز آخرت پر یقین رکھتا ہے۔ یہ تمہارے لئے نہایت خوب اور بہت پاکیزگی کی بات ہے اور خدا جانتا ہے اور تم نہیں جانتے
+
 [Open on Quran.com](https://quran.com/2/232)
 
 #### 2:233 · [[002 Al-Baqarah]]
@@ -145,6 +157,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Mothers may nurse [i.e., breastfeed] their children two complete years for whoever wishes to complete the nursing [period]. Upon the father is their [i.e., the mothers'] provision and their clothing according to what is acceptable. No person is charged with more than his capacity. No mother should be harmed through her child, and no father through his child. And upon the [father's] heir is [a duty] like that [of the father]. And if they both desire weaning through mutual consent from both of them and consultation, there is no blame upon either of them. And if you wish to have your children nursed by a substitute, there is no blame upon you as long as you give payment according to what is acceptable. And fear Allāh and know that Allāh is Seeing of what you do.
 
 **English (Yusuf Ali):** The mothers shall give such to their offspring for two whole years, if the father desires to complete the term. But he shall bear the cost of their food and clothing on equitable terms. No soul shall have a burden laid on it greater than it can bear. No mother shall be Treated unfairly on account of her child. Nor father on account of his child, an heir shall be chargeable in the same way. If they both decide on weaning, by mutual consent, and after due consultation, there is no blame on them. If ye decide on a foster-mother for your offspring, there is no blame on you, provided ye pay (the mother) what ye offered, on equitable terms. But fear Allah and know that Allah sees well what ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مائیں اپنے بچوں کو پورے دو سال دودھ پلائیں یہ (حکم) اس شخص کے لئے ہے جو پوری مدت تک دودھ پلوانا چاہے۔ اور دودھ پلانے والی ماؤں کا کھانا اور کپڑا دستور کے مطابق باپ کے ذمے ہوگا۔ کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دی جاتی (تو یاد رکھو کہ) نہ تو ماں کو اس کے بچے کے سبب نقصان پہنچایا جائے اور نہ باپ کو اس کی اولاد کی وجہ سے نقصان پہنچایا جائے اور اسی طرح (نان نفقہ) بچے کے وارث کے ذمے ہے۔ اور اگر دونوں (یعنی ماں باپ) آپس کی رضامندی اور صلاح سے بچے کا دودھ چھڑانا چاہیں تو ان پر کچھ گناہ نہیں۔ اور اگر تم اپنی اولاد کو دودھ پلوانا چاہو تو تم پر کچھ گناہ نہیں بشرطیکہ تم دودھ پلانے والیوں کو دستور کے مطابق ان کا حق جو تم نے دینا کیا تھا دے دو اور خدا سے ڈرتے رہو اور جان رکھو کہ جو کچھ تم کرتے ہو خدا اس کو دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/2/233)
 
@@ -162,6 +176,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** If any of you die and leave widows behind, they shall wait concerning themselves four months and ten days: When they have fulfilled their term, there is no blame on you if they dispose of themselves in a just and reasonable manner. And Allah is well acquainted with what ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم میں سے مرجائیں اور عورتیں چھوڑ جائیں تو عورتیں چار مہینے دس دن اپنے آپ کو روکے رہیں۔ اور جب (یہ) عدت پوری کرچکیں اور اپنے حق میں پسندیدہ کام (یعنی نکاح) کرلیں تو ان پر کچھ گناہ نہیں۔ اور خدا تمہارے سب کاموں سے واقف ہے
+
 [Open on Quran.com](https://quran.com/2/234)
 
 #### 2:235 · [[002 Al-Baqarah]]
@@ -178,6 +194,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** There is no blame on you if ye make an offer of betrothal or hold it in your hearts. Allah knows that ye cherish them in your hearts: But do not make a secret contract with them except in terms Honourable, nor resolve on the tie of marriage till the term prescribed is fulfilled. And know that Allah Knoweth what is in your hearts, and take heed of Him; and know that Allah is Oft-forgiving, Most Forbearing.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کنائے کی باتوں میں عورتوں کو نکاح کا پیغام بھیجو یا (نکاح کی خواہش کو) اپنے دلوں میں مخفی رکھو تو تو تم پر کچھ گناہ نہیں۔ خدا کو معلوم ہے کہ تم ان سے (نکاح کا) ذکر کرو گے۔ مگر (ایام عدت میں) اس کے سوا کہ دستور کے مطابق کوئی بات کہہ دو پوشیدہ طور پر ان سے قول واقرار نہ کرنا۔ اور جب تک عدت پوری نہ ہولے نکاح کا پختہ ارادہ نہ کرنا۔ اور جان رکھو کہ جو کچھ تمہارے دلوں میں ہے خدا کو سب معلوم ہے تو اس سے ڈرتے رہو اور جان رکھو کہ خدا بخشنے والا اور حلم والا ہے
+
 [Open on Quran.com](https://quran.com/2/235)
 
 #### 2:236 · [[002 Al-Baqarah]]
@@ -193,6 +211,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** There is no blame upon you if you divorce women you have not touched nor specified for them an obligation. But give them [a gift of] compensation - the wealthy according to his capability and the poor according to his capability - a provision according to what is acceptable, a duty upon the doers of good.
 
 **English (Yusuf Ali):** There is no blame on you if ye divorce women before consummation or the fixation of their dower; but bestow on them (A suitable gift), the wealthy according to his means, and the poor according to his means;- A gift of a reasonable amount is due from those who wish to do the right thing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے یا ان کا مہر مقرر کرنے سے پہلے طلاق دے دو تو تم پر کچھ گناہ نہیں۔ ہاں ان کو دستور کے مطابق کچھ خرچ ضرور دو (یعنی) مقدور والا اپنے مقدور کے مطابق دے اور تنگدست اپنی حیثیت کے مطابق۔ نیک لوگوں پر یہ ایک طرح کا حق ہے
 
 [Open on Quran.com](https://quran.com/2/236)
 

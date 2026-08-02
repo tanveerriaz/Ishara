@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 6:115 · [[006 Al-Anam]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the word of your Lord has been fulfilled in truth and in justice. None can alter His words, and He is the Hearing, the Knowing.
 
 **English (Yusuf Ali):** The word of thy Lord doth find its fulfilment in truth and in justice: None can change His words: for He is the one who heareth and knoweth all.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے پروردگار کی باتیں سچائی اور انصاف میں پوری ہیں اس کی باتوں کو کوئی بدلنے والا نہیں اور وہ سنتا جانتا ہے
 
 [Open on Quran.com](https://quran.com/6/115)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And We made a people, considered weak (and of no account), inheritors of lands in both east and west, - lands whereon We sent down Our blessings. The fair promise of thy Lord was fulfilled for the Children of Israel, because they had patience and constancy, and We levelled to the ground the great works and fine buildings which Pharaoh and his people erected (with such pride).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ کمزور سمجھے جاتے تھے ان کو زمین (شام) کے مشرق ومغرب کا جس میں ہم نے برکت دی تھی وارث کردیا اور بنی اسرائیل کے بارے میں ان کے صبر کی وجہ سے تمہارے پروردگار کا وعدہٴ نیک پورا ہوا اور فرعون اور قوم فرعون جو (محل) بناتے اور (انگور کے باغ) جو چھتریوں پر چڑھاتے تھے سب کو ہم نے تباہ کردیا
+
 [Open on Quran.com](https://quran.com/7/137)
 
 #### 7:142 · [[007 Al-Araf]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We appointed for Moses thirty nights, and completed (the period) with ten (more): thus was completed the term (of communion) with his Lord, forty nights. And Moses had charged his brother Aaron (before he went up): "Act for me amongst my people: Do right, and follow not the way of those who do mischief."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ سے تیس رات کی میعاد مقرر کی۔ اور اس دس (راتیں) اور ملا کر اسے پورا (چلّہ) کردیا تو اس کے پروردگار کی چالیس رات کی میعاد پوری ہوگئی۔ اور موسیٰ نے اپنے بھائی ہارون سے کہا کہ میرے (کوہِٰ طور پر جانے کے) بعد تم میری قوم میں میرے جانشین ہو (ان کی) اصلاح کرتے رہنا ٹھیک اور شریروں کے رستے نہ چلنا
+
 [Open on Quran.com](https://quran.com/7/142)
 
 #### 11:119 · [[011 Hud]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Except whom your Lord has given mercy, and for that He created them. But the word of your Lord is to be fulfilled that, "I will surely fill Hell with jinn and men all together."
 
 **English (Yusuf Ali):** Except those on whom thy Lord hath bestowed His Mercy: and for this did He create them: and the Word of thy Lord shall be fulfilled: "I will fill Hell with jinns and men all together."
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر جن پر تمہارا پروردگار رحم کرے۔ اور اسی لیے اس نے ان کو پیدا کیا ہے اور تمہارے پروردگار کا قول پورا ہوگیا کہ میں دوزخ کو جنوں اور انسانوں سب سے بھر دوں گا
 
 [Open on Quran.com](https://quran.com/11/119)
 

@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 4:57 · [[004 An-Nisa]]
 
@@ -54,6 +54,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But those who believe and do righteous deeds - We will admit them to gardens beneath which rivers flow, wherein they abide forever. For them therein are purified spouses, and We will admit them to deepening shade.
 
 **English (Yusuf Ali):** But those who believe and do deeds of righteousness, We shall soon admit to Gardens, with rivers flowing beneath,- their eternal home: Therein shall they have companions pure and holy: We shall admit them to shades, cool and ever deepening.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو ایمان لائے اور نیک عمل کرتے رہے ان کو ہم بہشتوں میں داخل کریں گے جن کے نیچے نہریں بہہ رہی ہیں وہ ان میں ہمیشہ ہمیشہ رہیں گے وہاں ان کے لئے پاک بیبیاں ہیں اور ان کو ہم گھنے سائے میں داخل کریں گے
 
 [Open on Quran.com](https://quran.com/4/57)
 
@@ -71,6 +73,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whatever beings there are in the heavens and the earth do prostrate themselves to Allah (Acknowledging subjection),- with good-will or in spite of themselves: so do their shadows in the morning and evenings.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جتنی مخلوقات آسمانوں اور زمین میں ہے خوشی سے یا زبردستی سے خدا کے آگے سجدہ کرتی ہے اور ان کے سائے بھی صبح وشام (سجدے کرتے ہیں)
+
 [Open on Quran.com](https://quran.com/13/15)
 
 #### 13:35 · [[013 Ar-Rad]]
@@ -86,6 +90,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The example [i.e., description] of Paradise, which the righteous have been promised, is [that] beneath it rivers flow. Its fruit is lasting, and its shade. That is the consequence for the righteous, and the consequence for the disbelievers is the Fire.
 
 **English (Yusuf Ali):** The parable of the Garden which the righteous are promised!- beneath it flow rivers: perpetual is the enjoyment thereof and the shade therein: such is the end of the Righteous; and the end of Unbelievers in the Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس باغ کا متقیوں سے وعدہ کیا گیا ہے اس کے اوصاف یہ ہیں کہ اس کے نیچے نہریں بہہ رہی ہیں۔ اس کے پھل ہمیشہ (قائم رہنے والے) ہیں اور اس کے سائے بھی۔ یہ ان لوگوں کا انجام ہے جو متقی ہیں۔ اور کافروں کا انجام دوزخ ہے
 
 [Open on Quran.com](https://quran.com/13/35)
 
@@ -103,6 +109,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Even if We opened out to them a gate from heaven, and they were to continue (all day) ascending therein,
 
+**Urdu (Fatah Muhammad Jalandhari):** اوراگر ہم آسمان کا کوئی دروازہ اُن پر کھول دیں اور وہ اس میں چڑھنے بھی لگیں
+
 [Open on Quran.com](https://quran.com/15/14)
 
 #### 16:48 · [[016 An-Nahl]]
@@ -118,6 +126,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have they not considered what things Allāh has created? Their shadows incline to the right and to the left, prostrating to Allāh, while they [i.e., those creations] are humble.
 
 **English (Yusuf Ali):** Do they not look at Allah's creation, (even) among (inanimate) things,- How their (very) shadows turn round, from the right and the left, prostrating themselves to Allah, and that in the humblest manner?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان لوگوں نے خدا کی مخلوقات میں سے ایسی چیزیں نہیں دیکھیں جن کے سائے دائیں سے (بائیں کو) اور بائیں سے (دائیں کو) لوٹتے رہتے ہیں (یعنی) خدا کے آگے عاجز ہو کر سجدے میں پڑے رہتے ہیں
 
 [Open on Quran.com](https://quran.com/16/48)
 
@@ -135,6 +145,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When news is brought to one of them, of (the birth of) a female (child), his face darkens, and he is filled with inward grief!
 
+**Urdu (Fatah Muhammad Jalandhari):** حالانکہ جب ان میں سے کسی کو بیٹی (کے پیدا ہونے) کی خبر ملتی ہے تو اس کا منہ (غم کے سبب) کالا پڑ جاتا ہے اور (اس کے دل کو دیکھو تو) وہ اندوہناک ہوجاتا ہے
+
 [Open on Quran.com](https://quran.com/16/58)
 
 #### 16:81 · [[016 An-Nahl]]
@@ -150,6 +162,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And Allāh has made for you, from that which He has created, shadows [i.e., shade] and has made for you from the mountains, shelters and has made for you garments which protect you from the heat and garments [i.e., coats of mail] which protect you from your [enemy in] battle. Thus does He complete His favor upon you that you might submit [to Him].
 
 **English (Yusuf Ali):** It is Allah Who made out of the things He created, some things to give you shade; of the hills He made some for your shelter; He made you garments to protect you from heat, and coats of mail to protect you from your (mutual) violence. Thus does He complete His favours on you, that ye may bow to His Will (in Islam).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تمہارے (آرام کے) لیے اپنی پیدا کی ہوئی چیزوں کے سائے بنائے اور پہاڑوں میں غاریں بنائیں اور کُرتے بنائے جو تم کو گرمی سے بچائیں۔ اور (ایسے) کُرتے (بھی) جو تم کو اسلحہ جنگ (کے ضرر) سے محفوظ رکھیں۔ اسی طرح خدا اپنا احسان تم پر پورا کرتا ہے تاکہ تم فرمانبردار بنو
 
 [Open on Quran.com](https://quran.com/16/81)
 
@@ -167,6 +181,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Moses) said: "Get thee gone! but thy (punishment) in this life will be that thou wilt say, 'touch me not'; and moreover (for a future penalty) thou hast a promise that will not fail: Now look at thy god, of whom thou hast become a devoted worshipper: We will certainly (melt) it in a blazing fire and scatter it broadcast in the sea!"
 
+**Urdu (Fatah Muhammad Jalandhari):** (موسیٰ نے) کہا جا تجھ کو دنیا کی زندگی میں یہ (سزا) ہے کہ کہتا رہے کہ مجھ کو ہاتھ نہ لگانا اور تیرے لئے ایک اور وعدہ ہے (یعنی عذاب کا) جو تجھ سے ٹل نہ سکے گا اور جس معبود (کی پوجا) پر تو (قائم و) معتکف تھا اس کو دیکھ۔ ہم اسے جلادیں گے پھر اس (کی راکھ) کو اُڑا کر دریا میں بکھیر دیں گے
+
 [Open on Quran.com](https://quran.com/20/97)
 
 #### 25:45 · [[025 Al-Furqan]]
@@ -183,6 +199,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Hast thou not turned thy vision to thy Lord?- How He doth prolong the shadow! If He willed, He could make it stationary! then do We make the sun its guide;
 
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ تم نے اپنے پروردگار (کی قدرت) کو نہیں دیکھا کہ وہ سائے کو کس طرح دراز کر (کے پھیلا) دیتا ہے۔ اور اگر وہ چاہتا تو اس کو (بےحرکت) ٹھیرا رکھتا پھر سورج کو اس کا رہنما بنا دیتا ہے
+
 [Open on Quran.com](https://quran.com/25/45)
 
 #### 26:4 · [[026 Ash-Shuara]]
@@ -198,6 +216,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** If We willed, We could send down to them from the sky a sign for which their necks would remain humbled.
 
 **English (Yusuf Ali):** If (such) were Our Will, We could send down to them from the sky a Sign, to which they would bend their necks in humility.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر ہم چاہیں تو ان پر آسمان سے نشانی اُتار دیں۔ پھر ان کی گردنیں اس کے آگے جھک جائیں
 
 [Open on Quran.com](https://quran.com/26/4)
 

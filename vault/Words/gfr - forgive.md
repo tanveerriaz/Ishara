@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:58 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And [recall] when We said, "Enter this city [i.e., Jerusalem] and eat from it wherever you will in [ease and] abundance, and enter the gate bowing humbly and say, 'Relieve us of our burdens [i.e., sins].' We will [then] forgive your sins for you, and We will increase the doers of good [in goodness and reward]."
 
 **English (Yusuf Ali):** And remember We said: "Enter this town, and eat of the plenty therein as ye wish; but enter the gate with humility, in posture and in words, and We shall forgive you your faults and increase (the portion of) those who do good."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے (ان سے) کہا کہ اس گاؤں میں داخل ہو جاؤ اور اس میں جہاں سے چاہو، خوب کھاؤ (پیو) اور (دیکھنا) دروازے میں داخل ہونا تو سجدہ کرنا اور حطة کہنا، ہم تمہارے گناہ معاف کر دیں گے اور نیکی کرنے والوں کو اور زیادہ دیں گے
 
 [Open on Quran.com](https://quran.com/2/58)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To Allah belongeth all that is in the heavens and on earth. Whether ye show what is in your minds or conceal it, Allah Calleth you to account for it. He forgiveth whom He pleaseth, and punisheth whom He pleaseth, for Allah hath power over all things.
 
+**Urdu (Fatah Muhammad Jalandhari):** جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب خدا ہی کا ہے۔ تم اپنے دلوں کی بات کو ظاہر کرو گے تو یا چھپاؤ گے تو خدا تم سے اس کا حساب لے گا پھر وہ جسے چاہے مغفرت کرے اور جسے چاہے عذاب دے۔ اور خدا ہر چیز پر قادر ہے
+
 [Open on Quran.com](https://quran.com/2/284)
 
 #### 2:286 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people."
 
 **English (Yusuf Ali):** On no soul doth Allah Place a burden greater than it can bear. It gets every good that it earns, and it suffers every ill that it earns. (Pray:) "Our Lord! Condemn us not if we forget or fall into error; our Lord! Lay not on us a burden Like that which Thou didst lay on those before us; Our Lord! Lay not on us a burden greater than we have strength to bear. Blot out our sins, and grant us forgiveness. Have mercy on us. Thou art our Protector; Help us against those who stand against faith."
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتا۔ اچھے کام کرے گا تو اس کو ان کا فائدہ ملے گا برے کرے گا تو اسے ان کا نقصان پہنچے گا۔ اے پروردگار اگر ہم سے بھول یا چوک ہوگئی ہو تو ہم سے مؤاخذہ نہ کیجیو۔ اے پروردگار ہم پر ایسا بوجھ نہ ڈالیو جیسا تو نے ہم سے پہلے لوگوں پر ڈالا تھا۔ اے پروردگار جتنا بوجھ اٹھانے کی ہم میں طاقت نہیں اتنا ہمارے سر پر نہ رکھیو۔ اور (اے پروردگار) ہمارے گناہوں سے درگزر کر اور ہمیں بخش دے۔ اور ہم پر رحم فرما۔ تو ہی ہمارا مالک ہے اور ہم کو کافروں پر غالب فرما
 
 [Open on Quran.com](https://quran.com/2/286)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** (Namely), those who say: "Our Lord! we have indeed believed: forgive us, then, our sins, and save us from the agony of the Fire;"-
 
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا سے التجا کرتے ہیں کہ اے پروردگار ہم ایمان لے آئے سو ہم کو ہمارے گناہ معاف فرما اور دوزخ کے عذاب سے محفوظ رکھ
+
 [Open on Quran.com](https://quran.com/3/16)
 
 #### 3:31 · [[003 Ali Imran]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Say, [O Muḥammad], "If you should love Allāh, then follow me, [so] Allāh will love you and forgive you your sins. And Allāh is Forgiving and Merciful."
 
 **English (Yusuf Ali):** Say: "If ye do love Allah, Follow me: Allah will love you and forgive you your sins: For Allah is Oft-Forgiving, Most Merciful."
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر لوگوں سے) کہہ دو کہ اگر تم خدا کو دوست رکھتے ہو تو میری پیروی کرو خدا بھی تمہیں دوست رکھے گا اور تمہارے گناہ معاف کر دے گا اور خدا بخشنے والا مہربان ہے
 
 [Open on Quran.com](https://quran.com/3/31)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** To Allah belongeth all that is in the heavens and on earth. He forgiveth whom He pleaseth and punisheth whom He pleaseth; but Allah is Oft-Forgiving, Most Merciful.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے سب خدا ہی کا ہے وہ جسے چاہے بخش دے اور جسے چاہے عذاب کرے اور خدا بخشنے والا مہربان ہے
+
 [Open on Quran.com](https://quran.com/3/129)
 
 #### 3:135 · [[003 Ali Imran]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And those who, when they commit an immorality or wrong themselves [by transgression], remember Allāh and seek forgiveness for their sins - and who can forgive sins except Allāh? - and [who] do not persist in what they have done while they know.
 
 **English (Yusuf Ali):** And those who, having done something to be ashamed of, or wronged their own souls, earnestly bring Allah to mind, and ask for forgiveness for their sins,- and who can forgive sins except Allah?- and are never obstinate in persisting knowingly in (the wrong) they have done.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ کہ جب کوئی کھلا گناہ یا اپنے حق میں کوئی اور برائی کر بیٹھتے ہیں تو خدا کو یاد کرتے اور اپنے گناہوں کی بخشش مانگتے ہیں اور خدا کے سوا گناہ بخش بھی کون سکتا ہے؟ اور جان بوجھ کر اپنے افعال پر اڑے نہیں رہتے
 
 [Open on Quran.com](https://quran.com/3/135)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** All that they said was: "Our Lord! Forgive us our sins and anything We may have done that transgressed our duty: Establish our feet firmly, and help us against those that resist Faith."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس حالت میں) ان کے منہ سے کوئی بات نکلتی ہے تو یہی کہ اے پروردگار ہمارے گناہ اور زیادتیاں جو ہم اپنے کاموں میں کرتے رہے ہیں معاف فرما اور ہم کو ثابت قدم رکھ اور کافروں پر فتح عنایت فرما
+
 [Open on Quran.com](https://quran.com/3/147)
 
 #### 3:193 · [[003 Ali Imran]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "Our Lord! we have heard the call of one calling (Us) to Faith, 'Believe ye in the Lord,' and we have believed. Our Lord! Forgive us our sins, blot out from us our iniquities, and take to Thyself our souls in the company of the righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگارہم نے ایک ندا کرنے والے کو سنا کہ ایمان کے لیے پکار رہا تھا (یعنی) اپنے پروردگار پر ایمان لاؤ تو ہم ایمان لے آئے اے پروردگار ہمارے گناہ معاف فرما اور ہماری برائیوں کو ہم سے محو کر اور ہم کو دنیا سے نیک بندوں کے ساتھ اٹھا
+
 [Open on Quran.com](https://quran.com/3/193)
 
 #### 4:48 · [[004 An-Nisa]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, Allāh does not forgive association with Him, but He forgives what is less than that for whom He wills. And he who associates others with Allāh has certainly fabricated a tremendous sin.
 
 **English (Yusuf Ali):** Allah forgiveth not that partners should be set up with Him; but He forgiveth anything else, to whom He pleaseth; to set up partners with Allah is to devise a sin Most heinous indeed.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا اس گناہ کو نہیں بخشے گا کہ کسی کو اس کا شریک بنایا جائے اور اس کے سوا اور گناہ جس کو چاہے معاف کردے اور جس نے خدا کا شریک مقرر کیا اس نے بڑا بہتان باندھا
 
 [Open on Quran.com](https://quran.com/4/48)
 

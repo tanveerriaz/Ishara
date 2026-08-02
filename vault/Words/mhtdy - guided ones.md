@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:16 · [[002 Al-Baqarah]]
 
@@ -48,6 +48,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the ones who have purchased error [in exchange] for guidance, so their transaction has brought no profit, nor were they guided.
 
 **English (Yusuf Ali):** These are they who have bartered Guidance for error: But their traffic is profitless, and they have lost true direction,
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے ہدایت چھوڑ کر گمراہی خریدی، تو نہ تو ان کی تجارت ہی نے کچھ نفع دیا اور نہ وہ ہدایت یاب ہی ہوئے
 
 [Open on Quran.com](https://quran.com/2/16)
 
@@ -65,6 +67,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** They said: "Beseech on our behalf Thy Lord to make plain to us what she is: To us are all heifers alike: We wish indeed for guidance, if Allah wills."
 
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ (اب کے) پروردگار سے پھر درخواست کیجئے کہ ہم کو بتا دے کہ وہ اور کس کس طرح کا ہو، کیونکہ بہت سے بیل ہمیں ایک دوسرے کے مشابہ معلوم ہوتے ہیں، (پھر) خدا نے چاہا تو ہمیں ٹھیک بات معلوم ہو جائے گی
+
 [Open on Quran.com](https://quran.com/2/70)
 
 #### 2:157 · [[002 Al-Baqarah]]
@@ -80,6 +84,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are the [rightly] guided.
 
 **English (Yusuf Ali):** They are those on whom (Descend) blessings from Allah, and Mercy, and they are the ones that receive guidance.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن پر ان کے پروردگار کی مہربانی اور رحمت ہے۔ اور یہی سیدھے رستے پر ہیں
 
 [Open on Quran.com](https://quran.com/2/157)
 
@@ -97,6 +103,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "I am forbidden to worship those - others than Allah - whom ye call upon." Say: "I will not follow your wain desires: If I did, I would stray from the path, and be not of the company of those who receive guidance."
 
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر! کفار سے) کہہ دو کہ جن کو تم خدا کے سوا پکارتے ہو مجھے ان کی عبادت سے منع کیا گیا ہے۔ (یہ بھی) کہہ دو کہ میں تمہاری خواہشوں کی پیروی نہیں کروں گا ایسا کروں تو گمراہ ہوجاؤں اور ہدایت یافتہ لوگوں میں نہ رہوں
+
 [Open on Quran.com](https://quran.com/6/56)
 
 #### 6:82 · [[006 Al-Anam]]
@@ -112,6 +120,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They who believe and do not mix their belief with injustice - those will have security, and they are [rightly] guided.
 
 **English (Yusuf Ali):** "It is those who believe and confuse not their beliefs with wrong - that are (truly) in security, for they are on (right) guidance."
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور اپنے ایمان کو (شرک کے) ظلم سے مخلوط نہیں کیا ان کے امن (اور جمعیت خاطر) ہے اور وہی ہدایت پانے والے ہیں
 
 [Open on Quran.com](https://quran.com/6/82)
 
@@ -129,6 +139,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Thy Lord knoweth best who strayeth from His way: He knoweth best who they are that receive His guidance.
 
+**Urdu (Fatah Muhammad Jalandhari):** تمہارا پروردگار ان لوگوں کو خوب جانتا ہے جو اس کے رستے سے بھٹکے ہوئے ہیں اور ان سے بھی خوب واقف ہے جو رستے پر چل رہے ہیں
+
 [Open on Quran.com](https://quran.com/6/117)
 
 #### 6:140 · [[006 Al-Anam]]
@@ -144,6 +156,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They will have lost who killed their children in foolishness without knowledge and prohibited what Allāh had provided for them, inventing untruth about Allāh. They have gone astray and were not [rightly] guided.
 
 **English (Yusuf Ali):** Lost are those who slay their children, from folly, without knowledge, and forbid food which Allah hath provided for them, inventing (lies) against Allah. They have indeed gone astray and heeded no guidance.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے اپنی اولاد کو بیوقوفی سے بے سمجھی سے قتل کیا اور خدا پر افترا کر کے اس کی عطا فرمائی کی ہوئی روزی کو حرام ٹہرایا وہ گھاٹے میں پڑ گئے وہ بےشبہ گمراہ ہیں اور ہدایت یافتہ نہیں ہیں
 
 [Open on Quran.com](https://quran.com/6/140)
 
@@ -161,6 +175,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Some He hath guided: Others have (by their choice) deserved the loss of their way; in that they took the evil ones, in preference to Allah, for their friends and protectors, and think that they receive guidance.
 
+**Urdu (Fatah Muhammad Jalandhari):** ایک فریق کو تو اس نے ہدایت دی اور ایک فریق پر گمراہی ثابت ہوچکی۔ ان لوگوں نے خدا کو چھوڑ کر شیطانوں کو رفیق بنا لیا اور سمجھتے (یہ) ہیں کہ ہدایت یاب ہیں
+
 [Open on Quran.com](https://quran.com/7/30)
 
 #### 7:178 · [[007 Al-Araf]]
@@ -177,6 +193,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Whom Allah doth guide,- he is on the right path: whom He rejects from His guidance,- such are the persons who perish.
 
+**Urdu (Fatah Muhammad Jalandhari):** جس کو خدا ہدایت دے وہی راہ یاب ہے اور جس کو گمراہ کرے تو ایسے ہی لوگ نقصان اٹھانے والے ہیں
+
 [Open on Quran.com](https://quran.com/7/178)
 
 #### 9:18 · [[009 At-Tawbah]]
@@ -192,6 +210,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** The mosques of Allāh are only to be maintained by those who believe in Allāh and the Last Day and establish prayer and give zakāh and do not fear except Allāh, for it is expected that those will be of the [rightly] guided.
 
 **English (Yusuf Ali):** The mosques of Allah shall be visited and maintained by such as believe in Allah and the Last Day, establish regular prayers, and practise regular charity, and fear none (at all) except Allah. It is they who are expected to be on true guidance.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا کی مسجدوں کو تو وہ لوگ آباد کرتے ہیں جو خدا پر اور روز قیامت پر ایمان لاتے ہیں اور نماز پڑھتے اور زکواة دیتے ہیں اور خدا کے سوا کسی سے نہیں ڈرتے۔ یہی لوگ امید ہے کہ ہدایت یافتہ لوگوں میں (داخل) ہوں
 
 [Open on Quran.com](https://quran.com/9/18)
 

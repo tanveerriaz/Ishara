@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:259 · [[002 Al-Baqarah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, "How will Allāh bring this to life after its death?" So Allāh caused him to die for a hundred years; then He revived him. He said, "How long have you remained?" He [the man] said, "I have remained a day or part of a day." He said, "Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh." And when it became clear to him, he said, "I know that Allāh is over all things competent."
 
 **English (Yusuf Ali):** Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall Allah bring it (ever) to life, after (this) its death?" but Allah caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that Allah hath power over all things."
+
+**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
 
 [Open on Quran.com](https://quran.com/2/259)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Truly the Pagans are unclean; so let them not, after this year of theirs, approach the Sacred Mosque. And if ye fear poverty, soon will Allah enrich you, if He wills, out of His bounty, for Allah is All-knowing, All-wise.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! مشرک تو پلید ہیں تو اس برس کے بعد وہ خانہٴ کعبہ کا پاس نہ جانے پائیں اور اگر تم کو مفلسی کا خوف ہو تو خدا چاہے گا تو تم کو اپنے فضل سے غنی کر دے گا۔ بےشک خدا سب کچھ جانتا (اور) حکمت والا ہے
+
 [Open on Quran.com](https://quran.com/9/28)
 
 #### 9:37 · [[009 At-Tawbah]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Indeed, the postponing [of restriction within sacred months] is an increase in disbelief by which those who have disbelieved are led [further] astray. They make it lawful one year and unlawful another year to correspond to the number made unlawful by Allāh and [thus] make lawful what Allāh has made unlawful. Made pleasing to them is the evil of their deeds; and Allāh does not guide the disbelieving people.
 
 **English (Yusuf Ali):** Verily the transposing (of a prohibited month) is an addition to Unbelief: the Unbelievers are led to wrong thereby: for they make it lawful one year, and forbidden another year, in order to adjust the number of months forbidden by Allah and make such forbidden ones lawful. The evil of their course seems pleasing to them. But Allah guideth not those who reject Faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** امن کے کس مہینے کو ہٹا کر آگے پیچھے کر دینا کفر میں اضافہ کرتا ہے اس سے کافر گمراہی میں پڑے رہتے ہیں۔ ایک سال تو اس کو حلال سمجھ لیتے ہیں اور دوسرے سال حرام۔ تاکہ ادب کے مہینوں کو جو خدا نے مقرر کئے ہیں گنتی پوری کر لیں۔ اور جو خدا نے منع کیا ہے اس کو جائز کر لیں۔ ان کے برے اعمال ان کے بھلے دکھائی دیتے ہیں۔ اور خدا کافر لوگوں کو ہدایت نہیں دیا کرتا
 
 [Open on Quran.com](https://quran.com/9/37)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** See they not that they are tried every year once or twice? Yet they turn not in repentance, and they take no heed.
 
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ دیکھتے نہیں کہ یہ ہر سال ایک یا دو بار بلا میں پھنسا دیئے جاتے ہیں پھر بھی توبہ نہیں کرتے اور نہ نصیحت پکڑتے ہیں
+
 [Open on Quran.com](https://quran.com/9/126)
 
 #### 12:49 · [[012 Yusuf]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then will come after that a year in which the people will be given rain and in which they will press [olives and grapes]."
 
 **English (Yusuf Ali):** "Then will come after that (period) a year in which the people will have abundant water, and in which they will press (wine and oil)."
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اس کے بعد ایک سال آئے گا کہ خوب مینہ برسے گا اور لوگ اس میں رس نچوڑیں گے
 
 [Open on Quran.com](https://quran.com/12/49)
 
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** We (once) sent Noah to his people, and he tarried among them a thousand years less fifty: but the Deluge overwhelmed them while they (persisted in) sin.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے نوحؑ کو اُن کی قوم کی طرف بھیجا تو وہ ان میں پچاس برس کم ہزار برس رہے پھر اُن کو طوفان (کے عذاب) نے آپکڑا۔ اور وہ ظالم تھے
+
 [Open on Quran.com](https://quran.com/29/14)
 
 #### 31:14 · [[031 Luqman]]
@@ -139,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination.
 
 **English (Yusuf Ali):** And We have enjoined on man (to be good) to his parents: in travail upon travail did his mother bear him, and in years twain was his weaning: (hear the command), "Show gratitude to Me and to thy parents: to Me is (thy final) Goal.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے انسان کو جسے اُس کی ماں تکلیف پر تکلیف سہہ کر پیٹ میں اُٹھائے رکھتی ہے (پھر اس کو دودھ پلاتی ہے) اور( آخرکار) دو برس میں اس کا دودھ چھڑانا ہوتا ہے (اپنے نیز) اس کے ماں باپ کے بارے میں تاکید کی ہے کہ میرا بھی شکر کرتا رہ اور اپنے ماں باپ کا بھی (کہ تم کو) میری ہی طرف لوٹ کر آنا ہے
 
 [Open on Quran.com](https://quran.com/31/14)
 

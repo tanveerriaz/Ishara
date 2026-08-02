@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:21 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O mankind, worship your Lord, who created you and those before you, that you may become righteous -
 
 **English (Yusuf Ali):** O ye people! Adore your Guardian-Lord, who created you and those who came before you, that ye may have the chance to learn righteousness;
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو! اپنے پروردگار کی عبات کرو جس نے تم کو اور تم سے پہلے لوگوں کو پیدا کیا تاکہ تم (اس کے عذاب سے) بچو
 
 [Open on Quran.com](https://quran.com/2/21)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye of Faith! Say not (to the Messenger) words of ambiguous import, but words of respect; and hearken (to him): To those without Faith is a grievous punishment.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان! (گفتگو کے وقت پیغمبرِ خدا سے) راعنا نہ کہا کرو۔ انظرنا کہا کرو۔ اور خوب سن رکھو، اور کافروں کے لیے دکھ دینے والا عذاب ہے
+
 [Open on Quran.com](https://quran.com/2/104)
 
 #### 2:153 · [[002 Al-Baqarah]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, seek help through patience and prayer. Indeed, Allāh is with the patient.
 
 **English (Yusuf Ali):** O ye who believe! seek help with patient perseverance and prayer; for Allah is with those who patiently persevere.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو صبر اور نماز سے مدد لیا کرو بےشک خدا صبر کرنے والوں کے ساتھ ہے
 
 [Open on Quran.com](https://quran.com/2/153)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye people! Eat of what is on earth, Lawful and good; and do not follow the footsteps of the evil one, for he is to you an avowed enemy.
 
+**Urdu (Fatah Muhammad Jalandhari):** لوگو جو چیزیں زمین میں حلال طیب ہیں وہ کھاؤ۔ اور شیطان کے قدموں پر نہ چلو۔ وہ تمہارا کھلا دشمن ہے
+
 [Open on Quran.com](https://quran.com/2/168)
 
 #### 2:172 · [[002 Al-Baqarah]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, eat from the good [i.e., lawful] things which We have provided for you and be grateful to Allāh if it is [indeed] Him that you worship.
 
 **English (Yusuf Ali):** O ye who believe! Eat of the good things that We have provided for you, and be grateful to Allah, if it is Him ye worship.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان جو پاکیزہ چیزیں ہم نے تم کو عطا فرمائیں ہیں ان کو کھاؤ اور اگر خدا ہی کے بندے ہو تو اس (کی نعمتوں) کا شکر بھی ادا کرو
 
 [Open on Quran.com](https://quran.com/2/172)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! the law of equality is prescribed to you in cases of murder: the free for the free, the slave for the slave, the woman for the woman. But if any remission is made by the brother of the slain, then grant any reasonable demand, and compensate him with handsome gratitude, this is a concession and a Mercy from your Lord. After this whoever exceeds the limits shall be in grave penalty.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم کو مقتولوں کے بارےمیں قصاص (یعنی خون کے بدلے خون) کا حکم دیا جاتا ہے (اس طرح پر کہ)آزاد کے بدلے آزاد (مارا جائے) اور غلام کے بدلے غلام اور عورت کے بدلے عورت اور قاتل کو اس کے (مقتول) بھائی (کے قصاص میں) سے کچھ معاف کردیا جائے تو (وارث مقتول) کو پسندیدہ طریق سے (قرار داد کی) پیروی (یعنی مطالبہٴ خون بہا) کرنا اور (قاتل کو) خوش خوئی کے ساتھ ادا کرنا چاہیئے یہ پروردگار کی طرف سے تمہارے لئے آسانی اور مہربانی ہے جو اس کے بعد زیادتی کرے اس کے لئے دکھ کا عذاب ہے
+
 [Open on Quran.com](https://quran.com/2/178)
 
 #### 2:183 · [[002 Al-Baqarah]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous -
 
 **English (Yusuf Ali):** O ye who believe! Fasting is prescribed to you as it was prescribed to those before you, that ye may (learn) self-restraint,-
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم پر روزے فرض کئے گئے ہیں۔ جس طرح تم سے پہلے لوگوں پر فرض کئے گئے تھے تاکہ تم پرہیزگار بنو
 
 [Open on Quran.com](https://quran.com/2/183)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Enter into Islam whole-heartedly; and follow not the footsteps of the evil one; for he is to you an avowed enemy.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اسلام میں پورے پورے داخل ہوجاؤ اور شیطان کے پیچھے نہ چلو وہ تو تمہارا صریح دشمن ہے
+
 [Open on Quran.com](https://quran.com/2/208)
 
 #### 2:254 · [[002 Al-Baqarah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! Spend out of (the bounties) We have provided for you, before the Day comes when no bargaining (Will avail), nor friendship nor intercession. Those who reject Faith they are the wrong-doers.
 
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو جو (مال) ہم نے تم کو دیا ہے اس میں سے اس دن کے آنے سے پہلے پہلے خرچ کرلو جس میں نہ (اعمال کا) سودا ہو اور نہ دوستی اور سفارش ہو سکے اور کفر کرنے والے لوگ ظالم ہیں
+
 [Open on Quran.com](https://quran.com/2/254)
 
 #### 2:264 · [[002 Al-Baqarah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, do not invalidate your charities with reminders [of it] or injury as does one who spends his wealth [only] to be seen by the people and does not believe in Allāh and the Last Day. His example is like that of a [large] smooth stone upon which is dust and is hit by a downpour that leaves it bare. They are unable [to keep] anything of what they have earned. And Allāh does not guide the disbelieving people.
 
 **English (Yusuf Ali):** O ye who believe! cancel not your charity by reminders of your generosity or by injury,- like those who spend their substance to be seen of men, but believe neither in Allah nor in the Last Day. They are in parable like a hard, barren rock, on which is a little soil: on it falls heavy rain, which leaves it (Just) a bare stone. They will be able to do nothing with aught they have earned. And Allah guideth not those who reject faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اپنے صدقات (وخیرات)احسان رکھنے اور ایذا دینے سے اس شخص کی طرح برباد نہ کردینا۔ جو لوگوں کو دکھاوے کے لئے مال خرچ کرتا ہے اور خدا اور روز آخرت پر ایمان نہیں رکھتا۔ تو اس (کے مال) کی مثال اس چٹان کی سی ہے جس پر تھوڑی سی مٹی پڑی ہو اور اس پر زور کا مینہ برس کر اسے صاف کر ڈالے۔ (اسی طرح) یہ (ریاکار) لوگ اپنے اعمال کا کچھ بھی صلہ حاصل نہیں کرسکیں گے۔ اور خدا ایسے ناشکروں کو ہدایت نہیں دیا کرتا
 
 [Open on Quran.com](https://quran.com/2/264)
 

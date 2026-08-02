@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:233 · [[002 Al-Baqarah]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Mothers may nurse [i.e., breastfeed] their children two complete years for whoever wishes to complete the nursing [period]. Upon the father is their [i.e., the mothers'] provision and their clothing according to what is acceptable. No person is charged with more than his capacity. No mother should be harmed through her child, and no father through his child. And upon the [father's] heir is [a duty] like that [of the father]. And if they both desire weaning through mutual consent from both of them and consultation, there is no blame upon either of them. And if you wish to have your children nursed by a substitute, there is no blame upon you as long as you give payment according to what is acceptable. And fear Allāh and know that Allāh is Seeing of what you do.
 
 **English (Yusuf Ali):** The mothers shall give such to their offspring for two whole years, if the father desires to complete the term. But he shall bear the cost of their food and clothing on equitable terms. No soul shall have a burden laid on it greater than it can bear. No mother shall be Treated unfairly on account of her child. Nor father on account of his child, an heir shall be chargeable in the same way. If they both decide on weaning, by mutual consent, and after due consultation, there is no blame on them. If ye decide on a foster-mother for your offspring, there is no blame on you, provided ye pay (the mother) what ye offered, on equitable terms. But fear Allah and know that Allah sees well what ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مائیں اپنے بچوں کو پورے دو سال دودھ پلائیں یہ (حکم) اس شخص کے لئے ہے جو پوری مدت تک دودھ پلوانا چاہے۔ اور دودھ پلانے والی ماؤں کا کھانا اور کپڑا دستور کے مطابق باپ کے ذمے ہوگا۔ کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دی جاتی (تو یاد رکھو کہ) نہ تو ماں کو اس کے بچے کے سبب نقصان پہنچایا جائے اور نہ باپ کو اس کی اولاد کی وجہ سے نقصان پہنچایا جائے اور اسی طرح (نان نفقہ) بچے کے وارث کے ذمے ہے۔ اور اگر دونوں (یعنی ماں باپ) آپس کی رضامندی اور صلاح سے بچے کا دودھ چھڑانا چاہیں تو ان پر کچھ گناہ نہیں۔ اور اگر تم اپنی اولاد کو دودھ پلوانا چاہو تو تم پر کچھ گناہ نہیں بشرطیکہ تم دودھ پلانے والیوں کو دستور کے مطابق ان کا حق جو تم نے دینا کیا تھا دے دو اور خدا سے ڈرتے رہو اور جان رکھو کہ جو کچھ تم کرتے ہو خدا اس کو دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/2/233)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah! There is no god but He,-the Living, the Self-subsisting, Eternal. No slumber can seize Him nor sleep. His are all things in the heavens and on earth. Who is there can intercede in His presence except as He permitteth? He knoweth what (appeareth to His creatures as) before or after or behind them. Nor shall they compass aught of His knowledge except as He willeth. His Throne doth extend over the heavens and the earth, and He feeleth no fatigue in guarding and preserving them for He is the Most High, the Supreme (in glory).
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا (وہ معبود برحق ہے کہ) اس کے سوا کوئی عبادت کے لائق نہیں زندہ ہمیشہ رہنے والا اسے نہ اونگھ آتی ہے نہ نیند جو کچھ آسمانوں میں اور جو کچھ زمین میں ہیں سب اسی کا ہے کون ہے جو اس کی اجازت کے بغیر اس سے (کسی کی) سفارش کر سکے جو کچھ لوگوں کے روبرو ہو رہا ہے اور جو کچھ ان کے پیچھے ہوچکا ہے اسے سب معلوم ہے اور وہ اس کی معلومات میں سے کسی چیز پر دسترس حاصل نہیں کر سکتے ہاں جس قدر وہ چاہتا ہے (اسی قدر معلوم کرا دیتا ہے) اس کی بادشاہی (اور علم) آسمان اور زمین سب پر حاوی ہے اور اسے ان کی حفاظت کچھ بھی دشوار نہیں وہ بڑا عالی رتبہ اور جلیل القدر ہے
+
 [Open on Quran.com](https://quran.com/2/255)
 
 #### 2:286 · [[002 Al-Baqarah]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Allāh does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people."
 
 **English (Yusuf Ali):** On no soul doth Allah Place a burden greater than it can bear. It gets every good that it earns, and it suffers every ill that it earns. (Pray:) "Our Lord! Condemn us not if we forget or fall into error; our Lord! Lay not on us a burden Like that which Thou didst lay on those before us; Our Lord! Lay not on us a burden greater than we have strength to bear. Blot out our sins, and grant us forgiveness. Have mercy on us. Thou art our Protector; Help us against those who stand against faith."
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتا۔ اچھے کام کرے گا تو اس کو ان کا فائدہ ملے گا برے کرے گا تو اسے ان کا نقصان پہنچے گا۔ اے پروردگار اگر ہم سے بھول یا چوک ہوگئی ہو تو ہم سے مؤاخذہ نہ کیجیو۔ اے پروردگار ہم پر ایسا بوجھ نہ ڈالیو جیسا تو نے ہم سے پہلے لوگوں پر ڈالا تھا۔ اے پروردگار جتنا بوجھ اٹھانے کی ہم میں طاقت نہیں اتنا ہمارے سر پر نہ رکھیو۔ اور (اے پروردگار) ہمارے گناہوں سے درگزر کر اور ہمیں بخش دے۔ اور ہم پر رحم فرما۔ تو ہی ہمارا مالک ہے اور ہم کو کافروں پر غالب فرما
 
 [Open on Quran.com](https://quran.com/2/286)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** His people disputed with him. He said: "(Come) ye to dispute with me, about Allah, when He (Himself) hath guided me? I fear not (the beings) ye associate with Allah: Unless my Lord willeth, (nothing can happen). My Lord comprehendeth in His knowledge all things. Will ye not (yourselves) be admonished?
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کی قوم ان سے بحث کرنے لگی تو انہوں نے کہا کہ تم مجھ سے خدا کے بارےمیں (کیا) بحث کرتے ہو اس نے تو مجھے سیدھا رستہ دکھا دیا ہے۔ اور جن چیزوں کو تم اس کا شریک بناتے ہو میں ان سے نہیں ڈرتا۔ ہاں جو میرا پروردگار چاہے۔ میرا پروردگار اپنے علم سے ہر چیز پر احاطہ کئے ہوئے ہے۔ کیا تم خیال نہیں کرتے۔
+
 [Open on Quran.com](https://quran.com/6/80)
 
 #### 6:152 · [[006 Al-Anam]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And do not approach the orphan's property except in a way that is best [i.e., intending improvement] until he reaches maturity. And give full measure and weight in justice. We do not charge any soul except [with that within] its capacity. And when you speak [i.e., testify], be just, even if [it concerns] a near relative. And the covenant of Allāh fulfill. This has He instructed you that you may remember.
 
 **English (Yusuf Ali):** And come not nigh to the orphan's property, except to improve it, until he attain the age of full strength; give measure and weight with (full) justice;- no burden do We place on any soul, but that which it can bear;- whenever ye speak, speak justly, even if a near relative is concerned; and fulfil the covenant of Allah: thus doth He command you, that ye may remember.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ جانا مگر ایسے طریق سے کہ بہت ہی پسندیدہ ہو یہاں تک کہ وہ جوانی کو پہنچ جائے اور ناپ تول انصاف کے ساتھ پوری پوری کیا کرو ہم کسی کو تکلیف نہیں دیتے مگر اس کی طاقت کے مطابق اور جب (کسی کی نسبت) کوئی بات کہو تو انصاف سے کہو گو وہ (تمہارا) رشتہ دار ہی ہو اور خدا کے عہد کو پورا کرو ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم نصحیت کرو
 
 [Open on Quran.com](https://quran.com/6/152)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But those who believe and work righteousness,- no burden do We place on any soul, but that which it can bear,- they will be Companions of the Garden, therein to dwell (for ever).
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور عمل نیک کرتے رہے اور ہم (عملوں کے لیے) کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتے۔ ایسے ہی لوگ اہل بہشت ہیں (کہ) اس میں ہمیشہ رہیں گے
+
 [Open on Quran.com](https://quran.com/7/42)
 
 #### 7:89 · [[007 Al-Araf]]
@@ -140,6 +152,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** We would have invented against Allāh a lie if we returned to your religion after Allāh had saved us from it. And it is not for us to return to it except that Allāh, our Lord, should will. Our Lord has encompassed all things in knowledge. Upon Allāh we have relied. Our Lord, decide between us and our people in truth, and You are the best of those who give decision."
 
 **English (Yusuf Ali):** "We should indeed invent a lie against Allah, if we returned to your ways after Allah hath rescued us therefrom; nor could we by any manner of means return thereto unless it be as in the will and plan of Allah, Our Lord. Our Lord can reach out to the utmost recesses of things by His knowledge. In the Allah is our trust. our Lord! decide Thou between us and our people in truth, for Thou art the best to decide."
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر ہم اس کے بعد کہ خدا ہمیں اس سے نجات بخش چکا ہے تمہارے مذہب میں لوٹ جائیں تو بےشک ہم نے خدا پر جھوٹ افتراء باندھا۔ اور ہمیں شایاں نہیں کہ ہم اس میں لوٹ جائیں ہاں خدا جو ہمارا پروردگار ہے وہ چاہے تو (ہم مجبور ہیں)۔ ہمارے پروردگار کا علم ہر چیز پر احاطہ کیے ہوئے ہے۔ ہمارا خدا ہی پر بھروسہ ہے۔ اے پروردگار ہم میں اور ہماری قوم میں انصاف کے ساتھ فیصلہ کردے اور تو سب سے بہتر فیصلہ کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/7/89)
 
@@ -157,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "And ordain for us that which is good, in this life and in the Hereafter: for we have turned unto Thee." He said: "With My punishment I visit whom I will; but My mercy extendeth to all things. That (mercy) I shall ordain for those who do right, and practise regular charity, and those who believe in Our signs;-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ہمارے لیے اس دنیا میں بھی بھلائی لکھ دے اور آخرت میں بھی۔ ہم تیری طرف رجوع ہوچکے۔ فرمایا کہ جو میرا عذاب ہے اسے تو جس پر چاہتا ہوں نازل کرتا ہوں اور جو میری رحمت ہے وہ ہر چیز کو شامل ہے۔ میں اس کو ان لوگوں کے لیے لکھ دوں گا جو پرہیزگاری کرتے اور زکوٰة دیتے اور ہماری آیتوں پر ایمان رکھتے ہیں
+
 [Open on Quran.com](https://quran.com/7/156)
 
 #### 20:98 · [[020 Taha]]
@@ -173,6 +189,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** But the god of you all is the One Allah: there is no god but He: all things He comprehends in His knowledge.
 
+**Urdu (Fatah Muhammad Jalandhari):** تمہارا معبود خدا ہی ہے جس کے سوا کوئی معبود نہیں۔ اس کا علم ہر چیز پر محیط ہے
+
 [Open on Quran.com](https://quran.com/20/98)
 
 #### 23:62 · [[023 Al-Muminun]]
@@ -188,6 +206,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And We charge no soul except [with that within] its capacity, and with Us is a record which speaks with truth; and they will not be wronged.
 
 **English (Yusuf Ali):** On no soul do We place a burden greater than it can bear: before Us is a record which clearly shows the truth: they will never be wronged.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتے اور ہمارے پاس کتاب ہے جو سچ سچ کہہ دیتی ہے اور ان لوگوں پر ظلم نہیں کیا جائے گا
 
 [Open on Quran.com](https://quran.com/23/62)
 

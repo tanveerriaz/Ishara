@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[dbr - dbr]]
+- [[dbr - turn back]]
 
 ### Meaning
 **turned back** · Lemma **أَدْبَرَ**
@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 70:17 · [[070 Al-Maarij]]
 
@@ -41,6 +41,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** It invites he who turned his back [on truth] and went away [from obedience]
 
 **English (Yusuf Ali):** Inviting (all) such as turn their backs and turn away their faces (from the Right).
+
+**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں کو اپنی طرف بلائے گی جنہوں نے (دین حق سے) اعراض کیا
 
 [Open on Quran.com](https://quran.com/70/17)
 
@@ -58,6 +60,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Then he turned back and was haughty;
 
+**Urdu (Fatah Muhammad Jalandhari):** پھر پشت پھیر کر چلا اور (قبول حق سے) غرور کیا
+
 [Open on Quran.com](https://quran.com/74/23)
 
 #### 74:33 · [[074 Al-Muddaththir]]
@@ -74,6 +78,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And by the Night as it retreateth,
 
+**Urdu (Fatah Muhammad Jalandhari):** اور رات کی جب پیٹھ پھیرنے لگے
+
 [Open on Quran.com](https://quran.com/74/33)
 
 #### 79:22 · [[079 An-Naziat]]
@@ -89,6 +95,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Then he turned his back, striving [i.e., plotting].
 
 **English (Yusuf Ali):** Further, he turned his back, striving hard (against Allah).
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر لوٹ گیا اور تدبیریں کرنے لگا
 
 [Open on Quran.com](https://quran.com/79/22)
 

@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:108 · [[002 Al-Baqarah]]
 
@@ -63,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Or do you intend to ask your Messenger as Moses was asked before? And whoever exchanges faith for disbelief has certainly strayed from the soundness of the way.
 
 **English (Yusuf Ali):** Would ye question your Messenger as Moses was questioned of old? but whoever changeth from Faith to Unbelief, Hath strayed without doubt from the even way.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم یہ چاہتے ہو کہ اپنے پیغمبر سے اسی طرح کے سوال کرو، جس طرح کے سوال پہلے موسیٰ سے کئے گئے تھے۔ اور جس شخص نے ایمان (چھوڑ کر اس) کے بدلے کفر لیا، وہ سیدھے رستے سے بھٹک گیا
 
 [Open on Quran.com](https://quran.com/2/108)
 
@@ -80,6 +82,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah; For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do.
 
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
+
 [Open on Quran.com](https://quran.com/2/282)
 
 #### 4:44 · [[004 An-Nisa]]
@@ -95,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Have you not seen those who were given a portion of the Scripture, purchasing error [in exchange for it] and wishing you would lose the way?
 
 **English (Yusuf Ali):** Hast thou not turned Thy vision to those who were given a portion of the Book? they traffic in error, and wish that ye should lose the right path.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جن کو کتاب سے حصہ دیا گیا تھا کہ وہ گمراہی کو خریدتے ہیں اور چاہتے ہیں کہ تم بھی رستے سے بھٹک جاؤ
 
 [Open on Quran.com](https://quran.com/4/44)
 
@@ -112,6 +118,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah forgiveth not (The sin of) joining other gods with Him; but He forgiveth whom He pleaseth other sins than this: one who joins other gods with Allah, Hath strayed far, far away (from the right).
 
+**Urdu (Fatah Muhammad Jalandhari):** خدا اس کے گناہ کو نہیں بخشے گا کہ کسی کو اس کا شریک بنایا جائے اور اس کے سوا (اور گناہ) جس کو چاہیے گا بخش دے گا۔ اور جس نے خدا کے ساتھ شریک بنایا وہ رستے سے دور جا پڑا
+
 [Open on Quran.com](https://quran.com/4/116)
 
 #### 4:136 · [[004 An-Nisa]]
@@ -127,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, believe in Allāh and His Messenger and the Book that He sent down upon His Messenger and the Scripture which He sent down before. And whoever disbelieves in Allāh, His angels, His books, His messengers, and the Last Day has certainly gone far astray.
 
 **English (Yusuf Ali):** O ye who believe! Believe in Allah and His Messenger, and the scripture which He hath sent to His Messenger and the scripture which He sent to those before (him). Any who denieth Allah, His angels, His Books, His Messengers, and the Day of Judgment, hath gone far, far astray.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا پر اور اس کے رسول پر اور جو کتاب اس نے اپنی پیغمبر (آخرالزماں) پر نازل کی ہے اور جو کتابیں اس سے پہلے نازل کی تھیں سب پر ایمان لاؤ۔ اور جو شخص خدا اور اس کے فرشتوں اور اس کی کتابوں اور اس کے پیغمبروں اور روزقیامت سے انکار کرے وہ رستے سے بھٹک کر دور جا پڑا
 
 [Open on Quran.com](https://quran.com/4/136)
 
@@ -144,6 +154,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Those who reject Faith and keep off (men) from the way of Allah, have verily strayed far, far away from the Path.
 
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے کفر کیا اور (لوگوں کو) خدا کے رستے سے روکا وہ رستے سے بھٹک کر دور جا پڑے
+
 [Open on Quran.com](https://quran.com/4/167)
 
 #### 4:176 · [[004 An-Nisa]]
@@ -159,6 +171,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** They request from you a [legal] ruling. Say, "Allāh gives you a ruling concerning one having neither descendants nor ascendants [as heirs]." If a man dies, leaving no child but [only] a sister, she will have half of what he left. And he inherits from her if she [dies and] has no child. But if there are two sisters [or more], they will have two thirds of what he left. If there are both brothers and sisters, the male will have the share of two females. Allāh makes clear to you [His law], lest you go astray. And Allāh is Knowing of all things.
 
 **English (Yusuf Ali):** They ask thee for a legal decision. Say: Allah directs (thus) about those who leave no descendants or ascendants as heirs. If it is a man that dies, leaving a sister but no child, she shall have half the inheritance: If (such a deceased was) a woman, who left no child, Her brother takes her inheritance: If there are two sisters, they shall have two-thirds of the inheritance (between them): if there are brothers and sisters, (they share), the male having twice the share of the female. Thus doth Allah make clear to you (His law), lest ye err. And Allah hath knowledge of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگ تم سے (کلالہ کے بارے میں) حکم (خدا) دریافت کرتے ہیں کہہ دو کہ خدا کلالہ بارے میں یہ حکم دیتا ہے کہ اگر کوئی ایسا مرد مرجائے جس کے اولاد نہ ہو (اور نہ ماں باپ) اور اس کے بہن ہو تو اس کو بھائی کے ترکے میں سے آدھا حصہ ملے گا۔ اور اگر بہن مرجائے اور اس کے اولاد نہ ہو تو اس کے تمام مال کا وارث بھائی ہوگا اور اگر (مرنے والے بھائی کی) دو بہنیں ہوں تو دونوں کو بھائی کے ترکے میں سے دو تہائی۔ اور اگر بھائی اور بہن یعنی مرد اور عورتیں ملے جلے وارث ہوں تو مرد کا حصہ دو عورتوں کے برابر ہے۔ (یہ احکام) خدا تم سے اس لئے بیان فرماتا ہے کہ بھٹکتے نہ پھرو۔ اور خدا ہر چیز سے واقف ہے
 
 [Open on Quran.com](https://quran.com/4/176)
 
@@ -176,6 +190,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Allah did aforetime take a covenant from the Children of Israel, and we appointed twelve captains among them. And Allah said: "I am with you: if ye (but) establish regular prayers, practise regular charity, believe in my messengers, honour and assist them, and loan to Allah a beautiful loan, verily I will wipe out from you your evils, and admit you to gardens with rivers flowing beneath; but if any of you, after this, resisteth faith, he hath truly wandered from the path or rectitude."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے بنی اسرائیل سے اقرار لیا اور ان میں ہم نے بارہ سردار مقرر کئے پھر خدا نے فرمایا کہ میں تمہارے ساتھ ہوں اگر تم نماز پڑھتے اور زکوٰة دیتے رہو گے اور میرے پیغمبروں پر ایمان لاؤ گے اور ان کی مدد کرو گے اور خدا کو قرض حسنہ دو گے تو میں تم سے تمہارے گناہ دور کر دوں گا اور تم کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہہ رہی ہیں پھر جس نے اس کے بعد تم میں سے کفر کیا وہ سیدھے رستے سے بھٹک گیا
+
 [Open on Quran.com](https://quran.com/5/12)
 
 #### 5:77 · [[005 Al-Maidah]]
@@ -192,6 +208,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Say: "O people of the Book! exceed not in your religion the bounds (of what is proper), trespassing beyond the truth, nor follow the vain desires of people who went wrong in times gone by,- who misled many, and strayed (themselves) from the even way.
 
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اے اہل کتاب! اپنے دین (کی بات) میں ناحق مبالغہ نہ کرو اور ایسے لوگوں کی خواہشوں کے پیچھے نہ چلو جو (خود بھی) پہلے گمراہ ہوئے اور اَور بھی اکثروں کو گمراہ کر گئے اور سیدھے رستے سے بھٹک گئے
+
 [Open on Quran.com](https://quran.com/5/77)
 
 #### 5:105 · [[005 Al-Maidah]]
@@ -207,6 +225,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** O you who have believed, upon you is [responsibility for] yourselves. Those who have gone astray will not harm you when you have been guided. To Allāh is your return all together; then He will inform you of what you used to do.
 
 **English (Yusuf Ali):** O ye who believe! Guard your own souls: If ye follow (right) guidance, no hurt can come to you from those who stray. the goal of you all is to Allah: it is He that will show you the truth of all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! اپنی جانوں کی حفاظت کرو جب تم ہدایت پر ہو تو کوئی گمراہ تمہارا کچھ بھی بگاڑ نہیں سکتا تم سب کو خدا کی طرف لوٹ کر جانا ہے اس وقت وہ تم کو تمہارے سب کاموں سے جو (دنیا میں) کئے تھے آگاہ کرے گا (اور ان کا بدلہ دے گا)
 
 [Open on Quran.com](https://quran.com/5/105)
 

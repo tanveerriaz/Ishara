@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[frq - faraqa]]
+- [[frq - separate]]
 
 ### Meaning
 **divided** · Lemma **تَفَرَّقَ**
@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 3:103 · [[003 Ali Imran]]
 
@@ -44,6 +44,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And hold firmly to the rope of Allāh all together and do not become divided. And remember the favor of Allāh upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allāh make clear to you His verses that you may be guided.
 
 **English (Yusuf Ali):** And hold fast, all together, by the rope which Allah (stretches out for you), and be not divided among yourselves; and remember with gratitude Allah's favour on you; for ye were enemies and He joined your hearts in love, so that by His Grace, ye became brethren; and ye were on the brink of the pit of Fire, and He saved you from it. Thus doth Allah make His Signs clear to you: That ye may be guided.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور سب مل کر خدا کی (ہدایت کی رسی) کو مضبوط پکڑے رہنا اور متفرق نہ ہونا اور خدا کی اس مہربانی کو یاد کرو جب تم ایک دوسرے کے دشمن تھے تو اس نے تمہارے دلوں میں الفت ڈال دی اور تم اس کی مہربانی سے بھائی بھائی ہوگئے اور تم آگ کے گڑھے کے کنارے تک پہنچ چکے تھے تو خدا نے تم کو اس سے بچا لیا اس طرح خدا تم کو اپنی آیتیں کھول کھول کر سناتا ہے تاکہ تم ہدایت پاؤ
 
 [Open on Quran.com](https://quran.com/3/103)
 
@@ -61,6 +63,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Be not like those who are divided amongst themselves and fall into disputations after receiving Clear Signs: For them is a dreadful penalty,-
 
+**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں کی طرح نہ ہونا جو متفرق ہو گئے اور احکام بین آنے کے بعد ایک دوسرےسے (خلاف و) اختلاف کرنے لگے یہ وہ لوگ ہیں جن کو قیامت کے دن بڑا عذاب ہوگا
+
 [Open on Quran.com](https://quran.com/3/105)
 
 #### 4:130 · [[004 An-Nisa]]
@@ -76,6 +80,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But if they separate [by divorce], Allāh will enrich each [of them] from His abundance. And ever is Allāh Encompassing and Wise.
 
 **English (Yusuf Ali):** But if they disagree (and must part), Allah will provide abundance for all from His all-reaching bounty: for Allah is He that careth for all and is Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر میاں بیوی (میں موافقت نہ ہوسکے اور) ایک دوسرے سے جدا ہوجائیں تو خدا ہر ایک کو اپنی دولت سے غنی کردے گا اور خدا بڑی کشائش والا اور حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/4/130)
 
@@ -93,6 +99,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Verily, this is My way, leading straight: follow it: follow not (other) paths: they will scatter you about from His (great) path: thus doth He command you. that ye may be righteous.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ میرا سیدھا رستہ یہی ہے تو تم اسی پر چلنا اور اور رستوں پر نہ چلنا کہ (ان پر چل کر) خدا کے رستے سے الگ ہو جاؤ گے ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم پرہیزگار بنو
+
 [Open on Quran.com](https://quran.com/6/153)
 
 #### 30:14 · [[030 Ar-Rum]]
@@ -108,6 +116,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And the Day the Hour appears - that Day they will become separated.
 
 **English (Yusuf Ali):** On the Day that the Hour will be established,- that Day shall (all men) be sorted out.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن قیامت برپا ہوگی اس روز وہ الگ الگ فرقے ہوجائیں گے
 
 [Open on Quran.com](https://quran.com/30/14)
 
@@ -125,6 +135,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** The same religion has He established for you as that which He enjoined on Noah - the which We have sent by inspiration to thee - and that which We enjoined on Abraham, Moses, and Jesus: Namely, that ye should remain steadfast in religion, and make no divisions therein: to those who worship other things than Allah, hard is the (way) to which thou callest them. Allah chooses to Himself those whom He pleases, and guides to Himself those who turn (to Him).
 
+**Urdu (Fatah Muhammad Jalandhari):** اسی نے تمہارے لئے دین کا وہی رستہ مقرر کیا جس (کے اختیار کرنے کا) نوح کو حکم دیا تھا اور جس کی (اے محمدﷺ) ہم نے تمہاری طرف وحی بھیجی ہے اور جس کا ابراہیم اور موسیٰ اور عیسیٰ کو حکم دیا تھا (وہ یہ) کہ دین کو قائم رکھنا اور اس میں پھوٹ نہ ڈالنا۔ جس چیز کی طرف تم مشرکوں کو بلاتے ہو وہ ان کو دشوار گزرتی ہے۔ الله جس کو چاہتا ہے اپنی بارگاہ کا برگزیدہ کرلیتا ہے اور جو اس کی طرف رجوع کرے اسے اپنی طرف رستہ دکھا دیتا ہے
+
 [Open on Quran.com](https://quran.com/42/13)
 
 #### 42:14 · [[042 Ash-Shuraa]]
@@ -141,6 +153,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** And they became divided only after Knowledge reached them,- through selfish envy as between themselves. Had it not been for a Word that went forth before from thy Lord, (tending) to a Term appointed, the matter would have been settled between them: But truly those who have inherited the Book after them are in suspicious (disquieting) doubt concerning it.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ جو الگ الگ ہوئے ہیں تو علم (حق) آچکنے کے بعد آپس کی ضد سے (ہوئے ہیں)۔ اور اگر تمہارے پروردگار کی طرف سے ایک وقت مقرر تک کے لئے بات نہ ٹھہر چکی ہوتی تو ان میں فیصلہ کردیا جاتا۔ اور جو لوگ ان کے بعد (خدا کی) کتاب کے وارث ہوئے وہ اس (کی طرف) سے شبہے کی الجھن میں (پھنسے ہوئے) ہیں
+
 [Open on Quran.com](https://quran.com/42/14)
 
 #### 98:4 · [[098 Al-Bayyinah]]
@@ -156,6 +170,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** Nor did those who were given the Scripture become divided until after there had come to them clear evidence.
 
 **English (Yusuf Ali):** Nor did the People of the Book make schisms, until after there came to them Clear Evidence.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اہل کتاب جو متفرق (و مختلف) ہوئے ہیں تو دلیل واضح آنے کے بعد( ہوئے ہیں)
 
 [Open on Quran.com](https://quran.com/98/4)
 

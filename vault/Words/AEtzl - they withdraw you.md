@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Ezl - ezl]]
+- [[Ezl - lower spout outlet]]
 
 ### Meaning
 **they withdraw you** · Lemma **اعْتَزَلَ**
@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
 #### 2:222 · [[002 Al-Baqarah]]
 
@@ -43,6 +43,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And they ask you about menstruation. Say, "It is harm, so keep away from wives during menstruation. And do not approach them until they are pure. And when they have purified themselves, then come to them from where Allāh has ordained for you. Indeed, Allāh loves those who are constantly repentant and loves those who purify themselves."
 
 **English (Yusuf Ali):** They ask thee concerning women's courses. Say: They are a hurt and a pollution: So keep away from women in their courses, and do not approach them until they are clean. But when they have purified themselves, ye may approach them in any manner, time, or place ordained for you by Allah. For Allah loves those who turn to Him constantly and He loves those who keep themselves pure and clean.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے حیض کے بارے میں دریافت کرتے ہیں۔ کہہ دو کہ وہ تو نجاست ہے۔ سو ایام حیض میں عورتوں سے کنارہ کش رہو۔ اور جب تک پاک نہ ہوجائیں ان سے مقاربت نہ کرو۔ ہاں جب پاک ہوجائیں تو جس طریق سے خدا نے ارشاد فرمایا ہے ان کے پاس جاؤ۔ کچھ شک نہیں کہ خدا توبہ کرنے والوں اور پاک صاف رہنے والوں کو دوست رکھتا ہے
 
 [Open on Quran.com](https://quran.com/2/222)
 
@@ -60,6 +62,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** Except those who join a group between whom and you there is a treaty (of peace), or those who approach you with hearts restraining them from fighting you as well as fighting their own people. If Allah had pleased, He could have given them power over you, and they would have fought you: Therefore if they withdraw from you but fight you not, and (instead) send you (Guarantees of) peace, then Allah Hath opened no way for you (to war against them).
 
+**Urdu (Fatah Muhammad Jalandhari):** مگر جو لوگ ایسے لوگوں سے جا ملے ہوں جن میں اور تم میں (صلح کا) عہد ہو یا اس حال میں کہ ان کے دل تمہارے ساتھ یا اپنی قوم کے ساتھ لڑنے سے رک گئے ہوں تمہارے پاس آجائیں (تو احتراز ضروری نہیں) اور اگر خدا چاہتا تو ان کو تم پر غالب کردیتا تو وہ تم سے ضرور لڑتے پھر اگر وہ تم سے (جنگ کرنے سے) کنارہ کشی کریں اور لڑیں نہیں اور تمہاری طرف صلح (کا پیغام) بھیجیں تو خدا نے تمہارے لئے ان پر (زبردستی کرنے کی) کوئی سبیل مقرر نہیں کی
+
 [Open on Quran.com](https://quran.com/4/90)
 
 #### 4:91 · [[004 An-Nisa]]
@@ -75,6 +79,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** You will find others who wish to obtain security from you and [to] obtain security from their people. Every time they are returned to [the influence of] disbelief, they fall back into it. So if they do not withdraw from you or offer you peace or restrain their hands, then seize them and kill them wherever you overtake them. And those - We have made for you against them a clear authorization.
 
 **English (Yusuf Ali):** Others you will find that wish to gain your confidence as well as that of their people: Every time they are sent back to temptation, they succumb thereto: if they withdraw not from you nor give you (guarantees) of peace besides restraining their hands, seize them and slay them wherever ye get them: In their case We have provided you with a clear argument against them.
+
+**Urdu (Fatah Muhammad Jalandhari):** تم کچھ اور لوگ ایسے بھی پاؤ گے جو یہ چاہتے ہیں کہ تم سے بھی امن میں رہیں اور اپنی قوم سے بھی امن میں رہیں لیکن فتنہ انگیزی کو بلائے جائیں تو اس میں اوندھے منہ گر پڑیں تو ایسے لوگ اگر تم سے (لڑنے سے) کنارہ کشی نہ کریں اور نہ تمہاری طرف (پیغام) صلح بھیجیں اور نہ اپنے ہاتھوں کو روکیں تو ان کو پکڑ لو اور جہاں پاؤ قتل کردو ان لوگوں کے مقابلے میں ہم نے تمہارے لئے سند صریح مقرر کردی ہے
 
 [Open on Quran.com](https://quran.com/4/91)
 
@@ -92,6 +98,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** "When ye turn away from them and the things they worship other than Allah, betake yourselves to the Cave: Your Lord will shower His mercies on you and disposes of your affair towards comfort and ease."
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے ان (مشرکوں) سے اور جن کی یہ خدا کے سوا عبادت کرتے ہیں ان سے کنارہ کرلیا ہے تو غار میں چل رہو تمہارا پروردگار تمہارے لئے اپنی رحمت وسیع کردے گا اور تمہارے کاموں میں آسانی (کے سامان) مہیا کرے گا
+
 [Open on Quran.com](https://quran.com/18/16)
 
 #### 19:48 · [[019 Maryam]]
@@ -107,6 +115,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** And I will leave you and those you invoke other than Allāh and will invoke my Lord. I expect that I will not be in invocation to my Lord unhappy [i.e., disappointed]."
 
 **English (Yusuf Ali):** "And I will turn away from you (all) and from those whom ye invoke besides Allah: I will call on my Lord: perhaps, by my prayer to my Lord, I shall be not unblest."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور میں آپ لوگوں سے اور جن کو آپ خدا کے سوا پکارا کرتے ہیں ان سے کنارہ کرتا ہوں اور اپنے پروردگار ہی کو پکاروں گا۔ امید ہے کہ میں اپنے پروردگار کو پکار کر محروم نہیں رہوں گا
 
 [Open on Quran.com](https://quran.com/19/48)
 
@@ -124,6 +134,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 
 **English (Yusuf Ali):** When he had turned away from them and from those whom they worshipped besides Allah, We bestowed on him Isaac and Jacob, and each one of them We made a prophet.
 
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم ان لوگوں سے اور جن کی وہ خدا کے سوا پرستش کرتے تھے اُن سے الگ ہوگئے تو ہم نے ان کو اسحاق اور (اسحاق کو) یعقوب بخشے۔ اور سب کو پیغمبر بنایا
+
 [Open on Quran.com](https://quran.com/19/49)
 
 #### 44:21 · [[044 Ad-Dukhan]]
@@ -139,6 +151,8 @@ Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 v
 **English (Sahih International):** But if you do not believe me, then leave me alone."
 
 **English (Yusuf Ali):** "If ye believe me not, at least keep yourselves away from me."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم مجھ پر ایمان نہیں لاتے تو مجھ سے الگ ہو جاؤ
 
 [Open on Quran.com](https://quran.com/44/21)
 

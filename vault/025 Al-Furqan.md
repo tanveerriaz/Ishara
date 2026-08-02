@@ -14,84 +14,84 @@ The Criterion · 77 ayahs
 
 ## Words in this surah (graph)
 
-- [[tbArk - blessed]] — `تَبارَكَ` · blessed
-- [[n$wr - resurrection]] — `نُشُور` · resurrection
 - [[mstqr - dwelling place]] — `مُسْتَقَرّ` · dwelling place
-- [[mqAm - place]] — `مَقام` · place
+- [[n$wr - resurrection]] — `نُشُور` · resurrection
+- [[tbArk - blessed]] — `تَبارَكَ` · blessed
 - [[Hjr - stone]] — `حَجَر` · stone
-- [[zwr - lie]] — `زُور` · lie
-- [[swq - markets]] — `سُوق` · markets
 - [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
 - [[m$ - walk]] — `مَشَ` · walk
-- [[Hsn - good]] — `حُسْن` · good
-- [[dEA - call]] — `دَعا` · call
-- [[lyl - night]] — `لَيْل` · night
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[Dl - lost]] — `ضَلَّ` · lost
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[Eml - do]] — `عَمِلَ` · do
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[nSyr - any helper]] — `نَصِير` · any helper
-- [[>mr - command]] — `أَمَرَ` · command
-- [[wly - protector]] — `وَلِيّ` · protector
-- [[lqY - it granted]] — `لَقَّى` · it granted
-- [[ftnp - trial]] — `فِتْنَة` · trial
-- [[mA' - water]] — `ماء` · water
+- [[zwr - lie]] — `زُور` · lie
+- [[mqAm - place]] — `مَقام` · place
+- [[swq - markets]] — `سُوق` · markets
+- [[mqrn - bound together]] — `مُقَرَّن` · bound together
+- [[ryH - wind]] — `رِيح` · wind
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[qSr - palaces]] — `قَصْر` · palaces
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[qbl - before]] — `قَبْل` · before
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[ms}wl - questioned]] — `مَسْئُول` · questioned
+- [[lgw - vain talk]] — `لَغْو` · vain talk
+- [[mAt - died]] — `ماتَ` · died
+- [[mwt - death]] — `مَوْت` · death
+- [[Ayp - signs]] — `آيَة` · signs
+- [[bldp - land]] — `بَلْدَة` · land
+- [[>sATyr - tales]] — `أَساطِير` · tales
+- [[Eql - use reason]] — `عَقَلُ` · use reason
+- [[mtqy - righteous]] — `مُتَّقي` · righteous
 
 ## Roots
 
-- [[$Tn - shtn]]
-- [[$hd - shhd]]
-- [[$kr - shkr]]
+- [[$Tn - anything excessively proud]]
+- [[$hd - witnessing]]
+- [[$kr - gratitude]]
 - [[$ms - horse refusing ridden]]
 - [[$qq - cleave]]
 - [[$rk - sharing partnership]]
 - [[$rr - sparks fire]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - dhakara]]
+- [[*hb - go]]
+- [[*kr - remember recall something]]
 - [[*nb - tail]]
 - [[*rr - scattering dispersing small]]
-- [[*wq - dhwq]]
+- [[*wq - taste]]
 - [[>Sl - foundational part something]]
-- [[>bw - abw]]
-- [[>by - aby]]
-- [[>fk - afk]]
-- [[>jj - ajj]]
-- [[>jr - ajr]]
+- [[>bw - forefathers]]
+- [[>by - refuse]]
+- [[>fk - turn something away]]
+- [[>jj - bitter]]
+- [[>jr - recompensing rewarding someone]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>lm - alm]]
+- [[>lm - painful]]
 - [[>mm - leadership]]
-- [[>mn - amn]]
+- [[>mn - believe]]
 - [[>mr - amara]]
-- [[>ns - ans]]
-- [[>rD - ard]]
+- [[>ns - mankind]]
+- [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - athm]]
-- [[>wl - like milk oil]]
+- [[>vm - sin commit crime]]
+- [[>wl - return revert original]]
 - [[>x* - take]]
-- [[>xr - akhr]]
-- [[>xw - akhw]]
+- [[>xr - final part something]]
+- [[>xw - brother]]
 - [[>yy - ism]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[Drb - tent]]
+- [[Drb - strike beat]]
 - [[Drr - adversity]]
-- [[Dyq - dyq]]
-- [[E*b - edhb]]
+- [[Dyq - become narrow strait]]
+- [[E*b - motes particles floating]]
 - [[Ebd - worship]]
-- [[Edw - enemy]]
+- [[Edw - turn]]
 - [[Elm - knowledge]]
-- [[Eml - eml]]
+- [[Eml - intentional action deed]]
 - [[Emy - blindness]]
-- [[Eql - eql]]
-- [[Er$ - ersh]]
-- [[Esr - esr]]
-- [[Etd - etd]]
-- [[Etw - etw]]
+- [[Eql - withhold restrain]]
+- [[Er$ - shaded structure]]
+- [[Esr - hardship]]
+- [[Etd - preparation readiness]]
+- [[Etw - pride]]
 
 ## Sample (ayah 1)
 
