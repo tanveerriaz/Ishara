@@ -4,7 +4,9 @@ import { GraphView } from './GraphView'
 import { NotePanel } from './NotePanel'
 import type { GraphData, GraphNode, NoteData } from './types'
 
-const GITHUB_REPO = 'https://github.com/tanveerriaz/Ishara'
+function isQuranNode(n: GraphNode): boolean {
+  return n.type === 'word' || n.type === 'root' || n.type === 'surah'
+}
 
 export default function App() {
   const [graph, setGraph] = useState<GraphData | null>(null)
@@ -23,14 +25,21 @@ export default function App() {
         return r.json()
       })
       .then((g: GraphData) => {
-        // Deduplicate by id (word/root slug collisions used to crash MiniSearch)
         const seen = new Set<string>()
         const nodes = g.nodes.filter((n) => {
+          if (!isQuranNode(n)) return false
           if (seen.has(n.id)) return false
           seen.add(n.id)
           return true
         })
-        setGraph({ ...g, nodes, meta: { ...g.meta, nodeCount: nodes.length } })
+        const ids = new Set(nodes.map((n) => n.id))
+        const links = g.links.filter((l) => ids.has(l.source) && ids.has(l.target))
+        setGraph({
+          ...g,
+          nodes,
+          links,
+          meta: { ...g.meta, nodeCount: nodes.length, linkCount: links.length },
+        })
       })
       .catch((e: unknown) => {
         console.error(e)
@@ -74,10 +83,12 @@ export default function App() {
 
   const selectId = useCallback(async (id: string) => {
     setFocusId(id)
+    setMode('local')
     setResultsOpen(false)
     setQuery('')
     setNoteLoading(true)
     try {
+      // ids are already URL-safe (typed + percent-encoded slug); don't double-encode
       const r = await fetch(`${import.meta.env.BASE_URL}data/notes/${id}.json`)
       if (!r.ok) throw new Error('note missing')
       setNote(await r.json())
@@ -101,7 +112,7 @@ export default function App() {
   }
 
   if (!graph) {
-    return <div className="loading">Loading graph…</div>
+    return <div className="loading">Loading Qur’an meaning graph…</div>
   }
 
   return (
@@ -109,9 +120,7 @@ export default function App() {
       <header className="header">
         <div className="brand">
           Ishara
-          <span>
-            {graph.meta.nodeCount.toLocaleString()} nodes · {graph.meta.linkCount.toLocaleString()} links
-          </span>
+          <span>Qur’anic meaning graph · {graph.meta.nodeCount.toLocaleString()} words/roots/surahs</span>
         </div>
         <div className="header-actions">
           <button type="button" className={mode === 'local' ? 'active' : ''} onClick={() => setMode('local')}>
@@ -120,10 +129,6 @@ export default function App() {
           <button type="button" className={mode === 'global' ? 'active' : ''} onClick={() => setMode('global')}>
             Explore all
           </button>
-          <a href={GITHUB_REPO} target="_blank" rel="noopener noreferrer">
-            Vault on GitHub
-          </a>
-          <a href={`${GITHUB_REPO}#use-locally-in-obsidian`}>Open in Obsidian</a>
         </div>
       </header>
 
@@ -138,7 +143,7 @@ export default function App() {
               }}
               onFocus={() => setResultsOpen(true)}
               placeholder="Search word, root, surah, meaning…"
-              aria-label="Search graph"
+              aria-label="Search Qur’anic meanings"
             />
             {resultsOpen && results.length > 0 && (
               <ul className="results">
@@ -159,12 +164,8 @@ export default function App() {
       </div>
 
       <footer className="footer">
-        Data is not original: Arabic (Quran.com / Tanzil), English Sahih International, Urdu Fatah Muhammad
-        Jalandhari, morphology Quranic Arabic Corpus, root labels Lane lexicon.{' '}
-        <a href={`${GITHUB_REPO}/blob/main/ATTRIBUTION.md`} target="_blank" rel="noopener noreferrer">
-          Full attribution
-        </a>
-        . Graph UI inspired by Obsidian Local Graph (not affiliated). · Curious mind. Builder mode! 🇸🇬
+        Sources: Arabic (Quran.com / Tanzil), Sahih International, Fatah Muhammad Jalandhari, Quranic Arabic
+        Corpus, Lane lexicon. Study tool — not a fatwa source. · Curious mind. Builder mode! 🇸🇬
       </footer>
     </div>
   )

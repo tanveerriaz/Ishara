@@ -55,8 +55,11 @@ def wikilinks(body: str) -> list[str]:
 
 
 def strip_md_noise(body: str) -> str:
-    # Keep readable text for note panel; drop instructions about Obsidian local graph
+    # Keep readable Qur’an content; drop vault/tooling chrome
     body = re.sub(r"^Open \*\*Local graph\*\*.*$", "", body, flags=re.M)
+    body = re.sub(r"(?i)obsidian", "", body)
+    body = re.sub(r"(?im)^.*(github\.com|quran-gbrain|OPEN-IN-OBSIDIAN).*$", "", body)
+    body = re.sub(r"\n{3,}", "\n\n", body)
     return body.strip()
 
 

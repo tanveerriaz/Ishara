@@ -1,25 +1,27 @@
-# Open Ishara in Obsidian
+# Open the Qur’an vault (not the repo)
 
-**Do not open this repo folder** (`Projects/Ishara`). That pulls in `README`, `web/`, `scripts/`, and breaks the meaning graph.
+If Graph view shows `README`, `web/`, `scripts/`, or `data/`, you opened the **wrong folder**.
 
-## Correct vault
-
-Open this folder only:
+## Correct folder
 
 ```text
 /Users/tanveerriaz/Projects/Ishara/vault
 ```
 
-macOS:
+That folder contains only surah hubs, `Words/`, `Roots/`, and indexes — the meaning graph.
+
+## Open it
+
+Double-click **`Open Ishara Vault.command`** in the project, or run:
 
 ```bash
 open -a Obsidian "/Users/tanveerriaz/Projects/Ishara/vault"
 ```
 
-Then in Obsidian Graph view, use filter:
+Then: Obsidian → **Settings → Manage vaults** → **Remove** any vault pointed at `Projects/Ishara` (the repo root).
+
+Graph filter:
 
 ```text
 path:Words OR path:Roots OR tag:#surah
 ```
-
-If you already opened the repo root: **Settings → Manage vaults → Remove** that vault, then open `vault/` as above.
