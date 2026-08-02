@@ -32,14 +32,18 @@ Monorepo root `railway.toml` builds `web/Dockerfile` (Caddy serves `dist`). Rede
 
 ## Use locally in Obsidian
 
-**Open only `vault/`** — never the repo root.
+**Open only `vault/`** — never the repo root. See [OPEN-IN-OBSIDIAN.md](OPEN-IN-OBSIDIAN.md).
 
 | Open this | Not this |
 |-----------|----------|
-| `…/Ishara/vault/` (Words, Roots, surah hubs) | `…/Ishara/` (includes `web/`, `data/`, `scripts/`) |
+| `…/Ishara/vault/` (Words, Roots, surah hubs) | `…/Ishara/` (includes `README`, `web/`, `data/`, `scripts/`) |
+
+```bash
+open -a Obsidian "/Users/tanveerriaz/Projects/Ishara/vault"
+```
 
 1. Clone this repo.
-2. Obsidian → **Open folder as vault** → choose `vault/` (contains `Welcome.md`, `Words/`, `Roots/`).
+2. Obsidian → **Open folder as vault** → choose `vault/` (contains `Welcome.md`, `Words/`, `Roots/`). If the repo root is already listed under Manage vaults, **remove** it first.
 3. **Graph view** filter (saved in `vault/.obsidian/graph.json`):
 
 ```text

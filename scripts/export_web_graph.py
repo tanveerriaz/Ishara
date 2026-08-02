@@ -24,8 +24,11 @@ COLORS = {
 }
 
 
-def safe_id(slug: str) -> str:
-    return quote(slug.strip(), safe="")
+def safe_id(slug: str, kind: str = "") -> str:
+    """URL-safe node id. Prefix by kind so word/root collisions can't share an id."""
+    body = quote(slug.strip(), safe="")
+    # Use "__" (not ":") so note filenames stay valid path segments in browsers.
+    return f"{kind}__{body}" if kind else body
 
 
 def parse_frontmatter(text: str) -> tuple[dict, str]:
@@ -175,9 +178,10 @@ def main() -> None:
         text = path.read_text(encoding="utf-8")
         meta, body = parse_frontmatter(text)
         slug = meta.get("slug") or path.stem
-        nid = safe_id(slug)
+        nid = safe_id(slug, "word")
         title_to_id[slug] = nid
         title_to_id[path.stem] = nid
+        title_to_id[f"Words/{path.stem}"] = nid
         lemma = meta.get("lemma", "")
         meaning_m = re.search(r"\*\*([^*]+)\*\*\s*·\s*Lemma", body)
         meaning = meaning_m.group(1).strip() if meaning_m else slug.split(" - ")[-1]
@@ -216,9 +220,14 @@ def main() -> None:
         text = path.read_text(encoding="utf-8")
         meta, body = parse_frontmatter(text)
         slug = meta.get("slug") or path.stem
-        nid = safe_id(slug)
-        title_to_id[slug] = nid
-        title_to_id[path.stem] = nid
+        nid = safe_id(slug, "root")
+        # Prefer word id when resolving bare wikilinks that collide; keep root under typed keys.
+        title_to_id[f"Roots/{path.stem}"] = nid
+        title_to_id[f"root:{slug}"] = nid
+        if slug not in title_to_id:
+            title_to_id[slug] = nid
+        if path.stem not in title_to_id:
+            title_to_id[path.stem] = nid
         arabic = meta.get("arabic_root", "")
         sense_m = re.search(r"\*\*Sense:\*\*\s*([^\s·]+)", body)
         sense = sense_m.group(1) if sense_m else slug.split(" - ")[-1]
@@ -254,7 +263,7 @@ def main() -> None:
         text = path.read_text(encoding="utf-8")
         meta, body = parse_frontmatter(text)
         slug = path.stem
-        nid = safe_id(slug)
+        nid = safe_id(slug, "surah")
         title_to_id[slug] = nid
         surah_n = meta.get("surah", slug[:3])
         nodes.append(
@@ -294,14 +303,14 @@ def main() -> None:
         return None
 
     for slug, targets in word_targets.items():
-        src = title_to_id[slug]
+        src = safe_id(slug, "word")
         for t in targets:
             dst = resolve(t)
             if dst:
                 add_edge(src, dst)
 
     for slug, targets in root_targets.items():
-        src = title_to_id[slug]
+        src = safe_id(slug, "root")
         for t in targets:
             dst = resolve(t)
             if dst:

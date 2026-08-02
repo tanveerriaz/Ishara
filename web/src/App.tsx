@@ -12,14 +12,30 @@ export default function App() {
   const [note, setNote] = useState<NoteData | null>(null)
   const [noteLoading, setNoteLoading] = useState(false)
   const [query, setQuery] = useState('')
-  const [mode, setMode] = useState<'local' | 'global'>('local')
+  const [mode, setMode] = useState<'local' | 'global'>('global')
   const [resultsOpen, setResultsOpen] = useState(false)
+  const [loadError, setLoadError] = useState<string | null>(null)
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/graph.json`)
-      .then((r) => r.json())
-      .then((g: GraphData) => setGraph(g))
-      .catch(console.error)
+      .then((r) => {
+        if (!r.ok) throw new Error(`graph.json ${r.status}`)
+        return r.json()
+      })
+      .then((g: GraphData) => {
+        // Deduplicate by id (word/root slug collisions used to crash MiniSearch)
+        const seen = new Set<string>()
+        const nodes = g.nodes.filter((n) => {
+          if (seen.has(n.id)) return false
+          seen.add(n.id)
+          return true
+        })
+        setGraph({ ...g, nodes, meta: { ...g.meta, nodeCount: nodes.length } })
+      })
+      .catch((e: unknown) => {
+        console.error(e)
+        setLoadError(e instanceof Error ? e.message : 'Failed to load graph')
+      })
   }, [])
 
   const mini = useMemo(() => {
@@ -29,7 +45,18 @@ export default function App() {
       storeFields: ['id', 'slug', 'type', 'label', 'title'],
       searchOptions: { boost: { label: 3, slug: 2 }, fuzzy: 0.15, prefix: true },
     })
-    ms.addAll(graph.nodes)
+    try {
+      ms.addAll(graph.nodes)
+    } catch (e) {
+      console.error(e)
+      for (const n of graph.nodes) {
+        try {
+          ms.add(n)
+        } catch {
+          /* skip duplicate ids */
+        }
+      }
+    }
     return ms
   }, [graph])
 
@@ -68,6 +95,10 @@ export default function App() {
     },
     [bySlug, selectId],
   )
+
+  if (loadError) {
+    return <div className="loading">Could not load graph: {loadError}</div>
+  }
 
   if (!graph) {
     return <div className="loading">Loading graph…</div>
