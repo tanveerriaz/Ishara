@@ -16,7 +16,7 @@ type Props = {
   onSelect: (id: string) => void
 }
 
-type SimNode = GraphNode & { x?: number; y?: number; vx?: number; vy?: number }
+type SimNode = GraphNode & { x?: number; y?: number }
 
 function neighbors(focusId: string, links: GraphLink[], depth: number): Set<string> {
   const adj = new Map<string, Set<string>>()
@@ -71,7 +71,7 @@ export function GraphView({ graph, focusId, mode, onSelect }: Props) {
   const fgRef = useRef<ForceGraphMethods | undefined>(undefined)
   const containerRef = useRef<HTMLDivElement>(null)
   const [size, setSize] = useState({ w: 600, h: 500 })
-  const timeRef = useRef(0)
+  const [, setPulseFrame] = useState(0)
 
   useEffect(() => {
     const el = containerRef.current
@@ -84,22 +84,14 @@ export function GraphView({ graph, focusId, mode, onSelect }: Props) {
     return () => ro.disconnect()
   }, [])
 
-  // Smooth continuous motion like Obsidian's Animate toggle.
+  // Soft glow only — does not reheat the force layout (graph stays put).
   useEffect(() => {
     let raf = 0
-    let lastReheat = 0
+    let last = 0
     const tick = (now: number) => {
-      timeRef.current = now / 1000
-      const fg = fgRef.current as ForceGraphMethods & {
-        d3ReheatSimulation?: () => void
-        d3AlphaTarget?: (n: number) => void
-      }
-      // Tiny periodic reheat keeps the cloud gently drifting
-      if (now - lastReheat > 2800) {
-        lastReheat = now
-        fg?.d3AlphaTarget?.(0.04)
-        fg?.d3ReheatSimulation?.()
-        window.setTimeout(() => fg?.d3AlphaTarget?.(0), 900)
+      if (now - last > 48) {
+        last = now
+        setPulseFrame((n) => n + 1)
       }
       raf = requestAnimationFrame(tick)
     }
@@ -150,16 +142,15 @@ export function GraphView({ graph, focusId, mode, onSelect }: Props) {
       const color = nodeColor(node.type)
       const baseR = node.type === 'surah' ? 6.5 : node.type === 'root' ? 5.5 : 4.5
       const isFocus = node.id === focusId
-      const t = timeRef.current
       const h = hashId(node.id)
-      // Slow breathe — closer to Obsidian glow than busy sparkles
-      const pulse = 0.5 + 0.5 * Math.sin(t * 1.15 + (h % 360) * 0.017)
-      const r = isFocus ? baseR + 1.8 + pulse * 0.6 : baseR
+      const t = performance.now() / 1000
+      const pulse = 0.5 + 0.5 * Math.sin(t * 1.05 + (h % 360) * 0.017)
+      const r = isFocus ? baseR + 1.6 + pulse * 0.45 : baseR
 
-      const aura = r + 3.5 + pulse * 2.2
+      const aura = r + 3 + pulse * 1.8
       const grad = ctx.createRadialGradient(x, y, 0, x, y, aura)
-      grad.addColorStop(0, hexToRgba(color, isFocus ? 0.65 : 0.38 + pulse * 0.1))
-      grad.addColorStop(0.45, hexToRgba(color, 0.14))
+      grad.addColorStop(0, hexToRgba(color, isFocus ? 0.62 : 0.32 + pulse * 0.08))
+      grad.addColorStop(0.5, hexToRgba(color, 0.12))
       grad.addColorStop(1, hexToRgba(color, 0))
       ctx.beginPath()
       ctx.arc(x, y, aura, 0, Math.PI * 2)
@@ -174,21 +165,6 @@ export function GraphView({ graph, focusId, mode, onSelect }: Props) {
         ctx.strokeStyle = 'rgba(250,242,214,0.9)'
         ctx.lineWidth = 1.4 / globalScale
         ctx.stroke()
-      }
-
-      // Soft orbiting motes (fewer, slower)
-      const count = isFocus ? 4 : node.type === 'root' ? 3 : 2
-      const speed = 0.35 + (h % 5) * 0.04
-      for (let i = 0; i < count; i++) {
-        const ang = t * speed + (i / count) * Math.PI * 2
-        const orbit = r + 5.5 + pulse * 1.2
-        const px = x + Math.cos(ang) * orbit
-        const py = y + Math.sin(ang) * orbit
-        const pr = (0.9 + pulse * 0.35) / Math.max(globalScale * 0.4, 0.8)
-        ctx.beginPath()
-        ctx.arc(px, py, pr, 0, Math.PI * 2)
-        ctx.fillStyle = hexToRgba(OBSIDIAN_COLORS.root, 0.4 + pulse * 0.35)
-        ctx.fill()
       }
 
       if (globalScale > 0.55 || isFocus) {
@@ -207,23 +183,20 @@ export function GraphView({ graph, focusId, mode, onSelect }: Props) {
     const fg = fgRef.current
     if (!fg) return
 
-    // Obsidian-like forces: soft center, strong repel, longer links
     const charge = mode === 'global' ? -55 : -160
     const dist = mode === 'global' ? 36 : 70
     fg.d3Force('charge')?.strength(charge)
     fg.d3Force('link')?.distance(dist)?.strength(0.55)
     const center = fg.d3Force('center') as { strength?: (n: number) => void } | undefined
     center?.strength?.(mode === 'global' ? 0.05 : 0.08)
-
-    ;(fg as ForceGraphMethods & { d3VelocityDecay?: (n: number) => void }).d3VelocityDecay?.(0.28)
     fg.d3ReheatSimulation()
 
     if (focusId && data.nodes.length) {
-      const timer = window.setTimeout(() => fg.zoomToFit(700, 56), 500)
+      const timer = window.setTimeout(() => fg.zoomToFit(700, 56), 450)
       return () => clearTimeout(timer)
     }
     if (mode === 'global' && data.nodes.length) {
-      const timer = window.setTimeout(() => fg.zoomToFit(900, 40), 700)
+      const timer = window.setTimeout(() => fg.zoomToFit(900, 40), 600)
       return () => clearTimeout(timer)
     }
   }, [focusId, data, mode])
@@ -231,7 +204,7 @@ export function GraphView({ graph, focusId, mode, onSelect }: Props) {
   return (
     <div className="graph-pane" ref={containerRef}>
       {!focusId && mode === 'local' && (
-        <div className="hint">Search a Qur’anic word, root, or surah to open its meaning graph.</div>
+        <div className="hint">Click a node (or search) to open its local graph and verses on the right.</div>
       )}
       <ForceGraph2D
         ref={fgRef}
@@ -250,20 +223,18 @@ export function GraphView({ graph, focusId, mode, onSelect }: Props) {
         }}
         linkColor={() => 'rgba(248,205,55,0.22)'}
         linkWidth={0.7}
-        linkDirectionalParticles={mode === 'local' ? 2 : 1}
-        linkDirectionalParticleSpeed={0.0028}
-        linkDirectionalParticleWidth={1.6}
+        linkDirectionalParticles={mode === 'local' && focusId ? 1 : 0}
+        linkDirectionalParticleSpeed={0.003}
+        linkDirectionalParticleWidth={1.4}
         linkDirectionalParticleColor={() => OBSIDIAN_COLORS.root}
-        cooldownTicks={Infinity}
-        d3AlphaDecay={0.008}
-        d3AlphaMin={0.001}
-        warmupTicks={40}
+        cooldownTicks={120}
+        d3AlphaDecay={0.022}
+        warmupTicks={30}
         onNodeClick={(node) => onSelect((node as GraphNode).id)}
         onNodeDragEnd={(node) => {
-          // Release pin so the cloud keeps drifting (Obsidian-like)
-          const n = node as SimNode & { fx?: number | null; fy?: number | null }
-          n.fx = undefined
-          n.fy = undefined
+          const n = node as SimNode & { fx?: number; fy?: number }
+          n.fx = n.x
+          n.fy = n.y
         }}
         enableNodeDrag
         enableZoomInteraction
