@@ -1,0 +1,128 @@
+---
+type: word
+lemma: "طَعِمُ"
+slug: "TEm - taste it"
+surah_count: 5
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# TEm - taste it
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[TEm - tem]]
+
+### Meaning
+**taste it** · Lemma **طَعِمُ**
+
+### Surahs (5)
+- [[002 Al-Baqarah]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[033 Al-Ahzab]]
+- [[047 Muhammad]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:249 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ
+
+</div>
+
+**Word in this verse:** `يَطْعَمْهُ` — taste it
+
+**English (Sahih International):** And when Saul went forth with the soldiers, he said, "Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand." But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, "There is no power for us today against Goliath and his soldiers." But those who were certain that they would meet Allāh said, "How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient."
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض جب طالوت فوجیں لے کر روانہ ہوا تو اس نے (ان سے) کہا کہ خدا ایک نہر سے تمہاری آزمائش کرنے والا ہے۔ جو شخص اس میں سے پانی پی لے گا (اس کی نسبت تصور کیا جائے گا کہ) وہ میرا نہیں۔ اور جو نہ پئے گا وہ (سمجھا جائے گا کہ) میرا ہے۔ ہاں اگر کوئی ہاتھ سے چلو بھر پانی پی لے (تو خیر۔ جب وہ لوگ نہر پر پہنچے) تو چند شخصوں کے سوا سب نے پانی پی لیا۔ پھر جب طالوت اور مومن لوگ جو اس کے ساتھ تھے نہر کے پار ہوگئے۔ تو کہنے لگے کہ آج ہم میں جالوت اور اس کے لشکر سے مقابلہ کرنے کی طاقت نہیں۔ جو لوگ یقین رکھتے تھے کہ ان کو خدا کے روبرو حاضر ہونا ہے وہ کہنے لگے کہ بسااوقات تھوڑی سی جماعت نے خدا کے حکم سے بڑی جماعت پر فتح حاصل کی ہے اور خدا استقلال رکھنے والوں کے ساتھ ہے
+
+[Open on Quran.com](https://quran.com/2/249)
+
+#### 5:93 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَيْسَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جُنَاحٌ فِيمَا طَعِمُوٓا۟ إِذَا مَا ٱتَّقَوا۟ وَّءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ثُمَّ ٱتَّقَوا۟ وَّءَامَنُوا۟ ثُمَّ ٱتَّقَوا۟ وَّأَحْسَنُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ
+
+</div>
+
+**Word in this verse:** `طَعِمُوٓا۟` — they ate
+
+**English (Sahih International):** There is not upon those who believe and do righteousness [any] blame concerning what they have eaten [in the past] if they [now] fear Allāh and believe and do righteous deeds, and then fear Allāh and believe, and then fear Allāh and do good; and Allāh loves the doers of good.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور نیک کام کرتے رہے ان پر ان چیزوں کا کچھ گناہ نہیں جو وہ کھا چکے جب کہ انہوں نے پرہیز کیا اور ایمان لائے اور نیک کام کیے پھر پرہیز کیا اور ایمان لائے پھر پرہیز کیا اور نیکو کاری کی اور خدا نیکو کاروں کو دوست رکھتا ہے
+
+[Open on Quran.com](https://quran.com/5/93)
+
+#### 6:138 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ هَـٰذِهِۦٓ أَنْعَـٰمٌ وَحَرْثٌ حِجْرٌ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَـٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَـٰمٌ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ ۚ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ
+
+</div>
+
+**Word in this verse:** `يَطْعَمُهَآ` — can eat them
+
+**English (Sahih International):** And they say, "These animals and crops are forbidden; no one may eat from them except whom we will," by their claim. And there are those [camels] whose backs are forbidden [by them] and those upon which the name of Allāh is not mentioned - [all of this] an invention of untruth about Him. He will punish them for what they were inventing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے خیال سے یہ بھی کہتے ہیں کہ یہ چارپائے اور کھیتی منع ہے اسے اس شخص کے سوا جسے ہم چاہیں کوئی نہ کھائے اور (بعض) چارپائے ایسے ہیں کہ ان کی پیٹ پر چڑھنا منع کر دیا گیا ہے اور بعض مویشی ایسے ہیں جن پر (ذبح کرتے وقت) خدا کا نام نہیں لیتے سب خدا پر جھوٹ ہے وہ عنقریب ان کو ان کے جھوٹ کا بدلہ دے گا
+
+[Open on Quran.com](https://quran.com/6/138)
+
+#### 6:145 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۚ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `يَطْعَمُهُۥٓ` — who eats it
+
+**English (Sahih International):** Say, "I do not find within that which was revealed to me [anything] forbidden to one who would eat it unless it be a dead animal or blood spilled out or the flesh of swine - for indeed, it is impure - or it be [that slaughtered in] disobedience, dedicated to other than Allāh. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], then indeed, your Lord is Forgiving and Merciful."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ جو احکام مجھ پر نازل ہوئے ہیں ان میں کوئی چیز جسے کھانے والا کھائے حرام نہیں پاتا بجز اس کے کہ وہ مرا ہوا جانور یا بہتا لہو یا سور کا گوشت کہ یہ سب ناپاک ہیں یا کوئی گناہ کی چیز ہو کہ اس پر خدا کے سوا کسی اور کا نام لیا گیا ہو اور اگر کوئی مجبور ہو جائے لیکن نہ تو نافرمانی کرے اور نہ حد سے باہر نکل جائے تو تمہارا پروردگار بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/6/145)
+
+#### 33:53 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَـٰظِرِينَ إِنَىٰهُ وَلَـٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ ۚ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ مِنكُمْ ۖ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ ۚ وَإِذَا سَأَلْتُمُوهُنَّ مَتَـٰعًا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ ۚ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ ۚ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا ۚ إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا
+
+</div>
+
+**Word in this verse:** `طَعِمْتُمْ` — you have eaten
+
+**English (Sahih International):** O you who have believed, do not enter the houses of the Prophet except when you are permitted for a meal, without awaiting its readiness. But when you are invited, then enter; and when you have eaten, disperse without seeking to remain for conversation. Indeed, that [behavior] was troubling the Prophet, and he is shy of [dismissing] you. But Allāh is not shy of the truth. And when you ask [his wives] for something, ask them from behind a partition. That is purer for your hearts and their hearts. And it is not [conceivable or lawful] for you to harm the Messenger of Allāh or to marry his wives after him, ever. Indeed, that would be in the sight of Allāh an enormity.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو پیغمبر کے گھروں میں نہ جایا کرو مگر اس صورت میں کہ تم کو کھانے کے لئے اجازت دی جائے اور اس کے پکنے کا انتظار بھی نہ کرنا پڑے۔ لیکن جب تمہاری دعوت کی جائے تو جاؤ اور جب کھانا کھاچکو تو چل دو اور باتوں میں جی لگا کر نہ بیٹھ رہو۔ یہ بات پیغمبر کو ایذا دیتی ہے۔ اور وہ تم سے شرم کرتے ہیں (اور کہتے نہیں ہیں) لیکن خدا سچی بات کے کہنے سے شرم نہیں کرتا۔ اور جب پیغمبروں کی بیویوں سے کوئی سامان مانگو تو پردے کے باہر مانگو۔ یہ تمہارے اور ان کے دونوں کے دلوں کے لئے بہت پاکیزگی کی بات ہے۔ اور تم کو یہ شایاں نہیں کہ پیغمبر خدا کو تکلیف دو اور نہ یہ کہ ان کی بیویوں سے کبھی ان کے بعد نکاح کرو۔ بےشک یہ خدا کے نزدیک بڑا (گناہ کا کام) ہے
+
+[Open on Quran.com](https://quran.com/33/53)
+
+#### 47:15 · [[047 Muhammad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ فِيهَآ أَنْهَـٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ وَأَنْهَـٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَـٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّـٰرِبِينَ وَأَنْهَـٰرٌ مِّنْ عَسَلٍ مُّصَفًّى ۖ وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ ۖ كَمَنْ هُوَ خَـٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
+
+</div>
+
+**Word in this verse:** `طَعْمُهُۥ` — its taste
+
+**English (Sahih International):** Is the description of Paradise, which the righteous are promised, wherein are rivers of water unaltered, rivers of milk the taste of which never changes, rivers of wine delicious to those who drink, and rivers of purified honey, in which they will have from all [kinds of] fruits and forgiveness from their Lord... [Are its inhabitants] like those who abide eternally in the Fire and are given to drink scalding water that will sever their intestines?
+
+**Urdu (Fatah Muhammad Jalandhari):** جنت جس کا پرہیزگاروں سے وعدہ کیا جاتا ہے۔ اس کی صفت یہ ہے کہ اس میں پانی کی نہریں ہیں جو بو نہیں کرے گا۔ اور دودھ کی نہریں ہیں جس کا مزہ نہیں بدلے گا۔ اور شراب کی نہریں ہیں جو پینے والوں کے لئے (سراسر) لذت ہے۔ اور شہد مصفا کی نہریں ہیں (جو حلاوت ہی حلاوت ہے) اور (وہاں) ان کے لئے ہر قسم کے میوے ہیں اور ان کے پروردگار کی طرف سے مغفرت ہے۔ (کیا یہ پرہیزگار) ان کی طرح (ہوسکتے) ہیں جو ہمیشہ دوزخ میں رہیں گے اور جن کو کھولتا ہوا پانی پلایا جائے گا تو ان کی انتڑیوں کو کاٹ ڈالے گا
+
+[Open on Quran.com](https://quran.com/47/15)
+

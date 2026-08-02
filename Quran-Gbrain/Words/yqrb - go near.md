@@ -1,0 +1,196 @@
+---
+type: word
+lemma: "يَقْرَبُ"
+slug: "yqrb - go near"
+surah_count: 7
+ayah_count: 11
+tags: [word, meaning]
+---
+
+# yqrb - go near
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[qrb - become near]]
+
+### Meaning
+**go near** · Lemma **يَقْرَبُ**
+
+### Surahs (7)
+- [[002 Al-Baqarah]]
+- [[004 An-Nisa]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[009 At-Tawbah]]
+- [[012 Yusuf]]
+- [[017 Al-Isra]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:35 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقُلْنَا يَـٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `تَقْرَبَا` — [you two] approach
+
+**English (Sahih International):** And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کہا کہ اے آدم تم اور تمہاری بیوی بہشت میں رہو اور جہاں سے چاہو بے روک ٹوک کھاؤ (پیو) لیکن اس درخت کے پاس نہ جانا نہیں تو ظالموں میں (داخل) ہو جاؤ گے
+
+[Open on Quran.com](https://quran.com/2/35)
+
+#### 2:187 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ ۚ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ ۗ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ ۖ فَٱلْـَٔـٰنَ بَـٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ ۚ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ۖ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ ۚ وَلَا تُبَـٰشِرُوهُنَّ وَأَنتُمْ عَـٰكِفُونَ فِى ٱلْمَسَـٰجِدِ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَـٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ
+
+</div>
+
+**Word in this verse:** `تَقْرَبُوهَا ۗ` — approach them
+
+**English (Sahih International):** It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are a clothing for you and you are a clothing for them. Allāh knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allāh has decreed for you [i.e., offspring]. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the night [i.e., sunset]. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allāh, so do not approach them. Thus does Allāh make clear His verses [i.e., ordinances] to the people that they may become righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** روزوں کی راتوں میں تمہارے لئے اپنی عورتوں کے پاس جانا کردیا گیا ہے وہ تمہاری پوشاک ہیں اور تم ان کی پوشاک ہو خدا کو معلوم ہے کہ تم (ان کے پاس جانے سے) اپنے حق میں خیانت کرتے تھے سو اس نے تم پر مہربانی کی اور تمہاری حرکات سےدرگزرفرمائی۔اب (تم کو اختیار ہے کہ) ان سے مباشرت کرو۔ اور خدا نے جو چیز تمہارے لئے لکھ رکھی ہے (یعنی اولاد) اس کو (خدا سے) طلب کرو اور کھاؤ پیو یہاں تک کہ صبح کی سفید دھاری (رات کی) سیاہ دھاری سے الگ نظر آنے لگے۔ پھر روزہ (رکھ کر) رات تک پورا کرو اور جب تم مسجدوں میں اعتکاف بیٹھے ہو تو ان سے مباشرت نہ کرو۔ یہ خدا کی حدیں ہیں ان کے پاس نہ جانا۔ اسی طرح خدا اپنی آیتیں لوگوں کے (سمجھانے کے) لئے کھول کھول کر بیان فرماتا ہے تاکہ وہ پرہیزگار بنیں
+
+[Open on Quran.com](https://quran.com/2/187)
+
+#### 2:222 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ ۖ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ
+
+</div>
+
+**Word in this verse:** `تَقْرَبُوهُنَّ` — approach them
+
+**English (Sahih International):** And they ask you about menstruation. Say, "It is harm, so keep away from wives during menstruation. And do not approach them until they are pure. And when they have purified themselves, then come to them from where Allāh has ordained for you. Indeed, Allāh loves those who are constantly repentant and loves those who purify themselves."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے حیض کے بارے میں دریافت کرتے ہیں۔ کہہ دو کہ وہ تو نجاست ہے۔ سو ایام حیض میں عورتوں سے کنارہ کش رہو۔ اور جب تک پاک نہ ہوجائیں ان سے مقاربت نہ کرو۔ ہاں جب پاک ہوجائیں تو جس طریق سے خدا نے ارشاد فرمایا ہے ان کے پاس جاؤ۔ کچھ شک نہیں کہ خدا توبہ کرنے والوں اور پاک صاف رہنے والوں کو دوست رکھتا ہے
+
+[Open on Quran.com](https://quran.com/2/222)
+
+#### 4:43 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَـٰرَىٰ حَتَّىٰ تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ ۗ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا
+
+</div>
+
+**Word in this verse:** `تَقْرَبُوا۟` — go near
+
+**English (Sahih International):** O you who have believed, do not approach prayer while you are intoxicated until you know what you are saying or in a state of janābah, except those passing through [a place of prayer], until you have washed [your whole body]. And if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women [i.e., had sexual intercourse] and find no water, then seek clean earth and wipe over your faces and your hands [with it]. Indeed, Allāh is ever Pardoning and Forgiving.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم نشے کی حالت میں ہو تو جب تک (ان الفاظ کو) جو منہ سے کہو سمجھنے (نہ) لگو نماز کے پاس نہ جاؤ اور جنابت کی حالت میں بھی (نماز کے پاس نہ جاؤ) جب تک کہ غسل (نہ) کرلو ہاں اگر بحالت سفر رستے چلے جارہے ہو اور پانی نہ ملنے کے سبب غسل نہ کرسکو تو تیمم کرکے نماز پڑھ لو) اور اگر تم بیمار ہو سفر میں ہو یا تم میں سے کوئی بیت الخلاء سے ہو کر آیا ہو یا تم عورتوں سے ہم بستر ہوئے ہو اور تمہیں پانی نہ ملے تو پاک مٹی لو اور منہ اور ہاتھوں پر مسح (کرکے تیمم) کرلو بےشک خدا معاف کرنے والا اور بخشنے والا ہے
+
+[Open on Quran.com](https://quran.com/4/43)
+
+#### 6:151 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا ۖ وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُم مِّنْ إِمْلَـٰقٍ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `تَقْرَبُوا۟` — go near
+
+**English (Sahih International):** Say, "Come, I will recite what your Lord has prohibited to you. [He commands] that you not associate anything with Him, and to parents, good treatment, and do not kill your children out of poverty; We will provide for you and them. And do not approach immoralities - what is apparent of them and what is concealed. And do not kill the soul which Allāh has forbidden [to be killed] except by [legal] right. This has He instructed you that you may use reason."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ کہ (لوگو) آؤ میں تمہیں وہ چیزیں پڑھ کر سناؤں جو تمہارے پروردگار نے تم پر حرام کر دی ہیں (ان کی نسبت اس نے اس طرح ارشاد فرمایا ہے) کہ کسی چیز کو خدا کا شریک نہ بنانا اور ماں باپ (سے بدسلوکی نہ کرنا بلکہ) سلوک کرتے رہنا اور ناداری (کے اندیشے) سے اپنی اولاد کو قتل نہ کرنا کیونکہ تم کو اور ان کو ہم ہی رزق دیتے ہیں اور بےحیائی کے کام ظاہر ہوں یا پوشیدہ ان کے پاس نہ پھٹکنا اور کسی جان (والے) کو جس کے قتل کو خدا نے حرام کر دیا ہے قتل نہ کرنا مگر جائز طور پر (یعنی جس کا شریعت حکم دے) ان باتوں کا وہ تمہیں ارشاد فرماتا ہے تاکہ تم سمجھو
+
+[Open on Quran.com](https://quran.com/6/151)
+
+#### 6:152 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ ۖ وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `تَقْرَبُوا۟` — go near
+
+**English (Sahih International):** And do not approach the orphan's property except in a way that is best [i.e., intending improvement] until he reaches maturity. And give full measure and weight in justice. We do not charge any soul except [with that within] its capacity. And when you speak [i.e., testify], be just, even if [it concerns] a near relative. And the covenant of Allāh fulfill. This has He instructed you that you may remember.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ جانا مگر ایسے طریق سے کہ بہت ہی پسندیدہ ہو یہاں تک کہ وہ جوانی کو پہنچ جائے اور ناپ تول انصاف کے ساتھ پوری پوری کیا کرو ہم کسی کو تکلیف نہیں دیتے مگر اس کی طاقت کے مطابق اور جب (کسی کی نسبت) کوئی بات کہو تو انصاف سے کہو گو وہ (تمہارا) رشتہ دار ہی ہو اور خدا کے عہد کو پورا کرو ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم نصحیت کرو
+
+[Open on Quran.com](https://quran.com/6/152)
+
+#### 7:19 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَـٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `تَقْرَبَا` — approach [both of you]
+
+**English (Sahih International):** And "O Adam, dwell, you and your wife, in Paradise and eat from wherever you will but do not approach this tree, lest you be among the wrongdoers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے آدم (سے کہا کہ) تم اور تمہاری بیوی بہشت میں رہو سہو اور جہاں سے چاہو (اور جو چاہو) نوش جان کرو مگر اس درخت کے پاس نہ جاؤ ورنہ گنہگار ہو جاؤ گے
+
+[Open on Quran.com](https://quran.com/7/19)
+
+#### 9:28 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَـٰذَا ۚ وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ إِن شَآءَ ۚ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ
+
+</div>
+
+**Word in this verse:** `يَقْرَبُوا۟` — so let them not come near
+
+**English (Sahih International):** O you who have believed, indeed the polytheists are unclean, so let them not approach al-Masjid al-Ḥarām after this, their [final] year. And if you fear privation, Allāh will enrich you from His bounty if He wills. Indeed, Allāh is Knowing and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! مشرک تو پلید ہیں تو اس برس کے بعد وہ خانہٴ کعبہ کا پاس نہ جانے پائیں اور اگر تم کو مفلسی کا خوف ہو تو خدا چاہے گا تو تم کو اپنے فضل سے غنی کر دے گا۔ بےشک خدا سب کچھ جانتا (اور) حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/9/28)
+
+#### 12:60 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ
+
+</div>
+
+**Word in this verse:** `تَقْرَبُونِ` — you will come near me
+
+**English (Sahih International):** But if you do not bring him to me, no measure will there be [hereafter] for you from me, nor will you approach me."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم اسے میرے پاس نہ لاؤ گے تو نہ تمہیں میرے ہاں سے غلّہ ملے گا اور نہ تم میرے پاس ہی آسکو گے
+
+[Open on Quran.com](https://quran.com/12/60)
+
+#### 17:32 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَقْرَبُوا۟ ٱلزِّنَىٰٓ ۖ إِنَّهُۥ كَانَ فَـٰحِشَةً وَسَآءَ سَبِيلًا
+
+</div>
+
+**Word in this verse:** `تَقْرَبُوا۟` — go near
+
+**English (Sahih International):** And do not approach unlawful sexual intercourse. Indeed, it is ever an immorality and is evil as a way.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور زنا کے بھی پاس نہ جانا کہ وہ بےحیائی اور بری راہ ہے
+
+[Open on Quran.com](https://quran.com/17/32)
+
+_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

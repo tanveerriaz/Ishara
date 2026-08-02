@@ -1,0 +1,111 @@
+---
+type: word
+lemma: "مُصْلِح"
+slug: "mSlH - reformers"
+surah_count: 4
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# mSlH - reformers
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[SlH - slh]]
+
+### Meaning
+**reformers** · Lemma **مُصْلِح**
+
+### Surahs (4)
+- [[002 Al-Baqarah]]
+- [[007 Al-Araf]]
+- [[011 Hud]]
+- [[028 Al-Qasas]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:11 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ قَالُوٓا۟ إِنَّمَا نَحْنُ مُصْلِحُونَ
+
+</div>
+
+**Word in this verse:** `مُصْلِحُونَ` — (are) reformers
+
+**English (Sahih International):** And when it is said to them, "Do not cause corruption on the earth," they say, "We are but reformers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان سے کہا جاتا ہے کہ زمین میں فساد نہ ڈالو تو کہتے ہیں، ہم تو اصلاح کرنے والے ہیں
+
+[Open on Quran.com](https://quran.com/2/11)
+
+#### 2:220 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۗ وَيَسْـَٔلُونَكَ عَنِ ٱلْيَتَـٰمَىٰ ۖ قُلْ إِصْلَاحٌ لَّهُمْ خَيْرٌ ۖ وَإِن تُخَالِطُوهُمْ فَإِخْوَٰنُكُمْ ۚ وَٱللَّهُ يَعْلَمُ ٱلْمُفْسِدَ مِنَ ٱلْمُصْلِحِ ۚ وَلَوْ شَآءَ ٱللَّهُ لَأَعْنَتَكُمْ ۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلْمُصْلِحِ ۚ` — the amender
+
+**English (Sahih International):** To this world and the Hereafter. And they ask you about orphans. Say, "Improvement for them is best. And if you mix your affairs with theirs - they are your brothers. And Allāh knows the corrupter from the amender. And if Allāh had willed, He could have put you in difficulty. Indeed, Allāh is Exalted in Might and Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) دنیا اور آخرت (کی باتوں) میں (غور کرو)۔ اور تم سے یتیموں کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان کی (حالت کی) اصلاح بہت اچھا کام ہے۔ اور اگر تم ان سے مل جل کر رہنا (یعنی خرچ اکھٹا رکھنا) چاہو تو وہ تمہارے بھائی ہیں اور خدا خوب جانتا ہے کہ خرابی کرنے والا کون ہے اور اصلاح کرنے والا کون۔ اور اگر خدا چاہتا تو تم کو تکلیف میں ڈال دیتا۔بےشک خدا غالب (اور) حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/2/220)
+
+#### 7:170 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ يُمَسِّكُونَ بِٱلْكِتَـٰبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ إِنَّا لَا نُضِيعُ أَجْرَ ٱلْمُصْلِحِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْمُصْلِحِينَ` — (of) the reformers
+
+**English (Sahih International):** But those who hold fast to the Book [i.e., the Qur’ān] and establish prayer - indeed, We will not allow to be lost the reward of the reformers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ کتاب کو مضبوط پکڑے ہوئے ہیں اور نماز کا التزام رکھتے ہیں (ان کو ہم اجر دیں گے کہ) ہم نیکوکاروں کا اجر ضائع نہیں کرتے
+
+[Open on Quran.com](https://quran.com/7/170)
+
+#### 11:117 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا كَانَ رَبُّكَ لِيُهْلِكَ ٱلْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا مُصْلِحُونَ
+
+</div>
+
+**Word in this verse:** `مُصْلِحُونَ` — (were) reformers
+
+**English (Sahih International):** And your Lord would not have destroyed the cities unjustly while their people were reformers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا پروردگار ایسا نہیں ہے کہ بستیوں کو جب کہ وہاں کے باشندے نیکوکار ہوں ازراہِ ظلم تباہ کردے
+
+[Open on Quran.com](https://quran.com/11/117)
+
+#### 28:19 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّآ أَنْ أَرَادَ أَن يَبْطِشَ بِٱلَّذِى هُوَ عَدُوٌّ لَّهُمَا قَالَ يَـٰمُوسَىٰٓ أَتُرِيدُ أَن تَقْتُلَنِى كَمَا قَتَلْتَ نَفْسًۢا بِٱلْأَمْسِ ۖ إِن تُرِيدُ إِلَّآ أَن تَكُونَ جَبَّارًا فِى ٱلْأَرْضِ وَمَا تُرِيدُ أَن تَكُونَ مِنَ ٱلْمُصْلِحِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْمُصْلِحِينَ` — the reformers
+
+**English (Sahih International):** And when he wanted to strike the one who was an enemy to both of them, he said, "O Moses, do you intend to kill me as you killed someone yesterday? You only want to be a tyrant in the land and do not want to be of the amenders."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب موسٰی نے ارادہ کیا کہ اس شخص کو جو ان دونوں کا دشمن تھا پکڑ لیں تو وہ (یعنی موسٰی کی قوم کا آدمی) بول اُٹھا کہ جس طرح تم نے کل ایک شخص کو مار ڈالا تھا اسی طرح چاہتے ہو کہ مجھے بھی مار ڈالو۔ تم تو یہی چاہتے ہو کہ ملک میں ظلم وستم کرتے پھرو اور یہ نہیں چاہتے ہو کہ نیکو کاروں میں ہو
+
+[Open on Quran.com](https://quran.com/28/19)
+

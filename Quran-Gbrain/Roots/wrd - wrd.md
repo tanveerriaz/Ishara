@@ -1,0 +1,19 @@
+---
+type: root
+arabic_root: "ورد"
+slug: "wrd - wrd"
+tags: [root, meaning]
+---
+
+# wrd - wrd
+
+## Graph connections
+
+**Sense:** wrd · **Root:** ورد
+
+### Words (wikilinks — these create the graph)
+- [[wArd - water drawer]]
+- [[wrd - place]]
+
+### Surahs where this root appears
+`011, 012, 019, 021, 028, 050, 055` · open those surah notes from [[Surah Index]]

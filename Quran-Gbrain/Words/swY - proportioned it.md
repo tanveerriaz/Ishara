@@ -1,0 +1,201 @@
+---
+type: word
+lemma: "سَوَّى"
+slug: "swY - proportioned it"
+surah_count: 12
+ayah_count: 14
+tags: [word, meaning]
+---
+
+# swY - proportioned it
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[swy - swy]]
+
+### Meaning
+**proportioned it** · Lemma **سَوَّى**
+
+### Surahs (12)
+- [[002 Al-Baqarah]]
+- [[015 Al-Hijr]]
+- [[018 Al-Kahf]]
+- [[020 Taha]]
+- [[026 Ash-Shuara]]
+- [[032 As-Sajdah]]
+- [[038 Sad]]
+- [[075 Al-Qiyamah]]
+- [[079 An-Naziat]]
+- [[082 Al-Infitar]]
+- [[087 Al-Ala]]
+- [[091 Ash-Shams]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:29 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُوَ ٱلَّذِى خَلَقَ لَكُم مَّا فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبْعَ سَمَـٰوَٰتٍ ۚ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `فَسَوَّىٰهُنَّ` — and fashioned them
+
+**English (Sahih International):** It is He who created for you all of that which is on the earth. Then He directed Himself to the heaven, [His being above all creation], and made them seven heavens, and He is Knowing of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سب چیزیں جو زمین میں ہیں تمہارے لیے پیدا کیں پھر آسمان کی طرف متوجہ ہوا تو ان کو ٹھیک سات آسمان بنا دیا اور وہ ہر چیز سے خبردار ہے
+
+[Open on Quran.com](https://quran.com/2/29)
+
+#### 15:29 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَـٰجِدِينَ
+
+</div>
+
+**Word in this verse:** `سَوَّيْتُهُۥ` — I have fashioned him
+
+**English (Sahih International):** And when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب اس کو (صورت انسانیہ میں) درست کر لوں اور اس میں اپنی (بےبہا چیز یعنی) روح پھونک دوں تو اس کے آگے سجدے میں گر پڑنا
+
+[Open on Quran.com](https://quran.com/15/29)
+
+#### 18:37 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرْتَ بِٱلَّذِى خَلَقَكَ مِن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ سَوَّىٰكَ رَجُلًا
+
+</div>
+
+**Word in this verse:** `سَوَّىٰكَ` — fashioned you
+
+**English (Sahih International):** His companion said to him while he was conversing with him, "Have you disbelieved in He who created you from dust and then from a sperm-drop and then proportioned you [as] a man?
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اس کا دوست جو اس سے گفتگو کر رہا تھا کہنے لگا کہ کیا تم اس (خدا) سے کفر کرتے ہو جس نے تم کو مٹی سے پیدا کیا پھر نطفے سے پھر تمہیں پورا مرد بنایا
+
+[Open on Quran.com](https://quran.com/18/37)
+
+#### 20:58 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى
+
+</div>
+
+**Word in this verse:** `سُوًۭى` — even
+
+**English (Sahih International):** Then we will surely bring you magic like it, so make between us and you an appointment, which we will not fail to keep and neither will you, in a place assigned."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم بھی تمہارے مقابل ایسا ہی جادو لائیں گے تو ہمارے اور اپنے درمیان ایک وقت مقرر کر لو کہ نہ تو ہم اس کے خلاف کریں اور نہ تم (اور یہ مقابلہ) ایک ہموار میدان میں (ہوگا)
+
+[Open on Quran.com](https://quran.com/20/58)
+
+#### 26:98 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ نُسَوِّيكُم بِرَبِّ ٱلْعَـٰلَمِينَ
+
+</div>
+
+**Word in this verse:** `نُسَوِّيكُم` — we equated you
+
+**English (Sahih International):** When we equated you with the Lord of the worlds.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب کہ تمہیں (خدائے) رب العالمین کے برابر ٹھہراتے تھے
+
+[Open on Quran.com](https://quran.com/26/98)
+
+#### 32:9 · [[032 As-Sajdah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ
+
+</div>
+
+**Word in this verse:** `سَوَّىٰهُ` — He fashioned him
+
+**English (Sahih International):** Then He proportioned him and breathed into him from His [created] soul and made for you hearing and vision and hearts [i.e., intellect]; little are you grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اُس کو درست کیا پھر اس میں اپنی( طرف سے) روح پھونکی اور تمہارے کان اور آنکھیں اور دل بنائے مگر تم بہت کم شکر کرتے ہو
+
+[Open on Quran.com](https://quran.com/32/9)
+
+#### 38:72 · [[038 Sad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَـٰجِدِينَ
+
+</div>
+
+**Word in this verse:** `سَوَّيْتُهُۥ` — I have proportioned him
+
+**English (Sahih International):** So when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب اس کو درست کرلوں اور اس میں اپنی روح پھونک دوں تو اس کے آگے سجدے میں گر پڑنا
+
+[Open on Quran.com](https://quran.com/38/72)
+
+#### 75:4 · [[075 Al-Qiyamah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ
+
+</div>
+
+**Word in this verse:** `نُّسَوِّىَ` — We can restore
+
+**English (Sahih International):** Yes. [We are] Able [even] to proportion his fingertips.
+
+**Urdu (Fatah Muhammad Jalandhari):** ضرور کریں گے (اور) ہم اس بات پر قادر ہیں کہ اس کی پور پور درست کردیں
+
+[Open on Quran.com](https://quran.com/75/4)
+
+#### 75:38 · [[075 Al-Qiyamah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ
+
+</div>
+
+**Word in this verse:** `فَسَوَّىٰ` — and proportioned
+
+**English (Sahih International):** Then he was a clinging clot, and [Allāh] created [his form] and proportioned [him]
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر لوتھڑا ہوا پھر (خدا نے) اس کو بنایا پھر (اس کے اعضا کو) درست کیا
+
+[Open on Quran.com](https://quran.com/75/38)
+
+#### 79:28 · [[079 An-Naziat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رَفَعَ سَمْكَهَا فَسَوَّىٰهَا
+
+</div>
+
+**Word in this verse:** `فَسَوَّىٰهَا` — and proportioned it
+
+**English (Sahih International):** He raised its ceiling and proportioned it.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کی چھت کو اونچا کیا اور پھر اسے برابر کر دیا
+
+[Open on Quran.com](https://quran.com/79/28)
+
+_…and **4** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

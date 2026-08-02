@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "كِتاب"
+slug: "ktAb - book"
+surah_count: 58
+ayah_count: 236
+tags: [word, meaning]
+---
+
+# ktAb - book
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[ktb - book]]
+
+### Meaning
+**book** · Lemma **كِتاب**
+
+### Surahs (58)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[009 At-Tawbah]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[012 Yusuf]]
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[015 Al-Hijr]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[019 Maryam]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[022 Al-Hajj]]
+- [[023 Al-Muminun]]
+- [[024 An-Nur]]
+- [[025 Al-Furqan]]
+- [[026 Ash-Shuara]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:2 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْكِتَـٰبُ` — (is) the book
+
+**English (Sahih International):** This is the Book about which there is no doubt, a guidance for those conscious of Allāh -
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ کتاب (قرآن مجید) اس میں کچھ شک نہیں (کہ کلامِ خدا ہے۔ خدا سے) ڈرنے والوں کی رہنما ہے
+
+[Open on Quran.com](https://quran.com/2/2)
+
+#### 2:44 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ أَتَأْمُرُونَ ٱلنَّاسَ بِٱلْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ ٱلْكِتَـٰبَ ۚ أَفَلَا تَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْكِتَـٰبَ ۚ` — the Book
+
+**English (Sahih International):** Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason?
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ) کیا (عقل کی بات ہے کہ) تم لوگوں کو نیکی کرنے کو کہتے ہو اور اپنے تئیں فراموش کئے دیتے ہو، حالانکہ تم کتاب (خدا) بھی پڑھتے ہو۔ کیا تم سمجھتے نہیں؟
+
+[Open on Quran.com](https://quran.com/2/44)
+
+#### 2:53 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَٱلْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْكِتَـٰبَ` — the Book
+
+**English (Sahih International):** And [recall] when We gave Moses the Scripture and criterion that perhaps you would be guided.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے موسیٰ کو کتاب اور معجزے عنایت کئے، تاکہ تم ہدایت حاصل کرو
+
+[Open on Quran.com](https://quran.com/2/53)
+
+#### 2:78 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَـٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ
+
+</div>
+
+**Word in this verse:** `ٱلْكِتَـٰبَ` — the book
+
+**English (Sahih International):** And among them are unlettered ones who do not know the Scripture except [indulgement in] wishful thinking, but they are only assuming.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض ان میں ان پڑھ ہیں کہ اپنے باطل خیالات کے سوا (خدا کی) کتاب سے واقف ہی نہیں اور وہ صرف ظن سے کام لیتے ہیں
+
+[Open on Quran.com](https://quran.com/2/78)
+
+#### 2:79 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَـٰبَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَـٰذَا مِنْ عِندِ ٱللَّهِ لِيَشْتَرُوا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَوَيْلٌ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَّهُم مِّمَّا يَكْسِبُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْكِتَـٰبَ` — the book
+
+**English (Sahih International):** So woe to those who write the "scripture" with their own hands, then say, "This is from Allāh," in order to exchange it for a small price. Woe to them for what their hands have written and woe to them for what they earn.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں پر افسوس ہے جو اپنے ہاتھ سے تو کتاب لکھتے ہیں اور کہتے یہ ہیں کہ یہ خدا کے پاس سے (آئی) ہے، تاکہ اس کے عوض تھوڑی سے قیمت (یعنی دنیوی منفعت) حاصل کریں۔ ان پر افسوس ہے، اس لیے کہ (بےاصل باتیں) اپنے ہاتھ سے لکھتے ہیں اور (پھر) ان پر افسوس ہے، اس لیے کہ ایسے کام کرتے ہیں
+
+[Open on Quran.com](https://quran.com/2/79)
+
+#### 2:85 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ أَنتُمْ هَـٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَـٰرِهِمْ تَظَـٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَـٰرَىٰ تُفَـٰدُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَـٰبِ وَتَكْفُرُونَ بِبَعْضٍ ۚ فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْكِتَـٰبِ` — the Book
+
+**English (Sahih International):** Then, you are those [same ones who are] killing one another and evicting a party of your people from their homes, cooperating against them in sin and aggression. And if they come to you as captives, you ransom them, although their eviction was forbidden to you. So do you believe in part of the Scripture and disbelieve in part? Then what is the recompense for those who do that among you except disgrace in worldly life; and on the Day of Resurrection they will be sent back to the severest of punishment. And Allāh is not unaware of what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر تم وہی ہو کہ اپنوں کو قتل بھی کر دیتے ہو اور اپنے میں سے بعض لوگوں پر گناہ اور ظلم سے چڑھائی کرکے انہیں وطن سے نکال بھی دیتے ہو، اور اگر وہ تمہارے پاس قید ہو کر آئیں تو بدلہ دے کر ان کو چھڑا بھی لیتے ہو، حالانکہ ان کا نکال دینا ہی تم کو حرام تھا۔ (یہ) کیا (بات ہے کہ) تم کتابِ (خدا) کے بعض احکام کو تو مانتے ہو اور بعض سے انکار کئے دیتے ہو، تو جو تم میں سے ایسی حرکت کریں، ان کی سزا اس کے سوا اور کیا ہو سکتی ہے کہ دنیا کی زندگی میں تو رسوائی ہو اور قیامت کے دن سخت سے سخت عذاب میں ڈال دیئے جائیں اور جو کام تم کرتے ہو، خدا ان سے غافل نہیں
+
+[Open on Quran.com](https://quran.com/2/85)
+
+#### 2:87 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَـٰبَ وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ ۖ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَـٰتِ وَأَيَّدْنَـٰهُ بِرُوحِ ٱلْقُدُسِ ۗ أَفَكُلَّمَا جَآءَكُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُكُمُ ٱسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْكِتَـٰبَ` — the Book
+
+**English (Sahih International):** And We did certainly give Moses the Scripture [i.e., the Torah] and followed up after him with messengers. And We gave Jesus, the son of Mary, clear proofs and supported him with the Pure Spirit [i.e., the angel Gabriel]. But is it [not] that every time a messenger came to you, [O Children of Israel], with what your souls did not desire, you were arrogant? And a party [of messengers] you denied and another party you killed.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو کتاب عنایت کی اور ان کے پیچھے یکے بعد دیگرے پیغمبر بھیجتے رہے اور عیسیٰ بن مریم کو کھلے نشانات بخشے اور روح القدس (یعنی جبرئیل) سے ان کو مدد دی۔تو جب کوئی پیغمبر تمہارے پاس ایسی باتیں لے کر آئے، جن کو تمہارا جی نہیں چاہتا تھا، تو تم سرکش ہو جاتے رہے، اور ایک گروہ (انبیاء) کو تو جھٹلاتے رہے اور ایک گروہ کو قتل کرتے رہے
+
+[Open on Quran.com](https://quran.com/2/87)
+
+#### 2:89 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَمَّا جَآءَهُمْ كِتَـٰبٌ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ وَكَانُوا۟ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى ٱلَّذِينَ كَفَرُوا۟ فَلَمَّا جَآءَهُم مَّا عَرَفُوا۟ كَفَرُوا۟ بِهِۦ ۚ فَلَعْنَةُ ٱللَّهِ عَلَى ٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `كِتَـٰبٌۭ` — a Book
+
+**English (Sahih International):** And when there came to them a Book [i.e., the Qur’ān] from Allāh confirming that which was with them - although before they used to pray for victory against those who disbelieved - but [then] when there came to them that which they recognized, they disbelieved in it; so the curse of Allāh will be upon the disbelievers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب الله کے ہاں سے ان کے پاس کتاب آئی جو ان کی (آسمانی) کتاب کی بھی تصدیق کرتی ہے، اور وہ پہلے (ہمیشہ) کافروں پر فتح مانگا کرتے تھے، تو جس چیز کو وہ خوب پہچانتے تھے، جب ان کے پاس آپہنچی تو اس سے کافر ہو گئے۔ پس کافروں پر الله کی لعنت
+
+[Open on Quran.com](https://quran.com/2/89)
+
+#### 2:101 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَمَّا جَآءَهُمْ رَسُولٌ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ نَبَذَ فَرِيقٌ مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ كِتَـٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمْ كَأَنَّهُمْ لَا يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْكِتَـٰبَ` — the Book
+
+**English (Sahih International):** And when a messenger from Allāh came to them confirming that which was with them, a party of those who had been given the Scripture threw the Scripture of Allāh [i.e., the Torah] behind their backs as if they did not know [what it contained].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کے پاس الله کی طرف سے پیغمبر (آخرالزماں) آئے، اور وہ ان کی (آسمانی) کتاب کی بھی تصدیق کرتے ہیں تو جن لوگوں کو کتاب دی گئی تھی، ان میں سے ایک جماعت نے خدا کی کتاب کو پیٹھ پیچھے پھینک دیا، گویا وہ جانتے ہی نہیں
+
+[Open on Quran.com](https://quran.com/2/101)
+
+#### 2:105 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَّا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَلَا ٱلْمُشْرِكِينَ أَن يُنَزَّلَ عَلَيْكُم مِّنْ خَيْرٍ مِّن رَّبِّكُمْ ۗ وَٱللَّهُ يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+
+</div>
+
+**Word in this verse:** `ٱلْكِتَـٰبِ` — (of) the Book
+
+**English (Sahih International):** Neither those who disbelieve from the People of the Scripture [i.e., the Jews and Christians] nor the polytheists wish that any good should be sent down to you from your Lord. But Allāh selects for His mercy whom He wills, and Allāh is the possessor of great bounty.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں، اہل کتاب یا مشرک وہ اس بات کو پسند نہیں کرتے کہ تم پر تمہارے پروردگار کی طرف سے خیر (وبرکت) نازل ہو۔ اور خدا تو جس کو چاہتا ہے، اپنی رحمت کے ساتھ خاص کر لیتا ہے اور خدا بڑے فضل کا مالک ہے
+
+[Open on Quran.com](https://quran.com/2/105)
+
+_…and **226** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

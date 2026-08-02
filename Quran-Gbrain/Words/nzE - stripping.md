@@ -1,0 +1,195 @@
+---
+type: word
+lemma: "نَزَعَ"
+slug: "nzE - stripping"
+surah_count: 8
+ayah_count: 10
+tags: [word, meaning]
+---
+
+# nzE - stripping
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[nzE - pull out]]
+
+### Meaning
+**stripping** · Lemma **نَزَعَ**
+
+### Surahs (8)
+- [[003 Ali Imran]]
+- [[007 Al-Araf]]
+- [[011 Hud]]
+- [[015 Al-Hijr]]
+- [[019 Maryam]]
+- [[026 Ash-Shuara]]
+- [[028 Al-Qasas]]
+- [[054 Al-Qamar]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:26 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلِ ٱللَّهُمَّ مَـٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ ۖ بِيَدِكَ ٱلْخَيْرُ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+
+</div>
+
+**Word in this verse:** `وَتَنزِعُ` — and You take away
+
+**English (Sahih International):** Say, "O Allāh, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اے خدا (اے) بادشاہی کے مالک تو جس کو چاہے بادشاہی بخشے اور جس سے چاہے بادشاہی چھین لے اور جس کو چاہے عزت دے اور جسے چاہے ذلیل کرے ہر طرح کی بھلائی تیرے ہی ہاتھ ہے اور بے شک تو ہر چیز پر قادر ہے
+
+[Open on Quran.com](https://quran.com/3/26)
+
+#### 7:27 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰبَنِىٓ ءَادَمَ لَا يَفْتِنَنَّكُمُ ٱلشَّيْطَـٰنُ كَمَآ أَخْرَجَ أَبَوَيْكُم مِّنَ ٱلْجَنَّةِ يَنزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْءَٰتِهِمَآ ۗ إِنَّهُۥ يَرَىٰكُمْ هُوَ وَقَبِيلُهُۥ مِنْ حَيْثُ لَا تَرَوْنَهُمْ ۗ إِنَّا جَعَلْنَا ٱلشَّيَـٰطِينَ أَوْلِيَآءَ لِلَّذِينَ لَا يُؤْمِنُونَ
+
+</div>
+
+**Word in this verse:** `يَنزِعُ` — stripping
+
+**English (Sahih International):** O children of Adam, let not Satan tempt you as he removed your parents from Paradise, stripping them of their clothing to show them their private parts. Indeed, he sees you, he and his tribe, from where you do not see them. Indeed, We have made the devils allies to those who do not believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی آدم (دیکھنا کہیں) شیطان تمہیں بہکا نہ دے جس طرح تمہارے ماں باپ کو (بہکا کر) بہشت سے نکلوا دیا اور ان سے ان کے کپڑے اتروا دیئے تاکہ ان کے ستر ان کو کھول کر دکھا دے۔ وہ اور اس کے بھائی تم کو ایسی جگہ سے دیکھتے رہے ہیں جہاں سے تم ان کو نہیں دیکھ سکتے ہم نے شیطانوں کو انہیں لوگوں کا رفیق کار بنایا ہے جو ایمان نہیں رکھتے
+
+[Open on Quran.com](https://quran.com/7/27)
+
+#### 7:43 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَـٰرُ ۖ وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى هَدَىٰنَا لِهَـٰذَا وَمَا كُنَّا لِنَهْتَدِىَ لَوْلَآ أَنْ هَدَىٰنَا ٱللَّهُ ۖ لَقَدْ جَآءَتْ رُسُلُ رَبِّنَا بِٱلْحَقِّ ۖ وَنُودُوٓا۟ أَن تِلْكُمُ ٱلْجَنَّةُ أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `وَنَزَعْنَا` — And We will remove
+
+**English (Sahih International):** And We will have removed whatever is within their breasts of resentment, [while] flowing beneath them are rivers. And they will say, "Praise to Allāh, who has guided us to this; and we would never have been guided if Allāh had not guided us. Certainly the messengers of our Lord had come with the truth." And they will be called, "This is Paradise, which you have been made to inherit for what you used to do."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کینے ان کے دلوں میں ہوں گے ہم سب نکال ڈالیں گے۔ ان کے محلوں کے نیچے نہریں بہہ رہی ہوں گی اور کہیں گے کہ خدا کا شکر ہے جس نے ہم کو یہاں کا راستہ دکھایا اور اگر خدا ہم کو رستہ نہ دکھاتا تو ہم رستہ نہ پا سکتے۔ بےشک ہمارا پروردگار کے رسول حق بات لے کر آئے تھے اور (اس روز) منادی کر دی جائے گی کہ تم ان اعمال کے صلے میں جو دنیا میں کرتے تھے اس بہشت کے وارث بنا دیئے گئے ہو
+
+[Open on Quran.com](https://quran.com/7/43)
+
+#### 7:108 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ
+
+</div>
+
+**Word in this verse:** `وَنَزَعَ` — And he drew out
+
+**English (Sahih International):** And he drew out his hand; thereupon it was white [with radiance] for the observers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ باہر نکالا تو اسی دم دیکھنے والوں کی نگاہوں میں سفید براق (تھا)
+
+[Open on Quran.com](https://quran.com/7/108)
+
+#### 11:9 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَئِنْ أَذَقْنَا ٱلْإِنسَـٰنَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَـٰهَا مِنْهُ إِنَّهُۥ لَيَـُٔوسٌ كَفُورٌ
+
+</div>
+
+**Word in this verse:** `نَزَعْنَـٰهَا` — We withdraw it
+
+**English (Sahih International):** And if We give man a taste of mercy from Us and then We withdraw it from him, indeed, he is despairing and ungrateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم انسان کو اپنے پاس سے نعمت بخشیں پھر اس سے اس کو چھین لیں تو ناامید (اور) ناشکرا (ہوجاتا) ہے
+
+[Open on Quran.com](https://quran.com/11/9)
+
+#### 15:47 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ إِخْوَٰنًا عَلَىٰ سُرُرٍ مُّتَقَـٰبِلِينَ
+
+</div>
+
+**Word in this verse:** `وَنَزَعْنَا` — And We (will) remove
+
+**English (Sahih International):** And We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں میں جو کدورت ہوگی ان کو ہم نکال کر (صاف کر) دیں گے (گویا) بھائی بھائی تختوں پر ایک دوسرے کے سامنے بیٹھے ہوئے ہیں
+
+[Open on Quran.com](https://quran.com/15/47)
+
+#### 19:69 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ لَنَنزِعَنَّ مِن كُلِّ شِيعَةٍ أَيُّهُمْ أَشَدُّ عَلَى ٱلرَّحْمَـٰنِ عِتِيًّا
+
+</div>
+
+**Word in this verse:** `لَنَنزِعَنَّ` — surely, We will drag out
+
+**English (Sahih International):** Then We will surely extract from every sect those of them who were worst against the Most Merciful in insolence.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہر جماعت میں سے ہم ایسے لوگوں کو کھینچ نکالیں گے جو خدا سے سخت سرکشی کرتے تھے
+
+[Open on Quran.com](https://quran.com/19/69)
+
+#### 26:33 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ
+
+</div>
+
+**Word in this verse:** `وَنَزَعَ` — And he drew out
+
+**English (Sahih International):** And he drew out his hand; thereupon it was white for the observers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ نکالا تو اسی دم دیکھنے والوں کے لئے سفید (براق نظر آنے لگا)
+
+[Open on Quran.com](https://quran.com/26/33)
+
+#### 28:75 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَنَزَعْنَا مِن كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا۟ بُرْهَـٰنَكُمْ فَعَلِمُوٓا۟ أَنَّ ٱلْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
+
+</div>
+
+**Word in this verse:** `وَنَزَعْنَا` — And We will draw forth
+
+**English (Sahih International):** And We will extract from every nation a witness and say, "Produce your proof," and they will know that the truth belongs to Allāh, and lost from them is that which they used to invent.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہر ایک اُمت میں سے گواہ نکال لیں گے پھر کہیں گے کہ اپنی دلیل پیش کرو تو وہ جان لیں گے کہ سچ بات خدا کی ہے اور جو کچھ وہ افتراء کیا کرتے تھے ان سے جاتا رہے گا
+
+[Open on Quran.com](https://quran.com/28/75)
+
+#### 54:20 · [[054 Al-Qamar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ
+
+</div>
+
+**Word in this verse:** `تَنزِعُ` — Plucking out
+
+**English (Sahih International):** Extracting the people as if they were trunks of palm trees uprooted.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ لوگوں کو (اس طرح) اکھیڑے ڈالتی تھی گویا اکھڑی ہوئی کھجوروں کے تنے ہیں
+
+[Open on Quran.com](https://quran.com/54/20)
+

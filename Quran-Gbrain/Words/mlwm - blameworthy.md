@@ -1,0 +1,111 @@
+---
+type: word
+lemma: "مَلُوم"
+slug: "mlwm - blameworthy"
+surah_count: 4
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# mlwm - blameworthy
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[lwm - lwm]]
+
+### Meaning
+**blameworthy** · Lemma **مَلُوم**
+
+### Surahs (4)
+- [[017 Al-Isra]]
+- [[023 Al-Muminun]]
+- [[051 Adh-Dhariyat]]
+- [[070 Al-Maarij]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 17:29 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَىٰ عُنُقِكَ وَلَا تَبْسُطْهَا كُلَّ ٱلْبَسْطِ فَتَقْعُدَ مَلُومًا مَّحْسُورًا
+
+</div>
+
+**Word in this verse:** `مَلُومًۭا` — blameworthy
+
+**English (Sahih International):** And do not make your hand [as] chained to your neck or extend it completely and [thereby] become blamed and insolvent.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے ہاتھ کو نہ تو گردن سے بندھا ہوا (یعنی بہت تنگ) کرلو (کہ کسی کچھ دو ہی نہیں) اور نہ بالکل کھول ہی دو (کہ سبھی دے ڈالو اور انجام یہ ہو) کہ ملامت زدہ اور درماندہ ہو کر بیٹھ جاؤ
+
+[Open on Quran.com](https://quran.com/17/29)
+
+#### 17:39 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ذَٰلِكَ مِمَّآ أَوْحَىٰٓ إِلَيْكَ رَبُّكَ مِنَ ٱلْحِكْمَةِ ۗ وَلَا تَجْعَلْ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَتُلْقَىٰ فِى جَهَنَّمَ مَلُومًا مَّدْحُورًا
+
+</div>
+
+**Word in this verse:** `مَلُومًۭا` — blameworthy
+
+**English (Sahih International):** That is from what your Lord has revealed to you, [O Muḥammad], of wisdom. And, [O mankind], do not make [as equal] with Allāh another deity, lest you be thrown into Hell, blamed and banished.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر یہ ان (ہدایتوں) میں سے ہیں جو خدا نے دانائی کی باتیں تمہاری طرف وحی کی ہیں۔ اور خدا کے ساتھ کوئی معبود نہ بنانا کہ (ایسا کرنے سے) ملامت زدہ اور (درگاہ خدا سے) راندہ بنا کر جہنم میں ڈال دیئے جاؤ گے
+
+[Open on Quran.com](https://quran.com/17/39)
+
+#### 23:6 · [[023 Al-Muminun]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ
+
+</div>
+
+**Word in this verse:** `مَلُومِينَ` — blameworthy
+
+**English (Sahih International):** Except from their wives or those their right hands possess, for indeed, they will not be blamed -
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر اپنی بیویوں سے یا (کنیزوں سے) جو ان کی مِلک ہوتی ہیں کہ (ان سے) مباشرت کرنے سے انہیں ملامت نہیں
+
+[Open on Quran.com](https://quran.com/23/6)
+
+#### 51:54 · [[051 Adh-Dhariyat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَتَوَلَّ عَنْهُمْ فَمَآ أَنتَ بِمَلُومٍ
+
+</div>
+
+**Word in this verse:** `بِمَلُومٍۢ` — (are) to be blamed
+
+**English (Sahih International):** So leave them, [O Muḥammad], for you are not to be blamed.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان سے اعراض کرو۔ تم کو (ہماری) طرف سے ملامت نہ ہوگی
+
+[Open on Quran.com](https://quran.com/51/54)
+
+#### 70:30 · [[070 Al-Maarij]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ
+
+</div>
+
+**Word in this verse:** `مَلُومِينَ` — blameworthy
+
+**English (Sahih International):** Except from their wives or those their right hands possess, for indeed, they are not to be blamed -
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر اپنی بیویوں یا لونڈیوں سے کہ (ان کے پاس جانے پر) انہیں کچھ ملامت نہیں
+
+[Open on Quran.com](https://quran.com/70/30)
+

@@ -1,0 +1,144 @@
+---
+type: word
+lemma: "يَسْتَبْشِرُ"
+slug: "ystb$r - rejoice"
+surah_count: 5
+ayah_count: 7
+tags: [word, meaning]
+---
+
+# ystb$r - rejoice
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[b$r - strip pare something]]
+
+### Meaning
+**rejoice** · Lemma **يَسْتَبْشِرُ**
+
+### Surahs (5)
+- [[003 Ali Imran]]
+- [[009 At-Tawbah]]
+- [[015 Al-Hijr]]
+- [[030 Ar-Rum]]
+- [[039 Az-Zumar]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:170 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَيَسْتَبْشِرُونَ بِٱلَّذِينَ لَمْ يَلْحَقُوا۟ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+
+</div>
+
+**Word in this verse:** `وَيَسْتَبْشِرُونَ` — and they receive good tidings
+
+**English (Sahih International):** Rejoicing in what Allāh has bestowed upon them of His bounty, and they receive good tidings about those [to be martyred] after them who have not yet joined them - that there will be no fear concerning them, nor will they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو کچھ خدا نے ان کو اپنے فضل سے بخش رکھا ہے اس میں خوش ہیں۔ اور جو لوگ ان کے پیچھے رہ گئے اور( شہید ہوکر) ان میں شامل نہیں ہوسکے ان کی نسبت خوشیاں منا رہے ہیں کہ (قیامت کے دن) ان کو بھی نہ کچھ خوف ہوگا اور نہ وہ غمناک ہوں گے
+
+[Open on Quran.com](https://quran.com/3/170)
+
+#### 3:171 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ يَسْتَبْشِرُونَ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ وَأَنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `۞ يَسْتَبْشِرُونَ` — They receive good tidings
+
+**English (Sahih International):** They receive good tidings of favor from Allāh and bounty and [of the fact] that Allāh does not allow the reward of believers to be lost -
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا کے انعامات اور فضل سے خوش ہورہے ہیں۔ اور اس سے کہ خدا مومنوں کا اجر ضائع نہیں کرتا
+
+[Open on Quran.com](https://quran.com/3/171)
+
+#### 9:111 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ ۚ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ ۚ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ ٱلَّذِى بَايَعْتُم بِهِۦ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+
+</div>
+
+**Word in this verse:** `فَٱسْتَبْشِرُوا۟` — So rejoice
+
+**English (Sahih International):** Indeed, Allāh has purchased from the believers their lives and their properties [in exchange] for that they will have Paradise. They fight in the cause of Allāh, so they kill and are killed. [It is] a true promise [binding] upon Him in the Torah and the Gospel and the Qur’ān. And who is truer to his covenant than Allāh? So rejoice in your transaction which you have contracted. And it is that which is the great attainment.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے مومنوں سے ان کی جانیں اور ان کے مال خرید لیے ہیں (اور اس کے) عوض ان کے لیے بہشت (تیار کی) ہے۔ یہ لوگ خدا کی راہ میں لڑتے ہیں تو مارتے بھی ہیں اور مارے بھی جاتے ہیں بھی ہیں۔ یہ تورات اور انجیل اور قرآن میں سچا وعدہ ہے۔ جس کا پورا کرنا اسے ضرور ہے اور خدا سے زیادہ وعدہ پورا کرنے والا کون ہے تو جو سودا تم نے اس سے کیا ہے اس سے خوش رہو۔ اور یہی بڑی کامیابی ہے
+
+[Open on Quran.com](https://quran.com/9/111)
+
+#### 9:124 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا مَآ أُنزِلَتْ سُورَةٌ فَمِنْهُم مَّن يَقُولُ أَيُّكُمْ زَادَتْهُ هَـٰذِهِۦٓ إِيمَـٰنًا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَزَادَتْهُمْ إِيمَـٰنًا وَهُمْ يَسْتَبْشِرُونَ
+
+</div>
+
+**Word in this verse:** `يَسْتَبْشِرُونَ` — rejoice
+
+**English (Sahih International):** And whenever a sūrah is revealed, there are among them [i.e., the hypocrites] those who say, "Which of you has this increased in faith?" As for those who believed, it has increased them in faith, while they are rejoicing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب کوئی سورت نازل ہوتی ہے تو بعض منافق (استہزاء کرتے اور) پوچھتے کہ اس سورت نے تم میں سے کس کا ایمان زیادہ کیا ہے۔ سو جو ایمان والے ہیں ان کا ایمان تو زیادہ کیا اور وہ خوش ہوتے ہیں
+
+[Open on Quran.com](https://quran.com/9/124)
+
+#### 15:67 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَآءَ أَهْلُ ٱلْمَدِينَةِ يَسْتَبْشِرُونَ
+
+</div>
+
+**Word in this verse:** `يَسْتَبْشِرُونَ` — rejoicing
+
+**English (Sahih International):** And the people of the city came rejoicing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اہل شہر (لوط کے پاس) خوش خوش (دوڑے) آئے
+
+[Open on Quran.com](https://quran.com/15/67)
+
+#### 30:48 · [[030 Ar-Rum]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
+
+</div>
+
+**Word in this verse:** `يَسْتَبْشِرُونَ` — rejoice
+
+**English (Sahih International):** It is Allāh who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جو ہواؤں کو چلاتا ہے تو وہ بادل کو اُبھارتی ہیں۔ پھر خدا اس کو جس طرح چاہتا ہے آسمان میں پھیلا دیتا اور تہ بتہ کر دیتا ہے پھر تم دیکھتے ہو کہ اس کے بیچ میں سے مینھہ نکلنے لگتا ہے پھر جب وہ اپنے بندوں میں سے جن پر چاہتا ہے اُسے برسا دیتا ہے تو وہ خوش ہو جاتے ہیں
+
+[Open on Quran.com](https://quran.com/30/48)
+
+#### 39:45 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا ذُكِرَ ٱللَّهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ ۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
+
+</div>
+
+**Word in this verse:** `يَسْتَبْشِرُونَ` — rejoice
+
+**English (Sahih International):** And when Allāh is mentioned alone, the hearts of those who do not believe in the Hereafter shrink with aversion, but when those [worshipped] other than Him are mentioned, immediately they rejoice.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تنہا خدا کا ذکر کیا جاتا ہے تو جو لوگ آخرت پر ایمان نہیں رکھتے ان کے دل منقبض ہوجاتے ہیں۔ اور جب اس کے سوا اوروں کا ذکر کیا جاتا ہے تو خوش ہوجاتے ہیں
+
+[Open on Quran.com](https://quran.com/39/45)
+

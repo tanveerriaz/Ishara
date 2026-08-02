@@ -1,0 +1,145 @@
+---
+type: word
+lemma: "بَخِلَ"
+slug: "bxl - withhold"
+surah_count: 6
+ayah_count: 7
+tags: [word, meaning]
+---
+
+# bxl - withhold
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[bxl - bkhl]]
+
+### Meaning
+**withhold** · Lemma **بَخِلَ**
+
+### Surahs (6)
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[009 At-Tawbah]]
+- [[047 Muhammad]]
+- [[057 Al-Hadid]]
+- [[092 Al-Layl]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:180 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًا لَّهُم ۖ بَلْ هُوَ شَرٌّ لَّهُمْ ۖ سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+
+</div>
+
+**Word in this verse:** `يَبْخَلُونَ` — withhold
+
+**English (Sahih International):** And let not those who [greedily] withhold what Allāh has given them of His bounty ever think that it is better for them. Rather, it is worse for them. Their necks will be encircled by what they withheld on the Day of Resurrection. And to Allāh belongs the heritage of the heavens and the earth. And Allāh, of what you do, is [fully] Aware.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ مال میں جو خدا نے اپنے فضل سے ان کو عطا فرمایا ہے بخل کرتے ہیں وہ اس بخل کو اپنے حق میں اچھا نہ سمجھیں۔ (وہ اچھا نہیں) بلکہ ان کے لئے برا ہے وہ جس مال میں بخل کرتے ہیں قیامت کے دن اس کا طوق بنا کر ان کی گردنوں میں ڈالا جائے گا۔ اور آسمانوں اور زمین کا وارث خدا ہی ہے۔ اور جو عمل تم کرتے ہوخدا کو معلوم ہے
+
+[Open on Quran.com](https://quran.com/3/180)
+
+#### 4:37 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ وَيَكْتُمُونَ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَأَعْتَدْنَا لِلْكَـٰفِرِينَ عَذَابًا مُّهِينًا
+
+</div>
+
+**Word in this verse:** `يَبْخَلُونَ` — are stingy
+
+**English (Sahih International):** Who are stingy and enjoin upon [other] people stinginess and conceal what Allāh has given them of His bounty - and We have prepared for the disbelievers a humiliating punishment -
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خود بھی بخل کریں اور لوگوں کو بھی بخل سکھائیں اور جو (مال) خدا نے ان کو اپنے فضل سے عطا فرمایا ہے اسے چھپا چھپا کے رکھیں اور ہم نے ناشکروں کے لئے ذلت کا عذاب تیار کر رکھا ہے
+
+[Open on Quran.com](https://quran.com/4/37)
+
+#### 9:76 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ
+
+</div>
+
+**Word in this verse:** `بَخِلُوا۟` — they became stingy
+
+**English (Sahih International):** But when He gave them from His bounty, they were stingy with it and turned away while they refused.
+
+**Urdu (Fatah Muhammad Jalandhari):** لیکن جب خدا نے ان کو اپنے فضل سے (مال) دیا تو اس میں بخل کرنے لگے اور (اپنے عہد سے) روگردانی کرکے پھر بیٹھے
+
+[Open on Quran.com](https://quran.com/9/76)
+
+#### 47:37 · [[047 Muhammad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن يَسْـَٔلْكُمُوهَا فَيُحْفِكُمْ تَبْخَلُوا۟ وَيُخْرِجْ أَضْغَـٰنَكُمْ
+
+</div>
+
+**Word in this verse:** `تَبْخَلُوا۟` — you will withhold
+
+**English (Sahih International):** If He should ask you for them and press you, you would withhold, and He would expose your hatred [i.e., unwillingness].
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر وہ تم سے مال طلب کرے اور تمہیں تنگ کرے تو تم بخل کرنے لگو اور وہ (بخل) تمہاری بدنیتی ظاہر کرکے رہے
+
+[Open on Quran.com](https://quran.com/47/37)
+
+#### 47:38 · [[047 Muhammad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ ۖ وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ ۚ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ ۚ وَإِن تَتَوَلَّوْا۟ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَـٰلَكُم
+
+</div>
+
+**Word in this verse:** `يَبْخَلُ ۖ` — withhold
+
+**English (Sahih International):** Here you are - those invited to spend in the cause of Allāh - but among you are those who withhold [out of greed]. And whoever withholds only withholds [benefit] from himself; and Allāh is the Free of need, while you are the needy. And if you turn away [i.e., refuse], He will replace you with another people; then they will not be the likes of you.
+
+**Urdu (Fatah Muhammad Jalandhari):** دیکھو تم وہ لوگ ہو کہ خدا کی راہ میں خرچ کرنے کے لئے بلائے جاتے ہو۔ تو تم میں ایسے شخص بھی ہیں جو بخل کرنے لگتے ہیں۔ اور جو بخل کرتا ہے اپنے آپ سے بخل کرتا ہے۔ اور خدا بےنیاز ہے اور تم محتاج۔ اور اگر تم منہ پھیرو گے تو وہ تمہاری جگہ اور لوگوں کو لے آئے گا اور وہ تمہاری طرح کے نہیں ہوں گے
+
+[Open on Quran.com](https://quran.com/47/38)
+
+#### 57:24 · [[057 Al-Hadid]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ ٱلنَّاسَ بِٱلْبُخْلِ ۗ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ
+
+</div>
+
+**Word in this verse:** `يَبْخَلُونَ` — are stingy
+
+**English (Sahih International):** [Those] who are stingy and enjoin upon people stinginess. And whoever turns away - then indeed, Allāh is the Free of need, the Praiseworthy.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خود بھی بخل کریں اور لوگوں کو بھی بخل سکھائیں اور جو شخص روگردانی کرے تو خدا بھی بےپروا (اور) وہی سزاوار حمد (وثنا) ہے
+
+[Open on Quran.com](https://quran.com/57/24)
+
+#### 92:8 · [[092 Al-Layl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ
+
+</div>
+
+**Word in this verse:** `بَخِلَ` — withholds
+
+**English (Sahih International):** But as for he who withholds and considers himself free of need
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس نے بخل کیا اور بےپروا بنا رہا
+
+[Open on Quran.com](https://quran.com/92/8)
+

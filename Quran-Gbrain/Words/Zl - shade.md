@@ -1,0 +1,205 @@
+---
+type: word
+lemma: "ظِلّ"
+slug: "Zl - shade"
+surah_count: 16
+ayah_count: 23
+tags: [word, meaning]
+---
+
+# Zl - shade
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Zll - shade cover]]
+
+### Meaning
+**shade** · Lemma **ظِلّ**
+
+### Surahs (16)
+- [[004 An-Nisa]]
+- [[013 Ar-Rad]]
+- [[015 Al-Hijr]]
+- [[016 An-Nahl]]
+- [[020 Taha]]
+- [[025 Al-Furqan]]
+- [[026 Ash-Shuara]]
+- [[028 Al-Qasas]]
+- [[030 Ar-Rum]]
+- [[035 Fatir]]
+- [[036 Ya-Sin]]
+- [[042 Ash-Shuraa]]
+- [[043 Az-Zukhruf]]
+- [[056 Al-Waqiah]]
+- [[076 Al-Insan]]
+- [[077 Al-Mursalat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:57 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَنُدْخِلُهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ لَّهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ ۖ وَنُدْخِلُهُمْ ظِلًّا ظَلِيلًا
+
+</div>
+
+**Word in this verse:** `ظِلًّۭا` — (in the) shade
+
+**English (Sahih International):** But those who believe and do righteous deeds - We will admit them to gardens beneath which rivers flow, wherein they abide forever. For them therein are purified spouses, and We will admit them to deepening shade.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو ایمان لائے اور نیک عمل کرتے رہے ان کو ہم بہشتوں میں داخل کریں گے جن کے نیچے نہریں بہہ رہی ہیں وہ ان میں ہمیشہ ہمیشہ رہیں گے وہاں ان کے لئے پاک بیبیاں ہیں اور ان کو ہم گھنے سائے میں داخل کریں گے
+
+[Open on Quran.com](https://quran.com/4/57)
+
+#### 13:15 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَظِلَـٰلُهُم بِٱلْغُدُوِّ وَٱلْـَٔاصَالِ ۩
+
+</div>
+
+**Word in this verse:** `وَظِلَـٰلُهُم` — and (so do) their shadows
+
+**English (Sahih International):** And to Allāh prostrates whoever is within the heavens and the earth, willingly or by compulsion, and their shadows [as well] in the mornings and the afternoons.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جتنی مخلوقات آسمانوں اور زمین میں ہے خوشی سے یا زبردستی سے خدا کے آگے سجدہ کرتی ہے اور ان کے سائے بھی صبح وشام (سجدے کرتے ہیں)
+
+[Open on Quran.com](https://quran.com/13/15)
+
+#### 13:35 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ أُكُلُهَا دَآئِمٌ وَظِلُّهَا ۚ تِلْكَ عُقْبَى ٱلَّذِينَ ٱتَّقَوا۟ ۖ وَّعُقْبَى ٱلْكَـٰفِرِينَ ٱلنَّارُ
+
+</div>
+
+**Word in this verse:** `وَظِلُّهَا ۚ` — and its shade
+
+**English (Sahih International):** The example [i.e., description] of Paradise, which the righteous have been promised, is [that] beneath it rivers flow. Its fruit is lasting, and its shade. That is the consequence for the righteous, and the consequence for the disbelievers is the Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس باغ کا متقیوں سے وعدہ کیا گیا ہے اس کے اوصاف یہ ہیں کہ اس کے نیچے نہریں بہہ رہی ہیں۔ اس کے پھل ہمیشہ (قائم رہنے والے) ہیں اور اس کے سائے بھی۔ یہ ان لوگوں کا انجام ہے جو متقی ہیں۔ اور کافروں کا انجام دوزخ ہے
+
+[Open on Quran.com](https://quran.com/13/35)
+
+#### 15:14 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَوْ فَتَحْنَا عَلَيْهِم بَابًا مِّنَ ٱلسَّمَآءِ فَظَلُّوا۟ فِيهِ يَعْرُجُونَ
+
+</div>
+
+**Word in this verse:** `فَظَلُّوا۟` — and they were to continue
+
+**English (Sahih International):** And [even] if We opened to them a gate from the heaven and they continued therein to ascend,
+
+**Urdu (Fatah Muhammad Jalandhari):** اوراگر ہم آسمان کا کوئی دروازہ اُن پر کھول دیں اور وہ اس میں چڑھنے بھی لگیں
+
+[Open on Quran.com](https://quran.com/15/14)
+
+#### 16:48 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَلَمْ يَرَوْا۟ إِلَىٰ مَا خَلَقَ ٱللَّهُ مِن شَىْءٍ يَتَفَيَّؤُا۟ ظِلَـٰلُهُۥ عَنِ ٱلْيَمِينِ وَٱلشَّمَآئِلِ سُجَّدًا لِّلَّهِ وَهُمْ دَٰخِرُونَ
+
+</div>
+
+**Word in this verse:** `ظِلَـٰلُهُۥ` — their shadows
+
+**English (Sahih International):** Have they not considered what things Allāh has created? Their shadows incline to the right and to the left, prostrating to Allāh, while they [i.e., those creations] are humble.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان لوگوں نے خدا کی مخلوقات میں سے ایسی چیزیں نہیں دیکھیں جن کے سائے دائیں سے (بائیں کو) اور بائیں سے (دائیں کو) لوٹتے رہتے ہیں (یعنی) خدا کے آگے عاجز ہو کر سجدے میں پڑے رہتے ہیں
+
+[Open on Quran.com](https://quran.com/16/48)
+
+#### 16:58 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا بُشِّرَ أَحَدُهُم بِٱلْأُنثَىٰ ظَلَّ وَجْهُهُۥ مُسْوَدًّا وَهُوَ كَظِيمٌ
+
+</div>
+
+**Word in this verse:** `ظَلَّ` — turns
+
+**English (Sahih International):** And when one of them is informed of [the birth of] a female, his face becomes dark, and he suppresses grief.
+
+**Urdu (Fatah Muhammad Jalandhari):** حالانکہ جب ان میں سے کسی کو بیٹی (کے پیدا ہونے) کی خبر ملتی ہے تو اس کا منہ (غم کے سبب) کالا پڑ جاتا ہے اور (اس کے دل کو دیکھو تو) وہ اندوہناک ہوجاتا ہے
+
+[Open on Quran.com](https://quran.com/16/58)
+
+#### 16:81 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱللَّهُ جَعَلَ لَكُم مِّمَّا خَلَقَ ظِلَـٰلًا وَجَعَلَ لَكُم مِّنَ ٱلْجِبَالِ أَكْنَـٰنًا وَجَعَلَ لَكُمْ سَرَٰبِيلَ تَقِيكُمُ ٱلْحَرَّ وَسَرَٰبِيلَ تَقِيكُم بَأْسَكُمْ ۚ كَذَٰلِكَ يُتِمُّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تُسْلِمُونَ
+
+</div>
+
+**Word in this verse:** `ظِلَـٰلًۭا` — shades
+
+**English (Sahih International):** And Allāh has made for you, from that which He has created, shadows [i.e., shade] and has made for you from the mountains, shelters and has made for you garments which protect you from the heat and garments [i.e., coats of mail] which protect you from your [enemy in] battle. Thus does He complete His favor upon you that you might submit [to Him].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تمہارے (آرام کے) لیے اپنی پیدا کی ہوئی چیزوں کے سائے بنائے اور پہاڑوں میں غاریں بنائیں اور کُرتے بنائے جو تم کو گرمی سے بچائیں۔ اور (ایسے) کُرتے (بھی) جو تم کو اسلحہ جنگ (کے ضرر) سے محفوظ رکھیں۔ اسی طرح خدا اپنا احسان تم پر پورا کرتا ہے تاکہ تم فرمانبردار بنو
+
+[Open on Quran.com](https://quran.com/16/81)
+
+#### 20:97 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا
+
+</div>
+
+**Word in this verse:** `ظَلْتَ` — you have remained
+
+**English (Sahih International):** [Moses] said, "Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast.
+
+**Urdu (Fatah Muhammad Jalandhari):** (موسیٰ نے) کہا جا تجھ کو دنیا کی زندگی میں یہ (سزا) ہے کہ کہتا رہے کہ مجھ کو ہاتھ نہ لگانا اور تیرے لئے ایک اور وعدہ ہے (یعنی عذاب کا) جو تجھ سے ٹل نہ سکے گا اور جس معبود (کی پوجا) پر تو (قائم و) معتکف تھا اس کو دیکھ۔ ہم اسے جلادیں گے پھر اس (کی راکھ) کو اُڑا کر دریا میں بکھیر دیں گے
+
+[Open on Quran.com](https://quran.com/20/97)
+
+#### 25:45 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ وَلَوْ شَآءَ لَجَعَلَهُۥ سَاكِنًا ثُمَّ جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلًا
+
+</div>
+
+**Word in this verse:** `ٱلظِّلَّ` — the shadow
+
+**English (Sahih International):** Have you not considered your Lord - how He extends the shadow, and if He willed, He could have made it stationary? Then We made the sun for it an indication.
+
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ تم نے اپنے پروردگار (کی قدرت) کو نہیں دیکھا کہ وہ سائے کو کس طرح دراز کر (کے پھیلا) دیتا ہے۔ اور اگر وہ چاہتا تو اس کو (بےحرکت) ٹھیرا رکھتا پھر سورج کو اس کا رہنما بنا دیتا ہے
+
+[Open on Quran.com](https://quran.com/25/45)
+
+#### 26:4 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ ٱلسَّمَآءِ ءَايَةً فَظَلَّتْ أَعْنَـٰقُهُمْ لَهَا خَـٰضِعِينَ
+
+</div>
+
+**Word in this verse:** `فَظَلَّتْ` — so would bend
+
+**English (Sahih International):** If We willed, We could send down to them from the sky a sign for which their necks would remain humbled.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر ہم چاہیں تو ان پر آسمان سے نشانی اُتار دیں۔ پھر ان کی گردنیں اس کے آگے جھک جائیں
+
+[Open on Quran.com](https://quran.com/26/4)
+
+_…and **13** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

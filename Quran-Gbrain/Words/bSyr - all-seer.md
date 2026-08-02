@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "بَصِير"
+slug: "bSyr - all-seer"
+surah_count: 29
+ayah_count: 51
+tags: [word, meaning]
+---
+
+# bSyr - all-seer
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[bSr - bsr]]
+
+### Meaning
+**all-seer** · Lemma **بَصِير**
+
+### Surahs (29)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[008 Al-Anfal]]
+- [[011 Hud]]
+- [[012 Yusuf]]
+- [[013 Ar-Rad]]
+- [[017 Al-Isra]]
+- [[020 Taha]]
+- [[022 Al-Hajj]]
+- [[025 Al-Furqan]]
+- [[031 Luqman]]
+- [[033 Al-Ahzab]]
+- [[034 Saba]]
+- [[035 Fatir]]
+- [[040 Ghafir]]
+- [[041 Fussilat]]
+- [[042 Ash-Shuraa]]
+- [[048 Al-Fath]]
+- [[049 Al-Hujurat]]
+- [[057 Al-Hadid]]
+- [[058 Al-Mujadila]]
+- [[060 Al-Mumtahanah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:96 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَتَجِدَنَّهُمْ أَحْرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٍ وَمِنَ ٱلَّذِينَ أَشْرَكُوا۟ ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِۦ مِنَ ٱلْعَذَابِ أَن يُعَمَّرَ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `بَصِيرٌۢ` — (is) All-Seer
+
+**English (Sahih International):** And you will surely find them the most greedy of people for life - [even] more than those who associate others with Allāh. One of them wishes that he could be granted life a thousand years, but it would not remove him in the least from the [coming] punishment that he should be granted life. And Allāh is Seeing of what they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ ان کو تم اور لوگوں سے زندگی کے کہیں حریص دیکھو گے، یہاں تک کہ مشرکوں سے بھی۔ ان میں سے ہر ایک یہی خواہش کرتا ہے کہ کاش وہ ہزار برس جیتا رہے، مگر اتنی لمبی عمر اس کو مل بھی جائے تو اسے عذاب سے تو نہیں چھڑا سکتی۔ اور جو کام یہ کرتے ہیں، خدا ان کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/2/96)
+
+#### 2:110 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+</div>
+
+**Word in this verse:** `بَصِيرٌۭ` — (is) All-Seer
+
+**English (Sahih International):** And establish prayer and give zakāh, and whatever good you put forward for yourselves - you will find it with Allāh. Indeed Allāh, of what you do, is Seeing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نماز ادا کرتے رہو اور زکوٰة دیتے رہو۔ اور جو بھلائی اپنے لیے آگے بھیج رکھو گے، اس کو خدا کے ہاں پا لو گے۔ کچھ شک نہیں کہ خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/2/110)
+
+#### 2:233 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَٱلْوَٰلِدَٰتُ يُرْضِعْنَ أَوْلَـٰدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ ۚ وَعَلَى ٱلْمَوْلُودِ لَهُۥ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ ۚ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا ۚ لَا تُضَآرَّ وَٰلِدَةٌۢ بِوَلَدِهَا وَلَا مَوْلُودٌ لَّهُۥ بِوَلَدِهِۦ ۚ وَعَلَى ٱلْوَارِثِ مِثْلُ ذَٰلِكَ ۗ فَإِنْ أَرَادَا فِصَالًا عَن تَرَاضٍ مِّنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا ۗ وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوٓا۟ أَوْلَـٰدَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ ءَاتَيْتُم بِٱلْمَعْرُوفِ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+</div>
+
+**Word in this verse:** `بَصِيرٌۭ` — (is) All-Seer
+
+**English (Sahih International):** Mothers may nurse [i.e., breastfeed] their children two complete years for whoever wishes to complete the nursing [period]. Upon the father is their [i.e., the mothers'] provision and their clothing according to what is acceptable. No person is charged with more than his capacity. No mother should be harmed through her child, and no father through his child. And upon the [father's] heir is [a duty] like that [of the father]. And if they both desire weaning through mutual consent from both of them and consultation, there is no blame upon either of them. And if you wish to have your children nursed by a substitute, there is no blame upon you as long as you give payment according to what is acceptable. And fear Allāh and know that Allāh is Seeing of what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مائیں اپنے بچوں کو پورے دو سال دودھ پلائیں یہ (حکم) اس شخص کے لئے ہے جو پوری مدت تک دودھ پلوانا چاہے۔ اور دودھ پلانے والی ماؤں کا کھانا اور کپڑا دستور کے مطابق باپ کے ذمے ہوگا۔ کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دی جاتی (تو یاد رکھو کہ) نہ تو ماں کو اس کے بچے کے سبب نقصان پہنچایا جائے اور نہ باپ کو اس کی اولاد کی وجہ سے نقصان پہنچایا جائے اور اسی طرح (نان نفقہ) بچے کے وارث کے ذمے ہے۔ اور اگر دونوں (یعنی ماں باپ) آپس کی رضامندی اور صلاح سے بچے کا دودھ چھڑانا چاہیں تو ان پر کچھ گناہ نہیں۔ اور اگر تم اپنی اولاد کو دودھ پلوانا چاہو تو تم پر کچھ گناہ نہیں بشرطیکہ تم دودھ پلانے والیوں کو دستور کے مطابق ان کا حق جو تم نے دینا کیا تھا دے دو اور خدا سے ڈرتے رہو اور جان رکھو کہ جو کچھ تم کرتے ہو خدا اس کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/2/233)
+
+#### 2:237 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إِلَّآ أَن يَعْفُونَ أَوْ يَعْفُوَا۟ ٱلَّذِى بِيَدِهِۦ عُقْدَةُ ٱلنِّكَاحِ ۚ وَأَن تَعْفُوٓا۟ أَقْرَبُ لِلتَّقْوَىٰ ۚ وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ ۚ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+</div>
+
+**Word in this verse:** `بَصِيرٌ` — (is) All-Seer
+
+**English (Sahih International):** And if you divorce them before you have touched them and you have already specified for them an obligation, then [give] half of what you specified - unless they forego the right or the one in whose hand is the marriage contract foregoes it. And to forego it is nearer to righteousness. And do not forget graciousness between you. Indeed Allāh, of whatever you do, is Seeing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے سے پہلے طلاق دے دو لیکن مہر مقرر کرچکے ہو تو آدھا مہر دینا ہوگا۔ ہاں اگر عورتیں مہر بخش دیں یا مرد جن کے ہاتھ میں عقد نکاح ہے (اپنا حق) چھوڑ دیں۔ (اور پورا مہر دے دیں تو ان کو اختیار ہے) اور اگر تم مرد لوگ ہ اپنا حق چھوڑ دو تو یہ پرہیزگاری کی بات ہے۔ اور آپس میں بھلائی کرنے کو فراموش نہ کرنا۔ کچھ شک نہیں کہ خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/2/237)
+
+#### 2:265 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍۭ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَـَٔاتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌ فَطَلٌّ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+</div>
+
+**Word in this verse:** `بَصِيرٌ` — (is) All-Seer
+
+**English (Sahih International):** And the example of those who spend their wealth seeking means to the approval of Allāh and assuring [reward for] themselves is like a garden on high ground which is hit by a downpour - so it yields its fruits in double. And [even] if it is not hit by a downpour, then a drizzle [is sufficient]. And Allāh, of what you do, is Seeing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا کی خوشنودی حاصل کرنے کے لئے خلوص نیت سے اپنا مال خرچ کرتے ہیں ان کی مثال ایک باغ کی سی ہے جو اونچی جگہ پر واقع ہو(جب) اس پر مینہ پڑے تو دگنا پھل لائے۔ اور اگر مینہ نہ بھی پڑے تو خیر پھوار ہی سہی اور خدا تمہارے کاموں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/2/265)
+
+#### 3:15 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ قُلْ أَؤُنَبِّئُكُم بِخَيْرٍ مِّن ذَٰلِكُمْ ۚ لِلَّذِينَ ٱتَّقَوْا۟ عِندَ رَبِّهِمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا وَأَزْوَٰجٌ مُّطَهَّرَةٌ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
+
+</div>
+
+**Word in this verse:** `بَصِيرٌۢ` — (is) All-Seer
+
+**English (Sahih International):** Say, "Shall I inform you of [something] better than that? For those who fear Allāh will be gardens in the presence of their Lord beneath which rivers flow, wherein they abide eternally, and purified spouses and approval from Allāh. And Allāh is Seeing [i.e., aware] of [His] servants -
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر ان سے) کہو کہ بھلا میں تم کو ایسی چیز بتاؤں جو ان چیزوں سے کہیں اچھی ہو (سنو) جو لوگ پرہیزگار ہیں ان کے لیے خدا کے ہاں باغات (بہشت) ہیں جن کے نیچے نہریں بہہ رہی ہیں ان میں وہ ہمیشہ رہیں گے اور پاکیزہ عورتیں ہیں اور (سب سے بڑھ کر) خدا کی خوشنودی اور خدا (اپنے نیک) بندوں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/3/15)
+
+#### 3:20 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْأُمِّيِّـۧنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَـٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
+
+</div>
+
+**Word in this verse:** `بَصِيرٌۢ` — (is) All-Seer
+
+**English (Sahih International):** So if they argue with you, say, "I have submitted myself to Allāh [in Islām], and [so have] those who follow me." And say to those who were given the Scripture and [to] the unlearned, "Have you submitted yourselves?" And if they submit [in Islām], they are rightly guided; but if they turn away - then upon you is only the [duty of] notification. And Allāh is Seeing of [His] servants.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر اگر یہ لوگ تم سے جھگڑنے لگیں تو کہنا کہ میں اور میرے پیرو تو خدا کے فرمانبردار ہو چکے اور اہل کتاب اور ان پڑھ لوگوں سے کہو کہ کیا تم بھی (خدا کے فرمانبردار بنتے ہو) اور اسلام لاتے ہو؟ اگر یہ لوگ اسلام لے آئیں تو بے شک ہدایت پالیں اور اگر (تمہارا کہا) نہ مانیں تو تمہارا کام صرف خدا کا پیغام پہنچا دینا ہے اور خدا (اپنے) بندوں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/3/20)
+
+#### 3:156 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ كَانُوا۟ غُزًّى لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةً فِى قُلُوبِهِمْ ۗ وَٱللَّهُ يُحْىِۦ وَيُمِيتُ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+</div>
+
+**Word in this verse:** `بَصِيرٌۭ` — (is) All-Seer
+
+**English (Sahih International):** O you who have believed, do not be like those who disbelieved and said about their brothers when they traveled through the land or went out to fight, "If they had been with us, they would not have died or have been killed," so Allāh makes that [misconception] a regret within their hearts. And it is Allāh who gives life and causes death, and Allāh is Seeing of what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! ان لوگوں جیسے نہ ہونا جو کفر کرتے ہیں اور ان کے (مسلمان) بھائی جب (خدا کی راہ میں) سفر کریں (اور مر جائیں) یا جہاد کو نکلیں (اور مارے جائیں) تو ان کی نسبت کہتے ہیں کہ اگر وہ ہمارے پاس رہتے تو نہ مرتے اور نہ مارے جاتے۔ ان باتوں سے مقصود یہ ہے کہ خدا ان لوگوں کے دلوں میں افسوس پیدا کر دے اور زندگی اور موت تو خدا ہی دیتا ہے اور خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/3/156)
+
+#### 3:163 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُمْ دَرَجَـٰتٌ عِندَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `بَصِيرٌۢ` — (is) All-Seer
+
+**English (Sahih International):** They are [varying] degrees in the sight of Allāh, and Allāh is Seeing of whatever they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں کے خدا کے ہاں (مختلف اور متفاوت) درجے ہیں اور خدا ان کے سب اعمال کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/3/163)
+
+#### 4:58 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَـٰنَـٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ ۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًا
+
+</div>
+
+**Word in this verse:** `بَصِيرًۭا` — All-Seeing
+
+**English (Sahih International):** Indeed, Allāh commands you to render trusts to whom they are due and when you judge between people to judge with justice. Excellent is that which Allāh instructs you. Indeed, Allāh is ever Hearing and Seeing.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تم کو حکم دیتا ہے کہ امانت والوں کی امانتیں ان کے حوالے کردیا کرو اور جب لوگوں میں فیصلہ کرنے لگو تو انصاف سے فیصلہ کیا کرو خدا تمہیں بہت خوب نصیحت کرتا ہے بےشک خدا سنتا اور دیکھتا ہے
+
+[Open on Quran.com](https://quran.com/4/58)
+
+_…and **41** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

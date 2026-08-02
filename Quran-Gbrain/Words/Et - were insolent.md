@@ -1,0 +1,111 @@
+---
+type: word
+lemma: "عَتَ"
+slug: "Et - were insolent"
+surah_count: 4
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# Et - were insolent
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Etw - etw]]
+
+### Meaning
+**were insolent** · Lemma **عَتَ**
+
+### Surahs (4)
+- [[007 Al-Araf]]
+- [[025 Al-Furqan]]
+- [[051 Adh-Dhariyat]]
+- [[065 At-Talaq]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 7:77 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ
+
+</div>
+
+**Word in this verse:** `وَعَتَوْا۟` — and (were) insolent
+
+**English (Sahih International):** So they hamstrung the she-camel and were insolent toward the command of their Lord and said, "O Ṣāliḥ, bring us what you promise us, if you should be of the messengers."
+
+**Urdu (Fatah Muhammad Jalandhari):** آخر انہوں نے اونٹی (کی کونچوں) کو کاٹ ڈالا اور اپنے پروردگار کے حکم سے سرکشی کی اور کہنے لگے کہ صالح! جس چیز سے تم ہمیں ڈراتے تھے اگر تم (خدا کے) پیغمبر ہو تو اسے ہم پر لے آؤ
+
+[Open on Quran.com](https://quran.com/7/77)
+
+#### 7:166 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا عَتَوْا۟ عَن مَّا نُهُوا۟ عَنْهُ قُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَـٰسِـِٔينَ
+
+</div>
+
+**Word in this verse:** `عَتَوْا۟` — they exceeded all bounds
+
+**English (Sahih International):** So when they were insolent about that which they had been forbidden, We said to them, "Be apes, despised."
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض جن اعمال (بد) سے ان کو منع کیا گیا تھا جب وہ ان (پراصرار اور ہمارے حکم سے) گردن کشی کرنے لگے تو ہم نے ان کو حکم دیا کہ ذلیل بندر ہوجاؤ
+
+[Open on Quran.com](https://quran.com/7/166)
+
+#### 25:21 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَقَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا لَوْلَآ أُنزِلَ عَلَيْنَا ٱلْمَلَـٰٓئِكَةُ أَوْ نَرَىٰ رَبَّنَا ۗ لَقَدِ ٱسْتَكْبَرُوا۟ فِىٓ أَنفُسِهِمْ وَعَتَوْ عُتُوًّا كَبِيرًا
+
+</div>
+
+**Word in this verse:** `وَعَتَوْ` — and (become) insolent
+
+**English (Sahih International):** And those who do not expect the meeting with Us say, "Why were not angels sent down to us, or [why] do we [not] see our Lord?" They have certainly become arrogant within themselves and [become] insolent with great insolence.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ہم سے ملنے کی امید نہیں رکھتے۔ کہتے ہیں کہ ہم پر فرشتے کیوں نہ نازل کئے گئے۔ یا ہم اپنی آنکھ سے اپنے پروردگار کو دیکھ لیں۔ یہ اپنے خیال میں بڑائی رکھتے ہیں اور (اسی بنا پر) بڑے سرکش ہو رہے ہی
+
+[Open on Quran.com](https://quran.com/25/21)
+
+#### 51:44 · [[051 Adh-Dhariyat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّـٰعِقَةُ وَهُمْ يَنظُرُونَ
+
+</div>
+
+**Word in this verse:** `فَعَتَوْا۟` — But they rebelled
+
+**English (Sahih International):** But they were insolent toward the command of their Lord, so the thunderbolt seized them while they were looking on.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے اپنے پروردگار کے حکم سے سرکشی کی۔ سو ان کو کڑک نے آ پکڑا اور وہ دیکھ رہے تھے
+
+[Open on Quran.com](https://quran.com/51/44)
+
+#### 65:8 · [[065 At-Talaq]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَأَيِّن مِّن قَرْيَةٍ عَتَتْ عَنْ أَمْرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبْنَـٰهَا حِسَابًا شَدِيدًا وَعَذَّبْنَـٰهَا عَذَابًا نُّكْرًا
+
+</div>
+
+**Word in this verse:** `عَتَتْ` — rebelled
+
+**English (Sahih International):** And how many a city was insolent toward the command of its Lord and His messengers, so We took it to severe account and punished it with a terrible punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بہت سی بستیوں (کے رہنے والوں)نے اپنے پروردگار اور اس کے پیغمبروں کے احکام سے سرکشی کی تو ہم نے ان کو سخت حساب میں پکڑ لیا اور ان پر (ایسا) عذاب نازل کیا جو نہ دیکھا تھا نہ سنا
+
+[Open on Quran.com](https://quran.com/65/8)
+

@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "أَجْداث"
+slug: ">jdAv - graves"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# >jdAv - graves
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[jdv - jdth]]
+
+### Meaning
+**graves** · Lemma **أَجْداث**
+
+### Surahs (3)
+- [[036 Ya-Sin]]
+- [[054 Al-Qamar]]
+- [[070 Al-Maarij]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 36:51 · [[036 Ya-Sin]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْأَجْدَاثِ` — the graves
+
+**English (Sahih International):** And the Horn will be blown; and at once from the graves to their Lord they will hasten.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (جس وقت) صور پھونکا جائے گا یہ قبروں سے (نکل کر) اپنے پروردگار کی طرف دوڑ پڑیں گے
+
+[Open on Quran.com](https://quran.com/36/51)
+
+#### 54:7 · [[054 Al-Qamar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+خُشَّعًا أَبْصَـٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ
+
+</div>
+
+**Word in this verse:** `ٱلْأَجْدَاثِ` — the graves
+
+**English (Sahih International):** Their eyes humbled, they will emerge from the graves as if they were locusts spreading,
+
+**Urdu (Fatah Muhammad Jalandhari):** تو آنکھیں نیچی کئے ہوئے قبروں سے نکل پڑیں گے گویا بکھری ہوئی ٹڈیاں
+
+[Open on Quran.com](https://quran.com/54/7)
+
+#### 70:43 · [[070 Al-Maarij]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْأَجْدَاثِ` — the graves
+
+**English (Sahih International):** The Day they will emerge from the graves rapidly as if they were, toward an erected idol, hastening.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس دن یہ قبر سے نکل کر (اس طرح) دوڑیں گے جیسے (شکاری) شکار کے جال کی طرف دوڑتے ہیں
+
+[Open on Quran.com](https://quran.com/70/43)
+

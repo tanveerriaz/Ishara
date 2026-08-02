@@ -1,0 +1,204 @@
+---
+type: word
+lemma: "أَب"
+slug: ">b - father"
+surah_count: 15
+ayah_count: 40
+tags: [word, meaning]
+---
+
+# >b - father
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[>bw - abw]]
+
+### Meaning
+**father** · Lemma **أَب**
+
+### Surahs (15)
+- [[006 Al-Anam]]
+- [[009 At-Tawbah]]
+- [[012 Yusuf]]
+- [[018 Al-Kahf]]
+- [[019 Maryam]]
+- [[021 Al-Anbya]]
+- [[022 Al-Hajj]]
+- [[026 Ash-Shuara]]
+- [[028 Al-Qasas]]
+- [[033 Al-Ahzab]]
+- [[037 As-Saffat]]
+- [[043 Az-Zukhruf]]
+- [[060 Al-Mumtahanah]]
+- [[080 Abasa]]
+- [[111 Al-Masad]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 6:74 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً ۖ إِنِّىٓ أَرَىٰكَ وَقَوْمَكَ فِى ضَلَـٰلٍ مُّبِينٍ
+
+</div>
+
+**Word in this verse:** `لِأَبِيهِ` — to his father
+
+**English (Sahih International):** And [mention, O Muḥammad], when Abraham said to his father Āzar, "Do you take idols as deities? Indeed, I see you and your people to be in manifest error."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (وہ وقت بھی یاد کرنے کے لائق ہے) جب ابراہیم نے اپنے باپ آزر سے کہا کہ تم بتوں کو کیا معبود بناتے ہو۔ میں دیکھتا ہوں کہ تم اور تمہاری قوم صریح گمراہی میں ہو
+
+[Open on Quran.com](https://quran.com/6/74)
+
+#### 9:114 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا كَانَ ٱسْتِغْفَارُ إِبْرَٰهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ وَعَدَهَآ إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُۥٓ أَنَّهُۥ عَدُوٌّ لِّلَّهِ تَبَرَّأَ مِنْهُ ۚ إِنَّ إِبْرَٰهِيمَ لَأَوَّٰهٌ حَلِيمٌ
+
+</div>
+
+**Word in this verse:** `لِأَبِيهِ` — for his father
+
+**English (Sahih International):** And the request of forgiveness of Abraham for his father was only because of a promise he had made to him. But when it became apparent to him [i.e., Abraham] that he [i.e., the father] was an enemy to Allāh, he disassociated himself from him. Indeed was Abraham compassionate and patient.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم کا اپنے باپ کے لیے بخشش مانگنا تو ایک وعدے کا سبب تھا جو وہ اس سے کر چکے تھے۔ لیکن جب ان کو معلوم ہوگیا کہ وہ خدا کا دشمن ہے تو اس سے بیزار ہوگئے۔ کچھ شک نہیں کہ ابراہیم بڑے نرم دل اور متحمل تھے
+
+[Open on Quran.com](https://quran.com/9/114)
+
+#### 12:4 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ
+
+</div>
+
+**Word in this verse:** `لِأَبِيهِ` — to his father
+
+**English (Sahih International):** [Of these stories mention] when Joseph said to his father, "O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب یوسف نے اپنے والد سے کہا کہ ابا میں نے (خواب میں) گیارہ ستاروں اور سورج اور چاند کو دیکھا ہے۔ دیکھتا (کیا) ہوں کہ وہ مجھے سجدہ کر رہے ہیں
+
+[Open on Quran.com](https://quran.com/12/4)
+
+#### 12:8 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَـٰلٍ مُّبِينٍ
+
+</div>
+
+**Word in this verse:** `أَبِينَا` — our father
+
+**English (Sahih International):** When they said, "Joseph and his brother are more beloved to our father than we, while we are a clan. Indeed, our father is in clear error.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب انہوں نے (آپس میں) تذکرہ کیا کہ یوسف اور اس کا بھائی ابا کو ہم سے زیادہ پیارے ہیں حالانکہ ہم جماعت (کی جماعت) ہیں۔ کچھ شک نہیں کہ ابا صریح غلطی پر ہیں
+
+[Open on Quran.com](https://quran.com/12/8)
+
+#### 12:9 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًا صَـٰلِحِينَ
+
+</div>
+
+**Word in this verse:** `أَبِيكُمْ` — (of) your father
+
+**English (Sahih International):** Kill Joseph or cast him out to [another] land; the countenance [i.e., attention] of your father will [then] be only for you, and you will be after that a righteous people."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو یوسف کو (یا تو جان سے) مار ڈالو یا کسی ملک میں پھینک آؤ۔ پھر ابا کی توجہ صرف تمہاری طرف ہوجائے گی۔ اور اس کے بعد تم اچھی حالت میں ہوجاؤ گے
+
+[Open on Quran.com](https://quran.com/12/9)
+
+#### 12:11 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالُوا۟ يَـٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَـٰصِحُونَ
+
+</div>
+
+**Word in this verse:** `يَـٰٓأَبَانَا` — O our father
+
+**English (Sahih International):** They said, "O our father, why do you not entrust us with Joseph while indeed, we are to him sincere counselors?
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ مشورہ کر کے وہ یعقوب سے) کہنے لگے کہ اباجان کیا سبب ہے کہ آپ یوسف کے بارے میں ہمارا اعتبار نہیں کرتے حالانکہ ہم اس کے خیرخواہ ہیں
+
+[Open on Quran.com](https://quran.com/12/11)
+
+#### 12:16 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَآءُوٓ أَبَاهُمْ عِشَآءً يَبْكُونَ
+
+</div>
+
+**Word in this verse:** `أَبَاهُمْ` — (to) their father
+
+**English (Sahih International):** And they came to their father at night, weeping.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ حرکت کرکے) وہ رات کے وقت باپ کے پاس روتے ہوئے آئے
+
+[Open on Quran.com](https://quran.com/12/16)
+
+#### 12:17 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالُوا۟ يَـٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَـٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ ۖ وَمَآ أَنتَ بِمُؤْمِنٍ لَّنَا وَلَوْ كُنَّا صَـٰدِقِينَ
+
+</div>
+
+**Word in this verse:** `يَـٰٓأَبَانَآ` — O our father
+
+**English (Sahih International):** They said, "O our father, indeed we went racing each other and left Joseph with our possessions, and a wolf ate him. But you would not believe us, even if we were truthful."
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور) کہنے لگے کہ اباجان ہم تو دوڑنے اور ایک دوسرے سے آگے نکلنے میں مصروف ہوگئے اور یوسف کو اپنے اسباب کے پاس چھوڑ گئے تو اسے بھیڑیا کھا گیا۔ اور آپ ہماری بات کو گو ہم سچ ہی کہتے ہوں باور نہیں کریں گے
+
+[Open on Quran.com](https://quran.com/12/17)
+
+#### 12:59 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍ لَّكُم مِّنْ أَبِيكُمْ ۚ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ
+
+</div>
+
+**Word in this verse:** `أَبِيكُمْ ۚ` — your father
+
+**English (Sahih International):** And when he had furnished them with their supplies, he said, "Bring me a brother of yours from your father. Do you not see that I give full measure and that I am the best of accommodators?
+
+**Urdu (Fatah Muhammad Jalandhari):** جب یوسف نے ان کے لیے ان کا سامان تیار کر دیا تو کہا کہ (پھر آنا تو) جو باپ کی طرف سے تمہارا ایک اور بھائی ہے اسے بھی میرے پاس لیتے آنا۔ کیا تم نہیں دیکھتے کہ میں ناپ بھی پوری پوری دیتا ہوں اور مہمانداری بھی خوب کرتا ہوں
+
+[Open on Quran.com](https://quran.com/12/59)
+
+#### 12:61 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَـٰعِلُونَ
+
+</div>
+
+**Word in this verse:** `أَبَاهُ` — (from) his father
+
+**English (Sahih International):** They said, "We will attempt to dissuade his father from [keeping] him, and indeed, we will do [it]."
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ ہم اس کے بارے میں اس کے والد سے تذکرہ کریں گے اور ہم (یہ کام) کرکے رہیں گے
+
+[Open on Quran.com](https://quran.com/12/61)
+
+_…and **30** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

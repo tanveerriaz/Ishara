@@ -1,0 +1,95 @@
+---
+type: word
+lemma: "اسْتَغاثَ"
+slug: "AstgAv - seek help"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# AstgAv - seek help
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[gwv - gwth]]
+
+### Meaning
+**seek help** · Lemma **اسْتَغاثَ**
+
+### Surahs (4)
+- [[008 Al-Anfal]]
+- [[018 Al-Kahf]]
+- [[028 Al-Qasas]]
+- [[046 Al-Ahqaf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 8:9 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم بِأَلْفٍ مِّنَ ٱلْمَلَـٰٓئِكَةِ مُرْدِفِينَ
+
+</div>
+
+**Word in this verse:** `تَسْتَغِيثُونَ` — you were seeking help
+
+**English (Sahih International):** [Remember] when you were asking help of your Lord, and He answered you, "Indeed, I will reinforce you with a thousand from the angels, following one another."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب تم اپنے پروردگار سے فریاد کرتے تھے تو اس نے تمہاری دعا قبول کرلی (اور فرمایا) کہ (تسلی رکھو) ہم ہزار فرشتوں سے جو ایک دوسرے کے پیچھے آتے جائیں گے تمہاری مدد کریں گے
+
+[Open on Quran.com](https://quran.com/8/9)
+
+#### 18:29 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ ۚ إِنَّآ أَعْتَدْنَا لِلظَّـٰلِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَإِن يَسْتَغِيثُوا۟ يُغَاثُوا۟ بِمَآءٍ كَٱلْمُهْلِ يَشْوِى ٱلْوُجُوهَ ۚ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقًا
+
+</div>
+
+**Word in this verse:** `يَسْتَغِيثُوا۟` — they call for relief
+
+**English (Sahih International):** And say, "The truth is from your Lord, so whoever wills - let him believe; and whoever wills - let him disbelieve." Indeed, We have prepared for the wrongdoers a fire whose walls will surround them. And if they call for relief, they will be relieved with water like murky oil, which scalds [their] faces. Wretched is the drink, and evil is the resting place.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہہ دو کہ (لوگو) یہ قرآن تمہارے پروردگار کی طرف سے برحق ہے تو جو چاہے ایمان لائے اور جو چاہے کافر رہے۔ ہم نے ظالموں کے لئے دوزخ کی آگ تیار کر رکھی ہے جس کی قناتیں ان کو گھیر رہی ہوں گی۔ اور اگر فریاد کریں گے تو ایسے کھولتے ہوئے پانی سے ان کی دادرسی کی جائے گی (جو) پگھلے ہوئے تانبے کی طرح (گرم ہوگا اور جو) مونہوں کو بھون ڈالے گا (ان کے پینے کا) پانی بھی برا اور آرام گاہ بھی بری
+
+[Open on Quran.com](https://quran.com/18/29)
+
+#### 28:15 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَدَخَلَ ٱلْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِّنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَـٰذَا مِن شِيعَتِهِۦ وَهَـٰذَا مِنْ عَدُوِّهِۦ ۖ فَٱسْتَغَـٰثَهُ ٱلَّذِى مِن شِيعَتِهِۦ عَلَى ٱلَّذِى مِنْ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ ۖ قَالَ هَـٰذَا مِنْ عَمَلِ ٱلشَّيْطَـٰنِ ۖ إِنَّهُۥ عَدُوٌّ مُّضِلٌّ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `فَٱسْتَغَـٰثَهُ` — And called him for help
+
+**English (Sahih International):** And he entered the city at a time of inattention by its people and found therein two men fighting: one from his faction and one from among his enemy. And the one from his faction called for help to him against the one from his enemy, so Moses struck him and [unintentionally] killed him. [Moses] said, "This is from the work of Satan. Indeed, he is a manifest, misleading enemy."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ ایسے وقت شہر میں داخل ہوئے کہ وہاں کے باشندے بےخبر ہو رہے تھے تو دیکھا کہ وہاں دو شخص لڑ رہے تھے ایک تو موسٰی کی قوم کا ہے اور دوسرا اُن کے دشمنوں میں سے تو جو شخص اُن کی قوم میں سے تھا اس نے دوسرے شخص کے مقابلے میں جو موسٰی کے دشمنوں میں سے تھا مدد طلب کی تو اُنہوں نے اس کو مکا مارا اور اس کا کام تمام کر دیا کہنے لگے کہ یہ کام تو (اغوائے) شیطان سے ہوا بیشک وہ (انسان کا) دشمن اور صریح بہکانے والا ہے
+
+[Open on Quran.com](https://quran.com/28/15)
+
+#### 46:17 · [[046 Al-Ahqaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ ٱلْقُرُونُ مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَيَقُولُ مَا هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ
+
+</div>
+
+**Word in this verse:** `يَسْتَغِيثَانِ` — seek help
+
+**English (Sahih International):** But one who says to his parents, "Uff to you; do you promise me that I will be brought forth [from the earth] when generations before me have already passed on [into oblivion]?" while they call to Allāh for help [and to their son], "Woe to you! Believe! Indeed, the promise of Allāh is truth." But he says, "This is not but legends of the former peoples" -
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس شخص نے اپنے ماں باپ سے کہا کہ اُف اُف! تم مجھے یہ بتاتے ہو کہ میں (زمین سے) نکالا جاؤں گا حالانکہ بہت سے لوگ مجھ سے پہلے گزر چکے ہیں۔ اور وہ دونوں خدا کی جناب میں فریاد کرتے (ہوئے کہتے) تھے کہ کم بخت ایمان لا۔ خدا کا وعدہ تو سچا ہے۔ تو کہنے لگا یہ تو پہلے لوگوں کی کہانیاں ہیں
+
+[Open on Quran.com](https://quran.com/46/17)
+

@@ -1,0 +1,162 @@
+---
+type: word
+lemma: "عَقِب"
+slug: "Eqb - heels"
+surah_count: 7
+ayah_count: 8
+tags: [word, meaning]
+---
+
+# Eqb - heels
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Eqb - heel human foot]]
+
+### Meaning
+**heels** · Lemma **عَقِب**
+
+### Surahs (7)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[006 Al-Anam]]
+- [[008 Al-Anfal]]
+- [[018 Al-Kahf]]
+- [[023 Al-Muminun]]
+- [[043 Az-Zukhruf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:143 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَذَٰلِكَ جَعَلْنَـٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيْكُمْ شَهِيدًا ۗ وَمَا جَعَلْنَا ٱلْقِبْلَةَ ٱلَّتِى كُنتَ عَلَيْهَآ إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ ۚ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُ ۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَـٰنَكُمْ ۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `عَقِبَيْهِ ۚ` — his heels
+
+**English (Sahih International):** And thus We have made you a median [i.e., just] community that you will be witnesses over the people and the Messenger will be a witness over you. And We did not make the qiblah which you used to face except that We might make evident who would follow the Messenger from who would turn back on his heels. And indeed, it is difficult except for those whom Allāh has guided. And never would Allāh have caused you to lose your faith [i.e., your previous prayers]. Indeed Allāh is, to the people, Kind and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے تم کو امتِ معتدل بنایا ہے، تاکہ تم لوگوں پر گواہ بنو اور پیغمبر (آخرالزماں) تم پر گواہ بنیں۔ اور جس قبلے پر تم (پہلے) تھے، اس کو ہم نے اس لیے مقرر کیا تھا کہ معلوم کریں، کون (ہمارے) پیغمبر کا تابع رہتا ہے، اور کون الٹے پاؤں پھر جاتا ہے۔ اور یہ بات (یعنی تحویل قبلہ لوگوں کو) گراں معلوم ہوئی، مگر جن کو خدا نے ہدایت بخشی (وہ اسے گراں نہیں سمجھتے) اور خدا ایسا نہیں کہ تمہارے ایمان کو یونہی کھو دے۔ خدا تو لوگوں پر بڑا مہربان (اور) صاحبِ رحمت ہے
+
+[Open on Quran.com](https://quran.com/2/143)
+
+#### 3:144 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ ۚ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ ۚ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًٔا ۗ وَسَيَجْزِى ٱللَّهُ ٱلشَّـٰكِرِينَ
+
+</div>
+
+**Word in this verse:** `أَعْقَـٰبِكُمْ ۚ` — your heels
+
+**English (Sahih International):** Muḥammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]? And he who turns back on his heels will never harm Allāh at all; but Allāh will reward the grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور محمد (صلی الله علیہ وسلم) تو صرف (خدا کے) پیغمبر ہیں ان سے پہلے بھی بہت سے پیغمبر ہو گزرے ہیں بھلا اگر یہ مر جائیں یا مارے جائیں تو تم الٹے پاؤں پھر جاؤ؟ (یعنی مرتد ہو جاؤ؟) اور جو الٹے پاؤں پھر جائے گا تو خدا کا کچھ نقصان نہ کر سکے گا اور خدا شکر گزاروں کو (بڑا) ثواب دے گا
+
+[Open on Quran.com](https://quran.com/3/144)
+
+#### 3:149 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تُطِيعُوا۟ ٱلَّذِينَ كَفَرُوا۟ يَرُدُّوكُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ فَتَنقَلِبُوا۟ خَـٰسِرِينَ
+
+</div>
+
+**Word in this verse:** `أَعْقَـٰبِكُمْ` — your heels
+
+**English (Sahih International):** O you who have believed, if you obey those who disbelieve, they will turn you back on your heels, and you will [then] become losers.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اگر تم کافروں کا کہا مان لو گے تو وہ تم کو الٹے پاؤں پھیر کر (مرتد کر) دیں گے پھر تم بڑے خسارے میں پڑ جاؤ گے
+
+[Open on Quran.com](https://quran.com/3/149)
+
+#### 6:71 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ أَنَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰٓ أَعْقَابِنَا بَعْدَ إِذْ هَدَىٰنَا ٱللَّهُ كَٱلَّذِى ٱسْتَهْوَتْهُ ٱلشَّيَـٰطِينُ فِى ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَـٰبٌ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى ٱئْتِنَا ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۖ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ ٱلْعَـٰلَمِينَ
+
+</div>
+
+**Word in this verse:** `أَعْقَابِنَا` — our heels
+
+**English (Sahih International):** Say, "Shall we invoke instead of Allāh that which neither benefits us nor harms us and be turned back on our heels after Allāh has guided us? [We would then be] like one whom the devils enticed [to wander] upon the earth confused, [while] he has companions inviting him to guidance, [calling], 'Come to us.'" Say, "Indeed, the guidance of Allāh is the [only] guidance; and we have been commanded to submit to the Lord of the worlds.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو۔ کیا ہم خدا کے سوا ایسی چیز کو پکاریں جو نہ ہمارا بھلا کرسکے نہ برا۔ اور جب ہم کو خدا نے سیدھا رستہ دکھا دیا تو (کیا) ہم الٹے پاؤں پھر جائیں؟ (پھر ہماری ایسی مثال ہو) جیسے کسی کو جنات نے جنگل میں بھلا دیا ہو (اور وہ) حیران (ہو رہا ہو) اور اس کے کچھ رفیق ہوں جو اس کو رستے کی طرف بلائیں کہ ہمارے پاس چلا آ۔ کہہ دو کہ رستہ تو وہی ہے جو خدا نے بتایا ہے۔ اور ہمیں تو یہ حکم ملا ہے کہ ہم خدائے رب العالمین کے فرمانبردار ہوں
+
+[Open on Quran.com](https://quran.com/6/71)
+
+#### 8:48 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ زَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ أَعْمَـٰلَهُمْ وَقَالَ لَا غَالِبَ لَكُمُ ٱلْيَوْمَ مِنَ ٱلنَّاسِ وَإِنِّى جَارٌ لَّكُمْ ۖ فَلَمَّا تَرَآءَتِ ٱلْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّى بَرِىٓءٌ مِّنكُمْ إِنِّىٓ أَرَىٰ مَا لَا تَرَوْنَ إِنِّىٓ أَخَافُ ٱللَّهَ ۚ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
+
+</div>
+
+**Word in this verse:** `عَقِبَيْهِ` — his heels
+
+**English (Sahih International):** And [remember] when Satan made their deeds pleasing to them and said, "No one can overcome you today from among the people, and indeed, I am your protector." But when the two armies sighted each other, he turned on his heels and said, "Indeed, I am disassociated from you. Indeed, I see what you do not see; indeed, I fear Allāh. And Allāh is severe in penalty."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب شیطانوں نے ان کے اعمال ان کو آراستہ کر کے دکھائے اور کہا کہ آج کے دن لوگوں میں کوئی تم پر غالب نہ ہوگا اور میں تمہارا رفیق ہوں (لیکن) جب دونوں فوجیں ایک دوسرے کے مقابل صف آراء ہوئیں تو پسپا ہو کر چل دیا اور کہنے لگا کہ مجھے تم سے کوئی واسطہ نہیں۔ میں تو ایسی چیزیں دیکھ رہا ہوں جو تم نہیں دیکھ سکتے۔ مجھے تو خدا سے ڈر لگتا ہے۔ اور خدا سخت عذاب کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/8/48)
+
+#### 18:44 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُنَالِكَ ٱلْوَلَـٰيَةُ لِلَّهِ ٱلْحَقِّ ۚ هُوَ خَيْرٌ ثَوَابًا وَخَيْرٌ عُقْبًا
+
+</div>
+
+**Word in this verse:** `عُقْبًۭا` — (for) the final end
+
+**English (Sahih International):** There the authority is [completely] for Allāh, the Truth. He is best in reward and best in outcome.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہاں (سے ثابت ہوا کہ) حکومت سب خدائے برحق ہی کی ہے۔ اسی کا صلہ بہتر اور (اسی کا) بدلہ اچھا ہے
+
+[Open on Quran.com](https://quran.com/18/44)
+
+#### 23:66 · [[023 Al-Muminun]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَدْ كَانَتْ ءَايَـٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُمْ عَلَىٰٓ أَعْقَـٰبِكُمْ تَنكِصُونَ
+
+</div>
+
+**Word in this verse:** `أَعْقَـٰبِكُمْ` — your heels
+
+**English (Sahih International):** My verses had already been recited to you, but you were turning back on your heels.
+
+**Urdu (Fatah Muhammad Jalandhari):** میری آیتیں تم کو پڑھ پڑھ کر سنائی جاتی تھیں اور تم الٹے پاؤں پھر پھر جاتے تھے
+
+[Open on Quran.com](https://quran.com/23/66)
+
+#### 43:28 · [[043 Az-Zukhruf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَعَلَهَا كَلِمَةًۢ بَاقِيَةً فِى عَقِبِهِۦ لَعَلَّهُمْ يَرْجِعُونَ
+
+</div>
+
+**Word in this verse:** `عَقِبِهِۦ` — his descendents
+
+**English (Sahih International):** And he made it a word remaining among his descendants that they might return [to it].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہی بات اپنی اولاد میں پیچھے چھوڑ گئے تاکہ وہ (خدا کی طرف) رجوع کریں
+
+[Open on Quran.com](https://quran.com/43/28)
+

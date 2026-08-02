@@ -1,0 +1,159 @@
+---
+type: word
+lemma: "كَفَّ"
+slug: "kf - restrain"
+surah_count: 4
+ayah_count: 8
+tags: [word, meaning]
+---
+
+# kf - restrain
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[kff - kff]]
+
+### Meaning
+**restrain** · Lemma **كَفَّ**
+
+### Surahs (4)
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[021 Al-Anbya]]
+- [[048 Al-Fath]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:77 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةً ۚ وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ لَوْلَآ أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ ۗ قُلْ مَتَـٰعُ ٱلدُّنْيَا قَلِيلٌ وَٱلْـَٔاخِرَةُ خَيْرٌ لِّمَنِ ٱتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا
+
+</div>
+
+**Word in this verse:** `كُفُّوٓا۟` — Restrain
+
+**English (Sahih International):** Have you not seen those who were told, "Restrain your hands [from fighting] and establish prayer and give zakāh"? But then when battle was ordained for them, at once a party of them feared men as they fear Allāh or with [even] greater fear. They said, "Our Lord, why have You decreed upon us fighting? If only You had postponed [it for] us for a short time." Say, "The enjoyment of this world is little, and the Hereafter is better for he who fears Allāh. And injustice will not be done to you, [even] as much as a thread [inside a date seed]."
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جن کو (پہلے یہ) حکم دیا گیا تھا کہ اپنے ہاتھوں کو (جنگ سے) روکے رہو اور نماز پڑھتے رہو اور زکوٰة دیتے رہو پھر جب ان پر جہاد فرض کردیا گیا تو بعض لوگ ان میں سے لوگوں سے یوں ڈرنے لگے جیسے خدا سے ڈرا کرتے ہیں بلکہ اس سے بھی زیادہ اور بڑبڑانے لگے کہ اے خدا تو نے ہم پر جہاد (جلد) کیوں فرض کردیا تھوڑی مدت اور ہمیں کیوں مہلت نہ دی (اے پیغمبر ان س)ے کہہ دو کہ دنیا کا فائدہ بہت تھوڑا ہے اور بہت اچھی چیز تو پرہیزگار کے لئے (نجات) آخرت ہے اور تم پر دھاگے برابر بھی ظلم نہیں کیا جائے گا
+
+[Open on Quran.com](https://quran.com/4/77)
+
+#### 4:84 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَقَـٰتِلْ فِى سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ ٱلْمُؤْمِنِينَ ۖ عَسَى ٱللَّهُ أَن يَكُفَّ بَأْسَ ٱلَّذِينَ كَفَرُوا۟ ۚ وَٱللَّهُ أَشَدُّ بَأْسًا وَأَشَدُّ تَنكِيلًا
+
+</div>
+
+**Word in this verse:** `يَكُفَّ` — restrain
+
+**English (Sahih International):** So fight, [O Muḥammad], in the cause of Allāh; you are not held responsible except for yourself. And encourage the believers [to join you] that perhaps Allāh will restrain the [military] might of those who disbelieve. And Allāh is greater in might and stronger in [exemplary] punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو (اے محمدﷺ) تم خدا کی راہ میں لڑو تم اپنے سوا کسی کے ذمہ دار نہیں اور مومنوں کو بھی ترغیب دو قریب ہے کہ خدا کافروں کی لڑائی کو بند کردے اور خدا لڑائی کے اعتبار سے بہت سخت ہے اور سزا کے لحاظ سے بھی بہت سخت ہے
+
+[Open on Quran.com](https://quran.com/4/84)
+
+#### 4:91 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+سَتَجِدُونَ ءَاخَرِينَ يُرِيدُونَ أَن يَأْمَنُوكُمْ وَيَأْمَنُوا۟ قَوْمَهُمْ كُلَّ مَا رُدُّوٓا۟ إِلَى ٱلْفِتْنَةِ أُرْكِسُوا۟ فِيهَا ۚ فَإِن لَّمْ يَعْتَزِلُوكُمْ وَيُلْقُوٓا۟ إِلَيْكُمُ ٱلسَّلَمَ وَيَكُفُّوٓا۟ أَيْدِيَهُمْ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ ۚ وَأُو۟لَـٰٓئِكُمْ جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَـٰنًا مُّبِينًا
+
+</div>
+
+**Word in this verse:** `وَيَكُفُّوٓا۟` — and they restrain
+
+**English (Sahih International):** You will find others who wish to obtain security from you and [to] obtain security from their people. Every time they are returned to [the influence of] disbelief, they fall back into it. So if they do not withdraw from you or offer you peace or restrain their hands, then seize them and kill them wherever you overtake them. And those - We have made for you against them a clear authorization.
+
+**Urdu (Fatah Muhammad Jalandhari):** تم کچھ اور لوگ ایسے بھی پاؤ گے جو یہ چاہتے ہیں کہ تم سے بھی امن میں رہیں اور اپنی قوم سے بھی امن میں رہیں لیکن فتنہ انگیزی کو بلائے جائیں تو اس میں اوندھے منہ گر پڑیں تو ایسے لوگ اگر تم سے (لڑنے سے) کنارہ کشی نہ کریں اور نہ تمہاری طرف (پیغام) صلح بھیجیں اور نہ اپنے ہاتھوں کو روکیں تو ان کو پکڑ لو اور جہاں پاؤ قتل کردو ان لوگوں کے مقابلے میں ہم نے تمہارے لئے سند صریح مقرر کردی ہے
+
+[Open on Quran.com](https://quran.com/4/91)
+
+#### 5:11 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَن يَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنكُمْ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
+
+</div>
+
+**Word in this verse:** `فَكَفَّ` — but He restrained
+
+**English (Sahih International):** O you who have believed, remember the favor of Allāh upon you when a people determined to extend their hands [in aggression] against you, but He withheld their hands from you; and fear Allāh. And upon Allāh let the believers rely.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! خدا نے جو تم پر احسان کیا ہے اس کو یاد کرو۔ جب ایک جماعت نے ارادہ کیا کہ تم پر دست درازی کریں تو اس نے ان کے ہاتھ روک دیئے اور خدا سے ڈرتے رہوں اور مومنو کو خدا ہی پر بھروسہ رکھنا چاہیئے
+
+[Open on Quran.com](https://quran.com/5/11)
+
+#### 5:110 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ قَالَ ٱللَّهُ يَـٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا ۖ وَإِذْ عَلَّمْتُكَ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ ۖ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى ۖ وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى ۖ وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى ۖ وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَـٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَـٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `كَفَفْتُ` — I restrained
+
+**English (Sahih International):** [The Day] when Allāh will say, "O Jesus, Son of Mary, remember My favor upon you and upon your mother when I supported you with the Pure Spirit [i.e., the angel Gabriel] and you spoke to the people in the cradle and in maturity; and [remember] when I taught you writing and wisdom and the Torah and the Gospel; and when you designed from clay [what was] like the form of a bird with My permission, then you breathed into it, and it became a bird with My permission; and you healed the blind [from birth] and the leper with My permission; and when you brought forth the dead with My permission; and when I restrained the Children of Israel from [killing] you when you came to them with clear proofs and those who disbelieved among them said, "This is not but obvious magic."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب خدا (عیسیٰ سے) فرمائے گا کہ اے عیسیٰ بن مریم! میرے ان احسانوں کو یاد کرو جو میں نے تم پر اور تمہاری والدہ پر کئے جب میں نے روح القدس (یعنی جبرئیل) سے تمہاری مدد کی تم جھولے میں اور جوان ہو کر (ایک ہی نسق پر) لوگوں سے گفتگو کرتے تھے اور جب میں نے تم کو کتاب اور دانائی اور تورات اور انجیل سکھائی اور جب تم میرے حکم سے مٹی کا جانور بنا کر اس میں پھونک مار دیتے تھے تو وہ میرے حکم سے اڑنے لگتا تھا اور مادر زاد اندھے اور سفید داغ والے کو میرے حکم سے چنگا کر دیتے تھے اور مردے کو میرے حکم سے (زندہ کرکے قبر سے) نکال کھڑا کرتے تھے اور جب میں نے بنی اسرائیل (کے ہاتھوں) کو تم سے روک دیا جب تم ان کے پاس کھلے نشان لے کر آئے تو جو ان میں سے کافر تھے کہنے لگے کہ یہ صریح جادو ہے
+
+[Open on Quran.com](https://quran.com/5/110)
+
+#### 21:39 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَوْ يَعْلَمُ ٱلَّذِينَ كَفَرُوا۟ حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ وَلَا عَن ظُهُورِهِمْ وَلَا هُمْ يُنصَرُونَ
+
+</div>
+
+**Word in this verse:** `يَكُفُّونَ` — they will avert
+
+**English (Sahih International):** If those who disbelieved but knew the time when they will not avert the Fire from their faces or from their backs and they will not be aided...
+
+**Urdu (Fatah Muhammad Jalandhari):** اے کاش کافر اس وقت کو جانیں جب وہ اپنے مونہوں پر سے (دوزخ کی) آگ کو روک نہ سکیں گے اور نہ اپنی پیٹھوں پر سے اور نہ ان کا کوئی مددگار ہوگا
+
+[Open on Quran.com](https://quran.com/21/39)
+
+#### 48:20 · [[048 Al-Fath]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَعَدَكُمُ ٱللَّهُ مَغَانِمَ كَثِيرَةً تَأْخُذُونَهَا فَعَجَّلَ لَكُمْ هَـٰذِهِۦ وَكَفَّ أَيْدِىَ ٱلنَّاسِ عَنكُمْ وَلِتَكُونَ ءَايَةً لِّلْمُؤْمِنِينَ وَيَهْدِيَكُمْ صِرَٰطًا مُّسْتَقِيمًا
+
+</div>
+
+**Word in this verse:** `وَكَفَّ` — and has withheld
+
+**English (Sahih International):** Allāh has promised you much booty that you will take [in the future] and has hastened for you this [victory] and withheld the hands of people from you - that it may be a sign for the believers and [that] He may guide you to a straight path.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے تم سے بہت سی غنیمتوں کا وعدہ فرمایا کہ تم ان کو حاصل کرو گے سو اس نے غنیمت کی تمہارے لئے جلدی فرمائی اور لوگوں کے ہاتھ تم سے روک دیئے۔ غرض یہ تھی کہ یہ مومنوں کے لئے (خدا کی) قدرت کا نمونہ ہو اور وہ تم کو سیدھے رستے پر چلائے
+
+[Open on Quran.com](https://quran.com/48/20)
+
+#### 48:24 · [[048 Al-Fath]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَهُوَ ٱلَّذِى كَفَّ أَيْدِيَهُمْ عَنكُمْ وَأَيْدِيَكُمْ عَنْهُم بِبَطْنِ مَكَّةَ مِنۢ بَعْدِ أَنْ أَظْفَرَكُمْ عَلَيْهِمْ ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا
+
+</div>
+
+**Word in this verse:** `كَفَّ` — withheld
+
+**English (Sahih International):** And it is He who withheld their hands from you and your hands from them within [the area of] Makkah after He caused you to overcome them. And ever is Allāh, of what you do, Seeing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے تم کو ان (کافروں) پر فتحیاب کرنے کے بعد سرحد مکہ میں ان کے ہاتھ تم سے اور تمہارے ہاتھ ان سے روک دیئے۔ اور جو کچھ تم کرتے ہو خدا اس کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/48/24)
+

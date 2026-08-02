@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "ذَنب"
+slug: "*nb - sins"
+surah_count: 25
+ayah_count: 36
+tags: [word, meaning]
+---
+
+# *nb - sins
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[*nb - tail]]
+
+### Meaning
+**sins** · Lemma **ذَنب**
+
+### Surahs (25)
+- [[003 Ali Imran]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[009 At-Tawbah]]
+- [[012 Yusuf]]
+- [[014 Ibrahim]]
+- [[017 Al-Isra]]
+- [[025 Al-Furqan]]
+- [[026 Ash-Shuara]]
+- [[028 Al-Qasas]]
+- [[029 Al-Ankabut]]
+- [[033 Al-Ahzab]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[046 Al-Ahqaf]]
+- [[047 Muhammad]]
+- [[048 Al-Fath]]
+- [[055 Ar-Rahman]]
+- [[061 As-Saf]]
+- [[067 Al-Mulk]]
+- [[071 Nuh]]
+- [[081 At-Takwir]]
+- [[091 Ash-Shams]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:11 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا۟ بِـَٔايَـٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ ۗ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
+
+</div>
+
+**Word in this verse:** `بِذُنُوبِهِمْ ۗ` — for their sins
+
+**English (Sahih International):** [Theirs is] like the custom of the people of Pharaoh and those before them. They denied Our signs, so Allāh seized them for their sins. And Allāh is severe in penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کا حال بھی فرعونیوں اور ان سے پہلے لوگوں کا سا ہوگا جنہوں نے ہماری آیتوں کی تکذیب کی تھی تو خدا نے ان کو ان کے گناہوں کے سبب (عذاب میں) پکڑ لیا تھا اور خدا سخت عذاب کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/3/11)
+
+#### 3:16 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ
+
+</div>
+
+**Word in this verse:** `ذُنُوبَنَا` — our sins
+
+**English (Sahih International):** Those who say, "Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire,"
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا سے التجا کرتے ہیں کہ اے پروردگار ہم ایمان لے آئے سو ہم کو ہمارے گناہ معاف فرما اور دوزخ کے عذاب سے محفوظ رکھ
+
+[Open on Quran.com](https://quran.com/3/16)
+
+#### 3:31 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `ذُنُوبَكُمْ ۗ` — your sins
+
+**English (Sahih International):** Say, [O Muḥammad], "If you should love Allāh, then follow me, [so] Allāh will love you and forgive you your sins. And Allāh is Forgiving and Merciful."
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر لوگوں سے) کہہ دو کہ اگر تم خدا کو دوست رکھتے ہو تو میری پیروی کرو خدا بھی تمہیں دوست رکھے گا اور تمہارے گناہ معاف کر دے گا اور خدا بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/3/31)
+
+#### 3:135 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ إِذَا فَعَلُوا۟ فَـٰحِشَةً أَوْ ظَلَمُوٓا۟ أَنفُسَهُمْ ذَكَرُوا۟ ٱللَّهَ فَٱسْتَغْفَرُوا۟ لِذُنُوبِهِمْ وَمَن يَغْفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمْ يُصِرُّوا۟ عَلَىٰ مَا فَعَلُوا۟ وَهُمْ يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `لِذُنُوبِهِمْ` — for their sins 
+
+**English (Sahih International):** And those who, when they commit an immorality or wrong themselves [by transgression], remember Allāh and seek forgiveness for their sins - and who can forgive sins except Allāh? - and [who] do not persist in what they have done while they know.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ کہ جب کوئی کھلا گناہ یا اپنے حق میں کوئی اور برائی کر بیٹھتے ہیں تو خدا کو یاد کرتے اور اپنے گناہوں کی بخشش مانگتے ہیں اور خدا کے سوا گناہ بخش بھی کون سکتا ہے؟ اور جان بوجھ کر اپنے افعال پر اڑے نہیں رہتے
+
+[Open on Quran.com](https://quran.com/3/135)
+
+#### 3:147 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `ذُنُوبَنَا` — our sins
+
+**English (Sahih International):** And their words were not but that they said, "Our Lord, forgive us our sins and the excess [committed] in our affairs and plant firmly our feet and give us victory over the disbelieving people."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس حالت میں) ان کے منہ سے کوئی بات نکلتی ہے تو یہی کہ اے پروردگار ہمارے گناہ اور زیادتیاں جو ہم اپنے کاموں میں کرتے رہے ہیں معاف فرما اور ہم کو ثابت قدم رکھ اور کافروں پر فتح عنایت فرما
+
+[Open on Quran.com](https://quran.com/3/147)
+
+#### 3:193 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ
+
+</div>
+
+**Word in this verse:** `ذُنُوبَنَا` — our sins
+
+**English (Sahih International):** Our Lord, indeed we have heard a caller [i.e., Prophet Muḥammad (ﷺ)] calling to faith, [saying], 'Believe in your Lord,' and we have believed. Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die among the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگارہم نے ایک ندا کرنے والے کو سنا کہ ایمان کے لیے پکار رہا تھا (یعنی) اپنے پروردگار پر ایمان لاؤ تو ہم ایمان لے آئے اے پروردگار ہمارے گناہ معاف فرما اور ہماری برائیوں کو ہم سے محو کر اور ہم کو دنیا سے نیک بندوں کے ساتھ اٹھا
+
+[Open on Quran.com](https://quran.com/3/193)
+
+#### 5:18 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَـٰرَىٰ نَحْنُ أَبْنَـٰٓؤُا۟ ٱللَّهِ وَأَحِبَّـٰٓؤُهُۥ ۚ قُلْ فَلِمَ يُعَذِّبُكُم بِذُنُوبِكُم ۖ بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ ۚ وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ ٱلْمَصِيرُ
+
+</div>
+
+**Word in this verse:** `بِذُنُوبِكُم ۖ` — for your sins
+
+**English (Sahih International):** But the Jews and the Christians say, "We are the children of Allāh and His beloved." Say, "Then why does He punish you for your sins?" Rather, you are human beings from among those He has created. He forgives whom He wills, and He punishes whom He wills. And to Allāh belongs the dominion of the heavens and the earth and whatever is between them, and to Him is the [final] destination.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہود اور نصاریٰ کہتے ہیں کہ ہم خدا کے بیٹے اور اس کے پیارے ہیں کہو کہ پھر وہ تمہاری بداعمالیوں کے سبب تمھیں عذاب کیوں دیتا ہے (نہیں) بلکہ تم اس کی مخلوقات میں (دوسروں کی طرح کے) انسان ہو وہ جسے چاہے بخشے اور جسے چاہے عذاب دے اور آسمان زمین اور جو کچھ ان دونوں میں ہے سب پر خدا ہی کی حکومت ہے اور (سب کو) اسی کی طرف لوٹ کر جانا ہے
+
+[Open on Quran.com](https://quran.com/5/18)
+
+#### 5:49 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنِ ٱحْكُم بَيْنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ وَٱحْذَرْهُمْ أَن يَفْتِنُوكَ عَنۢ بَعْضِ مَآ أَنزَلَ ٱللَّهُ إِلَيْكَ ۖ فَإِن تَوَلَّوْا۟ فَٱعْلَمْ أَنَّمَا يُرِيدُ ٱللَّهُ أَن يُصِيبَهُم بِبَعْضِ ذُنُوبِهِمْ ۗ وَإِنَّ كَثِيرًا مِّنَ ٱلنَّاسِ لَفَـٰسِقُونَ
+
+</div>
+
+**Word in this verse:** `ذُنُوبِهِمْ ۗ` — (of) their sins
+
+**English (Sahih International):** And judge, [O Muḥammad], between them by what Allāh has revealed and do not follow their inclinations and beware of them, lest they tempt you away from some of what Allāh has revealed to you. And if they turn away - then know that Allāh only intends to afflict them with some of their [own] sins. And indeed, many among the people are defiantly disobedient.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (ہم پھر تاکید کرتے ہیں کہ) جو (حکم) خدا نے نازل فرمایا ہے اسی کے مطابق ان میں فیصلہ کرنا اور ان کی خواہشوں کی پیروی نہ کرنا اور ان سے بچتے رہنا کہ کسی حکم سے جو خدا نے تم پر نازل فرمایا ہے یہ کہیں تم کو بہکانہ دیں اگر یہ نہ مانیں تو جان لو کہ خدا چاہتا ہے کہ ان کے بعض گناہوں کے سبب ان پر مصیبت نازل کرے اور اکثر لوگ تو نافرمان ہیں
+
+[Open on Quran.com](https://quran.com/5/49)
+
+#### 6:6 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ مَّكَّنَّـٰهُمْ فِى ٱلْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا ٱلسَّمَآءَ عَلَيْهِم مِّدْرَارًا وَجَعَلْنَا ٱلْأَنْهَـٰرَ تَجْرِى مِن تَحْتِهِمْ فَأَهْلَكْنَـٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ
+
+</div>
+
+**Word in this verse:** `بِذُنُوبِهِمْ` — for their sins
+
+**English (Sahih International):** Have they not seen how many generations We destroyed before them which We had established upon the earth as We have not established you? And We sent [rain from] the sky upon them in showers and made rivers flow beneath them; then We destroyed them for their sins and brought forth after them a generation of others.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے کتنی امتوں کو ہلاک کر دیا جن کے پاؤں ملک میں ایسے جما دیئے تھے کہ تمہارے پاؤں بھی ایسے نہیں جمائے اور ان پر آسمان سے لگاتار مینہ برسایا اور نہریں بنا دیں جو ان کے (مکانوں کے) نیچے بہہ رہی تھیں پھر ان کو ان کے گناہوں کے سبب ہلاک کر دیا اور ان کے بعد اور امتیں پیدا کر دیں
+
+[Open on Quran.com](https://quran.com/6/6)
+
+#### 7:100 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَلَمْ يَهْدِ لِلَّذِينَ يَرِثُونَ ٱلْأَرْضَ مِنۢ بَعْدِ أَهْلِهَآ أَن لَّوْ نَشَآءُ أَصَبْنَـٰهُم بِذُنُوبِهِمْ ۚ وَنَطْبَعُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَسْمَعُونَ
+
+</div>
+
+**Word in this verse:** `بِذُنُوبِهِمْ ۚ` — for their sins
+
+**English (Sahih International):** Has it not become clear to those who inherited the earth after its [previous] people that if We willed, We could afflict them for their sins? But We seal over their hearts so they do not hear.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان لوگوں کو جو اہلِ زمین کے (مرجانے کے) بعد زمین کے مالک ہوتے ہیں، یہ امر موجب ہدایت نہیں ہوا کہ اگر ہم چاہیں تو ان کے گناہوں کے سبب ان پر مصیبت ڈال دیں۔ اور ان کے دلوں پر مہر لگادیں کہ کچھ سن ہی نہ سکیں
+
+[Open on Quran.com](https://quran.com/7/100)
+
+_…and **26** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

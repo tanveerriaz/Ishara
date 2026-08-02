@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "أَهْل"
+slug: ">hl - people"
+surah_count: 40
+ayah_count: 120
+tags: [word, meaning]
+---
+
+# >hl - people
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[>hl - people house]]
+
+### Meaning
+**people** · Lemma **أَهْل**
+
+### Surahs (40)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[009 At-Tawbah]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[012 Yusuf]]
+- [[015 Al-Hijr]]
+- [[016 An-Nahl]]
+- [[018 Al-Kahf]]
+- [[019 Maryam]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[023 Al-Muminun]]
+- [[024 An-Nur]]
+- [[026 Ash-Shuara]]
+- [[027 An-Naml]]
+- [[028 Al-Qasas]]
+- [[029 Al-Ankabut]]
+- [[033 Al-Ahzab]]
+- [[035 Fatir]]
+- [[036 Ya-Sin]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:105 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَّا يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ وَلَا ٱلْمُشْرِكِينَ أَن يُنَزَّلَ عَلَيْكُم مِّنْ خَيْرٍ مِّن رَّبِّكُمْ ۗ وَٱللَّهُ يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+
+</div>
+
+**Word in this verse:** `أَهْلِ` — (the) People
+
+**English (Sahih International):** Neither those who disbelieve from the People of the Scripture [i.e., the Jews and Christians] nor the polytheists wish that any good should be sent down to you from your Lord. But Allāh selects for His mercy whom He wills, and Allāh is the possessor of great bounty.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں، اہل کتاب یا مشرک وہ اس بات کو پسند نہیں کرتے کہ تم پر تمہارے پروردگار کی طرف سے خیر (وبرکت) نازل ہو۔ اور خدا تو جس کو چاہتا ہے، اپنی رحمت کے ساتھ خاص کر لیتا ہے اور خدا بڑے فضل کا مالک ہے
+
+[Open on Quran.com](https://quran.com/2/105)
+
+#### 2:109 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَدَّ كَثِيرٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ لَوْ يَرُدُّونَكُم مِّنۢ بَعْدِ إِيمَـٰنِكُمْ كُفَّارًا حَسَدًا مِّنْ عِندِ أَنفُسِهِم مِّنۢ بَعْدِ مَا تَبَيَّنَ لَهُمُ ٱلْحَقُّ ۖ فَٱعْفُوا۟ وَٱصْفَحُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦٓ ۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+
+</div>
+
+**Word in this verse:** `أَهْلِ` — (the) People
+
+**English (Sahih International):** Many of the People of the Scripture wish they could turn you back to disbelief after you have believed, out of envy from themselves [even] after the truth has become clear to them. So pardon and overlook until Allāh delivers His command. Indeed, Allāh is over all things competent.
+
+**Urdu (Fatah Muhammad Jalandhari):** بہت سے اہل کتاب اپنے دل کی جلن سے یہ چاہتے ہیں کہ ایمان لا چکنے کے بعد تم کو پھر کافر بنا دیں۔ حالانکہ ان پر حق ظاہر ہو چکا ہے۔ تو تم معاف کردو اور درگزر کرو۔ یہاں تک کہ خدا اپنا (دوسرا) حکم بھیجے۔ بے شک خدا ہر بات پر قادر ہے
+
+[Open on Quran.com](https://quran.com/2/109)
+
+#### 2:126 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّ ٱجْعَلْ هَـٰذَا بَلَدًا ءَامِنًا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۖ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ ۖ وَبِئْسَ ٱلْمَصِيرُ
+
+</div>
+
+**Word in this verse:** `أَهْلَهُۥ` — its people
+
+**English (Sahih International):** And [mention] when Abraham said, "My Lord, make this a secure city and provide its people with fruits - whoever of them believes in Allāh and the Last Day." [Allāh] said, "And whoever disbelieves - I will grant him enjoyment for a little; then I will force him to the punishment of the Fire, and wretched is the destination."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے دعا کی کہ اے پروردگار، اس جگہ کو امن کا شہر بنا اور اس کے رہنے والوں میں سے جو خدا پر اور روزِ آخرت پر ایمان لائیں، ان کے کھانے کو میوے عطا کر، تو خدا نے فرمایا کہ جو کافر ہوگا، میں اس کو بھی کسی قدر متمتع کروں گا، (مگر) پھر اس کو (عذاب) دوزخ کے (بھگتنے کے) لیے ناچار کردوں گا، اور وہ بری جگہ ہے
+
+[Open on Quran.com](https://quran.com/2/126)
+
+#### 2:196 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ ۚ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۖ وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ ۚ فَإِذَآ أَمِنتُمْ فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۚ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَـٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ ۗ تِلْكَ عَشَرَةٌ كَامِلَةٌ ۗ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+
+</div>
+
+**Word in this verse:** `أَهْلُهُۥ` — his family
+
+**English (Sahih International):** And complete the ḥajj and ʿumrah for Allāh. But if you are prevented, then [offer] what can be obtained with ease of sacrificial animals. And do not shave your heads until the sacrificial animal has reached its place of slaughter. And whoever among you is ill or has an ailment of the head [making shaving necessary must offer] a ransom of fasting [three days] or charity or sacrifice. And when you are secure, then whoever performs ʿumrah [during the ḥajj months] followed by ḥajj [offers] what can be obtained with ease of sacrificial animals. And whoever cannot find [or afford such an animal] - then a fast of three days during ḥajj and of seven when you have returned [home]. Those are ten complete [days]. This is for those whose family is not in the area of al-Masjid al-Ḥarām. And fear Allāh and know that Allāh is severe in penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی خوشنودی) کے لئے حج اور عمرے کو پورا کرو۔ اور اگر (راستےمیں) روک لئے جاؤ تو جیسی قربانی میسر ہو (کردو) اور جب تک قربانی اپنے مقام پر نہ پہنچ جائے سر نہ منڈاؤ۔ اور اگر کوئی تم میں بیمار ہو یا اس کے سر میں کسی طرح کی تکلیف ہو تو (اگر وہ سر منڈالے تو) اس کے بدلے روزے رکھے یا صدقہ دے یا قربانی کرے پھر جب (تکلیف دور ہو کر) تم مطمئن ہوجاؤ تو جو (تم میں) حج کے وقت تک عمرے سے فائدہ اٹھانا چاہے وہ جیسی قربانی میسر ہو کرے۔ اور جس کو (قربانی) نہ ملے وہ تین روزے ایام حج میں رکھے اور سات جب واپس ہو۔ یہ پورے دس ہوئے۔ یہ حکم اس شخص کے لئے ہے جس کے اہل وعیال مکے میں نہ رہتے ہوں اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا سخت عذاب دینے والا ہے
+
+[Open on Quran.com](https://quran.com/2/196)
+
+#### 2:217 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍ فِيهِ ۖ قُلْ قِتَالٌ فِيهِ كَبِيرٌ ۖ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ ۚ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ ۗ وَلَا يَزَالُونَ يُقَـٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَـٰعُوا۟ ۚ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ وَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ
+
+</div>
+
+**Word in this verse:** `أَهْلِهِۦ` — its people
+
+**English (Sahih International):** They ask you about the sacred month - about fighting therein. Say, "Fighting therein is great [sin], but averting [people] from the way of Allāh and disbelief in Him and [preventing access to] al-Masjid al-Ḥarām and the expulsion of its people therefrom are greater [evil] in the sight of Allāh. And fitnah is greater than killing." And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire; they will abide therein eternally.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
+
+[Open on Quran.com](https://quran.com/2/217)
+
+#### 3:64 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ
+
+</div>
+
+**Word in this verse:** `يَـٰٓأَهْلَ` — O People
+
+**English (Sahih International):** Say, "O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh." But if they turn away, then say, "Bear witness that we are Muslims [submitting to Him]."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اے اہل کتاب جو بات ہمارے اور تمہارے دونوں کے درمیان یکساں (تسلیم کی گئی) ہے اس کی طرف آؤ وہ یہ کہ خدا کے سوا ہم کسی کی عبادت نہ کریں اور اس کے ساتھ کسی چیز کو شریک نہ بنائیں اور ہم میں سے کوئی کسی کو خدا کے سوا اپنا کار ساز نہ سمجھے اگر یہ لوگ (اس بات کو) نہ مانیں تو (ان سے) کہہ دو کہ تم گواہ رہو کہ ہم (خدا کے) فرماں بردار ہیں
+
+[Open on Quran.com](https://quran.com/3/64)
+
+#### 3:65 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تُحَآجُّونَ فِىٓ إِبْرَٰهِيمَ وَمَآ أُنزِلَتِ ٱلتَّوْرَىٰةُ وَٱلْإِنجِيلُ إِلَّا مِنۢ بَعْدِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `يَـٰٓأَهْلَ` — O People
+
+**English (Sahih International):** O People of the Scripture, why do you argue about Abraham while the Torah and the Gospel were not revealed until after him? Then will you not reason?
+
+**Urdu (Fatah Muhammad Jalandhari):** اے اہلِ کتاب تم ابراہیم کے بارے میں کیوں جھگڑتے ہو حالانکہ تورات اور انجیل ان کے بعد اتری ہیں (اور وہ پہلے ہو چکے ہیں) تو کیا تم عقل نہیں رکھتے
+
+[Open on Quran.com](https://quran.com/3/65)
+
+#### 3:69 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَدَّت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ لَوْ يُضِلُّونَكُمْ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ
+
+</div>
+
+**Word in this verse:** `أَهْلِ` — (the) People
+
+**English (Sahih International):** A faction of the People of the Scripture wish they could mislead you. But they do not mislead except themselves, and they perceive [it] not.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے اہل اسلام) بعضے اہلِ کتاب اس بات کی خواہش رکھتے ہیں کہ تم کو گمراہ کر دیں مگر یہ (تم کو کیا گمراہ کریں گے) اپنے آپ کو ہی گمراہ کر رہے ہیں اور نہیں جانتے
+
+[Open on Quran.com](https://quran.com/3/69)
+
+#### 3:70 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَأَنتُمْ تَشْهَدُونَ
+
+</div>
+
+**Word in this verse:** `يَـٰٓأَهْلَ` — O People
+
+**English (Sahih International):** O People of the Scripture, why do you disbelieve in the verses of Allāh while you witness [to their truth]?
+
+**Urdu (Fatah Muhammad Jalandhari):** اے اہلِ کتاب تم خدا کی آیتوں سے کیوں انکار کرتے ہو اور تم (تورات کو) مانتے تو ہو
+
+[Open on Quran.com](https://quran.com/3/70)
+
+#### 3:71 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `يَـٰٓأَهْلَ` — O People
+
+**English (Sahih International):** O People of the Scripture, why do you mix [i.e., confuse] the truth with falsehood and conceal the truth while you know [it]?
+
+**Urdu (Fatah Muhammad Jalandhari):** اے اہلِ کتاب تم سچ کو جھوٹ کے ساتھ خلط ملط کیوں کرتے ہو اور حق کو کیوں چھپاتے ہو اور تم جانتے بھی ہو
+
+[Open on Quran.com](https://quran.com/3/71)
+
+_…and **110** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

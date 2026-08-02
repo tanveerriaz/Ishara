@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "نَشْأَة"
+slug: "n$>p - creation"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# n$>p - creation
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[n$> - originate]]
+
+### Meaning
+**creation** · Lemma **نَشْأَة**
+
+### Surahs (3)
+- [[029 Al-Ankabut]]
+- [[053 An-Najm]]
+- [[056 Al-Waqiah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 29:20 · [[029 Al-Ankabut]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ سِيرُوا۟ فِى ٱلْأَرْضِ فَٱنظُرُوا۟ كَيْفَ بَدَأَ ٱلْخَلْقَ ۚ ثُمَّ ٱللَّهُ يُنشِئُ ٱلنَّشْأَةَ ٱلْـَٔاخِرَةَ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+
+</div>
+
+**Word in this verse:** `ٱلنَّشْأَةَ` — the creation
+
+**English (Sahih International):** Say, [O Muḥammad], "Travel through the land and observe how He began creation. Then Allāh will produce the final creation [i.e., development]. Indeed Allāh, over all things, is competent."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ ملک میں چلو پھرو اور دیکھو کہ اس نے کس طرح خلقت کو پہلی دفعہ پیدا کیا ہے پھر خدا ہی پچھلی پیدائش پیدا کرے گا۔ بےشک خدا ہر چیز پر قادر ہے
+
+[Open on Quran.com](https://quran.com/29/20)
+
+#### 53:47 · [[053 An-Najm]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ
+
+</div>
+
+**Word in this verse:** `ٱلنَّشْأَةَ` — (is) the bringing forth
+
+**English (Sahih International):** And that [incumbent] upon Him is the other [i.e., next] creation.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ (قیامت کو) اسی پر دوبارہ اٹھانا لازم ہے
+
+[Open on Quran.com](https://quran.com/53/47)
+
+#### 56:62 · [[056 Al-Waqiah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `ٱلنَّشْأَةَ` — the creation
+
+**English (Sahih International):** And you have already known the first creation, so will you not remember?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم نے پہلی پیدائش تو جان ہی لی ہے۔ پھر تم سوچتے کیوں نہیں؟
+
+[Open on Quran.com](https://quran.com/56/62)
+

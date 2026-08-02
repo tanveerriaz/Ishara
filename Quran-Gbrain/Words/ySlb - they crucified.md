@@ -1,0 +1,95 @@
+---
+type: word
+lemma: "يُصَلَّبُ"
+slug: "ySlb - they crucified"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# ySlb - they crucified
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Slb - slb]]
+
+### Meaning
+**they crucified** · Lemma **يُصَلَّبُ**
+
+### Surahs (4)
+- [[005 Al-Maidah]]
+- [[007 Al-Araf]]
+- [[020 Taha]]
+- [[026 Ash-Shuara]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 5:33 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَـٰفٍ أَوْ يُنفَوْا۟ مِنَ ٱلْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْىٌ فِى ٱلدُّنْيَا ۖ وَلَهُمْ فِى ٱلْـَٔاخِرَةِ عَذَابٌ عَظِيمٌ
+
+</div>
+
+**Word in this verse:** `يُصَلَّبُوٓا۟` — they be crucified
+
+**English (Sahih International):** Indeed, the penalty for those who wage war against Allāh and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment,
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا اور اس کے رسول سے لڑائی کریں اور ملک میں فساد کرنے کو دوڑتے پھریں ان کی یہی سزا ہے کہ قتل کر دیئے جائیں یا سولی چڑھا دیئے جائیں یا ان کے ایک ایک طرف کے ہاتھ اور ایک ایک طرف کے پاؤں کاٹ دیئے جائیں یا ملک سے نکال دیئے جائیں یہ تو دنیا میں ان کی رسوائی ہے اور آخرت میں ان کے لیے بڑا (بھاری) عذاب تیار ہے
+
+[Open on Quran.com](https://quran.com/5/33)
+
+#### 7:124 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍ ثُمَّ لَأُصَلِّبَنَّكُمْ أَجْمَعِينَ
+
+</div>
+
+**Word in this verse:** `لَأُصَلِّبَنَّكُمْ` — I will surely crucify you
+
+**English (Sahih International):** I will surely cut off your hands and your feet on opposite sides; then I will surely crucify you all."
+
+**Urdu (Fatah Muhammad Jalandhari):** میں (پہلے تو) تمہارے ایک طرف کے ہاتھ اور دوسری طرف کے پاؤں کٹوا دوں گا پھر تم سب کو سولی چڑھوا دوں گا
+
+[Open on Quran.com](https://quran.com/7/124)
+
+#### 20:71 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ ۖ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ ٱلنَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًا وَأَبْقَىٰ
+
+</div>
+
+**Word in this verse:** `وَلَأُصَلِّبَنَّكُمْ` — and surely I will crucify you
+
+**English (Sahih International):** [Pharaoh] said, "You believed him [i.e., Moses] before I gave you permission. Indeed, he is your leader who has taught you magic. So I will surely cut off your hands and your feet on opposite sides, and I will crucify you on the trunks of palm trees, and you will surely know which of us is more severe in [giving] punishment and more enduring."
+
+**Urdu (Fatah Muhammad Jalandhari):** (فرعون) بولا کہ پیشتر اس کے میں تمہیں اجازت دوں تم اس پر ایمان لے آئے۔ بےشک وہ تمہارا بڑا (یعنی استاد) ہے جس نے تم کو جادو سکھایا ہے۔ سو میں تمہارے ہاتھ اور پاؤں (جانب) خلاف سے کٹوا دوں گا اور کھجور کے تنوں پر سولی چڑھوا دوں گا (اس وقت) تم کو معلوم ہوگا کہ ہم میں سے کس کا عذاب زیادہ سخت اور دیر تک رہنے والا ہے
+
+[Open on Quran.com](https://quran.com/20/71)
+
+#### 26:49 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ فَلَسَوْفَ تَعْلَمُونَ ۚ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍ وَلَأُصَلِّبَنَّكُمْ أَجْمَعِينَ
+
+</div>
+
+**Word in this verse:** `وَلَأُصَلِّبَنَّكُمْ` — and I will surely crucify you
+
+**English (Sahih International):** [Pharaoh] said, "You believed him [i.e., Moses] before I gave you permission. Indeed, he is your leader who has taught you magic, but you are going to know. I will surely cut off your hands and your feet on opposite sides, and I will surely crucify you all."
+
+**Urdu (Fatah Muhammad Jalandhari):** فرعون نے کہا کیا اس سے پہلے کہ میں تم کو اجازت دوں تم اس پر ایمان لے آئے، بےشک یہ تمہارا بڑا ہے جس نے تم کو جادو سکھایا ہے۔ سو عنقریب تم (اس کا انجام) معلوم کرلو گے کہ میں تمہارے ہاتھ اور پاؤں اطراف مخالف سے کٹوا دوں گا اور تم سب کو سولی پر چڑھوا دوں گا
+
+[Open on Quran.com](https://quran.com/26/49)
+

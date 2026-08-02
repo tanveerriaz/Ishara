@@ -1,0 +1,112 @@
+---
+type: word
+lemma: "فَوْج"
+slug: "fwj - troop"
+surah_count: 5
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# fwj - troop
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[fwj - fawj]]
+
+### Meaning
+**troop** · Lemma **فَوْج**
+
+### Surahs (5)
+- [[027 An-Naml]]
+- [[038 Sad]]
+- [[067 Al-Mulk]]
+- [[078 An-Naba]]
+- [[110 An-Nasr]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 27:83 · [[027 An-Naml]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ بِـَٔايَـٰتِنَا فَهُمْ يُوزَعُونَ
+
+</div>
+
+**Word in this verse:** `فَوْجًۭا` — a troop
+
+**English (Sahih International):** And [warn of] the Day when We will gather from every nation a company of those who deny Our signs, and they will be [driven] in rows
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس روز ہم ہر اُمت میں سے اس گروہ کو جمع کریں گے جو ہماری آیتوں کی تکذیب کرتے تھے تو اُن کی جماعت بندی کی جائے گی
+
+[Open on Quran.com](https://quran.com/27/83)
+
+#### 38:59 · [[038 Sad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هَـٰذَا فَوْجٌ مُّقْتَحِمٌ مَّعَكُمْ ۖ لَا مَرْحَبًۢا بِهِمْ ۚ إِنَّهُمْ صَالُوا۟ ٱلنَّارِ
+
+</div>
+
+**Word in this verse:** `فَوْجٌۭ` — (is) a company
+
+**English (Sahih International):** [Its inhabitants will say], "This is a company bursting in with you. No welcome for them. Indeed, they will burn in the Fire."
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ ایک فوج ہے جو تمہارے ساتھ داخل ہوگی۔ ان کو خوشی نہ ہو یہ دوزخ میں جانے والے ہیں
+
+[Open on Quran.com](https://quran.com/38/59)
+
+#### 67:8 · [[067 Al-Mulk]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ
+
+</div>
+
+**Word in this verse:** `فَوْجٌۭ` — a group
+
+**English (Sahih International):** It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, "Did there not come to you a warner?"
+
+**Urdu (Fatah Muhammad Jalandhari):** گویا مارے جوش کے پھٹ پڑے گی۔ جب اس میں ان کی کوئی جماعت ڈالی جائے گی تو دوزخ کے داروغہ ان سے پوچھیں گے کہ تمہارے پاس کوئی ہدایت کرنے والا نہیں آیا تھا؟
+
+[Open on Quran.com](https://quran.com/67/8)
+
+#### 78:18 · [[078 An-Naba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا
+
+</div>
+
+**Word in this verse:** `أَفْوَاجًۭا` — (in) crowds
+
+**English (Sahih International):** The Day the Horn is blown and you will come forth in multitudes
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن صور پھونکا جائے گا تو تم لوگ غٹ کے غٹ آ موجود ہو گے
+
+[Open on Quran.com](https://quran.com/78/18)
+
+#### 110:2 · [[110 An-Nasr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا
+
+</div>
+
+**Word in this verse:** `أَفْوَاجًۭا` — (in) multitudes
+
+**English (Sahih International):** And you see the people entering into the religion of Allāh in multitudes,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم نے دیکھ لیا کہ لوگ غول کے غول خدا کے دین میں داخل ہو رہے ہیں
+
+[Open on Quran.com](https://quran.com/110/2)
+

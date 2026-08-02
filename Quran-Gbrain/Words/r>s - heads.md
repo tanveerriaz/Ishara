@@ -1,0 +1,204 @@
+---
+type: word
+lemma: "رَأْس"
+slug: "r>s - heads"
+surah_count: 15
+ayah_count: 17
+tags: [word, meaning]
+---
+
+# r>s - heads
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[r>s - head anything]]
+
+### Meaning
+**heads** · Lemma **رَأْس**
+
+### Surahs (15)
+- [[002 Al-Baqarah]]
+- [[005 Al-Maidah]]
+- [[007 Al-Araf]]
+- [[012 Yusuf]]
+- [[014 Ibrahim]]
+- [[017 Al-Isra]]
+- [[019 Maryam]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[022 Al-Hajj]]
+- [[032 As-Sajdah]]
+- [[037 As-Saffat]]
+- [[044 Ad-Dukhan]]
+- [[048 Al-Fath]]
+- [[063 Al-Munafiqun]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:196 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ ۚ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۖ وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ ۚ فَإِذَآ أَمِنتُمْ فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۚ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَـٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ ۗ تِلْكَ عَشَرَةٌ كَامِلَةٌ ۗ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+
+</div>
+
+**Word in this verse:** `رُءُوسَكُمْ` — your heads
+
+**English (Sahih International):** And complete the ḥajj and ʿumrah for Allāh. But if you are prevented, then [offer] what can be obtained with ease of sacrificial animals. And do not shave your heads until the sacrificial animal has reached its place of slaughter. And whoever among you is ill or has an ailment of the head [making shaving necessary must offer] a ransom of fasting [three days] or charity or sacrifice. And when you are secure, then whoever performs ʿumrah [during the ḥajj months] followed by ḥajj [offers] what can be obtained with ease of sacrificial animals. And whoever cannot find [or afford such an animal] - then a fast of three days during ḥajj and of seven when you have returned [home]. Those are ten complete [days]. This is for those whose family is not in the area of al-Masjid al-Ḥarām. And fear Allāh and know that Allāh is severe in penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی خوشنودی) کے لئے حج اور عمرے کو پورا کرو۔ اور اگر (راستےمیں) روک لئے جاؤ تو جیسی قربانی میسر ہو (کردو) اور جب تک قربانی اپنے مقام پر نہ پہنچ جائے سر نہ منڈاؤ۔ اور اگر کوئی تم میں بیمار ہو یا اس کے سر میں کسی طرح کی تکلیف ہو تو (اگر وہ سر منڈالے تو) اس کے بدلے روزے رکھے یا صدقہ دے یا قربانی کرے پھر جب (تکلیف دور ہو کر) تم مطمئن ہوجاؤ تو جو (تم میں) حج کے وقت تک عمرے سے فائدہ اٹھانا چاہے وہ جیسی قربانی میسر ہو کرے۔ اور جس کو (قربانی) نہ ملے وہ تین روزے ایام حج میں رکھے اور سات جب واپس ہو۔ یہ پورے دس ہوئے۔ یہ حکم اس شخص کے لئے ہے جس کے اہل وعیال مکے میں نہ رہتے ہوں اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا سخت عذاب دینے والا ہے
+
+[Open on Quran.com](https://quran.com/2/196)
+
+#### 2:279 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍ مِّنَ ٱللَّهِ وَرَسُولِهِۦ ۖ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ
+
+</div>
+
+**Word in this verse:** `رُءُوسُ` — (is)
+
+**English (Sahih International):** And if you do not, then be informed of a war [against you] from Allāh and His Messenger. But if you repent, you may have your principal - [thus] you do no wrong, nor are you wronged.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر ایسا نہ کرو گے تو خبردار ہوجاؤ (کہ تم) خدا اور رسول سے جنگ کرنے کے لئے (تیار ہوتے ہو) اور اگر توبہ کرلو گے (اور سود چھوڑ دو گے) تو تم کو اپنی اصل رقم لینے کا حق ہے جس میں نہ اوروں کا نقصان اور تمہارا نقصان
+
+[Open on Quran.com](https://quran.com/2/279)
+
+#### 5:6 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَـٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ
+
+</div>
+
+**Word in this verse:** `بِرُءُوسِكُمْ` — your heads
+
+**English (Sahih International):** O you who have believed, when you rise to [perform] prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of janābah, then purify yourselves. But if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women and do not find water, then seek clean earth and wipe over your faces and hands with it. Allāh does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم نماز پڑھنے کا قصد کیا کرو تم منہ اور کہنیوں تک ہاتھ دھو لیا کرو اور سر کا مسح کر لیا کرو اور ٹخنوں تک پاؤں (دھو لیا کرو) اور اگر نہانے کی حاجت ہو تو (نہا کر) پاک ہو جایا کرو اور اگر بیمار ہو یا سفر میں ہو یا کوئی تم میں سے بیت الخلا سے ہو کر آیا ہو یا تم عورتوں سے ہم بستر ہوئے ہو اور تمہیں پانی نہ مل سکے تو پاک مٹی لو اور اس سے منہ اور ہاتھوں کا مسح (یعنی تیمم) کر لو۔ خدا تم پر کسی طرح کی تنگی نہیں کرنا چاہتا بلکہ یہ چاہتا ہے کہ تمہیں پاک کرے اور اپنی نعمتیں تم پر پوری کرے تاکہ تم شکر کرو
+
+[Open on Quran.com](https://quran.com/5/6)
+
+#### 7:150 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَـٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ بَعْدِىٓ ۖ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ ۖ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيْهِ ۚ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `بِرَأْسِ` — by head
+
+**English (Sahih International):** And when Moses returned to his people, angry and grieved, he said, "How wretched is that by which you have replaced me after [my departure]. Were you impatient over the matter of your Lord?" And he threw down the tablets and seized his brother by [the hair of] his head, pulling him toward him. [Aaron] said, "O son of my mother, indeed the people overpowered me and were about to kill me, so let not the enemies rejoice over me and do not place me among the wrongdoing people."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ اپنی قوم میں نہایت غصے اور افسوس کی حالت میں واپس آئے۔ تو کہنے لگے کہ تم نے میرے بعد بہت ہی بداطواری کی۔ کیا تم نے اپنے پروردگار کا حکم (یعنی میرا اپنے پاس آنا) جلد چاہا (یہ کہا) اور (شدت غضب سے تورات کی) تختیاں ڈال دیں اور اپنے بھائی کے سر (کے بالوں) کو پکڑ کر اپنی طرف کھینچنے لگے۔ انہوں نے کہا کہ بھائی جان لوگ تو مجھے کمزور سمجھتے تھے اور قریب تھا کہ قتل کردیں۔ تو ایسا کام نہ کیجیے کہ دشمن مجھ پر ہنسیں اور مجھے ظالم لوگوں میں مت ملایئے
+
+[Open on Quran.com](https://quran.com/7/150)
+
+#### 12:36 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ ۖ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًا ۖ وَقَالَ ٱلْـَٔاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًا تَأْكُلُ ٱلطَّيْرُ مِنْهُ ۖ نَبِّئْنَا بِتَأْوِيلِهِۦٓ ۖ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ
+
+</div>
+
+**Word in this verse:** `رَأْسِى` — my head
+
+**English (Sahih International):** And there entered the prison with him two young men. One of them said, "Indeed, I have seen myself [in a dream] pressing [grapes for] wine." The other said, "Indeed, I have seen myself carrying upon my head [some] bread, from which the birds were eating. Inform us of its interpretation; indeed, we see you to be of those who do good."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے ساتھ دو اور جوان بھی داخل زندان ہوئے۔ ایک نے ان میں سے کہا کہ (میں نے خواب دیکھا ہے) دیکھتا (کیا) ہوں کہ شراب (کے لیے انگور) نچوڑ رہا ہوں۔ دوسرے نے کہا کہ (میں نے بھی خواب دیکھا ہے) میں یہ دیکھتا ہوں کہ اپنے سر پر روٹیاں اٹھائے ہوئے ہوں اور جانور ان میں سے کھا رہے (ہیں تو) ہمیں ان کی تعبیر بتا دیجیئے کہ ہم تمہیں نیکوکار دیکھتے ہیں
+
+[Open on Quran.com](https://quran.com/12/36)
+
+#### 12:41 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰصَـٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًا ۖ وَأَمَّا ٱلْـَٔاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ ۚ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ
+
+</div>
+
+**Word in this verse:** `رَّأْسِهِۦ ۚ` — his head
+
+**English (Sahih International):** O two companions of prison, as for one of you, he will give drink to his master of wine; but as for the other, he will be crucified, and the birds will eat from his head. The matter has been decreed about which you both inquire."
+
+**Urdu (Fatah Muhammad Jalandhari):** میرے جیل خانے کے رفیقو! تم میں سے ایک (جو پہلا خواب بیان کرنے والا ہے وہ) تو اپنے آقا کو شراب پلایا کرے گا اور جو دوسرا ہے وہ سولی دیا جائے گا اور جانور اس کا سر کھا جائیں گے۔ جو امر تم مجھ سے پوچھتے تھے وہ فیصلہ ہوچکا ہے
+
+[Open on Quran.com](https://quran.com/12/41)
+
+#### 14:43 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مُهْطِعِينَ مُقْنِعِى رُءُوسِهِمْ لَا يَرْتَدُّ إِلَيْهِمْ طَرْفُهُمْ ۖ وَأَفْـِٔدَتُهُمْ هَوَآءٌ
+
+</div>
+
+**Word in this verse:** `رُءُوسِهِمْ` — their heads
+
+**English (Sahih International):** Racing ahead, their heads raised up, their glance does not come back to them, and their hearts are void.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور لوگ) سر اٹھائے ہوئے (میدان قیامت کی طرف) دوڑ رہے ہوں گے ان کی نگاہیں ان کی طرف لوٹ نہ سکیں گی اور ان کے دل (مارے خوف کے) ہوا ہو رہے ہوں گے
+
+[Open on Quran.com](https://quran.com/14/43)
+
+#### 17:51 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوْ خَلْقًا مِّمَّا يَكْبُرُ فِى صُدُورِكُمْ ۚ فَسَيَقُولُونَ مَن يُعِيدُنَا ۖ قُلِ ٱلَّذِى فَطَرَكُمْ أَوَّلَ مَرَّةٍ ۚ فَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ ۖ قُلْ عَسَىٰٓ أَن يَكُونَ قَرِيبًا
+
+</div>
+
+**Word in this verse:** `رُءُوسَهُمْ` — their heads
+
+**English (Sahih International):** Or [any] creation of that which is great within your breasts." And they will say, "Who will restore us?" Say, "He who brought you forth the first time." Then they will nod their heads toward you and say, "When is that?" Say, "Perhaps it will be soon -
+
+**Urdu (Fatah Muhammad Jalandhari):** یا کوئی اور چیز جو تمہارے نزدیک (پتھر اور لوہے سے بھی) بڑی (سخت) ہو (جھٹ کہیں گے) کہ (بھلا) ہمیں دوبارہ کون جِلائے گا؟ کہہ دو کہ وہی جس نے تم کو پہلی بار پیدا کیا۔ تو (تعجب سے) تمہارے آگے سرہلائیں گے اور پوچھیں گے کہ ایسا کب ہوگا؟ کہہ دو کہ امید ہے جلد ہوگا
+
+[Open on Quran.com](https://quran.com/17/51)
+
+#### 19:4 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّا
+
+</div>
+
+**Word in this verse:** `ٱلرَّأْسُ` — (my) head
+
+**English (Sahih International):** He said, "My Lord, indeed my bones have weakened, and my head has filled with white, and never have I been in my supplication to You, my Lord, unhappy [i.e., disappointed].
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور) کہا کہ اے میرے پروردگار میری ہڈیاں بڑھاپے کے سبب کمزور ہوگئی ہیں اور سر (ہے کہ) بڑھاپے (کی وجہ سے) شعلہ مارنے لگا ہے اور اے میرے پروردگار میں تجھ سے مانگ کر کبھی محروم نہیں رہا
+
+[Open on Quran.com](https://quran.com/19/4)
+
+#### 20:94 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ ۖ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى
+
+</div>
+
+**Word in this verse:** `بِرَأْسِىٓ ۖ` — by my head
+
+**English (Sahih International):** [Aaron] said, "O son of my mother, do not seize [me] by my beard or by my head. Indeed, I feared that you would say, 'You caused division among the Children of Israel, and you did not observe [or await] my word.'"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہنے لگے کہ بھائی میری ڈاڑھی اور سر (کے بالوں) کو نہ پکڑیئے۔ میں تو اس سے ڈرا کہ آپ یہ نہ کہیں کہ تم نے بنی اسرائیل میں تفرقہ ڈال دیا اور میری بات کو ملحوظ نہ رکھا
+
+[Open on Quran.com](https://quran.com/20/94)
+
+_…and **7** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

@@ -1,0 +1,201 @@
+---
+type: word
+lemma: "يُسْر"
+slug: "ysr - ease"
+surah_count: 12
+ayah_count: 18
+tags: [word, meaning]
+---
+
+# ysr - ease
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[ysr - ysr]]
+
+### Meaning
+**ease** · Lemma **يُسْر**
+
+### Surahs (12)
+- [[002 Al-Baqarah]]
+- [[018 Al-Kahf]]
+- [[019 Maryam]]
+- [[020 Taha]]
+- [[044 Ad-Dukhan]]
+- [[051 Adh-Dhariyat]]
+- [[054 Al-Qamar]]
+- [[065 At-Talaq]]
+- [[080 Abasa]]
+- [[087 Al-Ala]]
+- [[092 Al-Layl]]
+- [[094 Ash-Sharh]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:185 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًى لِّلنَّاسِ وَبَيِّنَـٰتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ ۚ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ ۖ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ۗ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْيُسْرَ` — [the] ease
+
+**English (Sahih International):** The month of Ramaḍān [is that] in which was revealed the Qur’ān, a guidance for the people and clear proofs of guidance and criterion. So whoever sights [the crescent of] the month, let him fast it; and whoever is ill or on a journey - then an equal number of other days. Allāh intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allāh for that [to] which He has guided you; and perhaps you will be grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** (روزوں کا مہینہ) رمضان کا مہینہ (ہے) جس میں قرآن (اول اول) نازل ہوا جو لوگوں کا رہنما ہے اور (جس میں) ہدایت کی کھلی نشانیاں ہیں اور (جو حق و باطل کو) الگ الگ کرنے والا ہے تو جو کوئی تم میں سے اس مہینے میں موجود ہو چاہیئے کہ پورے مہینے کے روزے رکھے اور جو بیمار ہو یا سفر میں ہو تو دوسرے دنوں میں (رکھ کر) ان کا شمار پورا کرلے۔ خدا تمہارے حق میں آسانی چاہتا ہے اور سختی نہیں چاہتا اور (یہ آسانی کا حکم) اس لئے (دیا گیا ہے) کہ تم روزوں کا شمار پورا کرلو اور اس احسان کے بدلے کہ خدا نے تم کو ہدایت بخشی ہے تم اس کو بزرگی سے یاد کر واور اس کا شکر کرو
+
+[Open on Quran.com](https://quran.com/2/185)
+
+#### 18:88 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَمَّا مَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًا فَلَهُۥ جَزَآءً ٱلْحُسْنَىٰ ۖ وَسَنَقُولُ لَهُۥ مِنْ أَمْرِنَا يُسْرًا
+
+</div>
+
+**Word in this verse:** `يُسْرًۭا` — (with) ease
+
+**English (Sahih International):** But as for one who believes and does righteousness, he will have a reward of the best [i.e., Paradise], and we [i.e., Dhul-Qarnayn] will speak to him from our command with ease."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو ایمان لائے گا اور عمل نیک کرے گا اس کے لئے بہت اچھا بدلہ ہے۔ اور ہم اپنے معاملے میں (اس پر کسی طرح کی سختی نہیں کریں گے بلکہ) اس سے نرم بات کہیں گے
+
+[Open on Quran.com](https://quran.com/18/88)
+
+#### 19:97 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ ٱلْمُتَّقِينَ وَتُنذِرَ بِهِۦ قَوْمًا لُّدًّا
+
+</div>
+
+**Word in this verse:** `يَسَّرْنَـٰهُ` — We (have) made it easy
+
+**English (Sahih International):** So, [O Muḥammad], We have only made it [i.e., the Qur’ān] easy in your tongue [i.e., the Arabic language] that you may give good tidings thereby to the righteous and warn thereby a hostile people.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) ہم نے یہ (قرآن) تمہاری زبان میں آسان (نازل) کیا ہے تاکہ تم اس سے پرہیزگاروں کو خوشخبری پہنچا دو اور جھگڑالوؤں کو ڈر سنا دو
+
+[Open on Quran.com](https://quran.com/19/97)
+
+#### 20:26 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَسِّرْ لِىٓ أَمْرِى
+
+</div>
+
+**Word in this verse:** `وَيَسِّرْ` — And ease
+
+**English (Sahih International):** And ease for me my task
+
+**Urdu (Fatah Muhammad Jalandhari):** اور میرا کام آسان کردے
+
+[Open on Quran.com](https://quran.com/20/26)
+
+#### 44:58 · [[044 Ad-Dukhan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `يَسَّرْنَـٰهُ` — We have made it easy
+
+**English (Sahih International):** And indeed, We have eased it [i.e., the Qur’ān] in your tongue that they might be reminded.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے اس (قرآن) کو تمہاری زبان میں آسان کردیا ہے تاکہ یہ لوگ نصیحت پکڑیں
+
+[Open on Quran.com](https://quran.com/44/58)
+
+#### 51:3 · [[051 Adh-Dhariyat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱلْجَـٰرِيَـٰتِ يُسْرًا
+
+</div>
+
+**Word in this verse:** `يُسْرًۭا` — (with) ease
+
+**English (Sahih International):** And the ships sailing with ease
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر آہستہ آہستہ چلتی ہیں
+
+[Open on Quran.com](https://quran.com/51/3)
+
+#### 54:17 · [[054 Al-Qamar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
+
+</div>
+
+**Word in this verse:** `يَسَّرْنَا` — We have made easy
+
+**English (Sahih International):** And We have certainly made the Qur’ān easy for remembrance, so is there any who will remember?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن کو سمجھنے کے لئے آسان کردیا ہے تو کوئی ہے کہ سوچے سمجھے؟
+
+[Open on Quran.com](https://quran.com/54/17)
+
+#### 54:22 · [[054 Al-Qamar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
+
+</div>
+
+**Word in this verse:** `يَسَّرْنَا` — We have made easy
+
+**English (Sahih International):** And We have certainly made the Qur’ān easy for remembrance, so is there any who will remember?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن کو سمجھنے کے لئے آسان کردیا ہے تو کوئی ہے کہ سوچے سمجھے؟
+
+[Open on Quran.com](https://quran.com/54/22)
+
+#### 54:32 · [[054 Al-Qamar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
+
+</div>
+
+**Word in this verse:** `يَسَّرْنَا` — We have made easy
+
+**English (Sahih International):** And We have certainly made the Qur’ān easy for remembrance, so is there any who will remember?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن کو سمجھنے کے لئے آسان کردیا ہے تو کوئی ہے کہ سوچے سمجھے؟
+
+[Open on Quran.com](https://quran.com/54/32)
+
+#### 54:40 · [[054 Al-Qamar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ
+
+</div>
+
+**Word in this verse:** `يَسَّرْنَا` — We have made easy
+
+**English (Sahih International):** And We have certainly made the Qur’ān easy for remembrance, so is there any who will remember?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن کو سمجھنے کے لئے آسان کردیا ہے تو کوئی ہے کہ سوچے سمجھے؟
+
+[Open on Quran.com](https://quran.com/54/40)
+
+_…and **8** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

@@ -1,0 +1,162 @@
+---
+type: word
+lemma: "جَدِيد"
+slug: "jdyd - new"
+surah_count: 7
+ayah_count: 8
+tags: [word, meaning]
+---
+
+# jdyd - new
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[jdd - jadd]]
+
+### Meaning
+**new** · Lemma **جَدِيد**
+
+### Surahs (7)
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[017 Al-Isra]]
+- [[032 As-Sajdah]]
+- [[034 Saba]]
+- [[035 Fatir]]
+- [[050 Qaf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 13:5 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَإِن تَعْجَبْ فَعَجَبٌ قَوْلُهُمْ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا لَفِى خَلْقٍ جَدِيدٍ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ ٱلْأَغْلَـٰلُ فِىٓ أَعْنَاقِهِمْ ۖ وَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ
+
+</div>
+
+**Word in this verse:** `جَدِيدٍ ۗ` — new
+
+**English (Sahih International):** And if you are astonished, [O Muḥammad] - then astonishing is their saying, "When we are dust, will we indeed be [brought] into a new creation?" Those are the ones who have disbelieved in their Lord, and those will have shackles upon their necks, and those are the companions of the Fire; they will abide therein eternally.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم عجیب بات سننی چاہو تو کافروں کا یہ کہنا عجیب ہے کہ جب ہم (مر کر) مٹی ہو جائیں گے تو کیا ازسرنو پیدا ہوں گے؟ یہی لوگ ہیں جو اپنے پروردگار سے منکر ہوئے ہیں۔ اور یہی ہیں جن کی گردنوں میں طوق ہوں گے اور یہی اہل دوزخ ہیں کہ ہمیشہ اس میں (جلتے) رہیں گے
+
+[Open on Quran.com](https://quran.com/13/5)
+
+#### 14:19 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ تَرَ أَنَّ ٱللَّهَ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ
+
+</div>
+
+**Word in this verse:** `جَدِيدٍۢ` — new
+
+**English (Sahih International):** Have you not seen [i.e., considered] that Allāh created the heavens and the earth in truth? If He wills, He can do away with you and produce a new creation.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا نے آسمانوں اور زمین کو تدبیر سے پیدا کیا ہے۔ اگر وہ چاہے تو تم کو نابود کر دے اور (تمہاری جگہ) نئی مخلوق پیدا کر دے
+
+[Open on Quran.com](https://quran.com/14/19)
+
+#### 17:49 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَـٰمًا وَرُفَـٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا
+
+</div>
+
+**Word in this verse:** `جَدِيدًۭا` — new
+
+**English (Sahih International):** And they say, "When we are bones and crumbled particles, will we [truly] be resurrected as a new creation?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ جب ہم (مر کر بوسیدہ) ہڈیوں اور چُور چُور ہوجائیں گے تو کیا ازسرنو پیدا ہو کر اُٹھیں گے
+
+[Open on Quran.com](https://quran.com/17/49)
+
+#### 17:98 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمْ كَفَرُوا۟ بِـَٔايَـٰتِنَا وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَـٰمًا وَرُفَـٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا
+
+</div>
+
+**Word in this verse:** `جَدِيدًا` — new
+
+**English (Sahih International):** That is their recompense because they disbelieved in Our verses and said, "When we are bones and crumbled particles, will we [truly] be resurrected [in] a new creation?"
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ ان کی سزا ہے اس لئے کہ وہ ہماری آیتوں سے کفر کرتے تھے اور کہتے تھے کہ جب ہم (مر کر بوسیدہ) ہڈیاں اور ریزہ ریزہ ہوجائیں گے تو کیا ازسرنو پیدا کئے جائیں گے
+
+[Open on Quran.com](https://quran.com/17/98)
+
+#### 32:10 · [[032 As-Sajdah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوٓا۟ أَءِذَا ضَلَلْنَا فِى ٱلْأَرْضِ أَءِنَّا لَفِى خَلْقٍ جَدِيدٍۭ ۚ بَلْ هُم بِلِقَآءِ رَبِّهِمْ كَـٰفِرُونَ
+
+</div>
+
+**Word in this verse:** `جَدِيدٍۭ ۚ` — new
+
+**English (Sahih International):** And they say, "When we are lost [i.e., disintegrated] within the earth, will we indeed be [recreated] in a new creation?" Rather, they are, in the meeting with their Lord, disbelievers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہنے لگے کہ جب ہم زمین میں ملیامیٹ ہوجائیں گے تو کیا ازسرنو پیدا ہوں گے۔ حقیقت یہ ہے کہ یہ لوگ اپنے پروردگار کے سامنے جانے ہی کے قائل نہیں
+
+[Open on Quran.com](https://quran.com/32/10)
+
+#### 34:7 · [[034 Saba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ ٱلَّذِينَ كَفَرُوا۟ هَلْ نَدُلُّكُمْ عَلَىٰ رَجُلٍ يُنَبِّئُكُمْ إِذَا مُزِّقْتُمْ كُلَّ مُمَزَّقٍ إِنَّكُمْ لَفِى خَلْقٍ جَدِيدٍ
+
+</div>
+
+**Word in this verse:** `جَدِيدٍ` — new
+
+**English (Sahih International):** But those who disbelieve say, "Shall we direct you to a man who will inform you [that] when you have disintegrated in complete disintegration, you will [then] be [recreated] in a new creation?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر کہتے ہیں کہ بھلا ہم تمہیں ایسا آدمی بتائیں جو تمہیں خبر دیتا ہے کہ جب تم (مر کر) بالکل پارہ پارہ ہو جاؤ گے تو نئے سرے سے پیدا ہوگے
+
+[Open on Quran.com](https://quran.com/34/7)
+
+#### 35:16 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ
+
+</div>
+
+**Word in this verse:** `جَدِيدٍۢ` — new
+
+**English (Sahih International):** If He wills, He can do away with you and bring forth a new creation.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر چاہے تو تم کو نابود کردے اور نئی مخلوقات لا آباد کرے
+
+[Open on Quran.com](https://quran.com/35/16)
+
+#### 50:15 · [[050 Qaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ بَلْ هُمْ فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ
+
+</div>
+
+**Word in this verse:** `جَدِيدٍۢ` — new
+
+**English (Sahih International):** Did We fail in the first creation? But they are in confusion over a new creation.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا ہم پہلی بار پیدا کرکے تھک گئے ہیں؟ (نہیں) بلکہ یہ ازسرنو پیدا کرنے میں شک میں (پڑے ہوئے) ہیں
+
+[Open on Quran.com](https://quran.com/50/15)
+

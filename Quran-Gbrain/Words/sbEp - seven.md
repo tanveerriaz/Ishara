@@ -1,0 +1,95 @@
+---
+type: word
+lemma: "سَبْعَة"
+slug: "sbEp - seven"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# sbEp - seven
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[sbE - sbe]]
+
+### Meaning
+**seven** · Lemma **سَبْعَة**
+
+### Surahs (4)
+- [[002 Al-Baqarah]]
+- [[015 Al-Hijr]]
+- [[018 Al-Kahf]]
+- [[031 Luqman]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:196 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ ۚ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۖ وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ ۚ فَإِذَآ أَمِنتُمْ فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۚ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَـٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ ۗ تِلْكَ عَشَرَةٌ كَامِلَةٌ ۗ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+
+</div>
+
+**Word in this verse:** `وَسَبْعَةٍ` — and seven (days)
+
+**English (Sahih International):** And complete the ḥajj and ʿumrah for Allāh. But if you are prevented, then [offer] what can be obtained with ease of sacrificial animals. And do not shave your heads until the sacrificial animal has reached its place of slaughter. And whoever among you is ill or has an ailment of the head [making shaving necessary must offer] a ransom of fasting [three days] or charity or sacrifice. And when you are secure, then whoever performs ʿumrah [during the ḥajj months] followed by ḥajj [offers] what can be obtained with ease of sacrificial animals. And whoever cannot find [or afford such an animal] - then a fast of three days during ḥajj and of seven when you have returned [home]. Those are ten complete [days]. This is for those whose family is not in the area of al-Masjid al-Ḥarām. And fear Allāh and know that Allāh is severe in penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی خوشنودی) کے لئے حج اور عمرے کو پورا کرو۔ اور اگر (راستےمیں) روک لئے جاؤ تو جیسی قربانی میسر ہو (کردو) اور جب تک قربانی اپنے مقام پر نہ پہنچ جائے سر نہ منڈاؤ۔ اور اگر کوئی تم میں بیمار ہو یا اس کے سر میں کسی طرح کی تکلیف ہو تو (اگر وہ سر منڈالے تو) اس کے بدلے روزے رکھے یا صدقہ دے یا قربانی کرے پھر جب (تکلیف دور ہو کر) تم مطمئن ہوجاؤ تو جو (تم میں) حج کے وقت تک عمرے سے فائدہ اٹھانا چاہے وہ جیسی قربانی میسر ہو کرے۔ اور جس کو (قربانی) نہ ملے وہ تین روزے ایام حج میں رکھے اور سات جب واپس ہو۔ یہ پورے دس ہوئے۔ یہ حکم اس شخص کے لئے ہے جس کے اہل وعیال مکے میں نہ رہتے ہوں اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا سخت عذاب دینے والا ہے
+
+[Open on Quran.com](https://quran.com/2/196)
+
+#### 15:44 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَهَا سَبْعَةُ أَبْوَٰبٍ لِّكُلِّ بَابٍ مِّنْهُمْ جُزْءٌ مَّقْسُومٌ
+
+</div>
+
+**Word in this verse:** `سَبْعَةُ` — (are) seven
+
+**English (Sahih International):** It has seven gates; for every gate is of them [i.e., Satan's followers] a portion designated."
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کے سات دروازے ہیں۔ ہر ایک دروازے کے لیے ان میں سے جماعتیں تقسیم کردی گئی ہیں
+
+[Open on Quran.com](https://quran.com/15/44)
+
+#### 18:22 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+سَيَقُولُونَ ثَلَـٰثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءً ظَـٰهِرًا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًا
+
+</div>
+
+**Word in this verse:** `سَبْعَةٌۭ` — (they were) seven
+
+**English (Sahih International):** They [i.e., people] will say there were three, the fourth of them being their dog; and they will say there were five, the sixth of them being their dog - guessing at the unseen; and they will say there were seven, and the eighth of them was their dog. Say, [O Muḥammad], "My Lord is most knowing of their number. None knows them except a few. So do not argue about them except with an obvious argument and do not inquire about them among [the speculators] from anyone."
+
+**Urdu (Fatah Muhammad Jalandhari):** (بعض لوگ) اٹکل پچو کہیں گے کہ وہ تین تھے (اور) چوتھا ان کا کتّا تھا۔ اور (بعض) کہیں گے کہ وہ پانچ تھے اور چھٹا ان کا کتّا تھا۔ اور (بعض) کہیں گے کہ وہ سات تھے اور آٹھواں ان کا کتّا تھا۔ کہہ دو کہ میرا پروردگار ہی ان کے شمار سے خوب واقف ہے ان کو جانتے بھی ہیں تو تھوڑے ہی لوگ (جانتے ہیں) تو تم ان (کے معاملے) میں گفتگو نہ کرنا مگر سرسری سی گفتگو۔ اور نہ ان کے بارے میں ان میں کسی سے کچھ دریافت ہی کرنا
+
+[Open on Quran.com](https://quran.com/18/22)
+
+#### 31:27 · [[031 Luqman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَـٰمٌ وَٱلْبَحْرُ يَمُدُّهُۥ مِنۢ بَعْدِهِۦ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَـٰتُ ٱللَّهِ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
+
+</div>
+
+**Word in this verse:** `سَبْعَةُ` — seven
+
+**English (Sahih International):** And if whatever trees upon the earth were pens and the sea [was ink], replenished thereafter by seven [more] seas, the words of Allāh would not be exhausted. Indeed, Allāh is Exalted in Might and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر یوں ہو کہ زمین میں جتنے درخت ہیں (سب کے سب) قلم ہوں اور سمندر (کا تمام پانی) سیاہی ہو (اور) اس کے بعد سات سمندر اور (سیاہی ہو جائیں) تو خدا کی باتیں (یعنی اس کی صفتیں) ختم نہ ہوں۔ بیشک خدا غالب حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/31/27)
+

@@ -1,0 +1,112 @@
+---
+type: word
+lemma: "دَرَسُ"
+slug: "drs - studying it"
+surah_count: 5
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# drs - studying it
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[drs - drs]]
+
+### Meaning
+**studying it** · Lemma **دَرَسُ**
+
+### Surahs (5)
+- [[003 Ali Imran]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[034 Saba]]
+- [[068 Al-Qalam]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:79 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ ٱللَّهُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادًا لِّى مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُوا۟ رَبَّـٰنِيِّـۧنَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَـٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ
+
+</div>
+
+**Word in this verse:** `تَدْرُسُونَ` — studying (it)
+
+**English (Sahih International):** It is not for a human [prophet] that Allāh should give him the Scripture and authority and prophethood and then he would say to the people, "Be servants to me rather than Allāh," but [instead, he would say], "Be pious scholars of the Lord because of what you have taught of the Scripture and because of what you have studied."
+
+**Urdu (Fatah Muhammad Jalandhari):** کسی آدمی کو شایاں نہیں کہ خدا تو اسے کتاب اور حکومت اور نبوت عطا فرمائے اور وہ لوگوں سے کہے کہ خدا کو چھوڑ کر میرے بندے ہو جاؤ بلکہ (اس کو یہ کہنا سزاوار ہے کہ اے اہلِ کتاب) تم (علمائے) ربانی ہو جاؤ کیونکہ تم کتابِ (خدا) پڑھتے پڑھاتے رہتے ہو
+
+[Open on Quran.com](https://quran.com/3/79)
+
+#### 6:105 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَذَٰلِكَ نُصَرِّفُ ٱلْـَٔايَـٰتِ وَلِيَقُولُوا۟ دَرَسْتَ وَلِنُبَيِّنَهُۥ لِقَوْمٍ يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `دَرَسْتَ` — You have studied
+
+**English (Sahih International):** And thus do We diversify the verses so they [i.e., the disbelievers] will say, "You have studied," and so We may make it [i.e., the Qur’ān] clear for a people who know.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم اسی طرح اپنی آیتیں پھیر پھیر کر بیان کرتے ہیں تاکہ کافر یہ نہ کہیں کہ تم (یہ باتیں اہل کتاب سے) سیکھے ہوئے ہو اور تاکہ سمجھنے والے لوگوں کے لئے تشریح کردیں
+
+[Open on Quran.com](https://quran.com/6/105)
+
+#### 7:169 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ وَرِثُوا۟ ٱلْكِتَـٰبَ يَأْخُذُونَ عَرَضَ هَـٰذَا ٱلْأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُۥ يَأْخُذُوهُ ۚ أَلَمْ يُؤْخَذْ عَلَيْهِم مِّيثَـٰقُ ٱلْكِتَـٰبِ أَن لَّا يَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ وَدَرَسُوا۟ مَا فِيهِ ۗ وَٱلدَّارُ ٱلْـَٔاخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `وَدَرَسُوا۟` — while they studied
+
+**English (Sahih International):** And there followed them successors who inherited the Scripture [while] taking the commodities of this lower life and saying, "It will be forgiven for us." And if an offer like it comes to them, they will [again] take it. Was not the covenant of the Scripture [i.e., the Torah] taken from them that they would not say about Allāh except the truth, and they studied what was in it? And the home of the Hereafter is better for those who fear Allāh, so will you not use reason?
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے بعد ناخلف ان کے قائم مقام ہوئے جو کتاب کے وارث بنے۔ یہ (بےتامل) اس دنیائے دنی کا مال ومتاع لے لیتے ہیں اور کہتے ہیں کہ ہم بخش دیئے جائیں گے۔ اور (لوگ ایسوں پر طعن کرتے ہیں) اگر ان کے سامنے بھی ویسا ہی مال آجاتا ہے تو وہ بھی اسے لے لیتے ہیں۔ کیا ان سے کتاب کی نسبت عہد نہیں لیا گیا کہ خدا پر سچ کے سوا اور کچھ نہیں کہیں گے۔ اور جو کچھ اس (کتاب) میں ہے اس کو انہوں نے پڑھ بھی لیا ہے۔ اور آخرت کا گھر پرہیزگاروں کے لیے بہتر ہے کیا تم سمجھتے نہیں
+
+[Open on Quran.com](https://quran.com/7/169)
+
+#### 34:44 · [[034 Saba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَآ ءَاتَيْنَـٰهُم مِّن كُتُبٍ يَدْرُسُونَهَا ۖ وَمَآ أَرْسَلْنَآ إِلَيْهِمْ قَبْلَكَ مِن نَّذِيرٍ
+
+</div>
+
+**Word in this verse:** `يَدْرُسُونَهَا ۖ` — which they could study
+
+**English (Sahih International):** And We had not given them any scriptures which they could study, and We had not sent to them before you, [O Muḥammad], any warner.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے نہ تو ان (مشرکوں) کو کتابیں دیں جن کو یہ پڑھتے ہیں اور نہ تم سے پہلے ان کی طرف کوئی ڈرانے والا بھیجا مگر انہوں نے تکذیب کی
+
+[Open on Quran.com](https://quran.com/34/44)
+
+#### 68:37 · [[068 Al-Qalam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمْ لَكُمْ كِتَـٰبٌ فِيهِ تَدْرُسُونَ
+
+</div>
+
+**Word in this verse:** `تَدْرُسُونَ` — you learn
+
+**English (Sahih International):** Or do you have a scripture in which you learn
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تمہارے پاس کوئی کتاب ہے جس میں (یہ) پڑھتے ہو
+
+[Open on Quran.com](https://quran.com/68/37)
+

@@ -1,0 +1,180 @@
+---
+type: word
+lemma: "سَعْي"
+slug: "sEy - effort"
+surah_count: 9
+ayah_count: 9
+tags: [word, meaning]
+---
+
+# sEy - effort
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[sEy - sey]]
+
+### Meaning
+**effort** · Lemma **سَعْي**
+
+### Surahs (9)
+- [[002 Al-Baqarah]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[021 Al-Anbya]]
+- [[037 As-Saffat]]
+- [[053 An-Najm]]
+- [[076 Al-Insan]]
+- [[088 Al-Ghashiyah]]
+- [[092 Al-Layl]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:260 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّ أَرِنِى كَيْفَ تُحْىِ ٱلْمَوْتَىٰ ۖ قَالَ أَوَلَمْ تُؤْمِن ۖ قَالَ بَلَىٰ وَلَـٰكِن لِّيَطْمَئِنَّ قَلْبِى ۖ قَالَ فَخُذْ أَرْبَعَةً مِّنَ ٱلطَّيْرِ فَصُرْهُنَّ إِلَيْكَ ثُمَّ ٱجْعَلْ عَلَىٰ كُلِّ جَبَلٍ مِّنْهُنَّ جُزْءًا ثُمَّ ٱدْعُهُنَّ يَأْتِينَكَ سَعْيًا ۚ وَٱعْلَمْ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
+
+</div>
+
+**Word in this verse:** `سَعْيًۭا ۚ` — (in) haste
+
+**English (Sahih International):** And [mention] when Abraham said, "My Lord, show me how You give life to the dead." [Allāh] said, "Have you not believed?" He said, "Yes, but [I ask] only that my heart may be satisfied." [Allāh] said, "Take four birds and commit them to yourself. Then [after slaughtering them] put on each hill a portion of them; then call them - they will come [flying] to you in haste. And know that Allāh is Exalted in Might and Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے (خدا سے) کہا کہ اے پروردگار مجھے دکھا کہ تو مردوں کو کیونکر زندہ کرے گا۔ خدا نے فرمایا کیا تم نے (اس بات کو) باور نہیں کیا۔ انہوں نے کہا کیوں نہیں۔ لیکن (میں دیکھنا) اس لئے (چاہتا ہوں) کہ میرا دل اطمینان کامل حاصل کرلے۔ خدا نے فرمایا کہ چار جانور پکڑوا کر اپنے پاس منگا لو (اور ٹکڑے ٹکڑے کرادو) پھر ان کا ایک ٹکڑا ہر ایک پہاڑ پر رکھوا دو پھر ان کو بلاؤ تو وہ تمہارے پاس دوڑتے چلے آئیں گے۔ اور جان رکھو کہ خدا غالب اور صاحب حکمت ہے۔
+
+[Open on Quran.com](https://quran.com/2/260)
+
+#### 17:19 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَنْ أَرَادَ ٱلْـَٔاخِرَةَ وَسَعَىٰ لَهَا سَعْيَهَا وَهُوَ مُؤْمِنٌ فَأُو۟لَـٰٓئِكَ كَانَ سَعْيُهُم مَّشْكُورًا
+
+</div>
+
+**Word in this verse:** `سَعْيَهَا` — the effort
+
+**English (Sahih International):** But whoever desires the Hereafter and exerts the effort due to it while he is a believer - it is those whose effort is ever appreciated [by Allāh].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص آخرت کا خواستگار ہوا اور اس میں اتنی کوشش کرے جتنی اسے لائق ہے اور وہ مومن بھی ہو تو ایسے ہی لوگوں کی کوشش ٹھکانے لگتی ہے
+
+[Open on Quran.com](https://quran.com/17/19)
+
+#### 18:104 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ ضَلَّ سَعْيُهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا
+
+</div>
+
+**Word in this verse:** `سَعْيُهُمْ` — their effort
+
+**English (Sahih International):** [They are] those whose effort is lost in worldly life, while they think that they are doing well in work."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ لوگ جن کی سعی دنیا کی زندگی میں برباد ہوگئی۔ اور وہ یہ سمجھے ہوئے ہیں کہ اچھے کام کر رہے ہیں
+
+[Open on Quran.com](https://quran.com/18/104)
+
+#### 21:94 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ وَهُوَ مُؤْمِنٌ فَلَا كُفْرَانَ لِسَعْيِهِۦ وَإِنَّا لَهُۥ كَـٰتِبُونَ
+
+</div>
+
+**Word in this verse:** `لِسَعْيِهِۦ` — [of] his effort
+
+**English (Sahih International):** So whoever does righteous deeds while he is a believer - no denial will there be for his effort, and indeed We [i.e., Our angels], of it, are recorders.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو نیک کام کرے گا اور مومن بھی ہوگا تو اس کی کوشش رائیگاں نہ جائے گی۔ اور ہم اس کے لئے (ثواب اعمال) لکھ رہے ہیں
+
+[Open on Quran.com](https://quran.com/21/94)
+
+#### 37:102 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ
+
+</div>
+
+**Word in this verse:** `ٱلسَّعْىَ` — the (age of) working with him
+
+**English (Sahih International):** And when he reached with him [the age of] exertion, he said, "O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think." He said, "O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ ان کے ساتھ دوڑنے (کی عمر) کو پہنچا تو ابراہیم نے کہا کہ بیٹا میں خواب میں دیکھتا ہوں کہ (گویا) تم کو ذبح کر رہا ہوں تو تم سوچو کہ تمہارا کیا خیال ہے؟ انہوں نے کہا کہ ابا جو آپ کو حکم ہوا ہے وہی کیجیئے خدا نے چاہا تو آپ مجھے صابروں میں پایئے گا
+
+[Open on Quran.com](https://quran.com/37/102)
+
+#### 53:40 · [[053 An-Najm]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ
+
+</div>
+
+**Word in this verse:** `سَعْيَهُۥ` — his striving
+
+**English (Sahih International):** And that his effort is going to be seen -
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ اس کی کوشش دیکھی جائے گی
+
+[Open on Quran.com](https://quran.com/53/40)
+
+#### 76:22 · [[076 Al-Insan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ هَـٰذَا كَانَ لَكُمْ جَزَآءً وَكَانَ سَعْيُكُم مَّشْكُورًا
+
+</div>
+
+**Word in this verse:** `سَعْيُكُم` — your effort
+
+**English (Sahih International):** [And it will be said], "Indeed, this is for you a reward, and your effort has been appreciated."
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ تمہارا صلہ اور تمہاری کوشش (خدا کے ہاں) مقبول ہوئی
+
+[Open on Quran.com](https://quran.com/76/22)
+
+#### 88:9 · [[088 Al-Ghashiyah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لِّسَعْيِهَا رَاضِيَةٌ
+
+</div>
+
+**Word in this verse:** `لِّسَعْيِهَا` — With their effort
+
+**English (Sahih International):** With their effort [they are] satisfied
+
+**Urdu (Fatah Muhammad Jalandhari):** اپنے اعمال (کی جزا )سے خوش دل
+
+[Open on Quran.com](https://quran.com/88/9)
+
+#### 92:4 · [[092 Al-Layl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ سَعْيَكُمْ لَشَتَّىٰ
+
+</div>
+
+**Word in this verse:** `سَعْيَكُمْ` — your efforts
+
+**English (Sahih International):** Indeed, your efforts are diverse.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہ تم لوگوں کی کوششں طرح طرح کی ہے
+
+[Open on Quran.com](https://quran.com/92/4)
+

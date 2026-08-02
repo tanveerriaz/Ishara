@@ -1,0 +1,205 @@
+---
+type: word
+lemma: "لَبِثَ"
+slug: "lbv - you remained"
+surah_count: 16
+ayah_count: 26
+tags: [word, meaning]
+---
+
+# lbv - you remained
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[lbv - lbth]]
+
+### Meaning
+**you remained** · Lemma **لَبِثَ**
+
+### Surahs (16)
+- [[002 Al-Baqarah]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[012 Yusuf]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[020 Taha]]
+- [[023 Al-Muminun]]
+- [[026 Ash-Shuara]]
+- [[029 Al-Ankabut]]
+- [[030 Ar-Rum]]
+- [[033 Al-Ahzab]]
+- [[034 Saba]]
+- [[037 As-Saffat]]
+- [[046 Al-Ahqaf]]
+- [[079 An-Naziat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:259 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَـٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ ۖ قَالَ كَمْ لَبِثْتَ ۖ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ ۖ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ ۖ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ ۖ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا ۚ فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+
+</div>
+
+**Word in this verse:** `لَبِثْتَ ۖ` — (have) you remained
+
+**English (Sahih International):** Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, "How will Allāh bring this to life after its death?" So Allāh caused him to die for a hundred years; then He revived him. He said, "How long have you remained?" He [the man] said, "I have remained a day or part of a day." He said, "Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh." And when it became clear to him, he said, "I know that Allāh is over all things competent."
+
+**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
+
+[Open on Quran.com](https://quran.com/2/259)
+
+#### 10:16 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ ۖ فَقَدْ لَبِثْتُ فِيكُمْ عُمُرًا مِّن قَبْلِهِۦٓ ۚ أَفَلَا تَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `لَبِثْتُ` — I have stayed
+
+**English (Sahih International):** Say, "If Allāh had willed, I would not have recited it to you, nor would He have made it known to you, for I had remained among you a lifetime before it. Then will you not reason?"
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ بھی) کہہ دو کہ اگر خدا چاہتا تو (نہ تو) میں ہی یہ (کتاب) تم کو پڑھ کر سناتا اور نہ وہی تمہیں اس سے واقف کرتا۔ میں اس سے پہلے تم میں ایک عمر رہا ہوں (اور کبھی ایک کلمہ بھی اس طرح کا نہیں کہا) بھلا تم سمجھتے نہیں
+
+[Open on Quran.com](https://quran.com/10/16)
+
+#### 10:45 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَوْمَ يَحْشُرُهُمْ كَأَن لَّمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّنَ ٱلنَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ ۚ قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ وَمَا كَانُوا۟ مُهْتَدِينَ
+
+</div>
+
+**Word in this verse:** `يَلْبَثُوٓا۟` — they had not remained
+
+**English (Sahih International):** And on the Day when He will gather them, [it will be] as if they had not remained [in the world] but an hour of the day, [and] they will know each other. Those will have lost who denied the meeting with Allāh and were not guided.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن خدا ان کو جمع کرے گا (تو وہ دنیا کی نسبت ایسا خیال کریں گے کہ) گویا (وہاں) گھڑی بھر دن سے زیادہ رہے ہی نہیں تھے (اور) آپس میں ایک دوسرے کو شناخت بھی کریں گے۔ جن لوگوں نے خدا کے روبرو حاضر ہونے کو جھٹلایا وہ خسارے میں پڑ گئے اور راہ یاب نہ ہوئے
+
+[Open on Quran.com](https://quran.com/10/45)
+
+#### 11:69 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَـٰمًا ۖ قَالَ سَلَـٰمٌ ۖ فَمَا لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍ
+
+</div>
+
+**Word in this verse:** `لَبِثَ` — and not he delayed
+
+**English (Sahih International):** And certainly did Our messengers [i.e., angels] come to Abraham with good tidings; they said, "Peace." He said, "Peace," and did not delay in bringing [them] a roasted calf.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہمارے فرشتے ابراہیم کے پاس بشارت لے کر آئے تو سلام کہا۔ انہوں نے بھی (جواب میں) سلام کہا۔ ابھی کچھ وقفہ نہیں ہوا تھا کہ (ابراہیم) ایک بھنا ہوا بچھڑا لے آئے
+
+[Open on Quran.com](https://quran.com/11/69)
+
+#### 12:42 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَـٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ
+
+</div>
+
+**Word in this verse:** `فَلَبِثَ` — so he remained
+
+**English (Sahih International):** And he said to the one whom he knew would go free, "Mention me before your master." But Satan made him forget the mention [to] his master, and he [i.e., Joseph] remained in prison several years.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور دونوں شخصوں میں سے جس کی نسبت (یوسف نے) خیال کیا کہ وہ رہائی پا جائے گا اس سے کہا کہ اپنے آقا سے میرا ذکر بھی کرنا لیکن شیطان نے ان کا اپنے آقا سے ذکر کرنا بھلا دیا اور یوسف کئی برس جیل خانے میں رہے
+
+[Open on Quran.com](https://quran.com/12/42)
+
+#### 17:52 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِۦ وَتَظُنُّونَ إِن لَّبِثْتُمْ إِلَّا قَلِيلًا
+
+</div>
+
+**Word in this verse:** `لَّبِثْتُمْ` — you had remained
+
+**English (Sahih International):** On the Day He will call you and you will respond with praise of Him and think that you had not remained [in the world] except for a little."
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن وہ تمہیں پکارے گا تو تم اس کی تعریف کے ساتھ جواب دو گے اور خیال کرو گے کہ تم (دنیا میں) بہت کم (مدت) رہے
+
+[Open on Quran.com](https://quran.com/17/52)
+
+#### 17:76 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِن كَادُوا۟ لَيَسْتَفِزُّونَكَ مِنَ ٱلْأَرْضِ لِيُخْرِجُوكَ مِنْهَا ۖ وَإِذًا لَّا يَلْبَثُونَ خِلَـٰفَكَ إِلَّا قَلِيلًا
+
+</div>
+
+**Word in this verse:** `يَلْبَثُونَ` — they (would) have stayed
+
+**English (Sahih International):** And indeed, they were about to provoke [i.e., drive] you from the land [i.e., Makkah] to evict you therefrom. And then [when they do], they will not remain [there] after you, except for a little.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور قریب تھا کہ یہ لوگ تمہیں زمین (مکہ) سے پھسلا دیں تاکہ تمہیں وہاں سے جلاوطن کر دیں۔ اور اس وقت تمہارے پیچھے یہ بھی نہ رہتے مگر کم
+
+[Open on Quran.com](https://quran.com/17/76)
+
+#### 18:12 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ بَعَثْنَـٰهُمْ لِنَعْلَمَ أَىُّ ٱلْحِزْبَيْنِ أَحْصَىٰ لِمَا لَبِثُوٓا۟ أَمَدًا
+
+</div>
+
+**Word in this verse:** `لَبِثُوٓا۟` — (they had) remained
+
+**English (Sahih International):** Then We awakened them that We might show which of the two factions was most precise in calculating what [extent] they had remained in time.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کو جگا اُٹھایا تاکہ معلوم کریں کہ جتنی مدّت وہ (غار میں) رہے دونوں جماعتوں میں سے اس کی مقدار کس کو خوب یاد ہے
+
+[Open on Quran.com](https://quran.com/18/12)
+
+#### 18:19 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَذَٰلِكَ بَعَثْنَـٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ ۚ قَالَ قَآئِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ ۖ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ ۚ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَـٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا
+
+</div>
+
+**Word in this verse:** `لَبِثْتُمْ ۖ` — have you remained
+
+**English (Sahih International):** And similarly, We awakened them that they might question one another. Said a speaker from among them, "How long have you remained [here]?" They said, "We have remained a day or part of a day." They said, "Your Lord is most knowing of how long you remained. So send one of you with this silver coin of yours to the city and let him look to which is the best of food and bring you provision from it and let him be cautious. And let no one be aware of you.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس طرح ہم نے ان کو اٹھایا تاکہ آپس میں ایک دوسرے سے دریافت کریں۔ ایک کہنے والے نے کہا کہ تم (یہاں) کتنی مدت رہے؟ انہوں نے کہا کہ ایک دن یا اس سے بھی کم۔ انہوں نے کہا کہ جتنی مدت تم رہے ہو تمہارا پروردگار ہی اس کو خوب جانتا ہے۔ تو اپنے میں سے کسی کو یہ روپیہ دے کر شہر کو بھیجو وہ دیکھے کہ نفیس کھانا کون سا ہے تو اس میں سے کھانا لے آئے اور آہستہ آہستہ آئے جائے اور تمہارا حال کسی کو نہ بتائے
+
+[Open on Quran.com](https://quran.com/18/19)
+
+#### 18:25 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَبِثُوا۟ فِى كَهْفِهِمْ ثَلَـٰثَ مِا۟ئَةٍ سِنِينَ وَٱزْدَادُوا۟ تِسْعًا
+
+</div>
+
+**Word in this verse:** `وَلَبِثُوا۟` — And they remained
+
+**English (Sahih International):** And they remained in their cave for three hundred years and exceeded by nine.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اصحاب کہف اپنے غار میں نو اوپر تین سو سال رہے
+
+[Open on Quran.com](https://quran.com/18/25)
+
+_…and **16** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

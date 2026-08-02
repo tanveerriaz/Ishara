@@ -1,0 +1,197 @@
+---
+type: word
+lemma: "تَبِعَ"
+slug: "tbE - follows"
+surah_count: 8
+ayah_count: 11
+tags: [word, meaning]
+---
+
+# tbE - follows
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[tbE - follow]]
+
+### Meaning
+**follows** · Lemma **تَبِعَ**
+
+### Surahs (8)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[007 Al-Araf]]
+- [[014 Ibrahim]]
+- [[017 Al-Isra]]
+- [[038 Sad]]
+- [[040 Ghafir]]
+- [[079 An-Naziat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:38 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًا ۖ فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَن تَبِعَ هُدَاىَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+
+</div>
+
+**Word in this verse:** `تَبِعَ` — follows
+
+**English (Sahih International):** We said, "Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance - there will be no fear concerning them, nor will they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے فرمایا کہ تم سب یہاں سے اتر جاؤ جب تمہارے پاس میری طرف سے ہدایت پہنچے تو (اس کی پیروی کرنا کہ) جنہوں نے میری ہدایت کی پیروی کی ان کو نہ کچھ خوف ہوگا اور نہ وہ غمناک ہوں گے
+
+[Open on Quran.com](https://quran.com/2/38)
+
+#### 2:145 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَئِنْ أَتَيْتَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ بِكُلِّ ءَايَةٍ مَّا تَبِعُوا۟ قِبْلَتَكَ ۚ وَمَآ أَنتَ بِتَابِعٍ قِبْلَتَهُمْ ۚ وَمَا بَعْضُهُم بِتَابِعٍ قِبْلَةَ بَعْضٍ ۚ وَلَئِنِ ٱتَّبَعْتَ أَهْوَآءَهُم مِّنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ ۙ إِنَّكَ إِذًا لَّمِنَ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `تَبِعُوا۟` — they would follow
+
+**English (Sahih International):** And if you brought to those who were given the Scripture every sign, they would not follow your qiblah. Nor will you be a follower of their qiblah. Nor would they be followers of one another's qiblah. So if you were to follow their desires after what has come to you of knowledge, indeed, you would then be among the wrongdoers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم ان اہلِ کتاب کے پاس تمام نشانیاں بھی لے کر آؤ، تو بھی یہ تمہارے قبلے کی پیروی نہ کریں۔ اور تم بھی ان کے قبلے کی پیروی کرنے والے نہیں ہو۔ اور ان میں سے بھی بعض بعض کے قبلے کے پیرو نہیں۔ اور اگر تم باوجود اس کے کہ تمہارے پاس دانش (یعنی وحئ خدا) آ چکی ہے، ان کی خواہشوں کے پیچھے چلو گے تو ظالموں میں (داخل) ہو جاؤ گے
+
+[Open on Quran.com](https://quran.com/2/145)
+
+#### 2:263 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ قَوْلٌ مَّعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِّن صَدَقَةٍ يَتْبَعُهَآ أَذًى ۗ وَٱللَّهُ غَنِىٌّ حَلِيمٌ
+
+</div>
+
+**Word in this verse:** `يَتْبَعُهَآ` — followed [it]
+
+**English (Sahih International):** Kind speech and forgiveness are better than charity followed by injury. And Allāh is Free of need and Forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس خیرات دینے کے بعد (لینے والے کو) ایذا دی جائے اس سے تو نرم بات کہہ دینی اور (اس کی بے ادبی سے) درگزر کرنا بہتر ہے اور خدا بےپروا اور بردبار ہے
+
+[Open on Quran.com](https://quran.com/2/263)
+
+#### 3:73 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `تَبِعَ` — follows
+
+**English (Sahih International):** And do not trust except those who follow your religion." Say, "Indeed, the [true] guidance is the guidance of Allāh. [Do you fear] lest someone be given [knowledge] like you were given or that they would [thereby] argue with you before your Lord?" Say, "Indeed, [all] bounty is in the hand of Allāh - He grants it to whom He wills. And Allāh is all-Encompassing and Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے دین کے پیرو کے سوا کسی اور کے قائل نہ ہونا (اے پیغمبر) کہہ دو کہ ہدایت تو خدا ہی کی ہدایت ہے (وہ یہ بھی کہتے ہیں) یہ بھی (نہ ماننا) کہ جو چیز تم کو ملی ہے ویسی کسی اور کو ملے گی یا وہ تمہیں خدا کے روبرو قائل معقول کر سکیں گے یہ بھی کہہ دو کہ بزرگی خدا ہی کے ہاتھ میں ہے وہ جسے چاہتا ہے دیتا ہے اور خدا کشائش والا (اور) علم والا ہے
+
+[Open on Quran.com](https://quran.com/3/73)
+
+#### 7:18 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ ٱخْرُجْ مِنْهَا مَذْءُومًا مَّدْحُورًا ۖ لَّمَن تَبِعَكَ مِنْهُمْ لَأَمْلَأَنَّ جَهَنَّمَ مِنكُمْ أَجْمَعِينَ
+
+</div>
+
+**Word in this verse:** `تَبِعَكَ` — follows you
+
+**English (Sahih International):** [Allāh] said, "Depart from it [i.e., Paradise], reproached and expelled. Whoever follows you among them - I will surely fill Hell with you, all together."
+
+**Urdu (Fatah Muhammad Jalandhari):** (خدا نے) فرمایا، نکل جا۔ یہاں سے پاجی۔ مردود جو لوگ ان میں سے تیری پیروی کریں گے میں (ان کو اور تجھ کو جہنم میں ڈال کر) تم سب سے جہنم کو بھر دوں گا
+
+[Open on Quran.com](https://quran.com/7/18)
+
+#### 14:21 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَبَرَزُوا۟ لِلَّهِ جَمِيعًا فَقَالَ ٱلضُّعَفَـٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا مِنْ عَذَابِ ٱللَّهِ مِن شَىْءٍ ۚ قَالُوا۟ لَوْ هَدَىٰنَا ٱللَّهُ لَهَدَيْنَـٰكُمْ ۖ سَوَآءٌ عَلَيْنَآ أَجَزِعْنَآ أَمْ صَبَرْنَا مَا لَنَا مِن مَّحِيصٍ
+
+</div>
+
+**Word in this verse:** `تَبَعًۭا` — followers
+
+**English (Sahih International):** And they will come out [for judgement] before Allāh all together, and the weak will say to those who were arrogant, "Indeed, we were your followers, so can you avail us anything against the punishment of Allāh?" They will say, "If Allāh had guided us, we would have guided you. It is all the same for us whether we show intolerance or are patient: there is for us no place of escape."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (قیامت کے دن) سب لوگ خدا کے سامنے کھڑے ہوں گے تو ضعیف (العقل متبع اپنے رؤسائے) متکبرین سے کہیں گے کہ ہم تو تمہارے پیرو تھے۔ کیا تم خدا کا کچھ عذاب ہم پر سے دفع کرسکتے ہو۔ وہ کہیں گے کہ اگر خدا ہم کو ہدایت کرتا تو ہم تم کو ہدایت کرتے۔ اب ہم گھبرائیں یا ضد کریں ہمارے حق میں برابر ہے۔ کوئی جگہ (گریز اور) رہائی کی ہمارے لیے نہیں ہے
+
+[Open on Quran.com](https://quran.com/14/21)
+
+#### 14:36 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًا مِّنَ ٱلنَّاسِ ۖ فَمَن تَبِعَنِى فَإِنَّهُۥ مِنِّى ۖ وَمَنْ عَصَانِى فَإِنَّكَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `تَبِعَنِى` — follows me
+
+**English (Sahih International):** My Lord, indeed they have led astray many among the people. So whoever follows me - then he is of me; and whoever disobeys me - indeed, You are [yet] Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار انہوں نے بہت سے لوگوں کو گمراہ کیا ہے۔ سو جس شخص نے میرا کہا مانا وہ میرا ہے۔ اور جس نے میری نافرمانی کی تو تُو بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/14/36)
+
+#### 17:63 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ ٱذْهَبْ فَمَن تَبِعَكَ مِنْهُمْ فَإِنَّ جَهَنَّمَ جَزَآؤُكُمْ جَزَآءً مَّوْفُورًا
+
+</div>
+
+**Word in this verse:** `تَبِعَكَ` — follows you
+
+**English (Sahih International):** [Allāh] said, "Go, for whoever of them follows you, indeed Hell will be the recompense of [all of] you - an ample recompense.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے فرمایا (یہاں سے) چلا جا۔ جو شخص ان میں سے تیری پیروی کرے گا تو تم سب کی جزا جہنم ہے (اور وہ) پوری سزا (ہے)
+
+[Open on Quran.com](https://quran.com/17/63)
+
+#### 38:85 · [[038 Sad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَأَمْلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنْهُمْ أَجْمَعِينَ
+
+</div>
+
+**Word in this verse:** `تَبِعَكَ` — follow you
+
+**English (Sahih International):** [That] I will surely fill Hell with you and those of them that follow you all together."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہ میں تجھ سے اور جو ان میں سے تیری پیروی کریں گے سب سے جہنم کو بھر دوں گا
+
+[Open on Quran.com](https://quran.com/38/85)
+
+#### 40:47 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ يَتَحَآجُّونَ فِى ٱلنَّارِ فَيَقُولُ ٱلضُّعَفَـٰٓؤُا۟ لِلَّذِينَ ٱسْتَكْبَرُوٓا۟ إِنَّا كُنَّا لَكُمْ تَبَعًا فَهَلْ أَنتُم مُّغْنُونَ عَنَّا نَصِيبًا مِّنَ ٱلنَّارِ
+
+</div>
+
+**Word in this verse:** `تَبَعًۭا` — followers
+
+**English (Sahih International):** And [mention] when they will argue within the Fire, and the weak will say to those who had been arrogant, "Indeed, we were [only] your followers, so will you relieve us of a share of the Fire?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب وہ دوزخ میں جھگڑیں گے تو ادنیٰ درجے کے لوگ بڑے آدمیوں سے کہیں گے کہ ہم تو تمہارے تابع تھے تو کیا تم دوزخ (کے عذاب) کا کچھ حصہ ہم سے دور کرسکتے ہو؟
+
+[Open on Quran.com](https://quran.com/40/47)
+
+_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

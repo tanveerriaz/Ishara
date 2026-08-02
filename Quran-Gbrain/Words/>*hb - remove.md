@@ -1,0 +1,199 @@
+---
+type: word
+lemma: "أَذْهَبَ"
+slug: ">*hb - remove"
+surah_count: 10
+ayah_count: 11
+tags: [word, meaning]
+---
+
+# >*hb - remove
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[*hb - gold]]
+
+### Meaning
+**remove** · Lemma **أَذْهَبَ**
+
+### Surahs (10)
+- [[004 An-Nisa]]
+- [[006 Al-Anam]]
+- [[008 Al-Anfal]]
+- [[009 At-Tawbah]]
+- [[011 Hud]]
+- [[014 Ibrahim]]
+- [[022 Al-Hajj]]
+- [[033 Al-Ahzab]]
+- [[035 Fatir]]
+- [[046 Al-Ahqaf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:133 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن يَشَأْ يُذْهِبْكُمْ أَيُّهَا ٱلنَّاسُ وَيَأْتِ بِـَٔاخَرِينَ ۚ وَكَانَ ٱللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرًا
+
+</div>
+
+**Word in this verse:** `يُذْهِبْكُمْ` — He can take you away
+
+**English (Sahih International):** If He wills, He can do away with you, O people, and bring others [in your place]. And ever is Allāh competent to do that.
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو! اگر وہ چاہے تو تم کو فنا کردے اور (تمہاری جگہ) اور لوگوں کو پیدا کردے۔اور خدا اس بات پر قادر ہے
+
+[Open on Quran.com](https://quran.com/4/133)
+
+#### 6:133 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَرَبُّكَ ٱلْغَنِىُّ ذُو ٱلرَّحْمَةِ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِنۢ بَعْدِكُم مَّا يَشَآءُ كَمَآ أَنشَأَكُم مِّن ذُرِّيَّةِ قَوْمٍ ءَاخَرِينَ
+
+</div>
+
+**Word in this verse:** `يُذْهِبْكُمْ` — He can take you away
+
+**English (Sahih International):** And your Lord is the Free of need, the possessor of mercy. If He wills, He can do away with you and give succession after you to whomever He wills, just as He produced you from the descendants of another people.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا پروردگار بےپروا (اور) صاحب رحمت ہے اگر چاہے (تو اے بندوں) تمہیں نابود کر دے اور تمہارے بعد جن لوگوں کو چاہے تمہارا جانشین بنا دے جیسا تم کو بھی دوسرے لوگوں کی نسل سے پیدا کیا ہے
+
+[Open on Quran.com](https://quran.com/6/133)
+
+#### 8:11 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ يُغَشِّيكُمُ ٱلنُّعَاسَ أَمَنَةً مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ ٱلسَّمَآءِ مَآءً لِّيُطَهِّرَكُم بِهِۦ وَيُذْهِبَ عَنكُمْ رِجْزَ ٱلشَّيْطَـٰنِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ ٱلْأَقْدَامَ
+
+</div>
+
+**Word in this verse:** `وَيُذْهِبَ` — and take away
+
+**English (Sahih International):** [Remember] when He overwhelmed you with drowsiness [giving] security from Him and sent down upon you from the sky, rain by which to purify you and remove from you the evil [suggestions] of Satan and to make steadfast your hearts and plant firmly thereby your feet.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب اس نے (تمہاری) تسکین کے لیے اپنی طرف سے تمہیں نیند (کی چادر) اُڑھا دی اور تم پر آسمان سے پانی برسادیا تاکہ تم کو اس سے (نہلا کر) پاک کر دے اور شیطانی نجاست کو تم سے دور کردے۔ اور اس لیے بھی کہ تمہارے دلوں کو مضبوط کردے اور اس سے تمہارے پاؤں جمائے رکھے
+
+[Open on Quran.com](https://quran.com/8/11)
+
+#### 9:15 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ ۗ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن يَشَآءُ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
+
+</div>
+
+**Word in this verse:** `وَيُذْهِبْ` — And remove
+
+**English (Sahih International):** And remove the fury in their [i.e., the believers'] hearts. And Allāh turns in forgiveness to whom He wills; and Allāh is Knowing and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں سے غصہ دور کرے گا اور جس پر چاہے گا رحمت کرے گا۔ اور خدا سب کچھ جانتا (اور) حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/9/15)
+
+#### 11:114 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ ۚ إِنَّ ٱلْحَسَنَـٰتِ يُذْهِبْنَ ٱلسَّيِّـَٔاتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ
+
+</div>
+
+**Word in this verse:** `يُذْهِبْنَ` — remove
+
+**English (Sahih International):** And establish prayer at the two ends of the day and at the approach of the night. Indeed, good deeds do away with misdeeds. That is a reminder for those who remember.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور دن کے دونوں سروں (یعنی صبح اور شام کے اوقات میں) اور رات کی چند (پہلی) ساعات میں نماز پڑھا کرو۔ کچھ شک نہیں کہ نیکیاں گناہوں کو دور کر دیتی ہیں۔ یہ ان کے لیے نصیحت ہے جو نصیحت قبول کرنے والے ہیں
+
+[Open on Quran.com](https://quran.com/11/114)
+
+#### 14:19 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ تَرَ أَنَّ ٱللَّهَ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ
+
+</div>
+
+**Word in this verse:** `يُذْهِبْكُمْ` — He can remove you
+
+**English (Sahih International):** Have you not seen [i.e., considered] that Allāh created the heavens and the earth in truth? If He wills, He can do away with you and produce a new creation.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا نے آسمانوں اور زمین کو تدبیر سے پیدا کیا ہے۔ اگر وہ چاہے تو تم کو نابود کر دے اور (تمہاری جگہ) نئی مخلوق پیدا کر دے
+
+[Open on Quran.com](https://quran.com/14/19)
+
+#### 22:15 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ فَلْيَمْدُدْ بِسَبَبٍ إِلَى ٱلسَّمَآءِ ثُمَّ لْيَقْطَعْ فَلْيَنظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُۥ مَا يَغِيظُ
+
+</div>
+
+**Word in this verse:** `يُذْهِبَنَّ` — will remove
+
+**English (Sahih International):** Whoever should think that Allāh will not support him [i.e., Prophet Muḥammad (ﷺ)] in this world and the Hereafter - let him extend a rope to the ceiling, then cut off [his breath], and let him see: will his effort remove that which enrages [him]?
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص یہ گمان کرتا ہے کہ خدا اس کو دنیا اور آخرت میں مدد نہیں دے گا تو اس کو چاہیئے کہ اوپر کی طرف (یعنی اپنے گھر کی چھت میں) ایک رسی باندھے پھر (اس سے اپنا) گلا گھونٹ لے۔ پھر دیکھے کہ آیا یہ تدبیر اس کے غصے کو دور کردیتی ہے
+
+[Open on Quran.com](https://quran.com/22/15)
+
+#### 33:33 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَـٰهِلِيَّةِ ٱلْأُولَىٰ ۖ وَأَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
+
+</div>
+
+**Word in this verse:** `لِيُذْهِبَ` — to remove
+
+**English (Sahih International):** And abide in your houses and do not display yourselves as [was] the display of the former times of ignorance. And establish prayer and give zakāh and obey Allāh and His Messenger. Allāh intends only to remove from you the impurity [of sin], O people of the [Prophet's] household, and to purify you with [extensive] purification.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے گھروں میں ٹھہری رہو اور جس طرح (پہلے) جاہلیت (کے دنوں) میں اظہار تجمل کرتی تھیں اس طرح زینت نہ دکھاؤ۔ اور نماز پڑھتی رہو اور زکوٰة دیتی رہو اور خدا اور اس کے رسول کی فرمانبرداری کرتی رہو۔ اے (پیغمبر کے) اہل بیت خدا چاہتا ہے کہ تم سے ناپاکی (کا میل کچیل) دور کردے اور تمہیں بالکل پاک صاف کردے
+
+[Open on Quran.com](https://quran.com/33/33)
+
+#### 35:16 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ
+
+</div>
+
+**Word in this verse:** `يُذْهِبْكُمْ` — He (can) do away with you
+
+**English (Sahih International):** If He wills, He can do away with you and bring forth a new creation.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر چاہے تو تم کو نابود کردے اور نئی مخلوقات لا آباد کرے
+
+[Open on Quran.com](https://quran.com/35/16)
+
+#### 35:34 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَذْهَبَ عَنَّا ٱلْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ
+
+</div>
+
+**Word in this verse:** `أَذْهَبَ` — (has) removed
+
+**English (Sahih International):** And they will say, "Praise to Allāh, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative -
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہیں گے کہ خدا کا شکر ہے جس نے ہم سے غم دور کیا۔ بےشک ہمارا پروردگار بخشنے والا (اور) قدردان ہے
+
+[Open on Quran.com](https://quran.com/35/34)
+
+_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

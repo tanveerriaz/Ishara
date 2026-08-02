@@ -1,0 +1,95 @@
+---
+type: word
+lemma: "طَمَع"
+slug: "TmE - hope"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# TmE - hope
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[TmE - tme]]
+
+### Meaning
+**hope** · Lemma **طَمَع**
+
+### Surahs (4)
+- [[007 Al-Araf]]
+- [[013 Ar-Rad]]
+- [[030 Ar-Rum]]
+- [[032 As-Sajdah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 7:56 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَـٰحِهَا وَٱدْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ ٱللَّهِ قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ
+
+</div>
+
+**Word in this verse:** `وَطَمَعًا ۚ` — and hope
+
+**English (Sahih International):** And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allāh is near to the doers of good.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ملک میں اصلاح کے بعد خرابی نہ کرنا اور خدا سے خوف کرتے ہوئے اور امید رکھ کر دعائیں مانگتے رہنا۔ کچھ شک نہیں کہ خدا کی رحمت نیکی کرنے والوں سے قریب ہے
+
+[Open on Quran.com](https://quran.com/7/56)
+
+#### 13:12 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ
+
+</div>
+
+**Word in this verse:** `وَطَمَعًۭا` — and a hope
+
+**English (Sahih International):** It is He who shows you lightning, [causing] fear and aspiration, and generates the heavy clouds.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو تم کو ڈرانے اور امید دلانے کے لیے بجلی دکھاتا اور بھاری بھاری بادل پیدا کرتا ہے
+
+[Open on Quran.com](https://quran.com/13/12)
+
+#### 30:24 · [[030 Ar-Rum]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنْ ءَايَـٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً فَيُحْىِۦ بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `وَطَمَعًۭا` — and hope
+
+**English (Sahih International):** And of His signs is [that] He shows you the lightning [causing] fear and aspiration, and He sends down rain from the sky by which He brings to life the earth after its lifelessness. Indeed in that are signs for a people who use reason.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی کے نشانات (اور تصرفات) میں سے ہے کہ تم کو خوف اور اُمید دلانے کے لئے بجلی دکھاتا ہے اور آسمان سے مینھہ برساتا ہے۔ پھر زمین کو اس کے مر جانے کے بعد زندہ (و شاداب) کر دیتا ہے۔ عقل والوں کے لئے ان (باتوں) میں (بہت سی) نشانیاں ہیں
+
+[Open on Quran.com](https://quran.com/30/24)
+
+#### 32:16 · [[032 As-Sajdah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ
+
+</div>
+
+**Word in this verse:** `وَطَمَعًۭا` — and hope
+
+**English (Sahih International):** Their sides part [i.e., they arise] from [their] beds; they supplicate their Lord in fear and aspiration, and from what We have provided them, they spend.
+
+**Urdu (Fatah Muhammad Jalandhari):** اُن کے پہلو بچھونوں سے الگ رہتے ہیں (اور) وہ اپنے پروردگار کو خوف اور اُمید سے پکارتے اور جو (مال) ہم نے اُن کو دیا ہے اس میں سے خرچ کرتے ہیں
+
+[Open on Quran.com](https://quran.com/32/16)
+

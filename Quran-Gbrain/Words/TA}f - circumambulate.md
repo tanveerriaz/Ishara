@@ -1,0 +1,95 @@
+---
+type: word
+lemma: "طائِف"
+slug: "TA}f - circumambulate"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# TA}f - circumambulate
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Twf - twf]]
+
+### Meaning
+**circumambulate** · Lemma **طائِف**
+
+### Surahs (4)
+- [[002 Al-Baqarah]]
+- [[007 Al-Araf]]
+- [[022 Al-Hajj]]
+- [[068 Al-Qalam]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:125 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِـۧمَ مُصَلًّى ۖ وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَـٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
+
+</div>
+
+**Word in this verse:** `لِلطَّآئِفِينَ` — for those who circumambulate
+
+**English (Sahih International):** And [mention] when We made the House [i.e., the Kaʿbah] a place of return for the people and [a place of] security. And take, [O believers], from the standing place of Abraham a place of prayer. And We charged Abraham and Ishmael, [saying], "Purify My House for those who perform ṭawāf and those who are staying [there] for worship and those who bow and prostrate [in prayer]."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے خانہٴ کعبہ کو لوگوں کے لیے جمع ہونے اور امن پانے کی جگہ مقرر کیا اور (حکم دیا کہ) جس مقام پر ابراہیم کھڑے ہوئے تھے، اس کو نماز کی جگہ بنا لو۔ اور ابراہیم اور اسمٰعیل کو کہا کہ طواف کرنے والوں اور اعتکاف کرنے والوں اور رکوع کرنے والوں اور سجدہ کرنے والوں کے لیے میرے گھر کو پاک صاف رکھا کرو
+
+[Open on Quran.com](https://quran.com/2/125)
+
+#### 7:201 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ ٱتَّقَوْا۟ إِذَا مَسَّهُمْ طَـٰٓئِفٌ مِّنَ ٱلشَّيْطَـٰنِ تَذَكَّرُوا۟ فَإِذَا هُم مُّبْصِرُونَ
+
+</div>
+
+**Word in this verse:** `طَـٰٓئِفٌۭ` — an evil thought
+
+**English (Sahih International):** Indeed, those who fear Allāh - when an impulse touches them from Satan, they remember [Him] and at once they have insight.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ پرہیزگار ہیں جب ان کو شیطان کی طرف سے کوئی وسوسہ پیدا ہوتا ہے تو چونک پڑتے ہیں اور (دل کی آنکھیں کھول کر) دیکھنے لگتے ہیں
+
+[Open on Quran.com](https://quran.com/7/201)
+
+#### 22:26 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًٔا وَطَهِّرْ بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
+
+</div>
+
+**Word in this verse:** `لِلطَّآئِفِينَ` — for those who circumambulate
+
+**English (Sahih International):** And [mention, O Muḥammad], when We designated for Abraham the site of the House, [saying], "Do not associate anything with Me and purify My House for those who perform ṭawāf and those who stand [in prayer] and those who bow and prostrate.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور ایک وقت تھا) جب ہم نے ابراہیم کے لئے خانہ کعبہ کو مقرر کیا (اور ارشاد فرمایا) کہ میرے ساتھ کسی چیز کو شریک نہ کیجیو اور طواف کرنے والوں اور قیام کرنے والوں اور رکوع کرنے والوں (اور) سجدہ کرنے والوں کے لئے میرے گھر کو صاف رکھا کرو
+
+[Open on Quran.com](https://quran.com/22/26)
+
+#### 68:19 · [[068 Al-Qalam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ
+
+</div>
+
+**Word in this verse:** `طَآئِفٌۭ` — a visitation
+
+**English (Sahih International):** So there came upon it [i.e., the garden] an affliction from your Lord while they were asleep.
+
+**Urdu (Fatah Muhammad Jalandhari):** سو وہ ابھی سو ہی رہے تھے کہ تمہارے پروردگار کی طرف سے (راتوں رات) اس پر ایک آفت پھر گئی
+
+[Open on Quran.com](https://quran.com/68/19)
+

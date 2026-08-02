@@ -1,0 +1,129 @@
+---
+type: word
+lemma: "تَصَدَّقَ"
+slug: "tSdq - gives charity"
+surah_count: 6
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# tSdq - gives charity
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Sdq - speak truth]]
+
+### Meaning
+**gives charity** · Lemma **تَصَدَّقَ**
+
+### Surahs (6)
+- [[002 Al-Baqarah]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[009 At-Tawbah]]
+- [[012 Yusuf]]
+- [[063 Al-Munafiqun]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:280 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ ۚ وَأَن تَصَدَّقُوا۟ خَيْرٌ لَّكُمْ ۖ إِن كُنتُمْ تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `تَصَدَّقُوا۟` — you remit as charity
+
+**English (Sahih International):** And if someone is in hardship, then [let there be] postponement until [a time of] ease. But if you give [from your right as] charity, then it is better for you, if you only knew.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر قرض لینے والا تنگ دست ہو تو (اسے) کشائش (کے حاصل ہونے) تک مہلت (دو) اور اگر (زر قرض) بخش ہی دو توتمہارے لئے زیادہ اچھا ہے بشرطیکہ سمجھو
+
+[Open on Quran.com](https://quran.com/2/280)
+
+#### 4:92 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَـًٔا ۚ وَمَن قَتَلَ مُؤْمِنًا خَطَـًٔا فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦٓ إِلَّآ أَن يَصَّدَّقُوا۟ ۚ فَإِن كَانَ مِن قَوْمٍ عَدُوٍّ لَّكُمْ وَهُوَ مُؤْمِنٌ فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ ۖ وَإِن كَانَ مِن قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَـٰقٌ فَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦ وَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ ۖ فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِّنَ ٱللَّهِ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
+
+</div>
+
+**Word in this verse:** `يَصَّدَّقُوا۟ ۚ` — they remit (as) charity
+
+**English (Sahih International):** And never is it for a believer to kill a believer except by mistake. And whoever kills a believer by mistake - then the freeing of a believing slave and a compensation payment [diyah] presented to his [i.e., the deceased's] family [is required], unless they give [up their right as] charity. But if he [i.e., the deceased] was from a people at war with you and he was a believer - then [only] the freeing of a believing slave; and if he was from a people with whom you have a treaty - then a compensation payment presented to his family and the freeing of a believing slave. And whoever does not find [one or cannot afford to buy one] - then [instead], a fast for two months consecutively, [seeking] acceptance of repentance from Allāh. And Allāh is ever Knowing and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کسی مومن کو شایان نہیں کہ مومن کو مار ڈالے مگر بھول کر اور جو بھول کر بھی مومن کو مار ڈالے تو (ایک تو) ایک مسلمان غلام آزاد کردے اور (دوسرے) مقتول کے وارثوں کو خون بہا دے ہاں اگر وہ معاف کردیں (تو ان کو اختیار ہے) اگر مقتول تمہارے دشمنوں کی جماعت میں سے ہو اور وہ خود مومن ہو تو صرف ایک مسلمان غلام آزاد کرنا چاہیئے اور اگر مقتول ایسے لوگوں میں سے ہو جن میں اور تم میں صلح کا عہد ہو تو وارثان مقتول کو خون بہا دینا اور ایک مسلمان غلام آزاد کرنا چاہیئے اور جس کو یہ میسر نہ ہو وہ متواتر دو مہینے کے روزے رکھے یہ (کفارہ) خدا کی طرف سے (قبول) توبہ (کے لئے) ہے اور خدا (سب کچھ) جانتا اور بڑی حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/4/92)
+
+#### 5:45 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌ ۚ فَمَن تَصَدَّقَ بِهِۦ فَهُوَ كَفَّارَةٌ لَّهُۥ ۚ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ
+
+</div>
+
+**Word in this verse:** `تَصَدَّقَ` — gives charity
+
+**English (Sahih International):** And We ordained for them therein a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and for wounds is legal retribution. But whoever gives [up his right as] charity, it is an expiation for him. And whoever does not judge by what Allāh has revealed - then it is those who are the wrongdoers [i.e., the unjust].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان لوگوں کے لیے تورات میں یہ حکم لکھ دیا تھا کہ جان کے بدلے جان اور آنکھ کے بدلے آنکھ اور ناک کے بدلے ناک اور کان کے بدلے کان اور دانت کے بدلے دانت اور سب زخموں کا اسی طرح بدلہ ہے لیکن جو شخص بدلہ معاف کر دے وہ اس کے لیے کفارہ ہوگا اور جو خدا کے نازل فرمائے ہوئے احکام کے مطابق حکم نہ دے تو ایسے ہی لوگ بےانصاف ہیں
+
+[Open on Quran.com](https://quran.com/5/45)
+
+#### 9:75 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَمِنْهُم مَّنْ عَـٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ ٱلصَّـٰلِحِينَ
+
+</div>
+
+**Word in this verse:** `لَنَصَّدَّقَنَّ` — surely we will give charity
+
+**English (Sahih International):** And among them are those who made a covenant with Allāh, [saying], "If He should give us from His bounty, we will surely spend in charity, and we will surely be among the righteous."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے بعض ایسے ہیں جنہوں نے خدا سے عہد کیا تھا کہ اگر وہ ہم کو اپنی مہربانی سے (مال) عطا فرمائے گا تو ہم ضرور خیرات کیا کریں گے اور نیک کاروں میں ہو جائیں گے
+
+[Open on Quran.com](https://quran.com/9/75)
+
+#### 12:88 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَـٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَـٰعَةٍ مُّزْجَىٰةٍ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ ۖ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ
+
+</div>
+
+**Word in this verse:** `وَتَصَدَّقْ` — and be charitable
+
+**English (Sahih International):** So when they entered upon him [i.e., Joseph], they said, "O ʿAzeez, adversity has touched us and our family, and we have come with goods poor in quality, but give us full measure and be charitable to us. Indeed, Allāh rewards the charitable."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ یوسف کے پاس گئے تو کہنے لگے کہ عزیز ہمیں اور ہمارے اہل وعیال کو بڑی تکلیف ہو رہی ہے اور ہم تھوڑا سا سرمایہ لائے ہیں آپ ہمیں (اس کے عوض) پورا غلّہ دے دیجیئے اور خیرات کیجیئے۔ کہ خدا خیرات کرنے والوں کو ثواب دیتا ہے
+
+[Open on Quran.com](https://quran.com/12/88)
+
+#### 63:10 · [[063 Al-Munafiqun]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنفِقُوا۟ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّـٰلِحِينَ
+
+</div>
+
+**Word in this verse:** `فَأَصَّدَّقَ` — so I would give charity
+
+**English (Sahih International):** And spend [in the way of Allāh] from what We have provided you before death approaches one of you and he says, "My Lord, if only You would delay me for a brief term so I would give charity and be of the righteous."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو (مال) ہم نے تم کو دیا ہے اس میں سے اس (وقت) سے پیشتر خرچ کرلو کہ تم میں سے کسی کی موت آجائے تو (اس وقت) کہنے لگے کہ اے میرے پروردگار تو نے مجھے تھوڑی سی اور مہلت کیوں نہ دی تاکہ میں خیرات کرلیتا اور نیک لوگوں میں داخل ہوجاتا
+
+[Open on Quran.com](https://quran.com/63/10)
+

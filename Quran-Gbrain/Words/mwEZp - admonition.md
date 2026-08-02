@@ -1,0 +1,179 @@
+---
+type: word
+lemma: "مَوْعِظَة"
+slug: "mwEZp - admonition"
+surah_count: 8
+ayah_count: 9
+tags: [word, meaning]
+---
+
+# mwEZp - admonition
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[wEZ - wezh]]
+
+### Meaning
+**admonition** · Lemma **مَوْعِظَة**
+
+### Surahs (8)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[005 Al-Maidah]]
+- [[007 Al-Araf]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[016 An-Nahl]]
+- [[024 An-Nur]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:66 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَجَعَلْنَـٰهَا نَكَـٰلًا لِّمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةً لِّلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `وَمَوْعِظَةًۭ` — and an admonition
+
+**English (Sahih International):** And We made it a deterrent punishment for those who were present and those who succeeded [them] and a lesson for those who fear Allāh.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس قصے کو اس وقت کے لوگوں کے لیے اور جو ان کے بعد آنے والے تھے عبرت اور پرہیز گاروں کے لیے نصیحت بنا دیا
+
+[Open on Quran.com](https://quran.com/2/66)
+
+#### 2:275 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَـٰنُ مِنَ ٱلْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ ۗ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ ۚ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ ۖ وَمَنْ عَادَ فَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ
+
+</div>
+
+**Word in this verse:** `مَوْعِظَةٌۭ` — (the) admonition
+
+**English (Sahih International):** Those who consume interest cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, "Trade is [just] like interest." But Allāh has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair rests with Allāh. But whoever returns [to dealing in interest or usury] - those are the companions of the Fire; they will abide eternally therein.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ سود کھاتے ہیں وہ (قبروں سے) اس طرح (حواس باختہ) اٹھیں گے جیسے کسی کو جن نے لپٹ کر دیوانہ بنا دیا ہو یہ اس لئے کہ وہ کہتے ہیں کہ سودا بیچنا بھی تو (نفع کے لحاظ سے) ویسا ہی ہے جیسے سود (لینا) حالانکہ سودے کو خدا نے حلال کیا ہے اور سود کو حرام۔ تو جس شخص کے پاس خدا کی نصیحت پہنچی اور وہ (سود لینے سے) باز آگیا تو جو پہلے ہوچکا وہ اس کا۔ اور (قیامت میں) اس کا معاملہ خدا کے سپرد اور جو پھر لینے لگا تو ایسے لوگ دوزخی ہیں کہ ہمیشہ دوزخ میں (جلتے) رہیں گے
+
+[Open on Quran.com](https://quran.com/2/275)
+
+#### 3:138 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هَـٰذَا بَيَانٌ لِّلنَّاسِ وَهُدًى وَمَوْعِظَةٌ لِّلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `وَمَوْعِظَةٌۭ` — and admonition
+
+**English (Sahih International):** This [Qur’ān] is a clear statement to [all] the people and a guidance and instruction for those conscious of Allāh.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ (قرآن) لوگوں کے لیے بیان صریح اور اہلِ تقویٰ کے لیے ہدایت اور نصیحت ہے
+
+[Open on Quran.com](https://quran.com/3/138)
+
+#### 5:46 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَفَّيْنَا عَلَىٰٓ ءَاثَـٰرِهِم بِعِيسَى ٱبْنِ مَرْيَمَ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلتَّوْرَىٰةِ ۖ وَءَاتَيْنَـٰهُ ٱلْإِنجِيلَ فِيهِ هُدًى وَنُورٌ وَمُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلتَّوْرَىٰةِ وَهُدًى وَمَوْعِظَةً لِّلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `وَمَوْعِظَةًۭ` — and an admonition
+
+**English (Sahih International):** And We sent, following in their footsteps, Jesus, the son of Mary, confirming that which came before him in the Torah; and We gave him the Gospel, in which was guidance and light and confirming that which preceded it of the Torah as guidance and instruction for the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان پیغمبروں کے بعد انہی کے قدموں پر ہم نے عیسیٰ بن مریم کو بھیجا جو اپنے سے پہلے کی کتاب تورات کی تصدیق کرتے تھے اور ان کو انجیل عنایت کی جس میں ہدایت اور نور ہے اور تورات کی جو اس سے پہلی کتاب (ہے) تصدیق کرتی ہے اور پرہیزگاروں کو راہ بتاتی اور نصیحت کرتی ہے
+
+[Open on Quran.com](https://quran.com/5/46)
+
+#### 7:145 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَتَبْنَا لَهُۥ فِى ٱلْأَلْوَاحِ مِن كُلِّ شَىْءٍ مَّوْعِظَةً وَتَفْصِيلًا لِّكُلِّ شَىْءٍ فَخُذْهَا بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُوا۟ بِأَحْسَنِهَا ۚ سَأُو۟رِيكُمْ دَارَ ٱلْفَـٰسِقِينَ
+
+</div>
+
+**Word in this verse:** `مَّوْعِظَةًۭ` — an instruction
+
+**English (Sahih International):** And We wrote for him on the tablets [something] of all things - instruction and explanation for all things, [saying], "Take them with determination and order your people to take the best of it. I will show you the home of the defiantly disobedient."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے (تورات) کی تختیوں میں ان کے لیے ہر قسم کی نصیحت اور ہر چیز کی تفصیل لکھ دی پھر (ارشاد فرمایا کہ) اسے زور سے پکڑے رہو اور اپنی قوم سے بھی کہہ دو کہ ان باتوں کو جو اس میں (مندرج ہیں اور) بہت بہتر ہیں پکڑے رہیں۔ میں عنقریب تم کو نافرمان لوگوں کا گھر دکھاؤں گا
+
+[Open on Quran.com](https://quran.com/7/145)
+
+#### 10:57 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلنَّاسُ قَدْ جَآءَتْكُم مَّوْعِظَةٌ مِّن رَّبِّكُمْ وَشِفَآءٌ لِّمَا فِى ٱلصُّدُورِ وَهُدًى وَرَحْمَةٌ لِّلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `مَّوْعِظَةٌۭ` — an instruction
+
+**English (Sahih International):** O mankind, there has come to you instruction from your Lord and healing for what is in the breasts and guidance and mercy for the believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو تمہارے پروردگار کی طرف سے نصیحت اور دلوں کی بیماریوں کی شفا۔ اور مومنوں کے لیے ہدایت اور رحمت آپہنچی ہے
+
+[Open on Quran.com](https://quran.com/10/57)
+
+#### 11:120 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكُلًّا نَّقُصُّ عَلَيْكَ مِنْ أَنۢبَآءِ ٱلرُّسُلِ مَا نُثَبِّتُ بِهِۦ فُؤَادَكَ ۚ وَجَآءَكَ فِى هَـٰذِهِ ٱلْحَقُّ وَمَوْعِظَةٌ وَذِكْرَىٰ لِلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `وَمَوْعِظَةٌۭ` — and an admonition
+
+**English (Sahih International):** And each [story] We relate to you from the news of the messengers is that by which We make firm your heart. And there has come to you, in this, the truth and an instruction and a reminder for the believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) اور پیغمبروں کے وہ سب حالات جو ہم تم سے بیان کرتے ہیں ان سے ہم تمہارے دل کو قائم رکھتے ہیں۔ اور ان (قصص) میں تمہارے پاس حق پہنچ گیا اور یہ مومنوں کے لیے نصیحت اور عبرت ہے
+
+[Open on Quran.com](https://quran.com/11/120)
+
+#### 16:125 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱدْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلْحِكْمَةِ وَٱلْمَوْعِظَةِ ٱلْحَسَنَةِ ۖ وَجَـٰدِلْهُم بِٱلَّتِى هِىَ أَحْسَنُ ۚ إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ ۖ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ
+
+</div>
+
+**Word in this verse:** `وَٱلْمَوْعِظَةِ` — and the instruction
+
+**English (Sahih International):** Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of who is [rightly] guided.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگوں کو دانش اور نیک نصیحت سے اپنے پروردگار کے رستے کی طرف بلاؤ۔ اور بہت ہی اچھے طریق سے ان سے مناظرہ کرو۔ جو اس کے رستے سے بھٹک گیا تمہارا پروردگار اسے بھی خوب جانتا ہے اور جو رستے پر چلنے والے ہیں ان سے بھی خوب واقف ہے
+
+[Open on Quran.com](https://quran.com/16/125)
+
+#### 24:34 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ أَنزَلْنَآ إِلَيْكُمْ ءَايَـٰتٍ مُّبَيِّنَـٰتٍ وَمَثَلًا مِّنَ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُمْ وَمَوْعِظَةً لِّلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `وَمَوْعِظَةًۭ` — and an admonition
+
+**English (Sahih International):** And We have certainly sent down to you distinct verses and examples from those who passed on before you and an admonition for those who fear Allāh.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تمہاری طرف روشن آیتیں نازل کی ہیں اور جو لوگ تم سے پہلے گزر چکے ہیں ان کی خبریں اور پرہیزگاروں کے لئے نصیحت
+
+[Open on Quran.com](https://quran.com/24/34)
+

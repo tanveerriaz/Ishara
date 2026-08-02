@@ -1,0 +1,197 @@
+---
+type: word
+lemma: "عِظام"
+slug: "EZAm - bones"
+surah_count: 8
+ayah_count: 12
+tags: [word, meaning]
+---
+
+# EZAm - bones
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[EZm - ezhm]]
+
+### Meaning
+**bones** · Lemma **عِظام**
+
+### Surahs (8)
+- [[002 Al-Baqarah]]
+- [[017 Al-Isra]]
+- [[023 Al-Muminun]]
+- [[036 Ya-Sin]]
+- [[037 As-Saffat]]
+- [[056 Al-Waqiah]]
+- [[075 Al-Qiyamah]]
+- [[079 An-Naziat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:259 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَـٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ ۖ قَالَ كَمْ لَبِثْتَ ۖ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ ۖ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ ۖ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ ۖ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا ۚ فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+
+</div>
+
+**Word in this verse:** `ٱلْعِظَامِ` — the bones
+
+**English (Sahih International):** Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, "How will Allāh bring this to life after its death?" So Allāh caused him to die for a hundred years; then He revived him. He said, "How long have you remained?" He [the man] said, "I have remained a day or part of a day." He said, "Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh." And when it became clear to him, he said, "I know that Allāh is over all things competent."
+
+**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
+
+[Open on Quran.com](https://quran.com/2/259)
+
+#### 17:49 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَـٰمًا وَرُفَـٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا
+
+</div>
+
+**Word in this verse:** `عِظَـٰمًۭا` — bones
+
+**English (Sahih International):** And they say, "When we are bones and crumbled particles, will we [truly] be resurrected as a new creation?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ جب ہم (مر کر بوسیدہ) ہڈیوں اور چُور چُور ہوجائیں گے تو کیا ازسرنو پیدا ہو کر اُٹھیں گے
+
+[Open on Quran.com](https://quran.com/17/49)
+
+#### 17:98 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمْ كَفَرُوا۟ بِـَٔايَـٰتِنَا وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَـٰمًا وَرُفَـٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا
+
+</div>
+
+**Word in this verse:** `عِظَـٰمًۭا` — bones
+
+**English (Sahih International):** That is their recompense because they disbelieved in Our verses and said, "When we are bones and crumbled particles, will we [truly] be resurrected [in] a new creation?"
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ ان کی سزا ہے اس لئے کہ وہ ہماری آیتوں سے کفر کرتے تھے اور کہتے تھے کہ جب ہم (مر کر بوسیدہ) ہڈیاں اور ریزہ ریزہ ہوجائیں گے تو کیا ازسرنو پیدا کئے جائیں گے
+
+[Open on Quran.com](https://quran.com/17/98)
+
+#### 23:14 · [[023 Al-Muminun]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَـٰمًا فَكَسَوْنَا ٱلْعِظَـٰمَ لَحْمًا ثُمَّ أَنشَأْنَـٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَـٰلِقِينَ
+
+</div>
+
+**Word in this verse:** `عِظَـٰمًۭا` — (into) bones
+
+**English (Sahih International):** Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allāh, the best of creators.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر نطفے کا لوتھڑا بنایا۔ پھر لوتھڑے کی بوٹی بنائی پھر بوٹی کی ہڈیاں بنائیں پھر ہڈیوں پر گوشت (پوست) چڑھایا۔ پھر اس کو نئی صورت میں بنا دیا۔ تو خدا جو سب سے بہتر بنانے والا بڑا بابرکت ہے
+
+[Open on Quran.com](https://quran.com/23/14)
+
+#### 23:35 · [[023 Al-Muminun]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَـٰمًا أَنَّكُم مُّخْرَجُونَ
+
+</div>
+
+**Word in this verse:** `وَعِظَـٰمًا` — and bones
+
+**English (Sahih International):** Does he promise you that when you have died and become dust and bones that you will be brought forth [once more]?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ تم سے یہ کہتا ہے کہ جب تم مر جاؤ گے اور مٹی ہو جاؤ گے اور استخوان (کے سوا کچھ نہ رہے گا) تو تم (زمین سے) نکالے جاؤ گے
+
+[Open on Quran.com](https://quran.com/23/35)
+
+#### 23:82 · [[023 Al-Muminun]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالُوٓا۟ أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ
+
+</div>
+
+**Word in this verse:** `وَعِظَـٰمًا` — and bones
+
+**English (Sahih International):** They said, "When we have died and become dust and bones, are we indeed to be resurrected?
+
+**Urdu (Fatah Muhammad Jalandhari):** کہتے ہیں کہ جب ہم مر جائیں گے اور مٹی ہو جائیں گے اور استخوان (بوسیدہ کے سوا کچھ) نہ رہے گا تو کیا ہم پھر اٹھائے جائیں گے؟
+
+[Open on Quran.com](https://quran.com/23/82)
+
+#### 36:78 · [[036 Ya-Sin]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ ۖ قَالَ مَن يُحْىِ ٱلْعِظَـٰمَ وَهِىَ رَمِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلْعِظَـٰمَ` — (to) the bones
+
+**English (Sahih International):** And he presents for Us an example and forgets his [own] creation. He says, "Who will give life to bones while they are disintegrated?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہمارے بارے میں مثالیں بیان کرنے لگا اور اپنی پیدائش کو بھول گیا۔ کہنے لگا کہ (جب) ہڈیاں بوسیدہ ہوجائیں گی تو ان کو کون زندہ کرے گا؟
+
+[Open on Quran.com](https://quran.com/36/78)
+
+#### 37:16 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ
+
+</div>
+
+**Word in this verse:** `وَعِظَـٰمًا` — and bones
+
+**English (Sahih International):** When we have died and become dust and bones, are we indeed to be resurrected?
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جب ہم مرگئے اور مٹی اور ہڈیاں ہوگئے تو کیا پھر اٹھائے جائیں گے؟
+
+[Open on Quran.com](https://quran.com/37/16)
+
+#### 37:53 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَدِينُونَ
+
+</div>
+
+**Word in this verse:** `وَعِظَـٰمًا` — and bones
+
+**English (Sahih International):** That when we have died and become dust and bones, we will indeed be recompensed?'"
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جب ہم مر گئے اور مٹی اور ہڈیاں ہوگئے تو کیا ہم کو بدلہ ملے گا؟
+
+[Open on Quran.com](https://quran.com/37/53)
+
+#### 56:47 · [[056 Al-Waqiah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ
+
+</div>
+
+**Word in this verse:** `وَعِظَـٰمًا` — and bones
+
+**English (Sahih International):** And they used to say, "When we die and become dust and bones, are we indeed to be resurrected?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہا کرتے تھے کہ بھلا جب ہم مرگئے اور مٹی ہوگئے اور ہڈیاں (ہی ہڈیاں رہ گئے) تو کیا ہمیں پھر اُٹھنا ہوگا؟
+
+[Open on Quran.com](https://quran.com/56/47)
+
+_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

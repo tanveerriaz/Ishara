@@ -1,0 +1,206 @@
+---
+type: word
+lemma: "بِرّ"
+slug: "br - land"
+surah_count: 17
+ayah_count: 28
+tags: [word, meaning]
+---
+
+# br - land
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[brr - brr]]
+
+### Meaning
+**land** · Lemma **بِرّ**
+
+### Surahs (17)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[010 Yunus]]
+- [[017 Al-Isra]]
+- [[019 Maryam]]
+- [[027 An-Naml]]
+- [[029 Al-Ankabut]]
+- [[030 Ar-Rum]]
+- [[031 Luqman]]
+- [[052 At-Tur]]
+- [[058 Al-Mujadila]]
+- [[076 Al-Insan]]
+- [[080 Abasa]]
+- [[082 Al-Infitar]]
+- [[083 Al-Mutaffifin]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:44 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ أَتَأْمُرُونَ ٱلنَّاسَ بِٱلْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ ٱلْكِتَـٰبَ ۚ أَفَلَا تَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `بِٱلْبِرِّ` — [the] righteousness
+
+**English (Sahih International):** Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason?
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ) کیا (عقل کی بات ہے کہ) تم لوگوں کو نیکی کرنے کو کہتے ہو اور اپنے تئیں فراموش کئے دیتے ہو، حالانکہ تم کتاب (خدا) بھی پڑھتے ہو۔ کیا تم سمجھتے نہیں؟
+
+[Open on Quran.com](https://quran.com/2/44)
+
+#### 2:177 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْبِرَّ` — [the] righteousness
+
+**English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+
+[Open on Quran.com](https://quran.com/2/177)
+
+#### 2:189 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ ۖ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ ۗ وَلَيْسَ ٱلْبِرُّ بِأَن تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَـٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ ۗ وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْبِرُّ` — [the] righteousness
+
+**English (Sahih International):** They ask you, [O Muḥammad], about the crescent moons. Say, "They are measurements of time for the people and for ḥajj [pilgrimage]." And it is not righteousness to enter houses from the back, but righteousness is [in] one who fears Allāh. And enter houses from their doors. And fear Allāh that you may succeed.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے نئے چاند کے بارے میں دریافت کرتے ہیں (کہ گھٹتا بڑھتا کیوں ہے) کہہ دو کہ وہ لوگوں کے (کاموں کی میعادیں) اور حج کے وقت معلوم ہونے کا ذریعہ ہے اور نیکی اس بات میں نہیں کہ (احرام کی حالت میں) گھروں میں ان کے پچھواڑے کی طرف سے آؤ۔ بلکہ نیکوکار وہ ہے جو پرہیز گار ہو اور گھروں میں ان کے دروازوں سے آیا کرو اور خدا سے ڈرتے رہو تاکہ نجات پاؤ
+
+[Open on Quran.com](https://quran.com/2/189)
+
+#### 3:92 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلْبِرَّ` — [the] righteousness
+
+**English (Sahih International):** Never will you attain the good [reward] until you spend [in the way of Allāh] from that which you love. And whatever you spend - indeed, Allāh is Knowing of it.
+
+**Urdu (Fatah Muhammad Jalandhari):** (مومنو!) جب تک تم ان چیزوں میں سے جو تمھیں عزیز ہیں (راہِ خدا میں) صرف نہ کرو گے کبھی نیکی حاصل نہ کر سکو گے اور جو چیز تم صرف کرو گے خدا اس کو جانتا ہے
+
+[Open on Quran.com](https://quran.com/3/92)
+
+#### 3:193 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رَّبَّنَآ إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِى لِلْإِيمَـٰنِ أَنْ ءَامِنُوا۟ بِرَبِّكُمْ فَـَٔامَنَّا ۚ رَبَّنَا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلْأَبْرَارِ
+
+</div>
+
+**Word in this verse:** `ٱلْأَبْرَارِ` — the righteous
+
+**English (Sahih International):** Our Lord, indeed we have heard a caller [i.e., Prophet Muḥammad (ﷺ)] calling to faith, [saying], 'Believe in your Lord,' and we have believed. Our Lord, so forgive us our sins and remove from us our misdeeds and cause us to die among the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگارہم نے ایک ندا کرنے والے کو سنا کہ ایمان کے لیے پکار رہا تھا (یعنی) اپنے پروردگار پر ایمان لاؤ تو ہم ایمان لے آئے اے پروردگار ہمارے گناہ معاف فرما اور ہماری برائیوں کو ہم سے محو کر اور ہم کو دنیا سے نیک بندوں کے ساتھ اٹھا
+
+[Open on Quran.com](https://quran.com/3/193)
+
+#### 3:198 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ
+
+</div>
+
+**Word in this verse:** `لِّلْأَبْرَارِ` — for the righteous
+
+**English (Sahih International):** But those who feared their Lord will have gardens beneath which rivers flow, abiding eternally therein, as accommodation from Allāh. And that which is with Allāh is best for the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** لیکن جو لوگ اپنے پروردگار سے ڈرتے رہے ان کے لیے باغ ہے جن کے نیچے نہریں بہہ رہی ہیں (اور) ان میں ہمیشہ رہیں گے (یہ) خدا کے ہاں سے (ان کی) مہمانی ہے اور جو کچھ خدا کے ہاں ہے وہ نیکو کاروں کے لیے بہت اچھا ہے
+
+[Open on Quran.com](https://quran.com/3/198)
+
+#### 5:2 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَـٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَـٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا ۚ وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ ۚ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ ۘ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+
+</div>
+
+**Word in this verse:** `ٱلْبِرِّ` — [the] righteousness
+
+**English (Sahih International):** O you who have believed, do not violate the rites of Allāh or [the sanctity of] the sacred month or [neglect the marking of] the sacrificial animals and garlanding [them] or [violate the safety of] those coming to the Sacred House seeking bounty from their Lord and [His] approval. But when you come out of iḥrām, then [you may] hunt. And do not let the hatred of a people for having obstructed you from al-Masjid al-Ḥarām lead you to transgress. And cooperate in righteousness and piety, but do not cooperate in sin and aggression. And fear Allāh; indeed, Allāh is severe in penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کے نام کی چیزوں کی بےحرمتی نہ کرنا اور نہ ادب کے مہینے کی اور نہ قربانی کے جانوروں کی اور نہ ان جانوروں کی (جو خدا کی نذر کر دیئے گئے ہوں اور) جن کے گلوں میں پٹے بندھے ہوں اور نہ ان لوگوں کی جو عزت کے گھر (یعنی بیت الله) کو جا رہے ہوں (اور) اپنے پروردگار کے فضل اور اس کی خوشنودی کے طلبگار ہوں اور جب احرام اتار دو تو (پھر اختیار ہے کہ) شکار کرو اور لوگوں کی دشمنی اس وجہ سے کہ انہوں نے تم کو عزت والی مسجد سے روکا تھا تمہیں اس بات پر آمادہ نہ کرے کہ تم ان پر زیادتی کرنے لگو اور (دیکھو) نیکی اور پرہیزگاری کے کاموں میں ایک دوسرے کی مدد کیا کرو اور گناہ اور ظلم کی باتوں میں مدد نہ کیا کرو اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا کا عذاب سخت ہے
+
+[Open on Quran.com](https://quran.com/5/2)
+
+#### 5:96 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أُحِلَّ لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَـٰعًا لَّكُمْ وَلِلسَّيَّارَةِ ۖ وَحُرِّمَ عَلَيْكُمْ صَيْدُ ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا ۗ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْبَرِّ` — (of) the land
+
+**English (Sahih International):** Lawful to you is game from the sea and its food as provision for you and the travelers, but forbidden to you is game from the land as long as you are in the state of iḥrām. And fear Allāh to whom you will be gathered.
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہارے لیے دریا (کی چیزوں) کا شکار اور ان کا کھانا حلال کر دیا گیا ہے (یعنی) تمہارے اور مسافروں کے فائدے کے لیے اور جنگل (کی چیزوں) کا شکار جب تک تم احرام کی حالت میں رہو تم پر حرام ہے اور خدا سے جس کے پاس تم (سب) جمع کئے جاؤ گے ڈرتے رہو
+
+[Open on Quran.com](https://quran.com/5/96)
+
+#### 6:59 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ ۚ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ ۚ وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِى ظُلُمَـٰتِ ٱلْأَرْضِ وَلَا رَطْبٍ وَلَا يَابِسٍ إِلَّا فِى كِتَـٰبٍ مُّبِينٍ
+
+</div>
+
+**Word in this verse:** `ٱلْبَرِّ` — the land
+
+**English (Sahih International):** And with Him are the keys of the unseen; none knows them except Him. And He knows what is on the land and in the sea. Not a leaf falls but that He knows it. And no grain is there within the darknesses of the earth and no moist or dry [thing] but that it is [written] in a clear record.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی کے پاس غیب کی کنجیاں ہیں جن کو اس کے سوا کوئی نہیں جانتا۔ اور اسے جنگلوں اور دریاؤں کی سب چیزوں کا علم ہے۔ اور کوئی پتہ نہیں جھڑتا مگر وہ اس کو جانتا ہے اور زمین کے اندھیروں میں کوئی دانہ اور کوئی ہری اور سوکھی چیز نہیں ہے مگر کتاب روشن میں (لکھی ہوئی) ہے
+
+[Open on Quran.com](https://quran.com/6/59)
+
+#### 6:63 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًا وَخُفْيَةً لَّئِنْ أَنجَىٰنَا مِنْ هَـٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّـٰكِرِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْبَرِّ` — (of) the land
+
+**English (Sahih International):** Say, "Who rescues you from the darknesses of the land and sea [when] you call upon Him imploring [aloud] and privately, 'If He should save us from this [crisis], we will surely be among the thankful.'"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو بھلا تم کو جنگلوں اور دریاؤں کے اندھیروں سے کون مخلصی دیتا ہے (جب) کہ تم اسے عاجزی اور نیاز پنہانی سے پکارتے ہو (اور کہتے ہو) اگر خدا ہم کو اس (تنگی) سے نجات بخشے تو ہم اس کے بہت شکر گزار ہوں
+
+[Open on Quran.com](https://quran.com/6/63)
+
+_…and **18** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

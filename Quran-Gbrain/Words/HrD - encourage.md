@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "حَرِّضِ"
+slug: "HrD - encourage"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# HrD - encourage
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[HrD - hrd]]
+
+### Meaning
+**encourage** · Lemma **حَرِّضِ**
+
+### Surahs (3)
+- [[004 An-Nisa]]
+- [[008 Al-Anfal]]
+- [[012 Yusuf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:84 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَقَـٰتِلْ فِى سَبِيلِ ٱللَّهِ لَا تُكَلَّفُ إِلَّا نَفْسَكَ ۚ وَحَرِّضِ ٱلْمُؤْمِنِينَ ۖ عَسَى ٱللَّهُ أَن يَكُفَّ بَأْسَ ٱلَّذِينَ كَفَرُوا۟ ۚ وَٱللَّهُ أَشَدُّ بَأْسًا وَأَشَدُّ تَنكِيلًا
+
+</div>
+
+**Word in this verse:** `وَحَرِّضِ` — And encourage
+
+**English (Sahih International):** So fight, [O Muḥammad], in the cause of Allāh; you are not held responsible except for yourself. And encourage the believers [to join you] that perhaps Allāh will restrain the [military] might of those who disbelieve. And Allāh is greater in might and stronger in [exemplary] punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو (اے محمدﷺ) تم خدا کی راہ میں لڑو تم اپنے سوا کسی کے ذمہ دار نہیں اور مومنوں کو بھی ترغیب دو قریب ہے کہ خدا کافروں کی لڑائی کو بند کردے اور خدا لڑائی کے اعتبار سے بہت سخت ہے اور سزا کے لحاظ سے بھی بہت سخت ہے
+
+[Open on Quran.com](https://quran.com/4/84)
+
+#### 8:65 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلنَّبِىُّ حَرِّضِ ٱلْمُؤْمِنِينَ عَلَى ٱلْقِتَالِ ۚ إِن يَكُن مِّنكُمْ عِشْرُونَ صَـٰبِرُونَ يَغْلِبُوا۟ مِا۟ئَتَيْنِ ۚ وَإِن يَكُن مِّنكُم مِّا۟ئَةٌ يَغْلِبُوٓا۟ أَلْفًا مِّنَ ٱلَّذِينَ كَفَرُوا۟ بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
+
+</div>
+
+**Word in this verse:** `حَرِّضِ` — Urge
+
+**English (Sahih International):** O Prophet, urge the believers to battle. If there are among you twenty [who are] steadfast, they will overcome two hundred. And if there are among you one hundred [who are steadfast], they will overcome a thousand of those who have disbelieved because they are a people who do not understand.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی! مسلمانوں کو جہاد کی ترغیب دو۔ اور اگر تم بیس آدمی ثابت قدم رہنے والے ہوں گے تو دو سو کافروں پر غالب رہیں گے۔ اور اگر سو (ایسے) ہوں گے تو ہزار پر غالب رہیں گے۔ اس لیے کہ کافر ایسے لوگ ہیں کہ کچھ بھی سمجھ نہیں رکھتے
+
+[Open on Quran.com](https://quran.com/8/65)
+
+#### 12:85 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَـٰلِكِينَ
+
+</div>
+
+**Word in this verse:** `حَرَضًا` — fatally ill
+
+**English (Sahih International):** They said, "By Allāh, you will not cease remembering Joseph until you become fatally ill or become of those who perish."
+
+**Urdu (Fatah Muhammad Jalandhari):** بیٹے کہنے لگے کہ والله اگر آپ یوسف کو اسی طرح یاد ہی کرتے رہیں گے تو یا تو بیمار ہوجائیں گے یا جان ہی دے دیں گے
+
+[Open on Quran.com](https://quran.com/12/85)
+

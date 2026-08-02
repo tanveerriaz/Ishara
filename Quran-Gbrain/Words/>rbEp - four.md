@@ -1,0 +1,176 @@
+---
+type: word
+lemma: "أَرْبَعَة"
+slug: ">rbEp - four"
+surah_count: 5
+ayah_count: 9
+tags: [word, meaning]
+---
+
+# >rbEp - four
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[rbE - rbe]]
+
+### Meaning
+**four** · Lemma **أَرْبَعَة**
+
+### Surahs (5)
+- [[002 Al-Baqarah]]
+- [[004 An-Nisa]]
+- [[009 At-Tawbah]]
+- [[024 An-Nur]]
+- [[041 Fussilat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:226 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لِّلَّذِينَ يُؤْلُونَ مِن نِّسَآئِهِمْ تَرَبُّصُ أَرْبَعَةِ أَشْهُرٍ ۖ فَإِن فَآءُو فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `أَرْبَعَةِ` — four
+
+**English (Sahih International):** For those who swear not to have sexual relations with their wives is a waiting time of four months, but if they return [to normal relations] - then indeed, Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنی عورتوں کے پاس جانے سے قسم کھالیں ان کو چار مہینے تک انتظار کرنا چاہیئے۔ اگر (اس عرصے میں قسم سے) رجوع کرلیں تو خدا بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/2/226)
+
+#### 2:234 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًا يَتَرَبَّصْنَ بِأَنفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا ۖ فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ بِٱلْمَعْرُوفِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+
+</div>
+
+**Word in this verse:** `أَرْبَعَةَ` — (for) four
+
+**English (Sahih International):** And those who are taken in death among you and leave wives behind - they, [the wives, shall] wait four months and ten [days]. And when they have fulfilled their term, then there is no blame upon you for what they do with themselves in an acceptable manner. And Allāh is [fully] Aware of what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم میں سے مرجائیں اور عورتیں چھوڑ جائیں تو عورتیں چار مہینے دس دن اپنے آپ کو روکے رہیں۔ اور جب (یہ) عدت پوری کرچکیں اور اپنے حق میں پسندیدہ کام (یعنی نکاح) کرلیں تو ان پر کچھ گناہ نہیں۔ اور خدا تمہارے سب کاموں سے واقف ہے
+
+[Open on Quran.com](https://quran.com/2/234)
+
+#### 2:260 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّ أَرِنِى كَيْفَ تُحْىِ ٱلْمَوْتَىٰ ۖ قَالَ أَوَلَمْ تُؤْمِن ۖ قَالَ بَلَىٰ وَلَـٰكِن لِّيَطْمَئِنَّ قَلْبِى ۖ قَالَ فَخُذْ أَرْبَعَةً مِّنَ ٱلطَّيْرِ فَصُرْهُنَّ إِلَيْكَ ثُمَّ ٱجْعَلْ عَلَىٰ كُلِّ جَبَلٍ مِّنْهُنَّ جُزْءًا ثُمَّ ٱدْعُهُنَّ يَأْتِينَكَ سَعْيًا ۚ وَٱعْلَمْ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
+
+</div>
+
+**Word in this verse:** `أَرْبَعَةًۭ` — four
+
+**English (Sahih International):** And [mention] when Abraham said, "My Lord, show me how You give life to the dead." [Allāh] said, "Have you not believed?" He said, "Yes, but [I ask] only that my heart may be satisfied." [Allāh] said, "Take four birds and commit them to yourself. Then [after slaughtering them] put on each hill a portion of them; then call them - they will come [flying] to you in haste. And know that Allāh is Exalted in Might and Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے (خدا سے) کہا کہ اے پروردگار مجھے دکھا کہ تو مردوں کو کیونکر زندہ کرے گا۔ خدا نے فرمایا کیا تم نے (اس بات کو) باور نہیں کیا۔ انہوں نے کہا کیوں نہیں۔ لیکن (میں دیکھنا) اس لئے (چاہتا ہوں) کہ میرا دل اطمینان کامل حاصل کرلے۔ خدا نے فرمایا کہ چار جانور پکڑوا کر اپنے پاس منگا لو (اور ٹکڑے ٹکڑے کرادو) پھر ان کا ایک ٹکڑا ہر ایک پہاڑ پر رکھوا دو پھر ان کو بلاؤ تو وہ تمہارے پاس دوڑتے چلے آئیں گے۔ اور جان رکھو کہ خدا غالب اور صاحب حکمت ہے۔
+
+[Open on Quran.com](https://quran.com/2/260)
+
+#### 4:15 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّـٰتِى يَأْتِينَ ٱلْفَـٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ ۖ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًا
+
+</div>
+
+**Word in this verse:** `أَرْبَعَةًۭ` — four
+
+**English (Sahih International):** Those who commit immorality [i.e., unlawful sexual intercourse] of your women - bring against them four [witnesses] from among you. And if they testify, confine them [i.e., the guilty women] to houses until death takes them or Allāh ordains for them [another] way.
+
+**Urdu (Fatah Muhammad Jalandhari):** مسلمانو تمہاری عورتوں میں جو بدکاری کا ارتکاب کر بیٹھیں ان پر اپنے لوگوں میں سے چار شخصوں کی شہادت لو۔ اگر وہ (ان کی بدکاری کی)گواہی دیں تو ان عورتوں کو گھروں میں بند رکھو یہاں تک کہ موت ان کا کام تمام کردے یا خدا ان کے لئے کوئی اور سبیل (پیدا) کرے
+
+[Open on Quran.com](https://quran.com/4/15)
+
+#### 9:2 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَسِيحُوا۟ فِى ٱلْأَرْضِ أَرْبَعَةَ أَشْهُرٍ وَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ ۙ وَأَنَّ ٱللَّهَ مُخْزِى ٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `أَرْبَعَةَ` — (during) four
+
+**English (Sahih International):** So travel freely, [O disbelievers], throughout the land [during] four months but know that you cannot cause failure to Allāh and that Allāh will disgrace the disbelievers.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو (مشرکو تم) زمین میں چار مہینے چل پھر لو اور جان رکھو کہ تم خدا کو عاجز نہ کرسکو گے۔ اور یہ بھی کہ خدا کافروں کو رسوا کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/9/2)
+
+#### 9:36 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثْنَا عَشَرَ شَهْرًا فِى كِتَـٰبِ ٱللَّهِ يَوْمَ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ مِنْهَآ أَرْبَعَةٌ حُرُمٌ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ ۚ فَلَا تَظْلِمُوا۟ فِيهِنَّ أَنفُسَكُمْ ۚ وَقَـٰتِلُوا۟ ٱلْمُشْرِكِينَ كَآفَّةً كَمَا يُقَـٰتِلُونَكُمْ كَآفَّةً ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `أَرْبَعَةٌ` — four
+
+**English (Sahih International):** Indeed, the number of months with Allāh is twelve [lunar] months in the register of Allāh [from] the day He created the heavens and the earth; of these, four are sacred. That is the correct religion [i.e., way], so do not wrong yourselves during them. And fight against the disbelievers collectively as they fight against you collectively. And know that Allāh is with the righteous [who fear Him].
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا کے نزدیک مہینے گنتی میں (بارہ ہیں یعنی) اس روز (سے) کہ اس نے آسمانوں اور زمین کو پیدا کیا۔ کتاب خدا میں (برس کے) بارہ مہینے (لکھے ہوئے) ہیں۔ ان میں سے چار مہینے ادب کے ہیں۔ یہی دین (کا) سیدھا راستہ ہے۔ تو ان (مہینوں) میں (قتال ناحق سے) اپنے آپ پر ظلم نہ کرنا۔ اور تم سب کے سب مشرکوں سے لڑو جیسے وہ سب کے سب تم سے لڑتے ہیں۔ اور جان رکھو کہ خدا پرہیز گاروں کے ساتھ ہے
+
+[Open on Quran.com](https://quran.com/9/36)
+
+#### 24:4 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَـٰتِ ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ ثَمَـٰنِينَ جَلْدَةً وَلَا تَقْبَلُوا۟ لَهُمْ شَهَـٰدَةً أَبَدًا ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ
+
+</div>
+
+**Word in this verse:** `بِأَرْبَعَةِ` — four
+
+**English (Sahih International):** And those who accuse chaste women and then do not produce four witnesses - lash them with eighty lashes and do not accept from them testimony ever after. And those are the defiantly disobedient,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ پرہیزگار عورتوں کو بدکاری کا عیب لگائیں اور اس پر چار گواہ نہ لائیں تو ان کو اسی درے مارو اور کبھی ان کی شہادت قبول نہ کرو۔ اور یہی بدکردار ہیں
+
+[Open on Quran.com](https://quran.com/24/4)
+
+#### 24:13 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَّوْلَا جَآءُو عَلَيْهِ بِأَرْبَعَةِ شُهَدَآءَ ۚ فَإِذْ لَمْ يَأْتُوا۟ بِٱلشُّهَدَآءِ فَأُو۟لَـٰٓئِكَ عِندَ ٱللَّهِ هُمُ ٱلْكَـٰذِبُونَ
+
+</div>
+
+**Word in this verse:** `بِأَرْبَعَةِ` — four
+
+**English (Sahih International):** Why did they [who slandered] not produce for it four witnesses? And when they do not produce the witnesses, then it is they, in the sight of Allāh, who are the liars.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ (افتراء پرداز) اپنی بات (کی تصدیق) کے (لئے) چار گواہ کیوں نہ لائے۔ تو جب یہ گواہ نہیں لاسکے تو خدا کے نزدیک یہی جھوٹے ہیں
+
+[Open on Quran.com](https://quran.com/24/13)
+
+#### 41:10 · [[041 Fussilat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَـٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ
+
+</div>
+
+**Word in this verse:** `أَرْبَعَةِ` — four
+
+**English (Sahih International):** And He placed on it [i.e., the earth] firmly set mountains over its surface, and He blessed it and determined therein its [creatures'] sustenance in four days without distinction - for [the information of] those who ask.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے زمین میں اس کے اوپر پہاڑ بنائے اور زمین میں برکت رکھی اور اس میں سب سامان معیشت مقرر کیا (سب) چار دن میں۔ (اور تمام) طلبگاروں کے لئے یکساں
+
+[Open on Quran.com](https://quran.com/41/10)
+

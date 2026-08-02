@@ -1,0 +1,198 @@
+---
+type: word
+lemma: "إِنس"
+slug: "<ns - men"
+surah_count: 9
+ayah_count: 17
+tags: [word, meaning]
+---
+
+# <ns - men
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[>ns - ans]]
+
+### Meaning
+**men** · Lemma **إِنس**
+
+### Surahs (9)
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[017 Al-Isra]]
+- [[027 An-Naml]]
+- [[041 Fussilat]]
+- [[046 Al-Ahqaf]]
+- [[051 Adh-Dhariyat]]
+- [[055 Ar-Rahman]]
+- [[072 Al-Jinn]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 6:112 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا شَيَـٰطِينَ ٱلْإِنسِ وَٱلْجِنِّ يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ ٱلْقَوْلِ غُرُورًا ۚ وَلَوْ شَآءَ رَبُّكَ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْإِنسِ` — (from) the mankind
+
+**English (Sahih International):** And thus We have made for every prophet an enemy - devils from mankind and jinn, inspiring to one another decorative speech in delusion. But if your Lord had willed, they would not have done it, so leave them and that which they invent.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے شیطان (سیرت) انسانوں اور جنوں کو ہر پیغمبر کا دشمن بنا دیا تھا وہ دھوکا دینے کے لیے ایک دوسرے کے دل میں ملمع کی باتیں ڈالتے رہتے تھے اور اگر تمہارا پروردگار چاہتا تو وہ ایسا نہ کرتے تو ان کو اور جو کچھ یہ افتراء کرتے ہیں اسے چھوڑ دو
+
+[Open on Quran.com](https://quran.com/6/112)
+
+#### 6:128 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَوْمَ يَحْشُرُهُمْ جَمِيعًا يَـٰمَعْشَرَ ٱلْجِنِّ قَدِ ٱسْتَكْثَرْتُم مِّنَ ٱلْإِنسِ ۖ وَقَالَ أَوْلِيَآؤُهُم مِّنَ ٱلْإِنسِ رَبَّنَا ٱسْتَمْتَعَ بَعْضُنَا بِبَعْضٍ وَبَلَغْنَآ أَجَلَنَا ٱلَّذِىٓ أَجَّلْتَ لَنَا ۚ قَالَ ٱلنَّارُ مَثْوَىٰكُمْ خَـٰلِدِينَ فِيهَآ إِلَّا مَا شَآءَ ٱللَّهُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلْإِنسِ ۖ` — the mankind
+
+**English (Sahih International):** And [mention, O Muḥammad], the Day when He will gather them together [and say], "O company of jinn, you have [misled] many of mankind." And their allies among mankind will say, "Our Lord, some of us made use of others, and we have [now] reached our term which You appointed for us." He will say, "The Fire is your residence, wherein you will abide eternally, except for what Allāh wills. Indeed, your Lord is Wise and Knowing."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن وہ سب (جنّ وانس) کو جمع کرے گا (اور فرمائے گا کہ) اے گروہ جنّات تم نے انسانوں سے بہت (فائدے) حاصل کئے تو جو انسانوں میں ان کے دوستدار ہوں گے وہ کہیں گے کہ پروردگار ہم ایک دوسرے سے فائدہ اٹھاتے رہے اور (آخر) اس وقت کو پہنچ گئے جو تو نے ہمارے لیے مقرر کیا تھا خدا فرمائے گا (اب) تمہارا ٹھکانہ دوزخ ہے ہمیشہ اس میں (جلتے) رہو گے مگر جو خدا چاہے بےشک تمہارا پروردگار دانا اور خبردار ہے
+
+[Open on Quran.com](https://quran.com/6/128)
+
+#### 6:130 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَـٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا ۚ قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا ۖ وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `وَٱلْإِنسِ` — and [the] men
+
+**English (Sahih International):** "O company of jinn and mankind, did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours?" They will say, "We bear witness against ourselves"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے جنّوں اور انسانوں کی جماعت کیا تمہارے پاس تم ہی میں سے پیغمبر نہیں آتے رہے جو میری آیتیں تم کو پڑھ پڑھ کر سناتے اور اس دن کے سامنے آموجود ہونے سے ڈراتے تھے وہ کہیں گے کہ (پروردگار) ہمیں اپنے گناہوں کا اقرار ہے ان لوگوں کو دنیاکی زندگی نے دھوکے میں ڈال رکھا تھا اور (اب) خود اپنے اوپر گواہی دی کہ کفر کرتے تھے
+
+[Open on Quran.com](https://quran.com/6/130)
+
+#### 7:38 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ ٱدْخُلُوا۟ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِكُم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ فِى ٱلنَّارِ ۖ كُلَّمَا دَخَلَتْ أُمَّةٌ لَّعَنَتْ أُخْتَهَا ۖ حَتَّىٰٓ إِذَا ٱدَّارَكُوا۟ فِيهَا جَمِيعًا قَالَتْ أُخْرَىٰهُمْ لِأُولَىٰهُمْ رَبَّنَا هَـٰٓؤُلَآءِ أَضَلُّونَا فَـَٔاتِهِمْ عَذَابًا ضِعْفًا مِّنَ ٱلنَّارِ ۖ قَالَ لِكُلٍّ ضِعْفٌ وَلَـٰكِن لَّا تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `وَٱلْإِنسِ` — and the men
+
+**English (Sahih International):** [Allāh] will say, "Enter among nations which had passed on before you of jinn and mankind into the Fire." Every time a nation enters, it will curse its sister until, when they have all overtaken one another therein, the last of them will say about the first of them, "Our Lord, these had misled us, so give them a double punishment of the Fire." He will say, "For each is double, but you do not know."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو خدا فرمائے گا کہ جنّوں اور انسانوں کی جو جماعتیں تم سے پہلے ہو گزری ہیں ان کے ساتھ تم بھی داخل جہنم ہو جاؤ۔ جب ایک جماعت (وہاں) جا داخل ہو گئی تو اپنی (مذہبی) بہن (یعنی اپنے جیسی دوسری جماعت) پر لعنت کرے گی۔ یہاں تک کہ جب سب اس میں داخل ہو جائیں گے تو پچھلی جماعت پہلی کی نسبت کہے گی کہ اے پروردگار! ان ہی لوگوں نے ہم کو گمراہ کیا تھا تو ان کو آتش جہنم کا دگنا عذاب دے۔ خدا فرمائے گا کہ (تم) سب کو دگنا (عذاب دیا جائے گا) مگر تم نہیں جانتے
+
+[Open on Quran.com](https://quran.com/7/38)
+
+#### 7:179 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لَّا يُبْصِرُونَ بِهَا وَلَهُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بِهَآ ۚ أُو۟لَـٰٓئِكَ كَٱلْأَنْعَـٰمِ بَلْ هُمْ أَضَلُّ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْغَـٰفِلُونَ
+
+</div>
+
+**Word in this verse:** `وَٱلْإِنسِ ۖ` — and men
+
+**English (Sahih International):** And We have certainly created for Hell many of the jinn and mankind. They have hearts with which they do not understand, they have eyes with which they do not see, and they have ears with which they do not hear. Those are like livestock; rather, they are more astray. It is they who are the heedless.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بہت سے جن اور انسان دوزخ کے لیے پیدا کیے ہیں۔ ان کے دل ہیں لیکن ان سے سمجھتے نہیں اور ان کی آنکھیں ہیں مگر ان سے دیکھتے نہیں اور ان کے کان ہیں پر ان سے سنتے نہیں۔ یہ لوگ بالکل چارپایوں کی طرح ہیں بلکہ ان سے بھی بھٹکے ہوئے۔ یہی وہ ہیں جو غفلت میں پڑے ہوئے ہیں
+
+[Open on Quran.com](https://quran.com/7/179)
+
+#### 17:88 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُل لَّئِنِ ٱجْتَمَعَتِ ٱلْإِنسُ وَٱلْجِنُّ عَلَىٰٓ أَن يَأْتُوا۟ بِمِثْلِ هَـٰذَا ٱلْقُرْءَانِ لَا يَأْتُونَ بِمِثْلِهِۦ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَهِيرًا
+
+</div>
+
+**Word in this verse:** `ٱلْإِنسُ` — the mankind
+
+**English (Sahih International):** Say, "If mankind and the jinn gathered in order to produce the like of this Qur’ān, they could not produce the like of it, even if they were to each other assistants."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر انسان اور جن اس بات پر مجتمع ہوں کہ اس قرآن جیسا بنا لائیں تو اس جیسا نہ لاسکیں گے اگرچہ وہ ایک دوسرے کو مددگار ہوں
+
+[Open on Quran.com](https://quran.com/17/88)
+
+#### 27:17 · [[027 An-Naml]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَحُشِرَ لِسُلَيْمَـٰنَ جُنُودُهُۥ مِنَ ٱلْجِنِّ وَٱلْإِنسِ وَٱلطَّيْرِ فَهُمْ يُوزَعُونَ
+
+</div>
+
+**Word in this verse:** `وَٱلْإِنسِ` — and the men
+
+**English (Sahih International):** And gathered for Solomon were his soldiers of the jinn and men and birds, and they were [marching] in rows
+
+**Urdu (Fatah Muhammad Jalandhari):** اور سلیمان کے لئے جنوں اور انسانوں اور پرندوں کے لشکر جمع کئے گئے اور قسم وار کئے جاتے تھے
+
+[Open on Quran.com](https://quran.com/27/17)
+
+#### 41:25 · [[041 Fussilat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَقَيَّضْنَا لَهُمْ قُرَنَآءَ فَزَيَّنُوا۟ لَهُم مَّا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَـٰسِرِينَ
+
+</div>
+
+**Word in this verse:** `وَٱلْإِنسِ ۖ` — and the men
+
+**English (Sahih International):** And We appointed for them companions who made attractive to them what was before them and what was behind them [of sin], and the word [i.e., decree] has come into effect upon them among nations which had passed on before them of jinn and men. Indeed, they [all] were losers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے (شیطانوں کو) ان کا ہم نشین مقرر کردیا تھا تو انہوں نے ان کے اگلے اور پچھلے اعمال ان کو عمدہ کر دکھائے تھے اور جنات اور انسانوں کی جماعتیں جو ان سے پہلے گذر چکیں ان پر بھی خدا (کے عذاب) کا وعدہ پورا ہوگیا۔ بےشک یہ نقصان اٹھانے والے ہیں
+
+[Open on Quran.com](https://quran.com/41/25)
+
+#### 41:29 · [[041 Fussilat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ ٱلَّذِينَ كَفَرُوا۟ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلَّانَا مِنَ ٱلْجِنِّ وَٱلْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ ٱلْأَسْفَلِينَ
+
+</div>
+
+**Word in this verse:** `وَٱلْإِنسِ` — and the men
+
+**English (Sahih International):** And those who disbelieved will [then] say, "Our Lord, show us those who misled us of the jinn and men [so] we may put them under our feet that they will be among the lowest."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر کہیں گے کہ اے ہمارے پروردگار جنوں اور انسانوں میں سے جن لوگوں نے ہم کو گمراہ کیا تھا ان کو ہمیں دکھا کہ ہم ان کو اپنے پاؤں کے تلے (روند) ڈالیں تاکہ وہ نہایت ذلیل ہوں
+
+[Open on Quran.com](https://quran.com/41/29)
+
+#### 46:18 · [[046 Al-Ahqaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أُو۟لَـٰٓئِكَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ إِنَّهُمْ كَانُوا۟ خَـٰسِرِينَ
+
+</div>
+
+**Word in this verse:** `وَٱلْإِنسِ ۖ` — and the men
+
+**English (Sahih International):** Those are the ones upon whom the word [i.e., decree] has come into effect, [who will be] among nations which had passed on before them of jinn and men. Indeed, they [all] were losers.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی وہ لوگ ہیں جن کے بارے میں جنوں اور انسانوں کی (دوسری) اُمتوں میں سے جو ان سے پہلے گزر چکیں عذاب کا وعدہ متحقق ہوگیا۔ بےشک وہ نقصان اٹھانے والے تھے
+
+[Open on Quran.com](https://quran.com/46/18)
+
+_…and **7** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

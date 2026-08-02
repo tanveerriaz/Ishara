@@ -1,0 +1,198 @@
+---
+type: word
+lemma: "شَهْر"
+slug: "$hr - months"
+surah_count: 9
+ayah_count: 17
+tags: [word, meaning]
+---
+
+# $hr - months
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[$hr - shahr]]
+
+### Meaning
+**months** · Lemma **شَهْر**
+
+### Surahs (9)
+- [[002 Al-Baqarah]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[009 At-Tawbah]]
+- [[034 Saba]]
+- [[046 Al-Ahqaf]]
+- [[058 Al-Mujadila]]
+- [[065 At-Talaq]]
+- [[097 Al-Qadr]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:185 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًى لِّلنَّاسِ وَبَيِّنَـٰتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ ۚ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ ۖ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ۗ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ
+
+</div>
+
+**Word in this verse:** `شَهْرُ` — Month
+
+**English (Sahih International):** The month of Ramaḍān [is that] in which was revealed the Qur’ān, a guidance for the people and clear proofs of guidance and criterion. So whoever sights [the crescent of] the month, let him fast it; and whoever is ill or on a journey - then an equal number of other days. Allāh intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allāh for that [to] which He has guided you; and perhaps you will be grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** (روزوں کا مہینہ) رمضان کا مہینہ (ہے) جس میں قرآن (اول اول) نازل ہوا جو لوگوں کا رہنما ہے اور (جس میں) ہدایت کی کھلی نشانیاں ہیں اور (جو حق و باطل کو) الگ الگ کرنے والا ہے تو جو کوئی تم میں سے اس مہینے میں موجود ہو چاہیئے کہ پورے مہینے کے روزے رکھے اور جو بیمار ہو یا سفر میں ہو تو دوسرے دنوں میں (رکھ کر) ان کا شمار پورا کرلے۔ خدا تمہارے حق میں آسانی چاہتا ہے اور سختی نہیں چاہتا اور (یہ آسانی کا حکم) اس لئے (دیا گیا ہے) کہ تم روزوں کا شمار پورا کرلو اور اس احسان کے بدلے کہ خدا نے تم کو ہدایت بخشی ہے تم اس کو بزرگی سے یاد کر واور اس کا شکر کرو
+
+[Open on Quran.com](https://quran.com/2/185)
+
+#### 2:194 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلشَّهْرُ ٱلْحَرَامُ بِٱلشَّهْرِ ٱلْحَرَامِ وَٱلْحُرُمَـٰتُ قِصَاصٌ ۚ فَمَنِ ٱعْتَدَىٰ عَلَيْكُمْ فَٱعْتَدُوا۟ عَلَيْهِ بِمِثْلِ مَا ٱعْتَدَىٰ عَلَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `ٱلشَّهْرُ` — The month
+
+**English (Sahih International):** [Battle in] the sacred month is for [aggression committed in] the sacred month, and for [all] violations is legal retribution. So whoever has assaulted you, then assault him in the same way that he has assaulted you. And fear Allāh and know that Allāh is with those who fear Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** ادب کا مہینہ ادب کے مہینے کے مقابل ہے اور ادب کی چیزیں ایک دوسرے کا بدلہ ہیں۔ پس اگر کوئی تم پر زیادتی کرے تو جیسی زیادتی وہ تم پر کرے ویسی ہی تم اس پر کرو۔ اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا ڈرنے والوں کے ساتھ ہے
+
+[Open on Quran.com](https://quran.com/2/194)
+
+#### 2:197 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَـٰتٌ ۚ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِى ٱلْحَجِّ ۗ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ ۗ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ ۚ وَٱتَّقُونِ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ
+
+</div>
+
+**Word in this verse:** `أَشْهُرٌۭ` — (are) months
+
+**English (Sahih International):** Ḥajj is [during] well-known months, so whoever has made ḥajj obligatory upon himself therein [by entering the state of iḥrām], there is [to be for him] no sexual relations and no disobedience and no disputing during ḥajj. And whatever good you do - Allāh knows it. And take provisions, but indeed, the best provision is fear of Allāh. And fear Me, O you of understanding.
+
+**Urdu (Fatah Muhammad Jalandhari):** حج کے مہینے (معین ہیں جو) معلوم ہیں تو شخص ان مہینوں میں حج کی نیت کرلے تو حج (کے دنوں) میں نہ عورتوں سے اختلاط کرے نہ کوئی برا کام کرے نہ کسی سے جھگڑے۔ اور جو نیک کام تم کرو گے وہ خدا کو معلوم ہوجائے گا اور زاد راہ (یعنی رستے کا خرچ) ساتھ لے جاؤ کیونکہ بہتر (فائدہ) زاد راہ (کا) پرہیزگاری ہے اور اے اہل عقل مجھ سے ڈرتے رہو
+
+[Open on Quran.com](https://quran.com/2/197)
+
+#### 2:217 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍ فِيهِ ۖ قُلْ قِتَالٌ فِيهِ كَبِيرٌ ۖ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ ۚ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ ۗ وَلَا يَزَالُونَ يُقَـٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَـٰعُوا۟ ۚ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ وَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ
+
+</div>
+
+**Word in this verse:** `ٱلشَّهْرِ` — the month
+
+**English (Sahih International):** They ask you about the sacred month - about fighting therein. Say, "Fighting therein is great [sin], but averting [people] from the way of Allāh and disbelief in Him and [preventing access to] al-Masjid al-Ḥarām and the expulsion of its people therefrom are greater [evil] in the sight of Allāh. And fitnah is greater than killing." And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire; they will abide therein eternally.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
+
+[Open on Quran.com](https://quran.com/2/217)
+
+#### 2:226 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لِّلَّذِينَ يُؤْلُونَ مِن نِّسَآئِهِمْ تَرَبُّصُ أَرْبَعَةِ أَشْهُرٍ ۖ فَإِن فَآءُو فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `أَشْهُرٍۢ ۖ` — months
+
+**English (Sahih International):** For those who swear not to have sexual relations with their wives is a waiting time of four months, but if they return [to normal relations] - then indeed, Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنی عورتوں کے پاس جانے سے قسم کھالیں ان کو چار مہینے تک انتظار کرنا چاہیئے۔ اگر (اس عرصے میں قسم سے) رجوع کرلیں تو خدا بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/2/226)
+
+#### 2:234 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًا يَتَرَبَّصْنَ بِأَنفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا ۖ فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ بِٱلْمَعْرُوفِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+
+</div>
+
+**Word in this verse:** `أَشْهُرٍۢ` — months
+
+**English (Sahih International):** And those who are taken in death among you and leave wives behind - they, [the wives, shall] wait four months and ten [days]. And when they have fulfilled their term, then there is no blame upon you for what they do with themselves in an acceptable manner. And Allāh is [fully] Aware of what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم میں سے مرجائیں اور عورتیں چھوڑ جائیں تو عورتیں چار مہینے دس دن اپنے آپ کو روکے رہیں۔ اور جب (یہ) عدت پوری کرچکیں اور اپنے حق میں پسندیدہ کام (یعنی نکاح) کرلیں تو ان پر کچھ گناہ نہیں۔ اور خدا تمہارے سب کاموں سے واقف ہے
+
+[Open on Quran.com](https://quran.com/2/234)
+
+#### 4:92 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَـًٔا ۚ وَمَن قَتَلَ مُؤْمِنًا خَطَـًٔا فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦٓ إِلَّآ أَن يَصَّدَّقُوا۟ ۚ فَإِن كَانَ مِن قَوْمٍ عَدُوٍّ لَّكُمْ وَهُوَ مُؤْمِنٌ فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ ۖ وَإِن كَانَ مِن قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَـٰقٌ فَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦ وَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ ۖ فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِّنَ ٱللَّهِ ۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
+
+</div>
+
+**Word in this verse:** `شَهْرَيْنِ` — (for) two months
+
+**English (Sahih International):** And never is it for a believer to kill a believer except by mistake. And whoever kills a believer by mistake - then the freeing of a believing slave and a compensation payment [diyah] presented to his [i.e., the deceased's] family [is required], unless they give [up their right as] charity. But if he [i.e., the deceased] was from a people at war with you and he was a believer - then [only] the freeing of a believing slave; and if he was from a people with whom you have a treaty - then a compensation payment presented to his family and the freeing of a believing slave. And whoever does not find [one or cannot afford to buy one] - then [instead], a fast for two months consecutively, [seeking] acceptance of repentance from Allāh. And Allāh is ever Knowing and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کسی مومن کو شایان نہیں کہ مومن کو مار ڈالے مگر بھول کر اور جو بھول کر بھی مومن کو مار ڈالے تو (ایک تو) ایک مسلمان غلام آزاد کردے اور (دوسرے) مقتول کے وارثوں کو خون بہا دے ہاں اگر وہ معاف کردیں (تو ان کو اختیار ہے) اگر مقتول تمہارے دشمنوں کی جماعت میں سے ہو اور وہ خود مومن ہو تو صرف ایک مسلمان غلام آزاد کرنا چاہیئے اور اگر مقتول ایسے لوگوں میں سے ہو جن میں اور تم میں صلح کا عہد ہو تو وارثان مقتول کو خون بہا دینا اور ایک مسلمان غلام آزاد کرنا چاہیئے اور جس کو یہ میسر نہ ہو وہ متواتر دو مہینے کے روزے رکھے یہ (کفارہ) خدا کی طرف سے (قبول) توبہ (کے لئے) ہے اور خدا (سب کچھ) جانتا اور بڑی حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/4/92)
+
+#### 5:2 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَـٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَـٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا ۚ وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ ۚ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ ۘ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+
+</div>
+
+**Word in this verse:** `ٱلشَّهْرَ` — the month
+
+**English (Sahih International):** O you who have believed, do not violate the rites of Allāh or [the sanctity of] the sacred month or [neglect the marking of] the sacrificial animals and garlanding [them] or [violate the safety of] those coming to the Sacred House seeking bounty from their Lord and [His] approval. But when you come out of iḥrām, then [you may] hunt. And do not let the hatred of a people for having obstructed you from al-Masjid al-Ḥarām lead you to transgress. And cooperate in righteousness and piety, but do not cooperate in sin and aggression. And fear Allāh; indeed, Allāh is severe in penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کے نام کی چیزوں کی بےحرمتی نہ کرنا اور نہ ادب کے مہینے کی اور نہ قربانی کے جانوروں کی اور نہ ان جانوروں کی (جو خدا کی نذر کر دیئے گئے ہوں اور) جن کے گلوں میں پٹے بندھے ہوں اور نہ ان لوگوں کی جو عزت کے گھر (یعنی بیت الله) کو جا رہے ہوں (اور) اپنے پروردگار کے فضل اور اس کی خوشنودی کے طلبگار ہوں اور جب احرام اتار دو تو (پھر اختیار ہے کہ) شکار کرو اور لوگوں کی دشمنی اس وجہ سے کہ انہوں نے تم کو عزت والی مسجد سے روکا تھا تمہیں اس بات پر آمادہ نہ کرے کہ تم ان پر زیادتی کرنے لگو اور (دیکھو) نیکی اور پرہیزگاری کے کاموں میں ایک دوسرے کی مدد کیا کرو اور گناہ اور ظلم کی باتوں میں مدد نہ کیا کرو اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا کا عذاب سخت ہے
+
+[Open on Quran.com](https://quran.com/5/2)
+
+#### 5:97 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ جَعَلَ ٱللَّهُ ٱلْكَعْبَةَ ٱلْبَيْتَ ٱلْحَرَامَ قِيَـٰمًا لِّلنَّاسِ وَٱلشَّهْرَ ٱلْحَرَامَ وَٱلْهَدْىَ وَٱلْقَلَـٰٓئِدَ ۚ ذَٰلِكَ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَأَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `وَٱلشَّهْرَ` — and the month(s)
+
+**English (Sahih International):** Allāh has made the Kaʿbah, the Sacred House, standing for the people and [has sanctified] the sacred months and the sacrificial animals and the garlands [by which they are identified]. That is so you may know that Allāh knows what is in the heavens and what is in the earth and that Allāh is Knowing of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے عزت کے گھر (یعنی) کعبے کو لوگوں کے لیے موجب امن مقرر فرمایا ہے اور عزت کے مہینوں کو اور قربانی کو اور ان جانوروں کو جن کے گلے میں پٹے بندھے ہوں یہ اس لیے کہ تم جان لو کہ جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے خدا سب کو جانتا ہے اور یہ کہ خدا کو ہر چیز کا علم ہے
+
+[Open on Quran.com](https://quran.com/5/97)
+
+#### 9:2 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَسِيحُوا۟ فِى ٱلْأَرْضِ أَرْبَعَةَ أَشْهُرٍ وَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ ۙ وَأَنَّ ٱللَّهَ مُخْزِى ٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `أَشْهُرٍۢ` — months
+
+**English (Sahih International):** So travel freely, [O disbelievers], throughout the land [during] four months but know that you cannot cause failure to Allāh and that Allāh will disgrace the disbelievers.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو (مشرکو تم) زمین میں چار مہینے چل پھر لو اور جان رکھو کہ تم خدا کو عاجز نہ کرسکو گے۔ اور یہ بھی کہ خدا کافروں کو رسوا کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/9/2)
+
+_…and **7** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

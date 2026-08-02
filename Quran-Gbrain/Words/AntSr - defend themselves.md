@@ -1,0 +1,144 @@
+---
+type: word
+lemma: "انتَصَرَ"
+slug: "AntSr - defend themselves"
+surah_count: 5
+ayah_count: 7
+tags: [word, meaning]
+---
+
+# AntSr - defend themselves
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[nSr - nsr]]
+
+### Meaning
+**defend themselves** · Lemma **انتَصَرَ**
+
+### Surahs (5)
+- [[026 Ash-Shuara]]
+- [[042 Ash-Shuraa]]
+- [[047 Muhammad]]
+- [[054 Al-Qamar]]
+- [[055 Ar-Rahman]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 26:93 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مِن دُونِ ٱللَّهِ هَلْ يَنصُرُونَكُمْ أَوْ يَنتَصِرُونَ
+
+</div>
+
+**Word in this verse:** `يَنتَصِرُونَ` — help themselves
+
+**English (Sahih International):** Other than Allāh? Can they help you or help themselves?"
+
+**Urdu (Fatah Muhammad Jalandhari):** یعنی جن کو خدا کے سوا (پوجتے تھے) کیا وہ تمہاری مدد کرسکتے ہیں یا خود بدلہ لے سکتے ہیں
+
+[Open on Quran.com](https://quran.com/26/93)
+
+#### 26:227 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَذَكَرُوا۟ ٱللَّهَ كَثِيرًا وَٱنتَصَرُوا۟ مِنۢ بَعْدِ مَا ظُلِمُوا۟ ۗ وَسَيَعْلَمُ ٱلَّذِينَ ظَلَمُوٓا۟ أَىَّ مُنقَلَبٍ يَنقَلِبُونَ
+
+</div>
+
+**Word in this verse:** `وَٱنتَصَرُوا۟` — and defend themselves
+
+**English (Sahih International):** Except those [poets] who believe and do righteous deeds and remember Allāh often and defend [the Muslims] after they were wronged. And those who have wronged are going to know to what [kind of] return they will be returned.
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر جو لوگ ایمان لائے اور نیک کام کئے اور خدا کو بہت یاد کرتے رہے اور اپنے اوپر ظلم ہونے کے بعد انتقام لیا اور ظالم عنقریب جان لیں گے کہ کون سی جگہ لوٹ کر جاتے ہیں
+
+[Open on Quran.com](https://quran.com/26/227)
+
+#### 42:39 · [[042 Ash-Shuraa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلْبَغْىُ هُمْ يَنتَصِرُونَ
+
+</div>
+
+**Word in this verse:** `يَنتَصِرُونَ` — defend themselves
+
+**English (Sahih International):** And those who, when tyranny strikes them, they retaliate [in a just manner].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو ایسے ہیں کہ جب ان پر ظلم وتعدی ہو تو (مناسب طریقے سے) بدلہ لیتے ہیں
+
+[Open on Quran.com](https://quran.com/42/39)
+
+#### 42:41 · [[042 Ash-Shuraa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَمَنِ ٱنتَصَرَ بَعْدَ ظُلْمِهِۦ فَأُو۟لَـٰٓئِكَ مَا عَلَيْهِم مِّن سَبِيلٍ
+
+</div>
+
+**Word in this verse:** `ٱنتَصَرَ` — defends himself
+
+**English (Sahih International):** And whoever retaliates after having been wronged - those have not upon them any cause [for blame].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس پر ظلم ہوا ہو اگر وہ اس کے بعد انتقام لے تو ایسے لوگوں پر کچھ الزام نہیں
+
+[Open on Quran.com](https://quran.com/42/41)
+
+#### 47:4 · [[047 Muhammad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثْخَنتُمُوهُمْ فَشُدُّوا۟ ٱلْوَثَاقَ فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلْحَرْبُ أَوْزَارَهَا ۚ ذَٰلِكَ وَلَوْ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنْهُمْ وَلَـٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍ ۗ وَٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعْمَـٰلَهُمْ
+
+</div>
+
+**Word in this verse:** `لَٱنتَصَرَ` — surely, He could have taken retribution
+
+**English (Sahih International):** So when you meet those who disbelieve [in battle], strike [their] necks until, when you have inflicted slaughter upon them, then secure [their] bonds, and either [confer] favor afterwards or ransom [them] until the war lays down its burdens. That [is the command]. And if Allāh had willed, He could have taken vengeance upon them [Himself], but [He ordered armed struggle] to test some of you by means of others. And those who are killed in the cause of Allāh - never will He waste their deeds.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب تم کافروں سے بھڑ جاؤ تو ان کی گردنیں اُڑا دو۔ یہاں تک کہ جب ان کو خوب قتل کرچکو تو (جو زندہ پکڑے جائیں ان کو) مضبوطی سے قید کرلو۔ پھر اس کے بعد یا تو احسان رکھ کر چھوڑ دینا چاہیئے یا کچھ مال لے کر یہاں تک کہ (فریق مقابل) لڑائی (کے) ہتھیار (ہاتھ سے) رکھ دے۔ (یہ حکم یاد رکھو) اور اگر خدا چاہتا تو (اور طرح) ان سے انتقام لے لیتا۔ لیکن اس نے چاہا کہ تمہاری آزمائش ایک (کو) دوسرے سے (لڑوا کر) کرے۔ اور جو لوگ خدا کی راہ میں مارے گئے ان کے عملوں کو ہرگز ضائع نہ کرے گا
+
+[Open on Quran.com](https://quran.com/47/4)
+
+#### 54:10 · [[054 Al-Qamar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌ فَٱنتَصِرْ
+
+</div>
+
+**Word in this verse:** `فَٱنتَصِرْ` — so help
+
+**English (Sahih International):** So he invoked his Lord, "Indeed, I am overpowered, so help."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے اپنے پروردگار سے دعا کی کہ (بار الٓہا) میں (ان کے مقابلے میں) کمزور ہوں تو (ان سے) بدلہ لے
+
+[Open on Quran.com](https://quran.com/54/10)
+
+#### 55:35 · [[055 Ar-Rahman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ
+
+</div>
+
+**Word in this verse:** `تَنتَصِرَانِ` — you will (be able to) defend yourselves
+
+**English (Sahih International):** There will be sent upon you a flame of fire and smoke, and you will not defend yourselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** تم پر آگ کے شعلے اور دھواں چھوڑ دیا جائے گا تو پھر تم مقابلہ نہ کرسکو گے
+
+[Open on Quran.com](https://quran.com/55/35)
+

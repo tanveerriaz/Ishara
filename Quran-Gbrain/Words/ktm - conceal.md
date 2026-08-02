@@ -1,0 +1,196 @@
+---
+type: word
+lemma: "كَتَمَ"
+slug: "ktm - conceal"
+surah_count: 7
+ayah_count: 20
+tags: [word, meaning]
+---
+
+# ktm - conceal
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[ktm - ktm]]
+
+### Meaning
+**conceal** · Lemma **كَتَمَ**
+
+### Surahs (7)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[021 Al-Anbya]]
+- [[024 An-Nur]]
+- [[040 Ghafir]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:33 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ يَـٰٓـَٔادَمُ أَنۢبِئْهُم بِأَسْمَآئِهِمْ ۖ فَلَمَّآ أَنۢبَأَهُم بِأَسْمَآئِهِمْ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ غَيْبَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+</div>
+
+**Word in this verse:** `تَكْتُمُونَ` — conceal
+
+**English (Sahih International):** He said, "O Adam, inform them of their names." And when he had informed them of their names, He said, "Did I not tell you that I know the unseen [aspects] of the heavens and the earth? And I know what you reveal and what you have concealed."
+
+**Urdu (Fatah Muhammad Jalandhari):** (تب) خدا نے (آدم کو) حکم دیا کہ آدم! تم ان کو ان (چیزوں) کے نام بتاؤ۔ جب انہوں نے ان کو ان کے نام بتائے تو (فرشتوں سے) فرمایا کیوں میں نے تم سے نہیں کہا تھا کہ میں آسمانوں اور زمین کی (سب) پوشیدہ باتیں جاتنا ہوں اور جو تم ظاہر کرتے ہو اور جو پوشیدہ کرتے ہو (سب) مجھ کو معلوم ہے
+
+[Open on Quran.com](https://quran.com/2/33)
+
+#### 2:42 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَلْبِسُوا۟ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُوا۟ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `وَتَكْتُمُوا۟` — and conceal
+
+**English (Sahih International):** And do not mix the truth with falsehood or conceal the truth while you know [it].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور حق کو باطل کے ساتھ نہ ملاؤ، اور سچی بات کو جان بوجھ کر نہ چھپاؤ
+
+[Open on Quran.com](https://quran.com/2/42)
+
+#### 2:72 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قَتَلْتُمْ نَفْسًا فَٱدَّٰرَْٰٔتُمْ فِيهَا ۖ وَٱللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ
+
+</div>
+
+**Word in this verse:** `تَكْتُمُونَ` — concealing
+
+**English (Sahih International):** And [recall] when you slew a man and disputed over it, but Allāh was to bring out that which you were concealing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے ایک شخص کو قتل کیا، تو اس میں باہم جھگڑنے لگے۔ لیکن جو بات تم چھپا رہے تھے، خدا اس کو ظاہر کرنے والا تھا
+
+[Open on Quran.com](https://quran.com/2/72)
+
+#### 2:140 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمْ تَقُولُونَ إِنَّ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطَ كَانُوا۟ هُودًا أَوْ نَصَـٰرَىٰ ۗ قُلْ ءَأَنتُمْ أَعْلَمُ أَمِ ٱللَّهُ ۗ وَمَنْ أَظْلَمُ مِمَّن كَتَمَ شَهَـٰدَةً عِندَهُۥ مِنَ ٱللَّهِ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `كَتَمَ` — concealed
+
+**English (Sahih International):** Or do you say that Abraham and Ishmael and Isaac and Jacob and the Descendants were Jews or Christians? Say, "Are you more knowing or is Allāh?" And who is more unjust than one who conceals a testimony he has from Allāh? And Allāh is not unaware of what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے یہود ونصاریٰ) کیا تم اس بات کے قائل ہو کہ ابراہیم اور اسمٰعیل اور اسحاق اور یعقوب اور ان کی اولاد یہودی یا عیسائی تھے۔ (اے محمدﷺ ان سے) کہو کہ بھلا تم زیادہ جانتے ہو یا خدا؟ اور اس سے بڑھ کر ظالم کون، جو خدا کی شہادت کو، جو اس کے پاس (کتاب میں موجود) ہے چھپائے۔ اور جو کچھ تم کر رہے ہو، خدا اس سے غافل نہیں
+
+[Open on Quran.com](https://quran.com/2/140)
+
+#### 2:146 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَعْرِفُونَهُۥ كَمَا يَعْرِفُونَ أَبْنَآءَهُمْ ۖ وَإِنَّ فَرِيقًا مِّنْهُمْ لَيَكْتُمُونَ ٱلْحَقَّ وَهُمْ يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `لَيَكْتُمُونَ` — surely they conceal
+
+**English (Sahih International):** Those to whom We gave the Scripture know him [i.e., Prophet Muḥammad (ﷺ)] as they know their own sons. But indeed, a party of them conceal the truth while they know [it].
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں کو ہم نے کتاب دی ہے، وہ ان (پیغمبر آخرالزماں) کو اس طرح پہچانتے ہیں، جس طرح اپنے بیٹوں کو پہچانا کرتے ہیں، مگر ایک فریق ان میں سے سچی بات کو جان بوجھ کر چھپا رہا ہے
+
+[Open on Quran.com](https://quran.com/2/146)
+
+#### 2:159 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَـٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّـٰهُ لِلنَّاسِ فِى ٱلْكِتَـٰبِ ۙ أُو۟لَـٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّـٰعِنُونَ
+
+</div>
+
+**Word in this verse:** `يَكْتُمُونَ` — conceal
+
+**English (Sahih International):** Indeed, those who conceal what We sent down of clear proofs and guidance after We made it clear for the people in the Scripture - those are cursed by Allāh and cursed by those who curse,
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ہمارے حکموں اور ہدایتوں کو جو ہم نے نازل کی ہیں (کسی غرض فاسد سے) چھپاتے ہیں باوجود یہ کہ ہم نے ان لوگوں کے (سمجھانے کے) لئے اپنی کتاب میں کھول کھول کر بیان کردیا ہے۔ ایسوں پر خدا اور تمام لعنت کرنے والے لعنت کرتے ہیں
+
+[Open on Quran.com](https://quran.com/2/159)
+
+#### 2:174 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ ٱللَّهُ مِنَ ٱلْكِتَـٰبِ وَيَشْتَرُونَ بِهِۦ ثَمَنًا قَلِيلًا ۙ أُو۟لَـٰٓئِكَ مَا يَأْكُلُونَ فِى بُطُونِهِمْ إِلَّا ٱلنَّارَ وَلَا يُكَلِّمُهُمُ ٱللَّهُ يَوْمَ ٱلْقِيَـٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
+
+</div>
+
+**Word in this verse:** `يَكْتُمُونَ` — conceal
+
+**English (Sahih International):** Indeed, they who conceal what Allāh has sent down of the Book and exchange it for a small price - those consume not into their bellies except the Fire. And Allāh will not speak to them on the Day of Resurrection, nor will He purify them. And they will have a painful punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (خدا) کی کتاب سے ان (آیتوں اور ہدایتوں) کو جو اس نے نازل فرمائی ہیں چھپاتے اور ان کے بدلے تھوڑی سی قیمت (یعنی دنیاوی منفعت)حاصل کرتے ہیں وہ اپنے پیٹوں میں محض آگ بھرتے ہیں۔ ایسے لوگوں سے خدا قیامت کے دن نہ کلام کرے گا اور نہ ان کو (گناہوں سے) پاک کرے گا۔اور ان کے لئے دکھ دینے والا عذاب ہے
+
+[Open on Quran.com](https://quran.com/2/174)
+
+#### 2:228 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلْمُطَلَّقَـٰتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَـٰثَةَ قُرُوٓءٍ ۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِىٓ أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِى ذَٰلِكَ إِنْ أَرَادُوٓا۟ إِصْلَـٰحًا ۚ وَلَهُنَّ مِثْلُ ٱلَّذِى عَلَيْهِنَّ بِٱلْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
+
+</div>
+
+**Word in this verse:** `يَكْتُمْنَ` — they conceal
+
+**English (Sahih International):** Divorced women remain in waiting [i.e., do not remarry] for three periods, and it is not lawful for them to conceal what Allāh has created in their wombs if they believe in Allāh and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to them [i.e., the wives] is similar to what is expected of them, according to what is reasonable. But the men [i.e., husbands] have a degree over them [in responsibility and authority]. And Allāh is Exalted in Might and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
+
+[Open on Quran.com](https://quran.com/2/228)
+
+#### 2:283 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَإِن كُنتُمْ عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا۟ كَاتِبًا فَرِهَـٰنٌ مَّقْبُوضَةٌ ۖ فَإِنْ أَمِنَ بَعْضُكُم بَعْضًا فَلْيُؤَدِّ ٱلَّذِى ٱؤْتُمِنَ أَمَـٰنَتَهُۥ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ ۗ وَلَا تَكْتُمُوا۟ ٱلشَّهَـٰدَةَ ۚ وَمَن يَكْتُمْهَا فَإِنَّهُۥٓ ءَاثِمٌ قَلْبُهُۥ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `تَكْتُمُوا۟` — conceal
+
+**English (Sahih International):** And if you are on a journey and cannot find a scribe, then a security deposit [should be] taken. And if one of you entrusts another, then let him who is entrusted discharge his trust [faithfully] and let him fear Allāh, his Lord. And do not conceal testimony, for whoever conceals it - his heart is indeed sinful, and Allāh is Knowing of what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم سفر پر ہواور (دستاویز) لکھنے والا مل نہ سکے تو (کوئی چیز) رہن یا قبضہ رکھ کر (قرض لے لو) اور اگر کوئی کسی کو امین سمجھے (یعنی رہن کے بغیر قرض دیدے) تو امانتدار کو چاہیئے کہ صاحب امانت کی امانت ادا کردے اور خدا سے جو اس کا پروردگار ہے ڈرے۔اور (دیکھنا) شہادت کو مت چھپانا۔ جو اس کو چھپائے گا وہ دل کا گنہگار ہوگا۔ اور خدا تمہارے سب کاموں سے واقف ہے
+
+[Open on Quran.com](https://quran.com/2/283)
+
+#### 3:71 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَـٰطِلِ وَتَكْتُمُونَ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `وَتَكْتُمُونَ` — and conceal
+
+**English (Sahih International):** O People of the Scripture, why do you mix [i.e., confuse] the truth with falsehood and conceal the truth while you know [it]?
+
+**Urdu (Fatah Muhammad Jalandhari):** اے اہلِ کتاب تم سچ کو جھوٹ کے ساتھ خلط ملط کیوں کرتے ہو اور حق کو کیوں چھپاتے ہو اور تم جانتے بھی ہو
+
+[Open on Quran.com](https://quran.com/3/71)
+
+_…and **10** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

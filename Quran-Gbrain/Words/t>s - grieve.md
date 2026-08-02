@@ -1,0 +1,94 @@
+---
+type: word
+lemma: "تَأْسَ"
+slug: "t>s - grieve"
+surah_count: 3
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# t>s - grieve
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[>sw - asw]]
+
+### Meaning
+**grieve** · Lemma **تَأْسَ**
+
+### Surahs (3)
+- [[005 Al-Maidah]]
+- [[007 Al-Araf]]
+- [[057 Al-Hadid]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 5:26 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَـٰسِقِينَ
+
+</div>
+
+**Word in this verse:** `تَأْسَ` — grieve
+
+**English (Sahih International):** [Allāh] said, "Then indeed, it is forbidden to them for forty years [in which] they will wander throughout the land. So do not grieve over the defiantly disobedient people."
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے فرمایا کہ وہ ملک ان پر چالیس برس تک کے لیے حرام کر دیا گیا (کہ وہاں جانے نہ پائیں گے اور جنگل کی) زمین میں سرگرداں پھرتے رہیں گے تو ان نافرمان لوگوں کے حال پر افسوس نہ کرو
+
+[Open on Quran.com](https://quran.com/5/26)
+
+#### 5:68 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لَسْتُمْ عَلَىٰ شَىْءٍ حَتَّىٰ تُقِيمُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْكُم مِّن رَّبِّكُمْ ۗ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَـٰنًا وَكُفْرًا ۖ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `تَأْسَ` — grieve
+
+**English (Sahih International):** Say, "O People of the Scripture, you are [standing] on nothing until you uphold [the law of] the Torah, the Gospel, and what has been revealed to you from your Lord [i.e., the Qur’ān]." And that which has been revealed to you from your Lord will surely increase many of them in transgression and disbelief. So do not grieve over the disbelieving people.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اے اہل کتاب! جب تک تم تورات اور انجیل کو اور جو (اور کتابیں) تمہارے پروردگار کی طرف سے تم لوگوں پر نازل ہوئیں ان کو قائم نہ رکھو گے کچھ بھی راہ پر نہیں ہو سکتے اور یہ (قرآن) جو تمہارے پروردگار کی طرف سے تم پر نازل ہوا ہے ان میں سے اکثر کی سرکشی اور کفر اور بڑھے گا تو تم قوم کفار پر افسوس نہ کرو
+
+[Open on Quran.com](https://quran.com/5/68)
+
+#### 7:93 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَـٰقَوْمِ لَقَدْ أَبْلَغْتُكُمْ رِسَـٰلَـٰتِ رَبِّى وَنَصَحْتُ لَكُمْ ۖ فَكَيْفَ ءَاسَىٰ عَلَىٰ قَوْمٍ كَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `ءَاسَىٰ` — I grieve
+
+**English (Sahih International):** And he [i.e., Shuʿayb] turned away from them and said, "O my people, I had certainly conveyed to you the messages of my Lord and advised you, so how could I grieve for a disbelieving people?"
+
+**Urdu (Fatah Muhammad Jalandhari):** تو شعیب ان میں سے نکل آئے اور کہا کہ بھائیو میں نے تم کو اپنے پروردگار کے پیغام پہنچا دیئے ہیں اور تمہاری خیرخواہی کی تھی۔ تو میں کافروں پر (عذاب نازل ہونے سے) رنج وغم کیوں کروں
+
+[Open on Quran.com](https://quran.com/7/93)
+
+#### 57:23 · [[057 Al-Hadid]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ ۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
+
+</div>
+
+**Word in this verse:** `تَأْسَوْا۟` — grieve
+
+**English (Sahih International):** In order that you not despair over what has eluded you and not exult [in pride] over what He has given you. And Allāh does not like everyone self-deluded and boastful -
+
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ جو (مطلب) تم سے فوت ہوگیا ہو اس کا غم نہ کھایا کرو اور جو تم کو اس نے دیا ہو اس پر اترایا نہ کرو۔ اور خدا کسی اترانے اور شیخی بگھارنے والے کو دوست نہیں رکھتا
+
+[Open on Quran.com](https://quran.com/57/23)
+

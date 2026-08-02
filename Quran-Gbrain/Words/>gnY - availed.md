@@ -1,0 +1,202 @@
+---
+type: word
+lemma: "أَغْنَى"
+slug: ">gnY - availed"
+surah_count: 13
+ayah_count: 15
+tags: [word, meaning]
+---
+
+# >gnY - availed
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[gny - dwelling residing place]]
+
+### Meaning
+**availed** · Lemma **أَغْنَى**
+
+### Surahs (13)
+- [[007 Al-Araf]]
+- [[009 At-Tawbah]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[015 Al-Hijr]]
+- [[026 Ash-Shuara]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[046 Al-Ahqaf]]
+- [[053 An-Najm]]
+- [[069 Al-Haqqah]]
+- [[093 Ad-Duhaa]]
+- [[111 Al-Masad]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 7:48 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَنَادَىٰٓ أَصْحَـٰبُ ٱلْأَعْرَافِ رِجَالًا يَعْرِفُونَهُم بِسِيمَىٰهُمْ قَالُوا۟ مَآ أَغْنَىٰ عَنكُمْ جَمْعُكُمْ وَمَا كُنتُمْ تَسْتَكْبِرُونَ
+
+</div>
+
+**Word in this verse:** `أَغْنَىٰ` — (has) availed
+
+**English (Sahih International):** And the companions of the Elevations will call to men [within Hell] whom they recognize by their mark, saying, "Of no avail to you was your gathering and [the fact] that you were arrogant."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اہل اعراف (کافر) لوگوں کو جنہیں ان کی صورتوں سے شناخت کرتے ہوں گے پکاریں گے اور کہیں گے (کہ آج) نہ تو تمہاری جماعت ہی تمہارے کچھ کام آئی اور نہ تمہارا تکبّر (ہی سودمند ہوا)
+
+[Open on Quran.com](https://quran.com/7/48)
+
+#### 7:92 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ كَذَّبُوا۟ شُعَيْبًا كَأَن لَّمْ يَغْنَوْا۟ فِيهَا ۚ ٱلَّذِينَ كَذَّبُوا۟ شُعَيْبًا كَانُوا۟ هُمُ ٱلْخَـٰسِرِينَ
+
+</div>
+
+**Word in this verse:** `يَغْنَوْا۟` — they (had) lived
+
+**English (Sahih International):** Those who denied Shuʿayb - it was as though they had never resided there. Those who denied Shuʿayb - it was they who were the losers.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ لوگ) جنہوں نے شعیب کی تکذیب کی تھی ایسے برباد ہوئے تھے کہ گویا وہ ان میں کبھی آباد ہی نہیں ہوئے تھے (غرض) جنہوں نے شعیب کو جھٹلایا وہ خسارے میں پڑگئے
+
+[Open on Quran.com](https://quran.com/7/92)
+
+#### 9:74 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَـٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ عَذَابًا أَلِيمًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۚ وَمَا لَهُمْ فِى ٱلْأَرْضِ مِن وَلِىٍّ وَلَا نَصِيرٍ
+
+</div>
+
+**Word in this verse:** `أَغْنَىٰهُمُ` — Allah had enriched them
+
+**English (Sahih International):** They swear by Allāh that they did not say [anything against the Prophet (ﷺ)] while they had said the word of disbelief and disbelieved after their [pretense of] Islām and planned that which they were not to attain. And they were not resentful except [for the fact] that Allāh and His Messenger had enriched them of His bounty. So if they repent, it is better for them; but if they turn away, Allāh will punish them with a painful punishment in this world and the Hereafter. And there will not be for them on earth any protector or helper.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ خدا کی قسمیں کھاتے ہیں کہ انہوں نے (تو کچھ) نہیں کہا حالانکہ انہوں نے کفر کا کلمہ کہا ہے اور یہ اسلام لانے کے بعد کافر ہوگئے ہیں اور ایسی بات کا قصد کرچکے ہیں جس پر قدرت نہیں پاسکے۔ اور انہوں نے (مسلمانوں میں) عیب ہی کون سا دیکھا ہے سوا اس کے کہ خدا نے اپنے فضل سے اور اس کے پیغمبر نے (اپنی مہربانی سے) ان کو دولت مند کر دیا ہے۔ تو اگر یہ لوگ توبہ کرلیں تو ان کے حق میں بہتر ہوگا۔ اور اگر منہ پھیر لیں تو ان کو دنیا اور آخرت میں دکھ دینے والا عذاب دے گا اور زمین میں ان کا کوئی دوست اور مددگار نہ ہوگا
+
+[Open on Quran.com](https://quran.com/9/74)
+
+#### 10:24 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَـٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَـٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ زُخْرُفَهَا وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَـٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَـٰهَا حَصِيدًا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ ۚ كَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَتَفَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `تَغْنَ` — it had flourished
+
+**English (Sahih International):** The example of [this] worldly life is but like rain which We have sent down from the sky that the plants of the earth absorb - [those] from which men and livestock eat - until, when the earth has taken on its adornment and is beautified and its people suppose that they have capability over it, there comes to it Our command by night or by day, and We make it as a harvest, as if it had not flourished yesterday. Thus do We explain in detail the signs for a people who give thought.
+
+**Urdu (Fatah Muhammad Jalandhari):** دنیا کی زندگی کی مثال مینھہ کی سی ہے کہ ہم نے اس کو آسمان سے برسایا۔ پھر اس کے ساتھ سبزہ جسے آدمی اور جانور کھاتے ہیں مل کر نکلا یہاں تک کہ زمین سبزے سے خوشنما اور آراستہ ہوگئی اور زمین والوں نے خیال کیا کہ وہ اس پر پوری دسترس رکھتے ہیں ناگہاں رات کو یا دن کو ہمارا حکم (عذاب) آپہنچا تو ہم نے اس کو کاٹ (کر ایسا کر) ڈالا کہ گویا کل وہاں کچھ تھا ہی نہیں۔ جو لوگ غور کرنے والے ہیں۔ ان کے لیے ہم (اپنی قدرت کی) نشانیاں اسی طرح کھول کھول کر بیان کرتے ہیں
+
+[Open on Quran.com](https://quran.com/10/24)
+
+#### 11:68 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ ۗ أَلَآ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًا لِّثَمُودَ
+
+</div>
+
+**Word in this verse:** `يَغْنَوْا۟` — they (had) prospered
+
+**English (Sahih International):** As if they had never prospered therein. Unquestionably, Thamūd denied their Lord; then, away with Thamūd.
+
+**Urdu (Fatah Muhammad Jalandhari):** گویا کبھی ان میں بسے ہی نہ تھے۔ سن رکھو کہ ثمود نے اپنے پروردگار سے کفر کیا۔ اور سن رکھو ثمود پر پھٹکار ہے
+
+[Open on Quran.com](https://quran.com/11/68)
+
+#### 11:95 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ ۗ أَلَا بُعْدًا لِّمَدْيَنَ كَمَا بَعِدَتْ ثَمُودُ
+
+</div>
+
+**Word in this verse:** `يَغْنَوْا۟` — they (had) prospered
+
+**English (Sahih International):** As if they had never prospered therein. Then, away with Madyan as Thamūd was taken away.
+
+**Urdu (Fatah Muhammad Jalandhari):** گویا ان میں کبھی بسے ہی نہ تھے۔ سن رکھو کہ مدین پر (ویسی ہی) پھٹکار ہے جیسی ثمود پر پھٹکار تھی
+
+[Open on Quran.com](https://quran.com/11/95)
+
+#### 15:84 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ
+
+</div>
+
+**Word in this verse:** `أَغْنَىٰ` — availed
+
+**English (Sahih International):** So nothing availed them [from] what they used to earn.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کام وہ کرتے تھے وہ ان کے کچھ بھی کام نہ آئے
+
+[Open on Quran.com](https://quran.com/15/84)
+
+#### 26:207 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يُمَتَّعُونَ
+
+</div>
+
+**Word in this verse:** `أَغْنَىٰ` — (will) avail
+
+**English (Sahih International):** They would not be availed by the enjoyment with which they were provided.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جو فائدے یہ اٹھاتے رہے ان کے کس کام آئیں گے
+
+[Open on Quran.com](https://quran.com/26/207)
+
+#### 39:50 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَدْ قَالَهَا ٱلَّذِينَ مِن قَبْلِهِمْ فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ
+
+</div>
+
+**Word in this verse:** `أَغْنَىٰ` — avail
+
+**English (Sahih International):** Those before them had already said it, but they were not availed by what they used to earn.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ان سے پہلے تھے وہ بھی یہی کہا کرتے تھے تو جو کچھ وہ کیا کرتے تھے ان کے کچھ بھی کام نہ آیا
+
+[Open on Quran.com](https://quran.com/39/50)
+
+#### 40:82 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَانُوٓا۟ أَكْثَرَ مِنْهُمْ وَأَشَدَّ قُوَّةً وَءَاثَارًا فِى ٱلْأَرْضِ فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ
+
+</div>
+
+**Word in this verse:** `أَغْنَىٰ` — availed
+
+**English (Sahih International):** Have they not traveled through the land and observed how was the end of those before them? They were more numerous than themselves and greater in strength and in impression on the land, but they were not availed by what they used to earn.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان لوگوں نے زمین میں سیر نہیں کی تاکہ دیکھتے جو لوگ ان سے پہلے تھے ان کا انجام کیسا ہوا۔ (حالانکہ) وہ ان سے کہیں زیادہ طاقتور اور زمین میں نشانات (بنانے) کے اعتبار سے بہت بڑھ کر تھے۔ تو جو کچھ وہ کرتے تھے وہ ان کے کچھ کام نہ آیا
+
+[Open on Quran.com](https://quran.com/40/82)
+
+_…and **5** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

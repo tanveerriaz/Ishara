@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "وَجْه"
+slug: "wjh - faces"
+surah_count: 38
+ayah_count: 67
+tags: [word, meaning]
+---
+
+# wjh - faces
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[wjh - wjh]]
+
+### Meaning
+**faces** · Lemma **وَجْه**
+
+### Surahs (38)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[010 Yunus]]
+- [[012 Yusuf]]
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[022 Al-Hajj]]
+- [[023 Al-Muminun]]
+- [[025 Al-Furqan]]
+- [[027 An-Naml]]
+- [[028 Al-Qasas]]
+- [[030 Ar-Rum]]
+- [[031 Luqman]]
+- [[033 Al-Ahzab]]
+- [[039 Az-Zumar]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:112 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُۥٓ أَجْرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+
+</div>
+
+**Word in this verse:** `وَجْهَهُۥ` — his face
+
+**English (Sahih International):** Yes, [on the contrary], whoever submits his face [i.e., self] in Islām to Allāh while being a doer of good will have his reward with his Lord. And no fear will there be concerning them, nor will they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جو شخص خدا کے آگے گردن جھکا دے، (یعنی ایمان لے آئے) اور وہ نیکو کار بھی ہو تو اس کا صلہ اس کے پروردگار کے پاس ہے اور ایسے لوگوں کو (قیامت کے دن) نہ کسی طرح کا خوف ہوگا اور نہ وہ غمناک ہوں گے
+
+[Open on Quran.com](https://quran.com/2/112)
+
+#### 2:115 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا۟ فَثَمَّ وَجْهُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ وَٰسِعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `وَجْهُ` — (is the) face
+
+**English (Sahih International):** And to Allāh belongs the east and the west. So wherever you [might] turn, there is the Face of Allāh. Indeed, Allāh is all-Encompassing and Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مشرق اور مغرب سب خدا ہی کا ہے۔ تو جدھر تم رخ کرو۔ ادھر خدا کی ذات ہے۔ بے شک خدا صاحبِ وسعت اور باخبر ہے
+
+[Open on Quran.com](https://quran.com/2/115)
+
+#### 2:144 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ ۗ وَإِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `وَجْهِكَ` — (of) your face
+
+**English (Sahih International):** We have certainly seen the turning of your face, [O Muḥammad], toward the heaven, and We will surely turn you to a qiblah with which you will be pleased. So turn your face [i.e., yourself] toward al-Masjid al-Ḥarām. And wherever you [believers] are, turn your faces [i.e., yourselves] toward it [in prayer]. Indeed, those who have been given the Scripture [i.e., the Jews and the Christians] well know that it is the truth from their Lord. And Allāh is not unaware of what they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) ہم تمہارا آسمان کی طرف منہ پھیر پھیر کر دیکھنا دیکھ رہے ہیں۔ سو ہم تم کو اسی قبلے کی طرف جس کو تم پسند کرتے ہو، منہ کرنے کا حکم دیں گے تو اپنا منہ مسجد حرام (یعنی خانہٴ کعبہ) کی طرف پھیر لو۔ اور تم لوگ جہاں ہوا کرو، (نماز پڑھنے کے وقت) اسی مسجد کی طرف منہ کر لیا کرو۔ اور جن لوگوں کو کتاب دی گئی ہے، وہ خوب جانتے ہیں کہ (نیا قبلہ) ان کے پروردگار کی طرف سے حق ہے۔ اور جو کام یہ لوگ کرتے ہیں، خدا ان سے بے خبر نہیں
+
+[Open on Quran.com](https://quran.com/2/144)
+
+#### 2:149 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۖ وَإِنَّهُۥ لَلْحَقُّ مِن رَّبِّكَ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `وَجْهَكَ` — your face
+
+**English (Sahih International):** So from wherever you go out [for prayer, O Muḥammad], turn your face toward al-Masjid al-Ḥarām, and indeed, it is the truth from your Lord. And Allāh is not unaware of what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم جہاں سے نکلو، (نماز میں) اپنا منہ مسجد محترم کی طرف کر لیا کرو بےشک وہ تمہارے پروردگار کی طرف سے حق ہے۔ اور تم لوگ جو کچھ کرتے ہو۔ خدا اس سے بے خبر نہیں
+
+[Open on Quran.com](https://quran.com/2/149)
+
+#### 2:150 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ
+
+</div>
+
+**Word in this verse:** `وَجْهَكَ` — your face
+
+**English (Sahih International):** And from wherever you go out [for prayer], turn your face toward al-Masjid al-Ḥarām. And wherever you [believers] may be, turn your faces toward it in order that the people will not have any argument against you, except for those of them who commit wrong; so fear them not but fear Me. And [it is] so I may complete My favor upon you and that you may be guided,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم جہاں سے نکلو، مسجدِ محترم کی طرف منہ (کرکے نماز پڑھا) کرو۔ اور مسلمانو، تم جہاں ہوا کرو، اسی (مسجد) کی طرف رخ کیا کرو۔ (یہ تاکید) اس لیے (کی گئی ہے) کہ لوگ تم کو کسی طرح کا الزام نہ دے سکیں۔ مگر ان میں سے جو ظالم ہیں، (وہ الزام دیں تو دیں) سو ان سے مت ڈرنا اور مجھی سے ڈرتے رہنا۔ اور یہ بھی مقصود ہے کہ تم کو اپنی تمام نعمتیں بخشوں اور یہ بھی کہ تم راہِ راست پر چلو
+
+[Open on Quran.com](https://quran.com/2/150)
+
+#### 2:177 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ
+
+</div>
+
+**Word in this verse:** `وُجُوهَكُمْ` — your faces
+
+**English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+
+[Open on Quran.com](https://quran.com/2/177)
+
+#### 2:272 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ لَّيْسَ عَلَيْكَ هُدَىٰهُمْ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَلِأَنفُسِكُمْ ۚ وَمَا تُنفِقُونَ إِلَّا ٱبْتِغَآءَ وَجْهِ ٱللَّهِ ۚ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
+
+</div>
+
+**Word in this verse:** `وَجْهِ` — (the) face
+
+**English (Sahih International):** Not upon you, [O Muḥammad], is [responsibility for] their guidance, but Allāh guides whom He wills. And whatever good you [believers] spend is for yourselves, and you do not spend except seeking the face [i.e., approval] of Allāh. And whatever you spend of good - it will be fully repaid to you, and you will not be wronged.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) تم ان لوگوں کی ہدایت کے ذمہ دار نہیں ہو بلکہ خدا ہی جس کو چاہتا ہے ہدایت بخشتا ہے۔ اور (مومنو) تم جو مال خرچ کرو گے تو اس کا فائدہ تمہیں کو ہے اور تم جو خرچ کرو گے خدا کی خوشنودی کے لئے کرو گے۔ اور جو مال تم خرچ کرو گے وہ تمہیں پورا پورا دے دیا جائے گا اور تمہارا کچھ نقصان نہیں کیا جائے گا،
+
+[Open on Quran.com](https://quran.com/2/272)
+
+#### 3:20 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْأُمِّيِّـۧنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَـٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
+
+</div>
+
+**Word in this verse:** `وَجْهِىَ` — myself
+
+**English (Sahih International):** So if they argue with you, say, "I have submitted myself to Allāh [in Islām], and [so have] those who follow me." And say to those who were given the Scripture and [to] the unlearned, "Have you submitted yourselves?" And if they submit [in Islām], they are rightly guided; but if they turn away - then upon you is only the [duty of] notification. And Allāh is Seeing of [His] servants.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر اگر یہ لوگ تم سے جھگڑنے لگیں تو کہنا کہ میں اور میرے پیرو تو خدا کے فرمانبردار ہو چکے اور اہل کتاب اور ان پڑھ لوگوں سے کہو کہ کیا تم بھی (خدا کے فرمانبردار بنتے ہو) اور اسلام لاتے ہو؟ اگر یہ لوگ اسلام لے آئیں تو بے شک ہدایت پالیں اور اگر (تمہارا کہا) نہ مانیں تو تمہارا کام صرف خدا کا پیغام پہنچا دینا ہے اور خدا (اپنے) بندوں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/3/20)
+
+#### 3:72 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ ءَامِنُوا۟ بِٱلَّذِىٓ أُنزِلَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَجْهَ ٱلنَّهَارِ وَٱكْفُرُوٓا۟ ءَاخِرَهُۥ لَعَلَّهُمْ يَرْجِعُونَ
+
+</div>
+
+**Word in this verse:** `وَجْهَ` — (at the) beginning
+
+**English (Sahih International):** And a faction of the People of the Scripture say [to each other], "Believe in that which was revealed to the believers at the beginning of the day and reject it at its end that perhaps they will return [i.e., abandon their religion],
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اہلِ کتاب ایک دوسرے سے کہتے ہیں کہ جو (کتاب) مومنوں پر نازل ہوئی ہے اس پر دن کے شروع میں تو ایمان لے آیا کرو اور اس کے آخر میں انکار کر دیا کرو تاکہ وہ (اسلام سے) برگشتہ ہو جائیں
+
+[Open on Quran.com](https://quran.com/3/72)
+
+#### 3:106 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ ۚ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم بَعْدَ إِيمَـٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
+
+</div>
+
+**Word in this verse:** `وُجُوهٌۭ` — (some) faces
+
+**English (Sahih International):** On the Day [some] faces will turn white and [some] faces will turn black. As for those whose faces turn black, [to them it will be said], "Did you disbelieve [i.e., reject faith] after your belief? Then taste the punishment for what you used to reject."
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن بہت سے منہ سفید ہوں گے اور بہت سے منہ سیاہ تو جن لوگوں کے منہ سیاہ ہوں گے (ان سے خدا فرمائے گا) کیا تم ایمان لا کر کافر ہوگئے تھے؟ سو (اب) اس کفر کے بدلے عذاب (کے مزے) چکھو
+
+[Open on Quran.com](https://quran.com/3/106)
+
+_…and **57** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

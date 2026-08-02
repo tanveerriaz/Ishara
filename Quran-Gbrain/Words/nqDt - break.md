@@ -1,0 +1,127 @@
+---
+type: word
+lemma: "نَقَضَتْ"
+slug: "nqDt - break"
+surah_count: 4
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# nqDt - break
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[nqD - nqd]]
+
+### Meaning
+**break** · Lemma **نَقَضَتْ**
+
+### Surahs (4)
+- [[002 Al-Baqarah]]
+- [[008 Al-Anfal]]
+- [[013 Ar-Rad]]
+- [[016 An-Nahl]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:27 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَـٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ
+
+</div>
+
+**Word in this verse:** `يَنقُضُونَ` — break
+
+**English (Sahih International):** Who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and cause corruption on earth. It is those who are the losers.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے اقرار کو مضبوط کرنے کے بعد توڑ دیتے ہیں اور جس چیز (یعنی رشتہٴ قرابت) کے جوڑے رکھنے کا الله نے حکم دیا ہے اس کو قطع کئے ڈالتے ہیں اور زمین میں خرابی کرتے ہیں یہی لوگ نقصان اٹھانے والے ہیں
+
+[Open on Quran.com](https://quran.com/2/27)
+
+#### 8:56 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ عَـٰهَدتَّ مِنْهُمْ ثُمَّ يَنقُضُونَ عَهْدَهُمْ فِى كُلِّ مَرَّةٍ وَهُمْ لَا يَتَّقُونَ
+
+</div>
+
+**Word in this verse:** `يَنقُضُونَ` — they break
+
+**English (Sahih International):** The ones with whom you made a treaty but then they break their pledge every time, and they do not fear Allāh.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں سے تم نے (صلح کا) عہد کیا ہے پھر وہ ہر بار اپنے عہد کو توڑ ڈالتے ہیں اور (خدا سے) نہیں ڈرتے
+
+[Open on Quran.com](https://quran.com/8/56)
+
+#### 13:20 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يُوفُونَ بِعَهْدِ ٱللَّهِ وَلَا يَنقُضُونَ ٱلْمِيثَـٰقَ
+
+</div>
+
+**Word in this verse:** `يَنقُضُونَ` — they break
+
+**English (Sahih International):** Those who fulfill the covenant of Allāh and do not break the contract,
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے عہد کو پورا کرتے ہیں اور اقرار کو نہیں توڑتے
+
+[Open on Quran.com](https://quran.com/13/20)
+
+#### 13:25 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَـٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ ۙ أُو۟لَـٰٓئِكَ لَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ
+
+</div>
+
+**Word in this verse:** `يَنقُضُونَ` — break
+
+**English (Sahih International):** But those who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and spread corruption on earth - for them is the curse, and they will have the worst home.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا سے عہد واثق کر کے اس کو توڑ ڈالتے اور (رشتہ ہائے قرابت) کے جوڑے رکھنے کا خدا نے حکم دیا ہے ان کو قطع کر دیتے ہیں اور ملک میں فساد کرتے ہیں۔ ایسوں پر لعنت ہے اور ان کے لیے گھر بھی برا ہے
+
+[Open on Quran.com](https://quran.com/13/25)
+
+#### 16:91 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَوْفُوا۟ بِعَهْدِ ٱللَّهِ إِذَا عَـٰهَدتُّمْ وَلَا تَنقُضُوا۟ ٱلْأَيْمَـٰنَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ ٱللَّهَ عَلَيْكُمْ كَفِيلًا ۚ إِنَّ ٱللَّهَ يَعْلَمُ مَا تَفْعَلُونَ
+
+</div>
+
+**Word in this verse:** `تَنقُضُوا۟` — break
+
+**English (Sahih International):** And fulfill the covenant of Allāh when you have taken it, [O believers], and do not break oaths after their confirmation while you have made Allāh, over you, a security [i.e., witness]. Indeed, Allāh knows what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب خدا سے عہد واثق کرو تو اس کو پورا کرو اور جب پکی قسمیں کھاؤ تو اُن کو مت توڑو کہ تم خدا کو اپنا ضامن مقرر کرچکے ہو۔ اور جو کچھ تم کرتے ہو خدا اس کو جانتا ہے
+
+[Open on Quran.com](https://quran.com/16/91)
+
+#### 16:92 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَكُونُوا۟ كَٱلَّتِى نَقَضَتْ غَزْلَهَا مِنۢ بَعْدِ قُوَّةٍ أَنكَـٰثًا تَتَّخِذُونَ أَيْمَـٰنَكُمْ دَخَلًۢا بَيْنَكُمْ أَن تَكُونَ أُمَّةٌ هِىَ أَرْبَىٰ مِنْ أُمَّةٍ ۚ إِنَّمَا يَبْلُوكُمُ ٱللَّهُ بِهِۦ ۚ وَلَيُبَيِّنَنَّ لَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ مَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
+
+</div>
+
+**Word in this verse:** `نَقَضَتْ` — untwists
+
+**English (Sahih International):** And do not be like she who untwisted her spun thread after it was strong [by] taking your oaths as [means of] deceit between you because one community is more plentiful [in number or wealth] than another community. Allāh only tries you thereby. And He will surely make clear to you on the Day of Resurrection that over which you used to differ.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اُس عورت کی طرح نہ ہونا جس نے محنت سے تو سوت کاتا۔ پھر اس کو توڑ کر ٹکڑے ٹکڑے کر ڈالا۔ کہ تم اپنی قسموں کو آپس میں اس بات کا ذریعہ بنانے لگو کہ ایک گروہ دوسرے گروہ سے زیادہ غالب رہے۔ بات یہ ہے کہ خدا تمہیں اس سے آزماتا ہے۔ اور جن باتوں میں تم اختلاف کرتے ہو قیامت کو اس کی حقیقت تم پر ظاہر کر دے گا
+
+[Open on Quran.com](https://quran.com/16/92)
+

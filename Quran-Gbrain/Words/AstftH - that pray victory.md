@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "اسْتَفْتَحُ"
+slug: "AstftH - that pray victory"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# AstftH - that pray victory
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[ftH - victory]]
+
+### Meaning
+**that pray victory** · Lemma **اسْتَفْتَحُ**
+
+### Surahs (3)
+- [[002 Al-Baqarah]]
+- [[008 Al-Anfal]]
+- [[014 Ibrahim]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:89 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَمَّا جَآءَهُمْ كِتَـٰبٌ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ وَكَانُوا۟ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى ٱلَّذِينَ كَفَرُوا۟ فَلَمَّا جَآءَهُم مَّا عَرَفُوا۟ كَفَرُوا۟ بِهِۦ ۚ فَلَعْنَةُ ٱللَّهِ عَلَى ٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `يَسْتَفْتِحُونَ` — (that), pray for victory
+
+**English (Sahih International):** And when there came to them a Book [i.e., the Qur’ān] from Allāh confirming that which was with them - although before they used to pray for victory against those who disbelieved - but [then] when there came to them that which they recognized, they disbelieved in it; so the curse of Allāh will be upon the disbelievers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب الله کے ہاں سے ان کے پاس کتاب آئی جو ان کی (آسمانی) کتاب کی بھی تصدیق کرتی ہے، اور وہ پہلے (ہمیشہ) کافروں پر فتح مانگا کرتے تھے، تو جس چیز کو وہ خوب پہچانتے تھے، جب ان کے پاس آپہنچی تو اس سے کافر ہو گئے۔ پس کافروں پر الله کی لعنت
+
+[Open on Quran.com](https://quran.com/2/89)
+
+#### 8:19 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن تَسْتَفْتِحُوا۟ فَقَدْ جَآءَكُمُ ٱلْفَتْحُ ۖ وَإِن تَنتَهُوا۟ فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَعُودُوا۟ نَعُدْ وَلَن تُغْنِىَ عَنكُمْ فِئَتُكُمْ شَيْـًٔا وَلَوْ كَثُرَتْ وَأَنَّ ٱللَّهَ مَعَ ٱلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `تَسْتَفْتِحُوا۟` — you ask for victory
+
+**English (Sahih International):** If you [disbelievers] seek the decision [i.e., victory] - the decision [i.e., defeat] has come to you. And if you desist [from hostilities], it is best for you; but if you return [to war], We will return, and never will you be availed by your [large] company at all, even if it should increase; and [that is] because Allāh is with the believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** (کافرو) اگر تم (محمد صلی الله علیہ وآلہ وسلم پر) فتح چاہتے ہو تو تمہارے پاس فتح آچکی۔ (دیکھو) اگر تم (اپنے افعال سے) باز آجاؤ تو تمہارے حق میں بہتر ہے۔ اور اگر پھر (نافرمانی) کرو گے تو ہم بھی پھر تمہیں عذاب کریں گے اور تمہاری جماعت خواہ کتنی ہی کثیر ہو تمہارے کچھ بھی کام نہ آئے گی۔ اور خدا تو مومنوں کے ساتھ ہے
+
+[Open on Quran.com](https://quran.com/8/19)
+
+#### 14:15 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱسْتَفْتَحُوا۟ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ
+
+</div>
+
+**Word in this verse:** `وَٱسْتَفْتَحُوا۟` — And they sought victory
+
+**English (Sahih International):** And they requested decision [i.e., victory from Allāh], and disappointed, [therefore], was every obstinate tyrant.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبروں نے (خدا سے اپنی) فتح چاہی تو ہر سرکش ضدی نامراد رہ گیا
+
+[Open on Quran.com](https://quran.com/14/15)
+

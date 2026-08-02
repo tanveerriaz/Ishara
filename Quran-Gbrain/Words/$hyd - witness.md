@@ -1,0 +1,213 @@
+---
+type: word
+lemma: "شَهِيد"
+slug: "$hyd - witness"
+surah_count: 24
+ayah_count: 47
+tags: [word, meaning]
+---
+
+# $hyd - witness
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[$hd - shhd]]
+
+### Meaning
+**witness** · Lemma **شَهِيد**
+
+### Surahs (24)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[010 Yunus]]
+- [[013 Ar-Rad]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[022 Al-Hajj]]
+- [[024 An-Nur]]
+- [[028 Al-Qasas]]
+- [[029 Al-Ankabut]]
+- [[033 Al-Ahzab]]
+- [[034 Saba]]
+- [[039 Az-Zumar]]
+- [[041 Fussilat]]
+- [[046 Al-Ahqaf]]
+- [[048 Al-Fath]]
+- [[050 Qaf]]
+- [[057 Al-Hadid]]
+- [[058 Al-Mujadila]]
+- [[085 Al-Buruj]]
+- [[100 Al-Adiyat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:23 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ
+
+</div>
+
+**Word in this verse:** `شُهَدَآءَكُم` — your witnesses
+
+**English (Sahih International):** And if you are in doubt about what We have sent down [i.e., the Qur’ān] upon Our Servant [i.e., Prophet Muḥammad (ﷺ)], then produce a sūrah the like thereof and call upon your witnesses [i.e., supporters] other than Allāh, if you should be truthful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو اس (کتاب) میں، جو ہم نے اپنے بندے (محمدﷺ عربی) پر نازل فرمائی ہے کچھ شک ہو تو اسی طرح کی ایک سورت تم بھی بنا لاؤ اور خدا کے سوا جو تمہارے مددگار ہوں ان کو بھی بلالو اگر تم سچے ہو
+
+[Open on Quran.com](https://quran.com/2/23)
+
+#### 2:133 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَـٰهَكَ وَإِلَـٰهَ ءَابَآئِكَ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ إِلَـٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
+
+</div>
+
+**Word in this verse:** `شُهَدَآءَ` — witnesses
+
+**English (Sahih International):** Or were you witnesses when death approached Jacob, when he said to his sons, "What will you worship after me?" They said, "We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac - one God. And we are Muslims [in submission] to Him."
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس وقت یعقوب وفات پانے لگے تو تم اس وقت موجود تھے، جب انہوں نے اپنے بیٹوں سے پوچھا کہ میرے بعد تم کس کی عبادت کرو گے، تو انہوں نے کہا کہ آپ کے معبود اور آپ کے باپ دادا ابراہیم اور اسمٰعیل اور اسحاق کے معبود کی عبادت کریں گے جو معبود یکتا ہے اور ہم اُسی کے حکم بردار ہیں
+
+[Open on Quran.com](https://quran.com/2/133)
+
+#### 2:143 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَذَٰلِكَ جَعَلْنَـٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيْكُمْ شَهِيدًا ۗ وَمَا جَعَلْنَا ٱلْقِبْلَةَ ٱلَّتِى كُنتَ عَلَيْهَآ إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ ۚ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُ ۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَـٰنَكُمْ ۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `شُهَدَآءَ` — witnesses
+
+**English (Sahih International):** And thus We have made you a median [i.e., just] community that you will be witnesses over the people and the Messenger will be a witness over you. And We did not make the qiblah which you used to face except that We might make evident who would follow the Messenger from who would turn back on his heels. And indeed, it is difficult except for those whom Allāh has guided. And never would Allāh have caused you to lose your faith [i.e., your previous prayers]. Indeed Allāh is, to the people, Kind and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے تم کو امتِ معتدل بنایا ہے، تاکہ تم لوگوں پر گواہ بنو اور پیغمبر (آخرالزماں) تم پر گواہ بنیں۔ اور جس قبلے پر تم (پہلے) تھے، اس کو ہم نے اس لیے مقرر کیا تھا کہ معلوم کریں، کون (ہمارے) پیغمبر کا تابع رہتا ہے، اور کون الٹے پاؤں پھر جاتا ہے۔ اور یہ بات (یعنی تحویل قبلہ لوگوں کو) گراں معلوم ہوئی، مگر جن کو خدا نے ہدایت بخشی (وہ اسے گراں نہیں سمجھتے) اور خدا ایسا نہیں کہ تمہارے ایمان کو یونہی کھو دے۔ خدا تو لوگوں پر بڑا مہربان (اور) صاحبِ رحمت ہے
+
+[Open on Quran.com](https://quran.com/2/143)
+
+#### 2:282 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰٓ أَجَلٍ مُّسَمًّى فَٱكْتُبُوهُ ۚ وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌۢ بِٱلْعَدْلِ ۚ وَلَا يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ ٱللَّهُ ۚ فَلْيَكْتُبْ وَلْيُمْلِلِ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا يَبْخَسْ مِنْهُ شَيْـًٔا ۚ فَإِن كَانَ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَن يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُۥ بِٱلْعَدْلِ ۚ وَٱسْتَشْهِدُوا۟ شَهِيدَيْنِ مِن رِّجَالِكُمْ ۖ فَإِن لَّمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَٱمْرَأَتَانِ مِمَّن تَرْضَوْنَ مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحْدَىٰهُمَا فَتُذَكِّرَ إِحْدَىٰهُمَا ٱلْأُخْرَىٰ ۚ وَلَا يَأْبَ ٱلشُّهَدَآءُ إِذَا مَا دُعُوا۟ ۚ وَلَا تَسْـَٔمُوٓا۟ أَن تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰٓ أَجَلِهِۦ ۚ ذَٰلِكُمْ أَقْسَطُ عِندَ ٱللَّهِ وَأَقْوَمُ لِلشَّهَـٰدَةِ وَأَدْنَىٰٓ أَلَّا تَرْتَابُوٓا۟ ۖ إِلَّآ أَن تَكُونَ تِجَـٰرَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا ۗ وَأَشْهِدُوٓا۟ إِذَا تَبَايَعْتُمْ ۚ وَلَا يُضَآرَّ كَاتِبٌ وَلَا شَهِيدٌ ۚ وَإِن تَفْعَلُوا۟ فَإِنَّهُۥ فُسُوقٌۢ بِكُمْ ۗ وَٱتَّقُوا۟ ٱللَّهَ ۖ وَيُعَلِّمُكُمُ ٱللَّهُ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `شَهِيدَيْنِ` — two witnesses
+
+**English (Sahih International):** O you who have believed, when you contract a debt for a specified term, write it down. And let a scribe write [it] between you in justice. Let no scribe refuse to write as Allāh has taught him. So let him write and let the one who has the obligation [i.e., the debtor] dictate. And let him fear Allāh, his Lord, and not leave anything out of it. But if the one who has the obligation is of limited understanding or weak or unable to dictate himself, then let his guardian dictate in justice. And bring to witness two witnesses from among your men. And if there are not two men [available], then a man and two women from those whom you accept as witnesses - so that if one of them [i.e., the women] errs, then the other can remind her. And let not the witnesses refuse when they are called upon. And do not be [too] weary to write it, whether it is small or large, for its [specified] term. That is more just in the sight of Allāh and stronger as evidence and more likely to prevent doubt between you, except when it is an immediate transaction which you conduct among yourselves. For [then] there is no blame upon you if you do not write it. And take witnesses when you conclude a contract. Let no scribe be harmed or any witness. For if you do so, indeed, it is [grave] disobedience in you. And fear Allāh. And Allāh teaches you. And Allāh is Knowing of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
+
+[Open on Quran.com](https://quran.com/2/282)
+
+#### 3:98 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِيدٌ عَلَىٰ مَا تَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `شَهِيدٌ` — (is) a Witness
+
+**English (Sahih International):** Say, "O People of the Scripture, why do you disbelieve in the verses of Allāh while Allāh is Witness over what you do?"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اہلِ کتاب! تم خدا کی آیتوں سے کیوں کفر کرتے ہو اور خدا تمہارے سب اعمال سے باخبر ہے
+
+[Open on Quran.com](https://quran.com/3/98)
+
+#### 3:99 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًا وَأَنتُمْ شُهَدَآءُ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `شُهَدَآءُ ۗ` — (are) witnesses
+
+**English (Sahih International):** Say, "O People of the Scripture, why do you avert from the way of Allāh those who believe, seeking to make it [seem] deviant, while you are witnesses [to the truth]? And Allāh is not unaware of what you do."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اہلِ کتاب تم مومنوں کو خدا کے رستے سے کیوں روکتے ہو اور باوجود یہ کہ تم اس سے واقف ہو اس میں کجی نکالتے ہو اور خدا تمھارے کاموں سے بےخبر نہیں
+
+[Open on Quran.com](https://quran.com/3/99)
+
+#### 3:140 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ ٱلْقَوْمَ قَرْحٌ مِّثْلُهُۥ ۚ وَتِلْكَ ٱلْأَيَّامُ نُدَاوِلُهَا بَيْنَ ٱلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَتَّخِذَ مِنكُمْ شُهَدَآءَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `شُهَدَآءَ ۗ` — martyrs
+
+**English (Sahih International):** If a wound should touch you - there has already touched the [opposing] people a wound similar to it. And these days [of varying conditions] We alternate among the people so that Allāh may make evident those who believe and [may] take to Himself from among you martyrs - and Allāh does not like the wrongdoers -
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تمہیں زخم (شکست) لگا ہے تو ان لوگوں کو بھی ایسا زخم لگ چکا ہے اور یہ دن ہیں کہ ہم ان کو لوگوں میں بدلتے رہتے ہیں اور اس سے یہ بھی مقصود تھا کہ خدا ایمان والوں کو متمیز کر دے اور تم میں سے گواہ بنائے اور خدا بےانصافوں کو پسند نہیں کرتا
+
+[Open on Quran.com](https://quran.com/3/140)
+
+#### 4:33 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلِكُلٍّ جَعَلْنَا مَوَٰلِىَ مِمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ ۚ وَٱلَّذِينَ عَقَدَتْ أَيْمَـٰنُكُمْ فَـَٔاتُوهُمْ نَصِيبَهُمْ ۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا
+
+</div>
+
+**Word in this verse:** `شَهِيدًا` — a Witness
+
+**English (Sahih International):** And for all, We have made heirs to what is left by parents and relatives. And to those whom your oaths have bound [to you] - give them their share. Indeed Allāh is ever, over all things, a Witness.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو مال ماں باپ اور رشتہ دار چھوڑ مریں تو (حق داروں میں تقسیم کردو کہ) ہم نے ہر ایک کے حقدار مقرر کردیئے ہیں اور جن لوگوں سے تم عہد کرچکے ہو ان کو بھی ان کا حصہ دو بےشک خدا ہر چیز کے سامنے ہے
+
+[Open on Quran.com](https://quran.com/4/33)
+
+#### 4:41 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَىٰ هَـٰٓؤُلَآءِ شَهِيدًا
+
+</div>
+
+**Word in this verse:** `بِشَهِيدٍۢ` — a witness
+
+**English (Sahih International):** So how [will it be] when We bring from every nation a witness and We bring you, [O Muḥammad], against these [people] as a witness?
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا اس دن کا کیا حال ہوگا جب ہم ہر امت میں سے احوال بتائے والے کو بلائیں گے اور تم کو ان لوگوں کا حال (بتانے کو) گواہ طلب کریں گے
+
+[Open on Quran.com](https://quran.com/4/41)
+
+#### 4:69 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُو۟لَـٰٓئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّـٰلِحِينَ ۚ وَحَسُنَ أُو۟لَـٰٓئِكَ رَفِيقًا
+
+</div>
+
+**Word in this verse:** `وَٱلشُّهَدَآءِ` — and the martyrs
+
+**English (Sahih International):** And whoever obeys Allāh and the Messenger - those will be with the ones upon whom Allāh has bestowed favor of the prophets, the steadfast affirmers of truth, the martyrs and the righteous. And excellent are those as companions.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا اور اس کے رسول کی اطاعت کرتے ہیں وہ (قیامت کے روز) ان لوگوں کے ساتھ ہوں گے جن پر خدا نے بڑا فضل کیا یعنی انبیاء اور صدیق اور شہید اور نیک لوگ اور ان لوگوں کی رفاقت بہت ہی خوب ہے
+
+[Open on Quran.com](https://quran.com/4/69)
+
+_…and **37** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

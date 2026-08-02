@@ -1,0 +1,128 @@
+---
+type: word
+lemma: "مِيعاد"
+slug: "myEAd - promise"
+surah_count: 5
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# myEAd - promise
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[wEd - promise]]
+
+### Meaning
+**promise** · Lemma **مِيعاد**
+
+### Surahs (5)
+- [[003 Ali Imran]]
+- [[008 Al-Anfal]]
+- [[013 Ar-Rad]]
+- [[034 Saba]]
+- [[039 Az-Zumar]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:9 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
+
+</div>
+
+**Word in this verse:** `ٱلْمِيعَادَ` — the Promise
+
+**English (Sahih International):** Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allāh does not fail in His promise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار! تو اس روز جس (کے آنے) میں کچھ بھی شک نہیں سب لوگوں کو (اپنے حضور میں) جمع کرلے گا بے شک خدا خلاف وعدہ نہیں کرتا
+
+[Open on Quran.com](https://quran.com/3/9)
+
+#### 3:194 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ
+
+</div>
+
+**Word in this verse:** `ٱلْمِيعَادَ` — the promise
+
+**English (Sahih International):** Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار تو نے جن جن چیزوں کے ہم سے اپنے پیغمبروں کے ذریعے سے وعدے کیے ہیں وہ ہمیں عطا فرما اور قیامت کے دن ہمیں رسوا نہ کیجو کچھ شک نہیں کہ تو خلاف وعدہ نہیں کرتا
+
+[Open on Quran.com](https://quran.com/3/194)
+
+#### 8:42 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ أَنتُم بِٱلْعُدْوَةِ ٱلدُّنْيَا وَهُم بِٱلْعُدْوَةِ ٱلْقُصْوَىٰ وَٱلرَّكْبُ أَسْفَلَ مِنكُمْ ۚ وَلَوْ تَوَاعَدتُّمْ لَٱخْتَلَفْتُمْ فِى ٱلْمِيعَـٰدِ ۙ وَلَـٰكِن لِّيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا لِّيَهْلِكَ مَنْ هَلَكَ عَنۢ بَيِّنَةٍ وَيَحْيَىٰ مَنْ حَىَّ عَنۢ بَيِّنَةٍ ۗ وَإِنَّ ٱللَّهَ لَسَمِيعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلْمِيعَـٰدِ ۙ` — the appointment
+
+**English (Sahih International):** [Remember] when you were on the near side of the valley, and they were on the farther side, and the caravan was lower [in position] than you. If you had made an appointment [to meet], you would have missed the appointment. But [it was] so that Allāh might accomplish a matter already destined - that those who perished [through disbelief] would perish upon evidence and those who lived [in faith] would live upon evidence; and indeed, Allāh is Hearing and Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس وقت تم (مدینے سے) قریب کے ناکے پر تھے اور کافر بعید کے ناکے پر اور قافلہ تم سے نیچے (اتر گیا) تھا۔ اور اگر تم (جنگ کے لیے) آپس میں قرارداد کرلیتے تو وقت معین (پر جمع ہونے) میں تقدیم وتاخیر ہو جاتی۔ لیکن خدا کو منظور تھا کہ جو کام ہو کر رہنے والا تھا اسے کر ہی ڈالے تاکہ جو مرے بصیرت پر (یعنی یقین جان کر) مرے اور جو جیتا رہے وہ بھی بصیرت پر (یعنی حق پہچان کر) جیتا رہے۔ اور کچھ شک نہیں کہ خدا سنتا جانتا ہے
+
+[Open on Quran.com](https://quran.com/8/42)
+
+#### 13:31 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟ قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ حَتَّىٰ يَأْتِىَ وَعْدُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
+
+</div>
+
+**Word in this verse:** `ٱلْمِيعَادَ` — (in) the Promise
+
+**English (Sahih International):** And if there was any Qur’ān [i.e., recitation] by which the mountains would be removed or the earth would be broken apart or the dead would be made to speak, [it would be this Qur’ān], but to Allāh belongs the affair entirely. Then have those who believed not accepted that had Allāh willed, He would have guided the people, all of them? And those who disbelieve do not cease to be struck, for what they have done, by calamity - or it will descend near their home - until there comes the promise of Allāh. Indeed, Allāh does not fail in [His] promise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر کوئی قرآن ایسا ہوتا کہ اس (کی تاثیر) سے پہاڑ چل پڑتے یا زمین پھٹ جاتی یا مردوں سے کلام کرسکتے۔ (تو یہی قرآن ان اوصاف سے متصف ہوتا مگر) بات یہ ہے کہ سب باتیں خدا کے اختیار میں ہیں تو کیا مومنوں کو اس سے اطمینان نہیں ہوا کہ اگر خدا چاہتا تو سب لوگوں کو ہدایت کے رستے پر چلا دیتا۔ اور کافروں پر ہمیشہ ان کے اعمال کے بدلے بلا آتی رہے گی یا ان کے مکانات کے قریب نازل ہوتی رہے گی یہاں تک کہ خدا کا وعدہ آپہنچے۔ بےشک خدا وعدہ خلاف نہیں کرتا
+
+[Open on Quran.com](https://quran.com/13/31)
+
+#### 34:30 · [[034 Saba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُل لَّكُم مِّيعَادُ يَوْمٍ لَّا تَسْتَـْٔخِرُونَ عَنْهُ سَاعَةً وَلَا تَسْتَقْدِمُونَ
+
+</div>
+
+**Word in this verse:** `مِّيعَادُ` — (is the) appointment
+
+**English (Sahih International):** Say, "For you is the appointment of a Day [when] you will not remain thereafter an hour, nor will you precede [it]."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ تم سے ایک دن کا وعدہ ہے جس سے نہ ایک گھڑی پیچھے رہوگے اور نہ آگے بڑھو گے
+
+[Open on Quran.com](https://quran.com/34/30)
+
+#### 39:20 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ غُرَفٌ مِّن فَوْقِهَا غُرَفٌ مَّبْنِيَّةٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ ٱلْمِيعَادَ
+
+</div>
+
+**Word in this verse:** `ٱلْمِيعَادَ` — (in His) promise
+
+**English (Sahih International):** But those who have feared their Lord - for them are chambers, above them chambers built high, beneath which rivers flow. [This is] the promise of Allāh. Allāh does not fail in [His] promise.
+
+**Urdu (Fatah Muhammad Jalandhari):** لیکن جو لوگ اپنے پروردگار سے ڈرتے ہیں ان کے لئے اونچے اونچے محل ہیں جن کے اوپر بالا خانے بنے ہوئے ہیں۔ (اور) ان کے نیچے نہریں بہہ رہی ہیں۔ (یہ) خدا کا وعدہ ہے۔ خدا وعدے کے خلاف نہیں کرتا
+
+[Open on Quran.com](https://quran.com/39/20)
+

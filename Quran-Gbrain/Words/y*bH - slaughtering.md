@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "يُذَبِّحُ"
+slug: "y*bH - slaughtering"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# y*bH - slaughtering
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[*bH - cut split lengthwise]]
+
+### Meaning
+**slaughtering** · Lemma **يُذَبِّحُ**
+
+### Surahs (3)
+- [[002 Al-Baqarah]]
+- [[014 Ibrahim]]
+- [[028 Al-Qasas]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:49 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ نَجَّيْنَـٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
+
+</div>
+
+**Word in this verse:** `يُذَبِّحُونَ` — slaughtering
+
+**English (Sahih International):** And [recall] when We saved you [i.e., your forefathers] from the people of Pharaoh, who afflicted you with the worst torment, slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (ہمارے ان احسانات کو یاد کرو) جب ہم نے تم کو قومِ فرعون سے نجات بخشی وہ (لوگ) تم کو بڑا دکھ دیتے تھے تمہارے بیٹوں کو تو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
+
+[Open on Quran.com](https://quran.com/2/49)
+
+#### 14:6 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
+
+</div>
+
+**Word in this verse:** `وَيُذَبِّحُونَ` — and were slaughtering
+
+**English (Sahih International):** And [recall, O Children of Israel], when Moses said to his people, "Remember the favor of Allāh upon you when He saved you from the people of Pharaoh, who were afflicting you with the worst torment and were slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم سے کہا کہ خدا نے جو تم پر مہربانیاں کی ہیں ان کو یاد کرو جب کہ تم کو فرعون کی قوم (کے ہاتھ) سے مخلصی دی وہ لوگ تمہیں بُرے عذاب دیتے تھے اور تمہارے بیٹوں کو مار ڈالتے تھے اور عورت ذات یعنی تمہاری لڑکیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
+
+[Open on Quran.com](https://quran.com/14/6)
+
+#### 28:4 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ فِرْعَوْنَ عَلَا فِى ٱلْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَآئِفَةً مِّنْهُمْ يُذَبِّحُ أَبْنَآءَهُمْ وَيَسْتَحْىِۦ نِسَآءَهُمْ ۚ إِنَّهُۥ كَانَ مِنَ ٱلْمُفْسِدِينَ
+
+</div>
+
+**Word in this verse:** `يُذَبِّحُ` — slaughtering
+
+**English (Sahih International):** Indeed, Pharaoh exalted himself in the land and made its people into factions, oppressing a sector among them, slaughtering their [newborn] sons and keeping their females alive. Indeed, he was of the corrupters.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہ فرعون نے ملک میں سر اُٹھا رکھا تھا اور وہاں کے باشندوں کو گروہ گروہ بنا رکھا تھا اُن میں سے ایک گروہ کو (یہاں تک) کمزور کر دیا تھا کہ اُن کے بیٹوں کو ذبح کر ڈالتا اور اُن کی لڑکیوں کو زندہ رہنے دیتا۔ بیشک وہ مفسدوں میں تھا
+
+[Open on Quran.com](https://quran.com/28/4)
+

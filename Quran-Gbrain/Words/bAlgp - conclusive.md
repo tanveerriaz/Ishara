@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "بالِغَة"
+slug: "bAlgp - conclusive"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# bAlgp - conclusive
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[blg - balagha]]
+
+### Meaning
+**conclusive** · Lemma **بالِغَة**
+
+### Surahs (3)
+- [[006 Al-Anam]]
+- [[054 Al-Qamar]]
+- [[068 Al-Qalam]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 6:149 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ فَلِلَّهِ ٱلْحُجَّةُ ٱلْبَـٰلِغَةُ ۖ فَلَوْ شَآءَ لَهَدَىٰكُمْ أَجْمَعِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْبَـٰلِغَةُ ۖ` — the conclusive
+
+**English (Sahih International):** Say, "With Allāh is the far-reaching [i.e., conclusive] argument. If He had willed, He would have guided you all."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ خدا ہی کی حجت غالب ہے اگر وہ چاہتا تو تم سب کو ہدایت دے دیتا
+
+[Open on Quran.com](https://quran.com/6/149)
+
+#### 54:5 · [[054 Al-Qamar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+حِكْمَةٌۢ بَـٰلِغَةٌ ۖ فَمَا تُغْنِ ٱلنُّذُرُ
+
+</div>
+
+**Word in this verse:** `بَـٰلِغَةٌۭ ۖ` — perfect
+
+**English (Sahih International):** Extensive wisdom - but warning does not avail [them].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کامل دانائی (کی کتاب بھی) لیکن ڈرانا ان کو کچھ فائدہ نہیں دیتا
+
+[Open on Quran.com](https://quran.com/54/5)
+
+#### 68:39 · [[068 Al-Qalam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمْ لَكُمْ أَيْمَـٰنٌ عَلَيْنَا بَـٰلِغَةٌ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ
+
+</div>
+
+**Word in this verse:** `بَـٰلِغَةٌ` — reaching
+
+**English (Sahih International):** Or do you have oaths [binding] upon Us, extending until the Day of Resurrection, that indeed for you is whatever you judge?
+
+**Urdu (Fatah Muhammad Jalandhari):** یا تم نے ہم سے قسمیں لے رکھی ہیں جو قیامت کے دن تک چلی جائیں گی کہ جس شے کا تم حکم کرو گے وہ تمہارے لئے حاضر ہوگی
+
+[Open on Quran.com](https://quran.com/68/39)
+

@@ -1,0 +1,127 @@
+---
+type: word
+lemma: "أُمِّيّ"
+slug: ">my - unlettered"
+surah_count: 4
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# >my - unlettered
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[>mm - leadership]]
+
+### Meaning
+**unlettered** · Lemma **أُمِّيّ**
+
+### Surahs (4)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[007 Al-Araf]]
+- [[062 Al-Jumuah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:78 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَـٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ
+
+</div>
+
+**Word in this verse:** `أُمِّيُّونَ` — (are) unlettered ones
+
+**English (Sahih International):** And among them are unlettered ones who do not know the Scripture except [indulgement in] wishful thinking, but they are only assuming.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض ان میں ان پڑھ ہیں کہ اپنے باطل خیالات کے سوا (خدا کی) کتاب سے واقف ہی نہیں اور وہ صرف ظن سے کام لیتے ہیں
+
+[Open on Quran.com](https://quran.com/2/78)
+
+#### 3:20 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْأُمِّيِّـۧنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَـٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
+
+</div>
+
+**Word in this verse:** `وَٱلْأُمِّيِّـۧنَ` — and the unlettered people
+
+**English (Sahih International):** So if they argue with you, say, "I have submitted myself to Allāh [in Islām], and [so have] those who follow me." And say to those who were given the Scripture and [to] the unlearned, "Have you submitted yourselves?" And if they submit [in Islām], they are rightly guided; but if they turn away - then upon you is only the [duty of] notification. And Allāh is Seeing of [His] servants.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر اگر یہ لوگ تم سے جھگڑنے لگیں تو کہنا کہ میں اور میرے پیرو تو خدا کے فرمانبردار ہو چکے اور اہل کتاب اور ان پڑھ لوگوں سے کہو کہ کیا تم بھی (خدا کے فرمانبردار بنتے ہو) اور اسلام لاتے ہو؟ اگر یہ لوگ اسلام لے آئیں تو بے شک ہدایت پالیں اور اگر (تمہارا کہا) نہ مانیں تو تمہارا کام صرف خدا کا پیغام پہنچا دینا ہے اور خدا (اپنے) بندوں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/3/20)
+
+#### 3:75 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَمِنْ أَهْلِ ٱلْكِتَـٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًا ۗ ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّـۧنَ سَبِيلٌ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْأُمِّيِّـۧنَ` — the unlettered people
+
+**English (Sahih International):** And among the People of the Scripture is he who, if you entrust him with a great amount [of wealth], he will return it to you. And among them is he who, if you entrust him with a [single] coin, he will not return it to you unless you are constantly standing over him [demanding it]. That is because they say, "There is no blame upon us concerning the unlearned." And they speak untruth about Allāh while they know [it].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اہلِ کتاب میں سے کوئی تو ایسا ہے کہ اگر تم اس کے پاس (روپوں کا) ڈھیر امانت رکھ دو تو تم کو (فوراً) واپس دے دے اور کوئی اس طرح کا ہے کہ اگر اس کے پاس ایک دینار بھی امانت رکھو تو جب تک اس کے سر پر ہر وقت کھڑے نہ رہو تمہیں دے ہی نہیں یہ اس لیے کہ وہ کہتے ہیں کہ امیوں کے بارے میں ہم سے مواخذہ نہیں ہوگا یہ خدا پر محض جھوٹ بولتے ہیں اور (اس بات کو) جانتے بھی ہیں
+
+[Open on Quran.com](https://quran.com/3/75)
+
+#### 7:157 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَـٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَـٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَـٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ ۚ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ ۙ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْأُمِّىَّ` — the unlettered
+
+**English (Sahih International):** Those who follow the Messenger, the unlettered prophet, whom they find written [i.e., described] in what they have of the Torah and the Gospel, who enjoins upon them what is right and prohibits them from what is wrong and makes lawful for them what is good and forbids them from what is evil and relieves them of their burden and the shackles which were upon them. So they who have believed in him, honored him, supported him and followed the light which was sent down with him - it is those who will be the successful.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ جو (محمدﷺ) رسول (الله) کی جو نبی اُمی ہیں پیروی کرتے ہیں جن (کے اوصاف) کو وہ اپنے ہاں تورات اور انجیل میں لکھا ہوا پاتے ہیں۔ وہ انہیں نیک کام کا حکم دیتے ہیں اور برے کام سے روکتے ہیں۔ اور پاک چیزوں کو ان کے لیے حلال کرتے ہیں اور ناپاک چیزوں کو ان پر حرام ٹہراتے ہیں اور ان پر سے بوجھ اور طوق جو ان (کے سر) پر (اور گلے میں) تھے اتارتے ہیں۔ تو جو لوگ ان پر ایمان لائے اور ان کی رفاقت کی اور انہیں مدد دی۔ اور جو نور ان کے ساتھ نازل ہوا ہے اس کی پیروی کی۔ وہی مراد پانے والے ہیں
+
+[Open on Quran.com](https://quran.com/7/157)
+
+#### 7:158 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ لَآ إِلَـٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِىِّ ٱلْأُمِّىِّ ٱلَّذِى يُؤْمِنُ بِٱللَّهِ وَكَلِمَـٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْأُمِّىِّ` — the unlettered
+
+**English (Sahih International):** Say, [O Muḥammad], "O mankind, indeed I am the Messenger of Allāh to you all, [from Him] to whom belongs the dominion of the heavens and the earth. There is no deity except Him; He gives life and causes death." So believe in Allāh and His Messenger, the unlettered prophet, who believes in Allāh and His words, and follow him that you may be guided.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) کہہ دو کہ لوگو میں تم سب کی طرف خدا کا بھیجا ہوا (یعنی اس کا رسول) ہوں۔ (وہ) جو آسمانوں اور زمین کا بادشاہ ہے۔ اس کے سوا کوئی معبود نہیں وہی زندگانی بخشتا ہے اور وہی موت دیتا ہے۔ تو خدا پر اور اس کے رسول پیغمبر اُمی پر جو خدا پر اور اس کے تمام کلام پر ایمان رکھتے ہیں ایمان لاؤ اور ان کی پیروی کرو تاکہ ہدایت پاؤ
+
+[Open on Quran.com](https://quran.com/7/158)
+
+#### 62:2 · [[062 Al-Jumuah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّـۧنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍ مُّبِينٍ
+
+</div>
+
+**Word in this verse:** `ٱلْأُمِّيِّـۧنَ` — the unlettered
+
+**English (Sahih International):** It is He who has sent among the unlettered [Arabs] a Messenger from themselves reciting to them His verses and purifying them and teaching them the Book [i.e., the Qur’ān] and wisdom [i.e., the sunnah] - although they were before in clear error -
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے ان پڑھوں میں ان ہی میں سے (محمدﷺ) کو پیغمبر (بنا کر) بھیجا جو ان کے سامنے اس کی آیتیں پڑھتے اور ان کو پاک کرتے اور (خدا کی) کتاب اور دانائی سکھاتے ہیں۔ اور اس ے پہلے تو یہ لوگ صریح گمراہی میں تھے
+
+[Open on Quran.com](https://quran.com/62/2)
+

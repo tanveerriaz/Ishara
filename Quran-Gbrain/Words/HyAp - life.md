@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "حَياة"
+slug: "HyAp - life"
+surah_count: 37
+ayah_count: 73
+tags: [word, meaning]
+---
+
+# HyAp - life
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Hyy - life]]
+
+### Meaning
+**life** · Lemma **حَياة**
+
+### Surahs (37)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[009 At-Tawbah]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[020 Taha]]
+- [[023 Al-Muminun]]
+- [[024 An-Nur]]
+- [[025 Al-Furqan]]
+- [[028 Al-Qasas]]
+- [[029 Al-Ankabut]]
+- [[030 Ar-Rum]]
+- [[031 Luqman]]
+- [[033 Al-Ahzab]]
+- [[035 Fatir]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:85 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ أَنتُمْ هَـٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَـٰرِهِمْ تَظَـٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَـٰرَىٰ تُفَـٰدُوهُمْ وَهُوَ مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ ۚ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَـٰبِ وَتَكْفُرُونَ بِبَعْضٍ ۚ فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْحَيَوٰةِ` — the life
+
+**English (Sahih International):** Then, you are those [same ones who are] killing one another and evicting a party of your people from their homes, cooperating against them in sin and aggression. And if they come to you as captives, you ransom them, although their eviction was forbidden to you. So do you believe in part of the Scripture and disbelieve in part? Then what is the recompense for those who do that among you except disgrace in worldly life; and on the Day of Resurrection they will be sent back to the severest of punishment. And Allāh is not unaware of what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر تم وہی ہو کہ اپنوں کو قتل بھی کر دیتے ہو اور اپنے میں سے بعض لوگوں پر گناہ اور ظلم سے چڑھائی کرکے انہیں وطن سے نکال بھی دیتے ہو، اور اگر وہ تمہارے پاس قید ہو کر آئیں تو بدلہ دے کر ان کو چھڑا بھی لیتے ہو، حالانکہ ان کا نکال دینا ہی تم کو حرام تھا۔ (یہ) کیا (بات ہے کہ) تم کتابِ (خدا) کے بعض احکام کو تو مانتے ہو اور بعض سے انکار کئے دیتے ہو، تو جو تم میں سے ایسی حرکت کریں، ان کی سزا اس کے سوا اور کیا ہو سکتی ہے کہ دنیا کی زندگی میں تو رسوائی ہو اور قیامت کے دن سخت سے سخت عذاب میں ڈال دیئے جائیں اور جو کام تم کرتے ہو، خدا ان سے غافل نہیں
+
+[Open on Quran.com](https://quran.com/2/85)
+
+#### 2:86 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْـَٔاخِرَةِ ۖ فَلَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنصَرُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْحَيَوٰةَ` — the life
+
+**English (Sahih International):** Those are the ones who have bought the life of this world [in exchange] for the Hereafter, so the punishment will not be lightened for them, nor will they be aided.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے آخرت کے بدلے دنیا کی زندگی خریدی۔ سو نہ تو ان سے عذاب ہی ہلکا کیا جائے گا اور نہ ان کو (اور طرح کی) مدد ملے گی
+
+[Open on Quran.com](https://quran.com/2/86)
+
+#### 2:96 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَتَجِدَنَّهُمْ أَحْرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٍ وَمِنَ ٱلَّذِينَ أَشْرَكُوا۟ ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِۦ مِنَ ٱلْعَذَابِ أَن يُعَمَّرَ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `حَيَوٰةٍۢ` — life
+
+**English (Sahih International):** And you will surely find them the most greedy of people for life - [even] more than those who associate others with Allāh. One of them wishes that he could be granted life a thousand years, but it would not remove him in the least from the [coming] punishment that he should be granted life. And Allāh is Seeing of what they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ ان کو تم اور لوگوں سے زندگی کے کہیں حریص دیکھو گے، یہاں تک کہ مشرکوں سے بھی۔ ان میں سے ہر ایک یہی خواہش کرتا ہے کہ کاش وہ ہزار برس جیتا رہے، مگر اتنی لمبی عمر اس کو مل بھی جائے تو اسے عذاب سے تو نہیں چھڑا سکتی۔ اور جو کام یہ کرتے ہیں، خدا ان کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/2/96)
+
+#### 2:179 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَكُمْ فِى ٱلْقِصَاصِ حَيَوٰةٌ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ لَعَلَّكُمْ تَتَّقُونَ
+
+</div>
+
+**Word in this verse:** `حَيَوٰةٌۭ` — (is) life
+
+**English (Sahih International):** And there is for you in legal retribution [saving of] life, O you [people] of understanding, that you may become righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اے اہل عقل (حکم) قصاص میں (تمہاری) زندگانی ہے کہ تم (قتل و خونریزی سے) بچو
+
+[Open on Quran.com](https://quran.com/2/179)
+
+#### 2:204 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنَ ٱلنَّاسِ مَن يُعْجِبُكَ قَوْلُهُۥ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيُشْهِدُ ٱللَّهَ عَلَىٰ مَا فِى قَلْبِهِۦ وَهُوَ أَلَدُّ ٱلْخِصَامِ
+
+</div>
+
+**Word in this verse:** `ٱلْحَيَوٰةِ` — the life
+
+**English (Sahih International):** And of the people is he whose speech pleases you in worldly life, and he calls Allāh to witness as to what is in his heart, yet he is the fiercest of opponents.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کوئی شخص تو ایسا ہے جس کی گفتگو دنیا کی زندگی میں تم کو دلکش معلوم ہوتی ہے اور وہ اپنی مانی الضمیر پر خدا کو گواہ بناتا ہے حالانکہ وہ سخت جھگڑالو ہے
+
+[Open on Quran.com](https://quran.com/2/204)
+
+#### 2:212 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+زُيِّنَ لِلَّذِينَ كَفَرُوا۟ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَيَسْخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ ۘ وَٱلَّذِينَ ٱتَّقَوْا۟ فَوْقَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
+
+</div>
+
+**Word in this verse:** `ٱلْحَيَوٰةُ` — (is) the life
+
+**English (Sahih International):** Beautified for those who disbelieve is the life of this world, and they ridicule those who believe. But those who fear Allāh are above them on the Day of Resurrection. And Allāh gives provision to whom He wills without account.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کافر ہیں ان کے لئے دنیا کی زندگی خوشنما کر دی گئی ہے اور وہ مومنوں سے تمسخر کرتے ہیں لیکن جو پرہیز گار ہیں وہ قیامت کے دن ان پر غالب ہوں گے اور خدا جس کو چاہتا ہے بےشمار رزق دیتا ہے
+
+[Open on Quran.com](https://quran.com/2/212)
+
+#### 3:14 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلْبَنِينَ وَٱلْقَنَـٰطِيرِ ٱلْمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلْفِضَّةِ وَٱلْخَيْلِ ٱلْمُسَوَّمَةِ وَٱلْأَنْعَـٰمِ وَٱلْحَرْثِ ۗ ذَٰلِكَ مَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلْمَـَٔابِ
+
+</div>
+
+**Word in this verse:** `ٱلْحَيَوٰةِ` — (of) life
+
+**English (Sahih International):** Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allāh has with Him the best return [i.e., Paradise].
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
+
+[Open on Quran.com](https://quran.com/3/14)
+
+#### 3:117 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَثَلُ مَا يُنفِقُونَ فِى هَـٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ رِيحٍ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوٓا۟ أَنفُسَهُمْ فَأَهْلَكَتْهُ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِنْ أَنفُسَهُمْ يَظْلِمُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْحَيَوٰةِ` — [the] life
+
+**English (Sahih International):** The example of what they spend in this worldly life is like that of a wind containing frost which strikes the harvest of a people who have wronged themselves [i.e., sinned] and destroys it. And Allāh has not wronged them, but they wrong themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ جو مال دنیا کی زندگی میں خرچ کرتے ہیں اس کی مثال ہوا کی سی ہے جس میں سخت سردی ہو اور وہ ایسے لوگوں کی کھیتی پر جو اپنے آپ پر ظلم کرتے تھے چلے اور اسے تباہ کر دے اور خدا نے ان پر کچھ ظلم نہیں کیا بلکہ یہ خود اپنے اوپر ظلم کر رہے ہیں
+
+[Open on Quran.com](https://quran.com/3/117)
+
+#### 3:185 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ ۗ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۖ فَمَن زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ ۗ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ
+
+</div>
+
+**Word in this verse:** `ٱلْحَيَوٰةُ` — (is) the life
+
+**English (Sahih International):** Every soul will taste death, and you will only be given your [full] compensation on the Day of Resurrection. So he who is drawn away from the Fire and admitted to Paradise has attained [his desire]. And what is the life of this world except the enjoyment of delusion.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہر متنفس کو موت کا مزا چکھنا ہے اور تم کو قیامت کے دن تمہارے اعمال کا پورا پورا بدلا دیا جائے گا۔ تو جو شخص آتش جہنم سے دور رکھا گیا اور بہشت میں داخل کیا گیا وہ مراد کو پہنچ گیا اور دنیا کی زندگی تو دھوکے کا سامان ہے
+
+[Open on Quran.com](https://quran.com/3/185)
+
+#### 4:74 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ فَلْيُقَـٰتِلْ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشْرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا بِٱلْـَٔاخِرَةِ ۚ وَمَن يُقَـٰتِلْ فِى سَبِيلِ ٱللَّهِ فَيُقْتَلْ أَوْ يَغْلِبْ فَسَوْفَ نُؤْتِيهِ أَجْرًا عَظِيمًا
+
+</div>
+
+**Word in this verse:** `ٱلْحَيَوٰةَ` — the life
+
+**English (Sahih International):** So let those fight in the cause of Allāh who sell the life of this world for the Hereafter. And he who fights in the cause of Allāh and is killed or achieves victory - We will bestow upon him a great reward.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جو لوگ آخرت (کو خریدتے اور اس) کے بدلے دنیا کی زندگی کو بیچنا چاہتے ہیں اُن کو چاہیئے کہ خدا کی راہ میں جنگ کریں اور جو شخص خدا کی راہ میں جنگ کرے اور شہید ہوجائے یا غلبہ پائے ہم عنقریب اس کو بڑا ثواب دیں گے
+
+[Open on Quran.com](https://quran.com/4/74)
+
+_…and **63** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

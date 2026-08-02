@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "شَدِيد"
+slug: "$dyd - severe"
+surah_count: 35
+ayah_count: 56
+tags: [word, meaning]
+---
+
+# $dyd - severe
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[$dd - severe]]
+
+### Meaning
+**severe** · Lemma **شَدِيد**
+
+### Surahs (35)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[012 Yusuf]]
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[022 Al-Hajj]]
+- [[023 Al-Muminun]]
+- [[027 An-Naml]]
+- [[033 Al-Ahzab]]
+- [[034 Saba]]
+- [[035 Fatir]]
+- [[038 Sad]]
+- [[040 Ghafir]]
+- [[041 Fussilat]]
+- [[042 Ash-Shuraa]]
+- [[048 Al-Fath]]
+- [[050 Qaf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:165 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ ۖ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّا لِّلَّهِ ۗ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ
+
+</div>
+
+**Word in this verse:** `شَدِيدُ` — (is) severe
+
+**English (Sahih International):** And [yet], among the people are those who take other than Allāh as equals [to Him]. They love them as they [should] love Allāh. But those who believe are stronger in love for Allāh. And if only they who have wronged would consider [that] when they see the punishment, [they will be certain] that all power belongs to Allāh and that Allāh is severe in punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض لوگ ایسے ہیں جو غیر خدا کو شریک (خدا) بناتے اور ان سے خدا کی سی محبت کرتے ہیں۔ لیکن جو ایمان والے ہیں وہ تو خدا ہی کے سب سے زیادہ دوستدار ہیں۔ اور اے کاش ظالم لوگ جو بات عذاب کے وقت دیکھیں گے اب دیکھ لیتے کہ سب طرح کی طاقت خدا ہی کو ہے۔ اور یہ کہ خدا سخت عذاب کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/2/165)
+
+#### 2:196 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ ۚ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۖ وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ ۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ ۚ فَإِذَآ أَمِنتُمْ فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ ۚ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَـٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ ۗ تِلْكَ عَشَرَةٌ كَامِلَةٌ ۗ ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+
+</div>
+
+**Word in this verse:** `شَدِيدُ` — (is) severe
+
+**English (Sahih International):** And complete the ḥajj and ʿumrah for Allāh. But if you are prevented, then [offer] what can be obtained with ease of sacrificial animals. And do not shave your heads until the sacrificial animal has reached its place of slaughter. And whoever among you is ill or has an ailment of the head [making shaving necessary must offer] a ransom of fasting [three days] or charity or sacrifice. And when you are secure, then whoever performs ʿumrah [during the ḥajj months] followed by ḥajj [offers] what can be obtained with ease of sacrificial animals. And whoever cannot find [or afford such an animal] - then a fast of three days during ḥajj and of seven when you have returned [home]. Those are ten complete [days]. This is for those whose family is not in the area of al-Masjid al-Ḥarām. And fear Allāh and know that Allāh is severe in penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی خوشنودی) کے لئے حج اور عمرے کو پورا کرو۔ اور اگر (راستےمیں) روک لئے جاؤ تو جیسی قربانی میسر ہو (کردو) اور جب تک قربانی اپنے مقام پر نہ پہنچ جائے سر نہ منڈاؤ۔ اور اگر کوئی تم میں بیمار ہو یا اس کے سر میں کسی طرح کی تکلیف ہو تو (اگر وہ سر منڈالے تو) اس کے بدلے روزے رکھے یا صدقہ دے یا قربانی کرے پھر جب (تکلیف دور ہو کر) تم مطمئن ہوجاؤ تو جو (تم میں) حج کے وقت تک عمرے سے فائدہ اٹھانا چاہے وہ جیسی قربانی میسر ہو کرے۔ اور جس کو (قربانی) نہ ملے وہ تین روزے ایام حج میں رکھے اور سات جب واپس ہو۔ یہ پورے دس ہوئے۔ یہ حکم اس شخص کے لئے ہے جس کے اہل وعیال مکے میں نہ رہتے ہوں اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا سخت عذاب دینے والا ہے
+
+[Open on Quran.com](https://quran.com/2/196)
+
+#### 2:211 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+سَلْ بَنِىٓ إِسْرَٰٓءِيلَ كَمْ ءَاتَيْنَـٰهُم مِّنْ ءَايَةٍۭ بَيِّنَةٍ ۗ وَمَن يُبَدِّلْ نِعْمَةَ ٱللَّهِ مِنۢ بَعْدِ مَا جَآءَتْهُ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+
+</div>
+
+**Word in this verse:** `شَدِيدُ` — (is) severe
+
+**English (Sahih International):** Ask the Children of Israel how many a sign of evidence We have given them. And whoever exchanges the favor of Allāh [for disbelief] after it has come to him - then indeed, Allāh is severe in penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمد) بنی اسرائیل سے پوچھو کہ ہم نے ان کو کتنی کھلی نشانیاں دیں۔ اور جو شخص خدا کی نعمت کو اپنے پاس آنے کے بعد بدل دے تو خدا سخت عذاب کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/2/211)
+
+#### 3:4 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ ٱلْفُرْقَانَ ۗ إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ ۗ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ
+
+</div>
+
+**Word in this verse:** `شَدِيدٌۭ ۗ` — severe
+
+**English (Sahih International):** Before, as guidance for the people. And He revealed the Criterion [i.e., the Qur’ān]. Indeed, those who disbelieve in the verses of Allāh will have a severe punishment, and Allāh is Exalted in Might, the Owner of Retribution.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) لوگوں کی ہدایت کے لیے پہلے (تورات اور انجیل اتاری) اور (پھر قرآن جو حق اور باطل کو) الگ الگ کر دینے والا (ہے) نازل کیا جو لوگ خدا کی آیتوں کا انکار کرتے ہیں ان کو سخت عذاب ہوگا اور خدا زبردست (اور) بدلہ لینے والا ہے
+
+[Open on Quran.com](https://quran.com/3/4)
+
+#### 3:11 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَّبُوا۟ بِـَٔايَـٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ ۗ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
+
+</div>
+
+**Word in this verse:** `شَدِيدُ` — (is) severe
+
+**English (Sahih International):** [Theirs is] like the custom of the people of Pharaoh and those before them. They denied Our signs, so Allāh seized them for their sins. And Allāh is severe in penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کا حال بھی فرعونیوں اور ان سے پہلے لوگوں کا سا ہوگا جنہوں نے ہماری آیتوں کی تکذیب کی تھی تو خدا نے ان کو ان کے گناہوں کے سبب (عذاب میں) پکڑ لیا تھا اور خدا سخت عذاب کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/3/11)
+
+#### 3:56 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَأُعَذِّبُهُمْ عَذَابًا شَدِيدًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمَا لَهُم مِّن نَّـٰصِرِينَ
+
+</div>
+
+**Word in this verse:** `شَدِيدًۭا` — severe
+
+**English (Sahih International):** And as for those who disbelieved, I will punish them with a severe punishment in this world and the Hereafter, and they will have no helpers."
+
+**Urdu (Fatah Muhammad Jalandhari):** یعنی جو کافر ہوئے ان کو دنیا اور آخرت (دونوں) میں سخت عذاب دوں گا اور ان کا کوئی مددگار نہ ہوگا
+
+[Open on Quran.com](https://quran.com/3/56)
+
+#### 5:2 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَـٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَـٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن رَّبِّهِمْ وَرِضْوَٰنًا ۚ وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ ۚ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ ۘ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+
+</div>
+
+**Word in this verse:** `شَدِيدُ` — (is) severe
+
+**English (Sahih International):** O you who have believed, do not violate the rites of Allāh or [the sanctity of] the sacred month or [neglect the marking of] the sacrificial animals and garlanding [them] or [violate the safety of] those coming to the Sacred House seeking bounty from their Lord and [His] approval. But when you come out of iḥrām, then [you may] hunt. And do not let the hatred of a people for having obstructed you from al-Masjid al-Ḥarām lead you to transgress. And cooperate in righteousness and piety, but do not cooperate in sin and aggression. And fear Allāh; indeed, Allāh is severe in penalty.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کے نام کی چیزوں کی بےحرمتی نہ کرنا اور نہ ادب کے مہینے کی اور نہ قربانی کے جانوروں کی اور نہ ان جانوروں کی (جو خدا کی نذر کر دیئے گئے ہوں اور) جن کے گلوں میں پٹے بندھے ہوں اور نہ ان لوگوں کی جو عزت کے گھر (یعنی بیت الله) کو جا رہے ہوں (اور) اپنے پروردگار کے فضل اور اس کی خوشنودی کے طلبگار ہوں اور جب احرام اتار دو تو (پھر اختیار ہے کہ) شکار کرو اور لوگوں کی دشمنی اس وجہ سے کہ انہوں نے تم کو عزت والی مسجد سے روکا تھا تمہیں اس بات پر آمادہ نہ کرے کہ تم ان پر زیادتی کرنے لگو اور (دیکھو) نیکی اور پرہیزگاری کے کاموں میں ایک دوسرے کی مدد کیا کرو اور گناہ اور ظلم کی باتوں میں مدد نہ کیا کرو اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا کا عذاب سخت ہے
+
+[Open on Quran.com](https://quran.com/5/2)
+
+#### 5:98 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ وَأَنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `شَدِيدُ` — (is) severe
+
+**English (Sahih International):** Know that Allāh is severe in penalty and that Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** جان رکھو کہ خدا سخت غداب دینے والا ہے اور یہ کہ خدا بخشنے والا مہربان بھی ہے
+
+[Open on Quran.com](https://quran.com/5/98)
+
+#### 6:124 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا جَآءَتْهُمْ ءَايَةٌ قَالُوا۟ لَن نُّؤْمِنَ حَتَّىٰ نُؤْتَىٰ مِثْلَ مَآ أُوتِىَ رُسُلُ ٱللَّهِ ۘ ٱللَّهُ أَعْلَمُ حَيْثُ يَجْعَلُ رِسَالَتَهُۥ ۗ سَيُصِيبُ ٱلَّذِينَ أَجْرَمُوا۟ صَغَارٌ عِندَ ٱللَّهِ وَعَذَابٌ شَدِيدٌۢ بِمَا كَانُوا۟ يَمْكُرُونَ
+
+</div>
+
+**Word in this verse:** `شَدِيدٌۢ` — severe
+
+**English (Sahih International):** And when a sign comes to them, they say, "Never will we believe until we are given like that which was given to the messengers of Allāh." Allāh is most knowing of where [i.e., with whom] He places His message. There will afflict those who committed crimes debasement before Allāh and severe punishment for what they used to conspire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کے پاس کوئی آیت آتی ہے تو کہتے ہیں کہ جس طرح کی رسالت خدا کے پیغمبروں کو ملی ہے جب تک اسی طرح کی رسالت ہم کو نہ ملے ہم ہرگز ایمان نہیں لائیں گے اس کو خدا ہی خوب جانتا ہے کہ (رسالت کا کون سا محل ہے اور) وہ اپنی پیغمبری کسے عنایت فرمائے جو لوگ جرم کرتے ہیں ان کو خدا کے ہاں ذلّت اور عذابِ شدید ہوگا اس لیے کہ مکّاریاں کرتے تھے
+
+[Open on Quran.com](https://quran.com/6/124)
+
+#### 7:164 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قَالَتْ أُمَّةٌ مِّنْهُمْ لِمَ تَعِظُونَ قَوْمًا ۙ ٱللَّهُ مُهْلِكُهُمْ أَوْ مُعَذِّبُهُمْ عَذَابًا شَدِيدًا ۖ قَالُوا۟ مَعْذِرَةً إِلَىٰ رَبِّكُمْ وَلَعَلَّهُمْ يَتَّقُونَ
+
+</div>
+
+**Word in this verse:** `شَدِيدًۭا ۖ` — severe
+
+**English (Sahih International):** And when a community among them said, "Why do you advise [or warn] a people whom Allāh is [about] to destroy or to punish with a severe punishment?" they [the advisors] said, "To be absolved before your Lord and perhaps they may fear Him."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان میں سے ایک جماعت نے کہا کہ تم ایسے لوگوں کو کیوں نصیحت کرتے ہو جن کو الله ہلاک کرنے والا یا سخت عذاب دینے والا ہے تو انہوں نے کہا اس لیے کہ تمہارے پروردگار کے سامنے معذرت کرسکیں اور عجب نہیں کہ وہ پرہیزگاری اختیار کریں
+
+[Open on Quran.com](https://quran.com/7/164)
+
+_…and **46** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

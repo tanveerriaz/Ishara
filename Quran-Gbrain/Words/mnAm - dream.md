@@ -1,0 +1,95 @@
+---
+type: word
+lemma: "مَنام"
+slug: "mnAm - dream"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# mnAm - dream
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[nwm - sleep]]
+
+### Meaning
+**dream** · Lemma **مَنام**
+
+### Surahs (4)
+- [[008 Al-Anfal]]
+- [[030 Ar-Rum]]
+- [[037 As-Saffat]]
+- [[039 Az-Zumar]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 8:43 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ يُرِيكَهُمُ ٱللَّهُ فِى مَنَامِكَ قَلِيلًا ۖ وَلَوْ أَرَىٰكَهُمْ كَثِيرًا لَّفَشِلْتُمْ وَلَتَنَـٰزَعْتُمْ فِى ٱلْأَمْرِ وَلَـٰكِنَّ ٱللَّهَ سَلَّمَ ۗ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+
+</div>
+
+**Word in this verse:** `مَنَامِكَ` — your dream
+
+**English (Sahih International):** [Remember, O Muḥammad], when Allāh showed them to you in your dream as few; and if He had shown them to you as many, you [believers] would have lost courage and would have disputed in the matter [of whether to fight], but Allāh saved [you from that]. Indeed, He is Knowing of that within the breasts.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس وقت خدا نے تمہیں خواب میں کافروں کو تھوڑی تعداد میں دکھایا۔ اور اگر بہت کر کے دکھاتا تو تم لوگ جی چھوڑ دیتے اور (جو) کام (درپیش تھا اس) میں جھگڑنے لگتے لیکن خدا نے (تمہیں اس سے) بچا لیا۔ بےشک وہ سینوں کی باتوں تک سے واقف ہے
+
+[Open on Quran.com](https://quran.com/8/43)
+
+#### 30:23 · [[030 Ar-Rum]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنْ ءَايَـٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَسْمَعُونَ
+
+</div>
+
+**Word in this verse:** `مَنَامُكُم` — (is) your sleep
+
+**English (Sahih International):** And of His signs is your sleep by night and day and your seeking of His bounty. Indeed in that are signs for a people who listen.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی کے نشانات (اور تصرفات) میں سے ہے تمہارا رات اور دن میں سونا اور اُس کے فضل کا تلاش کرنا۔ جو لوگ سنتے ہیں اُن کے لیے ان باتوں میں (بہت سی) نشانیاں ہیں
+
+[Open on Quran.com](https://quran.com/30/23)
+
+#### 37:102 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَـٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ فَٱنظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَـٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْمَنَامِ` — the dream
+
+**English (Sahih International):** And when he reached with him [the age of] exertion, he said, "O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think." He said, "O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ ان کے ساتھ دوڑنے (کی عمر) کو پہنچا تو ابراہیم نے کہا کہ بیٹا میں خواب میں دیکھتا ہوں کہ (گویا) تم کو ذبح کر رہا ہوں تو تم سوچو کہ تمہارا کیا خیال ہے؟ انہوں نے کہا کہ ابا جو آپ کو حکم ہوا ہے وہی کیجیئے خدا نے چاہا تو آپ مجھے صابروں میں پایئے گا
+
+[Open on Quran.com](https://quran.com/37/102)
+
+#### 39:42 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `مَنَامِهَا ۖ` — their sleep
+
+**English (Sahih International):** Allāh takes the souls at the time of their death, and those that do not die [He takes] during their sleep. Then He keeps those for which He has decreed death and releases the others for a specified term. Indeed in that are signs for a people who give thought.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا لوگوں کے مرنے کے وقت ان کی روحیں قبض کرلیتا ہے اور جو مرے نہیں (ان کی روحیں) سوتے میں (قبض کرلیتا ہے) پھر جن پر موت کا حکم کرچکتا ہے ان کو روک رکھتا ہے اور باقی روحوں کو ایک وقت مقرر تک کے لئے چھوڑ دیتا ہے۔ جو لوگ فکر کرتے ہیں ان کے لئے اس میں نشانیاں ہیں
+
+[Open on Quran.com](https://quran.com/39/42)
+

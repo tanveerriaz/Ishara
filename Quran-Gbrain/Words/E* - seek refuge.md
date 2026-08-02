@@ -1,0 +1,196 @@
+---
+type: word
+lemma: "عُذْ"
+slug: "E* - seek refuge"
+surah_count: 9
+ayah_count: 10
+tags: [word, meaning]
+---
+
+# E* - seek refuge
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Ew* - ewdh]]
+
+### Meaning
+**seek refuge** · Lemma **عُذْ**
+
+### Surahs (9)
+- [[002 Al-Baqarah]]
+- [[011 Hud]]
+- [[019 Maryam]]
+- [[023 Al-Muminun]]
+- [[040 Ghafir]]
+- [[044 Ad-Dukhan]]
+- [[072 Al-Jinn]]
+- [[113 Al-Falaq]]
+- [[114 An-Nas]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:67 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦٓ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا۟ بَقَرَةً ۖ قَالُوٓا۟ أَتَتَّخِذُنَا هُزُوًا ۖ قَالَ أَعُوذُ بِٱللَّهِ أَنْ أَكُونَ مِنَ ٱلْجَـٰهِلِينَ
+
+</div>
+
+**Word in this verse:** `أَعُوذُ` — I seek refuge
+
+**English (Sahih International):** And [recall] when Moses said to his people, "Indeed, Allāh commands you to slaughter a cow." They said, "Do you take us in ridicule?" He said, "I seek refuge in Allāh from being among the ignorant."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لوگوں سے کہا کہ خدا تم کو حکم دیتا ہے کہ ایک بیل ذبح کرو۔ وہ بولے، کیا تم ہم سے ہنسی کرتے ہو۔ (موسیٰ نے) کہا کہ میں الله کی پناہ مانگتا ہوں کہ نادان بنوں
+
+[Open on Quran.com](https://quran.com/2/67)
+
+#### 11:47 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ رَبِّ إِنِّىٓ أَعُوذُ بِكَ أَنْ أَسْـَٔلَكَ مَا لَيْسَ لِى بِهِۦ عِلْمٌ ۖ وَإِلَّا تَغْفِرْ لِى وَتَرْحَمْنِىٓ أَكُن مِّنَ ٱلْخَـٰسِرِينَ
+
+</div>
+
+**Word in this verse:** `أَعُوذُ` — seek refuge
+
+**English (Sahih International):** [Noah] said, "My Lord, I seek refuge in You from asking that of which I have no knowledge. And unless You forgive me and have mercy upon me, I will be among the losers."
+
+**Urdu (Fatah Muhammad Jalandhari):** نوح نے کہا پروردگار میں تجھ سے پناہ مانگتا ہوں کہ ایسی چیز کا تجھ سے سوال کروں جس کی حقیقت مجھے معلوم نہیں۔ اور اگر تو مجھے نہیں بخشے گا اور مجھ پر رحم نہیں کرے گا تو میں تباہ ہوجاؤں گا
+
+[Open on Quran.com](https://quran.com/11/47)
+
+#### 19:18 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَتْ إِنِّىٓ أَعُوذُ بِٱلرَّحْمَـٰنِ مِنكَ إِن كُنتَ تَقِيًّا
+
+</div>
+
+**Word in this verse:** `أَعُوذُ` — [I] seek refuge
+
+**English (Sahih International):** She said, "Indeed, I seek refuge in the Most Merciful from you, [so leave me], if you should be fearing of Allāh."
+
+**Urdu (Fatah Muhammad Jalandhari):** مریم بولیں کہ اگر تم پرہیزگار ہو تو میں تم سے خدا کی پناہ مانگتی ہوں
+
+[Open on Quran.com](https://quran.com/19/18)
+
+#### 23:97 · [[023 Al-Muminun]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ ٱلشَّيَـٰطِينِ
+
+</div>
+
+**Word in this verse:** `أَعُوذُ` — I seek refuge
+
+**English (Sahih International):** And say, "My Lord, I seek refuge in You from the incitements of the devils,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہو کہ اے پروردگار! میں شیطانوں کے وسوسوں سے تیری پناہ مانگتا ہو
+
+[Open on Quran.com](https://quran.com/23/97)
+
+#### 23:98 · [[023 Al-Muminun]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ
+
+</div>
+
+**Word in this verse:** `وَأَعُوذُ` — And I seek refuge
+
+**English (Sahih International):** And I seek refuge in You, my Lord, lest they be present with me."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اے پروردگار! اس سے بھی تیری پناہ مانگتا ہوں کہ وہ میرے پاس آموجود ہوں
+
+[Open on Quran.com](https://quran.com/23/98)
+
+#### 40:27 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ مُوسَىٰٓ إِنِّى عُذْتُ بِرَبِّى وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٍ لَّا يُؤْمِنُ بِيَوْمِ ٱلْحِسَابِ
+
+</div>
+
+**Word in this verse:** `عُذْتُ` — [I] seek refuge
+
+**English (Sahih International):** But Moses said, "Indeed, I have sought refuge in my Lord and your Lord from every arrogant one who does not believe in the Day of Account."
+
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا کہ میں ہر متکبر سے جو حساب کے دن (یعنی قیامت) پر ایمان نہیں لاتا۔ اپنے اور تمہارے پروردگار کی پناہ لے چکا ہوں
+
+[Open on Quran.com](https://quran.com/40/27)
+
+#### 44:20 · [[044 Ad-Dukhan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ
+
+</div>
+
+**Word in this verse:** `عُذْتُ` — [I] seek refuge
+
+**English (Sahih International):** And indeed, I have sought refuge in my Lord and your Lord, lest you stone me.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس (بات) سے کہ تم مجھے سنگسار کرو اپنے اور تمہارے پروردگار کی پناہ مانگتا ہوں
+
+[Open on Quran.com](https://quran.com/44/20)
+
+#### 72:6 · [[072 Al-Jinn]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنَّهُۥ كَانَ رِجَالٌ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًا
+
+</div>
+
+**Word in this verse:** `يَعُوذُونَ` — who sought refuge
+
+**English (Sahih International):** And there were men from mankind who sought refuge in men from the jinn, so they [only] increased them in burden [i.e., sin].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ بعض بنی آدم بعض جنات کی پناہ پکڑا کرتے تھے (اس سے) ان کی سرکشی اور بڑھ گئی تھی
+
+[Open on Quran.com](https://quran.com/72/6)
+
+#### 113:1 · [[113 Al-Falaq]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ
+
+</div>
+
+**Word in this verse:** `أَعُوذُ` — I seek refuge
+
+**English (Sahih International):** Say, "I seek refuge in the Lord of daybreak
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ میں صبح کے پروردگار کی پناہ مانگتا ہوں
+
+[Open on Quran.com](https://quran.com/113/1)
+
+#### 114:1 · [[114 An-Nas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ
+
+</div>
+
+**Word in this verse:** `أَعُوذُ` — I seek refuge
+
+**English (Sahih International):** Say, "I seek refuge in the Lord of mankind,
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ میں لوگوں کے پروردگار کی پناہ مانگتا ہوں
+
+[Open on Quran.com](https://quran.com/114/1)
+

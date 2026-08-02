@@ -1,0 +1,111 @@
+---
+type: word
+lemma: "سَعَة"
+slug: "sEp - abundance"
+surah_count: 4
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# sEp - abundance
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[wsE - all-encompassing]]
+
+### Meaning
+**abundance** · Lemma **سَعَة**
+
+### Surahs (4)
+- [[002 Al-Baqarah]]
+- [[004 An-Nisa]]
+- [[024 An-Nur]]
+- [[065 At-Talaq]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:247 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا ۚ قَالُوٓا۟ أَنَّىٰ يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ ٱلْمَالِ ۚ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةً فِى ٱلْعِلْمِ وَٱلْجِسْمِ ۖ وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `سَعَةًۭ` — abundance
+
+**English (Sahih International):** And their prophet said to them, "Indeed, Allāh has sent to you Saul as a king." They said, "How can he have kingship over us while we are more worthy of kingship than him and he has not been given any measure of wealth?" He said, "Indeed, Allāh has chosen him over you and has increased him abundantly in knowledge and stature. And Allāh gives His sovereignty to whom He wills. And Allāh is all-Encompassing [in favor] and Knowing."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبر نے ان سے (یہ بھی) کہا کہ خدا نے تم پر طالوت کو بادشاہ مقرر فرمایا ہے۔ وہ بولے کہ اسے ہم پر بادشاہی کا حق کیونکر ہوسکتا ہےبادشاہی کے مستحق تو ہم ہیں اور اس کے پاس تو بہت سی دولت بھی نہیں۔ پیغمبر نے کہا کہ خدا نےاس کو تم پر فضیلت دی ہے اور (بادشاہی کے لئے) منتخب فرمایا ہے اس نے اسے علم بھی بہت سا بخشا ہے اور تن و توش بھی (بڑا عطا کیا ہے) اور خدا (کو اختیار ہے) جسے چاہے بادشاہی بخشے۔ وہ بڑا کشائش والا اور دانا ہے
+
+[Open on Quran.com](https://quran.com/2/247)
+
+#### 4:100 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً ۚ وَمَن يَخْرُجْ مِنۢ بَيْتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدْرِكْهُ ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
+
+</div>
+
+**Word in this verse:** `وَسَعَةًۭ ۚ` — and abundance
+
+**English (Sahih International):** And whoever emigrates for the cause of Allāh will find on the earth many [alternative] locations and abundance. And whoever leaves his home as an emigrant to Allāh and His Messenger and then death overtakes him - his reward has already become incumbent upon Allāh. And Allāh is ever Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص خدا کی راہ میں گھر بار چھوڑ جائے وہ زمین میں بہت سی جگہ اور کشائش پائے گا اور جو شخص خدا اور رسول کی طرف ہجرت کرکے گھر سے نکل جائے پھر اس کو موت آپکڑے تو اس کا ثواب خدا کے ذمے ہوچکا اور خدا بخشنے والا اور مہربان ہے
+
+[Open on Quran.com](https://quran.com/4/100)
+
+#### 4:130 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِن يَتَفَرَّقَا يُغْنِ ٱللَّهُ كُلًّا مِّن سَعَتِهِۦ ۚ وَكَانَ ٱللَّهُ وَٰسِعًا حَكِيمًا
+
+</div>
+
+**Word in this verse:** `سَعَتِهِۦ ۚ` — His abundance
+
+**English (Sahih International):** But if they separate [by divorce], Allāh will enrich each [of them] from His abundance. And ever is Allāh Encompassing and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر میاں بیوی (میں موافقت نہ ہوسکے اور) ایک دوسرے سے جدا ہوجائیں تو خدا ہر ایک کو اپنی دولت سے غنی کردے گا اور خدا بڑی کشائش والا اور حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/4/130)
+
+#### 24:22 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا يَأْتَلِ أُو۟لُوا۟ ٱلْفَضْلِ مِنكُمْ وَٱلسَّعَةِ أَن يُؤْتُوٓا۟ أُو۟لِى ٱلْقُرْبَىٰ وَٱلْمَسَـٰكِينَ وَٱلْمُهَـٰجِرِينَ فِى سَبِيلِ ٱللَّهِ ۖ وَلْيَعْفُوا۟ وَلْيَصْفَحُوٓا۟ ۗ أَلَا تُحِبُّونَ أَن يَغْفِرَ ٱللَّهُ لَكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `وَٱلسَّعَةِ` — and the amplitude of means
+
+**English (Sahih International):** And let not those of virtue among you and wealth swear not to give [aid] to their relatives and the needy and the emigrants for the cause of Allāh, and let them pardon and overlook. Would you not like that Allāh should forgive you? And Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم میں صاحب فضل (اور صاحب) وسعت ہیں، وہ اس بات کی قسم نہ کھائیں کہ رشتہ داروں اور محتاجوں اور وطن چھوڑ جانے والوں کو کچھ خرچ پات نہیں دیں گے۔ ان کو چاہیئے کہ معاف کردیں اور درگزر کریں۔ کیا تم پسند نہیں کرتے کہ خدا تم کو بخش دے؟ اور خدا تو بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/24/22)
+
+#### 65:7 · [[065 At-Talaq]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا
+
+</div>
+
+**Word in this verse:** `سَعَةٍۢ` — (of) ample means
+
+**English (Sahih International):** Let a man of wealth spend from his wealth, and he whose provision is restricted - let him spend from what Allāh has given him. Allāh does not charge a soul except [according to] what He has given it. Allāh will bring about, after hardship, ease [i.e., relief].
+
+**Urdu (Fatah Muhammad Jalandhari):** صاحب وسعت کو اپنی وسعت کے مطابق خرچ کرنا چاہیئے۔ اور جس کے رزق میں تنگی ہو وہ جتنا خدا نے اس کو دیا ہے اس کے موافق خرچ کرے۔ خدا کسی کو تکلیف نہیں دیتا مگر اسی کے مطابق جو اس کو دیا ہے۔ اور خدا عنقریب تنگی کے بعد کشائش بخشے گا
+
+[Open on Quran.com](https://quran.com/65/7)
+

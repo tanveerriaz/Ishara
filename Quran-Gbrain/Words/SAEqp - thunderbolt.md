@@ -1,0 +1,144 @@
+---
+type: word
+lemma: "صاعِقَة"
+slug: "SAEqp - thunderbolt"
+surah_count: 5
+ayah_count: 7
+tags: [word, meaning]
+---
+
+# SAEqp - thunderbolt
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[SEq - loud]]
+
+### Meaning
+**thunderbolt** · Lemma **صاعِقَة**
+
+### Surahs (5)
+- [[002 Al-Baqarah]]
+- [[004 An-Nisa]]
+- [[013 Ar-Rad]]
+- [[041 Fussilat]]
+- [[051 Adh-Dhariyat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:19 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوْ كَصَيِّبٍ مِّنَ ٱلسَّمَآءِ فِيهِ ظُلُمَـٰتٌ وَرَعْدٌ وَبَرْقٌ يَجْعَلُونَ أَصَـٰبِعَهُمْ فِىٓ ءَاذَانِهِم مِّنَ ٱلصَّوَٰعِقِ حَذَرَ ٱلْمَوْتِ ۚ وَٱللَّهُ مُحِيطٌۢ بِٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `ٱلصَّوَٰعِقِ` — the thunderclaps
+
+**English (Sahih International):** Or [it is] like a rainstorm from the sky within which is darkness, thunder and lightning. They put their fingers in their ears against the thunderclaps in dread of death. But Allāh is encompassing of the disbelievers.
+
+**Urdu (Fatah Muhammad Jalandhari):** یا ان کی مثال مینہ کی سی ہے کہ آسمان سے (برس رہا ہو اور) اس میں اندھیرے پر اندھیرا (چھا رہا) ہو اور (بادل) گرج (رہا) ہو اور بجلی (کوند رہی) ہو تو یہ کڑک سے (ڈر کر) موت کے خوف سے کانوں میں انگلیاں دے لیں اور الله کافروں کو (ہر طرف سے) گھیرے ہوئے ہے
+
+[Open on Quran.com](https://quran.com/2/19)
+
+#### 2:55 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قُلْتُمْ يَـٰمُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهْرَةً فَأَخَذَتْكُمُ ٱلصَّـٰعِقَةُ وَأَنتُمْ تَنظُرُونَ
+
+</div>
+
+**Word in this verse:** `ٱلصَّـٰعِقَةُ` — the thunderbolt
+
+**English (Sahih International):** And [recall] when you said, "O Moses, we will never believe you until we see Allāh outright"; so the thunderbolt took you while you were looking on.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے (موسیٰ) سے کہا کہ موسیٰ، جب تک ہم خدا کو سامنے نہ دیکھ لیں گے، تم پر ایمان نہیں لائیں گے، تو تم کو بجلی نے آ گھیرا اور تم دیکھ رہے تھے
+
+[Open on Quran.com](https://quran.com/2/55)
+
+#### 4:153 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَسْـَٔلُكَ أَهْلُ ٱلْكِتَـٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَـٰبًا مِّنَ ٱلسَّمَآءِ ۚ فَقَدْ سَأَلُوا۟ مُوسَىٰٓ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوٓا۟ أَرِنَا ٱللَّهَ جَهْرَةً فَأَخَذَتْهُمُ ٱلصَّـٰعِقَةُ بِظُلْمِهِمْ ۚ ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَـٰتُ فَعَفَوْنَا عَن ذَٰلِكَ ۚ وَءَاتَيْنَا مُوسَىٰ سُلْطَـٰنًا مُّبِينًا
+
+</div>
+
+**Word in this verse:** `ٱلصَّـٰعِقَةُ` — the thunderbolt
+
+**English (Sahih International):** The People of the Scripture ask you to bring down to them a book from the heaven. But they had asked of Moses [even] greater than that and said, "Show us Allāh outright," so the thunderbolt struck them for their wrongdoing. Then they took the calf [for worship] after clear evidences had come to them, and We pardoned that. And We gave Moses a clear authority.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) اہل کتاب تم سے درخواست کرتے ہیں کہ تم ان پر ایک (لکھی ہوئی) کتاب آسمان سے اتار لاؤ تو یہ موسیٰ سے اس سے بھی بڑی بڑی درخواستیں کرچکے ہیں (ان سے) کہتے تھے ہمیں خدا ظاہر (یعنی آنکھوں سے) دکھا دو سو ان کے گناہ کی وجہ سے ان کو بجلی نے آپکڑا۔ پھر کھلی نشانیاں آئے پیچھے بچھڑے کو (معبود) بنا بیٹھے تو اس سے بھی ہم نے درگزر کی۔ اور موسیٰ کو صریح غلبہ دیا
+
+[Open on Quran.com](https://quran.com/4/153)
+
+#### 13:13 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَـٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَـٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ
+
+</div>
+
+**Word in this verse:** `ٱلصَّوَٰعِقَ` — the thunderbolts
+
+**English (Sahih International):** And the thunder exalts [Allāh] with praise of Him - and the angels [as well] from fear of Him - and He sends thunderbolts and strikes therewith whom He wills while they dispute about Allāh; and He is severe in assault.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور رعد اور فرشتے سب اس کے خوف سے اس کی تسبیح و تحمید کرتے رہتے ہیں اور وہی بجلیاں بھیجتا ہے پھر جس پر چاہتا ہے گرا بھی دیتا ہے اور وہ خدا کے بارے میں جھگڑتے ہیں۔ اور وہ بڑی قوت والا ہے
+
+[Open on Quran.com](https://quran.com/13/13)
+
+#### 41:13 · [[041 Fussilat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَـٰعِقَةً مِّثْلَ صَـٰعِقَةِ عَادٍ وَثَمُودَ
+
+</div>
+
+**Word in this verse:** `صَـٰعِقَةًۭ` — (of) a thunderbolt
+
+**English (Sahih International):** But if they turn away, then say, "I have warned you of a thunderbolt like the thunderbolt [that struck] ʿAad and Thamūd.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اگر یہ منہ پھیر لیں تو کہہ دو کہ میں تم کو ایسے چنگھاڑ (کے عذاب) سے آگاہ کرتا ہوں جیسے عاد اور ثمود پر چنگھاڑ (کا عذاب آیا تھا)
+
+[Open on Quran.com](https://quran.com/41/13)
+
+#### 41:17 · [[041 Fussilat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَمَّا ثَمُودُ فَهَدَيْنَـٰهُمْ فَٱسْتَحَبُّوا۟ ٱلْعَمَىٰ عَلَى ٱلْهُدَىٰ فَأَخَذَتْهُمْ صَـٰعِقَةُ ٱلْعَذَابِ ٱلْهُونِ بِمَا كَانُوا۟ يَكْسِبُونَ
+
+</div>
+
+**Word in this verse:** `صَـٰعِقَةُ` — a thunderbolt
+
+**English (Sahih International):** And as for Thamūd, We guided them, but they preferred blindness over guidance, so the thunderbolt of humiliating punishment seized them for what they used to earn.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو ثمود تھے ان کو ہم نے سیدھا رستہ دکھا دیا تھا مگر انہوں نے ہدایت کے مقابلے میں اندھا دھند رہنا پسند کیا تو ان کے اعمال کی سزا میں کڑک نے ان کو آپکڑا۔ اور وہ ذلت کا عذاب تھا
+
+[Open on Quran.com](https://quran.com/41/17)
+
+#### 51:44 · [[051 Adh-Dhariyat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّـٰعِقَةُ وَهُمْ يَنظُرُونَ
+
+</div>
+
+**Word in this verse:** `ٱلصَّـٰعِقَةُ` — the thunderbolt
+
+**English (Sahih International):** But they were insolent toward the command of their Lord, so the thunderbolt seized them while they were looking on.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے اپنے پروردگار کے حکم سے سرکشی کی۔ سو ان کو کڑک نے آ پکڑا اور وہ دیکھ رہے تھے
+
+[Open on Quran.com](https://quran.com/51/44)
+

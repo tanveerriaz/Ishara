@@ -1,0 +1,110 @@
+---
+type: word
+lemma: "اعْتَصَمُ"
+slug: "AEtSm - hold fast"
+surah_count: 3
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# AEtSm - hold fast
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[ESm - tie cord]]
+
+### Meaning
+**hold fast** · Lemma **اعْتَصَمُ**
+
+### Surahs (3)
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[022 Al-Hajj]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:101 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَـٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ ۗ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+
+</div>
+
+**Word in this verse:** `يَعْتَصِم` — holds firmly
+
+**English (Sahih International):** And how could you disbelieve while to you are being recited the verses of Allāh and among you is His Messenger? And whoever holds firmly to Allāh has [indeed] been guided to a straight path.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کیونکر کفر کرو گے جبکہ تم کو خدا کی آیتیں پڑھ پڑھ کر سنائی جاتی ہیں اور تم میں اس کے پیغمبر موجود ہیں اور جس نے خدا (کی ہدایت کی رسی) کو مضبوط پکڑ لیا وہ سیدھے رستے لگ گیا
+
+[Open on Quran.com](https://quran.com/3/101)
+
+#### 3:103 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا۟ ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ
+
+</div>
+
+**Word in this verse:** `وَٱعْتَصِمُوا۟` — And hold firmly
+
+**English (Sahih International):** And hold firmly to the rope of Allāh all together and do not become divided. And remember the favor of Allāh upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allāh make clear to you His verses that you may be guided.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور سب مل کر خدا کی (ہدایت کی رسی) کو مضبوط پکڑے رہنا اور متفرق نہ ہونا اور خدا کی اس مہربانی کو یاد کرو جب تم ایک دوسرے کے دشمن تھے تو اس نے تمہارے دلوں میں الفت ڈال دی اور تم اس کی مہربانی سے بھائی بھائی ہوگئے اور تم آگ کے گڑھے کے کنارے تک پہنچ چکے تھے تو خدا نے تم کو اس سے بچا لیا اس طرح خدا تم کو اپنی آیتیں کھول کھول کر سناتا ہے تاکہ تم ہدایت پاؤ
+
+[Open on Quran.com](https://quran.com/3/103)
+
+#### 4:146 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَٱعْتَصَمُوا۟ بِٱللَّهِ وَأَخْلَصُوا۟ دِينَهُمْ لِلَّهِ فَأُو۟لَـٰٓئِكَ مَعَ ٱلْمُؤْمِنِينَ ۖ وَسَوْفَ يُؤْتِ ٱللَّهُ ٱلْمُؤْمِنِينَ أَجْرًا عَظِيمًا
+
+</div>
+
+**Word in this verse:** `وَٱعْتَصَمُوا۟` — and hold fast
+
+**English (Sahih International):** Except for those who repent, correct themselves, hold fast to Allāh, and are sincere in their religion for Allāh, for those will be with the believers. And Allāh is going to give the believers a great reward.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جنہوں نے توبہ کی اور اپنی حالت کو درست کیا اور خدا (کی رسی) کو مضبوط پکڑا اور خاص خدا کے فرمانبردار ہوگئے تو ایسے لوگ مومنوں کے زمرے میں ہوں گے اور خدا عنقریب مومنوں کو بڑا ثواب دے گا
+
+[Open on Quran.com](https://quran.com/4/146)
+
+#### 4:175 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَٱعْتَصَمُوا۟ بِهِۦ فَسَيُدْخِلُهُمْ فِى رَحْمَةٍ مِّنْهُ وَفَضْلٍ وَيَهْدِيهِمْ إِلَيْهِ صِرَٰطًا مُّسْتَقِيمًا
+
+</div>
+
+**Word in this verse:** `وَٱعْتَصَمُوا۟` — and held fast
+
+**English (Sahih International):** So those who believe in Allāh and hold fast to Him - He will admit them to mercy from Himself and bounty and guide them to Himself on a straight path.
+
+**Urdu (Fatah Muhammad Jalandhari):** پس جو لوگ خدا پر ایمان لائے اور اس (کے دین کی رسی) کو مضبوط پکڑے رہے ان کو وہ اپنی رحمت اور فضل (کے بہشتوں) میں داخل کرے گا۔ اور اپنی طرف (پہچنے کا) سیدھا رستہ دکھائے گا
+
+[Open on Quran.com](https://quran.com/4/175)
+
+#### 22:78 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَـٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ ۚ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍ ۚ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ ۚ هُوَ سَمَّىٰكُمُ ٱلْمُسْلِمِينَ مِن قَبْلُ وَفِى هَـٰذَا لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ ۚ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟ بِٱللَّهِ هُوَ مَوْلَىٰكُمْ ۖ فَنِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ
+
+</div>
+
+**Word in this verse:** `وَٱعْتَصِمُوا۟` — and hold fast
+
+**English (Sahih International):** And strive for Allāh with the striving due to Him. He has chosen you and has not placed upon you in the religion any difficulty. [It is] the religion of your father, Abraham. He [i.e., Allāh] named you "Muslims" before [in former scriptures] and in this [revelation] that the Messenger may be a witness over you and you may be witnesses over the people. So establish prayer and give zakāh and hold fast to Allāh. He is your protector; and excellent is the protector, and excellent is the helper.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی راہ) میں جہاد کرو جیسا جہاد کرنے کا حق ہے۔ اس نے تم کو برگزیدہ کیا ہے اور تم پر دین کی (کسی بات) میں تنگی نہیں کی۔ (اور تمہارے لئے) تمہارے باپ ابراہیم کا دین (پسند کیا) اُسی نے پہلے (یعنی پہلی کتابوں میں) تمہارا نام مسلمان رکھا تھا اور اس کتاب میں بھی (وہی نام رکھا ہے تو جہاد کرو) تاکہ پیغمبر تمہارے بارے میں شاہد ہوں۔ اور تم لوگوں کے مقابلے میں شاہد اور نماز پڑھو اور زکوٰة دو اور خدا کے دین کی (رسی کو) پکڑے رہو۔ وہی تمہارا دوست ہے۔ اور خوب دوست اور خوب مددگار ہے
+
+[Open on Quran.com](https://quran.com/22/78)
+

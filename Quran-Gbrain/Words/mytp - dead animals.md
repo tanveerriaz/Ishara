@@ -1,0 +1,128 @@
+---
+type: word
+lemma: "مَيْتَة"
+slug: "mytp - dead animals"
+surah_count: 5
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# mytp - dead animals
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[mwt - death]]
+
+### Meaning
+**dead animals** · Lemma **مَيْتَة**
+
+### Surahs (5)
+- [[002 Al-Baqarah]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[016 An-Nahl]]
+- [[036 Ya-Sin]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:173 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلْمَيْتَةَ` — the dead animals
+
+**English (Sahih International):** He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], there is no sin upon him. Indeed, Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس نے تم پر مرا ہوا جانور اور لہو اور سور کا گوشت اور جس چیز پر خدا کے سوا کسی اور کا نام پکارا جائے حرام کردیا ہے ہاں جو ناچار ہوجائے (بشرطیکہ ) خدا کی نافرمانی نہ کرے اور حد (ضرورت) سے باہر نہ نکل جائے اس پر کچھ گناہ نہیں۔ بےشک خدا بخشنے والا (اور) رحم کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/2/173)
+
+#### 5:3 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ ۙ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلْمَيْتَةُ` — the dead animals
+
+**English (Sahih International):** Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** تم پر مرا ہوا جانور اور (بہتا) لہو اور سور کا گوشت اور جس چیز پر خدا کے سوا کسی اور کا نام پکارا جائے اور جو جانور گلا گھٹ کر مر جائے اور جو چوٹ لگ کر مر جائے اور جو گر کر مر جائے اور جو سینگ لگ کر مر جائے یہ سب حرام ہیں اور وہ جانور بھی جس کو درندے پھاڑ کھائیں۔ مگر جس کو تم (مرنے سے پہلے) ذبح کرلو اور وہ جانور بھی جو تھان پر ذبح کیا جائے اور یہ بھی کہ پاسوں سے قسمت معلوم کرو یہ سب گناہ (کے کام) ہیں آج کافر تمہارے دین سے ناامید ہو گئے ہیں تو ان سے مت ڈرو اور مجھی سے ڈرتے رہو (اور) آج ہم نے تمہارے لئے تمہارا دین کامل کر دیا اور اپنی نعمتیں تم پر پوری کر دیں اور تمہارے لئے اسلام کو دین پسند کیا ہاں جو شخص بھوک میں ناچار ہو جائے (بشرطیکہ) گناہ کی طرف مائل نہ ہو تو خدا بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/5/3)
+
+#### 6:139 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ مَا فِى بُطُونِ هَـٰذِهِ ٱلْأَنْعَـٰمِ خَالِصَةٌ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا ۖ وَإِن يَكُن مَّيْتَةً فَهُمْ فِيهِ شُرَكَآءُ ۚ سَيَجْزِيهِمْ وَصْفَهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `مَّيْتَةًۭ` — (born) dead
+
+**English (Sahih International):** And they say, "What is in the bellies of these animals is exclusively for our males and forbidden to our females. But if it is [born] dead, then all of them have shares therein." He will punish them for their description. Indeed, He is Wise and Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ بھی کہتے ہیں کہ جو بچہ ان چارپایوں کے پیٹ میں ہے وہ خاص ہمارے مردوں کے لئے ہے اور ہماری عورتوں کو (اس کا کھانا) حرام ہے اور اگر وہ بچہ مرا ہوا ہو تو سب اس میں شریک ہیں (یعنی اسے مرد اور عورتیں سب کھائیں) عنقریب خدا ان کو ان کے ڈھکوسلوں کی سزا دے گا بےشک وہ حکمت والا خبردار ہے
+
+[Open on Quran.com](https://quran.com/6/139)
+
+#### 6:145 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۚ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `مَيْتَةً` — dead
+
+**English (Sahih International):** Say, "I do not find within that which was revealed to me [anything] forbidden to one who would eat it unless it be a dead animal or blood spilled out or the flesh of swine - for indeed, it is impure - or it be [that slaughtered in] disobedience, dedicated to other than Allāh. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], then indeed, your Lord is Forgiving and Merciful."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ جو احکام مجھ پر نازل ہوئے ہیں ان میں کوئی چیز جسے کھانے والا کھائے حرام نہیں پاتا بجز اس کے کہ وہ مرا ہوا جانور یا بہتا لہو یا سور کا گوشت کہ یہ سب ناپاک ہیں یا کوئی گناہ کی چیز ہو کہ اس پر خدا کے سوا کسی اور کا نام لیا گیا ہو اور اگر کوئی مجبور ہو جائے لیکن نہ تو نافرمانی کرے اور نہ حد سے باہر نکل جائے تو تمہارا پروردگار بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/6/145)
+
+#### 16:115 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلْمَيْتَةَ` — the dead animal
+
+**English (Sahih International):** He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit] - then indeed, Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس نے تم پر مُردار اور لہو اور سور کا گوشت حرام کردیا ہے اور جس چیز پر خدا کے سوا کسی اور کا نام پکارا جائے (اس کو بھی) ہاں اگر کوئی ناچار ہوجائے تو بشرطیکہ گناہ کرنے والا نہ ہو اور نہ حد سے نکلنے والا تو خدا بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/16/115)
+
+#### 36:33 · [[036 Ya-Sin]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَءَايَةٌ لَّهُمُ ٱلْأَرْضُ ٱلْمَيْتَةُ أَحْيَيْنَـٰهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْمَيْتَةُ` — dead
+
+**English (Sahih International):** And a sign for them is the dead earth. We have brought it to life and brought forth from it grain, and from it they eat.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ایک نشانی ان کے لئے زمین مردہ ہے کہ ہم نے اس کو زندہ کیا اور اس میں سے اناج اُگایا۔ پھر یہ اس میں سے کھاتے ہیں
+
+[Open on Quran.com](https://quran.com/36/33)
+

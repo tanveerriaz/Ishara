@@ -1,0 +1,128 @@
+---
+type: word
+lemma: "ضُحًى"
+slug: "DHY - its brightness"
+surah_count: 5
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# DHY - its brightness
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[DHw - dhw]]
+
+### Meaning
+**its brightness** · Lemma **ضُحًى**
+
+### Surahs (5)
+- [[007 Al-Araf]]
+- [[020 Taha]]
+- [[079 An-Naziat]]
+- [[091 Ash-Shams]]
+- [[093 Ad-Duhaa]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 7:98 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَأَمِنَ أَهْلُ ٱلْقُرَىٰٓ أَن يَأْتِيَهُم بَأْسُنَا ضُحًى وَهُمْ يَلْعَبُونَ
+
+</div>
+
+**Word in this verse:** `ضُحًۭى` — (in) daylight
+
+**English (Sahih International):** Or did the people of the cities feel secure from Our punishment coming to them in the morning while they were at play?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کیا اہلِ شہر اس سے نڈر ہیں کہ ان پر ہمارا عذاب دن چڑھے آ نازل ہو اور وہ کھیل رہے ہوں
+
+[Open on Quran.com](https://quran.com/7/98)
+
+#### 20:59 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ مَوْعِدُكُمْ يَوْمُ ٱلزِّينَةِ وَأَن يُحْشَرَ ٱلنَّاسُ ضُحًى
+
+</div>
+
+**Word in this verse:** `ضُحًۭى` — (at) forenoon
+
+**English (Sahih International):** [Moses] said, "Your appointment is on the day of the festival when the people assemble at mid-morning."
+
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا آپ کے لئے (مقابلے کا) دن نو روز (مقرر کیا جاتا ہے) اور یہ کہ لوگ اس دن چاشت کے وقت اکھٹے ہوجائیں
+
+[Open on Quran.com](https://quran.com/20/59)
+
+#### 79:29 · [[079 An-Naziat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا
+
+</div>
+
+**Word in this verse:** `ضُحَىٰهَا` — its brightness
+
+**English (Sahih International):** And He darkened its night and extracted its brightness.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے رات کو تاریک بنایا اور (دن کو) دھوپ نکالی
+
+[Open on Quran.com](https://quran.com/79/29)
+
+#### 79:46 · [[079 An-Naziat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا
+
+</div>
+
+**Word in this verse:** `ضُحَىٰهَا` — a morning thereof
+
+**English (Sahih International):** It will be, on the Day they see it, as though they had not remained [in the world] except for an afternoon or a morning thereof.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ اس کو دیکھیں گے (تو ایسا خیال کریں گے) کہ گویا( دنیا میں صرف) ایک شام یا صبح رہے تھے
+
+[Open on Quran.com](https://quran.com/79/46)
+
+#### 91:1 · [[091 Ash-Shams]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ وَٱلشَّمْسِ وَضُحَىٰهَا
+
+</div>
+
+**Word in this verse:** `وَضُحَىٰهَا` — and its brightness
+
+**English (Sahih International):** By the sun and its brightness
+
+**Urdu (Fatah Muhammad Jalandhari):** سورج کی قسم اور اس کی روشنی کی
+
+[Open on Quran.com](https://quran.com/91/1)
+
+#### 93:1 · [[093 Ad-Duhaa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ وَٱلضُّحَىٰ
+
+</div>
+
+**Word in this verse:** `وَٱلضُّحَىٰ` — By the morning brightness
+
+**English (Sahih International):** By the morning brightness
+
+**Urdu (Fatah Muhammad Jalandhari):** آفتاب کی روشنی کی قسم
+
+[Open on Quran.com](https://quran.com/93/1)
+

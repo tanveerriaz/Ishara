@@ -1,0 +1,9 @@
+# Quran Gbrain — Cloudflare Pages
+# Dashboard: Framework preset = None / Vite
+# Root directory: web
+# Build command: npm run build
+# Output directory: dist
+
+name = "quran-gbrain"
+compatibility_date = "2026-08-02"
+pages_build_output_dir = "web/dist"

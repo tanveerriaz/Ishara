@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "شَيْطان"
+slug: "$yTAn - shaitaan"
+surah_count: 36
+ayah_count: 78
+tags: [word, meaning]
+---
+
+# $yTAn - shaitaan
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[$Tn - shtn]]
+
+### Meaning
+**shaitaan** · Lemma **شَيْطان**
+
+### Surahs (36)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[012 Yusuf]]
+- [[014 Ibrahim]]
+- [[015 Al-Hijr]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[019 Maryam]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[022 Al-Hajj]]
+- [[023 Al-Muminun]]
+- [[024 An-Nur]]
+- [[025 Al-Furqan]]
+- [[026 Ash-Shuara]]
+- [[027 An-Naml]]
+- [[028 Al-Qasas]]
+- [[029 Al-Ankabut]]
+- [[031 Luqman]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:14 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ إِلَىٰ شَيَـٰطِينِهِمْ قَالُوٓا۟ إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِءُونَ
+
+</div>
+
+**Word in this verse:** `شَيَـٰطِينِهِمْ` — their evil ones
+
+**English (Sahih International):** And when they meet those who believe, they say, "We believe"; but when they are alone with their evil ones, they say, "Indeed, we are with you; we were only mockers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ جب مومنوں سے ملتے ہیں تو کہتے ہیں کہ ہم ایمان لے آئے ہیں، اور جب اپنے شیطانوں میں جاتے ہیں تو (ان سے) کہتے ہیں کہ ہم تمھارے ساتھ ہیں اور (پیروانِ محمدﷺ سے) تو ہم ہنسی کیا کرتے ہیں
+
+[Open on Quran.com](https://quran.com/2/14)
+
+#### 2:36 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَزَلَّهُمَا ٱلشَّيْطَـٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَـٰعٌ إِلَىٰ حِينٍ
+
+</div>
+
+**Word in this verse:** `ٱلشَّيْطَـٰنُ` — the Shaitaan
+
+**English (Sahih International):** But Satan caused them to slip out of it and removed them from that [condition] in which they had been. And We said, "Go down, [all of you], as enemies to one another, and you will have upon the earth a place of settlement and provision for a time."
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر شیطان نے دونوں کو وہاں سے پھسلا دیا اور جس (عیش ونشاط) میں تھے، اس سے ان کو نکلوا دیا۔ تب ہم نے حکم دیا کہ (بہشت بریں سے) چلے جاؤ۔ تم ایک دوسرے کے دشمن ہو، اور تمہارے لیے زمین میں ایک وقت تک ٹھکانا اور معاش (مقرر کر دیا گیا) ہے
+
+[Open on Quran.com](https://quran.com/2/36)
+
+#### 2:102 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَـٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَـٰنَ ۖ وَمَا كَفَرَ سُلَيْمَـٰنُ وَلَـٰكِنَّ ٱلشَّيَـٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ بِبَابِلَ هَـٰرُوتَ وَمَـٰرُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ ۚ وَمَا هُم بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِنْ خَلَـٰقٍ ۚ وَلَبِئْسَ مَا شَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `ٱلشَّيَـٰطِينُ` — the devils
+
+**English (Sahih International):** And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Hārūt and Mārūt. But they [i.e., the two angels] do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allāh. And they [i.e., people] learn what harms them and does not benefit them. But they [i.e., the Children of Israel] certainly knew that whoever purchased it [i.e., magic] would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
+
+[Open on Quran.com](https://quran.com/2/102)
+
+#### 2:168 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلنَّاسُ كُلُوا۟ مِمَّا فِى ٱلْأَرْضِ حَلَـٰلًا طَيِّبًا وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `ٱلشَّيْطَـٰنِ ۚ` — the Shaitaan
+
+**English (Sahih International):** O mankind, eat from whatever is on earth [that is] lawful and good and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو جو چیزیں زمین میں حلال طیب ہیں وہ کھاؤ۔ اور شیطان کے قدموں پر نہ چلو۔ وہ تمہارا کھلا دشمن ہے
+
+[Open on Quran.com](https://quran.com/2/168)
+
+#### 2:208 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱدْخُلُوا۟ فِى ٱلسِّلْمِ كَآفَّةً وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `ٱلشَّيْطَـٰنِ ۚ` — (of) the Shaitaan
+
+**English (Sahih International):** O you who have believed, enter into Islām completely [and perfectly] and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اسلام میں پورے پورے داخل ہوجاؤ اور شیطان کے پیچھے نہ چلو وہ تو تمہارا صریح دشمن ہے
+
+[Open on Quran.com](https://quran.com/2/208)
+
+#### 2:268 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلشَّيْطَـٰنُ يَعِدُكُمُ ٱلْفَقْرَ وَيَأْمُرُكُم بِٱلْفَحْشَآءِ ۖ وَٱللَّهُ يَعِدُكُم مَّغْفِرَةً مِّنْهُ وَفَضْلًا ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلشَّيْطَـٰنُ` — The Shaitaan
+
+**English (Sahih International):** Satan threatens you with poverty and orders you to immorality, while Allāh promises you forgiveness from Him and bounty. And Allāh is all-Encompassing and Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور دیکھنا) شیطان (کا کہنا نہ ماننا وہ) تمہیں تنگ دستی کا خوف دلاتا اور بےحیائی کے کام کر نے کو کہتا ہے۔ اور خدا تم سے اپنی بخشش اور رحمت کا وعدہ کرتا ہے۔ اور خدا بڑی کشائش والا (اور) سب کچھ جاننے والا ہے
+
+[Open on Quran.com](https://quran.com/2/268)
+
+#### 2:275 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَـٰنُ مِنَ ٱلْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ ۗ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ ۚ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ ۖ وَمَنْ عَادَ فَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ
+
+</div>
+
+**Word in this verse:** `ٱلشَّيْطَـٰنُ` — the Shaitaan
+
+**English (Sahih International):** Those who consume interest cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, "Trade is [just] like interest." But Allāh has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair rests with Allāh. But whoever returns [to dealing in interest or usury] - those are the companions of the Fire; they will abide eternally therein.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ سود کھاتے ہیں وہ (قبروں سے) اس طرح (حواس باختہ) اٹھیں گے جیسے کسی کو جن نے لپٹ کر دیوانہ بنا دیا ہو یہ اس لئے کہ وہ کہتے ہیں کہ سودا بیچنا بھی تو (نفع کے لحاظ سے) ویسا ہی ہے جیسے سود (لینا) حالانکہ سودے کو خدا نے حلال کیا ہے اور سود کو حرام۔ تو جس شخص کے پاس خدا کی نصیحت پہنچی اور وہ (سود لینے سے) باز آگیا تو جو پہلے ہوچکا وہ اس کا۔ اور (قیامت میں) اس کا معاملہ خدا کے سپرد اور جو پھر لینے لگا تو ایسے لوگ دوزخی ہیں کہ ہمیشہ دوزخ میں (جلتے) رہیں گے
+
+[Open on Quran.com](https://quran.com/2/275)
+
+#### 3:36 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ ۖ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ
+
+</div>
+
+**Word in this verse:** `ٱلشَّيْطَـٰنِ` — the Shaitaan
+
+**English (Sahih International):** But when she delivered her, she said, "My Lord, I have delivered a female." And Allāh was most knowing of what she delivered, and the male is not like the female. "And I have named her Mary, and I seek refuge for her in You and [for] her descendants from Satan, the expelled [from the mercy of Allāh]."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب ان کے ہاں بچہ پیدا ہوا اور جو کچھ ان کے ہاں پیدا ہوا تھا خدا کو خوب معلوم تھا تو کہنے لگیں کہ پروردگار! میرے تو لڑکی ہوئی ہے اور (نذر کے لیے) لڑکا (موزوں تھا کہ وہ) لڑکی کی طرح (ناتواں) نہیں ہوتا اور میں نے اس کا نام مریم رکھا ہے اور میں اس کو اور اس کی اولاد کو شیطان مردود سے تیری پناہ میں دیتی ہوں
+
+[Open on Quran.com](https://quran.com/3/36)
+
+#### 3:155 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ تَوَلَّوْا۟ مِنكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ إِنَّمَا ٱسْتَزَلَّهُمُ ٱلشَّيْطَـٰنُ بِبَعْضِ مَا كَسَبُوا۟ ۖ وَلَقَدْ عَفَا ٱللَّهُ عَنْهُمْ ۗ إِنَّ ٱللَّهَ غَفُورٌ حَلِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلشَّيْطَـٰنُ` — the Shaitaan
+
+**English (Sahih International):** Indeed, those of you who turned back on the day the two armies met [at Uḥud] - it was Satan who caused them to slip because of some [blame] they had earned. But Allāh has already forgiven them. Indeed, Allāh is Forgiving and Forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ تم میں سے (اُحد کے دن) جبکہ (مومنوں اور کافروں کی) دو جماعتیں ایک دوسرے سے گتھ گئیں (جنگ سے) بھاگ گئے تو ان کے بعض افعال کے سبب شیطان نے ان کو پھسلا دیا مگر خدا نے ان کا قصور معاف کر دیا بےشک خدا بخشنے والا اور بردبار ہے
+
+[Open on Quran.com](https://quran.com/3/155)
+
+#### 3:175 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّمَا ذَٰلِكُمُ ٱلشَّيْطَـٰنُ يُخَوِّفُ أَوْلِيَآءَهُۥ فَلَا تَخَافُوهُمْ وَخَافُونِ إِن كُنتُم مُّؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `ٱلشَّيْطَـٰنُ` — the Shaitaan
+
+**English (Sahih International):** That is only Satan who frightens [you] of his supporters. So fear them not, but fear Me, if you are [indeed] believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ (خوف دلانے والا) تو شیطان ہے جو اپنے دوستوں سے ڈراتا ہے تو اگر تم مومن ہو تو ان سے مت ڈرنا اور مجھ ہی سے ڈرتے رہنا
+
+[Open on Quran.com](https://quran.com/3/175)
+
+_…and **68** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

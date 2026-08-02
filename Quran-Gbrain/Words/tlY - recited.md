@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "تَلَى"
+slug: "tlY - recited"
+surah_count: 32
+ayah_count: 60
+tags: [word, meaning]
+---
+
+# tlY - recited
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[tlw - follow]]
+
+### Meaning
+**recited** · Lemma **تَلَى**
+
+### Surahs (32)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[013 Ar-Rad]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[019 Maryam]]
+- [[022 Al-Hajj]]
+- [[023 Al-Muminun]]
+- [[026 Ash-Shuara]]
+- [[027 An-Naml]]
+- [[028 Al-Qasas]]
+- [[029 Al-Ankabut]]
+- [[031 Luqman]]
+- [[033 Al-Ahzab]]
+- [[034 Saba]]
+- [[035 Fatir]]
+- [[039 Az-Zumar]]
+- [[045 Al-Jathiyah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:44 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ أَتَأْمُرُونَ ٱلنَّاسَ بِٱلْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ ٱلْكِتَـٰبَ ۚ أَفَلَا تَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `تَتْلُونَ` — [you] recite
+
+**English (Sahih International):** Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason?
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ) کیا (عقل کی بات ہے کہ) تم لوگوں کو نیکی کرنے کو کہتے ہو اور اپنے تئیں فراموش کئے دیتے ہو، حالانکہ تم کتاب (خدا) بھی پڑھتے ہو۔ کیا تم سمجھتے نہیں؟
+
+[Open on Quran.com](https://quran.com/2/44)
+
+#### 2:102 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَـٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَـٰنَ ۖ وَمَا كَفَرَ سُلَيْمَـٰنُ وَلَـٰكِنَّ ٱلشَّيَـٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ بِبَابِلَ هَـٰرُوتَ وَمَـٰرُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ ۚ وَمَا هُم بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِنْ خَلَـٰقٍ ۚ وَلَبِئْسَ مَا شَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `تَتْلُوا۟` — recite(d)
+
+**English (Sahih International):** And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Hārūt and Mārūt. But they [i.e., the two angels] do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allāh. And they [i.e., people] learn what harms them and does not benefit them. But they [i.e., the Children of Israel] certainly knew that whoever purchased it [i.e., magic] would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
+
+[Open on Quran.com](https://quran.com/2/102)
+
+#### 2:113 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَتِ ٱلْيَهُودُ لَيْسَتِ ٱلنَّصَـٰرَىٰ عَلَىٰ شَىْءٍ وَقَالَتِ ٱلنَّصَـٰرَىٰ لَيْسَتِ ٱلْيَهُودُ عَلَىٰ شَىْءٍ وَهُمْ يَتْلُونَ ٱلْكِتَـٰبَ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
+
+</div>
+
+**Word in this verse:** `يَتْلُونَ` — recite
+
+**English (Sahih International):** The Jews say, "The Christians have nothing [true] to stand on," and the Christians say, "The Jews have nothing to stand on," although they [both] recite the Scripture. Thus do those who know not [i.e., the polytheists] speak the same as their words. But Allāh will judge between them on the Day of Resurrection concerning that over which they used to differ.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہودی کہتے ہیں کہ عیسائی رستے پر نہیں اور عیسائی کہتے ہیں کہ یہودی رستے پر نہیں۔ حالانکہ وہ کتاب (الہٰی) پڑھتے ہیں۔ اسی طرح بالکل انہی کی سی بات وہ لوگ کہتے ہیں جو (کچھ) نہیں جانتے (یعنی مشرک) تو جس بات میں یہ لوگ اختلاف کر رہے خدا قیامت کے دن اس کا ان میں فیصلہ کر دے گا
+
+[Open on Quran.com](https://quran.com/2/113)
+
+#### 2:121 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَتْلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُو۟لَـٰٓئِكَ يُؤْمِنُونَ بِهِۦ ۗ وَمَن يَكْفُرْ بِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ
+
+</div>
+
+**Word in this verse:** `يَتْلُونَهُۥ` — recite it
+
+**English (Sahih International):** Those to whom We have given the Book recite it with its true recital. They [are the ones who] believe in it. And whoever disbelieves in it - it is they who are the losers.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں کو ہم نے کتاب عنایت کی ہے، وہ اس کو (ایسا) پڑھتے ہیں جیسا اس کے پڑھنے کا حق ہے۔ یہی لوگ اس پر ایمان رکھنے والے ہیں، اور جو اس کو نہیں مانتے، وہ خسارہ پانے والے ہیں
+
+[Open on Quran.com](https://quran.com/2/121)
+
+#### 2:129 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِكَ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+
+</div>
+
+**Word in this verse:** `يَتْلُوا۟` — (who) will recite
+
+**English (Sahih International):** Our Lord, and send among them a messenger from themselves who will recite to them Your verses and teach them the Book and wisdom and purify them. Indeed, You are the Exalted in Might, the Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار، ان (لوگوں) میں انہیں میں سے ایک پیغمبر مبعوث کیجیو جو ان کو تیری آیتیں پڑھ پڑھ کر سنایا کرے اور کتاب اور دانائی سکھایا کرے اور ان (کے دلوں) کو پاک صاف کیا کرے۔ بےشک تو غالب اور صاحبِ حکمت ہے
+
+[Open on Quran.com](https://quran.com/2/129)
+
+#### 2:151 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَمَآ أَرْسَلْنَا فِيكُمْ رَسُولًا مِّنكُمْ يَتْلُوا۟ عَلَيْكُمْ ءَايَـٰتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَيُعَلِّمُكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `يَتْلُوا۟` — (who) recites
+
+**English (Sahih International):** Just as We have sent among you a messenger from yourselves reciting to you Our verses and purifying you and teaching you the Book and wisdom and teaching you that which you did not know.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس طرح (منجملہ اور نعمتوں کے) ہم نے تم میں تمھیں میں سے ایک رسول بھیجے ہیں جو تم کو ہماری آیتیں پڑھ پڑھ کر سناتے اور تمہیں پاک بناتے اور کتاب (یعنی قرآن) اور دانائی سکھاتے ہیں، اور ایسی باتیں بتاتے ہیں، جو تم پہلے نہیں جانتے تھے
+
+[Open on Quran.com](https://quran.com/2/151)
+
+#### 2:252 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۚ وَإِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ
+
+</div>
+
+**Word in this verse:** `نَتْلُوهَا` — We recite them
+
+**English (Sahih International):** These are the verses of Allāh which We recite to you, [O Muḥammad], in truth. And indeed, you are from among the messengers.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ خدا کی آیتیں ہیں جو ہم تم کو سچائی کے ساتھ پڑھ کر سناتے ہیں (اور اے محمدﷺ) تم بلاشبہ پیغمبروں میں سے ہو
+
+[Open on Quran.com](https://quran.com/2/252)
+
+#### 3:58 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْـَٔايَـٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ
+
+</div>
+
+**Word in this verse:** `نَتْلُوهُ` — (is what) We recite [it]
+
+**English (Sahih International):** This is what We recite to you, [O Muḥammad], of [Our] verses and the precise [and wise] message [i.e., the Qur’ān].
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) یہ ہم تم کو (خدا کی) آیتیں اور حکمت بھری نصیحتیں پڑھ پڑھ کر سناتے ہیں
+
+[Open on Quran.com](https://quran.com/3/58)
+
+#### 3:93 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ كُلُّ ٱلطَّعَامِ كَانَ حِلًّا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ ۗ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ صَـٰدِقِينَ
+
+</div>
+
+**Word in this verse:** `فَٱتْلُوهَآ` — and recite it
+
+**English (Sahih International):** All food was lawful to the Children of Israel except what Israel [i.e., Jacob] had made unlawful to himself before the Torah was revealed. Say, [O Muḥammad], "So bring the Torah and recite it, if you should be truthful."
+
+**Urdu (Fatah Muhammad Jalandhari):** بنی اسرائیل کے لیے (تورات کے نازل ہونے سے) پہلے کھانے کی تمام چیزیں حلال تھیں بجز ان کے جو یعقوب نے خود اپنے اوپر حرام کر لی تھیں کہہ دو کہ اگر سچے ہو تو تورات لاؤ اور اسے پڑھو (یعنی دلیل پیش کرو)
+
+[Open on Quran.com](https://quran.com/3/93)
+
+#### 3:101 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَيْفَ تَكْفُرُونَ وَأَنتُمْ تُتْلَىٰ عَلَيْكُمْ ءَايَـٰتُ ٱللَّهِ وَفِيكُمْ رَسُولُهُۥ ۗ وَمَن يَعْتَصِم بِٱللَّهِ فَقَدْ هُدِىَ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+
+</div>
+
+**Word in this verse:** `تُتْلَىٰ` — is recited
+
+**English (Sahih International):** And how could you disbelieve while to you are being recited the verses of Allāh and among you is His Messenger? And whoever holds firmly to Allāh has [indeed] been guided to a straight path.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کیونکر کفر کرو گے جبکہ تم کو خدا کی آیتیں پڑھ پڑھ کر سنائی جاتی ہیں اور تم میں اس کے پیغمبر موجود ہیں اور جس نے خدا (کی ہدایت کی رسی) کو مضبوط پکڑ لیا وہ سیدھے رستے لگ گیا
+
+[Open on Quran.com](https://quran.com/3/101)
+
+_…and **50** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

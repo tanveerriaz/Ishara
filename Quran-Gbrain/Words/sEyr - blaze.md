@@ -1,0 +1,202 @@
+---
+type: word
+lemma: "سَعِير"
+slug: "sEyr - blaze"
+surah_count: 13
+ayah_count: 16
+tags: [word, meaning]
+---
+
+# sEyr - blaze
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[sEr - kindle stir fire]]
+
+### Meaning
+**blaze** · Lemma **سَعِير**
+
+### Surahs (13)
+- [[004 An-Nisa]]
+- [[017 Al-Isra]]
+- [[022 Al-Hajj]]
+- [[025 Al-Furqan]]
+- [[031 Luqman]]
+- [[033 Al-Ahzab]]
+- [[034 Saba]]
+- [[035 Fatir]]
+- [[042 Ash-Shuraa]]
+- [[048 Al-Fath]]
+- [[067 Al-Mulk]]
+- [[076 Al-Insan]]
+- [[084 Al-Inshiqaq]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:10 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَـٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا
+
+</div>
+
+**Word in this verse:** `سَعِيرًۭا` — (in) a Blazing Fire
+
+**English (Sahih International):** Indeed, those who devour the property of orphans unjustly are only consuming into their bellies fire. And they will be burned in a Blaze [i.e., Hellfire].
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگ یتیموں کا مال ناجائز طور پر کھاتے ہیں وہ اپنے پیٹ میں آگ بھرتے ہیں۔ اور دوزخ میں ڈالے جائیں گے
+
+[Open on Quran.com](https://quran.com/4/10)
+
+#### 4:55 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَمِنْهُم مَّنْ ءَامَنَ بِهِۦ وَمِنْهُم مَّن صَدَّ عَنْهُ ۚ وَكَفَىٰ بِجَهَنَّمَ سَعِيرًا
+
+</div>
+
+**Word in this verse:** `سَعِيرًا` — (as a) Blazing Fire
+
+**English (Sahih International):** And some among them believed in it, and some among them were averse to it. And sufficient is Hell as a blaze.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر لوگوں میں سے کسی نے تو اس کتاب کو مانا اور کوئی اس سے رکا (اور ہٹا) رہا تو نہ ماننے والوں (کے جلانے) کو دوزخ کی جلتی ہوئی آگ کافی ہے
+
+[Open on Quran.com](https://quran.com/4/55)
+
+#### 17:97 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ أَوْلِيَآءَ مِن دُونِهِۦ ۖ وَنَحْشُرُهُمْ يَوْمَ ٱلْقِيَـٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا ۖ مَّأْوَىٰهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَـٰهُمْ سَعِيرًا
+
+</div>
+
+**Word in this verse:** `سَعِيرًۭا` — the blazing fire
+
+**English (Sahih International):** And whoever Allāh guides - he is the [rightly] guided; and whoever He sends astray - you will never find for them protectors besides Him, and We will gather them on the Day of Resurrection [fallen] on their faces - blind, dumb and deaf. Their refuge is Hell; every time it subsides, We increase [for] them blazing fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس شخص کو خدا ہدایت دے وہی ہدایت یاب ہے۔ اور جن کو گمراہ کرے تو تم خدا کے سوا اُن کے رفیق نہیں پاؤ گے۔ اور ہم اُن کو قیامت کے دن اوندھے منہ اندھے گونگے اور بہرے (بنا کر) اٹھائیں گے۔ اور ان کا ٹھکانہ دوزخ ہے۔ جب (اس کی آگ) بجھنے کو ہوگی تو ہم ان کو (عذاب دینے کے لئے) اور بھڑکا دیں گے
+
+[Open on Quran.com](https://quran.com/17/97)
+
+#### 22:4 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كُتِبَ عَلَيْهِ أَنَّهُۥ مَن تَوَلَّاهُ فَأَنَّهُۥ يُضِلُّهُۥ وَيَهْدِيهِ إِلَىٰ عَذَابِ ٱلسَّعِيرِ
+
+</div>
+
+**Word in this verse:** `ٱلسَّعِيرِ` — (of) the Blaze
+
+**English (Sahih International):** It has been decreed for him [i.e., every devil] that whoever turns to him - he will misguide him and will lead him to the punishment of the Blaze.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس کے بارے میں لکھ دیا گیا ہے کہ جو اسے دوست رکھے گا تو اس کو گمراہ کردے گا اور دوزخ کے عذاب کا رستہ دکھائے گا
+
+[Open on Quran.com](https://quran.com/22/4)
+
+#### 25:11 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+بَلْ كَذَّبُوا۟ بِٱلسَّاعَةِ ۖ وَأَعْتَدْنَا لِمَن كَذَّبَ بِٱلسَّاعَةِ سَعِيرًا
+
+</div>
+
+**Word in this verse:** `سَعِيرًا` — a Blazing Fire
+
+**English (Sahih International):** But they have denied the Hour, and We have prepared for those who deny the Hour a Blaze.
+
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ یہ تو قیامت ہی کو جھٹلاتے ہیں اور ہم نے قیامت کے جھٹلانے والوں کے لئے دوزخ تیار کر رکھی ہے
+
+[Open on Quran.com](https://quran.com/25/11)
+
+#### 31:21 · [[031 Luqman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ٱلشَّيْطَـٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ
+
+</div>
+
+**Word in this verse:** `ٱلسَّعِيرِ` — (of) the Blaze
+
+**English (Sahih International):** And when it is said to them, "Follow what Allāh has revealed," they say, "Rather, we will follow that upon which we found our fathers." Even if Satan was inviting them to the punishment of the Blaze?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب اُن سے کہا جاتا ہے کہ جو (کتاب) خدا نے نازل فرمائی ہے اُس کی پیروی کرو۔ تو کہتے ہیں کہ ہم تو اسی کی پیروی کریں گے جس پر اپنے باپ دادا کو پایا۔ بھلا اگرچہ شیطان ان کو دوزخ کے عذاب کی طرف بلاتا ہو (تب بھی؟)
+
+[Open on Quran.com](https://quran.com/31/21)
+
+#### 33:64 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱللَّهَ لَعَنَ ٱلْكَـٰفِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا
+
+</div>
+
+**Word in this verse:** `سَعِيرًا` — a Blaze
+
+**English (Sahih International):** Indeed, Allāh has cursed the disbelievers and prepared for them a Blaze.
+
+**Urdu (Fatah Muhammad Jalandhari):** بےشک خدا نے کافروں پر لعنت کی ہے اور ان کے لئے (جہنم کی) آگ تیار کر رکھی ہے
+
+[Open on Quran.com](https://quran.com/33/64)
+
+#### 34:12 · [[034 Saba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلِسُلَيْمَـٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ ۖ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ ۖ وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ ۖ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ عَذَابِ ٱلسَّعِيرِ
+
+</div>
+
+**Word in this verse:** `ٱلسَّعِيرِ` — (of) the Blaze
+
+**English (Sahih International):** And to Solomon [We subjected] the wind - its morning [journey was that of] a month - and its afternoon [journey was that of] a month, and We made flow for him a spring of [liquid] copper. And among the jinn were those who worked for him by the permission of his Lord. And whoever deviated among them from Our command - We will make him taste of the punishment of the Blaze.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہوا کو (ہم نے) سلیمان کا تابع کردیا تھا اس کی صبح کی منزل ایک مہینے کی راہ ہوتی اور شام کی منزل بھی مہینے بھر کی ہوتی۔ اور ان کے لئے ہم نے تانبے کا چشمہ بہا دیا تھا اور جِنّوں میں سے ایسے تھے جو ان کے پروردگار کے حکم سے ان کے آگے کام کرتے تھے۔ اور جو کوئی ان میں سے ہمارے حکم سے پھرے گا اس کو ہم (جہنم کی) آگ کا مزہ چکھائیں گے
+
+[Open on Quran.com](https://quran.com/34/12)
+
+#### 35:6 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلشَّيْطَـٰنَ لَكُمْ عَدُوٌّ فَٱتَّخِذُوهُ عَدُوًّا ۚ إِنَّمَا يَدْعُوا۟ حِزْبَهُۥ لِيَكُونُوا۟ مِنْ أَصْحَـٰبِ ٱلسَّعِيرِ
+
+</div>
+
+**Word in this verse:** `ٱلسَّعِيرِ` — (of) the Blaze
+
+**English (Sahih International):** Indeed, Satan is an enemy to you; so take him as an enemy. He only invites his party to be among the companions of the Blaze.
+
+**Urdu (Fatah Muhammad Jalandhari):** شیطان تمہارا دشمن ہے تم بھی اسے دشمن ہی سمجھو۔ وہ اپنے (پیروؤں کے) گروہ کو بلاتا ہے تاکہ دوزخ والوں میں ہوں
+
+[Open on Quran.com](https://quran.com/35/6)
+
+#### 42:7 · [[042 Ash-Shuraa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ
+
+</div>
+
+**Word in this verse:** `ٱلسَّعِيرِ` — the Blazing Fire
+
+**English (Sahih International):** And thus We have revealed to you an Arabic Qur’ān that you may warn the Mother of Cities [i.e., Makkah] and those around it and warn of the Day of Assembly, about which there is no doubt. A party will be in Paradise and a party in the Blaze.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح تمہارے پاس قرآن عربی بھیجا ہے تاکہ تم بڑے گاؤں (یعنی مکّے) کے رہنے والوں کو اور جو لوگ اس کے اردگرد رہتے ہیں ان کو رستہ دکھاؤ اور انہیں قیامت کے دن کا بھی جس میں کچھ شک نہیں ہے خوف دلاؤ۔ اس روز ایک فریق بہشت میں ہوگا اور ایک فریق دوزخ میں
+
+[Open on Quran.com](https://quran.com/42/7)
+
+_…and **6** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

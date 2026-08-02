@@ -1,0 +1,193 @@
+---
+type: word
+lemma: "حَرْث"
+slug: "Hrv - harvest"
+surah_count: 6
+ayah_count: 10
+tags: [word, meaning]
+---
+
+# Hrv - harvest
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Hrv - gain acquire wealth]]
+
+### Meaning
+**harvest** · Lemma **حَرْث**
+
+### Surahs (6)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[006 Al-Anam]]
+- [[021 Al-Anbya]]
+- [[042 Ash-Shuraa]]
+- [[068 Al-Qalam]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:71 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا ۚ قَالُوا۟ ٱلْـَٔـٰنَ جِئْتَ بِٱلْحَقِّ ۚ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْحَرْثَ` — the field
+
+**English (Sahih International):** He said, "He says, 'It is a cow neither trained to plow the earth nor to irrigate the field, one free from fault with no spot upon her.'" They said, "Now you have come with the truth." So they slaughtered her, but they could hardly do it.
+
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا کہ خدا فرماتا ہے کہ وہ بیل کام میں لگا ہوا نہ ہو، نہ تو زمین جوتتا ہو اور نہ کھیتی کو پانی دیتا ہو۔ اس میں کسی طرح کا داغ نہ ہو۔ کہنے لگے، اب تم نے سب باتیں درست بتا دیں۔ غرض (بڑی مشکل سے) انہوں نے اس بیل کو ذبح کیا، اور وہ ایسا کرنے والے تھے نہیں
+
+[Open on Quran.com](https://quran.com/2/71)
+
+#### 2:205 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا تَوَلَّىٰ سَعَىٰ فِى ٱلْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ ٱلْحَرْثَ وَٱلنَّسْلَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلْفَسَادَ
+
+</div>
+
+**Word in this verse:** `ٱلْحَرْثَ` — the crops
+
+**English (Sahih International):** And when he goes away, he strives throughout the land to cause corruption therein and destroy crops and animals. And Allāh does not like corruption.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب پیٹھ پھیر کر چلا جاتا ہے تو زمین میں دوڑتا پھرتا ہے تاکہ اس میں فتنہ انگیزی کرے اور کھیتی کو (برباد) اور (انسانوں اور حیوانوں کی) نسل کو نابود کردے اور خدا فتنہ انگیزی کو پسند نہیں کرتا
+
+[Open on Quran.com](https://quran.com/2/205)
+
+#### 2:223 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+نِسَآؤُكُمْ حَرْثٌ لَّكُمْ فَأْتُوا۟ حَرْثَكُمْ أَنَّىٰ شِئْتُمْ ۖ وَقَدِّمُوا۟ لِأَنفُسِكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّكُم مُّلَـٰقُوهُ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `حَرْثٌۭ` — (are) a tilth
+
+**English (Sahih International):** Your wives are a place of cultivation [i.e., sowing of seed] for you, so come to your place of cultivation however you wish and put forth [righteousness] for yourselves. And fear Allāh and know that you will meet Him. And give good tidings to the believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہاری عورتیں تمہارای کھیتی ہیں تو اپنی کھیتی میں جس طرح چاہو جاؤ۔ اور اپنے لئے (نیک عمل) آگے بھیجو۔ اور خدا سے ڈرتے رہو اور جان رکھو کہ (ایک دن) تمہیں اس کے روبرو حاضر ہونا ہے اور (اے پیغمبر) ایمان والوں کو بشارت سنا دو
+
+[Open on Quran.com](https://quran.com/2/223)
+
+#### 3:14 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلْبَنِينَ وَٱلْقَنَـٰطِيرِ ٱلْمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلْفِضَّةِ وَٱلْخَيْلِ ٱلْمُسَوَّمَةِ وَٱلْأَنْعَـٰمِ وَٱلْحَرْثِ ۗ ذَٰلِكَ مَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلْمَـَٔابِ
+
+</div>
+
+**Word in this verse:** `وَٱلْحَرْثِ ۗ` — and [the] tilled land
+
+**English (Sahih International):** Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allāh has with Him the best return [i.e., Paradise].
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
+
+[Open on Quran.com](https://quran.com/3/14)
+
+#### 3:117 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَثَلُ مَا يُنفِقُونَ فِى هَـٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ رِيحٍ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوٓا۟ أَنفُسَهُمْ فَأَهْلَكَتْهُ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِنْ أَنفُسَهُمْ يَظْلِمُونَ
+
+</div>
+
+**Word in this verse:** `حَرْثَ` — (the) harvest
+
+**English (Sahih International):** The example of what they spend in this worldly life is like that of a wind containing frost which strikes the harvest of a people who have wronged themselves [i.e., sinned] and destroys it. And Allāh has not wronged them, but they wrong themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ جو مال دنیا کی زندگی میں خرچ کرتے ہیں اس کی مثال ہوا کی سی ہے جس میں سخت سردی ہو اور وہ ایسے لوگوں کی کھیتی پر جو اپنے آپ پر ظلم کرتے تھے چلے اور اسے تباہ کر دے اور خدا نے ان پر کچھ ظلم نہیں کیا بلکہ یہ خود اپنے اوپر ظلم کر رہے ہیں
+
+[Open on Quran.com](https://quran.com/3/117)
+
+#### 6:136 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَعَلُوا۟ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلْحَرْثِ وَٱلْأَنْعَـٰمِ نَصِيبًا فَقَالُوا۟ هَـٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَـٰذَا لِشُرَكَآئِنَا ۖ فَمَا كَانَ لِشُرَكَآئِهِمْ فَلَا يَصِلُ إِلَى ٱللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمْ ۗ سَآءَ مَا يَحْكُمُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْحَرْثِ` — the crops
+
+**English (Sahih International):** And they [i.e., the polytheists] assign to Allāh from that which He created of crops and livestock a share and say, "This is for Allāh," by their claim, "and this is for our 'partners' [associated with Him]." But what is for their "partners" does not reach Allāh, while what is for Allāh - this reaches their "partners." Evil is that which they rule.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (یہ لوگ) خدا ہی کی پیدا کی ہوئی چیزوں یعنی کھیتی اور چوپایوں میں خدا کا بھی ایک حصہ مقرر کرتے ہیں اور اپنے خیال (باطل) سے کہتے ہیں کہ یہ (حصہ) تو خدا کا اور یہ ہمارے شریکوں (یعنی بتوں) کا تو جو حصہ ان کے شریکوں کا ہوتا ہے وہ تو خدا کی طرف نہیں جا سکتا اور جو حصہ خدا کا ہوتا ہے وہ ان کے شریکوں کی طرف جا سکتا ہے یہ کیسا برا انصاف ہے
+
+[Open on Quran.com](https://quran.com/6/136)
+
+#### 6:138 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ هَـٰذِهِۦٓ أَنْعَـٰمٌ وَحَرْثٌ حِجْرٌ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَـٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَـٰمٌ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ ۚ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ
+
+</div>
+
+**Word in this verse:** `وَحَرْثٌ` — and crops
+
+**English (Sahih International):** And they say, "These animals and crops are forbidden; no one may eat from them except whom we will," by their claim. And there are those [camels] whose backs are forbidden [by them] and those upon which the name of Allāh is not mentioned - [all of this] an invention of untruth about Him. He will punish them for what they were inventing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے خیال سے یہ بھی کہتے ہیں کہ یہ چارپائے اور کھیتی منع ہے اسے اس شخص کے سوا جسے ہم چاہیں کوئی نہ کھائے اور (بعض) چارپائے ایسے ہیں کہ ان کی پیٹ پر چڑھنا منع کر دیا گیا ہے اور بعض مویشی ایسے ہیں جن پر (ذبح کرتے وقت) خدا کا نام نہیں لیتے سب خدا پر جھوٹ ہے وہ عنقریب ان کو ان کے جھوٹ کا بدلہ دے گا
+
+[Open on Quran.com](https://quran.com/6/138)
+
+#### 21:78 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَدَاوُۥدَ وَسُلَيْمَـٰنَ إِذْ يَحْكُمَانِ فِى ٱلْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ ٱلْقَوْمِ وَكُنَّا لِحُكْمِهِمْ شَـٰهِدِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْحَرْثِ` — the field
+
+**English (Sahih International):** And [mention] David and Solomon, when they judged concerning the field - when the sheep of a people overran it [at night], and We were witness to their judgement.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور داؤد اور سلیمان (کا حال بھی سن لو کہ) جب وہ ایک کھیتی کا مقدمہ فیصلہ کرنے لگے جس میں کچھ لوگوں کی بکریاں رات کو چر گئی (اور اسے روند گئی) تھیں اور ہم ان کے فیصلے کے وقت موجود تھے
+
+[Open on Quran.com](https://quran.com/21/78)
+
+#### 42:20 · [[042 Ash-Shuraa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَن كَانَ يُرِيدُ حَرْثَ ٱلْـَٔاخِرَةِ نَزِدْ لَهُۥ فِى حَرْثِهِۦ ۖ وَمَن كَانَ يُرِيدُ حَرْثَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِن نَّصِيبٍ
+
+</div>
+
+**Word in this verse:** `حَرْثَ` — (the) harvest
+
+**English (Sahih International):** Whoever desires the harvest of the Hereafter - We increase for him in his harvest [i.e., reward]. And whoever desires the harvest [i.e., benefits] of this world - We give him thereof, but there is not for him in the Hereafter any share.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص آخرت کی کھیتی کا خواستگار ہو اس کو ہم اس میں سے دیں گے۔ اور جو دنیا کی کھیتی کا خواستگار ہو اس کو ہم اس میں سے دے دیں گے۔ اور اس کا آخرت میں کچھ حصہ نہ ہوگا
+
+[Open on Quran.com](https://quran.com/42/20)
+
+#### 68:22 · [[068 Al-Qalam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَـٰرِمِينَ
+
+</div>
+
+**Word in this verse:** `حَرْثِكُمْ` — your crop
+
+**English (Sahih International):** [Saying], "Go early to your crop if you would cut the fruit."
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم کو کاٹنا ہے تو اپنی کھیتی پر سویرے ہی جا پہنچو
+
+[Open on Quran.com](https://quran.com/68/22)
+

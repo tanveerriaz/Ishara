@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "خُسْران"
+slug: "xsrAn - loss"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# xsrAn - loss
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[xsr - khsr]]
+
+### Meaning
+**loss** · Lemma **خُسْران**
+
+### Surahs (3)
+- [[004 An-Nisa]]
+- [[022 Al-Hajj]]
+- [[039 Az-Zumar]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:119 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَـَٔامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَـٰمِ وَلَـَٔامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَـٰنَ وَلِيًّا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُّبِينًا
+
+</div>
+
+**Word in this verse:** `خُسْرَانًۭا` — a loss
+
+**English (Sahih International):** And I will mislead them, and I will arouse in them [sinful] desires, and I will command them so they will slit the ears of cattle, and I will command them so they will change the creation of Allāh." And whoever takes Satan as an ally instead of Allāh has certainly sustained a clear loss.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو گمراہ کرتا اور امیدیں دلاتا ہروں گا اور یہ سکھاتا رہوں گا کہ جانوروں کے کان چیرتے رہیں اور (یہ بھی) کہتا رہوں گا کہ وہ خدا کی بنائی ہوئی صورتوں کو بدلتے رہیں اور جس شخص نے خدا کو چھوڑ کر شیطان کو دوست بنایا اور وہ صریح نقصان میں پڑ گیا
+
+[Open on Quran.com](https://quran.com/4/119)
+
+#### 22:11 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍ ۖ فَإِنْ أَصَابَهُۥ خَيْرٌ ٱطْمَأَنَّ بِهِۦ ۖ وَإِنْ أَصَابَتْهُ فِتْنَةٌ ٱنقَلَبَ عَلَىٰ وَجْهِهِۦ خَسِرَ ٱلدُّنْيَا وَٱلْـَٔاخِرَةَ ۚ ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ
+
+</div>
+
+**Word in this verse:** `ٱلْخُسْرَانُ` — (is) the loss
+
+**English (Sahih International):** And of the people is he who worships Allāh on an edge. If he is touched by good, he is reassured by it; but if he is struck by trial, he turns on his face [to unbelief]. He has lost [this] world and the Hereafter. That is what is the manifest loss.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور لوگوں میں بعض ایسا بھی ہے جو کنارے پر (کھڑا ہو کر) خدا کی عبادت کرتا ہے۔ اگر اس کو کوئی (دنیاوی) فائدہ پہنچے تو اس کے سبب مطمئن ہوجائے اور اگر کوئی آفت پڑے تو منہ کے بل لوٹ جائے (یعنی پھر کافر ہوجائے) اس نے دنیا میں بھی نقصان اٹھایا اور آخرت میں بھی۔ یہی تو نقصان صریح ہے
+
+[Open on Quran.com](https://quran.com/22/11)
+
+#### 39:15 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱعْبُدُوا۟ مَا شِئْتُم مِّن دُونِهِۦ ۗ قُلْ إِنَّ ٱلْخَـٰسِرِينَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ ٱلْقِيَـٰمَةِ ۗ أَلَا ذَٰلِكَ هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ
+
+</div>
+
+**Word in this verse:** `ٱلْخُسْرَانُ` — (is) the loss
+
+**English (Sahih International):** So worship what you will besides Him." Say, "Indeed, the losers are the ones who will lose themselves and their families on the Day of Resurrection. Unquestionably, that is the manifest loss."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو تم اس کے سوا جس کی چاہو پرستش کرو۔ کہہ دو کہ نقصان اٹھانے والے وہی لوگ ہیں جنہوں نے قیامت کے دن اپنے آپ کو اور اپنے گھر والوں کو نقصان میں ڈالا۔ دیکھو یہی صریح نقصان ہے
+
+[Open on Quran.com](https://quran.com/39/15)
+

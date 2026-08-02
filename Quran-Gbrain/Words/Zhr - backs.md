@@ -1,0 +1,203 @@
+---
+type: word
+lemma: "ظَهْر"
+slug: "Zhr - backs"
+surah_count: 14
+ayah_count: 24
+tags: [word, meaning]
+---
+
+# Zhr - backs
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Zhr - back]]
+
+### Meaning
+**backs** · Lemma **ظَهْر**
+
+### Surahs (14)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[009 At-Tawbah]]
+- [[018 Al-Kahf]]
+- [[021 Al-Anbya]]
+- [[024 An-Nur]]
+- [[030 Ar-Rum]]
+- [[035 Fatir]]
+- [[042 Ash-Shuraa]]
+- [[043 Az-Zukhruf]]
+- [[084 Al-Inshiqaq]]
+- [[094 Ash-Sharh]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:101 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَمَّا جَآءَهُمْ رَسُولٌ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ نَبَذَ فَرِيقٌ مِّنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ كِتَـٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمْ كَأَنَّهُمْ لَا يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `ظُهُورِهِمْ` — their backs
+
+**English (Sahih International):** And when a messenger from Allāh came to them confirming that which was with them, a party of those who had been given the Scripture threw the Scripture of Allāh [i.e., the Torah] behind their backs as if they did not know [what it contained].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کے پاس الله کی طرف سے پیغمبر (آخرالزماں) آئے، اور وہ ان کی (آسمانی) کتاب کی بھی تصدیق کرتے ہیں تو جن لوگوں کو کتاب دی گئی تھی، ان میں سے ایک جماعت نے خدا کی کتاب کو پیٹھ پیچھے پھینک دیا، گویا وہ جانتے ہی نہیں
+
+[Open on Quran.com](https://quran.com/2/101)
+
+#### 2:189 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ ۖ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ ۗ وَلَيْسَ ٱلْبِرُّ بِأَن تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَـٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ ۗ وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا ۚ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
+
+</div>
+
+**Word in this verse:** `ظُهُورِهَا` — their backs
+
+**English (Sahih International):** They ask you, [O Muḥammad], about the crescent moons. Say, "They are measurements of time for the people and for ḥajj [pilgrimage]." And it is not righteousness to enter houses from the back, but righteousness is [in] one who fears Allāh. And enter houses from their doors. And fear Allāh that you may succeed.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے نئے چاند کے بارے میں دریافت کرتے ہیں (کہ گھٹتا بڑھتا کیوں ہے) کہہ دو کہ وہ لوگوں کے (کاموں کی میعادیں) اور حج کے وقت معلوم ہونے کا ذریعہ ہے اور نیکی اس بات میں نہیں کہ (احرام کی حالت میں) گھروں میں ان کے پچھواڑے کی طرف سے آؤ۔ بلکہ نیکوکار وہ ہے جو پرہیز گار ہو اور گھروں میں ان کے دروازوں سے آیا کرو اور خدا سے ڈرتے رہو تاکہ نجات پاؤ
+
+[Open on Quran.com](https://quran.com/2/189)
+
+#### 3:187 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ أَخَذَ ٱللَّهُ مِيثَـٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ
+
+</div>
+
+**Word in this verse:** `ظُهُورِهِمْ` — their backs
+
+**English (Sahih International):** And [mention, O Muḥammad], when Allāh took a covenant from those who were given the Scripture, [saying], "You must make it clear [i.e., explain it] to the people and not conceal it." But they threw it away behind their backs and exchanged it for a small price. And wretched is that which they purchased.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب خدا نے ان لوگوں سے جن کو کتاب عنایت کی گئی تھی اقرار کرلیا کہ (جو کچھ اس میں لکھا ہے) اسے صاف صاف بیان کرتے رہنا۔ اور اس (کی کسی بات) کو نہ چھپانا تو انہں نے اس کو پس پشت پھینک دیا اور اس کے بدلے تھوڑی سی قیمت حاصل کی۔ یہ جو کچھ حاصل کرتے ہیں برا ہے
+
+[Open on Quran.com](https://quran.com/3/187)
+
+#### 6:31 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمُ ٱلسَّاعَةُ بَغْتَةً قَالُوا۟ يَـٰحَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَآءَ مَا يَزِرُونَ
+
+</div>
+
+**Word in this verse:** `ظُهُورِهِمْ ۚ` — their backs
+
+**English (Sahih International):** Those will have lost who deny the meeting with Allāh, until when the Hour [of resurrection] comes upon them unexpectedly, they will say, "Oh, [how great is] our regret over what we neglected concerning it [i.e., the Hour]," while they bear their burdens [i.e., sins] on their backs. Unquestionably, evil is that which they bear.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے خدا کے روبرو حاضر ہونے کو جھوٹ سمجھا وہ گھاٹے میں آگئے۔ یہاں تک کہ جب ان پر قیامت ناگہاں آموجود ہوگی تو بول اٹھیں گے کہ (ہائے) اس تقصیر پر افسوس ہے جو ہم نے قیامت کے بارے میں کی۔ اور وہ اپنے (اعمال کے) بوجھ اپنی پیٹھوں پر اٹھائے ہوئے ہوں گے۔ دیکھو جو بوجھ یہ اٹھا رہے ہیں بہت برا ہے
+
+[Open on Quran.com](https://quran.com/6/31)
+
+#### 6:94 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَـٰكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُم مَّا خَوَّلْنَـٰكُمْ وَرَآءَ ظُهُورِكُمْ ۖ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَـٰٓؤُا۟ ۚ لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ
+
+</div>
+
+**Word in this verse:** `ظُهُورِكُمْ ۖ` — your backs
+
+**English (Sahih International):** [It will be said to them], "And you have certainly come to Us alone [i.e., individually] as We created you the first time, and you have left whatever We bestowed upon you behind you. And We do not see with you your 'intercessors' which you claimed that they were among you associates [of Allāh]. It has [all] been severed between you, and lost from you is what you used to claim."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جیسا ہم نے تم کو پہلی دفعہ پیدا کیا تھا ایسا ہی آج اکیلے اکیلے ہمارے پاس آئے اور جو (مال ومتاع) ہم نے تمہیں عطا فرمایا تھا وہ سب اپنی پیٹھ پیچھے چھوڑ آئے اور ہم تمہارے ساتھ تمہارے سفارشیوں کو بھی نہیں دیکھتے جن کی نسبت تم خیال کرتے تھے کہ وہ تمہارے (شفیع اور ہمارے) شریک ہیں۔ (آج) تمہارے آپس کے سب تعلقات منقطع ہوگئے اور جو دعوے تم کیا کرتے تھے سب جاتے رہے
+
+[Open on Quran.com](https://quran.com/6/94)
+
+#### 6:138 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ هَـٰذِهِۦٓ أَنْعَـٰمٌ وَحَرْثٌ حِجْرٌ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَـٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَـٰمٌ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ ۚ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ
+
+</div>
+
+**Word in this verse:** `ظُهُورُهَا` — (are) their backs
+
+**English (Sahih International):** And they say, "These animals and crops are forbidden; no one may eat from them except whom we will," by their claim. And there are those [camels] whose backs are forbidden [by them] and those upon which the name of Allāh is not mentioned - [all of this] an invention of untruth about Him. He will punish them for what they were inventing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے خیال سے یہ بھی کہتے ہیں کہ یہ چارپائے اور کھیتی منع ہے اسے اس شخص کے سوا جسے ہم چاہیں کوئی نہ کھائے اور (بعض) چارپائے ایسے ہیں کہ ان کی پیٹ پر چڑھنا منع کر دیا گیا ہے اور بعض مویشی ایسے ہیں جن پر (ذبح کرتے وقت) خدا کا نام نہیں لیتے سب خدا پر جھوٹ ہے وہ عنقریب ان کو ان کے جھوٹ کا بدلہ دے گا
+
+[Open on Quran.com](https://quran.com/6/138)
+
+#### 6:146 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ ۖ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ ۚ ذَٰلِكَ جَزَيْنَـٰهُم بِبَغْيِهِمْ ۖ وَإِنَّا لَصَـٰدِقُونَ
+
+</div>
+
+**Word in this verse:** `ظُهُورُهُمَآ` — their backs
+
+**English (Sahih International):** And to those who are Jews We prohibited every animal of uncloven hoof; and of the cattle and the sheep We prohibited to them their fat, except what adheres to their backs or the entrails or what is joined with bone. [By] that We repaid them for their transgression. And indeed, We are truthful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہودیوں پر ہم نے سب ناخن والے جانور حرام کر دئیے تھے اور گایوں اور بکریوں سے ان کی چربی حرام کر دی تھی سوا اس کے جو ان کی پیٹھ پر لگی ہو یا اوجھڑی میں ہو یا ہڈی میں ملی ہو یہ سزا ہم نے ان کو ان کی شرارت کے سبب دی تھی اور ہم تو سچ کہنے والے ہیں
+
+[Open on Quran.com](https://quran.com/6/146)
+
+#### 6:151 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا ۖ وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُم مِّنْ إِمْلَـٰقٍ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `ظَهَرَ` — (is) apparent
+
+**English (Sahih International):** Say, "Come, I will recite what your Lord has prohibited to you. [He commands] that you not associate anything with Him, and to parents, good treatment, and do not kill your children out of poverty; We will provide for you and them. And do not approach immoralities - what is apparent of them and what is concealed. And do not kill the soul which Allāh has forbidden [to be killed] except by [legal] right. This has He instructed you that you may use reason."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ کہ (لوگو) آؤ میں تمہیں وہ چیزیں پڑھ کر سناؤں جو تمہارے پروردگار نے تم پر حرام کر دی ہیں (ان کی نسبت اس نے اس طرح ارشاد فرمایا ہے) کہ کسی چیز کو خدا کا شریک نہ بنانا اور ماں باپ (سے بدسلوکی نہ کرنا بلکہ) سلوک کرتے رہنا اور ناداری (کے اندیشے) سے اپنی اولاد کو قتل نہ کرنا کیونکہ تم کو اور ان کو ہم ہی رزق دیتے ہیں اور بےحیائی کے کام ظاہر ہوں یا پوشیدہ ان کے پاس نہ پھٹکنا اور کسی جان (والے) کو جس کے قتل کو خدا نے حرام کر دیا ہے قتل نہ کرنا مگر جائز طور پر (یعنی جس کا شریعت حکم دے) ان باتوں کا وہ تمہیں ارشاد فرماتا ہے تاکہ تم سمجھو
+
+[Open on Quran.com](https://quran.com/6/151)
+
+#### 7:33 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ إِنَّمَا حَرَّمَ رَبِّىَ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَٱلْإِثْمَ وَٱلْبَغْىَ بِغَيْرِ ٱلْحَقِّ وَأَن تُشْرِكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًا وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `ظَهَرَ` — (is) apparent
+
+**English (Sahih International):** Say, "My Lord has only forbidden immoralities - what is apparent of them and what is concealed - and sin, and oppression without right, and that you associate with Allāh that for which He has not sent down authority, and that you say about Allāh that which you do not know."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میرے پروردگار نے تو بےحیائی کی باتوں کو ظاہر ہوں یا پوشیدہ اور گناہ کو اور ناحق زیادتی کرنے کو حرام کیا ہے۔ اور اس کو بھی کہ تم کسی کو خدا کا شریک بناؤ جس کی اس نے کوئی سند نازل نہیں کی اور اس کو بھی کہ خدا کے بارے میں ایسی باتیں کہو جن کا تمہیں کچھ علم نہیں
+
+[Open on Quran.com](https://quran.com/7/33)
+
+#### 7:172 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ أَخَذَ رَبُّكَ مِنۢ بَنِىٓ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰٓ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا۟ بَلَىٰ ۛ شَهِدْنَآ ۛ أَن تَقُولُوا۟ يَوْمَ ٱلْقِيَـٰمَةِ إِنَّا كُنَّا عَنْ هَـٰذَا غَـٰفِلِينَ
+
+</div>
+
+**Word in this verse:** `ظُهُورِهِمْ` — their loins 
+
+**English (Sahih International):** And [mention] when your Lord took from the children of Adam - from their loins - their descendants and made them testify of themselves, [saying to them], "Am I not your Lord?" They said, "Yes, we have testified." [This] - lest you should say on the Day of Resurrection, "Indeed, we were of this unaware."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تمہارے پروردگار نے بنی آدم سے یعنی ان کی پیٹھوں سے ان کی اولاد نکالی تو ان سے خود ان کے مقابلے میں اقرار کرا لیا (یعنی ان سے پوچھا کہ) کیا تمہارا پروردگار نہیں ہوں۔ وہ کہنے لگے کیوں نہیں ہم گواہ ہیں (کہ تو ہمارا پروردگار ہے)۔ یہ اقرار اس لیے کرایا تھا کہ قیامت کے دن (کہیں یوں نہ) کہنے لگو کہ ہم کو تو اس کی خبر ہی نہ تھی
+
+[Open on Quran.com](https://quran.com/7/172)
+
+_…and **14** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

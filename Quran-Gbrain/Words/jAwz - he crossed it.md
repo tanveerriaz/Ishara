@@ -1,0 +1,95 @@
+---
+type: word
+lemma: "جاوَزَ"
+slug: "jAwz - he crossed it"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# jAwz - he crossed it
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[jwz - passing making something]]
+
+### Meaning
+**he crossed it** · Lemma **جاوَزَ**
+
+### Surahs (4)
+- [[002 Al-Baqarah]]
+- [[007 Al-Araf]]
+- [[010 Yunus]]
+- [[018 Al-Kahf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:249 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ
+
+</div>
+
+**Word in this verse:** `جَاوَزَهُۥ` — he crossed it
+
+**English (Sahih International):** And when Saul went forth with the soldiers, he said, "Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand." But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, "There is no power for us today against Goliath and his soldiers." But those who were certain that they would meet Allāh said, "How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient."
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض جب طالوت فوجیں لے کر روانہ ہوا تو اس نے (ان سے) کہا کہ خدا ایک نہر سے تمہاری آزمائش کرنے والا ہے۔ جو شخص اس میں سے پانی پی لے گا (اس کی نسبت تصور کیا جائے گا کہ) وہ میرا نہیں۔ اور جو نہ پئے گا وہ (سمجھا جائے گا کہ) میرا ہے۔ ہاں اگر کوئی ہاتھ سے چلو بھر پانی پی لے (تو خیر۔ جب وہ لوگ نہر پر پہنچے) تو چند شخصوں کے سوا سب نے پانی پی لیا۔ پھر جب طالوت اور مومن لوگ جو اس کے ساتھ تھے نہر کے پار ہوگئے۔ تو کہنے لگے کہ آج ہم میں جالوت اور اس کے لشکر سے مقابلہ کرنے کی طاقت نہیں۔ جو لوگ یقین رکھتے تھے کہ ان کو خدا کے روبرو حاضر ہونا ہے وہ کہنے لگے کہ بسااوقات تھوڑی سی جماعت نے خدا کے حکم سے بڑی جماعت پر فتح حاصل کی ہے اور خدا استقلال رکھنے والوں کے ساتھ ہے
+
+[Open on Quran.com](https://quran.com/2/249)
+
+#### 7:138 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَـٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍ لَّهُمْ ۚ قَالُوا۟ يَـٰمُوسَى ٱجْعَل لَّنَآ إِلَـٰهًا كَمَا لَهُمْ ءَالِهَةٌ ۚ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ
+
+</div>
+
+**Word in this verse:** `وَجَـٰوَزْنَا` — And We led across
+
+**English (Sahih International):** And We took the Children of Israel across the sea; then they came upon a people intent in devotion to [some] idols of theirs. They [the Children of Israel] said, "O Moses, make for us a god just as they have gods." He said, "Indeed, you are a people behaving ignorantly.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بنی اسرائیل کو دریا کے پار اتارا تو وہ ایسے لوگوں کے پاس جا پہنچے جو اپنے بتوں (کی عبادت) کے لیے بیٹھے رہتے تھے۔ (بنی اسرائیل) کہنے لگے کہ موسیٰ جیسے ان لوگوں کے معبود ہیں۔ ہمارے لیے بھی ایک معبود بنا دو۔ موسیٰ نے کہا کہ تم بڑے ہی جاہل لوگ ہو
+
+[Open on Quran.com](https://quran.com/7/138)
+
+#### 10:90 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَجَـٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا ۖ حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
+
+</div>
+
+**Word in this verse:** `۞ وَجَـٰوَزْنَا` — And We took across
+
+**English (Sahih International):** And We took the Children of Israel across the sea, and Pharaoh and his soldiers pursued them in tyranny and enmity until, when drowning overtook him, he said, "I believe that there is no deity except that in whom the Children of Israel believe, and I am of the Muslims."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بنی اسرائیل کو دریا سے پار کردیا تو فرعون اور اس کے لشکر نے سرکشی اور تعدی سے ان کا تعاقب کیا۔ یہاں تک کہ جب اس کو غرق (کے عذاب) نے آپکڑا تو کہنے لگا کہ میں ایمان لایا کہ جس (خدا) پر بنی اسرائیل ایمان لائے ہیں اس کے سوا کوئی معبود نہیں اور میں فرمانبرداروں میں ہوں
+
+[Open on Quran.com](https://quran.com/10/90)
+
+#### 18:62 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَـٰذَا نَصَبًا
+
+</div>
+
+**Word in this verse:** `جَاوَزَا` — they had passed beyond
+
+**English (Sahih International):** So when they had passed beyond it, [Moses] said to his boy, "Bring us our morning meal. We have certainly suffered in this, our journey, [much] fatigue."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب آگے چلے تو (موسیٰ نے) اپنے شاگرد سے کہا کہ ہمارے لئے کھانا لاؤ۔ اس سفر سے ہم کو بہت تکان ہوگئی ہے
+
+[Open on Quran.com](https://quran.com/18/62)
+

@@ -1,0 +1,107 @@
+---
+type: surah
+surah: 60
+tags: [surah]
+---
+
+# 060 Al-Mumtahanah (الممتحنة)
+
+She that is to be examined · 13 ayahs
+
+**Read full surah:** [quran.com/60](https://quran.com/60) (Arabic + Sahih International + more)
+
+> [[Welcome]] · [[Word Index]] · [[Surah Index]]
+
+## Words in this surah (graph)
+
+- [[mwdp - love]] — `مَوَدَّة` · love
+- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
+- [[qAl - say]] — `قالَ` · say
+- [[sbyl - way]] — `سَبِيل` · way
+- [[nfE - benefit]] — `نَفَعَ` · benefit
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[qbr - graves]] — `قَبْر` · graves
+- [[>xfy - you conceal]] — `أُخْفِيَ` · you conceal
+- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[Dl - lost]] — `ضَلَّ` · lost
+- [[qwl - speech]] — `قَوْل` · speech
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[yd - hands]] — `يَد` · hands
+- [[gny - free need]] — `غَنِيّ` · free need
+- [[s>l - ask]] — `سَأَلَ` · ask
+- [[Hsnp - good]] — `حَسَنَة` · good
+- [[bsT - extends]] — `بَسَطَ` · extends
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[>Hbb - love]] — `أَحْبَبْ` · love
+- [[ZAhr - apparent]] — `ظاهِر` · apparent
+- [[jA' - came them]] — `جاءَ` · came them
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[nkH - marry]] — `نَكَحَ` · marry
+- [[Elm - know]] — `عَلِمَ` · know
+- [[>$rk - associate]] — `أَشْرَكَ` · associate
+
+## Roots
+
+- [[$rk - sharing partnership]]
+- [[$y> - thing]]
+- [[*hb - gold]]
+- [[>bd - abad]]
+- [[>bw - abw]]
+- [[>jr - ajr]]
+- [[>mn - amn]]
+- [[>sw - asw]]
+- [[>ty - give]]
+- [[>x* - take]]
+- [[>xr - akhr]]
+- [[>yy - ism]]
+- [[Dll - astray]]
+- [[ESm - tie cord]]
+- [[ESy - disobey]]
+- [[Ebd - worship]]
+- [[Edw - enemy]]
+- [[Elm - knowledge]]
+- [[Eln - make something open]]
+- [[Eml - eml]]
+- [[Eqb - heel human foot]]
+- [[Erf - erf]]
+- [[Esy - esy]]
+- [[Ezz - all-mighty]]
+- [[Hbb - love]]
+- [[Hkm - prevent restrain someone]]
+- [[Hll - lawful]]
+- [[Hmd - praise]]
+- [[Hqq - established as true]]
+- [[Hsn - good]]
+- [[SHb - lord]]
+- [[Syr - syr]]
+- [[Zhr - back]]
+- [[Zlm - put something wrong]]
+- [[allah - God]]
+- [[bSr - bsr]]
+- [[bdw - you reveal]]
+- [[bgD - bgd]]
+- [[bgy - seek desire something]]
+- [[bht - bht]]
+- [[br> - bra]]
+- [[brr - brr]]
+- [[bsT - bst]]
+- [[byE - exchange property]]
+- [[byn - clear]]
+- [[dwn - besides]]
+- [[dwr - house]]
+- [[dyn - judgment]]
+- [[fEl - deed]]
+- [[fSl - separate]]
+
+## Sample (ayah 1)
+
+<div dir="rtl" style="font-size: 1.4rem; text-align: right;">
+
+ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَقَدْ كَفَرُوا۟ بِمَا جَآءَكُم مِّنَ ٱلْحَقِّ يُخْرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمْ ۙ أَن تُؤْمِنُوا۟ بِٱللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَـٰدًا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى ۚ تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَأَنَا۠ أَعْلَمُ بِمَآ أَخْفَيْتُمْ وَمَآ أَعْلَنتُمْ ۚ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
+
+</div>
+
+**Sahih International:** O you who have believed, do not take My enemies and your enemies as allies, extending to them affection while they have disbelieved in what came to you of the truth, having driven out the Prophet and yourselves [only] because you believe in Allāh, your Lord. If you have come out for jihād [i.e., fighting or striving] in My cause and seeking means to My approval, [take them not as friends]. You confide to them affection [i.e., instruction], but I am most knowing of what you have concealed and what you have declared. And whoever does it among you has certainly strayed from the soundness of the way.
+
+**Yusuf Ali:** O ye who believe! Take not my enemies and yours as friends (or protectors),- offering them (your) love, even though they have rejected the Truth that has come to you, and have (on the contrary) driven out the Prophet and yourselves (from your homes), (simply) because ye believe in Allah your Lord! If ye have come out to strive in My Way and to seek My Good Pleasure, (take them not as friends), holding secret converse of love (and friendship) with them: for I know full well all that ye conceal and all that ye reveal. And any of you that does this has strayed from the Straight Path.
+

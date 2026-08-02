@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "ظَلَمَ"
+slug: "Zlm - wronged"
+surah_count: 40
+ayah_count: 114
+tags: [word, meaning]
+---
+
+# Zlm - wronged
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Zlm - put something wrong]]
+
+### Meaning
+**wronged** · Lemma **ظَلَمَ**
+
+### Surahs (40)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[009 At-Tawbah]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[019 Maryam]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[022 Al-Hajj]]
+- [[023 Al-Muminun]]
+- [[025 Al-Furqan]]
+- [[026 Ash-Shuara]]
+- [[027 An-Naml]]
+- [[028 Al-Qasas]]
+- [[029 Al-Ankabut]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:54 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
+
+</div>
+
+**Word in this verse:** `ظَلَمْتُمْ` — [you] have wronged
+
+**English (Sahih International):** And [recall] when Moses said to his people, "O my people, indeed you have wronged yourselves by your taking of the calf [for worship]. So repent to your Creator and kill yourselves [i.e., the guilty among you]. That is best for [all of] you in the sight of your Creator." Then He accepted your repentance; indeed, He is the Accepting of Repentance, the Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لوگوں سے کہا کہ بھائیو، تم نے بچھڑے کو (معبود) ٹھہرانے میں (بڑا) ظلم کیا ہے، تو اپنے پیدا کرنے والے کے آگے توبہ کرو اور اپنے تئیں ہلاک کر ڈالو۔ تمہارے خالق کے نزدیک تمہارے حق میں یہی بہتر ہے۔ پھر اس نے تمہارا قصور معاف کر دیا۔ وہ بے شک معاف کرنے والا (اور) صاحبِ رحم ہے
+
+[Open on Quran.com](https://quran.com/2/54)
+
+#### 2:57 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ ۖ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+
+</div>
+
+**Word in this verse:** `ظَلَمُونَا` — they wronged Us
+
+**English (Sahih International):** And We shaded you with clouds and sent down to you manna and quails, [saying], "Eat from the good things with which We have provided you." And they wronged Us not - but they were [only] wronging themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بادل کا تم پر سایہ کئے رکھا اور (تمہارے لیے) من و سلویٰ اتارتے رہے کہ جو پاکیزہ چیزیں ہم نے تم کو عطا فرمائی ہیں، ان کو کھاؤ (پیو) مگر تمہارے بزرگوں نے ان نعمتوں کی کچھ قدر نہ جانی (اور) وہ ہمارا کچھ نہیں بگاڑتے تھے بلکہ اپنا ہی نقصان کرتے تھے
+
+[Open on Quran.com](https://quran.com/2/57)
+
+#### 2:59 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَنزَلْنَا عَلَى ٱلَّذِينَ ظَلَمُوا۟ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ
+
+</div>
+
+**Word in this verse:** `ظَلَمُوا۟` — wronged
+
+**English (Sahih International):** But those who wronged changed [those words] to a statement other than that which had been said to them, so We sent down upon those who wronged a punishment [i.e., plague] from the sky because they were defiantly disobeying.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جو ظالم تھے، انہوں نے اس لفظ کو، جس کا ان کو حکم دیا تھا، بدل کر اس کی جگہ اور لفظ کہنا شروع کیا، پس ہم نے (ان) ظالموں پر آسمان سے عذاب نازل کیا، کیونکہ نافرمانیاں کئے جاتے تھے
+
+[Open on Quran.com](https://quran.com/2/59)
+
+#### 2:150 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ
+
+</div>
+
+**Word in this verse:** `ظَلَمُوا۟` — wronged
+
+**English (Sahih International):** And from wherever you go out [for prayer], turn your face toward al-Masjid al-Ḥarām. And wherever you [believers] may be, turn your faces toward it in order that the people will not have any argument against you, except for those of them who commit wrong; so fear them not but fear Me. And [it is] so I may complete My favor upon you and that you may be guided,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم جہاں سے نکلو، مسجدِ محترم کی طرف منہ (کرکے نماز پڑھا) کرو۔ اور مسلمانو، تم جہاں ہوا کرو، اسی (مسجد) کی طرف رخ کیا کرو۔ (یہ تاکید) اس لیے (کی گئی ہے) کہ لوگ تم کو کسی طرح کا الزام نہ دے سکیں۔ مگر ان میں سے جو ظالم ہیں، (وہ الزام دیں تو دیں) سو ان سے مت ڈرنا اور مجھی سے ڈرتے رہنا۔ اور یہ بھی مقصود ہے کہ تم کو اپنی تمام نعمتیں بخشوں اور یہ بھی کہ تم راہِ راست پر چلو
+
+[Open on Quran.com](https://quran.com/2/150)
+
+#### 2:165 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ ۖ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّا لِّلَّهِ ۗ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ
+
+</div>
+
+**Word in this verse:** `ظَلَمُوٓا۟` — wronged
+
+**English (Sahih International):** And [yet], among the people are those who take other than Allāh as equals [to Him]. They love them as they [should] love Allāh. But those who believe are stronger in love for Allāh. And if only they who have wronged would consider [that] when they see the punishment, [they will be certain] that all power belongs to Allāh and that Allāh is severe in punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض لوگ ایسے ہیں جو غیر خدا کو شریک (خدا) بناتے اور ان سے خدا کی سی محبت کرتے ہیں۔ لیکن جو ایمان والے ہیں وہ تو خدا ہی کے سب سے زیادہ دوستدار ہیں۔ اور اے کاش ظالم لوگ جو بات عذاب کے وقت دیکھیں گے اب دیکھ لیتے کہ سب طرح کی طاقت خدا ہی کو ہے۔ اور یہ کہ خدا سخت عذاب کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/2/165)
+
+#### 2:231 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِّتَعْتَدُوا۟ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ وَلَا تَتَّخِذُوٓا۟ ءَايَـٰتِ ٱللَّهِ هُزُوًا ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُم مِّنَ ٱلْكِتَـٰبِ وَٱلْحِكْمَةِ يَعِظُكُم بِهِۦ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `ظَلَمَ` — he wronged
+
+**English (Sahih International):** And when you divorce women and they have [nearly] fulfilled their term, either retain them according to acceptable terms or release them according to acceptable terms, and do not keep them, intending harm, to transgress [against them]. And whoever does that has certainly wronged himself. And do not take the verses of Allāh in jest. And remember the favor of Allāh upon you and what has been revealed to you of the Book [i.e., the Qur’ān] and wisdom [i.e., the Prophet's sunnah] by which He instructs you. And fear Allāh and know that Allāh is Knowing of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم عورتوں کو (دو دفعہ) طلاق دے چکو اور ان کی عدت پوری ہوجائے تو انہیں یا تو حسن سلوک سے نکاح میں رہنے دو یا بطریق شائستہ رخصت کردو اور اس نیت سے ان کو نکاح میں نہ رہنے دینا چاہئے کہ انہیں تکلیف دو اور ان پر زیادتی کرو۔ اور جو ایسا کرے گا وہ اپنا ہی نقصان کرے گا اور خدا کے احکام کو ہنسی (اور کھیل) نہ بناؤ اور خدا نے تم کو جو نعمتیں بخشی ہیں اور تم پر جو کتاب اور دانائی کی باتیں نازل کی ہیں جن سے وہ تمہیں نصیحت فرماتا ہے ان کو یاد کرو۔ اور خدا سے ڈرتے رہو اور جان رکھوکہ خدا ہر چیز سے واقف ہے
+
+[Open on Quran.com](https://quran.com/2/231)
+
+#### 2:272 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ لَّيْسَ عَلَيْكَ هُدَىٰهُمْ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَلِأَنفُسِكُمْ ۚ وَمَا تُنفِقُونَ إِلَّا ٱبْتِغَآءَ وَجْهِ ٱللَّهِ ۚ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
+
+</div>
+
+**Word in this verse:** `تُظْلَمُونَ` — be wronged
+
+**English (Sahih International):** Not upon you, [O Muḥammad], is [responsibility for] their guidance, but Allāh guides whom He wills. And whatever good you [believers] spend is for yourselves, and you do not spend except seeking the face [i.e., approval] of Allāh. And whatever you spend of good - it will be fully repaid to you, and you will not be wronged.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) تم ان لوگوں کی ہدایت کے ذمہ دار نہیں ہو بلکہ خدا ہی جس کو چاہتا ہے ہدایت بخشتا ہے۔ اور (مومنو) تم جو مال خرچ کرو گے تو اس کا فائدہ تمہیں کو ہے اور تم جو خرچ کرو گے خدا کی خوشنودی کے لئے کرو گے۔ اور جو مال تم خرچ کرو گے وہ تمہیں پورا پورا دے دیا جائے گا اور تمہارا کچھ نقصان نہیں کیا جائے گا،
+
+[Open on Quran.com](https://quran.com/2/272)
+
+#### 2:279 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍ مِّنَ ٱللَّهِ وَرَسُولِهِۦ ۖ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ
+
+</div>
+
+**Word in this verse:** `تَظْلِمُونَ` — wrong
+
+**English (Sahih International):** And if you do not, then be informed of a war [against you] from Allāh and His Messenger. But if you repent, you may have your principal - [thus] you do no wrong, nor are you wronged.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر ایسا نہ کرو گے تو خبردار ہوجاؤ (کہ تم) خدا اور رسول سے جنگ کرنے کے لئے (تیار ہوتے ہو) اور اگر توبہ کرلو گے (اور سود چھوڑ دو گے) تو تم کو اپنی اصل رقم لینے کا حق ہے جس میں نہ اوروں کا نقصان اور تمہارا نقصان
+
+[Open on Quran.com](https://quran.com/2/279)
+
+#### 2:281 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱتَّقُوا۟ يَوْمًا تُرْجَعُونَ فِيهِ إِلَى ٱللَّهِ ۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
+
+</div>
+
+**Word in this verse:** `يُظْلَمُونَ` — will be wronged
+
+**English (Sahih International):** And fear a Day when you will be returned to Allāh. Then every soul will be compensated for what it earned, and they will not be wronged [i.e., treated unjustly].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس دن سے ڈرو جب کہ تم خدا کے حضور میں لوٹ کر جاؤ گے اور ہر شخص اپنے اعمال کا پورا پورا بدلہ پائے گا۔ اور کسی کا کچھ نقصان نہ ہوگا
+
+[Open on Quran.com](https://quran.com/2/281)
+
+#### 3:25 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَكَيْفَ إِذَا جَمَعْنَـٰهُمْ لِيَوْمٍ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
+
+</div>
+
+**Word in this verse:** `يُظْلَمُونَ` — be wronged
+
+**English (Sahih International):** So how will it be when We assemble them for a Day about which there is no doubt? And each soul will be compensated [in full for] what it earned, and they will not be wronged.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اس وقت کیا حال ہوگا جب ہم ان کو جمع کریں گے (یعنی) اس روز جس (کے آنے) میں کچھ بھی شک نہیں اور ہر نفس اپنے اعمال کا پورا پورا بدلہ پائے گا اور ان پر ظلم نہیں کیا جائے گا
+
+[Open on Quran.com](https://quran.com/3/25)
+
+_…and **104** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

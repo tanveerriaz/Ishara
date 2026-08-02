@@ -1,0 +1,163 @@
+---
+type: word
+lemma: "أَظْهَرَ"
+slug: ">Zhr - manifest it"
+surah_count: 8
+ayah_count: 8
+tags: [word, meaning]
+---
+
+# >Zhr - manifest it
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Zhr - back]]
+
+### Meaning
+**manifest it** · Lemma **أَظْهَرَ**
+
+### Surahs (8)
+- [[009 At-Tawbah]]
+- [[028 Al-Qasas]]
+- [[030 Ar-Rum]]
+- [[040 Ghafir]]
+- [[048 Al-Fath]]
+- [[061 As-Saf]]
+- [[066 At-Tahrim]]
+- [[072 Al-Jinn]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 9:33 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ
+
+</div>
+
+**Word in this verse:** `لِيُظْهِرَهُۥ` — to manifest it
+
+**English (Sahih International):** It is He who has sent His Messenger with guidance and the religion of truth to manifest it over all religion, although they who associate others with Allāh dislike it.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے اپنے پیغمبر کو ہدایت اور دین حق دے کر بھیجا تاکہ اس (دین) کو (دنیا کے) تمام دینوں پر غالب کرے۔ اگرچہ کافر ناخوش ہی ہوں
+
+[Open on Quran.com](https://quran.com/9/33)
+
+#### 28:48 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوا۟ لَوْلَآ أُوتِىَ مِثْلَ مَآ أُوتِىَ مُوسَىٰٓ ۚ أَوَلَمْ يَكْفُرُوا۟ بِمَآ أُوتِىَ مُوسَىٰ مِن قَبْلُ ۖ قَالُوا۟ سِحْرَانِ تَظَـٰهَرَا وَقَالُوٓا۟ إِنَّا بِكُلٍّ كَـٰفِرُونَ
+
+</div>
+
+**Word in this verse:** `تَظَـٰهَرَا` — supporting each other
+
+**English (Sahih International):** But when the truth came to them from Us, they said, "Why was he not given like that which was given to Moses?" Did they not disbelieve in that which was given to Moses before? They said, "[They are but] two works of magic supporting each other, and indeed we are, in both, disbelievers."
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب اُن کے پاس ہماری طرف سے حق آپہنچا تو کہنے لگے کہ جیسی (نشانیاں) موسٰی کو ملی تھیں ویسی اس کو کیوں نہیں ملیں۔ کیا جو (نشانیاں) پہلے موسٰی کو دی گئی تھیں اُنہوں نے اُن سے کفر نہیں کیا۔ کہنے لگے کہ دونوں جادوگر ہیں ایک دوسرے کے موافق۔ اور بولے کہ ہم سب سے منکر ہیں
+
+[Open on Quran.com](https://quran.com/28/48)
+
+#### 30:18 · [[030 Ar-Rum]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَهُ ٱلْحَمْدُ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ
+
+</div>
+
+**Word in this verse:** `تُظْهِرُونَ` — you are at noon
+
+**English (Sahih International):** And to Him is [due all] praise throughout the heavens and the earth. And [exalted is He] at night and when you are at noon.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور آسمانوں اور زمین میں اُسی کی تعریف ہے۔ اور تیسرے پہر بھی اور جب دوپہر ہو (اُس وقت بھی نماز پڑھا کرو)
+
+[Open on Quran.com](https://quran.com/30/18)
+
+#### 40:26 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ فِرْعَوْنُ ذَرُونِىٓ أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُۥٓ ۖ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ دِينَكُمْ أَوْ أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ
+
+</div>
+
+**Word in this verse:** `يُظْهِرَ` — he may cause to appear
+
+**English (Sahih International):** And Pharaoh said, "Let me kill Moses and let him call upon his Lord. Indeed, I fear that he will change your religion or that he will cause corruption in the land."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور فرعون بولا کہ مجھے چھوڑو کہ موسیٰ کو قتل کردوں اور وہ اپنے پروردگار کو بلالے۔ مجھے ڈر ہے کہ وہ (کہیں) تمہارے دین کو نہ بدل دے یا ملک میں فساد (نہ) پیدا کردے
+
+[Open on Quran.com](https://quran.com/40/26)
+
+#### 48:28 · [[048 Al-Fath]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ ۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا
+
+</div>
+
+**Word in this verse:** `لِيُظْهِرَهُۥ` — that He (may) make it prevail
+
+**English (Sahih International):** It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion. And sufficient is Allāh as Witness.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے اپنے پیغمبر کو ہدایت (کی کتاب) اور دین حق دے کر بھیجا تاکہ اس کو تمام دینوں پر غالب کرے۔ اور حق ظاہر کرنے کے لئے خدا ہی کافی ہے
+
+[Open on Quran.com](https://quran.com/48/28)
+
+#### 61:9 · [[061 As-Saf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ
+
+</div>
+
+**Word in this verse:** `لِيُظْهِرَهُۥ` — to make it prevail
+
+**English (Sahih International):** It is He who sent His Messenger with guidance and the religion of truth to manifest it over all religion, although those who associate others with Allāh dislike it.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے اپنے پیغمبر کو ہدایت اور دین حق دے کر بھیجا تاکہ اسے اور سب دینوں پر غالب کرے خواہ مشرکوں کو برا ہی لگے
+
+[Open on Quran.com](https://quran.com/61/9)
+
+#### 66:3 · [[066 At-Tahrim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍ ۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ أَنۢبَأَكَ هَـٰذَا ۖ قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ
+
+</div>
+
+**Word in this verse:** `وَأَظْهَرَهُ` — and made it apparent
+
+**English (Sahih International):** And [remember] when the Prophet confided to one of his wives a statement; and when she informed [another] of it and Allāh showed it to him, he made known part of it and ignored a part. And when he informed her about it, she said, "Who told you this?" He said, "I was informed by the Knowing, the Aware."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (یاد کرو) جب پیغمبر نے اپنی ایک بی بی سے ایک بھید کی بات کہی تو (اس نے دوسری کو بتا دی)۔ جب اس نے اس کو افشاء کیا اور خدا نے اس (حال) سے پیغمبر کو آگاہ کردیا تو پیغمبر نے ان (بی بی کو وہ بات) کچھ تو بتائی اور کچھ نہ بتائی۔ تو جب وہ ان کو جتائی تو پوچھنے لگیں کہ آپ کو کس نے بتایا؟ انہوں نے کہا کہ مجھے اس نے بتایا ہے جو جاننے والا خبردار ہے
+
+[Open on Quran.com](https://quran.com/66/3)
+
+#### 72:26 · [[072 Al-Jinn]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+عَـٰلِمُ ٱلْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِۦٓ أَحَدًا
+
+</div>
+
+**Word in this verse:** `يُظْهِرُ` — He reveals
+
+**English (Sahih International):** [He is] Knower of the unseen, and He does not disclose His [knowledge of the] unseen to anyone
+
+**Urdu (Fatah Muhammad Jalandhari):** غیب (کی بات) جاننے والا ہے اور کسی پر اپنے غیب کو ظاہر نہیں کرتا
+
+[Open on Quran.com](https://quran.com/72/26)
+

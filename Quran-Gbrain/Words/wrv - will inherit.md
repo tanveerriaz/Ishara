@@ -1,0 +1,195 @@
+---
+type: word
+lemma: "وَرِثَ"
+slug: "wrv - will inherit"
+surah_count: 6
+ayah_count: 12
+tags: [word, meaning]
+---
+
+# wrv - will inherit
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[wrv - receiving property]]
+
+### Meaning
+**will inherit** · Lemma **وَرِثَ**
+
+### Surahs (6)
+- [[004 An-Nisa]]
+- [[007 Al-Araf]]
+- [[019 Maryam]]
+- [[021 Al-Anbya]]
+- [[023 Al-Muminun]]
+- [[027 An-Naml]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:11 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَـٰدِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۚ فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ ۚ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ ۚ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ ۚ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ۗ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا ۚ فَرِيضَةً مِّنَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا
+
+</div>
+
+**Word in this verse:** `وَوَرِثَهُۥٓ` — and inherit[ed] him
+
+**English (Sahih International):** Allāh instructs you concerning your children [i.e., their portions of inheritance]: for the male, what is equal to the share of two females. But if there are [only] daughters, two or more, for them is two thirds of one's estate. And if there is only one, for her is half. And for one's parents, to each one of them is a sixth of his estate if he left children. But if he had no children and the parents [alone] inherit from him, then for his mother is one third. And if he had brothers [and/or sisters], for his mother is a sixth, after any bequest he [may have] made or debt. Your parents or your children - you know not which of them are nearest to you in benefit. [These shares are] an obligation [imposed] by Allāh. Indeed, Allāh is ever Knowing and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری اولاد کے بارے میں تم کو ارشاد فرماتا ہے کہ ایک لڑکے کا حصہ دو لڑکیوں کے حصے کے برابر ہے۔ اور اگر اولاد میت صرف لڑکیاں ہی ہوں (یعنی دو یا) دو سے زیادہ تو کل ترکے میں ان کادو تہائی۔ اور اگر صرف ایک لڑکی ہو تو اس کا حصہ نصف۔ اور میت کے ماں باپ کا یعنی دونوں میں سے ہر ایک کا ترکے میں چھٹا حصہ بشرطیکہ میت کے اولاد ہو۔ اور اگر اولاد نہ ہو اور صرف ماں باپ ہی اس کے وارث ہوں تو ایک تہائی ماں کا حصہ۔ اور اگر میت کے بھائی بھی ہوں تو ماں کا چھٹا حصہ۔ (اور یہ تقسیم ترکہ میت کی) وصیت (کی تعمیل) کے بعد جو اس نے کی ہو یا قرض کے (ادا ہونے کے بعد جو اس کے ذمے ہو عمل میں آئے گی) تم کو معلوم نہیں کہ تمہارے باپ دادؤں اور بیٹوں پوتوں میں سے فائدے کے لحاظ سے کون تم سے زیادہ قریب ہے، یہ حصے خدا کے مقرر کئے ہوئے ہیں اور خدا سب کچھ جاننے والا اور حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/4/11)
+
+#### 4:12 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَلَكُمْ نِصْفُ مَا تَرَكَ أَزْوَٰجُكُمْ إِن لَّمْ يَكُن لَّهُنَّ وَلَدٌ ۚ فَإِن كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ ٱلرُّبُعُ مِمَّا تَرَكْنَ ۚ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِينَ بِهَآ أَوْ دَيْنٍ ۚ وَلَهُنَّ ٱلرُّبُعُ مِمَّا تَرَكْتُمْ إِن لَّمْ يَكُن لَّكُمْ وَلَدٌ ۚ فَإِن كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكْتُم ۚ مِّنۢ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَآ أَوْ دَيْنٍ ۗ وَإِن كَانَ رَجُلٌ يُورَثُ كَلَـٰلَةً أَوِ ٱمْرَأَةٌ وَلَهُۥٓ أَخٌ أَوْ أُخْتٌ فَلِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ ۚ فَإِن كَانُوٓا۟ أَكْثَرَ مِن ذَٰلِكَ فَهُمْ شُرَكَآءُ فِى ٱلثُّلُثِ ۚ مِنۢ بَعْدِ وَصِيَّةٍ يُوصَىٰ بِهَآ أَوْ دَيْنٍ غَيْرَ مُضَآرٍّ ۚ وَصِيَّةً مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَلِيمٌ
+
+</div>
+
+**Word in this verse:** `يُورَثُ` — (whose wealth) is to be inherited
+
+**English (Sahih International):** And for you is half of what your wives leave if they have no child. But if they have a child, for you is one fourth of what they leave, after any bequest they [may have] made or debt. And for them [i.e., the wives] is one fourth if you leave no child. But if you leave a child, then for them is an eighth of what you leave, after any bequest you [may have] made or debt. And if a man or woman leaves neither ascendants nor descendants but has a brother or a sister, then for each one of them is a sixth. But if they are more than two, they share a third, after any bequest which was made or debt, as long as there is no detriment [caused]. [This is] an ordinance from Allāh, and Allāh is Knowing and Forbearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو مال تمہاری عورتیں چھوڑ مریں۔ اگر ان کے اولاد نہ ہو تو اس میں نصف حصہ تمہارا۔ اور اگر اولاد ہو تو ترکے میں تمہارا حصہ چوتھائی۔ (لیکن یہ تقسیم) وصیت (کی تعمیل) کے بعد جو انہوں نے کی ہو یا قرض کے (ادا ہونے کے بعد جو ان کے ذمے ہو، کی جائے گی) اور جو مال تم (مرد) چھوڑ مرو۔ اگر تمہارے اولاد نہ ہو تو تمہاری عورتوں کا اس میں چوتھا حصہ۔ اور اگر اولاد ہو تو ان کا آٹھواں حصہ (یہ حصے) تمہاری وصیت (کی تعمیل) کے بعد جو تم نے کی ہو اور (ادائے) قرض کے (بعد تقسیم کئے جائیں گے) اور اگر ایسے مرد یا عورت کی میراث ہو جس کے نہ باپ ہو نہ بیٹا مگر اس کے بھائی بہن ہو تو ان میں سے ہر ایک کا چھٹا حصہ اور اگر ایک سے زیادہ ہوں تو سب ایک تہائی میں شریک ہوں گے (یہ حصے بھی ادائے وصیت و قرض بشرطیکہ ان سے میت نے کسی کا نقصان نہ کیا ہو (تقسیم کئے جائیں گے) یہ خدا کا فرمان ہے۔ اور خدا نہایت علم والا (اور) نہایت حلم والا ہے
+
+[Open on Quran.com](https://quran.com/4/12)
+
+#### 4:19 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا ۖ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ ۚ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا
+
+</div>
+
+**Word in this verse:** `تَرِثُوا۟` — you inherit
+
+**English (Sahih International):** O you who have believed, it is not lawful for you to inherit women by compulsion. And do not make difficulties for them in order to take [back] part of what you gave them unless they commit a clear immorality [i.e., adultery]. And live with them in kindness. For if you dislike them - perhaps you dislike a thing and Allāh makes therein much good.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم کو جائز نہیں کہ زبردستی عورتوں کے وارث بن جاؤ۔ اور (دیکھنا) اس نیت سے کہ جو کچھ تم نے ان کو دیا ہے اس میں سے کچھ لے لو انہیں (گھروں میں) میں مت روک رکھنا ہاں اگر وہ کھلے طور پر بدکاری کی مرتکب ہوں (تو روکنا مناسب نہیں) اور ان کے ساتھ اچھی طرح رہو سہو اگر وہ تم کو ناپسند ہوں تو عجب نہیں کہ تم کسی چیز کو ناپسند کرو اور خدا اس میں بہت سی بھلائی پیدا کردے
+
+[Open on Quran.com](https://quran.com/4/19)
+
+#### 4:176 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَـٰلَةِ ۚ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ ۚ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۗ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ
+
+</div>
+
+**Word in this verse:** `يَرِثُهَآ` — will inherit from her
+
+**English (Sahih International):** They request from you a [legal] ruling. Say, "Allāh gives you a ruling concerning one having neither descendants nor ascendants [as heirs]." If a man dies, leaving no child but [only] a sister, she will have half of what he left. And he inherits from her if she [dies and] has no child. But if there are two sisters [or more], they will have two thirds of what he left. If there are both brothers and sisters, the male will have the share of two females. Allāh makes clear to you [His law], lest you go astray. And Allāh is Knowing of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگ تم سے (کلالہ کے بارے میں) حکم (خدا) دریافت کرتے ہیں کہہ دو کہ خدا کلالہ بارے میں یہ حکم دیتا ہے کہ اگر کوئی ایسا مرد مرجائے جس کے اولاد نہ ہو (اور نہ ماں باپ) اور اس کے بہن ہو تو اس کو بھائی کے ترکے میں سے آدھا حصہ ملے گا۔ اور اگر بہن مرجائے اور اس کے اولاد نہ ہو تو اس کے تمام مال کا وارث بھائی ہوگا اور اگر (مرنے والے بھائی کی) دو بہنیں ہوں تو دونوں کو بھائی کے ترکے میں سے دو تہائی۔ اور اگر بھائی اور بہن یعنی مرد اور عورتیں ملے جلے وارث ہوں تو مرد کا حصہ دو عورتوں کے برابر ہے۔ (یہ احکام) خدا تم سے اس لئے بیان فرماتا ہے کہ بھٹکتے نہ پھرو۔ اور خدا ہر چیز سے واقف ہے
+
+[Open on Quran.com](https://quran.com/4/176)
+
+#### 7:100 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَلَمْ يَهْدِ لِلَّذِينَ يَرِثُونَ ٱلْأَرْضَ مِنۢ بَعْدِ أَهْلِهَآ أَن لَّوْ نَشَآءُ أَصَبْنَـٰهُم بِذُنُوبِهِمْ ۚ وَنَطْبَعُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَسْمَعُونَ
+
+</div>
+
+**Word in this verse:** `يَرِثُونَ` — inherit
+
+**English (Sahih International):** Has it not become clear to those who inherited the earth after its [previous] people that if We willed, We could afflict them for their sins? But We seal over their hearts so they do not hear.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان لوگوں کو جو اہلِ زمین کے (مرجانے کے) بعد زمین کے مالک ہوتے ہیں، یہ امر موجب ہدایت نہیں ہوا کہ اگر ہم چاہیں تو ان کے گناہوں کے سبب ان پر مصیبت ڈال دیں۔ اور ان کے دلوں پر مہر لگادیں کہ کچھ سن ہی نہ سکیں
+
+[Open on Quran.com](https://quran.com/7/100)
+
+#### 7:169 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ وَرِثُوا۟ ٱلْكِتَـٰبَ يَأْخُذُونَ عَرَضَ هَـٰذَا ٱلْأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُۥ يَأْخُذُوهُ ۚ أَلَمْ يُؤْخَذْ عَلَيْهِم مِّيثَـٰقُ ٱلْكِتَـٰبِ أَن لَّا يَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ وَدَرَسُوا۟ مَا فِيهِ ۗ وَٱلدَّارُ ٱلْـَٔاخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `وَرِثُوا۟` — (who) inherited
+
+**English (Sahih International):** And there followed them successors who inherited the Scripture [while] taking the commodities of this lower life and saying, "It will be forgiven for us." And if an offer like it comes to them, they will [again] take it. Was not the covenant of the Scripture [i.e., the Torah] taken from them that they would not say about Allāh except the truth, and they studied what was in it? And the home of the Hereafter is better for those who fear Allāh, so will you not use reason?
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے بعد ناخلف ان کے قائم مقام ہوئے جو کتاب کے وارث بنے۔ یہ (بےتامل) اس دنیائے دنی کا مال ومتاع لے لیتے ہیں اور کہتے ہیں کہ ہم بخش دیئے جائیں گے۔ اور (لوگ ایسوں پر طعن کرتے ہیں) اگر ان کے سامنے بھی ویسا ہی مال آجاتا ہے تو وہ بھی اسے لے لیتے ہیں۔ کیا ان سے کتاب کی نسبت عہد نہیں لیا گیا کہ خدا پر سچ کے سوا اور کچھ نہیں کہیں گے۔ اور جو کچھ اس (کتاب) میں ہے اس کو انہوں نے پڑھ بھی لیا ہے۔ اور آخرت کا گھر پرہیزگاروں کے لیے بہتر ہے کیا تم سمجھتے نہیں
+
+[Open on Quran.com](https://quran.com/7/169)
+
+#### 19:6 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ ۖ وَٱجْعَلْهُ رَبِّ رَضِيًّا
+
+</div>
+
+**Word in this verse:** `يَرِثُنِى` — Who will inherit me
+
+**English (Sahih International):** Who will inherit me and inherit from the family of Jacob. And make him, my Lord, pleasing [to You]."
+
+**Urdu (Fatah Muhammad Jalandhari):** جو میری اور اولاد یعقوب کی میراث کا مالک ہو۔ اور (اے) میرے پروردگار اس کو خوش اطوار بنائیو
+
+[Open on Quran.com](https://quran.com/19/6)
+
+#### 19:40 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّا نَحْنُ نَرِثُ ٱلْأَرْضَ وَمَنْ عَلَيْهَا وَإِلَيْنَا يُرْجَعُونَ
+
+</div>
+
+**Word in this verse:** `نَرِثُ` — [We] will inherit
+
+**English (Sahih International):** Indeed, it is We who will inherit the earth and whoever is on it, and to Us they will be returned.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم ہی زمین کے اور جو لوگ اس پر (بستے) ہیں ان کے وارث ہیں۔ اور ہماری ہی طرف ان کو لوٹنا ہوگا
+
+[Open on Quran.com](https://quran.com/19/40)
+
+#### 19:80 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَنَرِثُهُۥ مَا يَقُولُ وَيَأْتِينَا فَرْدًا
+
+</div>
+
+**Word in this verse:** `وَنَرِثُهُۥ` — And We will inherit (from) him
+
+**English (Sahih International):** And We will inherit him [in] what he mentions, and he will come to Us alone.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو چیزیں یہ بتاتا ہے ان کے ہم وارث ہوں گے اور یہ اکیلا ہمارے سامنے آئے گا
+
+[Open on Quran.com](https://quran.com/19/80)
+
+#### 21:105 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ كَتَبْنَا فِى ٱلزَّبُورِ مِنۢ بَعْدِ ٱلذِّكْرِ أَنَّ ٱلْأَرْضَ يَرِثُهَا عِبَادِىَ ٱلصَّـٰلِحُونَ
+
+</div>
+
+**Word in this verse:** `يَرِثُهَا` — will inherit it
+
+**English (Sahih International):** And We have already written in the book [of Psalms] after the [previous] mention that the land [of Paradise] is inherited by My righteous servants.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے نصیحت (کی کتاب یعنی تورات) کے بعد زبور میں لکھ دیا تھا کہ میرے نیکوکار بندے ملک کے وارث ہوں گے
+
+[Open on Quran.com](https://quran.com/21/105)
+
+_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

@@ -1,0 +1,178 @@
+---
+type: word
+lemma: "مُخْتَلِف"
+slug: "mxtlf - various"
+surah_count: 7
+ayah_count: 9
+tags: [word, meaning]
+---
+
+# mxtlf - various
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[xlf - khlf]]
+
+### Meaning
+**various** · Lemma **مُخْتَلِف**
+
+### Surahs (7)
+- [[006 Al-Anam]]
+- [[011 Hud]]
+- [[016 An-Nahl]]
+- [[035 Fatir]]
+- [[039 Az-Zumar]]
+- [[051 Adh-Dhariyat]]
+- [[078 An-Naba]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 6:141 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّـٰتٍ مَّعْرُوشَـٰتٍ وَغَيْرَ مَعْرُوشَـٰتٍ وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَـٰبِهًا وَغَيْرَ مُتَشَـٰبِهٍ ۚ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ ۖ وَلَا تُسْرِفُوٓا۟ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ
+
+</div>
+
+**Word in this verse:** `مُخْتَلِفًا` — diverse
+
+**English (Sahih International):** And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakāh] on the day of its harvest. And be not excessive. Indeed, He does not like those who commit excess.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی تو ہے جس نے باغ پیدا کئے چھتریوں پر چڑھائے ہوئے بھی اور جو چھتریوں پر نہیں چڑھائے ہوئے وہ بھی اور کھجور اور کھیتی جن کے طرح طرح کے پھل ہوتے ہیں اور زیتون اور انار جو (بعض باتوں میں) ایک دوسرے سے ملتے ہیں جب یہ چیزیں پھلیں تو ان کے پھل کھاؤ اور جس دن (پھل توڑو اور کھیتی) کاٹو تو خدا کا حق بھی اس میں سے ادا کرو اور بےجا نہ اڑاؤ کہ خدا بیجا اڑانے والوں کو دوست نہیں رکھتا
+
+[Open on Quran.com](https://quran.com/6/141)
+
+#### 11:118 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَوْ شَآءَ رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةً وَٰحِدَةً ۖ وَلَا يَزَالُونَ مُخْتَلِفِينَ
+
+</div>
+
+**Word in this verse:** `مُخْتَلِفِينَ` — to differ
+
+**English (Sahih International):** And if your Lord had willed, He could have made mankind one community; but they will not cease to differ,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تمہارا پروردگار چاہتا تو تمام لوگوں کو ایک ہی جماعت کردیتا لیکن وہ ہمیشہ اختلاف کرتے رہیں گے
+
+[Open on Quran.com](https://quran.com/11/118)
+
+#### 16:13 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا ذَرَأَ لَكُمْ فِى ٱلْأَرْضِ مُخْتَلِفًا أَلْوَٰنُهُۥٓ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَذَّكَّرُونَ
+
+</div>
+
+**Word in this verse:** `مُخْتَلِفًا` — (of) varying
+
+**English (Sahih International):** And [He has subjected] whatever He multiplied for you on the earth of varying colors. Indeed in that is a sign for a people who remember.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو طرح طرح کے رنگوں کی چیزیں اس نے زمین میں پیدا کیں (سب تمہارے زیر فرمان کردیں) نصیحت پکڑنے والوں کے لیے اس میں نشانی ہے
+
+[Open on Quran.com](https://quran.com/16/13)
+
+#### 16:69 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `مُّخْتَلِفٌ` — (of) varying
+
+**English (Sahih International):** Then eat from all the fruits and follow the ways of your Lord laid down [for you]." There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہر قسم کے میوے کھا۔ اور اپنے پروردگار کے صاف رستوں پر چلی جا۔ اس کے پیٹ سے پینے کی چیز نکلتی ہے جس کے مختلف رنگ ہوتے ہیں اس میں لوگوں (کے کئی امراض) کی شفا ہے۔ بےشک سوچنے والوں کے لیے اس میں بھی نشانی ہے
+
+[Open on Quran.com](https://quran.com/16/69)
+
+#### 35:27 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦ ثَمَرَٰتٍ مُّخْتَلِفًا أَلْوَٰنُهَا ۚ وَمِنَ ٱلْجِبَالِ جُدَدٌۢ بِيضٌ وَحُمْرٌ مُّخْتَلِفٌ أَلْوَٰنُهَا وَغَرَابِيبُ سُودٌ
+
+</div>
+
+**Word in this verse:** `مُّخْتَلِفًا` — (of) various
+
+**English (Sahih International):** Do you not see that Allāh sends down rain from the sky, and We produce thereby fruits of varying colors? And in the mountains are tracts, white and red of varying shades and [some] extremely black.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا نے آسمان سے مینہ برسایا۔ تو ہم نے اس سے طرح طرح کے رنگوں کے میوے پیدا کئے۔ اور پہاڑوں میں سفید اور سرخ رنگوں کے قطعات ہیں اور (بعض) کالے سیاہ ہیں
+
+[Open on Quran.com](https://quran.com/35/27)
+
+#### 35:28 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلْأَنْعَـٰمِ مُخْتَلِفٌ أَلْوَٰنُهُۥ كَذَٰلِكَ ۗ إِنَّمَا يَخْشَى ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَـٰٓؤُا۟ ۗ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ
+
+</div>
+
+**Word in this verse:** `مُخْتَلِفٌ` — (are) various
+
+**English (Sahih International):** And among people and moving creatures and grazing livestock are various colors similarly. Only those fear Allāh, from among His servants, who have knowledge. Indeed, Allāh is Exalted in Might and Forgiving.
+
+**Urdu (Fatah Muhammad Jalandhari):** انسانوں اور جانوروں اور چارپایوں کے بھی کئی طرح کے رنگ ہیں۔ خدا سے تو اس کے بندوں میں سے وہی ڈرتے ہیں جو صاحب علم ہیں۔ بےشک خدا غالب (اور) بخشنے والا ہے
+
+[Open on Quran.com](https://quran.com/35/28)
+
+#### 39:21 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَلَكَهُۥ يَنَـٰبِيعَ فِى ٱلْأَرْضِ ثُمَّ يُخْرِجُ بِهِۦ زَرْعًا مُّخْتَلِفًا أَلْوَٰنُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَجْعَلُهُۥ حُطَـٰمًا ۚ إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ
+
+</div>
+
+**Word in this verse:** `مُّخْتَلِفًا` — (of) different
+
+**English (Sahih International):** Do you not see that Allāh sends down rain from the sky and makes it flow as springs [and rivers] in the earth; then He produces thereby crops of varying colors; then they dry and you see them turned yellow; then He makes them [scattered] debris. Indeed in that is a reminder for those of understanding.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا آسمان سے پانی نازل کرتا پھر اس کو زمین میں چشمے بنا کر جاری کرتا پھر اس سے کھیتی اُگاتا ہے جس کے طرح طرح کے رنگ ہوتے ہیں۔ پھر وہ خشک ہوجاتی ہے تو تم اس کو دیکھتے ہو (کہ) زرد (ہوگئی ہے) پھر اسے چورا چورا کر دیتا ہے۔ بےشک اس میں عقل والوں کے لئے نصیحت ہے
+
+[Open on Quran.com](https://quran.com/39/21)
+
+#### 51:8 · [[051 Adh-Dhariyat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّكُمْ لَفِى قَوْلٍ مُّخْتَلِفٍ
+
+</div>
+
+**Word in this verse:** `مُّخْتَلِفٍۢ` — differing
+
+**English (Sahih International):** Indeed, you are in differing speech.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہ (اے اہل مکہ) تم ایک متناقض بات میں (پڑے ہوئے) ہو
+
+[Open on Quran.com](https://quran.com/51/8)
+
+#### 78:3 · [[078 An-Naba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ
+
+</div>
+
+**Word in this verse:** `مُخْتَلِفُونَ` — (in) disagreement
+
+**English (Sahih International):** That over which they are in disagreement.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس میں یہ اختلاف کر رہے ہیں
+
+[Open on Quran.com](https://quran.com/78/3)
+

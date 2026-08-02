@@ -1,0 +1,144 @@
+---
+type: word
+lemma: "حَضَرَ"
+slug: "HDr - approaches"
+surah_count: 5
+ayah_count: 7
+tags: [word, meaning]
+---
+
+# HDr - approaches
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[HDr - hdr]]
+
+### Meaning
+**approaches** · Lemma **حَضَرَ**
+
+### Surahs (5)
+- [[002 Al-Baqarah]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[023 Al-Muminun]]
+- [[046 Al-Ahqaf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:133 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَـٰهَكَ وَإِلَـٰهَ ءَابَآئِكَ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ إِلَـٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
+
+</div>
+
+**Word in this verse:** `حَضَرَ` — came to
+
+**English (Sahih International):** Or were you witnesses when death approached Jacob, when he said to his sons, "What will you worship after me?" They said, "We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac - one God. And we are Muslims [in submission] to Him."
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس وقت یعقوب وفات پانے لگے تو تم اس وقت موجود تھے، جب انہوں نے اپنے بیٹوں سے پوچھا کہ میرے بعد تم کس کی عبادت کرو گے، تو انہوں نے کہا کہ آپ کے معبود اور آپ کے باپ دادا ابراہیم اور اسمٰعیل اور اسحاق کے معبود کی عبادت کریں گے جو معبود یکتا ہے اور ہم اُسی کے حکم بردار ہیں
+
+[Open on Quran.com](https://quran.com/2/133)
+
+#### 2:180 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْرًا ٱلْوَصِيَّةُ لِلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `حَضَرَ` — approaches
+
+**English (Sahih International):** Prescribed for you when death approaches [any] one of you if he leaves wealth [is that he should make] a bequest for the parents and near relatives according to what is acceptable - a duty upon the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** تم پر فرض کیا جاتا ہے کہ جب تم میں سے کسی کو موت کا وقت آجائے تو اگر وہ کچھ مال چھوڑ جانے والا ہو تو ماں با پ اور رشتہ داروں کے لئے دستور کے مطابق وصیت کرجائے (خدا سے) ڈر نے والوں پر یہ ایک حق ہے
+
+[Open on Quran.com](https://quran.com/2/180)
+
+#### 4:8 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا
+
+</div>
+
+**Word in this verse:** `حَضَرَ` — present
+
+**English (Sahih International):** And when [other] relatives and orphans and the needy are present at the [time of] division, then provide for them [something] out of it [i.e., the estate] and speak to them words of appropriate kindness.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب میراث کی تقسیم کے وقت (غیر وارث) رشتہ دار اور یتیم اور محتاج آجائیں تو ان کو بھی اس میں سے کچھ دے دیا کرو۔ اور شیریں کلامی سے پیش آیا کرو
+
+[Open on Quran.com](https://quran.com/4/8)
+
+#### 4:18 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٔـٰنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ ۚ أُو۟لَـٰٓئِكَ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًا
+
+</div>
+
+**Word in this verse:** `حَضَرَ` — approaches
+
+**English (Sahih International):** But repentance is not [accepted] of those who [continue to] do evil deeds up until, when death comes to one of them, he says, "Indeed, I have repented now," or of those who die while they are disbelievers. For them We have prepared a painful punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ایسے لوگوں کی توبہ قبول نہیں ہوتی جو (ساری عمر) برے کام کرتے ہیں۔ یہاں تک کہ جب ان میں سے کسی موت آموجود ہو تو اس وقت کہنے لگے کہ اب میں توبہ کرتا ہوں اور نہ ان کی (توبہ قبول ہوتی ہے) جو کفر کی حالت میں مریں۔ ایسے لوگوں کے لئے ہم نے عذاب الیم تیار کر رکھا ہے
+
+[Open on Quran.com](https://quran.com/4/18)
+
+#### 5:106 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَـٰدَةَ ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْـَٔاثِمِينَ
+
+</div>
+
+**Word in this verse:** `حَضَرَ` — approaches
+
+**English (Sahih International):** O you who have believed, testimony [should be taken] among you when death approaches one of you at the time of bequest - [that of] two just men from among you or two others from outside if you are traveling through the land and the disaster of death should strike you. Detain them after the prayer and let them both swear by Allāh if you doubt [their testimony, saying], "We will not exchange it [i.e., our oath] for a price [i.e., worldly gain], even if he should be a near relative, and we will not withhold the testimony of [i.e., ordained by] Allāh. Indeed, we would then be of the sinful."
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم میں سے کسی کی موت آموجود ہو تو شہادت (کا نصاب) یہ ہے کہ وصیت کے وقت تم (مسلمانوں) میں سے دو عادل (یعنی صاحب اعتبار) گواہ ہوں یا اگر (مسلمان نہ ملیں اور) تم سفر کر رہے ہو اور (اس وقت) تم پر موت کی مصیبت واقع ہو تو کسی دوسرے مذہب کے دو (شخصوں کو) گواہ (کر لو) اگر تم کو ان گواہوں کی نسبت کچھ شک ہو تو ان کو (عصر کی) نماز کے بعد کھڑا کرو اور دونوں خدا کی قسمیں کھائیں کہ ہم شہادت کا کچھ عوض نہیں لیں گے گو ہمارا رشتہ دار ہی ہو اور نہ ہم الله کی شہادت کو چھپائیں گے اگر ایسا کریں گے تو گنہگار ہوں گے
+
+[Open on Quran.com](https://quran.com/5/106)
+
+#### 23:98 · [[023 Al-Muminun]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ
+
+</div>
+
+**Word in this verse:** `يَحْضُرُونِ` — they be present with me
+
+**English (Sahih International):** And I seek refuge in You, my Lord, lest they be present with me."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اے پروردگار! اس سے بھی تیری پناہ مانگتا ہوں کہ وہ میرے پاس آموجود ہوں
+
+[Open on Quran.com](https://quran.com/23/98)
+
+#### 46:29 · [[046 Al-Ahqaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ ۖ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ
+
+</div>
+
+**Word in this verse:** `حَضَرُوهُ` — they attended it
+
+**English (Sahih International):** And [mention, O Muḥammad], when We directed to you a few of the jinn, listening to the Qur’ān. And when they attended it, they said, "Listen attentively." And when it was concluded, they went back to their people as warners.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے جنوں میں سے کئی شخص تمہاری طرف متوجہ کئے کہ قرآن سنیں۔ تو جب وہ اس کے پاس آئے تو (آپس میں) کہنے لگے کہ خاموش رہو۔ جب (پڑھنا) تمام ہوا تو اپنی برادری کے لوگوں میں واپس گئے کہ (ان کو) نصیحت کریں
+
+[Open on Quran.com](https://quran.com/46/29)
+

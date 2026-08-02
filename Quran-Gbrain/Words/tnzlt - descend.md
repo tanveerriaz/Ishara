@@ -1,0 +1,144 @@
+---
+type: word
+lemma: "تَنَزَّلَتْ"
+slug: "tnzlt - descend"
+surah_count: 5
+ayah_count: 7
+tags: [word, meaning]
+---
+
+# tnzlt - descend
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[nzl - lodge host someone]]
+
+### Meaning
+**descend** · Lemma **تَنَزَّلَتْ**
+
+### Surahs (5)
+- [[019 Maryam]]
+- [[026 Ash-Shuara]]
+- [[041 Fussilat]]
+- [[065 At-Talaq]]
+- [[097 Al-Qadr]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 19:64 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا نَتَنَزَّلُ إِلَّا بِأَمْرِ رَبِّكَ ۖ لَهُۥ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذَٰلِكَ ۚ وَمَا كَانَ رَبُّكَ نَسِيًّا
+
+</div>
+
+**Word in this verse:** `نَتَنَزَّلُ` — we descend
+
+**English (Sahih International):** [Gabriel said], "And we [angels] descend not except by the order of your Lord. To Him belongs that before us and that behind us and what is in between. And never is your Lord forgetful -
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (فرشتوں نے پیغمبر کو جواب دیا کہ) ہم تمہارے پروردگار کے حکم سوا اُتر نہیں سکتے۔ جو کچھ ہمارے آگے ہے اور پیچھے ہے اور جو ان کے درمیان ہے سب اسی کا ہے اور تمہارا پروردگار بھولنے والا نہیں
+
+[Open on Quran.com](https://quran.com/19/64)
+
+#### 26:210 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا تَنَزَّلَتْ بِهِ ٱلشَّيَـٰطِينُ
+
+</div>
+
+**Word in this verse:** `تَنَزَّلَتْ` — have brought it down
+
+**English (Sahih International):** And the devils have not brought it [i.e., the revelation] down.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس (قرآن) کو شیطان لے کر نازل نہیں ہوئے
+
+[Open on Quran.com](https://quran.com/26/210)
+
+#### 26:221 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هَلْ أُنَبِّئُكُمْ عَلَىٰ مَن تَنَزَّلُ ٱلشَّيَـٰطِينُ
+
+</div>
+
+**Word in this verse:** `تَنَزَّلُ` — descend
+
+**English (Sahih International):** Shall I inform you upon whom the devils descend?
+
+**Urdu (Fatah Muhammad Jalandhari):** (اچھا) میں تمیں بتاؤں کہ شیطان کس پر اُترتے ہیں
+
+[Open on Quran.com](https://quran.com/26/221)
+
+#### 26:222 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍ
+
+</div>
+
+**Word in this verse:** `تَنَزَّلُ` — They descend
+
+**English (Sahih International):** They descend upon every sinful liar.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہر جھوٹے گنہگار پر اُترتے ہیں
+
+[Open on Quran.com](https://quran.com/26/222)
+
+#### 41:30 · [[041 Fussilat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَـٰمُوا۟ تَتَنَزَّلُ عَلَيْهِمُ ٱلْمَلَـٰٓئِكَةُ أَلَّا تَخَافُوا۟ وَلَا تَحْزَنُوا۟ وَأَبْشِرُوا۟ بِٱلْجَنَّةِ ٱلَّتِى كُنتُمْ تُوعَدُونَ
+
+</div>
+
+**Word in this verse:** `تَتَنَزَّلُ` — will descend
+
+**English (Sahih International):** Indeed, those who have said, "Our Lord is Allāh" and then remained on a right course - the angels will descend upon them, [saying], "Do not fear and do not grieve but receive good tidings of Paradise, which you were promised.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے کہا کہ ہمارا پروردگار خدا ہے پھر وہ (اس پر) قائم رہے ان پر فرشتے اُتریں گے (اور کہیں گے) کہ نہ خوف کرو اور نہ غمناک ہو اور بہشت کی جس کا تم سے وعدہ کیا جاتا تھا خوشی مناؤ
+
+[Open on Quran.com](https://quran.com/41/30)
+
+#### 65:12 · [[065 At-Talaq]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ عِلْمًۢا
+
+</div>
+
+**Word in this verse:** `يَتَنَزَّلُ` — Descends
+
+**English (Sahih International):** It is Allāh who has created seven heavens and of the earth, the like of them. [His] command descends among them so you may know that Allāh is over all things competent and that Allāh has encompassed all things in knowledge.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے سات آسمان پیدا کئے اور ایسی ہی زمینیں۔ ان میں (خدا کے) حکم اُترتے رہتے ہیں تاکہ تم لوگ جان لو کہ خدا چیز پر قادر ہے۔ اور یہ کہ خدا اپنے علم سے ہر چیز پر احاطہ کئے ہوئے ہے
+
+[Open on Quran.com](https://quran.com/65/12)
+
+#### 97:4 · [[097 Al-Qadr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ
+
+</div>
+
+**Word in this verse:** `تَنَزَّلُ` — Descend
+
+**English (Sahih International):** The angels and the Spirit [i.e., Gabriel] descend therein by permission of their Lord for every matter.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس میں روح (الامین) اور فرشتے ہر کام کے (انتظام کے) لیے اپنے پروردگار کے حکم سے اترتے ہیں
+
+[Open on Quran.com](https://quran.com/97/4)
+

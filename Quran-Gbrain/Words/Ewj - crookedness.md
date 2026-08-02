@@ -1,0 +1,178 @@
+---
+type: word
+lemma: "عِوَج"
+slug: "Ewj - crookedness"
+surah_count: 7
+ayah_count: 9
+tags: [word, meaning]
+---
+
+# Ewj - crookedness
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Ewj - ewj]]
+
+### Meaning
+**crookedness** · Lemma **عِوَج**
+
+### Surahs (7)
+- [[003 Ali Imran]]
+- [[007 Al-Araf]]
+- [[011 Hud]]
+- [[014 Ibrahim]]
+- [[018 Al-Kahf]]
+- [[020 Taha]]
+- [[039 Az-Zumar]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:99 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ تَبْغُونَهَا عِوَجًا وَأَنتُمْ شُهَدَآءُ ۗ وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `عِوَجًۭا` — (seem) crooked
+
+**English (Sahih International):** Say, "O People of the Scripture, why do you avert from the way of Allāh those who believe, seeking to make it [seem] deviant, while you are witnesses [to the truth]? And Allāh is not unaware of what you do."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اہلِ کتاب تم مومنوں کو خدا کے رستے سے کیوں روکتے ہو اور باوجود یہ کہ تم اس سے واقف ہو اس میں کجی نکالتے ہو اور خدا تمھارے کاموں سے بےخبر نہیں
+
+[Open on Quran.com](https://quran.com/3/99)
+
+#### 7:45 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِٱلْـَٔاخِرَةِ كَـٰفِرُونَ
+
+</div>
+
+**Word in this verse:** `عِوَجًۭا` — crookedness
+
+**English (Sahih International):** Who averted [people] from the way of Allāh and sought to make it [seem] deviant while they were, concerning the Hereafter, disbelievers."
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا کی راہ سے روکتے اور اس میں کجی ڈھونڈتے اور آخرت سے انکار کرتے تھے
+
+[Open on Quran.com](https://quran.com/7/45)
+
+#### 7:86 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَقْعُدُوا۟ بِكُلِّ صِرَٰطٍ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ بِهِۦ وَتَبْغُونَهَا عِوَجًا ۚ وَٱذْكُرُوٓا۟ إِذْ كُنتُمْ قَلِيلًا فَكَثَّرَكُمْ ۖ وَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ
+
+</div>
+
+**Word in this verse:** `عِوَجًۭا ۚ` — crooked
+
+**English (Sahih International):** And do not sit on every path, threatening and averting from the way of Allāh those who believe in Him, seeking to make it [seem] deviant. And remember when you were few and He increased you. And see how was the end of the corrupters.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہر رستے پر مت بیٹھا کرو کہ جو شخص خدا پر ایمان نہیں لاتا ہے اسے تم ڈراتے اور راہ خدا سے روکتے اور اس میں کجی ڈھونڈتے ہو اور (اس وقت کو) یاد کرو جب تم تھوڑے سے تھے تو خدا نے تم کو جماعت کثیر کر دیا اور دیکھ لو کہ خرابی کرنے والوں کا انجام کیسا ہوا
+
+[Open on Quran.com](https://quran.com/7/86)
+
+#### 11:19 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا وَهُم بِٱلْـَٔاخِرَةِ هُمْ كَـٰفِرُونَ
+
+</div>
+
+**Word in this verse:** `عِوَجًۭا` — crookedness
+
+**English (Sahih International):** Who averted [people] from the way of Allāh and sought to make it [seem] deviant while they, concerning the Hereafter, were disbelievers.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے رستے سے روکتے ہیں اور اس میں کجی چاہتے ہیں اور وہ آخرت سے بھی انکار کرتے ہیں
+
+[Open on Quran.com](https://quran.com/11/19)
+
+#### 14:3 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَسْتَحِبُّونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْـَٔاخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍۭ بَعِيدٍ
+
+</div>
+
+**Word in this verse:** `عِوَجًا ۚ` — crookedness
+
+**English (Sahih International):** The ones who prefer the worldly life over the Hereafter and avert [people] from the way of Allāh, seeking to make it [seem] deviant. Those are in extreme error.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو آخرت کی نسبت دنیا کو پسند کرتے اور (لوگوں کو) خدا کے رستے سے روکتے اور اس میں کجی چاہتے ہیں۔ یہ لوگ پرلے سرے کی گمراہی میں ہیں
+
+[Open on Quran.com](https://quran.com/14/3)
+
+#### 18:1 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَنزَلَ عَلَىٰ عَبْدِهِ ٱلْكِتَـٰبَ وَلَمْ يَجْعَل لَّهُۥ عِوَجَا ۜ
+
+</div>
+
+**Word in this verse:** `عِوَجَاۜ` — any crookedness
+
+**English (Sahih International):** [All] praise is [due] to Allāh, who has sent down upon His Servant [Muḥammad (ﷺ)] the Book and has not made therein any deviance.
+
+**Urdu (Fatah Muhammad Jalandhari):** سب تعریف خدا ہی کو ہے جس نے اپنے بندے (محمدﷺ) پر (یہ) کتاب نازل کی اور اس میں کسی طرح کی کجی (اور پیچیدگی) نہ رکھی
+
+[Open on Quran.com](https://quran.com/18/1)
+
+#### 20:107 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَّا تَرَىٰ فِيهَا عِوَجًا وَلَآ أَمْتًا
+
+</div>
+
+**Word in this verse:** `عِوَجًۭا` — any crookedness
+
+**English (Sahih International):** You will not see therein a depression or an elevation."
+
+**Urdu (Fatah Muhammad Jalandhari):** جس میں نہ تم کجی (اور پستی) دیکھو گے نہ ٹیلا (اور بلندی)
+
+[Open on Quran.com](https://quran.com/20/107)
+
+#### 20:108 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَوْمَئِذٍ يَتَّبِعُونَ ٱلدَّاعِىَ لَا عِوَجَ لَهُۥ ۖ وَخَشَعَتِ ٱلْأَصْوَاتُ لِلرَّحْمَـٰنِ فَلَا تَسْمَعُ إِلَّا هَمْسًا
+
+</div>
+
+**Word in this verse:** `عِوَجَ` — deviation
+
+**English (Sahih International):** That Day, they [i.e., everyone] will follow [the call of] the Caller [with] no deviation therefrom, and [all] voices will be stilled before the Most Merciful, so you will not hear except a whisper [of footsteps].
+
+**Urdu (Fatah Muhammad Jalandhari):** اس روز لوگ ایک پکارنے والے کے پیچھے چلیں گے اور اس کی پیروی سے انحراف نہ کرسکیں گے اور خدا کے سامنے آوازیں پست ہوجائیں گی تو تم آواز خفی کے سوا کوئی آواز نہ سنو گے
+
+[Open on Quran.com](https://quran.com/20/108)
+
+#### 39:28 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُرْءَانًا عَرَبِيًّا غَيْرَ ذِى عِوَجٍ لَّعَلَّهُمْ يَتَّقُونَ
+
+</div>
+
+**Word in this verse:** `عِوَجٍۢ` — crookedness
+
+**English (Sahih International):** [It is] an Arabic Qur’ān, without any deviance that they might become righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ) قرآن عربی (ہے) جس میں کوئی عیب (اور اختلاف) نہیں تاکہ وہ ڈر مانیں
+
+[Open on Quran.com](https://quran.com/39/28)
+

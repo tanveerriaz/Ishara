@@ -1,0 +1,195 @@
+---
+type: word
+lemma: "عاهَدَ"
+slug: "EAhd - they took"
+surah_count: 6
+ayah_count: 11
+tags: [word, meaning]
+---
+
+# EAhd - they took
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Ehd - ehd]]
+
+### Meaning
+**they took** · Lemma **عاهَدَ**
+
+### Surahs (6)
+- [[002 Al-Baqarah]]
+- [[008 Al-Anfal]]
+- [[009 At-Tawbah]]
+- [[016 An-Nahl]]
+- [[033 Al-Ahzab]]
+- [[048 Al-Fath]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:100 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَكُلَّمَا عَـٰهَدُوا۟ عَهْدًا نَّبَذَهُۥ فَرِيقٌ مِّنْهُم ۚ بَلْ أَكْثَرُهُمْ لَا يُؤْمِنُونَ
+
+</div>
+
+**Word in this verse:** `عَـٰهَدُوا۟` — they took
+
+**English (Sahih International):** Is it not [true] that every time they took a covenant a party of them threw it away? But, [in fact], most of them do not believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں نے جب (خدا سے) عہد واثق کیا تو ان میں سے ایک فریق نے اس کو (کسی چیز کی طرح) پھینک دیا۔ حقیقت یہ ہے کہ ان میں اکثر بے ایمان ہیں
+
+[Open on Quran.com](https://quran.com/2/100)
+
+#### 2:177 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ
+
+</div>
+
+**Word in this verse:** `عَـٰهَدُوا۟ ۖ` — they make it
+
+**English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+
+[Open on Quran.com](https://quran.com/2/177)
+
+#### 8:56 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ عَـٰهَدتَّ مِنْهُمْ ثُمَّ يَنقُضُونَ عَهْدَهُمْ فِى كُلِّ مَرَّةٍ وَهُمْ لَا يَتَّقُونَ
+
+</div>
+
+**Word in this verse:** `عَـٰهَدتَّ` — you made a covenant
+
+**English (Sahih International):** The ones with whom you made a treaty but then they break their pledge every time, and they do not fear Allāh.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں سے تم نے (صلح کا) عہد کیا ہے پھر وہ ہر بار اپنے عہد کو توڑ ڈالتے ہیں اور (خدا سے) نہیں ڈرتے
+
+[Open on Quran.com](https://quran.com/8/56)
+
+#### 9:1 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+بَرَآءَةٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ
+
+</div>
+
+**Word in this verse:** `عَـٰهَدتُّم` — you made a covenant
+
+**English (Sahih International):** [This is a declaration of] disassociation, from Allāh and His Messenger, to those with whom you had made a treaty among the polytheists.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے اہل اسلام اب) خدا اور اس کے رسول کی طرف سے مشرکوں سے جن سے تم نے عہد کر رکھا تھا بیزاری (اور جنگ کی تیاری) ہے
+
+[Open on Quran.com](https://quran.com/9/1)
+
+#### 9:4 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِلَّا ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَـٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `عَـٰهَدتُّم` — you have a covenant
+
+**English (Sahih International):** Excepted are those with whom you made a treaty among the polytheists and then they have not been deficient toward you in anything or supported anyone against you; so complete for them their treaty until their term [has ended]. Indeed, Allāh loves the righteous [who fear Him].
+
+**Urdu (Fatah Muhammad Jalandhari):** البتہ جن مشرکوں کے ساتھ تم نے عہد کیا ہو اور انہوں نے تمہارا کسی طرح کا قصور نہ کیا ہو اور نہ تمہارے مقابلے میں کسی کی مدد کی ہو تو جس مدت تک ان کے ساتھ عہد کیا ہو اسے پورا کرو۔ (کہ) خدا پرہیزگاروں کو دوست رکھتا ہے
+
+[Open on Quran.com](https://quran.com/9/4)
+
+#### 9:7 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَـٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۖ فَمَا ٱسْتَقَـٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `عَـٰهَدتُّمْ` — you made a covenant
+
+**English (Sahih International):** How can there be for the polytheists a treaty in the sight of Allāh and with His Messenger, except for those with whom you made a treaty at al-Masjid al-Ḥarām? So as long as they are upright toward you, be upright toward them. Indeed, Allāh loves the righteous [who fear Him].
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا مشرکوں کے لیے (جنہوں نے عہد توڑ ڈالا) خدا اور اس کے رسول کے نزدیک عہد کیونکر (قائم) رہ سکتا ہے ہاں جن لوگوں کے ساتھ تم نے مسجد محترم (یعنی خانہ کعبہ) کے نزدیک عہد کیا ہے اگر وہ (اپنے عہد پر) قائم رہیں تو تم بھی اپنے قول وقرار (پر) قائم رہو۔ بےشک خدا پرہیز گاروں کو دوست رکھتا ہے
+
+[Open on Quran.com](https://quran.com/9/7)
+
+#### 9:75 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَمِنْهُم مَّنْ عَـٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ ٱلصَّـٰلِحِينَ
+
+</div>
+
+**Word in this verse:** `عَـٰهَدَ` — made a covenant
+
+**English (Sahih International):** And among them are those who made a covenant with Allāh, [saying], "If He should give us from His bounty, we will surely spend in charity, and we will surely be among the righteous."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے بعض ایسے ہیں جنہوں نے خدا سے عہد کیا تھا کہ اگر وہ ہم کو اپنی مہربانی سے (مال) عطا فرمائے گا تو ہم ضرور خیرات کیا کریں گے اور نیک کاروں میں ہو جائیں گے
+
+[Open on Quran.com](https://quran.com/9/75)
+
+#### 16:91 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَوْفُوا۟ بِعَهْدِ ٱللَّهِ إِذَا عَـٰهَدتُّمْ وَلَا تَنقُضُوا۟ ٱلْأَيْمَـٰنَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ ٱللَّهَ عَلَيْكُمْ كَفِيلًا ۚ إِنَّ ٱللَّهَ يَعْلَمُ مَا تَفْعَلُونَ
+
+</div>
+
+**Word in this verse:** `عَـٰهَدتُّمْ` — you have taken a covenant
+
+**English (Sahih International):** And fulfill the covenant of Allāh when you have taken it, [O believers], and do not break oaths after their confirmation while you have made Allāh, over you, a security [i.e., witness]. Indeed, Allāh knows what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب خدا سے عہد واثق کرو تو اس کو پورا کرو اور جب پکی قسمیں کھاؤ تو اُن کو مت توڑو کہ تم خدا کو اپنا ضامن مقرر کرچکے ہو۔ اور جو کچھ تم کرتے ہو خدا اس کو جانتا ہے
+
+[Open on Quran.com](https://quran.com/16/91)
+
+#### 33:15 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ كَانُوا۟ عَـٰهَدُوا۟ ٱللَّهَ مِن قَبْلُ لَا يُوَلُّونَ ٱلْأَدْبَـٰرَ ۚ وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًا
+
+</div>
+
+**Word in this verse:** `عَـٰهَدُوا۟` — promised
+
+**English (Sahih International):** And they had already promised Allāh before not to turn their backs [i.e., flee]. And ever is the promise to Allāh [that about which one will be] questioned.
+
+**Urdu (Fatah Muhammad Jalandhari):** حالانکہ پہلے خدا سے اقرار کر چکے تھے کہ پیٹھ نہیں پھریں گے۔ اور خدا سے (جو) اقرار (کیا جاتا ہے اُس کی) ضرور پرسش ہوگی
+
+[Open on Quran.com](https://quran.com/33/15)
+
+#### 33:23 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌ صَدَقُوا۟ مَا عَـٰهَدُوا۟ ٱللَّهَ عَلَيْهِ ۖ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُۥ وَمِنْهُم مَّن يَنتَظِرُ ۖ وَمَا بَدَّلُوا۟ تَبْدِيلًا
+
+</div>
+
+**Word in this verse:** `عَـٰهَدُوا۟` — they promised Allah
+
+**English (Sahih International):** Among the believers are men true to what they promised Allāh. Among them is he who has fulfilled his vow [to the death], and among them is he who awaits [his chance]. And they did not alter [the terms of their commitment] by any alteration -
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنوں میں کتنے ہی ایسے شخص ہیں کہ جو اقرار اُنہوں نے خدا سے کیا تھا اس کو سچ کر دکھایا۔ تو ان میں بعض ایسے ہیں جو اپنی نذر سے فارغ ہوگئے اور بعض ایسے ہیں کہ انتظار کر رہے ہیں اور اُنہوں نے (اپنے قول کو) ذرا بھی نہیں بدلا
+
+[Open on Quran.com](https://quran.com/33/23)
+
+_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

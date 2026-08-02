@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "مُهْتَد"
+slug: "mhtd - guided one"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# mhtd - guided one
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[hdy - guide]]
+
+### Meaning
+**guided one** · Lemma **مُهْتَد**
+
+### Surahs (3)
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[057 Al-Hadid]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 17:97 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ أَوْلِيَآءَ مِن دُونِهِۦ ۖ وَنَحْشُرُهُمْ يَوْمَ ٱلْقِيَـٰمَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا ۖ مَّأْوَىٰهُمْ جَهَنَّمُ ۖ كُلَّمَا خَبَتْ زِدْنَـٰهُمْ سَعِيرًا
+
+</div>
+
+**Word in this verse:** `ٱلْمُهْتَدِ ۖ` — the guided one
+
+**English (Sahih International):** And whoever Allāh guides - he is the [rightly] guided; and whoever He sends astray - you will never find for them protectors besides Him, and We will gather them on the Day of Resurrection [fallen] on their faces - blind, dumb and deaf. Their refuge is Hell; every time it subsides, We increase [for] them blazing fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس شخص کو خدا ہدایت دے وہی ہدایت یاب ہے۔ اور جن کو گمراہ کرے تو تم خدا کے سوا اُن کے رفیق نہیں پاؤ گے۔ اور ہم اُن کو قیامت کے دن اوندھے منہ اندھے گونگے اور بہرے (بنا کر) اٹھائیں گے۔ اور ان کا ٹھکانہ دوزخ ہے۔ جب (اس کی آگ) بجھنے کو ہوگی تو ہم ان کو (عذاب دینے کے لئے) اور بھڑکا دیں گے
+
+[Open on Quran.com](https://quran.com/17/97)
+
+#### 18:17 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَتَرَى ٱلشَّمْسَ إِذَا طَلَعَت تَّزَٰوَرُ عَن كَهْفِهِمْ ذَاتَ ٱلْيَمِينِ وَإِذَا غَرَبَت تَّقْرِضُهُمْ ذَاتَ ٱلشِّمَالِ وَهُمْ فِى فَجْوَةٍ مِّنْهُ ۚ ذَٰلِكَ مِنْ ءَايَـٰتِ ٱللَّهِ ۗ مَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِ ۖ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُۥ وَلِيًّا مُّرْشِدًا
+
+</div>
+
+**Word in this verse:** `ٱلْمُهْتَدِ ۖ` — (is) the guided one
+
+**English (Sahih International):** And [had you been present], you would see the sun when it rose, inclining away from their cave on the right, and when it set, passing away from them on the left, while they were [lying] within an open space thereof. That was from the signs of Allāh. He whom Allāh guides is the [rightly] guided, but he whom He sends astray - never will you find for him a protecting guide.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب سورج نکلے تو تم دیکھو کہ (دھوپ) ان کے غار سے داہنی طرف سمٹ جائے اور جب غروب ہو تو ان سے بائیں طرف کترا جائے اور وہ اس کے میدان میں تھے۔ یہ خدا کی نشانیوں میں سے ہیں۔ جس کو خدا ہدایت دے یا وہ ہدایت یاب ہے اور جس کو گمراہ کرے تو تم اس کے لئے کوئی دوست راہ بتانے والا نہ پاؤ گے
+
+[Open on Quran.com](https://quran.com/18/17)
+
+#### 57:26 · [[057 Al-Hadid]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَٰهِيمَ وَجَعَلْنَا فِى ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلْكِتَـٰبَ ۖ فَمِنْهُم مُّهْتَدٍ ۖ وَكَثِيرٌ مِّنْهُمْ فَـٰسِقُونَ
+
+</div>
+
+**Word in this verse:** `مُّهْتَدٍۢ ۖ` — (is) a guided one
+
+**English (Sahih International):** And We have already sent Noah and Abraham and placed in their descendants prophethood and scripture; and among them is he who is guided, but many of them are defiantly disobedient.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے نوح اور ابراہیم کو (پیغمبر بنا کر) بھیجا اور ان کی اولاد میں پیغمبری اور کتاب (کے سلسلے) کو (وقتاً فوقتاً جاری) رکھا تو بعض تو ان میں سے ہدایت پر ہیں۔ اور اکثر ان میں سے خارج از اطاعت ہیں
+
+[Open on Quran.com](https://quran.com/57/26)
+

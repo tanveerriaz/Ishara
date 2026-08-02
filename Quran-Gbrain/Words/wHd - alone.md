@@ -1,0 +1,128 @@
+---
+type: word
+lemma: "وَحْد"
+slug: "wHd - alone"
+surah_count: 5
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# wHd - alone
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[wHd - whd]]
+
+### Meaning
+**alone** · Lemma **وَحْد**
+
+### Surahs (5)
+- [[007 Al-Araf]]
+- [[017 Al-Isra]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[060 Al-Mumtahanah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 7:70 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالُوٓا۟ أَجِئْتَنَا لِنَعْبُدَ ٱللَّهَ وَحْدَهُۥ وَنَذَرَ مَا كَانَ يَعْبُدُ ءَابَآؤُنَا ۖ فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ
+
+</div>
+
+**Word in this verse:** `وَحْدَهُۥ` — Alone
+
+**English (Sahih International):** They said, "Have you come to us that we should worship Allāh alone and leave what our fathers have worshipped? Then bring us what you promise us, if you should be of the truthful."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ تم ہمارے پاس اس لیے آئے ہو کہ ہم اکیلے خدا ہی کی عبادت کریں۔ اور جن کو ہمارے باپ دادا پوجتے چلے آئے ہیں ان کو چھوڑ دیں؟ تو اگر سچے ہو تو جس چیز سے ہمیں ڈراتے ہو اسے لے آؤ
+
+[Open on Quran.com](https://quran.com/7/70)
+
+#### 17:46 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا ۚ وَإِذَا ذَكَرْتَ رَبَّكَ فِى ٱلْقُرْءَانِ وَحْدَهُۥ وَلَّوْا۟ عَلَىٰٓ أَدْبَـٰرِهِمْ نُفُورًا
+
+</div>
+
+**Word in this verse:** `وَحْدَهُۥ` — Alone
+
+**English (Sahih International):** And We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And when you mention your Lord alone in the Qur’ān, they turn back in aversion.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں پر پردہ ڈال دیتے ہیں کہ اسے سمجھ نہ سکیں اور ان کے کانوں میں ثقل پیدا کر دیتے ہیں۔ اور جب تم قرآن میں اپنے پروردگار یکتا کا ذکر کرتے ہو تو وہ بدک جاتے اور پیٹھ پھیر کر چل دیتے ہیں
+
+[Open on Quran.com](https://quran.com/17/46)
+
+#### 39:45 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا ذُكِرَ ٱللَّهُ وَحْدَهُ ٱشْمَأَزَّتْ قُلُوبُ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ ۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
+
+</div>
+
+**Word in this verse:** `وَحْدَهُ` — Alone
+
+**English (Sahih International):** And when Allāh is mentioned alone, the hearts of those who do not believe in the Hereafter shrink with aversion, but when those [worshipped] other than Him are mentioned, immediately they rejoice.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تنہا خدا کا ذکر کیا جاتا ہے تو جو لوگ آخرت پر ایمان نہیں رکھتے ان کے دل منقبض ہوجاتے ہیں۔ اور جب اس کے سوا اوروں کا ذکر کیا جاتا ہے تو خوش ہوجاتے ہیں
+
+[Open on Quran.com](https://quran.com/39/45)
+
+#### 40:12 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ذَٰلِكُم بِأَنَّهُۥٓ إِذَا دُعِىَ ٱللَّهُ وَحْدَهُۥ كَفَرْتُمْ ۖ وَإِن يُشْرَكْ بِهِۦ تُؤْمِنُوا۟ ۚ فَٱلْحُكْمُ لِلَّهِ ٱلْعَلِىِّ ٱلْكَبِيرِ
+
+</div>
+
+**Word in this verse:** `وَحْدَهُۥ` — Alone
+
+**English (Sahih International):** [They will be told], "That is because, when Allāh was called upon alone, you disbelieved; but if others were associated with Him, you believed. So the judgement is with Allāh, the Most High, the Grand."
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس لئے کہ جب تنہا خدا کو پکارا جاتا تھا تو تم انکار کردیتے تھے۔ اور اگر اس کے ساتھ شریک مقرر کیا جاتا تھا تو تسلیم کرلیتے تھے تو حکم تو خدا ہی کا ہے جو (سب سے) اوپر اور (سب سے) بڑا ہے
+
+[Open on Quran.com](https://quran.com/40/12)
+
+#### 40:84 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا رَأَوْا۟ بَأْسَنَا قَالُوٓا۟ ءَامَنَّا بِٱللَّهِ وَحْدَهُۥ وَكَفَرْنَا بِمَا كُنَّا بِهِۦ مُشْرِكِينَ
+
+</div>
+
+**Word in this verse:** `وَحْدَهُۥ` — Alone
+
+**English (Sahih International):** And when they saw Our punishment, they said, "We believe in Allāh alone and disbelieve in that which we used to associate with Him."
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب انہوں نے ہمارا عذاب دیکھ لیا تو کہنے لگے کہ ہم خدائے واحد پر ایمان لائے اور جس چیز کو اس کے ساتھ شریک بناتے تھے اس سے نامعتقد ہوئے
+
+[Open on Quran.com](https://quran.com/40/84)
+
+#### 60:4 · [[060 Al-Mumtahanah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذْ قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ ٱللَّهِ مِن شَىْءٍ ۖ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ
+
+</div>
+
+**Word in this verse:** `وَحْدَهُۥٓ` — Alone
+
+**English (Sahih International):** There has already been for you an excellent pattern in Abraham and those with him, when they said to their people, "Indeed, we are disassociated from you and from whatever you worship other than Allāh. We have denied you, and there has appeared between us and you animosity and hatred forever until you believe in Allāh alone" - except for the saying of Abraham to his father, "I will surely ask forgiveness for you, but I have not [power to do] for you anything against Allāh. Our Lord, upon You we have relied, and to You we have returned, and to You is the destination.
+
+**Urdu (Fatah Muhammad Jalandhari):** تمہیں ابراہیم اور ان کے رفقاء کی نیک چال چلنی (ضرور) ہے۔ جب انہوں نے اپنی قوم کے لوگوں سے کہا کہ ہم تم سے اور ان (بتوں) سے جن کو تم خدا کے سوا پوجتے ہو بےتعلق ہیں (اور) تمہارے (معبودوں کے کبھی) قائل نہیں (ہوسکتے) اور جب تک تم خدائے واحد اور ایمان نہ لاؤ ہم میں تم میں ہمیشہ کھلم کھلا عداوت اور دشمنی رہے گی۔ ہاں ابراہیمؑ نے اپنے باپ سے یہ (ضرور) کہا کہ میں آپ کے لئے مغفرت مانگوں گا اور خدا کے سامنے آپ کے بارے میں کسی چیز کا کچھ اختیار نہیں رکھتا۔ اے ہمارے پروردگار تجھ ہی پر ہمارا بھروسہ ہے اور تیری ہی طرف ہم رجوع کرتے ہیں اور تیرے ہی حضور میں (ہمیں) لوٹ کر آنا ہے
+
+[Open on Quran.com](https://quran.com/60/4)
+

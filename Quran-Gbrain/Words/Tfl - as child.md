@@ -1,0 +1,94 @@
+---
+type: word
+lemma: "طِفْل"
+slug: "Tfl - as child"
+surah_count: 3
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# Tfl - as child
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Tfl - tfl]]
+
+### Meaning
+**as child** · Lemma **طِفْل**
+
+### Surahs (3)
+- [[022 Al-Hajj]]
+- [[024 An-Nur]]
+- [[040 Ghafir]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 22:5 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى رَيْبٍ مِّنَ ٱلْبَعْثِ فَإِنَّا خَلَقْنَـٰكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِّنُبَيِّنَ لَكُمْ ۚ وَنُقِرُّ فِى ٱلْأَرْحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ ۖ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرْذَلِ ٱلْعُمُرِ لِكَيْلَا يَعْلَمَ مِنۢ بَعْدِ عِلْمٍ شَيْـًٔا ۚ وَتَرَى ٱلْأَرْضَ هَامِدَةً فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ وَأَنۢبَتَتْ مِن كُلِّ زَوْجٍۭ بَهِيجٍ
+
+</div>
+
+**Word in this verse:** `طِفْلًۭا` — (as) a child
+
+**English (Sahih International):** O people, if you should be in doubt about the Resurrection, then [consider that] indeed, We created you from dust, then from a sperm-drop, then from a clinging clot, and then from a lump of flesh, formed and unformed - that We may show you. And We settle in the wombs whom We will for a specified term, then We bring you out as a child, and then [We develop you] that you may reach your [time of] maturity. And among you is he who is taken in [early] death, and among you is he who is returned to the most decrepit [old] age so that he knows, after [once having] knowledge, nothing. And you see the earth barren, but when We send down upon it rain, it quivers and swells and grows [something] of every beautiful kind.
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو اگر تم کو مرنے کے بعد جی اُٹھنے میں کچھ شک ہو تو ہم نے تم کو (پہلی بار بھی تو) پیدا کیا تھا (یعنی ابتدا میں) مٹی سے پھر اس سے نطفہ بنا کر۔ پھر اس سے خون کا لوتھڑا بنا کر۔ پھر اس سے بوٹی بنا کر جس کی بناوٹ کامل بھی ہوتی ہے اور ناقص بھی تاکہ تم پر (اپنی خالقیت) ظاہر کردیں۔ اور ہم جس کو چاہتے ہیں ایک میعاد مقرر تک پیٹ میں ٹھہرائے رکھتے ہیں پھر تم کو بچہ بنا کر نکالتے ہیں۔ پھر تم جوانی کو پہنچتے ہو۔ اور بعض (قبل از پیری مرجاتے ہیں اور بعض شیخ فالی ہوجاتے اور بڑھاپے کی) نہایت خراب عمر کی طرف لوٹائے جاتے ہیں کہ بہت کچھ جاننے کے بعد بالکل بےعلم ہوجاتے ہیں۔ اور (اے دیکھنے والے) تو دیکھتا ہے (کہ ایک وقت میں) زمین خشک (پڑی ہوتی ہے) پھر جب ہم اس پر مینہ برساتے ہیں تو شاداب ہوجاتی اور ابھرنے لگتی ہے اور طرح طرح کی بارونق چیزیں اُگاتی ہے
+
+[Open on Quran.com](https://quran.com/22/5)
+
+#### 24:31 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقُل لِّلْمُؤْمِنَـٰتِ يَغْضُضْنَ مِنْ أَبْصَـٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا ۖ وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ ۖ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُنَّ أَوِ ٱلتَّـٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ ۖ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ ۚ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ
+
+</div>
+
+**Word in this verse:** `ٱلطِّفْلِ` — [the] children
+
+**English (Sahih International):** And tell the believing women to reduce [some] of their vision and guard their private parts and not expose their adornment except that which [necessarily] appears thereof and to wrap [a portion of] their headcovers over their chests and not expose their adornment [i.e., beauty] except to their husbands, their fathers, their husbands' fathers, their sons, their husbands' sons, their brothers, their brothers' sons, their sisters' sons, their women, that which their right hands possess [i.e., slaves], or those male attendants having no physical desire, or children who are not yet aware of the private aspects of women. And let them not stamp their feet to make known what they conceal of their adornment. And turn to Allāh in repentance, all of you, O believers, that you might succeed.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مومن عورتوں سے بھی کہہ دو کہ وہ بھی اپنی نگاہیں نیچی رکھا کریں اور اپنی شرم گاہوں کی حفاظت کیا کریں اور اپنی آرائش (یعنی زیور کے مقامات) کو ظاہر نہ ہونے دیا کریں مگر جو ان میں سے کھلا رہتا ہو۔ اور اپنے سینوں پر اوڑھنیاں اوڑھے رہا کریں اور اپنے خاوند اور باپ اور خسر اور بیٹیوں اور خاوند کے بیٹوں اور بھائیوں اور بھتیجیوں اور بھانجوں اور اپنی (ہی قسم کی) عورتوں اور لونڈی غلاموں کے سوا نیز ان خدام کے جو عورتوں کی خواہش نہ رکھیں یا ایسے لڑکوں کے جو عورتوں کے پردے کی چیزوں سے واقف نہ ہوں (غرض ان لوگوں کے سوا) کسی پر اپنی زینت (اور سنگار کے مقامات) کو ظاہر نہ ہونے دیں۔ اور اپنے پاؤں (ایسے طور سے زمین پر) نہ ماریں (کہ جھنکار کانوں میں پہنچے اور) ان کا پوشیدہ زیور معلوم ہوجائے۔ اور مومنو! سب خدا کے آگے توبہ کرو تاکہ فلاح پاؤ
+
+[Open on Quran.com](https://quran.com/24/31)
+
+#### 24:59 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا بَلَغَ ٱلْأَطْفَـٰلُ مِنكُمُ ٱلْحُلُمَ فَلْيَسْتَـْٔذِنُوا۟ كَمَا ٱسْتَـْٔذَنَ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلْأَطْفَـٰلُ` — the children
+
+**English (Sahih International):** And when the children among you reach puberty, let them ask permission [at all times] as those before them have done. Thus does Allāh make clear to you His verses; and Allāh is Knowing and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تمہارے لڑکے بالغ ہوجائیں تو ان کو بھی اسی طرح اجازت لینی چاہیئے جس طرح ان سے اگلے (یعنی بڑے آدمی) اجازت حاصل کرتے رہے ہیں۔ اس طرح خدا تم سے اپنی آیتیں کھول کھول کر سناتا ہے۔ اور خدا جاننے والا اور حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/24/59)
+
+#### 40:67 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُوَ ٱلَّذِى خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ يُخْرِجُكُمْ طِفْلًا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ ثُمَّ لِتَكُونُوا۟ شُيُوخًا ۚ وَمِنكُم مَّن يُتَوَفَّىٰ مِن قَبْلُ ۖ وَلِتَبْلُغُوٓا۟ أَجَلًا مُّسَمًّى وَلَعَلَّكُمْ تَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `طِفْلًۭا` — (as) a child
+
+**English (Sahih International):** It is He who created you from dust, then from a sperm-drop, then from a clinging clot; then He brings you out as a child; then [He develops you] that you reach your [time of] maturity, then [further] that you become elders. And among you is he who is taken in death before [that], so that you reach a specified term; and perhaps you will use reason.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم کو (پہلے) مٹی سے پیدا کیا۔ ہھر نطفہ بنا کر پھر لوتھڑا بنا کر پھر تم کو نکالتا ہے (کہ تم) بچّے (ہوتے ہو) پھر تم اپنی جوانی کو پہنچتے ہو۔ پھر بوڑھے ہوجاتے ہو۔ اور کوئی تم میں سے پہلے ہی مرجاتا ہے اور تم (موت کے) وقت مقرر تک پہنچ جاتے ہو اور تاکہ تم سمجھو
+
+[Open on Quran.com](https://quran.com/40/67)
+

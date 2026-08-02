@@ -1,0 +1,111 @@
+---
+type: word
+lemma: "صَوْت"
+slug: "Swt - voice"
+surah_count: 4
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# Swt - voice
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Swt - sound]]
+
+### Meaning
+**voice** · Lemma **صَوْت**
+
+### Surahs (4)
+- [[017 Al-Isra]]
+- [[020 Taha]]
+- [[031 Luqman]]
+- [[049 Al-Hujurat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 17:64 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱسْتَفْزِزْ مَنِ ٱسْتَطَعْتَ مِنْهُم بِصَوْتِكَ وَأَجْلِبْ عَلَيْهِم بِخَيْلِكَ وَرَجِلِكَ وَشَارِكْهُمْ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَـٰدِ وَعِدْهُمْ ۚ وَمَا يَعِدُهُمُ ٱلشَّيْطَـٰنُ إِلَّا غُرُورًا
+
+</div>
+
+**Word in this verse:** `بِصَوْتِكَ` — with your voice
+
+**English (Sahih International):** And incite [to senselessness] whoever you can among them with your voice and assault them with your horses and foot soldiers and become a partner in their wealth and their children and promise them." But Satan does not promise them except delusion.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے جس کو بہکا سکے اپنی آواز سے بہکاتا رہ۔ اور ان پر اپنے سواروں اور پیاروں کو چڑھا کر لاتا رہ اور ان کے مال اور اولاد میں شریک ہوتا رہ اور ان سے وعدے کرتا رہ۔ اور شیطان جو وعدے ان سے کرتا ہے سب دھوکا ہے
+
+[Open on Quran.com](https://quran.com/17/64)
+
+#### 20:108 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَوْمَئِذٍ يَتَّبِعُونَ ٱلدَّاعِىَ لَا عِوَجَ لَهُۥ ۖ وَخَشَعَتِ ٱلْأَصْوَاتُ لِلرَّحْمَـٰنِ فَلَا تَسْمَعُ إِلَّا هَمْسًا
+
+</div>
+
+**Word in this verse:** `ٱلْأَصْوَاتُ` — the voices
+
+**English (Sahih International):** That Day, they [i.e., everyone] will follow [the call of] the Caller [with] no deviation therefrom, and [all] voices will be stilled before the Most Merciful, so you will not hear except a whisper [of footsteps].
+
+**Urdu (Fatah Muhammad Jalandhari):** اس روز لوگ ایک پکارنے والے کے پیچھے چلیں گے اور اس کی پیروی سے انحراف نہ کرسکیں گے اور خدا کے سامنے آوازیں پست ہوجائیں گی تو تم آواز خفی کے سوا کوئی آواز نہ سنو گے
+
+[Open on Quran.com](https://quran.com/20/108)
+
+#### 31:19 · [[031 Luqman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱقْصِدْ فِى مَشْيِكَ وَٱغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ
+
+</div>
+
+**Word in this verse:** `صَوْتِكَ ۚ` — your voice
+
+**English (Sahih International):** And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the voice of donkeys."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی چال میں اعتدال کئے رہنا اور (بولتے وقت) آواز نیچی رکھنا کیونکہ (اُونچی آواز گدھوں کی ہے اور کچھ شک نہیں کہ) سب آوازوں سے بُری آواز گدھوں کی ہے
+
+[Open on Quran.com](https://quran.com/31/19)
+
+#### 49:2 · [[049 Al-Hujurat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا تَجْهَرُوا۟ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَـٰلُكُمْ وَأَنتُمْ لَا تَشْعُرُونَ
+
+</div>
+
+**Word in this verse:** `أَصْوَٰتَكُمْ` — your voices
+
+**English (Sahih International):** O you who have believed, do not raise your voices above the voice of the Prophet or be loud to him in speech like the loudness of some of you to others, lest your deeds become worthless while you perceive not.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان! اپنی آوازیں پیغمبر کی آواز سے اونچی نہ کرو اور جس طرح آپس میں ایک دوسرے سے زور سے بولتے ہو (اس طرح) ان کے روبرو زور سے نہ بولا کرو (ایسا نہ ہو) کہ تمہارے اعمال ضائع ہوجائیں اور تم کو خبر بھی نہ ہو
+
+[Open on Quran.com](https://quran.com/49/2)
+
+#### 49:3 · [[049 Al-Hujurat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ يَغُضُّونَ أَصْوَٰتَهُمْ عِندَ رَسُولِ ٱللَّهِ أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱمْتَحَنَ ٱللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ ۚ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ
+
+</div>
+
+**Word in this verse:** `أَصْوَٰتَهُمْ` — their voices
+
+**English (Sahih International):** Indeed, those who lower their voices before the Messenger of Allāh - they are the ones whose hearts Allāh has tested for righteousness. For them is forgiveness and great reward.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ پیغمبر خدا کے سامنے دبی آواز سے بولتے ہیں خدا نے ان کے دل تقویٰ کے لئے آزما لئے ہیں۔ ان کے لئے بخشش اور اجر عظیم ہے
+
+[Open on Quran.com](https://quran.com/49/3)
+

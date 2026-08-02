@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "path:Words OR path:Roots OR tag:#surah",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Words",
+      "color": {
+        "a": 1,
+        "rgb": 4287076
+      }
+    },
+    {
+      "query": "path:Roots",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#surah",
+      "color": {
+        "a": 1,
+        "rgb": 16760576
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.4,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.45,
+  "close": false
+}

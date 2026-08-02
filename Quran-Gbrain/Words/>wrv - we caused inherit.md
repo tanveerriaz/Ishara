@@ -1,0 +1,199 @@
+---
+type: word
+lemma: "أَوْرَثَ"
+slug: ">wrv - we caused inherit"
+surah_count: 10
+ayah_count: 12
+tags: [word, meaning]
+---
+
+# >wrv - we caused inherit
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[wrv - receiving property]]
+
+### Meaning
+**we caused inherit** · Lemma **أَوْرَثَ**
+
+### Surahs (10)
+- [[007 Al-Araf]]
+- [[019 Maryam]]
+- [[026 Ash-Shuara]]
+- [[033 Al-Ahzab]]
+- [[035 Fatir]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[042 Ash-Shuraa]]
+- [[043 Az-Zukhruf]]
+- [[044 Ad-Dukhan]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 7:43 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَـٰرُ ۖ وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى هَدَىٰنَا لِهَـٰذَا وَمَا كُنَّا لِنَهْتَدِىَ لَوْلَآ أَنْ هَدَىٰنَا ٱللَّهُ ۖ لَقَدْ جَآءَتْ رُسُلُ رَبِّنَا بِٱلْحَقِّ ۖ وَنُودُوٓا۟ أَن تِلْكُمُ ٱلْجَنَّةُ أُورِثْتُمُوهَا بِمَا كُنتُمْ تَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `أُورِثْتُمُوهَا` — you have been made to inherit it
+
+**English (Sahih International):** And We will have removed whatever is within their breasts of resentment, [while] flowing beneath them are rivers. And they will say, "Praise to Allāh, who has guided us to this; and we would never have been guided if Allāh had not guided us. Certainly the messengers of our Lord had come with the truth." And they will be called, "This is Paradise, which you have been made to inherit for what you used to do."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کینے ان کے دلوں میں ہوں گے ہم سب نکال ڈالیں گے۔ ان کے محلوں کے نیچے نہریں بہہ رہی ہوں گی اور کہیں گے کہ خدا کا شکر ہے جس نے ہم کو یہاں کا راستہ دکھایا اور اگر خدا ہم کو رستہ نہ دکھاتا تو ہم رستہ نہ پا سکتے۔ بےشک ہمارا پروردگار کے رسول حق بات لے کر آئے تھے اور (اس روز) منادی کر دی جائے گی کہ تم ان اعمال کے صلے میں جو دنیا میں کرتے تھے اس بہشت کے وارث بنا دیئے گئے ہو
+
+[Open on Quran.com](https://quran.com/7/43)
+
+#### 7:128 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ مُوسَىٰ لِقَوْمِهِ ٱسْتَعِينُوا۟ بِٱللَّهِ وَٱصْبِرُوٓا۟ ۖ إِنَّ ٱلْأَرْضَ لِلَّهِ يُورِثُهَا مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَٱلْعَـٰقِبَةُ لِلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `يُورِثُهَا` — He causes to inherit it
+
+**English (Sahih International):** Said Moses to his people, "Seek help through Allāh and be patient. Indeed, the earth belongs to Allāh. He causes to inherit it whom He wills of His servants. And the [best] outcome is for the righteous."
+
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے اپنی قوم سے کہا کہ خدا سے مدد مانگو اور ثابت قدم رہو۔ زمین تو خدا کی ہے۔ وہ اپنے بندوں میں سے جسے چاہتا ہے اس کا مالک بناتا ہے۔ اور آخر بھلا تو ڈرنے والوں کا ہے
+
+[Open on Quran.com](https://quran.com/7/128)
+
+#### 7:137 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَوْرَثْنَا ٱلْقَوْمَ ٱلَّذِينَ كَانُوا۟ يُسْتَضْعَفُونَ مَشَـٰرِقَ ٱلْأَرْضِ وَمَغَـٰرِبَهَا ٱلَّتِى بَـٰرَكْنَا فِيهَا ۖ وَتَمَّتْ كَلِمَتُ رَبِّكَ ٱلْحُسْنَىٰ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ بِمَا صَبَرُوا۟ ۖ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُۥ وَمَا كَانُوا۟ يَعْرِشُونَ
+
+</div>
+
+**Word in this verse:** `وَأَوْرَثْنَا` — And We made inheritors
+
+**English (Sahih International):** And We caused the people who had been oppressed to inherit the eastern regions of the land and the western ones, which We had blessed. And the good word [i.e., decree] of your Lord was fulfilled for the Children of Israel because of what they had patiently endured. And We destroyed [all] that Pharaoh and his people were producing and what they had been building.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ کمزور سمجھے جاتے تھے ان کو زمین (شام) کے مشرق ومغرب کا جس میں ہم نے برکت دی تھی وارث کردیا اور بنی اسرائیل کے بارے میں ان کے صبر کی وجہ سے تمہارے پروردگار کا وعدہٴ نیک پورا ہوا اور فرعون اور قوم فرعون جو (محل) بناتے اور (انگور کے باغ) جو چھتریوں پر چڑھاتے تھے سب کو ہم نے تباہ کردیا
+
+[Open on Quran.com](https://quran.com/7/137)
+
+#### 19:63 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+تِلْكَ ٱلْجَنَّةُ ٱلَّتِى نُورِثُ مِنْ عِبَادِنَا مَن كَانَ تَقِيًّا
+
+</div>
+
+**Word in this verse:** `نُورِثُ` — We give (as) inheritance
+
+**English (Sahih International):** That is Paradise, which We give as inheritance to those of Our servants who were fearing of Allāh.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی وہ جنت ہے جس کا ہم اپنے بندوں میں سے ایسے شخص کو وارث بنائیں گے جو پرہیزگار ہوگا
+
+[Open on Quran.com](https://quran.com/19/63)
+
+#### 26:59 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَذَٰلِكَ وَأَوْرَثْنَـٰهَا بَنِىٓ إِسْرَٰٓءِيلَ
+
+</div>
+
+**Word in this verse:** `وَأَوْرَثْنَـٰهَا` — And We caused to inherit them
+
+**English (Sahih International):** Thus. And We caused to inherit it the Children of Israel.
+
+**Urdu (Fatah Muhammad Jalandhari):** (ان کے ساتھ ہم نے) اس طرح (کیا) اور ان چیزوں کا وارث بنی اسرائیل کو کر دیا
+
+[Open on Quran.com](https://quran.com/26/59)
+
+#### 33:27 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَـٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًا لَّمْ تَطَـُٔوهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا
+
+</div>
+
+**Word in this verse:** `وَأَوْرَثَكُمْ` — And He caused you to inherit
+
+**English (Sahih International):** And He caused you to inherit their land and their homes and their properties and a land which you have not trodden. And ever is Allāh, over all things, competent.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اُن کی زمین اور ان کے گھروں اور ان کے مال کا اور اس زمین کا جس میں تم نے پاؤں بھی نہیں رکھا تھا تم کو وارث بنا دیا۔ اور خدا ہر چیز پر قدرت رکھتا ہے
+
+[Open on Quran.com](https://quran.com/33/27)
+
+#### 35:32 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ أَوْرَثْنَا ٱلْكِتَـٰبَ ٱلَّذِينَ ٱصْطَفَيْنَا مِنْ عِبَادِنَا ۖ فَمِنْهُمْ ظَالِمٌ لِّنَفْسِهِۦ وَمِنْهُم مُّقْتَصِدٌ وَمِنْهُمْ سَابِقٌۢ بِٱلْخَيْرَٰتِ بِإِذْنِ ٱللَّهِ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ
+
+</div>
+
+**Word in this verse:** `أَوْرَثْنَا` — We caused to inherit
+
+**English (Sahih International):** Then We caused to inherit the Book those We have chosen of Our servants; and among them is he who wrongs himself [i.e., sins], and among them is he who is moderate, and among them is he who is foremost in good deeds by permission of Allāh. That [inheritance] is what is the great bounty.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے ان لوگوں کو کتاب کا وارث ٹھیرایا جن کو اپنے بندوں میں سے برگزیدہ کیا۔ تو کچھ تو ان میں سے اپنے آپ پر ظلم کرتے ہیں۔ اور کچھ میانہ رو ہیں۔ اور کچھ خدا کے حکم سے نیکیوں میں آگے نکل جانے والے ہیں۔ یہی بڑا فضل ہے
+
+[Open on Quran.com](https://quran.com/35/32)
+
+#### 39:74 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى صَدَقَنَا وَعْدَهُۥ وَأَوْرَثَنَا ٱلْأَرْضَ نَتَبَوَّأُ مِنَ ٱلْجَنَّةِ حَيْثُ نَشَآءُ ۖ فَنِعْمَ أَجْرُ ٱلْعَـٰمِلِينَ
+
+</div>
+
+**Word in this verse:** `وَأَوْرَثَنَا` — and has made us inherit
+
+**English (Sahih International):** And they will say, "Praise to Allāh, who has fulfilled for us His promise and made us inherit the earth [so] we may settle in Paradise wherever we will. And excellent is the reward of [righteous] workers."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہیں گے کہ خدا کا شکر ہے جس نے اپنے وعدہ کو ہم سے سچا کردیا اور ہم کو اس زمین کا وارث بنا دیا ہم بہشت میں جس مکان میں چاہیں رہیں تو (اچھے) عمل کرنے والوں کا بدلہ بھی کیسا خوب ہے
+
+[Open on Quran.com](https://quran.com/39/74)
+
+#### 40:53 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْهُدَىٰ وَأَوْرَثْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَـٰبَ
+
+</div>
+
+**Word in this verse:** `وَأَوْرَثْنَا` — and We caused to inherit
+
+**English (Sahih International):** And We had certainly given Moses guidance, and We caused the Children of Israel to inherit the Scripture
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو ہدایت (کی کتاب) دی اور بنی اسرائیل کو اس کتاب کا وارث بنایا
+
+[Open on Quran.com](https://quran.com/40/53)
+
+#### 42:14 · [[042 Ash-Shuraa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍ مُّسَمًّى لَّقُضِىَ بَيْنَهُمْ ۚ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَـٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ
+
+</div>
+
+**Word in this verse:** `أُورِثُوا۟` — were made to inherit
+
+**English (Sahih International):** And they did not become divided until after knowledge had come to them - out of jealous animosity between themselves. And if not for a word that preceded from your Lord [postponing the penalty] until a specified time, it would have been concluded between them. And indeed, those who were granted inheritance of the Scripture after them are, concerning it, in disquieting doubt.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ جو الگ الگ ہوئے ہیں تو علم (حق) آچکنے کے بعد آپس کی ضد سے (ہوئے ہیں)۔ اور اگر تمہارے پروردگار کی طرف سے ایک وقت مقرر تک کے لئے بات نہ ٹھہر چکی ہوتی تو ان میں فیصلہ کردیا جاتا۔ اور جو لوگ ان کے بعد (خدا کی) کتاب کے وارث ہوئے وہ اس (کی طرف) سے شبہے کی الجھن میں (پھنسے ہوئے) ہیں
+
+[Open on Quran.com](https://quran.com/42/14)
+
+_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

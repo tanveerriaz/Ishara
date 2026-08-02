@@ -1,0 +1,208 @@
+---
+type: word
+lemma: "ذُرِّيَّة"
+slug: "*ryp - offspring"
+surah_count: 19
+ayah_count: 30
+tags: [word, meaning]
+---
+
+# *ryp - offspring
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[*rr - scattering dispersing small]]
+
+### Meaning
+**offspring** · Lemma **ذُرِّيَّة**
+
+### Surahs (19)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[010 Yunus]]
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[019 Maryam]]
+- [[025 Al-Furqan]]
+- [[029 Al-Ankabut]]
+- [[036 Ya-Sin]]
+- [[037 As-Saffat]]
+- [[040 Ghafir]]
+- [[046 Al-Ahqaf]]
+- [[052 At-Tur]]
+- [[057 Al-Hadid]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:124 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِـۧمَ رَبُّهُۥ بِكَلِمَـٰتٍ فَأَتَمَّهُنَّ ۖ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ إِمَامًا ۖ قَالَ وَمِن ذُرِّيَّتِى ۖ قَالَ لَا يَنَالُ عَهْدِى ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `ذُرِّيَّتِى ۖ` — my offspring
+
+**English (Sahih International):** And [mention, O Muḥammad], when Abraham was tried by his Lord with words [i.e., commands] and he fulfilled them. [Allāh] said, "Indeed, I will make you a leader for the people." [Abraham] said, "And of my descendants?" [Allāh] said, "My covenant does not include the wrongdoers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب پروردگار نے چند باتوں میں ابراہیم کی آزمائش کی تو ان میں پورے اترے۔ خدا نے کہا کہ میں تم کو لوگوں کا پیشوا بناؤں گا۔ انہوں نے کہا کہ (پروردگار) میری اولاد میں سے بھی (پیشوا بنائیو)۔ خدا نے فرمایا کہ ہمارا اقرار ظالموں کے لیے نہیں ہوا کرتا
+
+[Open on Quran.com](https://quran.com/2/124)
+
+#### 2:128 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ
+
+</div>
+
+**Word in this verse:** `ذُرِّيَّتِنَآ` — our offspring
+
+**English (Sahih International):** Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites [of worship] and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار، ہم کو اپنا فرمانبردار بنائے رکھیو۔ اور ہماری اولاد میں سے بھی ایک گروہ کو اپنا مطیع بنائے رہیو، اور (پروردگار) ہمیں طریق عبادت بتا اور ہمارے حال پر (رحم کے ساتھ) توجہ فرما۔ بے شک تو توجہ فرمانے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/2/128)
+
+#### 2:266 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَيَوَدُّ أَحَدُكُمْ أَن تَكُونَ لَهُۥ جَنَّةٌ مِّن نَّخِيلٍ وَأَعْنَابٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ لَهُۥ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَأَصَابَهُ ٱلْكِبَرُ وَلَهُۥ ذُرِّيَّةٌ ضُعَفَآءُ فَأَصَابَهَآ إِعْصَارٌ فِيهِ نَارٌ فَٱحْتَرَقَتْ ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْـَٔايَـٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `ذُرِّيَّةٌۭ` — children
+
+**English (Sahih International):** Would one of you like to have a garden of palm trees and grapevines underneath which rivers flow in which he has from every fruit? But he is afflicted with old age and has weak [i.e., immature] offspring, and it is hit by a whirlwind containing fire and is burned. Thus does Allāh make clear to you [His] verses that you might give thought.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم میں کوئی یہ چاہتا ہے کہ اس کا کھجوروں اور انگوروں کا باغ ہو جس میں نہریں بہہ رہی ہوں اور اس میں اس کے لئے ہر قسم کے میوے موجود ہوں اور اسے بڑھاپا آپکڑے اور اس کے ننھے ننھے بچے بھی ہوں۔ تو (ناگہاں) اس باغ پر آگ کا بھرا ہوا بگولا چلے اور وہ جل کر (راکھ کا ڈھیر ہو) جائے۔ اس طرح خدا تم سے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم سوچو (اور سمجھو)
+
+[Open on Quran.com](https://quran.com/2/266)
+
+#### 3:34 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ذُرِّيَّةًۢ بَعْضُهَا مِنۢ بَعْضٍ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `ذُرِّيَّةًۢ` — Descendents
+
+**English (Sahih International):** Descendants, some of them from others. And Allāh is Hearing and Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان میں سے بعض بعض کی اولاد تھے اور خدا سننے والا (اور) جاننے والا ہے
+
+[Open on Quran.com](https://quran.com/3/34)
+
+#### 3:36 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ ۖ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ
+
+</div>
+
+**Word in this verse:** `وَذُرِّيَّتَهَا` — and her offspring
+
+**English (Sahih International):** But when she delivered her, she said, "My Lord, I have delivered a female." And Allāh was most knowing of what she delivered, and the male is not like the female. "And I have named her Mary, and I seek refuge for her in You and [for] her descendants from Satan, the expelled [from the mercy of Allāh]."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب ان کے ہاں بچہ پیدا ہوا اور جو کچھ ان کے ہاں پیدا ہوا تھا خدا کو خوب معلوم تھا تو کہنے لگیں کہ پروردگار! میرے تو لڑکی ہوئی ہے اور (نذر کے لیے) لڑکا (موزوں تھا کہ وہ) لڑکی کی طرح (ناتواں) نہیں ہوتا اور میں نے اس کا نام مریم رکھا ہے اور میں اس کو اور اس کی اولاد کو شیطان مردود سے تیری پناہ میں دیتی ہوں
+
+[Open on Quran.com](https://quran.com/3/36)
+
+#### 3:38 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ
+
+</div>
+
+**Word in this verse:** `ذُرِّيَّةًۭ` — offspring
+
+**English (Sahih International):** At that, Zechariah called upon his Lord, saying, "My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication."
+
+**Urdu (Fatah Muhammad Jalandhari):** اس وقت زکریا نے اپنے پروردگار سے دعا کی (اور) کہا کہ پروردگار مجھے اپنی جناب سے اولاد صالح عطا فرما تو بے شک دعا سننے (اور قبول کرنے) والا ہے
+
+[Open on Quran.com](https://quran.com/3/38)
+
+#### 4:9 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَـٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟ ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًا سَدِيدًا
+
+</div>
+
+**Word in this verse:** `ذُرِّيَّةًۭ` — offspring
+
+**English (Sahih International):** And let those [executors and guardians] fear [injustice] as if they [themselves] had left weak offspring behind and feared for them. So let them fear Allāh and speak words of appropriate justice.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ایسے لوگوں کو ڈرنا چاہیئے جو (ایسی حالت میں ہوں کہ) اپنے بعد ننھے ننھے بچے چھوڑ جائیں اور ان کو ان کی نسبت خوف ہو (کہ ان کے مرنے کے بعد ان بیچاروں کا کیا حال ہوگا) پس چاہیئے کہ یہ لوگ خدا سے ڈریں اور معقول بات کہیں
+
+[Open on Quran.com](https://quran.com/4/9)
+
+#### 6:84 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۚ كُلًّا هَدَيْنَا ۚ وَنُوحًا هَدَيْنَا مِن قَبْلُ ۖ وَمِن ذُرِّيَّتِهِۦ دَاوُۥدَ وَسُلَيْمَـٰنَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَـٰرُونَ ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ
+
+</div>
+
+**Word in this verse:** `ذُرِّيَّتِهِۦ` — his descendents
+
+**English (Sahih International):** And We gave to him [i.e., Abraham] Isaac and Jacob - all [of them] We guided. And Noah, We guided before; and among his descendants, David and Solomon and Job and Joseph and Moses and Aaron. Thus do We reward the doers of good.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو اسحاق اور یعقوب بخشے۔ (اور) سب کو ہدایت دی۔ اور پہلے نوح کو بھی ہدایت دی تھی اور ان کی اولاد میں سے داؤد اور سلیمان اور ایوب اور یوسف اور موسیٰ اور ہارون کو بھی۔ اور ہم نیک لوگوں کو ایسا ہی بدلا دیا کرتے ہیں
+
+[Open on Quran.com](https://quran.com/6/84)
+
+#### 6:87 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنْ ءَابَآئِهِمْ وَذُرِّيَّـٰتِهِمْ وَإِخْوَٰنِهِمْ ۖ وَٱجْتَبَيْنَـٰهُمْ وَهَدَيْنَـٰهُمْ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+
+</div>
+
+**Word in this verse:** `وَذُرِّيَّـٰتِهِمْ` — and their descendents
+
+**English (Sahih International):** And [some] among their fathers and their descendants and their brothers - and We chose them and We guided them to a straight path.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض بعض کو ان کے باپ دادا اور اولاد اور بھائیوں میں سے بھی۔ اور ان کو برگزیدہ بھی کیا تھا اور سیدھا رستہ بھی دکھایا تھا
+
+[Open on Quran.com](https://quran.com/6/87)
+
+#### 6:133 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَرَبُّكَ ٱلْغَنِىُّ ذُو ٱلرَّحْمَةِ ۚ إِن يَشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِنۢ بَعْدِكُم مَّا يَشَآءُ كَمَآ أَنشَأَكُم مِّن ذُرِّيَّةِ قَوْمٍ ءَاخَرِينَ
+
+</div>
+
+**Word in this verse:** `ذُرِّيَّةِ` — the descendants
+
+**English (Sahih International):** And your Lord is the Free of need, the possessor of mercy. If He wills, He can do away with you and give succession after you to whomever He wills, just as He produced you from the descendants of another people.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا پروردگار بےپروا (اور) صاحب رحمت ہے اگر چاہے (تو اے بندوں) تمہیں نابود کر دے اور تمہارے بعد جن لوگوں کو چاہے تمہارا جانشین بنا دے جیسا تم کو بھی دوسرے لوگوں کی نسل سے پیدا کیا ہے
+
+[Open on Quran.com](https://quran.com/6/133)
+
+_…and **20** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

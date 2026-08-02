@@ -1,0 +1,205 @@
+---
+type: word
+lemma: "حَيّ"
+slug: "Hy - living"
+surah_count: 16
+ayah_count: 22
+tags: [word, meaning]
+---
+
+# Hy - living
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Hyy - life]]
+
+### Meaning
+**living** · Lemma **حَيّ**
+
+### Surahs (16)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[006 Al-Anam]]
+- [[010 Yunus]]
+- [[016 An-Nahl]]
+- [[019 Maryam]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[025 Al-Furqan]]
+- [[030 Ar-Rum]]
+- [[035 Fatir]]
+- [[036 Ya-Sin]]
+- [[040 Ghafir]]
+- [[058 Al-Mujadila]]
+- [[077 Al-Mursalat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:154 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَقُولُوا۟ لِمَن يُقْتَلُ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتٌۢ ۚ بَلْ أَحْيَآءٌ وَلَـٰكِن لَّا تَشْعُرُونَ
+
+</div>
+
+**Word in this verse:** `أَحْيَآءٌۭ` — (they are) alive
+
+**English (Sahih International):** And do not say about those who are killed in the way of Allāh, "They are dead." Rather, they are alive, but you perceive [it] not.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا کی راہ میں مارے جائیں ان کی نسبت یہ کہنا کہ وہ مرے ہوئے ہیں (وہ مردہ نہیں) بلکہ زندہ ہیں لیکن تم نہیں جانتے
+
+[Open on Quran.com](https://quran.com/2/154)
+
+#### 2:255 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
+
+</div>
+
+**Word in this verse:** `ٱلْحَىُّ` — the Ever-Living
+
+**English (Sahih International):** Allāh - there is no deity except Him, the Ever-Living, the Self-Sustaining. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursī extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا (وہ معبود برحق ہے کہ) اس کے سوا کوئی عبادت کے لائق نہیں زندہ ہمیشہ رہنے والا اسے نہ اونگھ آتی ہے نہ نیند جو کچھ آسمانوں میں اور جو کچھ زمین میں ہیں سب اسی کا ہے کون ہے جو اس کی اجازت کے بغیر اس سے (کسی کی) سفارش کر سکے جو کچھ لوگوں کے روبرو ہو رہا ہے اور جو کچھ ان کے پیچھے ہوچکا ہے اسے سب معلوم ہے اور وہ اس کی معلومات میں سے کسی چیز پر دسترس حاصل نہیں کر سکتے ہاں جس قدر وہ چاہتا ہے (اسی قدر معلوم کرا دیتا ہے) اس کی بادشاہی (اور علم) آسمان اور زمین سب پر حاوی ہے اور اسے ان کی حفاظت کچھ بھی دشوار نہیں وہ بڑا عالی رتبہ اور جلیل القدر ہے
+
+[Open on Quran.com](https://quran.com/2/255)
+
+#### 3:2 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ
+
+</div>
+
+**Word in this verse:** `ٱلْحَىُّ` — the Ever-Living
+
+**English (Sahih International):** Allāh - there is no deity except Him, the Ever-Living, the Self-Sustaining.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا (جو معبود برحق ہے) اس کے سوا کوئی عبادت کے لائق نہیں ہمیشہ زندہ رہنے والا
+
+[Open on Quran.com](https://quran.com/3/2)
+
+#### 3:27 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ ۖ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ ۖ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍ
+
+</div>
+
+**Word in this verse:** `ٱلْحَىَّ` — the living
+
+**English (Sahih International):** You cause the night to enter the day, and You cause the day to enter the night; and You bring the living out of the dead, and You bring the dead out of the living. And You give provision to whom You will without account [i.e., limit or measure]."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہی رات کو دن میں داخل کرتا اور تو ہی دن کو رات میں داخل کرتا ہے تو ہی بے جان سے جاندار پیدا کرتا ہے اور تو ہی جاندار سے بے جان پیدا کرتا ہے اور توہی جس کو چاہتا ہے بے شمار رزق بخشتا ہے
+
+[Open on Quran.com](https://quran.com/3/27)
+
+#### 3:169 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا ۚ بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ يُرْزَقُونَ
+
+</div>
+
+**Word in this verse:** `أَحْيَآءٌ` — They are alive
+
+**English (Sahih International):** And never think of those who have been killed in the cause of Allāh as dead. Rather, they are alive with their Lord, receiving provision,
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کی راہ میں مارے گئے ان کو مرے ہوئے نہ سمجھنا (وہ مرے ہوئے نہیں ہیں) بلکہ خدا کے نزدیک زندہ ہیں اور ان کو رزق مل رہا ہے
+
+[Open on Quran.com](https://quran.com/3/169)
+
+#### 4:86 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ أَوْ رُدُّوهَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا
+
+</div>
+
+**Word in this verse:** `حُيِّيتُم` — you are greeted
+
+**English (Sahih International):** And when you are greeted with a greeting, greet [in return] with one better than it or [at least] return it [in a like manner]. Indeed Allāh is ever, over all things, an Accountant.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم کو کوئی دعا دے تو (جواب میں) تم اس سے بہتر (کلمے) سے (اسے) دعا دو یا انہیں لفظوں سے دعا دو بےشک خدا ہر چیز کا حساب لینے والا ہے
+
+[Open on Quran.com](https://quran.com/4/86)
+
+#### 6:95 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ ۖ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ مِنَ ٱلْحَىِّ ۚ ذَٰلِكُمُ ٱللَّهُ ۖ فَأَنَّىٰ تُؤْفَكُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْحَىَّ` — the living
+
+**English (Sahih International):** Indeed, Allāh is the cleaver of grain and date seeds. He brings the living out of the dead and brings the dead out of the living. That is Allāh; so how are you deluded?
+
+**Urdu (Fatah Muhammad Jalandhari):** بے شک خدا ہی دانے اور گٹھلی کو پھاڑ کر (ان سے درخت وغیرہ) اگاتا ہے وہی جاندار کو بے جان سے نکالتا ہے اور وہی بےجان کا جاندار سے نکالنے والا ہے۔ یہی تو خدا ہے۔ پھر تم کہاں بہکے پھرتے ہو
+
+[Open on Quran.com](https://quran.com/6/95)
+
+#### 10:31 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَمَن يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ ۚ فَسَيَقُولُونَ ٱللَّهُ ۚ فَقُلْ أَفَلَا تَتَّقُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْحَىَّ` — the living
+
+**English (Sahih International):** Say, "Who provides for you from the heaven and the earth? Or who controls hearing and sight and who brings the living out of the dead and brings the dead out of the living and who arranges [every] matter?" They will say, "Allāh," so say, "Then will you not fear Him?"
+
+**Urdu (Fatah Muhammad Jalandhari):** (ان سے) پوچھو کہ تم کو آسمان اور زمین میں رزق کون دیتا ہے یا (تمہارے) کانوں اور آنکھوں کا مالک کون ہے اور بےجان سے جاندار کون پیدا کرتا ہے اور دنیا کے کاموں کا انتظام کون کرتا ہے۔ جھٹ کہہ دیں گے کہ خدا۔ تو کہو کہ پھر تم (خدا سے) ڈرتے کیوں نہیں؟
+
+[Open on Quran.com](https://quran.com/10/31)
+
+#### 16:21 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ ۖ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
+
+</div>
+
+**Word in this verse:** `أَحْيَآءٍۢ ۖ` — not alive
+
+**English (Sahih International):** They are [in fact] dead, not alive, and they do not perceive when they will be resurrected.
+
+**Urdu (Fatah Muhammad Jalandhari):** لاشیں ہیں بےجان۔ ان کو یہ بھی تو معلوم نہیں کہ اٹھائے کب جائیں گے
+
+[Open on Quran.com](https://quran.com/16/21)
+
+#### 19:15 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَسَلَـٰمٌ عَلَيْهِ يَوْمَ وُلِدَ وَيَوْمَ يَمُوتُ وَيَوْمَ يُبْعَثُ حَيًّا
+
+</div>
+
+**Word in this verse:** `حَيًّۭا` — alive
+
+**English (Sahih International):** And peace be upon him the day he was born and the day he dies and the day he is raised alive.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن وہ پیدا ہوئے اور جس دن وفات پائیں گے اور جس دن زندہ کرکے اٹھائے جائیں گے۔ ان پر سلام اور رحمت (ہے)
+
+[Open on Quran.com](https://quran.com/19/15)
+
+_…and **12** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

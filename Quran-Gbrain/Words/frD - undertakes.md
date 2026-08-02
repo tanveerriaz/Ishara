@@ -1,0 +1,160 @@
+---
+type: word
+lemma: "فَرَضَ"
+slug: "frD - undertakes"
+surah_count: 5
+ayah_count: 8
+tags: [word, meaning]
+---
+
+# frD - undertakes
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[frD - mark incision]]
+
+### Meaning
+**undertakes** · Lemma **فَرَضَ**
+
+### Surahs (5)
+- [[002 Al-Baqarah]]
+- [[024 An-Nur]]
+- [[028 Al-Qasas]]
+- [[033 Al-Ahzab]]
+- [[066 At-Tahrim]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:197 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَـٰتٌ ۚ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِى ٱلْحَجِّ ۗ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ ۗ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ ۚ وَٱتَّقُونِ يَـٰٓأُو۟لِى ٱلْأَلْبَـٰبِ
+
+</div>
+
+**Word in this verse:** `فَرَضَ` — undertakes
+
+**English (Sahih International):** Ḥajj is [during] well-known months, so whoever has made ḥajj obligatory upon himself therein [by entering the state of iḥrām], there is [to be for him] no sexual relations and no disobedience and no disputing during ḥajj. And whatever good you do - Allāh knows it. And take provisions, but indeed, the best provision is fear of Allāh. And fear Me, O you of understanding.
+
+**Urdu (Fatah Muhammad Jalandhari):** حج کے مہینے (معین ہیں جو) معلوم ہیں تو شخص ان مہینوں میں حج کی نیت کرلے تو حج (کے دنوں) میں نہ عورتوں سے اختلاط کرے نہ کوئی برا کام کرے نہ کسی سے جھگڑے۔ اور جو نیک کام تم کرو گے وہ خدا کو معلوم ہوجائے گا اور زاد راہ (یعنی رستے کا خرچ) ساتھ لے جاؤ کیونکہ بہتر (فائدہ) زاد راہ (کا) پرہیزگاری ہے اور اے اہل عقل مجھ سے ڈرتے رہو
+
+[Open on Quran.com](https://quran.com/2/197)
+
+#### 2:236 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَّا جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا۟ لَهُنَّ فَرِيضَةً ۚ وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ مَتَـٰعًۢا بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُحْسِنِينَ
+
+</div>
+
+**Word in this verse:** `تَفْرِضُوا۟` — you specified
+
+**English (Sahih International):** There is no blame upon you if you divorce women you have not touched nor specified for them an obligation. But give them [a gift of] compensation - the wealthy according to his capability and the poor according to his capability - a provision according to what is acceptable, a duty upon the doers of good.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے یا ان کا مہر مقرر کرنے سے پہلے طلاق دے دو تو تم پر کچھ گناہ نہیں۔ ہاں ان کو دستور کے مطابق کچھ خرچ ضرور دو (یعنی) مقدور والا اپنے مقدور کے مطابق دے اور تنگدست اپنی حیثیت کے مطابق۔ نیک لوگوں پر یہ ایک طرح کا حق ہے
+
+[Open on Quran.com](https://quran.com/2/236)
+
+#### 2:237 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إِلَّآ أَن يَعْفُونَ أَوْ يَعْفُوَا۟ ٱلَّذِى بِيَدِهِۦ عُقْدَةُ ٱلنِّكَاحِ ۚ وَأَن تَعْفُوٓا۟ أَقْرَبُ لِلتَّقْوَىٰ ۚ وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ ۚ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+</div>
+
+**Word in this verse:** `فَرَضْتُمْ` — you have specified
+
+**English (Sahih International):** And if you divorce them before you have touched them and you have already specified for them an obligation, then [give] half of what you specified - unless they forego the right or the one in whose hand is the marriage contract foregoes it. And to forego it is nearer to righteousness. And do not forget graciousness between you. Indeed Allāh, of whatever you do, is Seeing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے سے پہلے طلاق دے دو لیکن مہر مقرر کرچکے ہو تو آدھا مہر دینا ہوگا۔ ہاں اگر عورتیں مہر بخش دیں یا مرد جن کے ہاتھ میں عقد نکاح ہے (اپنا حق) چھوڑ دیں۔ (اور پورا مہر دے دیں تو ان کو اختیار ہے) اور اگر تم مرد لوگ ہ اپنا حق چھوڑ دو تو یہ پرہیزگاری کی بات ہے۔ اور آپس میں بھلائی کرنے کو فراموش نہ کرنا۔ کچھ شک نہیں کہ خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/2/237)
+
+#### 24:1 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ سُورَةٌ أَنزَلْنَـٰهَا وَفَرَضْنَـٰهَا وَأَنزَلْنَا فِيهَآ ءَايَـٰتٍۭ بَيِّنَـٰتٍ لَّعَلَّكُمْ تَذَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `وَفَرَضْنَـٰهَا` — and We (have) made it obligatory
+
+**English (Sahih International):** [This is] a sūrah which We have sent down and made [that within it] obligatory and revealed therein verses of clear evidence that you might remember.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ (ایک) سورت ہے جس کو ہم نے نازل کیا اور اس (کے احکام) کو فرض کر دیا، اور اس میں واضح المطالب آیتیں نازل کیں تاکہ تم یاد رکھو
+
+[Open on Quran.com](https://quran.com/24/1)
+
+#### 28:85 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِى فَرَضَ عَلَيْكَ ٱلْقُرْءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٍ ۚ قُل رَّبِّىٓ أَعْلَمُ مَن جَآءَ بِٱلْهُدَىٰ وَمَنْ هُوَ فِى ضَلَـٰلٍ مُّبِينٍ
+
+</div>
+
+**Word in this verse:** `فَرَضَ` — ordained
+
+**English (Sahih International):** Indeed, [O Muḥammad], He who imposed upon you the Qur’ān will take you back to a place of return. Say, "My Lord is most knowing of who brings guidance and who is in clear error."
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) جس (خدا) نے تم پر قرآن (کے احکام) کو فرض کیا ہے وہ تمہیں بازگشت کی جگہ لوٹا دے گا۔ کہہ دو کہ میرا پروردگار اس شخص کو بھی خوب جانتا ہے جو ہدایت لےکر آیا اور (اس کو بھی) جو صریح گمراہی میں ہے
+
+[Open on Quran.com](https://quran.com/28/85)
+
+#### 33:38 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ ۖ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۚ وَكَانَ أَمْرُ ٱللَّهِ قَدَرًا مَّقْدُورًا
+
+</div>
+
+**Word in this verse:** `فَرَضَ` — Allah has imposed
+
+**English (Sahih International):** There is not to be upon the Prophet any discomfort concerning that which Allāh has imposed upon him. [This is] the established way of Allāh with those [prophets] who have passed on before. And ever is the command of Allāh a destiny decreed.
+
+**Urdu (Fatah Muhammad Jalandhari):** پیغمبر پر اس کام میں کچھ تنگی نہیں جو خدا نے ان کے لئے مقرر کردیا۔ اور جو لوگ پہلے گزر چکے ہیں ان میں بھی خدا کا یہی دستور رہا ہے۔ اور خدا کا حکم ٹھیر چکا ہے
+
+[Open on Quran.com](https://quran.com/33/38)
+
+#### 33:50 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَحْلَلْنَا لَكَ أَزْوَٰجَكَ ٱلَّـٰتِىٓ ءَاتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّآ أَفَآءَ ٱللَّهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّـٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَـٰلَـٰتِكَ ٱلَّـٰتِى هَاجَرْنَ مَعَكَ وَٱمْرَأَةً مُّؤْمِنَةً إِن وَهَبَتْ نَفْسَهَا لِلنَّبِىِّ إِنْ أَرَادَ ٱلنَّبِىُّ أَن يَسْتَنكِحَهَا خَالِصَةً لَّكَ مِن دُونِ ٱلْمُؤْمِنِينَ ۗ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِىٓ أَزْوَٰجِهِمْ وَمَا مَلَكَتْ أَيْمَـٰنُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
+
+</div>
+
+**Word in this verse:** `فَرَضْنَا` — We have made obligatory
+
+**English (Sahih International):** O Prophet, indeed We have made lawful to you your wives to whom you have given their due compensation and those your right hand possesses from what Allāh has returned to you [of captives] and the daughters of your paternal uncles and the daughters of your paternal aunts and the daughters of your maternal uncles and the daughters of your maternal aunts who emigrated with you and a believing woman if she gives herself to the Prophet [and] if the Prophet wishes to marry her; [this is] only for you, excluding the [other] believers. We certainly know what We have made obligatory upon them concerning their wives and those their right hands possess, [but this is for you] in order that there will be upon you no discomfort [i.e., difficulty]. And ever is Allāh Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر ہم نے تمہارے لئے تمہاری بیویاں جن کو تم نے ان کے مہر دے دیئے ہیں حلال کردی ہیں اور تمہاری لونڈیاں جو خدا نے تم کو (کفار سے بطور مال غنیمت) دلوائی ہیں اور تمہارے چچا کی بیٹیاں اور تمہاری پھوپھیوں کی بیٹیاں اور تمہارے ماموؤں کی بیٹیاں اور تمہاری خالاؤں کی بیٹیاں جو تمہارے ساتھ وطن چھوڑ کر آئی ہیں (سب حلال ہیں) اور کوئی مومن عورت اگر اپنے تئیں پیغمبر کو بخش دے (یعنی مہر لینے کے بغیر نکاح میں آنا چاہے) بشرطیکہ پیغمبر بھی ان سے نکاح کرنا چاہیں (وہ بھی حلال ہے لیکن) یہ اجازت (اے محمدﷺ) خاص تم ہی کو ہے سب مسلمانوں کو نہیں۔ ہم نے ان کی بیویوں اور لونڈیوں کے بارے میں جو (مہر واجب الادا) مقرر کردیا ہے ہم کو معلوم ہے (یہ) اس لئے (کیا گیا ہے) کہ تم پر کسی طرح کی تنگی نہ رہے۔ اور خدا بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/33/50)
+
+#### 66:2 · [[066 At-Tahrim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَدْ فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَـٰنِكُمْ ۚ وَٱللَّهُ مَوْلَىٰكُمْ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
+
+</div>
+
+**Word in this verse:** `فَرَضَ` — has ordained
+
+**English (Sahih International):** Allāh has already ordained for you [Muslims] the dissolution of your oaths. And Allāh is your protector, and He is the Knowing, the Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے تم لوگوں کے لئے تمہاری قسموں کا کفارہ مقرر کردیا ہے۔ اور خدا ہی تمہارا کارساز ہے۔ اور وہ دانا (اور) حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/66/2)
+

@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "اخْتَلَطَ"
+slug: "AxtlT - joined"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# AxtlT - joined
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[xlT - khlt]]
+
+### Meaning
+**joined** · Lemma **اخْتَلَطَ**
+
+### Surahs (3)
+- [[006 Al-Anam]]
+- [[010 Yunus]]
+- [[018 Al-Kahf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 6:146 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ ۖ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ ۚ ذَٰلِكَ جَزَيْنَـٰهُم بِبَغْيِهِمْ ۖ وَإِنَّا لَصَـٰدِقُونَ
+
+</div>
+
+**Word in this verse:** `ٱخْتَلَطَ` — (is) joined
+
+**English (Sahih International):** And to those who are Jews We prohibited every animal of uncloven hoof; and of the cattle and the sheep We prohibited to them their fat, except what adheres to their backs or the entrails or what is joined with bone. [By] that We repaid them for their transgression. And indeed, We are truthful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہودیوں پر ہم نے سب ناخن والے جانور حرام کر دئیے تھے اور گایوں اور بکریوں سے ان کی چربی حرام کر دی تھی سوا اس کے جو ان کی پیٹھ پر لگی ہو یا اوجھڑی میں ہو یا ہڈی میں ملی ہو یہ سزا ہم نے ان کو ان کی شرارت کے سبب دی تھی اور ہم تو سچ کہنے والے ہیں
+
+[Open on Quran.com](https://quran.com/6/146)
+
+#### 10:24 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَـٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَـٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ زُخْرُفَهَا وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَـٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَـٰهَا حَصِيدًا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ ۚ كَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَتَفَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `فَٱخْتَلَطَ` — so absorbs
+
+**English (Sahih International):** The example of [this] worldly life is but like rain which We have sent down from the sky that the plants of the earth absorb - [those] from which men and livestock eat - until, when the earth has taken on its adornment and is beautified and its people suppose that they have capability over it, there comes to it Our command by night or by day, and We make it as a harvest, as if it had not flourished yesterday. Thus do We explain in detail the signs for a people who give thought.
+
+**Urdu (Fatah Muhammad Jalandhari):** دنیا کی زندگی کی مثال مینھہ کی سی ہے کہ ہم نے اس کو آسمان سے برسایا۔ پھر اس کے ساتھ سبزہ جسے آدمی اور جانور کھاتے ہیں مل کر نکلا یہاں تک کہ زمین سبزے سے خوشنما اور آراستہ ہوگئی اور زمین والوں نے خیال کیا کہ وہ اس پر پوری دسترس رکھتے ہیں ناگہاں رات کو یا دن کو ہمارا حکم (عذاب) آپہنچا تو ہم نے اس کو کاٹ (کر ایسا کر) ڈالا کہ گویا کل وہاں کچھ تھا ہی نہیں۔ جو لوگ غور کرنے والے ہیں۔ ان کے لیے ہم (اپنی قدرت کی) نشانیاں اسی طرح کھول کھول کر بیان کرتے ہیں
+
+[Open on Quran.com](https://quran.com/10/24)
+
+#### 18:45 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱضْرِبْ لَهُم مَّثَلَ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَـٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ ٱلرِّيَـٰحُ ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ مُّقْتَدِرًا
+
+</div>
+
+**Word in this verse:** `فَٱخْتَلَطَ` — then mingles
+
+**English (Sahih International):** And present to them the example of the life of this world, [its being] like rain which We send down from the sky, and the vegetation of the earth mingles with it and [then] it becomes dry remnants, scattered by the winds. And Allāh is ever, over all things, Perfect in Ability.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان سے دنیا کی زندگی کی مثال بھی بیان کردو (وہ ایسی ہے) جیسے پانی جسے ہم نے آسمان سے برسایا۔ تو اس کے ساتھ زمین کی روئیدگی مل گئی۔ پھر وہ چورا چورا ہوگئی کہ ہوائیں اسے اڑاتی پھرتی ہیں۔ اور خدا تو ہر چیز پر قدرت رکھتا ہے
+
+[Open on Quran.com](https://quran.com/18/45)
+

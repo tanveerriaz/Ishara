@@ -1,0 +1,179 @@
+---
+type: word
+lemma: "عِزَّة"
+slug: "Ezp - honor"
+surah_count: 8
+ayah_count: 9
+tags: [word, meaning]
+---
+
+# Ezp - honor
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Ezz - all-mighty]]
+
+### Meaning
+**honor** · Lemma **عِزَّة**
+
+### Surahs (8)
+- [[002 Al-Baqarah]]
+- [[004 An-Nisa]]
+- [[010 Yunus]]
+- [[026 Ash-Shuara]]
+- [[035 Fatir]]
+- [[037 As-Saffat]]
+- [[038 Sad]]
+- [[063 Al-Munafiqun]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:206 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا قِيلَ لَهُ ٱتَّقِ ٱللَّهَ أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ ۚ فَحَسْبُهُۥ جَهَنَّمُ ۚ وَلَبِئْسَ ٱلْمِهَادُ
+
+</div>
+
+**Word in this verse:** `ٱلْعِزَّةُ` — (his) pride
+
+**English (Sahih International):** And when it is said to him, "Fear Allāh," pride in the sin takes hold of him. Sufficient for him is Hellfire, and how wretched is the resting place.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب اس سے کہا جاتا ہے کہ خدا سے خوف کر تو غرور اس کو گناہ میں پھنسا دیتا ہے۔ سو ایسے کو جہنم سزاوار ہے۔ اور وہ بہت برا ٹھکانہ ہے
+
+[Open on Quran.com](https://quran.com/2/206)
+
+#### 4:139 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَتَّخِذُونَ ٱلْكَـٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۚ أَيَبْتَغُونَ عِندَهُمُ ٱلْعِزَّةَ فَإِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًا
+
+</div>
+
+**Word in this verse:** `ٱلْعِزَّةَ` — the honor
+
+**English (Sahih International):** Those who take disbelievers as allies instead of the believers. Do they seek with them honor [through power]? But indeed, honor belongs to Allāh entirely.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو مومنوں کو چھوڑ کر کافروں کو دوست بناتے ہیں۔ کیا یہ ان کے ہاں عزت حاصل کرنا چاہتے ہیں تو عزت تو سب خدا ہی کی ہے
+
+[Open on Quran.com](https://quran.com/4/139)
+
+#### 10:65 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا يَحْزُنكَ قَوْلُهُمْ ۘ إِنَّ ٱلْعِزَّةَ لِلَّهِ جَمِيعًا ۚ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+
+</div>
+
+**Word in this verse:** `ٱلْعِزَّةَ` — the honor
+
+**English (Sahih International):** And let not their speech grieve you. Indeed, honor [due to power] belongs to Allāh entirely. He is the Hearing, the Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) ان لوگوں کی باتوں سے آزردہ نہ ہونا (کیونکہ) عزت سب خدا ہی کی ہے وہ (سب کچھ) سنتا (اور) جانتا ہے
+
+[Open on Quran.com](https://quran.com/10/65)
+
+#### 26:44 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَـٰلِبُونَ
+
+</div>
+
+**Word in this verse:** `بِعِزَّةِ` — By the might
+
+**English (Sahih International):** So they threw their ropes and their staffs and said, "By the might of Pharaoh, indeed it is we who are predominant."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے اپنی رسیاں اور لاٹھیاں ڈالیں اور کہنے لگے کہ فرعون کے اقبال کی قسم ہم ضرور غالب رہیں گے
+
+[Open on Quran.com](https://quran.com/26/44)
+
+#### 35:10 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّـٰلِحُ يَرْفَعُهُۥ ۚ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمْ عَذَابٌ شَدِيدٌ ۖ وَمَكْرُ أُو۟لَـٰٓئِكَ هُوَ يَبُورُ
+
+</div>
+
+**Word in this verse:** `ٱلْعِزَّةَ` — the honor
+
+**English (Sahih International):** Whoever desires honor [through power] - then to Allāh belongs all honor. To Him ascends good speech, and righteous work raises it. But they who plot evil deeds will have a severe punishment, and the plotting of those - it will perish.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص عزت کا طلب گار ہے تو عزت تو سب خدا ہی کی ہے۔ اسی کی طرف پاکیزہ کلمات چڑھتے ہیں اور نیک عمل اس کو بلند کرتے ہیں۔ اور جو لوگ برے برے مکر کرتے ہیں ان کے لئے سخت عذاب ہے۔ اور ان کا مکر نابود ہوجائے گا
+
+[Open on Quran.com](https://quran.com/35/10)
+
+#### 37:180 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+سُبْحَـٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْعِزَّةِ` — (of) Honor
+
+**English (Sahih International):** Exalted is your Lord, the Lord of might, above what they describe.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ جو کچھ بیان کرتے ہیں تمہارا پروردگار جو صاحب عزت ہے اس سے (پاک ہے)
+
+[Open on Quran.com](https://quran.com/37/180)
+
+#### 38:2 · [[038 Sad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى عِزَّةٍ وَشِقَاقٍ
+
+</div>
+
+**Word in this verse:** `عِزَّةٍۢ` — self-glory
+
+**English (Sahih International):** But those who disbelieve are in pride and dissension.
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر جو لوگ کافر ہیں وہ غرور اور مخالفت میں ہیں
+
+[Open on Quran.com](https://quran.com/38/2)
+
+#### 38:82 · [[038 Sad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ
+
+</div>
+
+**Word in this verse:** `فَبِعِزَّتِكَ` — Then by Your might
+
+**English (Sahih International):** [Iblees] said, "By Your might, I will surely mislead them all.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہنے لگا کہ مجھے تیری عزت کی قسم میں ان سب کو بہکاتا رہوں گا
+
+[Open on Quran.com](https://quran.com/38/82)
+
+#### 63:8 · [[063 Al-Munafiqun]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْعِزَّةُ` — (is) the honor
+
+**English (Sahih International):** They say, "If we return to al-Madīnah, the more honored [for power] will surely expel therefrom the more humble." And to Allāh belongs [all] honor, and to His Messenger, and to the believers, but the hypocrites do not know.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہتے ہیں کہ اگر ہم لوٹ کر مدینے پہنچے تو عزت والے ذلیل لوگوں کو وہاں سے نکال باہر کریں گے۔ حالانکہ عزت خدا کی ہے اور اس کے رسول کی اور مومنوں کی لیکن منافق نہیں جانتے
+
+[Open on Quran.com](https://quran.com/63/8)
+

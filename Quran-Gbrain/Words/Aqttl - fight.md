@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "اقْتَتَلَ"
+slug: "Aqttl - fight"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# Aqttl - fight
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[qtl - kill]]
+
+### Meaning
+**fight** · Lemma **اقْتَتَلَ**
+
+### Surahs (3)
+- [[002 Al-Baqarah]]
+- [[028 Al-Qasas]]
+- [[049 Al-Hujurat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:253 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۘ مِّنْهُم مَّن كَلَّمَ ٱللَّهُ ۖ وَرَفَعَ بَعْضَهُمْ دَرَجَـٰتٍ ۚ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَـٰتِ وَأَيَّدْنَـٰهُ بِرُوحِ ٱلْقُدُسِ ۗ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِنۢ بَعْدِهِم مِّنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَـٰتُ وَلَـٰكِنِ ٱخْتَلَفُوا۟ فَمِنْهُم مَّنْ ءَامَنَ وَمِنْهُم مَّن كَفَرَ ۚ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُوا۟ وَلَـٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ
+
+</div>
+
+**Word in this verse:** `ٱقْتَتَلَ` — (would have) fought each other
+
+**English (Sahih International):** Those messengers - some of them We caused to exceed others. Among them were those to whom Allāh spoke, and He raised some of them in degree. And We gave Jesus, the son of Mary, clear proofs, and We supported him with the Pure Spirit [i.e., Gabriel]. If Allāh had willed, those [generations] succeeding them would not have fought each other after the clear proofs had come to them. But they differed, and some of them believed and some of them disbelieved. And if Allāh had willed, they would not have fought each other, but Allāh does what He intends.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ پیغمبر (جو ہم وقتاً فوقتاً بھیجتے رہیں ہیں) ان میں سے ہم نے بعض کو بعض پر فضیلت دی ہے۔ بعض ایسے ہیں جن سے خدا نے گفتگو فرمائی اور بعض کے (دوسرے امور میں) مرتبے بلند کئے۔ اور عیسیٰ بن مریم کو ہم نے کھلی ہوئی نشانیاں عطا کیں اور روح القدس سے ان کو مدد دی۔ اور اگر خداچاہتا تو ان سے پچھلے لوگ اپنے پاس کھلی نشانیاں آنے کے بعد آپس میں نہ لڑتے لیکن انہوں نے اختلاف کیا تو ان میں سے بعض تو ایمان لے آئے اور بعض کافر ہی رہے۔ اور اگر خدا چاہتا تو یہ لوگ باہم جنگ و قتال نہ کرتے۔ لیکن خدا جو چاہتا ہے کرتا ہے
+
+[Open on Quran.com](https://quran.com/2/253)
+
+#### 28:15 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَدَخَلَ ٱلْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِّنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَـٰذَا مِن شِيعَتِهِۦ وَهَـٰذَا مِنْ عَدُوِّهِۦ ۖ فَٱسْتَغَـٰثَهُ ٱلَّذِى مِن شِيعَتِهِۦ عَلَى ٱلَّذِى مِنْ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ ۖ قَالَ هَـٰذَا مِنْ عَمَلِ ٱلشَّيْطَـٰنِ ۖ إِنَّهُۥ عَدُوٌّ مُّضِلٌّ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `يَقْتَتِلَانِ` — fighting each other
+
+**English (Sahih International):** And he entered the city at a time of inattention by its people and found therein two men fighting: one from his faction and one from among his enemy. And the one from his faction called for help to him against the one from his enemy, so Moses struck him and [unintentionally] killed him. [Moses] said, "This is from the work of Satan. Indeed, he is a manifest, misleading enemy."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ ایسے وقت شہر میں داخل ہوئے کہ وہاں کے باشندے بےخبر ہو رہے تھے تو دیکھا کہ وہاں دو شخص لڑ رہے تھے ایک تو موسٰی کی قوم کا ہے اور دوسرا اُن کے دشمنوں میں سے تو جو شخص اُن کی قوم میں سے تھا اس نے دوسرے شخص کے مقابلے میں جو موسٰی کے دشمنوں میں سے تھا مدد طلب کی تو اُنہوں نے اس کو مکا مارا اور اس کا کام تمام کر دیا کہنے لگے کہ یہ کام تو (اغوائے) شیطان سے ہوا بیشک وہ (انسان کا) دشمن اور صریح بہکانے والا ہے
+
+[Open on Quran.com](https://quran.com/28/15)
+
+#### 49:9 · [[049 Al-Hujurat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِن طَآئِفَتَانِ مِنَ ٱلْمُؤْمِنِينَ ٱقْتَتَلُوا۟ فَأَصْلِحُوا۟ بَيْنَهُمَا ۖ فَإِنۢ بَغَتْ إِحْدَىٰهُمَا عَلَى ٱلْأُخْرَىٰ فَقَـٰتِلُوا۟ ٱلَّتِى تَبْغِى حَتَّىٰ تَفِىٓءَ إِلَىٰٓ أَمْرِ ٱللَّهِ ۚ فَإِن فَآءَتْ فَأَصْلِحُوا۟ بَيْنَهُمَا بِٱلْعَدْلِ وَأَقْسِطُوٓا۟ ۖ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ
+
+</div>
+
+**Word in this verse:** `ٱقْتَتَلُوا۟` — fight
+
+**English (Sahih International):** And if two factions among the believers should fight, then make settlement between the two. But if one of them oppresses the other, then fight against the one that oppresses until it returns to the ordinance of Allāh. And if it returns, then make settlement between them in justice and act justly. Indeed, Allāh loves those who act justly.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر مومنوں میں سے کوئی دو فریق آپس میں لڑ پڑیں تو ان میں صلح کرا دو۔ اور اگر ایک فریق دوسرے پر زیادتی کرے تو زیادتی کرنے والے سے لڑو یہاں تک کہ وہ خدا کے حکم کی طرف رجوع لائے۔ پس جب وہ رجوع لائے تو وہ دونوں فریق میں مساوات کے ساتھ صلح کرا دو اور انصاف سے کام لو۔ کہ خدا انصاف کرنے والوں کو پسند کرتا ہے
+
+[Open on Quran.com](https://quran.com/49/9)
+

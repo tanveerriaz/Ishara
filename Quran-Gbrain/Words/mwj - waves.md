@@ -1,0 +1,111 @@
+---
+type: word
+lemma: "مَوْج"
+slug: "mwj - waves"
+surah_count: 4
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# mwj - waves
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[mwj - wave]]
+
+### Meaning
+**waves** · Lemma **مَوْج**
+
+### Surahs (4)
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[024 An-Nur]]
+- [[031 Luqman]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 10:22 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ ۖ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ بِهِم بِرِيحٍ طَيِّبَةٍ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ مَكَانٍ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ ۙ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا مِنْ هَـٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّـٰكِرِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْمَوْجُ` — the waves
+
+**English (Sahih International):** It is He who enables you to travel on land and sea until, when you are in ships and they sail with them by a good wind and they rejoice therein, there comes a storm wind and the waves come upon them from every place and they expect to be engulfed, they supplicate Allāh, sincere to Him in religion, "If You should save us from this, we will surely be among the thankful."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جو تم کو جنگل اور دریا میں چلنے پھرنے اور سیر کرنے کی توفیق دیتا ہے۔ یہاں تک کہ جب تم کشتیوں میں (سوار) ہوتے اور کشتیاں پاکیزہ ہوا (کے نرم نرم جھونکوں) سے سواروں کو لے کر چلنے لگتی ہیں اور وہ ان سے خوش ہوتے ہیں تو ناگہاں زناٹے کی ہوا چل پڑتی ہے اور لہریں ہر طرف سے ان پر (جوش مارتی ہوئی) آنے لگتی ہیں اور وہ خیال کرتے ہیں کہ (اب تو) لہروں میں گھر گئے تو اس وقت خالص خدا ہی کی عبادت کرکے اس سے دعا مانگنے لگتے ہیں کہ (اے خدا) اگر تو ہم کو اس سے نجات بخشے تو ہم (تیرے) بہت ہی شکر گزار ہوں
+
+[Open on Quran.com](https://quran.com/10/22)
+
+#### 11:42 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍ يَـٰبُنَىَّ ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `مَوْجٍۢ` — the waves
+
+**English (Sahih International):** And it sailed with them through waves like mountains, and Noah called to his son who was apart [from them], "O my son, come aboard with us and be not with the disbelievers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ ان کو لے کر (طوفان کی) لہروں میں چلنے لگی۔ (لہریں کیا تھیں) گویا پہاڑ (تھے) اس وقت نوح نے اپنے بیٹے کو کہ جو (کشتی سے) الگ تھا، پکارا کہ بیٹا ہمارے ساتھ سوار ہوجا اور کافروں میں شامل نہ ہو
+
+[Open on Quran.com](https://quran.com/11/42)
+
+#### 11:43 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍ يَعْصِمُنِى مِنَ ٱلْمَآءِ ۚ قَالَ لَا عَاصِمَ ٱلْيَوْمَ مِنْ أَمْرِ ٱللَّهِ إِلَّا مَن رَّحِمَ ۚ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ فَكَانَ مِنَ ٱلْمُغْرَقِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْمَوْجُ` — the waves
+
+**English (Sahih International):** [But] he said, "I will take refuge on a mountain to protect me from the water." [Noah] said, "There is no protector today from the decree of Allāh, except for whom He gives mercy." And the waves came between them, and he was among the drowned.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس نے کہا کہ میں (ابھی) پہاڑ سے جا لگوں گا، وہ مجھے پانی سے بچالے گا۔ انہوں نے کہا کہ آج خدا کے عذاب سے کوئی بچانے والا نہیں (اور نہ کوئی بچ سکتا ہے) مگر جس پر خدا رحم کرے۔ اتنے میں دونوں کے درمیان لہر آحائل ہوئی اور وہ ڈوب کر رہ گیا
+
+[Open on Quran.com](https://quran.com/11/43)
+
+#### 24:40 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوْ كَظُلُمَـٰتٍ فِى بَحْرٍ لُّجِّىٍّ يَغْشَىٰهُ مَوْجٌ مِّن فَوْقِهِۦ مَوْجٌ مِّن فَوْقِهِۦ سَحَابٌ ۚ ظُلُمَـٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا ۗ وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًا فَمَا لَهُۥ مِن نُّورٍ
+
+</div>
+
+**Word in this verse:** `مَوْجٌۭ` — a wave
+
+**English (Sahih International):** Or [they are] like darknesses within an unfathomable sea which is covered by waves, upon which are waves, over which are clouds - darknesses, some of them upon others. When one puts out his hand [therein], he can hardly see it. And he to whom Allāh has not granted light - for him there is no light.
+
+**Urdu (Fatah Muhammad Jalandhari):** یا (ان کے اعمال کی مثال ایسی ہے) جیسے دریائے عمیق میں اندھیرے جس پر لہر چڑھی چلی آتی ہو اور اس کے اوپر اور لہر (آرہی ہو) اور اس کے اوپر بادل ہو، غرض اندھیرے ہی اندھیرے ہوں، ایک پر ایک (چھایا ہوا) جب اپنا ہاتھ نکالے تو کچھ نہ دیکھ سکے۔ اور جس کو خدا روشنی نہ دے اس کو (کہیں بھی) روشنی نہیں (مل سکتی)
+
+[Open on Quran.com](https://quran.com/24/40)
+
+#### 31:32 · [[031 Luqman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا غَشِيَهُم مَّوْجٌ كَٱلظُّلَلِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ فَمِنْهُم مُّقْتَصِدٌ ۚ وَمَا يَجْحَدُ بِـَٔايَـٰتِنَآ إِلَّا كُلُّ خَتَّارٍ كَفُورٍ
+
+</div>
+
+**Word in this verse:** `مَّوْجٌۭ` — a wave
+
+**English (Sahih International):** And when waves come over them like canopies, they supplicate Allāh, sincere to Him in religion [i.e., faith]. But when He delivers them to the land, there are [some] of them who are moderate [in faith]. And none rejects Our signs except everyone treacherous and ungrateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب اُن پر (دریا کی) لہریں سائبانوں کی طرح چھا جاتی ہیں تو خدا کو پکارنے (اور) خالص اس کی عبادت کرنے لگتے ہیں پھر جب وہ اُن کو نجات دے کر خشکی پر پہنچا دیتا ہے تو بعض ہی انصاف پر قائم رہتے ہیں۔ اور ہماری نشانیوں سے وہی انکار کرتے ہیں جو عہد شکن اور ناشکرے ہیں
+
+[Open on Quran.com](https://quran.com/31/32)
+

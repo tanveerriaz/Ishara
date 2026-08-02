@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "أَرْدَى"
+slug: ">rdY - ruined me"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# >rdY - ruined me
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[rdy - he falls]]
+
+### Meaning
+**ruined me** · Lemma **أَرْدَى**
+
+### Surahs (3)
+- [[006 Al-Anam]]
+- [[037 As-Saffat]]
+- [[041 Fussilat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 6:137 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَـٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ ۖ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ
+
+</div>
+
+**Word in this verse:** `لِيُرْدُوهُمْ` — so that they may ruin them
+
+**English (Sahih International):** And likewise, to many of the polytheists their partners have made [to seem] pleasing the killing of their children in order to bring about their destruction and to cover them with confusion in their religion. And if Allāh had willed, they would not have done so. So leave them and that which they invent.
+
+**Urdu (Fatah Muhammad Jalandhari):** اسی طرح بہت سے مشرکوں کو ان کے شریکوں نے ان کے بچوں کو جان سے مار ڈالنا اچھا کر دکھایا ہے تاکہ انہیں ہلاکت میں ڈال دیں اور ان کے دین کو ان پر خلط ملط کر دیں اور اگر خدا چاہتا تو وہ ایسا نہ کرتے تو ان کو چھوڑ دو کہ وہ جانیں اور ان کا جھوٹ
+
+[Open on Quran.com](https://quran.com/6/137)
+
+#### 37:56 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ
+
+</div>
+
+**Word in this verse:** `لَتُرْدِينِ` — ruined me
+
+**English (Sahih International):** He will say, "By Allāh, you almost ruined me.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہے گا کہ خدا کی قسم تُو تو مجھے ہلاک ہی کرچکا تھا
+
+[Open on Quran.com](https://quran.com/37/56)
+
+#### 41:23 · [[041 Fussilat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى ظَنَنتُم بِرَبِّكُمْ أَرْدَىٰكُمْ فَأَصْبَحْتُم مِّنَ ٱلْخَـٰسِرِينَ
+
+</div>
+
+**Word in this verse:** `أَرْدَىٰكُمْ` — It has ruined you
+
+**English (Sahih International):** And that was your assumption which you assumed about your Lord. It has brought you to ruin, and you have become among the losers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی خیال نے جو تم اپنے پروردگار کے بارے میں رکھتے تھے تم کو ہلاک کردیا اور تم خسارہ پانے والوں میں ہوگئے
+
+[Open on Quran.com](https://quran.com/41/23)
+

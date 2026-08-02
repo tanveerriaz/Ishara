@@ -1,0 +1,207 @@
+---
+type: word
+lemma: "ذِكْرَى"
+slug: "*krY - reminder"
+surah_count: 18
+ayah_count: 23
+tags: [word, meaning]
+---
+
+# *krY - reminder
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[*kr - dhakara]]
+
+### Meaning
+**reminder** · Lemma **ذِكْرَى**
+
+### Surahs (18)
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[011 Hud]]
+- [[021 Al-Anbya]]
+- [[026 Ash-Shuara]]
+- [[029 Al-Ankabut]]
+- [[038 Sad]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[044 Ad-Dukhan]]
+- [[047 Muhammad]]
+- [[050 Qaf]]
+- [[051 Adh-Dhariyat]]
+- [[074 Al-Muddaththir]]
+- [[079 An-Naziat]]
+- [[080 Abasa]]
+- [[087 Al-Ala]]
+- [[089 Al-Fajr]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 6:68 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا رَأَيْتَ ٱلَّذِينَ يَخُوضُونَ فِىٓ ءَايَـٰتِنَا فَأَعْرِضْ عَنْهُمْ حَتَّىٰ يَخُوضُوا۟ فِى حَدِيثٍ غَيْرِهِۦ ۚ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيْطَـٰنُ فَلَا تَقْعُدْ بَعْدَ ٱلذِّكْرَىٰ مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `ٱلذِّكْرَىٰ` — the reminder
+
+**English (Sahih International):** And when you see those who engage in [offensive] discourse concerning Our verses, then turn away from them until they enter into another conversation. And if Satan should cause you to forget, then do not remain after the reminder with the wrongdoing people.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم ایسے لوگوں کو دیکھو جو ہماری آیتوں کے بارے میں بیہودہ بکواس کر رہے ہوں تو ان سے الگ ہوجاؤ یہاں تک کہ اور باتوں میں مصروف ہوجائیں۔ اور اگر (یہ بات) شیطان تمہیں بھلا دے تو یاد آنے پر ظالم لوگوں کے ساتھ نہ بیٹھو
+
+[Open on Quran.com](https://quran.com/6/68)
+
+#### 6:69 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا عَلَى ٱلَّذِينَ يَتَّقُونَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَلَـٰكِن ذِكْرَىٰ لَعَلَّهُمْ يَتَّقُونَ
+
+</div>
+
+**Word in this verse:** `ذِكْرَىٰ` — (for) reminder
+
+**English (Sahih International):** And those who fear Allāh are not held accountable for them [i.e., the disbelievers] at all, but [only for] a reminder - that perhaps they will fear Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور پرہیزگاروں پر ان لوگوں کے حساب کی کچھ بھی جواب دہی نہیں ہاں نصیحت تاکہ وہ بھی پرہیزگار ہوں
+
+[Open on Quran.com](https://quran.com/6/69)
+
+#### 6:90 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أُو۟لَـٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُ ۖ فَبِهُدَىٰهُمُ ٱقْتَدِهْ ۗ قُل لَّآ أَسْـَٔلُكُمْ عَلَيْهِ أَجْرًا ۖ إِنْ هُوَ إِلَّا ذِكْرَىٰ لِلْعَـٰلَمِينَ
+
+</div>
+
+**Word in this verse:** `ذِكْرَىٰ` — a reminder
+
+**English (Sahih International):** Those are the ones whom Allāh has guided, so from their guidance take an example. Say, "I ask of you for it [i.e., this message] no payment. It is not but a reminder for the worlds."
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جن کو خدا نے ہدایت دی تھی تو تم انہیں کی ہدایت کی پیروی کرو۔ کہہ دو کہ میں تم سے اس (قرآن) کا صلہ نہیں مانگتا۔ یہ تو جہان کے لوگوں کے لئےمحض نصیحت ہے
+
+[Open on Quran.com](https://quran.com/6/90)
+
+#### 7:2 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كِتَـٰبٌ أُنزِلَ إِلَيْكَ فَلَا يَكُن فِى صَدْرِكَ حَرَجٌ مِّنْهُ لِتُنذِرَ بِهِۦ وَذِكْرَىٰ لِلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `وَذِكْرَىٰ` — and a reminder
+
+**English (Sahih International):** [This is] a Book revealed to you, [O Muḥammad] - so let there not be in your breast distress therefrom - that you may warn thereby and as a reminder to the believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) یہ کتاب (جو) تم پر نازل ہوئی ہے۔ اس سے تمہیں تنگ دل نہیں ہونا چاہیئے، (یہ نازل) اس لیے (ہوئی ہے) کہ تم اس کے ذریعے سے (لوگوں) کو ڈر سناؤ اور (یہ) ایمان والوں کے لیے نصیحت ہے
+
+[Open on Quran.com](https://quran.com/7/2)
+
+#### 11:114 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ ۚ إِنَّ ٱلْحَسَنَـٰتِ يُذْهِبْنَ ٱلسَّيِّـَٔاتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ
+
+</div>
+
+**Word in this verse:** `ذِكْرَىٰ` — (is) a reminder
+
+**English (Sahih International):** And establish prayer at the two ends of the day and at the approach of the night. Indeed, good deeds do away with misdeeds. That is a reminder for those who remember.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور دن کے دونوں سروں (یعنی صبح اور شام کے اوقات میں) اور رات کی چند (پہلی) ساعات میں نماز پڑھا کرو۔ کچھ شک نہیں کہ نیکیاں گناہوں کو دور کر دیتی ہیں۔ یہ ان کے لیے نصیحت ہے جو نصیحت قبول کرنے والے ہیں
+
+[Open on Quran.com](https://quran.com/11/114)
+
+#### 11:120 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكُلًّا نَّقُصُّ عَلَيْكَ مِنْ أَنۢبَآءِ ٱلرُّسُلِ مَا نُثَبِّتُ بِهِۦ فُؤَادَكَ ۚ وَجَآءَكَ فِى هَـٰذِهِ ٱلْحَقُّ وَمَوْعِظَةٌ وَذِكْرَىٰ لِلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `وَذِكْرَىٰ` — and a reminder
+
+**English (Sahih International):** And each [story] We relate to you from the news of the messengers is that by which We make firm your heart. And there has come to you, in this, the truth and an instruction and a reminder for the believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) اور پیغمبروں کے وہ سب حالات جو ہم تم سے بیان کرتے ہیں ان سے ہم تمہارے دل کو قائم رکھتے ہیں۔ اور ان (قصص) میں تمہارے پاس حق پہنچ گیا اور یہ مومنوں کے لیے نصیحت اور عبرت ہے
+
+[Open on Quran.com](https://quran.com/11/120)
+
+#### 21:84 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا مَا بِهِۦ مِن ضُرٍّ ۖ وَءَاتَيْنَـٰهُ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنْ عِندِنَا وَذِكْرَىٰ لِلْعَـٰبِدِينَ
+
+</div>
+
+**Word in this verse:** `وَذِكْرَىٰ` — and a reminder
+
+**English (Sahih International):** So We responded to him and removed what afflicted him of adversity. And We gave him [back] his family and the like thereof with them as mercy from Us and a reminder for the worshippers [of Allāh].
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان کی دعا قبول کرلی اور جو ان کو تکلیف تھی وہ دور کردی اور ان کو بال بچے بھی عطا فرمائے اور اپنی مہربانی کے ساتھ اتنے ہی اور (بخشے) اور عبادت کرنے والوں کے لئے (یہ) نصیحت ہے
+
+[Open on Quran.com](https://quran.com/21/84)
+
+#### 26:209 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ذِكْرَىٰ وَمَا كُنَّا ظَـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `ذِكْرَىٰ` — (To) remind
+
+**English (Sahih International):** As a reminder; and never have We been unjust.
+
+**Urdu (Fatah Muhammad Jalandhari):** نصیحت کردیں اور ہم ظالم نہیں ہیں
+
+[Open on Quran.com](https://quran.com/26/209)
+
+#### 29:51 · [[029 Al-Ankabut]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَلَمْ يَكْفِهِمْ أَنَّآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَـٰبَ يُتْلَىٰ عَلَيْهِمْ ۚ إِنَّ فِى ذَٰلِكَ لَرَحْمَةً وَذِكْرَىٰ لِقَوْمٍ يُؤْمِنُونَ
+
+</div>
+
+**Word in this verse:** `وَذِكْرَىٰ` — and a reminder
+
+**English (Sahih International):** And is it not sufficient for them that We revealed to you the Book [i.e., the Qur’ān] which is recited to them? Indeed in that is a mercy and reminder for a people who believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا اُن لوگوں کے لئے یہ کافی نہیں کہ ہم نے تم پر کتاب نازل کی جو اُن کو پڑھ کر سنائی جاتی ہے۔ کچھ شک نہیں کہ مومن لوگوں کے لیے اس میں رحمت اور نصیحت ہے
+
+[Open on Quran.com](https://quran.com/29/51)
+
+#### 38:43 · [[038 Sad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَوَهَبْنَا لَهُۥٓ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنَّا وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ
+
+</div>
+
+**Word in this verse:** `وَذِكْرَىٰ` — and a Reminder
+
+**English (Sahih International):** And We granted him his family and a like [number] with them as mercy from Us and a reminder for those of understanding.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو اہل و عیال اور ان کے ساتھ ان کے برابر اور بخشے۔ (یہ) ہماری طرف سے رحمت اور عقل والوں کے لئے نصیحت تھی
+
+[Open on Quran.com](https://quran.com/38/43)
+
+_…and **13** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

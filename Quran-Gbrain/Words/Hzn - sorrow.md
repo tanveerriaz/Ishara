@@ -1,0 +1,111 @@
+---
+type: word
+lemma: "حَزَن"
+slug: "Hzn - sorrow"
+surah_count: 4
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# Hzn - sorrow
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Hzn - hzn]]
+
+### Meaning
+**sorrow** · Lemma **حَزَن**
+
+### Surahs (4)
+- [[009 At-Tawbah]]
+- [[012 Yusuf]]
+- [[028 Al-Qasas]]
+- [[035 Fatir]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 9:92 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ
+
+</div>
+
+**Word in this verse:** `حَزَنًا` — (of) sorrow
+
+**English (Sahih International):** Nor [is there blame] upon those who, when they came to you for you to take them along, you said, "I can find nothing upon which to carry you." They turned back while their eyes overflowed with tears out of grief that they could not find something to spend [for the cause of Allāh].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نہ ان (بےسروسامان) لوگوں پر (الزام) ہے کہ تمہارے پاس آئے کہ ان کو سواری دو اور تم نے کہا کہ میرے پاس کوئی ایسی چیز نہیں جس پر تم کو سوار کروں تو وہ لوٹ گئے اور اس غم سے کہ ان کے پاس خرچ موجود نہ تھا، ان کی آنکھوں سے آنسو بہہ رہے تھے
+
+[Open on Quran.com](https://quran.com/9/92)
+
+#### 12:84 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَـٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلْحُزْنِ` — the grief
+
+**English (Sahih International):** And he turned away from them and said, "Oh, my sorrow over Joseph," and his eyes became white from grief, for he was [of that] a suppressor.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے پاس سے چلے گئے اور کہنے لگے ہائے افسوس یوسف (ہائے افسوس) اور رنج والم میں (اس قدر روئے کہ) ان کی آنکھیں سفید ہوگئیں اور ان کا دل غم سے بھر رہا تھا
+
+[Open on Quran.com](https://quran.com/12/84)
+
+#### 12:86 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `وَحُزْنِىٓ` — and my grief
+
+**English (Sahih International):** He said, "I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know.
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ میں اپنے غم واندوہ کا اظہار خدا سے کرتا ہوں۔ اور خدا کی طرف سے وہ باتیں جانتا ہوں جو تم نہیں جانتے
+
+[Open on Quran.com](https://quran.com/12/86)
+
+#### 28:8 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱلْتَقَطَهُۥٓ ءَالُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا ۗ إِنَّ فِرْعَوْنَ وَهَـٰمَـٰنَ وَجُنُودَهُمَا كَانُوا۟ خَـٰطِـِٔينَ
+
+</div>
+
+**Word in this verse:** `وَحَزَنًا ۗ` — and a grief
+
+**English (Sahih International):** And the family of Pharaoh picked him up [out of the river] so that he would become to them an enemy and a [cause of] grief. Indeed, Pharaoh and Hāmān and their soldiers were deliberate sinners.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو فرعون کے لوگوں نے اس کو اُٹھا لیا اس لئے کہ (نتیجہ یہ ہونا تھا کہ) وہ اُن کا دشمن اور (ان کے لئے موجب) غم ہو۔ بیشک فرعون اور ہامان اور اُن کے لشکر چوک گئے
+
+[Open on Quran.com](https://quran.com/28/8)
+
+#### 35:34 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَذْهَبَ عَنَّا ٱلْحَزَنَ ۖ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ
+
+</div>
+
+**Word in this verse:** `ٱلْحَزَنَ ۖ` — the sorrow
+
+**English (Sahih International):** And they will say, "Praise to Allāh, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative -
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہیں گے کہ خدا کا شکر ہے جس نے ہم سے غم دور کیا۔ بےشک ہمارا پروردگار بخشنے والا (اور) قدردان ہے
+
+[Open on Quran.com](https://quran.com/35/34)
+

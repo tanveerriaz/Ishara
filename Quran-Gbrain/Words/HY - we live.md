@@ -1,0 +1,129 @@
+---
+type: word
+lemma: "حَىَّ"
+slug: "HY - we live"
+surah_count: 6
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# HY - we live
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Hyy - life]]
+
+### Meaning
+**we live** · Lemma **حَىَّ**
+
+### Surahs (6)
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[020 Taha]]
+- [[023 Al-Muminun]]
+- [[045 Al-Jathiyah]]
+- [[087 Al-Ala]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 7:25 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ فِيهَا تَحْيَوْنَ وَفِيهَا تَمُوتُونَ وَمِنْهَا تُخْرَجُونَ
+
+</div>
+
+**Word in this verse:** `تَحْيَوْنَ` — you will live
+
+**English (Sahih International):** He said, "Therein you will live, and therein you will die, and from it you will be brought forth."
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) فرمایا کہ اسی میں تمہارا جینا ہوگا اور اسی میں مرنا اور اسی میں سے (قیامت کو زندہ کر کے) نکالے جاؤ گے
+
+[Open on Quran.com](https://quran.com/7/25)
+
+#### 8:42 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ أَنتُم بِٱلْعُدْوَةِ ٱلدُّنْيَا وَهُم بِٱلْعُدْوَةِ ٱلْقُصْوَىٰ وَٱلرَّكْبُ أَسْفَلَ مِنكُمْ ۚ وَلَوْ تَوَاعَدتُّمْ لَٱخْتَلَفْتُمْ فِى ٱلْمِيعَـٰدِ ۙ وَلَـٰكِن لِّيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا لِّيَهْلِكَ مَنْ هَلَكَ عَنۢ بَيِّنَةٍ وَيَحْيَىٰ مَنْ حَىَّ عَنۢ بَيِّنَةٍ ۗ وَإِنَّ ٱللَّهَ لَسَمِيعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `وَيَحْيَىٰ` — and (might) live
+
+**English (Sahih International):** [Remember] when you were on the near side of the valley, and they were on the farther side, and the caravan was lower [in position] than you. If you had made an appointment [to meet], you would have missed the appointment. But [it was] so that Allāh might accomplish a matter already destined - that those who perished [through disbelief] would perish upon evidence and those who lived [in faith] would live upon evidence; and indeed, Allāh is Hearing and Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس وقت تم (مدینے سے) قریب کے ناکے پر تھے اور کافر بعید کے ناکے پر اور قافلہ تم سے نیچے (اتر گیا) تھا۔ اور اگر تم (جنگ کے لیے) آپس میں قرارداد کرلیتے تو وقت معین (پر جمع ہونے) میں تقدیم وتاخیر ہو جاتی۔ لیکن خدا کو منظور تھا کہ جو کام ہو کر رہنے والا تھا اسے کر ہی ڈالے تاکہ جو مرے بصیرت پر (یعنی یقین جان کر) مرے اور جو جیتا رہے وہ بھی بصیرت پر (یعنی حق پہچان کر) جیتا رہے۔ اور کچھ شک نہیں کہ خدا سنتا جانتا ہے
+
+[Open on Quran.com](https://quran.com/8/42)
+
+#### 20:74 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّهُۥ مَن يَأْتِ رَبَّهُۥ مُجْرِمًا فَإِنَّ لَهُۥ جَهَنَّمَ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ
+
+</div>
+
+**Word in this verse:** `يَحْيَىٰ` — live
+
+**English (Sahih International):** Indeed, whoever comes to his Lord as a criminal - indeed, for him is Hell; he will neither die therein nor live.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص اپنے پروردگار کے پاس گنہگار ہو کر آئے گا تو اس کے لئے جہنم ہے۔ جس میں نہ مرے گا نہ جیئے گا
+
+[Open on Quran.com](https://quran.com/20/74)
+
+#### 23:37 · [[023 Al-Muminun]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
+
+</div>
+
+**Word in this verse:** `وَنَحْيَا` — and we live
+
+**English (Sahih International):** It [i.e., life] is not but our worldly life - we die and live, but we will not be resurrected.
+
+**Urdu (Fatah Muhammad Jalandhari):** زندگی تو یہی ہماری دنیا کی زندگی ہے کہ (اسی میں) ہم مرتے اور جیتے ہیں، اور ہم پھر نہیں اُٹھائے جائیں گے
+
+[Open on Quran.com](https://quran.com/23/37)
+
+#### 45:24 · [[045 Al-Jathiyah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ ۚ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ ۖ إِنْ هُمْ إِلَّا يَظُنُّونَ
+
+</div>
+
+**Word in this verse:** `وَنَحْيَا` — and we live
+
+**English (Sahih International):** And they say, "There is not but our worldly life; we die and live, and nothing destroys us except time." And they have of that no knowledge; they are only assuming.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ ہماری زندگی تو صرف دنیا ہی کی ہے کہ (یہیں) مرتے اور جیتے ہیں اور ہمیں تو زمانہ مار دیتا ہے۔ اور ان کو اس کا کچھ علم نہیں۔ صرف ظن سے کام لیتے ہیں
+
+[Open on Quran.com](https://quran.com/45/24)
+
+#### 87:13 · [[087 Al-Ala]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ
+
+</div>
+
+**Word in this verse:** `يَحْيَىٰ` — will live
+
+**English (Sahih International):** Neither dying therein nor living.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر وہاں نہ مرے گا اور نہ جئے گا
+
+[Open on Quran.com](https://quran.com/87/13)
+

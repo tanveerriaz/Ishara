@@ -1,0 +1,95 @@
+---
+type: word
+lemma: "قُعُود"
+slug: "qEwd - sitting"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# qEwd - sitting
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[qEd - sit]]
+
+### Meaning
+**sitting** · Lemma **قُعُود**
+
+### Surahs (4)
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[009 At-Tawbah]]
+- [[085 Al-Buruj]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:191 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَـٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَـٰطِلًا سُبْحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
+
+</div>
+
+**Word in this verse:** `وَقُعُودًۭا` — and sitting
+
+**English (Sahih International):** Who remember Allāh while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], "Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو کھڑے اور بیٹھے اور لیٹے (ہر حال میں) خدا کو یاد کرتے اور آسمان اور زمین کی پیدائش میں غور کرتے (اور کہتے ہیں) کہ اے پروردگار! تو نے اس (مخلوق) کو بے فائدہ نہیں پیدا کیا تو پاک ہے تو (قیامت کے دن) ہمیں دوزخ کے عذاب سے بچائیو
+
+[Open on Quran.com](https://quran.com/3/191)
+
+#### 4:103 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَـٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ ۚ فَإِذَا ٱطْمَأْنَنتُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۚ إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَـٰبًا مَّوْقُوتًا
+
+</div>
+
+**Word in this verse:** `وَقُعُودًۭا` — and sitting
+
+**English (Sahih International):** And when you have completed the prayer, remember Allāh standing, sitting, or [lying] on your sides. But when you become secure, re-establish [regular] prayer. Indeed, prayer has been decreed upon the believers a decree of specified times.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب تم نماز تمام کرچکو تو کھڑے اور بیٹھے اور لیٹے (ہر حالت میں) خدا کو یاد کرو پھر جب خوف جاتا رہے تو (اس طرح سے) نماز پڑھو (جس طرح امن کی حالت میں پڑھتے ہو) بےشک نماز کا مومنوں پر اوقات (مقررہ) میں ادا کرنا فرض ہے
+
+[Open on Quran.com](https://quran.com/4/103)
+
+#### 9:83 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِن رَّجَعَكَ ٱللَّهُ إِلَىٰ طَآئِفَةٍ مِّنْهُمْ فَٱسْتَـْٔذَنُوكَ لِلْخُرُوجِ فَقُل لَّن تَخْرُجُوا۟ مَعِىَ أَبَدًا وَلَن تُقَـٰتِلُوا۟ مَعِىَ عَدُوًّا ۖ إِنَّكُمْ رَضِيتُم بِٱلْقُعُودِ أَوَّلَ مَرَّةٍ فَٱقْعُدُوا۟ مَعَ ٱلْخَـٰلِفِينَ
+
+</div>
+
+**Word in this verse:** `بِٱلْقُعُودِ` — with sitting
+
+**English (Sahih International):** If Allāh should return you to a faction of them [after the expedition] and then they ask your permission to go out [to battle], say, "You will not go out with me, ever, and you will never fight with me an enemy. Indeed, you were satisfied with sitting [at home] the first time, so sit [now] with those who stay behind."
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اگر خدا تم کو ان میں سے کسی گروہ کی طرف لے جائے اور وہ تم سے نکلنے کی اجازت طلب کریں تو کہہ دینا کہ تم میرے ساتھ ہرگز نہیں نکلو گے اور نہ میرے ساتھ (مددگار ہوکر) دشمن سے لڑائی کرو گے۔ تم پہلی دفعہ بیٹھ رہنے سے خوش ہوئے تو اب بھی پیچھے رہنے والوں کے ساتھ بیٹھے رہو
+
+[Open on Quran.com](https://quran.com/9/83)
+
+#### 85:6 · [[085 Al-Buruj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ هُمْ عَلَيْهَا قُعُودٌ
+
+</div>
+
+**Word in this verse:** `قُعُودٌۭ` — (were) sitting
+
+**English (Sahih International):** When they were sitting near it.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب کہ وہ ان (کے کناروں) پر بیٹھے ہوئے تھے
+
+[Open on Quran.com](https://quran.com/85/6)
+

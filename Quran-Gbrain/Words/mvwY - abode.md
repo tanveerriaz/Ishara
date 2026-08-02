@@ -1,0 +1,198 @@
+---
+type: word
+lemma: "مَثْوًى"
+slug: "mvwY - abode"
+surah_count: 9
+ayah_count: 13
+tags: [word, meaning]
+---
+
+# mvwY - abode
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[vwy - reside]]
+
+### Meaning
+**abode** · Lemma **مَثْوًى**
+
+### Surahs (9)
+- [[003 Ali Imran]]
+- [[006 Al-Anam]]
+- [[012 Yusuf]]
+- [[016 An-Nahl]]
+- [[029 Al-Ankabut]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[041 Fussilat]]
+- [[047 Muhammad]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:151 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+سَنُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ بِمَآ أَشْرَكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًا ۖ وَمَأْوَىٰهُمُ ٱلنَّارُ ۚ وَبِئْسَ مَثْوَى ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `مَثْوَى` — (is the) abode
+
+**English (Sahih International):** We will cast terror into the hearts of those who disbelieve for what they have associated with Allāh of which He had not sent down [any] authority. And their refuge will be the Fire, and wretched is the residence of the wrongdoers.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم عنقریب کافروں کے دلوں میں تمہارا رعب بٹھا دیں گے کیونکہ یہ خدا کے ساتھ شرک کرتے ہیں جس کی اس نے کوئی بھی دلیل نازل نہیں کی اور ان کا ٹھکانہ دوزخ ہے وہ ظالموں کا بہت بُرا ٹھکانا ہے
+
+[Open on Quran.com](https://quran.com/3/151)
+
+#### 6:128 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَوْمَ يَحْشُرُهُمْ جَمِيعًا يَـٰمَعْشَرَ ٱلْجِنِّ قَدِ ٱسْتَكْثَرْتُم مِّنَ ٱلْإِنسِ ۖ وَقَالَ أَوْلِيَآؤُهُم مِّنَ ٱلْإِنسِ رَبَّنَا ٱسْتَمْتَعَ بَعْضُنَا بِبَعْضٍ وَبَلَغْنَآ أَجَلَنَا ٱلَّذِىٓ أَجَّلْتَ لَنَا ۚ قَالَ ٱلنَّارُ مَثْوَىٰكُمْ خَـٰلِدِينَ فِيهَآ إِلَّا مَا شَآءَ ٱللَّهُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `مَثْوَىٰكُمْ` — (is) your abode
+
+**English (Sahih International):** And [mention, O Muḥammad], the Day when He will gather them together [and say], "O company of jinn, you have [misled] many of mankind." And their allies among mankind will say, "Our Lord, some of us made use of others, and we have [now] reached our term which You appointed for us." He will say, "The Fire is your residence, wherein you will abide eternally, except for what Allāh wills. Indeed, your Lord is Wise and Knowing."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن وہ سب (جنّ وانس) کو جمع کرے گا (اور فرمائے گا کہ) اے گروہ جنّات تم نے انسانوں سے بہت (فائدے) حاصل کئے تو جو انسانوں میں ان کے دوستدار ہوں گے وہ کہیں گے کہ پروردگار ہم ایک دوسرے سے فائدہ اٹھاتے رہے اور (آخر) اس وقت کو پہنچ گئے جو تو نے ہمارے لیے مقرر کیا تھا خدا فرمائے گا (اب) تمہارا ٹھکانہ دوزخ ہے ہمیشہ اس میں (جلتے) رہو گے مگر جو خدا چاہے بےشک تمہارا پروردگار دانا اور خبردار ہے
+
+[Open on Quran.com](https://quran.com/6/128)
+
+#### 12:21 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًا ۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `مَثْوَىٰهُ` — his stay
+
+**English (Sahih International):** And the one from Egypt who bought him said to his wife, "Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son." And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مصر میں جس شخص نے اس کو خریدا اس نے اپنی بیوی سے (جس کا نام زلیخا تھا) کہا کہ اس کو عزت واکرام سے رکھو عجب نہیں کہ یہ ہمیں فائدہ دے یا ہم اسے بیٹا بنالیں۔ اس طرح ہم نے یوسف کو سرزمین (مصر) میں جگہ دی اور غرض یہ تھی کہ ہم ان کو (خواب کی) باتوں کی تعبیر سکھائیں اور خدا اپنے کام پر غالب ہے لیکن اکثر لوگ نہیں جانتے
+
+[Open on Quran.com](https://quran.com/12/21)
+
+#### 12:23 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ ۚ قَالَ مَعَاذَ ٱللَّهِ ۖ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ ۖ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ
+
+</div>
+
+**Word in this verse:** `مَثْوَاىَ ۖ` — my stay
+
+**English (Sahih International):** And she, in whose house he was, sought to seduce him. She closed the doors and said, "Come, you." He said, "[I seek] the refuge of Allāh. Indeed, he is my master, who has made good my residence. Indeed, wrongdoers will not succeed."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جس عورت کے گھر میں وہ رہتے تھے اس نے ان کو اپنی طرف مائل کرنا چاہا اور دروازے بند کرکے کہنے لگی (یوسف) جلدی آؤ۔ انہوں نے کہا کہ خدا پناہ میں رکھے (وہ یعنی تمہارے میاں) تو میرے آقا ہیں انہوں نے مجھے اچھی طرح سے رکھا ہے (میں ایسا ظلم نہیں کرسکتا) بےشک ظالم لوگ فلاح نہیں پائیں گے
+
+[Open on Quran.com](https://quran.com/12/23)
+
+#### 16:29 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَـٰلِدِينَ فِيهَا ۖ فَلَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ
+
+</div>
+
+**Word in this verse:** `مَثْوَى` — (is the) abode
+
+**English (Sahih International):** So enter the gates of Hell to abide eternally therein, and how wretched is the residence of the arrogant.
+
+**Urdu (Fatah Muhammad Jalandhari):** سو دوزخ کے دروازوں میں داخل ہوجاؤ۔ ہمیشہ اس میں رہو گے۔ اب تکبر کرنے والوں کا برا ٹھکانا ہے
+
+[Open on Quran.com](https://quran.com/16/29)
+
+#### 29:68 · [[029 Al-Ankabut]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِٱلْحَقِّ لَمَّا جَآءَهُۥٓ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًى لِّلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `مَثْوًۭى` — an abode
+
+**English (Sahih International):** And who is more unjust than one who invents a lie about Allāh or denies the truth when it has come to him? Is there not in Hell a [sufficient] residence for the disbelievers?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے ظالم کون جو خدا پر جھوٹ بہتان باندھے یا جب حق بات اُس کے پاس آئے تو اس کی تکذیب کرے۔ کیا کافروں کا ٹھکانا جہنم میں نہیں ہے؟
+
+[Open on Quran.com](https://quran.com/29/68)
+
+#### 39:32 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ فَمَنْ أَظْلَمُ مِمَّن كَذَبَ عَلَى ٱللَّهِ وَكَذَّبَ بِٱلصِّدْقِ إِذْ جَآءَهُۥٓ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًى لِّلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `مَثْوًۭى` — an abode
+
+**English (Sahih International):** So who is more unjust than one who lies about Allāh and denies the truth when it has come to him? Is there not in Hell a residence for the disbelievers?
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اس سے بڑھ کر ظالم کون جو خدا پر جھوٹ بولے اور سچی بات جب اس کے پاس پہنچ جائے تو اسے جھٹلائے۔ کیا جہنم میں کافروں کا ٹھکانا نہیں ہے؟
+
+[Open on Quran.com](https://quran.com/39/32)
+
+#### 39:60 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَوْمَ ٱلْقِيَـٰمَةِ تَرَى ٱلَّذِينَ كَذَبُوا۟ عَلَى ٱللَّهِ وُجُوهُهُم مُّسْوَدَّةٌ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًى لِّلْمُتَكَبِّرِينَ
+
+</div>
+
+**Word in this verse:** `مَثْوًۭى` — an abode
+
+**English (Sahih International):** And on the Day of Resurrection you will see those who lied about Allāh [with] their faces blackened. Is there not in Hell a residence for the arrogant?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے خدا پر جھوٹ بولا تم قیامت کے دن دیکھو گے کہ ان کے منہ کالے ہو رہے ہوں گے۔ کیا غرور کرنے والوں کو ٹھکانا دوزخ میں نہیں ہے
+
+[Open on Quran.com](https://quran.com/39/60)
+
+#### 39:72 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قِيلَ ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَـٰلِدِينَ فِيهَا ۖ فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ
+
+</div>
+
+**Word in this verse:** `مَثْوَى` — (the) abode
+
+**English (Sahih International):** [To them] it will be said, "Enter the gates of Hell to abide eternally therein, and wretched is the residence of the arrogant."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہا جائے گا کہ دوزخ کے دروازوں میں داخل ہوجاؤ ہمیشہ اس میں رہو گے۔ تکبر کرنے والوں کا برا ٹھکانا ہے
+
+[Open on Quran.com](https://quran.com/39/72)
+
+#### 40:76 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱدْخُلُوٓا۟ أَبْوَٰبَ جَهَنَّمَ خَـٰلِدِينَ فِيهَا ۖ فَبِئْسَ مَثْوَى ٱلْمُتَكَبِّرِينَ
+
+</div>
+
+**Word in this verse:** `مَثْوَى` — (the) abode
+
+**English (Sahih International):** Enter the gates of Hell to abide eternally therein, and wretched is the residence of the arrogant."
+
+**Urdu (Fatah Muhammad Jalandhari):** (اب) جہنم کے دروازوں میں داخل ہوجاؤ۔ ہمیشہ اسی میں رہو گے۔ متکبروں کا کیا برا ٹھکانا ہے
+
+[Open on Quran.com](https://quran.com/40/76)
+
+_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

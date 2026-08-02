@@ -1,0 +1,202 @@
+---
+type: word
+lemma: "يَصْلَى"
+slug: "ySlY - burn therein"
+surah_count: 13
+ayah_count: 13
+tags: [word, meaning]
+---
+
+# ySlY - burn therein
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Sly - sly]]
+
+### Meaning
+**burn therein** · Lemma **يَصْلَى**
+
+### Surahs (13)
+- [[004 An-Nisa]]
+- [[014 Ibrahim]]
+- [[017 Al-Isra]]
+- [[036 Ya-Sin]]
+- [[038 Sad]]
+- [[052 At-Tur]]
+- [[058 Al-Mujadila]]
+- [[082 Al-Infitar]]
+- [[084 Al-Inshiqaq]]
+- [[087 Al-Ala]]
+- [[088 Al-Ghashiyah]]
+- [[092 Al-Layl]]
+- [[111 Al-Masad]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:10 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَـٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا
+
+</div>
+
+**Word in this verse:** `وَسَيَصْلَوْنَ` — and they will be burned
+
+**English (Sahih International):** Indeed, those who devour the property of orphans unjustly are only consuming into their bellies fire. And they will be burned in a Blaze [i.e., Hellfire].
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگ یتیموں کا مال ناجائز طور پر کھاتے ہیں وہ اپنے پیٹ میں آگ بھرتے ہیں۔ اور دوزخ میں ڈالے جائیں گے
+
+[Open on Quran.com](https://quran.com/4/10)
+
+#### 14:29 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+جَهَنَّمَ يَصْلَوْنَهَا ۖ وَبِئْسَ ٱلْقَرَارُ
+
+</div>
+
+**Word in this verse:** `يَصْلَوْنَهَا ۖ` — (in) it they will burn
+
+**English (Sahih International):** [It is] Hell, which they will [enter to] burn, and wretched is the settlement.
+
+**Urdu (Fatah Muhammad Jalandhari):** (وہ گھر) دوزخ ہے۔ (سب ناشکرے) اس میں داخل ہوں گے۔ اور وہ برا ٹھکانہ ہے
+
+[Open on Quran.com](https://quran.com/14/29)
+
+#### 17:18 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَّن كَانَ يُرِيدُ ٱلْعَاجِلَةَ عَجَّلْنَا لَهُۥ فِيهَا مَا نَشَآءُ لِمَن نُّرِيدُ ثُمَّ جَعَلْنَا لَهُۥ جَهَنَّمَ يَصْلَىٰهَا مَذْمُومًا مَّدْحُورًا
+
+</div>
+
+**Word in this verse:** `يَصْلَىٰهَا` — he will burn
+
+**English (Sahih International):** Whoever should desire the immediate - We hasten for him from it what We will to whom We intend. Then We have made for him Hell, which he will [enter to] burn, censured and banished.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص دنیا (کی آسودگی) کا خواہشمند ہو تو ہم اس میں سے جسے چاہتے ہیں اور جتنا چاہتے ہیں جلد دے دیتے ہیں۔ پھر اس کے لئے جہنم کو (ٹھکانا) مقرر کر رکھا ہے۔ جس میں وہ نفرین سن کر اور (درگاہ خدا سے) راندہ ہو کر داخل ہوگا
+
+[Open on Quran.com](https://quran.com/17/18)
+
+#### 36:64 · [[036 Ya-Sin]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱصْلَوْهَا ٱلْيَوْمَ بِمَا كُنتُمْ تَكْفُرُونَ
+
+</div>
+
+**Word in this verse:** `ٱصْلَوْهَا` — Burn therein
+
+**English (Sahih International):** [Enter to] burn therein today for what you used to deny."
+
+**Urdu (Fatah Muhammad Jalandhari):** (سو) جو تم کفر کرتے رہے ہو اس کے بدلے آج اس میں داخل ہوجاؤ
+
+[Open on Quran.com](https://quran.com/36/64)
+
+#### 38:56 · [[038 Sad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+جَهَنَّمَ يَصْلَوْنَهَا فَبِئْسَ ٱلْمِهَادُ
+
+</div>
+
+**Word in this verse:** `يَصْلَوْنَهَا` — they will burn therein
+
+**English (Sahih International):** Hell, which they will [enter to] burn, and wretched is the resting place.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) دوزخ۔ جس میں وہ داخل ہوں گے اور وہ بری آرام گاہ ہے
+
+[Open on Quran.com](https://quran.com/38/56)
+
+#### 52:16 · [[052 At-Tur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `ٱصْلَوْهَا` — Burn in it
+
+**English (Sahih International):** [Enter to] burn therein; then be patient or impatient - it is all the same for you. You are only being recompensed [for] what you used to do."
+
+**Urdu (Fatah Muhammad Jalandhari):** اس میں داخل ہوجاؤ اور صبر کرو یا نہ کرو تمہارے لئے یکساں ہے۔ جو کام تم کیا کرتے تھے (یہ) انہی کا تم کو بدلہ مل رہا ہے
+
+[Open on Quran.com](https://quran.com/52/16)
+
+#### 58:8 · [[058 Al-Mujadila]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ تَرَ إِلَى ٱلَّذِينَ نُهُوا۟ عَنِ ٱلنَّجْوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُوا۟ عَنْهُ وَيَتَنَـٰجَوْنَ بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَمَعْصِيَتِ ٱلرَّسُولِ وَإِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِىٓ أَنفُسِهِمْ لَوْلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُ ۚ حَسْبُهُمْ جَهَنَّمُ يَصْلَوْنَهَا ۖ فَبِئْسَ ٱلْمَصِيرُ
+
+</div>
+
+**Word in this verse:** `يَصْلَوْنَهَا ۖ` — they will burn in it
+
+**English (Sahih International):** Have you not considered those who were forbidden from private conversation [i.e., ridicule and conspiracy] and then return to that which they were forbidden and converse among themselves about sin and aggression and disobedience to the Messenger? And when they come to you, they greet you with that [word] by which Allāh does not greet you and say among themselves, "Why does Allāh not punish us for what we say?" Sufficient for them is Hell, which they will [enter to] burn, and wretched is the destination.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے ان لوگوں کو نہیں دیکھا جن کو سرگوشیاں کرنے سے منع کیا گیا تھا۔ پھر جس (کام) سے منع کیا گیا تھا وہی پھر کرنے لگے اور یہ تو گناہ اور ظلم اور رسول (خدا) کی نافرمانی کی سرگوشیاں کرتے ہیں۔ اور جب تمہارے پاس آتے ہیں تو جس (کلمے) سے خدا نے تم کو دعا نہیں دی اس سے تمہیں دعا دیتے ہیں۔ اور اپنے دل میں کہتے ہیں کہ (اگر یہ واقعی پیغمبر ہیں تو) جو کچھ ہم کہتے ہیں خدا ہمیں اس کی سزا کیوں نہیں دیتا؟ (اے پیغمبر) ان کو دوزخ (ہی کی سزا) کافی ہے۔ یہ اسی میں داخل ہوں گے۔ اور وہ بری جگہ ہے
+
+[Open on Quran.com](https://quran.com/58/8)
+
+#### 82:15 · [[082 Al-Infitar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ
+
+</div>
+
+**Word in this verse:** `يَصْلَوْنَهَا` — They will burn (in) it
+
+**English (Sahih International):** They will [enter to] burn therein on the Day of Recompense,
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) جزا کے دن اس میں داخل ہوں گے
+
+[Open on Quran.com](https://quran.com/82/15)
+
+#### 84:12 · [[084 Al-Inshiqaq]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَصْلَىٰ سَعِيرًا
+
+</div>
+
+**Word in this verse:** `وَيَصْلَىٰ` — And he will burn
+
+**English (Sahih International):** And [enter to] burn in a Blaze.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ دوزخ میں داخل ہو گا
+
+[Open on Quran.com](https://quran.com/84/12)
+
+#### 87:12 · [[087 Al-Ala]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ
+
+</div>
+
+**Word in this verse:** `يَصْلَى` — will burn
+
+**English (Sahih International):** [He] who will [enter and] burn in the greatest Fire,
+
+**Urdu (Fatah Muhammad Jalandhari):** جو (قیامت کو) بڑی (تیز) آگ میں داخل ہو گا
+
+[Open on Quran.com](https://quran.com/87/12)
+
+_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "نَأَى"
+slug: "n>Y - becomes remote"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# n>Y - becomes remote
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[n>y - they keep away]]
+
+### Meaning
+**becomes remote** · Lemma **نَأَى**
+
+### Surahs (3)
+- [[006 Al-Anam]]
+- [[017 Al-Isra]]
+- [[041 Fussilat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 6:26 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَهُمْ يَنْهَوْنَ عَنْهُ وَيَنْـَٔوْنَ عَنْهُ ۖ وَإِن يُهْلِكُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ
+
+</div>
+
+**Word in this verse:** `وَيَنْـَٔوْنَ` — and they keep away
+
+**English (Sahih International):** And they prevent [others] from him and are [themselves] remote from him. And they do not destroy except themselves, but they perceive [it] not.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ اس سے (اوروں کو بھی) روکتے ہیں اور خود بھی پرے رہتے ہیں مگر (ان باتوں سے) اپنے آپ ہی کو ہلاک کرتے ہیں اور (اس سے) بےخبر ہیں
+
+[Open on Quran.com](https://quran.com/6/26)
+
+#### 17:83 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَـٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ ۖ وَإِذَا مَسَّهُ ٱلشَّرُّ كَانَ يَـُٔوسًا
+
+</div>
+
+**Word in this verse:** `وَنَـَٔا` — and becomes remote
+
+**English (Sahih International):** And when We bestow favor upon man [i.e., the disbeliever], he turns away and distances himself; and when evil touches him, he is ever despairing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم انسان کو نعمت بخشتے ہیں تو ردگرداں ہوجاتا اور پہلو پھیر لیتا ہے۔ اور جب اسے سختی پہنچتی ہے تو ناامید ہوجاتا ہے
+
+[Open on Quran.com](https://quran.com/17/83)
+
+#### 41:51 · [[041 Fussilat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَـٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ فَذُو دُعَآءٍ عَرِيضٍ
+
+</div>
+
+**Word in this verse:** `وَنَـَٔا` — and distances himself
+
+**English (Sahih International):** And when We bestow favor upon man, he turns away and distances himself; but when evil touches him, then he is full of extensive supplication.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم انسان پر کرم کرتے ہیں تو منہ موڑ لیتا ہے اور پہلو پھیر کر چل دیتا ہے۔ اور جب اس کو تکلیف پہنچتی ہے تو لمبی لمبی دعائیں کرنے لگتا ہے
+
+[Open on Quran.com](https://quran.com/41/51)
+

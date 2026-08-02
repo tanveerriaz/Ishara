@@ -1,0 +1,199 @@
+---
+type: word
+lemma: "طَلَعَ"
+slug: "TlE - discover"
+surah_count: 10
+ayah_count: 11
+tags: [word, meaning]
+---
+
+# TlE - discover
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[TlE - rising]]
+
+### Meaning
+**discover** · Lemma **طَلَعَ**
+
+### Surahs (10)
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[018 Al-Kahf]]
+- [[019 Maryam]]
+- [[026 Ash-Shuara]]
+- [[028 Al-Qasas]]
+- [[037 As-Saffat]]
+- [[040 Ghafir]]
+- [[050 Qaf]]
+- [[104 Al-Humazah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 5:13 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَبِمَا نَقْضِهِم مِّيثَـٰقَهُمْ لَعَنَّـٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَـٰسِيَةً ۖ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ ۙ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ ۖ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
+
+</div>
+
+**Word in this verse:** `تَطَّلِعُ` — to discover
+
+**English (Sahih International):** So for their breaking of the covenant We cursed them and made their hearts hardened. They distort words from their [proper] places [i.e., usages] and have forgotten a portion of that of which they were reminded. And you will still observe deceit among them, except a few of them. But pardon them and overlook [their misdeeds]. Indeed, Allāh loves the doers of good.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں کے عہد توڑ دینے کے سبب ہم نے ان پر لعنت کی اور ان کے دلوں کو سخت کر دیا یہ لوگ کلمات (کتاب) کو اپنے مقامات سے بدل دیتے ہیں اور جن باتوں کی ان کو نصیحت کی گئی تھی ان کا بھی ایک حصہ فراموش کر بیٹھے اور تھوڑے آدمیوں کے سوا ہمیشہ تم ان کی (ایک نہ ایک) خیانت کی خبر پاتے رہتے ہو تو ان کی خطائیں معاف کردو اور (ان سے) درگزر کرو کہ خدا احسان کرنے والوں کو دوست رکھتا ہے
+
+[Open on Quran.com](https://quran.com/5/13)
+
+#### 6:99 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَهُوَ ٱلَّذِىٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦ نَبَاتَ كُلِّ شَىْءٍ فَأَخْرَجْنَا مِنْهُ خَضِرًا نُّخْرِجُ مِنْهُ حَبًّا مُّتَرَاكِبًا وَمِنَ ٱلنَّخْلِ مِن طَلْعِهَا قِنْوَانٌ دَانِيَةٌ وَجَنَّـٰتٍ مِّنْ أَعْنَابٍ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُشْتَبِهًا وَغَيْرَ مُتَشَـٰبِهٍ ۗ ٱنظُرُوٓا۟ إِلَىٰ ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَيَنْعِهِۦٓ ۚ إِنَّ فِى ذَٰلِكُمْ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ
+
+</div>
+
+**Word in this verse:** `طَلْعِهَا` — its spathe
+
+**English (Sahih International):** And it is He who sends down rain from the sky, and We produce thereby the growth of all things. We produce from it greenery from which We produce grains arranged in layers. And from the palm trees - of its emerging fruit are clusters hanging low. And [We produce] gardens of grapevines and olives and pomegranates, similar yet varied. Look at [each of] its fruit when it yields and [at] its ripening. Indeed in that are signs for a people who believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو آسمان سے مینھ برساتا ہے۔ پھر ہم ہی (جو مینھ برساتے ہیں) اس سے ہر طرح کی روئیدگی اگاتے ہیں۔ پھر اس میں سے سبز سبز کونپلیں نکالتے ہیں۔ اور ان کونپلوں میں سے ایک دوسرے کے ساتھ جڑے ہوئے دانے نکالتے ہیں اور کھجور کے گابھے میں سے لٹکتے ہوئے گچھے اور انگوروں کے باغ اور زیتون اور انار جو ایک دوسرے سے ملتے جلتے بھی ہیں۔ اور نہیں بھی ملتے۔ یہ چیزیں جب پھلتی ہیں تو ان کے پھلوں پر اور (جب پکتی ہیں تو) ان کے پکنے پر نظر کرو۔ ان میں ان لوگوں کے لئے جو ایمان لاتے ہیں (قدرت خدا کی بہت سی) نشانیاں ہیں
+
+[Open on Quran.com](https://quran.com/6/99)
+
+#### 18:18 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ ۚ وَنُقَلِّبُهُمْ ذَاتَ ٱلْيَمِينِ وَذَاتَ ٱلشِّمَالِ ۖ وَكَلْبُهُم بَـٰسِطٌ ذِرَاعَيْهِ بِٱلْوَصِيدِ ۚ لَوِ ٱطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًا وَلَمُلِئْتَ مِنْهُمْ رُعْبًا
+
+</div>
+
+**Word in this verse:** `ٱطَّلَعْتَ` — you had looked
+
+**English (Sahih International):** And you would think them awake, while they were asleep. And We turned them to the right and to the left, while their dog stretched his forelegs at the entrance. If you had looked at them, you would have turned from them in flight and been filled by them with terror.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم ان کو خیال کرو کہ جاگ رہے ہیں حالانکہ وہ سوتے ہیں۔ اور ہم ان کو دائیں اور بائیں کروٹ بدلاتے تھے۔ اور ان کا کتا چوکھٹ پر دونوں ہاتھ پھیلائے ہوئے تھا۔ اگر تم ان کو جھانک کر دیکھتے تو پیٹھ پھیر کر بھاگ جاتے اور ان سے دہشت میں آجاتے
+
+[Open on Quran.com](https://quran.com/18/18)
+
+#### 19:78 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَطَّلَعَ ٱلْغَيْبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحْمَـٰنِ عَهْدًا
+
+</div>
+
+**Word in this verse:** `أَطَّلَعَ` — Has he looked
+
+**English (Sahih International):** Has he looked into the unseen, or has he taken from the Most Merciful a promise?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا اس نے غیب کی خبر پالی ہے یا خدا کے یہاں (سے) عہد لے لیا ہے؟
+
+[Open on Quran.com](https://quran.com/19/78)
+
+#### 26:148 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ
+
+</div>
+
+**Word in this verse:** `طَلْعُهَا` — its spadix
+
+**English (Sahih International):** And fields of crops and palm trees with softened fruit?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کھیتیاں اور کھجوریں جن کے خوشے لطیف ونازک ہوتے ہیں
+
+[Open on Quran.com](https://quran.com/26/148)
+
+#### 28:38 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ فِرْعَوْنُ يَـٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَـٰهٍ غَيْرِى فَأَوْقِدْ لِى يَـٰهَـٰمَـٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَـٰذِبِينَ
+
+</div>
+
+**Word in this verse:** `أَطَّلِعُ` — I may look
+
+**English (Sahih International):** And Pharaoh said, "O eminent ones, I have not known you to have a god other than me. Then ignite for me, O Hāmān, [a fire] upon the clay and make for me a tower that I may look at the God of Moses. And indeed, I do think he is among the liars."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور فرعون نے کہا کہ اے اہلِ دربار میں تمہارا اپنے سوا کسی کو خدا نہیں جانتا تو ہامان میرے لئے گارے کو آگ لگوا (کر اینٹیں پکوا) دو پھر ایک (اُونچا) محل بنادو تاکہ میں موسٰی کے خدا کی طرف چڑھ جاؤں اور میں تو اُسے جھوٹا سمجھتا ہوں
+
+[Open on Quran.com](https://quran.com/28/38)
+
+#### 37:55 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ
+
+</div>
+
+**Word in this verse:** `فَٱطَّلَعَ` — Then he (will) look
+
+**English (Sahih International):** And he will look and see him in the midst of the Hellfire.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اتنے میں) وہ (خود) جھانکے گا تو اس کو وسط دوزخ میں دیکھے گا
+
+[Open on Quran.com](https://quran.com/37/55)
+
+#### 37:65 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَـٰطِينِ
+
+</div>
+
+**Word in this verse:** `طَلْعُهَا` — Its emerging fruit
+
+**English (Sahih International):** Its emerging fruit as if it was heads of the devils.
+
+**Urdu (Fatah Muhammad Jalandhari):** اُس کے خوشے ایسے ہوں گے جیسے شیطانوں کے سر
+
+[Open on Quran.com](https://quran.com/37/65)
+
+#### 40:37 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَسْبَـٰبَ ٱلسَّمَـٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَـٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَـٰذِبًا ۚ وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ ۚ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍ
+
+</div>
+
+**Word in this verse:** `فَأَطَّلِعَ` — so I may look
+
+**English (Sahih International):** The ways into the heavens - so that I may look at the deity of Moses; but indeed, I think he is a liar." And thus was made attractive to Pharaoh the evil of his deed, and he was averted from the [right] way. And the plan of Pharaoh was not except in ruin.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) آسمانوں کے رستوں پر، پھر موسیٰ کے خدا کو دیکھ لوں اور میں تو اسے جھوٹا سمجھتا ہوں۔ اور اسی طرح فرعون کو اس کے اعمال بد اچھے معلوم ہوتے تھے اور وہ رستے سے روک دیا گیا تھا۔ اور فرعون کی تدبیر تو بےکار تھی
+
+[Open on Quran.com](https://quran.com/40/37)
+
+#### 50:10 · [[050 Qaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلنَّخْلَ بَاسِقَـٰتٍ لَّهَا طَلْعٌ نَّضِيدٌ
+
+</div>
+
+**Word in this verse:** `طَلْعٌۭ` — (are) layers
+
+**English (Sahih International):** And lofty palm trees having fruit arranged in layers -
+
+**Urdu (Fatah Muhammad Jalandhari):** اور لمبی لمبی کھجوریں جن کا گابھا تہہ بہ تہہ ہوتا ہے
+
+[Open on Quran.com](https://quran.com/50/10)
+
+_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

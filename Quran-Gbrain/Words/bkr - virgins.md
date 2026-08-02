@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "بِكْر"
+slug: "bkr - virgins"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# bkr - virgins
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[bkr - bkr]]
+
+### Meaning
+**virgins** · Lemma **بِكْر**
+
+### Surahs (3)
+- [[002 Al-Baqarah]]
+- [[056 Al-Waqiah]]
+- [[066 At-Tahrim]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:68 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَلَا بِكْرٌ عَوَانٌۢ بَيْنَ ذَٰلِكَ ۖ فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ
+
+</div>
+
+**Word in this verse:** `بِكْرٌ` — young
+
+**English (Sahih International):** They said, "Call upon your Lord to make clear to us what it is." [Moses] said, "[Allāh] says, 'It is a cow which is neither old nor virgin, but median between that,' so do what you are commanded."
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ اپنے پروردگار سے التجا کیجئے کہ وہ ہمیں یہ بتائے کہ وہ بیل کس طرح کا ہو۔ (موسیٰ نے) کہا کہ پروردگار فرماتا ہے کہ وہ بیل نہ تو بوڑھا ہو اور نہ بچھڑا، بلکہ ان کے درمیان (یعنی جوان) ہو۔ جیسا تم کو حکم دیا گیا ہے، ویسا کرو
+
+[Open on Quran.com](https://quran.com/2/68)
+
+#### 56:36 · [[056 Al-Waqiah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَجَعَلْنَـٰهُنَّ أَبْكَارًا
+
+</div>
+
+**Word in this verse:** `أَبْكَارًا` — virgins
+
+**English (Sahih International):** And made them virgins,
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کو کنواریاں بنایا
+
+[Open on Quran.com](https://quran.com/56/36)
+
+#### 66:5 · [[066 At-Tahrim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُۥٓ أَزْوَٰجًا خَيْرًا مِّنكُنَّ مُسْلِمَـٰتٍ مُّؤْمِنَـٰتٍ قَـٰنِتَـٰتٍ تَـٰٓئِبَـٰتٍ عَـٰبِدَٰتٍ سَـٰٓئِحَـٰتٍ ثَيِّبَـٰتٍ وَأَبْكَارًا
+
+</div>
+
+**Word in this verse:** `وَأَبْكَارًۭا` — and virgins
+
+**English (Sahih International):** Perhaps his Lord, if he divorced you [all], would substitute for him wives better than you - submitting [to Allāh], believing, devoutly obedient, repentant, worshipping, and traveling - [ones] previously married and virgins.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر پیغمبر تم کو طلاق دے دیں تو عجب نہیں کہ ان کا پروردگار تمہارے بدلے ان کو تم سے بہتر بیبیاں دے دے۔ مسلمان، صاحب ایمان فرمانبردار توبہ کرنے والیاں عبادت گذار روزہ رکھنے والیاں بن شوہر اور کنواریاں
+
+[Open on Quran.com](https://quran.com/66/5)
+

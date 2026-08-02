@@ -1,0 +1,143 @@
+---
+type: word
+lemma: "جانّ"
+slug: "jAn - any jinn"
+surah_count: 4
+ayah_count: 7
+tags: [word, meaning]
+---
+
+# jAn - any jinn
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[jnn - jann]]
+
+### Meaning
+**any jinn** · Lemma **جانّ**
+
+### Surahs (4)
+- [[015 Al-Hijr]]
+- [[027 An-Naml]]
+- [[028 Al-Qasas]]
+- [[055 Ar-Rahman]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 15:27 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلْجَآنَّ خَلَقْنَـٰهُ مِن قَبْلُ مِن نَّارِ ٱلسَّمُومِ
+
+</div>
+
+**Word in this verse:** `وَٱلْجَآنَّ` — And the jinn
+
+**English (Sahih International):** And the jinn We created before from scorching fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جنوں کو اس سے بھی پہلے بےدھوئیں کی آگ سے پیدا کیا تھا
+
+[Open on Quran.com](https://quran.com/15/27)
+
+#### 27:10 · [[027 An-Naml]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَلْقِ عَصَاكَ ۚ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ
+
+</div>
+
+**Word in this verse:** `جَآنٌّۭ` — (were) a snake
+
+**English (Sahih International):** And [he was told], "Throw down your staff." But when he saw it writhing as if it were a snake, he turned in flight and did not return. [Allāh said], "O Moses, fear not. Indeed, in My presence the messengers do not fear.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی لاٹھی ڈال دو۔ جب اُسے دیکھا تو (اس طرح) ہل رہی تھی گویا سانپ ہے تو پیٹھ پھیر کر بھاگے اور پیچھے مڑ کر نہ دیکھا (حکم ہوا کہ) موسیٰ ڈرو مت۔ ہمارے پاس پیغمبر ڈرا نہیں کرتے
+
+[Open on Quran.com](https://quran.com/27/10)
+
+#### 28:31 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنْ أَلْقِ عَصَاكَ ۖ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰٓ أَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ ٱلْـَٔامِنِينَ
+
+</div>
+
+**Word in this verse:** `جَآنٌّۭ` — (were) a snake
+
+**English (Sahih International):** And [he was told], "Throw down your staff." But when he saw it writhing as if it was a snake, he turned in flight and did not return. [Allāh said], "O Moses, approach and fear not. Indeed, you are of the secure.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ اپنی لاٹھی ڈالدو۔ جب دیکھا کہ وہ حرکت کر رہی ہے گویا سانپ ہے، تو پیٹھ پھیر کر چل دیئے اور پیچھے پھر کر بھی نہ دیکھا۔ (ہم نے کہا کہ) موسٰی آگے آؤ اور ڈرومت تم امن پانے والوں میں ہو
+
+[Open on Quran.com](https://quran.com/28/31)
+
+#### 55:15 · [[055 Ar-Rahman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ
+
+</div>
+
+**Word in this verse:** `ٱلْجَآنَّ` — the jinn
+
+**English (Sahih International):** And He created the jinn from a smokeless flame of fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جنات کو آگ کے شعلے سے پیدا کیا
+
+[Open on Quran.com](https://quran.com/55/15)
+
+#### 55:39 · [[055 Ar-Rahman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ
+
+</div>
+
+**Word in this verse:** `جَآنٌّۭ` — any jinn
+
+**English (Sahih International):** Then on that Day none will be asked about his sin among men or jinn.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس روز نہ تو کسی انسان سے اس کے گناہوں کے بارے میں پرسش کی جائے گی اور نہ کسی جن سے
+
+[Open on Quran.com](https://quran.com/55/39)
+
+#### 55:56 · [[055 Ar-Rahman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ
+
+</div>
+
+**Word in this verse:** `جَآنٌّۭ` — any jinn
+
+**English (Sahih International):** In them are women limiting [their] glances, untouched before them by man or jinnī -
+
+**Urdu (Fatah Muhammad Jalandhari):** ان میں نیچی نگاہ والی عورتیں ہیں جن کو اہل جنت سے پہلے نہ کسی انسان نے ہاتھ لگایا اور نہ کسی جن نے
+
+[Open on Quran.com](https://quran.com/55/56)
+
+#### 55:74 · [[055 Ar-Rahman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ
+
+</div>
+
+**Word in this verse:** `جَآنٌّۭ` — any jinn
+
+**English (Sahih International):** Untouched before them by man or jinnī -
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کو اہل جنت سے پہلے نہ کسی انسان نے ہاتھ لگایا اور نہ کسی جن نے
+
+[Open on Quran.com](https://quran.com/55/74)
+

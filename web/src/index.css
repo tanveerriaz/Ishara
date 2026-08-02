@@ -1,0 +1,355 @@
+:root {
+  --bg: #0f1412;
+  --bg-panel: #171e1b;
+  --bg-elevated: #1e2723;
+  --ink: #e8efe9;
+  --muted: #8fa396;
+  --line: #2a3630;
+  --word: #416464;
+  --root: #e0b352;
+  --surah: #ffbf00;
+  --accent: #c4a35a;
+  --danger: #c45c5c;
+  --font: "Source Serif 4", "Iowan Old Style", Palatino, Georgia, serif;
+  --font-ui: "DM Sans", "Avenir Next", system-ui, sans-serif;
+  --font-ar: "Amiri", "Noto Naskh Arabic", "Traditional Arabic", serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: var(--font-ui);
+  background: radial-gradient(ellipse at top, #1a2420 0%, var(--bg) 55%);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: var(--accent);
+}
+
+button,
+input {
+  font: inherit;
+}
+
+.app {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  height: 100%;
+  min-height: 100dvh;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--line);
+  background: color-mix(in srgb, var(--bg-panel) 92%, transparent);
+  backdrop-filter: blur(8px);
+  z-index: 2;
+}
+
+.brand {
+  font-family: var(--font);
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.brand span {
+  color: var(--muted);
+  font-weight: 400;
+  font-size: 0.85rem;
+  margin-left: 0.5rem;
+}
+
+.header-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.header-actions a,
+.header-actions button {
+  border: 1px solid var(--line);
+  background: var(--bg-elevated);
+  color: var(--ink);
+  border-radius: 8px;
+  padding: 0.4rem 0.7rem;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+
+.header-actions button.active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.main {
+  display: grid;
+  grid-template-columns: 1fr minmax(280px, 42%);
+  min-height: 0;
+}
+
+@media (max-width: 860px) {
+  .main {
+    grid-template-columns: 1fr;
+    grid-template-rows: minmax(42vh, 48vh) 1fr;
+  }
+
+  .graph-host {
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+  }
+}
+
+.graph-host {
+  position: relative;
+  min-height: 0;
+  border-right: 1px solid var(--line);
+  background:
+    radial-gradient(circle at 30% 20%, color-mix(in srgb, var(--word) 18%, transparent), transparent 40%),
+    radial-gradient(circle at 70% 80%, color-mix(in srgb, var(--surah) 12%, transparent), transparent 45%),
+    var(--bg);
+}
+
+.graph-pane {
+  position: absolute;
+  inset: 0;
+  min-height: 0;
+}
+
+.graph-pane canvas {
+  touch-action: none;
+}
+
+.search-wrap {
+  position: absolute;
+  top: 0.75rem;
+  left: 0.75rem;
+  right: 0.75rem;
+  z-index: 3;
+  max-width: 420px;
+}
+
+.search-wrap input {
+  width: 100%;
+  padding: 0.7rem 0.85rem;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--bg-panel) 94%, transparent);
+  color: var(--ink);
+  outline: none;
+}
+
+.search-wrap input:focus {
+  border-color: var(--accent);
+}
+
+.results {
+  margin: 0.35rem 0 0;
+  padding: 0;
+  list-style: none;
+  max-height: 240px;
+  overflow: auto;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: var(--bg-panel);
+}
+
+.results li button {
+  width: 100%;
+  text-align: left;
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  padding: 0.55rem 0.75rem;
+  cursor: pointer;
+  display: flex;
+  gap: 0.5rem;
+  align-items: baseline;
+}
+
+.results li button:hover,
+.results li button:focus {
+  background: var(--bg-elevated);
+}
+
+.badge {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.1rem 0.35rem;
+  border-radius: 4px;
+  color: #111;
+  flex-shrink: 0;
+}
+
+.badge.word {
+  background: var(--word);
+  color: #dff;
+}
+
+.badge.root {
+  background: var(--root);
+  color: #221;
+}
+
+.badge.surah {
+  background: var(--surah);
+  color: #221;
+}
+
+.legend {
+  position: absolute;
+  bottom: 0.75rem;
+  left: 0.75rem;
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  font-size: 0.75rem;
+  color: var(--muted);
+  z-index: 2;
+  pointer-events: none;
+}
+
+.legend i {
+  display: inline-block;
+  width: 0.6rem;
+  height: 0.6rem;
+  border-radius: 50%;
+  margin-right: 0.3rem;
+  vertical-align: middle;
+}
+
+.note-pane {
+  min-height: 0;
+  overflow: auto;
+  background: var(--bg-panel);
+  padding: 1rem 1.1rem 2rem;
+}
+
+.note-pane.empty {
+  display: grid;
+  place-items: center;
+  color: var(--muted);
+  text-align: center;
+  padding: 2rem;
+}
+
+.note-pane.empty h2 {
+  font-family: var(--font);
+  color: var(--ink);
+  margin: 0 0 0.5rem;
+  font-weight: 600;
+}
+
+.note-meta {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.note-pane h1 {
+  font-family: var(--font);
+  font-size: 1.35rem;
+  margin: 0 0 1rem;
+  font-weight: 600;
+}
+
+.note-body h2 {
+  font-size: 1.05rem;
+  margin: 1.4rem 0 0.5rem;
+  color: var(--accent);
+  font-family: var(--font);
+}
+
+.note-body h3 {
+  font-size: 0.95rem;
+  margin: 1rem 0 0.4rem;
+}
+
+.note-body h4 {
+  font-size: 0.9rem;
+  margin: 1.2rem 0 0.4rem;
+  color: var(--ink);
+}
+
+.note-body p,
+.note-body li {
+  line-height: 1.55;
+  color: color-mix(in srgb, var(--ink) 92%, var(--muted));
+}
+
+.note-body ul {
+  padding-left: 1.1rem;
+}
+
+.note-body .arabic {
+  font-family: var(--font-ar);
+  font-size: 1.45rem;
+  line-height: 2;
+  text-align: right;
+  margin: 0.5rem 0 0.75rem;
+  padding: 0.75rem 0.9rem;
+  background: var(--bg-elevated);
+  border-radius: 10px;
+  border: 1px solid var(--line);
+}
+
+.note-body code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.85em;
+  background: var(--bg-elevated);
+  padding: 0.05rem 0.3rem;
+  border-radius: 4px;
+}
+
+.footer {
+  border-top: 1px solid var(--line);
+  padding: 0.55rem 1rem;
+  font-size: 0.72rem;
+  color: var(--muted);
+  line-height: 1.4;
+  background: var(--bg-panel);
+}
+
+.footer a {
+  color: var(--accent);
+}
+
+.hint {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: var(--muted);
+  text-align: center;
+  pointer-events: none;
+  z-index: 1;
+  max-width: 16rem;
+  font-size: 0.9rem;
+}
+
+.loading {
+  display: grid;
+  place-items: center;
+  height: 100%;
+  color: var(--muted);
+}

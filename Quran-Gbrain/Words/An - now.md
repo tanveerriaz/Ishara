@@ -1,0 +1,161 @@
+---
+type: word
+lemma: "آن"
+slug: "An - now"
+surah_count: 6
+ayah_count: 8
+tags: [word, meaning]
+---
+
+# An - now
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[>wn - awn]]
+
+### Meaning
+**now** · Lemma **آن**
+
+### Surahs (6)
+- [[002 Al-Baqarah]]
+- [[004 An-Nisa]]
+- [[008 Al-Anfal]]
+- [[010 Yunus]]
+- [[012 Yusuf]]
+- [[072 Al-Jinn]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:71 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا ۚ قَالُوا۟ ٱلْـَٔـٰنَ جِئْتَ بِٱلْحَقِّ ۚ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْـَٔـٰنَ` — Now
+
+**English (Sahih International):** He said, "He says, 'It is a cow neither trained to plow the earth nor to irrigate the field, one free from fault with no spot upon her.'" They said, "Now you have come with the truth." So they slaughtered her, but they could hardly do it.
+
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا کہ خدا فرماتا ہے کہ وہ بیل کام میں لگا ہوا نہ ہو، نہ تو زمین جوتتا ہو اور نہ کھیتی کو پانی دیتا ہو۔ اس میں کسی طرح کا داغ نہ ہو۔ کہنے لگے، اب تم نے سب باتیں درست بتا دیں۔ غرض (بڑی مشکل سے) انہوں نے اس بیل کو ذبح کیا، اور وہ ایسا کرنے والے تھے نہیں
+
+[Open on Quran.com](https://quran.com/2/71)
+
+#### 2:187 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ ۚ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ ۗ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ ۖ فَٱلْـَٔـٰنَ بَـٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ ۚ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ۖ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ ۚ وَلَا تُبَـٰشِرُوهُنَّ وَأَنتُمْ عَـٰكِفُونَ فِى ٱلْمَسَـٰجِدِ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَـٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ
+
+</div>
+
+**Word in this verse:** `فَٱلْـَٔـٰنَ` — So now
+
+**English (Sahih International):** It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are a clothing for you and you are a clothing for them. Allāh knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allāh has decreed for you [i.e., offspring]. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the night [i.e., sunset]. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allāh, so do not approach them. Thus does Allāh make clear His verses [i.e., ordinances] to the people that they may become righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** روزوں کی راتوں میں تمہارے لئے اپنی عورتوں کے پاس جانا کردیا گیا ہے وہ تمہاری پوشاک ہیں اور تم ان کی پوشاک ہو خدا کو معلوم ہے کہ تم (ان کے پاس جانے سے) اپنے حق میں خیانت کرتے تھے سو اس نے تم پر مہربانی کی اور تمہاری حرکات سےدرگزرفرمائی۔اب (تم کو اختیار ہے کہ) ان سے مباشرت کرو۔ اور خدا نے جو چیز تمہارے لئے لکھ رکھی ہے (یعنی اولاد) اس کو (خدا سے) طلب کرو اور کھاؤ پیو یہاں تک کہ صبح کی سفید دھاری (رات کی) سیاہ دھاری سے الگ نظر آنے لگے۔ پھر روزہ (رکھ کر) رات تک پورا کرو اور جب تم مسجدوں میں اعتکاف بیٹھے ہو تو ان سے مباشرت نہ کرو۔ یہ خدا کی حدیں ہیں ان کے پاس نہ جانا۔ اسی طرح خدا اپنی آیتیں لوگوں کے (سمجھانے کے) لئے کھول کھول کر بیان فرماتا ہے تاکہ وہ پرہیزگار بنیں
+
+[Open on Quran.com](https://quran.com/2/187)
+
+#### 4:18 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٔـٰنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ ۚ أُو۟لَـٰٓئِكَ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًا
+
+</div>
+
+**Word in this verse:** `ٱلْـَٔـٰنَ` — now
+
+**English (Sahih International):** But repentance is not [accepted] of those who [continue to] do evil deeds up until, when death comes to one of them, he says, "Indeed, I have repented now," or of those who die while they are disbelievers. For them We have prepared a painful punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ایسے لوگوں کی توبہ قبول نہیں ہوتی جو (ساری عمر) برے کام کرتے ہیں۔ یہاں تک کہ جب ان میں سے کسی موت آموجود ہو تو اس وقت کہنے لگے کہ اب میں توبہ کرتا ہوں اور نہ ان کی (توبہ قبول ہوتی ہے) جو کفر کی حالت میں مریں۔ ایسے لوگوں کے لئے ہم نے عذاب الیم تیار کر رکھا ہے
+
+[Open on Quran.com](https://quran.com/4/18)
+
+#### 8:66 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلْـَٔـٰنَ خَفَّفَ ٱللَّهُ عَنكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا ۚ فَإِن يَكُن مِّنكُم مِّا۟ئَةٌ صَابِرَةٌ يَغْلِبُوا۟ مِا۟ئَتَيْنِ ۚ وَإِن يَكُن مِّنكُمْ أَلْفٌ يَغْلِبُوٓا۟ أَلْفَيْنِ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْـَٔـٰنَ` — Now
+
+**English (Sahih International):** Now, Allāh has lightened [the hardship] for you, and He knows that among you is weakness. So if there are from you one hundred [who are] steadfast, they will overcome two hundred. And if there are among you a thousand, they will overcome two thousand by permission of Allāh. And Allāh is with the steadfast.
+
+**Urdu (Fatah Muhammad Jalandhari):** اب خدا نے تم پر سے بوجھ ہلکا کر دیا اور معلوم کرلیا کہ (ابھی) تم میں کسی قدر کمزوری ہے۔ پس اگر تم میں ایک سو ثابت قدم رہنے والے ہوں گے تو دو سو پر غالب رہیں گے۔ اور اگر ایک ہزار ہوں گے تو خدا کے حکم سے دو ہزار پر غالب رہیں گے۔ اور خدا ثابت قدم رہنے والوں کا مدد گار ہے
+
+[Open on Quran.com](https://quran.com/8/66)
+
+#### 10:51 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِۦٓ ۚ ءَآلْـَٔـٰنَ وَقَدْ كُنتُم بِهِۦ تَسْتَعْجِلُونَ
+
+</div>
+
+**Word in this verse:** `ءَآلْـَٔـٰنَ` — Now
+
+**English (Sahih International):** Then is it that when it has [actually] occurred you will believe in it? Now? And you were [once] for it impatient.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا جب وہ آ واقع ہوگا تب اس پر ایمان لاؤ گے (اس وقت کہا جائے گا کہ) اور اب (ایمان لائے؟) اس کے لیے تو تم جلدی مچایا کرتے تھے
+
+[Open on Quran.com](https://quran.com/10/51)
+
+#### 10:91 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ءَآلْـَٔـٰنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ
+
+</div>
+
+**Word in this verse:** `ءَآلْـَٔـٰنَ` — Now
+
+**English (Sahih International):** Now? And you had disobeyed [Him] before and were of the corrupters?
+
+**Urdu (Fatah Muhammad Jalandhari):** (جواب ملا کہ) اب (ایمان لاتا ہے) حالانکہ تو پہلے نافرمانی کرتا رہا اور مفسد بنا رہا
+
+[Open on Quran.com](https://quran.com/10/91)
+
+#### 12:51 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ ۚ قُلْنَ حَـٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍ ۚ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٔـٰنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْـَٔـٰنَ` — Now
+
+**English (Sahih International):** Said [the king to the women], "What was your condition when you sought to seduce Joseph?" They said, "Perfect is Allāh! We know about him no evil." The wife of al-ʿAzeez said, "Now the truth has become evident. It was I who sought to seduce him, and indeed, he is of the truthful.
+
+**Urdu (Fatah Muhammad Jalandhari):** بادشاہ نے عورتوں سے پوچھا کہ بھلا اس وقت کیا ہوا تھا جب تم نے یوسف کو اپنی طرف مائل کرنا چاہا۔ سب بول اٹھیں کہ حاش َللهِ ہم نے اس میں کوئی برائی معلوم نہیں کی۔ عزیز کی عورت نے کہا اب سچی بات تو ظاہر ہو ہی گئی ہے۔ (اصل یہ ہے کہ) میں نے اس کو اپنی طرف مائل کرنا چاہا تھا اور بےشک وہ سچا ہے
+
+[Open on Quran.com](https://quran.com/12/51)
+
+#### 72:9 · [[072 Al-Jinn]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَـٰعِدَ لِلسَّمْعِ ۖ فَمَن يَسْتَمِعِ ٱلْـَٔانَ يَجِدْ لَهُۥ شِهَابًا رَّصَدًا
+
+</div>
+
+**Word in this verse:** `ٱلْـَٔانَ` — now
+
+**English (Sahih International):** And we used to sit therein in positions for hearing, but whoever listens now will find a burning flame lying in wait for him.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ پہلے ہم وہاں بہت سے مقامات میں (خبریں) سننے کے لئے بیٹھا کرتے تھے۔ اب کوئی سننا چاہے تو اپنے لئے انگارا تیار پائے
+
+[Open on Quran.com](https://quran.com/72/9)
+

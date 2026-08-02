@@ -1,0 +1,203 @@
+---
+type: word
+lemma: "دَرَجَة"
+slug: "drjp - degrees"
+surah_count: 14
+ayah_count: 18
+tags: [word, meaning]
+---
+
+# drjp - degrees
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[drj - path]]
+
+### Meaning
+**degrees** · Lemma **دَرَجَة**
+
+### Surahs (14)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[006 Al-Anam]]
+- [[008 Al-Anfal]]
+- [[009 At-Tawbah]]
+- [[012 Yusuf]]
+- [[017 Al-Isra]]
+- [[020 Taha]]
+- [[040 Ghafir]]
+- [[043 Az-Zukhruf]]
+- [[046 Al-Ahqaf]]
+- [[057 Al-Hadid]]
+- [[058 Al-Mujadila]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:228 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلْمُطَلَّقَـٰتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَـٰثَةَ قُرُوٓءٍ ۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِىٓ أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِى ذَٰلِكَ إِنْ أَرَادُوٓا۟ إِصْلَـٰحًا ۚ وَلَهُنَّ مِثْلُ ٱلَّذِى عَلَيْهِنَّ بِٱلْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
+
+</div>
+
+**Word in this verse:** `دَرَجَةٌۭ ۗ` — (is) a degree
+
+**English (Sahih International):** Divorced women remain in waiting [i.e., do not remarry] for three periods, and it is not lawful for them to conceal what Allāh has created in their wombs if they believe in Allāh and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to them [i.e., the wives] is similar to what is expected of them, according to what is reasonable. But the men [i.e., husbands] have a degree over them [in responsibility and authority]. And Allāh is Exalted in Might and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
+
+[Open on Quran.com](https://quran.com/2/228)
+
+#### 2:253 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۘ مِّنْهُم مَّن كَلَّمَ ٱللَّهُ ۖ وَرَفَعَ بَعْضَهُمْ دَرَجَـٰتٍ ۚ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَـٰتِ وَأَيَّدْنَـٰهُ بِرُوحِ ٱلْقُدُسِ ۗ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِنۢ بَعْدِهِم مِّنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَـٰتُ وَلَـٰكِنِ ٱخْتَلَفُوا۟ فَمِنْهُم مَّنْ ءَامَنَ وَمِنْهُم مَّن كَفَرَ ۚ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُوا۟ وَلَـٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ
+
+</div>
+
+**Word in this verse:** `دَرَجَـٰتٍۢ ۚ` — (in) degrees
+
+**English (Sahih International):** Those messengers - some of them We caused to exceed others. Among them were those to whom Allāh spoke, and He raised some of them in degree. And We gave Jesus, the son of Mary, clear proofs, and We supported him with the Pure Spirit [i.e., Gabriel]. If Allāh had willed, those [generations] succeeding them would not have fought each other after the clear proofs had come to them. But they differed, and some of them believed and some of them disbelieved. And if Allāh had willed, they would not have fought each other, but Allāh does what He intends.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ پیغمبر (جو ہم وقتاً فوقتاً بھیجتے رہیں ہیں) ان میں سے ہم نے بعض کو بعض پر فضیلت دی ہے۔ بعض ایسے ہیں جن سے خدا نے گفتگو فرمائی اور بعض کے (دوسرے امور میں) مرتبے بلند کئے۔ اور عیسیٰ بن مریم کو ہم نے کھلی ہوئی نشانیاں عطا کیں اور روح القدس سے ان کو مدد دی۔ اور اگر خداچاہتا تو ان سے پچھلے لوگ اپنے پاس کھلی نشانیاں آنے کے بعد آپس میں نہ لڑتے لیکن انہوں نے اختلاف کیا تو ان میں سے بعض تو ایمان لے آئے اور بعض کافر ہی رہے۔ اور اگر خدا چاہتا تو یہ لوگ باہم جنگ و قتال نہ کرتے۔ لیکن خدا جو چاہتا ہے کرتا ہے
+
+[Open on Quran.com](https://quran.com/2/253)
+
+#### 3:163 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُمْ دَرَجَـٰتٌ عِندَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `دَرَجَـٰتٌ` — (are in varying) degrees
+
+**English (Sahih International):** They are [varying] degrees in the sight of Allāh, and Allāh is Seeing of whatever they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں کے خدا کے ہاں (مختلف اور متفاوت) درجے ہیں اور خدا ان کے سب اعمال کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/3/163)
+
+#### 4:95 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَّا يَسْتَوِى ٱلْقَـٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۚ فَضَّلَ ٱللَّهُ ٱلْمُجَـٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَـٰعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَفَضَّلَ ٱللَّهُ ٱلْمُجَـٰهِدِينَ عَلَى ٱلْقَـٰعِدِينَ أَجْرًا عَظِيمًا
+
+</div>
+
+**Word in this verse:** `دَرَجَةًۭ ۚ` — (in) rank
+
+**English (Sahih International):** Not equal are those believers remaining [at home] - other than the disabled - and the mujāhideen, [who strive and fight] in the cause of Allāh with their wealth and their lives. Allāh has preferred the mujāhideen through their wealth and their lives over those who remain [behind], by degrees. And to all [i.e., both] Allāh has promised the best [reward]. But Allāh has preferred the mujāhideen over those who remain [behind] with a great reward -
+
+**Urdu (Fatah Muhammad Jalandhari):** جو مسلمان (گھروں میں) بیٹھ رہتے (اور لڑنے سے جی چراتے) ہیں اور کوئی عذر نہیں رکھتے وہ اور جو خدا کی راہ میں اپنے مال اور جان سے لڑتے ہیں وہ دونوں برابر نہیں ہو سکتے خدا نے مال اور جان سے جہاد کرنے والوں کو بیٹھ رہنے والوں پر درجے میں فضیلت بخشی ہے اور (گو) نیک وعدہ سب سے ہے لیکن اجر عظیم کے لحاظ سے خدا نے جہاد کرنے والوں کو بیٹھ رہنے والوں پر کہیں فضیلت بخشی ہے
+
+[Open on Quran.com](https://quran.com/4/95)
+
+#### 4:96 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+دَرَجَـٰتٍ مِّنْهُ وَمَغْفِرَةً وَرَحْمَةً ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
+
+</div>
+
+**Word in this verse:** `دَرَجَـٰتٍۢ` — Ranks
+
+**English (Sahih International):** Degrees [of high position] from Him and forgiveness and mercy. And Allāh is ever Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) خدا کی طرف سے درجات میں اور بخشش میں اور رحمت میں اور خدا بڑا بخشنے والا (اور) مہربان ہے
+
+[Open on Quran.com](https://quran.com/4/96)
+
+#### 6:83 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَتِلْكَ حُجَّتُنَآ ءَاتَيْنَـٰهَآ إِبْرَٰهِيمَ عَلَىٰ قَوْمِهِۦ ۚ نَرْفَعُ دَرَجَـٰتٍ مَّن نَّشَآءُ ۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `دَرَجَـٰتٍۢ` — (by) degrees
+
+**English (Sahih International):** And that was Our [conclusive] argument which We gave Abraham against his people. We raise by degrees whom We will. Indeed, your Lord is Wise and Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ ہماری دلیل تھی جو ہم نے ابراہیم کو ان کی قوم کے مقابلے میں عطا کی تھی۔ ہم جس کے چاہتے ہیں درجے بلند کردیتے ہیں۔ بےشک تمہارا پروردگار دانا اور خبردار ہے
+
+[Open on Quran.com](https://quran.com/6/83)
+
+#### 6:132 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلِكُلٍّ دَرَجَـٰتٌ مِّمَّا عَمِلُوا۟ ۚ وَمَا رَبُّكَ بِغَـٰفِلٍ عَمَّا يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `دَرَجَـٰتٌۭ` — (will be) degrees
+
+**English (Sahih International):** And for all are degrees [i.e., positions resulting] from what they have done. And your Lord is not unaware of what they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور سب لوگوں کے بلحاظ اعمال درجے (مقرر) ہیں اور جو کام یہ لوگ کرتے ہیں خدا ان سے بے خبر نہیں
+
+[Open on Quran.com](https://quran.com/6/132)
+
+#### 6:165 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَهُوَ ٱلَّذِى جَعَلَكُمْ خَلَـٰٓئِفَ ٱلْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَـٰتٍ لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ ۗ إِنَّ رَبَّكَ سَرِيعُ ٱلْعِقَابِ وَإِنَّهُۥ لَغَفُورٌ رَّحِيمٌۢ
+
+</div>
+
+**Word in this verse:** `دَرَجَـٰتٍۢ` — (in) ranks
+
+**English (Sahih International):** And it is He who has made you successors upon the earth and has raised some of you above others in degrees [of rank] that He may try you through what He has given you. Indeed, your Lord is swift in penalty; but indeed, He is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے زمین میں تم کو اپنا نائب بنایا اور ایک کے دوسرے پر درجے بلند کئے تاکہ جو کچھ اس نے تمہیں بخشا ہے اس میں تمہاری آزمائش ہے بےشک تمہارا پروردگار جلد عذاب دینے والا ہے اور بےشک وہ بخشنے والا مہربان بھی ہے
+
+[Open on Quran.com](https://quran.com/6/165)
+
+#### 8:4 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أُو۟لَـٰٓئِكَ هُمُ ٱلْمُؤْمِنُونَ حَقًّا ۚ لَّهُمْ دَرَجَـٰتٌ عِندَ رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
+
+</div>
+
+**Word in this verse:** `دَرَجَـٰتٌ` — (are) ranks
+
+**English (Sahih International):** Those are the believers, truly. For them are degrees [of high position] with their Lord and forgiveness and noble provision.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی سچے مومن ہیں اور ان کے لیے پروردگار کے ہاں (بڑے بڑے درجے) اور بخشش اور عزت کی روزی ہے
+
+[Open on Quran.com](https://quran.com/8/4)
+
+#### 9:20 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ ٱللَّهِ ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَآئِزُونَ
+
+</div>
+
+**Word in this verse:** `دَرَجَةً` — (in) rank
+
+**English (Sahih International):** The ones who have believed, emigrated and striven in the cause of Allāh with their wealth and their lives are greater in rank in the sight of Allāh. And it is those who are the attainers [of success].
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور وطن چھوڑ گئے اور خدا کی راہ میں مال اور جان سے جہاد کرتے رہے۔ خدا کے ہاں ان کے درجے بہت بڑے ہیں۔ اور وہی مراد کو پہنچنے والے ہیں
+
+[Open on Quran.com](https://quran.com/9/20)
+
+_…and **8** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

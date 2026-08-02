@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "فَجّ"
+slug: "fj - broad passes"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# fj - broad passes
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[fjj - fajj]]
+
+### Meaning
+**broad passes** · Lemma **فَجّ**
+
+### Surahs (3)
+- [[021 Al-Anbya]]
+- [[022 Al-Hajj]]
+- [[071 Nuh]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 21:31 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَعَلْنَا فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِهِمْ وَجَعَلْنَا فِيهَا فِجَاجًا سُبُلًا لَّعَلَّهُمْ يَهْتَدُونَ
+
+</div>
+
+**Word in this verse:** `فِجَاجًۭا` — broad passes
+
+**English (Sahih International):** And We placed within the earth firmly set mountains, lest it should shift with them, and We made therein [mountain] passes [as] roads that they might be guided.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے زمین میں پہاڑ بنائے تاکہ لوگوں (کے بوجھ) سے ہلنے (اور جھکنے) نہ لگے اور اس میں کشادہ راستے بنائے تاکہ لوگ ان پر چلیں
+
+[Open on Quran.com](https://quran.com/21/31)
+
+#### 22:27 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ فَجٍّ عَمِيقٍ
+
+</div>
+
+**Word in this verse:** `فَجٍّ` — mountain highway
+
+**English (Sahih International):** And proclaim to the people the ḥajj [pilgrimage]; they will come to you on foot and on every lean camel; they will come from every distant pass -
+
+**Urdu (Fatah Muhammad Jalandhari):** اور لوگوں میں حج کے لئے ندا کر دو کہ تمہاری پیدل اور دبلے دبلے اونٹوں پر جو دور دراز رستوں سے چلے آتے ہو (سوار ہو کر) چلے آئیں
+
+[Open on Quran.com](https://quran.com/22/27)
+
+#### 71:20 · [[071 Nuh]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لِّتَسْلُكُوا۟ مِنْهَا سُبُلًا فِجَاجًا
+
+</div>
+
+**Word in this verse:** `فِجَاجًۭا` — wide
+
+**English (Sahih International):** That you may follow therein roads of passage.'"
+
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ اس کے بڑے بڑے کشادہ رستوں میں چلو پھرو
+
+[Open on Quran.com](https://quran.com/71/20)
+

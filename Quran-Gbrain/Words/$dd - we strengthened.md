@@ -1,0 +1,129 @@
+---
+type: word
+lemma: "شَدَدْ"
+slug: "$dd - we strengthened"
+surah_count: 6
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# $dd - we strengthened
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[$dd - severe]]
+
+### Meaning
+**we strengthened** · Lemma **شَدَدْ**
+
+### Surahs (6)
+- [[010 Yunus]]
+- [[020 Taha]]
+- [[028 Al-Qasas]]
+- [[038 Sad]]
+- [[047 Muhammad]]
+- [[076 Al-Insan]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 10:88 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ ۖ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+
+</div>
+
+**Word in this verse:** `وَٱشْدُدْ` — and harden
+
+**English (Sahih International):** And Moses said, "Our Lord, indeed You have given Pharaoh and his establishment splendor and wealth in the worldly life, our Lord, that they may lead [men] astray from Your way. Our Lord, obliterate their wealth and harden their hearts so that they will not believe until they see the painful punishment."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ نے کہا اے ہمارے پروردگار تو نے فرعون اور اس کے سرداروں کو دنیا کی زندگی میں (بہت سا) سازو برگ اور مال وزر دے رکھا ہے۔ اے پروردگار ان کا مال یہ ہے کہ تیرے رستے سے گمراہ کردیں۔ اے پروردگار ان کے مال کو برباد کردے اور ان کے دلوں کو سخت کردے کہ ایمان نہ لائیں جب تک عذاب الیم نہ دیکھ لیں
+
+[Open on Quran.com](https://quran.com/10/88)
+
+#### 20:31 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱشْدُدْ بِهِۦٓ أَزْرِى
+
+</div>
+
+**Word in this verse:** `ٱشْدُدْ` — Reinforce
+
+**English (Sahih International):** Increase through him my strength
+
+**Urdu (Fatah Muhammad Jalandhari):** اس سے میری قوت کو مضبوط فرما
+
+[Open on Quran.com](https://quran.com/20/31)
+
+#### 28:35 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَـٰنًا فَلَا يَصِلُونَ إِلَيْكُمَا ۚ بِـَٔايَـٰتِنَآ أَنتُمَا وَمَنِ ٱتَّبَعَكُمَا ٱلْغَـٰلِبُونَ
+
+</div>
+
+**Word in this verse:** `سَنَشُدُّ` — We will strengthen
+
+**English (Sahih International):** [Allāh] said, "We will strengthen your arm through your brother and grant you both supremacy so they will not reach you. [It will be] through Our signs; you and those who follow you will be the predominant."
+
+**Urdu (Fatah Muhammad Jalandhari):** (خدا نے) فرمایا ہم تمہارے بھائی سے تمہارے بازو مضبوط کریں گے اور تم دونوں کو غلبہ دیں گے تو ہماری نشانیوں کے سبب وہ تم تک پہنچ نہ سکیں گے (اور) تم اور جنہوں نے تمہاری پیروی کی غالب رہو گے
+
+[Open on Quran.com](https://quran.com/28/35)
+
+#### 38:20 · [[038 Sad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَشَدَدْنَا مُلْكَهُۥ وَءَاتَيْنَـٰهُ ٱلْحِكْمَةَ وَفَصْلَ ٱلْخِطَابِ
+
+</div>
+
+**Word in this verse:** `وَشَدَدْنَا` — And We strengthened
+
+**English (Sahih International):** And We strengthened his kingdom and gave him wisdom and discernment in speech.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کی بادشاہی کو مستحکم کیا اور ان کو حکمت عطا کی اور (خصومت کی) بات کا فیصلہ (سکھایا)
+
+[Open on Quran.com](https://quran.com/38/20)
+
+#### 47:4 · [[047 Muhammad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثْخَنتُمُوهُمْ فَشُدُّوا۟ ٱلْوَثَاقَ فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلْحَرْبُ أَوْزَارَهَا ۚ ذَٰلِكَ وَلَوْ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنْهُمْ وَلَـٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍ ۗ وَٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعْمَـٰلَهُمْ
+
+</div>
+
+**Word in this verse:** `فَشُدُّوا۟` — then bind firmly
+
+**English (Sahih International):** So when you meet those who disbelieve [in battle], strike [their] necks until, when you have inflicted slaughter upon them, then secure [their] bonds, and either [confer] favor afterwards or ransom [them] until the war lays down its burdens. That [is the command]. And if Allāh had willed, He could have taken vengeance upon them [Himself], but [He ordered armed struggle] to test some of you by means of others. And those who are killed in the cause of Allāh - never will He waste their deeds.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب تم کافروں سے بھڑ جاؤ تو ان کی گردنیں اُڑا دو۔ یہاں تک کہ جب ان کو خوب قتل کرچکو تو (جو زندہ پکڑے جائیں ان کو) مضبوطی سے قید کرلو۔ پھر اس کے بعد یا تو احسان رکھ کر چھوڑ دینا چاہیئے یا کچھ مال لے کر یہاں تک کہ (فریق مقابل) لڑائی (کے) ہتھیار (ہاتھ سے) رکھ دے۔ (یہ حکم یاد رکھو) اور اگر خدا چاہتا تو (اور طرح) ان سے انتقام لے لیتا۔ لیکن اس نے چاہا کہ تمہاری آزمائش ایک (کو) دوسرے سے (لڑوا کر) کرے۔ اور جو لوگ خدا کی راہ میں مارے گئے ان کے عملوں کو ہرگز ضائع نہ کرے گا
+
+[Open on Quran.com](https://quran.com/47/4)
+
+#### 76:28 · [[076 Al-Insan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+نَّحْنُ خَلَقْنَـٰهُمْ وَشَدَدْنَآ أَسْرَهُمْ ۖ وَإِذَا شِئْنَا بَدَّلْنَآ أَمْثَـٰلَهُمْ تَبْدِيلًا
+
+</div>
+
+**Word in this verse:** `وَشَدَدْنَآ` — and We strengthened
+
+**English (Sahih International):** We have created them and strengthened their forms, and when We will, We can change their likenesses with [complete] alteration.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے ان کو پیدا کیا اور ان کے مقابل کو مضبوط بنایا۔ اور اگر ہم چاہیں تو ان کے بدلے ان ہی کی طرح اور لوگ لے آئیں
+
+[Open on Quran.com](https://quran.com/76/28)
+

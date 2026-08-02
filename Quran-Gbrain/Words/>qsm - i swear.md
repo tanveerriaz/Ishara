@@ -1,0 +1,205 @@
+---
+type: word
+lemma: "أَقْسَمُ"
+slug: ">qsm - i swear"
+surah_count: 16
+ayah_count: 19
+tags: [word, meaning]
+---
+
+# >qsm - i swear
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[qsm - division apportionment things]]
+
+### Meaning
+**i swear** · Lemma **أَقْسَمُ**
+
+### Surahs (16)
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[014 Ibrahim]]
+- [[016 An-Nahl]]
+- [[024 An-Nur]]
+- [[030 Ar-Rum]]
+- [[035 Fatir]]
+- [[056 Al-Waqiah]]
+- [[068 Al-Qalam]]
+- [[069 Al-Haqqah]]
+- [[070 Al-Maarij]]
+- [[075 Al-Qiyamah]]
+- [[081 At-Takwir]]
+- [[084 Al-Inshiqaq]]
+- [[090 Al-Balad]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 5:53 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَقُولُ ٱلَّذِينَ ءَامَنُوٓا۟ أَهَـٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ ۙ إِنَّهُمْ لَمَعَكُمْ ۚ حَبِطَتْ أَعْمَـٰلُهُمْ فَأَصْبَحُوا۟ خَـٰسِرِينَ
+
+</div>
+
+**Word in this verse:** `أَقْسَمُوا۟` — swore
+
+**English (Sahih International):** And those who believe will say, "Are these the ones who swore by Allāh their strongest oaths that indeed they were with you?" Their deeds have become worthless, and they have become losers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس (وقت) مسلمان (تعجب سے) کہیں گے کہ کیا یہ وہی ہیں جو خدا کی سخت سخت قسمیں کھایا کرتے تھے کہ ہم تمہارے ساتھ ہیں ان کےعمل اکارت گئے اور وہ خسارے میں پڑ گئے
+
+[Open on Quran.com](https://quran.com/5/53)
+
+#### 5:106 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَـٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ فِى ٱلْأَرْضِ فَأَصَـٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَـٰدَةَ ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْـَٔاثِمِينَ
+
+</div>
+
+**Word in this verse:** `فَيُقْسِمَانِ` — and let them both swear
+
+**English (Sahih International):** O you who have believed, testimony [should be taken] among you when death approaches one of you at the time of bequest - [that of] two just men from among you or two others from outside if you are traveling through the land and the disaster of death should strike you. Detain them after the prayer and let them both swear by Allāh if you doubt [their testimony, saying], "We will not exchange it [i.e., our oath] for a price [i.e., worldly gain], even if he should be a near relative, and we will not withhold the testimony of [i.e., ordained by] Allāh. Indeed, we would then be of the sinful."
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم میں سے کسی کی موت آموجود ہو تو شہادت (کا نصاب) یہ ہے کہ وصیت کے وقت تم (مسلمانوں) میں سے دو عادل (یعنی صاحب اعتبار) گواہ ہوں یا اگر (مسلمان نہ ملیں اور) تم سفر کر رہے ہو اور (اس وقت) تم پر موت کی مصیبت واقع ہو تو کسی دوسرے مذہب کے دو (شخصوں کو) گواہ (کر لو) اگر تم کو ان گواہوں کی نسبت کچھ شک ہو تو ان کو (عصر کی) نماز کے بعد کھڑا کرو اور دونوں خدا کی قسمیں کھائیں کہ ہم شہادت کا کچھ عوض نہیں لیں گے گو ہمارا رشتہ دار ہی ہو اور نہ ہم الله کی شہادت کو چھپائیں گے اگر ایسا کریں گے تو گنہگار ہوں گے
+
+[Open on Quran.com](https://quran.com/5/106)
+
+#### 5:107 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَـٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَـٰدَتُنَآ أَحَقُّ مِن شَهَـٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًا لَّمِنَ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `فَيُقْسِمَانِ` — and let them both swear
+
+**English (Sahih International):** But if it is found that those two were guilty of sin [i.e., perjury], let two others stand in their place [who are] foremost [in claim] from those who have a lawful right. And let them swear by Allāh, "Our testimony is truer than their testimony, and we have not transgressed. Indeed, we would then be of the wrongdoers."
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اگر معلوم ہو جائے کہ ان دونوں نے (جھوٹ بول کر) گناہ حاصل کیا ہے تو جن لوگوں کا انہوں نے حق مارنا چاہا تھا ان میں سے ان کی جگہ اور دو گواہ کھڑے ہوں جو (میت سے) قرابت قریبہ رکھتے ہوں پھر وہ خدا کی قسمیں کھائیں کہ ہماری شہادت ان کی شہادت سے بہت اچھی ہے اور ہم نے کوئی زیادتی نہیں کی ایسا کیا ہو تو ہم بےانصاف ہیں
+
+[Open on Quran.com](https://quran.com/5/107)
+
+#### 6:109 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِن جَآءَتْهُمْ ءَايَةٌ لَّيُؤْمِنُنَّ بِهَا ۚ قُلْ إِنَّمَا ٱلْـَٔايَـٰتُ عِندَ ٱللَّهِ ۖ وَمَا يُشْعِرُكُمْ أَنَّهَآ إِذَا جَآءَتْ لَا يُؤْمِنُونَ
+
+</div>
+
+**Word in this verse:** `وَأَقْسَمُوا۟` — And they swear
+
+**English (Sahih International):** And they swear by Allāh their strongest oaths that if a sign came to them, they would surely believe in it. Say, "The signs are only with [i.e., from] Allāh." And what will make you perceive that even if it [i.e., a sign] came, they would not believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر ان کے پاس کوئی نشانی آئے تو وہ اس پر ضروری ایمان لے آئیں۔ کہہ دو کہ نشانیاں تو سب خدا ہی کے پاس ہیں۔ اور (مومنو!) تمہیں کیا معلوم ہے (یہ تو ایسے بدبخت ہیں کہ ان کے پاس) نشانیاں آ بھی جائیں تب بھی ایمان نہ لائیں
+
+[Open on Quran.com](https://quran.com/6/109)
+
+#### 7:49 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَهَـٰٓؤُلَآءِ ٱلَّذِينَ أَقْسَمْتُمْ لَا يَنَالُهُمُ ٱللَّهُ بِرَحْمَةٍ ۚ ٱدْخُلُوا۟ ٱلْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَآ أَنتُمْ تَحْزَنُونَ
+
+</div>
+
+**Word in this verse:** `أَقْسَمْتُمْ` — you had sworn
+
+**English (Sahih International):** [Allāh will say], "Are these the ones whom you [inhabitants of Hell] swore that Allāh would never offer them mercy? Enter Paradise, [O people of the Elevations]. No fear will there be concerning you, nor will you grieve."
+
+**Urdu (Fatah Muhammad Jalandhari):** (پھر مومنوں کی طرف اشارہ کر کے کہیں گے) کیا یہ وہی لوگ ہیں جن کے بارے میں تم قسمیں کھایا کرتے تھے کہ خدا اپنی رحمت سے ان کی دستگیری نہیں کرے گا (تو مومنو) تم بہشت میں داخل ہو جاؤ تمہیں کچھ خوف نہیں اور نہ تم کو کچھ رنج واندوہ ہوگا
+
+[Open on Quran.com](https://quran.com/7/49)
+
+#### 14:44 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنذِرِ ٱلنَّاسَ يَوْمَ يَأْتِيهِمُ ٱلْعَذَابُ فَيَقُولُ ٱلَّذِينَ ظَلَمُوا۟ رَبَّنَآ أَخِّرْنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ نُّجِبْ دَعْوَتَكَ وَنَتَّبِعِ ٱلرُّسُلَ ۗ أَوَلَمْ تَكُونُوٓا۟ أَقْسَمْتُم مِّن قَبْلُ مَا لَكُم مِّن زَوَالٍ
+
+</div>
+
+**Word in this verse:** `أَقْسَمْتُم` — sworn
+
+**English (Sahih International):** And, [O Muḥammad], warn the people of a Day when the punishment will come to them and those who did wrong will say, "Our Lord, delay us for a short term; we will answer Your call and follow the messengers." [But it will be said], "Had you not sworn, before, that for you there would be no cessation?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور لوگوں کو اس دن سے آگاہ کردو جب ان پر عذاب آجائے گا تب ظالم لوگ کہیں گے کہ اے ہمارے پروردگار ہمیں تھوڑی سی مدت مہلت عطا کر۔ تاکہ تیری دعوت (توحید) قبول کریں اور (تیرے) پیغمبروں کے پیچھے چلیں (تو جواب ملے گا) کیا تم پہلے قسمیں نہیں کھایا کرتے تھے کہ تم کو (اس حال سے جس میں تم ہو) زوال (اور قیامت کو حساب اعمال) نہیں ہوگا
+
+[Open on Quran.com](https://quran.com/14/44)
+
+#### 16:38 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ ۙ لَا يَبْعَثُ ٱللَّهُ مَن يَمُوتُ ۚ بَلَىٰ وَعْدًا عَلَيْهِ حَقًّا وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `وَأَقْسَمُوا۟` — And they swear
+
+**English (Sahih International):** And they swear by Allāh their strongest oaths [that] Allāh will not resurrect one who dies. But yes - [it is] a true promise [binding] upon Him, but most of the people do not know.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ خدا کی سخت سخت قسمیں کھاتے ہیں کہ جو مرجاتا ہے خدا اسے (قیامت کے دن قبر سے) نہیں اٹھائے گا۔ ہرگز نہیں۔ یہ (خدا کا) وعدہ سچا ہے اور اس کا پورا کرنا اسے ضرور ہے لیکن اکثر لوگ نہیں جانتے
+
+[Open on Quran.com](https://quran.com/16/38)
+
+#### 24:53 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِنْ أَمَرْتَهُمْ لَيَخْرُجُنَّ ۖ قُل لَّا تُقْسِمُوا۟ ۖ طَاعَةٌ مَّعْرُوفَةٌ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `۞ وَأَقْسَمُوا۟` — And they swear
+
+**English (Sahih International):** And they swear by Allāh their strongest oaths that if you ordered them, they would go forth [in Allāh's cause]. Say, "Do not swear. [Such] obedience is known. Indeed, Allāh is [fully] Aware of that which you do."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (یہ) خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر تم ان کو حکم دو تو (سب گھروں سے) نکل کھڑے ہوں۔ کہہ دو کہ قسمیں مت کھاؤ، پسندیدہ فرمانبرداری (درکار ہے)۔ بےشک خدا تمہارے سب اعمال سے خبردار ہے
+
+[Open on Quran.com](https://quran.com/24/53)
+
+#### 30:55 · [[030 Ar-Rum]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُقْسِمُ ٱلْمُجْرِمُونَ مَا لَبِثُوا۟ غَيْرَ سَاعَةٍ ۚ كَذَٰلِكَ كَانُوا۟ يُؤْفَكُونَ
+
+</div>
+
+**Word in this verse:** `يُقْسِمُ` — will swear
+
+**English (Sahih International):** And the Day the Hour appears the criminals will swear they had remained but an hour. Thus they were deluded.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس روز قیامت برپا ہوگی گنہگار قسمیں کھائیں گے کہ وہ (دنیا میں) ایک گھڑی سے زیادہ نہیں رہے تھے۔ اسی طرح وہ (رستے سے) اُلٹے جاتے تھے
+
+[Open on Quran.com](https://quran.com/30/55)
+
+#### 35:42 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِن جَآءَهُمْ نَذِيرٌ لَّيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى ٱلْأُمَمِ ۖ فَلَمَّا جَآءَهُمْ نَذِيرٌ مَّا زَادَهُمْ إِلَّا نُفُورًا
+
+</div>
+
+**Word in this verse:** `وَأَقْسَمُوا۟` — And they swore
+
+**English (Sahih International):** And they swore by Allāh their strongest oaths that if a warner came to them, they would be more guided than [any] one of the [previous] nations. But when a warner came to them, it did not increase them except in aversion
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر ان کے پاس کوئی ہدایت کرنے والا آئے تو ہر ایک اُمت سے بڑھ کر ہدایت پر ہوں۔ مگر جب ان کے پاس ہدایت کرنے والا آیا تو اس سے ان کو نفرت ہی بڑھی
+
+[Open on Quran.com](https://quran.com/35/42)
+
+_…and **9** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

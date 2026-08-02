@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "أُجاج"
+slug: ">jAj - bitter"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# >jAj - bitter
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[>jj - ajj]]
+
+### Meaning
+**bitter** · Lemma **أُجاج**
+
+### Surahs (3)
+- [[025 Al-Furqan]]
+- [[035 Fatir]]
+- [[056 Al-Waqiah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 25:53 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌ فُرَاتٌ وَهَـٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا
+
+</div>
+
+**Word in this verse:** `أُجَاجٌۭ` — (and) bitter
+
+**English (Sahih International):** And it is He who has released [simultaneously] the two seas [i.e., bodies of water], one fresh and sweet and one salty and bitter, and He placed between them a barrier and prohibiting partition.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے دو دریاؤں کو ملا دیا ایک کا پانی شیریں ہے پیاس بجھانے والا اور دوسرے کا کھاری چھاتی جلانے والا۔ اور دونوں کے درمیان ایک آڑ اور مضبوط اوٹ بنادی
+
+[Open on Quran.com](https://quran.com/25/53)
+
+#### 35:12 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَـٰذَا عَذْبٌ فُرَاتٌ سَآئِغٌ شَرَابُهُۥ وَهَـٰذَا مِلْحٌ أُجَاجٌ ۖ وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا ۖ وَتَرَى ٱلْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
+
+</div>
+
+**Word in this verse:** `أُجَاجٌۭ ۖ` — (and) bitter
+
+**English (Sahih International):** And not alike are the two seas [i.e., bodies of water]. One is fresh and sweet, palatable for drinking, and one is salty and bitter. And from each you eat tender meat and extract ornaments which you wear, and you see the ships plowing through [them] that you might seek of His bounty; and perhaps you will be grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور دونوں دریا (مل کر) یکساں نہیں ہوجاتے۔ یہ تو میٹھا ہے پیاس بجھانے والا۔ جس کا پانی خوشگوار ہے اور یہ کھاری ہے کڑوا۔ اور سب سے تم تازہ گوشت کھاتے ہو اور زیور نکالتے ہو جسے پہنتے ہو۔ اور تم دریا میں کشتیوں کو دیکھتے ہو کہ (پانی کو) پھاڑتی چلی آتی ہیں تاکہ تم اس کے فضل سے (معاش) تلاش کرو اور تاکہ شکر کرو
+
+[Open on Quran.com](https://quran.com/35/12)
+
+#### 56:70 · [[056 Al-Waqiah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَوْ نَشَآءُ جَعَلْنَـٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ
+
+</div>
+
+**Word in this verse:** `أُجَاجًۭا` — salty
+
+**English (Sahih International):** If We willed, We could make it bitter, so why are you not grateful?
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر ہم چاہیں تو ہم اسے کھاری کردیں پھر تم شکر کیوں نہیں کرتے؟
+
+[Open on Quran.com](https://quran.com/56/70)
+

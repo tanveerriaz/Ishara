@@ -1,0 +1,94 @@
+---
+type: word
+lemma: "يُعَمَّرُ"
+slug: "yEmr - granted life"
+surah_count: 3
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# yEmr - granted life
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Emr - life]]
+
+### Meaning
+**granted life** · Lemma **يُعَمَّرُ**
+
+### Surahs (3)
+- [[002 Al-Baqarah]]
+- [[035 Fatir]]
+- [[036 Ya-Sin]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:96 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَتَجِدَنَّهُمْ أَحْرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٍ وَمِنَ ٱلَّذِينَ أَشْرَكُوا۟ ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِۦ مِنَ ٱلْعَذَابِ أَن يُعَمَّرَ ۗ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `يُعَمَّرُ` — he could be granted a life
+
+**English (Sahih International):** And you will surely find them the most greedy of people for life - [even] more than those who associate others with Allāh. One of them wishes that he could be granted life a thousand years, but it would not remove him in the least from the [coming] punishment that he should be granted life. And Allāh is Seeing of what they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ ان کو تم اور لوگوں سے زندگی کے کہیں حریص دیکھو گے، یہاں تک کہ مشرکوں سے بھی۔ ان میں سے ہر ایک یہی خواہش کرتا ہے کہ کاش وہ ہزار برس جیتا رہے، مگر اتنی لمبی عمر اس کو مل بھی جائے تو اسے عذاب سے تو نہیں چھڑا سکتی۔ اور جو کام یہ کرتے ہیں، خدا ان کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/2/96)
+
+#### 35:11 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱللَّهُ خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَٰجًا ۚ وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ ۚ وَمَا يُعَمَّرُ مِن مُّعَمَّرٍ وَلَا يُنقَصُ مِنْ عُمُرِهِۦٓ إِلَّا فِى كِتَـٰبٍ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
+
+</div>
+
+**Word in this verse:** `يُعَمَّرُ` — is granted life
+
+**English (Sahih International):** And Allāh created you from dust, then from a sperm-drop; then He made you mates. And no female conceives nor does she give birth except with His knowledge. And no aged person is granted [additional] life nor is his lifespan lessened but that it is in a register. Indeed, that for Allāh is easy.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تم کو مٹی سے پیدا کیا پھر نطفے سے پھر تم کو جوڑا جوڑا بنا دیا۔ اور کوئی عورت نہ حاملہ ہوتی ہے اور نہ جنتی ہے مگر اس کے علم سے۔ اور نہ کسی بڑی عمر والے کو عمر زیادہ دی جاتی ہے اور نہ اس کی عمر کم کی جاتی ہے مگر (سب کچھ) کتاب میں (لکھا ہوا) ہے۔ بےشک یہ خدا کو آسان ہے
+
+[Open on Quran.com](https://quran.com/35/11)
+
+#### 35:37 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَآ أَخْرِجْنَا نَعْمَلْ صَـٰلِحًا غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ ۚ أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُ ۖ فَذُوقُوا۟ فَمَا لِلظَّـٰلِمِينَ مِن نَّصِيرٍ
+
+</div>
+
+**Word in this verse:** `نُعَمِّرْكُم` — We give you life long enough
+
+**English (Sahih International):** And they will cry out therein, "Our Lord, remove us; we will do righteousness - other than what we were doing!" But did We not grant you life enough for whoever would remember therein to remember, and the warner had come to you? So taste [the punishment], for there is not for the wrongdoers any helper.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ اس میں چلائیں گے کہ اے پروردگار ہم کو نکال لے (اب) ہم نیک عمل کیا کریں گے۔ نہ وہ جو (پہلے) کرتے تھے۔ کیا ہم نے تم کو اتنی عمر نہیں دی تھی کہ اس میں جو سوچنا چاہتا سوچ لیتا اور تمہارے پاس ڈرانے والا بھی آیا۔ تو اب مزے چکھو۔ ظالموں کا کوئی مددگار نہیں
+
+[Open on Quran.com](https://quran.com/35/37)
+
+#### 36:68 · [[036 Ya-Sin]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَن نُّعَمِّرْهُ نُنَكِّسْهُ فِى ٱلْخَلْقِ ۖ أَفَلَا يَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `نُّعَمِّرْهُ` — We grant him long life
+
+**English (Sahih International):** And he to whom We grant long life We reverse in creation; so will they not understand?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس کو ہم بڑی عمر دیتے ہیں تو اسے خلقت میں اوندھا کردیتے ہیں تو کیا یہ سمجھتے نہیں؟
+
+[Open on Quran.com](https://quran.com/36/68)
+

@@ -1,0 +1,3 @@
+Graph Filters search box:
+
+path:Words OR path:Roots OR tag:#surah

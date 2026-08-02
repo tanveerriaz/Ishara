@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "مِدْرار"
+slug: "mdrAr - abundance"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# mdrAr - abundance
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[drr - darra]]
+
+### Meaning
+**abundance** · Lemma **مِدْرار**
+
+### Surahs (3)
+- [[006 Al-Anam]]
+- [[011 Hud]]
+- [[071 Nuh]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 6:6 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ مَّكَّنَّـٰهُمْ فِى ٱلْأَرْضِ مَا لَمْ نُمَكِّن لَّكُمْ وَأَرْسَلْنَا ٱلسَّمَآءَ عَلَيْهِم مِّدْرَارًا وَجَعَلْنَا ٱلْأَنْهَـٰرَ تَجْرِى مِن تَحْتِهِمْ فَأَهْلَكْنَـٰهُم بِذُنُوبِهِمْ وَأَنشَأْنَا مِنۢ بَعْدِهِمْ قَرْنًا ءَاخَرِينَ
+
+</div>
+
+**Word in this verse:** `مِّدْرَارًۭا` — showering abundantly
+
+**English (Sahih International):** Have they not seen how many generations We destroyed before them which We had established upon the earth as We have not established you? And We sent [rain from] the sky upon them in showers and made rivers flow beneath them; then We destroyed them for their sins and brought forth after them a generation of others.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے کتنی امتوں کو ہلاک کر دیا جن کے پاؤں ملک میں ایسے جما دیئے تھے کہ تمہارے پاؤں بھی ایسے نہیں جمائے اور ان پر آسمان سے لگاتار مینہ برسایا اور نہریں بنا دیں جو ان کے (مکانوں کے) نیچے بہہ رہی تھیں پھر ان کو ان کے گناہوں کے سبب ہلاک کر دیا اور ان کے بعد اور امتیں پیدا کر دیں
+
+[Open on Quran.com](https://quran.com/6/6)
+
+#### 11:52 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَـٰقَوْمِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا۟ مُجْرِمِينَ
+
+</div>
+
+**Word in this verse:** `مِّدْرَارًۭا` — (in) abundance
+
+**English (Sahih International):** And O my people, ask forgiveness of your Lord and then repent to Him. He will send [rain from] the sky upon you in showers and increase you in strength [added] to your strength. And do not turn away, [being] criminals."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اے قوم! اپنے پروردگار سے بخشش مانگو پھر اس کے آگے توبہ کرو۔ وہ تم پر آسمان سے موسلادھار مینہ برسائے گا اور تمہاری طاقت پر طاقت بڑھائے گا اور (دیکھو) گنہگار بن کر روگردانی نہ کرو
+
+[Open on Quran.com](https://quran.com/11/52)
+
+#### 71:11 · [[071 Nuh]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا
+
+</div>
+
+**Word in this verse:** `مِّدْرَارًۭا` — (in) abundance
+
+**English (Sahih International):** He will send [rain from] the sky upon you in [continuing] showers
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ تم پر آسمان سے لگاتار مینہ برسائے گا
+
+[Open on Quran.com](https://quran.com/71/11)
+

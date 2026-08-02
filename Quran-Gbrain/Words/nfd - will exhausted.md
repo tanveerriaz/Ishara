@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "نَفِدَ"
+slug: "nfd - will exhausted"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# nfd - will exhausted
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[nfd - nfd]]
+
+### Meaning
+**will exhausted** · Lemma **نَفِدَ**
+
+### Surahs (3)
+- [[016 An-Nahl]]
+- [[018 Al-Kahf]]
+- [[031 Luqman]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 16:96 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَا عِندَكُمْ يَنفَدُ ۖ وَمَا عِندَ ٱللَّهِ بَاقٍ ۗ وَلَنَجْزِيَنَّ ٱلَّذِينَ صَبَرُوٓا۟ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `يَنفَدُ ۖ` — will be exhausted
+
+**English (Sahih International):** Whatever you have will end, but what Allāh has is lasting. And We will surely give those who were patient their reward according to the best of what they used to do.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو کچھ تمہارے پاس ہے وہ ختم ہو جاتا ہے اور جو خدا کے پاس ہے وہ باقی ہے کہ (کبھی ختم نہیں ہوگا) اور جن لوگوں نے صبر کیا ہم اُن کو ان کے اعمال کا بہت اچھا بدلہ دیں گے
+
+[Open on Quran.com](https://quran.com/16/96)
+
+#### 18:109 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًا لِّكَلِمَـٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَـٰتُ رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًا
+
+</div>
+
+**Word in this verse:** `لَنَفِدَ` — surely (would be) exhausted
+
+**English (Sahih International):** Say, "If the sea were ink for [writing] the words of my Lord, the sea would be exhausted before the words of my Lord were exhausted, even if We brought the like of it in [continual] supplement."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر سمندر میرے پروردگار کی باتوں کے (لکھنے کے) لئے سیاہی ہو تو قبل اس کے کہ میرے پروردگار کی باتیں تمام ہوں سمندر ختم ہوجائے اگرچہ ہم ویسا ہی اور (سمندر) اس کی مدد کو لائیں
+
+[Open on Quran.com](https://quran.com/18/109)
+
+#### 31:27 · [[031 Luqman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَـٰمٌ وَٱلْبَحْرُ يَمُدُّهُۥ مِنۢ بَعْدِهِۦ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَـٰتُ ٱللَّهِ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
+
+</div>
+
+**Word in this verse:** `نَفِدَتْ` — would be exhausted
+
+**English (Sahih International):** And if whatever trees upon the earth were pens and the sea [was ink], replenished thereafter by seven [more] seas, the words of Allāh would not be exhausted. Indeed, Allāh is Exalted in Might and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر یوں ہو کہ زمین میں جتنے درخت ہیں (سب کے سب) قلم ہوں اور سمندر (کا تمام پانی) سیاہی ہو (اور) اس کے بعد سات سمندر اور (سیاہی ہو جائیں) تو خدا کی باتیں (یعنی اس کی صفتیں) ختم نہ ہوں۔ بیشک خدا غالب حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/31/27)
+

@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "اتَّخَذَ"
+slug: "Atx* - take"
+surah_count: 37
+ayah_count: 118
+tags: [word, meaning]
+---
+
+# Atx* - take
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[>x* - take]]
+
+### Meaning
+**take** · Lemma **اتَّخَذَ**
+
+### Surahs (37)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[009 At-Tawbah]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[012 Yusuf]]
+- [[013 Ar-Rad]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[019 Maryam]]
+- [[021 Al-Anbya]]
+- [[023 Al-Muminun]]
+- [[025 Al-Furqan]]
+- [[026 Ash-Shuara]]
+- [[028 Al-Qasas]]
+- [[029 Al-Ankabut]]
+- [[031 Luqman]]
+- [[035 Fatir]]
+- [[036 Ya-Sin]]
+- [[038 Sad]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:51 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَـٰلِمُونَ
+
+</div>
+
+**Word in this verse:** `ٱتَّخَذْتُمُ` — you took
+
+**English (Sahih International):** And [recall] when We made an appointment with Moses for forty nights. Then you took [for worship] the calf after him [i.e., his departure], while you were wrongdoers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے موسیٰ سے چالیس رات کا وعدہ کیا تو تم نے ان کے پیچھے بچھڑے کو (معبود) مقرر کر لیا اور تم ظلم کر رہے تھے
+
+[Open on Quran.com](https://quran.com/2/51)
+
+#### 2:67 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦٓ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا۟ بَقَرَةً ۖ قَالُوٓا۟ أَتَتَّخِذُنَا هُزُوًا ۖ قَالَ أَعُوذُ بِٱللَّهِ أَنْ أَكُونَ مِنَ ٱلْجَـٰهِلِينَ
+
+</div>
+
+**Word in this verse:** `أَتَتَّخِذُنَا` — Do you take us
+
+**English (Sahih International):** And [recall] when Moses said to his people, "Indeed, Allāh commands you to slaughter a cow." They said, "Do you take us in ridicule?" He said, "I seek refuge in Allāh from being among the ignorant."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لوگوں سے کہا کہ خدا تم کو حکم دیتا ہے کہ ایک بیل ذبح کرو۔ وہ بولے، کیا تم ہم سے ہنسی کرتے ہو۔ (موسیٰ نے) کہا کہ میں الله کی پناہ مانگتا ہوں کہ نادان بنوں
+
+[Open on Quran.com](https://quran.com/2/67)
+
+#### 2:80 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًا مَّعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ عَهْدًا فَلَن يُخْلِفَ ٱللَّهُ عَهْدَهُۥٓ ۖ أَمْ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `أَتَّخَذْتُمْ` — Have you taken
+
+**English (Sahih International):** And they say, "Never will the Fire touch us, except for [a few] numbered days." Say, "Have you taken a covenant with Allāh? For Allāh will never break His covenant. Or do you say about Allāh that which you do not know?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ (دوزخ کی) آگ ہمیں چند روز کے سوا چھو ہی نہیں سکے گی۔ ان سے پوچھو، کیا تم نے خدا سے اقرار لے رکھا ہے کہ خدا اپنے اقرار کے خلاف نہیں کرے گا۔ (نہیں)، بلکہ تم خدا کے بارے میں ایسی باتیں کہتے ہو جن کا تمہیں مطلق علم نہیں
+
+[Open on Quran.com](https://quran.com/2/80)
+
+#### 2:92 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَلَقَدْ جَآءَكُم مُّوسَىٰ بِٱلْبَيِّنَـٰتِ ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَـٰلِمُونَ
+
+</div>
+
+**Word in this verse:** `ٱتَّخَذْتُمُ` — you took
+
+**English (Sahih International):** And Moses had certainly brought you clear proofs. Then you took the calf [in worship] after that, while you were wrongdoers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ تمہارے پاس کھلے ہوئے معجزات لے کر آئے تو تم ان کے (کوہِ طور جانے کے) بعد بچھڑے کو معبود بنا بیٹھے اور تم (اپنے ہی حق میں) ظلم کرتے تھے
+
+[Open on Quran.com](https://quran.com/2/92)
+
+#### 2:116 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا ۗ سُبْحَـٰنَهُۥ ۖ بَل لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ كُلٌّ لَّهُۥ قَـٰنِتُونَ
+
+</div>
+
+**Word in this verse:** `ٱتَّخَذَ` — has taken
+
+**English (Sahih International):** They say, "Allāh has taken a son." Exalted is He! Rather, to Him belongs whatever is in the heavens and the earth. All are devoutly obedient to Him,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ اس بات کے قائل ہیں کہ خدا اولاد رکھتا ہے۔ (نہیں) وہ پاک ہے، بلکہ جو کچھ آسمانوں اور زمین میں ہے، سب اسی کا ہے اور سب اس کے فرماں بردار ہیں
+
+[Open on Quran.com](https://quran.com/2/116)
+
+#### 2:125 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِـۧمَ مُصَلًّى ۖ وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَـٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
+
+</div>
+
+**Word in this verse:** `وَٱتَّخِذُوا۟` — and (said), "Take
+
+**English (Sahih International):** And [mention] when We made the House [i.e., the Kaʿbah] a place of return for the people and [a place of] security. And take, [O believers], from the standing place of Abraham a place of prayer. And We charged Abraham and Ishmael, [saying], "Purify My House for those who perform ṭawāf and those who are staying [there] for worship and those who bow and prostrate [in prayer]."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے خانہٴ کعبہ کو لوگوں کے لیے جمع ہونے اور امن پانے کی جگہ مقرر کیا اور (حکم دیا کہ) جس مقام پر ابراہیم کھڑے ہوئے تھے، اس کو نماز کی جگہ بنا لو۔ اور ابراہیم اور اسمٰعیل کو کہا کہ طواف کرنے والوں اور اعتکاف کرنے والوں اور رکوع کرنے والوں اور سجدہ کرنے والوں کے لیے میرے گھر کو پاک صاف رکھا کرو
+
+[Open on Quran.com](https://quran.com/2/125)
+
+#### 2:165 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ ۖ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّا لِّلَّهِ ۗ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ
+
+</div>
+
+**Word in this verse:** `يَتَّخِذُ` — takes
+
+**English (Sahih International):** And [yet], among the people are those who take other than Allāh as equals [to Him]. They love them as they [should] love Allāh. But those who believe are stronger in love for Allāh. And if only they who have wronged would consider [that] when they see the punishment, [they will be certain] that all power belongs to Allāh and that Allāh is severe in punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض لوگ ایسے ہیں جو غیر خدا کو شریک (خدا) بناتے اور ان سے خدا کی سی محبت کرتے ہیں۔ لیکن جو ایمان والے ہیں وہ تو خدا ہی کے سب سے زیادہ دوستدار ہیں۔ اور اے کاش ظالم لوگ جو بات عذاب کے وقت دیکھیں گے اب دیکھ لیتے کہ سب طرح کی طاقت خدا ہی کو ہے۔ اور یہ کہ خدا سخت عذاب کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/2/165)
+
+#### 2:231 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِّتَعْتَدُوا۟ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ وَلَا تَتَّخِذُوٓا۟ ءَايَـٰتِ ٱللَّهِ هُزُوًا ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُم مِّنَ ٱلْكِتَـٰبِ وَٱلْحِكْمَةِ يَعِظُكُم بِهِۦ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `تَتَّخِذُوٓا۟` — take
+
+**English (Sahih International):** And when you divorce women and they have [nearly] fulfilled their term, either retain them according to acceptable terms or release them according to acceptable terms, and do not keep them, intending harm, to transgress [against them]. And whoever does that has certainly wronged himself. And do not take the verses of Allāh in jest. And remember the favor of Allāh upon you and what has been revealed to you of the Book [i.e., the Qur’ān] and wisdom [i.e., the Prophet's sunnah] by which He instructs you. And fear Allāh and know that Allāh is Knowing of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم عورتوں کو (دو دفعہ) طلاق دے چکو اور ان کی عدت پوری ہوجائے تو انہیں یا تو حسن سلوک سے نکاح میں رہنے دو یا بطریق شائستہ رخصت کردو اور اس نیت سے ان کو نکاح میں نہ رہنے دینا چاہئے کہ انہیں تکلیف دو اور ان پر زیادتی کرو۔ اور جو ایسا کرے گا وہ اپنا ہی نقصان کرے گا اور خدا کے احکام کو ہنسی (اور کھیل) نہ بناؤ اور خدا نے تم کو جو نعمتیں بخشی ہیں اور تم پر جو کتاب اور دانائی کی باتیں نازل کی ہیں جن سے وہ تمہیں نصیحت فرماتا ہے ان کو یاد کرو۔ اور خدا سے ڈرتے رہو اور جان رکھوکہ خدا ہر چیز سے واقف ہے
+
+[Open on Quran.com](https://quran.com/2/231)
+
+#### 3:28 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَّا يَتَّخِذِ ٱلْمُؤْمِنُونَ ٱلْكَـٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ ۖ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ ٱللَّهِ فِى شَىْءٍ إِلَّآ أَن تَتَّقُوا۟ مِنْهُمْ تُقَىٰةً ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
+
+</div>
+
+**Word in this verse:** `يَتَّخِذِ` — take
+
+**English (Sahih International):** Let not believers take disbelievers as allies [i.e., supporters or protectors] rather than believers. And whoever [of you] does that has nothing [i.e., no association] with Allāh, except when taking precaution against them in prudence. And Allāh warns you of Himself, and to Allāh is the [final] destination.
+
+**Urdu (Fatah Muhammad Jalandhari):** مؤمنوں کو چاہئے کہ مؤمنوں کے سوا کافروں کو دوست نہ بنائیں اور جو ایسا کرے گا اس سے خدا کا کچھ (عہد) نہیں ہاں اگر اس طریق سے تم ان (کے شر) سے بچاؤ کی صورت پیدا کرو (تو مضائقہ نہیں) اور خدا تم کو اپنے (غضب) سے ڈراتا ہے اور خدا ہی کی طرف (تم کو) لوٹ کر جانا ہے
+
+[Open on Quran.com](https://quran.com/3/28)
+
+#### 3:64 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا مِّن دُونِ ٱللَّهِ ۚ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ
+
+</div>
+
+**Word in this verse:** `يَتَّخِذَ` — take
+
+**English (Sahih International):** Say, "O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh." But if they turn away, then say, "Bear witness that we are Muslims [submitting to Him]."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اے اہل کتاب جو بات ہمارے اور تمہارے دونوں کے درمیان یکساں (تسلیم کی گئی) ہے اس کی طرف آؤ وہ یہ کہ خدا کے سوا ہم کسی کی عبادت نہ کریں اور اس کے ساتھ کسی چیز کو شریک نہ بنائیں اور ہم میں سے کوئی کسی کو خدا کے سوا اپنا کار ساز نہ سمجھے اگر یہ لوگ (اس بات کو) نہ مانیں تو (ان سے) کہہ دو کہ تم گواہ رہو کہ ہم (خدا کے) فرماں بردار ہیں
+
+[Open on Quran.com](https://quran.com/3/64)
+
+_…and **108** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

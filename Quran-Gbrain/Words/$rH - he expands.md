@@ -1,0 +1,112 @@
+---
+type: word
+lemma: "شَرَحَ"
+slug: "$rH - he expands"
+surah_count: 5
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# $rH - he expands
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[$rH - uncover]]
+
+### Meaning
+**he expands** · Lemma **شَرَحَ**
+
+### Surahs (5)
+- [[006 Al-Anam]]
+- [[016 An-Nahl]]
+- [[020 Taha]]
+- [[039 Az-Zumar]]
+- [[094 Ash-Sharh]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 6:125 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَـٰمِ ۖ وَمَن يُرِدْ أَن يُضِلَّهُۥ يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ ۚ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ
+
+</div>
+
+**Word in this verse:** `يَشْرَحْ` — He expands
+
+**English (Sahih International):** So whoever Allāh wants to guide - He expands his breast to [contain] Islām; and whoever He wants to send astray - He makes his breast tight and constricted as though he were climbing into the sky. Thus does Allāh place defilement upon those who do not believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جس شخص کو خدا چاہتا ہے کہ ہدایت بخشے اس کا سینہ اسلام کے لیے کھول دیتا ہے اور جسے چاہتا ہے کہ گمراہ کرے اس کا سینہ تنگ اور گھٹا ہوا کر دیتا ہے گویا وہ آسمان پر چڑھ رہا ہے اس طرح خدا ان لوگوں پر جو ایمان نہیں لاتے عذاب بھیجتا ہے
+
+[Open on Quran.com](https://quran.com/6/125)
+
+#### 16:106 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَن كَفَرَ بِٱللَّهِ مِنۢ بَعْدِ إِيمَـٰنِهِۦٓ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَـٰنِ وَلَـٰكِن مَّن شَرَحَ بِٱلْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ ٱللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ
+
+</div>
+
+**Word in this verse:** `شَرَحَ` — opens
+
+**English (Sahih International):** Whoever disbelieves in [i.e., denies] Allāh after his belief... except for one who is forced [to renounce his religion] while his heart is secure in faith. But those who [willingly] open their breasts to disbelief, upon them is wrath from Allāh, and for them is a great punishment;
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص ایمان لانے کے بعد خدا کے ساتھ کفر کرے وہ نہیں جو (کفر پر زبردستی) مجبور کیا جائے اور اس کا دل ایمان کے ساتھ مطمئن ہو۔ بلکہ وہ جو (دل سے اور) دل کھول کر کفر کرے۔ تو ایسوں پر الله کا غضب ہے۔ اور ان کو بڑا سخت عذاب ہوگا
+
+[Open on Quran.com](https://quran.com/16/106)
+
+#### 20:25 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ رَبِّ ٱشْرَحْ لِى صَدْرِى
+
+</div>
+
+**Word in this verse:** `ٱشْرَحْ` — Expand
+
+**English (Sahih International):** [Moses] said, "My Lord, expand [i.e., relax] for me my breast [with assurance]
+
+**Urdu (Fatah Muhammad Jalandhari):** کہا میرے پروردگار (اس کام کے لئے) میرا سینہ کھول دے
+
+[Open on Quran.com](https://quran.com/20/25)
+
+#### 39:22 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَفَمَن شَرَحَ ٱللَّهُ صَدْرَهُۥ لِلْإِسْلَـٰمِ فَهُوَ عَلَىٰ نُورٍ مِّن رَّبِّهِۦ ۚ فَوَيْلٌ لِّلْقَـٰسِيَةِ قُلُوبُهُم مِّن ذِكْرِ ٱللَّهِ ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍ مُّبِينٍ
+
+</div>
+
+**Word in this verse:** `شَرَحَ` — Allah has expanded
+
+**English (Sahih International):** So is one whose breast Allāh has expanded to [accept] Islām and he is upon [i.e., guided by] a light from his Lord [like one whose heart rejects it]? Then woe to those whose hearts are hardened against the remembrance of Allāh. Those are in manifest error.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس شخص کا سینہ خدا نے اسلام کے لئے کھول دیا ہو اور وہ اپنے پروردگار کی طرف سے روشنی پر ہو (تو کیا وہ سخت دل کافر کی طرح ہوسکتا ہے) پس ان پر افسوس ہے جن کے دل خدا کی یاد سے سخت ہو رہے ہیں۔ اور یہی لوگ صریح گمراہی میں ہیں
+
+[Open on Quran.com](https://quran.com/39/22)
+
+#### 94:1 · [[094 Ash-Sharh]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ
+
+</div>
+
+**Word in this verse:** `نَشْرَحْ` — We expanded
+
+**English (Sahih International):** Did We not expand for you, [O Muḥammad], your breast?
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) کیا ہم نے تمہارا سینہ کھول نہیں دیا؟ (بےشک کھول دیا)
+
+[Open on Quran.com](https://quran.com/94/1)
+

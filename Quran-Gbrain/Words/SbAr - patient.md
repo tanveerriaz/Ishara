@@ -1,0 +1,95 @@
+---
+type: word
+lemma: "صَبّار"
+slug: "SbAr - patient"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# SbAr - patient
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Sbr - confine restrain]]
+
+### Meaning
+**patient** · Lemma **صَبّار**
+
+### Surahs (4)
+- [[014 Ibrahim]]
+- [[031 Luqman]]
+- [[034 Saba]]
+- [[042 Ash-Shuraa]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 14:5 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَـٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
+
+</div>
+
+**Word in this verse:** `صَبَّارٍۢ` — patient
+
+**English (Sahih International):** And We certainly sent Moses with Our signs, [saying], "Bring out your people from darknesses into the light and remind them of the days of Allāh." Indeed in that are signs for everyone patient and grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو اپنی نشانیاں دے کر بھیجا کہ اپنی قوم کو تاریکی سے نکال کر روشنی میں لے جاؤ۔ اور ان کو خدا کے دن یاد دلاؤ اس میں ان لوگوں کے لیے جو صابر وشاکر ہیں (قدرت خدا کی) نشانیاں ہیں
+
+[Open on Quran.com](https://quran.com/14/5)
+
+#### 31:31 · [[031 Luqman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ تَرَ أَنَّ ٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِنِعْمَتِ ٱللَّهِ لِيُرِيَكُم مِّنْ ءَايَـٰتِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
+
+</div>
+
+**Word in this verse:** `صَبَّارٍۢ` — (who is) patient
+
+**English (Sahih International):** Do you not see that ships sail through the sea by the favor of Allāh that He may show you of His signs? Indeed in that are signs for everyone patient and grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا ہی کی مہربانی سے کشتیاں دریا میں چلتی ہیں۔ تاکہ وہ تم کو اپنی کچھ نشانیاں دکھائے۔ بیشک اس میں ہر صبر کرنے والے (اور) شکر کرنے والے کے لئے نشانیاں ہیں
+
+[Open on Quran.com](https://quran.com/31/31)
+
+#### 34:19 · [[034 Saba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَقَالُوا۟ رَبَّنَا بَـٰعِدْ بَيْنَ أَسْفَارِنَا وَظَلَمُوٓا۟ أَنفُسَهُمْ فَجَعَلْنَـٰهُمْ أَحَادِيثَ وَمَزَّقْنَـٰهُمْ كُلَّ مُمَزَّقٍ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
+
+</div>
+
+**Word in this verse:** `صَبَّارٍۢ` — patient
+
+**English (Sahih International):** But [insolently] they said, "Our Lord, lengthen the distance between our journeys," and wronged themselves, so We made them narrations and dispersed them in total dispersion. Indeed in that are signs for everyone patient and grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے دعا کی کہ اے پروردگار ہماری مسافتوں میں بُعد (اور طول پیدا) کردے اور (اس سے) انہوں نے اپنے حق میں ظلم کیا تو ہم نے (انہیں نابود کرکے) ان کے افسانے بنادیئے اور انہیں بالکل منتشر کردیا۔ اس میں ہر صابر وشاکر کے لئے نشانیاں ہیں
+
+[Open on Quran.com](https://quran.com/34/19)
+
+#### 42:33 · [[042 Ash-Shuraa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
+
+</div>
+
+**Word in this verse:** `صَبَّارٍۢ` — patient
+
+**English (Sahih International):** If He willed, He could still the wind, and they would remain motionless on its surface. Indeed in that are signs for everyone patient and grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر خدا چاہے تو ہوا کو ٹھیرا دے اور جہاز اس کی سطح پر کھڑے رہ جائیں۔ تمام صبر اور شکر کرنے والوں کے لئے ان (باتوں) میں قدرت خدا کے نمونے ہیں
+
+[Open on Quran.com](https://quran.com/42/33)
+

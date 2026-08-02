@@ -1,0 +1,112 @@
+---
+type: word
+lemma: "كِسَف"
+slug: "ksf - fragments"
+surah_count: 5
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# ksf - fragments
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[ksf - fragments]]
+
+### Meaning
+**fragments** · Lemma **كِسَف**
+
+### Surahs (5)
+- [[017 Al-Isra]]
+- [[026 Ash-Shuara]]
+- [[030 Ar-Rum]]
+- [[034 Saba]]
+- [[052 At-Tur]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 17:92 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوْ تُسْقِطَ ٱلسَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفًا أَوْ تَأْتِىَ بِٱللَّهِ وَٱلْمَلَـٰٓئِكَةِ قَبِيلًا
+
+</div>
+
+**Word in this verse:** `كِسَفًا` — (in) pieces
+
+**English (Sahih International):** Or you make the heaven fall upon us in fragments as you have claimed or you bring Allāh and the angels before [us]
+
+**Urdu (Fatah Muhammad Jalandhari):** یا جیسا تم کہا کرتے ہو ہم پر آسمان کے ٹکڑے لا گراؤ یا خدا اور فرشتوں کو (ہمارے) سامنے لاؤ
+
+[Open on Quran.com](https://quran.com/17/92)
+
+#### 26:187 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ ٱلسَّمَآءِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ
+
+</div>
+
+**Word in this verse:** `كِسَفًۭا` — fragments
+
+**English (Sahih International):** So cause to fall upon us fragments of the sky, if you should be of the truthful."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر سچے ہو تو ہم پر آسمان سے ایک ٹکڑا لا کر گراؤ
+
+[Open on Quran.com](https://quran.com/26/187)
+
+#### 30:48 · [[030 Ar-Rum]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
+
+</div>
+
+**Word in this verse:** `كِسَفًۭا` — fragments
+
+**English (Sahih International):** It is Allāh who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جو ہواؤں کو چلاتا ہے تو وہ بادل کو اُبھارتی ہیں۔ پھر خدا اس کو جس طرح چاہتا ہے آسمان میں پھیلا دیتا اور تہ بتہ کر دیتا ہے پھر تم دیکھتے ہو کہ اس کے بیچ میں سے مینھہ نکلنے لگتا ہے پھر جب وہ اپنے بندوں میں سے جن پر چاہتا ہے اُسے برسا دیتا ہے تو وہ خوش ہو جاتے ہیں
+
+[Open on Quran.com](https://quran.com/30/48)
+
+#### 34:9 · [[034 Saba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَفَلَمْ يَرَوْا۟ إِلَىٰ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ إِن نَّشَأْ نَخْسِفْ بِهِمُ ٱلْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا مِّنَ ٱلسَّمَآءِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّكُلِّ عَبْدٍ مُّنِيبٍ
+
+</div>
+
+**Word in this verse:** `كِسَفًۭا` — fragments
+
+**English (Sahih International):** Then, do they not look at what is before them and what is behind them of the heaven and earth? If We should will, We could cause the earth to swallow them or [could] let fall upon them fragments from the sky. Indeed in that is a sign for every servant turning back [to Allāh].
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے اس کو نہیں دیکھا جو ان کے آگے اور پیچھے ہے یعنی آسمان اور زمین۔ اگر ہم چاہیں تو ان کو زمین میں دھنسا دیں یا ان پر آسمان کے ٹکڑے گرا دیں۔ اس میں ہر بندے کے لئے جو رجوع کرنے والا ہے ایک نشانی ہے
+
+[Open on Quran.com](https://quran.com/34/9)
+
+#### 52:44 · [[052 At-Tur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِن يَرَوْا۟ كِسْفًا مِّنَ ٱلسَّمَآءِ سَاقِطًا يَقُولُوا۟ سَحَابٌ مَّرْكُومٌ
+
+</div>
+
+**Word in this verse:** `كِسْفًۭا` — a portion
+
+**English (Sahih International):** And if they were to see a fragment from the sky falling, they would say, "[It is merely] clouds heaped up."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر یہ آسمان سے (عذاب) کا کوئی ٹکڑا گرتا ہوا دیکھیں تو کہیں کہ یہ گاڑھا بادل ہے
+
+[Open on Quran.com](https://quran.com/52/44)
+

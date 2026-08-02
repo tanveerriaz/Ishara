@@ -1,0 +1,129 @@
+---
+type: word
+lemma: "بَلاء"
+slug: "blA' - was trial"
+surah_count: 6
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# blA' - was trial
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[blw - blw]]
+
+### Meaning
+**was trial** · Lemma **بَلاء**
+
+### Surahs (6)
+- [[002 Al-Baqarah]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[014 Ibrahim]]
+- [[037 As-Saffat]]
+- [[044 Ad-Dukhan]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:49 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ نَجَّيْنَـٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
+
+</div>
+
+**Word in this verse:** `بَلَآءٌۭ` — (was) a trial
+
+**English (Sahih International):** And [recall] when We saved you [i.e., your forefathers] from the people of Pharaoh, who afflicted you with the worst torment, slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (ہمارے ان احسانات کو یاد کرو) جب ہم نے تم کو قومِ فرعون سے نجات بخشی وہ (لوگ) تم کو بڑا دکھ دیتے تھے تمہارے بیٹوں کو تو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
+
+[Open on Quran.com](https://quran.com/2/49)
+
+#### 7:141 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ أَنجَيْنَـٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ ۖ يُقَتِّلُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
+
+</div>
+
+**Word in this verse:** `بَلَآءٌۭ` — (was) a trial
+
+**English (Sahih International):** And [recall, O Children of Israel], when We saved you from the people of Pharaoh, [who were] afflicting you with the worst torment - killing your sons and keeping your women alive. And in that was a great trial from your Lord.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور ہمارے ان احسانوں کو یاد کرو) جب ہم نے تم کو فرعونیوں (کے ہاتھ) سے نجات بخشی وہ لوگ تم کو بڑا دکھ دیتے تھے۔ تمہارے بیٹوں کو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے۔ اور اس میں تمہارے پروردگار کی طرف سے سخت آزمائش تھی
+
+[Open on Quran.com](https://quran.com/7/141)
+
+#### 8:17 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمْ تَقْتُلُوهُمْ وَلَـٰكِنَّ ٱللَّهَ قَتَلَهُمْ ۚ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَـٰكِنَّ ٱللَّهَ رَمَىٰ ۚ وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `بَلَآءً` — (with) a trial
+
+**English (Sahih International):** And you did not kill them, but it was Allāh who killed them. And you threw not, [O Muḥammad], when you threw, but it was Allāh who threw that He might test the believers with a good test. Indeed, Allāh is Hearing and Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** تم لوگوں نے ان (کفار) کو قتل نہیں کیا بلکہ خدا نے انہیں قتل کیا۔ اور (اے محمدﷺ) جس وقت تم نے کنکریاں پھینکی تھیں تو وہ تم نے نہیں پھینکی تھیں بلکہ الله نے پھینکی تھیں۔ اس سے یہ غرض تھی کہ مومنوں کو اپنے (احسانوں) سے اچھی طرح آزمالے۔ بےشک خدا سنتا جانتا ہے
+
+[Open on Quran.com](https://quran.com/8/17)
+
+#### 14:6 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
+
+</div>
+
+**Word in this verse:** `بَلَآءٌۭ` — (was) a trial
+
+**English (Sahih International):** And [recall, O Children of Israel], when Moses said to his people, "Remember the favor of Allāh upon you when He saved you from the people of Pharaoh, who were afflicting you with the worst torment and were slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم سے کہا کہ خدا نے جو تم پر مہربانیاں کی ہیں ان کو یاد کرو جب کہ تم کو فرعون کی قوم (کے ہاتھ) سے مخلصی دی وہ لوگ تمہیں بُرے عذاب دیتے تھے اور تمہارے بیٹوں کو مار ڈالتے تھے اور عورت ذات یعنی تمہاری لڑکیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
+
+[Open on Quran.com](https://quran.com/14/6)
+
+#### 37:106 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ هَـٰذَا لَهُوَ ٱلْبَلَـٰٓؤُا۟ ٱلْمُبِينُ
+
+</div>
+
+**Word in this verse:** `ٱلْبَلَـٰٓؤُا۟` — the trial
+
+**English (Sahih International):** Indeed, this was the clear trial.
+
+**Urdu (Fatah Muhammad Jalandhari):** بلاشبہ یہ صریح آزمائش تھی
+
+[Open on Quran.com](https://quran.com/37/106)
+
+#### 44:33 · [[044 Ad-Dukhan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَءَاتَيْنَـٰهُم مِّنَ ٱلْـَٔايَـٰتِ مَا فِيهِ بَلَـٰٓؤٌا۟ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `بَلَـٰٓؤٌۭا۟` — (was) a trial
+
+**English (Sahih International):** And We gave them of signs that in which there was a clear trial.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو ایسی نشانیاں دی تھیں جن میں صریح آزمائش تھی
+
+[Open on Quran.com](https://quran.com/44/33)
+

@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "رَحِيم"
+slug: "rHym - merciful"
+surah_count: 42
+ayah_count: 116
+tags: [word, meaning]
+---
+
+# rHym - merciful
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[rHm - mercy]]
+
+### Meaning
+**merciful** · Lemma **رَحِيم**
+
+### Surahs (42)
+- [[001 Al-Fatihah]]
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[009 At-Tawbah]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[012 Yusuf]]
+- [[014 Ibrahim]]
+- [[015 Al-Hijr]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[022 Al-Hajj]]
+- [[024 An-Nur]]
+- [[025 Al-Furqan]]
+- [[026 Ash-Shuara]]
+- [[027 An-Naml]]
+- [[028 Al-Qasas]]
+- [[030 Ar-Rum]]
+- [[032 As-Sajdah]]
+- [[033 Al-Ahzab]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 1:1 · [[001 Al-Fatihah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
+
+</div>
+
+**Word in this verse:** `ٱلرَّحِيمِ` — the Most Merciful
+
+**English (Sahih International):** In the name of Allāh, the Entirely Merciful, the Especially Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے
+
+[Open on Quran.com](https://quran.com/1/1)
+
+#### 1:3 · [[001 Al-Fatihah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
+
+</div>
+
+**Word in this verse:** `ٱلرَّحِيمِ` — the Most Merciful
+
+**English (Sahih International):** The Entirely Merciful, the Especially Merciful,
+
+**Urdu (Fatah Muhammad Jalandhari):** بڑا مہربان نہایت رحم والا
+
+[Open on Quran.com](https://quran.com/1/3)
+
+#### 2:37 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَتَلَقَّىٰٓ ءَادَمُ مِن رَّبِّهِۦ كَلِمَـٰتٍ فَتَابَ عَلَيْهِ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
+
+</div>
+
+**Word in this verse:** `ٱلرَّحِيمُ` — the Most Merciful
+
+**English (Sahih International):** Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر آدم نے اپنے پروردگار سے کچھ کلمات سیکھے (اور معافی مانگی) تو اس نے ان کا قصور معاف کر دیا بے شک وہ معاف کرنے والا (اور) صاحبِ رحم ہے
+
+[Open on Quran.com](https://quran.com/2/37)
+
+#### 2:54 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
+
+</div>
+
+**Word in this verse:** `ٱلرَّحِيمُ` — the Most Merciful
+
+**English (Sahih International):** And [recall] when Moses said to his people, "O my people, indeed you have wronged yourselves by your taking of the calf [for worship]. So repent to your Creator and kill yourselves [i.e., the guilty among you]. That is best for [all of] you in the sight of your Creator." Then He accepted your repentance; indeed, He is the Accepting of Repentance, the Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لوگوں سے کہا کہ بھائیو، تم نے بچھڑے کو (معبود) ٹھہرانے میں (بڑا) ظلم کیا ہے، تو اپنے پیدا کرنے والے کے آگے توبہ کرو اور اپنے تئیں ہلاک کر ڈالو۔ تمہارے خالق کے نزدیک تمہارے حق میں یہی بہتر ہے۔ پھر اس نے تمہارا قصور معاف کر دیا۔ وہ بے شک معاف کرنے والا (اور) صاحبِ رحم ہے
+
+[Open on Quran.com](https://quran.com/2/54)
+
+#### 2:128 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَآ ۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ
+
+</div>
+
+**Word in this verse:** `ٱلرَّحِيمُ` — the Most Merciful
+
+**English (Sahih International):** Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites [of worship] and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار، ہم کو اپنا فرمانبردار بنائے رکھیو۔ اور ہماری اولاد میں سے بھی ایک گروہ کو اپنا مطیع بنائے رہیو، اور (پروردگار) ہمیں طریق عبادت بتا اور ہمارے حال پر (رحم کے ساتھ) توجہ فرما۔ بے شک تو توجہ فرمانے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/2/128)
+
+#### 2:143 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَذَٰلِكَ جَعَلْنَـٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيْكُمْ شَهِيدًا ۗ وَمَا جَعَلْنَا ٱلْقِبْلَةَ ٱلَّتِى كُنتَ عَلَيْهَآ إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ ۚ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُ ۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَـٰنَكُمْ ۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `رَّحِيمٌۭ` — Most Merciful
+
+**English (Sahih International):** And thus We have made you a median [i.e., just] community that you will be witnesses over the people and the Messenger will be a witness over you. And We did not make the qiblah which you used to face except that We might make evident who would follow the Messenger from who would turn back on his heels. And indeed, it is difficult except for those whom Allāh has guided. And never would Allāh have caused you to lose your faith [i.e., your previous prayers]. Indeed Allāh is, to the people, Kind and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے تم کو امتِ معتدل بنایا ہے، تاکہ تم لوگوں پر گواہ بنو اور پیغمبر (آخرالزماں) تم پر گواہ بنیں۔ اور جس قبلے پر تم (پہلے) تھے، اس کو ہم نے اس لیے مقرر کیا تھا کہ معلوم کریں، کون (ہمارے) پیغمبر کا تابع رہتا ہے، اور کون الٹے پاؤں پھر جاتا ہے۔ اور یہ بات (یعنی تحویل قبلہ لوگوں کو) گراں معلوم ہوئی، مگر جن کو خدا نے ہدایت بخشی (وہ اسے گراں نہیں سمجھتے) اور خدا ایسا نہیں کہ تمہارے ایمان کو یونہی کھو دے۔ خدا تو لوگوں پر بڑا مہربان (اور) صاحبِ رحمت ہے
+
+[Open on Quran.com](https://quran.com/2/143)
+
+#### 2:160 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِلَّا ٱلَّذِينَ تَابُوا۟ وَأَصْلَحُوا۟ وَبَيَّنُوا۟ فَأُو۟لَـٰٓئِكَ أَتُوبُ عَلَيْهِمْ ۚ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ
+
+</div>
+
+**Word in this verse:** `ٱلرَّحِيمُ` — the Most Merciful
+
+**English (Sahih International):** Except for those who repent and correct themselves and make evident [what they concealed]. Those - I will accept their repentance, and I am the Accepting of Repentance, the Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جو توبہ کرتے ہیں اور اپنی حالت درست کرلیتے اور (احکام الہیٰ کو) صاف صاف بیان کردیتے ہیں تو میں ان کے قصور معاف کردیتا ہوں اور میں بڑا معاف کرنے والا (اور) رحم والا ہوں
+
+[Open on Quran.com](https://quran.com/2/160)
+
+#### 2:163 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِلَـٰهُكُمْ إِلَـٰهٌ وَٰحِدٌ ۖ لَّآ إِلَـٰهَ إِلَّا هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ
+
+</div>
+
+**Word in this verse:** `ٱلرَّحِيمُ` — the Most Merciful
+
+**English (Sahih International):** And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (لوگو) تمہارا معبود خدائے واحد ہے اس بڑے مہربان (اور) رحم کرنے کے سوا کوئی عبادت کے لائق نہیں
+
+[Open on Quran.com](https://quran.com/2/163)
+
+#### 2:173 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ ٱللَّهِ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `رَّحِيمٌ` — Most Merciful
+
+**English (Sahih International):** He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], there is no sin upon him. Indeed, Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس نے تم پر مرا ہوا جانور اور لہو اور سور کا گوشت اور جس چیز پر خدا کے سوا کسی اور کا نام پکارا جائے حرام کردیا ہے ہاں جو ناچار ہوجائے (بشرطیکہ ) خدا کی نافرمانی نہ کرے اور حد (ضرورت) سے باہر نہ نکل جائے اس پر کچھ گناہ نہیں۔ بےشک خدا بخشنے والا (اور) رحم کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/2/173)
+
+#### 2:182 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَمَنْ خَافَ مِن مُّوصٍ جَنَفًا أَوْ إِثْمًا فَأَصْلَحَ بَيْنَهُمْ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `رَّحِيمٌۭ` — All-Merciful
+
+**English (Sahih International):** But if one fears from the bequeather [some] error or sin and corrects that which is between them [i.e., the concerned parties], there is no sin upon him. Indeed, Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر کسی کو وصیت کرنے والے کی طرف سے (کسی وارث کی) طرفداری یا حق تلفی کا اندیشہ ہو تو اگر وہ (وصیت کو بدل کر) وارثوں میں صلح کرادے تو اس پر کچھ گناہ نہیں۔ بےشک خدا بخشنے والا (اور) رحم والا ہے
+
+[Open on Quran.com](https://quran.com/2/182)
+
+_…and **106** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

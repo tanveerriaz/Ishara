@@ -1,0 +1,203 @@
+---
+type: word
+lemma: "مُنذِر"
+slug: "mn*r - warners"
+surah_count: 14
+ayah_count: 20
+tags: [word, meaning]
+---
+
+# mn*r - warners
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[n*r - ndhr]]
+
+### Meaning
+**warners** · Lemma **مُنذِر**
+
+### Surahs (14)
+- [[002 Al-Baqarah]]
+- [[004 An-Nisa]]
+- [[006 Al-Anam]]
+- [[010 Yunus]]
+- [[013 Ar-Rad]]
+- [[018 Al-Kahf]]
+- [[026 Ash-Shuara]]
+- [[027 An-Naml]]
+- [[037 As-Saffat]]
+- [[038 Sad]]
+- [[044 Ad-Dukhan]]
+- [[046 Al-Ahqaf]]
+- [[050 Qaf]]
+- [[079 An-Naziat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:213 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَانَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّـۧنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلْكِتَـٰبَ بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ فِيمَا ٱخْتَلَفُوا۟ فِيهِ ۚ وَمَا ٱخْتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَـٰتُ بَغْيًۢا بَيْنَهُمْ ۖ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ لِمَا ٱخْتَلَفُوا۟ فِيهِ مِنَ ٱلْحَقِّ بِإِذْنِهِۦ ۗ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+
+</div>
+
+**Word in this verse:** `وَمُنذِرِينَ` — and (as) warners
+
+**English (Sahih International):** Mankind was [of] one religion [before their deviation]; then Allāh sent the prophets as bringers of good tidings and warners and sent down with them the Scripture in truth to judge between the people concerning that in which they differed. And none differed over it [i.e., the Scripture] except those who were given it - after the clear proofs came to them - out of jealous animosity among themselves. And Allāh guided those who believed to the truth concerning that over which they had differed, by His permission. And Allāh guides whom He wills to a straight path.
+
+**Urdu (Fatah Muhammad Jalandhari):** (پہلے تو سب) لوگوں کا ایک ہی مذہب تھا (لیکن وہ آپس میں اختلاف کرنے لگے) تو خدا نے (ان کی طرف) بشارت دینے والے اور ڈر سنانے والے پیغمبر بھیجے اور ان پر سچائی کے ساتھ کتابیں نازل کیں تاکہ جن امور میں لوگ اختلاف کرتے تھے ان کا ان میں فیصلہ کردے۔ اور اس میں اختلاف بھی انہیں لوگوں نے کیا جن کو کتاب دی گئی تھی باوجود یہ کہ ان کے پاس کھلے ہوئے احکام آچکے تھے (اور یہ اختلاف انہوں نے صرف) آپس کی ضد سے (کیا) تو جس امر حق میں وہ اختلاف کرتے تھے خدا نے اپنی مہربانی سے مومنوں کو اس کی راہ دکھا دی۔ اور خدا جس کو چاہتا ہے سیدھا رستہ دکھا دیتا ہے
+
+[Open on Quran.com](https://quran.com/2/213)
+
+#### 4:165 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رُّسُلًا مُّبَشِّرِينَ وَمُنذِرِينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى ٱللَّهِ حُجَّةٌۢ بَعْدَ ٱلرُّسُلِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
+
+</div>
+
+**Word in this verse:** `وَمُنذِرِينَ` — and warners
+
+**English (Sahih International):** [We sent] messengers as bringers of good tidings and warners so that mankind will have no argument against Allāh after the messengers. And ever is Allāh Exalted in Might and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** (سب) پیغمبروں کو (خدا نے) خوشخبری سنانے والے اور ڈرانے والے (بنا کر بھیجا تھا) تاکہ پیغمبروں کے آنے کے بعد لوگوں کو خدا پر الزام کا موقع نہ رہے اور خدا غالب حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/4/165)
+
+#### 6:48 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ ۖ فَمَنْ ءَامَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+
+</div>
+
+**Word in this verse:** `وَمُنذِرِينَ ۖ` — and (as) warners
+
+**English (Sahih International):** And We send not the messengers except as bringers of good tidings and warners. So whoever believes and reforms - there will be no fear concerning them, nor will they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم جو پیغمبروں کو بھیجتے رہے ہیں تو خوشخبری سنانے اور ڈرانے کو پھر جو شخص ایمان لائے اور نیکوکار ہوجائے تو ایسے لوگوں کو نہ کچھ خوف ہوگا اور نہ وہ اندوہناک ہوں گے
+
+[Open on Quran.com](https://quran.com/6/48)
+
+#### 10:73 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَكَذَّبُوهُ فَنَجَّيْنَـٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ وَجَعَلْنَـٰهُمْ خَلَـٰٓئِفَ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُنذَرِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْمُنذَرِينَ` — (of) those who were warned
+
+**English (Sahih International):** And they denied him, so We saved him and those with him in the ship and made them successors, and We drowned those who denied Our signs. Then see how was the end of those who were warned.
+
+**Urdu (Fatah Muhammad Jalandhari):** لیکن ان لوگوں نے ان کی تکذیب کی تو ہم نے ان کو اور جو لوگ ان کے ساتھ کشتی میں سوار تھے سب کو (طوفان سے) بچا لیا اور انہیں (زمین میں) خلیفہ بنادیا اور جن لوگوں نے ہماری آیتوں کو جھٹلایا ان کو غرق کر دیا تو دیکھ لو کہ جو لوگ ڈرائے گئے تھے ان کا کیا انجام ہوا
+
+[Open on Quran.com](https://quran.com/10/73)
+
+#### 13:7 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ ءَايَةٌ مِّن رَّبِّهِۦٓ ۗ إِنَّمَآ أَنتَ مُنذِرٌ ۖ وَلِكُلِّ قَوْمٍ هَادٍ
+
+</div>
+
+**Word in this verse:** `مُنذِرٌۭ ۖ` — (are) a warner
+
+**English (Sahih International):** And those who disbelieved say, "Why has a sign not been sent down to him from his Lord?" You are only a warner, and for every people is a guide.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر لوگ کہتے ہیں کہ اس (پیغمبر) پر اس کے پروردگار کی طرف سے کوئی نشانی نازل نہیں ہوئی۔ سو (اے محمدﷺ) تم تو صرف ہدایت کرنے والے ہو اور ہر ایک قوم کے لیے رہنما ہوا کرتا ہے
+
+[Open on Quran.com](https://quran.com/13/7)
+
+#### 18:56 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ ۚ وَيُجَـٰدِلُ ٱلَّذِينَ كَفَرُوا۟ بِٱلْبَـٰطِلِ لِيُدْحِضُوا۟ بِهِ ٱلْحَقَّ ۖ وَٱتَّخَذُوٓا۟ ءَايَـٰتِى وَمَآ أُنذِرُوا۟ هُزُوًا
+
+</div>
+
+**Word in this verse:** `وَمُنذِرِينَ ۚ` — and (as) warners
+
+**English (Sahih International):** And We send not the messengers except as bringers of good tidings and warners. And those who disbelieve dispute by [using] falsehood to [attempt to] invalidate thereby the truth and have taken My verses, and that of which they are warned, in ridicule.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم جو پیغمبروں کو بھیجا کرتے ہیں تو صرف اس لئے کہ (لوگوں کو خدا کی نعمتوں کی) خوشخبریاں سنائیں اور (عذاب سے) ڈرائیں۔ اور جو کافر ہیں وہ باطل کی (سند) سے جھگڑا کرتے ہیں تاکہ اس سے حق کو پھسلا دیں اور انہوں نے ہماری آیتوں کو اور جس چیز سے ان کو ڈرایا جاتا ہے ہنسی بنا لیا
+
+[Open on Quran.com](https://quran.com/18/56)
+
+#### 26:173 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْمُنذَرِينَ` — (on) those who were warned
+
+**English (Sahih International):** And We rained upon them a rain [of stones], and evil was the rain of those who were warned.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان پر مینھہ برسایا۔ سو جو مینھہ ان (لوگوں) پر (برسا) جو ڈرائے گئے برا تھا
+
+[Open on Quran.com](https://quran.com/26/173)
+
+#### 26:194 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ ٱلْمُنذِرِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْمُنذِرِينَ` — the warners
+
+**English (Sahih International):** Upon your heart, [O Muḥammad] - that you may be of the warners -
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی اس نے) تمہارے دل پر (القا) کیا ہے تاکہ (لوگوں کو) نصیحت کرتے رہو
+
+[Open on Quran.com](https://quran.com/26/194)
+
+#### 26:208 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا لَهَا مُنذِرُونَ
+
+</div>
+
+**Word in this verse:** `مُنذِرُونَ` — warners
+
+**English (Sahih International):** And We did not destroy any city except that it had warners
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کوئی بستی ہلاک نہیں کی مگر اس کے لئے نصیحت کرنے والے (پہلے بھیج دیتے) تھے
+
+[Open on Quran.com](https://quran.com/26/208)
+
+#### 27:58 · [[027 An-Naml]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْمُنذَرِينَ` — (on) those who were warned
+
+**English (Sahih International):** And We rained upon them a rain [of stones], and evil was the rain of those who were warned.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان پر مینھہ برسایا سو (جو) مینھہ ان لوگوں پر برسا جن کو متنبہ کردیا گیا تھا، برا تھا
+
+[Open on Quran.com](https://quran.com/27/58)
+
+_…and **10** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

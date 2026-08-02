@@ -1,0 +1,143 @@
+---
+type: word
+lemma: "كَذّاب"
+slug: "k*Ab - liar"
+surah_count: 4
+ayah_count: 7
+tags: [word, meaning]
+---
+
+# k*Ab - liar
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[k*b - denied]]
+
+### Meaning
+**liar** · Lemma **كَذّاب**
+
+### Surahs (4)
+- [[038 Sad]]
+- [[040 Ghafir]]
+- [[054 Al-Qamar]]
+- [[078 An-Naba]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 38:4 · [[038 Sad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَعَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ ۖ وَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا سَـٰحِرٌ كَذَّابٌ
+
+</div>
+
+**Word in this verse:** `كَذَّابٌ` — a liar
+
+**English (Sahih International):** And they wonder that there has come to them a warner [i.e., Prophet Muḥammad (ﷺ)] from among themselves. And the disbelievers say, "This is a magician and a liar.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور انہوں نے تعجب کیا کہ ان کے پاس ان ہی میں سے ہدایت کرنے والا آیا اور کافر کہنے لگے کہ یہ تو جادوگر ہے جھوٹا
+
+[Open on Quran.com](https://quran.com/38/4)
+
+#### 40:24 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِلَىٰ فِرْعَوْنَ وَهَـٰمَـٰنَ وَقَـٰرُونَ فَقَالُوا۟ سَـٰحِرٌ كَذَّابٌ
+
+</div>
+
+**Word in this verse:** `كَذَّابٌۭ` — a liar
+
+**English (Sahih International):** To Pharaoh, Hāmān and Qārūn, but they said, "[He is] a magician and a liar."
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی) فرعون اور ہامان اور قارون کی طرف تو انہوں نے کہا کہ یہ تو جادوگر ہے جھوٹا
+
+[Open on Quran.com](https://quran.com/40/24)
+
+#### 40:28 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ رَجُلٌ مُّؤْمِنٌ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَـٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَـٰتِ مِن رَّبِّكُمْ ۖ وَإِن يَكُ كَـٰذِبًا فَعَلَيْهِ كَذِبُهُۥ ۖ وَإِن يَكُ صَادِقًا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ مُسْرِفٌ كَذَّابٌ
+
+</div>
+
+**Word in this verse:** `كَذَّابٌۭ` — a liar
+
+**English (Sahih International):** And a believing man from the family of Pharaoh who concealed his faith said, "Do you kill a man [merely] because he says, 'My Lord is Allāh' while he has brought you clear proofs from your Lord? And if he should be lying, then upon him is [the consequence of] his lie; but if he should be truthful, there will strike you some of what he promises you. Indeed, Allāh does not guide one who is a transgressor and a liar.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور فرعون کے لوگوں میں سے ایک مومن شخص جو اپنے ایمان کو پوشیدہ رکھتا تھا کہنے لگا کیا تم ایسے شخص کو قتل کرنا چاہتے ہو جو کہتا ہے کہ میرا پروردگار خدا ہے اور وہ تمہارے پروردگار (کی طرف) سے نشانیاں بھی لے کر آیا ہے۔ اور اگر وہ جھوٹا ہوگا تو اس کے جھوٹ کا ضرر اسی کو ہوگا۔ اور اگر سچا ہوگا تو کوئی سا عذاب جس کا وہ تم سے وعدہ کرتا ہے تم پر واقع ہو کر رہے گا۔ بےشک خدا اس شخص کو ہدایت نہیں دیتا جو بےلحاظ جھوٹا ہے
+
+[Open on Quran.com](https://quran.com/40/28)
+
+#### 54:25 · [[054 Al-Qamar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ
+
+</div>
+
+**Word in this verse:** `كَذَّابٌ` — (is) a liar
+
+**English (Sahih International):** Has the message been sent down upon him from among us? Rather, he is an insolent liar."
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا ہم سب میں سے اسی پر وحی نازل ہوئی ہے؟ (نہیں) بلکہ یہ جھوٹا خود پسند ہے
+
+[Open on Quran.com](https://quran.com/54/25)
+
+#### 54:26 · [[054 Al-Qamar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+سَيَعْلَمُونَ غَدًا مَّنِ ٱلْكَذَّابُ ٱلْأَشِرُ
+
+</div>
+
+**Word in this verse:** `ٱلْكَذَّابُ` — (is) the liar
+
+**English (Sahih International):** They will know tomorrow who is the insolent liar.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کو کل ہی معلوم ہوجائے گا کہ کون جھوٹا خود پسند ہے
+
+[Open on Quran.com](https://quran.com/54/26)
+
+#### 78:28 · [[078 An-Naba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا كِذَّابًا
+
+</div>
+
+**Word in this verse:** `كِذَّابًۭا` — (with) denial
+
+**English (Sahih International):** And denied Our verses with [emphatic] denial.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہماری آیتوں کو جھوٹ سمجھ کر جھٹلاتے رہتے تھے
+
+[Open on Quran.com](https://quran.com/78/28)
+
+#### 78:35 · [[078 An-Naba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّٰبًا
+
+</div>
+
+**Word in this verse:** `كِذَّٰبًۭا` — any falsehood
+
+**English (Sahih International):** No ill speech will they hear therein or any falsehood -
+
+**Urdu (Fatah Muhammad Jalandhari):** وہاں نہ بیہودہ بات سنیں گے نہ جھوٹ (خرافات)
+
+[Open on Quran.com](https://quran.com/78/35)
+

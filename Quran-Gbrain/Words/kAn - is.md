@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "كانَ"
+slug: "kAn - is"
+surah_count: 86
+ayah_count: 1149
+tags: [word, meaning]
+---
+
+# kAn - is
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[kwn - is]]
+
+### Meaning
+**is** · Lemma **كانَ**
+
+### Surahs (86)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[009 At-Tawbah]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[012 Yusuf]]
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[015 Al-Hijr]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[019 Maryam]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[022 Al-Hajj]]
+- [[023 Al-Muminun]]
+- [[024 An-Nur]]
+- [[025 Al-Furqan]]
+- [[026 Ash-Shuara]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:10 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فِى قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْذِبُونَ
+
+</div>
+
+**Word in this verse:** `كَانُوا۟` — they used to
+
+**English (Sahih International):** In their hearts is disease, so Allāh has increased their disease; and for them is a painful punishment because they [habitually] used to lie.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کے دلوں میں (کفر کا) مرض تھا۔ خدا نے ان کا مرض اور زیادہ کر دیا اور ان کے جھوٹ بولنے کے سبب ان کو دکھ دینے والا عذاب ہوگا
+
+[Open on Quran.com](https://quran.com/2/10)
+
+#### 2:16 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلضَّلَـٰلَةَ بِٱلْهُدَىٰ فَمَا رَبِحَت تِّجَـٰرَتُهُمْ وَمَا كَانُوا۟ مُهْتَدِينَ
+
+</div>
+
+**Word in this verse:** `كَانُوا۟` — were they
+
+**English (Sahih International):** Those are the ones who have purchased error [in exchange] for guidance, so their transaction has brought no profit, nor were they guided.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے ہدایت چھوڑ کر گمراہی خریدی، تو نہ تو ان کی تجارت ہی نے کچھ نفع دیا اور نہ وہ ہدایت یاب ہی ہوئے
+
+[Open on Quran.com](https://quran.com/2/16)
+
+#### 2:23 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ
+
+</div>
+
+**Word in this verse:** `كُنتُمْ` — you are
+
+**English (Sahih International):** And if you are in doubt about what We have sent down [i.e., the Qur’ān] upon Our Servant [i.e., Prophet Muḥammad (ﷺ)], then produce a sūrah the like thereof and call upon your witnesses [i.e., supporters] other than Allāh, if you should be truthful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو اس (کتاب) میں، جو ہم نے اپنے بندے (محمدﷺ عربی) پر نازل فرمائی ہے کچھ شک ہو تو اسی طرح کی ایک سورت تم بھی بنا لاؤ اور خدا کے سوا جو تمہارے مددگار ہوں ان کو بھی بلالو اگر تم سچے ہو
+
+[Open on Quran.com](https://quran.com/2/23)
+
+#### 2:28 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَيْفَ تَكْفُرُونَ بِٱللَّهِ وَكُنتُمْ أَمْوَٰتًا فَأَحْيَـٰكُمْ ۖ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ
+
+</div>
+
+**Word in this verse:** `وَكُنتُمْ` — While you were
+
+**English (Sahih International):** How can you disbelieve in Allāh when you were lifeless and He brought you to life; then He will cause you to die, then He will bring you [back] to life, and then to Him you will be returned.
+
+**Urdu (Fatah Muhammad Jalandhari):** (کافرو!) تم خدا سے کیوں کر منکر ہو سکتے ہو جس حال میں کہ تم بےجان تھے تو اس نے تم کو جان بخشی پھر وہی تم کو مارتا ہے پھر وہی تم کو زندہ کرے گا پھر تم اسی کی طرف لوٹ کر جاؤ گے
+
+[Open on Quran.com](https://quran.com/2/28)
+
+#### 2:31 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَعَلَّمَ ءَادَمَ ٱلْأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَـٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِى بِأَسْمَآءِ هَـٰٓؤُلَآءِ إِن كُنتُمْ صَـٰدِقِينَ
+
+</div>
+
+**Word in this verse:** `كُنتُمْ` — you are
+
+**English (Sahih International):** And He taught Adam the names - all of them. Then He showed them to the angels and said, "Inform Me of the names of these, if you are truthful."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس نے آدم کو سب (چیزوں کے) نام سکھائے پھر ان کو فرشتوں کے سامنے کیا اور فرمایا کہ اگر تم سچے ہو تو مجھے ان کے نام بتاؤ
+
+[Open on Quran.com](https://quran.com/2/31)
+
+#### 2:33 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ يَـٰٓـَٔادَمُ أَنۢبِئْهُم بِأَسْمَآئِهِمْ ۖ فَلَمَّآ أَنۢبَأَهُم بِأَسْمَآئِهِمْ قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ غَيْبَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنتُمْ تَكْتُمُونَ
+
+</div>
+
+**Word in this verse:** `كُنتُمْ` — you [were]
+
+**English (Sahih International):** He said, "O Adam, inform them of their names." And when he had informed them of their names, He said, "Did I not tell you that I know the unseen [aspects] of the heavens and the earth? And I know what you reveal and what you have concealed."
+
+**Urdu (Fatah Muhammad Jalandhari):** (تب) خدا نے (آدم کو) حکم دیا کہ آدم! تم ان کو ان (چیزوں) کے نام بتاؤ۔ جب انہوں نے ان کو ان کے نام بتائے تو (فرشتوں سے) فرمایا کیوں میں نے تم سے نہیں کہا تھا کہ میں آسمانوں اور زمین کی (سب) پوشیدہ باتیں جاتنا ہوں اور جو تم ظاہر کرتے ہو اور جو پوشیدہ کرتے ہو (سب) مجھ کو معلوم ہے
+
+[Open on Quran.com](https://quran.com/2/33)
+
+#### 2:34 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ وَٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `وَكَانَ` — and became
+
+**English (Sahih International):** And [mention] when We said to the angels, "Prostrate before Adam"; so they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے فرشتوں کو حکم دیا کہ آدم کے آگے سجدہ کرو تو وہ سجدے میں گر پڑے مگر شیطان نے انکار کیا اور غرور میں آکر کافر بن گیا
+
+[Open on Quran.com](https://quran.com/2/34)
+
+#### 2:35 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقُلْنَا يَـٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `فَتَكُونَا` — lest you [both] be
+
+**English (Sahih International):** And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کہا کہ اے آدم تم اور تمہاری بیوی بہشت میں رہو اور جہاں سے چاہو بے روک ٹوک کھاؤ (پیو) لیکن اس درخت کے پاس نہ جانا نہیں تو ظالموں میں (داخل) ہو جاؤ گے
+
+[Open on Quran.com](https://quran.com/2/35)
+
+#### 2:36 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَزَلَّهُمَا ٱلشَّيْطَـٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَـٰعٌ إِلَىٰ حِينٍ
+
+</div>
+
+**Word in this verse:** `كَانَا` — they [both] were
+
+**English (Sahih International):** But Satan caused them to slip out of it and removed them from that [condition] in which they had been. And We said, "Go down, [all of you], as enemies to one another, and you will have upon the earth a place of settlement and provision for a time."
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر شیطان نے دونوں کو وہاں سے پھسلا دیا اور جس (عیش ونشاط) میں تھے، اس سے ان کو نکلوا دیا۔ تب ہم نے حکم دیا کہ (بہشت بریں سے) چلے جاؤ۔ تم ایک دوسرے کے دشمن ہو، اور تمہارے لیے زمین میں ایک وقت تک ٹھکانا اور معاش (مقرر کر دیا گیا) ہے
+
+[Open on Quran.com](https://quran.com/2/36)
+
+#### 2:41 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَءَامِنُوا۟ بِمَآ أَنزَلْتُ مُصَدِّقًا لِّمَا مَعَكُمْ وَلَا تَكُونُوٓا۟ أَوَّلَ كَافِرٍۭ بِهِۦ ۖ وَلَا تَشْتَرُوا۟ بِـَٔايَـٰتِى ثَمَنًا قَلِيلًا وَإِيَّـٰىَ فَٱتَّقُونِ
+
+</div>
+
+**Word in this verse:** `تَكُونُوٓا۟` — be
+
+**English (Sahih International):** And believe in what I have sent down confirming that which is [already] with you, and be not the first to disbelieve in it. And do not exchange My signs for a small price, and fear [only] Me.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کتاب میں نے (اپنے رسول محمدﷺ پر) نازل کی ہے جو تمہاری کتاب تورات کو سچا کہتی ہے، اس پر ایمان لاؤ اور اس سے منکرِ اول نہ بنو، اور میری آیتوں میں (تحریف کر کے) ان کے بدلے تھوڑی سی قیمت (یعنی دنیاوی منعفت) نہ حاصل کرو، اور مجھی سے خوف رکھو
+
+[Open on Quran.com](https://quran.com/2/41)
+
+_…and **1139** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

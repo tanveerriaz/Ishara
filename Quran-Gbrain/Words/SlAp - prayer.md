@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "صَلاة"
+slug: "SlAp - prayer"
+surah_count: 31
+ayah_count: 78
+tags: [word, meaning]
+---
+
+# SlAp - prayer
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Slw - prayer]]
+
+### Meaning
+**prayer** · Lemma **صَلاة**
+
+### Surahs (31)
+- [[002 Al-Baqarah]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[009 At-Tawbah]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[017 Al-Isra]]
+- [[019 Maryam]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[022 Al-Hajj]]
+- [[023 Al-Muminun]]
+- [[024 An-Nur]]
+- [[027 An-Naml]]
+- [[029 Al-Ankabut]]
+- [[030 Ar-Rum]]
+- [[031 Luqman]]
+- [[033 Al-Ahzab]]
+- [[035 Fatir]]
+- [[042 Ash-Shuraa]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:3 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ
+
+</div>
+
+**Word in this verse:** `ٱلصَّلَوٰةَ` — the prayer
+
+**English (Sahih International):** Who believe in the unseen, establish prayer, and spend out of what We have provided for them,
+
+**Urdu (Fatah Muhammad Jalandhari):** جو غیب پر ایمان لاتے اور آداب کے ساتھ نماز پڑھتے اور جو کچھ ہم نے ان کو عطا فرمایا ہے اس میں سے خرچ کرتے ہیں
+
+[Open on Quran.com](https://quran.com/2/3)
+
+#### 2:43 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱرْكَعُوا۟ مَعَ ٱلرَّٰكِعِينَ
+
+</div>
+
+**Word in this verse:** `ٱلصَّلَوٰةَ` — the prayer
+
+**English (Sahih International):** And establish prayer and give zakāh and bow with those who bow [in worship and obedience].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نماز پڑھا کرو اور زکوٰة دیا کرو اور (خدا کے آگے) جھکنے والوں کے ساتھ جھکا کرو
+
+[Open on Quran.com](https://quran.com/2/43)
+
+#### 2:45 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَـٰشِعِينَ
+
+</div>
+
+**Word in this verse:** `وَٱلصَّلَوٰةِ ۚ` — and the prayer
+
+**English (Sahih International):** And seek help through patience and prayer; and indeed, it is difficult except for the humbly submissive [to Allāh]
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (رنج وتکلیف میں) صبر اور نماز سے مدد لیا کرو اور بے شک نماز گراں ہے، مگر ان لوگوں پر (گراں نہیں) جو عجز کرنے والے ہیں
+
+[Open on Quran.com](https://quran.com/2/45)
+
+#### 2:83 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ أَخَذْنَا مِيثَـٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ
+
+</div>
+
+**Word in this verse:** `ٱلصَّلَوٰةَ` — the prayer
+
+**English (Sahih International):** And [recall] when We took the covenant from the Children of Israel, [enjoining upon them], "Do not worship except Allāh; and to parents do good and to relatives, orphans, and the needy. And speak to people good [words] and establish prayer and give zakāh." Then you turned away, except a few of you, and you were refusing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے بنی اسرائیل سے عہد لیا کہ خدا کے سوا کسی کی عبادت نہ کرنا اور ماں باپ اور رشتہ داروں اور یتیموں اور محتاجوں کے ساتھ بھلائی کرتے رہنا اور لوگوں سے اچھی باتیں کہنا، اور نماز پڑھتے اور زکوٰة دیتے رہنا، تو چند شخصوں کے سوا تم سب (اس عہد سے) منہ پھیر کر پھر بیٹھے
+
+[Open on Quran.com](https://quran.com/2/83)
+
+#### 2:110 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+</div>
+
+**Word in this verse:** `ٱلصَّلَوٰةَ` — the prayer
+
+**English (Sahih International):** And establish prayer and give zakāh, and whatever good you put forward for yourselves - you will find it with Allāh. Indeed Allāh, of what you do, is Seeing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نماز ادا کرتے رہو اور زکوٰة دیتے رہو۔ اور جو بھلائی اپنے لیے آگے بھیج رکھو گے، اس کو خدا کے ہاں پا لو گے۔ کچھ شک نہیں کہ خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/2/110)
+
+#### 2:153 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ
+
+</div>
+
+**Word in this verse:** `وَٱلصَّلَوٰةِ ۚ` — and the prayer
+
+**English (Sahih International):** O you who have believed, seek help through patience and prayer. Indeed, Allāh is with the patient.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو صبر اور نماز سے مدد لیا کرو بےشک خدا صبر کرنے والوں کے ساتھ ہے
+
+[Open on Quran.com](https://quran.com/2/153)
+
+#### 2:157 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أُو۟لَـٰٓئِكَ عَلَيْهِمْ صَلَوَٰتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُهْتَدُونَ
+
+</div>
+
+**Word in this verse:** `صَلَوَٰتٌۭ` — (are) blessings
+
+**English (Sahih International):** Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are the [rightly] guided.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن پر ان کے پروردگار کی مہربانی اور رحمت ہے۔ اور یہی سیدھے رستے پر ہیں
+
+[Open on Quran.com](https://quran.com/2/157)
+
+#### 2:177 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ
+
+</div>
+
+**Word in this verse:** `ٱلصَّلَوٰةَ` — the prayer
+
+**English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+
+[Open on Quran.com](https://quran.com/2/177)
+
+#### 2:238 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+حَـٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَـٰنِتِينَ
+
+</div>
+
+**Word in this verse:** `ٱلصَّلَوَٰتِ` — the prayers
+
+**English (Sahih International):** Maintain with care the [obligatory] prayers and [in particular] the middle [i.e., ʿaṣr] prayer and stand before Allāh, devoutly obedient.
+
+**Urdu (Fatah Muhammad Jalandhari):** (مسلمانو) سب نمازیں خصوصاً بیچ کی نماز (یعنی نماز عصر) پورے التزام کے ساتھ ادا کرتے رہو۔ اور خدا کے آگے ادب سے کھڑے رہا کرو
+
+[Open on Quran.com](https://quran.com/2/238)
+
+#### 2:277 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+
+</div>
+
+**Word in this verse:** `ٱلصَّلَوٰةَ` — the prayer
+
+**English (Sahih International):** Indeed, those who believe and do righteous deeds and establish prayer and give zakāh will have their reward with their Lord, and there will be no fear concerning them, nor will they grieve.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور نیک عمل کرتے اور نماز پڑھتے اور زکوٰة دیتے رہے ان کو ان کے کاموں کا صلہ خدا کے ہاں ملے گا اور (قیامت کے دن) ان کو نہ کچھ خوف ہوا اور نہ وہ غمناک ہوں گے
+
+[Open on Quran.com](https://quran.com/2/277)
+
+_…and **68** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

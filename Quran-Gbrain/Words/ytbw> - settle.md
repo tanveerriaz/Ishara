@@ -1,0 +1,95 @@
+---
+type: word
+lemma: "يَتَبَوَّأُ"
+slug: "ytbw> - settle"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# ytbw> - settle
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[bw> - bwa]]
+
+### Meaning
+**settle** · Lemma **يَتَبَوَّأُ**
+
+### Surahs (4)
+- [[010 Yunus]]
+- [[012 Yusuf]]
+- [[039 Az-Zumar]]
+- [[059 Al-Hashr]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 10:87 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًا وَٱجْعَلُوا۟ بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `تَبَوَّءَا` — Settle
+
+**English (Sahih International):** And We inspired to Moses and his brother, "Settle your people in Egypt in houses and make your houses [facing the] qiblah and establish prayer and give good tidings to the believers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ اور اس کے بھائی کی طرف وحی بھیجی کہ اپنے لوگوں کے لیے مصر میں گھر بناؤ اور اپنے گھروں کو قبلہ (یعنی مسجدیں) ٹھہراؤ اور نماز پڑھو۔ اور مومنوں کو خوشخبری سنادو
+
+[Open on Quran.com](https://quran.com/10/87)
+
+#### 12:56 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ ۚ نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ ۖ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
+
+</div>
+
+**Word in this verse:** `يَتَبَوَّأُ` — to settle
+
+**English (Sahih International):** And thus We established Joseph in the land to settle therein wherever he willed. We touch with Our mercy whom We will, and We do not allow to be lost the reward of those who do good.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس طرح ہم نے یوسف کو ملک (مصر) میں جگہ دی اور وہ اس ملک میں جہاں چاہتے تھے رہتے تھے۔ ہم اپنی رحمت جس پر چاہتے ہیں کرتے ہیں اور نیکوکاروں کے اجر کو ضائع نہیں کرتے
+
+[Open on Quran.com](https://quran.com/12/56)
+
+#### 39:74 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى صَدَقَنَا وَعْدَهُۥ وَأَوْرَثَنَا ٱلْأَرْضَ نَتَبَوَّأُ مِنَ ٱلْجَنَّةِ حَيْثُ نَشَآءُ ۖ فَنِعْمَ أَجْرُ ٱلْعَـٰمِلِينَ
+
+</div>
+
+**Word in this verse:** `نَتَبَوَّأُ` — we may settle
+
+**English (Sahih International):** And they will say, "Praise to Allāh, who has fulfilled for us His promise and made us inherit the earth [so] we may settle in Paradise wherever we will. And excellent is the reward of [righteous] workers."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہیں گے کہ خدا کا شکر ہے جس نے اپنے وعدہ کو ہم سے سچا کردیا اور ہم کو اس زمین کا وارث بنا دیا ہم بہشت میں جس مکان میں چاہیں رہیں تو (اچھے) عمل کرنے والوں کا بدلہ بھی کیسا خوب ہے
+
+[Open on Quran.com](https://quran.com/39/74)
+
+#### 59:9 · [[059 Al-Hashr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+
+</div>
+
+**Word in this verse:** `تَبَوَّءُو` — settled
+
+**English (Sahih International):** And [also for] those who were settled in the Home [i.e.,al-Madīnah] and [adopted] the faith before them. They love those who emigrated to them and find not any want in their breasts of what they [i.e., the emigrants] were given but give [them] preference over themselves, even though they are in privation. And whoever is protected from the stinginess of his soul - it is those who will be the successful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (ان لوگوں کے لئے بھی) جو مہاجرین سے پہلے (ہجرت کے) گھر (یعنی مدینے) میں مقیم اور ایمان میں (مستقل) رہے (اور) جو لوگ ہجرت کرکے ان کے پاس آتے ہیں ان سے محبت کرتے ہیں اور جو کچھ ان کو ملا اس سے اپنے دل میں کچھ خواہش (اور خلش) نہیں پاتے اور ان کو اپنی جانوں سے مقدم رکھتے ہیں خواہ ان کو خود احتیاج ہی ہو۔ اور جو شخص حرص نفس سے بچا لیا گیا تو ایسے لوگ مراد پانے والے ہیں
+
+[Open on Quran.com](https://quran.com/59/9)
+

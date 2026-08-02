@@ -1,0 +1,180 @@
+---
+type: word
+lemma: "مَرَّ"
+slug: "mr - they pass"
+surah_count: 9
+ayah_count: 9
+tags: [word, meaning]
+---
+
+# mr - they pass
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[mrr - time]]
+
+### Meaning
+**they pass** · Lemma **مَرَّ**
+
+### Surahs (9)
+- [[002 Al-Baqarah]]
+- [[007 Al-Araf]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[012 Yusuf]]
+- [[025 Al-Furqan]]
+- [[027 An-Naml]]
+- [[037 As-Saffat]]
+- [[083 Al-Mutaffifin]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:259 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَـٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ ۖ قَالَ كَمْ لَبِثْتَ ۖ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ ۖ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ ۖ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ ۖ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا ۚ فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+
+</div>
+
+**Word in this verse:** `مَرَّ` — passed
+
+**English (Sahih International):** Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, "How will Allāh bring this to life after its death?" So Allāh caused him to die for a hundred years; then He revived him. He said, "How long have you remained?" He [the man] said, "I have remained a day or part of a day." He said, "Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh." And when it became clear to him, he said, "I know that Allāh is over all things competent."
+
+**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
+
+[Open on Quran.com](https://quran.com/2/259)
+
+#### 7:189 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا ۖ فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ ۖ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَـٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّـٰكِرِينَ
+
+</div>
+
+**Word in this verse:** `فَمَرَّتْ` — and continues
+
+**English (Sahih International):** It is He who created you from one soul and created from it its mate that he might dwell in security with her. And when he [i.e., man] covers her, she carries a light burden [i.e., a pregnancy] and continues therein. And when it becomes heavy, they both invoke Allāh, their Lord, "If You should give us a good [child], we will surely be among the grateful."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ خدا ہی تو ہے جس نے تم کو ایک شخص سے پیدا کیا اور اس سے اس کا جوڑا بنایا تاکہ اس سے راحت حاصل کرے۔ سو جب وہ اس کے پاس جاتا ہے تو اسے ہلکا سا حمل رہ جاتا ہے اور وہ اس کے ساتھ چلتی پھرتی ہے۔ پھر جب کچھ بوجھ معلوم کرتی یعنی بچہ پیٹ میں بڑا ہوتا ہے تو دونوں میاں بیوی اپنے پروردگار خدائے عزوجل سے التجا کرتے ہیں کہ اگر تو ہمیں صحیح وسالم (بچہ) دے گا تو ہم تیرے شکر گذار ہوں گے
+
+[Open on Quran.com](https://quran.com/7/189)
+
+#### 10:12 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا مَسَّ ٱلْإِنسَـٰنَ ٱلضُّرُّ دَعَانَا لِجَنۢبِهِۦٓ أَوْ قَاعِدًا أَوْ قَآئِمًا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُۥ مَرَّ كَأَن لَّمْ يَدْعُنَآ إِلَىٰ ضُرٍّ مَّسَّهُۥ ۚ كَذَٰلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا كَانُوا۟ يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `مَرَّ` — he passes on
+
+**English (Sahih International):** And when affliction touches man, he calls upon Us, whether lying on his side or sitting or standing; but when We remove from him his affliction, he continues [in disobedience] as if he had never called upon Us to [remove] an affliction that touched him. Thus is made pleasing to the transgressors that which they have been doing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب انسان کو تکلیف پہنچتی ہے تو لیٹا اور بیٹھا اور کھڑا (ہر حال میں) ہمیں پکارتا ہے۔ پھر جب ہم اس تکلیف کو اس سے دور کر دیتے ہیں تو (بےلحاظ ہو جاتا ہے اور) اس طرح گزر جاتا ہے گویا کسی تکلیف پہنچنے پر ہمیں کبھی پکارا ہی نہ تھا۔ اسی طرح حد سے نکل جانے والوں کو ان کے اعمال آراستہ کرکے دکھائے گئے ہیں
+
+[Open on Quran.com](https://quran.com/10/12)
+
+#### 11:38 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ ۚ قَالَ إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
+
+</div>
+
+**Word in this verse:** `مَرَّ` — passed
+
+**English (Sahih International):** And he constructed the ship, and whenever an assembly of the eminent of his people passed by him, they ridiculed him. He said, "If you ridicule us, then we will ridicule you just as you ridicule.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو نوح نے کشتی بنانی شروع کردی۔ اور جب ان کی قوم کے سردار ان کے پاس سے گزرتے تو ان سے تمسخر کرتے۔ وہ کہتے کہ اگر تم ہم سے تمسخر کرتے ہو تو جس طرح تم ہم سے تمسخر کرتے ہو اس طرح (ایک وقت) ہم بھی تم سے تمسخر کریں گے
+
+[Open on Quran.com](https://quran.com/11/38)
+
+#### 12:105 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَأَيِّن مِّنْ ءَايَةٍ فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ
+
+</div>
+
+**Word in this verse:** `يَمُرُّونَ` — they pass
+
+**English (Sahih International):** And how many a sign within the heavens and earth do they pass over while they, therefrom, are turning away.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور آسمان و زمین میں بہت سی نشانیاں ہیں جن پر یہ گزرتے ہیں اور ان سے اعراض کرتے ہیں
+
+[Open on Quran.com](https://quran.com/12/105)
+
+#### 25:72 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا
+
+</div>
+
+**Word in this verse:** `مَرُّوا۟` — they pass
+
+**English (Sahih International):** And [they are] those who do not testify to falsehood, and when they pass near ill speech, they pass by with dignity.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ جو جھوٹی گواہی نہیں دیتے اور جب ان کو بیہودہ چیزوں کے پاس سے گزرنے کا اتفاق ہو تو بزرگانہ انداز سے گزرتے ہیں
+
+[Open on Quran.com](https://quran.com/25/72)
+
+#### 27:88 · [[027 An-Naml]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِىَ تَمُرُّ مَرَّ ٱلسَّحَابِ ۚ صُنْعَ ٱللَّهِ ٱلَّذِىٓ أَتْقَنَ كُلَّ شَىْءٍ ۚ إِنَّهُۥ خَبِيرٌۢ بِمَا تَفْعَلُونَ
+
+</div>
+
+**Word in this verse:** `تَمُرُّ` — will pass
+
+**English (Sahih International):** And you see the mountains, thinking them motionless, while they will pass as the passing of clouds. [It is] the work of Allāh, who perfected all things. Indeed, He is Aware of that which you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم پہاڑوں کو دیکھتے ہو تو خیال کرتے ہو کہ (اپنی جگہ پر) کھڑے ہیں مگر وہ (اس روز) اس طرح اُڑے پھریں گے جیسے بادل۔ (یہ) خدا کی کاریگری ہے جس نے ہر چیز کو مضبوط بنایا۔ بےشک وہ تمہارے سب افعال سے باخبر ہے
+
+[Open on Quran.com](https://quran.com/27/88)
+
+#### 37:137 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِنَّكُمْ لَتَمُرُّونَ عَلَيْهِم مُّصْبِحِينَ
+
+</div>
+
+**Word in this verse:** `لَتَمُرُّونَ` — surely pass
+
+**English (Sahih International):** And indeed, you pass by them in the morning
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم دن کو بھی ان (کی بستیوں) کے پاس سے گزرتے رہتے ہو
+
+[Open on Quran.com](https://quran.com/37/137)
+
+#### 83:30 · [[083 Al-Mutaffifin]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا مَرُّوا۟ بِهِمْ يَتَغَامَزُونَ
+
+</div>
+
+**Word in this verse:** `مَرُّوا۟` — they passed
+
+**English (Sahih International):** And when they passed by them, they would exchange derisive glances.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کے پاس سے گزرتے تو حقارت سے اشارے کرتے
+
+[Open on Quran.com](https://quran.com/83/30)
+

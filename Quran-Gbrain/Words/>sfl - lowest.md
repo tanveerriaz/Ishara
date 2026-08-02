@@ -1,0 +1,129 @@
+---
+type: word
+lemma: "أَسْفَل"
+slug: ">sfl - lowest"
+surah_count: 6
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# >sfl - lowest
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[sfl - sfl]]
+
+### Meaning
+**lowest** · Lemma **أَسْفَل**
+
+### Surahs (6)
+- [[004 An-Nisa]]
+- [[008 Al-Anfal]]
+- [[033 Al-Ahzab]]
+- [[037 As-Saffat]]
+- [[041 Fussilat]]
+- [[095 At-Tin]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:145 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلْمُنَـٰفِقِينَ فِى ٱلدَّرْكِ ٱلْأَسْفَلِ مِنَ ٱلنَّارِ وَلَن تَجِدَ لَهُمْ نَصِيرًا
+
+</div>
+
+**Word in this verse:** `ٱلْأَسْفَلِ` — the lowest
+
+**English (Sahih International):** Indeed, the hypocrites will be in the lowest depths of the Fire - and never will you find for them a helper -
+
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ منافق لوگ دوزخ کے سب سے نیچے کے درجے میں ہوں گے۔ اور تم ان کا کسی کو مددگار نہ پاؤ گے
+
+[Open on Quran.com](https://quran.com/4/145)
+
+#### 8:42 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ أَنتُم بِٱلْعُدْوَةِ ٱلدُّنْيَا وَهُم بِٱلْعُدْوَةِ ٱلْقُصْوَىٰ وَٱلرَّكْبُ أَسْفَلَ مِنكُمْ ۚ وَلَوْ تَوَاعَدتُّمْ لَٱخْتَلَفْتُمْ فِى ٱلْمِيعَـٰدِ ۙ وَلَـٰكِن لِّيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا لِّيَهْلِكَ مَنْ هَلَكَ عَنۢ بَيِّنَةٍ وَيَحْيَىٰ مَنْ حَىَّ عَنۢ بَيِّنَةٍ ۗ وَإِنَّ ٱللَّهَ لَسَمِيعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `أَسْفَلَ` — (was) lower
+
+**English (Sahih International):** [Remember] when you were on the near side of the valley, and they were on the farther side, and the caravan was lower [in position] than you. If you had made an appointment [to meet], you would have missed the appointment. But [it was] so that Allāh might accomplish a matter already destined - that those who perished [through disbelief] would perish upon evidence and those who lived [in faith] would live upon evidence; and indeed, Allāh is Hearing and Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس وقت تم (مدینے سے) قریب کے ناکے پر تھے اور کافر بعید کے ناکے پر اور قافلہ تم سے نیچے (اتر گیا) تھا۔ اور اگر تم (جنگ کے لیے) آپس میں قرارداد کرلیتے تو وقت معین (پر جمع ہونے) میں تقدیم وتاخیر ہو جاتی۔ لیکن خدا کو منظور تھا کہ جو کام ہو کر رہنے والا تھا اسے کر ہی ڈالے تاکہ جو مرے بصیرت پر (یعنی یقین جان کر) مرے اور جو جیتا رہے وہ بھی بصیرت پر (یعنی حق پہچان کر) جیتا رہے۔ اور کچھ شک نہیں کہ خدا سنتا جانتا ہے
+
+[Open on Quran.com](https://quran.com/8/42)
+
+#### 33:10 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَـٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠
+
+</div>
+
+**Word in this verse:** `أَسْفَلَ` — below
+
+**English (Sahih International):** [Remember] when they came at you from above you and from below you, and when eyes shifted [in fear], and hearts reached the throats, and you assumed about Allāh [various] assumptions.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ تمہارے اُوپر اور نیچے کی طرف سے تم پر چڑھ آئے اور جب آنکھیں پھر گئیں اور دل (مارے دہشت کے) گلوں تک پہنچ گئے اور تم خدا کی نسبت طرح طرح کے گمان کرنے لگے
+
+[Open on Quran.com](https://quran.com/33/10)
+
+#### 37:98 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَرَادُوا۟ بِهِۦ كَيْدًا فَجَعَلْنَـٰهُمُ ٱلْأَسْفَلِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْأَسْفَلِينَ` — the lowest
+
+**English (Sahih International):** And they intended for him a plan [i.e., harm], but We made them the most debased.
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض انہوں نے ان کے ساتھ ایک چال چلنی چاہی اور ہم نے ان ہی کو زیر کردیا
+
+[Open on Quran.com](https://quran.com/37/98)
+
+#### 41:29 · [[041 Fussilat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ ٱلَّذِينَ كَفَرُوا۟ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلَّانَا مِنَ ٱلْجِنِّ وَٱلْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ ٱلْأَسْفَلِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْأَسْفَلِينَ` — the lowest
+
+**English (Sahih International):** And those who disbelieved will [then] say, "Our Lord, show us those who misled us of the jinn and men [so] we may put them under our feet that they will be among the lowest."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر کہیں گے کہ اے ہمارے پروردگار جنوں اور انسانوں میں سے جن لوگوں نے ہم کو گمراہ کیا تھا ان کو ہمیں دکھا کہ ہم ان کو اپنے پاؤں کے تلے (روند) ڈالیں تاکہ وہ نہایت ذلیل ہوں
+
+[Open on Quran.com](https://quran.com/41/29)
+
+#### 95:5 · [[095 At-Tin]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ
+
+</div>
+
+**Word in this verse:** `أَسْفَلَ` — (to the) lowest
+
+**English (Sahih International):** Then We return him to the lowest of the low,
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر (رفتہ رفتہ) اس (کی حالت) کو (بدل کر) پست سے پست کر دیا
+
+[Open on Quran.com](https://quran.com/95/5)
+

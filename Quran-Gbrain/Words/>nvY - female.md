@@ -1,0 +1,205 @@
+---
+type: word
+lemma: "أُنثَى"
+slug: ">nvY - female"
+surah_count: 16
+ayah_count: 22
+tags: [word, meaning]
+---
+
+# >nvY - female
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[>nv - female]]
+
+### Meaning
+**female** · Lemma **أُنثَى**
+
+### Surahs (16)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[013 Ar-Rad]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[035 Fatir]]
+- [[037 As-Saffat]]
+- [[040 Ghafir]]
+- [[041 Fussilat]]
+- [[042 Ash-Shuraa]]
+- [[043 Az-Zukhruf]]
+- [[049 Al-Hujurat]]
+- [[053 An-Najm]]
+- [[075 Al-Qiyamah]]
+- [[092 Al-Layl]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:178 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ۖ ٱلْحُرُّ بِٱلْحُرِّ وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ ۚ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ فَٱتِّبَاعٌۢ بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَـٰنٍ ۗ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ ۗ فَمَنِ ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ
+
+</div>
+
+**Word in this verse:** `وَٱلْأُنثَىٰ` — and the female
+
+**English (Sahih International):** O you who have believed, prescribed for you is legal retribution for those murdered - the free for the free, the slave for the slave, and the female for the female. But whoever overlooks from his brother [i.e., the killer] anything, then there should be a suitable follow-up and payment to him [i.e., the deceased's heir or legal representative] with good conduct. This is an alleviation from your Lord and a mercy. But whoever transgresses after that will have a painful punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم کو مقتولوں کے بارےمیں قصاص (یعنی خون کے بدلے خون) کا حکم دیا جاتا ہے (اس طرح پر کہ)آزاد کے بدلے آزاد (مارا جائے) اور غلام کے بدلے غلام اور عورت کے بدلے عورت اور قاتل کو اس کے (مقتول) بھائی (کے قصاص میں) سے کچھ معاف کردیا جائے تو (وارث مقتول) کو پسندیدہ طریق سے (قرار داد کی) پیروی (یعنی مطالبہٴ خون بہا) کرنا اور (قاتل کو) خوش خوئی کے ساتھ ادا کرنا چاہیئے یہ پروردگار کی طرف سے تمہارے لئے آسانی اور مہربانی ہے جو اس کے بعد زیادتی کرے اس کے لئے دکھ کا عذاب ہے
+
+[Open on Quran.com](https://quran.com/2/178)
+
+#### 3:36 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ ۖ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَـٰنِ ٱلرَّجِيمِ
+
+</div>
+
+**Word in this verse:** `أُنثَىٰ` — a female
+
+**English (Sahih International):** But when she delivered her, she said, "My Lord, I have delivered a female." And Allāh was most knowing of what she delivered, and the male is not like the female. "And I have named her Mary, and I seek refuge for her in You and [for] her descendants from Satan, the expelled [from the mercy of Allāh]."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب ان کے ہاں بچہ پیدا ہوا اور جو کچھ ان کے ہاں پیدا ہوا تھا خدا کو خوب معلوم تھا تو کہنے لگیں کہ پروردگار! میرے تو لڑکی ہوئی ہے اور (نذر کے لیے) لڑکا (موزوں تھا کہ وہ) لڑکی کی طرح (ناتواں) نہیں ہوتا اور میں نے اس کا نام مریم رکھا ہے اور میں اس کو اور اس کی اولاد کو شیطان مردود سے تیری پناہ میں دیتی ہوں
+
+[Open on Quran.com](https://quran.com/3/36)
+
+#### 3:195 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَـٰمِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ثَوَابًا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ
+
+</div>
+
+**Word in this verse:** `أُنثَىٰ ۖ` — female
+
+**English (Sahih International):** And their Lord responded to them, "Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another. So those who emigrated or were evicted from their homes or were harmed in My cause or fought or were killed - I will surely remove from them their misdeeds, and I will surely admit them to gardens beneath which rivers flow as reward from Allāh, and Allāh has with Him the best reward."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کے پرردگار نے ان کی دعا قبول کر لی (اور فرمایا) کہ میں کسی عمل کرنے والے کے عمل کو مرد ہو یا عورت ضائع نہیں کرتا تم ایک دوسرے کی جنس ہو تو جو لوگ میرے لیے وطن چھوڑ گئے اور اپنے گھروں سے نکالے گئے اور ستائے گئے اور لڑے اور قتل کیے گئے میں ان کے گناہ دور کردوں گا اور ان کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہ رہی ہیں (یہ) خدا کے ہاں سے بدلہ ہے اور خدا کے ہاں اچھا بدلہ ہے
+
+[Open on Quran.com](https://quran.com/3/195)
+
+#### 4:117 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن يَدْعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَـٰثًا وَإِن يَدْعُونَ إِلَّا شَيْطَـٰنًا مَّرِيدًا
+
+</div>
+
+**Word in this verse:** `إِنَـٰثًۭا` — female (deities)
+
+**English (Sahih International):** They call upon instead of Him none but female [deities], and they [actually] call upon none but a rebellious Satan,
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ جو خدا کے سوا پرستش کرتے ہیں تو عورتوں کی اور پکارتے ہیں تو شیطان کی سرکش ہی کو
+
+[Open on Quran.com](https://quran.com/4/117)
+
+#### 4:124 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَن يَعْمَلْ مِنَ ٱلصَّـٰلِحَـٰتِ مِن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَأُو۟لَـٰٓئِكَ يَدْخُلُونَ ٱلْجَنَّةَ وَلَا يُظْلَمُونَ نَقِيرًا
+
+</div>
+
+**Word in this verse:** `أُنثَىٰ` — female
+
+**English (Sahih International):** And whoever does righteous deeds, whether male or female, while being a believer - those will enter Paradise and will not be wronged, [even as much as] the speck on a date seed.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو نیک کام کرے گا مرد ہو یا عورت اور وہ صاحب ایمان بھی ہوگا تو ایسے لوگ بہشت میں داخل ہوں گے اور ان کی تل برابر بھی حق تلفی نہ کی جائے گی
+
+[Open on Quran.com](https://quran.com/4/124)
+
+#### 13:8 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱللَّهُ يَعْلَمُ مَا تَحْمِلُ كُلُّ أُنثَىٰ وَمَا تَغِيضُ ٱلْأَرْحَامُ وَمَا تَزْدَادُ ۖ وَكُلُّ شَىْءٍ عِندَهُۥ بِمِقْدَارٍ
+
+</div>
+
+**Word in this verse:** `أُنثَىٰ` — female
+
+**English (Sahih International):** Allāh knows what every female carries and what the wombs lose [prematurely] or exceed. And everything with Him is by due measure.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی اس بچے سے واقف ہے جو عورت کے پیٹ میں ہوتا ہے اور پیٹ کے سکڑنے اور بڑھنے سے بھی (واقف ہے)۔ اور ہر چیز کا اس کے ہاں ایک اندازہ مقرر ہے
+
+[Open on Quran.com](https://quran.com/13/8)
+
+#### 16:58 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا بُشِّرَ أَحَدُهُم بِٱلْأُنثَىٰ ظَلَّ وَجْهُهُۥ مُسْوَدًّا وَهُوَ كَظِيمٌ
+
+</div>
+
+**Word in this verse:** `بِٱلْأُنثَىٰ` — of a female
+
+**English (Sahih International):** And when one of them is informed of [the birth of] a female, his face becomes dark, and he suppresses grief.
+
+**Urdu (Fatah Muhammad Jalandhari):** حالانکہ جب ان میں سے کسی کو بیٹی (کے پیدا ہونے) کی خبر ملتی ہے تو اس کا منہ (غم کے سبب) کالا پڑ جاتا ہے اور (اس کے دل کو دیکھو تو) وہ اندوہناک ہوجاتا ہے
+
+[Open on Quran.com](https://quran.com/16/58)
+
+#### 16:97 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَنْ عَمِلَ صَـٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُۥ حَيَوٰةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `أُنثَىٰ` — female
+
+**English (Sahih International):** Whoever does righteousness, whether male or female, while he is a believer - We will surely cause him to live a good life, and We will surely give them their reward [in the Hereafter] according to the best of what they used to do.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص نیک اعمال کرے گا مرد ہو یا عورت وہ مومن بھی ہوگا تو ہم اس کو (دنیا میں) پاک (اور آرام کی) زندگی سے زندہ رکھیں گے اور (آخرت میں) اُن کے اعمال کا نہایت اچھا صلہ دیں گے
+
+[Open on Quran.com](https://quran.com/16/97)
+
+#### 17:40 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَفَأَصْفَىٰكُمْ رَبُّكُم بِٱلْبَنِينَ وَٱتَّخَذَ مِنَ ٱلْمَلَـٰٓئِكَةِ إِنَـٰثًا ۚ إِنَّكُمْ لَتَقُولُونَ قَوْلًا عَظِيمًا
+
+</div>
+
+**Word in this verse:** `إِنَـٰثًا ۚ` — daughters
+
+**English (Sahih International):** Then, has your Lord chosen you for [having] sons and taken [i.e., adopted] from among the angels daughters? Indeed, you say a grave saying.
+
+**Urdu (Fatah Muhammad Jalandhari):** (مشرکو!) کیا تمہارے پروردگار نے تم کو لڑکے دیئے اور خود فرشتوں کو بیٹیاں بنایا۔ کچھ شک نہیں کہ (یہ) تم بڑی (نامعقول بات) کہتے ہو
+
+[Open on Quran.com](https://quran.com/17/40)
+
+#### 35:11 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱللَّهُ خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَٰجًا ۚ وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ ۚ وَمَا يُعَمَّرُ مِن مُّعَمَّرٍ وَلَا يُنقَصُ مِنْ عُمُرِهِۦٓ إِلَّا فِى كِتَـٰبٍ ۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
+
+</div>
+
+**Word in this verse:** `أُنثَىٰ` — female
+
+**English (Sahih International):** And Allāh created you from dust, then from a sperm-drop; then He made you mates. And no female conceives nor does she give birth except with His knowledge. And no aged person is granted [additional] life nor is his lifespan lessened but that it is in a register. Indeed, that for Allāh is easy.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تم کو مٹی سے پیدا کیا پھر نطفے سے پھر تم کو جوڑا جوڑا بنا دیا۔ اور کوئی عورت نہ حاملہ ہوتی ہے اور نہ جنتی ہے مگر اس کے علم سے۔ اور نہ کسی بڑی عمر والے کو عمر زیادہ دی جاتی ہے اور نہ اس کی عمر کم کی جاتی ہے مگر (سب کچھ) کتاب میں (لکھا ہوا) ہے۔ بےشک یہ خدا کو آسان ہے
+
+[Open on Quran.com](https://quran.com/35/11)
+
+_…and **12** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

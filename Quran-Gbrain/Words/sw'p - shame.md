@@ -1,0 +1,126 @@
+---
+type: word
+lemma: "سَوْءَة"
+slug: "sw'p - shame"
+surah_count: 3
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# sw'p - shame
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[sw> - swa]]
+
+### Meaning
+**shame** · Lemma **سَوْءَة**
+
+### Surahs (3)
+- [[005 Al-Maidah]]
+- [[007 Al-Araf]]
+- [[020 Taha]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 5:31 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ ۚ قَالَ يَـٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَـٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى ۖ فَأَصْبَحَ مِنَ ٱلنَّـٰدِمِينَ
+
+</div>
+
+**Word in this verse:** `سَوْءَةَ` — (the) dead body
+
+**English (Sahih International):** Then Allāh sent a crow searching [i.e., scratching] in the ground to show him how to hide the disgrace of his brother. He said, "O woe to me! Have I failed to be like this crow and hide the disgrace [i.e., body] of my brother?" And he became of the regretful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اب خدا نے ایک کوّا بھیجا جو زمین کریدنے لگا تاکہ اسے دکھائے کہ اپنے بھائی کی لاش کو کیونکر چھپائے کہنے لگا اے ہے مجھ سے اتنا بھی نہ ہو سکا کہ اس کوے کے برابر ہوتا کہ اپنے بھائی کی لاش چھپا دیتا پھر وہ پشیمان ہوا
+
+[Open on Quran.com](https://quran.com/5/31)
+
+#### 7:20 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَوَسْوَسَ لَهُمَا ٱلشَّيْطَـٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنْ هَـٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيْنِ أَوْ تَكُونَا مِنَ ٱلْخَـٰلِدِينَ
+
+</div>
+
+**Word in this verse:** `سَوْءَٰتِهِمَا` — their shame
+
+**English (Sahih International):** But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, "Your Lord did not forbid you this tree except that you become angels or become of the immortal."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو شیطان دونوں کو بہکانے لگا تاکہ ان کی ستر کی چیزیں جو ان سے پوشیدہ تھیں کھول دے اور کہنے لگا کہ تم کو تمہارے پروردگار نے اس درخت سے صرف اس لیے منع کیا ہے کہ کہ تم فرشتے نہ بن جاؤ یا ہمیشہ جیتے نہ رہو
+
+[Open on Quran.com](https://quran.com/7/20)
+
+#### 7:22 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَدَلَّىٰهُمَا بِغُرُورٍ ۚ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ ۖ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَـٰنَ لَكُمَا عَدُوٌّ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `سَوْءَٰتُهُمَا` — their shame
+
+**English (Sahih International):** So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, "Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?"
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض (مردود نے) دھوکہ دے کر ان کو (معصیت کی طرف) کھینچ ہی لیا جب انہوں نے اس درخت (کے پھل) کو کھا لیا تو ان کی ستر کی چیزیں کھل گئیں اور وہ بہشت کے (درختوں کے) پتے توڑ توڑ کر اپنے اوپر چپکانے لگے اور (ستر چھپانے لگے) تب ان کے پروردگار نے ان کو پکارا کہ کیا میں نے تم کو اس درخت (کے پاس جانے) سے منع نہیں کیا تھا اور جتا نہیں دیا تھا کہ شیطان تمہارا کھلم کھلا دشمن ہے
+
+[Open on Quran.com](https://quran.com/7/22)
+
+#### 7:26 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰبَنِىٓ ءَادَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَٰرِى سَوْءَٰتِكُمْ وَرِيشًا ۖ وَلِبَاسُ ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌ ۚ ذَٰلِكَ مِنْ ءَايَـٰتِ ٱللَّهِ لَعَلَّهُمْ يَذَّكَّرُونَ
+
+</div>
+
+**Word in this verse:** `سَوْءَٰتِكُمْ` — your shame
+
+**English (Sahih International):** O children of Adam, We have bestowed upon you clothing to conceal your private parts and as adornment. But the clothing of righteousness - that is best. That is from the signs of Allāh that perhaps they will remember.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی آدم ہم نے تم پر پوشاک اتاری کہ تمہارا ستر ڈھانکے اور (تمہارے بدن کو) زینت (دے) اور (جو) پرہیزگاری کا لباس (ہے) وہ سب سے اچھا ہے۔ یہ خدا کی نشانیاں ہیں تاکہ لوگ نصحیت پکڑ یں
+
+[Open on Quran.com](https://quran.com/7/26)
+
+#### 7:27 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰبَنِىٓ ءَادَمَ لَا يَفْتِنَنَّكُمُ ٱلشَّيْطَـٰنُ كَمَآ أَخْرَجَ أَبَوَيْكُم مِّنَ ٱلْجَنَّةِ يَنزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْءَٰتِهِمَآ ۗ إِنَّهُۥ يَرَىٰكُمْ هُوَ وَقَبِيلُهُۥ مِنْ حَيْثُ لَا تَرَوْنَهُمْ ۗ إِنَّا جَعَلْنَا ٱلشَّيَـٰطِينَ أَوْلِيَآءَ لِلَّذِينَ لَا يُؤْمِنُونَ
+
+</div>
+
+**Word in this verse:** `سَوْءَٰتِهِمَآ ۗ` — their shame
+
+**English (Sahih International):** O children of Adam, let not Satan tempt you as he removed your parents from Paradise, stripping them of their clothing to show them their private parts. Indeed, he sees you, he and his tribe, from where you do not see them. Indeed, We have made the devils allies to those who do not believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے نبی آدم (دیکھنا کہیں) شیطان تمہیں بہکا نہ دے جس طرح تمہارے ماں باپ کو (بہکا کر) بہشت سے نکلوا دیا اور ان سے ان کے کپڑے اتروا دیئے تاکہ ان کے ستر ان کو کھول کر دکھا دے۔ وہ اور اس کے بھائی تم کو ایسی جگہ سے دیکھتے رہے ہیں جہاں سے تم ان کو نہیں دیکھ سکتے ہم نے شیطانوں کو انہیں لوگوں کا رفیق کار بنایا ہے جو ایمان نہیں رکھتے
+
+[Open on Quran.com](https://quran.com/7/27)
+
+#### 20:121 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ ۚ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ
+
+</div>
+
+**Word in this verse:** `سَوْءَٰتُهُمَا` — their shame
+
+**English (Sahih International):** And they [i.e., Adam and his wife] ate of it, and their private parts became apparent to them, and they began to fasten over themselves from the leaves of Paradise. And Adam disobeyed his Lord and erred.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو دونوں نے اس درخت کا پھل کھا لیا تو ان پر ان کی شرمگاہیں ظاہر ہوگئیں اور وہ اپنے (بدنوں) پر بہشت کے پتّے چپکانے لگے۔ اور آدم نے اپنے پروردگار کے حکم خلاف کیا تو (وہ اپنے مطلوب سے) بےراہ ہو گئے
+
+[Open on Quran.com](https://quran.com/20/121)
+

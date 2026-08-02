@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "اسْتَخَفَّ"
+slug: "Astxf - you find light"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# Astxf - you find light
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[xff - light make something]]
+
+### Meaning
+**you find light** · Lemma **اسْتَخَفَّ**
+
+### Surahs (3)
+- [[016 An-Nahl]]
+- [[030 Ar-Rum]]
+- [[043 Az-Zukhruf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 16:80 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱللَّهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمْ سَكَنًا وَجَعَلَ لَكُم مِّن جُلُودِ ٱلْأَنْعَـٰمِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ ۙ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَآ أَثَـٰثًا وَمَتَـٰعًا إِلَىٰ حِينٍ
+
+</div>
+
+**Word in this verse:** `تَسْتَخِفُّونَهَا` — which you find light
+
+**English (Sahih International):** And Allāh has made for you from your homes a place of rest and made for you from the hides of the animals tents which you find light on your day of travel and your day of encampment; and from their wool, fur and hair is furnishing and enjoyment [i.e., provision] for a time.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تمہارے لیے گھروں کو رہنے کی جگہ بنایا اور اُسی نے چوپایوں کی کھالوں سے تمہارے لیے ڈیرے بنائے۔ جن کو تم سبک دیکھ کر سفر اور حضر میں کام میں لاتے ہو اور اُن کی اون، پشم اور بالوں سے تم اسباب اور برتنے کی چیزیں (بناتے ہو جو) مدت تک (کام دیتی ہیں)
+
+[Open on Quran.com](https://quran.com/16/80)
+
+#### 30:60 · [[030 Ar-Rum]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ
+
+</div>
+
+**Word in this verse:** `يَسْتَخِفَّنَّكَ` — take you in light estimation
+
+**English (Sahih International):** So be patient. Indeed, the promise of Allāh is truth. And let them not disquiet you who are not certain [in faith].
+
+**Urdu (Fatah Muhammad Jalandhari):** پس تم صبر کرو بیشک خدا کا وعدہ سچا ہے اور( دیکھو) جو لوگ یقین نہیں رکھتے وہ تمہیں اوچھا نہ بنادیں
+
+[Open on Quran.com](https://quran.com/30/60)
+
+#### 43:54 · [[043 Az-Zukhruf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱسْتَخَفَّ قَوْمَهُۥ فَأَطَاعُوهُ ۚ إِنَّهُمْ كَانُوا۟ قَوْمًا فَـٰسِقِينَ
+
+</div>
+
+**Word in this verse:** `فَٱسْتَخَفَّ` — So he bluffed
+
+**English (Sahih International):** So he bluffed his people, and they obeyed him. Indeed, they were [themselves] a people defiantly disobedient [of Allāh].
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض اس نے اپنی قوم کی عقل مار دی۔ اور انہوں نے اس کی بات مان لی۔ بےشک وہ نافرمان لوگ تھے
+
+[Open on Quran.com](https://quran.com/43/54)
+

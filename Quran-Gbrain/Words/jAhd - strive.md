@@ -1,0 +1,202 @@
+---
+type: word
+lemma: "جاهَدَ"
+slug: "jAhd - strive"
+surah_count: 13
+ayah_count: 26
+tags: [word, meaning]
+---
+
+# jAhd - strive
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[jhd - strive]]
+
+### Meaning
+**strive** · Lemma **جاهَدَ**
+
+### Surahs (13)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[005 Al-Maidah]]
+- [[008 Al-Anfal]]
+- [[009 At-Tawbah]]
+- [[016 An-Nahl]]
+- [[022 Al-Hajj]]
+- [[025 Al-Furqan]]
+- [[029 Al-Ankabut]]
+- [[031 Luqman]]
+- [[049 Al-Hujurat]]
+- [[061 As-Saf]]
+- [[066 At-Tahrim]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:218 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَاجَرُوا۟ وَجَـٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ أُو۟لَـٰٓئِكَ يَرْجُونَ رَحْمَتَ ٱللَّهِ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `وَجَـٰهَدُوا۟` — and strove
+
+**English (Sahih International):** Indeed, those who have believed and those who have emigrated and fought in the cause of Allāh - those expect the mercy of Allāh. And Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور خدا کے لئے وطن چھوڑ گئے اور (کفار سے) جنگ کرتے رہے وہی خدا کی رحمت کے امیدوار ہیں۔ اور خدا بخشنے والا (اور) رحمت کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/2/218)
+
+#### 3:142 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَـٰهَدُوا۟ مِنكُمْ وَيَعْلَمَ ٱلصَّـٰبِرِينَ
+
+</div>
+
+**Word in this verse:** `جَـٰهَدُوا۟` — strove hard
+
+**English (Sahih International):** Or do you think that you will enter Paradise while Allāh has not yet made evident those of you who fight in His cause and made evident those who are steadfast?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم یہ سمجھتے ہو کہ (بےآزمائش) بہشت میں جا داخل ہو گے حالانکہ ابھی خدا نے تم میں سے جہاد کرنے والوں کو تو اچھی طرح معلوم کیا ہی نہیں اور (یہ بھی مقصود ہے) کہ وہ ثابت قدم رہنے والوں کو معلوم کرے
+
+[Open on Quran.com](https://quran.com/3/142)
+
+#### 5:35 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَٱبْتَغُوٓا۟ إِلَيْهِ ٱلْوَسِيلَةَ وَجَـٰهِدُوا۟ فِى سَبِيلِهِۦ لَعَلَّكُمْ تُفْلِحُونَ
+
+</div>
+
+**Word in this verse:** `وَجَـٰهِدُوا۟` — and strive hard
+
+**English (Sahih International):** O you who have believed, fear Allāh and seek the means [of nearness] to Him and strive in His cause that you may succeed.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! خدا سے ڈرتے رہو اور اس کا قرب حاصل کرنے کا ذریعہ تلاش کرتے رہو اور اس کے رستے میں جہاد کرو تاکہ رستگاری پاؤ
+
+[Open on Quran.com](https://quran.com/5/35)
+
+#### 5:54 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِۦ فَسَوْفَ يَأْتِى ٱللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ أَذِلَّةٍ عَلَى ٱلْمُؤْمِنِينَ أَعِزَّةٍ عَلَى ٱلْكَـٰفِرِينَ يُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَآئِمٍ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `يُجَـٰهِدُونَ` — striving
+
+**English (Sahih International):** O you who have believed, whoever of you should revert from his religion - Allāh will bring forth [in place of them] a people He will love and who will love Him [who are] humble toward the believers, strong against the disbelievers; they strive in the cause of Allāh and do not fear the blame of a critic. That is the favor of Allāh; He bestows it upon whom He wills. And Allāh is all-Encompassing and Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو اگر کوئی تم میں سے اپنے دین سے پھر جائے گا تو خدا ایسے لوگ پیدا کر دے گا جن کو وہ دوست رکھے اور جسے وہ دوست رکھیں اور جو مومنوں کے حق میں نرمی کریں اور کافروں سے سختی سے پیش آئیں خدا کی راہ میں جہاد کریں اور کسی ملامت کرنے والی کی ملامت سے نہ ڈریں یہ خدا کا فضل ہے وہ جسے چاہتا ہے دیتا ہے اور الله بڑی کشائش والا اور جاننے والا ہے
+
+[Open on Quran.com](https://quran.com/5/54)
+
+#### 8:72 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَوا۟ وَّنَصَرُوٓا۟ أُو۟لَـٰٓئِكَ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۚ وَٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يُهَاجِرُوا۟ مَا لَكُم مِّن وَلَـٰيَتِهِم مِّن شَىْءٍ حَتَّىٰ يُهَاجِرُوا۟ ۚ وَإِنِ ٱسْتَنصَرُوكُمْ فِى ٱلدِّينِ فَعَلَيْكُمُ ٱلنَّصْرُ إِلَّا عَلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَـٰقٌ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+</div>
+
+**Word in this verse:** `وَجَـٰهَدُوا۟` — and strove hard
+
+**English (Sahih International):** Indeed, those who have believed and emigrated and fought with their wealth and lives in the cause of Allāh and those who gave shelter and aided - they are allies of one another. But those who believed and did not emigrate - for you there is no support of them until they emigrate. And if they seek help of you for the religion, then you must help, except against a people between yourselves and whom is a treaty. And Allāh is Seeing of what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور وطن سے ہجرت کر گئے اور خدا کی راہ میں اپنے مال اور جان سے لڑے وہ اور جنہوں نے (ہجرت کرنے والوں کو) جگہ دی اور ان کی مدد کی وہ آپس میں ایک دوسرے کے رفیق ہیں۔ اور جو لوگ ایمان تو لے آئے لیکن ہجرت نہیں کی تو جب تک وہ ہجرت نہ کریں تم کو ان کی رفاقت سے کچھ سروکار نہیں۔ اور اگر وہ تم سے دین (کے معاملات) میں مدد طلب کریں تو تم کو مدد کرنی لازم ہوگی۔ مگر ان لوگوں کے مقابلے میں کہ تم میں اور ان میں (صلح کا) عہد ہو (مدد نہیں کرنی چاہیئے) اور خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/8/72)
+
+#### 8:74 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَوا۟ وَّنَصَرُوٓا۟ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُؤْمِنُونَ حَقًّا ۚ لَّهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
+
+</div>
+
+**Word in this verse:** `وَجَـٰهَدُوا۟` — and strove hard
+
+**English (Sahih International):** But those who have believed and emigrated and fought in the cause of Allāh and those who gave shelter and aided - it is they who are the believers, truly. For them is forgiveness and noble provision.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور وطن سے ہجرت کر گئے اور خدا کی راہ میں لڑائیاں کرتے رہے اور جنہوں نے (ہجرت کرنے والوں کو) جگہ دی اور ان کی مدد کی۔ یہی لوگ سچے مسلمان ہیں۔ ان کے لیے (خدا کے ہاں) بخشش اور عزت کی روزی ہے
+
+[Open on Quran.com](https://quran.com/8/74)
+
+#### 8:75 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ ءَامَنُوا۟ مِنۢ بَعْدُ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ مَعَكُمْ فَأُو۟لَـٰٓئِكَ مِنكُمْ ۚ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِى كِتَـٰبِ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌۢ
+
+</div>
+
+**Word in this verse:** `وَجَـٰهَدُوا۟` — and strove hard
+
+**English (Sahih International):** And those who believed after [the initial emigration] and emigrated and fought with you - they are of you. But those of [blood] relationship are more entitled [to inheritance] in the decree of Allāh. Indeed, Allāh is Knowing of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ بعد میں ایمان لائے اور وطن سے ہجرت کرگئے اور تمہارے ساتھ ہو کر جہاد کرتے رہے وہ بھی تم ہی میں سے ہیں۔ اور رشتہ دار خدا کے حکم کی رو سے ایک دوسرے کے زیادہ حقدار ہیں۔ کچھ شک نہیں کہ خدا ہر چیز سے واقف ہے
+
+[Open on Quran.com](https://quran.com/8/75)
+
+#### 9:16 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمْ حَسِبْتُمْ أَن تُتْرَكُوا۟ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَـٰهَدُوا۟ مِنكُمْ وَلَمْ يَتَّخِذُوا۟ مِن دُونِ ٱللَّهِ وَلَا رَسُولِهِۦ وَلَا ٱلْمُؤْمِنِينَ وَلِيجَةً ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `جَـٰهَدُوا۟` — strive
+
+**English (Sahih International):** Do you think that you will be left [as you are] while Allāh has not yet made evident those among you who strive [for His cause] and do not take other than Allāh, His Messenger and the believers as intimates? And Allāh is [fully] Aware of what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم لوگ یہ خیال کرتے ہو کہ (بےآزمائش) چھوڑ دیئے جاؤ گے اور ابھی خدا نے ایسے لوگوں کو متمیز کیا ہی نہیں جنہوں نے تم میں سے جہاد کئے اور خدا اور اس کے رسول اور مومنوں کے سوا کسی کو دلی دوست نہیں بنایا۔ اور خدا تمہارے سب کاموں سے واقف ہے
+
+[Open on Quran.com](https://quran.com/9/16)
+
+#### 9:19 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ أَجَعَلْتُمْ سِقَايَةَ ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَجَـٰهَدَ فِى سَبِيلِ ٱللَّهِ ۚ لَا يَسْتَوُۥنَ عِندَ ٱللَّهِ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `وَجَـٰهَدَ` — and strives
+
+**English (Sahih International):** Have you made the providing of water for the pilgrim and the maintenance of al-Masjid al-Ḥarām equal to [the deeds of] one who believes in Allāh and the Last Day and strives in the cause of Allāh? They are not equal in the sight of Allāh. And Allāh does not guide the wrongdoing people.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے حاجیوں کو پانی پلانا اور مسجد محترم یعنی (خانہٴ کعبہ) کو آباد کرنا اس شخص کے اعمال جیسا خیال کیا ہے جو خدا اور روز آخرت پر ایمان رکھتا ہے اور خدا کی راہ میں جہاد کرتا ہے۔ یہ لوگ خدا کے نزدیک برابر نہیں ہیں۔ اور خدا ظالم لوگوں کو ہدایت نہیں دیا کرتا
+
+[Open on Quran.com](https://quran.com/9/19)
+
+#### 9:20 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ ٱللَّهِ ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَآئِزُونَ
+
+</div>
+
+**Word in this verse:** `وَجَـٰهَدُوا۟` — and strove
+
+**English (Sahih International):** The ones who have believed, emigrated and striven in the cause of Allāh with their wealth and their lives are greater in rank in the sight of Allāh. And it is those who are the attainers [of success].
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور وطن چھوڑ گئے اور خدا کی راہ میں مال اور جان سے جہاد کرتے رہے۔ خدا کے ہاں ان کے درجے بہت بڑے ہیں۔ اور وہی مراد کو پہنچنے والے ہیں
+
+[Open on Quran.com](https://quran.com/9/20)
+
+_…and **16** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

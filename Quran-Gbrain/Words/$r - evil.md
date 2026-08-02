@@ -1,0 +1,210 @@
+---
+type: word
+lemma: "شَرّ"
+slug: "$r - evil"
+surah_count: 21
+ayah_count: 29
+tags: [word, meaning]
+---
+
+# $r - evil
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[$rr - sparks fire]]
+
+### Meaning
+**evil** · Lemma **شَرّ**
+
+### Surahs (21)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[005 Al-Maidah]]
+- [[008 Al-Anfal]]
+- [[010 Yunus]]
+- [[012 Yusuf]]
+- [[017 Al-Isra]]
+- [[019 Maryam]]
+- [[021 Al-Anbya]]
+- [[022 Al-Hajj]]
+- [[024 An-Nur]]
+- [[025 Al-Furqan]]
+- [[038 Sad]]
+- [[041 Fussilat]]
+- [[070 Al-Maarij]]
+- [[072 Al-Jinn]]
+- [[076 Al-Insan]]
+- [[098 Al-Bayyinah]]
+- [[099 Az-Zalzalah]]
+- [[113 Al-Falaq]]
+- [[114 An-Nas]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:216 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًٔا وَهُوَ شَرٌّ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `شَرٌّۭ` — (is) bad
+
+**English (Sahih International):** Battle has been enjoined upon you while it is hateful to you. But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allāh knows, while you know not.
+
+**Urdu (Fatah Muhammad Jalandhari):** (مسلمانو) تم پر (خدا کے رستے میں) لڑنا فرض کردیا گیا ہے وہ تمہیں ناگوار تو ہوگا مگر عجب نہیں کہ ایک چیز تم کو بری لگے اور وہ تمہارے حق میں بھلی ہو اور عجب نہیں کہ ایک چیز تم کو بھلی لگے اور وہ تمہارے لئے مضر ہو۔ اور ان باتوں کو) خدا ہی بہتر جانتا ہے اور تم نہیں جانتے
+
+[Open on Quran.com](https://quran.com/2/216)
+
+#### 3:180 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا يَحْسَبَنَّ ٱلَّذِينَ يَبْخَلُونَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ هُوَ خَيْرًا لَّهُم ۖ بَلْ هُوَ شَرٌّ لَّهُمْ ۖ سَيُطَوَّقُونَ مَا بَخِلُوا۟ بِهِۦ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+
+</div>
+
+**Word in this verse:** `شَرٌّۭ` — (is) bad
+
+**English (Sahih International):** And let not those who [greedily] withhold what Allāh has given them of His bounty ever think that it is better for them. Rather, it is worse for them. Their necks will be encircled by what they withheld on the Day of Resurrection. And to Allāh belongs the heritage of the heavens and the earth. And Allāh, of what you do, is [fully] Aware.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ مال میں جو خدا نے اپنے فضل سے ان کو عطا فرمایا ہے بخل کرتے ہیں وہ اس بخل کو اپنے حق میں اچھا نہ سمجھیں۔ (وہ اچھا نہیں) بلکہ ان کے لئے برا ہے وہ جس مال میں بخل کرتے ہیں قیامت کے دن اس کا طوق بنا کر ان کی گردنوں میں ڈالا جائے گا۔ اور آسمانوں اور زمین کا وارث خدا ہی ہے۔ اور جو عمل تم کرتے ہوخدا کو معلوم ہے
+
+[Open on Quran.com](https://quran.com/3/180)
+
+#### 5:60 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ ۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّـٰغُوتَ ۚ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ
+
+</div>
+
+**Word in this verse:** `بِشَرٍّۢ` — (of) worse
+
+**English (Sahih International):** Say, "Shall I inform you of [what is] worse than that as penalty from Allāh? [It is that of] those whom Allāh has cursed and with whom He became angry and made of them apes and pigs and slaves of ṭāghūt. Those are worse in position and further astray from the sound way."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ میں تمہیں بتاؤں کہ خدا کے ہاں اس سے بھی بدتر جزا پانے والے کون ہیں؟ وہ لوگ ہیں جن پر خدا نے لعنت کی اور جن پر وہ غضبناک ہوا اور (جن کو) ان میں سے بندر اور سور بنا دیا اور جنہوں نے شیطان کی پرستش کی ایسے لوگوں کا برا ٹھکانہ ہے اور وہ سیدھے رستے سے بہت دور ہیں
+
+[Open on Quran.com](https://quran.com/5/60)
+
+#### 8:22 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلْبُكْمُ ٱلَّذِينَ لَا يَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `شَرَّ` — worst
+
+**English (Sahih International):** Indeed, the worst of living creatures in the sight of Allāh are the deaf and dumb who do not use reason [i.e., the disbelievers].
+
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ خدا کے نزدیک تمام جانداروں سے بدتر بہرے گونگے ہیں جو کچھ نہیں سمجھتے
+
+[Open on Quran.com](https://quran.com/8/22)
+
+#### 8:55 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلَّذِينَ كَفَرُوا۟ فَهُمْ لَا يُؤْمِنُونَ
+
+</div>
+
+**Word in this verse:** `شَرَّ` — (the) worst
+
+**English (Sahih International):** Indeed, the worst of living creatures in the sight of Allāh are those who have disbelieved, and they will not [ever] believe-
+
+**Urdu (Fatah Muhammad Jalandhari):** جانداروں میں سب سے بدتر خدا کے نزدیک وہ لوگ ہیں جو کافر ہیں سو وہ ایمان نہیں لاتے
+
+[Open on Quran.com](https://quran.com/8/55)
+
+#### 10:11 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَلَوْ يُعَجِّلُ ٱللَّهُ لِلنَّاسِ ٱلشَّرَّ ٱسْتِعْجَالَهُم بِٱلْخَيْرِ لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ ۖ فَنَذَرُ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ
+
+</div>
+
+**Word in this verse:** `ٱلشَّرَّ` — the evil
+
+**English (Sahih International):** And if Allāh was to hasten for the people the evil [they invoke] as He hastens for them the good, their term would have been ended for them. But We leave the ones who do not expect the meeting with Us, in their transgression, wandering blindly.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا لوگوں کی برائی میں جلدی کرتا جس طرح وہ طلب خیر میں جلدی کرتے ہیں۔ تو ان کی (عمر کی) میعاد پوری ہوچکی ہوتی سو جن لوگوں کو ہم سے ملنے کی توقع نہیں انہیں ہم چھوڑے رکھتے ہیں کہ اپنی سرکشی میں بہکتے رہیں
+
+[Open on Quran.com](https://quran.com/10/11)
+
+#### 12:77 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُۥ مِن قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنتُمْ شَرٌّ مَّكَانًا ۖ وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ
+
+</div>
+
+**Word in this verse:** `شَرٌّۭ` — (are the) worse
+
+**English (Sahih International):** They said, "If he steals - a brother of his has stolen before." But Joseph kept it within himself and did not reveal it to them. He said, "You are worse in position, and Allāh is most knowing of what you describe."
+
+**Urdu (Fatah Muhammad Jalandhari):** (برادران یوسف نے) کہا کہ اگر اس نے چوری کی ہو تو (کچھ عجب نہیں کہ) اس کے ایک بھائی نے بھی پہلے چوری کی تھی یوسف نے اس بات کو اپنے دل میں مخفی رکھا اور ان پر ظاہر نہ ہونے دیا (اور) کہا کہ تم بڑے بدقماش ہو۔ اور جو تم بیان کرتے ہو خدا اسے خوب جانتا ہے
+
+[Open on Quran.com](https://quran.com/12/77)
+
+#### 17:11 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَدْعُ ٱلْإِنسَـٰنُ بِٱلشَّرِّ دُعَآءَهُۥ بِٱلْخَيْرِ ۖ وَكَانَ ٱلْإِنسَـٰنُ عَجُولًا
+
+</div>
+
+**Word in this verse:** `بِٱلشَّرِّ` — for evil
+
+**English (Sahih International):** And man supplicates for evil [when angry] as he supplicates for good, and man is ever hasty.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور انسان جس طرح (جلدی سے) بھلائی مانگتا ہے اسی طرح برائی مانگتا ہے۔ اور انسان جلد باز (پیدا ہوا) ہے
+
+[Open on Quran.com](https://quran.com/17/11)
+
+#### 17:83 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَـٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ ۖ وَإِذَا مَسَّهُ ٱلشَّرُّ كَانَ يَـُٔوسًا
+
+</div>
+
+**Word in this verse:** `ٱلشَّرُّ` — the evil
+
+**English (Sahih International):** And when We bestow favor upon man [i.e., the disbeliever], he turns away and distances himself; and when evil touches him, he is ever despairing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم انسان کو نعمت بخشتے ہیں تو ردگرداں ہوجاتا اور پہلو پھیر لیتا ہے۔ اور جب اسے سختی پہنچتی ہے تو ناامید ہوجاتا ہے
+
+[Open on Quran.com](https://quran.com/17/83)
+
+#### 19:75 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ مَن كَانَ فِى ٱلضَّلَـٰلَةِ فَلْيَمْدُدْ لَهُ ٱلرَّحْمَـٰنُ مَدًّا ۚ حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ إِمَّا ٱلْعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَيَعْلَمُونَ مَنْ هُوَ شَرٌّ مَّكَانًا وَأَضْعَفُ جُندًا
+
+</div>
+
+**Word in this verse:** `شَرٌّۭ` — (is) worst
+
+**English (Sahih International):** Say, "Whoever is in error - let the Most Merciful extend for him an extension [in wealth and time] until, when they see that which they were promised - either punishment [in this world] or the Hour [of resurrection] - they will come to know who is worst in position and weaker in soldiers."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ جو شخص گمراہی میں پڑا ہوا ہے خدا اس کو آہستہ آہستہ مہلت دیئے جاتا ہے۔ یہاں تک کہ جب اس چیز کو دیکھ لیں گے جس کا ان سے وعدہ کیا جاتا ہے خواہ عذاب اور خواہ قیامت۔ تو (اس وقت) جان لیں گے کہ مکان کس کا برا ہے اور لشکر کس کا کمزور ہے
+
+[Open on Quran.com](https://quran.com/19/75)
+
+_…and **19** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

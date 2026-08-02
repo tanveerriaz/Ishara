@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "مُتَّخِذ"
+slug: "mtx* - take"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# mtx* - take
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[>x* - take]]
+
+### Meaning
+**take** · Lemma **مُتَّخِذ**
+
+### Surahs (3)
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[018 Al-Kahf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:25 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ ٱلْمُحْصَنَـٰتِ ٱلْمُؤْمِنَـٰتِ فَمِن مَّا مَلَكَتْ أَيْمَـٰنُكُم مِّن فَتَيَـٰتِكُمُ ٱلْمُؤْمِنَـٰتِ ۚ وَٱللَّهُ أَعْلَمُ بِإِيمَـٰنِكُم ۚ بَعْضُكُم مِّنۢ بَعْضٍ ۚ فَٱنكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ مُحْصَنَـٰتٍ غَيْرَ مُسَـٰفِحَـٰتٍ وَلَا مُتَّخِذَٰتِ أَخْدَانٍ ۚ فَإِذَآ أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَـٰحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى ٱلْمُحْصَنَـٰتِ مِنَ ٱلْعَذَابِ ۚ ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ مِنكُمْ ۚ وَأَن تَصْبِرُوا۟ خَيْرٌ لَّكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `مُتَّخِذَٰتِ` — those who take
+
+**English (Sahih International):** And whoever among you cannot [find] the means to marry free, believing women, then [he may marry] from those whom your right hands possess of believing slave girls. And Allāh is most knowing about your faith. You [believers] are of one another. So marry them with the permission of their people and give them their due compensation [i.e., mahr] according to what is acceptable. [They should be] chaste, neither [of] those who commit unlawful intercourse randomly nor those who take [secret] lovers. But once they are sheltered in marriage, if they should commit adultery, then for them is half the punishment for free [unmarried] women. This [allowance] is for him among you who fears affliction [i.e., sin], but to be patient is better for you. And Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص تم میں سے مومن آزاد عورتوں (یعنی بیبیوں) سے نکاح کرنے کا مقدور نہ رکھے تو مومن لونڈیوں میں ہی جو تمہارے قبضے میں آگئی ہوں (نکاح کرلے) اور خدا تمہارے ایمان کو اچھی طرح جانتا ہے تم آپس میں ایک دوسرے کے ہم جنس ہو تو ان لونڈیوں کے ساتھ ان کے مالکوں سے اجازت حاصل کرکے نکاح کر لو اور دستور کے مطابق ان کا مہر بھی ادا کردو بشرطیکہ عفیفہ ہوں نہ ایسی کہ کھلم کھلا بدکاری کریں اور نہ درپردہ دوستی کرنا چاہیں پھر اگر نکاح میں آکر بدکاری کا ارتکاب کر بیٹھیں تو جو سزا آزاد عورتوں (یعنی بیبیوں) کے لئے ہے اس کی آدھی ان کو (دی جائے) یہ (لونڈی کے ساتھ نکاح کرنے کی) اجازت اس شخص کو ہے جسے گناہ کر بیٹھنے کا اندیشہ ہو اور اگر صبر کرو تو یہ تمہارے لئے بہت اچھا ہے اور خدا بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/4/25)
+
+#### 5:5 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَـٰتُ ۖ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ حِلٌّ لَّهُمْ ۖ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلْمُؤْمِنَـٰتِ وَٱلْمُحْصَنَـٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَـٰفِحِينَ وَلَا مُتَّخِذِىٓ أَخْدَانٍ ۗ وَمَن يَكْفُرْ بِٱلْإِيمَـٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَـٰسِرِينَ
+
+</div>
+
+**Word in this verse:** `مُتَّخِذِىٓ` — ones (who are) taking
+
+**English (Sahih International):** This day [all] good foods have been made lawful, and the food of those who were given the Scripture is lawful for you and your food is lawful for them. And [lawful in marriage are] chaste women from among the believers and chaste women from among those who were given the Scripture before you, when you have given them their due compensation, desiring chastity, not unlawful sexual intercourse or taking [secret] lovers. And whoever denies the faith - his work has become worthless, and he, in the Hereafter, will be among the losers.
+
+**Urdu (Fatah Muhammad Jalandhari):** آج تمہارے لیے سب پاکیزہ چیزیں حلال کر دی گئیں اور اہل کتاب کا کھانا بھی تم کو حلال ہے اور تمہارا کھانا ان کو حلال ہے اور پاک دامن مومن عورتیں اور پاک دامن اہل کتاب عورتیں بھی (حلال ہیں) جبکہ ان کا مہر دے دو۔ اور ان سے عفت قائم رکھنی مقصود ہو نہ کھلی بدکاری کرنی اور نہ چھپی دوستی کرنی اور جو شخص ایمان سے منکر ہوا اس کے عمل ضائع ہو گئے اور وہ آخرت میں نقصان پانے والوں میں ہوگا
+
+[Open on Quran.com](https://quran.com/5/5)
+
+#### 18:51 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ مَّآ أَشْهَدتُّهُمْ خَلْقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَا خَلْقَ أَنفُسِهِمْ وَمَا كُنتُ مُتَّخِذَ ٱلْمُضِلِّينَ عَضُدًا
+
+</div>
+
+**Word in this verse:** `مُتَّخِذَ` — the One to take
+
+**English (Sahih International):** I did not make them witness to the creation of the heavens and the earth or to the creation of themselves, and I would not have taken the misguiders as assistants.
+
+**Urdu (Fatah Muhammad Jalandhari):** میں نے ان کو نہ تو آسمانوں اور زمین کے پیدا کرنے کے وقت بلایا تھا اور نہ خود ان کے پیدا کرنے کے وقت۔ اور میں ایسا نہ تھا کہ گمراہ کرنے والوں کو مددگار بناتا
+
+[Open on Quran.com](https://quran.com/18/51)
+

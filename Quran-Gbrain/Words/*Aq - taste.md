@@ -1,0 +1,213 @@
+---
+type: word
+lemma: "ذاقُ"
+slug: "*Aq - taste"
+surah_count: 24
+ayah_count: 35
+tags: [word, meaning]
+---
+
+# *Aq - taste
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[*wq - dhwq]]
+
+### Meaning
+**taste** · Lemma **ذاقُ**
+
+### Surahs (24)
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[009 At-Tawbah]]
+- [[010 Yunus]]
+- [[016 An-Nahl]]
+- [[022 Al-Hajj]]
+- [[029 Al-Ankabut]]
+- [[032 As-Sajdah]]
+- [[034 Saba]]
+- [[035 Fatir]]
+- [[038 Sad]]
+- [[039 Az-Zumar]]
+- [[044 Ad-Dukhan]]
+- [[046 Al-Ahqaf]]
+- [[051 Adh-Dhariyat]]
+- [[054 Al-Qamar]]
+- [[059 Al-Hashr]]
+- [[064 At-Taghabun]]
+- [[065 At-Talaq]]
+- [[078 An-Naba]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:106 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ ۚ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم بَعْدَ إِيمَـٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
+
+</div>
+
+**Word in this verse:** `فَذُوقُوا۟` — Then taste
+
+**English (Sahih International):** On the Day [some] faces will turn white and [some] faces will turn black. As for those whose faces turn black, [to them it will be said], "Did you disbelieve [i.e., reject faith] after your belief? Then taste the punishment for what you used to reject."
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن بہت سے منہ سفید ہوں گے اور بہت سے منہ سیاہ تو جن لوگوں کے منہ سیاہ ہوں گے (ان سے خدا فرمائے گا) کیا تم ایمان لا کر کافر ہوگئے تھے؟ سو (اب) اس کفر کے بدلے عذاب (کے مزے) چکھو
+
+[Open on Quran.com](https://quran.com/3/106)
+
+#### 3:181 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
+
+</div>
+
+**Word in this verse:** `ذُوقُوا۟` — Taste
+
+**English (Sahih International):** Allāh has certainly heard the statement of those [Jews] who said, "Indeed, Allāh is poor, while we are rich." We will record what they said and their killing of the prophets without right and will say, "Taste the punishment of the Burning Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے ان لوگوں کا قول سن لیا ہے جو کہتے ہیں کہ خدا فقیر ہے۔ اور ہم امیر ہیں۔ یہ جو کہتے ہیں ہم اس کو لکھ لیں گے۔ اور پیغمبروں کو جو یہ ناحق قتل کرتے رہے ہیں اس کو بھی (قلمبند کر رکھیں گے) اور (قیامت کے روز) کہیں گے کہ عذاب (آتش) سوزاں کے مزے چکھتے رہو
+
+[Open on Quran.com](https://quran.com/3/181)
+
+#### 4:56 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا سَوْفَ نُصْلِيهِمْ نَارًا كُلَّمَا نَضِجَتْ جُلُودُهُم بَدَّلْنَـٰهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا۟ ٱلْعَذَابَ ۗ إِنَّ ٱللَّهَ كَانَ عَزِيزًا حَكِيمًا
+
+</div>
+
+**Word in this verse:** `لِيَذُوقُوا۟` — so that they may taste
+
+**English (Sahih International):** Indeed, those who disbelieve in Our verses - We will drive them into a fire. Every time their skins are roasted through, We will replace them with other skins so they may taste the punishment. Indeed, Allāh is ever Exalted in Might and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے ہماری آیتوں سے کفر کیا ان کو ہم عنقریب آگ میں داخل کریں گے جب ان کی کھالیں گل (اور جل) جائیں گی تو ہم اور کھالیں بدل دیں گے تاکہ (ہمیشہ) عذاب (کا مزہ چکھتے) رہیں بےشک خدا غالب حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/4/56)
+
+#### 5:95 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْتُلُوا۟ ٱلصَّيْدَ وَأَنتُمْ حُرُمٌ ۚ وَمَن قَتَلَهُۥ مِنكُم مُّتَعَمِّدًا فَجَزَآءٌ مِّثْلُ مَا قَتَلَ مِنَ ٱلنَّعَمِ يَحْكُمُ بِهِۦ ذَوَا عَدْلٍ مِّنكُمْ هَدْيًۢا بَـٰلِغَ ٱلْكَعْبَةِ أَوْ كَفَّـٰرَةٌ طَعَامُ مَسَـٰكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِّيَذُوقَ وَبَالَ أَمْرِهِۦ ۗ عَفَا ٱللَّهُ عَمَّا سَلَفَ ۚ وَمَنْ عَادَ فَيَنتَقِمُ ٱللَّهُ مِنْهُ ۗ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ
+
+</div>
+
+**Word in this verse:** `لِّيَذُوقَ` — that he may taste
+
+**English (Sahih International):** O you who have believed, do not kill game while you are in the state of iḥrām. And whoever of you kills it intentionally - the penalty is an equivalent from sacrificial animals to what he killed, as judged by two just men among you as an offering [to Allāh] delivered to the Kaʿbah, or an expiation: the feeding of needy people or the equivalent of that in fasting, that he may taste the consequence of his matter [i.e., deed]. Allāh has pardoned what is past; but whoever returns [to violation], then Allāh will take retribution from him. And Allāh is Exalted in Might and Owner of Retribution.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم احرام کی حالت میں ہو تو شکار نہ مارنا اور جو تم میں سے جان بوجھ کر اسے مارے تو (یا تو اس کا) بدلہ (دے اور وہ یہ ہے کہ) اسی طرح کا چارپایہ جسے تم میں دو معتبر شخص مقرر کردیں قربانی (کرے اور یہ قربانی) کعبے پہنچائی جائے یا کفارہ (دے اور وہ) مسکینوں کو کھانا کھلانا (ہے) یا اس کے برابر روزے رکھے تاکہ اپنے کام کی سزا (کا مزہ) چکھے (اور) جو پہلے ہو چکا وہ خدا نے معاف کر دیا اور جو پھر (ایسا کام) کرے گا تو خدا اس سے انتقام لے گا اور خدا غالب اور انتقام لینے والا ہے
+
+[Open on Quran.com](https://quran.com/5/95)
+
+#### 6:30 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَـٰذَا بِٱلْحَقِّ ۚ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
+
+</div>
+
+**Word in this verse:** `فَذُوقُوا۟` — So taste
+
+**English (Sahih International):** If you could but see when they will be made to stand before their Lord. He will say, "Is this not the truth?" They will say, "Yes, by our Lord." He will [then] say, "So taste the punishment for what you used to deny."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کاش تم (ان کو اس وقت) دیکھو جب یہ اپنے پروردگار کےسامنے کھڑے کئے جائیں گے اور وہ فرمائےگا کیا یہ (دوبارہ زندہ ہونا) برحق نہیں تو کہیں گے کیوں نہیں پروردگار کی قسم (بالکل برحق ہے)خدا فرمائے گا اب کفر کے بدلے (جو دنیا میں کرتے تھے) عذاب (کے مزے) چکھو
+
+[Open on Quran.com](https://quran.com/6/30)
+
+#### 6:148 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+سَيَقُولُ ٱلَّذِينَ أَشْرَكُوا۟ لَوْ شَآءَ ٱللَّهُ مَآ أَشْرَكْنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمْنَا مِن شَىْءٍ ۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ حَتَّىٰ ذَاقُوا۟ بَأْسَنَا ۗ قُلْ هَلْ عِندَكُم مِّنْ عِلْمٍ فَتُخْرِجُوهُ لَنَآ ۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ أَنتُمْ إِلَّا تَخْرُصُونَ
+
+</div>
+
+**Word in this verse:** `ذَاقُوا۟` — they tasted
+
+**English (Sahih International):** Those who associated [others] with Allāh will say, "If Allāh had willed, we would not have associated [anything] and neither would our fathers, nor would we have prohibited anything." Likewise did those before deny until they tasted Our punishment. Say, "Do you have any knowledge that you can produce for us? You follow not except assumption, and you are not but misjudging."
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ شرک کرتے ہیں وہ کہیں گے کہ اگر خدا چاہتا تو ہم شرک نہ کرتے اور نہ ہمارے باپ دادا (شرک کرتے) اور نہ ہم کسی چیز کو حرام ٹھہراتے اسی طرح ان لوگوں نے تکذیب کی تھی جو ان سے پہلے تھے یہاں تک کہ ہمارے عذاب کا مزہ چکھ کر رہے کہہ دو کیا تمہارے پاس کوئی سند ہے (اگر ہے) تو اسے ہمارے سامنے نکالو تم محض خیال کے پیچھے چلتے اور اٹکل کی تیر چلاتے ہو
+
+[Open on Quran.com](https://quran.com/6/148)
+
+#### 7:22 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَدَلَّىٰهُمَا بِغُرُورٍ ۚ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ ۖ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَـٰنَ لَكُمَا عَدُوٌّ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `ذَاقَا` — they both tasted
+
+**English (Sahih International):** So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, "Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?"
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض (مردود نے) دھوکہ دے کر ان کو (معصیت کی طرف) کھینچ ہی لیا جب انہوں نے اس درخت (کے پھل) کو کھا لیا تو ان کی ستر کی چیزیں کھل گئیں اور وہ بہشت کے (درختوں کے) پتے توڑ توڑ کر اپنے اوپر چپکانے لگے اور (ستر چھپانے لگے) تب ان کے پروردگار نے ان کو پکارا کہ کیا میں نے تم کو اس درخت (کے پاس جانے) سے منع نہیں کیا تھا اور جتا نہیں دیا تھا کہ شیطان تمہارا کھلم کھلا دشمن ہے
+
+[Open on Quran.com](https://quran.com/7/22)
+
+#### 7:39 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَتْ أُولَىٰهُمْ لِأُخْرَىٰهُمْ فَمَا كَانَ لَكُمْ عَلَيْنَا مِن فَضْلٍ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْسِبُونَ
+
+</div>
+
+**Word in this verse:** `فَذُوقُوا۟` — so taste
+
+**English (Sahih International):** And the first of them will say to the last of them, "Then you had not any favor over us, so taste the punishment for what you used to earn."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور پہلی جماعت پچھلی جماعت سے کہے گی کہ تم کو ہم پر کچھ بھی فضیلت نہ ہوئی تو جو (عمل) تم کیا کرتے تھے اس کے بدلے میں عذاب کے مزے چکھو
+
+[Open on Quran.com](https://quran.com/7/39)
+
+#### 8:14 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ذَٰلِكُمْ فَذُوقُوهُ وَأَنَّ لِلْكَـٰفِرِينَ عَذَابَ ٱلنَّارِ
+
+</div>
+
+**Word in this verse:** `فَذُوقُوهُ` — So taste it
+
+**English (Sahih International):** "That [is yours], so taste it." And indeed for the disbelievers is the punishment of the Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ (مزہ تو یہاں) چکھو اور یہ (جانے رہو) کہ کافروں کے لیے (آخرت میں) دوزخ کا عذاب (بھی تیار) ہے
+
+[Open on Quran.com](https://quran.com/8/14)
+
+#### 8:35 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا كَانَ صَلَاتُهُمْ عِندَ ٱلْبَيْتِ إِلَّا مُكَآءً وَتَصْدِيَةً ۚ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
+
+</div>
+
+**Word in this verse:** `فَذُوقُوا۟` — So taste
+
+**English (Sahih International):** And their prayer at the House [i.e., the Kaʿbah] was not except whistling and handclapping. So taste the punishment for what you disbelieved [i.e., practiced of deviations].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں کی نماز خانہٴ کعبہ کے پاس سیٹیاں اور تالیاں بجانے کے سوا کچھ نہ تھی۔ تو تم جو کفر کرتے تھے اب اس کے بدلے عذاب (کا مزہ) چکھو
+
+[Open on Quran.com](https://quran.com/8/35)
+
+_…and **25** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

@@ -1,0 +1,94 @@
+---
+type: word
+lemma: "بايَعْ"
+slug: "bAyE - pledging you"
+surah_count: 3
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# bAyE - pledging you
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[byE - exchange property]]
+
+### Meaning
+**pledging you** · Lemma **بايَعْ**
+
+### Surahs (3)
+- [[009 At-Tawbah]]
+- [[048 Al-Fath]]
+- [[060 Al-Mumtahanah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 9:111 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ ۚ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ ۚ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ ٱلَّذِى بَايَعْتُم بِهِۦ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+
+</div>
+
+**Word in this verse:** `بَايَعْتُم` — you have contracted
+
+**English (Sahih International):** Indeed, Allāh has purchased from the believers their lives and their properties [in exchange] for that they will have Paradise. They fight in the cause of Allāh, so they kill and are killed. [It is] a true promise [binding] upon Him in the Torah and the Gospel and the Qur’ān. And who is truer to his covenant than Allāh? So rejoice in your transaction which you have contracted. And it is that which is the great attainment.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے مومنوں سے ان کی جانیں اور ان کے مال خرید لیے ہیں (اور اس کے) عوض ان کے لیے بہشت (تیار کی) ہے۔ یہ لوگ خدا کی راہ میں لڑتے ہیں تو مارتے بھی ہیں اور مارے بھی جاتے ہیں بھی ہیں۔ یہ تورات اور انجیل اور قرآن میں سچا وعدہ ہے۔ جس کا پورا کرنا اسے ضرور ہے اور خدا سے زیادہ وعدہ پورا کرنے والا کون ہے تو جو سودا تم نے اس سے کیا ہے اس سے خوش رہو۔ اور یہی بڑی کامیابی ہے
+
+[Open on Quran.com](https://quran.com/9/111)
+
+#### 48:10 · [[048 Al-Fath]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ ۚ فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ ۖ وَمَنْ أَوْفَىٰ بِمَا عَـٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
+
+</div>
+
+**Word in this verse:** `يُبَايِعُونَكَ` — pledge allegiance to you
+
+**English (Sahih International):** Indeed, those who pledge allegiance to you, [O Muḥammad] - they are actually pledging allegiance to Allāh. The hand of Allāh is over their hands. So he who breaks his word only breaks it to the detriment of himself. And he who fulfills that which he has promised Allāh - He will give him a great reward.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ تم سے بیعت کرتے ہیں وہ خدا سے بیعت کرتے ہیں۔ خدا کا ہاتھ ان کے ہاتھوں پر ہے۔ پھر جو عہد کو توڑے تو عہد توڑنے کا نقصان اسی کو ہے۔ اور جو اس بات کو جس کا اس نے خدا سے عہد کیا ہے پورا کرے تو وہ اسے عنقریب اجر عظیم دے گا
+
+[Open on Quran.com](https://quran.com/48/10)
+
+#### 48:18 · [[048 Al-Fath]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَـٰبَهُمْ فَتْحًا قَرِيبًا
+
+</div>
+
+**Word in this verse:** `يُبَايِعُونَكَ` — they pledged allegiance to you
+
+**English (Sahih International):** Certainly was Allāh pleased with the believers when they pledged allegiance to you, [O Muḥammad], under the tree, and He knew what was in their hearts, so He sent down tranquility upon them and rewarded them with an imminent conquest
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) جب مومن تم سے درخت کے نیچے بیعت کر رہے تھے تو خدا ان سے خوش ہوا۔ اور جو (صدق وخلوص) ان کے دلوں میں تھا وہ اس نے معلوم کرلیا۔ تو ان پر تسلی نازل فرمائی اور انہیں جلد فتح عنایت کی
+
+[Open on Quran.com](https://quran.com/48/18)
+
+#### 60:12 · [[060 Al-Mumtahanah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `يُبَايِعْنَكَ` — pledging to you
+
+**English (Sahih International):** O Prophet, when the believing women come to you pledging to you that they will not associate anything with Allāh, nor will they steal, nor will they commit unlawful sexual intercourse, nor will they kill their children, nor will they bring forth a slander they have invented between their arms and legs, nor will they disobey you in what is right - then accept their pledge and ask forgiveness for them of Allāh. Indeed, Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر! جب تمہارے پاس مومن عورتیں اس بات پر بیعت کرنے کو آئیں کہ خدا کے ساتھ نہ شرک کریں گی نہ چوری کریں گی نہ بدکاری کریں گی نہ اپنی اولاد کو قتل کریں گی نہ اپنے ہاتھ پاؤں میں کوئی بہتان باندھ لائیں گی اور نہ نیک کاموں میں تمہاری نافرمانی کریں گی تو ان سے بیعت لے لو اور ان کے لئے خدا سے بخشش مانگو۔ بےشک خدا بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/60/12)
+

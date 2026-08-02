@@ -1,0 +1,112 @@
+---
+type: word
+lemma: "آثَرَ"
+slug: "Avr - but prefer"
+surah_count: 5
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# Avr - but prefer
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[>vr - athr]]
+
+### Meaning
+**but prefer** · Lemma **آثَرَ**
+
+### Surahs (5)
+- [[012 Yusuf]]
+- [[020 Taha]]
+- [[059 Al-Hashr]]
+- [[079 An-Naziat]]
+- [[087 Al-Ala]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 12:91 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَـٰطِـِٔينَ
+
+</div>
+
+**Word in this verse:** `ءَاثَرَكَ` — Allah has preferred you
+
+**English (Sahih International):** They said, "By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners."
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ بولے خدا کی قسم خدا نے تم کو ہم پر فضیلت بخشی ہے اور بےشک ہم خطاکار تھے
+
+[Open on Quran.com](https://quran.com/12/91)
+
+#### 20:72 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَـٰتِ وَٱلَّذِى فَطَرَنَا ۖ فَٱقْضِ مَآ أَنتَ قَاضٍ ۖ إِنَّمَا تَقْضِى هَـٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ
+
+</div>
+
+**Word in this verse:** `نُّؤْثِرَكَ` — we will prefer you
+
+**English (Sahih International):** They said, "Never will we prefer you over what has come to us of clear proofs and [over] He who created us. So decree whatever you are to decree. You can only decree for this worldly life.
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا جو دلائل ہمارے پاس آگئے ہیں ان پر اور جس نے ہم کو پیدا ہے اس پر ہم آپ کو ہرگز ترجیح نہیں دیں گے تو آپ کو جو حکم دینا ہو دے دیجیئے۔ اور آپ (جو) حکم دے سکتے ہیں وہ صرف اسی دنیا کی زندگی میں (دے سکتے ہیں)
+
+[Open on Quran.com](https://quran.com/20/72)
+
+#### 59:9 · [[059 Al-Hashr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+
+</div>
+
+**Word in this verse:** `وَيُؤْثِرُونَ` — but prefer
+
+**English (Sahih International):** And [also for] those who were settled in the Home [i.e.,al-Madīnah] and [adopted] the faith before them. They love those who emigrated to them and find not any want in their breasts of what they [i.e., the emigrants] were given but give [them] preference over themselves, even though they are in privation. And whoever is protected from the stinginess of his soul - it is those who will be the successful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (ان لوگوں کے لئے بھی) جو مہاجرین سے پہلے (ہجرت کے) گھر (یعنی مدینے) میں مقیم اور ایمان میں (مستقل) رہے (اور) جو لوگ ہجرت کرکے ان کے پاس آتے ہیں ان سے محبت کرتے ہیں اور جو کچھ ان کو ملا اس سے اپنے دل میں کچھ خواہش (اور خلش) نہیں پاتے اور ان کو اپنی جانوں سے مقدم رکھتے ہیں خواہ ان کو خود احتیاج ہی ہو۔ اور جو شخص حرص نفس سے بچا لیا گیا تو ایسے لوگ مراد پانے والے ہیں
+
+[Open on Quran.com](https://quran.com/59/9)
+
+#### 79:38 · [[079 An-Naziat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَءَاثَرَ ٱلْحَيَوٰةَ ٱلدُّنْيَا
+
+</div>
+
+**Word in this verse:** `وَءَاثَرَ` — And preferred
+
+**English (Sahih International):** And preferred the life of the world,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور دنیا کی زندگی کو مقدم سمجھا
+
+[Open on Quran.com](https://quran.com/79/38)
+
+#### 87:16 · [[087 Al-Ala]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا
+
+</div>
+
+**Word in this verse:** `تُؤْثِرُونَ` — You prefer
+
+**English (Sahih International):** But you prefer the worldly life,
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر تم لوگ تو دنیا کی زندگی کو اختیار کرتے ہو
+
+[Open on Quran.com](https://quran.com/87/16)
+

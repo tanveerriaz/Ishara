@@ -1,0 +1,95 @@
+---
+type: word
+lemma: "قَلَم"
+slug: "qlm - by pen"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# qlm - by pen
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[qlm - writing reed pen]]
+
+### Meaning
+**by pen** · Lemma **قَلَم**
+
+### Surahs (4)
+- [[003 Ali Imran]]
+- [[031 Luqman]]
+- [[068 Al-Qalam]]
+- [[096 Al-Alaq]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:44 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۚ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَـٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ
+
+</div>
+
+**Word in this verse:** `أَقْلَـٰمَهُمْ` — their pens
+
+**English (Sahih International):** That is from the news of the unseen which We reveal to you, [O Muḥammad]. And you were not with them when they cast their pens as to which of them should be responsible for Mary. Nor were you with them when they disputed.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) یہ باتیں اخبار غیب میں سے ہیں جو ہم تمہارے پاس بھیجتے ہیں اور جب وہ لوگ اپنے قلم (بطور قرعہ) ڈال رہے تھے کہ مریم کا متکفل کون بنے تو تم ان کے پاس نہیں تھے اور نہ اس وقت ہی ان کے پاس تھے جب وہ آپس میں جھگڑ رہے تھے
+
+[Open on Quran.com](https://quran.com/3/44)
+
+#### 31:27 · [[031 Luqman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَـٰمٌ وَٱلْبَحْرُ يَمُدُّهُۥ مِنۢ بَعْدِهِۦ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَـٰتُ ٱللَّهِ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
+
+</div>
+
+**Word in this verse:** `أَقْلَـٰمٌۭ` — (were) pens
+
+**English (Sahih International):** And if whatever trees upon the earth were pens and the sea [was ink], replenished thereafter by seven [more] seas, the words of Allāh would not be exhausted. Indeed, Allāh is Exalted in Might and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر یوں ہو کہ زمین میں جتنے درخت ہیں (سب کے سب) قلم ہوں اور سمندر (کا تمام پانی) سیاہی ہو (اور) اس کے بعد سات سمندر اور (سیاہی ہو جائیں) تو خدا کی باتیں (یعنی اس کی صفتیں) ختم نہ ہوں۔ بیشک خدا غالب حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/31/27)
+
+#### 68:1 · [[068 Al-Qalam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ
+
+</div>
+
+**Word in this verse:** `وَٱلْقَلَمِ` — By the pen
+
+**English (Sahih International):** Nūn. By the pen and what they inscribe,
+
+**Urdu (Fatah Muhammad Jalandhari):** نٓ۔ قلم کی اور جو (اہل قلم) لکھتے ہیں اس کی قسم
+
+[Open on Quran.com](https://quran.com/68/1)
+
+#### 96:4 · [[096 Al-Alaq]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ
+
+</div>
+
+**Word in this verse:** `بِٱلْقَلَمِ` — by the pen
+
+**English (Sahih International):** Who taught by the pen
+
+**Urdu (Fatah Muhammad Jalandhari):** جس نے قلم کے ذریعے سے علم سکھایا
+
+[Open on Quran.com](https://quran.com/96/4)
+

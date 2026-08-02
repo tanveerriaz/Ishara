@@ -1,0 +1,144 @@
+---
+type: word
+lemma: "مُنِيب"
+slug: "mnyb - turning"
+surah_count: 5
+ayah_count: 7
+tags: [word, meaning]
+---
+
+# mnyb - turning
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[nwb - nwb]]
+
+### Meaning
+**turning** · Lemma **مُنِيب**
+
+### Surahs (5)
+- [[011 Hud]]
+- [[030 Ar-Rum]]
+- [[034 Saba]]
+- [[039 Az-Zumar]]
+- [[050 Qaf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 11:75 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ إِبْرَٰهِيمَ لَحَلِيمٌ أَوَّٰهٌ مُّنِيبٌ
+
+</div>
+
+**Word in this verse:** `مُّنِيبٌۭ` — and oft-returning
+
+**English (Sahih International):** Indeed, Abraham was forbearing, grieving and [frequently] returning [to Allāh].
+
+**Urdu (Fatah Muhammad Jalandhari):** بےشک ابراہیم بڑے تحمل والے، نرم دل اور رجوع کرنے والے تھے
+
+[Open on Quran.com](https://quran.com/11/75)
+
+#### 30:31 · [[030 Ar-Rum]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ مُنِيبِينَ إِلَيْهِ وَٱتَّقُوهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُشْرِكِينَ
+
+</div>
+
+**Word in this verse:** `۞ مُنِيبِينَ` — Turning
+
+**English (Sahih International):** [Adhere to it], turning in repentance to Him, and fear Him and establish prayer and do not be of those who associate others with Allāh
+
+**Urdu (Fatah Muhammad Jalandhari):** (مومنو) اُسی (خدا )کی طرف رجوع کئے رہو اور اس سے ڈرتے رہو اور نماز پڑھتے رہو اور مشرکوں میں نہ ہونا
+
+[Open on Quran.com](https://quran.com/30/31)
+
+#### 30:33 · [[030 Ar-Rum]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا مَسَّ ٱلنَّاسَ ضُرٌّ دَعَوْا۟ رَبَّهُم مُّنِيبِينَ إِلَيْهِ ثُمَّ إِذَآ أَذَاقَهُم مِّنْهُ رَحْمَةً إِذَا فَرِيقٌ مِّنْهُم بِرَبِّهِمْ يُشْرِكُونَ
+
+</div>
+
+**Word in this verse:** `مُّنِيبِينَ` — turning
+
+**English (Sahih International):** And when adversity touches the people, they call upon their Lord, turning in repentance to Him. Then when He lets them taste mercy from Him, at once a party of them associate others with their Lord,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب لوگوں کو تکلیف پہنچتی ہے تو اپنے پروردگار کو پکارتے اور اسی کی طرف رجوع ہوتے ہیں۔ پھر جب وہ ان کو اپنی رحمت کا مزا چکھاتا ہے تو ایک فرقہ اُن میں سے اپنے پروردگار سے شرک کرنے لگتا ہے
+
+[Open on Quran.com](https://quran.com/30/33)
+
+#### 34:9 · [[034 Saba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَفَلَمْ يَرَوْا۟ إِلَىٰ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ إِن نَّشَأْ نَخْسِفْ بِهِمُ ٱلْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا مِّنَ ٱلسَّمَآءِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّكُلِّ عَبْدٍ مُّنِيبٍ
+
+</div>
+
+**Word in this verse:** `مُّنِيبٍۢ` — who turns (to Allah)
+
+**English (Sahih International):** Then, do they not look at what is before them and what is behind them of the heaven and earth? If We should will, We could cause the earth to swallow them or [could] let fall upon them fragments from the sky. Indeed in that is a sign for every servant turning back [to Allāh].
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے اس کو نہیں دیکھا جو ان کے آگے اور پیچھے ہے یعنی آسمان اور زمین۔ اگر ہم چاہیں تو ان کو زمین میں دھنسا دیں یا ان پر آسمان کے ٹکڑے گرا دیں۔ اس میں ہر بندے کے لئے جو رجوع کرنے والا ہے ایک نشانی ہے
+
+[Open on Quran.com](https://quran.com/34/9)
+
+#### 39:8 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَإِذَا مَسَّ ٱلْإِنسَـٰنَ ضُرٌّ دَعَا رَبَّهُۥ مُنِيبًا إِلَيْهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعْمَةً مِّنْهُ نَسِىَ مَا كَانَ يَدْعُوٓا۟ إِلَيْهِ مِن قَبْلُ وَجَعَلَ لِلَّهِ أَندَادًا لِّيُضِلَّ عَن سَبِيلِهِۦ ۚ قُلْ تَمَتَّعْ بِكُفْرِكَ قَلِيلًا ۖ إِنَّكَ مِنْ أَصْحَـٰبِ ٱلنَّارِ
+
+</div>
+
+**Word in this verse:** `مُنِيبًا` — turning
+
+**English (Sahih International):** And when adversity touches man, he calls upon his Lord, turning to Him [alone]; then when He bestows on him a favor from Himself, he forgets Him whom he called upon before, and he attributes to Allāh equals to mislead [people] from His way. Say, "Enjoy your disbelief for a little; indeed, you are of the companions of the Fire."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب انسان کو تکلیف پہنچتی ہے تو اپنے پروردگار کو پکارتا (اور) اس کی طرف دل سے رجوع کرتا ہے۔ پھر جب وہ اس کو اپنی طرف سے کوئی نعمت دیتا ہے تو جس کام کے لئے پہلے اس کو پکارتا ہے اسے بھول جاتا ہے اور خدا کا شریک بنانے لگتا ہے تاکہ (لوگوں کو) اس کے رستے سے گمراہ کرے۔ کہہ دو کہ (اے کافر نعمت) اپنی ناشکری سے تھوڑا سا فائدہ اٹھالے۔ پھر تُو تو دوزخیوں میں ہوگا
+
+[Open on Quran.com](https://quran.com/39/8)
+
+#### 50:8 · [[050 Qaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+تَبْصِرَةً وَذِكْرَىٰ لِكُلِّ عَبْدٍ مُّنِيبٍ
+
+</div>
+
+**Word in this verse:** `مُّنِيبٍۢ` — who turns
+
+**English (Sahih International):** Giving insight and a reminder for every servant who turns [to Allāh].
+
+**Urdu (Fatah Muhammad Jalandhari):** تاکہ رجوع لانے والے بندے ہدایت اور نصیحت حاصل کریں
+
+[Open on Quran.com](https://quran.com/50/8)
+
+#### 50:33 · [[050 Qaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَّنْ خَشِىَ ٱلرَّحْمَـٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍ مُّنِيبٍ
+
+</div>
+
+**Word in this verse:** `مُّنِيبٍ` — returning
+
+**English (Sahih International):** Who feared the Most Merciful in the unseen and came with a heart returning [in repentance].
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خدا سے بن دیکھے ڈرتا ہے اور رجوع لانے والا دل لے کر آیا
+
+[Open on Quran.com](https://quran.com/50/33)
+

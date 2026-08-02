@@ -1,0 +1,198 @@
+---
+type: word
+lemma: "تَدْرِي"
+slug: "tdry - i know"
+surah_count: 9
+ayah_count: 11
+tags: [word, meaning]
+---
+
+# tdry - i know
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[dry - know]]
+
+### Meaning
+**i know** · Lemma **تَدْرِي**
+
+### Surahs (9)
+- [[004 An-Nisa]]
+- [[021 Al-Anbya]]
+- [[031 Luqman]]
+- [[042 Ash-Shuraa]]
+- [[045 Al-Jathiyah]]
+- [[046 Al-Ahqaf]]
+- [[065 At-Talaq]]
+- [[069 Al-Haqqah]]
+- [[072 Al-Jinn]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:11 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَـٰدِكُمْ ۖ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۚ فَإِن كُنَّ نِسَآءً فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ ۖ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ ۚ وَلِأَبَوَيْهِ لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ ۚ فَإِن لَّمْ يَكُن لَّهُۥ وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ ۚ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ ۚ مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ۗ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ أَقْرَبُ لَكُمْ نَفْعًا ۚ فَرِيضَةً مِّنَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا
+
+</div>
+
+**Word in this verse:** `تَدْرُونَ` — you know
+
+**English (Sahih International):** Allāh instructs you concerning your children [i.e., their portions of inheritance]: for the male, what is equal to the share of two females. But if there are [only] daughters, two or more, for them is two thirds of one's estate. And if there is only one, for her is half. And for one's parents, to each one of them is a sixth of his estate if he left children. But if he had no children and the parents [alone] inherit from him, then for his mother is one third. And if he had brothers [and/or sisters], for his mother is a sixth, after any bequest he [may have] made or debt. Your parents or your children - you know not which of them are nearest to you in benefit. [These shares are] an obligation [imposed] by Allāh. Indeed, Allāh is ever Knowing and Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری اولاد کے بارے میں تم کو ارشاد فرماتا ہے کہ ایک لڑکے کا حصہ دو لڑکیوں کے حصے کے برابر ہے۔ اور اگر اولاد میت صرف لڑکیاں ہی ہوں (یعنی دو یا) دو سے زیادہ تو کل ترکے میں ان کادو تہائی۔ اور اگر صرف ایک لڑکی ہو تو اس کا حصہ نصف۔ اور میت کے ماں باپ کا یعنی دونوں میں سے ہر ایک کا ترکے میں چھٹا حصہ بشرطیکہ میت کے اولاد ہو۔ اور اگر اولاد نہ ہو اور صرف ماں باپ ہی اس کے وارث ہوں تو ایک تہائی ماں کا حصہ۔ اور اگر میت کے بھائی بھی ہوں تو ماں کا چھٹا حصہ۔ (اور یہ تقسیم ترکہ میت کی) وصیت (کی تعمیل) کے بعد جو اس نے کی ہو یا قرض کے (ادا ہونے کے بعد جو اس کے ذمے ہو عمل میں آئے گی) تم کو معلوم نہیں کہ تمہارے باپ دادؤں اور بیٹوں پوتوں میں سے فائدے کے لحاظ سے کون تم سے زیادہ قریب ہے، یہ حصے خدا کے مقرر کئے ہوئے ہیں اور خدا سب کچھ جاننے والا اور حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/4/11)
+
+#### 21:109 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِن تَوَلَّوْا۟ فَقُلْ ءَاذَنتُكُمْ عَلَىٰ سَوَآءٍ ۖ وَإِنْ أَدْرِىٓ أَقَرِيبٌ أَم بَعِيدٌ مَّا تُوعَدُونَ
+
+</div>
+
+**Word in this verse:** `أَدْرِىٓ` — I know
+
+**English (Sahih International):** But if they turn away, then say, "I have announced to [all of] you equally. And I know not whether near or far is that which you are promised.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر یہ لوگ منہ پھیریں تو کہہ دو کہ میں نے تم کو سب کو یکساں (احکام الہیٰ سے) آگاہ کردیا ہے۔ اور مجھ کو معلوم نہیں کہ جس چیز کا تم سے وعدہ کیا جاتا ہے وہ (عن) قریب (آنے والی) ہے یا (اس کا وقت) دور ہے
+
+[Open on Quran.com](https://quran.com/21/109)
+
+#### 21:111 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِنْ أَدْرِى لَعَلَّهُۥ فِتْنَةٌ لَّكُمْ وَمَتَـٰعٌ إِلَىٰ حِينٍ
+
+</div>
+
+**Word in this verse:** `أَدْرِى` — I know
+
+**English (Sahih International):** And I know not; perhaps it is a trial for you and enjoyment for a time."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور میں نہیں جانتا شاید وہ تمہارے لئے آزمائش ہو اور ایک مدت تک (تم اس سے) فائدہ (اٹھاتے رہو)
+
+[Open on Quran.com](https://quran.com/21/111)
+
+#### 31:34 · [[031 Luqman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ ۖ وَمَا تَدْرِى نَفْسٌ مَّاذَا تَكْسِبُ غَدًا ۖ وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍ تَمُوتُ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۢ
+
+</div>
+
+**Word in this verse:** `تَدْرِى` — knows
+
+**English (Sahih International):** Indeed, Allāh [alone] has knowledge of the Hour and sends down the rain and knows what is in the wombs. And no soul perceives what it will earn tomorrow, and no soul perceives in what land it will die. Indeed, Allāh is Knowing and Aware.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی کو قیامت کا علم ہے اور وہی مینھہ برساتا ہے۔ اور وہی (حاملہ کے) پیٹ کی چیزوں کو جانتا ہے (کہ نر ہے یا مادہ) اور کوئی شخص نہیں جانتا کہ وہ کل کیا کام کرے گا۔ اور کوئی متنفس نہیں جانتا کہ کس سرزمین میں اُسے موت آئے گی بیشک خدا ہی جاننے والا (اور) خبردار ہے
+
+[Open on Quran.com](https://quran.com/31/34)
+
+#### 42:52 · [[042 Ash-Shuraa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًا مِّنْ أَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَـٰبُ وَلَا ٱلْإِيمَـٰنُ وَلَـٰكِن جَعَلْنَـٰهُ نُورًا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+
+</div>
+
+**Word in this verse:** `تَدْرِى` — know
+
+**English (Sahih International):** And thus We have revealed to you an inspiration of Our command [i.e., the Qur’ān]. You did not know what is the Book or [what is] faith, but We have made it a light by which We guide whom We will of Our servants. And indeed, [O Muḥammad], you guide to a straight path -
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے اپنے حکم سے تمہاری طرف روح القدس کے ذریعے سے (قرآن) بھیجا ہے۔ تم نہ تو کتاب کو جانتے تھے اور نہ ایمان کو۔ لیکن ہم نے اس کو نور بنایا ہے کہ اس سے ہم اپنے بندوں میں سے جس کو چاہتے ہیں ہدایت کرتے ہیں۔ اور بےشک (اے محمدﷺ) تم سیدھا رستہ دکھاتے ہو
+
+[Open on Quran.com](https://quran.com/42/52)
+
+#### 45:32 · [[045 Al-Jathiyah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا قِيلَ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَٱلسَّاعَةُ لَا رَيْبَ فِيهَا قُلْتُم مَّا نَدْرِى مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنًّا وَمَا نَحْنُ بِمُسْتَيْقِنِينَ
+
+</div>
+
+**Word in this verse:** `نَدْرِى` — we know
+
+**English (Sahih International):** And when it was said, 'Indeed, the promise of Allāh is truth and the Hour [is coming] - no doubt about it,' you said, 'We know not what is the Hour. We assume only assumption, and we are not convinced.'"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب کہا جاتا تھا کہ خدا کا وعدہ سچا ہے اور قیامت میں کچھ شک نہیں تو تم کہتے تھے ہم نہیں جانتے کہ قیامت کیا ہے۔ ہم اس کو محض ظنی خیال کرتے ہیں اور ہمیں یقین نہیں آتا
+
+[Open on Quran.com](https://quran.com/45/32)
+
+#### 46:9 · [[046 Al-Ahqaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ مَا كُنتُ بِدْعًا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `أَدْرِى` — I know
+
+**English (Sahih International):** Say, "I am not something original among the messengers, nor do I know what will be done with me or with you. I only follow that which is revealed to me, and I am not but a clear warner."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں کوئی نیا پیغمبر نہیں آیا۔ اور میں نہیں جانتا کہ میرے ساتھ کیا سلوک کیا جائے گا اور تمہارے ساتھ کیا (کیا جائے گا) میں تو اسی کی پیروی کرتا ہوں جو مجھ پر وحی آتی ہے اور میرا کام تو علانیہ ہدایت کرنا ہے
+
+[Open on Quran.com](https://quran.com/46/9)
+
+#### 65:1 · [[065 At-Talaq]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟ ٱلْعِدَّةَ ۖ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ ۖ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ أَن يَأْتِينَ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَتِلْكَ حُدُودُ ٱللَّهِ ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا
+
+</div>
+
+**Word in this verse:** `تَدْرِى` — you know
+
+**English (Sahih International):** O Prophet, when you [Muslims] divorce women, divorce them for [the commencement of] their waiting period and keep count of the waiting period, and fear Allāh, your Lord. Do not turn them out of their [husbands'] houses, nor should they [themselves] leave [during that period] unless they are committing a clear immorality. And those are the limits [set by] Allāh. And whoever transgresses the limits of Allāh has certainly wronged himself. You know not; perhaps Allāh will bring about after that a [different] matter.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر (مسلمانوں سے کہہ دو کہ) جب تم عورتوں کو طلاق دینے لگو تو عدت کے شروع میں طلاق دو اور عدت کا شمار رکھو۔ اور خدا سے جو تمہارا پروردگار ہے ڈرو۔ (نہ تو تم ہی) ان کو (ایام عدت میں) ان کے گھروں سے نکالو اور نہ وہ (خود ہی) نکلیں۔ ہاں اگر وہ صریح بےحیائی کریں (تو نکال دینا چاہیئے) اور یہ خدا کی حدیں ہیں۔ جو خدا کی حدوں سے تجاوز کرے گا وہ اپنے آپ پر ظلم کرے گا۔ (اے طلاق دینے والے) تجھے کیا معلوم شاید خدا اس کے بعد کوئی (رجعت کی) سبیل پیدا کردے
+
+[Open on Quran.com](https://quran.com/65/1)
+
+#### 69:26 · [[069 Al-Haqqah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَمْ أَدْرِ مَا حِسَابِيَهْ
+
+</div>
+
+**Word in this verse:** `أَدْرِ` — I had known
+
+**English (Sahih International):** And had not known what is my account.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مجھے معلوم نہ ہو کہ میرا حساب کیا ہے
+
+[Open on Quran.com](https://quran.com/69/26)
+
+#### 72:10 · [[072 Al-Jinn]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنَّا لَا نَدْرِىٓ أَشَرٌّ أُرِيدَ بِمَن فِى ٱلْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا
+
+</div>
+
+**Word in this verse:** `نَدْرِىٓ` — we know
+
+**English (Sahih International):** And we do not know [therefore] whether evil is intended for those on earth or whether their Lord intends for them a right course.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ ہمیں معلوم نہیں کہ اس سے اہل زمین کے حق میں برائی مقصود ہے یا ان کے پروردگار نے ان کی بھلائی کا ارادہ فرمایا ہے
+
+[Open on Quran.com](https://quran.com/72/10)
+
+_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

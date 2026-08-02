@@ -1,0 +1,19 @@
+---
+type: root
+arabic_root: "قنت"
+slug: "qnt - qnt"
+tags: [root, meaning]
+---
+
+# qnt - qnt
+
+## Graph connections
+
+**Sense:** qnt · **Root:** قنت
+
+### Words (wikilinks — these create the graph)
+- [[qAnt - devoutly obedient]]
+- [[qAntp - obedient]]
+
+### Surahs where this root appears
+`002, 003, 004, 016, 030, 033, 039, 066` · open those surah notes from [[Surah Index]]

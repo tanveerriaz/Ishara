@@ -1,0 +1,110 @@
+---
+type: word
+lemma: "قارِعَة"
+slug: "qArEp - striking calamity"
+surah_count: 3
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# qArEp - striking calamity
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[qrE - qre]]
+
+### Meaning
+**striking calamity** · Lemma **قارِعَة**
+
+### Surahs (3)
+- [[013 Ar-Rad]]
+- [[069 Al-Haqqah]]
+- [[101 Al-Qariah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 13:31 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟ قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ حَتَّىٰ يَأْتِىَ وَعْدُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
+
+</div>
+
+**Word in this verse:** `قَارِعَةٌ` — a disaster
+
+**English (Sahih International):** And if there was any Qur’ān [i.e., recitation] by which the mountains would be removed or the earth would be broken apart or the dead would be made to speak, [it would be this Qur’ān], but to Allāh belongs the affair entirely. Then have those who believed not accepted that had Allāh willed, He would have guided the people, all of them? And those who disbelieve do not cease to be struck, for what they have done, by calamity - or it will descend near their home - until there comes the promise of Allāh. Indeed, Allāh does not fail in [His] promise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر کوئی قرآن ایسا ہوتا کہ اس (کی تاثیر) سے پہاڑ چل پڑتے یا زمین پھٹ جاتی یا مردوں سے کلام کرسکتے۔ (تو یہی قرآن ان اوصاف سے متصف ہوتا مگر) بات یہ ہے کہ سب باتیں خدا کے اختیار میں ہیں تو کیا مومنوں کو اس سے اطمینان نہیں ہوا کہ اگر خدا چاہتا تو سب لوگوں کو ہدایت کے رستے پر چلا دیتا۔ اور کافروں پر ہمیشہ ان کے اعمال کے بدلے بلا آتی رہے گی یا ان کے مکانات کے قریب نازل ہوتی رہے گی یہاں تک کہ خدا کا وعدہ آپہنچے۔ بےشک خدا وعدہ خلاف نہیں کرتا
+
+[Open on Quran.com](https://quran.com/13/31)
+
+#### 69:4 · [[069 Al-Haqqah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَذَّبَتْ ثَمُودُ وَعَادٌۢ بِٱلْقَارِعَةِ
+
+</div>
+
+**Word in this verse:** `بِٱلْقَارِعَةِ` — the Striking Calamity
+
+**English (Sahih International):** Thamūd and ʿAad denied the Striking Calamity [i.e., the Resurrection].
+
+**Urdu (Fatah Muhammad Jalandhari):** کھڑکھڑانے والی (جس) کو ثمود اور عاد (دونوں) نے جھٹلایا
+
+[Open on Quran.com](https://quran.com/69/4)
+
+#### 101:1 · [[101 Al-Qariah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ ٱلْقَارِعَةُ
+
+</div>
+
+**Word in this verse:** `ٱلْقَارِعَةُ` — The Striking Calamity
+
+**English (Sahih International):** The Striking Calamity -
+
+**Urdu (Fatah Muhammad Jalandhari):** کھڑ کھڑانے والی
+
+[Open on Quran.com](https://quran.com/101/1)
+
+#### 101:2 · [[101 Al-Qariah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَا ٱلْقَارِعَةُ
+
+</div>
+
+**Word in this verse:** `ٱلْقَارِعَةُ` — (is) the Striking Calamity
+
+**English (Sahih International):** What is the Striking Calamity?
+
+**Urdu (Fatah Muhammad Jalandhari):** کھڑ کھڑانے والی کیا ہے؟
+
+[Open on Quran.com](https://quran.com/101/2)
+
+#### 101:3 · [[101 Al-Qariah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ
+
+</div>
+
+**Word in this verse:** `ٱلْقَارِعَةُ` — (is) the Striking Calamity
+
+**English (Sahih International):** And what can make you know what is the Striking Calamity?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کیا جانوں کھڑ کھڑانے والی کیا ہے؟
+
+[Open on Quran.com](https://quran.com/101/3)
+

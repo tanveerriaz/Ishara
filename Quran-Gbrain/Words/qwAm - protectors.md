@@ -1,0 +1,94 @@
+---
+type: word
+lemma: "قَوّام"
+slug: "qwAm - protectors"
+surah_count: 3
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# qwAm - protectors
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[qwm - upright]]
+
+### Meaning
+**protectors** · Lemma **قَوّام**
+
+### Surahs (3)
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[025 Al-Furqan]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:34 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّـٰلِحَـٰتُ قَـٰنِتَـٰتٌ حَـٰفِظَـٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّـٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا
+
+</div>
+
+**Word in this verse:** `قَوَّٰمُونَ` — (are) protectors
+
+**English (Sahih International):** Men are in charge of women by [right of] what Allāh has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allāh would have them guard. But those [wives] from whom you fear arrogance - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them [lightly]. But if they obey you [once more], seek no means against them. Indeed, Allāh is ever Exalted and Grand.
+
+**Urdu (Fatah Muhammad Jalandhari):** مرد عورتوں پر مسلط وحاکم ہیں اس لئے کہ خدا نے بعض کو بعض سے افضل بنایا ہے اور اس لئے بھی کہ مرد اپنا مال خرچ کرتے ہیں تو جو نیک بیبیاں ہیں وہ مردوں کے حکم پر چلتی ہیں اور ان کے پیٹھ پیچھے خدا کی حفاظت میں (مال وآبرو کی) خبرداری کرتی ہیں اور جن عورتوں کی نسبت تمہیں معلوم ہو کہ سرکشی (اور بدخوئی) کرنے لگی ہیں تو (پہلے) ان کو (زبانی) سمجھاؤ (اگر نہ سمجھیں تو) پھر ان کے ساتھ سونا ترک کردو اگر اس پر بھی باز نہ آئیں تو زدوکوب کرو اور اگر فرمانبردار ہوجائیں تو پھر ان کو ایذا دینے کا کوئی بہانہ مت ڈھونڈو بےشک خدا سب سے اعلیٰ (اور) جلیل القدر ہے
+
+[Open on Quran.com](https://quran.com/4/34)
+
+#### 4:135 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ ۚ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
+
+</div>
+
+**Word in this verse:** `قَوَّٰمِينَ` — custodians
+
+**English (Sahih International):** O you who have believed, be persistently standing firm in justice, witnesses for Allāh, even if it be against yourselves or parents and relatives. Whether one is rich or poor, Allāh is more worthy of both. So follow not [personal] inclination, lest you not be just. And if you distort [your testimony] or refuse [to give it], then indeed Allāh is ever, of what you do, Aware.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! انصاف پر قائم رہو اور خدا کے لئے سچی گواہی دو خواہ (اس میں) تمہارا یا تمہارےماں باپ اور رشتہ داروں کا نقصان ہی ہو۔ اگر کوئی امیر ہے یا فقیر تو خدا ان کا خیر خواہ ہے۔ تو تم خواہش نفس کے پیچھے چل کر عدل کو نہ چھوڑ دینا۔ اگر تم پیچیدا شہادت دو گے یا (شہادت سے) بچنا چاہو گے تو (جان رکھو) خدا تمہارے سب کاموں سے واقف ہے
+
+[Open on Quran.com](https://quran.com/4/135)
+
+#### 5:8 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `قَوَّٰمِينَ` — steadfast
+
+**English (Sahih International):** O you who have believed, be persistently standing firm for Allāh, witnesses in justice, and do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness. And fear Allāh; indeed, Allāh is [fully] Aware of what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والوں! خدا کے لیے انصاف کی گواہی دینے کے لیے کھڑے ہو جایا کرو۔ اور لوگوں کی دشمنی تم کو اس بات پر آمادہ نہ کرے کہ انصاف چھوڑ دو۔ انصاف کیا کرو کہ یہی پرہیزگاری کی بات ہے اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا تمہارے سب اعمال سے خبردار ہے
+
+[Open on Quran.com](https://quran.com/5/8)
+
+#### 25:67 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ إِذَآ أَنفَقُوا۟ لَمْ يُسْرِفُوا۟ وَلَمْ يَقْتُرُوا۟ وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا
+
+</div>
+
+**Word in this verse:** `قَوَامًۭا` — moderate
+
+**English (Sahih International):** And [they are] those who, when they spend, do so not excessively or sparingly but are ever, between that, [justly] moderate
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہ جب خرچ کرتے ہیں تو نہ بےجا اُڑاتے ہیں اور نہ تنگی کو کام میں لاتے ہیں بلکہ اعتدال کے ساتھ۔ نہ ضرورت سے زیادہ نہ کم
+
+[Open on Quran.com](https://quran.com/25/67)
+

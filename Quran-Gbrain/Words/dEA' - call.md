@@ -1,0 +1,206 @@
+---
+type: word
+lemma: "دُعاء"
+slug: "dEA' - call"
+surah_count: 17
+ayah_count: 21
+tags: [word, meaning]
+---
+
+# dEA' - call
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[dEw - call]]
+
+### Meaning
+**call** · Lemma **دُعاء**
+
+### Surahs (17)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[017 Al-Isra]]
+- [[019 Maryam]]
+- [[021 Al-Anbya]]
+- [[024 An-Nur]]
+- [[025 Al-Furqan]]
+- [[027 An-Naml]]
+- [[030 Ar-Rum]]
+- [[033 Al-Ahzab]]
+- [[035 Fatir]]
+- [[040 Ghafir]]
+- [[041 Fussilat]]
+- [[046 Al-Ahqaf]]
+- [[071 Nuh]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:171 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَثَلُ ٱلَّذِينَ كَفَرُوا۟ كَمَثَلِ ٱلَّذِى يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَآءً وَنِدَآءً ۚ صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `دُعَآءًۭ` — calls
+
+**English (Sahih International):** The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries [i.e., cattle or sheep] - deaf, dumb and blind, so they do not understand.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں ان کی مثال اس شخص کی سی ہے جو کسی ایسی چیز کو آواز دے جو پکار اور آواز کے سوا کچھ سن نہ سکے۔ (یہ) بہرے ہیں گونگے ہیں اندھے ہیں کہ (کچھ) سمجھ ہی نہیں سکتے
+
+[Open on Quran.com](https://quran.com/2/171)
+
+#### 3:38 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ ۖ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً ۖ إِنَّكَ سَمِيعُ ٱلدُّعَآءِ
+
+</div>
+
+**Word in this verse:** `ٱلدُّعَآءِ` — (of) the prayer
+
+**English (Sahih International):** At that, Zechariah called upon his Lord, saying, "My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication."
+
+**Urdu (Fatah Muhammad Jalandhari):** اس وقت زکریا نے اپنے پروردگار سے دعا کی (اور) کہا کہ پروردگار مجھے اپنی جناب سے اولاد صالح عطا فرما تو بے شک دعا سننے (اور قبول کرنے) والا ہے
+
+[Open on Quran.com](https://quran.com/3/38)
+
+#### 13:14 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَهُۥ دَعْوَةُ ٱلْحَقِّ ۖ وَٱلَّذِينَ يَدْعُونَ مِن دُونِهِۦ لَا يَسْتَجِيبُونَ لَهُم بِشَىْءٍ إِلَّا كَبَـٰسِطِ كَفَّيْهِ إِلَى ٱلْمَآءِ لِيَبْلُغَ فَاهُ وَمَا هُوَ بِبَـٰلِغِهِۦ ۚ وَمَا دُعَآءُ ٱلْكَـٰفِرِينَ إِلَّا فِى ضَلَـٰلٍ
+
+</div>
+
+**Word in this verse:** `دُعَآءُ` — (is) the supplication
+
+**English (Sahih International):** To Him [alone] is the supplication of truth. And those they call upon besides Him do not respond to them with a thing, except as one who stretches his hands toward water [from afar, calling it] to reach his mouth, but it will not reach it [thus]. And the supplication of the disbelievers is not but in error [i.e., futility].
+
+**Urdu (Fatah Muhammad Jalandhari):** سودمند پکارنا تو اسی کا ہے اور جن کو یہ لوگ اس کے سوا پکارتے ہیں وہ ان کی پکار کو کسی طرح قبول نہیں کرتے مگر اس شخص کی طرح جو اپنے دونوں ہاتھ پانی کی طرف پھیلا دے تاکہ (دور ہی سے) اس کے منہ تک آ پہنچے حالانکہ وہ (اس تک کبھی بھی) نہیں آسکتا اور (اسی طرح) کافروں کی پکار بیکار ہے
+
+[Open on Quran.com](https://quran.com/13/14)
+
+#### 14:39 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ
+
+</div>
+
+**Word in this verse:** `ٱلدُّعَآءِ` — (of) the prayer
+
+**English (Sahih International):** Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا کا شکر ہے جس نے مجھ کو بڑی عمر میں اسماعیل اور اسحاق بخشے۔ بےشک میرا پروردگار سننے والا ہے
+
+[Open on Quran.com](https://quran.com/14/39)
+
+#### 14:40 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ
+
+</div>
+
+**Word in this verse:** `دُعَآءِ` — my prayer
+
+**English (Sahih International):** My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار مجھ کو (ایسی توفیق عنایت) کر کہ نماز پڑھتا رہوں اور میری اولاد کو بھی (یہ توفیق بخش) اے پروردگار میری دعا قبول فرما
+
+[Open on Quran.com](https://quran.com/14/40)
+
+#### 17:11 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَدْعُ ٱلْإِنسَـٰنُ بِٱلشَّرِّ دُعَآءَهُۥ بِٱلْخَيْرِ ۖ وَكَانَ ٱلْإِنسَـٰنُ عَجُولًا
+
+</div>
+
+**Word in this verse:** `دُعَآءَهُۥ` — (as) he prays
+
+**English (Sahih International):** And man supplicates for evil [when angry] as he supplicates for good, and man is ever hasty.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور انسان جس طرح (جلدی سے) بھلائی مانگتا ہے اسی طرح برائی مانگتا ہے۔ اور انسان جلد باز (پیدا ہوا) ہے
+
+[Open on Quran.com](https://quran.com/17/11)
+
+#### 19:4 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيًّا
+
+</div>
+
+**Word in this verse:** `بِدُعَآئِكَ` — in (my) supplication (to) You
+
+**English (Sahih International):** He said, "My Lord, indeed my bones have weakened, and my head has filled with white, and never have I been in my supplication to You, my Lord, unhappy [i.e., disappointed].
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور) کہا کہ اے میرے پروردگار میری ہڈیاں بڑھاپے کے سبب کمزور ہوگئی ہیں اور سر (ہے کہ) بڑھاپے (کی وجہ سے) شعلہ مارنے لگا ہے اور اے میرے پروردگار میں تجھ سے مانگ کر کبھی محروم نہیں رہا
+
+[Open on Quran.com](https://quran.com/19/4)
+
+#### 19:48 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ ٱللَّهِ وَأَدْعُوا۟ رَبِّى عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّى شَقِيًّا
+
+</div>
+
+**Word in this verse:** `بِدُعَآءِ` — in invocation
+
+**English (Sahih International):** And I will leave you and those you invoke other than Allāh and will invoke my Lord. I expect that I will not be in invocation to my Lord unhappy [i.e., disappointed]."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور میں آپ لوگوں سے اور جن کو آپ خدا کے سوا پکارا کرتے ہیں ان سے کنارہ کرتا ہوں اور اپنے پروردگار ہی کو پکاروں گا۔ امید ہے کہ میں اپنے پروردگار کو پکار کر محروم نہیں رہوں گا
+
+[Open on Quran.com](https://quran.com/19/48)
+
+#### 21:45 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ إِنَّمَآ أُنذِرُكُم بِٱلْوَحْىِ ۚ وَلَا يَسْمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ
+
+</div>
+
+**Word in this verse:** `ٱلدُّعَآءَ` — the call
+
+**English (Sahih International):** Say, "I only warn you by revelation." But the deaf do not hear the call when they are warned.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں تم کو حکم خدا کے مطابق نصیحت کرتا ہوں۔ اور بہروں کوجب نصیحت کی جائے تو وہ پکار کر سنتے ہی نہیں
+
+[Open on Quran.com](https://quran.com/21/45)
+
+#### 24:63 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَّا تَجْعَلُوا۟ دُعَآءَ ٱلرَّسُولِ بَيْنَكُمْ كَدُعَآءِ بَعْضِكُم بَعْضًا ۚ قَدْ يَعْلَمُ ٱللَّهُ ٱلَّذِينَ يَتَسَلَّلُونَ مِنكُمْ لِوَاذًا ۚ فَلْيَحْذَرِ ٱلَّذِينَ يُخَالِفُونَ عَنْ أَمْرِهِۦٓ أَن تُصِيبَهُمْ فِتْنَةٌ أَوْ يُصِيبَهُمْ عَذَابٌ أَلِيمٌ
+
+</div>
+
+**Word in this verse:** `دُعَآءَ` — (the) calling
+
+**English (Sahih International):** Do not make [your] calling of the Messenger among yourselves as the call of one of you to another. Already Allāh knows those of you who slip away, concealed by others. So let those beware who dissent from his [i.e., the Prophet's] order, lest fitnah strike them or a painful punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو پیغمبر کے بلانے کو ایسا خیال نہ کرنا جیسا تم آپس میں ایک دوسرے کو بلاتے ہو۔ بےشک خدا کو یہ لوگ معلوم ہیں جو تم میں سے آنکھ بچا کر چل دیتے ہیں تو جو لوگ ان کے حکم کی مخالفت کرتے ہیں ان کو ڈرنا چاہیئے کہ (ایسا نہ ہو کہ) ان پر کوئی آفت پڑ جائے یا تکلیف دینے والا عذاب نازل ہو
+
+[Open on Quran.com](https://quran.com/24/63)
+
+_…and **11** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

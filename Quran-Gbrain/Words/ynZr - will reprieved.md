@@ -1,0 +1,200 @@
+---
+type: word
+lemma: "يُنظَرُ"
+slug: "ynZr - will reprieved"
+surah_count: 11
+ayah_count: 12
+tags: [word, meaning]
+---
+
+# ynZr - will reprieved
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[nZr - look at towards]]
+
+### Meaning
+**will reprieved** · Lemma **يُنظَرُ**
+
+### Surahs (11)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[015 Al-Hijr]]
+- [[016 An-Nahl]]
+- [[021 Al-Anbya]]
+- [[032 As-Sajdah]]
+- [[038 Sad]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:162 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+خَـٰلِدِينَ فِيهَا ۖ لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ
+
+</div>
+
+**Word in this verse:** `يُنظَرُونَ` — will be reprieved
+
+**English (Sahih International):** Abiding eternally therein. The punishment will not be lightened for them, nor will they be reprieved.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ ہمیشہ اسی (لعنت) میں (گرفتار) رہیں گے۔ ان سے نہ تو عذاب ہی ہلکا کیا جائے گا اور نہ انہیں (کچھ) مہلت ملے گی
+
+[Open on Quran.com](https://quran.com/2/162)
+
+#### 3:88 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+خَـٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنْهُمُ ٱلْعَذَابُ وَلَا هُمْ يُنظَرُونَ
+
+</div>
+
+**Word in this verse:** `يُنظَرُونَ` — will be reprieved
+
+**English (Sahih International):** Abiding eternally therein. The punishment will not be lightened for them, nor will they be reprieved,
+
+**Urdu (Fatah Muhammad Jalandhari):** ہمیشہ اس لعنت میں (گرفتار) رہیں گے ان سے نہ تو عذاب ہلکا کیا جائے گا اور نہ انہیں مہلت دے جائے گی
+
+[Open on Quran.com](https://quran.com/3/88)
+
+#### 6:8 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌ ۖ وَلَوْ أَنزَلْنَا مَلَكًا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ لَا يُنظَرُونَ
+
+</div>
+
+**Word in this verse:** `يُنظَرُونَ` — respite would have been granted to them
+
+**English (Sahih International):** And they say, "Why was there not sent down to him an angel?" But if We had sent down an angel, the matter would have been decided; then they would not be reprieved.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ ان (پیغمبر) پر فرشتہ کیوں نازل نہ ہوا (جو ان کی تصدیق کرتا) اگر ہم فرشتہ نازل کرتے تو کام ہی فیصل ہو جاتا پھر انھیں (مطلق) مہلت نہ دی جاتی
+
+[Open on Quran.com](https://quran.com/6/8)
+
+#### 7:14 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+
+</div>
+
+**Word in this verse:** `أَنظِرْنِىٓ` — Give me respite
+
+**English (Sahih International):** [Satan] said, "Reprieve me until the Day they are resurrected."
+
+**Urdu (Fatah Muhammad Jalandhari):** اس نے کہا کہ مجھے اس دن تک مہلت عطا فرما جس دن لوگ (قبروں سے) اٹھائے جائیں گے
+
+[Open on Quran.com](https://quran.com/7/14)
+
+#### 7:195 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ ۖ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ ۖ أَمْ لَهُمْ أَعْيُنٌ يُبْصِرُونَ بِهَآ ۖ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا ۗ قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ فَلَا تُنظِرُونِ
+
+</div>
+
+**Word in this verse:** `تُنظِرُونِ` — give me respite
+
+**English (Sahih International):** Do they have feet by which they walk? Or do they have hands by which they strike? Or do they have eyes by which they see? Or do they have ears by which they hear? Say, [O Muḥammad], "Call your 'partners' and then conspire against me and give me no respite.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا ان کے پاؤں ہیں جن سے چلیں یا ہاتھ ہیں جن سے پکڑیں یا آنکھیں ہیں جن سے دیکھیں یا کان ہیں جن سے سنیں؟ کہہ دو کہ اپنے شریکوں کو بلالو اور میرے بارے میں (جو) تدبیر (کرنی ہو) کرلو اور مجھے کچھ مہلت بھی نہ دو (پھر دیکھو کہ وہ میرا کیا کرسکتے ہیں)
+
+[Open on Quran.com](https://quran.com/7/195)
+
+#### 10:71 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِۦ يَـٰقَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِى وَتَذْكِيرِى بِـَٔايَـٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلْتُ فَأَجْمِعُوٓا۟ أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةً ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ
+
+</div>
+
+**Word in this verse:** `تُنظِرُونِ` — give me respite
+
+**English (Sahih International):** And recite to them the news of Noah, when he said to his people, "O my people, if my residence and my reminding of the signs of Allāh has become burdensome upon you - then I have relied upon Allāh. So resolve upon your plan and [call upon] your associates. Then let not your plan be obscure to you. Then carry it out upon me and do not give me respite.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو نوح کا قصہ پڑھ کر سنادو۔ جب انہوں نے اپنی قوم سے کہا کہ اے قوم! اگر تم کو میرا تم میں رہنا اور خدا کی آیتوں سے نصیحت کرنا ناگوار ہو تو میں خدا پر بھروسہ رکھتا ہوں۔ تم اپنے شریکوں کے ساتھ مل کر ایک کام (جو میرے بارے میں کرنا چاہو) مقرر کرلو اور وہ تمہاری تمام جماعت (کو معلوم ہوجائے اور کسی) سے پوشیدہ نہ رہے اور پھر وہ کام میرے حق میں کر گزرو اور مجھے مہلت نہ دو
+
+[Open on Quran.com](https://quran.com/10/71)
+
+#### 11:55 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مِن دُونِهِۦ ۖ فَكِيدُونِى جَمِيعًا ثُمَّ لَا تُنظِرُونِ
+
+</div>
+
+**Word in this verse:** `تُنظِرُونِ` — give me respite
+
+**English (Sahih International):** Other than Him. So plot against me all together; then do not give me respite.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یعنی جن کی) خدا کے سوا (عبادت کرتے ہو تو) تم سب مل کر میرے بارے میں جو تدبیر (کرنی چاہو) کرلو اور مجھے مہلت نہ دو
+
+[Open on Quran.com](https://quran.com/11/55)
+
+#### 15:36 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+
+</div>
+
+**Word in this verse:** `فَأَنظِرْنِىٓ` — Then give me respite
+
+**English (Sahih International):** He said, "My Lord, then reprieve me until the Day they are resurrected."
+
+**Urdu (Fatah Muhammad Jalandhari):** (اس نے) کہا کہ پروردگار مجھے اس دن تک مہلت دے جب لوگ (مرنے کے بعد) زندہ کئے جائیں گے
+
+[Open on Quran.com](https://quran.com/15/36)
+
+#### 16:85 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا رَءَا ٱلَّذِينَ ظَلَمُوا۟ ٱلْعَذَابَ فَلَا يُخَفَّفُ عَنْهُمْ وَلَا هُمْ يُنظَرُونَ
+
+</div>
+
+**Word in this verse:** `يُنظَرُونَ` — will be given respite
+
+**English (Sahih International):** And when those who wronged see the punishment, it will not be lightened for them, nor will they be reprieved.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ظالم لوگ عذاب دیکھ لیں گے تو پھر نہ تو اُن کے عذاب ہی میں تخفیف کی جائے گی اور نہ اُن کو مہلت ہی دی جائے گی
+
+[Open on Quran.com](https://quran.com/16/85)
+
+#### 21:40 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+بَلْ تَأْتِيهِم بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنظَرُونَ
+
+</div>
+
+**Word in this verse:** `يُنظَرُونَ` — will be given respite
+
+**English (Sahih International):** Rather, it will come to them unexpectedly and bewilder them, and they will not be able to repel it, nor will they be reprieved.
+
+**Urdu (Fatah Muhammad Jalandhari):** بلکہ قیامت ان پر ناگہاں آ واقع ہوگی۔ اور ان کے ہوش کھو دے گی۔ پھر نہ تو وہ اس کو ہٹا سکیں گے اور نہ ان کو مہلت دی جائے گی
+
+[Open on Quran.com](https://quran.com/21/40)
+
+_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

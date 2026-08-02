@@ -1,0 +1,210 @@
+---
+type: word
+lemma: "خَشِيَ"
+slug: "x$y - fear"
+surah_count: 21
+ayah_count: 34
+tags: [word, meaning]
+---
+
+# x$y - fear
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[x$y - fear]]
+
+### Meaning
+**fear** · Lemma **خَشِيَ**
+
+### Surahs (21)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[009 At-Tawbah]]
+- [[013 Ar-Rad]]
+- [[018 Al-Kahf]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[024 An-Nur]]
+- [[031 Luqman]]
+- [[033 Al-Ahzab]]
+- [[035 Fatir]]
+- [[036 Ya-Sin]]
+- [[039 Az-Zumar]]
+- [[050 Qaf]]
+- [[067 Al-Mulk]]
+- [[079 An-Naziat]]
+- [[080 Abasa]]
+- [[087 Al-Ala]]
+- [[098 Al-Bayyinah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:150 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ
+
+</div>
+
+**Word in this verse:** `تَخْشَوْهُمْ` — fear them
+
+**English (Sahih International):** And from wherever you go out [for prayer], turn your face toward al-Masjid al-Ḥarām. And wherever you [believers] may be, turn your faces toward it in order that the people will not have any argument against you, except for those of them who commit wrong; so fear them not but fear Me. And [it is] so I may complete My favor upon you and that you may be guided,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم جہاں سے نکلو، مسجدِ محترم کی طرف منہ (کرکے نماز پڑھا) کرو۔ اور مسلمانو، تم جہاں ہوا کرو، اسی (مسجد) کی طرف رخ کیا کرو۔ (یہ تاکید) اس لیے (کی گئی ہے) کہ لوگ تم کو کسی طرح کا الزام نہ دے سکیں۔ مگر ان میں سے جو ظالم ہیں، (وہ الزام دیں تو دیں) سو ان سے مت ڈرنا اور مجھی سے ڈرتے رہنا۔ اور یہ بھی مقصود ہے کہ تم کو اپنی تمام نعمتیں بخشوں اور یہ بھی کہ تم راہِ راست پر چلو
+
+[Open on Quran.com](https://quran.com/2/150)
+
+#### 3:173 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَـٰنًا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ
+
+</div>
+
+**Word in this verse:** `فَٱخْشَوْهُمْ` — so fear them
+
+**English (Sahih International):** Those to whom people [i.e., hypocrites] said, "Indeed, the people have gathered against you, so fear them." But it [merely] increased them in faith, and they said, "Sufficient for us is Allāh, and [He is] the best Disposer of affairs."
+
+**Urdu (Fatah Muhammad Jalandhari):** (جب) ان سے لوگوں نے آکر بیان کیا کہ کفار نے تمہارے (مقابلے کے) لئے لشکر کثیر) جمع کیا ہے تو ان سے ڈرو۔ تو ان کا ایمان اور زیادہ ہوگیا۔ اور کہنے لگے ہم کو خدا کافی ہے اور وہ بہت اچھا کارساز ہے
+
+[Open on Quran.com](https://quran.com/3/173)
+
+#### 4:9 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَـٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟ ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًا سَدِيدًا
+
+</div>
+
+**Word in this verse:** `وَلْيَخْشَ` — And let fear 
+
+**English (Sahih International):** And let those [executors and guardians] fear [injustice] as if they [themselves] had left weak offspring behind and feared for them. So let them fear Allāh and speak words of appropriate justice.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ایسے لوگوں کو ڈرنا چاہیئے جو (ایسی حالت میں ہوں کہ) اپنے بعد ننھے ننھے بچے چھوڑ جائیں اور ان کو ان کی نسبت خوف ہو (کہ ان کے مرنے کے بعد ان بیچاروں کا کیا حال ہوگا) پس چاہیئے کہ یہ لوگ خدا سے ڈریں اور معقول بات کہیں
+
+[Open on Quran.com](https://quran.com/4/9)
+
+#### 4:25 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ ٱلْمُحْصَنَـٰتِ ٱلْمُؤْمِنَـٰتِ فَمِن مَّا مَلَكَتْ أَيْمَـٰنُكُم مِّن فَتَيَـٰتِكُمُ ٱلْمُؤْمِنَـٰتِ ۚ وَٱللَّهُ أَعْلَمُ بِإِيمَـٰنِكُم ۚ بَعْضُكُم مِّنۢ بَعْضٍ ۚ فَٱنكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ مُحْصَنَـٰتٍ غَيْرَ مُسَـٰفِحَـٰتٍ وَلَا مُتَّخِذَٰتِ أَخْدَانٍ ۚ فَإِذَآ أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَـٰحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى ٱلْمُحْصَنَـٰتِ مِنَ ٱلْعَذَابِ ۚ ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ مِنكُمْ ۚ وَأَن تَصْبِرُوا۟ خَيْرٌ لَّكُمْ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `خَشِىَ` — fears
+
+**English (Sahih International):** And whoever among you cannot [find] the means to marry free, believing women, then [he may marry] from those whom your right hands possess of believing slave girls. And Allāh is most knowing about your faith. You [believers] are of one another. So marry them with the permission of their people and give them their due compensation [i.e., mahr] according to what is acceptable. [They should be] chaste, neither [of] those who commit unlawful intercourse randomly nor those who take [secret] lovers. But once they are sheltered in marriage, if they should commit adultery, then for them is half the punishment for free [unmarried] women. This [allowance] is for him among you who fears affliction [i.e., sin], but to be patient is better for you. And Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص تم میں سے مومن آزاد عورتوں (یعنی بیبیوں) سے نکاح کرنے کا مقدور نہ رکھے تو مومن لونڈیوں میں ہی جو تمہارے قبضے میں آگئی ہوں (نکاح کرلے) اور خدا تمہارے ایمان کو اچھی طرح جانتا ہے تم آپس میں ایک دوسرے کے ہم جنس ہو تو ان لونڈیوں کے ساتھ ان کے مالکوں سے اجازت حاصل کرکے نکاح کر لو اور دستور کے مطابق ان کا مہر بھی ادا کردو بشرطیکہ عفیفہ ہوں نہ ایسی کہ کھلم کھلا بدکاری کریں اور نہ درپردہ دوستی کرنا چاہیں پھر اگر نکاح میں آکر بدکاری کا ارتکاب کر بیٹھیں تو جو سزا آزاد عورتوں (یعنی بیبیوں) کے لئے ہے اس کی آدھی ان کو (دی جائے) یہ (لونڈی کے ساتھ نکاح کرنے کی) اجازت اس شخص کو ہے جسے گناہ کر بیٹھنے کا اندیشہ ہو اور اگر صبر کرو تو یہ تمہارے لئے بہت اچھا ہے اور خدا بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/4/25)
+
+#### 4:77 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةً ۚ وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ لَوْلَآ أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ ۗ قُلْ مَتَـٰعُ ٱلدُّنْيَا قَلِيلٌ وَٱلْـَٔاخِرَةُ خَيْرٌ لِّمَنِ ٱتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا
+
+</div>
+
+**Word in this verse:** `يَخْشَوْنَ` — [they] fear
+
+**English (Sahih International):** Have you not seen those who were told, "Restrain your hands [from fighting] and establish prayer and give zakāh"? But then when battle was ordained for them, at once a party of them feared men as they fear Allāh or with [even] greater fear. They said, "Our Lord, why have You decreed upon us fighting? If only You had postponed [it for] us for a short time." Say, "The enjoyment of this world is little, and the Hereafter is better for he who fears Allāh. And injustice will not be done to you, [even] as much as a thread [inside a date seed]."
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جن کو (پہلے یہ) حکم دیا گیا تھا کہ اپنے ہاتھوں کو (جنگ سے) روکے رہو اور نماز پڑھتے رہو اور زکوٰة دیتے رہو پھر جب ان پر جہاد فرض کردیا گیا تو بعض لوگ ان میں سے لوگوں سے یوں ڈرنے لگے جیسے خدا سے ڈرا کرتے ہیں بلکہ اس سے بھی زیادہ اور بڑبڑانے لگے کہ اے خدا تو نے ہم پر جہاد (جلد) کیوں فرض کردیا تھوڑی مدت اور ہمیں کیوں مہلت نہ دی (اے پیغمبر ان س)ے کہہ دو کہ دنیا کا فائدہ بہت تھوڑا ہے اور بہت اچھی چیز تو پرہیزگار کے لئے (نجات) آخرت ہے اور تم پر دھاگے برابر بھی ظلم نہیں کیا جائے گا
+
+[Open on Quran.com](https://quran.com/4/77)
+
+#### 5:3 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ ۙ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `تَخْشَوْهُمْ` — fear them
+
+**English (Sahih International):** Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** تم پر مرا ہوا جانور اور (بہتا) لہو اور سور کا گوشت اور جس چیز پر خدا کے سوا کسی اور کا نام پکارا جائے اور جو جانور گلا گھٹ کر مر جائے اور جو چوٹ لگ کر مر جائے اور جو گر کر مر جائے اور جو سینگ لگ کر مر جائے یہ سب حرام ہیں اور وہ جانور بھی جس کو درندے پھاڑ کھائیں۔ مگر جس کو تم (مرنے سے پہلے) ذبح کرلو اور وہ جانور بھی جو تھان پر ذبح کیا جائے اور یہ بھی کہ پاسوں سے قسمت معلوم کرو یہ سب گناہ (کے کام) ہیں آج کافر تمہارے دین سے ناامید ہو گئے ہیں تو ان سے مت ڈرو اور مجھی سے ڈرتے رہو (اور) آج ہم نے تمہارے لئے تمہارا دین کامل کر دیا اور اپنی نعمتیں تم پر پوری کر دیں اور تمہارے لئے اسلام کو دین پسند کیا ہاں جو شخص بھوک میں ناچار ہو جائے (بشرطیکہ) گناہ کی طرف مائل نہ ہو تو خدا بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/5/3)
+
+#### 5:44 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسْلَمُوا۟ لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّـٰنِيُّونَ وَٱلْأَحْبَارُ بِمَا ٱسْتُحْفِظُوا۟ مِن كِتَـٰبِ ٱللَّهِ وَكَانُوا۟ عَلَيْهِ شُهَدَآءَ ۚ فَلَا تَخْشَوُا۟ ٱلنَّاسَ وَٱخْشَوْنِ وَلَا تَشْتَرُوا۟ بِـَٔايَـٰتِى ثَمَنًا قَلِيلًا ۚ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْكَـٰفِرُونَ
+
+</div>
+
+**Word in this verse:** `تَخْشَوُا۟` — fear
+
+**English (Sahih International):** Indeed, We sent down the Torah, in which was guidance and light. The prophets who submitted [to Allāh] judged by it for the Jews, as did the rabbis and scholars by that with which they were entrusted of the Scripture of Allāh, and they were witnesses thereto. So do not fear the people but fear Me, and do not exchange My verses for a small price [i.e., worldly gain]. And whoever does not judge by what Allāh has revealed - then it is those who are the disbelievers.
+
+**Urdu (Fatah Muhammad Jalandhari):** بیشک ہم نے توریت نازل فرمائی جس میں ہدایت اور روشنی ہے اسی کے مطابق انبیاء جو (خدا کے) فرمانبردار تھے یہودیوں کو حکم دیتے رہے ہیں اور مشائخ اور علماء بھی کیونکہ وہ کتاب خدا کے نگہبان مقرر کیے گئے تھے اور اس پر گواہ تھے (یعنی حکم الہٰی کا یقین رکھتے تھے) تو تم لوگوں سے مت ڈرنا اور مجھی سے ڈرتے رہنا اور میری آیتوں کے بدلے تھوڑی سی قیمت نہ لینا اور جو خدا کے نازل فرمائے ہوئے احکام کے مطابق حکم نہ دے تو ایسے ہی لوگ کافر ہیں
+
+[Open on Quran.com](https://quran.com/5/44)
+
+#### 5:52 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يُسَـٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَةٌ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَـٰدِمِينَ
+
+</div>
+
+**Word in this verse:** `نَخْشَىٰٓ` — We fear
+
+**English (Sahih International):** So you see those in whose hearts is disease [i.e., hypocrisy] hastening into [association with] them, saying, "We are afraid a misfortune may strike us." But perhaps Allāh will bring conquest or a decision from Him, and they will become, over what they have been concealing within themselves, regretful.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جن لوگوں کے دلوں میں (نفاق کا) مرض ہے تم ان کو دیکھو گے کہ ان میں دوڑ دوڑ کے ملے جاتے ہیں کہتے ہیں کہ ہمیں خوف ہے کہ کہیں ہم پر زمانے کی گردش نہ آجائے سو قریب ہے کہ خدا فتح بھیجے یا اپنے ہاں سے کوئی اور امر (نازل فرمائے) پھر یہ اپنے دل کی باتوں پر جو چھپایا کرتے تھے پشیمان ہو کر رہ جائیں گے
+
+[Open on Quran.com](https://quran.com/5/52)
+
+#### 9:13 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَا تُقَـٰتِلُونَ قَوْمًا نَّكَثُوٓا۟ أَيْمَـٰنَهُمْ وَهَمُّوا۟ بِإِخْرَاجِ ٱلرَّسُولِ وَهُم بَدَءُوكُمْ أَوَّلَ مَرَّةٍ ۚ أَتَخْشَوْنَهُمْ ۚ فَٱللَّهُ أَحَقُّ أَن تَخْشَوْهُ إِن كُنتُم مُّؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `أَتَخْشَوْنَهُمْ ۚ` — Do you fear them
+
+**English (Sahih International):** Would you not fight against a people who broke their oaths and determined to expel the Messenger, and they had begun [the attack upon] you the first time? Do you fear them? But Allāh has more right that you should fear Him, if you are [truly] believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم ایسے لوگوں سے کیوں نہ لڑو جنہوں نے اپنی قسموں کو توڑ ڈالا اور پیغمبر (خدا) کے جلا وطن کرنے کا عزم مصمم کر لیا اور انہوں نے تم سے (عہد شکنی کی) ابتدا کی۔ کیا تم ایسے لوگوں سے ڈرتے ہو حالانکہ ڈرنے کے لائق خدا ہے بشرطیکہ ایمان رکھتے ہو
+
+[Open on Quran.com](https://quran.com/9/13)
+
+#### 9:18 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّمَا يَعْمُرُ مَسَـٰجِدَ ٱللَّهِ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَلَمْ يَخْشَ إِلَّا ٱللَّهَ ۖ فَعَسَىٰٓ أُو۟لَـٰٓئِكَ أَن يَكُونُوا۟ مِنَ ٱلْمُهْتَدِينَ
+
+</div>
+
+**Word in this verse:** `يَخْشَ` — fear
+
+**English (Sahih International):** The mosques of Allāh are only to be maintained by those who believe in Allāh and the Last Day and establish prayer and give zakāh and do not fear except Allāh, for it is expected that those will be of the [rightly] guided.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا کی مسجدوں کو تو وہ لوگ آباد کرتے ہیں جو خدا پر اور روز قیامت پر ایمان لاتے ہیں اور نماز پڑھتے اور زکواة دیتے ہیں اور خدا کے سوا کسی سے نہیں ڈرتے۔ یہی لوگ امید ہے کہ ہدایت یافتہ لوگوں میں (داخل) ہوں
+
+[Open on Quran.com](https://quran.com/9/18)
+
+_…and **24** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

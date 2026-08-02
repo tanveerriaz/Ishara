@@ -1,0 +1,95 @@
+---
+type: word
+lemma: "أَسِف"
+slug: ">sf - grieved"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# >sf - grieved
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[>sf - grief]]
+
+### Meaning
+**grieved** · Lemma **أَسِف**
+
+### Surahs (4)
+- [[007 Al-Araf]]
+- [[012 Yusuf]]
+- [[018 Al-Kahf]]
+- [[020 Taha]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 7:150 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَـٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ بَعْدِىٓ ۖ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ ۖ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيْهِ ۚ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `أَسِفًۭا` — and grieved
+
+**English (Sahih International):** And when Moses returned to his people, angry and grieved, he said, "How wretched is that by which you have replaced me after [my departure]. Were you impatient over the matter of your Lord?" And he threw down the tablets and seized his brother by [the hair of] his head, pulling him toward him. [Aaron] said, "O son of my mother, indeed the people overpowered me and were about to kill me, so let not the enemies rejoice over me and do not place me among the wrongdoing people."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ اپنی قوم میں نہایت غصے اور افسوس کی حالت میں واپس آئے۔ تو کہنے لگے کہ تم نے میرے بعد بہت ہی بداطواری کی۔ کیا تم نے اپنے پروردگار کا حکم (یعنی میرا اپنے پاس آنا) جلد چاہا (یہ کہا) اور (شدت غضب سے تورات کی) تختیاں ڈال دیں اور اپنے بھائی کے سر (کے بالوں) کو پکڑ کر اپنی طرف کھینچنے لگے۔ انہوں نے کہا کہ بھائی جان لوگ تو مجھے کمزور سمجھتے تھے اور قریب تھا کہ قتل کردیں۔ تو ایسا کام نہ کیجیے کہ دشمن مجھ پر ہنسیں اور مجھے ظالم لوگوں میں مت ملایئے
+
+[Open on Quran.com](https://quran.com/7/150)
+
+#### 12:84 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَـٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌ
+
+</div>
+
+**Word in this verse:** `يَـٰٓأَسَفَىٰ` — Alas, my grief
+
+**English (Sahih International):** And he turned away from them and said, "Oh, my sorrow over Joseph," and his eyes became white from grief, for he was [of that] a suppressor.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے پاس سے چلے گئے اور کہنے لگے ہائے افسوس یوسف (ہائے افسوس) اور رنج والم میں (اس قدر روئے کہ) ان کی آنکھیں سفید ہوگئیں اور ان کا دل غم سے بھر رہا تھا
+
+[Open on Quran.com](https://quran.com/12/84)
+
+#### 18:6 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَعَلَّكَ بَـٰخِعٌ نَّفْسَكَ عَلَىٰٓ ءَاثَـٰرِهِمْ إِن لَّمْ يُؤْمِنُوا۟ بِهَـٰذَا ٱلْحَدِيثِ أَسَفًا
+
+</div>
+
+**Word in this verse:** `أَسَفًا` — (in) grief
+
+**English (Sahih International):** Then perhaps you would kill yourself through grief over them, [O Muḥammad], if they do not believe in this message, [and] out of sorrow.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) اگر یہ اس کلام پر ایمان نہ لائیں تو شاید تم کے ان پیچھے رنج کر کر کے اپنے تئیں ہلاک کردو گے
+
+[Open on Quran.com](https://quran.com/18/6)
+
+#### 20:86 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَـٰنَ أَسِفًا ۚ قَالَ يَـٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى
+
+</div>
+
+**Word in this verse:** `أَسِفًۭا ۚ` — (and) sorrowful
+
+**English (Sahih International):** So Moses returned to his people, angry and grieved. He said, "O my people, did your Lord not make you a good promise? Then, was the time [of its fulfillment] too long for you, or did you wish that wrath from your Lord descend upon you, so you broke your promise [of obedience] to me?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ غصّے اور غم کی حالت میں اپنی قوم کے پاس واپس آئے (اور) کہنے لگے کہ اے قوم کیا تمہارے پروردگار نے تم سے ایک اچھا وعدہ نہیں کیا تھا؟ کیا (میری جدائی کی) مدت تمہیں دراز (معلوم) ہوئی یا تم نے چاہا کہ تم پر تمہارے پروردگار کی طرف سے غضب نازل ہو۔ اور (اس لئے) تم نے مجھ سے جو وعدہ کیا تھا (اس کے) خلاف کیا
+
+[Open on Quran.com](https://quran.com/20/86)
+

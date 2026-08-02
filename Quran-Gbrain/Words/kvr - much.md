@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "كَثُرَ"
+slug: "kvr - much"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# kvr - much
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[kvr - kthr]]
+
+### Meaning
+**much** · Lemma **كَثُرَ**
+
+### Surahs (3)
+- [[004 An-Nisa]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:7 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لِّلرِّجَالِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا تَرَكَ ٱلْوَٰلِدَانِ وَٱلْأَقْرَبُونَ مِمَّا قَلَّ مِنْهُ أَوْ كَثُرَ ۚ نَصِيبًا مَّفْرُوضًا
+
+</div>
+
+**Word in this verse:** `كَثُرَ ۚ` — much 
+
+**English (Sahih International):** For men is a share of what the parents and close relatives leave, and for women is a share of what the parents and close relatives leave, be it little or much - an obligatory share.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو مال ماں باپ اور رشتہ دار چھوڑ مریں تھوڑا ہو یا بہت۔ اس میں مردوں کا بھی حصہ ہے اور عورتوں کا بھی یہ حصے (خدا کے) مقرر کئے ہوئے ہیں
+
+[Open on Quran.com](https://quran.com/4/7)
+
+#### 7:86 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَقْعُدُوا۟ بِكُلِّ صِرَٰطٍ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ بِهِۦ وَتَبْغُونَهَا عِوَجًا ۚ وَٱذْكُرُوٓا۟ إِذْ كُنتُمْ قَلِيلًا فَكَثَّرَكُمْ ۖ وَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ
+
+</div>
+
+**Word in this verse:** `فَكَثَّرَكُمْ ۖ` — and He increased you
+
+**English (Sahih International):** And do not sit on every path, threatening and averting from the way of Allāh those who believe in Him, seeking to make it [seem] deviant. And remember when you were few and He increased you. And see how was the end of the corrupters.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہر رستے پر مت بیٹھا کرو کہ جو شخص خدا پر ایمان نہیں لاتا ہے اسے تم ڈراتے اور راہ خدا سے روکتے اور اس میں کجی ڈھونڈتے ہو اور (اس وقت کو) یاد کرو جب تم تھوڑے سے تھے تو خدا نے تم کو جماعت کثیر کر دیا اور دیکھ لو کہ خرابی کرنے والوں کا انجام کیسا ہوا
+
+[Open on Quran.com](https://quran.com/7/86)
+
+#### 8:19 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن تَسْتَفْتِحُوا۟ فَقَدْ جَآءَكُمُ ٱلْفَتْحُ ۖ وَإِن تَنتَهُوا۟ فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَعُودُوا۟ نَعُدْ وَلَن تُغْنِىَ عَنكُمْ فِئَتُكُمْ شَيْـًٔا وَلَوْ كَثُرَتْ وَأَنَّ ٱللَّهَ مَعَ ٱلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `كَثُرَتْ` — (they are) numerous
+
+**English (Sahih International):** If you [disbelievers] seek the decision [i.e., victory] - the decision [i.e., defeat] has come to you. And if you desist [from hostilities], it is best for you; but if you return [to war], We will return, and never will you be availed by your [large] company at all, even if it should increase; and [that is] because Allāh is with the believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** (کافرو) اگر تم (محمد صلی الله علیہ وآلہ وسلم پر) فتح چاہتے ہو تو تمہارے پاس فتح آچکی۔ (دیکھو) اگر تم (اپنے افعال سے) باز آجاؤ تو تمہارے حق میں بہتر ہے۔ اور اگر پھر (نافرمانی) کرو گے تو ہم بھی پھر تمہیں عذاب کریں گے اور تمہاری جماعت خواہ کتنی ہی کثیر ہو تمہارے کچھ بھی کام نہ آئے گی۔ اور خدا تو مومنوں کے ساتھ ہے
+
+[Open on Quran.com](https://quran.com/8/19)
+

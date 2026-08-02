@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "ضَرَبَ"
+slug: "Drb - strike"
+surah_count: 28
+ayah_count: 54
+tags: [word, meaning]
+---
+
+# Drb - strike
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Drb - tent]]
+
+### Meaning
+**strike** · Lemma **ضَرَبَ**
+
+### Surahs (28)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[020 Taha]]
+- [[022 Al-Hajj]]
+- [[024 An-Nur]]
+- [[025 Al-Furqan]]
+- [[026 Ash-Shuara]]
+- [[029 Al-Ankabut]]
+- [[030 Ar-Rum]]
+- [[036 Ya-Sin]]
+- [[037 As-Saffat]]
+- [[038 Sad]]
+- [[039 Az-Zumar]]
+- [[043 Az-Zukhruf]]
+- [[047 Muhammad]]
+- [[057 Al-Hadid]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:26 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ إِنَّ ٱللَّهَ لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۘ يُضِلُّ بِهِۦ كَثِيرًا وَيَهْدِى بِهِۦ كَثِيرًا ۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلْفَـٰسِقِينَ
+
+</div>
+
+**Word in this verse:** `يَضْرِبَ` — set forth
+
+**English (Sahih International):** Indeed, Allāh is not timid to present an example - that of a mosquito or what is smaller than it. And those who have believed know that it is the truth from their Lord. But as for those who disbelieve, they say, "What did Allāh intend by this as an example?" He misleads many thereby and guides many thereby. And He misleads not except the defiantly disobedient,
+
+**Urdu (Fatah Muhammad Jalandhari):** الله اس بات سے عار نہیں کرتا کہ مچھر یا اس سے بڑھ کر کسی چیز (مثلاً مکھی مکڑی وغیرہ) کی مثال بیان فرمائے۔ جو مومن ہیں، وہ یقین کرتے ہیں وہ ان کے پروردگار کی طرف سے سچ ہے اور جو کافر ہیں وہ کہتے ہیں کہ اس مثال سے خدا کی مراد ہی کیا ہے۔ اس سے (خدا) بہتوں کو گمراہ کرتا ہے اور بہتوں کو ہدایت بخشتا ہے اور گمراہ بھی کرتا تو نافرمانوں ہی کو
+
+[Open on Quran.com](https://quran.com/2/26)
+
+#### 2:60 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ ۖ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
+
+</div>
+
+**Word in this verse:** `ٱضْرِب` — Strike
+
+**English (Sahih International):** And [recall] when Moses prayed for water for his people, so We said, "Strike with your staff the stone." And there gushed forth from it twelve springs, and every people [i.e., tribe] knew its watering place. "Eat and drink from the provision of Allāh, and do not commit abuse on the earth, spreading corruption."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لیے (خدا سے) پانی مانگا تو ہم نے کہا کہ اپنی لاٹھی پتھر پر مارو۔ (انہوں نے لاٹھی ماری) تو پھر اس میں سے بارہ چشمے پھوٹ نکلے، اور تمام لوگوں نے اپنا اپنا گھاٹ معلوم کر (کے پانی پی) لیا۔ (ہم نے حکم دیا کہ) خدا کی (عطا فرمائی ہوئی) روزی کھاؤ اور پیو، مگر زمین میں فساد نہ کرتے پھرنا
+
+[Open on Quran.com](https://quran.com/2/60)
+
+#### 2:61 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قُلْتُمْ يَـٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ۚ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ ٱلْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
+
+</div>
+
+**Word in this verse:** `وَضُرِبَتْ` — And were struck
+
+**English (Sahih International):** And [recall] when you said, "O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions." [Moses] said, "Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked." And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے کہا کہ موسیٰ! ہم سے ایک (ہی) کھانے پر صبر نہیں ہو سکتا تو اپنے پروردگار سے دعا کیجئے کہ ترکاری اور ککڑی اور گیہوں اور مسور اور پیاز (وغیرہ) جو نباتات زمین سے اُگتی ہیں، ہمارے لیے پیدا کر دے۔ انہوں نے کہا کہ بھلا عمدہ چیزیں چھوڑ کر ان کے عوض ناقص چیزیں کیوں چاہتے ہوں۔ (اگر یہی چیزیں مطلوب ہیں) تو کسی شہر میں جا اترو، وہاں جو مانگتے ہو، مل جائے گا۔ اور (آخرکار) ذلت (ورسوائی) اور محتاجی (وبے نوائی) ان سے چمٹا دی گئی اور وہ الله کے غضب میں گرفتار ہو گئے۔ یہ اس لیے کہ وہ الله کی آیتوں سے انکار کرتے تھے اور (اس کے) نبیوں کو ناحق قتل کر دیتے تھے۔ (یعنی) یہ اس لیے کہ نافرمانی کئے جاتے اور حد سے بڑھے جاتے تھے
+
+[Open on Quran.com](https://quran.com/2/61)
+
+#### 2:73 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا ۚ كَذَٰلِكَ يُحْىِ ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `ٱضْرِبُوهُ` — Strike him
+
+**English (Sahih International):** So We said, "Strike him [i.e., the slain man] with part of it." Thus does Allāh bring the dead to life, and He shows you His signs that you might reason.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے کہا کہ اس بیل کا کوئی سا ٹکڑا مقتول کو مارو۔ اس طرح خدا مردوں کو زندہ کرتا ہے اور تم کو اپنی (قدرت کی) نشانیاں دکھاتا ہے تاکہ تم سمجھو
+
+[Open on Quran.com](https://quran.com/2/73)
+
+#### 2:273 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ يَحْسَبُهُمُ ٱلْجَاهِلُ أَغْنِيَآءَ مِنَ ٱلتَّعَفُّفِ تَعْرِفُهُم بِسِيمَـٰهُمْ لَا يَسْـَٔلُونَ ٱلنَّاسَ إِلْحَافًا ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `ضَرْبًۭا` — (to) move about
+
+**English (Sahih International):** [Charity is] for the poor who have been restricted for the cause of Allāh, unable to move about in the land. An ignorant [person] would think them self-sufficient because of their restraint, but you will know them by their [characteristic] sign. They do not ask people persistently [or at all]. And whatever you spend of good - indeed, Allāh is Knowing of it.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور ہاں تم جو خرچ کرو گے تو) ان حاجتمندوں کے لئے جو خدا کی راہ میں رکے بیٹھے ہیں اور ملک میں کسی طرف جانے کی طاقت نہیں رکھتے (اور مانگنے سے عار رکھتے ہیں) یہاں تک کہ نہ مانگنے کی وجہ سے ناواقف شخص ان کو غنی خیال کرتا ہے اور تم قیافے سے ان کو صاف پہچان لو (کہ حاجتمند ہیں اور شرم کے سبب) لوگوں سے (منہ پھوڑ کر اور) لپٹ کر نہیں مانگ سکتے اور تم جو مال خرچ کرو گے کچھ شک نہیں کہ خدا اس کو جانتا ہے
+
+[Open on Quran.com](https://quran.com/2/273)
+
+#### 3:112 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ۚ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ ۚ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
+
+</div>
+
+**Word in this verse:** `ضُرِبَتْ` — Struck
+
+**English (Sahih International):** They have been put under humiliation [by Allāh] wherever they are overtaken, except for a rope [i.e., covenant] from Allāh and a rope [i.e., treaty] from the people [i.e., the Muslims]. And they have drawn upon themselves anger from Allāh and have been put under destitution. That is because they disbelieved in [i.e., rejected] the verses of Allāh and killed the prophets without right. That is because they disobeyed and [habitually] transgressed.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ جہاں نظر آئیں گے ذلت (کو دیکھو گے کہ) ان سے چمٹ رہی ہے بجز اس کے کہ یہ خدا اور (مسلمان) لوگوں کی پناہ میں آ جائیں اور یہ لوگ خدا کے غضب میں گرفتار ہیں اور ناداری ان سے لپٹ رہی ہے یہ اس لیے کہ خدا کی آیتوں سے انکار کرتےتھے اور (اس کے) پیغمبروں کو ناحق قتل کر دیتے تھے یہ اس لیے کہ یہ نافرمانی کیے جاتے اور حد سے بڑھے جاتے تھے
+
+[Open on Quran.com](https://quran.com/3/112)
+
+#### 3:156 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ كَفَرُوا۟ وَقَالُوا۟ لِإِخْوَٰنِهِمْ إِذَا ضَرَبُوا۟ فِى ٱلْأَرْضِ أَوْ كَانُوا۟ غُزًّى لَّوْ كَانُوا۟ عِندَنَا مَا مَاتُوا۟ وَمَا قُتِلُوا۟ لِيَجْعَلَ ٱللَّهُ ذَٰلِكَ حَسْرَةً فِى قُلُوبِهِمْ ۗ وَٱللَّهُ يُحْىِۦ وَيُمِيتُ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+</div>
+
+**Word in this verse:** `ضَرَبُوا۟` — they traveled
+
+**English (Sahih International):** O you who have believed, do not be like those who disbelieved and said about their brothers when they traveled through the land or went out to fight, "If they had been with us, they would not have died or have been killed," so Allāh makes that [misconception] a regret within their hearts. And it is Allāh who gives life and causes death, and Allāh is Seeing of what you do.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! ان لوگوں جیسے نہ ہونا جو کفر کرتے ہیں اور ان کے (مسلمان) بھائی جب (خدا کی راہ میں) سفر کریں (اور مر جائیں) یا جہاد کو نکلیں (اور مارے جائیں) تو ان کی نسبت کہتے ہیں کہ اگر وہ ہمارے پاس رہتے تو نہ مرتے اور نہ مارے جاتے۔ ان باتوں سے مقصود یہ ہے کہ خدا ان لوگوں کے دلوں میں افسوس پیدا کر دے اور زندگی اور موت تو خدا ہی دیتا ہے اور خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/3/156)
+
+#### 4:34 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّـٰلِحَـٰتُ قَـٰنِتَـٰتٌ حَـٰفِظَـٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّـٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا
+
+</div>
+
+**Word in this verse:** `وَٱضْرِبُوهُنَّ ۖ` — and [finally] strike them
+
+**English (Sahih International):** Men are in charge of women by [right of] what Allāh has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allāh would have them guard. But those [wives] from whom you fear arrogance - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them [lightly]. But if they obey you [once more], seek no means against them. Indeed, Allāh is ever Exalted and Grand.
+
+**Urdu (Fatah Muhammad Jalandhari):** مرد عورتوں پر مسلط وحاکم ہیں اس لئے کہ خدا نے بعض کو بعض سے افضل بنایا ہے اور اس لئے بھی کہ مرد اپنا مال خرچ کرتے ہیں تو جو نیک بیبیاں ہیں وہ مردوں کے حکم پر چلتی ہیں اور ان کے پیٹھ پیچھے خدا کی حفاظت میں (مال وآبرو کی) خبرداری کرتی ہیں اور جن عورتوں کی نسبت تمہیں معلوم ہو کہ سرکشی (اور بدخوئی) کرنے لگی ہیں تو (پہلے) ان کو (زبانی) سمجھاؤ (اگر نہ سمجھیں تو) پھر ان کے ساتھ سونا ترک کردو اگر اس پر بھی باز نہ آئیں تو زدوکوب کرو اور اگر فرمانبردار ہوجائیں تو پھر ان کو ایذا دینے کا کوئی بہانہ مت ڈھونڈو بےشک خدا سب سے اعلیٰ (اور) جلیل القدر ہے
+
+[Open on Quran.com](https://quran.com/4/34)
+
+#### 4:94 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ فَتَبَيَّنُوا۟ وَلَا تَقُولُوا۟ لِمَنْ أَلْقَىٰٓ إِلَيْكُمُ ٱلسَّلَـٰمَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٌ ۚ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ ٱللَّهُ عَلَيْكُمْ فَتَبَيَّنُوٓا۟ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
+
+</div>
+
+**Word in this verse:** `ضَرَبْتُمْ` — you go forth
+
+**English (Sahih International):** O you who have believed, when you go forth [to fight] in the cause of Allāh, investigate; and do not say to one who gives you [a greeting of] peace, "You are not a believer," aspiring for the goods of worldly life; for with Allāh are many acquisitions. You [yourselves] were like that before; then Allāh conferred His favor [i.e., guidance] upon you, so investigate. Indeed Allāh is ever, of what you do, Aware.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم خدا کی راہ میں باہر نکلو کرو تو تحقیق سے کام لیا کرو اور جو شخص تم سے سلام علیک کرے اس سے یہ نہ کہو کہ تم مومن نہیں اور اس سے تمہاری غرض یہ ہو کہ دنیا کی زندگی کا فائدہ حاصل کرو سو خدا کے نزدیک بہت سے غنیمتیں ہیں تم بھی تو پہلے ایسے ہی تھے پھر خدا نے تم پر احسان کیا تو (آئندہ) تحقیق کرلیا کرو اور جو عمل تم کرتے ہو خدا کو سب کی خبر ہے
+
+[Open on Quran.com](https://quran.com/4/94)
+
+#### 4:101 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ إِنْ خِفْتُمْ أَن يَفْتِنَكُمُ ٱلَّذِينَ كَفَرُوٓا۟ ۚ إِنَّ ٱلْكَـٰفِرِينَ كَانُوا۟ لَكُمْ عَدُوًّا مُّبِينًا
+
+</div>
+
+**Word in this verse:** `ضَرَبْتُمْ` — you travel
+
+**English (Sahih International):** And when you travel throughout the land, there is no blame upon you for shortening the prayer, [especially] if you fear that those who disbelieve may disrupt [or attack] you. Indeed, the disbelievers are ever to you a clear enemy.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم سفر کو جاؤ تو تم پر کچھ گناہ نہیں کہ نماز کو کم کرکے پڑھو بشرطیکہ تم کو خوف ہو کہ کافر لوگ تم کو ایذا دیں گے بےشک کافر تمہارے کھلے دشمن ہیں
+
+[Open on Quran.com](https://quran.com/4/101)
+
+_…and **44** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

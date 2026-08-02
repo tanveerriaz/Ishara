@@ -1,0 +1,110 @@
+---
+type: word
+lemma: "جاثِم"
+slug: "jAvm - fallen prone"
+surah_count: 3
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# jAvm - fallen prone
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[jvm - jthm]]
+
+### Meaning
+**fallen prone** · Lemma **جاثِم**
+
+### Surahs (3)
+- [[007 Al-Araf]]
+- [[011 Hud]]
+- [[029 Al-Ankabut]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 7:78 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَـٰثِمِينَ
+
+</div>
+
+**Word in this verse:** `جَـٰثِمِينَ` — fallen prone
+
+**English (Sahih International):** So the earthquake seized them, and they became within their home [corpses] fallen prone.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کو بھونچال نے آ پکڑا اور وہ اپنے گھروں میں اوندھے پڑے رہ گئے
+
+[Open on Quran.com](https://quran.com/7/78)
+
+#### 7:91 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَـٰثِمِينَ
+
+</div>
+
+**Word in this verse:** `جَـٰثِمِينَ` — fallen prone
+
+**English (Sahih International):** So the earthquake seized them, and they became within their home [corpses] fallen prone.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کو بھونچال نے آپکڑا اور وہ اپنے گھروں میں اوندھے پڑے رہ گئے
+
+[Open on Quran.com](https://quran.com/7/91)
+
+#### 11:67 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ
+
+</div>
+
+**Word in this verse:** `جَـٰثِمِينَ` — fallen prone
+
+**English (Sahih International):** And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے ظلم کیا تھا ان کو چنگھاڑ (کی صورت میں عذاب) نے آپکڑا تو وہ اپنے گھروں میں اوندھے پڑے رہ گئے
+
+[Open on Quran.com](https://quran.com/11/67)
+
+#### 11:94 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍ مِّنَّا وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَـٰرِهِمْ جَـٰثِمِينَ
+
+</div>
+
+**Word in this verse:** `جَـٰثِمِينَ` — fallen prone
+
+**English (Sahih International):** And when Our command came, We saved Shuʿayb and those who believed with him, by mercy from Us. And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہمارا حکم آپہنچا تو ہم نے شعیب کو اور جو لوگ ان کے ساتھ ایمان لائے تھے ان کو تو اپنی رحمت سے بچا لیا۔ اور جو لوگ ظالم تھے، ان کو چنگھاڑ نے آدبوچا تو وہ اپنے گھروں میں اوندھے پڑے رہ گئے
+
+[Open on Quran.com](https://quran.com/11/94)
+
+#### 29:37 · [[029 Al-Ankabut]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَـٰثِمِينَ
+
+</div>
+
+**Word in this verse:** `جَـٰثِمِينَ` — fallen prone
+
+**English (Sahih International):** But they denied him, so the earthquake seized them, and they became within their home [corpses] fallen prone.
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر اُنہوں نے اُن کو جھوٹا سمجھا سو اُن کو زلزلے (کے عذاب) نے آپکڑا اور وہ اپنے گھروں میں اوندھے پڑے رہ گئے
+
+[Open on Quran.com](https://quran.com/29/37)
+

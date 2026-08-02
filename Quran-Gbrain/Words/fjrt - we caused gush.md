@@ -1,0 +1,129 @@
+---
+type: word
+lemma: "فُجِّرَتْ"
+slug: "fjrt - we caused gush"
+surah_count: 6
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# fjrt - we caused gush
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[fjr - cleave cut open]]
+
+### Meaning
+**we caused gush** · Lemma **فُجِّرَتْ**
+
+### Surahs (6)
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[036 Ya-Sin]]
+- [[054 Al-Qamar]]
+- [[076 Al-Insan]]
+- [[082 Al-Infitar]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 17:91 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوْ تَكُونَ لَكَ جَنَّةٌ مِّن نَّخِيلٍ وَعِنَبٍ فَتُفَجِّرَ ٱلْأَنْهَـٰرَ خِلَـٰلَهَا تَفْجِيرًا
+
+</div>
+
+**Word in this verse:** `فَتُفَجِّرَ` — and cause to gush forth
+
+**English (Sahih International):** Or [until] you have a garden of palm trees and grapes and make rivers gush forth within them in force [and abundance]
+
+**Urdu (Fatah Muhammad Jalandhari):** یا تمہارا کھجوروں اور انگوروں کا کوئی باغ ہو اور اس کے بیچ میں نہریں بہا نکالو
+
+[Open on Quran.com](https://quran.com/17/91)
+
+#### 18:33 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كِلْتَا ٱلْجَنَّتَيْنِ ءَاتَتْ أُكُلَهَا وَلَمْ تَظْلِم مِّنْهُ شَيْـًٔا ۚ وَفَجَّرْنَا خِلَـٰلَهُمَا نَهَرًا
+
+</div>
+
+**Word in this verse:** `وَفَجَّرْنَا` — And We caused to gush forth
+
+**English (Sahih International):** Each of the two gardens produced its fruit and did not fall short thereof in anything. And We caused to gush forth within them a river.
+
+**Urdu (Fatah Muhammad Jalandhari):** دونوں باغ (کثرت سے) پھل لاتے۔ اور اس (کی پیداوار) میں کسی طرح کی کمی نہ ہوتی اور دونوں میں ہم نے ایک نہر بھی جاری کر رکھی تھی
+
+[Open on Quran.com](https://quran.com/18/33)
+
+#### 36:34 · [[036 Ya-Sin]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَعَلْنَا فِيهَا جَنَّـٰتٍ مِّن نَّخِيلٍ وَأَعْنَـٰبٍ وَفَجَّرْنَا فِيهَا مِنَ ٱلْعُيُونِ
+
+</div>
+
+**Word in this verse:** `وَفَجَّرْنَا` — and We caused to gush forth
+
+**English (Sahih International):** And We placed therein gardens of palm trees and grapevines and caused to burst forth therefrom some springs -
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس میں کھجوروں اور انگوروں کے باغ پیدا کیے اور اس میں چشمے جاری کردیئے
+
+[Open on Quran.com](https://quran.com/36/34)
+
+#### 54:12 · [[054 Al-Qamar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ
+
+</div>
+
+**Word in this verse:** `وَفَجَّرْنَا` — And We caused to burst
+
+**English (Sahih International):** And caused the earth to burst with springs, and the waters met for a matter already predestined.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور زمین میں چشمے جاری کردیئے تو پانی ایک کام کے لئے جو مقدر ہوچکا تھا جمع ہوگیا
+
+[Open on Quran.com](https://quran.com/54/12)
+
+#### 76:6 · [[076 Al-Insan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+عَيْنًا يَشْرَبُ بِهَا عِبَادُ ٱللَّهِ يُفَجِّرُونَهَا تَفْجِيرًا
+
+</div>
+
+**Word in this verse:** `يُفَجِّرُونَهَا` — causing it to gush forth
+
+**English (Sahih International):** A spring of which the [righteous] servants of Allāh will drink; they will make it gush forth in force [and abundance].
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ ایک چشمہ ہے جس میں سے خدا کے بندے پئیں گے اور اس میں سے (چھوٹی چھوٹی) نہریں نکالیں گے
+
+[Open on Quran.com](https://quran.com/76/6)
+
+#### 82:3 · [[082 Al-Infitar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا ٱلْبِحَارُ فُجِّرَتْ
+
+</div>
+
+**Word in this verse:** `فُجِّرَتْ` — are made to gush forth
+
+**English (Sahih International):** And when the seas are erupted
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب دریا بہہ (کر ایک دوسرے سے مل) جائیں گے
+
+[Open on Quran.com](https://quran.com/82/3)
+

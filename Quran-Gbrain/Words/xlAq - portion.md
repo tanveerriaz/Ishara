@@ -1,0 +1,128 @@
+---
+type: word
+lemma: "خَلاق"
+slug: "xlAq - portion"
+surah_count: 5
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# xlAq - portion
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[xlq - create]]
+
+### Meaning
+**portion** · Lemma **خَلاق**
+
+### Surahs (5)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[009 At-Tawbah]]
+- [[015 Al-Hijr]]
+- [[036 Ya-Sin]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:102 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَـٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَـٰنَ ۖ وَمَا كَفَرَ سُلَيْمَـٰنُ وَلَـٰكِنَّ ٱلشَّيَـٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ بِبَابِلَ هَـٰرُوتَ وَمَـٰرُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ ۚ وَمَا هُم بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِنْ خَلَـٰقٍ ۚ وَلَبِئْسَ مَا شَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `خَلَـٰقٍۢ ۚ` — share
+
+**English (Sahih International):** And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Hārūt and Mārūt. But they [i.e., the two angels] do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allāh. And they [i.e., people] learn what harms them and does not benefit them. But they [i.e., the Children of Israel] certainly knew that whoever purchased it [i.e., magic] would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
+
+[Open on Quran.com](https://quran.com/2/102)
+
+#### 2:200 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِذَا قَضَيْتُم مَّنَـٰسِكَكُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَذِكْرِكُمْ ءَابَآءَكُمْ أَوْ أَشَدَّ ذِكْرًا ۗ فَمِنَ ٱلنَّاسِ مَن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا وَمَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِنْ خَلَـٰقٍ
+
+</div>
+
+**Word in this verse:** `خَلَـٰقٍۢ` — any share
+
+**English (Sahih International):** And when you have completed your rites, remember Allāh like your [previous] remembrance of your fathers or with [much] greater remembrance. And among the people is he who says, "Our Lord, give us in this world," and he will have in the Hereafter no share.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر جب حج کے تمام ارکان پورے کرچکو تو (منیٰ میں) خدا کو یاد کرو۔ جس طرح اپنے باپ دادا کو یاد کیا کرتے تھے بلکہ اس سے بھی زیادہ اور بعض لوگ ایسے ہیں جو (خدا سے) التجا کرتے ہیں کہ اے پروردگار ہم کو (جو دنیا ہے) دنیا ہی میں عنایت کر ایسے لوگوں کا آخرت میں کچھ حصہ نہیں
+
+[Open on Quran.com](https://quran.com/2/200)
+
+#### 3:77 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلًا أُو۟لَـٰٓئِكَ لَا خَلَـٰقَ لَهُمْ فِى ٱلْـَٔاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَـٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
+
+</div>
+
+**Word in this verse:** `خَلَـٰقَ` — share
+
+**English (Sahih International):** Indeed, those who exchange the covenant of Allāh and their [own] oaths for a small price will have no share in the Hereafter, and Allāh will not speak to them or look at them on the Day of Resurrection, nor will He purify them; and they will have a painful punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کے اقراروں اور اپنی قسموں (کو بیچ ڈالتے ہیں اور ان) کے عوض تھوڑی سی قیمت حاصل کرتے ہیں ان کا آخرت میں کچھ حصہ نہیں ان سے خدا نہ تو کلام کرے گا اور نہ قیامت کے روز ان کی طرف دیکھے گا اور نہ ان کو پاک کرے گا اور ان کو دکھ دینے والا عذاب ہوگا
+
+[Open on Quran.com](https://quran.com/3/77)
+
+#### 9:69 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَٱلَّذِينَ مِن قَبْلِكُمْ كَانُوٓا۟ أَشَدَّ مِنكُمْ قُوَّةً وَأَكْثَرَ أَمْوَٰلًا وَأَوْلَـٰدًا فَٱسْتَمْتَعُوا۟ بِخَلَـٰقِهِمْ فَٱسْتَمْتَعْتُم بِخَلَـٰقِكُمْ كَمَا ٱسْتَمْتَعَ ٱلَّذِينَ مِن قَبْلِكُم بِخَلَـٰقِهِمْ وَخُضْتُمْ كَٱلَّذِى خَاضُوٓا۟ ۚ أُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ
+
+</div>
+
+**Word in this verse:** `بِخَلَـٰقِهِمْ` — their portion
+
+**English (Sahih International):** [You disbelievers are] like those before you; they were stronger than you in power and more abundant in wealth and children. They enjoyed their portion [of worldly enjoyment], and you have enjoyed your portion as those before you enjoyed their portion, and you have engaged [in vanities] like that in which they engaged. [It is] those whose deeds have become worthless in this world and in the Hereafter, and it is they who are the losers.
+
+**Urdu (Fatah Muhammad Jalandhari):** (تم منافق لوگ) ان لوگوں کی طرح ہو، جو تم سے پہلے ہوچکے ہیں۔ وہ تم سے بہت زیادہ طاقتور اور مال و اولاد میں کہیں زیادہ تھے تو وہ اپنے حصے سے بہرہ یاب ہوچکے۔ سو جس طرح تم سے پہلے لوگ اپنے حصے سے فائدہ اٹھا چکے ہیں۔ اسی طرح تم نے اپنے حصے سے فائدہ اٹھا لیا۔ اور جس طرح وہ باطل میں ڈوبے رہے اسی طرح تم باطل میں ڈوبے رہے یہ وہ لوگ ہیں جن کے اعمال دنیا اور آخرت میں ضائع ہوگئے۔ اور یہی نقصان اٹھانے والے ہیں
+
+[Open on Quran.com](https://quran.com/9/69)
+
+#### 15:86 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ رَبَّكَ هُوَ ٱلْخَلَّـٰقُ ٱلْعَلِيمُ
+
+</div>
+
+**Word in this verse:** `ٱلْخَلَّـٰقُ` — (is) the Creator
+
+**English (Sahih International):** Indeed, your Lord - He is the Knowing Creator.
+
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ تمہارا پروردگار (سب کچھ) پیدا کرنے والا (اور) جاننے والا ہے
+
+[Open on Quran.com](https://quran.com/15/86)
+
+#### 36:81 · [[036 Ya-Sin]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَلَيْسَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِقَـٰدِرٍ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُم ۚ بَلَىٰ وَهُوَ ٱلْخَلَّـٰقُ ٱلْعَلِيمُ
+
+</div>
+
+**Word in this verse:** `ٱلْخَلَّـٰقُ` — (is) the Supreme Creator
+
+**English (Sahih International):** Is not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا جس نے آسمانوں اور زمین کو پیدا کیا، کیا وہ اس بات پر قادر نہیں کہ (ان کو پھر) ویسے ہی پیدا کر دے۔ کیوں نہیں۔ اور وہ تو بڑا پیدا کرنے والا اور علم والا ہے
+
+[Open on Quran.com](https://quran.com/36/81)
+

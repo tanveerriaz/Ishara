@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "حَرِير"
+slug: "Hryr - will silk"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# Hryr - will silk
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Hrr - hrr]]
+
+### Meaning
+**will silk** · Lemma **حَرِير**
+
+### Surahs (3)
+- [[022 Al-Hajj]]
+- [[035 Fatir]]
+- [[076 Al-Insan]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 22:23 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا ۖ وَلِبَاسُهُمْ فِيهَا حَرِيرٌ
+
+</div>
+
+**Word in this verse:** `حَرِيرٌۭ` — (will be of) silk
+
+**English (Sahih International):** Indeed, Allāh will admit those who believe and do righteous deeds to gardens beneath which rivers flow. They will be adorned therein with bracelets of gold and pearl, and their garments therein will be silk.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور عمل نیک کرتے رہے خدا ان کو بہشتوں میں داخل کرے گا جن کے تلے نہریں بہہ رہیں ہیں۔ وہاں ان کو سونے کے کنگن پہنائے جائیں گے اور موتی۔ اور وہاں ان کا لباس ریشمی ہوگا
+
+[Open on Quran.com](https://quran.com/22/23)
+
+#### 35:33 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+جَنَّـٰتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا ۖ وَلِبَاسُهُمْ فِيهَا حَرِيرٌ
+
+</div>
+
+**Word in this verse:** `حَرِيرٌۭ` — (will be of) silk
+
+**English (Sahih International):** [For them are] gardens of perpetual residence which they will enter. They will be adorned therein with bracelets of gold and pearls, and their garments therein will be silk.
+
+**Urdu (Fatah Muhammad Jalandhari):** (ان لوگوں کے لئے) بہشتِ جاودانی (ہیں) جن میں وہ داخل ہوں گے۔ وہاں ان کو سونے کے کنگن اور موتی پہنائے جائیں گے۔ اور ان کی پوشاک ریشمی ہوگی
+
+[Open on Quran.com](https://quran.com/35/33)
+
+#### 76:12 · [[076 Al-Insan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَزَىٰهُم بِمَا صَبَرُوا۟ جَنَّةً وَحَرِيرًا
+
+</div>
+
+**Word in this verse:** `وَحَرِيرًۭا` — and silk
+
+**English (Sahih International):** And will reward them for what they patiently endured [with] a garden [in Paradise] and silk [garments].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے صبر کے بدلے ان کو بہشت (کے باغات) اور ریشم (کے ملبوسات) عطا کرے گا
+
+[Open on Quran.com](https://quran.com/76/12)
+

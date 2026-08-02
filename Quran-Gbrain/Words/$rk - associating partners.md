@@ -1,0 +1,111 @@
+---
+type: word
+lemma: "شِرْك"
+slug: "$rk - associating partners"
+surah_count: 4
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# $rk - associating partners
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[$rk - sharing partnership]]
+
+### Meaning
+**associating partners** · Lemma **شِرْك**
+
+### Surahs (4)
+- [[031 Luqman]]
+- [[034 Saba]]
+- [[035 Fatir]]
+- [[046 Al-Ahqaf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 31:13 · [[031 Luqman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قَالَ لُقْمَـٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَـٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ ۖ إِنَّ ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلشِّرْكَ` — associating partners
+
+**English (Sahih International):** And [mention, O Muḥammad], when Luqmān said to his son while he was instructing him, "O my son, do not associate [anything] with Allāh. Indeed, association [with Him] is great injustice."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اُس وقت کو یاد کرو) جب لقمان نے اپنے بیٹے کو نصیحت کرتے ہوئے کہا کہ بیٹا خدا کے ساتھ شرک نہ کرنا۔ شرک تو بڑا (بھاری) ظلم ہے
+
+[Open on Quran.com](https://quran.com/31/13)
+
+#### 34:22 · [[034 Saba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِ ٱللَّهِ ۖ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَمَا لَهُمْ فِيهِمَا مِن شِرْكٍ وَمَا لَهُۥ مِنْهُم مِّن ظَهِيرٍ
+
+</div>
+
+**Word in this verse:** `شِرْكٍۢ` — partnership
+
+**English (Sahih International):** Say, [O Muḥammad], "Invoke those you claim [as deities] besides Allāh." They do not possess an atom's weight [of ability] in the heavens or on the earth, and they do not have therein any partnership [with Him], nor is there for Him from among them any assistant.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ جن کو تم خدا کے سوا (معبود) خیال کرتے ہو ان کو بلاؤ۔ وہ آسمانوں اور زمین میں ذرہ بھر چیز کے بھی مالک نہیں ہیں اور نہ ان میں ان کی شرکت ہے اور نہ ان میں سے کوئی خدا کا مددگار ہے
+
+[Open on Quran.com](https://quran.com/34/22)
+
+#### 35:14 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن تَدْعُوهُمْ لَا يَسْمَعُوا۟ دُعَآءَكُمْ وَلَوْ سَمِعُوا۟ مَا ٱسْتَجَابُوا۟ لَكُمْ ۖ وَيَوْمَ ٱلْقِيَـٰمَةِ يَكْفُرُونَ بِشِرْكِكُمْ ۚ وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍ
+
+</div>
+
+**Word in this verse:** `بِشِرْكِكُمْ ۚ` — your association
+
+**English (Sahih International):** If you invoke them, they do not hear your supplication; and if they heard, they would not respond to you. And on the Day of Resurrection they will deny your association. And none can inform you like [one] Aware [of all matters].
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم ان کو پکارو تو وہ تمہاری پکار نہ سنیں اور اگر سن بھی لیں تو تمہاری بات کو قبول نہ کرسکیں۔ اور قیامت کے دن تمہارے شرک سے انکار کردیں گے۔ اور (خدائے) باخبر کی طرح تم کو کوئی خبر نہیں دے گا
+
+[Open on Quran.com](https://quran.com/35/14)
+
+#### 35:40 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِى ٱلسَّمَـٰوَٰتِ أَمْ ءَاتَيْنَـٰهُمْ كِتَـٰبًا فَهُمْ عَلَىٰ بَيِّنَتٍ مِّنْهُ ۚ بَلْ إِن يَعِدُ ٱلظَّـٰلِمُونَ بَعْضُهُم بَعْضًا إِلَّا غُرُورًا
+
+</div>
+
+**Word in this verse:** `شِرْكٌۭ` — (is) a share
+
+**English (Sahih International):** Say, "Have you considered your 'partners' whom you invoke besides Allāh? Show me what they have created from the earth, or have they partnership [with Him] in the heavens? Or have We given them a book so they are [standing] on evidence therefrom? [No], rather, the wrongdoers do not promise each other except delusion."
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے اپنے شریکوں کو دیکھا جن کو تم خدا کے سوا پکارتے ہو۔ مجھے دکھاؤ کہ انہوں نے زمین سے کون سی چیز پیدا کی ہے یا (بتاؤ کہ) آسمانوں میں ان کی شرکت ہے۔ یا ہم نے ان کو کتاب دی ہے تو وہ اس کی سند رکھتے ہیں (ان میں سے کوئی بات بھی نہیں) بلکہ ظالم جو ایک دوسرے کو وعدہ دیتے ہیں محض فریب ہے
+
+[Open on Quran.com](https://quran.com/35/40)
+
+#### 46:4 · [[046 Al-Ahqaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِى ٱلسَّمَـٰوَٰتِ ۖ ٱئْتُونِى بِكِتَـٰبٍ مِّن قَبْلِ هَـٰذَآ أَوْ أَثَـٰرَةٍ مِّنْ عِلْمٍ إِن كُنتُمْ صَـٰدِقِينَ
+
+</div>
+
+**Word in this verse:** `شِرْكٌۭ` — (is) any share
+
+**English (Sahih International):** Say, [O Muḥammad], "Have you considered that which you invoke besides Allāh? Show me what they have created of the earth; or did they have partnership in [creation of] the heavens? Bring me a scripture [revealed] before this or a [remaining] trace of knowledge, if you should be truthful."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ بھلا تم نے ان چیزوں کو دیکھا ہے جن کو تم خدا کے سوا پکارتے ہو (ذرا) مجھے بھی تو دکھاؤ کہ انہوں نے زمین میں کون سی چیز پیدا کی ہے۔ یا آسمانوں میں ان کی شرکت ہے۔ اگر سچے ہو تو اس سے پہلے کی کوئی کتاب میرے پاس لاؤ۔ یا علم (انبیاء میں) سے کچھ (منقول) چلا آتا ہو (تو اسے پیش کرو)
+
+[Open on Quran.com](https://quran.com/46/4)
+

@@ -1,0 +1,193 @@
+---
+type: word
+lemma: "عَصا"
+slug: "ESA - staff"
+surah_count: 6
+ayah_count: 10
+tags: [word, meaning]
+---
+
+# ESA - staff
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[ESw - staff stick]]
+
+### Meaning
+**staff** · Lemma **عَصا**
+
+### Surahs (6)
+- [[002 Al-Baqarah]]
+- [[007 Al-Araf]]
+- [[020 Taha]]
+- [[026 Ash-Shuara]]
+- [[027 An-Naml]]
+- [[028 Al-Qasas]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:60 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَإِذِ ٱسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِۦ فَقُلْنَا ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنفَجَرَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ ۖ كُلُوا۟ وَٱشْرَبُوا۟ مِن رِّزْقِ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
+
+</div>
+
+**Word in this verse:** `بِّعَصَاكَ` — with your staff
+
+**English (Sahih International):** And [recall] when Moses prayed for water for his people, so We said, "Strike with your staff the stone." And there gushed forth from it twelve springs, and every people [i.e., tribe] knew its watering place. "Eat and drink from the provision of Allāh, and do not commit abuse on the earth, spreading corruption."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لیے (خدا سے) پانی مانگا تو ہم نے کہا کہ اپنی لاٹھی پتھر پر مارو۔ (انہوں نے لاٹھی ماری) تو پھر اس میں سے بارہ چشمے پھوٹ نکلے، اور تمام لوگوں نے اپنا اپنا گھاٹ معلوم کر (کے پانی پی) لیا۔ (ہم نے حکم دیا کہ) خدا کی (عطا فرمائی ہوئی) روزی کھاؤ اور پیو، مگر زمین میں فساد نہ کرتے پھرنا
+
+[Open on Quran.com](https://quran.com/2/60)
+
+#### 7:107 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `عَصَاهُ` — his staff
+
+**English (Sahih International):** So he [i.e., Moses] threw his staff, and suddenly it was a serpent, manifest.
+
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے اپنی لاٹھی (زمین پر) ڈال دی تو وہ اسی وقت صریح اژدھا (ہوگیا)
+
+[Open on Quran.com](https://quran.com/7/107)
+
+#### 7:117 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَلْقِ عَصَاكَ ۖ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
+
+</div>
+
+**Word in this verse:** `عَصَاكَ ۖ` — your staff
+
+**English (Sahih International):** And We inspired to Moses, "Throw your staff," and at once it devoured what they were falsifying.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اس وقت) ہم نے موسیٰ کی طرف وحی بھیجی کہ تم بھی اپنی لاٹھی ڈال دو۔ وہ فوراً (سانپ بن کر) جادوگروں کے بنائے ہوئے سانپوں کو (ایک ایک کرکے) نگل جائے گی
+
+[Open on Quran.com](https://quran.com/7/117)
+
+#### 7:160 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَطَّعْنَـٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا ۚ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ ۖ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ ۚ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَـٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ ۚ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+
+</div>
+
+**Word in this verse:** `بِّعَصَاكَ` — with your staff
+
+**English (Sahih International):** And We divided them into twelve descendant tribes [as distinct] nations. And We inspired to Moses when his people implored him for water, "Strike with your staff the stone," and there gushed forth from it twelve springs. Every people [i.e., tribe] knew its watering place. And We shaded them with clouds and sent down upon them manna and quails, [saying], "Eat from the good things with which We have provided you." And they wronged Us not, but they were [only] wronging themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو (یعنی بنی اسرائیل کو) الگ الگ کرکے بارہ قبیلے (اور) بڑی بڑی جماعتیں بنا دیا۔ اور جب موسیٰ سے ان کی قوم نے پانی طلب کیا تو ہم نے ان کی طرف وحی بھیجی کہ اپنی لاٹھی پتھر پر مار دو۔ تو اس میں سے بارہ چشمے پھوٹ نکلے۔ اور سب لوگوں نے اپنا اپنا گھاٹ معلوم کرلیا۔ اور ہم نے ان (کے سروں) پر بادل کو سائبان بنائے رکھا اور ان پر من وسلویٰ اتارتے رہے۔ اور (ان سے کہا کہ) جو پاکیزہ چیزیں ہم تمہیں دیتے ہیں انہیں کھاؤ۔ اور ان لوگوں نے ہمارا کچھ نقصان نہیں کیا بلکہ (جو) نقصان کیا اپنا ہی کیا
+
+[Open on Quran.com](https://quran.com/7/160)
+
+#### 20:18 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ هِىَ عَصَاىَ أَتَوَكَّؤُا۟ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِى وَلِىَ فِيهَا مَـَٔارِبُ أُخْرَىٰ
+
+</div>
+
+**Word in this verse:** `عَصَاىَ` — (is) my staff
+
+**English (Sahih International):** He said, "It is my staff; I lean upon it, and I bring down leaves for my sheep and I have therein other uses."
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا یہ میری لاٹھی ہے۔ اس پر میں سہارا لگاتا ہوں اور اس سے اپنی بکریوں کے لئے پتے جھاڑتا ہوں اور اس میں میرے لئے اور بھی کئی فائدے ہیں
+
+[Open on Quran.com](https://quran.com/20/18)
+
+#### 26:32 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `عَصَاهُ` — his staff
+
+**English (Sahih International):** So [Moses] threw his staff, and suddenly it was a serpent manifest.
+
+**Urdu (Fatah Muhammad Jalandhari):** پس انہوں نے اپنی لاٹھی ڈالی تو وہ اسی وقت صریح اژدہا بن گئی
+
+[Open on Quran.com](https://quran.com/26/32)
+
+#### 26:45 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
+
+</div>
+
+**Word in this verse:** `عَصَاهُ` — his staff
+
+**English (Sahih International):** Then Moses threw his staff, and at once it devoured what they falsified.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر موسیٰ نے اپنی لاٹھی ڈالی تو وہ ان چیزوں کو جو جادوگروں نے بنائی تھیں یکایک نگلنے لگی
+
+[Open on Quran.com](https://quran.com/26/45)
+
+#### 26:63 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ ۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَٱلطَّوْدِ ٱلْعَظِيمِ
+
+</div>
+
+**Word in this verse:** `بِّعَصَاكَ` — with your staff
+
+**English (Sahih International):** Then We inspired to Moses, "Strike with your staff the sea," and it parted, and each portion was like a great towering mountain.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس وقت ہم نے موسیٰ کی طرف وحی بھیجی کہ اپنی لاٹھی دریا پر مارو۔ تو دریا پھٹ گیا۔ اور ہر ایک ٹکڑا (یوں) ہوگیا (کہ) گویا بڑا پہاڑ (ہے)
+
+[Open on Quran.com](https://quran.com/26/63)
+
+#### 27:10 · [[027 An-Naml]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَلْقِ عَصَاكَ ۚ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ
+
+</div>
+
+**Word in this verse:** `عَصَاكَ ۚ` — your staff
+
+**English (Sahih International):** And [he was told], "Throw down your staff." But when he saw it writhing as if it were a snake, he turned in flight and did not return. [Allāh said], "O Moses, fear not. Indeed, in My presence the messengers do not fear.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی لاٹھی ڈال دو۔ جب اُسے دیکھا تو (اس طرح) ہل رہی تھی گویا سانپ ہے تو پیٹھ پھیر کر بھاگے اور پیچھے مڑ کر نہ دیکھا (حکم ہوا کہ) موسیٰ ڈرو مت۔ ہمارے پاس پیغمبر ڈرا نہیں کرتے
+
+[Open on Quran.com](https://quran.com/27/10)
+
+#### 28:31 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنْ أَلْقِ عَصَاكَ ۖ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَـٰمُوسَىٰٓ أَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ ٱلْـَٔامِنِينَ
+
+</div>
+
+**Word in this verse:** `عَصَاكَ ۖ` — your staff
+
+**English (Sahih International):** And [he was told], "Throw down your staff." But when he saw it writhing as if it was a snake, he turned in flight and did not return. [Allāh said], "O Moses, approach and fear not. Indeed, you are of the secure.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ اپنی لاٹھی ڈالدو۔ جب دیکھا کہ وہ حرکت کر رہی ہے گویا سانپ ہے، تو پیٹھ پھیر کر چل دیئے اور پیچھے پھر کر بھی نہ دیکھا۔ (ہم نے کہا کہ) موسٰی آگے آؤ اور ڈرومت تم امن پانے والوں میں ہو
+
+[Open on Quran.com](https://quran.com/28/31)
+

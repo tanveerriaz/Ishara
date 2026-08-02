@@ -1,0 +1,145 @@
+---
+type: word
+lemma: "سِيقَ"
+slug: "syq - will driven"
+surah_count: 6
+ayah_count: 7
+tags: [word, meaning]
+---
+
+# syq - will driven
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[swq - shank]]
+
+### Meaning
+**will driven** · Lemma **سِيقَ**
+
+### Surahs (6)
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[019 Maryam]]
+- [[032 As-Sajdah]]
+- [[035 Fatir]]
+- [[039 Az-Zumar]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 7:57 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ ۖ حَتَّىٰٓ إِذَآ أَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَـٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ مِن كُلِّ ٱلثَّمَرَٰتِ ۚ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `سُقْنَـٰهُ` — We drive them
+
+**English (Sahih International):** And it is He who sends the winds as good tidings before His mercy [i.e., rainfall] until, when they have carried heavy rainclouds, We drive them to a dead land and We send down rain therein and bring forth thereby [some] of all the fruits. Thus will We bring forth the dead; perhaps you may be reminded.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو اپنی رحمت (یعنی مینھ) سے پہلے ہواؤں کو خوشخبری (بنا کر) بھیجتا ہے۔ یہاں تک کہ جب وہ بھاری بھاری بادلوں کو اٹھا لاتی ہے تو ہم اس کو ایک مری ہوئی بستی کی طرف ہانک دیتے ہیں۔ پھر بادل سے مینھ برساتے ہیں۔ پھر مینھ سے ہر طرح کے پھل پیدا کرتے ہیں۔ اسی طرح ہم مردوں کو (زمین سے) زندہ کرکے باہر نکال لیں گے۔ (یہ آیات اس لیے بیان کی جاتی ہیں) تاکہ تم نصیحت پکڑو
+
+[Open on Quran.com](https://quran.com/7/57)
+
+#### 8:6 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يُجَـٰدِلُونَكَ فِى ٱلْحَقِّ بَعْدَ مَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلْمَوْتِ وَهُمْ يَنظُرُونَ
+
+</div>
+
+**Word in this verse:** `يُسَاقُونَ` — they were driven
+
+**English (Sahih International):** Arguing with you concerning the truth after it had become clear, as if they were being driven toward death while they were looking on.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ لوگ حق بات میں اس کے ظاہر ہوئے پیچھے تم سے جھگڑنے لگے گویا موت کی طرف دھکیلے جاتے ہیں اور اسے دیکھ رہے ہیں
+
+[Open on Quran.com](https://quran.com/8/6)
+
+#### 19:86 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًا
+
+</div>
+
+**Word in this verse:** `وَنَسُوقُ` — And We will drive
+
+**English (Sahih International):** And will drive the criminals to Hell in thirst
+
+**Urdu (Fatah Muhammad Jalandhari):** اور گنہگاروں کو دوزخ کی طرف پیاسے ہانک لے جائیں گے
+
+[Open on Quran.com](https://quran.com/19/86)
+
+#### 32:27 · [[032 As-Sajdah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَلَمْ يَرَوْا۟ أَنَّا نَسُوقُ ٱلْمَآءَ إِلَى ٱلْأَرْضِ ٱلْجُرُزِ فَنُخْرِجُ بِهِۦ زَرْعًا تَأْكُلُ مِنْهُ أَنْعَـٰمُهُمْ وَأَنفُسُهُمْ ۖ أَفَلَا يُبْصِرُونَ
+
+</div>
+
+**Word in this verse:** `نَسُوقُ` — drive
+
+**English (Sahih International):** Have they not seen that We drive water [in clouds] to barren land and bring forth thereby crops from which their livestock eat and [they] themselves? Then do they not see?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا اُنہوں نے نہیں دیکھا کہ ہم بنجر زمین کی طرف پانی رواں کرتے ہیں پھر اس سے کھیتی پیدا کرتے ہیں جس میں سے ان کے چوپائے بھی کھاتے ہیں اور وہ خود بھی (کھاتے ہیں) تو یہ دیکھتے کیوں نہیں۔
+
+[Open on Quran.com](https://quran.com/32/27)
+
+#### 35:9 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَـٰهُ إِلَىٰ بَلَدٍ مَّيِّتٍ فَأَحْيَيْنَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ كَذَٰلِكَ ٱلنُّشُورُ
+
+</div>
+
+**Word in this verse:** `فَسُقْنَـٰهُ` — and We drive them
+
+**English (Sahih International):** And it is Allāh who sends the winds, and they stir the clouds, and We drive them to a dead land and give life thereby to the earth after its lifelessness. Thus is the resurrection.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی تو ہے جو ہوائیں چلاتا ہے اور وہ بادل کو اُبھارتی ہیں پھر ہم ان کو ایک بےجان شہر کی طرف چلاتے ہیں۔ پھر اس سے زمین کو اس کے مرنے کے بعد زندہ کردیتے ہیں۔ اسی طرح مردوں کو جی اُٹھنا ہوگا
+
+[Open on Quran.com](https://quran.com/35/9)
+
+#### 39:71 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَسِيقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا فُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَتْلُونَ عَلَيْكُمْ ءَايَـٰتِ رَبِّكُمْ وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا ۚ قَالُوا۟ بَلَىٰ وَلَـٰكِنْ حَقَّتْ كَلِمَةُ ٱلْعَذَابِ عَلَى ٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `وَسِيقَ` — And (will) be driven
+
+**English (Sahih International):** And those who disbelieved will be driven to Hell in groups until, when they reach it, its gates are opened and its keepers will say, "Did there not come to you messengers from yourselves, reciting to you the verses of your Lord and warning you of the meeting of this Day of yours?" They will say, "Yes, but the word [i.e., decree] of punishment has come into effect upon the disbelievers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کافروں کو گروہ گروہ بنا کر جہنم کی طرف لے جائیں گے۔ یہاں تک کہ جب وہ اس کے پاس پہنچ جائیں گے تو اس کے دروازے کھول دیئے جائیں گے تو اس کے داروغہ ان سے کہیں گے کہ کیا تمہارے پاس تم ہی میں سے پیغمبر نہیں آئے تھے جو تم کو تمہارے پروردگار کی آیتیں پڑھ پڑھ کر سناتے اور اس دن کے پیش آنے سے ڈراتے تھے کہیں گے کیوں نہیں لیکن کافروں کے حق میں عذاب کا حکم متحقق ہوچکا تھا
+
+[Open on Quran.com](https://quran.com/39/71)
+
+#### 39:73 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَسِيقَ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ إِلَى ٱلْجَنَّةِ زُمَرًا ۖ حَتَّىٰٓ إِذَا جَآءُوهَا وَفُتِحَتْ أَبْوَٰبُهَا وَقَالَ لَهُمْ خَزَنَتُهَا سَلَـٰمٌ عَلَيْكُمْ طِبْتُمْ فَٱدْخُلُوهَا خَـٰلِدِينَ
+
+</div>
+
+**Word in this verse:** `وَسِيقَ` — And (will) be driven
+
+**English (Sahih International):** But those who feared their Lord will be driven to Paradise in groups until, when they reach it while its gates have been opened and its keepers say, "Peace be upon you; you have become pure; so enter it to abide eternally therein," [they will enter].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ اپنے پروردگار سے ڈرتے ہیں ان کو گروہ گروہ بنا کر بہشت کی طرف لے جائیں گے یہاں تک کہ جب اس کے پاس پہنچ جائیں گے اور اس کے دروازے کھول دیئے جائیں گے تو اس کے داروغہ ان سے کہیں کہ تم پر سلام تم بہت اچھے رہے۔ اب اس میں ہمیشہ کے لئے داخل ہوجاؤ
+
+[Open on Quran.com](https://quran.com/39/73)
+

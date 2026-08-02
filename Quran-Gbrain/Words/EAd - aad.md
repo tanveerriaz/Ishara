@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "عادَ"
+slug: "EAd - aad"
+surah_count: 27
+ayah_count: 38
+tags: [word, meaning]
+---
+
+# EAd - aad
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Ewd - ewd]]
+
+### Meaning
+**aad** · Lemma **عادَ**
+
+### Surahs (27)
+- [[002 Al-Baqarah]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[009 At-Tawbah]]
+- [[011 Hud]]
+- [[014 Ibrahim]]
+- [[017 Al-Isra]]
+- [[022 Al-Hajj]]
+- [[023 Al-Muminun]]
+- [[024 An-Nur]]
+- [[025 Al-Furqan]]
+- [[026 Ash-Shuara]]
+- [[029 Al-Ankabut]]
+- [[036 Ya-Sin]]
+- [[038 Sad]]
+- [[040 Ghafir]]
+- [[041 Fussilat]]
+- [[046 Al-Ahqaf]]
+- [[050 Qaf]]
+- [[051 Adh-Dhariyat]]
+- [[053 An-Najm]]
+- [[054 Al-Qamar]]
+- [[058 Al-Mujadila]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:275 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَـٰنُ مِنَ ٱلْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ ۗ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ ۚ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ ۖ وَمَنْ عَادَ فَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ
+
+</div>
+
+**Word in this verse:** `عَادَ` — repeated
+
+**English (Sahih International):** Those who consume interest cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, "Trade is [just] like interest." But Allāh has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair rests with Allāh. But whoever returns [to dealing in interest or usury] - those are the companions of the Fire; they will abide eternally therein.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ سود کھاتے ہیں وہ (قبروں سے) اس طرح (حواس باختہ) اٹھیں گے جیسے کسی کو جن نے لپٹ کر دیوانہ بنا دیا ہو یہ اس لئے کہ وہ کہتے ہیں کہ سودا بیچنا بھی تو (نفع کے لحاظ سے) ویسا ہی ہے جیسے سود (لینا) حالانکہ سودے کو خدا نے حلال کیا ہے اور سود کو حرام۔ تو جس شخص کے پاس خدا کی نصیحت پہنچی اور وہ (سود لینے سے) باز آگیا تو جو پہلے ہوچکا وہ اس کا۔ اور (قیامت میں) اس کا معاملہ خدا کے سپرد اور جو پھر لینے لگا تو ایسے لوگ دوزخی ہیں کہ ہمیشہ دوزخ میں (جلتے) رہیں گے
+
+[Open on Quran.com](https://quran.com/2/275)
+
+#### 5:95 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْتُلُوا۟ ٱلصَّيْدَ وَأَنتُمْ حُرُمٌ ۚ وَمَن قَتَلَهُۥ مِنكُم مُّتَعَمِّدًا فَجَزَآءٌ مِّثْلُ مَا قَتَلَ مِنَ ٱلنَّعَمِ يَحْكُمُ بِهِۦ ذَوَا عَدْلٍ مِّنكُمْ هَدْيًۢا بَـٰلِغَ ٱلْكَعْبَةِ أَوْ كَفَّـٰرَةٌ طَعَامُ مَسَـٰكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِّيَذُوقَ وَبَالَ أَمْرِهِۦ ۗ عَفَا ٱللَّهُ عَمَّا سَلَفَ ۚ وَمَنْ عَادَ فَيَنتَقِمُ ٱللَّهُ مِنْهُ ۗ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ
+
+</div>
+
+**Word in this verse:** `عَادَ` — returned
+
+**English (Sahih International):** O you who have believed, do not kill game while you are in the state of iḥrām. And whoever of you kills it intentionally - the penalty is an equivalent from sacrificial animals to what he killed, as judged by two just men among you as an offering [to Allāh] delivered to the Kaʿbah, or an expiation: the feeding of needy people or the equivalent of that in fasting, that he may taste the consequence of his matter [i.e., deed]. Allāh has pardoned what is past; but whoever returns [to violation], then Allāh will take retribution from him. And Allāh is Exalted in Might and Owner of Retribution.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم احرام کی حالت میں ہو تو شکار نہ مارنا اور جو تم میں سے جان بوجھ کر اسے مارے تو (یا تو اس کا) بدلہ (دے اور وہ یہ ہے کہ) اسی طرح کا چارپایہ جسے تم میں دو معتبر شخص مقرر کردیں قربانی (کرے اور یہ قربانی) کعبے پہنچائی جائے یا کفارہ (دے اور وہ) مسکینوں کو کھانا کھلانا (ہے) یا اس کے برابر روزے رکھے تاکہ اپنے کام کی سزا (کا مزہ) چکھے (اور) جو پہلے ہو چکا وہ خدا نے معاف کر دیا اور جو پھر (ایسا کام) کرے گا تو خدا اس سے انتقام لے گا اور خدا غالب اور انتقام لینے والا ہے
+
+[Open on Quran.com](https://quran.com/5/95)
+
+#### 6:28 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+بَلْ بَدَا لَهُم مَّا كَانُوا۟ يُخْفُونَ مِن قَبْلُ ۖ وَلَوْ رُدُّوا۟ لَعَادُوا۟ لِمَا نُهُوا۟ عَنْهُ وَإِنَّهُمْ لَكَـٰذِبُونَ
+
+</div>
+
+**Word in this verse:** `لَعَادُوا۟` — certainly they (would) return
+
+**English (Sahih International):** But what they concealed before has [now] appeared to them. And even if they were returned, they would return to that which they were forbidden; and indeed, they are liars.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں یہ جو کچھ پہلے چھپایا کرتے تھے (آج) ان پر ظاہر ہوگیا ہے اور اگر یہ (دنیا میں) لوٹائے بھی جائیں تو جن (کاموں) سے ان کو منع کیا گیا تھا وہی پھر کرنے لگیں۔کچھ شک نہیں کہ یہ جھوٹے ہیں
+
+[Open on Quran.com](https://quran.com/6/28)
+
+#### 7:29 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ أَمَرَ رَبِّى بِٱلْقِسْطِ ۖ وَأَقِيمُوا۟ وُجُوهَكُمْ عِندَ كُلِّ مَسْجِدٍ وَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۚ كَمَا بَدَأَكُمْ تَعُودُونَ
+
+</div>
+
+**Word in this verse:** `تَعُودُونَ` — (so) will you return
+
+**English (Sahih International):** Say, [O Muḥammad], "My Lord has ordered justice and that you direct yourselves [to the Qiblah] at every place [or time] of prostration, and invoke Him, sincere to Him in religion." Just as He originated you, you will return [to life] -
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میرے پروردگار نے تو انصاف کرنے کا حکم دیا ہے۔ اور یہ کہ ہر نماز کے وقت سیدھا (قبلے کی طرف) رخ کیا کرو اور خاص اسی کی عبادت کرو اور اسی کو پکارو۔ اس نے جس طرح تم کو ابتداء میں پیدا کیا تھا اسی طرح تم پھر پیدا ہوگے
+
+[Open on Quran.com](https://quran.com/7/29)
+
+#### 7:65 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا ۗ قَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ ۚ أَفَلَا تَتَّقُونَ
+
+</div>
+
+**Word in this verse:** `عَادٍ` — Aad
+
+**English (Sahih International):** And to the ʿAad [We sent] their brother Hūd. He said, "O my people, worship Allāh; you have no deity other than Him. Then will you not fear Him?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اسی طرح) قوم عاد کی طرف ان کے بھائی ہود کو بھیجا۔ انہوں نے کہا کہ بھائیو خدا ہی کی عبادت کرو۔ اس کے سوا تمہارا کوئی معبود نہیں۔ کیا تم ڈرتے نہیں؟
+
+[Open on Quran.com](https://quran.com/7/65)
+
+#### 7:74 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ عَادٍ وَبَوَّأَكُمْ فِى ٱلْأَرْضِ تَتَّخِذُونَ مِن سُهُولِهَا قُصُورًا وَتَنْحِتُونَ ٱلْجِبَالَ بُيُوتًا ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
+
+</div>
+
+**Word in this verse:** `عَادٍۢ` — Aad
+
+**English (Sahih International):** And remember when He made you successors after the ʿAad and settled you in the land, [and] you take for yourselves palaces from its plains and carve from the mountains, homes. Then remember the favors of Allāh and do not commit abuse on the earth, spreading corruption."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یاد تو کرو جب اس نے تم کو قوم عاد کے بعد سردار بنایا اور زمین پر آباد کیا کہ نرم زمین سے (مٹی لے لے کر) محل تعمیر کرتے ہو اور پہاڑوں کو تراش تراش کر گھر بناتے ہو۔ پس خدا کی نعمتوں کو یاد کرو اور زمین میں فساد نہ کرتے پھرو
+
+[Open on Quran.com](https://quran.com/7/74)
+
+#### 7:88 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ قَالَ ٱلْمَلَأُ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ مِن قَوْمِهِۦ لَنُخْرِجَنَّكَ يَـٰشُعَيْبُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَكَ مِن قَرْيَتِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا ۚ قَالَ أَوَلَوْ كُنَّا كَـٰرِهِينَ
+
+</div>
+
+**Word in this verse:** `لَتَعُودُنَّ` — you must return
+
+**English (Sahih International):** Said the eminent ones who were arrogant among his people, "We will surely evict you, O Shuʿayb, and those who have believed with you from our city, or you must return to our religion." He said, "Even if we were unwilling?
+
+**Urdu (Fatah Muhammad Jalandhari):** (تو) ان کی قوم میں جو لوگ سردار اور بڑے آدمی تھے، وہ کہنے لگے کہ شعیب! (یا تو) ہم تم کو اور جو لوگ تمہارے ساتھ ایمان لائے ہیں، ان کو اپنے شہر سے نکال دیں گے۔ یا تم ہمارے مذہب میں آجاؤ۔ انہوں نے کہا خواہ ہم (تمہارے دین سے) بیزار ہی ہوں (تو بھی؟)
+
+[Open on Quran.com](https://quran.com/7/88)
+
+#### 7:89 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَدِ ٱفْتَرَيْنَا عَلَى ٱللَّهِ كَذِبًا إِنْ عُدْنَا فِى مِلَّتِكُم بَعْدَ إِذْ نَجَّىٰنَا ٱللَّهُ مِنْهَا ۚ وَمَا يَكُونُ لَنَآ أَن نَّعُودَ فِيهَآ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّنَا ۚ وَسِعَ رَبُّنَا كُلَّ شَىْءٍ عِلْمًا ۚ عَلَى ٱللَّهِ تَوَكَّلْنَا ۚ رَبَّنَا ٱفْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِٱلْحَقِّ وَأَنتَ خَيْرُ ٱلْفَـٰتِحِينَ
+
+</div>
+
+**Word in this verse:** `عُدْنَا` — we returned
+
+**English (Sahih International):** We would have invented against Allāh a lie if we returned to your religion after Allāh had saved us from it. And it is not for us to return to it except that Allāh, our Lord, should will. Our Lord has encompassed all things in knowledge. Upon Allāh we have relied. Our Lord, decide between us and our people in truth, and You are the best of those who give decision."
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر ہم اس کے بعد کہ خدا ہمیں اس سے نجات بخش چکا ہے تمہارے مذہب میں لوٹ جائیں تو بےشک ہم نے خدا پر جھوٹ افتراء باندھا۔ اور ہمیں شایاں نہیں کہ ہم اس میں لوٹ جائیں ہاں خدا جو ہمارا پروردگار ہے وہ چاہے تو (ہم مجبور ہیں)۔ ہمارے پروردگار کا علم ہر چیز پر احاطہ کیے ہوئے ہے۔ ہمارا خدا ہی پر بھروسہ ہے۔ اے پروردگار ہم میں اور ہماری قوم میں انصاف کے ساتھ فیصلہ کردے اور تو سب سے بہتر فیصلہ کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/7/89)
+
+#### 8:19 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن تَسْتَفْتِحُوا۟ فَقَدْ جَآءَكُمُ ٱلْفَتْحُ ۖ وَإِن تَنتَهُوا۟ فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَعُودُوا۟ نَعُدْ وَلَن تُغْنِىَ عَنكُمْ فِئَتُكُمْ شَيْـًٔا وَلَوْ كَثُرَتْ وَأَنَّ ٱللَّهَ مَعَ ٱلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `تَعُودُوا۟` — you return
+
+**English (Sahih International):** If you [disbelievers] seek the decision [i.e., victory] - the decision [i.e., defeat] has come to you. And if you desist [from hostilities], it is best for you; but if you return [to war], We will return, and never will you be availed by your [large] company at all, even if it should increase; and [that is] because Allāh is with the believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** (کافرو) اگر تم (محمد صلی الله علیہ وآلہ وسلم پر) فتح چاہتے ہو تو تمہارے پاس فتح آچکی۔ (دیکھو) اگر تم (اپنے افعال سے) باز آجاؤ تو تمہارے حق میں بہتر ہے۔ اور اگر پھر (نافرمانی) کرو گے تو ہم بھی پھر تمہیں عذاب کریں گے اور تمہاری جماعت خواہ کتنی ہی کثیر ہو تمہارے کچھ بھی کام نہ آئے گی۔ اور خدا تو مومنوں کے ساتھ ہے
+
+[Open on Quran.com](https://quran.com/8/19)
+
+#### 8:38 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُل لِّلَّذِينَ كَفَرُوٓا۟ إِن يَنتَهُوا۟ يُغْفَرْ لَهُم مَّا قَدْ سَلَفَ وَإِن يَعُودُوا۟ فَقَدْ مَضَتْ سُنَّتُ ٱلْأَوَّلِينَ
+
+</div>
+
+**Word in this verse:** `يَعُودُوا۟` — they return
+
+**English (Sahih International):** Say to those who have disbelieved [that] if they cease, what has previously occurred will be forgiven for them. But if they return [to hostility] - then the precedent of the former [rebellious] peoples has already taken place.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) کفار سے کہہ دو کہ اگر وہ اپنے افعال سے باز آجائیں تو جو ہوچکا وہ انہیں معاف کردیا جائے گا۔ اور اگر پھر (وہی حرکات) کرنے لگیں گے تو اگلے لوگوں کا (جو) طریق جاری ہوچکا ہے (وہی ان کے حق میں برتا جائے گا)
+
+[Open on Quran.com](https://quran.com/8/38)
+
+_…and **28** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

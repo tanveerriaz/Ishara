@@ -1,0 +1,111 @@
+---
+type: word
+lemma: "أَثارُ"
+slug: ">vAr - plough"
+surah_count: 4
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# >vAr - plough
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[vwr - thwr]]
+
+### Meaning
+**plough** · Lemma **أَثارُ**
+
+### Surahs (4)
+- [[002 Al-Baqarah]]
+- [[030 Ar-Rum]]
+- [[035 Fatir]]
+- [[100 Al-Adiyat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:71 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا ۚ قَالُوا۟ ٱلْـَٔـٰنَ جِئْتَ بِٱلْحَقِّ ۚ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ
+
+</div>
+
+**Word in this verse:** `تُثِيرُ` — to plough
+
+**English (Sahih International):** He said, "He says, 'It is a cow neither trained to plow the earth nor to irrigate the field, one free from fault with no spot upon her.'" They said, "Now you have come with the truth." So they slaughtered her, but they could hardly do it.
+
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا کہ خدا فرماتا ہے کہ وہ بیل کام میں لگا ہوا نہ ہو، نہ تو زمین جوتتا ہو اور نہ کھیتی کو پانی دیتا ہو۔ اس میں کسی طرح کا داغ نہ ہو۔ کہنے لگے، اب تم نے سب باتیں درست بتا دیں۔ غرض (بڑی مشکل سے) انہوں نے اس بیل کو ذبح کیا، اور وہ ایسا کرنے والے تھے نہیں
+
+[Open on Quran.com](https://quran.com/2/71)
+
+#### 30:9 · [[030 Ar-Rum]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا۟ ٱلْأَرْضَ وَعَمَرُوهَآ أَكْثَرَ مِمَّا عَمَرُوهَا وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ ۖ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+
+</div>
+
+**Word in this verse:** `وَأَثَارُوا۟` — and they dug
+
+**English (Sahih International):** Have they not traveled through the earth and observed how was the end of those before them? They were greater than them in power, and they plowed [or excavated] the earth and built it up more than they [i.e., the Makkans] have built it up, and their messengers came to them with clear evidences. And Allāh would not ever have wronged them, but they were wronging themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا اُن لوگوں نے ملک میں سیر نہیں کی (سیر کرتے )تو دیکھ لیتے کہ جو لوگ اُن سے پہلے تھے ان کا انجام کیسے ہوا۔ وہ اُن سے زورو قوت میں کہیں زیادہ تھے اور اُنہوں نے زمین کو جوتا اور اس کو اس سے زیادہ آباد کیا تھا جو اُنہوں نے آباد کیا۔ اور اُن کے پاس اُن کے پیغمبر نشانیاں لےکر آتے رہے تو خدا ایسا نہ تھا کہ اُن پر ظلم کرتا۔ بلکہ وہی اپنے آپ پر ظلم کرتے تھے
+
+[Open on Quran.com](https://quran.com/30/9)
+
+#### 30:48 · [[030 Ar-Rum]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
+
+</div>
+
+**Word in this verse:** `فَتُثِيرُ` — so they raise
+
+**English (Sahih International):** It is Allāh who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جو ہواؤں کو چلاتا ہے تو وہ بادل کو اُبھارتی ہیں۔ پھر خدا اس کو جس طرح چاہتا ہے آسمان میں پھیلا دیتا اور تہ بتہ کر دیتا ہے پھر تم دیکھتے ہو کہ اس کے بیچ میں سے مینھہ نکلنے لگتا ہے پھر جب وہ اپنے بندوں میں سے جن پر چاہتا ہے اُسے برسا دیتا ہے تو وہ خوش ہو جاتے ہیں
+
+[Open on Quran.com](https://quran.com/30/48)
+
+#### 35:9 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَـٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَـٰهُ إِلَىٰ بَلَدٍ مَّيِّتٍ فَأَحْيَيْنَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا ۚ كَذَٰلِكَ ٱلنُّشُورُ
+
+</div>
+
+**Word in this verse:** `فَتُثِيرُ` — so that they raise
+
+**English (Sahih International):** And it is Allāh who sends the winds, and they stir the clouds, and We drive them to a dead land and give life thereby to the earth after its lifelessness. Thus is the resurrection.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی تو ہے جو ہوائیں چلاتا ہے اور وہ بادل کو اُبھارتی ہیں پھر ہم ان کو ایک بےجان شہر کی طرف چلاتے ہیں۔ پھر اس سے زمین کو اس کے مرنے کے بعد زندہ کردیتے ہیں۔ اسی طرح مردوں کو جی اُٹھنا ہوگا
+
+[Open on Quran.com](https://quran.com/35/9)
+
+#### 100:4 · [[100 Al-Adiyat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَثَرْنَ بِهِۦ نَقْعًا
+
+</div>
+
+**Word in this verse:** `فَأَثَرْنَ` — Then raise
+
+**English (Sahih International):** Stirring up thereby [clouds of] dust,
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اس میں گرد اٹھاتے ہیں
+
+[Open on Quran.com](https://quran.com/100/4)
+

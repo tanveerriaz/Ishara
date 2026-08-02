@@ -1,0 +1,112 @@
+---
+type: word
+lemma: "رُعْب"
+slug: "rEb - terror"
+surah_count: 5
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# rEb - terror
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[rEb - reb]]
+
+### Meaning
+**terror** · Lemma **رُعْب**
+
+### Surahs (5)
+- [[003 Ali Imran]]
+- [[008 Al-Anfal]]
+- [[018 Al-Kahf]]
+- [[033 Al-Ahzab]]
+- [[059 Al-Hashr]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:151 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+سَنُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ بِمَآ أَشْرَكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًا ۖ وَمَأْوَىٰهُمُ ٱلنَّارُ ۚ وَبِئْسَ مَثْوَى ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `ٱلرُّعْبَ` — [the] terror
+
+**English (Sahih International):** We will cast terror into the hearts of those who disbelieve for what they have associated with Allāh of which He had not sent down [any] authority. And their refuge will be the Fire, and wretched is the residence of the wrongdoers.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم عنقریب کافروں کے دلوں میں تمہارا رعب بٹھا دیں گے کیونکہ یہ خدا کے ساتھ شرک کرتے ہیں جس کی اس نے کوئی بھی دلیل نازل نہیں کی اور ان کا ٹھکانہ دوزخ ہے وہ ظالموں کا بہت بُرا ٹھکانا ہے
+
+[Open on Quran.com](https://quran.com/3/151)
+
+#### 8:12 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَـٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ ۚ سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ بَنَانٍ
+
+</div>
+
+**Word in this verse:** `ٱلرُّعْبَ` — the terror
+
+**English (Sahih International):** [Remember] when your Lord inspired to the angels, "I am with you, so strengthen those who have believed. I will cast terror into the hearts of those who disbelieved, so strike [them] upon the necks and strike from them every fingertip."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب تمہارا پروردگار فرشتوں کو ارشاد فرماتا تھا کہ میں تمہارے ساتھ ہوں تم مومنوں کو تسلی دو کہ ثابت قدم رہیں۔ میں ابھی ابھی کافروں کے دلوں میں رعب وہیبت ڈالے دیتا ہوں تو ان کے سر مار (کر) اڑا دو اور ان کا پور پور مار (کر توڑ) دو
+
+[Open on Quran.com](https://quran.com/8/12)
+
+#### 18:18 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ ۚ وَنُقَلِّبُهُمْ ذَاتَ ٱلْيَمِينِ وَذَاتَ ٱلشِّمَالِ ۖ وَكَلْبُهُم بَـٰسِطٌ ذِرَاعَيْهِ بِٱلْوَصِيدِ ۚ لَوِ ٱطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًا وَلَمُلِئْتَ مِنْهُمْ رُعْبًا
+
+</div>
+
+**Word in this verse:** `رُعْبًۭا` — (with) terror
+
+**English (Sahih International):** And you would think them awake, while they were asleep. And We turned them to the right and to the left, while their dog stretched his forelegs at the entrance. If you had looked at them, you would have turned from them in flight and been filled by them with terror.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم ان کو خیال کرو کہ جاگ رہے ہیں حالانکہ وہ سوتے ہیں۔ اور ہم ان کو دائیں اور بائیں کروٹ بدلاتے تھے۔ اور ان کا کتا چوکھٹ پر دونوں ہاتھ پھیلائے ہوئے تھا۔ اگر تم ان کو جھانک کر دیکھتے تو پیٹھ پھیر کر بھاگ جاتے اور ان سے دہشت میں آجاتے
+
+[Open on Quran.com](https://quran.com/18/18)
+
+#### 33:26 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنزَلَ ٱلَّذِينَ ظَـٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَـٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا
+
+</div>
+
+**Word in this verse:** `ٱلرُّعْبَ` — [the] terror
+
+**English (Sahih International):** And He brought down those who supported them among the People of the Scripture from their fortresses and cast terror into their hearts [so that] a party [i.e., their men] you killed, and you took captive a party [i.e., the women and children].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اہل کتاب میں سے جنہوں نے اُن کی مدد کی تھی اُن کو اُن کے قلعوں سے اُتار دیا اور اُن کے دلوں میں دہشت ڈال دی۔ تو کتنوں کو تم قتل کر دیتے تھے اور کتنوں کو قید کرلیتے تھے
+
+[Open on Quran.com](https://quran.com/33/26)
+
+#### 59:2 · [[059 Al-Hashr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُوَ ٱلَّذِىٓ أَخْرَجَ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ مِن دِيَـٰرِهِمْ لِأَوَّلِ ٱلْحَشْرِ ۚ مَا ظَنَنتُمْ أَن يَخْرُجُوا۟ ۖ وَظَنُّوٓا۟ أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ ٱللَّهِ فَأَتَىٰهُمُ ٱللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟ ۖ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِى ٱلْمُؤْمِنِينَ فَٱعْتَبِرُوا۟ يَـٰٓأُو۟لِى ٱلْأَبْصَـٰرِ
+
+</div>
+
+**Word in this verse:** `ٱلرُّعْبَ ۚ` — [the] terror
+
+**English (Sahih International):** It is He who expelled the ones who disbelieved among the People of the Scripture from their homes at the first gathering. You did not think they would leave, and they thought that their fortresses would protect them from Allāh; but [the decree of] Allāh came upon them from where they had not expected, and He cast terror into their hearts [so] they destroyed their houses by their [own] hands and the hands of the believers. So take warning, O people of vision.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے کفار اہل کتاب کو حشر اول کے وقت ان کے گھروں سے نکال دیا۔ تمہارے خیال میں بھی نہ تھا کہ وہ نکل جائیں گے اور وہ لوگ یہ سمجھے ہوئے تھے کہ ان کے قلعے ان کو خدا (کے عذاب) سے بچا لیں گے۔ مگر خدا نے ان کو وہاں سے آ لیا جہاں سے ان کو گمان بھی نہ تھا۔ اور ان کے دلوں میں دہشت ڈال دی کہ اپنے گھروں کو خود اپنے ہاتھوں اور مومنوں کے ہاتھوں سے اُجاڑنے لگے تو اے (بصیرت کی) آنکھیں رکھنے والو عبرت پکڑو
+
+[Open on Quran.com](https://quran.com/59/2)
+

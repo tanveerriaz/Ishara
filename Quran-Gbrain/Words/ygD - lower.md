@@ -1,0 +1,94 @@
+---
+type: word
+lemma: "يَغُضُّ"
+slug: "ygD - lower"
+surah_count: 3
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# ygD - lower
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[gDD - gdd]]
+
+### Meaning
+**lower** · Lemma **يَغُضُّ**
+
+### Surahs (3)
+- [[024 An-Nur]]
+- [[031 Luqman]]
+- [[049 Al-Hujurat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 24:30 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُل لِّلْمُؤْمِنِينَ يَغُضُّوا۟ مِنْ أَبْصَـٰرِهِمْ وَيَحْفَظُوا۟ فُرُوجَهُمْ ۚ ذَٰلِكَ أَزْكَىٰ لَهُمْ ۗ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا يَصْنَعُونَ
+
+</div>
+
+**Word in this verse:** `يَغُضُّوا۟` — they should lower
+
+**English (Sahih International):** Tell the believing men to reduce [some] of their vision and guard their private parts. That is purer for them. Indeed, Allāh is [fully] Aware of what they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومن مردوں سے کہہ دو کہ اپنی نظریں نیچی رکھا کریں اور اپنی شرم گاہوں کی حفاظت کیا کریں۔ یہ ان کے لئے بڑی پاکیزگی کی بات ہے اور جو کام یہ کرتے ہیں خدا ان سے خبردار ہے
+
+[Open on Quran.com](https://quran.com/24/30)
+
+#### 24:31 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقُل لِّلْمُؤْمِنَـٰتِ يَغْضُضْنَ مِنْ أَبْصَـٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا ۖ وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ ۖ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَـٰنُهُنَّ أَوِ ٱلتَّـٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ ۖ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ ۚ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ
+
+</div>
+
+**Word in this verse:** `يَغْضُضْنَ` — (that) they should lower
+
+**English (Sahih International):** And tell the believing women to reduce [some] of their vision and guard their private parts and not expose their adornment except that which [necessarily] appears thereof and to wrap [a portion of] their headcovers over their chests and not expose their adornment [i.e., beauty] except to their husbands, their fathers, their husbands' fathers, their sons, their husbands' sons, their brothers, their brothers' sons, their sisters' sons, their women, that which their right hands possess [i.e., slaves], or those male attendants having no physical desire, or children who are not yet aware of the private aspects of women. And let them not stamp their feet to make known what they conceal of their adornment. And turn to Allāh in repentance, all of you, O believers, that you might succeed.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مومن عورتوں سے بھی کہہ دو کہ وہ بھی اپنی نگاہیں نیچی رکھا کریں اور اپنی شرم گاہوں کی حفاظت کیا کریں اور اپنی آرائش (یعنی زیور کے مقامات) کو ظاہر نہ ہونے دیا کریں مگر جو ان میں سے کھلا رہتا ہو۔ اور اپنے سینوں پر اوڑھنیاں اوڑھے رہا کریں اور اپنے خاوند اور باپ اور خسر اور بیٹیوں اور خاوند کے بیٹوں اور بھائیوں اور بھتیجیوں اور بھانجوں اور اپنی (ہی قسم کی) عورتوں اور لونڈی غلاموں کے سوا نیز ان خدام کے جو عورتوں کی خواہش نہ رکھیں یا ایسے لڑکوں کے جو عورتوں کے پردے کی چیزوں سے واقف نہ ہوں (غرض ان لوگوں کے سوا) کسی پر اپنی زینت (اور سنگار کے مقامات) کو ظاہر نہ ہونے دیں۔ اور اپنے پاؤں (ایسے طور سے زمین پر) نہ ماریں (کہ جھنکار کانوں میں پہنچے اور) ان کا پوشیدہ زیور معلوم ہوجائے۔ اور مومنو! سب خدا کے آگے توبہ کرو تاکہ فلاح پاؤ
+
+[Open on Quran.com](https://quran.com/24/31)
+
+#### 31:19 · [[031 Luqman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱقْصِدْ فِى مَشْيِكَ وَٱغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ
+
+</div>
+
+**Word in this verse:** `وَٱغْضُضْ` — and lower
+
+**English (Sahih International):** And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the voice of donkeys."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی چال میں اعتدال کئے رہنا اور (بولتے وقت) آواز نیچی رکھنا کیونکہ (اُونچی آواز گدھوں کی ہے اور کچھ شک نہیں کہ) سب آوازوں سے بُری آواز گدھوں کی ہے
+
+[Open on Quran.com](https://quran.com/31/19)
+
+#### 49:3 · [[049 Al-Hujurat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ يَغُضُّونَ أَصْوَٰتَهُمْ عِندَ رَسُولِ ٱللَّهِ أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱمْتَحَنَ ٱللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ ۚ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ
+
+</div>
+
+**Word in this verse:** `يَغُضُّونَ` — lower
+
+**English (Sahih International):** Indeed, those who lower their voices before the Messenger of Allāh - they are the ones whose hearts Allāh has tested for righteousness. For them is forgiveness and great reward.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ پیغمبر خدا کے سامنے دبی آواز سے بولتے ہیں خدا نے ان کے دل تقویٰ کے لئے آزما لئے ہیں۔ ان کے لئے بخشش اور اجر عظیم ہے
+
+[Open on Quran.com](https://quran.com/49/3)
+

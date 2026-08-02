@@ -1,0 +1,95 @@
+---
+type: word
+lemma: "حُور"
+slug: "Hwr - fair ones"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# Hwr - fair ones
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Hwr - returning circling]]
+
+### Meaning
+**fair ones** · Lemma **حُور**
+
+### Surahs (4)
+- [[044 Ad-Dukhan]]
+- [[052 At-Tur]]
+- [[055 Ar-Rahman]]
+- [[056 Al-Waqiah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 44:54 · [[044 Ad-Dukhan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَذَٰلِكَ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ
+
+</div>
+
+**Word in this verse:** `بِحُورٍ` — (to) companions with beautiful eyes
+
+**English (Sahih International):** Thus. And We will marry them to fair women with large, [beautiful] eyes.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس طرح (کا حال ہوگا) اور ہم بڑی بڑی آنکھوں والی سفید رنگ کی عورتوں سے ان کے جوڑے لگائیں گے
+
+[Open on Quran.com](https://quran.com/44/54)
+
+#### 52:20 · [[052 At-Tur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مُتَّكِـِٔينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ ۖ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ
+
+</div>
+
+**Word in this verse:** `بِحُورٍ` — to fair ones
+
+**English (Sahih International):** They will be reclining on thrones lined up, and We will marry them to fair women with large, [beautiful] eyes.
+
+**Urdu (Fatah Muhammad Jalandhari):** تختوں پر جو برابر برابر بچھے ہوئے ہیں تکیہ لگائے ہوئے اور بڑی بڑی آنکھوں والی حوروں سے ہم ان کا عقد کر دیں گے
+
+[Open on Quran.com](https://quran.com/52/20)
+
+#### 55:72 · [[055 Ar-Rahman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+حُورٌ مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ
+
+</div>
+
+**Word in this verse:** `حُورٌۭ` — Fair ones
+
+**English (Sahih International):** Fair ones reserved in pavilions -
+
+**Urdu (Fatah Muhammad Jalandhari):** (وہ) حوریں (ہیں جو) خیموں میں مستور (ہیں)
+
+[Open on Quran.com](https://quran.com/55/72)
+
+#### 56:22 · [[056 Al-Waqiah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَحُورٌ عِينٌ
+
+</div>
+
+**Word in this verse:** `وَحُورٌ` — And fair ones
+
+**English (Sahih International):** And [for them are] fair women with large, [beautiful] eyes,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بڑی بڑی آنکھوں والی حوریں
+
+[Open on Quran.com](https://quran.com/56/22)
+

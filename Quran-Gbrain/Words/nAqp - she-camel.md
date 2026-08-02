@@ -1,0 +1,145 @@
+---
+type: word
+lemma: "ناقَة"
+slug: "nAqp - she-camel"
+surah_count: 6
+ayah_count: 7
+tags: [word, meaning]
+---
+
+# nAqp - she-camel
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[nwq - nwq]]
+
+### Meaning
+**she-camel** · Lemma **ناقَة**
+
+### Surahs (6)
+- [[007 Al-Araf]]
+- [[011 Hud]]
+- [[017 Al-Isra]]
+- [[026 Ash-Shuara]]
+- [[054 Al-Qamar]]
+- [[091 Ash-Shams]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 7:73 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَـٰلِحًا ۗ قَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥ ۖ قَدْ جَآءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ ۖ هَـٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةً ۖ فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ ۖ وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابٌ أَلِيمٌ
+
+</div>
+
+**Word in this verse:** `نَاقَةُ` — (is) a she-camel
+
+**English (Sahih International):** And to the Thamūd [We sent] their brother Ṣāliḥ. He said, "O my people, worship Allāh; you have no deity other than Him. There has come to you clear evidence from your Lord. This is the she-camel of Allāh [sent] to you as a sign. So leave her to eat within Allāh's land and do not touch her with harm, lest there seize you a painful punishment.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور قوم ثمود کی طرف ان کے بھائی صالح کو بھیجا۔ (تو) صالح نے کہا کہ اے قوم! خدا ہی کی عبادت کرو اس کے سوا تمہارا کوئی معبود نہیں۔ تمہارے پاس تمہارے پروردگار کی طرف سے ایک معجزہ آ چکا ہے۔ (یعنی) یہی خدا کی اونٹنی تمہارے لیے معجزہ ہے۔ تو اسے (آزاد) چھوڑ دو کہ خدا کی زمین میں چرتی پھرے اور تم اسے بری نیت سے ہاتھ بھی نہ لگانا۔ ورنہ عذابِ الیم میں تمہیں پکڑ لے گا
+
+[Open on Quran.com](https://quran.com/7/73)
+
+#### 7:77 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَعَقَرُوا۟ ٱلنَّاقَةَ وَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ وَقَالُوا۟ يَـٰصَـٰلِحُ ٱئْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلْمُرْسَلِينَ
+
+</div>
+
+**Word in this verse:** `ٱلنَّاقَةَ` — the she-camel
+
+**English (Sahih International):** So they hamstrung the she-camel and were insolent toward the command of their Lord and said, "O Ṣāliḥ, bring us what you promise us, if you should be of the messengers."
+
+**Urdu (Fatah Muhammad Jalandhari):** آخر انہوں نے اونٹی (کی کونچوں) کو کاٹ ڈالا اور اپنے پروردگار کے حکم سے سرکشی کی اور کہنے لگے کہ صالح! جس چیز سے تم ہمیں ڈراتے تھے اگر تم (خدا کے) پیغمبر ہو تو اسے ہم پر لے آؤ
+
+[Open on Quran.com](https://quran.com/7/77)
+
+#### 11:64 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَـٰقَوْمِ هَـٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمْ ءَايَةً فَذَرُوهَا تَأْكُلْ فِىٓ أَرْضِ ٱللَّهِ وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابٌ قَرِيبٌ
+
+</div>
+
+**Word in this verse:** `نَاقَةُ` — she-camel
+
+**English (Sahih International):** And O my people, this is the she-camel of Allāh - [she is] to you a sign. So let her feed upon Allāh's earth and do not touch her with harm, or you will be taken by an impending punishment."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ بھی کہا کہ اے قوم! یہ خدا کی اونٹنی تمہارے لیے ایک نشانی (یعنی معجزہ) ہے تو اس کو چھوڑ دو کہ خدا کی زمین میں (جہاں چاہے) چرے اور اس کو کسی طرح کی تکلیف نہ دینا ورنہ تمہیں جلد عذاب آپکڑے گا
+
+[Open on Quran.com](https://quran.com/11/64)
+
+#### 17:59 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا مَنَعَنَآ أَن نُّرْسِلَ بِٱلْـَٔايَـٰتِ إِلَّآ أَن كَذَّبَ بِهَا ٱلْأَوَّلُونَ ۚ وَءَاتَيْنَا ثَمُودَ ٱلنَّاقَةَ مُبْصِرَةً فَظَلَمُوا۟ بِهَا ۚ وَمَا نُرْسِلُ بِٱلْـَٔايَـٰتِ إِلَّا تَخْوِيفًا
+
+</div>
+
+**Word in this verse:** `ٱلنَّاقَةَ` — the she-camel
+
+**English (Sahih International):** And nothing has prevented Us from sending signs [i.e., miracles] except that the former peoples denied them. And We gave Thamūd the she-camel as a visible sign, but they wronged her. And We send not the signs except as a warning.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے نشانیاں بھیجنی اس لئے موقوف کردیں کہ اگلے لوگوں نے اس کی تکذیب کی تھی۔ اور ہم نے ثمود کو اونٹنی (نبوت صالح کی کھلی) نشانی دی۔ تو انہوں نے اس پر ظلم کیا اور ہم جو نشانیاں بھیجا کرتے ہیں تو ڈرانے کو
+
+[Open on Quran.com](https://quran.com/17/59)
+
+#### 26:155 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ هَـٰذِهِۦ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ
+
+</div>
+
+**Word in this verse:** `نَاقَةٌۭ` — (is) a she-camel
+
+**English (Sahih International):** He said, "This is a she-camel. For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day.
+
+**Urdu (Fatah Muhammad Jalandhari):** صالح نے کہا (دیکھو) یہ اونٹنی ہے (ایک دن) اس کی پانی پینے کی باری ہے اور ایک معین روز تمہاری باری
+
+[Open on Quran.com](https://quran.com/26/155)
+
+#### 54:27 · [[054 Al-Qamar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ
+
+</div>
+
+**Word in this verse:** `ٱلنَّاقَةِ` — the she-camel
+
+**English (Sahih International):** Indeed, We are sending the she-camel as trial for them, so watch them and be patient.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے صالح) ہم ان کی آزمائش کے لئے اونٹنی بھیجنے والے ہیں تو تم ان کو دیکھتے رہو اور صبر کرو
+
+[Open on Quran.com](https://quran.com/54/27)
+
+#### 91:13 · [[091 Ash-Shams]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَـٰهَا
+
+</div>
+
+**Word in this verse:** `نَاقَةَ` — (It is the) she-camel
+
+**English (Sahih International):** And the messenger of Allāh [i.e., Ṣāliḥ] said to them, "[Do not harm] the she-camel of Allāh or [prevent her from] her drink."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو خدا کے پیغمبر (صالح) نے ان سے کہا کہ خدا کی اونٹنی اور اس کے پانی پینے کی باری سے عذر کرو
+
+[Open on Quran.com](https://quran.com/91/13)
+

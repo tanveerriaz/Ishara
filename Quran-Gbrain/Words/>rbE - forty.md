@@ -1,0 +1,144 @@
+---
+type: word
+lemma: "أَرْبَع"
+slug: ">rbE - forty"
+surah_count: 5
+ayah_count: 7
+tags: [word, meaning]
+---
+
+# >rbE - forty
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[rbE - rbe]]
+
+### Meaning
+**forty** · Lemma **أَرْبَع**
+
+### Surahs (5)
+- [[002 Al-Baqarah]]
+- [[005 Al-Maidah]]
+- [[007 Al-Araf]]
+- [[024 An-Nur]]
+- [[046 Al-Ahqaf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:51 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَـٰلِمُونَ
+
+</div>
+
+**Word in this verse:** `أَرْبَعِينَ` — forty
+
+**English (Sahih International):** And [recall] when We made an appointment with Moses for forty nights. Then you took [for worship] the calf after him [i.e., his departure], while you were wrongdoers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے موسیٰ سے چالیس رات کا وعدہ کیا تو تم نے ان کے پیچھے بچھڑے کو (معبود) مقرر کر لیا اور تم ظلم کر رہے تھے
+
+[Open on Quran.com](https://quran.com/2/51)
+
+#### 5:26 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِى ٱلْأَرْضِ ۚ فَلَا تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَـٰسِقِينَ
+
+</div>
+
+**Word in this verse:** `أَرْبَعِينَ` — (for) forty
+
+**English (Sahih International):** [Allāh] said, "Then indeed, it is forbidden to them for forty years [in which] they will wander throughout the land. So do not grieve over the defiantly disobedient people."
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے فرمایا کہ وہ ملک ان پر چالیس برس تک کے لیے حرام کر دیا گیا (کہ وہاں جانے نہ پائیں گے اور جنگل کی) زمین میں سرگرداں پھرتے رہیں گے تو ان نافرمان لوگوں کے حال پر افسوس نہ کرو
+
+[Open on Quran.com](https://quran.com/5/26)
+
+#### 7:142 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَوَٰعَدْنَا مُوسَىٰ ثَلَـٰثِينَ لَيْلَةً وَأَتْمَمْنَـٰهَا بِعَشْرٍ فَتَمَّ مِيقَـٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً ۚ وَقَالَ مُوسَىٰ لِأَخِيهِ هَـٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ
+
+</div>
+
+**Word in this verse:** `أَرْبَعِينَ` — (of) forty
+
+**English (Sahih International):** And We made an appointment with Moses for thirty nights and perfected them by [the addition of] ten; so the term of his Lord was completed as forty nights. And Moses said to his brother Aaron, "Take my place among my people, do right [by them], and do not follow the way of the corrupters."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ سے تیس رات کی میعاد مقرر کی۔ اور اس دس (راتیں) اور ملا کر اسے پورا (چلّہ) کردیا تو اس کے پروردگار کی چالیس رات کی میعاد پوری ہوگئی۔ اور موسیٰ نے اپنے بھائی ہارون سے کہا کہ میرے (کوہِٰ طور پر جانے کے) بعد تم میری قوم میں میرے جانشین ہو (ان کی) اصلاح کرتے رہنا ٹھیک اور شریروں کے رستے نہ چلنا
+
+[Open on Quran.com](https://quran.com/7/142)
+
+#### 24:6 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ يَرْمُونَ أَزْوَٰجَهُمْ وَلَمْ يَكُن لَّهُمْ شُهَدَآءُ إِلَّآ أَنفُسُهُمْ فَشَهَـٰدَةُ أَحَدِهِمْ أَرْبَعُ شَهَـٰدَٰتٍۭ بِٱللَّهِ ۙ إِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِينَ
+
+</div>
+
+**Word in this verse:** `أَرْبَعُ` — (is) four
+
+**English (Sahih International):** And those who accuse their wives [of adultery] and have no witnesses except themselves - then the witness of one of them [shall be] four testimonies [swearing] by Allāh that indeed, he is of the truthful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ اپنی عورتوں پر بدکاری کی تہمت لگائیں اور خود ان کے سوا ان کے گواہ نہ ہوں تو ہر ایک کی شہادت یہ ہے کہ پہلے تو چار بار خدا کی قسم کھائے کہ بےشک وہ سچا ہے
+
+[Open on Quran.com](https://quran.com/24/6)
+
+#### 24:8 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَدْرَؤُا۟ عَنْهَا ٱلْعَذَابَ أَن تَشْهَدَ أَرْبَعَ شَهَـٰدَٰتٍۭ بِٱللَّهِ ۙ إِنَّهُۥ لَمِنَ ٱلْكَـٰذِبِينَ
+
+</div>
+
+**Word in this verse:** `أَرْبَعَ` — four
+
+**English (Sahih International):** But it will prevent punishment from her if she gives four testimonies [swearing] by Allāh that indeed, he is of the liars.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور عورت سے سزا کو یہ بات ٹال سکتی ہے کہ وہ پہلے چار بار خدا کی قسم کھائے کہ بےشک یہ جھوٹا ہے
+
+[Open on Quran.com](https://quran.com/24/8)
+
+#### 24:45 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱللَّهُ خَلَقَ كُلَّ دَآبَّةٍ مِّن مَّآءٍ ۖ فَمِنْهُم مَّن يَمْشِى عَلَىٰ بَطْنِهِۦ وَمِنْهُم مَّن يَمْشِى عَلَىٰ رِجْلَيْنِ وَمِنْهُم مَّن يَمْشِى عَلَىٰٓ أَرْبَعٍ ۚ يَخْلُقُ ٱللَّهُ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+
+</div>
+
+**Word in this verse:** `أَرْبَعٍۢ ۚ` — four
+
+**English (Sahih International):** Allāh has created every [living] creature from water. And of them are those that move on their bellies, and of them are those that walk on two legs, and of them are those that walk on four. Allāh creates what He wills. Indeed, Allāh is over all things competent.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے ہر چلنے پھرنے والے جاندار کو پانی سے پیدا کیا۔ تو اس میں بعضے ایسے ہیں کہ پیٹ کے بل چلتے ہیں اور بعض ایسے ہیں جو دو پاؤں پر چلتے ہیں اور بعض ایسے ہیں جو چار پاؤں پر چلتے ہیں۔ خدا جو چاہتا ہے پیدا کرتا ہے، بےشک خدا ہر چیز پر قادر ہے
+
+[Open on Quran.com](https://quran.com/24/45)
+
+#### 46:15 · [[046 Al-Ahqaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ إِحْسَـٰنًا ۖ حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا ۖ وَحَمْلُهُۥ وَفِصَـٰلُهُۥ ثَلَـٰثُونَ شَهْرًا ۚ حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَـٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ ۖ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ
+
+</div>
+
+**Word in this verse:** `أَرْبَعِينَ` — forty
+
+**English (Sahih International):** And We have enjoined upon man, to his parents, good treatment. His mother carried him with hardship and gave birth to him with hardship, and his gestation and weaning [period] is thirty months. [He grows] until, when he reaches maturity and reaches [the age of] forty years, he says, "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to work righteousness of which You will approve and make righteous for me my offspring. Indeed, I have repented to You, and indeed, I am of the Muslims."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے انسان کو اپنے والدین کے ساتھ بھلائی کرنے کا حکم دیا۔ اس کی ماں نے اس کو تکلیف سے پیٹ میں رکھا اور تکلیف ہی سے جنا۔ اور اس کا پیٹ میں رہنا اور دودھ چھوڑنا ڈھائی برس میں ہوتا ہے۔ یہاں تک کہ جب خوب جوان ہوتا ہے اور چالیس برس کو پہنچ جاتا ہے تو کہتا ہے کہ اے میرے پروردگار مجھے توفیق دے کہ تو نے جو احسان مجھ پر اور میرے ماں باپ پر کئے ہیں ان کا شکر گزار ہوں اور یہ کہ نیک عمل کروں جن کو تو پسند کرے۔ اور میرے لئے میری اولاد میں صلاح (وتقویٰ) دے۔ میں تیری طرف رجوع کرتا ہوں اور میں فرمانبرداروں میں ہوں
+
+[Open on Quran.com](https://quran.com/46/15)
+

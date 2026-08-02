@@ -1,0 +1,197 @@
+---
+type: word
+lemma: "اجْتَبَى"
+slug: "AjtbY - chooses"
+surah_count: 10
+ayah_count: 10
+tags: [word, meaning]
+---
+
+# AjtbY - chooses
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[jby - jby]]
+
+### Meaning
+**chooses** · Lemma **اجْتَبَى**
+
+### Surahs (10)
+- [[003 Ali Imran]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[012 Yusuf]]
+- [[016 An-Nahl]]
+- [[019 Maryam]]
+- [[020 Taha]]
+- [[022 Al-Hajj]]
+- [[042 Ash-Shuraa]]
+- [[068 Al-Qalam]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 3:179 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَّا كَانَ ٱللَّهُ لِيَذَرَ ٱلْمُؤْمِنِينَ عَلَىٰ مَآ أَنتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ ٱلْخَبِيثَ مِنَ ٱلطَّيِّبِ ۗ وَمَا كَانَ ٱللَّهُ لِيُطْلِعَكُمْ عَلَى ٱلْغَيْبِ وَلَـٰكِنَّ ٱللَّهَ يَجْتَبِى مِن رُّسُلِهِۦ مَن يَشَآءُ ۖ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ فَلَكُمْ أَجْرٌ عَظِيمٌ
+
+</div>
+
+**Word in this verse:** `يَجْتَبِى` — chooses
+
+**English (Sahih International):** Allāh would not leave the believers in that [state] you are in [presently] until He separates the evil from the good. Nor would Allāh reveal to you the unseen. But [instead], Allāh chooses of His messengers whom He wills, so believe in Allāh and His messengers. And if you believe and fear Him, then for you is a great reward.
+
+**Urdu (Fatah Muhammad Jalandhari):** (لوگو) جب تک خدا ناپاک کو پاک سے الگ نہ کردے گا مومنوں کو اس حال میں جس میں تم ہو ہرگز نہیں رہنے دے گا۔ اور الله تم کوغیب کی باتوں سے بھی مطلع نہیں کرے گاالبتہ خدا اپنے پیغمبروں میں سے جسے چاہتا ہے انتخاب کرلیتا ہے۔ تو تم خدا پر اور اس کے رسولوں پر ایمان لاؤاور اگر ایمان لاؤ گے اور پرہیزگاری کرو گے تو تم کو اجر عظیم ملے گا
+
+[Open on Quran.com](https://quran.com/3/179)
+
+#### 6:87 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنْ ءَابَآئِهِمْ وَذُرِّيَّـٰتِهِمْ وَإِخْوَٰنِهِمْ ۖ وَٱجْتَبَيْنَـٰهُمْ وَهَدَيْنَـٰهُمْ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+
+</div>
+
+**Word in this verse:** `وَٱجْتَبَيْنَـٰهُمْ` — and We chose them
+
+**English (Sahih International):** And [some] among their fathers and their descendants and their brothers - and We chose them and We guided them to a straight path.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض بعض کو ان کے باپ دادا اور اولاد اور بھائیوں میں سے بھی۔ اور ان کو برگزیدہ بھی کیا تھا اور سیدھا رستہ بھی دکھایا تھا
+
+[Open on Quran.com](https://quran.com/6/87)
+
+#### 7:203 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا لَمْ تَأْتِهِم بِـَٔايَةٍ قَالُوا۟ لَوْلَا ٱجْتَبَيْتَهَا ۚ قُلْ إِنَّمَآ أَتَّبِعُ مَا يُوحَىٰٓ إِلَىَّ مِن رَّبِّى ۚ هَـٰذَا بَصَآئِرُ مِن رَّبِّكُمْ وَهُدًى وَرَحْمَةٌ لِّقَوْمٍ يُؤْمِنُونَ
+
+</div>
+
+**Word in this verse:** `ٱجْتَبَيْتَهَا ۚ` — you devised it
+
+**English (Sahih International):** And when you, [O Muḥammad], do not bring them a sign [i.e., miracle], they say, "Why have you not contrived it?" Say, "I only follow what is revealed to me from my Lord. This [Qur’ān] is enlightenment from your Lord and guidance and mercy for a people who believe."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم ان کے پاس (کچھ دنوں تک) کوئی آیت نہیں لاتے تو کہتے ہیں کہ تم نے (اپنی طرف سے) کیوں نہیں بنالی۔ کہہ دو کہ میں تو اسی کی پیروی کرتا ہوں جو میرے پروردگار کی طرف سے میرے پاس آتا ہے۔ یہ قرآن تمہارے پروردگار کی جانب سے دانش وبصیرت اور مومنوں کے لیے ہدایت اور رحمت ہے
+
+[Open on Quran.com](https://quran.com/7/203)
+
+#### 12:6 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَـٰقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ
+
+</div>
+
+**Word in this verse:** `يَجْتَبِيكَ` — will choose you
+
+**English (Sahih International):** And thus will your Lord choose you and teach you the interpretation of narratives [i.e., events or dreams] and complete His favor upon you and upon the family of Jacob, as He completed it upon your fathers before, Abraham and Isaac. Indeed, your Lord is Knowing and Wise."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح خدا تمہیں برگزیدہ (وممتاز) کرے گا اور (خواب کی) باتوں کی تعبیر کا علم سکھائے گا۔ اور جس طرح اس نے اپنی نعمت پہلے تمہارے دادا، پردادا ابراہیم اور اسحاق پر پوری کی تھی اسی طرح تم پر اور اولاد یعقوب پر پوری کرے گا۔ بےشک تمہارا پروردگار (سب کچھ) جاننے والا (اور) حکمت والا ہے
+
+[Open on Quran.com](https://quran.com/12/6)
+
+#### 16:121 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+شَاكِرًا لِّأَنْعُمِهِ ۚ ٱجْتَبَىٰهُ وَهَدَىٰهُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+
+</div>
+
+**Word in this verse:** `ٱجْتَبَىٰهُ` — He chose him
+
+**English (Sahih International):** [He was] grateful for His favors. He [i.e., Allāh] chose him and guided him to a straight path.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کی نعمتوں کے شکرگزار تھے۔ خدا نے ان کو برگزیدہ کیا تھا اور (اپنی) سیدھی راہ پر چلایا تھا
+
+[Open on Quran.com](https://quran.com/16/121)
+
+#### 19:58 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أُو۟لَـٰٓئِكَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنْ حَمَلْنَا مَعَ نُوحٍ وَمِن ذُرِّيَّةِ إِبْرَٰهِيمَ وَإِسْرَٰٓءِيلَ وَمِمَّنْ هَدَيْنَا وَٱجْتَبَيْنَآ ۚ إِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَـٰتُ ٱلرَّحْمَـٰنِ خَرُّوا۟ سُجَّدًا وَبُكِيًّا ۩
+
+</div>
+
+**Word in this verse:** `وَٱجْتَبَيْنَآ ۚ` — and We chose
+
+**English (Sahih International):** Those were the ones upon whom Allāh bestowed favor from among the prophets of the descendants of Adam and of those We carried [in the ship] with Noah, and of the descendants of Abraham and Israel [i.e., Jacob], and of those whom We guided and chose. When the verses of the Most Merciful were recited to them, they fell in prostration and weeping.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جن پر خدا نے اپنے پیغمبروں میں سے فضل کیا۔ (یعنی) اولاد آدم میں سے اور ان لوگوں میں سے جن کو نوح کے ساتھ (کشتی میں) سوار کیا اور ابراہیم اور یعقوب کی اولاد میں سے اور ان لوگوں میں سے جن کو ہم نے ہدایت دی اور برگزیدہ کیا۔ جب ان کے سامنے ہماری آیتیں پڑھی جاتی تھیں تو سجدے میں گر پڑتے اور روتے رہتے تھے
+
+[Open on Quran.com](https://quran.com/19/58)
+
+#### 20:122 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ ٱجْتَبَـٰهُ رَبُّهُۥ فَتَابَ عَلَيْهِ وَهَدَىٰ
+
+</div>
+
+**Word in this verse:** `ٱجْتَبَـٰهُ` — chose him
+
+**English (Sahih International):** Then his Lord chose him and turned to him in forgiveness and guided [him].
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے پروردگار نے ان کو نوازا تو ان پر مہربانی سے توجہ فرمائی اور سیدھی راہ بتائی
+
+[Open on Quran.com](https://quran.com/20/122)
+
+#### 22:78 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَـٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ ۚ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ مِنْ حَرَجٍ ۚ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ ۚ هُوَ سَمَّىٰكُمُ ٱلْمُسْلِمِينَ مِن قَبْلُ وَفِى هَـٰذَا لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ ۚ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟ بِٱللَّهِ هُوَ مَوْلَىٰكُمْ ۖ فَنِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ
+
+</div>
+
+**Word in this verse:** `ٱجْتَبَىٰكُمْ` — (has) chosen you
+
+**English (Sahih International):** And strive for Allāh with the striving due to Him. He has chosen you and has not placed upon you in the religion any difficulty. [It is] the religion of your father, Abraham. He [i.e., Allāh] named you "Muslims" before [in former scriptures] and in this [revelation] that the Messenger may be a witness over you and you may be witnesses over the people. So establish prayer and give zakāh and hold fast to Allāh. He is your protector; and excellent is the protector, and excellent is the helper.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی راہ) میں جہاد کرو جیسا جہاد کرنے کا حق ہے۔ اس نے تم کو برگزیدہ کیا ہے اور تم پر دین کی (کسی بات) میں تنگی نہیں کی۔ (اور تمہارے لئے) تمہارے باپ ابراہیم کا دین (پسند کیا) اُسی نے پہلے (یعنی پہلی کتابوں میں) تمہارا نام مسلمان رکھا تھا اور اس کتاب میں بھی (وہی نام رکھا ہے تو جہاد کرو) تاکہ پیغمبر تمہارے بارے میں شاہد ہوں۔ اور تم لوگوں کے مقابلے میں شاہد اور نماز پڑھو اور زکوٰة دو اور خدا کے دین کی (رسی کو) پکڑے رہو۔ وہی تمہارا دوست ہے۔ اور خوب دوست اور خوب مددگار ہے
+
+[Open on Quran.com](https://quran.com/22/78)
+
+#### 42:13 · [[042 Ash-Shuraa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ ۖ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ ۚ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ۚ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ
+
+</div>
+
+**Word in this verse:** `يَجْتَبِىٓ` — chooses
+
+**English (Sahih International):** He has ordained for you of religion what He enjoined upon Noah and that which We have revealed to you, [O Muḥammad], and what We enjoined upon Abraham and Moses and Jesus - to establish the religion and not be divided therein. Difficult for those who associate others with Allāh is that to which you invite them. Allāh chooses for Himself whom He wills and guides to Himself whoever turns back [to Him].
+
+**Urdu (Fatah Muhammad Jalandhari):** اسی نے تمہارے لئے دین کا وہی رستہ مقرر کیا جس (کے اختیار کرنے کا) نوح کو حکم دیا تھا اور جس کی (اے محمدﷺ) ہم نے تمہاری طرف وحی بھیجی ہے اور جس کا ابراہیم اور موسیٰ اور عیسیٰ کو حکم دیا تھا (وہ یہ) کہ دین کو قائم رکھنا اور اس میں پھوٹ نہ ڈالنا۔ جس چیز کی طرف تم مشرکوں کو بلاتے ہو وہ ان کو دشوار گزرتی ہے۔ الله جس کو چاہتا ہے اپنی بارگاہ کا برگزیدہ کرلیتا ہے اور جو اس کی طرف رجوع کرے اسے اپنی طرف رستہ دکھا دیتا ہے
+
+[Open on Quran.com](https://quran.com/42/13)
+
+#### 68:50 · [[068 Al-Qalam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱجْتَبَـٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ
+
+</div>
+
+**Word in this verse:** `فَٱجْتَبَـٰهُ` — But chose him
+
+**English (Sahih International):** And his Lord chose him and made him of the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر پروردگار نے ان کو برگزیدہ کرکے نیکوکاروں میں کرلیا
+
+[Open on Quran.com](https://quran.com/68/50)
+

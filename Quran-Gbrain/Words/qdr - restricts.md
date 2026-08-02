@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "قَدَر"
+slug: "qdr - restricts"
+surah_count: 39
+ayah_count: 55
+tags: [word, meaning]
+---
+
+# qdr - restricts
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[qdr - measuring]]
+
+### Meaning
+**restricts** · Lemma **قَدَر**
+
+### Surahs (39)
+- [[002 Al-Baqarah]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[010 Yunus]]
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[015 Al-Hijr]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[022 Al-Hajj]]
+- [[023 Al-Muminun]]
+- [[025 Al-Furqan]]
+- [[027 An-Naml]]
+- [[028 Al-Qasas]]
+- [[029 Al-Ankabut]]
+- [[030 Ar-Rum]]
+- [[033 Al-Ahzab]]
+- [[034 Saba]]
+- [[036 Ya-Sin]]
+- [[039 Az-Zumar]]
+- [[041 Fussilat]]
+- [[042 Ash-Shuraa]]
+- [[043 Az-Zukhruf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:236 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَّا جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا۟ لَهُنَّ فَرِيضَةً ۚ وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ مَتَـٰعًۢا بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُحْسِنِينَ
+
+</div>
+
+**Word in this verse:** `قَدَرُهُۥ` — according to his means
+
+**English (Sahih International):** There is no blame upon you if you divorce women you have not touched nor specified for them an obligation. But give them [a gift of] compensation - the wealthy according to his capability and the poor according to his capability - a provision according to what is acceptable, a duty upon the doers of good.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے یا ان کا مہر مقرر کرنے سے پہلے طلاق دے دو تو تم پر کچھ گناہ نہیں۔ ہاں ان کو دستور کے مطابق کچھ خرچ ضرور دو (یعنی) مقدور والا اپنے مقدور کے مطابق دے اور تنگدست اپنی حیثیت کے مطابق۔ نیک لوگوں پر یہ ایک طرح کا حق ہے
+
+[Open on Quran.com](https://quran.com/2/236)
+
+#### 2:264 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُبْطِلُوا۟ صَدَقَـٰتِكُم بِٱلْمَنِّ وَٱلْأَذَىٰ كَٱلَّذِى يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۖ فَمَثَلُهُۥ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُۥ وَابِلٌ فَتَرَكَهُۥ صَلْدًا ۖ لَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّمَّا كَسَبُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `يَقْدِرُونَ` — they have control
+
+**English (Sahih International):** O you who have believed, do not invalidate your charities with reminders [of it] or injury as does one who spends his wealth [only] to be seen by the people and does not believe in Allāh and the Last Day. His example is like that of a [large] smooth stone upon which is dust and is hit by a downpour that leaves it bare. They are unable [to keep] anything of what they have earned. And Allāh does not guide the disbelieving people.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اپنے صدقات (وخیرات)احسان رکھنے اور ایذا دینے سے اس شخص کی طرح برباد نہ کردینا۔ جو لوگوں کو دکھاوے کے لئے مال خرچ کرتا ہے اور خدا اور روز آخرت پر ایمان نہیں رکھتا۔ تو اس (کے مال) کی مثال اس چٹان کی سی ہے جس پر تھوڑی سی مٹی پڑی ہو اور اس پر زور کا مینہ برس کر اسے صاف کر ڈالے۔ (اسی طرح) یہ (ریاکار) لوگ اپنے اعمال کا کچھ بھی صلہ حاصل نہیں کرسکیں گے۔ اور خدا ایسے ناشکروں کو ہدایت نہیں دیا کرتا
+
+[Open on Quran.com](https://quran.com/2/264)
+
+#### 5:34 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِلَّا ٱلَّذِينَ تَابُوا۟ مِن قَبْلِ أَن تَقْدِرُوا۟ عَلَيْهِمْ ۖ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `تَقْدِرُوا۟` — you overpower
+
+**English (Sahih International):** Except for those who return [repenting] before you overcome [i.e., apprehend] them. And know that Allāh is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہاں جن لوگوں نے اس سے پیشتر کہ تمہارے قابو میں آ جائیں توبہ کر لی تو جان رکھو کہ خدا بخشنے والا مہربان ہے
+
+[Open on Quran.com](https://quran.com/5/34)
+
+#### 6:91 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍ مِّن شَىْءٍ ۗ قُلْ مَنْ أَنزَلَ ٱلْكِتَـٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًا وَهُدًى لِّلنَّاسِ ۖ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا ۖ وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ ۖ قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ
+
+</div>
+
+**Word in this verse:** `قَدَرُوا۟` — they appraised
+
+**English (Sahih International):** And they did not appraise Allāh with true appraisal when they said, "Allāh did not reveal to a human being anything." Say, "Who revealed the Scripture that Moses brought as light and guidance to the people? You [Jews] make it into pages, disclosing [some of] it and concealing much. And you were taught that which you knew not - neither you nor your fathers." Say, "Allāh [revealed it]." Then leave them in their [empty] discourse, amusing themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے خدا کی قدر جیسی جاننی چاہیئے تھی نہ جانی۔ جب انہوں نے کہا کہ خدا نے انسان پر (وحی اور کتاب وغیرہ) کچھ بھی نازل نہیں کیا۔ کہو جو کتاب موسیٰ لے کر آئے تھے اسے کس نے نازل کیا تھا جو لوگوں کے لئے نور اور ہدایت تھی اور جسے تم نے علیحدہ علیحدہ اوراق (پر نقل) کر رکھا ہے ان (کے کچھ حصے) کو تو ظاہر کرتے ہو اور اکثر کو چھپاتے ہو۔ اور تم کو وہ باتیں سکھائی گئیں جن کو نہ تم جانتے تھے اور نہ تمہارے باپ دادا۔ کہہ دو (اس کتاب کو) خدا ہی نے (نازل کیا تھا) پھر ان کو چھوڑ دیا کہ اپنی بیہودہ بکواس میں کھیلتے رہیں
+
+[Open on Quran.com](https://quran.com/6/91)
+
+#### 10:5 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `وَقَدَّرَهُۥ` — and determined for it
+
+**English (Sahih International):** It is He who made the sun a shining light and the moon a derived light and determined for it phases - that you may know the number of years and account [of time]. Allāh has not created this except in truth. He details the signs for a people who know.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سورج کو روشن اور چاند کو منور بنایا اور چاند کی منزلیں مقرر کیں تاکہ تم برسوں کا شمار اور (کاموں کا) حساب معلوم کرو۔ یہ (سب کچھ) خدا نے تدبیر سے پیدا کیا ہے۔ سمجھنے والوں کے لیے وہ اپنی آیاتیں کھول کھول کر بیان فرماتا ہے
+
+[Open on Quran.com](https://quran.com/10/5)
+
+#### 13:17 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا فَٱحْتَمَلَ ٱلسَّيْلُ زَبَدًا رَّابِيًا ۚ وَمِمَّا يُوقِدُونَ عَلَيْهِ فِى ٱلنَّارِ ٱبْتِغَآءَ حِلْيَةٍ أَوْ مَتَـٰعٍ زَبَدٌ مِّثْلُهُۥ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَـٰطِلَ ۚ فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً ۖ وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمْكُثُ فِى ٱلْأَرْضِ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ
+
+</div>
+
+**Word in this verse:** `بِقَدَرِهَا` — according to their measure
+
+**English (Sahih International):** He sends down from the sky, rain, and valleys flow according to their capacity, and the torrent carries a rising foam. And from that [ore] which they heat in the fire, desiring adornments and utensils, is a foam like it. Thus Allāh presents [the example of] truth and falsehood. As for the foam, it vanishes, [being] cast off; but as for that which benefits the people, it remains on the earth. Thus does Allāh present examples.
+
+**Urdu (Fatah Muhammad Jalandhari):** اسی نے آسمان سے مینہ برسایا پھر اس سے اپنے اپنے اندازے کے مطابق نالے بہہ نکلے پھر نالے پر پھولا ہوا جھاگ آگیا۔ اور جس چیز کو زیور یا کوئی اور سامان بنانے کے لیے آگ میں تپاتے ہیں اس میں بھی ایسا ہی جھاگ ہوتا ہے۔ اس طرح خدا حق اور باطل کی مثال بیان فرماتا ہے۔ سو جھاگ تو سوکھ کر زائل ہو جاتا ہے۔ اور (پانی) جو لوگوں کو فائدہ پہنچاتا ہے وہ زمین میں ٹھہرا رہتا ہے۔ اس طرح خدا (صحیح اور غلط کی) مثالیں بیان فرماتا ہے (تاکہ تم سمجھو)
+
+[Open on Quran.com](https://quran.com/13/17)
+
+#### 13:26 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ وَفَرِحُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا فِى ٱلْـَٔاخِرَةِ إِلَّا مَتَـٰعٌ
+
+</div>
+
+**Word in this verse:** `وَيَقْدِرُ ۚ` — and restricts
+
+**English (Sahih International):** Allāh extends provision for whom He wills and restricts [it]. And they rejoice in the worldly life, while the worldly life is not, compared to the Hereafter, except [brief] enjoyment.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا جس کا چاہتا ہے رزق فراخ کر دیتا ہے اور (جس کا چاہتا ہے) تنگ کر دیتا ہے۔ اور کافر لوگ دنیا کی زندگی پر خوش ہو رہے ہیں اور دنیا کی زندگی آخرت (کے مقابلے) میں (بہت) تھوڑا فائدہ ہے
+
+[Open on Quran.com](https://quran.com/13/26)
+
+#### 14:18 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَّثَلُ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ أَعْمَـٰلُهُمْ كَرَمَادٍ ٱشْتَدَّتْ بِهِ ٱلرِّيحُ فِى يَوْمٍ عَاصِفٍ ۖ لَّا يَقْدِرُونَ مِمَّا كَسَبُوا۟ عَلَىٰ شَىْءٍ ۚ ذَٰلِكَ هُوَ ٱلضَّلَـٰلُ ٱلْبَعِيدُ
+
+</div>
+
+**Word in this verse:** `يَقْدِرُونَ` — control (they have)
+
+**English (Sahih International):** The example of those who disbelieve in their Lord is [that] their deeds are like ashes which the wind blows forcefully on a stormy day; they are unable [to keep] from what they earned a [single] thing. That is what is extreme error.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے اپنے پروردگار سے کفر کیا ان کے اعمال کی مثال راکھ کی سی ہے کہ آندھی کے دن اس پر زور کی ہوا چلے (اور) اسے اڑا لے جائے (اس طرح) جو کام وہ کرتے رہے ان پر ان کو کچھ دسترس نہ ہوگی۔ یہی تو پرلے سرے کی گمراہی ہے
+
+[Open on Quran.com](https://quran.com/14/18)
+
+#### 15:21 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِن مِّن شَىْءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٍ مَّعْلُومٍ
+
+</div>
+
+**Word in this verse:** `بِقَدَرٍۢ` — in a measure
+
+**English (Sahih International):** And there is not a thing but that with Us are its depositories, and We do not send it down except according to a known [i.e., specified] measure.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہمارے ہاں ہر چیز کے خزانے ہیں اور ہم ان کو بمقدار مناسب اُتارتے رہتے ہیں
+
+[Open on Quran.com](https://quran.com/15/21)
+
+#### 15:60 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ ۙ إِنَّهَا لَمِنَ ٱلْغَـٰبِرِينَ
+
+</div>
+
+**Word in this verse:** `قَدَّرْنَآ ۙ` — We have decreed
+
+**English (Sahih International):** Except his wife." We [i.e., Allāh] decreed that she is of those who remain behind.
+
+**Urdu (Fatah Muhammad Jalandhari):** البتہ ان کی عورت (کہ) اس کے لیے ہم نے ٹھہرا دیا ہے کہ وہ پیچھے رہ جائے گی
+
+[Open on Quran.com](https://quran.com/15/60)
+
+_…and **45** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

@@ -1,0 +1,205 @@
+---
+type: word
+lemma: "أَسَرَّ"
+slug: ">sr - they conceal"
+surah_count: 16
+ayah_count: 18
+tags: [word, meaning]
+---
+
+# >sr - they conceal
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[srr - secretly]]
+
+### Meaning
+**they conceal** · Lemma **أَسَرَّ**
+
+### Surahs (16)
+- [[002 Al-Baqarah]]
+- [[005 Al-Maidah]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[012 Yusuf]]
+- [[013 Ar-Rad]]
+- [[016 An-Nahl]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[034 Saba]]
+- [[036 Ya-Sin]]
+- [[060 Al-Mumtahanah]]
+- [[064 At-Taghabun]]
+- [[066 At-Tahrim]]
+- [[067 Al-Mulk]]
+- [[071 Nuh]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:77 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَلَا يَعْلَمُونَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ
+
+</div>
+
+**Word in this verse:** `يُسِرُّونَ` — they conceal
+
+**English (Sahih International):** But do they not know that Allāh knows what they conceal and what they declare?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ یہ نہیں جانتے کہ جو کچھ یہ چھپاتے اور جو کچھ ظاہر کرتے ہیں، خدا کو (سب) معلوم ہے
+
+[Open on Quran.com](https://quran.com/2/77)
+
+#### 5:52 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَتَرَى ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يُسَـٰرِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰٓ أَن تُصِيبَنَا دَآئِرَةٌ ۚ فَعَسَى ٱللَّهُ أَن يَأْتِىَ بِٱلْفَتْحِ أَوْ أَمْرٍ مِّنْ عِندِهِۦ فَيُصْبِحُوا۟ عَلَىٰ مَآ أَسَرُّوا۟ فِىٓ أَنفُسِهِمْ نَـٰدِمِينَ
+
+</div>
+
+**Word in this verse:** `أَسَرُّوا۟` — they had concealed
+
+**English (Sahih International):** So you see those in whose hearts is disease [i.e., hypocrisy] hastening into [association with] them, saying, "We are afraid a misfortune may strike us." But perhaps Allāh will bring conquest or a decision from Him, and they will become, over what they have been concealing within themselves, regretful.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جن لوگوں کے دلوں میں (نفاق کا) مرض ہے تم ان کو دیکھو گے کہ ان میں دوڑ دوڑ کے ملے جاتے ہیں کہتے ہیں کہ ہمیں خوف ہے کہ کہیں ہم پر زمانے کی گردش نہ آجائے سو قریب ہے کہ خدا فتح بھیجے یا اپنے ہاں سے کوئی اور امر (نازل فرمائے) پھر یہ اپنے دل کی باتوں پر جو چھپایا کرتے تھے پشیمان ہو کر رہ جائیں گے
+
+[Open on Quran.com](https://quran.com/5/52)
+
+#### 10:54 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَوْ أَنَّ لِكُلِّ نَفْسٍ ظَلَمَتْ مَا فِى ٱلْأَرْضِ لَٱفْتَدَتْ بِهِۦ ۗ وَأَسَرُّوا۟ ٱلنَّدَامَةَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ ۖ وَقُضِىَ بَيْنَهُم بِٱلْقِسْطِ ۚ وَهُمْ لَا يُظْلَمُونَ
+
+</div>
+
+**Word in this verse:** `وَأَسَرُّوا۟` — and they (will) confide
+
+**English (Sahih International):** And if each soul that wronged had everything on earth, it would offer it in ransom. And they will confide regret when they see the punishment; and they will be judged in justice, and they will not be wronged.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہر ایک نافرمان شخص کے پاس روئے زمین کی تمام چیزیں ہوں تو (عذاب سے بچنے کے) بدلے میں (سب) دے ڈالے اور جب وہ عذاب کو دیکھیں گے تو (پچھتائیں گے اور) ندامت کو چھپائیں گے۔ اور ان میں انصاف کے ساتھ فیصلہ کر دیا جائے گا اور (کسی طرح کا) ان پر ظلم نہیں ہوگا
+
+[Open on Quran.com](https://quran.com/10/54)
+
+#### 11:5 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَآ إِنَّهُمْ يَثْنُونَ صُدُورَهُمْ لِيَسْتَخْفُوا۟ مِنْهُ ۚ أَلَا حِينَ يَسْتَغْشُونَ ثِيَابَهُمْ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+
+</div>
+
+**Word in this verse:** `يُسِرُّونَ` — they conceal
+
+**English (Sahih International):** Unquestionably, they [i.e., the disbelievers] turn away their breasts to hide themselves from him. Unquestionably, [even] when they cover themselves in their clothing, He [i.e., Allāh] knows what they conceal and what they declare. Indeed, He is Knowing of that within the breasts.
+
+**Urdu (Fatah Muhammad Jalandhari):** دیکھو یہ اپنے سینوں کو دوھرا کرتے ہیں تاکہ خدا سے پردہ کریں۔ سن رکھو جس وقت یہ کپڑوں میں لپٹ کر پڑتے ہیں (تب بھی) وہ ان کی چھپی اور کھلی باتوں کو جانتا ہے۔ وہ تو دلوں تک کی باتوں سے آگاہ ہے
+
+[Open on Quran.com](https://quran.com/11/5)
+
+#### 12:19 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَآءَتْ سَيَّارَةٌ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَـٰبُشْرَىٰ هَـٰذَا غُلَـٰمٌ ۚ وَأَسَرُّوهُ بِضَـٰعَةً ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `وَأَسَرُّوهُ` — And they hid him
+
+**English (Sahih International):** And there came a company of travelers; then they sent their water drawer, and he let down his bucket. He said, "Good news! Here is a boy." And they concealed him, [taking him] as merchandise; and Allāh was Knowing of what they did.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اب خدا کی شان دیکھو کہ اس کنویں کے قریب) ایک قافلہ آوارد ہوا اور انہوں نے (پانی کے لیے) اپنا سقا بھیجا۔ اس نے کنویں میں ڈول لٹکایا (تو یوسف اس سے لٹک گئے) وہ بولا زہے قسمت یہ تو (نہایت حسین) لڑکا ہے۔ اور اس کو قیمتی سرمایہ سمجھ کر چھپا لیا اور جو کچھ وہ کرتے تھے خدا کو سب معلوم تھا
+
+[Open on Quran.com](https://quran.com/12/19)
+
+#### 12:77 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُۥ مِن قَبْلُ ۚ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ ۚ قَالَ أَنتُمْ شَرٌّ مَّكَانًا ۖ وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ
+
+</div>
+
+**Word in this verse:** `فَأَسَرَّهَا` — But Yusuf kept it secret
+
+**English (Sahih International):** They said, "If he steals - a brother of his has stolen before." But Joseph kept it within himself and did not reveal it to them. He said, "You are worse in position, and Allāh is most knowing of what you describe."
+
+**Urdu (Fatah Muhammad Jalandhari):** (برادران یوسف نے) کہا کہ اگر اس نے چوری کی ہو تو (کچھ عجب نہیں کہ) اس کے ایک بھائی نے بھی پہلے چوری کی تھی یوسف نے اس بات کو اپنے دل میں مخفی رکھا اور ان پر ظاہر نہ ہونے دیا (اور) کہا کہ تم بڑے بدقماش ہو۔ اور جو تم بیان کرتے ہو خدا اسے خوب جانتا ہے
+
+[Open on Quran.com](https://quran.com/12/77)
+
+#### 13:10 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+سَوَآءٌ مِّنكُم مَّنْ أَسَرَّ ٱلْقَوْلَ وَمَن جَهَرَ بِهِۦ وَمَنْ هُوَ مُسْتَخْفٍۭ بِٱلَّيْلِ وَسَارِبٌۢ بِٱلنَّهَارِ
+
+</div>
+
+**Word in this verse:** `أَسَرَّ` — conceals
+
+**English (Sahih International):** It is the same [to Him] concerning you whether one conceals [his] speech or publicizes it and whether one is hidden by night or conspicuous [among others] by day.
+
+**Urdu (Fatah Muhammad Jalandhari):** کوئی تم میں سے چپکے سے بات کہے یا پکار کر یا رات کو کہیں چھپ جائے یا دن کی روشنی میں کھلم کھلا چلے پھرے (اس کے نزدیک) برابر ہے
+
+[Open on Quran.com](https://quran.com/13/10)
+
+#### 16:19 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ
+
+</div>
+
+**Word in this verse:** `تُسِرُّونَ` — you conceal
+
+**English (Sahih International):** And Allāh knows what you conceal and what you declare.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کچھ تم چھپاتے اور جو کچھ ظاہر کرتے ہو سب سے خدا واقف ہے
+
+[Open on Quran.com](https://quran.com/16/19)
+
+#### 16:23 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَا جَرَمَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْتَكْبِرِينَ
+
+</div>
+
+**Word in this verse:** `يُسِرُّونَ` — they conceal
+
+**English (Sahih International):** Assuredly, Allāh knows what they conceal and what they declare. Indeed, He does not like the arrogant.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ جو کچھ چھپاتے ہیں اور جو ظاہر کرتے ہیں خدا اس کو ضرور جانتا ہے۔ وہ سرکشوں کو ہرگز پسند نہیں کرتا
+
+[Open on Quran.com](https://quran.com/16/23)
+
+#### 20:62 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَتَنَـٰزَعُوٓا۟ أَمْرَهُم بَيْنَهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَىٰ
+
+</div>
+
+**Word in this verse:** `وَأَسَرُّوا۟` — and they kept secret
+
+**English (Sahih International):** So they disputed over their affair among themselves and concealed their private conversation.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو وہ باہم اپنے معاملے میں جھگڑانے اور چپکے چپکے سرگوشی کرنے لگے
+
+[Open on Quran.com](https://quran.com/20/62)
+
+_…and **8** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

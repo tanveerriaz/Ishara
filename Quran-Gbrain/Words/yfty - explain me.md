@@ -1,0 +1,110 @@
+---
+type: word
+lemma: "يُفْتِي"
+slug: "yfty - explain me"
+surah_count: 3
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# yfty - explain me
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[fty - youthfulness]]
+
+### Meaning
+**explain me** · Lemma **يُفْتِي**
+
+### Surahs (3)
+- [[004 An-Nisa]]
+- [[012 Yusuf]]
+- [[027 An-Naml]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:127 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ ۖ قُلِ ٱللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ فِى ٱلْكِتَـٰبِ فِى يَتَـٰمَى ٱلنِّسَآءِ ٱلَّـٰتِى لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ أَن تَنكِحُوهُنَّ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلْوِلْدَٰنِ وَأَن تَقُومُوا۟ لِلْيَتَـٰمَىٰ بِٱلْقِسْطِ ۚ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ كَانَ بِهِۦ عَلِيمًا
+
+</div>
+
+**Word in this verse:** `يُفْتِيكُمْ` — gives you the ruling
+
+**English (Sahih International):** And they request from you, [O Muḥammad], a [legal] ruling concerning women. Say, "Allāh gives you a ruling about them and [about] what has been recited to you in the Book concerning the orphan girls to whom you do not give what is decreed for them - and [yet] you desire to marry them - and concerning the oppressed among children and that you maintain for orphans [their rights] in justice." And whatever you do of good - indeed, Allāh is ever Knowing of it.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگ تم سے (یتیم) عورتوں کے بارے میں فتویٰ طلب کرتے ہیں۔ کہہ دو کہ خدا تم کو ان کے (ساتھ نکاح کرنے کے) معاملے میں اجازت دیتا ہے اور جو حکم اس کتاب میں پہلے دیا گیا ہے وہ ان یتیم عورتوں کے بارے میں ہے جن کو تم ان کا حق تو دیتے نہیں اور خواہش رکھتے ہو کہ ان کے ساتھ نکاح کرلو اور (نیز) بیچارے بیکس بچوں کے بارے میں۔ اور یہ (بھی حکم دیتا ہے) کہ یتیموں کے بارے میں انصاف پر قائم رہو۔ اور جو بھلائی تم کرو گے خدا اس کو جانتا ہے
+
+[Open on Quran.com](https://quran.com/4/127)
+
+#### 4:176 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَـٰلَةِ ۚ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ ۚ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ ۚ فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ ۚ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ ۗ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ ۗ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ
+
+</div>
+
+**Word in this verse:** `يُفْتِيكُمْ` — gives you a ruling
+
+**English (Sahih International):** They request from you a [legal] ruling. Say, "Allāh gives you a ruling concerning one having neither descendants nor ascendants [as heirs]." If a man dies, leaving no child but [only] a sister, she will have half of what he left. And he inherits from her if she [dies and] has no child. But if there are two sisters [or more], they will have two thirds of what he left. If there are both brothers and sisters, the male will have the share of two females. Allāh makes clear to you [His law], lest you go astray. And Allāh is Knowing of all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگ تم سے (کلالہ کے بارے میں) حکم (خدا) دریافت کرتے ہیں کہہ دو کہ خدا کلالہ بارے میں یہ حکم دیتا ہے کہ اگر کوئی ایسا مرد مرجائے جس کے اولاد نہ ہو (اور نہ ماں باپ) اور اس کے بہن ہو تو اس کو بھائی کے ترکے میں سے آدھا حصہ ملے گا۔ اور اگر بہن مرجائے اور اس کے اولاد نہ ہو تو اس کے تمام مال کا وارث بھائی ہوگا اور اگر (مرنے والے بھائی کی) دو بہنیں ہوں تو دونوں کو بھائی کے ترکے میں سے دو تہائی۔ اور اگر بھائی اور بہن یعنی مرد اور عورتیں ملے جلے وارث ہوں تو مرد کا حصہ دو عورتوں کے برابر ہے۔ (یہ احکام) خدا تم سے اس لئے بیان فرماتا ہے کہ بھٹکتے نہ پھرو۔ اور خدا ہر چیز سے واقف ہے
+
+[Open on Quran.com](https://quran.com/4/176)
+
+#### 12:43 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ ٱلْمَلِكُ إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنۢبُلَـٰتٍ خُضْرٍ وَأُخَرَ يَابِسَـٰتٍ ۖ يَـٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَـٰىَ إِن كُنتُمْ لِلرُّءْيَا تَعْبُرُونَ
+
+</div>
+
+**Word in this verse:** `أَفْتُونِى` — Explain to me
+
+**English (Sahih International):** And [subsequently] the king said, "Indeed, I have seen [in a dream] seven fat cows being eaten by seven [that were] lean, and seven green spikes [of grain] and others [that were] dry. O eminent ones, explain to me my vision, if you should interpret visions."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بادشاہ نے کہا کہ میں (نے خواب دیکھا ہے) دیکھتا (کیا) ہوں کہ سات موٹی گائیں ہیں جن کو سات دبلی گائیں کھا رہی ہیں اور سات خوشے سبز ہیں اور (سات) خشک۔ اے سردارو! اگر تم خوابوں کی تعبیر دے سکتے ہو تو مجھے میرے خواب کی تعبیر بتاؤ
+
+[Open on Quran.com](https://quran.com/12/43)
+
+#### 12:46 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنۢبُلَـٰتٍ خُضْرٍ وَأُخَرَ يَابِسَـٰتٍ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `أَفْتِنَا` — Explain to us
+
+**English (Sahih International):** [He said], "Joseph, O man of truth, explain to us about seven fat cows eaten by seven [that were] lean, and seven green spikes [of grain] and others [that were] dry - that I may return to the people [i.e., the king and his court]; perhaps they will know [about you]."
+
+**Urdu (Fatah Muhammad Jalandhari):** (غرض وہ یوسف کے پاس آیا اور کہنے لگا) یوسف اے بڑے سچے (یوسف) ہمیں اس خواب کی تعبیر بتایئے کہ سات موٹی گائیوں کو سات دبلی گائیں کھا رہی ہیں۔ اور سات خوشے سبز ہیں اور سات سوکھے تاکہ میں لوگوں کے پاس واپس جا (کر تعبیر بتاؤں)۔ عجب نہیں کہ وہ (تمہاری قدر) جانیں
+
+[Open on Quran.com](https://quran.com/12/46)
+
+#### 27:32 · [[027 An-Naml]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَتْ يَـٰٓأَيُّهَا ٱلْمَلَؤُا۟ أَفْتُونِى فِىٓ أَمْرِى مَا كُنتُ قَاطِعَةً أَمْرًا حَتَّىٰ تَشْهَدُونِ
+
+</div>
+
+**Word in this verse:** `أَفْتُونِى` — Advise me
+
+**English (Sahih International):** She said, "O eminent ones, advise me in my affair. I would not decide a matter until you witness [for] me."
+
+**Urdu (Fatah Muhammad Jalandhari):** (خط سنا کر) وہ کہنے لگی کہ اے اہل دربار میرے اس معاملے میں مجھے مشورہ دو، جب تک تم حاضر نہ ہو (اور صلاح نہ دو) میں کسی کام کو فیصل کرنے والی نہیں
+
+[Open on Quran.com](https://quran.com/27/32)
+

@@ -1,0 +1,180 @@
+---
+type: word
+lemma: "يَلْعَبْ"
+slug: "ylEb - playing"
+surah_count: 9
+ayah_count: 9
+tags: [word, meaning]
+---
+
+# ylEb - playing
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[lEb - play]]
+
+### Meaning
+**playing** · Lemma **يَلْعَبْ**
+
+### Surahs (9)
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[009 At-Tawbah]]
+- [[012 Yusuf]]
+- [[021 Al-Anbya]]
+- [[043 Az-Zukhruf]]
+- [[044 Ad-Dukhan]]
+- [[052 At-Tur]]
+- [[070 Al-Maarij]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 6:91 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍ مِّن شَىْءٍ ۗ قُلْ مَنْ أَنزَلَ ٱلْكِتَـٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًا وَهُدًى لِّلنَّاسِ ۖ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا ۖ وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ ۖ قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ
+
+</div>
+
+**Word in this verse:** `يَلْعَبُونَ` — playing
+
+**English (Sahih International):** And they did not appraise Allāh with true appraisal when they said, "Allāh did not reveal to a human being anything." Say, "Who revealed the Scripture that Moses brought as light and guidance to the people? You [Jews] make it into pages, disclosing [some of] it and concealing much. And you were taught that which you knew not - neither you nor your fathers." Say, "Allāh [revealed it]." Then leave them in their [empty] discourse, amusing themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے خدا کی قدر جیسی جاننی چاہیئے تھی نہ جانی۔ جب انہوں نے کہا کہ خدا نے انسان پر (وحی اور کتاب وغیرہ) کچھ بھی نازل نہیں کیا۔ کہو جو کتاب موسیٰ لے کر آئے تھے اسے کس نے نازل کیا تھا جو لوگوں کے لئے نور اور ہدایت تھی اور جسے تم نے علیحدہ علیحدہ اوراق (پر نقل) کر رکھا ہے ان (کے کچھ حصے) کو تو ظاہر کرتے ہو اور اکثر کو چھپاتے ہو۔ اور تم کو وہ باتیں سکھائی گئیں جن کو نہ تم جانتے تھے اور نہ تمہارے باپ دادا۔ کہہ دو (اس کتاب کو) خدا ہی نے (نازل کیا تھا) پھر ان کو چھوڑ دیا کہ اپنی بیہودہ بکواس میں کھیلتے رہیں
+
+[Open on Quran.com](https://quran.com/6/91)
+
+#### 7:98 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَأَمِنَ أَهْلُ ٱلْقُرَىٰٓ أَن يَأْتِيَهُم بَأْسُنَا ضُحًى وَهُمْ يَلْعَبُونَ
+
+</div>
+
+**Word in this verse:** `يَلْعَبُونَ` — (were) playing
+
+**English (Sahih International):** Or did the people of the cities feel secure from Our punishment coming to them in the morning while they were at play?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کیا اہلِ شہر اس سے نڈر ہیں کہ ان پر ہمارا عذاب دن چڑھے آ نازل ہو اور وہ کھیل رہے ہوں
+
+[Open on Quran.com](https://quran.com/7/98)
+
+#### 9:65 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَئِن سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ ۚ قُلْ أَبِٱللَّهِ وَءَايَـٰتِهِۦ وَرَسُولِهِۦ كُنتُمْ تَسْتَهْزِءُونَ
+
+</div>
+
+**Word in this verse:** `وَنَلْعَبُ ۚ` — and playing
+
+**English (Sahih International):** And if you ask them, they will surely say, "We were only conversing and playing." Say, "Is it Allāh and His verses and His Messenger that you were mocking?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم ان سے (اس بارے میں) دریافت کرو تو کہیں گے ہم تو یوں ہی بات چیت اور دل لگی کرتے تھے۔ کہو کیا تم خدا اور اس کی آیتوں اور اس کے رسول سے ہنسی کرتے تھے
+
+[Open on Quran.com](https://quran.com/9/65)
+
+#### 12:12 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ
+
+</div>
+
+**Word in this verse:** `وَيَلْعَبْ` — and play
+
+**English (Sahih International):** Send him with us tomorrow that he may eat well and play. And indeed, we will be his guardians."
+
+**Urdu (Fatah Muhammad Jalandhari):** کل اسے ہمارے ساتھ بھیج دیجیئے کہ خوب میوے کھائے اور کھیلے کودے۔ ہم اس کے نگہبان ہیں
+
+[Open on Quran.com](https://quran.com/12/12)
+
+#### 21:2 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَا يَأْتِيهِم مِّن ذِكْرٍ مِّن رَّبِّهِم مُّحْدَثٍ إِلَّا ٱسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ
+
+</div>
+
+**Word in this verse:** `يَلْعَبُونَ` — (are at) play
+
+**English (Sahih International):** No mention [i.e., revelation] comes to them anew from their Lord except that they listen to it while they are at play
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کے پاس کوئی نئی نصیحت ان کے پروردگار کی طرف سے نہیں آتی مگر وہ اسے کھیلتے ہوئے سنتے ہیں
+
+[Open on Quran.com](https://quran.com/21/2)
+
+#### 43:83 · [[043 Az-Zukhruf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ
+
+</div>
+
+**Word in this verse:** `وَيَلْعَبُوا۟` — and play
+
+**English (Sahih International):** So leave them to converse vainly and amuse themselves until they meet their Day which they are promised.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کو بک بک کرنے اور کھیلنے دو۔ یہاں تک کہ جس دن کا ان سے وعدہ کیا جاتا ہے اس کو دیکھ لیں
+
+[Open on Quran.com](https://quran.com/43/83)
+
+#### 44:9 · [[044 Ad-Dukhan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+بَلْ هُمْ فِى شَكٍّ يَلْعَبُونَ
+
+</div>
+
+**Word in this verse:** `يَلْعَبُونَ` — playing
+
+**English (Sahih International):** But they are in doubt, amusing themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** لیکن یہ لوگ شک میں کھیل رہے ہیں
+
+[Open on Quran.com](https://quran.com/44/9)
+
+#### 52:12 · [[052 At-Tur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ هُمْ فِى خَوْضٍ يَلْعَبُونَ
+
+</div>
+
+**Word in this verse:** `يَلْعَبُونَ` — are playing
+
+**English (Sahih International):** Who are in [empty] discourse amusing themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو خوض (باطل) میں پڑے کھیل رہے ہیں
+
+[Open on Quran.com](https://quran.com/52/12)
+
+#### 70:42 · [[070 Al-Maarij]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ
+
+</div>
+
+**Word in this verse:** `وَيَلْعَبُوا۟` — and amuse themselves
+
+**English (Sahih International):** So leave them to converse vainly and amuse themselves until they meet their Day which they are promised -
+
+**Urdu (Fatah Muhammad Jalandhari):** تو (اے پیغمبر) ان کو باطل میں پڑے رہنے اور کھیل لینے دو یہاں تک کہ جس دن کا ان سے وعدہ کیا جاتا ہے وہ ان کے سامنے آ موجود ہو
+
+[Open on Quran.com](https://quran.com/70/42)
+

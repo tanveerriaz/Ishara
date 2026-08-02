@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "يُغَيِّرُ"
+slug: "ygyr - they change"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# ygyr - they change
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[gyr - ghayr]]
+
+### Meaning
+**they change** · Lemma **يُغَيِّرُ**
+
+### Surahs (3)
+- [[004 An-Nisa]]
+- [[008 Al-Anfal]]
+- [[013 Ar-Rad]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 4:119 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَـَٔامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَـٰمِ وَلَـَٔامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَـٰنَ وَلِيًّا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُّبِينًا
+
+</div>
+
+**Word in this verse:** `فَلَيُغَيِّرُنَّ` — so they will surely change
+
+**English (Sahih International):** And I will mislead them, and I will arouse in them [sinful] desires, and I will command them so they will slit the ears of cattle, and I will command them so they will change the creation of Allāh." And whoever takes Satan as an ally instead of Allāh has certainly sustained a clear loss.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو گمراہ کرتا اور امیدیں دلاتا ہروں گا اور یہ سکھاتا رہوں گا کہ جانوروں کے کان چیرتے رہیں اور (یہ بھی) کہتا رہوں گا کہ وہ خدا کی بنائی ہوئی صورتوں کو بدلتے رہیں اور جس شخص نے خدا کو چھوڑ کر شیطان کو دوست بنایا اور وہ صریح نقصان میں پڑ گیا
+
+[Open on Quran.com](https://quran.com/4/119)
+
+#### 8:53 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ذَٰلِكَ بِأَنَّ ٱللَّهَ لَمْ يَكُ مُغَيِّرًا نِّعْمَةً أَنْعَمَهَا عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا۟ مَا بِأَنفُسِهِمْ ۙ وَأَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `يُغَيِّرُوا۟` — they change
+
+**English (Sahih International):** That is because Allāh would not change a favor which He had bestowed upon a people until they change what is within themselves. And indeed, Allāh is Hearing and Knowing.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس لیے کہ جو نعمت خدا کسی قوم کو دیا کرتا ہے جب تک وہ خود اپنے دلوں کی حالت نہ بدل ڈالیں خدا اسے نہیں بدلا کرتا۔ اور اس لیے کہ خدا سنتا جانتا ہے
+
+[Open on Quran.com](https://quran.com/8/53)
+
+#### 13:11 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَهُۥ مُعَقِّبَـٰتٌ مِّنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦ يَحْفَظُونَهُۥ مِنْ أَمْرِ ٱللَّهِ ۗ إِنَّ ٱللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا۟ مَا بِأَنفُسِهِمْ ۗ وَإِذَآ أَرَادَ ٱللَّهُ بِقَوْمٍ سُوٓءًا فَلَا مَرَدَّ لَهُۥ ۚ وَمَا لَهُم مِّن دُونِهِۦ مِن وَالٍ
+
+</div>
+
+**Word in this verse:** `يُغَيِّرُ` — change
+
+**English (Sahih International):** For him [i.e., each one] are successive [angels] before and behind him who protect him by the decree of Allāh. Indeed, Allāh will not change the condition of a people until they change what is in themselves. And when Allāh intends for a people ill, there is no repelling it. And there is not for them besides Him any patron.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کے آگے اور پیچھے خدا کے چوکیدار ہیں جو خدا کے حکم سے اس کی حفاظت کرتے ہیں۔ خدا اس (نعمت) کو جو کسی قوم کو (حاصل) ہے نہیں بدلتا جب تک کہ وہ اپنی حالت کو نہ بدلے۔ اور جب خدا کسی قوم کے ساتھ برائی کا ارادہ کرتا ہے تو پھر وہ پھر نہیں سکتی۔ اور خدا کے سوا ان کا کوئی مددگار نہیں ہوتا
+
+[Open on Quran.com](https://quran.com/13/11)
+

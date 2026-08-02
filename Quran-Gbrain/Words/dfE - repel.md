@@ -1,0 +1,129 @@
+---
+type: word
+lemma: "دَفْع"
+slug: "dfE - repel"
+surah_count: 6
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# dfE - repel
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[dfE - dfe]]
+
+### Meaning
+**repel** · Lemma **دَفْع**
+
+### Surahs (6)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[022 Al-Hajj]]
+- [[023 Al-Muminun]]
+- [[041 Fussilat]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:251 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَهَزَمُوهُم بِإِذْنِ ٱللَّهِ وَقَتَلَ دَاوُۥدُ جَالُوتَ وَءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ وَٱلْحِكْمَةَ وَعَلَّمَهُۥ مِمَّا يَشَآءُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ ٱلْأَرْضُ وَلَـٰكِنَّ ٱللَّهَ ذُو فَضْلٍ عَلَى ٱلْعَـٰلَمِينَ
+
+</div>
+
+**Word in this verse:** `دَفْعُ` — (for the) repelling
+
+**English (Sahih International):** So they defeated them by permission of Allāh, and David killed Goliath, and Allāh gave him the kingship and wisdom [i.e., prophethood] and taught him from that which He willed. And if it were not for Allāh checking [some] people by means of others, the earth would have been corrupted, but Allāh is the possessor of bounty for the worlds.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو طالوت کی فوج نے خدا کے حکم سے ان کو ہزیمت دی۔ اور داؤد نے جالوت کو قتل کر ڈالا۔ اور خدا نے اس کو بادشاہی اور دانائی بخشی اور جو کچھ چاہا سکھایا۔ اور خدا لوگوں کو ایک دوسرے (پر چڑھائی اور حملہ کرنے) سے ہٹاتا نہ رہتا تو ملک تباہ ہوجاتا لیکن خدا اہل عالم پر بڑا مہربان ہے
+
+[Open on Quran.com](https://quran.com/2/251)
+
+#### 3:167 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلِيَعْلَمَ ٱلَّذِينَ نَافَقُوا۟ ۚ وَقِيلَ لَهُمْ تَعَالَوْا۟ قَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَوِ ٱدْفَعُوا۟ ۖ قَالُوا۟ لَوْ نَعْلَمُ قِتَالًا لَّٱتَّبَعْنَـٰكُمْ ۗ هُمْ لِلْكُفْرِ يَوْمَئِذٍ أَقْرَبُ مِنْهُمْ لِلْإِيمَـٰنِ ۚ يَقُولُونَ بِأَفْوَٰهِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ ۗ وَٱللَّهُ أَعْلَمُ بِمَا يَكْتُمُونَ
+
+</div>
+
+**Word in this verse:** `ٱدْفَعُوا۟ ۖ` — defend
+
+**English (Sahih International):** And that He might make evident those who are hypocrites. For it was said to them, "Come, fight in the way of Allāh or [at least] defend." They said, "If we had known [there would be] battle, we would have followed you." They were nearer to disbelief that day than to faith, saying with their mouths what was not in their hearts. And Allāh is most knowing of what they conceal -
+
+**Urdu (Fatah Muhammad Jalandhari):** اور منافقوں کو بھی معلوم کرلے اور (جب) ان سے کہا گیا کہ آؤ خدا کے رستے میں جنگ کرو یا (کافروں کے) حملوں کو روکو۔ تو کہنے لگے کہ اگر ہم کو لڑائی کی خبر ہوتی تو ہم ضرور تمہارے ساتھ رہتے یہ اس دن ایمان کی نسبت کفر سے زیادہ قریب تھے منہ سے وہ باتیں کہتے ہیں جو ان کے دل میں نہیں ہیں۔ اور جو کچھ یہ چھپاتے ہیں خدا ان سے خوب واقف ہے
+
+[Open on Quran.com](https://quran.com/3/167)
+
+#### 4:6 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱبْتَلُوا۟ ٱلْيَتَـٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ ۖ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ ۚ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ ۖ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ ۚ وَكَفَىٰ بِٱللَّهِ حَسِيبًا
+
+</div>
+
+**Word in this verse:** `فَٱدْفَعُوٓا۟` — then deliver
+
+**English (Sahih International):** And test the orphans [in their abilities] until they reach marriageable age. Then if you perceive in them sound judgement, release their property to them. And do not consume it excessively and quickly, [anticipating] that they will grow up. And whoever, [when acting as guardian], is self-sufficient should refrain [from taking a fee]; and whoever is poor - let him take according to what is acceptable. Then when you release their property to them, bring witnesses upon them. And sufficient is Allāh as Accountant.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یتمیوں کو بالغ ہونے تک کام کاج میں مصروف رکھو پھر (بالغ ہونے پر) اگر ان میں عقل کی پختگی دیکھو تو ان کا مال ان کے حوالے کردو اور اس خوف سے کہ وہ بڑے ہوجائیں گے (یعنی بڑے ہو کر تم سے اپنا مال واپس لے لیں گے) اس کو فضول خرچی اور جلدی میں نہ اڑا دینا۔ جو شخص آسودہ حال ہو اس کو (ایسے مال سے قطعی طور پر) پرہیز رکھنا چاہیئے اور جو بے مقدور ہو وہ مناسب طور پر (یعنی بقدر خدمت) کچھ لے لے اور جب ان کا مال ان کے حوالے کرنے لگو تو گواہ کرلیا کرو۔ اور حقیقت میں تو خدا ہی (گواہ اور) حساب لینے والا کافی ہے
+
+[Open on Quran.com](https://quran.com/4/6)
+
+#### 22:40 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَـٰرِهِم بِغَيْرِ حَقٍّ إِلَّآ أَن يَقُولُوا۟ رَبُّنَا ٱللَّهُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّهُدِّمَتْ صَوَٰمِعُ وَبِيَعٌ وَصَلَوَٰتٌ وَمَسَـٰجِدُ يُذْكَرُ فِيهَا ٱسْمُ ٱللَّهِ كَثِيرًا ۗ وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ
+
+</div>
+
+**Word in this verse:** `دَفْعُ` — Allah checks
+
+**English (Sahih International):** [They are] those who have been evicted from their homes without right - only because they say, "Our Lord is Allāh." And were it not that Allāh checks the people, some by means of others, there would have been demolished monasteries, churches, synagogues, and mosques in which the name of Allāh is much mentioned [i.e., praised]. And Allāh will surely support those who support Him [i.e., His cause]. Indeed, Allāh is Powerful and Exalted in Might.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں کہ اپنے گھروں سے ناحق نکال دیئے گئے (انہوں نے کچھ قصور نہیں کیا) ہاں یہ کہتے ہیں کہ ہمارا پروردگار خدا ہے۔ اور اگر خدا لوگوں کو ایک دوسرے سے نہ ہٹاتا رہتا تو (راہبوں کے) صومعے اور (عیسائیوں کے) گرجے اور (یہودیوں کے) عبادت خانے اور (مسلمانوں کی) مسجدیں جن میں خدا کا بہت سا ذکر کیا جاتا ہے ویران ہوچکی ہوتیں۔ اور جو شخص خدا کی مدد کرتا ہے خدا اس کی ضرور مدد کرتا ہے۔ بےشک خدا توانا اور غالب ہے
+
+[Open on Quran.com](https://quran.com/22/40)
+
+#### 23:96 · [[023 Al-Muminun]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ ٱلسَّيِّئَةَ ۚ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ
+
+</div>
+
+**Word in this verse:** `ٱدْفَعْ` — Repel
+
+**English (Sahih International):** Repel, by [means of] what is best, [their] evil. We are most knowing of what they describe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بری بات کے جواب میں ایسی بات کہو جو نہایت اچھی ہو۔ اور یہ جو کچھ بیان کرتے ہیں ہمیں خوب معلوم ہے
+
+[Open on Quran.com](https://quran.com/23/96)
+
+#### 41:34 · [[041 Fussilat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱدْفَعْ` — Repel
+
+**English (Sahih International):** And not equal are the good deed and the bad. Repel [evil] by that [deed] which is better; and thereupon, the one whom between you and him is enmity [will become] as though he was a devoted friend.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بھلائی اور برائی برابر نہیں ہوسکتی۔ تو (سخت کلامی کا) ایسے طریق سے جواب دو جو بہت اچھا ہو (ایسا کرنے سے تم دیکھو گے) کہ جس میں اور تم میں دشمنی تھی گویا وہ تمہارا گرم جوش دوست ہے
+
+[Open on Quran.com](https://quran.com/41/34)
+

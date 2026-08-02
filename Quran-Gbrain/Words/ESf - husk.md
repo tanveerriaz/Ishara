@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "عَصْف"
+slug: "ESf - husk"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# ESf - husk
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[ESf - esf]]
+
+### Meaning
+**husk** · Lemma **عَصْف**
+
+### Surahs (3)
+- [[055 Ar-Rahman]]
+- [[077 Al-Mursalat]]
+- [[105 Al-Fil]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 55:12 · [[055 Ar-Rahman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ
+
+</div>
+
+**Word in this verse:** `ٱلْعَصْفِ` — husk
+
+**English (Sahih International):** And grain having husks and scented plants.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اناج جس کے ساتھ بھس ہوتا ہے اور خوشبودار پھول
+
+[Open on Quran.com](https://quran.com/55/12)
+
+#### 77:2 · [[077 Al-Mursalat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱلْعَـٰصِفَـٰتِ عَصْفًا
+
+</div>
+
+**Word in this verse:** `عَصْفًۭا` — violently
+
+**English (Sahih International):** And the winds that blow violently
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر زور پکڑ کر جھکڑ ہو جاتی ہیں
+
+[Open on Quran.com](https://quran.com/77/2)
+
+#### 105:5 · [[105 Al-Fil]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ
+
+</div>
+
+**Word in this verse:** `كَعَصْفٍۢ` — like straw
+
+**English (Sahih International):** And He made them like eaten straw.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کو ایسا کر دیا جیسے کھایا ہوا بھس
+
+[Open on Quran.com](https://quran.com/105/5)
+

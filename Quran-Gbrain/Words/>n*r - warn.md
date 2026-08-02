@@ -1,0 +1,214 @@
+---
+type: word
+lemma: "أَنذَرَ"
+slug: ">n*r - warn"
+surah_count: 25
+ayah_count: 40
+tags: [word, meaning]
+---
+
+# >n*r - warn
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[n*r - ndhr]]
+
+### Meaning
+**warn** · Lemma **أَنذَرَ**
+
+### Surahs (25)
+- [[002 Al-Baqarah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[009 At-Tawbah]]
+- [[010 Yunus]]
+- [[014 Ibrahim]]
+- [[016 An-Nahl]]
+- [[018 Al-Kahf]]
+- [[019 Maryam]]
+- [[021 Al-Anbya]]
+- [[026 Ash-Shuara]]
+- [[028 Al-Qasas]]
+- [[032 As-Sajdah]]
+- [[035 Fatir]]
+- [[036 Ya-Sin]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[041 Fussilat]]
+- [[042 Ash-Shuraa]]
+- [[046 Al-Ahqaf]]
+- [[054 Al-Qamar]]
+- [[071 Nuh]]
+- [[074 Al-Muddaththir]]
+- [[078 An-Naba]]
+- [[092 Al-Layl]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:6 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
+
+</div>
+
+**Word in this verse:** `ءَأَنذَرْتَهُمْ` — whether you warn them
+
+**English (Sahih International):** Indeed, those who disbelieve - it is all the same for them whether you warn them or do not warn them - they will not believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں انہیں تم نصیحت کرو یا نہ کرو ان کے لیے برابر ہے۔ وہ ایمان نہیں لانے کے
+
+[Open on Quran.com](https://quran.com/2/6)
+
+#### 6:19 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ أَىُّ شَىْءٍ أَكْبَرُ شَهَـٰدَةً ۖ قُلِ ٱللَّهُ ۖ شَهِيدٌۢ بَيْنِى وَبَيْنَكُمْ ۚ وَأُوحِىَ إِلَىَّ هَـٰذَا ٱلْقُرْءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَ ۚ أَئِنَّكُمْ لَتَشْهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخْرَىٰ ۚ قُل لَّآ أَشْهَدُ ۚ قُلْ إِنَّمَا هُوَ إِلَـٰهٌ وَٰحِدٌ وَإِنَّنِى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ
+
+</div>
+
+**Word in this verse:** `لِأُنذِرَكُم` — that I may warn you
+
+**English (Sahih International):** Say, "What thing is greatest in testimony?" Say, "Allāh is witness between me and you. And this Qur’ān was revealed to me that I may warn you thereby and whomever it reaches. Do you [truly] testify that with Allāh there are other deities?" Say, "I will not testify [with you]." Say, "Indeed, He is but one God, and indeed, I am free of what you associate [with Him]."
+
+**Urdu (Fatah Muhammad Jalandhari):** ان سے پوچھو کہ سب سے بڑھ کر (قرین انصاف) کس کی شہادت ہے کہہ دو کہ خدا ہی مجھ میں اور تم میں گواہ ہے اور یہ قرآن مجھ پر اس لیے اتارا گیا ہے کہ اس کے ذریعے سے تم کو اور جس شخص تک وہ پہنچ سکے آگاہ کردوں کیا تم لوگ اس بات کی شہادت دیتے ہو کہ خدا کے ساتھ اور بھی معبود ہیں (اے محمدﷺ!) کہہ دو کہ میں تو (ایسی) شہادت نہیں دیتا کہہ دو کہ صرف وہی ایک معبود ہے اور جن کو تم لوگ شریک بناتے ہو میں ان سے بیزار ہوں
+
+[Open on Quran.com](https://quran.com/6/19)
+
+#### 6:51 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنذِرْ بِهِ ٱلَّذِينَ يَخَافُونَ أَن يُحْشَرُوٓا۟ إِلَىٰ رَبِّهِمْ ۙ لَيْسَ لَهُم مِّن دُونِهِۦ وَلِىٌّ وَلَا شَفِيعٌ لَّعَلَّهُمْ يَتَّقُونَ
+
+</div>
+
+**Word in this verse:** `وَأَنذِرْ` — And warn
+
+**English (Sahih International):** And warn by it [i.e., the Qur’ān] those who fear that they will be gathered before their Lord - for them besides Him will be no protector and no intercessor - that they might become righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ جو خوف رکھتے ہیں کہ اپنے پروردگار کے روبرو حاضر کئے جائیں گے (اور جانتے ہیں کہ) اس کے سوا نہ تو ان کا کوئی دوست ہوگا اور نہ سفارش کرنے والا، ان کو اس (قرآن) کے ذریعے سے نصیحت کر دو تاکہ پرہیزگار بنیں
+
+[Open on Quran.com](https://quran.com/6/51)
+
+#### 6:92 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَهَـٰذَا كِتَـٰبٌ أَنزَلْنَـٰهُ مُبَارَكٌ مُّصَدِّقُ ٱلَّذِى بَيْنَ يَدَيْهِ وَلِتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا ۚ وَٱلَّذِينَ يُؤْمِنُونَ بِٱلْـَٔاخِرَةِ يُؤْمِنُونَ بِهِۦ ۖ وَهُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ
+
+</div>
+
+**Word in this verse:** `وَلِتُنذِرَ` — so that you may warn
+
+**English (Sahih International):** And this is a Book which We have sent down, blessed and confirming what was before it, that you may warn the Mother of Cities [i.e., Makkah] and those around it. Those who believe in the Hereafter believe in it, and they are maintaining their prayers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (ویسی ہی) یہ کتاب ہے جسے ہم نے نازل کیا ہے بابرکت جو اپنے سے پہلی (کتابوں) کی تصدیق کرتی ہے اور (جو) اس لئے (نازل کی گئی ہے) کہ تم مکے اور اس کے آس پاس کے لوگوں کو آگاہ کردو۔ اور جو لوگ آخرت پر ایمان رکھتے ہیں وہ اس کتاب پر بھی ایمان رکھتے ہیں اور وہ اپنی نمازوں کی پوری خبر رکھتے ہیں
+
+[Open on Quran.com](https://quran.com/6/92)
+
+#### 6:130 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَـٰتِى وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَـٰذَا ۚ قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا ۖ وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `وَيُنذِرُونَكُمْ` — and warning you
+
+**English (Sahih International):** "O company of jinn and mankind, did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours?" They will say, "We bear witness against ourselves"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے جنّوں اور انسانوں کی جماعت کیا تمہارے پاس تم ہی میں سے پیغمبر نہیں آتے رہے جو میری آیتیں تم کو پڑھ پڑھ کر سناتے اور اس دن کے سامنے آموجود ہونے سے ڈراتے تھے وہ کہیں گے کہ (پروردگار) ہمیں اپنے گناہوں کا اقرار ہے ان لوگوں کو دنیاکی زندگی نے دھوکے میں ڈال رکھا تھا اور (اب) خود اپنے اوپر گواہی دی کہ کفر کرتے تھے
+
+[Open on Quran.com](https://quran.com/6/130)
+
+#### 7:2 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كِتَـٰبٌ أُنزِلَ إِلَيْكَ فَلَا يَكُن فِى صَدْرِكَ حَرَجٌ مِّنْهُ لِتُنذِرَ بِهِۦ وَذِكْرَىٰ لِلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `لِتُنذِرَ` — that you warn
+
+**English (Sahih International):** [This is] a Book revealed to you, [O Muḥammad] - so let there not be in your breast distress therefrom - that you may warn thereby and as a reminder to the believers.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) یہ کتاب (جو) تم پر نازل ہوئی ہے۔ اس سے تمہیں تنگ دل نہیں ہونا چاہیئے، (یہ نازل) اس لیے (ہوئی ہے) کہ تم اس کے ذریعے سے (لوگوں) کو ڈر سناؤ اور (یہ) ایمان والوں کے لیے نصیحت ہے
+
+[Open on Quran.com](https://quran.com/7/2)
+
+#### 7:63 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ وَلِتَتَّقُوا۟ وَلَعَلَّكُمْ تُرْحَمُونَ
+
+</div>
+
+**Word in this verse:** `لِيُنذِرَكُمْ` — that he may warn you
+
+**English (Sahih International):** Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you and that you may fear Allāh so you might receive mercy?"
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم کو اس بات سے تعجب ہوا ہے کہ تم میں سے ایک شخص کے ہاتھ تمہارے پروردگار کی طرف سے تمہارے پاس نصیحت آئی تاکہ وہ تم کو ڈرائے اور تاکہ تم پرہیزگار بنو اور تاکہ تم پر رحم کیا جائے
+
+[Open on Quran.com](https://quran.com/7/63)
+
+#### 7:69 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةً ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ
+
+</div>
+
+**Word in this verse:** `لِيُنذِرَكُمْ ۚ` — that he may warn you
+
+**English (Sahih International):** Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed."
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم کو اس بات سے تعجب ہوا ہے کہ تم میں سے ایک شخص کے ہاتھ تمہارے پروردگار کی طرف سے تمہارے پاس نصیحت آئی تاکہ وہ تمہیں ڈرائے اور یاد کرو تو کرو جب اس نے تم کو قوم نوح کے بعد سردار بنایا۔ اور تم کو پھیلاؤ زیادہ دیا۔ پس خدا کی نعمتوں کو یاد کرو۔ تاکہ نجات حاصل کرو
+
+[Open on Quran.com](https://quran.com/7/69)
+
+#### 9:122 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَمَا كَانَ ٱلْمُؤْمِنُونَ لِيَنفِرُوا۟ كَآفَّةً ۚ فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِّنْهُمْ طَآئِفَةٌ لِّيَتَفَقَّهُوا۟ فِى ٱلدِّينِ وَلِيُنذِرُوا۟ قَوْمَهُمْ إِذَا رَجَعُوٓا۟ إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ
+
+</div>
+
+**Word in this verse:** `وَلِيُنذِرُوا۟` — and that they may warn
+
+**English (Sahih International):** And it is not for the believers to go forth [to battle] all at once. For there should separate from every division of them a group [remaining] to obtain understanding in the religion and warn [i.e., advise] their people when they return to them that they might be cautious.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ تو ہو نہیں سکتا کہ مومن سب کے سب نکل آئیں۔ تو یوں کیوں نہ کیا کہ ہر ایک جماعت میں سے چند اشخاص نکل جاتے تاکہ دین کا (علم سیکھتے اور اس) میں سمجھ پیدا کرتے اور جب اپنی قوم کی طرف واپس آتے تو ان کو ڈر سناتے تاکہ وہ حذر کرتے
+
+[Open on Quran.com](https://quran.com/9/122)
+
+#### 10:2 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَآ إِلَىٰ رَجُلٍ مِّنْهُمْ أَنْ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓا۟ أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِندَ رَبِّهِمْ ۗ قَالَ ٱلْكَـٰفِرُونَ إِنَّ هَـٰذَا لَسَـٰحِرٌ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `أَنذِرِ` — Warn
+
+**English (Sahih International):** Have the people been amazed that We revealed [revelation] to a man from among them, [saying], "Warn mankind and give good tidings to those who believe that they will have a [firm] precedence of honor with their Lord"? [But] the disbelievers say, "Indeed, this is an obvious magician."
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا لوگوں کو تعجب ہوا کہ ہم نے ان ہی میں سے ایک مرد کو حکم بھیجا کہ لوگوں کو ڈر سنا دو۔ اور ایمان لانے والوں کو خوشخبری دے دو کہ ان کے پروردگار کے ہاں ان کا سچا درجہ ہے۔ (ایسے شخص کی نسبت) کافر کہتے ہیں کہ یہ صریح جادوگر ہے
+
+[Open on Quran.com](https://quran.com/10/2)
+
+_…and **30** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

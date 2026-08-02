@@ -1,0 +1,196 @@
+---
+type: word
+lemma: "سَرِيع"
+slug: "sryE - swift"
+surah_count: 9
+ayah_count: 10
+tags: [word, meaning]
+---
+
+# sryE - swift
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[srE - sre]]
+
+### Meaning
+**swift** · Lemma **سَرِيع**
+
+### Surahs (9)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[024 An-Nur]]
+- [[040 Ghafir]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:202 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أُو۟لَـٰٓئِكَ لَهُمْ نَصِيبٌ مِّمَّا كَسَبُوا۟ ۚ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ
+
+</div>
+
+**Word in this verse:** `سَرِيعُ` — (is) swift
+
+**English (Sahih International):** Those will have a share of what they have earned, and Allāh is swift in account.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن کے لئے ان کے کاموں کا حصہ (یعنی اجر نیک تیار) ہے اور خدا جلد حساب لینے والا (اور جلد اجر دینے والا) ہے
+
+[Open on Quran.com](https://quran.com/2/202)
+
+#### 3:19 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلْإِسْلَـٰمُ ۗ وَمَا ٱخْتَلَفَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۗ وَمَن يَكْفُرْ بِـَٔايَـٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+
+</div>
+
+**Word in this verse:** `سَرِيعُ` — (is) swift
+
+**English (Sahih International):** Indeed, the religion in the sight of Allāh is Islām. And those who were given the Scripture did not differ except after knowledge had come to them - out of jealous animosity between themselves. And whoever disbelieves in the verses of Allāh, then indeed, Allāh is swift in [taking] account.
+
+**Urdu (Fatah Muhammad Jalandhari):** دین تو خدا کے نزدیک اسلام ہے اور اہل کتاب نے جو (اس دین سے) اختلاف کیا تو علم ہونے کے بعد آپس کی ضد سے کیا اور جو شخص خدا کی آیتوں کو نہ مانے تو خدا جلد حساب لینے والا (اور سزا دینے والا) ہے
+
+[Open on Quran.com](https://quran.com/3/19)
+
+#### 3:199 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِنَّ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَـٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا ۗ أُو۟لَـٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+
+</div>
+
+**Word in this verse:** `سَرِيعُ` — (is) swift
+
+**English (Sahih International):** And indeed, among the People of the Scripture are those who believe in Allāh and what was revealed to you and what was revealed to them, [being] humbly submissive to Allāh. They do not exchange the verses of Allāh for a small price. Those will have their reward with their Lord. Indeed, Allāh is swift in account.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بعض اہلِ کتاب ایسے بھی ہیں جو خدا پر اور اس (کتاب) پر جو تم پر نازل ہوئی اور اس پر جو ان پر نازل ہوئی ایمان رکھتے ہیں اور خدا کے آگے عاجزی کرتے ہیں اور خدا کی آیتوں کے بدلے تھوڑی سی قیمت نہیں لیتے یہی لوگ ہیں جن کا صلہ ان کے پروردگار کے ہاں تیار ہے اور خدا جلد حساب لینے والا ہے
+
+[Open on Quran.com](https://quran.com/3/199)
+
+#### 5:4 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَـٰتُ ۙ وَمَا عَلَّمْتُم مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ ۖ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+
+</div>
+
+**Word in this verse:** `سَرِيعُ` — is swift
+
+**English (Sahih International):** They ask you, [O Muḥammad], what has been made lawful for them. Say, "Lawful for you are [all] good foods and [game caught by] what you have trained of hunting animals which you train as Allāh has taught you. So eat of what they catch for you, and mention the name of Allāh upon it, and fear Allāh." Indeed, Allāh is swift in account.
+
+**Urdu (Fatah Muhammad Jalandhari):** تم سے پوچھتے ہیں کہ کون کون سی چیزیں ان کے لیے حلال ہیں (ان سے) کہہ دو کہ سب پاکیزہ چیزیں تم کو حلال ہیں اور وہ (شکار) بھی حلال ہے جو تمہارے لیے ان شکاری جانوروں نے پکڑا ہو جن کو تم نے سدھا رکھا ہو اور جس (طریق) سے خدا نے تمہیں (شکار کرنا) سکھایا ہے (اس طریق سے) تم نے ان کو سکھایا ہو تو جو شکار وہ تمہارے لئے پکڑ رکھیں اس کو کھا لیا کرو اور (شکاری جانوروں کو چھوڑتے وقت) خدا کا نام لے لیا کرو اور خدا سے ڈرتے رہو۔ بےشک خدا جلد حساب لینے والا ہے
+
+[Open on Quran.com](https://quran.com/5/4)
+
+#### 6:165 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَهُوَ ٱلَّذِى جَعَلَكُمْ خَلَـٰٓئِفَ ٱلْأَرْضِ وَرَفَعَ بَعْضَكُمْ فَوْقَ بَعْضٍ دَرَجَـٰتٍ لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ ۗ إِنَّ رَبَّكَ سَرِيعُ ٱلْعِقَابِ وَإِنَّهُۥ لَغَفُورٌ رَّحِيمٌۢ
+
+</div>
+
+**Word in this verse:** `سَرِيعُ` — (is) swift
+
+**English (Sahih International):** And it is He who has made you successors upon the earth and has raised some of you above others in degrees [of rank] that He may try you through what He has given you. Indeed, your Lord is swift in penalty; but indeed, He is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے زمین میں تم کو اپنا نائب بنایا اور ایک کے دوسرے پر درجے بلند کئے تاکہ جو کچھ اس نے تمہیں بخشا ہے اس میں تمہاری آزمائش ہے بےشک تمہارا پروردگار جلد عذاب دینے والا ہے اور بےشک وہ بخشنے والا مہربان بھی ہے
+
+[Open on Quran.com](https://quran.com/6/165)
+
+#### 7:167 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ تَأَذَّنَ رَبُّكَ لَيَبْعَثَنَّ عَلَيْهِمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ مَن يَسُومُهُمْ سُوٓءَ ٱلْعَذَابِ ۗ إِنَّ رَبَّكَ لَسَرِيعُ ٱلْعِقَابِ ۖ وَإِنَّهُۥ لَغَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `لَسَرِيعُ` — (is) surely swift
+
+**English (Sahih International):** And [mention] when your Lord declared that He would surely [continue to] send upon them until the Day of Resurrection those who would afflict them with the worst torment. Indeed, your Lord is swift in penalty; but indeed, He is Forgiving and Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور اس وقت کو یاد کرو) جب تمہارے پروردگار نے (یہود کو) آگاہ کردیا تھا کہ وہ ان پر قیامت تک ایسے شخص کو مسلط رکھے گا جو انہیں بری بری تکلیفیں دیتا رہے۔ بےشک تمہارا پروردگار جلد عذاب کرنے والا ہے اور وہ بخشنے والا مہربان بھی ہے
+
+[Open on Quran.com](https://quran.com/7/167)
+
+#### 13:41 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَلَمْ يَرَوْا۟ أَنَّا نَأْتِى ٱلْأَرْضَ نَنقُصُهَا مِنْ أَطْرَافِهَا ۚ وَٱللَّهُ يَحْكُمُ لَا مُعَقِّبَ لِحُكْمِهِۦ ۚ وَهُوَ سَرِيعُ ٱلْحِسَابِ
+
+</div>
+
+**Word in this verse:** `سَرِيعُ` — (is) Swift
+
+**English (Sahih International):** Have they not seen that We set upon the land, reducing it from its borders? And Allāh decides; there is no adjuster of His decision. And He is swift in account.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ ہم زمین کو اس کے کناروں سے گھٹاتے چلے آتے ہیں۔ اور خدا (جیسا چاہتا ہے) حکم کرتا ہے کوئی اس کے حکم کا رد کرنے والا نہیں۔ اور وہ جلد حساب لینے والا ہے
+
+[Open on Quran.com](https://quran.com/13/41)
+
+#### 14:51 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لِيَجْزِىَ ٱللَّهُ كُلَّ نَفْسٍ مَّا كَسَبَتْ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+
+</div>
+
+**Word in this verse:** `سَرِيعُ` — (is) Swift
+
+**English (Sahih International):** So that Allāh will recompense every soul for what it earned. Indeed, Allāh is swift in account.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس لیے کہ خدا ہر شخص کو اس کے اعمال کا بدلہ دے۔ بےشک خدا جلد حساب لینے والا ہے
+
+[Open on Quran.com](https://quran.com/14/51)
+
+#### 24:39 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ كَفَرُوٓا۟ أَعْمَـٰلُهُمْ كَسَرَابٍۭ بِقِيعَةٍ يَحْسَبُهُ ٱلظَّمْـَٔانُ مَآءً حَتَّىٰٓ إِذَا جَآءَهُۥ لَمْ يَجِدْهُ شَيْـًٔا وَوَجَدَ ٱللَّهَ عِندَهُۥ فَوَفَّىٰهُ حِسَابَهُۥ ۗ وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ
+
+</div>
+
+**Word in this verse:** `سَرِيعُ` — (is) swift
+
+**English (Sahih International):** But those who disbelieved - their deeds are like a mirage in a lowland which a thirsty one thinks is water until, when he comes to it, he finds it is nothing but finds Allāh before him, and He will pay him in full his due; and Allāh is swift in account.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے کفر کیا ان کے اعمال کی مثال ایسی ہے جیسے میدان میں ریت کہ پیاسا اسے پانی سمجھے یہاں تک کہ جب اس کے پاس آئے تو اسے کچھ بھی نہ پائے اور خدا ہی کو اپنے پاس دیکھے تو وہ اسے اس کا حساب پورا پورا چکا دے۔ اور خدا جلد حساب کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/24/39)
+
+#### 40:17 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلْيَوْمَ تُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ ۚ لَا ظُلْمَ ٱلْيَوْمَ ۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+
+</div>
+
+**Word in this verse:** `سَرِيعُ` — (is) Swift
+
+**English (Sahih International):** This Day every soul will be recompensed for what it earned. No injustice today! Indeed, Allāh is swift in account.
+
+**Urdu (Fatah Muhammad Jalandhari):** آج کے دن ہر شخص کو اس کے اعمال کا بدلہ دیا جائے گا۔ آج (کسی کے حق میں) بےانصافی نہیں ہوگی۔ بےشک خدا جلد حساب لینے والا ہے
+
+[Open on Quran.com](https://quran.com/40/17)
+

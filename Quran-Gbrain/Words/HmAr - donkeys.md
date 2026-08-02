@@ -1,0 +1,112 @@
+---
+type: word
+lemma: "حِمار"
+slug: "HmAr - donkeys"
+surah_count: 5
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# HmAr - donkeys
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Hmr - hmr]]
+
+### Meaning
+**donkeys** · Lemma **حِمار**
+
+### Surahs (5)
+- [[002 Al-Baqarah]]
+- [[016 An-Nahl]]
+- [[031 Luqman]]
+- [[062 Al-Jumuah]]
+- [[074 Al-Muddaththir]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 2:259 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ هَـٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ ۖ قَالَ كَمْ لَبِثْتَ ۖ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ ۖ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ ۖ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ ۖ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا ۚ فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+
+</div>
+
+**Word in this verse:** `حِمَارِكَ` — your donkey
+
+**English (Sahih International):** Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, "How will Allāh bring this to life after its death?" So Allāh caused him to die for a hundred years; then He revived him. He said, "How long have you remained?" He [the man] said, "I have remained a day or part of a day." He said, "Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh." And when it became clear to him, he said, "I know that Allāh is over all things competent."
+
+**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
+
+[Open on Quran.com](https://quran.com/2/259)
+
+#### 16:8 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلْخَيْلَ وَٱلْبِغَالَ وَٱلْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةً ۚ وَيَخْلُقُ مَا لَا تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `وَٱلْحَمِيرَ` — and donkeys
+
+**English (Sahih International):** And [He created] the horses, mules and donkeys for you to ride and [as] adornment. And He creates that which you do not know.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے گھوڑے اور خچر اور گدھے پیدا کئے تاکہ تم ان پر سوار ہو اور (وہ تمہارے لیے) رونق وزینت (بھی ہیں) اور وہ (اور چیزیں بھی) پیدا کرتا ہے جن کی تم کو خبر نہیں
+
+[Open on Quran.com](https://quran.com/16/8)
+
+#### 31:19 · [[031 Luqman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱقْصِدْ فِى مَشْيِكَ وَٱغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ ٱلْأَصْوَٰتِ لَصَوْتُ ٱلْحَمِيرِ
+
+</div>
+
+**Word in this verse:** `ٱلْحَمِيرِ` — (of) the donkeys
+
+**English (Sahih International):** And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the voice of donkeys."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی چال میں اعتدال کئے رہنا اور (بولتے وقت) آواز نیچی رکھنا کیونکہ (اُونچی آواز گدھوں کی ہے اور کچھ شک نہیں کہ) سب آوازوں سے بُری آواز گدھوں کی ہے
+
+[Open on Quran.com](https://quran.com/31/19)
+
+#### 62:5 · [[062 Al-Jumuah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَثَلُ ٱلَّذِينَ حُمِّلُوا۟ ٱلتَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ أَسْفَارًۢا ۚ بِئْسَ مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِ ٱللَّهِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْحِمَارِ` — the donkey
+
+**English (Sahih International):** The example of those who were entrusted with the Torah and then did not take it on is like that of a donkey who carries volumes [of books]. Wretched is the example of the people who deny the signs of Allāh. And Allāh does not guide the wrongdoing people.
+
+**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں (کے سر) پر تورات لدوائی گئی پھر انہوں نے اس (کے بار تعمیل) کو نہ اٹھایا ان کی مثال گدھے کی سی ہے جن پر بڑی بڑی کتابیں لدی ہوں۔ جو لوگ خدا کی آیتوں کی تکذیب کرتے ہیں ان کی مثال بری ہے۔ اور خدا ظالم لوگوں کو ہدایت نہیں دیتا
+
+[Open on Quran.com](https://quran.com/62/5)
+
+#### 74:50 · [[074 Al-Muddaththir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ
+
+</div>
+
+**Word in this verse:** `حُمُرٌۭ` — donkeys
+
+**English (Sahih International):** As if they were alarmed donkeys.
+
+**Urdu (Fatah Muhammad Jalandhari):** گویا گدھے ہیں کہ بدک جاتے ہیں
+
+[Open on Quran.com](https://quran.com/74/50)
+

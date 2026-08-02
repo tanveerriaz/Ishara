@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "طَفِقَ"
+slug: "Tfq - they began"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# Tfq - they began
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Tfq - tfq]]
+
+### Meaning
+**they began** · Lemma **طَفِقَ**
+
+### Surahs (3)
+- [[007 Al-Araf]]
+- [[020 Taha]]
+- [[038 Sad]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 7:22 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَدَلَّىٰهُمَا بِغُرُورٍ ۚ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ ۖ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَـٰنَ لَكُمَا عَدُوٌّ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `وَطَفِقَا` — and they began
+
+**English (Sahih International):** So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, "Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?"
+
+**Urdu (Fatah Muhammad Jalandhari):** غرض (مردود نے) دھوکہ دے کر ان کو (معصیت کی طرف) کھینچ ہی لیا جب انہوں نے اس درخت (کے پھل) کو کھا لیا تو ان کی ستر کی چیزیں کھل گئیں اور وہ بہشت کے (درختوں کے) پتے توڑ توڑ کر اپنے اوپر چپکانے لگے اور (ستر چھپانے لگے) تب ان کے پروردگار نے ان کو پکارا کہ کیا میں نے تم کو اس درخت (کے پاس جانے) سے منع نہیں کیا تھا اور جتا نہیں دیا تھا کہ شیطان تمہارا کھلم کھلا دشمن ہے
+
+[Open on Quran.com](https://quran.com/7/22)
+
+#### 20:121 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَكَلَا مِنْهَا فَبَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ ۚ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ
+
+</div>
+
+**Word in this verse:** `وَطَفِقَا` — and they began
+
+**English (Sahih International):** And they [i.e., Adam and his wife] ate of it, and their private parts became apparent to them, and they began to fasten over themselves from the leaves of Paradise. And Adam disobeyed his Lord and erred.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو دونوں نے اس درخت کا پھل کھا لیا تو ان پر ان کی شرمگاہیں ظاہر ہوگئیں اور وہ اپنے (بدنوں) پر بہشت کے پتّے چپکانے لگے۔ اور آدم نے اپنے پروردگار کے حکم خلاف کیا تو (وہ اپنے مطلوب سے) بےراہ ہو گئے
+
+[Open on Quran.com](https://quran.com/20/121)
+
+#### 38:33 · [[038 Sad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رُدُّوهَا عَلَىَّ ۖ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ
+
+</div>
+
+**Word in this verse:** `فَطَفِقَ` — Then he began
+
+**English (Sahih International):** [He said], "Return them to me," and set about striking [their] legs and necks.
+
+**Urdu (Fatah Muhammad Jalandhari):** (بولے کہ) ان کو میرے پاس واپس لے آؤ۔ پھر ان کی ٹانگوں اور گردنوں پر ہاتھ پھیرنے لگے
+
+[Open on Quran.com](https://quran.com/38/33)
+

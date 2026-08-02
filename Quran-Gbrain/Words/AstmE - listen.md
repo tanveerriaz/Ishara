@@ -1,0 +1,203 @@
+---
+type: word
+lemma: "اسْتَمَعَ"
+slug: "AstmE - listen"
+surah_count: 14
+ayah_count: 15
+tags: [word, meaning]
+---
+
+# AstmE - listen
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[smE - sense ear]]
+
+### Meaning
+**listen** · Lemma **اسْتَمَعَ**
+
+### Surahs (14)
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[010 Yunus]]
+- [[017 Al-Isra]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[022 Al-Hajj]]
+- [[026 Ash-Shuara]]
+- [[039 Az-Zumar]]
+- [[046 Al-Ahqaf]]
+- [[047 Muhammad]]
+- [[050 Qaf]]
+- [[052 At-Tur]]
+- [[072 Al-Jinn]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 6:25 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ ۖ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا ۚ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍ لَّا يُؤْمِنُوا۟ بِهَا ۚ حَتَّىٰٓ إِذَا جَآءُوكَ يُجَـٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَـٰذَآ إِلَّآ أَسَـٰطِيرُ ٱلْأَوَّلِينَ
+
+</div>
+
+**Word in this verse:** `يَسْتَمِعُ` — listen
+
+**English (Sahih International):** And among them are those who listen to you, but We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And if they should see every sign, they will not believe in it. Even when they come to you arguing with you, those who disbelieve say, "This is not but legends of the former peoples."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں بعض ایسے ہیں کہ تمہاری (باتوں کی) طرف کان رکھتے ہیں۔ اور ہم نے ان کے دلوں پر تو پردے ڈال دیئے ہیں کہ ان کو سمجھ نہ سکیں اور کانوں میں ثقل پیدا کردیا ہے (کہ سن نہ سکیں) اور اگر یہ تمام نشانیاں بھی دیکھ لیں تب بھی ان پر ایمان نہ لائیں۔ یہاں تک کہ جب تمہارے پاس تم سے بحث کرنے کو آتے ہیں تو جو کافر ہیں کہتے ہیں یہ (قرآن) اور کچھ بھی نہیں صرف پہلے لوگوں کی کہانیاں ہیں
+
+[Open on Quran.com](https://quran.com/6/25)
+
+#### 7:204 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا قُرِئَ ٱلْقُرْءَانُ فَٱسْتَمِعُوا۟ لَهُۥ وَأَنصِتُوا۟ لَعَلَّكُمْ تُرْحَمُونَ
+
+</div>
+
+**Word in this verse:** `فَٱسْتَمِعُوا۟` — then listen
+
+**English (Sahih International):** So when the Qur’ān is recited, then listen to it and pay attention that you may receive mercy.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب قرآن پڑھا جائے تو توجہ سے سنا کرو اور خاموش رہا کرو تاکہ تم پر رحم کیا جائے
+
+[Open on Quran.com](https://quran.com/7/204)
+
+#### 10:42 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنْهُم مَّن يَسْتَمِعُونَ إِلَيْكَ ۚ أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ وَلَوْ كَانُوا۟ لَا يَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `يَسْتَمِعُونَ` — listen
+
+**English (Sahih International):** And among them are those who listen to you. But can you cause the deaf to hear [i.e., benefit from this hearing], although they will not use reason?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے بعض ایسے ہیں کہ تمہاری طرف کان لگاتے ہیں تو کیا تم بہروں کو سناؤ گے اگرچہ کچھ بھی (سنتے) سمجھتے نہ ہوں
+
+[Open on Quran.com](https://quran.com/10/42)
+
+#### 17:47 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+نَّحْنُ أَعْلَمُ بِمَا يَسْتَمِعُونَ بِهِۦٓ إِذْ يَسْتَمِعُونَ إِلَيْكَ وَإِذْ هُمْ نَجْوَىٰٓ إِذْ يَقُولُ ٱلظَّـٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلًا مَّسْحُورًا
+
+</div>
+
+**Word in this verse:** `يَسْتَمِعُونَ` — they listen
+
+**English (Sahih International):** We are most knowing of how they listen to it when they listen to you and [of] when they are in private conversation, when the wrongdoers say, "You follow not but a man affected by magic."
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ لوگ جب تمہاری طرف کان لگاتے ہیں تو جس نیت سے یہ سنتے ہیں ہم اسے خوب جانتے ہیں اور جب یہ سرگوشیاں کرتے ہیں (یعنی) جب ظالم کہتے ہیں کہ تم ایک ایسے شخص کی پیروی کرتے ہو جس پر جادو کیا گیا ہے
+
+[Open on Quran.com](https://quran.com/17/47)
+
+#### 20:13 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنَا ٱخْتَرْتُكَ فَٱسْتَمِعْ لِمَا يُوحَىٰٓ
+
+</div>
+
+**Word in this verse:** `فَٱسْتَمِعْ` — so listen
+
+**English (Sahih International):** And I have chosen you, so listen to what is revealed [to you].
+
+**Urdu (Fatah Muhammad Jalandhari):** اور میں نے تم کو انتخاب کرلیا ہے تو جو حکم دیا جائے اسے سنو
+
+[Open on Quran.com](https://quran.com/20/13)
+
+#### 21:2 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَا يَأْتِيهِم مِّن ذِكْرٍ مِّن رَّبِّهِم مُّحْدَثٍ إِلَّا ٱسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ
+
+</div>
+
+**Word in this verse:** `ٱسْتَمَعُوهُ` — they listen to it
+
+**English (Sahih International):** No mention [i.e., revelation] comes to them anew from their Lord except that they listen to it while they are at play
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کے پاس کوئی نئی نصیحت ان کے پروردگار کی طرف سے نہیں آتی مگر وہ اسے کھیلتے ہوئے سنتے ہیں
+
+[Open on Quran.com](https://quran.com/21/2)
+
+#### 22:73 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٌ فَٱسْتَمِعُوا۟ لَهُۥٓ ۚ إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَن يَخْلُقُوا۟ ذُبَابًا وَلَوِ ٱجْتَمَعُوا۟ لَهُۥ ۖ وَإِن يَسْلُبْهُمُ ٱلذُّبَابُ شَيْـًٔا لَّا يَسْتَنقِذُوهُ مِنْهُ ۚ ضَعُفَ ٱلطَّالِبُ وَٱلْمَطْلُوبُ
+
+</div>
+
+**Word in this verse:** `فَٱسْتَمِعُوا۟` — so listen
+
+**English (Sahih International):** O people, an example is presented, so listen to it. Indeed, those you invoke besides Allāh will never create [as much as] a fly, even if they gathered together for it [i.e., that purpose]. And if the fly should steal from them a [tiny] thing, they could not recover it from him. Weak are the pursuer and pursued.
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو! ایک مثال بیان کی جاتی ہے اسے غور سے سنو۔ کہ جن لوگوں کو تم خدا کے سوا پکارتے ہو وہ ایک مکھی بھی نہیں بنا سکتے اگرچہ اس کے لئے سب مجتمع ہوجائیں۔ اور اگر ان سے مکھی کوئی چیز لے جائے تو اسے اس سے چھڑا نہیں سکتے۔ طالب اور مطلوب (یعنی عابد اور معبود دونوں) گئے گزرے ہیں
+
+[Open on Quran.com](https://quran.com/22/73)
+
+#### 26:25 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ لِمَنْ حَوْلَهُۥٓ أَلَا تَسْتَمِعُونَ
+
+</div>
+
+**Word in this verse:** `تَسْتَمِعُونَ` — you hear
+
+**English (Sahih International):** [Pharaoh] said to those around him, "Do you not hear?"
+
+**Urdu (Fatah Muhammad Jalandhari):** فرعون نے اپنے اہالی موالی سے کہا کہ کیا تم سنتے نہیں
+
+[Open on Quran.com](https://quran.com/26/25)
+
+#### 39:18 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَسْتَمِعُونَ ٱلْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُۥٓ ۚ أُو۟لَـٰٓئِكَ ٱلَّذِينَ هَدَىٰهُمُ ٱللَّهُ ۖ وَأُو۟لَـٰٓئِكَ هُمْ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ
+
+</div>
+
+**Word in this verse:** `يَسْتَمِعُونَ` — they listen (to)
+
+**English (Sahih International):** Who listen to speech and follow the best of it. Those are the ones Allāh has guided, and those are people of understanding.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو بات کو سنتے اور اچھی باتوں کی پیروی کرتے ہیں۔ یہی وہ لوگ ہیں جن کو خدا نے ہدایت دی اور یہی عقل والے ہیں
+
+[Open on Quran.com](https://quran.com/39/18)
+
+#### 46:29 · [[046 Al-Ahqaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ ۖ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ
+
+</div>
+
+**Word in this verse:** `يَسْتَمِعُونَ` — listening
+
+**English (Sahih International):** And [mention, O Muḥammad], when We directed to you a few of the jinn, listening to the Qur’ān. And when they attended it, they said, "Listen attentively." And when it was concluded, they went back to their people as warners.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے جنوں میں سے کئی شخص تمہاری طرف متوجہ کئے کہ قرآن سنیں۔ تو جب وہ اس کے پاس آئے تو (آپس میں) کہنے لگے کہ خاموش رہو۔ جب (پڑھنا) تمام ہوا تو اپنی برادری کے لوگوں میں واپس گئے کہ (ان کو) نصیحت کریں
+
+[Open on Quran.com](https://quran.com/46/29)
+
+_…and **5** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

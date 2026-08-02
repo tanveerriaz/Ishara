@@ -1,0 +1,78 @@
+---
+type: word
+lemma: "مَحَوْ"
+slug: "mHw - eliminated"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# mHw - eliminated
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[mHw - efface]]
+
+### Meaning
+**eliminated** · Lemma **مَحَوْ**
+
+### Surahs (3)
+- [[013 Ar-Rad]]
+- [[017 Al-Isra]]
+- [[042 Ash-Shuraa]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+
+#### 13:39 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَمْحُوا۟ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ ۖ وَعِندَهُۥٓ أُمُّ ٱلْكِتَـٰبِ
+
+</div>
+
+**Word in this verse:** `يَمْحُوا۟` — (Is) eliminated
+
+**English (Sahih International):** Allāh eliminates what He wills or confirms, and with Him is the Mother of the Book.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا جس کو چاہتا ہے مٹا دیتا ہے اور (جس کو چاہتا ہے) قائم رکھتا ہے اور اسی کے پاس اصل کتاب ہے
+
+[Open on Quran.com](https://quran.com/13/39)
+
+#### 17:12 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ ۖ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ وَكُلَّ شَىْءٍ فَصَّلْنَـٰهُ تَفْصِيلًا
+
+</div>
+
+**Word in this verse:** `فَمَحَوْنَآ` — Then We erased
+
+**English (Sahih International):** And We have made the night and day two signs, and We erased the sign of the night and made the sign of the day visible that you may seek bounty from your Lord and may know the number of years and the account [of time]. And everything We have set out in detail.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے دن اور رات کو دو نشانیاں بنایا ہے رات کی نشانی کو تاریک بنایا اور دن کی نشانی کو روشن۔ تاکہ تم اپنے پروردگار کا فضل (یعنی) روزی تلاش کرو اور برسوں کا شمار اور حساب جانو۔ اور ہم نے ہر چیز کو (بخوبی) تفصیل کردی ہے
+
+[Open on Quran.com](https://quran.com/17/12)
+
+#### 42:24 · [[042 Ash-Shuraa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا ۖ فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ ۗ وَيَمْحُ ٱللَّهُ ٱلْبَـٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَـٰتِهِۦٓ ۚ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+
+</div>
+
+**Word in this verse:** `وَيَمْحُ` — And Allah eliminates
+
+**English (Sahih International):** Or do they say, "He has invented about Allāh a lie"? But if Allāh willed, He could seal over your heart. And Allāh eliminates falsehood and establishes the truth by His words. Indeed, He is Knowing of that within the breasts.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ کہتے ہیں کہ پیغمبر نے خدا پر جھوٹ باندھ لیا ہے؟ اگر خدا چاہے تو (اے محمدﷺ) تمہارے دل پر مہر لگا دے۔ اور خدا جھوٹ کو نابود کرتا اور اپنی باتوں سے حق کو ثابت کرتا ہے۔ بےشک وہ سینے تک کی باتوں سے واقف ہے
+
+[Open on Quran.com](https://quran.com/42/24)
+
