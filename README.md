@@ -19,7 +19,7 @@ Connect this GitHub repo in the [Cloudflare Pages dashboard](https://dash.cloudf
 | Build command | `npm run build` |
 | Build output directory | `dist` |
 
-After the first deploy, the site URL will look like `https://ishara.pages.dev`.
+After the first deploy, open **https://ishara-5kc.pages.dev**.
 
 On the site: search a meaning → animated **local graph** (Obsidian colors: Words / Roots / Surahs) → click a node → full verse in **Arabic + English + Urdu**. Works on phones. No LLM.
 

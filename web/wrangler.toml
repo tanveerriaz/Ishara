@@ -1,8 +1,8 @@
-# Cloudflare Pages — GitHub integration
-# Root directory: web
+# Cloudflare Pages
+# Root directory in GitHub CI: web
 # Build command: npm run build
 # Output directory: dist
-# (prebuilt public/data is committed so CI needs no Python rebuild)
 
 name = "ishara"
 compatibility_date = "2026-08-02"
+pages_build_output_dir = "dist"

@@ -1,0 +1,8 @@
+# Railway static hosting for the Ishara web viewer
+# Deploy from web/: railway up
+
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+restartPolicyType = "ON_FAILURE"
