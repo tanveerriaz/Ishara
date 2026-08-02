@@ -8,16 +8,13 @@ Public **meaning graph** of Qur’anic words linked across surahs (and roots) �
 
 **Nothing in the Qur’an text is “mine.”** See [ATTRIBUTION.md](ATTRIBUTION.md) for sources (Quran.com / Tanzil, Sahih International, Fatah Muhammad Jalandhari, Quranic Arabic Corpus, Lane lexicon).
 
-## Try online (free)
+## Try online (Cloudflare Pages — free)
 
-| Host | URL |
-|------|-----|
-| **Cloudflare Pages** (primary) | https://ishara-5kc.pages.dev |
-| **Railway** | https://ishara-web-production.up.railway.app |
+**https://ishara-5kc.pages.dev**
 
-On the site: search a meaning → animated **local graph** (Obsidian colors: Words / Roots / Surahs) → click a node → full verse in **Arabic + English + Urdu**. Works on phones. No LLM.
+Search a meaning → animated **local graph** (gold Words / Roots / Surahs) → click a node → full verse in **Arabic + English + Urdu**. Works on phones. No LLM.
 
-### Cloudflare Pages (GitHub)
+### Deploy settings (GitHub → Cloudflare Pages)
 
 | Setting | Value |
 |--------|--------|
@@ -26,9 +23,7 @@ On the site: search a meaning → animated **local graph** (Obsidian colors: Wor
 | Build command | `npm run build` |
 | Build output directory | `dist` |
 
-### Railway
-
-Monorepo root `railway.toml` builds `web/Dockerfile` (Caddy serves `dist`). Redeploy: `railway up` from the repo root.
+Or from `web/`: `npm run build && npx wrangler pages deploy dist --project-name=ishara`
 
 ## Use locally in Obsidian
 
@@ -50,7 +45,7 @@ open -a Obsidian "/Users/tanveerriaz/Projects/Ishara/vault"
 path:Words OR path:Roots OR tag:#surah
 ```
 
-4. Color groups:
+4. Color groups (Wasp charcoal + gold):
 
 - `path:Words` — bronze gold (`#c9a227`)
 - `path:Roots` — Wasp gold (`#f8c537`)
@@ -76,7 +71,7 @@ cd web && npm ci && npm run build
 
 - Obsidian vault: `vault/`
 - Static viewer: `web/` (Vite + React + force-graph + MiniSearch)
-- Host: Cloudflare Pages (free) + Railway mirror
+- Host: Cloudflare Pages (free)
 
 ## License
 

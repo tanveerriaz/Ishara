@@ -1,8 +1,0 @@
-# Ishara — Railway build from monorepo root
-[build]
-builder = "DOCKERFILE"
-dockerfilePath = "web/Dockerfile"
-watchPatterns = ["web/**"]
-
-[deploy]
-restartPolicyType = "ON_FAILURE"
