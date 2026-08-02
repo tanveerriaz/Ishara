@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Export Quran-Gbrain vault → web/public/data for the static graph viewer."""
+"""Export Ishara vault → web/public/data for the static graph viewer."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
-VAULT = ROOT / "Quran-Gbrain"
+VAULT = ROOT / "Ishara"
 OUT = ROOT / "web" / "public" / "data"
 NOTES = OUT / "notes"
 

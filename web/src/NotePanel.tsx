@@ -33,7 +33,7 @@ export function NotePanel({ note, loading, onNavigate }: Props) {
     return (
       <aside className="note-pane empty">
         <div>
-          <h2>Quran Gbrain</h2>
+          <h2>Ishara</h2>
           <p>Meaning graph of Qur’anic words across surahs — search, click a node, read the full verse in Arabic, English, and Urdu.</p>
           <p>No AI answers — only vault-indexed text from attributed sources.</p>
         </div>

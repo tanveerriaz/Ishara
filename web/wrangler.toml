@@ -4,5 +4,5 @@
 # Output directory: dist
 # (prebuilt public/data is committed so CI needs no Python rebuild)
 
-name = "quran-gbrain"
+name = "ishara"
 compatibility_date = "2026-08-02"

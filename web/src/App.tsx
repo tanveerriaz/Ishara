@@ -77,7 +77,7 @@ export default function App() {
     <div className="app">
       <header className="header">
         <div className="brand">
-          Quran Gbrain
+          Ishara
           <span>
             {graph.meta.nodeCount.toLocaleString()} nodes · {graph.meta.linkCount.toLocaleString()} links
           </span>

@@ -20,7 +20,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 DATA = Path("/Users/tanveerriaz/Projects/Quran Gbrain/data")
-VAULT = Path("/Users/tanveerriaz/Projects/Quran Gbrain/Quran-Gbrain")
+VAULT = Path("/Users/tanveerriaz/Projects/Quran Gbrain/Ishara")
 ROOT_DIR = VAULT / "Roots"
 WORD_DIR = VAULT / "Words"
 META_DIR = VAULT / "Meta"
