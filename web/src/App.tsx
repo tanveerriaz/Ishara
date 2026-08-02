@@ -4,7 +4,7 @@ import { GraphView } from './GraphView'
 import { NotePanel } from './NotePanel'
 import type { GraphData, GraphNode, NoteData } from './types'
 
-const GITHUB_REPO = 'https://github.com/tanveerriaz/quran-gbrain'
+const GITHUB_REPO = 'https://github.com/tanveerriaz/Ishara'
 
 export default function App() {
   const [graph, setGraph] = useState<GraphData | null>(null)

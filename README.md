@@ -1,8 +1,10 @@
-# Quran Gbrain
+# Ishara
 
 Public **meaning graph** of Qur’anic words linked across surahs (and roots) — open in the browser or as an Obsidian vault.
 
-**Repo:** [github.com/tanveerriaz/quran-gbrain](https://github.com/tanveerriaz/quran-gbrain)
+**Repo:** [github.com/tanveerriaz/Ishara](https://github.com/tanveerriaz/Ishara)
+
+*Ishara* (إشارة) — signpost through the Qur’an’s connected meanings.
 
 **Nothing in the Qur’an text is “mine.”** See [ATTRIBUTION.md](ATTRIBUTION.md) for sources (Quran.com / Tanzil, Sahih International, Fatah Muhammad Jalandhari, Quranic Arabic Corpus, Lane lexicon).
 
@@ -17,14 +19,14 @@ Connect this GitHub repo in the [Cloudflare Pages dashboard](https://dash.cloudf
 | Build command | `npm run build` |
 | Build output directory | `dist` |
 
-After the first deploy, the site URL will look like `https://quran-gbrain.pages.dev`.
+After the first deploy, the site URL will look like `https://ishara.pages.dev`.
 
 On the site: search a meaning → animated **local graph** (Obsidian colors: Words / Roots / Surahs) → click a node → full verse in **Arabic + English + Urdu**. Works on phones. No LLM.
 
 ## Use locally in Obsidian
 
 1. Clone this repo.
-2. Open the folder `Quran-Gbrain/` as an Obsidian vault.
+2. Open the folder `Ishara/` as an Obsidian vault.
 3. **Graph view** filter (also saved in `.obsidian/graph.json`):
 
 ```text
@@ -55,7 +57,7 @@ cd web && npm ci && npm run build
 
 ## Stack
 
-- Obsidian vault: `Quran-Gbrain/`
+- Obsidian vault: `Ishara/`
 - Static viewer: `web/` (Vite + React + force-graph + MiniSearch)
 - Host: Cloudflare Pages
 

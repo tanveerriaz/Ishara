@@ -19,8 +19,9 @@ import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 
-DATA = Path("/Users/tanveerriaz/Projects/Quran Gbrain/data")
-VAULT = Path("/Users/tanveerriaz/Projects/Quran Gbrain/Ishara")
+ROOT = Path(__file__).resolve().parents[1]
+DATA = ROOT / "data"
+VAULT = ROOT / "Ishara"
 ROOT_DIR = VAULT / "Roots"
 WORD_DIR = VAULT / "Words"
 META_DIR = VAULT / "Meta"

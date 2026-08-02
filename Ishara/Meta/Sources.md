@@ -4,7 +4,7 @@ tags: [meta, sources]
 
 # Sources
 
-This vault aggregates public resources. Nothing here is a new translation or proprietary Qur’an text. See the repo [ATTRIBUTION.md](https://github.com/tanveerriaz/quran-gbrain/blob/main/ATTRIBUTION.md).
+This vault aggregates public resources. Nothing here is a new translation or proprietary Qur’an text. See the repo [ATTRIBUTION.md](https://github.com/tanveerriaz/Ishara/blob/main/ATTRIBUTION.md).
 
 - Arabic: Quran.com / Tanzil Uthmani
 - English on word-verse blocks: Sahih International (API id 20)
