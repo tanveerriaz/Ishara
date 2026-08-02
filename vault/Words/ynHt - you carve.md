@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:74 · [[007 Al-Araf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And remember when He made you successors after the ʿAad and settled you in the land, [and] you take for yourselves palaces from its plains and carve from the mountains, homes. Then remember the favors of Allāh and do not commit abuse on the earth, spreading corruption."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یاد تو کرو جب اس نے تم کو قوم عاد کے بعد سردار بنایا اور زمین پر آباد کیا کہ نرم زمین سے (مٹی لے لے کر) محل تعمیر کرتے ہو اور پہاڑوں کو تراش تراش کر گھر بناتے ہو۔ پس خدا کی نعمتوں کو یاد کرو اور زمین میں فساد نہ کرتے پھرو
+**English (Yusuf Ali):** "And remember how He made you inheritors after the 'Ad people and gave you habitations in the land: ye build for yourselves palaces and castles in (open) plains, and carve out homes in the mountains; so bring to remembrance the benefits (ye have received) from Allah, and refrain from evil and mischief on the earth."
 
 [Open on Quran.com](https://quran.com/7/74)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they used to carve from the mountains, houses, feeling secure.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ پہاڑوں کو تراش تراش کر گھر بناتے تھے (کہ) امن (واطمینان) سے رہیں گے
+**English (Yusuf Ali):** Out of the mountains did they hew (their) edifices, (feeling themselves) secure.
 
 [Open on Quran.com](https://quran.com/15/82)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you carve out of the mountains, homes, with skill.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تکلف سے پہاڑوں میں تراش خراش کر گھر بناتے ہو
+**English (Yusuf Ali):** "And ye carve houses out of (rocky) mountains with great skill.
 
 [Open on Quran.com](https://quran.com/26/149)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "Do you worship that which you [yourselves] carve,
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ تم ایسی چیزوں کو کیوں پوجتے ہو جن کو خود تراشتے ہو؟
+**English (Yusuf Ali):** He said: "Worship ye that which ye have (yourselves) carved?
 
 [Open on Quran.com](https://quran.com/37/95)
 

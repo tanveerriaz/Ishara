@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:62 · [[003 Ali Imran]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, this is the true narration. And there is no deity except Allāh. And indeed, Allāh is the Exalted in Might, the Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ تمام بیانات صحیح ہیں اور خدا کے سوا کوئی معبود نہیں اور بیشک خدا غالب اور صاحبِ حکمت ہے
+**English (Yusuf Ali):** This is the true account: There is no god except Allah; and Allah-He is indeed the Exalted in Power, the Wise.
 
 [Open on Quran.com](https://quran.com/3/62)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if We had willed, We could have elevated him thereby, but he adhered [instead] to the earth and followed his own desire. So his example is like that of the dog: if you chase him, he pants, or if you leave him, he [still] pants. That is the example of the people who denied Our signs. So relate the stories that perhaps they will give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم چاہتے تو ان آیتوں سے اس (کے درجے) کو بلند کر دیتے مگر وہ تو پستی کی طرف مائل ہوگیا اور اپنی خواہش کے پیچھے چل پڑا۔ تو اس کی مثال کتے کی سی ہوگئی کہ اگر سختی کرو تو زبان نکالے رہے اور یونہی چھوڑ دو تو بھی زبان نکالے رہے۔ یہی مثال ان لوگوں کی ہے جنہوں نے ہماری آیتوں کو جھٹلایا تو ان سے یہ قصہ بیان کردو۔ تاکہ وہ فکر کریں
+**English (Yusuf Ali):** If it had been Our will, We should have elevated him with Our signs; but he inclined to the earth, and followed his own vain desires. His similitude is that of a dog: if you attack him, he lolls out his tongue, or if you leave him alone, he (still) lolls out his tongue. That is the similitude of those who reject Our signs; So relate the story; perchance they may reflect.
 
 [Open on Quran.com](https://quran.com/7/176)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** We relate to you, [O Muḥammad], the best of stories in what We have revealed to you of this Qur’ān although you were, before it, among the unaware.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) ہم اس قرآن کے ذریعے سے جو ہم نے تمہاری طرف بھیجا ہے تمہیں ایک نہایت اچھا قصہ سناتے ہیں اور تم اس سے پہلے بےخبر تھے
+**English (Yusuf Ali):** We do relate unto thee the most beautiful of stories, in that We reveal to thee this (portion of the) Qur'an: before this, thou too was among those who knew it not.
 
 [Open on Quran.com](https://quran.com/12/3)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There was certainly in their stories a lesson for those of understanding. Never was it [i.e., the Qur’ān] a narration invented, but a confirmation of what was before it and a detailed explanation of all things and guidance and mercy for a people who believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کے قصے میں عقلمندوں کے لیے عبرت ہے۔ یہ (قرآن) ایسی بات نہیں ہے جو (اپنے دل سے) بنائی گئی ہو بلکہ جو (کتابیں) اس سے پہلے نازل ہوئی ہیں ان کی تصدیق (کرنے والا) ہے اور مومنوں کے لیے ہدایت اور رحمت ہے
+**English (Yusuf Ali):** There is, in their stories, instruction for men endued with understanding. It is not a tale invented, but a confirmation of what went before it,- a detailed exposition of all things, and a guide and a mercy to any such as believe.
 
 [Open on Quran.com](https://quran.com/12/111)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Moses] said, "That is what we were seeking." So they returned, following their footprints.
 
-**Urdu (Fatah Muhammad Jalandhari):** (موسیٰ نے) کہا یہی تو (وہ مقام) ہے جسے ہم تلاش کرتے تھے تو وہ اپنے پاؤں کے نشان دیکھتے دیکھتے لوٹ گئے
+**English (Yusuf Ali):** Moses said: "That was what we were seeking after:" So they went back on their footsteps, following (the path they had come).
 
 [Open on Quran.com](https://quran.com/18/64)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then one of the two women came to him walking with shyness. She said, "Indeed, my father invites you that he may reward you for having watered for us." So when he came to him and related to him the story, he said, "Fear not. You have escaped from the wrongdoing people."
 
-**Urdu (Fatah Muhammad Jalandhari):** (تھوڑی دیر کے بعد) ان میں سے ایک عورت جو شرماتی اور لجاتی چلی آتی تھی۔ موسٰی کے پاس آئی اور کہنے لگی کہ تم کو میرے والد بلاتے ہیں کہ تم نے جو ہمارے لئے پانی پلایا تھا اس کی تم کو اُجرت دیں۔ جب وہ اُن کے پاس آئے اور اُن سے اپنا ماجرا بیان کیا تو اُنہوں نے کہا کہ کچھ خوف نہ کرو۔ تم ظالم لوگوں سے بچ آئے ہو
+**English (Yusuf Ali):** Afterwards one of the (damsels) came (back) to him, walking bashfully. She said: "My father invites thee that he may reward thee for having watered (our flocks) for us." So when he came to him and narrated the story, he said: "Fear thou not: (well) hast thou escaped from unjust people."
 
 [Open on Quran.com](https://quran.com/28/25)
 

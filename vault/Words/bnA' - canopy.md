@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:22 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [He] who made for you the earth a bed [spread out] and the sky a ceiling and sent down from the sky, rain and brought forth thereby fruits as provision for you. So do not attribute to Allāh equals while you know [that there is nothing similar to Him].
 
-**Urdu (Fatah Muhammad Jalandhari):** جس نے تمھارے لیے زمین کو بچھونا اور آسمان کو چھت بنایا اور آسمان سے مینہ برسا کر تمہارے کھانے کے لیے انواع و اقسام کے میوے پیدا کئے۔ پس کسی کو خدا کا ہمسر نہ بناؤ۔ اور تم جانتے تو ہو
+**English (Yusuf Ali):** Who has made the earth your couch, and the heavens your canopy; and sent down rain from the heavens; and brought forth therewith Fruits for your sustenance; then set not up rivals unto Allah when ye know (the truth).
 
 [Open on Quran.com](https://quran.com/2/22)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [also] the devils [of jinn] - every builder and diver.
 
-**Urdu (Fatah Muhammad Jalandhari):** اَور دیووں کو بھی (ان کے زیرفرمان کیا) وہ سب عمارتیں بنانے والے اور غوطہ مارنے والے تھے
+**English (Yusuf Ali):** As also the evil ones, (including) every kind of builder and diver,-
 
 [Open on Quran.com](https://quran.com/38/37)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is Allāh who made for you the earth a place of settlement and the sky a structure [i.e., ceiling] and formed you and perfected your forms and provided you with good things. That is Allāh, your Lord; then blessed is Allāh, Lord of the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے زمین کو تمہارے لئے ٹھیرنے کی جگہ اور آسمان کو چھت بنایا اور تمہاری صورتیں بنائیں اور صورتیں بھی خوب بنائیں اور تمہیں پاکیزہ چیزیں کھانے کو دیں۔ یہی خدا تمہارا پروردگار ہے۔ پس خدائے پروردگار عالم بہت ہی بابرکت ہے
+**English (Yusuf Ali):** It is Allah Who has made for you the earth as a resting place, and the sky as a canopy, and has given you shape- and made your shapes beautiful,- and has provided for you Sustenance, of things pure and good;- such is Allah your Lord. So Glory to Allah, the Lord of the Worlds!
 
 [Open on Quran.com](https://quran.com/40/64)
 

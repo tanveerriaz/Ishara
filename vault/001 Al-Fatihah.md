@@ -14,24 +14,24 @@ The Opener · 7 ayahs
 
 ## Words in this surah (graph)
 
-- [[SrAT - path]] — `صِراط` · path
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[rHym - merciful]] — `رَحِيم` · merciful
 - [[allah - God]] — `الله` · God
+- [[rHmn - gracious]] — `رَحْمٰن` · gracious
+- [[SrAT - path]] — `صِراط` · path
+- [[rHym - merciful]] — `رَحِيم` · merciful
 - [[Hmd - all praise]] — `حَمْد` · all praise
 - [[hdY - guidance]] — `هَدَى` · guidance
+- [[EAlm - worlds]] — `عالَم` · worlds
 - [[AstEyn - seek help]] — `اسْتَعِينُ` · seek help
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
-- [[Asm - name]] — `اسْم` · name
-- [[>nEm - i bestowed]] — `أَنْعَمَ` · i bestowed
 - [[mstqym - straight]] — `مُسْتَقِيم` · straight
 - [[gyr - without]] — `غَيْر` · without
-- [[DAl - astray]] — `ضالّ` · astray
-- [[dyn - religion]] — `دِين` · religion
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[ywm - day]] — `يَوْم` · day
-- [[rb - lord]] — `رَبّ` · lord
+- [[Asm - name]] — `اسْم` · name
 - [[mAlk - master]] — `مالِك` · master
+- [[dyn - religion]] — `دِين` · religion
+- [[ywm - day]] — `يَوْم` · day
+- [[DAl - astray]] — `ضالّ` · astray
+- [[>nEm - i bestowed]] — `أَنْعَمَ` · i bestowed
+- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 

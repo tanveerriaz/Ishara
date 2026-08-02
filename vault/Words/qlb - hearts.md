@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:7 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh has set a seal upon their hearts and upon their hearing, and over their vision is a veil. And for them is a great punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے ان کے دلوں اور کانوں پر مہر لگا رکھی ہے اور ان کی آنکھوں پر پردہ (پڑا ہوا) ہے اور ان کے لیے بڑا عذاب (تیار) ہے
+**English (Yusuf Ali):** Allah hath set a seal on their hearts and on their hearing, and on their eyes is a veil; great is the penalty they (incur).
 
 [Open on Quran.com](https://quran.com/2/7)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In their hearts is disease, so Allāh has increased their disease; and for them is a painful punishment because they [habitually] used to lie.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کے دلوں میں (کفر کا) مرض تھا۔ خدا نے ان کا مرض اور زیادہ کر دیا اور ان کے جھوٹ بولنے کے سبب ان کو دکھ دینے والا عذاب ہوگا
+**English (Yusuf Ali):** In their hearts is a disease; and Allah has increased their disease: And grievous is the penalty they (incur), because they are false (to themselves).
 
 [Open on Quran.com](https://quran.com/2/10)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then your hearts became hardened after that, being like stones or even harder. For indeed, there are stones from which rivers burst forth, and there are some of them that split open and water comes out, and there are some of them that fall down for fear of Allāh. And Allāh is not unaware of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اس کے بعد تمہارے دل سخت ہو گئے۔ گویا وہ پتھر ہیں یا ان سے بھی زیادہ سخت۔ اور پتھر تو بعضے ایسے ہوتے ہیں کہ ان میں سے چشمے پھوٹ نکلتے ہیں، اور بعضے ایسے ہوتے ہیں کہ پھٹ جاتے ہیں،اور ان میں سے پانی نکلنے لگتا ہے، اور بعضے ایسے ہوتے ہیں کہ خدا کے خوف سے گر پڑتے ہیں، اور خدا تمہارے عملوں سے بے خبر نہیں
+**English (Yusuf Ali):** Thenceforth were your hearts hardened: They became like a rock and even worse in hardness. For among rocks there are some from which rivers gush forth; others there are which when split asunder send forth water; and others which sink for fear of Allah. And Allah is not unmindful of what ye do.
 
 [Open on Quran.com](https://quran.com/2/74)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they said, "Our hearts are wrapped." But, [in fact], Allāh has cursed them for their disbelief, so little is it that they believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں، ہمارے دل پردے میں ہیں۔ (نہیں) بلکہ الله نے ان کے کفر کے سبب ان پر لعنت کر رکھی ہے۔ پس یہ تھوڑے ہی پر ایمان لاتے ہیں
+**English (Yusuf Ali):** They say, "Our hearts are the wrappings (which preserve Allah's Word: we need no more)." Nay, Allah's curse is on them for their blasphemy: Little is it they believe.
 
 [Open on Quran.com](https://quran.com/2/88)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when We took your covenant and raised over you the mount, [saying], "Take what We have given you with determination and listen." They said [instead], "We hear and disobey." And their hearts absorbed [the worship of] the calf because of their disbelief. Say, "How wretched is that which your faith enjoins upon you, if you should be believers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے تم (لوگوں) سے عہد واثق لیا اور کوہ طور کو تم پر اٹھا کھڑا کیا (اور حکم دیا کہ) جو (کتاب) ہم نے تم کو دی ہے، اس کو زور سے پکڑو اور جو تمہیں حکم ہوتا ہے (اس کو) سنو تو وہ (جو تمہارے بڑے تھے) کہنے لگے کہ ہم نے سن تو لیا لیکن مانتے نہیں۔ اور ان کے کفر کے سبب بچھڑا (گویا) ان کے دلوں میں رچ گیا تھا۔ (اے پیغمبر ان سے) کہہ دو کہ اگر تم مومن ہو تو تمہارا ایمان تم کو بری بات بتاتا ہے
+**English (Yusuf Ali):** And remember We took your covenant and We raised above you (the towering height) of Mount (Sinai): (Saying): "Hold firmly to what We have given you, and hearken (to the Law)": They said:" We hear, and we disobey:" And they had to drink into their hearts (of the taint) of the calf because of their Faithlessness. Say: "Vile indeed are the behests of your Faith if ye have any faith!"
 
 [Open on Quran.com](https://quran.com/2/93)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Whoever is an enemy to Gabriel - it is [none but] he who has brought it [i.e., the Qur’ān] down upon your heart, [O Muḥammad], by permission of Allāh, confirming that which was before it and as guidance and good tidings for the believers."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ جو شخص جبرئیل کا دشمن ہو (اس کو غصے میں مر جانا چاہیئے) اس نے تو (یہ کتاب) خدا کے حکم سے تمہارے دل پر نازل کی ہے جو پہلی کتابوں کی تصدیق کرتی ہے، اور ایمان والوں کے لیے ہدایت اور بشارت ہے
+**English (Yusuf Ali):** Say: Whoever is an enemy to Gabriel-for he brings down the (revelation) to thy heart by Allah's will, a confirmation of what went before, and guidance and glad tidings for those who believe,-
 
 [Open on Quran.com](https://quran.com/2/97)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who do not know say, "Why does Allāh not speak to us or there come to us a sign?" Thus spoke those before them like their words. Their hearts resemble each other. We have shown clearly the signs to a people who are certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ (کچھ) نہیں جانتے (یعنی مشرک) وہ کہتے ہیں کہ خدا ہم سے کلام کیوں نہیں کرتا۔ یا ہمارے پاس کوئی نشانی کیوں نہیں آتی۔ اسی طرح جو لوگ ان سے پہلے تھے، وہ بھی انہی کی سی باتیں کیا کرتے تھے۔ ان لوگوں کے دل آپس میں ملتے جلتے ہیں۔ جو لوگ صاحبِ یقین ہیں، ان کے (سمجھانے کے) لیے نشانیاں بیان کردی ہیں
+**English (Yusuf Ali):** Say those without knowledge: "Why speaketh not Allah unto us? or why cometh not unto us a Sign?" So said the people before them words of similar import. Their hearts are alike. We have indeed made clear the Signs unto any people who hold firmly to Faith (in their hearts).
 
 [Open on Quran.com](https://quran.com/2/118)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And of the people is he whose speech pleases you in worldly life, and he calls Allāh to witness as to what is in his heart, yet he is the fiercest of opponents.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کوئی شخص تو ایسا ہے جس کی گفتگو دنیا کی زندگی میں تم کو دلکش معلوم ہوتی ہے اور وہ اپنی مانی الضمیر پر خدا کو گواہ بناتا ہے حالانکہ وہ سخت جھگڑالو ہے
+**English (Yusuf Ali):** There is the type of man whose speech about this world's life May dazzle thee, and he calls Allah to witness about what is in his heart; yet is he the most contentious of enemies.
 
 [Open on Quran.com](https://quran.com/2/204)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh does not impose blame upon you for what is unintentional in your oaths, but He imposes blame upon you for what your hearts have earned. And Allāh is Forgiving and Forbearing.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری لغو قسموں پر تم سے مواخذہ نہ کرے گا۔ لیکن جو قسمیں تم قصد دلی سے کھاؤ گے ان پر مواخذہ کرے گا۔ اور خدا بخشنے والا بردبار ہے
+**English (Yusuf Ali):** Allah will not call you to account for thoughtlessness in your oaths, but for the intention in your hearts; and He is Oft-forgiving, Most Forbearing.
 
 [Open on Quran.com](https://quran.com/2/225)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when Abraham said, "My Lord, show me how You give life to the dead." [Allāh] said, "Have you not believed?" He said, "Yes, but [I ask] only that my heart may be satisfied." [Allāh] said, "Take four birds and commit them to yourself. Then [after slaughtering them] put on each hill a portion of them; then call them - they will come [flying] to you in haste. And know that Allāh is Exalted in Might and Wise."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے (خدا سے) کہا کہ اے پروردگار مجھے دکھا کہ تو مردوں کو کیونکر زندہ کرے گا۔ خدا نے فرمایا کیا تم نے (اس بات کو) باور نہیں کیا۔ انہوں نے کہا کیوں نہیں۔ لیکن (میں دیکھنا) اس لئے (چاہتا ہوں) کہ میرا دل اطمینان کامل حاصل کرلے۔ خدا نے فرمایا کہ چار جانور پکڑوا کر اپنے پاس منگا لو (اور ٹکڑے ٹکڑے کرادو) پھر ان کا ایک ٹکڑا ہر ایک پہاڑ پر رکھوا دو پھر ان کو بلاؤ تو وہ تمہارے پاس دوڑتے چلے آئیں گے۔ اور جان رکھو کہ خدا غالب اور صاحب حکمت ہے۔
+**English (Yusuf Ali):** When Abraham said: "Show me, Lord, how You will raise the dead, " He replied: "Have you no faith?" He said "Yes, but just to reassure my heart." Allah said, "Take four birds, draw them to you, and cut their bodies to pieces. Scatter them over the mountain-tops, then call them back. They will come swiftly to you. Know that Allah is Mighty, Wise."
 
 [Open on Quran.com](https://quran.com/2/260)
 

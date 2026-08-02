@@ -42,7 +42,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:58 · [[002 Al-Baqarah]]
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when We said, "Enter this city [i.e., Jerusalem] and eat from it wherever you will in [ease and] abundance, and enter the gate bowing humbly and say, 'Relieve us of our burdens [i.e., sins].' We will [then] forgive your sins for you, and We will increase the doers of good [in goodness and reward]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے (ان سے) کہا کہ اس گاؤں میں داخل ہو جاؤ اور اس میں جہاں سے چاہو، خوب کھاؤ (پیو) اور (دیکھنا) دروازے میں داخل ہونا تو سجدہ کرنا اور حطة کہنا، ہم تمہارے گناہ معاف کر دیں گے اور نیکی کرنے والوں کو اور زیادہ دیں گے
+**English (Yusuf Ali):** And remember We said: "Enter this town, and eat of the plenty therein as ye wish; but enter the gate with humility, in posture and in words, and We shall forgive you your faults and increase (the portion of) those who do good."
 
 [Open on Quran.com](https://quran.com/2/58)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Yes, [on the contrary], whoever submits his face [i.e., self] in Islām to Allāh while being a doer of good will have his reward with his Lord. And no fear will there be concerning them, nor will they grieve.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں جو شخص خدا کے آگے گردن جھکا دے، (یعنی ایمان لے آئے) اور وہ نیکو کار بھی ہو تو اس کا صلہ اس کے پروردگار کے پاس ہے اور ایسے لوگوں کو (قیامت کے دن) نہ کسی طرح کا خوف ہوگا اور نہ وہ غمناک ہوں گے
+**English (Yusuf Ali):** Nay,-whoever submits His whole self to Allah and is a doer of good,- He will get his reward with his Lord; on such shall be no fear, nor shall they grieve.
 
 [Open on Quran.com](https://quran.com/2/112)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And spend in the way of Allāh and do not throw [yourselves] with your [own] hands into destruction [by refraining]. And do good; indeed, Allāh loves the doers of good.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا کی راہ میں (مال) خرچ کرو اور اپنے آپ کو ہلاکت میں نہ ڈالو اور نیکی کرو بےشک خدا نیکی کرنے والوں کو دوست رکھتا ہے
+**English (Yusuf Ali):** And spend of your substance in the cause of Allah, and make not your own hands contribute to (your) destruction; but do good; for Allah loveth those who do good.
 
 [Open on Quran.com](https://quran.com/2/195)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There is no blame upon you if you divorce women you have not touched nor specified for them an obligation. But give them [a gift of] compensation - the wealthy according to his capability and the poor according to his capability - a provision according to what is acceptable, a duty upon the doers of good.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے یا ان کا مہر مقرر کرنے سے پہلے طلاق دے دو تو تم پر کچھ گناہ نہیں۔ ہاں ان کو دستور کے مطابق کچھ خرچ ضرور دو (یعنی) مقدور والا اپنے مقدور کے مطابق دے اور تنگدست اپنی حیثیت کے مطابق۔ نیک لوگوں پر یہ ایک طرح کا حق ہے
+**English (Yusuf Ali):** There is no blame on you if ye divorce women before consummation or the fixation of their dower; but bestow on them (A suitable gift), the wealthy according to his means, and the poor according to his means;- A gift of a reasonable amount is due from those who wish to do the right thing.
 
 [Open on Quran.com](https://quran.com/2/236)
 
@@ -120,7 +120,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who spend [in the cause of Allāh] during ease and hardship and who restrain anger and who pardon the people - and Allāh loves the doers of good;
 
-**Urdu (Fatah Muhammad Jalandhari):** جو آسودگی اور تنگی میں (اپنا مال خدا کی راہ میں) خرچ کرتےہیں اور غصے کو روکتے اور لوگوں کے قصور معاف کرتے ہیں اور خدا نیکو کاروں کو دوست رکھتا ہے
+**English (Yusuf Ali):** Those who spend (freely), whether in prosperity, or in adversity; who restrain anger, and pardon (all) men;- for Allah loves those who do good;-
 
 [Open on Quran.com](https://quran.com/3/134)
 
@@ -136,7 +136,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So Allāh gave them the reward of this world and the good reward of the Hereafter. And Allāh loves the doers of good.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو خدا نے ان کو دنیا میں بھی بدلہ دیا اور آخرت میں بھی بہت اچھا بدلہ (دے گا) اور خدا نیکو کاروں کو دوست رکھتا ہے
+**English (Yusuf Ali):** And Allah gave them a reward in this world, and the excellent reward of the Hereafter. For Allah Loveth those who do good.
 
 [Open on Quran.com](https://quran.com/3/148)
 
@@ -152,7 +152,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And who is better in religion than one who submits himself to Allāh while being a doer of good and follows the religion of Abraham, inclining toward truth? And Allāh took Abraham as an intimate friend.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس شخص سے کس کا دین اچھا ہوسکتا ہے جس نے حکم خدا کو قبول کیا اور وہ نیکوکار بھی ہے۔ اور ابراہیم کے دین کا پیرو ہے جو یکسوں (مسلمان ) تھے اور خدا نے ابراہیم کو اپنا دوست بنایا تھا
+**English (Yusuf Ali):** Who can be better in religion than one who submits his whole self to Allah, does good, and follows the way of Abraham the true in Faith? For Allah did take Abraham for a friend.
 
 [Open on Quran.com](https://quran.com/4/125)
 
@@ -168,7 +168,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So for their breaking of the covenant We cursed them and made their hearts hardened. They distort words from their [proper] places [i.e., usages] and have forgotten a portion of that of which they were reminded. And you will still observe deceit among them, except a few of them. But pardon them and overlook [their misdeeds]. Indeed, Allāh loves the doers of good.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں کے عہد توڑ دینے کے سبب ہم نے ان پر لعنت کی اور ان کے دلوں کو سخت کر دیا یہ لوگ کلمات (کتاب) کو اپنے مقامات سے بدل دیتے ہیں اور جن باتوں کی ان کو نصیحت کی گئی تھی ان کا بھی ایک حصہ فراموش کر بیٹھے اور تھوڑے آدمیوں کے سوا ہمیشہ تم ان کی (ایک نہ ایک) خیانت کی خبر پاتے رہتے ہو تو ان کی خطائیں معاف کردو اور (ان سے) درگزر کرو کہ خدا احسان کرنے والوں کو دوست رکھتا ہے
+**English (Yusuf Ali):** But because of their breach of their covenant, We cursed them, and made their hearts grow hard; they change the words from their (right) places and forget a good part of the message that was sent them, nor wilt thou cease to find them- barring a few - ever bent on (new) deceits: but forgive them, and overlook (their misdeeds): for Allah loveth those who are kind.
 
 [Open on Quran.com](https://quran.com/5/13)
 
@@ -184,7 +184,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So Allāh rewarded them for what they said with gardens [in Paradise] beneath which rivers flow, wherein they abide eternally. And that is the reward of doers of good.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو خدا نے ان کو اس کہنے کے عوض (بہشت کے) باغ عطا فرمائے جن کے نیچے نہریں بہہ رہی ہیں وہ ہمیشہ ان میں رہیں گے اور نیکو کاروں کا یہی صلہ ہے
+**English (Yusuf Ali):** And for this their prayer hath Allah rewarded them with gardens, with rivers flowing underneath,- their eternal home. Such is the recompense of those who do good.
 
 [Open on Quran.com](https://quran.com/5/85)
 
@@ -200,7 +200,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There is not upon those who believe and do righteousness [any] blame concerning what they have eaten [in the past] if they [now] fear Allāh and believe and do righteous deeds, and then fear Allāh and believe, and then fear Allāh and do good; and Allāh loves the doers of good.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور نیک کام کرتے رہے ان پر ان چیزوں کا کچھ گناہ نہیں جو وہ کھا چکے جب کہ انہوں نے پرہیز کیا اور ایمان لائے اور نیک کام کیے پھر پرہیز کیا اور ایمان لائے پھر پرہیز کیا اور نیکو کاری کی اور خدا نیکو کاروں کو دوست رکھتا ہے
+**English (Yusuf Ali):** On those who believe and do deeds of righteousness there is no blame for what they ate (in the past), when they guard themselves from evil, and believe, and do deeds of righteousness,- (or) again, guard themselves from evil and believe,- (or) again, guard themselves from evil and do good. For Allah loveth those who do good.
 
 [Open on Quran.com](https://quran.com/5/93)
 

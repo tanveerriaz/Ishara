@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 16:90 · [[016 An-Nahl]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh orders justice and good conduct and giving [help] to relatives and forbids immorality and bad conduct and oppression. He admonishes you that perhaps you will be reminded.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا تم کو انصاف اور احسان کرنے اور رشتہ داروں کو (خرچ سے مدد) دینے کا حکم دیتا ہے۔ اور بےحیائی اور نامعقول کاموں سے اور سرکشی سے منع کرتا ہے (اور) تمہیں نصیحت کرتا ہے تاکہ تم یاد رکھو
+**English (Yusuf Ali):** Allah commands justice, the doing of good, and liberality to kith and kin, and He forbids all shameful deeds, and injustice and rebellion: He instructs you, that ye may receive admonition.
 
 [Open on Quran.com](https://quran.com/16/90)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We made them leaders guiding by Our command. And We inspired to them the doing of good deeds, establishment of prayer, and giving of zakāh; and they were worshippers of Us.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کو پیشوا بنایا کہ ہمارے حکم سے ہدایت کرتے تھے اور ان کو نیک کام کرنے اور نماز پڑھنے اور زکوٰة دینے کا حکم بھیجا۔ اور وہ ہماری عبادت کیا کرتے تھے
+**English (Yusuf Ali):** And We made them leaders, guiding (men) by Our Command, and We sent them inspiration to do good deeds, to establish regular prayers, and to practise regular charity; and they constantly served Us (and Us only).
 
 [Open on Quran.com](https://quran.com/21/73)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Are] men whom neither commerce nor sale distracts from the remembrance of Allāh and performance of prayer and giving of zakāh. They fear a Day in which the hearts and eyes will [fearfully] turn about -
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی ایسے) لوگ جن کو خدا کے ذکر اور نماز پڑھنے اور زکوٰة دینے سے نہ سوداگری غافل کرتی ہے نہ خرید وفروخت۔ وہ اس دن سے جب دل (خوف اور گھبراہٹ کے سبب) الٹ جائیں گے اور آنکھیں (اوپر کو چڑھ جائیں گی) ڈرتے ہیں
+**English (Yusuf Ali):** By men whom neither traffic nor merchandise can divert from the Remembrance of Allah, nor from regular Prayer, nor from the practice of regular Charity: Their (only) fear is for the Day when hearts and eyes will be transformed (in a world wholly new),-
 
 [Open on Quran.com](https://quran.com/24/37)
 

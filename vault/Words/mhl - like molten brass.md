@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 18:29 · [[018 Al-Kahf]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And say, "The truth is from your Lord, so whoever wills - let him believe; and whoever wills - let him disbelieve." Indeed, We have prepared for the wrongdoers a fire whose walls will surround them. And if they call for relief, they will be relieved with water like murky oil, which scalds [their] faces. Wretched is the drink, and evil is the resting place.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہہ دو کہ (لوگو) یہ قرآن تمہارے پروردگار کی طرف سے برحق ہے تو جو چاہے ایمان لائے اور جو چاہے کافر رہے۔ ہم نے ظالموں کے لئے دوزخ کی آگ تیار کر رکھی ہے جس کی قناتیں ان کو گھیر رہی ہوں گی۔ اور اگر فریاد کریں گے تو ایسے کھولتے ہوئے پانی سے ان کی دادرسی کی جائے گی (جو) پگھلے ہوئے تانبے کی طرح (گرم ہوگا اور جو) مونہوں کو بھون ڈالے گا (ان کے پینے کا) پانی بھی برا اور آرام گاہ بھی بری
+**English (Yusuf Ali):** Say, "The truth is from your Lord": Let him who will believe, and let him who will, reject (it): for the wrong-doers We have prepared a Fire whose (smoke and flames), like the walls and roof of a tent, will hem them in: if they implore relief they will be granted water like melted brass, that will scald their faces, how dreadful the drink! How uncomfortable a couch to recline on!
 
 [Open on Quran.com](https://quran.com/18/29)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Like murky oil, it boils within bellies
 
-**Urdu (Fatah Muhammad Jalandhari):** جیسے پگھلا ہوا تانبا۔ پیٹوں میں (اس طرح) کھولے گا
+**English (Yusuf Ali):** Like molten brass; it will boil in their insides.
 
 [Open on Quran.com](https://quran.com/44/45)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** On the Day the sky will be like murky oil,
 
-**Urdu (Fatah Muhammad Jalandhari):** جس دن آسمان ایسا ہو جائے گا جیسے پگھلا ہوا تانبا
+**English (Yusuf Ali):** The Day that the sky will be like molten brass,
 
 [Open on Quran.com](https://quran.com/70/8)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And leave Me with [the matter of] the deniers, those of ease [in life], and allow them respite a little.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مجھے ان جھٹلانے والوں سے جو دولتمند ہیں سمجھ لینے دو اور ان کو تھوڑی سی مہلت دے دو
+**English (Yusuf Ali):** And leave Me (alone to deal with) those in possession of the good things of life, who (yet) deny the Truth; and bear with them for a little while.
 
 [Open on Quran.com](https://quran.com/73/11)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So allow time for the disbelievers. Leave them awhile.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو تم کافروں کو مہلت دو بس چند روز ہی مہلت دو
+**English (Yusuf Ali):** Therefore grant a delay to the Unbelievers: Give respite to them gently (for awhile).
 
 [Open on Quran.com](https://quran.com/86/17)
 

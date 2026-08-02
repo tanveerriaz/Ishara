@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 18:43 · [[018 Al-Kahf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there was for him no company to aid him other than Allāh, nor could he defend himself.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اس وقت) خدا کے سوا کوئی جماعت اس کی مددگار نہ ہوئی اور نہ وہ بدلہ لے سکا
+**English (Yusuf Ali):** Nor had he numbers to help him against Allah, nor was he able to deliver himself.
 
 [Open on Quran.com](https://quran.com/18/43)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We caused the earth to swallow him and his home. And there was for him no company to aid him other than Allāh, nor was he of those who [could] defend themselves.
 
-**Urdu (Fatah Muhammad Jalandhari):** پس ہم نے قارون کو اور اس کے گھر کو زمین میں دھنسا دیا تو خدا کے سوا کوئی جماعت اس کی مددگار نہ ہوسکی۔ اور نہ وہ بدلہ لے سکا
+**English (Yusuf Ali):** Then We caused the earth to swallow up him and his house; and he had not (the least little) party to help him against Allah, nor could he defend himself.
 
 [Open on Quran.com](https://quran.com/28/81)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they were unable to arise, nor could they defend themselves.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر وہ نہ تو اُٹھنے کی طاقت رکھتے تھے اور نہ مقابلہ ہی کرسکتے تھے
+**English (Yusuf Ali):** Then they could not even stand (on their feet), nor could they help themselves.
 
 [Open on Quran.com](https://quran.com/51/45)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do they say, "We are an assembly supporting [each other]"?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ کہتے ہیں کہ ہماری جماعت بڑی مضبوط ہے
+**English (Yusuf Ali):** Or do they say: "We acting together can defend ourselves"?
 
 [Open on Quran.com](https://quran.com/54/44)
 

@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:276 · [[002 Al-Baqarah]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh destroys interest and gives increase for charities. And Allāh does not like every sinning disbeliever.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا سود کو نابود (یعنی بےبرکت) کرتا اور خیرات (کی برکت) کو بڑھاتا ہے اور خدا کسی ناشکرے گنہگار کو دوست نہیں رکھتا
+**English (Yusuf Ali):** Allah will deprive usury of all blessing, but will give increase for deeds of charity: For He loveth not creatures ungrateful and wicked.
 
 [Open on Quran.com](https://quran.com/2/276)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not argue on behalf of those who deceive themselves. Indeed, Allāh loves not one who is a habitually sinful deceiver.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور لوگ اپنے ہم جنسوں کی خیانت کرتے ہیں ان کی طرف سے بحث نہ کرنا کیونکہ خدا خائن اور مرتکب جرائم کو دوست نہیں رکھتا
+**English (Yusuf Ali):** Contend not on behalf of such as betray their own souls; for Allah loveth not one given to perfidy and crime:
 
 [Open on Quran.com](https://quran.com/4/107)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They descend upon every sinful liar.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہر جھوٹے گنہگار پر اُترتے ہیں
+**English (Yusuf Ali):** They descend on every lying, wicked person,
 
 [Open on Quran.com](https://quran.com/26/222)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Is food for the sinful.
 
-**Urdu (Fatah Muhammad Jalandhari):** گنہگار کا کھانا ہے
+**English (Yusuf Ali):** Will be the food of the Sinful,-
 
 [Open on Quran.com](https://quran.com/44/44)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Woe to every sinful liar
 
-**Urdu (Fatah Muhammad Jalandhari):** ہر جھوٹے گنہگار پر افسوس ہے
+**English (Yusuf Ali):** Woe to each sinful dealer in Falsehoods:
 
 [Open on Quran.com](https://quran.com/45/7)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** A preventer of good, transgressing and sinful,
 
-**Urdu (Fatah Muhammad Jalandhari):** مال میں بخل کرنے والا حد سے بڑھا ہوا بدکار
+**English (Yusuf Ali):** (Habitually) hindering (all) good, transgressing beyond bounds, deep in sin,
 
 [Open on Quran.com](https://quran.com/68/12)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And none deny it except every sinful transgressor.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس کو جھٹلاتا وہی ہے جو حد سے نکل جانے والا گنہگار ہے
+**English (Yusuf Ali):** And none can deny it but the Transgressor beyond bounds the Sinner!
 
 [Open on Quran.com](https://quran.com/83/12)
 

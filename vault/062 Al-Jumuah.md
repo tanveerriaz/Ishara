@@ -15,30 +15,30 @@ The Congregation, Friday · 11 ayahs
 ## Words in this surah (graph)
 
 - [[ytmn - then wish]] — `يَتَمَنَّ` · then wish
-- [[xyr - better]] — `خَيْر` · better
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[qbl - before]] — `قَبْل` · before
+- [[hAd - jews]] — `هادُ` · jews
+- [[zkY - purify them]] — `زَكَّى` · purify them
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[yd - hands]] — `يَد` · hands
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[nAdY - he called]] — `نادَى` · he called
+- [[Eml - do]] — `عَمِلَ` · do
+- [[tnt$r - then disperse]] — `تَنتَشِرُ` · then disperse
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[AnfD - they rushed]] — `انفَضُّ` · they rushed
+- [[wly - protector]] — `وَلِيّ` · protector
+- [[bEv - we sent]] — `بَعَثَ` · we sent
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
 - [[EZym - great]] — `عَظِيم` · great
 - [[tlY - recited]] — `تَلَى` · recited
-- [[gyb - unseen]] — `غَيْب` · unseen
-- [[zEm - claim]] — `زَعَمَ` · claim
-- [[yd - hands]] — `يَد` · hands
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[rAzq - providers]] — `رازِق` · providers
+- [[>y - o you]] — `أَيّ` · o you
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[mbyn - clear]] — `مُبِين` · clear
 - [[$hAdp - witnessed]] — `شَهادَة` · witnessed
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[trk - we left]] — `تَرَكَ` · we left
-- [[mlk - angels]] — `مَلَك` · angels
-- [[Elm - know]] — `عَلِمَ` · know
-- [[frt - you flee]] — `فَرَّتْ` · you flee
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[>flH - successful]] — `أَفْلَحَ` · successful
-- [[allah - God]] — `الله` · God
-- [[AtY - give]] — `آتَى` · give
-- [[byE - trade]] — `بَيْع` · trade
-- [[Hkmp - wisdom]] — `حِكْمَة` · wisdom
-- [[zkY - purify them]] — `زَكَّى` · purify them
+- [[kvyr - many]] — `كَثِير` · many
+- [[SlAp - prayer]] — `صَلاة` · prayer
 
 ## Roots
 

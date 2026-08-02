@@ -16,29 +16,29 @@ The Winnowing Winds · 60 ayahs
 
 - [[Eqym - barren]] — `عَقِيم` · barren
 - [[mjnwn - madman]] — `مَجْنُون` · madman
-- [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[bnY - children]] — `بُنَىّ` · children
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[TAgy - transgressing]] — `طاغي` · transgressing
-- [[qAl - say]] — `قالَ` · say
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[mwqn - certain]] — `مُوقِن` · certain
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[mxtlf - various]] — `مُخْتَلِف` · various
-- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
-- [[nZr - see]] — `نَظَرَ` · see
-- [[ftnp - trial]] — `فِتْنَة` · trial
-- [[qwl - speech]] — `قَوْل` · speech
-- [[qrb - both offered]] — `قَرَّبَ` · both offered
-- [[mHrwm - deprived]] — `مَحْرُوم` · deprived
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[s>l - ask]] — `سَأَلَ` · ask
-- [[gyr - without]] — `غَيْر` · without
-- [[byt - houses]] — `بَيْت` · houses
-- [[Ejwz - old woman]] — `عَجُوز` · old woman
+- [[n*yr - warner]] — `نَذِير` · warner
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
 - [[xTb - was affair]] — `خَطْب` · was affair
-- [[jEl - we made]] — `جَعَلَ` · we made
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[lyl - night]] — `لَيْل` · night
+- [[wjh - faces]] — `وَجْه` · faces
+- [[qwp - strength]] — `قُوَّة` · strength
+- [[Hyn - time]] — `حِين` · time
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[>wjs - felt apprehension]] — `أَوْجَسَ` · felt apprehension
+- [[jnd - hosts]] — `جُند` · hosts
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[>mr - command]] — `أَمَرَ` · command
+- [[mHrwm - deprived]] — `مَحْرُوم` · deprived
+- [[glAm - boy]] — `غُلام` · boy
+- [[HjArp - stones]] — `حِجارَة` · stones
+- [[byt - houses]] — `بَيْت` · houses
+- [[Ejl - calf]] — `عِجْل` · calf
+- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[mswmp - marked]] — `مُسَوَّمَة` · marked
 
 ## Roots
 

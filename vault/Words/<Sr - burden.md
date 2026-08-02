@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:286 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people."
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتا۔ اچھے کام کرے گا تو اس کو ان کا فائدہ ملے گا برے کرے گا تو اسے ان کا نقصان پہنچے گا۔ اے پروردگار اگر ہم سے بھول یا چوک ہوگئی ہو تو ہم سے مؤاخذہ نہ کیجیو۔ اے پروردگار ہم پر ایسا بوجھ نہ ڈالیو جیسا تو نے ہم سے پہلے لوگوں پر ڈالا تھا۔ اے پروردگار جتنا بوجھ اٹھانے کی ہم میں طاقت نہیں اتنا ہمارے سر پر نہ رکھیو۔ اور (اے پروردگار) ہمارے گناہوں سے درگزر کر اور ہمیں بخش دے۔ اور ہم پر رحم فرما۔ تو ہی ہمارا مالک ہے اور ہم کو کافروں پر غالب فرما
+**English (Yusuf Ali):** On no soul doth Allah Place a burden greater than it can bear. It gets every good that it earns, and it suffers every ill that it earns. (Pray:) "Our Lord! Condemn us not if we forget or fall into error; our Lord! Lay not on us a burden Like that which Thou didst lay on those before us; Our Lord! Lay not on us a burden greater than we have strength to bear. Blot out our sins, and grant us forgiveness. Have mercy on us. Thou art our Protector; Help us against those who stand against faith."
 
 [Open on Quran.com](https://quran.com/2/286)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall, O People of the Scripture], when Allāh took the covenant of the prophets, [saying], "Whatever I give you of the Scripture and wisdom and then there comes to you a messenger confirming what is with you, you [must] believe in him and support him." [Allāh] said, "Have you acknowledged and taken upon that My commitment?" They said, "We have acknowledged it." He said, "Then bear witness, and I am with you among the witnesses."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب خدا نے پیغمبروں سے عہد لیا کہ جب میں تم کو کتاب اور دانائی عطا کروں پھر تمہارے پاس کوئی پیغمبر آئے جو تمہاری کتاب کی تصدیق کرے تو تمھیں ضرور اس پر ایمان لانا ہوگا اور ضرور اس کی مدد کرنی ہوگی اور (عہد لینے کے بعد) پوچھا کہ بھلا تم نے اقرار کیا اور اس اقرار پر میرا ذمہ لیا (یعنی مجھے ضامن ٹہرایا) انہوں نے کہا (ہاں) ہم نے اقرار کیا (خدا نے) فرمایا کہ تم (اس عہد وپیمان کے) گواہ رہو اور میں بھی تمہارے ساتھ گواہ ہوں
+**English (Yusuf Ali):** Behold! Allah took the covenant of the prophets, saying: "I give you a Book and Wisdom; then comes to you a messenger, confirming what is with you; do ye believe in him and render him help." Allah said: "Do ye agree, and take this my Covenant as binding on you?" They said: "We agree." He said: "Then bear witness, and I am with you among the witnesses."
 
 [Open on Quran.com](https://quran.com/3/81)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who follow the Messenger, the unlettered prophet, whom they find written [i.e., described] in what they have of the Torah and the Gospel, who enjoins upon them what is right and prohibits them from what is wrong and makes lawful for them what is good and forbids them from what is evil and relieves them of their burden and the shackles which were upon them. So they who have believed in him, honored him, supported him and followed the light which was sent down with him - it is those who will be the successful.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ جو (محمدﷺ) رسول (الله) کی جو نبی اُمی ہیں پیروی کرتے ہیں جن (کے اوصاف) کو وہ اپنے ہاں تورات اور انجیل میں لکھا ہوا پاتے ہیں۔ وہ انہیں نیک کام کا حکم دیتے ہیں اور برے کام سے روکتے ہیں۔ اور پاک چیزوں کو ان کے لیے حلال کرتے ہیں اور ناپاک چیزوں کو ان پر حرام ٹہراتے ہیں اور ان پر سے بوجھ اور طوق جو ان (کے سر) پر (اور گلے میں) تھے اتارتے ہیں۔ تو جو لوگ ان پر ایمان لائے اور ان کی رفاقت کی اور انہیں مدد دی۔ اور جو نور ان کے ساتھ نازل ہوا ہے اس کی پیروی کی۔ وہی مراد پانے والے ہیں
+**English (Yusuf Ali):** "Those who follow the messenger, the unlettered Prophet, whom they find mentioned in their own (scriptures),- in the law and the Gospel;- for he commands them what is just and forbids them what is evil; he allows them as lawful what is good (and pure) and prohibits them from what is bad (and impure); He releases them from their heavy burdens and from the yokes that are upon them. So it is those who believe in him, honour him, help him, and follow the light which is sent down with him,- it is they who will prosper."
 
 [Open on Quran.com](https://quran.com/7/157)
 

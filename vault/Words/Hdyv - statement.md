@@ -45,7 +45,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:42 · [[004 An-Nisa]]
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That Day, those who disbelieved and disobeyed the Messenger will wish they could be covered by the earth. And they will not conceal from Allāh a [single] statement.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس روز کافر اور پیغمبر کے نافرمان آرزو کریں گے کہ کاش ان کو زمین میں مدفون کرکے مٹی برابر کردی جاتی اور خدا سے کوئی بات چھپا نہیں سکیں گے
+**English (Yusuf Ali):** On that day those who reject Faith and disobey the messenger will wish that the earth Were made one with them: But never will they hide a single fact from Allah!
 
 [Open on Quran.com](https://quran.com/4/42)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Wherever you may be, death will overtake you, even if you should be within towers of lofty construction. But if good comes to them, they say, "This is from Allāh"; and if evil befalls them, they say, "This is from you." Say, "All [things] are from Allāh." So what is [the matter] with those people that they can hardly understand any statement?
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے جہاد سے ڈرنے والو) تم کہیں رہو موت تو تمہیں آ کر رہے گی خواہ بڑے بڑے محلوں میں رہو اور ان لوگوں کو اگر کوئی فائدہ پہنچتا ہے تو کہتے ہیں یہ خدا کی طرف سے ہے اور اگر کوئی گزند پہنچتا ہے تو (اے محمدﷺ تم سے) کہتے ہیں کہ یہ گزند آپ کی وجہ سے (ہمیں پہنچا) ہے کہہ دو کہ (رنج وراحت) سب الله ہی کی طرف سے ہے ان لوگوں کو کیا ہوگیا ہے کہ بات بھی نہیں سمجھ سکتے
+**English (Yusuf Ali):** "Wherever ye are, death will find you out, even if ye are in towers built up strong and high!" If some good befalls them, they say, "This is from Allah"; but if evil, they say, "This is from thee" (O Prophet). Say: "All things are from Allah." But what hath come to these people, that they fail to understand a single fact?
 
 [Open on Quran.com](https://quran.com/4/78)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh - there is no deity except Him. He will surely assemble you for [account on] the Day of Resurrection, about which there is no doubt. And who is more truthful than Allāh in statement.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا (وہ معبود برحق ہے کہ) اس کے سوا کوئی عبادت کے لائق نہیں وہ قیامت کے دن تم سب کو ضرور جمع کرے گا اور خدا سے بڑھ کر بات کا سچا کون ہے؟
+**English (Yusuf Ali):** Allah! There is no god but He: of a surety He will gather you together against the Day of Judgment, about which there is no doubt. And whose word can be truer than Allah's?
 
 [Open on Quran.com](https://quran.com/4/87)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it has already come down to you in the Book [i.e., the Qur’ān] that when you hear the verses of Allāh [recited], they are denied [by them] and ridiculed; so do not sit with them until they enter into another conversation. Indeed, you would then be like them. Indeed, Allāh will gather the hypocrites and disbelievers in Hell all together -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے تم (مومنوں) پر اپنی کتاب میں (یہ حکم) نازل فرمایا ہے کہ جب تم (کہیں) سنو کہ خدا کی آیتوں سے انکار ہورہا ہے اور ان کی ہنسی اڑائی جاتی ہے تو جب تک وہ لوگ اور باتیں (نہ) کرنے لگیں۔ ان کے پاس مت بیٹھو۔ ورنہ تم بھی انہیں جیسے ہوجاؤ گے۔ کچھ شک نہیں کہ خدا منافقوں اور کافروں سب کو دوزخ میں اکھٹا کرنے والا ہے
+**English (Yusuf Ali):** Already has He sent you Word in the Book, that when ye hear the signs of Allah held in defiance and ridicule, ye are not to sit with them unless they turn to a different theme: if ye did, ye would be like them. For Allah will collect the hypocrites and those who defy faith - all in Hell:-
 
 [Open on Quran.com](https://quran.com/4/140)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when you see those who engage in [offensive] discourse concerning Our verses, then turn away from them until they enter into another conversation. And if Satan should cause you to forget, then do not remain after the reminder with the wrongdoing people.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم ایسے لوگوں کو دیکھو جو ہماری آیتوں کے بارے میں بیہودہ بکواس کر رہے ہوں تو ان سے الگ ہوجاؤ یہاں تک کہ اور باتوں میں مصروف ہوجائیں۔ اور اگر (یہ بات) شیطان تمہیں بھلا دے تو یاد آنے پر ظالم لوگوں کے ساتھ نہ بیٹھو
+**English (Yusuf Ali):** When thou seest men engaged in vain discourse about Our signs, turn away from them unless they turn to a different theme. If Satan ever makes thee forget, then after recollection, sit not thou in the company of those who do wrong.
 
 [Open on Quran.com](https://quran.com/6/68)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they not look into the realm of the heavens and the earth and everything that Allāh has created and [think] that perhaps their appointed time has come near? So in what statement [i.e., message] hereafter will they believe?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے آسمان اور زمین کی بادشاہت میں جو چیزیں خدا نے پیدا کی ہیں ان پر نظر نہیں کی اور اس بات پر (خیال نہیں کیا) کہ عجب نہیں ان (کی موت) کا وقت نزدیک پہنچ گیا ہو۔ تو اس کے بعد وہ اور کس بات پر ایمان لائیں گے
+**English (Yusuf Ali):** Do they see nothing in the government of the heavens and the earth and all that Allah hath created? (Do they not see) that it may well be that their terms is nigh drawing to an end? In what message after this will they then believe?
 
 [Open on Quran.com](https://quran.com/7/185)
 
@@ -155,7 +155,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus will your Lord choose you and teach you the interpretation of narratives [i.e., events or dreams] and complete His favor upon you and upon the family of Jacob, as He completed it upon your fathers before, Abraham and Isaac. Indeed, your Lord is Knowing and Wise."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح خدا تمہیں برگزیدہ (وممتاز) کرے گا اور (خواب کی) باتوں کی تعبیر کا علم سکھائے گا۔ اور جس طرح اس نے اپنی نعمت پہلے تمہارے دادا، پردادا ابراہیم اور اسحاق پر پوری کی تھی اسی طرح تم پر اور اولاد یعقوب پر پوری کرے گا۔ بےشک تمہارا پروردگار (سب کچھ) جاننے والا (اور) حکمت والا ہے
+**English (Yusuf Ali):** "Thus will thy Lord choose thee and teach thee the interpretation of stories (and events) and perfect His favour to thee and to the posterity of Jacob - even as He perfected it to thy fathers Abraham and Isaac aforetime! for Allah is full of knowledge and wisdom."
 
 [Open on Quran.com](https://quran.com/12/6)
 
@@ -171,7 +171,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the one from Egypt who bought him said to his wife, "Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son." And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مصر میں جس شخص نے اس کو خریدا اس نے اپنی بیوی سے (جس کا نام زلیخا تھا) کہا کہ اس کو عزت واکرام سے رکھو عجب نہیں کہ یہ ہمیں فائدہ دے یا ہم اسے بیٹا بنالیں۔ اس طرح ہم نے یوسف کو سرزمین (مصر) میں جگہ دی اور غرض یہ تھی کہ ہم ان کو (خواب کی) باتوں کی تعبیر سکھائیں اور خدا اپنے کام پر غالب ہے لیکن اکثر لوگ نہیں جانتے
+**English (Yusuf Ali):** The man in Egypt who bought him, said to his wife: "Make his stay (among us) honourable: may be he will bring us much good, or we shall adopt him as a son." Thus did We establish Joseph in the land, that We might teach him the interpretation of stories (and events). And Allah hath full power and control over His affairs; but most among mankind know it not.
 
 [Open on Quran.com](https://quran.com/12/21)
 
@@ -187,7 +187,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** My Lord, You have given me [something] of sovereignty and taught me of the interpretation of dreams. Creator of the heavens and earth, You are my protector in this world and the Hereafter. Cause me to die a Muslim and join me with the righteous."
 
-**Urdu (Fatah Muhammad Jalandhari):** (جب یہ سب باتیں ہولیں تو یوسف نے خدا سے دعا کی کہ) اے میرے پروردگار تو نے مجھ کو حکومت سے بہرہ دیا اور خوابوں کی تعبیر کا علم بخشا۔ اے آسمانوں اور زمین کے پیدا کرنے والے تو ہی دنیا اور آخرت میں میرا کارساز ہے۔ تو مجھے (دنیا سے) اپنی اطاعت (کی حالت) میں اٹھائیو اور (آخرت میں) اپنے نیک بندوں میں داخل کیجیو
+**English (Yusuf Ali):** "O my Lord! Thou hast indeed bestowed on me some power, and taught me something of the interpretation of dreams and events,- O Thou Creator of the heavens and the earth! Thou art my Protector in this world and in the Hereafter. Take Thou my soul (at death) as one submitting to Thy will (as a Muslim), and unite me with the righteous."
 
 [Open on Quran.com](https://quran.com/12/101)
 
@@ -203,7 +203,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There was certainly in their stories a lesson for those of understanding. Never was it [i.e., the Qur’ān] a narration invented, but a confirmation of what was before it and a detailed explanation of all things and guidance and mercy for a people who believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کے قصے میں عقلمندوں کے لیے عبرت ہے۔ یہ (قرآن) ایسی بات نہیں ہے جو (اپنے دل سے) بنائی گئی ہو بلکہ جو (کتابیں) اس سے پہلے نازل ہوئی ہیں ان کی تصدیق (کرنے والا) ہے اور مومنوں کے لیے ہدایت اور رحمت ہے
+**English (Yusuf Ali):** There is, in their stories, instruction for men endued with understanding. It is not a tale invented, but a confirmation of what went before it,- a detailed exposition of all things, and a guide and a mercy to any such as believe.
 
 [Open on Quran.com](https://quran.com/12/111)
 

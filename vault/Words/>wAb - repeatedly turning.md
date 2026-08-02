@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 17:25 · [[017 Al-Isra]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Your Lord is most knowing of what is within yourselves. If you should be righteous [in intention] - then indeed He is ever, to the often returning [to Him], Forgiving.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو کچھ تمہارے دلوں میں ہے تمہارا پروردگار اس سے بخوبی واقف ہے۔ اگر تم نیک ہوگے تو وہ رجوع لانے والوں کو بخش دینے والا ہے
+**English (Yusuf Ali):** Your Lord knoweth best what is in your hearts: If ye do deeds of righteousness, verily He is Most Forgiving to those who turn to Him again and again (in true penitence).
 
 [Open on Quran.com](https://quran.com/17/25)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Be patient over what they say and remember Our servant, David, the possessor of strength; indeed, he was one who repeatedly turned back [to Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) یہ جو کچھ کہتے ہیں اس پر صبر کرو۔ اور ہمارے بندے داؤد کو یاد کرو جو صاحب قوت تھے (اور) بےشک وہ رجوع کرنے والے تھے
+**English (Yusuf Ali):** Have patience at what they say, and remember our servant David, the man of strength: for he ever turned (to Allah).
 
 [Open on Quran.com](https://quran.com/38/17)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the birds were assembled, all with him repeating [praises].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور پرندوں کو بھی کہ جمع رہتے تھے۔ سب ان کے فرمانبردار تھے
+**English (Yusuf Ali):** And the birds gathered (in assemblies): all with him did turn (to Allah).
 
 [Open on Quran.com](https://quran.com/38/19)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to David We gave Solomon. An excellent servant, indeed he was one repeatedly turning back [to Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے داؤد کو سلیمان عطا کئے۔ بہت خوب بندے (تھے اور) وہ (خدا کی طرف) رجوع کرنے والے تھے
+**English (Yusuf Ali):** To David We gave Solomon (for a son),- How excellent in Our service! Ever did he turn (to Us)!
 
 [Open on Quran.com](https://quran.com/38/30)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [We said], "And take in your hand a bunch [of grass] and strike with it and do not break your oath." Indeed, We found him patient, an excellent servant. Indeed, he was one repeatedly turning back [to Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے ہاتھ میں جھاڑو لو اور اس سے مارو اور قسم نہ توڑو۔ بےشک ہم نے ان کو ثابت قدم پایا۔ بہت خوب بندے تھے بےشک وہ رجوع کرنے والے تھے
+**English (Yusuf Ali):** "And take in thy hand a little grass, and strike therewith: and break not (thy oath)." Truly We found him full of patience and constancy. How excellent in Our service! ever did he turn (to Us)!
 
 [Open on Quran.com](https://quran.com/38/44)
 
@@ -120,7 +120,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [It will be said], "This is what you were promised - for every returner [to Allāh] and keeper [of His covenant].
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی وہ چیز ہے جس کا تم سے وعدہ کیا جاتا تھا (یعنی) ہر رجوع لانے والے حفاظت کرنے والے سے
+**English (Yusuf Ali):** (A voice will say:) "This is what was promised for you,- for every one who turned (to Allah) in sincere repentance, who kept (His Law),
 
 [Open on Quran.com](https://quran.com/50/32)
 

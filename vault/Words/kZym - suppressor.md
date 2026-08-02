@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 12:84 · [[012 Yusuf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he turned away from them and said, "Oh, my sorrow over Joseph," and his eyes became white from grief, for he was [of that] a suppressor.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے پاس سے چلے گئے اور کہنے لگے ہائے افسوس یوسف (ہائے افسوس) اور رنج والم میں (اس قدر روئے کہ) ان کی آنکھیں سفید ہوگئیں اور ان کا دل غم سے بھر رہا تھا
+**English (Yusuf Ali):** And he turned away from them, and said: "How great is my grief for Joseph!" And his eyes became white with sorrow, and he fell into silent melancholy.
 
 [Open on Quran.com](https://quran.com/12/84)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when one of them is informed of [the birth of] a female, his face becomes dark, and he suppresses grief.
 
-**Urdu (Fatah Muhammad Jalandhari):** حالانکہ جب ان میں سے کسی کو بیٹی (کے پیدا ہونے) کی خبر ملتی ہے تو اس کا منہ (غم کے سبب) کالا پڑ جاتا ہے اور (اس کے دل کو دیکھو تو) وہ اندوہناک ہوجاتا ہے
+**English (Yusuf Ali):** When news is brought to one of them, of (the birth of) a female (child), his face darkens, and he is filled with inward grief!
 
 [Open on Quran.com](https://quran.com/16/58)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when one of them is given good tidings of that which he attributes to the Most Merciful in comparison [i.e., a daughter], his face becomes dark, and he suppresses grief.
 
-**Urdu (Fatah Muhammad Jalandhari):** حالانکہ جب ان میں سے کسی کو اس چیز کی خوشخبری دی جاتی ہے جو انہوں نے خدا کے لئے بیان کی ہے تو اس کا منہ سیاہ ہوجاتا اور وہ غم سے بھر جاتا ہے
+**English (Yusuf Ali):** When news is brought to one of them of (the birth of) what he sets up as a likeness to (Allah) Most Gracious, his face darkens, and he is filled with inward grief!
 
 [Open on Quran.com](https://quran.com/43/17)
 

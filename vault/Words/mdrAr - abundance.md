@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:6 · [[006 Al-Anam]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have they not seen how many generations We destroyed before them which We had established upon the earth as We have not established you? And We sent [rain from] the sky upon them in showers and made rivers flow beneath them; then We destroyed them for their sins and brought forth after them a generation of others.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے کتنی امتوں کو ہلاک کر دیا جن کے پاؤں ملک میں ایسے جما دیئے تھے کہ تمہارے پاؤں بھی ایسے نہیں جمائے اور ان پر آسمان سے لگاتار مینہ برسایا اور نہریں بنا دیں جو ان کے (مکانوں کے) نیچے بہہ رہی تھیں پھر ان کو ان کے گناہوں کے سبب ہلاک کر دیا اور ان کے بعد اور امتیں پیدا کر دیں
+**English (Yusuf Ali):** See they not how many of those before them We did destroy?- generations We had established on the earth, in strength such as We have not given to you - for whom We poured out rain from the skies in abundance, and gave (fertile) streams flowing beneath their (feet): yet for their sins We destroyed them, and raised in their wake fresh generations (to succeed them).
 
 [Open on Quran.com](https://quran.com/6/6)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And O my people, ask forgiveness of your Lord and then repent to Him. He will send [rain from] the sky upon you in showers and increase you in strength [added] to your strength. And do not turn away, [being] criminals."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اے قوم! اپنے پروردگار سے بخشش مانگو پھر اس کے آگے توبہ کرو۔ وہ تم پر آسمان سے موسلادھار مینہ برسائے گا اور تمہاری طاقت پر طاقت بڑھائے گا اور (دیکھو) گنہگار بن کر روگردانی نہ کرو
+**English (Yusuf Ali):** "And O my people! Ask forgiveness of your Lord, and turn to Him (in repentance): He will send you the skies pouring abundant rain, and add strength to your strength: so turn ye not back in sin!"
 
 [Open on Quran.com](https://quran.com/11/52)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He will send [rain from] the sky upon you in [continuing] showers
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ تم پر آسمان سے لگاتار مینہ برسائے گا
+**English (Yusuf Ali):** "'He will send rain to you in abundance;
 
 [Open on Quran.com](https://quran.com/71/11)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 21:31 · [[021 Al-Anbya]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We placed within the earth firmly set mountains, lest it should shift with them, and We made therein [mountain] passes [as] roads that they might be guided.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے زمین میں پہاڑ بنائے تاکہ لوگوں (کے بوجھ) سے ہلنے (اور جھکنے) نہ لگے اور اس میں کشادہ راستے بنائے تاکہ لوگ ان پر چلیں
+**English (Yusuf Ali):** And We have set on the earth mountains standing firm, lest it should shake with them, and We have made therein broad highways (between mountains) for them to pass through: that they may receive Guidance.
 
 [Open on Quran.com](https://quran.com/21/31)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And proclaim to the people the ḥajj [pilgrimage]; they will come to you on foot and on every lean camel; they will come from every distant pass -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور لوگوں میں حج کے لئے ندا کر دو کہ تمہاری پیدل اور دبلے دبلے اونٹوں پر جو دور دراز رستوں سے چلے آتے ہو (سوار ہو کر) چلے آئیں
+**English (Yusuf Ali):** "And proclaim the Pilgrimage among men: they will come to thee on foot and (mounted) on every kind of camel, lean on account of journeys through deep and distant mountain highways;
 
 [Open on Quran.com](https://quran.com/22/27)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That you may follow therein roads of passage.'"
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ اس کے بڑے بڑے کشادہ رستوں میں چلو پھرو
+**English (Yusuf Ali):** "'That ye may go about therein, in spacious roads.'"
 
 [Open on Quran.com](https://quran.com/71/20)
 

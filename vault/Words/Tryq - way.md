@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:168 · [[004 An-Nisa]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve and commit wrong [or injustice] - never will Allāh forgive them, nor will He guide them to a path,
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے اور ظلم کرتے رہے خدا ان کو بخشنے والا نہیں اور نہ انہیں رستہ ہی دکھائے گا
+**English (Yusuf Ali):** Those who reject Faith and do wrong,- Allah will not forgive them nor guide them to any way-
 
 [Open on Quran.com](https://quran.com/4/168)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Except the path of Hell; they will abide therein forever. And that, for Allāh, is [always] easy.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں دوزخ کا رستہ جس میں وہ ہمیشہ (جلتے) رہیں گے۔ اور یہ (بات) خدا کو آسان ہے
+**English (Yusuf Ali):** Except the way of Hell, to dwell therein for ever. And this to Allah is easy.
 
 [Open on Quran.com](https://quran.com/4/169)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We had inspired to Moses, "Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کی طرف وحی بھیجی کہ ہمارے بندوں کو راتوں رات نکال لے جاؤ پھر ان کے لئے دریا میں (لاٹھی مار کر) خشک رستہ بنا دو پھر تم کو نہ تو (فرعون کے) آپکڑنے کا خوف ہوگا اور نہ (غرق ہونے کا) ڈر
+**English (Yusuf Ali):** We sent an inspiration to Moses: "Travel by night with My servants, and strike a dry path for them through the sea, without fear of being overtaken (by Pharaoh) and without (any other) fear."
 
 [Open on Quran.com](https://quran.com/20/77)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "O our people, indeed we have heard a [recited] Book revealed after Moses confirming what was before it which guides to the truth and to a straight path.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہنے لگے کہ اے قوم! ہم نے ایک کتاب سنی ہے جو موسیٰ کے بعد نازل ہوئی ہے۔ جو (کتابیں) اس سے پہلے (نازل ہوئی) ہیں ان کی تصدیق کرتی ہے (اور) سچا (دین) اور سیدھا رستہ بتاتی ہے
+**English (Yusuf Ali):** They said, "O our people! We have heard a Book revealed after Moses, confirming what came before it: it guides (men) to the Truth and to a Straight Path.
 
 [Open on Quran.com](https://quran.com/46/30)
 

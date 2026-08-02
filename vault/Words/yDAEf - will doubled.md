@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:245 · [[002 Al-Baqarah]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who is it that would loan Allāh a goodly loan so He may multiply it for him many times over? And it is Allāh who withholds and grants abundance, and to Him you will be returned.
 
-**Urdu (Fatah Muhammad Jalandhari):** کوئی ہے کہ خدا کو قرض حسنہ دے کہ وہ اس کے بدلے اس کو کئی حصے زیادہ دے گا۔ اور خدا ہی روزی کو تنگ کرتا اور (وہی اسے) کشادہ کرتا ہے۔ اور تم اسی کی طرف لوٹ کر جاؤ گے
+**English (Yusuf Ali):** Who is he that will loan to Allah a beautiful loan, which Allah will double unto his credit and multiply many times? It is Allah that giveth (you) Want or plenty, and to Him shall be your return.
 
 [Open on Quran.com](https://quran.com/2/245)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The example of those who spend their wealth in the way of Allāh is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains. And Allāh multiplies [His reward] for whom He wills. And Allāh is all-Encompassing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال خدا کی راہ میں خرچ کرتے ہیں ان (کے مال) کی مثال اس دانے کی سی ہے جس سے سات بالیں اگیں اور ہر ایک بال میں سو سو دانے ہوں اور خدا جس (کے مال) کو چاہتا ہے زیادہ کرتا ہے۔ وہ بڑی کشائش والا اور سب کچھ جاننے والا ہے
+**English (Yusuf Ali):** The parable of those who spend their substance in the way of Allah is that of a grain of corn: it groweth seven ears, and each ear Hath a hundred grains. Allah giveth manifold increase to whom He pleaseth: And Allah careth for all and He knoweth all things.
 
 [Open on Quran.com](https://quran.com/2/261)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh does not do injustice, [even] as much as an atom's weight; while if there is a good deed, He multiplies it and gives from Himself a great reward.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا کسی کی ذرا بھی حق تلفی نہیں کرتا اور اگر نیکی (کی) ہوگی تو اس کو دوچند کردے گا اور اپنے ہاں سے اجرعظیم بخشے گا
+**English (Yusuf Ali):** Allah is never unjust in the least degree: If there is any good (done), He doubleth it, and giveth from His own presence a great reward.
 
 [Open on Quran.com](https://quran.com/4/40)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those were not causing failure [to Allāh] on earth, nor did they have besides Allāh any protectors. For them the punishment will be multiplied. They were not able to hear, nor did they see.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ لوگ زمین میں (کہیں بھاگ کر خدا کو) نہیں ہرا سکتے اور نہ خدا کے سوا کوئی ان کا حمایتی ہے۔ (اے پیغمبر) ان کو دگنا عذاب دیا جائے گا کیونکہ یہ (شدت کفر سے تمہاری بات) نہیں سن سکتے تھے اور نہ (تم کو) دیکھ سکتے تھے
+**English (Yusuf Ali):** They will in no wise frustrate (His design) on earth, nor have they protectors besides Allah! Their penalty will be doubled! They lost the power to hear, and they did not see!
 
 [Open on Quran.com](https://quran.com/11/20)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Multiplied for him is the punishment on the Day of Resurrection, and he will abide therein humiliated -
 
-**Urdu (Fatah Muhammad Jalandhari):** قیامت کے دن اس کو دونا عذاب ہوگا اور ذلت وخواری سے ہمیشہ اس میں رہے گا
+**English (Yusuf Ali):** (But) the Penalty on the Day of Judgment will be doubled to him, and he will dwell therein in ignominy,-
 
 [Open on Quran.com](https://quran.com/25/69)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O wives of the Prophet, whoever of you should commit a clear immorality - for her the punishment would be doubled two fold, and ever is that, for Allāh, easy.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر کی بیویو تم میں سے جو کوئی صریح ناشائستہ (الفاظ کہہ کر رسول الله کو ایذا دینے کی) حرکت کرے گی۔ اس کو دونی سزا دی جائے گی۔ اور یہ (بات) خدا کو آسان ہے
+**English (Yusuf Ali):** O Consorts of the Prophet! If any of you were guilty of evident unseemly conduct, the Punishment would be doubled to her, and that is easy for Allah.
 
 [Open on Quran.com](https://quran.com/33/30)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who is it that would loan Allāh a goodly loan so He will multiply it for him and he will have a noble reward?
 
-**Urdu (Fatah Muhammad Jalandhari):** کون ہے جو خدا کو (نیت) نیک (اور خلوص سے) قرض دے تو وہ اس کو اس سے دگنا کرے اور اس کے لئے عزت کا صلہ (یعنی جنت) ہے
+**English (Yusuf Ali):** Who is he that will Loan to Allah a beautiful loan? for (Allah) will increase it manifold to his credit, and he will have (besides) a liberal Reward.
 
 [Open on Quran.com](https://quran.com/57/11)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the men who practice charity and the women who practice charity and [they who] have loaned Allāh a goodly loan - it will be multiplied for them, and they will have a noble reward.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خیرات کرنے والے ہیں مرد بھی اور عورتیں بھی۔ اور خدا کو (نیت) نیک (اور خلوص سے) قرض دیتے ہیں ان کو دوچند ادا کیا جائے گا اور ان کے لئے عزت کا صلہ ہے
+**English (Yusuf Ali):** For those who give in Charity, men and women, and loan to Allah a Beautiful Loan, it shall be increased manifold (to their credit), and they shall have (besides) a liberal reward.
 
 [Open on Quran.com](https://quran.com/57/18)
 
@@ -172,7 +172,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If you loan Allāh a goodly loan, He will multiply it for you and forgive you. And Allāh is [most] Appreciative and Forbearing,
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم خدا کو (اخلاص اور نیت) نیک (سے) قرض دو گے تو وہ تم کو اس کا دوچند دے گا اور تمہارے گناہ بھی معاف کردے گا۔ اور خدا قدر شناس اور بردبار ہے
+**English (Yusuf Ali):** If ye loan to Allah, a beautiful loan, He will double it to your (credit), and He will grant you Forgiveness: for Allah is most Ready to appreciate (service), Most Forbearing,-
 
 [Open on Quran.com](https://quran.com/64/17)
 

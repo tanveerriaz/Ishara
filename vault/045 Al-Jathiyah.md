@@ -14,31 +14,31 @@ The Crouching · 37 ayahs
 
 ## Words in this surah (graph)
 
-- [[sA' - evil]] — `ساءَ` · evil
-- [[bnY - children]] — `بُنَىّ` · children
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[EZym - great]] — `عَظِيم` · great
-- [[dEA - call]] — `دَعا` · call
-- [[tlY - recited]] — `تَلَى` · recited
-- [[ytfkr - reflect]] — `يَتَفَكَّرُ` · reflect
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[bgy - rebellion]] — `بَغْي` · rebellion
-- [[bSr - vision]] — `بَصَر` · vision
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
-- [[nsy - they forgot]] — `نَسِيَ` · they forgot
-- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
-- [[hzw - ridicule]] — `هُزُو` · ridicule
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[rHmp - mercy]] — `رَحْمَة` · mercy
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[mAt - died]] — `ماتَ` · died
-- [[flk - ships]] — `فُلْك` · ships
-- [[nASr - helpers]] — `ناصِر` · helpers
+- [[>Sr - they persist]] — `أَصَرُّ` · they persist
 - [[dAbp - moving creature]] — `دابَّة` · moving creature
+- [[AtbE - follow]] — `اتَّبَعَ` · follow
+- [[xtm - sealed]] — `خَتَمَ` · sealed
+- [[dEA - call]] — `دَعا` · call
+- [[nAr - fire]] — `نار` · fire
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[lyl - night]] — `لَيْل` · night
+- [[Hjp - argument]] — `حُجَّة` · argument
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[fwz - success]] — `فَوْز` · success
+- [[Eml - do]] — `عَمِلَ` · do
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[>mr - command]] — `أَمَرَ` · command
+- [[wly - protector]] — `وَلِيّ` · protector
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[hzw - ridicule]] — `هُزُو` · ridicule
+- [[EZym - great]] — `عَظِيم` · great
+- [[tlY - recited]] — `تَلَى` · recited
+- [[sxr - subjected]] — `سَخِرَ` · subjected
 - [[jA' - came them]] — `جاءَ` · came them
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>y - o you]] — `أَيّ` · o you
 
 ## Roots
 

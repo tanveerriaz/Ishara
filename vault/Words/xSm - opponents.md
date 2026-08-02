@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 22:19 · [[022 Al-Hajj]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** These are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ دو (فریق) ایک دوسرے کے دشمن اپنے پروردگار (کے بارے) میں جھگڑتے ہیں۔ تو کافر ہیں ان کے لئے آگ کے کپڑے قطع کئے جائیں گے (اور) ان کے سروں پر جلتا ہوا پانی ڈالا جائے گا
+**English (Yusuf Ali):** These two antagonists dispute with each other about their Lord: But those who deny (their Lord),- for them will be cut out a garment of Fire: over their heads will be poured out boiling water.
 
 [Open on Quran.com](https://quran.com/22/19)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And has there come to you the news of the adversaries, when they climbed over the wall of [his] prayer chamber -
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تمہارے پاس ان جھگڑنے والوں کی بھی خبر آئی ہے جب وہ دیوار پھاند کر عبادت خانے میں داخل ہوئے
+**English (Yusuf Ali):** Has the Story of the Disputants reached thee? Behold, they climbed over the wall of the private chamber;
 
 [Open on Quran.com](https://quran.com/38/21)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When they entered upon David and he was alarmed by them? They said, "Fear not. [We are] two adversaries, one of whom has wronged the other, so judge between us with truth and do not exceed [it] and guide us to the sound path.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس وقت وہ داؤد کے پاس آئے تو وہ ان سے گھبرا گئے انہوں نے کہا کہ خوف نہ کیجیئے۔ ہم دونوں کا ایک مقدمہ ہے کہ ہم میں سے ایک نے دوسرے پر زیادتی کی ہے تو آپ ہم میں انصاف کا فیصلہ کر دیجیئے اور بےانصافی نہ کیجیئے گا اور ہم کو سیدھا رستہ دکھا دیجیئے
+**English (Yusuf Ali):** When they entered the presence of David, and he was terrified of them, they said: "Fear not: we are two disputants, one of whom has wronged the other: Decide now between us with truth, and treat us not with injustice, but guide us to the even Path..
 
 [Open on Quran.com](https://quran.com/38/22)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they said, "Are our gods better, or is he?" They did not present it [i.e., the comparison] except for [mere] argument. But, [in fact], they are a people prone to dispute.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہنے لگے کہ بھلا ہمارے معبود اچھے ہیں یا عیسیٰ؟ انہوں نے عیسیٰ کی جو مثال بیان کی ہے تو صرف جھگڑنے کو۔ حقیقت یہ ہے یہ لوگ ہیں ہی جھگڑالو
+**English (Yusuf Ali):** And they say, "Are our gods best, or he?" This they set forth to thee, only by way of disputation: yea, they are a contentious people.
 
 [Open on Quran.com](https://quran.com/43/58)
 

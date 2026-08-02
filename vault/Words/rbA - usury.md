@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:275 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who consume interest cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, "Trade is [just] like interest." But Allāh has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair rests with Allāh. But whoever returns [to dealing in interest or usury] - those are the companions of the Fire; they will abide eternally therein.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ سود کھاتے ہیں وہ (قبروں سے) اس طرح (حواس باختہ) اٹھیں گے جیسے کسی کو جن نے لپٹ کر دیوانہ بنا دیا ہو یہ اس لئے کہ وہ کہتے ہیں کہ سودا بیچنا بھی تو (نفع کے لحاظ سے) ویسا ہی ہے جیسے سود (لینا) حالانکہ سودے کو خدا نے حلال کیا ہے اور سود کو حرام۔ تو جس شخص کے پاس خدا کی نصیحت پہنچی اور وہ (سود لینے سے) باز آگیا تو جو پہلے ہوچکا وہ اس کا۔ اور (قیامت میں) اس کا معاملہ خدا کے سپرد اور جو پھر لینے لگا تو ایسے لوگ دوزخی ہیں کہ ہمیشہ دوزخ میں (جلتے) رہیں گے
+**English (Yusuf Ali):** Those who devour usury will not stand except as stand one whom the Evil one by his touch Hath driven to madness. That is because they say: "Trade is like usury," but Allah hath permitted trade and forbidden usury. Those who after receiving direction from their Lord, desist, shall be pardoned for the past; their case is for Allah (to judge); but those who repeat (The offence) are companions of the Fire: They will abide therein (for ever).
 
 [Open on Quran.com](https://quran.com/2/275)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh destroys interest and gives increase for charities. And Allāh does not like every sinning disbeliever.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا سود کو نابود (یعنی بےبرکت) کرتا اور خیرات (کی برکت) کو بڑھاتا ہے اور خدا کسی ناشکرے گنہگار کو دوست نہیں رکھتا
+**English (Yusuf Ali):** Allah will deprive usury of all blessing, but will give increase for deeds of charity: For He loveth not creatures ungrateful and wicked.
 
 [Open on Quran.com](https://quran.com/2/276)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, fear Allāh and give up what remains [due to you] of interest, if you should be believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا سے ڈرو اور اگر ایمان رکھتے ہو تو جتنا سود باقی رہ گیا ہے اس کو چھوڑ دو
+**English (Yusuf Ali):** O ye who believe! Fear Allah, and give up what remains of your demand for usury, if ye are indeed believers.
 
 [Open on Quran.com](https://quran.com/2/278)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not consume usury, doubled and multiplied, but fear Allāh that you may be successful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اےایمان والو! دگنا چوگنا سود نہ کھاؤ اور خدا سے ڈرو تاکہ نجات حاصل کرو
+**English (Yusuf Ali):** O ye who believe! Devour not usury, doubled and multiplied; but fear Allah; that ye may (really) prosper.
 
 [Open on Quran.com](https://quran.com/3/130)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [for] their taking of usury while they had been forbidden from it, and their consuming of the people's wealth unjustly. And We have prepared for the disbelievers among them a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس سبب سے بھی کہ باوجود منع کئے جانے کے سود لیتے تھے اور اس سبب سے بھی کہ لوگوں کا مال ناحق کھاتے تھے۔ اور ان میں سے جو کافر ہیں ان کے لئے ہم نے درد دینے والا عذاب تیار کر رکھا ہے
+**English (Yusuf Ali):** That they took usury, though they were forbidden; and that they devoured men's substance wrongfully;- we have prepared for those among them who reject faith a grievous punishment.
 
 [Open on Quran.com](https://quran.com/4/161)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 29:19 · [[029 Al-Ankabut]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have they not considered how Allāh begins creation and then repeats it? Indeed that, for Allāh, is easy.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا اُنہوں نے نہیں دیکھا کہ خدا کس طرح خلقت کو پہلی بار پیدا کرتا پھر (کس طرح) اس کو بار بار پیدا کرتا رہتا ہے۔ یہ خدا کو آسان ہے
+**English (Yusuf Ali):** See they not how Allah originates creation, then repeats it: truly that is easy for Allah.
 
 [Open on Quran.com](https://quran.com/29/19)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "The truth has come, and falsehood can neither begin [anything] nor repeat [it]."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ حق آچکا اور (معبود) باطل نہ تو پہلی بار پیدا کرسکتا ہے اور نہ دوبارہ پیدا کرے گا
+**English (Yusuf Ali):** Say: "The Truth has arrived, and Falsehood neither creates anything new, nor restores anything."
 
 [Open on Quran.com](https://quran.com/34/49)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, it is He who originates [creation] and repeats.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی پہلی دفعہ پیدا کرتا ہے اور وہی دوبارہ( زندہ) کرے گا
+**English (Yusuf Ali):** It is He Who creates from the very beginning, and He can restore (life).
 
 [Open on Quran.com](https://quran.com/85/13)
 

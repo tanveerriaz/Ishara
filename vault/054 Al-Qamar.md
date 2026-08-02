@@ -15,30 +15,30 @@ The Moon · 55 ayahs
 ## Words in this surah (graph)
 
 - [[ysr - ease]] — `يُسْر` · ease
-- [[k*Ab - liar]] — `كَذّاب` · liar
 - [[mqtdr - all able]] — `مُقْتَدِر` · all able
 - [[zbr - scriptures]] — `زُبُر` · scriptures
-- [[xyr - better]] — `خَيْر` · better
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[mA' - water]] — `ماء` · water
-- [[dEA - call]] — `دَعا` · call
-- [[qmr - moon]] — `قَمَر` · moon
+- [[k*Ab - liar]] — `كَذّاب` · liar
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[bSr - vision]] — `بَصَر` · vision
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
-- [[ftnp - trial]] — `فِتْنَة` · trial
-- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[>n*r - warn]] — `أَنذَرَ` · warn
-- [[nxl - date-palms]] — `نَخْل` · date-palms
-- [[r>Y - you see]] — `رَأَى` · you see
+- [[n*yr - warner]] — `نَذِير` · warner
+- [[dEA - call]] — `دَعا` · call
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[wjh - faces]] — `وَجْه` · faces
+- [[wAHdp - single]] — `واحِدَة` · single
 - [[qdr - restricts]] — `قَدَر` · restricts
-- [[>jdAv - graves]] — `أَجْداث` · graves
-- [[mqEd - take positions]] — `مَقْعَد` · take positions
+- [[ftH - victory]] — `فَتَحَ` · victory
+- [[SyHp - shout]] — `صَيْحَة` · shout
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[xA$E - humbled]] — `خاشِع` · humbled
+- [[nAdY - he called]] — `نادَى` · he called
+- [[AltqY - met]] — `الْتَقَى` · met
+- [[>mr - command]] — `أَمَرَ` · command
+- [[bAlgp - conclusive]] — `بالِغَة` · conclusive
+- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[mA' - water]] — `ماء` · water
+- [[nAqp - she-camel]] — `ناقَة` · she-camel
 - [[jA' - came them]] — `جاءَ` · came them
-- [[ryH - wind]] — `رِيح` · wind
 
 ## Roots
 

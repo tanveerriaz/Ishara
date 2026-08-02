@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 15:47 · [[015 Al-Hijr]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں میں جو کدورت ہوگی ان کو ہم نکال کر (صاف کر) دیں گے (گویا) بھائی بھائی تختوں پر ایک دوسرے کے سامنے بیٹھے ہوئے ہیں
+**English (Yusuf Ali):** And We shall remove from their hearts any lurking sense of injury: (they will be) brothers (joyfully) facing each other on thrones (of dignity).
 
 [Open on Quran.com](https://quran.com/15/47)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** On thrones facing one another.
 
-**Urdu (Fatah Muhammad Jalandhari):** ایک دوسرے کے سامنے تختوں پر (بیٹھے ہوں گے)
+**English (Yusuf Ali):** Facing each other on Thrones (of Dignity):
 
 [Open on Quran.com](https://quran.com/37/44)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Wearing [garments of] fine silk and brocade, facing each other.
 
-**Urdu (Fatah Muhammad Jalandhari):** حریر کا باریک اور دبیز لباس پہن کر ایک دوسرے کے سامنے بیٹھے ہوں گے
+**English (Yusuf Ali):** Dressed in fine silk and in rich brocade, they will face each other;
 
 [Open on Quran.com](https://quran.com/44/53)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Reclining on them, facing each other.
 
-**Urdu (Fatah Muhammad Jalandhari):** آمنے سامنے تکیہ لگائے ہوئے
+**English (Yusuf Ali):** Reclining on them, facing each other.
 
 [Open on Quran.com](https://quran.com/56/16)
 

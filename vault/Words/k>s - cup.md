@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 37:45 · [[037 As-Saffat]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There will be circulated among them a cup [of wine] from a flowing spring,
 
-**Urdu (Fatah Muhammad Jalandhari):** شراب لطیف کے جام کا ان میں دور چل رہا ہوگا
+**English (Yusuf Ali):** Round will be passed to them a Cup from a clear-flowing fountain,
 
 [Open on Quran.com](https://quran.com/37/45)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will exchange with one another a cup [of wine] wherein [results] no ill speech or commission of sin.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہاں وہ ایک دوسرے سے جام شراب جھپٹ لیا کریں گے جس (کے پینے) سے نہ ہذیان سرائی ہوگی نہ کوئی گناہ کی بات
+**English (Yusuf Ali):** They shall there exchange, one with another, a (loving) cup free of frivolity, free of all taint of ill.
 
 [Open on Quran.com](https://quran.com/52/23)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** With vessels, pitchers and a cup [of wine] from a flowing spring -
 
-**Urdu (Fatah Muhammad Jalandhari):** یعنی آبخورے اور آفتابے اور صاف شراب کے گلاس لے لے کر
+**English (Yusuf Ali):** With goblets, (shining) beakers, and cups (filled) out of clear-flowing fountains:
 
 [Open on Quran.com](https://quran.com/56/18)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the righteous will drink from a cup [of wine] whose mixture is of Kāfūr,
 
-**Urdu (Fatah Muhammad Jalandhari):** جو نیکو کار ہیں اور وہ ایسی شراب نوش جان کریں گے جس میں کافور کی آمیزش ہوگی
+**English (Yusuf Ali):** As to the Righteous, they shall drink of a Cup (of Wine) mixed with Kafur,-
 
 [Open on Quran.com](https://quran.com/76/5)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will be given to drink a cup [of wine] whose mixture is of ginger
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہاں ان کو ایسی شراب (بھی) پلائی جائے گی جس میں سونٹھ کی آمیزش ہوگی
+**English (Yusuf Ali):** And they will be given to drink there of a Cup (of Wine) mixed with Zanjabil,-
 
 [Open on Quran.com](https://quran.com/76/17)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And a full cup.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور شراب کے چھلکتے ہوئے گلاس
+**English (Yusuf Ali):** And a cup full (to the brim).
 
 [Open on Quran.com](https://quran.com/78/34)
 

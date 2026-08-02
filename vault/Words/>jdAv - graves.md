@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 36:51 · [[036 Ya-Sin]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the Horn will be blown; and at once from the graves to their Lord they will hasten.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (جس وقت) صور پھونکا جائے گا یہ قبروں سے (نکل کر) اپنے پروردگار کی طرف دوڑ پڑیں گے
+**English (Yusuf Ali):** The trumpet shall be sounded, when behold! from the sepulchres (men) will rush forth to their Lord!
 
 [Open on Quran.com](https://quran.com/36/51)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Their eyes humbled, they will emerge from the graves as if they were locusts spreading,
 
-**Urdu (Fatah Muhammad Jalandhari):** تو آنکھیں نیچی کئے ہوئے قبروں سے نکل پڑیں گے گویا بکھری ہوئی ٹڈیاں
+**English (Yusuf Ali):** They will come forth,- their eyes humbled - from (their) graves, (torpid) like locusts scattered abroad,
 
 [Open on Quran.com](https://quran.com/54/7)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day they will emerge from the graves rapidly as if they were, toward an erected idol, hastening.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس دن یہ قبر سے نکل کر (اس طرح) دوڑیں گے جیسے (شکاری) شکار کے جال کی طرف دوڑتے ہیں
+**English (Yusuf Ali):** The Day whereon they will issue from their sepulchres in sudden haste as if they were rushing to a goal-post (fixed for them),-
 
 [Open on Quran.com](https://quran.com/70/43)
 

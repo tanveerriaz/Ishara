@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 1:7 · [[001 Al-Fatihah]]
 
@@ -50,7 +50,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The path of those upon whom You have bestowed favor, not of those who have earned [Your] anger or of those who are astray.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں کے رستے جن پر تو اپنا فضل وکرم کرتا رہا نہ ان کے جن پر غصے ہوتا رہا اور نہ گمراہوں کے
+**English (Yusuf Ali):** The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.
 
 [Open on Quran.com](https://quran.com/1/7)
 
@@ -66,7 +66,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Children of Israel, remember My favor which I have bestowed upon you and fulfill My covenant [upon you] that I will fulfill your covenant [from Me], and be afraid of [only] Me.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے یعقوب کی اولاد! میرے وہ احسان یاد کرو جو میں نے تم پر کئے تھے اور اس اقرار کو پورا کرو جو تم نے مجھ سے کیا تھا۔ میں اس اقرار کو پورا کروں گا جو میں نے تم سے کیا تھا اور مجھی سے ڈرتے رہو
+**English (Yusuf Ali):** O Children of Israel! call to mind the (special) favour which I bestowed upon you, and fulfil your covenant with Me as I fulfil My Covenant with you, and fear none but Me.
 
 [Open on Quran.com](https://quran.com/2/40)
 
@@ -82,7 +82,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Children of Israel, remember My favor that I have bestowed upon you and that I preferred you over the worlds [i.e., peoples].
 
-**Urdu (Fatah Muhammad Jalandhari):** اے یعقوب کی اولاد! میرے وہ احسان یاد کرو، جو میں نے تم پر کئے تھے اور یہ کہ میں نے تم کو جہان کے لوگوں پر فضیلت بخشی تھی
+**English (Yusuf Ali):** Children of Israel! call to mind the (special) favour which I bestowed upon you, and that I preferred you to all other (for My Message).
 
 [Open on Quran.com](https://quran.com/2/47)
 
@@ -98,7 +98,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Children of Israel, remember My favor which I have bestowed upon you and that I preferred you over the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے بنی اسرائیل ! میرے وہ احسان یاد کرو، جو میں نے تم پر کئے اور یہ کہ میں نے تم کو اہلِ عالم پر فضیلت بخشی
+**English (Yusuf Ali):** O Children of Israel! call to mind the special favour which I bestowed upon you, and that I preferred you to all others (for My Message).
 
 [Open on Quran.com](https://quran.com/2/122)
 
@@ -114,7 +114,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever obeys Allāh and the Messenger - those will be with the ones upon whom Allāh has bestowed favor of the prophets, the steadfast affirmers of truth, the martyrs and the righteous. And excellent are those as companions.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا اور اس کے رسول کی اطاعت کرتے ہیں وہ (قیامت کے روز) ان لوگوں کے ساتھ ہوں گے جن پر خدا نے بڑا فضل کیا یعنی انبیاء اور صدیق اور شہید اور نیک لوگ اور ان لوگوں کی رفاقت بہت ہی خوب ہے
+**English (Yusuf Ali):** All who obey Allah and the messenger are in the company of those on whom is the Grace of Allah,- of the prophets (who teach), the sincere (lovers of Truth), the witnesses (who testify), and the Righteous (who do good): Ah! what a beautiful fellowship!
 
 [Open on Quran.com](https://quran.com/4/69)
 
@@ -130,7 +130,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, there is among you he who lingers behind; and if disaster strikes you, he says, "Allāh has favored me in that I was not present with them."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم میں کوئی ایسا بھی ہے کہ (عمداً) دیر لگاتا ہے۔ پھر اگر تم پر کوئی مصیبت پڑ جائے تو کہتا ہے کہ خدا نے مجھ پر بڑی مہربانی کی کہ میں ان میں موجود نہ تھا
+**English (Yusuf Ali):** There are certainly among you men who would tarry behind: If a misfortune befalls you, they say: "Allah did favour us in that we were not present among them."
 
 [Open on Quran.com](https://quran.com/4/72)
 
@@ -146,7 +146,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Said two men from those who feared [to disobey] upon whom Allāh had bestowed favor, "Enter upon them through the gate, for when you have entered it, you will be predominant. And upon Allāh rely, if you should be believers."
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (خدا سے) ڈرتے تھے ان میں سے دو شخص جن پر خدا کی عنایت تھی کہنے لگے کہ ان لوگوں پر دروازے کے رستے سے حملہ کردو جب تم دروازے میں داخل ہو گئے تو فتح تمہارے ہے اور خدا ہی پر بھروسہ رکھو بشرطیکہ صاحبِ ایمان ہو
+**English (Yusuf Ali):** (But) among (their) Allah-fearing men were two on whom Allah had bestowed His grace: They said: "Assault them at the (proper) Gate: when once ye are in, victory will be yours; But on Allah put your trust if ye have faith."
 
 [Open on Quran.com](https://quran.com/5/23)
 
@@ -162,7 +162,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is because Allāh would not change a favor which He had bestowed upon a people until they change what is within themselves. And indeed, Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ اس لیے کہ جو نعمت خدا کسی قوم کو دیا کرتا ہے جب تک وہ خود اپنے دلوں کی حالت نہ بدل ڈالیں خدا اسے نہیں بدلا کرتا۔ اور اس لیے کہ خدا سنتا جانتا ہے
+**English (Yusuf Ali):** "Because Allah will never change the grace which He hath bestowed on a people until they change what is in their (own) souls: and verily Allah is He Who heareth and knoweth (all things)."
 
 [Open on Quran.com](https://quran.com/8/53)
 
@@ -178,7 +178,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when We bestow favor upon man [i.e., the disbeliever], he turns away and distances himself; and when evil touches him, he is ever despairing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم انسان کو نعمت بخشتے ہیں تو ردگرداں ہوجاتا اور پہلو پھیر لیتا ہے۔ اور جب اسے سختی پہنچتی ہے تو ناامید ہوجاتا ہے
+**English (Yusuf Ali):** Yet when We bestow Our favours on man, he turns away and becomes remote on his side (instead of coming to Us), and when evil seizes him he gives himself up to despair!
 
 [Open on Quran.com](https://quran.com/17/83)
 
@@ -194,7 +194,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those were the ones upon whom Allāh bestowed favor from among the prophets of the descendants of Adam and of those We carried [in the ship] with Noah, and of the descendants of Abraham and Israel [i.e., Jacob], and of those whom We guided and chose. When the verses of the Most Merciful were recited to them, they fell in prostration and weeping.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جن پر خدا نے اپنے پیغمبروں میں سے فضل کیا۔ (یعنی) اولاد آدم میں سے اور ان لوگوں میں سے جن کو نوح کے ساتھ (کشتی میں) سوار کیا اور ابراہیم اور یعقوب کی اولاد میں سے اور ان لوگوں میں سے جن کو ہم نے ہدایت دی اور برگزیدہ کیا۔ جب ان کے سامنے ہماری آیتیں پڑھی جاتی تھیں تو سجدے میں گر پڑتے اور روتے رہتے تھے
+**English (Yusuf Ali):** Those were some of the prophets on whom Allah did bestow His Grace,- of the posterity of Adam, and of those who We carried (in the Ark) with Noah, and of the posterity of Abraham and Israel of those whom We guided and chose. Whenever the Signs of (Allah) Most Gracious were rehearsed to them, they would fall down in prostrate adoration and in tears.
 
 [Open on Quran.com](https://quran.com/19/58)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:162 · [[003 Ali Imran]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So is one who pursues the pleasure of Allāh like one who brings upon himself the anger of Allāh and whose refuge is Hell? And wretched is the destination.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا جو شخص خدا کی خوشنودی کا تابع ہو وہ اس شخص کی طرح(مرتکب خیانت) ہوسکتا ہے جو خدا کی ناخوشی میں گرفتار ہو اور جس کا ٹھکانہ دوزخ ہے، اور وہ برا ٹھکانا ہے
+**English (Yusuf Ali):** Is the man who follows the good pleasure of Allah Like the man who draws on himself the wrath of Allah, and whose abode is in Hell?- A woeful refuge!
 
 [Open on Quran.com](https://quran.com/3/162)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** You see many of them becoming allies of those who disbelieved [i.e., the polytheists]. How wretched is that which they have put forth for themselves in that Allāh has become angry with them, and in the punishment they will abide eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم ان میں سے بہتوں کو دیکھو گے کہ کافروں سے دوستی رکھتے ہیں انہوں نے جو کچھ اپنے واسطے آگے بھیجا ہے برا ہے (وہ یہ) کہ خدا ان سے ناخوش ہوا اور وہ ہمیشہ عذاب میں (مبتلا) رہیں گے
+**English (Yusuf Ali):** Thou seest many of them turning in friendship to the Unbelievers. Evil indeed are (the works) which their souls have sent forward before them (with the result), that Allah's wrath is on them, and in torment will they abide.
 
 [Open on Quran.com](https://quran.com/5/80)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And among them are some who criticize you concerning the [distribution of] charities. If they are given from them, they approve; but if they are not given from them, at once they become angry.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے بعض اسے بھی ہیں کہ (تقسیم) صدقات میں تم پر طعنہ زنی کرتے ہیں۔ اگر ان کو اس میں سے (خاطر خواہ) مل جائے تو خوش رہیں اور اگر (اس قدر) نہ ملے تو جھٹ خفا ہو جائیں
+**English (Yusuf Ali):** And among them are men who slander thee in the matter of (the distribution of) the alms: if they are given part thereof, they are pleased, but if not, behold! they are indignant!
 
 [Open on Quran.com](https://quran.com/9/58)
 

@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:71 · [[002 Al-Baqarah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "He says, 'It is a cow neither trained to plow the earth nor to irrigate the field, one free from fault with no spot upon her.'" They said, "Now you have come with the truth." So they slaughtered her, but they could hardly do it.
 
-**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا کہ خدا فرماتا ہے کہ وہ بیل کام میں لگا ہوا نہ ہو، نہ تو زمین جوتتا ہو اور نہ کھیتی کو پانی دیتا ہو۔ اس میں کسی طرح کا داغ نہ ہو۔ کہنے لگے، اب تم نے سب باتیں درست بتا دیں۔ غرض (بڑی مشکل سے) انہوں نے اس بیل کو ذبح کیا، اور وہ ایسا کرنے والے تھے نہیں
+**English (Yusuf Ali):** He said: "He says: A heifer not trained to till the soil or water the fields; sound and without blemish." They said: "Now hast thou brought the truth." Then they offered her in sacrifice, but not with good-will.
 
 [Open on Quran.com](https://quran.com/2/71)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when he goes away, he strives throughout the land to cause corruption therein and destroy crops and animals. And Allāh does not like corruption.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب پیٹھ پھیر کر چلا جاتا ہے تو زمین میں دوڑتا پھرتا ہے تاکہ اس میں فتنہ انگیزی کرے اور کھیتی کو (برباد) اور (انسانوں اور حیوانوں کی) نسل کو نابود کردے اور خدا فتنہ انگیزی کو پسند نہیں کرتا
+**English (Yusuf Ali):** When he turns his back, His aim everywhere is to spread mischief through the earth and destroy crops and cattle. But Allah loveth not mischief.
 
 [Open on Quran.com](https://quran.com/2/205)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Your wives are a place of cultivation [i.e., sowing of seed] for you, so come to your place of cultivation however you wish and put forth [righteousness] for yourselves. And fear Allāh and know that you will meet Him. And give good tidings to the believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** تمہاری عورتیں تمہارای کھیتی ہیں تو اپنی کھیتی میں جس طرح چاہو جاؤ۔ اور اپنے لئے (نیک عمل) آگے بھیجو۔ اور خدا سے ڈرتے رہو اور جان رکھو کہ (ایک دن) تمہیں اس کے روبرو حاضر ہونا ہے اور (اے پیغمبر) ایمان والوں کو بشارت سنا دو
+**English (Yusuf Ali):** Your wives are as a tilth unto you; so approach your tilth when or how ye will; but do some good act for your souls beforehand; and fear Allah. And know that ye are to meet Him (in the Hereafter), and give (these) good tidings to those who believe.
 
 [Open on Quran.com](https://quran.com/2/223)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allāh has with Him the best return [i.e., Paradise].
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
+**English (Yusuf Ali):** Fair in the eyes of men is the love of things they covet: Women and sons; Heaped-up hoards of gold and silver; horses branded (for blood and excellence); and (wealth of) cattle and well-tilled land. Such are the possessions of this world's life; but in nearness to Allah is the best of the goals (To return to).
 
 [Open on Quran.com](https://quran.com/3/14)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The example of what they spend in this worldly life is like that of a wind containing frost which strikes the harvest of a people who have wronged themselves [i.e., sinned] and destroys it. And Allāh has not wronged them, but they wrong themselves.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ جو مال دنیا کی زندگی میں خرچ کرتے ہیں اس کی مثال ہوا کی سی ہے جس میں سخت سردی ہو اور وہ ایسے لوگوں کی کھیتی پر جو اپنے آپ پر ظلم کرتے تھے چلے اور اسے تباہ کر دے اور خدا نے ان پر کچھ ظلم نہیں کیا بلکہ یہ خود اپنے اوپر ظلم کر رہے ہیں
+**English (Yusuf Ali):** What they spend in the life of this (material) world May be likened to a wind which brings a nipping frost: It strikes and destroys the harvest of men who have wronged their own souls: it is not Allah that hath wronged them, but they wrong themselves.
 
 [Open on Quran.com](https://quran.com/3/117)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they [i.e., the polytheists] assign to Allāh from that which He created of crops and livestock a share and say, "This is for Allāh," by their claim, "and this is for our 'partners' [associated with Him]." But what is for their "partners" does not reach Allāh, while what is for Allāh - this reaches their "partners." Evil is that which they rule.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (یہ لوگ) خدا ہی کی پیدا کی ہوئی چیزوں یعنی کھیتی اور چوپایوں میں خدا کا بھی ایک حصہ مقرر کرتے ہیں اور اپنے خیال (باطل) سے کہتے ہیں کہ یہ (حصہ) تو خدا کا اور یہ ہمارے شریکوں (یعنی بتوں) کا تو جو حصہ ان کے شریکوں کا ہوتا ہے وہ تو خدا کی طرف نہیں جا سکتا اور جو حصہ خدا کا ہوتا ہے وہ ان کے شریکوں کی طرف جا سکتا ہے یہ کیسا برا انصاف ہے
+**English (Yusuf Ali):** Out of what Allah hath produced in abundance in tilth and in cattle, they assigned Him a share: they say, according to their fancies: "This is for Allah, and this" - for our "partners"! but the share of their" partners "reacheth not Allah, whilst the share of Allah reacheth their "partners"! evil (and unjust) is their assignment!
 
 [Open on Quran.com](https://quran.com/6/136)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "These animals and crops are forbidden; no one may eat from them except whom we will," by their claim. And there are those [camels] whose backs are forbidden [by them] and those upon which the name of Allāh is not mentioned - [all of this] an invention of untruth about Him. He will punish them for what they were inventing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے خیال سے یہ بھی کہتے ہیں کہ یہ چارپائے اور کھیتی منع ہے اسے اس شخص کے سوا جسے ہم چاہیں کوئی نہ کھائے اور (بعض) چارپائے ایسے ہیں کہ ان کی پیٹ پر چڑھنا منع کر دیا گیا ہے اور بعض مویشی ایسے ہیں جن پر (ذبح کرتے وقت) خدا کا نام نہیں لیتے سب خدا پر جھوٹ ہے وہ عنقریب ان کو ان کے جھوٹ کا بدلہ دے گا
+**English (Yusuf Ali):** And they say that such and such cattle and crops are taboo, and none should eat of them except those whom - so they say - We wish; further, there are cattle forbidden to yoke or burden, and cattle on which, (at slaughter), the name of Allah is not pronounced; - inventions against Allah's name: soon will He requite them for their inventions.
 
 [Open on Quran.com](https://quran.com/6/138)
 
@@ -155,7 +155,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] David and Solomon, when they judged concerning the field - when the sheep of a people overran it [at night], and We were witness to their judgement.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور داؤد اور سلیمان (کا حال بھی سن لو کہ) جب وہ ایک کھیتی کا مقدمہ فیصلہ کرنے لگے جس میں کچھ لوگوں کی بکریاں رات کو چر گئی (اور اسے روند گئی) تھیں اور ہم ان کے فیصلے کے وقت موجود تھے
+**English (Yusuf Ali):** And remember David and Solomon, when they gave judgment in the matter of the field into which the sheep of certain people had strayed by night: We did witness their judgment.
 
 [Open on Quran.com](https://quran.com/21/78)
 
@@ -171,7 +171,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Whoever desires the harvest of the Hereafter - We increase for him in his harvest [i.e., reward]. And whoever desires the harvest [i.e., benefits] of this world - We give him thereof, but there is not for him in the Hereafter any share.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو شخص آخرت کی کھیتی کا خواستگار ہو اس کو ہم اس میں سے دیں گے۔ اور جو دنیا کی کھیتی کا خواستگار ہو اس کو ہم اس میں سے دے دیں گے۔ اور اس کا آخرت میں کچھ حصہ نہ ہوگا
+**English (Yusuf Ali):** To any that desires the tilth of the Hereafter, We give increase in his tilth, and to any that desires the tilth of this world, We grant somewhat thereof, but he has no share or lot in the Hereafter.
 
 [Open on Quran.com](https://quran.com/42/20)
 
@@ -187,7 +187,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Saying], "Go early to your crop if you would cut the fruit."
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم کو کاٹنا ہے تو اپنی کھیتی پر سویرے ہی جا پہنچو
+**English (Yusuf Ali):** "Go ye to your tilth (betimes) in the morning, if ye would gather the fruits."
 
 [Open on Quran.com](https://quran.com/68/22)
 

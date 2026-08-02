@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 40:64 · [[040 Ghafir]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is Allāh who made for you the earth a place of settlement and the sky a structure [i.e., ceiling] and formed you and perfected your forms and provided you with good things. That is Allāh, your Lord; then blessed is Allāh, Lord of the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے زمین کو تمہارے لئے ٹھیرنے کی جگہ اور آسمان کو چھت بنایا اور تمہاری صورتیں بنائیں اور صورتیں بھی خوب بنائیں اور تمہیں پاکیزہ چیزیں کھانے کو دیں۔ یہی خدا تمہارا پروردگار ہے۔ پس خدائے پروردگار عالم بہت ہی بابرکت ہے
+**English (Yusuf Ali):** It is Allah Who has made for you the earth as a resting place, and the sky as a canopy, and has given you shape- and made your shapes beautiful,- and has provided for you Sustenance, of things pure and good;- such is Allah your Lord. So Glory to Allah, the Lord of the Worlds!
 
 [Open on Quran.com](https://quran.com/40/64)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He created the heavens and earth in truth and formed you and perfected your forms; and to Him is the [final] destination.
 
-**Urdu (Fatah Muhammad Jalandhari):** اسی نے آسمانوں اور زمین کو مبنی برحکمت پیدا کیا اور اسی نے تمہاری صورتیں بنائیں اور صورتیں بھی پاکیزہ بنائیں۔ اور اسی کی طرف (تمہیں) لوٹ کر جانا ہے
+**English (Yusuf Ali):** He has created the heavens and the earth in just proportions, and has given you shape, and made your shapes beautiful: and to Him is the final Goal.
 
 [Open on Quran.com](https://quran.com/64/3)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In whatever form He willed has He assembled you.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس صورت میں چاہا تجھے جوڑ دیا
+**English (Yusuf Ali):** In whatever Form He wills, does He put thee together.
 
 [Open on Quran.com](https://quran.com/82/8)
 

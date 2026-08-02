@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:173 · [[003 Ali Imran]]
 
@@ -50,7 +50,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those to whom people [i.e., hypocrites] said, "Indeed, the people have gathered against you, so fear them." But it [merely] increased them in faith, and they said, "Sufficient for us is Allāh, and [He is] the best Disposer of affairs."
 
-**Urdu (Fatah Muhammad Jalandhari):** (جب) ان سے لوگوں نے آکر بیان کیا کہ کفار نے تمہارے (مقابلے کے) لئے لشکر کثیر) جمع کیا ہے تو ان سے ڈرو۔ تو ان کا ایمان اور زیادہ ہوگیا۔ اور کہنے لگے ہم کو خدا کافی ہے اور وہ بہت اچھا کارساز ہے
+**English (Yusuf Ali):** Men said to them: "A great army is gathering against you": And frightened them: But it (only) increased their Faith: They said: "For us Allah sufficeth, and He is the best disposer of affairs."
 
 [Open on Quran.com](https://quran.com/3/173)
 
@@ -66,7 +66,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "[We pledge] obedience." But when they leave you, a group of them spend the night determining to do other than what you say. But Allāh records what they plan by night. So leave them alone and rely upon Allāh. And sufficient is Allāh as Disposer of affairs.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ منہ سے تو کہتے ہیں کہ (آپ کی) فرمانبرداری (دل سے منظور ہے) لیکن جب تمہارے پاس سے چلے جاتے ہیں تو ان میں سے بعض لوگ رات کو تمہاری باتوں کے خلاف مشورے کرتے ہیں اور جو مشورے یہ کرتے ہیں خدا ان کو لکھ لیتا ہے تو ان کا کچھ خیال نہ کرو اور خدا پر بھروسہ رکھو اور خدا ہی کافی کارساز ہے
+**English (Yusuf Ali):** They have "Obedience" on their lips; but when they leave thee, a section of them Meditate all night on things very different from what thou tellest them. But Allah records their nightly (plots): So keep clear of them, and put thy trust in Allah, and enough is Allah as a disposer of affairs.
 
 [Open on Quran.com](https://quran.com/4/81)
 
@@ -82,7 +82,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Here you are - those who argue on their behalf in [this] worldly life - but who will argue with Allāh for them on the Day of Resurrection, or who will [then] be their representative?
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تم لوگ دنیا کی زندگی میں تو ان کی طرف سے بحث کر لیتے ہو قیامت کو ان کی طرف سے خدا کے ساتھ کون جھگڑے گا اور کون ان کا وکیل بنے گا؟
+**English (Yusuf Ali):** Ah! These are the sort of men on whose behalf ye may contend in this world; but who will contend with Allah on their behalf on the Day of Judgment, or who will carry their affairs through?
 
 [Open on Quran.com](https://quran.com/4/109)
 
@@ -98,7 +98,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to Allāh belongs whatever is in the heavens and whatever is on the earth. And sufficient is Allāh as Disposer of affairs.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (پھر سن رکھو کہ) جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب خدا ہی کا ہے اور خدا کارساز کافی ہے
+**English (Yusuf Ali):** Yea, unto Allah belong all things in the heavens and on earth, and enough is Allah to carry through all affairs.
 
 [Open on Quran.com](https://quran.com/4/132)
 
@@ -114,7 +114,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O People of the Scripture, do not commit excess in your religion or say about Allāh except the truth. The Messiah, Jesus the son of Mary, was but a messenger of Allāh and His word which He directed to Mary and a soul [created at a command] from Him. So believe in Allāh and His messengers. And do not say, "Three"; desist - it is better for you. Indeed, Allāh is but one God. Exalted is He above having a son. To Him belongs whatever is in the heavens and whatever is on the earth. And sufficient is Allāh as Disposer of affairs.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے اہل کتاب اپنے دین (کی بات) میں حد سے نہ بڑھو اور خدا کے بارے میں حق کے سوا کچھ نہ کہو۔ مسیح (یعنی) مریم کے بیٹے عیسیٰ (نہ خدا تھے نہ خدا کے بیٹے بلکہ) خدا کے رسول اور کا کلمہٴ (بشارت) تھے جو اس نے مریم کی طرف بھیجا تھا اور اس کی طرف سے ایک روح تھے تو خدا اوراس کے رسولوں پر ایمان لاؤ۔ اور (یہ) نہ کہو (کہ خدا) تین (ہیں۔ اس اعتقاد سے) باز آؤ کہ یہ تمہارے حق میں بہتر ہے۔ خدا ہی معبود واحد ہے اور اس سے پاک ہے کہ اس کے اولاد ہو۔ جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب اسی کا ہے۔ اور خدا ہی کارساز کافی ہے
+**English (Yusuf Ali):** O People of the Book! Commit no excesses in your religion: Nor say of Allah aught but the truth. Christ Jesus the son of Mary was (no more than) a messenger of Allah, and His Word, which He bestowed on Mary, and a spirit proceeding from Him: so believe in Allah and His messengers. Say not "Trinity": desist: it will be better for you: for Allah is one Allah: Glory be to Him: (far exalted is He) above having a son. To Him belong all things in the heavens and on earth. And enough is Allah as a Disposer of affairs.
 
 [Open on Quran.com](https://quran.com/4/171)
 
@@ -130,7 +130,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But your people have denied it while it is the truth. Say, "I am not over you a manager [i.e., authority]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس (قرآن) کو تمہاری قوم نے جھٹلایا حالانکہ وہ سراسر حق ہے۔ کہہ دو کہ میں تمہارا داروغہ نہیں ہوں
+**English (Yusuf Ali):** But thy people reject this, though it is the truth. Say: "Not mine is the responsibility for arranging your affairs;
 
 [Open on Quran.com](https://quran.com/6/66)
 
@@ -146,7 +146,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is Allāh, your Lord; there is no deity except Him, the Creator of all things, so worship Him. And He is Disposer of all things.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی (اوصاف رکھنے والا) خدا تمہارا پروردگار ہے۔ اس کے سوا کوئی معبود نہیں۔ (وہی) ہر چیز کا پیداکرنے والا (ہے) تو اسی کی عبادت کرو۔ اور وہ ہر چیز کا نگراں ہے
+**English (Yusuf Ali):** That is Allah, your Lord! there is no god but He, the Creator of all things: then worship ye Him: and He hath power to dispose of all affairs.
 
 [Open on Quran.com](https://quran.com/6/102)
 
@@ -162,7 +162,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if Allāh had willed, they would not have associated. And We have not appointed you over them as a guardian, nor are you a manager over them.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا چاہتا تو یہ لوگ شرک نہ کرتے۔ اور (اے پیغمبر!) ہم نے تم کو ان پر نگہبان مقرر نہیں کیا۔ اور نہ تم ان کے داروغہ ہو
+**English (Yusuf Ali):** If it had been Allah's plan, they would not have taken false gods: but We made thee not one to watch over their doings, nor art thou set over them to dispose of their affairs.
 
 [Open on Quran.com](https://quran.com/6/107)
 
@@ -178,7 +178,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O mankind, the truth has come to you from your Lord, so whoever is guided is only guided for [the benefit of] his soul, and whoever goes astray only goes astray [in violation] against it. And I am not over you a manager."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ لوگو تمہارے پروردگار کے ہاں سے تمہارے پاس حق آچکا ہے تو جو کوئی ہدایت حاصل کرتا ہے تو ہدایت سے اپنے ہی حق میں بھلائی کرتا ہے۔ اور جو گمراہی اختیار کرتا ہے تو گمراہی سے اپنا ہی نقصان کرتا ہے۔ اور میں تمہارا وکیل نہیں ہوں
+**English (Yusuf Ali):** Say: "O ye men! Now Truth hath reached you from your Lord! those who receive guidance, do so for the good of their own souls; those who stray, do so to their own loss: and I am not (set) over you to arrange your affairs."
 
 [Open on Quran.com](https://quran.com/10/108)
 
@@ -194,7 +194,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then would you possibly leave [out] some of what is revealed to you, or is your breast constrained by it because they say, "Why has there not been sent down to him a treasure or come with him an angel?" But you are only a warner. And Allāh is Disposer of all things.
 
-**Urdu (Fatah Muhammad Jalandhari):** شاید تم کچھ چیز وحی میں سے جو تمہارے پاس آتی ہے چھوڑ دو اور اس (خیال) سے کہ تمہارا دل تنگ ہو کہ (کافر) یہ کہنے لگیں کہ اس پر کوئی خزانہ کیوں نہ نازل ہوا یا اس کے ساتھ کوئی فرشتہ کیوں نہیں آیا۔ اے محمدﷺ! تم تو صرف نصیحت کرنے والے ہو۔ اور خدا ہر چیز کا نگہبان ہے
+**English (Yusuf Ali):** Perchance thou mayest (feel the inclination) to give up a part of what is revealed unto thee, and thy heart feeleth straitened lest they say, "Why is not a treasure sent down unto him, or why does not an angel come down with him?" But thou art there only to warn! It is Allah that arrangeth all affairs!
 
 [Open on Quran.com](https://quran.com/11/12)
 

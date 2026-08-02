@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:117 · [[007 Al-Araf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We inspired to Moses, "Throw your staff," and at once it devoured what they were falsifying.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اس وقت) ہم نے موسیٰ کی طرف وحی بھیجی کہ تم بھی اپنی لاٹھی ڈال دو۔ وہ فوراً (سانپ بن کر) جادوگروں کے بنائے ہوئے سانپوں کو (ایک ایک کرکے) نگل جائے گی
+**English (Yusuf Ali):** We put it into Moses's mind by inspiration: "Throw (now) thy rod": and behold! it swallows up straight away all the falsehoods which they fake!
 
 [Open on Quran.com](https://quran.com/7/117)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And throw what is in your right hand; it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will not succeed wherever he is."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو چیز (یعنی لاٹھی) تمہارے داہنے ہاتھ میں ہے اسے ڈال دو کہ جو کچھ انہوں نے بنایا ہے اس کو نگل جائے گی۔ جو کچھ انہوں نے بنایا ہے (یہ تو) جادوگروں کے ہتھکنڈے ہیں اور جادوگر جہاں جائے فلاح نہیں پائے گا
+**English (Yusuf Ali):** "Throw that which is in thy right hand: Quickly will it swallow up that which they have faked what they have faked is but a magician's trick: and the magician thrives not, (no matter) where he goes."
 
 [Open on Quran.com](https://quran.com/20/69)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then Moses threw his staff, and at once it devoured what they falsified.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر موسیٰ نے اپنی لاٹھی ڈالی تو وہ ان چیزوں کو جو جادوگروں نے بنائی تھیں یکایک نگلنے لگی
+**English (Yusuf Ali):** Then Moses threw his rod, when, behold, it straightway swallows up all the falsehoods which they fake!
 
 [Open on Quran.com](https://quran.com/26/45)
 

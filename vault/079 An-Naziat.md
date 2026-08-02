@@ -14,31 +14,31 @@ Those who drag forth · 46 ayahs
 
 ## Words in this surah (graph)
 
-- [[DHY - its brightness]] — `ضُحًى` · its brightness
-- [[kbrY - greatest]] — `كُبْرَى` · greatest
 - [[TgY - has transgressed]] — `طَغَى` · has transgressed
-- [[bnY - children]] — `بُنَىّ` · children
-- [[qAl - say]] — `قالَ` · say
-- [[mA' - water]] — `ماء` · water
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[bSr - vision]] — `بَصَر` · vision
-- [[s>l - ask]] — `سَأَلَ` · ask
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[jA' - came them]] — `جاءَ` · came them
-- [[krp - return]] — `كَرَّة` · return
-- [[dnyA - world]] — `دُنْيا` · world
-- [[<nsAn - man]] — `إِنسان` · man
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[wAHdp - single]] — `واحِدَة` · single
-- [[allah - God]] — `الله` · God
-- [[qlb - hearts]] — `قَلْب` · hearts
-- [[Avr - but prefer]] — `آثَرَ` · but prefer
-- [[hwA' - desire]] — `هَواء` · desire
-- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[kbrY - greatest]] — `كُبْرَى` · greatest
+- [[DHY - its brightness]] — `ضُحًى` · its brightness
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
 - [[wAd - valley]] — `واد` · valley
-- [[>rD - earth]] — `أَرْض` · earth
+- [[lyl - night]] — `لَيْل` · night
+- [[wAHdp - single]] — `واحِدَة` · single
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[xA$E - humbled]] — `خاشِع` · humbled
+- [[nAdY - he called]] — `نادَى` · he called
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[>mr - command]] — `أَمَرَ` · command
+- [[Avr - but prefer]] — `آثَرَ` · but prefer
+- [[mA' - water]] — `ماء` · water
+- [[>wl - first]] — `أَوَّل` · first
+- [[jA' - came them]] — `جاءَ` · came them
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[rb - lord]] — `رَبّ` · lord
+- [[xAf - fear]] — `خافَ` · fear
+- [[>ElY - highest]] — `أَعْلَى` · highest
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[mtAE - enjoyment]] — `مَتاع` · enjoyment
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[mn*r - warners]] — `مُنذِر` · warners
+- [[lbv - you remained]] — `لَبِثَ` · you remained
 
 ## Roots
 

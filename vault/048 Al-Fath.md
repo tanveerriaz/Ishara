@@ -14,31 +14,31 @@ The Victory · 29 ayahs
 
 ## Words in this surah (graph)
 
-- [[mxlf - remained behind]] — `مُخَلَّف` · remained behind
 - [[skynp - tranquility]] — `سَكِينَة` · tranquility
-- [[>ErAb - bedouins]] — `أَعْراب` · bedouins
+- [[mxlf - remained behind]] — `مُخَلَّف` · remained behind
 - [[kvyrp - many]] — `كَثِيرَة` · many
-- [[bAyE - pledging you]] — `بايَعْ` · pledging you
 - [[kf - restrain]] — `كَفَّ` · restrain
-- [[sA' - evil]] — `ساءَ` · evil
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[EZym - great]] — `عَظِيم` · great
-- [[dEA - call]] — `دَعا` · call
-- [[Anqlb - turns back]] — `انقَلَبَ` · turns back
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[>ErAb - bedouins]] — `أَعْراب` · bedouins
+- [[bAyE - pledging you]] — `بايَعْ` · pledging you
+- [[Hsn - good]] — `حُسْن` · good
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[AstwY - equal]] — `اسْتَوَى` · equal
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[yd - hands]] — `يَد` · hands
+- [[n*yr - warner]] — `نَذِير` · warner
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[r>s - heads]] — `رَأْس` · heads
+- [[dEA - call]] — `دَعا` · call
+- [[qbl - before]] — `قَبْل` · before
+- [[qAtl - fight]] — `قاتَلَ` · fight
+- [[sjwd - prostrate]] — `سُجُود` · prostrate
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[wjh - faces]] — `وَجْه` · faces
+- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
+- [[qdr - restricts]] — `قَدَر` · restricts
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[gyr - without]] — `غَيْر` · without
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[yd - hands]] — `يَد` · hands
+- [[lys - not]] — `لَيْسَ` · not
 
 ## Roots
 

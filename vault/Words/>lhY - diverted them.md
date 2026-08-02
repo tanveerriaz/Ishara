@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 15:3 · [[015 Al-Hijr]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Let them eat and enjoy themselves and be diverted by [false] hope, for they are going to know.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمد) ان کو اُن کے حال پر رہنے دو کہ کھالیں اور فائدے اُٹھالیں اور (طول) امل ان کو دنیا میں مشغول کئے رہے عنقریب ان کو (اس کا انجام) معلوم ہو جائے گا
+**English (Yusuf Ali):** Leave them alone, to enjoy (the good things of this life) and to please themselves: let (false) hope amuse them: soon will knowledge (undeceive them).
 
 [Open on Quran.com](https://quran.com/15/3)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Are] men whom neither commerce nor sale distracts from the remembrance of Allāh and performance of prayer and giving of zakāh. They fear a Day in which the hearts and eyes will [fearfully] turn about -
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی ایسے) لوگ جن کو خدا کے ذکر اور نماز پڑھنے اور زکوٰة دینے سے نہ سوداگری غافل کرتی ہے نہ خرید وفروخت۔ وہ اس دن سے جب دل (خوف اور گھبراہٹ کے سبب) الٹ جائیں گے اور آنکھیں (اوپر کو چڑھ جائیں گی) ڈرتے ہیں
+**English (Yusuf Ali):** By men whom neither traffic nor merchandise can divert from the Remembrance of Allah, nor from regular Prayer, nor from the practice of regular Charity: Their (only) fear is for the Day when hearts and eyes will be transformed (in a world wholly new),-
 
 [Open on Quran.com](https://quran.com/24/37)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, let not your wealth and your children divert you from the remembrance of Allāh. And whoever does that - then those are the losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! تمہارا مال اور اولاد تم کو خدا کی یاد سے غافل نہ کردے۔ اور جو ایسا کرے گا تو وہ لوگ خسارہ اٹھانے والے ہیں
+**English (Yusuf Ali):** O ye who believe! Let not your riches or your children divert you from the remembrance of Allah. If any act thus, the loss is their own.
 
 [Open on Quran.com](https://quran.com/63/9)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Competition in [worldly] increase diverts you
 
-**Urdu (Fatah Muhammad Jalandhari):** (لوگو) تم کو(مال کی) بہت سی طلب نے غافل کر دیا
+**English (Yusuf Ali):** The mutual rivalry for piling up (the good things of this world) diverts you (from the more serious things),
 
 [Open on Quran.com](https://quran.com/102/1)
 

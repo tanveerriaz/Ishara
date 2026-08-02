@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:135 · [[002 Al-Baqarah]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They say, "Be Jews or Christians [so] you will be guided." Say, "Rather, [we follow] the religion of Abraham, inclining toward truth, and he was not of the polytheists."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (یہودی اور عیسائی) کہتے ہیں کہ یہودی یا عیسائی ہو جاؤ تو سیدھے رستے پر لگ جاؤ۔ (اے پیغمبر ان سے) کہہ دو، (نہیں) بلکہ (ہم) دین ابراہیم (اختیار کئے ہوئے ہیں) جو ایک خدا کے ہو رہے تھے اور مشرکوں میں سے نہ تھے
+**English (Yusuf Ali):** They say: "Become Jews or Christians if ye would be guided (To salvation)." Say thou: "Nay! (I would rather) the Religion of Abraham the True, and he joined not gods with Allah."
 
 [Open on Quran.com](https://quran.com/2/135)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allāh]. And he was not of the polytheists.
 
-**Urdu (Fatah Muhammad Jalandhari):** ابراہیم نہ تو یہودی تھے اور نہ عیسائی بلکہ سب سے بے تعلق ہو کر ایک (خدا) کے ہو رہے تھے اور اسی کے فرماں بردار تھے اور مشرکوں میں نہ تھے
+**English (Yusuf Ali):** Abraham was not a Jew nor yet a Christian; but he was true in Faith, and bowed his will to Allah's (Which is Islam), and he joined not gods with Allah.
 
 [Open on Quran.com](https://quran.com/3/67)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Allāh has told the truth. So follow the religion of Abraham, inclining toward truth; and he was not of the polytheists."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ خدا نے سچ فرمایا دیا پس دین ابراہیم کی پیروی کرو جو سب سے بےتعلق ہو کر ایک (خدا) کے ہو رہے تھے اور مشرکوں سے نہ تھے
+**English (Yusuf Ali):** Say: "Allah speaketh the Truth: follow the religion of Abraham, the sane in faith; he was not of the Pagans."
 
 [Open on Quran.com](https://quran.com/3/95)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And who is better in religion than one who submits himself to Allāh while being a doer of good and follows the religion of Abraham, inclining toward truth? And Allāh took Abraham as an intimate friend.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس شخص سے کس کا دین اچھا ہوسکتا ہے جس نے حکم خدا کو قبول کیا اور وہ نیکوکار بھی ہے۔ اور ابراہیم کے دین کا پیرو ہے جو یکسوں (مسلمان ) تھے اور خدا نے ابراہیم کو اپنا دوست بنایا تھا
+**English (Yusuf Ali):** Who can be better in religion than one who submits his whole self to Allah, does good, and follows the way of Abraham the true in Faith? For Allah did take Abraham for a friend.
 
 [Open on Quran.com](https://quran.com/4/125)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allāh."
 
-**Urdu (Fatah Muhammad Jalandhari):** میں نے سب سے یکسو ہو کر اپنے تئیں اسی ذات کی طرف متوجہ کیا جس نے آسمانوں اور زمین کو پیدا کیا ہے اور میں مشرکوں میں سے نہیں ہوں
+**English (Yusuf Ali):** "For me, I have set my face, firmly and truly, towards Him Who created the heavens and the earth, and never shall I give partners to Allah."
 
 [Open on Quran.com](https://quran.com/6/79)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Indeed, my Lord has guided me to a straight path - a correct religion - the way of Abraham, inclining toward truth. And he was not among those who associated others with Allāh."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ مجھے میرے پروردگار نے سیدھا رستہ دکھا دیا ہے (یعنی دین صحیح) مذہب ابراہیم کا جو ایک (خدا) ہی کی طرف کے تھے اور مشرکوں میں سے نہ تھے
+**English (Yusuf Ali):** Say: "Verily, my Lord hath guided me to a way that is straight,- a religion of right,- the path (trod) by Abraham the true in Faith, and he (certainly) joined not gods with Allah."
 
 [Open on Quran.com](https://quran.com/6/161)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [commanded], 'Direct your face [i.e., self] toward the religion, inclining to truth, and never be of those who associate others with Allāh;
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ (اے محمد سب سے) یکسو ہو کر دین (اسلام) کی پیروی کئے جاؤ۔ اور مشرکوں میں ہرگز نہ ہونا
+**English (Yusuf Ali):** "And further (thus): 'set thy face towards religion with true piety, and never in any wise be of the Unbelievers;
 
 [Open on Quran.com](https://quran.com/10/105)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Abraham was a [comprehensive] leader, devoutly obedient to Allāh, inclining toward truth, and he was not of those who associate others with Allāh.
 
-**Urdu (Fatah Muhammad Jalandhari):** بےشک ابراہیم (لوگوں کے) امام اور خدا کے فرمانبردار تھے۔ جو ایک طرف کے ہو رہے تھے اور مشرکوں میں سے نہ تھے
+**English (Yusuf Ali):** Abraham was indeed a model, devoutly obedient to Allah, (and) true in Faith, and he joined not gods with Allah:
 
 [Open on Quran.com](https://quran.com/16/120)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We revealed to you, [O Muḥammad], to follow the religion of Abraham, inclining toward truth; and he was not of those who associate with Allāh.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے تمہاری طرف وحی بھیجی کہ دین ابراہیم کی پیروی اختیار کرو جو ایک طرف کے ہو رہے تھے اور مشرکوں میں سے نہ تھے
+**English (Yusuf Ali):** So We have taught thee the inspired (Message), "Follow the ways of Abraham the True in Faith, and he joined not gods with Allah."
 
 [Open on Quran.com](https://quran.com/16/123)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Inclining [only] to Allāh, not associating [anything] with Him. And he who associates with Allāh - it is as though he had fallen from the sky and was snatched by the birds or the wind carried him down into a remote place.
 
-**Urdu (Fatah Muhammad Jalandhari):** صرف ایک خدا کے ہو کر اس کے ساتھ شریک نہ ٹھیرا کر۔ اور جو شخص (کسی کو) خدا کے ساتھ شریک مقرر کرے تو وہ گویا ایسا ہے جیسے آسمان سے گر پڑے پھر اس کو پرندے اُچک لے جائیں یا ہوا کسی دور جگہ اُڑا کر پھینک دے
+**English (Yusuf Ali):** Being true in faith to Allah, and never assigning partners to Him: if anyone assigns partners to Allah, is as if he had fallen from heaven and been snatched up by birds, or the wind had swooped (like a bird on its prey) and thrown him into a far-distant place.
 
 [Open on Quran.com](https://quran.com/22/31)
 

@@ -14,31 +14,31 @@ The Night · 21 ayahs
 
 ## Words in this surah (graph)
 
-- [[lyl - night]] — `لَيْل` · night
-- [[sEy - effort]] — `سَعْي` · effort
-- [[>$qY - wretched one]] — `أَشْقَى` · wretched one
-- [[>wl - first]] — `أَوَّل` · first
-- [[AtqY - fear]] — `اتَّقَى` · fear
-- [[mAl - wealth]] — `مال` · wealth
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[jzY - we recompense]] — `جَزَى` · we recompense
 - [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[>nvY - female]] — `أُنثَى` · female
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[bxl - withhold]] — `بَخِلَ` · withhold
+- [[nhAr - day]] — `نَهار` · day
+- [[>$qY - wretched one]] — `أَشْقَى` · wretched one
 - [[nEmp - favor]] — `نِعْمَة` · favor
 - [[nAr - fire]] — `نار` · fire
+- [[>ElY - highest]] — `أَعْلَى` · highest
+- [[lyl - night]] — `لَيْل` · night
+- [[Axr - hereafter]] — `آخِر` · hereafter
 - [[wjh - faces]] — `وَجْه` · faces
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[>Hd - anyone]] — `أَحَد` · anyone
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[>n*r - warn]] — `أَنذَرَ` · warn
 - [[HsnY - best]] — `حُسْنَى` · best
-- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
-- [[Sdq - truth]] — `صَدَقَ` · truth
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[>ETY - they given]] — `أَعْطَى` · they given
-- [[$tY - diverse]] — `شَتَّى` · diverse
+- [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
+- [[ysr - ease]] — `يُسْر` · ease
 - [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[$tY - diverse]] — `شَتَّى` · diverse
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[AtqY - fear]] — `اتَّقَى` · fear
+- [[bxl - withhold]] — `بَخِلَ` · withhold
+- [[mAl - wealth]] — `مال` · wealth
+- [[End - near]] — `عِند` · near
+- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
 
 ## Roots
 

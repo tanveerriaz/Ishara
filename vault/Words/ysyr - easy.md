@@ -35,7 +35,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:30 · [[004 An-Nisa]]
 
@@ -49,7 +49,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever does that in aggression and injustice - then We will drive him into a Fire. And that, for Allāh, is [always] easy.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو تعدی اور ظلم سے ایسا کرے گا ہم اس کو عنقریب جہنم میں داخل کریں گے اور یہ خدا کو آسان ہے
+**English (Yusuf Ali):** If any do that in rancour and injustice,- soon shall We cast them into the Fire: And easy it is for Allah.
 
 [Open on Quran.com](https://quran.com/4/30)
 
@@ -65,7 +65,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Except the path of Hell; they will abide therein forever. And that, for Allāh, is [always] easy.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں دوزخ کا رستہ جس میں وہ ہمیشہ (جلتے) رہیں گے۔ اور یہ (بات) خدا کو آسان ہے
+**English (Yusuf Ali):** Except the way of Hell, to dwell therein for ever. And this to Allah is easy.
 
 [Open on Quran.com](https://quran.com/4/169)
 
@@ -81,7 +81,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when they opened their baggage, they found their merchandise returned to them. They said, "O our father, what [more] could we desire? This is our merchandise returned to us. And we will obtain supplies [i.e., food] for our family and protect our brother and obtain an increase of a camel's load; that is an easy measurement."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب انہوں نے اپنا اسباب کھولا تو دیکھا کہ ان کا سرمایہ واپس کر دیا گیا ہے۔ کہنے لگے ابّا ہمیں (اور) کیا چاہیئے (دیکھیے) یہ ہماری پونجی بھی ہمیں واپس کر دی گئی ہے۔ اب ہم اپنے اہل وعیال کے لیے پھر غلّہ لائیں گے اور اپنے بھائی کی نگہبانی کریں گے اور ایک بار شتر زیادہ لائیں گے (کہ) یہ غلّہ جو ہم لائے ہیں تھوڑا ہے
+**English (Yusuf Ali):** Then when they opened their baggage, they found their stock-in-trade had been returned to them. They said: "O our father! What (more) can we desire? this our stock-in-trade has been returned to us: so we shall get (more) food for our family; We shall take care of our brother; and add (at the same time) a full camel's load (of grain to our provisions). This is but a small quantity.
 
 [Open on Quran.com](https://quran.com/12/65)
 
@@ -97,7 +97,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you not know that Allāh knows what is in the heaven and earth? Indeed, that is in a Record. Indeed that, for Allāh, is easy.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نہیں جانتے کہ جو کچھ آسمان اور زمین میں ہے خدا اس کو جانتا ہے۔ یہ (سب کچھ) کتاب میں (لکھا ہوا) ہے۔ بےشک یہ سب خدا کو آسان ہے
+**English (Yusuf Ali):** Knowest thou not that Allah knows all that is in heaven and on earth? Indeed it is all in a Record, and that is easy for Allah.
 
 [Open on Quran.com](https://quran.com/22/70)
 
@@ -113,7 +113,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We [retract and] hold it with Us for a brief grasp.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اس کو ہم آہستہ آہستہ اپنی طرف سمیٹ لیتے ہیں
+**English (Yusuf Ali):** Then We draw it in towards Ourselves,- a contraction by easy stages.
 
 [Open on Quran.com](https://quran.com/25/46)
 
@@ -129,7 +129,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have they not considered how Allāh begins creation and then repeats it? Indeed that, for Allāh, is easy.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا اُنہوں نے نہیں دیکھا کہ خدا کس طرح خلقت کو پہلی بار پیدا کرتا پھر (کس طرح) اس کو بار بار پیدا کرتا رہتا ہے۔ یہ خدا کو آسان ہے
+**English (Yusuf Ali):** See they not how Allah originates creation, then repeats it: truly that is easy for Allah.
 
 [Open on Quran.com](https://quran.com/29/19)
 
@@ -145,7 +145,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if they had been entered upon from all its [surrounding] regions and fitnah [i.e., disbelief] had been demanded of them, they would have done it and not hesitated over it except briefly.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر (فوجیں) اطراف مدینہ سے ان پر آ داخل ہوں پھر اُن سے خانہ جنگی کے لئے کہا جائے تو (فوراً) کرنے لگیں اور اس کے لئے بہت ہی کم توقف کریں
+**English (Yusuf Ali):** And if an entry had been effected to them from the sides of the (city), and they had been incited to sedition, they would certainly have brought it to pass, with none but a brief delay!
 
 [Open on Quran.com](https://quran.com/33/14)
 
@@ -161,7 +161,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indisposed toward you. And when fear comes, you see them looking at you, their eyes revolving like one being overcome by death. But when fear departs, they lash you with sharp tongues, indisposed toward [any] good. Those have not believed, so Allāh has rendered their deeds worthless, and ever is that, for Allāh, easy.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ اس لئے کہ) تمہارے بارے میں بخل کرتے ہیں۔ پھر جب ڈر (کا وقت) آئے تو تم ان کو دیکھو کہ تمہاری طرف دیکھ رہے ہیں (اور) اُن کی آنکھیں (اسی طرح) پھر رہی ہیں جیسے کسی کو موت سے غشی آرہی ہو۔ پھر جب خوف جاتا رہے تو تیز زبانوں کے ساتھ تمہارے بارے میں زبان درازی کریں اور مال میں بخل کریں۔ یہ لوگ (حقیقت میں) ایمان لائے ہی نہ تھے تو خدا نے ان کے اعمال برباد کر دیئے۔ اور یہ خدا کو آسان تھا
+**English (Yusuf Ali):** Covetous over you. Then when fear comes, thou wilt see them looking to thee, their eyes revolving, like (those of) one over whom hovers death: but when the fear is past, they will smite you with sharp tongues, covetous of goods. Such men have no faith, and so Allah has made their deeds of none effect: and that is easy for Allah.
 
 [Open on Quran.com](https://quran.com/33/19)
 
@@ -177,7 +177,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O wives of the Prophet, whoever of you should commit a clear immorality - for her the punishment would be doubled two fold, and ever is that, for Allāh, easy.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر کی بیویو تم میں سے جو کوئی صریح ناشائستہ (الفاظ کہہ کر رسول الله کو ایذا دینے کی) حرکت کرے گی۔ اس کو دونی سزا دی جائے گی۔ اور یہ (بات) خدا کو آسان ہے
+**English (Yusuf Ali):** O Consorts of the Prophet! If any of you were guilty of evident unseemly conduct, the Punishment would be doubled to her, and that is easy for Allah.
 
 [Open on Quran.com](https://quran.com/33/30)
 
@@ -193,7 +193,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Allāh created you from dust, then from a sperm-drop; then He made you mates. And no female conceives nor does she give birth except with His knowledge. And no aged person is granted [additional] life nor is his lifespan lessened but that it is in a register. Indeed, that for Allāh is easy.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تم کو مٹی سے پیدا کیا پھر نطفے سے پھر تم کو جوڑا جوڑا بنا دیا۔ اور کوئی عورت نہ حاملہ ہوتی ہے اور نہ جنتی ہے مگر اس کے علم سے۔ اور نہ کسی بڑی عمر والے کو عمر زیادہ دی جاتی ہے اور نہ اس کی عمر کم کی جاتی ہے مگر (سب کچھ) کتاب میں (لکھا ہوا) ہے۔ بےشک یہ خدا کو آسان ہے
+**English (Yusuf Ali):** And Allah did create you from dust; then from a sperm-drop; then He made you in pairs. And no female conceives, or lays down (her load), but with His knowledge. Nor is a man long-lived granted length of days, nor is a part cut off from his life, but is in a Decree (ordained). All this is easy to Allah.
 
 [Open on Quran.com](https://quran.com/35/11)
 

@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 16:22 · [[016 An-Nahl]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Your god is one God. But those who do not believe in the Hereafter - their hearts are disapproving, and they are arrogant.
 
-**Urdu (Fatah Muhammad Jalandhari):** تمہارا معبود تو اکیلا خدا ہے۔ تو جو آخرت پر ایمان نہیں رکھتے ان کے دل انکار کر رہے ہیں اور وہ سرکش ہو رہے ہیں
+**English (Yusuf Ali):** Your Allah is one Allah: as to those who believe not in the Hereafter, their hearts refuse to know, and they are arrogant.
 
 [Open on Quran.com](https://quran.com/16/22)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Assuredly, Allāh knows what they conceal and what they declare. Indeed, He does not like the arrogant.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ جو کچھ چھپاتے ہیں اور جو ظاہر کرتے ہیں خدا اس کو ضرور جانتا ہے۔ وہ سرکشوں کو ہرگز پسند نہیں کرتا
+**English (Yusuf Ali):** Undoubtedly Allah doth know what they conceal, and what they reveal: verily He loveth not the arrogant.
 
 [Open on Quran.com](https://quran.com/16/23)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In arrogance regarding it, conversing by night, speaking evil.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان سے سرکشی کرتے، کہانیوں میں مشغول ہوتے اور بیہودہ بکواس کرتے تھے
+**English (Yusuf Ali):** "In arrogance: talking nonsense about the (Qur'an), like one telling fables by night."
 
 [Open on Quran.com](https://quran.com/23/67)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when Our verses are recited to him, he turns away arrogantly as if he had not heard them, as if there was in his ears deafness. So give him tidings of a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب اس کو ہماری آیتیں سنائی جاتی ہیں تو اکڑ کر منہ پھیر لیتا ہے گویا اُن کو سنا ہی نہیں جیسے اُن کے کانوں میں ثقل ہے تو اس کو درد دینے والے عذاب کی خوشخبری سنادو
+**English (Yusuf Ali):** When Our Signs are rehearsed to such a one, he turns away in arrogance, as if he heard them not, as if there were deafness in both his ears: announce to him a grievous Penalty.
 
 [Open on Quran.com](https://quran.com/31/7)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who hears the verses of Allāh recited to him, then persists arrogantly as if he had not heard them. So give him tidings of a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** (کہ) خدا کی آیتیں اس کو پڑھ کر سنائی جاتی ہیں تو ان کو سن تو لیتا ہے (مگر) پھر غرور سے ضد کرتا ہے کہ گویا ان کو سنا ہی نہیں۔ سو ایسے شخص کو دکھ دینے والے عذاب کی خوشخبری سنا دو
+**English (Yusuf Ali):** He hears the Signs of Allah rehearsed to him, yet is obstinate and lofty, as if he had not heard them: then announce to him a Penalty Grievous!
 
 [Open on Quran.com](https://quran.com/45/8)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when it is said to them, "Come, the Messenger of Allāh will ask forgiveness for you," they turn their heads aside and you see them evading while they are arrogant.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان سے کہا جائے کہ آؤ رسول خدا تمہارے لئے مغفرت مانگیں تو سر ہلا دیتے ہیں اور تم ان کو دیکھو کہ تکبر کرتے ہوئے منہ پھیر لیتے ہیں
+**English (Yusuf Ali):** And when it is said to them, "Come, the Messenger of Allah will pray for your forgiveness", they turn aside their heads, and thou wouldst see them turning away their faces in arrogance.
 
 [Open on Quran.com](https://quran.com/63/5)
 

@@ -15,30 +15,30 @@ The Star · 62 ayahs
 ## Words in this surah (graph)
 
 - [[hwY - desire]] — `هَوَى` · desire
-- [[smY - name them]] — `سَمَّى` · name them
 - [[tmAr - argue]] — `تُمارِ` · argue
-- [[sbyl - way]] — `سَبِيل` · way
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[wzr - burden]] — `وِزْر` · burden
-- [[AlA' - favors]] — `آلاء` · favors
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[gyb - unseen]] — `غَيْب` · unseen
-- [[bSr - vision]] — `بَصَر` · vision
+- [[smY - name them]] — `سَمَّى` · name them
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
-- [[HsnY - best]] — `حُسْنَى` · best
-- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[n*yr - warner]] — `نَذِير` · warner
+- [[qbl - before]] — `قَبْل` · before
+- [[qwp - strength]] — `قُوَّة` · strength
+- [[>gnY - availed]] — `أَغْنَى` · availed
 - [[Dl - lost]] — `ضَلَّ` · lost
-- [[AstwY - equal]] — `اسْتَوَى` · equal
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[bkt - weeping]] — `بَكَتْ` · weeping
-- [[jA' - came them]] — `جاءَ` · came them
-- [[kbyrp - great]] — `كَبِيرَة` · great
+- [[zkY - purify them]] — `زَكَّى` · purify them
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[SHf - scriptures]] — `صُحُف` · scriptures
+- [[lys - not]] — `لَيْسَ` · not
 - [[n$>p - creation]] — `نَشْأَة` · creation
+- [[njm - stars]] — `نَجْم` · stars
+- [[bqy - remained]] — `بَقِيَ` · remained
+- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
+- [[Eml - do]] — `عَمِلَ` · do
+- [[DHkt - laugh]] — `ضَحِكَتْ` · laugh
+- [[>dnY - nearer]] — `أَدْنَى` · nearer
+- [[Ejb - wonder]] — `عَجِبُ` · wonder
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[wAsE - all-encompassing]] — `واسِع` · all-encompassing
+- [[>wl - first]] — `أَوَّل` · first
 
 ## Roots
 

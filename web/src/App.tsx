@@ -164,8 +164,8 @@ export default function App() {
       </div>
 
       <footer className="footer">
-        Sources: Arabic (Quran.com / Tanzil), Sahih International, Fatah Muhammad Jalandhari, Quranic Arabic
-        Corpus, Lane lexicon. Study tool — not a fatwa source. · Curious mind. Builder mode! 🇸🇬
+        Sources: Arabic (Quran.com / Tanzil), Sahih International, Abdullah Yusuf Ali, Quranic Arabic Corpus,
+        Lane lexicon. Study tool — not a fatwa source. · Curious mind. Builder mode! 🇸🇬
       </footer>
     </div>
   )

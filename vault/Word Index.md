@@ -15,8 +15,8 @@ Cross-surah word hubs only (fast vault). Open a word → **Local graph**.
 - [[Elm - know]] — `عَلِمَ` · know · 77 surahs
 - [[smA' - heavens]] — `سَماء` · heavens · 76 surahs
 - [[xlq - creation]] — `خَلَقَ` · creation · 74 surahs
-- [[kl - every]] — `كُلّ` · every · 73 surahs
 - [[Amn - believe]] — `آمَنَ` · believe · 73 surahs
+- [[kl - every]] — `كُلّ` · every · 73 surahs
 - [[r>Y - you see]] — `رَأَى` · you see · 70 surahs
 - [[E*Ab - punishment]] — `عَذاب` · punishment · 68 surahs
 - [[jnp - gardens]] — `جَنَّة` · gardens · 67 surahs
@@ -25,19 +25,19 @@ Cross-surah word hubs only (fast vault). Open a word → **Local graph**.
 - [[$Y' - thing]] — `شَىْء` · thing · 65 surahs
 - [[kfr - disbelieved]] — `كَفَرَ` · disbelieved · 64 surahs
 - [[>tY - comes them]] — `أَتَى` · comes them · 64 surahs
-- [[jA' - came them]] — `جاءَ` · came them · 62 surahs
-- [[k*b - denied]] — `كَذَبَ` · denied · 62 surahs
 - [[nfs - themselves]] — `نَفْس` · themselves · 62 surahs
+- [[jA' - came them]] — `جاءَ` · came them · 62 surahs
 - [[qbl - before]] — `قَبْل` · before · 62 surahs
+- [[k*b - denied]] — `كَذَبَ` · denied · 62 surahs
 - [[>mr - command]] — `أَمَرَ` · command · 61 surahs
-- [[Axr - hereafter]] — `آخِر` · hereafter · 61 surahs
-- [[rswl - messenger]] — `رَسُول` · messenger · 61 surahs
 - [[End - near]] — `عِند` · near · 61 surahs
+- [[rswl - messenger]] — `رَسُول` · messenger · 61 surahs
+- [[Axr - hereafter]] — `آخِر` · hereafter · 61 surahs
 - [[*kr - remember]] — `ذَكَرَ` · remember · 60 surahs
 - [[byn - between them]] — `بَيْن` · between them · 59 surahs
-- [[Hq - truth]] — `حَقّ` · truth · 59 surahs
-- [[kAfr - disbelievers]] — `كافِر` · disbelievers · 59 surahs
 - [[Ayp - signs]] — `آيَة` · signs · 59 surahs
+- [[kAfr - disbelievers]] — `كافِر` · disbelievers · 59 surahs
+- [[Hq - truth]] — `حَقّ` · truth · 59 surahs
 - [[AtY - give]] — `آتَى` · give · 58 surahs
 - [[ktAb - book]] — `كِتاب` · book · 58 surahs
 - [[>y - o you]] — `أَيّ` · o you · 57 surahs
@@ -46,63 +46,63 @@ Cross-surah word hubs only (fast vault). Open a word → **Local graph**.
 - [[hdY - guidance]] — `هَدَى` · guidance · 56 surahs
 - [[bEd - after]] — `بَعْد` · after · 55 surahs
 - [[qwm - people]] — `قَوْم` · people · 55 surahs
-- [[nAs - people]] — `ناس` · people · 53 surahs
 - [[$A' - he wills]] — `شاءَ` · he wills · 53 surahs
-- [[dEA - call]] — `دَعا` · call · 52 surahs
-- [[xyr - better]] — `خَيْر` · better · 52 surahs
+- [[nAs - people]] — `ناس` · people · 53 surahs
 - [[mlk - angels]] — `مَلَك` · angels · 52 surahs
+- [[xyr - better]] — `خَيْر` · better · 52 surahs
+- [[dEA - call]] — `دَعا` · call · 52 surahs
 - [[>nzl - was revealed]] — `أَنزَلَ` · was revealed · 50 surahs
 - [[lyl - night]] — `لَيْل` · night · 48 surahs
-- [[mvl - example]] — `مَثَل` · example · 48 surahs
 - [[wEd - promise]] — `وَعَدَ` · promise · 48 surahs
+- [[mvl - example]] — `مَثَل` · example · 48 surahs
 - [[>rsl - we sent]] — `أَرْسَلَ` · we sent · 47 surahs
 - [[yd - hands]] — `يَد` · hands · 47 surahs
-- [[m&mn - believers]] — `مُؤْمِن` · believers · 47 surahs
 - [[sbyl - way]] — `سَبِيل` · way · 47 surahs
+- [[m&mn - believers]] — `مُؤْمِن` · believers · 47 surahs
+- [[<nsAn - man]] — `إِنسان` · man · 46 surahs
 - [[dwn - besides]] — `دُون` · besides · 46 surahs
 - [[AtbE - follow]] — `اتَّبَعَ` · follow · 46 surahs
-- [[<nsAn - man]] — `إِنسان` · man · 46 surahs
-- [[>rAd - he intends]] — `أَرادَ` · he intends · 45 surahs
 - [[EZym - great]] — `عَظِيم` · great · 45 surahs
-- [[gyr - without]] — `غَيْر` · without · 45 surahs
+- [[>rAd - he intends]] — `أَرادَ` · he intends · 45 surahs
 - [[<lh - god]] — `إِلٰه` · god · 45 surahs
-- [[smE - hearing]] — `سَمْع` · hearing · 44 surahs
+- [[gyr - without]] — `غَيْر` · without · 45 surahs
 - [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers · 44 surahs
-- [[qwl - speech]] — `قَوْل` · speech · 43 surahs
+- [[smE - hearing]] — `سَمْع` · hearing · 44 surahs
 - [[qlb - hearts]] — `قَلْب` · hearts · 43 surahs
-- [[mbyn - clear]] — `مُبِين` · clear · 43 surahs
+- [[qwl - speech]] — `قَوْل` · speech · 43 surahs
 - [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth · 43 surahs
+- [[mbyn - clear]] — `مُبِين` · clear · 43 surahs
 - [[Elym - all-knower]] — `عَلِيم` · all-knower · 43 surahs
-- [[AtqY - fear]] — `اتَّقَى` · fear · 42 surahs
 - [[Hkym - all-wise]] — `حَكِيم` · all-wise · 42 surahs
-- [[s>l - ask]] — `سَأَلَ` · ask · 42 surahs
+- [[AtqY - fear]] — `اتَّقَى` · fear · 42 surahs
 - [[>lym - painful]] — `أَلِيم` · painful · 42 surahs
-- [[rHym - merciful]] — `رَحِيم` · merciful · 42 surahs
+- [[s>l - ask]] — `سَأَلَ` · ask · 42 surahs
 - [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty · 42 surahs
-- [[>x* - we took]] — `أَخَذَ` · we took · 41 surahs
-- [[nZr - see]] — `نَظَرَ` · see · 41 surahs
-- [[mA' - water]] — `ماء` · water · 41 surahs
+- [[rHym - merciful]] — `رَحِيم` · merciful · 42 surahs
 - [[rzq - provision]] — `رَزَقَ` · provision · 41 surahs
+- [[mA' - water]] — `ماء` · water · 41 surahs
+- [[nZr - see]] — `نَظَرَ` · see · 41 surahs
+- [[>x* - we took]] — `أَخَذَ` · we took · 41 surahs
 - [[dnyA - world]] — `دُنْيا` · world · 40 surahs
-- [[dyn - religion]] — `دِين` · religion · 40 surahs
+- [[zwj - wives]] — `زَوْج` · wives · 40 surahs
 - [[fEl - you do]] — `فَعَلَ` · you do · 40 surahs
+- [[dyn - religion]] — `دِين` · religion · 40 surahs
 - [[bnY - children]] — `بُنَىّ` · children · 40 surahs
 - [[Zlm - wronged]] — `ظَلَمَ` · wronged · 40 surahs
 - [[>hl - people]] — `أَهْل` · people · 40 surahs
-- [[zwj - wives]] — `زَوْج` · wives · 40 surahs
 - [[>jr - reward]] — `أَجْر` · reward · 39 surahs
-- [[qdr - restricts]] — `قَدَر` · restricts · 39 surahs
-- [[EAlm - worlds]] — `عالَم` · worlds · 39 surahs
-- [[b$r - man]] — `بُشِّرَ` · man · 39 surahs
 - [[>wl - first]] — `أَوَّل` · first · 39 surahs
-- [[wjh - faces]] — `وَجْه` · faces · 38 surahs
+- [[b$r - man]] — `بُشِّرَ` · man · 39 surahs
+- [[EAlm - worlds]] — `عالَم` · worlds · 39 surahs
+- [[qdr - restricts]] — `قَدَر` · restricts · 39 surahs
 - [[bED - others]] — `بَعْض` · others · 38 surahs
-- [[>kl - eat]] — `أَكَلَ` · eat · 38 surahs
-- [[jry - flow]] — `جَرَيْ` · flow · 38 surahs
-- [[qr'An - quran]] — `قُرْءان` · quran · 38 surahs
-- [[SAlH - righteous]] — `صالِح` · righteous · 38 surahs
 - [[rjE - return]] — `رَجَعَ` · return · 38 surahs
-- [[mAl - wealth]] — `مال` · wealth · 38 surahs
-- [[xAf - fear]] — `خافَ` · fear · 38 surahs
+- [[SAlH - righteous]] — `صالِح` · righteous · 38 surahs
+- [[wjh - faces]] — `وَجْه` · faces · 38 surahs
+- [[jry - flow]] — `جَرَيْ` · flow · 38 surahs
 - [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving · 38 surahs
+- [[qr'An - quran]] — `قُرْءان` · quran · 38 surahs
+- [[>kl - eat]] — `أَكَلَ` · eat · 38 surahs
+- [[xAf - fear]] — `خافَ` · fear · 38 surahs
+- [[mAl - wealth]] — `مال` · wealth · 38 surahs
 - [[jzY - we recompense]] — `جَزَى` · we recompense · 37 surahs

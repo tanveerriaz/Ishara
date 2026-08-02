@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:58 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when We said, "Enter this city [i.e., Jerusalem] and eat from it wherever you will in [ease and] abundance, and enter the gate bowing humbly and say, 'Relieve us of our burdens [i.e., sins].' We will [then] forgive your sins for you, and We will increase the doers of good [in goodness and reward]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے (ان سے) کہا کہ اس گاؤں میں داخل ہو جاؤ اور اس میں جہاں سے چاہو، خوب کھاؤ (پیو) اور (دیکھنا) دروازے میں داخل ہونا تو سجدہ کرنا اور حطة کہنا، ہم تمہارے گناہ معاف کر دیں گے اور نیکی کرنے والوں کو اور زیادہ دیں گے
+**English (Yusuf Ali):** And remember We said: "Enter this town, and eat of the plenty therein as ye wish; but enter the gate with humility, in posture and in words, and We shall forgive you your faults and increase (the portion of) those who do good."
 
 [Open on Quran.com](https://quran.com/2/58)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, "How will Allāh bring this to life after its death?" So Allāh caused him to die for a hundred years; then He revived him. He said, "How long have you remained?" He [the man] said, "I have remained a day or part of a day." He said, "Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh." And when it became clear to him, he said, "I know that Allāh is over all things competent."
 
-**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
+**English (Yusuf Ali):** Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall Allah bring it (ever) to life, after (this) its death?" but Allah caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that Allah hath power over all things."
 
 [Open on Quran.com](https://quran.com/2/259)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And what is [the matter] with you that you fight not in the cause of Allāh and [for] the oppressed among men, women, and children who say, "Our Lord, take us out of this city of oppressive people and appoint for us from Yourself a protector and appoint for us from Yourself a helper"?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم کو کیا ہوا ہے کہ خدا کی راہ میں اور اُن بےبس مردوں اور عورتوں اور بچوں کی خاطر نہیں لڑتے جو دعائیں کیا کرتے ہیں کہ اے پروردگار ہم کو اس شہر سے جس کے رہنے والے ظالم ہیں نکال کر کہیں اور لے جا۔ اور اپنی طرف سے کسی کو ہمارا حامی بنا۔ اور اپنی ہی طرف سے کسی کو ہمارا مددگار مقرر فرما
+**English (Yusuf Ali):** And why should ye not fight in the cause of Allah and of those who, being weak, are ill-treated (and oppressed)?- Men, women, and children, whose cry is: "Our Lord! Rescue us from this town, whose people are oppressors; and raise for us from thee one who will protect; and raise for us from thee one who will help!"
 
 [Open on Quran.com](https://quran.com/4/75)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And this is a Book which We have sent down, blessed and confirming what was before it, that you may warn the Mother of Cities [i.e., Makkah] and those around it. Those who believe in the Hereafter believe in it, and they are maintaining their prayers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (ویسی ہی) یہ کتاب ہے جسے ہم نے نازل کیا ہے بابرکت جو اپنے سے پہلی (کتابوں) کی تصدیق کرتی ہے اور (جو) اس لئے (نازل کی گئی ہے) کہ تم مکے اور اس کے آس پاس کے لوگوں کو آگاہ کردو۔ اور جو لوگ آخرت پر ایمان رکھتے ہیں وہ اس کتاب پر بھی ایمان رکھتے ہیں اور وہ اپنی نمازوں کی پوری خبر رکھتے ہیں
+**English (Yusuf Ali):** And this is a Book which We have sent down, bringing blessings, and confirming (the revelations) which came before it: that thou mayest warn the mother of cities and all around her. Those who believe in the Hereafter believe in this (Book), and they are constant in guarding their prayers.
 
 [Open on Quran.com](https://quran.com/6/92)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus We have placed within every city the greatest of its criminals to conspire therein. But they conspire not except against themselves, and they perceive [it] not.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے ہر بستی میں بڑے بڑے مجرم پیدا کئے کہ ان میں مکاریاں کرتے رہیں اور جو مکاریاں یہ کرتے ہیں ان کا نقصان انہیں کو ہے اور (اس سے) بےخبر ہیں
+**English (Yusuf Ali):** Thus have We placed leaders in every town, its wicked men, to plot (and burrow) therein: but they only plot against their own souls, and they perceive it not.
 
 [Open on Quran.com](https://quran.com/6/123)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is because your Lord would not destroy the cities for wrongdoing while their people were unaware.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ!) یہ (جو پیغمبر آتے رہے اور کتابیں نازل ہوتی رہیں تو) اس لیے کہ تمہارا پروردگار ایسا نہیں کہ بستیوں کو ظلم سے ہلاک کر دے اور وہاں کے رہنے والوں کو (کچھ بھی) خبر نہ ہو
+**English (Yusuf Ali):** (The messengers were sent) thus, for thy Lord would not destroy for their wrong-doing men's habitations whilst their occupants were unwarned.
 
 [Open on Quran.com](https://quran.com/6/131)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And how many cities have We destroyed, and Our punishment came to them at night or while they were sleeping at noon.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کتنی ہی بستیاں ہیں کہ ہم نے تباہ کر ڈالیں جن پر ہمارا عذاب (یا تو رات کو) آتا تھا جبکہ وہ سوتے تھے یا (دن کو) جب وہ قیلولہ (یعنی دوپہر کو آرام) کرتے تھے
+**English (Yusuf Ali):** How many towns have We destroyed (for their sins)? Our punishment took them on a sudden by night or while they slept for their afternoon rest.
 
 [Open on Quran.com](https://quran.com/7/4)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But the answer of his people was only that they said, "Evict them from your city! Indeed, they are men who keep themselves pure."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان سے اس کا جواب کچھ نہ بن پڑا اور بولے تو یہ بولے کہ ان لوگوں (یعنی لوط اور اس کے گھر والوں) کو اپنے گاؤں سے نکال دو (کہ) یہ لوگ پاک بننا چاہتے ہیں
+**English (Yusuf Ali):** And his people gave no answer but this: they said, "Drive them out of your city: these are indeed men who want to be clean and pure!"
 
 [Open on Quran.com](https://quran.com/7/82)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Said the eminent ones who were arrogant among his people, "We will surely evict you, O Shuʿayb, and those who have believed with you from our city, or you must return to our religion." He said, "Even if we were unwilling?
 
-**Urdu (Fatah Muhammad Jalandhari):** (تو) ان کی قوم میں جو لوگ سردار اور بڑے آدمی تھے، وہ کہنے لگے کہ شعیب! (یا تو) ہم تم کو اور جو لوگ تمہارے ساتھ ایمان لائے ہیں، ان کو اپنے شہر سے نکال دیں گے۔ یا تم ہمارے مذہب میں آجاؤ۔ انہوں نے کہا خواہ ہم (تمہارے دین سے) بیزار ہی ہوں (تو بھی؟)
+**English (Yusuf Ali):** The leaders, the arrogant party among his people, said: "O Shu'aib! we shall certainly drive thee out of our city - (thee) and those who believe with thee; or else ye (thou and they) shall have to return to our ways and religion." He said: "What! even though we do detest (them)?
 
 [Open on Quran.com](https://quran.com/7/88)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We sent to no city a prophet [who was denied] except that We seized its people with poverty and hardship that they might humble themselves [to Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کسی شہر میں کوئی پیغمبر نہیں بھیجا مگر وہاں کے رہنے والوں کو (جو ایمان نہ لائے) دکھوں اور مصیبتوں میں مبتلا کیا تاکہ وہ عاجزی اور زاری کریں
+**English (Yusuf Ali):** Whenever We sent a prophet to a town, We took up its people in suffering and adversity, in order that they might learn humility.
 
 [Open on Quran.com](https://quran.com/7/94)
 

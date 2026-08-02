@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:31 · [[006 Al-Anam]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those will have lost who deny the meeting with Allāh, until when the Hour [of resurrection] comes upon them unexpectedly, they will say, "Oh, [how great is] our regret over what we neglected concerning it [i.e., the Hour]," while they bear their burdens [i.e., sins] on their backs. Unquestionably, evil is that which they bear.
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے خدا کے روبرو حاضر ہونے کو جھوٹ سمجھا وہ گھاٹے میں آگئے۔ یہاں تک کہ جب ان پر قیامت ناگہاں آموجود ہوگی تو بول اٹھیں گے کہ (ہائے) اس تقصیر پر افسوس ہے جو ہم نے قیامت کے بارے میں کی۔ اور وہ اپنے (اعمال کے) بوجھ اپنی پیٹھوں پر اٹھائے ہوئے ہوں گے۔ دیکھو جو بوجھ یہ اٹھا رہے ہیں بہت برا ہے
+**English (Yusuf Ali):** Lost indeed are they who treat it as a falsehood that they must meet Allah,- until on a sudden the hour is on them, and they say: "Ah! woe unto us that we took no thought of it"; for they bear their burdens on their backs, and evil indeed are the burdens that they bear?
 
 [Open on Quran.com](https://quran.com/6/31)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Have you considered: if there came to you the punishment of Allāh or there came to you the Hour - is it other than Allāh you would invoke, if you should be truthful?"
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو (کافرو) بھلا دیکھو تو اگر تم پر خدا کا عذاب آجائےیا قیامت آموجود ہو تو کیا تم (ایسی حالت میں) خدا کے سوا کسی اور کو پکارو گے؟ اگر سچے ہو (تو بتاؤ)
+**English (Yusuf Ali):** Say: "Think ye to yourselves, if there come upon you the wrath of Allah, or the Hour (that ye dread), would ye then call upon other than Allah?- (reply) if ye are truthful!
 
 [Open on Quran.com](https://quran.com/6/40)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And for every nation is a [specified] term. So when their time has come, they will not remain behind an hour, nor will they precede [it].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہر ایک فرقے کے لیے (موت کا) ایک وقت مقرر ہے۔ جب وہ آ جاتا ہے تو نہ تو ایک گھڑی دیر کرسکتے ہیں نہ جلدی
+**English (Yusuf Ali):** To every people is a term appointed: when their term is reached, not an hour can they cause delay, nor (an hour) can they advance (it in anticipation).
 
 [Open on Quran.com](https://quran.com/7/34)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They ask you, [O Muḥammad], about the Hour: when is its arrival? Say, "Its knowledge is only with my Lord. None will reveal its time except Him. It lays heavily upon the heavens and the earth. It will not come upon you except unexpectedly." They ask you as if you are familiar with it. Say, "Its knowledge is only with Allāh, but most of the people do not know."
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ لوگ) تم سے قیامت کے بارے میں پوچھتے ہیں کہ اس کے واقع ہونے کا وقت کب ہے۔ کہہ دو کہ اس کا علم تو میرے پروردگار ہی کو ہے۔ وہی اسے اس کے وقت پر ظاہر کردےگا۔ وہ آسمان وزمین میں ایک بھاری بات ہوگی اور ناگہاں تم پر آجائے گی۔ یہ تم سے اس طرح دریافت کرتے ہیں کہ گویا تم اس سے بخوبی واقف ہو۔ کہو کہ اس کا علم تو خدا ہی کو ہے لیکن اکثر لوگ یہ نہیں جانتے
+**English (Yusuf Ali):** They ask thee about the (final) Hour - when will be its appointed time? Say: "The knowledge thereof is with my Lord (alone): None but He can reveal as to when it will occur. Heavy were its burden through the heavens and the earth. Only, all of a sudden will it come to you." They ask thee as if thou Wert eager in search thereof: Say: "The knowledge thereof is with Allah (alone), but most men know not."
 
 [Open on Quran.com](https://quran.com/7/187)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh has already forgiven the Prophet and the Muhājireen and the Anṣār who followed him in the hour of difficulty after the hearts of a party of them had almost inclined [to doubt], and then He forgave them. Indeed, He was to them Kind and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** بےشک خدا نے پیغمبر پر مہربانی کی اور مہاجرین اور انصار پر جو باوجود اس کے کہ ان میں سے بعضوں کے دل جلد پھر جانے کو تھے۔ مشکل کی گھڑی میں پیغمبر کے ساتھ رہے۔ پھر خدا نے ان پر مہربانی فرمائی۔ بےشک وہ ان پر نہایت شفقت کرنے والا (اور) مہربان ہے
+**English (Yusuf Ali):** Allah turned with favour to the Prophet, the Muhajirs, and the Ansar,- who followed him in a time of distress, after that the hearts of a part of them had nearly swerved (from duty); but He turned to them (also): for He is unto them Most Kind, Most Merciful.
 
 [Open on Quran.com](https://quran.com/9/117)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And on the Day when He will gather them, [it will be] as if they had not remained [in the world] but an hour of the day, [and] they will know each other. Those will have lost who denied the meeting with Allāh and were not guided.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس دن خدا ان کو جمع کرے گا (تو وہ دنیا کی نسبت ایسا خیال کریں گے کہ) گویا (وہاں) گھڑی بھر دن سے زیادہ رہے ہی نہیں تھے (اور) آپس میں ایک دوسرے کو شناخت بھی کریں گے۔ جن لوگوں نے خدا کے روبرو حاضر ہونے کو جھٹلایا وہ خسارے میں پڑ گئے اور راہ یاب نہ ہوئے
+**English (Yusuf Ali):** One day He will gather them together: (It will be) as if they had tarried but an hour of a day: they will recognise each other: assuredly those will be lost who denied the meeting with Allah and refused to receive true guidance.
 
 [Open on Quran.com](https://quran.com/10/45)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "I possess not for myself any harm or benefit except what Allāh should will. For every nation is a [specified] term. When their time has come, then they will not remain behind an hour, nor will they precede [it]."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں اپنے نقصان اور فائدے کا بھی کچھ اختیار نہیں رکھتا۔ مگر جو خدا چاہے۔ ہر ایک امت کے لیے (موت کا) ایک وقت مقرر ہے۔ جب وہ وقت آجاتا ہے تو ایک گھڑی بھی دیر نہیں کرسکتے اور نہ جلدی کرسکتے ہیں
+**English (Yusuf Ali):** Say: "I have no power over any harm or profit to myself except as Allah willeth. To every people is a term appointed: when their term is reached, not an hour can they cause delay, nor (an hour) can they advance (it in anticipation)."
 
 [Open on Quran.com](https://quran.com/10/49)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then do they feel secure that there will not come to them an overwhelming [aspect] of the punishment of Allāh or that the Hour will not come upon them suddenly while they do not perceive?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ اس (بات) سے بےخوف ہیں کہ ان پر خدا کا عذاب نازل ہو کر ان کو ڈھانپ لے یا ان پر ناگہاں قیامت آجائے اور انہیں خبر بھی نہ ہو
+**English (Yusuf Ali):** Do they then feel secure from the coming against them of the covering veil of the wrath of Allah,- or of the coming against them of the (final) Hour all of a sudden while they perceive not?
 
 [Open on Quran.com](https://quran.com/12/107)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have not created the heavens and earth and that between them except in truth. And indeed, the Hour is coming; so forgive with gracious forgiveness.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے آسمانوں اور زمین کو اور جو (مخلوقات) ان میں ہے اس کو تدبیر کے ساتھ پیدا کیا ہے۔ اور قیامت تو ضرور آکر رہے گی تو تم (ان لوگوں سے) اچھی طرح سے درگزر کرو
+**English (Yusuf Ali):** We created not the heavens, the earth, and all between them, but for just ends. And the Hour is surely coming (when this will be manifest). So overlook (any human faults) with gracious forgiveness.
 
 [Open on Quran.com](https://quran.com/15/85)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if Allāh were to impose blame on the people for their wrongdoing, He would not have left upon it [i.e., the earth] any creature, but He defers them for a specified term. And when their term has come, they will not remain behind an hour, nor will they precede [it].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا لوگوں کو ان کے ظلم کے سبب پکڑنے لگے تو ایک جاندار کو زمین پر نہ چھوڑے لیکن ان کو ایک وقت مقرر تک مہلت دیئے جاتا ہے۔ جب وہ وقت آجاتا ہے تو ایک گھڑی نہ پیچھے رہ سکتے ہیں نہ آگے بڑھ سکتے ہیں
+**English (Yusuf Ali):** If Allah were to punish men for their wrong-doing, He would not leave, on the (earth), a single living creature: but He gives them respite for a stated Term: When their Term expires, they would not be able to delay (the punishment) for a single hour, just as they would not be able to anticipate it (for a single hour).
 
 [Open on Quran.com](https://quran.com/16/61)
 

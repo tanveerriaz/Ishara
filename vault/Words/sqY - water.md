@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:71 · [[002 Al-Baqarah]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "He says, 'It is a cow neither trained to plow the earth nor to irrigate the field, one free from fault with no spot upon her.'" They said, "Now you have come with the truth." So they slaughtered her, but they could hardly do it.
 
-**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا کہ خدا فرماتا ہے کہ وہ بیل کام میں لگا ہوا نہ ہو، نہ تو زمین جوتتا ہو اور نہ کھیتی کو پانی دیتا ہو۔ اس میں کسی طرح کا داغ نہ ہو۔ کہنے لگے، اب تم نے سب باتیں درست بتا دیں۔ غرض (بڑی مشکل سے) انہوں نے اس بیل کو ذبح کیا، اور وہ ایسا کرنے والے تھے نہیں
+**English (Yusuf Ali):** He said: "He says: A heifer not trained to till the soil or water the fields; sound and without blemish." They said: "Now hast thou brought the truth." Then they offered her in sacrifice, but not with good-will.
 
 [Open on Quran.com](https://quran.com/2/71)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O two companions of prison, as for one of you, he will give drink to his master of wine; but as for the other, he will be crucified, and the birds will eat from his head. The matter has been decreed about which you both inquire."
 
-**Urdu (Fatah Muhammad Jalandhari):** میرے جیل خانے کے رفیقو! تم میں سے ایک (جو پہلا خواب بیان کرنے والا ہے وہ) تو اپنے آقا کو شراب پلایا کرے گا اور جو دوسرا ہے وہ سولی دیا جائے گا اور جانور اس کا سر کھا جائیں گے۔ جو امر تم مجھ سے پوچھتے تھے وہ فیصلہ ہوچکا ہے
+**English (Yusuf Ali):** "O my two companions of the prison! As to one of you, he will pour out the wine for his lord to drink: as for the other, he will hang from the cross, and the birds will eat from off his head. (so) hath been decreed that matter whereof ye twain do enquire"...
 
 [Open on Quran.com](https://quran.com/12/41)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And within the land are neighboring plots and gardens of grapevines and crops and palm trees, [growing] several from a root or otherwise, watered with one water; but We make some of them exceed others in [quality of] fruit. Indeed in that are signs for a people who reason.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور زمین میں کئی طرح کے قطعات ہیں۔ ایک دوسرے سے ملے ہوئے اور انگور کے باغ اور کھیتی اور کھجور کے درخت۔ بعض کی بہت سی شاخیں ہوتی ہیں اور بعض کی اتنی نہیں ہوتیں (باوجود یہ کہ) پانی سب کو ایک ہی ملتا ہے۔ اور ہم بعض میوؤں کو بعض پر لذت میں فضیلت دیتے ہیں۔ اس میں سمجھنے والوں کے لیے بہت سی نشانیاں ہیں
+**English (Yusuf Ali):** And in the earth are tracts (diverse though) neighbouring, and gardens of vines and fields sown with corn, and palm trees - growing out of single roots or otherwise: watered with the same water, yet some of them We make more excellent than others to eat. Behold, verily in these things there are signs for those who understand!
 
 [Open on Quran.com](https://quran.com/13/4)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Before him is Hell, and he will be given a drink of purulent water.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس کے پیچھے دوزخ ہے اور اسے پیپ کا پانی پلایا جائے گا
+**English (Yusuf Ali):** In front of such a one is Hell, and he is given, for drink, boiling fetid water.
 
 [Open on Quran.com](https://quran.com/14/16)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who feeds me and gives me drink.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ جو مجھے کھلاتا اور پلاتا ہے
+**English (Yusuf Ali):** "Who gives me food and drink,
 
 [Open on Quran.com](https://quran.com/26/79)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when he came to the water [i.e., well] of Madyan, he found there a crowd of people watering [their flocks], and he found aside from them two women holding back [their flocks]. He said, "What is your circumstance?" They said, "We do not water until the shepherds dispatch [their flocks]; and our father is an old man."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب مدین کے پانی (کے مقام) پر پہنچے تو دیکھا کہ وہاں لوگ جمع ہو رہے (اور اپنے چارپایوں کو) پانی پلا رہے ہیں اور ان کے ایک طرف دو عورتیں (اپنی بکریوں کو) روکے کھڑی ہیں۔ موسٰی نے (اُن سے) کہا تمہارا کیا کام ہے۔ وہ بولیں کہ جب تک چرواہے (اپنے چارپایوں کو) لے نہ جائیں ہم پانی نہیں پلا سکتے اور ہمارے والد بڑی عمر کے بوڑھے ہیں
+**English (Yusuf Ali):** And when he arrived at the watering (place) in Madyan, he found there a group of men watering (their flocks), and besides them he found two women who were keeping back (their flocks). He said: "What is the matter with you?" They said: "We cannot water (our flocks) until the shepherds take back (their flocks): And our father is a very old man."
 
 [Open on Quran.com](https://quran.com/28/23)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So he watered [their flocks] for them; then he went back to the shade and said, "My Lord, indeed I am, for whatever good You would send down to me, in need."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو موسٰی نے اُن کے لئے (بکریوں کو) پانی پلا دیا پھر سائے کی طرف چلے گئے۔ اور کہنے لگے کہ پروردگار میں اس کا محتاج ہوں کہ تو مجھ پر اپنی نعمت نازل فرمائے
+**English (Yusuf Ali):** So he watered (their flocks) for them; then he turned back to the shade, and said:"O my Lord! truly am I in (desperate) need of any good that Thou dost send me!"
 
 [Open on Quran.com](https://quran.com/28/24)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then one of the two women came to him walking with shyness. She said, "Indeed, my father invites you that he may reward you for having watered for us." So when he came to him and related to him the story, he said, "Fear not. You have escaped from the wrongdoing people."
 
-**Urdu (Fatah Muhammad Jalandhari):** (تھوڑی دیر کے بعد) ان میں سے ایک عورت جو شرماتی اور لجاتی چلی آتی تھی۔ موسٰی کے پاس آئی اور کہنے لگی کہ تم کو میرے والد بلاتے ہیں کہ تم نے جو ہمارے لئے پانی پلایا تھا اس کی تم کو اُجرت دیں۔ جب وہ اُن کے پاس آئے اور اُن سے اپنا ماجرا بیان کیا تو اُنہوں نے کہا کہ کچھ خوف نہ کرو۔ تم ظالم لوگوں سے بچ آئے ہو
+**English (Yusuf Ali):** Afterwards one of the (damsels) came (back) to him, walking bashfully. She said: "My father invites thee that he may reward thee for having watered (our flocks) for us." So when he came to him and narrated the story, he said: "Fear thou not: (well) hast thou escaped from unjust people."
 
 [Open on Quran.com](https://quran.com/28/25)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Is the description of Paradise, which the righteous are promised, wherein are rivers of water unaltered, rivers of milk the taste of which never changes, rivers of wine delicious to those who drink, and rivers of purified honey, in which they will have from all [kinds of] fruits and forgiveness from their Lord... [Are its inhabitants] like those who abide eternally in the Fire and are given to drink scalding water that will sever their intestines?
 
-**Urdu (Fatah Muhammad Jalandhari):** جنت جس کا پرہیزگاروں سے وعدہ کیا جاتا ہے۔ اس کی صفت یہ ہے کہ اس میں پانی کی نہریں ہیں جو بو نہیں کرے گا۔ اور دودھ کی نہریں ہیں جس کا مزہ نہیں بدلے گا۔ اور شراب کی نہریں ہیں جو پینے والوں کے لئے (سراسر) لذت ہے۔ اور شہد مصفا کی نہریں ہیں (جو حلاوت ہی حلاوت ہے) اور (وہاں) ان کے لئے ہر قسم کے میوے ہیں اور ان کے پروردگار کی طرف سے مغفرت ہے۔ (کیا یہ پرہیزگار) ان کی طرح (ہوسکتے) ہیں جو ہمیشہ دوزخ میں رہیں گے اور جن کو کھولتا ہوا پانی پلایا جائے گا تو ان کی انتڑیوں کو کاٹ ڈالے گا
+**English (Yusuf Ali):** (Here is) a Parable of the Garden which the righteous are promised: in it are rivers of water incorruptible; rivers of milk of which the taste never changes; rivers of wine, a joy to those who drink; and rivers of honey pure and clear. In it there are for them all kinds of fruits; and Grace from their Lord. (Can those in such Bliss) be compared to such as shall dwell for ever in the Fire, and be given, to drink, boiling water, so that it cuts up their bowels (to pieces)?
 
 [Open on Quran.com](https://quran.com/47/15)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Upon them [i.e., the inhabitants] will be green garments of fine silk and brocade. And they will be adorned with bracelets of silver, and their Lord will give them a purifying drink.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان (کے بدنوں) پر دیبا سبز اور اطلس کے کپڑے ہوں گے۔ اور انہیں چاندی کے کنگن پہنائے جائیں گے اور ان کا پروردگار ان کو نہایت پاکیزہ شراب پلائے گا
+**English (Yusuf Ali):** Upon them will be green Garments of fine silk and heavy brocade, and they will be adorned with Bracelets of silver; and their Lord will give to them to drink of a Wine Pure and Holy.
 
 [Open on Quran.com](https://quran.com/76/21)
 

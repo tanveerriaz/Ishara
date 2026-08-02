@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:67 · [[002 Al-Baqarah]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when Moses said to his people, "Indeed, Allāh commands you to slaughter a cow." They said, "Do you take us in ridicule?" He said, "I seek refuge in Allāh from being among the ignorant."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لوگوں سے کہا کہ خدا تم کو حکم دیتا ہے کہ ایک بیل ذبح کرو۔ وہ بولے، کیا تم ہم سے ہنسی کرتے ہو۔ (موسیٰ نے) کہا کہ میں الله کی پناہ مانگتا ہوں کہ نادان بنوں
+**English (Yusuf Ali):** And remember Moses said to his people: "Allah commands that ye sacrifice a heifer." They said: "Makest thou a laughing-stock of us?" He said: "Allah save me from being an ignorant (fool)!"
 
 [Open on Quran.com](https://quran.com/2/67)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Charity is] for the poor who have been restricted for the cause of Allāh, unable to move about in the land. An ignorant [person] would think them self-sufficient because of their restraint, but you will know them by their [characteristic] sign. They do not ask people persistently [or at all]. And whatever you spend of good - indeed, Allāh is Knowing of it.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور ہاں تم جو خرچ کرو گے تو) ان حاجتمندوں کے لئے جو خدا کی راہ میں رکے بیٹھے ہیں اور ملک میں کسی طرف جانے کی طاقت نہیں رکھتے (اور مانگنے سے عار رکھتے ہیں) یہاں تک کہ نہ مانگنے کی وجہ سے ناواقف شخص ان کو غنی خیال کرتا ہے اور تم قیافے سے ان کو صاف پہچان لو (کہ حاجتمند ہیں اور شرم کے سبب) لوگوں سے (منہ پھوڑ کر اور) لپٹ کر نہیں مانگ سکتے اور تم جو مال خرچ کرو گے کچھ شک نہیں کہ خدا اس کو جانتا ہے
+**English (Yusuf Ali):** (Charity is) for those in need, who, in Allah's cause are restricted (from travel), and cannot move about in the land, seeking (For trade or work): the ignorant man thinks, because of their modesty, that they are free from want. Thou shalt know them by their (Unfailing) mark: They beg not importunately from all the sundry. And whatever of good ye give, be assured Allah knoweth it well.
 
 [Open on Quran.com](https://quran.com/2/273)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if their evasion is difficult for you, then if you are able to seek a tunnel into the earth or a stairway into the sky to bring them a sign, [then do so]. But if Allāh had willed, He would have united them upon guidance. So never be of the ignorant.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ان کی روگردانی تم پر شاق گزرتی ہے تو اگر طاقت ہو تو زمین میں کوئی سرنگ ڈھونڈ نکالو یا آسمان میں سیڑھی (تلاش کرو) پھر ان کے پاس کوئی معجزہ لاؤ۔ اور اگر خدا چاہتا تو سب کو ہدایت پر جمع کردیتا پس تم ہرگز نادانوں میں نہ ہونا
+**English (Yusuf Ali):** If their spurning is hard on thy mind, yet if thou wert able to seek a tunnel in the ground or a ladder to the skies and bring them a sign,- (what good?). If it were Allah's will, He could gather them together unto true guidance: so be not thou amongst those who are swayed by ignorance (and impatience)!
 
 [Open on Quran.com](https://quran.com/6/35)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Take what is given freely, enjoin what is good, and turn away from the ignorant.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) عفو اختیار کرو اور نیک کام کرنے کا حکم دو اور جاہلوں سے کنارہ کرلو
+**English (Yusuf Ali):** Hold to forgiveness; command what is right; But turn away from the ignorant.
 
 [Open on Quran.com](https://quran.com/7/199)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "O Noah, indeed he is not of your family; indeed, he is [one whose] work was other than righteous, so ask Me not for that about which you have no knowledge. Indeed, I advise you, lest you be among the ignorant."
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے فرمایا کہ نوح وہ تیرے گھر والوں میں نہیں ہے وہ تو ناشائستہ افعال ہے تو جس چیز کی تم کو حقیقت معلوم نہیں ہے اس کے بارے میں مجھ سے سوال ہی نہ کرو۔ اور میں تم کو نصیحت کرتا ہوں کہ نادان نہ بنو
+**English (Yusuf Ali):** He said: "O Noah! He is not of thy family: For his conduct is unrighteous. So ask not of Me that of which thou hast no knowledge! I give thee counsel, lest thou act like the ignorant!"
 
 [Open on Quran.com](https://quran.com/11/46)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "My Lord, prison is more to my liking than that to which they invite me. And if You do not avert from me their plan, I might incline toward them and [thus] be of the ignorant."
 
-**Urdu (Fatah Muhammad Jalandhari):** یوسف نے دعا کی کہ پروردگار جس کام کی طرف یہ مجھے بلاتی ہیں اس کی نسبت مجھے قید پسند ہے۔ اور اگر تو مجھ سے ان کے فریب کو نہ ہٹائے گا تو میں ان کی طرف مائل ہوجاؤں گا اور نادانوں میں داخل ہوجاؤں گا
+**English (Yusuf Ali):** He said: "O my Lord! the prison is more to my liking than that to which they invite me: Unless Thou turn away their snare from me, I should (in my youthful folly) feel inclined towards them and join the ranks of the ignorant."
 
 [Open on Quran.com](https://quran.com/12/33)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "Do you know what you did with Joseph and his brother when you were ignorant?"
 
-**Urdu (Fatah Muhammad Jalandhari):** (یوسف نے) کہا تمہیں معلوم ہے جب تم نادانی میں پھنسے ہوئے تھے تو تم نے یوسف اور اس کے بھائی کے ساتھ کیا کیا تھا
+**English (Yusuf Ali):** He said: "Know ye how ye dealt with Joseph and his brother, not knowing (what ye were doing)?"
 
 [Open on Quran.com](https://quran.com/12/89)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا کے بندے تو وہ ہیں جو زمین پر آہستگی سے چلتے ہیں اور جب جاہل لوگ ان سے (جاہلانہ) گفتگو کرتے ہیں تو سلام کہتے ہیں
+**English (Yusuf Ali):** And the servants of (Allah) Most Gracious are those who walk on the earth in humility, and when the ignorant address them, they say, "Peace!";
 
 [Open on Quran.com](https://quran.com/25/63)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when they hear ill speech, they turn away from it and say, "For us are our deeds, and for you are your deeds. Peace will be upon you; we seek not the ignorant."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب بیہودہ بات سنتے ہیں تو اس سے منہ پھیر لیتے ہیں اور کہتے ہیں کہ ہم کو ہمارے اعمال اور تم کو تمہارے اعمال۔ تم کو سلام۔ ہم جاہلوں کے خواستگار نہیں ہیں
+**English (Yusuf Ali):** And when they hear vain talk, they turn away therefrom and say: "To us our deeds, and to you yours; peace be to you: we seek not the ignorant."
 
 [Open on Quran.com](https://quran.com/28/55)
 
@@ -189,7 +189,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "Is it other than Allāh that you order me to worship, O ignorant ones?"
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اے نادانو! تم مجھ سے یہ کہتے ہو کہ میں غیر خدا کی پرستش کرنے لگوں
+**English (Yusuf Ali):** Say: "Is it some one other than Allah that ye order me to worship, O ye ignorant ones?"
 
 [Open on Quran.com](https://quran.com/39/64)
 

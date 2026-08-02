@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:205 · [[007 Al-Araf]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And remember your Lord within yourself in humility and in fear without being apparent in speech - in the mornings and the evenings. And do not be among the heedless.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے پروردگار کو دل ہی دل میں عاجزی اور خوف سے اور پست آواز سے صبح وشام یاد کرتے رہو اور (دیکھنا) غافل نہ ہونا
+**English (Yusuf Ali):** And do thou (O reader!) Bring thy Lord to remembrance in thy (very) soul, with humility and in reverence, without loudness in words, in the mornings and evenings; and be not thou of those who are unheedful.
 
 [Open on Quran.com](https://quran.com/7/205)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to Allāh prostrates whoever is within the heavens and the earth, willingly or by compulsion, and their shadows [as well] in the mornings and the afternoons.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جتنی مخلوقات آسمانوں اور زمین میں ہے خوشی سے یا زبردستی سے خدا کے آگے سجدہ کرتی ہے اور ان کے سائے بھی صبح وشام (سجدے کرتے ہیں)
+**English (Yusuf Ali):** Whatever beings there are in the heavens and the earth do prostrate themselves to Allah (Acknowledging subjection),- with good-will or in spite of themselves: so do their shadows in the morning and evenings.
 
 [Open on Quran.com](https://quran.com/13/15)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Such niches are] in houses [i.e., mosques] which Allāh has ordered to be raised and that His name be mentioned [i.e., praised] therein; exalting Him within them in the morning and the evenings
 
-**Urdu (Fatah Muhammad Jalandhari):** (وہ قندیل) ان گھروں میں (ہے) جن کے بارے میں خدا نے ارشاد فرمایا ہے کہ بلند کئے جائیں اور وہاں خدا کے نام کا ذکر کیا جائے (اور) ان میں صبح وشام اس کی تسبیح کرتے رہیں
+**English (Yusuf Ali):** (Lit is such a Light) in houses, which Allah hath permitted to be raised to honour; for the celebration, in them, of His name: In them is He glorified in the mornings and in the evenings, (again and again),-
 
 [Open on Quran.com](https://quran.com/24/36)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to Solomon [We subjected] the wind - its morning [journey was that of] a month - and its afternoon [journey was that of] a month, and We made flow for him a spring of [liquid] copper. And among the jinn were those who worked for him by the permission of his Lord. And whoever deviated among them from Our command - We will make him taste of the punishment of the Blaze.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہوا کو (ہم نے) سلیمان کا تابع کردیا تھا اس کی صبح کی منزل ایک مہینے کی راہ ہوتی اور شام کی منزل بھی مہینے بھر کی ہوتی۔ اور ان کے لئے ہم نے تانبے کا چشمہ بہا دیا تھا اور جِنّوں میں سے ایسے تھے جو ان کے پروردگار کے حکم سے ان کے آگے کام کرتے تھے۔ اور جو کوئی ان میں سے ہمارے حکم سے پھرے گا اس کو ہم (جہنم کی) آگ کا مزہ چکھائیں گے
+**English (Yusuf Ali):** And to Solomon (We made) the Wind (obedient): Its early morning (stride) was a month's (journey), and its evening (stride) was a month's (journey); and We made a Font of molten brass to flow for him; and there were Jinns that worked in front of him, by the leave of his Lord, and if any of them turned aside from our command, We made him taste of the Penalty of the Blazing Fire.
 
 [Open on Quran.com](https://quran.com/34/12)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Fire; they are exposed to it morning and evening. And the Day the Hour appears [it will be said], "Make the people of Pharaoh enter the severest punishment."
 
-**Urdu (Fatah Muhammad Jalandhari):** یعنی) آتش (جہنم) کہ صبح وشام اس کے سامنے پیش کئے جاتے ہیں۔ اور جس روز قیامت برپا ہوگی (حکم ہوگا کہ) فرعون والوں کو نہایت سخت عذاب میں داخل کرو
+**English (Yusuf Ali):** In front of the Fire will they be brought, morning and evening: And (the sentence will be) on the Day that Judgment will be established: "Cast ye the People of Pharaoh into the severest Penalty!"
 
 [Open on Quran.com](https://quran.com/40/46)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 69:21 · [[069 Al-Haqqah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So he will be in a pleasant life -
 
-**Urdu (Fatah Muhammad Jalandhari):** پس وہ (شخص) من مانے عیش میں ہوگا
+**English (Yusuf Ali):** And he will be in a life of Bliss,
 
 [Open on Quran.com](https://quran.com/69/21)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** With their effort [they are] satisfied
 
-**Urdu (Fatah Muhammad Jalandhari):** اپنے اعمال (کی جزا )سے خوش دل
+**English (Yusuf Ali):** Pleased with their striving,-
 
 [Open on Quran.com](https://quran.com/88/9)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Return to your Lord, well-pleased and pleasing [to Him],
 
-**Urdu (Fatah Muhammad Jalandhari):** اپنے پروردگار کی طرف لوٹ چل۔ تو اس سے راضی وہ تجھ سے راضی
+**English (Yusuf Ali):** "Come back thou to thy Lord,- well pleased (thyself), and well-pleasing unto Him!
 
 [Open on Quran.com](https://quran.com/89/28)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He will be in a pleasant life.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ دل پسند عیش میں ہو گا
+**English (Yusuf Ali):** Will be in a life of good pleasure and satisfaction.
 
 [Open on Quran.com](https://quran.com/101/7)
 

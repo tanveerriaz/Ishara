@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:99 · [[006 Al-Anam]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who sends down rain from the sky, and We produce thereby the growth of all things. We produce from it greenery from which We produce grains arranged in layers. And from the palm trees - of its emerging fruit are clusters hanging low. And [We produce] gardens of grapevines and olives and pomegranates, similar yet varied. Look at [each of] its fruit when it yields and [at] its ripening. Indeed in that are signs for a people who believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو آسمان سے مینھ برساتا ہے۔ پھر ہم ہی (جو مینھ برساتے ہیں) اس سے ہر طرح کی روئیدگی اگاتے ہیں۔ پھر اس میں سے سبز سبز کونپلیں نکالتے ہیں۔ اور ان کونپلوں میں سے ایک دوسرے کے ساتھ جڑے ہوئے دانے نکالتے ہیں اور کھجور کے گابھے میں سے لٹکتے ہوئے گچھے اور انگوروں کے باغ اور زیتون اور انار جو ایک دوسرے سے ملتے جلتے بھی ہیں۔ اور نہیں بھی ملتے۔ یہ چیزیں جب پھلتی ہیں تو ان کے پھلوں پر اور (جب پکتی ہیں تو) ان کے پکنے پر نظر کرو۔ ان میں ان لوگوں کے لئے جو ایمان لاتے ہیں (قدرت خدا کی بہت سی) نشانیاں ہیں
+**English (Yusuf Ali):** It is He Who sendeth down rain from the skies: with it We produce vegetation of all kinds: from some We produce green (crops), out of which We produce grain, heaped up (at harvest); out of the date-palm and its sheaths (or spathes) (come) clusters of dates hanging low and near: and (then there are) gardens of grapes, and olives, and pomegranates, each similar (in kind) yet different (in variety): when they begin to bear fruit, feast your eyes with the fruit and the ripeness thereof. Behold! in these things there are signs for people who believe.
 
 [Open on Quran.com](https://quran.com/6/99)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakāh] on the day of its harvest. And be not excessive. Indeed, He does not like those who commit excess.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی تو ہے جس نے باغ پیدا کئے چھتریوں پر چڑھائے ہوئے بھی اور جو چھتریوں پر نہیں چڑھائے ہوئے وہ بھی اور کھجور اور کھیتی جن کے طرح طرح کے پھل ہوتے ہیں اور زیتون اور انار جو (بعض باتوں میں) ایک دوسرے سے ملتے ہیں جب یہ چیزیں پھلیں تو ان کے پھل کھاؤ اور جس دن (پھل توڑو اور کھیتی) کاٹو تو خدا کا حق بھی اس میں سے ادا کرو اور بےجا نہ اڑاؤ کہ خدا بیجا اڑانے والوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** It is He Who produceth gardens, with trellises and without, and dates, and tilth with produce of all kinds, and olives and pomegranates, similar (in kind) and different (in variety): eat of their fruit in their season, but render the dues that are proper on the day that the harvest is gathered. But waste not by excess: for Allah loveth not the wasters.
 
 [Open on Quran.com](https://quran.com/6/141)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He causes to grow for you thereby the crops, olives, palm trees, grapevines, and of all the fruits. Indeed in that is a sign for a people who give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** اسی پانی سے وہ تمہارے لیے کھیتی اور زیتون اور کھجور اور انگور (اور بےشمار درخت) اُگاتا ہے۔ اور ہر طرح کے پھل (پیدا کرتا ہے) غور کرنے والوں کے لیے اس میں (قدرتِ خدا کی بڑی) نشانی ہے
+**English (Yusuf Ali):** With it He produces for you corn, olives, date-palms, grapes and every kind of fruit: verily in this is a sign for those who give thought.
 
 [Open on Quran.com](https://quran.com/16/11)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And olive and palm trees
 
-**Urdu (Fatah Muhammad Jalandhari):** اور زیتون اور کھجوریں
+**English (Yusuf Ali):** And Olives and Dates,
 
 [Open on Quran.com](https://quran.com/80/29)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** By the fig and the olive
 
-**Urdu (Fatah Muhammad Jalandhari):** انجیر کی قسم اور زیتون کی
+**English (Yusuf Ali):** By the Fig and the Olive,
 
 [Open on Quran.com](https://quran.com/95/1)
 

@@ -14,31 +14,31 @@ The Criterion · 77 ayahs
 
 ## Words in this surah (graph)
 
+- [[tbArk - blessed]] — `تَبارَكَ` · blessed
 - [[n$wr - resurrection]] — `نُشُور` · resurrection
 - [[mstqr - dwelling place]] — `مُسْتَقَرّ` · dwelling place
-- [[tbArk - blessed]] — `تَبارَكَ` · blessed
-- [[Hjr - stone]] — `حَجَر` · stone
-- [[m$ - walk]] — `مَشَ` · walk
-- [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
-- [[zwr - lie]] — `زُور` · lie
 - [[mqAm - place]] — `مَقام` · place
+- [[Hjr - stone]] — `حَجَر` · stone
+- [[zwr - lie]] — `زُور` · lie
 - [[swq - markets]] — `سُوق` · markets
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
+- [[m$ - walk]] — `مَشَ` · walk
+- [[Hsn - good]] — `حُسْن` · good
 - [[dEA - call]] — `دَعا` · call
-- [[nfwr - aversion]] — `نُفُور` · aversion
-- [[qryp - town]] — `قَرْيَة` · town
-- [[bldp - land]] — `بَلْدَة` · land
+- [[lyl - night]] — `لَيْل` · night
+- [[qdr - restricts]] — `قَدَر` · restricts
 - [[Dl - lost]] — `ضَلَّ` · lost
-- [[sbHAn - glory]] — `سُبْحان` · glory
-- [[Sbr - patient]] — `صَبْر` · patient
-- [[>srf - extravagant]] — `أَسْرَفَ` · extravagant
-- [[nhAr - day]] — `نَهار` · day
-- [[mnyr - enlightening]] — `مُنِير` · enlightening
-- [[xATb - address me]] — `خاطَبَ` · address me
-- [[smE - hearing]] — `سَمْع` · hearing
-- [[>sqy - we give you]] — `أَسْقَيْ` · we give you
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[Eml - do]] — `عَمِلَ` · do
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[nSyr - any helper]] — `نَصِير` · any helper
+- [[>mr - command]] — `أَمَرَ` · command
+- [[wly - protector]] — `وَلِيّ` · protector
+- [[lqY - it granted]] — `لَقَّى` · it granted
+- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[mA' - water]] — `ماء` · water
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[qSr - palaces]] — `قَصْر` · palaces
 
 ## Roots
 

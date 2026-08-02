@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 32:8 · [[032 As-Sajdah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then He made his posterity out of the extract of a liquid disdained.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اس کی نسل خلاصے سے (یعنی) حقیر پانی سے پیدا کی
+**English (Yusuf Ali):** And made his progeny from a quintessence of the nature of a fluid despised:
 
 [Open on Quran.com](https://quran.com/32/8)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or am I [not] better than this one [i.e., Moses] who is insignificant and hardly makes himself clear?
 
-**Urdu (Fatah Muhammad Jalandhari):** بےشک میں اس شخص سے جو کچھ عزت نہیں رکھتا اور صاف گفتگو بھی نہیں کرسکتا کہیں بہتر ہوں
+**English (Yusuf Ali):** "Am I not better than this (Moses), who is a contemptible wretch and can scarcely express himself clearly?
 
 [Open on Quran.com](https://quran.com/43/52)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not obey every worthless habitual swearer
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کسی ایسے شخص کے کہے میں نہ آجانا جو بہت قسمیں کھانے والا ذلیل اوقات ہے
+**English (Yusuf Ali):** Heed not the type of despicable men,- ready with oaths,
 
 [Open on Quran.com](https://quran.com/68/10)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Did We not create you from a liquid disdained?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا ہم نے تم کو حقیر پانی سے نہیں پیدا کیا؟
+**English (Yusuf Ali):** Have We not created you from a fluid (held) despicable?-
 
 [Open on Quran.com](https://quran.com/77/20)
 

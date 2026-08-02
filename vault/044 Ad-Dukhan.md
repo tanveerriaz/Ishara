@@ -15,30 +15,30 @@ The Smoke · 59 ayahs
 ## Words in this surah (graph)
 
 - [[Artqb - watch]] — `ارْتَقِبْ` · watch
-- [[xyr - better]] — `خَيْر` · better
-- [[bnY - children]] — `بُنَىّ` · children
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[zqwm - zaqqum]] — `زَقُّوم` · zaqqum
-- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
-- [[mntqm - will take retribution]] — `مُنتَقِم` · will take retribution
-- [[EZym - great]] — `عَظِيم` · great
-- [[Sb - will poured]] — `صَبَّ` · will poured
-- [[mwqn - certain]] — `مُوقِن` · certain
+- [[r>s - heads]] — `رَأْس` · heads
+- [[mbArkp - blessed]] — `مُبارَكَة` · blessed
 - [[dEA - call]] — `دَعا` · call
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[k$f - we removed]] — `كَشَفَ` · we removed
-- [[Hmym - scalding water]] — `حَمِيم` · scalding water
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
-- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[rHmp - mercy]] — `رَحْمَة` · mercy
-- [[mgrq - ones drowned]] — `مُغْرَق` · ones drowned
+- [[qbl - before]] — `قَبْل` · before
+- [[lyl - night]] — `لَيْل` · night
+- [[zwjt - paired]] — `زُوِّجَتْ` · paired
+- [[jnd - hosts]] — `جُند` · hosts
+- [[fwz - success]] — `فَوْز` · success
+- [[mwlY - protector]] — `مَوْلَى` · protector
+- [[>mr - command]] — `أَمَرَ` · command
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[EZym - great]] — `عَظِيم` · great
+- [[>srY - so travel]] — `أَسْرَى` · so travel
+- [[smyE - all-hearer]] — `سَمِيع` · all-hearer
+- [[>wl - first]] — `أَوَّل` · first
+- [[>wrv - we caused inherit]] — `أَوْرَثَ` · we caused inherit
+- [[ymtr - doubt]] — `يَمْتَرُ` · doubt
+- [[jA' - came them]] — `جاءَ` · came them
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[blA' - was trial]] — `بَلاء` · was trial
 - [[bkt - weeping]] — `بَكَتْ` · weeping
-- [[wqY - save us]] — `وَقَى` · save us
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[Hq - truth]] — `حَقّ` · truth
+- [[njY - we saved]] — `نَجَّى` · we saved
 
 ## Roots
 

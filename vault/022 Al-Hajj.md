@@ -14,31 +14,31 @@ The Pilgrimage · 78 ayahs
 
 ## Words in this surah (graph)
 
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[ZAlmp - doing wrong]] — `ظالِمَة` · doing wrong
-- [[mwlY - protector]] — `مَوْلَى` · protector
-- [[msmY - appointed]] — `مُسَمًّى` · appointed
-- [[Hryq - burning fire]] — `حَرِيق` · burning fire
-- [[qwy - all-strong]] — `قَوِيّ` · all-strong
-- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[>TEm - feed]] — `أَطْعَمَ` · feed
 - [[tqwY - righteousness]] — `تَقْوَى` · righteousness
 - [[$EA}r - symbols]] — `شَعائِر` · symbols
-- [[>mlY - dictated]] — `أَمْلَى` · dictated
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[msmY - appointed]] — `مُسَمًّى` · appointed
+- [[mwlY - protector]] — `مَوْلَى` · protector
+- [[ZAlmp - doing wrong]] — `ظالِمَة` · doing wrong
 - [[>*Aq - we will make]] — `أَذاقَ` · we will make
+- [[Hryq - burning fire]] — `حَرِيق` · burning fire
 - [[mnAfE - benefits]] — `مَنافِع` · benefits
-- [[>TEm - feed]] — `أَطْعَمَ` · feed
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[Sb - will poured]] — `صَبَّ` · will poured
-- [[qbr - graves]] — `قَبْر` · graves
+- [[>mlY - dictated]] — `أَمْلَى` · dictated
+- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
+- [[qwy - all-strong]] — `قَوِيّ` · all-strong
+- [[Hsn - good]] — `حُسْن` · good
+- [[r>s - heads]] — `رَأْس` · heads
 - [[dEA - call]] — `دَعا` · call
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[qryp - town]] — `قَرْيَة` · town
-- [[bSr - vision]] — `بَصَر` · vision
-- [[hwY - desire]] — `هَوَى` · desire
-- [[gny - free need]] — `غَنِيّ` · free need
-- [[jbl - mountains]] — `جَبَل` · mountains
+- [[nAr - fire]] — `نار` · fire
+- [[jAdl - dispute]] — `جادَلُ` · dispute
+- [[lyl - night]] — `لَيْل` · night
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[njm - stars]] — `نَجْم` · stars
+- [[$qAq - dissension]] — `شِقاق` · dissension
+- [[xlf - behind them]] — `خَلْف` · behind them
 
 ## Roots
 

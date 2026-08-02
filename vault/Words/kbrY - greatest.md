@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 20:23 · [[020 Taha]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That We may show you [some] of Our greater signs.
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ ہم تمہیں اپنے نشانات عظیم دکھائیں
+**English (Yusuf Ali):** "In order that We may show thee (two) of our Greater Signs.
 
 [Open on Quran.com](https://quran.com/20/23)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day We will strike with the greatest assault, indeed, We will take retribution.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس دن ہم بڑی سخت پکڑ پکڑیں گے تو بےشک انتقام لے کر چھوڑیں گے
+**English (Yusuf Ali):** One day We shall seize you with a mighty onslaught: We will indeed (then) exact Retribution!
 
 [Open on Quran.com](https://quran.com/44/16)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He certainly saw of the greatest signs of his Lord.
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے اپنے پروردگار (کی قدرت) کی کتنی ہی بڑی بڑی نشانیاں دیکھیں
+**English (Yusuf Ali):** For truly did he see, of the Signs of his Lord, the Greatest!
 
 [Open on Quran.com](https://quran.com/53/18)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, it [i.e., the Fire] is of the greatest [afflictions].
 
-**Urdu (Fatah Muhammad Jalandhari):** کہ وہ (آگ) ایک بہت بڑی (آفت) ہے
+**English (Yusuf Ali):** This is but one of the mighty (portents),
 
 [Open on Quran.com](https://quran.com/74/35)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he showed him the greatest sign,
 
-**Urdu (Fatah Muhammad Jalandhari):** غرض انہوں نے اس کو بڑی نشانی دکھائی
+**English (Yusuf Ali):** Then did (Moses) show him the Great Sign.
 
 [Open on Quran.com](https://quran.com/79/20)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But when there comes the greatest Overwhelming Calamity -
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جب بڑی آفت آئے گی
+**English (Yusuf Ali):** Therefore, when there comes the great, overwhelming (Event),-
 
 [Open on Quran.com](https://quran.com/79/34)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [He] who will [enter and] burn in the greatest Fire,
 
-**Urdu (Fatah Muhammad Jalandhari):** جو (قیامت کو) بڑی (تیز) آگ میں داخل ہو گا
+**English (Yusuf Ali):** Who will enter the Great Fire,
 
 [Open on Quran.com](https://quran.com/87/12)
 

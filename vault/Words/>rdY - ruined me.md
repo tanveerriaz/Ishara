@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:137 · [[006 Al-Anam]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And likewise, to many of the polytheists their partners have made [to seem] pleasing the killing of their children in order to bring about their destruction and to cover them with confusion in their religion. And if Allāh had willed, they would not have done so. So leave them and that which they invent.
 
-**Urdu (Fatah Muhammad Jalandhari):** اسی طرح بہت سے مشرکوں کو ان کے شریکوں نے ان کے بچوں کو جان سے مار ڈالنا اچھا کر دکھایا ہے تاکہ انہیں ہلاکت میں ڈال دیں اور ان کے دین کو ان پر خلط ملط کر دیں اور اگر خدا چاہتا تو وہ ایسا نہ کرتے تو ان کو چھوڑ دو کہ وہ جانیں اور ان کا جھوٹ
+**English (Yusuf Ali):** Even so, in the eyes of most of the pagans, their "partners" made alluring the slaughter of their children, in order to lead them to their own destruction, and cause confusion in their religion. If Allah had willed, they would not have done so: But leave alone them and their inventions.
 
 [Open on Quran.com](https://quran.com/6/137)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He will say, "By Allāh, you almost ruined me.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہے گا کہ خدا کی قسم تُو تو مجھے ہلاک ہی کرچکا تھا
+**English (Yusuf Ali):** He said: "By Allah! thou wast little short of bringing me to perdition!
 
 [Open on Quran.com](https://quran.com/37/56)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And that was your assumption which you assumed about your Lord. It has brought you to ruin, and you have become among the losers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی خیال نے جو تم اپنے پروردگار کے بارے میں رکھتے تھے تم کو ہلاک کردیا اور تم خسارہ پانے والوں میں ہوگئے
+**English (Yusuf Ali):** "But this thought of yours which ye did entertain concerning your Lord, hath brought you to destruction, and (now) have ye become of those utterly lost!"
 
 [Open on Quran.com](https://quran.com/41/23)
 

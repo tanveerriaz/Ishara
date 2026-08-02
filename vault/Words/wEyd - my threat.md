@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 14:14 · [[014 Ibrahim]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will surely cause you to dwell in the land after them. That is for he who fears My position and fears My threat."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے بعد تم کو اس زمین میں آباد کریں گے۔ یہ اس شخص کے لیے ہے جو (قیامت کے روز) میرے سامنے کھڑے ہونے سے ڈرے اور میرے عذاب سے خوف کرے
+**English (Yusuf Ali):** "And verily We shall cause you to abide in the land, and succeed them. This for such as fear the Time when they shall stand before My tribunal,- such as fear the punishment denounced."
 
 [Open on Quran.com](https://quran.com/14/14)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus We have sent it down as an Arabic Qur’ān and have diversified therein the warnings that perhaps they will avoid [sin] or it would cause them remembrance.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس کو اسی طرح کا قرآن عربی نازل کیا ہے اور اس میں طرح طرح کے ڈراوے بیان کردیئے ہیں تاکہ لوگ پرہیزگار بنیں یا خدا ان کے لئے نصیحت پیدا کردے
+**English (Yusuf Ali):** Thus have We sent this down - an arabic Qur'an - and explained therein in detail some of the warnings, in order that they may fear Allah, or that it may cause their remembrance (of Him).
 
 [Open on Quran.com](https://quran.com/20/113)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the companions of the thicket and the people of Tubbaʿ. All denied the messengers, so My threat was justly fulfilled.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بن کے رہنے والے اور تُبّع کی قوم۔ (غرض) ان سب نے پیغمبروں کو جھٹلایا تو ہمارا وعید (عذاب) بھی پورا ہو کر رہا
+**English (Yusuf Ali):** The Companions of the Wood, and the People of Tubba'; each one (of them) rejected the messengers, and My warning was duly fulfilled (in them).
 
 [Open on Quran.com](https://quran.com/50/14)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the Horn will be blown. That is the Day of [carrying out] the threat.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور صور پھونکا جائے گا۔ یہی (عذاب کے) وعید کا دن ہے
+**English (Yusuf Ali):** And the Trumpet shall be blown: that will be the Day whereof Warning (had been given).
 
 [Open on Quran.com](https://quran.com/50/20)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] will say, "Do not dispute before Me, while I had already presented to you the threat [i.e., warning].
 
-**Urdu (Fatah Muhammad Jalandhari):** (خدا) فرمائے گا کہ ہمارے حضور میں ردوکد نہ کرو۔ ہم تمہارے پاس پہلے ہی (عذاب کی) وعید بھیج چکے تھے
+**English (Yusuf Ali):** He will say: "Dispute not with each other in My Presence: I had already in advance sent you Warning.
 
 [Open on Quran.com](https://quran.com/50/28)
 
@@ -120,7 +120,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** We are most knowing of what they say, and you are not over them a tyrant. But remind by the Qur’ān whoever fears My threat.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ لوگ جو کچھ کہتے ہیں ہمیں خوب معلوم ہے اور تم ان پر زبردستی کرنے والے نہیں ہو۔ پس جو ہمارے (عذاب کی) وعید سے ڈرے اس کو قرآن سے نصیحت کرتے رہو
+**English (Yusuf Ali):** We know best what they say; and thou art not one to overawe them by force. So admonish with the Qur'an such as fear My Warning!
 
 [Open on Quran.com](https://quran.com/50/45)
 

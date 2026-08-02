@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:60 · [[002 Al-Baqarah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when Moses prayed for water for his people, so We said, "Strike with your staff the stone." And there gushed forth from it twelve springs, and every people [i.e., tribe] knew its watering place. "Eat and drink from the provision of Allāh, and do not commit abuse on the earth, spreading corruption."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لیے (خدا سے) پانی مانگا تو ہم نے کہا کہ اپنی لاٹھی پتھر پر مارو۔ (انہوں نے لاٹھی ماری) تو پھر اس میں سے بارہ چشمے پھوٹ نکلے، اور تمام لوگوں نے اپنا اپنا گھاٹ معلوم کر (کے پانی پی) لیا۔ (ہم نے حکم دیا کہ) خدا کی (عطا فرمائی ہوئی) روزی کھاؤ اور پیو، مگر زمین میں فساد نہ کرتے پھرنا
+**English (Yusuf Ali):** And remember Moses prayed for water for his people; We said: "Strike the rock with thy staff." Then gushed forth therefrom twelve springs. Each group knew its own place for water. So eat and drink of the sustenance provided by Allah, and do no evil nor mischief on the (face of the) earth.
 
 [Open on Quran.com](https://quran.com/2/60)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So he [i.e., Moses] threw his staff, and suddenly it was a serpent, manifest.
 
-**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے اپنی لاٹھی (زمین پر) ڈال دی تو وہ اسی وقت صریح اژدھا (ہوگیا)
+**English (Yusuf Ali):** Then (Moses) threw his rod, and behold! it was a serpent, plain (for all to see)!
 
 [Open on Quran.com](https://quran.com/7/107)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We inspired to Moses, "Throw your staff," and at once it devoured what they were falsifying.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اس وقت) ہم نے موسیٰ کی طرف وحی بھیجی کہ تم بھی اپنی لاٹھی ڈال دو۔ وہ فوراً (سانپ بن کر) جادوگروں کے بنائے ہوئے سانپوں کو (ایک ایک کرکے) نگل جائے گی
+**English (Yusuf Ali):** We put it into Moses's mind by inspiration: "Throw (now) thy rod": and behold! it swallows up straight away all the falsehoods which they fake!
 
 [Open on Quran.com](https://quran.com/7/117)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We divided them into twelve descendant tribes [as distinct] nations. And We inspired to Moses when his people implored him for water, "Strike with your staff the stone," and there gushed forth from it twelve springs. Every people [i.e., tribe] knew its watering place. And We shaded them with clouds and sent down upon them manna and quails, [saying], "Eat from the good things with which We have provided you." And they wronged Us not, but they were [only] wronging themselves.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو (یعنی بنی اسرائیل کو) الگ الگ کرکے بارہ قبیلے (اور) بڑی بڑی جماعتیں بنا دیا۔ اور جب موسیٰ سے ان کی قوم نے پانی طلب کیا تو ہم نے ان کی طرف وحی بھیجی کہ اپنی لاٹھی پتھر پر مار دو۔ تو اس میں سے بارہ چشمے پھوٹ نکلے۔ اور سب لوگوں نے اپنا اپنا گھاٹ معلوم کرلیا۔ اور ہم نے ان (کے سروں) پر بادل کو سائبان بنائے رکھا اور ان پر من وسلویٰ اتارتے رہے۔ اور (ان سے کہا کہ) جو پاکیزہ چیزیں ہم تمہیں دیتے ہیں انہیں کھاؤ۔ اور ان لوگوں نے ہمارا کچھ نقصان نہیں کیا بلکہ (جو) نقصان کیا اپنا ہی کیا
+**English (Yusuf Ali):** We divided them into twelve tribes or nations. We directed Moses by inspiration, when his (thirsty) people asked him for water: "Strike the rock with thy staff": out of it there gushed forth twelve springs: Each group knew its own place for water. We gave them the shade of clouds, and sent down to them manna and quails, (saying): "Eat of the good things We have provided for you": (but they rebelled); to Us they did no harm, but they harmed their own souls.
 
 [Open on Quran.com](https://quran.com/7/160)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "It is my staff; I lean upon it, and I bring down leaves for my sheep and I have therein other uses."
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا یہ میری لاٹھی ہے۔ اس پر میں سہارا لگاتا ہوں اور اس سے اپنی بکریوں کے لئے پتے جھاڑتا ہوں اور اس میں میرے لئے اور بھی کئی فائدے ہیں
+**English (Yusuf Ali):** He said, "It is my rod: on it I lean; with it I beat down fodder for my flocks; and in it I find other uses."
 
 [Open on Quran.com](https://quran.com/20/18)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So [Moses] threw his staff, and suddenly it was a serpent manifest.
 
-**Urdu (Fatah Muhammad Jalandhari):** پس انہوں نے اپنی لاٹھی ڈالی تو وہ اسی وقت صریح اژدہا بن گئی
+**English (Yusuf Ali):** So (Moses) threw his rod, and behold, it was a serpent, plain (for all to see)!
 
 [Open on Quran.com](https://quran.com/26/32)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then Moses threw his staff, and at once it devoured what they falsified.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر موسیٰ نے اپنی لاٹھی ڈالی تو وہ ان چیزوں کو جو جادوگروں نے بنائی تھیں یکایک نگلنے لگی
+**English (Yusuf Ali):** Then Moses threw his rod, when, behold, it straightway swallows up all the falsehoods which they fake!
 
 [Open on Quran.com](https://quran.com/26/45)
 
@@ -155,7 +155,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We inspired to Moses, "Strike with your staff the sea," and it parted, and each portion was like a great towering mountain.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس وقت ہم نے موسیٰ کی طرف وحی بھیجی کہ اپنی لاٹھی دریا پر مارو۔ تو دریا پھٹ گیا۔ اور ہر ایک ٹکڑا (یوں) ہوگیا (کہ) گویا بڑا پہاڑ (ہے)
+**English (Yusuf Ali):** Then We told Moses by inspiration: "Strike the sea with thy rod." So it divided, and each separate part became like the huge, firm mass of a mountain.
 
 [Open on Quran.com](https://quran.com/26/63)
 
@@ -171,7 +171,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [he was told], "Throw down your staff." But when he saw it writhing as if it were a snake, he turned in flight and did not return. [Allāh said], "O Moses, fear not. Indeed, in My presence the messengers do not fear.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنی لاٹھی ڈال دو۔ جب اُسے دیکھا تو (اس طرح) ہل رہی تھی گویا سانپ ہے تو پیٹھ پھیر کر بھاگے اور پیچھے مڑ کر نہ دیکھا (حکم ہوا کہ) موسیٰ ڈرو مت۔ ہمارے پاس پیغمبر ڈرا نہیں کرتے
+**English (Yusuf Ali):** "Now do thou throw thy rod!" But when he saw it moving (of its own accord) as if it had been a snake, he turned back in retreat, and retraced not his steps: "O Moses!" (it was said), "Fear not: truly, in My presence, those called as messengers have no fear,-
 
 [Open on Quran.com](https://quran.com/27/10)
 
@@ -187,7 +187,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [he was told], "Throw down your staff." But when he saw it writhing as if it was a snake, he turned in flight and did not return. [Allāh said], "O Moses, approach and fear not. Indeed, you are of the secure.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ اپنی لاٹھی ڈالدو۔ جب دیکھا کہ وہ حرکت کر رہی ہے گویا سانپ ہے، تو پیٹھ پھیر کر چل دیئے اور پیچھے پھر کر بھی نہ دیکھا۔ (ہم نے کہا کہ) موسٰی آگے آؤ اور ڈرومت تم امن پانے والوں میں ہو
+**English (Yusuf Ali):** "Now do thou throw thy rod!" but when he saw it moving (of its own accord) as if it had been a snake, he turned back in retreat, and retraced not his steps: O Moses!" (It was said), "Draw near, and fear not: for thou art of those who are secure.
 
 [Open on Quran.com](https://quran.com/28/31)
 

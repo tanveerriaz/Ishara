@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:73 · [[011 Hud]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "Are you amazed at the decree of Allāh? May the mercy of Allāh and His blessings be upon you, people of the house. Indeed, He is Praiseworthy and Honorable."
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کیا تم خدا کی قدرت سے تعجب کرتی ہو؟ اے اہل بیت تم پر خدا کی رحمت اور اس کی برکتیں ہیں۔ وہ سزاوار تعریف اور بزرگوار ہے
+**English (Yusuf Ali):** They said: "Dost thou wonder at Allah's decree? The grace of Allah and His blessings on you, o ye people of the house! for He is indeed worthy of all praise, full of all glory!"
 
 [Open on Quran.com](https://quran.com/11/73)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Qāf. By the honored Qur’ān...
 
-**Urdu (Fatah Muhammad Jalandhari):** قٓ۔ قرآن مجید کی قسم (کہ محمد پیغمبر خدا ہیں)
+**English (Yusuf Ali):** Qaf: By the Glorious Qur'an (Thou art Allah's Messenger).
 
 [Open on Quran.com](https://quran.com/50/1)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Honorable Owner of the Throne,
 
-**Urdu (Fatah Muhammad Jalandhari):** عرش کا مالک بڑی شان والا
+**English (Yusuf Ali):** Lord of the Throne of Glory,
 
 [Open on Quran.com](https://quran.com/85/15)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But this is an honored Qur’ān
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ کتاب ہزل و بطلان نہیں) بلکہ یہ قرآن عظیم الشان ہے
+**English (Yusuf Ali):** Nay, this is a Glorious Qur'an,
 
 [Open on Quran.com](https://quran.com/85/21)
 

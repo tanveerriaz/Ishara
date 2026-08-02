@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:70 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "Call upon your Lord to make clear to us what it is. Indeed, [all] cows look alike to us. And indeed we, if Allāh wills, will be guided."
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ (اب کے) پروردگار سے پھر درخواست کیجئے کہ ہم کو بتا دے کہ وہ اور کس کس طرح کا ہو، کیونکہ بہت سے بیل ہمیں ایک دوسرے کے مشابہ معلوم ہوتے ہیں، (پھر) خدا نے چاہا تو ہمیں ٹھیک بات معلوم ہو جائے گی
+**English (Yusuf Ali):** They said: "Beseech on our behalf Thy Lord to make plain to us what she is: To us are all heifers alike: We wish indeed for guidance, if Allah wills."
 
 [Open on Quran.com](https://quran.com/2/70)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who do not know say, "Why does Allāh not speak to us or there come to us a sign?" Thus spoke those before them like their words. Their hearts resemble each other. We have shown clearly the signs to a people who are certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ (کچھ) نہیں جانتے (یعنی مشرک) وہ کہتے ہیں کہ خدا ہم سے کلام کیوں نہیں کرتا۔ یا ہمارے پاس کوئی نشانی کیوں نہیں آتی۔ اسی طرح جو لوگ ان سے پہلے تھے، وہ بھی انہی کی سی باتیں کیا کرتے تھے۔ ان لوگوں کے دل آپس میں ملتے جلتے ہیں۔ جو لوگ صاحبِ یقین ہیں، ان کے (سمجھانے کے) لیے نشانیاں بیان کردی ہیں
+**English (Yusuf Ali):** Say those without knowledge: "Why speaketh not Allah unto us? or why cometh not unto us a Sign?" So said the people before them words of similar import. Their hearts are alike. We have indeed made clear the Signs unto any people who hold firmly to Faith (in their hearts).
 
 [Open on Quran.com](https://quran.com/2/118)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who has sent down to you, [O Muḥammad], the Book; in it are verses [that are] precise - they are the foundation of the Book - and others unspecific. As for those in whose hearts is deviation [from truth], they will follow that of it which is unspecific, seeking discord and seeking an interpretation [suitable to them]. And no one knows its [true] interpretation except Allāh. But those firm in knowledge say, "We believe in it. All [of it] is from our Lord." And no one will be reminded except those of understanding.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم پر کتاب نازل کی جس کی بعض آیتیں محکم ہیں (اور) وہی اصل کتاب ہیں اور بعض متشابہ ہیں تو جن لوگوں کے دلوں میں کجی ہے وہ متشابہات کا اتباع کرتے ہیں تاکہ فتنہ برپا کریں اور مراد اصلی کا پتہ لگائیں حالانکہ مراد اصلی خدا کے سوا کوئی نہیں جانتا اور جو لوگ علم میں دست گاہ کامل رکھتے ہیں وہ یہ کہتے ہیں کہ ہم ان پر ایمان لائے یہ سب ہمارے پروردگار کی طرف سے ہیں اور نصیحت تو عقل مند ہی قبول کرتے ہیں
+**English (Yusuf Ali):** He it is Who has sent down to thee the Book: In it are verses basic or fundamental (of established meaning); they are the foundation of the Book: others are allegorical. But those in whose hearts is perversity follow the part thereof that is allegorical, seeking discord, and searching for its hidden meanings, but no one knows its hidden meanings except Allah. And those who are firmly grounded in knowledge say: "We believe in the Book; the whole of it is from our Lord:" and none will grasp the Message except men of understanding.
 
 [Open on Quran.com](https://quran.com/3/7)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Who is Lord of the heavens and earth?" Say, "Allāh." Say, "Have you then taken besides Him allies not possessing [even] for themselves any benefit or any harm?" Say, "Is the blind equivalent to the seeing? Or is darkness equivalent to light? Or have they attributed to Allāh partners who created like His creation so that the creation [of each] seemed similar to them?" Say, "Allāh is the Creator of all things, and He is the One, the Prevailing."
 
-**Urdu (Fatah Muhammad Jalandhari):** ان سے پوچھو کہ آسمانوں اور زمین کا پروردگار کون ہے؟ (تم ہی ان کی طرف سے) کہہ دو کہ خدا۔ پھر (ان سے) کہو کہ تم نے خدا کو چھوڑ کر ایسے لوگوں کو کیوں کارساز بنایا ہے جو خود اپنے نفع ونقصان کا بھی اختیار نہیں رکھتے (یہ بھی) پوچھو کیا اندھا اور آنکھوں والا برابر ہیں؟ یا اندھیرا اور اُجالا برابر ہوسکتا ہے؟ بھلا ان لوگوں نے جن کو خدا کا شریک مقرر کیا ہے۔ کیا انہوں نے خدا کی سی مخلوقات پیدا کی ہے جس کے سبب ان کو مخلوقات مشتبہ ہوگئی ہے۔ کہہ دو کہ خدا ہی ہر چیز کا پیدا کرنے والا ہے اور وہ یکتا (اور) زبردست ہے
+**English (Yusuf Ali):** Say: "Who is the Lord and Sustainer of the heavens and the earth?" Say: "(It is) Allah." Say: "Do ye then take (for worship) protectors other than Him, such as have no power either for good or for harm to themselves?" Say: "Are the blind equal with those who see? Or the depths of darkness equal with light?" Or do they assign to Allah partners who have created (anything) as He has created, so that the creation seemed to them similar? Say: "Allah is the Creator of all things: He is the One, the Supreme and Irresistible."
 
 [Open on Quran.com](https://quran.com/13/16)
 

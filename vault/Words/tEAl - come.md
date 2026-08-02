@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:61 · [[003 Ali Imran]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then whoever argues with you about it after [this] knowledge has come to you - say, "Come, let us call our sons and your sons, our women and your women, ourselves and yourselves, then supplicate earnestly [together] and invoke the curse of Allāh upon the liars [among us]."
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اگر یہ لوگ عیسیٰ کے بارے میں تم سے جھگڑا کریں اور تم کو حقیقت الحال تو معلوم ہو ہی چلی ہے تو ان سے کہنا کہ آؤ ہم اپنے بیٹوں اور عورتوں کو بلائیں تم اپنے بیٹوں اور عورتوں کو بلاؤ اور ہم خود بھی آئیں اور تم خود بھی آؤ پھر دونوں فریق (خدا سے) دعا والتجا کریں اور جھوٹوں پر خدا کی لعنت بھیجیں
+**English (Yusuf Ali):** If any one disputes in this matter with thee, now after (full) knowledge Hath come to thee, say: "Come! let us gather together,- our sons and your sons, our women and your women, ourselves and yourselves: Then let us earnestly pray, and invoke the curse of Allah on those who lie!"
 
 [Open on Quran.com](https://quran.com/3/61)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh." But if they turn away, then say, "Bear witness that we are Muslims [submitting to Him]."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اے اہل کتاب جو بات ہمارے اور تمہارے دونوں کے درمیان یکساں (تسلیم کی گئی) ہے اس کی طرف آؤ وہ یہ کہ خدا کے سوا ہم کسی کی عبادت نہ کریں اور اس کے ساتھ کسی چیز کو شریک نہ بنائیں اور ہم میں سے کوئی کسی کو خدا کے سوا اپنا کار ساز نہ سمجھے اگر یہ لوگ (اس بات کو) نہ مانیں تو (ان سے) کہہ دو کہ تم گواہ رہو کہ ہم (خدا کے) فرماں بردار ہیں
+**English (Yusuf Ali):** Say: "O People of the Book! come to common terms as between us and you: That we worship none but Allah; that we associate no partners with him; that we erect not, from among ourselves, Lords and patrons other than Allah." If then they turn back, say ye: "Bear witness that we (at least) are Muslims (bowing to Allah's Will).
 
 [Open on Quran.com](https://quran.com/3/64)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And that He might make evident those who are hypocrites. For it was said to them, "Come, fight in the way of Allāh or [at least] defend." They said, "If we had known [there would be] battle, we would have followed you." They were nearer to disbelief that day than to faith, saying with their mouths what was not in their hearts. And Allāh is most knowing of what they conceal -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور منافقوں کو بھی معلوم کرلے اور (جب) ان سے کہا گیا کہ آؤ خدا کے رستے میں جنگ کرو یا (کافروں کے) حملوں کو روکو۔ تو کہنے لگے کہ اگر ہم کو لڑائی کی خبر ہوتی تو ہم ضرور تمہارے ساتھ رہتے یہ اس دن ایمان کی نسبت کفر سے زیادہ قریب تھے منہ سے وہ باتیں کہتے ہیں جو ان کے دل میں نہیں ہیں۔ اور جو کچھ یہ چھپاتے ہیں خدا ان سے خوب واقف ہے
+**English (Yusuf Ali):** And the Hypocrites also. These were told: "Come, fight in the way of Allah, or (at least) drive (The foe from your city)." They said: "Had we known how to fight, we should certainly have followed you." They were that day nearer to Unbelief than to Faith, saying with their lips what was not in their hearts but Allah hath full knowledge of all they conceal.
 
 [Open on Quran.com](https://quran.com/3/167)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when it is said to them, "Come to what Allāh has revealed and to the Messenger," you see the hypocrites turning away from you in aversion.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان سے کہا جاتا ہے کہ جو حکم خدا نے نازل فرمایا ہے اس کی طرف (رجوع کرو) اور پیغمبر کی طرف آؤ تو تم منافقوں کو دیکھتے ہو کہ تم سے اعراض کرتے اور رکے جاتے ہیں
+**English (Yusuf Ali):** When it is said to them: "Come to what Allah hath revealed, and to the Messenger": Thou seest the Hypocrites avert their faces from thee in disgust.
 
 [Open on Quran.com](https://quran.com/4/61)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when it is said to them, "Come to what Allāh has revealed and to the Messenger," they say, "Sufficient for us is that upon which we found our fathers." Even though their fathers knew nothing, nor were they guided?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان لوگوں سے کہا جاتا ہے کہ جو (کتاب) خدا نے نازل فرمائی ہے اس کی اور رسول الله کی طرف رجوع کرو تو کہتے ہیں کہ جس طریق پر ہم نے اپنے باپ دادا کو پایا ہے وہی ہمیں کافی ہے بھلا اگر ان کے باپ دادا نہ تو کچھ جانتے ہوں اور نہ سیدھے رستے پر ہوں (تب بھی؟)
+**English (Yusuf Ali):** When it is said to them: "Come to what Allah hath revealed; come to the Messenger": They say: "Enough for us are the ways we found our fathers following." what! even though their fathers were void of knowledge and guidance?
 
 [Open on Quran.com](https://quran.com/5/104)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Come, I will recite what your Lord has prohibited to you. [He commands] that you not associate anything with Him, and to parents, good treatment, and do not kill your children out of poverty; We will provide for you and them. And do not approach immoralities - what is apparent of them and what is concealed. And do not kill the soul which Allāh has forbidden [to be killed] except by [legal] right. This has He instructed you that you may use reason."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ کہ (لوگو) آؤ میں تمہیں وہ چیزیں پڑھ کر سناؤں جو تمہارے پروردگار نے تم پر حرام کر دی ہیں (ان کی نسبت اس نے اس طرح ارشاد فرمایا ہے) کہ کسی چیز کو خدا کا شریک نہ بنانا اور ماں باپ (سے بدسلوکی نہ کرنا بلکہ) سلوک کرتے رہنا اور ناداری (کے اندیشے) سے اپنی اولاد کو قتل نہ کرنا کیونکہ تم کو اور ان کو ہم ہی رزق دیتے ہیں اور بےحیائی کے کام ظاہر ہوں یا پوشیدہ ان کے پاس نہ پھٹکنا اور کسی جان (والے) کو جس کے قتل کو خدا نے حرام کر دیا ہے قتل نہ کرنا مگر جائز طور پر (یعنی جس کا شریعت حکم دے) ان باتوں کا وہ تمہیں ارشاد فرماتا ہے تاکہ تم سمجھو
+**English (Yusuf Ali):** Say: "Come, I will rehearse what Allah hath (really) prohibited you from": Join not anything as equal with Him; be good to your parents; kill not your children on a plea of want;- We provide sustenance for you and for them;- come not nigh to shameful deeds. Whether open or secret; take not life, which Allah hath made sacred, except by way of justice and law: thus doth He command you, that ye may learn wisdom.
 
 [Open on Quran.com](https://quran.com/6/151)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Prophet, say to your wives, "If you should desire the worldly life and its adornment, then come, I will provide for you and give you a gracious release.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر اپنی بیویوں سے کہہ دو کہ اگر تم دنیا کی زندگی اور اس کی زینت وآرائش کی خواستگار ہو تو آؤ میں تمہیں کچھ مال دوں اور اچھی طرح سے رخصت کردوں
+**English (Yusuf Ali):** O Prophet! Say to thy Consorts: "If it be that ye desire the life of this World, and its glitter,- then come! I will provide for your enjoyment and set you free in a handsome manner.
 
 [Open on Quran.com](https://quran.com/33/28)
 
@@ -155,7 +155,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when it is said to them, "Come, the Messenger of Allāh will ask forgiveness for you," they turn their heads aside and you see them evading while they are arrogant.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان سے کہا جائے کہ آؤ رسول خدا تمہارے لئے مغفرت مانگیں تو سر ہلا دیتے ہیں اور تم ان کو دیکھو کہ تکبر کرتے ہوئے منہ پھیر لیتے ہیں
+**English (Yusuf Ali):** And when it is said to them, "Come, the Messenger of Allah will pray for your forgiveness", they turn aside their heads, and thou wouldst see them turning away their faces in arrogance.
 
 [Open on Quran.com](https://quran.com/63/5)
 

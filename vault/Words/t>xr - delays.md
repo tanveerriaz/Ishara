@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:203 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And remember Allāh during [specific] numbered days. Then whoever hastens [his departure] in two days - there is no sin upon him; and whoever delays [until the third] - there is no sin upon him - for him who fears Allāh. And fear Allāh and know that unto Him you will be gathered.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (قیام منیٰ کے) دنوں میں (جو) گنتی کے (دن میں) خدا کو یاد کرو۔ اگر کوئی جلدی کرے (اور) دو ہی دن میں (چل دے) تو اس پر بھی کچھ گناہ نہیں۔ اور جو بعد تک ٹھہرا رہے اس پر بھی کچھ گناہ نہیں۔ یہ باتیں اس شخص کے لئے ہیں جو (خدا سے) ڈرے اور تم لوگ خدا سے ڈرتے رہو اور جان رکھو کہ تم سب اس کے پاس جمع کئے جاؤ گے۔
+**English (Yusuf Ali):** Celebrate the praises of Allah during the Appointed Days. But if any one hastens to leave in two days, there is no blame on him, and if any one stays on, there is no blame on him, if his aim is to do right. Then fear Allah, and know that ye will surely be gathered unto Him.
 
 [Open on Quran.com](https://quran.com/2/203)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That Allāh may forgive for you what preceded of your sin [i.e., errors] and what will follow and complete His favor upon you and guide you to a straight path
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ خدا تمہارے اگلے اور پچھلے گناہ بخش دے اور تم پر اپنی نعمت پوری کردے اور تمہیں سیدھے رستے چلائے
+**English (Yusuf Ali):** That Allah may forgive thee thy faults of the past and those to follow; fulfil His favour to thee; and guide thee on the Straight Way;
 
 [Open on Quran.com](https://quran.com/48/2)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** To whoever wills among you to proceed or stay behind.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو تم میں سے آگے بڑھنا چاہے یا پیچھے رہنا چاہے
+**English (Yusuf Ali):** To any of you that chooses to press forward, or to follow behind;-
 
 [Open on Quran.com](https://quran.com/74/37)
 

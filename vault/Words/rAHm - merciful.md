@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:151 · [[007 Al-Araf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Moses] said, "My Lord, forgive me and my brother and admit us into Your mercy, for You are the most merciful of the merciful."
 
-**Urdu (Fatah Muhammad Jalandhari):** تب انہوں نے دعا کی کہ اے میرے پروردگار مجھے اور میرے بھائی کو معاف فرما اور ہمیں اپنی رحمت میں داخل کر تو سب سے بڑھ کر رحم کرنے والا ہے
+**English (Yusuf Ali):** Moses prayed: "O my Lord! forgive me and my brother! admit us to Thy mercy! for Thou art the Most Merciful of those who show mercy!"
 
 [Open on Quran.com](https://quran.com/7/151)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "Should I entrust you with him except [under coercion] as I entrusted you with his brother before? But Allāh is the best guardian, and He is the most merciful of the merciful."
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعقوب نے) کہا کہ میں اس کے بارے میں تمہارا اعتبار نہیں کرتا مگر ویسا ہی جیسا اس کے بھائی کے بارے میں کیا تھا۔ سو خدا ہی بہتر نگہبان ہے۔ اور وہ سب سے زیادہ رحم کرنے والا ہے
+**English (Yusuf Ali):** He said: "Shall I trust you with him with any result other than when I trusted you with his brother aforetime? But Allah is the best to take care (of him), and He is the Most Merciful of those who show mercy!"
 
 [Open on Quran.com](https://quran.com/12/64)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "No blame will there be upon you today. May Allāh forgive you; and He is the most merciful of the merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یوسف نے) کہا کہ آج کے دن سے تم پر کچھ عتاب (وملامت) نہیں ہے۔ خدا تم کو معاف کرے۔ اور وہ بہت رحم کرنے والا ہے
+**English (Yusuf Ali):** He said: "This day let no reproach be (cast) on you: Allah will forgive you, and He is the Most Merciful of those who show mercy!
 
 [Open on Quran.com](https://quran.com/12/92)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] Job, when he called to his Lord, "Indeed, adversity has touched me, and You are the most merciful of the merciful."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ایوب کو (یاد کرو) جب انہوں نے اپنے پروردگار سے دعا کی کہ مجھے ایذا ہو رہی ہے اور تو سب سے بڑھ کر رحم کرنے والا ہے
+**English (Yusuf Ali):** And (remember) Job, when He cried to his Lord, "Truly distress has seized me, but Thou art the Most Merciful of those that are merciful."
 
 [Open on Quran.com](https://quran.com/21/83)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, there was a party of My servants who said, 'Our Lord, we have believed, so forgive us and have mercy upon us, and You are the best of the merciful.'
 
-**Urdu (Fatah Muhammad Jalandhari):** میرے بندوں میں ایک گروہ تھا جو دعا کیا کرتا تھا کہ اے ہمارے پروردگار ہم ایمان لائے تو تُو ہم کو بخش دے اور ہم پر رحم کر اور تو سب سے بہتر رحم کرنے والا ہے
+**English (Yusuf Ali):** "A part of My servants there was, who used to pray 'our Lord! we believe; then do Thou forgive us, and have mercy upon us: For Thou art the Best of those who show mercy!"
 
 [Open on Quran.com](https://quran.com/23/109)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And, [O Muḥammad], say, "My Lord, forgive and have mercy, and You are the best of the merciful."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا سے دعا کرو کہ میرے پروردگار مجھے بخش دے اور (مجھ پر) رحم کر اور تو سب سے بہتر رحم کرنے والا ہے
+**English (Yusuf Ali):** So say: "O my Lord! grant Thou forgiveness and mercy for Thou art the Best of those who show mercy!"
 
 [Open on Quran.com](https://quran.com/23/118)
 

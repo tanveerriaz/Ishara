@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:69 · [[004 An-Nisa]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever obeys Allāh and the Messenger - those will be with the ones upon whom Allāh has bestowed favor of the prophets, the steadfast affirmers of truth, the martyrs and the righteous. And excellent are those as companions.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا اور اس کے رسول کی اطاعت کرتے ہیں وہ (قیامت کے روز) ان لوگوں کے ساتھ ہوں گے جن پر خدا نے بڑا فضل کیا یعنی انبیاء اور صدیق اور شہید اور نیک لوگ اور ان لوگوں کی رفاقت بہت ہی خوب ہے
+**English (Yusuf Ali):** All who obey Allah and the messenger are in the company of those on whom is the Grace of Allah,- of the prophets (who teach), the sincere (lovers of Truth), the witnesses (who testify), and the Righteous (who do good): Ah! what a beautiful fellowship!
 
 [Open on Quran.com](https://quran.com/4/69)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [He said], "Joseph, O man of truth, explain to us about seven fat cows eaten by seven [that were] lean, and seven green spikes [of grain] and others [that were] dry - that I may return to the people [i.e., the king and his court]; perhaps they will know [about you]."
 
-**Urdu (Fatah Muhammad Jalandhari):** (غرض وہ یوسف کے پاس آیا اور کہنے لگا) یوسف اے بڑے سچے (یوسف) ہمیں اس خواب کی تعبیر بتایئے کہ سات موٹی گائیوں کو سات دبلی گائیں کھا رہی ہیں۔ اور سات خوشے سبز ہیں اور سات سوکھے تاکہ میں لوگوں کے پاس واپس جا (کر تعبیر بتاؤں)۔ عجب نہیں کہ وہ (تمہاری قدر) جانیں
+**English (Yusuf Ali):** "O Joseph!" (he said) "O man of truth! Expound to us (the dream) of seven fat kine whom seven lean ones devour, and of seven green ears of corn and (seven) others withered: that I may return to the people, and that they may understand."
 
 [Open on Quran.com](https://quran.com/12/46)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And mention in the Book [the story of] Abraham. Indeed, he was a man of truth and a prophet.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کتاب میں ابراہیم کو یاد کرو۔ بےشک وہ نہایت سچے پیغمبر تھے
+**English (Yusuf Ali):** (Also mention in the Book (the story of) Abraham: He was a man of Truth, a prophet.
 
 [Open on Quran.com](https://quran.com/19/41)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And mention in the Book, Idrees. Indeed, he was a man of truth and a prophet.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کتاب میں ادریس کا بھی ذکر کرو۔ وہ بھی نہایت سچے نبی تھے
+**English (Yusuf Ali):** Also mention in the Book the case of Idris: He was a man of truth (and sincerity), (and) a prophet:
 
 [Open on Quran.com](https://quran.com/19/56)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There is not upon the blind [any] constraint nor upon the lame constraint nor upon the ill constraint nor upon yourselves when you eat from your [own] houses or the houses of your fathers or the houses of your mothers or the houses of your brothers or the houses of your sisters or the houses of your father's brothers or the houses of your father's sisters or the houses of your mother's brothers or the houses of your mother's sisters or [from houses] whose keys you possess or [from the house] of your friend. There is no blame upon you whether you eat together or separately. But when you enter houses, give greetings of peace upon each other - a greeting from Allāh, blessed and good. Thus does Allāh make clear to you the verses [of ordinance] that you may understand.
 
-**Urdu (Fatah Muhammad Jalandhari):** نہ تو اندھے پر کچھ گناہ ہے اور نہ لنگڑے پر اور نہ بیمار پر اور نہ خود تم پر کہ اپنے گھروں سے کھانا کھاؤ یا اپنے باپوں کے گھروں سے یا اپنی ماؤں کے گھروں سے یا بھائیوں کے گھروں سے یا اپنی بہنوں کے گھروں سے یا اپنے چچاؤں کے گھروں سے یا اپنی پھوپھیوں کے گھروں سے یا اپنے ماموؤں کے گھروں سے یا اپنی خالاؤں کے گھروں سے یا اس گھر سے جس کی کنجیاں تمہارے ہاتھ میں ہوں یا اپنے دوستوں کے گھروں سے (اور اس کا بھی) تم پر کچھ گناہ نہیں کہ سب مل کر کھانا کھاؤ یا جدا جدا۔ اور جب گھروں میں جایا کرو تو اپنے (گھر والوں کو) سلام کیا کرو۔ (یہ) خدا کی طرف سے مبارک اور پاکیزہ تحفہ ہے۔ اس طرح خدا اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم سمجھو
+**English (Yusuf Ali):** It is no fault in the blind nor in one born lame, nor in one afflicted with illness, nor in yourselves, that ye should eat in your own houses, or those of your fathers, or your mothers, or your brothers, or your sisters, or your father's brothers or your father's sisters, or your mother's brothers, or your mother's sisters, or in houses of which the keys are in your possession, or in the house of a sincere friend of yours: there is no blame on you, whether ye eat in company or separately. But if ye enter houses, salute each other - a greeting of blessing and purity as from Allah. Thus does Allah make clear the signs to you: that ye may understand.
 
 [Open on Quran.com](https://quran.com/24/61)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And not a devoted friend.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور نہ گرم جوش دوست
+**English (Yusuf Ali):** "'Nor a single friend to feel (for us).
 
 [Open on Quran.com](https://quran.com/26/101)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who have believed in Allāh and His messengers - those are [in the ranks of] the supporters of truth and the martyrs, with their Lord. For them is their reward and their light. But those who have disbelieved and denied Our verses - those are the companions of Hellfire.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا اور اس کے پیغمبروں پر ایمان لائے یہی اپنے پروردگار کے نزدیک صدیق اور شہید ہیں۔ ان کے لئے ان (کے اعمال) کا صلہ ہوگا۔ اور ان (کے ایمان) کی روشنی۔ اور جن لوگوں نے کفر کیا اور ہماری آیتوں کو جھٹلایا وہی اہل دوزخ ہیں
+**English (Yusuf Ali):** And those who believe in Allah and His messengers- they are the Sincere (lovers of Truth), and the witnesses (who testify), in the eyes of their Lord: They shall have their Reward and their Light. But those who reject Allah and deny Our Signs,- they are the Companions of Hell-Fire.
 
 [Open on Quran.com](https://quran.com/57/19)
 

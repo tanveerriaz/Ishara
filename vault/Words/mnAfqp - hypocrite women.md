@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:67 · [[009 At-Tawbah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The hypocrite men and hypocrite women are of one another. They enjoin what is wrong and forbid what is right and close their hands. They have forgotten Allāh, so He has forgotten them [accordingly]. Indeed, the hypocrites - it is they who are the defiantly disobedient.
 
-**Urdu (Fatah Muhammad Jalandhari):** منافق مرد اور منافق عورتیں ایک دوسرے کے ہم جنس (یعنی ایک طرح کے) ہیں کہ برے کام کرنے کو کہتے اور نیک کاموں سے منع کرتے اور (خرچ کرنے سے) ہاتھ بند کئے رہتے ہیں۔ انہوں نے خدا کو بھلا دیا تو خدا نے ان کو بھلا دیا۔ بےشک منافق نافرمان ہیں
+**English (Yusuf Ali):** The Hypocrites, men and women, (have an understanding) with each other: They enjoin evil, and forbid what is just, and are close with their hands. They have forgotten Allah; so He hath forgotten them. Verily the Hypocrites are rebellious and perverse.
 
 [Open on Quran.com](https://quran.com/9/67)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh has promised the hypocrite men and hypocrite women and the disbelievers the fire of Hell, wherein they will abide eternally. It is sufficient for them. And Allāh has cursed them, and for them is an enduring punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** الله نے منافق مردوں اور منافق عورتوں اور کافروں سے آتش جہنم کا وعدہ کیا ہے جس میں ہمیشہ (جلتے) رہیں گے۔ وہی ان کے لائق ہے۔ اور خدا نے ان پر لعنت کر دی ہے۔ اور ان کے لیے ہمیشہ کا عذاب (تیار) ہے
+**English (Yusuf Ali):** Allah hath promised the Hypocrites men and women, and the rejecters, of Faith, the fire of Hell: Therein shall they dwell: Sufficient is it for them: for them is the curse of Allah, and an enduring punishment,-
 
 [Open on Quran.com](https://quran.com/9/68)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [It was] so that Allāh may punish the hypocrite men and hypocrite women and the men and women who associate others with Him and that Allāh may accept repentance from the believing men and believing women. And ever is Allāh Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ خدا منافق مردوں اور منافق عورتوں اور مشرک مردوں اور مشرک عورتوں کو عذاب دے اور خدا مومن مردوں اور مومن عورتوں پر مہربانی کرے۔ اور خدا تو بخشنے والا مہربان ہے
+**English (Yusuf Ali):** (With the result) that Allah has to punish the Hypocrites, men and women, and the Unbelievers, men and women, and Allah turns in Mercy to the Believers, men and women: for Allah is Oft-Forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/33/73)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [that] He may punish the hypocrite men and hypocrite women, and the polytheist men and polytheist women - those who assume about Allāh an assumption of evil nature. Upon them is a misfortune of evil nature; and Allāh has become angry with them and has cursed them and prepared for them Hell, and evil it is as a destination.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (اس لئے کہ) منافق مردوں اور منافق عورتوں اور مشرک مردوں اور مشرک عورتوں کو جو خدا کے حق میں برے برے خیال رکھتے ہیں عذاب دے۔ ان ہی پر برے حادثے واقع ہوں۔ اور خدا ان پر غصے ہوا اور ان پر لعنت کی اور ان کے لئے دوزخ تیار کی۔ اور وہ بری جگہ ہے
+**English (Yusuf Ali):** And that He may punish the Hypocrites, men and women, and the Polytheists men and women, who imagine an evil opinion of Allah. On them is a round of Evil: the Wrath of Allah is on them: He has cursed them and got Hell ready for them: and evil is it for a destination.
 
 [Open on Quran.com](https://quran.com/48/6)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** On the [same] Day the hypocrite men and hypocrite women will say to those who believed, "Wait for us that we may acquire some of your light." It will be said, "Go back behind you and seek light." And a wall will be placed between them with a door, its interior containing mercy, but on the outside of it is torment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اُس دن منافق مرد اور منافق عورتیں مومنوں سے کہیں گے کہ ہماری طرف سے (شفقت) کیجیئے کہ ہم بھی تمہارے نور سے روشنی حاصل کریں۔ تو ان سے کہا جائے گا کہ پیچھے کو لوٹ جاؤ اور (وہاں) نور تلاش کرو۔ پھر ان کے بیچ میں ایک دیوار کھڑی کر دی جائے گی۔ جس میں ایک دروازہ ہوگا جو اس کی جانب اندرونی ہے اس میں تو رحمت ہے اور جو جانب بیرونی ہے اس طرف عذاب (واذیت)
+**English (Yusuf Ali):** One Day will the Hypocrites- men and women - say to the Believers: "Wait for us! Let us borrow (a Light) from your Light!" It will be said: "Turn ye back to your rear! then seek a Light (where ye can)!" So a wall will be put up betwixt them, with a gate therein. Within it will be Mercy throughout, and without it, all alongside, will be (Wrath and) Punishment!
 
 [Open on Quran.com](https://quran.com/57/13)
 

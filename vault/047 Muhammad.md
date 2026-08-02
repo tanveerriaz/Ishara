@@ -16,29 +16,29 @@ Muhammad · 38 ayahs
 
 - [[bxl - withhold]] — `بَخِلَ` · withhold
 - [[bAl - case]] — `بال` · case
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[xyr - better]] — `خَيْر` · better
-- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[wzr - burden]] — `وِزْر` · burden
-- [[mA' - water]] — `ماء` · water
-- [[dEA - call]] — `دَعا` · call
-- [[Artd - turns away]] — `ارْتَدَّ` · turns away
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[qryp - town]] — `قَرْيَة` · town
-- [[fqyr - poor]] — `فَقِير` · poor
-- [[Hmym - scalding water]] — `حَمِيم` · scalding water
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[bSr - vision]] — `بَصَر` · vision
-- [[nZr - see]] — `نَظَرَ` · see
-- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
-- [[krh - unwillingly]] — `كُرْه` · unwillingly
-- [[qwl - speech]] — `قَوْل` · speech
+- [[rqbp - slave]] — `رَقَبَة` · slave
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[dEA - call]] — `دَعا` · call
+- [[lq - you meet]] — `لَقُ` · you meet
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[sAr - travel]] — `سارَ` · travel
+- [[wjh - faces]] — `وَجْه` · faces
+- [[qwp - strength]] — `قُوَّة` · strength
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
 - [[>xbAr - news]] — `أَخْبار` · news
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[s>l - ask]] — `سَأَلَ` · ask
+- [[fqyr - poor]] — `فَقِير` · poor
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[mwlY - protector]] — `مَوْلَى` · protector
+- [[Eml - do]] — `عَمِلَ` · do
+- [[>fsd - spread corruption]] — `أَفْسَدُ` · spread corruption
+- [[$dd - we strengthened]] — `شَدَدْ` · we strengthened
+- [[>mr - command]] — `أَمَرَ` · command
+- [[whn - weaken]] — `وَهَنَ` · weaken
+- [[mA' - water]] — `ماء` · water
 
 ## Roots
 

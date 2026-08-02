@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:113 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Jews say, "The Christians have nothing [true] to stand on," and the Christians say, "The Jews have nothing to stand on," although they [both] recite the Scripture. Thus do those who know not [i.e., the polytheists] speak the same as their words. But Allāh will judge between them on the Day of Resurrection concerning that over which they used to differ.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہودی کہتے ہیں کہ عیسائی رستے پر نہیں اور عیسائی کہتے ہیں کہ یہودی رستے پر نہیں۔ حالانکہ وہ کتاب (الہٰی) پڑھتے ہیں۔ اسی طرح بالکل انہی کی سی بات وہ لوگ کہتے ہیں جو (کچھ) نہیں جانتے (یعنی مشرک) تو جس بات میں یہ لوگ اختلاف کر رہے خدا قیامت کے دن اس کا ان میں فیصلہ کر دے گا
+**English (Yusuf Ali):** The Jews say: "The Christians have naught (to stand) upon; and the Christians say: "The Jews have naught (To stand) upon." Yet they (Profess to) study the (same) Book. Like unto their word is what those say who know not; but Allah will judge between them in their quarrel on the Day of Judgment.
 
 [Open on Quran.com](https://quran.com/2/113)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Mankind was [of] one religion [before their deviation]; then Allāh sent the prophets as bringers of good tidings and warners and sent down with them the Scripture in truth to judge between the people concerning that in which they differed. And none differed over it [i.e., the Scripture] except those who were given it - after the clear proofs came to them - out of jealous animosity among themselves. And Allāh guided those who believed to the truth concerning that over which they had differed, by His permission. And Allāh guides whom He wills to a straight path.
 
-**Urdu (Fatah Muhammad Jalandhari):** (پہلے تو سب) لوگوں کا ایک ہی مذہب تھا (لیکن وہ آپس میں اختلاف کرنے لگے) تو خدا نے (ان کی طرف) بشارت دینے والے اور ڈر سنانے والے پیغمبر بھیجے اور ان پر سچائی کے ساتھ کتابیں نازل کیں تاکہ جن امور میں لوگ اختلاف کرتے تھے ان کا ان میں فیصلہ کردے۔ اور اس میں اختلاف بھی انہیں لوگوں نے کیا جن کو کتاب دی گئی تھی باوجود یہ کہ ان کے پاس کھلے ہوئے احکام آچکے تھے (اور یہ اختلاف انہوں نے صرف) آپس کی ضد سے (کیا) تو جس امر حق میں وہ اختلاف کرتے تھے خدا نے اپنی مہربانی سے مومنوں کو اس کی راہ دکھا دی۔ اور خدا جس کو چاہتا ہے سیدھا رستہ دکھا دیتا ہے
+**English (Yusuf Ali):** Mankind was one single nation, and Allah sent Messengers with glad tidings and warnings; and with them He sent the Book in truth, to judge between people in matters wherein they differed; but the People of the Book, after the clear Signs came to them, did not differ among themselves, except through selfish contumacy. Allah by His Grace Guided the believers to the Truth, concerning that wherein they differed. For Allah guided whom He will to a path that is straight.
 
 [Open on Quran.com](https://quran.com/2/213)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you not consider, [O Muḥammad], those who were given a portion of the Scripture? They are invited to the Scripture of Allāh that it should arbitrate between them; then a party of them turns away, and they are refusing.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جن کو کتاب (خدا یعنی تورات سے) بہرہ دیا گیا اور وہ (اس) کتاب الله کی طرف بلائے جاتے ہیں تاکہ وہ (ان کے تنازعات کا) ان میں فیصلہ کر دے تو ایک فریق ان میں سے کج ادائی کے ساتھ منہ پھیر لیتا ہے
+**English (Yusuf Ali):** Hast thou not turned Thy vision to those who have been given a portion of the Book? They are invited to the Book of Allah, to settle their dispute, but a party of them Turn back and decline (The arbitration).
 
 [Open on Quran.com](https://quran.com/3/23)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Mention] when Allāh said, "O Jesus, indeed I will take you and raise you to Myself and purify [i.e., free] you from those who disbelieve and make those who follow you [in submission to Allāh alone] superior to those who disbelieve until the Day of Resurrection. Then to Me is your return, and I will judge between you concerning that in which you used to differ.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس وقت خدا نے فرمایا کہ عیسیٰ! میں تمہاری دنیا میں رہنے کی مدت پوری کرکے تم کو اپنی طرف اٹھا لوں گا اور تمہیں کافروں (کی صحبت) سے پاک کر دوں گا اور جو لوگ تمہاری پیروی کریں گے ان کو کافروں پر قیامت تک فائق (وغالب) رکھوں گا پھر تم سب میرے پاس لوٹ کر آؤ گے تو جن باتوں میں تم اختلاف کرتے تھے اس دن تم میں ان کا فیصلہ کردوں گا
+**English (Yusuf Ali):** Behold! Allah said: "O Jesus! I will take thee and raise thee to Myself and clear thee (of the falsehoods) of those who blaspheme; I will make those who follow thee superior to those who reject faith, to the Day of Resurrection: Then shall ye all return unto me, and I will judge between you of the matters wherein ye dispute.
 
 [Open on Quran.com](https://quran.com/3/55)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is not for a human [prophet] that Allāh should give him the Scripture and authority and prophethood and then he would say to the people, "Be servants to me rather than Allāh," but [instead, he would say], "Be pious scholars of the Lord because of what you have taught of the Scripture and because of what you have studied."
 
-**Urdu (Fatah Muhammad Jalandhari):** کسی آدمی کو شایاں نہیں کہ خدا تو اسے کتاب اور حکومت اور نبوت عطا فرمائے اور وہ لوگوں سے کہے کہ خدا کو چھوڑ کر میرے بندے ہو جاؤ بلکہ (اس کو یہ کہنا سزاوار ہے کہ اے اہلِ کتاب) تم (علمائے) ربانی ہو جاؤ کیونکہ تم کتابِ (خدا) پڑھتے پڑھاتے رہتے ہو
+**English (Yusuf Ali):** It is not (possible) that a man, to whom is given the Book, and Wisdom, and the prophetic office, should say to people: "Be ye my worshippers rather than Allah's": on the contrary (He would say) "Be ye worshippers of Him Who is truly the Cherisher of all: For ye have taught the Book and ye have studied it earnestly."
 
 [Open on Quran.com](https://quran.com/3/79)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you fear dissension between the two, send an arbitrator from his people and an arbitrator from her people. If they both desire reconciliation, Allāh will cause it between them. Indeed, Allāh is ever Knowing and Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو معلوم ہو کہ میاں بیوی میں ان بن ہے تو ایک منصف مرد کے خاندان میں سے اور ایک منصف عورت کے خاندان میں سے مقرر کرو وہ اگر صلح کرا دینی چاہیں گے تو خدا ان میں موافقت پیدا کردے گا کچھ شک نہیں کہ خدا سب کچھ جانتا اور سب باتوں سے خبردار ہے
+**English (Yusuf Ali):** If ye fear a breach between them twain, appoint (two) arbiters, one from his family, and the other from hers; if they wish for peace, Allah will cause their reconciliation: For Allah hath full knowledge, and is acquainted with all things.
 
 [Open on Quran.com](https://quran.com/4/35)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh commands you to render trusts to whom they are due and when you judge between people to judge with justice. Excellent is that which Allāh instructs you. Indeed, Allāh is ever Hearing and Seeing.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا تم کو حکم دیتا ہے کہ امانت والوں کی امانتیں ان کے حوالے کردیا کرو اور جب لوگوں میں فیصلہ کرنے لگو تو انصاف سے فیصلہ کیا کرو خدا تمہیں بہت خوب نصیحت کرتا ہے بےشک خدا سنتا اور دیکھتا ہے
+**English (Yusuf Ali):** Allah doth command you to render back your Trusts to those to whom they are due; And when ye judge between man and man, that ye judge with justice: Verily how excellent is the teaching which He giveth you! For Allah is He Who heareth and seeth all things.
 
 [Open on Quran.com](https://quran.com/4/58)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, We have revealed to you, [O Muḥammad], the Book in truth so you may judge between the people by that which Allāh has shown you. And do not be for the deceitful an advocate.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) ہم نے تم پر سچی کتاب نازل کی ہے تاکہ خدا کی ہدایت کے مطابق لوگوں کے مقدمات میں فیصلہ کرو اور (دیکھو) دغابازوں کی حمایت میں کبھی بحث نہ کرنا
+**English (Yusuf Ali):** We have sent down to thee the Book in truth, that thou mightest judge between men, as guided by Allah: so be not (used) as an advocate by those who betray their trust;
 
 [Open on Quran.com](https://quran.com/4/105)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who wait [and watch] you. Then if you gain a victory from Allāh, they say, "Were we not with you?" But if the disbelievers have a success, they say [to them], "Did we not gain the advantage over you, but we protected you from the believers?" Allāh will judge between [all of] you on the Day of Resurrection, and never will Allāh give the disbelievers over the believers a way [to overcome them].
 
-**Urdu (Fatah Muhammad Jalandhari):** جو تم کو دیکھتے رہتے ہیں اگر خدا کی طرف سے تم کو فتح ملے تو کہتے ہیں کیا ہم تمہارے ساتھ نہ تھے۔ اور اگر کافروں کو (فتح) نصیب ہو تو (ان سے) کہتے ہیں کیا ہم تم پر غالب نہیں تھے اور تم کو مسلمانوں (کے ہاتھ) سے بچایا نہیں۔ تو خدا تم میں قیامت کے دن فیصلہ کردے گا۔ اور خدا کافروں کو مومنوں پر ہرگز غلبہ نہیں دے گا
+**English (Yusuf Ali):** (These are) the ones who wait and watch about you: if ye do gain a victory from Allah, they say: "Were we not with you?"- but if the unbelievers gain a success, they say (to them): "Did we not gain an advantage over you, and did we not guard you from the believers?" but Allah will judge betwixt you on the Day of Judgment. And never will Allah grant to the unbelievers a way (to triumphs) over the believers.
 
 [Open on Quran.com](https://quran.com/4/141)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, fulfill [all] contracts. Lawful for you are the animals of grazing livestock except for that which is recited to you [in this Qur’ān] - hunting not being permitted while you are in the state of iḥrām. Indeed, Allāh ordains what He intends.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! اپنے اقراروں کو پورا کرو۔ تمہارے لیے چارپائے جانور (جو چرنے والے ہیں) حلال کر دیئے گئے ہیں۔ بجز ان کے جو تمہیں پڑھ کر سنائے جاتے ہیں مگر احرام (حج) میں شکار کو حلال نہ جاننا۔ خدا جیسا چاہتا ہے حکم دیتا ہے
+**English (Yusuf Ali):** O ye who believe! fulfil (all) obligations. Lawful unto you (for food) are all four-footed animals, with the exceptions named: But animals of the chase are forbidden while ye are in the sacred precincts or in pilgrim garb: for Allah doth command according to His will and plan.
 
 [Open on Quran.com](https://quran.com/5/1)
 

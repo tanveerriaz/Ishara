@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 5:12 · [[005 Al-Maidah]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Allāh had already taken a covenant from the Children of Israel, and We delegated from among them twelve leaders. And Allāh said, "I am with you. If you establish prayer and give zakāh and believe in My messengers and support them and loan Allāh a goodly loan, I will surely remove from you your misdeeds and admit you to gardens beneath which rivers flow. But whoever of you disbelieves after that has certainly strayed from the soundness of the way."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے بنی اسرائیل سے اقرار لیا اور ان میں ہم نے بارہ سردار مقرر کئے پھر خدا نے فرمایا کہ میں تمہارے ساتھ ہوں اگر تم نماز پڑھتے اور زکوٰة دیتے رہو گے اور میرے پیغمبروں پر ایمان لاؤ گے اور ان کی مدد کرو گے اور خدا کو قرض حسنہ دو گے تو میں تم سے تمہارے گناہ دور کر دوں گا اور تم کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہہ رہی ہیں پھر جس نے اس کے بعد تم میں سے کفر کیا وہ سیدھے رستے سے بھٹک گیا
+**English (Yusuf Ali):** Allah did aforetime take a covenant from the Children of Israel, and we appointed twelve captains among them. And Allah said: "I am with you: if ye (but) establish regular prayers, practise regular charity, believe in my messengers, honour and assist them, and loan to Allah a beautiful loan, verily I will wipe out from you your evils, and admit you to gardens with rivers flowing beneath; but if any of you, after this, resisteth faith, he hath truly wandered from the path or rectitude."
 
 [Open on Quran.com](https://quran.com/5/12)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, testimony [should be taken] among you when death approaches one of you at the time of bequest - [that of] two just men from among you or two others from outside if you are traveling through the land and the disaster of death should strike you. Detain them after the prayer and let them both swear by Allāh if you doubt [their testimony, saying], "We will not exchange it [i.e., our oath] for a price [i.e., worldly gain], even if he should be a near relative, and we will not withhold the testimony of [i.e., ordained by] Allāh. Indeed, we would then be of the sinful."
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم میں سے کسی کی موت آموجود ہو تو شہادت (کا نصاب) یہ ہے کہ وصیت کے وقت تم (مسلمانوں) میں سے دو عادل (یعنی صاحب اعتبار) گواہ ہوں یا اگر (مسلمان نہ ملیں اور) تم سفر کر رہے ہو اور (اس وقت) تم پر موت کی مصیبت واقع ہو تو کسی دوسرے مذہب کے دو (شخصوں کو) گواہ (کر لو) اگر تم کو ان گواہوں کی نسبت کچھ شک ہو تو ان کو (عصر کی) نماز کے بعد کھڑا کرو اور دونوں خدا کی قسمیں کھائیں کہ ہم شہادت کا کچھ عوض نہیں لیں گے گو ہمارا رشتہ دار ہی ہو اور نہ ہم الله کی شہادت کو چھپائیں گے اگر ایسا کریں گے تو گنہگار ہوں گے
+**English (Yusuf Ali):** O ye who believe! When death approaches any of you, (take) witnesses among yourselves when making bequests,- two just men of your own (brotherhood) or others from outside if ye are journeying through the earth, and the chance of death befalls you (thus). If ye doubt (their truth), detain them both after prayer, and let them both swear by Allah: "We wish not in this for any worldly gain, even though the (beneficiary) be our near relation: we shall hide not the evidence before Allah: if we do, then behold! the sin be upon us!"
 
 [Open on Quran.com](https://quran.com/5/106)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [They are] eight mates - of the sheep, two and of the goats, two. Say, "Is it the two males He has forbidden or the two females or that which the wombs of the two females contain? Inform me with knowledge, if you should be truthful."
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ بڑے چھوٹے چارپائے) آٹھ قسم کے (ہیں) دو (دو) بھیڑوں میں سے اور دو (دو) بکریوں میں سے (یعنی ایک ایک نر اور اور ایک ایک مادہ) (اے پیغمبر ان سے) پوچھو کہ (خدا نے) دونوں (کے) نروں کو حرام کیا ہے یا دونوں (کی) مادنیوں کو یا جو بچہ مادنیوں کے پیٹ میں لپٹ رہا ہو اسے اگر سچے ہو تو مجھے سند سے بتاؤ
+**English (Yusuf Ali):** (Take) eight (head of cattle) in (four) pairs: of sheep a pair, and of goats a pair; say, hath He forbidden the two males, or the two females, or (the young) which the wombs of the two females enclose? Tell me with knowledge if ye are truthful:
 
 [Open on Quran.com](https://quran.com/6/143)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And of the camels, two and of the cattle, two. Say, "Is it the two males He has forbidden or the two females or that which the wombs of the two females contain? Or were you witnesses when Allāh charged you with this? Then who is more unjust than one who invents a lie about Allāh to mislead the people by [something] other than knowledge? Indeed, Allāh does not guide the wrongdoing people."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور دو (دو) اونٹوں میں سے اور دو (دو) گایوں میں سے (ان کے بارے میں بھی ان سے) پوچھو کہ (خدا نے) دونوں (کے) نروں کو حرام کیا ہے یا دونوں (کی) مادنیوں کو یا جو بچہ مادنیوں کے پیٹ میں لپٹ رہا ہو اس کو بھلا جس وقت خدا نے تم کو اس کا حکم دیا تھا تم اس وقت موجود تھے؟ تو اس شخص سے زیادہ کون ظالم ہے جو خدا پر جھوٹ افتراء کرے تاکہ اِز راہ بے دانشی لوگوں کو گمراہ کرے کچھ شک نہیں کہ خدا ظالم لوگوں کو ہدایت نہیں دیتا
+**English (Yusuf Ali):** Of camels a pair, and oxen a pair; say, hath He forbidden the two males, or the two females, or (the young) which the wombs of the two females enclose? - Were ye present when Allah ordered you such a thing? But who doth more wrong than one who invents a lie against Allah, to lead astray men without knowledge? For Allah guideth not people who do wrong.
 
 [Open on Quran.com](https://quran.com/6/144)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the number of months with Allāh is twelve [lunar] months in the register of Allāh [from] the day He created the heavens and the earth; of these, four are sacred. That is the correct religion [i.e., way], so do not wrong yourselves during them. And fight against the disbelievers collectively as they fight against you collectively. And know that Allāh is with the righteous [who fear Him].
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا کے نزدیک مہینے گنتی میں (بارہ ہیں یعنی) اس روز (سے) کہ اس نے آسمانوں اور زمین کو پیدا کیا۔ کتاب خدا میں (برس کے) بارہ مہینے (لکھے ہوئے) ہیں۔ ان میں سے چار مہینے ادب کے ہیں۔ یہی دین (کا) سیدھا راستہ ہے۔ تو ان (مہینوں) میں (قتال ناحق سے) اپنے آپ پر ظلم نہ کرنا۔ اور تم سب کے سب مشرکوں سے لڑو جیسے وہ سب کے سب تم سے لڑتے ہیں۔ اور جان رکھو کہ خدا پرہیز گاروں کے ساتھ ہے
+**English (Yusuf Ali):** The number of months in the sight of Allah is twelve (in a year)- so ordained by Him the day He created the heavens and the earth; of them four are sacred: that is the straight usage. So wrong not yourselves therein, and fight the Pagans all together as they fight you all together. But know that Allah is with those who restrain themselves.
 
 [Open on Quran.com](https://quran.com/9/36)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If you do not aid him [i.e., the Prophet (ﷺ)] - Allāh has already aided him when those who disbelieved had driven him out [of Makkah] as one of two, when they were in the cave and he [i.e., Muḥammad (ﷺ)] said to his companion, "Do not grieve; indeed Allāh is with us." And Allāh sent down His tranquility upon him and supported him with soldiers [i.e., angels] you did not see and made the word of those who disbelieved the lowest, while the word of Allāh - that is the highest. And Allāh is Exalted in Might and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم پیغمبر کی مدد نہ کرو گے تو خدا اُن کا مددگار ہے (وہ وقت تم کو یاد ہوگا) جب ان کو کافروں نے گھر سے نکال دیا۔ (اس وقت) دو (ہی ایسے شخص تھے جن) میں (ایک ابوبکرؓ تھے) اور دوسرے (خود رسول الله) جب وہ دونوں غار (ثور) میں تھے اس وقت پیغمبر اپنے رفیق کو تسلی دیتے تھے کہ غم نہ کرو خدا ہمارے ساتھ ہے۔ تو خدا نے ان پر تسکین نازل فرمائی اور ان کو ایسے لشکروں سے مدد دی جو تم کو نظر نہیں آتے تھے اور کافروں کی بات کو پست کر دیا۔ اور بات تو خدا ہی کی بلند ہے۔ اور خدا زبردست (اور) حکمت والا ہے
+**English (Yusuf Ali):** If ye help not (your leader), (it is no matter): for Allah did indeed help him, when the Unbelievers drove him out: he had no more than one companion; they two were in the cave, and he said to his companion, "Have no fear, for Allah is with us": then Allah sent down His peace upon him, and strengthened him with forces which ye saw not, and humbled to the depths the word of the Unbelievers. But the word of Allah is exalted to the heights: for Allah is Exalted in might, Wise.
 
 [Open on Quran.com](https://quran.com/9/40)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [So it was], until when Our command came and the oven overflowed, We said, "Load upon it [i.e., the ship] of each [creature] two mates and your family, except those about whom the word [i.e., decree] has preceded, and [include] whoever has believed." But none had believed with him, except a few.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ جب ہمارا حکم آپہنچا اور تنور جوش مارنے لگا تو ہم نے نوح کو حکم دیا کہ ہر قسم (کے جانداروں) میں سے جوڑا جوڑا (یعنی) دو (دو جانور۔ ایک ایک نر اور ایک ایک مادہ) لے لو اور جس شخص کی نسبت حکم ہوچکا ہے (کہ ہلاک ہوجائے گا) اس کو چھوڑ کر اپنے گھر والوں کو جو ایمان لایا ہو اس کو کشتی میں سوار کر لو اور ان کے ساتھ ایمان بہت ہی کم لوگ لائے تھے
+**English (Yusuf Ali):** At length, behold! there came Our command, and the fountains of the earth gushed forth! We said: "Embark therein, of each kind two, male and female, and your family - except those against whom the word has already gone forth,- and the Believers." but only a few believed with him.
 
 [Open on Quran.com](https://quran.com/11/40)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who spread the earth and placed therein firmly set mountains and rivers; and from all of the fruits He made therein two mates; He causes the night to cover the day. Indeed in that are signs for a people who give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ وہی ہے جس نے زمین کو پھیلایا اور اس میں پہاڑ اور دریا پیدا کئے اور ہر طرح کے میوؤں کی دو دو قسمیں بنائیں۔ وہی رات کو دن کا لباس پہناتا ہے۔ غور کرنے والوں کے لیے اس میں بہت سی نشانیاں ہیں
+**English (Yusuf Ali):** And it is He who spread out the earth, and set thereon mountains standing firm and (flowing) rivers: and fruit of every kind He made in pairs, two and two: He draweth the night as a veil o'er the Day. Behold, verily in these things there are signs for those who consider!
 
 [Open on Quran.com](https://quran.com/13/3)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Allāh has said, "Do not take for yourselves two deities. He [i.e., Allāh] is but one God, so fear only Me."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے فرمایا ہے کہ دو دو معبود نہ بناؤ۔ معبود وہی ایک ہے۔ تو مجھ ہی سے ڈرتے رہو
+**English (Yusuf Ali):** Allah has said: "Take not (for worship) two gods: for He is just One Allah: then fear Me (and Me alone)."
 
 [Open on Quran.com](https://quran.com/16/51)
 
@@ -189,7 +189,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We inspired to him, "Construct the ship under Our observation and Our inspiration, and when Our command comes and the oven overflows, put into it [i.e., the ship] from each [creature] two mates and your family, except him for whom the decree [of destruction] has proceeded. And do not address Me concerning those who have wronged; indeed, they are to be drowned.
 
-**Urdu (Fatah Muhammad Jalandhari):** پس ہم نے ان کی طرف وحی بھیجی کہ ہمارے سامنے اور ہمارے حکم سے ایک کشتی بناؤ۔ پھر جب ہمارا حکم آ پہنچے اور تنور (پانی سے بھر کر) جوش مارنے لگے تو سب (قسم کے حیوانات) میں جوڑا جوڑا (یعنی نر اور مادہ) دو دو کشتی میں بٹھا دو اور اپنے گھر والوں کو بھی، سو ان کے جن کی نسبت ان میں سے (ہلاک ہونے کا) حکم پہلے صادر ہوچکا ہے۔ اور ظالموں کے بارے میں ہم سے کچھ نہ کہنا، وہ ضرور ڈبو دیئے جائیں گے
+**English (Yusuf Ali):** So We inspired him (with this message): "Construct the Ark within Our sight and under Our guidance: then when comes Our Command, and the fountains of the earth gush forth, take thou on board pairs of every species, male and female, and thy family- except those of them against whom the Word has already gone forth: And address Me not in favour of the wrong-doers; for they shall be drowned (in the Flood).
 
 [Open on Quran.com](https://quran.com/23/27)
 

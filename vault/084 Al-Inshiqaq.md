@@ -14,31 +14,31 @@ The Sundering · 25 ayahs
 
 ## Words in this surah (graph)
 
-- [[lyl - night]] — `لَيْل` · night
-- [[>*n - ears]] — `أُذُن` · ears
-- [[qr> - read]] — `قَرَأَ` · read
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[Hq - truth]] — `حَقّ` · truth
-- [[sEyr - blaze]] — `سَعِير` · blaze
-- [[rkb - embark]] — `رَكْب` · embark
-- [[dEA - call]] — `دَعا` · call
-- [[>rD - earth]] — `أَرْض` · earth
-- [[HsAb - account]] — `حِساب` · account
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[ktAb - book]] — `كِتاب` · book
-- [[Anqlb - turns back]] — `انقَلَبَ` · turns back
-- [[qmr - moon]] — `قَمَر` · moon
+- [[kAn - is]] — `كانَ` · is
 - [[Tbq - stage]] — `طَبَق` · stage
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[b$r - man]] — `بُشِّرَ` · man
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[gyr - without]] — `غَيْر` · without
-- [[>lym - painful]] — `أَلِيم` · painful
-- [[k*b - denied]] — `كَذَبَ` · denied
+- [[dEA - call]] — `دَعا` · call
+- [[>*n - ears]] — `أُذُن` · ears
 - [[>lqY - throw]] — `أَلْقَى` · throw
-- [[>jr - reward]] — `أَجْر` · reward
+- [[lyl - night]] — `لَيْل` · night
+- [[allah - God]] — `الله` · God
+- [[qr> - read]] — `قَرَأَ` · read
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[mmnwn - ending]] — `مَمْنُون` · ending
+- [[sjd - prostrate]] — `سَجَدَ` · prostrate
+- [[ysyr - easy]] — `يَسِير` · easy
 - [[bSyr - all-seer]] — `بَصِير` · all-seer
-- [[md - spread]] — `مَدَّ` · spread
+- [[>lym - painful]] — `أَلِيم` · painful
+- [[b$r - man]] — `بُشِّرَ` · man
+- [[Eml - do]] — `عَمِلَ` · do
+- [[qmr - moon]] — `قَمَر` · moon
+- [[Zhr - backs]] — `ظَهْر` · backs
+- [[gyr - without]] — `غَيْر` · without
+- [[>jr - reward]] — `أَجْر` · reward
+- [[>hl - people]] — `أَهْل` · people
+- [[HsAb - account]] — `حِساب` · account
 
 ## Roots
 

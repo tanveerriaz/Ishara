@@ -11,14 +11,14 @@
       "query": "path:Words",
       "color": {
         "a": 1,
-        "rgb": 13196839
+        "rgb": 4287076
       }
     },
     {
       "query": "path:Roots",
       "color": {
         "a": 1,
-        "rgb": 16305463
+        "rgb": 14725458
       }
     },
     {
@@ -29,16 +29,13 @@
       }
     }
   ],
-  "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
   "centerStrength": 0.4,
   "repelStrength": 12,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.15,
+  "linkDistance": 150,
+  "scale": 0.5,
   "close": false
 }

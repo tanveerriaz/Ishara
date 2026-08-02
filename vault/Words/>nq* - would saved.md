@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:103 · [[003 Ali Imran]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And hold firmly to the rope of Allāh all together and do not become divided. And remember the favor of Allāh upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allāh make clear to you His verses that you may be guided.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور سب مل کر خدا کی (ہدایت کی رسی) کو مضبوط پکڑے رہنا اور متفرق نہ ہونا اور خدا کی اس مہربانی کو یاد کرو جب تم ایک دوسرے کے دشمن تھے تو اس نے تمہارے دلوں میں الفت ڈال دی اور تم اس کی مہربانی سے بھائی بھائی ہوگئے اور تم آگ کے گڑھے کے کنارے تک پہنچ چکے تھے تو خدا نے تم کو اس سے بچا لیا اس طرح خدا تم کو اپنی آیتیں کھول کھول کر سناتا ہے تاکہ تم ہدایت پاؤ
+**English (Yusuf Ali):** And hold fast, all together, by the rope which Allah (stretches out for you), and be not divided among yourselves; and remember with gratitude Allah's favour on you; for ye were enemies and He joined your hearts in love, so that by His Grace, ye became brethren; and ye were on the brink of the pit of Fire, and He saved you from it. Thus doth Allah make His Signs clear to you: That ye may be guided.
 
 [Open on Quran.com](https://quran.com/3/103)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Should I take other than Him [false] deities [while], if the Most Merciful intends for me some adversity, their intercession will not avail me at all, nor can they save me?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا میں ان کو چھوڑ کر اوروں کو معبود بناؤں؟ اگر خدا میرے حق میں نقصان کرنا چاہے تو ان کی سفارش مجھے کچھ بھی فائدہ نہ دے سکے اور نہ وہ مجھ کو چھڑا ہی سکیں
+**English (Yusuf Ali):** "Shall I take (other) gods besides Him? If (Allah) Most Gracious should intend some adversity for me, of no use whatever will be their intercession for me, nor can they deliver me.
 
 [Open on Quran.com](https://quran.com/36/23)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if We should will, We could drown them; then no one responding to a cry would there be for them, nor would they be saved
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم چاہیں تو ان کو غرق کردیں۔ پھر نہ تو ان کا کوئی فریاد رس ہوا اور نہ ان کو رہائی ملے
+**English (Yusuf Ali):** If it were Our Will, We could drown them: then would there be no helper (to hear their cry), nor could they be delivered,
 
 [Open on Quran.com](https://quran.com/36/43)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then, is one who has deserved the decree of punishment [to be guided]? Then, can you save one who is in the Fire?
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا جس شخص پر عذاب کا حکم صادر ہوچکا۔ تو کیا تم (ایسے) دوزخی کو مخلصی دے سکو گے؟
+**English (Yusuf Ali):** Is, then, one against whom the decree of Punishment is justly due (equal to one who eschews Evil)? Wouldst thou, then, deliver one (who is) in the Fire?
 
 [Open on Quran.com](https://quran.com/39/19)
 

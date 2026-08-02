@@ -16,29 +16,29 @@ The Pleading Woman · 22 ayahs
 
 - [[njwY - private conversation]] — `نَجْوَى` · private conversation
 - [[EdwAn - transgression]] — `عُدْوان` · transgression
-- [[sA' - evil]] — `ساءَ` · evil
-- [[xyr - better]] — `خَيْر` · better
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[tAb - repent]] — `تابَ` · repent
-- [[qwy - all-strong]] — `قَوِيّ` · all-strong
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[zwr - lie]] — `زُور` · lie
-- [[rwH - spirit]] — `رُوح` · spirit
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
-- [[drjp - degrees]] — `دَرَجَة` · degrees
-- [[>Thr - purer]] — `أَطْهَر` · purer
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
-- [[<TEAm - feeding]] — `إِطْعام` · feeding
-- [[nsy - they forgot]] — `نَسِيَ` · they forgot
-- [[qwl - speech]] — `قَوْل` · speech
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[yd - hands]] — `يَد` · hands
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[rqbp - slave]] — `رَقَبَة` · slave
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[jAdl - dispute]] — `جادَلُ` · dispute
+- [[$hr - months]] — `شَهْر` · months
+- [[>nsY - so he made]] — `أَنسَى` · so he made
 - [[wEZ - admonished]] — `وَعَظْ` · admonished
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[yd - hands]] — `يَد` · hands
+- [[lys - not]] — `لَيْسَ` · not
+- [[Eml - do]] — `عَمِلَ` · do
+- [[SyAm - fasting]] — `صِيام` · fasting
+- [[>dnY - nearer]] — `أَدْنَى` · nearer
+- [[bEv - we sent]] — `بَعَثَ` · we sent
+- [[nsA' - women]] — `نِساء` · women
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[>Thr - purer]] — `أَطْهَر` · purer
+- [[smyE - all-hearer]] — `سَمِيع` · all-hearer
+- [[ktb - prescribed]] — `كَتَبَ` · prescribed
+- [[jA' - came them]] — `جاءَ` · came them
+- [[nhr - rivers]] — `نَهَر` · rivers
 
 ## Roots
 

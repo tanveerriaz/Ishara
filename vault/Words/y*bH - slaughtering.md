@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:49 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when We saved you [i.e., your forefathers] from the people of Pharaoh, who afflicted you with the worst torment, slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (ہمارے ان احسانات کو یاد کرو) جب ہم نے تم کو قومِ فرعون سے نجات بخشی وہ (لوگ) تم کو بڑا دکھ دیتے تھے تمہارے بیٹوں کو تو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
+**English (Yusuf Ali):** And remember, We delivered you from the people of Pharaoh: They set you hard tasks and punishments, slaughtered your sons and let your women-folk live; therein was a tremendous trial from your Lord.
 
 [Open on Quran.com](https://quran.com/2/49)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall, O Children of Israel], when Moses said to his people, "Remember the favor of Allāh upon you when He saved you from the people of Pharaoh, who were afflicting you with the worst torment and were slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم سے کہا کہ خدا نے جو تم پر مہربانیاں کی ہیں ان کو یاد کرو جب کہ تم کو فرعون کی قوم (کے ہاتھ) سے مخلصی دی وہ لوگ تمہیں بُرے عذاب دیتے تھے اور تمہارے بیٹوں کو مار ڈالتے تھے اور عورت ذات یعنی تمہاری لڑکیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
+**English (Yusuf Ali):** Remember! Moses said to his people: "Call to mind the favour of Allah to you when He delivered you from the people of Pharaoh: they set you hard tasks and punishments, slaughtered your sons, and let your women-folk live: therein was a tremendous trial from your Lord."
 
 [Open on Quran.com](https://quran.com/14/6)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Pharaoh exalted himself in the land and made its people into factions, oppressing a sector among them, slaughtering their [newborn] sons and keeping their females alive. Indeed, he was of the corrupters.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہ فرعون نے ملک میں سر اُٹھا رکھا تھا اور وہاں کے باشندوں کو گروہ گروہ بنا رکھا تھا اُن میں سے ایک گروہ کو (یہاں تک) کمزور کر دیا تھا کہ اُن کے بیٹوں کو ذبح کر ڈالتا اور اُن کی لڑکیوں کو زندہ رہنے دیتا۔ بیشک وہ مفسدوں میں تھا
+**English (Yusuf Ali):** Truly Pharaoh elated himself in the land and broke up its people into sections, depressing a small group among them: their sons he slew, but he kept alive their females: for he was indeed a maker of mischief.
 
 [Open on Quran.com](https://quran.com/28/4)
 

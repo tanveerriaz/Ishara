@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:270 · [[002 Al-Baqarah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whatever you spend of expenditures or make of vows - indeed, Allāh knows of it. And for the wrongdoers there are no helpers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم (خدا کی راہ میں) جس طرح کا خرچ کرو یا کوئی نذر مانو خدا اس کو جانتا ہے اور ظالموں کا کوئی مددگار نہیں
+**English (Yusuf Ali):** And whatever ye spend in charity or devotion, be sure Allah knows it all. But the wrong-doers have no helpers.
 
 [Open on Quran.com](https://quran.com/2/270)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Mention, O Muḥammad], when the wife of ʿImrān said, "My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing."
 
-**Urdu (Fatah Muhammad Jalandhari):** (وہ وقت یاد کرنے کے لائق ہے) جب عمران کی بیوی نے کہا کہ اے پروردگار جو (بچہ) میرے پیٹ میں ہے میں اس کو تیری نذر کرتی ہوں اسے دنیا کے کاموں سے آزاد رکھوں گی تو (اسے) میری طرف سے قبول فرما توتو سننے والا (اور) جاننے والا ہے
+**English (Yusuf Ali):** Behold! a woman of 'Imran said: "O my Lord! I do dedicate unto Thee what is in my womb for Thy special service: So accept this of me: For Thou hearest and knowest all things."
 
 [Open on Quran.com](https://quran.com/3/35)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So eat and drink and be contented. And if you see from among humanity anyone, say, 'Indeed, I have vowed to the Most Merciful abstention, so I will not speak today to [any] man.'"
 
-**Urdu (Fatah Muhammad Jalandhari):** تو کھاؤ اور پیو اور آنکھیں ٹھنڈی کرو۔ اگر تم کسی آدمی کو دیکھو تو کہنا کہ میں نے خدا کے لئے روزے کی منت مانی تو آج میں کسی آدمی سے ہرگز کلام نہیں کروں گی
+**English (Yusuf Ali):** "So eat and drink and cool (thine) eye. And if thou dost see any man, say, 'I have vowed a fast to (Allah) Most Gracious, and this day will I enter into not talk with any human being'"
 
 [Open on Quran.com](https://quran.com/19/26)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "I only warn you by revelation." But the deaf do not hear the call when they are warned.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں تم کو حکم خدا کے مطابق نصیحت کرتا ہوں۔ اور بہروں کوجب نصیحت کی جائے تو وہ پکار کر سنتے ہی نہیں
+**English (Yusuf Ali):** Say, "I do but warn you according to revelation": But the deaf will not hear the call, (even) when they are warned!
 
 [Open on Quran.com](https://quran.com/21/45)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They [are those who] fulfill [their] vows and fear a Day whose evil will be widespread.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ لوگ نذریں پوری کرتے ہیں اور اس دن سے جس کی سختی پھیل رہی ہوگی خوف رکھتے ہیں
+**English (Yusuf Ali):** They perform (their) vows, and they fear a Day whose evil flies far and wide.
 
 [Open on Quran.com](https://quran.com/76/7)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** As justification or warning,
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ عذر (رفع) کردیا جائے یا ڈر سنا دیا جائے
+**English (Yusuf Ali):** Whether of Justification or of Warning;-
 
 [Open on Quran.com](https://quran.com/77/6)
 

@@ -42,7 +42,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:124 · [[002 Al-Baqarah]]
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], when Abraham was tried by his Lord with words [i.e., commands] and he fulfilled them. [Allāh] said, "Indeed, I will make you a leader for the people." [Abraham] said, "And of my descendants?" [Allāh] said, "My covenant does not include the wrongdoers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب پروردگار نے چند باتوں میں ابراہیم کی آزمائش کی تو ان میں پورے اترے۔ خدا نے کہا کہ میں تم کو لوگوں کا پیشوا بناؤں گا۔ انہوں نے کہا کہ (پروردگار) میری اولاد میں سے بھی (پیشوا بنائیو)۔ خدا نے فرمایا کہ ہمارا اقرار ظالموں کے لیے نہیں ہوا کرتا
+**English (Yusuf Ali):** And remember that Abraham was tried by his Lord with certain commands, which he fulfilled: He said: "I will make thee an Imam to the Nations." He pleaded: "And also (Imams) from my offspring!" He answered: "But My Promise is not within the reach of evil-doers."
 
 [Open on Quran.com](https://quran.com/2/124)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites [of worship] and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار، ہم کو اپنا فرمانبردار بنائے رکھیو۔ اور ہماری اولاد میں سے بھی ایک گروہ کو اپنا مطیع بنائے رہیو، اور (پروردگار) ہمیں طریق عبادت بتا اور ہمارے حال پر (رحم کے ساتھ) توجہ فرما۔ بے شک تو توجہ فرمانے والا مہربان ہے
+**English (Yusuf Ali):** "Our Lord! make of us Muslims, bowing to Thy (Will), and of our progeny a people Muslim, bowing to Thy (will); and show us our place for the celebration of (due) rites; and turn unto us (in Mercy); for Thou art the Oft-Returning, Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/128)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Would one of you like to have a garden of palm trees and grapevines underneath which rivers flow in which he has from every fruit? But he is afflicted with old age and has weak [i.e., immature] offspring, and it is hit by a whirlwind containing fire and is burned. Thus does Allāh make clear to you [His] verses that you might give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تم میں کوئی یہ چاہتا ہے کہ اس کا کھجوروں اور انگوروں کا باغ ہو جس میں نہریں بہہ رہی ہوں اور اس میں اس کے لئے ہر قسم کے میوے موجود ہوں اور اسے بڑھاپا آپکڑے اور اس کے ننھے ننھے بچے بھی ہوں۔ تو (ناگہاں) اس باغ پر آگ کا بھرا ہوا بگولا چلے اور وہ جل کر (راکھ کا ڈھیر ہو) جائے۔ اس طرح خدا تم سے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم سوچو (اور سمجھو)
+**English (Yusuf Ali):** Does any of you wish that he should have a garden with date-palms and vines and streams flowing underneath, and all kinds of fruit, while he is stricken with old age, and his children are not strong (enough to look after themselves)- that it should be caught in a whirlwind, with fire therein, and be burnt up? Thus doth Allah make clear to you (His) Signs; that ye may consider.
 
 [Open on Quran.com](https://quran.com/2/266)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Descendants, some of them from others. And Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان میں سے بعض بعض کی اولاد تھے اور خدا سننے والا (اور) جاننے والا ہے
+**English (Yusuf Ali):** Offspring, one of the other: And Allah heareth and knoweth all things.
 
 [Open on Quran.com](https://quran.com/3/34)
 
@@ -120,7 +120,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But when she delivered her, she said, "My Lord, I have delivered a female." And Allāh was most knowing of what she delivered, and the male is not like the female. "And I have named her Mary, and I seek refuge for her in You and [for] her descendants from Satan, the expelled [from the mercy of Allāh]."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب ان کے ہاں بچہ پیدا ہوا اور جو کچھ ان کے ہاں پیدا ہوا تھا خدا کو خوب معلوم تھا تو کہنے لگیں کہ پروردگار! میرے تو لڑکی ہوئی ہے اور (نذر کے لیے) لڑکا (موزوں تھا کہ وہ) لڑکی کی طرح (ناتواں) نہیں ہوتا اور میں نے اس کا نام مریم رکھا ہے اور میں اس کو اور اس کی اولاد کو شیطان مردود سے تیری پناہ میں دیتی ہوں
+**English (Yusuf Ali):** When she was delivered, she said: "O my Lord! Behold! I am delivered of a female child!"- and Allah knew best what she brought forth- "And no wise is the male Like the female. I have named her Mary, and I commend her and her offspring to Thy protection from the Evil One, the Rejected."
 
 [Open on Quran.com](https://quran.com/3/36)
 
@@ -136,7 +136,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** At that, Zechariah called upon his Lord, saying, "My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication."
 
-**Urdu (Fatah Muhammad Jalandhari):** اس وقت زکریا نے اپنے پروردگار سے دعا کی (اور) کہا کہ پروردگار مجھے اپنی جناب سے اولاد صالح عطا فرما تو بے شک دعا سننے (اور قبول کرنے) والا ہے
+**English (Yusuf Ali):** There did Zakariya pray to his Lord, saying: "O my Lord! Grant unto me from Thee a progeny that is pure: for Thou art He that heareth prayer!
 
 [Open on Quran.com](https://quran.com/3/38)
 
@@ -152,7 +152,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And let those [executors and guardians] fear [injustice] as if they [themselves] had left weak offspring behind and feared for them. So let them fear Allāh and speak words of appropriate justice.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ایسے لوگوں کو ڈرنا چاہیئے جو (ایسی حالت میں ہوں کہ) اپنے بعد ننھے ننھے بچے چھوڑ جائیں اور ان کو ان کی نسبت خوف ہو (کہ ان کے مرنے کے بعد ان بیچاروں کا کیا حال ہوگا) پس چاہیئے کہ یہ لوگ خدا سے ڈریں اور معقول بات کہیں
+**English (Yusuf Ali):** Let those (disposing of an estate) have the same fear in their minds as they would have for their own if they had left a helpless family behind: Let them fear Allah, and speak words of appropriate (comfort).
 
 [Open on Quran.com](https://quran.com/4/9)
 
@@ -168,7 +168,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We gave to him [i.e., Abraham] Isaac and Jacob - all [of them] We guided. And Noah, We guided before; and among his descendants, David and Solomon and Job and Joseph and Moses and Aaron. Thus do We reward the doers of good.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو اسحاق اور یعقوب بخشے۔ (اور) سب کو ہدایت دی۔ اور پہلے نوح کو بھی ہدایت دی تھی اور ان کی اولاد میں سے داؤد اور سلیمان اور ایوب اور یوسف اور موسیٰ اور ہارون کو بھی۔ اور ہم نیک لوگوں کو ایسا ہی بدلا دیا کرتے ہیں
+**English (Yusuf Ali):** We gave him Isaac and Jacob: all (three) guided: and before him, We guided Noah, and among his progeny, David, Solomon, Job, Joseph, Moses, and Aaron: thus do We reward those who do good:
 
 [Open on Quran.com](https://quran.com/6/84)
 
@@ -184,7 +184,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [some] among their fathers and their descendants and their brothers - and We chose them and We guided them to a straight path.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بعض بعض کو ان کے باپ دادا اور اولاد اور بھائیوں میں سے بھی۔ اور ان کو برگزیدہ بھی کیا تھا اور سیدھا رستہ بھی دکھایا تھا
+**English (Yusuf Ali):** (To them) and to their fathers, and progeny and brethren: We chose them, and we guided them to a straight way.
 
 [Open on Quran.com](https://quran.com/6/87)
 
@@ -200,7 +200,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And your Lord is the Free of need, the possessor of mercy. If He wills, He can do away with you and give succession after you to whomever He wills, just as He produced you from the descendants of another people.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا پروردگار بےپروا (اور) صاحب رحمت ہے اگر چاہے (تو اے بندوں) تمہیں نابود کر دے اور تمہارے بعد جن لوگوں کو چاہے تمہارا جانشین بنا دے جیسا تم کو بھی دوسرے لوگوں کی نسل سے پیدا کیا ہے
+**English (Yusuf Ali):** Thy Lord is self-sufficient, full of Mercy: if it were His will, He could destroy you, and in your place appoint whom He will as your successors, even as He raised you up from the posterity of other people.
 
 [Open on Quran.com](https://quran.com/6/133)
 

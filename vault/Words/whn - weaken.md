@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:139 · [[003 Ali Imran]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So do not weaken and do not grieve, and you will be superior if you are [true] believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (دیکھو) بے دل نہ ہونا اور نہ کسی طرح کا غم کرنا اگر تم مومن (صادق) ہو تو تم ہی غالب رہو گے
+**English (Yusuf Ali):** So lose not heart, nor fall into despair: For ye must gain mastery if ye are true in Faith.
 
 [Open on Quran.com](https://quran.com/3/139)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And how many a prophet [fought in battle and] with him fought many religious scholars. But they never lost assurance due to what afflicted them in the cause of Allāh, nor did they weaken or submit. And Allāh loves the steadfast.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بہت سے نبی ہوئے ہیں جن کے ساتھ ہو کر اکثر اہل الله (خدا کے دشمنوں سے) لڑے ہیں تو جو مصبتیں ان پر راہِ خدا میں واقع ہوئیں ان کے سبب انہوں نے نہ تو ہمت ہاری اور نہ بزدلی کی نہ (کافروں سے) دبے اور خدا استقلال رکھنے والوں کو دوست رکھتا ہے
+**English (Yusuf Ali):** How many of the prophets fought (in Allah's way), and with them (fought) Large bands of godly men? but they never lost heart if they met with disaster in Allah's way, nor did they weaken (in will) nor give in. And Allah Loves those who are firm and steadfast.
 
 [Open on Quran.com](https://quran.com/3/146)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not weaken in pursuit of the enemy. If you should be suffering - so are they suffering as you are suffering, but you expect from Allāh that which they expect not. And Allāh is ever Knowing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کفار کا پیچھا کرنے میں سستی نہ کرنا اگر تم بےآرام ہوتے ہو تو جس طرح تم بےآرام ہوتے ہو اسی طرح وہ بھی بےآرام ہوتے ہیں اور تم خدا سے ایسی ایسی امیدیں رکھتے ہو جو وہ نہیں رکھ سکتے اور خدا سب کچھ جانتا اور (بڑی) حکمت والا ہے
+**English (Yusuf Ali):** And slacken not in following up the enemy: If ye are suffering hardships, they are suffering similar hardships; but ye have Hope from Allah, while they have none. And Allah is full of knowledge and wisdom.
 
 [Open on Quran.com](https://quran.com/4/104)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "My Lord, indeed my bones have weakened, and my head has filled with white, and never have I been in my supplication to You, my Lord, unhappy [i.e., disappointed].
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور) کہا کہ اے میرے پروردگار میری ہڈیاں بڑھاپے کے سبب کمزور ہوگئی ہیں اور سر (ہے کہ) بڑھاپے (کی وجہ سے) شعلہ مارنے لگا ہے اور اے میرے پروردگار میں تجھ سے مانگ کر کبھی محروم نہیں رہا
+**English (Yusuf Ali):** Praying: "O my Lord! infirm indeed are my bones, and the hair of my head doth glisten with grey: but never am I unblest, O my Lord, in my prayer to Thee!
 
 [Open on Quran.com](https://quran.com/19/4)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے انسان کو جسے اُس کی ماں تکلیف پر تکلیف سہہ کر پیٹ میں اُٹھائے رکھتی ہے (پھر اس کو دودھ پلاتی ہے) اور( آخرکار) دو برس میں اس کا دودھ چھڑانا ہوتا ہے (اپنے نیز) اس کے ماں باپ کے بارے میں تاکید کی ہے کہ میرا بھی شکر کرتا رہ اور اپنے ماں باپ کا بھی (کہ تم کو) میری ہی طرف لوٹ کر آنا ہے
+**English (Yusuf Ali):** And We have enjoined on man (to be good) to his parents: in travail upon travail did his mother bear him, and in years twain was his weaning: (hear the command), "Show gratitude to Me and to thy parents: to Me is (thy final) Goal.
 
 [Open on Quran.com](https://quran.com/31/14)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So do not weaken and call for peace while you are superior; and Allāh is with you and will never deprive you of [the reward of] your deeds.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو تم ہمت نہ ہارو اور (دشمنوں کو) صلح کی طرف نہ بلاؤ۔ اور تم تو غالب ہو۔ اور خدا تمہارے ساتھ ہے وہ ہرگز تمہارے اعمال کو کم (اور گم) نہیں کرے گا
+**English (Yusuf Ali):** Be not weary and faint-hearted, crying for peace, when ye should be uppermost: for Allah is with you, and will never put you in loss for your (good) deeds.
 
 [Open on Quran.com](https://quran.com/47/35)
 

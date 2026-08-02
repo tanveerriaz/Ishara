@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:31 · [[002 Al-Baqarah]]
 
@@ -53,7 +53,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And He taught Adam the names - all of them. Then He showed them to the angels and said, "Inform Me of the names of these, if you are truthful."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس نے آدم کو سب (چیزوں کے) نام سکھائے پھر ان کو فرشتوں کے سامنے کیا اور فرمایا کہ اگر تم سچے ہو تو مجھے ان کے نام بتاؤ
+**English (Yusuf Ali):** And He taught Adam the names of all things; then He placed them before the angels, and said: "Tell me the names of these if ye are right."
 
 [Open on Quran.com](https://quran.com/2/31)
 
@@ -69,7 +69,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There is no blame upon you for that to which you [indirectly] allude concerning a proposal to women or for what you conceal within yourselves. Allāh knows that you will have them in mind. But do not promise them secretly except for saying a proper saying. And do not determine to undertake a marriage contract until the decreed period reaches its end. And know that Allāh knows what is within yourselves, so beware of Him. And know that Allāh is Forgiving and Forbearing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کنائے کی باتوں میں عورتوں کو نکاح کا پیغام بھیجو یا (نکاح کی خواہش کو) اپنے دلوں میں مخفی رکھو تو تو تم پر کچھ گناہ نہیں۔ خدا کو معلوم ہے کہ تم ان سے (نکاح کا) ذکر کرو گے۔ مگر (ایام عدت میں) اس کے سوا کہ دستور کے مطابق کوئی بات کہہ دو پوشیدہ طور پر ان سے قول واقرار نہ کرنا۔ اور جب تک عدت پوری نہ ہولے نکاح کا پختہ ارادہ نہ کرنا۔ اور جان رکھو کہ جو کچھ تمہارے دلوں میں ہے خدا کو سب معلوم ہے تو اس سے ڈرتے رہو اور جان رکھو کہ خدا بخشنے والا اور حلم والا ہے
+**English (Yusuf Ali):** There is no blame on you if ye make an offer of betrothal or hold it in your hearts. Allah knows that ye cherish them in your hearts: But do not make a secret contract with them except in terms Honourable, nor resolve on the tie of marriage till the term prescribed is fulfilled. And know that Allah Knoweth what is in your hearts, and take heed of Him; and know that Allah is Oft-forgiving, Most Forbearing.
 
 [Open on Quran.com](https://quran.com/2/235)
 
@@ -85,7 +85,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And hasten to forgiveness from your Lord and a garden [i.e., Paradise] as wide as the heavens and earth, prepared for the righteous
 
-**Urdu (Fatah Muhammad Jalandhari):** اپنے پروردگار کی بخشش اور بہشت کی طرف لپکو جس کا عرض آسمان اور زمین کے برابر ہے اور جو (خدا سے) ڈرنے والوں کے لیے تیار کی گئی ہے
+**English (Yusuf Ali):** Be quick in the race for forgiveness from your Lord, and for a Garden whose width is that (of the whole) of the heavens and of the earth, prepared for the righteous,-
 
 [Open on Quran.com](https://quran.com/3/133)
 
@@ -101,7 +101,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, when you go forth [to fight] in the cause of Allāh, investigate; and do not say to one who gives you [a greeting of] peace, "You are not a believer," aspiring for the goods of worldly life; for with Allāh are many acquisitions. You [yourselves] were like that before; then Allāh conferred His favor [i.e., guidance] upon you, so investigate. Indeed Allāh is ever, of what you do, Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم خدا کی راہ میں باہر نکلو کرو تو تحقیق سے کام لیا کرو اور جو شخص تم سے سلام علیک کرے اس سے یہ نہ کہو کہ تم مومن نہیں اور اس سے تمہاری غرض یہ ہو کہ دنیا کی زندگی کا فائدہ حاصل کرو سو خدا کے نزدیک بہت سے غنیمتیں ہیں تم بھی تو پہلے ایسے ہی تھے پھر خدا نے تم پر احسان کیا تو (آئندہ) تحقیق کرلیا کرو اور جو عمل تم کرتے ہو خدا کو سب کی خبر ہے
+**English (Yusuf Ali):** O ye who believe! When ye go abroad in the cause of Allah, investigate carefully, and say not to any one who offers you a salutation: "Thou art none of a believer!" Coveting the perishable goods of this life: with Allah are profits and spoils abundant. Even thus were ye yourselves before, till Allah conferred on you His favours: Therefore carefully investigate. For Allah is well aware of all that ye do.
 
 [Open on Quran.com](https://quran.com/4/94)
 
@@ -117,7 +117,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there followed them successors who inherited the Scripture [while] taking the commodities of this lower life and saying, "It will be forgiven for us." And if an offer like it comes to them, they will [again] take it. Was not the covenant of the Scripture [i.e., the Torah] taken from them that they would not say about Allāh except the truth, and they studied what was in it? And the home of the Hereafter is better for those who fear Allāh, so will you not use reason?
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے بعد ناخلف ان کے قائم مقام ہوئے جو کتاب کے وارث بنے۔ یہ (بےتامل) اس دنیائے دنی کا مال ومتاع لے لیتے ہیں اور کہتے ہیں کہ ہم بخش دیئے جائیں گے۔ اور (لوگ ایسوں پر طعن کرتے ہیں) اگر ان کے سامنے بھی ویسا ہی مال آجاتا ہے تو وہ بھی اسے لے لیتے ہیں۔ کیا ان سے کتاب کی نسبت عہد نہیں لیا گیا کہ خدا پر سچ کے سوا اور کچھ نہیں کہیں گے۔ اور جو کچھ اس (کتاب) میں ہے اس کو انہوں نے پڑھ بھی لیا ہے۔ اور آخرت کا گھر پرہیزگاروں کے لیے بہتر ہے کیا تم سمجھتے نہیں
+**English (Yusuf Ali):** After them succeeded an (evil) generation: They inherited the Book, but they chose (for themselves) the vanities of this world, saying (for excuse): "(Everything) will be forgiven us." (Even so), if similar vanities came their way, they would (again) seize them. Was not the covenant of the Book taken from them, that they would not ascribe to Allah anything but the truth? and they study what is in the Book. But best for the righteous is the home in the Hereafter. Will ye not understand?
 
 [Open on Quran.com](https://quran.com/7/169)
 
@@ -133,7 +133,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is not for a prophet to have captives [of war] until he inflicts a massacre [upon Allāh's enemies] in the land. You [i.e., some Muslims] desire the commodities of this world, but Allāh desires [for you] the Hereafter. And Allāh is Exalted in Might and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** پیغمبر کو شایان نہیں کہ اس کے قبضے میں قیدی رہیں جب تک (کافروں کو قتل کر کے) زمین میں کثرت سے خون (نہ) بہا دے۔ تم لوگ دنیا کے مال کے طالب ہو۔ اور خدا آخرت (کی بھلائی) چاہتا ہے۔ اور خدا غالب حکمت والا ہے
+**English (Yusuf Ali):** It is not fitting for a prophet that he should have prisoners of war until he hath thoroughly subdued the land. Ye look for the temporal goods of this world; but Allah looketh to the Hereafter: And Allah is Exalted in might, Wise.
 
 [Open on Quran.com](https://quran.com/8/67)
 
@@ -149,7 +149,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Had it been a near [i.e., easy] gain and a moderate trip, they [i.e., the hypocrites] would have followed you, but distant to them was the journey. And they will swear by Allāh, "If we were able, we would have gone forth with you," destroying themselves [through false oaths], and Allāh knows that indeed they are liars.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر مالِ غنیمت سہل الحصول اور سفر بھی ہلکا سا ہوتا تو تمہارے ساتھ (شوق سے) چل دیتے۔ لیکن مسافت ان کو دور (دراز) نظر آئی (تو عذر کریں گے)۔ اور خدا کی قسمیں کھائیں گے کہ اگر ہم طاقت رکھتے تو آپ کے ساتھ ضرور نکل کھڑے ہوتے یہ (ایسے عذروں سے) اپنے تئیں ہلاک کر رہے ہیں۔ اور خدا جانتا ہے کہ جھوٹے ہیں
+**English (Yusuf Ali):** If there had been immediate gain (in sight), and the journey easy, they would (all) without doubt have followed thee, but the distance was long, (and weighed) on them. They would indeed swear by Allah, "If we only could, we should certainly have come out with you": They would destroy their own souls; for Allah doth know that they are certainly lying.
 
 [Open on Quran.com](https://quran.com/9/42)
 
@@ -165,7 +165,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And who is more unjust than he who invents a lie about Allāh? Those will be presented before their Lord, and the witnesses will say, "These are the ones who lied against their Lord." Unquestionably, the curse of Allāh is upon the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس سے بڑھ کر ظالم کون ہوگا جو خدا پر جھوٹ افتراء کرے ایسے لوگ خدا کے سامنے پیش کئے جائیں گے اور گواہ کہیں گے کہ یہی لوگ ہیں جنہوں نے اپنے پروردگار پر جھوٹ بولا تھا۔ سن رکھو کہ ظالموں پر الله کی لعنت ہے
+**English (Yusuf Ali):** Who doth more wrong than those who invent a lie against Allah? They will be turned back to the presence of their Lord, and the witnesses will say, "These are the ones who lied against their Lord! Behold! the Curse of Allah is on those who do wrong!-
 
 [Open on Quran.com](https://quran.com/11/18)
 
@@ -181,7 +181,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will be presented before your Lord in rows, [and He will say], "You have certainly come to Us just as We created you the first time. But you claimed that We would never make for you an appointment."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور سب تمہارے پروردگار کے سامنے صف باندھ کر لائے جائیں گے (تو ہم ان سے کہیں گے کہ) جس طرح ہم نے تم کو پہلی بار پیدا کیا تھا (اسی طرح آج) تم ہمارے سامنے آئے لیکن تم نے تو یہ خیال کر رکھا تھا کہ ہم نے تمہارے لئے (قیامت کا) کوئی وقت مقرر ہی نہیں کیا
+**English (Yusuf Ali):** And they will be marshalled before thy Lord in ranks, (with the announcement), "Now have ye come to Us (bare) as We created you first: aye, ye thought We shall not fulfil the appointment made to you to meet (Us)!":
 
 [Open on Quran.com](https://quran.com/18/48)
 
@@ -197,7 +197,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will present Hell that Day to the disbelievers, on display -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اُس روز جہنم کو کافروں کے سامنے لائیں گے
+**English (Yusuf Ali):** And We shall present Hell that day for Unbelievers to see, all spread out,-
 
 [Open on Quran.com](https://quran.com/18/100)
 

@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:276 · [[002 Al-Baqarah]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh destroys interest and gives increase for charities. And Allāh does not like every sinning disbeliever.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا سود کو نابود (یعنی بےبرکت) کرتا اور خیرات (کی برکت) کو بڑھاتا ہے اور خدا کسی ناشکرے گنہگار کو دوست نہیں رکھتا
+**English (Yusuf Ali):** Allah will deprive usury of all blessing, but will give increase for deeds of charity: For He loveth not creatures ungrateful and wicked.
 
 [Open on Quran.com](https://quran.com/2/276)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And He gave you from all you asked of Him. And if you should count the favor [i.e., blessings] of Allāh, you could not enumerate them. Indeed, mankind is [generally] most unjust and ungrateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو کچھ تم نے مانگا سب میں سے تم کو عنایت کیا۔ اور اگر خدا کے احسان گننے لگو تو شمار نہ کرسکو۔ (مگر لوگ نعمتوں کا شکر نہیں کرتے) کچھ شک نہیں کہ انسان بڑا بےانصاف اور ناشکرا ہے
+**English (Yusuf Ali):** And He giveth you of all that ye ask for. But if ye count the favours of Allah, never will ye be able to number them. Verily, man is given up to injustice and ingratitude.
 
 [Open on Quran.com](https://quran.com/14/34)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Unquestionably, for Allāh is the pure religion. And those who take protectors besides Him [say], "We only worship them that they may bring us nearer to Allāh in position." Indeed, Allāh will judge between them concerning that over which they differ. Indeed, Allāh does not guide he who is a liar and [confirmed] disbeliever.
 
-**Urdu (Fatah Muhammad Jalandhari):** دیکھو خالص عبادت خدا ہی کے لئے (زیبا ہے) اور جن لوگوں نے اس کے سوا اور دوست بنائے ہیں۔ (وہ کہتے ہیں کہ) ہم ان کو اس لئے پوجتے ہیں کہ ہم کو خدا کا مقرب بنادیں۔ تو جن باتوں میں یہ اختلاف کرتے ہیں خدا ان میں ان کا فیصلہ کردے گا۔ بےشک خدا اس شخص کو جو جھوٹا ناشکرا ہے ہدایت نہیں دیتا
+**English (Yusuf Ali):** Is it not to Allah that sincere devotion is due? But those who take for protectors other than Allah (say): "We only serve them in order that they may bring us nearer to Allah." Truly Allah will judge between them in that wherein they differ. But Allah guides not such as are false and ungrateful.
 
 [Open on Quran.com](https://quran.com/39/3)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh will say], "Throw into Hell every obstinate disbeliever,
 
-**Urdu (Fatah Muhammad Jalandhari):** (حکم ہوگا کہ) ہر سرکش ناشکرے کو دوزخ میں ڈال دو
+**English (Yusuf Ali):** (The sentence will be:) "Throw, throw into Hell every contumacious Rejecter (of Allah)!-
 
 [Open on Quran.com](https://quran.com/50/24)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, if You leave them, they will mislead Your servants and not beget except [every] wicked one and [confirmed] disbeliever.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم ان کو رہنے دے گا تو تیرے بندوں کو گمراہ کریں گے اور ان سے جو اولاد ہوگی وہ بھی بدکار اور ناشکر گزار ہوگی
+**English (Yusuf Ali):** "For, if Thou dost leave (any of) them, they will but mislead Thy devotees, and they will breed none but wicked ungrateful ones.
 
 [Open on Quran.com](https://quran.com/71/27)
 

@@ -14,14 +14,14 @@ The Declining Day · 3 ayahs
 
 ## Words in this surah (graph)
 
-- [[xsr - lost]] — `خَسِرَ` · lost
-- [[Amn - believe]] — `آمَنَ` · believe
+- [[<nsAn - man]] — `إِنسان` · man
 - [[twAS - enjoin each other]] — `تَواصَ` · enjoin each other
+- [[Hq - truth]] — `حَقّ` · truth
 - [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
 - [[Sbr - patient]] — `صَبْر` · patient
-- [[Hq - truth]] — `حَقّ` · truth
-- [[<nsAn - man]] — `إِنسان` · man
 - [[Eml - do]] — `عَمِلَ` · do
+- [[xsr - lost]] — `خَسِرَ` · lost
+- [[Amn - believe]] — `آمَنَ` · believe
 
 ## Roots
 

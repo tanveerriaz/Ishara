@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:118 · [[003 Ali Imran]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not take as intimates those other than yourselves [i.e., believers], for they will not spare you [any] ruin. They wish you would have hardship. Hatred has already appeared from their mouths, and what their breasts conceal is greater. We have certainly made clear to you the signs, if you will use reason.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! کسی غیر (مذہب کے آدمی) کو اپنا رازداں نہ بنانا یہ لوگ تمہاری خرابی اور (فتنہ انگیزی کرنے) میں کسی طرح کی کوتاہی نہیں کرتے اور چاہتے ہیں کہ (جس طرح ہو) تمہیں تکلیف پہنچے ان کی زبانوں سے تو دشمنی ظاہر ہوہی چکی ہے اور جو (کینے) ان کے سینوں میں مخفی ہیں وہ کہیں زیادہ ہیں اگر تم عقل رکھتے ہو تو ہم نے تم کو اپنی آیتیں کھول کھول کر سنا دی ہیں
+**English (Yusuf Ali):** O ye who believe! Take not into your intimacy those outside your ranks: They will not fail to corrupt you. They only desire your ruin: Rank hatred has already appeared from their mouths: What their hearts conceal is far worse. We have made plain to you the Signs, if ye have wisdom.
 
 [Open on Quran.com](https://quran.com/3/118)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There has certainly come to you a Messenger from among yourselves. Grievous to him is what you suffer; [he is] concerned over you [i.e., your guidance] and to the believers is kind and merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** (لوگو) تمہارے پاس تم ہی میں سے ایک پیغمبر آئے ہیں۔ تمہاری تکلیف ان کو گراں معلوم ہوتی ہے اور تمہاری بھلائی کے خواہش مند ہیں اور مومنوں پر نہایت شفقت کرنے والے (اور) مہربان ہیں
+**English (Yusuf Ali):** Now hath come unto you a Messenger from amongst yourselves: it grieves him that ye should perish: ardently anxious is he over you: to the Believers is he most kind and merciful.
 
 [Open on Quran.com](https://quran.com/9/128)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And know that among you is the Messenger of Allāh. If he were to obey you in much of the matter, you would be in difficulty, but Allāh has endeared to you the faith and has made it pleasing in your hearts and has made hateful to you disbelief, defiance and disobedience. Those are the [rightly] guided.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جان رکھو کہ تم میں خدا کے پیغمبرﷺ ہیں۔ اگر بہت سی باتوں میں وہ تمہارا کہا مان لیا کریں تو تم مشکل میں پڑ جاؤ لیکن خدا نے تم کو ایمان عزیز بنا دیا اور اس کو تمہارے دلوں میں سجا دیا اور کفر اور گناہ اور نافرمانی سے تم کو بیزار کردیا۔ یہی لوگ راہ ہدایت پر ہیں
+**English (Yusuf Ali):** And know that among you is Allah's Messenger: were he, in many matters, to follow your (wishes), ye would certainly fall into misfortune: But Allah has endeared the Faith to you, and has made it beautiful in your hearts, and He has made hateful to you Unbelief, wickedness, and rebellion: such indeed are those who walk in righteousness;-
 
 [Open on Quran.com](https://quran.com/49/7)
 

@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:37 · [[003 Ali Imran]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, "O Mary, from where is this [coming] to you?" She said, "It is from Allāh. Indeed, Allāh provides for whom He wills without account."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو پروردگار نے اس کو پسندیدگی کے ساتھ قبول فرمایا اور اسے اچھی طرح پرورش کیا اور زکریا کو اس کا متکفل بنایا زکریا جب کبھی عبادت گاہ میں اس کے پاس جاتے تو اس کے پاس کھانا پاتے (یہ کیفیت دیکھ کر ایک دن مریم سے) پوچھنے لگے کہ مریم یہ کھانا تمہارے پاس کہاں سے آتا ہے وہ بولیں خدا کے ہاں سے (آتا ہے) بیشک خدا جسے چاہتا ہے بے شمار رزق دیتا ہے
+**English (Yusuf Ali):** Right graciously did her Lord accept her: He made her grow in purity and beauty: To the care of Zakariya was she assigned. Every time that he entered (Her) chamber to see her, He found her supplied with sustenance. He said: "O Mary! Whence (comes) this to you?" She said: "From Allah: for Allah Provides sustenance to whom He pleases without measure."
 
 [Open on Quran.com](https://quran.com/3/37)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who sends down rain from the sky, and We produce thereby the growth of all things. We produce from it greenery from which We produce grains arranged in layers. And from the palm trees - of its emerging fruit are clusters hanging low. And [We produce] gardens of grapevines and olives and pomegranates, similar yet varied. Look at [each of] its fruit when it yields and [at] its ripening. Indeed in that are signs for a people who believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو آسمان سے مینھ برساتا ہے۔ پھر ہم ہی (جو مینھ برساتے ہیں) اس سے ہر طرح کی روئیدگی اگاتے ہیں۔ پھر اس میں سے سبز سبز کونپلیں نکالتے ہیں۔ اور ان کونپلوں میں سے ایک دوسرے کے ساتھ جڑے ہوئے دانے نکالتے ہیں اور کھجور کے گابھے میں سے لٹکتے ہوئے گچھے اور انگوروں کے باغ اور زیتون اور انار جو ایک دوسرے سے ملتے جلتے بھی ہیں۔ اور نہیں بھی ملتے۔ یہ چیزیں جب پھلتی ہیں تو ان کے پھلوں پر اور (جب پکتی ہیں تو) ان کے پکنے پر نظر کرو۔ ان میں ان لوگوں کے لئے جو ایمان لاتے ہیں (قدرت خدا کی بہت سی) نشانیاں ہیں
+**English (Yusuf Ali):** It is He Who sendeth down rain from the skies: with it We produce vegetation of all kinds: from some We produce green (crops), out of which We produce grain, heaped up (at harvest); out of the date-palm and its sheaths (or spathes) (come) clusters of dates hanging low and near: and (then there are) gardens of grapes, and olives, and pomegranates, each similar (in kind) yet different (in variety): when they begin to bear fruit, feast your eyes with the fruit and the ripeness thereof. Behold! in these things there are signs for people who believe.
 
 [Open on Quran.com](https://quran.com/6/99)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the good land - its vegetation emerges by permission of its Lord; but that which is bad - nothing emerges except sparsely, with difficulty. Thus do We diversify the signs for a people who are grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو زمین پاکیزہ (ہے) اس میں سے سبزہ بھی پروردگار کے حکم سے (نفیس ہی) نکلتا ہے اور جو خراب ہے اس میں جو کچھ ہے ناقص ہوتا ہے۔ اسی طرح ہم آیتوں کو شکرگزار لوگوں کے لئے پھیر پھیر کر بیان کرتے ہیں
+**English (Yusuf Ali):** From the land that is clean and good, by the will of its Cherisher, springs up produce, (rich) after its kind: but from the land that is bad, springs up nothing but that which is niggardly: thus do we explain the signs by various (symbols) to those who are grateful.
 
 [Open on Quran.com](https://quran.com/7/58)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The example of [this] worldly life is but like rain which We have sent down from the sky that the plants of the earth absorb - [those] from which men and livestock eat - until, when the earth has taken on its adornment and is beautified and its people suppose that they have capability over it, there comes to it Our command by night or by day, and We make it as a harvest, as if it had not flourished yesterday. Thus do We explain in detail the signs for a people who give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** دنیا کی زندگی کی مثال مینھہ کی سی ہے کہ ہم نے اس کو آسمان سے برسایا۔ پھر اس کے ساتھ سبزہ جسے آدمی اور جانور کھاتے ہیں مل کر نکلا یہاں تک کہ زمین سبزے سے خوشنما اور آراستہ ہوگئی اور زمین والوں نے خیال کیا کہ وہ اس پر پوری دسترس رکھتے ہیں ناگہاں رات کو یا دن کو ہمارا حکم (عذاب) آپہنچا تو ہم نے اس کو کاٹ (کر ایسا کر) ڈالا کہ گویا کل وہاں کچھ تھا ہی نہیں۔ جو لوگ غور کرنے والے ہیں۔ ان کے لیے ہم (اپنی قدرت کی) نشانیاں اسی طرح کھول کھول کر بیان کرتے ہیں
+**English (Yusuf Ali):** The likeness of the life of the present is as the rain which We send down from the skies: by its mingling arises the produce of the earth- which provides food for men and animals: (It grows) till the earth is clad with its golden ornaments and is decked out (in beauty): the people to whom it belongs think they have all powers of disposal over it: There reaches it Our command by night or by day, and We make it like a harvest clean-mown, as if it had not flourished only the day before! thus do We explain the Signs in detail for those who reflect.
 
 [Open on Quran.com](https://quran.com/10/24)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And present to them the example of the life of this world, [its being] like rain which We send down from the sky, and the vegetation of the earth mingles with it and [then] it becomes dry remnants, scattered by the winds. And Allāh is ever, over all things, Perfect in Ability.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان سے دنیا کی زندگی کی مثال بھی بیان کردو (وہ ایسی ہے) جیسے پانی جسے ہم نے آسمان سے برسایا۔ تو اس کے ساتھ زمین کی روئیدگی مل گئی۔ پھر وہ چورا چورا ہوگئی کہ ہوائیں اسے اڑاتی پھرتی ہیں۔ اور خدا تو ہر چیز پر قدرت رکھتا ہے
+**English (Yusuf Ali):** Set forth to them the similitude of the life of this world: It is like the rain which we send down from the skies: the earth's vegetation absorbs it, but soon it becomes dry stubble, which the winds do scatter: it is (only) Allah who prevails over all things.
 
 [Open on Quran.com](https://quran.com/18/45)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [It is He] who has made for you the earth as a bed [spread out] and inserted therein for you roadways and sent down from the sky, rain and produced thereby categories of various plants.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ (وہی تو ہے) جس نے تم لوگوں کے لئے زمین کو فرش بنایا اور اس میں تمہارے لئے رستے جاری کئے اور آسمان سے پانی برسایا۔ پھر اس سے انواع واقسام کی مختلف روئیدگیاں پیدا کیں
+**English (Yusuf Ali):** "He Who has, made for you the earth like a carpet spread out; has enabled you to go about therein by roads (and channels); and has sent down water from the sky." With it have We produced diverse pairs of plants each separate from the others.
 
 [Open on Quran.com](https://quran.com/20/53)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Know that the life of this world is but amusement and diversion and adornment and boasting to one another and competition in increase of wealth and children - like the example of a rain whose [resulting] plant growth pleases the tillers; then it dries and you see it turned yellow; then it becomes [scattered] debris. And in the Hereafter is severe punishment and forgiveness from Allāh and approval. And what is the worldly life except the enjoyment of delusion.
 
-**Urdu (Fatah Muhammad Jalandhari):** جان رکھو کہ دنیا کی زندگی محض کھیل اور تماشا اور زینت (وآرائش) اور تمہارے آپس میں فخر (وستائش) اور مال واولاد کی ایک دوسرے سے زیادہ طلب (وخواہش) ہے (اس کی مثال ایسی ہے) جیسے بارش کہ (اس سے کھیتی اُگتی اور) کسانوں کو کھیتی بھلی لگتی ہے پھر وہ خوب زور پر آتی ہے پھر (اے دیکھنے والے) تو اس کو دیکھتا ہے کہ (پک کر) زرد پڑ جاتی ہے پھر چورا چورا ہوجاتی ہے اور آخرت میں (کافروں کے لئے) عذاب شدید اور (مومنوں کے لئے) خدا کی طرف سے بخشش اور خوشنودی ہے۔ اور دنیا کی زندگی تو متاع فریب ہے
+**English (Yusuf Ali):** Know ye (all), that the life of this world is but play and amusement, pomp and mutual boasting and multiplying, (in rivalry) among yourselves, riches and children. Here is a similitude: How rain and the growth which it brings forth, delight (the hearts of) the tillers; soon it withers; thou wilt see it grow yellow; then it becomes dry and crumbles away. But in the Hereafter is a Penalty severe (for the devotees of wrong). And Forgiveness from Allah and (His) Good Pleasure (for the devotees of Allah). And what is the life of this world, but goods and chattels of deception?
 
 [Open on Quran.com](https://quran.com/57/20)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Allāh has caused you to grow from the earth a [progressive] growth.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تم کو زمین سے پیدا کیا ہے
+**English (Yusuf Ali):** "'And Allah has produced you from the earth growing (gradually),
 
 [Open on Quran.com](https://quran.com/71/17)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That We may bring forth thereby grain and vegetation.
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ اس سے اناج اور سبزہ پیدا کریں
+**English (Yusuf Ali):** That We may produce therewith corn and vegetables,
 
 [Open on Quran.com](https://quran.com/78/15)
 

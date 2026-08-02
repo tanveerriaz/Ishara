@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 70:22 · [[070 Al-Maarij]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Except the observers of prayer -
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر نماز گزار
+**English (Yusuf Ali):** Not so those devoted to Prayer;-
 
 [Open on Quran.com](https://quran.com/70/22)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will say, "We were not of those who prayed,
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ جواب دیں گے کہ ہم نماز نہیں پڑھتے تھے
+**English (Yusuf Ali):** They will say: "We were not of those who prayed;
 
 [Open on Quran.com](https://quran.com/74/43)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So woe to those who pray
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ایسے نمازیوں کی خرابی ہے
+**English (Yusuf Ali):** So woe to the worshippers
 
 [Open on Quran.com](https://quran.com/107/4)
 

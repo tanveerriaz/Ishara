@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:3 · [[004 An-Nisa]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hands possess [i.e., slaves]. That is more suitable that you may not incline [to injustice].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو اس بات کا خوف ہو کہ یتیم لڑکیوں کے بارےانصاف نہ کرسکوگے تو ان کے سوا جو عورتیں تم کو پسند ہوں دو دو یا تین تین یا چار چار ان سے نکاح کرلو۔ اور اگر اس بات کا اندیشہ ہو کہ (سب عورتوں سے) یکساں سلوک نہ کرسکو گے تو ایک عورت (کافی ہے) یا لونڈی جس کے تم مالک ہو۔ اس سے تم بےانصافی سے بچ جاؤ گے
+**English (Yusuf Ali):** If ye fear that ye shall not be able to deal justly with the orphans, Marry women of your choice, Two or three or four; but if ye fear that ye shall not be able to deal justly (with them), then only one, or (a captive) that your right hands possess, that will be more suitable, to prevent you from doing injustice.
 
 [Open on Quran.com](https://quran.com/4/3)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [also prohibited to you are all] married women except those your right hands possess. [This is] the decree of Allāh upon you. And lawful to you are [all others] beyond these, [provided] that you seek them [in marriage] with [gifts from] your property, desiring chastity, not unlawful sexual intercourse. So for whatever you enjoy [of marriage] from them, give them their due compensation as an obligation. And there is no blame upon you for what you mutually agree to beyond the obligation. Indeed, Allāh is ever Knowing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور شوہر والی عورتیں بھی (تم پر حرام ہیں) مگر وہ جو (اسیر ہو کر لونڈیوں کے طور پر) تمہارے قبضے میں آجائیں (یہ حکم) خدا نے تم کو لکھ دیا ہے اور ان (محرمات) کے سوا اور عورتیں تم کو حلال ہیں اس طرح سے کہ مال خرچ کر کے ان سے نکاح کرلو بشرطیکہ (نکاح سے) مقصود عفت قائم رکھنا ہو نہ شہوت رانی تو جن عورتوں سے تم فائدہ حاصل کرو ان کا مہر جو مقرر کیا ہو ادا کردو اور اگر مقرر کرنے کے بعد آپس کی رضامندی سے مہر میں کمی بیشی کرلو تو تم پر کچھ گناہ نہیں بےشک خدا سب کچھ جاننے والا (اور) حکمت والا ہے
+**English (Yusuf Ali):** Also (prohibited are) women already married, except those whom your right hands possess: Thus hath Allah ordained (Prohibitions) against you: Except for these, all others are lawful, provided ye seek (them in marriage) with gifts from your property,- desiring chastity, not lust, seeing that ye derive benefit from them, give them their dowers (at least) as prescribed; but if, after a dower is prescribed, agree Mutually (to vary it), there is no blame on you, and Allah is All-knowing, All-wise.
 
 [Open on Quran.com](https://quran.com/4/24)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever among you cannot [find] the means to marry free, believing women, then [he may marry] from those whom your right hands possess of believing slave girls. And Allāh is most knowing about your faith. You [believers] are of one another. So marry them with the permission of their people and give them their due compensation [i.e., mahr] according to what is acceptable. [They should be] chaste, neither [of] those who commit unlawful intercourse randomly nor those who take [secret] lovers. But once they are sheltered in marriage, if they should commit adultery, then for them is half the punishment for free [unmarried] women. This [allowance] is for him among you who fears affliction [i.e., sin], but to be patient is better for you. And Allāh is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص تم میں سے مومن آزاد عورتوں (یعنی بیبیوں) سے نکاح کرنے کا مقدور نہ رکھے تو مومن لونڈیوں میں ہی جو تمہارے قبضے میں آگئی ہوں (نکاح کرلے) اور خدا تمہارے ایمان کو اچھی طرح جانتا ہے تم آپس میں ایک دوسرے کے ہم جنس ہو تو ان لونڈیوں کے ساتھ ان کے مالکوں سے اجازت حاصل کرکے نکاح کر لو اور دستور کے مطابق ان کا مہر بھی ادا کردو بشرطیکہ عفیفہ ہوں نہ ایسی کہ کھلم کھلا بدکاری کریں اور نہ درپردہ دوستی کرنا چاہیں پھر اگر نکاح میں آکر بدکاری کا ارتکاب کر بیٹھیں تو جو سزا آزاد عورتوں (یعنی بیبیوں) کے لئے ہے اس کی آدھی ان کو (دی جائے) یہ (لونڈی کے ساتھ نکاح کرنے کی) اجازت اس شخص کو ہے جسے گناہ کر بیٹھنے کا اندیشہ ہو اور اگر صبر کرو تو یہ تمہارے لئے بہت اچھا ہے اور خدا بخشنے والا مہربان ہے
+**English (Yusuf Ali):** If any of you have not the means wherewith to wed free believing women, they may wed believing girls from among those whom your right hands possess: And Allah hath full knowledge about your faith. Ye are one from another: Wed them with the leave of their owners, and give them their dowers, according to what is reasonable: They should be chaste, not lustful, nor taking paramours: when they are taken in wedlock, if they fall into shame, their punishment is half that for free women. This (permission) is for those among you who fear sin; but it is better for you that ye practise self-restraint. And Allah is Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/4/25)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Worship Allāh and associate nothing with Him, and to parents do good, and to relatives, orphans, the needy, the near neighbor, the neighbor farther away, the companion at your side, the traveler, and those whom your right hands possess. Indeed, Allāh does not like those who are self-deluding and boastful,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی کی عبادت کرو اور اس کے ساتھ کسی چیز کو شریک نہ بناؤ اور ماں باپ اور قرابت والوں اور یتیموں اور محتاجوں اور رشتہ دار ہمسائیوں اور اجنبی ہمسائیوں اور رفقائے پہلو (یعنی پاس بیٹھنے والوں) اور مسافروں اور جو لوگ تمہارے قبضے میں ہوں سب کے ساتھ احسان کرو کہ خدا (احسان کرنے والوں کو دوست رکھتا ہے اور) تکبر کرنے والے بڑائی مارنے والے کو دوست نہیں رکھتا
+**English (Yusuf Ali):** Serve Allah, and join not any partners with Him; and do good- to parents, kinsfolk, orphans, those in need, neighbours who are near, neighbours who are strangers, the companion by your side, the wayfarer (ye meet), and what your right hands possess: For Allah loveth not the arrogant, the vainglorious;-
 
 [Open on Quran.com](https://quran.com/4/36)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They have certainly disbelieved who say that Allāh is Christ, the son of Mary. Say, "Then who could prevent Allāh at all if He had intended to destroy Christ, the son of Mary, or his mother or everyone on the earth?" And to Allāh belongs the dominion of the heavens and the earth and whatever is between them. He creates what He wills, and Allāh is over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اس بات کے قائل ہیں کہ عیسیٰ بن مریم خدا ہیں وہ بےشک کافر ہیں (ان سے) کہہ دو کہ اگر خدا عیسیٰ بن مریم کو اور ان کی والدہ کو اور جتنے لوگ زمین میں ہیں سب کو ہلاک کرنا چاہے تو اس کے آگے کس کی پیش چل سکتی ہے؟ اور آسمان اور زمین اور جو کچھ ان دونوں میں ہے سب پر خدا ہی کی بادشاہی ہے وہ جو چاہتا ہے پیدا کرتا ہے اور خدا ہر چیز پر قادر ہے
+**English (Yusuf Ali):** In blasphemy indeed are those that say that Allah is Christ the son of Mary. Say: "Who then hath the least power against Allah, if His will were to destroy Christ the son of Mary, his mother, and all every - one that is on the earth? For to Allah belongeth the dominion of the heavens and the earth, and all that is between. He createth what He pleaseth. For Allah hath power over all things."
 
 [Open on Quran.com](https://quran.com/5/17)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Moses] said, "My Lord, indeed I do not possess [i.e., control] except myself and my brother, so part us from the defiantly disobedient people."
 
-**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے (خدا سے) التجا کی کہ پروردگار میں اپنے اور اپنے بھائی کے سوا اور کسی پر اختیار نہیں رکھتا تو ہم میں اور ان نافرمان لوگوں میں جدائی کردے
+**English (Yusuf Ali):** He said: "O my Lord! I have power only over myself and my brother: so separate us from this rebellious people!"
 
 [Open on Quran.com](https://quran.com/5/25)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Messenger, let them not grieve you who hasten into disbelief of those who say, "We believe" with their mouths, but their hearts believe not, and from among the Jews. [They are] avid listeners to falsehood, listening to another people who have not come to you. They distort words beyond their [proper] places [i.e., usages], saying, "If you are given this, take it; but if you are not given it, then beware." But he for whom Allāh intends fitnah - never will you possess [power to do] for him a thing against Allāh. Those are the ones for whom Allāh does not intend to purify their hearts. For them in this world is disgrace, and for them in the Hereafter is a great punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر! جو لوگ کفر میں جلدی کرتے ہیں (کچھ تو) ان میں سے (ہیں) جو منہ سے کہتے ہیں کہ ہم مومن ہیں لیکن ان کے دل مومن نہیں ہیں اور (کچھ) ان میں سے جو یہودی ہیں ان کی وجہ سے غمناک نہ ہونا یہ غلط باتیں بنانے کے لیے جاسوسی کرتے پھرتے ہیں اور ایسے لوگوں (کے بہکانے) کے لیے جاسوس بنے ہیں جو ابھی تمہارے پاس نہیں آئے (صحیح) باتوں کو ان کے مقامات (میں ثابت ہونے) کے بعد بدل دیتے ہیں (اور لوگوں سے) کہتے ہیں کہ اگر تم کو یہی (حکم) ملے تو اسے قبول کر لینا اور اگر یہ نہ ملے تو اس سے احتراز کرنا اور اگر کسی کو خدا گمراہ کرنا چاہے تو اس کے لیے تم کچھ بھی خدا سے (ہدایت کا) اختیار نہیں رکھتے یہ وہ لوگ ہیں جن کے دلوں کو خدا نے پاک کرنا نہیں چاہا ان کے لیے دنیا میں بھی ذلت ہے اور آخرت میں بھی بڑا عذاب ہے
+**English (Yusuf Ali):** O Messenger! let not those grieve thee, who race each other into unbelief: (whether it be) among those who say "We believe" with their lips but whose hearts have no faith; or it be among the Jews,- men who will listen to any lie,- will listen even to others who have never so much as come to thee. They change the words from their (right) times and places: they say, "If ye are given this, take it, but if not, beware!" If any one's trial is intended by Allah, thou hast no authority in the least for him against Allah. For such - it is not Allah's will to purify their hearts. For them there is disgrace in this world, and in the Hereafter a heavy punishment.
 
 [Open on Quran.com](https://quran.com/5/41)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Do you worship besides Allāh that which holds for you no [power of] harm or benefit while it is Allāh who is the Hearing, the Knowing?"
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ تم خدا کے سوا ایسی چیز کی کیوں پرستش کرتے ہو جس کو تمہارے نفع اور نقصان کا کچھ بھی اختیار نہیں؟ اور خدا ہی (سب کچھ) سنتا جانتا ہے
+**English (Yusuf Ali):** Say: "Will ye worship, besides Allah, something which hath no power either to harm or benefit you? But Allah,- He it is that heareth and knoweth all things."
 
 [Open on Quran.com](https://quran.com/5/76)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "I hold not for myself [the power of] benefit or harm, except what Allāh has willed. And if I knew the unseen, I could have acquired much wealth, and no harm would have touched me. I am not except a warner and a bringer of good tidings to a people who believe."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں اپنے فائدے اور نقصان کا کچھ بھی اختیار نہیں رکھتا مگر جو الله چاہے اور اگر میں غیب کی باتیں جانتا ہوتا تو بہت سے فائدے جمع کرلیتا اور مجھ کو کوئی تکلیف نہ پہنچتی۔ میں تو مومنوں کو ڈر اور خوشخبری سنانے والا ہوں
+**English (Yusuf Ali):** Say: "I have no power over any good or harm to myself except as Allah willeth. If I had knowledge of the unseen, I should have multiplied all good, and no evil should have touched me: I am but a warner, and a bringer of glad tidings to those who have faith."
 
 [Open on Quran.com](https://quran.com/7/188)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Who provides for you from the heaven and the earth? Or who controls hearing and sight and who brings the living out of the dead and brings the dead out of the living and who arranges [every] matter?" They will say, "Allāh," so say, "Then will you not fear Him?"
 
-**Urdu (Fatah Muhammad Jalandhari):** (ان سے) پوچھو کہ تم کو آسمان اور زمین میں رزق کون دیتا ہے یا (تمہارے) کانوں اور آنکھوں کا مالک کون ہے اور بےجان سے جاندار کون پیدا کرتا ہے اور دنیا کے کاموں کا انتظام کون کرتا ہے۔ جھٹ کہہ دیں گے کہ خدا۔ تو کہو کہ پھر تم (خدا سے) ڈرتے کیوں نہیں؟
+**English (Yusuf Ali):** Say: "Who is it that sustains you (in life) from the sky and from the earth? or who is it that has power over hearing and sight? And who is it that brings out the living from the dead and the dead from the living? and who is it that rules and regulates all affairs?" They will soon say, "Allah". Say, "will ye not then show piety (to Him)?"
 
 [Open on Quran.com](https://quran.com/10/31)
 

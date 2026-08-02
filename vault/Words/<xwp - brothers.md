@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:11 · [[004 An-Nisa]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh instructs you concerning your children [i.e., their portions of inheritance]: for the male, what is equal to the share of two females. But if there are [only] daughters, two or more, for them is two thirds of one's estate. And if there is only one, for her is half. And for one's parents, to each one of them is a sixth of his estate if he left children. But if he had no children and the parents [alone] inherit from him, then for his mother is one third. And if he had brothers [and/or sisters], for his mother is a sixth, after any bequest he [may have] made or debt. Your parents or your children - you know not which of them are nearest to you in benefit. [These shares are] an obligation [imposed] by Allāh. Indeed, Allāh is ever Knowing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری اولاد کے بارے میں تم کو ارشاد فرماتا ہے کہ ایک لڑکے کا حصہ دو لڑکیوں کے حصے کے برابر ہے۔ اور اگر اولاد میت صرف لڑکیاں ہی ہوں (یعنی دو یا) دو سے زیادہ تو کل ترکے میں ان کادو تہائی۔ اور اگر صرف ایک لڑکی ہو تو اس کا حصہ نصف۔ اور میت کے ماں باپ کا یعنی دونوں میں سے ہر ایک کا ترکے میں چھٹا حصہ بشرطیکہ میت کے اولاد ہو۔ اور اگر اولاد نہ ہو اور صرف ماں باپ ہی اس کے وارث ہوں تو ایک تہائی ماں کا حصہ۔ اور اگر میت کے بھائی بھی ہوں تو ماں کا چھٹا حصہ۔ (اور یہ تقسیم ترکہ میت کی) وصیت (کی تعمیل) کے بعد جو اس نے کی ہو یا قرض کے (ادا ہونے کے بعد جو اس کے ذمے ہو عمل میں آئے گی) تم کو معلوم نہیں کہ تمہارے باپ دادؤں اور بیٹوں پوتوں میں سے فائدے کے لحاظ سے کون تم سے زیادہ قریب ہے، یہ حصے خدا کے مقرر کئے ہوئے ہیں اور خدا سب کچھ جاننے والا اور حکمت والا ہے
+**English (Yusuf Ali):** Allah (thus) directs you as regards your Children's (Inheritance): to the male, a portion equal to that of two females: if only daughters, two or more, their share is two-thirds of the inheritance; if only one, her share is a half. For parents, a sixth share of the inheritance to each, if the deceased left children; if no children, and the parents are the (only) heirs, the mother has a third; if the deceased Left brothers (or sisters) the mother has a sixth. (The distribution in all cases ('s) after the payment of legacies and debts. Ye know not whether your parents or your children are nearest to you in benefit. These are settled portions ordained by Allah; and Allah is All-knowing, Al-wise.
 
 [Open on Quran.com](https://quran.com/4/11)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They request from you a [legal] ruling. Say, "Allāh gives you a ruling concerning one having neither descendants nor ascendants [as heirs]." If a man dies, leaving no child but [only] a sister, she will have half of what he left. And he inherits from her if she [dies and] has no child. But if there are two sisters [or more], they will have two thirds of what he left. If there are both brothers and sisters, the male will have the share of two females. Allāh makes clear to you [His law], lest you go astray. And Allāh is Knowing of all things.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگ تم سے (کلالہ کے بارے میں) حکم (خدا) دریافت کرتے ہیں کہہ دو کہ خدا کلالہ بارے میں یہ حکم دیتا ہے کہ اگر کوئی ایسا مرد مرجائے جس کے اولاد نہ ہو (اور نہ ماں باپ) اور اس کے بہن ہو تو اس کو بھائی کے ترکے میں سے آدھا حصہ ملے گا۔ اور اگر بہن مرجائے اور اس کے اولاد نہ ہو تو اس کے تمام مال کا وارث بھائی ہوگا اور اگر (مرنے والے بھائی کی) دو بہنیں ہوں تو دونوں کو بھائی کے ترکے میں سے دو تہائی۔ اور اگر بھائی اور بہن یعنی مرد اور عورتیں ملے جلے وارث ہوں تو مرد کا حصہ دو عورتوں کے برابر ہے۔ (یہ احکام) خدا تم سے اس لئے بیان فرماتا ہے کہ بھٹکتے نہ پھرو۔ اور خدا ہر چیز سے واقف ہے
+**English (Yusuf Ali):** They ask thee for a legal decision. Say: Allah directs (thus) about those who leave no descendants or ascendants as heirs. If it is a man that dies, leaving a sister but no child, she shall have half the inheritance: If (such a deceased was) a woman, who left no child, Her brother takes her inheritance: If there are two sisters, they shall have two-thirds of the inheritance (between them): if there are brothers and sisters, (they share), the male having twice the share of the female. Thus doth Allah make clear to you (His law), lest ye err. And Allah hath knowledge of all things.
 
 [Open on Quran.com](https://quran.com/4/176)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy.
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ بیٹا اپنے خواب کا ذکر اپنے بھائیوں سے نہ کرنا نہیں تو وہ تمہارے حق میں کوئی فریب کی چال چلیں گے۔ کچھ شک نہیں کہ شیطان انسان کا کھلا دشمن ہے
+**English (Yusuf Ali):** Said (the father): "My (dear) little son! relate not thy vision to thy brothers, lest they concoct a plot against thee: for Satan is to man an avowed enemy!
 
 [Open on Quran.com](https://quran.com/12/5)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Certainly were there in Joseph and his brothers signs for those who ask, [such as]
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں یوسف اور ان کے بھائیوں (کے قصے) میں پوچھنے والوں کے لیے (بہت سی) نشانیاں ہیں
+**English (Yusuf Ali):** Verily in Joseph and his brethren are signs (or symbols) for seekers (after Truth).
 
 [Open on Quran.com](https://quran.com/12/7)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the brothers of Joseph came [seeking food], and they entered upon him; and he recognized them, but he was to them unknown.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یوسف کے بھائی (کنعان سے مصر میں غلّہ خریدنے کے لیے) آئے تو یوسف کے پاس گئے تو یوسف نے ان کو پہچان لیا اور وہ ان کو نہ پہچان سکے
+**English (Yusuf Ali):** Then came Joseph's brethren: they entered his presence, and he knew them, but they knew him not.
 
 [Open on Quran.com](https://quran.com/12/58)
 
@@ -120,7 +120,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he raised his parents upon the throne, and they bowed to him in prostration. And he said, "O my father, this is the explanation of my vision of before. My Lord has made it reality. And He was certainly good to me when He took me out of prison and brought you [here] from bedouin life after Satan had induced [estrangement] between me and my brothers. Indeed, my Lord is Subtle in what He wills. Indeed, it is He who is the Knowing, the Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے والدین کو تخت پر بٹھایا اور سب یوسفؑ کے آگے سجدہ میں گر پڑے اور (اس وقت) یوسف نے کہا ابا جان یہ میرے اس خواب کی تعبیر ہے جو میں نے پہلے (بچپن میں) دیکھا تھا۔ میرے پروردگار نے اسے سچ کر دکھایا اور اس نے مجھ پر (بہت سے) احسان کئے ہیں کہ مجھ کو جیل خانے سے نکالا۔ اور اس کے بعد کہ شیطان نے مجھ میں اور میرے بھائیوں میں فساد ڈال دیا تھا۔ آپ کو گاؤں سے یہاں لایا۔ بےشک میرا پروردگار جو چاہتا ہے تدبیر سے کرتا ہے۔ وہ دانا (اور) حکمت والا ہے
+**English (Yusuf Ali):** And he raised his parents high on the throne (of dignity), and they fell down in prostration, (all) before him. He said: "O my father! this is the fulfilment of my vision of old! Allah hath made it come true! He was indeed good to me when He took me out of prison and brought you (all here) out of the desert, (even) after Satan had sown enmity between me and my brothers. Verily my Lord understandeth best the mysteries of all that He planneth to do, for verily He is full of knowledge and wisdom.
 
 [Open on Quran.com](https://quran.com/12/100)
 
@@ -136,7 +136,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The believers are but brothers, so make settlement between your brothers. And fear Allāh that you may receive mercy.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومن تو آپس میں بھائی بھائی ہیں۔ تو اپنے دو بھائیوں میں صلح کرادیا کرو۔ اور خدا سے ڈرتے رہو تاکہ تم پر رحمت کی جائے
+**English (Yusuf Ali):** The Believers are but a single Brotherhood: So make peace and reconciliation between your two (contending) brothers; and fear Allah, that ye may receive Mercy.
 
 [Open on Quran.com](https://quran.com/49/10)
 

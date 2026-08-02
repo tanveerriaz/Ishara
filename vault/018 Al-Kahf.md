@@ -16,29 +16,29 @@ The Cave · 110 ayahs
 
 - [[sbb - course]] — `سَبَب` · course
 - [[>HAT - they encompass]] — `أَحاطَ` · they encompass
-- [[lbv - you remained]] — `لَبِثَ` · you remained
 - [[glAm - boy]] — `غُلام` · boy
-- [[ldn - yourself]] — `لَدُن` · yourself
-- [[vwAb - reward]] — `ثَواب` · reward
-- [[qrn - generations]] — `قَرْن` · generations
-- [[>tbE - he followed]] — `أَتْبَعَ` · he followed
+- [[lbv - you remained]] — `لَبِثَ` · you remained
 - [[zynp - adornment]] — `زِينَة` · adornment
-- [[r$d - right path]] — `رُشْد` · right path
-- [[mwEd - appointment]] — `مَوْعِد` · appointment
+- [[vwAb - reward]] — `ثَواب` · reward
+- [[>tbE - he followed]] — `أَتْبَعَ` · he followed
 - [[AnTlq - proceed]] — `انطَلَقَ` · proceed
+- [[qrn - generations]] — `قَرْن` · generations
+- [[r$d - right path]] — `رُشْد` · right path
+- [[ldn - yourself]] — `لَدُن` · yourself
+- [[mwEd - appointment]] — `مَوْعِد` · appointment
 - [[vmr - its fruit]] — `ثَمَر` · its fruit
-- [[rjm - guessing]] — `رَجَمْ` · guessing
-- [[y&Ax* - blame me]] — `يُؤاخِذُ` · blame me
-- [[snyn - years]] — `سِنِين` · years
-- [[>vr - footsteps]] — `أَثَر` · footsteps
-- [[hzw - ridicule]] — `هُزُو` · ridicule
-- [[nfx - will blown]] — `نَفَخَ` · will blown
-- [[Hwt - fish]] — `حُوت` · fish
-- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
+- [[xbr - some information]] — `خُبْر` · some information
+- [[$mAl - left]] — `شِمال` · left
 - [[mdynp - city]] — `مَدِينَة` · city
-- [[SEyd - earth]] — `صَعِيد` · earth
 - [[ErD - its width]] — `عَرَضَ` · its width
+- [[>HSY - best calculated]] — `أَحْصَى` · best calculated
+- [[Hwt - fish]] — `حُوت` · fish
+- [[lq - you meet]] — `لَقُ` · you meet
+- [[y&Ax* - blame me]] — `يُؤاخِذُ` · blame me
+- [[zEm - claim]] — `زَعَمَ` · claim
 - [[Ejb - wonder]] — `عَجِبُ` · wonder
+- [[SAHb - companion]] — `صاحِب` · companion
+- [[nkr - terrible]] — `نَكِرَ` · terrible
 
 ## Roots
 

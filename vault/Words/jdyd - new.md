@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 13:5 · [[013 Ar-Rad]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you are astonished, [O Muḥammad] - then astonishing is their saying, "When we are dust, will we indeed be [brought] into a new creation?" Those are the ones who have disbelieved in their Lord, and those will have shackles upon their necks, and those are the companions of the Fire; they will abide therein eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم عجیب بات سننی چاہو تو کافروں کا یہ کہنا عجیب ہے کہ جب ہم (مر کر) مٹی ہو جائیں گے تو کیا ازسرنو پیدا ہوں گے؟ یہی لوگ ہیں جو اپنے پروردگار سے منکر ہوئے ہیں۔ اور یہی ہیں جن کی گردنوں میں طوق ہوں گے اور یہی اہل دوزخ ہیں کہ ہمیشہ اس میں (جلتے) رہیں گے
+**English (Yusuf Ali):** If thou dost marvel (at their want of faith), strange is their saying: "When we are (actually) dust, shall we indeed then be in a creation renewed?" They are those who deny their Lord! They are those round whose necks will be yokes (of servitude): they will be Companions of the Fire, to dwell therein (for aye)!
 
 [Open on Quran.com](https://quran.com/13/5)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have you not seen [i.e., considered] that Allāh created the heavens and the earth in truth? If He wills, He can do away with you and produce a new creation.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا نے آسمانوں اور زمین کو تدبیر سے پیدا کیا ہے۔ اگر وہ چاہے تو تم کو نابود کر دے اور (تمہاری جگہ) نئی مخلوق پیدا کر دے
+**English (Yusuf Ali):** Seest thou not that Allah created the heavens and the earth in Truth? If He so will, He can remove you and put (in your place) a new creation?
 
 [Open on Quran.com](https://quran.com/14/19)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "When we are bones and crumbled particles, will we [truly] be resurrected as a new creation?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ جب ہم (مر کر بوسیدہ) ہڈیوں اور چُور چُور ہوجائیں گے تو کیا ازسرنو پیدا ہو کر اُٹھیں گے
+**English (Yusuf Ali):** They say: "What! when we are reduced to bones and dust, should we really be raised up (to be) a new creation?"
 
 [Open on Quran.com](https://quran.com/17/49)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is their recompense because they disbelieved in Our verses and said, "When we are bones and crumbled particles, will we [truly] be resurrected [in] a new creation?"
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ ان کی سزا ہے اس لئے کہ وہ ہماری آیتوں سے کفر کرتے تھے اور کہتے تھے کہ جب ہم (مر کر بوسیدہ) ہڈیاں اور ریزہ ریزہ ہوجائیں گے تو کیا ازسرنو پیدا کئے جائیں گے
+**English (Yusuf Ali):** That is their recompense, because they rejected Our signs, and said, "When we are reduced to bones and broken dust, should we really be raised up (to be) a new Creation?"
 
 [Open on Quran.com](https://quran.com/17/98)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "When we are lost [i.e., disintegrated] within the earth, will we indeed be [recreated] in a new creation?" Rather, they are, in the meeting with their Lord, disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہنے لگے کہ جب ہم زمین میں ملیامیٹ ہوجائیں گے تو کیا ازسرنو پیدا ہوں گے۔ حقیقت یہ ہے کہ یہ لوگ اپنے پروردگار کے سامنے جانے ہی کے قائل نہیں
+**English (Yusuf Ali):** And they say: "What! when we lie, hidden and lost, in the earth, shall we indeed be in a Creation renewed? Nay, they deny the Meeting with their Lord.
 
 [Open on Quran.com](https://quran.com/32/10)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those who disbelieve say, "Shall we direct you to a man who will inform you [that] when you have disintegrated in complete disintegration, you will [then] be [recreated] in a new creation?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کافر کہتے ہیں کہ بھلا ہم تمہیں ایسا آدمی بتائیں جو تمہیں خبر دیتا ہے کہ جب تم (مر کر) بالکل پارہ پارہ ہو جاؤ گے تو نئے سرے سے پیدا ہوگے
+**English (Yusuf Ali):** The Unbelievers say (in ridicule): "Shall we point out to you a man that will tell you, when ye are all scattered to pieces in disintegration, that ye shall (then be raised) in a New Creation?
 
 [Open on Quran.com](https://quran.com/34/7)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If He wills, He can do away with you and bring forth a new creation.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر چاہے تو تم کو نابود کردے اور نئی مخلوقات لا آباد کرے
+**English (Yusuf Ali):** If He so pleased, He could blot you out and bring in a New Creation.
 
 [Open on Quran.com](https://quran.com/35/16)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Did We fail in the first creation? But they are in confusion over a new creation.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا ہم پہلی بار پیدا کرکے تھک گئے ہیں؟ (نہیں) بلکہ یہ ازسرنو پیدا کرنے میں شک میں (پڑے ہوئے) ہیں
+**English (Yusuf Ali):** Were We then weary with the first Creation, that they should be in confused doubt about a new Creation?
 
 [Open on Quran.com](https://quran.com/50/15)
 

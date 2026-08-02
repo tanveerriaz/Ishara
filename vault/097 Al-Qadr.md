@@ -16,21 +16,21 @@ The Power · 5 ayahs
 
 - [[lylp - nights]] — `لَيْلَة` · nights
 - [[$hr - months]] — `شَهْر` · months
-- [[mTlE - rising place]] — `مَطْلِع` · rising place
-- [[xyr - better]] — `خَيْر` · better
-- [[<*n - by permission]] — `إِذْن` · by permission
-- [[kl - every]] — `كُلّ` · every
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[mlk - angels]] — `مَلَك` · angels
-- [[slAm - peace]] — `سَلام` · peace
-- [[>lf - thousand]] — `أَلْف` · thousand
-- [[rb - lord]] — `رَبّ` · lord
 - [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[<*n - by permission]] — `إِذْن` · by permission
+- [[slAm - peace]] — `سَلام` · peace
+- [[xyr - better]] — `خَيْر` · better
 - [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
-- [[rwH - spirit]] — `رُوح` · spirit
+- [[kl - every]] — `كُلّ` · every
+- [[>lf - thousand]] — `أَلْف` · thousand
 - [[fjr - dawn]] — `فَجْر` · dawn
+- [[mTlE - rising place]] — `مَطْلِع` · rising place
+- [[mlk - angels]] — `مَلَك` · angels
+- [[rwH - spirit]] — `رُوح` · spirit
 - [[>mr - command]] — `أَمَرَ` · command
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[rb - lord]] — `رَبّ` · lord
+- [[>drY - can make you]] — `أَدْرَى` · can make you
 
 ## Roots
 

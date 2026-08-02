@@ -14,31 +14,31 @@ The Overthrowing · 29 ayahs
 
 ## Words in this surah (graph)
 
-- [[lyl - night]] — `لَيْل` · night
-- [[mjnwn - madman]] — `مَجْنُون` · madman
-- [[rswl - messenger]] — `رَسُول` · messenger
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[mkyn - firmly established]] — `مَكِين` · firmly established
-- [[>fq - horizons]] — `أُفُق` · horizons
-- [[$ms - sun]] — `شَمْس` · sun
-- [[jHym - hellfire]] — `جَحِيم` · hellfire
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
-- [[SAHb - companion]] — `صاحِب` · companion
-- [[jnp - gardens]] — `جَنَّة` · gardens
 - [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[rjym - accursed]] — `رَجِيم` · accursed
-- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[*nb - sins]] — `ذَنب` · sins
-- [[$A' - he wills]] — `شاءَ` · he wills
+- [[jwAr - ships]] — `جَوار` · ships
 - [[gyb - unseen]] — `غَيْب` · unseen
-- [[n$rt - will spread]] — `نُشِرَتْ` · will spread
-- [[bHr - sea]] — `بَحْر` · sea
-- [[SbH - morning]] — `صُبْح` · morning
-- [[qwl - speech]] — `قَوْل` · speech
-- [[krym - noble]] — `كَرِيم` · noble
-- [[syrt - could moved]] — `سُيِّرَتْ` · could moved
-- [[$yTAn - shaitaan]] — `شَيْطان` · shaitaan
 - [[s>l - ask]] — `سَأَلَ` · ask
+- [[>HDrt - swayed]] — `أَحْضَرَتْ` · swayed
+- [[zwjt - paired]] — `زُوِّجَتْ` · paired
+- [[lyl - night]] — `لَيْل` · night
+- [[allah - God]] — `الله` · God
+- [[qwp - strength]] — `قُوَّة` · strength
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[syrt - could moved]] — `سُيِّرَتْ` · could moved
+- [[SHf - scriptures]] — `صُحُف` · scriptures
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[Er$ - throne]] — `عَرْش` · throne
+- [[qwl - speech]] — `قَوْل` · speech
+- [[njm - stars]] — `نَجْم` · stars
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[>myn - trustworthy]] — `أَمِين` · trustworthy
+- [[mjnwn - madman]] — `مَجْنُون` · madman
+- [[$ms - sun]] — `شَمْس` · sun
+- [[mkyn - firmly established]] — `مَكِين` · firmly established
+- [[r>Y - you see]] — `رَأَى` · you see
 
 ## Roots
 

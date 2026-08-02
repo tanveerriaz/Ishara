@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:155 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم کسی قدر خوف اور بھوک اور مال اور جانوں اور میوؤں کے نقصان سے تمہاری آزمائش کریں گے توصبر کرنے والوں کو (خدا کی خوشنودی کی) بشارت سنا دو
+**English (Yusuf Ali):** Be sure we shall test you with something of fear and hunger, some loss in goods or lives or the fruits (of your toil), but give glad tidings to those who patiently persevere,
 
 [Open on Quran.com](https://quran.com/2/155)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+**English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
 
 [Open on Quran.com](https://quran.com/2/177)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not consume one another's wealth unjustly or send it [in bribery] to the rulers in order that [they might aid] you [to] consume a portion of the wealth of the people in sin, while you know [it is unlawful].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ایک دوسرے کا مال ناحق نہ کھاؤ اورنہ اس کو (رشوةً) حاکموں کے پاس پہنچاؤ تاکہ لوگوں کے مال کا کچھ حصہ ناجائز طور پر کھا جاؤ اور (اسے) تم جانتے بھی ہو
+**English (Yusuf Ali):** And do not eat up your property among yourselves for vanities, nor use it as bait for the judges, with intent that ye may eat up wrongfully and knowingly a little of (other) people's property.
 
 [Open on Quran.com](https://quran.com/2/188)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And their prophet said to them, "Indeed, Allāh has sent to you Saul as a king." They said, "How can he have kingship over us while we are more worthy of kingship than him and he has not been given any measure of wealth?" He said, "Indeed, Allāh has chosen him over you and has increased him abundantly in knowledge and stature. And Allāh gives His sovereignty to whom He wills. And Allāh is all-Encompassing [in favor] and Knowing."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبر نے ان سے (یہ بھی) کہا کہ خدا نے تم پر طالوت کو بادشاہ مقرر فرمایا ہے۔ وہ بولے کہ اسے ہم پر بادشاہی کا حق کیونکر ہوسکتا ہےبادشاہی کے مستحق تو ہم ہیں اور اس کے پاس تو بہت سی دولت بھی نہیں۔ پیغمبر نے کہا کہ خدا نےاس کو تم پر فضیلت دی ہے اور (بادشاہی کے لئے) منتخب فرمایا ہے اس نے اسے علم بھی بہت سا بخشا ہے اور تن و توش بھی (بڑا عطا کیا ہے) اور خدا (کو اختیار ہے) جسے چاہے بادشاہی بخشے۔ وہ بڑا کشائش والا اور دانا ہے
+**English (Yusuf Ali):** Their Prophet said to them: "Allah hath appointed Talut as king over you." They said: "How can he exercise authority over us when we are better fitted than he to exercise authority, and he is not even gifted, with wealth in abundance?" He said: "Allah hath Chosen him above you, and hath gifted him abundantly with knowledge and bodily prowess: Allah Granteth His authority to whom He pleaseth. Allah careth for all, and He knoweth all things."
 
 [Open on Quran.com](https://quran.com/2/247)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The example of those who spend their wealth in the way of Allāh is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains. And Allāh multiplies [His reward] for whom He wills. And Allāh is all-Encompassing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال خدا کی راہ میں خرچ کرتے ہیں ان (کے مال) کی مثال اس دانے کی سی ہے جس سے سات بالیں اگیں اور ہر ایک بال میں سو سو دانے ہوں اور خدا جس (کے مال) کو چاہتا ہے زیادہ کرتا ہے۔ وہ بڑی کشائش والا اور سب کچھ جاننے والا ہے
+**English (Yusuf Ali):** The parable of those who spend their substance in the way of Allah is that of a grain of corn: it groweth seven ears, and each ear Hath a hundred grains. Allah giveth manifold increase to whom He pleaseth: And Allah careth for all and He knoweth all things.
 
 [Open on Quran.com](https://quran.com/2/261)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who spend their wealth in the way of Allāh and then do not follow up what they have spent with reminders [of it] or [other] injury will have their reward with their Lord, and there will be no fear concerning them, nor will they grieve.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال خدا کے رستے میں صرف کرتے ہیں پھر اس کے بعد نہ اس خرچ کا (کسی پر) احسان رکھتے ہیں اور نہ (کسی کو) تکلیف دیتے ہیں۔ ان کا صلہ ان کے پروردگار کے پاس (تیار) ہے۔ اور (قیامت کے روز) نہ ان کو کچھ خوف ہوگا اور نہ وہ غمگین ہوں گے
+**English (Yusuf Ali):** Those who spend their substance in the cause of Allah, and follow not up their gifts with reminders of their generosity or with injury,-for them their reward is with their Lord: on them shall be no fear, nor shall they grieve.
 
 [Open on Quran.com](https://quran.com/2/262)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not invalidate your charities with reminders [of it] or injury as does one who spends his wealth [only] to be seen by the people and does not believe in Allāh and the Last Day. His example is like that of a [large] smooth stone upon which is dust and is hit by a downpour that leaves it bare. They are unable [to keep] anything of what they have earned. And Allāh does not guide the disbelieving people.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! اپنے صدقات (وخیرات)احسان رکھنے اور ایذا دینے سے اس شخص کی طرح برباد نہ کردینا۔ جو لوگوں کو دکھاوے کے لئے مال خرچ کرتا ہے اور خدا اور روز آخرت پر ایمان نہیں رکھتا۔ تو اس (کے مال) کی مثال اس چٹان کی سی ہے جس پر تھوڑی سی مٹی پڑی ہو اور اس پر زور کا مینہ برس کر اسے صاف کر ڈالے۔ (اسی طرح) یہ (ریاکار) لوگ اپنے اعمال کا کچھ بھی صلہ حاصل نہیں کرسکیں گے۔ اور خدا ایسے ناشکروں کو ہدایت نہیں دیا کرتا
+**English (Yusuf Ali):** O ye who believe! cancel not your charity by reminders of your generosity or by injury,- like those who spend their substance to be seen of men, but believe neither in Allah nor in the Last Day. They are in parable like a hard, barren rock, on which is a little soil: on it falls heavy rain, which leaves it (Just) a bare stone. They will be able to do nothing with aught they have earned. And Allah guideth not those who reject faith.
 
 [Open on Quran.com](https://quran.com/2/264)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the example of those who spend their wealth seeking means to the approval of Allāh and assuring [reward for] themselves is like a garden on high ground which is hit by a downpour - so it yields its fruits in double. And [even] if it is not hit by a downpour, then a drizzle [is sufficient]. And Allāh, of what you do, is Seeing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا کی خوشنودی حاصل کرنے کے لئے خلوص نیت سے اپنا مال خرچ کرتے ہیں ان کی مثال ایک باغ کی سی ہے جو اونچی جگہ پر واقع ہو(جب) اس پر مینہ پڑے تو دگنا پھل لائے۔ اور اگر مینہ نہ بھی پڑے تو خیر پھوار ہی سہی اور خدا تمہارے کاموں کو دیکھ رہا ہے
+**English (Yusuf Ali):** And the likeness of those who spend their substance, seeking to please Allah and to strengthen their souls, is as a garden, high and fertile: heavy rain falls on it but makes it yield a double increase of harvest, and if it receives not Heavy rain, light moisture sufficeth it. Allah seeth well whatever ye do.
 
 [Open on Quran.com](https://quran.com/2/265)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who spend their wealth [in Allāh's way] by night and by day, secretly and publicly - they will have their reward with their Lord. And no fear will there be concerning them, nor will they grieve.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال رات اور دن اور پوشیدہ اور ظاہر (راہ خدا میں) خرچ کرتے رہتے ہیں ان کا صلہ پروردگار کے پاس ہے اور ان کو (قیامت کے دن) نہ کسی طرح کا خوف ہوگا اور نہ غم
+**English (Yusuf Ali):** Those who (in charity) spend of their goods by night and by day, in secret and in public, have their reward with their Lord: on them shall be no fear, nor shall they grieve.
 
 [Open on Quran.com](https://quran.com/2/274)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you do not, then be informed of a war [against you] from Allāh and His Messenger. But if you repent, you may have your principal - [thus] you do no wrong, nor are you wronged.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر ایسا نہ کرو گے تو خبردار ہوجاؤ (کہ تم) خدا اور رسول سے جنگ کرنے کے لئے (تیار ہوتے ہو) اور اگر توبہ کرلو گے (اور سود چھوڑ دو گے) تو تم کو اپنی اصل رقم لینے کا حق ہے جس میں نہ اوروں کا نقصان اور تمہارا نقصان
+**English (Yusuf Ali):** If ye do it not, Take notice of war from Allah and His Messenger: But if ye turn back, ye shall have your capital sums: Deal not unjustly, and ye shall not be dealt with unjustly.
 
 [Open on Quran.com](https://quran.com/2/279)
 

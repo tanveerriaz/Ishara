@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:186 · [[007 Al-Araf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Whoever Allāh sends astray - there is no guide for him. And He leaves them in their transgression, wandering blindly.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس شخص کو خدا گمراہ کرے اس کو کوئی ہدایت دینے والا نہیں اور وہ ان (گمراہوں) کو چھوڑے رکھتا ہے کہ اپنی سرکشی میں پڑے بہکتے رہیں
+**English (Yusuf Ali):** To such as Allah rejects from His guidance, there can be no guide: He will leave them in their trespasses, wandering in distraction.
 
 [Open on Quran.com](https://quran.com/7/186)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus have We made for every prophet an enemy from among the criminals. But sufficient is your Lord as a guide and a helper.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے گنہگاروں میں سے ہر پیغمبر کا دشمن بنا دیا۔ اور تمہارا پروردگار ہدایت دینے اور مدد کرنے کو کافی ہے
+**English (Yusuf Ali):** Thus have We made for every prophet an enemy among the sinners: but enough is thy Lord to guide and to help.
 
 [Open on Quran.com](https://quran.com/25/31)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you cannot guide the blind away from their error. You will only make hear those who believe in Our verses so they are Muslims [i.e., submitting to Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور نہ اندھوں کو گمراہی سے (نکال کر) رستہ دیکھا سکتے ہو۔ تم ان ہی کو سنا سکتے ہو جو ہماری آیتوں پر ایمان لاتے ہیں اور وہ فرمانبردار ہو جاتے ہیں
+**English (Yusuf Ali):** Nor canst thou be a guide to the blind, (to prevent them) from straying: only those wilt thou get to listen who believe in Our Signs, and they will bow in Islam.
 
 [Open on Quran.com](https://quran.com/27/81)
 

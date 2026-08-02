@@ -25,10 +25,29 @@ export type GraphData = {
   meta: { nodeCount: number; linkCount: number; attribution: string }
 }
 
+export type NoteVerse = {
+  ref: string
+  surah: string
+  arabic: string
+  wordForm: string
+  gloss: string
+  sahihInternational: string
+  yusufAli: string
+  urdu?: string
+  url: string
+}
+
 export type NoteData = {
   id: string
   slug: string
   type: NodeType
   title: string
   html: string
+  meaning?: string
+  lemma?: string
+  root?: string
+  surahCount?: number
+  ayahCount?: number
+  surahs?: string[]
+  verses?: NoteVerse[]
 }

@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:137 · [[003 Ali Imran]]
 
@@ -48,7 +48,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Similar situations [as yours] have passed on before you, so proceed throughout the earth and observe how was the end of those who denied.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم لوگوں سے پہلے بھی بہت سے واقعات گزر چکے ہیں تو تم زمین کی سیر کرکے دیکھ لو کہ جھٹلانے والوں کا کیسا انجام ہوا
+**English (Yusuf Ali):** Many were the Ways of Life that have passed away before you: travel through the earth, and see what was the end of those who rejected Truth.
 
 [Open on Quran.com](https://quran.com/3/137)
 
@@ -64,7 +64,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Travel through the land; then observe how was the end of the deniers."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ (اے منکرین رسالت) ملک میں چلو پھرو پھر دیکھو کہ جھٹلانے والوں کا کیا انجام ہوا
+**English (Yusuf Ali):** Say: "Travel through the earth and see what was the end of those who rejected Truth."
 
 [Open on Quran.com](https://quran.com/6/11)
 
@@ -80,7 +80,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We certainly sent into every nation a messenger, [saying], "Worship Allāh and avoid ṭāghūt." And among them were those whom Allāh guided, and among them were those upon whom error was [deservedly] decreed. So proceed [i.e., travel] through the earth and observe how was the end of the deniers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ہر جماعت میں پیغمبر بھیجا کہ خدا ہی کی عبادت کرو اور بتوں (کی پرستش) سے اجتناب کرو۔ تو ان میں بعض ایسے ہیں جن کو خدا نے ہدایت دی اور بعض ایسے ہیں جن پر گمراہی ثابت ہوئی۔ سو زمین پر چل پھر کر دیکھ لو کہ جھٹلانے والوں کا انجام کیسا ہوا
+**English (Yusuf Ali):** For We assuredly sent amongst every People a messenger, (with the Command), "Serve Allah, and eschew Evil": of the People were some whom Allah guided, and some on whom error became inevitably (established). So travel through the earth, and see what was the end of those who denied (the Truth).
 
 [Open on Quran.com](https://quran.com/16/36)
 
@@ -96,7 +96,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We took retribution from them; then see how was the end of the deniers.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان سے انتقام لیا سو دیکھ لو کہ جھٹلانے والوں کا انجام کیسا ہوا
+**English (Yusuf Ali):** So We exacted retribution from them: now see what was the end of those who rejected (Truth)!
 
 [Open on Quran.com](https://quran.com/43/25)
 
@@ -112,7 +112,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then woe, that Day, to the deniers,
 
-**Urdu (Fatah Muhammad Jalandhari):** اس دن جھٹلانے والوں کے لئے خرابی ہے
+**English (Yusuf Ali):** Then woe that Day to those that treat (Truth) as Falsehood;-
 
 [Open on Quran.com](https://quran.com/52/11)
 
@@ -128,7 +128,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then indeed you, O those astray [who are] deniers,
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر تم اے جھٹلانے والے گمرا ہو!
+**English (Yusuf Ali):** "Then will ye truly,- O ye that go wrong, and treat (Truth) as Falsehood!-
 
 [Open on Quran.com](https://quran.com/56/51)
 
@@ -144,7 +144,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if he was of the deniers [who were] astray,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر وہ جھٹلانے والے گمراہوں میں سے ہے
+**English (Yusuf Ali):** And if he be of those who treat (Truth) as Falsehood, who go wrong,
 
 [Open on Quran.com](https://quran.com/56/92)
 
@@ -160,7 +160,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then do not obey the deniers.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو تم جھٹلانے والوں کا کہا نہ ماننا
+**English (Yusuf Ali):** So hearken not to those who deny (the Truth).
 
 [Open on Quran.com](https://quran.com/68/8)
 
@@ -176,7 +176,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, We know that among you are deniers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم جانتے ہیں کہ تم میں سے بعض اس کو جھٹلانے والے ہیں
+**English (Yusuf Ali):** And We certainly know that there are amongst you those that reject (it).
 
 [Open on Quran.com](https://quran.com/69/49)
 
@@ -192,7 +192,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And leave Me with [the matter of] the deniers, those of ease [in life], and allow them respite a little.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مجھے ان جھٹلانے والوں سے جو دولتمند ہیں سمجھ لینے دو اور ان کو تھوڑی سی مہلت دے دو
+**English (Yusuf Ali):** And leave Me (alone to deal with) those in possession of the good things of life, who (yet) deny the Truth; and bear with them for a little while.
 
 [Open on Quran.com](https://quran.com/73/11)
 

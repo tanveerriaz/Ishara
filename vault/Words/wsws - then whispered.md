@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:20 · [[007 Al-Araf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, "Your Lord did not forbid you this tree except that you become angels or become of the immortal."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو شیطان دونوں کو بہکانے لگا تاکہ ان کی ستر کی چیزیں جو ان سے پوشیدہ تھیں کھول دے اور کہنے لگا کہ تم کو تمہارے پروردگار نے اس درخت سے صرف اس لیے منع کیا ہے کہ کہ تم فرشتے نہ بن جاؤ یا ہمیشہ جیتے نہ رہو
+**English (Yusuf Ali):** Then began Satan to whisper suggestions to them, bringing openly before their minds all their shame that was hidden from them (before): he said: "Your Lord only forbade you this tree, lest ye should become angels or such beings as live for ever."
 
 [Open on Quran.com](https://quran.com/7/20)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then Satan whispered to him; he said, "O Adam, shall I direct you to the tree of eternity and possession that will not deteriorate?"
 
-**Urdu (Fatah Muhammad Jalandhari):** تو شیطان نے ان کے دل میں وسوسہ ڈالا۔ (اور) کہا کہ آدم بھلا میں تم کو (ایسا) درخت بتاؤں (جو) ہمیشہ کی زندگی کا (ثمرہ دے) اور (ایسی) بادشاہت کہ کبھی زائل نہ ہو
+**English (Yusuf Ali):** But Satan whispered evil to him: he said, "O Adam! shall I lead thee to the Tree of Eternity and to a kingdom that never decays?"
 
 [Open on Quran.com](https://quran.com/20/120)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہی نے انسان کو پیدا کیا ہے اور جو خیالات اس کے دل میں گزرتے ہیں ہم ان کو جانتے ہیں۔ اور ہم اس کی رگ جان سے بھی اس سے زیادہ قریب ہیں
+**English (Yusuf Ali):** It was We Who created man, and We know what dark suggestions his soul makes to him: for We are nearer to him than (his) jugular vein.
 
 [Open on Quran.com](https://quran.com/50/16)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who whispers [evil] into the breasts of mankind -
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگوں کے دلوں میں وسوسے ڈالتا ہے
+**English (Yusuf Ali):** (The same) who whispers into the hearts of Mankind,-
 
 [Open on Quran.com](https://quran.com/114/5)
 

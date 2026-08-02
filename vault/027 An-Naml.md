@@ -14,31 +14,31 @@ The Ant · 93 ayahs
 
 ## Words in this surah (graph)
 
-- [[>*lp - weak]] — `أَذِلَّة` · weak
-- [[jnd - hosts]] — `جُند` · hosts
-- [[wqE - became incumbent]] — `وَقَعَ` · became incumbent
-- [[mdbr - fleeing]] — `مُدْبِر` · fleeing
-- [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[ywqn - certain]] — `يُوقِنُ` · certain
-- [[fzE - terror]] — `فَزَع` · terror
 - [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
-- [[brhAn - proof]] — `بُرْهان` · proof
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[>*lp - weak]] — `أَذِلَّة` · weak
+- [[wqE - became incumbent]] — `وَقَعَ` · became incumbent
+- [[ywqn - certain]] — `يُوقِنُ` · certain
+- [[jnd - hosts]] — `جُند` · hosts
+- [[fzE - terror]] — `فَزَع` · terror
+- [[>Eln - they declare]] — `أَعْلَن` · they declare
+- [[mdbr - fleeing]] — `مُدْبِر` · fleeing
+- [[Hsn - good]] — `حُسْن` · good
 - [[dEA - call]] — `دَعا` · call
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[qryp - town]] — `قَرْيَة` · town
-- [[>xfy - you conceal]] — `أُخْفِيَ` · you conceal
-- [[bldp - land]] — `بَلْدَة` · land
+- [[nAr - fire]] — `نار` · fire
+- [[lyl - night]] — `لَيْل` · night
+- [[ESA - staff]] — `عَصا` · staff
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[yqyn - certainty]] — `يَقِين` · certainty
 - [[Dl - lost]] — `ضَلَّ` · lost
-- [[bd> - originates]] — `بَدَأَ` · originates
-- [[gny - free need]] — `غَنِيّ` · free need
-- [[sbHAn - glory]] — `سُبْحان` · glory
-- [[tsE - nine]] — `تِسْع` · nine
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[sHAb - clouds]] — `سَحاب` · clouds
-- [[dAbp - moving creature]] — `دابَّة` · moving creature
-- [[Edl - justice]] — `عَدْل` · justice
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[Eml - do]] — `عَمِلَ` · do
+- [[>mr - command]] — `أَمَرَ` · command
+- [[wly - protector]] — `وَلِيّ` · protector
+- [[byt - houses]] — `بَيْت` · houses
+- [[lqY - it granted]] — `لَقَّى` · it granted
+- [[mA' - water]] — `ماء` · water
+- [[Amn - believe]] — `آمَنَ` · believe
 
 ## Roots
 

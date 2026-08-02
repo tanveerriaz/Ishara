@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 56:34 · [[056 Al-Waqiah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [upon] beds raised high.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اونچے اونچے فرشوں میں
+**English (Yusuf Ali):** And on Thrones (of Dignity), raised high.
 
 [Open on Quran.com](https://quran.com/56/34)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Exalted and purified,
 
-**Urdu (Fatah Muhammad Jalandhari):** جو بلند مقام پر رکھے ہوئے (اور) پاک ہیں
+**English (Yusuf Ali):** Exalted (in dignity), kept pure and holy,
 
 [Open on Quran.com](https://quran.com/80/14)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Within it are couches raised high
 
-**Urdu (Fatah Muhammad Jalandhari):** وہاں تخت ہوں گے اونچے بچھے ہوئے
+**English (Yusuf Ali):** Therein will be Thrones (of dignity), raised on high,
 
 [Open on Quran.com](https://quran.com/88/13)
 

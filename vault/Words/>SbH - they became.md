@@ -40,7 +40,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:103 · [[003 Ali Imran]]
 
@@ -54,7 +54,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And hold firmly to the rope of Allāh all together and do not become divided. And remember the favor of Allāh upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allāh make clear to you His verses that you may be guided.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور سب مل کر خدا کی (ہدایت کی رسی) کو مضبوط پکڑے رہنا اور متفرق نہ ہونا اور خدا کی اس مہربانی کو یاد کرو جب تم ایک دوسرے کے دشمن تھے تو اس نے تمہارے دلوں میں الفت ڈال دی اور تم اس کی مہربانی سے بھائی بھائی ہوگئے اور تم آگ کے گڑھے کے کنارے تک پہنچ چکے تھے تو خدا نے تم کو اس سے بچا لیا اس طرح خدا تم کو اپنی آیتیں کھول کھول کر سناتا ہے تاکہ تم ہدایت پاؤ
+**English (Yusuf Ali):** And hold fast, all together, by the rope which Allah (stretches out for you), and be not divided among yourselves; and remember with gratitude Allah's favour on you; for ye were enemies and He joined your hearts in love, so that by His Grace, ye became brethren; and ye were on the brink of the pit of Fire, and He saved you from it. Thus doth Allah make His Signs clear to you: That ye may be guided.
 
 [Open on Quran.com](https://quran.com/3/103)
 
@@ -70,7 +70,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And his soul permitted to him the murder of his brother, so he killed him and became among the losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر اس کے نفس نے اس کو بھائی کے قتل ہی کی ترغیب دی تو اس نے اسے قتل کر دیا اور خسارہ اٹھانے والوں میں ہو گیا
+**English (Yusuf Ali):** The (selfish) soul of the other led him to the murder of his brother: he murdered him, and became (himself) one of the lost ones.
 
 [Open on Quran.com](https://quran.com/5/30)
 
@@ -86,7 +86,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then Allāh sent a crow searching [i.e., scratching] in the ground to show him how to hide the disgrace of his brother. He said, "O woe to me! Have I failed to be like this crow and hide the disgrace [i.e., body] of my brother?" And he became of the regretful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اب خدا نے ایک کوّا بھیجا جو زمین کریدنے لگا تاکہ اسے دکھائے کہ اپنے بھائی کی لاش کو کیونکر چھپائے کہنے لگا اے ہے مجھ سے اتنا بھی نہ ہو سکا کہ اس کوے کے برابر ہوتا کہ اپنے بھائی کی لاش چھپا دیتا پھر وہ پشیمان ہوا
+**English (Yusuf Ali):** Then Allah sent a raven, who scratched the ground, to show him how to hide the shame of his brother. "Woe is me!" said he; "Was I not even able to be as this raven, and to hide the shame of my brother?" then he became full of regrets-
 
 [Open on Quran.com](https://quran.com/5/31)
 
@@ -102,7 +102,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So you see those in whose hearts is disease [i.e., hypocrisy] hastening into [association with] them, saying, "We are afraid a misfortune may strike us." But perhaps Allāh will bring conquest or a decision from Him, and they will become, over what they have been concealing within themselves, regretful.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جن لوگوں کے دلوں میں (نفاق کا) مرض ہے تم ان کو دیکھو گے کہ ان میں دوڑ دوڑ کے ملے جاتے ہیں کہتے ہیں کہ ہمیں خوف ہے کہ کہیں ہم پر زمانے کی گردش نہ آجائے سو قریب ہے کہ خدا فتح بھیجے یا اپنے ہاں سے کوئی اور امر (نازل فرمائے) پھر یہ اپنے دل کی باتوں پر جو چھپایا کرتے تھے پشیمان ہو کر رہ جائیں گے
+**English (Yusuf Ali):** Those in whose hearts is a disease - thou seest how eagerly they run about amongst them, saying: "We do fear lest a change of fortune bring us disaster." Ah! perhaps Allah will give (thee) victory, or a decision according to His will. Then will they repent of the thoughts which they secretly harboured in their hearts.
 
 [Open on Quran.com](https://quran.com/5/52)
 
@@ -118,7 +118,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who believe will say, "Are these the ones who swore by Allāh their strongest oaths that indeed they were with you?" Their deeds have become worthless, and they have become losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس (وقت) مسلمان (تعجب سے) کہیں گے کہ کیا یہ وہی ہیں جو خدا کی سخت سخت قسمیں کھایا کرتے تھے کہ ہم تمہارے ساتھ ہیں ان کےعمل اکارت گئے اور وہ خسارے میں پڑ گئے
+**English (Yusuf Ali):** And those who believe will say: "Are these the men who swore their strongest oaths by Allah, that they were with you?" All that they do will be in vain, and they will fall into (nothing but) ruin.
 
 [Open on Quran.com](https://quran.com/5/53)
 
@@ -134,7 +134,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** A people asked such [questions] before you; then they became thereby disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس طرح کی باتیں تم سے پہلے لوگوں نے بھی پوچھی تھیں (مگر جب بتائی گئیں تو) پھر ان سے منکر ہو گئے
+**English (Yusuf Ali):** Some people before you did ask such questions, and on that account lost their faith.
 
 [Open on Quran.com](https://quran.com/5/102)
 
@@ -150,7 +150,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So the earthquake seized them, and they became within their home [corpses] fallen prone.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان کو بھونچال نے آ پکڑا اور وہ اپنے گھروں میں اوندھے پڑے رہ گئے
+**English (Yusuf Ali):** So the earthquake took them unawares, and they lay prostrate in their homes in the morning!
 
 [Open on Quran.com](https://quran.com/7/78)
 
@@ -166,7 +166,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So the earthquake seized them, and they became within their home [corpses] fallen prone.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان کو بھونچال نے آپکڑا اور وہ اپنے گھروں میں اوندھے پڑے رہ گئے
+**English (Yusuf Ali):** But the earthquake took them unawares, and they lay prostrate in their homes before the morning!
 
 [Open on Quran.com](https://quran.com/7/91)
 
@@ -182,7 +182,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے ظلم کیا تھا ان کو چنگھاڑ (کی صورت میں عذاب) نے آپکڑا تو وہ اپنے گھروں میں اوندھے پڑے رہ گئے
+**English (Yusuf Ali):** The (mighty) Blast overtook the wrong-doers, and they lay prostrate in their homes before the morning,-
 
 [Open on Quran.com](https://quran.com/11/67)
 
@@ -198,7 +198,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when Our command came, We saved Shuʿayb and those who believed with him, by mercy from Us. And the shriek seized those who had wronged, and they became within their homes [corpses] fallen prone
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہمارا حکم آپہنچا تو ہم نے شعیب کو اور جو لوگ ان کے ساتھ ایمان لائے تھے ان کو تو اپنی رحمت سے بچا لیا۔ اور جو لوگ ظالم تھے، ان کو چنگھاڑ نے آدبوچا تو وہ اپنے گھروں میں اوندھے پڑے رہ گئے
+**English (Yusuf Ali):** When Our decree issued, We saved Shu'aib and those who believed with him, by (special) mercy from Ourselves: But the (mighty) blast did seize the wrong-doers, and they lay prostrate in their homes by the morning,-
 
 [Open on Quran.com](https://quran.com/11/94)
 

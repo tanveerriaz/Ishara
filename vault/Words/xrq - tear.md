@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:100 · [[006 Al-Anam]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But they have attributed to Allāh partners - the jinn, while He has created them - and have fabricated for Him sons and daughters without knowledge. Exalted is He and high above what they describe.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے جنوں کو خدا کا شریک ٹھہرایا۔ حالانکہ ان کو اسی نے پیدا کیا اور بےسمجھے (جھوٹ بہتان) اس کے لئے بیٹے اور بیٹیاں بنا کھڑی کیں وہ ان باتوں سے جو اس کی نسبت بیان کرتے ہیں پاک ہے اور (اس کی شان ان سے) بلند ہے
+**English (Yusuf Ali):** Yet they make the Jinns equals with Allah, though Allah did create the Jinns; and they falsely, having no knowledge, attribute to Him sons and daughters. Praise and glory be to Him! (for He is) above what they attribute to Him!
 
 [Open on Quran.com](https://quran.com/6/100)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not walk upon the earth exultantly. Indeed, you will never tear the earth [apart], and you will never reach the mountains in height.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور زمین پر اکڑ کر (اور تن کر) مت چل کہ تو زمین کو پھاڑ تو نہیں ڈالے گا اور نہ لمبا ہو کر پہاڑوں (کی چوٹی) تک پہنچ جائے گا
+**English (Yusuf Ali):** Nor walk on the earth with insolence: for thou canst not rend the earth asunder, nor reach the mountains in height.
 
 [Open on Quran.com](https://quran.com/17/37)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So they set out, until when they had embarked on the ship, he [i.e., al-Khiḍr] tore it open. [Moses] said, "Have you torn it open to drown its people? You have certainly done a grave thing."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو دونوں چل پڑے۔ یہاں تک کہ جب کشتی میں سوار ہوئے تو (خضر نے) کشتی کو پھاڑ ڈالا۔ (موسیٰ نے) کہا کیا آپ نے اس لئے پھاڑا ہے کہ سواروں کو غرق کردیں یہ تو آپ نے بڑی (عجیب) بات کی
+**English (Yusuf Ali):** So they both proceeded: until, when they were in the boat, he scuttled it. Said Moses: "Hast thou scuttled it in order to drown those in it? Truly a strange thing hast thou done!"
 
 [Open on Quran.com](https://quran.com/18/71)
 

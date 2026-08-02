@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 24:31 · [[024 An-Nur]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And tell the believing women to reduce [some] of their vision and guard their private parts and not expose their adornment except that which [necessarily] appears thereof and to wrap [a portion of] their headcovers over their chests and not expose their adornment [i.e., beauty] except to their husbands, their fathers, their husbands' fathers, their sons, their husbands' sons, their brothers, their brothers' sons, their sisters' sons, their women, that which their right hands possess [i.e., slaves], or those male attendants having no physical desire, or children who are not yet aware of the private aspects of women. And let them not stamp their feet to make known what they conceal of their adornment. And turn to Allāh in repentance, all of you, O believers, that you might succeed.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مومن عورتوں سے بھی کہہ دو کہ وہ بھی اپنی نگاہیں نیچی رکھا کریں اور اپنی شرم گاہوں کی حفاظت کیا کریں اور اپنی آرائش (یعنی زیور کے مقامات) کو ظاہر نہ ہونے دیا کریں مگر جو ان میں سے کھلا رہتا ہو۔ اور اپنے سینوں پر اوڑھنیاں اوڑھے رہا کریں اور اپنے خاوند اور باپ اور خسر اور بیٹیوں اور خاوند کے بیٹوں اور بھائیوں اور بھتیجیوں اور بھانجوں اور اپنی (ہی قسم کی) عورتوں اور لونڈی غلاموں کے سوا نیز ان خدام کے جو عورتوں کی خواہش نہ رکھیں یا ایسے لڑکوں کے جو عورتوں کے پردے کی چیزوں سے واقف نہ ہوں (غرض ان لوگوں کے سوا) کسی پر اپنی زینت (اور سنگار کے مقامات) کو ظاہر نہ ہونے دیں۔ اور اپنے پاؤں (ایسے طور سے زمین پر) نہ ماریں (کہ جھنکار کانوں میں پہنچے اور) ان کا پوشیدہ زیور معلوم ہوجائے۔ اور مومنو! سب خدا کے آگے توبہ کرو تاکہ فلاح پاؤ
+**English (Yusuf Ali):** And say to the believing women that they should lower their gaze and guard their modesty; that they should not display their beauty and ornaments except what (must ordinarily) appear thereof; that they should draw their veils over their bosoms and not display their beauty except to their husbands, their fathers, their husband's fathers, their sons, their husbands' sons, their brothers or their brothers' sons, or their sisters' sons, or their women, or the slaves whom their right hands possess, or male servants free of physical needs, or small children who have no sense of the shame of sex; and that they should not strike their feet in order to draw attention to their hidden ornaments. And O ye Believers! turn ye all together towards Allah, that ye may attain Bliss.
 
 [Open on Quran.com](https://quran.com/24/31)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And put your hand into the opening of your garment [at the breast]; it will come out white without disease. [These are] among the nine signs [you will take] to Pharaoh and his people. Indeed, they have been a people defiantly disobedient."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ اپنے گریبان میں ڈالو سفید نکلے گا۔ (ان دو معجزوں کے ساتھ جو) نو معجزوں میں (داخل ہیں) فرعون اور اس کی قوم کے پاس جاؤ کہ وہ بےحکم لوگ ہیں
+**English (Yusuf Ali):** "Now put thy hand into thy bosom, and it will come forth white without stain (or harm): (these are) among the nine Signs (thou wilt take) to Pharaoh and his people: for they are a people rebellious in transgression."
 
 [Open on Quran.com](https://quran.com/27/12)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Insert your hand into the opening of your garment; it will come out white, without disease. And draw in your arm close to you [as prevention] from fear, for those are two proofs from your Lord to Pharaoh and his establishment. Indeed, they have been a people defiantly disobedient."
 
-**Urdu (Fatah Muhammad Jalandhari):** اپنا ہاتھ گریبان میں ڈالو تو بغیر کسی عیب کے سفید نکل آئے گا اور خوف دور ہونے (کی وجہ) سے اپنے بازو کو اپنی طرف سیکڑلو۔ یہ دو دلیلیں تمہارے پروردگار کی طرف سے ہیں (ان کے ساتھ) فرعون اور اس کے درباریوں کے پاس جاؤ کہ وہ نافرمان لوگ ہیں
+**English (Yusuf Ali):** "Move thy hand into thy bosom, and it will come forth white without stain (or harm), and draw thy hand close to thy side (to guard) against fear. Those are the two credentials from thy Lord to Pharaoh and his Chiefs: for truly they are a people rebellious and wicked."
 
 [Open on Quran.com](https://quran.com/28/32)
 

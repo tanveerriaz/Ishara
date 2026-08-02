@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 16:60 · [[016 An-Nahl]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** For those who do not believe in the Hereafter is the description [i.e., an attribute] of evil; and for Allāh is the highest attribute. And He is Exalted in Might, the Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ آخرت پر ایمان نہیں رکھتے ان ہی کے لیے بری باتیں (شایان) ہیں۔ اور خدا کو صفت اعلیٰ (زیب دیتی ہے) اور وہ غالب حکمت والا ہے
+**English (Yusuf Ali):** To those who believe not in the Hereafter, applies the similitude of evil: to Allah applies the highest similitude: for He is the Exalted in Power, full of Wisdom.
 
 [Open on Quran.com](https://quran.com/16/60)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** We [i.e., Allāh] said, "Fear not. Indeed, it is you who are superior.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم نے کہا خوف نہ کرو بلاشبہ تم ہی غالب ہو
+**English (Yusuf Ali):** We said: "Fear not! for thou hast indeed the upper hand:
 
 [Open on Quran.com](https://quran.com/20/68)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who begins creation; then He repeats it, and that is [even] easier for Him. To Him belongs the highest description [i.e., attribute] in the heavens and earth. And He is the Exalted in Might, the Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو خلقت کو پہلی دفعہ پیدا کرتا ہے پھر اُسے دوبارہ پیدا کرے گا۔ اور یہ اس کو بہت آسان ہے۔ اور آسمانوں اور زمین میں اس کی شان بہت بلند ہے۔ اور وہ غالب حکمت والا ہے
+**English (Yusuf Ali):** It is He Who begins (the process of) creation; then repeats it; and for Him it is most easy. To Him belongs the loftiest similitude (we can think of) in the heavens and the earth: for He is Exalted in Might, full of wisdom.
 
 [Open on Quran.com](https://quran.com/30/27)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [So] they may not listen to the exalted assembly [of angels] and are pelted from every side,
 
-**Urdu (Fatah Muhammad Jalandhari):** کہ اوپر کی مجلس کی طرف کان نہ لگاسکیں اور ہر طرف سے (ان پر انگارے) پھینکے جاتے ہیں
+**English (Yusuf Ali):** (So) they should not strain their ears in the direction of the Exalted Assembly but be cast away from every side,
 
 [Open on Quran.com](https://quran.com/37/8)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** I had no knowledge of the exalted assembly [of angels] when they were disputing [the creation of Adam].
 
-**Urdu (Fatah Muhammad Jalandhari):** مجھ کو اوپر کی مجلس (والوں) کا جب وہ جھگڑتے تھے کچھ بھی علم نہ تھا
+**English (Yusuf Ali):** "No knowledge have I of the Chiefs on high, when they discuss (matters) among themselves.
 
 [Open on Quran.com](https://quran.com/38/69)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** While he was in the higher [part of the] horizon.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ (آسمان کے) اونچے کنارے میں تھے
+**English (Yusuf Ali):** While he was in the highest part of the horizon:
 
 [Open on Quran.com](https://quran.com/53/7)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And said, "I am your most exalted lord."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہنے لگا کہ تمہارا سب سے بڑا مالک میں ہوں
+**English (Yusuf Ali):** Saying, "I am your Lord, Most High".
 
 [Open on Quran.com](https://quran.com/79/24)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Exalt the name of your Lord, the Most High,
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) اپنے پروردگار جلیل الشان کے نام کی تسبیح کرو
+**English (Yusuf Ali):** Glorify the name of thy Guardian-Lord Most High,
 
 [Open on Quran.com](https://quran.com/87/1)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But only seeking the face [i.e., acceptance] of his Lord, Most High.
 
-**Urdu (Fatah Muhammad Jalandhari):** بلکہ اپنے خداوند اعلیٰ کی رضامندی حاصل کرنے کے لیے دیتا ہے
+**English (Yusuf Ali):** But only the desire to seek for the Countenance of their Lord Most High;
 
 [Open on Quran.com](https://quran.com/92/20)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 10:87 · [[010 Yunus]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We inspired to Moses and his brother, "Settle your people in Egypt in houses and make your houses [facing the] qiblah and establish prayer and give good tidings to the believers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ اور اس کے بھائی کی طرف وحی بھیجی کہ اپنے لوگوں کے لیے مصر میں گھر بناؤ اور اپنے گھروں کو قبلہ (یعنی مسجدیں) ٹھہراؤ اور نماز پڑھو۔ اور مومنوں کو خوشخبری سنادو
+**English (Yusuf Ali):** We inspired Moses and his brother with this Message: "Provide dwellings for your people in Egypt, make your dwellings into places of worship, and establish regular prayers: and give glad tidings to those who believe!"
 
 [Open on Quran.com](https://quran.com/10/87)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus We established Joseph in the land to settle therein wherever he willed. We touch with Our mercy whom We will, and We do not allow to be lost the reward of those who do good.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس طرح ہم نے یوسف کو ملک (مصر) میں جگہ دی اور وہ اس ملک میں جہاں چاہتے تھے رہتے تھے۔ ہم اپنی رحمت جس پر چاہتے ہیں کرتے ہیں اور نیکوکاروں کے اجر کو ضائع نہیں کرتے
+**English (Yusuf Ali):** Thus did We give established power to Joseph in the land, to take possession therein as, when, or where he pleased. We bestow of our Mercy on whom We please, and We suffer not, to be lost, the reward of those who do good.
 
 [Open on Quran.com](https://quran.com/12/56)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will say, "Praise to Allāh, who has fulfilled for us His promise and made us inherit the earth [so] we may settle in Paradise wherever we will. And excellent is the reward of [righteous] workers."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ کہیں گے کہ خدا کا شکر ہے جس نے اپنے وعدہ کو ہم سے سچا کردیا اور ہم کو اس زمین کا وارث بنا دیا ہم بہشت میں جس مکان میں چاہیں رہیں تو (اچھے) عمل کرنے والوں کا بدلہ بھی کیسا خوب ہے
+**English (Yusuf Ali):** They will say: "Praise be to Allah, Who has truly fulfilled His Promise to us, and has given us (this) land in heritage: We can dwell in the Garden as we will: how excellent a reward for those who work (righteousness)!"
 
 [Open on Quran.com](https://quran.com/39/74)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [also for] those who were settled in the Home [i.e.,al-Madīnah] and [adopted] the faith before them. They love those who emigrated to them and find not any want in their breasts of what they [i.e., the emigrants] were given but give [them] preference over themselves, even though they are in privation. And whoever is protected from the stinginess of his soul - it is those who will be the successful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (ان لوگوں کے لئے بھی) جو مہاجرین سے پہلے (ہجرت کے) گھر (یعنی مدینے) میں مقیم اور ایمان میں (مستقل) رہے (اور) جو لوگ ہجرت کرکے ان کے پاس آتے ہیں ان سے محبت کرتے ہیں اور جو کچھ ان کو ملا اس سے اپنے دل میں کچھ خواہش (اور خلش) نہیں پاتے اور ان کو اپنی جانوں سے مقدم رکھتے ہیں خواہ ان کو خود احتیاج ہی ہو۔ اور جو شخص حرص نفس سے بچا لیا گیا تو ایسے لوگ مراد پانے والے ہیں
+**English (Yusuf Ali):** But those who before them, had homes (in Medina) and had adopted the Faith,- show their affection to such as came to them for refuge, and entertain no desire in their hearts for things given to the (latter), but give them preference over themselves, even though poverty was their (own lot). And those saved from the covetousness of their own souls,- they are the ones that achieve prosperity.
 
 [Open on Quran.com](https://quran.com/59/9)
 

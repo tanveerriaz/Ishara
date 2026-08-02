@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:24 · [[002 Al-Baqarah]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if you do not - and you will never be able to - then fear the Fire, whose fuel is people and stones, prepared for the disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** لیکن اگر (ایسا) نہ کر سکو اور ہرگز نہیں کر سکو گے تو اس آگ سے ڈرو جس کا ایندھن آدمی اور پتھر ہوں گے (اور جو) کافروں کے لیے تیار کی گئی ہے
+**English (Yusuf Ali):** But if ye cannot- and of a surety ye cannot- then fear the Fire whose fuel is men and stones,- which is prepared for those who reject Faith.
 
 [Open on Quran.com](https://quran.com/2/24)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then your hearts became hardened after that, being like stones or even harder. For indeed, there are stones from which rivers burst forth, and there are some of them that split open and water comes out, and there are some of them that fall down for fear of Allāh. And Allāh is not unaware of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اس کے بعد تمہارے دل سخت ہو گئے۔ گویا وہ پتھر ہیں یا ان سے بھی زیادہ سخت۔ اور پتھر تو بعضے ایسے ہوتے ہیں کہ ان میں سے چشمے پھوٹ نکلتے ہیں، اور بعضے ایسے ہوتے ہیں کہ پھٹ جاتے ہیں،اور ان میں سے پانی نکلنے لگتا ہے، اور بعضے ایسے ہوتے ہیں کہ خدا کے خوف سے گر پڑتے ہیں، اور خدا تمہارے عملوں سے بے خبر نہیں
+**English (Yusuf Ali):** Thenceforth were your hearts hardened: They became like a rock and even worse in hardness. For among rocks there are some from which rivers gush forth; others there are which when split asunder send forth water; and others which sink for fear of Allah. And Allah is not unmindful of what ye do.
 
 [Open on Quran.com](https://quran.com/2/74)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [remember] when they said, "O Allāh, if this should be the truth from You, then rain down upon us stones from the sky or bring us a painful punishment."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب انہوں نے کہا کہ اے خدا اگر یہ (قرآن) تیری طرف سے برحق ہے تو ہم پر آسمان سے پتھر برسا یا کوئی اور تکلیف دینے والا عذاب بھیج
+**English (Yusuf Ali):** Remember how they said: "O Allah if this is indeed the Truth from Thee, rain down on us a shower of stones form the sky, or send us a grievous penalty."
 
 [Open on Quran.com](https://quran.com/8/32)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were]
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جب ہمارا حکم آیا ہم نے اس (بستی) کو (اُلٹ کر) نیچے اوپر کردیا اور ان پر پتھر کی تہہ بہ تہہ (یعنی پےدرپے) کنکریاں برسائیں
+**English (Yusuf Ali):** When Our Decree issued, We turned (the cities) upside down, and rained down on them brimstones hard as baked clay, spread, layer on layer,-
 
 [Open on Quran.com](https://quran.com/11/82)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We made the highest part [of the city] its lowest and rained upon them stones of hard clay.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس شہر کو (الٹ کر) نیچے اوپر کردیا۔ اور ان پر کھنگر کی پتھریاں برسائیں
+**English (Yusuf Ali):** And We turned (the cities) upside down, and rained down on them brimstones hard as baked clay.
 
 [Open on Quran.com](https://quran.com/15/74)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Be you stones or iron
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ (خواہ تم) پتھر ہوجاؤ یا لوہا
+**English (Yusuf Ali):** Say: "(Nay!) be ye stones or iron,
 
 [Open on Quran.com](https://quran.com/17/50)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** To send down upon them stones of clay,
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ ان پر کھنگر برسائیں
+**English (Yusuf Ali):** "To bring on, on them, (a shower of) stones of clay (brimstone),
 
 [Open on Quran.com](https://quran.com/51/33)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones, over which are [appointed] angels, harsh and severe; they do not disobey Allāh in what He commands them but do what they are commanded.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! اپنے آپ کو اور اپنے اہل عیال کو آتش (جہنم) سے بچاؤ جس کا ایندھن آدمی اور پتھر ہیں اور جس پر تند خو اور سخت مزاج فرشتے (مقرر) ہیں جو ارشاد خدا ان کو فرماتا ہے اس کی نافرمانی نہیں کرتے اور جو حکم ان کو ملتا ہے اسے بجا لاتے ہیں
+**English (Yusuf Ali):** O ye who believe! save yourselves and your families from a Fire whose fuel is Men and Stones, over which are (appointed) angels stern (and) severe, who flinch not (from executing) the Commands they receive from Allah, but do (precisely) what they are commanded.
 
 [Open on Quran.com](https://quran.com/66/6)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Striking them with stones of hard clay,
 
-**Urdu (Fatah Muhammad Jalandhari):** جو ان پر کھنگر کی پتھریاں پھینکتے تھے
+**English (Yusuf Ali):** Striking them with stones of baked clay.
 
 [Open on Quran.com](https://quran.com/105/4)
 

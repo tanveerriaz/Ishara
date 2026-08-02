@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 16:96 · [[016 An-Nahl]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Whatever you have will end, but what Allāh has is lasting. And We will surely give those who were patient their reward according to the best of what they used to do.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو کچھ تمہارے پاس ہے وہ ختم ہو جاتا ہے اور جو خدا کے پاس ہے وہ باقی ہے کہ (کبھی ختم نہیں ہوگا) اور جن لوگوں نے صبر کیا ہم اُن کو ان کے اعمال کا بہت اچھا بدلہ دیں گے
+**English (Yusuf Ali):** What is with you must vanish: what is with Allah will endure. And We will certainly bestow, on those who patiently persevere, their reward according to the best of their actions.
 
 [Open on Quran.com](https://quran.com/16/96)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "If the sea were ink for [writing] the words of my Lord, the sea would be exhausted before the words of my Lord were exhausted, even if We brought the like of it in [continual] supplement."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر سمندر میرے پروردگار کی باتوں کے (لکھنے کے) لئے سیاہی ہو تو قبل اس کے کہ میرے پروردگار کی باتیں تمام ہوں سمندر ختم ہوجائے اگرچہ ہم ویسا ہی اور (سمندر) اس کی مدد کو لائیں
+**English (Yusuf Ali):** Say: "If the ocean were ink (wherewith to write out) the words of my Lord, sooner would the ocean be exhausted than would the words of my Lord, even if we added another ocean like it, for its aid."
 
 [Open on Quran.com](https://quran.com/18/109)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if whatever trees upon the earth were pens and the sea [was ink], replenished thereafter by seven [more] seas, the words of Allāh would not be exhausted. Indeed, Allāh is Exalted in Might and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر یوں ہو کہ زمین میں جتنے درخت ہیں (سب کے سب) قلم ہوں اور سمندر (کا تمام پانی) سیاہی ہو (اور) اس کے بعد سات سمندر اور (سیاہی ہو جائیں) تو خدا کی باتیں (یعنی اس کی صفتیں) ختم نہ ہوں۔ بیشک خدا غالب حکمت والا ہے
+**English (Yusuf Ali):** And if all the trees on earth were pens and the ocean (were ink), with seven oceans behind it to add to its (supply), yet would not the words of Allah be exhausted (in the writing): for Allah is Exalted in Power, full of Wisdom.
 
 [Open on Quran.com](https://quran.com/31/27)
 

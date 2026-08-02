@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:77 · [[004 An-Nisa]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have you not seen those who were told, "Restrain your hands [from fighting] and establish prayer and give zakāh"? But then when battle was ordained for them, at once a party of them feared men as they fear Allāh or with [even] greater fear. They said, "Our Lord, why have You decreed upon us fighting? If only You had postponed [it for] us for a short time." Say, "The enjoyment of this world is little, and the Hereafter is better for he who fears Allāh. And injustice will not be done to you, [even] as much as a thread [inside a date seed]."
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جن کو (پہلے یہ) حکم دیا گیا تھا کہ اپنے ہاتھوں کو (جنگ سے) روکے رہو اور نماز پڑھتے رہو اور زکوٰة دیتے رہو پھر جب ان پر جہاد فرض کردیا گیا تو بعض لوگ ان میں سے لوگوں سے یوں ڈرنے لگے جیسے خدا سے ڈرا کرتے ہیں بلکہ اس سے بھی زیادہ اور بڑبڑانے لگے کہ اے خدا تو نے ہم پر جہاد (جلد) کیوں فرض کردیا تھوڑی مدت اور ہمیں کیوں مہلت نہ دی (اے پیغمبر ان س)ے کہہ دو کہ دنیا کا فائدہ بہت تھوڑا ہے اور بہت اچھی چیز تو پرہیزگار کے لئے (نجات) آخرت ہے اور تم پر دھاگے برابر بھی ظلم نہیں کیا جائے گا
+**English (Yusuf Ali):** Hast thou not turned Thy vision to those who were told to hold back their hands (from fight) but establish regular prayers and spend in regular charity? When (at length) the order for fighting was issued to them, behold! a section of them feared men as - or even more than - they should have feared Allah: They said: "Our Lord! Why hast Thou ordered us to fight? Wouldst Thou not Grant us respite to our (natural) term, near (enough)?" Say: "Short is the enjoyment of this world: the Hereafter is the best for those who do right: Never will ye be dealt with unjustly in the very least!
 
 [Open on Quran.com](https://quran.com/4/77)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So fight, [O Muḥammad], in the cause of Allāh; you are not held responsible except for yourself. And encourage the believers [to join you] that perhaps Allāh will restrain the [military] might of those who disbelieve. And Allāh is greater in might and stronger in [exemplary] punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو (اے محمدﷺ) تم خدا کی راہ میں لڑو تم اپنے سوا کسی کے ذمہ دار نہیں اور مومنوں کو بھی ترغیب دو قریب ہے کہ خدا کافروں کی لڑائی کو بند کردے اور خدا لڑائی کے اعتبار سے بہت سخت ہے اور سزا کے لحاظ سے بھی بہت سخت ہے
+**English (Yusuf Ali):** Then fight in Allah's cause - Thou art held responsible only for thyself - and rouse the believers. It may be that Allah will restrain the fury of the Unbelievers; for Allah is the strongest in might and in punishment.
 
 [Open on Quran.com](https://quran.com/4/84)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** You will find others who wish to obtain security from you and [to] obtain security from their people. Every time they are returned to [the influence of] disbelief, they fall back into it. So if they do not withdraw from you or offer you peace or restrain their hands, then seize them and kill them wherever you overtake them. And those - We have made for you against them a clear authorization.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم کچھ اور لوگ ایسے بھی پاؤ گے جو یہ چاہتے ہیں کہ تم سے بھی امن میں رہیں اور اپنی قوم سے بھی امن میں رہیں لیکن فتنہ انگیزی کو بلائے جائیں تو اس میں اوندھے منہ گر پڑیں تو ایسے لوگ اگر تم سے (لڑنے سے) کنارہ کشی نہ کریں اور نہ تمہاری طرف (پیغام) صلح بھیجیں اور نہ اپنے ہاتھوں کو روکیں تو ان کو پکڑ لو اور جہاں پاؤ قتل کردو ان لوگوں کے مقابلے میں ہم نے تمہارے لئے سند صریح مقرر کردی ہے
+**English (Yusuf Ali):** Others you will find that wish to gain your confidence as well as that of their people: Every time they are sent back to temptation, they succumb thereto: if they withdraw not from you nor give you (guarantees) of peace besides restraining their hands, seize them and slay them wherever ye get them: In their case We have provided you with a clear argument against them.
 
 [Open on Quran.com](https://quran.com/4/91)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, remember the favor of Allāh upon you when a people determined to extend their hands [in aggression] against you, but He withheld their hands from you; and fear Allāh. And upon Allāh let the believers rely.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! خدا نے جو تم پر احسان کیا ہے اس کو یاد کرو۔ جب ایک جماعت نے ارادہ کیا کہ تم پر دست درازی کریں تو اس نے ان کے ہاتھ روک دیئے اور خدا سے ڈرتے رہوں اور مومنو کو خدا ہی پر بھروسہ رکھنا چاہیئے
+**English (Yusuf Ali):** O ye who believe! Call in remembrance the favour of Allah unto you when certain men formed the design to stretch out their hands against you, but (Allah) held back their hands from you: so fear Allah. And on Allah let believers put (all) their trust.
 
 [Open on Quran.com](https://quran.com/5/11)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [The Day] when Allāh will say, "O Jesus, Son of Mary, remember My favor upon you and upon your mother when I supported you with the Pure Spirit [i.e., the angel Gabriel] and you spoke to the people in the cradle and in maturity; and [remember] when I taught you writing and wisdom and the Torah and the Gospel; and when you designed from clay [what was] like the form of a bird with My permission, then you breathed into it, and it became a bird with My permission; and you healed the blind [from birth] and the leper with My permission; and when you brought forth the dead with My permission; and when I restrained the Children of Israel from [killing] you when you came to them with clear proofs and those who disbelieved among them said, "This is not but obvious magic."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب خدا (عیسیٰ سے) فرمائے گا کہ اے عیسیٰ بن مریم! میرے ان احسانوں کو یاد کرو جو میں نے تم پر اور تمہاری والدہ پر کئے جب میں نے روح القدس (یعنی جبرئیل) سے تمہاری مدد کی تم جھولے میں اور جوان ہو کر (ایک ہی نسق پر) لوگوں سے گفتگو کرتے تھے اور جب میں نے تم کو کتاب اور دانائی اور تورات اور انجیل سکھائی اور جب تم میرے حکم سے مٹی کا جانور بنا کر اس میں پھونک مار دیتے تھے تو وہ میرے حکم سے اڑنے لگتا تھا اور مادر زاد اندھے اور سفید داغ والے کو میرے حکم سے چنگا کر دیتے تھے اور مردے کو میرے حکم سے (زندہ کرکے قبر سے) نکال کھڑا کرتے تھے اور جب میں نے بنی اسرائیل (کے ہاتھوں) کو تم سے روک دیا جب تم ان کے پاس کھلے نشان لے کر آئے تو جو ان میں سے کافر تھے کہنے لگے کہ یہ صریح جادو ہے
+**English (Yusuf Ali):** Then will Allah say: "O Jesus the son of Mary! Recount My favour to thee and to thy mother. Behold! I strengthened thee with the holy spirit, so that thou didst speak to the people in childhood and in maturity. Behold! I taught thee the Book and Wisdom, the Law and the Gospel and behold! thou makest out of clay, as it were, the figure of a bird, by My leave, and thou breathest into it and it becometh a bird by My leave, and thou healest those born blind, and the lepers, by My leave. And behold! thou bringest forth the dead by My leave. And behold! I did restrain the Children of Israel from (violence to) thee when thou didst show them the clear Signs, and the unbelievers among them said: 'This is nothing but evident magic.'
 
 [Open on Quran.com](https://quran.com/5/110)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If those who disbelieved but knew the time when they will not avert the Fire from their faces or from their backs and they will not be aided...
 
-**Urdu (Fatah Muhammad Jalandhari):** اے کاش کافر اس وقت کو جانیں جب وہ اپنے مونہوں پر سے (دوزخ کی) آگ کو روک نہ سکیں گے اور نہ اپنی پیٹھوں پر سے اور نہ ان کا کوئی مددگار ہوگا
+**English (Yusuf Ali):** If only the Unbelievers knew (the time) when they will not be able to ward off the fire from their faces, nor yet from their backs, and (when) no help can reach them!
 
 [Open on Quran.com](https://quran.com/21/39)
 
@@ -137,7 +137,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh has promised you much booty that you will take [in the future] and has hastened for you this [victory] and withheld the hands of people from you - that it may be a sign for the believers and [that] He may guide you to a straight path.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے تم سے بہت سی غنیمتوں کا وعدہ فرمایا کہ تم ان کو حاصل کرو گے سو اس نے غنیمت کی تمہارے لئے جلدی فرمائی اور لوگوں کے ہاتھ تم سے روک دیئے۔ غرض یہ تھی کہ یہ مومنوں کے لئے (خدا کی) قدرت کا نمونہ ہو اور وہ تم کو سیدھے رستے پر چلائے
+**English (Yusuf Ali):** Allah has promised you many gains that ye shall acquire, and He has given you these beforehand; and He has restrained the hands of men from you; that it may be a Sign for the Believers, and that He may guide you to a Straight Path;
 
 [Open on Quran.com](https://quran.com/48/20)
 
@@ -153,7 +153,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who withheld their hands from you and your hands from them within [the area of] Makkah after He caused you to overcome them. And ever is Allāh, of what you do, Seeing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے تم کو ان (کافروں) پر فتحیاب کرنے کے بعد سرحد مکہ میں ان کے ہاتھ تم سے اور تمہارے ہاتھ ان سے روک دیئے۔ اور جو کچھ تم کرتے ہو خدا اس کو دیکھ رہا ہے
+**English (Yusuf Ali):** And it is He Who has restrained their hands from you and your hands from them in the midst of Makka, after that He gave you the victory over them. And Allah sees well all that ye do.
 
 [Open on Quran.com](https://quran.com/48/24)
 

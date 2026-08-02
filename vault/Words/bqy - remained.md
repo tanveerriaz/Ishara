@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:278 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, fear Allāh and give up what remains [due to you] of interest, if you should be believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا سے ڈرو اور اگر ایمان رکھتے ہو تو جتنا سود باقی رہ گیا ہے اس کو چھوڑ دو
+**English (Yusuf Ali):** O ye who believe! Fear Allah, and give up what remains of your demand for usury, if ye are indeed believers.
 
 [Open on Quran.com](https://quran.com/2/278)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Thamūd - and He did not spare [them] -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ثمود کو بھی۔ غرض کسی کو باقی نہ چھوڑا
+**English (Yusuf Ali):** And the Thamud nor gave them a lease of perpetual life.
 
 [Open on Quran.com](https://quran.com/53/51)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there will remain the Face of your Lord, Owner of Majesty and Honor.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے پروردگار ہی کی ذات (بابرکات) جو صاحب جلال وعظمت ہے باقی رہے گی
+**English (Yusuf Ali):** But will abide (for ever) the Face of thy Lord,- full of Majesty, Bounty and Honour.
 
 [Open on Quran.com](https://quran.com/55/27)
 

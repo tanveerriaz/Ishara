@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 27:44 · [[027 An-Naml]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** She was told, "Enter the palace." But when she saw it, she thought it was a body of water and uncovered her shins [to wade through]. He said, "Indeed, it is a palace [whose floor is] made smooth with glass." She said, "My Lord, indeed I have wronged myself, and I submit with Solomon to Allāh, Lord of the worlds."
 
-**Urdu (Fatah Muhammad Jalandhari):** (پھر) اس سے کہا گیا کہ محل میں چلیے، جب اس نے اس (کے فرش) کو دیکھا تو اسے پانی کا حوض سمجھا اور (کپڑا اٹھا کر) اپنی پنڈلیاں کھول دیں۔ سلیمان نے کہا یہ ایسا محل ہے جس میں (نیچے بھی) شیشے جڑے ہوئے ہیں۔ وہ بول اٹھی کہ پروردگار میں اپنے آپ پر ظلم کرتی رہی تھی اور (اب) میں سلیمان کے ہاتھ پر خدائے رب العالمین پر ایمان لاتی ہوں
+**English (Yusuf Ali):** She was asked to enter the lofty Palace: but when she saw it, she thought it was a lake of water, and she (tucked up her skirts), uncovering her legs. He said: "This is but a palace paved smooth with slabs of glass." She said: "O my Lord! I have indeed wronged my soul: I do (now) submit (in Islam), with Solomon, to the Lord of the Worlds."
 
 [Open on Quran.com](https://quran.com/27/44)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Pharaoh said, "O eminent ones, I have not known you to have a god other than me. Then ignite for me, O Hāmān, [a fire] upon the clay and make for me a tower that I may look at the God of Moses. And indeed, I do think he is among the liars."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور فرعون نے کہا کہ اے اہلِ دربار میں تمہارا اپنے سوا کسی کو خدا نہیں جانتا تو ہامان میرے لئے گارے کو آگ لگوا (کر اینٹیں پکوا) دو پھر ایک (اُونچا) محل بنادو تاکہ میں موسٰی کے خدا کی طرف چڑھ جاؤں اور میں تو اُسے جھوٹا سمجھتا ہوں
+**English (Yusuf Ali):** Pharaoh said: "O Chiefs! no god do I know for you but myself: therefore, O Haman! light me a (kiln to bake bricks) out of clay, and build me a lofty palace, that I may mount up to the god of Moses: but as far as I am concerned, I think (Moses) is a liar!"
 
 [Open on Quran.com](https://quran.com/28/38)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Pharaoh said, "O Hāmān, construct for me a tower that I might reach the ways -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور فرعون نے کہا کہ ہامان میرے لئے ایک محل بناؤ تاکہ میں (اس پر چڑھ کر) رستوں پر پہنچ جاؤں
+**English (Yusuf Ali):** Pharaoh said: "O Haman! Build me a lofty palace, that I may attain the ways and means-
 
 [Open on Quran.com](https://quran.com/40/36)
 

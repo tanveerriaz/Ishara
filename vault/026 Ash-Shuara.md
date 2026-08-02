@@ -15,30 +15,30 @@ The Poets · 227 ayahs
 ## Words in this surah (graph)
 
 - [[>myn - trustworthy]] — `أَمِين` · trustworthy
-- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
 - [[ESA - staff]] — `عَصا` · staff
 - [[gAlb - victorious]] — `غالِب` · victorious
 - [[mn*r - warners]] — `مُنذِر` · warners
+- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
 - [[gAwy - deviators]] — `غاوي` · deviators
-- [[m$rq - east]] — `مَشْرِق` · east
 - [[yTmE - hope]] — `يَطْمَعُ` · hope
-- [[mElwm - known]] — `مَعْلُوم` · known
-- [[>zlft - brought near]] — `أُزْلِفَتْ` · brought near
-- [[mnqlb - will return]] — `مُنقَلِب` · will return
-- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
-- [[DAl - astray]] — `ضالّ` · astray
 - [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
-- [[mE*b - will punished]] — `مُعَذِّب` · will punished
+- [[m$rq - east]] — `مَشْرِق` · east
 - [[xTy}p - sins]] — `خَطِيئَة` · sins
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[tqlb - movement]] — `تَقَلُّب` · movement
+- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
+- [[>zlft - brought near]] — `أُزْلِفَتْ` · brought near
+- [[DAl - astray]] — `ضالّ` · astray
+- [[mnqlb - will return]] — `مُنقَلِب` · will return
+- [[mE*b - will punished]] — `مُعَذِّب` · will punished
+- [[mElwm - known]] — `مَعْلُوم` · known
 - [[dEA - call]] — `دَعا` · call
-- [[qryp - town]] — `قَرْيَة` · town
-- [[m$Hwn - laden]] — `مَشْحُون` · laden
-- [[>n*r - warn]] — `أَنذَرَ` · warn
 - [[wEZ - admonished]] — `وَعَظْ` · admonished
-- [[jbl - mountains]] — `جَبَل` · mountains
+- [[Eml - do]] — `عَمِلَ` · do
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[>mr - command]] — `أَمَرَ` · command
+- [[byt - houses]] — `بَيْت` · houses
+- [[tqlb - movement]] — `تَقَلُّب` · movement
+- [[>wrv - we caused inherit]] — `أَوْرَثَ` · we caused inherit
+- [[smyE - all-hearer]] — `سَمِيع` · all-hearer
 
 ## Roots
 

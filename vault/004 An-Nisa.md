@@ -18,27 +18,27 @@ The Women · 176 ayahs
 - [[nSyb - share]] — `نَصِيب` · share
 - [[rjAl - men]] — `رِجال` · men
 - [[mbyn - clear]] — `مُبِين` · clear
-- [[xAf - fear]] — `خافَ` · fear
-- [[ytym - orphans]] — `يَتِيم` · orphans
-- [[trk - we left]] — `تَرَكَ` · we left
 - [[>dxl - will admit]] — `أُدْخِلَ` · will admit
 - [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
+- [[xAf - fear]] — `خافَ` · fear
+- [[trk - we left]] — `تَرَكَ` · we left
+- [[ytym - orphans]] — `يَتِيم` · orphans
 - [[Dl - lost]] — `ضَلَّ` · lost
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
 - [[nSyr - any helper]] — `نَصِير` · any helper
-- [[ymyn - oaths]] — `يَمِين` · oaths
-- [[sw' - evil]] — `سُوء` · evil
+- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
 - [[lEn - curse them]] — `لَعَنَ` · curse them
+- [[sw' - evil]] — `سُوء` · evil
+- [[ymyn - oaths]] — `يَمِين` · oaths
+- [[>Dl - more astray]] — `أَضَلَّ` · more astray
+- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
 - [[wEZ - admonished]] — `وَعَظْ` · admonished
+- [[>qrb - nearer]] — `أَقْرَب` · nearer
+- [[>lqY - throw]] — `أَلْقَى` · throw
+- [[>SlH - reforms]] — `أَصْلَحَ` · reforms
 - [[Edl - justice]] — `عَدْل` · justice
-- [[fAH$p - immorality]] — `فاحِشَة` · immorality
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[DlAl - error]] — `ضَلال` · error
 - [[nSf - half]] — `نِصْف` · half
-- [[wrv - will inherit]] — `وَرِثَ` · will inherit
-- [[wAld - parents]] — `والِد` · parents
+- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
+- [[wld - children]] — `وَلَد` · children
 
 ## Roots
 

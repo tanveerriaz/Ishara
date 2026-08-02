@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:123 · [[003 Ali Imran]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And already had Allāh given you victory at [the battle of] Badr while you were weak [i.e., few in number]. Then fear Allāh; perhaps you will be grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے جنگِ بدر میں بھی تمہاری مدد کی تھی اور اس وقت بھی تم بے سرو وسامان تھے پس خدا سے ڈرو (اور ان احسانوں کو یاد کرو) تاکہ شکر کرو
+**English (Yusuf Ali):** Allah had helped you at Badr, when ye were a contemptible little force; then fear Allah; thus May ye show your gratitude.
 
 [Open on Quran.com](https://quran.com/3/123)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, whoever of you should revert from his religion - Allāh will bring forth [in place of them] a people He will love and who will love Him [who are] humble toward the believers, strong against the disbelievers; they strive in the cause of Allāh and do not fear the blame of a critic. That is the favor of Allāh; He bestows it upon whom He wills. And Allāh is all-Encompassing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو اگر کوئی تم میں سے اپنے دین سے پھر جائے گا تو خدا ایسے لوگ پیدا کر دے گا جن کو وہ دوست رکھے اور جسے وہ دوست رکھیں اور جو مومنوں کے حق میں نرمی کریں اور کافروں سے سختی سے پیش آئیں خدا کی راہ میں جہاد کریں اور کسی ملامت کرنے والی کی ملامت سے نہ ڈریں یہ خدا کا فضل ہے وہ جسے چاہتا ہے دیتا ہے اور الله بڑی کشائش والا اور جاننے والا ہے
+**English (Yusuf Ali):** O ye who believe! if any from among you turn back from his Faith, soon will Allah produce a people whom He will love as they will love Him,- lowly with the believers, mighty against the rejecters, fighting in the way of Allah, and never afraid of the reproaches of such as find fault. That is the grace of Allah, which He will bestow on whom He pleaseth. And Allah encompasseth all, and He knoweth all things.
 
 [Open on Quran.com](https://quran.com/5/54)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** She said, "Indeed kings - when they enter a city, they ruin it and render the honored of its people humbled. And thus do they do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس نے کہا کہ بادشاہ جب کسی شہر میں داخل ہوتے ہیں تو اس کو تباہ کر دیتے ہیں اور وہاں کے عزت والوں کو ذلیل کر دیا کرتے ہیں اور اسی طرح یہ بھی کریں گے
+**English (Yusuf Ali):** She said: "Kings, when they enter a country, despoil it, and make the noblest of its people its meanest thus do they behave.
 
 [Open on Quran.com](https://quran.com/27/34)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Return to them, for we will surely come to them with soldiers that they will be powerless to encounter, and we will surely expel them therefrom in humiliation, and they will be debased."
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کے پاس واپس جاؤ ہم ان پر ایسے لشکر سے حملہ کریں گے جس کے مقابلے کی ان میں طاقت نہ ہوگی اور ان کو وہاں سے بےعزت کرکے نکال دیں گے اور وہ ذلیل ہوں گے
+**English (Yusuf Ali):** "Go back to them, and be sure we shall come to them with such hosts as they will never be able to meet: We shall expel them from there in disgrace, and they will feel humbled (indeed)."
 
 [Open on Quran.com](https://quran.com/27/37)
 

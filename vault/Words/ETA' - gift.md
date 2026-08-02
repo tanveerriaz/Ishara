@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:108 · [[011 Hud]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And as for those who were [destined to be] prosperous, they will be in Paradise, abiding therein as long as the heavens and the earth endure, except what your Lord should will - a bestowal uninterrupted.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو نیک بخت ہوں گے، وہ بہشت میں داخل کیے جائیں گے اور جب تک آسمان اور زمین ہیں ہمیشہ اسی میں رہیں گے مگر جتنا تمہارا پروردگار چاہے۔ بےشک تمہارا پروردگار جو چاہتا ہے کردیتا ہے۔ اور جو نیک بخت ہوں گے وہ بہشت میں داخل کئے جائیں گے (اور) جب تک آسمان اور زمین ہیں ہمیشہ اسی میں رہیں گے۔ مگر جتنا تمہارا پروردگار چاہے۔ یہ (خدا کی) بخشش ہے جو کبھی منقطع نہیں ہوگی
+**English (Yusuf Ali):** And those who are blessed shall be in the Garden: They will dwell therein for all the time that the heavens and the earth endure, except as thy Lord willeth: a gift without break.
 
 [Open on Quran.com](https://quran.com/11/108)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** To each [category] We extend - to these and to those - from the gift of your Lord. And never has the gift of your Lord been restricted.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم اُن کو اور ان کو سب کو تمہارے پروردگار کی بخشش سے مدد دیتے ہیں۔ اور تمہارے پروردگار کی بخشش (کسی سے) رکی ہوئی نہیں
+**English (Yusuf Ali):** Of the bounties of thy Lord We bestow freely on all- These as well as those: The bounties of thy Lord are not closed (to anyone).
 
 [Open on Quran.com](https://quran.com/17/20)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [We said], "This is Our gift, so grant or withhold without account."
 
-**Urdu (Fatah Muhammad Jalandhari):** (ہم نے کہا) یہ ہماری بخشش ہے (چاہو) تو احسان کرو یا (چاہو تو) رکھ چھوڑو (تم سے) کچھ حساب نہیں ہے
+**English (Yusuf Ali):** "Such are Our Bounties: whether thou bestow them (on others) or withhold them, no account will be asked."
 
 [Open on Quran.com](https://quran.com/38/39)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [As] reward from your Lord, [a generous] gift [made due by] account,
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ تمہارے پروردگار کی طرف سے صلہ ہے انعام کثیر
+**English (Yusuf Ali):** Recompense from thy Lord, a gift, (amply) sufficient,
 
 [Open on Quran.com](https://quran.com/78/36)
 

@@ -38,7 +38,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:140 · [[002 Al-Baqarah]]
 
@@ -52,7 +52,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do you say that Abraham and Ishmael and Isaac and Jacob and the Descendants were Jews or Christians? Say, "Are you more knowing or is Allāh?" And who is more unjust than one who conceals a testimony he has from Allāh? And Allāh is not unaware of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے یہود ونصاریٰ) کیا تم اس بات کے قائل ہو کہ ابراہیم اور اسمٰعیل اور اسحاق اور یعقوب اور ان کی اولاد یہودی یا عیسائی تھے۔ (اے محمدﷺ ان سے) کہو کہ بھلا تم زیادہ جانتے ہو یا خدا؟ اور اس سے بڑھ کر ظالم کون، جو خدا کی شہادت کو، جو اس کے پاس (کتاب میں موجود) ہے چھپائے۔ اور جو کچھ تم کر رہے ہو، خدا اس سے غافل نہیں
+**English (Yusuf Ali):** Or do ye say that Abraham, Isma'il Isaac, Jacob and the Tribes were Jews or Christians? Say: Do ye know better than Allah? Ah! who is more unjust than those who conceal the testimony they have from Allah? but Allah is not unmindful of what ye do!
 
 [Open on Quran.com](https://quran.com/2/140)
 
@@ -68,7 +68,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, when you contract a debt for a specified term, write it down. And let a scribe write [it] between you in justice. Let no scribe refuse to write as Allāh has taught him. So let him write and let the one who has the obligation [i.e., the debtor] dictate. And let him fear Allāh, his Lord, and not leave anything out of it. But if the one who has the obligation is of limited understanding or weak or unable to dictate himself, then let his guardian dictate in justice. And bring to witness two witnesses from among your men. And if there are not two men [available], then a man and two women from those whom you accept as witnesses - so that if one of them [i.e., the women] errs, then the other can remind her. And let not the witnesses refuse when they are called upon. And do not be [too] weary to write it, whether it is small or large, for its [specified] term. That is more just in the sight of Allāh and stronger as evidence and more likely to prevent doubt between you, except when it is an immediate transaction which you conduct among yourselves. For [then] there is no blame upon you if you do not write it. And take witnesses when you conclude a contract. Let no scribe be harmed or any witness. For if you do so, indeed, it is [grave] disobedience in you. And fear Allāh. And Allāh teaches you. And Allāh is Knowing of all things.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
+**English (Yusuf Ali):** O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah; For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do.
 
 [Open on Quran.com](https://quran.com/2/282)
 
@@ -84,7 +84,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you are on a journey and cannot find a scribe, then a security deposit [should be] taken. And if one of you entrusts another, then let him who is entrusted discharge his trust [faithfully] and let him fear Allāh, his Lord. And do not conceal testimony, for whoever conceals it - his heart is indeed sinful, and Allāh is Knowing of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم سفر پر ہواور (دستاویز) لکھنے والا مل نہ سکے تو (کوئی چیز) رہن یا قبضہ رکھ کر (قرض لے لو) اور اگر کوئی کسی کو امین سمجھے (یعنی رہن کے بغیر قرض دیدے) تو امانتدار کو چاہیئے کہ صاحب امانت کی امانت ادا کردے اور خدا سے جو اس کا پروردگار ہے ڈرے۔اور (دیکھنا) شہادت کو مت چھپانا۔ جو اس کو چھپائے گا وہ دل کا گنہگار ہوگا۔ اور خدا تمہارے سب کاموں سے واقف ہے
+**English (Yusuf Ali):** If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, Let the trustee (Faithfully) discharge His trust, and let him fear his Lord. Conceal not evidence; for whoever conceals it,- His heart is tainted with sin. And Allah Knoweth all that ye do.
 
 [Open on Quran.com](https://quran.com/2/283)
 
@@ -100,7 +100,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, testimony [should be taken] among you when death approaches one of you at the time of bequest - [that of] two just men from among you or two others from outside if you are traveling through the land and the disaster of death should strike you. Detain them after the prayer and let them both swear by Allāh if you doubt [their testimony, saying], "We will not exchange it [i.e., our oath] for a price [i.e., worldly gain], even if he should be a near relative, and we will not withhold the testimony of [i.e., ordained by] Allāh. Indeed, we would then be of the sinful."
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم میں سے کسی کی موت آموجود ہو تو شہادت (کا نصاب) یہ ہے کہ وصیت کے وقت تم (مسلمانوں) میں سے دو عادل (یعنی صاحب اعتبار) گواہ ہوں یا اگر (مسلمان نہ ملیں اور) تم سفر کر رہے ہو اور (اس وقت) تم پر موت کی مصیبت واقع ہو تو کسی دوسرے مذہب کے دو (شخصوں کو) گواہ (کر لو) اگر تم کو ان گواہوں کی نسبت کچھ شک ہو تو ان کو (عصر کی) نماز کے بعد کھڑا کرو اور دونوں خدا کی قسمیں کھائیں کہ ہم شہادت کا کچھ عوض نہیں لیں گے گو ہمارا رشتہ دار ہی ہو اور نہ ہم الله کی شہادت کو چھپائیں گے اگر ایسا کریں گے تو گنہگار ہوں گے
+**English (Yusuf Ali):** O ye who believe! When death approaches any of you, (take) witnesses among yourselves when making bequests,- two just men of your own (brotherhood) or others from outside if ye are journeying through the earth, and the chance of death befalls you (thus). If ye doubt (their truth), detain them both after prayer, and let them both swear by Allah: "We wish not in this for any worldly gain, even though the (beneficiary) be our near relation: we shall hide not the evidence before Allah: if we do, then behold! the sin be upon us!"
 
 [Open on Quran.com](https://quran.com/5/106)
 
@@ -116,7 +116,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if it is found that those two were guilty of sin [i.e., perjury], let two others stand in their place [who are] foremost [in claim] from those who have a lawful right. And let them swear by Allāh, "Our testimony is truer than their testimony, and we have not transgressed. Indeed, we would then be of the wrongdoers."
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اگر معلوم ہو جائے کہ ان دونوں نے (جھوٹ بول کر) گناہ حاصل کیا ہے تو جن لوگوں کا انہوں نے حق مارنا چاہا تھا ان میں سے ان کی جگہ اور دو گواہ کھڑے ہوں جو (میت سے) قرابت قریبہ رکھتے ہوں پھر وہ خدا کی قسمیں کھائیں کہ ہماری شہادت ان کی شہادت سے بہت اچھی ہے اور ہم نے کوئی زیادتی نہیں کی ایسا کیا ہو تو ہم بےانصاف ہیں
+**English (Yusuf Ali):** But if it gets known that these two were guilty of the sin (of perjury), let two others stand forth in their places,- nearest in kin from among those who claim a lawful right: let them swear by Allah: "We affirm that our witness is truer than that of those two, and that we have not trespassed (beyond the truth): if we did, behold! the wrong be upon us!"
 
 [Open on Quran.com](https://quran.com/5/107)
 
@@ -132,7 +132,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is more likely that they will give testimony according to its [true] objective, or [at least] they would fear that [other] oaths might be taken after their oaths. And fear Allāh and listen [i.e., obey Him]; and Allāh does not guide the defiantly disobedient people.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس طریق سے بہت قریب ہے کہ یہ لوگ صحیح صحیح شہادت دیں یا اس بات سے خوف کریں کہ (ہماری) قسمیں ان کی قسموں کے بعد رد کر دی جائیں گی اور خدا سے ڈرو اور اس کے حکموں کو (گوشِ ہوش سے) سنو اور خدا نافرمان لوگوں کو ہدایت نہیں دیتا
+**English (Yusuf Ali):** That is most suitable: that they may give the evidence in its true nature and shape, or else they would fear that other oaths would be taken after their oaths. But fear Allah, and listen (to His counsel): for Allah guideth not a rebellious people:
 
 [Open on Quran.com](https://quran.com/5/108)
 
@@ -148,7 +148,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "What thing is greatest in testimony?" Say, "Allāh is witness between me and you. And this Qur’ān was revealed to me that I may warn you thereby and whomever it reaches. Do you [truly] testify that with Allāh there are other deities?" Say, "I will not testify [with you]." Say, "Indeed, He is but one God, and indeed, I am free of what you associate [with Him]."
 
-**Urdu (Fatah Muhammad Jalandhari):** ان سے پوچھو کہ سب سے بڑھ کر (قرین انصاف) کس کی شہادت ہے کہہ دو کہ خدا ہی مجھ میں اور تم میں گواہ ہے اور یہ قرآن مجھ پر اس لیے اتارا گیا ہے کہ اس کے ذریعے سے تم کو اور جس شخص تک وہ پہنچ سکے آگاہ کردوں کیا تم لوگ اس بات کی شہادت دیتے ہو کہ خدا کے ساتھ اور بھی معبود ہیں (اے محمدﷺ!) کہہ دو کہ میں تو (ایسی) شہادت نہیں دیتا کہہ دو کہ صرف وہی ایک معبود ہے اور جن کو تم لوگ شریک بناتے ہو میں ان سے بیزار ہوں
+**English (Yusuf Ali):** Say: "What thing is most weighty in evidence?" Say: "Allah is witness between me and you; This Qur'an hath been revealed to me by inspiration, that I may warn you and all whom it reaches. Can ye possibly bear witness that besides Allah there is another Allah?" Say: "Nay! I cannot bear witness!" Say: "But in truth He is the one Allah, and I truly am innocent of (your blasphemy of) joining others with Him."
 
 [Open on Quran.com](https://quran.com/6/19)
 
@@ -164,7 +164,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who created the heavens and earth in truth. And the day [i.e., whenever] He says, "Be," and it is, His word is the truth. And His is the dominion [on] the Day the Horn is blown. [He is] Knower of the unseen and the witnessed; and He is the Wise, the Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے آسمانوں اور زمین کو تدبیر سے پیدا کیا ہے۔ اور جس دن وہ فرمائے گا کہ ہو جا تو (حشر برپا) ہوجائے گا ۔ اس کا ارشاد برحق ہے۔ اور جس دن صور پھونکا جائے گا (اس دن) اسی کی بادشاہت ہوگی۔ وہی پوشیدہ اور ظاہر (سب) کا جاننے والا ہے اور وہی دانا اور خبردار ہے
+**English (Yusuf Ali):** It is He who created the heavens and the earth in true (proportions): the day He saith, "Be," behold! it is. His word is the truth. His will be the dominion the day the trumpet will be blown. He knoweth the unseen as well as that which is open. For He is the Wise, well acquainted (with all things).
 
 [Open on Quran.com](https://quran.com/6/73)
 
@@ -180,7 +180,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will make excuses to you when you have returned to them. Say, "Make no excuse - never will we believe you. Allāh has already informed us of your news [i.e., affair]. And Allāh will observe your deeds, and [so will] His Messenger; then you will be taken back to the Knower of the unseen and the witnessed, and He will inform you of what you used to do."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب تم ان کے پاس واپس جاؤ گے تو تم سے عذر کریں گے تم کہنا کہ مت عذر کرو ہم ہرگز تمہاری بات نہیں مانیں گے خدا نے ہم کو تمہارے سب حالات بتا دیئے ہیں۔ اور ابھی خدا اور اس کا رسول تمہارے عملوں کو (اور) دیکھیں گے پھر تم غائب وحاضر کے جاننے والے (خدائے واحد) کی طرف لوٹائے جاؤ گے اور جو عمل تم کرتے رہے ہو وہ سب تمہیں بتائے گا
+**English (Yusuf Ali):** They will present their excuses to you when ye return to them. Say thou: "Present no excuses: we shall not believe you: Allah hath already informed us of the true state of matters concerning you: It is your actions that Allah and His Messenger will observe: in the end will ye be brought back to Him Who knoweth what is hidden and what is open: then will He show you the truth of all that ye did."
 
 [Open on Quran.com](https://quran.com/9/94)
 
@@ -196,7 +196,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And say, "Do [as you will], for Allāh will see your deeds, and [so will] His Messenger and the believers. And you will be returned to the Knower of the unseen and the witnessed, and He will inform you of what you used to do."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان سے کہہ دو کہ عمل کئے جاؤ۔ خدا اور اس کا رسول اور مومن (سب) تمہارے عملوں کو دیکھ لیں گے۔ اور تم غائب وحاضر کے جاننے والے (خدائے واحد) کی طرف لوٹائے جاؤ گے پھر جو کچھ تم کرتے رہے ہو وہ سب تم کو بتا دے گا
+**English (Yusuf Ali):** And say: "Work (righteousness): Soon will Allah observe your work, and His Messenger, and the Believers: Soon will ye be brought back to the knower of what is hidden and what is open: then will He show you the truth of all that ye did."
 
 [Open on Quran.com](https://quran.com/9/105)
 

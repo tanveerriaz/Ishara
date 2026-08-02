@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 8:52 · [[008 Al-Anfal]]
 
@@ -47,7 +47,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Theirs is] like the custom of the people of Pharaoh and of those before them. They disbelieved in the signs of Allāh, so Allāh seized them for their sins. Indeed, Allāh is Powerful and severe in penalty.
 
-**Urdu (Fatah Muhammad Jalandhari):** جیسا حال فرعوینوں اور ان سے پہلے لوگوں کا (ہوا تھا ویسا ہی ان کا ہوا کہ) انہوں نے خدا کی آیتوں سے کفر کیا تو خدا نےان کے گناہوں کی سزا میں ان کو پکڑ لیا۔ بےشک خدا زبردست اور سخت عذاب دینے والا ہے
+**English (Yusuf Ali):** "(Deeds) after the manner of the people of Pharaoh and of those before them: They rejected the Signs of Allah, and Allah punished them for their crimes: for Allah is Strong, and Strict in punishment:
 
 [Open on Quran.com](https://quran.com/8/52)
 
@@ -63,7 +63,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when Our command came, We saved Ṣāliḥ and those who believed with him, by mercy from Us, and [saved them] from the disgrace of that day. Indeed, it is your Lord who is the Powerful, the Exalted in Might.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب ہمارا حکم آگیا تو ہم نے صالح کو اور جو لوگ ان کے ساتھ ایمان لائے تھے ان کو اپنی مہربانی سے بچالیا۔ اور اس دن کی رسوائی سے (محفوظ رکھا)۔ بےشک تمہارا پروردگار طاقتور اور زبردست ہے
+**English (Yusuf Ali):** When Our Decree issued, We saved Salih and those who believed with him, by (special) Grace from Ourselves - and from the Ignominy of that day. For thy Lord - He is the Strong One, and able to enforce His Will.
 
 [Open on Quran.com](https://quran.com/11/66)
 
@@ -79,7 +79,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [They are] those who have been evicted from their homes without right - only because they say, "Our Lord is Allāh." And were it not that Allāh checks the people, some by means of others, there would have been demolished monasteries, churches, synagogues, and mosques in which the name of Allāh is much mentioned [i.e., praised]. And Allāh will surely support those who support Him [i.e., His cause]. Indeed, Allāh is Powerful and Exalted in Might.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں کہ اپنے گھروں سے ناحق نکال دیئے گئے (انہوں نے کچھ قصور نہیں کیا) ہاں یہ کہتے ہیں کہ ہمارا پروردگار خدا ہے۔ اور اگر خدا لوگوں کو ایک دوسرے سے نہ ہٹاتا رہتا تو (راہبوں کے) صومعے اور (عیسائیوں کے) گرجے اور (یہودیوں کے) عبادت خانے اور (مسلمانوں کی) مسجدیں جن میں خدا کا بہت سا ذکر کیا جاتا ہے ویران ہوچکی ہوتیں۔ اور جو شخص خدا کی مدد کرتا ہے خدا اس کی ضرور مدد کرتا ہے۔ بےشک خدا توانا اور غالب ہے
+**English (Yusuf Ali):** (They are) those who have been expelled from their homes in defiance of right,- (for no cause) except that they say, "our Lord is Allah". Did not Allah check one set of people by means of another, there would surely have been pulled down monasteries, churches, synagogues, and mosques, in which the name of Allah is commemorated in abundant measure. Allah will certainly aid those who aid his (cause);- for verily Allah is full of Strength, Exalted in Might, (able to enforce His Will).
 
 [Open on Quran.com](https://quran.com/22/40)
 
@@ -95,7 +95,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They have not appraised Allāh with true appraisal. Indeed, Allāh is Powerful and Exalted in Might.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں نے خدا کی قدر جیسی کرنی چاہیئے تھی نہیں کی۔ کچھ شک نہیں کہ خدا زبردست اور غالب ہے
+**English (Yusuf Ali):** No just estimate have they made of Allah: for Allah is He Who is strong and able to Carry out His Will.
 
 [Open on Quran.com](https://quran.com/22/74)
 
@@ -111,7 +111,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** A powerful one from among the jinn said, "I will bring it to you before you rise from your place, and indeed, I am for this [task] strong and trustworthy."
 
-**Urdu (Fatah Muhammad Jalandhari):** جنات میں سے ایک قوی ہیکل جن نے کہا کہ قبل اس کے کہ آپ اپنی جگہ سے اٹھیں میں اس کو آپ کے پاس لاحاضر کرتا ہوں اور میں اس (کے اٹھانے کی) طاقت رکھتا ہوں (اور) امانت دار ہوں
+**English (Yusuf Ali):** Said an 'Ifrit, of the Jinns: "I will bring it to thee before thou rise from thy council: indeed I have full strength for the purpose, and may be trusted."
 
 [Open on Quran.com](https://quran.com/27/39)
 
@@ -127,7 +127,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** One of the women said, "O my father, hire him. Indeed, the best one you can hire is the strong and the trustworthy."
 
-**Urdu (Fatah Muhammad Jalandhari):** ایک لڑکی بولی کہ ابّا ان کو نوکر رکھ لیجئے کیونکہ بہتر نوکر جو آپ رکھیں وہ ہے (جو) توانا اور امانت دار (ہو)
+**English (Yusuf Ali):** Said one of the (damsels): "O my (dear) father! engage him on wages: truly the best of men for thee to employ is the (man) who is strong and trusty"....
 
 [Open on Quran.com](https://quran.com/28/26)
 
@@ -143,7 +143,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Allāh repelled those who disbelieved, in their rage, not having obtained any good. And sufficient was Allāh for the believers in battle, and ever is Allāh Powerful and Exalted in Might.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو کافر تھے اُن کو خدا نے پھیر دیا وہ اپنے غصے میں (بھرے ہوئے تھے) کچھ بھلائی حاصل نہ کر سکے۔ اور خدا مومنوں کو لڑائی کے بارے میں کافی ہوا۔ اور خدا طاقتور (اور) زبردست ہے
+**English (Yusuf Ali):** And Allah turned back the Unbelievers for (all) their fury: no advantage did they gain; and enough is Allah for the believers in their fight. And Allah is full of Strength, able to enforce His Will.
 
 [Open on Quran.com](https://quran.com/33/25)
 
@@ -159,7 +159,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That was because their messengers were coming to them with clear proofs, but they disbelieved, so Allāh seized them. Indeed, He is Powerful and severe in punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ اس لئے کہ ان کے پاس پیغمبر کھلی دلیلیں لاتے تھے تو یہ کفر کرتے تھے سو خدا نے ان کو پکڑ لیا۔ بےشک وہ صاحب قوت (اور) سخت عذاب دینے والا ہے
+**English (Yusuf Ali):** That was because there came to them their messengers with Clear (Signs), but they rejected them: So Allah called them to account: for He is Full of Strength, Strict in Punishment.
 
 [Open on Quran.com](https://quran.com/40/22)
 
@@ -175,7 +175,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh is Subtle with His servants; He gives provision to whom He wills. And He is the Powerful, the Exalted in Might.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا اپنے بندوں پر مہربان ہے وہ جس کو چاہتا ہے رزق دیتا ہے۔ اور وہ زور والا (اور) زبردست ہے
+**English (Yusuf Ali):** Gracious is Allah to His servants: He gives Sustenance to whom He pleases: and He has power and can carry out His Will.
 
 [Open on Quran.com](https://quran.com/42/19)
 
@@ -191,7 +191,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** We have already sent Our messengers with clear evidences and sent down with them the Scripture and the balance that the people may maintain [their affairs] in justice. And We sent down iron, wherein is great military might and benefits for the people, and so that Allāh may make evident those who support Him and His messengers unseen. Indeed, Allāh is Powerful and Exalted in Might.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم نے اپنے پیغمبروں کو کھلی نشانیاں دے کر بھیجا۔ اور اُن پر کتابیں نازل کیں اور ترازو (یعنی قواعد عدل) تاکہ لوگ انصاف پر قائم رہیں۔ اور لوہا پیدا کیا اس میں (اسلحہٴ جنگ کے لحاظ سے) خطرہ بھی شدید ہے۔ اور لوگوں کے لئے فائدے بھی ہیں اور اس لئے کہ جو لوگ بن دیکھے خدا اور اس کے پیغمبروں کی مدد کرتے ہیں خدا ان کو معلوم کرے۔ بےشک خدا قوی (اور) غالب ہے
+**English (Yusuf Ali):** We sent aforetime our messengers with Clear Signs and sent down with them the Book and the Balance (of Right and Wrong), that men may stand forth in justice; and We sent down Iron, in which is (material for) mighty war, as well as many benefits for mankind, that Allah may test who it is that will help, Unseen, Him and His messengers: For Allah is Full of Strength, Exalted in Might (and able to enforce His Will).
 
 [Open on Quran.com](https://quran.com/57/25)
 

@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 18:48 · [[018 Al-Kahf]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will be presented before your Lord in rows, [and He will say], "You have certainly come to Us just as We created you the first time. But you claimed that We would never make for you an appointment."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور سب تمہارے پروردگار کے سامنے صف باندھ کر لائے جائیں گے (تو ہم ان سے کہیں گے کہ) جس طرح ہم نے تم کو پہلی بار پیدا کیا تھا (اسی طرح آج) تم ہمارے سامنے آئے لیکن تم نے تو یہ خیال کر رکھا تھا کہ ہم نے تمہارے لئے (قیامت کا) کوئی وقت مقرر ہی نہیں کیا
+**English (Yusuf Ali):** And they will be marshalled before thy Lord in ranks, (with the announcement), "Now have ye come to Us (bare) as We created you first: aye, ye thought We shall not fulfil the appointment made to you to meet (Us)!":
 
 [Open on Quran.com](https://quran.com/18/48)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So resolve upon your plan and then come [forward] in line. And he has succeeded today who overcomes."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو تم (جادو کا) سامان اکھٹا کرلو اور پھر قطار باندھ کر آؤ۔ آج جو غالب رہا وہی کامیاب ہوا
+**English (Yusuf Ali):** "Therefore concert your plan, and then assemble in (serried) ranks: He wins (all along) today who gains the upper hand."
 
 [Open on Quran.com](https://quran.com/20/64)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** By those [angels] lined up in rows
 
-**Urdu (Fatah Muhammad Jalandhari):** قسم ہے صف باندھنے والوں کی پرا جما کر
+**English (Yusuf Ali):** By those who range themselves in ranks,
 
 [Open on Quran.com](https://quran.com/37/1)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh loves those who fight in His cause in a row as though they are a [single] structure joined firmly.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کی راہ میں (ایسے طور پر) پرے جما کر لڑتے کہ گویا سیسہ پلائی دیوار ہیں وہ بےشک محبوب کردگار ہیں
+**English (Yusuf Ali):** Truly Allah loves those who fight in His Cause in battle array, as if they were a solid cemented structure.
 
 [Open on Quran.com](https://quran.com/61/4)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day that the Spirit [i.e., Gabriel] and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس دن روح (الامین) اور فرشتے صف باندھ کر کھڑے ہوں گے تو کوئی بول نہ سکے گا مگر جس کو (خدائے رحمٰن) اجازت بخشے اور اس نے بات بھی درست کہی ہو
+**English (Yusuf Ali):** The Day that the Spirit and the angels will stand forth in ranks, none shall speak except any who is permitted by (Allah) Most Gracious, and He will say what is right.
 
 [Open on Quran.com](https://quran.com/78/38)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And your Lord has come and the angels, rank upon rank,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا پروردگار (جلوہ فرما ہو گا) اور فرشتے قطار باندھ باندھ کر آ موجود ہوں گے
+**English (Yusuf Ali):** And thy Lord cometh, and His angels, rank upon rank,
 
 [Open on Quran.com](https://quran.com/89/22)
 

@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 17:68 · [[017 Al-Isra]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then do you feel secure that [instead] He will not cause a part of the land to swallow you or send against you a storm of stones? Then you would not find for yourselves an advocate.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم (اس سے) بےخوف ہو کہ خدا تمہیں خشکی کی طرف (لے جا کر زمین میں) دھنسا دے یا تم پر سنگریزوں کی بھری ہوئی آندھی چلادے۔ پھر تم اپنا کوئی نگہبان نہ پاؤ
+**English (Yusuf Ali):** Do ye then feel secure that He will not cause you to be swallowed up beneath the earth when ye are on land, or that He will not send against you a violent tornado (with showers of stones) so that ye shall find no one to carry out your affairs for you?
 
 [Open on Quran.com](https://quran.com/17/68)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when We bestow favor upon man [i.e., the disbeliever], he turns away and distances himself; and when evil touches him, he is ever despairing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم انسان کو نعمت بخشتے ہیں تو ردگرداں ہوجاتا اور پہلو پھیر لیتا ہے۔ اور جب اسے سختی پہنچتی ہے تو ناامید ہوجاتا ہے
+**English (Yusuf Ali):** Yet when We bestow Our favours on man, he turns away and becomes remote on his side (instead of coming to Us), and when evil seizes him he gives himself up to despair!
 
 [Open on Quran.com](https://quran.com/17/83)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We called him from the side of the mount at [his] right and brought him near, confiding [to him].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو طور کی داہنی جانب پکارا اور باتیں کرنے کے لئے نزدیک بلایا
+**English (Yusuf Ali):** And we called him from the right side of Mount (Sinai), and made him draw near to Us, for mystic (converse).
 
 [Open on Quran.com](https://quran.com/19/52)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Children of Israel, We delivered you from your enemy, and We made an appointment with you at the right side of the mount, and We sent down to you manna and quails,
 
-**Urdu (Fatah Muhammad Jalandhari):** اے آل یعقوب ہم نے تم کو تمہارے دشمن سے نجات دی اور تورات دینے کے لئے تم سے کوہ طور کی داہنی طرف مقرر کی اور تم پر من اور سلویٰ نازل کیا
+**English (Yusuf Ali):** O ye Children of Israel! We delivered you from your enemy, and We made a Covenant with you on the right side of Mount (Sinai), and We sent down to you Manna and quails:
 
 [Open on Quran.com](https://quran.com/20/80)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when Moses had completed the term and was traveling with his family, he perceived from the direction of the mount a fire. He said to his family, "Stay here; indeed, I have perceived a fire. Perhaps I will bring you from there [some] information or burning wood from the fire that you may warm yourselves."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب موسٰی نے مدت پوری کردی اور اپنے گھر کے لوگوں کو لے کر چلے تو طور کی طرف سے آگ دکھائی دی تو اپنے گھر والوں سے کہنے لگے کہ تم یہاں ٹھیرو۔ مجھے آگ نظر آئی ہے شاید میں وہاں سے (رستے کا) کچھ پتہ لاؤں یا آگ کا انگارہ لے آؤں تاکہ تم تاپو
+**English (Yusuf Ali):** Now when Moses had fulfilled the term, and was travelling with his family, he perceived a fire in the direction of Mount Tur. He said to his family: "Tarry ye; I perceive a fire; I hope to bring you from there some information, or a burning firebrand, that ye may warm yourselves."
 
 [Open on Quran.com](https://quran.com/28/29)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you, [O Muḥammad], were not on the western side [of the mount] when We revealed to Moses the command, and you were not among the witnesses [to that].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے موسٰی کی طرف حکم بھیجا تو تم (طور کی) غرب کی طرف نہیں تھے اور نہ اس واقعے کے دیکھنے والوں میں تھے
+**English (Yusuf Ali):** Thou wast not on the Western side when We decreed the Commission to Moses, nor wast thou a witness (of those events).
 
 [Open on Quran.com](https://quran.com/28/44)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you were not at the side of the mount when We called [Moses] but [were sent] as a mercy from your Lord to warn a people to whom no warner had come before you that they might be reminded.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور نہ تم اس وقت جب کہ ہم نے (موسٰی کو) آواز دی طور کے کنارے تھے بلکہ (تمہارا بھیجا جانا) تمہارے پروردگار کی رحمت ہے تاکہ تم اُن لوگوں کو جن کے پاس تم سے پہلے کوئی ہدایت کرنے والا نہیں آیا ہدایت کرو تاکہ وہ نصیحت پکڑیں
+**English (Yusuf Ali):** Nor wast thou at the side of (the Mountain of) Tur when we called (to Moses). Yet (art thou sent) as Mercy from thy Lord, to give warning to a people to whom no warner had come before thee: in order that they may receive admonition.
 
 [Open on Quran.com](https://quran.com/28/46)
 
@@ -155,7 +155,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [So] they may not listen to the exalted assembly [of angels] and are pelted from every side,
 
-**Urdu (Fatah Muhammad Jalandhari):** کہ اوپر کی مجلس کی طرف کان نہ لگاسکیں اور ہر طرف سے (ان پر انگارے) پھینکے جاتے ہیں
+**English (Yusuf Ali):** (So) they should not strain their ears in the direction of the Exalted Assembly but be cast away from every side,
 
 [Open on Quran.com](https://quran.com/37/8)
 
@@ -171,7 +171,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when We bestow favor upon man, he turns away and distances himself; but when evil touches him, then he is full of extensive supplication.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم انسان پر کرم کرتے ہیں تو منہ موڑ لیتا ہے اور پہلو پھیر کر چل دیتا ہے۔ اور جب اس کو تکلیف پہنچتی ہے تو لمبی لمبی دعائیں کرنے لگتا ہے
+**English (Yusuf Ali):** When We bestow favours on man, he turns away, and gets himself remote on his side (instead of coming to Us); and when evil seizes him, (he comes) full of prolonged prayer!
 
 [Open on Quran.com](https://quran.com/41/51)
 

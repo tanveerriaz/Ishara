@@ -15,30 +15,30 @@ The Stories · 88 ayahs
 ## Words in this surah (graph)
 
 - [[mdyn - madyan]] — `مَدْيَن` · madyan
-- [[jAnb - side]] — `جانِب` · side
 - [[<HdY - one them]] — `إِحْدَى` · one them
+- [[jAnb - side]] — `جانِب` · side
 - [[sqY - water]] — `سَقَى` · water
-- [[brhAn - proof]] — `بُرْهان` · proof
-- [[xsf - becomes dark]] — `خَسَفَ` · becomes dark
-- [[wArv - inheritors]] — `وارِث` · inheritors
 - [[fsAd - corruption]] — `فَساد` · corruption
-- [[nASH - sincere advisors]] — `ناصِح` · sincere advisors
-- [[Zhyr - assistants]] — `ظَهِير` · assistants
+- [[brhAn - proof]] — `بُرْهان` · proof
 - [[<mAm - leaders]] — `إِمام` · leaders
-- [[mdynp - city]] — `مَدِينَة` · city
-- [[Twr - mount]] — `طُور` · mount
-- [[ym - sea]] — `يَمّ` · sea
-- [[$yEp - sects]] — `شِيعَة` · sects
 - [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
+- [[nASH - sincere advisors]] — `ناصِح` · sincere advisors
+- [[mdynp - city]] — `مَدِينَة` · city
+- [[wArv - inheritors]] — `وارِث` · inheritors
+- [[ym - sea]] — `يَمّ` · sea
+- [[Zhyr - assistants]] — `ظَهِير` · assistants
+- [[xsf - becomes dark]] — `خَسَفَ` · becomes dark
+- [[Twr - mount]] — `طُور` · mount
+- [[$yEp - sects]] — `شِيعَة` · sects
 - [[mk - we established]] — `مَكَّ` · we established
-- [[mhtdy - guided ones]] — `مُهْتَدي` · guided ones
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[dEA - call]] — `دَعا` · call
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[qryp - town]] — `قَرْيَة` · town
-- [[Dl - lost]] — `ضَلَّ` · lost
+- [[Hsn - good]] — `حُسْن` · good
 - [[mHDr - will brought]] — `مُحْضَر` · will brought
+- [[dEA - call]] — `دَعا` · call
+- [[xTb - was affair]] — `خَطْب` · was affair
+- [[nAr - fire]] — `نار` · fire
+- [[lyl - night]] — `لَيْل` · night
+- [[ESA - staff]] — `عَصا` · staff
+- [[qdr - restricts]] — `قَدَر` · restricts
 
 ## Roots
 

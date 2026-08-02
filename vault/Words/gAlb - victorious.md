@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:160 · [[003 Ali Imran]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If Allāh should aid you, no one can overcome you; but if He should forsake you, who is there that can aid you after Him? And upon Allāh let the believers rely.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا تمہارا مددگار ہے تو تم پر کوئی غالب نہیں آسکتا۔ اور اگر وہ تمہیں چھوڑ دے تو پھر کون ہے کہ تمہاری مدد کرے اور مومنوں کو چاہیئے کہ خدا ہی پر بھروسا رکھیں
+**English (Yusuf Ali):** If Allah helps you, none can overcome you: If He forsakes you, who is there, after that, that can help you? in Allah, then, Let believers put their trust.
 
 [Open on Quran.com](https://quran.com/3/160)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Said two men from those who feared [to disobey] upon whom Allāh had bestowed favor, "Enter upon them through the gate, for when you have entered it, you will be predominant. And upon Allāh rely, if you should be believers."
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (خدا سے) ڈرتے تھے ان میں سے دو شخص جن پر خدا کی عنایت تھی کہنے لگے کہ ان لوگوں پر دروازے کے رستے سے حملہ کردو جب تم دروازے میں داخل ہو گئے تو فتح تمہارے ہے اور خدا ہی پر بھروسہ رکھو بشرطیکہ صاحبِ ایمان ہو
+**English (Yusuf Ali):** (But) among (their) Allah-fearing men were two on whom Allah had bestowed His grace: They said: "Assault them at the (proper) Gate: when once ye are in, victory will be yours; But on Allah put your trust if ye have faith."
 
 [Open on Quran.com](https://quran.com/5/23)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever is an ally of Allāh and His Messenger and those who have believed - indeed, the party of Allāh - they will be the predominant.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص خدا اور اس کے پیغمبر اور مومنوں سے دوستی کرے گا تو (وہ خدا کی جماعت میں داخل ہوگا اور) خدا کی جماعت ہی غلبہ پانے والی ہے
+**English (Yusuf Ali):** As to those who turn (for friendship) to Allah, His Messenger, and the (fellowship of) believers,- it is the fellowship of Allah that must certainly triumph.
 
 [Open on Quran.com](https://quran.com/5/56)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the magicians came to Pharaoh. They said, "Indeed for us is a reward if we are the predominant."
 
-**Urdu (Fatah Muhammad Jalandhari):** (چنانچہ ایسا ہی کیا گیا) اور جادوگر فرعون کے پاس آپہنچے اور کہنے لگے کہ اگر ہم جیت گئے تو ہمیں صلہ عطا کیا جائے
+**English (Yusuf Ali):** So there came the sorcerers to Pharaoh: They said, "of course we shall have a (suitable) reward if we win!"
 
 [Open on Quran.com](https://quran.com/7/113)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [remember] when Satan made their deeds pleasing to them and said, "No one can overcome you today from among the people, and indeed, I am your protector." But when the two armies sighted each other, he turned on his heels and said, "Indeed, I am disassociated from you. Indeed, I see what you do not see; indeed, I fear Allāh. And Allāh is severe in penalty."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب شیطانوں نے ان کے اعمال ان کو آراستہ کر کے دکھائے اور کہا کہ آج کے دن لوگوں میں کوئی تم پر غالب نہ ہوگا اور میں تمہارا رفیق ہوں (لیکن) جب دونوں فوجیں ایک دوسرے کے مقابل صف آراء ہوئیں تو پسپا ہو کر چل دیا اور کہنے لگا کہ مجھے تم سے کوئی واسطہ نہیں۔ میں تو ایسی چیزیں دیکھ رہا ہوں جو تم نہیں دیکھ سکتے۔ مجھے تو خدا سے ڈر لگتا ہے۔ اور خدا سخت عذاب کرنے والا ہے
+**English (Yusuf Ali):** Remember Satan made their (sinful) acts seem alluring to them, and said: "No one among men can overcome you this day, while I am near to you": But when the two forces came in sight of each other, he turned on his heels, and said: "Lo! I am clear of you; lo! I see what ye see not; Lo! I fear Allah: for Allah is strict in punishment."
 
 [Open on Quran.com](https://quran.com/8/48)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the one from Egypt who bought him said to his wife, "Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son." And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مصر میں جس شخص نے اس کو خریدا اس نے اپنی بیوی سے (جس کا نام زلیخا تھا) کہا کہ اس کو عزت واکرام سے رکھو عجب نہیں کہ یہ ہمیں فائدہ دے یا ہم اسے بیٹا بنالیں۔ اس طرح ہم نے یوسف کو سرزمین (مصر) میں جگہ دی اور غرض یہ تھی کہ ہم ان کو (خواب کی) باتوں کی تعبیر سکھائیں اور خدا اپنے کام پر غالب ہے لیکن اکثر لوگ نہیں جانتے
+**English (Yusuf Ali):** The man in Egypt who bought him, said to his wife: "Make his stay (among us) honourable: may be he will bring us much good, or we shall adopt him as a son." Thus did We establish Joseph in the land, that We might teach him the interpretation of stories (and events). And Allah hath full power and control over His affairs; but most among mankind know it not.
 
 [Open on Quran.com](https://quran.com/12/21)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But, [on the contrary], We have provided good things for these [disbelievers] and their fathers until life was prolonged for them. Then do they not see that We set upon the land, reducing it from its borders? Is it they who will overcome?
 
-**Urdu (Fatah Muhammad Jalandhari):** بلکہ ہم ان لوگوں کو اور ان کے باپ دادا کو متمتع کرتے رہے یہاں تک کہ (اسی حالت میں) ان کی عمریں بسر ہوگئیں۔ کیا یہ نہیں دیکھتے کہ ہم زمین کو اس کے کناروں سے گھٹاتے چلے آتے ہیں۔ تو کیا یہ لوگ غلبہ پانے والے ہیں؟
+**English (Yusuf Ali):** Nay, We gave the good things of this life to these men and their fathers until the period grew long for them; See they not that We gradually reduce the land (in their control) from its outlying borders? Is it then they who will win?
 
 [Open on Quran.com](https://quran.com/21/44)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That we might follow the magicians if they are the predominant?"
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ اگر جادوگر غالب رہیں تو ہم ان کے پیرو ہوجائیں
+**English (Yusuf Ali):** "That we may follow the sorcerers (in religion) if they win?"
 
 [Open on Quran.com](https://quran.com/26/40)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when the magicians arrived, they said to Pharaoh, "Is there indeed for us a reward if we are the predominant?"
 
-**Urdu (Fatah Muhammad Jalandhari):** جب جادوگر آگئے تو فرعون سے کہنے لگے اگر ہم غالب رہے تو ہمیں صلہ بھی عطا ہوگا؟
+**English (Yusuf Ali):** So when the sorcerers arrived, they said to Pharaoh: "Of course - shall we have a (suitable) reward if we win?
 
 [Open on Quran.com](https://quran.com/26/41)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So they threw their ropes and their staffs and said, "By the might of Pharaoh, indeed it is we who are predominant."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے اپنی رسیاں اور لاٹھیاں ڈالیں اور کہنے لگے کہ فرعون کے اقبال کی قسم ہم ضرور غالب رہیں گے
+**English (Yusuf Ali):** So they threw their ropes and their rods, and said: "By the might of Pharaoh, it is we who will certainly win!"
 
 [Open on Quran.com](https://quran.com/26/44)
 

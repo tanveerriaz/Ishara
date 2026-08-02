@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:65 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you had already known about those who transgressed among you concerning the sabbath, and We said to them, "Be apes, despised."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم ان لوگوں کو خوب جانتے ہوں، جو تم میں سے ہفتے کے دن (مچھلی کا شکار کرنے) میں حد سے تجاوز کر گئے تھے، تو ہم نے ان سے کہا کہ ذلیل وخوار بندر ہو جاؤ
+**English (Yusuf Ali):** And well ye knew those amongst you who transgressed in the matter of the Sabbath: We said to them: "Be ye apes, despised and rejected."
 
 [Open on Quran.com](https://quran.com/2/65)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when they were insolent about that which they had been forbidden, We said to them, "Be apes, despised."
 
-**Urdu (Fatah Muhammad Jalandhari):** غرض جن اعمال (بد) سے ان کو منع کیا گیا تھا جب وہ ان (پراصرار اور ہمارے حکم سے) گردن کشی کرنے لگے تو ہم نے ان کو حکم دیا کہ ذلیل بندر ہوجاؤ
+**English (Yusuf Ali):** When in their insolence they transgressed (all) prohibitions, We said to them: "Be ye apes, despised and rejected."
 
 [Open on Quran.com](https://quran.com/7/166)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then return [your] vision twice again. [Your] vision will return to you humbled while it is fatigued.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر دو بارہ (سہ بارہ) نظر کر، تو نظر (ہر بار) تیرے پاس ناکام اور تھک کر لوٹ آئے گی
+**English (Yusuf Ali):** Again turn thy vision a second time: (thy) vision will come back to thee dull and discomfited, in a state worn out.
 
 [Open on Quran.com](https://quran.com/67/4)
 

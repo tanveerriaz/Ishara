@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:155 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم کسی قدر خوف اور بھوک اور مال اور جانوں اور میوؤں کے نقصان سے تمہاری آزمائش کریں گے توصبر کرنے والوں کو (خدا کی خوشنودی کی) بشارت سنا دو
+**English (Yusuf Ali):** Be sure we shall test you with something of fear and hunger, some loss in goods or lives or the fruits (of your toil), but give glad tidings to those who patiently persevere,
 
 [Open on Quran.com](https://quran.com/2/155)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Allāh presents an example: a city [i.e., Makkah] which was safe and secure, its provision coming to it in abundance from every location, but it denied the favors of Allāh. So Allāh made it taste the envelopment of hunger and fear for what they had been doing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ایک بستی کی مثال بیان فرماتا ہے کہ (ہر طرح) امن چین سے بستی تھی ہر طرف سے رزق بافراغت چلا آتا تھا۔ مگر ان لوگوں نے خدا کی نعمتوں کی ناشکری کی تو خدا نے ان کے اعمال کے سبب ان کو بھوک اور خوف کا لباس پہنا کر (ناشکری کا) مزہ چکھا دیا
+**English (Yusuf Ali):** Allah sets forth a Parable: a city enjoying security and quiet, abundantly supplied with sustenance from every place: Yet was it ungrateful for the favours of Allah: so Allah made it taste of hunger and terror (in extremes) (closing in on it) like a garment (from every side), because of the (evil) which (its people) wrought.
 
 [Open on Quran.com](https://quran.com/16/112)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Which neither nourishes nor avails against hunger.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو نہ فربہی لائے اور نہ بھوک میں کچھ کام آئے
+**English (Yusuf Ali):** Which will neither nourish nor satisfy hunger.
 
 [Open on Quran.com](https://quran.com/88/7)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس نے ان کو بھوک میں کھانا کھلایا اور خوف سے امن بخشا
+**English (Yusuf Ali):** Who provides them with food against hunger, and with security against fear (of danger).
 
 [Open on Quran.com](https://quran.com/106/4)
 

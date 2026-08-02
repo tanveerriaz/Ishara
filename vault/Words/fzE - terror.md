@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 21:103 · [[021 Al-Anbya]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will not be grieved by the greatest terror, and the angels will meet them, [saying], "This is your Day which you have been promised" -
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کو (اس دن کا) بڑا بھاری خوف غمگین نہیں کرے گا۔ اور فرشتے ان کو لینے آئیں گے (اور کہیں گے کہ) یہی وہ دن ہے جس کا تم سے وعدہ کیا جاتا ہے
+**English (Yusuf Ali):** The Great Terror will bring them no grief: but the angels will meet them (with mutual greetings): "This is your Day,- (the Day) that ye were promised."
 
 [Open on Quran.com](https://quran.com/21/103)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [warn of] the Day the Horn will be blown, and whoever is in the heavens and whoever is on the earth will be terrified except whom Allāh wills. And all will come to Him humbled.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس روز صور پھونکا جائے گا تو جو لوگ آسمانوں اور زمین میں ہیں سب گھبرا اُٹھیں گے مگر وہ جسے خدا چاہے اور سب اس کے پاس عاجز ہو کر چلے آئیں گے
+**English (Yusuf Ali):** And the Day that the Trumpet will be sounded - then will be smitten with terror those who are in the heavens, and those who are on earth, except such as Allah will please (to exempt): and all shall come to His (Presence) as beings conscious of their lowliness.
 
 [Open on Quran.com](https://quran.com/27/87)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Whoever comes [at Judgement] with a good deed will have better than it, and they, from the terror of that Day, will be safe.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو شخص نیکی لےکر آئے گا تو اس کے لئے اس سے بہتر (بدلہ تیار) ہے اور ایسے لوگ (اُس روز) گھبراہٹ سے بےخوف ہوں گے
+**English (Yusuf Ali):** If any do good, good will (accrue) to them therefrom; and they will be secure from terror that Day.
 
 [Open on Quran.com](https://quran.com/27/89)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And intercession does not benefit with Him except for one whom He permits. [And those wait] until, when terror is removed from their hearts, they will say [to one another], "What has your Lord said?" They will say, "The truth." And He is the Most High, the Grand.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا کے ہاں (کسی کے لئے) سفارش فائدہ نہ دے گی مگر اس کے لئے جس کے بارے میں وہ اجازت بخشے۔ یہاں تک کہ جب ان کے دلوں سے اضطراب دور کردیا جائے گا تو کہیں گے تمہارے پروردگار نے کیا فرمایا ہے۔ (فرشتے) کہیں گے کہ حق (فرمایا ہے) اور وہ عالی رتبہ اور گرامی قدر ہے
+**English (Yusuf Ali):** "No intercession can avail in His Presence, except for those for whom He has granted permission. So far (is this the case) that, when terror is removed from their hearts (at the Day of Judgment, then) will they say, 'what is it that your Lord commanded?' they will say, 'That which is true and just; and He is the Most High Most Great'."
 
 [Open on Quran.com](https://quran.com/34/23)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you could see when they are terrified but there is no escape, and they will be seized from a place nearby.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کاش تم دیکھو جب یہ گھبرا جائیں گے تو (عذاب سے) بچ نہیں سکیں گے اور نزدیک ہی سے پکڑ لئے جائیں گے
+**English (Yusuf Ali):** If thou couldst but see when they will quake with terror; but then there will be no escape (for them), and they will be seized from a position (quite) near.
 
 [Open on Quran.com](https://quran.com/34/51)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When they entered upon David and he was alarmed by them? They said, "Fear not. [We are] two adversaries, one of whom has wronged the other, so judge between us with truth and do not exceed [it] and guide us to the sound path.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس وقت وہ داؤد کے پاس آئے تو وہ ان سے گھبرا گئے انہوں نے کہا کہ خوف نہ کیجیئے۔ ہم دونوں کا ایک مقدمہ ہے کہ ہم میں سے ایک نے دوسرے پر زیادتی کی ہے تو آپ ہم میں انصاف کا فیصلہ کر دیجیئے اور بےانصافی نہ کیجیئے گا اور ہم کو سیدھا رستہ دکھا دیجیئے
+**English (Yusuf Ali):** When they entered the presence of David, and he was terrified of them, they said: "Fear not: we are two disputants, one of whom has wronged the other: Decide now between us with truth, and treat us not with injustice, but guide us to the even Path..
 
 [Open on Quran.com](https://quran.com/38/22)
 

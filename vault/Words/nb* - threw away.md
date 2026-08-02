@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:100 · [[002 Al-Baqarah]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Is it not [true] that every time they took a covenant a party of them threw it away? But, [in fact], most of them do not believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں نے جب (خدا سے) عہد واثق کیا تو ان میں سے ایک فریق نے اس کو (کسی چیز کی طرح) پھینک دیا۔ حقیقت یہ ہے کہ ان میں اکثر بے ایمان ہیں
+**English (Yusuf Ali):** Is it not (the case) that every time they make a covenant, some party among them throw it aside?- Nay, Most of them are faithless.
 
 [Open on Quran.com](https://quran.com/2/100)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when a messenger from Allāh came to them confirming that which was with them, a party of those who had been given the Scripture threw the Scripture of Allāh [i.e., the Torah] behind their backs as if they did not know [what it contained].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کے پاس الله کی طرف سے پیغمبر (آخرالزماں) آئے، اور وہ ان کی (آسمانی) کتاب کی بھی تصدیق کرتے ہیں تو جن لوگوں کو کتاب دی گئی تھی، ان میں سے ایک جماعت نے خدا کی کتاب کو پیٹھ پیچھے پھینک دیا، گویا وہ جانتے ہی نہیں
+**English (Yusuf Ali):** And when there came to them a messenger from Allah, confirming what was with them, a party of the people of the Book threw away the Book of Allah behind their backs, as if (it had been something) they did not know!
 
 [Open on Quran.com](https://quran.com/2/101)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], when Allāh took a covenant from those who were given the Scripture, [saying], "You must make it clear [i.e., explain it] to the people and not conceal it." But they threw it away behind their backs and exchanged it for a small price. And wretched is that which they purchased.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب خدا نے ان لوگوں سے جن کو کتاب عنایت کی گئی تھی اقرار کرلیا کہ (جو کچھ اس میں لکھا ہے) اسے صاف صاف بیان کرتے رہنا۔ اور اس (کی کسی بات) کو نہ چھپانا تو انہں نے اس کو پس پشت پھینک دیا اور اس کے بدلے تھوڑی سی قیمت حاصل کی۔ یہ جو کچھ حاصل کرتے ہیں برا ہے
+**English (Yusuf Ali):** And remember Allah took a covenant from the People of the Book, to make it known and clear to mankind, and not to hide it; but they threw it away behind their backs, and purchased with it some miserable gain! And vile was the bargain they made!
 
 [Open on Quran.com](https://quran.com/3/187)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If you [have reason to] fear from a people betrayal, throw [their treaty] back to them, [putting you] on equal terms. Indeed, Allāh does not like traitors.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو کسی قوم سے دغا بازی کا خوف ہو تو (ان کا عہد) انہیں کی طرف پھینک دو (اور) برابر (کا جواب دو) کچھ شک نہیں کہ خدا دغابازوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** If thou fearest treachery from any group, throw back (their covenant) to them, (so as to be) on equal terms: for Allah loveth not the treacherous.
 
 [Open on Quran.com](https://quran.com/8/58)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "I saw what they did not see, so I took a handful [of dust] from the track of the messenger and threw it, and thus did my soul entice me."
 
-**Urdu (Fatah Muhammad Jalandhari):** اس نے کہا کہ میں نے ایسی چیز دیکھی جو اوروں نے نہیں دیکھی تو میں نے فرشتے کے نقش پا سے (مٹی کی) ایک مٹھی بھر لی۔ پھر اس کو (بچھڑے کے قالب میں) ڈال دیا اور مجھے میرے جی نے (اس کام کو) اچھا بتایا
+**English (Yusuf Ali):** He replied: "I saw what they saw not: so I took a handful (of dust) from the footprint of the Messenger, and threw it (into the calf): thus did my soul suggest to me."
 
 [Open on Quran.com](https://quran.com/20/96)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We took him and his soldiers and threw them into the sea. So see how was the end of the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے اُن کو اور اُن کے لشکروں کو پکڑلیا اور دریا میں ڈال دیا۔ سو دیکھ لو ظالموں کا کیسا انجام ہوا
+**English (Yusuf Ali):** So We seized him and his hosts, and We flung them into the sea: Now behold what was the end of those who did wrong!
 
 [Open on Quran.com](https://quran.com/28/40)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But We threw him onto the open shore while he was ill.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے ان کو جب کہ وہ بیمار تھے فراخ میدان میں ڈال دیا
+**English (Yusuf Ali):** But We cast him forth on the naked shore in a state of sickness,
 
 [Open on Quran.com](https://quran.com/37/145)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We took him and his soldiers and cast them into the sea, and he was blameworthy.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے اس کو اور اس کے لشکروں کو پکڑ لیا اور ان کو دریا میں پھینک دیا اور وہ کام ہی قابل ملامت کرتا تھا
+**English (Yusuf Ali):** So We took him and his forces, and threw them into the sea; and his was the blame.
 
 [Open on Quran.com](https://quran.com/51/40)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If not that a favor [i.e., mercy] from his Lord overtook him, he would have been thrown onto the naked shore while he was censured.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تمہارے پروردگار کی مہربانی ان کی یاوری نہ کرتی تو وہ چٹیل میدان میں ڈال دیئے جاتے اور ان کا حال ابتر ہوجاتا
+**English (Yusuf Ali):** Had not Grace from his Lord reached him, he would indeed have been cast off on the naked shore, in disgrace.
 
 [Open on Quran.com](https://quran.com/68/49)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** No! He will surely be thrown into the Crusher.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہر گز نہیں وہ ضرور حطمہ میں ڈالا جائے گا
+**English (Yusuf Ali):** By no means! He will be sure to be thrown into That which Breaks to Pieces,
 
 [Open on Quran.com](https://quran.com/104/4)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:61 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when you said, "O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions." [Moses] said, "Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked." And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے کہا کہ موسیٰ! ہم سے ایک (ہی) کھانے پر صبر نہیں ہو سکتا تو اپنے پروردگار سے دعا کیجئے کہ ترکاری اور ککڑی اور گیہوں اور مسور اور پیاز (وغیرہ) جو نباتات زمین سے اُگتی ہیں، ہمارے لیے پیدا کر دے۔ انہوں نے کہا کہ بھلا عمدہ چیزیں چھوڑ کر ان کے عوض ناقص چیزیں کیوں چاہتے ہوں۔ (اگر یہی چیزیں مطلوب ہیں) تو کسی شہر میں جا اترو، وہاں جو مانگتے ہو، مل جائے گا۔ اور (آخرکار) ذلت (ورسوائی) اور محتاجی (وبے نوائی) ان سے چمٹا دی گئی اور وہ الله کے غضب میں گرفتار ہو گئے۔ یہ اس لیے کہ وہ الله کی آیتوں سے انکار کرتے تھے اور (اس کے) نبیوں کو ناحق قتل کر دیتے تھے۔ (یعنی) یہ اس لیے کہ نافرمانی کئے جاتے اور حد سے بڑھے جاتے تھے
+**English (Yusuf Ali):** And remember ye said: "O Moses! we cannot endure one kind of food (always); so beseech thy Lord for us to produce for us of what the earth groweth, -its pot-herbs, and cucumbers, Its garlic, lentils, and onions." He said: "Will ye exchange the better for the worse? Go ye down to any town, and ye shall find what ye want!" They were covered with humiliation and misery; they drew on themselves the wrath of Allah. This because they went on rejecting the Signs of Allah and slaying His Messengers without just cause. This because they rebelled and went on transgressing.
 
 [Open on Quran.com](https://quran.com/2/61)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We inspired to Moses and his brother, "Settle your people in Egypt in houses and make your houses [facing the] qiblah and establish prayer and give good tidings to the believers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ اور اس کے بھائی کی طرف وحی بھیجی کہ اپنے لوگوں کے لیے مصر میں گھر بناؤ اور اپنے گھروں کو قبلہ (یعنی مسجدیں) ٹھہراؤ اور نماز پڑھو۔ اور مومنوں کو خوشخبری سنادو
+**English (Yusuf Ali):** We inspired Moses and his brother with this Message: "Provide dwellings for your people in Egypt, make your dwellings into places of worship, and establish regular prayers: and give glad tidings to those who believe!"
 
 [Open on Quran.com](https://quran.com/10/87)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the one from Egypt who bought him said to his wife, "Make his residence comfortable. Perhaps he will benefit us, or we will adopt him as a son." And thus, We established Joseph in the land that We might teach him the interpretation of events [i.e., dreams]. And Allāh is predominant over His affair, but most of the people do not know.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مصر میں جس شخص نے اس کو خریدا اس نے اپنی بیوی سے (جس کا نام زلیخا تھا) کہا کہ اس کو عزت واکرام سے رکھو عجب نہیں کہ یہ ہمیں فائدہ دے یا ہم اسے بیٹا بنالیں۔ اس طرح ہم نے یوسف کو سرزمین (مصر) میں جگہ دی اور غرض یہ تھی کہ ہم ان کو (خواب کی) باتوں کی تعبیر سکھائیں اور خدا اپنے کام پر غالب ہے لیکن اکثر لوگ نہیں جانتے
+**English (Yusuf Ali):** The man in Egypt who bought him, said to his wife: "Make his stay (among us) honourable: may be he will bring us much good, or we shall adopt him as a son." Thus did We establish Joseph in the land, that We might teach him the interpretation of stories (and events). And Allah hath full power and control over His affairs; but most among mankind know it not.
 
 [Open on Quran.com](https://quran.com/12/21)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when they entered upon Joseph, he took his parents to himself [i.e., embraced them] and said, "Enter Egypt, Allāh willing, safe [and secure]."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب یہ (سب لوگ) یوسف کے پاس پہنچے تو یوسف نے اپنے والدین کو اپنے پاس بٹھایا اور کہا مصر میں داخل ہو جائیے خدا نے چاہا تو جمع خاطر سے رہیئے گا
+**English (Yusuf Ali):** Then when they entered the presence of Joseph, he provided a home for his parents with himself, and said: "Enter ye Egypt (all) in safety if it please Allah."
 
 [Open on Quran.com](https://quran.com/12/99)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Pharaoh called out among his people; he said, "O my people, does not the kingdom of Egypt belong to me, and these rivers flowing beneath me; then do you not see?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور فرعون نے اپنی قوم سے پکار کر کہا کہ اے قوم کیا مصر کی حکومت میرے ہاتھ میں نہیں ہے۔ اور یہ نہریں جو میرے (محلوں کے) نیچے بہہ رہی ہیں (میری نہیں ہیں) کیا تم دیکھتے نہیں
+**English (Yusuf Ali):** And Pharaoh proclaimed among his people, saying: "O my people! Does not the dominion of Egypt belong to me, (witness) these streams flowing underneath my (palace)? What! see ye not then?
 
 [Open on Quran.com](https://quran.com/43/51)
 

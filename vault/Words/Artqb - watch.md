@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:93 · [[011 Hud]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And O my people, work according to your position; indeed, I am working. You are going to know to whom will come a punishment that will disgrace him and who is a liar. So watch; indeed, I am with you a watcher, [awaiting the outcome]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور برادران ملت! تم اپنی جگہ کام کیے جاؤ میں (اپنی جگہ) کام کیے جاتا ہوں۔ تم کو عنقریب معلوم ہوجائے گا کہ رسوا کرنے والا عذاب کس پر آتا ہے اور جھوٹا کون ہے اور تم بھی انتظار کرو، میں بھی تمہارے ساتھ انتظار کرتا ہوں
+**English (Yusuf Ali):** "And O my people! Do whatever ye can: I will do (my part): Soon will ye know who it is on whom descends the penalty of ignominy; and who is a liar! and watch ye! for I too am watching with you!"
 
 [Open on Quran.com](https://quran.com/11/93)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then watch for the Day when the sky will bring a visible smoke
 
-**Urdu (Fatah Muhammad Jalandhari):** تو اس دن کا انتظار کرو کہ آسمان سے صریح دھواں نکلے گا
+**English (Yusuf Ali):** Then watch thou for the Day that the sky will bring forth a kind of smoke (or mist) plainly visible,
 
 [Open on Quran.com](https://quran.com/44/10)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So watch, [O Muḥammad]; indeed, they are watching [for your end].
 
-**Urdu (Fatah Muhammad Jalandhari):** پس تم بھی انتظار کرو یہ بھی انتظار کر رہے ہیں
+**English (Yusuf Ali):** So wait thou and watch; for they (too) are waiting.
 
 [Open on Quran.com](https://quran.com/44/59)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, We are sending the she-camel as trial for them, so watch them and be patient.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے صالح) ہم ان کی آزمائش کے لئے اونٹنی بھیجنے والے ہیں تو تم ان کو دیکھتے رہو اور صبر کرو
+**English (Yusuf Ali):** For We will send the she-camel by way of trial for them. So watch them, (O Salih), and possess thyself in patience!
 
 [Open on Quran.com](https://quran.com/54/27)
 

@@ -14,31 +14,31 @@ The Tidings · 40 ayahs
 
 ## Words in this surah (graph)
 
-- [[k*Ab - liar]] — `كَذّاب` · liar
 - [[mAb - place return]] — `مَآب` · place return
-- [[nbAt - vegetation]] — `نَبات` · vegetation
-- [[bnY - children]] — `بُنَىّ` · children
-- [[TAgy - transgressing]] — `طاغي` · transgressing
-- [[qAl - say]] — `قالَ` · say
-- [[mA' - water]] — `ماء` · water
-- [[rwH - spirit]] — `رُوح` · spirit
-- [[EZym - great]] — `عَظِيم` · great
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[Hmym - scalding water]] — `حَمِيم` · scalding water
-- [[mxtlf - various]] — `مُخْتَلِف` · various
-- [[fwj - troop]] — `فَوْج` · troop
-- [[nZr - see]] — `نَظَرَ` · see
-- [[yd - hands]] — `يَد` · hands
+- [[k*Ab - liar]] — `كَذّاب` · liar
+- [[brd - coolness]] — `بَرْد` · coolness
+- [[lyl - night]] — `لَيْل` · night
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[>n*r - warn]] — `أَنذَرَ` · warn
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[zAd - increase]] — `زادَ` · increase
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
-- [[>wtAd - stakes]] — `أَوْتاد` · stakes
-- [[nhAr - day]] — `نَهار` · day
-- [[nfx - will blown]] — `نَفَخَ` · will blown
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[yd - hands]] — `يَد` · hands
+- [[lgw - vain talk]] — `لَغْو` · vain talk
+- [[mA' - water]] — `ماء` · water
+- [[EZym - great]] — `عَظِيم` · great
+- [[Hq - truth]] — `حَقّ` · truth
+- [[>tY - comes them]] — `أَتَى` · comes them
 - [[>trAb - well-matched]] — `أَتْراب` · well-matched
+- [[smE - hearing]] — `سَمْع` · hearing
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[Enb - grapes]] — `عِنَب` · grapes
+- [[zAd - increase]] — `زادَ` · increase
+- [[mlkt - possess]] — `مَلَكَتْ` · possess
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[rb - lord]] — `رَبّ` · lord
+- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
+- [[>*n - ears]] — `أُذُن` · ears
+- [[jzA' - recompense]] — `جَزاء` · recompense
+- [[ETA' - gift]] — `عَطاء` · gift
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 
 ## Roots
 

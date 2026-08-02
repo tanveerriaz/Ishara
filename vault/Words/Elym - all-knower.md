@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:29 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who created for you all of that which is on the earth. Then He directed Himself to the heaven, [His being above all creation], and made them seven heavens, and He is Knowing of all things.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سب چیزیں جو زمین میں ہیں تمہارے لیے پیدا کیں پھر آسمان کی طرف متوجہ ہوا تو ان کو ٹھیک سات آسمان بنا دیا اور وہ ہر چیز سے خبردار ہے
+**English (Yusuf Ali):** It is He Who hath created for you all things that are on earth; Moreover His design comprehended the heavens, for He gave order and perfection to the seven firmaments; and of all things He hath perfect knowledge.
 
 [Open on Quran.com](https://quran.com/2/29)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "Exalted are You; we have no knowledge except what You have taught us. Indeed, it is You who is the Knowing, the Wise."
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا، تو پاک ہے۔ جتنا علم تو نے ہمیں بخشا ہے، اس کے سوا ہمیں کچھ معلوم نہیں۔ بے شک تو دانا (اور) حکمت والا ہے
+**English (Yusuf Ali):** They said: "Glory to Thee, of knowledge We have none, save what Thou Hast taught us: In truth it is Thou Who art perfect in knowledge and wisdom."
 
 [Open on Quran.com](https://quran.com/2/32)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But never will they wish for it, ever, because of what their hands have put forth. And Allāh is Knowing of the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** لیکن ان اعمال کی وجہ سے، جو ان کے ہاتھ آگے بھیج چکے ہیں، یہ کبھی اس کی آرزو نہیں کریں گے، اور خدا ظالموں سے (خوب) واقف ہے
+**English (Yusuf Ali):** But they will never seek for death, on account of the (sins) which their hands have sent on before them. and Allah is well-acquainted with the wrong-doers.
 
 [Open on Quran.com](https://quran.com/2/95)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to Allāh belongs the east and the west. So wherever you [might] turn, there is the Face of Allāh. Indeed, Allāh is all-Encompassing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مشرق اور مغرب سب خدا ہی کا ہے۔ تو جدھر تم رخ کرو۔ ادھر خدا کی ذات ہے۔ بے شک خدا صاحبِ وسعت اور باخبر ہے
+**English (Yusuf Ali):** To Allah belong the east and the West: Whithersoever ye turn, there is the presence of Allah. For Allah is all-Pervading, all-Knowing.
 
 [Open on Quran.com](https://quran.com/2/115)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when Abraham was raising the foundations of the House and [with him] Ishmael, [saying], "Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم اور اسمٰعیل بیت الله کی بنیادیں اونچی کر رہے تھے (تو دعا کئے جاتے تھے کہ) اے پروردگار، ہم سے یہ خدمت قبول فرما۔ بےشک تو سننے والا (اور) جاننے والا ہے
+**English (Yusuf Ali):** And remember Abraham and Isma'il raised the foundations of the House (With this prayer): "Our Lord! Accept (this service) from us: For Thou art the All-Hearing, the All-knowing.
 
 [Open on Quran.com](https://quran.com/2/127)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So if they believe in the same as you believe in, then they have been [rightly] guided; but if they turn away, they are only in dissension, and Allāh will be sufficient for you against them. And He is the Hearing, the Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو اگر یہ لوگ بھی اسی طرح ایمان لے آئیں جس طرح تم ایمان لے آئے ہو تو ہدایت یاب ہو جائیں اور اگر منہ پھیر لیں (اور نہ مانیں) تو وہ (تمھارے) مخالف ہیں اور ان کے مقابلے میں تمھیں خدا کافی ہے۔ اور وہ سننے والا (اور) جاننے والا ہے
+**English (Yusuf Ali):** So if they believe as ye believe, they are indeed on the right path; but if they turn back, it is they who are in schism; but Allah will suffice thee as against them, and He is the All-Hearing, the All-Knowing.
 
 [Open on Quran.com](https://quran.com/2/137)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, aṣ-Ṣafā and al-Marwah are among the symbols of Allāh. So whoever makes ḥajj [pilgrimage] to the House or performs ʿumrah - there is no blame upon him for walking between them. And whoever volunteers good - then indeed, Allāh is Appreciative and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** بےشک (کوہ) صفا اور مروہ خدا کی نشانیوں میں سے ہیں۔ تو جو شخص خانہٴ کعبہ کا حج یا عمرہ کرے اس پر کچھ گناہ نہیں کہ دونوں کا طواف کرے۔ (بلکہ طواف ایک قسم کا نیک کام ہے) اور جو کوئی نیک کام کرے تو خدا قدر شناس اور دانا ہے
+**English (Yusuf Ali):** Behold! Safa and Marwa are among the Symbols of Allah. So if those who visit the House in the Season or at other times, should compass them round, it is no sin in them. And if any one obeyeth his own impulse to good,- be sure that Allah is He Who recogniseth and knoweth.
 
 [Open on Quran.com](https://quran.com/2/158)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then whoever alters it [i.e., the bequest] after he has heard it - the sin is only upon those who have altered it. Indeed, Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو شخص وصیت کو سننے کے بعد بدل ڈالے تو اس (کے بدلنے) کا گناہ انہیں لوگوں پر ہے جو اس کو بدلیں۔ اور بےشک خدا سنتا جانتا ہے
+**English (Yusuf Ali):** If anyone changes the bequest after hearing it, the guilt shall be on those who make the change. For Allah hears and knows (All things).
 
 [Open on Quran.com](https://quran.com/2/181)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They ask you, [O Muḥammad], what they should spend. Say, "Whatever you spend of good is [to be] for parents and relatives and orphans and the needy and the traveler. And whatever you do of good - indeed, Allāh is Knowing of it."
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے پوچھتے ہیں کہ (خدا کی راہ میں) کس طرح کا مال خرچ کریں۔ کہہ دو کہ (جو چاہو خرچ کرو لیکن) جو مال خرچ کرنا چاہو وہ (درجہ بدرجہ اہل استحقاق یعنی) ماں باپ اور قریب کے رشتے داروں کو اور یتیموں کو اور محتاجوں کو اور مسافروں کو (سب کو دو) اور جو بھلائی تم کرو گے خدا اس کو جانتا ہے
+**English (Yusuf Ali):** They ask thee what they should spend (In charity). Say: Whatever ye spend that is good, is for parents and kindred and orphans and those in want and for wayfarers. And whatever ye do that is good, -Allah knoweth it well.
 
 [Open on Quran.com](https://quran.com/2/215)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not make [your oath by] Allāh an excuse against being righteous and fearing Allāh and making peace among people. And Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کے نام کو) اس بات کا حیلہ نہ بنانا کہ (اس کی) قسمیں کھا کھا کر سلوک کرنے اورپرہیزگاری کرنے اور لوگوں میں صلح و سازگاری کرانے سے رک جاؤ۔ اور خدا سب کچھ سنتا اور جانتا ہے
+**English (Yusuf Ali):** And make not Allah's (name) an excuse in your oaths against doing good, or acting rightly, or making peace between persons; for Allah is One Who heareth and knoweth all things.
 
 [Open on Quran.com](https://quran.com/2/224)
 

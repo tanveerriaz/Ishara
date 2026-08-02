@@ -16,29 +16,29 @@ The Believers · 118 ayahs
 
 - [[EZAm - bones]] — `عِظام` · bones
 - [[>n$> - we produced]] — `أَنشَأَ` · we produced
-- [[ySf - they attribute]] — `يَصِفُ` · they attribute
-- [[qAdr - able]] — `قادِر` · able
-- [[E* - seek refuge]] — `عُذْ` · seek refuge
-- [[tEAlY - exalted he]] — `تَعالَى` · exalted he
-- [[myzAn - scales]] — `مِيزان` · scales
 - [[kvyrp - many]] — `كَثِيرَة` · many
-- [[ysArE - hasten]] — `يُسارِعُ` · hasten
-- [[qrAr - settlement]] — `قَرار` · settlement
+- [[trAb - dust]] — `تُراب` · dust
+- [[myzAn - scales]] — `مِيزان` · scales
 - [[gmrp - confusion]] — `غَمَرَة` · confusion
 - [[xyrp - good deeds]] — `خَيْرَة` · good deeds
+- [[E* - seek refuge]] — `عُذْ` · seek refuge
+- [[qrAr - settlement]] — `قَرار` · settlement
 - [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
+- [[ysArE - hasten]] — `يُسارِعُ` · hasten
 - [[rAHm - merciful]] — `راحِم` · merciful
+- [[qAdr - able]] — `قادِر` · able
 - [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
-- [[trAb - dust]] — `تُراب` · dust
-- [[brhAn - proof]] — `بُرْهان` · proof
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[x$yp - fear]] — `خَشْيَة` · fear
+- [[tEAlY - exalted he]] — `تَعالَى` · exalted he
+- [[ySf - they attribute]] — `يَصِفُ` · they attribute
 - [[dEA - call]] — `دَعا` · call
-- [[vqlt - heavy]] — `ثَقُلَتْ` · heavy
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[bSr - vision]] — `بَصَر` · vision
-- [[fAEl - doers]] — `فاعِل` · doers
-- [[sbHAn - glory]] — `سُبْحان` · glory
+- [[nAr - fire]] — `نار` · fire
+- [[lyl - night]] — `لَيْل` · night
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[SyHp - shout]] — `صَيْحَة` · shout
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[xA$E - humbled]] — `خاشِع` · humbled
+- [[Eml - do]] — `عَمِلَ` · do
+- [[DHkt - laugh]] — `ضَحِكَتْ` · laugh
 
 ## Roots
 

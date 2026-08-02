@@ -14,31 +14,31 @@ The Sovereignty · 30 ayahs
 
 ## Words in this surah (graph)
 
-- [[sA' - evil]] — `ساءَ` · evil
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[qAl - say]] — `قالَ` · say
-- [[mA' - water]] — `ماء` · water
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[Anqlb - turns back]] — `انقَلَبَ` · turns back
-- [[nkyr - my rejection]] — `نَكِير` · my rejection
-- [[nfwr - aversion]] — `نُفُور` · aversion
-- [[grwr - delusion]] — `غُرُور` · delusion
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[Tyr - birds]] — `طَيْر` · birds
-- [[gyb - unseen]] — `غَيْب` · unseen
-- [[bSr - vision]] — `بَصَر` · vision
-- [[fwj - troop]] — `فَوْج` · troop
-- [[qbD - withholds]] — `قَبَضْ` · withholds
-- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
-- [[qwl - speech]] — `قَوْل` · speech
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[n*yr - warner]] — `نَذِير` · warner
+- [[SAfp - wings outspread]] — `صافَّة` · wings outspread
+- [[qbl - before]] — `قَبْل` · before
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[wjh - faces]] — `وَجْه` · faces
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
 - [[yd - hands]] — `يَد` · hands
-- [[s>l - ask]] — `سَأَلَ` · ask
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[jnd - hosts]] — `جُند` · hosts
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[lTyf - all-subtle]] — `لَطِيف` · all-subtle
+- [[Eml - do]] — `عَمِلَ` · do
+- [[jhr - loud]] — `جَهْر` · loud
+- [[tbArk - blessed]] — `تَبارَكَ` · blessed
+- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
+- [[nfwr - aversion]] — `نُفُور` · aversion
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[mA' - water]] — `ماء` · water
 - [[jA' - came them]] — `جاءَ` · came them
-- [[krp - return]] — `كَرَّة` · return
-- [[mlk - angels]] — `مَلَك` · angels
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>y - o you]] — `أَيّ` · o you
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[*nb - sins]] — `ذَنب` · sins
 
 ## Roots
 

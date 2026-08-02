@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:49 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when We saved you [i.e., your forefathers] from the people of Pharaoh, who afflicted you with the worst torment, slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (ہمارے ان احسانات کو یاد کرو) جب ہم نے تم کو قومِ فرعون سے نجات بخشی وہ (لوگ) تم کو بڑا دکھ دیتے تھے تمہارے بیٹوں کو تو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
+**English (Yusuf Ali):** And remember, We delivered you from the people of Pharaoh: They set you hard tasks and punishments, slaughtered your sons and let your women-folk live; therein was a tremendous trial from your Lord.
 
 [Open on Quran.com](https://quran.com/2/49)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He only orders you to evil and immorality and to say about Allāh what you do not know.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ تو تم کو برائی اور بےحیائی ہی کے کام کرنے کو کہتا ہے اور یہ بھی کہ خدا کی نسبت ایسی باتیں کہو جن کا تمہیں (کچھ بھی) علم نہیں
+**English (Yusuf Ali):** For he commands you what is evil and shameful, and that ye should say of Allah that of which ye have no knowledge.
 
 [Open on Quran.com](https://quran.com/2/169)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day every soul will find what it has done of good present [before it] and what it has done of evil, it will wish that between itself and that [evil] was a great distance. And Allāh warns you of Himself, and Allāh is Kind to [His] servants."
 
-**Urdu (Fatah Muhammad Jalandhari):** جس دن ہر شخص اپنے اعمال کی نیکی کو موجود پالے گا اور ان کی برائی کو بھی (دیکھ لے گا) تو آرزو کرے گا کہ اے کاش اس میں اور اس برائی میں دور کی مسافت ہو جاتی اور خدا تم کو اپنے (غضب) سے ڈراتا ہے اور خدا اپنے بندوں پر نہایت مہربان ہے
+**English (Yusuf Ali):** "On the Day when every soul will be confronted with all the good it has done, and all the evil it has done, it will wish there were a great distance between it and its evil. But Allah cautions you (To remember) Himself. And Allah is full of kindness to those that serve Him."
 
 [Open on Quran.com](https://quran.com/3/30)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So they returned with favor from Allāh and bounty, no harm having touched them. And they pursued the pleasure of Allāh, and Allāh is the possessor of great bounty.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر وہ خدا کی نعمتوں اور اس کے فضل کے ساتھ (خوش وخرم) واپس آئے ان کو کسی طرح کا ضرر نہ پہنچا۔ اور وہ خدا کی خوشنودی کے تابع رہے۔ اور خدا بڑے فضل کا مالک ہے
+**English (Yusuf Ali):** And they returned with Grace and bounty from Allah: no harm ever touched them: For they followed the good pleasure of Allah: And Allah is the Lord of bounties unbounded.
 
 [Open on Quran.com](https://quran.com/3/174)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The repentance accepted by Allāh is only for those who do wrong in ignorance [or carelessness] and then repent soon [after]. It is those to whom Allāh will turn in forgiveness, and Allāh is ever Knowing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا انہیں لوگوں کی توبہ قبول فرماتا ہے جو نادانی سے بری حرکت کر بیٹھے ہیں۔ پھر جلد توبہ قبول کرلیتے ہیں پس ایسے لوگوں پر خدا مہربانی کرتا ہے۔ اور وہ سب کچھ جانتا (اور) حکمت والا ہے
+**English (Yusuf Ali):** Allah accept the repentance of those who do evil in ignorance and repent soon afterwards; to them will Allah turn in mercy: For Allah is full of knowledge and wisdom.
 
 [Open on Quran.com](https://quran.com/4/17)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever does a wrong or wrongs himself but then seeks forgiveness of Allāh will find Allāh Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص کوئی برا کام کر بیٹھے یا اپنے حق میں ظلم کرلے پھر خدا سے بخشش مانگے تو خدا کو بخشنے والا اور مہربان پائے گا
+**English (Yusuf Ali):** If any one does evil or wrongs his own soul but afterwards seeks Allah's forgiveness, he will find Allah Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/4/110)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It [i.e., Paradise] is not [obtained] by your wishful thinking nor by that of the People of the Scripture. Whoever does a wrong will be recompensed for it, and he will not find besides Allāh a protector or a helper.
 
-**Urdu (Fatah Muhammad Jalandhari):** (نجات) نہ تو تمہاری آرزوؤں پر ہے اور نہ اہل کتاب کی آرزوؤں پر۔ جو شخص برے عمل کرے گا اسے اسی (طرح) کا بدلا دیا جائے گا اور وہ خدا کے سوا نہ کسی کو حمایتی پائے گا اور نہ مددگار
+**English (Yusuf Ali):** Not your desires, nor those of the People of the Book (can prevail): whoever works evil, will be requited accordingly. Nor will he find, besides Allah, any protector or helper.
 
 [Open on Quran.com](https://quran.com/4/123)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh does not like the public mention of evil except by one who has been wronged. And ever is Allāh Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا اس بات کو پسند نہیں کرتا کہ کوئی کسی کو علانیہ برا کہے مگر وہ جو مظلوم ہو۔ اور خدا (سب کچھ) سنتا (اور) جانتا ہے
+**English (Yusuf Ali):** Allah loveth not that evil should be noised abroad in public speech, except where injustice hath been done; for Allah is He who heareth and knoweth all things.
 
 [Open on Quran.com](https://quran.com/4/148)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If [instead] you show [some] good or conceal it or pardon an offense - indeed, Allāh is ever Pardoning and Competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم لوگ بھلائی کھلم کھلا کرو گے یا چھپا کر یا برائی سے درگزر کرو گے تو خدا بھی معاف کرنے والا (اور) صاحب قدرت ہے
+**English (Yusuf Ali):** Whether ye publish a good deed or conceal it or cover evil with pardon, verily Allah doth blot out (sins) and hath power (in the judgment of values).
 
 [Open on Quran.com](https://quran.com/4/149)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when those come to you who believe in Our verses, say, "Peace be upon you. Your Lord has decreed upon Himself mercy: that any of you who does wrong out of ignorance and then repents after that and corrects himself - indeed, He is Forgiving and Merciful."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تمہارے پاس ایسے لوگ آیا کریں جو ہماری آیتوں پر ایمان لاتے ہیں تو (ان سے) سلام علیکم کہا کرو خدا نے اپنی ذات (پاک) پر رحمت کو لازم کرلیا ہے کہ جو کوئی تم میں نادانی سے کوئی بری حرکت کر بیٹھے پھر اس کے بعد توبہ کرلے اور نیکوکار ہوجائے تو وہ بخشنے والا مہربان ہے
+**English (Yusuf Ali):** When those come to thee who believe in Our signs, Say: "Peace be on you: Your Lord hath inscribed for Himself (the rule of) mercy: verily, if any of you did evil in ignorance, and thereafter repented, and amend (his conduct), lo! He is Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/6/54)
 

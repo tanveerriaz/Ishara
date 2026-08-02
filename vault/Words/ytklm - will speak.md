@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:105 · [[011 Hud]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day it comes no soul will speak except by His permission. And among them will be the wretched and the prosperous.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس روز وہ آجائے گا تو کوئی متنفس خدا کے حکم کے بغیر بول بھی نہیں سکے گا۔ پھر ان میں سے کچھ بدبخت ہوں گے اور کچھ نیک بخت
+**English (Yusuf Ali):** The day it arrives, no soul shall speak except by His leave: of those (gathered) some will be wretched and some will be blessed.
 
 [Open on Quran.com](https://quran.com/11/105)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And why, when you heard it, did you not say, "It is not for us to speak of this. Exalted are You, [O Allāh]; this is a great slander"?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے اسے سنا تھا تو کیوں نہ کہہ دیا کہ ہمیں شایاں نہیں کہ ایسی بات زبان پر نہ لائیں۔ (پروردگار) تو پاک ہے یہ تو (بہت) بڑا بہتان ہے
+**English (Yusuf Ali):** And why did ye not, when ye heard it, say? - "It is not right of us to speak of this: Glory to Allah! this is a most serious slander!"
 
 [Open on Quran.com](https://quran.com/24/16)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or have We sent down to them an authority [i.e., a proof or scripture], and it speaks of what they have been associating with Him?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا ہم نے ان پر کوئی ایسی دلیل نازل کی ہے کہ اُن کو خدا کے ساتھ شرک کرنا بتاتی ہے
+**English (Yusuf Ali):** Or have We sent down authority to them, which points out to them the things to which they pay part-worship?
 
 [Open on Quran.com](https://quran.com/30/35)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day that the Spirit [i.e., Gabriel] and the angels will stand in rows, they will not speak except for one whom the Most Merciful permits, and he will say what is correct.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس دن روح (الامین) اور فرشتے صف باندھ کر کھڑے ہوں گے تو کوئی بول نہ سکے گا مگر جس کو (خدائے رحمٰن) اجازت بخشے اور اس نے بات بھی درست کہی ہو
+**English (Yusuf Ali):** The Day that the Spirit and the angels will stand forth in ranks, none shall speak except any who is permitted by (Allah) Most Gracious, and He will say what is right.
 
 [Open on Quran.com](https://quran.com/78/38)
 

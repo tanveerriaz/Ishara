@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 87:11 · [[087 Al-Ala]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But the wretched one will avoid it
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (بےخوف) بدبخت پہلو تہی کرے گا
+**English (Yusuf Ali):** But it will be avoided by those most unfortunate ones,
 
 [Open on Quran.com](https://quran.com/87/11)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When the most wretched of them was sent forth.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب ان میں سے ایک نہایت بدبخت اٹھا
+**English (Yusuf Ali):** Behold, the most wicked man among them was deputed (for impiety).
 
 [Open on Quran.com](https://quran.com/91/12)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** None will [enter to] burn therein except the most wretched one
 
-**Urdu (Fatah Muhammad Jalandhari):** اس میں وہی داخل ہو گا جو بڑا بدبخت ہے
+**English (Yusuf Ali):** None shall reach it but those most unfortunate ones
 
 [Open on Quran.com](https://quran.com/92/15)
 

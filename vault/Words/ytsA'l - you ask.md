@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:1 · [[004 An-Nisa]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allāh, through whom you ask one another, and the wombs. Indeed Allāh is ever, over you, an Observer.
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو اپنے پروردگار سے ڈرو جس نے تم کو ایک شخص سے پیدا کیا (یعنی اول) اس سے اس کا جوڑا بنایا۔ پھر ان دونوں سے کثرت سے مرد وعورت (پیدا کرکے روئے زمین پر) پھیلا دیئے۔ اور خدا سے جس کے نام کو تم اپنی حاجت بر آری کا ذریعہ بناتے ہو ڈرو اور (قطع مودت) ارحام سے (بچو) کچھ شک نہیں کہ خدا تمہیں دیکھ رہا ہے
+**English (Yusuf Ali):** O mankind! reverence your Guardian-Lord, who created you from a single person, created, of like nature, His mate, and from them twain scattered (like seeds) countless men and women;- reverence Allah, through whom ye demand your mutual (rights), and (reverence) the wombs (That bore you): for Allah ever watches over you.
 
 [Open on Quran.com](https://quran.com/4/1)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And similarly, We awakened them that they might question one another. Said a speaker from among them, "How long have you remained [here]?" They said, "We have remained a day or part of a day." They said, "Your Lord is most knowing of how long you remained. So send one of you with this silver coin of yours to the city and let him look to which is the best of food and bring you provision from it and let him be cautious. And let no one be aware of you.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس طرح ہم نے ان کو اٹھایا تاکہ آپس میں ایک دوسرے سے دریافت کریں۔ ایک کہنے والے نے کہا کہ تم (یہاں) کتنی مدت رہے؟ انہوں نے کہا کہ ایک دن یا اس سے بھی کم۔ انہوں نے کہا کہ جتنی مدت تم رہے ہو تمہارا پروردگار ہی اس کو خوب جانتا ہے۔ تو اپنے میں سے کسی کو یہ روپیہ دے کر شہر کو بھیجو وہ دیکھے کہ نفیس کھانا کون سا ہے تو اس میں سے کھانا لے آئے اور آہستہ آہستہ آئے جائے اور تمہارا حال کسی کو نہ بتائے
+**English (Yusuf Ali):** Such (being their state), we raised them up (from sleep), that they might question each other. Said one of them, "How long have ye stayed (here)?" They said, "We have stayed (perhaps) a day, or part of a day." (At length) they (all) said, "Allah (alone) knows best how long ye have stayed here.... Now send ye then one of you with this money of yours to the town: let him find out which is the best food (to be had) and bring some to you, that (ye may) satisfy your hunger therewith: And let him behave with care and courtesy, and let him not inform any one about you.
 
 [Open on Quran.com](https://quran.com/18/19)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when the Horn is blown, no relationship will there be among them that Day, nor will they ask about one another.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر جب صور پھونکا جائے گا تو نہ تو ان میں قرابتیں ہوں گی اور نہ ایک دوسرے کو پوچھیں گے
+**English (Yusuf Ali):** Then when the Trumpet is blown, there will be no more relationships between them that Day, nor will one ask after another!
 
 [Open on Quran.com](https://quran.com/23/101)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But the information will be unapparent to them that Day, so they will not [be able to] ask one another.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو وہ اس روز خبروں سے اندھے ہو جائیں گے، اور آپس میں کچھ بھی پوچھ نہ سکیں گے
+**English (Yusuf Ali):** Then the (whole) story that Day will seem obscure to them (like light to the blind) and they will not be able (even) to question each other.
 
 [Open on Quran.com](https://quran.com/28/66)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will approach one another asking [i.e., blaming] each other.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ایک دوسرے کی طرف رخ کرکے سوال (وجواب) کریں گے
+**English (Yusuf Ali):** And they will turn to one another, and question one another.
 
 [Open on Quran.com](https://quran.com/37/27)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will approach one another, inquiring of each other.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر وہ ایک دوسرے کی طرف رخ کرکے سوال (وجواب) کریں گے
+**English (Yusuf Ali):** Then they will turn to one another and question one another.
 
 [Open on Quran.com](https://quran.com/37/50)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will approach one another, inquiring of each other.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ایک دوسرے کی طرف رخ کرکے آپس میں گفتگو کریں گے
+**English (Yusuf Ali):** They will advance to each other, engaging in mutual enquiry.
 
 [Open on Quran.com](https://quran.com/52/25)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Who will be] in gardens, questioning each other
 
-**Urdu (Fatah Muhammad Jalandhari):** (کہ) وہ باغہائے بہشت میں (ہوں گے اور) پوچھتے ہوں گے
+**English (Yusuf Ali):** (They will be) in Gardens (of Delight): they will question each other,
 
 [Open on Quran.com](https://quran.com/74/40)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** About what are they asking one another?
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ) لوگ کس چیز کی نسبت پوچھتے ہیں؟
+**English (Yusuf Ali):** Concerning what are they disputing?
 
 [Open on Quran.com](https://quran.com/78/1)
 

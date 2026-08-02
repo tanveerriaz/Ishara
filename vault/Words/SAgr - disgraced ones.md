@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:13 · [[007 Al-Araf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "Descend from it [i.e., Paradise], for it is not for you to be arrogant therein. So get out; indeed, you are of the debased."
 
-**Urdu (Fatah Muhammad Jalandhari):** فرمایا تو (بہشت سے) اتر جا تجھے شایاں نہیں کہ یہاں غرور کرے پس نکل جا۔ تو ذلیل ہے
+**English (Yusuf Ali):** (Allah) said: "Get thee down from this: it is not for thee to be arrogant here: get out, for thou art of the meanest (of creatures)."
 
 [Open on Quran.com](https://quran.com/7/13)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they [i.e., Pharaoh and his people] were overcome right there and became debased.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ مغلوب ہوگئے اور ذلیل ہوکر رہ گئے
+**English (Yusuf Ali):** So the (great ones) were vanquished there and then, and were made to look small.
 
 [Open on Quran.com](https://quran.com/7/119)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Fight against those who do not believe in Allāh or in the Last Day and who do not consider unlawful what Allāh and His Messenger have made unlawful and who do not adopt the religion of truth [i.e., Islām] from those who were given the Scripture - [fight] until they give the jizyah willingly while they are humbled.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو اہل کتاب میں سے خدا پر ایمان نہیں لاتے اور نہ روز آخرت پر (یقین رکھتے ہیں) اور نہ ان چیزوں کو حرام سمجھتے ہیں جو خدا اور اس کے رسول نے حرام کی ہیں اور نہ دین حق کو قبول کرتے ہیں ان سے جنگ کرو یہاں تک کہ ذلیل ہوکر اپنے ہاتھ سے جزیہ دیں
+**English (Yusuf Ali):** Fight those who believe not in Allah nor the Last Day, nor hold that forbidden which hath been forbidden by Allah and His Messenger, nor acknowledge the religion of Truth, (even if they are) of the People of the Book, until they pay the Jizya with willing submission, and feel themselves subdued.
 
 [Open on Quran.com](https://quran.com/9/29)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** She said, "That is the one about whom you blamed me. And I certainly sought to seduce him, but he firmly refused; and if he will not do what I order him, he will surely be imprisoned and will be of those debased."
 
-**Urdu (Fatah Muhammad Jalandhari):** تب زلیخا نے کہا یہ وہی ہے جس کے بارے میں تم مجھے طعنے دیتی تھیں۔ اور بےشک میں نے اس کو اپنی طرف مائل کرنا چاہا مگر یہ بچا رہا۔ اور اگر یہ وہ کام نہ کرے گا جو میں اسے کہتی ہوں تو قید کردیا جائے گا اور ذلیل ہوگا
+**English (Yusuf Ali):** She said: "There before you is the man about whom ye did blame me! I did seek to seduce him from his (true) self but he did firmly save himself guiltless!.... and now, if he doth not my bidding, he shall certainly be cast into prison, and (what is more) be of the company of the vilest!"
 
 [Open on Quran.com](https://quran.com/12/32)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Return to them, for we will surely come to them with soldiers that they will be powerless to encounter, and we will surely expel them therefrom in humiliation, and they will be debased."
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کے پاس واپس جاؤ ہم ان پر ایسے لشکر سے حملہ کریں گے جس کے مقابلے کی ان میں طاقت نہ ہوگی اور ان کو وہاں سے بےعزت کرکے نکال دیں گے اور وہ ذلیل ہوں گے
+**English (Yusuf Ali):** "Go back to them, and be sure we shall come to them with such hosts as they will never be able to meet: We shall expel them from there in disgrace, and they will feel humbled (indeed)."
 
 [Open on Quran.com](https://quran.com/27/37)
 

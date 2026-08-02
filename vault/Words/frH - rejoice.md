@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:120 · [[003 Ali Imran]]
 
@@ -50,7 +50,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If good touches you, it distresses them; but if harm strikes you, they rejoice at it. And if you are patient and fear Allāh, their plot will not harm you at all. Indeed, Allāh is encompassing of what they do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تمہیں آسودگی حاصل ہو تو ان کو بری لگتی ہے اور اگر رنج پہنچے تو خوش ہوتے ہیں اور اگر تم تکلیفوں کی برداشت اور (ان سے) کنارہ کشی کرتے رہو گے تو ان کا فریب تمھیں کچھ بھی نقصان نہ پہنچا سکے گا یہ جو کچھ کرتے ہیں خدا اس پر احاطہ کیے ہوئے ہے
+**English (Yusuf Ali):** If aught that is good befalls you, it grieves them; but if some misfortune overtakes you, they rejoice at it. But if ye are constant and do right, not the least harm will their cunning do to you; for Allah Compasseth round about all that they do.
 
 [Open on Quran.com](https://quran.com/3/120)
 
@@ -66,7 +66,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Rejoicing in what Allāh has bestowed upon them of His bounty, and they receive good tidings about those [to be martyred] after them who have not yet joined them - that there will be no fear concerning them, nor will they grieve.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو کچھ خدا نے ان کو اپنے فضل سے بخش رکھا ہے اس میں خوش ہیں۔ اور جو لوگ ان کے پیچھے رہ گئے اور( شہید ہوکر) ان میں شامل نہیں ہوسکے ان کی نسبت خوشیاں منا رہے ہیں کہ (قیامت کے دن) ان کو بھی نہ کچھ خوف ہوگا اور نہ وہ غمناک ہوں گے
+**English (Yusuf Ali):** They rejoice in the bounty provided by Allah: And with regard to those left behind, who have not yet joined them (in their bliss), the (Martyrs) glory in the fact that on them is no fear, nor have they (cause to) grieve.
 
 [Open on Quran.com](https://quran.com/3/170)
 
@@ -82,7 +82,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And never think that those who rejoice in what they have perpetrated and like to be praised for what they did not do - never think them [to be] in safety from the punishment, and for them is a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنے (ناپسند) کاموں سے خوش ہوتے ہیں اور پسندیدہ کام) جو کرتے نہیں ان کے لئے چاہتے ہیں کہ ان ک تعریف کی جائے ان کی نسبت خیال نہ کرنا کہ وہ عذاب سے رستگار ہوجائیں گے۔ اور انہیں درد دینے والا عذاب ہوگا
+**English (Yusuf Ali):** Think not that those who exult in what they have brought about, and love to be praised for what they have not done,- think escape the penalty. For them is a penalty Grievous indeed.
 
 [Open on Quran.com](https://quran.com/3/188)
 
@@ -98,7 +98,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when they forgot that by which they had been reminded, We opened to them the doors of every [good] thing until, when they rejoiced in that which they were given, We seized them suddenly, and they were [then] in despair.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر جب انہوں نے اس نصیحت کو جو ان کو گی گئی تھی فراموش کردیا تو ہم نے ان پر ہر چیز کے دروازے کھول دیئے۔ یہاں تک کہ جب ان چیزوں سے جو ان کو دی گئی تھیں خوب خوش ہوگئے تو ہم نے ان کو ناگہاں پکڑ لیا اور وہ اس وقت مایوس ہو کر رہ گئے
+**English (Yusuf Ali):** But when they forgot the warning they had received, We opened to them the gates of all (good) things, until, in the midst of their enjoyment of Our gifts, on a sudden, We called them to account, when lo! they were plunged in despair!
 
 [Open on Quran.com](https://quran.com/6/44)
 
@@ -114,7 +114,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If good befalls you, it distresses them; but if disaster strikes you, they say, "We took our matter [in hand] before," and turn away while they are rejoicing.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) اگر تم کو آسائش حاصل ہوتی ہے تو ان کو بری لگتی ہے۔ اور کوئی مشکل پڑتی ہے تو کہتے کہ ہم نے اپنا کام پہلے ہیں (درست) کر لیا تھا اور خوشیاں مناتے لوٹ جاتے ہیں
+**English (Yusuf Ali):** If good befalls thee, it grieves them; but if a misfortune befalls thee, they say, "We took indeed our precautions beforehand," and they turn away rejoicing.
 
 [Open on Quran.com](https://quran.com/9/50)
 
@@ -130,7 +130,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who remained behind rejoiced in their staying [at home] after [the departure of] the Messenger of Allāh and disliked to strive with their wealth and their lives in the cause of Allāh and said, "Do not go forth in the heat." Say, "The fire of Hell is more intense in heat" - if they would but understand.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (غزوہٴ تبوک میں) پیچھے رہ گئے وہ پیغمبر خدا (کی مرضی) کے خلاف بیٹھے رہنے سے خوش ہوئے اور اس بات کو ناپسند کیا کہ خدا کی راہ میں اپنے مال اور جان سے جہاد کریں۔ اور (اوروں سے بھی) کہنے لگے کہ گرمی میں مت نکلنا۔ (ان سے) کہہ دو کہ دوزخ کی آگ اس سے کہیں زیادہ گرم ہے۔ کاش یہ (اس بات) کو سمجھتے
+**English (Yusuf Ali):** Those who were left behind (in the Tabuk expedition) rejoiced in their inaction behind the back of the Messenger of Allah: they hated to strive and fight, with their goods and their persons, in the cause of Allah: they said, "Go not forth in the heat." Say, "The fire of Hell is fiercer in heat." If only they could understand!
 
 [Open on Quran.com](https://quran.com/9/81)
 
@@ -146,7 +146,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who enables you to travel on land and sea until, when you are in ships and they sail with them by a good wind and they rejoice therein, there comes a storm wind and the waves come upon them from every place and they expect to be engulfed, they supplicate Allāh, sincere to Him in religion, "If You should save us from this, we will surely be among the thankful."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جو تم کو جنگل اور دریا میں چلنے پھرنے اور سیر کرنے کی توفیق دیتا ہے۔ یہاں تک کہ جب تم کشتیوں میں (سوار) ہوتے اور کشتیاں پاکیزہ ہوا (کے نرم نرم جھونکوں) سے سواروں کو لے کر چلنے لگتی ہیں اور وہ ان سے خوش ہوتے ہیں تو ناگہاں زناٹے کی ہوا چل پڑتی ہے اور لہریں ہر طرف سے ان پر (جوش مارتی ہوئی) آنے لگتی ہیں اور وہ خیال کرتے ہیں کہ (اب تو) لہروں میں گھر گئے تو اس وقت خالص خدا ہی کی عبادت کرکے اس سے دعا مانگنے لگتے ہیں کہ (اے خدا) اگر تو ہم کو اس سے نجات بخشے تو ہم (تیرے) بہت ہی شکر گزار ہوں
+**English (Yusuf Ali):** He it is Who enableth you to traverse through land and sea; so that ye even board ships;- they sail with them with a favourable wind, and they rejoice thereat; then comes a stormy wind and the waves come to them from all sides, and they think they are being overwhelmed: they cry unto Allah, sincerely offering (their) duty unto Him saying, "If thou dost deliver us from this, we shall truly show our gratitude!"
 
 [Open on Quran.com](https://quran.com/10/22)
 
@@ -162,7 +162,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "In the bounty of Allāh and in His mercy - in that let them rejoice; it is better than what they accumulate."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ (یہ کتاب) خدا کے فضل اور اس کی مہربانی سے (نازل ہوئی ہے) تو چاہیئے کہ لوگ اس سے خوش ہوں۔ یہ اس سے کہیں بہتر ہے جو وہ جمع کرتے ہیں
+**English (Yusuf Ali):** Say: "In the bounty of Allah. And in His Mercy,- in that let them rejoice": that is better than the (wealth) they hoard.
 
 [Open on Quran.com](https://quran.com/10/58)
 
@@ -178,7 +178,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if We give him a taste of favor after hardship has touched him, he will surely say, "Bad times have left me." Indeed, he is exultant and boastful -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تکلیف پہنچنے کے بعد آسائش کا مزہ چکھائیں تو (خوش ہو کر) کہتا ہے کہ (آہا) سب سختیاں مجھ سے دور ہوگئیں۔ بےشک وہ خوشیاں منانے والا (اور) فخر کرنے والا ہے
+**English (Yusuf Ali):** But if We give him a taste of (Our) favours after adversity hath touched him, he is sure to say, "All evil has departed from me:" Behold! he falls into exultation and pride.
 
 [Open on Quran.com](https://quran.com/11/10)
 
@@ -194,7 +194,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh extends provision for whom He wills and restricts [it]. And they rejoice in the worldly life, while the worldly life is not, compared to the Hereafter, except [brief] enjoyment.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا جس کا چاہتا ہے رزق فراخ کر دیتا ہے اور (جس کا چاہتا ہے) تنگ کر دیتا ہے۔ اور کافر لوگ دنیا کی زندگی پر خوش ہو رہے ہیں اور دنیا کی زندگی آخرت (کے مقابلے) میں (بہت) تھوڑا فائدہ ہے
+**English (Yusuf Ali):** Allah doth enlarge, or grant by (strict) measure, the sustenance (which He giveth) to whomso He pleaseth. (The wordly) rejoice in the life of this world: But the life of this world is but little comfort in the Hereafter.
 
 [Open on Quran.com](https://quran.com/13/26)
 

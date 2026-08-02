@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 12:18 · [[012 Yusuf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they brought upon his shirt false blood. [Jacob] said, "Rather, your souls have enticed you to something, so patience is most fitting. And Allāh is the one sought for help against that which you describe."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے کرتے پر جھوٹ موٹ کا لہو بھی لگا لائے۔ یعقوب نے کہا (کہ حقیقت حال یوں نہیں ہے) بلکہ تم اپنے دل سے (یہ) بات بنا لائے ہو۔ اچھا صبر (کہ وہی) خوب (ہے) اور جو تم بیان کرتے ہو اس کے بارے میں خدا ہی سے مدد مطلوب ہے
+**English (Yusuf Ali):** They stained his shirt with false blood. He said: "Nay, but your minds have made up a tale (that may pass) with you, (for me) patience is most fitting: Against that which ye assert, it is Allah (alone) Whose help can be sought"..
 
 [Open on Quran.com](https://quran.com/12/18)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Jacob] said, "Rather, your souls have enticed you to something, so patience is most fitting. Perhaps Allāh will bring them to me all together. Indeed, it is He who is the Knowing, the Wise."
 
-**Urdu (Fatah Muhammad Jalandhari):** (جب انہوں نے یہ بات یعقوب سے آ کر کہی تو) انہوں نے کہا کہ (حقیقت یوں نہیں ہے) بلکہ یہ بات تم نے اپنے دل سے بنالی ہے تو صبر ہی بہتر ہے۔ عجب نہیں کہ خدا ان سب کو میرے پاس لے آئے۔ بےشک وہ دانا (اور) حکمت والا ہے
+**English (Yusuf Ali):** Jacob said: "Nay, but ye have yourselves contrived a story (good enough) for you. So patience is most fitting (for me). Maybe Allah will bring them (back) all to me (in the end). For He is indeed full of knowledge and wisdom."
 
 [Open on Quran.com](https://quran.com/12/83)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "I saw what they did not see, so I took a handful [of dust] from the track of the messenger and threw it, and thus did my soul entice me."
 
-**Urdu (Fatah Muhammad Jalandhari):** اس نے کہا کہ میں نے ایسی چیز دیکھی جو اوروں نے نہیں دیکھی تو میں نے فرشتے کے نقش پا سے (مٹی کی) ایک مٹھی بھر لی۔ پھر اس کو (بچھڑے کے قالب میں) ڈال دیا اور مجھے میرے جی نے (اس کام کو) اچھا بتایا
+**English (Yusuf Ali):** He replied: "I saw what they saw not: so I took a handful (of dust) from the footprint of the Messenger, and threw it (into the calf): thus did my soul suggest to me."
 
 [Open on Quran.com](https://quran.com/20/96)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who reverted back [to disbelief] after guidance had become clear to them - Satan enticed them and prolonged hope for them.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ راہ ہدایت ظاہر ہونے کے بعد پیٹھ دے کر پھر گئے۔ شیطان نے (یہ کام) ان کو مزین کر دکھایا اور انہیں طول (عمر کا وعدہ) دیا
+**English (Yusuf Ali):** Those who turn back as apostates after Guidance was clearly shown to them,- the Evil One has instigated them and busied them up with false hopes.
 
 [Open on Quran.com](https://quran.com/47/25)
 

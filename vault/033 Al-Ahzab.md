@@ -14,31 +14,31 @@ The Combined Forces · 73 ayahs
 
 ## Words in this surah (graph)
 
+- [[ysyr - easy]] — `يَسِير` · easy
 - [[>w*y - hurt]] — `أُوذِيَ` · hurt
 - [[Hrj - any blame]] — `حَرَج` · any blame
-- [[ysyr - easy]] — `يَسِير` · easy
 - [[mrD - disease]] — `مَرَض` · disease
+- [[frD - undertakes]] — `فَرَضَ` · undertakes
 - [[frAr - flight]] — `فِرار` · flight
-- [[tqr - may cooled]] — `تَقَرَّ` · may cooled
-- [[EAhd - they took]] — `عاهَدَ` · they took
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
+- [[jmyl - good]] — `جَمِيل` · good
 - [[ZAhr - apparent]] — `ظاهِر` · apparent
-- [[snp - way]] — `سُنَّة` · way
+- [[EAhd - they took]] — `عاهَدَ` · they took
+- [[nkH - marry]] — `نَكَحَ` · marry
 - [[Hzb - party]] — `حِزْب` · party
-- [[bnt - daughters]] — `بِنْت` · daughters
+- [[tqr - may cooled]] — `تَقَرَّ` · may cooled
 - [[tbdyl - change]] — `تَبْدِيل` · change
 - [[SlY - send blessings]] — `صَلَّى` · send blessings
-- [[nkH - marry]] — `نَكَحَ` · marry
-- [[jmyl - good]] — `جَمِيل` · good
-- [[frD - undertakes]] — `فَرَضَ` · undertakes
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[yESm - will protect you]] — `يَعْصِمُ` · will protect you
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
+- [[bnt - daughters]] — `بِنْت` · daughters
+- [[>dnY - nearer]] — `أَدْنَى` · nearer
+- [[snp - way]] — `سُنَّة` · way
+- [[Hsn - good]] — `حُسْن` · good
 - [[dEA - call]] — `دَعا` · call
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[>Thr - purer]] — `أَطْهَر` · purer
+- [[nAr - fire]] — `نار` · fire
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[yTmE - hope]] — `يَطْمَعُ` · hope
+- [[Dl - lost]] — `ضَلَّ` · lost
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[xA$E - humbled]] — `خاشِع` · humbled
 
 ## Roots
 

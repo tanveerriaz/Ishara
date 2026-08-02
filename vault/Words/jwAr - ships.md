@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 42:32 · [[042 Ash-Shuraa]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And of His signs are the ships in the sea, like mountains.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی کی نشانیوں میں سے سمندر کے جہاز ہیں (جو) گویا پہاڑ (ہیں)
+**English (Yusuf Ali):** And among His Signs are the ships, smooth-running through the ocean, (tall) as mountains.
 
 [Open on Quran.com](https://quran.com/42/32)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to Him belong the ships [with sails] elevated in the sea like mountains.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جہاز بھی اسی کے ہیں جو دریا میں پہاڑوں کی طرح اونچے کھڑے ہوتے ہیں
+**English (Yusuf Ali):** And His are the Ships sailing smoothly through the seas, lofty as mountains:
 
 [Open on Quran.com](https://quran.com/55/24)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those that run [their courses] and disappear [i.e., set]
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور) جو سیر کرتے اور غائب ہو جاتے ہیں
+**English (Yusuf Ali):** Go straight, or hide;
 
 [Open on Quran.com](https://quran.com/81/16)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 18:31 · [[018 Al-Kahf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those will have gardens of perpetual residence; beneath them rivers will flow. They will be adorned therein with bracelets of gold and will wear green garments of fine silk and brocade, reclining therein on adorned couches. Excellent is the reward, and good is the resting place.
 
-**Urdu (Fatah Muhammad Jalandhari):** ایسے لوگوں کے لئے ہمیشہ رہنے کے باغ ہیں جن میں ان کے (محلوں کے) نیچے نہریں بہہ رہی ہیں ان کو وہاں سونے کے کنگن پہنائے جائیں گے اور وہ باریک دیبا اور اطلس کے سبز کپڑے پہنا کریں گے (اور) تختوں پر تکیئے لگا کر بیٹھا کریں گے۔ (کیا) خوب بدلہ اور (کیا) خوب آرام گاہ ہے
+**English (Yusuf Ali):** For them will be Gardens of Eternity; beneath them rivers will flow; they will be adorned therein with bracelets of gold, and they will wear green garments of fine silk and heavy brocade: They will recline therein on raised thrones. How good the recompense! How beautiful a couch to recline on!
 
 [Open on Quran.com](https://quran.com/18/31)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They and their spouses - in shade, reclining on adorned couches.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ بھی اور ان کی بیویاں بھی سایوں میں تختوں پر تکیے لگائے بیٹھے ہوں گے
+**English (Yusuf Ali):** They and their associates will be in groves of (cool) shade, reclining on Thrones (of dignity);
 
 [Open on Quran.com](https://quran.com/36/56)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [They will be] reclining therein on adorned couches. They will not see therein any [burning] sun or [freezing] cold.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان میں وہ تختوں پر تکیے لگائے بیٹھے ہوں گے۔ وہاں نہ دھوپ (کی حدت) دیکھیں گے نہ سردی کی شدت
+**English (Yusuf Ali):** Reclining in the (Garden) on raised thrones, they will see there neither the sun's (excessive heat) nor (the moon's) excessive cold.
 
 [Open on Quran.com](https://quran.com/76/13)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** On adorned couches, observing.
 
-**Urdu (Fatah Muhammad Jalandhari):** تختوں پر بیٹھے ہوئے نظارے کریں گے
+**English (Yusuf Ali):** On Thrones (of Dignity) will they command a sight (of all things):
 
 [Open on Quran.com](https://quran.com/83/23)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** On adorned couches, observing.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور) تختوں پر (بیٹھے ہوئے ان کا حال) دیکھ رہے ہوں گے
+**English (Yusuf Ali):** On Thrones (of Dignity) they will command (a sight) (of all things).
 
 [Open on Quran.com](https://quran.com/83/35)
 

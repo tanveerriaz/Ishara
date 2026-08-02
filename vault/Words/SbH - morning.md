@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:81 · [[011 Hud]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They [the angels] said, "O Lot, indeed we are messengers of your Lord; [therefore], they will never reach you. So set out with your family during a portion of the night and let not any among you look back - except your wife; indeed, she will be struck by that which strikes them. Indeed, their appointment is [for] the morning. Is not the morning near?"
 
-**Urdu (Fatah Muhammad Jalandhari):** فرشتوں نے کہا کہ لوط ہم تمہارے پروردگار کے فرشتے ہیں۔ یہ لوگ ہرگز تم تک نہیں پہنچ سکیں گے تو کچھ رات رہے سے اپنے گھر والوں کو لے کر چل دو اور تم میں سے کوئی شخص پیچھے پھر کر نہ دیکھے۔ مگر تمہاری بیوی کہ جو آفت ان پر پڑنے والی ہے وہی اس پر پڑے گی۔ ان کے (عذاب کے) وعدے کا وقت صبح ہے۔ اور کیا صبح کچھ دور ہے؟
+**English (Yusuf Ali):** (The Messengers) said: "O Lut! We are Messengers from thy Lord! By no means shall they reach thee! now travel with thy family while yet a part of the night remains, and let not any of you look back: but thy wife (will remain behind): To her will happen what happens to the people. Morning is their time appointed: Is not the morning nigh?"
 
 [Open on Quran.com](https://quran.com/11/81)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there came upon them by morning an abiding punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان پر صبح سویرے ہی اٹل عذاب آ نازل ہوا
+**English (Yusuf Ali):** Early on the morrow an abiding Punishment seized them:
 
 [Open on Quran.com](https://quran.com/54/38)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [by] the morning when it brightens,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور صبح کی جب روشن ہو
+**English (Yusuf Ali):** And by the Dawn as it shineth forth,-
 
 [Open on Quran.com](https://quran.com/74/34)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And by the dawn when it breathes [i.e., stirs]
 
-**Urdu (Fatah Muhammad Jalandhari):** اور صبح کی قسم جب نمودار ہوتی ہے
+**English (Yusuf Ali):** And the Dawn as it breathes away the darkness;-
 
 [Open on Quran.com](https://quran.com/81/18)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the chargers at dawn,
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر صبح کو چھاپہ مارتے ہیں
+**English (Yusuf Ali):** And push home the charge in the morning,
 
 [Open on Quran.com](https://quran.com/100/3)
 

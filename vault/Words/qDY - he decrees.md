@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:117 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Originator of the heavens and the earth. When He decrees a matter, He only says to it, "Be," and it is.
 
-**Urdu (Fatah Muhammad Jalandhari):** (وہی) آسمانوں اور زمین کا پیدا کرنے والاہے۔ جب کوئی کام کرنا چاہتا ہے تو اس کو ارشاد فرما دیتا ہے کہ ہوجا تو وہ ہو جاتا ہے .
+**English (Yusuf Ali):** To Him is due the primal origin of the heavens and the earth: When He decreeth a matter, He saith to it: "Be," and it is.
 
 [Open on Quran.com](https://quran.com/2/117)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when you have completed your rites, remember Allāh like your [previous] remembrance of your fathers or with [much] greater remembrance. And among the people is he who says, "Our Lord, give us in this world," and he will have in the Hereafter no share.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر جب حج کے تمام ارکان پورے کرچکو تو (منیٰ میں) خدا کو یاد کرو۔ جس طرح اپنے باپ دادا کو یاد کیا کرتے تھے بلکہ اس سے بھی زیادہ اور بعض لوگ ایسے ہیں جو (خدا سے) التجا کرتے ہیں کہ اے پروردگار ہم کو (جو دنیا ہے) دنیا ہی میں عنایت کر ایسے لوگوں کا آخرت میں کچھ حصہ نہیں
+**English (Yusuf Ali):** So when ye have accomplished your holy rites, celebrate the praises of Allah, as ye used to celebrate the praises of your fathers,- yea, with far more Heart and soul. There are men who say: "Our Lord! Give us (Thy bounties) in this world!" but they will have no portion in the Hereafter.
 
 [Open on Quran.com](https://quran.com/2/200)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they await but that Allāh should come to them in covers of clouds and the angels [as well] and the matter is [then] decided? And to Allāh [all] matters are returned.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ اسی بات کے منتظر ہیں کہ ان پر خدا (کاعذاب) بادل کے سائبانوں میں آنازل ہو اور فرشتے بھی (اتر آئیں) اور کام تمام کردیا جائے اور سب کاموں کا رجوع خدا ہی کی طرف ہے
+**English (Yusuf Ali):** Will they wait until Allah comes to them in canopies of clouds, with angels (in His train) and the question is (thus) settled? but to Allah do all questions go back (for decision).
 
 [Open on Quran.com](https://quran.com/2/210)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** She said, "My Lord, how will I have a child when no man has touched me?" [The angel] said, "Such is Allāh; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is.
 
-**Urdu (Fatah Muhammad Jalandhari):** مریم نے کہا پروردگار میرے ہاں بچہ کیونکر ہوگا کہ کسی انسان نے مجھے ہاتھ تک تو لگایا نہیں فرمایا کہ خدا اسی طرح جو چاہتا ہے پیدا کرتا ہے جب وہ کوئی کام کرنا چاہتا ہے تو ارشاد فرما دیتا ہے کہ ہوجا تو وہ ہو جاتا ہے
+**English (Yusuf Ali):** She said: "O my Lord! How shall I have a son when no man hath touched me?" He said: "Even so: Allah createth what He willeth: When He hath decreed a plan, He but saith to it, 'Be,' and it is!
 
 [Open on Quran.com](https://quran.com/3/47)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But no, by your Lord, they will not [truly] believe until they make you, [O Muḥammad], judge concerning that over which they dispute among themselves and then find within themselves no discomfort from what you have judged and submit in [full, willing] submission.
 
-**Urdu (Fatah Muhammad Jalandhari):** تمہارے پروردگار کی قسم یہ لوگ جب تک اپنے تنازعات میں تمہیں منصف نہ بنائیں اور جو فیصلہ تم کردو اس سے اپنے دل میں تنگ نہ ہوں بلکہ اس کو خوشی سے مان لیں تب تک مومن نہیں ہوں گے
+**English (Yusuf Ali):** But no, by the Lord, they can have no (real) Faith, until they make thee judge in all disputes between them, and find in their souls no resistance against Thy decisions, but accept them with the fullest conviction.
 
 [Open on Quran.com](https://quran.com/4/65)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when you have completed the prayer, remember Allāh standing, sitting, or [lying] on your sides. But when you become secure, re-establish [regular] prayer. Indeed, prayer has been decreed upon the believers a decree of specified times.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر جب تم نماز تمام کرچکو تو کھڑے اور بیٹھے اور لیٹے (ہر حالت میں) خدا کو یاد کرو پھر جب خوف جاتا رہے تو (اس طرح سے) نماز پڑھو (جس طرح امن کی حالت میں پڑھتے ہو) بےشک نماز کا مومنوں پر اوقات (مقررہ) میں ادا کرنا فرض ہے
+**English (Yusuf Ali):** When ye pass (Congregational) prayers, celebrate Allah's praises, standing, sitting down, or lying down on your sides; but when ye are free from danger, set up Regular Prayers: For such prayers are enjoined on believers at stated times.
 
 [Open on Quran.com](https://quran.com/4/103)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who created you from clay and then decreed a term and a specified time [known] to Him; then [still] you are in dispute.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم کو مٹی سے پیدا کیا پھر (مرنے کا) ایک وقت مقرر کر دیا اور ایک مدت اس کے ہاں اور مقرر ہے پھر بھی تم (اے کافرو خدا کے بارے میں) شک کرتے ہو
+**English (Yusuf Ali):** He it is created you from clay, and then decreed a stated term (for you). And there is in His presence another determined term; yet ye doubt within yourselves!
 
 [Open on Quran.com](https://quran.com/6/2)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "Why was there not sent down to him an angel?" But if We had sent down an angel, the matter would have been decided; then they would not be reprieved.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ ان (پیغمبر) پر فرشتہ کیوں نازل نہ ہوا (جو ان کی تصدیق کرتا) اگر ہم فرشتہ نازل کرتے تو کام ہی فیصل ہو جاتا پھر انھیں (مطلق) مہلت نہ دی جاتی
+**English (Yusuf Ali):** They say: "Why is not an angel sent down to him?" If we did send down an angel, the matter would be settled at once, and no respite would be granted them.
 
 [Open on Quran.com](https://quran.com/6/8)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "If I had that for which you are impatient, the matter would have been decided between me and you, but Allāh is most knowing of the wrongdoers."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ جس چیز کے لئے تم جلدی کر رہے ہو اگر وہ میرے اختیار میں ہوتی تو مجھ میں اور تم میں فیصلہ ہوچکا ہوتا۔ اور خدا ظالموں سے خوب واقف ہے
+**English (Yusuf Ali):** Say: "If what ye would see hastened were in my power, the matter would be settled at once between you and me. But Allah knoweth best those who do wrong."
 
 [Open on Quran.com](https://quran.com/6/58)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who takes your souls by night and knows what you have committed by day. Then He revives you therein [i.e., by day] that a specified term may be fulfilled. Then to Him will be your return; then He will inform you about what you used to do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو رات کو (سونے کی حالت میں) تمہاری روح قبض کرلیتا ہے اور جو کچھ تم دن میں کرتے ہو اس سے خبر رکھتا ہے پھر تمہیں دن کو اٹھا دیتا ہے تاکہ (یہی سلسلہ جاری رکھ کر زندگی کی) معین مدت پوری کردی جائے پھر تم (سب) کو اسی کی طرف لوٹ کر جانا ہے (اس روز) وہ تم کو تمہارے عمل جو تم کرتے ہو (ایک ایک کرکے) بتائے گا
+**English (Yusuf Ali):** It is He who doth take your souls by night, and hath knowledge of all that ye have done by day: by day doth He raise you up again; that a term appointed be fulfilled; In the end unto Him will be your return; then will He show you the truth of all that ye did.
 
 [Open on Quran.com](https://quran.com/6/60)
 

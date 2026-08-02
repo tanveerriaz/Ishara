@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 29:20 · [[029 Al-Ankabut]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "Travel through the land and observe how He began creation. Then Allāh will produce the final creation [i.e., development]. Indeed Allāh, over all things, is competent."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ ملک میں چلو پھرو اور دیکھو کہ اس نے کس طرح خلقت کو پہلی دفعہ پیدا کیا ہے پھر خدا ہی پچھلی پیدائش پیدا کرے گا۔ بےشک خدا ہر چیز پر قادر ہے
+**English (Yusuf Ali):** Say: "Travel through the earth and see how Allah did originate creation; so will Allah produce a later creation: for Allah has power over all things.
 
 [Open on Quran.com](https://quran.com/29/20)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And that [incumbent] upon Him is the other [i.e., next] creation.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ (قیامت کو) اسی پر دوبارہ اٹھانا لازم ہے
+**English (Yusuf Ali):** That He hath promised a Second Creation (Raising of the Dead);
 
 [Open on Quran.com](https://quran.com/53/47)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you have already known the first creation, so will you not remember?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم نے پہلی پیدائش تو جان ہی لی ہے۔ پھر تم سوچتے کیوں نہیں؟
+**English (Yusuf Ali):** And ye certainly know already the first form of creation: why then do ye not celebrate His praises?
 
 [Open on Quran.com](https://quran.com/56/62)
 

@@ -14,31 +14,31 @@ The Overwhelming · 26 ayahs
 
 ## Words in this surah (graph)
 
-- [[sEy - effort]] — `سَعْي` · effort
-- [[srr - thrones]] — `سُرُر` · thrones
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[>rD - earth]] — `أَرْض` · earth
-- [[sqY - water]] — `سَقَى` · water
-- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[>kbr - greater]] — `أَكْبَر` · greater
 - [[mrfwEp - raised]] — `مَرْفُوعَة` · raised
-- [[kyf - how]] — `كَيْف` · how
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[HsAb - account]] — `حِساب` · account
-- [[jAryp - sailing]] — `جارِيَة` · sailing
+- [[Eyn - eyes]] — `عَيْن` · eyes
+- [[srr - thrones]] — `سُرُر` · thrones
 - [[nAr - fire]] — `نار` · fire
+- [[allah - God]] — `الله` · God
 - [[wjh - faces]] — `وَجْه` · faces
-- [[>kwAb - cups]] — `أَكْواب` · cups
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
-- [[nZr - see]] — `نَظَرَ` · see
-- [[rfE - we raised]] — `رَفَعَ` · we raised
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[jwE - hunger]] — `جُوع` · hunger
+- [[jAryp - sailing]] — `جارِيَة` · sailing
+- [[rADyp - pleasant]] — `راضِيَة` · pleasant
+- [[smA' - heavens]] — `سَماء` · heavens
 - [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[xA$E - humbled]] — `خاشِع` · humbled
+- [[lys - not]] — `لَيْسَ` · not
 - [[TEAm - food]] — `طَعام` · food
 - [[jbl - mountains]] — `جَبَل` · mountains
-- [[lys - not]] — `لَيْسَ` · not
+- [[rfE - we raised]] — `رَفَعَ` · we raised
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[gA$yp - overwhelming]] — `غاشِيَة` · overwhelming
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[HsAb - account]] — `حِساب` · account
+- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[kyf - how]] — `كَيْف` · how
+- [[ywm - day]] — `يَوْم` · day
+- [[sqY - water]] — `سَقَى` · water
 
 ## Roots
 

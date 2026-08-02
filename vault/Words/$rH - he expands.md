@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:125 · [[006 Al-Anam]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So whoever Allāh wants to guide - He expands his breast to [contain] Islām; and whoever He wants to send astray - He makes his breast tight and constricted as though he were climbing into the sky. Thus does Allāh place defilement upon those who do not believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جس شخص کو خدا چاہتا ہے کہ ہدایت بخشے اس کا سینہ اسلام کے لیے کھول دیتا ہے اور جسے چاہتا ہے کہ گمراہ کرے اس کا سینہ تنگ اور گھٹا ہوا کر دیتا ہے گویا وہ آسمان پر چڑھ رہا ہے اس طرح خدا ان لوگوں پر جو ایمان نہیں لاتے عذاب بھیجتا ہے
+**English (Yusuf Ali):** Those whom Allah (in His plan) willeth to guide,- He openeth their breast to Islam; those whom He willeth to leave straying,- He maketh their breast close and constricted, as if they had to climb up to the skies: thus doth Allah (heap) the penalty on those who refuse to believe.
 
 [Open on Quran.com](https://quran.com/6/125)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Whoever disbelieves in [i.e., denies] Allāh after his belief... except for one who is forced [to renounce his religion] while his heart is secure in faith. But those who [willingly] open their breasts to disbelief, upon them is wrath from Allāh, and for them is a great punishment;
 
-**Urdu (Fatah Muhammad Jalandhari):** جو شخص ایمان لانے کے بعد خدا کے ساتھ کفر کرے وہ نہیں جو (کفر پر زبردستی) مجبور کیا جائے اور اس کا دل ایمان کے ساتھ مطمئن ہو۔ بلکہ وہ جو (دل سے اور) دل کھول کر کفر کرے۔ تو ایسوں پر الله کا غضب ہے۔ اور ان کو بڑا سخت عذاب ہوگا
+**English (Yusuf Ali):** Any one who, after accepting faith in Allah, utters Unbelief,- except under compulsion, his heart remaining firm in Faith - but such as open their breast to Unbelief, on them is Wrath from Allah, and theirs will be a dreadful Penalty.
 
 [Open on Quran.com](https://quran.com/16/106)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Moses] said, "My Lord, expand [i.e., relax] for me my breast [with assurance]
 
-**Urdu (Fatah Muhammad Jalandhari):** کہا میرے پروردگار (اس کام کے لئے) میرا سینہ کھول دے
+**English (Yusuf Ali):** (Moses) said: "O my Lord! expand me my breast;
 
 [Open on Quran.com](https://quran.com/20/25)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So is one whose breast Allāh has expanded to [accept] Islām and he is upon [i.e., guided by] a light from his Lord [like one whose heart rejects it]? Then woe to those whose hearts are hardened against the remembrance of Allāh. Those are in manifest error.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا جس شخص کا سینہ خدا نے اسلام کے لئے کھول دیا ہو اور وہ اپنے پروردگار کی طرف سے روشنی پر ہو (تو کیا وہ سخت دل کافر کی طرح ہوسکتا ہے) پس ان پر افسوس ہے جن کے دل خدا کی یاد سے سخت ہو رہے ہیں۔ اور یہی لوگ صریح گمراہی میں ہیں
+**English (Yusuf Ali):** Is one whose heart Allah has opened to Islam, so that he has received Enlightenment from Allah, (no better than one hard-hearted)? Woe to those whose hearts are hardened against celebrating the praises of Allah! they are manifestly wandering (in error)!
 
 [Open on Quran.com](https://quran.com/39/22)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Did We not expand for you, [O Muḥammad], your breast?
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) کیا ہم نے تمہارا سینہ کھول نہیں دیا؟ (بےشک کھول دیا)
+**English (Yusuf Ali):** Have We not expanded thee thy breast?-
 
 [Open on Quran.com](https://quran.com/94/1)
 

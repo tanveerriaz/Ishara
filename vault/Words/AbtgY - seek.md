@@ -45,7 +45,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:187 · [[002 Al-Baqarah]]
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are a clothing for you and you are a clothing for them. Allāh knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allāh has decreed for you [i.e., offspring]. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the night [i.e., sunset]. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allāh, so do not approach them. Thus does Allāh make clear His verses [i.e., ordinances] to the people that they may become righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** روزوں کی راتوں میں تمہارے لئے اپنی عورتوں کے پاس جانا کردیا گیا ہے وہ تمہاری پوشاک ہیں اور تم ان کی پوشاک ہو خدا کو معلوم ہے کہ تم (ان کے پاس جانے سے) اپنے حق میں خیانت کرتے تھے سو اس نے تم پر مہربانی کی اور تمہاری حرکات سےدرگزرفرمائی۔اب (تم کو اختیار ہے کہ) ان سے مباشرت کرو۔ اور خدا نے جو چیز تمہارے لئے لکھ رکھی ہے (یعنی اولاد) اس کو (خدا سے) طلب کرو اور کھاؤ پیو یہاں تک کہ صبح کی سفید دھاری (رات کی) سیاہ دھاری سے الگ نظر آنے لگے۔ پھر روزہ (رکھ کر) رات تک پورا کرو اور جب تم مسجدوں میں اعتکاف بیٹھے ہو تو ان سے مباشرت نہ کرو۔ یہ خدا کی حدیں ہیں ان کے پاس نہ جانا۔ اسی طرح خدا اپنی آیتیں لوگوں کے (سمجھانے کے) لئے کھول کھول کر بیان فرماتا ہے تاکہ وہ پرہیزگار بنیں
+**English (Yusuf Ali):** Permitted to you, on the night of the fasts, is the approach to your wives. They are your garments and ye are their garments. Allah knoweth what ye used to do secretly among yourselves; but He turned to you and forgave you; so now associate with them, and seek what Allah Hath ordained for you, and eat and drink, until the white thread of dawn appear to you distinct from its black thread; then complete your fast Till the night appears; but do not associate with your wives while ye are in retreat in the mosques. Those are Limits (set by) Allah: Approach not nigh thereto. Thus doth Allah make clear His Signs to men: that they may learn self-restraint.
 
 [Open on Quran.com](https://quran.com/2/187)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There is no blame upon you for seeking bounty from your Lord [during ḥajj]. But when you depart from ʿArafāt, remember Allāh at al-Mashʿar al-Ḥarām. And remember Him, as He has guided you, for indeed, you were before that among those astray.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس کا تمہیں کچھ گناہ نہیں کہ (حج کے دنوں میں بذریعہ تجارت) اپنے پروردگار سے روزی طلب کرو اور جب عرفات سے واپس ہونے لگو تو مشعر حرام (یعنی مزدلفے) میں خدا کا ذکر کرو اور اس طرح ذکر کرو جس طرح اس نے تم کو سکھایا۔ اور اس سے پیشتر تم لوگ (ان طریقوں سے) محض ناواقف تھے
+**English (Yusuf Ali):** It is no crime in you if ye seek of the bounty of your Lord (during pilgrimage). Then when ye pour down from (Mount) Arafat, celebrate the praises of Allah at the Sacred Monument, and celebrate His praises as He has directed you, even though, before this, ye went astray.
 
 [Open on Quran.com](https://quran.com/2/198)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever desires other than Islām as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص اسلام کے سوا کسی اور دین کا طالب ہوگا وہ اس سے ہرگز قبول نہیں کیا جائے گا اور ایسا شخص آخرت میں نقصان اٹھانے والوں میں ہوگا
+**English (Yusuf Ali):** If anyone desires a religion other than Islam (submission to Allah), never will it be accepted of him; and in the Hereafter He will be in the ranks of those who have lost (All spiritual good).
 
 [Open on Quran.com](https://quran.com/3/85)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [also prohibited to you are all] married women except those your right hands possess. [This is] the decree of Allāh upon you. And lawful to you are [all others] beyond these, [provided] that you seek them [in marriage] with [gifts from] your property, desiring chastity, not unlawful sexual intercourse. So for whatever you enjoy [of marriage] from them, give them their due compensation as an obligation. And there is no blame upon you for what you mutually agree to beyond the obligation. Indeed, Allāh is ever Knowing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور شوہر والی عورتیں بھی (تم پر حرام ہیں) مگر وہ جو (اسیر ہو کر لونڈیوں کے طور پر) تمہارے قبضے میں آجائیں (یہ حکم) خدا نے تم کو لکھ دیا ہے اور ان (محرمات) کے سوا اور عورتیں تم کو حلال ہیں اس طرح سے کہ مال خرچ کر کے ان سے نکاح کرلو بشرطیکہ (نکاح سے) مقصود عفت قائم رکھنا ہو نہ شہوت رانی تو جن عورتوں سے تم فائدہ حاصل کرو ان کا مہر جو مقرر کیا ہو ادا کردو اور اگر مقرر کرنے کے بعد آپس کی رضامندی سے مہر میں کمی بیشی کرلو تو تم پر کچھ گناہ نہیں بےشک خدا سب کچھ جاننے والا (اور) حکمت والا ہے
+**English (Yusuf Ali):** Also (prohibited are) women already married, except those whom your right hands possess: Thus hath Allah ordained (Prohibitions) against you: Except for these, all others are lawful, provided ye seek (them in marriage) with gifts from your property,- desiring chastity, not lust, seeing that ye derive benefit from them, give them their dowers (at least) as prescribed; but if, after a dower is prescribed, agree Mutually (to vary it), there is no blame on you, and Allah is All-knowing, All-wise.
 
 [Open on Quran.com](https://quran.com/4/24)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, when you go forth [to fight] in the cause of Allāh, investigate; and do not say to one who gives you [a greeting of] peace, "You are not a believer," aspiring for the goods of worldly life; for with Allāh are many acquisitions. You [yourselves] were like that before; then Allāh conferred His favor [i.e., guidance] upon you, so investigate. Indeed Allāh is ever, of what you do, Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم خدا کی راہ میں باہر نکلو کرو تو تحقیق سے کام لیا کرو اور جو شخص تم سے سلام علیک کرے اس سے یہ نہ کہو کہ تم مومن نہیں اور اس سے تمہاری غرض یہ ہو کہ دنیا کی زندگی کا فائدہ حاصل کرو سو خدا کے نزدیک بہت سے غنیمتیں ہیں تم بھی تو پہلے ایسے ہی تھے پھر خدا نے تم پر احسان کیا تو (آئندہ) تحقیق کرلیا کرو اور جو عمل تم کرتے ہو خدا کو سب کی خبر ہے
+**English (Yusuf Ali):** O ye who believe! When ye go abroad in the cause of Allah, investigate carefully, and say not to any one who offers you a salutation: "Thou art none of a believer!" Coveting the perishable goods of this life: with Allah are profits and spoils abundant. Even thus were ye yourselves before, till Allah conferred on you His favours: Therefore carefully investigate. For Allah is well aware of all that ye do.
 
 [Open on Quran.com](https://quran.com/4/94)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who take disbelievers as allies instead of the believers. Do they seek with them honor [through power]? But indeed, honor belongs to Allāh entirely.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو مومنوں کو چھوڑ کر کافروں کو دوست بناتے ہیں۔ کیا یہ ان کے ہاں عزت حاصل کرنا چاہتے ہیں تو عزت تو سب خدا ہی کی ہے
+**English (Yusuf Ali):** Yea, to those who take for friends unbelievers rather than believers: is it honour they seek among them? Nay,- all honour is with Allah.
 
 [Open on Quran.com](https://quran.com/4/139)
 
@@ -155,7 +155,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not violate the rites of Allāh or [the sanctity of] the sacred month or [neglect the marking of] the sacrificial animals and garlanding [them] or [violate the safety of] those coming to the Sacred House seeking bounty from their Lord and [His] approval. But when you come out of iḥrām, then [you may] hunt. And do not let the hatred of a people for having obstructed you from al-Masjid al-Ḥarām lead you to transgress. And cooperate in righteousness and piety, but do not cooperate in sin and aggression. And fear Allāh; indeed, Allāh is severe in penalty.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کے نام کی چیزوں کی بےحرمتی نہ کرنا اور نہ ادب کے مہینے کی اور نہ قربانی کے جانوروں کی اور نہ ان جانوروں کی (جو خدا کی نذر کر دیئے گئے ہوں اور) جن کے گلوں میں پٹے بندھے ہوں اور نہ ان لوگوں کی جو عزت کے گھر (یعنی بیت الله) کو جا رہے ہوں (اور) اپنے پروردگار کے فضل اور اس کی خوشنودی کے طلبگار ہوں اور جب احرام اتار دو تو (پھر اختیار ہے کہ) شکار کرو اور لوگوں کی دشمنی اس وجہ سے کہ انہوں نے تم کو عزت والی مسجد سے روکا تھا تمہیں اس بات پر آمادہ نہ کرے کہ تم ان پر زیادتی کرنے لگو اور (دیکھو) نیکی اور پرہیزگاری کے کاموں میں ایک دوسرے کی مدد کیا کرو اور گناہ اور ظلم کی باتوں میں مدد نہ کیا کرو اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا کا عذاب سخت ہے
+**English (Yusuf Ali):** O ye who believe! Violate not the sanctity of the symbols of Allah, nor of the sacred month, nor of the animals brought for sacrifice, nor the garlands that mark out such animals, nor the people resorting to the sacred house, seeking of the bounty and good pleasure of their Lord. But when ye are clear of the sacred precincts and of pilgrim garb, ye may hunt and let not the hatred of some people in (once) shutting you out of the Sacred Mosque lead you to transgression (and hostility on your part). Help ye one another in righteousness and piety, but help ye not one another in sin and rancour: fear Allah: for Allah is strict in punishment.
 
 [Open on Quran.com](https://quran.com/5/2)
 
@@ -171,7 +171,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, fear Allāh and seek the means [of nearness] to Him and strive in His cause that you may succeed.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! خدا سے ڈرتے رہو اور اس کا قرب حاصل کرنے کا ذریعہ تلاش کرتے رہو اور اس کے رستے میں جہاد کرو تاکہ رستگاری پاؤ
+**English (Yusuf Ali):** O ye who believe! Do your duty to Allah, seek the means of approach unto Him, and strive with might and main in his cause: that ye may prosper.
 
 [Open on Quran.com](https://quran.com/5/35)
 
@@ -187,7 +187,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if their evasion is difficult for you, then if you are able to seek a tunnel into the earth or a stairway into the sky to bring them a sign, [then do so]. But if Allāh had willed, He would have united them upon guidance. So never be of the ignorant.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ان کی روگردانی تم پر شاق گزرتی ہے تو اگر طاقت ہو تو زمین میں کوئی سرنگ ڈھونڈ نکالو یا آسمان میں سیڑھی (تلاش کرو) پھر ان کے پاس کوئی معجزہ لاؤ۔ اور اگر خدا چاہتا تو سب کو ہدایت پر جمع کردیتا پس تم ہرگز نادانوں میں نہ ہونا
+**English (Yusuf Ali):** If their spurning is hard on thy mind, yet if thou wert able to seek a tunnel in the ground or a ladder to the skies and bring them a sign,- (what good?). If it were Allah's will, He could gather them together unto true guidance: so be not thou amongst those who are swayed by ignorance (and impatience)!
 
 [Open on Quran.com](https://quran.com/6/35)
 
@@ -203,7 +203,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Say], "Then is it other than Allāh I should seek as judge while it is He who has revealed to you the Book [i.e., the Qur’ān] explained in detail?" And those to whom We [previously] gave the Scripture know that it is sent down from your Lord in truth, so never be among the doubters.
 
-**Urdu (Fatah Muhammad Jalandhari):** (کہو) کیا میں خدا کے سوا اور منصف تلاش کروں حالانکہ اس نے تمہاری طرف واضع المطالب کتاب بھیجی ہے اور جن لوگوں کو ہم نے کتاب (تورات) دی ہے وہ جانتے ہیں کہ وہ تمہارے پروردگار کی طرف سے برحق نازل ہوئی ہے تو تم ہرگز شک کرنے والوں میں نہ ہونا
+**English (Yusuf Ali):** Say: "Shall I seek for judge other than Allah? - when He it is Who hath sent unto you the Book, explained in detail." They know full well, to whom We have given the Book, that it hath been sent down from thy Lord in truth. Never be then of those who doubt.
 
 [Open on Quran.com](https://quran.com/6/114)
 

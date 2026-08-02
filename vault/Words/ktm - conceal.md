@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:33 · [[002 Al-Baqarah]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "O Adam, inform them of their names." And when he had informed them of their names, He said, "Did I not tell you that I know the unseen [aspects] of the heavens and the earth? And I know what you reveal and what you have concealed."
 
-**Urdu (Fatah Muhammad Jalandhari):** (تب) خدا نے (آدم کو) حکم دیا کہ آدم! تم ان کو ان (چیزوں) کے نام بتاؤ۔ جب انہوں نے ان کو ان کے نام بتائے تو (فرشتوں سے) فرمایا کیوں میں نے تم سے نہیں کہا تھا کہ میں آسمانوں اور زمین کی (سب) پوشیدہ باتیں جاتنا ہوں اور جو تم ظاہر کرتے ہو اور جو پوشیدہ کرتے ہو (سب) مجھ کو معلوم ہے
+**English (Yusuf Ali):** He said: "O Adam! Tell them their names." When he had told them, Allah said: "Did I not tell you that I know the secrets of heaven and earth, and I know what ye reveal and what ye conceal?"
 
 [Open on Quran.com](https://quran.com/2/33)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not mix the truth with falsehood or conceal the truth while you know [it].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور حق کو باطل کے ساتھ نہ ملاؤ، اور سچی بات کو جان بوجھ کر نہ چھپاؤ
+**English (Yusuf Ali):** And cover not Truth with falsehood, nor conceal the Truth when ye know (what it is).
 
 [Open on Quran.com](https://quran.com/2/42)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when you slew a man and disputed over it, but Allāh was to bring out that which you were concealing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے ایک شخص کو قتل کیا، تو اس میں باہم جھگڑنے لگے۔ لیکن جو بات تم چھپا رہے تھے، خدا اس کو ظاہر کرنے والا تھا
+**English (Yusuf Ali):** Remember ye slew a man and fell into a dispute among yourselves as to the crime: But Allah was to bring forth what ye did hide.
 
 [Open on Quran.com](https://quran.com/2/72)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do you say that Abraham and Ishmael and Isaac and Jacob and the Descendants were Jews or Christians? Say, "Are you more knowing or is Allāh?" And who is more unjust than one who conceals a testimony he has from Allāh? And Allāh is not unaware of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے یہود ونصاریٰ) کیا تم اس بات کے قائل ہو کہ ابراہیم اور اسمٰعیل اور اسحاق اور یعقوب اور ان کی اولاد یہودی یا عیسائی تھے۔ (اے محمدﷺ ان سے) کہو کہ بھلا تم زیادہ جانتے ہو یا خدا؟ اور اس سے بڑھ کر ظالم کون، جو خدا کی شہادت کو، جو اس کے پاس (کتاب میں موجود) ہے چھپائے۔ اور جو کچھ تم کر رہے ہو، خدا اس سے غافل نہیں
+**English (Yusuf Ali):** Or do ye say that Abraham, Isma'il Isaac, Jacob and the Tribes were Jews or Christians? Say: Do ye know better than Allah? Ah! who is more unjust than those who conceal the testimony they have from Allah? but Allah is not unmindful of what ye do!
 
 [Open on Quran.com](https://quran.com/2/140)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those to whom We gave the Scripture know him [i.e., Prophet Muḥammad (ﷺ)] as they know their own sons. But indeed, a party of them conceal the truth while they know [it].
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں کو ہم نے کتاب دی ہے، وہ ان (پیغمبر آخرالزماں) کو اس طرح پہچانتے ہیں، جس طرح اپنے بیٹوں کو پہچانا کرتے ہیں، مگر ایک فریق ان میں سے سچی بات کو جان بوجھ کر چھپا رہا ہے
+**English (Yusuf Ali):** The people of the Book know this as they know their own sons; but some of them conceal the truth which they themselves know.
 
 [Open on Quran.com](https://quran.com/2/146)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who conceal what We sent down of clear proofs and guidance after We made it clear for the people in the Scripture - those are cursed by Allāh and cursed by those who curse,
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ہمارے حکموں اور ہدایتوں کو جو ہم نے نازل کی ہیں (کسی غرض فاسد سے) چھپاتے ہیں باوجود یہ کہ ہم نے ان لوگوں کے (سمجھانے کے) لئے اپنی کتاب میں کھول کھول کر بیان کردیا ہے۔ ایسوں پر خدا اور تمام لعنت کرنے والے لعنت کرتے ہیں
+**English (Yusuf Ali):** Those who conceal the clear (Signs) We have sent down, and the Guidance, after We have made it clear for the people in the Book,-on them shall be Allah's curse, and the curse of those entitled to curse,-
 
 [Open on Quran.com](https://quran.com/2/159)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, they who conceal what Allāh has sent down of the Book and exchange it for a small price - those consume not into their bellies except the Fire. And Allāh will not speak to them on the Day of Resurrection, nor will He purify them. And they will have a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (خدا) کی کتاب سے ان (آیتوں اور ہدایتوں) کو جو اس نے نازل فرمائی ہیں چھپاتے اور ان کے بدلے تھوڑی سی قیمت (یعنی دنیاوی منفعت)حاصل کرتے ہیں وہ اپنے پیٹوں میں محض آگ بھرتے ہیں۔ ایسے لوگوں سے خدا قیامت کے دن نہ کلام کرے گا اور نہ ان کو (گناہوں سے) پاک کرے گا۔اور ان کے لئے دکھ دینے والا عذاب ہے
+**English (Yusuf Ali):** Those who conceal Allah's revelations in the Book, and purchase for them a miserable profit,- they swallow into themselves naught but Fire; Allah will not address them on the Day of Resurrection. Nor purify them: Grievous will be their penalty.
 
 [Open on Quran.com](https://quran.com/2/174)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Divorced women remain in waiting [i.e., do not remarry] for three periods, and it is not lawful for them to conceal what Allāh has created in their wombs if they believe in Allāh and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to them [i.e., the wives] is similar to what is expected of them, according to what is reasonable. But the men [i.e., husbands] have a degree over them [in responsibility and authority]. And Allāh is Exalted in Might and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
+**English (Yusuf Ali):** Divorced women shall wait concerning themselves for three monthly periods. Nor is it lawful for them to hide what Allah Hath created in their wombs, if they have faith in Allah and the Last Day. And their husbands have the better right to take them back in that period, if they wish for reconciliation. And women shall have rights similar to the rights against them, according to what is equitable; but men have a degree (of advantage) over them. And Allah is Exalted in Power, Wise.
 
 [Open on Quran.com](https://quran.com/2/228)
 
@@ -172,7 +172,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you are on a journey and cannot find a scribe, then a security deposit [should be] taken. And if one of you entrusts another, then let him who is entrusted discharge his trust [faithfully] and let him fear Allāh, his Lord. And do not conceal testimony, for whoever conceals it - his heart is indeed sinful, and Allāh is Knowing of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم سفر پر ہواور (دستاویز) لکھنے والا مل نہ سکے تو (کوئی چیز) رہن یا قبضہ رکھ کر (قرض لے لو) اور اگر کوئی کسی کو امین سمجھے (یعنی رہن کے بغیر قرض دیدے) تو امانتدار کو چاہیئے کہ صاحب امانت کی امانت ادا کردے اور خدا سے جو اس کا پروردگار ہے ڈرے۔اور (دیکھنا) شہادت کو مت چھپانا۔ جو اس کو چھپائے گا وہ دل کا گنہگار ہوگا۔ اور خدا تمہارے سب کاموں سے واقف ہے
+**English (Yusuf Ali):** If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, Let the trustee (Faithfully) discharge His trust, and let him fear his Lord. Conceal not evidence; for whoever conceals it,- His heart is tainted with sin. And Allah Knoweth all that ye do.
 
 [Open on Quran.com](https://quran.com/2/283)
 
@@ -188,7 +188,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O People of the Scripture, why do you mix [i.e., confuse] the truth with falsehood and conceal the truth while you know [it]?
 
-**Urdu (Fatah Muhammad Jalandhari):** اے اہلِ کتاب تم سچ کو جھوٹ کے ساتھ خلط ملط کیوں کرتے ہو اور حق کو کیوں چھپاتے ہو اور تم جانتے بھی ہو
+**English (Yusuf Ali):** Ye People of the Book! Why do ye clothe Truth with falsehood, and conceal the Truth, while ye have knowledge?
 
 [Open on Quran.com](https://quran.com/3/71)
 

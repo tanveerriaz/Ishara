@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:196 · [[002 Al-Baqarah]]
 
@@ -48,7 +48,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And complete the ḥajj and ʿumrah for Allāh. But if you are prevented, then [offer] what can be obtained with ease of sacrificial animals. And do not shave your heads until the sacrificial animal has reached its place of slaughter. And whoever among you is ill or has an ailment of the head [making shaving necessary must offer] a ransom of fasting [three days] or charity or sacrifice. And when you are secure, then whoever performs ʿumrah [during the ḥajj months] followed by ḥajj [offers] what can be obtained with ease of sacrificial animals. And whoever cannot find [or afford such an animal] - then a fast of three days during ḥajj and of seven when you have returned [home]. Those are ten complete [days]. This is for those whose family is not in the area of al-Masjid al-Ḥarām. And fear Allāh and know that Allāh is severe in penalty.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کی خوشنودی) کے لئے حج اور عمرے کو پورا کرو۔ اور اگر (راستےمیں) روک لئے جاؤ تو جیسی قربانی میسر ہو (کردو) اور جب تک قربانی اپنے مقام پر نہ پہنچ جائے سر نہ منڈاؤ۔ اور اگر کوئی تم میں بیمار ہو یا اس کے سر میں کسی طرح کی تکلیف ہو تو (اگر وہ سر منڈالے تو) اس کے بدلے روزے رکھے یا صدقہ دے یا قربانی کرے پھر جب (تکلیف دور ہو کر) تم مطمئن ہوجاؤ تو جو (تم میں) حج کے وقت تک عمرے سے فائدہ اٹھانا چاہے وہ جیسی قربانی میسر ہو کرے۔ اور جس کو (قربانی) نہ ملے وہ تین روزے ایام حج میں رکھے اور سات جب واپس ہو۔ یہ پورے دس ہوئے۔ یہ حکم اس شخص کے لئے ہے جس کے اہل وعیال مکے میں نہ رہتے ہوں اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا سخت عذاب دینے والا ہے
+**English (Yusuf Ali):** And complete the Hajj or 'umra in the service of Allah. But if ye are prevented (From completing it), send an offering for sacrifice, such as ye may find, and do not shave your heads until the offering reaches the place of sacrifice. And if any of you is ill, or has an ailment in his scalp, (Necessitating shaving), (He should) in compensation either fast, or feed the poor, or offer sacrifice; and when ye are in peaceful conditions (again), if any one wishes to continue the 'umra on to the hajj, He must make an offering, such as he can afford, but if he cannot afford it, He should fast three days during the hajj and seven days on his return, Making ten days in all. This is for those whose household is not in (the precincts of) the Sacred Mosque. And fear Allah, and know that Allah Is strict in punishment.
 
 [Open on Quran.com](https://quran.com/2/196)
 
@@ -64,7 +64,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But they hamstrung her, so he said, "Enjoy yourselves in your homes for three days. That is a promise not to be denied [i.e., unfailing]."
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر انہوں نے اس کی کانچیں کاٹ ڈالیں۔ تو (صالح نے) کہا کہ اپنے گھروں میں تم تین دن (اور) فائدہ اٹھا لو۔ یہ وعدہ ہے کہ جھوٹا نہ ہوگا
+**English (Yusuf Ali):** But they did ham-string her. So he said: "Enjoy yourselves in your homes for three days: (Then will be your ruin): (Behold) there a promise not to be belied!"
 
 [Open on Quran.com](https://quran.com/11/65)
 
@@ -80,7 +80,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they have attributed to Allāh equals to mislead [people] from His way. Say, "Enjoy yourselves, for indeed, your destination is the Fire."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے خدا کے شریک مقرر کئے کہ (لوگوں کو) اس کے رستے سے گمراہ کریں۔ کہہ دو کہ (چند روز) فائدے اٹھا لو آخرکار تم کو دوزخ کی طرف لوٹ کر جانا ہے
+**English (Yusuf Ali):** And they set up (idols) as equal to Allah, to mislead (men) from the Path! Say: "Enjoy (your brief power)! But verily ye are making straightway for Hell!"
 
 [Open on Quran.com](https://quran.com/14/30)
 
@@ -96,7 +96,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Let them eat and enjoy themselves and be diverted by [false] hope, for they are going to know.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمد) ان کو اُن کے حال پر رہنے دو کہ کھالیں اور فائدے اُٹھالیں اور (طول) امل ان کو دنیا میں مشغول کئے رہے عنقریب ان کو (اس کا انجام) معلوم ہو جائے گا
+**English (Yusuf Ali):** Leave them alone, to enjoy (the good things of this life) and to please themselves: let (false) hope amuse them: soon will knowledge (undeceive them).
 
 [Open on Quran.com](https://quran.com/15/3)
 
@@ -112,7 +112,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So they will deny what We have given them. Then enjoy yourselves, for you are going to know.
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ جو (نعمتیں) ہم نے ان کو عطا فرمائی ہیں ان کی ناشکری کریں تو (مشرکو) دنیا میں فائدے اٹھالو۔ عنقریب تم کو (اس کا انجام) معلوم ہوجائے گا
+**English (Yusuf Ali):** (As if) to show their ingratitude for the favours we have bestowed on them! then enjoy (your brief day): but soon will ye know (your folly)!
 
 [Open on Quran.com](https://quran.com/16/55)
 
@@ -128,7 +128,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So that they will deny what We have granted them, and they will enjoy themselves. But they are going to know.
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ جو ہم نے اُن کو بخشا ہے اُس کی ناشکری کریں اور فائدہ اٹھائیں (سو خیر) عنقریب اُن کو معلوم ہوجائے گا
+**English (Yusuf Ali):** Disdaining ungratefully Our gifts, and giving themselves up to (worldly) enjoyment! But soon will they know.
 
 [Open on Quran.com](https://quran.com/29/66)
 
@@ -144,7 +144,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So that they will deny what We have granted them. Then enjoy yourselves, for you are going to know.
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ جو ہم نے ان کو بخشا ہے اُس کی ناشکری کریں سو (خیر) فائدے اُٹھالو عنقریب تم کو (اس کا انجام) معلوم ہو جائے گا
+**English (Yusuf Ali):** (As if) to show their ingratitude for the (favours) We have bestowed on them! Then enjoy (your brief day); but soon will ye know (your folly).
 
 [Open on Quran.com](https://quran.com/30/34)
 
@@ -160,7 +160,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when adversity touches man, he calls upon his Lord, turning to Him [alone]; then when He bestows on him a favor from Himself, he forgets Him whom he called upon before, and he attributes to Allāh equals to mislead [people] from His way. Say, "Enjoy your disbelief for a little; indeed, you are of the companions of the Fire."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب انسان کو تکلیف پہنچتی ہے تو اپنے پروردگار کو پکارتا (اور) اس کی طرف دل سے رجوع کرتا ہے۔ پھر جب وہ اس کو اپنی طرف سے کوئی نعمت دیتا ہے تو جس کام کے لئے پہلے اس کو پکارتا ہے اسے بھول جاتا ہے اور خدا کا شریک بنانے لگتا ہے تاکہ (لوگوں کو) اس کے رستے سے گمراہ کرے۔ کہہ دو کہ (اے کافر نعمت) اپنی ناشکری سے تھوڑا سا فائدہ اٹھالے۔ پھر تُو تو دوزخیوں میں ہوگا
+**English (Yusuf Ali):** When some trouble toucheth man, he crieth unto his Lord, turning to Him in repentance: but when He bestoweth a favour upon him as from Himself, (man) doth forget what he cried and prayed for before, and he doth set up rivals unto Allah, thus misleading others from Allah's Path. Say, "Enjoy thy blasphemy for a little while: verily thou art (one) of the Companions of the Fire!"
 
 [Open on Quran.com](https://quran.com/39/8)
 
@@ -176,7 +176,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh will admit those who have believed and done righteous deeds to gardens beneath which rivers flow, but those who disbelieve enjoy themselves and eat as grazing livestock eat, and the Fire will be a residence for them.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور عمل نیک کرتے رہے ان کو خدا بہشتوں میں جن کے نیچے نہریں بہہ رہی ہیں داخل فرمائے گا۔ اور جو کافر ہیں وہ فائدے اٹھاتے ہیں اور (اس طرح) کھاتے ہیں جیسے حیوان کھاتے ہیں۔ اور ان کا ٹھکانہ دوزخ ہے
+**English (Yusuf Ali):** Verily Allah will admit those who believe and do righteous deeds, to Gardens beneath which rivers flow; while those who reject Allah will enjoy (this world) and eat as cattle eat; and the Fire will be their abode.
 
 [Open on Quran.com](https://quran.com/47/12)
 
@@ -192,7 +192,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And in Thamūd, when it was said to them, "Enjoy yourselves for a time."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (قوم) ثمود (کے حال) میں (نشانی ہے) جب ان سے کہا گیا کہ ایک وقت تک فائدہ اٹھالو
+**English (Yusuf Ali):** And in the Thamud (was another Sign): Behold, they were told, "Enjoy (your brief day) for a little while!"
 
 [Open on Quran.com](https://quran.com/51/43)
 

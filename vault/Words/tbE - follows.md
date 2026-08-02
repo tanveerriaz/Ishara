@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:38 · [[002 Al-Baqarah]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** We said, "Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance - there will be no fear concerning them, nor will they grieve.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم نے فرمایا کہ تم سب یہاں سے اتر جاؤ جب تمہارے پاس میری طرف سے ہدایت پہنچے تو (اس کی پیروی کرنا کہ) جنہوں نے میری ہدایت کی پیروی کی ان کو نہ کچھ خوف ہوگا اور نہ وہ غمناک ہوں گے
+**English (Yusuf Ali):** We said: "Get ye down all from here; and if, as is sure, there comes to you Guidance from me, whosoever follows My guidance, on them shall be no fear, nor shall they grieve.
 
 [Open on Quran.com](https://quran.com/2/38)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you brought to those who were given the Scripture every sign, they would not follow your qiblah. Nor will you be a follower of their qiblah. Nor would they be followers of one another's qiblah. So if you were to follow their desires after what has come to you of knowledge, indeed, you would then be among the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم ان اہلِ کتاب کے پاس تمام نشانیاں بھی لے کر آؤ، تو بھی یہ تمہارے قبلے کی پیروی نہ کریں۔ اور تم بھی ان کے قبلے کی پیروی کرنے والے نہیں ہو۔ اور ان میں سے بھی بعض بعض کے قبلے کے پیرو نہیں۔ اور اگر تم باوجود اس کے کہ تمہارے پاس دانش (یعنی وحئ خدا) آ چکی ہے، ان کی خواہشوں کے پیچھے چلو گے تو ظالموں میں (داخل) ہو جاؤ گے
+**English (Yusuf Ali):** Even if thou wert to bring to the people of the Book all the Signs (together), they would not follow Thy Qibla; nor art thou going to follow their Qibla; nor indeed will they follow each other's Qibla. If thou after the knowledge hath reached thee, Wert to follow their (vain) desires,-then wert thou Indeed (clearly) in the wrong.
 
 [Open on Quran.com](https://quran.com/2/145)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Kind speech and forgiveness are better than charity followed by injury. And Allāh is Free of need and Forbearing.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس خیرات دینے کے بعد (لینے والے کو) ایذا دی جائے اس سے تو نرم بات کہہ دینی اور (اس کی بے ادبی سے) درگزر کرنا بہتر ہے اور خدا بےپروا اور بردبار ہے
+**English (Yusuf Ali):** Kind words and the covering of faults are better than charity followed by injury. Allah is free of all wants, and He is Most-Forbearing.
 
 [Open on Quran.com](https://quran.com/2/263)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not trust except those who follow your religion." Say, "Indeed, the [true] guidance is the guidance of Allāh. [Do you fear] lest someone be given [knowledge] like you were given or that they would [thereby] argue with you before your Lord?" Say, "Indeed, [all] bounty is in the hand of Allāh - He grants it to whom He wills. And Allāh is all-Encompassing and Wise."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے دین کے پیرو کے سوا کسی اور کے قائل نہ ہونا (اے پیغمبر) کہہ دو کہ ہدایت تو خدا ہی کی ہدایت ہے (وہ یہ بھی کہتے ہیں) یہ بھی (نہ ماننا) کہ جو چیز تم کو ملی ہے ویسی کسی اور کو ملے گی یا وہ تمہیں خدا کے روبرو قائل معقول کر سکیں گے یہ بھی کہہ دو کہ بزرگی خدا ہی کے ہاتھ میں ہے وہ جسے چاہتا ہے دیتا ہے اور خدا کشائش والا (اور) علم والا ہے
+**English (Yusuf Ali):** "And believe no one unless he follows your religion." Say: "True guidance is the Guidance of Allah: (Fear ye) Lest a revelation be sent to someone (else) Like unto that which was sent unto you? or that those (Receiving such revelation) should engage you in argument before your Lord?" Say: "All bounties are in the hand of Allah: He granteth them to whom He pleaseth: And Allah careth for all, and He knoweth all things."
 
 [Open on Quran.com](https://quran.com/3/73)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "Depart from it [i.e., Paradise], reproached and expelled. Whoever follows you among them - I will surely fill Hell with you, all together."
 
-**Urdu (Fatah Muhammad Jalandhari):** (خدا نے) فرمایا، نکل جا۔ یہاں سے پاجی۔ مردود جو لوگ ان میں سے تیری پیروی کریں گے میں (ان کو اور تجھ کو جہنم میں ڈال کر) تم سب سے جہنم کو بھر دوں گا
+**English (Yusuf Ali):** (Allah) said: "Get out from this, disgraced and expelled. If any of them follow thee,- Hell will I fill with you all.
 
 [Open on Quran.com](https://quran.com/7/18)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will come out [for judgement] before Allāh all together, and the weak will say to those who were arrogant, "Indeed, we were your followers, so can you avail us anything against the punishment of Allāh?" They will say, "If Allāh had guided us, we would have guided you. It is all the same for us whether we show intolerance or are patient: there is for us no place of escape."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (قیامت کے دن) سب لوگ خدا کے سامنے کھڑے ہوں گے تو ضعیف (العقل متبع اپنے رؤسائے) متکبرین سے کہیں گے کہ ہم تو تمہارے پیرو تھے۔ کیا تم خدا کا کچھ عذاب ہم پر سے دفع کرسکتے ہو۔ وہ کہیں گے کہ اگر خدا ہم کو ہدایت کرتا تو ہم تم کو ہدایت کرتے۔ اب ہم گھبرائیں یا ضد کریں ہمارے حق میں برابر ہے۔ کوئی جگہ (گریز اور) رہائی کی ہمارے لیے نہیں ہے
+**English (Yusuf Ali):** They will all be marshalled before Allah together: then will the weak say to those who were arrogant, "For us, we but followed you; can ye then avail us to all against the wrath of Allah?" They will reply, "If we had received the Guidance of Allah, we should have given it to you: to us it makes no difference (now) whether we rage, or bear (these torments) with patience: for ourselves there is no way of escape."
 
 [Open on Quran.com](https://quran.com/14/21)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** My Lord, indeed they have led astray many among the people. So whoever follows me - then he is of me; and whoever disobeys me - indeed, You are [yet] Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار انہوں نے بہت سے لوگوں کو گمراہ کیا ہے۔ سو جس شخص نے میرا کہا مانا وہ میرا ہے۔ اور جس نے میری نافرمانی کی تو تُو بخشنے والا مہربان ہے
+**English (Yusuf Ali):** "O my Lord! they have indeed led astray many among mankind; He then who follows my (ways) is of me, and he that disobeys me,- but Thou art indeed Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/14/36)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "Go, for whoever of them follows you, indeed Hell will be the recompense of [all of] you - an ample recompense.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے فرمایا (یہاں سے) چلا جا۔ جو شخص ان میں سے تیری پیروی کرے گا تو تم سب کی جزا جہنم ہے (اور وہ) پوری سزا (ہے)
+**English (Yusuf Ali):** (Allah) said: "Go thy way; if any of them follow thee, verily Hell will be the recompense of you (all)- an ample recompense.
 
 [Open on Quran.com](https://quran.com/17/63)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [That] I will surely fill Hell with you and those of them that follow you all together."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہ میں تجھ سے اور جو ان میں سے تیری پیروی کریں گے سب سے جہنم کو بھر دوں گا
+**English (Yusuf Ali):** "That I will certainly fill Hell with thee and those that follow thee,- every one."
 
 [Open on Quran.com](https://quran.com/38/85)
 
@@ -189,7 +189,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when they will argue within the Fire, and the weak will say to those who had been arrogant, "Indeed, we were [only] your followers, so will you relieve us of a share of the Fire?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب وہ دوزخ میں جھگڑیں گے تو ادنیٰ درجے کے لوگ بڑے آدمیوں سے کہیں گے کہ ہم تو تمہارے تابع تھے تو کیا تم دوزخ (کے عذاب) کا کچھ حصہ ہم سے دور کرسکتے ہو؟
+**English (Yusuf Ali):** Behold, they will dispute with each other in the Fire! The weak ones (who followed) will say to those who had been arrogant, "We but followed you: Can ye then take (on yourselves) from us some share of the Fire?
 
 [Open on Quran.com](https://quran.com/40/47)
 

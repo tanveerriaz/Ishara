@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:50 · [[006 Al-Anam]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "I do not tell you that I have the depositories [containing the provision] of Allāh or that I know the unseen, nor do I tell you that I am an angel. I only follow what is revealed to me." Say, "Is the blind equivalent to the seeing? Then will you not give thought?"
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں تم سے یہ نہیں کہتا کہ میرے پاس الله تعالیٰ کے خزانے ہیں اور نہ (یہ کہ) میں غیب جانتا ہوں اور نہ تم سے یہ کہتا کہ میں فرشتہ ہوں۔ میں تو صرف اس حکم پر چلتا ہوں جو مجھے (خدا کی طرف سے) آتا ہے۔ کہہ دو کہ بھلا اندھا اور آنکھ والے برابر ہوتے ہیں؟ تو پھر تم غور کیوں نہیں کرتے
+**English (Yusuf Ali):** Say: "I tell you not that with me are the treasures of Allah, nor do I know what is hidden, nor do I tell you I am an angel. I but follow what is revealed to me." Say: "can the blind be held equal to the seeing?" Will ye then consider not?
 
 [Open on Quran.com](https://quran.com/6/50)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And I do not tell you that I have the depositories [containing the provision] of Allāh or that I know the unseen, nor do I tell you that I am an angel, nor do I say of those upon whom your eyes look down that Allāh will never grant them any good. Allāh is most knowing of what is within their souls. Indeed, I would then be among the wrongdoers [i.e., the unjust]."
 
-**Urdu (Fatah Muhammad Jalandhari):** میں نہ تم سے یہ کہتا ہوں کہ میرے پاس خدا کے خزانے ہیں اور نہ یہ کہ میں غیب جانتا ہوں اور نہ یہ کہتا ہوں کہ میں فرشتہ ہوں اور نہ ان لوگوں کی نسبت جن کو تم حقارت کی نظر سے دیکھتے ہو یہ کہتا ہوں کہ خدا ان کو بھلائی (یعنی اعمال کی جزائے نیک) نہیں دے گا جو ان کے دلوں میں ہے اسے خدا خوب جانتا ہے۔ اگر میں ایسا کہوں تو بےانصافوں میں ہوں
+**English (Yusuf Ali):** "I tell you not that with me are the treasures of Allah, nor do I know what is hidden, nor claim I to be an angel. Nor yet do I say, of those whom your eyes do despise that Allah will not grant them (all) that is good: Allah knoweth best what is in their souls: I should, if I did, indeed be a wrong-doer."
 
 [Open on Quran.com](https://quran.com/11/31)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Joseph] said, "Appoint me over the storehouses of the land. Indeed, I will be a knowing guardian."
 
-**Urdu (Fatah Muhammad Jalandhari):** (یوسف نے) کہا مجھے اس ملک کے خزانوں پر مقرر کر دیجیئے کیونکہ میں حفاظت بھی کرسکتا ہوں اور اس کام سے واقف ہوں
+**English (Yusuf Ali):** (Joseph) said: "Set me over the store-houses of the land: I will indeed guard them, as one that knows (their importance)."
 
 [Open on Quran.com](https://quran.com/12/55)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there is not a thing but that with Us are its depositories, and We do not send it down except according to a known [i.e., specified] measure.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہمارے ہاں ہر چیز کے خزانے ہیں اور ہم ان کو بمقدار مناسب اُتارتے رہتے ہیں
+**English (Yusuf Ali):** And there is not a thing but its (sources and) treasures (inexhaustible) are with Us; but We only send down thereof in due and ascertainable measures.
 
 [Open on Quran.com](https://quran.com/15/21)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say [to them], "If you possessed the depositories of the mercy of my Lord, then you would withhold out of fear of spending." And ever has man been stingy.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر میرے پروردگار کی رحمت کے خزانے تمہارے ہاتھ میں ہوتے تو تم خرچ ہوجانے کے خوف سے (ان کو) بند رکھتے۔ اور انسان دل کا بہت تنگ ہے
+**English (Yusuf Ali):** Say: "If ye had control of the Treasures of the Mercy of my Lord, behold, ye would keep them back, for fear of spending them: for man is (every) niggardly!"
 
 [Open on Quran.com](https://quran.com/17/100)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do they have the depositories of the mercy of your Lord, the Exalted in Might, the Bestower?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا ان کے پاس تمہارے پروردگار کی رحمت کے خزانے ہیں جو غالب اور بہت عطا کرنے والا ہے
+**English (Yusuf Ali):** Or have they the treasures of the mercy of thy Lord,- the Exalted in Power, the Grantor of Bounties without measure?
 
 [Open on Quran.com](https://quran.com/38/9)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or have they the depositories [containing the provision] of your Lord? Or are they the controllers [of them]?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا ان کے پاس تمہارے پروردگار کے خزانے ہیں۔ یا یہ (کہیں کے) داروغہ ہیں؟
+**English (Yusuf Ali):** Or are the Treasures of thy Lord with them, or are they the managers (of affairs)?
 
 [Open on Quran.com](https://quran.com/52/37)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They are the ones who say, "Do not spend on those who are with the Messenger of Allāh until they disband." And to Allāh belong the depositories of the heavens and the earth, but the hypocrites do not understand.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی ہیں جو کہتے ہیں کہ جو لوگ رسول خدا کے پاس (رہتے) ہیں ان پر (کچھ) خرچ نہ کرو۔ یہاں تک کہ یہ (خود بخود) بھاگ جائیں۔ حالانکہ آسمانوں اور زمین کے خزانے خدا ہی کہ ہیں لیکن منافق نہیں سمجھتے
+**English (Yusuf Ali):** They are the ones who say, "Spend nothing on those who are with Allah's Messenger, to the end that they may disperse (and quit Medina)." But to Allah belong the treasures of the heavens and the earth; but the Hypocrites understand not.
 
 [Open on Quran.com](https://quran.com/63/7)
 

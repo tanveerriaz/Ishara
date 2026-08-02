@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:21 · [[007 Al-Araf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he swore [by Allāh] to them, "Indeed, I am to you from among the sincere advisors."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان سے قسم کھا کر کہا میں تو تمہارا خیر خواہ ہوں
+**English (Yusuf Ali):** And he swore to them both, that he was their sincere adviser.
 
 [Open on Quran.com](https://quran.com/7/21)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** I convey to you the messages of my Lord, and I am to you a trustworthy adviser.
 
-**Urdu (Fatah Muhammad Jalandhari):** میں تمہیں خدا کے پیغام پہنچاتا ہوں اور تمہارا امانت دار خیرخواہ ہوں
+**English (Yusuf Ali):** "I but fulfil towards you the duties of my Lord's mission: I am to you a sincere and trustworthy adviser.
 
 [Open on Quran.com](https://quran.com/7/68)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he [i.e., Ṣāliḥ] turned away from them and said, "O my people, I had certainly conveyed to you the message of my Lord and advised you, but you do not like advisors."
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر صالح ان سے (ناامید ہو کر) پھرے اور کہا کہ میری قوم! میں نے تم کو خدا کا پیغام پہنچا دیا اور تمہاری خیر خواہی کی مگر تم (ایسے ہو کہ) خیر خواہوں کو دوست ہی نہیں رکھتے
+**English (Yusuf Ali):** So Salih left them, saying: "O my people! I did indeed convey to you the message for which I was sent by my Lord: I gave you good counsel, but ye love not good counsellors!"
 
 [Open on Quran.com](https://quran.com/7/79)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "O our father, why do you not entrust us with Joseph while indeed, we are to him sincere counselors?
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ مشورہ کر کے وہ یعقوب سے) کہنے لگے کہ اباجان کیا سبب ہے کہ آپ یوسف کے بارے میں ہمارا اعتبار نہیں کرتے حالانکہ ہم اس کے خیرخواہ ہیں
+**English (Yusuf Ali):** They said: "O our father! why dost thou not trust us with Joseph,- seeing we are indeed his sincere well-wishers?
 
 [Open on Quran.com](https://quran.com/12/11)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We had prevented from him [all] wet nurses before, so she said, "Shall I direct you to a household that will be responsible for him for you while they are to him [for his upbringing] sincere?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے پہلے ہی سے اس پر (دائیوں) کے دودھ حرام کر دیئے تھے۔ تو موسٰی کی بہن نے کہا کہ میں تمہیں ایسے گھر والے بتاؤں کہ تمہارے لئے اس (بچے) کو پالیں اور اس کی خیر خواہی (سے پرورش) کریں
+**English (Yusuf Ali):** And we ordained that he refused suck at first, until (His sister came up and) said: "Shall I point out to you the people of a house that will nourish and bring him up for you and be sincerely attached to him?"...
 
 [Open on Quran.com](https://quran.com/28/12)
 
@@ -120,7 +120,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And a man came from the farthest end of the city, running. He said, "O Moses, indeed the eminent ones are conferring over you [intending] to kill you, so leave [the city]; indeed, I am to you of the sincere advisors."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ایک شخص شہر کی پرلی طرف سے دوڑتا ہوا آیا (اور) بولا کہ موسٰی (شہر کے) رئیس تمہارے بارے میں صلاحیں کرتے ہیں کہ تم کو مار ڈالیں سو تم یہاں سے نکل جاؤ۔ میں تمہارا خیر خواہ ہوں
+**English (Yusuf Ali):** And there came a man, running, from the furthest end of the City. He said: "O Moses! the Chiefs are taking counsel together about thee, to slay thee: so get thee away, for I do give thee sincere advice."
 
 [Open on Quran.com](https://quran.com/28/20)
 

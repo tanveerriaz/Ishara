@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:15 · [[007 Al-Araf]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "Indeed, you are of those reprieved."
 
-**Urdu (Fatah Muhammad Jalandhari):** فرمایا (اچھا) تجھ کو مہلت دی جاتی ہے
+**English (Yusuf Ali):** (Allah) said: "Be thou among those who have respite."
 
 [Open on Quran.com](https://quran.com/7/15)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** We do not send down the angels except with truth; and they [i.e., the disbelievers] would not then be reprieved.
 
-**Urdu (Fatah Muhammad Jalandhari):** (کہہ دو) ہم فرشتوں کو نازل نہیں کیا کرتے مگر حق کے ساتھ اور اس وقت ان کو مہلت نہیں ملتی
+**English (Yusuf Ali):** We send not the angels down except for just cause: if they came (to the ungodly), behold! no respite would they have!
 
 [Open on Quran.com](https://quran.com/15/8)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "So indeed, you are of those reprieved
 
-**Urdu (Fatah Muhammad Jalandhari):** فرمایا کہ تجھے مہلت دی جاتی ہے
+**English (Yusuf Ali):** (Allah) said: "Respite is granted thee
 
 [Open on Quran.com](https://quran.com/15/37)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will say, "May we be reprieved?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اس وقت کہیں گے کیا ہمیں ملہت ملے گی؟
+**English (Yusuf Ali):** Then they will say: "Shall we be respited?"
 
 [Open on Quran.com](https://quran.com/26/203)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "So indeed, you are of those reprieved
 
-**Urdu (Fatah Muhammad Jalandhari):** فرمایا کہ تجھ کو مہلت دی جاتی ہے
+**English (Yusuf Ali):** (Allah) said: "Respite then is granted thee-
 
 [Open on Quran.com](https://quran.com/38/80)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the heaven and earth wept not for them, nor were they reprieved.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ان پر نہ تو آسمان کو اور زمین کو رونا آیا اور نہ ان کو مہلت ہی دی گئی
+**English (Yusuf Ali):** And neither heaven nor earth shed a tear over them: nor were they given a respite (again).
 
 [Open on Quran.com](https://quran.com/44/29)
 

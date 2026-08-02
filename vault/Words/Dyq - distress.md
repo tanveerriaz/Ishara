@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:125 · [[006 Al-Anam]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So whoever Allāh wants to guide - He expands his breast to [contain] Islām; and whoever He wants to send astray - He makes his breast tight and constricted as though he were climbing into the sky. Thus does Allāh place defilement upon those who do not believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جس شخص کو خدا چاہتا ہے کہ ہدایت بخشے اس کا سینہ اسلام کے لیے کھول دیتا ہے اور جسے چاہتا ہے کہ گمراہ کرے اس کا سینہ تنگ اور گھٹا ہوا کر دیتا ہے گویا وہ آسمان پر چڑھ رہا ہے اس طرح خدا ان لوگوں پر جو ایمان نہیں لاتے عذاب بھیجتا ہے
+**English (Yusuf Ali):** Those whom Allah (in His plan) willeth to guide,- He openeth their breast to Islam; those whom He willeth to leave straying,- He maketh their breast close and constricted, as if they had to climb up to the skies: thus doth Allah (heap) the penalty on those who refuse to believe.
 
 [Open on Quran.com](https://quran.com/6/125)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And be patient, [O Muḥammad], and your patience is not but through Allāh. And do not grieve over them and do not be in distress over what they conspire.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور صبر ہی کرو اور تمہارا صبر بھی خدا ہی کی مدد سے ہے اور ان کے بارے میں غم نہ کرو اور جو یہ بداندیشی کرتے ہیں اس سے تنگدل نہ ہو
+**English (Yusuf Ali):** And do thou be patient, for thy patience is but from Allah; nor grieve over them: and distress not thyself because of their plots.
 
 [Open on Quran.com](https://quran.com/16/127)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when they are thrown into a narrow place therein bound in chains, they will cry out thereupon for destruction.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب یہ دوزخ کی کسی تنگ جگہ میں (زنجیروں میں) جکڑ کر ڈالے جائیں گے تو وہاں موت کو پکاریں گے
+**English (Yusuf Ali):** And when they are cast, bound together into a constricted place therein, they will plead for destruction there and then!
 
 [Open on Quran.com](https://quran.com/25/13)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And grieve not over them or be in distress from what they conspire.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان (کے حال) پر غم نہ کرنا اور نہ اُن چالوں سے جو یہ کر رہے ہیں تنگ دل ہونا
+**English (Yusuf Ali):** But grieve not over them, nor distress thyself because of their plots.
 
 [Open on Quran.com](https://quran.com/27/70)
 

@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:135 · [[004 An-Nisa]]
 
@@ -48,7 +48,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, be persistently standing firm in justice, witnesses for Allāh, even if it be against yourselves or parents and relatives. Whether one is rich or poor, Allāh is more worthy of both. So follow not [personal] inclination, lest you not be just. And if you distort [your testimony] or refuse [to give it], then indeed Allāh is ever, of what you do, Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! انصاف پر قائم رہو اور خدا کے لئے سچی گواہی دو خواہ (اس میں) تمہارا یا تمہارےماں باپ اور رشتہ داروں کا نقصان ہی ہو۔ اگر کوئی امیر ہے یا فقیر تو خدا ان کا خیر خواہ ہے۔ تو تم خواہش نفس کے پیچھے چل کر عدل کو نہ چھوڑ دینا۔ اگر تم پیچیدا شہادت دو گے یا (شہادت سے) بچنا چاہو گے تو (جان رکھو) خدا تمہارے سب کاموں سے واقف ہے
+**English (Yusuf Ali):** O ye who believe! stand out firmly for justice, as witnesses to Allah, even as against yourselves, or your parents, or your kin, and whether it be (against) rich or poor: for Allah can best protect both. Follow not the lusts (of your hearts), lest ye swerve, and if ye distort (justice) or decline to do justice, verily Allah is well-acquainted with all that ye do.
 
 [Open on Quran.com](https://quran.com/4/135)
 
@@ -64,7 +64,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if We had willed, We could have elevated him thereby, but he adhered [instead] to the earth and followed his own desire. So his example is like that of the dog: if you chase him, he pants, or if you leave him, he [still] pants. That is the example of the people who denied Our signs. So relate the stories that perhaps they will give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم چاہتے تو ان آیتوں سے اس (کے درجے) کو بلند کر دیتے مگر وہ تو پستی کی طرف مائل ہوگیا اور اپنی خواہش کے پیچھے چل پڑا۔ تو اس کی مثال کتے کی سی ہوگئی کہ اگر سختی کرو تو زبان نکالے رہے اور یونہی چھوڑ دو تو بھی زبان نکالے رہے۔ یہی مثال ان لوگوں کی ہے جنہوں نے ہماری آیتوں کو جھٹلایا تو ان سے یہ قصہ بیان کردو۔ تاکہ وہ فکر کریں
+**English (Yusuf Ali):** If it had been Our will, We should have elevated him with Our signs; but he inclined to the earth, and followed his own vain desires. His similitude is that of a dog: if you attack him, he lolls out his tongue, or if you leave him alone, he (still) lolls out his tongue. That is the similitude of those who reject Our signs; So relate the story; perchance they may reflect.
 
 [Open on Quran.com](https://quran.com/7/176)
 
@@ -80,7 +80,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Racing ahead, their heads raised up, their glance does not come back to them, and their hearts are void.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور لوگ) سر اٹھائے ہوئے (میدان قیامت کی طرف) دوڑ رہے ہوں گے ان کی نگاہیں ان کی طرف لوٹ نہ سکیں گی اور ان کے دل (مارے خوف کے) ہوا ہو رہے ہوں گے
+**English (Yusuf Ali):** They running forward with necks outstretched, their heads uplifted, their gaze returning not towards them, and their hearts a (gaping) void!
 
 [Open on Quran.com](https://quran.com/14/43)
 
@@ -96,7 +96,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And keep yourself patient [by being] with those who call upon their Lord in the morning and the evening, seeking His face [i.e., acceptance]. And let not your eyes pass beyond them, desiring adornments of the worldly life, and do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ صبح و شام اپنے پروردگار کو پکارتے اور اس کی خوشنودی کے طالب ہیں۔ ان کے ساتھ صبر کرتے رہو۔ اور تمہاری نگاہیں ان میں (گزر کر اور طرف) نہ دوڑیں کہ تم آرائشِ زندگانی دنیا کے خواستگار ہوجاؤ۔ اور جس شخص کے دل کو ہم نے اپنی یاد سے غافل کردیا ہے اور وہ اپنی خواہش کی پیروی کرتا ہے اور اس کا کام حد سے بڑھ گیا ہے اس کا کہا نہ ماننا
+**English (Yusuf Ali):** And keep thy soul content with those who call on their Lord morning and evening, seeking His Face; and let not thine eyes pass beyond them, seeking the pomp and glitter of this Life; nor obey any whose heart We have permitted to neglect the remembrance of Us, one who follows his own desires, whose case has gone beyond all bounds.
 
 [Open on Quran.com](https://quran.com/18/28)
 
@@ -112,7 +112,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So do not let one avert you from it who does not believe in it and follows his desire, for you [then] would perish.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جو شخص اس پر ایمان نہیں رکھتا اور اپنی خواہش کے پیچھے چلتا ہے (کہیں) تم کو اس (کے یقین) سے روک نہ دے تو (اس صورت میں) تم ہلاک ہوجاؤ
+**English (Yusuf Ali):** "Therefore let not such as believe not therein but follow their own lusts, divert thee therefrom, lest thou perish!"..
 
 [Open on Quran.com](https://quran.com/20/16)
 
@@ -128,7 +128,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have you seen the one who takes as his god his own desire? Then would you be responsible for him?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے اس شخص کو دیکھا جس نے خواہش نفس کو معبود بنا رکھا ہے تو کیا تم اس پر نگہبان ہوسکتے ہو
+**English (Yusuf Ali):** Seest thou such a one as taketh for his god his own passion (or impulse)? Couldst thou be a disposer of affairs for him?
 
 [Open on Quran.com](https://quran.com/25/43)
 
@@ -144,7 +144,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if they do not respond to you - then know that they only follow their [own] desires. And who is more astray than one who follows his desire without guidance from Allāh? Indeed, Allāh does not guide the wrongdoing people.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اگر یہ تمہاری بات قبول نہ کریں تو جان لو کہ یہ صرف اپنی خواہشوں کی پیروی کرتے ہیں۔ اور اس سے زیادہ کون گمراہ ہوگا جو خدا کی ہدایت کو چھوڑ کر اپنی خواہش کے پیچھے چلے۔ بیشک خدا ظالم لوگوں کو ہدایت نہیں دیتا
+**English (Yusuf Ali):** But if they hearken not to thee, know that they only follow their own lusts: and who is more astray than one who follow his own lusts, devoid of guidance from Allah? for Allah guides not people given to wrong-doing.
 
 [Open on Quran.com](https://quran.com/28/50)
 
@@ -160,7 +160,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [We said], "O David, indeed We have made you a successor upon the earth, so judge between the people in truth and do not follow [your own] desire, as it will lead you astray from the way of Allāh." Indeed, those who go astray from the way of Allāh will have a severe punishment for having forgotten the Day of Account.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے داؤد ہم نے تم کو زمین میں بادشاہ بنایا ہے تو لوگوں میں انصاف کے فیصلے کیا کرو اور خواہش کی پیروی نہ کرنا کہ وہ تمہیں خدا کے رستے سے بھٹکا دے گی۔ جو لوگ خدا کے رستے سے بھٹکتے ہیں ان کے لئے سخت عذاب (تیار) ہے کہ انہوں نے حساب کے دن کو بھلا دیا
+**English (Yusuf Ali):** O David! We did indeed make thee a vicegerent on earth: so judge thou between men in truth (and justice): Nor follow thou the lusts (of thy heart), for they will mislead thee from the Path of Allah: for those who wander astray from the Path of Allah, is a Penalty Grievous, for that they forget the Day of Account.
 
 [Open on Quran.com](https://quran.com/38/26)
 
@@ -176,7 +176,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have you seen he who has taken as his god his [own] desire, and Allāh has sent him astray due to knowledge and has set a seal upon his hearing and his heart and put over his vision a veil? So who will guide him after Allāh? Then will you not be reminded?
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے اس شخص کو دیکھا جس نے اپنی خواہش کو معبود بنا رکھا ہے اور باوجود جاننے بوجھنے کے (گمراہ ہو رہا ہے تو) خدا نے (بھی) اس کو گمراہ کردیا اور اس کے کانوں اور دل پر مہر لگا دی اور اس کی آنکھوں پر پردہ ڈال دیا۔ اب خدا کے سوا اس کو کون راہ پر لاسکتا ہے۔ بھلا تم کیوں نصیحت نہیں پکڑتے؟
+**English (Yusuf Ali):** Then seest thou such a one as takes as his god his own vain desire? Allah has, knowing (him as such), left him astray, and sealed his hearing and his heart (and understanding), and put a cover on his sight. Who, then, will guide him after Allah (has withdrawn Guidance)? Will ye not then receive admonition?
 
 [Open on Quran.com](https://quran.com/45/23)
 
@@ -192,7 +192,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Nor does he speak from [his own] inclination.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور نہ خواہش نفس سے منہ سے بات نکالتے ہیں
+**English (Yusuf Ali):** Nor does he say (aught) of (his own) Desire.
 
 [Open on Quran.com](https://quran.com/53/3)
 

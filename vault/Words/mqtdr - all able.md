@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 18:45 · [[018 Al-Kahf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And present to them the example of the life of this world, [its being] like rain which We send down from the sky, and the vegetation of the earth mingles with it and [then] it becomes dry remnants, scattered by the winds. And Allāh is ever, over all things, Perfect in Ability.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان سے دنیا کی زندگی کی مثال بھی بیان کردو (وہ ایسی ہے) جیسے پانی جسے ہم نے آسمان سے برسایا۔ تو اس کے ساتھ زمین کی روئیدگی مل گئی۔ پھر وہ چورا چورا ہوگئی کہ ہوائیں اسے اڑاتی پھرتی ہیں۔ اور خدا تو ہر چیز پر قدرت رکھتا ہے
+**English (Yusuf Ali):** Set forth to them the similitude of the life of this world: It is like the rain which we send down from the skies: the earth's vegetation absorbs it, but soon it becomes dry stubble, which the winds do scatter: it is (only) Allah who prevails over all things.
 
 [Open on Quran.com](https://quran.com/18/45)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or whether [or not] We show you that which We have promised them, indeed, We are Perfect in Ability.
 
-**Urdu (Fatah Muhammad Jalandhari):** یا (تمہاری زندگی ہی میں) تمہیں وہ (عذاب) دکھا دیں گے جن کا ہم نے ان سے وعدہ کیا ہے ہم ان پر قابو رکھتے ہیں
+**English (Yusuf Ali):** Or We shall show thee that (accomplished) which We have promised them: for verily We shall prevail over them.
 
 [Open on Quran.com](https://quran.com/43/42)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They denied Our signs, all of them, so We seized them with a seizure of one Exalted in Might and Perfect in Ability.
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے ہماری تمام نشانیوں کو جھٹلایا تو ہم نے ان کو اس طرح پکڑ لیا جس طرح ایک قوی اور غالب شخص پکڑ لیتا ہے
+**English (Yusuf Ali):** The (people) rejected all Our Signs; but We seized them with such Penalty (as comes) from One Exalted in Power, able to carry out His Will.
 
 [Open on Quran.com](https://quran.com/54/42)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In a seat of honor near a Sovereign, Perfect in Ability.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی) پاک مقام میں ہر طرح کی قدرت رکھنے والے بادشاہ کی بارگاہ میں
+**English (Yusuf Ali):** In an Assembly of Truth, in the Presence of a Sovereign Omnipotent.
 
 [Open on Quran.com](https://quran.com/54/55)
 

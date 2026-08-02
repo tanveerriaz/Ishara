@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:70 · [[009 At-Tawbah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Has there not reached them the news of those before them - the people of Noah and [the tribes of] ʿAad and Thamūd and the people of Abraham and the companions [i.e., dwellers] of Madyan and the towns overturned? Their messengers came to them with clear proofs. And Allāh would never have wronged them, but they were wronging themselves.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا ان کو ان لوگوں (کے حالات) کی خبر نہیں پہنچی جو ان سے پہلے تھے (یعنی) نوح اور عاد اور ثمود کی قوم۔ اور ابراہیم کی قوم اور مدین والے اور الٹی ہوئی بستیوں والے۔ ان کے پاس پیغمبر نشانیاں لے لے کر آئے۔ اور خدا تو ایسا نہ تھا کہ ان پر ظلم کرتا لیکن وہی اپنے آپ پر ظلم کرتے تھے
+**English (Yusuf Ali):** Hath not the story reached them of those before them?- the People of Noah, and 'Ad, and Thamud; the People of Abraham, the men of Midian, and the cities overthrown. To them came their messengers with clear signs. It is not Allah Who wrongs them, but they wrong their own souls.
 
 [Open on Quran.com](https://quran.com/9/70)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the overturned towns He hurled down.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے الٹی ہوئی بستیوں کو دے پٹکا
+**English (Yusuf Ali):** And He destroyed the Overthrown Cities (of Sodom and Gomorrah).
 
 [Open on Quran.com](https://quran.com/53/53)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there came Pharaoh and those before him and the overturned cities with sin.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور فرعون اور جو لوگ اس سے پہلے تھے اور وہ جو الٹی بستیوں میں رہتے تھے سب گناہ کے کام کرتے تھے
+**English (Yusuf Ali):** And Pharaoh, and those before him, and the Cities Overthrown, committed habitual Sin.
 
 [Open on Quran.com](https://quran.com/69/9)
 

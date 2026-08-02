@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:200 · [[007 Al-Araf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if an evil suggestion comes to you from Satan, then seek refuge in Allāh. Indeed, He is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر شیطان کی طرف سے تمہارے دل میں کسی طرح کا وسوسہ پیدا ہو تو خدا سے پناہ مانگو۔ بےشک وہ سننے والا (اور) سب کچھ جاننے والا ہے
+**English (Yusuf Ali):** If a suggestion from Satan assail thy (mind), seek refuge with Allah; for He heareth and knoweth (all things).
 
 [Open on Quran.com](https://quran.com/7/200)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he raised his parents upon the throne, and they bowed to him in prostration. And he said, "O my father, this is the explanation of my vision of before. My Lord has made it reality. And He was certainly good to me when He took me out of prison and brought you [here] from bedouin life after Satan had induced [estrangement] between me and my brothers. Indeed, my Lord is Subtle in what He wills. Indeed, it is He who is the Knowing, the Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے والدین کو تخت پر بٹھایا اور سب یوسفؑ کے آگے سجدہ میں گر پڑے اور (اس وقت) یوسف نے کہا ابا جان یہ میرے اس خواب کی تعبیر ہے جو میں نے پہلے (بچپن میں) دیکھا تھا۔ میرے پروردگار نے اسے سچ کر دکھایا اور اس نے مجھ پر (بہت سے) احسان کئے ہیں کہ مجھ کو جیل خانے سے نکالا۔ اور اس کے بعد کہ شیطان نے مجھ میں اور میرے بھائیوں میں فساد ڈال دیا تھا۔ آپ کو گاؤں سے یہاں لایا۔ بےشک میرا پروردگار جو چاہتا ہے تدبیر سے کرتا ہے۔ وہ دانا (اور) حکمت والا ہے
+**English (Yusuf Ali):** And he raised his parents high on the throne (of dignity), and they fell down in prostration, (all) before him. He said: "O my father! this is the fulfilment of my vision of old! Allah hath made it come true! He was indeed good to me when He took me out of prison and brought you (all here) out of the desert, (even) after Satan had sown enmity between me and my brothers. Verily my Lord understandeth best the mysteries of all that He planneth to do, for verily He is full of knowledge and wisdom.
 
 [Open on Quran.com](https://quran.com/12/100)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And tell My servants to say that which is best. Indeed, Satan induces [dissension] among them. Indeed Satan is ever, to mankind, a clear enemy.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور میرے بندوں سے کہہ دو کہ (لوگوں سے) ایسی باتیں کہا کریں جو بہت پسندیدہ ہوں۔ کیونکہ شیطان (بری باتوں سے) ان میں فساد ڈلوا دیتا ہے۔ کچھ شک نہیں کہ شیطان انسان کا کھلا دشمن ہے
+**English (Yusuf Ali):** Say to My servants that they should (only) say those things that are best: for Satan doth sow dissensions among them: For Satan is to man an avowed enemy.
 
 [Open on Quran.com](https://quran.com/17/53)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if there comes to you from Satan an evil suggestion, then seek refuge in Allāh. Indeed, He is the Hearing, the Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تمہیں شیطان کی جانب سے کوئی وسوسہ پیدا ہو تو خدا کی پناہ مانگ لیا کرو۔ بےشک وہ سنتا جانتا ہے
+**English (Yusuf Ali):** And if (at any time) an incitement to discord is made to thee by the Evil One, seek refuge in Allah. He is the One Who hears and knows all things.
 
 [Open on Quran.com](https://quran.com/41/36)
 

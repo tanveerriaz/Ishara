@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:102 · [[002 Al-Baqarah]]
 
@@ -50,7 +50,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Hārūt and Mārūt. But they [i.e., the two angels] do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allāh. And they [i.e., people] learn what harms them and does not benefit them. But they [i.e., the Children of Israel] certainly knew that whoever purchased it [i.e., magic] would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
+**English (Yusuf Ali):** They followed what the evil ones gave out (falsely) against the power of Solomon: the blasphemers Were, not Solomon, but the evil ones, teaching men Magic, and such things as came down at babylon to the angels Harut and Marut. But neither of these taught anyone (Such things) without saying: "We are only for trial; so do not blaspheme." They learned from them the means to sow discord between man and wife. But they could not thus harm anyone except by Allah's permission. And they learned what harmed them, not what profited them. And they knew that the buyers of (magic) would have no share in the happiness of the Hereafter. And vile was the price for which they did sell their souls, if they but knew!
 
 [Open on Quran.com](https://quran.com/2/102)
 
@@ -66,7 +66,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will not harm you except for [some] annoyance. And if they fight you, they will show you their backs [i.e., retreat]; then they will not be aided.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ تمہیں خفیف سی تکلیف کے سوا کچھ نقصان نہیں پہنچا سکیں گے اور اگر تم سے لڑیں گے تو پیٹھ پھیر کر بھاگ جائیں گے پھر ان کو مدد بھی (کہیں سے) نہیں ملے گی
+**English (Yusuf Ali):** They will do you no harm, barring a trifling annoyance; if they come out to fight you, they will show you their backs, and no help shall they get.
 
 [Open on Quran.com](https://quran.com/3/111)
 
@@ -82,7 +82,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If good touches you, it distresses them; but if harm strikes you, they rejoice at it. And if you are patient and fear Allāh, their plot will not harm you at all. Indeed, Allāh is encompassing of what they do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تمہیں آسودگی حاصل ہو تو ان کو بری لگتی ہے اور اگر رنج پہنچے تو خوش ہوتے ہیں اور اگر تم تکلیفوں کی برداشت اور (ان سے) کنارہ کشی کرتے رہو گے تو ان کا فریب تمھیں کچھ بھی نقصان نہ پہنچا سکے گا یہ جو کچھ کرتے ہیں خدا اس پر احاطہ کیے ہوئے ہے
+**English (Yusuf Ali):** If aught that is good befalls you, it grieves them; but if some misfortune overtakes you, they rejoice at it. But if ye are constant and do right, not the least harm will their cunning do to you; for Allah Compasseth round about all that they do.
 
 [Open on Quran.com](https://quran.com/3/120)
 
@@ -98,7 +98,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Muḥammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]? And he who turns back on his heels will never harm Allāh at all; but Allāh will reward the grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور محمد (صلی الله علیہ وسلم) تو صرف (خدا کے) پیغمبر ہیں ان سے پہلے بھی بہت سے پیغمبر ہو گزرے ہیں بھلا اگر یہ مر جائیں یا مارے جائیں تو تم الٹے پاؤں پھر جاؤ؟ (یعنی مرتد ہو جاؤ؟) اور جو الٹے پاؤں پھر جائے گا تو خدا کا کچھ نقصان نہ کر سکے گا اور خدا شکر گزاروں کو (بڑا) ثواب دے گا
+**English (Yusuf Ali):** Muhammad is no more than a messenger: many Were the messenger that passed away before him. If he died or were slain, will ye then Turn back on your heels? If any did turn back on his heels, not the least harm will he do to Allah; but Allah (on the other hand) will swiftly reward those who (serve Him) with gratitude.
 
 [Open on Quran.com](https://quran.com/3/144)
 
@@ -114,7 +114,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not be grieved, [O Muḥammad], by those who hasten into disbelief. Indeed, they will never harm Allāh at all. Allāh intends that He should give them no share in the Hereafter, and for them is a great punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ کفر میں جلدی کرتے ہیں ان (کی وجہ) سے غمگین نہ ہونا۔ یہ خدا کا کچھ نقصان نہیں کرسکتے خدا چاہتا ہے کہ آخرت میں ان کو کچھ حصہ نہ دے اور ان کے لئے بڑا عذاب تیار ہے
+**English (Yusuf Ali):** Let not those grieve thee who rush headlong into Unbelief: Not the least harm will they do to Allah: Allah's plan is that He will give them no portion in the Hereafter, but a severe punishment.
 
 [Open on Quran.com](https://quran.com/3/176)
 
@@ -130,7 +130,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who purchase disbelief [in exchange] for faith - never will they harm Allāh at all, and for them is a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے ایمان کے بدلے کفر خریدا وہ خدا کا کچھ نہیں بگاڑ سکتے اور ان کو دکھ دینے والا عذاب ہوگا
+**English (Yusuf Ali):** Those who purchase Unbelief at the price of faith,- not the least harm will they do to Allah, but they will have a grievous punishment.
 
 [Open on Quran.com](https://quran.com/3/177)
 
@@ -146,7 +146,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if it was not for the favor of Allāh upon you, [O Muḥammad], and His mercy, a group of them would have determined to mislead you. But they do not mislead except themselves, and they will not harm you at all. And Allāh has revealed to you the Book and wisdom and has taught you that which you did not know. And ever has the favor of Allāh upon you been great.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم پر خدا کا فضل اور مہربانی نہ ہوتی تو ان میں سے ایک جماعت تم کو بہکانے کا قصد کر ہی چکی تھی اور یہ اپنے سوا (کسی کو) بہکا نہیں سکتے اور نہ تمہارا کچھ بگاڑ سکتے ہیں اور خدا نے تم پر کتاب اور دانائی نازل فرمائی ہے اور تمہیں وہ باتیں سکھائی ہیں جو تم جانتے نہیں تھے اور تم پر خدا کا بڑا فضل ہے
+**English (Yusuf Ali):** But for the Grace of Allah to thee and his Mercy, a party of them would certainly have plotted to lead thee astray. But (in fact) they will only Lead their own souls astray, and to thee they can do no harm in the least. For Allah hath sent down to thee the Book and wisdom and taught thee what thou Knewest not (before): And great is the Grace of Allah unto thee.
 
 [Open on Quran.com](https://quran.com/4/113)
 
@@ -162,7 +162,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [They are] avid listeners to falsehood, devourers of [what is] unlawful. So if they come to you, [O Muḥammad], judge between them or turn away from them. And if you turn away from them - never will they harm you at all. And if you judge, judge between them with justice. Indeed, Allāh loves those who act justly.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ) جھوٹی باتیں بنانے کے جاسوسی کرنے والے اور (رشوت کا) حرام مال کھانے والے ہیں اگر یہ تمہارے پاس (کوئی مقدمہ فیصل کرانے کو) آئیں تو تم ان میں فیصلہ کر دینا یا اعراض کرنا اور اگر ان سے اعراض کرو گے تو وہ تمہارا کچھ بھی نہیں بگاڑ سکیں گے اور اگر فیصلہ کرنا چاہو تو انصاف کا فیصلہ کرنا کہ خدا انصاف کرنے والوں کو دوست رکھتا ہے
+**English (Yusuf Ali):** (They are fond of) listening to falsehood, of devouring anything forbidden. If they do come to thee, either judge between them, or decline to interfere. If thou decline, they cannot hurt thee in the least. If thou judge, judge in equity between them. For Allah loveth those who judge in equity.
 
 [Open on Quran.com](https://quran.com/5/42)
 
@@ -178,7 +178,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, upon you is [responsibility for] yourselves. Those who have gone astray will not harm you when you have been guided. To Allāh is your return all together; then He will inform you of what you used to do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! اپنی جانوں کی حفاظت کرو جب تم ہدایت پر ہو تو کوئی گمراہ تمہارا کچھ بھی بگاڑ نہیں سکتا تم سب کو خدا کی طرف لوٹ کر جانا ہے اس وقت وہ تم کو تمہارے سب کاموں سے جو (دنیا میں) کئے تھے آگاہ کرے گا (اور ان کا بدلہ دے گا)
+**English (Yusuf Ali):** O ye who believe! Guard your own souls: If ye follow (right) guidance, no hurt can come to you from those who stray. the goal of you all is to Allah: it is He that will show you the truth of all that ye do.
 
 [Open on Quran.com](https://quran.com/5/105)
 
@@ -194,7 +194,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Shall we invoke instead of Allāh that which neither benefits us nor harms us and be turned back on our heels after Allāh has guided us? [We would then be] like one whom the devils enticed [to wander] upon the earth confused, [while] he has companions inviting him to guidance, [calling], 'Come to us.'" Say, "Indeed, the guidance of Allāh is the [only] guidance; and we have been commanded to submit to the Lord of the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو۔ کیا ہم خدا کے سوا ایسی چیز کو پکاریں جو نہ ہمارا بھلا کرسکے نہ برا۔ اور جب ہم کو خدا نے سیدھا رستہ دکھا دیا تو (کیا) ہم الٹے پاؤں پھر جائیں؟ (پھر ہماری ایسی مثال ہو) جیسے کسی کو جنات نے جنگل میں بھلا دیا ہو (اور وہ) حیران (ہو رہا ہو) اور اس کے کچھ رفیق ہوں جو اس کو رستے کی طرف بلائیں کہ ہمارے پاس چلا آ۔ کہہ دو کہ رستہ تو وہی ہے جو خدا نے بتایا ہے۔ اور ہمیں تو یہ حکم ملا ہے کہ ہم خدائے رب العالمین کے فرمانبردار ہوں
+**English (Yusuf Ali):** Say: "Shall we indeed call on others besides Allah,- things that can do us neither good nor harm,- and turn on our heels after receiving guidance from Allah? - like one whom the evil ones have made into a fool, wandering bewildered through the earth, his friends calling, come to us', (vainly) guiding him to the path." Say: "Allah's guidance is the (only) guidance, and we have been directed to submit ourselves to the Lord of the worlds;-
 
 [Open on Quran.com](https://quran.com/6/71)
 

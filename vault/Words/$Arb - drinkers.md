@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 16:66 · [[016 An-Nahl]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, for you in grazing livestock is a lesson. We give you drink from what is in their bellies - between excretion and blood - pure milk, palatable to drinkers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے لیے چارپایوں میں بھی (مقام) عبرت (وغور) ہے کہ ان کے پیٹوں میں جو گوبر اور لہو ہے اس سے ہم تم کو خالص دودھ پلاتے ہیں جو پینے والوں کے لیے خوشگوار ہے
+**English (Yusuf Ali):** And verily in cattle (too) will ye find an instructive sign. From what is within their bodies between excretions and blood, We produce, for your drink, milk, pure and agreeable to those who drink it.
 
 [Open on Quran.com](https://quran.com/16/66)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** White and delicious to the drinkers;
 
-**Urdu (Fatah Muhammad Jalandhari):** جو رنگ کی سفید اور پینے والوں کے لئے (سراسر) لذت ہوگی
+**English (Yusuf Ali):** Crystal-white, of a taste delicious to those who drink (thereof),
 
 [Open on Quran.com](https://quran.com/37/46)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Is the description of Paradise, which the righteous are promised, wherein are rivers of water unaltered, rivers of milk the taste of which never changes, rivers of wine delicious to those who drink, and rivers of purified honey, in which they will have from all [kinds of] fruits and forgiveness from their Lord... [Are its inhabitants] like those who abide eternally in the Fire and are given to drink scalding water that will sever their intestines?
 
-**Urdu (Fatah Muhammad Jalandhari):** جنت جس کا پرہیزگاروں سے وعدہ کیا جاتا ہے۔ اس کی صفت یہ ہے کہ اس میں پانی کی نہریں ہیں جو بو نہیں کرے گا۔ اور دودھ کی نہریں ہیں جس کا مزہ نہیں بدلے گا۔ اور شراب کی نہریں ہیں جو پینے والوں کے لئے (سراسر) لذت ہے۔ اور شہد مصفا کی نہریں ہیں (جو حلاوت ہی حلاوت ہے) اور (وہاں) ان کے لئے ہر قسم کے میوے ہیں اور ان کے پروردگار کی طرف سے مغفرت ہے۔ (کیا یہ پرہیزگار) ان کی طرح (ہوسکتے) ہیں جو ہمیشہ دوزخ میں رہیں گے اور جن کو کھولتا ہوا پانی پلایا جائے گا تو ان کی انتڑیوں کو کاٹ ڈالے گا
+**English (Yusuf Ali):** (Here is) a Parable of the Garden which the righteous are promised: in it are rivers of water incorruptible; rivers of milk of which the taste never changes; rivers of wine, a joy to those who drink; and rivers of honey pure and clear. In it there are for them all kinds of fruits; and Grace from their Lord. (Can those in such Bliss) be compared to such as shall dwell for ever in the Fire, and be given, to drink, boiling water, so that it cuts up their bowels (to pieces)?
 
 [Open on Quran.com](https://quran.com/47/15)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And drinking on top of it from scalding water.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس پر کھولتا ہوا پانی پیو گے
+**English (Yusuf Ali):** "And drink Boiling Water on top of it:
 
 [Open on Quran.com](https://quran.com/56/54)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And will drink as the drinking of thirsty camels.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور پیو گے بھی تو اس طرح جیسے پیاسے اونٹ پیتے ہیں
+**English (Yusuf Ali):** "Indeed ye shall drink like diseased camels raging with thirst!"
 
 [Open on Quran.com](https://quran.com/56/55)
 

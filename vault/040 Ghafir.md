@@ -14,31 +14,31 @@ The Forgiver · 85 ayahs
 
 ## Words in this surah (graph)
 
-- [[wqY - save us]] — `وَقَى` · save us
 - [[mtkbr - arrogant]] — `مُتَكَبِّر` · arrogant
+- [[wqY - save us]] — `وَقَى` · save us
+- [[mqt - hatred]] — `مَقْت` · hatred
+- [[wHd - alone]] — `وَحْد` · alone
+- [[k*Ab - liar]] — `كَذّاب` · liar
+- [[sbb - course]] — `سَبَب` · course
+- [[qrAr - settlement]] — `قَرار` · settlement
 - [[E$y - evening]] — `عَشِيّ` · evening
 - [[>vr - footsteps]] — `أَثَر` · footsteps
-- [[mqt - hatred]] — `مَقْت` · hatred
-- [[k*Ab - liar]] — `كَذّاب` · liar
-- [[Hmym - scalding water]] — `حَمِيم` · scalding water
-- [[wHd - alone]] — `وَحْد` · alone
-- [[qrAr - settlement]] — `قَرار` · settlement
 - [[HAq - enveloped]] — `حاقَ` · enveloped
-- [[sbb - course]] — `سَبَب` · course
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[tqlb - movement]] — `تَقَلُّب` · movement
+- [[Hmym - scalding water]] — `حَمِيم` · scalding water
 - [[dEA - call]] — `دَعا` · call
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[>xfy - you conceal]] — `أُخْفِيَ` · you conceal
+- [[nAr - fire]] — `نار` · fire
+- [[jAdl - dispute]] — `جادَلُ` · dispute
+- [[DEyf - weak]] — `ضَعِيف` · weak
+- [[lyl - night]] — `لَيْل` · night
+- [[>slm - submits]] — `أَسْلَمَ` · submits
 - [[Dl - lost]] — `ضَلَّ` · lost
-- [[>n*r - warn]] — `أَنذَرَ` · warn
-- [[Sbr - patient]] — `صَبْر` · patient
-- [[Avntyn - two]] — `اثْنَتَيْن` · two
-- [[nhAr - day]] — `نَهار` · day
-- [[dnyA - world]] — `دُنْيا` · world
-- [[smyE - all-hearer]] — `سَمِيع` · all-hearer
-- [[AtY - give]] — `آتَى` · give
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[Eml - do]] — `عَمِلَ` · do
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[>mr - command]] — `أَمَرَ` · command
+- [[tbArk - blessed]] — `تَبارَكَ` · blessed
+- [[tqlb - movement]] — `تَقَلُّب` · movement
 
 ## Roots
 

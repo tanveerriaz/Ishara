@@ -47,7 +47,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:106 · [[003 Ali Imran]]
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** On the Day [some] faces will turn white and [some] faces will turn black. As for those whose faces turn black, [to them it will be said], "Did you disbelieve [i.e., reject faith] after your belief? Then taste the punishment for what you used to reject."
 
-**Urdu (Fatah Muhammad Jalandhari):** جس دن بہت سے منہ سفید ہوں گے اور بہت سے منہ سیاہ تو جن لوگوں کے منہ سیاہ ہوں گے (ان سے خدا فرمائے گا) کیا تم ایمان لا کر کافر ہوگئے تھے؟ سو (اب) اس کفر کے بدلے عذاب (کے مزے) چکھو
+**English (Yusuf Ali):** On the Day when some faces will be (lit up with) white, and some faces will be (in the gloom of) black: To those whose faces will be black, (will be said): "Did ye reject Faith after accepting it? Taste then the penalty for rejecting Faith."
 
 [Open on Quran.com](https://quran.com/3/106)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh has certainly heard the statement of those [Jews] who said, "Indeed, Allāh is poor, while we are rich." We will record what they said and their killing of the prophets without right and will say, "Taste the punishment of the Burning Fire.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے ان لوگوں کا قول سن لیا ہے جو کہتے ہیں کہ خدا فقیر ہے۔ اور ہم امیر ہیں۔ یہ جو کہتے ہیں ہم اس کو لکھ لیں گے۔ اور پیغمبروں کو جو یہ ناحق قتل کرتے رہے ہیں اس کو بھی (قلمبند کر رکھیں گے) اور (قیامت کے روز) کہیں گے کہ عذاب (آتش) سوزاں کے مزے چکھتے رہو
+**English (Yusuf Ali):** Allah hath heard the taunt of those who say: "Truly, Allah is indigent and we are rich!"- We shall certainly record their word and (their act) of slaying the prophets in defiance of right, and We shall say: "Taste ye the penalty of the Scorching Fire!
 
 [Open on Quran.com](https://quran.com/3/181)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve in Our verses - We will drive them into a fire. Every time their skins are roasted through, We will replace them with other skins so they may taste the punishment. Indeed, Allāh is ever Exalted in Might and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے ہماری آیتوں سے کفر کیا ان کو ہم عنقریب آگ میں داخل کریں گے جب ان کی کھالیں گل (اور جل) جائیں گی تو ہم اور کھالیں بدل دیں گے تاکہ (ہمیشہ) عذاب (کا مزہ چکھتے) رہیں بےشک خدا غالب حکمت والا ہے
+**English (Yusuf Ali):** Those who reject our Signs, We shall soon cast into the Fire: as often as their skins are roasted through, We shall change them for fresh skins, that they may taste the penalty: for Allah is Exalted in Power, Wise.
 
 [Open on Quran.com](https://quran.com/4/56)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not kill game while you are in the state of iḥrām. And whoever of you kills it intentionally - the penalty is an equivalent from sacrificial animals to what he killed, as judged by two just men among you as an offering [to Allāh] delivered to the Kaʿbah, or an expiation: the feeding of needy people or the equivalent of that in fasting, that he may taste the consequence of his matter [i.e., deed]. Allāh has pardoned what is past; but whoever returns [to violation], then Allāh will take retribution from him. And Allāh is Exalted in Might and Owner of Retribution.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم احرام کی حالت میں ہو تو شکار نہ مارنا اور جو تم میں سے جان بوجھ کر اسے مارے تو (یا تو اس کا) بدلہ (دے اور وہ یہ ہے کہ) اسی طرح کا چارپایہ جسے تم میں دو معتبر شخص مقرر کردیں قربانی (کرے اور یہ قربانی) کعبے پہنچائی جائے یا کفارہ (دے اور وہ) مسکینوں کو کھانا کھلانا (ہے) یا اس کے برابر روزے رکھے تاکہ اپنے کام کی سزا (کا مزہ) چکھے (اور) جو پہلے ہو چکا وہ خدا نے معاف کر دیا اور جو پھر (ایسا کام) کرے گا تو خدا اس سے انتقام لے گا اور خدا غالب اور انتقام لینے والا ہے
+**English (Yusuf Ali):** O ye who believe! Kill not game while in the sacred precincts or in pilgrim garb. If any of you doth so intentionally, the compensation is an offering, brought to the Ka'ba, of a domestic animal equivalent to the one he killed, as adjudged by two just men among you; or by way of atonement, the feeding of the indigent; or its equivalent in fasts: that he may taste of the penalty of his deed. Allah forgives what is past: for repetition Allah will exact from him the penalty. For Allah is Exalted, and Lord of Retribution.
 
 [Open on Quran.com](https://quran.com/5/95)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If you could but see when they will be made to stand before their Lord. He will say, "Is this not the truth?" They will say, "Yes, by our Lord." He will [then] say, "So taste the punishment for what you used to deny."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کاش تم (ان کو اس وقت) دیکھو جب یہ اپنے پروردگار کےسامنے کھڑے کئے جائیں گے اور وہ فرمائےگا کیا یہ (دوبارہ زندہ ہونا) برحق نہیں تو کہیں گے کیوں نہیں پروردگار کی قسم (بالکل برحق ہے)خدا فرمائے گا اب کفر کے بدلے (جو دنیا میں کرتے تھے) عذاب (کے مزے) چکھو
+**English (Yusuf Ali):** If thou couldst but see when they are confronted with their Lord! He will say: "Is not this the truth?" They will say: "Yea, by our Lord!" He will say: "Taste ye then the penalty, because ye rejected Faith."
 
 [Open on Quran.com](https://quran.com/6/30)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who associated [others] with Allāh will say, "If Allāh had willed, we would not have associated [anything] and neither would our fathers, nor would we have prohibited anything." Likewise did those before deny until they tasted Our punishment. Say, "Do you have any knowledge that you can produce for us? You follow not except assumption, and you are not but misjudging."
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ شرک کرتے ہیں وہ کہیں گے کہ اگر خدا چاہتا تو ہم شرک نہ کرتے اور نہ ہمارے باپ دادا (شرک کرتے) اور نہ ہم کسی چیز کو حرام ٹھہراتے اسی طرح ان لوگوں نے تکذیب کی تھی جو ان سے پہلے تھے یہاں تک کہ ہمارے عذاب کا مزہ چکھ کر رہے کہہ دو کیا تمہارے پاس کوئی سند ہے (اگر ہے) تو اسے ہمارے سامنے نکالو تم محض خیال کے پیچھے چلتے اور اٹکل کی تیر چلاتے ہو
+**English (Yusuf Ali):** Those who give partners (to Allah) will say: "If Allah had wished, we should not have given partners to Him nor would our fathers; nor should we have had any taboos." So did their ancestors argue falsely, until they tasted of Our wrath. Say: "Have ye any (certain) knowledge? If so, produce it before us. Ye follow nothing but conjecture: ye do nothing but lie."
 
 [Open on Quran.com](https://quran.com/6/148)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, "Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?"
 
-**Urdu (Fatah Muhammad Jalandhari):** غرض (مردود نے) دھوکہ دے کر ان کو (معصیت کی طرف) کھینچ ہی لیا جب انہوں نے اس درخت (کے پھل) کو کھا لیا تو ان کی ستر کی چیزیں کھل گئیں اور وہ بہشت کے (درختوں کے) پتے توڑ توڑ کر اپنے اوپر چپکانے لگے اور (ستر چھپانے لگے) تب ان کے پروردگار نے ان کو پکارا کہ کیا میں نے تم کو اس درخت (کے پاس جانے) سے منع نہیں کیا تھا اور جتا نہیں دیا تھا کہ شیطان تمہارا کھلم کھلا دشمن ہے
+**English (Yusuf Ali):** So by deceit he brought about their fall: when they tasted of the tree, their shame became manifest to them, and they began to sew together the leaves of the garden over their bodies. And their Lord called unto them: "Did I not forbid you that tree, and tell you that Satan was an avowed enemy unto you?"
 
 [Open on Quran.com](https://quran.com/7/22)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the first of them will say to the last of them, "Then you had not any favor over us, so taste the punishment for what you used to earn."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور پہلی جماعت پچھلی جماعت سے کہے گی کہ تم کو ہم پر کچھ بھی فضیلت نہ ہوئی تو جو (عمل) تم کیا کرتے تھے اس کے بدلے میں عذاب کے مزے چکھو
+**English (Yusuf Ali):** Then the first will say to the last: "See then! No advantage have ye over us; so taste ye of the penalty for all that ye did!"
 
 [Open on Quran.com](https://quran.com/7/39)
 
@@ -189,7 +189,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** "That [is yours], so taste it." And indeed for the disbelievers is the punishment of the Fire.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ (مزہ تو یہاں) چکھو اور یہ (جانے رہو) کہ کافروں کے لیے (آخرت میں) دوزخ کا عذاب (بھی تیار) ہے
+**English (Yusuf Ali):** Thus (will it be said): "Taste ye then of the (punishment): for those who resist Allah, is the penalty of the Fire."
 
 [Open on Quran.com](https://quran.com/8/14)
 
@@ -205,7 +205,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And their prayer at the House [i.e., the Kaʿbah] was not except whistling and handclapping. So taste the punishment for what you disbelieved [i.e., practiced of deviations].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں کی نماز خانہٴ کعبہ کے پاس سیٹیاں اور تالیاں بجانے کے سوا کچھ نہ تھی۔ تو تم جو کفر کرتے تھے اب اس کے بدلے عذاب (کا مزہ) چکھو
+**English (Yusuf Ali):** Their prayer at the House (of Allah) is nothing but whistling and clapping of hands: (Its only answer can be), "Taste ye the penalty because ye blasphemed."
 
 [Open on Quran.com](https://quran.com/8/35)
 

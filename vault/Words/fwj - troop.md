@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 27:83 · [[027 An-Naml]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [warn of] the Day when We will gather from every nation a company of those who deny Our signs, and they will be [driven] in rows
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس روز ہم ہر اُمت میں سے اس گروہ کو جمع کریں گے جو ہماری آیتوں کی تکذیب کرتے تھے تو اُن کی جماعت بندی کی جائے گی
+**English (Yusuf Ali):** One day We shall gather together from every people a troop of those who reject our Signs, and they shall be kept in ranks,-
 
 [Open on Quran.com](https://quran.com/27/83)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Its inhabitants will say], "This is a company bursting in with you. No welcome for them. Indeed, they will burn in the Fire."
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ ایک فوج ہے جو تمہارے ساتھ داخل ہوگی۔ ان کو خوشی نہ ہو یہ دوزخ میں جانے والے ہیں
+**English (Yusuf Ali):** Here is a troop rushing headlong with you! No welcome for them! truly, they shall burn in the Fire!
 
 [Open on Quran.com](https://quran.com/38/59)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, "Did there not come to you a warner?"
 
-**Urdu (Fatah Muhammad Jalandhari):** گویا مارے جوش کے پھٹ پڑے گی۔ جب اس میں ان کی کوئی جماعت ڈالی جائے گی تو دوزخ کے داروغہ ان سے پوچھیں گے کہ تمہارے پاس کوئی ہدایت کرنے والا نہیں آیا تھا؟
+**English (Yusuf Ali):** Almost bursting with fury: Every time a Group is cast therein, its Keepers will ask, "Did no Warner come to you?"
 
 [Open on Quran.com](https://quran.com/67/8)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day the Horn is blown and you will come forth in multitudes
 
-**Urdu (Fatah Muhammad Jalandhari):** جس دن صور پھونکا جائے گا تو تم لوگ غٹ کے غٹ آ موجود ہو گے
+**English (Yusuf Ali):** The Day that the Trumpet shall be sounded, and ye shall come forth in crowds;
 
 [Open on Quran.com](https://quran.com/78/18)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you see the people entering into the religion of Allāh in multitudes,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم نے دیکھ لیا کہ لوگ غول کے غول خدا کے دین میں داخل ہو رہے ہیں
+**English (Yusuf Ali):** And thou dost see the people enter Allah's Religion in crowds,
 
 [Open on Quran.com](https://quran.com/110/2)
 

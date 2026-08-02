@@ -40,7 +40,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:49 · [[003 Ali Imran]]
 
@@ -54,7 +54,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [make him] a messenger to the Children of Israel, [who will say], 'Indeed I have come to you with a sign from your Lord in that I design for you from clay [that which is] like the form of a bird, then I breathe into it and it becomes a bird by permission of Allāh. And I cure the blind [from birth] and the leper, and I give life to the dead - by permission of Allāh. And I inform you of what you eat and what you store in your houses. Indeed in that is a sign for you, if you are believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (عیسیٰ) بنی اسرائیل کی طرف پیغمبر (ہو کر جائیں گے اور کہیں گے) کہ میں تمہارے پروردگار کی طرف سے نشانی لے کر آیا ہوں وہ یہ کہ تمہارے سامنے مٹی کی مورت بشکل پرند بناتا ہوں پھر اس میں پھونک مارتا ہوں تو وہ خدا کے حکم سے (سچ مچ) جانور ہو جاتا ہے اور اندھے اور ابرص کو تندرست کر دیتا ہوں اور خدا کے حکم سے مردے میں جان ڈال دیتا ہوں اور جو کچھ تم کھا کر آتے ہو اور جو اپنے گھروں میں جمع کر رکھتے ہو سب تم کو بتا دیتا ہوں اگر تم صاحب ایمان ہو تو ان باتوں میں تمہارے لیے (قدرت خدا کی) نشانی ہے
+**English (Yusuf Ali):** "And (appoint him) a messenger to the Children of Israel, (with this message): "'I have come to you, with a Sign from your Lord, in that I make for you out of clay, as it were, the figure of a bird, and breathe into it, and it becomes a bird by Allah's leave: And I heal those born blind, and the lepers, and I quicken the dead, by Allah's leave; and I declare to you what ye eat, and what ye store in your houses. Surely therein is a Sign for you if ye did believe;
 
 [Open on Quran.com](https://quran.com/3/49)
 
@@ -70,7 +70,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [The Day] when Allāh will say, "O Jesus, Son of Mary, remember My favor upon you and upon your mother when I supported you with the Pure Spirit [i.e., the angel Gabriel] and you spoke to the people in the cradle and in maturity; and [remember] when I taught you writing and wisdom and the Torah and the Gospel; and when you designed from clay [what was] like the form of a bird with My permission, then you breathed into it, and it became a bird with My permission; and you healed the blind [from birth] and the leper with My permission; and when you brought forth the dead with My permission; and when I restrained the Children of Israel from [killing] you when you came to them with clear proofs and those who disbelieved among them said, "This is not but obvious magic."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب خدا (عیسیٰ سے) فرمائے گا کہ اے عیسیٰ بن مریم! میرے ان احسانوں کو یاد کرو جو میں نے تم پر اور تمہاری والدہ پر کئے جب میں نے روح القدس (یعنی جبرئیل) سے تمہاری مدد کی تم جھولے میں اور جوان ہو کر (ایک ہی نسق پر) لوگوں سے گفتگو کرتے تھے اور جب میں نے تم کو کتاب اور دانائی اور تورات اور انجیل سکھائی اور جب تم میرے حکم سے مٹی کا جانور بنا کر اس میں پھونک مار دیتے تھے تو وہ میرے حکم سے اڑنے لگتا تھا اور مادر زاد اندھے اور سفید داغ والے کو میرے حکم سے چنگا کر دیتے تھے اور مردے کو میرے حکم سے (زندہ کرکے قبر سے) نکال کھڑا کرتے تھے اور جب میں نے بنی اسرائیل (کے ہاتھوں) کو تم سے روک دیا جب تم ان کے پاس کھلے نشان لے کر آئے تو جو ان میں سے کافر تھے کہنے لگے کہ یہ صریح جادو ہے
+**English (Yusuf Ali):** Then will Allah say: "O Jesus the son of Mary! Recount My favour to thee and to thy mother. Behold! I strengthened thee with the holy spirit, so that thou didst speak to the people in childhood and in maturity. Behold! I taught thee the Book and Wisdom, the Law and the Gospel and behold! thou makest out of clay, as it were, the figure of a bird, by My leave, and thou breathest into it and it becometh a bird by My leave, and thou healest those born blind, and the lepers, by My leave. And behold! thou bringest forth the dead by My leave. And behold! I did restrain the Children of Israel from (violence to) thee when thou didst show them the clear Signs, and the unbelievers among them said: 'This is nothing but evident magic.'
 
 [Open on Quran.com](https://quran.com/5/110)
 
@@ -86,7 +86,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who created the heavens and earth in truth. And the day [i.e., whenever] He says, "Be," and it is, His word is the truth. And His is the dominion [on] the Day the Horn is blown. [He is] Knower of the unseen and the witnessed; and He is the Wise, the Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے آسمانوں اور زمین کو تدبیر سے پیدا کیا ہے۔ اور جس دن وہ فرمائے گا کہ ہو جا تو (حشر برپا) ہوجائے گا ۔ اس کا ارشاد برحق ہے۔ اور جس دن صور پھونکا جائے گا (اس دن) اسی کی بادشاہت ہوگی۔ وہی پوشیدہ اور ظاہر (سب) کا جاننے والا ہے اور وہی دانا اور خبردار ہے
+**English (Yusuf Ali):** It is He who created the heavens and the earth in true (proportions): the day He saith, "Be," behold! it is. His word is the truth. His will be the dominion the day the trumpet will be blown. He knoweth the unseen as well as that which is open. For He is the Wise, well acquainted (with all things).
 
 [Open on Quran.com](https://quran.com/6/73)
 
@@ -102,7 +102,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب اس کو (صورت انسانیہ میں) درست کر لوں اور اس میں اپنی (بےبہا چیز یعنی) روح پھونک دوں تو اس کے آگے سجدے میں گر پڑنا
+**English (Yusuf Ali):** "When I have fashioned him (in due proportion) and breathed into him of My spirit, fall ye down in obeisance unto him."
 
 [Open on Quran.com](https://quran.com/15/29)
 
@@ -118,7 +118,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Bring me bars of iron" - until, when he had leveled [them] between the two mountain walls, he said, "Blow [with bellows]," until when he had made it [like] fire, he said, "Bring me, that I may pour over it molten copper."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو تم لوہے کے (بڑے بڑے) تختے لاؤ (چنانچہ کام جاری کردیا گیا) یہاں تک کہ جب اس نے دونوں پہاڑوں کے درمیان (کا حصہ) برابر کر دیا۔ اور کہا کہ (اب اسے) دھونکو۔ یہاں تک کہ جب اس کو (دھونک دھونک) کر آگ کر دیا تو کہا کہ (اب) میرے پاس تانبہ لاؤ اس پر پگھلا کر ڈال دوں
+**English (Yusuf Ali):** "Bring me blocks of iron." At length, when he had filled up the space between the two steep mountain-sides, He said, "Blow (with your bellows)" Then, when he had made it (red) as fire, he said: "Bring me, that I may pour over it, molten lead."
 
 [Open on Quran.com](https://quran.com/18/96)
 
@@ -134,7 +134,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will leave them that day surging over each other, and [then] the Horn will be blown, and We will assemble them in [one] assembly.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اس روز) ہم ان کو چھوڑ دیں گے کہ (روئے زمین پر پھیل کر) ایک دوسرے میں گھس جائیں گے اور صور پھونکا جائے گا تو ہم سب کو جمع کرلیں گے
+**English (Yusuf Ali):** On that day We shall leave them to surge like waves on one another: the trumpet will be blown, and We shall collect them all together.
 
 [Open on Quran.com](https://quran.com/18/99)
 
@@ -150,7 +150,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day the Horn will be blown. And We will gather the criminals, that Day, blue-eyed.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس روز صور پھونکا جائے گا اور ہم گنہگاروں کو اکھٹا کریں گے اور ان کی آنکھیں نیلی نیلی ہوں گی
+**English (Yusuf Ali):** The Day when the Trumpet will be sounded: that Day, We shall gather the sinful, blear-eyed (with terror).
 
 [Open on Quran.com](https://quran.com/20/102)
 
@@ -166,7 +166,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] the one who guarded her chastity [i.e., Mary], so We blew into her [garment] through Our angel [i.e., Gabriel], and We made her and her son a sign for the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان (مریم) کو (بھی یاد کرو) جنہوں نے اپنی عفّت کو محفوظ رکھا۔ تو ہم نے ان میں اپنی روح پھونک دی اور ان کے بیٹے کو اہل عالم کے لئے نشانی بنا دیا
+**English (Yusuf Ali):** And (remember) her who guarded her chastity: We breathed into her of Our spirit, and We made her and her son a sign for all peoples.
 
 [Open on Quran.com](https://quran.com/21/91)
 
@@ -182,7 +182,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when the Horn is blown, no relationship will there be among them that Day, nor will they ask about one another.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر جب صور پھونکا جائے گا تو نہ تو ان میں قرابتیں ہوں گی اور نہ ایک دوسرے کو پوچھیں گے
+**English (Yusuf Ali):** Then when the Trumpet is blown, there will be no more relationships between them that Day, nor will one ask after another!
 
 [Open on Quran.com](https://quran.com/23/101)
 
@@ -198,7 +198,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [warn of] the Day the Horn will be blown, and whoever is in the heavens and whoever is on the earth will be terrified except whom Allāh wills. And all will come to Him humbled.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس روز صور پھونکا جائے گا تو جو لوگ آسمانوں اور زمین میں ہیں سب گھبرا اُٹھیں گے مگر وہ جسے خدا چاہے اور سب اس کے پاس عاجز ہو کر چلے آئیں گے
+**English (Yusuf Ali):** And the Day that the Trumpet will be sounded - then will be smitten with terror those who are in the heavens, and those who are on earth, except such as Allah will please (to exempt): and all shall come to His (Presence) as beings conscious of their lowliness.
 
 [Open on Quran.com](https://quran.com/27/87)
 

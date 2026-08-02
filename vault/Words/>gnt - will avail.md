@@ -44,7 +44,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:10 · [[003 Ali Imran]]
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve - never will their wealth or their children avail them against Allāh at all. And it is they who are fuel for the Fire.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے (اس دن) نہ تو ان کا مال ہی خدا (کے عذاب) سے ان کو بچا سکے گا اور نہ ان کی اولاد ہی (کچھ کام آئے گی) اور یہ لوگ آتش (جہنم) کا ایندھن ہوں گے
+**English (Yusuf Ali):** Those who reject Faith,- neither their possessions nor their (numerous) progeny will avail them aught against Allah: They are themselves but fuel for the Fire.
 
 [Open on Quran.com](https://quran.com/3/10)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve - never will their wealth or their children avail them against Allāh at all, and those are the companions of the Fire; they will abide therein eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں ان کے مال اور اولاد خدا کے غضب کو ہرگز نہیں ٹال سکیں گے اور یہ لوگ اہلِ دوزخ ہیں کہ ہمیشہ اسی میں رہیں گے
+**English (Yusuf Ali):** Those who reject Faith,- neither their possessions nor their (numerous) progeny will avail them aught against Allah: They will be companions of the Fire,-dwelling therein (for ever).
 
 [Open on Quran.com](https://quran.com/3/116)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if they separate [by divorce], Allāh will enrich each [of them] from His abundance. And ever is Allāh Encompassing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر میاں بیوی (میں موافقت نہ ہوسکے اور) ایک دوسرے سے جدا ہوجائیں تو خدا ہر ایک کو اپنی دولت سے غنی کردے گا اور خدا بڑی کشائش والا اور حکمت والا ہے
+**English (Yusuf Ali):** But if they disagree (and must part), Allah will provide abundance for all from His all-reaching bounty: for Allah is He that careth for all and is Wise.
 
 [Open on Quran.com](https://quran.com/4/130)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If you [disbelievers] seek the decision [i.e., victory] - the decision [i.e., defeat] has come to you. And if you desist [from hostilities], it is best for you; but if you return [to war], We will return, and never will you be availed by your [large] company at all, even if it should increase; and [that is] because Allāh is with the believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** (کافرو) اگر تم (محمد صلی الله علیہ وآلہ وسلم پر) فتح چاہتے ہو تو تمہارے پاس فتح آچکی۔ (دیکھو) اگر تم (اپنے افعال سے) باز آجاؤ تو تمہارے حق میں بہتر ہے۔ اور اگر پھر (نافرمانی) کرو گے تو ہم بھی پھر تمہیں عذاب کریں گے اور تمہاری جماعت خواہ کتنی ہی کثیر ہو تمہارے کچھ بھی کام نہ آئے گی۔ اور خدا تو مومنوں کے ساتھ ہے
+**English (Yusuf Ali):** (O Unbelievers!) if ye prayed for victory and judgment, now hath the judgment come to you: if ye desist (from wrong), it will be best for you: if ye return (to the attack), so shall We. Not the least good will your forces be to you even if they were multiplied: for verily Allah is with those who believe!
 
 [Open on Quran.com](https://quran.com/8/19)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh has already given you victory in many regions and [even] on the day of Ḥunayn, when your great number pleased you, but it did not avail you at all, and the earth was confining for you with [i.e., in spite of] its vastness; then you turned back, fleeing.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے بہت سے موقعوں پر تم کو مدد دی ہے اور (جنگ) حنین کے دن۔ جب تم کو اپنی (جماعت کی) کثرت پر غرّہ تھا تو وہ تمہارے کچھ بھی کام نہ آئی۔ اور زمین باوجود (اتنی بڑی) فراخی کے تم پر تنگ ہوگئی پھر تم پیٹھ پھیر کر پھر گئے
+**English (Yusuf Ali):** Assuredly Allah did help you in many battle-fields and on the day of Hunain: Behold! your great numbers elated you, but they availed you naught: the land, for all that it is wide, did constrain you, and ye turned back in retreat.
 
 [Open on Quran.com](https://quran.com/9/25)
 
@@ -138,7 +138,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, indeed the polytheists are unclean, so let them not approach al-Masjid al-Ḥarām after this, their [final] year. And if you fear privation, Allāh will enrich you from His bounty if He wills. Indeed, Allāh is Knowing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! مشرک تو پلید ہیں تو اس برس کے بعد وہ خانہٴ کعبہ کا پاس نہ جانے پائیں اور اگر تم کو مفلسی کا خوف ہو تو خدا چاہے گا تو تم کو اپنے فضل سے غنی کر دے گا۔ بےشک خدا سب کچھ جانتا (اور) حکمت والا ہے
+**English (Yusuf Ali):** O ye who believe! Truly the Pagans are unclean; so let them not, after this year of theirs, approach the Sacred Mosque. And if ye fear poverty, soon will Allah enrich you, if He wills, out of His bounty, for Allah is All-knowing, All-wise.
 
 [Open on Quran.com](https://quran.com/9/28)
 
@@ -154,7 +154,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And most of them follow not except assumption. Indeed, assumption avails not against the truth at all. Indeed, Allāh is Knowing of what they do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے اکثر صرف ظن کی پیروی کرتے ہیں۔ اور کچھ شک نہیں کہ ظن حق کے مقابلے میں کچھ بھی کارآمد نہیں ہوسکتا۔ بےشک خدا تمہارے (سب) افعال سے واقف ہے
+**English (Yusuf Ali):** But most of them follow nothing but fancy: truly fancy can be of no avail against truth. Verily Allah is well aware of all that they do.
 
 [Open on Quran.com](https://quran.com/10/36)
 
@@ -170,7 +170,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Observe what is in the heavens and the earth." But of no avail will be signs or warners to a people who do not believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** (ان کفار سے) کہو دیکھو تو زمین اور آسمانوں میں کیا کچھ ہے۔ مگر جو لوگ ایمان نہیں رکھتے ان کی نشانیاں اور ڈرواے کچھ کام نہیں آتے
+**English (Yusuf Ali):** Say: "Behold all that is in the heavens and on earth"; but neither Signs nor Warners profit those who believe not.
 
 [Open on Quran.com](https://quran.com/10/101)
 
@@ -186,7 +186,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We did not wrong them, but they wronged themselves. And they were not availed at all by their gods which they invoked other than Allāh when there came the command of your Lord. And they did not increase them in other than ruin.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان لوگوں پر ظلم نہیں کیا بلکہ انہوں نے خود اپنے اُوپر ظلم کیا۔ غرض جب تمہارے پروردگار کا حکم آپہنچا تو جن معبودوں کو وہ خدا کے سوا پکارا کرتے تھے وہ ان کے کچھ بھی کام نہ آئے۔ اور تباہ کرنے کے سوا ان کے حق میں اور کچھ نہ کرسکے
+**English (Yusuf Ali):** It was not We that wronged them: They wronged their own souls: the deities, other than Allah, whom they invoked, profited them no whit when there issued the decree of thy Lord: Nor did they add aught (to their lot) but perdition!
 
 [Open on Quran.com](https://quran.com/11/101)
 
@@ -202,7 +202,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he said, "O my sons, do not enter from one gate but enter from different gates; and I cannot avail you against [the decree of] Allāh at all. The decision is only for Allāh; upon Him I have relied, and upon Him let those who would rely [indeed] rely."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہدایت کی کہ بیٹا ایک ہی دروازے سے داخل نہ ہونا بلکہ جدا جدا دروازوں سے داخل ہونا۔ اور میں خدا کی تقدیر کو تم سے نہیں روک سکتا۔ بےشک حکم اسی کا ہے میں اسی پر بھروسہ رکھتا ہوں۔ اور اہلِ توکل کو اسی پر بھروسہ رکھنا چاہیئے
+**English (Yusuf Ali):** Further he said: "O my sons! enter not all by one gate: enter ye by different gates. Not that I can profit you aught against Allah (with my advice): None can command except Allah: On Him do I put my trust: and let all that trust put their trust on Him."
 
 [Open on Quran.com](https://quran.com/12/67)
 

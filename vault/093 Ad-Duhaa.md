@@ -14,22 +14,22 @@ The Morning Hours · 11 ayahs
 
 ## Words in this surah (graph)
 
-- [[lyl - night]] — `لَيْل` · night
-- [[xyr - better]] — `خَيْر` · better
-- [[>wl - first]] — `أَوَّل` · first
 - [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[sA}l - ask]] — `سائِل` · ask
-- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[ytym - orphans]] — `يَتِيم` · orphans
 - [[nEmp - favor]] — `نِعْمَة` · favor
 - [[AwY - gave shelter]] — `آوَى` · gave shelter
+- [[lyl - night]] — `لَيْل` · night
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[>gnY - availed]] — `أَغْنَى` · availed
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[sA}l - ask]] — `سائِل` · ask
+- [[wjd - we found]] — `وَجَدَ` · we found
+- [[xyr - better]] — `خَيْر` · better
 - [[>ETY - they given]] — `أَعْطَى` · they given
+- [[>wl - first]] — `أَوَّل` · first
 - [[DAl - astray]] — `ضالّ` · astray
 - [[DHY - its brightness]] — `ضُحًى` · its brightness
-- [[wjd - we found]] — `وَجَدَ` · we found
 - [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
-- [[ytym - orphans]] — `يَتِيم` · orphans
-- [[>gnY - availed]] — `أَغْنَى` · availed
 - [[rb - lord]] — `رَبّ` · lord
 
 ## Roots

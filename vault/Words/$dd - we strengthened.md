@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 10:88 · [[010 Yunus]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Moses said, "Our Lord, indeed You have given Pharaoh and his establishment splendor and wealth in the worldly life, our Lord, that they may lead [men] astray from Your way. Our Lord, obliterate their wealth and harden their hearts so that they will not believe until they see the painful punishment."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ نے کہا اے ہمارے پروردگار تو نے فرعون اور اس کے سرداروں کو دنیا کی زندگی میں (بہت سا) سازو برگ اور مال وزر دے رکھا ہے۔ اے پروردگار ان کا مال یہ ہے کہ تیرے رستے سے گمراہ کردیں۔ اے پروردگار ان کے مال کو برباد کردے اور ان کے دلوں کو سخت کردے کہ ایمان نہ لائیں جب تک عذاب الیم نہ دیکھ لیں
+**English (Yusuf Ali):** Moses prayed: "Our Lord! Thou hast indeed bestowed on Pharaoh and his chiefs splendour and wealth in the life of the present, and so, Our Lord, they mislead (men) from Thy Path. Deface, our Lord, the features of their wealth, and send hardness to their hearts, so they will not believe until they see the grievous penalty."
 
 [Open on Quran.com](https://quran.com/10/88)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Increase through him my strength
 
-**Urdu (Fatah Muhammad Jalandhari):** اس سے میری قوت کو مضبوط فرما
+**English (Yusuf Ali):** "Add to my strength through him,
 
 [Open on Quran.com](https://quran.com/20/31)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "We will strengthen your arm through your brother and grant you both supremacy so they will not reach you. [It will be] through Our signs; you and those who follow you will be the predominant."
 
-**Urdu (Fatah Muhammad Jalandhari):** (خدا نے) فرمایا ہم تمہارے بھائی سے تمہارے بازو مضبوط کریں گے اور تم دونوں کو غلبہ دیں گے تو ہماری نشانیوں کے سبب وہ تم تک پہنچ نہ سکیں گے (اور) تم اور جنہوں نے تمہاری پیروی کی غالب رہو گے
+**English (Yusuf Ali):** He said: "We will certainly strengthen thy arm through thy brother, and invest you both with authority, so they shall not be able to touch you: with Our Sign shall ye triumph,- you two as well as those who follow you."
 
 [Open on Quran.com](https://quran.com/28/35)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We strengthened his kingdom and gave him wisdom and discernment in speech.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کی بادشاہی کو مستحکم کیا اور ان کو حکمت عطا کی اور (خصومت کی) بات کا فیصلہ (سکھایا)
+**English (Yusuf Ali):** We strengthened his kingdom, and gave him wisdom and sound judgment in speech and decision.
 
 [Open on Quran.com](https://quran.com/38/20)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when you meet those who disbelieve [in battle], strike [their] necks until, when you have inflicted slaughter upon them, then secure [their] bonds, and either [confer] favor afterwards or ransom [them] until the war lays down its burdens. That [is the command]. And if Allāh had willed, He could have taken vengeance upon them [Himself], but [He ordered armed struggle] to test some of you by means of others. And those who are killed in the cause of Allāh - never will He waste their deeds.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب تم کافروں سے بھڑ جاؤ تو ان کی گردنیں اُڑا دو۔ یہاں تک کہ جب ان کو خوب قتل کرچکو تو (جو زندہ پکڑے جائیں ان کو) مضبوطی سے قید کرلو۔ پھر اس کے بعد یا تو احسان رکھ کر چھوڑ دینا چاہیئے یا کچھ مال لے کر یہاں تک کہ (فریق مقابل) لڑائی (کے) ہتھیار (ہاتھ سے) رکھ دے۔ (یہ حکم یاد رکھو) اور اگر خدا چاہتا تو (اور طرح) ان سے انتقام لے لیتا۔ لیکن اس نے چاہا کہ تمہاری آزمائش ایک (کو) دوسرے سے (لڑوا کر) کرے۔ اور جو لوگ خدا کی راہ میں مارے گئے ان کے عملوں کو ہرگز ضائع نہ کرے گا
+**English (Yusuf Ali):** Therefore, when ye meet the Unbelievers (in fight), smite at their necks; At length, when ye have thoroughly subdued them, bind a bond firmly (on them): thereafter (is the time for) either generosity or ransom: Until the war lays down its burdens. Thus (are ye commanded): but if it had been Allah's Will, He could certainly have exacted retribution from them (Himself); but (He lets you fight) in order to test you, some with others. But those who are slain in the Way of Allah,- He will never let their deeds be lost.
 
 [Open on Quran.com](https://quran.com/47/4)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** We have created them and strengthened their forms, and when We will, We can change their likenesses with [complete] alteration.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم نے ان کو پیدا کیا اور ان کے مقابل کو مضبوط بنایا۔ اور اگر ہم چاہیں تو ان کے بدلے ان ہی کی طرح اور لوگ لے آئیں
+**English (Yusuf Ali):** It is We Who created them, and We have made their joints strong; but, when We will, We can substitute the like of them by a complete change.
 
 [Open on Quran.com](https://quran.com/76/28)
 

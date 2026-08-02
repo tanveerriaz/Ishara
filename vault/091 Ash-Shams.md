@@ -14,31 +14,31 @@ The Sun · 15 ayahs
 
 ## Words in this surah (graph)
 
-- [[lyl - night]] — `لَيْل` · night
-- [[>$qY - wretched one]] — `أَشْقَى` · wretched one
-- [[rswl - messenger]] — `رَسُول` · messenger
-- [[bnY - children]] — `بُنَىّ` · children
-- [[qAl - say]] — `قالَ` · say
-- [[$ms - sun]] — `شَمْس` · sun
-- [[Eqr - hamstrung]] — `عَقَرَ` · hamstrung
-- [[zkY - purify them]] — `زَكَّى` · purify them
-- [[nAqp - she-camel]] — `ناقَة` · she-camel
-- [[>rD - earth]] — `أَرْض` · earth
 - [[xAb - disappointed]] — `خابَ` · disappointed
-- [[tlY - recited]] — `تَلَى` · recited
-- [[qmr - moon]] — `قَمَر` · moon
-- [[*nb - sins]] — `ذَنب` · sins
-- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[swY - proportioned it]] — `سَوَّى` · proportioned it
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[DHY - its brightness]] — `ضُحًى` · its brightness
 - [[xAf - fear]] — `خافَ` · fear
-- [[smA' - heavens]] — `سَماء` · heavens
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
 - [[nhAr - day]] — `نَهار` · day
-- [[>flH - successful]] — `أَفْلَحَ` · successful
-- [[rb - lord]] — `رَبّ` · lord
+- [[>$qY - wretched one]] — `أَشْقَى` · wretched one
+- [[lyl - night]] — `لَيْل` · night
+- [[allah - God]] — `الله` · God
 - [[nfs - themselves]] — `نَفْس` · themselves
+- [[zkY - purify them]] — `زَكَّى` · purify them
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[qmr - moon]] — `قَمَر` · moon
+- [[$ms - sun]] — `شَمْس` · sun
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[>flH - successful]] — `أَفْلَحَ` · successful
+- [[nAqp - she-camel]] — `ناقَة` · she-camel
+- [[qAl - say]] — `قالَ` · say
+- [[tlY - recited]] — `تَلَى` · recited
+- [[DHY - its brightness]] — `ضُحًى` · its brightness
+- [[>rD - earth]] — `أَرْض` · earth
+- [[Eqr - hamstrung]] — `عَقَرَ` · hamstrung
+- [[*nb - sins]] — `ذَنب` · sins
+- [[bnY - children]] — `بُنَىّ` · children
+- [[swY - proportioned it]] — `سَوَّى` · proportioned it
 
 ## Roots
 

@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:195 · [[003 Ali Imran]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And their Lord responded to them, "Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another. So those who emigrated or were evicted from their homes or were harmed in My cause or fought or were killed - I will surely remove from them their misdeeds, and I will surely admit them to gardens beneath which rivers flow as reward from Allāh, and Allāh has with Him the best reward."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان کے پرردگار نے ان کی دعا قبول کر لی (اور فرمایا) کہ میں کسی عمل کرنے والے کے عمل کو مرد ہو یا عورت ضائع نہیں کرتا تم ایک دوسرے کی جنس ہو تو جو لوگ میرے لیے وطن چھوڑ گئے اور اپنے گھروں سے نکالے گئے اور ستائے گئے اور لڑے اور قتل کیے گئے میں ان کے گناہ دور کردوں گا اور ان کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہ رہی ہیں (یہ) خدا کے ہاں سے بدلہ ہے اور خدا کے ہاں اچھا بدلہ ہے
+**English (Yusuf Ali):** And their Lord hath accepted of them, and answered them: "Never will I suffer to be lost the work of any of you, be he male or female: Ye are members, one of another: Those who have left their homes, or been driven out therefrom, or suffered harm in My Cause, or fought or been slain,- verily, I will blot out from them their iniquities, and admit them into Gardens with rivers flowing beneath;- A reward from the presence of Allah, and from His presence is the best of rewards."
 
 [Open on Quran.com](https://quran.com/3/195)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the two who commit it [i.e., unlawful sexual intercourse] among you - punish [i.e., dishonor] them both. But if they repent and correct themselves, leave them alone. Indeed, Allāh is ever Accepting of Repentance and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو دو مرد تم میں سے بدکاری کریں تو ان کو ایذا دو۔ پھر اگر وہ توبہ کرلیں اور نیکوکار ہوجائیں تو ان کا پیچھا چھوڑ دو۔ بےشک خدا توبہ قبول کرنے والا (اور) مہربان ہے
+**English (Yusuf Ali):** If two men among you are guilty of lewdness, punish them both. If they repent and amend, Leave them alone; for Allah is Oft-returning, Most Merciful.
 
 [Open on Quran.com](https://quran.com/4/16)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And certainly were messengers denied before you, but they were patient over the denial, and they were harmed until Our victory came to them. And none can alter the words [i.e., decrees] of Allāh. And there has certainly come to you some information about the [previous] messengers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم سے پہلے کبھی پیغمبر جھٹلائے جاتے رہے تو وہ تکذیب اور ایذا پر صبر کرتے رہے یہاں تک کہ ان کے پاس ہماری مدد پہنچتی رہی اور خدا کی باتوں کو کوئی بھی بدلنے والا نہیں۔ اور تم کو پیغمبروں (کے احوال) کی خبریں پہنچ چکی ہیں (تو تم بھی صبر سے کام لو)
+**English (Yusuf Ali):** Rejected were the messengers before thee: with patience and constancy they bore their rejection and their wrongs, until Our aid did reach them: there is none that can alter the words (and decrees) of Allah. Already hast thou received some account of those messengers.
 
 [Open on Quran.com](https://quran.com/6/34)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "We have been harmed before you came to us and after you have come to us." He said, "Perhaps your Lord will destroy your enemy and grant you succession in the land and see how you will do."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ تمہارے آنے سے پہلے بھی ہم کو اذیتیں پہنچتی رہیں اور آنے کے بعد بھی۔ موسیٰ نے کہا کہ قریب ہے کہ تمہارا پروردگار تمہارے دشمن کو ہلاک کردے اور اس کی جگہ تمہیں زمین میں خلیفہ بنائے پھر دیکھے کہ تم کیسے عمل کرتے ہو
+**English (Yusuf Ali):** They said: "We have had (nothing but) trouble, both before and after thou camest to us." He said: "It may be that your Lord will destroy your enemy and make you inheritors in the earth; that so He may try you by your deeds."
 
 [Open on Quran.com](https://quran.com/7/129)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And among them are those who abuse the Prophet and say, "He is an ear." Say, "[It is] an ear of goodness for you that believes in Allāh and believes the believers and [is] a mercy to those who believe among you." And those who abuse the Messenger of Allāh - for them is a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان میں بعض ایسے ہیں جو پیغمبر کو ایذا دیتے ہیں اور کہتے ہیں کہ یہ شخص نرا کان ہے۔ (ان سے) کہہ دو کہ (وہ) کان (ہے تو) تمہاری بھلائی کے لیے۔ وہ خدا کا اور مومنوں (کی بات) کا یقین رکھتا ہے اور جو لوگ تم میں سے ایمان لائے ہیں ان کے لیے رحمت ہے۔ اور جو لوگ رسول خدا کو رنج پہنچاتے ہیں ان کے لیے عذاب الیم (تیار) ہے
+**English (Yusuf Ali):** Among them are men who molest the Prophet and say, "He is (all) ear." Say, "He listens to what is best for you: he believes in Allah, has faith in the Believers, and is a Mercy to those of you who believe." But those who molest the Messenger will have a grievous penalty.
 
 [Open on Quran.com](https://quran.com/9/61)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And why should we not rely upon Allāh while He has guided us to our [good] ways. And we will surely be patient against whatever harm you should cause us. And upon Allāh let those who would rely [indeed] rely."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم کیونکر خدا پر بھروسہ نہ رکھیں حالانکہ اس نے ہم کو ہمارے (دین کے سیدھے) رستے بتائے ہیں۔ جو تکلیفیں تم ہم کو دیتے ہو اس پر صبر کریں گے۔ اور اہل توکل کو خدا ہی پر بھروسہ رکھنا چاہیئے
+**English (Yusuf Ali):** "No reason have we why we should not put our trust on Allah. Indeed He Has guided us to the Ways we (follow). We shall certainly bear with patience all the hurt you may cause us. For those who put their trust should put their trust on Allah."
 
 [Open on Quran.com](https://quran.com/14/12)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And of the people are some who say, "We believe in Allāh," but when one [of them] is harmed for [the cause of] Allāh, he considers the trial [i.e., harm] of the people as [if it were] the punishment of Allāh. But if victory comes from your Lord, they say, "Indeed, We were with you." Is not Allāh most knowing of what is within the breasts of the worlds [i.e., all creatures]?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بعض لوگ ایسے ہیں جو کہتے ہیں کہ ہم خدا پر ایمان لائے جب اُن کو خدا (کے رستے) میں کوئی ایذا پہنچتی ہے تو لوگوں کی ایذا کو (یوں) سمجھتے ہیں جیسے خدا کا عذاب۔ اگر تمہارے پروردگار کی طرف سے مدد پہنچے تو کہتے ہیں کہ ہم تمہارے ساتھ تھے۔ کیا جو اہل عالم کے سینوں میں ہے خدا اس سے واقف نہیں؟
+**English (Yusuf Ali):** Then there are among men such as say, "We believe in Allah"; but when they suffer affliction in (the cause of) Allah, they treat men's oppression as if it were the Wrath of Allah! And if help comes (to thee) from thy Lord, they are sure to say, "We have (always) been with you!" Does not Allah know best all that is in the hearts of all creation?
 
 [Open on Quran.com](https://quran.com/29/10)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not enter the houses of the Prophet except when you are permitted for a meal, without awaiting its readiness. But when you are invited, then enter; and when you have eaten, disperse without seeking to remain for conversation. Indeed, that [behavior] was troubling the Prophet, and he is shy of [dismissing] you. But Allāh is not shy of the truth. And when you ask [his wives] for something, ask them from behind a partition. That is purer for your hearts and their hearts. And it is not [conceivable or lawful] for you to harm the Messenger of Allāh or to marry his wives after him, ever. Indeed, that would be in the sight of Allāh an enormity.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو پیغمبر کے گھروں میں نہ جایا کرو مگر اس صورت میں کہ تم کو کھانے کے لئے اجازت دی جائے اور اس کے پکنے کا انتظار بھی نہ کرنا پڑے۔ لیکن جب تمہاری دعوت کی جائے تو جاؤ اور جب کھانا کھاچکو تو چل دو اور باتوں میں جی لگا کر نہ بیٹھ رہو۔ یہ بات پیغمبر کو ایذا دیتی ہے۔ اور وہ تم سے شرم کرتے ہیں (اور کہتے نہیں ہیں) لیکن خدا سچی بات کے کہنے سے شرم نہیں کرتا۔ اور جب پیغمبروں کی بیویوں سے کوئی سامان مانگو تو پردے کے باہر مانگو۔ یہ تمہارے اور ان کے دونوں کے دلوں کے لئے بہت پاکیزگی کی بات ہے۔ اور تم کو یہ شایاں نہیں کہ پیغمبر خدا کو تکلیف دو اور نہ یہ کہ ان کی بیویوں سے کبھی ان کے بعد نکاح کرو۔ بےشک یہ خدا کے نزدیک بڑا (گناہ کا کام) ہے
+**English (Yusuf Ali):** O ye who believe! Enter not the Prophet's houses,- until leave is given you,- for a meal, (and then) not (so early as) to wait for its preparation: but when ye are invited, enter; and when ye have taken your meal, disperse, without seeking familiar talk. Such (behaviour) annoys the Prophet: he is ashamed to dismiss you, but Allah is not ashamed (to tell you) the truth. And when ye ask (his ladies) for anything ye want, ask them from before a screen: that makes for greater purity for your hearts and for theirs. Nor is it right for you that ye should annoy Allah's Messenger, or that ye should marry his widows after him at any time. Truly such a thing is in Allah's sight an enormity.
 
 [Open on Quran.com](https://quran.com/33/53)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who abuse Allāh and His Messenger - Allāh has cursed them in this world and the Hereafter and prepared for them a humiliating punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا اور اس کے پیغمبر کو رنج پہنچاتے ہیں ان پر خدا دنیا اور آخرت میں لعنت کرتا ہے اور ان کے لئے اس نے ذلیل کرنے والا عذاب تیار کر رکھا ہے
+**English (Yusuf Ali):** Those who annoy Allah and His Messenger - Allah has cursed them in this World and in the Hereafter, and has prepared for them a humiliating Punishment.
 
 [Open on Quran.com](https://quran.com/33/57)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who harm believing men and believing women for [something] other than what they have earned [i.e., deserved] have certainly borne upon themselves a slander and manifest sin.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ مومن مردوں اور مومن عورتوں کو ایسے کام (کی تہمت سے) جو انہوں نے نہ کیا ہو ایذا دیں تو انہوں نے بہتان اور صریح گناہ کا بوجھ اپنے سر پر رکھا
+**English (Yusuf Ali):** And those who annoy believing men and women undeservedly, bear (on themselves) a calumny and a glaring sin.
 
 [Open on Quran.com](https://quran.com/33/58)
 

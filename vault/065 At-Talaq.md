@@ -16,29 +16,29 @@ The Divorce · 12 ayahs
 
 - [[Edp - number]] — `عِدَّة` · number
 - [[mbynp - clear]] — `مُبَيِّنَة` · clear
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[tlY - recited]] — `تَلَى` · recited
-- [[Tlq - you divorce]] — `طَلَّقَ` · you divorce
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[>skn - lodge them]] — `أَسْكَن` · lodge them
-- [[qryp - town]] — `قَرْيَة` · town
-- [[$hAdp - witnessed]] — `شَهادَة` · witnessed
-- [[byt - houses]] — `بَيْت` · houses
-- [[wEZ - admonished]] — `وَعَظْ` · admonished
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
 - [[qdr - restricts]] — `قَدَر` · restricts
-- [[bAlg - reaching]] — `بالِغ` · reaching
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[yklf - we burden]] — `يُكَلِّفُ` · we burden
-- [[nwr - light]] — `نُور` · light
-- [[Edl - justice]] — `عَدْل` · justice
-- [[E*b - punishes]] — `عَذَّبَ` · punishes
-- [[Esr - hardship]] — `عُسْر` · hardship
-- [[Elm - know]] — `عَلِمَ` · know
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[fAH$p - immorality]] — `فاحِشَة` · immorality
-- [[nfs - themselves]] — `نَفْس` · themselves
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[$hr - months]] — `شَهْر` · months
+- [[wEZ - admonished]] — `وَعَظْ` · admonished
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[Eml - do]] — `عَمِلَ` · do
+- [[>rDEt - nursed you]] — `أَرْضَعَتْ` · nursed you
+- [[>mr - command]] — `أَمَرَ` · command
+- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
+- [[nsA' - women]] — `نِساء` · women
+- [[byt - houses]] — `بَيْت` · houses
+- [[tlY - recited]] — `تَلَى` · recited
+- [[nhr - rivers]] — `نَهَر` · rivers
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>y - o you]] — `أَيّ` · o you
+- [[jry - flow]] — `جَرَيْ` · flow
+- [[Hsb - think]] — `حَسْب` · think
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[>tY - comes them]] — `أَتَى` · comes them
 
 ## Roots
 

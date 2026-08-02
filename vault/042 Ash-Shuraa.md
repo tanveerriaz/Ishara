@@ -14,31 +14,31 @@ The Consultation · 53 ayahs
 
 ## Words in this surah (graph)
 
-- [[m$fq - fearful]] — `مُشْفِق` · fearful
-- [[>nAb - turns]] — `أَنابَ` · turns
 - [[Hjp - argument]] — `حُجَّة` · argument
-- [[HfyZ - guardian]] — `حَفِيظ` · guardian
+- [[m$fq - fearful]] — `مُشْفِق` · fearful
 - [[Ely - high]] — `عَلِيّ` · high
 - [[tfrq - divided]] — `تَفَرَّقَ` · divided
-- [[$kwr - grateful]] — `شَكُور` · grateful
-- [[mrd - return]] — `مَرَدّ` · return
+- [[HfyZ - guardian]] — `حَفِيظ` · guardian
+- [[>nAb - turns]] — `أَنابَ` · turns
 - [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
-- [[xyr - better]] — `خَيْر` · better
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[qwy - all-strong]] — `قَوِيّ` · all-strong
-- [[yqbl - will accepted]] — `يَقْبَلُ` · will accepted
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[nAs - people]] — `ناس` · people
-- [[wkyl - guardian]] — `وَكِيل` · guardian
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
-- [[rwH - spirit]] — `رُوح` · spirit
-- [[EZym - great]] — `عَظِيم` · great
+- [[mrd - return]] — `مَرَدّ` · return
+- [[$kwr - grateful]] — `شَكُور` · grateful
+- [[qrbY - relatives]] — `قُرْبَى` · relatives
+- [[Hsn - good]] — `حُسْن` · good
+- [[AtbE - follow]] — `اتَّبَعَ` · follow
+- [[xtm - sealed]] — `خَتَمَ` · sealed
+- [[fATr - creator]] — `فاطِر` · creator
+- [[dAbp - moving creature]] — `دابَّة` · moving creature
 - [[dEA - call]] — `دَعا` · call
-- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[mwdp - love]] — `مَوَدَّة` · love
-- [[nkyr - my rejection]] — `نَكِير` · my rejection
+- [[qbl - before]] — `قَبْل` · before
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[jAdl - dispute]] — `جادَلُ` · dispute
+- [[zwjt - paired]] — `زُوِّجَتْ` · paired
+- [[wAHdp - single]] — `واحِدَة` · single
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[yd - hands]] — `يَد` · hands
 
 ## Roots
 

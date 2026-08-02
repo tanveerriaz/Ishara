@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:77 · [[011 Hud]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when Our messengers, [the angels], came to Lot, he was anguished for them and felt for them great discomfort and said, "This is a trying day."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہمارے فرشتے لوط کے پاس آئے تو وہ ان (کے آنے) سے غمناک اور تنگ دل ہوئے اور کہنے لگے کہ آج کا دن بڑی مشکل کا دن ہے
+**English (Yusuf Ali):** When Our messengers came to Lut, he was grieved on their account and felt himself powerless (to protect) them. He said: "This is a distressful day."
 
 [Open on Quran.com](https://quran.com/11/77)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when Our messengers [i.e., angels] came to Lot, he was distressed for them and felt for them great discomfort. They said, "Fear not, nor grieve. Indeed, we will save you and your family, except your wife; she is to be of those who remain behind.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہمارے فرشتے لوط کے پاس آئے تو وہ اُن (کی وجہ) سے ناخوش اور تنگ دل ہوئے۔ فرشتوں نے کہا کچھ خوف نہ کیجئے۔ اور نہ رنج کیجئے ہم آپ کو اور آپ کے گھر والوں کو بچالیں گے مگر آپ کی بیوی کہ پیچھے رہنے والوں میں ہوگی
+**English (Yusuf Ali):** And when Our Messengers came to Lut, he was grieved on their account, and felt himself powerless (to protect) them: but they said: "Fear thou not, nor grieve: we are (here) to save thee and thy following, except thy wife: she is of those who lag behind.
 
 [Open on Quran.com](https://quran.com/29/33)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then into a chain whose length is seventy cubits insert him."
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر زنجیر سے جس کی ناپ ستر گز ہے جکڑ دو
+**English (Yusuf Ali):** "Further, make him march in a chain, whereof the length is seventy cubits!
 
 [Open on Quran.com](https://quran.com/69/32)
 

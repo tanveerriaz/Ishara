@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:99 · [[003 Ali Imran]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O People of the Scripture, why do you avert from the way of Allāh those who believe, seeking to make it [seem] deviant, while you are witnesses [to the truth]? And Allāh is not unaware of what you do."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اہلِ کتاب تم مومنوں کو خدا کے رستے سے کیوں روکتے ہو اور باوجود یہ کہ تم اس سے واقف ہو اس میں کجی نکالتے ہو اور خدا تمھارے کاموں سے بےخبر نہیں
+**English (Yusuf Ali):** Say: "O ye People of the Book! Why obstruct ye those who believe, from the path of Allah, Seeking to make it crooked, while ye were yourselves witnesses (to Allah's Covenant)? but Allah is not unmindful of all that ye do."
 
 [Open on Quran.com](https://quran.com/3/99)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who averted [people] from the way of Allāh and sought to make it [seem] deviant while they were, concerning the Hereafter, disbelievers."
 
-**Urdu (Fatah Muhammad Jalandhari):** جو خدا کی راہ سے روکتے اور اس میں کجی ڈھونڈتے اور آخرت سے انکار کرتے تھے
+**English (Yusuf Ali):** "Those who would hinder (men) from the path of Allah and would seek in it something crooked: they were those who denied the Hereafter."
 
 [Open on Quran.com](https://quran.com/7/45)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not sit on every path, threatening and averting from the way of Allāh those who believe in Him, seeking to make it [seem] deviant. And remember when you were few and He increased you. And see how was the end of the corrupters.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہر رستے پر مت بیٹھا کرو کہ جو شخص خدا پر ایمان نہیں لاتا ہے اسے تم ڈراتے اور راہ خدا سے روکتے اور اس میں کجی ڈھونڈتے ہو اور (اس وقت کو) یاد کرو جب تم تھوڑے سے تھے تو خدا نے تم کو جماعت کثیر کر دیا اور دیکھ لو کہ خرابی کرنے والوں کا انجام کیسا ہوا
+**English (Yusuf Ali):** "And squat not on every road, breathing threats, hindering from the path of Allah those who believe in Him, and seeking in it something crooked; But remember how ye were little, and He gave you increase. And hold in your mind's eye what was the end of those who did mischief.
 
 [Open on Quran.com](https://quran.com/7/86)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who averted [people] from the way of Allāh and sought to make it [seem] deviant while they, concerning the Hereafter, were disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے رستے سے روکتے ہیں اور اس میں کجی چاہتے ہیں اور وہ آخرت سے بھی انکار کرتے ہیں
+**English (Yusuf Ali):** "Those who would hinder (men) from the path of Allah and would seek in it something crooked: these were they who denied the Hereafter!"
 
 [Open on Quran.com](https://quran.com/11/19)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The ones who prefer the worldly life over the Hereafter and avert [people] from the way of Allāh, seeking to make it [seem] deviant. Those are in extreme error.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو آخرت کی نسبت دنیا کو پسند کرتے اور (لوگوں کو) خدا کے رستے سے روکتے اور اس میں کجی چاہتے ہیں۔ یہ لوگ پرلے سرے کی گمراہی میں ہیں
+**English (Yusuf Ali):** Those who love the life of this world more than the Hereafter, who hinder (men) from the Path of Allah and seek therein something crooked: they are astray by a long distance.
 
 [Open on Quran.com](https://quran.com/14/3)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [All] praise is [due] to Allāh, who has sent down upon His Servant [Muḥammad (ﷺ)] the Book and has not made therein any deviance.
 
-**Urdu (Fatah Muhammad Jalandhari):** سب تعریف خدا ہی کو ہے جس نے اپنے بندے (محمدﷺ) پر (یہ) کتاب نازل کی اور اس میں کسی طرح کی کجی (اور پیچیدگی) نہ رکھی
+**English (Yusuf Ali):** Praise be to Allah, Who hath sent to His Servant the Book, and hath allowed therein no Crookedness:
 
 [Open on Quran.com](https://quran.com/18/1)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** You will not see therein a depression or an elevation."
 
-**Urdu (Fatah Muhammad Jalandhari):** جس میں نہ تم کجی (اور پستی) دیکھو گے نہ ٹیلا (اور بلندی)
+**English (Yusuf Ali):** "Nothing crooked or curved wilt thou see in their place."
 
 [Open on Quran.com](https://quran.com/20/107)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That Day, they [i.e., everyone] will follow [the call of] the Caller [with] no deviation therefrom, and [all] voices will be stilled before the Most Merciful, so you will not hear except a whisper [of footsteps].
 
-**Urdu (Fatah Muhammad Jalandhari):** اس روز لوگ ایک پکارنے والے کے پیچھے چلیں گے اور اس کی پیروی سے انحراف نہ کرسکیں گے اور خدا کے سامنے آوازیں پست ہوجائیں گی تو تم آواز خفی کے سوا کوئی آواز نہ سنو گے
+**English (Yusuf Ali):** On that Day will they follow the Caller (straight): no crookedness (can they show) him: all sounds shall humble themselves in the Presence of (Allah) Most Gracious: nothing shalt thou hear but the tramp of their feet (as they march).
 
 [Open on Quran.com](https://quran.com/20/108)
 
@@ -172,7 +172,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [It is] an Arabic Qur’ān, without any deviance that they might become righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ) قرآن عربی (ہے) جس میں کوئی عیب (اور اختلاف) نہیں تاکہ وہ ڈر مانیں
+**English (Yusuf Ali):** (It is) a Qur'an in Arabic, without any crookedness (therein): in order that they may guard against Evil.
 
 [Open on Quran.com](https://quran.com/39/28)
 

@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:82 · [[009 At-Tawbah]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So let them laugh a little and [then] weep much as recompense for what they used to earn.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ (دنیا میں) تھوڑا سا ہنس لیں اور (آخرت میں) ان کو ان اعمال کے بدلے جو کرتے رہے ہیں بہت سا رونا ہوگا
+**English (Yusuf Ali):** Let them laugh a little: much will they weep: a recompense for the (evil) that they do.
 
 [Open on Quran.com](https://quran.com/9/82)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they came to their father at night, weeping.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ حرکت کرکے) وہ رات کے وقت باپ کے پاس روتے ہوئے آئے
+**English (Yusuf Ali):** Then they came to their father in the early part of the night, weeping.
 
 [Open on Quran.com](https://quran.com/12/16)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they fall upon their faces weeping, and it [i.e., the Qur’ān] increases them in humble submission.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ تھوڑیوں کے بل گر پڑتے ہیں (اور) روتے جاتے ہیں اور اس سے ان کو اور زیادہ عاجزی پیدا ہوتی ہے
+**English (Yusuf Ali):** They fall down on their faces in tears, and it increases their (earnest) humility.
 
 [Open on Quran.com](https://quran.com/17/109)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the heaven and earth wept not for them, nor were they reprieved.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ان پر نہ تو آسمان کو اور زمین کو رونا آیا اور نہ ان کو مہلت ہی دی گئی
+**English (Yusuf Ali):** And neither heaven nor earth shed a tear over them: nor were they given a respite (again).
 
 [Open on Quran.com](https://quran.com/44/29)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you laugh and do not weep
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہنستے ہو اور روتے نہیں؟
+**English (Yusuf Ali):** And will ye laugh and not weep,-
 
 [Open on Quran.com](https://quran.com/53/60)
 

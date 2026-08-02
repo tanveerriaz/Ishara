@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:19 · [[002 Al-Baqarah]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or [it is] like a rainstorm from the sky within which is darkness, thunder and lightning. They put their fingers in their ears against the thunderclaps in dread of death. But Allāh is encompassing of the disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** یا ان کی مثال مینہ کی سی ہے کہ آسمان سے (برس رہا ہو اور) اس میں اندھیرے پر اندھیرا (چھا رہا) ہو اور (بادل) گرج (رہا) ہو اور بجلی (کوند رہی) ہو تو یہ کڑک سے (ڈر کر) موت کے خوف سے کانوں میں انگلیاں دے لیں اور الله کافروں کو (ہر طرف سے) گھیرے ہوئے ہے
+**English (Yusuf Ali):** Or (another similitude) is that of a rain-laden cloud from the sky: In it are zones of darkness, and thunder and lightning: They press their fingers in their ears to keep out the stunning thunder-clap, the while they are in terror of death. But Allah is ever round the rejecters of Faith!
 
 [Open on Quran.com](https://quran.com/2/19)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when you said, "O Moses, we will never believe you until we see Allāh outright"; so the thunderbolt took you while you were looking on.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے (موسیٰ) سے کہا کہ موسیٰ، جب تک ہم خدا کو سامنے نہ دیکھ لیں گے، تم پر ایمان نہیں لائیں گے، تو تم کو بجلی نے آ گھیرا اور تم دیکھ رہے تھے
+**English (Yusuf Ali):** And remember ye said: "O Moses! We shall never believe in thee until we see Allah manifestly," but ye were dazed with thunder and lighting even as ye looked on.
 
 [Open on Quran.com](https://quran.com/2/55)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The People of the Scripture ask you to bring down to them a book from the heaven. But they had asked of Moses [even] greater than that and said, "Show us Allāh outright," so the thunderbolt struck them for their wrongdoing. Then they took the calf [for worship] after clear evidences had come to them, and We pardoned that. And We gave Moses a clear authority.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) اہل کتاب تم سے درخواست کرتے ہیں کہ تم ان پر ایک (لکھی ہوئی) کتاب آسمان سے اتار لاؤ تو یہ موسیٰ سے اس سے بھی بڑی بڑی درخواستیں کرچکے ہیں (ان سے) کہتے تھے ہمیں خدا ظاہر (یعنی آنکھوں سے) دکھا دو سو ان کے گناہ کی وجہ سے ان کو بجلی نے آپکڑا۔ پھر کھلی نشانیاں آئے پیچھے بچھڑے کو (معبود) بنا بیٹھے تو اس سے بھی ہم نے درگزر کی۔ اور موسیٰ کو صریح غلبہ دیا
+**English (Yusuf Ali):** The people of the Book ask thee to cause a book to descend to them from heaven: Indeed they asked Moses for an even greater (miracle), for they said: "Show us Allah in public," but they were dazed for their presumption, with thunder and lightning. Yet they worshipped the calf even after clear signs had come to them; even so we forgave them; and gave Moses manifest proofs of authority.
 
 [Open on Quran.com](https://quran.com/4/153)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the thunder exalts [Allāh] with praise of Him - and the angels [as well] from fear of Him - and He sends thunderbolts and strikes therewith whom He wills while they dispute about Allāh; and He is severe in assault.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور رعد اور فرشتے سب اس کے خوف سے اس کی تسبیح و تحمید کرتے رہتے ہیں اور وہی بجلیاں بھیجتا ہے پھر جس پر چاہتا ہے گرا بھی دیتا ہے اور وہ خدا کے بارے میں جھگڑتے ہیں۔ اور وہ بڑی قوت والا ہے
+**English (Yusuf Ali):** Nay, thunder repeateth His praises, and so do the angels, with awe: He flingeth the loud-voiced thunder-bolts, and therewith He striketh whomsoever He will.. yet these (are the men) who (dare to) dispute about Allah, with the strength of His power (supreme)!
 
 [Open on Quran.com](https://quran.com/13/13)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if they turn away, then say, "I have warned you of a thunderbolt like the thunderbolt [that struck] ʿAad and Thamūd.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اگر یہ منہ پھیر لیں تو کہہ دو کہ میں تم کو ایسے چنگھاڑ (کے عذاب) سے آگاہ کرتا ہوں جیسے عاد اور ثمود پر چنگھاڑ (کا عذاب آیا تھا)
+**English (Yusuf Ali):** But if they turn away, say thou: "I have warned you of a stunning Punishment (as of thunder and lightning) like that which (overtook) the 'Ad and the Thamud!"
 
 [Open on Quran.com](https://quran.com/41/13)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And as for Thamūd, We guided them, but they preferred blindness over guidance, so the thunderbolt of humiliating punishment seized them for what they used to earn.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو ثمود تھے ان کو ہم نے سیدھا رستہ دکھا دیا تھا مگر انہوں نے ہدایت کے مقابلے میں اندھا دھند رہنا پسند کیا تو ان کے اعمال کی سزا میں کڑک نے ان کو آپکڑا۔ اور وہ ذلت کا عذاب تھا
+**English (Yusuf Ali):** As to the Thamud, We gave them Guidance, but they preferred blindness (of heart) to Guidance: so the stunning Punishment of humiliation seized them, because of what they had earned.
 
 [Open on Quran.com](https://quran.com/41/17)
 
@@ -138,7 +138,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But they were insolent toward the command of their Lord, so the thunderbolt seized them while they were looking on.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے اپنے پروردگار کے حکم سے سرکشی کی۔ سو ان کو کڑک نے آ پکڑا اور وہ دیکھ رہے تھے
+**English (Yusuf Ali):** But they insolently defied the Command of their Lord: So the stunning noise (of an earthquake) seized them, even while they were looking on.
 
 [Open on Quran.com](https://quran.com/51/44)
 

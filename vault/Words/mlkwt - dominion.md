@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:75 · [[006 Al-Anam]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم اس طرح ابراہیم کو آسمانوں اور زمین کے عجائبات دکھانے لگے تاکہ وہ خوب یقین کرنے والوں میں ہوجائیں
+**English (Yusuf Ali):** So also did We show Abraham the power and the laws of the heavens and the earth, that he might (with understanding) have certitude.
 
 [Open on Quran.com](https://quran.com/6/75)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they not look into the realm of the heavens and the earth and everything that Allāh has created and [think] that perhaps their appointed time has come near? So in what statement [i.e., message] hereafter will they believe?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے آسمان اور زمین کی بادشاہت میں جو چیزیں خدا نے پیدا کی ہیں ان پر نظر نہیں کی اور اس بات پر (خیال نہیں کیا) کہ عجب نہیں ان (کی موت) کا وقت نزدیک پہنچ گیا ہو۔ تو اس کے بعد وہ اور کس بات پر ایمان لائیں گے
+**English (Yusuf Ali):** Do they see nothing in the government of the heavens and the earth and all that Allah hath created? (Do they not see) that it may well be that their terms is nigh drawing to an end? In what message after this will they then believe?
 
 [Open on Quran.com](https://quran.com/7/185)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "In whose hand is the realm of all things - and He protects while none can protect against Him - if you should know?"
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اگر تم جانتے ہو تو بتاؤ کہ وہ کون ہے جس کے ہاتھ میں ہر چیز کی بادشاہی ہے اور وہ پناہ دیتا ہے اور اس کے مقابل کوئی کسی کو پناہ نہیں دے سکتا
+**English (Yusuf Ali):** Say: "Who is it in whose hands is the governance of all things,- who protects (all), but is not protected (of any)? (say) if ye know."
 
 [Open on Quran.com](https://quran.com/23/88)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So exalted is He in whose hand is the realm of all things, and to Him you will be returned.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ (ذات) پاک ہے جس کے ہاتھ میں ہر چیز کی بادشاہت ہے اور اسی کی طرف تم کو لوٹ کر جانا ہے
+**English (Yusuf Ali):** So glory to Him in Whose hands is the dominion of all things: and to Him will ye be all brought back.
 
 [Open on Quran.com](https://quran.com/36/83)
 

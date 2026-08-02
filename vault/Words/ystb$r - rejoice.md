@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:170 · [[003 Ali Imran]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Rejoicing in what Allāh has bestowed upon them of His bounty, and they receive good tidings about those [to be martyred] after them who have not yet joined them - that there will be no fear concerning them, nor will they grieve.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو کچھ خدا نے ان کو اپنے فضل سے بخش رکھا ہے اس میں خوش ہیں۔ اور جو لوگ ان کے پیچھے رہ گئے اور( شہید ہوکر) ان میں شامل نہیں ہوسکے ان کی نسبت خوشیاں منا رہے ہیں کہ (قیامت کے دن) ان کو بھی نہ کچھ خوف ہوگا اور نہ وہ غمناک ہوں گے
+**English (Yusuf Ali):** They rejoice in the bounty provided by Allah: And with regard to those left behind, who have not yet joined them (in their bliss), the (Martyrs) glory in the fact that on them is no fear, nor have they (cause to) grieve.
 
 [Open on Quran.com](https://quran.com/3/170)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They receive good tidings of favor from Allāh and bounty and [of the fact] that Allāh does not allow the reward of believers to be lost -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا کے انعامات اور فضل سے خوش ہورہے ہیں۔ اور اس سے کہ خدا مومنوں کا اجر ضائع نہیں کرتا
+**English (Yusuf Ali):** They glory in the Grace and the bounty from Allah, and in the fact that Allah suffereth not the reward of the Faithful to be lost (in the least).
 
 [Open on Quran.com](https://quran.com/3/171)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh has purchased from the believers their lives and their properties [in exchange] for that they will have Paradise. They fight in the cause of Allāh, so they kill and are killed. [It is] a true promise [binding] upon Him in the Torah and the Gospel and the Qur’ān. And who is truer to his covenant than Allāh? So rejoice in your transaction which you have contracted. And it is that which is the great attainment.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے مومنوں سے ان کی جانیں اور ان کے مال خرید لیے ہیں (اور اس کے) عوض ان کے لیے بہشت (تیار کی) ہے۔ یہ لوگ خدا کی راہ میں لڑتے ہیں تو مارتے بھی ہیں اور مارے بھی جاتے ہیں بھی ہیں۔ یہ تورات اور انجیل اور قرآن میں سچا وعدہ ہے۔ جس کا پورا کرنا اسے ضرور ہے اور خدا سے زیادہ وعدہ پورا کرنے والا کون ہے تو جو سودا تم نے اس سے کیا ہے اس سے خوش رہو۔ اور یہی بڑی کامیابی ہے
+**English (Yusuf Ali):** Allah hath purchased of the believers their persons and their goods; for theirs (in return) is the garden (of Paradise): they fight in His cause, and slay and are slain: a promise binding on Him in truth, through the Law, the Gospel, and the Qur'an: and who is more faithful to his covenant than Allah? then rejoice in the bargain which ye have concluded: that is the achievement supreme.
 
 [Open on Quran.com](https://quran.com/9/111)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whenever a sūrah is revealed, there are among them [i.e., the hypocrites] those who say, "Which of you has this increased in faith?" As for those who believed, it has increased them in faith, while they are rejoicing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب کوئی سورت نازل ہوتی ہے تو بعض منافق (استہزاء کرتے اور) پوچھتے کہ اس سورت نے تم میں سے کس کا ایمان زیادہ کیا ہے۔ سو جو ایمان والے ہیں ان کا ایمان تو زیادہ کیا اور وہ خوش ہوتے ہیں
+**English (Yusuf Ali):** Whenever there cometh down a sura, some of them say: "Which of you has had His faith increased by it?" Yea, those who believe,- their faith is increased and they do rejoice.
 
 [Open on Quran.com](https://quran.com/9/124)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the people of the city came rejoicing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اہل شہر (لوط کے پاس) خوش خوش (دوڑے) آئے
+**English (Yusuf Ali):** The inhabitants of the city came in (mad) joy (at news of the young men).
 
 [Open on Quran.com](https://quran.com/15/67)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is Allāh who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جو ہواؤں کو چلاتا ہے تو وہ بادل کو اُبھارتی ہیں۔ پھر خدا اس کو جس طرح چاہتا ہے آسمان میں پھیلا دیتا اور تہ بتہ کر دیتا ہے پھر تم دیکھتے ہو کہ اس کے بیچ میں سے مینھہ نکلنے لگتا ہے پھر جب وہ اپنے بندوں میں سے جن پر چاہتا ہے اُسے برسا دیتا ہے تو وہ خوش ہو جاتے ہیں
+**English (Yusuf Ali):** It is Allah Who sends the Winds, and they raise the Clouds: then does He spread them in the sky as He wills, and break them into fragments, until thou seest rain-drops issue from the midst thereof: then when He has made them reach such of his servants as He wills behold, they do rejoice!-
 
 [Open on Quran.com](https://quran.com/30/48)
 
@@ -138,7 +138,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when Allāh is mentioned alone, the hearts of those who do not believe in the Hereafter shrink with aversion, but when those [worshipped] other than Him are mentioned, immediately they rejoice.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تنہا خدا کا ذکر کیا جاتا ہے تو جو لوگ آخرت پر ایمان نہیں رکھتے ان کے دل منقبض ہوجاتے ہیں۔ اور جب اس کے سوا اوروں کا ذکر کیا جاتا ہے تو خوش ہوجاتے ہیں
+**English (Yusuf Ali):** When Allah, the One and Only, is mentioned, the hearts of those who believe not in the Hereafter are filled with disgust and horror; but when (gods) other than He are mentioned, behold, they are filled with joy!
 
 [Open on Quran.com](https://quran.com/39/45)
 

@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:37 · [[011 Hud]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And construct the ship under Our observation and Our inspiration and do not address Me concerning those who have wronged; indeed, they are [to be] drowned."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ایک کشتی ہمارے حکم سے ہمارے روبرو بناؤ۔ اور جو لوگ ظالم ہیں ان کے بارے میں ہم سے کچھ نہ کہنا کیونکہ وہ ضرور غرق کردیئے جائیں گے
+**English (Yusuf Ali):** "But construct an Ark under Our eyes and Our inspiration, and address Me no (further) on behalf of those who are in sin: for they are about to be overwhelmed (in the Flood)."
 
 [Open on Quran.com](https://quran.com/11/37)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So high [above all] is Allāh, the Sovereign, the Truth. And, [O Muḥammad], do not hasten with [recitation of] the Qur’ān before its revelation is completed to you, and say, "My Lord, increase me in knowledge."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو خدا جو سچا بادشاہ ہے عالی قدر ہے۔ اور قرآن کی وحی جو تمہاری طرف بھیجی جاتی ہے اس کے پورا ہونے سے پہلے قرآن کے (پڑھنے کے) لئے جلدی نہ کیا کرو اور دعا کرو کہ میرے پروردگار مجھے اور زیادہ علم دے
+**English (Yusuf Ali):** High above all is Allah, the King, the Truth! Be not in haste with the Qur'an before its revelation to thee is completed, but say, "O my Lord! advance me in knowledge."
 
 [Open on Quran.com](https://quran.com/20/114)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "I only warn you by revelation." But the deaf do not hear the call when they are warned.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں تم کو حکم خدا کے مطابق نصیحت کرتا ہوں۔ اور بہروں کوجب نصیحت کی جائے تو وہ پکار کر سنتے ہی نہیں
+**English (Yusuf Ali):** Say, "I do but warn you according to revelation": But the deaf will not hear the call, (even) when they are warned!
 
 [Open on Quran.com](https://quran.com/21/45)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We inspired to him, "Construct the ship under Our observation and Our inspiration, and when Our command comes and the oven overflows, put into it [i.e., the ship] from each [creature] two mates and your family, except him for whom the decree [of destruction] has proceeded. And do not address Me concerning those who have wronged; indeed, they are to be drowned.
 
-**Urdu (Fatah Muhammad Jalandhari):** پس ہم نے ان کی طرف وحی بھیجی کہ ہمارے سامنے اور ہمارے حکم سے ایک کشتی بناؤ۔ پھر جب ہمارا حکم آ پہنچے اور تنور (پانی سے بھر کر) جوش مارنے لگے تو سب (قسم کے حیوانات) میں جوڑا جوڑا (یعنی نر اور مادہ) دو دو کشتی میں بٹھا دو اور اپنے گھر والوں کو بھی، سو ان کے جن کی نسبت ان میں سے (ہلاک ہونے کا) حکم پہلے صادر ہوچکا ہے۔ اور ظالموں کے بارے میں ہم سے کچھ نہ کہنا، وہ ضرور ڈبو دیئے جائیں گے
+**English (Yusuf Ali):** So We inspired him (with this message): "Construct the Ark within Our sight and under Our guidance: then when comes Our Command, and the fountains of the earth gush forth, take thou on board pairs of every species, male and female, and thy family- except those of them against whom the Word has already gone forth: And address Me not in favour of the wrong-doers; for they shall be drowned (in the Flood).
 
 [Open on Quran.com](https://quran.com/23/27)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is not for any human being that Allāh should speak to him except by revelation or from behind a partition or that He sends a messenger [i.e., angel] to reveal, by His permission, what He wills. Indeed, He is Most High and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کسی آدمی کے لئے ممکن نہیں کہ خدا اس سے بات کرے مگر الہام (کے ذریعے) سے یا پردے کے پیچھے سے یا کوئی فرشتہ بھیج دے تو وہ خدا کے حکم سے جو خدا چاہے القا کرے۔ بےشک وہ عالی رتبہ (اور) حکمت والا ہے
+**English (Yusuf Ali):** It is not fitting for a man that Allah should speak to him except by inspiration, or from behind a veil, or by the sending of a messenger to reveal, with Allah's permission, what Allah wills: for He is Most High, Most Wise.
 
 [Open on Quran.com](https://quran.com/42/51)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is not but a revelation revealed,
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ (قرآن) تو حکم خدا ہے جو (ان کی طرف) بھیجا جاتا ہے
+**English (Yusuf Ali):** It is no less than inspiration sent down to him:
 
 [Open on Quran.com](https://quran.com/53/4)
 

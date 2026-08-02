@@ -40,7 +40,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:282 · [[002 Al-Baqarah]]
 
@@ -54,7 +54,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, when you contract a debt for a specified term, write it down. And let a scribe write [it] between you in justice. Let no scribe refuse to write as Allāh has taught him. So let him write and let the one who has the obligation [i.e., the debtor] dictate. And let him fear Allāh, his Lord, and not leave anything out of it. But if the one who has the obligation is of limited understanding or weak or unable to dictate himself, then let his guardian dictate in justice. And bring to witness two witnesses from among your men. And if there are not two men [available], then a man and two women from those whom you accept as witnesses - so that if one of them [i.e., the women] errs, then the other can remind her. And let not the witnesses refuse when they are called upon. And do not be [too] weary to write it, whether it is small or large, for its [specified] term. That is more just in the sight of Allāh and stronger as evidence and more likely to prevent doubt between you, except when it is an immediate transaction which you conduct among yourselves. For [then] there is no blame upon you if you do not write it. And take witnesses when you conclude a contract. Let no scribe be harmed or any witness. For if you do so, indeed, it is [grave] disobedience in you. And fear Allāh. And Allāh teaches you. And Allāh is Knowing of all things.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
+**English (Yusuf Ali):** O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah; For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do.
 
 [Open on Quran.com](https://quran.com/2/282)
 
@@ -70,7 +70,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who created you from clay and then decreed a term and a specified time [known] to Him; then [still] you are in dispute.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم کو مٹی سے پیدا کیا پھر (مرنے کا) ایک وقت مقرر کر دیا اور ایک مدت اس کے ہاں اور مقرر ہے پھر بھی تم (اے کافرو خدا کے بارے میں) شک کرتے ہو
+**English (Yusuf Ali):** He it is created you from clay, and then decreed a stated term (for you). And there is in His presence another determined term; yet ye doubt within yourselves!
 
 [Open on Quran.com](https://quran.com/6/2)
 
@@ -86,7 +86,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who takes your souls by night and knows what you have committed by day. Then He revives you therein [i.e., by day] that a specified term may be fulfilled. Then to Him will be your return; then He will inform you about what you used to do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو رات کو (سونے کی حالت میں) تمہاری روح قبض کرلیتا ہے اور جو کچھ تم دن میں کرتے ہو اس سے خبر رکھتا ہے پھر تمہیں دن کو اٹھا دیتا ہے تاکہ (یہی سلسلہ جاری رکھ کر زندگی کی) معین مدت پوری کردی جائے پھر تم (سب) کو اسی کی طرف لوٹ کر جانا ہے (اس روز) وہ تم کو تمہارے عمل جو تم کرتے ہو (ایک ایک کرکے) بتائے گا
+**English (Yusuf Ali):** It is He who doth take your souls by night, and hath knowledge of all that ye have done by day: by day doth He raise you up again; that a term appointed be fulfilled; In the end unto Him will be your return; then will He show you the truth of all that ye did.
 
 [Open on Quran.com](https://quran.com/6/60)
 
@@ -102,7 +102,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [saying], "Seek forgiveness of your Lord and repent to Him, [and] He will let you enjoy a good provision for a specified term and give every doer of favor his favor [i.e., reward]. But if you turn away, then indeed, I fear for you the punishment of a great Day.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ اپنے پروردگار سے بخشش مانگو اور اس کے آگے توبہ کرو وہ تو تم کو ایک وقت مقررہ تک متاع نیک سے بہرہ مند کرے گا اور ہر صاحب بزرگ کو اس کی بزرگی (کی داد) دے گا۔ اور اگر روگردانی کرو گے تو مجھے تمہارے بارے میں (قیامت کے) بڑے دن کے عذاب کا ڈر ہے
+**English (Yusuf Ali):** "(And to preach thus), 'Seek ye the forgiveness of your Lord, and turn to Him in repentance; that He may grant you enjoyment, good (and true), for a term appointed, and bestow His abounding grace on all who abound in merit! But if ye turn away, then I fear for you the penalty of a great day:
 
 [Open on Quran.com](https://quran.com/11/3)
 
@@ -118,7 +118,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is Allāh who erected the heavens without pillars that you [can] see; then He established Himself above the Throne and made subject the sun and the moon, each running [its course] for a specified term. He arranges [each] matter; He details the signs that you may, of the meeting with your Lord, be certain.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا وہی تو ہے جس نے ستونوں کے بغیر آسمان جیسا کہ تم دیکھتے ہو (اتنے) اونچے بنائے۔ پھر عرش پر جا ٹھہرا اور سورج اور چاند کو کام میں لگا دیا۔ ہر ایک ایک میعاد معین تک گردش کر رہا ہے۔ وہی (دنیا کے) کاموں کا انتظام کرتا ہے (اس طرح) وہ اپنی آیتیں کھول کھول کر بیان کرتا ہے کہ تم اپنے پروردگار کے روبرو جانے کا یقین کرو
+**English (Yusuf Ali):** Allah is He Who raised the heavens without any pillars that ye can see; is firmly established on the throne (of authority); He has subjected the sun and the moon (to his Law)! Each one runs (its course) for a term appointed. He doth regulate all affairs, explaining the signs in detail, that ye may believe with certainty in the meeting with your Lord.
 
 [Open on Quran.com](https://quran.com/13/2)
 
@@ -134,7 +134,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Their messengers said, "Can there be doubt about Allāh, Creator of the heavens and earth? He invites you that He may forgive you of your sins, and He delays you [i.e., your death] for a specified term." They said, "You are not but men like us who wish to avert us from what our fathers were worshipping. So bring us a clear authority [i.e., evidence]."
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کے پیغمبروں نے کہا کیا (تم کو) خدا (کے بارے) میں شک ہے جو آسمانوں اور زمین کا پیدا کرنے والا ہے۔ وہ تمہیں اس لیے بلاتا ہے کہ تمہارے گناہ بخشے اور (فائدہ پہنچانے کے لیے) ایک مدت مقرر تک تم کو مہلت دے۔ وہ بولے کہ تم تو ہمارے ہی جیسے آدمی ہو۔ تمہارا یہ منشاء ہے کہ جن چیزوں کو ہمارے بڑے پوجتے رہے ہیں ان (کے پوجنے) سے ہم کو بند کر دو تو (اچھا) کوئی کھلی دلیل لاؤ (یعنی معجزہ دکھاؤ)
+**English (Yusuf Ali):** Their messengers said: "Is there a doubt about Allah, The Creator of the heavens and the earth? It is He Who invites you, in order that He may forgive you your sins and give you respite for a term appointed!" They said: "Ah! ye are no more than human, like ourselves! Ye wish to turn us away from the (gods) our fathers used to worship: then bring us some clear authority."
 
 [Open on Quran.com](https://quran.com/14/10)
 
@@ -150,7 +150,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if Allāh were to impose blame on the people for their wrongdoing, He would not have left upon it [i.e., the earth] any creature, but He defers them for a specified term. And when their term has come, they will not remain behind an hour, nor will they precede [it].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا لوگوں کو ان کے ظلم کے سبب پکڑنے لگے تو ایک جاندار کو زمین پر نہ چھوڑے لیکن ان کو ایک وقت مقرر تک مہلت دیئے جاتا ہے۔ جب وہ وقت آجاتا ہے تو ایک گھڑی نہ پیچھے رہ سکتے ہیں نہ آگے بڑھ سکتے ہیں
+**English (Yusuf Ali):** If Allah were to punish men for their wrong-doing, He would not leave, on the (earth), a single living creature: but He gives them respite for a stated Term: When their Term expires, they would not be able to delay (the punishment) for a single hour, just as they would not be able to anticipate it (for a single hour).
 
 [Open on Quran.com](https://quran.com/16/61)
 
@@ -166,7 +166,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if not for a word that preceded from your Lord, it [i.e., punishment] would have been an obligation [due immediately], and [if not for] a specified term [decreed].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ایک بات تمہارے پروردگار کی طرف سے پہلے صادر اور (جزائے اعمال کے لئے) ایک میعاد مقرر نہ ہوچکی ہوتی تو (نزول) عذاب لازم ہوجاتا
+**English (Yusuf Ali):** Had it not been for a Word that went forth before from thy Lord, (their punishment) must necessarily have come; but there is a Term appointed (for respite).
 
 [Open on Quran.com](https://quran.com/20/129)
 
@@ -182,7 +182,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O people, if you should be in doubt about the Resurrection, then [consider that] indeed, We created you from dust, then from a sperm-drop, then from a clinging clot, and then from a lump of flesh, formed and unformed - that We may show you. And We settle in the wombs whom We will for a specified term, then We bring you out as a child, and then [We develop you] that you may reach your [time of] maturity. And among you is he who is taken in [early] death, and among you is he who is returned to the most decrepit [old] age so that he knows, after [once having] knowledge, nothing. And you see the earth barren, but when We send down upon it rain, it quivers and swells and grows [something] of every beautiful kind.
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو اگر تم کو مرنے کے بعد جی اُٹھنے میں کچھ شک ہو تو ہم نے تم کو (پہلی بار بھی تو) پیدا کیا تھا (یعنی ابتدا میں) مٹی سے پھر اس سے نطفہ بنا کر۔ پھر اس سے خون کا لوتھڑا بنا کر۔ پھر اس سے بوٹی بنا کر جس کی بناوٹ کامل بھی ہوتی ہے اور ناقص بھی تاکہ تم پر (اپنی خالقیت) ظاہر کردیں۔ اور ہم جس کو چاہتے ہیں ایک میعاد مقرر تک پیٹ میں ٹھہرائے رکھتے ہیں پھر تم کو بچہ بنا کر نکالتے ہیں۔ پھر تم جوانی کو پہنچتے ہو۔ اور بعض (قبل از پیری مرجاتے ہیں اور بعض شیخ فالی ہوجاتے اور بڑھاپے کی) نہایت خراب عمر کی طرف لوٹائے جاتے ہیں کہ بہت کچھ جاننے کے بعد بالکل بےعلم ہوجاتے ہیں۔ اور (اے دیکھنے والے) تو دیکھتا ہے (کہ ایک وقت میں) زمین خشک (پڑی ہوتی ہے) پھر جب ہم اس پر مینہ برساتے ہیں تو شاداب ہوجاتی اور ابھرنے لگتی ہے اور طرح طرح کی بارونق چیزیں اُگاتی ہے
+**English (Yusuf Ali):** O mankind! if ye have a doubt about the Resurrection, (consider) that We created you out of dust, then out of sperm, then out of a leech-like clot, then out of a morsel of flesh, partly formed and partly unformed, in order that We may manifest (our power) to you; and We cause whom We will to rest in the wombs for an appointed term, then do We bring you out as babes, then (foster you) that ye may reach your age of full strength; and some of you are called to die, and some are sent back to the feeblest old age, so that they know nothing after having known (much), and (further), thou seest the earth barren and lifeless, but when We pour down rain on it, it is stirred (to life), it swells, and it puts forth every kind of beautiful growth (in pairs).
 
 [Open on Quran.com](https://quran.com/22/5)
 
@@ -198,7 +198,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** For you therein [i.e., the animals marked for sacrifice] are benefits for a specified term; then their place of sacrifice is at the ancient House.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان میں ایک وقت مقرر تک تمہارے لئے فائدے ہیں پھر ان کو خانہٴ قدیم (یعنی بیت الله) تک پہنچانا (اور ذبح ہونا) ہے
+**English (Yusuf Ali):** In them ye have benefits for a term appointed: in the end their place of sacrifice is near the Ancient House.
 
 [Open on Quran.com](https://quran.com/22/33)
 

@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:51 · [[002 Al-Baqarah]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when We made an appointment with Moses for forty nights. Then you took [for worship] the calf after him [i.e., his departure], while you were wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے موسیٰ سے چالیس رات کا وعدہ کیا تو تم نے ان کے پیچھے بچھڑے کو (معبود) مقرر کر لیا اور تم ظلم کر رہے تھے
+**English (Yusuf Ali):** And remember We appointed forty nights for Moses, and in his absence ye took the calf (for worship), and ye did grievous wrong.
 
 [Open on Quran.com](https://quran.com/2/51)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "Then indeed, it is forbidden to them for forty years [in which] they will wander throughout the land. So do not grieve over the defiantly disobedient people."
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے فرمایا کہ وہ ملک ان پر چالیس برس تک کے لیے حرام کر دیا گیا (کہ وہاں جانے نہ پائیں گے اور جنگل کی) زمین میں سرگرداں پھرتے رہیں گے تو ان نافرمان لوگوں کے حال پر افسوس نہ کرو
+**English (Yusuf Ali):** Allah said: "Therefore will the land be out of their reach for forty years: In distraction will they wander through the land: But sorrow thou not over these rebellious people.
 
 [Open on Quran.com](https://quran.com/5/26)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We made an appointment with Moses for thirty nights and perfected them by [the addition of] ten; so the term of his Lord was completed as forty nights. And Moses said to his brother Aaron, "Take my place among my people, do right [by them], and do not follow the way of the corrupters."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ سے تیس رات کی میعاد مقرر کی۔ اور اس دس (راتیں) اور ملا کر اسے پورا (چلّہ) کردیا تو اس کے پروردگار کی چالیس رات کی میعاد پوری ہوگئی۔ اور موسیٰ نے اپنے بھائی ہارون سے کہا کہ میرے (کوہِٰ طور پر جانے کے) بعد تم میری قوم میں میرے جانشین ہو (ان کی) اصلاح کرتے رہنا ٹھیک اور شریروں کے رستے نہ چلنا
+**English (Yusuf Ali):** We appointed for Moses thirty nights, and completed (the period) with ten (more): thus was completed the term (of communion) with his Lord, forty nights. And Moses had charged his brother Aaron (before he went up): "Act for me amongst my people: Do right, and follow not the way of those who do mischief."
 
 [Open on Quran.com](https://quran.com/7/142)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who accuse their wives [of adultery] and have no witnesses except themselves - then the witness of one of them [shall be] four testimonies [swearing] by Allāh that indeed, he is of the truthful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ اپنی عورتوں پر بدکاری کی تہمت لگائیں اور خود ان کے سوا ان کے گواہ نہ ہوں تو ہر ایک کی شہادت یہ ہے کہ پہلے تو چار بار خدا کی قسم کھائے کہ بےشک وہ سچا ہے
+**English (Yusuf Ali):** And for those who launch a charge against their spouses, and have (in support) no evidence but their own,- their solitary evidence (can be received) if they bear witness four times (with an oath) by Allah that they are solemnly telling the truth;
 
 [Open on Quran.com](https://quran.com/24/6)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But it will prevent punishment from her if she gives four testimonies [swearing] by Allāh that indeed, he is of the liars.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور عورت سے سزا کو یہ بات ٹال سکتی ہے کہ وہ پہلے چار بار خدا کی قسم کھائے کہ بےشک یہ جھوٹا ہے
+**English (Yusuf Ali):** But it would avert the punishment from the wife, if she bears witness four times (with an oath) By Allah, that (her husband) is telling a lie;
 
 [Open on Quran.com](https://quran.com/24/8)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh has created every [living] creature from water. And of them are those that move on their bellies, and of them are those that walk on two legs, and of them are those that walk on four. Allāh creates what He wills. Indeed, Allāh is over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے ہر چلنے پھرنے والے جاندار کو پانی سے پیدا کیا۔ تو اس میں بعضے ایسے ہیں کہ پیٹ کے بل چلتے ہیں اور بعض ایسے ہیں جو دو پاؤں پر چلتے ہیں اور بعض ایسے ہیں جو چار پاؤں پر چلتے ہیں۔ خدا جو چاہتا ہے پیدا کرتا ہے، بےشک خدا ہر چیز پر قادر ہے
+**English (Yusuf Ali):** And Allah has created every animal from water: of them there are some that creep on their bellies; some that walk on two legs; and some that walk on four. Allah creates what He wills for verily Allah has power over all things.
 
 [Open on Quran.com](https://quran.com/24/45)
 
@@ -138,7 +138,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have enjoined upon man, to his parents, good treatment. His mother carried him with hardship and gave birth to him with hardship, and his gestation and weaning [period] is thirty months. [He grows] until, when he reaches maturity and reaches [the age of] forty years, he says, "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to work righteousness of which You will approve and make righteous for me my offspring. Indeed, I have repented to You, and indeed, I am of the Muslims."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے انسان کو اپنے والدین کے ساتھ بھلائی کرنے کا حکم دیا۔ اس کی ماں نے اس کو تکلیف سے پیٹ میں رکھا اور تکلیف ہی سے جنا۔ اور اس کا پیٹ میں رہنا اور دودھ چھوڑنا ڈھائی برس میں ہوتا ہے۔ یہاں تک کہ جب خوب جوان ہوتا ہے اور چالیس برس کو پہنچ جاتا ہے تو کہتا ہے کہ اے میرے پروردگار مجھے توفیق دے کہ تو نے جو احسان مجھ پر اور میرے ماں باپ پر کئے ہیں ان کا شکر گزار ہوں اور یہ کہ نیک عمل کروں جن کو تو پسند کرے۔ اور میرے لئے میری اولاد میں صلاح (وتقویٰ) دے۔ میں تیری طرف رجوع کرتا ہوں اور میں فرمانبرداروں میں ہوں
+**English (Yusuf Ali):** We have enjoined on man kindness to his parents: In pain did his mother bear him, and in pain did she give him birth. The carrying of the (child) to his weaning is (a period of) thirty months. At length, when he reaches the age of full strength and attains forty years, he says, "O my Lord! Grant me that I may be grateful for Thy favour which Thou has bestowed upon me, and upon both my parents, and that I may work righteousness such as Thou mayest approve; and be gracious to me in my issue. Truly have I turned to Thee and truly do I bow (to Thee) in Islam."
 
 [Open on Quran.com](https://quran.com/46/15)
 

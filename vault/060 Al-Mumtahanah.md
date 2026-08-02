@@ -15,30 +15,30 @@ She that is to be examined · 13 ayahs
 ## Words in this surah (graph)
 
 - [[mwdp - love]] — `مَوَدَّة` · love
-- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[qbr - graves]] — `قَبْر` · graves
-- [[>xfy - you conceal]] — `أُخْفِيَ` · you conceal
-- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[qAtl - fight]] — `قاتَلَ` · fight
 - [[Dl - lost]] — `ضَلَّ` · lost
-- [[qwl - speech]] — `قَوْل` · speech
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
 - [[yd - hands]] — `يَد` · hands
-- [[gny - free need]] — `غَنِيّ` · free need
-- [[s>l - ask]] — `سَأَلَ` · ask
-- [[Hsnp - good]] — `حَسَنَة` · good
-- [[bsT - extends]] — `بَسَطَ` · extends
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[>Hbb - love]] — `أَحْبَبْ` · love
-- [[ZAhr - apparent]] — `ظاهِر` · apparent
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[Eml - do]] — `عَمِلَ` · do
+- [[wly - protector]] — `وَلِيّ` · protector
+- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
+- [[Hll - lawful]] — `حَلَلْ` · lawful
+- [[bry' - innocent]] — `بَرِيء` · innocent
+- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[bgDA' - hatred]] — `بَغْضاء` · hatred
+- [[>Eln - they declare]] — `أَعْلَن` · they declare
 - [[jA' - came them]] — `جاءَ` · came them
-- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[nkH - marry]] — `نَكَحَ` · marry
-- [[Elm - know]] — `عَلِمَ` · know
-- [[>$rk - associate]] — `أَشْرَكَ` · associate
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[<xrAj - eviction]] — `إِخْراج` · eviction
+- [[>y - o you]] — `أَيّ` · o you
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[Hq - truth]] — `حَقّ` · truth
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[dAr - home]] — `دار` · home
+- [[mqsT - act justly]] — `مُقْسِط` · act justly
 
 ## Roots
 

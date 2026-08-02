@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 18:18 · [[018 Al-Kahf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you would think them awake, while they were asleep. And We turned them to the right and to the left, while their dog stretched his forelegs at the entrance. If you had looked at them, you would have turned from them in flight and been filled by them with terror.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم ان کو خیال کرو کہ جاگ رہے ہیں حالانکہ وہ سوتے ہیں۔ اور ہم ان کو دائیں اور بائیں کروٹ بدلاتے تھے۔ اور ان کا کتا چوکھٹ پر دونوں ہاتھ پھیلائے ہوئے تھا۔ اگر تم ان کو جھانک کر دیکھتے تو پیٹھ پھیر کر بھاگ جاتے اور ان سے دہشت میں آجاتے
+**English (Yusuf Ali):** Thou wouldst have deemed them awake, whilst they were asleep, and We turned them on their right and on their left sides: their dog stretching forth his two fore-legs on the threshold: if thou hadst come up on to them, thou wouldst have certainly turned back from them in flight, and wouldst certainly have been filled with terror of them.
 
 [Open on Quran.com](https://quran.com/18/18)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when a faction of them said, "O people of Yathrib, there is no stability for you [here], so return [home]." And a party of them asked permission of the Prophet, saying, "Indeed, our houses are exposed [i.e., unprotected]," while they were not exposed. They did not intend except to flee.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب اُن میں سے ایک جماعت کہتی تھی کہ اے اہل مدینہ (یہاں) تمہارے ٹھہرنے کا مقام نہیں تو لوٹ چلو۔ اور ایک گروہ ان میں سے پیغمبر سے اجازت مانگنے اور کہنے لگا کہ ہمارے گھر کھلے پڑے ہیں حالانکہ وہ کھلے نہیں تھے۔ وہ تو صرف بھاگنا چاہتے تھے
+**English (Yusuf Ali):** Behold! A party among them said: "Ye men of Yathrib! ye cannot stand (the attack)! therefore go back!" And a band of them ask for leave of the Prophet, saying, "Truly our houses are bare and exposed," though they were not exposed they intended nothing but to run away.
 
 [Open on Quran.com](https://quran.com/33/13)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "Never will fleeing benefit you if you should flee from death or killing; and then [if you did], you would not be given enjoyment [of life] except for a little."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر تم مرنے یا مارے سے بھاگتے ہو تو بھاگنا تم کو فائدہ نہیں دے گا اور اس وقت تم بہت ہی کم فائدہ اٹھاؤ گے
+**English (Yusuf Ali):** Say: "Running away will not profit you if ye are running away from death or slaughter; and even if (ye do escape), no more than a brief (respite) will ye be allowed to enjoy!"
 
 [Open on Quran.com](https://quran.com/33/16)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But my invitation increased them not except in flight [i.e., aversion].
 
-**Urdu (Fatah Muhammad Jalandhari):** لیکن میرے بلانے سے وہ اور زیادہ گزیر کرتے رہے
+**English (Yusuf Ali):** "But my call only increases (their) flight (from the Right).
 
 [Open on Quran.com](https://quran.com/71/6)
 

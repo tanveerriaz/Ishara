@@ -17,28 +17,28 @@ Mary · 98 ayahs
 - [[rHmn - gracious]] — `رَحْمٰن` · gracious
 - [[whb - grant]] — `وَهَبَ` · grant
 - [[glAm - boy]] — `غُلام` · boy
-- [[swy - even]] — `سَوِيّ` · even
 - [[wrv - will inherit]] — `وَرِثَ` · will inherit
-- [[E$y - evening]] — `عَشِيّ` · evening
+- [[swy - even]] — `سَوِيّ` · even
+- [[Ed - you count]] — `عَدَّ` · you count
+- [[Ely - high]] — `عَلِيّ` · high
+- [[qrn - generations]] — `قَرْن` · generations
+- [[Sdyq - truthful]] — `صِدِّيق` · truthful
 - [[bgy - rebellion]] — `بَغْي` · rebellion
-- [[>bSr - see]] — `أَبْصَرَ` · see
 - [[dEA' - call]] — `دُعاء` · call
+- [[xr - fell down]] — `خَرَّ` · fell down
 - [[md - spread]] — `مَدَّ` · spread
 - [[Aty - surely coming]] — `آتِي` · surely coming
+- [[E$y - evening]] — `عَشِيّ` · evening
 - [[bkrp - morning]] — `بُكْرَة` · morning
-- [[Ely - high]] — `عَلِيّ` · high
-- [[jbAr - tyrant]] — `جَبّار` · tyrant
-- [[AEtzl - they withdraw you]] — `اعْتَزَلَ` · they withdraw you
-- [[Sdyq - truthful]] — `صِدِّيق` · truthful
-- [[Ed - you count]] — `عَدَّ` · you count
-- [[qrn - generations]] — `قَرْن` · generations
-- [[xr - fell down]] — `خَرَّ` · fell down
-- [[EbAdt - worship]] — `عِبادَت` · worship
-- [[lsAn - tongues]] — `لِسان` · tongues
 - [[yHyY - yahya]] — `يَحْيَى` · yahya
-- [[xyr - better]] — `خَيْر` · better
-- [[wrd - place]] — `وِرْد` · place
-- [[mbyn - clear]] — `مُبِين` · clear
+- [[lsAn - tongues]] — `لِسان` · tongues
+- [[AEtzl - they withdraw you]] — `اعْتَزَلَ` · they withdraw you
+- [[jbAr - tyrant]] — `جَبّار` · tyrant
+- [[EbAdt - worship]] — `عِبادَت` · worship
+- [[>bSr - see]] — `أَبْصَرَ` · see
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[AtbE - follow]] — `اتَّبَعَ` · follow
+- [[r>s - heads]] — `رَأْس` · heads
 
 ## Roots
 

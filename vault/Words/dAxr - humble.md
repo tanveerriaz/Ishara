@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 16:48 · [[016 An-Nahl]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have they not considered what things Allāh has created? Their shadows incline to the right and to the left, prostrating to Allāh, while they [i.e., those creations] are humble.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا ان لوگوں نے خدا کی مخلوقات میں سے ایسی چیزیں نہیں دیکھیں جن کے سائے دائیں سے (بائیں کو) اور بائیں سے (دائیں کو) لوٹتے رہتے ہیں (یعنی) خدا کے آگے عاجز ہو کر سجدے میں پڑے رہتے ہیں
+**English (Yusuf Ali):** Do they not look at Allah's creation, (even) among (inanimate) things,- How their (very) shadows turn round, from the right and the left, prostrating themselves to Allah, and that in the humblest manner?
 
 [Open on Quran.com](https://quran.com/16/48)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [warn of] the Day the Horn will be blown, and whoever is in the heavens and whoever is on the earth will be terrified except whom Allāh wills. And all will come to Him humbled.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس روز صور پھونکا جائے گا تو جو لوگ آسمانوں اور زمین میں ہیں سب گھبرا اُٹھیں گے مگر وہ جسے خدا چاہے اور سب اس کے پاس عاجز ہو کر چلے آئیں گے
+**English (Yusuf Ali):** And the Day that the Trumpet will be sounded - then will be smitten with terror those who are in the heavens, and those who are on earth, except such as Allah will please (to exempt): and all shall come to His (Presence) as beings conscious of their lowliness.
 
 [Open on Quran.com](https://quran.com/27/87)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Yes, and you will be [rendered] contemptible."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ ہاں اور تم ذلیل ہوگے
+**English (Yusuf Ali):** Say thou: "Yea, and ye shall then be humiliated (on account of your evil)."
 
 [Open on Quran.com](https://quran.com/37/18)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And your Lord says, "Call upon Me; I will respond to you." Indeed, those who disdain My worship will enter Hell [rendered] contemptible.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے پروردگار نے کہا ہے کہ تم مجھ سے دعا کرو میں تمہاری (دعا) قبول کروں گا۔ جو لوگ میری عبادت سے ازراہ تکبر کنیاتے ہیں۔ عنقریب جہنم میں ذلیل ہو کر داخل ہوں گے
+**English (Yusuf Ali):** And your Lord says: "Call on Me; I will answer your (Prayer): but those who are too arrogant to serve Me will surely find themselves in Hell - in humiliation!"
 
 [Open on Quran.com](https://quran.com/40/60)
 

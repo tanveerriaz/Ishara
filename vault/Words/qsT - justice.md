@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:18 · [[003 Ali Imran]]
 
@@ -47,7 +47,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا تو اس بات کی گواہی دیتا ہے کہ اس کے سوا کوئی معبود نہیں اور فرشتے اور علم والے لوگ جو انصاف پر قائم ہیں وہ بھی (گواہی دیتے ہیں کہ) اس غالب حکمت والے کے سوا کوئی عبادت کے لائق نہیں
+**English (Yusuf Ali):** There is no god but He: That is the witness of Allah, His angels, and those endued with knowledge, standing firm on justice. There is no god but He, the Exalted in Power, the Wise.
 
 [Open on Quran.com](https://quran.com/3/18)
 
@@ -63,7 +63,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who disbelieve in the signs of Allāh and kill the prophets without right and kill those who order justice from among the people - give them tidings of a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کی آیتوں کو نہیں مانتے اور انبیاء کو ناحق قتل کرتے رہے ہیں اور جو انصاف (کرنے) کا حکم دیتے ہیں انہیں بھی مار ڈالتے ہیں ان کو دکھ دینے والے عذاب کی خوشخبری سنا دو
+**English (Yusuf Ali):** As to those who deny the Signs of Allah and in defiance of right, slay the prophets, and slay those who teach just dealing with mankind, announce to them a grievous penalty.
 
 [Open on Quran.com](https://quran.com/3/21)
 
@@ -79,7 +79,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they request from you, [O Muḥammad], a [legal] ruling concerning women. Say, "Allāh gives you a ruling about them and [about] what has been recited to you in the Book concerning the orphan girls to whom you do not give what is decreed for them - and [yet] you desire to marry them - and concerning the oppressed among children and that you maintain for orphans [their rights] in justice." And whatever you do of good - indeed, Allāh is ever Knowing of it.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگ تم سے (یتیم) عورتوں کے بارے میں فتویٰ طلب کرتے ہیں۔ کہہ دو کہ خدا تم کو ان کے (ساتھ نکاح کرنے کے) معاملے میں اجازت دیتا ہے اور جو حکم اس کتاب میں پہلے دیا گیا ہے وہ ان یتیم عورتوں کے بارے میں ہے جن کو تم ان کا حق تو دیتے نہیں اور خواہش رکھتے ہو کہ ان کے ساتھ نکاح کرلو اور (نیز) بیچارے بیکس بچوں کے بارے میں۔ اور یہ (بھی حکم دیتا ہے) کہ یتیموں کے بارے میں انصاف پر قائم رہو۔ اور جو بھلائی تم کرو گے خدا اس کو جانتا ہے
+**English (Yusuf Ali):** They ask thy instruction concerning the women say: Allah doth instruct you about them: And (remember) what hath been rehearsed unto you in the Book, concerning the orphans of women to whom ye give not the portions prescribed, and yet whom ye desire to marry, as also concerning the children who are weak and oppressed: that ye stand firm for justice to orphans. There is not a good deed which ye do, but Allah is well-acquainted therewith.
 
 [Open on Quran.com](https://quran.com/4/127)
 
@@ -95,7 +95,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, be persistently standing firm in justice, witnesses for Allāh, even if it be against yourselves or parents and relatives. Whether one is rich or poor, Allāh is more worthy of both. So follow not [personal] inclination, lest you not be just. And if you distort [your testimony] or refuse [to give it], then indeed Allāh is ever, of what you do, Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! انصاف پر قائم رہو اور خدا کے لئے سچی گواہی دو خواہ (اس میں) تمہارا یا تمہارےماں باپ اور رشتہ داروں کا نقصان ہی ہو۔ اگر کوئی امیر ہے یا فقیر تو خدا ان کا خیر خواہ ہے۔ تو تم خواہش نفس کے پیچھے چل کر عدل کو نہ چھوڑ دینا۔ اگر تم پیچیدا شہادت دو گے یا (شہادت سے) بچنا چاہو گے تو (جان رکھو) خدا تمہارے سب کاموں سے واقف ہے
+**English (Yusuf Ali):** O ye who believe! stand out firmly for justice, as witnesses to Allah, even as against yourselves, or your parents, or your kin, and whether it be (against) rich or poor: for Allah can best protect both. Follow not the lusts (of your hearts), lest ye swerve, and if ye distort (justice) or decline to do justice, verily Allah is well-acquainted with all that ye do.
 
 [Open on Quran.com](https://quran.com/4/135)
 
@@ -111,7 +111,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, be persistently standing firm for Allāh, witnesses in justice, and do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness. And fear Allāh; indeed, Allāh is [fully] Aware of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والوں! خدا کے لیے انصاف کی گواہی دینے کے لیے کھڑے ہو جایا کرو۔ اور لوگوں کی دشمنی تم کو اس بات پر آمادہ نہ کرے کہ انصاف چھوڑ دو۔ انصاف کیا کرو کہ یہی پرہیزگاری کی بات ہے اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا تمہارے سب اعمال سے خبردار ہے
+**English (Yusuf Ali):** O ye who believe! stand out firmly for Allah, as witnesses to fair dealing, and let not the hatred of others to you make you swerve to wrong and depart from justice. Be just: that is next to piety: and fear Allah. For Allah is well-acquainted with all that ye do.
 
 [Open on Quran.com](https://quran.com/5/8)
 
@@ -127,7 +127,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [They are] avid listeners to falsehood, devourers of [what is] unlawful. So if they come to you, [O Muḥammad], judge between them or turn away from them. And if you turn away from them - never will they harm you at all. And if you judge, judge between them with justice. Indeed, Allāh loves those who act justly.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ) جھوٹی باتیں بنانے کے جاسوسی کرنے والے اور (رشوت کا) حرام مال کھانے والے ہیں اگر یہ تمہارے پاس (کوئی مقدمہ فیصل کرانے کو) آئیں تو تم ان میں فیصلہ کر دینا یا اعراض کرنا اور اگر ان سے اعراض کرو گے تو وہ تمہارا کچھ بھی نہیں بگاڑ سکیں گے اور اگر فیصلہ کرنا چاہو تو انصاف کا فیصلہ کرنا کہ خدا انصاف کرنے والوں کو دوست رکھتا ہے
+**English (Yusuf Ali):** (They are fond of) listening to falsehood, of devouring anything forbidden. If they do come to thee, either judge between them, or decline to interfere. If thou decline, they cannot hurt thee in the least. If thou judge, judge in equity between them. For Allah loveth those who judge in equity.
 
 [Open on Quran.com](https://quran.com/5/42)
 
@@ -143,7 +143,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not approach the orphan's property except in a way that is best [i.e., intending improvement] until he reaches maturity. And give full measure and weight in justice. We do not charge any soul except [with that within] its capacity. And when you speak [i.e., testify], be just, even if [it concerns] a near relative. And the covenant of Allāh fulfill. This has He instructed you that you may remember.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ جانا مگر ایسے طریق سے کہ بہت ہی پسندیدہ ہو یہاں تک کہ وہ جوانی کو پہنچ جائے اور ناپ تول انصاف کے ساتھ پوری پوری کیا کرو ہم کسی کو تکلیف نہیں دیتے مگر اس کی طاقت کے مطابق اور جب (کسی کی نسبت) کوئی بات کہو تو انصاف سے کہو گو وہ (تمہارا) رشتہ دار ہی ہو اور خدا کے عہد کو پورا کرو ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم نصحیت کرو
+**English (Yusuf Ali):** And come not nigh to the orphan's property, except to improve it, until he attain the age of full strength; give measure and weight with (full) justice;- no burden do We place on any soul, but that which it can bear;- whenever ye speak, speak justly, even if a near relative is concerned; and fulfil the covenant of Allah: thus doth He command you, that ye may remember.
 
 [Open on Quran.com](https://quran.com/6/152)
 
@@ -159,7 +159,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "My Lord has ordered justice and that you direct yourselves [to the Qiblah] at every place [or time] of prostration, and invoke Him, sincere to Him in religion." Just as He originated you, you will return [to life] -
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میرے پروردگار نے تو انصاف کرنے کا حکم دیا ہے۔ اور یہ کہ ہر نماز کے وقت سیدھا (قبلے کی طرف) رخ کیا کرو اور خاص اسی کی عبادت کرو اور اسی کو پکارو۔ اس نے جس طرح تم کو ابتداء میں پیدا کیا تھا اسی طرح تم پھر پیدا ہوگے
+**English (Yusuf Ali):** Say: "My Lord hath commanded justice; and that ye set your whole selves (to Him) at every time and place of prayer, and call upon Him, making your devotion sincere as in His sight: such as He created you in the beginning, so shall ye return."
 
 [Open on Quran.com](https://quran.com/7/29)
 
@@ -175,7 +175,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** To Him is your return all together. [It is] the promise of Allāh [which is] truth. Indeed, He begins the [process of] creation and then repeats it that He may reward those who have believed and done righteous deeds, in justice. But those who disbelieved will have a drink of scalding water and a painful punishment for what they used to deny.
 
-**Urdu (Fatah Muhammad Jalandhari):** اسی کے پاس تم سب کو لوٹ کر جانا ہے۔ خدا کا وعدہ سچا ہے۔ وہی خلقت کو پہلی بار پیدا کرتا ہے۔ پھر وہی اس کو دوبارہ پیدا کرے گا تاکہ ایمان والوں اور نیک کام کرنے والوں کو انصاف کے ساتھ بدلہ دے۔ اور جو کافر ہیں ان کے لیے پینے کو نہایت گرم پانی اور درد دینے والا عذاب ہوگا کیوں کہ (خدا سے) انکار کرتے تھے
+**English (Yusuf Ali):** To Him will be your return- of all of you. The promise of Allah is true and sure. It is He Who beginneth the process of creation, and repeateth it, that He may reward with justice those who believe and work righteousness; but those who reject Him will have draughts of boiling fluids, and a penalty grievous, because they did reject Him.
 
 [Open on Quran.com](https://quran.com/10/4)
 
@@ -191,7 +191,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And for every nation is a messenger. So when their messenger comes, it will be judged between them in justice, and they will not be wronged.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہر ایک اُمت کی طرف سے پیغمبر بھیجا گیا۔ جب ان کا پیغمبر آتا ہے تو اُن میں انصاف کے ساتھ فیصلہ کر دیا جاتا ہے اور ان پر کچھ ظلم نہیں کیا جاتا
+**English (Yusuf Ali):** To every people (was sent) a messenger: when their messenger comes (before them), the matter will be judged between them with justice, and they will not be wronged.
 
 [Open on Quran.com](https://quran.com/10/47)
 

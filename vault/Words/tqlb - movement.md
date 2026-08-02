@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:144 · [[002 Al-Baqarah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** We have certainly seen the turning of your face, [O Muḥammad], toward the heaven, and We will surely turn you to a qiblah with which you will be pleased. So turn your face [i.e., yourself] toward al-Masjid al-Ḥarām. And wherever you [believers] are, turn your faces [i.e., yourselves] toward it [in prayer]. Indeed, those who have been given the Scripture [i.e., the Jews and the Christians] well know that it is the truth from their Lord. And Allāh is not unaware of what they do.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) ہم تمہارا آسمان کی طرف منہ پھیر پھیر کر دیکھنا دیکھ رہے ہیں۔ سو ہم تم کو اسی قبلے کی طرف جس کو تم پسند کرتے ہو، منہ کرنے کا حکم دیں گے تو اپنا منہ مسجد حرام (یعنی خانہٴ کعبہ) کی طرف پھیر لو۔ اور تم لوگ جہاں ہوا کرو، (نماز پڑھنے کے وقت) اسی مسجد کی طرف منہ کر لیا کرو۔ اور جن لوگوں کو کتاب دی گئی ہے، وہ خوب جانتے ہیں کہ (نیا قبلہ) ان کے پروردگار کی طرف سے حق ہے۔ اور جو کام یہ لوگ کرتے ہیں، خدا ان سے بے خبر نہیں
+**English (Yusuf Ali):** We see the turning of thy face (for guidance to the heavens: now Shall We turn thee to a Qibla that shall please thee. Turn then Thy face in the direction of the sacred Mosque: Wherever ye are, turn your faces in that direction. The people of the Book know well that that is the truth from their Lord. Nor is Allah unmindful of what they do.
 
 [Open on Quran.com](https://quran.com/2/144)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Be not deceived by the [uninhibited] movement of the disbelievers throughout the land.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) کافروں کا شہروں میں چلنا پھرنا تمہیں دھوکا نہ دے
+**English (Yusuf Ali):** Let not the strutting about of the Unbelievers through the land deceive thee:
 
 [Open on Quran.com](https://quran.com/3/196)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or that He would not seize them during their [usual] activity, and they could not cause failure [i.e., escape from Him]?
 
-**Urdu (Fatah Muhammad Jalandhari):** یا ان کو چلتے پھرتے پکڑ لے وہ (خدا کو) عاجز نہیں کرسکتے
+**English (Yusuf Ali):** Or that He may not call them to account in the midst of their goings to and fro, without a chance of their frustrating Him?-
 
 [Open on Quran.com](https://quran.com/16/46)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And your movement among those who prostrate.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور نمازیوں میں تمہارے پھرنے کو بھی
+**English (Yusuf Ali):** And thy movements among those who prostrate themselves,
 
 [Open on Quran.com](https://quran.com/26/219)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He punishes whom He wills and has mercy upon whom He wills, and to Him you will be returned.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ جسے چاہے عذاب دے اور جس پر چاہے رحم کرے۔ اور اُسی کی طرف تم لوٹائے جاؤ گے
+**English (Yusuf Ali):** "He punishes whom He pleases, and He grants Mercy to whom He pleases, and towards Him are ye turned.
 
 [Open on Quran.com](https://quran.com/29/21)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** No one disputes concerning the signs of Allāh except those who disbelieve, so be not deceived by their [uninhibited] movement throughout the land.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا کی آیتوں میں وہی لوگ جھگڑتے ہیں جو کافر ہیں۔ تو ان لوگوں کا شہروں میں چلنا پھرنا تمہیں دھوکے میں نہ ڈال دے
+**English (Yusuf Ali):** None can dispute about the Signs of Allah but the Unbelievers. Let not, then, their strutting about through the land deceive thee!
 
 [Open on Quran.com](https://quran.com/40/4)
 

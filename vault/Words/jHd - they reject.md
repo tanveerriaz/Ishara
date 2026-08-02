@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:33 · [[006 Al-Anam]]
 
@@ -47,7 +47,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** We know that you, [O Muḥammad], are saddened by what they say. And indeed, they do not call you untruthful, but it is the verses of Allāh that the wrongdoers reject.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم کو معلوم ہے کہ ان (کافروں) کی باتیں تمہیں رنج پہنچاتی ہیں (مگر) یہ تمہاری تکذیب نہیں کرتے بلکہ ظالم خدا کی آیتوں سے انکار کرتے ہیں
+**English (Yusuf Ali):** We know indeed the grief which their words do cause thee: It is not thee they reject: it is the signs of Allah, which the wicked contemn.
 
 [Open on Quran.com](https://quran.com/6/33)
 
@@ -63,7 +63,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who took their religion as distraction and amusement and whom the worldly life deluded." So today We will forget them just as they forgot the meeting of this Day of theirs and for having rejected Our verses.
 
-**Urdu (Fatah Muhammad Jalandhari):** جنہوں نے اپنے دین کو تماشا اور کھیل بنا رکھا تھا اور دنیا کی زندگی نے ان کو دھوکے میں ڈال رکھا تھا۔ تو جس طرح یہ لوگ اس دن کے آنے کو بھولے ہوئے اور ہماری آیتوں سے منکر ہو رہے تھے۔ اسی طرح آج ہم بھی انہیں بھلا دیں گے
+**English (Yusuf Ali):** "Such as took their religion to be mere amusement and play, and were deceived by the life of the world." That day shall We forget them as they forgot the meeting of this day of theirs, and as they were wont to reject Our signs.
 
 [Open on Quran.com](https://quran.com/7/51)
 
@@ -79,7 +79,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And that was ʿAad, who rejected the signs of their Lord and disobeyed His messengers and followed the order of every obstinate tyrant.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ (وہی) عاد ہیں جنہوں نے خدا کی نشانیوں سے انکار کیا اور اس کے پیغمبروں کی نافرمانی کی اور ہر متکبر وسرکش کا کہا مانا
+**English (Yusuf Ali):** Such were the 'Ad People: they rejected the Signs of their Lord and Cherisher; disobeyed His messengers; And followed the command of every powerful, obstinate transgressor.
 
 [Open on Quran.com](https://quran.com/11/59)
 
@@ -95,7 +95,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Allāh has favored some of you over others in provision. But those who were favored [i.e., given more] would not hand over their provision to those whom their right hands possess [i.e., slaves] so they would be equal to them therein. Then is it the favor of Allāh they reject?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے رزق (ودولت) میں بعض کو بعض پر فضیلت دی ہے تو جن لوگوں کو فضیلت دی ہے وہ اپنا رزق اپنے مملوکوں کو تو دے ڈالنے والے ہیں نہیں کہ سب اس میں برابر ہوجائیں۔ تو کیا یہ لوگ نعمت الہیٰ کے منکر ہیں
+**English (Yusuf Ali):** Allah has bestowed His gifts of sustenance more freely on some of you than on others: those more favoured are not going to throw back their gifts to those whom their right hands possess, so as to be equal in that respect. Will they then deny the favours of Allah?
 
 [Open on Quran.com](https://quran.com/16/71)
 
@@ -111,7 +111,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they rejected them, while their [inner] selves were convinced thereof, out of injustice and haughtiness. So see how was the end of the corrupters.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بےانصافی اور غرور سے ان سے انکار کیا لیکن ان کے دل ان کو مان چکے تھے۔ سو دیکھ لو فساد کرنے والوں کا انجام کیسا ہوا
+**English (Yusuf Ali):** And they rejected those Signs in iniquity and arrogance, though their souls were convinced thereof: so see what was the end of those who acted corruptly!
 
 [Open on Quran.com](https://quran.com/27/14)
 
@@ -127,7 +127,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus We have sent down to you the Book [i.e., the Qur’ān]. And those to whom We [previously] gave the Scripture believe in it. And among these [people of Makkah] are those who believe in it. And none reject Our verses except the disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے تمہاری طرف کتاب اُتاری ہے۔ تو جن لوگوں کو ہم نے کتابیں دی تھیں وہ اس پر ایمان لے آتے ہیں۔ اور بعض ان( مشرک) لوگوں میں سے بھی اس پر ایمان لے آتے ہیں۔ اور ہماری آیتوں سے وہی انکار کرتے ہیں جو کافر (ازلی) ہیں
+**English (Yusuf Ali):** And thus (it is) that We have sent down the Book to thee. So the People of the Book believe therein, as also do some of these (pagan Arabs): and none but Unbelievers reject our signs.
 
 [Open on Quran.com](https://quran.com/29/47)
 
@@ -143,7 +143,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Rather, it [i.e., the Qur’ān] is distinct verses [preserved] within the breasts of those who have been given knowledge. And none reject Our verses except the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** بلکہ یہ روشن آیتیں ہیں۔ جن لوگوں کو علم دیا گیا ہے اُن کے سینوں میں (محفوظ) اور ہماری آیتوں سے وہی لوگ انکار کرتے ہیں جو بےانصاف ہیں
+**English (Yusuf Ali):** Nay, here are Signs self-evident in the hearts of those endowed with knowledge: and none but the unjust reject Our Signs.
 
 [Open on Quran.com](https://quran.com/29/49)
 
@@ -159,7 +159,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when waves come over them like canopies, they supplicate Allāh, sincere to Him in religion [i.e., faith]. But when He delivers them to the land, there are [some] of them who are moderate [in faith]. And none rejects Our signs except everyone treacherous and ungrateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب اُن پر (دریا کی) لہریں سائبانوں کی طرح چھا جاتی ہیں تو خدا کو پکارنے (اور) خالص اس کی عبادت کرنے لگتے ہیں پھر جب وہ اُن کو نجات دے کر خشکی پر پہنچا دیتا ہے تو بعض ہی انصاف پر قائم رہتے ہیں۔ اور ہماری نشانیوں سے وہی انکار کرتے ہیں جو عہد شکن اور ناشکرے ہیں
+**English (Yusuf Ali):** When a wave covers them like the canopy (of clouds), they call to Allah, offering Him sincere devotion. But when He has delivered them safely to land, there are among them those that halt between (right and wrong). But none reject Our Signs except only a perfidious ungrateful (wretch)!
 
 [Open on Quran.com](https://quran.com/31/32)
 
@@ -175,7 +175,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Thus were those [before you] deluded who were rejecting the signs of Allāh.
 
-**Urdu (Fatah Muhammad Jalandhari):** اسی طرح وہ لوگ بھٹک رہے تھے جو خدا کی آیتوں سے انکار کرتے تھے
+**English (Yusuf Ali):** Thus are deluded those who are wont to reject the Signs of Allah.
 
 [Open on Quran.com](https://quran.com/40/63)
 
@@ -191,7 +191,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** As for ʿAad, they were arrogant upon the earth without right and said, "Who is greater than us in strength?" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو عاد تھے وہ ناحق ملک میں غرور کرنے لگے اور کہنے لگے کہ ہم سے بڑھ کر قوت میں کون ہے؟ کیا انہوں نے نہیں دیکھا کہ خدا جس نے ان کو پیدا کیا وہ ان سے قوت میں بہت بڑھ کر ہے۔ اور وہ ہماری آیتوں سے انکار کرتے رہے
+**English (Yusuf Ali):** Now the 'Ad behaved arrogantly through the land, against (all) truth and reason, and said: "Who is superior to us in strength?" What! did they not see that Allah, Who created them, was superior to them in strength? But they continued to reject Our Signs!
 
 [Open on Quran.com](https://quran.com/41/15)
 

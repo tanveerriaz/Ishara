@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:24 · [[004 An-Nisa]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [also prohibited to you are all] married women except those your right hands possess. [This is] the decree of Allāh upon you. And lawful to you are [all others] beyond these, [provided] that you seek them [in marriage] with [gifts from] your property, desiring chastity, not unlawful sexual intercourse. So for whatever you enjoy [of marriage] from them, give them their due compensation as an obligation. And there is no blame upon you for what you mutually agree to beyond the obligation. Indeed, Allāh is ever Knowing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور شوہر والی عورتیں بھی (تم پر حرام ہیں) مگر وہ جو (اسیر ہو کر لونڈیوں کے طور پر) تمہارے قبضے میں آجائیں (یہ حکم) خدا نے تم کو لکھ دیا ہے اور ان (محرمات) کے سوا اور عورتیں تم کو حلال ہیں اس طرح سے کہ مال خرچ کر کے ان سے نکاح کرلو بشرطیکہ (نکاح سے) مقصود عفت قائم رکھنا ہو نہ شہوت رانی تو جن عورتوں سے تم فائدہ حاصل کرو ان کا مہر جو مقرر کیا ہو ادا کردو اور اگر مقرر کرنے کے بعد آپس کی رضامندی سے مہر میں کمی بیشی کرلو تو تم پر کچھ گناہ نہیں بےشک خدا سب کچھ جاننے والا (اور) حکمت والا ہے
+**English (Yusuf Ali):** Also (prohibited are) women already married, except those whom your right hands possess: Thus hath Allah ordained (Prohibitions) against you: Except for these, all others are lawful, provided ye seek (them in marriage) with gifts from your property,- desiring chastity, not lust, seeing that ye derive benefit from them, give them their dowers (at least) as prescribed; but if, after a dower is prescribed, agree Mutually (to vary it), there is no blame on you, and Allah is All-knowing, All-wise.
 
 [Open on Quran.com](https://quran.com/4/24)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], the Day when He will gather them together [and say], "O company of jinn, you have [misled] many of mankind." And their allies among mankind will say, "Our Lord, some of us made use of others, and we have [now] reached our term which You appointed for us." He will say, "The Fire is your residence, wherein you will abide eternally, except for what Allāh wills. Indeed, your Lord is Wise and Knowing."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس دن وہ سب (جنّ وانس) کو جمع کرے گا (اور فرمائے گا کہ) اے گروہ جنّات تم نے انسانوں سے بہت (فائدے) حاصل کئے تو جو انسانوں میں ان کے دوستدار ہوں گے وہ کہیں گے کہ پروردگار ہم ایک دوسرے سے فائدہ اٹھاتے رہے اور (آخر) اس وقت کو پہنچ گئے جو تو نے ہمارے لیے مقرر کیا تھا خدا فرمائے گا (اب) تمہارا ٹھکانہ دوزخ ہے ہمیشہ اس میں (جلتے) رہو گے مگر جو خدا چاہے بےشک تمہارا پروردگار دانا اور خبردار ہے
+**English (Yusuf Ali):** One day will He gather them all together, (and say): "O ye assembly of Jinns! Much (toll) did ye take of men." Their friends amongst men will say: "Our Lord! we made profit from each other: but (alas!) we reached our term - which thou didst appoint for us." He will say: "The Fire be your dwelling-place: you will dwell therein for ever, except as Allah willeth." for thy Lord is full of wisdom and knowledge.
 
 [Open on Quran.com](https://quran.com/6/128)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [You disbelievers are] like those before you; they were stronger than you in power and more abundant in wealth and children. They enjoyed their portion [of worldly enjoyment], and you have enjoyed your portion as those before you enjoyed their portion, and you have engaged [in vanities] like that in which they engaged. [It is] those whose deeds have become worthless in this world and in the Hereafter, and it is they who are the losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** (تم منافق لوگ) ان لوگوں کی طرح ہو، جو تم سے پہلے ہوچکے ہیں۔ وہ تم سے بہت زیادہ طاقتور اور مال و اولاد میں کہیں زیادہ تھے تو وہ اپنے حصے سے بہرہ یاب ہوچکے۔ سو جس طرح تم سے پہلے لوگ اپنے حصے سے فائدہ اٹھا چکے ہیں۔ اسی طرح تم نے اپنے حصے سے فائدہ اٹھا لیا۔ اور جس طرح وہ باطل میں ڈوبے رہے اسی طرح تم باطل میں ڈوبے رہے یہ وہ لوگ ہیں جن کے اعمال دنیا اور آخرت میں ضائع ہوگئے۔ اور یہی نقصان اٹھانے والے ہیں
+**English (Yusuf Ali):** As in the case of those before you: they were mightier than you in power, and more flourishing in wealth and children. They had their enjoyment of their portion: and ye have of yours, as did those before you; and ye indulge in idle talk as they did. They!- their work are fruitless in this world and in the Hereafter, and they will lose (all spiritual good).
 
 [Open on Quran.com](https://quran.com/9/69)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the Day those who disbelieved are exposed to the Fire [it will be said], "You exhausted your pleasures during your worldly life and enjoyed them, so this Day you will be awarded the punishment of [extreme] humiliation because you were arrogant upon the earth without right and because you were defiantly disobedient."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس دن کافر دوزخ کے سامنے کئے جائیں گے (تو کہا جائے گا کہ) تم اپنی دنیا کی زندگی میں لذتیں حاصل کرچکے اور ان سے متمتع ہوچکے سو آج تم کو ذلت کا عذاب ہے، (یہ) اس کی سزا (ہے) کہ تم زمین میں ناحق غرور کیا کرتے تھے۔ اور اس کی بدکرداری کرتے تھے
+**English (Yusuf Ali):** And on the Day that the Unbelievers will be placed before the Fire, (It will be said to them): "Ye received your good things in the life of the world, and ye took your pleasure out of them: but today shall ye be recompensed with a Penalty of humiliation: for that ye were arrogant on earth without just cause, and that ye (ever) transgressed."
 
 [Open on Quran.com](https://quran.com/46/20)
 

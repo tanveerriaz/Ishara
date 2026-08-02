@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 70:17 · [[070 Al-Maarij]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It invites he who turned his back [on truth] and went away [from obedience]
 
-**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں کو اپنی طرف بلائے گی جنہوں نے (دین حق سے) اعراض کیا
+**English (Yusuf Ali):** Inviting (all) such as turn their backs and turn away their faces (from the Right).
 
 [Open on Quran.com](https://quran.com/70/17)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then he turned back and was arrogant
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر پشت پھیر کر چلا اور (قبول حق سے) غرور کیا
+**English (Yusuf Ali):** Then he turned back and was haughty;
 
 [Open on Quran.com](https://quran.com/74/23)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [by] the night when it departs.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور رات کی جب پیٹھ پھیرنے لگے
+**English (Yusuf Ali):** And by the Night as it retreateth,
 
 [Open on Quran.com](https://quran.com/74/33)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then he turned his back, striving [i.e., plotting].
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر لوٹ گیا اور تدبیریں کرنے لگا
+**English (Yusuf Ali):** Further, he turned his back, striving hard (against Allah).
 
 [Open on Quran.com](https://quran.com/79/22)
 

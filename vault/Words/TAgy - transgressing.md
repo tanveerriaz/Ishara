@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 37:30 · [[037 As-Saffat]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And we had over you no authority, but you were a transgressing people.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہمارا تم پر کچھ زور نہ تھا۔ بلکہ تم سرکش لوگ تھے
+**English (Yusuf Ali):** "Nor had we any authority over you. Nay, it was ye who were a people in obstinate rebellion!
 
 [Open on Quran.com](https://quran.com/37/30)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** This [is so]. But indeed, for the transgressors is an evil place of return -
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ (نعمتیں تو فرمانبرداروں کے لئے ہیں) اور سرکشوں کے لئے برا ٹھکانا ہے
+**English (Yusuf Ali):** Yea, such! but - for the wrong-doers will be an evil place of (Final) Return!-
 
 [Open on Quran.com](https://quran.com/38/55)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Did they suggest it to them? Rather, they [themselves] are a transgressing people.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ کہ ایک دوسرے کو اسی بات کی وصیت کرتے آئے ہیں بلکہ یہ شریر لوگ ہیں
+**English (Yusuf Ali):** Is this the legacy they have transmitted, one to another? Nay, they are themselves a people transgressing beyond bounds!
 
 [Open on Quran.com](https://quran.com/51/53)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do their minds command them to [say] this, or are they a transgressing people?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا ان کی عقلیں ان کو یہی سکھاتی ہیں۔ بلکہ یہ لوگ ہیں ہی شریر
+**English (Yusuf Ali):** Is it that their faculties of understanding urge them to this, or are they but a people transgressing beyond bounds?
 
 [Open on Quran.com](https://quran.com/52/32)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "O woe to us; indeed we were transgressors.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہنے لگے ہائے شامت ہم ہی حد سے بڑھ گئے تھے
+**English (Yusuf Ali):** They said: "Alas for us! We have indeed transgressed!
 
 [Open on Quran.com](https://quran.com/68/31)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** For the transgressors, a place of return,
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی) سرکشوں کا وہی ٹھکانہ ہے
+**English (Yusuf Ali):** For the transgressors a place of destination:
 
 [Open on Quran.com](https://quran.com/78/22)
 

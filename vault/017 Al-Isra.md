@@ -17,28 +17,28 @@ The Night Journey · 111 ayahs
 - [[qr> - read]] — `قَرَأَ` · read
 - [[kfwr - ungrateful]] — `كَفُور` · ungrateful
 - [[kAd - almost]] — `كادَ` · almost
-- [[x$yp - fear]] — `خَشْيَة` · fear
-- [[nfwr - aversion]] — `نُفُور` · aversion
-- [[lbv - you remained]] — `لَبِثَ` · you remained
-- [[ms}wl - questioned]] — `مَسْئُول` · questioned
-- [[msHwr - bewitched]] — `مَسْحُور` · bewitched
-- [[>EmY - blind]] — `أَعْمَى` · blind
-- [[EZAm - bones]] — `عِظام` · bones
-- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
-- [[jAnb - side]] — `جانِب` · side
-- [[mlwm - blameworthy]] — `مَلُوم` · blameworthy
-- [[yrjwA - expect]] — `يَرْجُوا۟` · expect
-- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
-- [[bsT - extends]] — `بَسَطَ` · extends
-- [[$r - evil]] — `شَرّ` · evil
-- [[>grq - we drowned]] — `أُغْرِقُ` · we drowned
-- [[kbr - old age]] — `كَبِّرْ` · old age
-- [[mnE - prevented you]] — `مَنَعَ` · prevented you
-- [[m$ - walk]] — `مَشَ` · walk
-- [[Elw - haughtiness]] — `عُلُوّ` · haughtiness
 - [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
+- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[xr - fell down]] — `خَرَّ` · fell down
 - [[>bY - he refused]] — `أَبَى` · he refused
+- [[yrjwA - expect]] — `يَرْجُوا۟` · expect
+- [[Enq - necks]] — `عُنُق` · necks
+- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
+- [[EZAm - bones]] — `عِظام` · bones
+- [[mlwm - blameworthy]] — `مَلُوم` · blameworthy
+- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
+- [[mnE - prevented you]] — `مَنَعَ` · prevented you
 - [[zEm - claim]] — `زَعَمَ` · claim
+- [[msHwr - bewitched]] — `مَسْحُور` · bewitched
+- [[bsT - extends]] — `بَسَطَ` · extends
+- [[>grq - we drowned]] — `أُغْرِقُ` · we drowned
+- [[>EmY - blind]] — `أَعْمَى` · blind
+- [[ms}wl - questioned]] — `مَسْئُول` · questioned
+- [[jdyd - new]] — `جَدِيد` · new
+- [[x$yp - fear]] — `خَشْيَة` · fear
+- [[$r - evil]] — `شَرّ` · evil
+- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
+- [[nfwr - aversion]] — `نُفُور` · aversion
 
 ## Roots
 

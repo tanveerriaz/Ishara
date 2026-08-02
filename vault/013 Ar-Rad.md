@@ -14,31 +14,31 @@ The Thunder · 43 ayahs
 
 ## Words in this surah (graph)
 
-- [[nqDt - break]] — `نَقَضَتْ` · break
 - [[qdr - restricts]] — `قَدَر` · restricts
-- [[ySl - joined]] — `يَصِلُ` · joined
-- [[Zl - shade]] — `ظِلّ` · shade
-- [[>EmY - blind]] — `أَعْمَى` · blind
 - [[hAd - guide]] — `هاد` · guide
-- [[mAb - place return]] — `مَآب` · place return
+- [[>EmY - blind]] — `أَعْمَى` · blind
+- [[ySl - joined]] — `يَصِلُ` · joined
 - [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[mA' - water]] — `ماء` · water
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>xlf - break]] — `أَخْلَفُ` · break
+- [[mAb - place return]] — `مَآب` · place return
+- [[nqDt - break]] — `نَقَضَتْ` · break
+- [[Zl - shade]] — `ظِلّ` · shade
+- [[Hsn - good]] — `حُسْن` · good
+- [[Avnyn - two]] — `اثْنَيْن` · two
+- [[HfZ - guard]] — `حِفْظ` · guard
+- [[AtbE - follow]] — `اتَّبَعَ` · follow
 - [[dEA - call]] — `دَعا` · call
-- [[ydbr - disposing]] — `يُدَبِّرُ` · disposing
-- [[TwE - willingly]] — `طَوْع` · willingly
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[tlY - recited]] — `تَلَى` · recited
-- [[ytfkr - reflect]] — `يَتَفَكَّرُ` · reflect
-- [[qmr - moon]] — `قَمَر` · moon
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[lyl - night]] — `لَيْل` · night
+- [[jAdl - dispute]] — `جادَلُ` · dispute
+- [[wjh - faces]] — `وَجْه` · faces
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[qA}m - standing]] — `قائِم` · standing
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[Er$ - throne]] — `عَرْش` · throne
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
 
 ## Roots
 

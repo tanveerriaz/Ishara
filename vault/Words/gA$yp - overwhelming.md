@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:41 · [[007 Al-Araf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will have from Hell a bed and over them coverings [of fire]. And thus do We recompense the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** ایسے لوگوں کے لیے (نیچے) بچھونا بھی (آتش) جہنم کا ہوگا اور اوپر سے اوڑھنا بھی (اسی کا) اور ظالموں کو ہم ایسی ہی سزا دیا کرتے ہیں
+**English (Yusuf Ali):** For them there is Hell, as a couch (below) and folds and folds of covering above: such is Our requital of those who do wrong.
 
 [Open on Quran.com](https://quran.com/7/41)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then do they feel secure that there will not come to them an overwhelming [aspect] of the punishment of Allāh or that the Hour will not come upon them suddenly while they do not perceive?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ اس (بات) سے بےخوف ہیں کہ ان پر خدا کا عذاب نازل ہو کر ان کو ڈھانپ لے یا ان پر ناگہاں قیامت آجائے اور انہیں خبر بھی نہ ہو
+**English (Yusuf Ali):** Do they then feel secure from the coming against them of the covering veil of the wrath of Allah,- or of the coming against them of the (final) Hour all of a sudden while they perceive not?
 
 [Open on Quran.com](https://quran.com/12/107)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Has there reached you the report of the Overwhelming [event]?
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تم کو ڈھانپ لینے والی (یعنی قیامت کا) حال معلوم ہوا ہے
+**English (Yusuf Ali):** Has the story reached thee of the overwhelming (Event)?
 
 [Open on Quran.com](https://quran.com/88/1)
 

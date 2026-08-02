@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 20:63 · [[020 Taha]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "Indeed, these are two magicians who want to drive you out of your land with their magic and do away with your most exemplary way [i.e., religion or tradition].
 
-**Urdu (Fatah Muhammad Jalandhari):** کہنے لگے یہ دونوں جادوگر ہیں چاہتے ہیں کہ اپنے جادو (کے زور) سے تم کو تمہارے ملک سے نکل دیں اور تمہارے شائستہ مذہب کو نابود کردیں
+**English (Yusuf Ali):** They said: "These two are certainly (expert) magicians: their object is to drive you out from your land with their magic, and to do away with your most cherished institutions.
 
 [Open on Quran.com](https://quran.com/20/63)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** We are most knowing of what they say when the best of them in manner [i.e., wisdom or speech] will say, "You remained not but one day."
 
-**Urdu (Fatah Muhammad Jalandhari):** جو باتیں یہ کریں گے ہم خوب جانتے ہیں۔ اس وقت ان میں سب سے اچھی راہ والا (یعنی عاقل وہوشمند) کہے گا کہ (نہیں بلکہ) صرف ایک ہی روز ٹھہرے ہو
+**English (Yusuf Ali):** We know best what they will say, when their leader most eminent in conduct will say: "Ye tarried not longer than a day!"
 
 [Open on Quran.com](https://quran.com/20/104)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have created above you seven layered heavens, and never have We been of [Our] creation unaware.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تمہارے اوپر (کی جانب) سات آسمان پیدا کئے۔ اور ہم خلقت سے غافل نہیں ہیں
+**English (Yusuf Ali):** And We have made, above you, seven tracts; and We are never unmindful of (our) Creation.
 
 [Open on Quran.com](https://quran.com/23/17)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And among us are the righteous, and among us are [others] not so; we were [of] divided ways.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ ہم میں کوئی نیک ہیں اور کوئی اور طرح کے۔ ہمارے کئی طرح کے مذہب ہیں
+**English (Yusuf Ali):** 'There are among us some that are righteous, and some the contrary: we follow divergent paths.
 
 [Open on Quran.com](https://quran.com/72/11)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [Allāh revealed] that if they had remained straight on the way, We would have given them abundant rain [i.e., provision].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) یہ (بھی ان سے کہہ دو) کہ اگر یہ لوگ سیدھے رستے پر رہتے تو ہم ان کے پینے کو بہت سا پانی دیتے
+**English (Yusuf Ali):** (And Allah's Message is): "If they (the Pagans) had (only) remained on the (right) Way, We should certainly have bestowed on them Rain in abundance.
 
 [Open on Quran.com](https://quran.com/72/16)
 

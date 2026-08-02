@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:200 · [[007 Al-Araf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if an evil suggestion comes to you from Satan, then seek refuge in Allāh. Indeed, He is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر شیطان کی طرف سے تمہارے دل میں کسی طرح کا وسوسہ پیدا ہو تو خدا سے پناہ مانگو۔ بےشک وہ سننے والا (اور) سب کچھ جاننے والا ہے
+**English (Yusuf Ali):** If a suggestion from Satan assail thy (mind), seek refuge with Allah; for He heareth and knoweth (all things).
 
 [Open on Quran.com](https://quran.com/7/200)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when you recite the Qur’ān, [first] seek refuge in Allāh from Satan, the expelled [from His mercy].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم قرآن پڑھنے لگو تو شیطان مردود سے پناہ مانگ لیا کرو
+**English (Yusuf Ali):** When thou dost read the Qur'an, seek Allah's protection from Satan the rejected one.
 
 [Open on Quran.com](https://quran.com/16/98)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who dispute concerning the signs of Allāh without [any] evidence having come to them - there is not within their breasts except pride, [the extent of] which they cannot reach. So seek refuge in Allāh. Indeed, it is He who is the Hearing, the Seeing.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ بغیر کسی دلیل کے جو ان کے پاس آئی ہو خدا کی آیتوں میں جھگڑتے ہیں ان کے دلوں میں اور کچھ نہیں (ارادہٴ) عظمت ہے اور وہ اس کو پہنچنے والے نہیں تو خدا کی پناہ مانگو۔ بےشک وہ سننے والا (اور) دیکھنے والا ہے
+**English (Yusuf Ali):** Those who dispute about the signs of Allah without any authority bestowed on them,- there is nothing in their breasts but (the quest of) greatness, which they shall never attain to: seek refuge, then, in Allah: It is He Who hears and sees (all things).
 
 [Open on Quran.com](https://quran.com/40/56)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if there comes to you from Satan an evil suggestion, then seek refuge in Allāh. Indeed, He is the Hearing, the Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تمہیں شیطان کی جانب سے کوئی وسوسہ پیدا ہو تو خدا کی پناہ مانگ لیا کرو۔ بےشک وہ سنتا جانتا ہے
+**English (Yusuf Ali):** And if (at any time) an incitement to discord is made to thee by the Evil One, seek refuge in Allah. He is the One Who hears and knows all things.
 
 [Open on Quran.com](https://quran.com/41/36)
 

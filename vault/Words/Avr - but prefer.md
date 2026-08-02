@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 12:91 · [[012 Yusuf]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "By Allāh, certainly has Allāh preferred you over us, and indeed, we have been sinners."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ بولے خدا کی قسم خدا نے تم کو ہم پر فضیلت بخشی ہے اور بےشک ہم خطاکار تھے
+**English (Yusuf Ali):** They said: "By Allah! indeed has Allah preferred thee above us, and we certainly have been guilty of sin!"
 
 [Open on Quran.com](https://quran.com/12/91)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "Never will we prefer you over what has come to us of clear proofs and [over] He who created us. So decree whatever you are to decree. You can only decree for this worldly life.
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا جو دلائل ہمارے پاس آگئے ہیں ان پر اور جس نے ہم کو پیدا ہے اس پر ہم آپ کو ہرگز ترجیح نہیں دیں گے تو آپ کو جو حکم دینا ہو دے دیجیئے۔ اور آپ (جو) حکم دے سکتے ہیں وہ صرف اسی دنیا کی زندگی میں (دے سکتے ہیں)
+**English (Yusuf Ali):** They said: "Never shall we regard thee as more than the Clear Signs that have come to us, or than Him Who created us! so decree whatever thou desirest to decree: for thou canst only decree (touching) the life of this world.
 
 [Open on Quran.com](https://quran.com/20/72)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [also for] those who were settled in the Home [i.e.,al-Madīnah] and [adopted] the faith before them. They love those who emigrated to them and find not any want in their breasts of what they [i.e., the emigrants] were given but give [them] preference over themselves, even though they are in privation. And whoever is protected from the stinginess of his soul - it is those who will be the successful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (ان لوگوں کے لئے بھی) جو مہاجرین سے پہلے (ہجرت کے) گھر (یعنی مدینے) میں مقیم اور ایمان میں (مستقل) رہے (اور) جو لوگ ہجرت کرکے ان کے پاس آتے ہیں ان سے محبت کرتے ہیں اور جو کچھ ان کو ملا اس سے اپنے دل میں کچھ خواہش (اور خلش) نہیں پاتے اور ان کو اپنی جانوں سے مقدم رکھتے ہیں خواہ ان کو خود احتیاج ہی ہو۔ اور جو شخص حرص نفس سے بچا لیا گیا تو ایسے لوگ مراد پانے والے ہیں
+**English (Yusuf Ali):** But those who before them, had homes (in Medina) and had adopted the Faith,- show their affection to such as came to them for refuge, and entertain no desire in their hearts for things given to the (latter), but give them preference over themselves, even though poverty was their (own lot). And those saved from the covetousness of their own souls,- they are the ones that achieve prosperity.
 
 [Open on Quran.com](https://quran.com/59/9)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And preferred the life of the world,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور دنیا کی زندگی کو مقدم سمجھا
+**English (Yusuf Ali):** And had preferred the life of this world,
 
 [Open on Quran.com](https://quran.com/79/38)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But you prefer the worldly life,
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر تم لوگ تو دنیا کی زندگی کو اختیار کرتے ہو
+**English (Yusuf Ali):** Nay (behold), ye prefer the life of this world;
 
 [Open on Quran.com](https://quran.com/87/16)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:68 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "Call upon your Lord to make clear to us what it is." [Moses] said, "[Allāh] says, 'It is a cow which is neither old nor virgin, but median between that,' so do what you are commanded."
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ اپنے پروردگار سے التجا کیجئے کہ وہ ہمیں یہ بتائے کہ وہ بیل کس طرح کا ہو۔ (موسیٰ نے) کہا کہ پروردگار فرماتا ہے کہ وہ بیل نہ تو بوڑھا ہو اور نہ بچھڑا، بلکہ ان کے درمیان (یعنی جوان) ہو۔ جیسا تم کو حکم دیا گیا ہے، ویسا کرو
+**English (Yusuf Ali):** They said: "Beseech on our behalf Thy Lord to make plain to us what (heifer) it is!" He said; "He says: The heifer should be neither too old nor too young, but of middling age. Now do what ye are commanded!"
 
 [Open on Quran.com](https://quran.com/2/68)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And made them virgins,
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان کو کنواریاں بنایا
+**English (Yusuf Ali):** And made them virgin - pure (and undefiled), -
 
 [Open on Quran.com](https://quran.com/56/36)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Perhaps his Lord, if he divorced you [all], would substitute for him wives better than you - submitting [to Allāh], believing, devoutly obedient, repentant, worshipping, and traveling - [ones] previously married and virgins.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر پیغمبر تم کو طلاق دے دیں تو عجب نہیں کہ ان کا پروردگار تمہارے بدلے ان کو تم سے بہتر بیبیاں دے دے۔ مسلمان، صاحب ایمان فرمانبردار توبہ کرنے والیاں عبادت گذار روزہ رکھنے والیاں بن شوہر اور کنواریاں
+**English (Yusuf Ali):** It may be, if he divorced you (all), that Allah will give him in exchange consorts better than you,- who submit (their wills), who believe, who are devout, who turn to Allah in repentance, who worship (in humility), who travel (for Faith) and fast,- previously married or virgins.
 
 [Open on Quran.com](https://quran.com/66/5)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:201 · [[007 Al-Araf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who fear Allāh - when an impulse touches them from Satan, they remember [Him] and at once they have insight.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ پرہیزگار ہیں جب ان کو شیطان کی طرف سے کوئی وسوسہ پیدا ہوتا ہے تو چونک پڑتے ہیں اور (دل کی آنکھیں کھول کر) دیکھنے لگتے ہیں
+**English (Yusuf Ali):** Those who fear Allah, when a thought of evil from Satan assaults them, bring Allah to remembrance, when lo! they see (aright)!
 
 [Open on Quran.com](https://quran.com/7/201)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who made for you the night to rest therein and the day, giving sight. Indeed in that are signs for a people who listen.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تمہارے لیے رات بنائی تاکہ اس میں آرام کرو اور روز روشن بنایا ( تاکہ اس میں کام کرو) جو لوگ (مادہٴ) سماعت رکھتے ہیں ان کے لیے ان میں نشانیاں ہیں
+**English (Yusuf Ali):** He it is That hath made you the night that ye may rest therein, and the day to make things visible (to you). Verily in this are signs for those who listen (to His Message).
 
 [Open on Quran.com](https://quran.com/10/67)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they not see that We made the night that they may rest therein and the day giving sight? Indeed in that are signs for a people who believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا اُنہوں نے نہیں دیکھا کہ ہم نے رات کو (اس لئے) بنایا ہے کہ اس میں آرام کریں اور دن کو روشن (بنایا ہے کہ اس میں کام کریں) بےشک اس میں مومن لوگوں کے لئے نشانیاں ہیں
+**English (Yusuf Ali):** See they not that We have made the Night for them to rest in and the Day to give them light? Verily in this are Signs for any people that believe!
 
 [Open on Quran.com](https://quran.com/27/86)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is Allāh who made for you the night that you may rest therein and the day giving sight. Indeed, Allāh is the possessor of bounty for the people, but most of them are not grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے تمہارے لئے رات بنائی کہ اس میں آرام کرو اور دن کو روشن بنایا (کہ اس میں کام کرو) بےشک خدا لوگوں پر فضل کرنے والا ہے۔ لیکن اکثر لوگ شکر نہیں کرتے
+**English (Yusuf Ali):** It is Allah Who has made the Night for you, that ye may rest therein, and the days as that which helps (you) to see. Verily Allah is full of Grace and Bounty to men: yet most men give no thanks.
 
 [Open on Quran.com](https://quran.com/40/61)
 

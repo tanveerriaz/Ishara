@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:109 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Many of the People of the Scripture wish they could turn you back to disbelief after you have believed, out of envy from themselves [even] after the truth has become clear to them. So pardon and overlook until Allāh delivers His command. Indeed, Allāh is over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** بہت سے اہل کتاب اپنے دل کی جلن سے یہ چاہتے ہیں کہ ایمان لا چکنے کے بعد تم کو پھر کافر بنا دیں۔ حالانکہ ان پر حق ظاہر ہو چکا ہے۔ تو تم معاف کردو اور درگزر کرو۔ یہاں تک کہ خدا اپنا (دوسرا) حکم بھیجے۔ بے شک خدا ہر بات پر قادر ہے
+**English (Yusuf Ali):** Quite a number of the People of the Book wish they could Turn you (people) back to infidelity after ye have believed, from selfish envy, after the Truth hath become Manifest unto them: But forgive and overlook, Till Allah accomplish His purpose; for Allah Hath power over all things.
 
 [Open on Quran.com](https://quran.com/2/109)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do they envy people for what Allāh has given them of His bounty? But We had already given the family of Abraham the Scripture and wisdom and conferred upon them a great kingdom.
 
-**Urdu (Fatah Muhammad Jalandhari):** یا جو خدا نے لوگوں کو اپنے فضل سے دے رکھا ہے اس کا حسد کرتے ہیں تو ہم نے خاندان ابراہیم ؑ کو کتاب اور دانائی عطا فرمائی تھی اور سلطنت عظیم بھی بخشی تھی
+**English (Yusuf Ali):** Or do they envy mankind for what Allah hath given them of his bounty? but We had already given the people of Abraham the Book and Wisdom, and conferred upon them a great kingdom.
 
 [Open on Quran.com](https://quran.com/4/54)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who remained behind will say when you set out toward the war booty to take it, "Let us follow you." They wish to change the words of Allāh. Say, "Never will you follow us. Thus did Allāh say before." So they will say, "Rather, you envy us." But [in fact] they were not understanding except a little.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب تم لوگ غنیمتیں لینے چلو گے تو جو لوگ پیچھے رہ گئے تھے وہ کہیں گے ہمیں بھی اجازت دیجیئے کہ آپ کے ساتھ چلیں۔ یہ چاہتے ہیں کہ خدا کے قول کو بدل دیں۔ کہہ دو کہ تم ہرگز ہمارے ساتھ نہیں چل سکتے۔ اسی طرح خدا نے پہلے سے فرما دیا ہے۔ پھر کہیں گے (نہیں) تم تو ہم سے حسد کرتے ہو۔ بات یہ ہے کہ یہ لوگ سمجھتے ہی نہیں مگر بہت کم
+**English (Yusuf Ali):** Those who lagged behind (will say), when ye (are free to) march and take booty (in war): "Permit us to follow you." They wish to change Allah's decree: Say: "Not thus will ye follow us: Allah has already declared (this) beforehand": then they will say, "But ye are jealous of us." Nay, but little do they understand (such things).
 
 [Open on Quran.com](https://quran.com/48/15)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And from the evil of an envier when he envies."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور حسد کرنے والے کی برائی سے جب حسد کرنے لگے
+**English (Yusuf Ali):** And from the mischief of the envious one as he practises envy.
 
 [Open on Quran.com](https://quran.com/113/5)
 

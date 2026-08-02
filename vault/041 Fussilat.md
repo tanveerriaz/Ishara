@@ -15,30 +15,30 @@ Explained in Detail · 54 ayahs
 ## Words in this surah (graph)
 
 - [[jlwd - skins]] — `جُلُود` · skins
-- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
 - [[<ns - men]] — `إِنس` · men
-- [[Erby - arabic]] — `عَرَبِيّ` · arabic
-- [[wqr - deafness]] — `وَقْر` · deafness
+- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
 - [[tnzyl - revelation]] — `تَنزِيل` · revelation
 - [[SAEqp - thunderbolt]] — `صاعِقَة` · thunderbolt
-- [[xyr - better]] — `خَيْر` · better
-- [[qAl - say]] — `قالَ` · say
-- [[mA' - water]] — `ماء` · water
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[mryp - doubt]] — `مِرْيَة` · doubt
-- [[EZym - great]] — `عَظِيم` · great
+- [[Erby - arabic]] — `عَرَبِيّ` · arabic
+- [[wqr - deafness]] — `وَقْر` · deafness
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[HfZ - guard]] — `حِفْظ` · guard
+- [[n*yr - warner]] — `نَذِير` · warner
 - [[dEA - call]] — `دَعا` · call
-- [[TwE - willingly]] — `طَوْع` · willingly
-- [[qmr - moon]] — `قَمَر` · moon
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[Hmym - scalding water]] — `حَمِيم` · scalding water
-- [[bSr - vision]] — `بَصَر` · vision
-- [[dfE - repel]] — `دَفْع` · repel
-- [[HsnY - best]] — `حُسْنَى` · best
-- [[>nEm - i bestowed]] — `أَنْعَمَ` · i bestowed
-- [[nzg - evil suggestion]] — `نَزَغَ` · evil suggestion
-- [[krh - unwillingly]] — `كُرْه` · unwillingly
+- [[>knp - coverings]] — `أَكِنَّة` · coverings
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[rbt - it swells]] — `رَبَتْ` · it swells
+- [[lyl - night]] — `لَيْل` · night
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[qwp - strength]] — `قُوَّة` · strength
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[Dl - lost]] — `ضَلَّ` · lost
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[yd - hands]] — `يَد` · hands
+- [[xA$E - humbled]] — `خاشِع` · humbled
+- [[nAdY - he called]] — `نادَى` · he called
+- [[qA}mp - standing]] — `قائِمَة` · standing
 
 ## Roots
 

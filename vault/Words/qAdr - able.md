@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:37 · [[006 Al-Anam]]
 
@@ -48,7 +48,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "Why has a sign not been sent down to him from his Lord?" Say, "Indeed, Allāh is Able to send down a sign, but most of them do not know."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ ان پر ان کے پروردگارکے پاس کوئی نشانی کیوں نازل نہیں ہوئی۔ کہہ دو کہ خدا نشانی اتارنے پر قادر ہے لیکن اکثر لوگ نہیں جانتے
+**English (Yusuf Ali):** They say: "Why is not a sign sent down to him from his Lord?" Say: "Allah hath certainly power to send down a sign: but most of them understand not.
 
 [Open on Quran.com](https://quran.com/6/37)
 
@@ -64,7 +64,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "He is the [one] Able to send upon you affliction from above you or from beneath your feet or to confuse you [so you become] sects and make you taste the violence of one another." Look how We diversify the signs that they might understand.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ وہ (اس پر بھی) قدرت رکھتا ہے کہ تم پر اوپر کی طرف سے یا تمہارے پاؤں کے نیچے سے عذاب بھیجے یا تمہیں فرقہ فرقہ کردے اور ایک کو دوسرے (سے لڑا کر آپس) کی لڑائی کا مزہ چکھادے۔ دیکھو ہم اپنی آیتوں کو کس کس طرح بیان کرتے ہیں تاکہ یہ لوگ سمجھیں
+**English (Yusuf Ali):** Say: "He hath power to send calamities on you, from above and below, or to cover you with confusion in party strife, giving you a taste of mutual vengeance - each from the other." See how We explain the signs by various (symbols); that they may understand.
 
 [Open on Quran.com](https://quran.com/6/65)
 
@@ -80,7 +80,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The example of [this] worldly life is but like rain which We have sent down from the sky that the plants of the earth absorb - [those] from which men and livestock eat - until, when the earth has taken on its adornment and is beautified and its people suppose that they have capability over it, there comes to it Our command by night or by day, and We make it as a harvest, as if it had not flourished yesterday. Thus do We explain in detail the signs for a people who give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** دنیا کی زندگی کی مثال مینھہ کی سی ہے کہ ہم نے اس کو آسمان سے برسایا۔ پھر اس کے ساتھ سبزہ جسے آدمی اور جانور کھاتے ہیں مل کر نکلا یہاں تک کہ زمین سبزے سے خوشنما اور آراستہ ہوگئی اور زمین والوں نے خیال کیا کہ وہ اس پر پوری دسترس رکھتے ہیں ناگہاں رات کو یا دن کو ہمارا حکم (عذاب) آپہنچا تو ہم نے اس کو کاٹ (کر ایسا کر) ڈالا کہ گویا کل وہاں کچھ تھا ہی نہیں۔ جو لوگ غور کرنے والے ہیں۔ ان کے لیے ہم (اپنی قدرت کی) نشانیاں اسی طرح کھول کھول کر بیان کرتے ہیں
+**English (Yusuf Ali):** The likeness of the life of the present is as the rain which We send down from the skies: by its mingling arises the produce of the earth- which provides food for men and animals: (It grows) till the earth is clad with its golden ornaments and is decked out (in beauty): the people to whom it belongs think they have all powers of disposal over it: There reaches it Our command by night or by day, and We make it like a harvest clean-mown, as if it had not flourished only the day before! thus do We explain the Signs in detail for those who reflect.
 
 [Open on Quran.com](https://quran.com/10/24)
 
@@ -96,7 +96,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they not see that Allāh, who created the heavens and earth, is [the one] Able to create the likes of them? And He has appointed for them a term, about which there is no doubt. But the wrongdoers refuse except disbelief.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ خدا جس نے آسمانوں اور زمین کو پیدا کیا ہے اس بات پر قادر ہے کہ ان جیسے (لوگ) پیدا کردے۔ اور اس نے ان کے لئے ایک وقت مقرر کر دیا ہے جس میں کچھ بھی شک نہیں۔ تو ظالموں نے انکار کرنے کے سوا (اسے) قبول نہ کیا
+**English (Yusuf Ali):** See they not that Allah, Who created the heavens and the earth, has power to create the like of them (anew)? Only He has decreed a term appointed, of which there is no doubt. But the unjust refuse (to receive it) except with ingratitude.
 
 [Open on Quran.com](https://quran.com/17/99)
 
@@ -112,7 +112,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have sent down rain from the sky in a measured amount and settled it in the earth. And indeed, We are Able to take it away.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہی نے آسمان سے ایک اندازے کے ساتھ پانی نازل کیا۔ پھر اس کو زمین میں ٹھہرا دیا اور ہم اس کے نابود کردینے پر بھی قادر ہیں
+**English (Yusuf Ali):** And We send down water from the sky according to (due) measure, and We cause it to soak in the soil; and We certainly are able to drain it off (with ease).
 
 [Open on Quran.com](https://quran.com/23/18)
 
@@ -128,7 +128,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, We are Able to show you what We have promised them.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو وعدہ ہم ان سے کر رہے ہیں ہم تم کو دکھا کر ان پر نازل کرنے پر قادر ہیں
+**English (Yusuf Ali):** And We are certainly able to show thee (in fulfilment) that against which they are warned.
 
 [Open on Quran.com](https://quran.com/23/95)
 
@@ -144,7 +144,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Is not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا جس نے آسمانوں اور زمین کو پیدا کیا، کیا وہ اس بات پر قادر نہیں کہ (ان کو پھر) ویسے ہی پیدا کر دے۔ کیوں نہیں۔ اور وہ تو بڑا پیدا کرنے والا اور علم والا ہے
+**English (Yusuf Ali):** "Is not He Who created the heavens and the earth able to create the like thereof?" - Yea, indeed! for He is the Creator Supreme, of skill and knowledge (infinite)!
 
 [Open on Quran.com](https://quran.com/36/81)
 
@@ -160,7 +160,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they not see that Allāh, who created the heavens and earth and did not fail in their creation, is able to give life to the dead? Yes. Indeed, He is over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں سمجھا کہ جس خدا نے آسمانوں اور زمین کو پیدا کیا اور ان کے پیدا کرنے سے تھکا نہیں۔ وہ اس (بات) پر بھی قادر ہے کہ مردوں کو زندہ کر دے۔ ہاں ہاں وہ ہر چیز پر قادر ہے
+**English (Yusuf Ali):** See they not that Allah, Who created the heavens and the earth, and never wearied with their creation, is able to give life to the dead? Yea, verily He has power over all things.
 
 [Open on Quran.com](https://quran.com/46/33)
 
@@ -176,7 +176,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they went early in determination, [assuming themselves] able.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کوشش کے ساتھ سویرے ہی جا پہنچے (گویا کھیتی پر) قادر ہیں
+**English (Yusuf Ali):** And they opened the morning, strong in an (unjust) resolve.
 
 [Open on Quran.com](https://quran.com/68/25)
 
@@ -192,7 +192,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So I swear by the Lord of [all] risings and settings that indeed We are able
 
-**Urdu (Fatah Muhammad Jalandhari):** ہمیں مشرقوں اور مغربوں کے مالک کی قسم کہ ہم طاقت رکھتے ہیں
+**English (Yusuf Ali):** Now I do call to witness the Lord of all points in the East and the West that We can certainly-
 
 [Open on Quran.com](https://quran.com/70/40)
 

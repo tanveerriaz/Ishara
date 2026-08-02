@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 8:43 · [[008 Al-Anfal]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Remember, O Muḥammad], when Allāh showed them to you in your dream as few; and if He had shown them to you as many, you [believers] would have lost courage and would have disputed in the matter [of whether to fight], but Allāh saved [you from that]. Indeed, He is Knowing of that within the breasts.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس وقت خدا نے تمہیں خواب میں کافروں کو تھوڑی تعداد میں دکھایا۔ اور اگر بہت کر کے دکھاتا تو تم لوگ جی چھوڑ دیتے اور (جو) کام (درپیش تھا اس) میں جھگڑنے لگتے لیکن خدا نے (تمہیں اس سے) بچا لیا۔ بےشک وہ سینوں کی باتوں تک سے واقف ہے
+**English (Yusuf Ali):** Remember in thy dream Allah showed them to thee as few: if He had shown them to thee as many, ye would surely have been discouraged, and ye would surely have disputed in (your) decision; but Allah saved (you): for He knoweth well the (secrets) of (all) hearts.
 
 [Open on Quran.com](https://quran.com/8/43)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And of His signs is your sleep by night and day and your seeking of His bounty. Indeed in that are signs for a people who listen.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی کے نشانات (اور تصرفات) میں سے ہے تمہارا رات اور دن میں سونا اور اُس کے فضل کا تلاش کرنا۔ جو لوگ سنتے ہیں اُن کے لیے ان باتوں میں (بہت سی) نشانیاں ہیں
+**English (Yusuf Ali):** And among His Signs is the sleep that ye take by night and by day, and the quest that ye (make for livelihood) out of His Bounty: verily in that are signs for those who hearken.
 
 [Open on Quran.com](https://quran.com/30/23)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when he reached with him [the age of] exertion, he said, "O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think." He said, "O my father, do as you are commanded. You will find me, if Allāh wills, of the steadfast."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب وہ ان کے ساتھ دوڑنے (کی عمر) کو پہنچا تو ابراہیم نے کہا کہ بیٹا میں خواب میں دیکھتا ہوں کہ (گویا) تم کو ذبح کر رہا ہوں تو تم سوچو کہ تمہارا کیا خیال ہے؟ انہوں نے کہا کہ ابا جو آپ کو حکم ہوا ہے وہی کیجیئے خدا نے چاہا تو آپ مجھے صابروں میں پایئے گا
+**English (Yusuf Ali):** Then, when (the son) reached (the age of) (serious) work with him, he said: "O my son! I see in vision that I offer thee in sacrifice: Now see what is thy view!" (The son) said: "O my father! Do as thou art commanded: thou will find me, if Allah so wills one practising Patience and Constancy!"
 
 [Open on Quran.com](https://quran.com/37/102)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh takes the souls at the time of their death, and those that do not die [He takes] during their sleep. Then He keeps those for which He has decreed death and releases the others for a specified term. Indeed in that are signs for a people who give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا لوگوں کے مرنے کے وقت ان کی روحیں قبض کرلیتا ہے اور جو مرے نہیں (ان کی روحیں) سوتے میں (قبض کرلیتا ہے) پھر جن پر موت کا حکم کرچکتا ہے ان کو روک رکھتا ہے اور باقی روحوں کو ایک وقت مقرر تک کے لئے چھوڑ دیتا ہے۔ جو لوگ فکر کرتے ہیں ان کے لئے اس میں نشانیاں ہیں
+**English (Yusuf Ali):** It is Allah that takes the souls (of men) at death; and those that die not (He takes) during their sleep: those on whom He has passed the decree of death, He keeps back (from returning to life), but the rest He sends (to their bodies) for a term appointed verily in this are Signs for those who reflect.
 
 [Open on Quran.com](https://quran.com/39/42)
 

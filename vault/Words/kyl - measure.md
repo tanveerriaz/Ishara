@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:152 · [[006 Al-Anam]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not approach the orphan's property except in a way that is best [i.e., intending improvement] until he reaches maturity. And give full measure and weight in justice. We do not charge any soul except [with that within] its capacity. And when you speak [i.e., testify], be just, even if [it concerns] a near relative. And the covenant of Allāh fulfill. This has He instructed you that you may remember.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ جانا مگر ایسے طریق سے کہ بہت ہی پسندیدہ ہو یہاں تک کہ وہ جوانی کو پہنچ جائے اور ناپ تول انصاف کے ساتھ پوری پوری کیا کرو ہم کسی کو تکلیف نہیں دیتے مگر اس کی طاقت کے مطابق اور جب (کسی کی نسبت) کوئی بات کہو تو انصاف سے کہو گو وہ (تمہارا) رشتہ دار ہی ہو اور خدا کے عہد کو پورا کرو ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم نصحیت کرو
+**English (Yusuf Ali):** And come not nigh to the orphan's property, except to improve it, until he attain the age of full strength; give measure and weight with (full) justice;- no burden do We place on any soul, but that which it can bear;- whenever ye speak, speak justly, even if a near relative is concerned; and fulfil the covenant of Allah: thus doth He command you, that ye may remember.
 
 [Open on Quran.com](https://quran.com/6/152)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to [the people of] Madyan [We sent] their brother Shuʿayb. He said, "O my people, worship Allāh; you have no deity other than Him. There has come to you clear evidence from your Lord. So fulfill the measure and weight and do not deprive people of their due and cause not corruption upon the earth after its reformation. That is better for you, if you should be believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مَدین کی طرف ان کے بھائی شعیب کو بھیجا۔ (تو) انہوں نے کہا کہ قوم! خدا ہی کی عبادت کرو اس کے سوا تمہارا کوئی معبود نہیں۔ تمہارے پاس تمہارے پروردگار کی طرف سے نشانی آچکی ہے تو تم ناپ تول پوری کیا کرو اور لوگوں کو چیزیں کم نہ دیا کرو۔ اور زمین میں اصلاح کے بعد خرابی نہ کرو۔ اگر تم صاحب ایمان ہو تو سمجھ لو کہ یہ بات تمہارے حق میں بہتر ہے
+**English (Yusuf Ali):** To the Madyan people We sent Shu'aib, one of their own brethren: he said: "O my people! worship Allah; Ye have no other god but Him. Now hath come unto you a clear (Sign) from your Lord! Give just measure and weight, nor withhold from the people the things that are their due; and do no mischief on the earth after it has been set in order: that will be best for you, if ye have Faith.
 
 [Open on Quran.com](https://quran.com/7/85)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when he had furnished them with their supplies, he said, "Bring me a brother of yours from your father. Do you not see that I give full measure and that I am the best of accommodators?
 
-**Urdu (Fatah Muhammad Jalandhari):** جب یوسف نے ان کے لیے ان کا سامان تیار کر دیا تو کہا کہ (پھر آنا تو) جو باپ کی طرف سے تمہارا ایک اور بھائی ہے اسے بھی میرے پاس لیتے آنا۔ کیا تم نہیں دیکھتے کہ میں ناپ بھی پوری پوری دیتا ہوں اور مہمانداری بھی خوب کرتا ہوں
+**English (Yusuf Ali):** And when he had furnished them forth with provisions (suitable) for them, he said: "Bring unto me a brother ye have, of the same father as yourselves, (but a different mother): see ye not that I pay out full measure, and that I do provide the best hospitality?
 
 [Open on Quran.com](https://quran.com/12/59)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if you do not bring him to me, no measure will there be [hereafter] for you from me, nor will you approach me."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم اسے میرے پاس نہ لاؤ گے تو نہ تمہیں میرے ہاں سے غلّہ ملے گا اور نہ تم میرے پاس ہی آسکو گے
+**English (Yusuf Ali):** "Now if ye bring him not to me, ye shall have no measure (of corn) from me, nor shall ye (even) come near me."
 
 [Open on Quran.com](https://quran.com/12/60)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when they returned to their father, they said, "O our father, [further] measure has been denied to us, so send with us our brother [that] we will be given measure. And indeed, we will be his guardians."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب وہ اپنے باپ کے پاس واپس گئے تو کہنے لگے کہ ابّا (جب تک ہم بنیامین کو ساتھ نہ لے جائیں) ہمارے لیے غلّے کی بندش کر دی گئی ہے تو ہمارے ساتھ ہمارے بھائی کو بھیج دے تاکہ ہم پھر غلّہ لائیں اور ہم اس کے نگہبان ہیں
+**English (Yusuf Ali):** Now when they returned to their father, they said: "O our father! No more measure of grain shall we get (unless we take our brother): So send our brother with us, that we may get our measure; and we will indeed take every care of him."
 
 [Open on Quran.com](https://quran.com/12/63)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when they opened their baggage, they found their merchandise returned to them. They said, "O our father, what [more] could we desire? This is our merchandise returned to us. And we will obtain supplies [i.e., food] for our family and protect our brother and obtain an increase of a camel's load; that is an easy measurement."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب انہوں نے اپنا اسباب کھولا تو دیکھا کہ ان کا سرمایہ واپس کر دیا گیا ہے۔ کہنے لگے ابّا ہمیں (اور) کیا چاہیئے (دیکھیے) یہ ہماری پونجی بھی ہمیں واپس کر دی گئی ہے۔ اب ہم اپنے اہل وعیال کے لیے پھر غلّہ لائیں گے اور اپنے بھائی کی نگہبانی کریں گے اور ایک بار شتر زیادہ لائیں گے (کہ) یہ غلّہ جو ہم لائے ہیں تھوڑا ہے
+**English (Yusuf Ali):** Then when they opened their baggage, they found their stock-in-trade had been returned to them. They said: "O our father! What (more) can we desire? this our stock-in-trade has been returned to us: so we shall get (more) food for our family; We shall take care of our brother; and add (at the same time) a full camel's load (of grain to our provisions). This is but a small quantity.
 
 [Open on Quran.com](https://quran.com/12/65)
 
@@ -138,7 +138,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when they entered upon him [i.e., Joseph], they said, "O ʿAzeez, adversity has touched us and our family, and we have come with goods poor in quality, but give us full measure and be charitable to us. Indeed, Allāh rewards the charitable."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب وہ یوسف کے پاس گئے تو کہنے لگے کہ عزیز ہمیں اور ہمارے اہل وعیال کو بڑی تکلیف ہو رہی ہے اور ہم تھوڑا سا سرمایہ لائے ہیں آپ ہمیں (اس کے عوض) پورا غلّہ دے دیجیئے اور خیرات کیجیئے۔ کہ خدا خیرات کرنے والوں کو ثواب دیتا ہے
+**English (Yusuf Ali):** Then, when they came (back) into (Joseph's) presence they said: "O exalted one! distress has seized us and our family: we have (now) brought but scanty capital: so pay us full measure, (we pray thee), and treat it as charity to us: for Allah doth reward the charitable."
 
 [Open on Quran.com](https://quran.com/12/88)
 
@@ -154,7 +154,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And give full measure when you measure, and weigh with an even [i.e., honest] balance. That is the best [way] and best in result.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب (کوئی چیز) ناپ کر دینے لگو تو پیمانہ پورا بھرا کرو اور (جب تول کر دو تو) ترازو سیدھی رکھ کر تولا کرو۔ یہ بہت اچھی بات اور انجام کے لحاظ سے بھی بہت بہتر ہے
+**English (Yusuf Ali):** Give full measure when ye measure, and weigh with a balance that is straight: that is the most fitting and the most advantageous in the final determination.
 
 [Open on Quran.com](https://quran.com/17/35)
 
@@ -170,7 +170,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Give full measure and do not be of those who cause loss.
 
-**Urdu (Fatah Muhammad Jalandhari):** (دیکھو) پیمانہ پورا بھرا کرو اور نقصان نہ کیا کرو
+**English (Yusuf Ali):** "Give just measure, and cause no loss (to others by fraud).
 
 [Open on Quran.com](https://quran.com/26/181)
 

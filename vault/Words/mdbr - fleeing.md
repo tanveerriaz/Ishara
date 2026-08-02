@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:25 · [[009 At-Tawbah]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh has already given you victory in many regions and [even] on the day of Ḥunayn, when your great number pleased you, but it did not avail you at all, and the earth was confining for you with [i.e., in spite of] its vastness; then you turned back, fleeing.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے بہت سے موقعوں پر تم کو مدد دی ہے اور (جنگ) حنین کے دن۔ جب تم کو اپنی (جماعت کی) کثرت پر غرّہ تھا تو وہ تمہارے کچھ بھی کام نہ آئی۔ اور زمین باوجود (اتنی بڑی) فراخی کے تم پر تنگ ہوگئی پھر تم پیٹھ پھیر کر پھر گئے
+**English (Yusuf Ali):** Assuredly Allah did help you in many battle-fields and on the day of Hunain: Behold! your great numbers elated you, but they availed you naught: the land, for all that it is wide, did constrain you, and ye turned back in retreat.
 
 [Open on Quran.com](https://quran.com/9/25)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [I swear] by Allāh, I will surely plan against your idols after you have turned and gone away."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا کی قسم جب تم پیٹھ پھیر کر چلے جاؤ گے تو میں تمہارے بتوں سے ایک چال چلوں گا
+**English (Yusuf Ali):** "And by Allah, I have a plan for your idols - after ye go away and turn your backs"..
 
 [Open on Quran.com](https://quran.com/21/57)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [he was told], "Throw down your staff." But when he saw it writhing as if it were a snake, he turned in flight and did not return. [Allāh said], "O Moses, fear not. Indeed, in My presence the messengers do not fear.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنی لاٹھی ڈال دو۔ جب اُسے دیکھا تو (اس طرح) ہل رہی تھی گویا سانپ ہے تو پیٹھ پھیر کر بھاگے اور پیچھے مڑ کر نہ دیکھا (حکم ہوا کہ) موسیٰ ڈرو مت۔ ہمارے پاس پیغمبر ڈرا نہیں کرتے
+**English (Yusuf Ali):** "Now do thou throw thy rod!" But when he saw it moving (of its own accord) as if it had been a snake, he turned back in retreat, and retraced not his steps: "O Moses!" (it was said), "Fear not: truly, in My presence, those called as messengers have no fear,-
 
 [Open on Quran.com](https://quran.com/27/10)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, you will not make the dead hear, nor will you make the deaf hear the call when they have turned their backs retreating.
 
-**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ تم مردوں کو (بات) نہیں سنا سکتے اور نہ بہروں کو جب کہ وہ پیٹھ پھیر کر پھر جائیں آواز سنا سکتے ہو
+**English (Yusuf Ali):** Truly thou canst not cause the dead to listen, nor canst thou cause the deaf to hear the call, (especially) when they turn back in retreat.
 
 [Open on Quran.com](https://quran.com/27/80)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [he was told], "Throw down your staff." But when he saw it writhing as if it was a snake, he turned in flight and did not return. [Allāh said], "O Moses, approach and fear not. Indeed, you are of the secure.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ اپنی لاٹھی ڈالدو۔ جب دیکھا کہ وہ حرکت کر رہی ہے گویا سانپ ہے، تو پیٹھ پھیر کر چل دیئے اور پیچھے پھر کر بھی نہ دیکھا۔ (ہم نے کہا کہ) موسٰی آگے آؤ اور ڈرومت تم امن پانے والوں میں ہو
+**English (Yusuf Ali):** "Now do thou throw thy rod!" but when he saw it moving (of its own accord) as if it had been a snake, he turned back in retreat, and retraced not his steps: O Moses!" (It was said), "Draw near, and fear not: for thou art of those who are secure.
 
 [Open on Quran.com](https://quran.com/28/31)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So indeed, you will not make the dead hear, nor will you make the deaf hear the call when they turn their backs, retreating.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو تم مردوں کی (بات) نہیں سنا سکتے اور نہ بہروں کو جب وہ پیٹھ پھیر کر پھر جائیں آواز سنا سکتے ہو
+**English (Yusuf Ali):** So verily thou canst not make the dead to hear, nor canst thou make the deaf to hear the call, when they show their backs and turn away.
 
 [Open on Quran.com](https://quran.com/30/52)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So they turned away from him, departing.
 
-**Urdu (Fatah Muhammad Jalandhari):** تب وہ ان سے پیٹھ پھیر کر لوٹ گئے
+**English (Yusuf Ali):** So they turned away from him, and departed.
 
 [Open on Quran.com](https://quran.com/37/90)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day you will turn your backs fleeing; there is not for you from Allāh any protector. And whoever Allāh sends astray - there is not for him any guide.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس دن تم پیٹھ پھیر کر (قیامت کے دن سے) بھاگو گے (اس دن) تم کو کوئی (عذاب) خدا سے بچانے والا نہ ہوگا۔ اور جس شخص کو خدا گمراہ کرے اس کو کوئی ہدایت دینے والا نہیں
+**English (Yusuf Ali):** "A Day when ye shall turn your backs and flee: No defender shall ye have from Allah: Any whom Allah leaves to stray, there is none to guide...
 
 [Open on Quran.com](https://quran.com/40/33)
 

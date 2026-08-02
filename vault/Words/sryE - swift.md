@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:202 · [[002 Al-Baqarah]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those will have a share of what they have earned, and Allāh is swift in account.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن کے لئے ان کے کاموں کا حصہ (یعنی اجر نیک تیار) ہے اور خدا جلد حساب لینے والا (اور جلد اجر دینے والا) ہے
+**English (Yusuf Ali):** To these will be allotted what they have earned; and Allah is quick in account.
 
 [Open on Quran.com](https://quran.com/2/202)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the religion in the sight of Allāh is Islām. And those who were given the Scripture did not differ except after knowledge had come to them - out of jealous animosity between themselves. And whoever disbelieves in the verses of Allāh, then indeed, Allāh is swift in [taking] account.
 
-**Urdu (Fatah Muhammad Jalandhari):** دین تو خدا کے نزدیک اسلام ہے اور اہل کتاب نے جو (اس دین سے) اختلاف کیا تو علم ہونے کے بعد آپس کی ضد سے کیا اور جو شخص خدا کی آیتوں کو نہ مانے تو خدا جلد حساب لینے والا (اور سزا دینے والا) ہے
+**English (Yusuf Ali):** The Religion before Allah is Islam (submission to His Will): Nor did the People of the Book dissent therefrom except through envy of each other, after knowledge had come to them. But if any deny the Signs of Allah, Allah is swift in calling to account.
 
 [Open on Quran.com](https://quran.com/3/19)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, among the People of the Scripture are those who believe in Allāh and what was revealed to you and what was revealed to them, [being] humbly submissive to Allāh. They do not exchange the verses of Allāh for a small price. Those will have their reward with their Lord. Indeed, Allāh is swift in account.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بعض اہلِ کتاب ایسے بھی ہیں جو خدا پر اور اس (کتاب) پر جو تم پر نازل ہوئی اور اس پر جو ان پر نازل ہوئی ایمان رکھتے ہیں اور خدا کے آگے عاجزی کرتے ہیں اور خدا کی آیتوں کے بدلے تھوڑی سی قیمت نہیں لیتے یہی لوگ ہیں جن کا صلہ ان کے پروردگار کے ہاں تیار ہے اور خدا جلد حساب لینے والا ہے
+**English (Yusuf Ali):** And there are, certainly, among the People of the Book, those who believe in Allah, in the revelation to you, and in the revelation to them, bowing in humility to Allah: They will not sell the Signs of Allah for a miserable gain! For them is a reward with their Lord, and Allah is swift in account.
 
 [Open on Quran.com](https://quran.com/3/199)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They ask you, [O Muḥammad], what has been made lawful for them. Say, "Lawful for you are [all] good foods and [game caught by] what you have trained of hunting animals which you train as Allāh has taught you. So eat of what they catch for you, and mention the name of Allāh upon it, and fear Allāh." Indeed, Allāh is swift in account.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم سے پوچھتے ہیں کہ کون کون سی چیزیں ان کے لیے حلال ہیں (ان سے) کہہ دو کہ سب پاکیزہ چیزیں تم کو حلال ہیں اور وہ (شکار) بھی حلال ہے جو تمہارے لیے ان شکاری جانوروں نے پکڑا ہو جن کو تم نے سدھا رکھا ہو اور جس (طریق) سے خدا نے تمہیں (شکار کرنا) سکھایا ہے (اس طریق سے) تم نے ان کو سکھایا ہو تو جو شکار وہ تمہارے لئے پکڑ رکھیں اس کو کھا لیا کرو اور (شکاری جانوروں کو چھوڑتے وقت) خدا کا نام لے لیا کرو اور خدا سے ڈرتے رہو۔ بےشک خدا جلد حساب لینے والا ہے
+**English (Yusuf Ali):** They ask thee what is lawful to them (as food). Say: lawful unto you are (all) things good and pure: and what ye have taught your trained hunting animals (to catch) in the manner directed to you by Allah: eat what they catch for you, but pronounce the name of Allah over it: and fear Allah; for Allah is swift in taking account.
 
 [Open on Quran.com](https://quran.com/5/4)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who has made you successors upon the earth and has raised some of you above others in degrees [of rank] that He may try you through what He has given you. Indeed, your Lord is swift in penalty; but indeed, He is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے زمین میں تم کو اپنا نائب بنایا اور ایک کے دوسرے پر درجے بلند کئے تاکہ جو کچھ اس نے تمہیں بخشا ہے اس میں تمہاری آزمائش ہے بےشک تمہارا پروردگار جلد عذاب دینے والا ہے اور بےشک وہ بخشنے والا مہربان بھی ہے
+**English (Yusuf Ali):** It is He Who hath made you (His) agents, inheritors of the earth: He hath raised you in ranks, some above others: that He may try you in the gifts He hath given you: for thy Lord is quick in punishment: yet He is indeed Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/6/165)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when your Lord declared that He would surely [continue to] send upon them until the Day of Resurrection those who would afflict them with the worst torment. Indeed, your Lord is swift in penalty; but indeed, He is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور اس وقت کو یاد کرو) جب تمہارے پروردگار نے (یہود کو) آگاہ کردیا تھا کہ وہ ان پر قیامت تک ایسے شخص کو مسلط رکھے گا جو انہیں بری بری تکلیفیں دیتا رہے۔ بےشک تمہارا پروردگار جلد عذاب کرنے والا ہے اور وہ بخشنے والا مہربان بھی ہے
+**English (Yusuf Ali):** Behold! thy Lord did declare that He would send against them, to the Day of Judgment, those who would afflict them with grievous penalty. Thy Lord is quick in retribution, but He is also Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/7/167)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have they not seen that We set upon the land, reducing it from its borders? And Allāh decides; there is no adjuster of His decision. And He is swift in account.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ ہم زمین کو اس کے کناروں سے گھٹاتے چلے آتے ہیں۔ اور خدا (جیسا چاہتا ہے) حکم کرتا ہے کوئی اس کے حکم کا رد کرنے والا نہیں۔ اور وہ جلد حساب لینے والا ہے
+**English (Yusuf Ali):** See they not that We gradually reduce the land (in their control) from its outlying borders? (Where) Allah commands, there is none to put back His Command: and He is swift in calling to account.
 
 [Open on Quran.com](https://quran.com/13/41)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So that Allāh will recompense every soul for what it earned. Indeed, Allāh is swift in account.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ اس لیے کہ خدا ہر شخص کو اس کے اعمال کا بدلہ دے۔ بےشک خدا جلد حساب لینے والا ہے
+**English (Yusuf Ali):** That Allah may requite each soul according to its deserts; and verily Allah is swift in calling to account.
 
 [Open on Quran.com](https://quran.com/14/51)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those who disbelieved - their deeds are like a mirage in a lowland which a thirsty one thinks is water until, when he comes to it, he finds it is nothing but finds Allāh before him, and He will pay him in full his due; and Allāh is swift in account.
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے کفر کیا ان کے اعمال کی مثال ایسی ہے جیسے میدان میں ریت کہ پیاسا اسے پانی سمجھے یہاں تک کہ جب اس کے پاس آئے تو اسے کچھ بھی نہ پائے اور خدا ہی کو اپنے پاس دیکھے تو وہ اسے اس کا حساب پورا پورا چکا دے۔ اور خدا جلد حساب کرنے والا ہے
+**English (Yusuf Ali):** But the Unbelievers,- their deeds are like a mirage in sandy deserts, which the man parched with thirst mistakes for water; until when he comes up to it, he finds it to be nothing: But he finds Allah (ever) with him, and Allah will pay him his account: and Allah is swift in taking account.
 
 [Open on Quran.com](https://quran.com/24/39)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** This Day every soul will be recompensed for what it earned. No injustice today! Indeed, Allāh is swift in account.
 
-**Urdu (Fatah Muhammad Jalandhari):** آج کے دن ہر شخص کو اس کے اعمال کا بدلہ دیا جائے گا۔ آج (کسی کے حق میں) بےانصافی نہیں ہوگی۔ بےشک خدا جلد حساب لینے والا ہے
+**English (Yusuf Ali):** That Day will every soul be requited for what it earned; no injustice will there be that Day, for Allah is Swift in taking account.
 
 [Open on Quran.com](https://quran.com/40/17)
 

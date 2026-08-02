@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:80 · [[004 An-Nisa]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He who obeys the Messenger has obeyed Allāh; but those who turn away - We have not sent you over them as a guardian.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو شخص رسول کی فرمانبرداری کرے گا تو بےشک اس نے خدا کی فرمانبرداری کی اور جو نافرمانی کرے گا تو اے پیغمبر تمہیں ہم نے ان کا نگہبان بنا کر نہیں بھیجا
+**English (Yusuf Ali):** He who obeys the Messenger, obeys Allah: But if any turn away, We have not sent thee to watch over their (evil deeds).
 
 [Open on Quran.com](https://quran.com/4/80)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And He is the subjugator over His servants, and He sends over you guardian-angels until, when death comes to one of you, Our messengers [i.e., angels of death] take him, and they do not fail [in their duties].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ اپنے بندوں پر غالب ہے۔ اور تم پر نگہبان مقرر کئے رکھتا ہے۔ یہاں تک کہ جب تم میں سے کسی کی موت آتی ہے تو ہمارے فرشتے اس کی روح قبض کرلیتے ہیں اور وہ کسی طرح کی کوتاہی نہیں کرتے
+**English (Yusuf Ali):** He is the irresistible, (watching) from above over His worshippers, and He sets guardians over you. At length, when death approaches one of you, Our angels take his soul, and they never fail in their duty.
 
 [Open on Quran.com](https://quran.com/6/61)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There has come to you enlightenment from your Lord. So whoever will see does so for [the benefit of] his soul, and whoever is blind [does harm] against it. And [say], "I am not a guardian over you."
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ! ان سے کہہ دو کہ) تمہارے (پاس) پروردگار کی طرف سے (روشن) دلیلیں پہنچ چکی ہیں تو جس نے (ان کو آنکھ کھول کر) دیکھا اس نے اپنا بھلا کیا اور جو اندھا بنا رہا اس نے اپنے حق میں برا کیا۔ اور میں تمہارا نگہبان نہیں ہوں
+**English (Yusuf Ali):** "Now have come to you, from your Lord, proofs (to open your eyes): if any will see, it will be for (the good of) his own soul; if any will be blind, it will be to his own (harm): I am not (here) to watch over your doings."
 
 [Open on Quran.com](https://quran.com/6/104)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if Allāh had willed, they would not have associated. And We have not appointed you over them as a guardian, nor are you a manager over them.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا چاہتا تو یہ لوگ شرک نہ کرتے۔ اور (اے پیغمبر!) ہم نے تم کو ان پر نگہبان مقرر نہیں کیا۔ اور نہ تم ان کے داروغہ ہو
+**English (Yusuf Ali):** If it had been Allah's plan, they would not have taken false gods: but We made thee not one to watch over their doings, nor art thou set over them to dispose of their affairs.
 
 [Open on Quran.com](https://quran.com/6/107)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if you turn away, then I have already conveyed that with which I was sent to you. My Lord will give succession to a people other than you, and you will not harm Him at all. Indeed my Lord is, over all things, Guardian."
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم روگردانی کرو گے تو جو پیغام میرے ہاتھ تمہاری طرف بھیجا گیا ہے، وہ میں نے تمہیں پہنچا دیا ہے۔ اور میرا پروردگار تمہاری جگہ اور لوگوں کو لابسائے گا۔ اور تم خدا کا کچھ بھی نقصان نہیں کرسکتے۔ میرا پروردگار تو ہر چیز پر نگہبان ہے
+**English (Yusuf Ali):** "If ye turn away,- I (at least) have conveyed the Message with which I was sent to you. My Lord will make another people to succeed you, and you will not harm Him in the least. For my Lord hath care and watch over all things."
 
 [Open on Quran.com](https://quran.com/11/57)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** What remains [lawful] from Allāh is best for you, if you would be believers. But I am not a guardian over you."
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم کو (میرے کہنے کا) یقین ہو تو خدا کا دیا ہوا نفع ہی تمہارے لیے بہتر ہے اور میں تمہارا نگہبان نہیں ہوں
+**English (Yusuf Ali):** "That which is left you by Allah is best for you, if ye (but) believed! but I am not set over you to keep watch!"
 
 [Open on Quran.com](https://quran.com/11/86)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Joseph] said, "Appoint me over the storehouses of the land. Indeed, I will be a knowing guardian."
 
-**Urdu (Fatah Muhammad Jalandhari):** (یوسف نے) کہا مجھے اس ملک کے خزانوں پر مقرر کر دیجیئے کیونکہ میں حفاظت بھی کرسکتا ہوں اور اس کام سے واقف ہوں
+**English (Yusuf Ali):** (Joseph) said: "Set me over the store-houses of the land: I will indeed guard them, as one that knows (their importance)."
 
 [Open on Quran.com](https://quran.com/12/55)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he had over them no authority except [it was decreed] that We might make evident who believes in the Hereafter from who is thereof in doubt. And your Lord, over all things, is Guardian.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس کا ان پر کچھ زور نہ تھا مگر (ہمارا) مقصود یہ تھا کہ جو لوگ آخرت میں شک رکھتے ہیں ان سے ان لوگوں کو جو اس پر ایمان رکھتے تھے متمیز کردیں۔ اور تمہارا پروردگار ہر چیز پر نگہبان ہے
+**English (Yusuf Ali):** But he had no authority over them,- except that We might test the man who believes in the Hereafter from him who is in doubt concerning it: and thy Lord doth watch over all things.
 
 [Open on Quran.com](https://quran.com/34/21)
 
@@ -172,7 +172,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who take as allies other than Him - Allāh is [yet] Guardian over them; and you, [O Muḥammad], are not over them a manager.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے اس کے سوا کارساز بنا رکھے ہیں وہ خدا کو یاد ہیں۔ اور تم ان پر داروغہ نہیں ہو
+**English (Yusuf Ali):** And those who take as protectors others besides Him,- Allah doth watch over them; and thou art not the disposer of their affairs.
 
 [Open on Quran.com](https://quran.com/42/6)
 
@@ -188,7 +188,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if they turn away - then We have not sent you, [O Muḥammad], over them as a guardian; upon you is only [the duty of] notification. And indeed, when We let man taste mercy from Us, he rejoices in it; but if evil afflicts him for what his hands have put forth, then indeed, man is ungrateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اگر یہ منہ پھیر لیں تو ہم نے تم کو ان پر نگہبان بنا کر نہیں بھیجا۔ تمہارا کام تو صرف (احکام کا) پہنچا دینا ہے۔ اور جب ہم انسان کو اپنی رحمت کا مزہ چکھاتے ہیں تو اس سے خوش ہوجاتا ہے۔ اور اگر ان کو ان ہی کے اعمال کے سبب کوئی سختی پہنچتی ہے تو (سب احسانوں کو بھول جاتے ہیں) بےشک انسان بڑا ناشکرا ہے
+**English (Yusuf Ali):** If then they run away, We have not sent thee as a guard over them. Thy duty is but to convey (the Message). And truly, when We give man a taste of a Mercy from Ourselves, he doth exult thereat, but when some ill happens to him, on account of the deeds which his hands have sent forth, truly then is man ungrateful!
 
 [Open on Quran.com](https://quran.com/42/48)
 

@@ -14,18 +14,18 @@ The Elephant · 5 ayahs
 
 ## Words in this surah (graph)
 
-- [[kyf - how]] — `كَيْف` · how
-- [[sjyl - baked clay]] — `سِجِّيل` · baked clay
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[Tyr - birds]] — `طَيْر` · birds
-- [[kyd - plot]] — `كَيْد` · plot
-- [[jEl - we made]] — `جَعَلَ` · we made
 - [[>rsl - we sent]] — `أَرْسَلَ` · we sent
-- [[rb - lord]] — `رَبّ` · lord
-- [[HjArp - stones]] — `حِجارَة` · stones
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[kyd - plot]] — `كَيْد` · plot
 - [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[ESf - husk]] — `عَصْف` · husk
 - [[rmY - accuse]] — `رَمَى` · accuse
+- [[HjArp - stones]] — `حِجارَة` · stones
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[sjyl - baked clay]] — `سِجِّيل` · baked clay
+- [[Tyr - birds]] — `طَيْر` · birds
+- [[ESf - husk]] — `عَصْف` · husk
+- [[kyf - how]] — `كَيْف` · how
+- [[rb - lord]] — `رَبّ` · lord
 - [[fEl - you do]] — `فَعَلَ` · you do
 
 ## Roots

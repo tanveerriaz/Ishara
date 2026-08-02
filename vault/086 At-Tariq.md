@@ -14,31 +14,31 @@ The Nightcommer · 17 ayahs
 
 ## Words in this surah (graph)
 
-- [[mA' - water]] — `ماء` · water
-- [[HAfZ - guardians]] — `حافِظ` · guardians
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[byn - between them]] — `بَيْن` · between them
-- [[>rD - earth]] — `أَرْض` · earth
-- [[kAfr - disbelievers]] — `كافِر` · disbelievers
-- [[nZr - see]] — `نَظَرَ` · see
-- [[blw - test you]] — `بَلَوْ` · test you
-- [[qwl - speech]] — `قَوْل` · speech
-- [[kyd - plot]] — `كَيْد` · plot
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[mhl - like molten brass]] — `مُهْل` · like molten brass
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[nASr - helpers]] — `ناصِر` · helpers
-- [[Slb - loins]] — `صُلْب` · loins
-- [[kl - every]] — `كُلّ` · every
 - [[qwp - strength]] — `قُوَّة` · strength
-- [[rjE - return]] — `رَجَعَ` · return
-- [[ywm - day]] — `يَوْم` · day
-- [[njm - stars]] — `نَجْم` · stars
-- [[qAdr - able]] — `قادِر` · able
-- [[<nsAn - man]] — `إِنسان` · man
-- [[fSl - we explain]] — `فَصَلَ` · we explain
 - [[nfs - themselves]] — `نَفْس` · themselves
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[byn - between them]] — `بَيْن` · between them
 - [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[qwl - speech]] — `قَوْل` · speech
+- [[qAdr - able]] — `قادِر` · able
+- [[njm - stars]] — `نَجْم` · stars
+- [[mhl - like molten brass]] — `مُهْل` · like molten brass
+- [[HAfZ - guardians]] — `حافِظ` · guardians
+- [[nASr - helpers]] — `ناصِر` · helpers
+- [[rjE - return]] — `رَجَعَ` · return
+- [[fSl - we explain]] — `فَصَلَ` · we explain
+- [[mA' - water]] — `ماء` · water
+- [[blw - test you]] — `بَلَوْ` · test you
+- [[kAfr - disbelievers]] — `كافِر` · disbelievers
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[ywm - day]] — `يَوْم` · day
+- [[Slb - loins]] — `صُلْب` · loins
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[<nsAn - man]] — `إِنسان` · man
+- [[>rD - earth]] — `أَرْض` · earth
+- [[kl - every]] — `كُلّ` · every
+- [[nZr - see]] — `نَظَرَ` · see
+- [[kyd - plot]] — `كَيْد` · plot
 
 ## Roots
 

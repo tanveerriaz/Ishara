@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:134 · [[006 Al-Anam]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, what you are promised is coming, and you will not cause failure [to Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ جو وعدہ تم سے کیا جاتا ہے وہ (وقوع میں) آنے والا ہے اور تم (خدا کو) مغلوب نہیں کر سکتے
+**English (Yusuf Ali):** All that hath been promised unto you will come to pass: nor can ye frustrate it (in the least bit).
 
 [Open on Quran.com](https://quran.com/6/134)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [The angels said], "O Abraham, give up this [plea]. Indeed, the command of your Lord has come, and indeed, there will reach them a punishment that cannot be repelled."
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ابراہیم اس بات کو جانے دو۔ تمہارے پروردگار کا حکم آپہنچا ہے۔ اور ان لوگوں پر عذاب آنے والا ہے جو کبھی نہیں ٹلنے کا
+**English (Yusuf Ali):** O Abraham! Seek not this. The decree of thy Lord hath gone forth: for them there cometh a penalty that cannot be turned back!
 
 [Open on Quran.com](https://quran.com/11/76)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have not created the heavens and earth and that between them except in truth. And indeed, the Hour is coming; so forgive with gracious forgiveness.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے آسمانوں اور زمین کو اور جو (مخلوقات) ان میں ہے اس کو تدبیر کے ساتھ پیدا کیا ہے۔ اور قیامت تو ضرور آکر رہے گی تو تم (ان لوگوں سے) اچھی طرح سے درگزر کرو
+**English (Yusuf Ali):** We created not the heavens, the earth, and all between them, but for just ends. And the Hour is surely coming (when this will be manifest). So overlook (any human faults) with gracious forgiveness.
 
 [Open on Quran.com](https://quran.com/15/85)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There is no one in the heavens and earth but that he comes to the Most Merciful as a servant.
 
-**Urdu (Fatah Muhammad Jalandhari):** تمام شخص جو آسمانوں اور زمین میں ہیں سب خدا کے روبرو بندے ہو کر آئیں گے
+**English (Yusuf Ali):** Not one of the beings in the heavens and the earth but must come to (Allah) Most Gracious as a servant.
 
 [Open on Quran.com](https://quran.com/19/93)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And all of them are coming to Him on the Day of Resurrection alone.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور سب قیامت کے دن اس کے سامنے اکیلے اکیلے حاضر ہوں گے
+**English (Yusuf Ali):** And everyone of them will come to Him singly on the Day of Judgment.
 
 [Open on Quran.com](https://quran.com/19/95)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the Hour is coming - I almost conceal it - so that every soul may be recompensed according to that for which it strives.
 
-**Urdu (Fatah Muhammad Jalandhari):** قیامت یقیناً آنے والی ہے۔ میں چاہتا ہوں کہ اس (کے وقت) کو پوشیدہ رکھوں تاکہ ہر شخص جو کوشش کرے اس کا بدلا پائے
+**English (Yusuf Ali):** "Verily the Hour is coming - My design is to keep it hidden - for every soul to receive its reward by the measure of its Endeavour.
 
 [Open on Quran.com](https://quran.com/20/15)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [that they may know] that the Hour is coming - no doubt about it - and that Allāh will resurrect those in the graves.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ قیامت آنے والی ہے۔ اس میں کچھ شک نہیں۔ اور یہ کہ خدا سب لوگوں کو جو قبروں میں ہیں جلا اٹھائے گا
+**English (Yusuf Ali):** And verily the Hour will come: there can be no doubt about it, or about (the fact) that Allah will raise up all who are in the graves.
 
 [Open on Quran.com](https://quran.com/22/7)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Whoever should hope for the meeting with Allāh - indeed, the term [decreed by] Allāh is coming. And He is the Hearing, the Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو شخص خدا کی ملاقات کی اُمید رکھتا ہو خدا کا (مقرر کیا ہوا) وقت ضرور آنے والا ہے۔ اور وہ سننے والا اور جاننے والا ہے
+**English (Yusuf Ali):** For those whose hopes are in the meeting with Allah (in the Hereafter, let them strive); for the term (appointed) by Allah is surely coming and He hears and knows (all things).
 
 [Open on Quran.com](https://quran.com/29/5)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the Hour is coming - no doubt about it - but most of the people do not believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** قیامت آنے والی ہے اس میں کچھ شک نہیں۔ لیکن اکثر لوگ ایمان نہیں رکھتے
+**English (Yusuf Ali):** The Hour will certainly come: Therein is no doubt: Yet most men believe not.
 
 [Open on Quran.com](https://quran.com/40/59)
 

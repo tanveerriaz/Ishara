@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:95 · [[004 An-Nisa]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Not equal are those believers remaining [at home] - other than the disabled - and the mujāhideen, [who strive and fight] in the cause of Allāh with their wealth and their lives. Allāh has preferred the mujāhideen through their wealth and their lives over those who remain [behind], by degrees. And to all [i.e., both] Allāh has promised the best [reward]. But Allāh has preferred the mujāhideen over those who remain [behind] with a great reward -
 
-**Urdu (Fatah Muhammad Jalandhari):** جو مسلمان (گھروں میں) بیٹھ رہتے (اور لڑنے سے جی چراتے) ہیں اور کوئی عذر نہیں رکھتے وہ اور جو خدا کی راہ میں اپنے مال اور جان سے لڑتے ہیں وہ دونوں برابر نہیں ہو سکتے خدا نے مال اور جان سے جہاد کرنے والوں کو بیٹھ رہنے والوں پر درجے میں فضیلت بخشی ہے اور (گو) نیک وعدہ سب سے ہے لیکن اجر عظیم کے لحاظ سے خدا نے جہاد کرنے والوں کو بیٹھ رہنے والوں پر کہیں فضیلت بخشی ہے
+**English (Yusuf Ali):** Not equal are those believers who sit (at home) and receive no hurt, and those who strive and fight in the cause of Allah with their goods and their persons. Allah hath granted a grade higher to those who strive and fight with their goods and persons than to those who sit (at home). Unto all (in Faith) Hath Allah promised good: But those who strive and fight Hath He distinguished above those who sit (at home) by a special reward,-
 
 [Open on Quran.com](https://quran.com/4/95)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "O Moses, indeed we will not enter it, ever, as long as they are within it; so go, you and your Lord, and fight. Indeed, we are remaining right here."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ موسیٰ! جب تک وہ لوگ وہاں ہیں ہم کبھی وہاں نہیں جا سکتے (اگر لڑنا ہی ضرور ہے) تو تم اور تمہارا خدا جاؤ اور لڑو ہم یہیں بیٹھے رہیں گے
+**English (Yusuf Ali):** They said: "O Moses! while they remain there, never shall we be able to enter, to the end of time. Go thou, and thy Lord, and fight ye two, while we sit here (and watch)."
 
 [Open on Quran.com](https://quran.com/5/24)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if they had intended to go forth, they would have prepared for it [some] preparation. But Allāh disliked their being sent, so He kept them back, and they were told, "Remain [behind] with those who remain."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر وہ نکلنے کا ارادہ کرتے ہیں تو اس کے لیے سامان تیار کرتے لیکن خدا نے ان کا اُٹھنا (اور نکلنا) پسند نہ کیا تو ان کو ہلنے جلنے ہی نہ دیا اور (ان سے) کہہ دیا گیا کہ جہاں (معذور) بیٹھے ہیں تم بھی ان کے ساتھ بیٹھے رہو
+**English (Yusuf Ali):** If they had intended to come out, they would certainly have made some preparation therefor; but Allah was averse to their being sent forth; so He made them lag behind, and they were told, "Sit ye among those who sit (inactive)."
 
 [Open on Quran.com](https://quran.com/9/46)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when a sūrah was revealed [enjoining them] to believe in Allāh and to fight with His Messenger, those of wealth among them asked your permission [to stay back] and said, "Leave us to be with them who sit [at home]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب کوئی سورت نازل ہوتی ہے کہ خدا پر ایمان لاؤ اور اس کے رسول کے ساتھ ہو کر لڑائی کرو تو جو ان میں دولت مند ہیں وہ تم سے اجازت طلب کرتے ہیں اور کہتے ہیں کہ ہمیں تو رہنے ہی دیجیئے کہ جو لوگ گھروں میں رہیں گے ہم بھی ان کے ساتھ رہیں
+**English (Yusuf Ali):** When a Sura comes down, enjoining them to believe in Allah and to strive and fight along with His Messenger, those with wealth and influence among them ask thee for exemption, and say: "Leave us (behind): we would be with those who sit (at home)."
 
 [Open on Quran.com](https://quran.com/9/86)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when affliction touches man, he calls upon Us, whether lying on his side or sitting or standing; but when We remove from him his affliction, he continues [in disobedience] as if he had never called upon Us to [remove] an affliction that touched him. Thus is made pleasing to the transgressors that which they have been doing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب انسان کو تکلیف پہنچتی ہے تو لیٹا اور بیٹھا اور کھڑا (ہر حال میں) ہمیں پکارتا ہے۔ پھر جب ہم اس تکلیف کو اس سے دور کر دیتے ہیں تو (بےلحاظ ہو جاتا ہے اور) اس طرح گزر جاتا ہے گویا کسی تکلیف پہنچنے پر ہمیں کبھی پکارا ہی نہ تھا۔ اسی طرح حد سے نکل جانے والوں کو ان کے اعمال آراستہ کرکے دکھائے گئے ہیں
+**English (Yusuf Ali):** When trouble toucheth a man, He crieth unto Us (in all postures)- lying down on his side, or sitting, or standing. But when We have solved his trouble, he passeth on his way as if he had never cried to Us for a trouble that touched him! thus do the deeds of transgressors seem fair in their eyes!
 
 [Open on Quran.com](https://quran.com/10/12)
 

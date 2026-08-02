@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:140 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do you say that Abraham and Ishmael and Isaac and Jacob and the Descendants were Jews or Christians? Say, "Are you more knowing or is Allāh?" And who is more unjust than one who conceals a testimony he has from Allāh? And Allāh is not unaware of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے یہود ونصاریٰ) کیا تم اس بات کے قائل ہو کہ ابراہیم اور اسمٰعیل اور اسحاق اور یعقوب اور ان کی اولاد یہودی یا عیسائی تھے۔ (اے محمدﷺ ان سے) کہو کہ بھلا تم زیادہ جانتے ہو یا خدا؟ اور اس سے بڑھ کر ظالم کون، جو خدا کی شہادت کو، جو اس کے پاس (کتاب میں موجود) ہے چھپائے۔ اور جو کچھ تم کر رہے ہو، خدا اس سے غافل نہیں
+**English (Yusuf Ali):** Or do ye say that Abraham, Isma'il Isaac, Jacob and the Tribes were Jews or Christians? Say: Do ye know better than Allah? Ah! who is more unjust than those who conceal the testimony they have from Allah? but Allah is not unmindful of what ye do!
 
 [Open on Quran.com](https://quran.com/2/140)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But when she delivered her, she said, "My Lord, I have delivered a female." And Allāh was most knowing of what she delivered, and the male is not like the female. "And I have named her Mary, and I seek refuge for her in You and [for] her descendants from Satan, the expelled [from the mercy of Allāh]."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب ان کے ہاں بچہ پیدا ہوا اور جو کچھ ان کے ہاں پیدا ہوا تھا خدا کو خوب معلوم تھا تو کہنے لگیں کہ پروردگار! میرے تو لڑکی ہوئی ہے اور (نذر کے لیے) لڑکا (موزوں تھا کہ وہ) لڑکی کی طرح (ناتواں) نہیں ہوتا اور میں نے اس کا نام مریم رکھا ہے اور میں اس کو اور اس کی اولاد کو شیطان مردود سے تیری پناہ میں دیتی ہوں
+**English (Yusuf Ali):** When she was delivered, she said: "O my Lord! Behold! I am delivered of a female child!"- and Allah knew best what she brought forth- "And no wise is the male Like the female. I have named her Mary, and I commend her and her offspring to Thy protection from the Evil One, the Rejected."
 
 [Open on Quran.com](https://quran.com/3/36)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And that He might make evident those who are hypocrites. For it was said to them, "Come, fight in the way of Allāh or [at least] defend." They said, "If we had known [there would be] battle, we would have followed you." They were nearer to disbelief that day than to faith, saying with their mouths what was not in their hearts. And Allāh is most knowing of what they conceal -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور منافقوں کو بھی معلوم کرلے اور (جب) ان سے کہا گیا کہ آؤ خدا کے رستے میں جنگ کرو یا (کافروں کے) حملوں کو روکو۔ تو کہنے لگے کہ اگر ہم کو لڑائی کی خبر ہوتی تو ہم ضرور تمہارے ساتھ رہتے یہ اس دن ایمان کی نسبت کفر سے زیادہ قریب تھے منہ سے وہ باتیں کہتے ہیں جو ان کے دل میں نہیں ہیں۔ اور جو کچھ یہ چھپاتے ہیں خدا ان سے خوب واقف ہے
+**English (Yusuf Ali):** And the Hypocrites also. These were told: "Come, fight in the way of Allah, or (at least) drive (The foe from your city)." They said: "Had we known how to fight, we should certainly have followed you." They were that day nearer to Unbelief than to Faith, saying with their lips what was not in their hearts but Allah hath full knowledge of all they conceal.
 
 [Open on Quran.com](https://quran.com/3/167)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever among you cannot [find] the means to marry free, believing women, then [he may marry] from those whom your right hands possess of believing slave girls. And Allāh is most knowing about your faith. You [believers] are of one another. So marry them with the permission of their people and give them their due compensation [i.e., mahr] according to what is acceptable. [They should be] chaste, neither [of] those who commit unlawful intercourse randomly nor those who take [secret] lovers. But once they are sheltered in marriage, if they should commit adultery, then for them is half the punishment for free [unmarried] women. This [allowance] is for him among you who fears affliction [i.e., sin], but to be patient is better for you. And Allāh is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص تم میں سے مومن آزاد عورتوں (یعنی بیبیوں) سے نکاح کرنے کا مقدور نہ رکھے تو مومن لونڈیوں میں ہی جو تمہارے قبضے میں آگئی ہوں (نکاح کرلے) اور خدا تمہارے ایمان کو اچھی طرح جانتا ہے تم آپس میں ایک دوسرے کے ہم جنس ہو تو ان لونڈیوں کے ساتھ ان کے مالکوں سے اجازت حاصل کرکے نکاح کر لو اور دستور کے مطابق ان کا مہر بھی ادا کردو بشرطیکہ عفیفہ ہوں نہ ایسی کہ کھلم کھلا بدکاری کریں اور نہ درپردہ دوستی کرنا چاہیں پھر اگر نکاح میں آکر بدکاری کا ارتکاب کر بیٹھیں تو جو سزا آزاد عورتوں (یعنی بیبیوں) کے لئے ہے اس کی آدھی ان کو (دی جائے) یہ (لونڈی کے ساتھ نکاح کرنے کی) اجازت اس شخص کو ہے جسے گناہ کر بیٹھنے کا اندیشہ ہو اور اگر صبر کرو تو یہ تمہارے لئے بہت اچھا ہے اور خدا بخشنے والا مہربان ہے
+**English (Yusuf Ali):** If any of you have not the means wherewith to wed free believing women, they may wed believing girls from among those whom your right hands possess: And Allah hath full knowledge about your faith. Ye are one from another: Wed them with the leave of their owners, and give them their dowers, according to what is reasonable: They should be chaste, not lustful, nor taking paramours: when they are taken in wedlock, if they fall into shame, their punishment is half that for free women. This (permission) is for those among you who fear sin; but it is better for you that ye practise self-restraint. And Allah is Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/4/25)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Allāh is most knowing of your enemies; and sufficient is Allāh as an ally, and sufficient is Allāh as a helper.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا تمہارے دشمنوں سے خوب واقف ہے اور خدا ہی کافی کارساز ہے اور کافی مددگار ہے
+**English (Yusuf Ali):** But Allah hath full knowledge of your enemies: Allah is enough for a protector, and Allah is enough for a Helper.
 
 [Open on Quran.com](https://quran.com/4/45)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when they come to you, they say, "We believe." But they have entered with disbelief [in their hearts], and they have certainly left with it. And Allāh is most knowing of what they were concealing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب یہ لوگ تمہارے پاس آتے ہیں تو کہتے ہیں کہ ہم ایمان لے آئے حالانکہ کفر لے کر آتے ہیں اور اسی کو لیکر جاتے ہیں اور جن باتوں کو یہ مخفی رکھتے ہیں خدا ان کو خوب جانتا ہے
+**English (Yusuf Ali):** When they come to thee, they say: "We believe": but in fact they enter with a mind against Faith, and they go out with the same but Allah knoweth fully all that they hide.
 
 [Open on Quran.com](https://quran.com/5/61)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus We have tried some of them through others that they [i.e., the disbelievers] might say, "Is it these whom Allāh has favored among us?" Is not Allāh most knowing of those who are grateful?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے بعض لوگوں کی بعض سے آزمائش کی ہے کہ (جو دولتمند ہیں وہ غریبوں کی نسبت) کہتے ہیں کیا یہی لوگ ہیں جن پر خدا نے ہم میں سے فضل کیا ہے (خدا نے فرمایا) بھلا خدا شکر کرنے والوں سے واقف نہیں؟
+**English (Yusuf Ali):** Thus did We try some of them by comparison with others, that they should say: "Is it these then that Allah hath favoured from amongst us?" Doth not Allah know best those who are grateful?
 
 [Open on Quran.com](https://quran.com/6/53)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "If I had that for which you are impatient, the matter would have been decided between me and you, but Allāh is most knowing of the wrongdoers."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ جس چیز کے لئے تم جلدی کر رہے ہو اگر وہ میرے اختیار میں ہوتی تو مجھ میں اور تم میں فیصلہ ہوچکا ہوتا۔ اور خدا ظالموں سے خوب واقف ہے
+**English (Yusuf Ali):** Say: "If what ye would see hastened were in my power, the matter would be settled at once between you and me. But Allah knoweth best those who do wrong."
 
 [Open on Quran.com](https://quran.com/6/58)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, your Lord is most knowing of who strays from His way, and He is most knowing of the [rightly] guided.
 
-**Urdu (Fatah Muhammad Jalandhari):** تمہارا پروردگار ان لوگوں کو خوب جانتا ہے جو اس کے رستے سے بھٹکے ہوئے ہیں اور ان سے بھی خوب واقف ہے جو رستے پر چل رہے ہیں
+**English (Yusuf Ali):** Thy Lord knoweth best who strayeth from His way: He knoweth best who they are that receive His guidance.
 
 [Open on Quran.com](https://quran.com/6/117)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And why should you not eat of that upon which the name of Allāh has been mentioned while He has explained in detail to you what He has forbidden you, excepting that to which you are compelled. And indeed do many lead [others] astray through their [own] inclinations without knowledge. Indeed, your Lord - He is most knowing of the transgressors.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور سبب کیا ہے کہ جس چیز پر خدا کا نام لیا جائے تم اسے نہ کھاؤ حالانکہ جو چیزیں اس نے تمہارے لیے حرام ٹھیرا دی ہیں وہ ایک ایک کر کے بیان کر دی ہیں (بے شک ان کو نہیں کھانا چاہیے) مگر اس صورت میں کہ ان کے (کھانے کے) لیے ناچار ہو جاؤ اور بہت سے لوگ بےسمجھے بوجھے اپنے نفس کی خواہشوں سے لوگوں کو بہکا رہے ہیں کچھ شک نہیں کہ ایسے لوگوں کو جو (خدا کی مقرر کی ہوئی) حد سے باہر نکل جاتے ہیں تمہارا پروردگار خوب جانتا ہے
+**English (Yusuf Ali):** Why should ye not eat of (meats) on which Allah's name hath been pronounced, when He hath explained to you in detail what is forbidden to you - except under compulsion of necessity? But many do mislead (men) by their appetites unchecked by knowledge. Thy Lord knoweth best those who transgress.
 
 [Open on Quran.com](https://quran.com/6/119)
 

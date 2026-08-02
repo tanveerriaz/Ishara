@@ -38,7 +38,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:112 · [[002 Al-Baqarah]]
 
@@ -52,7 +52,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Yes, [on the contrary], whoever submits his face [i.e., self] in Islām to Allāh while being a doer of good will have his reward with his Lord. And no fear will there be concerning them, nor will they grieve.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں جو شخص خدا کے آگے گردن جھکا دے، (یعنی ایمان لے آئے) اور وہ نیکو کار بھی ہو تو اس کا صلہ اس کے پروردگار کے پاس ہے اور ایسے لوگوں کو (قیامت کے دن) نہ کسی طرح کا خوف ہوگا اور نہ وہ غمناک ہوں گے
+**English (Yusuf Ali):** Nay,-whoever submits His whole self to Allah and is a doer of good,- He will get his reward with his Lord; on such shall be no fear, nor shall they grieve.
 
 [Open on Quran.com](https://quran.com/2/112)
 
@@ -68,7 +68,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When his Lord said to him, "Submit," he said, "I have submitted [in Islām] to the Lord of the worlds."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب ان سے ان کے پروردگار نے فرمایا کہ اسلام لے آؤ تو انہوں نے عرض کی کہ میں رب العالمین کے آگے سر اطاعت خم کرتا ہوں
+**English (Yusuf Ali):** Behold! his Lord said to him: "Bow (thy will to Me):" He said: "I bow (my will) to the Lord and Cherisher of the Universe."
 
 [Open on Quran.com](https://quran.com/2/131)
 
@@ -84,7 +84,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So if they argue with you, say, "I have submitted myself to Allāh [in Islām], and [so have] those who follow me." And say to those who were given the Scripture and [to] the unlearned, "Have you submitted yourselves?" And if they submit [in Islām], they are rightly guided; but if they turn away - then upon you is only the [duty of] notification. And Allāh is Seeing of [His] servants.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر اگر یہ لوگ تم سے جھگڑنے لگیں تو کہنا کہ میں اور میرے پیرو تو خدا کے فرمانبردار ہو چکے اور اہل کتاب اور ان پڑھ لوگوں سے کہو کہ کیا تم بھی (خدا کے فرمانبردار بنتے ہو) اور اسلام لاتے ہو؟ اگر یہ لوگ اسلام لے آئیں تو بے شک ہدایت پالیں اور اگر (تمہارا کہا) نہ مانیں تو تمہارا کام صرف خدا کا پیغام پہنچا دینا ہے اور خدا (اپنے) بندوں کو دیکھ رہا ہے
+**English (Yusuf Ali):** So if they dispute with thee, say: "I have submitted My whole self to Allah and so have those who follow me." And say to the People of the Book and to those who are unlearned: "Do ye (also) submit yourselves?" If they do, they are in right guidance, but if they turn back, Thy duty is to convey the Message; and in Allah's sight are (all) His servants.
 
 [Open on Quran.com](https://quran.com/3/20)
 
@@ -100,7 +100,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So is it other than the religion of Allāh they desire, while to Him have submitted [all] those within the heavens and earth, willingly or by compulsion, and to Him they will be returned?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ (کافر) خدا کے دین کے سوا کسی اور دین کے طالب ہیں حالانکہ سب اہلِ آسمان و زمین خوشی یا زبردستی سے خدا کے فرماں بردار ہیں اور اسی کی طرف لوٹ کر جانے والے ہیں
+**English (Yusuf Ali):** Do they seek for other than the Religion of Allah?-while all creatures in the heavens and on earth have, willing or unwilling, bowed to His Will (Accepted Islam), and to Him shall they all be brought back.
 
 [Open on Quran.com](https://quran.com/3/83)
 
@@ -116,7 +116,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And who is better in religion than one who submits himself to Allāh while being a doer of good and follows the religion of Abraham, inclining toward truth? And Allāh took Abraham as an intimate friend.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس شخص سے کس کا دین اچھا ہوسکتا ہے جس نے حکم خدا کو قبول کیا اور وہ نیکوکار بھی ہے۔ اور ابراہیم کے دین کا پیرو ہے جو یکسوں (مسلمان ) تھے اور خدا نے ابراہیم کو اپنا دوست بنایا تھا
+**English (Yusuf Ali):** Who can be better in religion than one who submits his whole self to Allah, does good, and follows the way of Abraham the true in Faith? For Allah did take Abraham for a friend.
 
 [Open on Quran.com](https://quran.com/4/125)
 
@@ -132,7 +132,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, We sent down the Torah, in which was guidance and light. The prophets who submitted [to Allāh] judged by it for the Jews, as did the rabbis and scholars by that with which they were entrusted of the Scripture of Allāh, and they were witnesses thereto. So do not fear the people but fear Me, and do not exchange My verses for a small price [i.e., worldly gain]. And whoever does not judge by what Allāh has revealed - then it is those who are the disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** بیشک ہم نے توریت نازل فرمائی جس میں ہدایت اور روشنی ہے اسی کے مطابق انبیاء جو (خدا کے) فرمانبردار تھے یہودیوں کو حکم دیتے رہے ہیں اور مشائخ اور علماء بھی کیونکہ وہ کتاب خدا کے نگہبان مقرر کیے گئے تھے اور اس پر گواہ تھے (یعنی حکم الہٰی کا یقین رکھتے تھے) تو تم لوگوں سے مت ڈرنا اور مجھی سے ڈرتے رہنا اور میری آیتوں کے بدلے تھوڑی سی قیمت نہ لینا اور جو خدا کے نازل فرمائے ہوئے احکام کے مطابق حکم نہ دے تو ایسے ہی لوگ کافر ہیں
+**English (Yusuf Ali):** It was We who revealed the law (to Moses): therein was guidance and light. By its standard have been judged the Jews, by the prophets who bowed (as in Islam) to Allah's will, by the rabbis and the doctors of law: for to them was entrusted the protection of Allah's book, and they were witnesses thereto: therefore fear not men, but fear me, and sell not my signs for a miserable price. If any do fail to judge by (the light of) what Allah hath revealed, they are (no better than) Unbelievers.
 
 [Open on Quran.com](https://quran.com/5/44)
 
@@ -148,7 +148,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Is it other than Allāh I should take as a protector, Creator of the heavens and earth, while it is He who feeds and is not fed?" Say, [O Muḥammad], "Indeed, I have been commanded to be the first [among you] who submit [to Allāh] and [was commanded], 'Do not ever be of the polytheists."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کیا میں خدا کو چھوڑ کر کسی اور کو مددگار بناؤں کہ (وہی تو) آسمانوں اور زمین کا پیدا کرنے والا ہے اور وہی (سب کو) کھانا دیتا ہے اور خود کسی سے کھانا نہیں لیتا (یہ بھی) کہہ دو کہ مجھے یہ حکم ہوا ہے کہ میں سب سے پہلے اسلام لانے والا ہوں اور یہ کہ تم (اے پیغمبر!) مشرکوں میں نہ ہونا
+**English (Yusuf Ali):** Say: "Shall I take for my protector any other than Allah, the Maker of the heavens and the earth? And He it is that feedeth but is not fed." Say: "Nay! but I am commanded to be the first of those who bow to Allah (in Islam), and be not thou of the company of those who join gods with Allah."
 
 [Open on Quran.com](https://quran.com/6/14)
 
@@ -164,7 +164,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Shall we invoke instead of Allāh that which neither benefits us nor harms us and be turned back on our heels after Allāh has guided us? [We would then be] like one whom the devils enticed [to wander] upon the earth confused, [while] he has companions inviting him to guidance, [calling], 'Come to us.'" Say, "Indeed, the guidance of Allāh is the [only] guidance; and we have been commanded to submit to the Lord of the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو۔ کیا ہم خدا کے سوا ایسی چیز کو پکاریں جو نہ ہمارا بھلا کرسکے نہ برا۔ اور جب ہم کو خدا نے سیدھا رستہ دکھا دیا تو (کیا) ہم الٹے پاؤں پھر جائیں؟ (پھر ہماری ایسی مثال ہو) جیسے کسی کو جنات نے جنگل میں بھلا دیا ہو (اور وہ) حیران (ہو رہا ہو) اور اس کے کچھ رفیق ہوں جو اس کو رستے کی طرف بلائیں کہ ہمارے پاس چلا آ۔ کہہ دو کہ رستہ تو وہی ہے جو خدا نے بتایا ہے۔ اور ہمیں تو یہ حکم ملا ہے کہ ہم خدائے رب العالمین کے فرمانبردار ہوں
+**English (Yusuf Ali):** Say: "Shall we indeed call on others besides Allah,- things that can do us neither good nor harm,- and turn on our heels after receiving guidance from Allah? - like one whom the evil ones have made into a fool, wandering bewildered through the earth, his friends calling, come to us', (vainly) guiding him to the path." Say: "Allah's guidance is the (only) guidance, and we have been directed to submit ourselves to the Lord of the worlds;-
 
 [Open on Quran.com](https://quran.com/6/71)
 
@@ -180,7 +180,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Allāh has made for you, from that which He has created, shadows [i.e., shade] and has made for you from the mountains, shelters and has made for you garments which protect you from the heat and garments [i.e., coats of mail] which protect you from your [enemy in] battle. Thus does He complete His favor upon you that you might submit [to Him].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تمہارے (آرام کے) لیے اپنی پیدا کی ہوئی چیزوں کے سائے بنائے اور پہاڑوں میں غاریں بنائیں اور کُرتے بنائے جو تم کو گرمی سے بچائیں۔ اور (ایسے) کُرتے (بھی) جو تم کو اسلحہ جنگ (کے ضرر) سے محفوظ رکھیں۔ اسی طرح خدا اپنا احسان تم پر پورا کرتا ہے تاکہ تم فرمانبردار بنو
+**English (Yusuf Ali):** It is Allah Who made out of the things He created, some things to give you shade; of the hills He made some for your shelter; He made you garments to protect you from heat, and coats of mail to protect you from your (mutual) violence. Thus does He complete His favours on you, that ye may bow to His Will (in Islam).
 
 [Open on Quran.com](https://quran.com/16/81)
 
@@ -196,7 +196,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And for every [religious] community We have appointed a rite [of sacrifice] that they may mention the name of Allāh over what He has provided for them of [sacrificial] animals. For your god is one God, so to Him submit. And, [O Muḥammad], give good tidings to the humble [before their Lord]
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ہر اُمت کے لئے قربانی کا طریق مقرر کردیا ہے تاکہ جو مویشی چارپائے خدا نے ان کو دیئے ہیں (ان کے ذبح کرنے کے وقت) ان پر خدا کا نام لیں۔ سو تمہارا معبود ایک ہی ہے تو اسی کے فرمانبردار ہوجاؤ۔ اور عاجزی کرنے والوں کو خوشخبری سنادو
+**English (Yusuf Ali):** To every people did We appoint rites (of sacrifice), that they might celebrate the name of Allah over the sustenance He gave them from animals (fit for food). But your god is One God: submit then your wills to Him (in Islam): and give thou the good news to those who humble themselves,-
 
 [Open on Quran.com](https://quran.com/22/34)
 

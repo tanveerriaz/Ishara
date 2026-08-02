@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:115 · [[007 Al-Araf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "O Moses, either you throw [your staff], or we will be the ones to throw [first]."
 
-**Urdu (Fatah Muhammad Jalandhari):** (جب فریقین روزِ مقررہ پر جمع ہوئے تو) جادوگروں نے کہا کہ موسیٰ یا تو تم (جادو کی چیز) ڈالو یا ہم ڈالتے ہیں
+**English (Yusuf Ali):** They said: "O Moses! wilt thou throw (first), or shall we have the (first) throw?"
 
 [Open on Quran.com](https://quran.com/7/115)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when the magicians came, Moses said to them, "Throw down whatever you will throw."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب جادوگر آئے تو موسیٰ نے ان سے کہا تم کو جو ڈالنا ہے ڈالو
+**English (Yusuf Ali):** When the sorcerers came, Moses said to them: "Throw ye what ye (wish) to throw!"
 
 [Open on Quran.com](https://quran.com/10/80)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Moses said to them, "Throw whatever you will throw."
 
-**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے ان سے کہا کہ جو چیز ڈالنی چاہتے ہو، ڈالو
+**English (Yusuf Ali):** Moses said to them: "Throw ye - that which ye are about to throw!"
 
 [Open on Quran.com](https://quran.com/26/43)
 

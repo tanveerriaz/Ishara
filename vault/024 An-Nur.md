@@ -14,31 +14,31 @@ The Light · 64 ayahs
 
 ## Words in this surah (graph)
 
-- [[Ast>*n - ask permission]] — `اسْتَأْذَنَ` · ask permission
-- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[rmY - accuse]] — `رَمَى` · accuse
 - [[>rbE - forty]] — `أَرْبَع` · forty
-- [[sHAb - clouds]] — `سَحاب` · clouds
+- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
+- [[Ast>*n - ask permission]] — `اسْتَأْذَنَ` · ask permission
+- [[rmY - accuse]] — `رَمَى` · accuse
 - [[mHSnp - chaste women]] — `مُحْصَنَة` · chaste women
 - [[nkAH - marriage]] — `نِكاح` · marriage
-- [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[mbynp - clear]] — `مُبَيِّنَة` · clear
-- [[Tfl - as child]] — `طِفْل` · as child
-- [[vyAb - garments]] — `ثِياب` · garments
-- [[>xt - sisters]] — `أُخْت` · sisters
-- [[HfZ - guard]] — `حِفْظ` · guard
-- [[Hlm - dreams]] — `حُلُم` · dreams
-- [[frj - chastity]] — `فَرْج` · chastity
-- [[>zkY - purer]] — `أَزْكَى` · purer
-- [[<fk - lie]] — `إِفْك` · lie
 - [[>rbEp - four]] — `أَرْبَعَة` · four
-- [[ygD - lower]] — `يَغُضُّ` · lower
+- [[Tfl - as child]] — `طِفْل` · as child
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
 - [[mbArkp - blessed]] — `مُبارَكَة` · blessed
-- [[yqbl - will accepted]] — `يَقْبَلُ` · will accepted
-- [[mwj - waves]] — `مَوْج` · waves
-- [[kwkb - stars]] — `كَوْكَب` · stars
-- [[kAtb - scribe]] — `كاتِب` · scribe
-- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[ygD - lower]] — `يَغُضُّ` · lower
+- [[frj - chastity]] — `فَرْج` · chastity
+- [[Hlm - dreams]] — `حُلُم` · dreams
+- [[mbynp - clear]] — `مُبَيِّنَة` · clear
+- [[HfZ - guard]] — `حِفْظ` · guard
+- [[>xt - sisters]] — `أُخْت` · sisters
+- [[sHAb - clouds]] — `سَحاب` · clouds
+- [[vyAb - garments]] — `ثِياب` · garments
+- [[<fk - lie]] — `إِفْك` · lie
+- [[>zkY - purer]] — `أَزْكَى` · purer
+- [[dEA - call]] — `دَعا` · call
+- [[nAr - fire]] — `نار` · fire
+- [[lyl - night]] — `لَيْل` · night
+- [[zkY - purify them]] — `زَكَّى` · purify them
+- [[wEZ - admonished]] — `وَعَظْ` · admonished
 
 ## Roots
 

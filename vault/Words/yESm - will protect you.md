@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 5:67 · [[005 Al-Maidah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Messenger, announce that which has been revealed to you from your Lord, and if you do not, then you have not conveyed His message. And Allāh will protect you from the people. Indeed, Allāh does not guide the disbelieving people.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر جو ارشادات خدا کی طرف سے تم پر نازل ہوئے ہیں سب لوگوں کو پہنچا دو اور اگر ایسا نہ کیا تو تم خدا کے پیغام پہنچانے میں قاصر رہے (یعنی پیغمبری کا فرض ادا نہ کیا) اور خدا تم کو لوگوں سے بچائے رکھے گا بیشک خدا منکروں کو ہدایت نہیں دیتا
+**English (Yusuf Ali):** O Messenger! proclaim the (message) which hath been sent to thee from thy Lord. If thou didst not, thou wouldst not have fulfilled and proclaimed His mission. And Allah will defend thee from men (who mean mischief). For Allah guideth not those who reject Faith.
 
 [Open on Quran.com](https://quran.com/5/67)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [But] he said, "I will take refuge on a mountain to protect me from the water." [Noah] said, "There is no protector today from the decree of Allāh, except for whom He gives mercy." And the waves came between them, and he was among the drowned.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس نے کہا کہ میں (ابھی) پہاڑ سے جا لگوں گا، وہ مجھے پانی سے بچالے گا۔ انہوں نے کہا کہ آج خدا کے عذاب سے کوئی بچانے والا نہیں (اور نہ کوئی بچ سکتا ہے) مگر جس پر خدا رحم کرے۔ اتنے میں دونوں کے درمیان لہر آحائل ہوئی اور وہ ڈوب کر رہ گیا
+**English (Yusuf Ali):** The son replied: "I will betake myself to some mountain: it will save me from the water." Noah said: "This day nothing can save, from the command of Allah, any but those on whom He hath mercy! "And the waves came between them, and the son was among those overwhelmed in the Flood.
 
 [Open on Quran.com](https://quran.com/11/43)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Who is it that can protect you from Allāh if He intends for you an ill or intends for you a mercy?" And they will not find for themselves besides Allāh any protector or any helper.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر خدا تمہارے ساتھ برائی کا ارادہ کرے تو کون تم کو اس سے بچا سکتا ہے یا اگر تم پر مہربانی کرنی چاہے تو (کون اس کو ہٹا سکتا ہے) اور یہ لوگ خدا کے سوا کسی کو نہ اپنا دوست پائیں گے اور نہ مددگار
+**English (Yusuf Ali):** Say: "Who is it that can screen you from Allah if it be His wish to give you punishment or to give you Mercy?" Nor will they find for themselves, besides Allah, any protector or helper.
 
 [Open on Quran.com](https://quran.com/33/17)
 

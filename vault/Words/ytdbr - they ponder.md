@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:82 · [[004 An-Nisa]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then do they not reflect upon the Qur’ān? If it had been from [any] other than Allāh, they would have found within it much contradiction.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا یہ قرآن میں غور کیوں نہیں کرتے؟ اگر یہ خدا کے سوا کسی اور کا (کلام) ہوتا تو اس میں (بہت سا) اختلاف پاتے
+**English (Yusuf Ali):** Do they not consider the Qur'an (with care)? Had it been from other Than Allah, they would surely have found therein Much discrepancy.
 
 [Open on Quran.com](https://quran.com/4/82)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then have they not reflected over the word [i.e., the Qur’ān], or has there come to them that which had not come to their forefathers?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے اس کلام میں غور نہیں کیا یا ان کے پاس کوئی ایسی چیز آئی ہے جو ان کے اگلے باپ دادا کے پاس نہیں تھی
+**English (Yusuf Ali):** Do they not ponder over the Word (of Allah), or has anything (new) come to them that did not come to their fathers of old?
 
 [Open on Quran.com](https://quran.com/23/68)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [This is] a blessed Book which We have revealed to you, [O Muḥammad], that they might reflect upon its verses and that those of understanding would be reminded.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ) کتاب جو ہم نے تم پر نازل کی ہے بابرکت ہے تاکہ لوگ اس کی آیتوں میں غور کریں اور تاکہ اہل عقل نصیحت پکڑیں
+**English (Yusuf Ali):** (Here is) a Book which We have sent down unto thee, full of blessings, that they may mediate on its Signs, and that men of understanding may receive admonition.
 
 [Open on Quran.com](https://quran.com/38/29)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then do they not reflect upon the Qur’ān, or are there locks upon [their] hearts?
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا یہ لوگ قرآن میں غور نہیں کرتے یا (ان کے) دلوں پر قفل لگ رہے ہیں
+**English (Yusuf Ali):** Do they not then earnestly seek to understand the Qur'an, or are their hearts locked up by them?
 
 [Open on Quran.com](https://quran.com/47/24)
 

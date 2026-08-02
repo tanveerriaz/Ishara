@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 43:32 · [[043 Az-Zukhruf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they distribute the mercy of your Lord? It is We who have apportioned among them their livelihood in the life of this world and have raised some of them above others in degrees [of rank] that they may make use of one another for service. But the mercy of your Lord is better than whatever they accumulate.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ تمہارے پروردگار کی رحمت کو بانٹتے ہیں؟ ہم نے ان میں ان کی معیشت کو دنیا کی زندگی میں تقسیم کردیا اور ایک کے دوسرے پر درجے بلند کئے تاکہ ایک دوسرے سے خدمت لے اور جو کچھ یہ جمع کرتے ہیں تمہارے پروردگار کی رحمت اس سے کہیں بہتر ہے
+**English (Yusuf Ali):** Is it they who would portion out the Mercy of thy Lord? It is We Who portion out between them their livelihood in the life of this world: and We raise some of them above others in ranks, so that some may command work from others. But the Mercy of thy Lord is better than the (wealth) which they amass.
 
 [Open on Quran.com](https://quran.com/43/32)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, it is an oath - if you could know - [most] great.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم سمجھو تو یہ بڑی قسم ہے
+**English (Yusuf Ali):** And that is indeed a mighty adjuration if ye but knew,-
 
 [Open on Quran.com](https://quran.com/56/76)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Is there [not] in [all] that an oath [sufficient] for one of perception?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بے شک یہ چیزیں عقلمندوں کے نزدیک قسم کھانے کے لائق ہیں کہ (کافروں کو ضرور عذاب ہو گا)
+**English (Yusuf Ali):** Is there (not) in these an adjuration (or evidence) for those who understand?
 
 [Open on Quran.com](https://quran.com/89/5)
 

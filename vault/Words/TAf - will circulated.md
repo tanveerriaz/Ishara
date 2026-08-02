@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 37:45 · [[037 As-Saffat]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There will be circulated among them a cup [of wine] from a flowing spring,
 
-**Urdu (Fatah Muhammad Jalandhari):** شراب لطیف کے جام کا ان میں دور چل رہا ہوگا
+**English (Yusuf Ali):** Round will be passed to them a Cup from a clear-flowing fountain,
 
 [Open on Quran.com](https://quran.com/37/45)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Circulated among them will be plates and vessels of gold. And therein is whatever the souls desire and [what] delights the eyes, and you will abide therein eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان پر سونے کی پرچوں اور پیالوں کا دور چلے گا۔ اور وہاں جو جی چاہے اور جو آنکھوں کو اچھا لگے (موجود ہوگا) اور (اے اہل جنت) تم اس میں ہمیشہ رہو گے
+**English (Yusuf Ali):** To them will be passed round, dishes and goblets of gold: there will be there all that the souls could desire, all that their eyes could delight in: and ye shall abide therein (for eye).
 
 [Open on Quran.com](https://quran.com/43/71)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There will circulate among them [servant] boys [especially] for them, as if they were pearls well-protected.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور نوجوان خدمت گار (جو ایسے ہوں گے) جیسے چھپائے ہوئے موتی ان کے آس پاس پھریں گے
+**English (Yusuf Ali):** Round about them will serve, (devoted) to them, young male servants (handsome) as Pearls well-guarded.
 
 [Open on Quran.com](https://quran.com/52/24)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will circulate between it and scalding water, heated [to the utmost degree].
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ دوزخ اور کھولتے ہوئے گرم پانی کے درمیان گھومتے پھریں گے
+**English (Yusuf Ali):** In its midst and in the midst of boiling hot water will they wander round!
 
 [Open on Quran.com](https://quran.com/55/44)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There will circulate among them young boys made eternal.
 
-**Urdu (Fatah Muhammad Jalandhari):** نوجوان خدمت گزار جو ہمیشہ (ایک ہی حالت میں) رہیں گے ان کے آس پاس پھریں گے
+**English (Yusuf Ali):** Round about them will (serve) youths of perpetual (freshness),
 
 [Open on Quran.com](https://quran.com/56/17)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So there came upon it [i.e., the garden] an affliction from your Lord while they were asleep.
 
-**Urdu (Fatah Muhammad Jalandhari):** سو وہ ابھی سو ہی رہے تھے کہ تمہارے پروردگار کی طرف سے (راتوں رات) اس پر ایک آفت پھر گئی
+**English (Yusuf Ali):** Then there came on the (garden) a visitation from thy Lord, (which swept away) all around, while they were asleep.
 
 [Open on Quran.com](https://quran.com/68/19)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there will be circulated among them vessels of silver and cups having been [created] clear [as glass],
 
-**Urdu (Fatah Muhammad Jalandhari):** خدام) چاندی کے باسن لئے ہوئے ان کے اردگرد پھریں گے اور شیشے کے (نہایت شفاف) گلاس
+**English (Yusuf Ali):** And amongst them will be passed round vessels of silver and goblets of crystal,-
 
 [Open on Quran.com](https://quran.com/76/15)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There will circulate among them young boys made eternal. When you see them, you would think them [as beautiful as] scattered pearls.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے پاس لڑکے آتے جاتے ہوں گے جو ہمیشہ (ایک ہی حالت پر) رہیں گے۔ جب تم ان پر نگاہ ڈالو تو خیال کرو کہ بکھرے ہوئے موتی ہیں
+**English (Yusuf Ali):** And round about them will (serve) youths of perpetual (freshness): If thou seest them, thou wouldst think them scattered Pearls.
 
 [Open on Quran.com](https://quran.com/76/19)
 

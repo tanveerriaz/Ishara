@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:26 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh is not timid to present an example - that of a mosquito or what is smaller than it. And those who have believed know that it is the truth from their Lord. But as for those who disbelieve, they say, "What did Allāh intend by this as an example?" He misleads many thereby and guides many thereby. And He misleads not except the defiantly disobedient,
 
-**Urdu (Fatah Muhammad Jalandhari):** الله اس بات سے عار نہیں کرتا کہ مچھر یا اس سے بڑھ کر کسی چیز (مثلاً مکھی مکڑی وغیرہ) کی مثال بیان فرمائے۔ جو مومن ہیں، وہ یقین کرتے ہیں وہ ان کے پروردگار کی طرف سے سچ ہے اور جو کافر ہیں وہ کہتے ہیں کہ اس مثال سے خدا کی مراد ہی کیا ہے۔ اس سے (خدا) بہتوں کو گمراہ کرتا ہے اور بہتوں کو ہدایت بخشتا ہے اور گمراہ بھی کرتا تو نافرمانوں ہی کو
+**English (Yusuf Ali):** Allah disdains not to use the similitude of things, lowest as well as highest. Those who believe know that it is truth from their Lord; but those who reject Faith say: "What means Allah by this similitude?" By it He causes many to stray, and many He leads into the right path; but He causes not to stray, except those who forsake (the path),-
 
 [Open on Quran.com](https://quran.com/2/26)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Many of the People of the Scripture wish they could turn you back to disbelief after you have believed, out of envy from themselves [even] after the truth has become clear to them. So pardon and overlook until Allāh delivers His command. Indeed, Allāh is over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** بہت سے اہل کتاب اپنے دل کی جلن سے یہ چاہتے ہیں کہ ایمان لا چکنے کے بعد تم کو پھر کافر بنا دیں۔ حالانکہ ان پر حق ظاہر ہو چکا ہے۔ تو تم معاف کردو اور درگزر کرو۔ یہاں تک کہ خدا اپنا (دوسرا) حکم بھیجے۔ بے شک خدا ہر بات پر قادر ہے
+**English (Yusuf Ali):** Quite a number of the People of the Book wish they could Turn you (people) back to infidelity after ye have believed, from selfish envy, after the Truth hath become Manifest unto them: But forgive and overlook, Till Allah accomplish His purpose; for Allah Hath power over all things.
 
 [Open on Quran.com](https://quran.com/2/109)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He gives wisdom to whom He wills, and whoever has been given wisdom has certainly been given much good. And none will remember except those of understanding.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ جس کو چاہتا ہے دانائی بخشتا ہے۔ اور جس کو دانائی ملی بےشک اس کو بڑی نعمت ملی۔ اور نصیحت تو وہی لوگ قبول کرتے ہیں جو عقلمند ہیں
+**English (Yusuf Ali):** He granteth wisdom to whom He pleaseth; and he to whom wisdom is granted receiveth indeed a benefit overflowing; but none will grasp the Message but men of understanding.
 
 [Open on Quran.com](https://quran.com/2/269)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "My Lord, make for me a sign." He said, "Your sign is that you will not [be able to] speak to the people for three days except by gesture. And remember your Lord much and exalt [Him with praise] in the evening and the morning."
 
-**Urdu (Fatah Muhammad Jalandhari):** زکریا نے کہا کہ پروردگار (میرے لیے) کوئی نشانی مقرر فرما خدا نے فرمایا نشانی یہ ہے کہ تم لوگوں سے تین دن اشارے کے سوا بات نہ کر سکو گے تو (ان دنوں میں) اپنے پروردگار کی کثرت سے یاد اور صبح و شام اس کی تسبیح کرنا
+**English (Yusuf Ali):** He said: "O my Lord! Give me a Sign!" "Thy Sign," was the answer, "Shall be that thou shalt speak to no man for three days but with signals. Then celebrate the praises of thy Lord again and again, and glorify Him in the evening and in the morning."
 
 [Open on Quran.com](https://quran.com/3/41)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And how many a prophet [fought in battle and] with him fought many religious scholars. But they never lost assurance due to what afflicted them in the cause of Allāh, nor did they weaken or submit. And Allāh loves the steadfast.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بہت سے نبی ہوئے ہیں جن کے ساتھ ہو کر اکثر اہل الله (خدا کے دشمنوں سے) لڑے ہیں تو جو مصبتیں ان پر راہِ خدا میں واقع ہوئیں ان کے سبب انہوں نے نہ تو ہمت ہاری اور نہ بزدلی کی نہ (کافروں سے) دبے اور خدا استقلال رکھنے والوں کو دوست رکھتا ہے
+**English (Yusuf Ali):** How many of the prophets fought (in Allah's way), and with them (fought) Large bands of godly men? but they never lost heart if they met with disaster in Allah's way, nor did they weaken (in will) nor give in. And Allah Loves those who are firm and steadfast.
 
 [Open on Quran.com](https://quran.com/3/146)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** You will surely be tested in your possessions and in yourselves. And you will surely hear from those who were given the Scripture before you and from those who associate others with Allāh much abuse. But if you are patient and fear Allāh - indeed, that is of the matters [worthy] of resolve.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے اہل ایمان) تمہارے مال و جان میں تمہاری آزمائش کی جائے گی۔ اور تم اہل کتاب سے اور ان لوگوں سے جو مشرک ہیں بہت سی ایذا کی باتیں سنو گے۔ اور تو اگر صبر اور پرہیزگاری کرتے رہو گے تو یہ بڑی ہمت کے کام ہیں
+**English (Yusuf Ali):** Ye shall certainly be tried and tested in your possessions and in your personal selves; and ye shall certainly Hear much that will grieve you, from those who received the Book before you and from those who worship many gods. But if ye persevere patiently, and guard against evil,-then that will be a determining factor in all affairs.
 
 [Open on Quran.com](https://quran.com/3/186)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allāh, through whom you ask one another, and the wombs. Indeed Allāh is ever, over you, an Observer.
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو اپنے پروردگار سے ڈرو جس نے تم کو ایک شخص سے پیدا کیا (یعنی اول) اس سے اس کا جوڑا بنایا۔ پھر ان دونوں سے کثرت سے مرد وعورت (پیدا کرکے روئے زمین پر) پھیلا دیئے۔ اور خدا سے جس کے نام کو تم اپنی حاجت بر آری کا ذریعہ بناتے ہو ڈرو اور (قطع مودت) ارحام سے (بچو) کچھ شک نہیں کہ خدا تمہیں دیکھ رہا ہے
+**English (Yusuf Ali):** O mankind! reverence your Guardian-Lord, who created you from a single person, created, of like nature, His mate, and from them twain scattered (like seeds) countless men and women;- reverence Allah, through whom ye demand your mutual (rights), and (reverence) the wombs (That bore you): for Allah ever watches over you.
 
 [Open on Quran.com](https://quran.com/4/1)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, it is not lawful for you to inherit women by compulsion. And do not make difficulties for them in order to take [back] part of what you gave them unless they commit a clear immorality [i.e., adultery]. And live with them in kindness. For if you dislike them - perhaps you dislike a thing and Allāh makes therein much good.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم کو جائز نہیں کہ زبردستی عورتوں کے وارث بن جاؤ۔ اور (دیکھنا) اس نیت سے کہ جو کچھ تم نے ان کو دیا ہے اس میں سے کچھ لے لو انہیں (گھروں میں) میں مت روک رکھنا ہاں اگر وہ کھلے طور پر بدکاری کی مرتکب ہوں (تو روکنا مناسب نہیں) اور ان کے ساتھ اچھی طرح رہو سہو اگر وہ تم کو ناپسند ہوں تو عجب نہیں کہ تم کسی چیز کو ناپسند کرو اور خدا اس میں بہت سی بھلائی پیدا کردے
+**English (Yusuf Ali):** O ye who believe! Ye are forbidden to inherit women against their will. Nor should ye treat them with harshness, that ye may Take away part of the dower ye have given them,-except where they have been guilty of open lewdness; on the contrary live with them on a footing of kindness and equity. If ye take a dislike to them it may be that ye dislike a thing, and Allah brings about through it a great deal of good.
 
 [Open on Quran.com](https://quran.com/4/19)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then do they not reflect upon the Qur’ān? If it had been from [any] other than Allāh, they would have found within it much contradiction.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا یہ قرآن میں غور کیوں نہیں کرتے؟ اگر یہ خدا کے سوا کسی اور کا (کلام) ہوتا تو اس میں (بہت سا) اختلاف پاتے
+**English (Yusuf Ali):** Do they not consider the Qur'an (with care)? Had it been from other Than Allah, they would surely have found therein Much discrepancy.
 
 [Open on Quran.com](https://quran.com/4/82)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever emigrates for the cause of Allāh will find on the earth many [alternative] locations and abundance. And whoever leaves his home as an emigrant to Allāh and His Messenger and then death overtakes him - his reward has already become incumbent upon Allāh. And Allāh is ever Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص خدا کی راہ میں گھر بار چھوڑ جائے وہ زمین میں بہت سی جگہ اور کشائش پائے گا اور جو شخص خدا اور رسول کی طرف ہجرت کرکے گھر سے نکل جائے پھر اس کو موت آپکڑے تو اس کا ثواب خدا کے ذمے ہوچکا اور خدا بخشنے والا اور مہربان ہے
+**English (Yusuf Ali):** He who forsakes his home in the cause of Allah, finds in the earth Many a refuge, wide and spacious: Should he die as a refugee from home for Allah and His Messenger, His reward becomes due and sure with Allah: And Allah is Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/4/100)
 

@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:233 · [[002 Al-Baqarah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Mothers may nurse [i.e., breastfeed] their children two complete years for whoever wishes to complete the nursing [period]. Upon the father is their [i.e., the mothers'] provision and their clothing according to what is acceptable. No person is charged with more than his capacity. No mother should be harmed through her child, and no father through his child. And upon the [father's] heir is [a duty] like that [of the father]. And if they both desire weaning through mutual consent from both of them and consultation, there is no blame upon either of them. And if you wish to have your children nursed by a substitute, there is no blame upon you as long as you give payment according to what is acceptable. And fear Allāh and know that Allāh is Seeing of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مائیں اپنے بچوں کو پورے دو سال دودھ پلائیں یہ (حکم) اس شخص کے لئے ہے جو پوری مدت تک دودھ پلوانا چاہے۔ اور دودھ پلانے والی ماؤں کا کھانا اور کپڑا دستور کے مطابق باپ کے ذمے ہوگا۔ کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دی جاتی (تو یاد رکھو کہ) نہ تو ماں کو اس کے بچے کے سبب نقصان پہنچایا جائے اور نہ باپ کو اس کی اولاد کی وجہ سے نقصان پہنچایا جائے اور اسی طرح (نان نفقہ) بچے کے وارث کے ذمے ہے۔ اور اگر دونوں (یعنی ماں باپ) آپس کی رضامندی اور صلاح سے بچے کا دودھ چھڑانا چاہیں تو ان پر کچھ گناہ نہیں۔ اور اگر تم اپنی اولاد کو دودھ پلوانا چاہو تو تم پر کچھ گناہ نہیں بشرطیکہ تم دودھ پلانے والیوں کو دستور کے مطابق ان کا حق جو تم نے دینا کیا تھا دے دو اور خدا سے ڈرتے رہو اور جان رکھو کہ جو کچھ تم کرتے ہو خدا اس کو دیکھ رہا ہے
+**English (Yusuf Ali):** The mothers shall give such to their offspring for two whole years, if the father desires to complete the term. But he shall bear the cost of their food and clothing on equitable terms. No soul shall have a burden laid on it greater than it can bear. No mother shall be Treated unfairly on account of her child. Nor father on account of his child, an heir shall be chargeable in the same way. If they both decide on weaning, by mutual consent, and after due consultation, there is no blame on them. If ye decide on a foster-mother for your offspring, there is no blame on you, provided ye pay (the mother) what ye offered, on equitable terms. But fear Allah and know that Allah sees well what ye do.
 
 [Open on Quran.com](https://quran.com/2/233)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, it is We who give life and cause death, and We are the Inheritor.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہی حیات بخشتے اور ہم ہی موت دیتے ہیں۔ اور ہم سب کے وارث (مالک) ہیں
+**English (Yusuf Ali):** And verily, it is We Who give life, and Who give death: it is We Who remain inheritors (after all else passes away).
 
 [Open on Quran.com](https://quran.com/15/23)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] Zechariah, when he called to his Lord, "My Lord, do not leave me alone [with no heir], while You are the best of inheritors."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور زکریا (کو یاد کرو) جب انہوں نے اپنے پروردگار کو پکارا کہ پروردگار مجھے اکیلا نہ چھوڑ اور تو سب سے بہتر وارث ہے
+**English (Yusuf Ali):** And (remember) Zakariya, when he cried to his Lord: "O my Lord! leave me not without offspring, though thou art the best of inheritors."
 
 [Open on Quran.com](https://quran.com/21/89)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those are the inheritors
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ ہی لوگ میراث حاصل کرنے والے ہیں
+**English (Yusuf Ali):** These will be the heirs,
 
 [Open on Quran.com](https://quran.com/23/10)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And place me among the inheritors of the Garden of Pleasure.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مجھے نعمت کی بہشت کے وارثوں میں کر
+**English (Yusuf Ali):** "Make me one of the inheritors of the Garden of Bliss;
 
 [Open on Quran.com](https://quran.com/26/85)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We wanted to confer favor upon those who were oppressed in the land and make them leaders and make them inheritors
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم چاہتے تھے کہ جو لوگ ملک میں کمزور کر دیئے گئے ہیں اُن پر احسان کریں اور اُن کو پیشوا بنائیں اور انہیں (ملک کا) وارث کریں
+**English (Yusuf Ali):** And We wished to be Gracious to those who were being depressed in the land, to make them leaders (in Faith) and make them heirs,
 
 [Open on Quran.com](https://quran.com/28/5)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And how many a city have We destroyed that was insolent in its [way of] living, and those are their dwellings which have not been inhabited after them except briefly. And it is We who were the inheritors.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بہت سی بستیوں کو ہلاک کر ڈالا جو اپنی (فراخی) معیشت میں اترا رہے تھے۔ سو یہ اُن کے مکانات ہیں جو اُن کے بعد آباد ہی نہیں ہوئے مگر بہت کم۔ اور اُن کے پیچھے ہم ہی اُن کے وارث ہوئے
+**English (Yusuf Ali):** And how many populations We destroyed, which exulted in their life (of ease and plenty)! now those habitations of theirs, after them, are deserted,- All but a (miserable) few! and We are their heirs!
 
 [Open on Quran.com](https://quran.com/28/58)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:112 · [[004 An-Nisa]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But whoever earns an offense or a sin and then blames it on an innocent [person] has taken upon himself a slander and manifest sin.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص کوئی قصور یا گناہ تو خود کرے لیکن اس سے کسی بےگناہ کو مہتم کردے تو اس نے بہتان اور صریح گناہ کا بوجھ اپنے سر پر رکھا
+**English (Yusuf Ali):** But if any one earns a fault or a sin and throws it on to one that is innocent, He carries (on himself) (Both) a falsehood and a flagrant sin.
 
 [Open on Quran.com](https://quran.com/4/112)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He sends down from the sky, rain, and valleys flow according to their capacity, and the torrent carries a rising foam. And from that [ore] which they heat in the fire, desiring adornments and utensils, is a foam like it. Thus Allāh presents [the example of] truth and falsehood. As for the foam, it vanishes, [being] cast off; but as for that which benefits the people, it remains on the earth. Thus does Allāh present examples.
 
-**Urdu (Fatah Muhammad Jalandhari):** اسی نے آسمان سے مینہ برسایا پھر اس سے اپنے اپنے اندازے کے مطابق نالے بہہ نکلے پھر نالے پر پھولا ہوا جھاگ آگیا۔ اور جس چیز کو زیور یا کوئی اور سامان بنانے کے لیے آگ میں تپاتے ہیں اس میں بھی ایسا ہی جھاگ ہوتا ہے۔ اس طرح خدا حق اور باطل کی مثال بیان فرماتا ہے۔ سو جھاگ تو سوکھ کر زائل ہو جاتا ہے۔ اور (پانی) جو لوگوں کو فائدہ پہنچاتا ہے وہ زمین میں ٹھہرا رہتا ہے۔ اس طرح خدا (صحیح اور غلط کی) مثالیں بیان فرماتا ہے (تاکہ تم سمجھو)
+**English (Yusuf Ali):** He sends down water from the skies, and the channels flow, each according to its measure: But the torrent bears away to foam that mounts up to the surface. Even so, from that (ore) which they heat in the fire, to make ornaments or utensils therewith, there is a scum likewise. Thus doth Allah (by parables) show forth Truth and Vanity. For the scum disappears like forth cast out; while that which is for the good of mankind remains on the earth. Thus doth Allah set forth parables.
 
 [Open on Quran.com](https://quran.com/13/17)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who harm believing men and believing women for [something] other than what they have earned [i.e., deserved] have certainly borne upon themselves a slander and manifest sin.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ مومن مردوں اور مومن عورتوں کو ایسے کام (کی تہمت سے) جو انہوں نے نہ کیا ہو ایذا دیں تو انہوں نے بہتان اور صریح گناہ کا بوجھ اپنے سر پر رکھا
+**English (Yusuf Ali):** And those who annoy believing men and women undeservedly, bear (on themselves) a calumny and a glaring sin.
 
 [Open on Quran.com](https://quran.com/33/58)
 

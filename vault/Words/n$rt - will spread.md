@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 18:16 · [[018 Al-Kahf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [The youths said to one another], "And when you have withdrawn from them and that which they worship other than Allāh, retreat to the cave. Your Lord will spread out for you of His mercy and will prepare for you from your affair facility."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے ان (مشرکوں) سے اور جن کی یہ خدا کے سوا عبادت کرتے ہیں ان سے کنارہ کرلیا ہے تو غار میں چل رہو تمہارا پروردگار تمہارے لئے اپنی رحمت وسیع کردے گا اور تمہارے کاموں میں آسانی (کے سامان) مہیا کرے گا
+**English (Yusuf Ali):** "When ye turn away from them and the things they worship other than Allah, betake yourselves to the Cave: Your Lord will shower His mercies on you and disposes of your affair towards comfort and ease."
 
 [Open on Quran.com](https://quran.com/18/16)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who sends down the rain after they had despaired and spreads His mercy. And He is the Protector, the Praiseworthy.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو لوگوں کے ناامید ہوجانے کے بعد مینہ برساتا اور اپنی رحمت (یعنی بارش) کی برکت کو پھیلا دیتا ہے۔ اور وہ کارساز اور سزاوار تعریف ہے
+**English (Yusuf Ali):** He is the One that sends down rain (even) after (men) have given up all hope, and scatters His Mercy (far and wide). And He is the Protector, Worthy of all Praise.
 
 [Open on Quran.com](https://quran.com/42/28)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when the pages are spread [i.e., made public]
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب (عملوں کے) دفتر کھولے جائیں گے
+**English (Yusuf Ali):** When the scrolls are laid open;
 
 [Open on Quran.com](https://quran.com/81/10)
 

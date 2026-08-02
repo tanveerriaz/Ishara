@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:81 · [[002 Al-Baqarah]]
 
@@ -47,7 +47,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Yes, [on the contrary], whoever earns evil and his sin has encompassed him - those are the companions of the Fire; they will abide therein eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں جو برے کام کرے، اور اس کے گناہ (ہر طرف سے) گھیر لیں تو ایسے لوگ دوزخ (میں جانے) والے ہیں (اور) وہ ہمیشہ اس میں (جلتے) رہیں گے
+**English (Yusuf Ali):** Nay, those who seek gain in evil, and are girt round by their sins,- they are companions of the Fire: Therein shall they abide (For ever).
 
 [Open on Quran.com](https://quran.com/2/81)
 
@@ -63,7 +63,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh - there is no deity except Him, the Ever-Living, the Self-Sustaining. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursī extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا (وہ معبود برحق ہے کہ) اس کے سوا کوئی عبادت کے لائق نہیں زندہ ہمیشہ رہنے والا اسے نہ اونگھ آتی ہے نہ نیند جو کچھ آسمانوں میں اور جو کچھ زمین میں ہیں سب اسی کا ہے کون ہے جو اس کی اجازت کے بغیر اس سے (کسی کی) سفارش کر سکے جو کچھ لوگوں کے روبرو ہو رہا ہے اور جو کچھ ان کے پیچھے ہوچکا ہے اسے سب معلوم ہے اور وہ اس کی معلومات میں سے کسی چیز پر دسترس حاصل نہیں کر سکتے ہاں جس قدر وہ چاہتا ہے (اسی قدر معلوم کرا دیتا ہے) اس کی بادشاہی (اور علم) آسمان اور زمین سب پر حاوی ہے اور اسے ان کی حفاظت کچھ بھی دشوار نہیں وہ بڑا عالی رتبہ اور جلیل القدر ہے
+**English (Yusuf Ali):** Allah! There is no god but He,-the Living, the Self-subsisting, Eternal. No slumber can seize Him nor sleep. His are all things in the heavens and on earth. Who is there can intercede in His presence except as He permitteth? He knoweth what (appeareth to His creatures as) before or after or behind them. Nor shall they compass aught of His knowledge except as He willeth. His Throne doth extend over the heavens and the earth, and He feeleth no fatigue in guarding and preserving them for He is the Most High, the Supreme (in glory).
 
 [Open on Quran.com](https://quran.com/2/255)
 
@@ -79,7 +79,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who enables you to travel on land and sea until, when you are in ships and they sail with them by a good wind and they rejoice therein, there comes a storm wind and the waves come upon them from every place and they expect to be engulfed, they supplicate Allāh, sincere to Him in religion, "If You should save us from this, we will surely be among the thankful."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جو تم کو جنگل اور دریا میں چلنے پھرنے اور سیر کرنے کی توفیق دیتا ہے۔ یہاں تک کہ جب تم کشتیوں میں (سوار) ہوتے اور کشتیاں پاکیزہ ہوا (کے نرم نرم جھونکوں) سے سواروں کو لے کر چلنے لگتی ہیں اور وہ ان سے خوش ہوتے ہیں تو ناگہاں زناٹے کی ہوا چل پڑتی ہے اور لہریں ہر طرف سے ان پر (جوش مارتی ہوئی) آنے لگتی ہیں اور وہ خیال کرتے ہیں کہ (اب تو) لہروں میں گھر گئے تو اس وقت خالص خدا ہی کی عبادت کرکے اس سے دعا مانگنے لگتے ہیں کہ (اے خدا) اگر تو ہم کو اس سے نجات بخشے تو ہم (تیرے) بہت ہی شکر گزار ہوں
+**English (Yusuf Ali):** He it is Who enableth you to traverse through land and sea; so that ye even board ships;- they sail with them with a favourable wind, and they rejoice thereat; then comes a stormy wind and the waves come to them from all sides, and they think they are being overwhelmed: they cry unto Allah, sincerely offering (their) duty unto Him saying, "If thou dost deliver us from this, we shall truly show our gratitude!"
 
 [Open on Quran.com](https://quran.com/10/22)
 
@@ -95,7 +95,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Rather, they have denied that which they encompass not in knowledge and whose interpretation has not yet come to them. Thus did those before them deny. Then observe how was the end of the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** حقیقت یہ ہے کہ جس چیز کے علم پر یہ قابو نہیں پاسکے اس کو (نادانی سے) جھٹلا دیا اور ابھی اس کی حقیقت ان پر کھلی ہی نہیں۔ اسی طرح جو لوگ ان سے پہلے تھے انہوں نے تکذیب کی تھی سو دیکھ لو ظالموں کا انجام کیسا ہوا
+**English (Yusuf Ali):** Nay, they charge with falsehood that whose knowledge they cannot compass, even before the elucidation thereof hath reached them: thus did those before them make charges of falsehood: but see what was the end of those who did wrong!
 
 [Open on Quran.com](https://quran.com/10/39)
 
@@ -111,7 +111,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Jacob] said, "Never will I send him with you until you give me a promise [i.e., oath] by Allāh that you will bring him [back] to me, unless you should be surrounded [i.e., overcome by enemies]." And when they had given their promise, he said, "Allāh, over what we say, is Entrusted."
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعقوب نے) کہا جب تک تم خدا کا عہد نہ دو کہ اس کو میرے پاس (صحیح سالم) لے آؤ گے میں اسے ہرگز تمہارے ساتھ نہیں بھیجنے کا۔ مگر یہ کہ تم گھیر لیے جاؤ (یعنی بےبس ہوجاؤ تو مجبوری ہے) جب انہوں نے ان سے عہد کرلیا تو (یعقوب نے) کہا کہ جو قول وقرار ہم کر رہے ہیں اس کا خدا ضامن ہے
+**English (Yusuf Ali):** (Jacob) said: "Never will I send him with you until ye swear a solemn oath to me, in Allah's name, that ye will be sure to bring him back to me unless ye are yourselves hemmed in (and made powerless). And when they had sworn their solemn oath, he said: "Over all that we say, be Allah the witness and guardian!"
 
 [Open on Quran.com](https://quran.com/12/66)
 
@@ -127,7 +127,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [remember, O Muḥammad], when We told you, "Indeed, your Lord has encompassed the people." And We did not make the sight which We showed you except as a trial for the people, as was the accursed tree [mentioned] in the Qur’ān. And We threaten [i.e., warn] them, but it increases them not except in great transgression.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب ہم نے تم سے کہا کہ تمہارا پروردگار لوگوں کو احاطہ کئے ہوئے ہے۔ اور جو نمائش ہم نے تمہیں دکھائی اس کو لوگوں کے لئے آرمائش کیا۔ اور اسی طرح (تھوہر کے) درخت کو جس پر قرآن میں لعنت کی گئی۔ اور ہم انہیں ڈراتے ہیں تو ان کو اس سے بڑی (سخت) سرکشی پیدا ہوتی ہے
+**English (Yusuf Ali):** Behold! We told thee that thy Lord doth encompass mankind round about: We granted the vision which We showed thee, but as a trial for men,- as also the Cursed Tree (mentioned) in the Qur'an: We put terror (and warning) into them, but it only increases their inordinate transgression!
 
 [Open on Quran.com](https://quran.com/17/60)
 
@@ -143,7 +143,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And say, "The truth is from your Lord, so whoever wills - let him believe; and whoever wills - let him disbelieve." Indeed, We have prepared for the wrongdoers a fire whose walls will surround them. And if they call for relief, they will be relieved with water like murky oil, which scalds [their] faces. Wretched is the drink, and evil is the resting place.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہہ دو کہ (لوگو) یہ قرآن تمہارے پروردگار کی طرف سے برحق ہے تو جو چاہے ایمان لائے اور جو چاہے کافر رہے۔ ہم نے ظالموں کے لئے دوزخ کی آگ تیار کر رکھی ہے جس کی قناتیں ان کو گھیر رہی ہوں گی۔ اور اگر فریاد کریں گے تو ایسے کھولتے ہوئے پانی سے ان کی دادرسی کی جائے گی (جو) پگھلے ہوئے تانبے کی طرح (گرم ہوگا اور جو) مونہوں کو بھون ڈالے گا (ان کے پینے کا) پانی بھی برا اور آرام گاہ بھی بری
+**English (Yusuf Ali):** Say, "The truth is from your Lord": Let him who will believe, and let him who will, reject (it): for the wrong-doers We have prepared a Fire whose (smoke and flames), like the walls and roof of a tent, will hem them in: if they implore relief they will be granted water like melted brass, that will scald their faces, how dreadful the drink! How uncomfortable a couch to recline on!
 
 [Open on Quran.com](https://quran.com/18/29)
 
@@ -159,7 +159,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And his fruits were encompassed [by ruin], so he began to turn his hands about [in dismay] over what he had spent on it, while it had collapsed upon its trellises, and said, "Oh, I wish I had not associated with my Lord anyone."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس کے میووں کو عذاب نے آگھیرا اور وہ اپنی چھتریوں پر گر کر رہ گیا۔ تو جو مال اس نے اس پر خرچ کیا تھا اس پر (حسرت سے) ہاتھ ملنے لگا اور کہنے لگا کہ کاش میں اپنے پروردگار کے ساتھ کسی کو شریک نہ بناتا
+**English (Yusuf Ali):** So his fruits (and enjoyment) were encompassed (with ruin), and he remained twisting and turning his hands over what he had spent on his property, which had (now) tumbled to pieces to its very foundations, and he could only say, "Woe is me! Would I had never ascribed partners to my Lord and Cherisher!"
 
 [Open on Quran.com](https://quran.com/18/42)
 
@@ -175,7 +175,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And how can you have patience for what you do not encompass in knowledge?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس بات کی تمہیں خبر ہی نہیں اس پر صبر کر بھی کیوں کرسکتے ہو
+**English (Yusuf Ali):** "And how canst thou have patience about things about which thy understanding is not complete?"
 
 [Open on Quran.com](https://quran.com/18/68)
 
@@ -191,7 +191,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Thus. And We had encompassed [all] that he had in knowledge.
 
-**Urdu (Fatah Muhammad Jalandhari):** (حقیقت حال) یوں (تھی) اور جو کچھ اس کے پاس تھا ہم کو سب کی خبر تھی
+**English (Yusuf Ali):** (He left them) as they were: We completely understood what was before him.
 
 [Open on Quran.com](https://quran.com/18/91)
 

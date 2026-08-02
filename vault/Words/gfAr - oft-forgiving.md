@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 20:82 · [[020 Taha]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But indeed, I am the Perpetual Forgiver of whoever repents and believes and does righteousness and then continues in guidance.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو توبہ کرے اور ایمان لائے اور عمل نیک کرے پھر سیدھے رستے چلے اس کو میں بخش دینے والا ہوں
+**English (Yusuf Ali):** "But, without doubt, I am (also) He that forgives again and again, to those who repent, believe, and do right, who,- in fine, are ready to receive true guidance."
 
 [Open on Quran.com](https://quran.com/20/82)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Lord of the heavens and the earth and whatever is between them, the Exalted in Might, the Perpetual Forgiver."
 
-**Urdu (Fatah Muhammad Jalandhari):** جو آسمانوں اور زمین اور جو مخلوق ان میں ہے سب کا مالک ہے غالب (اور) بخشنے والا
+**English (Yusuf Ali):** "The Lord of the heavens and the earth, and all between,- Exalted in Might, able to enforce His Will, forgiving again and again."
 
 [Open on Quran.com](https://quran.com/38/66)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He created the heavens and earth in truth. He wraps the night over the day and wraps the day over the night and has subjected the sun and the moon, each running [its course] for a specified term. Unquestionably, He is the Exalted in Might, the Perpetual Forgiver.
 
-**Urdu (Fatah Muhammad Jalandhari):** اسی نے آسمانوں اور زمین کو تدبیر کے ساتھ پیدا کیا ہے۔ (اور) وہی رات کو دن پر لپیٹتا ہے اور دن کو رات پر لپیٹتا ہے اور اسی نے سورج اور چاند کو بس میں کر رکھا ہے۔ سب ایک وقت مقرر تک چلتے رہیں گے۔ دیکھو وہی غالب (اور) بخشنے والا ہے
+**English (Yusuf Ali):** He created the heavens and the earth in true (proportions): He makes the Night overlap the Day, and the Day overlap the Night: He has subjected the sun and the moon (to His law): Each one follows a course for a time appointed. Is not He the Exalted in Power - He Who forgives again and again?
 
 [Open on Quran.com](https://quran.com/39/5)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** You invite me to disbelieve in Allāh and associate with Him that of which I have no knowledge, and I invite you to the Exalted in Might, the Perpetual Forgiver.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم مجھے اس لئے بلاتے ہو کہ خدا کے ساتھ کفر کروں اور اس چیز کو اس کا شریک مقرر کروں جس کا مجھے کچھ بھی علم نہیں۔ اور میں تم کو (خدائے) غالب (اور) بخشنے والے کی طرف بلاتا ہوں
+**English (Yusuf Ali):** "Ye do call upon me to blaspheme against Allah, and to join with Him partners of whom I have no knowledge; and I call you to the Exalted in Power, Who forgives again and again!"
 
 [Open on Quran.com](https://quran.com/40/42)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And said, 'Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہا کہ اپنے پروردگار سے معافی مانگو کہ وہ بڑا معاف کرنے والا ہے
+**English (Yusuf Ali):** "Saying, 'Ask forgiveness from your Lord; for He is Oft-Forgiving;
 
 [Open on Quran.com](https://quran.com/71/10)
 

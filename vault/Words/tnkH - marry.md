@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:221 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not marry polytheistic women until they believe. And a believing slave woman is better than a polytheist, even though she might please you. And do not marry polytheistic men [to your women] until they believe. And a believing slave is better than a polytheist, even though he might please you. Those invite [you] to the Fire, but Allāh invites to Paradise and to forgiveness, by His permission. And He makes clear His verses [i.e., ordinances] to the people that perhaps they may remember.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (مومنو) مشرک عورتوں سے جب تک کہ ایمان نہ لائیں نکاح نہ کرنا۔ کیونکہ مشرک عورت خواہ تم کو کیسی ہی بھلی لگے اس سے مومن لونڈی بہتر ہے۔ اور (اسی طرح) مشرک مرد جب تک ایمان نہ لائیں مومن عورتوں کو ان کو زوجیت میں نہ دینا کیونکہ مشرک (مرد) سے خواہ وہ تم کو کیسا ہی بھلا لگے مومن غلام بہتر ہے۔ یہ (مشرک لوگوں کو) دوزخ کی طرف بلاتے ہیں۔ اور خدا اپنی مہربانی سے بہشت اور بخشش کی طرف بلاتا ہے۔ اور اپنے حکم لوگوں سے کھول کھول کر بیان کرتا ہے تاکہ نصیحت حاصل کریں
+**English (Yusuf Ali):** Do not marry unbelieving women (idolaters), until they believe: A slave woman who believes is better than an unbelieving woman, even though she allures you. Nor marry (your girls) to unbelievers until they believe: A man slave who believes is better than an unbeliever, even though he allures you. Unbelievers do (but) beckon you to the Fire. But Allah beckons by His Grace to the Garden (of bliss) and forgiveness, and makes His Signs clear to mankind: That they may celebrate His praise.
 
 [Open on Quran.com](https://quran.com/2/221)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And marry the unmarried among you and the righteous among your male slaves and female slaves. If they should be poor, Allāh will enrich them from His bounty, and Allāh is all-Encompassing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنی قوم کی بیوہ عورتوں کے نکاح کردیا کرو۔ اور اپنے غلاموں اور لونڈیوں کے بھی جو نیک ہوں (نکاح کردیا کرو) اگر وہ مفلس ہوں گے تو خدا ان کو اپنے فضل سے خوش حال کردے گا۔ اور خدا (بہت) وسعت والا اور (سب کچھ) جاننے والا ہے
+**English (Yusuf Ali):** Marry those among you who are single, or the virtuous ones among yourselves, male or female: if they are in poverty, Allah will give them means out of His grace: for Allah encompasseth all, and he knoweth all things.
 
 [Open on Quran.com](https://quran.com/24/32)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "Indeed, I wish to wed you one of these, my two daughters, on [the condition] that you serve me for eight years; but if you complete ten, it will be [as a favor] from you. And I do not wish to put you in difficulty. You will find me, if Allāh wills, from among the righteous."
 
-**Urdu (Fatah Muhammad Jalandhari):** اُنہوں نے( موسٰی سے) کہا کہ میں چاہتا ہوں اپنی دو بیٹیوں میں سے ایک کو تم سے بیاہ دوں اس عہد پر کہ تم آٹھ برس میری خدمت کرو اور اگر دس سال پورے کر دو تو تمہاری طرف سے (احسان) ہے اور میں تم پر تکلیف ڈالنی نہیں چاہتا۔ مجھے انشاء الله نیک لوگوں میں پاؤ گے
+**English (Yusuf Ali):** He said: "I intend to wed one of these my daughters to thee, on condition that thou serve me for eight years; but if thou complete ten years, it will be (grace) from thee. But I intend not to place thee under a difficulty: thou wilt find me, indeed, if Allah wills, one of the righteous."
 
 [Open on Quran.com](https://quran.com/28/27)
 

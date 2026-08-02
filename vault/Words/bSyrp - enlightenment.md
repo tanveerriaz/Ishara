@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:104 · [[006 Al-Anam]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There has come to you enlightenment from your Lord. So whoever will see does so for [the benefit of] his soul, and whoever is blind [does harm] against it. And [say], "I am not a guardian over you."
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ! ان سے کہہ دو کہ) تمہارے (پاس) پروردگار کی طرف سے (روشن) دلیلیں پہنچ چکی ہیں تو جس نے (ان کو آنکھ کھول کر) دیکھا اس نے اپنا بھلا کیا اور جو اندھا بنا رہا اس نے اپنے حق میں برا کیا۔ اور میں تمہارا نگہبان نہیں ہوں
+**English (Yusuf Ali):** "Now have come to you, from your Lord, proofs (to open your eyes): if any will see, it will be for (the good of) his own soul; if any will be blind, it will be to his own (harm): I am not (here) to watch over your doings."
 
 [Open on Quran.com](https://quran.com/6/104)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when you, [O Muḥammad], do not bring them a sign [i.e., miracle], they say, "Why have you not contrived it?" Say, "I only follow what is revealed to me from my Lord. This [Qur’ān] is enlightenment from your Lord and guidance and mercy for a people who believe."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم ان کے پاس (کچھ دنوں تک) کوئی آیت نہیں لاتے تو کہتے ہیں کہ تم نے (اپنی طرف سے) کیوں نہیں بنالی۔ کہہ دو کہ میں تو اسی کی پیروی کرتا ہوں جو میرے پروردگار کی طرف سے میرے پاس آتا ہے۔ یہ قرآن تمہارے پروردگار کی جانب سے دانش وبصیرت اور مومنوں کے لیے ہدایت اور رحمت ہے
+**English (Yusuf Ali):** If thou bring them not a revelation, they say: "Why hast thou not got it together?" Say: "I but follow what is revealed to me from my Lord: this is (nothing but) lights from your Lord, and Guidance, and mercy, for any who have faith."
 
 [Open on Quran.com](https://quran.com/7/203)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "This is my way; I invite to Allāh with insight, I and those who follow me. And exalted is Allāh; and I am not of those who associate others with Him."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو میرا رستہ تو یہ ہے میں خدا کی طرف بلاتا ہوں (از روئے یقین وبرہان) سمجھ بوجھ کر میں بھی (لوگوں کو خدا کی طرف بلاتا ہوں) اور میرے پیرو بھی۔ اور خدا پاک ہے۔ اور میں شرک کرنے والوں میں سے نہیں ہوں
+**English (Yusuf Ali):** Say thou: "This is my way: I do invite unto Allah,- on evidence clear as the seeing with one's eyes,- I and whoever follows me. Glory to Allah! and never will I join gods with Allah!"
 
 [Open on Quran.com](https://quran.com/12/108)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Moses] said, "You have already known that none has sent down these [signs] except the Lord of the heavens and the earth as evidence, and indeed I think, O Pharaoh, that you are destroyed."
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ تم یہ جانتے ہو کہ آسمانوں اور زمین کے پروردگار کے سوا ان کو کسی نے نازل نہیں کیا۔ (اور وہ بھی تم لوگوں کے) سمجھانے کو۔ اور اے فرعون میں خیال کرتا ہوں کہ تم ہلاک ہوجاؤ گے
+**English (Yusuf Ali):** Moses said, "Thou knowest well that these things have been sent down by none but the Lord of the heavens and the earth as eye-opening evidence: and I consider thee indeed, O Pharaoh, to be one doomed to destruction!"
 
 [Open on Quran.com](https://quran.com/17/102)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We gave Moses the Scripture, after We had destroyed the former generations, as enlightenment for the people and guidance and mercy that they might be reminded.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے پہلی اُمتوں کے ہلاک کرنے کے بعد موسٰی کو کتاب دی جو لوگوں کے لئے بصیرت اور ہدایت اور رحمت ہے تاکہ وہ نصیحت پکڑیں
+**English (Yusuf Ali):** We did reveal to Moses the Book after We had destroyed the earlier generations, (to give) Insight to men, and guidance and Mercy, that they might receive admonition.
 
 [Open on Quran.com](https://quran.com/28/43)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** This [Qur’ān] is enlightenment for mankind and guidance and mercy for a people who are certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ قرآن لوگوں کے لئے دانائی کی باتیں ہیں اور جو یقین رکھتے ہیں ان کے لئے ہدایت اور رحمت ہے
+**English (Yusuf Ali):** These are clear evidences to men and a Guidance and Mercy to those of assured Faith.
 
 [Open on Quran.com](https://quran.com/45/20)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Rather, man, against himself, will be a witness,
 
-**Urdu (Fatah Muhammad Jalandhari):** بلکہ انسان آپ اپنا گواہ ہے
+**English (Yusuf Ali):** Nay, man will be evidence against himself,
 
 [Open on Quran.com](https://quran.com/75/14)
 

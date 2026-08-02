@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:207 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And of the people is he who sells himself, seeking means to the approval of Allāh. And Allāh is Kind to [His] servants.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کوئی شخص ایسا ہے کہ خدا کی خوشنودی حاصل کرنے کے لئے اپنی جان بیچ ڈالتا ہے اور خدا بندوں پر بہت مہربان ہے
+**English (Yusuf Ali):** And there is the type of man who gives his life to earn the pleasure of Allah: And Allah is full of kindness to (His) devotees.
 
 [Open on Quran.com](https://quran.com/2/207)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the example of those who spend their wealth seeking means to the approval of Allāh and assuring [reward for] themselves is like a garden on high ground which is hit by a downpour - so it yields its fruits in double. And [even] if it is not hit by a downpour, then a drizzle [is sufficient]. And Allāh, of what you do, is Seeing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا کی خوشنودی حاصل کرنے کے لئے خلوص نیت سے اپنا مال خرچ کرتے ہیں ان کی مثال ایک باغ کی سی ہے جو اونچی جگہ پر واقع ہو(جب) اس پر مینہ پڑے تو دگنا پھل لائے۔ اور اگر مینہ نہ بھی پڑے تو خیر پھوار ہی سہی اور خدا تمہارے کاموں کو دیکھ رہا ہے
+**English (Yusuf Ali):** And the likeness of those who spend their substance, seeking to please Allah and to strengthen their souls, is as a garden, high and fertile: heavy rain falls on it but makes it yield a double increase of harvest, and if it receives not Heavy rain, light moisture sufficeth it. Allah seeth well whatever ye do.
 
 [Open on Quran.com](https://quran.com/2/265)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** No good is there in much of their private conversation, except for those who enjoin charity or that which is right or conciliation between people. And whoever does that seeking means to the approval of Allāh - then We are going to give him a great reward.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں کی بہت سی مشورتیں اچھی نہیں ہاں (اس شخص کی مشورت اچھی ہوسکتی ہے) جو خیرات یا نیک بات یا لوگوں میں صلح کرنے کو کہے اور جو ایسے کام خدا کی خوشنودی حاصل کرنے کے لئے کرے گا تو ہم اس کو بڑا ثواب دیں گے
+**English (Yusuf Ali):** In most of their secret talks there is no good: But if one exhorts to a deed of charity or justice or conciliation between men, (Secrecy is permissible): To him who does this, seeking the good pleasure of Allah, We shall soon give a reward of the highest (value).
 
 [Open on Quran.com](https://quran.com/4/114)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not take My enemies and your enemies as allies, extending to them affection while they have disbelieved in what came to you of the truth, having driven out the Prophet and yourselves [only] because you believe in Allāh, your Lord. If you have come out for jihād [i.e., fighting or striving] in My cause and seeking means to My approval, [take them not as friends]. You confide to them affection [i.e., instruction], but I am most knowing of what you have concealed and what you have declared. And whoever does it among you has certainly strayed from the soundness of the way.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! اگر تم میری راہ میں لڑنے اور میری خوشنودی طلب کرنے کے لئے (مکے سے) نکلے ہو تو میرے اور اپنے دشمنوں کو دوست نہ بناؤ۔ تم تو ان کو دوستی کے پیغام بھیجتے ہو اور وہ (دین) حق سے جو تمہارے پاس آیا ہے منکر ہیں۔ اور اس باعث سے کہ تم اپنے پروردگار خدا تعالیٰ پر ایمان لائے ہو پیغمبر کو اور تم کو جلاوطن کرتے ہیں۔ تم ان کی طرف پوشیدہ پوشیدہ دوستی کے پیغام بھیجتے ہو۔ اور جو کچھ تم مخفی طور پر اور جو علیٰ الاعلان کرتے ہو وہ مجھے معلوم ہے۔ اور جو کوئی تم میں سے ایسا کرے گا وہ سیدھے راستے سے بھٹک گیا
+**English (Yusuf Ali):** O ye who believe! Take not my enemies and yours as friends (or protectors),- offering them (your) love, even though they have rejected the Truth that has come to you, and have (on the contrary) driven out the Prophet and yourselves (from your homes), (simply) because ye believe in Allah your Lord! If ye have come out to strive in My Way and to seek My Good Pleasure, (take them not as friends), holding secret converse of love (and friendship) with them: for I know full well all that ye conceal and all that ye reveal. And any of you that does this has strayed from the Straight Path.
 
 [Open on Quran.com](https://quran.com/60/1)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Prophet, why do you prohibit [yourself from] what Allāh has made lawful for you, seeking the approval of your wives? And Allāh is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر جو چیز خدا نے تمہارے لئے جائز کی ہے تم اس سے کنارہ کشی کیوں کرتے ہو؟ (کیا اس سے) اپنی بیویوں کی خوشنودی چاہتے ہو؟ اور خدا بخشنے والا مہربان ہے
+**English (Yusuf Ali):** O Prophet! Why holdest thou to be forbidden that which Allah has made lawful to thee? Thou seekest to please thy consorts. But Allah is Oft-Forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/66/1)
 

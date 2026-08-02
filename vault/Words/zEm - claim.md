@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:60 · [[004 An-Nisa]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have you not seen those who claim to have believed in what was revealed to you, [O Muḥammad], and what was revealed before you? They wish to refer legislation to ṭāghūt, while they were commanded to reject it; and Satan wishes to lead them far astray.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے ان لوگوں کو نہیں دیکھا جو دعویٰ تو یہ کرتے ہیں کہ جو (کتاب) تم پر نازل ہوئی اور جو (کتابیں) تم سے پہلے نازل ہوئیں ان سب پر ایمان رکھتے ہیں اور چاہتے یہ ہیں کہ اپنا مقدمہ ایک سرکش کے پاس لے جا کر فیصلہ کرائیں حالانکہ ان کو حکم دیا گیا تھا کہ اس سے اعتقاد نہ رکھیں اور شیطان (تو یہ) چاہتا ہے کہ ان کو بہکا کر رستے سے دور ڈال دے
+**English (Yusuf Ali):** Hast thou not turned Thy vision to those who declare that they believe in the revelations that have come to thee and to those before thee? Their (real) wish is to resort together for judgment (in their disputes) to the Evil One, though they were ordered to reject him. But Satan's wish is to lead them astray far away (from the right).
 
 [Open on Quran.com](https://quran.com/4/60)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], the Day We will gather them all together; then We will say to those who associated others with Allāh, "Where are your 'partners' that you used to claim [with Him]?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس دن ہم سب لوگوں کو جمع کریں گے پھر مشرکوں سے پوچھیں گے کہ (آج) وہ تمہارے شریک کہاں ہیں جن کو تمہیں دعویٰ تھا
+**English (Yusuf Ali):** One day shall We gather them all together: We shall say to those who ascribed partners (to Us): "Where are the partners whom ye (invented and) talked about?"
 
 [Open on Quran.com](https://quran.com/6/22)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [It will be said to them], "And you have certainly come to Us alone [i.e., individually] as We created you the first time, and you have left whatever We bestowed upon you behind you. And We do not see with you your 'intercessors' which you claimed that they were among you associates [of Allāh]. It has [all] been severed between you, and lost from you is what you used to claim."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جیسا ہم نے تم کو پہلی دفعہ پیدا کیا تھا ایسا ہی آج اکیلے اکیلے ہمارے پاس آئے اور جو (مال ومتاع) ہم نے تمہیں عطا فرمایا تھا وہ سب اپنی پیٹھ پیچھے چھوڑ آئے اور ہم تمہارے ساتھ تمہارے سفارشیوں کو بھی نہیں دیکھتے جن کی نسبت تم خیال کرتے تھے کہ وہ تمہارے (شفیع اور ہمارے) شریک ہیں۔ (آج) تمہارے آپس کے سب تعلقات منقطع ہوگئے اور جو دعوے تم کیا کرتے تھے سب جاتے رہے
+**English (Yusuf Ali):** "And behold! ye come to us bare and alone as We created you for the first time: ye have left behind you all (the favours) which We bestowed on you: We see not with you your intercessors whom ye thought to be partners in your affairs: so now all relations between you have been cut off, and your (pet) fancies have left you in the lurch!"
 
 [Open on Quran.com](https://quran.com/6/94)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they [i.e., the polytheists] assign to Allāh from that which He created of crops and livestock a share and say, "This is for Allāh," by their claim, "and this is for our 'partners' [associated with Him]." But what is for their "partners" does not reach Allāh, while what is for Allāh - this reaches their "partners." Evil is that which they rule.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (یہ لوگ) خدا ہی کی پیدا کی ہوئی چیزوں یعنی کھیتی اور چوپایوں میں خدا کا بھی ایک حصہ مقرر کرتے ہیں اور اپنے خیال (باطل) سے کہتے ہیں کہ یہ (حصہ) تو خدا کا اور یہ ہمارے شریکوں (یعنی بتوں) کا تو جو حصہ ان کے شریکوں کا ہوتا ہے وہ تو خدا کی طرف نہیں جا سکتا اور جو حصہ خدا کا ہوتا ہے وہ ان کے شریکوں کی طرف جا سکتا ہے یہ کیسا برا انصاف ہے
+**English (Yusuf Ali):** Out of what Allah hath produced in abundance in tilth and in cattle, they assigned Him a share: they say, according to their fancies: "This is for Allah, and this" - for our "partners"! but the share of their" partners "reacheth not Allah, whilst the share of Allah reacheth their "partners"! evil (and unjust) is their assignment!
 
 [Open on Quran.com](https://quran.com/6/136)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "These animals and crops are forbidden; no one may eat from them except whom we will," by their claim. And there are those [camels] whose backs are forbidden [by them] and those upon which the name of Allāh is not mentioned - [all of this] an invention of untruth about Him. He will punish them for what they were inventing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے خیال سے یہ بھی کہتے ہیں کہ یہ چارپائے اور کھیتی منع ہے اسے اس شخص کے سوا جسے ہم چاہیں کوئی نہ کھائے اور (بعض) چارپائے ایسے ہیں کہ ان کی پیٹ پر چڑھنا منع کر دیا گیا ہے اور بعض مویشی ایسے ہیں جن پر (ذبح کرتے وقت) خدا کا نام نہیں لیتے سب خدا پر جھوٹ ہے وہ عنقریب ان کو ان کے جھوٹ کا بدلہ دے گا
+**English (Yusuf Ali):** And they say that such and such cattle and crops are taboo, and none should eat of them except those whom - so they say - We wish; further, there are cattle forbidden to yoke or burden, and cattle on which, (at slaughter), the name of Allah is not pronounced; - inventions against Allah's name: soon will He requite them for their inventions.
 
 [Open on Quran.com](https://quran.com/6/138)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Invoke those you have claimed [as gods] besides Him, for they do not possess the [ability for] removal of adversity from you or [for its] transfer [to someone else]."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ (مشرکو) جن لوگوں کی نسبت تمہیں (معبود ہونے کا) گمان ہے ان کو بلا کر دیکھو۔ وہ تم سے تکلیف کے دور کرنے یا اس کے بدل دینے کا کچھ بھی اختیار نہیں رکھتے
+**English (Yusuf Ali):** Say: "Call on those - besides Him - whom ye fancy: they have neither the power to remove your troubles from you nor to change them."
 
 [Open on Quran.com](https://quran.com/17/56)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or you make the heaven fall upon us in fragments as you have claimed or you bring Allāh and the angels before [us]
 
-**Urdu (Fatah Muhammad Jalandhari):** یا جیسا تم کہا کرتے ہو ہم پر آسمان کے ٹکڑے لا گراؤ یا خدا اور فرشتوں کو (ہمارے) سامنے لاؤ
+**English (Yusuf Ali):** "Or thou cause the sky to fall in pieces, as thou sayest (will happen), against us; or thou bring Allah and the angels before (us) face to face:
 
 [Open on Quran.com](https://quran.com/17/92)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will be presented before your Lord in rows, [and He will say], "You have certainly come to Us just as We created you the first time. But you claimed that We would never make for you an appointment."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور سب تمہارے پروردگار کے سامنے صف باندھ کر لائے جائیں گے (تو ہم ان سے کہیں گے کہ) جس طرح ہم نے تم کو پہلی بار پیدا کیا تھا (اسی طرح آج) تم ہمارے سامنے آئے لیکن تم نے تو یہ خیال کر رکھا تھا کہ ہم نے تمہارے لئے (قیامت کا) کوئی وقت مقرر ہی نہیں کیا
+**English (Yusuf Ali):** And they will be marshalled before thy Lord in ranks, (with the announcement), "Now have ye come to Us (bare) as We created you first: aye, ye thought We shall not fulfil the appointment made to you to meet (Us)!":
 
 [Open on Quran.com](https://quran.com/18/48)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [warn of] the Day when He will say, "Call My 'partners' whom you claimed," and they will invoke them, but they will not respond to them. And We will put between them [a valley of] destruction.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس دن خدا فرمائے گا کہ (اب) میرے شریکوں کو جن کی نسبت تم گمان (الوہیت) رکھتے تھے بلاؤ تو وہ ان کے بلائیں گے مگر وہ ان کو کچھ جواب نہ دیں گے۔ اور ہم ان کے بیچ میں ایک ہلاکت کی جگہ بنادیں گے
+**English (Yusuf Ali):** One Day He will say, "Call on those whom ye thought to be My partners," and they will call on them, but they will not listen to them; and We shall make for them a place of common perdition.
 
 [Open on Quran.com](https://quran.com/18/52)
 
@@ -189,7 +189,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [warn of] the Day He will call them and say, "Where are My 'partners' which you used to claim?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس روز خدا اُن کو پکارے گا اور کہے گا کہ میرے وہ شریک کہاں ہیں جن کا تمہیں دعویٰ تھا
+**English (Yusuf Ali):** That Day (Allah) will call to them, and say "Where are my 'partners'?- whom ye imagined (to be such)?"
 
 [Open on Quran.com](https://quran.com/28/62)
 

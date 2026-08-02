@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:45 · [[003 Ali Imran]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [And mention] when the angels said, "O Mary, indeed Allāh gives you good tidings of a word from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** (وہ وقت بھی یاد کرنے کے لائق ہے) جب فرشتوں نے (مریم سے کہا) کہ مریم خدا تم کو اپنی طرف سے ایک فیض کی بشارت دیتا ہے جس کا نام مسیح (اور مشہور) عیسیٰ ابن مریم ہوگا (اور) جو دنیا اور آخرت میں باآبرو اور (خدا کے) خاصوں میں سے ہوگا
+**English (Yusuf Ali):** Behold! the angels said: "O Mary! Allah giveth thee glad tidings of a Word from Him: his name will be Christ Jesus, the son of Mary, held in honour in this world and the Hereafter and of (the company of) those nearest to Allah;
 
 [Open on Quran.com](https://quran.com/3/45)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Never would the Messiah disdain to be a servant of Allāh, nor would the angels near [to Him]. And whoever disdains His worship and is arrogant - He will gather them to Himself all together.
 
-**Urdu (Fatah Muhammad Jalandhari):** مسیح اس بات سے عار نہیں رکھتے کہ خدا کے بندے ہوں اور نہ مقرب فرشتے (عار رکھتے ہیں) اور جو شخص خدا کا بندہ ہونے کو موجب عار سمجھے اور سرکشی کرے تو خدا سب کو اپنے پاس جمع کرلے گا
+**English (Yusuf Ali):** Christ disdaineth nor to serve and worship Allah, nor do the angels, those nearest (to Allah): those who disdain His worship and are arrogant,-He will gather them all together unto Himself to (answer).
 
 [Open on Quran.com](https://quran.com/4/172)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "Yes, and, [moreover], you will be among those made near [to me]."
 
-**Urdu (Fatah Muhammad Jalandhari):** (فرعون نے) کہا ہاں (ضرور) اور (اس کے علاوہ) تم مقربوں میں داخل کرلیے جاؤ گے
+**English (Yusuf Ali):** He said: "Yea, (and more),- for ye shall in that case be (raised to posts) nearest (to my person)."
 
 [Open on Quran.com](https://quran.com/7/114)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "Yes, and indeed, you will then be of those near [to me]."
 
-**Urdu (Fatah Muhammad Jalandhari):** فرعون نے کہا ہاں اور تم مقربوں میں بھی داخل کرلئے جاؤ گے
+**English (Yusuf Ali):** He said: "Yea, (and more),- for ye shall in that case be (raised to posts) nearest (to my person)."
 
 [Open on Quran.com](https://quran.com/26/42)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those are the ones brought near [to Allāh]
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی (خدا کے) مقرب ہیں
+**English (Yusuf Ali):** These will be those Nearest to Allah:
 
 [Open on Quran.com](https://quran.com/56/11)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if he [i.e., the deceased] was of those brought near [to Allāh],
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اگر وہ (خدا کے) مقربوں میں سے ہے
+**English (Yusuf Ali):** Thus, then, if he be of those Nearest to Allah,
 
 [Open on Quran.com](https://quran.com/56/88)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Which is witnessed by those brought near [to Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** جس کے پاس مقرب (فرشتے) حاضر رہتے ہیں
+**English (Yusuf Ali):** To which bear witness those Nearest (to Allah).
 
 [Open on Quran.com](https://quran.com/83/21)
 
@@ -155,7 +155,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** A spring from which those near [to Allāh] drink.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ ایک چشمہ ہے جس میں سے (خدا کے) مقرب پیئیں گے
+**English (Yusuf Ali):** A spring, from (the waters) whereof drink those Nearest to Allah.
 
 [Open on Quran.com](https://quran.com/83/28)
 

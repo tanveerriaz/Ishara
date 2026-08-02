@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 19:11 · [[019 Maryam]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So he came out to his people from the prayer chamber and signaled to them to exalt [Allāh] in the morning and afternoon.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر وہ (عبادت کے) حجرے سے نکل کر اپنی قوم کے پاس آئے تو ان سے اشارے سے کہا کہ صبح وشام (خدا کو) یاد کرتے رہو
+**English (Yusuf Ali):** So Zakariya came out to his people from him chamber: He told them by signs to celebrate Allah's praises in the morning and in the evening.
 
 [Open on Quran.com](https://quran.com/19/11)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will not hear therein any ill speech - only [greetings of] peace - and they will have their provision therein, morning and afternoon.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ اس میں سلام کے سوا کوئی بیہودہ کلام نہ سنیں گے، اور ان کے لئے صبح وشام کا کھانا تیار ہوگا
+**English (Yusuf Ali):** They will not there hear any vain discourse, but only salutations of Peace: And they will have therein their sustenance, morning and evening.
 
 [Open on Quran.com](https://quran.com/19/62)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "Legends of the former peoples which he has written down, and they are dictated to him morning and afternoon."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ یہ پہلے لوگوں کی کہانیاں ہیں جس کو اس نے لکھ رکھا ہے اور وہ صبح وشام اس کو پڑھ پڑھ کر سنائی جاتی ہیں
+**English (Yusuf Ali):** And they say: "Tales of the ancients, which he has caused to be written: and they are dictated before him morning and evening."
 
 [Open on Quran.com](https://quran.com/25/5)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And exalt Him morning and afternoon.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور صبح اور شام اس کی پاکی بیان کرتے رہو
+**English (Yusuf Ali):** And glorify Him morning and evening.
 
 [Open on Quran.com](https://quran.com/33/42)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That you [people] may believe in Allāh and His Messenger and honor him and respect him [i.e., the Prophet (ﷺ)] and exalt Him [i.e., Allāh] morning and afternoon.
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ (مسلمانو) تم لوگ خدا پر اور اس کے پیغمبر پر ایمان لاؤ اور اس کی مدد کرو اور اس کو بزرگ سمجھو۔ اور صبح وشام اس کی تسبیح کرتے رہو
+**English (Yusuf Ali):** In order that ye (O men) may believe in Allah and His Messenger, that ye may assist and honour Him, and celebrate His praise morning and evening.
 
 [Open on Quran.com](https://quran.com/48/9)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there came upon them by morning an abiding punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان پر صبح سویرے ہی اٹل عذاب آ نازل ہوا
+**English (Yusuf Ali):** Early on the morrow an abiding Punishment seized them:
 
 [Open on Quran.com](https://quran.com/54/38)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And mention the name of your Lord [in prayer] morning and evening
 
-**Urdu (Fatah Muhammad Jalandhari):** اور صبح وشام اپنے پروردگار کا نام لیتے رہو
+**English (Yusuf Ali):** And celebrate the name of thy Lord morning and evening,
 
 [Open on Quran.com](https://quran.com/76/25)
 

@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:2 · [[002 Al-Baqarah]]
 
@@ -51,7 +51,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** This is the Book about which there is no doubt, a guidance for those conscious of Allāh -
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ کتاب (قرآن مجید) اس میں کچھ شک نہیں (کہ کلامِ خدا ہے۔ خدا سے) ڈرنے والوں کی رہنما ہے
+**English (Yusuf Ali):** This is the Book; in it is guidance sure, without doubt, to those who fear Allah;
 
 [Open on Quran.com](https://quran.com/2/2)
 
@@ -67,7 +67,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you are in doubt about what We have sent down [i.e., the Qur’ān] upon Our Servant [i.e., Prophet Muḥammad (ﷺ)], then produce a sūrah the like thereof and call upon your witnesses [i.e., supporters] other than Allāh, if you should be truthful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو اس (کتاب) میں، جو ہم نے اپنے بندے (محمدﷺ عربی) پر نازل فرمائی ہے کچھ شک ہو تو اسی طرح کی ایک سورت تم بھی بنا لاؤ اور خدا کے سوا جو تمہارے مددگار ہوں ان کو بھی بلالو اگر تم سچے ہو
+**English (Yusuf Ali):** And if ye are in doubt as to what We have revealed from time to time to Our servant, then produce a Sura like thereunto; and call your witnesses or helpers (If there are any) besides Allah, if your (doubts) are true.
 
 [Open on Quran.com](https://quran.com/2/23)
 
@@ -83,7 +83,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Our Lord, surely You will gather the people for a Day about which there is no doubt. Indeed, Allāh does not fail in His promise."
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار! تو اس روز جس (کے آنے) میں کچھ بھی شک نہیں سب لوگوں کو (اپنے حضور میں) جمع کرلے گا بے شک خدا خلاف وعدہ نہیں کرتا
+**English (Yusuf Ali):** "Our Lord! Thou art He that will gather mankind Together against a day about which there is no doubt; for Allah never fails in His promise."
 
 [Open on Quran.com](https://quran.com/3/9)
 
@@ -99,7 +99,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So how will it be when We assemble them for a Day about which there is no doubt? And each soul will be compensated [in full for] what it earned, and they will not be wronged.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو اس وقت کیا حال ہوگا جب ہم ان کو جمع کریں گے (یعنی) اس روز جس (کے آنے) میں کچھ بھی شک نہیں اور ہر نفس اپنے اعمال کا پورا پورا بدلہ پائے گا اور ان پر ظلم نہیں کیا جائے گا
+**English (Yusuf Ali):** But how (will they fare) when we gather them together against a day about which there is no doubt, and each soul will be paid out just what it has earned, without (favour or) injustice?
 
 [Open on Quran.com](https://quran.com/3/25)
 
@@ -115,7 +115,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh - there is no deity except Him. He will surely assemble you for [account on] the Day of Resurrection, about which there is no doubt. And who is more truthful than Allāh in statement.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا (وہ معبود برحق ہے کہ) اس کے سوا کوئی عبادت کے لائق نہیں وہ قیامت کے دن تم سب کو ضرور جمع کرے گا اور خدا سے بڑھ کر بات کا سچا کون ہے؟
+**English (Yusuf Ali):** Allah! There is no god but He: of a surety He will gather you together against the Day of Judgment, about which there is no doubt. And whose word can be truer than Allah's?
 
 [Open on Quran.com](https://quran.com/4/87)
 
@@ -131,7 +131,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "To whom belongs whatever is in the heavens and earth?" Say, "To Allāh." He has decreed upon Himself mercy. He will surely assemble you for the Day of Resurrection, about which there is no doubt. Those who will lose themselves [that Day] do not believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** (ان سے) پوچھو کہ آسمان اور زمین میں جو کچھ ہے کس کا ہے کہہ دو خدا کا اس نے اپنی ذات (پاک) پر رحمت کو لازم کر لیا ہے وہ تم سب کو قیامت کے دن جس میں کچھ بھی شک نہیں ضرور جمع کرے گا جن لوگوں نے اپنے تیئیں نقصان میں ڈال رکھا ہے وہ ایمان نہیں لاتے
+**English (Yusuf Ali):** Say: "To whom belongeth all that is in the heavens and on earth?" Say: "To Allah. He hath inscribed for Himself (the rule of) Mercy. That He will gather you together for the Day of Judgment, there is no doubt whatever. It is they who have lost their own souls, that will not believe.
 
 [Open on Quran.com](https://quran.com/6/12)
 
@@ -147,7 +147,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Only those would ask permission of you who do not believe in Allāh and the Last Day and whose hearts have doubted, and they, in their doubt, are hesitating.
 
-**Urdu (Fatah Muhammad Jalandhari):** اجازت وہی لوگ مانگتے ہیں جو خدا پر اور پچھلے دن پر ایمان نہیں رکھتے اور ان کے دل شک میں پڑے ہوئے ہیں۔ سو وہ اپنے شک میں ڈانواں ڈول ہو رہے ہیں
+**English (Yusuf Ali):** Only those ask thee for exemption who believe not in Allah and the Last Day, and whose hearts are in doubt, so that they are tossed in their doubts to and fro.
 
 [Open on Quran.com](https://quran.com/9/45)
 
@@ -163,7 +163,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it was not [possible] for this Qur’ān to be produced by other than Allāh, but [it is] a confirmation of what was before it and a detailed explanation of the [former] Scripture, about which there is no doubt, from the Lord of the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ قرآن ایسا نہیں کہ خدا کے سوا کوئی اس کو اپنی طرف سے بنا لائے۔ ہاں (ہاں یہ خدا کا کلام ہے) جو (کتابیں) اس سے پہلے (کی) ہیں۔ ان کی تصدیق کرتا ہے اور ان ہی کتابوں کی (اس میں) تفصیل ہے اس میں کچھ شک نہیں (کہ) یہ رب العالمین کی طرف سے (نازل ہوا) ہے
+**English (Yusuf Ali):** This Qur'an is not such as can be produced by other than Allah; on the contrary it is a confirmation of (revelations) that went before it, and a fuller explanation of the Book - wherein there is no doubt - from the Lord of the worlds.
 
 [Open on Quran.com](https://quran.com/10/37)
 
@@ -179,7 +179,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they not see that Allāh, who created the heavens and earth, is [the one] Able to create the likes of them? And He has appointed for them a term, about which there is no doubt. But the wrongdoers refuse except disbelief.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ خدا جس نے آسمانوں اور زمین کو پیدا کیا ہے اس بات پر قادر ہے کہ ان جیسے (لوگ) پیدا کردے۔ اور اس نے ان کے لئے ایک وقت مقرر کر دیا ہے جس میں کچھ بھی شک نہیں۔ تو ظالموں نے انکار کرنے کے سوا (اسے) قبول نہ کیا
+**English (Yusuf Ali):** See they not that Allah, Who created the heavens and the earth, has power to create the like of them (anew)? Only He has decreed a term appointed, of which there is no doubt. But the unjust refuse (to receive it) except with ingratitude.
 
 [Open on Quran.com](https://quran.com/17/99)
 
@@ -195,7 +195,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And similarly, We caused them to be found that they [who found them] would know that the promise of Allāh is truth and that of the Hour there is no doubt. [That was] when they disputed among themselves about their affair and [then] said, "Construct over them a structure. Their Lord is most knowing about them." Said those who prevailed in the matter, "We will surely take [for ourselves] over them a masjid."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے (لوگوں کو) ان (کے حال) سے خبردار کردیا تاکہ وہ جانیں کہ خدا کا وعدہ سچا ہے اور یہ کہ قیامت (جس کا وعدہ کیا جاتا ہے) اس میں کچھ شک نہیں۔ اس وقت لوگ ان کے بارے میں باہم جھگڑنے لگے اور کہنے لگے کہ ان (کے غار) پر عمارت بنا دو۔ ان کا پروردگار ان (کے حال) سے خوب واقف ہے۔ جو لوگ ان کے معاملے میں غلبہ رکھتے تھے وہ کہنے لگے کہ ہم ان (کے غار) پر مسجد بنائیں گے
+**English (Yusuf Ali):** Thus did We make their case known to the people, that they might know that the promise of Allah is true, and that there can be no doubt about the Hour of Judgment. Behold, they dispute among themselves as to their affair. (Some) said, "Construct a building over them": Their Lord knows best about them: those who prevailed over their affair said, "Let us surely build a place of worship over them."
 
 [Open on Quran.com](https://quran.com/18/21)
 

@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:266 · [[002 Al-Baqarah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Would one of you like to have a garden of palm trees and grapevines underneath which rivers flow in which he has from every fruit? But he is afflicted with old age and has weak [i.e., immature] offspring, and it is hit by a whirlwind containing fire and is burned. Thus does Allāh make clear to you [His] verses that you might give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تم میں کوئی یہ چاہتا ہے کہ اس کا کھجوروں اور انگوروں کا باغ ہو جس میں نہریں بہہ رہی ہوں اور اس میں اس کے لئے ہر قسم کے میوے موجود ہوں اور اسے بڑھاپا آپکڑے اور اس کے ننھے ننھے بچے بھی ہوں۔ تو (ناگہاں) اس باغ پر آگ کا بھرا ہوا بگولا چلے اور وہ جل کر (راکھ کا ڈھیر ہو) جائے۔ اس طرح خدا تم سے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم سوچو (اور سمجھو)
+**English (Yusuf Ali):** Does any of you wish that he should have a garden with date-palms and vines and streams flowing underneath, and all kinds of fruit, while he is stricken with old age, and his children are not strong (enough to look after themselves)- that it should be caught in a whirlwind, with fire therein, and be burnt up? Thus doth Allah make clear to you (His) Signs; that ye may consider.
 
 [Open on Quran.com](https://quran.com/2/266)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, when you contract a debt for a specified term, write it down. And let a scribe write [it] between you in justice. Let no scribe refuse to write as Allāh has taught him. So let him write and let the one who has the obligation [i.e., the debtor] dictate. And let him fear Allāh, his Lord, and not leave anything out of it. But if the one who has the obligation is of limited understanding or weak or unable to dictate himself, then let his guardian dictate in justice. And bring to witness two witnesses from among your men. And if there are not two men [available], then a man and two women from those whom you accept as witnesses - so that if one of them [i.e., the women] errs, then the other can remind her. And let not the witnesses refuse when they are called upon. And do not be [too] weary to write it, whether it is small or large, for its [specified] term. That is more just in the sight of Allāh and stronger as evidence and more likely to prevent doubt between you, except when it is an immediate transaction which you conduct among yourselves. For [then] there is no blame upon you if you do not write it. And take witnesses when you conclude a contract. Let no scribe be harmed or any witness. For if you do so, indeed, it is [grave] disobedience in you. And fear Allāh. And Allāh teaches you. And Allāh is Knowing of all things.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم آپس میں کسی میعاد معین کے لئے قرض کا معاملہ کرنے لگو تو اس کو لکھ لیا کرو اور لکھنے والا تم میں (کسی کا نقصان نہ کرے بلکہ) انصاف سے لکھے نیز لکھنے والا جیسا اسے خدا نے سکھایا ہے لکھنے سے انکار بھی نہ کرے اور دستاویز لکھ دے۔ اور جو شخص قرض لے وہی (دستاویز کا) مضمون بول کر لکھوائے اور خدا سے کہ اس کا مالک ہے خوف کرے اور زر قرض میں سے کچھ کم نہ لکھوائے۔ اور اگر قرض لینے والا بےعقل یا ضعیف ہو یا مضمون لکھوانے کی قابلیت نہ رکھتا ہو تو جو اس کا ولی ہو وہ انصاف کے ساتھ مضمون لکھوائے۔ اور اپنے میں سے دو مردوں کو (ایسے معاملے کے) گواہ کرلیا کرو۔ اور اگر دو مرد نہ ہوں تو ایک مرد اور دو عورتیں جن کو تم گواہ پسند کرو (کافی ہیں) کہ اگر ان میں سے ایک بھول جائے گی تو دوسری اسے یاد دلادے گی۔ اور جب گواہ (گواہی کے لئے طلب کئے جائیں تو انکار نہ کریں۔ اور قرض تھوڑا ہو یا بہت اس (کی دستاویز) کے لکھنے میں کاہلی نہ کرنا۔ یہ بات خدا کے نزدیک نہایت قرین انصاف ہے اور شہادت کے لئے بھی یہ بہت درست طریقہ ہے۔ اس سے تمہیں کسی طرح کا شک وہ شبہ بھی نہیں پڑے گا۔ ہاں اگر سودا دست بدست ہو جو تم آپس میں لیتے دیتے ہو تو اگر (ایسے معاملے کی) دستاویز نہ لکھوتو تم پر کچھ گناہ نہیں۔ اور جب خرید وفروخت کیا کرو تو بھی گواہ کرلیا کرو۔ اور کاتب دستاویز اور گواہ (معاملہ کرنے والوں کا) کسی طرح نقصان نہ کریں۔ اگر تم (لوگ) ایسا کرو تو یہ تمہارے لئے گناہ کی بات ہے۔ اور خدا سے ڈرو اور (دیکھو کہ) وہ تم کو (کیسی مفید باتیں) سکھاتا ہے اور خدا ہر چیز سے واقف ہے
+**English (Yusuf Ali):** O ye who believe! When ye deal with each other, in transactions involving future obligations in a fixed period of time, reduce them to writing Let a scribe write down faithfully as between the parties: let not the scribe refuse to write: as Allah Has taught him, so let him write. Let him who incurs the liability dictate, but let him fear His Lord Allah, and not diminish aught of what he owes. If they party liable is mentally deficient, or weak, or unable Himself to dictate, Let his guardian dictate faithfully, and get two witnesses, out of your own men, and if there are not two men, then a man and two women, such as ye choose, for witnesses, so that if one of them errs, the other can remind her. The witnesses should not refuse when they are called on (For evidence). Disdain not to reduce to writing (your contract) for a future period, whether it be small or big: it is juster in the sight of Allah, More suitable as evidence, and more convenient to prevent doubts among yourselves but if it be a transaction which ye carry out on the spot among yourselves, there is no blame on you if ye reduce it not to writing. But take witness whenever ye make a commercial contract; and let neither scribe nor witness suffer harm. If ye do (such harm), it would be wickedness in you. So fear Allah; For it is Good that teaches you. And Allah is well acquainted with all things. If ye are on a journey, and cannot find a scribe, a pledge with possession (may serve the purpose). And if one of you deposits a thing on trust with another, let the trustee (faithfully) discharge his trust, and let him Fear his Lord conceal not evidence; for whoever conceals it, - his heart is tainted with sin. And Allah knoweth all that ye do.
 
 [Open on Quran.com](https://quran.com/2/282)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Allāh wants to lighten for you [your difficulties]; and mankind was created weak.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا چاہتا ہے کہ تم پر سے بوجھ ہلکا کرے اور انسان (طبعاً) کمزور پیدا ہوا ہے
+**English (Yusuf Ali):** Allah doth wish to lighten your (difficulties): For man was created Weak (in flesh).
 
 [Open on Quran.com](https://quran.com/4/28)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who believe fight in the cause of Allāh, and those who disbelieve fight in the cause of ṭāghūt. So fight against the allies of Satan. Indeed, the plot of Satan has ever been weak.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو مومن ہیں وہ تو خدا کے لئے لڑتے ہیں اور جو کافر ہیں وہ بتوں کے لئے لڑتے ہیں سو تم شیطان کے مددگاروں سے لڑو۔ (اور ڈرو مت) کیونکہ شیطان کا داؤ بودا ہوتا ہے
+**English (Yusuf Ali):** Those who believe fight in the cause of Allah, and those who reject Faith Fight in the cause of Evil: So fight ye against the friends of Satan: feeble indeed is the cunning of Satan.
 
 [Open on Quran.com](https://quran.com/4/76)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There is not upon the weak or upon the ill or upon those who do not find anything to spend any discomfort [i.e., guilt] when they are sincere to Allāh and His Messenger. There is not upon the doers of good any cause [for blame]. And Allāh is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** نہ تو ضعیفوں پر کچھ گناہ ہے اور نہ بیماروں پر نہ ان پر جن کے پاس خرچ موجود نہیں (کہ شریک جہاد نہ ہوں یعنی) جب کہ خدا اور اس کے رسول کے خیراندیش (اور دل سے ان کے ساتھ) ہوں۔ نیکو کاروں پر کسی طرح کا الزام نہیں ہے۔ اور خدا بخشنے والا مہربان ہے
+**English (Yusuf Ali):** There is no blame on those who are infirm, or ill, or who find no resources to spend (on the cause), if they are sincere (in duty) to Allah and His Messenger: no ground (of complaint) can there be against such as do right: and Allah is Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/9/91)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "O Shuʿayb, we do not understand much of what you say, and indeed, we consider you among us as weak. And if not for your family, we would have stoned you [to death]; and you are not to us one respected."
 
-**Urdu (Fatah Muhammad Jalandhari):** اُنہوں نے کہا کہ شعیب تمہاری بہت سی باتیں ہماری سمجھ میں نہیں آتیں اور ہم دیکھتے ہیں کہ تم ہم میں کمزور بھی ہو اور اگر تمہارے بھائی نہ ہوتے تو ہم تم کو سنگسار کر دیتے اور تم ہم پر (کسی طرح بھی) غالب نہیں ہو
+**English (Yusuf Ali):** They said: "O Shu'aib! much of what thou sayest we do not understand! In fact among us we see that thou hast no strength! Were it not for thy family, we should certainly have stoned thee! for thou hast among us no great position!"
 
 [Open on Quran.com](https://quran.com/11/91)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will come out [for judgement] before Allāh all together, and the weak will say to those who were arrogant, "Indeed, we were your followers, so can you avail us anything against the punishment of Allāh?" They will say, "If Allāh had guided us, we would have guided you. It is all the same for us whether we show intolerance or are patient: there is for us no place of escape."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (قیامت کے دن) سب لوگ خدا کے سامنے کھڑے ہوں گے تو ضعیف (العقل متبع اپنے رؤسائے) متکبرین سے کہیں گے کہ ہم تو تمہارے پیرو تھے۔ کیا تم خدا کا کچھ عذاب ہم پر سے دفع کرسکتے ہو۔ وہ کہیں گے کہ اگر خدا ہم کو ہدایت کرتا تو ہم تم کو ہدایت کرتے۔ اب ہم گھبرائیں یا ضد کریں ہمارے حق میں برابر ہے۔ کوئی جگہ (گریز اور) رہائی کی ہمارے لیے نہیں ہے
+**English (Yusuf Ali):** They will all be marshalled before Allah together: then will the weak say to those who were arrogant, "For us, we but followed you; can ye then avail us to all against the wrath of Allah?" They will reply, "If we had received the Guidance of Allah, we should have given it to you: to us it makes no difference (now) whether we rage, or bear (these torments) with patience: for ourselves there is no way of escape."
 
 [Open on Quran.com](https://quran.com/14/21)
 
@@ -155,7 +155,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when they will argue within the Fire, and the weak will say to those who had been arrogant, "Indeed, we were [only] your followers, so will you relieve us of a share of the Fire?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب وہ دوزخ میں جھگڑیں گے تو ادنیٰ درجے کے لوگ بڑے آدمیوں سے کہیں گے کہ ہم تو تمہارے تابع تھے تو کیا تم دوزخ (کے عذاب) کا کچھ حصہ ہم سے دور کرسکتے ہو؟
+**English (Yusuf Ali):** Behold, they will dispute with each other in the Fire! The weak ones (who followed) will say to those who had been arrogant, "We but followed you: Can ye then take (on yourselves) from us some share of the Fire?
 
 [Open on Quran.com](https://quran.com/40/47)
 

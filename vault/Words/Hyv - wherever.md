@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:35 · [[002 Al-Baqarah]]
 
@@ -51,7 +51,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کہا کہ اے آدم تم اور تمہاری بیوی بہشت میں رہو اور جہاں سے چاہو بے روک ٹوک کھاؤ (پیو) لیکن اس درخت کے پاس نہ جانا نہیں تو ظالموں میں (داخل) ہو جاؤ گے
+**English (Yusuf Ali):** We said: "O Adam! dwell thou and thy wife in the Garden; and eat of the bountiful things therein as (where and when) ye will; but approach not this tree, or ye run into harm and transgression."
 
 [Open on Quran.com](https://quran.com/2/35)
 
@@ -67,7 +67,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when We said, "Enter this city [i.e., Jerusalem] and eat from it wherever you will in [ease and] abundance, and enter the gate bowing humbly and say, 'Relieve us of our burdens [i.e., sins].' We will [then] forgive your sins for you, and We will increase the doers of good [in goodness and reward]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے (ان سے) کہا کہ اس گاؤں میں داخل ہو جاؤ اور اس میں جہاں سے چاہو، خوب کھاؤ (پیو) اور (دیکھنا) دروازے میں داخل ہونا تو سجدہ کرنا اور حطة کہنا، ہم تمہارے گناہ معاف کر دیں گے اور نیکی کرنے والوں کو اور زیادہ دیں گے
+**English (Yusuf Ali):** And remember We said: "Enter this town, and eat of the plenty therein as ye wish; but enter the gate with humility, in posture and in words, and We shall forgive you your faults and increase (the portion of) those who do good."
 
 [Open on Quran.com](https://quran.com/2/58)
 
@@ -83,7 +83,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** We have certainly seen the turning of your face, [O Muḥammad], toward the heaven, and We will surely turn you to a qiblah with which you will be pleased. So turn your face [i.e., yourself] toward al-Masjid al-Ḥarām. And wherever you [believers] are, turn your faces [i.e., yourselves] toward it [in prayer]. Indeed, those who have been given the Scripture [i.e., the Jews and the Christians] well know that it is the truth from their Lord. And Allāh is not unaware of what they do.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) ہم تمہارا آسمان کی طرف منہ پھیر پھیر کر دیکھنا دیکھ رہے ہیں۔ سو ہم تم کو اسی قبلے کی طرف جس کو تم پسند کرتے ہو، منہ کرنے کا حکم دیں گے تو اپنا منہ مسجد حرام (یعنی خانہٴ کعبہ) کی طرف پھیر لو۔ اور تم لوگ جہاں ہوا کرو، (نماز پڑھنے کے وقت) اسی مسجد کی طرف منہ کر لیا کرو۔ اور جن لوگوں کو کتاب دی گئی ہے، وہ خوب جانتے ہیں کہ (نیا قبلہ) ان کے پروردگار کی طرف سے حق ہے۔ اور جو کام یہ لوگ کرتے ہیں، خدا ان سے بے خبر نہیں
+**English (Yusuf Ali):** We see the turning of thy face (for guidance to the heavens: now Shall We turn thee to a Qibla that shall please thee. Turn then Thy face in the direction of the sacred Mosque: Wherever ye are, turn your faces in that direction. The people of the Book know well that that is the truth from their Lord. Nor is Allah unmindful of what they do.
 
 [Open on Quran.com](https://quran.com/2/144)
 
@@ -99,7 +99,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So from wherever you go out [for prayer, O Muḥammad], turn your face toward al-Masjid al-Ḥarām, and indeed, it is the truth from your Lord. And Allāh is not unaware of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم جہاں سے نکلو، (نماز میں) اپنا منہ مسجد محترم کی طرف کر لیا کرو بےشک وہ تمہارے پروردگار کی طرف سے حق ہے۔ اور تم لوگ جو کچھ کرتے ہو۔ خدا اس سے بے خبر نہیں
+**English (Yusuf Ali):** From whencesoever Thou startest forth, turn Thy face in the direction of the sacred Mosque; that is indeed the truth from the Lord. And Allah is not unmindful of what ye do.
 
 [Open on Quran.com](https://quran.com/2/149)
 
@@ -115,7 +115,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And from wherever you go out [for prayer], turn your face toward al-Masjid al-Ḥarām. And wherever you [believers] may be, turn your faces toward it in order that the people will not have any argument against you, except for those of them who commit wrong; so fear them not but fear Me. And [it is] so I may complete My favor upon you and that you may be guided,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم جہاں سے نکلو، مسجدِ محترم کی طرف منہ (کرکے نماز پڑھا) کرو۔ اور مسلمانو، تم جہاں ہوا کرو، اسی (مسجد) کی طرف رخ کیا کرو۔ (یہ تاکید) اس لیے (کی گئی ہے) کہ لوگ تم کو کسی طرح کا الزام نہ دے سکیں۔ مگر ان میں سے جو ظالم ہیں، (وہ الزام دیں تو دیں) سو ان سے مت ڈرنا اور مجھی سے ڈرتے رہنا۔ اور یہ بھی مقصود ہے کہ تم کو اپنی تمام نعمتیں بخشوں اور یہ بھی کہ تم راہِ راست پر چلو
+**English (Yusuf Ali):** So from whencesoever Thou startest forth, turn Thy face in the direction of the sacred Mosque; and wheresoever ye are, Turn your face thither: that there be no ground of dispute against you among the people, except those of them that are bent on wickedness; so fear them not, but fear Me; and that I may complete My favours on you, and ye May (consent to) be guided;
 
 [Open on Quran.com](https://quran.com/2/150)
 
@@ -131,7 +131,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And kill them [in battle] wherever you overtake them and expel them from wherever they have expelled you, and fitnah is worse than killing. And do not fight them at al-Masjid al-Ḥarām until they fight you there. But if they fight you, then kill them. Such is the recompense of the disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کو جہاں پاؤ قتل کردو اور جہاں سے انہوں نے تم کو نکالا ہے (یعنی مکے سے) وہاں سے تم بھی ان کو نکال دو۔ اور (دین سے گمراہ کرنے کا) فساد قتل وخونریزی سے کہیں بڑھ کر ہے اور جب تک وہ تم سے مسجد محترم (یعنی خانہ کعبہ) کے پاس نہ لڑیں تم بھی وہاں ان سے نہ لڑنا۔ ہاں اگر وہ تم سے لڑیں تو تم ان کو قتل کرڈالو۔ کافروں کی یہی سزا ہے
+**English (Yusuf Ali):** And slay them wherever ye catch them, and turn them out from where they have Turned you out; for tumult and oppression are worse than slaughter; but fight them not at the Sacred Mosque, unless they (first) fight you there; but if they fight you, slay them. Such is the reward of those who suppress faith.
 
 [Open on Quran.com](https://quran.com/2/191)
 
@@ -147,7 +147,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then depart from the place from where [all] the people depart and ask forgiveness of Allāh. Indeed, Allāh is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر جہاں سے اور لوگ واپس ہوں وہیں سے تم بھی واپس ہو اور خدا سے بخشش مانگو۔ بےشک خدا بخشنے والا اور رحمت کرنے والا ہے
+**English (Yusuf Ali):** Then pass on at a quick pace from the place whence it is usual for the multitude so to do, and ask for Allah's forgiveness. For Allah is Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/199)
 
@@ -163,7 +163,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they ask you about menstruation. Say, "It is harm, so keep away from wives during menstruation. And do not approach them until they are pure. And when they have purified themselves, then come to them from where Allāh has ordained for you. Indeed, Allāh loves those who are constantly repentant and loves those who purify themselves."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم سے حیض کے بارے میں دریافت کرتے ہیں۔ کہہ دو کہ وہ تو نجاست ہے۔ سو ایام حیض میں عورتوں سے کنارہ کش رہو۔ اور جب تک پاک نہ ہوجائیں ان سے مقاربت نہ کرو۔ ہاں جب پاک ہوجائیں تو جس طریق سے خدا نے ارشاد فرمایا ہے ان کے پاس جاؤ۔ کچھ شک نہیں کہ خدا توبہ کرنے والوں اور پاک صاف رہنے والوں کو دوست رکھتا ہے
+**English (Yusuf Ali):** They ask thee concerning women's courses. Say: They are a hurt and a pollution: So keep away from women in their courses, and do not approach them until they are clean. But when they have purified themselves, ye may approach them in any manner, time, or place ordained for you by Allah. For Allah loves those who turn to Him constantly and He loves those who keep themselves pure and clean.
 
 [Open on Quran.com](https://quran.com/2/222)
 
@@ -179,7 +179,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They wish you would disbelieve as they disbelieved so you would be alike. So do not take from among them allies until they emigrate for the cause of Allāh. But if they turn away [i.e., refuse], then seize them and kill them [for their betrayal] wherever you find them and take not from among them any ally or helper,
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ تو یہی چاہتے ہیں کہ جس طرح وہ خود کافر ہیں (اسی طرح) تم بھی کافر ہو کر (سب) برابر ہوجاؤ تو جب تک وہ خدا کی راہ میں وطن نہ چھوڑ جائیں ان میں سے کسی کو دوست نہ بنانا اگر (ترک وطن کو) قبول نہ کریں تو ان کو پکڑ لو اور جہاں پاؤ قتل کردو اور ان میں سے کسی کو اپنا رفیق اور مددگار نہ بناؤ
+**English (Yusuf Ali):** They but wish that ye should reject Faith, as they do, and thus be on the same footing (as they): But take not friends from their ranks until they flee in the way of Allah (From what is forbidden). But if they turn renegades, seize them and slay them wherever ye find them; and (in any case) take no friends or helpers from their ranks;-
 
 [Open on Quran.com](https://quran.com/4/89)
 
@@ -195,7 +195,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** You will find others who wish to obtain security from you and [to] obtain security from their people. Every time they are returned to [the influence of] disbelief, they fall back into it. So if they do not withdraw from you or offer you peace or restrain their hands, then seize them and kill them wherever you overtake them. And those - We have made for you against them a clear authorization.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم کچھ اور لوگ ایسے بھی پاؤ گے جو یہ چاہتے ہیں کہ تم سے بھی امن میں رہیں اور اپنی قوم سے بھی امن میں رہیں لیکن فتنہ انگیزی کو بلائے جائیں تو اس میں اوندھے منہ گر پڑیں تو ایسے لوگ اگر تم سے (لڑنے سے) کنارہ کشی نہ کریں اور نہ تمہاری طرف (پیغام) صلح بھیجیں اور نہ اپنے ہاتھوں کو روکیں تو ان کو پکڑ لو اور جہاں پاؤ قتل کردو ان لوگوں کے مقابلے میں ہم نے تمہارے لئے سند صریح مقرر کردی ہے
+**English (Yusuf Ali):** Others you will find that wish to gain your confidence as well as that of their people: Every time they are sent back to temptation, they succumb thereto: if they withdraw not from you nor give you (guarantees) of peace besides restraining their hands, seize them and slay them wherever ye get them: In their case We have provided you with a clear argument against them.
 
 [Open on Quran.com](https://quran.com/4/91)
 

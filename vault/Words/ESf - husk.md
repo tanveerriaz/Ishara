@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 55:12 · [[055 Ar-Rahman]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And grain having husks and scented plants.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اناج جس کے ساتھ بھس ہوتا ہے اور خوشبودار پھول
+**English (Yusuf Ali):** Also corn, with (its) leaves and stalk for fodder, and sweet-smelling plants.
 
 [Open on Quran.com](https://quran.com/55/12)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the winds that blow violently
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر زور پکڑ کر جھکڑ ہو جاتی ہیں
+**English (Yusuf Ali):** Which then blow violently in tempestuous Gusts,
 
 [Open on Quran.com](https://quran.com/77/2)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And He made them like eaten straw.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان کو ایسا کر دیا جیسے کھایا ہوا بھس
+**English (Yusuf Ali):** Then did He make them like an empty field of stalks and straw, (of which the corn) has been eaten up.
 
 [Open on Quran.com](https://quran.com/105/5)
 

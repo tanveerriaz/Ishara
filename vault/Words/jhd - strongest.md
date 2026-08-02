@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 5:53 · [[005 Al-Maidah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who believe will say, "Are these the ones who swore by Allāh their strongest oaths that indeed they were with you?" Their deeds have become worthless, and they have become losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس (وقت) مسلمان (تعجب سے) کہیں گے کہ کیا یہ وہی ہیں جو خدا کی سخت سخت قسمیں کھایا کرتے تھے کہ ہم تمہارے ساتھ ہیں ان کےعمل اکارت گئے اور وہ خسارے میں پڑ گئے
+**English (Yusuf Ali):** And those who believe will say: "Are these the men who swore their strongest oaths by Allah, that they were with you?" All that they do will be in vain, and they will fall into (nothing but) ruin.
 
 [Open on Quran.com](https://quran.com/5/53)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they swear by Allāh their strongest oaths that if a sign came to them, they would surely believe in it. Say, "The signs are only with [i.e., from] Allāh." And what will make you perceive that even if it [i.e., a sign] came, they would not believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر ان کے پاس کوئی نشانی آئے تو وہ اس پر ضروری ایمان لے آئیں۔ کہہ دو کہ نشانیاں تو سب خدا ہی کے پاس ہیں۔ اور (مومنو!) تمہیں کیا معلوم ہے (یہ تو ایسے بدبخت ہیں کہ ان کے پاس) نشانیاں آ بھی جائیں تب بھی ایمان نہ لائیں
+**English (Yusuf Ali):** They swear their strongest oaths by Allah, that if a (special) sign came to them, by it they would believe. Say: "Certainly (all) signs are in the power of Allah: but what will make you (Muslims) realise that (even) if (special) signs came, they will not believe."?
 
 [Open on Quran.com](https://quran.com/6/109)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who criticize the contributors among the believers concerning [their] charities and [criticize] the ones who find nothing [to spend] except their effort, so they ridicule them - Allāh will ridicule them, and they will have a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو (ذی استطاعت) مسلمان دل کھول کر خیرات کرتے ہیں اور جو (بےچارے غریب صرف اتنا ہی کما سکتے ہیں جتنی مزدوری کرتے (اور تھوڑی سی کمائی میں سے خرچ بھی کرتے) ہیں ان پر جو (منافق) طعن کرتے ہیں اور ہنستے ہیں۔ خدا ان پر ہنستا ہے اور ان کے لیے تکلیف دینے والا عذاب (تیار) ہے
+**English (Yusuf Ali):** Those who slander such of the believers as give themselves freely to (deeds of) charity, as well as such as can find nothing to give except the fruits of their labour,- and throw ridicule on them,- Allah will throw back their ridicule on them: and they shall have a grievous penalty.
 
 [Open on Quran.com](https://quran.com/9/79)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they swear by Allāh their strongest oaths [that] Allāh will not resurrect one who dies. But yes - [it is] a true promise [binding] upon Him, but most of the people do not know.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ خدا کی سخت سخت قسمیں کھاتے ہیں کہ جو مرجاتا ہے خدا اسے (قیامت کے دن قبر سے) نہیں اٹھائے گا۔ ہرگز نہیں۔ یہ (خدا کا) وعدہ سچا ہے اور اس کا پورا کرنا اسے ضرور ہے لیکن اکثر لوگ نہیں جانتے
+**English (Yusuf Ali):** They swear their strongest oaths by Allah, that Allah will not raise up those who die: Nay, but it is a promise (binding) on Him in truth: but most among mankind realise it not.
 
 [Open on Quran.com](https://quran.com/16/38)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they swear by Allāh their strongest oaths that if you ordered them, they would go forth [in Allāh's cause]. Say, "Do not swear. [Such] obedience is known. Indeed, Allāh is [fully] Aware of that which you do."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (یہ) خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر تم ان کو حکم دو تو (سب گھروں سے) نکل کھڑے ہوں۔ کہہ دو کہ قسمیں مت کھاؤ، پسندیدہ فرمانبرداری (درکار ہے)۔ بےشک خدا تمہارے سب اعمال سے خبردار ہے
+**English (Yusuf Ali):** They swear their strongest oaths by Allah that, if only thou wouldst command them, they would leave (their homes). Say: "Swear ye not; Obedience is (more) reasonable; verily, Allah is well acquainted with all that ye do."
 
 [Open on Quran.com](https://quran.com/24/53)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they swore by Allāh their strongest oaths that if a warner came to them, they would be more guided than [any] one of the [previous] nations. But when a warner came to them, it did not increase them except in aversion
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر ان کے پاس کوئی ہدایت کرنے والا آئے تو ہر ایک اُمت سے بڑھ کر ہدایت پر ہوں۔ مگر جب ان کے پاس ہدایت کرنے والا آیا تو اس سے ان کو نفرت ہی بڑھی
+**English (Yusuf Ali):** They swore their strongest oaths by Allah that if a warner came to them, they would follow his guidance better than any (other) of the Peoples: But when a warner came to them, it has only increased their flight (from righteousness),-
 
 [Open on Quran.com](https://quran.com/35/42)
 

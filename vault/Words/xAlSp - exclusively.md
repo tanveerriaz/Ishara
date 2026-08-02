@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:94 · [[002 Al-Baqarah]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "If the home of the Hereafter with Allāh is for you alone and not the [other] people, then wish for death, if you should be truthful."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر آخرت کا گھر اور لوگوں (یعنی مسلمانوں) کے لیے نہیں اور خدا کے نزدیک تمہارے ہی لیے مخصوص ہے تو اگر سچے ہو تو موت کی آرزو تو کرو
+**English (Yusuf Ali):** Say: "If the last Home, with Allah, be for you specially, and not for anyone else, then seek ye for death, if ye are sincere."
 
 [Open on Quran.com](https://quran.com/2/94)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "What is in the bellies of these animals is exclusively for our males and forbidden to our females. But if it is [born] dead, then all of them have shares therein." He will punish them for their description. Indeed, He is Wise and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ بھی کہتے ہیں کہ جو بچہ ان چارپایوں کے پیٹ میں ہے وہ خاص ہمارے مردوں کے لئے ہے اور ہماری عورتوں کو (اس کا کھانا) حرام ہے اور اگر وہ بچہ مرا ہوا ہو تو سب اس میں شریک ہیں (یعنی اسے مرد اور عورتیں سب کھائیں) عنقریب خدا ان کو ان کے ڈھکوسلوں کی سزا دے گا بےشک وہ حکمت والا خبردار ہے
+**English (Yusuf Ali):** They say: "What is in the wombs of such and such cattle is specially reserved (for food) for our men, and forbidden to our women; but if it is still-born, then all have share therein. For their (false) attribution (of superstitions to Allah), He will soon punish them: for He is full of wisdom and knowledge.
 
 [Open on Quran.com](https://quran.com/6/139)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Who has forbidden the adornment of [i.e., from] Allāh which He has produced for His servants and the good [lawful] things of provision?" Say, "They are for those who believed during the life of this world, exclusively [for them] on the Day of Resurrection." Thus do We detail the verses for a people who know.
 
-**Urdu (Fatah Muhammad Jalandhari):** پوچھو تو کہ جو زینت (وآرائش) اور کھانے (پینے) کی پاکیزہ چیزیں خدا نے اپنے بندوں کے لیے پیدا کی ہیں ان کو حرام کس نے کیا ہے؟ کہہ دو کہ یہ چیزیں دنیا کی زندگی میں ایمان والوں کے لیے ہیں اور قیامت کے دن خاص ان ہی کا حصہ ہوں گی۔ اسی طرح خدا اپنی آیتیں سمجھنے والوں کے لیے کھول کھول کر بیان فرماتا ہے
+**English (Yusuf Ali):** Say: Who hath forbidden the beautiful (gifts) of Allah, which He hath produced for His servants, and the things, clean and pure, (which He hath provided) for sustenance? Say: They are, in the life of this world, for those who believe, (and) purely for them on the Day of Judgment. Thus do We explain the signs in detail for those who understand.
 
 [Open on Quran.com](https://quran.com/7/32)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Prophet, indeed We have made lawful to you your wives to whom you have given their due compensation and those your right hand possesses from what Allāh has returned to you [of captives] and the daughters of your paternal uncles and the daughters of your paternal aunts and the daughters of your maternal uncles and the daughters of your maternal aunts who emigrated with you and a believing woman if she gives herself to the Prophet [and] if the Prophet wishes to marry her; [this is] only for you, excluding the [other] believers. We certainly know what We have made obligatory upon them concerning their wives and those their right hands possess, [but this is for you] in order that there will be upon you no discomfort [i.e., difficulty]. And ever is Allāh Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر ہم نے تمہارے لئے تمہاری بیویاں جن کو تم نے ان کے مہر دے دیئے ہیں حلال کردی ہیں اور تمہاری لونڈیاں جو خدا نے تم کو (کفار سے بطور مال غنیمت) دلوائی ہیں اور تمہارے چچا کی بیٹیاں اور تمہاری پھوپھیوں کی بیٹیاں اور تمہارے ماموؤں کی بیٹیاں اور تمہاری خالاؤں کی بیٹیاں جو تمہارے ساتھ وطن چھوڑ کر آئی ہیں (سب حلال ہیں) اور کوئی مومن عورت اگر اپنے تئیں پیغمبر کو بخش دے (یعنی مہر لینے کے بغیر نکاح میں آنا چاہے) بشرطیکہ پیغمبر بھی ان سے نکاح کرنا چاہیں (وہ بھی حلال ہے لیکن) یہ اجازت (اے محمدﷺ) خاص تم ہی کو ہے سب مسلمانوں کو نہیں۔ ہم نے ان کی بیویوں اور لونڈیوں کے بارے میں جو (مہر واجب الادا) مقرر کردیا ہے ہم کو معلوم ہے (یہ) اس لئے (کیا گیا ہے) کہ تم پر کسی طرح کی تنگی نہ رہے۔ اور خدا بخشنے والا مہربان ہے
+**English (Yusuf Ali):** O Prophet! We have made lawful to thee thy wives to whom thou hast paid their dowers; and those whom thy right hand possesses out of the prisoners of war whom Allah has assigned to thee; and daughters of thy paternal uncles and aunts, and daughters of thy maternal uncles and aunts, who migrated (from Makka) with thee; and any believing woman who dedicates her soul to the Prophet if the Prophet wishes to wed her;- this only for thee, and not for the Believers (at large); We know what We have appointed for them as to their wives and the captives whom their right hands possess;- in order that there should be no difficulty for thee. And Allah is Oft-Forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/33/50)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, We chose them for an exclusive quality: remembrance of the home [of the Hereafter].
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم نے ان کو ایک (صفت) خاص (آخرت کے) گھر کی یاد سے ممتاز کیا تھا
+**English (Yusuf Ali):** Verily We did choose them for a special (purpose)- proclaiming the Message of the Hereafter.
 
 [Open on Quran.com](https://quran.com/38/46)
 

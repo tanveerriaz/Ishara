@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:141 · [[006 Al-Anam]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakāh] on the day of its harvest. And be not excessive. Indeed, He does not like those who commit excess.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی تو ہے جس نے باغ پیدا کئے چھتریوں پر چڑھائے ہوئے بھی اور جو چھتریوں پر نہیں چڑھائے ہوئے وہ بھی اور کھجور اور کھیتی جن کے طرح طرح کے پھل ہوتے ہیں اور زیتون اور انار جو (بعض باتوں میں) ایک دوسرے سے ملتے ہیں جب یہ چیزیں پھلیں تو ان کے پھل کھاؤ اور جس دن (پھل توڑو اور کھیتی) کاٹو تو خدا کا حق بھی اس میں سے ادا کرو اور بےجا نہ اڑاؤ کہ خدا بیجا اڑانے والوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** It is He Who produceth gardens, with trellises and without, and dates, and tilth with produce of all kinds, and olives and pomegranates, similar (in kind) and different (in variety): eat of their fruit in their season, but render the dues that are proper on the day that the harvest is gathered. But waste not by excess: for Allah loveth not the wasters.
 
 [Open on Quran.com](https://quran.com/6/141)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if your Lord had willed, He could have made mankind one community; but they will not cease to differ,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تمہارا پروردگار چاہتا تو تمام لوگوں کو ایک ہی جماعت کردیتا لیکن وہ ہمیشہ اختلاف کرتے رہیں گے
+**English (Yusuf Ali):** If thy Lord had so willed, He could have made mankind one people: but they will not cease to dispute.
 
 [Open on Quran.com](https://quran.com/11/118)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [He has subjected] whatever He multiplied for you on the earth of varying colors. Indeed in that is a sign for a people who remember.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو طرح طرح کے رنگوں کی چیزیں اس نے زمین میں پیدا کیں (سب تمہارے زیر فرمان کردیں) نصیحت پکڑنے والوں کے لیے اس میں نشانی ہے
+**English (Yusuf Ali):** And the things on this earth which He has multiplied in varying colours (and qualities): verily in this is a sign for men who celebrate the praises of Allah (in gratitude).
 
 [Open on Quran.com](https://quran.com/16/13)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then eat from all the fruits and follow the ways of your Lord laid down [for you]." There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہر قسم کے میوے کھا۔ اور اپنے پروردگار کے صاف رستوں پر چلی جا۔ اس کے پیٹ سے پینے کی چیز نکلتی ہے جس کے مختلف رنگ ہوتے ہیں اس میں لوگوں (کے کئی امراض) کی شفا ہے۔ بےشک سوچنے والوں کے لیے اس میں بھی نشانی ہے
+**English (Yusuf Ali):** Then to eat of all the produce (of the earth), and find with skill the spacious paths of its Lord: there issues from within their bodies a drink of varying colours, wherein is healing for men: verily in this is a Sign for those who give thought.
 
 [Open on Quran.com](https://quran.com/16/69)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you not see that Allāh sends down rain from the sky, and We produce thereby fruits of varying colors? And in the mountains are tracts, white and red of varying shades and [some] extremely black.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا نے آسمان سے مینہ برسایا۔ تو ہم نے اس سے طرح طرح کے رنگوں کے میوے پیدا کئے۔ اور پہاڑوں میں سفید اور سرخ رنگوں کے قطعات ہیں اور (بعض) کالے سیاہ ہیں
+**English (Yusuf Ali):** Seest thou not that Allah sends down rain from the sky? With it We then bring out produce of various colours. And in the mountains are tracts white and red, of various shades of colour, and black intense in hue.
 
 [Open on Quran.com](https://quran.com/35/27)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And among people and moving creatures and grazing livestock are various colors similarly. Only those fear Allāh, from among His servants, who have knowledge. Indeed, Allāh is Exalted in Might and Forgiving.
 
-**Urdu (Fatah Muhammad Jalandhari):** انسانوں اور جانوروں اور چارپایوں کے بھی کئی طرح کے رنگ ہیں۔ خدا سے تو اس کے بندوں میں سے وہی ڈرتے ہیں جو صاحب علم ہیں۔ بےشک خدا غالب (اور) بخشنے والا ہے
+**English (Yusuf Ali):** And so amongst men and crawling creatures and cattle, are they of various colours. Those truly fear Allah, among His Servants, who have knowledge: for Allah is Exalted in Might, Oft-Forgiving.
 
 [Open on Quran.com](https://quran.com/35/28)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you not see that Allāh sends down rain from the sky and makes it flow as springs [and rivers] in the earth; then He produces thereby crops of varying colors; then they dry and you see them turned yellow; then He makes them [scattered] debris. Indeed in that is a reminder for those of understanding.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا آسمان سے پانی نازل کرتا پھر اس کو زمین میں چشمے بنا کر جاری کرتا پھر اس سے کھیتی اُگاتا ہے جس کے طرح طرح کے رنگ ہوتے ہیں۔ پھر وہ خشک ہوجاتی ہے تو تم اس کو دیکھتے ہو (کہ) زرد (ہوگئی ہے) پھر اسے چورا چورا کر دیتا ہے۔ بےشک اس میں عقل والوں کے لئے نصیحت ہے
+**English (Yusuf Ali):** Seest thou not that Allah sends down rain from the sky, and leads it through springs in the earth? Then He causes to grow, therewith, produce of various colours: then it withers; thou wilt see it grow yellow; then He makes it dry up and crumble away. Truly, in this, is a Message of remembrance to men of understanding.
 
 [Open on Quran.com](https://quran.com/39/21)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, you are in differing speech.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہ (اے اہل مکہ) تم ایک متناقض بات میں (پڑے ہوئے) ہو
+**English (Yusuf Ali):** Truly ye are in a doctrine discordant,
 
 [Open on Quran.com](https://quran.com/51/8)
 
@@ -172,7 +172,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That over which they are in disagreement.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس میں یہ اختلاف کر رہے ہیں
+**English (Yusuf Ali):** About which they cannot agree.
 
 [Open on Quran.com](https://quran.com/78/3)
 

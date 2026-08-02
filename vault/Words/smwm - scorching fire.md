@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 15:27 · [[015 Al-Hijr]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the jinn We created before from scorching fire.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جنوں کو اس سے بھی پہلے بےدھوئیں کی آگ سے پیدا کیا تھا
+**English (Yusuf Ali):** And the Jinn race, We had created before, from the fire of a scorching wind.
 
 [Open on Quran.com](https://quran.com/15/27)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So Allāh conferred favor upon us and protected us from the punishment of the Scorching Fire.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو خدا نے ہم پر احسان فرمایا اور ہمیں لو کے عذاب سے بچا لیا
+**English (Yusuf Ali):** "But Allah has been good to us, and has delivered us from the Penalty of the Scorching Wind.
 
 [Open on Quran.com](https://quran.com/52/27)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [They will be] in scorching fire and scalding water
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی دوزخ کی) لپٹ اور کھولتے ہوئے پانی میں
+**English (Yusuf Ali):** (They will be) in the midst of a Fierce Blast of Fire and in Boiling Water,
 
 [Open on Quran.com](https://quran.com/56/42)
 

@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:99 · [[006 Al-Anam]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who sends down rain from the sky, and We produce thereby the growth of all things. We produce from it greenery from which We produce grains arranged in layers. And from the palm trees - of its emerging fruit are clusters hanging low. And [We produce] gardens of grapevines and olives and pomegranates, similar yet varied. Look at [each of] its fruit when it yields and [at] its ripening. Indeed in that are signs for a people who believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو آسمان سے مینھ برساتا ہے۔ پھر ہم ہی (جو مینھ برساتے ہیں) اس سے ہر طرح کی روئیدگی اگاتے ہیں۔ پھر اس میں سے سبز سبز کونپلیں نکالتے ہیں۔ اور ان کونپلوں میں سے ایک دوسرے کے ساتھ جڑے ہوئے دانے نکالتے ہیں اور کھجور کے گابھے میں سے لٹکتے ہوئے گچھے اور انگوروں کے باغ اور زیتون اور انار جو ایک دوسرے سے ملتے جلتے بھی ہیں۔ اور نہیں بھی ملتے۔ یہ چیزیں جب پھلتی ہیں تو ان کے پھلوں پر اور (جب پکتی ہیں تو) ان کے پکنے پر نظر کرو۔ ان میں ان لوگوں کے لئے جو ایمان لاتے ہیں (قدرت خدا کی بہت سی) نشانیاں ہیں
+**English (Yusuf Ali):** It is He Who sendeth down rain from the skies: with it We produce vegetation of all kinds: from some We produce green (crops), out of which We produce grain, heaped up (at harvest); out of the date-palm and its sheaths (or spathes) (come) clusters of dates hanging low and near: and (then there are) gardens of grapes, and olives, and pomegranates, each similar (in kind) yet different (in variety): when they begin to bear fruit, feast your eyes with the fruit and the ripeness thereof. Behold! in these things there are signs for people who believe.
 
 [Open on Quran.com](https://quran.com/6/99)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakāh] on the day of its harvest. And be not excessive. Indeed, He does not like those who commit excess.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی تو ہے جس نے باغ پیدا کئے چھتریوں پر چڑھائے ہوئے بھی اور جو چھتریوں پر نہیں چڑھائے ہوئے وہ بھی اور کھجور اور کھیتی جن کے طرح طرح کے پھل ہوتے ہیں اور زیتون اور انار جو (بعض باتوں میں) ایک دوسرے سے ملتے ہیں جب یہ چیزیں پھلیں تو ان کے پھل کھاؤ اور جس دن (پھل توڑو اور کھیتی) کاٹو تو خدا کا حق بھی اس میں سے ادا کرو اور بےجا نہ اڑاؤ کہ خدا بیجا اڑانے والوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** It is He Who produceth gardens, with trellises and without, and dates, and tilth with produce of all kinds, and olives and pomegranates, similar (in kind) and different (in variety): eat of their fruit in their season, but render the dues that are proper on the day that the harvest is gathered. But waste not by excess: for Allah loveth not the wasters.
 
 [Open on Quran.com](https://quran.com/6/141)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And present to them an example of two men: We granted to one of them two gardens of grapevines, and We bordered them with palm trees and placed between them [fields of] crops.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان سے دو شخصوں کا حال بیان کرو جن میں سے ایک ہم نے انگور کے دو باغ (عنایت) کئے تھے اور ان کے گردا گرد کھجوروں کے درخت لگا دیئے تھے اور ان کے درمیان کھیتی پیدا کردی تھی
+**English (Yusuf Ali):** Set forth to them the parable of two men: for one of them We provided two gardens of grape-vines and surrounded them with date palms; in between the two We placed corn-fields.
 
 [Open on Quran.com](https://quran.com/18/32)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Pharaoh] said, "You believed him [i.e., Moses] before I gave you permission. Indeed, he is your leader who has taught you magic. So I will surely cut off your hands and your feet on opposite sides, and I will crucify you on the trunks of palm trees, and you will surely know which of us is more severe in [giving] punishment and more enduring."
 
-**Urdu (Fatah Muhammad Jalandhari):** (فرعون) بولا کہ پیشتر اس کے میں تمہیں اجازت دوں تم اس پر ایمان لے آئے۔ بےشک وہ تمہارا بڑا (یعنی استاد) ہے جس نے تم کو جادو سکھایا ہے۔ سو میں تمہارے ہاتھ اور پاؤں (جانب) خلاف سے کٹوا دوں گا اور کھجور کے تنوں پر سولی چڑھوا دوں گا (اس وقت) تم کو معلوم ہوگا کہ ہم میں سے کس کا عذاب زیادہ سخت اور دیر تک رہنے والا ہے
+**English (Yusuf Ali):** (Pharaoh) said: "Believe ye in Him before I give you permission? Surely this must be your leader, who has taught you magic! be sure I will cut off your hands and feet on opposite sides, and I will have you crucified on trunks of palm-trees: so shall ye know for certain, which of us can give the more severe and the more lasting punishment!"
 
 [Open on Quran.com](https://quran.com/20/71)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And fields of crops and palm trees with softened fruit?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کھیتیاں اور کھجوریں جن کے خوشے لطیف ونازک ہوتے ہیں
+**English (Yusuf Ali):** "And corn-fields and date-palms with spathes near breaking (with the weight of fruit)?
 
 [Open on Quran.com](https://quran.com/26/148)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And lofty palm trees having fruit arranged in layers -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور لمبی لمبی کھجوریں جن کا گابھا تہہ بہ تہہ ہوتا ہے
+**English (Yusuf Ali):** And tall (and stately) palm-trees, with shoots of fruit-stalks, piled one over another;-
 
 [Open on Quran.com](https://quran.com/50/10)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Extracting the people as if they were trunks of palm trees uprooted.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ لوگوں کو (اس طرح) اکھیڑے ڈالتی تھی گویا اکھڑی ہوئی کھجوروں کے تنے ہیں
+**English (Yusuf Ali):** Plucking out men as if they were roots of palm-trees torn up (from the ground).
 
 [Open on Quran.com](https://quran.com/54/20)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Therein is fruit and palm trees having sheaths [of dates]
 
-**Urdu (Fatah Muhammad Jalandhari):** اس میں میوے اور کھجور کے درخت ہیں جن کے خوشوں پر غلاف ہوتے ہیں
+**English (Yusuf Ali):** Therein is fruit and date-palms, producing spathes (enclosing dates);
 
 [Open on Quran.com](https://quran.com/55/11)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In both of them are fruit and palm trees and pomegranates.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان میں میوے اور کھجوریں اور انار ہیں
+**English (Yusuf Ali):** In them will be Fruits, and dates and pomegranates:
 
 [Open on Quran.com](https://quran.com/55/68)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Which He [i.e., Allāh] imposed upon them for seven nights and eight days in succession, so you would see the people therein fallen as if they were hollow trunks of palm trees.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے اس کو سات رات اور آٹھ دن لگاتار ان پر چلائے رکھا تو (اے مخاطب) تو لوگوں کو اس میں (اس طرح) ڈھئے (اور مرے) پڑے دیکھے جیسے کھجوروں کے کھوکھلے تنے
+**English (Yusuf Ali):** He made it rage against them seven nights and eight days in succession: so that thou couldst see the (whole) people lying prostrate in its (path), as they had been roots of hollow palm-trees tumbled down!
 
 [Open on Quran.com](https://quran.com/69/7)
 

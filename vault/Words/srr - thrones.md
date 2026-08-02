@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 15:47 · [[015 Al-Hijr]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں میں جو کدورت ہوگی ان کو ہم نکال کر (صاف کر) دیں گے (گویا) بھائی بھائی تختوں پر ایک دوسرے کے سامنے بیٹھے ہوئے ہیں
+**English (Yusuf Ali):** And We shall remove from their hearts any lurking sense of injury: (they will be) brothers (joyfully) facing each other on thrones (of dignity).
 
 [Open on Quran.com](https://quran.com/15/47)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** On thrones facing one another.
 
-**Urdu (Fatah Muhammad Jalandhari):** ایک دوسرے کے سامنے تختوں پر (بیٹھے ہوں گے)
+**English (Yusuf Ali):** Facing each other on Thrones (of Dignity):
 
 [Open on Quran.com](https://quran.com/37/44)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And for their houses - doors and couches [of silver] upon which to recline
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے گھروں کے دروازے بھی اور تخت بھی جن پر تکیہ لگاتے ہیں
+**English (Yusuf Ali):** And (silver) doors to their houses, and thrones (of silver) on which they could recline,
 
 [Open on Quran.com](https://quran.com/43/34)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will be reclining on thrones lined up, and We will marry them to fair women with large, [beautiful] eyes.
 
-**Urdu (Fatah Muhammad Jalandhari):** تختوں پر جو برابر برابر بچھے ہوئے ہیں تکیہ لگائے ہوئے اور بڑی بڑی آنکھوں والی حوروں سے ہم ان کا عقد کر دیں گے
+**English (Yusuf Ali):** They will recline (with ease) on Thrones (of dignity) arranged in ranks; and We shall join them to Companions, with beautiful big and lustrous eyes.
 
 [Open on Quran.com](https://quran.com/52/20)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** On thrones woven [with ornament],
 
-**Urdu (Fatah Muhammad Jalandhari):** (لعل و یاقوت وغیرہ سے) جڑے ہوئے تختوں پر
+**English (Yusuf Ali):** (They will be) on Thrones encrusted (with gold and precious stones),
 
 [Open on Quran.com](https://quran.com/56/15)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Within it are couches raised high
 
-**Urdu (Fatah Muhammad Jalandhari):** وہاں تخت ہوں گے اونچے بچھے ہوئے
+**English (Yusuf Ali):** Therein will be Thrones (of dignity), raised on high,
 
 [Open on Quran.com](https://quran.com/88/13)
 

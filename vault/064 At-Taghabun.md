@@ -14,31 +14,31 @@ The Mutual Disillusion · 18 ayahs
 
 ## Words in this surah (graph)
 
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[xyr - better]] — `خَيْر` · better
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[qAl - say]] — `قالَ` · say
-- [[EZym - great]] — `عَظِيم` · great
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[gyb - unseen]] — `غَيْب` · unseen
+- [[Hsn - good]] — `حُسْن` · good
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[fwz - success]] — `فَوْز` · success
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[Eml - do]] — `عَمِلَ` · do
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[>mr - command]] — `أَمَرَ` · command
+- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
+- [[bEv - we sent]] — `بَعَثَ` · we sent
 - [[ftnp - trial]] — `فِتْنَة` · trial
-- [[zEm - claim]] — `زَعَمَ` · claim
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[gny - free need]] — `غَنِيّ` · free need
-- [[$hAdp - witnessed]] — `شَهادَة` · witnessed
-- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[wqY - save us]] — `وَقَى` · save us
-- [[nwr - light]] — `نُور` · light
-- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[mlk - angels]] — `مَلَك` · angels
-- [[Elm - know]] — `عَلِمَ` · know
-- [[smE - hearing]] — `سَمْع` · hearing
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[allah - God]] — `الله` · God
-- [[qlb - hearts]] — `قَلْب` · hearts
-- [[wld - children]] — `وَلَد` · children
-- [[Sdr - breasts]] — `صَدْر` · breasts
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[EZym - great]] — `عَظِيم` · great
+- [[>Eln - they declare]] — `أَعْلَن` · they declare
+- [[$H - miserly]] — `شُحّ` · miserly
+- [[nhr - rivers]] — `نَهَر` · rivers
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>y - o you]] — `أَيّ` · o you
+- [[jry - flow]] — `جَرَيْ` · flow
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[Hq - truth]] — `حَقّ` · truth
 
 ## Roots
 

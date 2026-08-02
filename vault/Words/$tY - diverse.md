@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 20:53 · [[020 Taha]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [It is He] who has made for you the earth as a bed [spread out] and inserted therein for you roadways and sent down from the sky, rain and produced thereby categories of various plants.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ (وہی تو ہے) جس نے تم لوگوں کے لئے زمین کو فرش بنایا اور اس میں تمہارے لئے رستے جاری کئے اور آسمان سے پانی برسایا۔ پھر اس سے انواع واقسام کی مختلف روئیدگیاں پیدا کیں
+**English (Yusuf Ali):** "He Who has, made for you the earth like a carpet spread out; has enabled you to go about therein by roads (and channels); and has sent down water from the sky." With it have We produced diverse pairs of plants each separate from the others.
 
 [Open on Quran.com](https://quran.com/20/53)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will not fight you all except within fortified cities or from behind walls. Their violence [i.e., enmity] among themselves is severe. You think they are together, but their hearts are diverse. That is because they are a people who do not reason.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ سب جمع ہو کر بھی تم سے (بالمواجہہ) نہیں لڑ سکیں گے مگر بستیوں کے قلعوں میں (پناہ لے کر) یا دیواروں کی اوٹ میں (مستور ہو کر) ان کا آپس میں بڑا رعب ہے۔ تم شاید خیال کرتے ہو کہ یہ اکھٹے (اور ایک جان) ہیں مگر ان کے دل پھٹے ہوئے ہیں یہ اس لئے کہ یہ بےعقل لوگ ہیں
+**English (Yusuf Ali):** They will not fight you (even) together, except in fortified townships, or from behind walls. Strong is their fighting (spirit) amongst themselves: thou wouldst think they were united, but their hearts are divided: that is because they are a people devoid of wisdom.
 
 [Open on Quran.com](https://quran.com/59/14)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, your efforts are diverse.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہ تم لوگوں کی کوششں طرح طرح کی ہے
+**English (Yusuf Ali):** Verily, (the ends) ye strive for are diverse.
 
 [Open on Quran.com](https://quran.com/92/4)
 

@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 14:37 · [[014 Ibrahim]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Our Lord, I have settled some of my descendants in an uncultivated valley near Your sacred House, our Lord, that they may establish prayer. So make hearts among the people incline toward them and provide for them from the fruits that they might be grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار میں نے اپنی اولاد کو میدان (مکہ) میں جہاں کھیتی نہیں تیرے عزت (وادب) والے گھر کے پاس لابسائی ہے۔ اے پروردگار تاکہ یہ نماز پڑھیں تو لوگوں کے دلوں کو ایسا کر دے کہ ان کی طرف جھکے رہیں اور ان کو میوؤں سے روزی دے تاکہ (تیرا) شکر کریں
+**English (Yusuf Ali):** "O our Lord! I have made some of my offspring to dwell in a valley without cultivation, by Thy Sacred House; in order, O our Lord, that they may establish regular Prayer: so fill the hearts of some among men with love towards them, and feed them with fruits: so that they may give thanks.
 
 [Open on Quran.com](https://quran.com/14/37)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, I am your Lord, so remove your sandals. Indeed, you are in the blessed valley of Ṭuwā.
 
-**Urdu (Fatah Muhammad Jalandhari):** میں تو تمہارا پروردگار ہوں تو اپنی جوتیاں اتار دو۔ تم (یہاں) پاک میدان (یعنی) طویٰ میں ہو
+**English (Yusuf Ali):** "Verily I am thy Lord! therefore (in My presence) put off thy shoes: thou art in the sacred valley Tuwa.
 
 [Open on Quran.com](https://quran.com/20/12)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you not see that in every valley they roam
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ وہ ہر وادی میں سر مارتے پھرتے ہیں
+**English (Yusuf Ali):** Seest thou not that they wander distracted in every valley?-
 
 [Open on Quran.com](https://quran.com/26/225)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Until, when they came upon the valley of the ants, an ant said, "O ants, enter your dwellings that you not be crushed by Solomon and his soldiers while they perceive not."
 
-**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ جب چیونٹیوں کے میدان میں پہنچے تو ایک چیونٹی نے کہا کہ چیونٹیوں اپنے اپنے بلوں میں داخل ہو جاؤ ایسا نہ ہو کہ سلیمان اور اس کے لشکر تم کو کچل ڈالیں اور ان کو خبر بھی نہ ہو
+**English (Yusuf Ali):** At length, when they came to a (lowly) valley of ants, one of the ants said: "O ye ants, get into your habitations, lest Solomon and his hosts crush you (under foot) without knowing it."
 
 [Open on Quran.com](https://quran.com/27/18)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But when he came to it, he was called from the right side of the valley in a blessed spot - from the tree, "O Moses, indeed I am Allāh, Lord of the worlds."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب اس کے پاس پہنچے تو میدان کے دائیں کنارے سے ایک مبارک جگہ میں ایک درخت میں سے آواز آئی کہ موسٰی میں تو خدائے رب العالمین ہوں
+**English (Yusuf Ali):** But when he came to the (fire), a voice was heard from the right bank of the valley, from a tree in hallowed ground: "O Moses! Verily I am Allah, the Lord of the Worlds....
 
 [Open on Quran.com](https://quran.com/28/30)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When his Lord called to him in the sacred valley of Ṭuwā,
 
-**Urdu (Fatah Muhammad Jalandhari):** جب اُن کے پروردگار نے ان کو پاک میدان (یعنی) طویٰ میں پکارا
+**English (Yusuf Ali):** Behold, thy Lord did call to him in the sacred valley of Tuwa:-
 
 [Open on Quran.com](https://quran.com/79/16)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [with] Thamūd, who carved out the rocks in the valley?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ثمود کے ساتھ (کیا کیا) جو وادئِ (قریٰ) میں پتھر تراشتے تھے (اور گھر بناتے) تھے
+**English (Yusuf Ali):** And with the Thamud (people), who cut out (huge) rocks in the valley?-
 
 [Open on Quran.com](https://quran.com/89/9)
 

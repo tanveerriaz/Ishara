@@ -41,7 +41,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 1:1 · [[001 Al-Fatihah]]
 
@@ -55,7 +55,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In the name of Allāh, the Entirely Merciful, the Especially Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے
+**English (Yusuf Ali):** In the name of Allah, Most Gracious, Most Merciful.
 
 [Open on Quran.com](https://quran.com/1/1)
 
@@ -71,7 +71,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Entirely Merciful, the Especially Merciful,
 
-**Urdu (Fatah Muhammad Jalandhari):** بڑا مہربان نہایت رحم والا
+**English (Yusuf Ali):** Most Gracious, Most Merciful;
 
 [Open on Quran.com](https://quran.com/1/3)
 
@@ -87,7 +87,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (لوگو) تمہارا معبود خدائے واحد ہے اس بڑے مہربان (اور) رحم کرنے کے سوا کوئی عبادت کے لائق نہیں
+**English (Yusuf Ali):** And your Allah is One Allah: There is no god but He, Most Gracious, Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/163)
 
@@ -103,7 +103,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Thus have We sent you to a community before which [other] communities have passed on so you might recite to them that which We revealed to you, while they disbelieve in the Most Merciful. Say, "He is my Lord; there is no deity except Him. Upon Him I rely, and to Him is my return."
 
-**Urdu (Fatah Muhammad Jalandhari):** (جس طرح ہم اور پیغمبر بھیجتے رہے ہیں) اسی طرح (اے محمدﷺ) ہم نے تم کو اس امت میں جس سے پہلے بہت سی امتیں گزر چکی ہیں بھیجا ہے تاکہ تم ان کو وہ (کتاب) جو ہم نے تمہاری طرف بھیجی ہے پڑھ کر سنا دو اور یہ لوگ رحمٰن کو نہیں مانتے۔ کہہ دو وہی تو میرا پروردگار ہے اس کے سوا کوئی معبود نہیں۔ میں اسی پر بھروسہ رکھتا ہوں اور اسی کی طرف رجوع کرتا ہوں
+**English (Yusuf Ali):** Thus have we sent thee amongst a People before whom (long since) have (other) Peoples (gone and) passed away; in order that thou mightest rehearse unto them what We send down unto thee by inspiration; yet do they reject (Him), the Most Gracious! Say: "He is my Lord! There is no god but He! On Him is my trust, and to Him do I turn!"
 
 [Open on Quran.com](https://quran.com/13/30)
 
@@ -119,7 +119,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Call upon Allāh or call upon the Most Merciful [ar-Raḥmān]. Whichever [name] you call - to Him belong the best names." And do not recite [too] loudly in your prayer or [too] quietly but seek between that an [intermediate] way.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ تم (خدا کو) الله (کے نام سے) پکارو یا رحمٰن (کے نام سے) جس نام سے پکارو اس کے سب اچھے نام ہیں۔ اور نماز نہ بلند آواز سے پڑھو اور نہ آہستہ بلکہ اس کے بیچ کا طریقہ اختیار کرو
+**English (Yusuf Ali):** Say: "Call upon Allah, or call upon Rahman: by whatever name ye call upon Him, (it is well): for to Him belong the Most Beautiful Names. Neither speak thy Prayer aloud, nor speak it in a low tone, but seek a middle course between."
 
 [Open on Quran.com](https://quran.com/17/110)
 
@@ -135,7 +135,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** She said, "Indeed, I seek refuge in the Most Merciful from you, [so leave me], if you should be fearing of Allāh."
 
-**Urdu (Fatah Muhammad Jalandhari):** مریم بولیں کہ اگر تم پرہیزگار ہو تو میں تم سے خدا کی پناہ مانگتی ہوں
+**English (Yusuf Ali):** She said: "I seek refuge from thee to (Allah) Most Gracious: (come not near) if thou dost fear Allah."
 
 [Open on Quran.com](https://quran.com/19/18)
 
@@ -151,7 +151,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So eat and drink and be contented. And if you see from among humanity anyone, say, 'Indeed, I have vowed to the Most Merciful abstention, so I will not speak today to [any] man.'"
 
-**Urdu (Fatah Muhammad Jalandhari):** تو کھاؤ اور پیو اور آنکھیں ٹھنڈی کرو۔ اگر تم کسی آدمی کو دیکھو تو کہنا کہ میں نے خدا کے لئے روزے کی منت مانی تو آج میں کسی آدمی سے ہرگز کلام نہیں کروں گی
+**English (Yusuf Ali):** "So eat and drink and cool (thine) eye. And if thou dost see any man, say, 'I have vowed a fast to (Allah) Most Gracious, and this day will I enter into not talk with any human being'"
 
 [Open on Quran.com](https://quran.com/19/26)
 
@@ -167,7 +167,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O my father, do not worship [i.e., obey] Satan. Indeed Satan has ever been, to the Most Merciful, disobedient.
 
-**Urdu (Fatah Muhammad Jalandhari):** ابّا شیطان کی پرستش نہ کیجیئے۔ بےشک شیطان خدا کا نافرمان ہے
+**English (Yusuf Ali):** "O my father! serve not Satan: for Satan is a rebel against (Allah) Most Gracious.
 
 [Open on Quran.com](https://quran.com/19/44)
 
@@ -183,7 +183,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O my father, indeed I fear that there will touch you a punishment from the Most Merciful so you would be to Satan a companion [in Hellfire]."
 
-**Urdu (Fatah Muhammad Jalandhari):** ابّا مجھے ڈر لگتا ہے کہ آپ کو خدا کا عذاب آپکڑے تو آپ شیطان کے ساتھی ہوجائیں
+**English (Yusuf Ali):** "O my father! I fear lest a Penalty afflict thee from (Allah) Most Gracious, so that thou become to Satan a friend."
 
 [Open on Quran.com](https://quran.com/19/45)
 
@@ -199,7 +199,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those were the ones upon whom Allāh bestowed favor from among the prophets of the descendants of Adam and of those We carried [in the ship] with Noah, and of the descendants of Abraham and Israel [i.e., Jacob], and of those whom We guided and chose. When the verses of the Most Merciful were recited to them, they fell in prostration and weeping.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جن پر خدا نے اپنے پیغمبروں میں سے فضل کیا۔ (یعنی) اولاد آدم میں سے اور ان لوگوں میں سے جن کو نوح کے ساتھ (کشتی میں) سوار کیا اور ابراہیم اور یعقوب کی اولاد میں سے اور ان لوگوں میں سے جن کو ہم نے ہدایت دی اور برگزیدہ کیا۔ جب ان کے سامنے ہماری آیتیں پڑھی جاتی تھیں تو سجدے میں گر پڑتے اور روتے رہتے تھے
+**English (Yusuf Ali):** Those were some of the prophets on whom Allah did bestow His Grace,- of the posterity of Adam, and of those who We carried (in the Ark) with Noah, and of the posterity of Abraham and Israel of those whom We guided and chose. Whenever the Signs of (Allah) Most Gracious were rehearsed to them, they would fall down in prostrate adoration and in tears.
 
 [Open on Quran.com](https://quran.com/19/58)
 

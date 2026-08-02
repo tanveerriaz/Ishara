@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:72 · [[011 Hud]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** She said, "Woe to me! Shall I give birth while I am an old woman and this, my husband, is an old man? Indeed, this is an amazing thing!"
 
-**Urdu (Fatah Muhammad Jalandhari):** اس نے کہا اے ہے میرے بچہ ہوگا؟ میں تو بڑھیا ہوں اور میرے میاں بھی بوڑھے ہیں۔ یہ تو بڑی عجیب بات ہے
+**English (Yusuf Ali):** She said: "Alas for me! shall I bear a child, seeing I am an old woman, and my husband here is an old man? That would indeed be a wonderful thing!"
 
 [Open on Quran.com](https://quran.com/11/72)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "O ʿAzeez, indeed he has a father [who is] an old man, so take one of us in place of him. Indeed, we see you as a doer of good."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ اے عزیز اس کے والد بہت بوڑھے ہیں (اور اس سے بہت محبت رکھتے ہیں) تو (اس کو چھوڑ دیجیےاور) اس کی جگہ ہم میں سے کسی کو رکھ لیجیئے۔ ہم دیکھتے ہیں کہ آپ احسان کرنے والے ہیں
+**English (Yusuf Ali):** They said: "O exalted one! Behold! he has a father, aged and venerable, (who will grieve for him); so take one of us in his place; for we see that thou art (gracious) in doing good."
 
 [Open on Quran.com](https://quran.com/12/78)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when he came to the water [i.e., well] of Madyan, he found there a crowd of people watering [their flocks], and he found aside from them two women holding back [their flocks]. He said, "What is your circumstance?" They said, "We do not water until the shepherds dispatch [their flocks]; and our father is an old man."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب مدین کے پانی (کے مقام) پر پہنچے تو دیکھا کہ وہاں لوگ جمع ہو رہے (اور اپنے چارپایوں کو) پانی پلا رہے ہیں اور ان کے ایک طرف دو عورتیں (اپنی بکریوں کو) روکے کھڑی ہیں۔ موسٰی نے (اُن سے) کہا تمہارا کیا کام ہے۔ وہ بولیں کہ جب تک چرواہے (اپنے چارپایوں کو) لے نہ جائیں ہم پانی نہیں پلا سکتے اور ہمارے والد بڑی عمر کے بوڑھے ہیں
+**English (Yusuf Ali):** And when he arrived at the watering (place) in Madyan, he found there a group of men watering (their flocks), and besides them he found two women who were keeping back (their flocks). He said: "What is the matter with you?" They said: "We cannot water (our flocks) until the shepherds take back (their flocks): And our father is a very old man."
 
 [Open on Quran.com](https://quran.com/28/23)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who created you from dust, then from a sperm-drop, then from a clinging clot; then He brings you out as a child; then [He develops you] that you reach your [time of] maturity, then [further] that you become elders. And among you is he who is taken in death before [that], so that you reach a specified term; and perhaps you will use reason.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم کو (پہلے) مٹی سے پیدا کیا۔ ہھر نطفہ بنا کر پھر لوتھڑا بنا کر پھر تم کو نکالتا ہے (کہ تم) بچّے (ہوتے ہو) پھر تم اپنی جوانی کو پہنچتے ہو۔ پھر بوڑھے ہوجاتے ہو۔ اور کوئی تم میں سے پہلے ہی مرجاتا ہے اور تم (موت کے) وقت مقرر تک پہنچ جاتے ہو اور تاکہ تم سمجھو
+**English (Yusuf Ali):** It is He Who has created you from dust then from a sperm-drop, then from a leech-like clot; then does he get you out (into the light) as a child: then lets you (grow and) reach your age of full strength; then lets you become old,- though of you there are some who die before;- and lets you reach a Term appointed; in order that ye may learn wisdom.
 
 [Open on Quran.com](https://quran.com/40/67)
 

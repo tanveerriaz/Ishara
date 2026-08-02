@@ -18,27 +18,27 @@ The Wind-Curved Sandhills · 35 ayahs
 - [[>jybt - respond]] — `أُجِيبَت` · respond
 - [[dAEy - caller]] — `داعِي` · caller
 - [[<fk - lie]] — `إِفْك` · lie
-- [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[xyr - better]] — `خَيْر` · better
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[bnY - children]] — `بُنَىّ` · children
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[tAb - repent]] — `تابَ` · repent
-- [[gAfl - unaware]] — `غافِل` · unaware
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[nfr - go forth]] — `نَفَرَ` · go forth
-- [[EZym - great]] — `عَظِيم` · great
-- [[dEA - call]] — `دَعا` · call
-- [[drjp - degrees]] — `دَرَجَة` · degrees
-- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[tlY - recited]] — `تَلَى` · recited
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[qryp - town]] — `قَرْيَة` · town
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[bSr - vision]] — `بَصَر` · vision
-- [[>nEm - i bestowed]] — `أَنْعَمَ` · i bestowed
+- [[n*yr - warner]] — `نَذِير` · warner
+- [[dEA - call]] — `دَعا` · call
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[>gnY - availed]] — `أَغْنَى` · availed
+- [[Dl - lost]] — `ضَلَّ` · lost
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[$hr - months]] — `شَهْر` · months
+- [[fsq - defiantly disobeying]] — `فَسَقَ` · defiantly disobeying
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[yd - hands]] — `يَد` · hands
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[lys - not]] — `لَيْسَ` · not
+- [[xlf - behind them]] — `خَلْف` · behind them
+- [[Eml - do]] — `عَمِلَ` · do
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[snp - years]] — `سَنَة` · years
 
 ## Roots
 

@@ -14,31 +14,31 @@ The Ranks · 14 ayahs
 
 ## Words in this surah (graph)
 
-- [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[xyr - better]] — `خَيْر` · better
-- [[bnY - children]] — `بُنَىّ` · children
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[EZym - great]] — `عَظِيم` · great
 - [[dEA - call]] — `دَعا` · call
-- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[>fwAh - mouths]] — `أَفْواه` · mouths
-- [[krh - unwillingly]] — `كُرْه` · unwillingly
-- [[yd - hands]] — `يَد` · hands
+- [[qAtl - fight]] — `قاتَلَ` · fight
+- [[mqt - hatred]] — `مَقْت` · hatred
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[>Hbb - love]] — `أَحْبَبْ` · love
-- [[mskn - dwellings]] — `مَسْكَن` · dwellings
-- [[ZAhr - apparent]] — `ظاهِر` · apparent
-- [[nwr - light]] — `نُور` · light
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[yd - hands]] — `يَد` · hands
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[fwz - success]] — `فَوْز` · success
+- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[nSyr - any helper]] — `نَصِير` · any helper
+- [[>fwAh - mouths]] — `أَفْواه` · mouths
+- [[EZym - great]] — `عَظِيم` · great
+- [[>Tf> - extinguish]] — `أَطْفَأَ` · extinguish
 - [[jA' - came them]] — `جاءَ` · came them
-- [[Elm - know]] — `عَلِمَ` · know
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[allah - God]] — `الله` · God
-- [[qlb - hearts]] — `قَلْب` · hearts
-- [[mAl - wealth]] — `مال` · wealth
+- [[krh - unwillingly]] — `كُرْه` · unwillingly
+- [[nhr - rivers]] — `نَهَر` · rivers
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[zAg - deviated]] — `زاغَ` · deviated
+- [[>y - o you]] — `أَيّ` · o you
 - [[jry - flow]] — `جَرَيْ` · flow
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[>yd - supports]] — `أَيَّدَ` · supports
+- [[Hq - truth]] — `حَقّ` · truth
 
 ## Roots
 

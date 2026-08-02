@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 8:38 · [[008 Al-Anfal]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say to those who have disbelieved [that] if they cease, what has previously occurred will be forgiven for them. But if they return [to hostility] - then the precedent of the former [rebellious] peoples has already taken place.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) کفار سے کہہ دو کہ اگر وہ اپنے افعال سے باز آجائیں تو جو ہوچکا وہ انہیں معاف کردیا جائے گا۔ اور اگر پھر (وہی حرکات) کرنے لگیں گے تو اگلے لوگوں کا (جو) طریق جاری ہوچکا ہے (وہی ان کے حق میں برتا جائے گا)
+**English (Yusuf Ali):** Say to the Unbelievers, if (now) they desist (from Unbelief), their past would be forgiven them; but if they persist, the punishment of those before them is already (a matter of warning for them).
 
 [Open on Quran.com](https://quran.com/8/38)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So set out with your family during a portion of the night and follow behind them and let not anyone among you look back and continue on to where you are commanded."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو آپ کچھ رات رہے سے اپنے گھر والوں کو لے نکلیں اور خود ان کے پیچھے چلیں اور اور آپ میں سے کوئی شخص مڑ کر نہ دیکھے۔ اور جہاں آپ کو حکم ہو وہاں چلے جایئے
+**English (Yusuf Ali):** "Then travel by night with thy household, when a portion of the night (yet remains), and do thou bring up the rear: let no one amongst you look back, but pass on whither ye are ordered."
 
 [Open on Quran.com](https://quran.com/15/65)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when Moses said to his boy [i.e., servant], "I will not cease [traveling] until I reach the junction of the two seas or continue for a long period."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنے شاگرد سے کہا کہ جب تک دو دریاؤں کے ملنے کی جگہ نہ پہنچ جاؤں ہٹنے کا نہیں خواہ برسوں چلتا رہوں
+**English (Yusuf Ali):** Behold, Moses said to his attendant, "I will not give up until I reach the junction of the two seas or (until) I spend years and years in travel."
 
 [Open on Quran.com](https://quran.com/18/60)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We destroyed greater than them in [striking] power, and the example of the former peoples has preceded.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جو ان میں سخت زور والے تھے ان کو ہم نے ہلاک کردیا اور اگلے لوگوں کی حالت گزر گئی
+**English (Yusuf Ali):** So We destroyed (them)- stronger in power than these;- and (thus) has passed on the Parable of the peoples of old.
 
 [Open on Quran.com](https://quran.com/43/8)
 

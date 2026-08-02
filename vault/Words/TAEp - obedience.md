@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:81 · [[004 An-Nisa]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "[We pledge] obedience." But when they leave you, a group of them spend the night determining to do other than what you say. But Allāh records what they plan by night. So leave them alone and rely upon Allāh. And sufficient is Allāh as Disposer of affairs.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ منہ سے تو کہتے ہیں کہ (آپ کی) فرمانبرداری (دل سے منظور ہے) لیکن جب تمہارے پاس سے چلے جاتے ہیں تو ان میں سے بعض لوگ رات کو تمہاری باتوں کے خلاف مشورے کرتے ہیں اور جو مشورے یہ کرتے ہیں خدا ان کو لکھ لیتا ہے تو ان کا کچھ خیال نہ کرو اور خدا پر بھروسہ رکھو اور خدا ہی کافی کارساز ہے
+**English (Yusuf Ali):** They have "Obedience" on their lips; but when they leave thee, a section of them Meditate all night on things very different from what thou tellest them. But Allah records their nightly (plots): So keep clear of them, and put thy trust in Allah, and enough is Allah as a disposer of affairs.
 
 [Open on Quran.com](https://quran.com/4/81)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they swear by Allāh their strongest oaths that if you ordered them, they would go forth [in Allāh's cause]. Say, "Do not swear. [Such] obedience is known. Indeed, Allāh is [fully] Aware of that which you do."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (یہ) خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر تم ان کو حکم دو تو (سب گھروں سے) نکل کھڑے ہوں۔ کہہ دو کہ قسمیں مت کھاؤ، پسندیدہ فرمانبرداری (درکار ہے)۔ بےشک خدا تمہارے سب اعمال سے خبردار ہے
+**English (Yusuf Ali):** They swear their strongest oaths by Allah that, if only thou wouldst command them, they would leave (their homes). Say: "Swear ye not; Obedience is (more) reasonable; verily, Allah is well acquainted with all that ye do."
 
 [Open on Quran.com](https://quran.com/24/53)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Obedience and good words. And when the matter [of fighting] was determined, if they had been true to Allāh, it would have been better for them.
 
-**Urdu (Fatah Muhammad Jalandhari):** (خوب کام تو) فرمانبرداری اور پسندیدہ بات کہنا (ہے) پھر جب (جہاد کی) بات پختہ ہوگئی تو اگر یہ لوگ خدا سے سچے رہنا چاہتے تو ان کے لئے بہت اچھا ہوتا
+**English (Yusuf Ali):** Were it to obey and say what is just, and when a matter is resolved on, it were best for them if they were true to Allah.
 
 [Open on Quran.com](https://quran.com/47/21)
 

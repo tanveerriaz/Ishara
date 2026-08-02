@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 26:64 · [[026 Ash-Shuara]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We advanced thereto the others [i.e., the pursuers].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور دوسروں کو وہاں ہم نے قریب کردیا
+**English (Yusuf Ali):** And We made the other party approach thither.
 
 [Open on Quran.com](https://quran.com/26/64)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Paradise will be brought near [that Day] to the righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بہشت پرہیزگاروں کے قریب کردی جائے گی
+**English (Yusuf Ali):** "To the righteous, the Garden will be brought near,
 
 [Open on Quran.com](https://quran.com/26/90)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Paradise will be brought near to the righteous, not far,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بہشت پرہیزگاروں کے قریب کردی جائے گی (کہ مطلق) دور نہ ہوگی
+**English (Yusuf Ali):** And the Garden will be brought nigh to the Righteous,- no more a thing distant.
 
 [Open on Quran.com](https://quran.com/50/31)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when Paradise is brought near,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بہشت جب قریب لائی جائے گی
+**English (Yusuf Ali):** And when the Garden is brought near;-
 
 [Open on Quran.com](https://quran.com/81/13)
 

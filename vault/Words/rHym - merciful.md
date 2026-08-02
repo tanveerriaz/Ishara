@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 1:1 · [[001 Al-Fatihah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In the name of Allāh, the Entirely Merciful, the Especially Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے
+**English (Yusuf Ali):** In the name of Allah, Most Gracious, Most Merciful.
 
 [Open on Quran.com](https://quran.com/1/1)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Entirely Merciful, the Especially Merciful,
 
-**Urdu (Fatah Muhammad Jalandhari):** بڑا مہربان نہایت رحم والا
+**English (Yusuf Ali):** Most Gracious, Most Merciful;
 
 [Open on Quran.com](https://quran.com/1/3)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر آدم نے اپنے پروردگار سے کچھ کلمات سیکھے (اور معافی مانگی) تو اس نے ان کا قصور معاف کر دیا بے شک وہ معاف کرنے والا (اور) صاحبِ رحم ہے
+**English (Yusuf Ali):** Then learnt Adam from his Lord words of inspiration, and his Lord Turned towards him; for He is Oft-Returning, Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/37)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when Moses said to his people, "O my people, indeed you have wronged yourselves by your taking of the calf [for worship]. So repent to your Creator and kill yourselves [i.e., the guilty among you]. That is best for [all of] you in the sight of your Creator." Then He accepted your repentance; indeed, He is the Accepting of Repentance, the Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لوگوں سے کہا کہ بھائیو، تم نے بچھڑے کو (معبود) ٹھہرانے میں (بڑا) ظلم کیا ہے، تو اپنے پیدا کرنے والے کے آگے توبہ کرو اور اپنے تئیں ہلاک کر ڈالو۔ تمہارے خالق کے نزدیک تمہارے حق میں یہی بہتر ہے۔ پھر اس نے تمہارا قصور معاف کر دیا۔ وہ بے شک معاف کرنے والا (اور) صاحبِ رحم ہے
+**English (Yusuf Ali):** And remember Moses said to his people: "O my people! Ye have indeed wronged yourselves by your worship of the calf: So turn (in repentance) to your Maker, and slay yourselves (the wrong-doers); that will be better for you in the sight of your Maker." Then He turned towards you (in forgiveness): For He is Oft-Returning, Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/54)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites [of worship] and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار، ہم کو اپنا فرمانبردار بنائے رکھیو۔ اور ہماری اولاد میں سے بھی ایک گروہ کو اپنا مطیع بنائے رہیو، اور (پروردگار) ہمیں طریق عبادت بتا اور ہمارے حال پر (رحم کے ساتھ) توجہ فرما۔ بے شک تو توجہ فرمانے والا مہربان ہے
+**English (Yusuf Ali):** "Our Lord! make of us Muslims, bowing to Thy (Will), and of our progeny a people Muslim, bowing to Thy (will); and show us our place for the celebration of (due) rites; and turn unto us (in Mercy); for Thou art the Oft-Returning, Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/128)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus We have made you a median [i.e., just] community that you will be witnesses over the people and the Messenger will be a witness over you. And We did not make the qiblah which you used to face except that We might make evident who would follow the Messenger from who would turn back on his heels. And indeed, it is difficult except for those whom Allāh has guided. And never would Allāh have caused you to lose your faith [i.e., your previous prayers]. Indeed Allāh is, to the people, Kind and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے تم کو امتِ معتدل بنایا ہے، تاکہ تم لوگوں پر گواہ بنو اور پیغمبر (آخرالزماں) تم پر گواہ بنیں۔ اور جس قبلے پر تم (پہلے) تھے، اس کو ہم نے اس لیے مقرر کیا تھا کہ معلوم کریں، کون (ہمارے) پیغمبر کا تابع رہتا ہے، اور کون الٹے پاؤں پھر جاتا ہے۔ اور یہ بات (یعنی تحویل قبلہ لوگوں کو) گراں معلوم ہوئی، مگر جن کو خدا نے ہدایت بخشی (وہ اسے گراں نہیں سمجھتے) اور خدا ایسا نہیں کہ تمہارے ایمان کو یونہی کھو دے۔ خدا تو لوگوں پر بڑا مہربان (اور) صاحبِ رحمت ہے
+**English (Yusuf Ali):** Thus, have We made of you an Ummat justly balanced, that ye might be witnesses over the nations, and the Messenger a witness over yourselves; and We appointed the Qibla to which thou wast used, only to test those who followed the Messenger from those who would turn on their heels (From the Faith). Indeed it was (A change) momentous, except to those guided by Allah. And never would Allah Make your faith of no effect. For Allah is to all people Most surely full of kindness, Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/143)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Except for those who repent and correct themselves and make evident [what they concealed]. Those - I will accept their repentance, and I am the Accepting of Repentance, the Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں جو توبہ کرتے ہیں اور اپنی حالت درست کرلیتے اور (احکام الہیٰ کو) صاف صاف بیان کردیتے ہیں تو میں ان کے قصور معاف کردیتا ہوں اور میں بڑا معاف کرنے والا (اور) رحم والا ہوں
+**English (Yusuf Ali):** Except those who repent and make amends and openly declare (the Truth): To them I turn; for I am Oft-returning, Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/160)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And your god is one God. There is no deity [worthy of worship] except Him, the Entirely Merciful, the Especially Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (لوگو) تمہارا معبود خدائے واحد ہے اس بڑے مہربان (اور) رحم کرنے کے سوا کوئی عبادت کے لائق نہیں
+**English (Yusuf Ali):** And your Allah is One Allah: There is no god but He, Most Gracious, Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/163)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He has only forbidden to you dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], there is no sin upon him. Indeed, Allāh is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس نے تم پر مرا ہوا جانور اور لہو اور سور کا گوشت اور جس چیز پر خدا کے سوا کسی اور کا نام پکارا جائے حرام کردیا ہے ہاں جو ناچار ہوجائے (بشرطیکہ ) خدا کی نافرمانی نہ کرے اور حد (ضرورت) سے باہر نہ نکل جائے اس پر کچھ گناہ نہیں۔ بےشک خدا بخشنے والا (اور) رحم کرنے والا ہے
+**English (Yusuf Ali):** He hath only forbidden you dead meat, and blood, and the flesh of swine, and that on which any other name hath been invoked besides that of Allah. But if one is forced by necessity, without wilful disobedience, nor transgressing due limits,- then is he guiltless. For Allah is Oft-forgiving Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/173)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if one fears from the bequeather [some] error or sin and corrects that which is between them [i.e., the concerned parties], there is no sin upon him. Indeed, Allāh is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر کسی کو وصیت کرنے والے کی طرف سے (کسی وارث کی) طرفداری یا حق تلفی کا اندیشہ ہو تو اگر وہ (وصیت کو بدل کر) وارثوں میں صلح کرادے تو اس پر کچھ گناہ نہیں۔ بےشک خدا بخشنے والا (اور) رحم والا ہے
+**English (Yusuf Ali):** But if anyone fears partiality or wrong-doing on the part of the testator, and makes peace between (The parties concerned), there is no wrong in him: For Allah is Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/182)
 

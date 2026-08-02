@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:27 · [[002 Al-Baqarah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and cause corruption on earth. It is those who are the losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے اقرار کو مضبوط کرنے کے بعد توڑ دیتے ہیں اور جس چیز (یعنی رشتہٴ قرابت) کے جوڑے رکھنے کا الله نے حکم دیا ہے اس کو قطع کئے ڈالتے ہیں اور زمین میں خرابی کرتے ہیں یہی لوگ نقصان اٹھانے والے ہیں
+**English (Yusuf Ali):** Those who break Allah's Covenant after it is ratified, and who sunder what Allah Has ordered to be joined, and do mischief on earth: These cause loss (only) to themselves.
 
 [Open on Quran.com](https://quran.com/2/27)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Except for those who take refuge with a people between yourselves and whom is a treaty or those who come to you, their hearts strained at [the prospect of] fighting you or fighting their own people. And if Allāh had willed, He could have given them power over you, and they would have fought you. So if they remove themselves from you and do not fight you and offer you peace, then Allāh has not made for you a cause [for fighting] against them.
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر جو لوگ ایسے لوگوں سے جا ملے ہوں جن میں اور تم میں (صلح کا) عہد ہو یا اس حال میں کہ ان کے دل تمہارے ساتھ یا اپنی قوم کے ساتھ لڑنے سے رک گئے ہوں تمہارے پاس آجائیں (تو احتراز ضروری نہیں) اور اگر خدا چاہتا تو ان کو تم پر غالب کردیتا تو وہ تم سے ضرور لڑتے پھر اگر وہ تم سے (جنگ کرنے سے) کنارہ کشی کریں اور لڑیں نہیں اور تمہاری طرف صلح (کا پیغام) بھیجیں تو خدا نے تمہارے لئے ان پر (زبردستی کرنے کی) کوئی سبیل مقرر نہیں کی
+**English (Yusuf Ali):** Except those who join a group between whom and you there is a treaty (of peace), or those who approach you with hearts restraining them from fighting you as well as fighting their own people. If Allah had pleased, He could have given them power over you, and they would have fought you: Therefore if they withdraw from you but fight you not, and (instead) send you (Guarantees of) peace, then Allah Hath opened no way for you (to war against them).
 
 [Open on Quran.com](https://quran.com/4/90)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they [i.e., the polytheists] assign to Allāh from that which He created of crops and livestock a share and say, "This is for Allāh," by their claim, "and this is for our 'partners' [associated with Him]." But what is for their "partners" does not reach Allāh, while what is for Allāh - this reaches their "partners." Evil is that which they rule.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (یہ لوگ) خدا ہی کی پیدا کی ہوئی چیزوں یعنی کھیتی اور چوپایوں میں خدا کا بھی ایک حصہ مقرر کرتے ہیں اور اپنے خیال (باطل) سے کہتے ہیں کہ یہ (حصہ) تو خدا کا اور یہ ہمارے شریکوں (یعنی بتوں) کا تو جو حصہ ان کے شریکوں کا ہوتا ہے وہ تو خدا کی طرف نہیں جا سکتا اور جو حصہ خدا کا ہوتا ہے وہ ان کے شریکوں کی طرف جا سکتا ہے یہ کیسا برا انصاف ہے
+**English (Yusuf Ali):** Out of what Allah hath produced in abundance in tilth and in cattle, they assigned Him a share: they say, according to their fancies: "This is for Allah, and this" - for our "partners"! but the share of their" partners "reacheth not Allah, whilst the share of Allah reacheth their "partners"! evil (and unjust) is their assignment!
 
 [Open on Quran.com](https://quran.com/6/136)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But when he saw their hands not reaching for it, he distrusted them and felt from them apprehension. They said, "Fear not. We have been sent to the people of Lot."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب دیکھا کہ ان کے ہاتھ کھانے کی طرف نہیں جاتے (یعنی وہ کھانا نہیں کھاتے) تو ان کو اجنبی سمجھ کر دل میں خوف کیا۔ (فرشتوں نے) کہا کہ خوف نہ کیجیے، ہم قوم لوط کی طرف (ان کے ہلاک کرنے کو) بھیجے گئے ہیں
+**English (Yusuf Ali):** But when he saw their hands went not towards the (meal), he felt some mistrust of them, and conceived a fear of them. They said: "Fear not: We have been sent against the people of Lut."
 
 [Open on Quran.com](https://quran.com/11/70)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They [the angels] said, "O Lot, indeed we are messengers of your Lord; [therefore], they will never reach you. So set out with your family during a portion of the night and let not any among you look back - except your wife; indeed, she will be struck by that which strikes them. Indeed, their appointment is [for] the morning. Is not the morning near?"
 
-**Urdu (Fatah Muhammad Jalandhari):** فرشتوں نے کہا کہ لوط ہم تمہارے پروردگار کے فرشتے ہیں۔ یہ لوگ ہرگز تم تک نہیں پہنچ سکیں گے تو کچھ رات رہے سے اپنے گھر والوں کو لے کر چل دو اور تم میں سے کوئی شخص پیچھے پھر کر نہ دیکھے۔ مگر تمہاری بیوی کہ جو آفت ان پر پڑنے والی ہے وہی اس پر پڑے گی۔ ان کے (عذاب کے) وعدے کا وقت صبح ہے۔ اور کیا صبح کچھ دور ہے؟
+**English (Yusuf Ali):** (The Messengers) said: "O Lut! We are Messengers from thy Lord! By no means shall they reach thee! now travel with thy family while yet a part of the night remains, and let not any of you look back: but thy wife (will remain behind): To her will happen what happens to the people. Morning is their time appointed: Is not the morning nigh?"
 
 [Open on Quran.com](https://quran.com/11/81)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who join that which Allāh has ordered to be joined and fear their Lord and are afraid of the evil of [their] account,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جن (رشتہ ہائے قرابت) کے جوڑے رکھنے کا خدا نے حکم دیا ہے ان کو جوڑے رکھتے اور اپنے پروردگار سے ڈرتے رہتے اور برے حساب سے خوف رکھتے ہیں
+**English (Yusuf Ali):** Those who join together those things which Allah hath commanded to be joined, hold their Lord in awe, and fear the terrible reckoning;
 
 [Open on Quran.com](https://quran.com/13/21)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and spread corruption on earth - for them is the curse, and they will have the worst home.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا سے عہد واثق کر کے اس کو توڑ ڈالتے اور (رشتہ ہائے قرابت) کے جوڑے رکھنے کا خدا نے حکم دیا ہے ان کو قطع کر دیتے ہیں اور ملک میں فساد کرتے ہیں۔ ایسوں پر لعنت ہے اور ان کے لیے گھر بھی برا ہے
+**English (Yusuf Ali):** But those who break the Covenant of Allah, after having plighted their word thereto, and cut asunder those things which Allah has commanded to be joined, and work mischief in the land;- on them is the curse; for them is the terrible home!
 
 [Open on Quran.com](https://quran.com/13/25)
 
@@ -155,7 +155,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "We will strengthen your arm through your brother and grant you both supremacy so they will not reach you. [It will be] through Our signs; you and those who follow you will be the predominant."
 
-**Urdu (Fatah Muhammad Jalandhari):** (خدا نے) فرمایا ہم تمہارے بھائی سے تمہارے بازو مضبوط کریں گے اور تم دونوں کو غلبہ دیں گے تو ہماری نشانیوں کے سبب وہ تم تک پہنچ نہ سکیں گے (اور) تم اور جنہوں نے تمہاری پیروی کی غالب رہو گے
+**English (Yusuf Ali):** He said: "We will certainly strengthen thy arm through thy brother, and invest you both with authority, so they shall not be able to touch you: with Our Sign shall ye triumph,- you two as well as those who follow you."
 
 [Open on Quran.com](https://quran.com/28/35)
 

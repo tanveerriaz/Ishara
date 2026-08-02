@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:7 · [[007 Al-Araf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We will surely relate [their deeds] to them with knowledge, and We were not [at all] absent.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اپنے علم سے ان کے حالات بیان کریں گے اور ہم کہیں غائب تو نہیں تھے
+**English (Yusuf Ali):** And verily, We shall recount their whole story with knowledge, for We were never absent (at any time or place).
 
 [Open on Quran.com](https://quran.com/7/7)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he took attendance of the birds and said, "Why do I not see the hoopoe - or is he among the absent?
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے جانوروں کا جائزہ لیا تو کہنے لگے کیا سبب ہے کہ ہُدہُد نظر نہیں آتا۔ کیا کہیں غائب ہوگیا ہے؟
+**English (Yusuf Ali):** And he took a muster of the Birds; and he said: "Why is it I see not the Hoopoe? Or is he among the absentees?
 
 [Open on Quran.com](https://quran.com/27/20)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And never therefrom will they be absent.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس سے چھپ نہیں سکیں گے
+**English (Yusuf Ali):** And they will not be able to keep away therefrom.
 
 [Open on Quran.com](https://quran.com/82/16)
 

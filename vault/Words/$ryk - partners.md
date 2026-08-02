@@ -40,7 +40,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:12 · [[004 An-Nisa]]
 
@@ -54,7 +54,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And for you is half of what your wives leave if they have no child. But if they have a child, for you is one fourth of what they leave, after any bequest they [may have] made or debt. And for them [i.e., the wives] is one fourth if you leave no child. But if you leave a child, then for them is an eighth of what you leave, after any bequest you [may have] made or debt. And if a man or woman leaves neither ascendants nor descendants but has a brother or a sister, then for each one of them is a sixth. But if they are more than two, they share a third, after any bequest which was made or debt, as long as there is no detriment [caused]. [This is] an ordinance from Allāh, and Allāh is Knowing and Forbearing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو مال تمہاری عورتیں چھوڑ مریں۔ اگر ان کے اولاد نہ ہو تو اس میں نصف حصہ تمہارا۔ اور اگر اولاد ہو تو ترکے میں تمہارا حصہ چوتھائی۔ (لیکن یہ تقسیم) وصیت (کی تعمیل) کے بعد جو انہوں نے کی ہو یا قرض کے (ادا ہونے کے بعد جو ان کے ذمے ہو، کی جائے گی) اور جو مال تم (مرد) چھوڑ مرو۔ اگر تمہارے اولاد نہ ہو تو تمہاری عورتوں کا اس میں چوتھا حصہ۔ اور اگر اولاد ہو تو ان کا آٹھواں حصہ (یہ حصے) تمہاری وصیت (کی تعمیل) کے بعد جو تم نے کی ہو اور (ادائے) قرض کے (بعد تقسیم کئے جائیں گے) اور اگر ایسے مرد یا عورت کی میراث ہو جس کے نہ باپ ہو نہ بیٹا مگر اس کے بھائی بہن ہو تو ان میں سے ہر ایک کا چھٹا حصہ اور اگر ایک سے زیادہ ہوں تو سب ایک تہائی میں شریک ہوں گے (یہ حصے بھی ادائے وصیت و قرض بشرطیکہ ان سے میت نے کسی کا نقصان نہ کیا ہو (تقسیم کئے جائیں گے) یہ خدا کا فرمان ہے۔ اور خدا نہایت علم والا (اور) نہایت حلم والا ہے
+**English (Yusuf Ali):** In what your wives leave, your share is a half, if they leave no child; but if they leave a child, ye get a fourth; after payment of legacies and debts. In what ye leave, their share is a fourth, if ye leave no child; but if ye leave a child, they get an eighth; after payment of legacies and debts. If the man or woman whose inheritance is in question, has left neither ascendants nor descendants, but has left a brother or a sister, each one of the two gets a sixth; but if more than two, they share in a third; after payment of legacies and debts; so that no loss is caused (to any one). Thus is it ordained by Allah; and Allah is All-knowing, Most Forbearing.
 
 [Open on Quran.com](https://quran.com/4/12)
 
@@ -70,7 +70,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], the Day We will gather them all together; then We will say to those who associated others with Allāh, "Where are your 'partners' that you used to claim [with Him]?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس دن ہم سب لوگوں کو جمع کریں گے پھر مشرکوں سے پوچھیں گے کہ (آج) وہ تمہارے شریک کہاں ہیں جن کو تمہیں دعویٰ تھا
+**English (Yusuf Ali):** One day shall We gather them all together: We shall say to those who ascribed partners (to Us): "Where are the partners whom ye (invented and) talked about?"
 
 [Open on Quran.com](https://quran.com/6/22)
 
@@ -86,7 +86,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [It will be said to them], "And you have certainly come to Us alone [i.e., individually] as We created you the first time, and you have left whatever We bestowed upon you behind you. And We do not see with you your 'intercessors' which you claimed that they were among you associates [of Allāh]. It has [all] been severed between you, and lost from you is what you used to claim."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جیسا ہم نے تم کو پہلی دفعہ پیدا کیا تھا ایسا ہی آج اکیلے اکیلے ہمارے پاس آئے اور جو (مال ومتاع) ہم نے تمہیں عطا فرمایا تھا وہ سب اپنی پیٹھ پیچھے چھوڑ آئے اور ہم تمہارے ساتھ تمہارے سفارشیوں کو بھی نہیں دیکھتے جن کی نسبت تم خیال کرتے تھے کہ وہ تمہارے (شفیع اور ہمارے) شریک ہیں۔ (آج) تمہارے آپس کے سب تعلقات منقطع ہوگئے اور جو دعوے تم کیا کرتے تھے سب جاتے رہے
+**English (Yusuf Ali):** "And behold! ye come to us bare and alone as We created you for the first time: ye have left behind you all (the favours) which We bestowed on you: We see not with you your intercessors whom ye thought to be partners in your affairs: so now all relations between you have been cut off, and your (pet) fancies have left you in the lurch!"
 
 [Open on Quran.com](https://quran.com/6/94)
 
@@ -102,7 +102,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But they have attributed to Allāh partners - the jinn, while He has created them - and have fabricated for Him sons and daughters without knowledge. Exalted is He and high above what they describe.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے جنوں کو خدا کا شریک ٹھہرایا۔ حالانکہ ان کو اسی نے پیدا کیا اور بےسمجھے (جھوٹ بہتان) اس کے لئے بیٹے اور بیٹیاں بنا کھڑی کیں وہ ان باتوں سے جو اس کی نسبت بیان کرتے ہیں پاک ہے اور (اس کی شان ان سے) بلند ہے
+**English (Yusuf Ali):** Yet they make the Jinns equals with Allah, though Allah did create the Jinns; and they falsely, having no knowledge, attribute to Him sons and daughters. Praise and glory be to Him! (for He is) above what they attribute to Him!
 
 [Open on Quran.com](https://quran.com/6/100)
 
@@ -118,7 +118,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they [i.e., the polytheists] assign to Allāh from that which He created of crops and livestock a share and say, "This is for Allāh," by their claim, "and this is for our 'partners' [associated with Him]." But what is for their "partners" does not reach Allāh, while what is for Allāh - this reaches their "partners." Evil is that which they rule.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (یہ لوگ) خدا ہی کی پیدا کی ہوئی چیزوں یعنی کھیتی اور چوپایوں میں خدا کا بھی ایک حصہ مقرر کرتے ہیں اور اپنے خیال (باطل) سے کہتے ہیں کہ یہ (حصہ) تو خدا کا اور یہ ہمارے شریکوں (یعنی بتوں) کا تو جو حصہ ان کے شریکوں کا ہوتا ہے وہ تو خدا کی طرف نہیں جا سکتا اور جو حصہ خدا کا ہوتا ہے وہ ان کے شریکوں کی طرف جا سکتا ہے یہ کیسا برا انصاف ہے
+**English (Yusuf Ali):** Out of what Allah hath produced in abundance in tilth and in cattle, they assigned Him a share: they say, according to their fancies: "This is for Allah, and this" - for our "partners"! but the share of their" partners "reacheth not Allah, whilst the share of Allah reacheth their "partners"! evil (and unjust) is their assignment!
 
 [Open on Quran.com](https://quran.com/6/136)
 
@@ -134,7 +134,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And likewise, to many of the polytheists their partners have made [to seem] pleasing the killing of their children in order to bring about their destruction and to cover them with confusion in their religion. And if Allāh had willed, they would not have done so. So leave them and that which they invent.
 
-**Urdu (Fatah Muhammad Jalandhari):** اسی طرح بہت سے مشرکوں کو ان کے شریکوں نے ان کے بچوں کو جان سے مار ڈالنا اچھا کر دکھایا ہے تاکہ انہیں ہلاکت میں ڈال دیں اور ان کے دین کو ان پر خلط ملط کر دیں اور اگر خدا چاہتا تو وہ ایسا نہ کرتے تو ان کو چھوڑ دو کہ وہ جانیں اور ان کا جھوٹ
+**English (Yusuf Ali):** Even so, in the eyes of most of the pagans, their "partners" made alluring the slaughter of their children, in order to lead them to their own destruction, and cause confusion in their religion. If Allah had willed, they would not have done so: But leave alone them and their inventions.
 
 [Open on Quran.com](https://quran.com/6/137)
 
@@ -150,7 +150,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "What is in the bellies of these animals is exclusively for our males and forbidden to our females. But if it is [born] dead, then all of them have shares therein." He will punish them for their description. Indeed, He is Wise and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ بھی کہتے ہیں کہ جو بچہ ان چارپایوں کے پیٹ میں ہے وہ خاص ہمارے مردوں کے لئے ہے اور ہماری عورتوں کو (اس کا کھانا) حرام ہے اور اگر وہ بچہ مرا ہوا ہو تو سب اس میں شریک ہیں (یعنی اسے مرد اور عورتیں سب کھائیں) عنقریب خدا ان کو ان کے ڈھکوسلوں کی سزا دے گا بےشک وہ حکمت والا خبردار ہے
+**English (Yusuf Ali):** They say: "What is in the wombs of such and such cattle is specially reserved (for food) for our men, and forbidden to our women; but if it is still-born, then all have share therein. For their (false) attribution (of superstitions to Allah), He will soon punish them: for He is full of wisdom and knowledge.
 
 [Open on Quran.com](https://quran.com/6/139)
 
@@ -166,7 +166,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** No partner has He. And this I have been commanded, and I am the first [among you] of the Muslims."
 
-**Urdu (Fatah Muhammad Jalandhari):** جس کا کوئی شریک نہیں اور مجھ کو اسی بات کا حکم ملا ہے اور میں سب سے اول فرمانبردار ہوں
+**English (Yusuf Ali):** No partner hath He: this am I commanded, and I am the first of those who bow to His will.
 
 [Open on Quran.com](https://quran.com/6/163)
 
@@ -182,7 +182,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But when He gives them a good [child], they ascribe partners to Him concerning that which He has given them. Exalted is Allāh above what they associate with Him.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب وہ ان کو صحیح و سالم (بچہ) دیتا ہے تو اس (بچے) میں جو وہ ان کو دیتا ہے اس کا شریک مقرر کرتے ہیں۔ جو وہ شرک کرتے ہیں (خدا کا رتبہ) اس سے بلند ہے
+**English (Yusuf Ali):** But when He giveth them a goodly child, they ascribe to others a share in the gift they have received: but Allah is exalted high above the partners they ascribe to Him.
 
 [Open on Quran.com](https://quran.com/7/190)
 
@@ -198,7 +198,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they have feet by which they walk? Or do they have hands by which they strike? Or do they have eyes by which they see? Or do they have ears by which they hear? Say, [O Muḥammad], "Call your 'partners' and then conspire against me and give me no respite.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا ان کے پاؤں ہیں جن سے چلیں یا ہاتھ ہیں جن سے پکڑیں یا آنکھیں ہیں جن سے دیکھیں یا کان ہیں جن سے سنیں؟ کہہ دو کہ اپنے شریکوں کو بلالو اور میرے بارے میں (جو) تدبیر (کرنی ہو) کرلو اور مجھے کچھ مہلت بھی نہ دو (پھر دیکھو کہ وہ میرا کیا کرسکتے ہیں)
+**English (Yusuf Ali):** Have they feet to walk with? Or hands to lay hold with? Or eyes to see with? Or ears to hear with? Say: "Call your 'god-partners', scheme (your worst) against me, and give me no respite!
 
 [Open on Quran.com](https://quran.com/7/195)
 

@@ -14,31 +14,31 @@ The Prophets · 112 ayahs
 
 ## Words in this surah (graph)
 
-- [[fAEl - doers]] — `فاعِل` · doers
 - [[EAbd - worshippers]] — `عابِد` · worshippers
-- [[ySf - they attribute]] — `يَصِفُ` · they attribute
+- [[fAEl - doers]] — `فاعِل` · doers
 - [[mErD - turn away]] — `مُعْرِض` · turn away
+- [[ySf - they attribute]] — `يَصِفُ` · they attribute
 - [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
+- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
 - [[m$fq - fearful]] — `مُشْفِق` · fearful
-- [[tdry - i know]] — `تَدْرِي` · i know
 - [[ynTq - speak]] — `يَنطِقُ` · speak
 - [[bArk - we blessed]] — `بارَكَ` · we blessed
-- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
 - [[gflp - heedlessness]] — `غَفْلَة` · heedlessness
 - [[>HSnt - guarded]] — `أَحْصَنَتْ` · guarded
-- [[brhAn - proof]] — `بُرْهان` · proof
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[kAtb - scribe]] — `كاتِب` · scribe
-- [[x$yp - fear]] — `خَشْيَة` · fear
-- [[mvqAl - weight]] — `مِثْقال` · weight
+- [[tdry - i know]] — `تَدْرِي` · i know
+- [[r>s - heads]] — `رَأْس` · heads
 - [[dEA - call]] — `دَعا` · call
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[qryp - town]] — `قَرْيَة` · town
-- [[bSr - vision]] — `بَصَر` · vision
-- [[sqf - roof]] — `سَقْف` · roof
-- [[zbwr - zaboor]] — `زَبُور` · zaboor
-- [[HsnY - best]] — `حُسْنَى` · best
+- [[nAr - fire]] — `نار` · fire
+- [[lyl - night]] — `لَيْل` · night
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[xA$E - humbled]] — `خاشِع` · humbled
+- [[xlf - behind them]] — `خَلْف` · behind them
+- [[Eml - do]] — `عَمِلَ` · do
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[>mr - command]] — `أَمَرَ` · command
+- [[n*r - vows]] — `نَذَرْ` · vows
 
 ## Roots
 

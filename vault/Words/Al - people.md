@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:49 · [[002 Al-Baqarah]]
 
@@ -51,7 +51,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when We saved you [i.e., your forefathers] from the people of Pharaoh, who afflicted you with the worst torment, slaughtering your [newborn] sons and keeping your females alive. And in that was a great trial from your Lord.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (ہمارے ان احسانات کو یاد کرو) جب ہم نے تم کو قومِ فرعون سے نجات بخشی وہ (لوگ) تم کو بڑا دکھ دیتے تھے تمہارے بیٹوں کو تو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے اور اس میں تمہارے پروردگار کی طرف سے بڑی (سخت) آزمائش تھی
+**English (Yusuf Ali):** And remember, We delivered you from the people of Pharaoh: They set you hard tasks and punishments, slaughtered your sons and let your women-folk live; therein was a tremendous trial from your Lord.
 
 [Open on Quran.com](https://quran.com/2/49)
 
@@ -67,7 +67,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when We parted the sea for you and saved you and drowned the people of Pharaoh while you were looking on.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے تمہارے لیے دریا کو پھاڑ دیا تم کو نجات دی اور فرعون کی قوم کو غرق کر دیا اور تم دیکھ ہی تو رہے تھے
+**English (Yusuf Ali):** And remember We divided the sea for you and saved you and drowned Pharaoh's people within your very sight.
 
 [Open on Quran.com](https://quran.com/2/50)
 
@@ -83,7 +83,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And their prophet said to them, "Indeed, a sign of his kingship is that the chest will come to you in which is assurance from your Lord and a remnant of what the family of Moses and the family of Aaron had left, carried by the angels. Indeed in that is a sign for you, if you are believers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبر نے ان سے کہا کہ ان کی بادشاہی کی نشانی یہ ہے کہ تمہارے پاس ایک صندوق آئے گا جس کو فرشتے اٹھائے ہوئے ہوں گے اس میں تمہارے پروردگار کی طرف سے تسلی (بخشنے والی چیز) ہوگی اور کچھ اور چیزیں بھی ہوں گی جو موسیٰ اور ہارون چھوڑ گئے تھے۔ اگر تم ایمان رکھتے ہو تو یہ تمہارے لئے ایک بڑی نشانی ہے
+**English (Yusuf Ali):** And (further) their Prophet said to them: "A Sign of his authority is that there shall come to you the Ark of the covenant, with (an assurance) therein of security from your Lord, and the relics left by the family of Moses and the family of Aaron, carried by angels. In this is a symbol for you if ye indeed have faith."
 
 [Open on Quran.com](https://quran.com/2/248)
 
@@ -99,7 +99,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Theirs is] like the custom of the people of Pharaoh and those before them. They denied Our signs, so Allāh seized them for their sins. And Allāh is severe in penalty.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کا حال بھی فرعونیوں اور ان سے پہلے لوگوں کا سا ہوگا جنہوں نے ہماری آیتوں کی تکذیب کی تھی تو خدا نے ان کو ان کے گناہوں کے سبب (عذاب میں) پکڑ لیا تھا اور خدا سخت عذاب کرنے والا ہے
+**English (Yusuf Ali):** (Their plight will be) no better than that of the people of Pharaoh, and their predecessors: They denied our Signs, and Allah called them to account for their sins. For Allah is strict in punishment.
 
 [Open on Quran.com](https://quran.com/3/11)
 
@@ -115,7 +115,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh chose Adam and Noah and the family of Abraham and the family of ʿImrān over the worlds -
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے آدم اور نوح اور خاندان ابراہیم اور خاندان عمران کو تمام جہان کے لوگوں میں منتخب فرمایا تھا
+**English (Yusuf Ali):** Allah did choose Adam and Noah, the family of Abraham, and the family of 'Imran above all people,-
 
 [Open on Quran.com](https://quran.com/3/33)
 
@@ -131,7 +131,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do they envy people for what Allāh has given them of His bounty? But We had already given the family of Abraham the Scripture and wisdom and conferred upon them a great kingdom.
 
-**Urdu (Fatah Muhammad Jalandhari):** یا جو خدا نے لوگوں کو اپنے فضل سے دے رکھا ہے اس کا حسد کرتے ہیں تو ہم نے خاندان ابراہیم ؑ کو کتاب اور دانائی عطا فرمائی تھی اور سلطنت عظیم بھی بخشی تھی
+**English (Yusuf Ali):** Or do they envy mankind for what Allah hath given them of his bounty? but We had already given the people of Abraham the Book and Wisdom, and conferred upon them a great kingdom.
 
 [Open on Quran.com](https://quran.com/4/54)
 
@@ -147,7 +147,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We certainly seized the people of Pharaoh with years of famine and a deficiency in fruits that perhaps they would be reminded.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے فرعونیوں کو قحطوں اور میووں کے نقصان میں پکڑا تاکہ نصیحت حاصل کریں
+**English (Yusuf Ali):** We punished the people of Pharaoh with years (of droughts) and shortness of crops; that they might receive admonition.
 
 [Open on Quran.com](https://quran.com/7/130)
 
@@ -163,7 +163,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall, O Children of Israel], when We saved you from the people of Pharaoh, [who were] afflicting you with the worst torment - killing your sons and keeping your women alive. And in that was a great trial from your Lord.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور ہمارے ان احسانوں کو یاد کرو) جب ہم نے تم کو فرعونیوں (کے ہاتھ) سے نجات بخشی وہ لوگ تم کو بڑا دکھ دیتے تھے۔ تمہارے بیٹوں کو قتل کر ڈالتے تھے اور بیٹیوں کو زندہ رہنے دیتے تھے۔ اور اس میں تمہارے پروردگار کی طرف سے سخت آزمائش تھی
+**English (Yusuf Ali):** And remember We rescued you from Pharaoh's people, who afflicted you with the worst of penalties, who slew your male children and saved alive your females: in that was a momentous trial from your Lord.
 
 [Open on Quran.com](https://quran.com/7/141)
 
@@ -179,7 +179,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Theirs is] like the custom of the people of Pharaoh and of those before them. They disbelieved in the signs of Allāh, so Allāh seized them for their sins. Indeed, Allāh is Powerful and severe in penalty.
 
-**Urdu (Fatah Muhammad Jalandhari):** جیسا حال فرعوینوں اور ان سے پہلے لوگوں کا (ہوا تھا ویسا ہی ان کا ہوا کہ) انہوں نے خدا کی آیتوں سے کفر کیا تو خدا نےان کے گناہوں کی سزا میں ان کو پکڑ لیا۔ بےشک خدا زبردست اور سخت عذاب دینے والا ہے
+**English (Yusuf Ali):** "(Deeds) after the manner of the people of Pharaoh and of those before them: They rejected the Signs of Allah, and Allah punished them for their crimes: for Allah is Strong, and Strict in punishment:
 
 [Open on Quran.com](https://quran.com/8/52)
 
@@ -195,7 +195,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Theirs is] like the custom of the people of Pharaoh and of those before them. They denied the signs of their Lord, so We destroyed them for their sins, and We drowned the people of Pharaoh. And all [of them] were wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** جیسا حال فرعونیوں اور ان سے پہلے لوگوں کا (ہوا تھا ویسا ہی ان کا ہوا) انہوں نے اپنے پروردگار کی آیتوں کو جھٹلایا تو ہم نے ان کو ان کے گناہوں کے سبب ہلاک کر ڈالا اور فرعونیوں کو ڈبو دیا۔ اور وہ سب ظالم تھے
+**English (Yusuf Ali):** (Deeds) after the manner of the people of Pharaoh and those before them": They treated as false the Signs of their Lord: so We destroyed them for their crimes, and We drowned the people of Pharaoh: for they were all oppressors and wrong-doers.
 
 [Open on Quran.com](https://quran.com/8/54)
 

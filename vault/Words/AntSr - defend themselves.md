@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 26:93 · [[026 Ash-Shuara]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Other than Allāh? Can they help you or help themselves?"
 
-**Urdu (Fatah Muhammad Jalandhari):** یعنی جن کو خدا کے سوا (پوجتے تھے) کیا وہ تمہاری مدد کرسکتے ہیں یا خود بدلہ لے سکتے ہیں
+**English (Yusuf Ali):** "'Besides Allah? Can they help you or help themselves?'
 
 [Open on Quran.com](https://quran.com/26/93)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Except those [poets] who believe and do righteous deeds and remember Allāh often and defend [the Muslims] after they were wronged. And those who have wronged are going to know to what [kind of] return they will be returned.
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر جو لوگ ایمان لائے اور نیک کام کئے اور خدا کو بہت یاد کرتے رہے اور اپنے اوپر ظلم ہونے کے بعد انتقام لیا اور ظالم عنقریب جان لیں گے کہ کون سی جگہ لوٹ کر جاتے ہیں
+**English (Yusuf Ali):** Except those who believe, work righteousness, engage much in the remembrance of Allah, and defend themselves only after they are unjustly attacked. And soon will the unjust assailants know what vicissitudes their affairs will take!
 
 [Open on Quran.com](https://quran.com/26/227)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who, when tyranny strikes them, they retaliate [in a just manner].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو ایسے ہیں کہ جب ان پر ظلم وتعدی ہو تو (مناسب طریقے سے) بدلہ لیتے ہیں
+**English (Yusuf Ali):** And those who, when an oppressive wrong is inflicted on them, (are not cowed but) help and defend themselves.
 
 [Open on Quran.com](https://quran.com/42/39)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever retaliates after having been wronged - those have not upon them any cause [for blame].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس پر ظلم ہوا ہو اگر وہ اس کے بعد انتقام لے تو ایسے لوگوں پر کچھ الزام نہیں
+**English (Yusuf Ali):** But indeed if any do help and defend themselves after a wrong (done) to them, against such there is no cause of blame.
 
 [Open on Quran.com](https://quran.com/42/41)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when you meet those who disbelieve [in battle], strike [their] necks until, when you have inflicted slaughter upon them, then secure [their] bonds, and either [confer] favor afterwards or ransom [them] until the war lays down its burdens. That [is the command]. And if Allāh had willed, He could have taken vengeance upon them [Himself], but [He ordered armed struggle] to test some of you by means of others. And those who are killed in the cause of Allāh - never will He waste their deeds.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب تم کافروں سے بھڑ جاؤ تو ان کی گردنیں اُڑا دو۔ یہاں تک کہ جب ان کو خوب قتل کرچکو تو (جو زندہ پکڑے جائیں ان کو) مضبوطی سے قید کرلو۔ پھر اس کے بعد یا تو احسان رکھ کر چھوڑ دینا چاہیئے یا کچھ مال لے کر یہاں تک کہ (فریق مقابل) لڑائی (کے) ہتھیار (ہاتھ سے) رکھ دے۔ (یہ حکم یاد رکھو) اور اگر خدا چاہتا تو (اور طرح) ان سے انتقام لے لیتا۔ لیکن اس نے چاہا کہ تمہاری آزمائش ایک (کو) دوسرے سے (لڑوا کر) کرے۔ اور جو لوگ خدا کی راہ میں مارے گئے ان کے عملوں کو ہرگز ضائع نہ کرے گا
+**English (Yusuf Ali):** Therefore, when ye meet the Unbelievers (in fight), smite at their necks; At length, when ye have thoroughly subdued them, bind a bond firmly (on them): thereafter (is the time for) either generosity or ransom: Until the war lays down its burdens. Thus (are ye commanded): but if it had been Allah's Will, He could certainly have exacted retribution from them (Himself); but (He lets you fight) in order to test you, some with others. But those who are slain in the Way of Allah,- He will never let their deeds be lost.
 
 [Open on Quran.com](https://quran.com/47/4)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So he invoked his Lord, "Indeed, I am overpowered, so help."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے اپنے پروردگار سے دعا کی کہ (بار الٓہا) میں (ان کے مقابلے میں) کمزور ہوں تو (ان سے) بدلہ لے
+**English (Yusuf Ali):** Then he called on his Lord: "I am one overcome: do Thou then help (me)!"
 
 [Open on Quran.com](https://quran.com/54/10)
 
@@ -138,7 +138,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There will be sent upon you a flame of fire and smoke, and you will not defend yourselves.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم پر آگ کے شعلے اور دھواں چھوڑ دیا جائے گا تو پھر تم مقابلہ نہ کرسکو گے
+**English (Yusuf Ali):** On you will be sent (O ye evil ones twain!) a flame of fire (to burn) and a smoke (to choke): no defence will ye have:
 
 [Open on Quran.com](https://quran.com/55/35)
 

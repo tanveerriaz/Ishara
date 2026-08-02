@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:45 · [[003 Ali Imran]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [And mention] when the angels said, "O Mary, indeed Allāh gives you good tidings of a word from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** (وہ وقت بھی یاد کرنے کے لائق ہے) جب فرشتوں نے (مریم سے کہا) کہ مریم خدا تم کو اپنی طرف سے ایک فیض کی بشارت دیتا ہے جس کا نام مسیح (اور مشہور) عیسیٰ ابن مریم ہوگا (اور) جو دنیا اور آخرت میں باآبرو اور (خدا کے) خاصوں میں سے ہوگا
+**English (Yusuf Ali):** Behold! the angels said: "O Mary! Allah giveth thee glad tidings of a Word from Him: his name will be Christ Jesus, the son of Mary, held in honour in this world and the Hereafter and of (the company of) those nearest to Allah;
 
 [Open on Quran.com](https://quran.com/3/45)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [for] their saying, "Indeed, we have killed the Messiah, Jesus the son of Mary, the messenger of Allāh." And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them. And indeed, those who differ over it are in doubt about it. They have no knowledge of it except the following of assumption. And they did not kill him, for certain.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہنے کے سبب کہ ہم نے مریم کے بیٹے عیسیٰ مسیح کو جو خدا کے پیغمبر (کہلاتے) تھے قتل کردیا ہے (خدا نے ان کو معلون کردیا) اور انہوں نے عیسیٰ کو قتل نہیں کیا اور نہ انہیں سولی پر چڑھایا بلکہ ان کو ان کی سی صورت معلوم ہوئی اور جو لوگ ان کے بارے میں اختلاف کرتے ہیں وہ ان کے حال سے شک میں پڑے ہوئے ہیں اور پیروئی ظن کے سوا ان کو اس کا مطلق علم نہیں۔ اور انہوں نے عیسیٰ کو یقیناً قتل نہیں کیا
+**English (Yusuf Ali):** That they said (in boast), "We killed Christ Jesus the son of Mary, the Messenger of Allah";- but they killed him not, nor crucified him, but so it was made to appear to them, and those who differ therein are full of doubts, with no (certain) knowledge, but only conjecture to follow, for of a surety they killed him not:-
 
 [Open on Quran.com](https://quran.com/4/157)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O People of the Scripture, do not commit excess in your religion or say about Allāh except the truth. The Messiah, Jesus the son of Mary, was but a messenger of Allāh and His word which He directed to Mary and a soul [created at a command] from Him. So believe in Allāh and His messengers. And do not say, "Three"; desist - it is better for you. Indeed, Allāh is but one God. Exalted is He above having a son. To Him belongs whatever is in the heavens and whatever is on the earth. And sufficient is Allāh as Disposer of affairs.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے اہل کتاب اپنے دین (کی بات) میں حد سے نہ بڑھو اور خدا کے بارے میں حق کے سوا کچھ نہ کہو۔ مسیح (یعنی) مریم کے بیٹے عیسیٰ (نہ خدا تھے نہ خدا کے بیٹے بلکہ) خدا کے رسول اور کا کلمہٴ (بشارت) تھے جو اس نے مریم کی طرف بھیجا تھا اور اس کی طرف سے ایک روح تھے تو خدا اوراس کے رسولوں پر ایمان لاؤ۔ اور (یہ) نہ کہو (کہ خدا) تین (ہیں۔ اس اعتقاد سے) باز آؤ کہ یہ تمہارے حق میں بہتر ہے۔ خدا ہی معبود واحد ہے اور اس سے پاک ہے کہ اس کے اولاد ہو۔ جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب اسی کا ہے۔ اور خدا ہی کارساز کافی ہے
+**English (Yusuf Ali):** O People of the Book! Commit no excesses in your religion: Nor say of Allah aught but the truth. Christ Jesus the son of Mary was (no more than) a messenger of Allah, and His Word, which He bestowed on Mary, and a spirit proceeding from Him: so believe in Allah and His messengers. Say not "Trinity": desist: it will be better for you: for Allah is one Allah: Glory be to Him: (far exalted is He) above having a son. To Him belong all things in the heavens and on earth. And enough is Allah as a Disposer of affairs.
 
 [Open on Quran.com](https://quran.com/4/171)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Never would the Messiah disdain to be a servant of Allāh, nor would the angels near [to Him]. And whoever disdains His worship and is arrogant - He will gather them to Himself all together.
 
-**Urdu (Fatah Muhammad Jalandhari):** مسیح اس بات سے عار نہیں رکھتے کہ خدا کے بندے ہوں اور نہ مقرب فرشتے (عار رکھتے ہیں) اور جو شخص خدا کا بندہ ہونے کو موجب عار سمجھے اور سرکشی کرے تو خدا سب کو اپنے پاس جمع کرلے گا
+**English (Yusuf Ali):** Christ disdaineth nor to serve and worship Allah, nor do the angels, those nearest (to Allah): those who disdain His worship and are arrogant,-He will gather them all together unto Himself to (answer).
 
 [Open on Quran.com](https://quran.com/4/172)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They have certainly disbelieved who say that Allāh is Christ, the son of Mary. Say, "Then who could prevent Allāh at all if He had intended to destroy Christ, the son of Mary, or his mother or everyone on the earth?" And to Allāh belongs the dominion of the heavens and the earth and whatever is between them. He creates what He wills, and Allāh is over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اس بات کے قائل ہیں کہ عیسیٰ بن مریم خدا ہیں وہ بےشک کافر ہیں (ان سے) کہہ دو کہ اگر خدا عیسیٰ بن مریم کو اور ان کی والدہ کو اور جتنے لوگ زمین میں ہیں سب کو ہلاک کرنا چاہے تو اس کے آگے کس کی پیش چل سکتی ہے؟ اور آسمان اور زمین اور جو کچھ ان دونوں میں ہے سب پر خدا ہی کی بادشاہی ہے وہ جو چاہتا ہے پیدا کرتا ہے اور خدا ہر چیز پر قادر ہے
+**English (Yusuf Ali):** In blasphemy indeed are those that say that Allah is Christ the son of Mary. Say: "Who then hath the least power against Allah, if His will were to destroy Christ the son of Mary, his mother, and all every - one that is on the earth? For to Allah belongeth the dominion of the heavens and the earth, and all that is between. He createth what He pleaseth. For Allah hath power over all things."
 
 [Open on Quran.com](https://quran.com/5/17)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They have certainly disbelieved who say, "Allāh is the Messiah, the son of Mary" while the Messiah has said, "O Children of Israel, worship Allāh, my Lord and your Lord." Indeed, he who associates others with Allāh - Allāh has forbidden him Paradise, and his refuge is the Fire. And there are not for the wrongdoers any helpers.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ لوگ بےشبہ کافر ہیں جو کہتے ہیں کہ مریم کے بیٹے (عیسیٰ) مسیح خدا ہیں حالانکہ مسیح یہود سے یہ کہا کرتے تھے کہ اے بنی اسرائیل خدا ہی کی عبادت کرو جو میرا بھی پروردگار ہے اور تمہارا بھی (اور جان رکھو کہ) جو شخص خدا کے ساتھ شرک کرے گا خدا اس پر بہشت حرام کر دے گا اور اس کا ٹھکانہ دوزخ ہے اور ظالموں کا کوئی مددگار نہیں
+**English (Yusuf Ali):** They do blaspheme who say: "Allah is Christ the son of Mary." But said Christ: "O Children of Israel! worship Allah, my Lord and your Lord." Whoever joins other gods with Allah,- Allah will forbid him the garden, and the Fire will be his abode. There will for the wrong-doers be no one to help.
 
 [Open on Quran.com](https://quran.com/5/72)
 
@@ -137,7 +137,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Messiah, son of Mary, was not but a messenger; [other] messengers have passed on before him. And his mother was a supporter of truth. They both used to eat food. Look how We make clear to them the signs; then look how they are deluded.
 
-**Urdu (Fatah Muhammad Jalandhari):** مسیح ابن مریم تو صرف (خدا) کے پیغمبر تھے ان سے پہلے بھی بہت سے رسول گزر چکے تھے اور ان کی والدہ (مریم خدا کی) ولی اور سچی فرمانبردار تھیں دونوں (انسان تھے اور) کھانا کھاتے تھے دیکھو ہم ان لوگوں کے لیے اپنی آیتیں کس طرح کھول کھول کر بیان کرتے ہیں پھر (یہ) دیکھو کہ یہ کدھر الٹے جا رہے ہیں
+**English (Yusuf Ali):** Christ the son of Mary was no more than a messenger; many were the messengers that passed away before him. His mother was a woman of truth. They had both to eat their (daily) food. See how Allah doth make His signs clear to them; yet see in what ways they are deluded away from the truth!
 
 [Open on Quran.com](https://quran.com/5/75)
 
@@ -153,7 +153,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Jews say, "Ezra is the son of Allāh"; and the Christians say, "The Messiah is the son of Allāh." That is their statement from their mouths; they imitate the saying of those who disbelieved before [them]. May Allāh destroy them; how are they deluded?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہود کہتے ہیں کہ عُزیر خدا کے بیٹے ہیں اور عیسائی کہتے ہیں کہ مسیح خدا کے بیٹے ہیں۔ یہ ان کے منہ کی باتیں ہیں پہلے کافر بھی اسی طرح کی باتیں کہا کرتے تھے یہ بھی انہیں کی ریس کرنے میں لگے ہیں۔ خدا ان کو ہلاک کرے۔ یہ کہاں بہکے پھرتے ہیں
+**English (Yusuf Ali):** The Jews call 'Uzair a son of Allah, and the Christians call Christ the son of Allah. That is a saying from their mouth; (in this) they but imitate what the unbelievers of old used to say. Allah's curse be on them: how they are deluded away from the Truth!
 
 [Open on Quran.com](https://quran.com/9/30)
 
@@ -169,7 +169,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They have taken their scholars and monks as lords besides Allāh, and [also] the Messiah, the son of Mary. And they were not commanded except to worship one God; there is no deity except Him. Exalted is He above whatever they associate with Him.
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے اپنے علماء اور مشائخ اور مسیح ابن مریم کو الله کے سوا خدا بنا لیا حالانکہ اُن کو یہ حکم دیا گیا تھا کہ خدائے واحد کے سوا کسی کی عبادت نہ کریں۔ اس کے سوا کوئی معبود نہیں۔ اور وہ ان لوگوں کے شریک مقرر کرنے سے پاک ہے
+**English (Yusuf Ali):** They take their priests and their anchorites to be their lords in derogation of Allah, and (they take as their Lord) Christ the son of Mary; yet they were commanded to worship but One Allah: there is no god but He. Praise and glory to Him: (Far is He) from having the partners they associate (with Him).
 
 [Open on Quran.com](https://quran.com/9/31)
 

@@ -14,31 +14,31 @@ The Romans · 60 ayahs
 
 ## Words in this surah (graph)
 
-- [[bd> - originates]] — `بَدَأَ` · originates
-- [[bsT - extends]] — `بَسَطَ` · extends
-- [[mnyb - turning]] — `مُنِيب` · turning
 - [[sAr - travel]] — `سارَ` · travel
-- [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
 - [[>vAr - plough]] — `أَثارُ` · plough
 - [[qym - right]] — `قِيَم` · right
-- [[xyr - better]] — `خَيْر` · better
-- [[gAfl - unaware]] — `غافِل` · unaware
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[mA' - water]] — `ماء` · water
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>xlf - break]] — `أَخْلَفُ` · break
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
-- [[dEA - call]] — `دَعا` · call
-- [[mwdp - love]] — `مَوَدَّة` · love
-- [[ytfkr - reflect]] — `يَتَفَكَّرُ` · reflect
-- [[E$y - evening]] — `عَشِيّ` · evening
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[mnyb - turning]] — `مُنِيب` · turning
+- [[bd> - originates]] — `بَدَأَ` · originates
+- [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
+- [[bsT - extends]] — `بَسَطَ` · extends
+- [[qrbY - relatives]] — `قُرْبَى` · relatives
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
+- [[mHDr - will brought]] — `مُحْضَر` · will brought
+- [[dEA - call]] — `دَعا` · call
+- [[qbl - before]] — `قَبْل` · before
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[rbt - it swells]] — `رَبَتْ` · it swells
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[lyl - night]] — `لَيْل` · night
+- [[wjh - faces]] — `وَجْه` · faces
+- [[qwp - strength]] — `قُوَّة` · strength
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[Hyn - time]] — `حِين` · time
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[yd - hands]] — `يَد` · hands
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[hAd - guide]] — `هاد` · guide
 
 ## Roots
 

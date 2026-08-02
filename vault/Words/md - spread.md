@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:15 · [[002 Al-Baqarah]]
 
@@ -48,7 +48,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [But] Allāh mocks them and prolongs them in their transgression [while] they wander blindly.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان (منافقوں) سے خدا ہنسی کرتا ہے اور انہیں مہلت دیئے جاتا ہے کہ شرارت وسرکشی میں پڑے بہک رہے ہیں
+**English (Yusuf Ali):** Allah will throw back their mockery on them, and give them rope in their trespasses; so they will wander like blind ones (To and fro).
 
 [Open on Quran.com](https://quran.com/2/15)
 
@@ -64,7 +64,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But their brothers - they [i.e., the devils] increase them in error; then they do not stop short.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان (کفار) کے بھائی انہیں گمراہی میں کھینچے جاتے ہیں پھر (اس میں کسی طرح کی) کوتاہی نہیں کرتے
+**English (Yusuf Ali):** But their brethren (the evil ones) plunge them deeper into error, and never relax (their efforts).
 
 [Open on Quran.com](https://quran.com/7/202)
 
@@ -80,7 +80,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who spread the earth and placed therein firmly set mountains and rivers; and from all of the fruits He made therein two mates; He causes the night to cover the day. Indeed in that are signs for a people who give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ وہی ہے جس نے زمین کو پھیلایا اور اس میں پہاڑ اور دریا پیدا کئے اور ہر طرح کے میوؤں کی دو دو قسمیں بنائیں۔ وہی رات کو دن کا لباس پہناتا ہے۔ غور کرنے والوں کے لیے اس میں بہت سی نشانیاں ہیں
+**English (Yusuf Ali):** And it is He who spread out the earth, and set thereon mountains standing firm and (flowing) rivers: and fruit of every kind He made in pairs, two and two: He draweth the night as a veil o'er the Day. Behold, verily in these things there are signs for those who consider!
 
 [Open on Quran.com](https://quran.com/13/3)
 
@@ -96,7 +96,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the earth - We have spread it and cast therein firmly set mountains and caused to grow therein [something] of every well-balanced thing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور زمین کو بھی ہم ہی نے پھیلایا اور اس پر پہاڑ (بنا کر) رکھ دیئے اور اس میں ہر ایک سنجیدہ چیز اُگائی
+**English (Yusuf Ali):** And the earth We have spread out (like a carpet); set thereon mountains firm and immovable; and produced therein all kinds of things in due balance.
 
 [Open on Quran.com](https://quran.com/15/19)
 
@@ -112,7 +112,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do not extend your eyes toward that by which We have given enjoyment to [certain] categories of them [i.e., the disbelievers], and do not grieve over them. And lower your wing [i.e., show kindness] to the believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کفار کی کئی جماعتوں کو جو (فوائد دنیاوی سے) متمتع کیا ہے تم ان کی طرف (رغبت سے) آنکھ اٹھا کر نہ دیکھنا اور نہ ان کے حال پر تاسف کرنا اور مومنوں سے خاطر اور تواضع سے پیش آنا
+**English (Yusuf Ali):** Strain not thine eyes. (Wistfully) at what We have bestowed on certain classes of them, nor grieve over them: but lower thy wing (in gentleness) to the believers.
 
 [Open on Quran.com](https://quran.com/15/88)
 
@@ -128,7 +128,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Whoever is in error - let the Most Merciful extend for him an extension [in wealth and time] until, when they see that which they were promised - either punishment [in this world] or the Hour [of resurrection] - they will come to know who is worst in position and weaker in soldiers."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ جو شخص گمراہی میں پڑا ہوا ہے خدا اس کو آہستہ آہستہ مہلت دیئے جاتا ہے۔ یہاں تک کہ جب اس چیز کو دیکھ لیں گے جس کا ان سے وعدہ کیا جاتا ہے خواہ عذاب اور خواہ قیامت۔ تو (اس وقت) جان لیں گے کہ مکان کس کا برا ہے اور لشکر کس کا کمزور ہے
+**English (Yusuf Ali):** Say: "If any men go astray, (Allah) Most Gracious extends (the rope) to them, until, when they see the warning of Allah (being fulfilled) - either in punishment or in (the approach of) the Hour,- they will at length realise who is worst in position, and (who) weakest in forces!
 
 [Open on Quran.com](https://quran.com/19/75)
 
@@ -144,7 +144,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** No! We will record what he says and extend [i.e., increase] for him from the punishment extensively.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہرگز نہیں۔ یہ جو کچھ کہتا ہے ہم اس کو لکھتے جاتے اور اس کے لئے آہستہ آہستہ عذاب بڑھاتے جاتے ہیں
+**English (Yusuf Ali):** Nay! We shall record what he says, and We shall add and add to his punishment.
 
 [Open on Quran.com](https://quran.com/19/79)
 
@@ -160,7 +160,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not extend your eyes toward that by which We have given enjoyment to [some] categories of them, [its being but] the splendor of worldly life by which We test them. And the provision of your Lord is better and more enduring.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کئی طرح کے لوگوں کو جو ہم نے دنیا کی زندگی میں آرائش کی چیزوں سے بہرہ مند کیا ہے تاکہ ان کی آزمائش کریں ان پر نگاہ نہ کرنا۔ اور تمہاری پروردگار کی (عطا فرمائی ہوئی) روزی بہت بہتر اور باقی رہنے والی ہے
+**English (Yusuf Ali):** Nor strain thine eyes in longing for the things We have given for enjoyment to parties of them, the splendour of the life of this world, through which We test them: but the provision of thy Lord is better and more enduring.
 
 [Open on Quran.com](https://quran.com/20/131)
 
@@ -176,7 +176,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Whoever should think that Allāh will not support him [i.e., Prophet Muḥammad (ﷺ)] in this world and the Hereafter - let him extend a rope to the ceiling, then cut off [his breath], and let him see: will his effort remove that which enrages [him]?
 
-**Urdu (Fatah Muhammad Jalandhari):** جو شخص یہ گمان کرتا ہے کہ خدا اس کو دنیا اور آخرت میں مدد نہیں دے گا تو اس کو چاہیئے کہ اوپر کی طرف (یعنی اپنے گھر کی چھت میں) ایک رسی باندھے پھر (اس سے اپنا) گلا گھونٹ لے۔ پھر دیکھے کہ آیا یہ تدبیر اس کے غصے کو دور کردیتی ہے
+**English (Yusuf Ali):** If any think that Allah will not help him (His Messenger) in this world and the Hereafter, let him stretch out a rope to the ceiling and cut (himself) off: then let him see whether his plan will remove that which enrages (him)!
 
 [Open on Quran.com](https://quran.com/22/15)
 
@@ -192,7 +192,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have you not considered your Lord - how He extends the shadow, and if He willed, He could have made it stationary? Then We made the sun for it an indication.
 
-**Urdu (Fatah Muhammad Jalandhari):** بلکہ تم نے اپنے پروردگار (کی قدرت) کو نہیں دیکھا کہ وہ سائے کو کس طرح دراز کر (کے پھیلا) دیتا ہے۔ اور اگر وہ چاہتا تو اس کو (بےحرکت) ٹھیرا رکھتا پھر سورج کو اس کا رہنما بنا دیتا ہے
+**English (Yusuf Ali):** Hast thou not turned thy vision to thy Lord?- How He doth prolong the shadow! If He willed, He could make it stationary! then do We make the sun its guide;
 
 [Open on Quran.com](https://quran.com/25/45)
 

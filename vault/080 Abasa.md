@@ -15,30 +15,30 @@ He Frowned · 42 ayahs
 ## Words in this surah (graph)
 
 - [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
-- [[bnY - children]] — `بُنَىّ` · children
-- [[sbyl - way]] — `سَبِيل` · way
-- [[mA' - water]] — `ماء` · water
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[mThrp - purified]] — `مُطَهَّرَة` · purified
-- [[Sb - will poured]] — `صَبَّ` · will poured
-- [[x$y - fear]] — `خَشِيَ` · fear
 - [[mrfwEp - raised]] — `مَرْفُوعَة` · raised
-- [[Amr} - person]] — `امْرِئ` · person
-- [[nZr - see]] — `نَظَرَ` · see
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[yd - hands]] — `يَد` · hands
-- [[nxl - date-palms]] — `نَخْل` · date-palms
+- [[wjh - faces]] — `وَجْه` · faces
 - [[qdr - restricts]] — `قَدَر` · restricts
+- [[SHf - scriptures]] — `صُحُف` · scriptures
+- [[yd - hands]] — `يَد` · hands
+- [[>mr - command]] — `أَمَرَ` · command
+- [[SAHbp - wife]] — `صاحِبَة` · wife
+- [[mA' - water]] — `ماء` · water
 - [[jA' - came them]] — `جاءَ` · came them
-- [[>x - brother]] — `أَخ` · brother
-- [[mr' - man]] — `مَرْء` · man
+- [[>y - o you]] — `أَيّ` · o you
+- [[mThrp - purified]] — `مُطَهَّرَة` · purified
+- [[Enb - grapes]] — `عِنَب` · grapes
+- [[>EmY - blind]] — `أَعْمَى` · blind
+- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[mtAE - enjoyment]] — `مَتاع` · enjoyment
 - [[frt - you flee]] — `فَرَّتْ` · you flee
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[<nsAn - man]] — `إِنسان` · man
-- [[Hb - grain]] — `حُبّ` · grain
-- [[>rD - earth]] — `أَرْض` · earth
+- [[>b - father]] — `أَب` · father
+- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
 - [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[TEAm - food]] — `طَعام` · food
+- [[Sb - will poured]] — `صَبَّ` · will poured
+- [[ysr - ease]] — `يُسْر` · ease
+- [[br - land]] — `بِرّ` · land
 
 ## Roots
 

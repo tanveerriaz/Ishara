@@ -14,31 +14,31 @@ The Prohibition · 12 ayahs
 
 ## Words in this surah (graph)
 
-- [[xyr - better]] — `خَيْر` · better
-- [[bnY - children]] — `بُنَىّ` · children
-- [[tAb - repent]] — `تابَ` · repent
-- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[rwH - spirit]] — `رُوح` · spirit
-- [[Tlq - you divorce]] — `طَلَّقَ` · you divorce
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
+- [[nAr - fire]] — `نار` · fire
+- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
 - [[yd - hands]] — `يَد` · hands
-- [[byt - houses]] — `بَيْت` · houses
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[wqY - save us]] — `وَقَى` · save us
-- [[nwr - light]] — `نُور` · light
-- [[xAn - betray]] — `خانُ` · betray
-- [[nfx - will blown]] — `نَفَخَ` · will blown
-- [[mlk - angels]] — `مَلَك` · angels
-- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[mwlY - protector]] — `مَوْلَى` · protector
+- [[Eml - do]] — `عَمِلَ` · do
+- [[>mr - command]] — `أَمَرَ` · command
 - [[>tm - complete]] — `أَتَمَّ` · complete
-- [[>hl - people]] — `أَهْل` · people
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[allah - God]] — `الله` · God
-- [[qlb - hearts]] — `قَلْب` · hearts
-- [[frj - chastity]] — `فَرْج` · chastity
+- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
+- [[HjArp - stones]] — `حِجارَة` · stones
+- [[byt - houses]] — `بَيْت` · houses
+- [[xAn - betray]] — `خانُ` · betray
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[nhr - rivers]] — `نَهَر` · rivers
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>y - o you]] — `أَيّ` · o you
+- [[jry - flow]] — `جَرَيْ` · flow
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[bED - others]] — `بَعْض` · others
+- [[njY - we saved]] — `نَجَّى` · we saved
+- [[>xzy - disgrace me]] — `أَخْزَيْ` · disgrace me
+- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 5:64 · [[005 Al-Maidah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the Jews say, "The hand of Allāh is chained." Chained are their hands, and cursed are they for what they say. Rather, both His hands are extended; He spends however He wills. And that which has been revealed to you from your Lord will surely increase many of them in transgression and disbelief. And We have cast among them animosity and hatred until the Day of Resurrection. Every time they kindled the fire of war [against you], Allāh extinguished it. And they strive throughout the land [causing] corruption, and Allāh does not like corrupters.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہود کہتے ہیں کہ خدا کا ہاتھ (گردن سے) بندھا ہوا ہے (یعنی الله بخیل ہے) انہیں کے ہاتھ باندھے جائیں اور ایسا کہنے کے سبب ان پر لعنت ہو (اس کا ہاتھ بندھا ہوا نہیں) بلکہ اس کے دونوں ہاتھ کھلے ہیں وہ جس طرح (اور جتنا) چاہتا ہے خرچ کرتا ہے اور (اے محمد) یہ (کتاب) جو تمہارے پروردگار کی طرف سے تم پر نازل ہوئی اس سے ان میں سے اکثر کی شرارت اور انکار اور بڑھے گا اور ہم نے ان کے باہم عداوت اور بغض قیامت تک کے لیے ڈال دیا ہے یہ جب لڑائی کے لیے آگ جلاتے ہیں خدا اس کو بجھا دیتا ہے اور یہ ملک میں فساد کے لیے دوڑے پھرتے ہیں اور خدا فساد کرنے والوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** The Jews say: "Allah's hand is tied up." Be their hands tied up and be they accursed for the (blasphemy) they utter. Nay, both His hands are widely outstretched: He giveth and spendeth (of His bounty) as He pleaseth. But the revelation that cometh to thee from Allah increaseth in most of them their obstinate rebellion and blasphemy. Amongst them we have placed enmity and hatred till the Day of Judgment. Every time they kindle the fire of war, Allah doth extinguish it; but they (ever) strive to do mischief on earth. And Allah loveth not those who do mischief.
 
 [Open on Quran.com](https://quran.com/5/64)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They want to extinguish the light of Allāh with their mouths, but Allāh refuses except to perfect His light, although the disbelievers dislike it.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ چاہتے ہیں کہ خدا کے نور کو اپنے منہ سے (پھونک مار کر) بجھا دیں اور خدا اپنے نور کو پورا کئے بغیر رہنے کا نہیں۔ اگرچہ کافروں کو برا ہی لگے
+**English (Yusuf Ali):** Fain would they extinguish Allah's light with their mouths, but Allah will not allow but that His light should be perfected, even though the Unbelievers may detest (it).
 
 [Open on Quran.com](https://quran.com/9/32)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They want to extinguish the light of Allāh with their mouths, but Allāh will perfect His light, although the disbelievers dislike it.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ چاہتے ہیں کہ خدا کے (چراغ) کی روشنی کو منہ سے (پھونک مار کر) بجھا دیں۔ حالانکہ خدا اپنی روشنی کو پورا کرکے رہے گا خواہ کافر ناخوش ہی ہوں
+**English (Yusuf Ali):** Their intention is to extinguish Allah's Light (by blowing) with their mouths: But Allah will complete (the revelation of) His Light, even though the Unbelievers may detest (it).
 
 [Open on Quran.com](https://quran.com/61/8)
 

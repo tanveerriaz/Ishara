@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:61 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when you said, "O Moses, we can never endure one [kind of] food. So call upon your Lord to bring forth for us from the earth its green herbs and its cucumbers and its garlic and its lentils and its onions." [Moses] said, "Would you exchange what is better for what is less? Go into [any] settlement and indeed, you will have what you have asked." And they were covered with humiliation and poverty and returned with anger from Allāh [upon them]. That was because they [repeatedly] disbelieved in the signs of Allāh and killed the prophets without right. That was because they disobeyed and were [habitually] transgressing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم نے کہا کہ موسیٰ! ہم سے ایک (ہی) کھانے پر صبر نہیں ہو سکتا تو اپنے پروردگار سے دعا کیجئے کہ ترکاری اور ککڑی اور گیہوں اور مسور اور پیاز (وغیرہ) جو نباتات زمین سے اُگتی ہیں، ہمارے لیے پیدا کر دے۔ انہوں نے کہا کہ بھلا عمدہ چیزیں چھوڑ کر ان کے عوض ناقص چیزیں کیوں چاہتے ہوں۔ (اگر یہی چیزیں مطلوب ہیں) تو کسی شہر میں جا اترو، وہاں جو مانگتے ہو، مل جائے گا۔ اور (آخرکار) ذلت (ورسوائی) اور محتاجی (وبے نوائی) ان سے چمٹا دی گئی اور وہ الله کے غضب میں گرفتار ہو گئے۔ یہ اس لیے کہ وہ الله کی آیتوں سے انکار کرتے تھے اور (اس کے) نبیوں کو ناحق قتل کر دیتے تھے۔ (یعنی) یہ اس لیے کہ نافرمانی کئے جاتے اور حد سے بڑھے جاتے تھے
+**English (Yusuf Ali):** And remember ye said: "O Moses! we cannot endure one kind of food (always); so beseech thy Lord for us to produce for us of what the earth groweth, -its pot-herbs, and cucumbers, Its garlic, lentils, and onions." He said: "Will ye exchange the better for the worse? Go ye down to any town, and ye shall find what ye want!" They were covered with humiliation and misery; they drew on themselves the wrath of Allah. This because they went on rejecting the Signs of Allah and slaying His Messengers without just cause. This because they rebelled and went on transgressing.
 
 [Open on Quran.com](https://quran.com/2/61)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** How wretched is that for which they sold themselves - that they would disbelieve in what Allāh has revealed through [their] outrage that Allāh would send down His favor upon whom He wills from among His servants. So they returned having [earned] wrath upon wrath. And for the disbelievers is a humiliating punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس چیز کے بدلے انہوں نے اپنے تئیں بیچ ڈالا، وہ بہت بری ہے، یعنی اس جلن سے کہ خدا اپنے بندوں میں جس پر چاہتا ہے، اپنی مہربانی سے نازل فرماتا ہے۔ خدا کی نازل کی ہوئی کتاب سے کفر کرنے لگے تو وہ (اس کے) غضب بالائے غضب میں مبتلا ہو گئے۔ اور کافروں کے لیے ذلیل کرنے والا عذاب ہے
+**English (Yusuf Ali):** Miserable is the price for which they have sold their souls, in that they deny (the revelation) which Allah has sent down, in insolent envy that Allah of His Grace should send it to any of His servants He pleases: Thus have they drawn on themselves Wrath upon Wrath. And humiliating is the punishment of those who reject Faith.
 
 [Open on Quran.com](https://quran.com/2/90)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They have been put under humiliation [by Allāh] wherever they are overtaken, except for a rope [i.e., covenant] from Allāh and a rope [i.e., treaty] from the people [i.e., the Muslims]. And they have drawn upon themselves anger from Allāh and have been put under destitution. That is because they disbelieved in [i.e., rejected] the verses of Allāh and killed the prophets without right. That is because they disobeyed and [habitually] transgressed.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ جہاں نظر آئیں گے ذلت (کو دیکھو گے کہ) ان سے چمٹ رہی ہے بجز اس کے کہ یہ خدا اور (مسلمان) لوگوں کی پناہ میں آ جائیں اور یہ لوگ خدا کے غضب میں گرفتار ہیں اور ناداری ان سے لپٹ رہی ہے یہ اس لیے کہ خدا کی آیتوں سے انکار کرتےتھے اور (اس کے) پیغمبروں کو ناحق قتل کر دیتے تھے یہ اس لیے کہ یہ نافرمانی کیے جاتے اور حد سے بڑھے جاتے تھے
+**English (Yusuf Ali):** Shame is pitched over them (Like a tent) wherever they are found, except when under a covenant (of protection) from Allah and from men; they draw on themselves wrath from Allah, and pitched over them is (the tent of) destitution. This because they rejected the Signs of Allah, and slew the prophets in defiance of right; this because they rebelled and transgressed beyond bounds.
 
 [Open on Quran.com](https://quran.com/3/112)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So is one who pursues the pleasure of Allāh like one who brings upon himself the anger of Allāh and whose refuge is Hell? And wretched is the destination.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا جو شخص خدا کی خوشنودی کا تابع ہو وہ اس شخص کی طرح(مرتکب خیانت) ہوسکتا ہے جو خدا کی ناخوشی میں گرفتار ہو اور جس کا ٹھکانہ دوزخ ہے، اور وہ برا ٹھکانا ہے
+**English (Yusuf Ali):** Is the man who follows the good pleasure of Allah Like the man who draws on himself the wrath of Allah, and whose abode is in Hell?- A woeful refuge!
 
 [Open on Quran.com](https://quran.com/3/162)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, I want you to obtain [thereby] my sin and your sin so you will be among the companions of the Fire. And that is the recompense of wrongdoers."
 
-**Urdu (Fatah Muhammad Jalandhari):** میں چاہتا ہوں کہ تو میرے گناہ میں بھی ماخوذ ہو اور اپنے گناہ میں بھی پھر (زمرہ) اہل دوزخ میں ہو اور ظالموں کی یہی سزا ہے
+**English (Yusuf Ali):** "For me, I intend to let thee draw on thyself my sin as well as thine, for thou wilt be among the companions of the fire, and that is the reward of those who do wrong."
 
 [Open on Quran.com](https://quran.com/5/29)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever turns his back to them on such a day, unless swerving [as a strategy] for war or joining [another] company, has certainly returned with anger [upon him] from Allāh, and his refuge is Hell - and wretched is the destination.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص جنگ کے روز اس صورت کے سوا کہ لڑائی کے لیے کنارے کنارے چلے (یعنی حکمت عملی سے دشمن کو مارے) یا اپنی فوج میں جا ملنا چاہے۔ ان سے پیٹھ پھیرے گا تو (سمجھو کہ) وہ خدا کے غضب میں گرفتار ہوگیا اور اس کا ٹھکانا دوزخ ہے۔ اور وہ بہت ہی بری جگہ ہے
+**English (Yusuf Ali):** If any do turn his back to them on such a day - unless it be in a stratagem of war, or to retreat to a troop (of his own)- he draws on himself the wrath of Allah, and his abode is Hell,- an evil refuge (indeed)!
 
 [Open on Quran.com](https://quran.com/8/16)
 

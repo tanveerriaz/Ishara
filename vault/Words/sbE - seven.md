@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:29 · [[002 Al-Baqarah]]
 
@@ -51,7 +51,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who created for you all of that which is on the earth. Then He directed Himself to the heaven, [His being above all creation], and made them seven heavens, and He is Knowing of all things.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سب چیزیں جو زمین میں ہیں تمہارے لیے پیدا کیں پھر آسمان کی طرف متوجہ ہوا تو ان کو ٹھیک سات آسمان بنا دیا اور وہ ہر چیز سے خبردار ہے
+**English (Yusuf Ali):** It is He Who hath created for you all things that are on earth; Moreover His design comprehended the heavens, for He gave order and perfection to the seven firmaments; and of all things He hath perfect knowledge.
 
 [Open on Quran.com](https://quran.com/2/29)
 
@@ -67,7 +67,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The example of those who spend their wealth in the way of Allāh is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains. And Allāh multiplies [His reward] for whom He wills. And Allāh is all-Encompassing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال خدا کی راہ میں خرچ کرتے ہیں ان (کے مال) کی مثال اس دانے کی سی ہے جس سے سات بالیں اگیں اور ہر ایک بال میں سو سو دانے ہوں اور خدا جس (کے مال) کو چاہتا ہے زیادہ کرتا ہے۔ وہ بڑی کشائش والا اور سب کچھ جاننے والا ہے
+**English (Yusuf Ali):** The parable of those who spend their substance in the way of Allah is that of a grain of corn: it groweth seven ears, and each ear Hath a hundred grains. Allah giveth manifold increase to whom He pleaseth: And Allah careth for all and He knoweth all things.
 
 [Open on Quran.com](https://quran.com/2/261)
 
@@ -83,7 +83,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم پر مرا ہوا جانور اور (بہتا) لہو اور سور کا گوشت اور جس چیز پر خدا کے سوا کسی اور کا نام پکارا جائے اور جو جانور گلا گھٹ کر مر جائے اور جو چوٹ لگ کر مر جائے اور جو گر کر مر جائے اور جو سینگ لگ کر مر جائے یہ سب حرام ہیں اور وہ جانور بھی جس کو درندے پھاڑ کھائیں۔ مگر جس کو تم (مرنے سے پہلے) ذبح کرلو اور وہ جانور بھی جو تھان پر ذبح کیا جائے اور یہ بھی کہ پاسوں سے قسمت معلوم کرو یہ سب گناہ (کے کام) ہیں آج کافر تمہارے دین سے ناامید ہو گئے ہیں تو ان سے مت ڈرو اور مجھی سے ڈرتے رہو (اور) آج ہم نے تمہارے لئے تمہارا دین کامل کر دیا اور اپنی نعمتیں تم پر پوری کر دیں اور تمہارے لئے اسلام کو دین پسند کیا ہاں جو شخص بھوک میں ناچار ہو جائے (بشرطیکہ) گناہ کی طرف مائل نہ ہو تو خدا بخشنے والا مہربان ہے
+**English (Yusuf Ali):** Forbidden to you (for food) are: dead meat, blood, the flesh of swine, and that on which hath been invoked the name of other than Allah; that which hath been killed by strangling, or by a violent blow, or by a headlong fall, or by being gored to death; that which hath been (partly) eaten by a wild animal; unless ye are able to slaughter it (in due form); that which is sacrificed on stone (altars); (forbidden) also is the division (of meat) by raffling with arrows: that is impiety. This day have those who reject faith given up all hope of your religion: yet fear them not but fear Me. This day have I perfected your religion for you, completed My favour upon you, and have chosen for you Islam as your religion. But if any is forced by hunger, with no inclination to transgression, Allah is indeed Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/5/3)
 
@@ -99,7 +99,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Moses chose from his people seventy men for Our appointment. And when the earthquake seized them, he said, "My Lord, if You had willed, You could have destroyed them before and me [as well]. Would You destroy us for what the foolish among us have done? This is not but Your trial by which You send astray whom You will and guide whom You will. You are our Protector, so forgive us and have mercy upon us; and You are the best of forgivers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ نے اس میعاد پر جو ہم نے مقرر کی تھی اپنی قوم کے ستر آدمی منتخب (کرکے کوہ طور پر حاضر) ٹل کیے۔ جب ان کو زلزلے نے پکڑا تو موسیٰ نے کہا کہ اے پروردگار تو چاہتا تو ان کو اور مجھ کو پہلے ہی سے ہلاک کر دیتا۔ کیا تو اس فعل کی سزا میں جو ہم میں سے بےعقل لوگوں نے کیا ہے ہمیں ہلاک کردے گا۔ یہ تو تیری آزمائش ہے۔ اس سے تو جس کو چاہے گمراہ کرے اور جس کو چاہے ہدایت بخشے۔ تو ہی ہمارا کارساز ہے تو ہمیں (ہمارے گناہ) بخش دے اور ہم پر رحم فرما اور تو سب سے بہتر بخشنے والا ہے
+**English (Yusuf Ali):** And Moses chose seventy of his people for Our place of meeting: when they were seized with violent quaking, he prayed: "O my Lord! if it had been Thy will Thou couldst have destroyed, long before, both them and me: wouldst Thou destroy us for the deeds of the foolish ones among us? this is no more than Thy trial: by it Thou causest whom Thou wilt to stray, and Thou leadest whom Thou wilt into the right path. Thou art our Protector: so forgive us and give us Thy mercy; for Thou art the best of those who forgive.
 
 [Open on Quran.com](https://quran.com/7/155)
 
@@ -115,7 +115,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Ask forgiveness for them, [O Muḥammad], or do not ask forgiveness for them. If you should ask forgiveness for them seventy times - never will Allāh forgive them. That is because they disbelieved in Allāh and His Messenger, and Allāh does not guide the defiantly disobedient people.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم ان کے لیے بخشش مانگو یا نہ مانگو۔ (بات ایک ہے)۔ اگر ان کے لیے ستّر دفعہ بھی بخشش مانگو گے تو بھی خدا ان کو نہیں بخشے گا۔ یہ اس لیے کہ انہوں نے خدا اور اس کے رسول سے کفر کیا۔ اور خدا نافرمان لوگوں کو ہدایت نہیں دیتا
+**English (Yusuf Ali):** Whether thou ask for their forgiveness, or not, (their sin is unforgivable): if thou ask seventy times for their forgiveness, Allah will not forgive them: because they have rejected Allah and His Messenger: and Allah guideth not those who are perversely rebellious.
 
 [Open on Quran.com](https://quran.com/9/80)
 
@@ -131,7 +131,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [subsequently] the king said, "Indeed, I have seen [in a dream] seven fat cows being eaten by seven [that were] lean, and seven green spikes [of grain] and others [that were] dry. O eminent ones, explain to me my vision, if you should interpret visions."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بادشاہ نے کہا کہ میں (نے خواب دیکھا ہے) دیکھتا (کیا) ہوں کہ سات موٹی گائیں ہیں جن کو سات دبلی گائیں کھا رہی ہیں اور سات خوشے سبز ہیں اور (سات) خشک۔ اے سردارو! اگر تم خوابوں کی تعبیر دے سکتے ہو تو مجھے میرے خواب کی تعبیر بتاؤ
+**English (Yusuf Ali):** The king (of Egypt) said: "I do see (in a vision) seven fat kine, whom seven lean ones devour, and seven green ears of corn, and seven (others) withered. O ye chiefs! Expound to me my vision if it be that ye can interpret visions."
 
 [Open on Quran.com](https://quran.com/12/43)
 
@@ -147,7 +147,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [He said], "Joseph, O man of truth, explain to us about seven fat cows eaten by seven [that were] lean, and seven green spikes [of grain] and others [that were] dry - that I may return to the people [i.e., the king and his court]; perhaps they will know [about you]."
 
-**Urdu (Fatah Muhammad Jalandhari):** (غرض وہ یوسف کے پاس آیا اور کہنے لگا) یوسف اے بڑے سچے (یوسف) ہمیں اس خواب کی تعبیر بتایئے کہ سات موٹی گائیوں کو سات دبلی گائیں کھا رہی ہیں۔ اور سات خوشے سبز ہیں اور سات سوکھے تاکہ میں لوگوں کے پاس واپس جا (کر تعبیر بتاؤں)۔ عجب نہیں کہ وہ (تمہاری قدر) جانیں
+**English (Yusuf Ali):** "O Joseph!" (he said) "O man of truth! Expound to us (the dream) of seven fat kine whom seven lean ones devour, and of seven green ears of corn and (seven) others withered: that I may return to the people, and that they may understand."
 
 [Open on Quran.com](https://quran.com/12/46)
 
@@ -163,7 +163,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Joseph] said, "You will plant for seven years consecutively; and what you harvest leave in its spikes, except a little from which you will eat.
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ تم لوگ سات سال متواتر کھیتی کرتے رہوگے تو جو (غلّہ) کاٹو تو تھوڑے سے غلّے کے سوا جو کھانے میں آئے اسے خوشوں میں ہی رہنے دینا
+**English (Yusuf Ali):** (Joseph) said: "For seven years shall ye diligently sow as is your wont: and the harvests that ye reap, ye shall leave them in the ear,- except a little, of which ye shall eat.
 
 [Open on Quran.com](https://quran.com/12/47)
 
@@ -179,7 +179,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then will come after that seven difficult [years] which will consume what you advanced [i.e., saved] for them, except a little from which you will store.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اس کے بعد (خشک سالی کے) سات سخت (سال) آئیں گے کہ جو (غلّہ) تم نے جمع کر رکھا ہوگا وہ اس سب کو کھا جائیں گے۔ صرف وہی تھوڑا سا رہ جائے گا جو تم احتیاط سے رکھ چھوڑو گے
+**English (Yusuf Ali):** "Then will come after that (period) seven dreadful (years), which will devour what ye shall have laid by in advance for them,- (all) except a little which ye shall have (specially) guarded.
 
 [Open on Quran.com](https://quran.com/12/48)
 
@@ -195,7 +195,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have certainly given you, [O Muḥammad], seven of the often repeated [verses] and the great Qur’ān.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تم کو سات (آیتیں) جو (نماز میں) دہرا کر پڑھی جاتی ہیں (یعنی سورہٴ الحمد) اور عظمت والا قرآن عطا فرمایا ہے
+**English (Yusuf Ali):** And We have bestowed upon thee the Seven Oft-repeated (verses) and the Grand Qur'an.
 
 [Open on Quran.com](https://quran.com/15/87)
 

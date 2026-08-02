@@ -46,7 +46,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:36 · [[002 Al-Baqarah]]
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But Satan caused them to slip out of it and removed them from that [condition] in which they had been. And We said, "Go down, [all of you], as enemies to one another, and you will have upon the earth a place of settlement and provision for a time."
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر شیطان نے دونوں کو وہاں سے پھسلا دیا اور جس (عیش ونشاط) میں تھے، اس سے ان کو نکلوا دیا۔ تب ہم نے حکم دیا کہ (بہشت بریں سے) چلے جاؤ۔ تم ایک دوسرے کے دشمن ہو، اور تمہارے لیے زمین میں ایک وقت تک ٹھکانا اور معاش (مقرر کر دیا گیا) ہے
+**English (Yusuf Ali):** Then did Satan make them slip from the (garden), and get them out of the state (of felicity) in which they had been. We said: "Get ye down, all (ye people), with enmity between yourselves. On earth will be your dwelling-place and your means of livelihood - for a time."
 
 [Open on Quran.com](https://quran.com/2/36)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+**English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
 
 [Open on Quran.com](https://quran.com/2/177)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not ask about things which, if they are shown to you, will distress you. But if you ask about them while the Qur’ān is being revealed, they will be shown to you. Allāh has pardoned it [i.e., that which is past]; and Allāh is Forgiving and Forbearing.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! ایسی چیزوں کے بارے میں مت سوال کرو کہ اگر (ان کی حقیقتیں) تم پر ظاہر کر دی جائیں تو تمہیں بری لگیں اور اگر قرآن کے نازل ہونے کے ایام میں ایسی باتیں پوچھو گے تو تم پر ظاہر بھی کر دی جائیں گی (اب تو) خدا نے ایسی باتوں (کے پوچھنے) سے درگزر فرمایا ہے اور خدا بخشنے والا بردبار ہے
+**English (Yusuf Ali):** O ye who believe! Ask not questions about things which, if made plain to you, may cause you trouble. But if ye ask about things when the Qur'an is being revealed, they will be made plain to you, Allah will forgive those: for Allah is Oft-forgiving, Most Forbearing.
 
 [Open on Quran.com](https://quran.com/5/101)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, testimony [should be taken] among you when death approaches one of you at the time of bequest - [that of] two just men from among you or two others from outside if you are traveling through the land and the disaster of death should strike you. Detain them after the prayer and let them both swear by Allāh if you doubt [their testimony, saying], "We will not exchange it [i.e., our oath] for a price [i.e., worldly gain], even if he should be a near relative, and we will not withhold the testimony of [i.e., ordained by] Allāh. Indeed, we would then be of the sinful."
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم میں سے کسی کی موت آموجود ہو تو شہادت (کا نصاب) یہ ہے کہ وصیت کے وقت تم (مسلمانوں) میں سے دو عادل (یعنی صاحب اعتبار) گواہ ہوں یا اگر (مسلمان نہ ملیں اور) تم سفر کر رہے ہو اور (اس وقت) تم پر موت کی مصیبت واقع ہو تو کسی دوسرے مذہب کے دو (شخصوں کو) گواہ (کر لو) اگر تم کو ان گواہوں کی نسبت کچھ شک ہو تو ان کو (عصر کی) نماز کے بعد کھڑا کرو اور دونوں خدا کی قسمیں کھائیں کہ ہم شہادت کا کچھ عوض نہیں لیں گے گو ہمارا رشتہ دار ہی ہو اور نہ ہم الله کی شہادت کو چھپائیں گے اگر ایسا کریں گے تو گنہگار ہوں گے
+**English (Yusuf Ali):** O ye who believe! When death approaches any of you, (take) witnesses among yourselves when making bequests,- two just men of your own (brotherhood) or others from outside if ye are journeying through the earth, and the chance of death befalls you (thus). If ye doubt (their truth), detain them both after prayer, and let them both swear by Allah: "We wish not in this for any worldly gain, even though the (beneficiary) be our near relation: we shall hide not the evidence before Allah: if we do, then behold! the sin be upon us!"
 
 [Open on Quran.com](https://quran.com/5/106)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "Descend, being to one another enemies. And for you on the earth is a place of settlement and enjoyment [i.e., provision] for a time."
 
-**Urdu (Fatah Muhammad Jalandhari):** (خدا نے) فرمایا (تم سب بہشت سے) اتر جاؤ (اب سے) تم ایک دوسرے کے دشمن ہو اور تمہارے لیے ایک وقت (خاص) تک زمین پر ٹھکانہ اور (زندگی کا) سامان (کر دیا گیا) ہے
+**English (Yusuf Ali):** (Allah) said: "Get ye down. With enmity between yourselves. On earth will be your dwelling-place and your means of livelihood,- for a time."
 
 [Open on Quran.com](https://quran.com/7/24)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then has there not been a [single] city that believed so its faith benefited it except the people of Jonah? When they believed, We removed from them the punishment of disgrace in worldly life and gave them enjoyment [i.e., provision] for a time.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو کوئی بستی ایسی کیوں نہ ہوئی کہ ایمان لاتی تو اس کا ایمان اسے نفع دیتا ہاں یونس کی قوم۔ جب ایمان لائی تو ہم نے دنیا کی زندگی میں ان سے ذلت کا عذاب دور کردیا اور ایک مدت تک (فوائد دنیاوی سے) ان کو بہرہ مند رکھا
+**English (Yusuf Ali):** Why was there not a single township (among those We warned), which believed,- so its faith should have profited it,- except the people of Jonah? When they believed, We removed from them the penalty of ignominy in the life of the present, and permitted them to enjoy (their life) for a while.
 
 [Open on Quran.com](https://quran.com/10/98)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Unquestionably, they [i.e., the disbelievers] turn away their breasts to hide themselves from him. Unquestionably, [even] when they cover themselves in their clothing, He [i.e., Allāh] knows what they conceal and what they declare. Indeed, He is Knowing of that within the breasts.
 
-**Urdu (Fatah Muhammad Jalandhari):** دیکھو یہ اپنے سینوں کو دوھرا کرتے ہیں تاکہ خدا سے پردہ کریں۔ سن رکھو جس وقت یہ کپڑوں میں لپٹ کر پڑتے ہیں (تب بھی) وہ ان کی چھپی اور کھلی باتوں کو جانتا ہے۔ وہ تو دلوں تک کی باتوں سے آگاہ ہے
+**English (Yusuf Ali):** Behold! they fold up their hearts, that they may lie hid from Him! Ah even when they cover themselves with their garments, He knoweth what they conceal, and what they reveal: for He knoweth well the (inmost secrets) of the hearts.
 
 [Open on Quran.com](https://quran.com/11/5)
 
@@ -172,7 +172,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then it appeared to them after they had seen the signs that he [i.e., al-ʿAzeez] should surely imprison him for a time.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر باوجود اس کے کہ وہ لوگ نشان دیکھ چکے تھے ان کی رائے یہی ٹھہری کہ کچھ عرصہ کے لیے ان کو قید ہی کردیں
+**English (Yusuf Ali):** Then it occurred to the men, after they had seen the signs, (that it was best) to imprison him for a time.
 
 [Open on Quran.com](https://quran.com/12/35)
 
@@ -188,7 +188,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It produces its fruit all the time, by permission of its Lord. And Allāh presents examples for the people that perhaps they will be reminded.
 
-**Urdu (Fatah Muhammad Jalandhari):** اپنے پروردگار کے حکم سے ہر وقت پھل لاتا (اور میوے دیتا) ہو۔ اور خدا لوگوں کے لیے مثالیں بیان فرماتا ہے تاکہ وہ نصیحت پکڑیں
+**English (Yusuf Ali):** It brings forth its fruit at all times, by the leave of its Lord. So Allah sets forth parables for men, in order that they may receive admonition.
 
 [Open on Quran.com](https://quran.com/14/25)
 
@@ -204,7 +204,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And for you in them is [the enjoyment of] beauty when you bring them in [for the evening] and when you send them out [to pasture].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب شام کو انہیں (جنگل سے) لاتے ہو اور جب صبح کو (جنگل) چرانے لے جاتے ہو تو ان سے تمہاری عزت وشان ہے
+**English (Yusuf Ali):** And ye have a sense of pride and beauty in them as ye drive them home in the evening, and as ye lead them forth to pasture in the morning.
 
 [Open on Quran.com](https://quran.com/16/6)
 

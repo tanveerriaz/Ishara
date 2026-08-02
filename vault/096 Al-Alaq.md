@@ -14,31 +14,31 @@ The Clot · 19 ayahs
 
 ## Words in this surah (graph)
 
-- [[nhY - forbid]] — `نَهَى` · forbid
-- [[qr> - read]] — `قَرَأَ` · read
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[dEA - call]] — `دَعا` · call
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[qlm - by pen]] — `قَلَم` · by pen
+- [[kAn - is]] — `كانَ` · is
 - [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
 - [[tqwY - righteousness]] — `تَقْوَى` · righteousness
-- [[Asm - name]] — `اسْم` · name
-- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[TgY - has transgressed]] — `طَغَى` · has transgressed
 - [[SlY - send blessings]] — `صَلَّى` · send blessings
-- [[>TAE - obey]] — `أَطاعَ` · obey
-- [[kA*b - liars]] — `كاذِب` · liars
-- [[AnthY - you desist]] — `انتَهَى` · you desist
-- [[>mr - command]] — `أَمَرَ` · command
-- [[Elm - know]] — `عَلِمَ` · know
-- [[sjd - prostrate]] — `سَجَدَ` · prostrate
+- [[dEA - call]] — `دَعا` · call
 - [[>krm - make comfortable]] — `أَكْرَمَ` · make comfortable
+- [[allah - God]] — `الله` · God
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[qr> - read]] — `قَرَأَ` · read
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[kA*b - liars]] — `كاذِب` · liars
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[>mr - command]] — `أَمَرَ` · command
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[nhY - forbid]] — `نَهَى` · forbid
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[Elm - know]] — `عَلِمَ` · know
+- [[TgY - has transgressed]] — `طَغَى` · has transgressed
+- [[Asm - name]] — `اسْم` · name
+- [[xlq - creation]] — `خَلَقَ` · creation
 - [[<nsAn - man]] — `إِنسان` · man
-- [[rb - lord]] — `رَبّ` · lord
-- [[kAn - is]] — `كانَ` · is
+- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
+- [[AnthY - you desist]] — `انتَهَى` · you desist
+- [[Ebd - slaves]] — `عَبَدَ` · slaves
 
 ## Roots
 

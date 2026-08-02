@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 1:4 · [[001 Al-Fatihah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Sovereign of the Day of Recompense.
 
-**Urdu (Fatah Muhammad Jalandhari):** انصاف کے دن کا حاکم
+**English (Yusuf Ali):** Master of the Day of Judgment.
 
 [Open on Quran.com](https://quran.com/1/4)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O Allāh, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اے خدا (اے) بادشاہی کے مالک تو جس کو چاہے بادشاہی بخشے اور جس سے چاہے بادشاہی چھین لے اور جس کو چاہے عزت دے اور جسے چاہے ذلیل کرے ہر طرح کی بھلائی تیرے ہی ہاتھ ہے اور بے شک تو ہر چیز پر قادر ہے
+**English (Yusuf Ali):** Say: "O Allah! Lord of Power (And Rule), Thou givest power to whom Thou pleasest, and Thou strippest off power from whom Thou pleasest: Thou enduest with honour whom Thou pleasest, and Thou bringest low whom Thou pleasest: In Thy hand is all good. Verily, over all things Thou hast power.
 
 [Open on Quran.com](https://quran.com/3/26)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they not see that We have created for them from what Our hands have made, grazing livestock, and [then] they are their owners?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ جو چیزیں ہم نے اپنے ہاتھوں سے بنائیں ان میں سے ہم نے ان کے لئے چارپائے پیدا کر دیئے اور یہ ان کے مالک ہیں
+**English (Yusuf Ali):** See they not that it is We Who have created for them - among the things which Our hands have fashioned - cattle, which are under their dominion?-
 
 [Open on Quran.com](https://quran.com/36/71)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will call, "O Mālik, let your Lord put an end to us!" He will say, "Indeed, you will remain."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور پکاریں گے کہ اے مالک تمہارا پروردگار ہمیں موت دے دے۔ وہ کہے گا کہ تم ہمیشہ (اسی حالت میں) رہو گے
+**English (Yusuf Ali):** They will cry: "O Malik! would that thy Lord put an end to us!" He will say, "Nay, but ye shall abide!"
 
 [Open on Quran.com](https://quran.com/43/77)
 

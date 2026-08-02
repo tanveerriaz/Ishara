@@ -43,7 +43,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:284 · [[002 Al-Baqarah]]
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** To Allāh belongs whatever is in the heavens and whatever is in the earth. Whether you show what is within yourselves or conceal it, Allāh will bring you to account for it. Then He will forgive whom He wills and punish whom He wills, and Allāh is over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب خدا ہی کا ہے۔ تم اپنے دلوں کی بات کو ظاہر کرو گے تو یا چھپاؤ گے تو خدا تم سے اس کا حساب لے گا پھر وہ جسے چاہے مغفرت کرے اور جسے چاہے عذاب دے۔ اور خدا ہر چیز پر قادر ہے
+**English (Yusuf Ali):** To Allah belongeth all that is in the heavens and on earth. Whether ye show what is in your minds or conceal it, Allah Calleth you to account for it. He forgiveth whom He pleaseth, and punisheth whom He pleaseth, for Allah hath power over all things.
 
 [Open on Quran.com](https://quran.com/2/284)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And as for those who disbelieved, I will punish them with a severe punishment in this world and the Hereafter, and they will have no helpers."
 
-**Urdu (Fatah Muhammad Jalandhari):** یعنی جو کافر ہوئے ان کو دنیا اور آخرت (دونوں) میں سخت عذاب دوں گا اور ان کا کوئی مددگار نہ ہوگا
+**English (Yusuf Ali):** "As to those who reject faith, I will punish them with terrible agony in this world and in the Hereafter, nor will they have anyone to help."
 
 [Open on Quran.com](https://quran.com/3/56)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Not for you, [O Muḥammad, but for Allāh], is the decision whether He should [cut them down] or forgive them or punish them, for indeed, they are wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) اس کام میں تمہارا کچھ اختیار نہیں (اب دو صورتیں ہیں) یا خدا انکے حال پر مہربانی کرے یا انہیں عذاب دے کہ یہ ظالم لوگ ہیں
+**English (Yusuf Ali):** Not for thee, (but for Allah), is the decision: Whether He turn in mercy to them, or punish them; for they are indeed wrong-doers.
 
 [Open on Quran.com](https://quran.com/3/128)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to Allāh belongs whatever is in the heavens and whatever is on the earth. He forgives whom He wills and punishes whom He wills. And Allāh is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو کچھ آسمانوں میں ہے اور جو کچھ زمین میں ہے سب خدا ہی کا ہے وہ جسے چاہے بخش دے اور جسے چاہے عذاب کرے اور خدا بخشنے والا مہربان ہے
+**English (Yusuf Ali):** To Allah belongeth all that is in the heavens and on earth. He forgiveth whom He pleaseth and punisheth whom He pleaseth; but Allah is Oft-Forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/3/129)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And as for those who believed and did righteous deeds, He will give them in full their rewards and grant them extra from His bounty. But as for those who disdained and were arrogant, He will punish them with a painful punishment, and they will not find for themselves besides Allāh any protector or helper.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جو لوگ ایمان لائے اور نیک کام کرتے رہے وہ ان کو ان کا پورا بدلا دے گا اور اپنے فضل سے کچھ زیادہ بھی عنایت کرے گا۔ اور جنہوں نے (بندوں ہونے سے) عاروانکار اور تکبر کیا ان کو تکلیف دینے والا عذاب دے گا۔ اور یہ لوگ خدا کے سوا اپنا حامی اور مددگار نہ پائیں گے
+**English (Yusuf Ali):** But to those who believe and do deeds of righteousness, He will give their (due) rewards,- and more, out of His bounty: But those who are disdainful and arrogant, He will punish with a grievous penalty; Nor will they find, besides Allah, any to protect or help them.
 
 [Open on Quran.com](https://quran.com/4/173)
 
@@ -137,7 +137,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But the Jews and the Christians say, "We are the children of Allāh and His beloved." Say, "Then why does He punish you for your sins?" Rather, you are human beings from among those He has created. He forgives whom He wills, and He punishes whom He wills. And to Allāh belongs the dominion of the heavens and the earth and whatever is between them, and to Him is the [final] destination.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہود اور نصاریٰ کہتے ہیں کہ ہم خدا کے بیٹے اور اس کے پیارے ہیں کہو کہ پھر وہ تمہاری بداعمالیوں کے سبب تمھیں عذاب کیوں دیتا ہے (نہیں) بلکہ تم اس کی مخلوقات میں (دوسروں کی طرح کے) انسان ہو وہ جسے چاہے بخشے اور جسے چاہے عذاب دے اور آسمان زمین اور جو کچھ ان دونوں میں ہے سب پر خدا ہی کی حکومت ہے اور (سب کو) اسی کی طرف لوٹ کر جانا ہے
+**English (Yusuf Ali):** (Both) the Jews and the Christians say: "We are sons of Allah, and his beloved." Say: "Why then doth He punish you for your sins? Nay, ye are but men,- of the men he hath created: He forgiveth whom He pleaseth, and He punisheth whom He pleaseth: and to Allah belongeth the dominion of the heavens and the earth, and all that is between: and unto Him is the final goal (of all)"
 
 [Open on Quran.com](https://quran.com/5/18)
 
@@ -153,7 +153,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you not know that to Allāh belongs the dominion of the heavens and the earth? He punishes whom He wills and forgives whom He wills, and Allāh is over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم کو معلوم نہیں کہ آسمانوں اور زمین میں خدا ہی کی سلطنت ہے؟ جس کو چاہے عذاب کرے اور جسے چاہے بخش دے اور خدا ہر چیز پر قادر ہے
+**English (Yusuf Ali):** Knowest thou not that to Allah (alone) belongeth the dominion of the heavens and the earth? He punisheth whom He pleaseth, and He forgiveth whom He pleaseth: and Allah hath power over all things.
 
 [Open on Quran.com](https://quran.com/5/40)
 
@@ -169,7 +169,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh said, "Indeed, I will send it down to you, but whoever disbelieves afterwards from among you - then indeed will I punish him with a punishment by which I have not punished anyone among the worlds."
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے فرمایا میں تم پر ضرور خوان نازل فرماؤں گا لیکن جو اس کے بعد تم میں سے کفر کرے گا اسے ایسا عذاب دوں گا کہ اہل عالم میں کسی کو ایسا عذاب نہ دوں گا
+**English (Yusuf Ali):** Allah said: "I will send it down unto you: But if any of you after that resisteth faith, I will punish him with a penalty such as I have not inflicted on any one among all the peoples."
 
 [Open on Quran.com](https://quran.com/5/115)
 
@@ -185,7 +185,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If You should punish them - indeed they are Your servants; but if You forgive them - indeed it is You who is the Exalted in Might, the Wise."
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تو ان کو عذاب دے تو یہ تیرے بندے ہیں اور اگر بخش دے تو (تیری مہربانی ہے) بےشک تو غالب اور حکمت والا ہے
+**English (Yusuf Ali):** "If Thou dost punish them, they are Thy servant: If Thou dost forgive them, Thou art the Exalted in power, the Wise."
 
 [Open on Quran.com](https://quran.com/5/118)
 
@@ -201,7 +201,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But Allāh would not punish them while you, [O Muḥammad], are among them, and Allāh would not punish them while they seek forgiveness.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ایسا نہ تھا کہ جب تک تم ان میں سے تھے انہیں عذاب دیتا۔ اور ایسا نہ تھا کہ وہ بخششیں مانگیں اور انہیں عذاب دے
+**English (Yusuf Ali):** But Allah was not going to send them a penalty whilst thou wast amongst them; nor was He going to send it whilst they could ask for pardon.
 
 [Open on Quran.com](https://quran.com/8/33)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:46 · [[009 At-Tawbah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if they had intended to go forth, they would have prepared for it [some] preparation. But Allāh disliked their being sent, so He kept them back, and they were told, "Remain [behind] with those who remain."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر وہ نکلنے کا ارادہ کرتے ہیں تو اس کے لیے سامان تیار کرتے لیکن خدا نے ان کا اُٹھنا (اور نکلنا) پسند نہ کیا تو ان کو ہلنے جلنے ہی نہ دیا اور (ان سے) کہہ دیا گیا کہ جہاں (معذور) بیٹھے ہیں تم بھی ان کے ساتھ بیٹھے رہو
+**English (Yusuf Ali):** If they had intended to come out, they would certainly have made some preparation therefor; but Allah was averse to their being sent forth; so He made them lag behind, and they were told, "Sit ye among those who sit (inactive)."
 
 [Open on Quran.com](https://quran.com/9/46)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If Allāh should return you to a faction of them [after the expedition] and then they ask your permission to go out [to battle], say, "You will not go out with me, ever, and you will never fight with me an enemy. Indeed, you were satisfied with sitting [at home] the first time, so sit [now] with those who stay behind."
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اگر خدا تم کو ان میں سے کسی گروہ کی طرف لے جائے اور وہ تم سے نکلنے کی اجازت طلب کریں تو کہہ دینا کہ تم میرے ساتھ ہرگز نہیں نکلو گے اور نہ میرے ساتھ (مددگار ہوکر) دشمن سے لڑائی کرو گے۔ تم پہلی دفعہ بیٹھ رہنے سے خوش ہوئے تو اب بھی پیچھے رہنے والوں کے ساتھ بیٹھے رہو
+**English (Yusuf Ali):** If, then, Allah bring thee back to any of them, and they ask thy permission to come out (with thee), say: "Never shall ye come out with me, nor fight an enemy with me: for ye preferred to sit inactive on the first occasion: Then sit ye (now) with those who lag behind."
 
 [Open on Quran.com](https://quran.com/9/83)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will say, "Our Lord, You made us lifeless twice and gave us life twice, and we have confessed our sins. So is there to an exit any way?"
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ کہیں گے کہ اے ہمارے پروردگار تو نے ہم کو دو دفعہ بےجان کیا اور دو دفعہ جان بخشی۔ ہم کو اپنے گناہوں کا اقرار ہے تو کیا نکلنے کی کوئی سبیل ہے؟
+**English (Yusuf Ali):** They will say: "Our Lord! twice hast Thou made us without life, and twice hast Thou given us Life! Now have we recognised our sins: Is there any way out (of this)?"
 
 [Open on Quran.com](https://quran.com/40/11)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** As provision for the servants, and We have given life thereby to a dead land. Thus is the emergence [i.e., resurrection].
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ سب کچھ) بندوں کو روزی دینے کے لئے (کیا ہے) اور اس (پانی) سے ہم نے شہر مردہ (یعنی زمین افتادہ) کو زندہ کیا۔ (بس) اسی طرح (قیامت کے روز) نکل پڑنا ہے
+**English (Yusuf Ali):** As sustenance for (Allah's) Servants;- and We give (new) life therewith to land that is dead: Thus will be the Resurrection.
 
 [Open on Quran.com](https://quran.com/50/11)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day they will hear the blast [of the Horn] in truth. That is the Day of Emergence [from the graves].
 
-**Urdu (Fatah Muhammad Jalandhari):** جس دن لوگ چیخ یقیناً سن لیں گے۔ وہی نکل پڑنے کا دن ہے
+**English (Yusuf Ali):** The Day when they will hear a (mighty) Blast in (very) truth: that will be the Day of Resurrection.
 
 [Open on Quran.com](https://quran.com/50/42)
 

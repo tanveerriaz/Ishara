@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:78 · [[011 Hud]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And his people came hastening to him, and before [this] they had been doing evil deeds. He said, "O my people, these are my daughters; they are purer for you. So fear Allāh and do not disgrace me concerning my guests. Is there not among you a man of reason?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور لوط کی قوم کے لوگ ان کے پاس بےتحاشا دوڑتے ہوئے آئے اور یہ لوگ پہلے ہی سے فعل شنیع کیا کرتے تھے۔ لوط نے کہا کہ اے قوم! یہ (جو) میری (قوم کی) لڑکیاں ہیں، یہ تمہارے لیے (جائز اور) پاک ہیں۔ تو خدا سے ڈرو اور میرے مہمانوں کے (بارے) میں میری آبرو نہ کھوؤ۔ کیا تم میں کوئی بھی شائستہ آدمی نہیں
+**English (Yusuf Ali):** And his people came rushing towards him, and they had been long in the habit of practising abominations. He said: "O my people! Here are my daughters: they are purer for you (if ye marry)! Now fear Allah, and cover me not with shame about my guests! Is there not among you a single right-minded man?"
 
 [Open on Quran.com](https://quran.com/11/78)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And inform them about the guests of Abraham,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کو ابراہیم کے مہمانوں کا احوال سنادو
+**English (Yusuf Ali):** Tell them about the guests of Abraham.
 
 [Open on Quran.com](https://quran.com/15/51)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Lot] said, "Indeed, these are my guests, so do not shame me.
 
-**Urdu (Fatah Muhammad Jalandhari):** (لوط نے) کہا کہ یہ میرے مہمان ہیں (کہیں ان کے بارے میں) مجھے رسوا نہ کرنا
+**English (Yusuf Ali):** Lut said: "These are my guests: disgrace me not:
 
 [Open on Quran.com](https://quran.com/15/68)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Has there reached you the story of the honored guests of Abraham? -
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تمہارے پاس ابراہیمؑ کے معزز مہمانوں کی خبر پہنچی ہے؟
+**English (Yusuf Ali):** Has the story reached thee, of the honoured guests of Abraham?
 
 [Open on Quran.com](https://quran.com/51/24)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they had demanded from him his guests, but We obliterated their eyes, [saying], "Taste My punishment and warning."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان سے ان کے مہمانوں کو لے لینا چاہا تو ہم نے ان کی آنکھیں مٹا دیں سو (اب) میرے عذاب اور ڈرانے کے مزے چکھو
+**English (Yusuf Ali):** And they even sought to snatch away his guests from him, but We blinded their eyes. (They heard:) "Now taste ye My Wrath and My Warning."
 
 [Open on Quran.com](https://quran.com/54/37)
 

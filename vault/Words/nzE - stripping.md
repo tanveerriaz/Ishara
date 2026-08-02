@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:26 · [[003 Ali Imran]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O Allāh, Owner of Sovereignty, You give sovereignty to whom You will and You take sovereignty away from whom You will. You honor whom You will and You humble whom You will. In Your hand is [all] good. Indeed, You are over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اے خدا (اے) بادشاہی کے مالک تو جس کو چاہے بادشاہی بخشے اور جس سے چاہے بادشاہی چھین لے اور جس کو چاہے عزت دے اور جسے چاہے ذلیل کرے ہر طرح کی بھلائی تیرے ہی ہاتھ ہے اور بے شک تو ہر چیز پر قادر ہے
+**English (Yusuf Ali):** Say: "O Allah! Lord of Power (And Rule), Thou givest power to whom Thou pleasest, and Thou strippest off power from whom Thou pleasest: Thou enduest with honour whom Thou pleasest, and Thou bringest low whom Thou pleasest: In Thy hand is all good. Verily, over all things Thou hast power.
 
 [Open on Quran.com](https://quran.com/3/26)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O children of Adam, let not Satan tempt you as he removed your parents from Paradise, stripping them of their clothing to show them their private parts. Indeed, he sees you, he and his tribe, from where you do not see them. Indeed, We have made the devils allies to those who do not believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے نبی آدم (دیکھنا کہیں) شیطان تمہیں بہکا نہ دے جس طرح تمہارے ماں باپ کو (بہکا کر) بہشت سے نکلوا دیا اور ان سے ان کے کپڑے اتروا دیئے تاکہ ان کے ستر ان کو کھول کر دکھا دے۔ وہ اور اس کے بھائی تم کو ایسی جگہ سے دیکھتے رہے ہیں جہاں سے تم ان کو نہیں دیکھ سکتے ہم نے شیطانوں کو انہیں لوگوں کا رفیق کار بنایا ہے جو ایمان نہیں رکھتے
+**English (Yusuf Ali):** O ye Children of Adam! Let not Satan seduce you, in the same manner as He got your parents out of the Garden, stripping them of their raiment, to expose their shame: for he and his tribe watch you from a position where ye cannot see them: We made the evil ones friends (only) to those without faith.
 
 [Open on Quran.com](https://quran.com/7/27)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will have removed whatever is within their breasts of resentment, [while] flowing beneath them are rivers. And they will say, "Praise to Allāh, who has guided us to this; and we would never have been guided if Allāh had not guided us. Certainly the messengers of our Lord had come with the truth." And they will be called, "This is Paradise, which you have been made to inherit for what you used to do."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو کینے ان کے دلوں میں ہوں گے ہم سب نکال ڈالیں گے۔ ان کے محلوں کے نیچے نہریں بہہ رہی ہوں گی اور کہیں گے کہ خدا کا شکر ہے جس نے ہم کو یہاں کا راستہ دکھایا اور اگر خدا ہم کو رستہ نہ دکھاتا تو ہم رستہ نہ پا سکتے۔ بےشک ہمارا پروردگار کے رسول حق بات لے کر آئے تھے اور (اس روز) منادی کر دی جائے گی کہ تم ان اعمال کے صلے میں جو دنیا میں کرتے تھے اس بہشت کے وارث بنا دیئے گئے ہو
+**English (Yusuf Ali):** And We shall remove from their hearts any lurking sense of injury;- beneath them will be rivers flowing;- and they shall say: "Praise be to Allah, who hath guided us to this (felicity): never could we have found guidance, had it not been for the guidance of Allah: indeed it was the truth, that the messengers of our Lord brought unto us." And they shall hear the cry: "Behold! the garden before you! Ye have been made its inheritors, for your deeds (of righteousness)."
 
 [Open on Quran.com](https://quran.com/7/43)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he drew out his hand; thereupon it was white [with radiance] for the observers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ باہر نکالا تو اسی دم دیکھنے والوں کی نگاہوں میں سفید براق (تھا)
+**English (Yusuf Ali):** And he drew out his hand, and behold! it was white to all beholders!
 
 [Open on Quran.com](https://quran.com/7/108)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if We give man a taste of mercy from Us and then We withdraw it from him, indeed, he is despairing and ungrateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم انسان کو اپنے پاس سے نعمت بخشیں پھر اس سے اس کو چھین لیں تو ناامید (اور) ناشکرا (ہوجاتا) ہے
+**English (Yusuf Ali):** If We give man a taste of Mercy from Ourselves, and then withdraw it from him, behold! he is in despair and (falls into) blasphemy.
 
 [Open on Quran.com](https://quran.com/11/9)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں میں جو کدورت ہوگی ان کو ہم نکال کر (صاف کر) دیں گے (گویا) بھائی بھائی تختوں پر ایک دوسرے کے سامنے بیٹھے ہوئے ہیں
+**English (Yusuf Ali):** And We shall remove from their hearts any lurking sense of injury: (they will be) brothers (joyfully) facing each other on thrones (of dignity).
 
 [Open on Quran.com](https://quran.com/15/47)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We will surely extract from every sect those of them who were worst against the Most Merciful in insolence.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ہر جماعت میں سے ہم ایسے لوگوں کو کھینچ نکالیں گے جو خدا سے سخت سرکشی کرتے تھے
+**English (Yusuf Ali):** Then shall We certainly drag out from every sect all those who were worst in obstinate rebellion against (Allah) Most Gracious.
 
 [Open on Quran.com](https://quran.com/19/69)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he drew out his hand; thereupon it was white for the observers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ نکالا تو اسی دم دیکھنے والوں کے لئے سفید (براق نظر آنے لگا)
+**English (Yusuf Ali):** And he drew out his hand, and behold, it was white to all beholders!
 
 [Open on Quran.com](https://quran.com/26/33)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will extract from every nation a witness and say, "Produce your proof," and they will know that the truth belongs to Allāh, and lost from them is that which they used to invent.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہر ایک اُمت میں سے گواہ نکال لیں گے پھر کہیں گے کہ اپنی دلیل پیش کرو تو وہ جان لیں گے کہ سچ بات خدا کی ہے اور جو کچھ وہ افتراء کیا کرتے تھے ان سے جاتا رہے گا
+**English (Yusuf Ali):** And from each people shall We draw a witness, and We shall say: "Produce your Proof": then shall they know that the Truth is in Allah (alone), and the (lies) which they invented will leave them in lurch.
 
 [Open on Quran.com](https://quran.com/28/75)
 
@@ -189,7 +189,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Extracting the people as if they were trunks of palm trees uprooted.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ لوگوں کو (اس طرح) اکھیڑے ڈالتی تھی گویا اکھڑی ہوئی کھجوروں کے تنے ہیں
+**English (Yusuf Ali):** Plucking out men as if they were roots of palm-trees torn up (from the ground).
 
 [Open on Quran.com](https://quran.com/54/20)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 17:101 · [[017 Al-Isra]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We had certainly given Moses nine evident signs, so ask the Children of Israel [about] when he came to them and Pharaoh said to him, "Indeed I think, O Moses, that you are affected by magic."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو نو کھلی نشانیاں دیں تو بنی اسرائیل سے دریافت کرلو کہ جب وہ ان کے پاس آئے تو فرعون نے ان سے کہا کہ موسیٰ میں خیال کرتا ہوں کہ تم پر جادو کیا گیا ہے
+**English (Yusuf Ali):** To Moses We did give Nine Clear Signs: As the Children of Israel: when he came to them, Pharaoh said to him: "O Moses! I consider thee, indeed, to have been worked upon by sorcery!
 
 [Open on Quran.com](https://quran.com/17/101)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they remained in their cave for three hundred years and exceeded by nine.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اصحاب کہف اپنے غار میں نو اوپر تین سو سال رہے
+**English (Yusuf Ali):** So they stayed in their Cave three hundred years, and (some) add nine (more)
 
 [Open on Quran.com](https://quran.com/18/25)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And put your hand into the opening of your garment [at the breast]; it will come out white without disease. [These are] among the nine signs [you will take] to Pharaoh and his people. Indeed, they have been a people defiantly disobedient."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ اپنے گریبان میں ڈالو سفید نکلے گا۔ (ان دو معجزوں کے ساتھ جو) نو معجزوں میں (داخل ہیں) فرعون اور اس کی قوم کے پاس جاؤ کہ وہ بےحکم لوگ ہیں
+**English (Yusuf Ali):** "Now put thy hand into thy bosom, and it will come forth white without stain (or harm): (these are) among the nine Signs (thou wilt take) to Pharaoh and his people: for they are a people rebellious in transgression."
 
 [Open on Quran.com](https://quran.com/27/12)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed this, my brother, has ninety-nine ewes, and I have one ewe; so he said, 'Entrust her to me,' and he overpowered me in speech."
 
-**Urdu (Fatah Muhammad Jalandhari):** (کیفیت یہ ہے کہ) یہ میرا بھائی ہے اس کے (ہاں) ننانوے دنبیاں ہیں اور میرے (پاس) ایک دُنبی ہے۔ یہ کہتا ہے کہ یہ بھی میرے حوالے کردے اور گفتگو میں مجھ پر زبردستی کرتا ہے
+**English (Yusuf Ali):** "This man is my brother: He has nine and ninety ewes, and I have (but) one: Yet he says, 'commit her to my care,' and is (moreover) harsh to me in speech."
 
 [Open on Quran.com](https://quran.com/38/23)
 

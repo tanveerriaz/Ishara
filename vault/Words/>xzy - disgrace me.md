@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:192 · [[003 Ali Imran]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Our Lord, indeed whoever You admit to the Fire - You have disgraced him, and for the wrongdoers there are no helpers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار جس کو تو نے دوزخ میں ڈالا اسے رسوا کیا اور ظالموں کا کوئی مددگار نہیں
+**English (Yusuf Ali):** "Our Lord! any whom Thou dost admit to the Fire, Truly Thou coverest with shame, and never will wrong-doers Find any helpers!
 
 [Open on Quran.com](https://quran.com/3/192)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise."
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار تو نے جن جن چیزوں کے ہم سے اپنے پیغمبروں کے ذریعے سے وعدے کیے ہیں وہ ہمیں عطا فرما اور قیامت کے دن ہمیں رسوا نہ کیجو کچھ شک نہیں کہ تو خلاف وعدہ نہیں کرتا
+**English (Yusuf Ali):** "Our Lord! Grant us what Thou didst promise unto us through Thine messengers, and save us from shame on the Day of Judgment: For Thou never breakest Thy promise."
 
 [Open on Quran.com](https://quran.com/3/194)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Fight them; Allāh will punish them by your hands and will disgrace them and give you victory over them and satisfy the breasts [i.e., desires] of a believing people
 
-**Urdu (Fatah Muhammad Jalandhari):** ان سے (خوب) لڑو۔ خدا ان کو تمہارے ہاتھوں سے عذاب میں ڈالے گا اور رسوا کرے گا اور تم کو ان پر غلبہ دے گا اور مومن لوگوں کے سینوں کو شفا بخشے گا
+**English (Yusuf Ali):** Fight them, and Allah will punish them by your hands, cover them with shame, help you (to victory) over them, heal the breasts of Believers,
 
 [Open on Quran.com](https://quran.com/9/14)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you are going to know who will get a punishment that will disgrace him [on earth] and upon whom will descend an enduring punishment [in the Hereafter]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم کو جلد معلوم ہوجائے گا کہ کس پر عذاب آتا ہے اور جو اسے رسوا کرے گا اور کس پر ہمیشہ کا عذاب نازل ہوتا ہے
+**English (Yusuf Ali):** "But soon will ye know who it is on whom will descend a penalty that will cover them with shame,- on whom will be unloosed a penalty lasting:"
 
 [Open on Quran.com](https://quran.com/11/39)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And his people came hastening to him, and before [this] they had been doing evil deeds. He said, "O my people, these are my daughters; they are purer for you. So fear Allāh and do not disgrace me concerning my guests. Is there not among you a man of reason?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور لوط کی قوم کے لوگ ان کے پاس بےتحاشا دوڑتے ہوئے آئے اور یہ لوگ پہلے ہی سے فعل شنیع کیا کرتے تھے۔ لوط نے کہا کہ اے قوم! یہ (جو) میری (قوم کی) لڑکیاں ہیں، یہ تمہارے لیے (جائز اور) پاک ہیں۔ تو خدا سے ڈرو اور میرے مہمانوں کے (بارے) میں میری آبرو نہ کھوؤ۔ کیا تم میں کوئی بھی شائستہ آدمی نہیں
+**English (Yusuf Ali):** And his people came rushing towards him, and they had been long in the habit of practising abominations. He said: "O my people! Here are my daughters: they are purer for you (if ye marry)! Now fear Allah, and cover me not with shame about my guests! Is there not among you a single right-minded man?"
 
 [Open on Quran.com](https://quran.com/11/78)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And O my people, work according to your position; indeed, I am working. You are going to know to whom will come a punishment that will disgrace him and who is a liar. So watch; indeed, I am with you a watcher, [awaiting the outcome]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور برادران ملت! تم اپنی جگہ کام کیے جاؤ میں (اپنی جگہ) کام کیے جاتا ہوں۔ تم کو عنقریب معلوم ہوجائے گا کہ رسوا کرنے والا عذاب کس پر آتا ہے اور جھوٹا کون ہے اور تم بھی انتظار کرو، میں بھی تمہارے ساتھ انتظار کرتا ہوں
+**English (Yusuf Ali):** "And O my people! Do whatever ye can: I will do (my part): Soon will ye know who it is on whom descends the penalty of ignominy; and who is a liar! and watch ye! for I too am watching with you!"
 
 [Open on Quran.com](https://quran.com/11/93)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And fear Allāh and do not disgrace me."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا سے ڈرو۔ اور میری بےآبروئی نہ کیجو
+**English (Yusuf Ali):** "But fear Allah, and shame me not."
 
 [Open on Quran.com](https://quran.com/15/69)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then on the Day of Resurrection He will disgrace them and say, "Where are My 'partners' for whom you used to oppose [the believers]?" Those who were given knowledge will say, "Indeed disgrace, this Day, and evil are upon the disbelievers" -
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر وہ ان کو قیامت کے دن بھی ذلیل کرے گا اور کہے گا کہ میرے وہ شریک کہاں ہیں جن کے بارے میں تم جھگڑا کرتے تھے۔ جن لوگوں کو علم دیا گیا تھا وہ کہیں گے کہ آج کافروں کی رسوائی اور برائی ہے
+**English (Yusuf Ali):** Then, on the Day of Judgment, He will cover them with shame, and say: "Where are My 'partners' concerning whom ye used to dispute (with the godly)?" Those endued with knowledge will say: "This Day, indeed, are the Unbelievers covered with shame and misery,-
 
 [Open on Quran.com](https://quran.com/16/27)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not disgrace me on the Day they are [all] resurrected -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس دن لوگ اٹھا کھڑے کئے جائیں گے مجھے رسوا نہ کیجیو
+**English (Yusuf Ali):** "And let me not be in disgrace on the Day when (men) will be raised up;-
 
 [Open on Quran.com](https://quran.com/26/87)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** To whom will come a torment disgracing him and on whom will descend an enduring punishment."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہ کس پر عذاب آتا ہے جو اسے رسوا کرے گا۔ اور کس پر ہمیشہ کا عذاب نازل ہوتا ہے
+**English (Yusuf Ali):** "Who it is to whom comes a Penalty of ignominy, and on whom descends a Penalty that abides."
 
 [Open on Quran.com](https://quran.com/39/40)
 

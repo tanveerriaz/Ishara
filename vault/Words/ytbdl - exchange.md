@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:108 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do you intend to ask your Messenger as Moses was asked before? And whoever exchanges faith for disbelief has certainly strayed from the soundness of the way.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم یہ چاہتے ہو کہ اپنے پیغمبر سے اسی طرح کے سوال کرو، جس طرح کے سوال پہلے موسیٰ سے کئے گئے تھے۔ اور جس شخص نے ایمان (چھوڑ کر اس) کے بدلے کفر لیا، وہ سیدھے رستے سے بھٹک گیا
+**English (Yusuf Ali):** Would ye question your Messenger as Moses was questioned of old? but whoever changeth from Faith to Unbelief, Hath strayed without doubt from the even way.
 
 [Open on Quran.com](https://quran.com/2/108)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And give to the orphans their properties and do not substitute the defective [of your own] for the good [of theirs]. And do not consume their properties into your own. Indeed, that is ever a great sin.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یتیموں کا مال (جو تمہاری تحویل میں ہو) ان کے حوالے کردو اور ان کے پاکیزہ (اور عمدہ) مال کو (اپنے ناقص اور) برے مال سے نہ بدلو۔ اور نہ ان کا مال اپنے مال میں ملا کر کھاؤ۔ کہ یہ بڑا سخت گناہ ہے
+**English (Yusuf Ali):** To orphans restore their property (When they reach their age), nor substitute (your) worthless things for (their) good ones; and devour not their substance (by mixing it up) with your own. For this is indeed a great sin.
 
 [Open on Quran.com](https://quran.com/4/2)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Not lawful to you, [O Muḥammad], are [any additional] women after [this], nor [is it] for you to exchange them for [other] wives, even if their beauty were to please you, except what your right hand possesses. And ever is Allāh, over all things, an Observer.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) ان کے سوا اور عورتیں تم کو جائز نہیں اور نہ یہ کہ ان بیویوں کو چھوڑ کر اور بیویاں کرو خواہ ان کا حسن تم کو (کیسا ہی) اچھا لگے مگر وہ جو تمہارے ہاتھ کا مال ہے (یعنی لونڈیوں کے بارے میں تم کو اختیار ہے) اور خدا ہر چیز پر نگاہ رکھتا ہے
+**English (Yusuf Ali):** It is not lawful for thee (to marry more) women after this, nor to change them for (other) wives, even though their beauty attract thee, except any thy right hand should possess (as handmaidens): and Allah doth watch over all things.
 
 [Open on Quran.com](https://quran.com/33/52)
 

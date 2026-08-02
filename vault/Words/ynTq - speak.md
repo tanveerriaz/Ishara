@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 21:63 · [[021 Al-Anbya]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "Rather, this - the largest of them - did it, so ask them, if they should [be able to] speak."
 
-**Urdu (Fatah Muhammad Jalandhari):** (ابراہیم نے) کہا (نہیں) بلکہ یہ ان کے اس بڑے (بت) نے کیا (ہوگا)۔ اگر یہ بولتے ہیں تو ان سے پوچھ لو
+**English (Yusuf Ali):** He said: "Nay, this was done by - this is their biggest one! ask them, if they can speak intelligently!"
 
 [Open on Quran.com](https://quran.com/21/63)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then they reversed themselves, [saying], "You have already known that these do not speak!"
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر (شرمندہ ہو کر) سر نیچا کرلیا (اس پر بھی ابراہیم سے کہنے لگے کہ) تم جانتے ہو یہ بولتے نہیں
+**English (Yusuf Ali):** Then were they confounded with shame: (they said), "Thou knowest full well that these (idols) do not speak!"
 
 [Open on Quran.com](https://quran.com/21/65)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We charge no soul except [with that within] its capacity, and with Us is a record which speaks with truth; and they will not be wronged.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتے اور ہمارے پاس کتاب ہے جو سچ سچ کہہ دیتی ہے اور ان لوگوں پر ظلم نہیں کیا جائے گا
+**English (Yusuf Ali):** On no soul do We place a burden greater than it can bear: before Us is a record which clearly shows the truth: they will never be wronged.
 
 [Open on Quran.com](https://quran.com/23/62)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the decree will befall them for the wrong they did, and they will not [be able to] speak.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اُن کے ظلم کے سبب اُن کے حق میں وعدہ (عذاب) پورا ہوکر رہے گا تو وہ بول بھی نہ سکیں گے
+**English (Yusuf Ali):** And the Word will be fulfilled against them, because of their wrong-doing, and they will be unable to speak (in plea).
 
 [Open on Quran.com](https://quran.com/27/85)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** What is [wrong] with you that you do not speak?".
 
-**Urdu (Fatah Muhammad Jalandhari):** تمہیں کیا ہوا ہے تم بولتے نہیں؟
+**English (Yusuf Ali):** "What is the matter with you that ye speak not (intelligently)?"
 
 [Open on Quran.com](https://quran.com/37/92)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** This, Our record, speaks about you in truth. Indeed, We were having transcribed whatever you used to do."
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ ہماری کتاب تمہارے بارے میں سچ سچ بیان کردے گی۔ جو کچھ تم کیا کرتے تھے ہم لکھواتے جاتے ہیں
+**English (Yusuf Ali):** "This Our Record speaks about you with truth: For We were wont to put on Record all that ye did."
 
 [Open on Quran.com](https://quran.com/45/29)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then by the Lord of the heaven and earth, indeed, it is truth - just as [sure as] it is that you are speaking.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو آسمانوں اور زمین کے مالک کی قسم! یہ (اسی طرح) قابل یقین ہے جس طرح تم بات کرتے ہو
+**English (Yusuf Ali):** Then, by the Lord of heaven and earth, this is the very Truth, as much as the fact that ye can speak intelligently to each other.
 
 [Open on Quran.com](https://quran.com/51/23)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Nor does he speak from [his own] inclination.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور نہ خواہش نفس سے منہ سے بات نکالتے ہیں
+**English (Yusuf Ali):** Nor does he say (aught) of (his own) Desire.
 
 [Open on Quran.com](https://quran.com/53/3)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** This is a Day they will not speak,
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ وہ دن ہے کہ( لوگ) لب تک نہ ہلا سکیں گے
+**English (Yusuf Ali):** That will be a Day when they shall not be able to speak.
 
 [Open on Quran.com](https://quran.com/77/35)
 

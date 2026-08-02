@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:148 · [[007 Al-Araf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the people of Moses made, after [his departure], from their ornaments a calf - an image having a lowing sound. Did they not see that it could neither speak to them nor guide them to a way? They took it [for worship], and they were wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور قوم موسیٰ نے موسیٰ کے بعد اپنے زیور کا ایک بچھڑا بنا لیا (وہ) ایک جسم (تھا) جس میں سے بیل کی آواز نکلتی تھی۔ ان لوگوں نے یہ نہ دیکھا کہ وہ نہ ان سے بات کرسکتا ہے اور نہ ان کو راستہ دکھا سکتا ہے۔ اس کو انہوں نے (معبود) بنالیا اور (اپنے حق میں) ظلم کیا
+**English (Yusuf Ali):** The people of Moses made, in his absence, out of their ornaments, the image of calf, (for worship): it seemed to low: did they not see that it could neither speak to them, nor show them the way? They took it for worship and they did wrong.
 
 [Open on Quran.com](https://quran.com/7/148)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he extracted for them [the statue of] a calf which had a lowing sound, and they said, "This is your god and the god of Moses, but he forgot."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو اس نے ان کے لئے ایک بچھڑا بنا دیا (یعنی اس کا) قالب جس کی آواز گائے کی سی تھی۔ تو لوگ کہنے لگے کہ یہی تمہارا معبود ہے اور موسیٰ کا بھی معبود ہے۔ مگر وہ بھول گئے ہیں
+**English (Yusuf Ali):** "Then he brought out (of the fire) before the (people) the image of a calf: It seemed to low: so they said: This is your god, and the god of Moses, but (Moses) has forgotten!"
 
 [Open on Quran.com](https://quran.com/20/88)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We did not make them [i.e., the prophets] forms not eating food, nor were they immortal [on earth].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کے لئے ایسے جسم نہیں بنائے تھے کہ کھانا نہ کھائیں اور نہ وہ ہمیشہ رہنے والے تھے
+**English (Yusuf Ali):** Nor did We give them bodies that ate no food, nor were they exempt from death.
 
 [Open on Quran.com](https://quran.com/21/8)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We certainly tried Solomon and placed on his throne a body; then he returned.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے سلیمان کی آزمائش کی اور ان کے تخت پر ایک دھڑ ڈال دیا پھر انہوں نے (خدا کی طرف) رجوع کیا
+**English (Yusuf Ali):** And We did try Solomon: We placed on his throne a body (without life); but he did turn (to Us in true devotion):
 
 [Open on Quran.com](https://quran.com/38/34)
 

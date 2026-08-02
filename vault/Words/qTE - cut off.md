@@ -42,7 +42,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:27 · [[002 Al-Baqarah]]
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and cause corruption on earth. It is those who are the losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے اقرار کو مضبوط کرنے کے بعد توڑ دیتے ہیں اور جس چیز (یعنی رشتہٴ قرابت) کے جوڑے رکھنے کا الله نے حکم دیا ہے اس کو قطع کئے ڈالتے ہیں اور زمین میں خرابی کرتے ہیں یہی لوگ نقصان اٹھانے والے ہیں
+**English (Yusuf Ali):** Those who break Allah's Covenant after it is ratified, and who sunder what Allah Has ordered to be joined, and do mischief on earth: These cause loss (only) to themselves.
 
 [Open on Quran.com](https://quran.com/2/27)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That He might cut down a section of the disbelievers or suppress them so that they turn back disappointed.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ خدا نے) اس لیے (کیا) کہ کافروں کی ایک جماعت کو ہلاک یا انہیں ذلیل ومغلوب کر دے کہ (جیسے آئے تھے ویسے ہی) ناکام واپس جائیں
+**English (Yusuf Ali):** That He might cut off a fringe of the Unbelievers or expose them to infamy, and they should then be turned back, frustrated of their purpose.
 
 [Open on Quran.com](https://quran.com/3/127)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the penalty for those who wage war against Allāh and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment,
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا اور اس کے رسول سے لڑائی کریں اور ملک میں فساد کرنے کو دوڑتے پھریں ان کی یہی سزا ہے کہ قتل کر دیئے جائیں یا سولی چڑھا دیئے جائیں یا ان کے ایک ایک طرف کے ہاتھ اور ایک ایک طرف کے پاؤں کاٹ دیئے جائیں یا ملک سے نکال دیئے جائیں یہ تو دنیا میں ان کی رسوائی ہے اور آخرت میں ان کے لیے بڑا (بھاری) عذاب تیار ہے
+**English (Yusuf Ali):** The punishment of those who wage war against Allah and His Messenger, and strive with might and main for mischief through the land is: execution, or crucifixion, or the cutting off of hands and feet from opposite sides, or exile from the land: that is their disgrace in this world, and a heavy punishment is theirs in the Hereafter;
 
 [Open on Quran.com](https://quran.com/5/33)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [As for] the thief, the male and the female, amputate their hands in recompense for what they earned [i.e., committed] as a deterrent [punishment] from Allāh. And Allāh is Exalted in Might and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو چوری کرے مرد ہو یا عورت ان کے ہاتھ کاٹ ڈالو یہ ان کے فعلوں کی سزا اور خدا کی طرف سے عبرت ہے اور خدا زبردست (اور) صاحب حکمت ہے
+**English (Yusuf Ali):** As to the thief, Male or female, cut off his or her hands: a punishment by way of example, from Allah, for their crime: and Allah is Exalted in power.
 
 [Open on Quran.com](https://quran.com/5/38)
 
@@ -120,7 +120,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So the people that committed wrong were eliminated. And praise to Allāh, Lord of the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** غرض ظالم لوگوں کی جڑ کاٹ دی گئی۔ اور سب تعریف خدائے رب العالمین ہی کو (سزاوار ہے)
+**English (Yusuf Ali):** Of the wrong-doers the last remnant was cut off. Praise be to Allah, the Cherisher of the worlds.
 
 [Open on Quran.com](https://quran.com/6/45)
 
@@ -136,7 +136,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے ہود کو اور جو لوگ ان کے ساتھ تھے ان کو نجات بخشی اور جنہوں نے ہماری آیتوں کو جھٹلایا تھا ان کی جڑ کاٹ دی اور وہ ایمان لانے والے تھے ہی نہیں
+**English (Yusuf Ali):** We saved him and those who adhered to him. By Our mercy, and We cut off the roots of those who rejected Our signs and did not believe.
 
 [Open on Quran.com](https://quran.com/7/72)
 
@@ -152,7 +152,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** I will surely cut off your hands and your feet on opposite sides; then I will surely crucify you all."
 
-**Urdu (Fatah Muhammad Jalandhari):** میں (پہلے تو) تمہارے ایک طرف کے ہاتھ اور دوسری طرف کے پاؤں کٹوا دوں گا پھر تم سب کو سولی چڑھوا دوں گا
+**English (Yusuf Ali):** "Be sure I will cut off your hands and your feet on apposite sides, and I will cause you all to die on the cross."
 
 [Open on Quran.com](https://quran.com/7/124)
 
@@ -168,7 +168,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We divided them into twelve descendant tribes [as distinct] nations. And We inspired to Moses when his people implored him for water, "Strike with your staff the stone," and there gushed forth from it twelve springs. Every people [i.e., tribe] knew its watering place. And We shaded them with clouds and sent down upon them manna and quails, [saying], "Eat from the good things with which We have provided you." And they wronged Us not, but they were [only] wronging themselves.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو (یعنی بنی اسرائیل کو) الگ الگ کرکے بارہ قبیلے (اور) بڑی بڑی جماعتیں بنا دیا۔ اور جب موسیٰ سے ان کی قوم نے پانی طلب کیا تو ہم نے ان کی طرف وحی بھیجی کہ اپنی لاٹھی پتھر پر مار دو۔ تو اس میں سے بارہ چشمے پھوٹ نکلے۔ اور سب لوگوں نے اپنا اپنا گھاٹ معلوم کرلیا۔ اور ہم نے ان (کے سروں) پر بادل کو سائبان بنائے رکھا اور ان پر من وسلویٰ اتارتے رہے۔ اور (ان سے کہا کہ) جو پاکیزہ چیزیں ہم تمہیں دیتے ہیں انہیں کھاؤ۔ اور ان لوگوں نے ہمارا کچھ نقصان نہیں کیا بلکہ (جو) نقصان کیا اپنا ہی کیا
+**English (Yusuf Ali):** We divided them into twelve tribes or nations. We directed Moses by inspiration, when his (thirsty) people asked him for water: "Strike the rock with thy staff": out of it there gushed forth twelve springs: Each group knew its own place for water. We gave them the shade of clouds, and sent down to them manna and quails, (saying): "Eat of the good things We have provided for you": (but they rebelled); to Us they did no harm, but they harmed their own souls.
 
 [Open on Quran.com](https://quran.com/7/160)
 
@@ -184,7 +184,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We divided them throughout the earth into nations. Of them some were righteous, and of them some were otherwise. And We tested them with good [times] and bad that perhaps they would return [to obedience].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو جماعت جماعت کرکے ملک میں منتشر کر دیا۔ بعض ان میں سے نیکوکار ہیں اور بعض اور طرح کے (یعنی بدکار) اور ہم آسائشوں، تکلیفوں (دونوں) سے ان کی آزمائش کرتے رہے تاکہ (ہماری طرف) رجوع کریں
+**English (Yusuf Ali):** We broke them up into sections on this earth. There are among them some that are the righteous, and some that are the opposite. We have tried them with both prosperity and adversity: In order that they might turn (to us).
 
 [Open on Quran.com](https://quran.com/7/168)
 
@@ -200,7 +200,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Remember, O believers], when Allāh promised you one of the two groups - that it would be yours - and you wished that the unarmed one would be yours. But Allāh intended to establish the truth by His words and to eliminate the disbelievers
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (اس وقت کو یاد کرو) جب خدا تم سے وعدہ کرتا تھا کہ (ابوسفیان اور ابوجہل کے) دو گروہوں میں سے ایک گروہ تمہارا (مسخر) ہوجائے گا۔ اور تم چاہتے تھے کہ جو قافلہ بے (شان و) شوکت (یعنی بے ہتھیار ہے) وہ تمہارے ہاتھ آجائے اور خدا چاہتا تھا کہ اپنے فرمان سے حق کو قائم رکھے اور کافروں کی جڑ کاٹ کر (پھینک) دے
+**English (Yusuf Ali):** Behold! Allah promised you one of the two (enemy) parties, that it should be yours: Ye wished that the one unarmed should be yours, but Allah willed to justify the Truth according to His words and to cut off the roots of the Unbelievers;-
 
 [Open on Quran.com](https://quran.com/8/7)
 

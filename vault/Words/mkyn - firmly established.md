@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 12:54 · [[012 Yusuf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the king said, "Bring him to me; I will appoint him exclusively for myself." And when he spoke to him, he said, "Indeed, you are today established [in position] and trusted."
 
-**Urdu (Fatah Muhammad Jalandhari):** بادشاہ نے حکم دیا کہ اسے میرے پاس لاؤ میں اسے اپنا مصاحب خاص بناؤں گا۔ پھر جب ان سے گفتگو کی تو کہا کہ آج سے تم ہمارے ہاں صاحب منزلت اور صاحبِ اعتبار ہو
+**English (Yusuf Ali):** So the king said: "Bring him unto me; I will take him specially to serve about my own person." Therefore when he had spoken to him, he said: "Be assured this day, thou art, before our own presence, with rank firmly established, and fidelity fully proved!
 
 [Open on Quran.com](https://quran.com/12/54)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We placed him as a sperm-drop in a firm lodging [i.e., the womb].
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اس کو ایک مضبوط (اور محفوظ) جگہ میں نطفہ بنا کر رکھا
+**English (Yusuf Ali):** Then We placed him as (a drop of) sperm in a place of rest, firmly fixed;
 
 [Open on Quran.com](https://quran.com/23/13)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We placed it in a firm lodging [i.e., the womb]
 
-**Urdu (Fatah Muhammad Jalandhari):** اس کو ایک محفوظ جگہ میں رکھا
+**English (Yusuf Ali):** The which We placed in a place of rest, firmly fixed,
 
 [Open on Quran.com](https://quran.com/77/21)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Who is] possessed of power and with the Owner of the Throne, secure [in position],
 
-**Urdu (Fatah Muhammad Jalandhari):** جو صاحب قوت مالک عرش کے ہاں اونچے درجے والا ہے
+**English (Yusuf Ali):** Endued with Power, with rank before the Lord of the Throne,
 
 [Open on Quran.com](https://quran.com/81/20)
 

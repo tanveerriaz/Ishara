@@ -15,30 +15,30 @@ Luqman · 34 ayahs
 ## Words in this surah (graph)
 
 - [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[bnY - children]] — `بُنَىّ` · children
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[mA' - water]] — `ماء` · water
-- [[mwj - waves]] — `مَوْج` · waves
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[EZym - great]] — `عَظِيم` · great
-- [[mvqAl - weight]] — `مِثْقال` · weight
-- [[dEA - call]] — `دَعا` · call
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[tlY - recited]] — `تَلَى` · recited
-- [[qmr - moon]] — `قَمَر` · moon
-- [[grwr - delusion]] — `غُرُور` · delusion
-- [[>qAm - establish]] — `أَقامَ` · establish
+- [[dAbp - moving creature]] — `دابَّة` · moving creature
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
+- [[dEA - call]] — `دَعا` · call
+- [[Swt - voice]] — `صَوْت` · voice
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[jAdl - dispute]] — `جادَلُ` · dispute
+- [[lyl - night]] — `لَيْل` · night
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[wjh - faces]] — `وَجْه` · faces
+- [[wAHdp - single]] — `واحِدَة` · single
+- [[A$trY - exchange]] — `اشْتَرَى` · exchange
+- [[wEZ - admonished]] — `وَعَظْ` · admonished
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[lys - not]] — `لَيْسَ` · not
+- [[lTyf - all-subtle]] — `لَطِيف` · all-subtle
+- [[Eml - do]] — `عَمِلَ` · do
+- [[>mr - command]] — `أَمَرَ` · command
+- [[bEv - we sent]] — `بَعَثَ` · we sent
 - [[wAldy - parents]] — `والِدَي` · parents
-- [[hzw - ridicule]] — `هُزُو` · ridicule
-- [[fxwr - boastful]] — `فَخُور` · boastful
-- [[gny - free need]] — `غَنِيّ` · free need
-- [[s>l - ask]] — `سَأَلَ` · ask
+- [[whn - weaken]] — `وَهَنَ` · weaken
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[mA' - water]] — `ماء` · water
 
 ## Roots
 

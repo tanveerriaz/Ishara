@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:115 · [[002 Al-Baqarah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to Allāh belongs the east and the west. So wherever you [might] turn, there is the Face of Allāh. Indeed, Allāh is all-Encompassing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مشرق اور مغرب سب خدا ہی کا ہے۔ تو جدھر تم رخ کرو۔ ادھر خدا کی ذات ہے۔ بے شک خدا صاحبِ وسعت اور باخبر ہے
+**English (Yusuf Ali):** To Allah belong the east and the West: Whithersoever ye turn, there is the presence of Allah. For Allah is all-Pervading, all-Knowing.
 
 [Open on Quran.com](https://quran.com/2/115)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And their prophet said to them, "Indeed, Allāh has sent to you Saul as a king." They said, "How can he have kingship over us while we are more worthy of kingship than him and he has not been given any measure of wealth?" He said, "Indeed, Allāh has chosen him over you and has increased him abundantly in knowledge and stature. And Allāh gives His sovereignty to whom He wills. And Allāh is all-Encompassing [in favor] and Knowing."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبر نے ان سے (یہ بھی) کہا کہ خدا نے تم پر طالوت کو بادشاہ مقرر فرمایا ہے۔ وہ بولے کہ اسے ہم پر بادشاہی کا حق کیونکر ہوسکتا ہےبادشاہی کے مستحق تو ہم ہیں اور اس کے پاس تو بہت سی دولت بھی نہیں۔ پیغمبر نے کہا کہ خدا نےاس کو تم پر فضیلت دی ہے اور (بادشاہی کے لئے) منتخب فرمایا ہے اس نے اسے علم بھی بہت سا بخشا ہے اور تن و توش بھی (بڑا عطا کیا ہے) اور خدا (کو اختیار ہے) جسے چاہے بادشاہی بخشے۔ وہ بڑا کشائش والا اور دانا ہے
+**English (Yusuf Ali):** Their Prophet said to them: "Allah hath appointed Talut as king over you." They said: "How can he exercise authority over us when we are better fitted than he to exercise authority, and he is not even gifted, with wealth in abundance?" He said: "Allah hath Chosen him above you, and hath gifted him abundantly with knowledge and bodily prowess: Allah Granteth His authority to whom He pleaseth. Allah careth for all, and He knoweth all things."
 
 [Open on Quran.com](https://quran.com/2/247)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The example of those who spend their wealth in the way of Allāh is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains. And Allāh multiplies [His reward] for whom He wills. And Allāh is all-Encompassing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال خدا کی راہ میں خرچ کرتے ہیں ان (کے مال) کی مثال اس دانے کی سی ہے جس سے سات بالیں اگیں اور ہر ایک بال میں سو سو دانے ہوں اور خدا جس (کے مال) کو چاہتا ہے زیادہ کرتا ہے۔ وہ بڑی کشائش والا اور سب کچھ جاننے والا ہے
+**English (Yusuf Ali):** The parable of those who spend their substance in the way of Allah is that of a grain of corn: it groweth seven ears, and each ear Hath a hundred grains. Allah giveth manifold increase to whom He pleaseth: And Allah careth for all and He knoweth all things.
 
 [Open on Quran.com](https://quran.com/2/261)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Satan threatens you with poverty and orders you to immorality, while Allāh promises you forgiveness from Him and bounty. And Allāh is all-Encompassing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور دیکھنا) شیطان (کا کہنا نہ ماننا وہ) تمہیں تنگ دستی کا خوف دلاتا اور بےحیائی کے کام کر نے کو کہتا ہے۔ اور خدا تم سے اپنی بخشش اور رحمت کا وعدہ کرتا ہے۔ اور خدا بڑی کشائش والا (اور) سب کچھ جاننے والا ہے
+**English (Yusuf Ali):** The Evil one threatens you with poverty and bids you to conduct unseemly. Allah promiseth you His forgiveness and bounties. And Allah careth for all and He knoweth all things.
 
 [Open on Quran.com](https://quran.com/2/268)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not trust except those who follow your religion." Say, "Indeed, the [true] guidance is the guidance of Allāh. [Do you fear] lest someone be given [knowledge] like you were given or that they would [thereby] argue with you before your Lord?" Say, "Indeed, [all] bounty is in the hand of Allāh - He grants it to whom He wills. And Allāh is all-Encompassing and Wise."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے دین کے پیرو کے سوا کسی اور کے قائل نہ ہونا (اے پیغمبر) کہہ دو کہ ہدایت تو خدا ہی کی ہدایت ہے (وہ یہ بھی کہتے ہیں) یہ بھی (نہ ماننا) کہ جو چیز تم کو ملی ہے ویسی کسی اور کو ملے گی یا وہ تمہیں خدا کے روبرو قائل معقول کر سکیں گے یہ بھی کہہ دو کہ بزرگی خدا ہی کے ہاتھ میں ہے وہ جسے چاہتا ہے دیتا ہے اور خدا کشائش والا (اور) علم والا ہے
+**English (Yusuf Ali):** "And believe no one unless he follows your religion." Say: "True guidance is the Guidance of Allah: (Fear ye) Lest a revelation be sent to someone (else) Like unto that which was sent unto you? or that those (Receiving such revelation) should engage you in argument before your Lord?" Say: "All bounties are in the hand of Allah: He granteth them to whom He pleaseth: And Allah careth for all, and He knoweth all things."
 
 [Open on Quran.com](https://quran.com/3/73)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if they separate [by divorce], Allāh will enrich each [of them] from His abundance. And ever is Allāh Encompassing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر میاں بیوی (میں موافقت نہ ہوسکے اور) ایک دوسرے سے جدا ہوجائیں تو خدا ہر ایک کو اپنی دولت سے غنی کردے گا اور خدا بڑی کشائش والا اور حکمت والا ہے
+**English (Yusuf Ali):** But if they disagree (and must part), Allah will provide abundance for all from His all-reaching bounty: for Allah is He that careth for all and is Wise.
 
 [Open on Quran.com](https://quran.com/4/130)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, whoever of you should revert from his religion - Allāh will bring forth [in place of them] a people He will love and who will love Him [who are] humble toward the believers, strong against the disbelievers; they strive in the cause of Allāh and do not fear the blame of a critic. That is the favor of Allāh; He bestows it upon whom He wills. And Allāh is all-Encompassing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو اگر کوئی تم میں سے اپنے دین سے پھر جائے گا تو خدا ایسے لوگ پیدا کر دے گا جن کو وہ دوست رکھے اور جسے وہ دوست رکھیں اور جو مومنوں کے حق میں نرمی کریں اور کافروں سے سختی سے پیش آئیں خدا کی راہ میں جہاد کریں اور کسی ملامت کرنے والی کی ملامت سے نہ ڈریں یہ خدا کا فضل ہے وہ جسے چاہتا ہے دیتا ہے اور الله بڑی کشائش والا اور جاننے والا ہے
+**English (Yusuf Ali):** O ye who believe! if any from among you turn back from his Faith, soon will Allah produce a people whom He will love as they will love Him,- lowly with the believers, mighty against the rejecters, fighting in the way of Allah, and never afraid of the reproaches of such as find fault. That is the grace of Allah, which He will bestow on whom He pleaseth. And Allah encompasseth all, and He knoweth all things.
 
 [Open on Quran.com](https://quran.com/5/54)
 
@@ -155,7 +155,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And marry the unmarried among you and the righteous among your male slaves and female slaves. If they should be poor, Allāh will enrich them from His bounty, and Allāh is all-Encompassing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنی قوم کی بیوہ عورتوں کے نکاح کردیا کرو۔ اور اپنے غلاموں اور لونڈیوں کے بھی جو نیک ہوں (نکاح کردیا کرو) اگر وہ مفلس ہوں گے تو خدا ان کو اپنے فضل سے خوش حال کردے گا۔ اور خدا (بہت) وسعت والا اور (سب کچھ) جاننے والا ہے
+**English (Yusuf Ali):** Marry those among you who are single, or the virtuous ones among yourselves, male or female: if they are in poverty, Allah will give them means out of His grace: for Allah encompasseth all, and he knoweth all things.
 
 [Open on Quran.com](https://quran.com/24/32)
 
@@ -171,7 +171,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who avoid the major sins and immoralities, only [committing] slight ones. Indeed, your Lord is vast in forgiveness. He was most knowing of you when He produced you from the earth and when you were fetuses in the wombs of your mothers. So do not claim yourselves to be pure; He is most knowing of who fears Him.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو صغیرہ گناہوں کے سوا بڑے بڑے گناہوں اور بےحیائی کی باتوں سے اجتناب کرتے ہیں۔ بےشک تمہارا پروردگار بڑی بخشش والا ہے۔ وہ تم کو خوب جانتا ہے۔ جب اس نے تم کو مٹی سے پیدا کیا اور جب تم اپنی ماؤں کے پیٹ میں بچّے تھے۔ تو اپنے آپ کو پاک صاف نہ جتاؤ۔ جو پرہیزگار ہے وہ اس سے خوب واقف ہے
+**English (Yusuf Ali):** Those who avoid great sins and shameful deeds, only (falling into) small faults,- verily thy Lord is ample in forgiveness. He knows you well when He brings you out of the earth, And when ye are hidden in your mothers' wombs. Therefore justify not yourselves: He knows best who it is that guards against evil.
 
 [Open on Quran.com](https://quran.com/53/32)
 

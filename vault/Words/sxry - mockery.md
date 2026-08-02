@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 23:110 · [[023 Al-Muminun]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But you took them in mockery to the point that they made you forget My remembrance, and you used to laugh at them.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو تم ان سے تمسخر کرتے رہے یہاں تک کہ ان کے پیچھے میری یاد بھی بھول گئے اور تم (ہمیشہ) ان سے ہنسی کیا کرتے تھے
+**English (Yusuf Ali):** "But ye treated them with ridicule, so much so that (ridicule of) them made you forget My Message while ye were laughing at them!
 
 [Open on Quran.com](https://quran.com/23/110)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Is it [because] we took them in ridicule, or has [our] vision turned away from them?"
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا ہم نے ان سے ٹھٹھا کیا ہے یا (ہماری) آنکھیں ان (کی طرف) سے پھر گئی ہیں؟
+**English (Yusuf Ali):** "Did we treat them (as such) in ridicule, or have (our) eyes failed to perceive them?"
 
 [Open on Quran.com](https://quran.com/38/63)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they distribute the mercy of your Lord? It is We who have apportioned among them their livelihood in the life of this world and have raised some of them above others in degrees [of rank] that they may make use of one another for service. But the mercy of your Lord is better than whatever they accumulate.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ تمہارے پروردگار کی رحمت کو بانٹتے ہیں؟ ہم نے ان میں ان کی معیشت کو دنیا کی زندگی میں تقسیم کردیا اور ایک کے دوسرے پر درجے بلند کئے تاکہ ایک دوسرے سے خدمت لے اور جو کچھ یہ جمع کرتے ہیں تمہارے پروردگار کی رحمت اس سے کہیں بہتر ہے
+**English (Yusuf Ali):** Is it they who would portion out the Mercy of thy Lord? It is We Who portion out between them their livelihood in the life of this world: and We raise some of them above others in ranks, so that some may command work from others. But the Mercy of thy Lord is better than the (wealth) which they amass.
 
 [Open on Quran.com](https://quran.com/43/32)
 

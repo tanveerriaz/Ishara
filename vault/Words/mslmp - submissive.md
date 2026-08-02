@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:71 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "He says, 'It is a cow neither trained to plow the earth nor to irrigate the field, one free from fault with no spot upon her.'" They said, "Now you have come with the truth." So they slaughtered her, but they could hardly do it.
 
-**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا کہ خدا فرماتا ہے کہ وہ بیل کام میں لگا ہوا نہ ہو، نہ تو زمین جوتتا ہو اور نہ کھیتی کو پانی دیتا ہو۔ اس میں کسی طرح کا داغ نہ ہو۔ کہنے لگے، اب تم نے سب باتیں درست بتا دیں۔ غرض (بڑی مشکل سے) انہوں نے اس بیل کو ذبح کیا، اور وہ ایسا کرنے والے تھے نہیں
+**English (Yusuf Ali):** He said: "He says: A heifer not trained to till the soil or water the fields; sound and without blemish." They said: "Now hast thou brought the truth." Then they offered her in sacrifice, but not with good-will.
 
 [Open on Quran.com](https://quran.com/2/71)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites [of worship] and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار، ہم کو اپنا فرمانبردار بنائے رکھیو۔ اور ہماری اولاد میں سے بھی ایک گروہ کو اپنا مطیع بنائے رہیو، اور (پروردگار) ہمیں طریق عبادت بتا اور ہمارے حال پر (رحم کے ساتھ) توجہ فرما۔ بے شک تو توجہ فرمانے والا مہربان ہے
+**English (Yusuf Ali):** "Our Lord! make of us Muslims, bowing to Thy (Will), and of our progeny a people Muslim, bowing to Thy (will); and show us our place for the celebration of (due) rites; and turn unto us (in Mercy); for Thou art the Oft-Returning, Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/128)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And never is it for a believer to kill a believer except by mistake. And whoever kills a believer by mistake - then the freeing of a believing slave and a compensation payment [diyah] presented to his [i.e., the deceased's] family [is required], unless they give [up their right as] charity. But if he [i.e., the deceased] was from a people at war with you and he was a believer - then [only] the freeing of a believing slave; and if he was from a people with whom you have a treaty - then a compensation payment presented to his family and the freeing of a believing slave. And whoever does not find [one or cannot afford to buy one] - then [instead], a fast for two months consecutively, [seeking] acceptance of repentance from Allāh. And Allāh is ever Knowing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کسی مومن کو شایان نہیں کہ مومن کو مار ڈالے مگر بھول کر اور جو بھول کر بھی مومن کو مار ڈالے تو (ایک تو) ایک مسلمان غلام آزاد کردے اور (دوسرے) مقتول کے وارثوں کو خون بہا دے ہاں اگر وہ معاف کردیں (تو ان کو اختیار ہے) اگر مقتول تمہارے دشمنوں کی جماعت میں سے ہو اور وہ خود مومن ہو تو صرف ایک مسلمان غلام آزاد کرنا چاہیئے اور اگر مقتول ایسے لوگوں میں سے ہو جن میں اور تم میں صلح کا عہد ہو تو وارثان مقتول کو خون بہا دینا اور ایک مسلمان غلام آزاد کرنا چاہیئے اور جس کو یہ میسر نہ ہو وہ متواتر دو مہینے کے روزے رکھے یہ (کفارہ) خدا کی طرف سے (قبول) توبہ (کے لئے) ہے اور خدا (سب کچھ) جانتا اور بڑی حکمت والا ہے
+**English (Yusuf Ali):** Never should a believer kill a believer; but (If it so happens) by mistake, (Compensation is due): If one (so) kills a believer, it is ordained that he should free a believing slave, and pay compensation to the deceased's family, unless they remit it freely. If the deceased belonged to a people at war with you, and he was a believer, the freeing of a believing slave (Is enough). If he belonged to a people with whom ye have treaty of Mutual alliance, compensation should be paid to his family, and a believing slave be freed. For those who find this beyond their means, (is prescribed) a fast for two months running: by way of repentance to Allah: for Allah hath all knowledge and all wisdom.
 
 [Open on Quran.com](https://quran.com/4/92)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the Muslim men and Muslim women, the believing men and believing women, the obedient men and obedient women, the truthful men and truthful women, the patient men and patient women, the humble men and humble women, the charitable men and charitable women, the fasting men and fasting women, the men who guard their private parts and the women who do so, and the men who remember Allāh often and the women who do so - for them Allāh has prepared forgiveness and a great reward.
 
-**Urdu (Fatah Muhammad Jalandhari):** (جو لوگ خدا کے آگے سر اطاعت خم کرنے والے ہیں یعنی) مسلمان مرد اور مسلمان عورتیں اور مومن مرد اور مومن عورتیں اور فرماں بردار مرد اور فرماں بردار عورتیں اور راست باز مرد اور راست باز عورتیں اور صبر کرنے والے مرد اور صبر کرنے والی عورتیں اور فروتنی کرنے والے مرد اور فروتنی کرنے والی عورتیں اور خیرات کرنے والے مرد اور اور خیرات کرنے والی عورتیں اور روزے رکھنے والے مرد اور روزے رکھنے والی عورتیں اور اپنی شرمگاہوں کی حفاظت کرنے والے مرد اور حفاظت کرنے والی عورتیں اور خدا کو کثرت سے یاد کرنے والے مرد اور کثرت سے یاد کرنے والی عورتیں۔ کچھ شک نہیں کہ ان کے لئے خدا نے بخشش اور اجر عظیم تیار کر رکھا ہے
+**English (Yusuf Ali):** For Muslim men and women,- for believing men and women, for devout men and women, for true men and women, for men and women who are patient and constant, for men and women who humble themselves, for men and women who give in Charity, for men and women who fast (and deny themselves), for men and women who guard their chastity, and for men and women who engage much in Allah's praise,- for them has Allah prepared forgiveness and great reward.
 
 [Open on Quran.com](https://quran.com/33/35)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Perhaps his Lord, if he divorced you [all], would substitute for him wives better than you - submitting [to Allāh], believing, devoutly obedient, repentant, worshipping, and traveling - [ones] previously married and virgins.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر پیغمبر تم کو طلاق دے دیں تو عجب نہیں کہ ان کا پروردگار تمہارے بدلے ان کو تم سے بہتر بیبیاں دے دے۔ مسلمان، صاحب ایمان فرمانبردار توبہ کرنے والیاں عبادت گذار روزہ رکھنے والیاں بن شوہر اور کنواریاں
+**English (Yusuf Ali):** It may be, if he divorced you (all), that Allah will give him in exchange consorts better than you,- who submit (their wills), who believe, who are devout, who turn to Allah in repentance, who worship (in humility), who travel (for Faith) and fast,- previously married or virgins.
 
 [Open on Quran.com](https://quran.com/66/5)
 

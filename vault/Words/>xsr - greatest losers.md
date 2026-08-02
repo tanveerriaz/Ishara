@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:22 · [[011 Hud]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Assuredly, it is they in the Hereafter who will be the greatest losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** بلاشبہ یہ لوگ آخرت میں سب سے زیادہ نقصان پانے والے ہیں
+**English (Yusuf Ali):** Without a doubt, these are the very ones who will lose most in the Hereafter!
 
 [Open on Quran.com](https://quran.com/11/22)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "Shall we [believers] inform you of the greatest losers as to [their] deeds?
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ ہم تمہیں بتائیں جو عملوں کے لحاظ سے بڑے نقصان میں ہیں
+**English (Yusuf Ali):** Say: "Shall we tell you of those who lose most in respect of their deeds?-
 
 [Open on Quran.com](https://quran.com/18/103)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they intended for him a plan [i.e., harm], but We made them the greatest losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے برا تو ان کا چاہا تھا مگر ہم نے ان ہی کو نقصان میں ڈال دیا
+**English (Yusuf Ali):** Then they sought a stratagem against him: but We made them the ones that lost most!
 
 [Open on Quran.com](https://quran.com/21/70)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those are the ones for whom there will be the worst of punishment, and in the Hereafter they are the greatest losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن کے لئے بڑا عذاب ہے اور وہ آخرت میں بھی وہ بہت نقصان اٹھانے والے ہیں
+**English (Yusuf Ali):** Such are they for whom a grievous Penalty is (waiting); and in the Hereafter theirs will be the greatest loss.
 
 [Open on Quran.com](https://quran.com/27/5)
 

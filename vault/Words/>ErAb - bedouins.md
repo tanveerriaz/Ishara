@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:90 · [[009 At-Tawbah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those with excuses among the bedouins came to be permitted [to remain], and they who had lied to Allāh and His Messenger sat [at home]. There will strike those who disbelieved among them a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور صحرا نشینوں میں سے بھی کچھ لوگ عذر کرتے ہوئے (تمہارے پاس) آئے کہ ان کو بھی اجازت دی جائے اور جنہوں نے خدا اور اس کے رسول سے جھوٹ بولا وہ (گھر میں) بیٹھ رہے سو جو لوگ ان میں سے کافر ہوئے ہیں ان کو دکھ دینے والا عذاب پہنچے گا
+**English (Yusuf Ali):** And there were, among the desert Arabs (also), men who made excuses and came to claim exemption; and those who were false to Allah and His Messenger (merely) sat inactive. Soon will a grievous penalty seize the Unbelievers among them.
 
 [Open on Quran.com](https://quran.com/9/90)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The bedouins are stronger in disbelief and hypocrisy and more likely not to know the limits of what [laws] Allāh has revealed to His Messenger. And Allāh is Knowing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** دیہاتی لوگ سخت کافر اور سخت منافق ہیں اور اس قابل ہیں کہ جو احکام (شریعت) خدا نے اپنے رسول پر نازل فرمائے ہیں ان سے واقف (ہی) نہ ہوں۔ اور خدا جاننے والا (اور) حکمت والا ہے
+**English (Yusuf Ali):** The Arabs of the desert are the worst in Unbelief and hypocrisy, and most fitted to be in ignorance of the command which Allah hath sent down to His Messenger: But Allah is All-knowing, All-Wise.
 
 [Open on Quran.com](https://quran.com/9/97)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And among the bedouins are some who consider what they spend as a loss and await for you turns of misfortune. Upon them will be a misfortune of evil. And Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بعض دیہاتی ایسے ہیں کہ جو خرچ کرتے ہیں اسے تاوان سمجھتے ہیں اور تمہارے حق میں مصیبتوں کے منتظر ہیں۔ ان ہی پر بری مصیبت (واقع) ہو۔ اور خدا سننے والا (اور) جاننے والا ہے
+**English (Yusuf Ali):** Some of the desert Arabs look upon their payments as a fine, and watch for disasters for you: on them be the disaster of evil: for Allah is He That heareth and knoweth (all things).
 
 [Open on Quran.com](https://quran.com/9/98)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But among the bedouins are some who believe in Allāh and the Last Day and consider what they spend as means of nearness to Allāh and of [obtaining] invocations of the Messenger. Unquestionably, it is a means of nearness for them. Allāh will admit them to His mercy. Indeed, Allāh is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بعض دیہاتی ایسے ہیں کہ خدا پر اور روز آخرت پر ایمان رکھتے ہیں اور جو کچھ خرچ کرتے ہیں اس کو خدا کی قُربت اور پیغمبر کی دعاؤں کا ذریعہ سمجھتے ہیں۔ دیکھو وہ بےشبہ ان کے لیے (موجب) قربت ہے خدا ان کو عنقریب اپنی رحمت میں داخل کرے گا۔ بےشک خدا بخشنے والا مہربان ہے
+**English (Yusuf Ali):** But some of the desert Arabs believe in Allah and the Last Day, and look on their payments as pious gifts bringing them nearer to Allah and obtaining the prayers of the Messenger. Aye, indeed they bring them nearer (to Him): soon will Allah admit them to His Mercy: for Allah is Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/9/99)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And among those around you of the bedouins are hypocrites, and [also] from the people of Madīnah. They have persisted in hypocrisy. You, [O Muḥammad], do not know them, [but] We know them. We will punish them twice [in this world]; then they will be returned to a great punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے گرد و نواح کے بعض دیہاتی منافق ہیں اور بعض مدینے والے بھی نفاق پر اڑے ہوئے ہیں تم انہیں نہیں جانتے۔ ہم جانتے ہیں۔ ہم ان کو دوہرا عذاب دیں گے پھر وہ بڑے عذاب کی طرف لوٹائے جائیں گے
+**English (Yusuf Ali):** Certain of the desert Arabs round about you are hypocrites, as well as (desert Arabs) among the Medina folk: they are obstinate in hypocrisy: thou knowest them not: We know them: twice shall We punish them: and in addition shall they be sent to a grievous penalty.
 
 [Open on Quran.com](https://quran.com/9/101)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It was not [proper] for the people of Madīnah and those surrounding them of the bedouins that they remain behind after [the departure of] the Messenger of Allāh or that they prefer themselves over his self. That is because they are not afflicted by thirst or fatigue or hunger in the cause of Allāh, nor do they tread on any ground that enrages the disbelievers, nor do they inflict upon an enemy any infliction but that it is registered for them as a righteous deed. Indeed, Allāh does not allow to be lost the reward of the doers of good.
 
-**Urdu (Fatah Muhammad Jalandhari):** اہل مدینہ کو اور جو ان کے آس پاس دیہاتی رہتے ہیں ان کو شایاں نہ تھا کہ پیغمبر خدا سے پیچھے رہ جائیں اور نہ یہ کہ اپنی جانوں کو ان کی جان سے زیادہ عزیز رکھیں۔ یہ اس لیے کہ انہیں خدا کی راہ میں تکلیف پہنچتی ہے پیاس کی، محنت کی یا بھوک کی یا وہ ایسی جگہ چلتے ہیں کہ کافروں کو غصہ آئے یا دشمنوں سے کوئی چیز لیتے ہیں تو ہر بات پر ان کے لیے عمل نیک لکھا جاتا ہے۔ کچھ شک نہیں کہ خدا نیکو کاروں کا اجر ضائع نہیں کرتا
+**English (Yusuf Ali):** It was not fitting for the people of Medina and the Bedouin Arabs of the neighbourhood, to refuse to follow Allah's Messenger, nor to prefer their own lives to his: because nothing could they suffer or do, but was reckoned to their credit as a deed of righteousness,- whether they suffered thirst, or fatigue, or hunger, in the cause of Allah, or trod paths to raise the ire of the Unbelievers, or received any injury whatever from an enemy: for Allah suffereth not the reward to be lost of those who do good;-
 
 [Open on Quran.com](https://quran.com/9/120)
 
@@ -137,7 +137,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They think the companies have not [yet] withdrawn. And if the companies should come [again], they would wish they were in the desert among the bedouins, inquiring [from afar] about your news. And if they should be among you, they would not fight except for a little.
 
-**Urdu (Fatah Muhammad Jalandhari):** (خوف کے سبب) خیال کرتے ہیں کہ فوجیں نہیں گئیں۔ اور اگر لشکر آجائیں تو تمنا کریں کہ (کاش) گنواروں میں جا رہیں (اور) تمہاری خبر پوچھا کریں۔ اور اگر تمہارے درمیان ہوں تو لڑائی نہ کریں مگر کم
+**English (Yusuf Ali):** They think that the Confederates have not withdrawn; and if the Confederates should come (again), they would wish they were in the deserts (wandering) among the Bedouins, and seeking news about you (from a safe distance); and if they were in your midst, they would fight but little.
 
 [Open on Quran.com](https://quran.com/33/20)
 
@@ -153,7 +153,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who remained behind of the bedouins will say to you, "Our properties and our families occupied us, so ask forgiveness for us." They say with their tongues what is not within their hearts. Say, "Then who could prevent Allāh at all if He intended for you harm or intended for you benefit? Rather, ever is Allāh, of what you do, Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو گنوار پیچھے رہ گئے وہ تم سے کہیں گے کہ ہم کو ہمارے مال اور اہل وعیال نے روک رکھا آپ ہمارے لئے (خدا سے) بخشش مانگیں۔ یہ لوگ اپنی زبان سے وہ بات کہتے ہیں جو ان کے دل میں نہیں ہے۔ کہہ دو کہ اگر خدا تم (لوگوں) کو نقصان پہنچانا چاہے یا تمہیں فائدہ پہنچانے کا ارادہ فرمائے تو کون ہے جو اس کے سامنے تمہارے لئے کسی بات کا کچھ اختیار رکھے (کوئی نہیں) بلکہ جو کچھ تم کرتے ہو خدا اس سے واقف ہے
+**English (Yusuf Ali):** The desert Arabs who lagged behind will say to thee: "We were engaged in (looking after) our flocks and herds, and our families: do thou then ask forgiveness for us." They say with their tongues what is not in their hearts. Say: "Who then has any power at all (to intervene) on your behalf with Allah, if His Will is to give you some loss or to give you some profit? But Allah is well acquainted with all that ye do.
 
 [Open on Quran.com](https://quran.com/48/11)
 
@@ -169,7 +169,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say to those who remained behind of the bedouins, "You will be called to [face] a people of great military might; you may fight them, or they will submit. So if you obey, Allāh will give you a good reward; but if you turn away as you turned away before, He will punish you with a painful punishment."
 
-**Urdu (Fatah Muhammad Jalandhari):** جو گنوار پیچھے رہ گئے تھے ان سے کہہ دو کہ تم ایک سخت جنگجو قوم کے (ساتھ لڑائی کے) لئے بلائے جاؤ گے ان سے تم (یا تو) جنگ کرتے رہو گے یا وہ اسلام لے آئیں گے۔ اگر تم حکم مانو گے تو خدا تم کو اچھا بدلہ دے گا۔ اور اگر منہ پھیر لو گے جیسے پہلی دفعہ پھیرا تھا تو وہ تم کو بری تکلیف کی سزا دے گا
+**English (Yusuf Ali):** Say to the desert Arabs who lagged behind: "Ye shall be summoned (to fight) against a people given to vehement war: then shall ye fight, or they shall submit. Then if ye show obedience, Allah will grant you a goodly reward, but if ye turn back as ye did before, He will punish you with a grievous Penalty."
 
 [Open on Quran.com](https://quran.com/48/16)
 
@@ -185,7 +185,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The bedouins say, "We have believed." Say, "You have not [yet] believed; but say [instead], 'We have submitted,' for faith has not yet entered your hearts. And if you obey Allāh and His Messenger, He will not deprive you from your deeds of anything. Indeed, Allāh is Forgiving and Merciful."
 
-**Urdu (Fatah Muhammad Jalandhari):** دیہاتی کہتے ہیں کہ ہم ایمان لے آئے۔ کہہ دو کہ تم ایمان نہیں لائے (بلکہ یوں) کہو کہ ہم اسلام لائے ہیں اور ایمان تو ہنوز تمہارے دلوں میں داخل ہی نہیں ہوا۔ اور تم خدا اور اس کے رسول کی فرمانبرداری کرو گے تو خدا تمہارے اعمال سے کچھ کم نہیں کرے گا۔ بےشک خدا بخشنے والا مہربان ہے
+**English (Yusuf Ali):** The desert Arabs say, "We believe." Say, "Ye have no faith; but ye (only) say, 'We have submitted our wills to Allah,' For not yet has Faith entered your hearts. But if ye obey Allah and His Messenger, He will not belittle aught of your deeds: for Allah is Oft-Forgiving, Most Merciful."
 
 [Open on Quran.com](https://quran.com/49/14)
 

@@ -15,30 +15,30 @@ The Mansions of the Stars · 22 ayahs
 ## Words in this surah (graph)
 
 - [[mjyd - glorious]] — `مَجِيد` · glorious
-- [[m$hwd - witnessed]] — `مَشْهُود` · witnessed
-- [[tAb - repent]] — `تابَ` · repent
-- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
+- [[qEwd - sitting]] — `قُعُود` · sitting
 - [[Hryq - burning fire]] — `حَرِيق` · burning fire
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[jry - flow]] — `جَرَيْ` · flow
-- [[ybd} - allah originates]] — `يُبْدِئُ` · allah originates
-- [[>rD - earth]] — `أَرْض` · earth
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[lwH - tablets]] — `لَوْح` · tablets
-- [[ftn - we tried]] — `فَتَنُ` · we tried
-- [[$Ahd - witnesses]] — `شاهِد` · witnesses
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[nAr - fire]] — `نار` · fire
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
 - [[kbyr - great]] — `كَبِير` · great
-- [[wqwd - fuel]] — `وَقُود` · fuel
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[nAr - fire]] — `نار` · fire
+- [[ybd} - allah originates]] — `يُبْدِئُ` · allah originates
+- [[allah - God]] — `الله` · God
 - [[$hyd - witness]] — `شَهِيد` · witness
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[jnd - hosts]] — `جُند` · hosts
+- [[tAb - repent]] — `تابَ` · repent
+- [[Er$ - throne]] — `عَرْش` · throne
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
 - [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[brwj - constellations]] — `بُرُوج` · constellations
+- [[jnd - hosts]] — `جُند` · hosts
+- [[m$hwd - witnessed]] — `مَشْهُود` · witnessed
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[tHt - underneath it]] — `تَحْت` · underneath it
+- [[fwz - success]] — `فَوْز` · success
 - [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[Eml - do]] — `عَمِلَ` · do
+- [[mlk - angels]] — `مَلَك` · angels
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[ftn - we tried]] — `فَتَنُ` · we tried
+- [[Hdyv - statement]] — `حَدِيث` · statement
 
 ## Roots
 

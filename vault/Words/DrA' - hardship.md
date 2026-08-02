@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:177 · [[002 Al-Baqarah]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+**English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
 
 [Open on Quran.com](https://quran.com/2/177)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, "When is the help of Allāh?" Unquestionably, the help of Allāh is near.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم یہ خیال کرتے ہو کہ (یوں ہی) بہشت میں داخل ہوجاؤ گے اور ابھی تم کو پہلے لوگوں کی سی (مشکلیں) تو پیش آئی ہی نہیں۔ ان کو (بڑی بڑی) سختیاں اور تکلیفیں پہنچیں اور وہ (صعوبتوں میں) ہلا ہلا دیئے گئے۔ یہاں تک کہ پیغمبر اور مومن لوگ جو ان کے ساتھ تھے سب پکار اٹھے کہ کب خدا کی مدد آئے گی ۔ دیکھو خدا کی مدد (عن) قریب (آيا چاہتی) ہے
+**English (Yusuf Ali):** Or do ye think that ye shall enter the Garden (of bliss) without such (trials) as came to those who passed away before you? they encountered suffering and adversity, and were so shaken in spirit that even the Messenger and those of faith who were with him cried: "When (will come) the help of Allah?" Ah! Verily, the help of Allah is (always) near!
 
 [Open on Quran.com](https://quran.com/2/214)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who spend [in the cause of Allāh] during ease and hardship and who restrain anger and who pardon the people - and Allāh loves the doers of good;
 
-**Urdu (Fatah Muhammad Jalandhari):** جو آسودگی اور تنگی میں (اپنا مال خدا کی راہ میں) خرچ کرتےہیں اور غصے کو روکتے اور لوگوں کے قصور معاف کرتے ہیں اور خدا نیکو کاروں کو دوست رکھتا ہے
+**English (Yusuf Ali):** Those who spend (freely), whether in prosperity, or in adversity; who restrain anger, and pardon (all) men;- for Allah loves those who do good;-
 
 [Open on Quran.com](https://quran.com/3/134)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have already sent [messengers] to nations before you, [O Muḥammad]; then We seized them with poverty and hardship that perhaps they might humble themselves [to Us].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تم سے پہلے بہت سی امتوں کی طرف پیغمبر بھیجے۔ پھر (ان کی نافرمانیوں کے سبب) ہم انہیں سختیوں اور تکلیفوں میں پکڑتے رہے تاکہ عاجزی کریں
+**English (Yusuf Ali):** Before thee We sent (messengers) to many nations, and We afflicted the nations with suffering and adversity, that they might learn humility.
 
 [Open on Quran.com](https://quran.com/6/42)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We sent to no city a prophet [who was denied] except that We seized its people with poverty and hardship that they might humble themselves [to Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کسی شہر میں کوئی پیغمبر نہیں بھیجا مگر وہاں کے رہنے والوں کو (جو ایمان نہ لائے) دکھوں اور مصیبتوں میں مبتلا کیا تاکہ وہ عاجزی اور زاری کریں
+**English (Yusuf Ali):** Whenever We sent a prophet to a town, We took up its people in suffering and adversity, in order that they might learn humility.
 
 [Open on Quran.com](https://quran.com/7/94)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We exchanged in place of the bad [condition], good, until they increased [and prospered] and said, "Our fathers [also] were touched with hardship and ease." So We seized them suddenly while they did not perceive.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے تکلیف کو آسودگی سے بدل دیا یہاں تک کہ (مال واولاد میں) زیادہ ہوگئے تو کہنے لگے کہ اس طرح کا رنج وراحت ہمارے بڑوں کو بھی پہنچتا رہا ہے تو ہم نے ان کو ناگہاں پکڑلیا اور وہ (اپنے حال میں) بےخبر تھے
+**English (Yusuf Ali):** Then We changed their suffering into prosperity, until they grew and multiplied, and began to say: "Our fathers (too) were touched by suffering and affluence"... Behold! We called them to account of a sudden, while they realised not (their peril).
 
 [Open on Quran.com](https://quran.com/7/95)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when We give the people a taste of mercy after adversity has touched them, at once they conspire against Our verses. Say, "Allāh is swifter in strategy." Indeed, Our messengers [i.e., angels] record that which you conspire.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم لوگوں کو تکلیف پہنچنے کے بعد (اپنی) رحمت (سے آسائش) کا مزہ چکھاتے ہیں تو وہ ہماری آیتوں میں حیلے کرنے لگتے ہیں۔ کہہ دو کہ خدا بہت جلد حیلہ کرنے والا ہے۔ اور جو حیلے تم کرتے ہو ہمارے فرشتے ان کو لکھتے جاتے ہیں
+**English (Yusuf Ali):** When We make mankind taste of some mercy after adversity hath touched them, behold! they take to plotting against Our Signs! Say: "Swifter to plan is Allah!" Verily, Our messengers record all the plots that ye make!
 
 [Open on Quran.com](https://quran.com/10/21)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if We give him a taste of favor after hardship has touched him, he will surely say, "Bad times have left me." Indeed, he is exultant and boastful -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تکلیف پہنچنے کے بعد آسائش کا مزہ چکھائیں تو (خوش ہو کر) کہتا ہے کہ (آہا) سب سختیاں مجھ سے دور ہوگئیں۔ بےشک وہ خوشیاں منانے والا (اور) فخر کرنے والا ہے
+**English (Yusuf Ali):** But if We give him a taste of (Our) favours after adversity hath touched him, he is sure to say, "All evil has departed from me:" Behold! he falls into exultation and pride.
 
 [Open on Quran.com](https://quran.com/11/10)
 
@@ -172,7 +172,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if We let him taste mercy from Us after an adversity which has touched him, he will surely say, "This is [due] to me, and I do not think the Hour will occur; and [even] if I should be returned to my Lord, indeed, for me there will be with Him the best." But We will surely inform those who disbelieved about what they did, and We will surely make them taste a massive punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تکلیف پہنچنے کے بعد ہم اس کو اپنی رحمت کا مزہ چکھاتے ہیں تو کہتا ہے کہ یہ تو میرا حق تھا اور میں نہیں خیال کرتا کہ قیامت برپا ہو۔ اور اگر (قیامت سچ مچ بھی ہو اور) میں اپنے پروردگار کی طرف لوٹایا بھی جاؤں تو میرے لئے اس کے ہاں بھی خوشحالی ہے۔ پس کافر جو عمل کیا کرتے وہ ہم ان کو ضرور جتائیں گے اور ان کو سخت عذاب کا مزہ چکھائیں گے
+**English (Yusuf Ali):** When we give him a taste of some Mercy from Ourselves, after some adversity has touched him, he is sure to say, "This is due to my (merit): I think not that the Hour (of Judgment) will (ever) be established; but if I am brought back to my Lord, I have (much) good (stored) in His sight!" But We will show the Unbelievers the truth of all that they did, and We shall give them the taste of a severe Penalty.
 
 [Open on Quran.com](https://quran.com/41/50)
 

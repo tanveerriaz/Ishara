@@ -15,30 +15,30 @@ The Man · 31 ayahs
 ## Words in this surah (graph)
 
 - [[fDp - silver]] — `فِضَّة` · silver
+- [[>TEm - feed]] — `أَطْعَمَ` · feed
 - [[TAf - will circulated]] — `طافَ` · will circulated
 - [[k>s - cup]] — `كَأْس` · cup
-- [[>TEm - feed]] — `أَطْعَمَ` · feed
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[sbyl - way]] — `سَبِيل` · way
-- [[>rA}k - couches]] — `أَرائِك` · couches
-- [[>kwAb - cups]] — `أَكْواب` · cups
-- [[lqY - it granted]] — `لَقَّى` · it granted
-- [[r>Y - you see]] — `رَأَى` · you see
+- [[lyl - night]] — `لَيْل` · night
+- [[wjh - faces]] — `وَجْه` · faces
 - [[qdr - restricts]] — `قَدَر` · restricts
-- [[rHmp - mercy]] — `رَحْمَة` · mercy
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[Sbr - patient]] — `صَبْر` · patient
-- [[smY - name them]] — `سَمَّى` · name them
-- [[Hryr - will silk]] — `حَرِير` · will silk
-- [[$r - evil]] — `شَرّ` · evil
-- [[wqY - save us]] — `وَقَى` · save us
-- [[AbtlY - tried]] — `ابْتَلَى` · tried
-- [[>Hbb - love]] — `أَحْبَبْ` · love
-- [[mlk - angels]] — `مَلَك` · angels
-- [[Eyn - eyes]] — `عَيْن` · eyes
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[<nsAn - man]] — `إِنسان` · man
-- [[Hb - grain]] — `حُبّ` · grain
+- [[Hyn - time]] — `حِين` · time
+- [[Hl - they will adorned]] — `حُلُّ` · they will adorned
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[$dd - we strengthened]] — `شَدَدْ` · we strengthened
+- [[n*r - vows]] — `نَذَرْ` · vows
+- [[lqY - it granted]] — `لَقَّى` · it granted
+- [[mtk} - reclining]] — `مُتَّكِئ` · reclining
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[smyE - all-hearer]] — `سَمِيع` · all-hearer
+- [[fjrt - we caused gush]] — `فُجِّرَتْ` · we caused gush
+- [[Hsb - think]] — `حَسْب` · think
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[slslp - chains]] — `سِلْسِلَة` · chains
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[tqdyr - decree]] — `تَقْدِير` · decree
+- [[$Akr - grateful]] — `شاكِر` · grateful
 
 ## Roots
 

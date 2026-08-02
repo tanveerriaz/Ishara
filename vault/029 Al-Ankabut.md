@@ -14,31 +14,31 @@ The Spider · 69 ayahs
 
 ## Words in this surah (graph)
 
-- [[jHd - they reject]] — `جَحَدُ` · they reject
 - [[jwAb - answer]] — `جَواب` · answer
 - [[gAbr - remain behind]] — `غابِر` · remain behind
-- [[sA' - evil]] — `ساءَ` · evil
-- [[xyr - better]] — `خَيْر` · better
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[mA' - water]] — `ماء` · water
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[tqlb - movement]] — `تَقَلُّب` · movement
-- [[ybd} - allah originates]] — `يُبْدِئُ` · allah originates
-- [[dEA - call]] — `دَعا` · call
-- [[mwdp - love]] — `مَوَدَّة` · love
-- [[tlY - recited]] — `تَلَى` · recited
-- [[qmr - moon]] — `قَمَر` · moon
-- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[qryp - town]] — `قَرْيَة` · town
-- [[ytxTf - might do away]] — `يَتَخَطَّفَ` · might do away
+- [[jHd - they reject]] — `جَحَدُ` · they reject
+- [[Hsn - good]] — `حُسْن` · good
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[mhAjr - emigrants]] — `مُهاجِر` · emigrants
+- [[dAbp - moving creature]] — `دابَّة` · moving creature
+- [[fH$A' - immorality]] — `فَحْشاء` · immorality
+- [[n*yr - warner]] — `نَذِير` · warner
+- [[gny - free need]] — `غَنِيّ` · free need
+- [[dEA - call]] — `دَعا` · call
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[Hrq - burn him]] — `حَرِّقُ` · burn him
+- [[jAdl - dispute]] — `جادَلُ` · dispute
+- [[sAr - travel]] — `سارَ` · travel
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[SyHp - shout]] — `صَيْحَة` · shout
+- [[fsq - defiantly disobeying]] — `فَسَقَ` · defiantly disobeying
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[lys - not]] — `لَيْسَ` · not
 
 ## Roots
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 21:69 · [[021 Al-Anbya]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** We [i.e., Allāh] said, "O fire, be coolness and safety upon Abraham."
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم نے حکم دیا اے آگ سرد ہوجا اور ابراہیم پر (موجب) سلامتی (بن جا)
+**English (Yusuf Ali):** We said, "O Fire! be thou cool, and (a means of) safety for Abraham!"
 
 [Open on Quran.com](https://quran.com/21/69)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you not see that Allāh drives clouds? Then He brings them together; then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightning almost takes away the eyesight.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا ہی بادلوں کو چلاتا ہے، اور ان کو آپس میں ملا دیتا ہے، پھر ان کو تہ بہ تہ کردیتا ہے، پھر تم دیکھتے ہو کہ بادل میں سے مینہ نکل (کر برس) رہا ہے اور آسمان میں جو (اولوں کے) پہاڑ ہیں، ان سے اولے نازل کرتا ہے تو جس پر چاہتا ہے اس کو برسا دیتا ہے اور جس سے چاہتا ہے ہٹا دیتا ہے۔ اور بادل میں جو بجلی ہوتی ہے اس کی چمک آنکھوں کو خیرہ کرکے بینائی کو اُچکے لئے جاتی ہے
+**English (Yusuf Ali):** Seest thou not that Allah makes the clouds move gently, then joins them together, then makes them into a heap? - then wilt thou see rain issue forth from their midst. And He sends down from the sky mountain masses (of clouds) wherein is hail: He strikes therewith whom He pleases and He turns it away from whom He pleases, the vivid flash of His lightning well-nigh blinds the sight.
 
 [Open on Quran.com](https://quran.com/24/43)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will not taste therein [any] coolness or drink.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہاں نہ ٹھنڈک کا مزہ چکھیں گے۔ نہ (کچھ) پینا (نصیب ہو گا)
+**English (Yusuf Ali):** Nothing cool shall they taste therein, nor any drink,
 
 [Open on Quran.com](https://quran.com/78/24)
 

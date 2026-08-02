@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:232 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when you divorce women and they have fulfilled their term, do not prevent them from remarrying their [former] husbands if they [i.e., all parties] agree among themselves on an acceptable basis. That is instructed to whoever of you believes in Allāh and the Last Day. That is better for you and purer, and Allāh knows and you know not.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم عورتوں کو طلاق دے چکو اور ان کی عدت پوری ہوجائے تو ان کو دوسرے شوہروں کے ساتھ جب وہ آپس میں جائز طور پر راضی ہوجائیں نکاح کرنے سے مت روکو۔ اس (حکم) سے اس شخص کو نصیحت کی جاتی ہے جو تم میں خدا اور روز آخرت پر یقین رکھتا ہے۔ یہ تمہارے لئے نہایت خوب اور بہت پاکیزگی کی بات ہے اور خدا جانتا ہے اور تم نہیں جانتے
+**English (Yusuf Ali):** When ye divorce women, and they fulfil the term of their ('Iddat), do not prevent them from marrying their (former) husbands, if they mutually agree on equitable terms. This instruction is for all amongst you, who believe in Allah and the Last Day. That is (the course Making for) most virtue and purity amongst you and Allah knows, and ye know not.
 
 [Open on Quran.com](https://quran.com/2/232)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And similarly, We awakened them that they might question one another. Said a speaker from among them, "How long have you remained [here]?" They said, "We have remained a day or part of a day." They said, "Your Lord is most knowing of how long you remained. So send one of you with this silver coin of yours to the city and let him look to which is the best of food and bring you provision from it and let him be cautious. And let no one be aware of you.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس طرح ہم نے ان کو اٹھایا تاکہ آپس میں ایک دوسرے سے دریافت کریں۔ ایک کہنے والے نے کہا کہ تم (یہاں) کتنی مدت رہے؟ انہوں نے کہا کہ ایک دن یا اس سے بھی کم۔ انہوں نے کہا کہ جتنی مدت تم رہے ہو تمہارا پروردگار ہی اس کو خوب جانتا ہے۔ تو اپنے میں سے کسی کو یہ روپیہ دے کر شہر کو بھیجو وہ دیکھے کہ نفیس کھانا کون سا ہے تو اس میں سے کھانا لے آئے اور آہستہ آہستہ آئے جائے اور تمہارا حال کسی کو نہ بتائے
+**English (Yusuf Ali):** Such (being their state), we raised them up (from sleep), that they might question each other. Said one of them, "How long have ye stayed (here)?" They said, "We have stayed (perhaps) a day, or part of a day." (At length) they (all) said, "Allah (alone) knows best how long ye have stayed here.... Now send ye then one of you with this money of yours to the town: let him find out which is the best food (to be had) and bring some to you, that (ye may) satisfy your hunger therewith: And let him behave with care and courtesy, and let him not inform any one about you.
 
 [Open on Quran.com](https://quran.com/18/19)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you do not find anyone therein, do not enter them until permission has been given you. And if it is said to you, "Go back," then go back; it is purer for you. And Allāh is Knowing of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم گھر میں کسی کو موجود نہ پاؤ تو جب تک تم کو اجازت نہ دی جائے اس میں مت داخل ہو۔ اور اگر یہ کہا جائے کہ (اس وقت) لوٹ جاؤ تو لوٹ جایا کرو۔ یہ تمہارے لئے بڑی پاکیزگی کی بات ہے۔ اور جو کام تم کرتے ہو خدا سب جانتا ہے
+**English (Yusuf Ali):** If ye find no one in the house, enter not until permission is given to you: if ye are asked to go back, go back: that makes for greater purity for yourselves: and Allah knows well all that ye do.
 
 [Open on Quran.com](https://quran.com/24/28)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Tell the believing men to reduce [some] of their vision and guard their private parts. That is purer for them. Indeed, Allāh is [fully] Aware of what they do.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومن مردوں سے کہہ دو کہ اپنی نظریں نیچی رکھا کریں اور اپنی شرم گاہوں کی حفاظت کیا کریں۔ یہ ان کے لئے بڑی پاکیزگی کی بات ہے اور جو کام یہ کرتے ہیں خدا ان سے خبردار ہے
+**English (Yusuf Ali):** Say to the believing men that they should lower their gaze and guard their modesty: that will make for greater purity for them: And Allah is well acquainted with all that they do.
 
 [Open on Quran.com](https://quran.com/24/30)
 

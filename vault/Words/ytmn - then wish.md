@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:94 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "If the home of the Hereafter with Allāh is for you alone and not the [other] people, then wish for death, if you should be truthful."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اگر آخرت کا گھر اور لوگوں (یعنی مسلمانوں) کے لیے نہیں اور خدا کے نزدیک تمہارے ہی لیے مخصوص ہے تو اگر سچے ہو تو موت کی آرزو تو کرو
+**English (Yusuf Ali):** Say: "If the last Home, with Allah, be for you specially, and not for anyone else, then seek ye for death, if ye are sincere."
 
 [Open on Quran.com](https://quran.com/2/94)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But never will they wish for it, ever, because of what their hands have put forth. And Allāh is Knowing of the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** لیکن ان اعمال کی وجہ سے، جو ان کے ہاتھ آگے بھیج چکے ہیں، یہ کبھی اس کی آرزو نہیں کریں گے، اور خدا ظالموں سے (خوب) واقف ہے
+**English (Yusuf Ali):** But they will never seek for death, on account of the (sins) which their hands have sent on before them. and Allah is well-acquainted with the wrong-doers.
 
 [Open on Quran.com](https://quran.com/2/95)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you had certainly wished for death [i.e., martyrdom] before you encountered it, and you have [now] seen it [before you] while you were looking on.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم موت (شہادت) کے آنے سے پہلے اس کی تمنا کیا کرتے تھے سو تم نے اس کو آنکھوں سے دیکھ لیا
+**English (Yusuf Ali):** Ye did indeed wish for death before ye met him: Now ye have seen him with your own eyes, (And ye flinch!)
 
 [Open on Quran.com](https://quran.com/3/143)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not wish for that by which Allāh has made some of you exceed others. For men is a share of what they have earned, and for women is a share of what they have earned. And ask Allāh of His bounty. Indeed Allāh is ever, of all things, Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس چیز میں خدا نے تم میں سے بعض کو بعض پر فضیلت دی ہے اس کی ہوس مت کرو مردوں کو ان کاموں کا ثواب ہے جو انہوں نے کئے اور عورتوں کو ان کاموں کا ثواب ہے جو انہوں نے کئے اور خدا سے اس کا فضل (وکرم) مانگتے رہو کچھ شک نہیں کہ خدا ہر چیز سے واقف ہے
+**English (Yusuf Ali):** And in no wise covet those things in which Allah Hath bestowed His gifts More freely on some of you than on others: To men is allotted what they earn, and to women what they earn: But ask Allah of His bounty. For Allah hath full knowledge of all things.
 
 [Open on Quran.com](https://quran.com/4/32)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O you who are Jews, if you claim that you are allies of Allāh, excluding the [other] people, then wish for death, if you should be truthful."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اے یہود اگر تم کو دعویٰ ہو کہ تم ہی خدا کے دوست ہو اور لوگ نہیں تو اگر تم سچے ہو تو (ذرا) موت کی آرزو تو کرو
+**English (Yusuf Ali):** Say: "O ye that stand on Judaism! If ye think that ye are friends to Allah, to the exclusion of (other) men, then express your desire for Death, if ye are truthful!"
 
 [Open on Quran.com](https://quran.com/62/6)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But they will not wish for it, ever, because of what their hands have put forth. And Allāh is Knowing of the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ ان (اعمال) کے سبب جو کرچکے ہیں ہرگز اس کی آرزو نہیں کریں گے۔ اور خدا ظالموں سے خوب واقف ہے
+**English (Yusuf Ali):** But never will they express their desire (for Death), because of the (deeds) their hands have sent on before them! and Allah knows well those that do wrong!
 
 [Open on Quran.com](https://quran.com/62/7)
 

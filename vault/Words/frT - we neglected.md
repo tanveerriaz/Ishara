@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:31 · [[006 Al-Anam]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those will have lost who deny the meeting with Allāh, until when the Hour [of resurrection] comes upon them unexpectedly, they will say, "Oh, [how great is] our regret over what we neglected concerning it [i.e., the Hour]," while they bear their burdens [i.e., sins] on their backs. Unquestionably, evil is that which they bear.
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے خدا کے روبرو حاضر ہونے کو جھوٹ سمجھا وہ گھاٹے میں آگئے۔ یہاں تک کہ جب ان پر قیامت ناگہاں آموجود ہوگی تو بول اٹھیں گے کہ (ہائے) اس تقصیر پر افسوس ہے جو ہم نے قیامت کے بارے میں کی۔ اور وہ اپنے (اعمال کے) بوجھ اپنی پیٹھوں پر اٹھائے ہوئے ہوں گے۔ دیکھو جو بوجھ یہ اٹھا رہے ہیں بہت برا ہے
+**English (Yusuf Ali):** Lost indeed are they who treat it as a falsehood that they must meet Allah,- until on a sudden the hour is on them, and they say: "Ah! woe unto us that we took no thought of it"; for they bear their burdens on their backs, and evil indeed are the burdens that they bear?
 
 [Open on Quran.com](https://quran.com/6/31)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there is no creature on [or within] the earth or bird that flies with its wings except [that they are] communities like you. We have not neglected in the Register a thing. Then unto their Lord they will be gathered.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور زمین میں جو چلنے پھرنے والا (حیوان) یا دو پروں سے اڑنے والا جانور ہے ان کی بھی تم لوگوں کی طرح جماعتیں ہیں۔ ہم نے کتاب (یعنی لوح محفوظ) میں کسی چیز (کے لکھنے) میں کوتاہی نہیں کی پھر سب اپنے پروردگار کی طرف جمع کئے جائیں گے
+**English (Yusuf Ali):** There is not an animal (that lives) on the earth, nor a being that flies on its wings, but (forms part of) communities like you. Nothing have we omitted from the Book, and they (all) shall be gathered to their Lord in the end.
 
 [Open on Quran.com](https://quran.com/6/38)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And He is the subjugator over His servants, and He sends over you guardian-angels until, when death comes to one of you, Our messengers [i.e., angels of death] take him, and they do not fail [in their duties].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ اپنے بندوں پر غالب ہے۔ اور تم پر نگہبان مقرر کئے رکھتا ہے۔ یہاں تک کہ جب تم میں سے کسی کی موت آتی ہے تو ہمارے فرشتے اس کی روح قبض کرلیتے ہیں اور وہ کسی طرح کی کوتاہی نہیں کرتے
+**English (Yusuf Ali):** He is the irresistible, (watching) from above over His worshippers, and He sets guardians over you. At length, when death approaches one of you, Our angels take his soul, and they never fail in their duty.
 
 [Open on Quran.com](https://quran.com/6/61)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when they had despaired of him, they secluded themselves in private consultation. The eldest of them said, "Do you not know that your father has taken upon you an oath by Allāh and [that] before you failed in [your duty to] Joseph? So I will never leave [this] land until my father permits me or Allāh decides for me, and He is the best of judges.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب وہ اس سے ناامید ہوگئے تو الگ ہو کر صلاح کرنے لگے۔ سب سے بڑے نے کہا کیا تم نہیں جانتے کہ تمہارے والد نے تم سے خدا کا عہد لیا ہے اور اس سے پہلے بھی تم یوسف کے بارے میں قصور کر چکے ہو تو جب تک والد صاحب مجھے حکم نہ دیں میں تو اس جگہ سے ہلنے کا نہیں یا خدا میرے لیے کوئی اور تدبیر کرے۔ اور وہ سب سے بہتر فیصلہ کرنے والا ہے
+**English (Yusuf Ali):** Now when they saw no hope of his (yielding), they held a conference in private. The leader among them said: "Know ye not that your father did take an oath from you in Allah's name, and how, before this, ye did fail in your duty with Joseph? Therefore will I not leave this land until my father permits me, or Allah commands me; and He is the best to command.
 
 [Open on Quran.com](https://quran.com/12/80)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And keep yourself patient [by being] with those who call upon their Lord in the morning and the evening, seeking His face [i.e., acceptance]. And let not your eyes pass beyond them, desiring adornments of the worldly life, and do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ صبح و شام اپنے پروردگار کو پکارتے اور اس کی خوشنودی کے طالب ہیں۔ ان کے ساتھ صبر کرتے رہو۔ اور تمہاری نگاہیں ان میں (گزر کر اور طرف) نہ دوڑیں کہ تم آرائشِ زندگانی دنیا کے خواستگار ہوجاؤ۔ اور جس شخص کے دل کو ہم نے اپنی یاد سے غافل کردیا ہے اور وہ اپنی خواہش کی پیروی کرتا ہے اور اس کا کام حد سے بڑھ گیا ہے اس کا کہا نہ ماننا
+**English (Yusuf Ali):** And keep thy soul content with those who call on their Lord morning and evening, seeking His Face; and let not thine eyes pass beyond them, seeking the pomp and glitter of this Life; nor obey any whose heart We have permitted to neglect the remembrance of Us, one who follows his own desires, whose case has gone beyond all bounds.
 
 [Open on Quran.com](https://quran.com/18/28)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Lest a soul should say, "Oh, [how great is] my regret over what I neglected in regard to Allāh and that I was among the mockers."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہ (مبادا اس وقت) کوئی متنفس کہنے لگے کہ (ہائے ہائے) اس تقصیر پر افسوس ہے جو میں نے خدا کے حق میں کی اور میں تو ہنسی ہی کرتا رہا
+**English (Yusuf Ali):** "Lest the soul should (then) say: 'Ah! Woe is me!- In that I neglected (my duty) towards Allah, and was but among those who mocked!'-
 
 [Open on Quran.com](https://quran.com/39/56)
 

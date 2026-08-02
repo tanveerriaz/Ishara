@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:73 · [[007 Al-Araf]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to the Thamūd [We sent] their brother Ṣāliḥ. He said, "O my people, worship Allāh; you have no deity other than Him. There has come to you clear evidence from your Lord. This is the she-camel of Allāh [sent] to you as a sign. So leave her to eat within Allāh's land and do not touch her with harm, lest there seize you a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور قوم ثمود کی طرف ان کے بھائی صالح کو بھیجا۔ (تو) صالح نے کہا کہ اے قوم! خدا ہی کی عبادت کرو اس کے سوا تمہارا کوئی معبود نہیں۔ تمہارے پاس تمہارے پروردگار کی طرف سے ایک معجزہ آ چکا ہے۔ (یعنی) یہی خدا کی اونٹنی تمہارے لیے معجزہ ہے۔ تو اسے (آزاد) چھوڑ دو کہ خدا کی زمین میں چرتی پھرے اور تم اسے بری نیت سے ہاتھ بھی نہ لگانا۔ ورنہ عذابِ الیم میں تمہیں پکڑ لے گا
+**English (Yusuf Ali):** To the Thamud people (We sent) Salih, one of their own brethren: He said: "O my people! worship Allah: ye have no other god but Him. Now hath come unto you a clear (Sign) from your Lord! This she-camel of Allah is a Sign unto you: So leave her to graze in Allah's earth, and let her come to no harm, or ye shall be seized with a grievous punishment.
 
 [Open on Quran.com](https://quran.com/7/73)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So they hamstrung the she-camel and were insolent toward the command of their Lord and said, "O Ṣāliḥ, bring us what you promise us, if you should be of the messengers."
 
-**Urdu (Fatah Muhammad Jalandhari):** آخر انہوں نے اونٹی (کی کونچوں) کو کاٹ ڈالا اور اپنے پروردگار کے حکم سے سرکشی کی اور کہنے لگے کہ صالح! جس چیز سے تم ہمیں ڈراتے تھے اگر تم (خدا کے) پیغمبر ہو تو اسے ہم پر لے آؤ
+**English (Yusuf Ali):** Then they ham-strung the she-camel, and insolently defied the order of their Lord, saying: "O Salih! bring about thy threats, if thou art a messenger (of Allah)!"
 
 [Open on Quran.com](https://quran.com/7/77)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And O my people, this is the she-camel of Allāh - [she is] to you a sign. So let her feed upon Allāh's earth and do not touch her with harm, or you will be taken by an impending punishment."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ بھی کہا کہ اے قوم! یہ خدا کی اونٹنی تمہارے لیے ایک نشانی (یعنی معجزہ) ہے تو اس کو چھوڑ دو کہ خدا کی زمین میں (جہاں چاہے) چرے اور اس کو کسی طرح کی تکلیف نہ دینا ورنہ تمہیں جلد عذاب آپکڑے گا
+**English (Yusuf Ali):** "And O my people! This she-camel of Allah is a symbol to you: leave her to feed on Allah's (free) earth, and inflict no harm on her, or a swift penalty will seize you!"
 
 [Open on Quran.com](https://quran.com/11/64)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And nothing has prevented Us from sending signs [i.e., miracles] except that the former peoples denied them. And We gave Thamūd the she-camel as a visible sign, but they wronged her. And We send not the signs except as a warning.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے نشانیاں بھیجنی اس لئے موقوف کردیں کہ اگلے لوگوں نے اس کی تکذیب کی تھی۔ اور ہم نے ثمود کو اونٹنی (نبوت صالح کی کھلی) نشانی دی۔ تو انہوں نے اس پر ظلم کیا اور ہم جو نشانیاں بھیجا کرتے ہیں تو ڈرانے کو
+**English (Yusuf Ali):** And We refrain from sending the signs, only because the men of former generations treated them as false: We sent the she-camel to the Thamud to open their eyes, but they treated her wrongfully: We only send the Signs by way of terror (and warning from evil).
 
 [Open on Quran.com](https://quran.com/17/59)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "This is a she-camel. For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day.
 
-**Urdu (Fatah Muhammad Jalandhari):** صالح نے کہا (دیکھو) یہ اونٹنی ہے (ایک دن) اس کی پانی پینے کی باری ہے اور ایک معین روز تمہاری باری
+**English (Yusuf Ali):** He said: "Here is a she-camel: she has a right of watering, and ye have a right of watering, (severally) on a day appointed.
 
 [Open on Quran.com](https://quran.com/26/155)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, We are sending the she-camel as trial for them, so watch them and be patient.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے صالح) ہم ان کی آزمائش کے لئے اونٹنی بھیجنے والے ہیں تو تم ان کو دیکھتے رہو اور صبر کرو
+**English (Yusuf Ali):** For We will send the she-camel by way of trial for them. So watch them, (O Salih), and possess thyself in patience!
 
 [Open on Quran.com](https://quran.com/54/27)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the messenger of Allāh [i.e., Ṣāliḥ] said to them, "[Do not harm] the she-camel of Allāh or [prevent her from] her drink."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو خدا کے پیغمبر (صالح) نے ان سے کہا کہ خدا کی اونٹنی اور اس کے پانی پینے کی باری سے عذر کرو
+**English (Yusuf Ali):** But the Messenger of Allah said to them: "It is a She-camel of Allah! And (bar her not from) having her drink!"
 
 [Open on Quran.com](https://quran.com/91/13)
 

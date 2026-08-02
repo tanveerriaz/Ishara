@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 23:20 · [[023 Al-Muminun]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [We brought forth] a tree issuing from Mount Sinai which produces oil and food [i.e., olives] for those who eat.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ درخت بھی (ہم ہی نے پیدا کیا) جو طور سینا میں پیدا ہوتا ہے (یعنی زیتون کا درخت کہ) کھانے کے لئے روغن اور سالن لئے ہوئے اُگتا ہے
+**English (Yusuf Ali):** Also a tree springing out of Mount Sinai, which produces oil, and relish for those who use it for food.
 
 [Open on Quran.com](https://quran.com/23/20)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, they will eat from it and fill with it their bellies.
 
-**Urdu (Fatah Muhammad Jalandhari):** سو وہ اسی میں سے کھائیں گے اور اسی سے پیٹ بھریں گے
+**English (Yusuf Ali):** Truly they will eat thereof and fill their bellies therewith.
 
 [Open on Quran.com](https://quran.com/37/66)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Will be eating from trees of zaqqūm
 
-**Urdu (Fatah Muhammad Jalandhari):** تھوہر کے درخت کھاؤ گے
+**English (Yusuf Ali):** "Ye will surely taste of the Tree of Zaqqum.
 
 [Open on Quran.com](https://quran.com/56/52)
 

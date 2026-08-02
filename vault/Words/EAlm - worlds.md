@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 1:2 · [[001 Al-Fatihah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [All] praise is [due] to Allāh, Lord of the worlds -
 
-**Urdu (Fatah Muhammad Jalandhari):** سب طرح کی تعریف خدا ہی کو (سزاوار) ہے جو تمام مخلوقات کا پروردگار ہے
+**English (Yusuf Ali):** Praise be to Allah, the Cherisher and Sustainer of the worlds;
 
 [Open on Quran.com](https://quran.com/1/2)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Children of Israel, remember My favor that I have bestowed upon you and that I preferred you over the worlds [i.e., peoples].
 
-**Urdu (Fatah Muhammad Jalandhari):** اے یعقوب کی اولاد! میرے وہ احسان یاد کرو، جو میں نے تم پر کئے تھے اور یہ کہ میں نے تم کو جہان کے لوگوں پر فضیلت بخشی تھی
+**English (Yusuf Ali):** Children of Israel! call to mind the (special) favour which I bestowed upon you, and that I preferred you to all other (for My Message).
 
 [Open on Quran.com](https://quran.com/2/47)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Children of Israel, remember My favor which I have bestowed upon you and that I preferred you over the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے بنی اسرائیل ! میرے وہ احسان یاد کرو، جو میں نے تم پر کئے اور یہ کہ میں نے تم کو اہلِ عالم پر فضیلت بخشی
+**English (Yusuf Ali):** O Children of Israel! call to mind the special favour which I bestowed upon you, and that I preferred you to all others (for My Message).
 
 [Open on Quran.com](https://quran.com/2/122)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When his Lord said to him, "Submit," he said, "I have submitted [in Islām] to the Lord of the worlds."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب ان سے ان کے پروردگار نے فرمایا کہ اسلام لے آؤ تو انہوں نے عرض کی کہ میں رب العالمین کے آگے سر اطاعت خم کرتا ہوں
+**English (Yusuf Ali):** Behold! his Lord said to him: "Bow (thy will to Me):" He said: "I bow (my will) to the Lord and Cherisher of the Universe."
 
 [Open on Quran.com](https://quran.com/2/131)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So they defeated them by permission of Allāh, and David killed Goliath, and Allāh gave him the kingship and wisdom [i.e., prophethood] and taught him from that which He willed. And if it were not for Allāh checking [some] people by means of others, the earth would have been corrupted, but Allāh is the possessor of bounty for the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو طالوت کی فوج نے خدا کے حکم سے ان کو ہزیمت دی۔ اور داؤد نے جالوت کو قتل کر ڈالا۔ اور خدا نے اس کو بادشاہی اور دانائی بخشی اور جو کچھ چاہا سکھایا۔ اور خدا لوگوں کو ایک دوسرے (پر چڑھائی اور حملہ کرنے) سے ہٹاتا نہ رہتا تو ملک تباہ ہوجاتا لیکن خدا اہل عالم پر بڑا مہربان ہے
+**English (Yusuf Ali):** By Allah's will they routed them; and David slew Goliath; and Allah gave him power and wisdom and taught him whatever (else) He willed. And did not Allah Check one set of people by means of another, the earth would indeed be full of mischief: But Allah is full of bounty to all the worlds.
 
 [Open on Quran.com](https://quran.com/2/251)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh chose Adam and Noah and the family of Abraham and the family of ʿImrān over the worlds -
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے آدم اور نوح اور خاندان ابراہیم اور خاندان عمران کو تمام جہان کے لوگوں میں منتخب فرمایا تھا
+**English (Yusuf Ali):** Allah did choose Adam and Noah, the family of Abraham, and the family of 'Imran above all people,-
 
 [Open on Quran.com](https://quran.com/3/33)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when the angels said, "O Mary, indeed Allāh has chosen you and purified you and chosen you above the women of the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب فرشتوں نے (مریم سے) کہا کہ مریم! خدا نے تم کو برگزیدہ کیا ہے اور پاک بنایا ہے اور جہان کی عورتوں میں منتخب کیا ہے
+**English (Yusuf Ali):** Behold! the angels said: "O Mary! Allah hath chosen thee and purified thee- chosen thee above the women of all nations.
 
 [Open on Quran.com](https://quran.com/3/42)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the first House [of worship] established for mankind was that at Bakkah [i.e., Makkah] - blessed and a guidance for the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** پہلا گھر جو لوگوں (کے عبادت کرنے) کے لیے مقرر کیا گیا تھا وہی ہے جو مکے میں ہے بابرکت اور جہاں کے لیے موجبِ ہدایت
+**English (Yusuf Ali):** The first House (of worship) appointed for men was that at Bakka: Full of blessing and of guidance for all kinds of beings:
 
 [Open on Quran.com](https://quran.com/3/96)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In it are clear signs [such as] the standing place of Abraham. And whoever enters it [i.e., the Ḥaram] shall be safe. And [due] to Allāh from the people is a pilgrimage to the House - for whoever is able to find thereto a way. But whoever disbelieves [i.e., refuses] - then indeed, Allāh is free from need of the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس میں کھلی ہوئی نشانیاں ہیں جن میں سے ایک ابراہیم کے کھڑے ہونے کی جگہ ہے جو شخص اس (مبارک) گھر میں داخل ہوا اس نے امن پا لیا اور لوگوں پر خدا کا حق (یعنی فرض) ہے کہ جو اس گھر تک جانے کا مقدور رکھے وہ اس کا حج کرے اور جو اس حکم کی تعمیل نہ کرے گا تو خدا بھی اہلِ عالم سے بے نیاز ہے
+**English (Yusuf Ali):** In it are Signs Manifest; (for example), the Station of Abraham; whoever enters it attains security; Pilgrimage thereto is a duty men owe to Allah,- those who can afford the journey; but if any deny faith, Allah stands not in need of any of His creatures.
 
 [Open on Quran.com](https://quran.com/3/97)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** These are the verses of Allāh. We recite them to you, [O Muḥammad], in truth; and Allāh wants no injustice to the worlds [i.e., His creatures].
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ خدا کی آیتیں ہیں جو ہم تم کو صحت کے ساتھ پڑھ کر سناتے ہیں اور خدا اہلِ عالم پر ظلم نہیں کرنا چاہتا
+**English (Yusuf Ali):** These are the Signs of Allah: We rehearse them to thee in Truth: And Allah means no injustice to any of His creatures.
 
 [Open on Quran.com](https://quran.com/3/108)
 

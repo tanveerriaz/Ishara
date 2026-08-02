@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:228 · [[002 Al-Baqarah]]
 
@@ -51,7 +51,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Divorced women remain in waiting [i.e., do not remarry] for three periods, and it is not lawful for them to conceal what Allāh has created in their wombs if they believe in Allāh and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to them [i.e., the wives] is similar to what is expected of them, according to what is reasonable. But the men [i.e., husbands] have a degree over them [in responsibility and authority]. And Allāh is Exalted in Might and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
+**English (Yusuf Ali):** Divorced women shall wait concerning themselves for three monthly periods. Nor is it lawful for them to hide what Allah Hath created in their wombs, if they have faith in Allah and the Last Day. And their husbands have the better right to take them back in that period, if they wish for reconciliation. And women shall have rights similar to the rights against them, according to what is equitable; but men have a degree (of advantage) over them. And Allah is Exalted in Power, Wise.
 
 [Open on Quran.com](https://quran.com/2/228)
 
@@ -67,7 +67,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those messengers - some of them We caused to exceed others. Among them were those to whom Allāh spoke, and He raised some of them in degree. And We gave Jesus, the son of Mary, clear proofs, and We supported him with the Pure Spirit [i.e., Gabriel]. If Allāh had willed, those [generations] succeeding them would not have fought each other after the clear proofs had come to them. But they differed, and some of them believed and some of them disbelieved. And if Allāh had willed, they would not have fought each other, but Allāh does what He intends.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ پیغمبر (جو ہم وقتاً فوقتاً بھیجتے رہیں ہیں) ان میں سے ہم نے بعض کو بعض پر فضیلت دی ہے۔ بعض ایسے ہیں جن سے خدا نے گفتگو فرمائی اور بعض کے (دوسرے امور میں) مرتبے بلند کئے۔ اور عیسیٰ بن مریم کو ہم نے کھلی ہوئی نشانیاں عطا کیں اور روح القدس سے ان کو مدد دی۔ اور اگر خداچاہتا تو ان سے پچھلے لوگ اپنے پاس کھلی نشانیاں آنے کے بعد آپس میں نہ لڑتے لیکن انہوں نے اختلاف کیا تو ان میں سے بعض تو ایمان لے آئے اور بعض کافر ہی رہے۔ اور اگر خدا چاہتا تو یہ لوگ باہم جنگ و قتال نہ کرتے۔ لیکن خدا جو چاہتا ہے کرتا ہے
+**English (Yusuf Ali):** Those messengers We endowed with gifts, some above others: To one of them Allah spoke; others He raised to degrees (of honour); to Jesus the son of Mary We gave clear (Signs), and strengthened him with the holy spirit. If Allah had so willed, succeeding generations would not have fought among each other, after clear (Signs) had come to them, but they (chose) to wrangle, some believing and others rejecting. If Allah had so willed, they would not have fought each other; but Allah Fulfilleth His plan.
 
 [Open on Quran.com](https://quran.com/2/253)
 
@@ -83,7 +83,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They are [varying] degrees in the sight of Allāh, and Allāh is Seeing of whatever they do.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں کے خدا کے ہاں (مختلف اور متفاوت) درجے ہیں اور خدا ان کے سب اعمال کو دیکھ رہا ہے
+**English (Yusuf Ali):** They are in varying grades in the sight of Allah, and Allah sees well all that they do.
 
 [Open on Quran.com](https://quran.com/3/163)
 
@@ -99,7 +99,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Not equal are those believers remaining [at home] - other than the disabled - and the mujāhideen, [who strive and fight] in the cause of Allāh with their wealth and their lives. Allāh has preferred the mujāhideen through their wealth and their lives over those who remain [behind], by degrees. And to all [i.e., both] Allāh has promised the best [reward]. But Allāh has preferred the mujāhideen over those who remain [behind] with a great reward -
 
-**Urdu (Fatah Muhammad Jalandhari):** جو مسلمان (گھروں میں) بیٹھ رہتے (اور لڑنے سے جی چراتے) ہیں اور کوئی عذر نہیں رکھتے وہ اور جو خدا کی راہ میں اپنے مال اور جان سے لڑتے ہیں وہ دونوں برابر نہیں ہو سکتے خدا نے مال اور جان سے جہاد کرنے والوں کو بیٹھ رہنے والوں پر درجے میں فضیلت بخشی ہے اور (گو) نیک وعدہ سب سے ہے لیکن اجر عظیم کے لحاظ سے خدا نے جہاد کرنے والوں کو بیٹھ رہنے والوں پر کہیں فضیلت بخشی ہے
+**English (Yusuf Ali):** Not equal are those believers who sit (at home) and receive no hurt, and those who strive and fight in the cause of Allah with their goods and their persons. Allah hath granted a grade higher to those who strive and fight with their goods and persons than to those who sit (at home). Unto all (in Faith) Hath Allah promised good: But those who strive and fight Hath He distinguished above those who sit (at home) by a special reward,-
 
 [Open on Quran.com](https://quran.com/4/95)
 
@@ -115,7 +115,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Degrees [of high position] from Him and forgiveness and mercy. And Allāh is ever Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی) خدا کی طرف سے درجات میں اور بخشش میں اور رحمت میں اور خدا بڑا بخشنے والا (اور) مہربان ہے
+**English (Yusuf Ali):** Ranks specially bestowed by Him, and Forgiveness and Mercy. For Allah is Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/4/96)
 
@@ -131,7 +131,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And that was Our [conclusive] argument which We gave Abraham against his people. We raise by degrees whom We will. Indeed, your Lord is Wise and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ ہماری دلیل تھی جو ہم نے ابراہیم کو ان کی قوم کے مقابلے میں عطا کی تھی۔ ہم جس کے چاہتے ہیں درجے بلند کردیتے ہیں۔ بےشک تمہارا پروردگار دانا اور خبردار ہے
+**English (Yusuf Ali):** That was the reasoning about Us, which We gave to Abraham (to use) against his people: We raise whom We will, degree after degree: for thy Lord is full of wisdom and knowledge.
 
 [Open on Quran.com](https://quran.com/6/83)
 
@@ -147,7 +147,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And for all are degrees [i.e., positions resulting] from what they have done. And your Lord is not unaware of what they do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور سب لوگوں کے بلحاظ اعمال درجے (مقرر) ہیں اور جو کام یہ لوگ کرتے ہیں خدا ان سے بے خبر نہیں
+**English (Yusuf Ali):** To all are degrees (or ranks) according to their deeds: for thy Lord is not unmindful of anything that they do.
 
 [Open on Quran.com](https://quran.com/6/132)
 
@@ -163,7 +163,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who has made you successors upon the earth and has raised some of you above others in degrees [of rank] that He may try you through what He has given you. Indeed, your Lord is swift in penalty; but indeed, He is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے زمین میں تم کو اپنا نائب بنایا اور ایک کے دوسرے پر درجے بلند کئے تاکہ جو کچھ اس نے تمہیں بخشا ہے اس میں تمہاری آزمائش ہے بےشک تمہارا پروردگار جلد عذاب دینے والا ہے اور بےشک وہ بخشنے والا مہربان بھی ہے
+**English (Yusuf Ali):** It is He Who hath made you (His) agents, inheritors of the earth: He hath raised you in ranks, some above others: that He may try you in the gifts He hath given you: for thy Lord is quick in punishment: yet He is indeed Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/6/165)
 
@@ -179,7 +179,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those are the believers, truly. For them are degrees [of high position] with their Lord and forgiveness and noble provision.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی سچے مومن ہیں اور ان کے لیے پروردگار کے ہاں (بڑے بڑے درجے) اور بخشش اور عزت کی روزی ہے
+**English (Yusuf Ali):** Such in truth are the believers: they have grades of dignity with their Lord, and forgiveness, and generous sustenance:
 
 [Open on Quran.com](https://quran.com/8/4)
 
@@ -195,7 +195,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The ones who have believed, emigrated and striven in the cause of Allāh with their wealth and their lives are greater in rank in the sight of Allāh. And it is those who are the attainers [of success].
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور وطن چھوڑ گئے اور خدا کی راہ میں مال اور جان سے جہاد کرتے رہے۔ خدا کے ہاں ان کے درجے بہت بڑے ہیں۔ اور وہی مراد کو پہنچنے والے ہیں
+**English (Yusuf Ali):** Those who believe, and suffer exile and strive with might and main, in Allah's cause, with their goods and their persons, have the highest rank in the sight of Allah: they are the people who will achieve (salvation).
 
 [Open on Quran.com](https://quran.com/9/20)
 

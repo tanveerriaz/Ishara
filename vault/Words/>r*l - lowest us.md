@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:27 · [[011 Hud]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So the eminent among those who disbelieved from his people said, "We do not see you but as a man like ourselves, and we do not see you followed except by those who are the lowest of us [and] at first suggestion. And we do not see in you over us any merit; rather, we think you are liars."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان کی قوم کے سردار جو کافر تھے کہنے لگے کہ ہم تم کو اپنے ہی جیسا ایک آدمی دیکھتے ہیں اور یہ بھی دیکھتے ہیں کہ تمہارے پیرو وہی لوگ ہوئے ہیں جو ہم میں ادنیٰ درجے کے ہیں۔ اور وہ بھی رائے ظاہر سے (نہ غوروتعمق سے) اور ہم تم میں اپنے اوپر کسی طرح کی فضیلت نہیں دیکھتے بلکہ تمہیں جھوٹا خیال کرتے ہیں
+**English (Yusuf Ali):** But the chiefs of the Unbelievers among his people said: "We see (in) thee nothing but a man like ourselves: Nor do we see that any follow thee but the meanest among us, in judgment immature: Nor do we see in you (all) any merit above us: in fact we think ye are liars!"
 
 [Open on Quran.com](https://quran.com/11/27)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Allāh created you; then He will take you in death. And among you is he who is reversed to the most decrepit [old] age so that he will not know, after [having had] knowledge, a thing. Indeed, Allāh is Knowing and Competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تم کو پیدا کیا۔ پھر وہی تم کو موت دیتا ہے اور تم میں بعض ایسے ہوتے ہیں کہ نہایت خراب عمر کو پہنچ جاتے ہیں اور (بہت کچھ) جاننے کے بعد ہر چیز سے بےعلم ہوجاتے ہیں۔ بےشک خدا (سب کچھ) جاننے والا (اور) قدرت والا ہے
+**English (Yusuf Ali):** It is Allah who creates you and takes your souls at death; and of you there are some who are sent back to a feeble age, so that they know nothing after having known (much): for Allah is All-Knowing, All-Powerful.
 
 [Open on Quran.com](https://quran.com/16/70)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O people, if you should be in doubt about the Resurrection, then [consider that] indeed, We created you from dust, then from a sperm-drop, then from a clinging clot, and then from a lump of flesh, formed and unformed - that We may show you. And We settle in the wombs whom We will for a specified term, then We bring you out as a child, and then [We develop you] that you may reach your [time of] maturity. And among you is he who is taken in [early] death, and among you is he who is returned to the most decrepit [old] age so that he knows, after [once having] knowledge, nothing. And you see the earth barren, but when We send down upon it rain, it quivers and swells and grows [something] of every beautiful kind.
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو اگر تم کو مرنے کے بعد جی اُٹھنے میں کچھ شک ہو تو ہم نے تم کو (پہلی بار بھی تو) پیدا کیا تھا (یعنی ابتدا میں) مٹی سے پھر اس سے نطفہ بنا کر۔ پھر اس سے خون کا لوتھڑا بنا کر۔ پھر اس سے بوٹی بنا کر جس کی بناوٹ کامل بھی ہوتی ہے اور ناقص بھی تاکہ تم پر (اپنی خالقیت) ظاہر کردیں۔ اور ہم جس کو چاہتے ہیں ایک میعاد مقرر تک پیٹ میں ٹھہرائے رکھتے ہیں پھر تم کو بچہ بنا کر نکالتے ہیں۔ پھر تم جوانی کو پہنچتے ہو۔ اور بعض (قبل از پیری مرجاتے ہیں اور بعض شیخ فالی ہوجاتے اور بڑھاپے کی) نہایت خراب عمر کی طرف لوٹائے جاتے ہیں کہ بہت کچھ جاننے کے بعد بالکل بےعلم ہوجاتے ہیں۔ اور (اے دیکھنے والے) تو دیکھتا ہے (کہ ایک وقت میں) زمین خشک (پڑی ہوتی ہے) پھر جب ہم اس پر مینہ برساتے ہیں تو شاداب ہوجاتی اور ابھرنے لگتی ہے اور طرح طرح کی بارونق چیزیں اُگاتی ہے
+**English (Yusuf Ali):** O mankind! if ye have a doubt about the Resurrection, (consider) that We created you out of dust, then out of sperm, then out of a leech-like clot, then out of a morsel of flesh, partly formed and partly unformed, in order that We may manifest (our power) to you; and We cause whom We will to rest in the wombs for an appointed term, then do We bring you out as babes, then (foster you) that ye may reach your age of full strength; and some of you are called to die, and some are sent back to the feeblest old age, so that they know nothing after having known (much), and (further), thou seest the earth barren and lifeless, but when We pour down rain on it, it is stirred (to life), it swells, and it puts forth every kind of beautiful growth (in pairs).
 
 [Open on Quran.com](https://quran.com/22/5)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "Should we believe you while you are followed by the lowest [class of people]?"
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ کیا ہم تم کو مان لیں اور تمہارے پیرو تو رذیل لوگ ہوتے ہیں
+**English (Yusuf Ali):** They said: "Shall we believe in thee when it is the meanest that follow thee?"
 
 [Open on Quran.com](https://quran.com/26/111)
 

@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:14 · [[003 Ali Imran]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allāh has with Him the best return [i.e., Paradise].
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
+**English (Yusuf Ali):** Fair in the eyes of men is the love of things they covet: Women and sons; Heaped-up hoards of gold and silver; horses branded (for blood and excellence); and (wealth of) cattle and well-tilled land. Such are the possessions of this world's life; but in nearness to Allah is the best of the goals (To return to).
 
 [Open on Quran.com](https://quran.com/3/14)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And prepare against them whatever you are able of power and of steeds of war by which you may terrify the enemy of Allāh and your enemy and others besides them whom you do not know [but] whom Allāh knows. And whatever you spend in the cause of Allāh will be fully repaid to you, and you will not be wronged.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جہاں تک ہوسکے (فوج کی جمعیت کے) زور سے اور گھوڑوں کے تیار رکھنے سے ان کے (مقابلے کے) لیے مستعد رہو کہ اس سے خدا کے دشمنوں اور تمہارے دشمنوں اور ان کے سوا اور لوگوں پر جن کو تم نہیں جانتے اور خدا جانتا ہے ہیبت بیٹھی رہے گی۔ اور تم جو کچھ راہ خدا میں خرچ کرو گے اس کا ثواب تم کو پورا پورا دیا جائے گا اور تمہارا ذرا نقصان نہیں کیا جائے گا
+**English (Yusuf Ali):** Against them make ready your strength to the utmost of your power, including steeds of war, to strike terror into (the hearts of) the enemies, of Allah and your enemies, and others besides, whom ye may not know, but whom Allah doth know. Whatever ye shall spend in the cause of Allah, shall be repaid unto you, and ye shall not be treated unjustly.
 
 [Open on Quran.com](https://quran.com/8/60)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [He created] the horses, mules and donkeys for you to ride and [as] adornment. And He creates that which you do not know.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے گھوڑے اور خچر اور گدھے پیدا کئے تاکہ تم ان پر سوار ہو اور (وہ تمہارے لیے) رونق وزینت (بھی ہیں) اور وہ (اور چیزیں بھی) پیدا کرتا ہے جن کی تم کو خبر نہیں
+**English (Yusuf Ali):** And (He has created) horses, mules, and donkeys, for you to ride and use for show; and He has created (other) things of which ye have no knowledge.
 
 [Open on Quran.com](https://quran.com/16/8)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And incite [to senselessness] whoever you can among them with your voice and assault them with your horses and foot soldiers and become a partner in their wealth and their children and promise them." But Satan does not promise them except delusion.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے جس کو بہکا سکے اپنی آواز سے بہکاتا رہ۔ اور ان پر اپنے سواروں اور پیاروں کو چڑھا کر لاتا رہ اور ان کے مال اور اولاد میں شریک ہوتا رہ اور ان سے وعدے کرتا رہ۔ اور شیطان جو وعدے ان سے کرتا ہے سب دھوکا ہے
+**English (Yusuf Ali):** "Lead to destruction those whom thou canst among them, with thy (seductive) voice; make assaults on them with thy cavalry and thy infantry; mutually share with them wealth and children; and make promises to them." But Satan promises them nothing but deceit.
 
 [Open on Quran.com](https://quran.com/17/64)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And what Allāh restored [of property] to His Messenger from them - you did not spur for it [in an expedition] any horses or camels, but Allāh gives His messengers power over whom He wills, and Allāh is over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو (مال) خدا نے اپنے پیغمبر کو ان لوگوں سے (بغیر لڑائی بھڑائی کے) دلوایا ہے اس میں تمہارا کچھ حق نہیں کیونکہ اس کے لئے نہ تم نے گھوڑے دوڑائے نہ اونٹ لیکن خدا اپنے پیغمبروں کو جن پر چاہتا ہے مسلط کردیتا ہے۔ اور خدا ہر چیز پر قادر ہے
+**English (Yusuf Ali):** What Allah has bestowed on His Messenger (and taken away) from them - for this ye made no expedition with either cavalry or camelry: but Allah gives power to His messengers over any He pleases: and Allah has power over all things.
 
 [Open on Quran.com](https://quran.com/59/6)
 

@@ -15,10 +15,10 @@ The Disbelievers · 6 ayahs
 ## Words in this surah (graph)
 
 - [[EAbd - worshippers]] — `عابِد` · worshippers
-- [[kAfr - disbelievers]] — `كافِر` · disbelievers
-- [[qAl - say]] — `قالَ` · say
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
 - [[>y - o you]] — `أَيّ` · o you
+- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[qAl - say]] — `قالَ` · say
+- [[kAfr - disbelievers]] — `كافِر` · disbelievers
 - [[dyn - religion]] — `دِين` · religion
 
 ## Roots

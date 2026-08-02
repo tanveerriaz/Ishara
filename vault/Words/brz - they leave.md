@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:250 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when they went forth to [face] Goliath and his soldiers, they said, "Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب وہ لوگ جالوت اور اس کے لشکر کے مقابل آئے تو (خدا سے) دعا کی کہ اے پروردگار ہم پر صبر کے دہانے کھول دے اور ہمیں (لڑائی میں) ثابت قدم رکھ اور (لشکر) کفار پر فتحیاب کر
+**English (Yusuf Ali):** When they advanced to meet Goliath and his forces, they prayed: "Our Lord! Pour out constancy on us and make our steps firm: Help us against those that reject faith."
 
 [Open on Quran.com](https://quran.com/2/250)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then after distress, He sent down upon you security [in the form of] drowsiness, overcoming a faction of you, while another faction worried about themselves, thinking of Allāh other than the truth - the thought of ignorance, saying, "Is there anything for us [to have done] in this matter?" Say, "Indeed, the matter belongs completely to Allāh." They conceal within themselves what they will not reveal to you. They say, "If there was anything we could have done in the matter, we [i.e., some of us] would not have been killed right here." Say, "Even if you had been inside your houses, those decreed to be killed would have come out to their death beds." [It was] so that Allāh might test what is in your breasts and purify what is in your hearts. And Allāh is Knowing of that within the breasts.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر خدا نے غم ورنج کے بعد تم پر تسلی نازل فرمائی (یعنی) نیند کہ تم میں سے ایک جماعت پر طاری ہو گئی اور کچھ لوگ جن کو جان کے لالے پڑ رہے تھے خدا کے بارے میں ناحق (ایام) کفر کے سے گمان کرتے تھے اور کہتے تھے بھلا ہمارے اختیار کی کچھ بات ہے؟ تم کہہ دو کہ بےشک سب باتیں خدا ہی کے اختیار میں ہیں یہ لوگ (بہت سی باتیں) دلوں میں مخفی رکھتے ہیں جو تم پر ظاہر نہیں کرتے تھے کہتے تھے کہ ہمارے بس کی بات ہوتی تو ہم یہاں قتل ہی نہ کیے جاتے کہہ دو کہ اگر تم اپنے گھروں میں بھی ہوتے تو جن کی تقدیر میں مارا جانا لکھا تھا وہ اپنی اپنی قتل گاہوں کی طرف ضرور نکل آتے اس سے غرض یہ تھی کہ خدا تمہارے سینوں کی باتوں کو آزمائے اور جو کچھ تمہارے دلوں میں ہے اس کو خالص اور صاف کر دے اور خدا دلوں کی باتوں سے خوب واقف ہے
+**English (Yusuf Ali):** After (the excitement) of the distress, He sent down calm on a band of you overcome with slumber, while another band was stirred to anxiety by their own feelings, Moved by wrong suspicions of Allah-suspicions due to ignorance. They said: "What affair is this of ours?" Say thou: "Indeed, this affair is wholly Allah's." They hide in their minds what they dare not reveal to thee. They say (to themselves): "If we had had anything to do with this affair, We should not have been in the slaughter here." Say: "Even if you had remained in your homes, those for whom death was decreed would certainly have gone forth to the place of their death"; but (all this was) that Allah might test what is in your breasts and purge what is in your hearts. For Allah knoweth well the secrets of your hearts.
 
 [Open on Quran.com](https://quran.com/3/154)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "[We pledge] obedience." But when they leave you, a group of them spend the night determining to do other than what you say. But Allāh records what they plan by night. So leave them alone and rely upon Allāh. And sufficient is Allāh as Disposer of affairs.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ منہ سے تو کہتے ہیں کہ (آپ کی) فرمانبرداری (دل سے منظور ہے) لیکن جب تمہارے پاس سے چلے جاتے ہیں تو ان میں سے بعض لوگ رات کو تمہاری باتوں کے خلاف مشورے کرتے ہیں اور جو مشورے یہ کرتے ہیں خدا ان کو لکھ لیتا ہے تو ان کا کچھ خیال نہ کرو اور خدا پر بھروسہ رکھو اور خدا ہی کافی کارساز ہے
+**English (Yusuf Ali):** They have "Obedience" on their lips; but when they leave thee, a section of them Meditate all night on things very different from what thou tellest them. But Allah records their nightly (plots): So keep clear of them, and put thy trust in Allah, and enough is Allah as a disposer of affairs.
 
 [Open on Quran.com](https://quran.com/4/81)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will come out [for judgement] before Allāh all together, and the weak will say to those who were arrogant, "Indeed, we were your followers, so can you avail us anything against the punishment of Allāh?" They will say, "If Allāh had guided us, we would have guided you. It is all the same for us whether we show intolerance or are patient: there is for us no place of escape."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (قیامت کے دن) سب لوگ خدا کے سامنے کھڑے ہوں گے تو ضعیف (العقل متبع اپنے رؤسائے) متکبرین سے کہیں گے کہ ہم تو تمہارے پیرو تھے۔ کیا تم خدا کا کچھ عذاب ہم پر سے دفع کرسکتے ہو۔ وہ کہیں گے کہ اگر خدا ہم کو ہدایت کرتا تو ہم تم کو ہدایت کرتے۔ اب ہم گھبرائیں یا ضد کریں ہمارے حق میں برابر ہے۔ کوئی جگہ (گریز اور) رہائی کی ہمارے لیے نہیں ہے
+**English (Yusuf Ali):** They will all be marshalled before Allah together: then will the weak say to those who were arrogant, "For us, we but followed you; can ye then avail us to all against the wrath of Allah?" They will reply, "If we had received the Guidance of Allah, we should have given it to you: to us it makes no difference (now) whether we rage, or bear (these torments) with patience: for ourselves there is no way of escape."
 
 [Open on Quran.com](https://quran.com/14/21)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [It will be] on the Day the earth will be replaced by another earth, and the heavens [as well], and they [i.e., all creatures] will come out before Allāh, the One, the Prevailing,
 
-**Urdu (Fatah Muhammad Jalandhari):** جس دن یہ زمین دوسری زمین سے بدل دی جائے گی اور آسمان بھی (بدل دیئے جائیں گے) اور سب لوگ خدائے یگانہ وزبردست کے سامنے نکل کھڑے ہوں گے
+**English (Yusuf Ali):** One day the earth will be changed to a different earth, and so will be the heavens, and (men) will be marshalled forth, before Allah, the One, the Irresistible;
 
 [Open on Quran.com](https://quran.com/14/48)
 

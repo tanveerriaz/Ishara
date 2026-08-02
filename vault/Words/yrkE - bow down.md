@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:43 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And establish prayer and give zakāh and bow with those who bow [in worship and obedience].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور نماز پڑھا کرو اور زکوٰة دیا کرو اور (خدا کے آگے) جھکنے والوں کے ساتھ جھکا کرو
+**English (Yusuf Ali):** And be steadfast in prayer; practise regular charity; and bow down your heads with those who bow down (in worship).
 
 [Open on Quran.com](https://quran.com/2/43)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Mary, be devoutly obedient to your Lord and prostrate and bow with those who bow [in prayer]."
 
-**Urdu (Fatah Muhammad Jalandhari):** مریم اپنے پروردگار کی فرمانبرداری کرنا اور سجدہ کرنا اور رکوع کرنے والوں کے ساتھ رکوع کرنا
+**English (Yusuf Ali):** "O Mary! worship Thy Lord devoutly: Prostrate thyself, and bow down (in prayer) with those who bow down."
 
 [Open on Quran.com](https://quran.com/3/43)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, bow and prostrate and worship your Lord and do good - that you may succeed.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! رکوع کرتے اور سجدے کرتے اور اپنے پروردگار کی عبادت کرتے رہو اور نیک کام کرو تاکہ فلاح پاؤ
+**English (Yusuf Ali):** O ye who believe! bow down, prostrate yourselves, and adore your Lord; and do good; that ye may prosper.
 
 [Open on Quran.com](https://quran.com/22/77)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when it is said to them, "Bow [in prayer]," they do not bow.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان سے کہا جاتا ہے کہ (خدا کے آگے) جھکو تو جھکتے نہیں
+**English (Yusuf Ali):** And when it is said to them, "Prostrate yourselves!" they do not so.
 
 [Open on Quran.com](https://quran.com/77/48)
 

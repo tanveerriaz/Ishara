@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:96 · [[002 Al-Baqarah]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you will surely find them the most greedy of people for life - [even] more than those who associate others with Allāh. One of them wishes that he could be granted life a thousand years, but it would not remove him in the least from the [coming] punishment that he should be granted life. And Allāh is Seeing of what they do.
 
-**Urdu (Fatah Muhammad Jalandhari):** بلکہ ان کو تم اور لوگوں سے زندگی کے کہیں حریص دیکھو گے، یہاں تک کہ مشرکوں سے بھی۔ ان میں سے ہر ایک یہی خواہش کرتا ہے کہ کاش وہ ہزار برس جیتا رہے، مگر اتنی لمبی عمر اس کو مل بھی جائے تو اسے عذاب سے تو نہیں چھڑا سکتی۔ اور جو کام یہ کرتے ہیں، خدا ان کو دیکھ رہا ہے
+**English (Yusuf Ali):** Thou wilt indeed find them, of all people, most greedy of life,-even more than the idolaters: Each one of them wishes He could be given a life of a thousand years: But the grant of such life will not save him from (due) punishment. For Allah sees well all that they do.
 
 [Open on Quran.com](https://quran.com/2/96)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "Then indeed, it is forbidden to them for forty years [in which] they will wander throughout the land. So do not grieve over the defiantly disobedient people."
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے فرمایا کہ وہ ملک ان پر چالیس برس تک کے لیے حرام کر دیا گیا (کہ وہاں جانے نہ پائیں گے اور جنگل کی) زمین میں سرگرداں پھرتے رہیں گے تو ان نافرمان لوگوں کے حال پر افسوس نہ کرو
+**English (Yusuf Ali):** Allah said: "Therefore will the land be out of their reach for forty years: In distraction will they wander through the land: But sorrow thou not over these rebellious people.
 
 [Open on Quran.com](https://quran.com/5/26)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they urge you to hasten the punishment. But Allāh will never fail in His promise. And indeed, a day with your Lord is like a thousand years of those which you count.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (یہ لوگ) تم سے عذاب کے لئے جلدی کر رہے ہیں اور خدا اپنا وعدہ ہرگز خلاف نہیں کرے گا۔ اور بےشک تمہارے پروردگار کے نزدیک ایک روز تمہارے حساب کے رو سے ہزار برس کے برابر ہے
+**English (Yusuf Ali):** Yet they ask thee to hasten on the Punishment! But Allah will not fail in His Promise. Verily a Day in the sight of thy Lord is like a thousand years of your reckoning.
 
 [Open on Quran.com](https://quran.com/22/47)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We certainly sent Noah to his people, and he remained among them a thousand years minus fifty years, and the flood seized them while they were wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے نوحؑ کو اُن کی قوم کی طرف بھیجا تو وہ ان میں پچاس برس کم ہزار برس رہے پھر اُن کو طوفان (کے عذاب) نے آپکڑا۔ اور وہ ظالم تھے
+**English (Yusuf Ali):** We (once) sent Noah to his people, and he tarried among them a thousand years less fifty: but the Deluge overwhelmed them while they (persisted in) sin.
 
 [Open on Quran.com](https://quran.com/29/14)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He arranges [each] matter from the heaven to the earth; then it will ascend to Him in a Day, the extent of which is a thousand years of those which you count.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی آسمان سے زمین تک (کے) ہر کام کا انتظام کرتا ہے۔ پھر وہ ایک روز جس کی مقدار تمہارے شمار کے مطابق ہزار برس ہوگی۔ اس کی طرف صعود (اور رجوع) کرے گا
+**English (Yusuf Ali):** He rules (all) affairs from the heavens to the earth: in the end will (all affairs) go up to Him, on a Day, the space whereof will be (as) a thousand years of your reckoning.
 
 [Open on Quran.com](https://quran.com/32/5)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have enjoined upon man, to his parents, good treatment. His mother carried him with hardship and gave birth to him with hardship, and his gestation and weaning [period] is thirty months. [He grows] until, when he reaches maturity and reaches [the age of] forty years, he says, "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to work righteousness of which You will approve and make righteous for me my offspring. Indeed, I have repented to You, and indeed, I am of the Muslims."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے انسان کو اپنے والدین کے ساتھ بھلائی کرنے کا حکم دیا۔ اس کی ماں نے اس کو تکلیف سے پیٹ میں رکھا اور تکلیف ہی سے جنا۔ اور اس کا پیٹ میں رہنا اور دودھ چھوڑنا ڈھائی برس میں ہوتا ہے۔ یہاں تک کہ جب خوب جوان ہوتا ہے اور چالیس برس کو پہنچ جاتا ہے تو کہتا ہے کہ اے میرے پروردگار مجھے توفیق دے کہ تو نے جو احسان مجھ پر اور میرے ماں باپ پر کئے ہیں ان کا شکر گزار ہوں اور یہ کہ نیک عمل کروں جن کو تو پسند کرے۔ اور میرے لئے میری اولاد میں صلاح (وتقویٰ) دے۔ میں تیری طرف رجوع کرتا ہوں اور میں فرمانبرداروں میں ہوں
+**English (Yusuf Ali):** We have enjoined on man kindness to his parents: In pain did his mother bear him, and in pain did she give him birth. The carrying of the (child) to his weaning is (a period of) thirty months. At length, when he reaches the age of full strength and attains forty years, he says, "O my Lord! Grant me that I may be grateful for Thy favour which Thou has bestowed upon me, and upon both my parents, and that I may work righteousness such as Thou mayest approve; and be gracious to me in my issue. Truly have I turned to Thee and truly do I bow (to Thee) in Islam."
 
 [Open on Quran.com](https://quran.com/46/15)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The angels and the Spirit [i.e., Gabriel] will ascend to Him during a Day the extent of which is fifty thousand years.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس کی طرف روح (الامین) اور فرشتے پڑھتے ہیں (اور) اس روز (نازل ہوگا) جس کا اندازہ پچاس ہزار برس کا ہوگا
+**English (Yusuf Ali):** The angels and the spirit ascend unto him in a Day the measure whereof is (as) fifty thousand years:
 
 [Open on Quran.com](https://quran.com/70/4)
 

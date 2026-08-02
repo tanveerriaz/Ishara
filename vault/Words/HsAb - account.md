@@ -43,7 +43,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:202 · [[002 Al-Baqarah]]
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those will have a share of what they have earned, and Allāh is swift in account.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن کے لئے ان کے کاموں کا حصہ (یعنی اجر نیک تیار) ہے اور خدا جلد حساب لینے والا (اور جلد اجر دینے والا) ہے
+**English (Yusuf Ali):** To these will be allotted what they have earned; and Allah is quick in account.
 
 [Open on Quran.com](https://quran.com/2/202)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Beautified for those who disbelieve is the life of this world, and they ridicule those who believe. But those who fear Allāh are above them on the Day of Resurrection. And Allāh gives provision to whom He wills without account.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو کافر ہیں ان کے لئے دنیا کی زندگی خوشنما کر دی گئی ہے اور وہ مومنوں سے تمسخر کرتے ہیں لیکن جو پرہیز گار ہیں وہ قیامت کے دن ان پر غالب ہوں گے اور خدا جس کو چاہتا ہے بےشمار رزق دیتا ہے
+**English (Yusuf Ali):** The life of this world is alluring to those who reject faith, and they scoff at those who believe. But the righteous will be above them on the Day of Resurrection; for Allah bestows His abundance without measure on whom He will.
 
 [Open on Quran.com](https://quran.com/2/212)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the religion in the sight of Allāh is Islām. And those who were given the Scripture did not differ except after knowledge had come to them - out of jealous animosity between themselves. And whoever disbelieves in the verses of Allāh, then indeed, Allāh is swift in [taking] account.
 
-**Urdu (Fatah Muhammad Jalandhari):** دین تو خدا کے نزدیک اسلام ہے اور اہل کتاب نے جو (اس دین سے) اختلاف کیا تو علم ہونے کے بعد آپس کی ضد سے کیا اور جو شخص خدا کی آیتوں کو نہ مانے تو خدا جلد حساب لینے والا (اور سزا دینے والا) ہے
+**English (Yusuf Ali):** The Religion before Allah is Islam (submission to His Will): Nor did the People of the Book dissent therefrom except through envy of each other, after knowledge had come to them. But if any deny the Signs of Allah, Allah is swift in calling to account.
 
 [Open on Quran.com](https://quran.com/3/19)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** You cause the night to enter the day, and You cause the day to enter the night; and You bring the living out of the dead, and You bring the dead out of the living. And You give provision to whom You will without account [i.e., limit or measure]."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ہی رات کو دن میں داخل کرتا اور تو ہی دن کو رات میں داخل کرتا ہے تو ہی بے جان سے جاندار پیدا کرتا ہے اور تو ہی جاندار سے بے جان پیدا کرتا ہے اور توہی جس کو چاہتا ہے بے شمار رزق بخشتا ہے
+**English (Yusuf Ali):** "Thou causest the night to gain on the day, and thou causest the day to gain on the night; Thou bringest the Living out of the dead, and Thou bringest the dead out of the Living; and Thou givest sustenance to whom Thou pleasest, without measure."
 
 [Open on Quran.com](https://quran.com/3/27)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, "O Mary, from where is this [coming] to you?" She said, "It is from Allāh. Indeed, Allāh provides for whom He wills without account."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو پروردگار نے اس کو پسندیدگی کے ساتھ قبول فرمایا اور اسے اچھی طرح پرورش کیا اور زکریا کو اس کا متکفل بنایا زکریا جب کبھی عبادت گاہ میں اس کے پاس جاتے تو اس کے پاس کھانا پاتے (یہ کیفیت دیکھ کر ایک دن مریم سے) پوچھنے لگے کہ مریم یہ کھانا تمہارے پاس کہاں سے آتا ہے وہ بولیں خدا کے ہاں سے (آتا ہے) بیشک خدا جسے چاہتا ہے بے شمار رزق دیتا ہے
+**English (Yusuf Ali):** Right graciously did her Lord accept her: He made her grow in purity and beauty: To the care of Zakariya was she assigned. Every time that he entered (Her) chamber to see her, He found her supplied with sustenance. He said: "O Mary! Whence (comes) this to you?" She said: "From Allah: for Allah Provides sustenance to whom He pleases without measure."
 
 [Open on Quran.com](https://quran.com/3/37)
 
@@ -137,7 +137,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, among the People of the Scripture are those who believe in Allāh and what was revealed to you and what was revealed to them, [being] humbly submissive to Allāh. They do not exchange the verses of Allāh for a small price. Those will have their reward with their Lord. Indeed, Allāh is swift in account.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بعض اہلِ کتاب ایسے بھی ہیں جو خدا پر اور اس (کتاب) پر جو تم پر نازل ہوئی اور اس پر جو ان پر نازل ہوئی ایمان رکھتے ہیں اور خدا کے آگے عاجزی کرتے ہیں اور خدا کی آیتوں کے بدلے تھوڑی سی قیمت نہیں لیتے یہی لوگ ہیں جن کا صلہ ان کے پروردگار کے ہاں تیار ہے اور خدا جلد حساب لینے والا ہے
+**English (Yusuf Ali):** And there are, certainly, among the People of the Book, those who believe in Allah, in the revelation to you, and in the revelation to them, bowing in humility to Allah: They will not sell the Signs of Allah for a miserable gain! For them is a reward with their Lord, and Allah is swift in account.
 
 [Open on Quran.com](https://quran.com/3/199)
 
@@ -153,7 +153,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They ask you, [O Muḥammad], what has been made lawful for them. Say, "Lawful for you are [all] good foods and [game caught by] what you have trained of hunting animals which you train as Allāh has taught you. So eat of what they catch for you, and mention the name of Allāh upon it, and fear Allāh." Indeed, Allāh is swift in account.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم سے پوچھتے ہیں کہ کون کون سی چیزیں ان کے لیے حلال ہیں (ان سے) کہہ دو کہ سب پاکیزہ چیزیں تم کو حلال ہیں اور وہ (شکار) بھی حلال ہے جو تمہارے لیے ان شکاری جانوروں نے پکڑا ہو جن کو تم نے سدھا رکھا ہو اور جس (طریق) سے خدا نے تمہیں (شکار کرنا) سکھایا ہے (اس طریق سے) تم نے ان کو سکھایا ہو تو جو شکار وہ تمہارے لئے پکڑ رکھیں اس کو کھا لیا کرو اور (شکاری جانوروں کو چھوڑتے وقت) خدا کا نام لے لیا کرو اور خدا سے ڈرتے رہو۔ بےشک خدا جلد حساب لینے والا ہے
+**English (Yusuf Ali):** They ask thee what is lawful to them (as food). Say: lawful unto you are (all) things good and pure: and what ye have taught your trained hunting animals (to catch) in the manner directed to you by Allah: eat what they catch for you, but pronounce the name of Allah over it: and fear Allah; for Allah is swift in taking account.
 
 [Open on Quran.com](https://quran.com/5/4)
 
@@ -169,7 +169,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not send away those who call upon their Lord morning and afternoon, seeking His face [i.e., favor]. Not upon you is anything of their account and not upon them is anything of your account. So were you to send them away, you would [then] be of the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ صبح وشام اپنی پروردگار سے دعا کرتے ہیں (اور) اس کی ذات کے طالب ہیں ان کو (اپنے پاس سے) مت نکالو۔ ان کے حساب (اعمال) کی جوابدہی تم پر کچھ نہیں اور تمہارے حساب کی جوابدہی ان پر کچھ نہیں (پس ایسا نہ کرنا) اگر ان کو نکالوگے تو ظالموں میں ہوجاؤ گے
+**English (Yusuf Ali):** Send not away those who call on their Lord morning and evening, seeking His face. In naught art thou accountable for them, and in naught are they accountable for thee, that thou shouldst turn them away, and thus be (one) of the unjust.
 
 [Open on Quran.com](https://quran.com/6/52)
 
@@ -185,7 +185,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who fear Allāh are not held accountable for them [i.e., the disbelievers] at all, but [only for] a reminder - that perhaps they will fear Him.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور پرہیزگاروں پر ان لوگوں کے حساب کی کچھ بھی جواب دہی نہیں ہاں نصیحت تاکہ وہ بھی پرہیزگار ہوں
+**English (Yusuf Ali):** On their account no responsibility falls on the righteous, but (their duty) is to remind them, that they may (learn to) fear Allah.
 
 [Open on Quran.com](https://quran.com/6/69)
 
@@ -201,7 +201,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who made the sun a shining light and the moon a derived light and determined for it phases - that you may know the number of years and account [of time]. Allāh has not created this except in truth. He details the signs for a people who know.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سورج کو روشن اور چاند کو منور بنایا اور چاند کی منزلیں مقرر کیں تاکہ تم برسوں کا شمار اور (کاموں کا) حساب معلوم کرو۔ یہ (سب کچھ) خدا نے تدبیر سے پیدا کیا ہے۔ سمجھنے والوں کے لیے وہ اپنی آیاتیں کھول کھول کر بیان فرماتا ہے
+**English (Yusuf Ali):** It is He Who made the sun to be a shining glory and the moon to be a light (of beauty), and measured out stages for her; that ye might know the number of years and the count (of time). Nowise did Allah create this but in truth and righteousness. (Thus) doth He explain His Signs in detail, for those who understand.
 
 [Open on Quran.com](https://quran.com/10/5)
 

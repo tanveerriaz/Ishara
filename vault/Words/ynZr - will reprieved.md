@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:162 · [[002 Al-Baqarah]]
 
@@ -48,7 +48,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Abiding eternally therein. The punishment will not be lightened for them, nor will they be reprieved.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ ہمیشہ اسی (لعنت) میں (گرفتار) رہیں گے۔ ان سے نہ تو عذاب ہی ہلکا کیا جائے گا اور نہ انہیں (کچھ) مہلت ملے گی
+**English (Yusuf Ali):** They will abide therein: Their penalty will not be lightened, nor will respite be their (lot).
 
 [Open on Quran.com](https://quran.com/2/162)
 
@@ -64,7 +64,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Abiding eternally therein. The punishment will not be lightened for them, nor will they be reprieved,
 
-**Urdu (Fatah Muhammad Jalandhari):** ہمیشہ اس لعنت میں (گرفتار) رہیں گے ان سے نہ تو عذاب ہلکا کیا جائے گا اور نہ انہیں مہلت دے جائے گی
+**English (Yusuf Ali):** In that will they dwell; nor will their penalty be lightened, nor respite be (their lot);-
 
 [Open on Quran.com](https://quran.com/3/88)
 
@@ -80,7 +80,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "Why was there not sent down to him an angel?" But if We had sent down an angel, the matter would have been decided; then they would not be reprieved.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ ان (پیغمبر) پر فرشتہ کیوں نازل نہ ہوا (جو ان کی تصدیق کرتا) اگر ہم فرشتہ نازل کرتے تو کام ہی فیصل ہو جاتا پھر انھیں (مطلق) مہلت نہ دی جاتی
+**English (Yusuf Ali):** They say: "Why is not an angel sent down to him?" If we did send down an angel, the matter would be settled at once, and no respite would be granted them.
 
 [Open on Quran.com](https://quran.com/6/8)
 
@@ -96,7 +96,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Satan] said, "Reprieve me until the Day they are resurrected."
 
-**Urdu (Fatah Muhammad Jalandhari):** اس نے کہا کہ مجھے اس دن تک مہلت عطا فرما جس دن لوگ (قبروں سے) اٹھائے جائیں گے
+**English (Yusuf Ali):** He said: "Give me respite till the day they are raised up."
 
 [Open on Quran.com](https://quran.com/7/14)
 
@@ -112,7 +112,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they have feet by which they walk? Or do they have hands by which they strike? Or do they have eyes by which they see? Or do they have ears by which they hear? Say, [O Muḥammad], "Call your 'partners' and then conspire against me and give me no respite.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا ان کے پاؤں ہیں جن سے چلیں یا ہاتھ ہیں جن سے پکڑیں یا آنکھیں ہیں جن سے دیکھیں یا کان ہیں جن سے سنیں؟ کہہ دو کہ اپنے شریکوں کو بلالو اور میرے بارے میں (جو) تدبیر (کرنی ہو) کرلو اور مجھے کچھ مہلت بھی نہ دو (پھر دیکھو کہ وہ میرا کیا کرسکتے ہیں)
+**English (Yusuf Ali):** Have they feet to walk with? Or hands to lay hold with? Or eyes to see with? Or ears to hear with? Say: "Call your 'god-partners', scheme (your worst) against me, and give me no respite!
 
 [Open on Quran.com](https://quran.com/7/195)
 
@@ -128,7 +128,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And recite to them the news of Noah, when he said to his people, "O my people, if my residence and my reminding of the signs of Allāh has become burdensome upon you - then I have relied upon Allāh. So resolve upon your plan and [call upon] your associates. Then let not your plan be obscure to you. Then carry it out upon me and do not give me respite.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کو نوح کا قصہ پڑھ کر سنادو۔ جب انہوں نے اپنی قوم سے کہا کہ اے قوم! اگر تم کو میرا تم میں رہنا اور خدا کی آیتوں سے نصیحت کرنا ناگوار ہو تو میں خدا پر بھروسہ رکھتا ہوں۔ تم اپنے شریکوں کے ساتھ مل کر ایک کام (جو میرے بارے میں کرنا چاہو) مقرر کرلو اور وہ تمہاری تمام جماعت (کو معلوم ہوجائے اور کسی) سے پوشیدہ نہ رہے اور پھر وہ کام میرے حق میں کر گزرو اور مجھے مہلت نہ دو
+**English (Yusuf Ali):** Relate to them the story of Noah. Behold! he said to his people: "O my people, if it be hard on your (mind) that I should stay (with you) and commemorate the signs of Allah,- yet I put my trust in Allah. Get ye then an agreement about your plan and among your partners, so your plan be on to you dark and dubious. Then pass your sentence on me, and give me no respite.
 
 [Open on Quran.com](https://quran.com/10/71)
 
@@ -144,7 +144,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Other than Him. So plot against me all together; then do not give me respite.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی جن کی) خدا کے سوا (عبادت کرتے ہو تو) تم سب مل کر میرے بارے میں جو تدبیر (کرنی چاہو) کرلو اور مجھے مہلت نہ دو
+**English (Yusuf Ali):** "Other gods as partners! so scheme (your worst) against me, all of you, and give me no respite.
 
 [Open on Quran.com](https://quran.com/11/55)
 
@@ -160,7 +160,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "My Lord, then reprieve me until the Day they are resurrected."
 
-**Urdu (Fatah Muhammad Jalandhari):** (اس نے) کہا کہ پروردگار مجھے اس دن تک مہلت دے جب لوگ (مرنے کے بعد) زندہ کئے جائیں گے
+**English (Yusuf Ali):** (Iblis) said: "O my Lord! give me then respite till the Day the (dead) are raised."
 
 [Open on Quran.com](https://quran.com/15/36)
 
@@ -176,7 +176,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when those who wronged see the punishment, it will not be lightened for them, nor will they be reprieved.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ظالم لوگ عذاب دیکھ لیں گے تو پھر نہ تو اُن کے عذاب ہی میں تخفیف کی جائے گی اور نہ اُن کو مہلت ہی دی جائے گی
+**English (Yusuf Ali):** When the wrong-doers (actually) see the Penalty, then will it in no way be mitigated, nor will they then receive respite.
 
 [Open on Quran.com](https://quran.com/16/85)
 
@@ -192,7 +192,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Rather, it will come to them unexpectedly and bewilder them, and they will not be able to repel it, nor will they be reprieved.
 
-**Urdu (Fatah Muhammad Jalandhari):** بلکہ قیامت ان پر ناگہاں آ واقع ہوگی۔ اور ان کے ہوش کھو دے گی۔ پھر نہ تو وہ اس کو ہٹا سکیں گے اور نہ ان کو مہلت دی جائے گی
+**English (Yusuf Ali):** Nay, it may come to them all of a sudden and confound them: no power will they have then to avert it, nor will they (then) get respite.
 
 [Open on Quran.com](https://quran.com/21/40)
 

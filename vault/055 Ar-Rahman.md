@@ -17,28 +17,28 @@ The Beneficent · 78 ayahs
 - [[AlA' - favors]] — `آلاء` · favors
 - [[jAn - any jinn]] — `جانّ` · any jinn
 - [[fAkhp - fruits]] — `فاكِهَة` · fruits
-- [[nxl - date-palms]] — `نَخْل` · date-palms
 - [[mtk} - reclining]] — `مُتَّكِئ` · reclining
-- [[qmr - moon]] — `قَمَر` · moon
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[$jr - trees]] — `شَجَرَ` · trees
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[Hmym - scalding water]] — `حَمِيم` · scalding water
-- [[vql - burdens]] — `ثَقَل` · burdens
-- [[s>l - ask]] — `سَأَلَ` · ask
-- [[Elm - know]] — `عَلِمَ` · know
-- [[Eyn - eyes]] — `عَيْن` · eyes
-- [[<nsAn - man]] — `إِنسان` · man
-- [[Hb - grain]] — `حُبّ` · grain
-- [[HsbAn - reckoning]] — `حُسْبان` · reckoning
-- [[m$rq - east]] — `مَشْرِق` · east
-- [[ESf - husk]] — `عَصْف` · husk
-- [[jn - jinn]] — `جَنَّ` · jinn
-- [[jry - flow]] — `جَرَيْ` · flow
+- [[nxl - date-palms]] — `نَخْل` · date-palms
+- [[Hsn - good]] — `حُسْن` · good
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[wzn - weigh]] — `وَزْن` · weigh
+- [[wjh - faces]] — `وَجْه` · faces
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[njm - stars]] — `نَجْم` · stars
+- [[bqy - remained]] — `بَقِيَ` · remained
 - [[AltqY - met]] — `الْتَقَى` · met
-- [[byn - between them]] — `بَيْن` · between them
-- [[>rD - earth]] — `أَرْض` · earth
+- [[tbArk - blessed]] — `تَبارَكَ` · blessed
+- [[>y - o you]] — `أَيّ` · o you
+- [[jry - flow]] — `جَرَيْ` · flow
+- [[m$rq - east]] — `مَشْرِق` · east
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[*nb - sins]] — `ذَنب` · sins
+- [[rb - lord]] — `رَبّ` · lord
+- [[xAf - fear]] — `خافَ` · fear
+- [[jwAr - ships]] — `جَوار` · ships
+- [[TAf - will circulated]] — `طافَ` · will circulated
+- [[slTAn - authority]] — `سُلْطان` · authority
 
 ## Roots
 

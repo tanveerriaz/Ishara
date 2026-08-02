@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 21:21 · [[021 Al-Anbya]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or have they [i.e., men] taken for themselves gods from the earth who resurrect [the dead]?
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا لوگوں نے جو زمین کی چیزوں سے (بعض کو) معبود بنا لیا ہے (تو کیا) وہ ان کو (مرنے کے بعد) اُٹھا کھڑا کریں گے؟
+**English (Yusuf Ali):** Or have they taken (for worship) gods from the earth who can raise (the dead)?
 
 [Open on Quran.com](https://quran.com/21/21)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And who sends down rain from the sky in measured amounts, and We revive thereby a dead land - thus will you be brought forth -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس نے ایک اندازے کے ساتھ آسمان سے پانی نازل کیا۔ پھر ہم نے اس سے شہر مردہ کو زندہ کیا۔ اسی طرح تم زمین سے نکالے جاؤ گے
+**English (Yusuf Ali):** That sends down (from time to time) rain from the sky in due measure;- and We raise to life therewith a land that is dead; even so will ye be raised (from the dead);-
 
 [Open on Quran.com](https://quran.com/43/11)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then when He wills, He will resurrect him.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر جب چاہے گا اسے اٹھا کھڑا کرے گا
+**English (Yusuf Ali):** Then, when it is His Will, He will raise him up (again).
 
 [Open on Quran.com](https://quran.com/80/22)
 

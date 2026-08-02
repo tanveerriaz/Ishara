@@ -18,27 +18,27 @@ The Bee · 128 ayahs
 - [[bTn - bellies]] — `بَطْن` · bellies
 - [[jrm - doubt]] — `جَرَم` · doubt
 - [[lsAn - tongues]] — `لِسان` · tongues
-- [[ySf - they attribute]] — `يَصِفُ` · they attribute
-- [[nqDt - break]] — `نَقَضَتْ` · break
-- [[dAbp - moving creature]] — `دابَّة` · moving creature
-- [[tEAlY - exalted he]] — `تَعالَى` · exalted he
-- [[lHm - flesh]] — `لَحْم` · flesh
-- [[Dr - adversity]] — `ضَرّ` · adversity
-- [[Enb - grapes]] — `عِنَب` · grapes
 - [[njm - stars]] — `نَجْم` · stars
-- [[dm - blood]] — `دَم` · blood
 - [[>nvY - female]] — `أُنثَى` · female
-- [[HlAl - lawful]] — `حَلال` · lawful
-- [[Hnyf - upright]] — `حَنِيف` · upright
-- [[nxyl - date-palms]] — `نَخِيل` · date-palms
-- [[blAg - conveyance]] — `بَلاغ` · conveyance
-- [[rwH - spirit]] — `رُوح` · spirit
+- [[r'wf - full kindness]] — `رَءُوف` · full kindness
 - [[ytfkr - reflect]] — `يَتَفَكَّرُ` · reflect
-- [[$jr - trees]] — `شَجَرَ` · trees
+- [[blAg - conveyance]] — `بَلاغ` · conveyance
+- [[nqDt - break]] — `نَقَضَتْ` · break
+- [[Dr - adversity]] — `ضَرّ` · adversity
+- [[Hnyf - upright]] — `حَنِيف` · upright
+- [[slm - peace]] — `سِلْم` · peace
+- [[lHm - flesh]] — `لَحْم` · flesh
+- [[dAbp - moving creature]] — `دابَّة` · moving creature
+- [[HlAl - lawful]] — `حَلال` · lawful
+- [[lwn - colors]] — `لَوْن` · colors
+- [[Enb - grapes]] — `عِنَب` · grapes
 - [[mxtlf - various]] — `مُخْتَلِف` · various
-- [[>Eln - they declare]] — `أَعْلَن` · they declare
 - [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[mstkbr - arrogant]] — `مُسْتَكْبِر` · arrogant
+- [[$jr - trees]] — `شَجَرَ` · trees
+- [[dm - blood]] — `دَم` · blood
 - [[>sr - they conceal]] — `أَسَرَّ` · they conceal
+- [[rwH - spirit]] — `رُوح` · spirit
 
 ## Roots
 

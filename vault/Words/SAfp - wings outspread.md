@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 24:41 · [[024 An-Nur]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you not see that Allāh is exalted by whomever is within the heavens and the earth and [by] the birds with wings spread [in flight]? Each [of them] has known his [means of] prayer and exalting [Him], and Allāh is Knowing of what they do.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ جو لوگ آسمانوں اور زمین میں ہیں خدا کی تسبیح کرتے ہیں اور پر پھیلائے ہوئے جانور بھی۔ اور سب اپنی نماز اور تسبیح کے طریقے سے واقف ہیں۔ اور جو کچھ وہ کرتے ہیں (سب) خدا کو معلوم ہے
+**English (Yusuf Ali):** Seest thou not that it is Allah Whose praises all beings in the heavens and on earth do celebrate, and the birds (of the air) with wings outspread? Each one knows its own (mode of) prayer and praise. And Allah knows well all that they do.
 
 [Open on Quran.com](https://quran.com/24/41)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** By those [angels] lined up in rows
 
-**Urdu (Fatah Muhammad Jalandhari):** قسم ہے صف باندھنے والوں کی پرا جما کر
+**English (Yusuf Ali):** By those who range themselves in ranks,
 
 [Open on Quran.com](https://quran.com/37/1)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful. Indeed He is, of all things, Seeing.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے اپنے سروں پر اڑتے ہوئے جانوروں کو نہیں دیکھا جو پروں کو پھیلائے رہتے ہیں اور ان کو سکیڑ بھی لیتے ہیں۔ خدا کے سوا انہیں کوئی تھام نہیں سکتا۔ بےشک وہ ہر چیز کو دیکھ رہا ہے
+**English (Yusuf Ali):** Do they not observe the birds above them, spreading their wings and folding them in? None can uphold them except (Allah) Most Gracious: truly it is He that watches over all things.
 
 [Open on Quran.com](https://quran.com/67/19)
 

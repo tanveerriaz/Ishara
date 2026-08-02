@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:136 · [[007 Al-Araf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We took retribution from them, and We drowned them in the sea because they denied Our signs and were heedless of them.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان سے بدلہ لے کر ہی چھوڑا کہ ان کو دریا میں ڈبو دیا اس لیے کہ وہ ہماری آیتوں کو جھٹلاتے اور ان سے بےپروائی کرتے تھے
+**English (Yusuf Ali):** So We exacted retribution from them: We drowned them in the sea, because they rejected Our Signs and failed to take warning from them.
 
 [Open on Quran.com](https://quran.com/7/136)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Saying], 'Cast him into the chest and cast it into the river, and the river will throw it onto the bank; there will take him an enemy to Me and an enemy to him.' And I bestowed upon you love from Me that you would be brought up under My eye [i.e., observation and care].
 
-**Urdu (Fatah Muhammad Jalandhari):** (وہ یہ تھا) کہ اسے (یعنی موسیٰ کو) صندوق میں رکھو پھر اس (صندوق) کو دریا میں ڈال دو تو دریا اسے کنارے پر ڈال دے گا (اور) میرا اور اس کا دشمن اسے اٹھا لے گا۔ اور (موسیٰ) میں نے تم پر اپنی طرف سے محبت ڈال دی ہے (اس لئے کہ تم پر مہربانی کی جائے) اور اس لئے کہ تم میرے سامنے پرورش پاؤ
+**English (Yusuf Ali):** "'Throw (the child) into the chest, and throw (the chest) into the river: the river will cast him up on the bank, and he will be taken up by one who is an enemy to Me and an enemy to him': But I cast (the garment of) love over thee from Me: and (this) in order that thou mayest be reared under Mine eye.
 
 [Open on Quran.com](https://quran.com/20/39)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So Pharaoh pursued them with his soldiers, and there covered them from the sea that which covered them,
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر فرعون نے اپنے لشکر کے ساتھ ان کا تعاقب کیا تو دریا (کی موجوں) نے ان پر چڑھ کر انہیں ڈھانک لیا (یعنی ڈبو دیا)
+**English (Yusuf Ali):** Then Pharaoh pursued them with his forces, but the waters completely overwhelmed them and covered them up.
 
 [Open on Quran.com](https://quran.com/20/78)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Moses] said, "Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast.
 
-**Urdu (Fatah Muhammad Jalandhari):** (موسیٰ نے) کہا جا تجھ کو دنیا کی زندگی میں یہ (سزا) ہے کہ کہتا رہے کہ مجھ کو ہاتھ نہ لگانا اور تیرے لئے ایک اور وعدہ ہے (یعنی عذاب کا) جو تجھ سے ٹل نہ سکے گا اور جس معبود (کی پوجا) پر تو (قائم و) معتکف تھا اس کو دیکھ۔ ہم اسے جلادیں گے پھر اس (کی راکھ) کو اُڑا کر دریا میں بکھیر دیں گے
+**English (Yusuf Ali):** (Moses) said: "Get thee gone! but thy (punishment) in this life will be that thou wilt say, 'touch me not'; and moreover (for a future penalty) thou hast a promise that will not fail: Now look at thy god, of whom thou hast become a devoted worshipper: We will certainly (melt) it in a blazing fire and scatter it broadcast in the sea!"
 
 [Open on Quran.com](https://quran.com/20/97)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We inspired to the mother of Moses, "Suckle him; but when you fear for him, cast him into the river and do not fear and do not grieve. Indeed, We will return him to you and will make him [one] of the messengers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسٰی کی ماں کی طرف وحی بھیجی کہ اس کو دودھ پلاؤ جب تم کو اس کے بارے میں کچھ خوف پیدا ہو تو اسے دریا میں ڈال دینا اور نہ تو خوف کرنا اور نہ رنج کرنا۔ ہم اس کو تمہارے پاس واپس پہنچا دیں گے اور (پھر) اُسے پیغمبر بنا دیں گے
+**English (Yusuf Ali):** So We sent this inspiration to the mother of Moses: "Suckle (thy child), but when thou hast fears about him, cast him into the river, but fear not nor grieve: for We shall restore him to thee, and We shall make him one of Our messengers."
 
 [Open on Quran.com](https://quran.com/28/7)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We took him and his soldiers and threw them into the sea. So see how was the end of the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے اُن کو اور اُن کے لشکروں کو پکڑلیا اور دریا میں ڈال دیا۔ سو دیکھ لو ظالموں کا کیسا انجام ہوا
+**English (Yusuf Ali):** So We seized him and his hosts, and We flung them into the sea: Now behold what was the end of those who did wrong!
 
 [Open on Quran.com](https://quran.com/28/40)
 
@@ -137,7 +137,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We took him and his soldiers and cast them into the sea, and he was blameworthy.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے اس کو اور اس کے لشکروں کو پکڑ لیا اور ان کو دریا میں پھینک دیا اور وہ کام ہی قابل ملامت کرتا تھا
+**English (Yusuf Ali):** So We took him and his forces, and threw them into the sea; and his was the blame.
 
 [Open on Quran.com](https://quran.com/51/40)
 

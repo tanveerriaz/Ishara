@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:24 · [[003 Ali Imran]]
 
@@ -47,7 +47,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is because they say, "Never will the Fire touch us except for [a few] numbered days," and [because] they were deluded in their religion by what they were inventing.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ اس لیے کہ یہ اس بات کے قائل ہیں کہ (دوزخ کی) آگ ہمیں چند روز کے سوا چھو ہی نہیں سکے گی اور جو کچھ یہ دین کے بارے میں بہتان باندھتے رہے ہیں اس نے ان کو دھوکے میں ڈال رکھا ہے
+**English (Yusuf Ali):** This because they say: "The Fire shall not touch us but for a few numbered days": For their forgeries deceive them as to their own religion.
 
 [Open on Quran.com](https://quran.com/3/24)
 
@@ -63,7 +63,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Be not deceived by the [uninhibited] movement of the disbelievers throughout the land.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) کافروں کا شہروں میں چلنا پھرنا تمہیں دھوکا نہ دے
+**English (Yusuf Ali):** Let not the strutting about of the Unbelievers through the land deceive thee:
 
 [Open on Quran.com](https://quran.com/3/196)
 
@@ -79,7 +79,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And leave those who take their religion as amusement and diversion and whom the worldly life has deluded. But remind with it [i.e., the Qur’ān], lest a soul be given up to destruction for what it earned; it will have other than Allāh no protector and no intercessor. And if it should offer every compensation, it would not be taken from it [i.e., that soul]. Those are the ones who are given to destruction for what they have earned. For them will be a drink of scalding water and a painful punishment because they used to disbelieve.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے اپنےدین کو کھیل اور تماشا بنا رکھا ہے اور دنیا کی زندگی نے ان کو دھوکے میں ڈال رکھا ہے ان سے کچھ کام نہ رکھو ہاں اس (قرآن) کے ذریعے سے نصیحت کرتے رہو تاکہ (قیامت کے دن) کوئی اپنے اعمال کی سزا میں ہلاکت میں نہ ڈالا جائے (اس روز) خدا کےسوا نہ تو کوئی اس کا دوست ہوگا اور نہ سفارش کرنے والا۔ اور اگر وہ ہر چیز (جو روئے زمین پر ہے بطور) معاوضہ دینا چاہے تو وہ اس سے قبول نہ ہو یہی لوگ ہیں کہ اپنے اعمال کے وبال میں ہلاکت میں ڈالے گئے ان کے لئے پینے کو کھولتا ہوا پانی اور دکھ دینے والا عذاب ہے اس لئے کہ کفر کرتے تھے
+**English (Yusuf Ali):** Leave alone those who take their religion to be mere play and amusement, and are deceived by the life of this world. But proclaim (to them) this (truth): that every soul delivers itself to ruin by its own acts: it will find for itself no protector or intercessor except Allah: if it offered every ransom, (or reparation), none will be accepted: such is (the end of) those who deliver themselves to ruin by their own acts: they will have for drink (only) boiling water, and for punishment, one most grievous: for they persisted in rejecting Allah.
 
 [Open on Quran.com](https://quran.com/6/70)
 
@@ -95,7 +95,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** "O company of jinn and mankind, did there not come to you messengers from among you, relating to you My verses and warning you of the meeting of this Day of yours?" They will say, "We bear witness against ourselves"; and the worldly life had deluded them, and they will bear witness against themselves that they were disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے جنّوں اور انسانوں کی جماعت کیا تمہارے پاس تم ہی میں سے پیغمبر نہیں آتے رہے جو میری آیتیں تم کو پڑھ پڑھ کر سناتے اور اس دن کے سامنے آموجود ہونے سے ڈراتے تھے وہ کہیں گے کہ (پروردگار) ہمیں اپنے گناہوں کا اقرار ہے ان لوگوں کو دنیاکی زندگی نے دھوکے میں ڈال رکھا تھا اور (اب) خود اپنے اوپر گواہی دی کہ کفر کرتے تھے
+**English (Yusuf Ali):** "O ye assembly of Jinns and men! came there not unto you messengers from amongst you, setting forth unto you My signs, and warning you of the meeting of this Day of yours?" They will say: "We bear witness against ourselves." It was the life of this world that deceived them. So against themselves will they bear witness that they rejected Faith.
 
 [Open on Quran.com](https://quran.com/6/130)
 
@@ -111,7 +111,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who took their religion as distraction and amusement and whom the worldly life deluded." So today We will forget them just as they forgot the meeting of this Day of theirs and for having rejected Our verses.
 
-**Urdu (Fatah Muhammad Jalandhari):** جنہوں نے اپنے دین کو تماشا اور کھیل بنا رکھا تھا اور دنیا کی زندگی نے ان کو دھوکے میں ڈال رکھا تھا۔ تو جس طرح یہ لوگ اس دن کے آنے کو بھولے ہوئے اور ہماری آیتوں سے منکر ہو رہے تھے۔ اسی طرح آج ہم بھی انہیں بھلا دیں گے
+**English (Yusuf Ali):** "Such as took their religion to be mere amusement and play, and were deceived by the life of the world." That day shall We forget them as they forgot the meeting of this day of theirs, and as they were wont to reject Our signs.
 
 [Open on Quran.com](https://quran.com/7/51)
 
@@ -127,7 +127,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Remember] when the hypocrites and those in whose hearts was disease [i.e., arrogance and disbelief] said, "Their religion has deluded those [Muslims]." But whoever relies upon Allāh - then indeed, Allāh is Exalted in Might and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس وقت منافق اور (کافر) جن کے دلوں میں مرض تھا کہتے تھے کہ ان لوگوں کو ان کے دین نے مغرور کر رکھا ہے اور جو شخص خدا پر بھروسہ رکھتا ہے تو خدا غالب حکمت والا ہے
+**English (Yusuf Ali):** Lo! the hypocrites say, and those in whose hearts is a disease: "These people,- their religion has misled them." But if any trust in Allah, behold! Allah is Exalted in might, Wise.
 
 [Open on Quran.com](https://quran.com/8/49)
 
@@ -143,7 +143,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O mankind, fear your Lord and fear a Day when no father will avail his son, nor will a son avail his father at all. Indeed, the promise of Allāh is truth, so let not the worldly life delude you and be not deceived about Allāh by the Deceiver [i.e., Satan].
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو اپنے پروردگار سے ڈرو اور اُس دن کا خوف کرو کہ نہ تو باپ اپنے بیٹے کے کچھ کام آئے۔ اور نہ بیٹا باپ کے کچھ کام آسکے۔ بیشک خدا کا وعدہ سچا ہے پس دنیا کی زندگی تم کو دھوکے میں نہ ڈال دے۔ اور نہ فریب دینے والا (شیطان) تمہیں خدا کے بارے میں کسی طرح کا فریب دے
+**English (Yusuf Ali):** O mankind! do your duty to your Lord, and fear (the coming of) a Day when no father can avail aught for his son, nor a son avail aught for his father. Verily, the promise of Allah is true: let not then this present life deceive you, nor let the chief Deceiver deceive you about Allah.
 
 [Open on Quran.com](https://quran.com/31/33)
 
@@ -159,7 +159,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O mankind, indeed the promise of Allāh is truth, so let not the worldly life delude you and be not deceived about Allāh by the Deceiver [i.e., Satan].
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو خدا کا وعدہ سچا ہے۔ تو تم کو دنیا کی زندگی دھوکے میں نہ ڈال دے اور نہ (شیطان) فریب دینے والا تمہیں فریب دے
+**English (Yusuf Ali):** O men! Certainly the promise of Allah is true. Let not then this present life deceive you, nor let the Chief Deceiver deceive you about Allah.
 
 [Open on Quran.com](https://quran.com/35/5)
 
@@ -175,7 +175,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** No one disputes concerning the signs of Allāh except those who disbelieve, so be not deceived by their [uninhibited] movement throughout the land.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا کی آیتوں میں وہی لوگ جھگڑتے ہیں جو کافر ہیں۔ تو ان لوگوں کا شہروں میں چلنا پھرنا تمہیں دھوکے میں نہ ڈال دے
+**English (Yusuf Ali):** None can dispute about the Signs of Allah but the Unbelievers. Let not, then, their strutting about through the land deceive thee!
 
 [Open on Quran.com](https://quran.com/40/4)
 
@@ -191,7 +191,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is because you took the verses of Allāh in ridicule, and worldly life deluded you." So that Day they will not be removed from it, nor will they be asked to appease [Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ اس لئے کہ تم نے خدا کی آیتوں کو مخول بنا رکھا تھا اور دنیا کی زندگی نے تم کو دھوکے میں ڈال رکھا تھا۔ سو آج یہ لوگ نہ دوزخ سے نکالے جائیں گے اور نہ ان کی توبہ قبول کی جائے گی
+**English (Yusuf Ali):** "This, because ye used to take the Signs of Allah in jest, and the life of the world deceived you:" (From) that Day, therefore, they shall not be taken out thence, nor shall they be received into Grace.
 
 [Open on Quran.com](https://quran.com/45/35)
 

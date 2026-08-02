@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 12:2 · [[012 Yusuf]]
 
@@ -47,7 +47,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, We have sent it down as an Arabic Qur’ān that you might understand.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم نے اس قرآن کو عربی میں نازل کیا ہے تاکہ تم سمجھ سکو
+**English (Yusuf Ali):** We have sent it down as an Arabic Qur'an, in order that ye may learn wisdom.
 
 [Open on Quran.com](https://quran.com/12/2)
 
@@ -63,7 +63,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus We have revealed it as an Arabic legislation. And if you should follow their inclinations after what has come to you of knowledge, you would not have against Allāh any ally or any protector.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے اس قرآن کو عربی زبان کا فرمان نازل کیا ہے۔ اور اگر تم علم (ودانش) آنے کے بعد ان لوگوں کی خواہشوں کے پیچھے چلو گے تو خدا کے سامنے کوئی نہ تمہارا مددگار ہوگا اور نہ کوئی بچانے والا
+**English (Yusuf Ali):** Thus have We revealed it to be a judgment of authority in Arabic. Wert thou to follow their (vain) desires after the knowledge which hath reached thee, then wouldst thou find neither protector nor defender against Allah.
 
 [Open on Quran.com](https://quran.com/13/37)
 
@@ -79,7 +79,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We certainly know that they say, "It is only a human being who teaches him [i.e., the Prophet (ﷺ)]." The tongue of the one they refer to is foreign, and this [recitation, i.e., Qur’ān] is [in] a clear Arabic language.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہمیں معلوم ہے کہ یہ کہتے ہیں کہ اس (پیغمبر) کو ایک شخص سکھا جاتا ہے۔ مگر جس کی طرف (تعلیم کی) نسبت کرتے ہیں اس کی زبان تو عجمی ہے اور یہ صاف عربی زبان ہے
+**English (Yusuf Ali):** We know indeed that they say, "It is a man that teaches him." The tongue of him they wickedly point to is notably foreign, while this is Arabic, pure and clear.
 
 [Open on Quran.com](https://quran.com/16/103)
 
@@ -95,7 +95,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus We have sent it down as an Arabic Qur’ān and have diversified therein the warnings that perhaps they will avoid [sin] or it would cause them remembrance.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس کو اسی طرح کا قرآن عربی نازل کیا ہے اور اس میں طرح طرح کے ڈراوے بیان کردیئے ہیں تاکہ لوگ پرہیزگار بنیں یا خدا ان کے لئے نصیحت پیدا کردے
+**English (Yusuf Ali):** Thus have We sent this down - an arabic Qur'an - and explained therein in detail some of the warnings, in order that they may fear Allah, or that it may cause their remembrance (of Him).
 
 [Open on Quran.com](https://quran.com/20/113)
 
@@ -111,7 +111,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In a clear Arabic language.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (القا بھی) فصیح عربی زبان میں (کیا ہے)
+**English (Yusuf Ali):** In the perspicuous Arabic tongue.
 
 [Open on Quran.com](https://quran.com/26/195)
 
@@ -127,7 +127,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [It is] an Arabic Qur’ān, without any deviance that they might become righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ) قرآن عربی (ہے) جس میں کوئی عیب (اور اختلاف) نہیں تاکہ وہ ڈر مانیں
+**English (Yusuf Ali):** (It is) a Qur'an in Arabic, without any crookedness (therein): in order that they may guard against Evil.
 
 [Open on Quran.com](https://quran.com/39/28)
 
@@ -143,7 +143,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** A Book whose verses have been detailed, an Arabic Qur’ān for a people who know,
 
-**Urdu (Fatah Muhammad Jalandhari):** کتاب جس کی آیتیں واضح (المعانی) ہیں (یعنی) قرآن عربی ان لوگوں کے لئے جو سمجھ رکھتے ہیں
+**English (Yusuf Ali):** A Book, whereof the verses are explained in detail;- a Qur'an in Arabic, for people who understand;-
 
 [Open on Quran.com](https://quran.com/41/3)
 
@@ -159,7 +159,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if We had made it a foreign [i.e., non-Arabic] Qur’ān, they would have said, "Why are its verses not explained in detail [in our language]? Is it a foreign [recitation] and an Arab [messenger]?" Say, "It is, for those who believe, a guidance and cure." And those who do not believe - in their ears is deafness, and it is upon them blindness. Those are being called from a distant place.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم اس قرآن کو غیر زبان عرب میں (نازل) کرتے تو یہ لوگ کہتے کہ اس کی آیتیں (ہماری زبان میں) کیوں کھول کر بیان نہیں کی گئیں۔ کیا (خوب کہ قرآن تو) عجمی اور (مخاطب) عربی۔ کہہ دو کہ جو ایمان لاتے ہیں ان کے لئے (یہ) ہدایت اور شفا ہے۔ اور جو ایمان نہیں لاتے ان کے کانوں میں گرانی (یعنی بہراپن) ہے اور یہ ان کے حق میں (موجب) نابینائی ہے۔ گرانی کے سبب ان کو (گویا) دور جگہ سے آواز دی جاتی ہے
+**English (Yusuf Ali):** Had We sent this as a Qur'an (in the language) other than Arabic, they would have said: "Why are not its verses explained in detail? What! (a Book) not in Arabic and (a Messenger an Arab?" Say: "It is a Guide and a Healing to those who believe; and for those who believe not, there is a deafness in their ears, and it is blindness in their (eyes): They are (as it were) being called from a place far distant!"
 
 [Open on Quran.com](https://quran.com/41/44)
 
@@ -175,7 +175,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus We have revealed to you an Arabic Qur’ān that you may warn the Mother of Cities [i.e., Makkah] and those around it and warn of the Day of Assembly, about which there is no doubt. A party will be in Paradise and a party in the Blaze.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح تمہارے پاس قرآن عربی بھیجا ہے تاکہ تم بڑے گاؤں (یعنی مکّے) کے رہنے والوں کو اور جو لوگ اس کے اردگرد رہتے ہیں ان کو رستہ دکھاؤ اور انہیں قیامت کے دن کا بھی جس میں کچھ شک نہیں ہے خوف دلاؤ۔ اس روز ایک فریق بہشت میں ہوگا اور ایک فریق دوزخ میں
+**English (Yusuf Ali):** Thus have We sent by inspiration to thee an Arabic Qur'an: that thou mayest warn the Mother of Cities and all around her,- and warn (them) of the Day of Assembly, of which there is no doubt: (when) some will be in the Garden, and some in the Blazing Fire.
 
 [Open on Quran.com](https://quran.com/42/7)
 
@@ -191,7 +191,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, We have made it an Arabic Qur’ān that you might understand.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہ ہم نے اس کو قرآن عربی بنایا ہے تاکہ تم سمجھو
+**English (Yusuf Ali):** We have made it a Qur'an in Arabic, that ye may be able to understand (and learn wisdom).
 
 [Open on Quran.com](https://quran.com/43/3)
 

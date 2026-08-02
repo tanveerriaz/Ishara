@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:177 · [[002 Al-Baqarah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+**English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
 
 [Open on Quran.com](https://quran.com/2/177)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Certainly were there in Joseph and his brothers signs for those who ask, [such as]
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں یوسف اور ان کے بھائیوں (کے قصے) میں پوچھنے والوں کے لیے (بہت سی) نشانیاں ہیں
+**English (Yusuf Ali):** Verily in Joseph and his brethren are signs (or symbols) for seekers (after Truth).
 
 [Open on Quran.com](https://quran.com/12/7)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And He placed on it [i.e., the earth] firmly set mountains over its surface, and He blessed it and determined therein its [creatures'] sustenance in four days without distinction - for [the information of] those who ask.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے زمین میں اس کے اوپر پہاڑ بنائے اور زمین میں برکت رکھی اور اس میں سب سامان معیشت مقرر کیا (سب) چار دن میں۔ (اور تمام) طلبگاروں کے لئے یکساں
+**English (Yusuf Ali):** He set on the (earth), mountains standing firm, high above it, and bestowed blessings on the earth, and measure therein all things to give them nourishment in due proportion, in four Days, in accordance with (the needs of) those who seek (Sustenance).
 
 [Open on Quran.com](https://quran.com/41/10)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And from their properties was [given] the right of the [needy] petitioner and the deprived.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے مال میں مانگنے والے اور نہ مانگنے والے (دونوں) کا حق ہوتا تھا
+**English (Yusuf Ali):** And in their wealth and possessions (was remembered) the right of the (needy,) him who asked, and him who (for some reason) was prevented (from asking).
 
 [Open on Quran.com](https://quran.com/51/19)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** A supplicant asked for a punishment bound to happen
 
-**Urdu (Fatah Muhammad Jalandhari):** ایک طلب کرنے والے نے عذاب طلب کیا جو نازل ہو کر رہے گا
+**English (Yusuf Ali):** A questioner asked about a Penalty to befall-
 
 [Open on Quran.com](https://quran.com/70/1)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** For the petitioner and the deprived -
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی) مانگنے والے کا۔ اور نہ مانگے والے والا کا
+**English (Yusuf Ali):** For the (needy) who asks and him who is prevented (for some reason from asking);
 
 [Open on Quran.com](https://quran.com/70/25)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And as for the petitioner, do not repel [him].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مانگنے والے کو جھڑکی نہ دینا
+**English (Yusuf Ali):** Nor repulse the petitioner (unheard);
 
 [Open on Quran.com](https://quran.com/93/10)
 

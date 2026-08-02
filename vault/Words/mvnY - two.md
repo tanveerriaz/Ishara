@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:3 · [[004 An-Nisa]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hands possess [i.e., slaves]. That is more suitable that you may not incline [to injustice].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو اس بات کا خوف ہو کہ یتیم لڑکیوں کے بارےانصاف نہ کرسکوگے تو ان کے سوا جو عورتیں تم کو پسند ہوں دو دو یا تین تین یا چار چار ان سے نکاح کرلو۔ اور اگر اس بات کا اندیشہ ہو کہ (سب عورتوں سے) یکساں سلوک نہ کرسکو گے تو ایک عورت (کافی ہے) یا لونڈی جس کے تم مالک ہو۔ اس سے تم بےانصافی سے بچ جاؤ گے
+**English (Yusuf Ali):** If ye fear that ye shall not be able to deal justly with the orphans, Marry women of your choice, Two or three or four; but if ye fear that ye shall not be able to deal justly (with them), then only one, or (a captive) that your right hands possess, that will be more suitable, to prevent you from doing injustice.
 
 [Open on Quran.com](https://quran.com/4/3)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "I only advise you of one [thing] - that you stand for Allāh, [seeking truth] in pairs and individually, and then give thought." There is not in your companion any madness. He is only a warner to you before a severe punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں تمہیں صرف ایک بات کی نصیحت کرتا ہوں کہ تم خدا کے لئے دو دو اور اکیلے اکیلے کھڑے ہوجاؤ پھر غور کرو۔ تمہارے رفیق کو سودا نہیں وہ تم کو عذاب سخت (کے آنے) سے پہلے صرف ڈرانے والے ہیں
+**English (Yusuf Ali):** Say: "I do admonish you on one point: that ye do stand up before Allah,- (It may be) in pairs, or (it may be) singly,- and reflect (within yourselves): your Companion is not possessed: he is no less than a warner to you, in face of a terrible Penalty."
 
 [Open on Quran.com](https://quran.com/34/46)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [All] praise is [due] to Allāh, Creator of the heavens and the earth, [who] made the angels messengers having wings, two or three or four. He increases in creation what He wills. Indeed, Allāh is over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** سب تعریف خدا ہی کو (سزاوار ہے) جو آسمانوں اور زمین کا پیدا کرنے والا (اور) فرشتوں کو قاصد بنانے والا ہے جن کے دو دو اور تین تین اور چار چار پر ہیں۔ وہ (اپنی) مخلوقات میں جو چاہتا ہے بڑھاتا ہے۔ بےشک خدا ہر چیز پر قادر ہے
+**English (Yusuf Ali):** Praise be to Allah, Who created (out of nothing) the heavens and the earth, Who made the angels, messengers with wings,- two, or three, or four (pairs): He adds to Creation as He pleases: for Allah has power over all things.
 
 [Open on Quran.com](https://quran.com/35/1)
 

@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 8:42 · [[008 Al-Anfal]]
 
@@ -47,7 +47,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Remember] when you were on the near side of the valley, and they were on the farther side, and the caravan was lower [in position] than you. If you had made an appointment [to meet], you would have missed the appointment. But [it was] so that Allāh might accomplish a matter already destined - that those who perished [through disbelief] would perish upon evidence and those who lived [in faith] would live upon evidence; and indeed, Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس وقت تم (مدینے سے) قریب کے ناکے پر تھے اور کافر بعید کے ناکے پر اور قافلہ تم سے نیچے (اتر گیا) تھا۔ اور اگر تم (جنگ کے لیے) آپس میں قرارداد کرلیتے تو وقت معین (پر جمع ہونے) میں تقدیم وتاخیر ہو جاتی۔ لیکن خدا کو منظور تھا کہ جو کام ہو کر رہنے والا تھا اسے کر ہی ڈالے تاکہ جو مرے بصیرت پر (یعنی یقین جان کر) مرے اور جو جیتا رہے وہ بھی بصیرت پر (یعنی حق پہچان کر) جیتا رہے۔ اور کچھ شک نہیں کہ خدا سنتا جانتا ہے
+**English (Yusuf Ali):** Remember ye were on the hither side of the valley, and they on the farther side, and the caravan on lower ground than ye. Even if ye had made a mutual appointment to meet, ye would certainly have failed in the appointment: But (thus ye met), that Allah might accomplish a matter already enacted; that those who died might die after a clear Sign (had been given), and those who lived might live after a Clear Sign (had been given). And verily Allah is He Who heareth and knoweth (all things).
 
 [Open on Quran.com](https://quran.com/8/42)
 
@@ -63,7 +63,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [Noah] said, "Embark therein; in the name of Allāh [are] its course and its anchorage. Indeed, my Lord is Forgiving and Merciful."
 
-**Urdu (Fatah Muhammad Jalandhari):** (نوح نے) کہا کہ خدا کا نام لے کر (کہ اسی کے ہاتھ میں اس کا) چلنا اور ٹھہرنا (ہے) اس میں سوار ہوجاؤ۔ بےشک میرا پروردگار بخشنے والا مہربان ہے
+**English (Yusuf Ali):** So he said: "Embark ye on the Ark, In the name of Allah, whether it move or be at rest! For my Lord is, be sure, Oft-Forgiving, Most Merciful!"
 
 [Open on Quran.com](https://quran.com/11/41)
 
@@ -79,7 +79,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it sailed with them through waves like mountains, and Noah called to his son who was apart [from them], "O my son, come aboard with us and be not with the disbelievers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ ان کو لے کر (طوفان کی) لہروں میں چلنے لگی۔ (لہریں کیا تھیں) گویا پہاڑ (تھے) اس وقت نوح نے اپنے بیٹے کو کہ جو (کشتی سے) الگ تھا، پکارا کہ بیٹا ہمارے ساتھ سوار ہوجا اور کافروں میں شامل نہ ہو
+**English (Yusuf Ali):** So the Ark floated with them on the waves (towering) like mountains, and Noah called out to his son, who had separated himself (from the rest): "O my son! embark with us, and be not with the unbelievers!"
 
 [Open on Quran.com](https://quran.com/11/42)
 
@@ -95,7 +95,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [He created] the horses, mules and donkeys for you to ride and [as] adornment. And He creates that which you do not know.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی نے گھوڑے اور خچر اور گدھے پیدا کئے تاکہ تم ان پر سوار ہو اور (وہ تمہارے لیے) رونق وزینت (بھی ہیں) اور وہ (اور چیزیں بھی) پیدا کرتا ہے جن کی تم کو خبر نہیں
+**English (Yusuf Ali):** And (He has created) horses, mules, and donkeys, for you to ride and use for show; and He has created (other) things of which ye have no knowledge.
 
 [Open on Quran.com](https://quran.com/16/8)
 
@@ -111,7 +111,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So they set out, until when they had embarked on the ship, he [i.e., al-Khiḍr] tore it open. [Moses] said, "Have you torn it open to drown its people? You have certainly done a grave thing."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو دونوں چل پڑے۔ یہاں تک کہ جب کشتی میں سوار ہوئے تو (خضر نے) کشتی کو پھاڑ ڈالا۔ (موسیٰ نے) کہا کیا آپ نے اس لئے پھاڑا ہے کہ سواروں کو غرق کردیں یہ تو آپ نے بڑی (عجیب) بات کی
+**English (Yusuf Ali):** So they both proceeded: until, when they were in the boat, he scuttled it. Said Moses: "Hast thou scuttled it in order to drown those in it? Truly a strange thing hast thou done!"
 
 [Open on Quran.com](https://quran.com/18/71)
 
@@ -127,7 +127,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when they board a ship, they supplicate Allāh, sincere to Him in religion [i.e., faith and hope]. But when He delivers them to the land, at once they associate others with Him
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر جب یہ کشتی میں سوار ہوتے ہیں تو خدا کو پکارتے (اور) خالص اُسی کی عبادت کرتے ہیں۔ لیکن جب وہ اُن کو نجات دے کر خشکی پر پہنچا دیتا ہے تو جھٹ شرک کرنے لگے جاتے ہیں
+**English (Yusuf Ali):** Now, if they embark on a boat, they call on Allah, making their devotion sincerely (and exclusively) to Him; but when He has delivered them safely to (dry) land, behold, they give a share (of their worship to others)!-
 
 [Open on Quran.com](https://quran.com/29/65)
 
@@ -143,7 +143,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We created for them from the likes of it that which they ride.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے لئے ویسی ہی اور چیزیں پیدا کیں جن پر وہ سوار ہوتے ہیں
+**English (Yusuf Ali):** And We have created for them similar (vessels) on which they ride.
 
 [Open on Quran.com](https://quran.com/36/42)
 
@@ -159,7 +159,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is Allāh who made for you the grazing animals upon which you ride, and some of them you eat.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے تمہارے لئے چارپائے بنائے تاکہ ان میں سے بعض پر سوار ہو اور بعض کو تم کھاتے ہو
+**English (Yusuf Ali):** It is Allah Who made cattle for you, that ye may use some for riding and some for food;
 
 [Open on Quran.com](https://quran.com/40/79)
 
@@ -175,7 +175,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And who created the species, all of them, and has made for you of ships and animals those which you mount
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس نے تمام قسم کے حیوانات پیدا کئے اور تمہارے لئے کشتیاں اور چارپائے بنائے جن پر تم سوار ہوتے ہو
+**English (Yusuf Ali):** That has created pairs in all things, and has made for you ships and cattle on which ye ride,
 
 [Open on Quran.com](https://quran.com/43/12)
 
@@ -191,7 +191,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In whatever form He willed has He assembled you.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس صورت میں چاہا تجھے جوڑ دیا
+**English (Yusuf Ali):** In whatever Form He wills, does He put thee together.
 
 [Open on Quran.com](https://quran.com/82/8)
 

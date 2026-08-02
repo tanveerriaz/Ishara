@@ -16,29 +16,29 @@ The Cloaked One · 56 ayahs
 
 - [[t*krp - reminder]] — `تَذْكِرَة` · reminder
 - [[>dbr - turned back]] — `أَدْبَرَ` · turned back
-- [[bnY - children]] — `بُنَىّ` · children
-- [[qAl - say]] — `قالَ` · say
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[qmr - moon]] — `قَمَر` · moon
-- [[mhd - cradle]] — `مَهْد` · cradle
-- [[Amr} - person]] — `امْرِئ` · person
-- [[nZr - see]] — `نَظَرَ` · see
-- [[ftnp - trial]] — `فِتْنَة` · trial
-- [[qwl - speech]] — `قَوْل` · speech
-- [[gyr - without]] — `غَيْر` · without
-- [[>n*r - warn]] — `أَنذَرَ` · warn
+- [[n*yr - warner]] — `نَذِير` · warner
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[nAr - fire]] — `نار` · fire
+- [[lyl - night]] — `لَيْل` · night
 - [[qdr - restricts]] — `قَدَر` · restricts
-- [[Ahjr - forsake them]] — `اهْجُرْ` · forsake them
+- [[yTmE - hope]] — `يَطْمَعُ` · hope
+- [[yqyn - certainty]] — `يَقِين` · certainty
+- [[SHf - scriptures]] — `صُحُف` · scriptures
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[Enyd - obstinate]] — `عَنِيد` · obstinate
+- [[jnd - hosts]] — `جُند` · hosts
+- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[mrD - disease]] — `مَرَض` · disease
+- [[>y - o you]] — `أَيّ` · o you
+- [[E$r - ten]] — `عَشْر` · ten
+- [[<HdY - one them]] — `إِحْدَى` · one them
+- [[mErD - turn away]] — `مُعْرِض` · turn away
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[$fAEp - intercession]] — `شَفاعَة` · intercession
 - [[zAd - increase]] — `زادَ` · increase
-- [[Sbr - patient]] — `صَبْر` · patient
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[mlk - angels]] — `مَلَك` · angels
-- [[Elm - know]] — `عَلِمَ` · know
-- [[frt - you flee]] — `فَرَّتْ` · you flee
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[>hl - people]] — `أَهْل` · people
-- [[nfs - themselves]] — `نَفْس` · themselves
+- [[ArtAb - you doubt]] — `ارْتابَ` · you doubt
 
 ## Roots
 

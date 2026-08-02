@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 39:71 · [[039 Az-Zumar]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who disbelieved will be driven to Hell in groups until, when they reach it, its gates are opened and its keepers will say, "Did there not come to you messengers from yourselves, reciting to you the verses of your Lord and warning you of the meeting of this Day of yours?" They will say, "Yes, but the word [i.e., decree] of punishment has come into effect upon the disbelievers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کافروں کو گروہ گروہ بنا کر جہنم کی طرف لے جائیں گے۔ یہاں تک کہ جب وہ اس کے پاس پہنچ جائیں گے تو اس کے دروازے کھول دیئے جائیں گے تو اس کے داروغہ ان سے کہیں گے کہ کیا تمہارے پاس تم ہی میں سے پیغمبر نہیں آئے تھے جو تم کو تمہارے پروردگار کی آیتیں پڑھ پڑھ کر سناتے اور اس دن کے پیش آنے سے ڈراتے تھے کہیں گے کیوں نہیں لیکن کافروں کے حق میں عذاب کا حکم متحقق ہوچکا تھا
+**English (Yusuf Ali):** The Unbelievers will be led to Hell in crowd: until, when they arrive, there, its gates will be opened. And its keepers will say, "Did not messengers come to you from among yourselves, rehearsing to you the Signs of your Lord, and warning you of the Meeting of This Day of yours?" The answer will be: "True: but the Decree of Punishment has been proved true against the Unbelievers!"
 
 [Open on Quran.com](https://quran.com/39/71)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those who feared their Lord will be driven to Paradise in groups until, when they reach it while its gates have been opened and its keepers say, "Peace be upon you; you have become pure; so enter it to abide eternally therein," [they will enter].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ اپنے پروردگار سے ڈرتے ہیں ان کو گروہ گروہ بنا کر بہشت کی طرف لے جائیں گے یہاں تک کہ جب اس کے پاس پہنچ جائیں گے اور اس کے دروازے کھول دیئے جائیں گے تو اس کے داروغہ ان سے کہیں کہ تم پر سلام تم بہت اچھے رہے۔ اب اس میں ہمیشہ کے لئے داخل ہوجاؤ
+**English (Yusuf Ali):** And those who feared their Lord will be led to the Garden in crowds: until behold, they arrive there; its gates will be opened; and its keepers will say: "Peace be upon you! well have ye done! enter ye here, to dwell therein."
 
 [Open on Quran.com](https://quran.com/39/73)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those in the Fire will say to the keepers of Hell, "Supplicate your Lord to lighten for us a day from the punishment."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ آگ میں (جل رہے) ہوں گے وہ دوزخ کے داروغوں سے کہیں گے کہ اپنے پروردگار سے دعا کرو کہ ایک روز تو ہم سے عذاب ہلکا کردے
+**English (Yusuf Ali):** Those in the Fire will say to the Keepers of Hell: "Pray to your Lord to lighten us the Penalty for a day (at least)!"
 
 [Open on Quran.com](https://quran.com/40/49)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, "Did there not come to you a warner?"
 
-**Urdu (Fatah Muhammad Jalandhari):** گویا مارے جوش کے پھٹ پڑے گی۔ جب اس میں ان کی کوئی جماعت ڈالی جائے گی تو دوزخ کے داروغہ ان سے پوچھیں گے کہ تمہارے پاس کوئی ہدایت کرنے والا نہیں آیا تھا؟
+**English (Yusuf Ali):** Almost bursting with fury: Every time a Group is cast therein, its Keepers will ask, "Did no Warner come to you?"
 
 [Open on Quran.com](https://quran.com/67/8)
 

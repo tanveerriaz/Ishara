@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:65 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you had already known about those who transgressed among you concerning the sabbath, and We said to them, "Be apes, despised."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم ان لوگوں کو خوب جانتے ہوں، جو تم میں سے ہفتے کے دن (مچھلی کا شکار کرنے) میں حد سے تجاوز کر گئے تھے، تو ہم نے ان سے کہا کہ ذلیل وخوار بندر ہو جاؤ
+**English (Yusuf Ali):** And well ye knew those amongst you who transgressed in the matter of the Sabbath: We said to them: "Be ye apes, despised and rejected."
 
 [Open on Quran.com](https://quran.com/2/65)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who were given the Scripture, believe in what We have sent down [to Prophet Muḥammad (ﷺ)], confirming that which is with you, before We obliterate faces and turn them toward their backs or curse them as We cursed the sabbath-breakers. And ever is the matter [i.e., decree] of Allāh accomplished.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے کتاب والو! قبل اس کے کہ ہم لوگوں کے مونہوں کو بگاڑ کر ان کی پیٹھ کی طرف پھیر دیں یا ان پر اس طرح لعنت کریں جس طرح ہفتے والوں پر کی تھی ہماری نازل کی ہوئی کتاب پر جو تمہاری کتاب کی بھی تصدیق کرتی ہے ایمان لے آؤ اور خدا نے جو حکم فرمایا سو (سمجھ لو کہ) ہوچکا
+**English (Yusuf Ali):** O ye People of the Book! believe in what We have (now) revealed, confirming what was (already) with you, before We change the face and fame of some (of you) beyond all recognition, and turn them hindwards, or curse them as We cursed the Sabbath-breakers, for the decision of Allah Must be carried out.
 
 [Open on Quran.com](https://quran.com/4/47)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We raised over them the mount for [refusal of] their covenant; and We said to them, "Enter the gate bowing humbly"; and We said to them, "Do not transgress on the sabbath"; and We took from them a solemn covenant.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان سے عہد لینے کو ہم نے ان پر کوہ طور اٹھا کھڑا کیا اور انہیں حکم دیا کہ (شہر کے) دروازے میں (داخل ہونا تو) سجدہ کرتے ہوئے داخل ہونا اور یہ بھی حکم دیا کہ ہفتے کے دن (مچھلیاں پکڑنے) میں تجاویز (یعنی حکم کے خلاف) نہ کرنا۔ غرض ہم نے ان سے مضبوط عہد لیا
+**English (Yusuf Ali):** And for their covenant we raised over them (the towering height) of Mount (Sinai); and (on another occasion) we said: "Enter the gate with humility"; and (once again) we commanded them: "Transgress not in the matter of the sabbath." And we took from them a solemn covenant.
 
 [Open on Quran.com](https://quran.com/4/154)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And ask them about the town that was by the sea - when they transgressed in [the matter of] the sabbath - when their fish came to them openly on their sabbath day, and the day they had no sabbath they did not come to them. Thus did We give them trial because they were defiantly disobedient.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان سے اس گاؤں کا حال تو پوچھو جب لب دریا واقع تھا۔ جب یہ لوگ ہفتے کے دن کے بارے میں حد سے تجاوز کرنے لگے (یعنی) اس وقت کہ ان کے ہفتے کے دن مچھلیاں ان کے سامنے پانی کے اوپر آتیں اور جب ہفتے کا دن نہ ہوتا تو نہ آتیں۔ اسی طرح ہم ان لوگوں کو ان کی نافرمانیوں کے سبب آزمائش میں ڈالنے لگے
+**English (Yusuf Ali):** Ask them concerning the town standing close by the sea. Behold! they transgressed in the matter of the Sabbath. For on the day of their Sabbath their fish did come to them, openly holding up their heads, but on the day they had no Sabbath, they came not: thus did We make a trial of them, for they were given to transgression.
 
 [Open on Quran.com](https://quran.com/7/163)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The sabbath was only appointed for those who differed over it. And indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہفتے کا دن تو ان ہی لوگوں کے لئے مقرر کیا گیا تھا۔ جنہوں نے اس میں اختلاف کیا۔ اور تمہارا پروردگار قیامت کے دن ان میں ان باتوں کا فیصلہ کردے گا جن میں وہ اختلاف کرتے تھے
+**English (Yusuf Ali):** The Sabbath was only made (strict) for those who disagreed (as to its observance); But Allah will judge between them on the Day of Judgment, as to their differences.
 
 [Open on Quran.com](https://quran.com/16/124)
 

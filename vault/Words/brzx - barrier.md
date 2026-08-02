@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 23:100 · [[023 Al-Muminun]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That I might do righteousness in that which I left behind." No! It is only a word he is saying; and behind them is a barrier until the Day they are resurrected.
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ میں اس میں جسے چھوڑ آیا ہوں نیک کام کیا کروں۔ ہرگز نہیں۔ یہ ایک ایسی بات ہے کہ وہ اسے زبان سے کہہ رہا ہوگا (اور اس کے ساتھ عمل نہیں ہوگا) اور اس کے پیچھے برزخ ہے (جہاں وہ) اس دن تک کہ (دوبارہ) اٹھائے جائیں گے، (رہیں گے)
+**English (Yusuf Ali):** "In order that I may work righteousness in the things I neglected." - "By no means! It is but a word he says."- Before them is a Partition till the Day they are raised up.
 
 [Open on Quran.com](https://quran.com/23/100)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who has released [simultaneously] the two seas [i.e., bodies of water], one fresh and sweet and one salty and bitter, and He placed between them a barrier and prohibiting partition.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے دو دریاؤں کو ملا دیا ایک کا پانی شیریں ہے پیاس بجھانے والا اور دوسرے کا کھاری چھاتی جلانے والا۔ اور دونوں کے درمیان ایک آڑ اور مضبوط اوٹ بنادی
+**English (Yusuf Ali):** It is He Who has let free the two bodies of flowing water: One palatable and sweet, and the other salt and bitter; yet has He made a barrier between them, a partition that is forbidden to be passed.
 
 [Open on Quran.com](https://quran.com/25/53)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Between them is a barrier so neither of them transgresses.
 
-**Urdu (Fatah Muhammad Jalandhari):** دونوں میں ایک آڑ ہے کہ (اس سے) تجاوز نہیں کرسکتے
+**English (Yusuf Ali):** Between them is a Barrier which they do not transgress:
 
 [Open on Quran.com](https://quran.com/55/20)
 

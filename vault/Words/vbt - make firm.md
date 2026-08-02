@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:250 · [[002 Al-Baqarah]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when they went forth to [face] Goliath and his soldiers, they said, "Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب وہ لوگ جالوت اور اس کے لشکر کے مقابل آئے تو (خدا سے) دعا کی کہ اے پروردگار ہم پر صبر کے دہانے کھول دے اور ہمیں (لڑائی میں) ثابت قدم رکھ اور (لشکر) کفار پر فتحیاب کر
+**English (Yusuf Ali):** When they advanced to meet Goliath and his forces, they prayed: "Our Lord! Pour out constancy on us and make our steps firm: Help us against those that reject faith."
 
 [Open on Quran.com](https://quran.com/2/250)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And their words were not but that they said, "Our Lord, forgive us our sins and the excess [committed] in our affairs and plant firmly our feet and give us victory over the disbelieving people."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (اس حالت میں) ان کے منہ سے کوئی بات نکلتی ہے تو یہی کہ اے پروردگار ہمارے گناہ اور زیادتیاں جو ہم اپنے کاموں میں کرتے رہے ہیں معاف فرما اور ہم کو ثابت قدم رکھ اور کافروں پر فتح عنایت فرما
+**English (Yusuf Ali):** All that they said was: "Our Lord! Forgive us our sins and anything We may have done that transgressed our duty: Establish our feet firmly, and help us against those that resist Faith."
 
 [Open on Quran.com](https://quran.com/3/147)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Remember] when He overwhelmed you with drowsiness [giving] security from Him and sent down upon you from the sky, rain by which to purify you and remove from you the evil [suggestions] of Satan and to make steadfast your hearts and plant firmly thereby your feet.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب اس نے (تمہاری) تسکین کے لیے اپنی طرف سے تمہیں نیند (کی چادر) اُڑھا دی اور تم پر آسمان سے پانی برسادیا تاکہ تم کو اس سے (نہلا کر) پاک کر دے اور شیطانی نجاست کو تم سے دور کردے۔ اور اس لیے بھی کہ تمہارے دلوں کو مضبوط کردے اور اس سے تمہارے پاؤں جمائے رکھے
+**English (Yusuf Ali):** Remember He covered you with a sort of drowsiness, to give you calm as from Himself, and he caused rain to descend on you from heaven, to clean you therewith, to remove from you the stain of Satan, to strengthen your hearts, and to plant your feet firmly therewith.
 
 [Open on Quran.com](https://quran.com/8/11)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Remember] when your Lord inspired to the angels, "I am with you, so strengthen those who have believed. I will cast terror into the hearts of those who disbelieved, so strike [them] upon the necks and strike from them every fingertip."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب تمہارا پروردگار فرشتوں کو ارشاد فرماتا تھا کہ میں تمہارے ساتھ ہوں تم مومنوں کو تسلی دو کہ ثابت قدم رہیں۔ میں ابھی ابھی کافروں کے دلوں میں رعب وہیبت ڈالے دیتا ہوں تو ان کے سر مار (کر) اڑا دو اور ان کا پور پور مار (کر توڑ) دو
+**English (Yusuf Ali):** Remember thy Lord inspired the angels (with the message): "I am with you: give firmness to the Believers: I will instil terror into the hearts of the Unbelievers: smite ye above their necks and smite all their finger-tips off them."
 
 [Open on Quran.com](https://quran.com/8/12)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And each [story] We relate to you from the news of the messengers is that by which We make firm your heart. And there has come to you, in this, the truth and an instruction and a reminder for the believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) اور پیغمبروں کے وہ سب حالات جو ہم تم سے بیان کرتے ہیں ان سے ہم تمہارے دل کو قائم رکھتے ہیں۔ اور ان (قصص) میں تمہارے پاس حق پہنچ گیا اور یہ مومنوں کے لیے نصیحت اور عبرت ہے
+**English (Yusuf Ali):** All that we relate to thee of the stories of the messengers,- with it We make firm thy heart: in them there cometh to thee the Truth, as well as an exhortation and a message of remembrance to those who believe.
 
 [Open on Quran.com](https://quran.com/11/120)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh keeps firm those who believe, with the firm word, in worldly life and in the Hereafter. And Allāh sends astray the wrongdoers. And Allāh does what He wills.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا مومنوں (کے دلوں) کو (صحیح اور) پکی بات سے دنیا کی زندگی میں بھی مضبوط رکھتا ہے اور آخرت میں بھی (رکھے گا) اور خدا بےانصافوں کو گمراہ کر دیتا ہے اور خدا جو چاہتا ہے کرتا ہے
+**English (Yusuf Ali):** Allah will establish in strength those who believe, with the word that stands firm, in this world and in the Hereafter; but Allah will leave, to stray, those who do wrong: Allah doeth what He willeth.
 
 [Open on Quran.com](https://quran.com/14/27)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "The Pure Spirit [i.e., Gabriel] has brought it down from your Lord in truth to make firm those who believe and as guidance and good tidings to the Muslims."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اس کو روح القدس تمہارے پروردگار کی طرف سے سچائی کے ساتھ لے کر نازل ہوئے ہیں تاکہ یہ (قرآن) مومنوں کو ثابت قدم رکھے اور حکم ماننے والوں کے لئے تو (یہ) ہدایت اور بشارت ہے
+**English (Yusuf Ali):** Say, the Holy Spirit has brought the revelation from thy Lord in Truth, in order to strengthen those who believe, and as a Guide and Glad Tidings to Muslims.
 
 [Open on Quran.com](https://quran.com/16/102)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if We had not strengthened you, you would have almost inclined to them a little.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو ثابت قدم نہ رہنے دیتے تو تم کسی قدر ان کی طرف مائل ہونے ہی لگے تھے
+**English (Yusuf Ali):** And had We not given thee strength, thou wouldst nearly have inclined to them a little.
 
 [Open on Quran.com](https://quran.com/17/74)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who disbelieve say, "Why was the Qur’ān not revealed to him all at once?" Thus [it is] that We may strengthen thereby your heart. And We have spaced it distinctly.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کافر کہتے ہیں کہ اس پر قرآن ایک ہی دفعہ کیوں نہیں اُتارا گیا۔ اس طرح (آہستہ آہستہ) اس لئے اُتارا گیا کہ اس سے تمہارے دل کو قائم رکھیں۔ اور اسی واسطے ہم اس کو ٹھہر ٹھہر کر پڑھتے رہے ہیں
+**English (Yusuf Ali):** Those who reject Faith say: "Why is not the Qur'an revealed to him all at once? Thus (is it revealed), that We may strengthen thy heart thereby, and We have rehearsed it to thee in slow, well-arranged stages, gradually.
 
 [Open on Quran.com](https://quran.com/25/32)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, if you support Allāh, He will support you and plant firmly your feet.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان! اگر تم خدا کی مدد کرو گے تو وہ بھی تمہاری مدد کرے گا اور تم کو ثابت قدم رکھے گا
+**English (Yusuf Ali):** O ye who believe! If ye will aid (the cause of) Allah, He will aid you, and plant your feet firmly.
 
 [Open on Quran.com](https://quran.com/47/7)
 

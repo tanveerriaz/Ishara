@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:74 · [[006 Al-Anam]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], when Abraham said to his father Āzar, "Do you take idols as deities? Indeed, I see you and your people to be in manifest error."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (وہ وقت بھی یاد کرنے کے لائق ہے) جب ابراہیم نے اپنے باپ آزر سے کہا کہ تم بتوں کو کیا معبود بناتے ہو۔ میں دیکھتا ہوں کہ تم اور تمہاری قوم صریح گمراہی میں ہو
+**English (Yusuf Ali):** Lo! Abraham said to his father Azar: "Takest thou idols for gods? For I see thee and thy people in manifest error."
 
 [Open on Quran.com](https://quran.com/6/74)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We took the Children of Israel across the sea; then they came upon a people intent in devotion to [some] idols of theirs. They [the Children of Israel] said, "O Moses, make for us a god just as they have gods." He said, "Indeed, you are a people behaving ignorantly.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بنی اسرائیل کو دریا کے پار اتارا تو وہ ایسے لوگوں کے پاس جا پہنچے جو اپنے بتوں (کی عبادت) کے لیے بیٹھے رہتے تھے۔ (بنی اسرائیل) کہنے لگے کہ موسیٰ جیسے ان لوگوں کے معبود ہیں۔ ہمارے لیے بھی ایک معبود بنا دو۔ موسیٰ نے کہا کہ تم بڑے ہی جاہل لوگ ہو
+**English (Yusuf Ali):** We took the Children of Israel (with safety) across the sea. They came upon a people devoted entirely to some idols they had. They said: "O Moses! fashion for us a god like unto the gods they have." He said: "Surely ye are a people without knowledge.
 
 [Open on Quran.com](https://quran.com/7/138)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], when Abraham said, "My Lord, make this city [i.e., Makkah] secure and keep me and my sons away from worshipping idols.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے دعا کی کہ میرے پروردگار اس شہر کو (لوگوں کے لیے) امن کی جگہ بنا دے۔ اور مجھے اور میری اولاد کو اس بات سے کہ بتوں کی پرستش کرنے لگیں بچائے رکھ
+**English (Yusuf Ali):** Remember Abraham said: "O my Lord! make this city one of peace and security: and preserve me and my sons from worshipping idols.
 
 [Open on Quran.com](https://quran.com/14/35)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [I swear] by Allāh, I will surely plan against your idols after you have turned and gone away."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا کی قسم جب تم پیٹھ پھیر کر چلے جاؤ گے تو میں تمہارے بتوں سے ایک چال چلوں گا
+**English (Yusuf Ali):** "And by Allah, I have a plan for your idols - after ye go away and turn your backs"..
 
 [Open on Quran.com](https://quran.com/21/57)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "We worship idols and remain to them devoted."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ ہم بتوں کو پوجتے ہیں اور ان کی پوجا پر قائم ہیں
+**English (Yusuf Ali):** They said: "We worship idols, and we remain constantly in attendance on them."
 
 [Open on Quran.com](https://quran.com/26/71)
 

@@ -41,7 +41,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:189 · [[002 Al-Baqarah]]
 
@@ -55,7 +55,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They ask you, [O Muḥammad], about the crescent moons. Say, "They are measurements of time for the people and for ḥajj [pilgrimage]." And it is not righteousness to enter houses from the back, but righteousness is [in] one who fears Allāh. And enter houses from their doors. And fear Allāh that you may succeed.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے نئے چاند کے بارے میں دریافت کرتے ہیں (کہ گھٹتا بڑھتا کیوں ہے) کہہ دو کہ وہ لوگوں کے (کاموں کی میعادیں) اور حج کے وقت معلوم ہونے کا ذریعہ ہے اور نیکی اس بات میں نہیں کہ (احرام کی حالت میں) گھروں میں ان کے پچھواڑے کی طرف سے آؤ۔ بلکہ نیکوکار وہ ہے جو پرہیز گار ہو اور گھروں میں ان کے دروازوں سے آیا کرو اور خدا سے ڈرتے رہو تاکہ نجات پاؤ
+**English (Yusuf Ali):** They ask thee concerning the New Moons. Say: They are but signs to mark fixed periods of time in (the affairs of) men, and for Pilgrimage. It is no virtue if ye enter your houses from the back: It is virtue if ye fear Allah. Enter houses through the proper doors: And fear Allah: That ye may prosper.
 
 [Open on Quran.com](https://quran.com/2/189)
 
@@ -71,7 +71,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not consume usury, doubled and multiplied, but fear Allāh that you may be successful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اےایمان والو! دگنا چوگنا سود نہ کھاؤ اور خدا سے ڈرو تاکہ نجات حاصل کرو
+**English (Yusuf Ali):** O ye who believe! Devour not usury, doubled and multiplied; but fear Allah; that ye may (really) prosper.
 
 [Open on Quran.com](https://quran.com/3/130)
 
@@ -87,7 +87,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, persevere and endure and remain stationed and fear Allāh that you may be successful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان (کفار کے مقابلے میں) ثابت قدم رہو اور استقامت رکھو اور مورچوں پر جمے رہو اور خدا سے ڈرو تاکہ مراد حاصل کرو
+**English (Yusuf Ali):** O ye who believe! Persevere in patience and constancy; vie in such perseverance; strengthen each other; and fear Allah; that ye may prosper.
 
 [Open on Quran.com](https://quran.com/3/200)
 
@@ -103,7 +103,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, fear Allāh and seek the means [of nearness] to Him and strive in His cause that you may succeed.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! خدا سے ڈرتے رہو اور اس کا قرب حاصل کرنے کا ذریعہ تلاش کرتے رہو اور اس کے رستے میں جہاد کرو تاکہ رستگاری پاؤ
+**English (Yusuf Ali):** O ye who believe! Do your duty to Allah, seek the means of approach unto Him, and strive with might and main in his cause: that ye may prosper.
 
 [Open on Quran.com](https://quran.com/5/35)
 
@@ -119,7 +119,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, indeed, intoxicants, gambling, [sacrificing on] stone alters [to other than Allāh], and divining arrows are but defilement from the work of Satan, so avoid it that you may be successful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! شراب اور جوا اور بت اور پاسے (یہ سب) ناپاک کام اعمال شیطان سے ہیں سو ان سے بچتے رہنا تاکہ نجات پاؤ
+**English (Yusuf Ali):** O ye who believe! Intoxicants and gambling, (dedication of) stones, and (divination by) arrows, are an abomination,- of Satan's handwork: eschew such (abomination), that ye may prosper.
 
 [Open on Quran.com](https://quran.com/5/90)
 
@@ -135,7 +135,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Not equal are the evil and the good, although the abundance of evil might impress you." So fear Allāh, O you of understanding, that you may be successful.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ ناپاک چیزیں اور پاک چیزیں برابر نہیں ہوتیں گو ناپاک چیزوں کی کثرت تمہیں خوش ہی لگے تو عقل والو خدا سے ڈرتے رہو تاکہ رستگاری حاصل کرو
+**English (Yusuf Ali):** Say: "Not equal are things that are bad and things that are good, even though the abundance of the bad may dazzle thee; so fear Allah, O ye that understand; that (so) ye may prosper."
 
 [Open on Quran.com](https://quran.com/5/100)
 
@@ -151,7 +151,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And who is more unjust than one who invents about Allāh a lie or denies His verses? Indeed, the wrongdoers will not succeed.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس شخص سے زیادہ کون ظالم ہے جس نے خدا پر جھوٹ افتراء کیا یا اس کی آیتوں کو جھٹلایا۔ کچھ شک نہیں کہ ظالم لوگ نجات نہیں پائیں گے
+**English (Yusuf Ali):** Who doth more wrong than he who inventeth a lie against Allah or rejecteth His signs? But verily the wrong-doers never shall prosper.
 
 [Open on Quran.com](https://quran.com/6/21)
 
@@ -167,7 +167,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O my people, work according to your position; [for] indeed, I am working. And you are going to know who will have succession in the home. Indeed, the wrongdoers will not succeed."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ لوگو تم اپنی جگہ عمل کئے جاؤ میں (اپنی جگہ) عمل کئے جاتا ہوں عنقریب تم کو معلوم ہو جائے گا کہ آخرت میں (بہشت) کس کا گھر ہوگا کچھ شک نہیں کہ مشرک نجات نہیں پانے کے
+**English (Yusuf Ali):** Say: "O my people! Do whatever ye can: I will do (my part): soon will ye know who it is whose end will be (best) in the Hereafter: certain it is that the wrong-doers will not prosper."
 
 [Open on Quran.com](https://quran.com/6/135)
 
@@ -183,7 +183,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed."
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم کو اس بات سے تعجب ہوا ہے کہ تم میں سے ایک شخص کے ہاتھ تمہارے پروردگار کی طرف سے تمہارے پاس نصیحت آئی تاکہ وہ تمہیں ڈرائے اور یاد کرو تو کرو جب اس نے تم کو قوم نوح کے بعد سردار بنایا۔ اور تم کو پھیلاؤ زیادہ دیا۔ پس خدا کی نعمتوں کو یاد کرو۔ تاکہ نجات حاصل کرو
+**English (Yusuf Ali):** "Do ye wonder that there hath come to you a message from your Lord through a man of your own people, to warn you? call in remembrance that He made you inheritors after the people of Noah, and gave you a stature tall among the nations. Call in remembrance the benefits (ye have received) from Allah: that so ye may prosper."
 
 [Open on Quran.com](https://quran.com/7/69)
 
@@ -199,7 +199,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, when you encounter a company [from the enemy forces], stand firm and remember Allāh much that you may be successful.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب (کفار کی) کسی جماعت سے تمہارا مقابلہ ہو تو ثابت قدم رہو اور خدا کو بہت یاد کرو تاکہ مراد حاصل کرو
+**English (Yusuf Ali):** O ye who believe! When ye meet a force, be firm, and call Allah in remembrance much (and often); that ye may prosper:
 
 [Open on Quran.com](https://quran.com/8/45)
 

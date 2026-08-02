@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:183 · [[007 Al-Araf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And I will give them time. Indeed, My plan is firm.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور میں ان کو مہلت دیئے جاتا ہوں میری تدبیر (بڑی) مضبوط ہے
+**English (Yusuf Ali):** Respite will I grant unto them: for My scheme is strong (and unfailing).
 
 [Open on Quran.com](https://quran.com/7/183)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, it is Allāh who is the [continual] Provider, the firm possessor of strength.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو رزق دینے والا زور آور اور مضبوط ہے
+**English (Yusuf Ali):** For Allah is He Who gives (all) Sustenance,- Lord of Power,- Steadfast (for ever).
 
 [Open on Quran.com](https://quran.com/51/58)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And I will give them time. Indeed, My plan is firm.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور میں ان کو مہلت دیئے جاتا ہوں میری تدبیر قوی ہے
+**English (Yusuf Ali):** A (long) respite will I grant them: truly powerful is My Plan.
 
 [Open on Quran.com](https://quran.com/68/45)
 

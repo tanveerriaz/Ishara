@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:225 · [[002 Al-Baqarah]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh does not impose blame upon you for what is unintentional in your oaths, but He imposes blame upon you for what your hearts have earned. And Allāh is Forgiving and Forbearing.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری لغو قسموں پر تم سے مواخذہ نہ کرے گا۔ لیکن جو قسمیں تم قصد دلی سے کھاؤ گے ان پر مواخذہ کرے گا۔ اور خدا بخشنے والا بردبار ہے
+**English (Yusuf Ali):** Allah will not call you to account for thoughtlessness in your oaths, but for the intention in your hearts; and He is Oft-forgiving, Most Forbearing.
 
 [Open on Quran.com](https://quran.com/2/225)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh will not impose blame upon you for what is meaningless in your oaths, but He will impose blame upon you for [breaking] what you intended of oaths. So its expiation is the feeding of ten needy people from the average of that which you feed your [own] families or clothing them or the freeing of a slave. But whoever cannot find [or afford it] - then a fast of three days [is required]. That is the expiation for oaths when you have sworn. But guard your oaths. Thus does Allāh make clear to you His verses [i.e., revealed law] that you may be grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری بےارادہ قسموں پر تم سے مواخذہ نہیں کرے گا لیکن پختہ قسموں پر (جن کے خلاف کرو گے) مواخذہ کرے گا تو اس کا کفارہ دس محتاجوں کو اوسط درجے کا کھانا کھلانا ہے جو تم اپنے اہل وعیال کو کھلاتے ہو یا ان کو کپڑے دینا یا ایک غلام آزاد کرنا اور جس کو میسر نہ ہو وہ تین روزے رکھے یہ تمہاری قسموں کا کفارہ ہے جب تم قسم کھا لو (اور اسے توڑ دو) اور (تم کو) چاہئے کہ اپنی قسموں کی حفاظت کرو اس طرح خدا تمہارے (سمجھانے کے) لیے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم شکر کرو
+**English (Yusuf Ali):** Allah will not call you to account for what is futile in your oaths, but He will call you to account for your deliberate oaths: for expiation, feed ten indigent persons, on a scale of the average for the food of your families; or clothe them; or give a slave his freedom. If that is beyond your means, fast for three days. That is the expiation for the oaths ye have sworn. But keep to your oaths. Thus doth Allah make clear to you His signs, that ye may be grateful.
 
 [Open on Quran.com](https://quran.com/5/89)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will not hear therein any ill speech - only [greetings of] peace - and they will have their provision therein, morning and afternoon.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ اس میں سلام کے سوا کوئی بیہودہ کلام نہ سنیں گے، اور ان کے لئے صبح وشام کا کھانا تیار ہوگا
+**English (Yusuf Ali):** They will not there hear any vain discourse, but only salutations of Peace: And they will have therein their sustenance, morning and evening.
 
 [Open on Quran.com](https://quran.com/19/62)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they who turn away from ill speech
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو بیہودہ باتوں سے منہ موڑے رہتے ہیں
+**English (Yusuf Ali):** Who avoid vain talk;
 
 [Open on Quran.com](https://quran.com/23/3)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [they are] those who do not testify to falsehood, and when they pass near ill speech, they pass by with dignity.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ جو جھوٹی گواہی نہیں دیتے اور جب ان کو بیہودہ چیزوں کے پاس سے گزرنے کا اتفاق ہو تو بزرگانہ انداز سے گزرتے ہیں
+**English (Yusuf Ali):** Those who witness no falsehood, and, if they pass by futility, they pass by it with honourable (avoidance);
 
 [Open on Quran.com](https://quran.com/25/72)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when they hear ill speech, they turn away from it and say, "For us are our deeds, and for you are your deeds. Peace will be upon you; we seek not the ignorant."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب بیہودہ بات سنتے ہیں تو اس سے منہ پھیر لیتے ہیں اور کہتے ہیں کہ ہم کو ہمارے اعمال اور تم کو تمہارے اعمال۔ تم کو سلام۔ ہم جاہلوں کے خواستگار نہیں ہیں
+**English (Yusuf Ali):** And when they hear vain talk, they turn away therefrom and say: "To us our deeds, and to you yours; peace be to you: we seek not the ignorant."
 
 [Open on Quran.com](https://quran.com/28/55)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will exchange with one another a cup [of wine] wherein [results] no ill speech or commission of sin.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہاں وہ ایک دوسرے سے جام شراب جھپٹ لیا کریں گے جس (کے پینے) سے نہ ہذیان سرائی ہوگی نہ کوئی گناہ کی بات
+**English (Yusuf Ali):** They shall there exchange, one with another, a (loving) cup free of frivolity, free of all taint of ill.
 
 [Open on Quran.com](https://quran.com/52/23)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will not hear therein ill speech or commission of sin -
 
-**Urdu (Fatah Muhammad Jalandhari):** وہاں نہ بیہودہ بات سنیں گے اور نہ گالی گلوچ
+**English (Yusuf Ali):** Not frivolity will they hear therein, nor any taint of ill,-
 
 [Open on Quran.com](https://quran.com/56/25)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** No ill speech will they hear therein or any falsehood -
 
-**Urdu (Fatah Muhammad Jalandhari):** وہاں نہ بیہودہ بات سنیں گے نہ جھوٹ (خرافات)
+**English (Yusuf Ali):** No vanity shall they hear therein, nor Untruth:-
 
 [Open on Quran.com](https://quran.com/78/35)
 

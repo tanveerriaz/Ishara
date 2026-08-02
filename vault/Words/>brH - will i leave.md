@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 12:80 · [[012 Yusuf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when they had despaired of him, they secluded themselves in private consultation. The eldest of them said, "Do you not know that your father has taken upon you an oath by Allāh and [that] before you failed in [your duty to] Joseph? So I will never leave [this] land until my father permits me or Allāh decides for me, and He is the best of judges.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب وہ اس سے ناامید ہوگئے تو الگ ہو کر صلاح کرنے لگے۔ سب سے بڑے نے کہا کیا تم نہیں جانتے کہ تمہارے والد نے تم سے خدا کا عہد لیا ہے اور اس سے پہلے بھی تم یوسف کے بارے میں قصور کر چکے ہو تو جب تک والد صاحب مجھے حکم نہ دیں میں تو اس جگہ سے ہلنے کا نہیں یا خدا میرے لیے کوئی اور تدبیر کرے۔ اور وہ سب سے بہتر فیصلہ کرنے والا ہے
+**English (Yusuf Ali):** Now when they saw no hope of his (yielding), they held a conference in private. The leader among them said: "Know ye not that your father did take an oath from you in Allah's name, and how, before this, ye did fail in your duty with Joseph? Therefore will I not leave this land until my father permits me, or Allah commands me; and He is the best to command.
 
 [Open on Quran.com](https://quran.com/12/80)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when Moses said to his boy [i.e., servant], "I will not cease [traveling] until I reach the junction of the two seas or continue for a long period."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنے شاگرد سے کہا کہ جب تک دو دریاؤں کے ملنے کی جگہ نہ پہنچ جاؤں ہٹنے کا نہیں خواہ برسوں چلتا رہوں
+**English (Yusuf Ali):** Behold, Moses said to his attendant, "I will not give up until I reach the junction of the two seas or (until) I spend years and years in travel."
 
 [Open on Quran.com](https://quran.com/18/60)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "We will never cease being devoted to it [i.e., the calf] until Moses returns to us."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ جب تک موسیٰ ہمارے پاس واپس نہ آئیں ہم تو اس کی پوجا پر قائم رہیں گے
+**English (Yusuf Ali):** They had said: "We will not abandon this cult, but we will devote ourselves to it until Moses returns to us."
 
 [Open on Quran.com](https://quran.com/20/91)
 

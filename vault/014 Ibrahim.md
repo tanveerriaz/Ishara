@@ -15,30 +15,30 @@ Abraham · 52 ayahs
 ## Words in this surah (graph)
 
 - [[>xr - we delay]] — `أَخَّرَ` · we delay
-- [[>skn - lodge them]] — `أَسْكَن` · lodge them
-- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[brz - they leave]] — `بَرَزَ` · they leave
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
 - [[sxr - subjected]] — `سَخِرَ` · subjected
-- [[qrAr - settlement]] — `قَرار` · settlement
 - [[vmrp - fruits]] — `ثَمَرَة` · fruits
+- [[$jrp - tree]] — `شَجَرَة` · tree
+- [[wrA' - behind]] — `وَراء` · behind
 - [[dEA' - call]] — `دُعاء` · call
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
 - [[tbE - follows]] — `تَبِعَ` · follows
 - [[bEyd - far]] — `بَعِيد` · far
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
-- [[wrA' - behind]] — `وَراء` · behind
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[brz - they leave]] — `بَرَزَ` · they leave
+- [[>skn - lodge them]] — `أَسْكَن` · lodge them
 - [[$k - doubt]] — `شَكّ` · doubt
-- [[$jrp - tree]] — `شَجَرَة` · tree
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[bnY - children]] — `بُنَىّ` · children
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[gAfl - unaware]] — `غافِل` · unaware
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[AntqAm - retribution]] — `انتِقام` · retribution
-- [[mA' - water]] — `ماء` · water
-- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[qrAr - settlement]] — `قَرار` · settlement
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[xAb - disappointed]] — `خابَ` · disappointed
+- [[xbyvp - evil]] — `خَبِيثَة` · evil
+- [[fATr - creator]] — `فاطِر` · creator
+- [[AtbE - follow]] — `اتَّبَعَ` · follow
+- [[r>s - heads]] — `رَأْس` · heads
+- [[dEA - call]] — `دَعا` · call
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[wAd - valley]] — `واد` · valley
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
 
 ## Roots
 

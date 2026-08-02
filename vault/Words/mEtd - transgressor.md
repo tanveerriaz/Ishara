@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 50:25 · [[050 Qaf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Preventer of good, aggressor, and doubter,
 
-**Urdu (Fatah Muhammad Jalandhari):** جو مال میں بخل کرنے والا حد سے بڑھنے والا شبہے نکالنے والا تھا
+**English (Yusuf Ali):** "Who forbade what was good, transgressed all bounds, cast doubts and suspicions;
 
 [Open on Quran.com](https://quran.com/50/25)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** A preventer of good, transgressing and sinful,
 
-**Urdu (Fatah Muhammad Jalandhari):** مال میں بخل کرنے والا حد سے بڑھا ہوا بدکار
+**English (Yusuf Ali):** (Habitually) hindering (all) good, transgressing beyond bounds, deep in sin,
 
 [Open on Quran.com](https://quran.com/68/12)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And none deny it except every sinful transgressor.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس کو جھٹلاتا وہی ہے جو حد سے نکل جانے والا گنہگار ہے
+**English (Yusuf Ali):** And none can deny it but the Transgressor beyond bounds the Sinner!
 
 [Open on Quran.com](https://quran.com/83/12)
 

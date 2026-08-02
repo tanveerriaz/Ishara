@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:26 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh is not timid to present an example - that of a mosquito or what is smaller than it. And those who have believed know that it is the truth from their Lord. But as for those who disbelieve, they say, "What did Allāh intend by this as an example?" He misleads many thereby and guides many thereby. And He misleads not except the defiantly disobedient,
 
-**Urdu (Fatah Muhammad Jalandhari):** الله اس بات سے عار نہیں کرتا کہ مچھر یا اس سے بڑھ کر کسی چیز (مثلاً مکھی مکڑی وغیرہ) کی مثال بیان فرمائے۔ جو مومن ہیں، وہ یقین کرتے ہیں وہ ان کے پروردگار کی طرف سے سچ ہے اور جو کافر ہیں وہ کہتے ہیں کہ اس مثال سے خدا کی مراد ہی کیا ہے۔ اس سے (خدا) بہتوں کو گمراہ کرتا ہے اور بہتوں کو ہدایت بخشتا ہے اور گمراہ بھی کرتا تو نافرمانوں ہی کو
+**English (Yusuf Ali):** Allah disdains not to use the similitude of things, lowest as well as highest. Those who believe know that it is truth from their Lord; but those who reject Faith say: "What means Allah by this similitude?" By it He causes many to stray, and many He leads into the right path; but He causes not to stray, except those who forsake (the path),-
 
 [Open on Quran.com](https://quran.com/2/26)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** A faction of the People of the Scripture wish they could mislead you. But they do not mislead except themselves, and they perceive [it] not.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے اہل اسلام) بعضے اہلِ کتاب اس بات کی خواہش رکھتے ہیں کہ تم کو گمراہ کر دیں مگر یہ (تم کو کیا گمراہ کریں گے) اپنے آپ کو ہی گمراہ کر رہے ہیں اور نہیں جانتے
+**English (Yusuf Ali):** It is the wish of a section of the People of the Book to lead you astray. But they shall lead astray (Not you), but themselves, and they do not perceive!
 
 [Open on Quran.com](https://quran.com/3/69)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have you not seen those who claim to have believed in what was revealed to you, [O Muḥammad], and what was revealed before you? They wish to refer legislation to ṭāghūt, while they were commanded to reject it; and Satan wishes to lead them far astray.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے ان لوگوں کو نہیں دیکھا جو دعویٰ تو یہ کرتے ہیں کہ جو (کتاب) تم پر نازل ہوئی اور جو (کتابیں) تم سے پہلے نازل ہوئیں ان سب پر ایمان رکھتے ہیں اور چاہتے یہ ہیں کہ اپنا مقدمہ ایک سرکش کے پاس لے جا کر فیصلہ کرائیں حالانکہ ان کو حکم دیا گیا تھا کہ اس سے اعتقاد نہ رکھیں اور شیطان (تو یہ) چاہتا ہے کہ ان کو بہکا کر رستے سے دور ڈال دے
+**English (Yusuf Ali):** Hast thou not turned Thy vision to those who declare that they believe in the revelations that have come to thee and to those before thee? Their (real) wish is to resort together for judgment (in their disputes) to the Evil One, though they were ordered to reject him. But Satan's wish is to lead them astray far away (from the right).
 
 [Open on Quran.com](https://quran.com/4/60)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** What is [the matter] with you [that you are] two groups concerning the hypocrites, while Allāh has made them fall back [into error and disbelief] for what they earned. Do you wish to guide those whom Allāh has sent astray? And he whom Allāh sends astray - never will you find for him a way [of guidance].
 
-**Urdu (Fatah Muhammad Jalandhari):** تو کیا سبب ہے کہ تم منافقوں کے بارے میں دو گروہ ہو رہے ہو حالانکہ خدا نے ان کو ان کے کرتوتوں کے سبب اوندھا کردیا ہے کیا تم چاہتے ہو کہ جس شخص کو خدا نے گمراہ کردیا ہے اس کو رستے پر لے آؤ اور جس شخص کو خدا گمراہ کردے تو اس کے لئے کبھی بھی رستہ نہیں پاؤ گے
+**English (Yusuf Ali):** Why should ye be divided into two parties about the Hypocrites? Allah hath upset them for their (evil) deeds. Would ye guide those whom Allah hath thrown out of the Way? For those whom Allah hath thrown out of the Way, never shalt thou find the Way.
 
 [Open on Quran.com](https://quran.com/4/88)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if it was not for the favor of Allāh upon you, [O Muḥammad], and His mercy, a group of them would have determined to mislead you. But they do not mislead except themselves, and they will not harm you at all. And Allāh has revealed to you the Book and wisdom and has taught you that which you did not know. And ever has the favor of Allāh upon you been great.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم پر خدا کا فضل اور مہربانی نہ ہوتی تو ان میں سے ایک جماعت تم کو بہکانے کا قصد کر ہی چکی تھی اور یہ اپنے سوا (کسی کو) بہکا نہیں سکتے اور نہ تمہارا کچھ بگاڑ سکتے ہیں اور خدا نے تم پر کتاب اور دانائی نازل فرمائی ہے اور تمہیں وہ باتیں سکھائی ہیں جو تم جانتے نہیں تھے اور تم پر خدا کا بڑا فضل ہے
+**English (Yusuf Ali):** But for the Grace of Allah to thee and his Mercy, a party of them would certainly have plotted to lead thee astray. But (in fact) they will only Lead their own souls astray, and to thee they can do no harm in the least. For Allah hath sent down to thee the Book and wisdom and taught thee what thou Knewest not (before): And great is the Grace of Allah unto thee.
 
 [Open on Quran.com](https://quran.com/4/113)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And I will mislead them, and I will arouse in them [sinful] desires, and I will command them so they will slit the ears of cattle, and I will command them so they will change the creation of Allāh." And whoever takes Satan as an ally instead of Allāh has certainly sustained a clear loss.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کو گمراہ کرتا اور امیدیں دلاتا ہروں گا اور یہ سکھاتا رہوں گا کہ جانوروں کے کان چیرتے رہیں اور (یہ بھی) کہتا رہوں گا کہ وہ خدا کی بنائی ہوئی صورتوں کو بدلتے رہیں اور جس شخص نے خدا کو چھوڑ کر شیطان کو دوست بنایا اور وہ صریح نقصان میں پڑ گیا
+**English (Yusuf Ali):** "I will mislead them, and I will create in them false desires; I will order them to slit the ears of cattle, and to deface the (fair) nature created by Allah." Whoever, forsaking Allah, takes satan for a friend, hath of a surety suffered a loss that is manifest.
 
 [Open on Quran.com](https://quran.com/4/119)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Wavering between them, [belonging] neither to these [i.e., the believers] nor to those [i.e., the disbelievers]. And whoever Allāh sends astray - never will you find for him a way.
 
-**Urdu (Fatah Muhammad Jalandhari):** بیچ میں پڑے لٹک رہے ہیں نہ ان کی طرف (ہوتے ہیں) نہ ان کی طرف اور جس کو خدا بھٹکائے تو اس کے لئے کبھی بھی رستہ نہ پاؤ گے
+**English (Yusuf Ali):** (They are) distracted in mind even in the midst of it,- being (sincerely) for neither one group nor for another whom Allah leaves straying,- never wilt thou find for him the way.
 
 [Open on Quran.com](https://quran.com/4/143)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Shall I inform you of [what is] worse than that as penalty from Allāh? [It is that of] those whom Allāh has cursed and with whom He became angry and made of them apes and pigs and slaves of ṭāghūt. Those are worse in position and further astray from the sound way."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ میں تمہیں بتاؤں کہ خدا کے ہاں اس سے بھی بدتر جزا پانے والے کون ہیں؟ وہ لوگ ہیں جن پر خدا نے لعنت کی اور جن پر وہ غضبناک ہوا اور (جن کو) ان میں سے بندر اور سور بنا دیا اور جنہوں نے شیطان کی پرستش کی ایسے لوگوں کا برا ٹھکانہ ہے اور وہ سیدھے رستے سے بہت دور ہیں
+**English (Yusuf Ali):** Say: "Shall I point out to you something much worse than this, (as judged) by the treatment it received from Allah? those who incurred the curse of Allah and His wrath, those of whom some He transformed into apes and swine, those who worshipped evil;- these are (many times) worse in rank, and far more astray from the even path!"
 
 [Open on Quran.com](https://quran.com/5/60)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O People of the Scripture, do not exceed limits in your religion beyond the truth and do not follow the inclinations of a people who had gone astray before and misled many and have strayed from the soundness of the way."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اے اہل کتاب! اپنے دین (کی بات) میں ناحق مبالغہ نہ کرو اور ایسے لوگوں کی خواہشوں کے پیچھے نہ چلو جو (خود بھی) پہلے گمراہ ہوئے اور اَور بھی اکثروں کو گمراہ کر گئے اور سیدھے رستے سے بھٹک گئے
+**English (Yusuf Ali):** Say: "O people of the Book! exceed not in your religion the bounds (of what is proper), trespassing beyond the truth, nor follow the vain desires of people who went wrong in times gone by,- who misled many, and strayed (themselves) from the even way.
 
 [Open on Quran.com](https://quran.com/5/77)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those who deny Our verses are deaf and dumb within darknesses. Whomever Allāh wills - He sends astray; and whomever He wills - He puts him on a straight path.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے ہماری آیتوں کو جھٹلایا وہ بہرے اور گونگے ہیں (اس کے علاوہ) اندھیرے میں (پڑے ہوئے) جس کو خدا چاہے گمراہ کردے اور جسے چاہے سیدھے رستے پر چلا دے
+**English (Yusuf Ali):** Those who reject our signs are deaf and dumb,- in the midst of darkness profound: whom Allah willeth, He leaveth to wander: whom He willeth, He placeth on the way that is straight.
 
 [Open on Quran.com](https://quran.com/6/39)
 

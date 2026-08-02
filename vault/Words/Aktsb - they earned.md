@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:286 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people."
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتا۔ اچھے کام کرے گا تو اس کو ان کا فائدہ ملے گا برے کرے گا تو اسے ان کا نقصان پہنچے گا۔ اے پروردگار اگر ہم سے بھول یا چوک ہوگئی ہو تو ہم سے مؤاخذہ نہ کیجیو۔ اے پروردگار ہم پر ایسا بوجھ نہ ڈالیو جیسا تو نے ہم سے پہلے لوگوں پر ڈالا تھا۔ اے پروردگار جتنا بوجھ اٹھانے کی ہم میں طاقت نہیں اتنا ہمارے سر پر نہ رکھیو۔ اور (اے پروردگار) ہمارے گناہوں سے درگزر کر اور ہمیں بخش دے۔ اور ہم پر رحم فرما۔ تو ہی ہمارا مالک ہے اور ہم کو کافروں پر غالب فرما
+**English (Yusuf Ali):** On no soul doth Allah Place a burden greater than it can bear. It gets every good that it earns, and it suffers every ill that it earns. (Pray:) "Our Lord! Condemn us not if we forget or fall into error; our Lord! Lay not on us a burden Like that which Thou didst lay on those before us; Our Lord! Lay not on us a burden greater than we have strength to bear. Blot out our sins, and grant us forgiveness. Have mercy on us. Thou art our Protector; Help us against those who stand against faith."
 
 [Open on Quran.com](https://quran.com/2/286)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not wish for that by which Allāh has made some of you exceed others. For men is a share of what they have earned, and for women is a share of what they have earned. And ask Allāh of His bounty. Indeed Allāh is ever, of all things, Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس چیز میں خدا نے تم میں سے بعض کو بعض پر فضیلت دی ہے اس کی ہوس مت کرو مردوں کو ان کاموں کا ثواب ہے جو انہوں نے کئے اور عورتوں کو ان کاموں کا ثواب ہے جو انہوں نے کئے اور خدا سے اس کا فضل (وکرم) مانگتے رہو کچھ شک نہیں کہ خدا ہر چیز سے واقف ہے
+**English (Yusuf Ali):** And in no wise covet those things in which Allah Hath bestowed His gifts More freely on some of you than on others: To men is allotted what they earn, and to women what they earn: But ask Allah of His bounty. For Allah hath full knowledge of all things.
 
 [Open on Quran.com](https://quran.com/4/32)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who came with falsehood are a group among you. Do not think it bad for you; rather, it is good for you. For every person among them is what [punishment] he has earned from the sin, and he who took upon himself the greater portion thereof - for him is a great punishment [i.e., Hellfire].
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے بہتان باندھا ہے تم ہی میں سے ایک جماعت ہے اس کو اپنے حق میں برا نہ سمجھنا۔ بلکہ وہ تمہارے لئے اچھا ہے۔ ان میں سے جس شخص نے گناہ کا جتنا حصہ لیا اس کے لئے اتنا ہی وبال ہے۔ اور جس نے ان میں سے اس بہتان کا بڑا بوجھ اٹھایا ہے اس کو بڑا عذاب ہوگا
+**English (Yusuf Ali):** Those who brought forward the lie are a body among yourselves: think it not to be an evil to you; On the contrary it is good for you: to every man among them (will come the punishment) of the sin that he earned, and to him who took on himself the lead among them, will be a penalty grievous.
 
 [Open on Quran.com](https://quran.com/24/11)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who harm believing men and believing women for [something] other than what they have earned [i.e., deserved] have certainly borne upon themselves a slander and manifest sin.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ مومن مردوں اور مومن عورتوں کو ایسے کام (کی تہمت سے) جو انہوں نے نہ کیا ہو ایذا دیں تو انہوں نے بہتان اور صریح گناہ کا بوجھ اپنے سر پر رکھا
+**English (Yusuf Ali):** And those who annoy believing men and women undeservedly, bear (on themselves) a calumny and a glaring sin.
 
 [Open on Quran.com](https://quran.com/33/58)
 

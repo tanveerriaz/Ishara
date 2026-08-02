@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:55 · [[006 Al-Anam]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus do We detail the verses, and [thus] the way of the criminals will become evident.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس طرح ہم اپنی آیتیں کھول کھول کر بیان کرتے ہیں (تاکہ تم لوگ ان پر عمل کرو) اور اس لئے کہ گنہگاروں کا رستہ ظاہر ہوجائے
+**English (Yusuf Ali):** Thus do We explain the signs in detail: that the way of the sinners may be shown up.
 
 [Open on Quran.com](https://quran.com/6/55)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus We have placed within every city the greatest of its criminals to conspire therein. But they conspire not except against themselves, and they perceive [it] not.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے ہر بستی میں بڑے بڑے مجرم پیدا کئے کہ ان میں مکاریاں کرتے رہیں اور جو مکاریاں یہ کرتے ہیں ان کا نقصان انہیں کو ہے اور (اس سے) بےخبر ہیں
+**English (Yusuf Ali):** Thus have We placed leaders in every town, its wicked men, to plot (and burrow) therein: but they only plot against their own souls, and they perceive it not.
 
 [Open on Quran.com](https://quran.com/6/123)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So if they deny you, [O Muḥammad], say, "Your Lord is the possessor of vast mercy; but His punishment cannot be repelled from the people who are criminals."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر یوں لوگ تمہاری تکذیب کریں تو کہہ دو تمہارا پروردگار صاحب رحمت وسیع ہے مگر اس کا عذاب گنہ گاروں لوگوں سے نہیں ٹلے گا
+**English (Yusuf Ali):** If they accuse thee of falsehood, say: "Your Lord is full of mercy all-embracing; but from people in guilt never will His wrath be turned back.
 
 [Open on Quran.com](https://quran.com/6/147)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who deny Our verses and are arrogant toward them - the gates of Heaven will not be opened for them, nor will they enter Paradise until a camel enters into the eye of a needle [i.e., never]. And thus do We recompense the criminals.
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے ہماری آیتوں کو جھٹلایا اور ان سے سرتابی کی۔ ان کے لیے نہ آسمان کے دروازے کھولے جائیں گے اور نہ وہ بہشت میں داخل ہوں گے۔ یہاں تک کہ اونٹ سوئی کے ناکے میں سے نہ نکل جائے اور گنہگاروں کو ہم ایسی ہی سزا دیا کرتے ہیں
+**English (Yusuf Ali):** To those who reject Our signs and treat them with arrogance, no opening will there be of the gates of heaven, nor will they enter the garden, until the camel can pass through the eye of the needle: Such is Our reward for those in sin.
 
 [Open on Quran.com](https://quran.com/7/40)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We rained upon them a rain [of stones]. Then see how was the end of the criminals.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان پر (پتھروں کا) مینھ برسایا۔ سو دیکھ لو کہ گنہگاروں کا کیسا انجام ہوا
+**English (Yusuf Ali):** And we rained down on them a shower (of brimstone): Then see what was the end of those who indulged in sin and crime!
 
 [Open on Quran.com](https://quran.com/7/84)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We sent upon them the flood and locusts and lice and frogs and blood as distinct signs, but they were arrogant and were a criminal people.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان پر طوفان اور ٹڈیاں اور جوئیں اور مینڈک اور خون کتنی کھلی ہوئی نشانیاں بھیجیں۔ مگر وہ تکبر ہی کرتے رہے اور وہ لوگ تھے ہی گنہگار
+**English (Yusuf Ali):** So We sent (plagues) on them: Wholesale death, Locusts, Lice, Frogs, And Blood: Signs openly self-explained: but they were steeped in arrogance,- a people given to sin.
 
 [Open on Quran.com](https://quran.com/7/133)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That He should establish the truth and abolish falsehood, even if the criminals disliked it.
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ سچ کو سچ اور جھوٹ کو جھوٹ کردے۔ گو مشرک ناخوش ہی ہوں
+**English (Yusuf Ali):** That He might justify Truth and prove Falsehood false, distasteful though it be to those in guilt.
 
 [Open on Quran.com](https://quran.com/8/8)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Make no excuse; you have disbelieved [i.e., rejected faith] after your belief. If We pardon one faction of you - We will punish another faction because they were criminals.
 
-**Urdu (Fatah Muhammad Jalandhari):** بہانے مت بناؤ تم ایمان لانے کے بعد کافر ہو چکے ہو۔ اگر ہم تم میں سے ایک جماعت کو معاف کردیں تو دوسری جماعت کو سزا بھی دیں گے کیونکہ وہ گناہ کرتے رہے ہیں
+**English (Yusuf Ali):** Make ye no excuses: ye have rejected Faith after ye had accepted it. If We pardon some of you, We will punish others amongst you, for that they are in sin.
 
 [Open on Quran.com](https://quran.com/9/66)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We had already destroyed generations before you when they wronged, and their messengers had come to them with clear proofs, but they were not to believe. Thus do We recompense the criminal people.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم سے پہلے ہم کئی امتوں کو جب انہوں نے ظلم کا راستہ اختیار کیا ہلاک کرچکے ہیں۔ اور ان کے پاس پیغمبر کھلی نشانیاں لے کر آئے مگر وہ ایسے نہ تھے کہ ایمان لاتے۔ ہم گنہگار لوگوں کو اسی طرح بدلہ دیا کرتے ہیں
+**English (Yusuf Ali):** Generations before you We destroyed when they did wrong: their messengers came to them with clear-signs, but they would not believe! thus do We requite those who sin!
 
 [Open on Quran.com](https://quran.com/10/13)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So who is more unjust than he who invents a lie about Allāh or denies His signs? Indeed, the criminals will not succeed.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو اس سے بڑھ کر ظالم کون جو خدا پر جھوٹ افترا کرے اور اس کی آیتوں کو جھٹلائے۔ بےشک گنہگار فلاح نہیں پائیں گے
+**English (Yusuf Ali):** Who doth more wrong than such as forge a lie against Allah, or deny His Signs? But never will prosper those who sin.
 
 [Open on Quran.com](https://quran.com/10/17)
 

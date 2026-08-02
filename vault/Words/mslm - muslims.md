@@ -47,7 +47,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:128 · [[002 Al-Baqarah]]
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites [of worship] and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار، ہم کو اپنا فرمانبردار بنائے رکھیو۔ اور ہماری اولاد میں سے بھی ایک گروہ کو اپنا مطیع بنائے رہیو، اور (پروردگار) ہمیں طریق عبادت بتا اور ہمارے حال پر (رحم کے ساتھ) توجہ فرما۔ بے شک تو توجہ فرمانے والا مہربان ہے
+**English (Yusuf Ali):** "Our Lord! make of us Muslims, bowing to Thy (Will), and of our progeny a people Muslim, bowing to Thy (will); and show us our place for the celebration of (due) rites; and turn unto us (in Mercy); for Thou art the Oft-Returning, Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/128)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Abraham instructed his sons [to do the same] and [so did] Jacob, [saying], "O my sons, indeed Allāh has chosen for you this religion, so do not die except while you are Muslims."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ابرہیم نے اپنے بیٹوں کو اسی بات کی وصیت کی اور یعقوب نے بھی (اپنے فرزندوں سے یہی کہا) کہ بیٹا خدا نے تمہارے لیے یہی دین پسند فرمایا ہے تو مرنا ہے تو مسلمان ہی مرنا
+**English (Yusuf Ali):** And this was the legacy that Abraham left to his sons, and so did Jacob; "Oh my sons! Allah hath chosen the Faith for you; then die not except in the Faith of Islam."
 
 [Open on Quran.com](https://quran.com/2/132)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or were you witnesses when death approached Jacob, when he said to his sons, "What will you worship after me?" They said, "We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac - one God. And we are Muslims [in submission] to Him."
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا جس وقت یعقوب وفات پانے لگے تو تم اس وقت موجود تھے، جب انہوں نے اپنے بیٹوں سے پوچھا کہ میرے بعد تم کس کی عبادت کرو گے، تو انہوں نے کہا کہ آپ کے معبود اور آپ کے باپ دادا ابراہیم اور اسمٰعیل اور اسحاق کے معبود کی عبادت کریں گے جو معبود یکتا ہے اور ہم اُسی کے حکم بردار ہیں
+**English (Yusuf Ali):** Were ye witnesses when death appeared before Jacob? Behold, he said to his sons: "What will ye worship after me?" They said: "We shall worship Thy god and the god of thy fathers, of Abraham, Isma'il and Isaac,- the one (True) Allah: To Him we bow (in Islam)."
 
 [Open on Quran.com](https://quran.com/2/133)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O believers], "We have believed in Allāh and what has been revealed to us and what has been revealed to Abraham and Ishmael and Isaac and Jacob and the Descendants [al-Asbāṭ] and what was given to Moses and Jesus and what was given to the prophets from their Lord. We make no distinction between any of them, and we are Muslims [in submission] to Him."
 
-**Urdu (Fatah Muhammad Jalandhari):** (مسلمانو) کہو کہ ہم خدا پر ایمان لائے اور جو (کتاب) ہم پر اتری، اس پر اور جو (صحیفے) ابراہیم اور اسمٰعیل اور اسحاق اور یعقوب اور ان کی اولاد پر نازل ہوئے ان پر اور جو (کتابیں) موسیٰ اور عیسی کو عطا ہوئیں، ان پر، اور جو اور پیغمبروں کو ان کے پروردگار کی طرف سے ملیں، ان پر (سب پر ایمان لائے) ہم ان پیغمروں میں سے کسی میں کچھ فرق نہیں کرتے اور ہم اسی (خدائے واحد) کے فرمانبردار ہیں
+**English (Yusuf Ali):** Say ye: "We believe in Allah, and the revelation given to us, and to Abraham, Isma'il, Isaac, Jacob, and the Tribes, and that given to Moses and Jesus, and that given to (all) prophets from their Lord: We make no difference between one and another of them: And we bow to Allah (in Islam)."
 
 [Open on Quran.com](https://quran.com/2/136)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But when Jesus felt [persistence in] disbelief from them, he said, "Who are my supporters for [the cause of] Allāh?" The disciples said, "We are supporters for Allāh. We have believed in Allāh and testify that we are Muslims [submitting to Him].
 
-**Urdu (Fatah Muhammad Jalandhari):** جب عیسیٰؑ نے ان کی طرف سے نافرمانی اور (نیت قتل) دیکھی تو کہنے لگے کہ کوئی ہے جو خدا کا طرف دار اور میرا مددگار ہو حواری بولے کہ ہم خدا کے (طرفدار اور آپ کے) مددگار ہیں ہم خدا پر ایمان لائے اور آپ گواہ رہیں کہ ہم فرمانبردار ہیں
+**English (Yusuf Ali):** When Jesus found Unbelief on their part He said: "Who will be My helpers to (the work of) Allah?" Said the disciples: "We are Allah's helpers: We believe in Allah, and do thou bear witness that we are Muslims.
 
 [Open on Quran.com](https://quran.com/3/52)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O People of the Scripture, come to a word that is equitable between us and you - that we will not worship except Allāh and not associate anything with Him and not take one another as lords instead of Allāh." But if they turn away, then say, "Bear witness that we are Muslims [submitting to Him]."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ اے اہل کتاب جو بات ہمارے اور تمہارے دونوں کے درمیان یکساں (تسلیم کی گئی) ہے اس کی طرف آؤ وہ یہ کہ خدا کے سوا ہم کسی کی عبادت نہ کریں اور اس کے ساتھ کسی چیز کو شریک نہ بنائیں اور ہم میں سے کوئی کسی کو خدا کے سوا اپنا کار ساز نہ سمجھے اگر یہ لوگ (اس بات کو) نہ مانیں تو (ان سے) کہہ دو کہ تم گواہ رہو کہ ہم (خدا کے) فرماں بردار ہیں
+**English (Yusuf Ali):** Say: "O People of the Book! come to common terms as between us and you: That we worship none but Allah; that we associate no partners with him; that we erect not, from among ourselves, Lords and patrons other than Allah." If then they turn back, say ye: "Bear witness that we (at least) are Muslims (bowing to Allah's Will).
 
 [Open on Quran.com](https://quran.com/3/64)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allāh]. And he was not of the polytheists.
 
-**Urdu (Fatah Muhammad Jalandhari):** ابراہیم نہ تو یہودی تھے اور نہ عیسائی بلکہ سب سے بے تعلق ہو کر ایک (خدا) کے ہو رہے تھے اور اسی کے فرماں بردار تھے اور مشرکوں میں نہ تھے
+**English (Yusuf Ali):** Abraham was not a Jew nor yet a Christian; but he was true in Faith, and bowed his will to Allah's (Which is Islam), and he joined not gods with Allah.
 
 [Open on Quran.com](https://quran.com/3/67)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Nor could he order you to take the angels and prophets as lords. Would he order you to disbelief after you had been Muslims?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس کو یہ بھی نہیں کہنا چاہیے کہ تم فرشتوں اور پیغمبروں کو خدا بنالو بھلا جب تم مسلمان ہو چکے تو کیا اسے زیبا ہے کہ تمہیں کافر ہونے کو کہے
+**English (Yusuf Ali):** Nor would he instruct you to take angels and prophets for Lords and patrons. What! would he bid you to unbelief after ye have bowed your will (To Allah in Islam)?
 
 [Open on Quran.com](https://quran.com/3/80)
 
@@ -189,7 +189,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "We have believed in Allāh and in what was revealed to us and what was revealed to Abraham, Ishmael, Isaac, Jacob, and the Descendants [al-Asbāṭ], and in what was given to Moses and Jesus and to the prophets from their Lord. We make no distinction between any of them, and we are Muslims [submitting] to Him."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ ہم خدا پر ایمان لائے اور جو کتاب ہم پر نازل ہوئی اور جو صحیفے ابراہیم اور اسماعیل اور اسحٰق اور یعقوب اور ان کی اولاد پر اترے اور جو کتابیں موسیٰ اور عیسیٰ اور دوسرے انبیاء کو پروردگار کی طرف سے ملیں سب پر ایمان لائے ہم ان پیغمبروں میں سے کسی میں کچھ فرق نہیں کرتے اور ہم اسی (خدائے واحد) کے فرماں بردار ہیں
+**English (Yusuf Ali):** Say: "We believe in Allah, and in what has been revealed to us and what was revealed to Abraham, Isma'il, Isaac, Jacob, and the Tribes, and in (the Books) given to Moses, Jesus, and the prophets, from their Lord: We make no distinction between one and another among them, and to Allah do we bow our will (in Islam)."
 
 [Open on Quran.com](https://quran.com/3/84)
 
@@ -205,7 +205,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, fear Allāh as He should be feared and do not die except as Muslims [in submission to Him].
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا سے ڈرو جیسا کہ اس سے ڈرنے کا حق ہے اور مرنا تو مسلمان ہی مرنا
+**English (Yusuf Ali):** O ye who believe! Fear Allah as He should be feared, and die not except in a state of Islam.
 
 [Open on Quran.com](https://quran.com/3/102)
 

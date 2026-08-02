@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:2 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** This is the Book about which there is no doubt, a guidance for those conscious of Allāh -
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ کتاب (قرآن مجید) اس میں کچھ شک نہیں (کہ کلامِ خدا ہے۔ خدا سے) ڈرنے والوں کی رہنما ہے
+**English (Yusuf Ali):** This is the Book; in it is guidance sure, without doubt, to those who fear Allah;
 
 [Open on Quran.com](https://quran.com/2/2)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason?
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ) کیا (عقل کی بات ہے کہ) تم لوگوں کو نیکی کرنے کو کہتے ہو اور اپنے تئیں فراموش کئے دیتے ہو، حالانکہ تم کتاب (خدا) بھی پڑھتے ہو۔ کیا تم سمجھتے نہیں؟
+**English (Yusuf Ali):** Do ye enjoin right conduct on the people, and forget (To practise it) yourselves, and yet ye study the Scripture? Will ye not understand?
 
 [Open on Quran.com](https://quran.com/2/44)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when We gave Moses the Scripture and criterion that perhaps you would be guided.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے موسیٰ کو کتاب اور معجزے عنایت کئے، تاکہ تم ہدایت حاصل کرو
+**English (Yusuf Ali):** And remember We gave Moses the Scripture and the Criterion (Between right and wrong): There was a chance for you to be guided aright.
 
 [Open on Quran.com](https://quran.com/2/53)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And among them are unlettered ones who do not know the Scripture except [indulgement in] wishful thinking, but they are only assuming.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بعض ان میں ان پڑھ ہیں کہ اپنے باطل خیالات کے سوا (خدا کی) کتاب سے واقف ہی نہیں اور وہ صرف ظن سے کام لیتے ہیں
+**English (Yusuf Ali):** And there are among them illiterates, who know not the Book, but (see therein their own) desires, and they do nothing but conjecture.
 
 [Open on Quran.com](https://quran.com/2/78)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So woe to those who write the "scripture" with their own hands, then say, "This is from Allāh," in order to exchange it for a small price. Woe to them for what their hands have written and woe to them for what they earn.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں پر افسوس ہے جو اپنے ہاتھ سے تو کتاب لکھتے ہیں اور کہتے یہ ہیں کہ یہ خدا کے پاس سے (آئی) ہے، تاکہ اس کے عوض تھوڑی سے قیمت (یعنی دنیوی منفعت) حاصل کریں۔ ان پر افسوس ہے، اس لیے کہ (بےاصل باتیں) اپنے ہاتھ سے لکھتے ہیں اور (پھر) ان پر افسوس ہے، اس لیے کہ ایسے کام کرتے ہیں
+**English (Yusuf Ali):** Then woe to those who write the Book with their own hands, and then say:"This is from Allah," to traffic with it for miserable price!- Woe to them for what their hands do write, and for the gain they make thereby.
 
 [Open on Quran.com](https://quran.com/2/79)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then, you are those [same ones who are] killing one another and evicting a party of your people from their homes, cooperating against them in sin and aggression. And if they come to you as captives, you ransom them, although their eviction was forbidden to you. So do you believe in part of the Scripture and disbelieve in part? Then what is the recompense for those who do that among you except disgrace in worldly life; and on the Day of Resurrection they will be sent back to the severest of punishment. And Allāh is not unaware of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر تم وہی ہو کہ اپنوں کو قتل بھی کر دیتے ہو اور اپنے میں سے بعض لوگوں پر گناہ اور ظلم سے چڑھائی کرکے انہیں وطن سے نکال بھی دیتے ہو، اور اگر وہ تمہارے پاس قید ہو کر آئیں تو بدلہ دے کر ان کو چھڑا بھی لیتے ہو، حالانکہ ان کا نکال دینا ہی تم کو حرام تھا۔ (یہ) کیا (بات ہے کہ) تم کتابِ (خدا) کے بعض احکام کو تو مانتے ہو اور بعض سے انکار کئے دیتے ہو، تو جو تم میں سے ایسی حرکت کریں، ان کی سزا اس کے سوا اور کیا ہو سکتی ہے کہ دنیا کی زندگی میں تو رسوائی ہو اور قیامت کے دن سخت سے سخت عذاب میں ڈال دیئے جائیں اور جو کام تم کرتے ہو، خدا ان سے غافل نہیں
+**English (Yusuf Ali):** After this it is ye, the same people, who slay among yourselves, and banish a party of you from their homes; assist (Their enemies) against them, in guilt and rancour; and if they come to you as captives, ye ransom them, though it was not lawful for you to banish them. Then is it only a part of the Book that ye believe in, and do ye reject the rest? but what is the reward for those among you who behave like this but disgrace in this life?- and on the Day of Judgment they shall be consigned to the most grievous penalty. For Allah is not unmindful of what ye do.
 
 [Open on Quran.com](https://quran.com/2/85)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We did certainly give Moses the Scripture [i.e., the Torah] and followed up after him with messengers. And We gave Jesus, the son of Mary, clear proofs and supported him with the Pure Spirit [i.e., the angel Gabriel]. But is it [not] that every time a messenger came to you, [O Children of Israel], with what your souls did not desire, you were arrogant? And a party [of messengers] you denied and another party you killed.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو کتاب عنایت کی اور ان کے پیچھے یکے بعد دیگرے پیغمبر بھیجتے رہے اور عیسیٰ بن مریم کو کھلے نشانات بخشے اور روح القدس (یعنی جبرئیل) سے ان کو مدد دی۔تو جب کوئی پیغمبر تمہارے پاس ایسی باتیں لے کر آئے، جن کو تمہارا جی نہیں چاہتا تھا، تو تم سرکش ہو جاتے رہے، اور ایک گروہ (انبیاء) کو تو جھٹلاتے رہے اور ایک گروہ کو قتل کرتے رہے
+**English (Yusuf Ali):** We gave Moses the Book and followed him up with a succession of messengers; We gave Jesus the son of Mary Clear (Signs) and strengthened him with the holy spirit. Is it that whenever there comes to you a messenger with what ye yourselves desire not, ye are puffed up with pride?- Some ye called impostors, and others ye slay!
 
 [Open on Quran.com](https://quran.com/2/87)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when there came to them a Book [i.e., the Qur’ān] from Allāh confirming that which was with them - although before they used to pray for victory against those who disbelieved - but [then] when there came to them that which they recognized, they disbelieved in it; so the curse of Allāh will be upon the disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب الله کے ہاں سے ان کے پاس کتاب آئی جو ان کی (آسمانی) کتاب کی بھی تصدیق کرتی ہے، اور وہ پہلے (ہمیشہ) کافروں پر فتح مانگا کرتے تھے، تو جس چیز کو وہ خوب پہچانتے تھے، جب ان کے پاس آپہنچی تو اس سے کافر ہو گئے۔ پس کافروں پر الله کی لعنت
+**English (Yusuf Ali):** And when there comes to them a Book from Allah, confirming what is with them,- although from of old they had prayed for victory against those without Faith,- when there comes to them that which they (should) have recognised, they refuse to believe in it but the curse of Allah is on those without Faith.
 
 [Open on Quran.com](https://quran.com/2/89)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when a messenger from Allāh came to them confirming that which was with them, a party of those who had been given the Scripture threw the Scripture of Allāh [i.e., the Torah] behind their backs as if they did not know [what it contained].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کے پاس الله کی طرف سے پیغمبر (آخرالزماں) آئے، اور وہ ان کی (آسمانی) کتاب کی بھی تصدیق کرتے ہیں تو جن لوگوں کو کتاب دی گئی تھی، ان میں سے ایک جماعت نے خدا کی کتاب کو پیٹھ پیچھے پھینک دیا، گویا وہ جانتے ہی نہیں
+**English (Yusuf Ali):** And when there came to them a messenger from Allah, confirming what was with them, a party of the people of the Book threw away the Book of Allah behind their backs, as if (it had been something) they did not know!
 
 [Open on Quran.com](https://quran.com/2/101)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Neither those who disbelieve from the People of the Scripture [i.e., the Jews and Christians] nor the polytheists wish that any good should be sent down to you from your Lord. But Allāh selects for His mercy whom He wills, and Allāh is the possessor of great bounty.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں، اہل کتاب یا مشرک وہ اس بات کو پسند نہیں کرتے کہ تم پر تمہارے پروردگار کی طرف سے خیر (وبرکت) نازل ہو۔ اور خدا تو جس کو چاہتا ہے، اپنی رحمت کے ساتھ خاص کر لیتا ہے اور خدا بڑے فضل کا مالک ہے
+**English (Yusuf Ali):** It is never the wish of those without Faith among the People of the Book, nor of the Pagans, that anything good should come down to you from your Lord. But Allah will choose for His special Mercy whom He will - for Allah is Lord of grace abounding.
 
 [Open on Quran.com](https://quran.com/2/105)
 

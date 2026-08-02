@@ -15,30 +15,30 @@ The Mount · 49 ayahs
 ## Words in this surah (graph)
 
 - [[wqY - save us]] — `وَقَى` · save us
-- [[TAgy - transgressing]] — `طاغي` · transgressing
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[bnY - children]] — `بُنَىّ` · children
-- [[m$fq - fearful]] — `مُشْفِق` · fearful
-- [[qAl - say]] — `قالَ` · say
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
-- [[dEA - call]] — `دَعا` · call
-- [[mtrbS - waiting]] — `مُتَرَبِّص` · waiting
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[Amr} - person]] — `امْرِئ` · person
-- [[gyb - unseen]] — `غَيْب` · unseen
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
-- [[sqf - roof]] — `سَقْف` · roof
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
-- [[bnt - daughters]] — `بِنْت` · daughters
-- [[s>l - ask]] — `سَأَلَ` · ask
-- [[gyr - without]] — `غَيْر` · without
-- [[sbHAn - glory]] — `سُبْحان` · glory
+- [[dEA - call]] — `دَعا` · call
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[trbS - waiting]] — `تَرَبُّص` · waiting
+- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[zwjt - paired]] — `زُوِّجَتْ` · paired
+- [[sAr - travel]] — `سارَ` · travel
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[lyl - night]] — `لَيْل` · night
+- [[ylAq - they meet]] — `يُلاقُ` · they meet
+- [[Hyn - time]] — `حِين` · time
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[njm - stars]] — `نَجْم` · stars
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[Eml - do]] — `عَمِلَ` · do
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[m$fq - fearful]] — `مُشْفِق` · fearful
+- [[>mr - command]] — `أَمَرَ` · command
+- [[glAm - boy]] — `غُلام` · boy
 - [[byt - houses]] — `بَيْت` · houses
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[kyd - plot]] — `كَيْد` · plot
+- [[mtk} - reclining]] — `مُتَّكِئ` · reclining
 
 ## Roots
 

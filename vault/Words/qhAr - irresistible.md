@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 12:39 · [[012 Yusuf]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O [my] two companions of prison, are separate lords better or Allāh, the One, the Prevailing?
 
-**Urdu (Fatah Muhammad Jalandhari):** میرے جیل خانے کے رفیقو! بھلا کئی جدا جدا آقا اچھے یا (ایک) خدائے یکتا وغالب؟
+**English (Yusuf Ali):** "O my two companions of the prison! (I ask you): are many lords differing among themselves better, or the One Allah, Supreme and Irresistible?
 
 [Open on Quran.com](https://quran.com/12/39)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Who is Lord of the heavens and earth?" Say, "Allāh." Say, "Have you then taken besides Him allies not possessing [even] for themselves any benefit or any harm?" Say, "Is the blind equivalent to the seeing? Or is darkness equivalent to light? Or have they attributed to Allāh partners who created like His creation so that the creation [of each] seemed similar to them?" Say, "Allāh is the Creator of all things, and He is the One, the Prevailing."
 
-**Urdu (Fatah Muhammad Jalandhari):** ان سے پوچھو کہ آسمانوں اور زمین کا پروردگار کون ہے؟ (تم ہی ان کی طرف سے) کہہ دو کہ خدا۔ پھر (ان سے) کہو کہ تم نے خدا کو چھوڑ کر ایسے لوگوں کو کیوں کارساز بنایا ہے جو خود اپنے نفع ونقصان کا بھی اختیار نہیں رکھتے (یہ بھی) پوچھو کیا اندھا اور آنکھوں والا برابر ہیں؟ یا اندھیرا اور اُجالا برابر ہوسکتا ہے؟ بھلا ان لوگوں نے جن کو خدا کا شریک مقرر کیا ہے۔ کیا انہوں نے خدا کی سی مخلوقات پیدا کی ہے جس کے سبب ان کو مخلوقات مشتبہ ہوگئی ہے۔ کہہ دو کہ خدا ہی ہر چیز کا پیدا کرنے والا ہے اور وہ یکتا (اور) زبردست ہے
+**English (Yusuf Ali):** Say: "Who is the Lord and Sustainer of the heavens and the earth?" Say: "(It is) Allah." Say: "Do ye then take (for worship) protectors other than Him, such as have no power either for good or for harm to themselves?" Say: "Are the blind equal with those who see? Or the depths of darkness equal with light?" Or do they assign to Allah partners who have created (anything) as He has created, so that the creation seemed to them similar? Say: "Allah is the Creator of all things: He is the One, the Supreme and Irresistible."
 
 [Open on Quran.com](https://quran.com/13/16)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [It will be] on the Day the earth will be replaced by another earth, and the heavens [as well], and they [i.e., all creatures] will come out before Allāh, the One, the Prevailing,
 
-**Urdu (Fatah Muhammad Jalandhari):** جس دن یہ زمین دوسری زمین سے بدل دی جائے گی اور آسمان بھی (بدل دیئے جائیں گے) اور سب لوگ خدائے یگانہ وزبردست کے سامنے نکل کھڑے ہوں گے
+**English (Yusuf Ali):** One day the earth will be changed to a different earth, and so will be the heavens, and (men) will be marshalled forth, before Allah, the One, the Irresistible;
 
 [Open on Quran.com](https://quran.com/14/48)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "I am only a warner, and there is not any deity except Allāh, the One, the Prevailing,
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں تو صرف ہدایت کرنے والا ہوں۔ اور خدائے یکتا اور غالب کے سوا کوئی معبود نہیں
+**English (Yusuf Ali):** Say: "Truly am I a Warner: no god is there but the one Allah, Supreme and Irresistible,-
 
 [Open on Quran.com](https://quran.com/38/65)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If Allāh had intended to take a son, He could have chosen from what He creates whatever He willed. Exalted is He; He is Allāh, the One, the Prevailing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر خدا کسی کو اپنا بیٹا بنانا چاہتا تو اپنی مخلوق میں سے جس کو چاہتا انتخاب کرلیتا۔ وہ پاک ہے وہی تو خدا یکتا (اور) غالب ہے
+**English (Yusuf Ali):** Had Allah wished to take to Himself a son, He could have chosen whom He pleased out of those whom He doth create: but Glory be to Him! (He is above such things.) He is Allah, the One, the Irresistible.
 
 [Open on Quran.com](https://quran.com/39/4)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day they come forth nothing concerning them will be concealed from Allāh. To whom belongs [all] sovereignty this Day? To Allāh, the One, the Prevailing.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس روز وہ نکل پڑیں گے ان کی کوئی چیز خدا سے مخفی نہ رہے گی۔ آج کس کی بادشاہت ہے؟ خدا کی جو اکیلا اور غالب ہے
+**English (Yusuf Ali):** The Day whereon they will (all) come forth: not a single thing concerning them is hidden from Allah. Whose will be the dominion that Day?" That of Allah, the One the Irresistible!
 
 [Open on Quran.com](https://quran.com/40/16)
 

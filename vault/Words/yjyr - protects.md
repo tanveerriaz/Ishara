@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:6 · [[009 At-Tawbah]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if any one of the polytheists seeks your protection, then grant him protection so that he may hear the words of Allāh [i.e., the Qur’ān]. Then deliver him to his place of safety. That is because they are a people who do not know.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر کوئی مشرک تم سے پناہ کا خواستگار ہو تو اس کو پناہ دو یہاں تک کہ کلام خدا سننے لگے پھر اس کو امن کی جگہ واپس پہنچادو۔ اس لیے کہ یہ بےخبر لوگ ہیں
+**English (Yusuf Ali):** If one amongst the Pagans ask thee for asylum, grant it to him, so that he may hear the word of Allah; and then escort him to where he can be secure. That is because they are men without knowledge.
 
 [Open on Quran.com](https://quran.com/9/6)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "In whose hand is the realm of all things - and He protects while none can protect against Him - if you should know?"
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اگر تم جانتے ہو تو بتاؤ کہ وہ کون ہے جس کے ہاتھ میں ہر چیز کی بادشاہی ہے اور وہ پناہ دیتا ہے اور اس کے مقابل کوئی کسی کو پناہ نہیں دے سکتا
+**English (Yusuf Ali):** Say: "Who is it in whose hands is the governance of all things,- who protects (all), but is not protected (of any)? (say) if ye know."
 
 [Open on Quran.com](https://quran.com/23/88)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O our people, respond to the Caller [i.e., Messenger] of Allāh and believe in him; He [i.e., Allāh] will forgive for you your sins and protect you from a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے قوم! خدا کی طرف بلانے والے کی بات قبول کرو اور اس پر ایمان لاؤ۔ خدا تمہارے گناہ بخش دے گا اور تمہیں دکھ دینے والے عذاب سے پناہ میں رکھے گا
+**English (Yusuf Ali):** "O our people, hearken to the one who invites (you) to Allah, and believe in him: He will forgive you your faults, and deliver you from a Penalty Grievous.
 
 [Open on Quran.com](https://quran.com/46/31)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "Have you considered: whether Allāh should cause my death and those with me or have mercy upon us, who can protect the disbelievers from a painful punishment?"
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ بھلا دیکھو تو اگر خدا مجھ کو اور میرے ساتھیوں کو ہلاک کردے یا ہم پر مہربانی کرے۔ تو کون ہے کافروں کو دکھ دینے والے عذاب سے پناہ دے؟
+**English (Yusuf Ali):** Say: "See ye?- If Allah were to destroy me, and those with me, or if He bestows His Mercy on us,- yet who can deliver the Unbelievers from a grievous Penalty?"
 
 [Open on Quran.com](https://quran.com/67/28)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Indeed, there will never protect me from Allāh anyone [if I should disobey], nor will I find in other than Him a refuge.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ بھی) کہہ دو کہ خدا (کے عذاب) سے مجھے کوئی پناہ نہیں دے سکتا۔ اور میں اس کے سوا کہیں جائے پناہ نہیں دیکھتا
+**English (Yusuf Ali):** Say: "No one can deliver me from Allah (If I were to disobey Him), nor should I find refuge except in Him,
 
 [Open on Quran.com](https://quran.com/72/22)
 

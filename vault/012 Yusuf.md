@@ -17,28 +17,28 @@ Joseph · 111 ayahs
 - [[>b - father]] — `أَب` · father
 - [[t>wyl - interpretation]] — `تَأْوِيل` · interpretation
 - [[kyl - measure]] — `كَيْل` · measure
-- [[Hdyv - statement]] — `حَدِيث` · statement
 - [[sbE - seven]] — `سَبْع` · seven
 - [[<xwp - brothers]] — `إِخْوَة` · brothers
 - [[kyd - plot]] — `كَيْد` · plot
 - [[HAfZ - guardians]] — `حافِظ` · guardians
-- [[>bwAn - parents]] — `أَبَوان` · parents
+- [[Hdyv - statement]] — `حَدِيث` · statement
 - [[r'yA - vision]] — `رُءْيا` · vision
+- [[>bwAn - parents]] — `أَبَوان` · parents
 - [[xAT} - sinners]] — `خاطِئ` · sinners
+- [[>jmE - all]] — `أَجْمَع` · all
 - [[bAb - gate]] — `باب` · gate
 - [[dbr - backs]] — `دُبُر` · backs
-- [[>jmE - all]] — `أَجْمَع` · all
-- [[ySf - they attribute]] — `يَصِفُ` · they attribute
-- [[fAEl - doers]] — `فاعِل` · doers
 - [[r>s - heads]] — `رَأْس` · heads
+- [[AwY - gave shelter]] — `آوَى` · gave shelter
+- [[yfty - explain me]] — `يُفْتِي` · explain me
+- [[>rHm - merciful]] — `أَرْحَم` · merciful
 - [[kbyr - great]] — `كَبِير` · great
-- [[jAhl - ignorant]] — `جاهِل` · ignorant
-- [[DlAl - error]] — `ضَلال` · error
-- [[snyn - years]] — `سِنِين` · years
+- [[jmyl - good]] — `جَمِيل` · good
+- [[qSS - story]] — `قَصَص` · story
+- [[Amr>t - wife]] — `امْرَأَت` · wife
 - [[ESbp - group]] — `عُصْبَة` · group
-- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
-- [[Hzn - sorrow]] — `حَزَن` · sorrow
 - [[xmr - intoxicants]] — `خَمْر` · intoxicants
+- [[DlAl - error]] — `ضَلال` · error
 
 ## Roots
 

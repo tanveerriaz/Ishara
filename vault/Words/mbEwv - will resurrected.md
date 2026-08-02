@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:29 · [[006 Al-Anam]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "There is none but our worldly life, and we will not be resurrected."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ ہماری جو دنیا کی زندگی ہے بس یہی (زندگی) ہے اور ہم (مرنے کے بعد) پھر زندہ نہیں کئے جائیں گے
+**English (Yusuf Ali):** And they (sometimes) say: "There is nothing except our life on this earth, and never shall we be raised up again."
 
 [Open on Quran.com](https://quran.com/6/29)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who created the heavens and the earth in six days - and His Throne had been upon water - that He might test you as to which of you is best in deed. But if you say, "Indeed, you are resurrected after death," those who disbelieve will surely say, "This is not but obvious magic."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے آسمانوں اور زمین کو چھ دن میں بنایا اور (اس وقت) اس کا عرش پانی پر تھا۔ (تمہارے پیدا کرنے سے) مقصود یہ ہے کہ وہ تم کو آزمائے کہ تم میں عمل کے لحاظ سے کون بہتر ہے اور اگر تم کہو کہ تم لوگ مرنے کے بعد (زندہ کرکے) اٹھائے جاؤ گے تو کافر کہہ دیں گے کہ یہ تو کھلا جادو ہے
+**English (Yusuf Ali):** He it is Who created the heavens and the earth in six Days - and His Throne was over the waters - that He might try you, which of you is best in conduct. But if thou wert to say to them, "Ye shall indeed be raised up after death", the Unbelievers would be sure to say, "This is nothing but obvious sorcery!"
 
 [Open on Quran.com](https://quran.com/11/7)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "When we are bones and crumbled particles, will we [truly] be resurrected as a new creation?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ جب ہم (مر کر بوسیدہ) ہڈیوں اور چُور چُور ہوجائیں گے تو کیا ازسرنو پیدا ہو کر اُٹھیں گے
+**English (Yusuf Ali):** They say: "What! when we are reduced to bones and dust, should we really be raised up (to be) a new creation?"
 
 [Open on Quran.com](https://quran.com/17/49)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is their recompense because they disbelieved in Our verses and said, "When we are bones and crumbled particles, will we [truly] be resurrected [in] a new creation?"
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ ان کی سزا ہے اس لئے کہ وہ ہماری آیتوں سے کفر کرتے تھے اور کہتے تھے کہ جب ہم (مر کر بوسیدہ) ہڈیاں اور ریزہ ریزہ ہوجائیں گے تو کیا ازسرنو پیدا کئے جائیں گے
+**English (Yusuf Ali):** That is their recompense, because they rejected Our signs, and said, "When we are reduced to bones and broken dust, should we really be raised up (to be) a new Creation?"
 
 [Open on Quran.com](https://quran.com/17/98)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It [i.e., life] is not but our worldly life - we die and live, but we will not be resurrected.
 
-**Urdu (Fatah Muhammad Jalandhari):** زندگی تو یہی ہماری دنیا کی زندگی ہے کہ (اسی میں) ہم مرتے اور جیتے ہیں، اور ہم پھر نہیں اُٹھائے جائیں گے
+**English (Yusuf Ali):** "There is nothing but our life in this world! We shall die and we live! But we shall never be raised up again!
 
 [Open on Quran.com](https://quran.com/23/37)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "When we have died and become dust and bones, are we indeed to be resurrected?
 
-**Urdu (Fatah Muhammad Jalandhari):** کہتے ہیں کہ جب ہم مر جائیں گے اور مٹی ہو جائیں گے اور استخوان (بوسیدہ کے سوا کچھ) نہ رہے گا تو کیا ہم پھر اٹھائے جائیں گے؟
+**English (Yusuf Ali):** They say: "What! when we die and become dust and bones, could we really be raised up again?
 
 [Open on Quran.com](https://quran.com/23/82)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When we have died and become dust and bones, are we indeed to be resurrected?
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا جب ہم مرگئے اور مٹی اور ہڈیاں ہوگئے تو کیا پھر اٹھائے جائیں گے؟
+**English (Yusuf Ali):** "What! when we die, and become dust and bones, shall we (then) be raised up (again)
 
 [Open on Quran.com](https://quran.com/37/16)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they used to say, "When we die and become dust and bones, are we indeed to be resurrected?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہا کرتے تھے کہ بھلا جب ہم مرگئے اور مٹی ہوگئے اور ہڈیاں (ہی ہڈیاں رہ گئے) تو کیا ہمیں پھر اُٹھنا ہوگا؟
+**English (Yusuf Ali):** And they used to say, "What! when we die and become dust and bones, shall we then indeed be raised up again?-
 
 [Open on Quran.com](https://quran.com/56/47)
 
@@ -172,7 +172,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they not think that they will be resurrected
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ نہیں جانتے کہ اٹھائے بھی جائیں گے
+**English (Yusuf Ali):** Do they not think that they will be called to account?-
 
 [Open on Quran.com](https://quran.com/83/4)
 

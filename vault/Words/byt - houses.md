@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:125 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when We made the House [i.e., the Kaʿbah] a place of return for the people and [a place of] security. And take, [O believers], from the standing place of Abraham a place of prayer. And We charged Abraham and Ishmael, [saying], "Purify My House for those who perform ṭawāf and those who are staying [there] for worship and those who bow and prostrate [in prayer]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے خانہٴ کعبہ کو لوگوں کے لیے جمع ہونے اور امن پانے کی جگہ مقرر کیا اور (حکم دیا کہ) جس مقام پر ابراہیم کھڑے ہوئے تھے، اس کو نماز کی جگہ بنا لو۔ اور ابراہیم اور اسمٰعیل کو کہا کہ طواف کرنے والوں اور اعتکاف کرنے والوں اور رکوع کرنے والوں اور سجدہ کرنے والوں کے لیے میرے گھر کو پاک صاف رکھا کرو
+**English (Yusuf Ali):** Remember We made the House a place of assembly for men and a place of safety; and take ye the station of Abraham as a place of prayer; and We covenanted with Abraham and Isma'il, that they should sanctify My House for those who compass it round, or use it as a retreat, or bow, or prostrate themselves (therein in prayer).
 
 [Open on Quran.com](https://quran.com/2/125)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when Abraham was raising the foundations of the House and [with him] Ishmael, [saying], "Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم اور اسمٰعیل بیت الله کی بنیادیں اونچی کر رہے تھے (تو دعا کئے جاتے تھے کہ) اے پروردگار، ہم سے یہ خدمت قبول فرما۔ بےشک تو سننے والا (اور) جاننے والا ہے
+**English (Yusuf Ali):** And remember Abraham and Isma'il raised the foundations of the House (With this prayer): "Our Lord! Accept (this service) from us: For Thou art the All-Hearing, the All-knowing.
 
 [Open on Quran.com](https://quran.com/2/127)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, aṣ-Ṣafā and al-Marwah are among the symbols of Allāh. So whoever makes ḥajj [pilgrimage] to the House or performs ʿumrah - there is no blame upon him for walking between them. And whoever volunteers good - then indeed, Allāh is Appreciative and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** بےشک (کوہ) صفا اور مروہ خدا کی نشانیوں میں سے ہیں۔ تو جو شخص خانہٴ کعبہ کا حج یا عمرہ کرے اس پر کچھ گناہ نہیں کہ دونوں کا طواف کرے۔ (بلکہ طواف ایک قسم کا نیک کام ہے) اور جو کوئی نیک کام کرے تو خدا قدر شناس اور دانا ہے
+**English (Yusuf Ali):** Behold! Safa and Marwa are among the Symbols of Allah. So if those who visit the House in the Season or at other times, should compass them round, it is no sin in them. And if any one obeyeth his own impulse to good,- be sure that Allah is He Who recogniseth and knoweth.
 
 [Open on Quran.com](https://quran.com/2/158)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They ask you, [O Muḥammad], about the crescent moons. Say, "They are measurements of time for the people and for ḥajj [pilgrimage]." And it is not righteousness to enter houses from the back, but righteousness is [in] one who fears Allāh. And enter houses from their doors. And fear Allāh that you may succeed.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے نئے چاند کے بارے میں دریافت کرتے ہیں (کہ گھٹتا بڑھتا کیوں ہے) کہہ دو کہ وہ لوگوں کے (کاموں کی میعادیں) اور حج کے وقت معلوم ہونے کا ذریعہ ہے اور نیکی اس بات میں نہیں کہ (احرام کی حالت میں) گھروں میں ان کے پچھواڑے کی طرف سے آؤ۔ بلکہ نیکوکار وہ ہے جو پرہیز گار ہو اور گھروں میں ان کے دروازوں سے آیا کرو اور خدا سے ڈرتے رہو تاکہ نجات پاؤ
+**English (Yusuf Ali):** They ask thee concerning the New Moons. Say: They are but signs to mark fixed periods of time in (the affairs of) men, and for Pilgrimage. It is no virtue if ye enter your houses from the back: It is virtue if ye fear Allah. Enter houses through the proper doors: And fear Allah: That ye may prosper.
 
 [Open on Quran.com](https://quran.com/2/189)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [make him] a messenger to the Children of Israel, [who will say], 'Indeed I have come to you with a sign from your Lord in that I design for you from clay [that which is] like the form of a bird, then I breathe into it and it becomes a bird by permission of Allāh. And I cure the blind [from birth] and the leper, and I give life to the dead - by permission of Allāh. And I inform you of what you eat and what you store in your houses. Indeed in that is a sign for you, if you are believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (عیسیٰ) بنی اسرائیل کی طرف پیغمبر (ہو کر جائیں گے اور کہیں گے) کہ میں تمہارے پروردگار کی طرف سے نشانی لے کر آیا ہوں وہ یہ کہ تمہارے سامنے مٹی کی مورت بشکل پرند بناتا ہوں پھر اس میں پھونک مارتا ہوں تو وہ خدا کے حکم سے (سچ مچ) جانور ہو جاتا ہے اور اندھے اور ابرص کو تندرست کر دیتا ہوں اور خدا کے حکم سے مردے میں جان ڈال دیتا ہوں اور جو کچھ تم کھا کر آتے ہو اور جو اپنے گھروں میں جمع کر رکھتے ہو سب تم کو بتا دیتا ہوں اگر تم صاحب ایمان ہو تو ان باتوں میں تمہارے لیے (قدرت خدا کی) نشانی ہے
+**English (Yusuf Ali):** "And (appoint him) a messenger to the Children of Israel, (with this message): "'I have come to you, with a Sign from your Lord, in that I make for you out of clay, as it were, the figure of a bird, and breathe into it, and it becomes a bird by Allah's leave: And I heal those born blind, and the lepers, and I quicken the dead, by Allah's leave; and I declare to you what ye eat, and what ye store in your houses. Surely therein is a Sign for you if ye did believe;
 
 [Open on Quran.com](https://quran.com/3/49)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the first House [of worship] established for mankind was that at Bakkah [i.e., Makkah] - blessed and a guidance for the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** پہلا گھر جو لوگوں (کے عبادت کرنے) کے لیے مقرر کیا گیا تھا وہی ہے جو مکے میں ہے بابرکت اور جہاں کے لیے موجبِ ہدایت
+**English (Yusuf Ali):** The first House (of worship) appointed for men was that at Bakka: Full of blessing and of guidance for all kinds of beings:
 
 [Open on Quran.com](https://quran.com/3/96)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In it are clear signs [such as] the standing place of Abraham. And whoever enters it [i.e., the Ḥaram] shall be safe. And [due] to Allāh from the people is a pilgrimage to the House - for whoever is able to find thereto a way. But whoever disbelieves [i.e., refuses] - then indeed, Allāh is free from need of the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس میں کھلی ہوئی نشانیاں ہیں جن میں سے ایک ابراہیم کے کھڑے ہونے کی جگہ ہے جو شخص اس (مبارک) گھر میں داخل ہوا اس نے امن پا لیا اور لوگوں پر خدا کا حق (یعنی فرض) ہے کہ جو اس گھر تک جانے کا مقدور رکھے وہ اس کا حج کرے اور جو اس حکم کی تعمیل نہ کرے گا تو خدا بھی اہلِ عالم سے بے نیاز ہے
+**English (Yusuf Ali):** In it are Signs Manifest; (for example), the Station of Abraham; whoever enters it attains security; Pilgrimage thereto is a duty men owe to Allah,- those who can afford the journey; but if any deny faith, Allah stands not in need of any of His creatures.
 
 [Open on Quran.com](https://quran.com/3/97)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then after distress, He sent down upon you security [in the form of] drowsiness, overcoming a faction of you, while another faction worried about themselves, thinking of Allāh other than the truth - the thought of ignorance, saying, "Is there anything for us [to have done] in this matter?" Say, "Indeed, the matter belongs completely to Allāh." They conceal within themselves what they will not reveal to you. They say, "If there was anything we could have done in the matter, we [i.e., some of us] would not have been killed right here." Say, "Even if you had been inside your houses, those decreed to be killed would have come out to their death beds." [It was] so that Allāh might test what is in your breasts and purify what is in your hearts. And Allāh is Knowing of that within the breasts.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر خدا نے غم ورنج کے بعد تم پر تسلی نازل فرمائی (یعنی) نیند کہ تم میں سے ایک جماعت پر طاری ہو گئی اور کچھ لوگ جن کو جان کے لالے پڑ رہے تھے خدا کے بارے میں ناحق (ایام) کفر کے سے گمان کرتے تھے اور کہتے تھے بھلا ہمارے اختیار کی کچھ بات ہے؟ تم کہہ دو کہ بےشک سب باتیں خدا ہی کے اختیار میں ہیں یہ لوگ (بہت سی باتیں) دلوں میں مخفی رکھتے ہیں جو تم پر ظاہر نہیں کرتے تھے کہتے تھے کہ ہمارے بس کی بات ہوتی تو ہم یہاں قتل ہی نہ کیے جاتے کہہ دو کہ اگر تم اپنے گھروں میں بھی ہوتے تو جن کی تقدیر میں مارا جانا لکھا تھا وہ اپنی اپنی قتل گاہوں کی طرف ضرور نکل آتے اس سے غرض یہ تھی کہ خدا تمہارے سینوں کی باتوں کو آزمائے اور جو کچھ تمہارے دلوں میں ہے اس کو خالص اور صاف کر دے اور خدا دلوں کی باتوں سے خوب واقف ہے
+**English (Yusuf Ali):** After (the excitement) of the distress, He sent down calm on a band of you overcome with slumber, while another band was stirred to anxiety by their own feelings, Moved by wrong suspicions of Allah-suspicions due to ignorance. They said: "What affair is this of ours?" Say thou: "Indeed, this affair is wholly Allah's." They hide in their minds what they dare not reveal to thee. They say (to themselves): "If we had had anything to do with this affair, We should not have been in the slaughter here." Say: "Even if you had remained in your homes, those for whom death was decreed would certainly have gone forth to the place of their death"; but (all this was) that Allah might test what is in your breasts and purge what is in your hearts. For Allah knoweth well the secrets of your hearts.
 
 [Open on Quran.com](https://quran.com/3/154)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who commit immorality [i.e., unlawful sexual intercourse] of your women - bring against them four [witnesses] from among you. And if they testify, confine them [i.e., the guilty women] to houses until death takes them or Allāh ordains for them [another] way.
 
-**Urdu (Fatah Muhammad Jalandhari):** مسلمانو تمہاری عورتوں میں جو بدکاری کا ارتکاب کر بیٹھیں ان پر اپنے لوگوں میں سے چار شخصوں کی شہادت لو۔ اگر وہ (ان کی بدکاری کی)گواہی دیں تو ان عورتوں کو گھروں میں بند رکھو یہاں تک کہ موت ان کا کام تمام کردے یا خدا ان کے لئے کوئی اور سبیل (پیدا) کرے
+**English (Yusuf Ali):** If any of your women are guilty of lewdness, Take the evidence of four (Reliable) witnesses from amongst you against them; and if they testify, confine them to houses until death do claim them, or Allah ordain for them some (other) way.
 
 [Open on Quran.com](https://quran.com/4/15)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "[We pledge] obedience." But when they leave you, a group of them spend the night determining to do other than what you say. But Allāh records what they plan by night. So leave them alone and rely upon Allāh. And sufficient is Allāh as Disposer of affairs.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ منہ سے تو کہتے ہیں کہ (آپ کی) فرمانبرداری (دل سے منظور ہے) لیکن جب تمہارے پاس سے چلے جاتے ہیں تو ان میں سے بعض لوگ رات کو تمہاری باتوں کے خلاف مشورے کرتے ہیں اور جو مشورے یہ کرتے ہیں خدا ان کو لکھ لیتا ہے تو ان کا کچھ خیال نہ کرو اور خدا پر بھروسہ رکھو اور خدا ہی کافی کارساز ہے
+**English (Yusuf Ali):** They have "Obedience" on their lips; but when they leave thee, a section of them Meditate all night on things very different from what thou tellest them. But Allah records their nightly (plots): So keep clear of them, and put thy trust in Allah, and enough is Allah as a disposer of affairs.
 
 [Open on Quran.com](https://quran.com/4/81)
 

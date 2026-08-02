@@ -14,31 +14,31 @@ The Exile · 24 ayahs
 
 ## Words in this surah (graph)
 
-- [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[x$yp - fear]] — `خَشْيَة` · fear
-- [[ytfkr - reflect]] — `يَتَفَكَّرُ` · reflect
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[qryp - town]] — `قَرْيَة` · town
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[qrbY - relatives]] — `قُرْبَى` · relatives
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[qAtl - fight]] — `قاتَلَ` · fight
+- [[>nsY - so he made]] — `أَنسَى` · so he made
 - [[fqyr - poor]] — `فَقِير` · poor
-- [[gyb - unseen]] — `غَيْب` · unseen
-- [[bSr - vision]] — `بَصَر` · vision
-- [[mhAjr - emigrants]] — `مُهاجِر` · emigrants
-- [[nZr - see]] — `نَظَرَ` · see
-- [[nsy - they forgot]] — `نَسِيَ` · they forgot
-- [[HsnY - best]] — `حُسْنَى` · best
-- [[AstwY - equal]] — `اسْتَوَى` · equal
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
 - [[yd - hands]] — `يَد` · hands
-- [[gny - free need]] — `غَنِيّ` · free need
-- [[$hAdp - witnessed]] — `شَهادَة` · witnessed
-- [[sbHAn - glory]] — `سُبْحان` · glory
+- [[xA$E - humbled]] — `خاشِع` · humbled
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[qA}mp - standing]] — `قائِمَة` · standing
+- [[Eml - do]] — `عَمِلَ` · do
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[>mr - command]] — `أَمَرَ` · command
+- [[Avr - but prefer]] — `آثَرَ` · but prefer
+- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
 - [[byt - houses]] — `بَيْت` · houses
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[jbl - mountains]] — `جَبَل` · mountains
+- [[>Sl - its root]] — `أَصْل` · its root
+- [[bry' - innocent]] — `بَرِيء` · innocent
+- [[>wl - first]] — `أَوَّل` · first
+- [[ktb - prescribed]] — `كَتَبَ` · prescribed
+- [[$H - miserly]] — `شُحّ` · miserly
+- [[jA' - came them]] — `جاءَ` · came them
+- [[Amn - believe]] — `آمَنَ` · believe
 
 ## Roots
 

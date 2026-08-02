@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 25:53 · [[025 Al-Furqan]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who has released [simultaneously] the two seas [i.e., bodies of water], one fresh and sweet and one salty and bitter, and He placed between them a barrier and prohibiting partition.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے دو دریاؤں کو ملا دیا ایک کا پانی شیریں ہے پیاس بجھانے والا اور دوسرے کا کھاری چھاتی جلانے والا۔ اور دونوں کے درمیان ایک آڑ اور مضبوط اوٹ بنادی
+**English (Yusuf Ali):** It is He Who has let free the two bodies of flowing water: One palatable and sweet, and the other salt and bitter; yet has He made a barrier between them, a partition that is forbidden to be passed.
 
 [Open on Quran.com](https://quran.com/25/53)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And not alike are the two seas [i.e., bodies of water]. One is fresh and sweet, palatable for drinking, and one is salty and bitter. And from each you eat tender meat and extract ornaments which you wear, and you see the ships plowing through [them] that you might seek of His bounty; and perhaps you will be grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور دونوں دریا (مل کر) یکساں نہیں ہوجاتے۔ یہ تو میٹھا ہے پیاس بجھانے والا۔ جس کا پانی خوشگوار ہے اور یہ کھاری ہے کڑوا۔ اور سب سے تم تازہ گوشت کھاتے ہو اور زیور نکالتے ہو جسے پہنتے ہو۔ اور تم دریا میں کشتیوں کو دیکھتے ہو کہ (پانی کو) پھاڑتی چلی آتی ہیں تاکہ تم اس کے فضل سے (معاش) تلاش کرو اور تاکہ شکر کرو
+**English (Yusuf Ali):** Nor are the two bodies of flowing water alike,- the one palatable, sweet, and pleasant to drink, and the other, salt and bitter. Yet from each (kind of water) do ye eat flesh fresh and tender, and ye extract ornaments to wear; and thou seest the ships therein that plough the waves, that ye may seek (thus) of the Bounty of Allah that ye may be grateful.
 
 [Open on Quran.com](https://quran.com/35/12)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We placed therein lofty, firmly set mountains and have given you to drink sweet water.
 
-**Urdu (Fatah Muhammad Jalandhari):** (بنایا) اور اس پر اونچے اونچے پہاڑ رکھ دیئے اور تم لوگوں کو میٹھا پانی پلایا
+**English (Yusuf Ali):** And made therein mountains standing firm, lofty (in stature); and provided for you water sweet (and wholesome)?
 
 [Open on Quran.com](https://quran.com/77/27)
 

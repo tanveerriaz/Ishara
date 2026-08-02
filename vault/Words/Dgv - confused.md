@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 12:44 · [[012 Yusuf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "[It is but] a mixture of false dreams, and we are not learned in the interpretation of dreams."
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا یہ تو پریشان سے خواب ہیں۔ اور ہمیں ایسے خوابوں کی تعبیر نہیں آتی
+**English (Yusuf Ali):** They said: "A confused medley of dreams: and we are not skilled in the interpretation of dreams."
 
 [Open on Quran.com](https://quran.com/12/44)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But they say, "[The revelation is but] a mixture of false dreams; rather, he has invented it; rather, he is a poet. So let him bring us a sign just as the previous [messengers] were sent [with miracles]."
 
-**Urdu (Fatah Muhammad Jalandhari):** بلکہ (ظالم) کہنے لگے کہ (یہ قرآن) پریشان (باتیں ہیں جو) خواب (میں دیکھ لی) ہیں۔ (نہیں) بلکہ اس نے اس کو اپنی طرف سے بنا لیا ہے (نہیں) بلکہ (یہ شعر ہے جو اس) شاعر (کا نتیجہٴ طبع) ہے۔ تو جیسے پہلے (پیغمبر نشانیاں دے کر) بھیجے گئے تھے (اسی طرح) یہ بھی ہمارے پاس کوئی نشانی لائے
+**English (Yusuf Ali):** "Nay," they say, "(these are) medleys of dream! - Nay, He forged it! - Nay, He is (but) a poet! Let him then bring us a Sign like the ones that were sent to (Prophets) of old!"
 
 [Open on Quran.com](https://quran.com/21/5)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [We said], "And take in your hand a bunch [of grass] and strike with it and do not break your oath." Indeed, We found him patient, an excellent servant. Indeed, he was one repeatedly turning back [to Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے ہاتھ میں جھاڑو لو اور اس سے مارو اور قسم نہ توڑو۔ بےشک ہم نے ان کو ثابت قدم پایا۔ بہت خوب بندے تھے بےشک وہ رجوع کرنے والے تھے
+**English (Yusuf Ali):** "And take in thy hand a little grass, and strike therewith: and break not (thy oath)." Truly We found him full of patience and constancy. How excellent in Our service! ever did he turn (to Us)!
 
 [Open on Quran.com](https://quran.com/38/44)
 

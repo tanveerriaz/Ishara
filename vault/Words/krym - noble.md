@@ -44,7 +44,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:31 · [[004 An-Nisa]]
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If you avoid the major sins which you are forbidden, We will remove from you your lesser sins and admit you to a noble entrance [into Paradise].
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم بڑے بڑے گناہوں سے جن سے تم کو منع کیا جاتا ہے اجتناب رکھو گے تو ہم تمہارے (چھوٹے چھوٹے) گناہ معاف کردیں گے اور تمہیں عزت کے مکانوں میں داخل کریں گے
+**English (Yusuf Ali):** If ye (but) eschew the most heinous of the things which ye are forbidden to do, We shall expel out of you all the evil in you, and admit you to a gate of great honour.
 
 [Open on Quran.com](https://quran.com/4/31)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those are the believers, truly. For them are degrees [of high position] with their Lord and forgiveness and noble provision.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی سچے مومن ہیں اور ان کے لیے پروردگار کے ہاں (بڑے بڑے درجے) اور بخشش اور عزت کی روزی ہے
+**English (Yusuf Ali):** Such in truth are the believers: they have grades of dignity with their Lord, and forgiveness, and generous sustenance:
 
 [Open on Quran.com](https://quran.com/8/4)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those who have believed and emigrated and fought in the cause of Allāh and those who gave shelter and aided - it is they who are the believers, truly. For them is forgiveness and noble provision.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور وطن سے ہجرت کر گئے اور خدا کی راہ میں لڑائیاں کرتے رہے اور جنہوں نے (ہجرت کرنے والوں کو) جگہ دی اور ان کی مدد کی۔ یہی لوگ سچے مسلمان ہیں۔ ان کے لیے (خدا کے ہاں) بخشش اور عزت کی روزی ہے
+**English (Yusuf Ali):** Those who believe, and adopt exile, and fight for the Faith, in the cause of Allah as well as those who give (them) asylum and aid,- these are (all) in very truth the Believers: for them is the forgiveness of sins and a provision most generous.
 
 [Open on Quran.com](https://quran.com/8/74)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when she heard of their scheming, she sent for them and prepared for them a banquet and gave each one of them a knife and said [to Joseph], "Come out before them." And when they saw him, they greatly admired him and cut their hands and said, "Perfect is Allāh! This is not a man; this is none but a noble angel."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب زلیخا نے ان عورتوں کی (گفتگو جو حقیقت میں دیدار یوسف کے لیے ایک) چال (تھی) سنی تو ان کے پاس (دعوت کا) پیغام بھیجا اور ان کے لیے ایک محفل مرتب کی۔ اور (پھل تراشنے کے لیے) ہر ایک کو ایک چھری دی اور (یوسف سے) کہا کہ ان کے سامنے باہر آؤ۔ جب عورتوں نے ان کو دیکھا تو ان کا رعب (حسن) ان پر (ایسا) چھا گیا کہ (پھل تراشتے تراشتے) اپنے ہاتھ کاٹ لیے اور بےساختہ بول اٹھیں کہ سبحان الله (یہ حسن) یہ آدمی نہیں کوئی بزرگ فرشتہ ہے
+**English (Yusuf Ali):** When she heard of their malicious talk, she sent for them and prepared a banquet for them: she gave each of them a knife: and she said (to Joseph), "Come out before them." When they saw him, they did extol him, and (in their amazement) cut their hands: they said, "Allah preserve us! no mortal is this! this is none other than a noble angel!"
 
 [Open on Quran.com](https://quran.com/12/31)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And your Lord has decreed that you worship not except Him, and to parents, good treatment. Whether one or both of them reach old age [while] with you, say not to them [so much as], "uff," and do not repel them but speak to them a noble word.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے پروردگار نے ارشاد فرمایا ہے کہ اس کے سوا کسی کی عبادت نہ کرو اور ماں باپ کے ساتھ بھلائی کرتے رہو۔ اگر ان میں سے ایک یا دونوں تمہارے سامنے بڑھاپے کو پہنچ جائیں تو اُن کو اُف تک نہ کہنا اور نہ انہیں جھڑکنا اور اُن سے بات ادب کے ساتھ کرنا
+**English (Yusuf Ali):** Thy Lord hath decreed that ye worship none but Him, and that ye be kind to parents. Whether one or both of them attain old age in thy life, say not to them a word of contempt, nor repel them, but address them in terms of honour.
 
 [Open on Quran.com](https://quran.com/17/23)
 
@@ -138,7 +138,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who have believed and done righteous deeds - for them is forgiveness and noble provision.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جو لوگ ایمان لائے اور نیک کام کئے ان کے لئے بخشش اور آبرو کی روزی ہے
+**English (Yusuf Ali):** "Those who believe and work righteousness, for them is forgiveness and a sustenance most generous.
 
 [Open on Quran.com](https://quran.com/22/50)
 
@@ -154,7 +154,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So exalted is Allāh, the Sovereign, the Truth; there is no deity except Him, Lord of the Noble Throne.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو خدا جو سچا بادشاہ ہے (اس کی شان) اس سے اونچی ہے، اس کے سوا کوئی معبود نہیں، وہی عرش بزرگ کا مالک ہے
+**English (Yusuf Ali):** Therefore exalted be Allah, the King, the Reality: there is no god but He, the Lord of the Throne of Honour!
 
 [Open on Quran.com](https://quran.com/23/116)
 
@@ -170,7 +170,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Evil words are for evil men, and evil men are [subjected] to evil words. And good words are for good men, and good men are [an object] of good words. Those [good people] are declared innocent of what they [i.e., slanderers] say. For them is forgiveness and noble provision.
 
-**Urdu (Fatah Muhammad Jalandhari):** ناپاک عورتیں ناپاک مردوں کے لئے اور ناپاک مرد ناپاک عورتوں کے لئے۔ اور پاک عورتیں پاک مردوں کے لئے۔ اور پاک مرد پاک عورتوں کے لئے۔ یہ (پاک لوگ) ان (بدگویوں) کی باتوں سے بری ہیں (اور) ان کے لئے بخشش اور نیک روزی ہے
+**English (Yusuf Ali):** Women impure are for men impure, and men impure for women impure and women of purity are for men of purity, and men of purity are for women of purity: these are not affected by what people say: for them there is forgiveness, and a provision honourable.
 
 [Open on Quran.com](https://quran.com/24/26)
 
@@ -186,7 +186,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [they are] those who do not testify to falsehood, and when they pass near ill speech, they pass by with dignity.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ جو جھوٹی گواہی نہیں دیتے اور جب ان کو بیہودہ چیزوں کے پاس سے گزرنے کا اتفاق ہو تو بزرگانہ انداز سے گزرتے ہیں
+**English (Yusuf Ali):** Those who witness no falsehood, and, if they pass by futility, they pass by it with honourable (avoidance);
 
 [Open on Quran.com](https://quran.com/25/72)
 
@@ -202,7 +202,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Did they not look at the earth - how much We have produced therein from every noble kind?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے زمین کی طرف نہیں دیکھا کہ ہم نے اس میں ہر قسم کی کتنی نفیس چیزیں اُگائی ہیں
+**English (Yusuf Ali):** Do they not look at the earth,- how many noble things of all kinds We have produced therein?
 
 [Open on Quran.com](https://quran.com/26/7)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:40 · [[007 Al-Araf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who deny Our verses and are arrogant toward them - the gates of Heaven will not be opened for them, nor will they enter Paradise until a camel enters into the eye of a needle [i.e., never]. And thus do We recompense the criminals.
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے ہماری آیتوں کو جھٹلایا اور ان سے سرتابی کی۔ ان کے لیے نہ آسمان کے دروازے کھولے جائیں گے اور نہ وہ بہشت میں داخل ہوں گے۔ یہاں تک کہ اونٹ سوئی کے ناکے میں سے نہ نکل جائے اور گنہگاروں کو ہم ایسی ہی سزا دیا کرتے ہیں
+**English (Yusuf Ali):** To those who reject Our signs and treat them with arrogance, no opening will there be of the gates of heaven, nor will they enter the garden, until the camel can pass through the eye of the needle: Such is Our reward for those in sin.
 
 [Open on Quran.com](https://quran.com/7/40)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He knows what penetrates into the earth and what emerges from it and what descends from the heaven and what ascends therein. And He is the Merciful, the Forgiving.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو کچھ زمین میں داخل ہوتا ہے اور جو اس میں سے نکلتا ہے اور جو آسمان سے اُترتا ہے اور جو اس پر چڑھتا ہے سب اس کو معلوم ہے۔ اور وہ مہربان (اور) بخشنے والا ہے
+**English (Yusuf Ali):** He knows all that goes into the earth, and all that comes out thereof; all that comes down from the sky and all that ascends thereto and He is the Most Merciful, the Oft-Forgiving.
 
 [Open on Quran.com](https://quran.com/34/2)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who created the heavens and earth in six days and then established Himself above the Throne. He knows what penetrates into the earth and what emerges from it and what descends from the heaven and what ascends therein; and He is with you wherever you are. And Allāh, of what you do, is Seeing.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی ہے جس نے آسمانوں اور زمین کو چھ دن میں پیدا کیا پھر عرش پر جا ٹھہرا۔ جو چیز زمین میں داخل ہوتی اور جو اس سے نکلتی ہے اور جو آسمان سے اُترتی اور جو اس کی طرف چڑھتی ہے سب اس کو معلوم ہے۔ اور تم جہاں کہیں ہو وہ تمہارے ساتھ ہے۔ اور جو کچھ تم کرتے ہو خدا اس کو دیکھ رہا ہے
+**English (Yusuf Ali):** He it is Who created the heavens and the earth in Six Days, and is moreover firmly established on the Throne (of Authority). He knows what enters within the earth and what comes forth out of it, what comes down from heaven and what mounts up to it. And He is with you wheresoever ye may be. And Allah sees well all that ye do.
 
 [Open on Quran.com](https://quran.com/57/4)
 

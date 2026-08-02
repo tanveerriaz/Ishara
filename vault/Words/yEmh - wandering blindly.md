@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:15 · [[002 Al-Baqarah]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [But] Allāh mocks them and prolongs them in their transgression [while] they wander blindly.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان (منافقوں) سے خدا ہنسی کرتا ہے اور انہیں مہلت دیئے جاتا ہے کہ شرارت وسرکشی میں پڑے بہک رہے ہیں
+**English (Yusuf Ali):** Allah will throw back their mockery on them, and give them rope in their trespasses; so they will wander like blind ones (To and fro).
 
 [Open on Quran.com](https://quran.com/2/15)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will turn away their hearts and their eyes just as they refused to believe in it [i.e., the revelation] the first time. And We will leave them in their transgression, wandering blindly.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم ان کے دلوں اور آنکھوں کو الٹ دیں گے (تو) جیسے یہ اس (قرآن) پر پہلی دفعہ ایمان نہیں لائے (ویسے پھر نہ لائیں گے) اور ان کو چھوڑ دیں گے کہ اپنی سرکشی میں بہکتے رہیں
+**English (Yusuf Ali):** We (too) shall turn to (confusion) their hearts and their eyes, even as they refused to believe in this in the first instance: We shall leave them in their trespasses, to wander in distraction.
 
 [Open on Quran.com](https://quran.com/6/110)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Whoever Allāh sends astray - there is no guide for him. And He leaves them in their transgression, wandering blindly.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس شخص کو خدا گمراہ کرے اس کو کوئی ہدایت دینے والا نہیں اور وہ ان (گمراہوں) کو چھوڑے رکھتا ہے کہ اپنی سرکشی میں پڑے بہکتے رہیں
+**English (Yusuf Ali):** To such as Allah rejects from His guidance, there can be no guide: He will leave them in their trespasses, wandering in distraction.
 
 [Open on Quran.com](https://quran.com/7/186)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if Allāh was to hasten for the people the evil [they invoke] as He hastens for them the good, their term would have been ended for them. But We leave the ones who do not expect the meeting with Us, in their transgression, wandering blindly.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا لوگوں کی برائی میں جلدی کرتا جس طرح وہ طلب خیر میں جلدی کرتے ہیں۔ تو ان کی (عمر کی) میعاد پوری ہوچکی ہوتی سو جن لوگوں کو ہم سے ملنے کی توقع نہیں انہیں ہم چھوڑے رکھتے ہیں کہ اپنی سرکشی میں بہکتے رہیں
+**English (Yusuf Ali):** If Allah were to hasten for men the ill (they have earned) as they would fain hasten on the good,- then would their respite be settled at once. But We leave those who rest not their hope on their meeting with Us, in their trespasses, wandering in distraction to and fro.
 
 [Open on Quran.com](https://quran.com/10/11)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** By your life, [O Muḥammad], indeed they were, in their intoxication, wandering blindly.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمد) تمہاری جان کی قسم وہ اپنی مستی میں مدہوش (ہو رہے) تھے
+**English (Yusuf Ali):** Verily, by thy life (O Prophet), in their wild intoxication, they wander in distraction, to and fro.
 
 [Open on Quran.com](https://quran.com/15/72)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And even if We gave them mercy and removed what was upon them of affliction, they would persist in their transgression, wandering blindly.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم ان پر رحم کریں اور جو تکلیفیں ان کو پہنچ رہی ہیں، وہ دور کردیں تو اپنی سرکشی پر اڑے رہیں (اور) بھٹکتے (پھریں)
+**English (Yusuf Ali):** If We had mercy on them and removed the distress which is on them, they would obstinately persist in their transgression, wandering in distraction to and fro.
 
 [Open on Quran.com](https://quran.com/23/75)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, for those who do not believe in the Hereafter, We have made pleasing to them their deeds, so they wander blindly.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ آخرت پر ایمان نہیں رکھتے ہیں ہم نے ان کے اعمال ان کے لئے آرستہ کردیئے ہیں تو وہ سرگرداں ہو رہے ہیں
+**English (Yusuf Ali):** As to those who believe not in the Hereafter, We have made their deeds pleasing in their eyes; and so they wander about in distraction.
 
 [Open on Quran.com](https://quran.com/27/4)
 

@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:31 · [[002 Al-Baqarah]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And He taught Adam the names - all of them. Then He showed them to the angels and said, "Inform Me of the names of these, if you are truthful."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس نے آدم کو سب (چیزوں کے) نام سکھائے پھر ان کو فرشتوں کے سامنے کیا اور فرمایا کہ اگر تم سچے ہو تو مجھے ان کے نام بتاؤ
+**English (Yusuf Ali):** And He taught Adam the names of all things; then He placed them before the angels, and said: "Tell me the names of these if ye are right."
 
 [Open on Quran.com](https://quran.com/2/31)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "O Adam, inform them of their names." And when he had informed them of their names, He said, "Did I not tell you that I know the unseen [aspects] of the heavens and the earth? And I know what you reveal and what you have concealed."
 
-**Urdu (Fatah Muhammad Jalandhari):** (تب) خدا نے (آدم کو) حکم دیا کہ آدم! تم ان کو ان (چیزوں) کے نام بتاؤ۔ جب انہوں نے ان کو ان کے نام بتائے تو (فرشتوں سے) فرمایا کیوں میں نے تم سے نہیں کہا تھا کہ میں آسمانوں اور زمین کی (سب) پوشیدہ باتیں جاتنا ہوں اور جو تم ظاہر کرتے ہو اور جو پوشیدہ کرتے ہو (سب) مجھ کو معلوم ہے
+**English (Yusuf Ali):** He said: "O Adam! Tell them their names." When he had told them, Allah said: "Did I not tell you that I know the secrets of heaven and earth, and I know what ye reveal and what ye conceal?"
 
 [Open on Quran.com](https://quran.com/2/33)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when We said to the angels, "Prostrate before Adam"; so they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے فرشتوں کو حکم دیا کہ آدم کے آگے سجدہ کرو تو وہ سجدے میں گر پڑے مگر شیطان نے انکار کیا اور غرور میں آکر کافر بن گیا
+**English (Yusuf Ali):** And behold, We said to the angels: "Bow down to Adam" and they bowed down. Not so Iblis: he refused and was haughty: He was of those who reject Faith.
 
 [Open on Quran.com](https://quran.com/2/34)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کہا کہ اے آدم تم اور تمہاری بیوی بہشت میں رہو اور جہاں سے چاہو بے روک ٹوک کھاؤ (پیو) لیکن اس درخت کے پاس نہ جانا نہیں تو ظالموں میں (داخل) ہو جاؤ گے
+**English (Yusuf Ali):** We said: "O Adam! dwell thou and thy wife in the Garden; and eat of the bountiful things therein as (where and when) ye will; but approach not this tree, or ye run into harm and transgression."
 
 [Open on Quran.com](https://quran.com/2/35)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of Repentance, the Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر آدم نے اپنے پروردگار سے کچھ کلمات سیکھے (اور معافی مانگی) تو اس نے ان کا قصور معاف کر دیا بے شک وہ معاف کرنے والا (اور) صاحبِ رحم ہے
+**English (Yusuf Ali):** Then learnt Adam from his Lord words of inspiration, and his Lord Turned towards him; for He is Oft-Returning, Most Merciful.
 
 [Open on Quran.com](https://quran.com/2/37)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh chose Adam and Noah and the family of Abraham and the family of ʿImrān over the worlds -
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے آدم اور نوح اور خاندان ابراہیم اور خاندان عمران کو تمام جہان کے لوگوں میں منتخب فرمایا تھا
+**English (Yusuf Ali):** Allah did choose Adam and Noah, the family of Abraham, and the family of 'Imran above all people,-
 
 [Open on Quran.com](https://quran.com/3/33)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the example of Jesus to Allāh is like that of Adam. He created him from dust; then He said to him, "Be," and he was.
 
-**Urdu (Fatah Muhammad Jalandhari):** عیسیٰ کا حال خدا کے نزدیک آدم کا سا ہے کہ اس نے (پہلے) مٹی سے ان کا قالب بنایا پھر فرمایا کہ (انسان) ہو جا تو وہ (انسان) ہو گئے
+**English (Yusuf Ali):** The similitude of Jesus before Allah is as that of Adam; He created him from dust, then said to him: "Be". And he was.
 
 [Open on Quran.com](https://quran.com/3/59)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], "I will surely kill you." Said [the former], "Indeed, Allāh only accepts from the righteous [who fear Him].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (اے محمد) ان کو آدم کے دو بیٹوں (ہابیل اور قابیل) کے حالات (جو بالکل) سچے (ہیں) پڑھ کر سنا دو کہ جب ان دونوں نے خدا (کی جناب میں) کچھ نیازیں چڑھائیں تو ایک کی نیاز تو قبول ہو گئی اور دوسرے کی قبول نہ ہوئی (تب قابیل ہابیل سے) کہنے لگا کہ میں تجھے قتل کروں گا اس نے کہا کہ خدا پرہیزگاروں ہی کی (نیاز) قبول فرمایا کرتا ہے
+**English (Yusuf Ali):** Recite to them the truth of the story of the two sons of Adam. Behold! they each presented a sacrifice (to Allah): It was accepted from one, but not from the other. Said the latter: "Be sure I will slay thee." "Surely," said the former, "Allah doth accept of the sacrifice of those who are righteous.
 
 [Open on Quran.com](https://quran.com/5/27)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have certainly created you, [O mankind], and given you [human] form. Then We said to the angels, "Prostrate to Adam"; so they prostrated, except for Iblees. He was not of those who prostrated.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہی نے تم کو (ابتدا میں مٹی سے) پیدا کیا پھر تمہاری صورت شکل بنائی پھر فرشتوں کو حکم دیا آدم کے آگے سجدہ کرو تو (سب نے) سجدہ کیا لیکن ابلیس کہ وہ سجدہ کرنے والوں میں (شامل) نہ ہوا
+**English (Yusuf Ali):** It is We Who created you and gave you shape; then We bade the angels prostrate to Adam, and they prostrate; not so Iblis; He refused to be of those who prostrate.
 
 [Open on Quran.com](https://quran.com/7/11)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And "O Adam, dwell, you and your wife, in Paradise and eat from wherever you will but do not approach this tree, lest you be among the wrongdoers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے آدم (سے کہا کہ) تم اور تمہاری بیوی بہشت میں رہو سہو اور جہاں سے چاہو (اور جو چاہو) نوش جان کرو مگر اس درخت کے پاس نہ جاؤ ورنہ گنہگار ہو جاؤ گے
+**English (Yusuf Ali):** "O Adam! dwell thou and thy wife in the Garden, and enjoy (its good things) as ye wish: but approach not this tree, or ye run into harm and transgression."
 
 [Open on Quran.com](https://quran.com/7/19)
 

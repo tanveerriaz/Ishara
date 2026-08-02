@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:22 · [[011 Hud]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Assuredly, it is they in the Hereafter who will be the greatest losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** بلاشبہ یہ لوگ آخرت میں سب سے زیادہ نقصان پانے والے ہیں
+**English (Yusuf Ali):** Without a doubt, these are the very ones who will lose most in the Hereafter!
 
 [Open on Quran.com](https://quran.com/11/22)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Assuredly, Allāh knows what they conceal and what they declare. Indeed, He does not like the arrogant.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ جو کچھ چھپاتے ہیں اور جو ظاہر کرتے ہیں خدا اس کو ضرور جانتا ہے۔ وہ سرکشوں کو ہرگز پسند نہیں کرتا
+**English (Yusuf Ali):** Undoubtedly Allah doth know what they conceal, and what they reveal: verily He loveth not the arrogant.
 
 [Open on Quran.com](https://quran.com/16/23)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they attribute to Allāh that which they dislike [i.e., daughters], and their tongues assert the lie that they will have the best [from Him]. Assuredly, they will have the Fire, and they will be [therein] neglected.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ خدا کے لیے ایسی چیزیں تجویز کرتے ہیں جن کو خود ناپسند کرتے ہیں اور زبان سے جھوٹ بکے جاتے ہیں کہ ان کو (قیامت کے دن) بھلائی (یعنی نجات) ہوگی۔ کچھ شک نہیں کہ ان کے لیے (دوزخ کی) آگ (تیار) ہے اور یہ (دوزخ میں) سب سے آگے بھیجے جائیں گے
+**English (Yusuf Ali):** They attribute to Allah what they hate (for themselves), and their tongues assert the falsehood that all good things are for themselves: without doubt for them is the Fire, and they will be the first to be hastened on into it!
 
 [Open on Quran.com](https://quran.com/16/62)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Assuredly, it is they, in the Hereafter, who will be the losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ یہ آخرت میں خسارہ اٹھانے والے ہوں گے
+**English (Yusuf Ali):** Without doubt, in the Hereafter they will perish.
 
 [Open on Quran.com](https://quran.com/16/109)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Assuredly, that to which you invite me has no [response to a] supplication in this world or in the Hereafter; and indeed, our return is to Allāh, and indeed, the transgressors will be companions of the Fire.
 
-**Urdu (Fatah Muhammad Jalandhari):** سچ تو یہ ہے کہ جس چیز کی طرف تم مجھے بلاتے ہو اس کو دنیا اور آخرت میں بلانے (یعنی دعا قبول کرنے) کا مقدور نہیں اور ہم کو خدا کی طرف لوٹنا ہے اور حد سے نکل جانے والے دوزخی ہیں
+**English (Yusuf Ali):** "Without doubt ye do call me to one who is not fit to be called to, whether in this world, or in the Hereafter; our return will be to Allah; and the Transgressors will be Companions of the Fire!
 
 [Open on Quran.com](https://quran.com/40/43)
 

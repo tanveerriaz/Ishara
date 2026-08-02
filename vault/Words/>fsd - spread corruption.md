@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:11 · [[002 Al-Baqarah]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when it is said to them, "Do not cause corruption on the earth," they say, "We are but reformers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان سے کہا جاتا ہے کہ زمین میں فساد نہ ڈالو تو کہتے ہیں، ہم تو اصلاح کرنے والے ہیں
+**English (Yusuf Ali):** When it is said to them: "Make not mischief on the earth," they say: "Why, we only Want to make peace!"
 
 [Open on Quran.com](https://quran.com/2/11)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and cause corruption on earth. It is those who are the losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے اقرار کو مضبوط کرنے کے بعد توڑ دیتے ہیں اور جس چیز (یعنی رشتہٴ قرابت) کے جوڑے رکھنے کا الله نے حکم دیا ہے اس کو قطع کئے ڈالتے ہیں اور زمین میں خرابی کرتے ہیں یہی لوگ نقصان اٹھانے والے ہیں
+**English (Yusuf Ali):** Those who break Allah's Covenant after it is ratified, and who sunder what Allah Has ordered to be joined, and do mischief on earth: These cause loss (only) to themselves.
 
 [Open on Quran.com](https://quran.com/2/27)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], when your Lord said to the angels, "Indeed, I will make upon the earth a successive authority." They said, "Will You place upon it one who causes corruption therein and sheds blood, while we exalt You with praise and declare Your perfection?" He [Allāh] said, "Indeed, I know that which you do not know."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (وہ وقت یاد کرنے کے قابل ہے) جب تمہارے پروردگار نے فرشتوں سے فرمایا کہ میں زمین میں (اپنا) نائب بنانے والا ہوں۔ انہوں نے کہا۔ کیا تُو اس میں ایسے شخص کو نائب بنانا چاہتا ہے جو خرابیاں کرے اور کشت وخون کرتا پھرے اور ہم تیری تعریف کے ساتھ تسبیح وتقدیس کرتے رہتے ہیں۔ (خدا نے) فرمایا میں وہ باتیں جانتا ہوں جو تم نہیں جانتے
+**English (Yusuf Ali):** Behold, thy Lord said to the angels: "I will create a vicegerent on earth." They said: "Wilt Thou place therein one who will make mischief therein and shed blood?- whilst we do celebrate Thy praises and glorify Thy holy (name)?" He said: "I know what ye know not."
 
 [Open on Quran.com](https://quran.com/2/30)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when he goes away, he strives throughout the land to cause corruption therein and destroy crops and animals. And Allāh does not like corruption.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب پیٹھ پھیر کر چلا جاتا ہے تو زمین میں دوڑتا پھرتا ہے تاکہ اس میں فتنہ انگیزی کرے اور کھیتی کو (برباد) اور (انسانوں اور حیوانوں کی) نسل کو نابود کردے اور خدا فتنہ انگیزی کو پسند نہیں کرتا
+**English (Yusuf Ali):** When he turns his back, His aim everywhere is to spread mischief through the earth and destroy crops and cattle. But Allah loveth not mischief.
 
 [Open on Quran.com](https://quran.com/2/205)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And cause not corruption upon the earth after its reformation. And invoke Him in fear and aspiration. Indeed, the mercy of Allāh is near to the doers of good.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ملک میں اصلاح کے بعد خرابی نہ کرنا اور خدا سے خوف کرتے ہوئے اور امید رکھ کر دعائیں مانگتے رہنا۔ کچھ شک نہیں کہ خدا کی رحمت نیکی کرنے والوں سے قریب ہے
+**English (Yusuf Ali):** Do no mischief on the earth, after it hath been set in order, but call on Him with fear and longing (in your hearts): for the Mercy of Allah is (always) near to those who do good.
 
 [Open on Quran.com](https://quran.com/7/56)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to [the people of] Madyan [We sent] their brother Shuʿayb. He said, "O my people, worship Allāh; you have no deity other than Him. There has come to you clear evidence from your Lord. So fulfill the measure and weight and do not deprive people of their due and cause not corruption upon the earth after its reformation. That is better for you, if you should be believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مَدین کی طرف ان کے بھائی شعیب کو بھیجا۔ (تو) انہوں نے کہا کہ قوم! خدا ہی کی عبادت کرو اس کے سوا تمہارا کوئی معبود نہیں۔ تمہارے پاس تمہارے پروردگار کی طرف سے نشانی آچکی ہے تو تم ناپ تول پوری کیا کرو اور لوگوں کو چیزیں کم نہ دیا کرو۔ اور زمین میں اصلاح کے بعد خرابی نہ کرو۔ اگر تم صاحب ایمان ہو تو سمجھ لو کہ یہ بات تمہارے حق میں بہتر ہے
+**English (Yusuf Ali):** To the Madyan people We sent Shu'aib, one of their own brethren: he said: "O my people! worship Allah; Ye have no other god but Him. Now hath come unto you a clear (Sign) from your Lord! Give just measure and weight, nor withhold from the people the things that are their due; and do no mischief on the earth after it has been set in order: that will be best for you, if ye have Faith.
 
 [Open on Quran.com](https://quran.com/7/85)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the eminent among the people of Pharaoh said, "Will you leave Moses and his people to cause corruption in the land and abandon you and your gods?" [Pharaoh] said, "We will kill their sons and keep their women alive; and indeed, we are subjugators over them."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور قومِ فرعون میں جو سردار تھے کہنے لگے کہ کیا آپ موسیٰ اور اس کی قوم کو چھوڑ دیجیے گا کہ ملک میں خرابی کریں اور آپ سے اور آپ کے معبودوں سے دست کش ہوجائیں۔ وہ بولے کہ ہم ان کے لڑکوں کو قتل کرڈالیں گے اور لڑکیوں کو زندہ رہنے دیں گے اور بےشک ہم ان پر غالب ہیں
+**English (Yusuf Ali):** Said the chiefs of Pharaoh's people: "Wilt thou leave Moses and his people, to spread mischief in the land, and to abandon thee and thy gods?" He said: "Their male children will we slay; (only) their females will we save alive; and we have over them (power) irresistible."
 
 [Open on Quran.com](https://quran.com/7/127)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "By Allāh, you have certainly known that we did not come to cause corruption in the land, and we have not been thieves."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ خدا کی قسم تم کو معلوم ہے کہ ہم (اس) ملک میں اس لیے نہیں آئے کہ خرابی کریں اور نہ ہم چوری کیا کرتے ہیں
+**English (Yusuf Ali):** (The brothers) said: "By Allah! well ye know that we came not to make mischief in the land, and we are no thieves!"
 
 [Open on Quran.com](https://quran.com/12/73)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and spread corruption on earth - for them is the curse, and they will have the worst home.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا سے عہد واثق کر کے اس کو توڑ ڈالتے اور (رشتہ ہائے قرابت) کے جوڑے رکھنے کا خدا نے حکم دیا ہے ان کو قطع کر دیتے ہیں اور ملک میں فساد کرتے ہیں۔ ایسوں پر لعنت ہے اور ان کے لیے گھر بھی برا ہے
+**English (Yusuf Ali):** But those who break the Covenant of Allah, after having plighted their word thereto, and cut asunder those things which Allah has commanded to be joined, and work mischief in the land;- on them is the curse; for them is the terrible home!
 
 [Open on Quran.com](https://quran.com/13/25)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who disbelieved and averted [others] from the way of Allāh - We will increase them in punishment over [their] punishment for what corruption they were causing.
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے کفر کیا اور (لوگوں کو) خدا کے رستے سے روکا ہم اُن کو عذاب پر عذاب دیں گے۔ اس لیے کہ شرارت کیا کرتے تھے
+**English (Yusuf Ali):** Those who reject Allah and hinder (men) from the Path of Allah - for them will We add Penalty to Penalty; for that they used to spread mischief.
 
 [Open on Quran.com](https://quran.com/16/88)
 

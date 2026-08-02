@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:150 · [[002 Al-Baqarah]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And from wherever you go out [for prayer], turn your face toward al-Masjid al-Ḥarām. And wherever you [believers] may be, turn your faces toward it in order that the people will not have any argument against you, except for those of them who commit wrong; so fear them not but fear Me. And [it is] so I may complete My favor upon you and that you may be guided,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم جہاں سے نکلو، مسجدِ محترم کی طرف منہ (کرکے نماز پڑھا) کرو۔ اور مسلمانو، تم جہاں ہوا کرو، اسی (مسجد) کی طرف رخ کیا کرو۔ (یہ تاکید) اس لیے (کی گئی ہے) کہ لوگ تم کو کسی طرح کا الزام نہ دے سکیں۔ مگر ان میں سے جو ظالم ہیں، (وہ الزام دیں تو دیں) سو ان سے مت ڈرنا اور مجھی سے ڈرتے رہنا۔ اور یہ بھی مقصود ہے کہ تم کو اپنی تمام نعمتیں بخشوں اور یہ بھی کہ تم راہِ راست پر چلو
+**English (Yusuf Ali):** So from whencesoever Thou startest forth, turn Thy face in the direction of the sacred Mosque; and wheresoever ye are, Turn your face thither: that there be no ground of dispute against you among the people, except those of them that are bent on wickedness; so fear them not, but fear Me; and that I may complete My favours on you, and ye May (consent to) be guided;
 
 [Open on Quran.com](https://quran.com/2/150)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [We sent] messengers as bringers of good tidings and warners so that mankind will have no argument against Allāh after the messengers. And ever is Allāh Exalted in Might and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** (سب) پیغمبروں کو (خدا نے) خوشخبری سنانے والے اور ڈرانے والے (بنا کر بھیجا تھا) تاکہ پیغمبروں کے آنے کے بعد لوگوں کو خدا پر الزام کا موقع نہ رہے اور خدا غالب حکمت والا ہے
+**English (Yusuf Ali):** Messengers who gave good news as well as warning, that mankind, after (the coming) of the messengers, should have no plea against Allah: For Allah is Exalted in Power, Wise.
 
 [Open on Quran.com](https://quran.com/4/165)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And that was Our [conclusive] argument which We gave Abraham against his people. We raise by degrees whom We will. Indeed, your Lord is Wise and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ ہماری دلیل تھی جو ہم نے ابراہیم کو ان کی قوم کے مقابلے میں عطا کی تھی۔ ہم جس کے چاہتے ہیں درجے بلند کردیتے ہیں۔ بےشک تمہارا پروردگار دانا اور خبردار ہے
+**English (Yusuf Ali):** That was the reasoning about Us, which We gave to Abraham (to use) against his people: We raise whom We will, degree after degree: for thy Lord is full of wisdom and knowledge.
 
 [Open on Quran.com](https://quran.com/6/83)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "With Allāh is the far-reaching [i.e., conclusive] argument. If He had willed, He would have guided you all."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ خدا ہی کی حجت غالب ہے اگر وہ چاہتا تو تم سب کو ہدایت دے دیتا
+**English (Yusuf Ali):** Say: "With Allah is the argument that reaches home: if it had been His will, He could indeed have guided you all."
 
 [Open on Quran.com](https://quran.com/6/149)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So to that [religion of Allāh] invite, [O Muḥammad], and remain on a right course as you are commanded and do not follow their inclinations but say, "I have believed in what Allāh has revealed of scripture [i.e., the Qur’ān], and I have been commanded to do justice among you. Allāh is our Lord and your Lord. For us are our deeds, and for you your deeds. There is no [need for] argument between us and you. Allāh will bring us together, and to Him is the [final] destination."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو (اے محمدﷺ) اسی (دین کی) طرف (لوگوں کو) بلاتے رہنا اور جیسا تم کو حکم ہوا ہے (اسی پر) قائم رہنا۔ اور ان کی خواہشوں کی پیروی نہ کرنا۔ اور کہہ دو کہ جو کتاب خدا نے نازل فرمائی ہے میں اس پر ایمان رکھتا ہوں۔ اور مجھے حکم ہوا ہے کہ تم میں انصاف کروں۔ خدا ہی ہمارا اور تمہارا پروردگار ہے۔ ہم کو ہمارے اعمال (کا بدلہ ملے گا) اور تم کو تمہارے اعمال کا۔ ہم میں اور تم میں کچھ بحث وتکرار نہیں۔ خدا ہم (سب) کو اکھٹا کرے گا۔ اور اسی کی طرف لوٹ کر جانا ہے
+**English (Yusuf Ali):** Now then, for that (reason), call (them to the Faith), and stand steadfast as thou art commanded, nor follow thou their vain desires; but say: "I believe in the Book which Allah has sent down; and I am commanded to judge justly between you. Allah is our Lord and your Lord: for us (is the responsibility for) our deeds, and for you for your deeds. There is no contention between us and you. Allah will bring us together, and to Him is (our) Final Goal.
 
 [Open on Quran.com](https://quran.com/42/15)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who argue concerning Allāh after He has been responded to - their argument is invalid with their Lord, and upon them is [His] wrath, and for them is a severe punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا (کے بارے) میں بعد اس کے کہ اسے (مومنوں نے) مان لیا ہو جھگڑتے ہیں ان کے پروردگار کے نزدیک ان کا جھگڑا لغو ہے۔ اور ان پر (خدا کا) غضب اور ان کے لئے سخت عذاب ہے
+**English (Yusuf Ali):** But those who dispute concerning Allah after He has been accepted,- futile is their dispute in the Sight of their Lord: on them will be a Penalty terrible.
 
 [Open on Quran.com](https://quran.com/42/16)
 
@@ -138,7 +138,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when Our verses are recited to them as clear evidences, their argument is only that they say, "Bring [back] our forefathers, if you should be truthful."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کے سامنے ہماری کھلی کھلی آیتیں پڑھی جاتی ہیں تو ان کی یہی حجت ہوتی ہے کہ اگر تم سچے ہو تو ہمارے باپ دادا کو (زندہ کر) لاؤ
+**English (Yusuf Ali):** And when Our Clear Signs are rehearsed to them their argument is nothing but this: They say, "Bring (back) our forefathers, if what ye say is true!"
 
 [Open on Quran.com](https://quran.com/45/25)
 

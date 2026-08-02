@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 18:31 · [[018 Al-Kahf]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those will have gardens of perpetual residence; beneath them rivers will flow. They will be adorned therein with bracelets of gold and will wear green garments of fine silk and brocade, reclining therein on adorned couches. Excellent is the reward, and good is the resting place.
 
-**Urdu (Fatah Muhammad Jalandhari):** ایسے لوگوں کے لئے ہمیشہ رہنے کے باغ ہیں جن میں ان کے (محلوں کے) نیچے نہریں بہہ رہی ہیں ان کو وہاں سونے کے کنگن پہنائے جائیں گے اور وہ باریک دیبا اور اطلس کے سبز کپڑے پہنا کریں گے (اور) تختوں پر تکیئے لگا کر بیٹھا کریں گے۔ (کیا) خوب بدلہ اور (کیا) خوب آرام گاہ ہے
+**English (Yusuf Ali):** For them will be Gardens of Eternity; beneath them rivers will flow; they will be adorned therein with bracelets of gold, and they will wear green garments of fine silk and heavy brocade: They will recline therein on raised thrones. How good the recompense! How beautiful a couch to recline on!
 
 [Open on Quran.com](https://quran.com/18/31)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They and their spouses - in shade, reclining on adorned couches.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ بھی اور ان کی بیویاں بھی سایوں میں تختوں پر تکیے لگائے بیٹھے ہوں گے
+**English (Yusuf Ali):** They and their associates will be in groves of (cool) shade, reclining on Thrones (of dignity);
 
 [Open on Quran.com](https://quran.com/36/56)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Reclining within them, they will call therein for abundant fruit and drink.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان میں تکیٴے لگائے بیٹھے ہوں گے اور (کھانے پینے کے لئے) بہت سے میوے اور شراب منگواتے رہیں گے
+**English (Yusuf Ali):** Therein will they recline (at ease): Therein can they call (at pleasure) for fruit in abundance, and (delicious) drink;
 
 [Open on Quran.com](https://quran.com/38/51)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will be reclining on thrones lined up, and We will marry them to fair women with large, [beautiful] eyes.
 
-**Urdu (Fatah Muhammad Jalandhari):** تختوں پر جو برابر برابر بچھے ہوئے ہیں تکیہ لگائے ہوئے اور بڑی بڑی آنکھوں والی حوروں سے ہم ان کا عقد کر دیں گے
+**English (Yusuf Ali):** They will recline (with ease) on Thrones (of dignity) arranged in ranks; and We shall join them to Companions, with beautiful big and lustrous eyes.
 
 [Open on Quran.com](https://quran.com/52/20)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اہل جنت) ایسے بچھونوں پر جن کے استرا طلس کے ہیں تکیہ لگائے ہوئے ہوں گے۔ اور دونوں باغوں کے میوے قریب (جھک رہے) ہیں
+**English (Yusuf Ali):** They will recline on Carpets, whose inner linings will be of rich brocade: the Fruit of the Gardens will be near (and easy of reach).
 
 [Open on Quran.com](https://quran.com/55/54)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Reclining on green cushions and beautiful fine carpets.
 
-**Urdu (Fatah Muhammad Jalandhari):** سبز قالینوں اور نفیس مسندوں پر تکیہ لگائے بیٹھے ہوں گے
+**English (Yusuf Ali):** Reclining on green Cushions and rich Carpets of beauty.
 
 [Open on Quran.com](https://quran.com/55/76)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Reclining on them, facing each other.
 
-**Urdu (Fatah Muhammad Jalandhari):** آمنے سامنے تکیہ لگائے ہوئے
+**English (Yusuf Ali):** Reclining on them, facing each other.
 
 [Open on Quran.com](https://quran.com/56/16)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [They will be] reclining therein on adorned couches. They will not see therein any [burning] sun or [freezing] cold.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان میں وہ تختوں پر تکیے لگائے بیٹھے ہوں گے۔ وہاں نہ دھوپ (کی حدت) دیکھیں گے نہ سردی کی شدت
+**English (Yusuf Ali):** Reclining in the (Garden) on raised thrones, they will see there neither the sun's (excessive heat) nor (the moon's) excessive cold.
 
 [Open on Quran.com](https://quran.com/76/13)
 

@@ -15,30 +15,30 @@ Jonah · 109 ayahs
 ## Words in this surah (graph)
 
 - [[lqA' - meeting]] — `لِقاء` · meeting
-- [[sAHr - magician]] — `ساحِر` · magician
 - [[njY - we saved]] — `نَجَّى` · we saved
 - [[mrjE - return]] — `مَرْجِع` · return
+- [[sAHr - magician]] — `ساحِر` · magician
 - [[Dr - adversity]] — `ضَرّ` · adversity
-- [[qr'An - quran]] — `قُرْءان` · quran
 - [[yrjwA - expect]] — `يَرْجُوا۟` · expect
-- [[sHr - magic]] — `سِحْر` · magic
 - [[>njY - we saved]] — `أَنجَى` · we saved
-- [[bd> - originates]] — `بَدَأَ` · originates
-- [[sbHAn - glory]] — `سُبْحان` · glory
-- [[nhAr - day]] — `نَهار` · day
-- [[lbv - you remained]] — `لَبِثَ` · you remained
-- [[EAqbp - end]] — `عاقِبَة` · end
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[sHr - magic]] — `سِحْر` · magic
 - [[frH - rejoice]] — `فَرِحَ` · rejoice
-- [[$fyE - any intercessor]] — `شَفِيع` · any intercessor
-- [[qsT - justice]] — `قِسْط` · justice
-- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
-- [[k$f - we removed]] — `كَشَفَ` · we removed
-- [[bgy - rebellion]] — `بَغْي` · rebellion
+- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[slAm - peace]] — `سَلام` · peace
+- [[msrf - transgressors]] — `مُسْرِف` · transgressors
+- [[mjrm - criminals]] — `مُجْرِم` · criminals
 - [[An - now]] — `آن` · now
-- [[flk - ships]] — `فُلْك` · ships
-- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
-- [[Sdq - truth]] — `صَدَقَ` · truth
-- [[mkAn - place]] — `مَكان` · place
+- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
+- [[qsT - justice]] — `قِسْط` · justice
+- [[sbHAn - glory]] — `سُبْحان` · glory
+- [[EAqbp - end]] — `عاقِبَة` · end
+- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
+- [[*lp - humiliation]] — `ذِلَّة` · humiliation
+- [[nhAr - day]] — `نَهار` · day
+- [[$k - doubt]] — `شَكّ` · doubt
+- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
+- [[$fyE - any intercessor]] — `شَفِيع` · any intercessor
 
 ## Roots
 

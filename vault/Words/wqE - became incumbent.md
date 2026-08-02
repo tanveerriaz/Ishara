@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:100 · [[004 An-Nisa]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever emigrates for the cause of Allāh will find on the earth many [alternative] locations and abundance. And whoever leaves his home as an emigrant to Allāh and His Messenger and then death overtakes him - his reward has already become incumbent upon Allāh. And Allāh is ever Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص خدا کی راہ میں گھر بار چھوڑ جائے وہ زمین میں بہت سی جگہ اور کشائش پائے گا اور جو شخص خدا اور رسول کی طرف ہجرت کرکے گھر سے نکل جائے پھر اس کو موت آپکڑے تو اس کا ثواب خدا کے ذمے ہوچکا اور خدا بخشنے والا اور مہربان ہے
+**English (Yusuf Ali):** He who forsakes his home in the cause of Allah, finds in the earth Many a refuge, wide and spacious: Should he die as a refugee from home for Allah and His Messenger, His reward becomes due and sure with Allah: And Allah is Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/4/100)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Hūd] said, "Already have defilement and anger fallen upon you from your Lord. Do you dispute with me concerning [mere] names you have named them, you and your fathers, for which Allāh has not sent down any authority? Then wait; indeed, I am with you among those who wait."
 
-**Urdu (Fatah Muhammad Jalandhari):** ہود نے کہا تمہارے پروردگار کی طرف سے تم پر عذاب اور غضب کا (نازل ہونا) مقرر ہو چکا ہے۔ کیا تم مجھ سے ایسے ناموں کے بارے میں جھگڑتے ہو جو تم نے اور تمہارے باپ دادا نے (اپنی طرف سے) رکھ لئے ہیں۔ جن کی خدا نے کوئی سند نازل نہیں کی۔ تو تم بھی انتظار کرو میں بھی تمہارے ساتھ انتظار کرتا ہوں
+**English (Yusuf Ali):** He said: "Punishment and wrath have already come upon you from your Lord: dispute ye with me over names which ye have devised - ye and your fathers,- without authority from Allah? then wait: I am amongst you, also waiting."
 
 [Open on Quran.com](https://quran.com/7/71)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So the truth was established, and abolished was what they were doing.
 
-**Urdu (Fatah Muhammad Jalandhari):** (پھر) تو حق ثابت ہوگیا اور جو کچھ فرعونی کرتے تھے، باطل ہوگیا
+**English (Yusuf Ali):** Thus truth was confirmed, and all that they did was made of no effect.
 
 [Open on Quran.com](https://quran.com/7/118)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when the punishment descended upon them, they said, "O Moses, invoke for us your Lord by what He has promised you. If you [can] remove the punishment from us, we will surely believe you, and we will send with you the Children of Israel."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان پر عذاب واقع ہوتا تو کہتے کہ موسیٰ ہمارے لیے اپنے پروردگار سے دعا کرو۔ جیسا اس نے تم سے عہد کر رکھا ہے۔ اگر تم ہم سے عذاب کو ٹال دو گے تو ہم تم پر ایمان بھی لے آئیں گے اور بنی اسرائیل کو بھی تمہارے ساتھ جانے (کی اجازت) دیں گے
+**English (Yusuf Ali):** Every time the penalty fell on them, they said: "O Moses! on your behalf call on thy Lord in virtue of his promise to thee: If thou wilt remove the penalty from us, we shall truly believe in thee, and we shall send away the Children of Israel with thee."
 
 [Open on Quran.com](https://quran.com/7/134)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then is it that when it has [actually] occurred you will believe in it? Now? And you were [once] for it impatient.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا جب وہ آ واقع ہوگا تب اس پر ایمان لاؤ گے (اس وقت کہا جائے گا کہ) اور اب (ایمان لائے؟) اس کے لیے تو تم جلدی مچایا کرتے تھے
+**English (Yusuf Ali):** "Would ye then believe in it at last, when it actually cometh to pass? (It will then be said): 'Ah! now? and ye wanted (aforetime) to hasten it on!'
 
 [Open on Quran.com](https://quran.com/10/51)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب اس کو (صورت انسانیہ میں) درست کر لوں اور اس میں اپنی (بےبہا چیز یعنی) روح پھونک دوں تو اس کے آگے سجدے میں گر پڑنا
+**English (Yusuf Ali):** "When I have fashioned him (in due proportion) and breathed into him of My spirit, fall ye down in obeisance unto him."
 
 [Open on Quran.com](https://quran.com/15/29)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you not see that Allāh has subjected to you whatever is on the earth and the ships which run through the sea by His command? And He restrains the sky from falling upon the earth, unless by His permission. Indeed Allāh, to the people, is Kind and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نہیں دیکھتے کہ جتنی چیزیں زمین میں ہیں (سب) خدا نے تمہارے زیرفرمان کر رکھی ہیں اور کشتیاں (بھی) جو اسی کے حکم سے دریا میں چلتی ہیں۔ اور وہ آسمان کو تھامے رہتا ہے کہ زمین پر (نہ) گڑ پڑے مگر اس کے حکم سے۔ بےشک خدا لوگوں پر نہایت شفقت کرنے والا مہربان ہے
+**English (Yusuf Ali):** Seest thou not that Allah has made subject to you (men) all that is on the earth, and the ships that sail through the sea by His Command? He withholds the sky (rain) from failing on the earth except by His leave: for Allah is Most Kind and Most Merciful to man.
 
 [Open on Quran.com](https://quran.com/22/65)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when the word [i.e., decree] befalls them, We will bring forth for them a creature from the earth speaking to them, [saying] that the people were, of Our verses, not certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب اُن کے بارے میں (عذاب) کا وعدہ پورا ہوگا تو ہم اُن کے لئے زمین میں سے ایک جانور نکالیں گے جو ان سے بیان کر دے گا۔ اس لئے کہ لوگ ہماری آیتوں پر ایمان نہیں لاتے تھے
+**English (Yusuf Ali):** And when the Word is fulfilled against them (the unjust), we shall produce from the earth a beast to (face) them: He will speak to them, for that mankind did not believe with assurance in Our Signs.
 
 [Open on Quran.com](https://quran.com/27/82)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the decree will befall them for the wrong they did, and they will not [be able to] speak.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اُن کے ظلم کے سبب اُن کے حق میں وعدہ (عذاب) پورا ہوکر رہے گا تو وہ بول بھی نہ سکیں گے
+**English (Yusuf Ali):** And the Word will be fulfilled against them, because of their wrong-doing, and they will be unable to speak (in plea).
 
 [Open on Quran.com](https://quran.com/27/85)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب اس کو درست کرلوں اور اس میں اپنی روح پھونک دوں تو اس کے آگے سجدے میں گر پڑنا
+**English (Yusuf Ali):** "When I have fashioned him (in due proportion) and breathed into him of My spirit, fall ye down in obeisance unto him."
 
 [Open on Quran.com](https://quran.com/38/72)
 

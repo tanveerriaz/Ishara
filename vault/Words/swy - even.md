@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 19:10 · [[019 Maryam]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Zechariah] said, "My Lord, make for me a sign." He said, "Your sign is that you will not speak to the people for three nights, [being] sound."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہا کہ پروردگار میرے لئے کوئی نشانی مقرر فرما۔ فرمایا نشانی یہ ہے کہ تم صحیح وسالم ہو کر تین (رات دن) لوگوں سے بات نہ کرسکو گے
+**English (Yusuf Ali):** (Zakariya) said: "O my Lord! give me a Sign." "Thy Sign," was the answer, "Shall be that thou shalt speak to no man for three nights, although thou art not dumb."
 
 [Open on Quran.com](https://quran.com/19/10)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And she took, in seclusion from them, a screen. Then We sent to her Our Angel [i.e., Gabriel], and he represented himself to her as a well-proportioned man.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے ان کی طرف سے پردہ کرلیا۔ (اس وقت) ہم نے ان کی طرف اپنا فرشتہ بھیجا۔ تو ان کے سامنے ٹھیک آدمی (کی شکل) بن گیا
+**English (Yusuf Ali):** She placed a screen (to screen herself) from them; then We sent her our angel, and he appeared before her as a man in all respects.
 
 [Open on Quran.com](https://quran.com/19/17)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O my father, indeed there has come to me of knowledge that which has not come to you, so follow me; I will guide you to an even path.
 
-**Urdu (Fatah Muhammad Jalandhari):** ابّا مجھے ایسا علم ملا ہے جو آپ کو نہیں ملا ہے تو میرے ساتھ ہوجیئے میں آپ کو سیدھی راہ پر چلا دوں گا
+**English (Yusuf Ali):** "O my father! to me hath come knowledge which hath not reached thee: so follow me: I will guide thee to a way that is even and straight.
 
 [Open on Quran.com](https://quran.com/19/43)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Each [of us] is waiting; so wait. For you will know who are the companions of the sound path and who is guided."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ سب (نتائج اعمال) کے منتظر ہیں سو تم بھی منتظر رہو۔ عنقریب تم کو معلوم ہوجائے گا کہ (دین کے) سیدھے رستے پر چلنے والے کون ہیں اور (جنت کی طرف) راہ پانے والے کون ہیں (ہم یا تم)
+**English (Yusuf Ali):** Say: "Each one (of us) is waiting: wait ye, therefore, and soon shall ye know who it is that is on the straight and even way, and who it is that has received Guidance."
 
 [Open on Quran.com](https://quran.com/20/135)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then is one who walks fallen on his face better guided or one who walks erect on a straight path?
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا جو شخص چلتا ہوا منہ کے بل گر پڑتا ہے وہ سیدھے رستے پر ہے یا وہ جو سیدھے رستے پر برابر چل رہا ہو؟
+**English (Yusuf Ali):** Is then one who walks headlong, with his face grovelling, better guided,- or one who walks evenly on a Straight Way?
 
 [Open on Quran.com](https://quran.com/67/22)
 

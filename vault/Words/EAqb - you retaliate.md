@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 16:126 · [[016 An-Nahl]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you punish [an enemy, O believers], punish with an equivalent of that with which you were harmed. But if you are patient - it is better for those who are patient.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم ان کو تکلیف دینی چاہو تو اتنی ہی دو جتنی تکلیف تم کو ان سے پہنچی۔ اور اگر صبر کرو تو وہ صبر کرنے والوں کے لیے بہت اچھا ہے
+**English (Yusuf Ali):** And if ye do catch them out, catch them out no worse than they catch you out: But if ye show patience, that is indeed the best (course) for those who are patient.
 
 [Open on Quran.com](https://quran.com/16/126)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That [is so]. And whoever responds [to injustice] with the equivalent of that with which he was harmed and then is tyrannized - Allāh will surely aid him. Indeed, Allāh is Pardoning and Forgiving.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ (بات خدا کے ہاں ٹھہر چکی ہے) اور جو شخص (کسی کو) اتنی ہی ایذا دے جتنی ایذا اس کو دی گئی پھر اس شخص پر زیادتی کی جائے تو خدا اس کی مدد کرے گا۔ بےشک خدا معاف کرنے والا اور بخشنے والا ہے
+**English (Yusuf Ali):** That (is so). And if one has retaliated to no greater extent than the injury he received, and is again set upon inordinately, Allah will help him: for Allah is One that blots out (sins) and forgives (again and again).
 
 [Open on Quran.com](https://quran.com/22/60)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you have lost any of your wives to the disbelievers and you subsequently obtain [something], then give those whose wives have gone the equivalent of what they had spent. And fear Allāh, in whom you are believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تمہاری عورتوں میں سے کوئی عورت تمہارے ہاتھ سے نکل کر کافروں کے پاس چلی جائے (اور اس کا مہر وصول نہ ہوا ہو) پھر تم ان سے جنگ کرو (اور ان سے تم کو غنیمت ہاتھ لگے) تو جن کی عورتیں چلی گئی ہیں ان کو (اس مال میں سے) اتنا دے دو جتنا انہوں نے خرچ کیا تھا اور خدا سے جس پر تم ایمان لائے ہو ڈرو
+**English (Yusuf Ali):** And if any of your wives deserts you to the Unbelievers, and ye have an accession (by the coming over of a woman from the other side), then pay to those whose wives have deserted the equivalent of what they had spent (on their dower). And fear Allah, in Whom ye believe.
 
 [Open on Quran.com](https://quran.com/60/11)
 

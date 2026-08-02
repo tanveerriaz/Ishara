@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 14:41 · [[014 Ibrahim]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Our Lord, forgive me and my parents and the believers the Day the account is established."
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار حساب (کتاب) کے دن مجھ کو اور میرے ماں باپ کو اور مومنوں کو مغفرت کیجیو
+**English (Yusuf Ali):** "O our Lord! cover (us) with Thy Forgiveness - me, my parents, and (all) Believers, on the Day that the Reckoning will be established!
 
 [Open on Quran.com](https://quran.com/14/41)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And dutiful to his parents, and he was not a disobedient tyrant.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ماں باپ کے ساتھ نیکی کرنے والے تھے اور سرکش اور نافرمان نہیں تھے
+**English (Yusuf Ali):** And kind to his parents, and he was not overbearing or rebellious.
 
 [Open on Quran.com](https://quran.com/19/14)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So [Solomon] smiled, amused at her speech, and said, "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو وہ اس کی بات سن کر ہنس پڑے اور کہنے لگے کہ اے پروردگار! مجھے توفیق عطا فرما کہ جو احسان تونے مجھ پر اور میرے ماں باپ پر کئے ہیں ان کا شکر کروں اور ایسے نیک کام کروں کہ تو ان سے خوش ہوجائے اور مجھے اپنی رحمت سے اپنے نیک بندوں میں داخل فرما
+**English (Yusuf Ali):** So he smiled, amused at her speech; and he said: "O my Lord! so order me that I may be grateful for Thy favours, which thou hast bestowed on me and on my parents, and that I may work the righteousness that will please Thee: And admit me, by Thy Grace, to the ranks of Thy righteous Servants."
 
 [Open on Quran.com](https://quran.com/27/19)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have enjoined upon man goodness to parents. But if they endeavor to make you associate with Me that of which you have no knowledge, do not obey them. To Me is your return, and I will inform you about what you used to do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے انسان کو اپنے ماں باپ کے ساتھ نیک سلوک کرنے کا حکم دیا ہے۔ ( اے مخاطب) اگر تیرے ماں باپ تیرے درپے ہوں کہ تو میرے ساتھ کسی کو شریک بنائے جس کی حقیقت کی تجھے واقفیت نہیں۔ تو ان کا کہنا نہ مانیو۔ تم( سب) کو میری طرف لوٹ کر آنا ہے۔ پھر جو کچھ تم کرتے تھے میں تم کو جتا دوں گا
+**English (Yusuf Ali):** We have enjoined on man kindness to parents: but if they (either of them) strive (to force) thee to join with Me (in worship) anything of which thou hast no knowledge, obey them not. Ye have (all) to return to me, and I will tell you (the truth) of all that ye did.
 
 [Open on Quran.com](https://quran.com/29/8)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے انسان کو جسے اُس کی ماں تکلیف پر تکلیف سہہ کر پیٹ میں اُٹھائے رکھتی ہے (پھر اس کو دودھ پلاتی ہے) اور( آخرکار) دو برس میں اس کا دودھ چھڑانا ہوتا ہے (اپنے نیز) اس کے ماں باپ کے بارے میں تاکید کی ہے کہ میرا بھی شکر کرتا رہ اور اپنے ماں باپ کا بھی (کہ تم کو) میری ہی طرف لوٹ کر آنا ہے
+**English (Yusuf Ali):** And We have enjoined on man (to be good) to his parents: in travail upon travail did his mother bear him, and in years twain was his weaning: (hear the command), "Show gratitude to Me and to thy parents: to Me is (thy final) Goal.
 
 [Open on Quran.com](https://quran.com/31/14)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have enjoined upon man, to his parents, good treatment. His mother carried him with hardship and gave birth to him with hardship, and his gestation and weaning [period] is thirty months. [He grows] until, when he reaches maturity and reaches [the age of] forty years, he says, "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to work righteousness of which You will approve and make righteous for me my offspring. Indeed, I have repented to You, and indeed, I am of the Muslims."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے انسان کو اپنے والدین کے ساتھ بھلائی کرنے کا حکم دیا۔ اس کی ماں نے اس کو تکلیف سے پیٹ میں رکھا اور تکلیف ہی سے جنا۔ اور اس کا پیٹ میں رہنا اور دودھ چھوڑنا ڈھائی برس میں ہوتا ہے۔ یہاں تک کہ جب خوب جوان ہوتا ہے اور چالیس برس کو پہنچ جاتا ہے تو کہتا ہے کہ اے میرے پروردگار مجھے توفیق دے کہ تو نے جو احسان مجھ پر اور میرے ماں باپ پر کئے ہیں ان کا شکر گزار ہوں اور یہ کہ نیک عمل کروں جن کو تو پسند کرے۔ اور میرے لئے میری اولاد میں صلاح (وتقویٰ) دے۔ میں تیری طرف رجوع کرتا ہوں اور میں فرمانبرداروں میں ہوں
+**English (Yusuf Ali):** We have enjoined on man kindness to his parents: In pain did his mother bear him, and in pain did she give him birth. The carrying of the (child) to his weaning is (a period of) thirty months. At length, when he reaches the age of full strength and attains forty years, he says, "O my Lord! Grant me that I may be grateful for Thy favour which Thou has bestowed upon me, and upon both my parents, and that I may work righteousness such as Thou mayest approve; and be gracious to me in my issue. Truly have I turned to Thee and truly do I bow (to Thee) in Islam."
 
 [Open on Quran.com](https://quran.com/46/15)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But one who says to his parents, "Uff to you; do you promise me that I will be brought forth [from the earth] when generations before me have already passed on [into oblivion]?" while they call to Allāh for help [and to their son], "Woe to you! Believe! Indeed, the promise of Allāh is truth." But he says, "This is not but legends of the former peoples" -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس شخص نے اپنے ماں باپ سے کہا کہ اُف اُف! تم مجھے یہ بتاتے ہو کہ میں (زمین سے) نکالا جاؤں گا حالانکہ بہت سے لوگ مجھ سے پہلے گزر چکے ہیں۔ اور وہ دونوں خدا کی جناب میں فریاد کرتے (ہوئے کہتے) تھے کہ کم بخت ایمان لا۔ خدا کا وعدہ تو سچا ہے۔ تو کہنے لگا یہ تو پہلے لوگوں کی کہانیاں ہیں
+**English (Yusuf Ali):** But (there is one) who says to his parents, "Fie on you! Do ye hold out the promise to me that I shall be raised up, even though generations have passed before me (without rising again)?" And they two seek Allah's aid, (and rebuke the son): "Woe to thee! Have faith! for the promise of Allah is true." But he says, "This is nothing but tales of the ancients!"
 
 [Open on Quran.com](https://quran.com/46/17)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** My Lord, forgive me and my parents and whoever enters my house a believer and the believing men and believing women. And do not increase the wrongdoers except in destruction."
 
-**Urdu (Fatah Muhammad Jalandhari):** اے میرے پروردگار مجھ کو اور میرے ماں باپ کو اور جو ایمان لا کر میرے گھر میں آئے اس کو اور تمام ایمان والے مردوں اور ایمان والی عورتوں کو معاف فرما اور ظالم لوگوں کے لئے اور زیادہ تباہی بڑھا
+**English (Yusuf Ali):** "O my Lord! Forgive me, my parents, all who enter my house in Faith, and (all) believing men and believing women: and to the wrong-doers grant Thou no increase but in perdition!"
 
 [Open on Quran.com](https://quran.com/71/28)
 

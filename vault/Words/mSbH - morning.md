@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 15:66 · [[015 Al-Hijr]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We conveyed to him [the decree] of that matter: that those [sinners] would be eliminated by early morning.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے لوط کی طرف وحی بھیجی کہ ان لوگوں کی جڑ صبح ہوتے ہوتے کاٹ دی جائے گی
+**English (Yusuf Ali):** And We made known this decree to him, that the last remnants of those (sinners) should be cut off by the morning.
 
 [Open on Quran.com](https://quran.com/15/66)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But the shriek seized them at early morning,
 
-**Urdu (Fatah Muhammad Jalandhari):** تو چیخ نے ان کو صبح ہوتے ہوتے آپکڑا
+**English (Yusuf Ali):** But the (mighty) Blast seized them of a morning,
 
 [Open on Quran.com](https://quran.com/15/83)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, you pass by them in the morning
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم دن کو بھی ان (کی بستیوں) کے پاس سے گزرتے رہتے ہو
+**English (Yusuf Ali):** Verily, ye pass by their (sites), by day-
 
 [Open on Quran.com](https://quran.com/37/137)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم نے ان لوگوں کی اسی طرح آزمائش کی ہے جس طرح باغ والوں کی آزمائش کی تھی۔ جب انہوں نے قسمیں کھا کھا کر کہا کہ صبح ہوتے ہوتے ہم اس کا میوہ توڑ لیں گے
+**English (Yusuf Ali):** Verily We have tried them as We tried the People of the Garden, when they resolved to gather the fruits of the (garden) in the morning.
 
 [Open on Quran.com](https://quran.com/68/17)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they called one another at morning,
 
-**Urdu (Fatah Muhammad Jalandhari):** جب صبح ہوئی تو وہ لوگ ایک دوسرے کو پکارنے لگے
+**English (Yusuf Ali):** As the morning broke, they called out, one to another,-
 
 [Open on Quran.com](https://quran.com/68/21)
 

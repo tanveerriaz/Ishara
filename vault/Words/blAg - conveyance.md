@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:20 · [[003 Ali Imran]]
 
@@ -50,7 +50,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So if they argue with you, say, "I have submitted myself to Allāh [in Islām], and [so have] those who follow me." And say to those who were given the Scripture and [to] the unlearned, "Have you submitted yourselves?" And if they submit [in Islām], they are rightly guided; but if they turn away - then upon you is only the [duty of] notification. And Allāh is Seeing of [His] servants.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر اگر یہ لوگ تم سے جھگڑنے لگیں تو کہنا کہ میں اور میرے پیرو تو خدا کے فرمانبردار ہو چکے اور اہل کتاب اور ان پڑھ لوگوں سے کہو کہ کیا تم بھی (خدا کے فرمانبردار بنتے ہو) اور اسلام لاتے ہو؟ اگر یہ لوگ اسلام لے آئیں تو بے شک ہدایت پالیں اور اگر (تمہارا کہا) نہ مانیں تو تمہارا کام صرف خدا کا پیغام پہنچا دینا ہے اور خدا (اپنے) بندوں کو دیکھ رہا ہے
+**English (Yusuf Ali):** So if they dispute with thee, say: "I have submitted My whole self to Allah and so have those who follow me." And say to the People of the Book and to those who are unlearned: "Do ye (also) submit yourselves?" If they do, they are in right guidance, but if they turn back, Thy duty is to convey the Message; and in Allah's sight are (all) His servants.
 
 [Open on Quran.com](https://quran.com/3/20)
 
@@ -66,7 +66,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And obey Allāh and obey the Messenger and beware. And if you turn away - then know that upon Our Messenger is only [the responsibility for] clear notification.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا کی فرمانبرداری اور رسولِ (خدا) کی اطاعت کرتے رہو اور ڈرتے رہو اگر منہ پھیرو گے تو جان رکھو کہ ہمارے پیغمبر کے ذمے تو صرف پیغام کا کھول کر پہنچا دینا ہے
+**English (Yusuf Ali):** Obey Allah, and obey the Messenger, and beware (of evil): if ye do turn back, know ye that it is Our Messenger's duty to proclaim (the message) in the clearest manner.
 
 [Open on Quran.com](https://quran.com/5/92)
 
@@ -82,7 +82,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Not upon the Messenger is [responsibility] except [for] notification. And Allāh knows whatever you reveal and whatever you conceal.
 
-**Urdu (Fatah Muhammad Jalandhari):** پیغمبر کے ذمے تو صرف پیغام خدا کا پہنچا دینا ہے اور جو کچھ تم ظاہر کرتے ہو اور جو کچھ مخفی کرتے ہو خدا کو سب معلوم ہے
+**English (Yusuf Ali):** The Messenger's duty is but to proclaim (the message). But Allah knoweth all that ye reveal and ye conceal.
 
 [Open on Quran.com](https://quran.com/5/99)
 
@@ -98,7 +98,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whether We show you part of what We promise them or take you in death, upon you is only the [duty of] notification, and upon Us is the account.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم کوئی عذاب جس کا ان لوگوں سے وعدہ کرتے ہیں تمہیں دکھائیں (یعنی تمہارے روبرو ان پر نازل کریں) یا تمہاری مدت حیات پوری کر دیں (یعنی تمہارے انتقال کے بعد عذاب بھیجیں) تو تمہارا کام (ہمارے احکام کا) پہنچا دینا ہے اور ہمارا کام حساب لینا ہے
+**English (Yusuf Ali):** Whether We shall show thee (within thy life-time) part of what we promised them or take to ourselves thy soul (before it is all accomplished),- thy duty is to make (the Message) reach them: it is our part to call them to account.
 
 [Open on Quran.com](https://quran.com/13/40)
 
@@ -114,7 +114,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** This [Qur’ān] is notification for the people that they may be warned thereby and that they may know that He is but one God and that those of understanding will be reminded.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ قرآن لوگوں کے نام (خدا کا پیغام) ہے تاکہ ان کو اس سے ڈرایا جائے اور تاکہ وہ جان لیں کہ وہی اکیلا معبود ہے اور تاکہ اہل عقل نصیحت پکڑیں
+**English (Yusuf Ali):** Here is a Message for mankind: Let them take warning therefrom, and let them know that He is (no other than) One Allah: let men of understanding take heed.
 
 [Open on Quran.com](https://quran.com/14/52)
 
@@ -130,7 +130,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who associate others with Allāh say, "If Allāh had willed, we would not have worshipped anything other than Him, neither we nor our fathers, nor would we have forbidden anything through other than Him." Thus did those do before them. So is there upon the messengers except [the duty of] clear notification?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مشرک کہتے ہیں کہ اگر خدا چاہتا تو نہ ہم ہی اس کے سوا کسی چیز کو پوجتے اور نہ ہمارے بڑے ہی (پوجتے) اور نہ اس کے (فرمان کے) بغیر ہم کسی چیز کو حرام ٹھہراتے۔ (اے پیغمبر) اسی طرح ان سے اگلے لوگوں نے کیا تھا۔ تو پیغمبروں کے ذمے (خدا کے احکام کو) کھول کر سنا دینے کے سوا اور کچھ نہیں
+**English (Yusuf Ali):** The worshippers of false gods say: "If Allah had so willed, we should not have worshipped aught but Him - neither we nor our fathers,- nor should we have prescribed prohibitions other than His." So did those who went before them. But what is the mission of messengers but to preach the Clear Message?
 
 [Open on Quran.com](https://quran.com/16/35)
 
@@ -146,7 +146,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if they turn away, [O Muḥammad] - then only upon you is [responsibility for] clear notification.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر یہ لوگ اعتراض کریں تو (اے پیغمبر) تمہارا کام فقط کھول کر سنا دینا ہے
+**English (Yusuf Ali):** But if they turn away, thy duty is only to preach the clear Message.
 
 [Open on Quran.com](https://quran.com/16/82)
 
@@ -162,7 +162,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, in this [Qur’ān] is notification for a worshipping people.
 
-**Urdu (Fatah Muhammad Jalandhari):** عبادت کرنے والے لوگوں کے لئے اس میں (خدا کے حکموں کی) تبلیغ ہے
+**English (Yusuf Ali):** Verily in this (Qur'an) is a Message for people who would (truly) worship Allah.
 
 [Open on Quran.com](https://quran.com/21/106)
 
@@ -178,7 +178,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Obey Allāh and obey the Messenger; but if you turn away - then upon him is only that [duty] with which he has been charged, and upon you is that with which you have been charged. And if you obey him, you will be [rightly] guided. And there is not upon the Messenger except the [responsibility for] clear notification."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ خدا کی فرمانبرداری کرو اور رسول خدا کے حکم پر چلو۔ اگر منہ موڑو گے تو رسول پر (اس چیز کا ادا کرنا) جو ان کے ذمے ہے اور تم پر (اس چیز کا ادا کرنا) ہے جو تمہارے ذمے ہے اور اگر تم ان کے فرمان پر چلو گے تو سیدھا رستہ پالو گے اور رسول کے ذمے تو صاف صاف (احکام خدا کا) پہنچا دینا ہے
+**English (Yusuf Ali):** Say: "Obey Allah, and obey the Messenger: but if ye turn away, he is only responsible for the duty placed on him and ye for that placed on you. If ye obey him, ye shall be on right guidance. The Messenger's duty is only to preach the clear (Message).
 
 [Open on Quran.com](https://quran.com/24/54)
 
@@ -194,7 +194,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you [people] deny [the message] - already nations before you have denied. And there is not upon the Messenger except [the duty of] clear notification.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم (میری) تکذیب کرو تو تم سے پہلے بھی اُمتیں (اپنے پیغمبروں کی) تکذیب کرچکی ہیں۔ اور پیغمبر کے ذمے کھول کر سنا دینے کے سوا اور کچھ نہیں
+**English (Yusuf Ali):** "And if ye reject (the Message), so did generations before you: and the duty of the messenger is only to preach publicly (and clearly)."
 
 [Open on Quran.com](https://quran.com/29/18)
 

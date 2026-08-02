@@ -14,31 +14,31 @@ The Reality · 52 ayahs
 
 ## Words in this surah (graph)
 
-- [[vmAnyp - eight]] — `ثَمانِيَة` · eight
 - [[t*krp - reminder]] — `تَذْكِرَة` · reminder
-- [[qAl - say]] — `قالَ` · say
+- [[vmAnyp - eight]] — `ثَمانِيَة` · eight
+- [[qbl - before]] — `قَبْل` · before
+- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
+- [[lyl - night]] — `لَيْل` · night
+- [[wAHdp - single]] — `واحِدَة` · single
+- [[>gnY - availed]] — `أَغْنَى` · availed
+- [[yqyn - certainty]] — `يَقِين` · certainty
+- [[Er$ - throne]] — `عَرْش` · throne
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[qr> - read]] — `قَرَأَ` · read
+- [[xAwyp - had overturned]] — `خاوِيَة` · had overturned
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[lys - not]] — `لَيْسَ` · not
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
 - [[mA' - water]] — `ماء` · water
 - [[EZym - great]] — `عَظِيم` · great
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[Hmym - scalding water]] — `حَمِيم` · scalding water
-- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
-- [[Hsrp - regret]] — `حَسْرَة` · regret
-- [[qwl - speech]] — `قَوْل` · speech
-- [[nxl - date-palms]] — `نَخْل` · date-palms
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
+- [[sxr - subjected]] — `سَخِرَ` · subjected
 - [[jA' - came them]] — `جاءَ` · came them
-- [[>bSr - see]] — `أَبْصَرَ` · see
-- [[ryH - wind]] — `رِيح` · wind
-- [[nfx - will blown]] — `نَفَخَ` · will blown
-- [[mlk - angels]] — `مَلَك` · angels
-- [[Elm - know]] — `عَلِمَ` · know
-- [[ErD - its width]] — `عَرَضَ` · its width
-- [[wAHdp - single]] — `واحِدَة` · single
-- [[allah - God]] — `الله` · God
-- [[rADyp - pleasant]] — `راضِيَة` · pleasant
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[*rE - uneasy]] — `ذَرْع` · uneasy
+- [[bED - others]] — `بَعْض` · others
+- [[Hq - truth]] — `حَقّ` · truth
+- [[slslp - chains]] — `سِلْسِلَة` · chains
 
 ## Roots
 

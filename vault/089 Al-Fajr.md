@@ -14,31 +14,31 @@ The Dawn · 30 ayahs
 
 ## Words in this surah (graph)
 
-- [[AbtlY - tried]] — `ابْتَلَى` · tried
 - [[>krm - make comfortable]] — `أَكْرَمَ` · make comfortable
-- [[lyl - night]] — `لَيْل` · night
-- [[mvl - example]] — `مَثَل` · example
-- [[qAl - say]] — `قالَ` · say
-- [[fsAd - corruption]] — `فَساد` · corruption
-- [[mAl - wealth]] — `مال` · wealth
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[wAd - valley]] — `واد` · valley
-- [[Sb - will poured]] — `صَبَّ` · will poured
+- [[AbtlY - tried]] — `ابْتَلَى` · tried
+- [[nEm - cattle]] — `نِعْمَ` · cattle
+- [[rzq - provision]] — `رَزَقَ` · provision
+- [[ytym - orphans]] — `يَتِيم` · orphans
 - [[mskyn - needy]] — `مِسْكِين` · needy
-- [[>rD - earth]] — `أَرْض` · earth
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[kyf - how]] — `كَيْف` · how
+- [[HyAp - life]] — `حَياة` · life
+- [[>y - o you]] — `أَيّ` · o you
 - [[qsm - distribute]] — `قَسَمْ` · distribute
 - [[>kvr - them]] — `أَكْثَر` · them
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
-- [[Hjr - stone]] — `حَجَر` · stone
-- [[rjE - return]] — `رَجَعَ` · return
-- [[bld - city]] — `بَلَد` · city
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[r>Y - you see]] — `رَأَى` · you see
+- [[wAd - valley]] — `واد` · valley
+- [[lyl - night]] — `لَيْل` · night
 - [[qdr - restricts]] — `قَدَر` · restricts
+- [[>Hd - anyone]] — `أَحَد` · anyone
+- [[EAd - aad]] — `عادَ` · aad
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[rADyp - pleasant]] — `راضِيَة` · pleasant
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[TEAm - food]] — `طَعام` · food
+- [[>wtAd - stakes]] — `أَوْتاد` · stakes
+- [[fsAd - corruption]] — `فَساد` · corruption
+- [[qdm - feet]] — `قَدَّمَ` · feet
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[Sb - will poured]] — `صَبَّ` · will poured
+- [[mlk - angels]] — `مَلَك` · angels
 
 ## Roots
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:187 · [[007 Al-Araf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They ask you, [O Muḥammad], about the Hour: when is its arrival? Say, "Its knowledge is only with my Lord. None will reveal its time except Him. It lays heavily upon the heavens and the earth. It will not come upon you except unexpectedly." They ask you as if you are familiar with it. Say, "Its knowledge is only with Allāh, but most of the people do not know."
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ لوگ) تم سے قیامت کے بارے میں پوچھتے ہیں کہ اس کے واقع ہونے کا وقت کب ہے۔ کہہ دو کہ اس کا علم تو میرے پروردگار ہی کو ہے۔ وہی اسے اس کے وقت پر ظاہر کردےگا۔ وہ آسمان وزمین میں ایک بھاری بات ہوگی اور ناگہاں تم پر آجائے گی۔ یہ تم سے اس طرح دریافت کرتے ہیں کہ گویا تم اس سے بخوبی واقف ہو۔ کہو کہ اس کا علم تو خدا ہی کو ہے لیکن اکثر لوگ یہ نہیں جانتے
+**English (Yusuf Ali):** They ask thee about the (final) Hour - when will be its appointed time? Say: "The knowledge thereof is with my Lord (alone): None but He can reveal as to when it will occur. Heavy were its burden through the heavens and the earth. Only, all of a sudden will it come to you." They ask thee as if thou Wert eager in search thereof: Say: "The knowledge thereof is with Allah (alone), but most men know not."
 
 [Open on Quran.com](https://quran.com/7/187)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [Noah] said, "Embark therein; in the name of Allāh [are] its course and its anchorage. Indeed, my Lord is Forgiving and Merciful."
 
-**Urdu (Fatah Muhammad Jalandhari):** (نوح نے) کہا کہ خدا کا نام لے کر (کہ اسی کے ہاتھ میں اس کا) چلنا اور ٹھہرنا (ہے) اس میں سوار ہوجاؤ۔ بےشک میرا پروردگار بخشنے والا مہربان ہے
+**English (Yusuf Ali):** So he said: "Embark ye on the Ark, In the name of Allah, whether it move or be at rest! For my Lord is, be sure, Oft-Forgiving, Most Merciful!"
 
 [Open on Quran.com](https://quran.com/11/41)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They ask you, [O Muḥammad], about the Hour: when is its arrival?
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر، لوگ )تم سے قیامت کے بارے میں پوچھتے ہیں کہ اس کا وقوع کب ہو گا؟
+**English (Yusuf Ali):** They ask thee about the Hour,-'When will be its appointed time?
 
 [Open on Quran.com](https://quran.com/79/42)
 

@@ -14,31 +14,31 @@ The Hypocrites · 11 ayahs
 
 ## Words in this surah (graph)
 
-- [[tSdq - gives charity]] — `تَصَدَّقَ` · gives charity
-- [[sA' - evil]] — `ساءَ` · evil
-- [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[>Ez - mightier]] — `أَعَزّ` · mightier
-- [[tEAl - come]] — `تَعالَ` · come
-- [[qwl - speech]] — `قَوْل` · speech
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[jA' - came them]] — `جاءَ` · came them
-- [[Elm - know]] — `عَلِمَ` · know
-- [[smE - hearing]] — `سَمْع` · hearing
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[xAsr - losers]] — `خاسِر` · losers
-- [[nfs - themselves]] — `نَفْس` · themselves
 - [[r>s - heads]] — `رَأْس` · heads
-- [[allah - God]] — `الله` · God
-- [[qlb - hearts]] — `قَلْب` · hearts
+- [[qbl - before]] — `قَبْل` · before
+- [[qAtl - fight]] — `قاتَلَ` · fight
+- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
+- [[SyHp - shout]] — `صَيْحَة` · shout
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[Eml - do]] — `عَمِلَ` · do
+- [[AnfD - they rushed]] — `انفَضُّ` · they rushed
+- [[jA' - came them]] — `جاءَ` · came them
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>y - o you]] — `أَيّ` · o you
+- [[Hsb - think]] — `حَسْب` · think
+- [[>Ez - mightier]] — `أَعَزّ` · mightier
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[smE - hearing]] — `سَمْع` · hearing
+- [[TbE - were sealed]] — `طَبَعَ` · were sealed
+- [[yfqh - understand]] — `يَفْقَهُ` · understand
+- [[rb - lord]] — `رَبّ` · lord
+- [[>Hd - anyone]] — `أَحَد` · anyone
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[>jl - term]] — `أَجَل` · term
-- [[wld - children]] — `وَلَد` · children
-- [[Ezp - honor]] — `عِزَّة` · honor
-- [[mAl - wealth]] — `مال` · wealth
-- [[qryb - near]] — `قَرِيب` · near
-- [[>rD - earth]] — `أَرْض` · earth
-- [[swA' - it same]] — `سَواء` · it same
+- [[sA' - evil]] — `ساءَ` · evil
+- [[Sd - hinder]] — `صَدّ` · hinder
+- [[qwm - people]] — `قَوْم` · people
 
 ## Roots
 

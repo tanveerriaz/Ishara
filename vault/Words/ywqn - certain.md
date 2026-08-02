@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:4 · [[002 Al-Baqarah]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And who believe in what has been revealed to you, [O Muḥammad], and what was revealed before you, and of the Hereafter they are certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو کتاب (اے محمدﷺ) تم پر نازل ہوئی اور جو کتابیں تم سے پہلے (پیغمبروں پر) نازل ہوئیں سب پر ایمان لاتے اور آخرت کا یقین رکھتے ہیں
+**English (Yusuf Ali):** And who believe in the Revelation sent to thee, and sent before thy time, and (in their hearts) have the assurance of the Hereafter.
 
 [Open on Quran.com](https://quran.com/2/4)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who do not know say, "Why does Allāh not speak to us or there come to us a sign?" Thus spoke those before them like their words. Their hearts resemble each other. We have shown clearly the signs to a people who are certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ (کچھ) نہیں جانتے (یعنی مشرک) وہ کہتے ہیں کہ خدا ہم سے کلام کیوں نہیں کرتا۔ یا ہمارے پاس کوئی نشانی کیوں نہیں آتی۔ اسی طرح جو لوگ ان سے پہلے تھے، وہ بھی انہی کی سی باتیں کیا کرتے تھے۔ ان لوگوں کے دل آپس میں ملتے جلتے ہیں۔ جو لوگ صاحبِ یقین ہیں، ان کے (سمجھانے کے) لیے نشانیاں بیان کردی ہیں
+**English (Yusuf Ali):** Say those without knowledge: "Why speaketh not Allah unto us? or why cometh not unto us a Sign?" So said the people before them words of similar import. Their hearts are alike. We have indeed made clear the Signs unto any people who hold firmly to Faith (in their hearts).
 
 [Open on Quran.com](https://quran.com/2/118)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then is it the judgement of [the time of] ignorance they desire? But who is better than Allāh in judgement for a people who are certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ زمانہٴ جاہلیت کے حکم کے خواہش مند ہیں؟ اور جو یقین رکھتے ہیں ان کے لیے خدا سے اچھا حکم کس کا ہے؟
+**English (Yusuf Ali):** Do they then seek after a judgment of (the days of) ignorance? But who, for a people whose faith is assured, can give better judgment than Allah?
 
 [Open on Quran.com](https://quran.com/5/50)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is Allāh who erected the heavens without pillars that you [can] see; then He established Himself above the Throne and made subject the sun and the moon, each running [its course] for a specified term. He arranges [each] matter; He details the signs that you may, of the meeting with your Lord, be certain.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا وہی تو ہے جس نے ستونوں کے بغیر آسمان جیسا کہ تم دیکھتے ہو (اتنے) اونچے بنائے۔ پھر عرش پر جا ٹھہرا اور سورج اور چاند کو کام میں لگا دیا۔ ہر ایک ایک میعاد معین تک گردش کر رہا ہے۔ وہی (دنیا کے) کاموں کا انتظام کرتا ہے (اس طرح) وہ اپنی آیتیں کھول کھول کر بیان کرتا ہے کہ تم اپنے پروردگار کے روبرو جانے کا یقین کرو
+**English (Yusuf Ali):** Allah is He Who raised the heavens without any pillars that ye can see; is firmly established on the throne (of authority); He has subjected the sun and the moon (to his Law)! Each one runs (its course) for a term appointed. He doth regulate all affairs, explaining the signs in detail, that ye may believe with certainty in the meeting with your Lord.
 
 [Open on Quran.com](https://quran.com/13/2)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who establish prayer and give zakāh, and of the Hereafter they are certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ جو نماز پڑھتے اور زکوٰة دیتے اور آخرت کا یقین رکھتے ہیں
+**English (Yusuf Ali):** Those who establish regular prayers and give in regular charity, and also have (full) assurance of the hereafter.
 
 [Open on Quran.com](https://quran.com/27/3)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when the word [i.e., decree] befalls them, We will bring forth for them a creature from the earth speaking to them, [saying] that the people were, of Our verses, not certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب اُن کے بارے میں (عذاب) کا وعدہ پورا ہوگا تو ہم اُن کے لئے زمین میں سے ایک جانور نکالیں گے جو ان سے بیان کر دے گا۔ اس لئے کہ لوگ ہماری آیتوں پر ایمان نہیں لاتے تھے
+**English (Yusuf Ali):** And when the Word is fulfilled against them (the unjust), we shall produce from the earth a beast to (face) them: He will speak to them, for that mankind did not believe with assurance in Our Signs.
 
 [Open on Quran.com](https://quran.com/27/82)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So be patient. Indeed, the promise of Allāh is truth. And let them not disquiet you who are not certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** پس تم صبر کرو بیشک خدا کا وعدہ سچا ہے اور( دیکھو) جو لوگ یقین نہیں رکھتے وہ تمہیں اوچھا نہ بنادیں
+**English (Yusuf Ali):** So patiently persevere: for verily the promise of Allah is true: nor let those shake thy firmness, who have (themselves) no certainty of faith.
 
 [Open on Quran.com](https://quran.com/30/60)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who establish prayer and give zakāh, and they, of the Hereafter, are certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** جو نماز کی پابندی کرتے اور زکوٰة دیتے اور آخرت کا یقین رکھتے ہیں
+**English (Yusuf Ali):** Those who establish regular Prayer, and give regular Charity, and have (in their hearts) the assurance of the Hereafter.
 
 [Open on Quran.com](https://quran.com/31/4)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We made from among them leaders guiding by Our command when they were patient and [when] they were certain of Our signs.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے ہم نے پیشوا بنائے تھے جو ہمارے حکم سے ہدایت کیا کرتے تھے۔ جب وہ صبر کرتے تھے اور وہ ہماری آیتوں پر یقین رکھتے تھے
+**English (Yusuf Ali):** And We appointed, from among them, leaders, giving guidance under Our command, so long as they persevered with patience and continued to have faith in Our Signs.
 
 [Open on Quran.com](https://quran.com/32/24)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And in the creation of yourselves and what He disperses of moving creatures are signs for people who are certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہاری پیدائش میں بھی۔ اور جانوروں میں بھی جن کو وہ پھیلاتا ہے یقین کرنے والوں کے لئے نشانیاں ہیں
+**English (Yusuf Ali):** And in the creation of yourselves and the fact that animals are scattered (through the earth), are Signs for those of assured Faith.
 
 [Open on Quran.com](https://quran.com/45/4)
 

@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 5:75 · [[005 Al-Maidah]]
 
@@ -51,7 +51,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Messiah, son of Mary, was not but a messenger; [other] messengers have passed on before him. And his mother was a supporter of truth. They both used to eat food. Look how We make clear to them the signs; then look how they are deluded.
 
-**Urdu (Fatah Muhammad Jalandhari):** مسیح ابن مریم تو صرف (خدا) کے پیغمبر تھے ان سے پہلے بھی بہت سے رسول گزر چکے تھے اور ان کی والدہ (مریم خدا کی) ولی اور سچی فرمانبردار تھیں دونوں (انسان تھے اور) کھانا کھاتے تھے دیکھو ہم ان لوگوں کے لیے اپنی آیتیں کس طرح کھول کھول کر بیان کرتے ہیں پھر (یہ) دیکھو کہ یہ کدھر الٹے جا رہے ہیں
+**English (Yusuf Ali):** Christ the son of Mary was no more than a messenger; many were the messengers that passed away before him. His mother was a woman of truth. They had both to eat their (daily) food. See how Allah doth make His signs clear to them; yet see in what ways they are deluded away from the truth!
 
 [Open on Quran.com](https://quran.com/5/75)
 
@@ -67,7 +67,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh is the cleaver of grain and date seeds. He brings the living out of the dead and brings the dead out of the living. That is Allāh; so how are you deluded?
 
-**Urdu (Fatah Muhammad Jalandhari):** بے شک خدا ہی دانے اور گٹھلی کو پھاڑ کر (ان سے درخت وغیرہ) اگاتا ہے وہی جاندار کو بے جان سے نکالتا ہے اور وہی بےجان کا جاندار سے نکالنے والا ہے۔ یہی تو خدا ہے۔ پھر تم کہاں بہکے پھرتے ہو
+**English (Yusuf Ali):** It is Allah Who causeth the seed-grain and the date-stone to split and sprout. He causeth the living to issue from the dead, and He is the one to cause the dead to issue from the living. That is Allah: then how are ye deluded away from the truth?
 
 [Open on Quran.com](https://quran.com/6/95)
 
@@ -83,7 +83,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We inspired to Moses, "Throw your staff," and at once it devoured what they were falsifying.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اس وقت) ہم نے موسیٰ کی طرف وحی بھیجی کہ تم بھی اپنی لاٹھی ڈال دو۔ وہ فوراً (سانپ بن کر) جادوگروں کے بنائے ہوئے سانپوں کو (ایک ایک کرکے) نگل جائے گی
+**English (Yusuf Ali):** We put it into Moses's mind by inspiration: "Throw (now) thy rod": and behold! it swallows up straight away all the falsehoods which they fake!
 
 [Open on Quran.com](https://quran.com/7/117)
 
@@ -99,7 +99,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Jews say, "Ezra is the son of Allāh"; and the Christians say, "The Messiah is the son of Allāh." That is their statement from their mouths; they imitate the saying of those who disbelieved before [them]. May Allāh destroy them; how are they deluded?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہود کہتے ہیں کہ عُزیر خدا کے بیٹے ہیں اور عیسائی کہتے ہیں کہ مسیح خدا کے بیٹے ہیں۔ یہ ان کے منہ کی باتیں ہیں پہلے کافر بھی اسی طرح کی باتیں کہا کرتے تھے یہ بھی انہیں کی ریس کرنے میں لگے ہیں۔ خدا ان کو ہلاک کرے۔ یہ کہاں بہکے پھرتے ہیں
+**English (Yusuf Ali):** The Jews call 'Uzair a son of Allah, and the Christians call Christ the son of Allah. That is a saying from their mouth; (in this) they but imitate what the unbelievers of old used to say. Allah's curse be on them: how they are deluded away from the Truth!
 
 [Open on Quran.com](https://quran.com/9/30)
 
@@ -115,7 +115,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Are there of your 'partners' any who begins creation and then repeats it?" Say, "Allāh begins creation and then repeats it, so how are you deluded?"
 
-**Urdu (Fatah Muhammad Jalandhari):** (ان سے) پوچھو کہ بھلا تمھارے شریکوں میں سے کوئی ایسا ہے کہ مخلوق کو ابتداً پیدا کرے (اور) پھر اس کو دوبارہ بنائے؟ کہہ دو کہ خدا ہی پہلی بار پیدا کرتا ہے پھر وہی اس کو دوبارہ پیدا کرے گا تو تم کہاں اُکسے جارہے ہو
+**English (Yusuf Ali):** Say: "Of your 'partners', can any originate creation and repeat it?" Say: "It is Allah Who originates creation and repeats it: then how are ye deluded away (from the truth)?"
 
 [Open on Quran.com](https://quran.com/10/34)
 
@@ -131,7 +131,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then Moses threw his staff, and at once it devoured what they falsified.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر موسیٰ نے اپنی لاٹھی ڈالی تو وہ ان چیزوں کو جو جادوگروں نے بنائی تھیں یکایک نگلنے لگی
+**English (Yusuf Ali):** Then Moses threw his rod, when, behold, it straightway swallows up all the falsehoods which they fake!
 
 [Open on Quran.com](https://quran.com/26/45)
 
@@ -147,7 +147,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If you asked them, "Who created the heavens and earth and subjected the sun and the moon?" they would surely say, "Allāh." Then how are they deluded?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر اُن سے پوچھو کہ آسمانوں اور زمین کو کس نے پیدا کیا۔ اور سورج اور چاند کو کس نے (تمہارے) زیر فرمان کیا تو کہہ دیں گے خدا نے۔ تو پھر یہ کہاں اُلٹے جا رہے ہیں
+**English (Yusuf Ali):** If indeed thou ask them who has created the heavens and the earth and subjected the sun and the moon (to his Law), they will certainly reply, "Allah". How are they then deluded away (from the truth)?
 
 [Open on Quran.com](https://quran.com/29/61)
 
@@ -163,7 +163,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the Day the Hour appears the criminals will swear they had remained but an hour. Thus they were deluded.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس روز قیامت برپا ہوگی گنہگار قسمیں کھائیں گے کہ وہ (دنیا میں) ایک گھڑی سے زیادہ نہیں رہے تھے۔ اسی طرح وہ (رستے سے) اُلٹے جاتے تھے
+**English (Yusuf Ali):** On the Day that the Hour (of Reckoning) will be established, the transgressors will swear that they tarried not but an hour: thus were they used to being deluded!
 
 [Open on Quran.com](https://quran.com/30/55)
 
@@ -179,7 +179,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O mankind, remember the favor of Allāh upon you. Is there any creator other than Allāh who provides for you from the heaven and earth? There is no deity except Him, so how are you deluded?
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو خدا کے جو تم پر احسانات ہیں ان کو یاد کرو۔ کیا خدا کے سوا کوئی اور خالق (اور رازق ہے) جو تم کو آسمان اور زمین سے رزق دے۔ اس کے سوا کوئی معبود نہیں پس تم کہاں بہکے پھرتے ہو؟
+**English (Yusuf Ali):** O men! Call to mind the grace of Allah unto you! is there a creator, other than Allah, to give you sustenance from heaven or earth? There is no god but He: how then are ye deluded away from the Truth?
 
 [Open on Quran.com](https://quran.com/35/3)
 
@@ -195,7 +195,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is Allāh, your Lord, Creator of all things; there is no deity except Him, so how are you deluded?
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی خدا تمہارا پروردگار ہے جو ہر چیز کا پیدا کرنے والا ہے۔ اس کے سوا کوئی معبود نہیں پھر تم کہاں بھٹک رہے ہو؟
+**English (Yusuf Ali):** Such is Allah, your Lord, the Creator of all things, there is no god but He: Then how ye are deluded away from the Truth!
 
 [Open on Quran.com](https://quran.com/40/62)
 

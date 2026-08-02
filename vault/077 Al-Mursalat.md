@@ -15,30 +15,30 @@ The Emissaries · 50 ayahs
 ## Words in this surah (graph)
 
 - [[AnTlq - proceed]] — `انطَلَقَ` · proceed
-- [[qAl - say]] — `قالَ` · say
-- [[mA' - water]] — `ماء` · water
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[fwAkh - fruits]] — `فَواكِه` · fruits
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
-- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
 - [[qdr - restricts]] — `قَدَر` · restricts
-- [[jbl - mountains]] — `جَبَل` · mountains
+- [[k*b - denied]] — `كَذَبَ` · denied
 - [[mhyn - despised]] — `مَهِين` · despised
-- [[kyd - plot]] — `كَيْد` · plot
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[Eyn - eyes]] — `عَيْن` · eyes
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
+- [[njm - stars]] — `نَجْم` · stars
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[Eml - do]] — `عَمِلَ` · do
+- [[n*r - vows]] — `نَذَرْ` · vows
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[mA' - water]] — `ماء` · water
+- [[>wl - first]] — `أَوَّل` · first
 - [[Tmst - we efface]] — `طُمِسَتْ` · we efface
-- [[qAdr - able]] — `قادِر` · able
-- [[fSl - we explain]] — `فَصَلَ` · we explain
-- [[>sqy - we give you]] — `أَسْقَيْ` · we give you
-- [[ESf - husk]] — `عَصْف` · husk
-- [[mk*b - deniers]] — `مُكَذِّب` · deniers
-- [[>jl - term]] — `أَجَل` · term
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[>y - o you]] — `أَيّ` · o you
 - [[qSr - palaces]] — `قَصْر` · palaces
-- [[>rD - earth]] — `أَرْض` · earth
+- [[rwAsy - firm mountains]] — `رَواسِي` · firm mountains
+- [[fwAkh - fruits]] — `فَواكِه` · fruits
 - [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[>*n - ears]] — `أُذُن` · ears
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[wEd - promise]] — `وَعَدَ` · promise
+- [[>jl - term]] — `أَجَل` · term
+- [[mHsn - good-doers]] — `مُحْسِن` · good-doers
+- [[qAdr - able]] — `قادِر` · able
 
 ## Roots
 

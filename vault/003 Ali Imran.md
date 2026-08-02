@@ -16,29 +16,29 @@ Family of Imran · 200 ayahs
 
 - [[Hsb - think]] — `حَسْب` · think
 - [[>TAE - obey]] — `أَطاعَ` · obey
-- [[qyAmp - resurrection]] — `قِيامَة` · resurrection
-- [[<ymAn - faith]] — `إِيمان` · faith
-- [[mAt - died]] — `ماتَ` · died
-- [[>SAb - befalls you]] — `أَصابَ` · befalls you
 - [[mslm - muslims]] — `مُسْلِم` · muslims
 - [[*nb - sins]] — `ذَنب` · sins
 - [[$hd - bear witness]] — `شَهِدَ` · bear witness
+- [[>SAb - befalls you]] — `أَصابَ` · befalls you
+- [[mAt - died]] — `ماتَ` · died
 - [[gfr - forgive]] — `غَفَرَ` · forgive
-- [[>hl - people]] — `أَهْل` · people
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
-- [[>lym - painful]] — `أَلِيم` · painful
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[HAj - argued]] — `حاجَّ` · argued
-- [[ms - touch]] — `مَسَّ` · touch
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[EAlm - worlds]] — `عالَم` · worlds
+- [[qyAmp - resurrection]] — `قِيامَة` · resurrection
+- [[<ymAn - faith]] — `إِيمان` · faith
 - [[xlq - creation]] — `خَلَقَ` · creation
 - [[>jr - reward]] — `أَجْر` · reward
-- [[rHmp - mercy]] — `رَحْمَة` · mercy
-- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[k*b - denied]] — `كَذَبَ` · denied
 - [[EZym - great]] — `عَظِيم` · great
+- [[ms - touch]] — `مَسَّ` · touch
+- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[HAj - argued]] — `حاجَّ` · argued
 - [[yDr - harms them]] — `يَضُرَّ` · harms them
-- [[kyf - how]] — `كَيْف` · how
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[>lym - painful]] — `أَلِيم` · painful
+- [[b$r - man]] — `بُشِّرَ` · man
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[rHmp - mercy]] — `رَحْمَة` · mercy
+- [[>hl - people]] — `أَهْل` · people
 
 ## Roots
 

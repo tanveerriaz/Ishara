@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:228 · [[002 Al-Baqarah]]
 
@@ -48,7 +48,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Divorced women remain in waiting [i.e., do not remarry] for three periods, and it is not lawful for them to conceal what Allāh has created in their wombs if they believe in Allāh and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to them [i.e., the wives] is similar to what is expected of them, according to what is reasonable. But the men [i.e., husbands] have a degree over them [in responsibility and authority]. And Allāh is Exalted in Might and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
+**English (Yusuf Ali):** Divorced women shall wait concerning themselves for three monthly periods. Nor is it lawful for them to hide what Allah Hath created in their wombs, if they have faith in Allah and the Last Day. And their husbands have the better right to take them back in that period, if they wish for reconciliation. And women shall have rights similar to the rights against them, according to what is equitable; but men have a degree (of advantage) over them. And Allah is Exalted in Power, Wise.
 
 [Open on Quran.com](https://quran.com/2/228)
 
@@ -64,7 +64,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who forms you in the wombs however He wills. There is no deity except Him, the Exalted in Might, the Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جو (ماں کے پیٹ میں) جیسی چاہتا ہے تمہاری صورتیں بناتا ہے اس غالب حکمت والے کے سوا کوئی عبادت کے لائق نہیں
+**English (Yusuf Ali):** He it is Who shapes you in the wombs as He pleases. There is no god but He, the Exalted in Might, the Wise.
 
 [Open on Quran.com](https://quran.com/3/6)
 
@@ -80,7 +80,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allāh, through whom you ask one another, and the wombs. Indeed Allāh is ever, over you, an Observer.
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو اپنے پروردگار سے ڈرو جس نے تم کو ایک شخص سے پیدا کیا (یعنی اول) اس سے اس کا جوڑا بنایا۔ پھر ان دونوں سے کثرت سے مرد وعورت (پیدا کرکے روئے زمین پر) پھیلا دیئے۔ اور خدا سے جس کے نام کو تم اپنی حاجت بر آری کا ذریعہ بناتے ہو ڈرو اور (قطع مودت) ارحام سے (بچو) کچھ شک نہیں کہ خدا تمہیں دیکھ رہا ہے
+**English (Yusuf Ali):** O mankind! reverence your Guardian-Lord, who created you from a single person, created, of like nature, His mate, and from them twain scattered (like seeds) countless men and women;- reverence Allah, through whom ye demand your mutual (rights), and (reverence) the wombs (That bore you): for Allah ever watches over you.
 
 [Open on Quran.com](https://quran.com/4/1)
 
@@ -96,7 +96,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [They are] eight mates - of the sheep, two and of the goats, two. Say, "Is it the two males He has forbidden or the two females or that which the wombs of the two females contain? Inform me with knowledge, if you should be truthful."
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ بڑے چھوٹے چارپائے) آٹھ قسم کے (ہیں) دو (دو) بھیڑوں میں سے اور دو (دو) بکریوں میں سے (یعنی ایک ایک نر اور اور ایک ایک مادہ) (اے پیغمبر ان سے) پوچھو کہ (خدا نے) دونوں (کے) نروں کو حرام کیا ہے یا دونوں (کی) مادنیوں کو یا جو بچہ مادنیوں کے پیٹ میں لپٹ رہا ہو اسے اگر سچے ہو تو مجھے سند سے بتاؤ
+**English (Yusuf Ali):** (Take) eight (head of cattle) in (four) pairs: of sheep a pair, and of goats a pair; say, hath He forbidden the two males, or the two females, or (the young) which the wombs of the two females enclose? Tell me with knowledge if ye are truthful:
 
 [Open on Quran.com](https://quran.com/6/143)
 
@@ -112,7 +112,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And of the camels, two and of the cattle, two. Say, "Is it the two males He has forbidden or the two females or that which the wombs of the two females contain? Or were you witnesses when Allāh charged you with this? Then who is more unjust than one who invents a lie about Allāh to mislead the people by [something] other than knowledge? Indeed, Allāh does not guide the wrongdoing people."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور دو (دو) اونٹوں میں سے اور دو (دو) گایوں میں سے (ان کے بارے میں بھی ان سے) پوچھو کہ (خدا نے) دونوں (کے) نروں کو حرام کیا ہے یا دونوں (کی) مادنیوں کو یا جو بچہ مادنیوں کے پیٹ میں لپٹ رہا ہو اس کو بھلا جس وقت خدا نے تم کو اس کا حکم دیا تھا تم اس وقت موجود تھے؟ تو اس شخص سے زیادہ کون ظالم ہے جو خدا پر جھوٹ افتراء کرے تاکہ اِز راہ بے دانشی لوگوں کو گمراہ کرے کچھ شک نہیں کہ خدا ظالم لوگوں کو ہدایت نہیں دیتا
+**English (Yusuf Ali):** Of camels a pair, and oxen a pair; say, hath He forbidden the two males, or the two females, or (the young) which the wombs of the two females enclose? - Were ye present when Allah ordered you such a thing? But who doth more wrong than one who invents a lie against Allah, to lead astray men without knowledge? For Allah guideth not people who do wrong.
 
 [Open on Quran.com](https://quran.com/6/144)
 
@@ -128,7 +128,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who believed after [the initial emigration] and emigrated and fought with you - they are of you. But those of [blood] relationship are more entitled [to inheritance] in the decree of Allāh. Indeed, Allāh is Knowing of all things.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ بعد میں ایمان لائے اور وطن سے ہجرت کرگئے اور تمہارے ساتھ ہو کر جہاد کرتے رہے وہ بھی تم ہی میں سے ہیں۔ اور رشتہ دار خدا کے حکم کی رو سے ایک دوسرے کے زیادہ حقدار ہیں۔ کچھ شک نہیں کہ خدا ہر چیز سے واقف ہے
+**English (Yusuf Ali):** And those who accept Faith subsequently, and adopt exile, and fight for the Faith in your company,- they are of you. But kindred by blood have prior rights against each other in the Book of Allah. Verily Allah is well-acquainted with all things.
 
 [Open on Quran.com](https://quran.com/8/75)
 
@@ -144,7 +144,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh knows what every female carries and what the wombs lose [prematurely] or exceed. And everything with Him is by due measure.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا ہی اس بچے سے واقف ہے جو عورت کے پیٹ میں ہوتا ہے اور پیٹ کے سکڑنے اور بڑھنے سے بھی (واقف ہے)۔ اور ہر چیز کا اس کے ہاں ایک اندازہ مقرر ہے
+**English (Yusuf Ali):** Allah doth know what every female (womb) doth bear, by how much the wombs fall short (of their time or number) or do exceed. Every single thing is before His sight, in (due) proportion.
 
 [Open on Quran.com](https://quran.com/13/8)
 
@@ -160,7 +160,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O people, if you should be in doubt about the Resurrection, then [consider that] indeed, We created you from dust, then from a sperm-drop, then from a clinging clot, and then from a lump of flesh, formed and unformed - that We may show you. And We settle in the wombs whom We will for a specified term, then We bring you out as a child, and then [We develop you] that you may reach your [time of] maturity. And among you is he who is taken in [early] death, and among you is he who is returned to the most decrepit [old] age so that he knows, after [once having] knowledge, nothing. And you see the earth barren, but when We send down upon it rain, it quivers and swells and grows [something] of every beautiful kind.
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو اگر تم کو مرنے کے بعد جی اُٹھنے میں کچھ شک ہو تو ہم نے تم کو (پہلی بار بھی تو) پیدا کیا تھا (یعنی ابتدا میں) مٹی سے پھر اس سے نطفہ بنا کر۔ پھر اس سے خون کا لوتھڑا بنا کر۔ پھر اس سے بوٹی بنا کر جس کی بناوٹ کامل بھی ہوتی ہے اور ناقص بھی تاکہ تم پر (اپنی خالقیت) ظاہر کردیں۔ اور ہم جس کو چاہتے ہیں ایک میعاد مقرر تک پیٹ میں ٹھہرائے رکھتے ہیں پھر تم کو بچہ بنا کر نکالتے ہیں۔ پھر تم جوانی کو پہنچتے ہو۔ اور بعض (قبل از پیری مرجاتے ہیں اور بعض شیخ فالی ہوجاتے اور بڑھاپے کی) نہایت خراب عمر کی طرف لوٹائے جاتے ہیں کہ بہت کچھ جاننے کے بعد بالکل بےعلم ہوجاتے ہیں۔ اور (اے دیکھنے والے) تو دیکھتا ہے (کہ ایک وقت میں) زمین خشک (پڑی ہوتی ہے) پھر جب ہم اس پر مینہ برساتے ہیں تو شاداب ہوجاتی اور ابھرنے لگتی ہے اور طرح طرح کی بارونق چیزیں اُگاتی ہے
+**English (Yusuf Ali):** O mankind! if ye have a doubt about the Resurrection, (consider) that We created you out of dust, then out of sperm, then out of a leech-like clot, then out of a morsel of flesh, partly formed and partly unformed, in order that We may manifest (our power) to you; and We cause whom We will to rest in the wombs for an appointed term, then do We bring you out as babes, then (foster you) that ye may reach your age of full strength; and some of you are called to die, and some are sent back to the feeblest old age, so that they know nothing after having known (much), and (further), thou seest the earth barren and lifeless, but when We pour down rain on it, it is stirred (to life), it swells, and it puts forth every kind of beautiful growth (in pairs).
 
 [Open on Quran.com](https://quran.com/22/5)
 
@@ -176,7 +176,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh [alone] has knowledge of the Hour and sends down the rain and knows what is in the wombs. And no soul perceives what it will earn tomorrow, and no soul perceives in what land it will die. Indeed, Allāh is Knowing and Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا ہی کو قیامت کا علم ہے اور وہی مینھہ برساتا ہے۔ اور وہی (حاملہ کے) پیٹ کی چیزوں کو جانتا ہے (کہ نر ہے یا مادہ) اور کوئی شخص نہیں جانتا کہ وہ کل کیا کام کرے گا۔ اور کوئی متنفس نہیں جانتا کہ کس سرزمین میں اُسے موت آئے گی بیشک خدا ہی جاننے والا (اور) خبردار ہے
+**English (Yusuf Ali):** Verily the knowledge of the Hour is with Allah (alone). It is He Who sends down rain, and He Who knows what is in the wombs. Nor does any one know what it is that he will earn on the morrow: Nor does any one know in what land he is to die. Verily with Allah is full knowledge and He is acquainted (with all things).
 
 [Open on Quran.com](https://quran.com/31/34)
 
@@ -192,7 +192,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Prophet is more worthy of the believers than themselves, and his wives are [in the position of] their mothers. And those of [blood] relationship are more entitled [to inheritance] in the decree of Allāh than the [other] believers and the emigrants, except that you may do to your close associates a kindness [through bequest]. That was in the Book inscribed.
 
-**Urdu (Fatah Muhammad Jalandhari):** پیغمبر مومنوں پر اُن کی جانوں سے بھی زیادہ حق رکھتے ہیں اور پیغمبر کی بیویاں اُن کی مائیں ہیں۔ اور رشتہ دار آپس میں کتاب الله کے رُو سے مسلمانوں اور مہاجروں سے ایک دوسرے (کے ترکے) کے زیادہ حقدار ہیں۔ مگر یہ کہ تم اپنے دوستوں سے احسان کرنا چاہو۔ (تو اور بات ہے)۔ یہ حکم کتاب یعنی (قرآن) میں لکھ دیا گیا ہے
+**English (Yusuf Ali):** The Prophet is closer to the Believers than their own selves, and his wives are their mothers. Blood-relations among each other have closer personal ties, in the Decree of Allah. Than (the Brotherhood of) Believers and Muhajirs: nevertheless do ye what is just to your closest friends: such is the writing in the Decree (of Allah).
 
 [Open on Quran.com](https://quran.com/33/6)
 

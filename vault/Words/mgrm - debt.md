@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:98 · [[009 At-Tawbah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And among the bedouins are some who consider what they spend as a loss and await for you turns of misfortune. Upon them will be a misfortune of evil. And Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بعض دیہاتی ایسے ہیں کہ جو خرچ کرتے ہیں اسے تاوان سمجھتے ہیں اور تمہارے حق میں مصیبتوں کے منتظر ہیں۔ ان ہی پر بری مصیبت (واقع) ہو۔ اور خدا سننے والا (اور) جاننے والا ہے
+**English (Yusuf Ali):** Some of the desert Arabs look upon their payments as a fine, and watch for disasters for you: on them be the disaster of evil: for Allah is He That heareth and knoweth (all things).
 
 [Open on Quran.com](https://quran.com/9/98)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do you, [O Muḥammad], ask of them a payment, so they are by debt burdened down?
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) کیا تم ان سے صلہ مانگتے ہو کہ ان پر تاوان کا بوجھ پڑ رہا ہے
+**English (Yusuf Ali):** Or is it that thou dost ask for a reward, so that they are burdened with a load of debt?-
 
 [Open on Quran.com](https://quran.com/52/40)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Saying], "Indeed, we are [now] in debt;
 
-**Urdu (Fatah Muhammad Jalandhari):** (کہ ہائے) ہم تو مفت تاوان میں پھنس گئے
+**English (Yusuf Ali):** (Saying), "We are indeed left with debts (for nothing):
 
 [Open on Quran.com](https://quran.com/56/66)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do you ask of them a payment, so they are by debt burdened down?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم ان سے کچھ اجر مانگتے ہو کہ ان پر تاوان کا بوجھ پڑ رہا ہے
+**English (Yusuf Ali):** Or is it that thou dost ask them for a reward, so that they are burdened with a load of debt?-
 
 [Open on Quran.com](https://quran.com/68/46)
 

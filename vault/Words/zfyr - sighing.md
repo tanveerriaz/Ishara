@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:106 · [[011 Hud]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** As for those who were [destined to be] wretched, they will be in the Fire. For them therein is [violent] exhaling and inhaling.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جو بدبخت ہوں گے وہ دوزخ میں (ڈال دیئے جائیں گے) اس میں ان کا چلانا اور دھاڑنا ہوگا
+**English (Yusuf Ali):** Those who are wretched shall be in the Fire: There will be for them therein (nothing but) the heaving of sighs and sobs:
 
 [Open on Quran.com](https://quran.com/11/106)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** For them therein is heavy sighing, and they therein will not hear.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہاں ان کو چلاّنا ہوگا اور اس میں (کچھ) نہ سن سکیں گے
+**English (Yusuf Ali):** There, sobbing will be their lot, nor will they there hear (aught else).
 
 [Open on Quran.com](https://quran.com/21/100)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When it [i.e., the Hellfire] sees them from a distant place, they will hear its fury and roaring.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس وقت وہ ان کو دور سے دیکھے گی (تو غضبناک ہو رہی ہوگی اور یہ) اس کے جوش (غضب) اور چیخنے چلانے کو سنیں گے
+**English (Yusuf Ali):** When it sees them from a place far off, they will hear its fury and its ranging sigh.
 
 [Open on Quran.com](https://quran.com/25/12)
 

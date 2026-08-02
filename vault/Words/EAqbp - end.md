@@ -43,7 +43,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:137 · [[003 Ali Imran]]
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Similar situations [as yours] have passed on before you, so proceed throughout the earth and observe how was the end of those who denied.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم لوگوں سے پہلے بھی بہت سے واقعات گزر چکے ہیں تو تم زمین کی سیر کرکے دیکھ لو کہ جھٹلانے والوں کا کیسا انجام ہوا
+**English (Yusuf Ali):** Many were the Ways of Life that have passed away before you: travel through the earth, and see what was the end of those who rejected Truth.
 
 [Open on Quran.com](https://quran.com/3/137)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Travel through the land; then observe how was the end of the deniers."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ (اے منکرین رسالت) ملک میں چلو پھرو پھر دیکھو کہ جھٹلانے والوں کا کیا انجام ہوا
+**English (Yusuf Ali):** Say: "Travel through the earth and see what was the end of those who rejected Truth."
 
 [Open on Quran.com](https://quran.com/6/11)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O my people, work according to your position; [for] indeed, I am working. And you are going to know who will have succession in the home. Indeed, the wrongdoers will not succeed."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ لوگو تم اپنی جگہ عمل کئے جاؤ میں (اپنی جگہ) عمل کئے جاتا ہوں عنقریب تم کو معلوم ہو جائے گا کہ آخرت میں (بہشت) کس کا گھر ہوگا کچھ شک نہیں کہ مشرک نجات نہیں پانے کے
+**English (Yusuf Ali):** Say: "O my people! Do whatever ye can: I will do (my part): soon will ye know who it is whose end will be (best) in the Hereafter: certain it is that the wrong-doers will not prosper."
 
 [Open on Quran.com](https://quran.com/6/135)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We rained upon them a rain [of stones]. Then see how was the end of the criminals.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان پر (پتھروں کا) مینھ برسایا۔ سو دیکھ لو کہ گنہگاروں کا کیسا انجام ہوا
+**English (Yusuf Ali):** And we rained down on them a shower (of brimstone): Then see what was the end of those who indulged in sin and crime!
 
 [Open on Quran.com](https://quran.com/7/84)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not sit on every path, threatening and averting from the way of Allāh those who believe in Him, seeking to make it [seem] deviant. And remember when you were few and He increased you. And see how was the end of the corrupters.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہر رستے پر مت بیٹھا کرو کہ جو شخص خدا پر ایمان نہیں لاتا ہے اسے تم ڈراتے اور راہ خدا سے روکتے اور اس میں کجی ڈھونڈتے ہو اور (اس وقت کو) یاد کرو جب تم تھوڑے سے تھے تو خدا نے تم کو جماعت کثیر کر دیا اور دیکھ لو کہ خرابی کرنے والوں کا انجام کیسا ہوا
+**English (Yusuf Ali):** "And squat not on every road, breathing threats, hindering from the path of Allah those who believe in Him, and seeking in it something crooked; But remember how ye were little, and He gave you increase. And hold in your mind's eye what was the end of those who did mischief.
 
 [Open on Quran.com](https://quran.com/7/86)
 
@@ -137,7 +137,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We sent after them Moses with Our signs to Pharaoh and his establishment, but they were unjust toward them. So see how was the end of the corrupters.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ان (پیغمبروں) کے بعد ہم نے موسیٰ کو نشانیاں دے کر فرعون اور اس کے اعیانِ سلطنت کے پاس بھیجا تو انہوں نے ان کے ساتھ کفر کیا۔ سو دیکھ لو کہ خرابی کرنے والوں کا انجام کیا ہوا
+**English (Yusuf Ali):** Then after them We sent Moses with Our signs to Pharaoh and his chiefs, but they wrongfully rejected them: So see what was the end of those who made mischief.
 
 [Open on Quran.com](https://quran.com/7/103)
 
@@ -153,7 +153,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Said Moses to his people, "Seek help through Allāh and be patient. Indeed, the earth belongs to Allāh. He causes to inherit it whom He wills of His servants. And the [best] outcome is for the righteous."
 
-**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے اپنی قوم سے کہا کہ خدا سے مدد مانگو اور ثابت قدم رہو۔ زمین تو خدا کی ہے۔ وہ اپنے بندوں میں سے جسے چاہتا ہے اس کا مالک بناتا ہے۔ اور آخر بھلا تو ڈرنے والوں کا ہے
+**English (Yusuf Ali):** Said Moses to his people: "Pray for help from Allah, and (wait) in patience and constancy: for the earth is Allah's, to give as a heritage to such of His servants as He pleaseth; and the end is (best) for the righteous.
 
 [Open on Quran.com](https://quran.com/7/128)
 
@@ -169,7 +169,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Rather, they have denied that which they encompass not in knowledge and whose interpretation has not yet come to them. Thus did those before them deny. Then observe how was the end of the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** حقیقت یہ ہے کہ جس چیز کے علم پر یہ قابو نہیں پاسکے اس کو (نادانی سے) جھٹلا دیا اور ابھی اس کی حقیقت ان پر کھلی ہی نہیں۔ اسی طرح جو لوگ ان سے پہلے تھے انہوں نے تکذیب کی تھی سو دیکھ لو ظالموں کا انجام کیسا ہوا
+**English (Yusuf Ali):** Nay, they charge with falsehood that whose knowledge they cannot compass, even before the elucidation thereof hath reached them: thus did those before them make charges of falsehood: but see what was the end of those who did wrong!
 
 [Open on Quran.com](https://quran.com/10/39)
 
@@ -185,7 +185,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they denied him, so We saved him and those with him in the ship and made them successors, and We drowned those who denied Our signs. Then see how was the end of those who were warned.
 
-**Urdu (Fatah Muhammad Jalandhari):** لیکن ان لوگوں نے ان کی تکذیب کی تو ہم نے ان کو اور جو لوگ ان کے ساتھ کشتی میں سوار تھے سب کو (طوفان سے) بچا لیا اور انہیں (زمین میں) خلیفہ بنادیا اور جن لوگوں نے ہماری آیتوں کو جھٹلایا ان کو غرق کر دیا تو دیکھ لو کہ جو لوگ ڈرائے گئے تھے ان کا کیا انجام ہوا
+**English (Yusuf Ali):** They rejected Him, but We delivered him, and those with him, in the Ark, and We made them inherit (the earth), while We overwhelmed in the flood those who rejected Our Signs. Then see what was the end of those who were warned (but heeded not)!
 
 [Open on Quran.com](https://quran.com/10/73)
 
@@ -201,7 +201,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is from the news of the unseen which We reveal to you, [O Muḥammad]. You knew it not, neither you nor your people, before this. So be patient; indeed, the [best] outcome is for the righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ (حالات) منجملہ غیب کی خبروں کے ہیں جو ہم تمہاری طرف بھیجتے ہیں۔ اور اس سے پہلے نہ تم ہی ان کو جانتے تھے اور نہ تمہاری قوم (ہی ان سے واقف تھی) تو صبر کرو کہ انجام پرہیزگاروں ہی کا (بھلا) ہے
+**English (Yusuf Ali):** Such are some of the stories of the unseen, which We have revealed unto thee: before this, neither thou nor thy people knew them. So persevere patiently: for the End is for those who are righteous.
 
 [Open on Quran.com](https://quran.com/11/49)
 

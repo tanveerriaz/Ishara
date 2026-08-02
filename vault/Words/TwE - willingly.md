@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:83 · [[003 Ali Imran]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So is it other than the religion of Allāh they desire, while to Him have submitted [all] those within the heavens and earth, willingly or by compulsion, and to Him they will be returned?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ (کافر) خدا کے دین کے سوا کسی اور دین کے طالب ہیں حالانکہ سب اہلِ آسمان و زمین خوشی یا زبردستی سے خدا کے فرماں بردار ہیں اور اسی کی طرف لوٹ کر جانے والے ہیں
+**English (Yusuf Ali):** Do they seek for other than the Religion of Allah?-while all creatures in the heavens and on earth have, willing or unwilling, bowed to His Will (Accepted Islam), and to Him shall they all be brought back.
 
 [Open on Quran.com](https://quran.com/3/83)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Spend willingly or unwillingly; never will it be accepted from you. Indeed, you have been a defiantly disobedient people."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ تم (مال) خوشی سے خرچ کرو یا ناخوشی سے تم سے ہرگز قبول نہیں کیا جائے گا تم نافرمان لوگ ہو
+**English (Yusuf Ali):** Say: "Spend (for the cause) willingly or unwillingly: not from you will it be accepted: for ye are indeed a people rebellious and wicked."
 
 [Open on Quran.com](https://quran.com/9/53)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to Allāh prostrates whoever is within the heavens and the earth, willingly or by compulsion, and their shadows [as well] in the mornings and the afternoons.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جتنی مخلوقات آسمانوں اور زمین میں ہے خوشی سے یا زبردستی سے خدا کے آگے سجدہ کرتی ہے اور ان کے سائے بھی صبح وشام (سجدے کرتے ہیں)
+**English (Yusuf Ali):** Whatever beings there are in the heavens and the earth do prostrate themselves to Allah (Acknowledging subjection),- with good-will or in spite of themselves: so do their shadows in the morning and evenings.
 
 [Open on Quran.com](https://quran.com/13/15)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then He directed Himself to the heaven while it was smoke and said to it and to the earth, "Come [into being], willingly or by compulsion." They said, "We have come willingly."
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر آسمان کی طرف متوجہ ہوا اور وہ دھواں تھا تو اس نے اس سے اور زمین سے فرمایا کہ دونوں آؤ (خواہ) خوشی سے خواہ ناخوشی سے۔ انہوں نے کہا کہ ہم خوشی سے آتے ہیں
+**English (Yusuf Ali):** Moreover He comprehended in His design the sky, and it had been (as) smoke: He said to it and to the earth: "Come ye together, willingly or unwillingly." They said: "We do come (together), in willing obedience."
 
 [Open on Quran.com](https://quran.com/41/11)
 

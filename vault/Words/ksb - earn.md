@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:79 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So woe to those who write the "scripture" with their own hands, then say, "This is from Allāh," in order to exchange it for a small price. Woe to them for what their hands have written and woe to them for what they earn.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں پر افسوس ہے جو اپنے ہاتھ سے تو کتاب لکھتے ہیں اور کہتے یہ ہیں کہ یہ خدا کے پاس سے (آئی) ہے، تاکہ اس کے عوض تھوڑی سے قیمت (یعنی دنیوی منفعت) حاصل کریں۔ ان پر افسوس ہے، اس لیے کہ (بےاصل باتیں) اپنے ہاتھ سے لکھتے ہیں اور (پھر) ان پر افسوس ہے، اس لیے کہ ایسے کام کرتے ہیں
+**English (Yusuf Ali):** Then woe to those who write the Book with their own hands, and then say:"This is from Allah," to traffic with it for miserable price!- Woe to them for what their hands do write, and for the gain they make thereby.
 
 [Open on Quran.com](https://quran.com/2/79)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Yes, [on the contrary], whoever earns evil and his sin has encompassed him - those are the companions of the Fire; they will abide therein eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں جو برے کام کرے، اور اس کے گناہ (ہر طرف سے) گھیر لیں تو ایسے لوگ دوزخ (میں جانے) والے ہیں (اور) وہ ہمیشہ اس میں (جلتے) رہیں گے
+**English (Yusuf Ali):** Nay, those who seek gain in evil, and are girt round by their sins,- they are companions of the Fire: Therein shall they abide (For ever).
 
 [Open on Quran.com](https://quran.com/2/81)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That was a nation which has passed on. It will have [the consequence of] what it earned, and you will have what you have earned. And you will not be asked about what they used to do.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ جماعت گزرچکی۔ ان کو اُن کے اعمال (کا بدلہ ملے گا) اور تم کو تمھارے اعمال (کا) اور جو عمل وہ کرتے تھے ان کی پرسش تم سے نہیں ہوگی
+**English (Yusuf Ali):** That was a people that hath passed away. They shall reap the fruit of what they did, and ye of what ye do! Of their merits there is no question in your case!
 
 [Open on Quran.com](https://quran.com/2/134)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is a nation which has passed on. It will have [the consequence of] what it earned, and you will have what you have earned. And you will not be asked about what they used to do.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ جماعت گزر چکی۔ ان کو وہ (ملے گا) جو انہوں نے کیا، اور تم کو وہ جو تم نے کیا۔ اور جو عمل وہ کرتے تھے، اس کی پرسش تم سے نہیں ہوگی
+**English (Yusuf Ali):** That was a people that hath passed away. They shall reap the fruit of what they did, and ye of what ye do! Of their merits there is no question in your case:
 
 [Open on Quran.com](https://quran.com/2/141)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those will have a share of what they have earned, and Allāh is swift in account.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن کے لئے ان کے کاموں کا حصہ (یعنی اجر نیک تیار) ہے اور خدا جلد حساب لینے والا (اور جلد اجر دینے والا) ہے
+**English (Yusuf Ali):** To these will be allotted what they have earned; and Allah is quick in account.
 
 [Open on Quran.com](https://quran.com/2/202)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh does not impose blame upon you for what is unintentional in your oaths, but He imposes blame upon you for what your hearts have earned. And Allāh is Forgiving and Forbearing.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری لغو قسموں پر تم سے مواخذہ نہ کرے گا۔ لیکن جو قسمیں تم قصد دلی سے کھاؤ گے ان پر مواخذہ کرے گا۔ اور خدا بخشنے والا بردبار ہے
+**English (Yusuf Ali):** Allah will not call you to account for thoughtlessness in your oaths, but for the intention in your hearts; and He is Oft-forgiving, Most Forbearing.
 
 [Open on Quran.com](https://quran.com/2/225)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not invalidate your charities with reminders [of it] or injury as does one who spends his wealth [only] to be seen by the people and does not believe in Allāh and the Last Day. His example is like that of a [large] smooth stone upon which is dust and is hit by a downpour that leaves it bare. They are unable [to keep] anything of what they have earned. And Allāh does not guide the disbelieving people.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! اپنے صدقات (وخیرات)احسان رکھنے اور ایذا دینے سے اس شخص کی طرح برباد نہ کردینا۔ جو لوگوں کو دکھاوے کے لئے مال خرچ کرتا ہے اور خدا اور روز آخرت پر ایمان نہیں رکھتا۔ تو اس (کے مال) کی مثال اس چٹان کی سی ہے جس پر تھوڑی سی مٹی پڑی ہو اور اس پر زور کا مینہ برس کر اسے صاف کر ڈالے۔ (اسی طرح) یہ (ریاکار) لوگ اپنے اعمال کا کچھ بھی صلہ حاصل نہیں کرسکیں گے۔ اور خدا ایسے ناشکروں کو ہدایت نہیں دیا کرتا
+**English (Yusuf Ali):** O ye who believe! cancel not your charity by reminders of your generosity or by injury,- like those who spend their substance to be seen of men, but believe neither in Allah nor in the Last Day. They are in parable like a hard, barren rock, on which is a little soil: on it falls heavy rain, which leaves it (Just) a bare stone. They will be able to do nothing with aught they have earned. And Allah guideth not those who reject faith.
 
 [Open on Quran.com](https://quran.com/2/264)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, spend from the good things which you have earned and from that which We have produced for you from the earth. And do not aim toward the defective therefrom, spending [from that] while you would not take it [yourself] except with closed eyes. And know that Allāh is Free of need and Praiseworthy.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جو پاکیزہ اور عمدہ مال تم کماتے ہوں اور جو چیزیں ہم تمہارے لئے زمین سےنکالتے ہیں ان میں سے (راہ خدا میں) خرچ کرو۔ اور بری اور ناپاک چیزیں دینے کا قصد نہ کرنا کہ (اگر وہ چیزیں تمہیں دی جائیں تو) بجز اس کے کہ (لیتے وقت) آنکھیں بند کرلو ان کو کبھی نہ لو۔ اور جان رکھو کہ خدا بےپروا (اور) قابل ستائش ہے
+**English (Yusuf Ali):** O ye who believe! Give of the good things which ye have (honourably) earned, and of the fruits of the earth which We have produced for you, and do not even aim at getting anything which is bad, in order that out of it ye may give away something, when ye yourselves would not receive it except with closed eyes. And know that Allah is Free of all wants, and worthy of all praise.
 
 [Open on Quran.com](https://quran.com/2/267)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And fear a Day when you will be returned to Allāh. Then every soul will be compensated for what it earned, and they will not be wronged [i.e., treated unjustly].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس دن سے ڈرو جب کہ تم خدا کے حضور میں لوٹ کر جاؤ گے اور ہر شخص اپنے اعمال کا پورا پورا بدلہ پائے گا۔ اور کسی کا کچھ نقصان نہ ہوگا
+**English (Yusuf Ali):** And fear the Day when ye shall be brought back to Allah. Then shall every soul be paid what it earned, and none shall be dealt with unjustly.
 
 [Open on Quran.com](https://quran.com/2/281)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people."
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتا۔ اچھے کام کرے گا تو اس کو ان کا فائدہ ملے گا برے کرے گا تو اسے ان کا نقصان پہنچے گا۔ اے پروردگار اگر ہم سے بھول یا چوک ہوگئی ہو تو ہم سے مؤاخذہ نہ کیجیو۔ اے پروردگار ہم پر ایسا بوجھ نہ ڈالیو جیسا تو نے ہم سے پہلے لوگوں پر ڈالا تھا۔ اے پروردگار جتنا بوجھ اٹھانے کی ہم میں طاقت نہیں اتنا ہمارے سر پر نہ رکھیو۔ اور (اے پروردگار) ہمارے گناہوں سے درگزر کر اور ہمیں بخش دے۔ اور ہم پر رحم فرما۔ تو ہی ہمارا مالک ہے اور ہم کو کافروں پر غالب فرما
+**English (Yusuf Ali):** On no soul doth Allah Place a burden greater than it can bear. It gets every good that it earns, and it suffers every ill that it earns. (Pray:) "Our Lord! Condemn us not if we forget or fall into error; our Lord! Lay not on us a burden Like that which Thou didst lay on those before us; Our Lord! Lay not on us a burden greater than we have strength to bear. Blot out our sins, and grant us forgiveness. Have mercy on us. Thou art our Protector; Help us against those who stand against faith."
 
 [Open on Quran.com](https://quran.com/2/286)
 

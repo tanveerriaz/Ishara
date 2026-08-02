@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 5:26 · [[005 Al-Maidah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "Then indeed, it is forbidden to them for forty years [in which] they will wander throughout the land. So do not grieve over the defiantly disobedient people."
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے فرمایا کہ وہ ملک ان پر چالیس برس تک کے لیے حرام کر دیا گیا (کہ وہاں جانے نہ پائیں گے اور جنگل کی) زمین میں سرگرداں پھرتے رہیں گے تو ان نافرمان لوگوں کے حال پر افسوس نہ کرو
+**English (Yusuf Ali):** Allah said: "Therefore will the land be out of their reach for forty years: In distraction will they wander through the land: But sorrow thou not over these rebellious people.
 
 [Open on Quran.com](https://quran.com/5/26)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O People of the Scripture, you are [standing] on nothing until you uphold [the law of] the Torah, the Gospel, and what has been revealed to you from your Lord [i.e., the Qur’ān]." And that which has been revealed to you from your Lord will surely increase many of them in transgression and disbelief. So do not grieve over the disbelieving people.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اے اہل کتاب! جب تک تم تورات اور انجیل کو اور جو (اور کتابیں) تمہارے پروردگار کی طرف سے تم لوگوں پر نازل ہوئیں ان کو قائم نہ رکھو گے کچھ بھی راہ پر نہیں ہو سکتے اور یہ (قرآن) جو تمہارے پروردگار کی طرف سے تم پر نازل ہوا ہے ان میں سے اکثر کی سرکشی اور کفر اور بڑھے گا تو تم قوم کفار پر افسوس نہ کرو
+**English (Yusuf Ali):** Say: "O People of the Book! ye have no ground to stand upon unless ye stand fast by the Law, the Gospel, and all the revelation that has come to you from your Lord." It is the revelation that cometh to thee from thy Lord, that increaseth in most of them their obstinate rebellion and blasphemy. But sorrow thou not over (these) people without Faith.
 
 [Open on Quran.com](https://quran.com/5/68)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he [i.e., Shuʿayb] turned away from them and said, "O my people, I had certainly conveyed to you the messages of my Lord and advised you, so how could I grieve for a disbelieving people?"
 
-**Urdu (Fatah Muhammad Jalandhari):** تو شعیب ان میں سے نکل آئے اور کہا کہ بھائیو میں نے تم کو اپنے پروردگار کے پیغام پہنچا دیئے ہیں اور تمہاری خیرخواہی کی تھی۔ تو میں کافروں پر (عذاب نازل ہونے سے) رنج وغم کیوں کروں
+**English (Yusuf Ali):** So Shu'aib left them, saying: "O my people! I did indeed convey to you the messages for which I was sent by my Lord: I gave you good counsel, but how shall I lament over a people who refuse to believe!"
 
 [Open on Quran.com](https://quran.com/7/93)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In order that you not despair over what has eluded you and not exult [in pride] over what He has given you. And Allāh does not like everyone self-deluded and boastful -
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ جو (مطلب) تم سے فوت ہوگیا ہو اس کا غم نہ کھایا کرو اور جو تم کو اس نے دیا ہو اس پر اترایا نہ کرو۔ اور خدا کسی اترانے اور شیخی بگھارنے والے کو دوست نہیں رکھتا
+**English (Yusuf Ali):** In order that ye may not despair over matters that pass you by, nor exult over favours bestowed upon you. For Allah loveth not any vainglorious boaster,-
 
 [Open on Quran.com](https://quran.com/57/23)
 

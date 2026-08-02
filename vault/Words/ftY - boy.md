@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 12:30 · [[012 Yusuf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And women in the city said, "The wife of al-ʿAzeez is seeking to seduce her slave boy; he has impassioned her with love. Indeed, we see her [to be] in clear error."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور شہر میں عورتیں گفتگوئیں کرنے لگیں کہ عزیز کی بیوی اپنے غلام کو اپنی طرف مائل کرنا چاہتی ہے۔ اور اس کی محبت اس کے دل میں گھر کرگئی ہے۔ ہم دیکھتی ہیں کہ وہ صریح گمراہی میں ہے
+**English (Yusuf Ali):** Ladies said in the City: "The wife of the (great) 'Aziz is seeking to seduce her slave from his (true) self: Truly hath he inspired her with violent love: we see she is evidently going astray."
 
 [Open on Quran.com](https://quran.com/12/30)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when Moses said to his boy [i.e., servant], "I will not cease [traveling] until I reach the junction of the two seas or continue for a long period."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنے شاگرد سے کہا کہ جب تک دو دریاؤں کے ملنے کی جگہ نہ پہنچ جاؤں ہٹنے کا نہیں خواہ برسوں چلتا رہوں
+**English (Yusuf Ali):** Behold, Moses said to his attendant, "I will not give up until I reach the junction of the two seas or (until) I spend years and years in travel."
 
 [Open on Quran.com](https://quran.com/18/60)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when they had passed beyond it, [Moses] said to his boy, "Bring us our morning meal. We have certainly suffered in this, our journey, [much] fatigue."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب آگے چلے تو (موسیٰ نے) اپنے شاگرد سے کہا کہ ہمارے لئے کھانا لاؤ۔ اس سفر سے ہم کو بہت تکان ہوگئی ہے
+**English (Yusuf Ali):** When they had passed on (some distance), Moses said to his attendant: "Bring us our early meal; truly we have suffered much fatigue at this (stage of) our journey."
 
 [Open on Quran.com](https://quran.com/18/62)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "We heard a young man mention them who is called Abraham."
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگوں نے کہا کہ ہم نے ایک جوان کو ان کا ذکر کرتے ہوئے سنا ہے اس کو ابراہیم کہتے ہیں
+**English (Yusuf Ali):** They said, "We heard a youth talk of them: He is called Abraham."
 
 [Open on Quran.com](https://quran.com/21/60)
 

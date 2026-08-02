@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:44 · [[003 Ali Imran]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is from the news of the unseen which We reveal to you, [O Muḥammad]. And you were not with them when they cast their pens as to which of them should be responsible for Mary. Nor were you with them when they disputed.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) یہ باتیں اخبار غیب میں سے ہیں جو ہم تمہارے پاس بھیجتے ہیں اور جب وہ لوگ اپنے قلم (بطور قرعہ) ڈال رہے تھے کہ مریم کا متکفل کون بنے تو تم ان کے پاس نہیں تھے اور نہ اس وقت ہی ان کے پاس تھے جب وہ آپس میں جھگڑ رہے تھے
+**English (Yusuf Ali):** This is part of the tidings of the things unseen, which We reveal unto thee (O Messenger!) by inspiration: Thou wast not with them when they cast lots with arrows, as to which of them should be charged with the care of Mary: Nor wast thou with them when they disputed (the point).
 
 [Open on Quran.com](https://quran.com/3/44)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** These are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ دو (فریق) ایک دوسرے کے دشمن اپنے پروردگار (کے بارے) میں جھگڑتے ہیں۔ تو کافر ہیں ان کے لئے آگ کے کپڑے قطع کئے جائیں گے (اور) ان کے سروں پر جلتا ہوا پانی ڈالا جائے گا
+**English (Yusuf Ali):** These two antagonists dispute with each other about their Lord: But those who deny (their Lord),- for them will be cut out a garment of Fire: over their heads will be poured out boiling water.
 
 [Open on Quran.com](https://quran.com/22/19)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will say while they dispute therein,
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ آپس میں جھگڑیں گے اور کہیں گے
+**English (Yusuf Ali):** "They will say there in their mutual bickerings:
 
 [Open on Quran.com](https://quran.com/26/96)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We had certainly sent to Thamūd their brother Ṣāliḥ, [saying], "Worship Allāh," and at once they were two parties conflicting.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ثمود کی طرف اس کے بھائی صالح کو بھیجا کہ خدا کی عبادت کرو تو وہ دو فریق ہو کر آپس میں جھگڑنے لگے
+**English (Yusuf Ali):** We sent (aforetime), to the Thamud, their brother Salih, saying, "Serve Allah": But behold, they became two factions quarrelling with each other.
 
 [Open on Quran.com](https://quran.com/27/45)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They do not await except one blast which will seize them while they are disputing.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ تو ایک چنگھاڑ کے منتظر ہیں جو ان کو اس حال میں کہ باہم جھگڑ رہے ہوں گے آپکڑے گی
+**English (Yusuf Ali):** They will not (have to) wait for aught but a single Blast: it will seize them while they are yet disputing among themselves!
 
 [Open on Quran.com](https://quran.com/36/49)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** I had no knowledge of the exalted assembly [of angels] when they were disputing [the creation of Adam].
 
-**Urdu (Fatah Muhammad Jalandhari):** مجھ کو اوپر کی مجلس (والوں) کا جب وہ جھگڑتے تھے کچھ بھی علم نہ تھا
+**English (Yusuf Ali):** "No knowledge have I of the Chiefs on high, when they discuss (matters) among themselves.
 
 [Open on Quran.com](https://quran.com/38/69)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then indeed you, on the Day of Resurrection, before your Lord, will dispute.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر تم سب قیامت کے دن اپنے پروردگار کے سامنے جھگڑو گے (اور جھگڑا فیصل کردیا جائے گا)
+**English (Yusuf Ali):** In the end will ye (all), on the Day of Judgment, settle your disputes in the presence of your Lord.
 
 [Open on Quran.com](https://quran.com/39/31)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] will say, "Do not dispute before Me, while I had already presented to you the threat [i.e., warning].
 
-**Urdu (Fatah Muhammad Jalandhari):** (خدا) فرمائے گا کہ ہمارے حضور میں ردوکد نہ کرو۔ ہم تمہارے پاس پہلے ہی (عذاب کی) وعید بھیج چکے تھے
+**English (Yusuf Ali):** He will say: "Dispute not with each other in My Presence: I had already in advance sent you Warning.
 
 [Open on Quran.com](https://quran.com/50/28)
 

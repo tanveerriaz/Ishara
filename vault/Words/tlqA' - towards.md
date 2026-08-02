@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:47 · [[007 Al-Araf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when their eyes are turned toward the companions of the Fire, they say, "Our Lord, do not place us with the wrongdoing people."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کی نگاہیں پلٹ کر اہل دوزخ کی طرف جائیں گی تو عرض کریں گے کہ اے ہمارے پروردگار ہم کو ظالم لوگوں کے ساتھ شامل نہ کیجیو
+**English (Yusuf Ali):** When their eyes shall be turned towards the Companions of the Fire, they will say: "Our Lord! send us not to the company of the wrong-doers."
 
 [Open on Quran.com](https://quran.com/7/47)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when Our verses are recited to them as clear evidences, those who do not expect the meeting with Us say, "Bring us a Qur’ān other than this or change it." Say, [O Muḥammad], "It is not for me to change it on my own accord. I only follow what is revealed to me. Indeed I fear, if I should disobey my Lord, the punishment of a tremendous Day."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کو ہماری آیتیں پڑھ کر سنائی جاتی ہیں تو جن لوگوں کو ہم سے ملنے کی امید نہیں وہ کہتے ہیں کہ (یا تو) اس کے سوا کوئی اور قرآن (بنا) لاؤ یا اس کو بدل دو۔ کہہ دو کہ مجھ کو اختیار نہیں ہے کہ اسے اپنی طرف سے بدل دو۔ میں تو اسی حکم کا تابع ہوں جو میری طرف آتا ہے۔ اگر میں اپنے پروردگار کی نافرمانی کروں تو مجھے بڑے (سخت) دن کے عذاب سے خوف آتا ہے
+**English (Yusuf Ali):** But when Our Clear Signs are rehearsed unto them, those who rest not their hope on their meeting with Us, Say: "Bring us a reading other than this, or change this," Say: "It is not for me, of my own accord, to change it: I follow naught but what is revealed unto me: if I were to disobey my Lord, I should myself fear the penalty of a Great Day (to come)."
 
 [Open on Quran.com](https://quran.com/10/15)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when he directed himself toward Madyan, he said, "Perhaps my Lord will guide me to the sound way."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب مدین کی طرف رخ کیا تو کہنے لگے اُمید ہے کہ میرا پروردگار مجھے سیدھا رستہ بتائے
+**English (Yusuf Ali):** Then, when he turned his face towards (the land of) Madyan, he said: "I do hope that my Lord will show me the smooth and straight Path."
 
 [Open on Quran.com](https://quran.com/28/22)
 

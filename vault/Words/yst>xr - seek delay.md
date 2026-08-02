@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:34 · [[007 Al-Araf]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And for every nation is a [specified] term. So when their time has come, they will not remain behind an hour, nor will they precede [it].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہر ایک فرقے کے لیے (موت کا) ایک وقت مقرر ہے۔ جب وہ آ جاتا ہے تو نہ تو ایک گھڑی دیر کرسکتے ہیں نہ جلدی
+**English (Yusuf Ali):** To every people is a term appointed: when their term is reached, not an hour can they cause delay, nor (an hour) can they advance (it in anticipation).
 
 [Open on Quran.com](https://quran.com/7/34)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "I possess not for myself any harm or benefit except what Allāh should will. For every nation is a [specified] term. When their time has come, then they will not remain behind an hour, nor will they precede [it]."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں اپنے نقصان اور فائدے کا بھی کچھ اختیار نہیں رکھتا۔ مگر جو خدا چاہے۔ ہر ایک امت کے لیے (موت کا) ایک وقت مقرر ہے۔ جب وہ وقت آجاتا ہے تو ایک گھڑی بھی دیر نہیں کرسکتے اور نہ جلدی کرسکتے ہیں
+**English (Yusuf Ali):** Say: "I have no power over any harm or profit to myself except as Allah willeth. To every people is a term appointed: when their term is reached, not an hour can they cause delay, nor (an hour) can they advance (it in anticipation)."
 
 [Open on Quran.com](https://quran.com/10/49)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** No nation will precede its term, nor will they remain thereafter.
 
-**Urdu (Fatah Muhammad Jalandhari):** کوئی جماعت اپنی مدت (وفات) سے نہ آگے نکل سکتی ہے نہ پیچھے رہ سکتی ہے
+**English (Yusuf Ali):** Neither can a people anticipate its term, nor delay it.
 
 [Open on Quran.com](https://quran.com/15/5)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if Allāh were to impose blame on the people for their wrongdoing, He would not have left upon it [i.e., the earth] any creature, but He defers them for a specified term. And when their term has come, they will not remain behind an hour, nor will they precede [it].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا لوگوں کو ان کے ظلم کے سبب پکڑنے لگے تو ایک جاندار کو زمین پر نہ چھوڑے لیکن ان کو ایک وقت مقرر تک مہلت دیئے جاتا ہے۔ جب وہ وقت آجاتا ہے تو ایک گھڑی نہ پیچھے رہ سکتے ہیں نہ آگے بڑھ سکتے ہیں
+**English (Yusuf Ali):** If Allah were to punish men for their wrong-doing, He would not leave, on the (earth), a single living creature: but He gives them respite for a stated Term: When their Term expires, they would not be able to delay (the punishment) for a single hour, just as they would not be able to anticipate it (for a single hour).
 
 [Open on Quran.com](https://quran.com/16/61)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** No nation will precede its time [of termination], nor will they remain [thereafter].
 
-**Urdu (Fatah Muhammad Jalandhari):** کوئی جماعت اپنے وقت سے نہ آگے جاسکتی ہے نہ پیچھے رہ سکتی ہے
+**English (Yusuf Ali):** No people can hasten their term, nor can they delay (it).
 
 [Open on Quran.com](https://quran.com/23/43)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "For you is the appointment of a Day [when] you will not remain thereafter an hour, nor will you precede [it]."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ تم سے ایک دن کا وعدہ ہے جس سے نہ ایک گھڑی پیچھے رہوگے اور نہ آگے بڑھو گے
+**English (Yusuf Ali):** Say: "The appointment to you is for a Day, which ye cannot put back for an hour nor put forward."
 
 [Open on Quran.com](https://quran.com/34/30)
 

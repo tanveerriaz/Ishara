@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:112 · [[006 Al-Anam]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus We have made for every prophet an enemy - devils from mankind and jinn, inspiring to one another decorative speech in delusion. But if your Lord had willed, they would not have done it, so leave them and that which they invent.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے شیطان (سیرت) انسانوں اور جنوں کو ہر پیغمبر کا دشمن بنا دیا تھا وہ دھوکا دینے کے لیے ایک دوسرے کے دل میں ملمع کی باتیں ڈالتے رہتے تھے اور اگر تمہارا پروردگار چاہتا تو وہ ایسا نہ کرتے تو ان کو اور جو کچھ یہ افتراء کرتے ہیں اسے چھوڑ دو
+**English (Yusuf Ali):** Likewise did We make for every Messenger an enemy,- evil ones among men and jinns, inspiring each other with flowery discourses by way of deception. If thy Lord had so planned, they would not have done it: so leave them and their inventions alone.
 
 [Open on Quran.com](https://quran.com/6/112)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The example of [this] worldly life is but like rain which We have sent down from the sky that the plants of the earth absorb - [those] from which men and livestock eat - until, when the earth has taken on its adornment and is beautified and its people suppose that they have capability over it, there comes to it Our command by night or by day, and We make it as a harvest, as if it had not flourished yesterday. Thus do We explain in detail the signs for a people who give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** دنیا کی زندگی کی مثال مینھہ کی سی ہے کہ ہم نے اس کو آسمان سے برسایا۔ پھر اس کے ساتھ سبزہ جسے آدمی اور جانور کھاتے ہیں مل کر نکلا یہاں تک کہ زمین سبزے سے خوشنما اور آراستہ ہوگئی اور زمین والوں نے خیال کیا کہ وہ اس پر پوری دسترس رکھتے ہیں ناگہاں رات کو یا دن کو ہمارا حکم (عذاب) آپہنچا تو ہم نے اس کو کاٹ (کر ایسا کر) ڈالا کہ گویا کل وہاں کچھ تھا ہی نہیں۔ جو لوگ غور کرنے والے ہیں۔ ان کے لیے ہم (اپنی قدرت کی) نشانیاں اسی طرح کھول کھول کر بیان کرتے ہیں
+**English (Yusuf Ali):** The likeness of the life of the present is as the rain which We send down from the skies: by its mingling arises the produce of the earth- which provides food for men and animals: (It grows) till the earth is clad with its golden ornaments and is decked out (in beauty): the people to whom it belongs think they have all powers of disposal over it: There reaches it Our command by night or by day, and We make it like a harvest clean-mown, as if it had not flourished only the day before! thus do We explain the Signs in detail for those who reflect.
 
 [Open on Quran.com](https://quran.com/10/24)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or you have a house of ornament [i.e., gold] or you ascend into the sky. And [even then], we will not believe in your ascension until you bring down to us a book we may read." Say, "Exalted is my Lord! Was I ever but a human messenger?"
 
-**Urdu (Fatah Muhammad Jalandhari):** یا تو تمہارا سونے کا گھر ہو یا تم آسمان پر چڑھ جاؤ۔ اور ہم تمہارے چڑھنے کو بھی نہیں مانیں گے جب تک کہ کوئی کتاب نہ لاؤ جسے ہم پڑھ بھی لیں۔ کہہ دو کہ میرا پروردگار پاک ہے میں تو صرف ایک پیغام پہنچانے والا انسان ہوں
+**English (Yusuf Ali):** "Or thou have a house adorned with gold, or thou mount a ladder right into the skies. No, we shall not even believe in thy mounting until thou send down to us a book that we could read." Say: "Glory to my Lord! Am I aught but a man,- a messenger?"
 
 [Open on Quran.com](https://quran.com/17/93)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And gold ornament. But all that is not but the enjoyment of worldly life. And the Hereafter with your Lord is for the righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (خوب) تجمل وآرائش (کردیتے) اور یہ سب دنیا کی زندگی کا تھوڑا سا سامان ہے۔ اور آخرت تمہارے پروردگار کے ہاں پرہیزگاروں کے لئے ہے
+**English (Yusuf Ali):** And also adornments of gold. But all this were nothing but conveniences of the present life: The Hereafter, in the sight of thy Lord is for the Righteous.
 
 [Open on Quran.com](https://quran.com/43/35)
 

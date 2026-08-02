@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 17:91 · [[017 Al-Isra]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or [until] you have a garden of palm trees and grapes and make rivers gush forth within them in force [and abundance]
 
-**Urdu (Fatah Muhammad Jalandhari):** یا تمہارا کھجوروں اور انگوروں کا کوئی باغ ہو اور اس کے بیچ میں نہریں بہا نکالو
+**English (Yusuf Ali):** "Or (until) thou have a garden of date trees and vines, and cause rivers to gush forth in their midst, carrying abundant water;
 
 [Open on Quran.com](https://quran.com/17/91)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Each of the two gardens produced its fruit and did not fall short thereof in anything. And We caused to gush forth within them a river.
 
-**Urdu (Fatah Muhammad Jalandhari):** دونوں باغ (کثرت سے) پھل لاتے۔ اور اس (کی پیداوار) میں کسی طرح کی کمی نہ ہوتی اور دونوں میں ہم نے ایک نہر بھی جاری کر رکھی تھی
+**English (Yusuf Ali):** Each of those gardens brought forth its produce, and failed not in the least therein: in the midst of them We caused a river to flow.
 
 [Open on Quran.com](https://quran.com/18/33)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We placed therein gardens of palm trees and grapevines and caused to burst forth therefrom some springs -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس میں کھجوروں اور انگوروں کے باغ پیدا کیے اور اس میں چشمے جاری کردیئے
+**English (Yusuf Ali):** And We produce therein orchard with date-palms and vines, and We cause springs to gush forth therein:
 
 [Open on Quran.com](https://quran.com/36/34)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And caused the earth to burst with springs, and the waters met for a matter already predestined.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور زمین میں چشمے جاری کردیئے تو پانی ایک کام کے لئے جو مقدر ہوچکا تھا جمع ہوگیا
+**English (Yusuf Ali):** And We caused the earth to gush forth with springs, so the waters met (and rose) to the extent decreed.
 
 [Open on Quran.com](https://quran.com/54/12)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** A spring of which the [righteous] servants of Allāh will drink; they will make it gush forth in force [and abundance].
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ ایک چشمہ ہے جس میں سے خدا کے بندے پئیں گے اور اس میں سے (چھوٹی چھوٹی) نہریں نکالیں گے
+**English (Yusuf Ali):** A Fountain where the Devotees of Allah do drink, making it flow in unstinted abundance.
 
 [Open on Quran.com](https://quran.com/76/6)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when the seas are erupted
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب دریا بہہ (کر ایک دوسرے سے مل) جائیں گے
+**English (Yusuf Ali):** When the Oceans are suffered to burst forth;
 
 [Open on Quran.com](https://quran.com/82/3)
 

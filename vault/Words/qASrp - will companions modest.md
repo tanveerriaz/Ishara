@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 37:48 · [[037 As-Saffat]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And with them will be women limiting [their] glances, with large, [beautiful] eyes,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے پاس عورتیں ہوں گی جو نگاہیں نیچی رکھتی ہوں گی اور آنکھیں بڑی بڑی
+**English (Yusuf Ali):** And besides them will be chaste women, restraining their glances, with big eyes (of wonder and beauty).
 
 [Open on Quran.com](https://quran.com/37/48)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And with them will be women limiting [their] glances and of equal age.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے پاس نیچی نگاہ رکھنے والی (اور) ہم عمر (عورتیں) ہوں گی
+**English (Yusuf Ali):** And beside them will be chaste women restraining their glances, (companions) of equal age.
 
 [Open on Quran.com](https://quran.com/38/52)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In them are women limiting [their] glances, untouched before them by man or jinnī -
 
-**Urdu (Fatah Muhammad Jalandhari):** ان میں نیچی نگاہ والی عورتیں ہیں جن کو اہل جنت سے پہلے نہ کسی انسان نے ہاتھ لگایا اور نہ کسی جن نے
+**English (Yusuf Ali):** In them will be (Maidens), chaste, restraining their glances, whom no man or Jinn before them has touched;-
 
 [Open on Quran.com](https://quran.com/55/56)
 

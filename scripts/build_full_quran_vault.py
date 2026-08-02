@@ -30,7 +30,7 @@ MIN_SURAHS_FOR_WORD = 3
 MAX_WORDS_PER_SURAH = 25
 MAX_SURAHS_LISTED = 25
 MAX_WORDS_PER_ROOT = 25
-MAX_OCC_LINES = 10  # full verses per word note (Arabic + EN + UR)
+MAX_OCC_LINES = 10  # full verses per word note (Arabic + Sahih International + Yusuf Ali)
 
 AR_TO_BW = {
     "ء": "'", "آ": "A", "أ": ">", "ؤ": "&", "إ": "<", "ئ": "}",
@@ -449,7 +449,7 @@ tags: [root, meaning]
             encoding="utf-8",
         )
 
-    # Words — full verse context (Arabic + English + Urdu)
+    # Words — full verse context (Arabic + Sahih International + Yusuf Ali)
     print("Writing words…")
     for lk, slug in word_slug.items():
         if lk == "ALLAH":
@@ -467,7 +467,7 @@ tags: [root, meaning]
             abs_i = verse_by_key[vk]
             arabic = uth[abs_i]["text_uthmani"]
             en = si[abs_i]
-            urdu = ur[abs_i]
+            ya_t = ya[abs_i]
             sname = surah_filename(s, chapter_by_id[s]["name_simple"])
             verse_blocks.append(
                 f"""#### {vk} · [[{sname}]]
@@ -482,7 +482,7 @@ tags: [root, meaning]
 
 **English (Sahih International):** {en}
 
-**Urdu (Fatah Muhammad Jalandhari):** {urdu}
+**English (Yusuf Ali):** {ya_t}
 
 [Open on Quran.com](https://quran.com/{s}/{a})
 """
@@ -521,7 +521,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to {MAX_OCC_LINES} verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to {MAX_OCC_LINES} verses.
 
 {chr(10).join(verse_blocks)}{more_line}
 """,
@@ -670,8 +670,7 @@ tags: [meta, sources]
 # Sources
 
 - Arabic: Quran.com / Tanzil Uthmani
-- English on word-verse blocks: Sahih International (API id 20)
-- Urdu on word-verse blocks: Fatah Muhammad Jalandhari (API id 234)
+- English on word-verse blocks: Sahih International (API id 20) + Yusuf Ali (API id 22)
 - Full-chapter reading: quran.com links from surah hubs
 - Morphology: Quranic Arabic Corpus (mustafa0x/quran-morphology)
 - Root labels: Lane lexicon dataset + curated senses

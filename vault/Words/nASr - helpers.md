@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:22 · [[003 Ali Imran]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They are the ones whose deeds have become worthless in this world and the Hereafter, and for them there will be no helpers.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ ایسے لوگ ہیں جن کے اعمال دنیا اور آخرت دونوں میں برباد ہیں اور ان کا کوئی مددگار نہیں (ہوگا)
+**English (Yusuf Ali):** They are those whose works will bear no fruit in this world and in the Hereafter nor will they have anyone to help.
 
 [Open on Quran.com](https://quran.com/3/22)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And as for those who disbelieved, I will punish them with a severe punishment in this world and the Hereafter, and they will have no helpers."
 
-**Urdu (Fatah Muhammad Jalandhari):** یعنی جو کافر ہوئے ان کو دنیا اور آخرت (دونوں) میں سخت عذاب دوں گا اور ان کا کوئی مددگار نہ ہوگا
+**English (Yusuf Ali):** "As to those who reject faith, I will punish them with terrible agony in this world and in the Hereafter, nor will they have anyone to help."
 
 [Open on Quran.com](https://quran.com/3/56)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve and die while they are disbelievers - never would the [whole] capacity of the earth in gold be accepted from one of them if he would [seek to] ransom himself with it. For those there will be a painful punishment, and they will have no helpers.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے اور کفر ہی کی حالت میں مر گئے وہ اگر (نجات حاصل کرنی چاہیں اور) بدلے میں زمین بھر کر سونا دیں تو ہرگز قبول نہ کیا جائے گا ان لوگوں کو دکھ دینے والا عذاب ہو گا اور ان کی کوئی مدد نہیں کرے گا
+**English (Yusuf Ali):** As to those who reject Faith, and die rejecting,- never would be accepted from any such as much gold as the earth contains, though they should offer it for ransom. For such is (in store) a penalty grievous, and they will find no helpers.
 
 [Open on Quran.com](https://quran.com/3/91)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But Allāh is your protector, and He is the best of helpers.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ تمہارے مددگار نہیں ہیں) بلکہ خدا تمہارا مددگار ہے اور وہ سب سے بہتر مددگار ہے
+**English (Yusuf Ali):** Nay, Allah is your protector, and He is the best of helpers.
 
 [Open on Quran.com](https://quran.com/3/150)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Even] if you should strive for their guidance, [O Muḥammad], indeed, Allāh does not guide those He sends astray, and they will have no helpers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم ان (کفار) کی ہدایت کے لیے للچاؤ تو جس کو خدا گمراہ کردیتا ہے اس کو وہ ہدایت نہیں دیا کرتا اور ایسے لوگوں کا کوئی مددگار بھی نہیں ہوتا
+**English (Yusuf Ali):** If thou art anxious for their guidance, yet Allah guideth not such as He leaves to stray, and there is none to help them.
 
 [Open on Quran.com](https://quran.com/16/37)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [Abraham] said, "You have only taken, other than Allāh, idols as [a bond of] affection among you in worldly life. Then on the Day of Resurrection you will deny one another and curse one another, and your refuge will be the Fire, and you will not have any helpers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم نے کہا کہ تم جو خدا کو چھوڑ کر بتوں کو لے بیٹھے ہو تو دنیا کی زندگی میں باہم دوستی کے لئے (مگر) پھر قیامت کے دن تم ایک دوسرے (کی دوستی) سے انکار کر دو گے اور ایک دوسرے پر لعنت بھیجو گے اور تمہارا ٹھکانا دوزخ ہوگا اور کوئی تمہارا مددگار نہ ہوگا
+**English (Yusuf Ali):** And he said: "For you, ye have taken (for worship) idols besides Allah, out of mutual love and regard between yourselves in this life; but on the Day of Judgment ye shall disown each other and curse each other: and your abode will be the Fire, and ye shall have none to help."
 
 [Open on Quran.com](https://quran.com/29/25)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those who wrong follow their [own] desires without knowledge. Then who can guide one whom Allāh has sent astray? And for them there are no helpers.
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر جو ظالم ہیں بےسمجھے اپنی خواہشوں کے پیچھے چلتے ہیں تو جس کو خدا گمراہ کرے اُسے کون ہدایت دے سکتا ہے؟ اور ان کا کوئی مددگار نہیں
+**English (Yusuf Ali):** Nay, the wrong-doers (merely) follow their own lusts, being devoid of knowledge. But who will guide those whom Allah leaves astray? To them there will be no helpers.
 
 [Open on Quran.com](https://quran.com/30/29)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it will be said, "Today We will forget you as you forgot the meeting of this Day of yours, and your refuge is the Fire, and for you there are no helpers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہا جائے گا کہ جس طرح تم نے اس دن کے آنے کو بھلا رکھا تھا۔ اسی طرح آج ہم تمہیں بھلا دیں گے اور تمہارا ٹھکانا دوزخ ہے اور کوئی تمہارا مددگار نہیں
+**English (Yusuf Ali):** It will also be said: "This Day We will forget you as ye forgot the meeting of this Day of yours! and your abode is the Fire, and no helpers have ye!
 
 [Open on Quran.com](https://quran.com/45/34)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And how many a city was stronger than your city [i.e., Makkah] which drove you out? We destroyed them; and there was no helper for them.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بہت سی بستیاں تمہاری بستی سے جس (کے باشندوں نے تمہیں وہاں) سے نکال دیا زور وقوت میں کہیں بڑھ کر تھیں ہم نے ان کا ستیاناس کردیا اور ان کا کوئی مددگار نہ ہوا
+**English (Yusuf Ali):** And how many cities, with more power than thy city which has driven thee out, have We destroyed (for their sins)? and there was none to aid them.
 
 [Open on Quran.com](https://quran.com/47/13)
 
@@ -189,7 +189,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [The disbelievers continue] until, when they see that which they are promised, then they will know who is weaker in helpers and less in number.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ جب یہ لوگ وہ (دن) دیکھ لیں گے جس کا ان سے وعدہ کیا جاتا ہے تب ان کو معلوم ہو جائے گا کہ مددگار کس کے کمزور اور شمار کن کا تھوڑا ہے
+**English (Yusuf Ali):** At length, when they see (with their own eyes) that which they are promised,- then will they know who it is that is weakest in (his) helper and least important in point of numbers.
 
 [Open on Quran.com](https://quran.com/72/24)
 

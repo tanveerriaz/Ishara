@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:185 · [[003 Ali Imran]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Every soul will taste death, and you will only be given your [full] compensation on the Day of Resurrection. So he who is drawn away from the Fire and admitted to Paradise has attained [his desire]. And what is the life of this world except the enjoyment of delusion.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہر متنفس کو موت کا مزا چکھنا ہے اور تم کو قیامت کے دن تمہارے اعمال کا پورا پورا بدلا دیا جائے گا۔ تو جو شخص آتش جہنم سے دور رکھا گیا اور بہشت میں داخل کیا گیا وہ مراد کو پہنچ گیا اور دنیا کی زندگی تو دھوکے کا سامان ہے
+**English (Yusuf Ali):** Every soul shall have a taste of death: And only on the Day of Judgment shall you be paid your full recompense. Only he who is saved far from the Fire and admitted to the Garden will have attained the object (of Life): For the life of this world is but goods and chattels of deception.
 
 [Open on Quran.com](https://quran.com/3/185)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہر متنفس کو موت کا مزا چکھنا ہے۔ اور ہم تو لوگوں کو سختی اور آسودگی میں آزمائش کے طور پر مبتلا کرتے ہیں۔ اور تم ہماری طرف ہی لوٹ کر آؤ گے
+**English (Yusuf Ali):** Every soul shall have a taste of death: and We test you by evil and by good by way of trial. to Us must ye return.
 
 [Open on Quran.com](https://quran.com/21/35)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Every soul will taste death. Then to Us will you be returned.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہر متنفس موت کا مزہ چکھنے والا ہے۔ پھر تم ہماری ہی طرف لوٹ کر آؤ گے
+**English (Yusuf Ali):** Every soul shall have a taste of death in the end to Us shall ye be brought back.
 
 [Open on Quran.com](https://quran.com/29/57)
 

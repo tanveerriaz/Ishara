@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:149 · [[006 Al-Anam]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "With Allāh is the far-reaching [i.e., conclusive] argument. If He had willed, He would have guided you all."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ خدا ہی کی حجت غالب ہے اگر وہ چاہتا تو تم سب کو ہدایت دے دیتا
+**English (Yusuf Ali):** Say: "With Allah is the argument that reaches home: if it had been His will, He could indeed have guided you all."
 
 [Open on Quran.com](https://quran.com/6/149)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Extensive wisdom - but warning does not avail [them].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کامل دانائی (کی کتاب بھی) لیکن ڈرانا ان کو کچھ فائدہ نہیں دیتا
+**English (Yusuf Ali):** Mature wisdom;- but (the preaching of) Warners profits them not.
 
 [Open on Quran.com](https://quran.com/54/5)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do you have oaths [binding] upon Us, extending until the Day of Resurrection, that indeed for you is whatever you judge?
 
-**Urdu (Fatah Muhammad Jalandhari):** یا تم نے ہم سے قسمیں لے رکھی ہیں جو قیامت کے دن تک چلی جائیں گی کہ جس شے کا تم حکم کرو گے وہ تمہارے لئے حاضر ہوگی
+**English (Yusuf Ali):** Or have ye Covenants with Us to oath, reaching to the Day of Judgment, (providing) that ye shall have whatever ye shall demand?
 
 [Open on Quran.com](https://quran.com/68/39)
 

@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:205 · [[007 Al-Araf]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And remember your Lord within yourself in humility and in fear without being apparent in speech - in the mornings and the evenings. And do not be among the heedless.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے پروردگار کو دل ہی دل میں عاجزی اور خوف سے اور پست آواز سے صبح وشام یاد کرتے رہو اور (دیکھنا) غافل نہ ہونا
+**English (Yusuf Ali):** And do thou (O reader!) Bring thy Lord to remembrance in thy (very) soul, with humility and in reverence, without loudness in words, in the mornings and evenings; and be not thou of those who are unheedful.
 
 [Open on Quran.com](https://quran.com/7/205)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But when he saw their hands not reaching for it, he distrusted them and felt from them apprehension. They said, "Fear not. We have been sent to the people of Lot."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب دیکھا کہ ان کے ہاتھ کھانے کی طرف نہیں جاتے (یعنی وہ کھانا نہیں کھاتے) تو ان کو اجنبی سمجھ کر دل میں خوف کیا۔ (فرشتوں نے) کہا کہ خوف نہ کیجیے، ہم قوم لوط کی طرف (ان کے ہلاک کرنے کو) بھیجے گئے ہیں
+**English (Yusuf Ali):** But when he saw their hands went not towards the (meal), he felt some mistrust of them, and conceived a fear of them. They said: "Fear not: We have been sent against the people of Lut."
 
 [Open on Quran.com](https://quran.com/11/70)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the thunder exalts [Allāh] with praise of Him - and the angels [as well] from fear of Him - and He sends thunderbolts and strikes therewith whom He wills while they dispute about Allāh; and He is severe in assault.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور رعد اور فرشتے سب اس کے خوف سے اس کی تسبیح و تحمید کرتے رہتے ہیں اور وہی بجلیاں بھیجتا ہے پھر جس پر چاہتا ہے گرا بھی دیتا ہے اور وہ خدا کے بارے میں جھگڑتے ہیں۔ اور وہ بڑی قوت والا ہے
+**English (Yusuf Ali):** Nay, thunder repeateth His praises, and so do the angels, with awe: He flingeth the loud-voiced thunder-bolts, and therewith He striketh whomsoever He will.. yet these (are the men) who (dare to) dispute about Allah, with the strength of His power (supreme)!
 
 [Open on Quran.com](https://quran.com/13/13)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he sensed within himself apprehension, did Moses.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اُس وقت) موسیٰ نے اپنے دل میں خوف معلوم کیا
+**English (Yusuf Ali):** So Moses conceived in his mind a (sort of) fear.
 
 [Open on Quran.com](https://quran.com/20/67)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He presents to you an example from yourselves. Do you have among those whom your right hands possess [i.e., slaves] any partners in what We have provided for you so that you are equal therein [and] would fear them as your fear of one another [within a partnership]? Thus do We detail the verses for a people who use reason.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ تمہارے لئے تمہارے ہی حال کی ایک مثال بیان فرماتا ہے کہ بھلا جن (لونڈی غلاموں) کے تم مالک ہو وہ اس (مال) میں جو ہم نے تم کو عطا فرمایا ہے تمہارے شریک ہیں، اور (کیا )تم اس میں (اُن کو اپنے) برابر (مالک سمجھتے) ہو( اور کیا) تم اُن سے اس طرح ڈرتے ہو جس طرح اپنوں سے ڈرتے ہو، اسی طرح عقل والوں کے لئے اپنی آیتیں کھول کھول کر بیان کرتے ہیں
+**English (Yusuf Ali):** He does propound to you a similitude from your own (experience): do ye have partners among those whom your right hands possess, to share as equals in the wealth We have bestowed on you? Do ye fear them as ye fear each other? Thus do we explain the Signs in detail to a people that understand.
 
 [Open on Quran.com](https://quran.com/30/28)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he felt from them apprehension. They said, "Fear not," and gave him good tidings of a learned boy.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور دل میں ان سے خوف معلوم کیا۔ (انہوں نے) کہا کہ خوف نہ کیجیئے۔ اور ان کو ایک دانشمند لڑکے کی بشارت بھی سنائی
+**English (Yusuf Ali):** (When they did not eat), He conceived a fear of them. They said, "Fear not," and they gave him glad tidings of a son endowed with knowledge.
 
 [Open on Quran.com](https://quran.com/51/28)
 

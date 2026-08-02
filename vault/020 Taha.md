@@ -16,29 +16,29 @@ Ta-Ha · 135 ayahs
 
 - [[TgY - has transgressed]] — `طَغَى` · has transgressed
 - [[>xlf - break]] — `أَخْلَفُ` · break
-- [[mwEd - appointment]] — `مَوْعِد` · appointment
 - [[>bqY - more lasting]] — `أَبْقَى` · more lasting
-- [[sEY - strive]] — `سَعَى` · strive
+- [[mwEd - appointment]] — `مَوْعِد` · appointment
 - [[Hll - lawful]] — `حَلَلْ` · lawful
 - [[ym - sea]] — `يَمّ` · sea
-- [[xAb - disappointed]] — `خابَ` · disappointed
-- [[Ewj - crookedness]] — `عِوَج` · crookedness
-- [[>vr - footsteps]] — `أَثَر` · footsteps
-- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
-- [[EAkf - devoted]] — `عاكِف` · devoted
+- [[sEY - strive]] — `سَعَى` · strive
 - [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[q*f - cast him]] — `قَذَفَ` · cast him
-- [[wzr - burden]] — `وِزْر` · burden
-- [[dl - direct you]] — `دَلَّ` · direct you
-- [[m$ - walk]] — `مَشَ` · walk
-- [[>bY - he refused]] — `أَبَى` · he refused
 - [[zynp - adornment]] — `زِينَة` · adornment
-- [[sbq - preceded]] — `سَبَقَ` · preceded
 - [[Tryqp - way]] — `طَرِيقَة` · way
+- [[q*f - cast him]] — `قَذَفَ` · cast him
+- [[>bY - he refused]] — `أَبَى` · he refused
+- [[dl - direct you]] — `دَلَّ` · direct you
+- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
+- [[Ewj - crookedness]] — `عِوَج` · crookedness
+- [[xAb - disappointed]] — `خابَ` · disappointed
+- [[wzr - burden]] — `وِزْر` · burden
+- [[>vr - footsteps]] — `أَثَر` · footsteps
+- [[sbq - preceded]] — `سَبَقَ` · preceded
+- [[EAkf - devoted]] — `عاكِف` · devoted
 - [[sAHr - magician]] — `ساحِر` · magician
-- [[wrq - leaves]] — `وَرَق` · leaves
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[nfE - benefit]] — `نَفَعَ` · benefit
+- [[m$ - walk]] — `مَشَ` · walk
+- [[Hsn - good]] — `حُسْن` · good
+- [[r>s - heads]] — `رَأْس` · heads
+- [[xTb - was affair]] — `خَطْب` · was affair
 
 ## Roots
 

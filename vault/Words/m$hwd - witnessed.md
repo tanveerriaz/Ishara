@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:103 · [[011 Hud]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed in that is a sign for those who fear the punishment of the Hereafter. That is a Day for which the people will be collected, and that is a Day [which will be] witnessed.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان (قصوں) میں اس شخص کے لیے جو عذاب آخرت سے ڈرے عبرت ہے۔ یہ وہ دن ہوگا جس میں سب لوگ اکٹھے کیے جائیں گے اور یہی وہ دن ہوگا جس میں سب (خدا کے روبرو) حاضر کیے جائیں گے
+**English (Yusuf Ali):** In that is a Sign for those who fear the penalty of the Hereafter: that is a Day for which mankind will be gathered together: that will be a Day of Testimony.
 
 [Open on Quran.com](https://quran.com/11/103)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Establish prayer at the decline of the sun [from its meridian] until the darkness of the night and [also] the Qur’ān [i.e., recitation] of dawn. Indeed, the recitation of dawn is ever witnessed.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) سورج کے ڈھلنے سے رات کے اندھیرے تک (ظہر، عصر، مغرب، عشا کی) نمازیں اور صبح کو قرآن پڑھا کرو۔ کیوں صبح کے وقت قرآن کا پڑھنا موجب حضور (ملائکہ) ہے
+**English (Yusuf Ali):** Establish regular prayers - at the sun's decline till the darkness of the night, and the morning prayer and reading: for the prayer and reading in the morning carry their testimony.
 
 [Open on Quran.com](https://quran.com/17/78)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [by] the witness and what is witnessed,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور حاضر ہونے والے کی اور جو اس کے پاس حاضر کیا جائے اسکی
+**English (Yusuf Ali):** By one that witnesses, and the subject of the witness;-
 
 [Open on Quran.com](https://quran.com/85/3)
 

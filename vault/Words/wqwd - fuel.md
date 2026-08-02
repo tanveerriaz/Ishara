@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:24 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if you do not - and you will never be able to - then fear the Fire, whose fuel is people and stones, prepared for the disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** لیکن اگر (ایسا) نہ کر سکو اور ہرگز نہیں کر سکو گے تو اس آگ سے ڈرو جس کا ایندھن آدمی اور پتھر ہوں گے (اور جو) کافروں کے لیے تیار کی گئی ہے
+**English (Yusuf Ali):** But if ye cannot- and of a surety ye cannot- then fear the Fire whose fuel is men and stones,- which is prepared for those who reject Faith.
 
 [Open on Quran.com](https://quran.com/2/24)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve - never will their wealth or their children avail them against Allāh at all. And it is they who are fuel for the Fire.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے (اس دن) نہ تو ان کا مال ہی خدا (کے عذاب) سے ان کو بچا سکے گا اور نہ ان کی اولاد ہی (کچھ کام آئے گی) اور یہ لوگ آتش (جہنم) کا ایندھن ہوں گے
+**English (Yusuf Ali):** Those who reject Faith,- neither their possessions nor their (numerous) progeny will avail them aught against Allah: They are themselves but fuel for the Fire.
 
 [Open on Quran.com](https://quran.com/3/10)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones, over which are [appointed] angels, harsh and severe; they do not disobey Allāh in what He commands them but do what they are commanded.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! اپنے آپ کو اور اپنے اہل عیال کو آتش (جہنم) سے بچاؤ جس کا ایندھن آدمی اور پتھر ہیں اور جس پر تند خو اور سخت مزاج فرشتے (مقرر) ہیں جو ارشاد خدا ان کو فرماتا ہے اس کی نافرمانی نہیں کرتے اور جو حکم ان کو ملتا ہے اسے بجا لاتے ہیں
+**English (Yusuf Ali):** O ye who believe! save yourselves and your families from a Fire whose fuel is Men and Stones, over which are (appointed) angels stern (and) severe, who flinch not (from executing) the Commands they receive from Allah, but do (precisely) what they are commanded.
 
 [Open on Quran.com](https://quran.com/66/6)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Containing] the fire full of fuel,
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی) آگ (کی خندقیں) جس میں ایندھن (جھونک رکھا) تھا
+**English (Yusuf Ali):** Fire supplied (abundantly) with fuel:
 
 [Open on Quran.com](https://quran.com/85/5)
 

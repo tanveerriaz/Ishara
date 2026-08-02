@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:10 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In their hearts is disease, so Allāh has increased their disease; and for them is a painful punishment because they [habitually] used to lie.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کے دلوں میں (کفر کا) مرض تھا۔ خدا نے ان کا مرض اور زیادہ کر دیا اور ان کے جھوٹ بولنے کے سبب ان کو دکھ دینے والا عذاب ہوگا
+**English (Yusuf Ali):** In their hearts is a disease; and Allah has increased their disease: And grievous is the penalty they (incur), because they are false (to themselves).
 
 [Open on Quran.com](https://quran.com/2/10)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when We said, "Enter this city [i.e., Jerusalem] and eat from it wherever you will in [ease and] abundance, and enter the gate bowing humbly and say, 'Relieve us of our burdens [i.e., sins].' We will [then] forgive your sins for you, and We will increase the doers of good [in goodness and reward]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے (ان سے) کہا کہ اس گاؤں میں داخل ہو جاؤ اور اس میں جہاں سے چاہو، خوب کھاؤ (پیو) اور (دیکھنا) دروازے میں داخل ہونا تو سجدہ کرنا اور حطة کہنا، ہم تمہارے گناہ معاف کر دیں گے اور نیکی کرنے والوں کو اور زیادہ دیں گے
+**English (Yusuf Ali):** And remember We said: "Enter this town, and eat of the plenty therein as ye wish; but enter the gate with humility, in posture and in words, and We shall forgive you your faults and increase (the portion of) those who do good."
 
 [Open on Quran.com](https://quran.com/2/58)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And their prophet said to them, "Indeed, Allāh has sent to you Saul as a king." They said, "How can he have kingship over us while we are more worthy of kingship than him and he has not been given any measure of wealth?" He said, "Indeed, Allāh has chosen him over you and has increased him abundantly in knowledge and stature. And Allāh gives His sovereignty to whom He wills. And Allāh is all-Encompassing [in favor] and Knowing."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبر نے ان سے (یہ بھی) کہا کہ خدا نے تم پر طالوت کو بادشاہ مقرر فرمایا ہے۔ وہ بولے کہ اسے ہم پر بادشاہی کا حق کیونکر ہوسکتا ہےبادشاہی کے مستحق تو ہم ہیں اور اس کے پاس تو بہت سی دولت بھی نہیں۔ پیغمبر نے کہا کہ خدا نےاس کو تم پر فضیلت دی ہے اور (بادشاہی کے لئے) منتخب فرمایا ہے اس نے اسے علم بھی بہت سا بخشا ہے اور تن و توش بھی (بڑا عطا کیا ہے) اور خدا (کو اختیار ہے) جسے چاہے بادشاہی بخشے۔ وہ بڑا کشائش والا اور دانا ہے
+**English (Yusuf Ali):** Their Prophet said to them: "Allah hath appointed Talut as king over you." They said: "How can he exercise authority over us when we are better fitted than he to exercise authority, and he is not even gifted, with wealth in abundance?" He said: "Allah hath Chosen him above you, and hath gifted him abundantly with knowledge and bodily prowess: Allah Granteth His authority to whom He pleaseth. Allah careth for all, and He knoweth all things."
 
 [Open on Quran.com](https://quran.com/2/247)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those to whom people [i.e., hypocrites] said, "Indeed, the people have gathered against you, so fear them." But it [merely] increased them in faith, and they said, "Sufficient for us is Allāh, and [He is] the best Disposer of affairs."
 
-**Urdu (Fatah Muhammad Jalandhari):** (جب) ان سے لوگوں نے آکر بیان کیا کہ کفار نے تمہارے (مقابلے کے) لئے لشکر کثیر) جمع کیا ہے تو ان سے ڈرو۔ تو ان کا ایمان اور زیادہ ہوگیا۔ اور کہنے لگے ہم کو خدا کافی ہے اور وہ بہت اچھا کارساز ہے
+**English (Yusuf Ali):** Men said to them: "A great army is gathering against you": And frightened them: But it (only) increased their Faith: They said: "For us Allah sufficeth, and He is the best disposer of affairs."
 
 [Open on Quran.com](https://quran.com/3/173)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And as for those who believed and did righteous deeds, He will give them in full their rewards and grant them extra from His bounty. But as for those who disdained and were arrogant, He will punish them with a painful punishment, and they will not find for themselves besides Allāh any protector or helper.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جو لوگ ایمان لائے اور نیک کام کرتے رہے وہ ان کو ان کا پورا بدلا دے گا اور اپنے فضل سے کچھ زیادہ بھی عنایت کرے گا۔ اور جنہوں نے (بندوں ہونے سے) عاروانکار اور تکبر کیا ان کو تکلیف دینے والا عذاب دے گا۔ اور یہ لوگ خدا کے سوا اپنا حامی اور مددگار نہ پائیں گے
+**English (Yusuf Ali):** But to those who believe and do deeds of righteousness, He will give their (due) rewards,- and more, out of His bounty: But those who are disdainful and arrogant, He will punish with a grievous penalty; Nor will they find, besides Allah, any to protect or help them.
 
 [Open on Quran.com](https://quran.com/4/173)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the Jews say, "The hand of Allāh is chained." Chained are their hands, and cursed are they for what they say. Rather, both His hands are extended; He spends however He wills. And that which has been revealed to you from your Lord will surely increase many of them in transgression and disbelief. And We have cast among them animosity and hatred until the Day of Resurrection. Every time they kindled the fire of war [against you], Allāh extinguished it. And they strive throughout the land [causing] corruption, and Allāh does not like corrupters.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہود کہتے ہیں کہ خدا کا ہاتھ (گردن سے) بندھا ہوا ہے (یعنی الله بخیل ہے) انہیں کے ہاتھ باندھے جائیں اور ایسا کہنے کے سبب ان پر لعنت ہو (اس کا ہاتھ بندھا ہوا نہیں) بلکہ اس کے دونوں ہاتھ کھلے ہیں وہ جس طرح (اور جتنا) چاہتا ہے خرچ کرتا ہے اور (اے محمد) یہ (کتاب) جو تمہارے پروردگار کی طرف سے تم پر نازل ہوئی اس سے ان میں سے اکثر کی شرارت اور انکار اور بڑھے گا اور ہم نے ان کے باہم عداوت اور بغض قیامت تک کے لیے ڈال دیا ہے یہ جب لڑائی کے لیے آگ جلاتے ہیں خدا اس کو بجھا دیتا ہے اور یہ ملک میں فساد کے لیے دوڑے پھرتے ہیں اور خدا فساد کرنے والوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** The Jews say: "Allah's hand is tied up." Be their hands tied up and be they accursed for the (blasphemy) they utter. Nay, both His hands are widely outstretched: He giveth and spendeth (of His bounty) as He pleaseth. But the revelation that cometh to thee from Allah increaseth in most of them their obstinate rebellion and blasphemy. Amongst them we have placed enmity and hatred till the Day of Judgment. Every time they kindle the fire of war, Allah doth extinguish it; but they (ever) strive to do mischief on earth. And Allah loveth not those who do mischief.
 
 [Open on Quran.com](https://quran.com/5/64)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O People of the Scripture, you are [standing] on nothing until you uphold [the law of] the Torah, the Gospel, and what has been revealed to you from your Lord [i.e., the Qur’ān]." And that which has been revealed to you from your Lord will surely increase many of them in transgression and disbelief. So do not grieve over the disbelieving people.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اے اہل کتاب! جب تک تم تورات اور انجیل کو اور جو (اور کتابیں) تمہارے پروردگار کی طرف سے تم لوگوں پر نازل ہوئیں ان کو قائم نہ رکھو گے کچھ بھی راہ پر نہیں ہو سکتے اور یہ (قرآن) جو تمہارے پروردگار کی طرف سے تم پر نازل ہوا ہے ان میں سے اکثر کی سرکشی اور کفر اور بڑھے گا تو تم قوم کفار پر افسوس نہ کرو
+**English (Yusuf Ali):** Say: "O People of the Book! ye have no ground to stand upon unless ye stand fast by the Law, the Gospel, and all the revelation that has come to you from your Lord." It is the revelation that cometh to thee from thy Lord, that increaseth in most of them their obstinate rebellion and blasphemy. But sorrow thou not over (these) people without Faith.
 
 [Open on Quran.com](https://quran.com/5/68)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed."
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم کو اس بات سے تعجب ہوا ہے کہ تم میں سے ایک شخص کے ہاتھ تمہارے پروردگار کی طرف سے تمہارے پاس نصیحت آئی تاکہ وہ تمہیں ڈرائے اور یاد کرو تو کرو جب اس نے تم کو قوم نوح کے بعد سردار بنایا۔ اور تم کو پھیلاؤ زیادہ دیا۔ پس خدا کی نعمتوں کو یاد کرو۔ تاکہ نجات حاصل کرو
+**English (Yusuf Ali):** "Do ye wonder that there hath come to you a message from your Lord through a man of your own people, to warn you? call in remembrance that He made you inheritors after the people of Noah, and gave you a stature tall among the nations. Call in remembrance the benefits (ye have received) from Allah: that so ye may prosper."
 
 [Open on Quran.com](https://quran.com/7/69)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], when it was said to them, "Dwell in this city [i.e., Jerusalem] and eat from it wherever you will and say, 'Relieve us of our burdens [i.e., sins],' and enter the gate bowing humbly; We will [then] forgive you your sins. We will increase the doers of good [in goodness and reward]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (یاد کرو) جب ان سے کہا گیا کہ اس شہر میں سکونت اختیار کرلو اور اس میں جہاں سے جی چاہے کھانا (پینا) اور (ہاں شہر میں جانا تو) حِطّتہٌ کہنا اور دروازے میں داخل ہونا تو سجدہ کرنا۔ ہم تمہارے گناہ معاف کردیں گے۔ اور نیکی کرنے والوں کو اور زیادہ دیں گے
+**English (Yusuf Ali):** And remember it was said to them: "Dwell in this town and eat therein as ye wish, but say the word of humility and enter the gate in a posture of humility: We shall forgive you your faults; We shall increase (the portion of) those who do good."
 
 [Open on Quran.com](https://quran.com/7/161)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The believers are only those who, when Allāh is mentioned, their hearts become fearful, and when His verses are recited to them, it increases them in faith; and upon their Lord they rely -
 
-**Urdu (Fatah Muhammad Jalandhari):** مومن تو وہ ہیں کہ جب خدا کا ذکر کیا جاتا ہے کہ ان کے دل ڈر جاتے ہیں اور جب انہیں اس کی آیتیں پڑھ کر سنائی جاتی ہیں تو ان کا ایمان اور بڑھ جاتا ہے۔ اور وہ اپنے پروردگار پر بھروسہ رکھتے ہیں
+**English (Yusuf Ali):** For, Believers are those who, when Allah is mentioned, feel a tremor in their hearts, and when they hear His signs rehearsed, find their faith strengthened, and put (all) their trust in their Lord;
 
 [Open on Quran.com](https://quran.com/8/2)
 

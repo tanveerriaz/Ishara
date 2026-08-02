@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 19:26 · [[019 Maryam]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So eat and drink and be contented. And if you see from among humanity anyone, say, 'Indeed, I have vowed to the Most Merciful abstention, so I will not speak today to [any] man.'"
 
-**Urdu (Fatah Muhammad Jalandhari):** تو کھاؤ اور پیو اور آنکھیں ٹھنڈی کرو۔ اگر تم کسی آدمی کو دیکھو تو کہنا کہ میں نے خدا کے لئے روزے کی منت مانی تو آج میں کسی آدمی سے ہرگز کلام نہیں کروں گی
+**English (Yusuf Ali):** "So eat and drink and cool (thine) eye. And if thou dost see any man, say, 'I have vowed a fast to (Allah) Most Gracious, and this day will I enter into not talk with any human being'"
 
 [Open on Quran.com](https://quran.com/19/26)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [And We favored you] when your sister went and said, 'Shall I direct you to someone who will be responsible for him?' So We restored you to your mother that she might be content and not grieve. And you killed someone, but We saved you from retaliation and tried you with a [severe] trial. And you remained [some] years among the people of Madyan. Then you came [here] at the decreed time, O Moses.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب تمہاری بہن (فرعون کے ہاں) گئی اور کہنے لگی کہ میں تمہیں ایسا شخص بتاؤں جو اس کو پالے۔ تو (اس طریق سے) ہم نے تم کو تمہاری ماں کے پاس پہنچا دیا تاکہ ان کی آنکھیں ٹھنڈی ہوں اور وہ رنج نہ کریں۔ اور تم نے ایک شخص کو مار ڈالا تو ہم نے تم کو غم سے مخلصی دی اور ہم نے تمہاری (کئی بار) آزمائش کی۔ پھر تم کئی سال اہل مدین میں ٹھہرے رہے۔ پھر اے موسیٰ تم (قابلیت رسالت کے) اندازے پر آ پہنچے
+**English (Yusuf Ali):** "Behold! thy sister goeth forth and saith, 'shall I show you one who will nurse and rear the (child)?' So We brought thee back to thy mother, that her eye might be cooled and she should not grieve. Then thou didst slay a man, but We saved thee from trouble, and We tried thee in various ways. Then didst thou tarry a number of years with the people of Midian. Then didst thou come hither as ordained, O Moses!
 
 [Open on Quran.com](https://quran.com/20/40)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We restored him to his mother that she might be content and not grieve and that she would know that the promise of Allāh is true. But most of them [i.e., the people] do not know.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے (اس طریق سے) اُن کو ان کی ماں کے پاس واپس پہنچا دیا تاکہ اُن کی آنکھیں ٹھنڈی ہوں اور وہ غم نہ کھائیں اور معلوم کریں کہ خدا کا وعدہ سچا ہے لیکن یہ اکثر نہیں جانتے
+**English (Yusuf Ali):** Thus did We restore him to his mother, that her eye might be comforted, that she might not grieve, and that she might know that the promise of Allah is true: but most of them do not understand.
 
 [Open on Quran.com](https://quran.com/28/13)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And abide in your houses and do not display yourselves as [was] the display of the former times of ignorance. And establish prayer and give zakāh and obey Allāh and His Messenger. Allāh intends only to remove from you the impurity [of sin], O people of the [Prophet's] household, and to purify you with [extensive] purification.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے گھروں میں ٹھہری رہو اور جس طرح (پہلے) جاہلیت (کے دنوں) میں اظہار تجمل کرتی تھیں اس طرح زینت نہ دکھاؤ۔ اور نماز پڑھتی رہو اور زکوٰة دیتی رہو اور خدا اور اس کے رسول کی فرمانبرداری کرتی رہو۔ اے (پیغمبر کے) اہل بیت خدا چاہتا ہے کہ تم سے ناپاکی (کا میل کچیل) دور کردے اور تمہیں بالکل پاک صاف کردے
+**English (Yusuf Ali):** And stay quietly in your houses, and make not a dazzling display, like that of the former Times of Ignorance; and establish regular Prayer, and give regular Charity; and obey Allah and His Messenger. And Allah only wishes to remove all abomination from you, ye members of the Family, and to make you pure and spotless.
 
 [Open on Quran.com](https://quran.com/33/33)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** You, [O Muḥammad], may put aside whom you will of them or take to yourself whom you will. And any that you desire of those [wives] from whom you had [temporarily] separated - there is no blame upon you [in returning her]. That is more suitable that they should be content and not grieve and that they should be satisfied with what you have given them - all of them. And Allāh knows what is in your hearts. And ever is Allāh Knowing and Forbearing.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور تم کو یہ بھی اختیار ہے کہ) جس بیوی کو چاہو علیحدہ رکھو اور جسے چاہو اپنے پاس رکھو۔ اور جس کو تم نے علیحدہ کردیا ہو اگر اس کو پھر اپنے پاس طلب کرلو تو تم پر کچھ گناہ نہیں۔ یہ (اجازت) اس لئے ہے کہ ان کی آنکھیں ٹھنڈی رہیں اور وہ غمناک نہ ہوں اور جو کچھ تم ان کو دو۔ اسے لے کر سب خوش رہیں۔ اور جو کچھ تمہارے دلوں میں ہے خدا اسے جانتا ہے۔ اور خدا جاننے والا اور بردبار ہے
+**English (Yusuf Ali):** Thou mayest defer (the turn of) any of them that thou pleasest, and thou mayest receive any thou pleasest: and there is no blame on thee if thou invite one whose (turn) thou hadst set aside. This were nigher to the cooling of their eyes, the prevention of their grief, and their satisfaction - that of all of them - with that which thou hast to give them: and Allah knows (all) that is in your hearts: and Allah is All-Knowing, Most Forbearing.
 
 [Open on Quran.com](https://quran.com/33/51)
 

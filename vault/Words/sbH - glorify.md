@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:30 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], when your Lord said to the angels, "Indeed, I will make upon the earth a successive authority." They said, "Will You place upon it one who causes corruption therein and sheds blood, while we exalt You with praise and declare Your perfection?" He [Allāh] said, "Indeed, I know that which you do not know."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (وہ وقت یاد کرنے کے قابل ہے) جب تمہارے پروردگار نے فرشتوں سے فرمایا کہ میں زمین میں (اپنا) نائب بنانے والا ہوں۔ انہوں نے کہا۔ کیا تُو اس میں ایسے شخص کو نائب بنانا چاہتا ہے جو خرابیاں کرے اور کشت وخون کرتا پھرے اور ہم تیری تعریف کے ساتھ تسبیح وتقدیس کرتے رہتے ہیں۔ (خدا نے) فرمایا میں وہ باتیں جانتا ہوں جو تم نہیں جانتے
+**English (Yusuf Ali):** Behold, thy Lord said to the angels: "I will create a vicegerent on earth." They said: "Wilt Thou place therein one who will make mischief therein and shed blood?- whilst we do celebrate Thy praises and glorify Thy holy (name)?" He said: "I know what ye know not."
 
 [Open on Quran.com](https://quran.com/2/30)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "My Lord, make for me a sign." He said, "Your sign is that you will not [be able to] speak to the people for three days except by gesture. And remember your Lord much and exalt [Him with praise] in the evening and the morning."
 
-**Urdu (Fatah Muhammad Jalandhari):** زکریا نے کہا کہ پروردگار (میرے لیے) کوئی نشانی مقرر فرما خدا نے فرمایا نشانی یہ ہے کہ تم لوگوں سے تین دن اشارے کے سوا بات نہ کر سکو گے تو (ان دنوں میں) اپنے پروردگار کی کثرت سے یاد اور صبح و شام اس کی تسبیح کرنا
+**English (Yusuf Ali):** He said: "O my Lord! Give me a Sign!" "Thy Sign," was the answer, "Shall be that thou shalt speak to no man for three days but with signals. Then celebrate the praises of thy Lord again and again, and glorify Him in the evening and in the morning."
 
 [Open on Quran.com](https://quran.com/3/41)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who are near your Lord [i.e., the angels] are not prevented by arrogance from His worship, and they exalt Him, and to Him they prostrate.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ تمہارے پروردگار کے پاس ہیں وہ اس کی عبادت سے گردن کشی نہیں کرتے اور اس پاک ذات کو یاد کرتے اور اس کے آگے سجدے کرتے رہتے ہیں
+**English (Yusuf Ali):** Those who are near to thy Lord, disdain not to do Him worship: They celebrate His praises, and prostrate before Him.
 
 [Open on Quran.com](https://quran.com/7/206)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the thunder exalts [Allāh] with praise of Him - and the angels [as well] from fear of Him - and He sends thunderbolts and strikes therewith whom He wills while they dispute about Allāh; and He is severe in assault.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور رعد اور فرشتے سب اس کے خوف سے اس کی تسبیح و تحمید کرتے رہتے ہیں اور وہی بجلیاں بھیجتا ہے پھر جس پر چاہتا ہے گرا بھی دیتا ہے اور وہ خدا کے بارے میں جھگڑتے ہیں۔ اور وہ بڑی قوت والا ہے
+**English (Yusuf Ali):** Nay, thunder repeateth His praises, and so do the angels, with awe: He flingeth the loud-voiced thunder-bolts, and therewith He striketh whomsoever He will.. yet these (are the men) who (dare to) dispute about Allah, with the strength of His power (supreme)!
 
 [Open on Quran.com](https://quran.com/13/13)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So exalt [Allāh] with praise of your Lord and be of those who prostrate [to Him].
 
-**Urdu (Fatah Muhammad Jalandhari):** تو تم اپنے پروردگار کی تسبیح کہتے اور (اس کی) خوبیاں بیان کرتے رہو اور سجدہ کرنے والوں میں داخل رہو
+**English (Yusuf Ali):** But celebrate the praises of thy Lord, and be of those who prostrate themselves in adoration.
 
 [Open on Quran.com](https://quran.com/15/98)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The seven heavens and the earth and whatever is in them exalt Him. And there is not a thing except that it exalts [Allāh] by His praise, but you do not understand their [way of] exalting. Indeed, He is ever Forbearing and Forgiving.
 
-**Urdu (Fatah Muhammad Jalandhari):** ساتوں آسمان اور زمین اور جو لوگ ان میں ہیں سب اسی کی تسبیح کرتے ہیں۔ اور (مخلوقات میں سے) کوئی چیز نہیں مگر اس کی تعریف کے ساتھ تسبیح کرتی ہے۔ لیکن تم ان کی تسبیح کو نہیں سمجھتے۔ بےشک وہ بردبار (اور) غفار ہے
+**English (Yusuf Ali):** The seven heavens and the earth, and all beings therein, declare His glory: there is not a thing but celebrates His praise; And yet ye understand not how they declare His glory! Verily He is Oft-Forbear, Most Forgiving!
 
 [Open on Quran.com](https://quran.com/17/44)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So he came out to his people from the prayer chamber and signaled to them to exalt [Allāh] in the morning and afternoon.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر وہ (عبادت کے) حجرے سے نکل کر اپنی قوم کے پاس آئے تو ان سے اشارے سے کہا کہ صبح وشام (خدا کو) یاد کرتے رہو
+**English (Yusuf Ali):** So Zakariya came out to his people from him chamber: He told them by signs to celebrate Allah's praises in the morning and in the evening.
 
 [Open on Quran.com](https://quran.com/19/11)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That we may exalt You much
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ ہم تیری بہت سی تسبیح کریں
+**English (Yusuf Ali):** "That we may celebrate Thy praise without stint,
 
 [Open on Quran.com](https://quran.com/20/33)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So be patient over what they say and exalt [Allāh] with praise of your Lord before the rising of the sun and before its setting; and during periods of the night [exalt Him] and at the ends of the day, that you may be satisfied.
 
-**Urdu (Fatah Muhammad Jalandhari):** پس جو کچھ یہ بکواس کرتے ہیں اس پر صبر کرو۔ اور سورج کے نکلنے سے پہلے اور اس کے غروب ہونے سے پہلے اپنے پروردگار کی تسبیح وتحمید کیا کرو۔ اور رات کی ساعات (اولین) میں بھی اس کی تسبیح کیا کرو اور دن کی اطراف (یعنی دوپہر کے قریب ظہر کے وقت بھی) تاکہ تم خوش ہوجاؤ
+**English (Yusuf Ali):** Therefore be patient with what they say, and celebrate (constantly) the praises of thy Lord, before the rising of the sun, and before its setting; yea, celebrate them for part of the hours of the night, and at the sides of the day: that thou mayest have (spiritual) joy.
 
 [Open on Quran.com](https://quran.com/20/130)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They exalt [Him] night and day [and] do not slacken.
 
-**Urdu (Fatah Muhammad Jalandhari):** رات دن (اُس کی) تسبیح کرتے رہتے ہیں (نہ تھکتے ہیں) نہ اکتاتے ہیں
+**English (Yusuf Ali):** They celebrate His praises night and day, nor do they ever flag or intermit.
 
 [Open on Quran.com](https://quran.com/21/20)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 51:19 · [[051 Adh-Dhariyat]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And from their properties was [given] the right of the [needy] petitioner and the deprived.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے مال میں مانگنے والے اور نہ مانگنے والے (دونوں) کا حق ہوتا تھا
+**English (Yusuf Ali):** And in their wealth and possessions (was remembered) the right of the (needy,) him who asked, and him who (for some reason) was prevented (from asking).
 
 [Open on Quran.com](https://quran.com/51/19)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Rather, we have been deprived."
 
-**Urdu (Fatah Muhammad Jalandhari):** بلکہ ہم ہیں ہی بےنصیب
+**English (Yusuf Ali):** "Indeed are we shut out (of the fruits of our labour)"
 
 [Open on Quran.com](https://quran.com/56/67)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Rather, we have been deprived."
 
-**Urdu (Fatah Muhammad Jalandhari):** نہیں بلکہ ہم (برگشتہ نصیب) بےنصیب ہیں
+**English (Yusuf Ali):** "Indeed we are shut out (of the fruits of our labour)!"
 
 [Open on Quran.com](https://quran.com/68/27)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** For the petitioner and the deprived -
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی) مانگنے والے کا۔ اور نہ مانگے والے والا کا
+**English (Yusuf Ali):** For the (needy) who asks and him who is prevented (for some reason from asking);
 
 [Open on Quran.com](https://quran.com/70/25)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:39 · [[003 Ali Imran]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So the angels called him while he was standing in prayer in the chamber, "Indeed, Allāh gives you good tidings of John, confirming a word from Allāh and [who will be] honorable, abstaining [from women], and a prophet from among the righteous."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ ابھی عبادت گاہ میں کھڑے نماز ہی پڑھ رہے تھے کہ فرشتوں نے آواز دی کہ (زکریا) خدا تمہیں یحییٰ کی بشارت دیتا ہے جو خدا کے فیض یعنی (عیسیٰ) کی تصدیق کریں گے اور سردار ہوں گے اور عورتوں سے رغبت نہ رکھنے والے اور (خدا کے) پیغمبر (یعنی) نیکو کاروں میں ہوں گے
+**English (Yusuf Ali):** While he was standing in prayer in the chamber, the angels called unto him: "Allah doth give thee glad tidings of Yahya, witnessing the truth of a Word from Allah, and (be besides) noble, chaste, and a prophet,- of the (goodly) company of the righteous."
 
 [Open on Quran.com](https://quran.com/3/39)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Zechariah and John and Jesus and Elias - and all were of the righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور زکریا اور یحییٰ اور عیسیٰ اور الیاس کو بھی۔ یہ سب نیکوکار تھے
+**English (Yusuf Ali):** And Zakariya and John, and Jesus and Elias: all in the ranks of the righteous:
 
 [Open on Quran.com](https://quran.com/6/85)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [He was told], "O Zechariah, indeed We give you good tidings of a boy whose name will be John. We have not assigned to any before [this] name."
 
-**Urdu (Fatah Muhammad Jalandhari):** اے زکریا ہم تم کو ایک لڑکے کی بشارت دیتے ہیں جس کا نام یحییٰ ہے۔ اس سے پہلے ہم نے اس نام کا کوئی شخص پیدا نہیں کیا
+**English (Yusuf Ali):** (His prayer was answered): "O Zakariya! We give thee good news of a son: His name shall be Yahya: on none by that name have We conferred distinction before."
 
 [Open on Quran.com](https://quran.com/19/7)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh said], "O John, take the Scripture [i.e., adhere to it] with determination." And We gave him judgement [while yet] a boy
 
-**Urdu (Fatah Muhammad Jalandhari):** اے یحییٰ (ہماری) کتاب کو زور سے پکڑے رہو۔ اور ہم نے ان کو لڑکپن میں دانائی عطا فرمائی تھی
+**English (Yusuf Ali):** (To his son came the command): "O Yahya! take hold of the Book with might": and We gave him Wisdom even as a youth,
 
 [Open on Quran.com](https://quran.com/19/12)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We responded to him, and We gave to him John, and amended for him his wife. Indeed, they used to hasten to good deeds and supplicate Us in hope and fear, and they were to Us humbly submissive.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان کی پکار سن لی۔ اور ان کو یحییٰ بخشے اور ان کی بیوی کو اُن کے (حسن معاشرت کے) قابل بنادیا۔ یہ لوگ لپک لپک کر نیکیاں کرتے اور ہمیں امید سے پکارتے اور ہمارے آگے عاجزی کیا کرتے تھے
+**English (Yusuf Ali):** So We listened to him: and We granted him Yahya: We cured his wife's (Barrenness) for him. These (three) were ever quick in emulation in good works; they used to call on Us with love and reverence, and humble themselves before Us.
 
 [Open on Quran.com](https://quran.com/21/90)
 

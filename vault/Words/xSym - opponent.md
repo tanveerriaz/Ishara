@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:204 · [[002 Al-Baqarah]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And of the people is he whose speech pleases you in worldly life, and he calls Allāh to witness as to what is in his heart, yet he is the fiercest of opponents.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کوئی شخص تو ایسا ہے جس کی گفتگو دنیا کی زندگی میں تم کو دلکش معلوم ہوتی ہے اور وہ اپنی مانی الضمیر پر خدا کو گواہ بناتا ہے حالانکہ وہ سخت جھگڑالو ہے
+**English (Yusuf Ali):** There is the type of man whose speech about this world's life May dazzle thee, and he calls Allah to witness about what is in his heart; yet is he the most contentious of enemies.
 
 [Open on Quran.com](https://quran.com/2/204)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, We have revealed to you, [O Muḥammad], the Book in truth so you may judge between the people by that which Allāh has shown you. And do not be for the deceitful an advocate.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) ہم نے تم پر سچی کتاب نازل کی ہے تاکہ خدا کی ہدایت کے مطابق لوگوں کے مقدمات میں فیصلہ کرو اور (دیکھو) دغابازوں کی حمایت میں کبھی بحث نہ کرنا
+**English (Yusuf Ali):** We have sent down to thee the Book in truth, that thou mightest judge between men, as guided by Allah: so be not (used) as an advocate by those who betray their trust;
 
 [Open on Quran.com](https://quran.com/4/105)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He created man from a sperm-drop; then at once he is a clear adversary.
 
-**Urdu (Fatah Muhammad Jalandhari):** اسی نے انسان کو نطفے سے بنایا مگر وہ اس (خالق) کے بارے میں علانیہ جھگڑنے لگا
+**English (Yusuf Ali):** He has created man from a sperm-drop; and behold this same (man) becomes an open disputer!
 
 [Open on Quran.com](https://quran.com/16/4)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Does man not consider that We created him from a [mere] sperm-drop - then at once he is a clear adversary?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انسان نے نہیں دیکھا کہ ہم نے اس کو نطفے سے پیدا کیا۔ پھر وہ تڑاق پڑاق جھگڑنے لگا
+**English (Yusuf Ali):** Doth not man see that it is We Who created him from sperm? yet behold! he (stands forth) as an open adversary!
 
 [Open on Quran.com](https://quran.com/36/77)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So is one brought up in ornaments while being during conflict unevident [attributed to Allāh]?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا وہ جو زیور میں پرورش پائے اور جھگڑے کے وقت بات نہ کرسکے (خدا کی) بیٹی ہوسکتی ہے؟
+**English (Yusuf Ali):** Is then one brought up among trinkets, and unable to give a clear account in a dispute (to be associated with Allah)?
 
 [Open on Quran.com](https://quran.com/43/18)
 

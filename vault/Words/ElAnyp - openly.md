@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:274 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who spend their wealth [in Allāh's way] by night and by day, secretly and publicly - they will have their reward with their Lord. And no fear will there be concerning them, nor will they grieve.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال رات اور دن اور پوشیدہ اور ظاہر (راہ خدا میں) خرچ کرتے رہتے ہیں ان کا صلہ پروردگار کے پاس ہے اور ان کو (قیامت کے دن) نہ کسی طرح کا خوف ہوگا اور نہ غم
+**English (Yusuf Ali):** Those who (in charity) spend of their goods by night and by day, in secret and in public, have their reward with their Lord: on them shall be no fear, nor shall they grieve.
 
 [Open on Quran.com](https://quran.com/2/274)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who are patient, seeking the face [i.e., acceptance] of their Lord, and establish prayer and spend from what We have provided for them secretly and publicly and prevent evil with good - those will have the good consequence of [this] home -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو پروردگار کی خوشنودی حاصل کرنے کے لیے (مصائب پر) صبر کرتے ہیں اور نماز پڑھتے ہیں اور جو (مال) ہم نے ان کو دیا ہے اس میں سے پوشیدہ اور ظاہر خرچ کرتے ہیں اور نیکی سے برائی دور کرتے ہیں یہی لوگ ہیں جن کے لیے عاقبت کا گھر ہے
+**English (Yusuf Ali):** Those who patiently persevere, seeking the countenance of their Lord; Establish regular prayers; spend, out of (the gifts) We have bestowed for their sustenance, secretly and openly; and turn off Evil with good: for such there is the final attainment of the (eternal) home,-
 
 [Open on Quran.com](https://quran.com/13/22)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [O Muḥammad], tell My servants who have believed to establish prayer and spend from what We have provided them, secretly and publicly, before a Day comes in which there will be no exchange [i.e., ransom], nor any friendships.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) میرے مومن بندوں سے کہہ دو کہ نماز پڑھا کریں اور اس دن کے آنے سے پیشتر جس میں نہ (اعمال کا) سودا ہوگا اور نہ دوستی (کام آئے گی) ہمارے دیئے ہوئے مال میں سے درپردہ اور ظاہر خرچ کرتے رہیں
+**English (Yusuf Ali):** Speak to my servants who have believed, that they may establish regular prayers, and spend (in charity) out of the sustenance we have given them, secretly and openly, before the coming of a Day in which there will be neither mutual bargaining nor befriending.
 
 [Open on Quran.com](https://quran.com/14/31)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who recite the Book of Allāh and establish prayer and spend [in His cause] out of what We have provided them, secretly and publicly, [can] expect a transaction [i.e., profit] that will never perish -
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کی کتاب پڑھتے اور نماز کی پابندی کرتے ہیں اور جو کچھ ہم نے ان کو دیا ہے اس میں سے پوشیدہ اور ظاہر خرچ کرتے ہیں وہ اس تجارت (کے فائدے) کے امیدوار ہیں جو کبھی تباہ نہیں ہوگی
+**English (Yusuf Ali):** Those who rehearse the Book of Allah, establish regular Prayer, and spend (in Charity) out of what We have provided for them, secretly and openly, hope for a commerce that will never fail:
 
 [Open on Quran.com](https://quran.com/35/29)
 

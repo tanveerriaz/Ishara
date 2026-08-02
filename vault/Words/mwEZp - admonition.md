@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:66 · [[002 Al-Baqarah]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We made it a deterrent punishment for those who were present and those who succeeded [them] and a lesson for those who fear Allāh.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس قصے کو اس وقت کے لوگوں کے لیے اور جو ان کے بعد آنے والے تھے عبرت اور پرہیز گاروں کے لیے نصیحت بنا دیا
+**English (Yusuf Ali):** So We made it an example to their own time and to their posterity, and a lesson to those who fear Allah.
 
 [Open on Quran.com](https://quran.com/2/66)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who consume interest cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, "Trade is [just] like interest." But Allāh has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair rests with Allāh. But whoever returns [to dealing in interest or usury] - those are the companions of the Fire; they will abide eternally therein.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ سود کھاتے ہیں وہ (قبروں سے) اس طرح (حواس باختہ) اٹھیں گے جیسے کسی کو جن نے لپٹ کر دیوانہ بنا دیا ہو یہ اس لئے کہ وہ کہتے ہیں کہ سودا بیچنا بھی تو (نفع کے لحاظ سے) ویسا ہی ہے جیسے سود (لینا) حالانکہ سودے کو خدا نے حلال کیا ہے اور سود کو حرام۔ تو جس شخص کے پاس خدا کی نصیحت پہنچی اور وہ (سود لینے سے) باز آگیا تو جو پہلے ہوچکا وہ اس کا۔ اور (قیامت میں) اس کا معاملہ خدا کے سپرد اور جو پھر لینے لگا تو ایسے لوگ دوزخی ہیں کہ ہمیشہ دوزخ میں (جلتے) رہیں گے
+**English (Yusuf Ali):** Those who devour usury will not stand except as stand one whom the Evil one by his touch Hath driven to madness. That is because they say: "Trade is like usury," but Allah hath permitted trade and forbidden usury. Those who after receiving direction from their Lord, desist, shall be pardoned for the past; their case is for Allah (to judge); but those who repeat (The offence) are companions of the Fire: They will abide therein (for ever).
 
 [Open on Quran.com](https://quran.com/2/275)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** This [Qur’ān] is a clear statement to [all] the people and a guidance and instruction for those conscious of Allāh.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ (قرآن) لوگوں کے لیے بیان صریح اور اہلِ تقویٰ کے لیے ہدایت اور نصیحت ہے
+**English (Yusuf Ali):** Here is a plain statement to men, a guidance and instruction to those who fear Allah!
 
 [Open on Quran.com](https://quran.com/3/138)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We sent, following in their footsteps, Jesus, the son of Mary, confirming that which came before him in the Torah; and We gave him the Gospel, in which was guidance and light and confirming that which preceded it of the Torah as guidance and instruction for the righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان پیغمبروں کے بعد انہی کے قدموں پر ہم نے عیسیٰ بن مریم کو بھیجا جو اپنے سے پہلے کی کتاب تورات کی تصدیق کرتے تھے اور ان کو انجیل عنایت کی جس میں ہدایت اور نور ہے اور تورات کی جو اس سے پہلی کتاب (ہے) تصدیق کرتی ہے اور پرہیزگاروں کو راہ بتاتی اور نصیحت کرتی ہے
+**English (Yusuf Ali):** And in their footsteps We sent Jesus the son of Mary, confirming the Law that had come before him: We sent him the Gospel: therein was guidance and light, and confirmation of the Law that had come before him: a guidance and an admonition to those who fear Allah.
 
 [Open on Quran.com](https://quran.com/5/46)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We wrote for him on the tablets [something] of all things - instruction and explanation for all things, [saying], "Take them with determination and order your people to take the best of it. I will show you the home of the defiantly disobedient."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے (تورات) کی تختیوں میں ان کے لیے ہر قسم کی نصیحت اور ہر چیز کی تفصیل لکھ دی پھر (ارشاد فرمایا کہ) اسے زور سے پکڑے رہو اور اپنی قوم سے بھی کہہ دو کہ ان باتوں کو جو اس میں (مندرج ہیں اور) بہت بہتر ہیں پکڑے رہیں۔ میں عنقریب تم کو نافرمان لوگوں کا گھر دکھاؤں گا
+**English (Yusuf Ali):** And We ordained laws for him in the tablets in all matters, both commanding and explaining all things, (and said): "Take and hold these with firmness, and enjoin thy people to hold fast by the best in the precepts: soon shall I show you the homes of the wicked,- (How they lie desolate)."
 
 [Open on Quran.com](https://quran.com/7/145)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O mankind, there has come to you instruction from your Lord and healing for what is in the breasts and guidance and mercy for the believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو تمہارے پروردگار کی طرف سے نصیحت اور دلوں کی بیماریوں کی شفا۔ اور مومنوں کے لیے ہدایت اور رحمت آپہنچی ہے
+**English (Yusuf Ali):** O mankind! there hath come to you a direction from your Lord and a healing for the (diseases) in your hearts,- and for those who believe, a guidance and a Mercy.
 
 [Open on Quran.com](https://quran.com/10/57)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And each [story] We relate to you from the news of the messengers is that by which We make firm your heart. And there has come to you, in this, the truth and an instruction and a reminder for the believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) اور پیغمبروں کے وہ سب حالات جو ہم تم سے بیان کرتے ہیں ان سے ہم تمہارے دل کو قائم رکھتے ہیں۔ اور ان (قصص) میں تمہارے پاس حق پہنچ گیا اور یہ مومنوں کے لیے نصیحت اور عبرت ہے
+**English (Yusuf Ali):** All that we relate to thee of the stories of the messengers,- with it We make firm thy heart: in them there cometh to thee the Truth, as well as an exhortation and a message of remembrance to those who believe.
 
 [Open on Quran.com](https://quran.com/11/120)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Invite to the way of your Lord with wisdom and good instruction, and argue with them in a way that is best. Indeed, your Lord is most knowing of who has strayed from His way, and He is most knowing of who is [rightly] guided.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگوں کو دانش اور نیک نصیحت سے اپنے پروردگار کے رستے کی طرف بلاؤ۔ اور بہت ہی اچھے طریق سے ان سے مناظرہ کرو۔ جو اس کے رستے سے بھٹک گیا تمہارا پروردگار اسے بھی خوب جانتا ہے اور جو رستے پر چلنے والے ہیں ان سے بھی خوب واقف ہے
+**English (Yusuf Ali):** Invite (all) to the Way of thy Lord with wisdom and beautiful preaching; and argue with them in ways that are best and most gracious: for thy Lord knoweth best, who have strayed from His Path, and who receive guidance.
 
 [Open on Quran.com](https://quran.com/16/125)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have certainly sent down to you distinct verses and examples from those who passed on before you and an admonition for those who fear Allāh.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تمہاری طرف روشن آیتیں نازل کی ہیں اور جو لوگ تم سے پہلے گزر چکے ہیں ان کی خبریں اور پرہیزگاروں کے لئے نصیحت
+**English (Yusuf Ali):** We have already sent down to you verses making things clear, an illustration from (the story of) people who passed away before you, and an admonition for those who fear (Allah).
 
 [Open on Quran.com](https://quran.com/24/34)
 

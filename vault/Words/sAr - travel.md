@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:137 · [[003 Ali Imran]]
 
@@ -51,7 +51,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Similar situations [as yours] have passed on before you, so proceed throughout the earth and observe how was the end of those who denied.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم لوگوں سے پہلے بھی بہت سے واقعات گزر چکے ہیں تو تم زمین کی سیر کرکے دیکھ لو کہ جھٹلانے والوں کا کیسا انجام ہوا
+**English (Yusuf Ali):** Many were the Ways of Life that have passed away before you: travel through the earth, and see what was the end of those who rejected Truth.
 
 [Open on Quran.com](https://quran.com/3/137)
 
@@ -67,7 +67,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Travel through the land; then observe how was the end of the deniers."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ (اے منکرین رسالت) ملک میں چلو پھرو پھر دیکھو کہ جھٹلانے والوں کا کیا انجام ہوا
+**English (Yusuf Ali):** Say: "Travel through the earth and see what was the end of those who rejected Truth."
 
 [Open on Quran.com](https://quran.com/6/11)
 
@@ -83,7 +83,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We sent not before you [as messengers] except men to whom We revealed from among the people of cities. So have they not traveled through the earth and observed how was the end of those before them? And the home of the Hereafter is best for those who fear Allāh; then will you not reason?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تم سے پہلے بستیوں کے رہنے والوں میں سے مرد ہی بھیجے تھے جن کی طرف ہم وحی بھیجتے تھے۔ کیا ان لوگوں نے ملک میں سیر (وسیاحت) نہیں کی کہ دیکھ لیتے کہ جو لوگ ان سے پہلے تھے ان کا انجام کیا ہوا۔ اور متّقیوں کے لیے آخرت کا گھر بہت اچھا ہے۔ کیا تم سمجھتے نہیں؟
+**English (Yusuf Ali):** Nor did We send before thee (as messengers) any but men, whom we did inspire,- (men) living in human habitations. Do they not travel through the earth, and see what was the end of those before them? But the home of the hereafter is best, for those who do right. Will ye not then understand?
 
 [Open on Quran.com](https://quran.com/12/109)
 
@@ -99,7 +99,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We certainly sent into every nation a messenger, [saying], "Worship Allāh and avoid ṭāghūt." And among them were those whom Allāh guided, and among them were those upon whom error was [deservedly] decreed. So proceed [i.e., travel] through the earth and observe how was the end of the deniers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ہر جماعت میں پیغمبر بھیجا کہ خدا ہی کی عبادت کرو اور بتوں (کی پرستش) سے اجتناب کرو۔ تو ان میں بعض ایسے ہیں جن کو خدا نے ہدایت دی اور بعض ایسے ہیں جن پر گمراہی ثابت ہوئی۔ سو زمین پر چل پھر کر دیکھ لو کہ جھٹلانے والوں کا انجام کیسا ہوا
+**English (Yusuf Ali):** For We assuredly sent amongst every People a messenger, (with the Command), "Serve Allah, and eschew Evil": of the People were some whom Allah guided, and some on whom error became inevitably (established). So travel through the earth, and see what was the end of those who denied (the Truth).
 
 [Open on Quran.com](https://quran.com/16/36)
 
@@ -115,7 +115,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So have they not traveled through the earth and have hearts by which to reason and ears by which to hear? For indeed, it is not eyes that are blinded, but blinded are the hearts which are within the breasts.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا ان لوگوں نے ملک میں سیر نہیں کی تاکہ ان کے دل (ایسے) ہوتے کہ ان سے سمجھ سکتے۔ اور کان (ایسے) ہوتے کہ ان سے سن سکتے۔ بات یہ ہے کہ آنکھیں اندھی نہیں ہوتیں بلکہ دل جو سینوں میں ہیں (وہ) اندھے ہوتے ہیں
+**English (Yusuf Ali):** Do they not travel through the land, so that their hearts (and minds) may thus learn wisdom and their ears may thus learn to hear? Truly it is not their eyes that are blind, but their hearts which are in their breasts.
 
 [Open on Quran.com](https://quran.com/22/46)
 
@@ -131,7 +131,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "Proceed [i.e., travel] through the land and observe how was the end of the criminals."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ ملک میں چلو پھرو پھر دیکھو کہ گنہگاروں کا انجام کیا ہوا ہے
+**English (Yusuf Ali):** Say: "Go ye through the earth and see what has been the end of those guilty (of sin)."
 
 [Open on Quran.com](https://quran.com/27/69)
 
@@ -147,7 +147,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when Moses had completed the term and was traveling with his family, he perceived from the direction of the mount a fire. He said to his family, "Stay here; indeed, I have perceived a fire. Perhaps I will bring you from there [some] information or burning wood from the fire that you may warm yourselves."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب موسٰی نے مدت پوری کردی اور اپنے گھر کے لوگوں کو لے کر چلے تو طور کی طرف سے آگ دکھائی دی تو اپنے گھر والوں سے کہنے لگے کہ تم یہاں ٹھیرو۔ مجھے آگ نظر آئی ہے شاید میں وہاں سے (رستے کا) کچھ پتہ لاؤں یا آگ کا انگارہ لے آؤں تاکہ تم تاپو
+**English (Yusuf Ali):** Now when Moses had fulfilled the term, and was travelling with his family, he perceived a fire in the direction of Mount Tur. He said to his family: "Tarry ye; I perceive a fire; I hope to bring you from there some information, or a burning firebrand, that ye may warm yourselves."
 
 [Open on Quran.com](https://quran.com/28/29)
 
@@ -163,7 +163,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "Travel through the land and observe how He began creation. Then Allāh will produce the final creation [i.e., development]. Indeed Allāh, over all things, is competent."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ ملک میں چلو پھرو اور دیکھو کہ اس نے کس طرح خلقت کو پہلی دفعہ پیدا کیا ہے پھر خدا ہی پچھلی پیدائش پیدا کرے گا۔ بےشک خدا ہر چیز پر قادر ہے
+**English (Yusuf Ali):** Say: "Travel through the earth and see how Allah did originate creation; so will Allah produce a later creation: for Allah has power over all things.
 
 [Open on Quran.com](https://quran.com/29/20)
 
@@ -179,7 +179,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have they not traveled through the earth and observed how was the end of those before them? They were greater than them in power, and they plowed [or excavated] the earth and built it up more than they [i.e., the Makkans] have built it up, and their messengers came to them with clear evidences. And Allāh would not ever have wronged them, but they were wronging themselves.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا اُن لوگوں نے ملک میں سیر نہیں کی (سیر کرتے )تو دیکھ لیتے کہ جو لوگ اُن سے پہلے تھے ان کا انجام کیسے ہوا۔ وہ اُن سے زورو قوت میں کہیں زیادہ تھے اور اُنہوں نے زمین کو جوتا اور اس کو اس سے زیادہ آباد کیا تھا جو اُنہوں نے آباد کیا۔ اور اُن کے پاس اُن کے پیغمبر نشانیاں لےکر آتے رہے تو خدا ایسا نہ تھا کہ اُن پر ظلم کرتا۔ بلکہ وہی اپنے آپ پر ظلم کرتے تھے
+**English (Yusuf Ali):** Do they not travel through the earth, and see what was the end of those before them? They were superior to them in strength: they tilled the soil and populated it in greater numbers than these have done: there came to them their messengers with Clear (Signs). (Which they rejected, to their own destruction): It was not Allah Who wronged them, but they wronged their own souls.
 
 [Open on Quran.com](https://quran.com/30/9)
 
@@ -195,7 +195,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "Travel through the land and observe how was the end of those before. Most of them were associators [of others with Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ ملک میں چلو پھرو اور دیکھو کہ جو لوگ( تم سے) پہلے ہوئے ہیں ان کا کیسا انجام ہوا ہے۔ ان میں زیادہ تر مشرک ہی تھے
+**English (Yusuf Ali):** Say: "Travel through the earth and see what was the end of those before (you): Most of them worshipped others besides Allah."
 
 [Open on Quran.com](https://quran.com/30/42)
 

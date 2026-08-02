@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:33 · [[002 Al-Baqarah]]
 
@@ -47,7 +47,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "O Adam, inform them of their names." And when he had informed them of their names, He said, "Did I not tell you that I know the unseen [aspects] of the heavens and the earth? And I know what you reveal and what you have concealed."
 
-**Urdu (Fatah Muhammad Jalandhari):** (تب) خدا نے (آدم کو) حکم دیا کہ آدم! تم ان کو ان (چیزوں) کے نام بتاؤ۔ جب انہوں نے ان کو ان کے نام بتائے تو (فرشتوں سے) فرمایا کیوں میں نے تم سے نہیں کہا تھا کہ میں آسمانوں اور زمین کی (سب) پوشیدہ باتیں جاتنا ہوں اور جو تم ظاہر کرتے ہو اور جو پوشیدہ کرتے ہو (سب) مجھ کو معلوم ہے
+**English (Yusuf Ali):** He said: "O Adam! Tell them their names." When he had told them, Allah said: "Did I not tell you that I know the secrets of heaven and earth, and I know what ye reveal and what ye conceal?"
 
 [Open on Quran.com](https://quran.com/2/33)
 
@@ -63,7 +63,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If you disclose your charitable expenditures, they are good; but if you conceal them and give them to the poor, it is better for you, and He will remove from you some of your misdeeds [thereby]. And Allāh, of what you do, is [fully] Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم خیرات ظاہر دو تو وہ بھی خوب ہے اور اگر پوشیدہ دو اور دو بھی اہل حاجت کو تو وہ خوب تر ہے اور (اس طرح کا دینا) تمہارے گناہوں کو بھی دور کردے گا۔ اور خدا کو تمہارے سب کاموں کی خبر ہے
+**English (Yusuf Ali):** If ye disclose (acts of) charity, even so it is well, but if ye conceal them, and make them reach those (really) in need, that is best for you: It will remove from you some of your (stains of) evil. And Allah is well acquainted with what ye do.
 
 [Open on Quran.com](https://quran.com/2/271)
 
@@ -79,7 +79,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** To Allāh belongs whatever is in the heavens and whatever is in the earth. Whether you show what is within yourselves or conceal it, Allāh will bring you to account for it. Then He will forgive whom He wills and punish whom He wills, and Allāh is over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب خدا ہی کا ہے۔ تم اپنے دلوں کی بات کو ظاہر کرو گے تو یا چھپاؤ گے تو خدا تم سے اس کا حساب لے گا پھر وہ جسے چاہے مغفرت کرے اور جسے چاہے عذاب دے۔ اور خدا ہر چیز پر قادر ہے
+**English (Yusuf Ali):** To Allah belongeth all that is in the heavens and on earth. Whether ye show what is in your minds or conceal it, Allah Calleth you to account for it. He forgiveth whom He pleaseth, and punisheth whom He pleaseth, for Allah hath power over all things.
 
 [Open on Quran.com](https://quran.com/2/284)
 
@@ -95,7 +95,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Whether you conceal what is in your breasts or reveal it, Allāh knows it. And He knows that which is in the heavens and that which is on the earth. And Allāh is over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر لوگوں سے) کہہ دو کہ کوئی بات تم اپنے دلوں میں مخفی رکھو یا اسے ظاہر کرو خدا اس کو جانتا ہے اور جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے اس کو سب کی خبر ہے اور وہ ہر چیز پر قادر ہے
+**English (Yusuf Ali):** Say: "Whether ye hide what is in your hearts or reveal it, Allah knows it all: He knows what is in the heavens, and what is on earth. And Allah has power over all things.
 
 [Open on Quran.com](https://quran.com/3/29)
 
@@ -111,7 +111,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then after distress, He sent down upon you security [in the form of] drowsiness, overcoming a faction of you, while another faction worried about themselves, thinking of Allāh other than the truth - the thought of ignorance, saying, "Is there anything for us [to have done] in this matter?" Say, "Indeed, the matter belongs completely to Allāh." They conceal within themselves what they will not reveal to you. They say, "If there was anything we could have done in the matter, we [i.e., some of us] would not have been killed right here." Say, "Even if you had been inside your houses, those decreed to be killed would have come out to their death beds." [It was] so that Allāh might test what is in your breasts and purify what is in your hearts. And Allāh is Knowing of that within the breasts.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر خدا نے غم ورنج کے بعد تم پر تسلی نازل فرمائی (یعنی) نیند کہ تم میں سے ایک جماعت پر طاری ہو گئی اور کچھ لوگ جن کو جان کے لالے پڑ رہے تھے خدا کے بارے میں ناحق (ایام) کفر کے سے گمان کرتے تھے اور کہتے تھے بھلا ہمارے اختیار کی کچھ بات ہے؟ تم کہہ دو کہ بےشک سب باتیں خدا ہی کے اختیار میں ہیں یہ لوگ (بہت سی باتیں) دلوں میں مخفی رکھتے ہیں جو تم پر ظاہر نہیں کرتے تھے کہتے تھے کہ ہمارے بس کی بات ہوتی تو ہم یہاں قتل ہی نہ کیے جاتے کہہ دو کہ اگر تم اپنے گھروں میں بھی ہوتے تو جن کی تقدیر میں مارا جانا لکھا تھا وہ اپنی اپنی قتل گاہوں کی طرف ضرور نکل آتے اس سے غرض یہ تھی کہ خدا تمہارے سینوں کی باتوں کو آزمائے اور جو کچھ تمہارے دلوں میں ہے اس کو خالص اور صاف کر دے اور خدا دلوں کی باتوں سے خوب واقف ہے
+**English (Yusuf Ali):** After (the excitement) of the distress, He sent down calm on a band of you overcome with slumber, while another band was stirred to anxiety by their own feelings, Moved by wrong suspicions of Allah-suspicions due to ignorance. They said: "What affair is this of ours?" Say thou: "Indeed, this affair is wholly Allah's." They hide in their minds what they dare not reveal to thee. They say (to themselves): "If we had had anything to do with this affair, We should not have been in the slaughter here." Say: "Even if you had remained in your homes, those for whom death was decreed would certainly have gone forth to the place of their death"; but (all this was) that Allah might test what is in your breasts and purge what is in your hearts. For Allah knoweth well the secrets of your hearts.
 
 [Open on Quran.com](https://quran.com/3/154)
 
@@ -127,7 +127,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If [instead] you show [some] good or conceal it or pardon an offense - indeed, Allāh is ever Pardoning and Competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم لوگ بھلائی کھلم کھلا کرو گے یا چھپا کر یا برائی سے درگزر کرو گے تو خدا بھی معاف کرنے والا (اور) صاحب قدرت ہے
+**English (Yusuf Ali):** Whether ye publish a good deed or conceal it or cover evil with pardon, verily Allah doth blot out (sins) and hath power (in the judgment of values).
 
 [Open on Quran.com](https://quran.com/4/149)
 
@@ -143,7 +143,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Not upon the Messenger is [responsibility] except [for] notification. And Allāh knows whatever you reveal and whatever you conceal.
 
-**Urdu (Fatah Muhammad Jalandhari):** پیغمبر کے ذمے تو صرف پیغام خدا کا پہنچا دینا ہے اور جو کچھ تم ظاہر کرتے ہو اور جو کچھ مخفی کرتے ہو خدا کو سب معلوم ہے
+**English (Yusuf Ali):** The Messenger's duty is but to proclaim (the message). But Allah knoweth all that ye reveal and ye conceal.
 
 [Open on Quran.com](https://quran.com/5/99)
 
@@ -159,7 +159,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they did not appraise Allāh with true appraisal when they said, "Allāh did not reveal to a human being anything." Say, "Who revealed the Scripture that Moses brought as light and guidance to the people? You [Jews] make it into pages, disclosing [some of] it and concealing much. And you were taught that which you knew not - neither you nor your fathers." Say, "Allāh [revealed it]." Then leave them in their [empty] discourse, amusing themselves.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے خدا کی قدر جیسی جاننی چاہیئے تھی نہ جانی۔ جب انہوں نے کہا کہ خدا نے انسان پر (وحی اور کتاب وغیرہ) کچھ بھی نازل نہیں کیا۔ کہو جو کتاب موسیٰ لے کر آئے تھے اسے کس نے نازل کیا تھا جو لوگوں کے لئے نور اور ہدایت تھی اور جسے تم نے علیحدہ علیحدہ اوراق (پر نقل) کر رکھا ہے ان (کے کچھ حصے) کو تو ظاہر کرتے ہو اور اکثر کو چھپاتے ہو۔ اور تم کو وہ باتیں سکھائی گئیں جن کو نہ تم جانتے تھے اور نہ تمہارے باپ دادا۔ کہہ دو (اس کتاب کو) خدا ہی نے (نازل کیا تھا) پھر ان کو چھوڑ دیا کہ اپنی بیہودہ بکواس میں کھیلتے رہیں
+**English (Yusuf Ali):** No just estimate of Allah do they make when they say: "Nothing doth Allah send down to man (by way of revelation)" Say: "Who then sent down the Book which Moses brought?- a light and guidance to man: But ye make it into (separate) sheets for show, while ye conceal much (of its contents): therein were ye taught that which ye knew not- neither ye nor your fathers." Say: "Allah (sent it down)": Then leave them to plunge in vain discourse and trifling.
 
 [Open on Quran.com](https://quran.com/6/91)
 
@@ -175,7 +175,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, "Your Lord did not forbid you this tree except that you become angels or become of the immortal."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو شیطان دونوں کو بہکانے لگا تاکہ ان کی ستر کی چیزیں جو ان سے پوشیدہ تھیں کھول دے اور کہنے لگا کہ تم کو تمہارے پروردگار نے اس درخت سے صرف اس لیے منع کیا ہے کہ کہ تم فرشتے نہ بن جاؤ یا ہمیشہ جیتے نہ رہو
+**English (Yusuf Ali):** Then began Satan to whisper suggestions to them, bringing openly before their minds all their shame that was hidden from them (before): he said: "Your Lord only forbade you this tree, lest ye should become angels or such beings as live for ever."
 
 [Open on Quran.com](https://quran.com/7/20)
 
@@ -191,7 +191,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "If he steals - a brother of his has stolen before." But Joseph kept it within himself and did not reveal it to them. He said, "You are worse in position, and Allāh is most knowing of what you describe."
 
-**Urdu (Fatah Muhammad Jalandhari):** (برادران یوسف نے) کہا کہ اگر اس نے چوری کی ہو تو (کچھ عجب نہیں کہ) اس کے ایک بھائی نے بھی پہلے چوری کی تھی یوسف نے اس بات کو اپنے دل میں مخفی رکھا اور ان پر ظاہر نہ ہونے دیا (اور) کہا کہ تم بڑے بدقماش ہو۔ اور جو تم بیان کرتے ہو خدا اسے خوب جانتا ہے
+**English (Yusuf Ali):** They said: "If he steals, there was a brother of his who did steal before (him)." But these things did Joseph keep locked in his heart, revealing not the secrets to them. He (simply) said (to himself): "Ye are the worse situated; and Allah knoweth best the truth of what ye assert!"
 
 [Open on Quran.com](https://quran.com/12/77)
 

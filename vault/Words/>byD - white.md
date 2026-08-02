@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:187 · [[002 Al-Baqarah]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are a clothing for you and you are a clothing for them. Allāh knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allāh has decreed for you [i.e., offspring]. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the night [i.e., sunset]. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allāh, so do not approach them. Thus does Allāh make clear His verses [i.e., ordinances] to the people that they may become righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** روزوں کی راتوں میں تمہارے لئے اپنی عورتوں کے پاس جانا کردیا گیا ہے وہ تمہاری پوشاک ہیں اور تم ان کی پوشاک ہو خدا کو معلوم ہے کہ تم (ان کے پاس جانے سے) اپنے حق میں خیانت کرتے تھے سو اس نے تم پر مہربانی کی اور تمہاری حرکات سےدرگزرفرمائی۔اب (تم کو اختیار ہے کہ) ان سے مباشرت کرو۔ اور خدا نے جو چیز تمہارے لئے لکھ رکھی ہے (یعنی اولاد) اس کو (خدا سے) طلب کرو اور کھاؤ پیو یہاں تک کہ صبح کی سفید دھاری (رات کی) سیاہ دھاری سے الگ نظر آنے لگے۔ پھر روزہ (رکھ کر) رات تک پورا کرو اور جب تم مسجدوں میں اعتکاف بیٹھے ہو تو ان سے مباشرت نہ کرو۔ یہ خدا کی حدیں ہیں ان کے پاس نہ جانا۔ اسی طرح خدا اپنی آیتیں لوگوں کے (سمجھانے کے) لئے کھول کھول کر بیان فرماتا ہے تاکہ وہ پرہیزگار بنیں
+**English (Yusuf Ali):** Permitted to you, on the night of the fasts, is the approach to your wives. They are your garments and ye are their garments. Allah knoweth what ye used to do secretly among yourselves; but He turned to you and forgave you; so now associate with them, and seek what Allah Hath ordained for you, and eat and drink, until the white thread of dawn appear to you distinct from its black thread; then complete your fast Till the night appears; but do not associate with your wives while ye are in retreat in the mosques. Those are Limits (set by) Allah: Approach not nigh thereto. Thus doth Allah make clear His Signs to men: that they may learn self-restraint.
 
 [Open on Quran.com](https://quran.com/2/187)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he drew out his hand; thereupon it was white [with radiance] for the observers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ باہر نکالا تو اسی دم دیکھنے والوں کی نگاہوں میں سفید براق (تھا)
+**English (Yusuf Ali):** And he drew out his hand, and behold! it was white to all beholders!
 
 [Open on Quran.com](https://quran.com/7/108)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And draw in your hand to your side; it will come out white without disease - another sign,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ اپنی بغل سے لگالو وہ کسی عیب (وبیماری)کے بغیر سفید (چمکتا دمکتا) نکلے گا۔ (یہ) دوسری نشانی (ہے)
+**English (Yusuf Ali):** "Now draw thy hand close to thy side: It shall come forth white (and shining), without harm (or stain),- as another Sign,-
 
 [Open on Quran.com](https://quran.com/20/22)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he drew out his hand; thereupon it was white for the observers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ نکالا تو اسی دم دیکھنے والوں کے لئے سفید (براق نظر آنے لگا)
+**English (Yusuf Ali):** And he drew out his hand, and behold, it was white to all beholders!
 
 [Open on Quran.com](https://quran.com/26/33)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And put your hand into the opening of your garment [at the breast]; it will come out white without disease. [These are] among the nine signs [you will take] to Pharaoh and his people. Indeed, they have been a people defiantly disobedient."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنا ہاتھ اپنے گریبان میں ڈالو سفید نکلے گا۔ (ان دو معجزوں کے ساتھ جو) نو معجزوں میں (داخل ہیں) فرعون اور اس کی قوم کے پاس جاؤ کہ وہ بےحکم لوگ ہیں
+**English (Yusuf Ali):** "Now put thy hand into thy bosom, and it will come forth white without stain (or harm): (these are) among the nine Signs (thou wilt take) to Pharaoh and his people: for they are a people rebellious in transgression."
 
 [Open on Quran.com](https://quran.com/27/12)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Insert your hand into the opening of your garment; it will come out white, without disease. And draw in your arm close to you [as prevention] from fear, for those are two proofs from your Lord to Pharaoh and his establishment. Indeed, they have been a people defiantly disobedient."
 
-**Urdu (Fatah Muhammad Jalandhari):** اپنا ہاتھ گریبان میں ڈالو تو بغیر کسی عیب کے سفید نکل آئے گا اور خوف دور ہونے (کی وجہ) سے اپنے بازو کو اپنی طرف سیکڑلو۔ یہ دو دلیلیں تمہارے پروردگار کی طرف سے ہیں (ان کے ساتھ) فرعون اور اس کے درباریوں کے پاس جاؤ کہ وہ نافرمان لوگ ہیں
+**English (Yusuf Ali):** "Move thy hand into thy bosom, and it will come forth white without stain (or harm), and draw thy hand close to thy side (to guard) against fear. Those are the two credentials from thy Lord to Pharaoh and his Chiefs: for truly they are a people rebellious and wicked."
 
 [Open on Quran.com](https://quran.com/28/32)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you not see that Allāh sends down rain from the sky, and We produce thereby fruits of varying colors? And in the mountains are tracts, white and red of varying shades and [some] extremely black.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا نے آسمان سے مینہ برسایا۔ تو ہم نے اس سے طرح طرح کے رنگوں کے میوے پیدا کئے۔ اور پہاڑوں میں سفید اور سرخ رنگوں کے قطعات ہیں اور (بعض) کالے سیاہ ہیں
+**English (Yusuf Ali):** Seest thou not that Allah sends down rain from the sky? With it We then bring out produce of various colours. And in the mountains are tracts white and red, of various shades of colour, and black intense in hue.
 
 [Open on Quran.com](https://quran.com/35/27)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** White and delicious to the drinkers;
 
-**Urdu (Fatah Muhammad Jalandhari):** جو رنگ کی سفید اور پینے والوں کے لئے (سراسر) لذت ہوگی
+**English (Yusuf Ali):** Crystal-white, of a taste delicious to those who drink (thereof),
 
 [Open on Quran.com](https://quran.com/37/46)
 

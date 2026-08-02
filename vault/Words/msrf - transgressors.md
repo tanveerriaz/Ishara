@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 5:32 · [[005 Al-Maidah]]
 
@@ -48,7 +48,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Because of that, We decreed upon the Children of Israel that whoever kills a soul unless for a soul or for corruption [done] in the land - it is as if he had slain mankind entirely. And whoever saves one - it is as if he had saved mankind entirely. And Our messengers had certainly come to them with clear proofs. Then indeed many of them, [even] after that, throughout the land, were transgressors.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس قتل کی وجہ سے ہم نے بنی اسرائیل پر یہ حکم نازل کیا کہ جو شخص کسی کو (ناحق) قتل کرے گا (یعنی) بغیر اس کے کہ جان کا بدلہ لیا جائے یا ملک میں خرابی کرنے کی سزا دی جائے اُس نے گویا تمام لوگوں کو قتل کیا اور جو اس کی زندگانی کا موجب ہوا تو گویا تمام لوگوں کی زندگانی کا موجب ہوا اور ان لوگوں کے پاس ہمارے پیغمبر روشن دلیلیں لا چکے ہیں پھر اس کے بعد بھی ان سے بہت سے لوگ ملک میں حدِ اعتدال سے نکل جاتے ہیں
+**English (Yusuf Ali):** On that account: We ordained for the Children of Israel that if any one slew a person - unless it be for murder or for spreading mischief in the land - it would be as if he slew the whole people: and if any one saved a life, it would be as if he saved the life of the whole people. Then although there came to them Our messengers with clear signs, yet, even after that, many of them continued to commit excesses in the land.
 
 [Open on Quran.com](https://quran.com/5/32)
 
@@ -64,7 +64,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakāh] on the day of its harvest. And be not excessive. Indeed, He does not like those who commit excess.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی تو ہے جس نے باغ پیدا کئے چھتریوں پر چڑھائے ہوئے بھی اور جو چھتریوں پر نہیں چڑھائے ہوئے وہ بھی اور کھجور اور کھیتی جن کے طرح طرح کے پھل ہوتے ہیں اور زیتون اور انار جو (بعض باتوں میں) ایک دوسرے سے ملتے ہیں جب یہ چیزیں پھلیں تو ان کے پھل کھاؤ اور جس دن (پھل توڑو اور کھیتی) کاٹو تو خدا کا حق بھی اس میں سے ادا کرو اور بےجا نہ اڑاؤ کہ خدا بیجا اڑانے والوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** It is He Who produceth gardens, with trellises and without, and dates, and tilth with produce of all kinds, and olives and pomegranates, similar (in kind) and different (in variety): eat of their fruit in their season, but render the dues that are proper on the day that the harvest is gathered. But waste not by excess: for Allah loveth not the wasters.
 
 [Open on Quran.com](https://quran.com/6/141)
 
@@ -80,7 +80,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O children of Adam, take your adornment [i.e., wear your clothing] at every masjid, and eat and drink, but be not excessive. Indeed, He likes not those who commit excess.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے نبی آدم! ہر نماز کے وقت اپنے تئیں مزّین کیا کرو اور کھاؤ اور پیؤ اور بےجا نہ اڑاؤ کہ خدا بےجا اڑانے والوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** O Children of Adam! wear your beautiful apparel at every time and place of prayer: eat and drink: But waste not by excess, for Allah loveth not the wasters.
 
 [Open on Quran.com](https://quran.com/7/31)
 
@@ -96,7 +96,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, you approach men with desire, instead of women. Rather, you are a transgressing people."
 
-**Urdu (Fatah Muhammad Jalandhari):** یعنی خواہش نفسانی پورا کرنے کے لیے عورتوں کو چھوڑ کر لونڈوں پر گرتے ہو۔ حقیقت یہ ہے کہ تم لوگ حد سے نکل جانے والے ہو
+**English (Yusuf Ali):** "For ye practise your lusts on men in preference to women: ye are indeed a people transgressing beyond bounds."
 
 [Open on Quran.com](https://quran.com/7/81)
 
@@ -112,7 +112,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when affliction touches man, he calls upon Us, whether lying on his side or sitting or standing; but when We remove from him his affliction, he continues [in disobedience] as if he had never called upon Us to [remove] an affliction that touched him. Thus is made pleasing to the transgressors that which they have been doing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب انسان کو تکلیف پہنچتی ہے تو لیٹا اور بیٹھا اور کھڑا (ہر حال میں) ہمیں پکارتا ہے۔ پھر جب ہم اس تکلیف کو اس سے دور کر دیتے ہیں تو (بےلحاظ ہو جاتا ہے اور) اس طرح گزر جاتا ہے گویا کسی تکلیف پہنچنے پر ہمیں کبھی پکارا ہی نہ تھا۔ اسی طرح حد سے نکل جانے والوں کو ان کے اعمال آراستہ کرکے دکھائے گئے ہیں
+**English (Yusuf Ali):** When trouble toucheth a man, He crieth unto Us (in all postures)- lying down on his side, or sitting, or standing. But when We have solved his trouble, he passeth on his way as if he had never cried to Us for a trouble that touched him! thus do the deeds of transgressors seem fair in their eyes!
 
 [Open on Quran.com](https://quran.com/10/12)
 
@@ -128,7 +128,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But no one believed Moses, except [some] offspring [i.e., youths] among his people, for fear of Pharaoh and his establishment that they would persecute them. And indeed, Pharaoh was haughty within the land, and indeed, he was of the transgressors.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو موسیٰ پر کوئی ایمان نہ لایا۔ مگر اس کی قوم میں سے چند لڑکے (اور وہ بھی) فرعون اور اس کے اہل دربار سے ڈرتے ڈرتے کہ کہیں وہ ان کو آفت میں نہ پھنسا دے۔ اور فرعون ملک میں متکبر ومتغلب اور (کبر وکفر) میں حد سے بڑھا ہوا تھا
+**English (Yusuf Ali):** But none believed in Moses except some children of his people, because of the fear of Pharaoh and his chiefs, lest they should persecute them; and certainly Pharaoh was mighty on the earth and one who transgressed all bounds.
 
 [Open on Quran.com](https://quran.com/10/83)
 
@@ -144,7 +144,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We fulfilled for them the promise, and We saved them and whom We willed and destroyed the transgressors.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے ان کے بارے میں (اپنا) وعدہ سچا کردیا تو ان کو اور جس کو چاہا نجات دی اور حد سے نکل جانے والوں کو ہلاک کردیا
+**English (Yusuf Ali):** In the end We fulfilled to them Our Promise, and We saved them and those whom We pleased, but We destroyed those who transgressed beyond bounds.
 
 [Open on Quran.com](https://quran.com/21/9)
 
@@ -160,7 +160,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not obey the order of the transgressors,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور حد سے تجاوز کرنے والوں کی بات نہ مانو
+**English (Yusuf Ali):** "And follow not the bidding of those who are extravagant,-
 
 [Open on Quran.com](https://quran.com/26/151)
 
@@ -176,7 +176,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "Your omen [i.e., fate] is with yourselves. Is it because you were reminded? Rather, you are a transgressing people."
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ تمہاری نحوست تمہارے ساتھ ہے۔ کیا اس لئے کہ تم کو نصیحت کی گئی۔ بلکہ تم ایسے لوگ ہو جو حد سے تجاوز کر گئے ہو
+**English (Yusuf Ali):** They said: "Your evil omens are with yourselves: (deem ye this an evil omen). If ye are admonished? Nay, but ye are a people transgressing all bounds!"
 
 [Open on Quran.com](https://quran.com/36/19)
 
@@ -192,7 +192,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And a believing man from the family of Pharaoh who concealed his faith said, "Do you kill a man [merely] because he says, 'My Lord is Allāh' while he has brought you clear proofs from your Lord? And if he should be lying, then upon him is [the consequence of] his lie; but if he should be truthful, there will strike you some of what he promises you. Indeed, Allāh does not guide one who is a transgressor and a liar.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور فرعون کے لوگوں میں سے ایک مومن شخص جو اپنے ایمان کو پوشیدہ رکھتا تھا کہنے لگا کیا تم ایسے شخص کو قتل کرنا چاہتے ہو جو کہتا ہے کہ میرا پروردگار خدا ہے اور وہ تمہارے پروردگار (کی طرف) سے نشانیاں بھی لے کر آیا ہے۔ اور اگر وہ جھوٹا ہوگا تو اس کے جھوٹ کا ضرر اسی کو ہوگا۔ اور اگر سچا ہوگا تو کوئی سا عذاب جس کا وہ تم سے وعدہ کرتا ہے تم پر واقع ہو کر رہے گا۔ بےشک خدا اس شخص کو ہدایت نہیں دیتا جو بےلحاظ جھوٹا ہے
+**English (Yusuf Ali):** A believer, a man from among the people of Pharaoh, who had concealed his faith, said: "Will ye slay a man because he says, 'My Lord is Allah'?- when he has indeed come to you with Clear (Signs) from your Lord? and if he be a liar, on him is (the sin of) his lie: but, if he is telling the Truth, then will fall on you something of the (calamity) of which he warns you: Truly Allah guides not one who transgresses and lies!
 
 [Open on Quran.com](https://quran.com/40/28)
 

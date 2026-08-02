@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:266 · [[002 Al-Baqarah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Would one of you like to have a garden of palm trees and grapevines underneath which rivers flow in which he has from every fruit? But he is afflicted with old age and has weak [i.e., immature] offspring, and it is hit by a whirlwind containing fire and is burned. Thus does Allāh make clear to you [His] verses that you might give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تم میں کوئی یہ چاہتا ہے کہ اس کا کھجوروں اور انگوروں کا باغ ہو جس میں نہریں بہہ رہی ہوں اور اس میں اس کے لئے ہر قسم کے میوے موجود ہوں اور اسے بڑھاپا آپکڑے اور اس کے ننھے ننھے بچے بھی ہوں۔ تو (ناگہاں) اس باغ پر آگ کا بھرا ہوا بگولا چلے اور وہ جل کر (راکھ کا ڈھیر ہو) جائے۔ اس طرح خدا تم سے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم سوچو (اور سمجھو)
+**English (Yusuf Ali):** Does any of you wish that he should have a garden with date-palms and vines and streams flowing underneath, and all kinds of fruit, while he is stricken with old age, and his children are not strong (enough to look after themselves)- that it should be caught in a whirlwind, with fire therein, and be burnt up? Thus doth Allah make clear to you (His) Signs; that ye may consider.
 
 [Open on Quran.com](https://quran.com/2/266)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And within the land are neighboring plots and gardens of grapevines and crops and palm trees, [growing] several from a root or otherwise, watered with one water; but We make some of them exceed others in [quality of] fruit. Indeed in that are signs for a people who reason.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور زمین میں کئی طرح کے قطعات ہیں۔ ایک دوسرے سے ملے ہوئے اور انگور کے باغ اور کھیتی اور کھجور کے درخت۔ بعض کی بہت سی شاخیں ہوتی ہیں اور بعض کی اتنی نہیں ہوتیں (باوجود یہ کہ) پانی سب کو ایک ہی ملتا ہے۔ اور ہم بعض میوؤں کو بعض پر لذت میں فضیلت دیتے ہیں۔ اس میں سمجھنے والوں کے لیے بہت سی نشانیاں ہیں
+**English (Yusuf Ali):** And in the earth are tracts (diverse though) neighbouring, and gardens of vines and fields sown with corn, and palm trees - growing out of single roots or otherwise: watered with the same water, yet some of them We make more excellent than others to eat. Behold, verily in these things there are signs for those who understand!
 
 [Open on Quran.com](https://quran.com/13/4)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He causes to grow for you thereby the crops, olives, palm trees, grapevines, and of all the fruits. Indeed in that is a sign for a people who give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** اسی پانی سے وہ تمہارے لیے کھیتی اور زیتون اور کھجور اور انگور (اور بےشمار درخت) اُگاتا ہے۔ اور ہر طرح کے پھل (پیدا کرتا ہے) غور کرنے والوں کے لیے اس میں (قدرتِ خدا کی بڑی) نشانی ہے
+**English (Yusuf Ali):** With it He produces for you corn, olives, date-palms, grapes and every kind of fruit: verily in this is a sign for those who give thought.
 
 [Open on Quran.com](https://quran.com/16/11)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And from the fruits of the palm trees and grapevines you take intoxicant and good provision. Indeed in that is a sign for a people who reason.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کھجور اور انگور کے میووں سے بھی (تم پینے کی چیزیں تیار کرتے ہو کہ ان سے شراب بناتے ہو) اور عمدہ رزق (کھاتے ہو) جو لوگ سمجھ رکھتے ہیں ان کے لیے ان (چیزوں) میں (قدرت خدا کی) نشانی ہے
+**English (Yusuf Ali):** And from the fruit of the date-palm and the vine, ye get out wholesome drink and food: behold, in this also is a sign for those who are wise.
 
 [Open on Quran.com](https://quran.com/16/67)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or [until] you have a garden of palm trees and grapes and make rivers gush forth within them in force [and abundance]
 
-**Urdu (Fatah Muhammad Jalandhari):** یا تمہارا کھجوروں اور انگوروں کا کوئی باغ ہو اور اس کے بیچ میں نہریں بہا نکالو
+**English (Yusuf Ali):** "Or (until) thou have a garden of date trees and vines, and cause rivers to gush forth in their midst, carrying abundant water;
 
 [Open on Quran.com](https://quran.com/17/91)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We brought forth for you thereby gardens of palm trees and grapevines in which for you are abundant fruits and from which you eat.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے اس سے تمہارے لئے کھجوروں اور انگوروں کے باغ بنائے، ان میں تمہارے لئے بہت سے میوے پیدا ہوتے ہیں۔ اور ان میں سے تم کھاتے بھی ہو
+**English (Yusuf Ali):** With it We grow for you gardens of date-palms and vines: in them have ye abundant fruits: and of them ye eat (and have enjoyment),-
 
 [Open on Quran.com](https://quran.com/23/19)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We placed therein gardens of palm trees and grapevines and caused to burst forth therefrom some springs -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس میں کھجوروں اور انگوروں کے باغ پیدا کیے اور اس میں چشمے جاری کردیئے
+**English (Yusuf Ali):** And We produce therein orchard with date-palms and vines, and We cause springs to gush forth therein:
 
 [Open on Quran.com](https://quran.com/36/34)
 

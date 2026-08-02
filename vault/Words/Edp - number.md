@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:184 · [[002 Al-Baqarah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Fasting for] a limited number of days. So whoever among you is ill or on a journey [during them] - then an equal number of other days [are to be made up]. And upon those who are able [to fast, but with hardship] - a ransom [as substitute] of feeding a poor person [each day]. And whoever volunteers good [i.e., excess] - it is better for him. But to fast is best for you, if you only knew.
 
-**Urdu (Fatah Muhammad Jalandhari):** (روزوں کے دن) گنتی کے چند روز ہیں تو جو شخص تم میں سے بیمار ہو یا سفر میں ہو تو دوسرے دنوں میں روزوں کا شمار پورا کرلے اور جو لوگ روزہ رکھنے کی طاقت رکھیں (لیکن رکھیں نہیں) وہ روزے کے بدلے محتاج کو کھانا کھلا دیں اور جو کوئی شوق سے نیکی کرے تو اس کے حق میں زیادہ اچھا ہے۔ اور اگر سمجھو تو روزہ رکھنا ہی تمہارے حق میں بہتر ہے
+**English (Yusuf Ali):** (Fasting) for a fixed number of days; but if any of you is ill, or on a journey, the prescribed number (Should be made up) from days later. For those who can do it (With hardship), is a ransom, the feeding of one that is indigent. But he that will give more, of his own free will,- it is better for him. And it is better for you that ye fast, if ye only knew.
 
 [Open on Quran.com](https://quran.com/2/184)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The month of Ramaḍān [is that] in which was revealed the Qur’ān, a guidance for the people and clear proofs of guidance and criterion. So whoever sights [the crescent of] the month, let him fast it; and whoever is ill or on a journey - then an equal number of other days. Allāh intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allāh for that [to] which He has guided you; and perhaps you will be grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** (روزوں کا مہینہ) رمضان کا مہینہ (ہے) جس میں قرآن (اول اول) نازل ہوا جو لوگوں کا رہنما ہے اور (جس میں) ہدایت کی کھلی نشانیاں ہیں اور (جو حق و باطل کو) الگ الگ کرنے والا ہے تو جو کوئی تم میں سے اس مہینے میں موجود ہو چاہیئے کہ پورے مہینے کے روزے رکھے اور جو بیمار ہو یا سفر میں ہو تو دوسرے دنوں میں (رکھ کر) ان کا شمار پورا کرلے۔ خدا تمہارے حق میں آسانی چاہتا ہے اور سختی نہیں چاہتا اور (یہ آسانی کا حکم) اس لئے (دیا گیا ہے) کہ تم روزوں کا شمار پورا کرلو اور اس احسان کے بدلے کہ خدا نے تم کو ہدایت بخشی ہے تم اس کو بزرگی سے یاد کر واور اس کا شکر کرو
+**English (Yusuf Ali):** Ramadhan is the (month) in which was sent down the Qur'an, as a guide to mankind, also clear (Signs) for guidance and judgment (Between right and wrong). So every one of you who is present (at his home) during that month should spend it in fasting, but if any one is ill, or on a journey, the prescribed period (Should be made up) by days later. Allah intends every facility for you; He does not want to put to difficulties. (He wants you) to complete the prescribed period, and to glorify Him in that He has guided you; and perchance ye shall be grateful.
 
 [Open on Quran.com](https://quran.com/2/185)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the number of months with Allāh is twelve [lunar] months in the register of Allāh [from] the day He created the heavens and the earth; of these, four are sacred. That is the correct religion [i.e., way], so do not wrong yourselves during them. And fight against the disbelievers collectively as they fight against you collectively. And know that Allāh is with the righteous [who fear Him].
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا کے نزدیک مہینے گنتی میں (بارہ ہیں یعنی) اس روز (سے) کہ اس نے آسمانوں اور زمین کو پیدا کیا۔ کتاب خدا میں (برس کے) بارہ مہینے (لکھے ہوئے) ہیں۔ ان میں سے چار مہینے ادب کے ہیں۔ یہی دین (کا) سیدھا راستہ ہے۔ تو ان (مہینوں) میں (قتال ناحق سے) اپنے آپ پر ظلم نہ کرنا۔ اور تم سب کے سب مشرکوں سے لڑو جیسے وہ سب کے سب تم سے لڑتے ہیں۔ اور جان رکھو کہ خدا پرہیز گاروں کے ساتھ ہے
+**English (Yusuf Ali):** The number of months in the sight of Allah is twelve (in a year)- so ordained by Him the day He created the heavens and the earth; of them four are sacred: that is the straight usage. So wrong not yourselves therein, and fight the Pagans all together as they fight you all together. But know that Allah is with those who restrain themselves.
 
 [Open on Quran.com](https://quran.com/9/36)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the postponing [of restriction within sacred months] is an increase in disbelief by which those who have disbelieved are led [further] astray. They make it lawful one year and unlawful another year to correspond to the number made unlawful by Allāh and [thus] make lawful what Allāh has made unlawful. Made pleasing to them is the evil of their deeds; and Allāh does not guide the disbelieving people.
 
-**Urdu (Fatah Muhammad Jalandhari):** امن کے کس مہینے کو ہٹا کر آگے پیچھے کر دینا کفر میں اضافہ کرتا ہے اس سے کافر گمراہی میں پڑے رہتے ہیں۔ ایک سال تو اس کو حلال سمجھ لیتے ہیں اور دوسرے سال حرام۔ تاکہ ادب کے مہینوں کو جو خدا نے مقرر کئے ہیں گنتی پوری کر لیں۔ اور جو خدا نے منع کیا ہے اس کو جائز کر لیں۔ ان کے برے اعمال ان کے بھلے دکھائی دیتے ہیں۔ اور خدا کافر لوگوں کو ہدایت نہیں دیا کرتا
+**English (Yusuf Ali):** Verily the transposing (of a prohibited month) is an addition to Unbelief: the Unbelievers are led to wrong thereby: for they make it lawful one year, and forbidden another year, in order to adjust the number of months forbidden by Allah and make such forbidden ones lawful. The evil of their course seems pleasing to them. But Allah guideth not those who reject Faith.
 
 [Open on Quran.com](https://quran.com/9/37)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if they had intended to go forth, they would have prepared for it [some] preparation. But Allāh disliked their being sent, so He kept them back, and they were told, "Remain [behind] with those who remain."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر وہ نکلنے کا ارادہ کرتے ہیں تو اس کے لیے سامان تیار کرتے لیکن خدا نے ان کا اُٹھنا (اور نکلنا) پسند نہ کیا تو ان کو ہلنے جلنے ہی نہ دیا اور (ان سے) کہہ دیا گیا کہ جہاں (معذور) بیٹھے ہیں تم بھی ان کے ساتھ بیٹھے رہو
+**English (Yusuf Ali):** If they had intended to come out, they would certainly have made some preparation therefor; but Allah was averse to their being sent forth; so He made them lag behind, and they were told, "Sit ye among those who sit (inactive)."
 
 [Open on Quran.com](https://quran.com/9/46)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They [i.e., people] will say there were three, the fourth of them being their dog; and they will say there were five, the sixth of them being their dog - guessing at the unseen; and they will say there were seven, and the eighth of them was their dog. Say, [O Muḥammad], "My Lord is most knowing of their number. None knows them except a few. So do not argue about them except with an obvious argument and do not inquire about them among [the speculators] from anyone."
 
-**Urdu (Fatah Muhammad Jalandhari):** (بعض لوگ) اٹکل پچو کہیں گے کہ وہ تین تھے (اور) چوتھا ان کا کتّا تھا۔ اور (بعض) کہیں گے کہ وہ پانچ تھے اور چھٹا ان کا کتّا تھا۔ اور (بعض) کہیں گے کہ وہ سات تھے اور آٹھواں ان کا کتّا تھا۔ کہہ دو کہ میرا پروردگار ہی ان کے شمار سے خوب واقف ہے ان کو جانتے بھی ہیں تو تھوڑے ہی لوگ (جانتے ہیں) تو تم ان (کے معاملے) میں گفتگو نہ کرنا مگر سرسری سی گفتگو۔ اور نہ ان کے بارے میں ان میں کسی سے کچھ دریافت ہی کرنا
+**English (Yusuf Ali):** (Some) say they were three, the dog being the fourth among them; (others) say they were five, the dog being the sixth,- doubtfully guessing at the unknown; (yet others) say they were seven, the dog being the eighth. Say thou: "My Lord knoweth best their number; It is but few that know their (real case)." Enter not, therefore, into controversies concerning them, except on a matter that is clear, nor consult any of them about (the affair of) the Sleepers.
 
 [Open on Quran.com](https://quran.com/18/22)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, when you marry believing women and then divorce them before you have touched them [i.e., consummated the marriage], then there is not for you any waiting period to count concerning them. So provide for them and give them a gracious release.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم مومن عورتوں سے نکاح کرکے ان کو ہاتھ لگانے (یعنی ان کے پاس جانے) سے پہلے طلاق دے دو تو تم کو کچھ اختیار نہیں کہ ان سے عدت پوری کراؤ۔ ان کو کچھ فائدہ (یعنی خرچ) دے کر اچھی طرح سے رخصت کردو
+**English (Yusuf Ali):** O ye who believe! When ye marry believing women, and then divorce them before ye have touched them, no period of 'Iddat have ye to count in respect of them: so give them a present. And set them free in a handsome manner.
 
 [Open on Quran.com](https://quran.com/33/49)
 
@@ -155,7 +155,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Prophet, when you [Muslims] divorce women, divorce them for [the commencement of] their waiting period and keep count of the waiting period, and fear Allāh, your Lord. Do not turn them out of their [husbands'] houses, nor should they [themselves] leave [during that period] unless they are committing a clear immorality. And those are the limits [set by] Allāh. And whoever transgresses the limits of Allāh has certainly wronged himself. You know not; perhaps Allāh will bring about after that a [different] matter.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر (مسلمانوں سے کہہ دو کہ) جب تم عورتوں کو طلاق دینے لگو تو عدت کے شروع میں طلاق دو اور عدت کا شمار رکھو۔ اور خدا سے جو تمہارا پروردگار ہے ڈرو۔ (نہ تو تم ہی) ان کو (ایام عدت میں) ان کے گھروں سے نکالو اور نہ وہ (خود ہی) نکلیں۔ ہاں اگر وہ صریح بےحیائی کریں (تو نکال دینا چاہیئے) اور یہ خدا کی حدیں ہیں۔ جو خدا کی حدوں سے تجاوز کرے گا وہ اپنے آپ پر ظلم کرے گا۔ (اے طلاق دینے والے) تجھے کیا معلوم شاید خدا اس کے بعد کوئی (رجعت کی) سبیل پیدا کردے
+**English (Yusuf Ali):** O Prophet! When ye do divorce women, divorce them at their prescribed periods, and count (accurately), their prescribed periods: And fear Allah your Lord: and turn them not out of their houses, nor shall they (themselves) leave, except in case they are guilty of some open lewdness, those are limits set by Allah: and any who transgresses the limits of Allah, does verily wrong his (own) soul: thou knowest not if perchance Allah will bring about thereafter some new situation.
 
 [Open on Quran.com](https://quran.com/65/1)
 
@@ -171,7 +171,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who no longer expect menstruation among your women - if you doubt, then their period is three months, and [also for] those who have not menstruated. And for those who are pregnant, their term is until they give birth. And whoever fears Allāh - He will make for him of his matter ease.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہاری (مطلقہ) عورتیں جو حیض سے ناامید ہوچکی ہوں اگر تم کو (ان کی عدت کے بارے میں) شبہ ہو تو ان کی عدت تین مہینے ہے اور جن کو ابھی حیض نہیں آنے لگا (ان کی عدت بھی یہی ہے) اور حمل والی عورتوں کی عدت وضع حمل (یعنی بچّہ جننے) تک ہے۔ اور جو خدا سے ڈرے گا خدا اس کے کام میں سہولت پیدا کردے گا
+**English (Yusuf Ali):** Such of your women as have passed the age of monthly courses, for them the prescribed period, if ye have any doubts, is three months, and for those who have no courses (it is the same): for those who carry (life within their wombs), their period is until they deliver their burdens: and for those who fear Allah, He will make their path easy.
 
 [Open on Quran.com](https://quran.com/65/4)
 
@@ -187,7 +187,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have not made the keepers of the Fire except angels. And We have not made their number except as a trial for those who disbelieve - that those who were given the Scripture will be convinced and those who have believed will increase in faith and those who were given the Scripture and the believers will not doubt and that those in whose hearts is disease [i.e., hypocrisy] and the disbelievers will say, "What does Allāh intend by this as an example?" Thus does Allāh send astray whom He wills and guide whom He wills. And none knows the soldiers of your Lord except Him. And it [i.e., mention of the Fire] is not but a reminder to humanity.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے دوزخ کے داروغہ فرشتے بنائے ہیں۔ اور ان کا شمار کافروں کی آزمائش کے لئے مقرر کیا ہے (اور) اس لئے کہ اہل کتاب یقین کریں اور مومنوں کا ایمان اور زیادہ ہو اور اہل کتاب اور مومن شک نہ لائیں۔ اور اس لئے کہ جن لوگوں کے دلوں میں (نفاق کا) مرض ہے اور (جو) کافر (ہیں) کہیں کہ اس مثال (کے بیان کرنے) سے خدا کا مقصد کیا ہے؟ اسی طرح خدا جس کو چاہتا ہے گمراہ کرتا ہے اور جس کو چاہتا ہے ہدایت کرتا ہے اور تمہارے پروردگار کے لشکروں کو اس کے سوا کوئی نہیں جانتا۔ اور یہ تو بنی آدم کے لئے نصیحت ہے
+**English (Yusuf Ali):** And We have set none but angels as Guardians of the Fire; and We have fixed their number only as a trial for Unbelievers,- in order that the People of the Book may arrive at certainty, and the Believers may increase in Faith,- and that no doubts may be left for the People of the Book and the Believers, and that those in whose hearts is a disease and the Unbelievers may say, "What symbol doth Allah intend by this?" Thus doth Allah leave to stray whom He pleaseth, and guide whom He pleaseth: and none can know the forces of thy Lord, except He and this is no other than a warning to mankind.
 
 [Open on Quran.com](https://quran.com/74/31)
 

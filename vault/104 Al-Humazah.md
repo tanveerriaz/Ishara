@@ -14,18 +14,18 @@ The Traducer · 9 ayahs
 
 ## Words in this surah (graph)
 
-- [[nb* - threw away]] — `نَبَذَ` · threw away
-- [[mAl - wealth]] — `مال` · wealth
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
-- [[Emd - pillars]] — `عَمَد` · pillars
-- [[nAr - fire]] — `نار` · fire
-- [[Edd - number]] — `عَدَد` · number
 - [[f&Ad - hearts]] — `فُؤاد` · hearts
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[kl - every]] — `كُلّ` · every
-- [[TlE - discover]] — `طَلَعَ` · discover
+- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[Edd - number]] — `عَدَد` · number
+- [[nAr - fire]] — `نار` · fire
 - [[allah - God]] — `الله` · God
+- [[TlE - discover]] — `طَلَعَ` · discover
+- [[mAl - wealth]] — `مال` · wealth
+- [[Emd - pillars]] — `عَمَد` · pillars
+- [[>drY - can make you]] — `أَدْرَى` · can make you
 - [[Hsb - think]] — `حَسْب` · think
+- [[nb* - threw away]] — `نَبَذَ` · threw away
+- [[kl - every]] — `كُلّ` · every
 
 ## Roots
 

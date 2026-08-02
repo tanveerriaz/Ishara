@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:210 · [[002 Al-Baqarah]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they await but that Allāh should come to them in covers of clouds and the angels [as well] and the matter is [then] decided? And to Allāh [all] matters are returned.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ اسی بات کے منتظر ہیں کہ ان پر خدا (کاعذاب) بادل کے سائبانوں میں آنازل ہو اور فرشتے بھی (اتر آئیں) اور کام تمام کردیا جائے اور سب کاموں کا رجوع خدا ہی کی طرف ہے
+**English (Yusuf Ali):** Will they wait until Allah comes to them in canopies of clouds, with angels (in His train) and the question is (thus) settled? but to Allah do all questions go back (for decision).
 
 [Open on Quran.com](https://quran.com/2/210)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when We raised the mountain above them as if it was a dark cloud and they were certain that it would fall upon them, [and Allāh said], "Take what We have given you with determination and remember what is in it that you might fear Allāh."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے ان (کے سروں) پر پہاڑ اٹھا کھڑا کیا گویا وہ سائبان تھا اور انہوں نے خیال کیا کہ وہ ان پر گرتا ہے تو (ہم نے کہا کہ) جو ہم نے تمہیں دیا ہے اسے زور سے پکڑے رہو۔ اور جو اس میں لکھا ہے اس پر عمل کرو تاکہ بچ جاؤ
+**English (Yusuf Ali):** When We shook the Mount over them, as if it had been a canopy, and they thought it was going to fall on them (We said): "Hold firmly to what We have given you, and bring (ever) to remembrance what is therein; perchance ye may fear Allah."
 
 [Open on Quran.com](https://quran.com/7/171)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they denied him, so the punishment of the day of the black cloud seized them. Indeed, it was the punishment of a terrible day.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں نے ان کو جھٹلایا، پس سائبان کے عذاب نے ان کو آ پکڑا۔ بےشک وہ بڑے (سخت) دن کا عذاب تھا
+**English (Yusuf Ali):** But they rejected him. Then the punishment of a day of overshadowing gloom seized them, and that was the Penalty of a Great Day.
 
 [Open on Quran.com](https://quran.com/26/189)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when waves come over them like canopies, they supplicate Allāh, sincere to Him in religion [i.e., faith]. But when He delivers them to the land, there are [some] of them who are moderate [in faith]. And none rejects Our signs except everyone treacherous and ungrateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب اُن پر (دریا کی) لہریں سائبانوں کی طرح چھا جاتی ہیں تو خدا کو پکارنے (اور) خالص اس کی عبادت کرنے لگتے ہیں پھر جب وہ اُن کو نجات دے کر خشکی پر پہنچا دیتا ہے تو بعض ہی انصاف پر قائم رہتے ہیں۔ اور ہماری نشانیوں سے وہی انکار کرتے ہیں جو عہد شکن اور ناشکرے ہیں
+**English (Yusuf Ali):** When a wave covers them like the canopy (of clouds), they call to Allah, offering Him sincere devotion. But when He has delivered them safely to land, there are among them those that halt between (right and wrong). But none reject Our Signs except only a perfidious ungrateful (wretch)!
 
 [Open on Quran.com](https://quran.com/31/32)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will have canopies [i.e., layers] of fire above them and below them, canopies. By that Allāh threatens [i.e., warns] His servants. O My servants, then fear Me.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کے اوپر تو آگ کے سائبان ہوں گے اور نیچے (اس کے) فرش ہوں گے۔ یہ وہ (عذاب) ہے جس سے خدا اپنے بندوں کو ڈراتا ہے۔ تو اے میرے بندو مجھ سے ڈرتے رہو
+**English (Yusuf Ali):** They shall have Layers of Fire above them, and Layers (of Fire) below them: with this doth Allah warn off his servants: "O My Servants! then fear ye Me!"
 
 [Open on Quran.com](https://quran.com/39/16)
 

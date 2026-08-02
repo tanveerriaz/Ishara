@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 44:54 · [[044 Ad-Dukhan]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Thus. And We will marry them to fair women with large, [beautiful] eyes.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس طرح (کا حال ہوگا) اور ہم بڑی بڑی آنکھوں والی سفید رنگ کی عورتوں سے ان کے جوڑے لگائیں گے
+**English (Yusuf Ali):** So; and We shall join them to fair women with beautiful, big, and lustrous eyes.
 
 [Open on Quran.com](https://quran.com/44/54)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will be reclining on thrones lined up, and We will marry them to fair women with large, [beautiful] eyes.
 
-**Urdu (Fatah Muhammad Jalandhari):** تختوں پر جو برابر برابر بچھے ہوئے ہیں تکیہ لگائے ہوئے اور بڑی بڑی آنکھوں والی حوروں سے ہم ان کا عقد کر دیں گے
+**English (Yusuf Ali):** They will recline (with ease) on Thrones (of dignity) arranged in ranks; and We shall join them to Companions, with beautiful big and lustrous eyes.
 
 [Open on Quran.com](https://quran.com/52/20)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Fair ones reserved in pavilions -
 
-**Urdu (Fatah Muhammad Jalandhari):** (وہ) حوریں (ہیں جو) خیموں میں مستور (ہیں)
+**English (Yusuf Ali):** Companions restrained (as to their glances), in (goodly) pavilions;-
 
 [Open on Quran.com](https://quran.com/55/72)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [for them are] fair women with large, [beautiful] eyes,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بڑی بڑی آنکھوں والی حوریں
+**English (Yusuf Ali):** And (there will be) Companions with beautiful, big, and lustrous eyes,-
 
 [Open on Quran.com](https://quran.com/56/22)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 22:23 · [[022 Al-Hajj]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh will admit those who believe and do righteous deeds to gardens beneath which rivers flow. They will be adorned therein with bracelets of gold and pearl, and their garments therein will be silk.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور عمل نیک کرتے رہے خدا ان کو بہشتوں میں داخل کرے گا جن کے تلے نہریں بہہ رہیں ہیں۔ وہاں ان کو سونے کے کنگن پہنائے جائیں گے اور موتی۔ اور وہاں ان کا لباس ریشمی ہوگا
+**English (Yusuf Ali):** Allah will admit those who believe and work righteous deeds, to Gardens beneath which rivers flow: they shall be adorned therein with bracelets of gold and pearls; and their garments there will be of silk.
 
 [Open on Quran.com](https://quran.com/22/23)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [For them are] gardens of perpetual residence which they will enter. They will be adorned therein with bracelets of gold and pearls, and their garments therein will be silk.
 
-**Urdu (Fatah Muhammad Jalandhari):** (ان لوگوں کے لئے) بہشتِ جاودانی (ہیں) جن میں وہ داخل ہوں گے۔ وہاں ان کو سونے کے کنگن اور موتی پہنائے جائیں گے۔ اور ان کی پوشاک ریشمی ہوگی
+**English (Yusuf Ali):** Gardens of Eternity will they enter: therein will they be adorned with bracelets of gold and pearls; and their garments there will be of silk.
 
 [Open on Quran.com](https://quran.com/35/33)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And will reward them for what they patiently endured [with] a garden [in Paradise] and silk [garments].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے صبر کے بدلے ان کو بہشت (کے باغات) اور ریشم (کے ملبوسات) عطا کرے گا
+**English (Yusuf Ali):** And because they were patient and constant, He will reward them with a Garden and (garments of) silk.
 
 [Open on Quran.com](https://quran.com/76/12)
 

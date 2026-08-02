@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 23:19 · [[023 Al-Muminun]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We brought forth for you thereby gardens of palm trees and grapevines in which for you are abundant fruits and from which you eat.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے اس سے تمہارے لئے کھجوروں اور انگوروں کے باغ بنائے، ان میں تمہارے لئے بہت سے میوے پیدا ہوتے ہیں۔ اور ان میں سے تم کھاتے بھی ہو
+**English (Yusuf Ali):** With it We grow for you gardens of date-palms and vines: in them have ye abundant fruits: and of them ye eat (and have enjoyment),-
 
 [Open on Quran.com](https://quran.com/23/19)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Fruits; and they will be honored
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی) میوے اور ان کا اعزاز کیا جائے گا
+**English (Yusuf Ali):** Fruits (Delights); and they (shall enjoy) honour and dignity,
 
 [Open on Quran.com](https://quran.com/37/42)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And fruits from whatever they desire,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور میؤوں میں جو ان کو مرغوب ہوں
+**English (Yusuf Ali):** And (they shall have) fruits,- all they desire.
 
 [Open on Quran.com](https://quran.com/77/42)
 

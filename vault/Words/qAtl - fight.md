@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:190 · [[002 Al-Baqarah]]
 
@@ -53,7 +53,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Fight in the way of Allāh those who fight against you but do not transgress. Indeed, Allāh does not like transgressors.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم سے لڑتے ہیں تم بھی خدا کی راہ میں ان سے لڑو مگر زیادتی نہ کرنا کہ خدا زیادتی کرنے والوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** Fight in the cause of Allah those who fight you, but do not transgress limits; for Allah loveth not transgressors.
 
 [Open on Quran.com](https://quran.com/2/190)
 
@@ -69,7 +69,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And kill them [in battle] wherever you overtake them and expel them from wherever they have expelled you, and fitnah is worse than killing. And do not fight them at al-Masjid al-Ḥarām until they fight you there. But if they fight you, then kill them. Such is the recompense of the disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کو جہاں پاؤ قتل کردو اور جہاں سے انہوں نے تم کو نکالا ہے (یعنی مکے سے) وہاں سے تم بھی ان کو نکال دو۔ اور (دین سے گمراہ کرنے کا) فساد قتل وخونریزی سے کہیں بڑھ کر ہے اور جب تک وہ تم سے مسجد محترم (یعنی خانہ کعبہ) کے پاس نہ لڑیں تم بھی وہاں ان سے نہ لڑنا۔ ہاں اگر وہ تم سے لڑیں تو تم ان کو قتل کرڈالو۔ کافروں کی یہی سزا ہے
+**English (Yusuf Ali):** And slay them wherever ye catch them, and turn them out from where they have Turned you out; for tumult and oppression are worse than slaughter; but fight them not at the Sacred Mosque, unless they (first) fight you there; but if they fight you, slay them. Such is the reward of those who suppress faith.
 
 [Open on Quran.com](https://quran.com/2/191)
 
@@ -85,7 +85,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Fight them until there is no [more] fitnah and [until] religion [i.e., worship] is [acknowledged to be] for Allāh. But if they cease, then there is to be no aggression [i.e., assault] except against the oppressors.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان سے اس وقت تک لڑتے رہنا کہ فساد نابود ہوجائے اور (ملک میں) خدا ہی کا دین ہوجائے اور اگر وہ (فساد سے) باز آجائیں تو ظالموں کے سوا کسی پر زیادتی نہیں (کرنی چاہیئے)
+**English (Yusuf Ali):** And fight them on until there is no more Tumult or oppression, and there prevail justice and faith in Allah; but if they cease, Let there be no hostility except to those who practise oppression.
 
 [Open on Quran.com](https://quran.com/2/193)
 
@@ -101,7 +101,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They ask you about the sacred month - about fighting therein. Say, "Fighting therein is great [sin], but averting [people] from the way of Allāh and disbelief in Him and [preventing access to] al-Masjid al-Ḥarām and the expulsion of its people therefrom are greater [evil] in the sight of Allāh. And fitnah is greater than killing." And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire; they will abide therein eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
+**English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
 
 [Open on Quran.com](https://quran.com/2/217)
 
@@ -117,7 +117,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And fight in the cause of Allāh and know that Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (مسلمانو) خدا کی راہ میں جہاد کرو اور جان رکھو کہ خدا (سب کچھ) جانتا ہے
+**English (Yusuf Ali):** Then fight in the cause of Allah, and know that Allah Heareth and knoweth all things.
 
 [Open on Quran.com](https://quran.com/2/244)
 
@@ -133,7 +133,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have you not considered the assembly of the Children of Israel after [the time of] Moses when they said to a prophet of theirs, "Send to us a king, and we will fight in the way of Allāh"? He said, "Would you perhaps refrain from fighting if battle was prescribed for you?" They said, "And why should we not fight in the cause of Allāh when we have been driven out from our homes and from our children?" But when battle was prescribed for them, they turned away, except for a few of them. And Allāh is Knowing of the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے بنی اسرائیل کی ایک جماعت کو نہیں دیکھا جس نے موسیٰ کے بعد اپنے پیغمبر سے کہا کہ آپ ہمارے لئے ایک بادشاہ مقرر کردیں تاکہ ہم خدا کی راہ میں جہاد کریں۔ پیغمبر نے کہا کہ اگر تم کو جہاد کا حکم دیا جائے تو عجب نہیں کہ لڑنے سے پہلو تہی کرو۔ وہ کہنے لگے کہ ہم راہ خدا میں کیوں نہ لڑیں گے جب کہ ہم وطن سے (خارج) اور بال بچوں سے جدا کردیئے گئے۔ لیکن جب ان کو جہاد کا حکم دیا گیا تو چند اشخاص کے سوا سب پھر گئے۔ اور خدا ظالموں سے خوب واقف ہے
+**English (Yusuf Ali):** Hast thou not Turned thy vision to the Chiefs of the Children of Israel after (the time of) Moses? they said to a prophet (That was) among them: "Appoint for us a king, that we May fight in the cause of Allah." He said: "Is it not possible, if ye were commanded to fight, that that ye will not fight?" They said: "How could we refuse to fight in the cause of Allah, seeing that we were turned out of our homes and our families?" but when they were commanded to fight, they turned back, except a small band among them. But Allah Has full knowledge of those who do wrong.
 
 [Open on Quran.com](https://quran.com/2/246)
 
@@ -149,7 +149,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Already there has been for you a sign in the two armies which met [in combat at Badr] - one fighting in the cause of Allāh and another of disbelievers. They saw them [to be] twice their [own] number by [their] eyesight. But Allāh supports with His victory whom He wills. Indeed in that is a lesson for those of vision.
 
-**Urdu (Fatah Muhammad Jalandhari):** تمہارے لیے دو گروہوں میں جو (جنگ بدر کے دن) آپس میں بھڑ گئے (قدرت خدا کی عظیم الشان) نشانی تھی ایک گروہ (مسلمانوں کا تھا وہ) خدا کی راہ میں لڑ رہا تھا اور دوسرا گروہ (کافروں کا تھا وہ) ان کو اپنی آنکھوں سے اپنے سے دگنا مشاہدہ کر رہا تھا اور خدا اپنی نصرت سے جس کو چاہتا ہے مدد دیتا ہے جو اہل بصارت ہیں ان کے لیے اس (واقعے) میں بڑی عبرت ہے
+**English (Yusuf Ali):** "There has already been for you a Sign in the two armies that met (in combat): One was fighting in the cause of Allah, the other resisting Allah; these saw with their own eyes Twice their number. But Allah doth support with His aid whom He pleaseth. In this is a warning for such as have eyes to see."
 
 [Open on Quran.com](https://quran.com/3/13)
 
@@ -165,7 +165,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will not harm you except for [some] annoyance. And if they fight you, they will show you their backs [i.e., retreat]; then they will not be aided.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ تمہیں خفیف سی تکلیف کے سوا کچھ نقصان نہیں پہنچا سکیں گے اور اگر تم سے لڑیں گے تو پیٹھ پھیر کر بھاگ جائیں گے پھر ان کو مدد بھی (کہیں سے) نہیں ملے گی
+**English (Yusuf Ali):** They will do you no harm, barring a trifling annoyance; if they come out to fight you, they will show you their backs, and no help shall they get.
 
 [Open on Quran.com](https://quran.com/3/111)
 
@@ -181,7 +181,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And how many a prophet [fought in battle and] with him fought many religious scholars. But they never lost assurance due to what afflicted them in the cause of Allāh, nor did they weaken or submit. And Allāh loves the steadfast.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بہت سے نبی ہوئے ہیں جن کے ساتھ ہو کر اکثر اہل الله (خدا کے دشمنوں سے) لڑے ہیں تو جو مصبتیں ان پر راہِ خدا میں واقع ہوئیں ان کے سبب انہوں نے نہ تو ہمت ہاری اور نہ بزدلی کی نہ (کافروں سے) دبے اور خدا استقلال رکھنے والوں کو دوست رکھتا ہے
+**English (Yusuf Ali):** How many of the prophets fought (in Allah's way), and with them (fought) Large bands of godly men? but they never lost heart if they met with disaster in Allah's way, nor did they weaken (in will) nor give in. And Allah Loves those who are firm and steadfast.
 
 [Open on Quran.com](https://quran.com/3/146)
 
@@ -197,7 +197,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And that He might make evident those who are hypocrites. For it was said to them, "Come, fight in the way of Allāh or [at least] defend." They said, "If we had known [there would be] battle, we would have followed you." They were nearer to disbelief that day than to faith, saying with their mouths what was not in their hearts. And Allāh is most knowing of what they conceal -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور منافقوں کو بھی معلوم کرلے اور (جب) ان سے کہا گیا کہ آؤ خدا کے رستے میں جنگ کرو یا (کافروں کے) حملوں کو روکو۔ تو کہنے لگے کہ اگر ہم کو لڑائی کی خبر ہوتی تو ہم ضرور تمہارے ساتھ رہتے یہ اس دن ایمان کی نسبت کفر سے زیادہ قریب تھے منہ سے وہ باتیں کہتے ہیں جو ان کے دل میں نہیں ہیں۔ اور جو کچھ یہ چھپاتے ہیں خدا ان سے خوب واقف ہے
+**English (Yusuf Ali):** And the Hypocrites also. These were told: "Come, fight in the way of Allah, or (at least) drive (The foe from your city)." They said: "Had we known how to fight, we should certainly have followed you." They were that day nearer to Unbelief than to Faith, saying with their lips what was not in their hearts but Allah hath full knowledge of all they conceal.
 
 [Open on Quran.com](https://quran.com/3/167)
 

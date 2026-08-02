@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:23 · [[009 At-Tawbah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not take your fathers or your brothers as allies if they have preferred disbelief over belief. And whoever does so among you - then it is those who are the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان! اگر تمہارے (ماں) باپ اور (بہن) بھائی ایمان کے مقابل کفر کو پسند کریں تو ان سے دوستی نہ رکھو۔ اور جو ان سے دوستی رکھیں گے وہ ظالم ہیں
+**English (Yusuf Ali):** O ye who believe! take not for protectors your fathers and your brothers if they love infidelity above Faith: if any of you do so, they do wrong.
 
 [Open on Quran.com](https://quran.com/9/23)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The ones who prefer the worldly life over the Hereafter and avert [people] from the way of Allāh, seeking to make it [seem] deviant. Those are in extreme error.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو آخرت کی نسبت دنیا کو پسند کرتے اور (لوگوں کو) خدا کے رستے سے روکتے اور اس میں کجی چاہتے ہیں۔ یہ لوگ پرلے سرے کی گمراہی میں ہیں
+**English (Yusuf Ali):** Those who love the life of this world more than the Hereafter, who hinder (men) from the Path of Allah and seek therein something crooked: they are astray by a long distance.
 
 [Open on Quran.com](https://quran.com/14/3)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is because they preferred the worldly life over the Hereafter and that Allāh does not guide the disbelieving people.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ اس لئے کہ انہوں نے دنیا کی زندگی کو آخرت کے مقابلے میں عزیز رکھا۔ اور اس لئے خدا کافر لوگوں کو ہدایت نہیں دیتا
+**English (Yusuf Ali):** This because they love the life of this world better than the Hereafter: and Allah will not guide those who reject Faith.
 
 [Open on Quran.com](https://quran.com/16/107)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And as for Thamūd, We guided them, but they preferred blindness over guidance, so the thunderbolt of humiliating punishment seized them for what they used to earn.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو ثمود تھے ان کو ہم نے سیدھا رستہ دکھا دیا تھا مگر انہوں نے ہدایت کے مقابلے میں اندھا دھند رہنا پسند کیا تو ان کے اعمال کی سزا میں کڑک نے ان کو آپکڑا۔ اور وہ ذلت کا عذاب تھا
+**English (Yusuf Ali):** As to the Thamud, We gave them Guidance, but they preferred blindness (of heart) to Guidance: so the stunning Punishment of humiliation seized them, because of what they had earned.
 
 [Open on Quran.com](https://quran.com/41/17)
 

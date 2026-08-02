@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:65 · [[006 Al-Anam]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "He is the [one] Able to send upon you affliction from above you or from beneath your feet or to confuse you [so you become] sects and make you taste the violence of one another." Look how We diversify the signs that they might understand.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ وہ (اس پر بھی) قدرت رکھتا ہے کہ تم پر اوپر کی طرف سے یا تمہارے پاؤں کے نیچے سے عذاب بھیجے یا تمہیں فرقہ فرقہ کردے اور ایک کو دوسرے (سے لڑا کر آپس) کی لڑائی کا مزہ چکھادے۔ دیکھو ہم اپنی آیتوں کو کس کس طرح بیان کرتے ہیں تاکہ یہ لوگ سمجھیں
+**English (Yusuf Ali):** Say: "He hath power to send calamities on you, from above and below, or to cover you with confusion in party strife, giving you a taste of mutual vengeance - each from the other." See how We explain the signs by various (symbols); that they may understand.
 
 [Open on Quran.com](https://quran.com/6/65)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who have divided their religion and become sects - you, [O Muḥammad], are not [associated] with them in anything. Their affair is only [left] to Allāh; then He will inform them about what they used to do.
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے اپنے دین میں (بہت سے) رستے نکالے اور کئی کئی فرقے ہو گئے ان سے تم کو کچھ کام نہیں ان کا کام خدا کے حوالے پھر جو کچھ وہ کرتے رہے ہیں وہ ان کو (سب) بتائے گا
+**English (Yusuf Ali):** As for those who divide their religion and break up into sects, thou hast no part in them in the least: their affair is with Allah: He will in the end tell them the truth of all that they did.
 
 [Open on Quran.com](https://quran.com/6/159)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We had certainly sent [messengers] before you, [O Muḥammad], among the sects of the former peoples.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تم سے پہلے لوگوں میں بھی پیغمبر بھیجے تھے
+**English (Yusuf Ali):** We did send messengers before thee amongst the religious sects of old:
 
 [Open on Quran.com](https://quran.com/15/10)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We will surely extract from every sect those of them who were worst against the Most Merciful in insolence.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ہر جماعت میں سے ہم ایسے لوگوں کو کھینچ نکالیں گے جو خدا سے سخت سرکشی کرتے تھے
+**English (Yusuf Ali):** Then shall We certainly drag out from every sect all those who were worst in obstinate rebellion against (Allah) Most Gracious.
 
 [Open on Quran.com](https://quran.com/19/69)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Pharaoh exalted himself in the land and made its people into factions, oppressing a sector among them, slaughtering their [newborn] sons and keeping their females alive. Indeed, he was of the corrupters.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہ فرعون نے ملک میں سر اُٹھا رکھا تھا اور وہاں کے باشندوں کو گروہ گروہ بنا رکھا تھا اُن میں سے ایک گروہ کو (یہاں تک) کمزور کر دیا تھا کہ اُن کے بیٹوں کو ذبح کر ڈالتا اور اُن کی لڑکیوں کو زندہ رہنے دیتا۔ بیشک وہ مفسدوں میں تھا
+**English (Yusuf Ali):** Truly Pharaoh elated himself in the land and broke up its people into sections, depressing a small group among them: their sons he slew, but he kept alive their females: for he was indeed a maker of mischief.
 
 [Open on Quran.com](https://quran.com/28/4)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he entered the city at a time of inattention by its people and found therein two men fighting: one from his faction and one from among his enemy. And the one from his faction called for help to him against the one from his enemy, so Moses struck him and [unintentionally] killed him. [Moses] said, "This is from the work of Satan. Indeed, he is a manifest, misleading enemy."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ ایسے وقت شہر میں داخل ہوئے کہ وہاں کے باشندے بےخبر ہو رہے تھے تو دیکھا کہ وہاں دو شخص لڑ رہے تھے ایک تو موسٰی کی قوم کا ہے اور دوسرا اُن کے دشمنوں میں سے تو جو شخص اُن کی قوم میں سے تھا اس نے دوسرے شخص کے مقابلے میں جو موسٰی کے دشمنوں میں سے تھا مدد طلب کی تو اُنہوں نے اس کو مکا مارا اور اس کا کام تمام کر دیا کہنے لگے کہ یہ کام تو (اغوائے) شیطان سے ہوا بیشک وہ (انسان کا) دشمن اور صریح بہکانے والا ہے
+**English (Yusuf Ali):** And he entered the city at a time when its people were not watching: and he found there two men fighting,- one of his own religion, and the other, of his foes. Now the man of his own religion appealed to him against his foe, and Moses struck him with his fist and made an end of him. He said: "This is a work of Evil (Satan): for he is an enemy that manifestly misleads!"
 
 [Open on Quran.com](https://quran.com/28/15)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Or] of those who have divided their religion and become sects, every faction rejoicing in what it has.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور نہ) اُن لوگوں میں (ہونا) جنہوں نے اپنے دین کو ٹکڑے ٹکڑے کر دیا اور (خود) فرقے فرقے ہو گئے۔ سب فرقے اسی سے خوش ہیں جو اُن کے پاس ہے
+**English (Yusuf Ali):** Those who split up their Religion, and become (mere) Sects,- each party rejoicing in that which is with itself!
 
 [Open on Quran.com](https://quran.com/30/32)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And prevention will be placed between them and what they desire, as was done with their kind before. Indeed, they were in disquieting doubt [i.e., denial].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان میں اور ان کی خواہش کی چیزوں میں پردہ حائل کردیا گیا جیسا کہ پہلے ان کے ہم جنسوں سے کیا گیا وہ بھی الجھن میں ڈالنے والے شک میں پڑے ہوئے تھے
+**English (Yusuf Ali):** And between them and their desires, is placed a barrier, as was done in the past with their partisans: for they were indeed in suspicious (disquieting) doubt.
 
 [Open on Quran.com](https://quran.com/34/54)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, among his kind was Abraham,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان ہی کے پیرووں میں ابراہیم تھے
+**English (Yusuf Ali):** Verily among those who followed his Way was Abraham.
 
 [Open on Quran.com](https://quran.com/37/83)
 
@@ -189,7 +189,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have already destroyed your kinds, so is there any who will remember?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم تمہارے ہم مذہبوں کو ہلاک کرچکے ہیں تو کوئی ہے کہ سوچے سمجھے؟
+**English (Yusuf Ali):** And (oft) in the past, have We destroyed gangs like unto you: then is there any that will receive admonition?
 
 [Open on Quran.com](https://quran.com/54/51)
 

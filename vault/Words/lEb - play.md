@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 5:57 · [[005 Al-Maidah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, take not those who have taken your religion in ridicule and amusement among the ones who were given the Scripture before you nor the disbelievers as allies. And fear Allāh, if you should [truly] be believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والوں! جن لوگوں کو تم سے پہلے کتابیں دی گئی تھیں ان کو اور کافروں کو جنہوں نے تمہارے دین کو ہنسی اور کھیل بنا رکھا ہے دوست نہ بناؤ اور مومن ہو تو خدا سے ڈرتے رہو
+**English (Yusuf Ali):** O ye who believe! take not for friends and protectors those who take your religion for a mockery or sport,- whether among those who received the Scripture before you, or among those who reject Faith; but fear ye Allah, if ye have faith (indeed).
 
 [Open on Quran.com](https://quran.com/5/57)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when you call to prayer, they take it in ridicule and amusement. That is because they are a people who do not use reason.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم لوگ نماز کے لیے اذان دیتے ہو تو یہ اسے بھی ہنسی اور کھیل بناتے ہیں یہ اس لیے کہ سمجھ نہیں رکھتے
+**English (Yusuf Ali):** When ye proclaim your call to prayer they take it (but) as mockery and sport; that is because they are a people without understanding.
 
 [Open on Quran.com](https://quran.com/5/58)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the worldly life is not but amusement and diversion; but the home of the Hereafter is best for those who fear Allāh, so will you not reason?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور دنیا کی زندگی تو ایک کھیل اور مشغولہ ہے۔ اور بہت اچھا گھر تو آخرت کا گھر ہے (یعنی) ان کے لئے جو (خدا سے) ڈرتے ہیں۔ کیا تم سمجھتے نہیں
+**English (Yusuf Ali):** What is the life of this world but play and amusement? But best is the home in the hereafter, for those who are righteous. Will ye not then understand?
 
 [Open on Quran.com](https://quran.com/6/32)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And leave those who take their religion as amusement and diversion and whom the worldly life has deluded. But remind with it [i.e., the Qur’ān], lest a soul be given up to destruction for what it earned; it will have other than Allāh no protector and no intercessor. And if it should offer every compensation, it would not be taken from it [i.e., that soul]. Those are the ones who are given to destruction for what they have earned. For them will be a drink of scalding water and a painful punishment because they used to disbelieve.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے اپنےدین کو کھیل اور تماشا بنا رکھا ہے اور دنیا کی زندگی نے ان کو دھوکے میں ڈال رکھا ہے ان سے کچھ کام نہ رکھو ہاں اس (قرآن) کے ذریعے سے نصیحت کرتے رہو تاکہ (قیامت کے دن) کوئی اپنے اعمال کی سزا میں ہلاکت میں نہ ڈالا جائے (اس روز) خدا کےسوا نہ تو کوئی اس کا دوست ہوگا اور نہ سفارش کرنے والا۔ اور اگر وہ ہر چیز (جو روئے زمین پر ہے بطور) معاوضہ دینا چاہے تو وہ اس سے قبول نہ ہو یہی لوگ ہیں کہ اپنے اعمال کے وبال میں ہلاکت میں ڈالے گئے ان کے لئے پینے کو کھولتا ہوا پانی اور دکھ دینے والا عذاب ہے اس لئے کہ کفر کرتے تھے
+**English (Yusuf Ali):** Leave alone those who take their religion to be mere play and amusement, and are deceived by the life of this world. But proclaim (to them) this (truth): that every soul delivers itself to ruin by its own acts: it will find for itself no protector or intercessor except Allah: if it offered every ransom, (or reparation), none will be accepted: such is (the end of) those who deliver themselves to ruin by their own acts: they will have for drink (only) boiling water, and for punishment, one most grievous: for they persisted in rejecting Allah.
 
 [Open on Quran.com](https://quran.com/6/70)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who took their religion as distraction and amusement and whom the worldly life deluded." So today We will forget them just as they forgot the meeting of this Day of theirs and for having rejected Our verses.
 
-**Urdu (Fatah Muhammad Jalandhari):** جنہوں نے اپنے دین کو تماشا اور کھیل بنا رکھا تھا اور دنیا کی زندگی نے ان کو دھوکے میں ڈال رکھا تھا۔ تو جس طرح یہ لوگ اس دن کے آنے کو بھولے ہوئے اور ہماری آیتوں سے منکر ہو رہے تھے۔ اسی طرح آج ہم بھی انہیں بھلا دیں گے
+**English (Yusuf Ali):** "Such as took their religion to be mere amusement and play, and were deceived by the life of the world." That day shall We forget them as they forgot the meeting of this day of theirs, and as they were wont to reject Our signs.
 
 [Open on Quran.com](https://quran.com/7/51)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And this worldly life is not but diversion and amusement. And indeed, the home of the Hereafter - that is the [eternal] life, if only they knew.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ دنیا کی زندگی تو صرف کھیل اور تماشہ ہے اور( ہمیشہ کی) زندگی (کا مقام) تو آخرت کا گھر ہے۔ کاش یہ (لوگ) سمجھتے
+**English (Yusuf Ali):** What is the life of this world but amusement and play? but verily the Home in the Hereafter,- that is life indeed, if they but knew.
 
 [Open on Quran.com](https://quran.com/29/64)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [This] worldly life is only amusement and diversion. And if you believe and fear Allāh, He will give you your rewards and not ask you for your properties.
 
-**Urdu (Fatah Muhammad Jalandhari):** دنیا کی زندگی تو محض کھیل اور تماشا ہے۔ اور اگر تم ایمان لاؤ گے اور پرہیزگاری کرو گے تو وہ تم کو تمہارا اجر دے گا۔ اور تم سے تمہارا مال طلب نہیں کرے گا
+**English (Yusuf Ali):** The life of this world is but play and amusement: and if ye believe and guard against Evil, He will grant you your recompense, and will not ask you (to give up) your possessions.
 
 [Open on Quran.com](https://quran.com/47/36)
 
@@ -155,7 +155,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Know that the life of this world is but amusement and diversion and adornment and boasting to one another and competition in increase of wealth and children - like the example of a rain whose [resulting] plant growth pleases the tillers; then it dries and you see it turned yellow; then it becomes [scattered] debris. And in the Hereafter is severe punishment and forgiveness from Allāh and approval. And what is the worldly life except the enjoyment of delusion.
 
-**Urdu (Fatah Muhammad Jalandhari):** جان رکھو کہ دنیا کی زندگی محض کھیل اور تماشا اور زینت (وآرائش) اور تمہارے آپس میں فخر (وستائش) اور مال واولاد کی ایک دوسرے سے زیادہ طلب (وخواہش) ہے (اس کی مثال ایسی ہے) جیسے بارش کہ (اس سے کھیتی اُگتی اور) کسانوں کو کھیتی بھلی لگتی ہے پھر وہ خوب زور پر آتی ہے پھر (اے دیکھنے والے) تو اس کو دیکھتا ہے کہ (پک کر) زرد پڑ جاتی ہے پھر چورا چورا ہوجاتی ہے اور آخرت میں (کافروں کے لئے) عذاب شدید اور (مومنوں کے لئے) خدا کی طرف سے بخشش اور خوشنودی ہے۔ اور دنیا کی زندگی تو متاع فریب ہے
+**English (Yusuf Ali):** Know ye (all), that the life of this world is but play and amusement, pomp and mutual boasting and multiplying, (in rivalry) among yourselves, riches and children. Here is a similitude: How rain and the growth which it brings forth, delight (the hearts of) the tillers; soon it withers; thou wilt see it grow yellow; then it becomes dry and crumbles away. But in the Hereafter is a Penalty severe (for the devotees of wrong). And Forgiveness from Allah and (His) Good Pleasure (for the devotees of Allah). And what is the life of this world, but goods and chattels of deception?
 
 [Open on Quran.com](https://quran.com/57/20)
 

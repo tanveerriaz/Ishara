@@ -42,7 +42,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 5:76 · [[005 Al-Maidah]]
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Do you worship besides Allāh that which holds for you no [power of] harm or benefit while it is Allāh who is the Hearing, the Knowing?"
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ تم خدا کے سوا ایسی چیز کی کیوں پرستش کرتے ہو جس کو تمہارے نفع اور نقصان کا کچھ بھی اختیار نہیں؟ اور خدا ہی (سب کچھ) سنتا جانتا ہے
+**English (Yusuf Ali):** Say: "Will ye worship, besides Allah, something which hath no power either to harm or benefit you? But Allah,- He it is that heareth and knoweth all things."
 
 [Open on Quran.com](https://quran.com/5/76)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if Allāh should touch you with adversity, there is no remover of it except Him. And if He touches you with good - then He is over all things competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا تم کو کوئی سختی پہنچائے تو اس کے سوا اس کو کوئی دور کرنے والا نہیں اور اگر نعمت (وراحت) عطا کرے تو (کوئی اس کو روکنے والا نہیں) وہ ہر چیز پر قادر ہے
+**English (Yusuf Ali):** "If Allah touch thee with affliction, none can remove it but He; if He touch thee with happiness, He hath power over all things.
 
 [Open on Quran.com](https://quran.com/6/17)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "I hold not for myself [the power of] benefit or harm, except what Allāh has willed. And if I knew the unseen, I could have acquired much wealth, and no harm would have touched me. I am not except a warner and a bringer of good tidings to a people who believe."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں اپنے فائدے اور نقصان کا کچھ بھی اختیار نہیں رکھتا مگر جو الله چاہے اور اگر میں غیب کی باتیں جانتا ہوتا تو بہت سے فائدے جمع کرلیتا اور مجھ کو کوئی تکلیف نہ پہنچتی۔ میں تو مومنوں کو ڈر اور خوشخبری سنانے والا ہوں
+**English (Yusuf Ali):** Say: "I have no power over any good or harm to myself except as Allah willeth. If I had knowledge of the unseen, I should have multiplied all good, and no evil should have touched me: I am but a warner, and a bringer of glad tidings to those who have faith."
 
 [Open on Quran.com](https://quran.com/7/188)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when affliction touches man, he calls upon Us, whether lying on his side or sitting or standing; but when We remove from him his affliction, he continues [in disobedience] as if he had never called upon Us to [remove] an affliction that touched him. Thus is made pleasing to the transgressors that which they have been doing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب انسان کو تکلیف پہنچتی ہے تو لیٹا اور بیٹھا اور کھڑا (ہر حال میں) ہمیں پکارتا ہے۔ پھر جب ہم اس تکلیف کو اس سے دور کر دیتے ہیں تو (بےلحاظ ہو جاتا ہے اور) اس طرح گزر جاتا ہے گویا کسی تکلیف پہنچنے پر ہمیں کبھی پکارا ہی نہ تھا۔ اسی طرح حد سے نکل جانے والوں کو ان کے اعمال آراستہ کرکے دکھائے گئے ہیں
+**English (Yusuf Ali):** When trouble toucheth a man, He crieth unto Us (in all postures)- lying down on his side, or sitting, or standing. But when We have solved his trouble, he passeth on his way as if he had never cried to Us for a trouble that touched him! thus do the deeds of transgressors seem fair in their eyes!
 
 [Open on Quran.com](https://quran.com/10/12)
 
@@ -120,7 +120,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "I possess not for myself any harm or benefit except what Allāh should will. For every nation is a [specified] term. When their time has come, then they will not remain behind an hour, nor will they precede [it]."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں اپنے نقصان اور فائدے کا بھی کچھ اختیار نہیں رکھتا۔ مگر جو خدا چاہے۔ ہر ایک امت کے لیے (موت کا) ایک وقت مقرر ہے۔ جب وہ وقت آجاتا ہے تو ایک گھڑی بھی دیر نہیں کرسکتے اور نہ جلدی کرسکتے ہیں
+**English (Yusuf Ali):** Say: "I have no power over any harm or profit to myself except as Allah willeth. To every people is a term appointed: when their term is reached, not an hour can they cause delay, nor (an hour) can they advance (it in anticipation)."
 
 [Open on Quran.com](https://quran.com/10/49)
 
@@ -136,7 +136,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if Allāh should touch you with adversity, there is no remover of it except Him; and if He intends for you good, then there is no repeller of His bounty. He causes it to reach whom He wills of His servants. And He is the Forgiving, the Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا تم کو کوئی تکلیف پہنچائے تو اس کے سوا اس کا کوئی دور کرنے والا نہیں اور اگر تم سے بھلائی کرنی چاہے تو اس کے فضل کو کوئی روکنے والا نہیں۔ وہ اپنے بندوں میں سے جسے چاہتا ہے فائدہ پہنچاتا ہے اور وہ بخشنے والا مہربان ہے
+**English (Yusuf Ali):** If Allah do touch thee with hurt, there is none can remove it but He: if He do design some benefit for thee, there is none can keep back His favour: He causeth it to reach whomsoever of His servants He pleaseth. And He is the Oft-Forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/10/107)
 
@@ -152,7 +152,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when they entered upon him [i.e., Joseph], they said, "O ʿAzeez, adversity has touched us and our family, and we have come with goods poor in quality, but give us full measure and be charitable to us. Indeed, Allāh rewards the charitable."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب وہ یوسف کے پاس گئے تو کہنے لگے کہ عزیز ہمیں اور ہمارے اہل وعیال کو بڑی تکلیف ہو رہی ہے اور ہم تھوڑا سا سرمایہ لائے ہیں آپ ہمیں (اس کے عوض) پورا غلّہ دے دیجیئے اور خیرات کیجیئے۔ کہ خدا خیرات کرنے والوں کو ثواب دیتا ہے
+**English (Yusuf Ali):** Then, when they came (back) into (Joseph's) presence they said: "O exalted one! distress has seized us and our family: we have (now) brought but scanty capital: so pay us full measure, (we pray thee), and treat it as charity to us: for Allah doth reward the charitable."
 
 [Open on Quran.com](https://quran.com/12/88)
 
@@ -168,7 +168,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Who is Lord of the heavens and earth?" Say, "Allāh." Say, "Have you then taken besides Him allies not possessing [even] for themselves any benefit or any harm?" Say, "Is the blind equivalent to the seeing? Or is darkness equivalent to light? Or have they attributed to Allāh partners who created like His creation so that the creation [of each] seemed similar to them?" Say, "Allāh is the Creator of all things, and He is the One, the Prevailing."
 
-**Urdu (Fatah Muhammad Jalandhari):** ان سے پوچھو کہ آسمانوں اور زمین کا پروردگار کون ہے؟ (تم ہی ان کی طرف سے) کہہ دو کہ خدا۔ پھر (ان سے) کہو کہ تم نے خدا کو چھوڑ کر ایسے لوگوں کو کیوں کارساز بنایا ہے جو خود اپنے نفع ونقصان کا بھی اختیار نہیں رکھتے (یہ بھی) پوچھو کیا اندھا اور آنکھوں والا برابر ہیں؟ یا اندھیرا اور اُجالا برابر ہوسکتا ہے؟ بھلا ان لوگوں نے جن کو خدا کا شریک مقرر کیا ہے۔ کیا انہوں نے خدا کی سی مخلوقات پیدا کی ہے جس کے سبب ان کو مخلوقات مشتبہ ہوگئی ہے۔ کہہ دو کہ خدا ہی ہر چیز کا پیدا کرنے والا ہے اور وہ یکتا (اور) زبردست ہے
+**English (Yusuf Ali):** Say: "Who is the Lord and Sustainer of the heavens and the earth?" Say: "(It is) Allah." Say: "Do ye then take (for worship) protectors other than Him, such as have no power either for good or for harm to themselves?" Say: "Are the blind equal with those who see? Or the depths of darkness equal with light?" Or do they assign to Allah partners who have created (anything) as He has created, so that the creation seemed to them similar? Say: "Allah is the Creator of all things: He is the One, the Supreme and Irresistible."
 
 [Open on Quran.com](https://quran.com/13/16)
 
@@ -184,7 +184,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whatever you have of favor - it is from Allāh. Then when adversity touches you, to Him you cry for help.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو نعمتیں تم کو میسر ہیں سب خدا کی طرف سے ہیں۔ پھر جب تم کو کوئی تکلیف پہنچتی ہے تو اسی کے آگے چلاتے ہو
+**English (Yusuf Ali):** And ye have no good thing but is from Allah: and moreover, when ye are touched by distress, unto Him ye cry with groans;
 
 [Open on Quran.com](https://quran.com/16/53)
 
@@ -200,7 +200,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then when He removes the adversity from you, at once a party of you associates others with their Lord
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر جب وہ تم سے تکلیف کو دور کردیتا ہے تو کچھ لوگ تم میں سے خدا کے ساتھ شریک کرنے لگتے ہیں
+**English (Yusuf Ali):** Yet, when He removes the distress from you, behold! some of you turn to other gods to join with their Lord-
 
 [Open on Quran.com](https://quran.com/16/54)
 

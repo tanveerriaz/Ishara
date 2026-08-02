@@ -16,23 +16,23 @@ The Earthquake · 8 ayahs
 
 - [[mvqAl - weight]] — `مِثْقال` · weight
 - [[*rp - atom]] — `ذَرَّة` · atom
-- [[xyr - better]] — `خَيْر` · better
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[>rD - earth]] — `أَرْض` · earth
-- [[>ry - show me]] — `أَرَيْ` · show me
 - [[vql - burdens]] — `ثَقَل` · burdens
-- [[>xbAr - news]] — `أَخْبار` · news
-- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[zlzl - shaken]] — `زُلْزِلُ` · shaken
+- [[nAs - people]] — `ناس` · people
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[>xbAr - news]] — `أَخْبار` · news
+- [[>ry - show me]] — `أَرَيْ` · show me
+- [[Eml - do]] — `عَمِلَ` · do
 - [[r>Y - you see]] — `رَأَى` · you see
-- [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
+- [[xyr - better]] — `خَيْر` · better
+- [[qAl - say]] — `قالَ` · say
 - [[$r - evil]] — `شَرّ` · evil
 - [[ywm - day]] — `يَوْم` · day
 - [[<nsAn - man]] — `إِنسان` · man
+- [[>rD - earth]] — `أَرْض` · earth
+- [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
+- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
 - [[rb - lord]] — `رَبّ` · lord
-- [[Eml - do]] — `عَمِلَ` · do
 
 ## Roots
 

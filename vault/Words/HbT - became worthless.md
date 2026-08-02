@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:217 · [[002 Al-Baqarah]]
 
@@ -47,7 +47,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They ask you about the sacred month - about fighting therein. Say, "Fighting therein is great [sin], but averting [people] from the way of Allāh and disbelief in Him and [preventing access to] al-Masjid al-Ḥarām and the expulsion of its people therefrom are greater [evil] in the sight of Allāh. And fitnah is greater than killing." And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire; they will abide therein eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
+**English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
 
 [Open on Quran.com](https://quran.com/2/217)
 
@@ -63,7 +63,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They are the ones whose deeds have become worthless in this world and the Hereafter, and for them there will be no helpers.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ ایسے لوگ ہیں جن کے اعمال دنیا اور آخرت دونوں میں برباد ہیں اور ان کا کوئی مددگار نہیں (ہوگا)
+**English (Yusuf Ali):** They are those whose works will bear no fruit in this world and in the Hereafter nor will they have anyone to help.
 
 [Open on Quran.com](https://quran.com/3/22)
 
@@ -79,7 +79,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** This day [all] good foods have been made lawful, and the food of those who were given the Scripture is lawful for you and your food is lawful for them. And [lawful in marriage are] chaste women from among the believers and chaste women from among those who were given the Scripture before you, when you have given them their due compensation, desiring chastity, not unlawful sexual intercourse or taking [secret] lovers. And whoever denies the faith - his work has become worthless, and he, in the Hereafter, will be among the losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** آج تمہارے لیے سب پاکیزہ چیزیں حلال کر دی گئیں اور اہل کتاب کا کھانا بھی تم کو حلال ہے اور تمہارا کھانا ان کو حلال ہے اور پاک دامن مومن عورتیں اور پاک دامن اہل کتاب عورتیں بھی (حلال ہیں) جبکہ ان کا مہر دے دو۔ اور ان سے عفت قائم رکھنی مقصود ہو نہ کھلی بدکاری کرنی اور نہ چھپی دوستی کرنی اور جو شخص ایمان سے منکر ہوا اس کے عمل ضائع ہو گئے اور وہ آخرت میں نقصان پانے والوں میں ہوگا
+**English (Yusuf Ali):** This day are (all) things good and pure made lawful unto you. The food of the People of the Book is lawful unto you and yours is lawful unto them. (Lawful unto you in marriage) are (not only) chaste women who are believers, but chaste women among the People of the Book, revealed before your time,- when ye give them their due dowers, and desire chastity, not lewdness, nor secret intrigues if any one rejects faith, fruitless is his work, and in the Hereafter he will be in the ranks of those who have lost (all spiritual good).
 
 [Open on Quran.com](https://quran.com/5/5)
 
@@ -95,7 +95,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who believe will say, "Are these the ones who swore by Allāh their strongest oaths that indeed they were with you?" Their deeds have become worthless, and they have become losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس (وقت) مسلمان (تعجب سے) کہیں گے کہ کیا یہ وہی ہیں جو خدا کی سخت سخت قسمیں کھایا کرتے تھے کہ ہم تمہارے ساتھ ہیں ان کےعمل اکارت گئے اور وہ خسارے میں پڑ گئے
+**English (Yusuf Ali):** And those who believe will say: "Are these the men who swore their strongest oaths by Allah, that they were with you?" All that they do will be in vain, and they will fall into (nothing but) ruin.
 
 [Open on Quran.com](https://quran.com/5/53)
 
@@ -111,7 +111,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is the guidance of Allāh by which He guides whomever He wills of His servants. But if they had associated others with Allāh, then worthless for them would be whatever they were doing.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ خدا کی ہدایت ہے اس پر اپنے بندوں میں سے جسے چاہے چلائے۔ اور اگر وہ لوگ شرک کرتے تو جو عمل وہ کرتے تھے سب ضائع ہوجاتے
+**English (Yusuf Ali):** This is the guidance of Allah: He giveth that guidance to whom He pleaseth, of His worshippers. If they were to join other gods with Him, all that they did would be vain for them.
 
 [Open on Quran.com](https://quran.com/6/88)
 
@@ -127,7 +127,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who denied Our signs and the meeting of the Hereafter - their deeds have become worthless. Are they recompensed except for what they used to do?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے ہماری آیتوں اور آخرت کے آنے کو جھٹلایا ان کے اعمال ضائع ہوجائیں گے۔ یہ جیسے عمل کرتے ہیں ویسا ہی ان کو بدلہ ملے گا
+**English (Yusuf Ali):** Those who reject Our signs and the meeting in the Hereafter,- vain are their deeds: Can they expect to be rewarded except as they have wrought?
 
 [Open on Quran.com](https://quran.com/7/147)
 
@@ -143,7 +143,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is not for the polytheists to maintain the mosques of Allāh [while] witnessing against themselves with disbelief. [For] those, their deeds have become worthless, and in the Fire they will abide eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** مشرکوں کی زیبا نہیں کہ خدا کی مسجدوں کو آباد کریں جب کہ وہ اپنے آپ پر کفر کی گواہی دے رہے ہیں۔ ان لوگوں کے سب اعمال بےکار ہیں اور یہ ہمیشہ دوزخ میں رہیں گے
+**English (Yusuf Ali):** It is not for such as join gods with Allah, to visit or maintain the mosques of Allah while they witness against their own souls to infidelity. The works of such bear no fruit: In Fire shall they dwell.
 
 [Open on Quran.com](https://quran.com/9/17)
 
@@ -159,7 +159,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [You disbelievers are] like those before you; they were stronger than you in power and more abundant in wealth and children. They enjoyed their portion [of worldly enjoyment], and you have enjoyed your portion as those before you enjoyed their portion, and you have engaged [in vanities] like that in which they engaged. [It is] those whose deeds have become worthless in this world and in the Hereafter, and it is they who are the losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** (تم منافق لوگ) ان لوگوں کی طرح ہو، جو تم سے پہلے ہوچکے ہیں۔ وہ تم سے بہت زیادہ طاقتور اور مال و اولاد میں کہیں زیادہ تھے تو وہ اپنے حصے سے بہرہ یاب ہوچکے۔ سو جس طرح تم سے پہلے لوگ اپنے حصے سے فائدہ اٹھا چکے ہیں۔ اسی طرح تم نے اپنے حصے سے فائدہ اٹھا لیا۔ اور جس طرح وہ باطل میں ڈوبے رہے اسی طرح تم باطل میں ڈوبے رہے یہ وہ لوگ ہیں جن کے اعمال دنیا اور آخرت میں ضائع ہوگئے۔ اور یہی نقصان اٹھانے والے ہیں
+**English (Yusuf Ali):** As in the case of those before you: they were mightier than you in power, and more flourishing in wealth and children. They had their enjoyment of their portion: and ye have of yours, as did those before you; and ye indulge in idle talk as they did. They!- their work are fruitless in this world and in the Hereafter, and they will lose (all spiritual good).
 
 [Open on Quran.com](https://quran.com/9/69)
 
@@ -175,7 +175,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those are the ones for whom there is not in the Hereafter but the Fire. And lost is what they did therein, and worthless is what they used to do.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جن کے لیے آخرت میں آتش (جہنم) کے سوا کوئی چیز نہیں اور جو عمل انہوں نے دنیا میں کئے سب برباد اور جو کچھ وہ کرتے رہے، سب ضائع
+**English (Yusuf Ali):** They are those for whom there is nothing in the Hereafter but the Fire: vain are the designs they frame therein, and of no effect and the deeds that they do!
 
 [Open on Quran.com](https://quran.com/11/16)
 
@@ -191,7 +191,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those are the ones who disbelieve in the verses of their Lord and in [their] meeting Him, so their deeds have become worthless; and We will not assign to them on the Day of Resurrection any weight [i.e., importance].
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے اپنے پروردگار کی آیتوں اور اس کے سامنے جانے سے انکار کیا تو ان کے اعمال ضائع ہوگئے اور ہم قیامت کے دن ان کے لئے کچھ بھی وزن قائم نہیں کریں گے
+**English (Yusuf Ali):** They are those who deny the Signs of their Lord and the fact of their having to meet Him (in the Hereafter): vain will be their works, nor shall We, on the Day of Judgment, give them any weight.
 
 [Open on Quran.com](https://quran.com/18/105)
 

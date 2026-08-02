@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 23:50 · [[023 Al-Muminun]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We made the son of Mary and his mother a sign and sheltered them within a high ground having level [areas] and flowing water.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے مریم کے بیٹے (عیسیٰ) اور ان کی ماں کو (اپنی) نشانی بنایا تھا اور ان کو ایک اونچی جگہ پر جو رہنے کے لائق تھی اور جہاں (نتھرا ہوا) پانی جاری تھا، پناہ دی تھی
+**English (Yusuf Ali):** And We made the son of Mary and his mother as a Sign: We gave them both shelter on high ground, affording rest and security and furnished with springs.
 
 [Open on Quran.com](https://quran.com/23/50)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There will be circulated among them a cup [of wine] from a flowing spring,
 
-**Urdu (Fatah Muhammad Jalandhari):** شراب لطیف کے جام کا ان میں دور چل رہا ہوگا
+**English (Yusuf Ali):** Round will be passed to them a Cup from a clear-flowing fountain,
 
 [Open on Quran.com](https://quran.com/37/45)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** With vessels, pitchers and a cup [of wine] from a flowing spring -
 
-**Urdu (Fatah Muhammad Jalandhari):** یعنی آبخورے اور آفتابے اور صاف شراب کے گلاس لے لے کر
+**English (Yusuf Ali):** With goblets, (shining) beakers, and cups (filled) out of clear-flowing fountains:
 
 [Open on Quran.com](https://quran.com/56/18)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Have you considered: if your water was to become sunken [into the earth], then who could bring you flowing water?"
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ بھلا دیکھو تو اگر تمہارا پانی (جو تم پیتے ہو اور برتے ہو) خشک ہوجائے تو (خدا کے) سوا کون ہے جو تمہارے لئے شیریں پانی کا چشمہ بہا لائے
+**English (Yusuf Ali):** Say: "See ye?- If your stream be some morning lost (in the underground earth), who then can supply you with clear-flowing water?"
 
 [Open on Quran.com](https://quran.com/67/30)
 

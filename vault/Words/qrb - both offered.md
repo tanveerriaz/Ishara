@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 5:27 · [[005 Al-Maidah]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And recite to them the story of Adam's two sons, in truth, when they both made an offering [to Allāh], and it was accepted from one of them but was not accepted from the other. Said [the latter], "I will surely kill you." Said [the former], "Indeed, Allāh only accepts from the righteous [who fear Him].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (اے محمد) ان کو آدم کے دو بیٹوں (ہابیل اور قابیل) کے حالات (جو بالکل) سچے (ہیں) پڑھ کر سنا دو کہ جب ان دونوں نے خدا (کی جناب میں) کچھ نیازیں چڑھائیں تو ایک کی نیاز تو قبول ہو گئی اور دوسرے کی قبول نہ ہوئی (تب قابیل ہابیل سے) کہنے لگا کہ میں تجھے قتل کروں گا اس نے کہا کہ خدا پرہیزگاروں ہی کی (نیاز) قبول فرمایا کرتا ہے
+**English (Yusuf Ali):** Recite to them the truth of the story of the two sons of Adam. Behold! they each presented a sacrifice (to Allah): It was accepted from one, but not from the other. Said the latter: "Be sure I will slay thee." "Surely," said the former, "Allah doth accept of the sacrifice of those who are righteous.
 
 [Open on Quran.com](https://quran.com/5/27)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We called him from the side of the mount at [his] right and brought him near, confiding [to him].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو طور کی داہنی جانب پکارا اور باتیں کرنے کے لئے نزدیک بلایا
+**English (Yusuf Ali):** And we called him from the right side of Mount (Sinai), and made him draw near to Us, for mystic (converse).
 
 [Open on Quran.com](https://quran.com/19/52)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is not your wealth or your children that bring you nearer to Us in position, but it is [by being] one who has believed and done righteousness. For them there will be the double reward for what they did, and they will be in the upper chambers [of Paradise], safe [and secure].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا مال اور اولاد ایسی چیز نہیں کہ تم کو ہمارا مقرب بنا دیں۔ ہاں (ہمارا مقرب وہ ہے) جو ایمان لایا اور عمل نیک کرتا رہا۔ ایسے ہی لوگوں کو ان کے اعمال کے سبب دگنا بدلہ ملے گا اور وہ خاطر جمع سے بالاخانوں میں بیٹھے ہوں گے
+**English (Yusuf Ali):** It is not your wealth nor your sons, that will bring you nearer to Us in degree: but only those who believe and work righteousness - these are the ones for whom there is a multiplied Reward for their deeds, while secure they (reside) in the dwellings on high!
 
 [Open on Quran.com](https://quran.com/34/37)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Unquestionably, for Allāh is the pure religion. And those who take protectors besides Him [say], "We only worship them that they may bring us nearer to Allāh in position." Indeed, Allāh will judge between them concerning that over which they differ. Indeed, Allāh does not guide he who is a liar and [confirmed] disbeliever.
 
-**Urdu (Fatah Muhammad Jalandhari):** دیکھو خالص عبادت خدا ہی کے لئے (زیبا ہے) اور جن لوگوں نے اس کے سوا اور دوست بنائے ہیں۔ (وہ کہتے ہیں کہ) ہم ان کو اس لئے پوجتے ہیں کہ ہم کو خدا کا مقرب بنادیں۔ تو جن باتوں میں یہ اختلاف کرتے ہیں خدا ان میں ان کا فیصلہ کردے گا۔ بےشک خدا اس شخص کو جو جھوٹا ناشکرا ہے ہدایت نہیں دیتا
+**English (Yusuf Ali):** Is it not to Allah that sincere devotion is due? But those who take for protectors other than Allah (say): "We only serve them in order that they may bring us nearer to Allah." Truly Allah will judge between them in that wherein they differ. But Allah guides not such as are false and ungrateful.
 
 [Open on Quran.com](https://quran.com/39/3)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And placed it near them; he said, "Will you not eat?"
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور کھانے کے لئے) ان کے آگے رکھ دیا۔ کہنے لگے کہ آپ تناول کیوں نہیں کرتے؟
+**English (Yusuf Ali):** And placed it before them.. he said, "Will ye not eat?"
 
 [Open on Quran.com](https://quran.com/51/27)
 

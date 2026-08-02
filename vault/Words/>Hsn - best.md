@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:138 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [And say, "Ours is] the religion of Allāh. And who is better than Allāh in [ordaining] religion? And we are worshippers of Him."
 
-**Urdu (Fatah Muhammad Jalandhari):** (کہہ دو کہ ہم نے) خدا کا رنگ (اختیار کر لیا ہے) اور خدا سے بہتر رنگ کس کا ہو سکتا ہے۔ اور ہم اسی کی عبادت کرنے والے ہیں
+**English (Yusuf Ali):** (Our religion is) the Baptism of Allah: And who can baptize better than Allah? And it is He Whom we worship.
 
 [Open on Quran.com](https://quran.com/2/138)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And spend in the way of Allāh and do not throw [yourselves] with your [own] hands into destruction [by refraining]. And do good; indeed, Allāh loves the doers of good.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا کی راہ میں (مال) خرچ کرو اور اپنے آپ کو ہلاکت میں نہ ڈالو اور نیکی کرو بےشک خدا نیکی کرنے والوں کو دوست رکھتا ہے
+**English (Yusuf Ali):** And spend of your substance in the cause of Allah, and make not your own hands contribute to (your) destruction; but do good; for Allah loveth those who do good.
 
 [Open on Quran.com](https://quran.com/2/195)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those [believers] who responded to Allāh and the Messenger after injury had struck them. For those who did good among them and feared Allāh is a great reward -
 
-**Urdu (Fatah Muhammad Jalandhari):** جنہوں نے باوجود زخم کھانے کے خدا اور رسول (کے حکم) کو قبول کیا جو لوگ ان میں نیکوکار اور پرہیزگار ہیں ان کے لئے بڑا ثواب ہے
+**English (Yusuf Ali):** Of those who answered the call of Allah and the Messenger, even after being wounded, those who do right and refrain from wrong have a great reward;-
 
 [Open on Quran.com](https://quran.com/3/172)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, obey Allāh and obey the Messenger and those in authority among you. And if you disagree over anything, refer it to Allāh and the Messenger, if you should believe in Allāh and the Last Day. That is the best [way] and best in result.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا اور اس کے رسول کی فرمانبرداری کرو اور جو تم میں سے صاحب حکومت ہیں ان کی بھی اور اگر کسی بات میں تم میں اختلاف واقع ہو تو اگر خدا اور روز آخرت پر ایمان رکھتے ہو تو اس میں خدا اور اس کے رسول (کے حکم) کی طرف رجوع کرو یہ بہت اچھی بات ہے اور اس کا مآل بھی اچھا ہے
+**English (Yusuf Ali):** O ye who believe! Obey Allah, and obey the Messenger, and those charged with authority among you. If ye differ in anything among yourselves, refer it to Allah and His Messenger, if ye do believe in Allah and the Last Day: That is best, and most suitable for final determination.
 
 [Open on Quran.com](https://quran.com/4/59)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when you are greeted with a greeting, greet [in return] with one better than it or [at least] return it [in a like manner]. Indeed Allāh is ever, over all things, an Accountant.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم کو کوئی دعا دے تو (جواب میں) تم اس سے بہتر (کلمے) سے (اسے) دعا دو یا انہیں لفظوں سے دعا دو بےشک خدا ہر چیز کا حساب لینے والا ہے
+**English (Yusuf Ali):** When a (courteous) greeting is offered you, meet it with a greeting still more courteous, or (at least) of equal courtesy. Allah takes careful account of all things.
 
 [Open on Quran.com](https://quran.com/4/86)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And who is better in religion than one who submits himself to Allāh while being a doer of good and follows the religion of Abraham, inclining toward truth? And Allāh took Abraham as an intimate friend.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس شخص سے کس کا دین اچھا ہوسکتا ہے جس نے حکم خدا کو قبول کیا اور وہ نیکوکار بھی ہے۔ اور ابراہیم کے دین کا پیرو ہے جو یکسوں (مسلمان ) تھے اور خدا نے ابراہیم کو اپنا دوست بنایا تھا
+**English (Yusuf Ali):** Who can be better in religion than one who submits his whole self to Allah, does good, and follows the way of Abraham the true in Faith? For Allah did take Abraham for a friend.
 
 [Open on Quran.com](https://quran.com/4/125)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if a woman fears from her husband contempt or evasion, there is no sin upon them if they make terms of settlement between them - and settlement is best. And present in [human] souls is stinginess. But if you do good and fear Allāh - then indeed Allāh is ever, of what you do, Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر کسی عورت کو اپنے خاوند کی طرف سے زیادتی یا بےرغبتی کا اندیشہ ہو تم میاں بیوی پر کچھ گناہ نہیں کہ آپس میں کسی قرارداد پر صلح کرلیں۔ اور صلح خوب (چیز) ہے اور طبیعتیں تو بخل کی طرف مائل ہوتی ہیں اور اگر تم نیکوکاری اور پرہیزگاری کرو گے تو خدا تمہارے سب کاموں سے واقف ہے
+**English (Yusuf Ali):** If a wife fears cruelty or desertion on her husband's part, there is no blame on them if they arrange an amicable settlement between themselves; and such settlement is best; even though men's souls are swayed by greed. But if ye do good and practise self-restraint, Allah is well-acquainted with all that ye do.
 
 [Open on Quran.com](https://quran.com/4/128)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then is it the judgement of [the time of] ignorance they desire? But who is better than Allāh in judgement for a people who are certain [in faith].
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ زمانہٴ جاہلیت کے حکم کے خواہش مند ہیں؟ اور جو یقین رکھتے ہیں ان کے لیے خدا سے اچھا حکم کس کا ہے؟
+**English (Yusuf Ali):** Do they then seek after a judgment of (the days of) ignorance? But who, for a people whose faith is assured, can give better judgment than Allah?
 
 [Open on Quran.com](https://quran.com/5/50)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There is not upon those who believe and do righteousness [any] blame concerning what they have eaten [in the past] if they [now] fear Allāh and believe and do righteous deeds, and then fear Allāh and believe, and then fear Allāh and do good; and Allāh loves the doers of good.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور نیک کام کرتے رہے ان پر ان چیزوں کا کچھ گناہ نہیں جو وہ کھا چکے جب کہ انہوں نے پرہیز کیا اور ایمان لائے اور نیک کام کیے پھر پرہیز کیا اور ایمان لائے پھر پرہیز کیا اور نیکو کاری کی اور خدا نیکو کاروں کو دوست رکھتا ہے
+**English (Yusuf Ali):** On those who believe and do deeds of righteousness there is no blame for what they ate (in the past), when they guard themselves from evil, and believe, and do deeds of righteousness,- (or) again, guard themselves from evil and believe,- (or) again, guard themselves from evil and do good. For Allah loveth those who do good.
 
 [Open on Quran.com](https://quran.com/5/93)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not approach the orphan's property except in a way that is best [i.e., intending improvement] until he reaches maturity. And give full measure and weight in justice. We do not charge any soul except [with that within] its capacity. And when you speak [i.e., testify], be just, even if [it concerns] a near relative. And the covenant of Allāh fulfill. This has He instructed you that you may remember.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ جانا مگر ایسے طریق سے کہ بہت ہی پسندیدہ ہو یہاں تک کہ وہ جوانی کو پہنچ جائے اور ناپ تول انصاف کے ساتھ پوری پوری کیا کرو ہم کسی کو تکلیف نہیں دیتے مگر اس کی طاقت کے مطابق اور جب (کسی کی نسبت) کوئی بات کہو تو انصاف سے کہو گو وہ (تمہارا) رشتہ دار ہی ہو اور خدا کے عہد کو پورا کرو ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم نصحیت کرو
+**English (Yusuf Ali):** And come not nigh to the orphan's property, except to improve it, until he attain the age of full strength; give measure and weight with (full) justice;- no burden do We place on any soul, but that which it can bear;- whenever ye speak, speak justly, even if a near relative is concerned; and fulfil the covenant of Allah: thus doth He command you, that ye may remember.
 
 [Open on Quran.com](https://quran.com/6/152)
 

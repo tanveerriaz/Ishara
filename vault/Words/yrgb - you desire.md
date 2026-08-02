@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:130 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And who would be averse to the religion of Abraham except one who makes a fool of himself. And We had chosen him in this world, and indeed he, in the Hereafter, will be among the righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم کے دین سے کون رو گردانی کر سکتا ہے، بجز اس کے جو نہایت نادان ہو۔ ہم نے ان کو دنیا میں بھی منتخب کیا تھا اور آخرت میں بھی وہ (زمرہٴ) صلحا میں سے ہوں گے
+**English (Yusuf Ali):** And who turns away from the religion of Abraham but such as debase their souls with folly? Him We chose and rendered pure in this world: And he will be in the Hereafter in the ranks of the Righteous.
 
 [Open on Quran.com](https://quran.com/2/130)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they request from you, [O Muḥammad], a [legal] ruling concerning women. Say, "Allāh gives you a ruling about them and [about] what has been recited to you in the Book concerning the orphan girls to whom you do not give what is decreed for them - and [yet] you desire to marry them - and concerning the oppressed among children and that you maintain for orphans [their rights] in justice." And whatever you do of good - indeed, Allāh is ever Knowing of it.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) لوگ تم سے (یتیم) عورتوں کے بارے میں فتویٰ طلب کرتے ہیں۔ کہہ دو کہ خدا تم کو ان کے (ساتھ نکاح کرنے کے) معاملے میں اجازت دیتا ہے اور جو حکم اس کتاب میں پہلے دیا گیا ہے وہ ان یتیم عورتوں کے بارے میں ہے جن کو تم ان کا حق تو دیتے نہیں اور خواہش رکھتے ہو کہ ان کے ساتھ نکاح کرلو اور (نیز) بیچارے بیکس بچوں کے بارے میں۔ اور یہ (بھی حکم دیتا ہے) کہ یتیموں کے بارے میں انصاف پر قائم رہو۔ اور جو بھلائی تم کرو گے خدا اس کو جانتا ہے
+**English (Yusuf Ali):** They ask thy instruction concerning the women say: Allah doth instruct you about them: And (remember) what hath been rehearsed unto you in the Book, concerning the orphans of women to whom ye give not the portions prescribed, and yet whom ye desire to marry, as also concerning the children who are weak and oppressed: that ye stand firm for justice to orphans. There is not a good deed which ye do, but Allah is well-acquainted therewith.
 
 [Open on Quran.com](https://quran.com/4/127)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It was not [proper] for the people of Madīnah and those surrounding them of the bedouins that they remain behind after [the departure of] the Messenger of Allāh or that they prefer themselves over his self. That is because they are not afflicted by thirst or fatigue or hunger in the cause of Allāh, nor do they tread on any ground that enrages the disbelievers, nor do they inflict upon an enemy any infliction but that it is registered for them as a righteous deed. Indeed, Allāh does not allow to be lost the reward of the doers of good.
 
-**Urdu (Fatah Muhammad Jalandhari):** اہل مدینہ کو اور جو ان کے آس پاس دیہاتی رہتے ہیں ان کو شایاں نہ تھا کہ پیغمبر خدا سے پیچھے رہ جائیں اور نہ یہ کہ اپنی جانوں کو ان کی جان سے زیادہ عزیز رکھیں۔ یہ اس لیے کہ انہیں خدا کی راہ میں تکلیف پہنچتی ہے پیاس کی، محنت کی یا بھوک کی یا وہ ایسی جگہ چلتے ہیں کہ کافروں کو غصہ آئے یا دشمنوں سے کوئی چیز لیتے ہیں تو ہر بات پر ان کے لیے عمل نیک لکھا جاتا ہے۔ کچھ شک نہیں کہ خدا نیکو کاروں کا اجر ضائع نہیں کرتا
+**English (Yusuf Ali):** It was not fitting for the people of Medina and the Bedouin Arabs of the neighbourhood, to refuse to follow Allah's Messenger, nor to prefer their own lives to his: because nothing could they suffer or do, but was reckoned to their credit as a deed of righteousness,- whether they suffered thirst, or fatigue, or hunger, in the cause of Allah, or trod paths to raise the ire of the Unbelievers, or received any injury whatever from an enemy: for Allah suffereth not the reward to be lost of those who do good;-
 
 [Open on Quran.com](https://quran.com/9/120)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to your Lord direct [your] longing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے پروردگار کی طرف متوجہ ہو جایا کرو
+**English (Yusuf Ali):** And to thy Lord turn (all) thy attention.
 
 [Open on Quran.com](https://quran.com/94/8)
 

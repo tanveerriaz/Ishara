@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:2 · [[006 Al-Anam]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who created you from clay and then decreed a term and a specified time [known] to Him; then [still] you are in dispute.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم کو مٹی سے پیدا کیا پھر (مرنے کا) ایک وقت مقرر کر دیا اور ایک مدت اس کے ہاں اور مقرر ہے پھر بھی تم (اے کافرو خدا کے بارے میں) شک کرتے ہو
+**English (Yusuf Ali):** He it is created you from clay, and then decreed a stated term (for you). And there is in His presence another determined term; yet ye doubt within yourselves!
 
 [Open on Quran.com](https://quran.com/6/2)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "But we have come to you with that about which they were disputing,
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ نہیں بلکہ ہم آپ کے پاس وہ چیز لے کر آئے ہیں جس میں لوگ شک کرتے تھے
+**English (Yusuf Ali):** They said: "Yea, we have come to thee to accomplish that of which they doubt.
 
 [Open on Quran.com](https://quran.com/15/63)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is Jesus, the son of Mary - the word of truth about which they are in dispute.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ مریم کے بیٹے عیسیٰ ہیں (اور یہ) سچی بات ہے جس میں لوگ شک کرتے ہیں
+**English (Yusuf Ali):** Such (was) Jesus the son of Mary: (it is) a statement of truth, about which they (vainly) dispute.
 
 [Open on Quran.com](https://quran.com/19/34)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, he [i.e., Jesus] will be [a sign for] knowledge of the Hour, so be not in doubt of it, and follow Me. This is a straight path.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ قیامت کی نشانی ہیں۔ تو (کہہ دو کہ لوگو) اس میں شک نہ کرو اور میرے پیچھے چلو۔ یہی سیدھا رستہ ہے
+**English (Yusuf Ali):** And (Jesus) shall be a Sign (for the coming of) the Hour (of Judgment): therefore have no doubt about the (Hour), but follow ye Me: this is a Straight Way.
 
 [Open on Quran.com](https://quran.com/43/61)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, this is what you used to dispute."
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ وہی (دوزخ) ہے جس میں تم لوگ شک کیا کرتے تھے
+**English (Yusuf Ali):** "Truly this is what ye used to doubt!"
 
 [Open on Quran.com](https://quran.com/44/50)
 

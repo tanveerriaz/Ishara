@@ -38,7 +38,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:74 · [[006 Al-Anam]]
 
@@ -52,7 +52,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], when Abraham said to his father Āzar, "Do you take idols as deities? Indeed, I see you and your people to be in manifest error."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (وہ وقت بھی یاد کرنے کے لائق ہے) جب ابراہیم نے اپنے باپ آزر سے کہا کہ تم بتوں کو کیا معبود بناتے ہو۔ میں دیکھتا ہوں کہ تم اور تمہاری قوم صریح گمراہی میں ہو
+**English (Yusuf Ali):** Lo! Abraham said to his father Azar: "Takest thou idols for gods? For I see thee and thy people in manifest error."
 
 [Open on Quran.com](https://quran.com/6/74)
 
@@ -68,7 +68,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the request of forgiveness of Abraham for his father was only because of a promise he had made to him. But when it became apparent to him [i.e., Abraham] that he [i.e., the father] was an enemy to Allāh, he disassociated himself from him. Indeed was Abraham compassionate and patient.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم کا اپنے باپ کے لیے بخشش مانگنا تو ایک وعدے کا سبب تھا جو وہ اس سے کر چکے تھے۔ لیکن جب ان کو معلوم ہوگیا کہ وہ خدا کا دشمن ہے تو اس سے بیزار ہوگئے۔ کچھ شک نہیں کہ ابراہیم بڑے نرم دل اور متحمل تھے
+**English (Yusuf Ali):** And Abraham prayed for his father's forgiveness only because of a promise he had made to him. But when it became clear to him that he was an enemy to Allah, he dissociated himself from him: for Abraham was most tender-hearted, forbearing.
 
 [Open on Quran.com](https://quran.com/9/114)
 
@@ -84,7 +84,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Of these stories mention] when Joseph said to his father, "O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب یوسف نے اپنے والد سے کہا کہ ابا میں نے (خواب میں) گیارہ ستاروں اور سورج اور چاند کو دیکھا ہے۔ دیکھتا (کیا) ہوں کہ وہ مجھے سجدہ کر رہے ہیں
+**English (Yusuf Ali):** Behold! Joseph said to his father: "O my father! I did see eleven stars and the sun and the moon: I saw them prostrate themselves to me!"
 
 [Open on Quran.com](https://quran.com/12/4)
 
@@ -100,7 +100,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When they said, "Joseph and his brother are more beloved to our father than we, while we are a clan. Indeed, our father is in clear error.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب انہوں نے (آپس میں) تذکرہ کیا کہ یوسف اور اس کا بھائی ابا کو ہم سے زیادہ پیارے ہیں حالانکہ ہم جماعت (کی جماعت) ہیں۔ کچھ شک نہیں کہ ابا صریح غلطی پر ہیں
+**English (Yusuf Ali):** They said: "Truly Joseph and his brother are loved more by our father than we: But we are a goodly body! really our father is obviously wandering (in his mind)!
 
 [Open on Quran.com](https://quran.com/12/8)
 
@@ -116,7 +116,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Kill Joseph or cast him out to [another] land; the countenance [i.e., attention] of your father will [then] be only for you, and you will be after that a righteous people."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو یوسف کو (یا تو جان سے) مار ڈالو یا کسی ملک میں پھینک آؤ۔ پھر ابا کی توجہ صرف تمہاری طرف ہوجائے گی۔ اور اس کے بعد تم اچھی حالت میں ہوجاؤ گے
+**English (Yusuf Ali):** "Slay ye Joseph or cast him out to some (unknown) land, that so the favour of your father may be given to you alone: (there will be time enough) for you to be righteous after that!"
 
 [Open on Quran.com](https://quran.com/12/9)
 
@@ -132,7 +132,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "O our father, why do you not entrust us with Joseph while indeed, we are to him sincere counselors?
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ مشورہ کر کے وہ یعقوب سے) کہنے لگے کہ اباجان کیا سبب ہے کہ آپ یوسف کے بارے میں ہمارا اعتبار نہیں کرتے حالانکہ ہم اس کے خیرخواہ ہیں
+**English (Yusuf Ali):** They said: "O our father! why dost thou not trust us with Joseph,- seeing we are indeed his sincere well-wishers?
 
 [Open on Quran.com](https://quran.com/12/11)
 
@@ -148,7 +148,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they came to their father at night, weeping.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ حرکت کرکے) وہ رات کے وقت باپ کے پاس روتے ہوئے آئے
+**English (Yusuf Ali):** Then they came to their father in the early part of the night, weeping.
 
 [Open on Quran.com](https://quran.com/12/16)
 
@@ -164,7 +164,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "O our father, indeed we went racing each other and left Joseph with our possessions, and a wolf ate him. But you would not believe us, even if we were truthful."
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور) کہنے لگے کہ اباجان ہم تو دوڑنے اور ایک دوسرے سے آگے نکلنے میں مصروف ہوگئے اور یوسف کو اپنے اسباب کے پاس چھوڑ گئے تو اسے بھیڑیا کھا گیا۔ اور آپ ہماری بات کو گو ہم سچ ہی کہتے ہوں باور نہیں کریں گے
+**English (Yusuf Ali):** They said: "O our father! We went racing with one another, and left Joseph with our things; and the wolf devoured him.... But thou wilt never believe us even though we tell the truth."
 
 [Open on Quran.com](https://quran.com/12/17)
 
@@ -180,7 +180,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when he had furnished them with their supplies, he said, "Bring me a brother of yours from your father. Do you not see that I give full measure and that I am the best of accommodators?
 
-**Urdu (Fatah Muhammad Jalandhari):** جب یوسف نے ان کے لیے ان کا سامان تیار کر دیا تو کہا کہ (پھر آنا تو) جو باپ کی طرف سے تمہارا ایک اور بھائی ہے اسے بھی میرے پاس لیتے آنا۔ کیا تم نہیں دیکھتے کہ میں ناپ بھی پوری پوری دیتا ہوں اور مہمانداری بھی خوب کرتا ہوں
+**English (Yusuf Ali):** And when he had furnished them forth with provisions (suitable) for them, he said: "Bring unto me a brother ye have, of the same father as yourselves, (but a different mother): see ye not that I pay out full measure, and that I do provide the best hospitality?
 
 [Open on Quran.com](https://quran.com/12/59)
 
@@ -196,7 +196,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "We will attempt to dissuade his father from [keeping] him, and indeed, we will do [it]."
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ ہم اس کے بارے میں اس کے والد سے تذکرہ کریں گے اور ہم (یہ کام) کرکے رہیں گے
+**English (Yusuf Ali):** They said: "We shall certainly seek to get our wish about him from his father: Indeed we shall do it."
 
 [Open on Quran.com](https://quran.com/12/61)
 

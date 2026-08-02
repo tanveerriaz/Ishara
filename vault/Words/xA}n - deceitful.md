@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:105 · [[004 An-Nisa]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, We have revealed to you, [O Muḥammad], the Book in truth so you may judge between the people by that which Allāh has shown you. And do not be for the deceitful an advocate.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) ہم نے تم پر سچی کتاب نازل کی ہے تاکہ خدا کی ہدایت کے مطابق لوگوں کے مقدمات میں فیصلہ کرو اور (دیکھو) دغابازوں کی حمایت میں کبھی بحث نہ کرنا
+**English (Yusuf Ali):** We have sent down to thee the Book in truth, that thou mightest judge between men, as guided by Allah: so be not (used) as an advocate by those who betray their trust;
 
 [Open on Quran.com](https://quran.com/4/105)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If you [have reason to] fear from a people betrayal, throw [their treaty] back to them, [putting you] on equal terms. Indeed, Allāh does not like traitors.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو کسی قوم سے دغا بازی کا خوف ہو تو (ان کا عہد) انہیں کی طرف پھینک دو (اور) برابر (کا جواب دو) کچھ شک نہیں کہ خدا دغابازوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** If thou fearest treachery from any group, throw back (their covenant) to them, (so as to be) on equal terms: for Allah loveth not the treacherous.
 
 [Open on Quran.com](https://quran.com/8/58)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is so he [i.e., al-ʿAzeez] will know that I did not betray him in [his] absence and that Allāh does not guide the plan of betrayers.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یوسف نے کہا کہ میں نے) یہ بات اس لیے (پوچھی ہے) کہ عزیز کو یقین ہوجائے کہ میں نے اس کی پیٹھ پیچھے اس کی (امانت میں خیانت نہیں کی) اور خدا خیانت کرنے والوں کے مکروں کو روبراہ نہیں کرتا
+**English (Yusuf Ali):** "This (say I), in order that He may know that I have never been false to him in his absence, and that Allah will never guide the snare of the false ones.
 
 [Open on Quran.com](https://quran.com/12/52)
 

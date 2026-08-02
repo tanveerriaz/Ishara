@@ -14,31 +14,31 @@ The Resurrection · 40 ayahs
 
 ## Words in this surah (graph)
 
-- [[>wlY - woe]] — `أَوْلَى` · woe
 - [[swY - proportioned it]] — `سَوَّى` · proportioned it
-- [[qAl - say]] — `قالَ` · say
-- [[wzr - burden]] — `وِزْر` · burden
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[qmr - moon]] — `قَمَر` · moon
-- [[bSr - vision]] — `بَصَر` · vision
+- [[>wlY - woe]] — `أَوْلَى` · woe
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[s>l - ask]] — `سَأَلَ` · ask
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[SlY - send blessings]] — `صَلَّى` · send blessings
-- [[>Hbb - love]] — `أَحْبَبْ` · love
-- [[trk - we left]] — `تَرَكَ` · we left
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[qAdr - able]] — `قادِر` · able
-- [[<nsAn - man]] — `إِنسان` · man
-- [[>hl - people]] — `أَهْل` · people
-- [[nfs - themselves]] — `نَفْس` · themselves
+- [[wjh - faces]] — `وَجْه` · faces
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[qr> - read]] — `قَرَأَ` · read
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[lys - not]] — `لَيْسَ` · not
 - [[sAq - shins]] — `ساق` · shins
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[Ejl - calf]] — `عِجْل` · calf
 - [[>nvY - female]] — `أُنثَى` · female
+- [[Hsb - think]] — `حَسْب` · think
+- [[bSyrp - enlightenment]] — `بَصِيرَة` · enlightenment
+- [[rb - lord]] — `رَبّ` · lord
+- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[Elqp - clinging substance]] — `عَلَقَة` · clinging substance
+- [[SlY - send blessings]] — `صَلَّى` · send blessings
+- [[wzr - burden]] — `وِزْر` · burden
+- [[>lqY - throw]] — `أَلْقَى` · throw
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[qAdr - able]] — `قادِر` · able
+- [[qmr - moon]] — `قَمَر` · moon
 - [[mstqr - dwelling place]] — `مُسْتَقَرّ` · dwelling place
-- [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
-- [[Sdq - truth]] — `صَدَقَ` · truth
+- [[xsf - becomes dark]] — `خَسَفَ` · becomes dark
 
 ## Roots
 

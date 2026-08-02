@@ -46,7 +46,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:217 · [[002 Al-Baqarah]]
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They ask you about the sacred month - about fighting therein. Say, "Fighting therein is great [sin], but averting [people] from the way of Allāh and disbelief in Him and [preventing access to] al-Masjid al-Ḥarām and the expulsion of its people therefrom are greater [evil] in the sight of Allāh. And fitnah is greater than killing." And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire; they will abide therein eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
+**English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
 
 [Open on Quran.com](https://quran.com/2/217)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O People of the Scripture, why do you avert from the way of Allāh those who believe, seeking to make it [seem] deviant, while you are witnesses [to the truth]? And Allāh is not unaware of what you do."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اہلِ کتاب تم مومنوں کو خدا کے رستے سے کیوں روکتے ہو اور باوجود یہ کہ تم اس سے واقف ہو اس میں کجی نکالتے ہو اور خدا تمھارے کاموں سے بےخبر نہیں
+**English (Yusuf Ali):** Say: "O ye People of the Book! Why obstruct ye those who believe, from the path of Allah, Seeking to make it crooked, while ye were yourselves witnesses (to Allah's Covenant)? but Allah is not unmindful of all that ye do."
 
 [Open on Quran.com](https://quran.com/3/99)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And some among them believed in it, and some among them were averse to it. And sufficient is Hell as a blaze.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر لوگوں میں سے کسی نے تو اس کتاب کو مانا اور کوئی اس سے رکا (اور ہٹا) رہا تو نہ ماننے والوں (کے جلانے) کو دوزخ کی جلتی ہوئی آگ کافی ہے
+**English (Yusuf Ali):** Some of them believed, and some of them averted their faces from him: And enough is Hell for a burning fire.
 
 [Open on Quran.com](https://quran.com/4/55)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when it is said to them, "Come to what Allāh has revealed and to the Messenger," you see the hypocrites turning away from you in aversion.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان سے کہا جاتا ہے کہ جو حکم خدا نے نازل فرمایا ہے اس کی طرف (رجوع کرو) اور پیغمبر کی طرف آؤ تو تم منافقوں کو دیکھتے ہو کہ تم سے اعراض کرتے اور رکے جاتے ہیں
+**English (Yusuf Ali):** When it is said to them: "Come to what Allah hath revealed, and to the Messenger": Thou seest the Hypocrites avert their faces from thee in disgust.
 
 [Open on Quran.com](https://quran.com/4/61)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** For wrongdoing on the part of the Jews, We made unlawful for them [certain] good foods which had been lawful to them, and for their averting from the way of Allāh many [people],
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے یہودیوں کے ظلموں کے سبب (بہت سی) پاکیزہ چیزیں جو ان کو حلال تھیں ان پر حرام کردیں اور اس سبب سے بھی کہ وہ اکثر خدا کے رستے سے (لوگوں کو) روکتے تھے
+**English (Yusuf Ali):** For the iniquity of the Jews We made unlawful for them certain (foods) good and wholesome which had been lawful for them;- in that they hindered many from Allah's Way;-
 
 [Open on Quran.com](https://quran.com/4/160)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve and avert [people] from the way of Allāh have certainly gone far astray.
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے کفر کیا اور (لوگوں کو) خدا کے رستے سے روکا وہ رستے سے بھٹک کر دور جا پڑے
+**English (Yusuf Ali):** Those who reject Faith and keep off (men) from the way of Allah, have verily strayed far, far away from the Path.
 
 [Open on Quran.com](https://quran.com/4/167)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not violate the rites of Allāh or [the sanctity of] the sacred month or [neglect the marking of] the sacrificial animals and garlanding [them] or [violate the safety of] those coming to the Sacred House seeking bounty from their Lord and [His] approval. But when you come out of iḥrām, then [you may] hunt. And do not let the hatred of a people for having obstructed you from al-Masjid al-Ḥarām lead you to transgress. And cooperate in righteousness and piety, but do not cooperate in sin and aggression. And fear Allāh; indeed, Allāh is severe in penalty.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کے نام کی چیزوں کی بےحرمتی نہ کرنا اور نہ ادب کے مہینے کی اور نہ قربانی کے جانوروں کی اور نہ ان جانوروں کی (جو خدا کی نذر کر دیئے گئے ہوں اور) جن کے گلوں میں پٹے بندھے ہوں اور نہ ان لوگوں کی جو عزت کے گھر (یعنی بیت الله) کو جا رہے ہوں (اور) اپنے پروردگار کے فضل اور اس کی خوشنودی کے طلبگار ہوں اور جب احرام اتار دو تو (پھر اختیار ہے کہ) شکار کرو اور لوگوں کی دشمنی اس وجہ سے کہ انہوں نے تم کو عزت والی مسجد سے روکا تھا تمہیں اس بات پر آمادہ نہ کرے کہ تم ان پر زیادتی کرنے لگو اور (دیکھو) نیکی اور پرہیزگاری کے کاموں میں ایک دوسرے کی مدد کیا کرو اور گناہ اور ظلم کی باتوں میں مدد نہ کیا کرو اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا کا عذاب سخت ہے
+**English (Yusuf Ali):** O ye who believe! Violate not the sanctity of the symbols of Allah, nor of the sacred month, nor of the animals brought for sacrifice, nor the garlands that mark out such animals, nor the people resorting to the sacred house, seeking of the bounty and good pleasure of their Lord. But when ye are clear of the sacred precincts and of pilgrim garb, ye may hunt and let not the hatred of some people in (once) shutting you out of the Sacred Mosque lead you to transgression (and hostility on your part). Help ye one another in righteousness and piety, but help ye not one another in sin and rancour: fear Allah: for Allah is strict in punishment.
 
 [Open on Quran.com](https://quran.com/5/2)
 
@@ -172,7 +172,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Satan only wants to cause between you animosity and hatred through intoxicants and gambling and to avert you from the remembrance of Allāh and from prayer. So will you not desist?
 
-**Urdu (Fatah Muhammad Jalandhari):** شیطان تو یہ چاہتا ہے کہ شراب اور جوئے کے سبب تمہارے آپس میں دشمنی اور رنجش ڈلوا دے اور تمہیں خدا کی یاد سے اور نماز سے روک دے تو تم کو (ان کاموں سے) باز رہنا چاہیئے
+**English (Yusuf Ali):** Satan's plan is (but) to excite enmity and hatred between you, with intoxicants and gambling, and hinder you from the remembrance of Allah, and from prayer: will ye not then abstain?
 
 [Open on Quran.com](https://quran.com/5/91)
 
@@ -188,7 +188,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who averted [people] from the way of Allāh and sought to make it [seem] deviant while they were, concerning the Hereafter, disbelievers."
 
-**Urdu (Fatah Muhammad Jalandhari):** جو خدا کی راہ سے روکتے اور اس میں کجی ڈھونڈتے اور آخرت سے انکار کرتے تھے
+**English (Yusuf Ali):** "Those who would hinder (men) from the path of Allah and would seek in it something crooked: they were those who denied the Hereafter."
 
 [Open on Quran.com](https://quran.com/7/45)
 
@@ -204,7 +204,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not sit on every path, threatening and averting from the way of Allāh those who believe in Him, seeking to make it [seem] deviant. And remember when you were few and He increased you. And see how was the end of the corrupters.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہر رستے پر مت بیٹھا کرو کہ جو شخص خدا پر ایمان نہیں لاتا ہے اسے تم ڈراتے اور راہ خدا سے روکتے اور اس میں کجی ڈھونڈتے ہو اور (اس وقت کو) یاد کرو جب تم تھوڑے سے تھے تو خدا نے تم کو جماعت کثیر کر دیا اور دیکھ لو کہ خرابی کرنے والوں کا انجام کیسا ہوا
+**English (Yusuf Ali):** "And squat not on every road, breathing threats, hindering from the path of Allah those who believe in Him, and seeking in it something crooked; But remember how ye were little, and He gave you increase. And hold in your mind's eye what was the end of those who did mischief.
 
 [Open on Quran.com](https://quran.com/7/86)
 

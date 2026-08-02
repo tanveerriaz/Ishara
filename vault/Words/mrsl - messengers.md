@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:252 · [[002 Al-Baqarah]]
 
@@ -53,7 +53,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** These are the verses of Allāh which We recite to you, [O Muḥammad], in truth. And indeed, you are from among the messengers.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ خدا کی آیتیں ہیں جو ہم تم کو سچائی کے ساتھ پڑھ کر سناتے ہیں (اور اے محمدﷺ) تم بلاشبہ پیغمبروں میں سے ہو
+**English (Yusuf Ali):** These are the Signs of Allah: we rehearse them to thee in truth: verily Thou art one of the messengers.
 
 [Open on Quran.com](https://quran.com/2/252)
 
@@ -69,7 +69,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And certainly were messengers denied before you, but they were patient over the denial, and they were harmed until Our victory came to them. And none can alter the words [i.e., decrees] of Allāh. And there has certainly come to you some information about the [previous] messengers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم سے پہلے کبھی پیغمبر جھٹلائے جاتے رہے تو وہ تکذیب اور ایذا پر صبر کرتے رہے یہاں تک کہ ان کے پاس ہماری مدد پہنچتی رہی اور خدا کی باتوں کو کوئی بھی بدلنے والا نہیں۔ اور تم کو پیغمبروں (کے احوال) کی خبریں پہنچ چکی ہیں (تو تم بھی صبر سے کام لو)
+**English (Yusuf Ali):** Rejected were the messengers before thee: with patience and constancy they bore their rejection and their wrongs, until Our aid did reach them: there is none that can alter the words (and decrees) of Allah. Already hast thou received some account of those messengers.
 
 [Open on Quran.com](https://quran.com/6/34)
 
@@ -85,7 +85,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We send not the messengers except as bringers of good tidings and warners. So whoever believes and reforms - there will be no fear concerning them, nor will they grieve.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم جو پیغمبروں کو بھیجتے رہے ہیں تو خوشخبری سنانے اور ڈرانے کو پھر جو شخص ایمان لائے اور نیکوکار ہوجائے تو ایسے لوگوں کو نہ کچھ خوف ہوگا اور نہ وہ اندوہناک ہوں گے
+**English (Yusuf Ali):** We send the messengers only to give good news and to warn: so those who believe and mend (their lives),- upon them shall be no fear, nor shall they grieve.
 
 [Open on Quran.com](https://quran.com/6/48)
 
@@ -101,7 +101,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We will surely question those to whom [a message] was sent, and We will surely question the messengers.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جن لوگوں کی طرف پیغمبر بھیجے گئے ہم ان سے بھی پرسش کریں گے اور پیغمبروں سے بھی پوچھیں گے
+**English (Yusuf Ali):** Then shall we question those to whom Our message was sent and those by whom We sent it.
 
 [Open on Quran.com](https://quran.com/7/6)
 
@@ -117,7 +117,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Said the eminent ones who were arrogant among his people to those who were oppressed - to those who believed among them, "Do you [actually] know that Ṣāliḥ is sent from his Lord?" They said, "Indeed we, in that with which he was sent, are believers."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان کی قوم میں سردار لوگ جو غرور رکھتے تھے غریب لوگوں سے جو ان میں سے ایمان لے آئے تھے کہنے لگے بھلا تم یقین کرتے ہو کہ صالح اپنے پروردگار کی طرف بھیجے گئے ہیں؟ انہوں نے کہا ہاں جو چیز دے کر وہ بھیجے گئے ہیں ہم اس پر بلاشبہ ایمان رکھتے ہیں
+**English (Yusuf Ali):** The leaders of the arrogant party among his people said to those who were reckoned powerless - those among them who believed: "know ye indeed that Salih is a messenger from his Lord?" They said: "We do indeed believe in the revelation which hath been sent through him."
 
 [Open on Quran.com](https://quran.com/7/75)
 
@@ -133,7 +133,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So they hamstrung the she-camel and were insolent toward the command of their Lord and said, "O Ṣāliḥ, bring us what you promise us, if you should be of the messengers."
 
-**Urdu (Fatah Muhammad Jalandhari):** آخر انہوں نے اونٹی (کی کونچوں) کو کاٹ ڈالا اور اپنے پروردگار کے حکم سے سرکشی کی اور کہنے لگے کہ صالح! جس چیز سے تم ہمیں ڈراتے تھے اگر تم (خدا کے) پیغمبر ہو تو اسے ہم پر لے آؤ
+**English (Yusuf Ali):** Then they ham-strung the she-camel, and insolently defied the order of their Lord, saying: "O Salih! bring about thy threats, if thou art a messenger (of Allah)!"
 
 [Open on Quran.com](https://quran.com/7/77)
 
@@ -149,7 +149,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who have disbelieved say, "You are not a messenger." Say, [O Muḥammad], "Sufficient is Allāh as Witness between me and you, and [the witness of] whoever has knowledge of the Scripture."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کافر لوگ کہتے ہیں کہ تم (خدا کے) رسول نہیں ہو۔ کہہ دو کہ میرے اور تمہارے درمیان خدا اور وہ شخص جس کے پاس کتاب (آسمانی) کا علم ہے گواہ کافی ہیں
+**English (Yusuf Ali):** The Unbelievers say: "No messenger art thou." Say: "Enough for a witness between me and you is Allah, and such as have knowledge of the Book."
 
 [Open on Quran.com](https://quran.com/13/43)
 
@@ -165,7 +165,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Abraham] said, "Then what is your business [here], O messengers?"
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر کہنے لگے کہ فرشتو! تمہیں (اور) کیا کام ہے
+**English (Yusuf Ali):** Abraham said: "What then is the business on which ye (have come), O ye messengers (of Allah)?"
 
 [Open on Quran.com](https://quran.com/15/57)
 
@@ -181,7 +181,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when the messengers came to the family of Lot,
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر جب فرشتے لوط کے گھر گئے
+**English (Yusuf Ali):** At length when the messengers arrived among the adherents of Lut,
 
 [Open on Quran.com](https://quran.com/15/61)
 
@@ -197,7 +197,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And certainly did the companions of al-Ḥijr [i.e., the Thamūd] deny the messengers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (وادی) حجر کے رہنے والوں نے بھی پیغمبروں کی تکذیب کی
+**English (Yusuf Ali):** The Companions of the Rocky Tract also rejected the messengers:
 
 [Open on Quran.com](https://quran.com/15/80)
 

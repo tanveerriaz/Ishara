@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:81 · [[009 At-Tawbah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who remained behind rejoiced in their staying [at home] after [the departure of] the Messenger of Allāh and disliked to strive with their wealth and their lives in the cause of Allāh and said, "Do not go forth in the heat." Say, "The fire of Hell is more intense in heat" - if they would but understand.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (غزوہٴ تبوک میں) پیچھے رہ گئے وہ پیغمبر خدا (کی مرضی) کے خلاف بیٹھے رہنے سے خوش ہوئے اور اس بات کو ناپسند کیا کہ خدا کی راہ میں اپنے مال اور جان سے جہاد کریں۔ اور (اوروں سے بھی) کہنے لگے کہ گرمی میں مت نکلنا۔ (ان سے) کہہ دو کہ دوزخ کی آگ اس سے کہیں زیادہ گرم ہے۔ کاش یہ (اس بات) کو سمجھتے
+**English (Yusuf Ali):** Those who were left behind (in the Tabuk expedition) rejoiced in their inaction behind the back of the Messenger of Allah: they hated to strive and fight, with their goods and their persons, in the cause of Allah: they said, "Go not forth in the heat." Say, "The fire of Hell is fiercer in heat." If only they could understand!
 
 [Open on Quran.com](https://quran.com/9/81)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So never think that Allāh will fail in His promise to His messengers. Indeed, Allāh is Exalted in Might and Owner of Retribution.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ایسا خیال نہ کرنا کہ خدا نے جو اپنے پیغمبروں سے وعدہ کیا ہے اس کے خلاف کرے گا بےشک خدا زبردست (اور) بدلہ لینے والا ہے
+**English (Yusuf Ali):** Never think that Allah would fail his messengers in His promise: for Allah is Exalted in power, - the Lord of Retribution.
 
 [Open on Quran.com](https://quran.com/14/47)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who remained behind of the bedouins will say to you, "Our properties and our families occupied us, so ask forgiveness for us." They say with their tongues what is not within their hearts. Say, "Then who could prevent Allāh at all if He intended for you harm or intended for you benefit? Rather, ever is Allāh, of what you do, Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو گنوار پیچھے رہ گئے وہ تم سے کہیں گے کہ ہم کو ہمارے مال اور اہل وعیال نے روک رکھا آپ ہمارے لئے (خدا سے) بخشش مانگیں۔ یہ لوگ اپنی زبان سے وہ بات کہتے ہیں جو ان کے دل میں نہیں ہے۔ کہہ دو کہ اگر خدا تم (لوگوں) کو نقصان پہنچانا چاہے یا تمہیں فائدہ پہنچانے کا ارادہ فرمائے تو کون ہے جو اس کے سامنے تمہارے لئے کسی بات کا کچھ اختیار رکھے (کوئی نہیں) بلکہ جو کچھ تم کرتے ہو خدا اس سے واقف ہے
+**English (Yusuf Ali):** The desert Arabs who lagged behind will say to thee: "We were engaged in (looking after) our flocks and herds, and our families: do thou then ask forgiveness for us." They say with their tongues what is not in their hearts. Say: "Who then has any power at all (to intervene) on your behalf with Allah, if His Will is to give you some loss or to give you some profit? But Allah is well acquainted with all that ye do.
 
 [Open on Quran.com](https://quran.com/48/11)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who remained behind will say when you set out toward the war booty to take it, "Let us follow you." They wish to change the words of Allāh. Say, "Never will you follow us. Thus did Allāh say before." So they will say, "Rather, you envy us." But [in fact] they were not understanding except a little.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب تم لوگ غنیمتیں لینے چلو گے تو جو لوگ پیچھے رہ گئے تھے وہ کہیں گے ہمیں بھی اجازت دیجیئے کہ آپ کے ساتھ چلیں۔ یہ چاہتے ہیں کہ خدا کے قول کو بدل دیں۔ کہہ دو کہ تم ہرگز ہمارے ساتھ نہیں چل سکتے۔ اسی طرح خدا نے پہلے سے فرما دیا ہے۔ پھر کہیں گے (نہیں) تم تو ہم سے حسد کرتے ہو۔ بات یہ ہے کہ یہ لوگ سمجھتے ہی نہیں مگر بہت کم
+**English (Yusuf Ali):** Those who lagged behind (will say), when ye (are free to) march and take booty (in war): "Permit us to follow you." They wish to change Allah's decree: Say: "Not thus will ye follow us: Allah has already declared (this) beforehand": then they will say, "But ye are jealous of us." Nay, but little do they understand (such things).
 
 [Open on Quran.com](https://quran.com/48/15)
 
@@ -104,7 +104,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say to those who remained behind of the bedouins, "You will be called to [face] a people of great military might; you may fight them, or they will submit. So if you obey, Allāh will give you a good reward; but if you turn away as you turned away before, He will punish you with a painful punishment."
 
-**Urdu (Fatah Muhammad Jalandhari):** جو گنوار پیچھے رہ گئے تھے ان سے کہہ دو کہ تم ایک سخت جنگجو قوم کے (ساتھ لڑائی کے) لئے بلائے جاؤ گے ان سے تم (یا تو) جنگ کرتے رہو گے یا وہ اسلام لے آئیں گے۔ اگر تم حکم مانو گے تو خدا تم کو اچھا بدلہ دے گا۔ اور اگر منہ پھیر لو گے جیسے پہلی دفعہ پھیرا تھا تو وہ تم کو بری تکلیف کی سزا دے گا
+**English (Yusuf Ali):** Say to the desert Arabs who lagged behind: "Ye shall be summoned (to fight) against a people given to vehement war: then shall ye fight, or they shall submit. Then if ye show obedience, Allah will grant you a goodly reward, but if ye turn back as ye did before, He will punish you with a grievous Penalty."
 
 [Open on Quran.com](https://quran.com/48/16)
 

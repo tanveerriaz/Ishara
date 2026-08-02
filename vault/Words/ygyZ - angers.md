@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:120 · [[009 At-Tawbah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It was not [proper] for the people of Madīnah and those surrounding them of the bedouins that they remain behind after [the departure of] the Messenger of Allāh or that they prefer themselves over his self. That is because they are not afflicted by thirst or fatigue or hunger in the cause of Allāh, nor do they tread on any ground that enrages the disbelievers, nor do they inflict upon an enemy any infliction but that it is registered for them as a righteous deed. Indeed, Allāh does not allow to be lost the reward of the doers of good.
 
-**Urdu (Fatah Muhammad Jalandhari):** اہل مدینہ کو اور جو ان کے آس پاس دیہاتی رہتے ہیں ان کو شایاں نہ تھا کہ پیغمبر خدا سے پیچھے رہ جائیں اور نہ یہ کہ اپنی جانوں کو ان کی جان سے زیادہ عزیز رکھیں۔ یہ اس لیے کہ انہیں خدا کی راہ میں تکلیف پہنچتی ہے پیاس کی، محنت کی یا بھوک کی یا وہ ایسی جگہ چلتے ہیں کہ کافروں کو غصہ آئے یا دشمنوں سے کوئی چیز لیتے ہیں تو ہر بات پر ان کے لیے عمل نیک لکھا جاتا ہے۔ کچھ شک نہیں کہ خدا نیکو کاروں کا اجر ضائع نہیں کرتا
+**English (Yusuf Ali):** It was not fitting for the people of Medina and the Bedouin Arabs of the neighbourhood, to refuse to follow Allah's Messenger, nor to prefer their own lives to his: because nothing could they suffer or do, but was reckoned to their credit as a deed of righteousness,- whether they suffered thirst, or fatigue, or hunger, in the cause of Allah, or trod paths to raise the ire of the Unbelievers, or received any injury whatever from an enemy: for Allah suffereth not the reward to be lost of those who do good;-
 
 [Open on Quran.com](https://quran.com/9/120)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Whoever should think that Allāh will not support him [i.e., Prophet Muḥammad (ﷺ)] in this world and the Hereafter - let him extend a rope to the ceiling, then cut off [his breath], and let him see: will his effort remove that which enrages [him]?
 
-**Urdu (Fatah Muhammad Jalandhari):** جو شخص یہ گمان کرتا ہے کہ خدا اس کو دنیا اور آخرت میں مدد نہیں دے گا تو اس کو چاہیئے کہ اوپر کی طرف (یعنی اپنے گھر کی چھت میں) ایک رسی باندھے پھر (اس سے اپنا) گلا گھونٹ لے۔ پھر دیکھے کہ آیا یہ تدبیر اس کے غصے کو دور کردیتی ہے
+**English (Yusuf Ali):** If any think that Allah will not help him (His Messenger) in this world and the Hereafter, let him stretch out a rope to the ceiling and cut (himself) off: then let him see whether his plan will remove that which enrages (him)!
 
 [Open on Quran.com](https://quran.com/22/15)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Muḥammad is the Messenger of Allāh; and those with him are forceful against the disbelievers, merciful among themselves. You see them bowing and prostrating [in prayer], seeking bounty from Allāh and [His] pleasure. Their sign is in their faces from the effect of prostration [i.e., prayer]. That is their description in the Torah. And their description in the Gospel is as a plant which produces its offshoots and strengthens them so they grow firm and stand upon their stalks, delighting the sowers - so that He [i.e., Allāh] may enrage by them the disbelievers. Allāh has promised those who believe and do righteous deeds among them forgiveness and a great reward.
 
-**Urdu (Fatah Muhammad Jalandhari):** محمدﷺ خدا کے پیغمبر ہیں اور جو لوگ ان کے ساتھ ہیں وہ کافروں کے حق میں سخت ہیں اور آپس میں رحم دل، (اے دیکھنے والے) تو ان کو دیکھتا ہے کہ (خدا کے آگے) جھکے ہوئے سر بسجود ہیں اور خدا کا فضل اور اس کی خوشنودی طلب کر رہے ہیں۔ (کثرت) سجود کے اثر سے ان کی پیشانیوں پر نشان پڑے ہوئے ہیں۔ ان کے یہی اوصاف تورات میں (مرقوم) ہیں۔ اور یہی اوصاف انجیل میں ہیں۔ (وہ) گویا ایک کھیتی ہیں جس نے (پہلے زمین سے) اپنی سوئی نکالی پھر اس کو مضبوط کیا پھر موٹی ہوئی اور پھر اپنی نال پر سیدھی کھڑی ہوگئی اور لگی کھیتی والوں کو خوش کرنے تاکہ کافروں کا جی جلائے۔ جو لوگ ان میں سے ایمان لائے اور نیک عمل کرتے رہے ان سے خدا نے گناہوں کی بخشش اور اجر عظیم کا وعدہ کیا ہے
+**English (Yusuf Ali):** Muhammad is the messenger of Allah; and those who are with him are strong against Unbelievers, (but) compassionate amongst each other. Thou wilt see them bow and prostrate themselves (in prayer), seeking Grace from Allah and (His) Good Pleasure. On their faces are their marks, (being) the traces of their prostration. This is their similitude in the Taurat; and their similitude in the Gospel is: like a seed which sends forth its blade, then makes it strong; it then becomes thick, and it stands on its own stem, (filling) the sowers with wonder and delight. As a result, it fills the Unbelievers with rage at them. Allah has promised those among them who believe and do righteous deeds forgiveness, and a great Reward.
 
 [Open on Quran.com](https://quran.com/48/29)
 

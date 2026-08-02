@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:238 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Maintain with care the [obligatory] prayers and [in particular] the middle [i.e., ʿaṣr] prayer and stand before Allāh, devoutly obedient.
 
-**Urdu (Fatah Muhammad Jalandhari):** (مسلمانو) سب نمازیں خصوصاً بیچ کی نماز (یعنی نماز عصر) پورے التزام کے ساتھ ادا کرتے رہو۔ اور خدا کے آگے ادب سے کھڑے رہا کرو
+**English (Yusuf Ali):** Guard strictly your (habit of) prayers, especially the Middle Prayer; and stand before Allah in a devout (frame of mind).
 
 [Open on Quran.com](https://quran.com/2/238)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And this is a Book which We have sent down, blessed and confirming what was before it, that you may warn the Mother of Cities [i.e., Makkah] and those around it. Those who believe in the Hereafter believe in it, and they are maintaining their prayers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (ویسی ہی) یہ کتاب ہے جسے ہم نے نازل کیا ہے بابرکت جو اپنے سے پہلی (کتابوں) کی تصدیق کرتی ہے اور (جو) اس لئے (نازل کی گئی ہے) کہ تم مکے اور اس کے آس پاس کے لوگوں کو آگاہ کردو۔ اور جو لوگ آخرت پر ایمان رکھتے ہیں وہ اس کتاب پر بھی ایمان رکھتے ہیں اور وہ اپنی نمازوں کی پوری خبر رکھتے ہیں
+**English (Yusuf Ali):** And this is a Book which We have sent down, bringing blessings, and confirming (the revelations) which came before it: that thou mayest warn the mother of cities and all around her. Those who believe in the Hereafter believe in this (Book), and they are constant in guarding their prayers.
 
 [Open on Quran.com](https://quran.com/6/92)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they who carefully maintain their prayers -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو نمازوں کی پابندی کرتے ہیں
+**English (Yusuf Ali):** And who (strictly) guard their prayers;-
 
 [Open on Quran.com](https://quran.com/23/9)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who [carefully] maintain their prayer:
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو اپنی نماز کی خبر رکھتے ہیں
+**English (Yusuf Ali):** And those who guard (the sacredness) of their worship;-
 
 [Open on Quran.com](https://quran.com/70/34)
 

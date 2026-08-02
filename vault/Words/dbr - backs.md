@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:111 · [[003 Ali Imran]]
 
@@ -50,7 +50,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will not harm you except for [some] annoyance. And if they fight you, they will show you their backs [i.e., retreat]; then they will not be aided.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ تمہیں خفیف سی تکلیف کے سوا کچھ نقصان نہیں پہنچا سکیں گے اور اگر تم سے لڑیں گے تو پیٹھ پھیر کر بھاگ جائیں گے پھر ان کو مدد بھی (کہیں سے) نہیں ملے گی
+**English (Yusuf Ali):** They will do you no harm, barring a trifling annoyance; if they come out to fight you, they will show you their backs, and no help shall they get.
 
 [Open on Quran.com](https://quran.com/3/111)
 
@@ -66,7 +66,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who were given the Scripture, believe in what We have sent down [to Prophet Muḥammad (ﷺ)], confirming that which is with you, before We obliterate faces and turn them toward their backs or curse them as We cursed the sabbath-breakers. And ever is the matter [i.e., decree] of Allāh accomplished.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے کتاب والو! قبل اس کے کہ ہم لوگوں کے مونہوں کو بگاڑ کر ان کی پیٹھ کی طرف پھیر دیں یا ان پر اس طرح لعنت کریں جس طرح ہفتے والوں پر کی تھی ہماری نازل کی ہوئی کتاب پر جو تمہاری کتاب کی بھی تصدیق کرتی ہے ایمان لے آؤ اور خدا نے جو حکم فرمایا سو (سمجھ لو کہ) ہوچکا
+**English (Yusuf Ali):** O ye People of the Book! believe in what We have (now) revealed, confirming what was (already) with you, before We change the face and fame of some (of you) beyond all recognition, and turn them hindwards, or curse them as We cursed the Sabbath-breakers, for the decision of Allah Must be carried out.
 
 [Open on Quran.com](https://quran.com/4/47)
 
@@ -82,7 +82,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O my people, enter the blessed land [i.e., Palestine] which Allāh has assigned to you and do not turn back [from fighting in Allāh's cause] and [thus] become losers."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو بھائیو! تم ارض مقدس (یعنی ملک شام) میں جسے خدا نے تمہارے لیے لکھ رکھا ہے چل داخل ہو اور (دیکھنا مقابلے کے وقت) پیٹھ نہ پھیر دینا ورنہ نقصان میں پڑ جاؤ گے
+**English (Yusuf Ali):** "O my people! Enter the holy land which Allah hath assigned unto you, and turn not back ignominiously, for then will ye be overthrown, to your own ruin."
 
 [Open on Quran.com](https://quran.com/5/21)
 
@@ -98,7 +98,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, when you meet those who disbelieve advancing [in battle], do not turn to them your backs [in flight].
 
-**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان جب میدان جنگ میں کفار سے تمہار مقابلہ ہو تو ان سے پیٹھ نہ پھیرنا
+**English (Yusuf Ali):** O ye who believe! when ye meet the Unbelievers in hostile array, never turn your backs to them.
 
 [Open on Quran.com](https://quran.com/8/15)
 
@@ -114,7 +114,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever turns his back to them on such a day, unless swerving [as a strategy] for war or joining [another] company, has certainly returned with anger [upon him] from Allāh, and his refuge is Hell - and wretched is the destination.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص جنگ کے روز اس صورت کے سوا کہ لڑائی کے لیے کنارے کنارے چلے (یعنی حکمت عملی سے دشمن کو مارے) یا اپنی فوج میں جا ملنا چاہے۔ ان سے پیٹھ پھیرے گا تو (سمجھو کہ) وہ خدا کے غضب میں گرفتار ہوگیا اور اس کا ٹھکانا دوزخ ہے۔ اور وہ بہت ہی بری جگہ ہے
+**English (Yusuf Ali):** If any do turn his back to them on such a day - unless it be in a stratagem of war, or to retreat to a troop (of his own)- he draws on himself the wrath of Allah, and his abode is Hell,- an evil refuge (indeed)!
 
 [Open on Quran.com](https://quran.com/8/16)
 
@@ -130,7 +130,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you could but see when the angels take the souls of those who disbelieved... They are striking their faces and their backs and [saying], "Taste the punishment of the Burning Fire.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کاش تم اس وقت (کی کیفیت) دیکھو۔ جب فرشتے کافروں کی جانیں نکالتے ہیں ان کے مونہوں اور پیٹھوں پر (کوڑے اور ہتھوڑے وغیرہ) مارتے (ہیں اور کہتے ہیں) کہ (اب) عذاب آتش (کا مزہ) چکھو
+**English (Yusuf Ali):** If thou couldst see, when the angels take the souls of the Unbelievers (at death), (How) they smite their faces and their backs, (saying): "Taste the penalty of the blazing Fire-
 
 [Open on Quran.com](https://quran.com/8/50)
 
@@ -146,7 +146,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they both raced to the door, and she tore his shirt from the back, and they found her husband at the door. She said, "What is the recompense of one who intended evil for your wife but that he be imprisoned or a painful punishment?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور دونوں دروازے کی طرف بھاگے (آگے یوسف اور پیچھے زلیخا) اور عورت نے ان کا کرتا پیچھے سے (پکڑ کر جو کھینچا تو) پھاڑ ڈالا اور دونوں کو دروازے کے پاس عورت کا خاوند مل گیا تو عورت بولی کہ جو شخص تمہاری بیوی کے ساتھ برا ارادہ کرے اس کی اس کے سوا کیا سزا ہے کہ یا تو قید کیا جائے یا دکھ کا عذاب دیا جائے
+**English (Yusuf Ali):** So they both raced each other to the door, and she tore his shirt from the back: they both found her lord near the door. She said: "What is the (fitting) punishment for one who formed an evil design against thy wife, but prison or a grievous chastisement?"
 
 [Open on Quran.com](https://quran.com/12/25)
 
@@ -162,7 +162,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if his shirt is torn from the back, then she has lied, and he is of the truthful."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر کرتا پیچھے سے پھٹا ہو تو یہ جھوٹی اور وہ سچا ہے
+**English (Yusuf Ali):** "But if it be that his shirt is torn from the back, then is she the liar, and he is telling the truth!"
 
 [Open on Quran.com](https://quran.com/12/27)
 
@@ -178,7 +178,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when he [i.e., her husband] saw his shirt torn from the back, he said, "Indeed, it is of your [i.e., women's] plan. Indeed, your plan is great [i.e., vehement].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب اس کا کرتا دیکھا (تو) پیچھے سے پھٹا تھا (تب اس نے زلیخا سے کہا) کہ یہ تمہارا ہی فریب ہے۔ اور کچھ شک نہیں کہ تم عورتوں کے فریب بڑے (بھاری) ہوتے ہیں
+**English (Yusuf Ali):** So when he saw his shirt,- that it was torn at the back,- (her husband) said: "Behold! It is a snare of you women! truly, mighty is your snare!
 
 [Open on Quran.com](https://quran.com/12/28)
 
@@ -194,7 +194,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So set out with your family during a portion of the night and follow behind them and let not anyone among you look back and continue on to where you are commanded."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو آپ کچھ رات رہے سے اپنے گھر والوں کو لے نکلیں اور خود ان کے پیچھے چلیں اور اور آپ میں سے کوئی شخص مڑ کر نہ دیکھے۔ اور جہاں آپ کو حکم ہو وہاں چلے جایئے
+**English (Yusuf Ali):** "Then travel by night with thy household, when a portion of the night (yet remains), and do thou bring up the rear: let no one amongst you look back, but pass on whither ye are ordered."
 
 [Open on Quran.com](https://quran.com/15/65)
 

@@ -15,30 +15,30 @@ The Cleaving · 19 ayahs
 ## Words in this surah (graph)
 
 - [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[fjrt - we caused gush]] — `فُجِّرَتْ` · we caused gush
-- [[gr - deceive you]] — `غَرَّ` · deceive you
-- [[gA}b - absent]] — `غائِب` · absent
-- [[jHym - hellfire]] — `جَحِيم` · hellfire
-- [[kwkb - stars]] — `كَوْكَب` · stars
-- [[Swrp - forms]] — `صُورَة` · forms
-- [[HAfZ - guardians]] — `حافِظ` · guardians
 - [[kAtb - scribe]] — `كاتِب` · scribe
-- [[rkb - embark]] — `رَكْب` · embark
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[qbr - graves]] — `قَبْر` · graves
 - [[nEym - delight]] — `نَعِيم` · delight
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[>xr - we delay]] — `أَخَّرَ` · we delay
-- [[bHr - sea]] — `بَحْر` · sea
-- [[mlkt - possess]] — `مَلَكَتْ` · possess
-- [[krym - noble]] — `كَرِيم` · noble
-- [[swY - proportioned it]] — `سَوَّى` · proportioned it
 - [[fjAr - wicked]] — `فُجّار` · wicked
-- [[k*b - denied]] — `كَذَبَ` · denied
+- [[allah - God]] — `الله` · God
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[Swrp - forms]] — `صُورَة` · forms
 - [[smA' - heavens]] — `سَماء` · heavens
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[qdm - feet]] — `قَدَّمَ` · feet
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
 - [[br - land]] — `بِرّ` · land
+- [[qbr - graves]] — `قَبْر` · graves
+- [[HAfZ - guardians]] — `حافِظ` · guardians
 - [[>mr - command]] — `أَمَرَ` · command
+- [[Elm - know]] — `عَلِمَ` · know
+- [[gA}b - absent]] — `غائِب` · absent
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[bHr - sea]] — `بَحْر` · sea
+- [[kwkb - stars]] — `كَوْكَب` · stars
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[rkb - embark]] — `رَكْب` · embark
+- [[dyn - religion]] — `دِين` · religion
+- [[ywm - day]] — `يَوْم` · day
+- [[>y - o you]] — `أَيّ` · o you
 
 ## Roots
 

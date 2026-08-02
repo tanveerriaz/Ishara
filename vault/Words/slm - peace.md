@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:208 · [[002 Al-Baqarah]]
 
@@ -47,7 +47,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, enter into Islām completely [and perfectly] and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! اسلام میں پورے پورے داخل ہوجاؤ اور شیطان کے پیچھے نہ چلو وہ تو تمہارا صریح دشمن ہے
+**English (Yusuf Ali):** O ye who believe! Enter into Islam whole-heartedly; and follow not the footsteps of the evil one; for he is to you an avowed enemy.
 
 [Open on Quran.com](https://quran.com/2/208)
 
@@ -63,7 +63,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Mothers may nurse [i.e., breastfeed] their children two complete years for whoever wishes to complete the nursing [period]. Upon the father is their [i.e., the mothers'] provision and their clothing according to what is acceptable. No person is charged with more than his capacity. No mother should be harmed through her child, and no father through his child. And upon the [father's] heir is [a duty] like that [of the father]. And if they both desire weaning through mutual consent from both of them and consultation, there is no blame upon either of them. And if you wish to have your children nursed by a substitute, there is no blame upon you as long as you give payment according to what is acceptable. And fear Allāh and know that Allāh is Seeing of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مائیں اپنے بچوں کو پورے دو سال دودھ پلائیں یہ (حکم) اس شخص کے لئے ہے جو پوری مدت تک دودھ پلوانا چاہے۔ اور دودھ پلانے والی ماؤں کا کھانا اور کپڑا دستور کے مطابق باپ کے ذمے ہوگا۔ کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دی جاتی (تو یاد رکھو کہ) نہ تو ماں کو اس کے بچے کے سبب نقصان پہنچایا جائے اور نہ باپ کو اس کی اولاد کی وجہ سے نقصان پہنچایا جائے اور اسی طرح (نان نفقہ) بچے کے وارث کے ذمے ہے۔ اور اگر دونوں (یعنی ماں باپ) آپس کی رضامندی اور صلاح سے بچے کا دودھ چھڑانا چاہیں تو ان پر کچھ گناہ نہیں۔ اور اگر تم اپنی اولاد کو دودھ پلوانا چاہو تو تم پر کچھ گناہ نہیں بشرطیکہ تم دودھ پلانے والیوں کو دستور کے مطابق ان کا حق جو تم نے دینا کیا تھا دے دو اور خدا سے ڈرتے رہو اور جان رکھو کہ جو کچھ تم کرتے ہو خدا اس کو دیکھ رہا ہے
+**English (Yusuf Ali):** The mothers shall give such to their offspring for two whole years, if the father desires to complete the term. But he shall bear the cost of their food and clothing on equitable terms. No soul shall have a burden laid on it greater than it can bear. No mother shall be Treated unfairly on account of her child. Nor father on account of his child, an heir shall be chargeable in the same way. If they both decide on weaning, by mutual consent, and after due consultation, there is no blame on them. If ye decide on a foster-mother for your offspring, there is no blame on you, provided ye pay (the mother) what ye offered, on equitable terms. But fear Allah and know that Allah sees well what ye do.
 
 [Open on Quran.com](https://quran.com/2/233)
 
@@ -79,7 +79,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But no, by your Lord, they will not [truly] believe until they make you, [O Muḥammad], judge concerning that over which they dispute among themselves and then find within themselves no discomfort from what you have judged and submit in [full, willing] submission.
 
-**Urdu (Fatah Muhammad Jalandhari):** تمہارے پروردگار کی قسم یہ لوگ جب تک اپنے تنازعات میں تمہیں منصف نہ بنائیں اور جو فیصلہ تم کردو اس سے اپنے دل میں تنگ نہ ہوں بلکہ اس کو خوشی سے مان لیں تب تک مومن نہیں ہوں گے
+**English (Yusuf Ali):** But no, by the Lord, they can have no (real) Faith, until they make thee judge in all disputes between them, and find in their souls no resistance against Thy decisions, but accept them with the fullest conviction.
 
 [Open on Quran.com](https://quran.com/4/65)
 
@@ -95,7 +95,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Except for those who take refuge with a people between yourselves and whom is a treaty or those who come to you, their hearts strained at [the prospect of] fighting you or fighting their own people. And if Allāh had willed, He could have given them power over you, and they would have fought you. So if they remove themselves from you and do not fight you and offer you peace, then Allāh has not made for you a cause [for fighting] against them.
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر جو لوگ ایسے لوگوں سے جا ملے ہوں جن میں اور تم میں (صلح کا) عہد ہو یا اس حال میں کہ ان کے دل تمہارے ساتھ یا اپنی قوم کے ساتھ لڑنے سے رک گئے ہوں تمہارے پاس آجائیں (تو احتراز ضروری نہیں) اور اگر خدا چاہتا تو ان کو تم پر غالب کردیتا تو وہ تم سے ضرور لڑتے پھر اگر وہ تم سے (جنگ کرنے سے) کنارہ کشی کریں اور لڑیں نہیں اور تمہاری طرف صلح (کا پیغام) بھیجیں تو خدا نے تمہارے لئے ان پر (زبردستی کرنے کی) کوئی سبیل مقرر نہیں کی
+**English (Yusuf Ali):** Except those who join a group between whom and you there is a treaty (of peace), or those who approach you with hearts restraining them from fighting you as well as fighting their own people. If Allah had pleased, He could have given them power over you, and they would have fought you: Therefore if they withdraw from you but fight you not, and (instead) send you (Guarantees of) peace, then Allah Hath opened no way for you (to war against them).
 
 [Open on Quran.com](https://quran.com/4/90)
 
@@ -111,7 +111,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** You will find others who wish to obtain security from you and [to] obtain security from their people. Every time they are returned to [the influence of] disbelief, they fall back into it. So if they do not withdraw from you or offer you peace or restrain their hands, then seize them and kill them wherever you overtake them. And those - We have made for you against them a clear authorization.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم کچھ اور لوگ ایسے بھی پاؤ گے جو یہ چاہتے ہیں کہ تم سے بھی امن میں رہیں اور اپنی قوم سے بھی امن میں رہیں لیکن فتنہ انگیزی کو بلائے جائیں تو اس میں اوندھے منہ گر پڑیں تو ایسے لوگ اگر تم سے (لڑنے سے) کنارہ کشی نہ کریں اور نہ تمہاری طرف (پیغام) صلح بھیجیں اور نہ اپنے ہاتھوں کو روکیں تو ان کو پکڑ لو اور جہاں پاؤ قتل کردو ان لوگوں کے مقابلے میں ہم نے تمہارے لئے سند صریح مقرر کردی ہے
+**English (Yusuf Ali):** Others you will find that wish to gain your confidence as well as that of their people: Every time they are sent back to temptation, they succumb thereto: if they withdraw not from you nor give you (guarantees) of peace besides restraining their hands, seize them and slay them wherever ye get them: In their case We have provided you with a clear argument against them.
 
 [Open on Quran.com](https://quran.com/4/91)
 
@@ -127,7 +127,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if their evasion is difficult for you, then if you are able to seek a tunnel into the earth or a stairway into the sky to bring them a sign, [then do so]. But if Allāh had willed, He would have united them upon guidance. So never be of the ignorant.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ان کی روگردانی تم پر شاق گزرتی ہے تو اگر طاقت ہو تو زمین میں کوئی سرنگ ڈھونڈ نکالو یا آسمان میں سیڑھی (تلاش کرو) پھر ان کے پاس کوئی معجزہ لاؤ۔ اور اگر خدا چاہتا تو سب کو ہدایت پر جمع کردیتا پس تم ہرگز نادانوں میں نہ ہونا
+**English (Yusuf Ali):** If their spurning is hard on thy mind, yet if thou wert able to seek a tunnel in the ground or a ladder to the skies and bring them a sign,- (what good?). If it were Allah's will, He could gather them together unto true guidance: so be not thou amongst those who are swayed by ignorance (and impatience)!
 
 [Open on Quran.com](https://quran.com/6/35)
 
@@ -143,7 +143,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Remember, O Muḥammad], when Allāh showed them to you in your dream as few; and if He had shown them to you as many, you [believers] would have lost courage and would have disputed in the matter [of whether to fight], but Allāh saved [you from that]. Indeed, He is Knowing of that within the breasts.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس وقت خدا نے تمہیں خواب میں کافروں کو تھوڑی تعداد میں دکھایا۔ اور اگر بہت کر کے دکھاتا تو تم لوگ جی چھوڑ دیتے اور (جو) کام (درپیش تھا اس) میں جھگڑنے لگتے لیکن خدا نے (تمہیں اس سے) بچا لیا۔ بےشک وہ سینوں کی باتوں تک سے واقف ہے
+**English (Yusuf Ali):** Remember in thy dream Allah showed them to thee as few: if He had shown them to thee as many, ye would surely have been discouraged, and ye would surely have disputed in (your) decision; but Allah saved (you): for He knoweth well the (secrets) of (all) hearts.
 
 [Open on Quran.com](https://quran.com/8/43)
 
@@ -159,7 +159,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if they incline to peace, then incline to it [also] and rely upon Allāh. Indeed, it is He who is the Hearing, the Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر یہ لوگ صلح کی طرف مائل ہوں تو تم بھی اس کی طرف مائل ہو جاؤ اور خدا پر بھروسہ رکھو۔ کچھ شک نہیں کہ وہ سب کچھ سنتا (اور) جانتا ہے
+**English (Yusuf Ali):** But if the enemy incline towards peace, do thou (also) incline towards peace, and trust in Allah: for He is One that heareth and knoweth (all things).
 
 [Open on Quran.com](https://quran.com/8/61)
 
@@ -175,7 +175,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The ones whom the angels take in death [while] wronging themselves, and [who] then offer submission, [saying], "We were not doing any evil." But, yes! Indeed, Allāh is Knowing of what you used to do.
 
-**Urdu (Fatah Muhammad Jalandhari):** (ان کا حال یہ ہے کہ) جب فرشتے ان کی روحیں قبض کرنے لگتے ہیں (اور یہ) اپنے ہی حق میں ظلم کرنے والے (ہوتے ہیں) تو مطیع ومنقاد ہوجاتے ہیں (اور کہتے ہیں) کہ ہم کوئی برا کام نہیں کرتے تھے۔ ہاں جو کچھ تم کیا کرتے تھے خدا اسے خوب جانتا ہے
+**English (Yusuf Ali):** "(Namely) those whose lives the angels take in a state of wrong-doing to their own souls." Then would they offer submission (with the pretence), "We did no evil (knowingly)." (The angels will reply), "Nay, but verily Allah knoweth all that ye did;
 
 [Open on Quran.com](https://quran.com/16/28)
 
@@ -191,7 +191,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will impart to Allāh that Day [their] submission, and lost from them is what they used to invent.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس دن خدا کے سامنے سرنگوں ہو جائیں گے اور جو طوفان وہ باندھا کرتے تھے سب اُن سے جاتا رہے گا
+**English (Yusuf Ali):** That Day shall they (openly) show (their) submission to Allah; and all their inventions shall leave them in the lurch.
 
 [Open on Quran.com](https://quran.com/16/87)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:62 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who believed and those who were Jews or Christians or Sabeans [before Prophet Muḥammad (ﷺ)] - those [among them] who believed in Allāh and the Last Day and did righteousness - will have their reward with their Lord, and no fear will there be concerning them, nor will they grieve.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ مسلمان ہیں یا یہودی یا عیسائی یا ستارہ پرست، (یعنی کوئی شخص کسی قوم و مذہب کا ہو) جو خدا اور روز قیامت پر ایمان لائے گا، اور نیک عمل کرے گا، تو ایسے لوگوں کو ان (کے اعمال) کا صلہ خدا کے ہاں ملے گا اور (قیامت کے دن) ان کو نہ کسی طرح کا خوف ہوگا اور نہ وہ غم ناک ہوں گے
+**English (Yusuf Ali):** Those who believe (in the Qur'an), and those who follow the Jewish (scriptures), and the Christians and the Sabians,- any who believe in Allah and the Last Day, and work righteousness, shall have their reward with their Lord; on them shall be no fear, nor shall they grieve.
 
 [Open on Quran.com](https://quran.com/2/62)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who have believed [in Prophet Muḥammad (ﷺ)] and those [before him (ﷺ)] who were Jews or Sabeans or Christians - those [among them] who believed in Allāh and the Last Day and did righteousness - no fear will there be concerning them, nor will they grieve.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا پر اور روز آخرت پر ایمان لائیں گے اور عمل نیک کریں گے خواہ وہ مسلمان ہوں یا یہودی یا ستارہ پرست یا عیسائی ان کو (قیامت کے دن) نہ کچھ خوف ہو گا اور نہ غمناک ہوں گے
+**English (Yusuf Ali):** Those who believe (in the Qur'an), those who follow the Jewish (scriptures), and the Sabians and the Christians,- any who believe in Allah and the Last Day, and work righteousness,- on them shall be no fear, nor shall they grieve.
 
 [Open on Quran.com](https://quran.com/5/69)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who have believed and those who were Jews and the Sabeans and the Christians and the Magians and those who associated with Allāh - Allāh will judge between them on the Day of Resurrection. Indeed Allāh is, over all things, Witness.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ مومن (یعنی مسلمان) ہیں اور جو یہودی ہیں اور ستارہ پرست اور عیسائی اور مجوسی اور مشرک۔ خدا ان (سب) میں قیامت کے دن فیصلہ کردے گا۔ بےشک خدا ہر چیز سے باخبر ہے
+**English (Yusuf Ali):** Those who believe (in the Qur'an), those who follow the Jewish (scriptures), and the Sabians, Christians, Magians, and Polytheists,- Allah will judge between them on the Day of Judgment: for Allah is witness of all things.
 
 [Open on Quran.com](https://quran.com/22/17)
 

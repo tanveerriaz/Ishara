@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:81 · [[011 Hud]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They [the angels] said, "O Lot, indeed we are messengers of your Lord; [therefore], they will never reach you. So set out with your family during a portion of the night and let not any among you look back - except your wife; indeed, she will be struck by that which strikes them. Indeed, their appointment is [for] the morning. Is not the morning near?"
 
-**Urdu (Fatah Muhammad Jalandhari):** فرشتوں نے کہا کہ لوط ہم تمہارے پروردگار کے فرشتے ہیں۔ یہ لوگ ہرگز تم تک نہیں پہنچ سکیں گے تو کچھ رات رہے سے اپنے گھر والوں کو لے کر چل دو اور تم میں سے کوئی شخص پیچھے پھر کر نہ دیکھے۔ مگر تمہاری بیوی کہ جو آفت ان پر پڑنے والی ہے وہی اس پر پڑے گی۔ ان کے (عذاب کے) وعدے کا وقت صبح ہے۔ اور کیا صبح کچھ دور ہے؟
+**English (Yusuf Ali):** (The Messengers) said: "O Lut! We are Messengers from thy Lord! By no means shall they reach thee! now travel with thy family while yet a part of the night remains, and let not any of you look back: but thy wife (will remain behind): To her will happen what happens to the people. Morning is their time appointed: Is not the morning nigh?"
 
 [Open on Quran.com](https://quran.com/11/81)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So set out with your family during a portion of the night and follow behind them and let not anyone among you look back and continue on to where you are commanded."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو آپ کچھ رات رہے سے اپنے گھر والوں کو لے نکلیں اور خود ان کے پیچھے چلیں اور اور آپ میں سے کوئی شخص مڑ کر نہ دیکھے۔ اور جہاں آپ کو حکم ہو وہاں چلے جایئے
+**English (Yusuf Ali):** "Then travel by night with thy household, when a portion of the night (yet remains), and do thou bring up the rear: let no one amongst you look back, but pass on whither ye are ordered."
 
 [Open on Quran.com](https://quran.com/15/65)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Exalted is He who took His Servant [i.e., Prophet Muḥammad (ﷺ)] by night from al-Masjid al-Ḥarām to al-Masjid al-Aqṣā, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing, the Seeing.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ (ذات) پاک ہے جو ایک رات اپنے بندے کو مسجدالحرام یعنی (خانہٴ کعبہ) سے مسجد اقصیٰ (یعنی بیت المقدس) تک جس کے گردا گرد ہم نے برکتیں رکھی ہیں لے گیا تاکہ ہم اسے اپنی (قدرت کی) نشانیاں دکھائیں۔ بےشک وہ سننے والا (اور) دیکھنے والا ہے
+**English (Yusuf Ali):** Glory to (Allah) Who did take His servant for a Journey by night from the Sacred Mosque to the farthest Mosque, whose precincts We did bless,- in order that We might show him some of Our Signs: for He is the One Who heareth and seeth (all things).
 
 [Open on Quran.com](https://quran.com/17/1)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We had inspired to Moses, "Travel by night with My servants and strike for them a dry path through the sea; you will not fear being overtaken [by Pharaoh] nor be afraid [of drowning]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کی طرف وحی بھیجی کہ ہمارے بندوں کو راتوں رات نکال لے جاؤ پھر ان کے لئے دریا میں (لاٹھی مار کر) خشک رستہ بنا دو پھر تم کو نہ تو (فرعون کے) آپکڑنے کا خوف ہوگا اور نہ (غرق ہونے کا) ڈر
+**English (Yusuf Ali):** We sent an inspiration to Moses: "Travel by night with My servants, and strike a dry path for them through the sea, without fear of being overtaken (by Pharaoh) and without (any other) fear."
 
 [Open on Quran.com](https://quran.com/20/77)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We inspired to Moses, "Travel by night with My servants; indeed, you will be pursued."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کی طرف وحی بھیجی کہ ہمارے بندوں کو رات کو لے نکلو کہ (فرعونیوں کی طرف سے) تمہارا تعاقب کیا جائے گا
+**English (Yusuf Ali):** By inspiration we told Moses: "Travel by night with my servants; for surely ye shall be pursued."
 
 [Open on Quran.com](https://quran.com/26/52)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh said], "Then set out with My servants by night. Indeed, you are to be pursued.
 
-**Urdu (Fatah Muhammad Jalandhari):** (خدا نے فرمایا کہ) میرے بندوں کو راتوں رات لے کر چلے جاؤ اور (فرعونی) ضرور تمہارا تعاقب کریں گے
+**English (Yusuf Ali):** (The reply came:) "March forth with My Servants by night: for ye are sure to be pursued.
 
 [Open on Quran.com](https://quran.com/44/23)
 

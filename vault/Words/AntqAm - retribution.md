@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:4 · [[003 Ali Imran]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Before, as guidance for the people. And He revealed the Criterion [i.e., the Qur’ān]. Indeed, those who disbelieve in the verses of Allāh will have a severe punishment, and Allāh is Exalted in Might, the Owner of Retribution.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی) لوگوں کی ہدایت کے لیے پہلے (تورات اور انجیل اتاری) اور (پھر قرآن جو حق اور باطل کو) الگ الگ کر دینے والا (ہے) نازل کیا جو لوگ خدا کی آیتوں کا انکار کرتے ہیں ان کو سخت عذاب ہوگا اور خدا زبردست (اور) بدلہ لینے والا ہے
+**English (Yusuf Ali):** before this, as a guide to mankind, and He sent down the criterion (of judgment between right and wrong). Then those who reject Faith in the Signs of Allah will suffer the severest penalty, and Allah is Exalted in Might, Lord of Retribution.
 
 [Open on Quran.com](https://quran.com/3/4)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not kill game while you are in the state of iḥrām. And whoever of you kills it intentionally - the penalty is an equivalent from sacrificial animals to what he killed, as judged by two just men among you as an offering [to Allāh] delivered to the Kaʿbah, or an expiation: the feeding of needy people or the equivalent of that in fasting, that he may taste the consequence of his matter [i.e., deed]. Allāh has pardoned what is past; but whoever returns [to violation], then Allāh will take retribution from him. And Allāh is Exalted in Might and Owner of Retribution.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم احرام کی حالت میں ہو تو شکار نہ مارنا اور جو تم میں سے جان بوجھ کر اسے مارے تو (یا تو اس کا) بدلہ (دے اور وہ یہ ہے کہ) اسی طرح کا چارپایہ جسے تم میں دو معتبر شخص مقرر کردیں قربانی (کرے اور یہ قربانی) کعبے پہنچائی جائے یا کفارہ (دے اور وہ) مسکینوں کو کھانا کھلانا (ہے) یا اس کے برابر روزے رکھے تاکہ اپنے کام کی سزا (کا مزہ) چکھے (اور) جو پہلے ہو چکا وہ خدا نے معاف کر دیا اور جو پھر (ایسا کام) کرے گا تو خدا اس سے انتقام لے گا اور خدا غالب اور انتقام لینے والا ہے
+**English (Yusuf Ali):** O ye who believe! Kill not game while in the sacred precincts or in pilgrim garb. If any of you doth so intentionally, the compensation is an offering, brought to the Ka'ba, of a domestic animal equivalent to the one he killed, as adjudged by two just men among you; or by way of atonement, the feeding of the indigent; or its equivalent in fasts: that he may taste of the penalty of his deed. Allah forgives what is past: for repetition Allah will exact from him the penalty. For Allah is Exalted, and Lord of Retribution.
 
 [Open on Quran.com](https://quran.com/5/95)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So never think that Allāh will fail in His promise to His messengers. Indeed, Allāh is Exalted in Might and Owner of Retribution.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ایسا خیال نہ کرنا کہ خدا نے جو اپنے پیغمبروں سے وعدہ کیا ہے اس کے خلاف کرے گا بےشک خدا زبردست (اور) بدلہ لینے والا ہے
+**English (Yusuf Ali):** Never think that Allah would fail his messengers in His promise: for Allah is Exalted in power, - the Lord of Retribution.
 
 [Open on Quran.com](https://quran.com/14/47)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whoever Allāh guides - for him there is no misleader. Is not Allāh Exalted in Might and Owner of Retribution?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس کو خدا ہدایت دے اس کو کوئی گمراہ کرنے والا نہیں۔ کیا خدا غالب (اور) بدلہ لینے والا نہیں ہے؟
+**English (Yusuf Ali):** And such as Allah doth guide there can be none to lead astray. Is not Allah Exalted in Power, (Able to enforce His Will), Lord of Retribution?
 
 [Open on Quran.com](https://quran.com/39/37)
 

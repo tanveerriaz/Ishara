@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 5:31 · [[005 Al-Maidah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then Allāh sent a crow searching [i.e., scratching] in the ground to show him how to hide the disgrace of his brother. He said, "O woe to me! Have I failed to be like this crow and hide the disgrace [i.e., body] of my brother?" And he became of the regretful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اب خدا نے ایک کوّا بھیجا جو زمین کریدنے لگا تاکہ اسے دکھائے کہ اپنے بھائی کی لاش کو کیونکر چھپائے کہنے لگا اے ہے مجھ سے اتنا بھی نہ ہو سکا کہ اس کوے کے برابر ہوتا کہ اپنے بھائی کی لاش چھپا دیتا پھر وہ پشیمان ہوا
+**English (Yusuf Ali):** Then Allah sent a raven, who scratched the ground, to show him how to hide the shame of his brother. "Woe is me!" said he; "Was I not even able to be as this raven, and to hide the shame of my brother?" then he became full of regrets-
 
 [Open on Quran.com](https://quran.com/5/31)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So you see those in whose hearts is disease [i.e., hypocrisy] hastening into [association with] them, saying, "We are afraid a misfortune may strike us." But perhaps Allāh will bring conquest or a decision from Him, and they will become, over what they have been concealing within themselves, regretful.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جن لوگوں کے دلوں میں (نفاق کا) مرض ہے تم ان کو دیکھو گے کہ ان میں دوڑ دوڑ کے ملے جاتے ہیں کہتے ہیں کہ ہمیں خوف ہے کہ کہیں ہم پر زمانے کی گردش نہ آجائے سو قریب ہے کہ خدا فتح بھیجے یا اپنے ہاں سے کوئی اور امر (نازل فرمائے) پھر یہ اپنے دل کی باتوں پر جو چھپایا کرتے تھے پشیمان ہو کر رہ جائیں گے
+**English (Yusuf Ali):** Those in whose hearts is a disease - thou seest how eagerly they run about amongst them, saying: "We do fear lest a change of fortune bring us disaster." Ah! perhaps Allah will give (thee) victory, or a decision according to His will. Then will they repent of the thoughts which they secretly harboured in their hearts.
 
 [Open on Quran.com](https://quran.com/5/52)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "After a little, they will surely become regretful."
 
-**Urdu (Fatah Muhammad Jalandhari):** فرمایا کہ یہ تھوڑے ہی عرصے میں پشیمان ہو کر رہ جائیں گے
+**English (Yusuf Ali):** (Allah) said: "In but a little while, they are sure to be sorry!"
 
 [Open on Quran.com](https://quran.com/23/40)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But they hamstrung her and so became regretful.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے اس کی کونچیں کاٹ ڈالیں پھر نادم ہوئے
+**English (Yusuf Ali):** But they ham-strung her: then did they become full of regrets.
 
 [Open on Quran.com](https://quran.com/26/157)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, if there comes to you a disobedient one with information, investigate, lest you harm a people out of ignorance and become, over what you have done, regretful.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! اگر کوئی بدکردار تمہارے پاس کوئی خبر لے کر آئے تو خوب تحقیق کرلیا کرو (مبادا) کہ کسی قوم کو نادانی سے نقصان پہنچا دو۔ پھر تم کو اپنے کئے پر نادم ہونا پڑے
+**English (Yusuf Ali):** O ye who believe! If a wicked person comes to you with any news, ascertain the truth, lest ye harm people unwittingly, and afterwards become full of repentance for what ye have done.
 
 [Open on Quran.com](https://quran.com/49/6)
 

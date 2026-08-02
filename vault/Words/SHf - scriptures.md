@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 20:133 · [[020 Taha]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "Why does he not bring us a sign from his Lord?" Has there not come to them evidence of what was in the former scriptures?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ یہ (پیغمبر) اپنے پروردگار کی طرف سے ہمارے پاس کوئی نشانی کیوں نہیں لاتے۔ کیا ان کے پاس پہلی کتابوں کی نشانی نہیں آئی؟
+**English (Yusuf Ali):** They say: "Why does he not bring us a sign from his Lord?" Has not a Clear Sign come to them of all that was in the former Books of revelation?
 
 [Open on Quran.com](https://quran.com/20/133)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or has he not been informed of what was in the scriptures of Moses
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا جو باتیں موسیٰ کے صحیفوں میں ہیں ان کی اس کو خبر نہیں پہنچی
+**English (Yusuf Ali):** Nay, is he not acquainted with what is in the Books of Moses-
 
 [Open on Quran.com](https://quran.com/53/36)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Rather, every person among them desires that he would be given scriptures spread about.
 
-**Urdu (Fatah Muhammad Jalandhari):** اصل یہ ہے کہ ان میں سے ہر شخص یہ چاہتا ہے کہ اس کے پاس کھلی ہوئی کتاب آئے
+**English (Yusuf Ali):** Forsooth, each one of them wants to be given scrolls (of revelation) spread out!
 
 [Open on Quran.com](https://quran.com/74/52)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [It is recorded] in honored sheets,
 
-**Urdu (Fatah Muhammad Jalandhari):** قابل ادب ورقوں میں (لکھا ہوا)
+**English (Yusuf Ali):** (It is) in Books held (greatly) in honour,
 
 [Open on Quran.com](https://quran.com/80/13)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when the pages are spread [i.e., made public]
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب (عملوں کے) دفتر کھولے جائیں گے
+**English (Yusuf Ali):** When the scrolls are laid open;
 
 [Open on Quran.com](https://quran.com/81/10)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, this is in the former scriptures,
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ بات پہلے صحیفوں میں (مرقوم) ہے
+**English (Yusuf Ali):** And this is in the Books of the earliest (Revelation),-
 
 [Open on Quran.com](https://quran.com/87/18)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The scriptures of Abraham and Moses.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی) ابراہیم اور موسیٰ کے صحیفوں میں
+**English (Yusuf Ali):** The Books of Abraham and Moses.
 
 [Open on Quran.com](https://quran.com/87/19)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** A Messenger from Allāh, reciting purified scriptures
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی) خدا کے پیغمبر جو پاک اوراق پڑھتے ہیں
+**English (Yusuf Ali):** An messenger from Allah, rehearsing scriptures kept pure and holy:
 
 [Open on Quran.com](https://quran.com/98/2)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:77 · [[007 Al-Araf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So they hamstrung the she-camel and were insolent toward the command of their Lord and said, "O Ṣāliḥ, bring us what you promise us, if you should be of the messengers."
 
-**Urdu (Fatah Muhammad Jalandhari):** آخر انہوں نے اونٹی (کی کونچوں) کو کاٹ ڈالا اور اپنے پروردگار کے حکم سے سرکشی کی اور کہنے لگے کہ صالح! جس چیز سے تم ہمیں ڈراتے تھے اگر تم (خدا کے) پیغمبر ہو تو اسے ہم پر لے آؤ
+**English (Yusuf Ali):** Then they ham-strung the she-camel, and insolently defied the order of their Lord, saying: "O Salih! bring about thy threats, if thou art a messenger (of Allah)!"
 
 [Open on Quran.com](https://quran.com/7/77)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when they were insolent about that which they had been forbidden, We said to them, "Be apes, despised."
 
-**Urdu (Fatah Muhammad Jalandhari):** غرض جن اعمال (بد) سے ان کو منع کیا گیا تھا جب وہ ان (پراصرار اور ہمارے حکم سے) گردن کشی کرنے لگے تو ہم نے ان کو حکم دیا کہ ذلیل بندر ہوجاؤ
+**English (Yusuf Ali):** When in their insolence they transgressed (all) prohibitions, We said to them: "Be ye apes, despised and rejected."
 
 [Open on Quran.com](https://quran.com/7/166)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who do not expect the meeting with Us say, "Why were not angels sent down to us, or [why] do we [not] see our Lord?" They have certainly become arrogant within themselves and [become] insolent with great insolence.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ہم سے ملنے کی امید نہیں رکھتے۔ کہتے ہیں کہ ہم پر فرشتے کیوں نہ نازل کئے گئے۔ یا ہم اپنی آنکھ سے اپنے پروردگار کو دیکھ لیں۔ یہ اپنے خیال میں بڑائی رکھتے ہیں اور (اسی بنا پر) بڑے سرکش ہو رہے ہی
+**English (Yusuf Ali):** Such as fear not the meeting with Us (for Judgment) say: "Why are not the angels sent down to us, or (why) do we not see our Lord?" Indeed they have an arrogant conceit of themselves, and mighty is the insolence of their impiety!
 
 [Open on Quran.com](https://quran.com/25/21)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But they were insolent toward the command of their Lord, so the thunderbolt seized them while they were looking on.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے اپنے پروردگار کے حکم سے سرکشی کی۔ سو ان کو کڑک نے آ پکڑا اور وہ دیکھ رہے تھے
+**English (Yusuf Ali):** But they insolently defied the Command of their Lord: So the stunning noise (of an earthquake) seized them, even while they were looking on.
 
 [Open on Quran.com](https://quran.com/51/44)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And how many a city was insolent toward the command of its Lord and His messengers, so We took it to severe account and punished it with a terrible punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بہت سی بستیوں (کے رہنے والوں)نے اپنے پروردگار اور اس کے پیغمبروں کے احکام سے سرکشی کی تو ہم نے ان کو سخت حساب میں پکڑ لیا اور ان پر (ایسا) عذاب نازل کیا جو نہ دیکھا تھا نہ سنا
+**English (Yusuf Ali):** How many populations that insolently opposed the Command of their Lord and of His messengers, did We not then call to account,- to severe account?- and We imposed on them an exemplary Punishment.
 
 [Open on Quran.com](https://quran.com/65/8)
 

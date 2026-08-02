@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:36 · [[003 Ali Imran]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But when she delivered her, she said, "My Lord, I have delivered a female." And Allāh was most knowing of what she delivered, and the male is not like the female. "And I have named her Mary, and I seek refuge for her in You and [for] her descendants from Satan, the expelled [from the mercy of Allāh]."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب ان کے ہاں بچہ پیدا ہوا اور جو کچھ ان کے ہاں پیدا ہوا تھا خدا کو خوب معلوم تھا تو کہنے لگیں کہ پروردگار! میرے تو لڑکی ہوئی ہے اور (نذر کے لیے) لڑکا (موزوں تھا کہ وہ) لڑکی کی طرح (ناتواں) نہیں ہوتا اور میں نے اس کا نام مریم رکھا ہے اور میں اس کو اور اس کی اولاد کو شیطان مردود سے تیری پناہ میں دیتی ہوں
+**English (Yusuf Ali):** When she was delivered, she said: "O my Lord! Behold! I am delivered of a female child!"- and Allah knew best what she brought forth- "And no wise is the male Like the female. I have named her Mary, and I commend her and her offspring to Thy protection from the Evil One, the Rejected."
 
 [Open on Quran.com](https://quran.com/3/36)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have protected it from every devil expelled [from the mercy of Allāh]
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہر شیطان راندہٴ درگاہ سے اُسے محفوظ کر دیا
+**English (Yusuf Ali):** And (moreover) We have guarded them from every cursed devil:
 
 [Open on Quran.com](https://quran.com/15/17)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "Then depart from it, for indeed, you are expelled.
 
-**Urdu (Fatah Muhammad Jalandhari):** (خدا نے) فرمایا یہاں سے نکل جا۔ تو مردود ہے
+**English (Yusuf Ali):** (Allah) said: "Then get thee out from here; for thou art rejected, accursed.
 
 [Open on Quran.com](https://quran.com/15/34)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when you recite the Qur’ān, [first] seek refuge in Allāh from Satan, the expelled [from His mercy].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم قرآن پڑھنے لگو تو شیطان مردود سے پناہ مانگ لیا کرو
+**English (Yusuf Ali):** When thou dost read the Qur'an, seek Allah's protection from Satan the rejected one.
 
 [Open on Quran.com](https://quran.com/16/98)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "Then get out of it [i.e., Paradise], for indeed, you are expelled.
 
-**Urdu (Fatah Muhammad Jalandhari):** فرمایا یہاں سے نکل جا تو مردود ہے
+**English (Yusuf Ali):** (Allah) said: "Then get thee out from here: for thou art rejected, accursed.
 
 [Open on Quran.com](https://quran.com/38/77)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it [i.e., the Qur’ān] is not the word of a devil, expelled [from the heavens].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ شیطان مردود کا کلام نہیں
+**English (Yusuf Ali):** Nor is it the word of an evil spirit accursed.
 
 [Open on Quran.com](https://quran.com/81/25)
 

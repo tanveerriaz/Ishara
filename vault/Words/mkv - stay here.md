@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 13:17 · [[013 Ar-Rad]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He sends down from the sky, rain, and valleys flow according to their capacity, and the torrent carries a rising foam. And from that [ore] which they heat in the fire, desiring adornments and utensils, is a foam like it. Thus Allāh presents [the example of] truth and falsehood. As for the foam, it vanishes, [being] cast off; but as for that which benefits the people, it remains on the earth. Thus does Allāh present examples.
 
-**Urdu (Fatah Muhammad Jalandhari):** اسی نے آسمان سے مینہ برسایا پھر اس سے اپنے اپنے اندازے کے مطابق نالے بہہ نکلے پھر نالے پر پھولا ہوا جھاگ آگیا۔ اور جس چیز کو زیور یا کوئی اور سامان بنانے کے لیے آگ میں تپاتے ہیں اس میں بھی ایسا ہی جھاگ ہوتا ہے۔ اس طرح خدا حق اور باطل کی مثال بیان فرماتا ہے۔ سو جھاگ تو سوکھ کر زائل ہو جاتا ہے۔ اور (پانی) جو لوگوں کو فائدہ پہنچاتا ہے وہ زمین میں ٹھہرا رہتا ہے۔ اس طرح خدا (صحیح اور غلط کی) مثالیں بیان فرماتا ہے (تاکہ تم سمجھو)
+**English (Yusuf Ali):** He sends down water from the skies, and the channels flow, each according to its measure: But the torrent bears away to foam that mounts up to the surface. Even so, from that (ore) which they heat in the fire, to make ornaments or utensils therewith, there is a scum likewise. Thus doth Allah (by parables) show forth Truth and Vanity. For the scum disappears like forth cast out; while that which is for the good of mankind remains on the earth. Thus doth Allah set forth parables.
 
 [Open on Quran.com](https://quran.com/13/17)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [it is] a Qur’ān which We have separated [by intervals] that you might recite it to the people over a prolonged period. And We have sent it down progressively.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن کو جزو جزو کرکے نازل کیا ہے تاکہ تم لوگوں کو ٹھیر ٹھیر کر پڑھ کر سناؤ اور ہم نے اس کو آہستہ آہستہ اُتارا ہے
+**English (Yusuf Ali):** (It is) a Qur'an which We have divided (into parts from time to time), in order that thou mightest recite it to men at intervals: We have revealed it by stages.
 
 [Open on Quran.com](https://quran.com/17/106)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When he saw a fire and said to his family, "Stay here; indeed, I have perceived a fire; perhaps I can bring you a torch or find at the fire some guidance."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب انہوں نے آگ دیکھی تو اپنے گھر والوں سے کہا کہ تم (یہاں) ٹھہرو میں نے آگ دیکھی ہے (میں وہاں جاتا ہوں) شاید اس میں سے میں تمہارے پاس انگاری لاؤں یا آگ (کے مقام) کا رستہ معلوم کرسکوں
+**English (Yusuf Ali):** Behold, he saw a fire: So he said to his family, "Tarry ye; I perceive a fire; perhaps I can bring you some burning brand therefrom, or find some guidance at the fire."
 
 [Open on Quran.com](https://quran.com/20/10)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But he [i.e., the hoopoe] stayed not long and said, "I have encompassed [in knowledge] that which you have not encompassed, and I have come to you from Sheba with certain news.
 
-**Urdu (Fatah Muhammad Jalandhari):** ابھی تھوڑی ہی دیر ہوئی تھی کہ ہُدہُد آ موجود ہوا اور کہنے لگا کہ مجھے ایک ایسی چیز معلوم ہوئی ہے جس کی آپ کو خبر نہیں اور میں آپ کے پاس (شہر) سبا سے ایک سچی خبر لے کر آیا ہوں
+**English (Yusuf Ali):** But the Hoopoe tarried not far: he (came up and) said: "I have compassed (territory) which thou hast not compassed, and I have come to thee from Saba with tidings true.
 
 [Open on Quran.com](https://quran.com/27/22)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when Moses had completed the term and was traveling with his family, he perceived from the direction of the mount a fire. He said to his family, "Stay here; indeed, I have perceived a fire. Perhaps I will bring you from there [some] information or burning wood from the fire that you may warm yourselves."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب موسٰی نے مدت پوری کردی اور اپنے گھر کے لوگوں کو لے کر چلے تو طور کی طرف سے آگ دکھائی دی تو اپنے گھر والوں سے کہنے لگے کہ تم یہاں ٹھیرو۔ مجھے آگ نظر آئی ہے شاید میں وہاں سے (رستے کا) کچھ پتہ لاؤں یا آگ کا انگارہ لے آؤں تاکہ تم تاپو
+**English (Yusuf Ali):** Now when Moses had fulfilled the term, and was travelling with his family, he perceived a fire in the direction of Mount Tur. He said to his family: "Tarry ye; I perceive a fire; I hope to bring you from there some information, or a burning firebrand, that ye may warm yourselves."
 
 [Open on Quran.com](https://quran.com/28/29)
 

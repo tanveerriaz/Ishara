@@ -15,30 +15,30 @@ The Troops · 75 ayahs
 ## Words in this surah (graph)
 
 - [[mvwY - abode]] — `مَثْوًى` · abode
-- [[syq - will driven]] — `سِيقَ` · will driven
-- [[>nAb - turns]] — `أَنابَ` · turns
 - [[bdA - will appear]] — `بَدا` · will appear
+- [[xznt - its keepers]] — `خَزَنَت` · its keepers
+- [[syq - will driven]] — `سِيقَ` · will driven
+- [[hAd - guide]] — `هاد` · guide
 - [[yxwf - frightens you]] — `يُخَوِّفُ` · frightens you
 - [[mtkbr - arrogant]] — `مُتَكَبِّر` · arrogant
-- [[xznt - its keepers]] — `خَزَنَت` · its keepers
-- [[hAd - guide]] — `هاد` · guide
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[>nAb - turns]] — `أَنابَ` · turns
+- [[fATr - creator]] — `فاطِر` · creator
 - [[dEA - call]] — `دَعا` · call
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[wAsEp - spacious]] — `واسِعَة` · spacious
+- [[nAr - fire]] — `نار` · fire
+- [[lyl - night]] — `لَيْل` · night
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[qdr - restricts]] — `قَدَر` · restricts
 - [[Dl - lost]] — `ضَلَّ` · lost
-- [[gny - free need]] — `غَنِيّ` · free need
-- [[sbHAn - glory]] — `سُبْحان` · glory
-- [[>n*r - warn]] — `أَنذَرَ` · warn
-- [[>srf - extravagant]] — `أَسْرَفَ` · extravagant
 - [[>nq* - would saved]] — `أَنقَذَ` · would saved
-- [[nhAr - day]] — `نَهار` · day
-- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
-- [[dnyA - world]] — `دُنْيا` · world
-- [[>hl - people]] — `أَهْل` · people
-- [[AtY - give]] — `آتَى` · give
-- [[mtwkl - trust]] — `مُتَوَكِّل` · trust
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[TAgwt - false deities]] — `طاغُوت` · false deities
+- [[Eml - do]] — `عَمِلَ` · do
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[>ndAd - rivals]] — `أَنداد` · rivals
+- [[>mr - command]] — `أَمَرَ` · command
+- [[wly - protector]] — `وَلِيّ` · protector
+- [[myEAd - promise]] — `مِيعاد` · promise
 
 ## Roots
 

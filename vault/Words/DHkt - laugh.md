@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:82 · [[009 At-Tawbah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So let them laugh a little and [then] weep much as recompense for what they used to earn.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ (دنیا میں) تھوڑا سا ہنس لیں اور (آخرت میں) ان کو ان اعمال کے بدلے جو کرتے رہے ہیں بہت سا رونا ہوگا
+**English (Yusuf Ali):** Let them laugh a little: much will they weep: a recompense for the (evil) that they do.
 
 [Open on Quran.com](https://quran.com/9/82)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And his wife was standing, and she smiled. Then We gave her good tidings of Isaac and after Isaac, Jacob.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم کی بیوی (جو پاس) کھڑی تھی، ہنس پڑی تو ہم نے اس کو اسحاق کی اور اسحاق کے بعد یعقوب کی خوشخبری دی
+**English (Yusuf Ali):** And his wife was standing (there), and she laughed: But we gave her glad tidings of Isaac, and after him, of Jacob.
 
 [Open on Quran.com](https://quran.com/11/71)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But you took them in mockery to the point that they made you forget My remembrance, and you used to laugh at them.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو تم ان سے تمسخر کرتے رہے یہاں تک کہ ان کے پیچھے میری یاد بھی بھول گئے اور تم (ہمیشہ) ان سے ہنسی کیا کرتے تھے
+**English (Yusuf Ali):** "But ye treated them with ridicule, so much so that (ridicule of) them made you forget My Message while ye were laughing at them!
 
 [Open on Quran.com](https://quran.com/23/110)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But when he brought them Our signs, at once they laughed at them.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب وہ ان کے پاس ہماری نشانیاں لے کر آئے تو وہ نشانیوں سے ہنسی کرنے لگے
+**English (Yusuf Ali):** But when he came to them with Our Signs, behold they ridiculed them.
 
 [Open on Quran.com](https://quran.com/43/47)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you laugh and do not weep
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہنستے ہو اور روتے نہیں؟
+**English (Yusuf Ali):** And will ye laugh and not weep,-
 
 [Open on Quran.com](https://quran.com/53/60)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who committed crimes used to laugh at those who believed.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو گنہگار (یعنی کفار) ہیں وہ (دنیا میں) مومنوں سے ہنسی کیا کرتے تھے
+**English (Yusuf Ali):** Those in sin used to laugh at those who believed,
 
 [Open on Quran.com](https://quran.com/83/29)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So Today those who believed are laughing at the disbelievers,
 
-**Urdu (Fatah Muhammad Jalandhari):** تو آج مومن کافروں سے ہنسی کریں گے
+**English (Yusuf Ali):** But on this Day the Believers will laugh at the Unbelievers:
 
 [Open on Quran.com](https://quran.com/83/34)
 

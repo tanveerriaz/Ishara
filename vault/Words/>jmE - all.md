@@ -41,7 +41,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:161 · [[002 Al-Baqarah]]
 
@@ -55,7 +55,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve and die while they are disbelievers - upon them will be the curse of Allāh and of the angels and the people, all together,
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے اور کافر ہی مرے ایسوں پر خدا کی اور فرشتوں اور لوگوں کی سب کی لعنت
+**English (Yusuf Ali):** Those who reject Faith, and die rejecting,- on them is Allah's curse, and the curse of angels, and of all mankind;
 
 [Open on Quran.com](https://quran.com/2/161)
 
@@ -71,7 +71,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those - their recompense will be that upon them is the curse of Allāh and the angels and the people, all together,
 
-**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں کی سزا یہ ہے کہ ان پر خدا کی اور فرشتوں کی اور انسانوں کی سب کی لعنت ہو
+**English (Yusuf Ali):** Of such the reward is that on them (rests) the curse of Allah, of His angels, and of all mankind;-
 
 [Open on Quran.com](https://quran.com/3/87)
 
@@ -87,7 +87,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "With Allāh is the far-reaching [i.e., conclusive] argument. If He had willed, He would have guided you all."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ خدا ہی کی حجت غالب ہے اگر وہ چاہتا تو تم سب کو ہدایت دے دیتا
+**English (Yusuf Ali):** Say: "With Allah is the argument that reaches home: if it had been His will, He could indeed have guided you all."
 
 [Open on Quran.com](https://quran.com/6/149)
 
@@ -103,7 +103,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "Depart from it [i.e., Paradise], reproached and expelled. Whoever follows you among them - I will surely fill Hell with you, all together."
 
-**Urdu (Fatah Muhammad Jalandhari):** (خدا نے) فرمایا، نکل جا۔ یہاں سے پاجی۔ مردود جو لوگ ان میں سے تیری پیروی کریں گے میں (ان کو اور تجھ کو جہنم میں ڈال کر) تم سب سے جہنم کو بھر دوں گا
+**English (Yusuf Ali):** (Allah) said: "Get out from this, disgraced and expelled. If any of them follow thee,- Hell will I fill with you all.
 
 [Open on Quran.com](https://quran.com/7/18)
 
@@ -119,7 +119,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** I will surely cut off your hands and your feet on opposite sides; then I will surely crucify you all."
 
-**Urdu (Fatah Muhammad Jalandhari):** میں (پہلے تو) تمہارے ایک طرف کے ہاتھ اور دوسری طرف کے پاؤں کٹوا دوں گا پھر تم سب کو سولی چڑھوا دوں گا
+**English (Yusuf Ali):** "Be sure I will cut off your hands and your feet on apposite sides, and I will cause you all to die on the cross."
 
 [Open on Quran.com](https://quran.com/7/124)
 
@@ -135,7 +135,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And recite to them the news of Noah, when he said to his people, "O my people, if my residence and my reminding of the signs of Allāh has become burdensome upon you - then I have relied upon Allāh. So resolve upon your plan and [call upon] your associates. Then let not your plan be obscure to you. Then carry it out upon me and do not give me respite.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کو نوح کا قصہ پڑھ کر سنادو۔ جب انہوں نے اپنی قوم سے کہا کہ اے قوم! اگر تم کو میرا تم میں رہنا اور خدا کی آیتوں سے نصیحت کرنا ناگوار ہو تو میں خدا پر بھروسہ رکھتا ہوں۔ تم اپنے شریکوں کے ساتھ مل کر ایک کام (جو میرے بارے میں کرنا چاہو) مقرر کرلو اور وہ تمہاری تمام جماعت (کو معلوم ہوجائے اور کسی) سے پوشیدہ نہ رہے اور پھر وہ کام میرے حق میں کر گزرو اور مجھے مہلت نہ دو
+**English (Yusuf Ali):** Relate to them the story of Noah. Behold! he said to his people: "O my people, if it be hard on your (mind) that I should stay (with you) and commemorate the signs of Allah,- yet I put my trust in Allah. Get ye then an agreement about your plan and among your partners, so your plan be on to you dark and dubious. Then pass your sentence on me, and give me no respite.
 
 [Open on Quran.com](https://quran.com/10/71)
 
@@ -151,7 +151,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Except whom your Lord has given mercy, and for that He created them. But the word of your Lord is to be fulfilled that, "I will surely fill Hell with jinn and men all together."
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر جن پر تمہارا پروردگار رحم کرے۔ اور اسی لیے اس نے ان کو پیدا کیا ہے اور تمہارے پروردگار کا قول پورا ہوگیا کہ میں دوزخ کو جنوں اور انسانوں سب سے بھر دوں گا
+**English (Yusuf Ali):** Except those on whom thy Lord hath bestowed His Mercy: and for this did He create them: and the Word of thy Lord shall be fulfilled: "I will fill Hell with jinns and men all together."
 
 [Open on Quran.com](https://quran.com/11/119)
 
@@ -167,7 +167,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when they took him [out] and agreed to put him into the bottom of the well... But We inspired to him, "You will surely inform them [someday] about this affair of theirs while they do not perceive [your identity]."
 
-**Urdu (Fatah Muhammad Jalandhari):** غرض جب وہ اس کو لے گئے اور اس بات پر اتفاق کرلیا کہ اس کو گہرے کنویں میں ڈال دیں۔ تو ہم نے یوسف کی طرف وحی بھیجی کہ (ایک وقت ایسا آئے گا کہ) تم ان کے اس سلوک سے آگاہ کرو گے اور ان کو (اس وحی کی) کچھ خبر نہ ہوگی
+**English (Yusuf Ali):** So they did take him away, and they all agreed to throw him down to the bottom of the well: and We put into his heart (this Message): 'Of a surety thou shalt (one day) tell them the truth of this their affair while they know (thee) not'
 
 [Open on Quran.com](https://quran.com/12/15)
 
@@ -183,7 +183,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Take this, my shirt, and cast it over the face of my father; he will become seeing. And bring me your family, all together."
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ میرا کرتہ لے جاؤ اور اسے والد صاحب کے منہ پر ڈال دو۔ وہ بینا ہو جائیں گے۔ اور اپنے تمام اہل وعیال کو میرے پاس لے آؤ
+**English (Yusuf Ali):** "Go with this my shirt, and cast it over the face of my father: he will come to see (clearly). Then come ye (here) to me together with all your family."
 
 [Open on Quran.com](https://quran.com/12/93)
 
@@ -199,7 +199,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is from the news of the unseen which We reveal, [O Muḥammad], to you. And you were not with them when they put together their plan while they conspired.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) یہ اخبار غیب میں سے ہیں جو ہم تمہاری طرف بھیجتے ہیں اور جب برادران یوسف نے اپنی بات پر اتفاق کیا تھا اور وہ فریب کر رہے تھے تو تم ان کے پاس تو نہ تھے
+**English (Yusuf Ali):** Such is one of the stories of what happened unseen, which We reveal by inspiration unto thee; nor wast thou (present) with them then when they concerted their plans together in the process of weaving their plots.
 
 [Open on Quran.com](https://quran.com/12/102)
 

@@ -14,31 +14,31 @@ Originator · 45 ayahs
 
 ## Words in this surah (graph)
 
-- [[grwr - delusion]] — `غُرُور` · delusion
-- [[mxtlf - various]] — `مُخْتَلِف` · various
-- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
-- [[$rk - associating partners]] — `شِرْك` · associating partners
-- [[yEmr - granted life]] — `يُعَمَّرُ` · granted life
 - [[lwn - colors]] — `لَوْن` · colors
 - [[>*hb - remove]] — `أَذْهَبَ` · remove
+- [[$rk - associating partners]] — `شِرْك` · associating partners
+- [[yEmr - granted life]] — `يُعَمَّرُ` · granted life
+- [[mxtlf - various]] — `مُخْتَلِف` · various
+- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[grwr - delusion]] — `غُرُور` · delusion
 - [[$kwr - grateful]] — `شَكُور` · grateful
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[wzr - burden]] — `وِزْر` · burden
-- [[mA' - water]] — `ماء` · water
-- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[Hsn - good]] — `حُسْن` · good
+- [[qrbY - relatives]] — `قُرْبَى` · relatives
+- [[dAbp - moving creature]] — `دابَّة` · moving creature
+- [[fATr - creator]] — `فاطِر` · creator
+- [[n*yr - warner]] — `نَذِير` · warner
+- [[Astxrj - bring forth]] — `اسْتَخْرَجَ` · bring forth
 - [[dEA - call]] — `دَعا` · call
-- [[syq - will driven]] — `سِيقَ` · will driven
-- [[qbr - graves]] — `قَبْر` · graves
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[tlY - recited]] — `تَلَى` · recited
-- [[qmr - moon]] — `قَمَر` · moon
-- [[nkyr - my rejection]] — `نَكِير` · my rejection
-- [[nfwr - aversion]] — `نُفُور` · aversion
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[fqyr - poor]] — `فَقِير` · poor
+- [[gny - free need]] — `غَنِيّ` · free need
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[lyl - night]] — `لَيْل` · night
+- [[sAr - travel]] — `سارَ` · travel
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[qwp - strength]] — `قُوَّة` · strength
+- [[mqt - hatred]] — `مَقْت` · hatred
+- [[ftH - victory]] — `فَتَحَ` · victory
 
 ## Roots
 

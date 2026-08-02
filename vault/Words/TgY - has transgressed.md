@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:112 · [[011 Hud]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So remain on a right course as you have been commanded, [you] and those who have turned back with you [to Allāh], and do not transgress. Indeed, He is Seeing of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** سو (اے پیغمبر) جیسا تم کو حکم ہوتا ہے (اس پر) تم اور جو لوگ تمہارے ساتھ تائب ہوئے ہیں قائم رہو۔ اور حد سے تجاوز نہ کرنا۔ وہ تمہارے سب اعمال کو دیکھ رہا ہے
+**English (Yusuf Ali):** Therefore stand firm (in the straight Path) as thou art commanded,- thou and those who with thee turn (unto Allah); and transgress not (from the Path): for He seeth well all that ye do.
 
 [Open on Quran.com](https://quran.com/11/112)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Go to Pharaoh. Indeed, he has transgressed [i.e., tyrannized]."
 
-**Urdu (Fatah Muhammad Jalandhari):** تم فرعون کے پاس جاؤ (کہ) وہ سرکش ہو رہا ہے
+**English (Yusuf Ali):** "Go thou to Pharaoh, for he has indeed transgressed all bounds."
 
 [Open on Quran.com](https://quran.com/20/24)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Go, both of you, to Pharaoh. Indeed, he has transgressed.
 
-**Urdu (Fatah Muhammad Jalandhari):** دونوں فرعون کے پاس جاؤ وہ سرکش ہو رہا ہے
+**English (Yusuf Ali):** "Go, both of you, to Pharaoh, for he has indeed transgressed all bounds;
 
 [Open on Quran.com](https://quran.com/20/43)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "Our Lord, indeed we are afraid that he will hasten [punishment] against us or that he will transgress."
 
-**Urdu (Fatah Muhammad Jalandhari):** دونوں کہنے لگے کہ ہمارے پروردگار ہمیں خوف ہے کہ ہم پر تعدی کرنے لگے یا زیادہ سرکش ہوجائے
+**English (Yusuf Ali):** They (Moses and Aaron) said: "Our Lord! We fear lest he hasten with insolence against us, or lest he transgress all bounds."
 
 [Open on Quran.com](https://quran.com/20/45)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Saying], "Eat from the good things with which We have provided you and do not transgress [or oppress others] therein, lest My anger should descend upon you. And he upon whom My anger descends has certainly fallen [i.e., perished]."
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور حکم دیا کہ) جو پاکیزہ چیزیں ہم نے تم کو دی ہیں ان کو کھاؤ۔ اور اس میں حد سے نہ نکلنا۔ ورنہ تم پر میرا غضب نازل ہوگا۔ اور جس پر میرا غضب نازل ہوا وہ ہلاک ہوگیا
+**English (Yusuf Ali):** (Saying): "Eat of the good things We have provided for your sustenance, but commit no excess therein, lest My Wrath should justly descend on you: and those on whom descends My Wrath do perish indeed!
 
 [Open on Quran.com](https://quran.com/20/81)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The sight [of the Prophet (ﷺ)] did not swerve, nor did it transgress [its limit].
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کی آنکھ نہ تو اور طرف مائل ہوئی اور نہ (حد سے) آگے بڑھی
+**English (Yusuf Ali):** (His) sight never swerved, nor did it go wrong!
 
 [Open on Quran.com](https://quran.com/53/17)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That you not transgress within the balance.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہ ترازو (سے تولنے) میں حد سے تجاوز نہ کرو
+**English (Yusuf Ali):** In order that ye may not transgress (due) balance.
 
 [Open on Quran.com](https://quran.com/55/8)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, when the water overflowed, We carried you [i.e., your ancestors] in the sailing ship
 
-**Urdu (Fatah Muhammad Jalandhari):** جب پانی طغیانی پر آیا تو ہم نے تم (لوگوں )کو کشتی میں سوار کرلیا
+**English (Yusuf Ali):** We, when the water (of Noah's Flood) overflowed beyond its limits, carried you (mankind), in the floating (Ark),
 
 [Open on Quran.com](https://quran.com/69/11)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** "Go to Pharaoh. Indeed, he has transgressed.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور حکم دیا) کہ فرعون کے پاس جاؤ وہ سرکش ہو رہا ہے
+**English (Yusuf Ali):** "Go thou to Pharaoh for he has indeed transgressed all bounds:
 
 [Open on Quran.com](https://quran.com/79/17)
 
@@ -189,7 +189,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So as for he who transgressed
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جس نے سرکشی کی
+**English (Yusuf Ali):** Then, for such as had transgressed all bounds,
 
 [Open on Quran.com](https://quran.com/79/37)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 53:46 · [[053 An-Najm]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** From a sperm-drop when it is emitted
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی) نطفے سے جو (رحم میں) ڈالا جاتا ہے
+**English (Yusuf Ali):** From a seed when lodged (in its place);
 
 [Open on Quran.com](https://quran.com/53/46)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have you seen that which you emit?
 
-**Urdu (Fatah Muhammad Jalandhari):** دیکھو تو کہ جس (نطفے) کو تم (عورتوں کے رحم میں) ڈالتے ہو
+**English (Yusuf Ali):** Do ye then see?- The (human Seed) that ye throw out,-
 
 [Open on Quran.com](https://quran.com/56/58)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Had he not been a sperm from semen emitted?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا وہ منی کا جو رحم میں ڈالی جاتی ہے ایک قطرہ نہ تھا؟
+**English (Yusuf Ali):** Was he not a drop of sperm emitted (in lowly form)?
 
 [Open on Quran.com](https://quran.com/75/37)
 

@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:161 · [[003 Ali Imran]]
 
@@ -48,7 +48,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is not [attributable] to any prophet that he would act unfaithfully [in regard to war booty]. And whoever betrays, [taking unlawfully], will come with what he took on the Day of Resurrection. Then will every soul be [fully] compensated for what it earned, and they will not be wronged.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کبھی نہیں ہوسکتا کہ پیغمبر (خدا) خیانت کریں۔ اور خیانت کرنے والوں کو قیامت کے دن خیانت کی ہوئی چیز (خدا کے روبرو) لاحاضر کرنی ہوگی۔ پھر ہر شخص کو اس کے اعمال کا پورا پورا بدلا دیا جائے گا اور بےانصافی نہیں کی جائے گی
+**English (Yusuf Ali):** No prophet could (ever) be false to his trust. If any person is so false, He shall, on the Day of Judgment, restore what he misappropriated; then shall every soul receive its due,- whatever it earned,- and none shall be dealt with unjustly.
 
 [Open on Quran.com](https://quran.com/3/161)
 
@@ -64,7 +64,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the Jews say, "The hand of Allāh is chained." Chained are their hands, and cursed are they for what they say. Rather, both His hands are extended; He spends however He wills. And that which has been revealed to you from your Lord will surely increase many of them in transgression and disbelief. And We have cast among them animosity and hatred until the Day of Resurrection. Every time they kindled the fire of war [against you], Allāh extinguished it. And they strive throughout the land [causing] corruption, and Allāh does not like corrupters.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہود کہتے ہیں کہ خدا کا ہاتھ (گردن سے) بندھا ہوا ہے (یعنی الله بخیل ہے) انہیں کے ہاتھ باندھے جائیں اور ایسا کہنے کے سبب ان پر لعنت ہو (اس کا ہاتھ بندھا ہوا نہیں) بلکہ اس کے دونوں ہاتھ کھلے ہیں وہ جس طرح (اور جتنا) چاہتا ہے خرچ کرتا ہے اور (اے محمد) یہ (کتاب) جو تمہارے پروردگار کی طرف سے تم پر نازل ہوئی اس سے ان میں سے اکثر کی شرارت اور انکار اور بڑھے گا اور ہم نے ان کے باہم عداوت اور بغض قیامت تک کے لیے ڈال دیا ہے یہ جب لڑائی کے لیے آگ جلاتے ہیں خدا اس کو بجھا دیتا ہے اور یہ ملک میں فساد کے لیے دوڑے پھرتے ہیں اور خدا فساد کرنے والوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** The Jews say: "Allah's hand is tied up." Be their hands tied up and be they accursed for the (blasphemy) they utter. Nay, both His hands are widely outstretched: He giveth and spendeth (of His bounty) as He pleaseth. But the revelation that cometh to thee from Allah increaseth in most of them their obstinate rebellion and blasphemy. Amongst them we have placed enmity and hatred till the Day of Judgment. Every time they kindle the fire of war, Allah doth extinguish it; but they (ever) strive to do mischief on earth. And Allah loveth not those who do mischief.
 
 [Open on Quran.com](https://quran.com/5/64)
 
@@ -80,7 +80,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will have removed whatever is within their breasts of resentment, [while] flowing beneath them are rivers. And they will say, "Praise to Allāh, who has guided us to this; and we would never have been guided if Allāh had not guided us. Certainly the messengers of our Lord had come with the truth." And they will be called, "This is Paradise, which you have been made to inherit for what you used to do."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو کینے ان کے دلوں میں ہوں گے ہم سب نکال ڈالیں گے۔ ان کے محلوں کے نیچے نہریں بہہ رہی ہوں گی اور کہیں گے کہ خدا کا شکر ہے جس نے ہم کو یہاں کا راستہ دکھایا اور اگر خدا ہم کو رستہ نہ دکھاتا تو ہم رستہ نہ پا سکتے۔ بےشک ہمارا پروردگار کے رسول حق بات لے کر آئے تھے اور (اس روز) منادی کر دی جائے گی کہ تم ان اعمال کے صلے میں جو دنیا میں کرتے تھے اس بہشت کے وارث بنا دیئے گئے ہو
+**English (Yusuf Ali):** And We shall remove from their hearts any lurking sense of injury;- beneath them will be rivers flowing;- and they shall say: "Praise be to Allah, who hath guided us to this (felicity): never could we have found guidance, had it not been for the guidance of Allah: indeed it was the truth, that the messengers of our Lord brought unto us." And they shall hear the cry: "Behold! the garden before you! Ye have been made its inheritors, for your deeds (of righteousness)."
 
 [Open on Quran.com](https://quran.com/7/43)
 
@@ -96,7 +96,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who follow the Messenger, the unlettered prophet, whom they find written [i.e., described] in what they have of the Torah and the Gospel, who enjoins upon them what is right and prohibits them from what is wrong and makes lawful for them what is good and forbids them from what is evil and relieves them of their burden and the shackles which were upon them. So they who have believed in him, honored him, supported him and followed the light which was sent down with him - it is those who will be the successful.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ جو (محمدﷺ) رسول (الله) کی جو نبی اُمی ہیں پیروی کرتے ہیں جن (کے اوصاف) کو وہ اپنے ہاں تورات اور انجیل میں لکھا ہوا پاتے ہیں۔ وہ انہیں نیک کام کا حکم دیتے ہیں اور برے کام سے روکتے ہیں۔ اور پاک چیزوں کو ان کے لیے حلال کرتے ہیں اور ناپاک چیزوں کو ان پر حرام ٹہراتے ہیں اور ان پر سے بوجھ اور طوق جو ان (کے سر) پر (اور گلے میں) تھے اتارتے ہیں۔ تو جو لوگ ان پر ایمان لائے اور ان کی رفاقت کی اور انہیں مدد دی۔ اور جو نور ان کے ساتھ نازل ہوا ہے اس کی پیروی کی۔ وہی مراد پانے والے ہیں
+**English (Yusuf Ali):** "Those who follow the messenger, the unlettered Prophet, whom they find mentioned in their own (scriptures),- in the law and the Gospel;- for he commands them what is just and forbids them what is evil; he allows them as lawful what is good (and pure) and prohibits them from what is bad (and impure); He releases them from their heavy burdens and from the yokes that are upon them. So it is those who believe in him, honour him, help him, and follow the light which is sent down with him,- it is they who will prosper."
 
 [Open on Quran.com](https://quran.com/7/157)
 
@@ -112,7 +112,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you are astonished, [O Muḥammad] - then astonishing is their saying, "When we are dust, will we indeed be [brought] into a new creation?" Those are the ones who have disbelieved in their Lord, and those will have shackles upon their necks, and those are the companions of the Fire; they will abide therein eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم عجیب بات سننی چاہو تو کافروں کا یہ کہنا عجیب ہے کہ جب ہم (مر کر) مٹی ہو جائیں گے تو کیا ازسرنو پیدا ہوں گے؟ یہی لوگ ہیں جو اپنے پروردگار سے منکر ہوئے ہیں۔ اور یہی ہیں جن کی گردنوں میں طوق ہوں گے اور یہی اہل دوزخ ہیں کہ ہمیشہ اس میں (جلتے) رہیں گے
+**English (Yusuf Ali):** If thou dost marvel (at their want of faith), strange is their saying: "When we are (actually) dust, shall we indeed then be in a creation renewed?" They are those who deny their Lord! They are those round whose necks will be yokes (of servitude): they will be Companions of the Fire, to dwell therein (for aye)!
 
 [Open on Quran.com](https://quran.com/13/5)
 
@@ -128,7 +128,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will remove whatever is in their breasts of resentment, [so they will be] brothers, on thrones facing each other.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں میں جو کدورت ہوگی ان کو ہم نکال کر (صاف کر) دیں گے (گویا) بھائی بھائی تختوں پر ایک دوسرے کے سامنے بیٹھے ہوئے ہیں
+**English (Yusuf Ali):** And We shall remove from their hearts any lurking sense of injury: (they will be) brothers (joyfully) facing each other on thrones (of dignity).
 
 [Open on Quran.com](https://quran.com/15/47)
 
@@ -144,7 +144,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who were oppressed will say to those who were arrogant, "Rather, [it was your] conspiracy of night and day when you were ordering us to disbelieve in Allāh and attribute to Him equals." But they will [all] confide regret when they see the punishment; and We will put shackles on the necks of those who disbelieved. Will they be recompensed except for what they used to do?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کمزور لوگ بڑے لوگوں سے کہیں گے (نہیں) بلکہ (تمہاری) رات دن کی چالوں نے (ہمیں روک رکھا تھا) جب تم ہم سے کہتے تھے کہ ہم خدا سے کفر کریں اور اس کا شریک بنائیں۔ اور جب وہ عذاب کو دیکھیں گے تو دل میں پشیمان ہوں گے۔ اور ہم کافروں کی گردنوں میں طوق ڈال دیں گے۔ بس جو عمل وہ کرتے تھے ان ہی کا ان کو بدلہ ملے گا
+**English (Yusuf Ali):** Those who had been despised will say to the arrogant ones: "Nay! it was a plot (of yours) by day and by night: Behold! Ye (constantly) ordered us to be ungrateful to Allah and to attribute equals to Him!" They will declare (their) repentance when they see the Penalty: We shall put yokes on the necks of the Unbelievers: It would only be a requital for their (ill) Deeds.
 
 [Open on Quran.com](https://quran.com/34/33)
 
@@ -160,7 +160,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, We have put shackles on their necks, and they are to their chins, so they are with heads [kept] aloft.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم نے ان کی گردنوں میں طوق ڈال رکھے ہیں اور وہ ٹھوڑیوں تک (پھنسے ہوئے ہیں) تو ان کے سر اُلل رہے ہیں
+**English (Yusuf Ali):** We have put yokes round their necks right up to their chins, so that their heads are forced up (and they cannot see).
 
 [Open on Quran.com](https://quran.com/36/8)
 
@@ -176,7 +176,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When the shackles are around their necks and the chains; they will be dragged
 
-**Urdu (Fatah Muhammad Jalandhari):** جب کہ ان کی گردنوں میں طوق اور زنجیریں ہوں گی (اور) گھسیٹے جائیں گے
+**English (Yusuf Ali):** When the yokes (shall be) round their necks, and the chains; they shall be dragged along-
 
 [Open on Quran.com](https://quran.com/40/71)
 
@@ -192,7 +192,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [there is a share for] those who come after them, saying, "Our Lord, forgive us and our brothers who preceded us in faith and put not in our hearts [any] resentment toward those who have believed. Our Lord, indeed You are Kind and Merciful."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (ان کے لئے بھی) جو ان (مہاجرین) کے بعد آئے (اور) دعا کرتے ہیں کہ اے پروردگار ہمارے اور ہمارے بھائیوں کے جو ہم سے پہلے ایمان لائے ہیں گناہ معاف فرما اور مومنوں کی طرف سے ہمارے دل میں کینہ (وحسد) نہ پیدا ہونے دے۔ اے ہمارے پروردگار تو بڑا شفقت کرنے والا مہربان ہے
+**English (Yusuf Ali):** And those who came after them say: "Our Lord! Forgive us, and our brethren who came before us into the Faith, and leave not, in our hearts, rancour (or sense of injury) against those who have believed. Our Lord! Thou art indeed Full of Kindness, Most Merciful."
 
 [Open on Quran.com](https://quran.com/59/10)
 

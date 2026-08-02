@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 13:39 · [[013 Ar-Rad]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh eliminates what He wills or confirms, and with Him is the Mother of the Book.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا جس کو چاہتا ہے مٹا دیتا ہے اور (جس کو چاہتا ہے) قائم رکھتا ہے اور اسی کے پاس اصل کتاب ہے
+**English (Yusuf Ali):** Allah doth blot out or confirm what He pleaseth: with Him is the Mother of the Book.
 
 [Open on Quran.com](https://quran.com/13/39)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have made the night and day two signs, and We erased the sign of the night and made the sign of the day visible that you may seek bounty from your Lord and may know the number of years and the account [of time]. And everything We have set out in detail.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے دن اور رات کو دو نشانیاں بنایا ہے رات کی نشانی کو تاریک بنایا اور دن کی نشانی کو روشن۔ تاکہ تم اپنے پروردگار کا فضل (یعنی) روزی تلاش کرو اور برسوں کا شمار اور حساب جانو۔ اور ہم نے ہر چیز کو (بخوبی) تفصیل کردی ہے
+**English (Yusuf Ali):** We have made the Night and the Day as two (of Our) Signs: the Sign of the Night have We obscured, while the Sign of the Day We have made to enlighten you; that ye may seek bounty from your Lord, and that ye may know the number and count of the years: all things have We explained in detail.
 
 [Open on Quran.com](https://quran.com/17/12)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or do they say, "He has invented about Allāh a lie"? But if Allāh willed, He could seal over your heart. And Allāh eliminates falsehood and establishes the truth by His words. Indeed, He is Knowing of that within the breasts.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ کہتے ہیں کہ پیغمبر نے خدا پر جھوٹ باندھ لیا ہے؟ اگر خدا چاہے تو (اے محمدﷺ) تمہارے دل پر مہر لگا دے۔ اور خدا جھوٹ کو نابود کرتا اور اپنی باتوں سے حق کو ثابت کرتا ہے۔ بےشک وہ سینے تک کی باتوں سے واقف ہے
+**English (Yusuf Ali):** What! Do they say, "He has forged a falsehood against Allah"? But if Allah willed, He could seal up thy heart. And Allah blots out Vanity, and proves the Truth by His Words. For He knows well the secrets of all hearts.
 
 [Open on Quran.com](https://quran.com/42/24)
 

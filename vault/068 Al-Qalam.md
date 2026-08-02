@@ -14,31 +14,31 @@ The Pen · 52 ayahs
 
 ## Words in this surah (graph)
 
-- [[gd - tomorrow]] — `غَدَ` · tomorrow
 - [[sjwd - prostrate]] — `سُجُود` · prostrate
 - [[mSbH - morning]] — `مُصْبِح` · morning
 - [[mjnwn - madman]] — `مَجْنُون` · madman
-- [[xyr - better]] — `خَيْر` · better
-- [[mhtdy - guided ones]] — `مُهْتَدي` · guided ones
-- [[bnY - children]] — `بُنَىّ` · children
-- [[TAgy - transgressing]] — `طاغي` · transgressing
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[rAgb - turn hopes]] — `راغِب` · turn hopes
-- [[EZym - great]] — `عَظِيم` · great
+- [[gd - tomorrow]] — `غَدَ` · tomorrow
+- [[mEtd - transgressor]] — `مُعْتَد` · transgressor
 - [[dEA - call]] — `دَعا` · call
-- [[tlY - recited]] — `تَلَى` · recited
-- [[k$f - we removed]] — `كَشَفَ` · we removed
-- [[gyb - unseen]] — `غَيْب` · unseen
-- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
-- [[bSr - vision]] — `بَصَر` · vision
+- [[rAgb - turn hopes]] — `راغِب` · turn hopes
+- [[AdArk - arrested]] — `ادّارَكَ` · arrested
 - [[Dl - lost]] — `ضَلَّ` · lost
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[xA$E - humbled]] — `خاشِع` · humbled
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[nAdY - he called]] — `نادَى` · he called
+- [[mhyn - despised]] — `مَهِين` · despised
+- [[sAq - shins]] — `ساق` · shins
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[bAlgp - conclusive]] — `بالِغَة` · conclusive
+- [[drs - studying it]] — `دَرَسُ` · studying it
 - [[mHrwm - deprived]] — `مَحْرُوم` · deprived
-- [[s>l - ask]] — `سَأَلَ` · ask
-- [[gyr - without]] — `غَيْر` · without
-- [[DAl - astray]] — `ضالّ` · astray
-- [[sbHAn - glory]] — `سُبْحان` · glory
+- [[EZym - great]] — `عَظِيم` · great
+- [[>wl - first]] — `أَوَّل` · first
+- [[tlY - recited]] — `تَلَى` · recited
+- [[ktb - prescribed]] — `كَتَبَ` · prescribed
 
 ## Roots
 

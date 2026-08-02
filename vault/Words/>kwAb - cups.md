@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 43:71 · [[043 Az-Zukhruf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Circulated among them will be plates and vessels of gold. And therein is whatever the souls desire and [what] delights the eyes, and you will abide therein eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان پر سونے کی پرچوں اور پیالوں کا دور چلے گا۔ اور وہاں جو جی چاہے اور جو آنکھوں کو اچھا لگے (موجود ہوگا) اور (اے اہل جنت) تم اس میں ہمیشہ رہو گے
+**English (Yusuf Ali):** To them will be passed round, dishes and goblets of gold: there will be there all that the souls could desire, all that their eyes could delight in: and ye shall abide therein (for eye).
 
 [Open on Quran.com](https://quran.com/43/71)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** With vessels, pitchers and a cup [of wine] from a flowing spring -
 
-**Urdu (Fatah Muhammad Jalandhari):** یعنی آبخورے اور آفتابے اور صاف شراب کے گلاس لے لے کر
+**English (Yusuf Ali):** With goblets, (shining) beakers, and cups (filled) out of clear-flowing fountains:
 
 [Open on Quran.com](https://quran.com/56/18)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there will be circulated among them vessels of silver and cups having been [created] clear [as glass],
 
-**Urdu (Fatah Muhammad Jalandhari):** خدام) چاندی کے باسن لئے ہوئے ان کے اردگرد پھریں گے اور شیشے کے (نہایت شفاف) گلاس
+**English (Yusuf Ali):** And amongst them will be passed round vessels of silver and goblets of crystal,-
 
 [Open on Quran.com](https://quran.com/76/15)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And cups put in place
 
-**Urdu (Fatah Muhammad Jalandhari):** اور آبخورے (قرینے سے) رکھے ہوئے
+**English (Yusuf Ali):** Goblets placed (ready),
 
 [Open on Quran.com](https://quran.com/88/14)
 

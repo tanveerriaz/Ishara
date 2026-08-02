@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 40:71 · [[040 Ghafir]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When the shackles are around their necks and the chains; they will be dragged
 
-**Urdu (Fatah Muhammad Jalandhari):** جب کہ ان کی گردنوں میں طوق اور زنجیریں ہوں گی (اور) گھسیٹے جائیں گے
+**English (Yusuf Ali):** When the yokes (shall be) round their necks, and the chains; they shall be dragged along-
 
 [Open on Quran.com](https://quran.com/40/71)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then into a chain whose length is seventy cubits insert him."
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر زنجیر سے جس کی ناپ ستر گز ہے جکڑ دو
+**English (Yusuf Ali):** "Further, make him march in a chain, whereof the length is seventy cubits!
 
 [Open on Quran.com](https://quran.com/69/32)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, We have prepared for the disbelievers chains and shackles and a blaze.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم نے کافروں کے لئے زنجیر اور طوق اور دہکتی آگ تیار کر رکھی ہے
+**English (Yusuf Ali):** For the Rejecters we have prepared chains, yokes, and a blazing Fire.
 
 [Open on Quran.com](https://quran.com/76/4)
 

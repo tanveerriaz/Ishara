@@ -38,7 +38,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:89 · [[002 Al-Baqarah]]
 
@@ -52,7 +52,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when there came to them a Book [i.e., the Qur’ān] from Allāh confirming that which was with them - although before they used to pray for victory against those who disbelieved - but [then] when there came to them that which they recognized, they disbelieved in it; so the curse of Allāh will be upon the disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب الله کے ہاں سے ان کے پاس کتاب آئی جو ان کی (آسمانی) کتاب کی بھی تصدیق کرتی ہے، اور وہ پہلے (ہمیشہ) کافروں پر فتح مانگا کرتے تھے، تو جس چیز کو وہ خوب پہچانتے تھے، جب ان کے پاس آپہنچی تو اس سے کافر ہو گئے۔ پس کافروں پر الله کی لعنت
+**English (Yusuf Ali):** And when there comes to them a Book from Allah, confirming what is with them,- although from of old they had prayed for victory against those without Faith,- when there comes to them that which they (should) have recognised, they refuse to believe in it but the curse of Allah is on those without Faith.
 
 [Open on Quran.com](https://quran.com/2/89)
 
@@ -68,7 +68,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those to whom We gave the Scripture know him [i.e., Prophet Muḥammad (ﷺ)] as they know their own sons. But indeed, a party of them conceal the truth while they know [it].
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں کو ہم نے کتاب دی ہے، وہ ان (پیغمبر آخرالزماں) کو اس طرح پہچانتے ہیں، جس طرح اپنے بیٹوں کو پہچانا کرتے ہیں، مگر ایک فریق ان میں سے سچی بات کو جان بوجھ کر چھپا رہا ہے
+**English (Yusuf Ali):** The people of the Book know this as they know their own sons; but some of them conceal the truth which they themselves know.
 
 [Open on Quran.com](https://quran.com/2/146)
 
@@ -84,7 +84,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Charity is] for the poor who have been restricted for the cause of Allāh, unable to move about in the land. An ignorant [person] would think them self-sufficient because of their restraint, but you will know them by their [characteristic] sign. They do not ask people persistently [or at all]. And whatever you spend of good - indeed, Allāh is Knowing of it.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور ہاں تم جو خرچ کرو گے تو) ان حاجتمندوں کے لئے جو خدا کی راہ میں رکے بیٹھے ہیں اور ملک میں کسی طرف جانے کی طاقت نہیں رکھتے (اور مانگنے سے عار رکھتے ہیں) یہاں تک کہ نہ مانگنے کی وجہ سے ناواقف شخص ان کو غنی خیال کرتا ہے اور تم قیافے سے ان کو صاف پہچان لو (کہ حاجتمند ہیں اور شرم کے سبب) لوگوں سے (منہ پھوڑ کر اور) لپٹ کر نہیں مانگ سکتے اور تم جو مال خرچ کرو گے کچھ شک نہیں کہ خدا اس کو جانتا ہے
+**English (Yusuf Ali):** (Charity is) for those in need, who, in Allah's cause are restricted (from travel), and cannot move about in the land, seeking (For trade or work): the ignorant man thinks, because of their modesty, that they are free from want. Thou shalt know them by their (Unfailing) mark: They beg not importunately from all the sundry. And whatever of good ye give, be assured Allah knoweth it well.
 
 [Open on Quran.com](https://quran.com/2/273)
 
@@ -100,7 +100,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when they hear what has been revealed to the Messenger, you see their eyes overflowing with tears because of what they have recognized of the truth. They say, "Our Lord, we have believed, so register us among the witnesses.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب اس (کتاب) کو سنتے ہیں جو (سب سے پہلے) پیغمبر (محمدﷺ) پر نازل ہوئی تو تم دیکھتے ہو کہ ان کی آنکھوں سے آنسو جاری ہو جاتے ہیں اس لیے کہ انہوں نے حق بات پہچان لی اور وہ (خدا کی جناب میں) عرض کرتے ہیں کہ اے پروردگار ہم ایمان لے آئے تو ہم کو ماننے والوں میں لکھ لے
+**English (Yusuf Ali):** And when they listen to the revelation received by the Messenger, thou wilt see their eyes overflowing with tears, for they recognise the truth: they pray: "Our Lord! we believe; write us down among the witnesses.
 
 [Open on Quran.com](https://quran.com/5/83)
 
@@ -116,7 +116,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those to whom We have given the Scripture recognize it as they recognize their [own] sons. Those who will lose themselves [in the Hereafter] do not believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں کو ہم نے کتاب دی ہے وہ ان (ہمارے پیغمبرﷺ) کو اس طرح پہچانتے ہیں جس طرح اپنے بیٹوں کو پہچانا کرتے ہیں جنہوں نے اپنے تئیں نقصان میں ڈال رکھا ہے وہ ایمان نہیں لاتے
+**English (Yusuf Ali):** Those to whom We have given the Book know this as they know their own sons. Those who have lost their own souls refuse therefore to believe.
 
 [Open on Quran.com](https://quran.com/6/20)
 
@@ -132,7 +132,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And between them will be a partition [i.e., wall], and on [its] elevations are men who recognize all by their mark. And they call out to the companions of Paradise, "Peace be upon you." They have not [yet] entered it, but they long intensely.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان دونوں (یعنی بہشت اور دوزخ) کے درمیان (اعراف نام) ایک دیوار ہو گی اور اعراف پر کچھ آدمی ہوں گے جو سب کو ان کی صورتوں سے پہچان لیں گے۔ تو وہ اہل بہشت کو پکار کر کہیں گے کہ تم پر سلامتی ہو۔ یہ لوگ بھی بہشت میں داخل تو نہیں ہوں گے مگر امید رکھتے ہوں گے
+**English (Yusuf Ali):** Between them shall be a veil, and on the heights will be men who would know every one by his marks: they will call out to the Companions of the Garden, "peace on you": they will not have entered, but they will have an assurance (thereof).
 
 [Open on Quran.com](https://quran.com/7/46)
 
@@ -148,7 +148,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the companions of the Elevations will call to men [within Hell] whom they recognize by their mark, saying, "Of no avail to you was your gathering and [the fact] that you were arrogant."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اہل اعراف (کافر) لوگوں کو جنہیں ان کی صورتوں سے شناخت کرتے ہوں گے پکاریں گے اور کہیں گے (کہ آج) نہ تو تمہاری جماعت ہی تمہارے کچھ کام آئی اور نہ تمہارا تکبّر (ہی سودمند ہوا)
+**English (Yusuf Ali):** The men on the heights will call to certain men whom they will know from their marks, saying: "Of what profit to you were your hoards and your arrogant ways?
 
 [Open on Quran.com](https://quran.com/7/48)
 
@@ -164,7 +164,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Take what is given freely, enjoin what is good, and turn away from the ignorant.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) عفو اختیار کرو اور نیک کام کرنے کا حکم دو اور جاہلوں سے کنارہ کرلو
+**English (Yusuf Ali):** Hold to forgiveness; command what is right; But turn away from the ignorant.
 
 [Open on Quran.com](https://quran.com/7/199)
 
@@ -180,7 +180,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the brothers of Joseph came [seeking food], and they entered upon him; and he recognized them, but he was to them unknown.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یوسف کے بھائی (کنعان سے مصر میں غلّہ خریدنے کے لیے) آئے تو یوسف کے پاس گئے تو یوسف نے ان کو پہچان لیا اور وہ ان کو نہ پہچان سکے
+**English (Yusuf Ali):** Then came Joseph's brethren: they entered his presence, and he knew them, but they knew him not.
 
 [Open on Quran.com](https://quran.com/12/58)
 
@@ -196,7 +196,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [Joseph] said to his servants, "Put their merchandise into their saddlebags so they might recognize it when they have gone back to their people that perhaps they will [again] return."
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور یوسف نے) اپنے خدام سے کہا کہ ان کا سرمایہ (یعنی غلّے کی قیمت) ان کے شلیتوں میں رکھ دو عجب نہیں کہ جب یہ اپنے اہل وعیال میں جائیں تو اسے پہچان لیں (اور) عجب نہیں کہ پھر یہاں آئیں
+**English (Yusuf Ali):** And (Joseph) told his servants to put their stock-in-trade (with which they had bartered) into their saddle-bags, so they should know it only when they returned to their people, in order that they might come back.
 
 [Open on Quran.com](https://quran.com/12/62)
 

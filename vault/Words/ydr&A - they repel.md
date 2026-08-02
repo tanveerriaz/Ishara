@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:168 · [[003 Ali Imran]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who said about their brothers while sitting [at home], "If they had obeyed us, they would not have been killed." Say, "Then prevent death from yourselves, if you should be truthful."
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ خود تو (جنگ سے بچ کر) بیٹھ ہی رہے تھے مگر (جنہوں نے راہ خدا میں جانیں قربان کردیں) اپنے (ان) بھائیوں کے بارے میں بھی کہتے ہیں کہ اگر ہمارا کہا مانتے تو قتل نہ ہوتے۔ کہہ دو کہ اگر سچے ہو تو اپنے اوپر سے موت کو ٹال دینا
+**English (Yusuf Ali):** (They are) the ones that say, (of their brethren slain), while they themselves sit (at ease): "If only they had listened to us they would not have been slain." Say: "Avert death from your own selves, if ye speak the truth."
 
 [Open on Quran.com](https://quran.com/3/168)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who are patient, seeking the face [i.e., acceptance] of their Lord, and establish prayer and spend from what We have provided for them secretly and publicly and prevent evil with good - those will have the good consequence of [this] home -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو پروردگار کی خوشنودی حاصل کرنے کے لیے (مصائب پر) صبر کرتے ہیں اور نماز پڑھتے ہیں اور جو (مال) ہم نے ان کو دیا ہے اس میں سے پوشیدہ اور ظاہر خرچ کرتے ہیں اور نیکی سے برائی دور کرتے ہیں یہی لوگ ہیں جن کے لیے عاقبت کا گھر ہے
+**English (Yusuf Ali):** Those who patiently persevere, seeking the countenance of their Lord; Establish regular prayers; spend, out of (the gifts) We have bestowed for their sustenance, secretly and openly; and turn off Evil with good: for such there is the final attainment of the (eternal) home,-
 
 [Open on Quran.com](https://quran.com/13/22)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But it will prevent punishment from her if she gives four testimonies [swearing] by Allāh that indeed, he is of the liars.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور عورت سے سزا کو یہ بات ٹال سکتی ہے کہ وہ پہلے چار بار خدا کی قسم کھائے کہ بےشک یہ جھوٹا ہے
+**English (Yusuf Ali):** But it would avert the punishment from the wife, if she bears witness four times (with an oath) By Allah, that (her husband) is telling a lie;
 
 [Open on Quran.com](https://quran.com/24/8)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those will be given their reward twice for what they patiently endured and [because] they avert evil through good, and from what We have provided them they spend.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں کو دگنا بدلہ دیا جائے گا کیونکہ صبر کرتے رہے ہیں اور بھلائی کے ساتھ برائی کو دور کرتے ہیں اور جو (مال) ہم نے اُن کو دیا ہے اس میں سے خرچ کرتے ہیں
+**English (Yusuf Ali):** Twice will they be given their reward, for that they have persevered, that they avert Evil with Good, and that they spend (in charity) out of what We have given them.
 
 [Open on Quran.com](https://quran.com/28/54)
 

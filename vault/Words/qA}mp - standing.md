@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:113 · [[003 Ali Imran]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They are not [all] the same; among the People of the Scripture is a community standing [in obedience], reciting the verses of Allāh during periods of the night and prostrating [in prayer].
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ بھی سب ایک جیسے نہیں ہیں ان اہلِ کتاب میں کچھ لوگ (حکمِ خدا پر) قائم بھی ہیں جو رات کے وقت خدا کی آیتیں پڑھتے اور (اس کے آگے) سجدہ کرتے ہیں
+**English (Yusuf Ali):** Not all of them are alike: Of the People of the Book are a portion that stand (For the right): They rehearse the Signs of Allah all night long, and they prostrate themselves in adoration.
 
 [Open on Quran.com](https://quran.com/3/113)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And his wife was standing, and she smiled. Then We gave her good tidings of Isaac and after Isaac, Jacob.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ابراہیم کی بیوی (جو پاس) کھڑی تھی، ہنس پڑی تو ہم نے اس کو اسحاق کی اور اسحاق کے بعد یعقوب کی خوشخبری دی
+**English (Yusuf Ali):** And his wife was standing (there), and she laughed: But we gave her glad tidings of Isaac, and after him, of Jacob.
 
 [Open on Quran.com](https://quran.com/11/71)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And I do not think the Hour will occur. And even if I should be brought back to my Lord, I will surely find better than this as a return."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور نہ خیال کرتا ہوں کہ قیامت برپا ہو۔ اور اگر میں اپنے پروردگار کی طرف لوٹایا بھی جاؤں تو (وہاں) ضرور اس سے اچھی جگہ پاؤں گا
+**English (Yusuf Ali):** "Nor do I deem that the Hour (of Judgment) will (ever) come: Even if I am brought back to my Lord, I shall surely find (there) something better in exchange."
 
 [Open on Quran.com](https://quran.com/18/36)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if We let him taste mercy from Us after an adversity which has touched him, he will surely say, "This is [due] to me, and I do not think the Hour will occur; and [even] if I should be returned to my Lord, indeed, for me there will be with Him the best." But We will surely inform those who disbelieved about what they did, and We will surely make them taste a massive punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تکلیف پہنچنے کے بعد ہم اس کو اپنی رحمت کا مزہ چکھاتے ہیں تو کہتا ہے کہ یہ تو میرا حق تھا اور میں نہیں خیال کرتا کہ قیامت برپا ہو۔ اور اگر (قیامت سچ مچ بھی ہو اور) میں اپنے پروردگار کی طرف لوٹایا بھی جاؤں تو میرے لئے اس کے ہاں بھی خوشحالی ہے۔ پس کافر جو عمل کیا کرتے وہ ہم ان کو ضرور جتائیں گے اور ان کو سخت عذاب کا مزہ چکھائیں گے
+**English (Yusuf Ali):** When we give him a taste of some Mercy from Ourselves, after some adversity has touched him, he is sure to say, "This is due to my (merit): I think not that the Hour (of Judgment) will (ever) be established; but if I am brought back to my Lord, I have (much) good (stored) in His sight!" But We will show the Unbelievers the truth of all that they did, and We shall give them the taste of a severe Penalty.
 
 [Open on Quran.com](https://quran.com/41/50)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Whatever you have cut down of [their] palm trees or left standing on their trunks - it was by permission of Allāh and so He would disgrace the defiantly disobedient.
 
-**Urdu (Fatah Muhammad Jalandhari):** (مومنو) کھجور کے جو درخت تم نے کاٹ ڈالے یا ان کو اپنی جڑوں پر کھڑا رہنے دیا سو خدا کے حکم سے تھا اور مقصود یہ تھا کہ وہ نافرمانوں کو رسوا کرے
+**English (Yusuf Ali):** Whether ye cut down (O ye Muslim!) The tender palm-trees, or ye left them standing on their roots, it was by leave of Allah, and in order that He might cover with shame the rebellious transgresses.
 
 [Open on Quran.com](https://quran.com/59/5)
 

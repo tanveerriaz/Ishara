@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 5:53 · [[005 Al-Maidah]]
 
@@ -53,7 +53,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who believe will say, "Are these the ones who swore by Allāh their strongest oaths that indeed they were with you?" Their deeds have become worthless, and they have become losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس (وقت) مسلمان (تعجب سے) کہیں گے کہ کیا یہ وہی ہیں جو خدا کی سخت سخت قسمیں کھایا کرتے تھے کہ ہم تمہارے ساتھ ہیں ان کےعمل اکارت گئے اور وہ خسارے میں پڑ گئے
+**English (Yusuf Ali):** And those who believe will say: "Are these the men who swore their strongest oaths by Allah, that they were with you?" All that they do will be in vain, and they will fall into (nothing but) ruin.
 
 [Open on Quran.com](https://quran.com/5/53)
 
@@ -69,7 +69,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, testimony [should be taken] among you when death approaches one of you at the time of bequest - [that of] two just men from among you or two others from outside if you are traveling through the land and the disaster of death should strike you. Detain them after the prayer and let them both swear by Allāh if you doubt [their testimony, saying], "We will not exchange it [i.e., our oath] for a price [i.e., worldly gain], even if he should be a near relative, and we will not withhold the testimony of [i.e., ordained by] Allāh. Indeed, we would then be of the sinful."
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم میں سے کسی کی موت آموجود ہو تو شہادت (کا نصاب) یہ ہے کہ وصیت کے وقت تم (مسلمانوں) میں سے دو عادل (یعنی صاحب اعتبار) گواہ ہوں یا اگر (مسلمان نہ ملیں اور) تم سفر کر رہے ہو اور (اس وقت) تم پر موت کی مصیبت واقع ہو تو کسی دوسرے مذہب کے دو (شخصوں کو) گواہ (کر لو) اگر تم کو ان گواہوں کی نسبت کچھ شک ہو تو ان کو (عصر کی) نماز کے بعد کھڑا کرو اور دونوں خدا کی قسمیں کھائیں کہ ہم شہادت کا کچھ عوض نہیں لیں گے گو ہمارا رشتہ دار ہی ہو اور نہ ہم الله کی شہادت کو چھپائیں گے اگر ایسا کریں گے تو گنہگار ہوں گے
+**English (Yusuf Ali):** O ye who believe! When death approaches any of you, (take) witnesses among yourselves when making bequests,- two just men of your own (brotherhood) or others from outside if ye are journeying through the earth, and the chance of death befalls you (thus). If ye doubt (their truth), detain them both after prayer, and let them both swear by Allah: "We wish not in this for any worldly gain, even though the (beneficiary) be our near relation: we shall hide not the evidence before Allah: if we do, then behold! the sin be upon us!"
 
 [Open on Quran.com](https://quran.com/5/106)
 
@@ -85,7 +85,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if it is found that those two were guilty of sin [i.e., perjury], let two others stand in their place [who are] foremost [in claim] from those who have a lawful right. And let them swear by Allāh, "Our testimony is truer than their testimony, and we have not transgressed. Indeed, we would then be of the wrongdoers."
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اگر معلوم ہو جائے کہ ان دونوں نے (جھوٹ بول کر) گناہ حاصل کیا ہے تو جن لوگوں کا انہوں نے حق مارنا چاہا تھا ان میں سے ان کی جگہ اور دو گواہ کھڑے ہوں جو (میت سے) قرابت قریبہ رکھتے ہوں پھر وہ خدا کی قسمیں کھائیں کہ ہماری شہادت ان کی شہادت سے بہت اچھی ہے اور ہم نے کوئی زیادتی نہیں کی ایسا کیا ہو تو ہم بےانصاف ہیں
+**English (Yusuf Ali):** But if it gets known that these two were guilty of the sin (of perjury), let two others stand forth in their places,- nearest in kin from among those who claim a lawful right: let them swear by Allah: "We affirm that our witness is truer than that of those two, and that we have not trespassed (beyond the truth): if we did, behold! the wrong be upon us!"
 
 [Open on Quran.com](https://quran.com/5/107)
 
@@ -101,7 +101,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they swear by Allāh their strongest oaths that if a sign came to them, they would surely believe in it. Say, "The signs are only with [i.e., from] Allāh." And what will make you perceive that even if it [i.e., a sign] came, they would not believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر ان کے پاس کوئی نشانی آئے تو وہ اس پر ضروری ایمان لے آئیں۔ کہہ دو کہ نشانیاں تو سب خدا ہی کے پاس ہیں۔ اور (مومنو!) تمہیں کیا معلوم ہے (یہ تو ایسے بدبخت ہیں کہ ان کے پاس) نشانیاں آ بھی جائیں تب بھی ایمان نہ لائیں
+**English (Yusuf Ali):** They swear their strongest oaths by Allah, that if a (special) sign came to them, by it they would believe. Say: "Certainly (all) signs are in the power of Allah: but what will make you (Muslims) realise that (even) if (special) signs came, they will not believe."?
 
 [Open on Quran.com](https://quran.com/6/109)
 
@@ -117,7 +117,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh will say], "Are these the ones whom you [inhabitants of Hell] swore that Allāh would never offer them mercy? Enter Paradise, [O people of the Elevations]. No fear will there be concerning you, nor will you grieve."
 
-**Urdu (Fatah Muhammad Jalandhari):** (پھر مومنوں کی طرف اشارہ کر کے کہیں گے) کیا یہ وہی لوگ ہیں جن کے بارے میں تم قسمیں کھایا کرتے تھے کہ خدا اپنی رحمت سے ان کی دستگیری نہیں کرے گا (تو مومنو) تم بہشت میں داخل ہو جاؤ تمہیں کچھ خوف نہیں اور نہ تم کو کچھ رنج واندوہ ہوگا
+**English (Yusuf Ali):** "Behold! are these not the men whom you swore that Allah with His Mercy would never bless? Enter ye the Garden: no fear shall be on you, nor shall ye grieve."
 
 [Open on Quran.com](https://quran.com/7/49)
 
@@ -133,7 +133,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And, [O Muḥammad], warn the people of a Day when the punishment will come to them and those who did wrong will say, "Our Lord, delay us for a short term; we will answer Your call and follow the messengers." [But it will be said], "Had you not sworn, before, that for you there would be no cessation?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور لوگوں کو اس دن سے آگاہ کردو جب ان پر عذاب آجائے گا تب ظالم لوگ کہیں گے کہ اے ہمارے پروردگار ہمیں تھوڑی سی مدت مہلت عطا کر۔ تاکہ تیری دعوت (توحید) قبول کریں اور (تیرے) پیغمبروں کے پیچھے چلیں (تو جواب ملے گا) کیا تم پہلے قسمیں نہیں کھایا کرتے تھے کہ تم کو (اس حال سے جس میں تم ہو) زوال (اور قیامت کو حساب اعمال) نہیں ہوگا
+**English (Yusuf Ali):** So warn mankind of the Day when the Wrath will reach them: then will the wrong-doers say: "Our Lord! respite us (if only) for a short term: we will answer Thy call, and follow the messengers!" "What! were ye not wont to swear aforetime that ye should suffer no decline?
 
 [Open on Quran.com](https://quran.com/14/44)
 
@@ -149,7 +149,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they swear by Allāh their strongest oaths [that] Allāh will not resurrect one who dies. But yes - [it is] a true promise [binding] upon Him, but most of the people do not know.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ خدا کی سخت سخت قسمیں کھاتے ہیں کہ جو مرجاتا ہے خدا اسے (قیامت کے دن قبر سے) نہیں اٹھائے گا۔ ہرگز نہیں۔ یہ (خدا کا) وعدہ سچا ہے اور اس کا پورا کرنا اسے ضرور ہے لیکن اکثر لوگ نہیں جانتے
+**English (Yusuf Ali):** They swear their strongest oaths by Allah, that Allah will not raise up those who die: Nay, but it is a promise (binding) on Him in truth: but most among mankind realise it not.
 
 [Open on Quran.com](https://quran.com/16/38)
 
@@ -165,7 +165,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they swear by Allāh their strongest oaths that if you ordered them, they would go forth [in Allāh's cause]. Say, "Do not swear. [Such] obedience is known. Indeed, Allāh is [fully] Aware of that which you do."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (یہ) خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر تم ان کو حکم دو تو (سب گھروں سے) نکل کھڑے ہوں۔ کہہ دو کہ قسمیں مت کھاؤ، پسندیدہ فرمانبرداری (درکار ہے)۔ بےشک خدا تمہارے سب اعمال سے خبردار ہے
+**English (Yusuf Ali):** They swear their strongest oaths by Allah that, if only thou wouldst command them, they would leave (their homes). Say: "Swear ye not; Obedience is (more) reasonable; verily, Allah is well acquainted with all that ye do."
 
 [Open on Quran.com](https://quran.com/24/53)
 
@@ -181,7 +181,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the Day the Hour appears the criminals will swear they had remained but an hour. Thus they were deluded.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس روز قیامت برپا ہوگی گنہگار قسمیں کھائیں گے کہ وہ (دنیا میں) ایک گھڑی سے زیادہ نہیں رہے تھے۔ اسی طرح وہ (رستے سے) اُلٹے جاتے تھے
+**English (Yusuf Ali):** On the Day that the Hour (of Reckoning) will be established, the transgressors will swear that they tarried not but an hour: thus were they used to being deluded!
 
 [Open on Quran.com](https://quran.com/30/55)
 
@@ -197,7 +197,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they swore by Allāh their strongest oaths that if a warner came to them, they would be more guided than [any] one of the [previous] nations. But when a warner came to them, it did not increase them except in aversion
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر ان کے پاس کوئی ہدایت کرنے والا آئے تو ہر ایک اُمت سے بڑھ کر ہدایت پر ہوں۔ مگر جب ان کے پاس ہدایت کرنے والا آیا تو اس سے ان کو نفرت ہی بڑھی
+**English (Yusuf Ali):** They swore their strongest oaths by Allah that if a warner came to them, they would follow his guidance better than any (other) of the Peoples: But when a warner came to them, it has only increased their flight (from righteousness),-
 
 [Open on Quran.com](https://quran.com/35/42)
 

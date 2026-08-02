@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 8:59 · [[008 Al-Anfal]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And let not those who disbelieve think they will escape. Indeed, they will not cause failure [to Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کافر یہ نہ خیال کریں کہ وہ بھاگ نکلے ہیں۔ وہ (اپنی چالوں سے ہم کو) ہرگز عاجز نہیں کرسکتے
+**English (Yusuf Ali):** Let not the unbelievers think that they can get the better (of the godly): they will never frustrate (them).
 
 [Open on Quran.com](https://quran.com/8/59)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have they not traveled through the land and observed how was the end of those before them? And they were greater than them in power. But Allāh is not to be caused failure [i.e., prevented] by anything in the heavens or on the earth. Indeed, He is ever Knowing and Competent.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے زمین میں کبھی سیر نہیں کی تاکہ دیکھتے کہ جو لوگ ان سے پہلے تھے ان کا انجام کیا ہوا حالانکہ وہ ان سے قوت میں بہت زیادہ تھے۔ اور خدا ایسا نہیں کہ آسمانوں اور زمین میں کوئی چیز اس کو عاجز کرسکے۔ وہ علم والا (اور) قدرت والا ہے
+**English (Yusuf Ali):** Do they not travel through the earth, and see what was the End of those before them,- though they were superior to them in strength? Nor is Allah to be frustrated by anything whatever in the heavens or on earth: for He is All-Knowing. All-Powerful.
 
 [Open on Quran.com](https://quran.com/35/44)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And we have become certain that we will never cause failure to Allāh upon earth, nor can we escape Him by flight.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ ہم نے یقین کرلیا ہے کہ ہم زمین میں (خواہ کہیں ہوں) خدا کو ہرا نہیں سکتے اور نہ بھاگ کر اس کو تھکا سکتے ہیں
+**English (Yusuf Ali):** 'But we think that we can by no means frustrate Allah throughout the earth, nor can we frustrate Him by flight.
 
 [Open on Quran.com](https://quran.com/72/12)
 

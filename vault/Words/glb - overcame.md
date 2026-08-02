@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:249 · [[002 Al-Baqarah]]
 
@@ -48,7 +48,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when Saul went forth with the soldiers, he said, "Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand." But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, "There is no power for us today against Goliath and his soldiers." But those who were certain that they would meet Allāh said, "How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient."
 
-**Urdu (Fatah Muhammad Jalandhari):** غرض جب طالوت فوجیں لے کر روانہ ہوا تو اس نے (ان سے) کہا کہ خدا ایک نہر سے تمہاری آزمائش کرنے والا ہے۔ جو شخص اس میں سے پانی پی لے گا (اس کی نسبت تصور کیا جائے گا کہ) وہ میرا نہیں۔ اور جو نہ پئے گا وہ (سمجھا جائے گا کہ) میرا ہے۔ ہاں اگر کوئی ہاتھ سے چلو بھر پانی پی لے (تو خیر۔ جب وہ لوگ نہر پر پہنچے) تو چند شخصوں کے سوا سب نے پانی پی لیا۔ پھر جب طالوت اور مومن لوگ جو اس کے ساتھ تھے نہر کے پار ہوگئے۔ تو کہنے لگے کہ آج ہم میں جالوت اور اس کے لشکر سے مقابلہ کرنے کی طاقت نہیں۔ جو لوگ یقین رکھتے تھے کہ ان کو خدا کے روبرو حاضر ہونا ہے وہ کہنے لگے کہ بسااوقات تھوڑی سی جماعت نے خدا کے حکم سے بڑی جماعت پر فتح حاصل کی ہے اور خدا استقلال رکھنے والوں کے ساتھ ہے
+**English (Yusuf Ali):** When Talut set forth with the armies, he said: "Allah will test you at the stream: if any drinks of its water, He goes not with my army: Only those who taste not of it go with me: A mere sip out of the hand is excused." but they all drank of it, except a few. When they crossed the river,- He and the faithful ones with him,- they said: "This day We cannot cope with Goliath and his forces." but those who were convinced that they must meet Allah, said: "How oft, by Allah's will, Hath a small force vanquished a big one? Allah is with those who steadfastly persevere."
 
 [Open on Quran.com](https://quran.com/2/249)
 
@@ -64,7 +64,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say to those who disbelieve, "You will be overcome and gathered together to Hell, and wretched is the resting place."
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) کافروں سے کہدو کہ تم (دنیا میں بھی) عنقریب مغلوب ہو جاؤ گے اور (آخرت میں) جہنم کی طرف ہانکے جاؤ گے اور وہ بری جگہ ہے
+**English (Yusuf Ali):** Say to those who reject Faith: "Soon will ye be vanquished and gathered together to Hell,-an evil bed indeed (to lie on)!
 
 [Open on Quran.com](https://quran.com/3/12)
 
@@ -80,7 +80,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So let those fight in the cause of Allāh who sell the life of this world for the Hereafter. And he who fights in the cause of Allāh and is killed or achieves victory - We will bestow upon him a great reward.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جو لوگ آخرت (کو خریدتے اور اس) کے بدلے دنیا کی زندگی کو بیچنا چاہتے ہیں اُن کو چاہیئے کہ خدا کی راہ میں جنگ کریں اور جو شخص خدا کی راہ میں جنگ کرے اور شہید ہوجائے یا غلبہ پائے ہم عنقریب اس کو بڑا ثواب دیں گے
+**English (Yusuf Ali):** Let those fight in the cause of Allah Who sell the life of this world for the hereafter. To him who fighteth in the cause of Allah,- whether he is slain or gets victory - Soon shall We give him a reward of great (value).
 
 [Open on Quran.com](https://quran.com/4/74)
 
@@ -96,7 +96,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they [i.e., Pharaoh and his people] were overcome right there and became debased.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ مغلوب ہوگئے اور ذلیل ہوکر رہ گئے
+**English (Yusuf Ali):** So the (great ones) were vanquished there and then, and were made to look small.
 
 [Open on Quran.com](https://quran.com/7/119)
 
@@ -112,7 +112,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve spend their wealth to avert [people] from the way of Allāh. So they will spend it; then it will be for them a [source of] regret; then they will be overcome. And those who have disbelieved - unto Hell they will be gathered.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں اپنا مال خرچ کرتے ہیں کہ (لوگوں کو) خدا کے رستے سے روکیں۔ سو ابھی اور خرچ کریں گے مگر آخر وہ (خرچ کرنا) ان کے لیے (موجب) افسوس ہوگا اور وہ مغلوب ہوجائیں گے۔ اور کافر لوگ دوزخ کی طرف ہانکے جائیں گے
+**English (Yusuf Ali):** The Unbelievers spend their wealth to hinder (man) from the path of Allah, and so will they continue to spend; but in the end they will have (only) regrets and sighs; at length they will be overcome: and the Unbelievers will be gathered together to Hell;-
 
 [Open on Quran.com](https://quran.com/8/36)
 
@@ -128,7 +128,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Prophet, urge the believers to battle. If there are among you twenty [who are] steadfast, they will overcome two hundred. And if there are among you one hundred [who are steadfast], they will overcome a thousand of those who have disbelieved because they are a people who do not understand.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے نبی! مسلمانوں کو جہاد کی ترغیب دو۔ اور اگر تم بیس آدمی ثابت قدم رہنے والے ہوں گے تو دو سو کافروں پر غالب رہیں گے۔ اور اگر سو (ایسے) ہوں گے تو ہزار پر غالب رہیں گے۔ اس لیے کہ کافر ایسے لوگ ہیں کہ کچھ بھی سمجھ نہیں رکھتے
+**English (Yusuf Ali):** O Prophet! rouse the Believers to the fight. If there are twenty amongst you, patient and persevering, they will vanquish two hundred: if a hundred, they will vanquish a thousand of the Unbelievers: for these are a people without understanding.
 
 [Open on Quran.com](https://quran.com/8/65)
 
@@ -144,7 +144,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Now, Allāh has lightened [the hardship] for you, and He knows that among you is weakness. So if there are from you one hundred [who are] steadfast, they will overcome two hundred. And if there are among you a thousand, they will overcome two thousand by permission of Allāh. And Allāh is with the steadfast.
 
-**Urdu (Fatah Muhammad Jalandhari):** اب خدا نے تم پر سے بوجھ ہلکا کر دیا اور معلوم کرلیا کہ (ابھی) تم میں کسی قدر کمزوری ہے۔ پس اگر تم میں ایک سو ثابت قدم رہنے والے ہوں گے تو دو سو پر غالب رہیں گے۔ اور اگر ایک ہزار ہوں گے تو خدا کے حکم سے دو ہزار پر غالب رہیں گے۔ اور خدا ثابت قدم رہنے والوں کا مدد گار ہے
+**English (Yusuf Ali):** For the present, Allah hath lightened your (task), for He knoweth that there is a weak spot in you: But (even so), if there are a hundred of you, patient and persevering, they will vanquish two hundred, and if a thousand, they will vanquish two thousand, with the leave of Allah: for Allah is with those who patiently persevere.
 
 [Open on Quran.com](https://quran.com/8/66)
 
@@ -160,7 +160,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And similarly, We caused them to be found that they [who found them] would know that the promise of Allāh is truth and that of the Hour there is no doubt. [That was] when they disputed among themselves about their affair and [then] said, "Construct over them a structure. Their Lord is most knowing about them." Said those who prevailed in the matter, "We will surely take [for ourselves] over them a masjid."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے (لوگوں کو) ان (کے حال) سے خبردار کردیا تاکہ وہ جانیں کہ خدا کا وعدہ سچا ہے اور یہ کہ قیامت (جس کا وعدہ کیا جاتا ہے) اس میں کچھ شک نہیں۔ اس وقت لوگ ان کے بارے میں باہم جھگڑنے لگے اور کہنے لگے کہ ان (کے غار) پر عمارت بنا دو۔ ان کا پروردگار ان (کے حال) سے خوب واقف ہے۔ جو لوگ ان کے معاملے میں غلبہ رکھتے تھے وہ کہنے لگے کہ ہم ان (کے غار) پر مسجد بنائیں گے
+**English (Yusuf Ali):** Thus did We make their case known to the people, that they might know that the promise of Allah is true, and that there can be no doubt about the Hour of Judgment. Behold, they dispute among themselves as to their affair. (Some) said, "Construct a building over them": Their Lord knows best about them: those who prevailed over their affair said, "Let us surely build a place of worship over them."
 
 [Open on Quran.com](https://quran.com/18/21)
 
@@ -176,7 +176,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will say, "Our Lord, our wretchedness overcame us, and we were a people astray.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ہمارے پروردگار! ہم پر ہماری کم بختی غالب ہوگئی اور ہم رستے سے بھٹک گئے
+**English (Yusuf Ali):** They will say: "our Lord! Our misfortune overwhelmed us, and we became a people astray!
 
 [Open on Quran.com](https://quran.com/23/106)
 
@@ -192,7 +192,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Byzantines have been defeated
 
-**Urdu (Fatah Muhammad Jalandhari):** (اہلِ ) روم مغلوب ہوگئے
+**English (Yusuf Ali):** The Roman Empire has been defeated-
 
 [Open on Quran.com](https://quran.com/30/2)
 

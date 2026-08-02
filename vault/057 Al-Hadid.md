@@ -14,31 +14,31 @@ The Iron · 29 ayahs
 
 ## Words in this surah (graph)
 
-- [[ZAhr - apparent]] — `ظاهِر` · apparent
-- [[qrD - loan]] — `قَرْض` · loan
 - [[yDAEf - will doubled]] — `يُضاعِفُ` · will doubled
 - [[>qrD - you loan]] — `أَقْرَضُ` · you loan
-- [[mhtd - guided one]] — `مُهْتَد` · guided one
-- [[nbAt - vegetation]] — `نَبات` · vegetation
-- [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[qwy - all-strong]] — `قَوِيّ` · all-strong
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[EZym - great]] — `عَظِيم` · great
-- [[dEA - call]] — `دَعا` · call
-- [[drjp - degrees]] — `دَرَجَة` · degrees
-- [[bxl - withhold]] — `بَخِلَ` · withhold
-- [[grwr - delusion]] — `غُرُور` · delusion
-- [[gyb - unseen]] — `غَيْب` · unseen
+- [[qrD - loan]] — `قَرْض` · loan
+- [[ZAhr - apparent]] — `ظاهِر` · apparent
+- [[Hsn - good]] — `حُسْن` · good
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[nZr - see]] — `نَظَرَ` · see
-- [[HsnY - best]] — `حُسْنَى` · best
-- [[yErj - ascend]] — `يَعْرُجُ` · ascend
-- [[fxwr - boastful]] — `فَخُور` · boastful
+- [[gny - free need]] — `غَنِيّ` · free need
+- [[dEA - call]] — `دَعا` · call
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[trbS - waiting]] — `تَرَبُّص` · waiting
+- [[qAtl - fight]] — `قاتَلَ` · fight
+- [[lyl - night]] — `لَيْل` · night
+- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[ftH - victory]] — `فَتَحَ` · victory
+- [[Er$ - throne]] — `عَرْش` · throne
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[kfl - dhul-kifl]] — `كَفَّلَ` · dhul-kifl
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[yd - hands]] — `يَد` · hands
+- [[nAdY - he called]] — `نادَى` · he called
+- [[fwz - success]] — `فَوْز` · success
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[mwlY - protector]] — `مَوْلَى` · protector
 
 ## Roots
 

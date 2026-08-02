@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:187 · [[002 Al-Baqarah]]
 
@@ -48,7 +48,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are a clothing for you and you are a clothing for them. Allāh knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allāh has decreed for you [i.e., offspring]. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the night [i.e., sunset]. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allāh, so do not approach them. Thus does Allāh make clear His verses [i.e., ordinances] to the people that they may become righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** روزوں کی راتوں میں تمہارے لئے اپنی عورتوں کے پاس جانا کردیا گیا ہے وہ تمہاری پوشاک ہیں اور تم ان کی پوشاک ہو خدا کو معلوم ہے کہ تم (ان کے پاس جانے سے) اپنے حق میں خیانت کرتے تھے سو اس نے تم پر مہربانی کی اور تمہاری حرکات سےدرگزرفرمائی۔اب (تم کو اختیار ہے کہ) ان سے مباشرت کرو۔ اور خدا نے جو چیز تمہارے لئے لکھ رکھی ہے (یعنی اولاد) اس کو (خدا سے) طلب کرو اور کھاؤ پیو یہاں تک کہ صبح کی سفید دھاری (رات کی) سیاہ دھاری سے الگ نظر آنے لگے۔ پھر روزہ (رکھ کر) رات تک پورا کرو اور جب تم مسجدوں میں اعتکاف بیٹھے ہو تو ان سے مباشرت نہ کرو۔ یہ خدا کی حدیں ہیں ان کے پاس نہ جانا۔ اسی طرح خدا اپنی آیتیں لوگوں کے (سمجھانے کے) لئے کھول کھول کر بیان فرماتا ہے تاکہ وہ پرہیزگار بنیں
+**English (Yusuf Ali):** Permitted to you, on the night of the fasts, is the approach to your wives. They are your garments and ye are their garments. Allah knoweth what ye used to do secretly among yourselves; but He turned to you and forgave you; so now associate with them, and seek what Allah Hath ordained for you, and eat and drink, until the white thread of dawn appear to you distinct from its black thread; then complete your fast Till the night appears; but do not associate with your wives while ye are in retreat in the mosques. Those are Limits (set by) Allah: Approach not nigh thereto. Thus doth Allah make clear His Signs to men: that they may learn self-restraint.
 
 [Open on Quran.com](https://quran.com/2/187)
 
@@ -64,7 +64,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who consume interest cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, "Trade is [just] like interest." But Allāh has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair rests with Allāh. But whoever returns [to dealing in interest or usury] - those are the companions of the Fire; they will abide eternally therein.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ سود کھاتے ہیں وہ (قبروں سے) اس طرح (حواس باختہ) اٹھیں گے جیسے کسی کو جن نے لپٹ کر دیوانہ بنا دیا ہو یہ اس لئے کہ وہ کہتے ہیں کہ سودا بیچنا بھی تو (نفع کے لحاظ سے) ویسا ہی ہے جیسے سود (لینا) حالانکہ سودے کو خدا نے حلال کیا ہے اور سود کو حرام۔ تو جس شخص کے پاس خدا کی نصیحت پہنچی اور وہ (سود لینے سے) باز آگیا تو جو پہلے ہوچکا وہ اس کا۔ اور (قیامت میں) اس کا معاملہ خدا کے سپرد اور جو پھر لینے لگا تو ایسے لوگ دوزخی ہیں کہ ہمیشہ دوزخ میں (جلتے) رہیں گے
+**English (Yusuf Ali):** Those who devour usury will not stand except as stand one whom the Evil one by his touch Hath driven to madness. That is because they say: "Trade is like usury," but Allah hath permitted trade and forbidden usury. Those who after receiving direction from their Lord, desist, shall be pardoned for the past; their case is for Allah (to judge); but those who repeat (The offence) are companions of the Fire: They will abide therein (for ever).
 
 [Open on Quran.com](https://quran.com/2/275)
 
@@ -80,7 +80,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [I have come] confirming what was before me of the Torah and to make lawful for you some of what was forbidden to you. And I have come to you with a sign from your Lord, so fear Allāh and obey me.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مجھ سے پہلے جو تورات (نازل ہوئی) تھی اس کی تصدیق بھی کرتا ہوں اور (میں) اس لیے بھی (آیا ہوں) کہ بعض چیزیں جو تم پر حرام تھیں ان کو تمہارے لیے حلال کر دوں اور میں تو تمہارے پروردگار کی طرف سے نشانی لے کر آیا ہوں تو خدا سے ڈرو اور میرا کہا مانو
+**English (Yusuf Ali):** "'(I have come to you), to attest the Law which was before me. And to make lawful to you part of what was (Before) forbidden to you; I have come to you with a Sign from your Lord. So fear Allah, and obey me.
 
 [Open on Quran.com](https://quran.com/3/50)
 
@@ -96,7 +96,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [also prohibited to you are all] married women except those your right hands possess. [This is] the decree of Allāh upon you. And lawful to you are [all others] beyond these, [provided] that you seek them [in marriage] with [gifts from] your property, desiring chastity, not unlawful sexual intercourse. So for whatever you enjoy [of marriage] from them, give them their due compensation as an obligation. And there is no blame upon you for what you mutually agree to beyond the obligation. Indeed, Allāh is ever Knowing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور شوہر والی عورتیں بھی (تم پر حرام ہیں) مگر وہ جو (اسیر ہو کر لونڈیوں کے طور پر) تمہارے قبضے میں آجائیں (یہ حکم) خدا نے تم کو لکھ دیا ہے اور ان (محرمات) کے سوا اور عورتیں تم کو حلال ہیں اس طرح سے کہ مال خرچ کر کے ان سے نکاح کرلو بشرطیکہ (نکاح سے) مقصود عفت قائم رکھنا ہو نہ شہوت رانی تو جن عورتوں سے تم فائدہ حاصل کرو ان کا مہر جو مقرر کیا ہو ادا کردو اور اگر مقرر کرنے کے بعد آپس کی رضامندی سے مہر میں کمی بیشی کرلو تو تم پر کچھ گناہ نہیں بےشک خدا سب کچھ جاننے والا (اور) حکمت والا ہے
+**English (Yusuf Ali):** Also (prohibited are) women already married, except those whom your right hands possess: Thus hath Allah ordained (Prohibitions) against you: Except for these, all others are lawful, provided ye seek (them in marriage) with gifts from your property,- desiring chastity, not lust, seeing that ye derive benefit from them, give them their dowers (at least) as prescribed; but if, after a dower is prescribed, agree Mutually (to vary it), there is no blame on you, and Allah is All-knowing, All-wise.
 
 [Open on Quran.com](https://quran.com/4/24)
 
@@ -112,7 +112,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** For wrongdoing on the part of the Jews, We made unlawful for them [certain] good foods which had been lawful to them, and for their averting from the way of Allāh many [people],
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے یہودیوں کے ظلموں کے سبب (بہت سی) پاکیزہ چیزیں جو ان کو حلال تھیں ان پر حرام کردیں اور اس سبب سے بھی کہ وہ اکثر خدا کے رستے سے (لوگوں کو) روکتے تھے
+**English (Yusuf Ali):** For the iniquity of the Jews We made unlawful for them certain (foods) good and wholesome which had been lawful for them;- in that they hindered many from Allah's Way;-
 
 [Open on Quran.com](https://quran.com/4/160)
 
@@ -128,7 +128,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, fulfill [all] contracts. Lawful for you are the animals of grazing livestock except for that which is recited to you [in this Qur’ān] - hunting not being permitted while you are in the state of iḥrām. Indeed, Allāh ordains what He intends.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! اپنے اقراروں کو پورا کرو۔ تمہارے لیے چارپائے جانور (جو چرنے والے ہیں) حلال کر دیئے گئے ہیں۔ بجز ان کے جو تمہیں پڑھ کر سنائے جاتے ہیں مگر احرام (حج) میں شکار کو حلال نہ جاننا۔ خدا جیسا چاہتا ہے حکم دیتا ہے
+**English (Yusuf Ali):** O ye who believe! fulfil (all) obligations. Lawful unto you (for food) are all four-footed animals, with the exceptions named: But animals of the chase are forbidden while ye are in the sacred precincts or in pilgrim garb: for Allah doth command according to His will and plan.
 
 [Open on Quran.com](https://quran.com/5/1)
 
@@ -144,7 +144,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not violate the rites of Allāh or [the sanctity of] the sacred month or [neglect the marking of] the sacrificial animals and garlanding [them] or [violate the safety of] those coming to the Sacred House seeking bounty from their Lord and [His] approval. But when you come out of iḥrām, then [you may] hunt. And do not let the hatred of a people for having obstructed you from al-Masjid al-Ḥarām lead you to transgress. And cooperate in righteousness and piety, but do not cooperate in sin and aggression. And fear Allāh; indeed, Allāh is severe in penalty.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کے نام کی چیزوں کی بےحرمتی نہ کرنا اور نہ ادب کے مہینے کی اور نہ قربانی کے جانوروں کی اور نہ ان جانوروں کی (جو خدا کی نذر کر دیئے گئے ہوں اور) جن کے گلوں میں پٹے بندھے ہوں اور نہ ان لوگوں کی جو عزت کے گھر (یعنی بیت الله) کو جا رہے ہوں (اور) اپنے پروردگار کے فضل اور اس کی خوشنودی کے طلبگار ہوں اور جب احرام اتار دو تو (پھر اختیار ہے کہ) شکار کرو اور لوگوں کی دشمنی اس وجہ سے کہ انہوں نے تم کو عزت والی مسجد سے روکا تھا تمہیں اس بات پر آمادہ نہ کرے کہ تم ان پر زیادتی کرنے لگو اور (دیکھو) نیکی اور پرہیزگاری کے کاموں میں ایک دوسرے کی مدد کیا کرو اور گناہ اور ظلم کی باتوں میں مدد نہ کیا کرو اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا کا عذاب سخت ہے
+**English (Yusuf Ali):** O ye who believe! Violate not the sanctity of the symbols of Allah, nor of the sacred month, nor of the animals brought for sacrifice, nor the garlands that mark out such animals, nor the people resorting to the sacred house, seeking of the bounty and good pleasure of their Lord. But when ye are clear of the sacred precincts and of pilgrim garb, ye may hunt and let not the hatred of some people in (once) shutting you out of the Sacred Mosque lead you to transgression (and hostility on your part). Help ye one another in righteousness and piety, but help ye not one another in sin and rancour: fear Allah: for Allah is strict in punishment.
 
 [Open on Quran.com](https://quran.com/5/2)
 
@@ -160,7 +160,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They ask you, [O Muḥammad], what has been made lawful for them. Say, "Lawful for you are [all] good foods and [game caught by] what you have trained of hunting animals which you train as Allāh has taught you. So eat of what they catch for you, and mention the name of Allāh upon it, and fear Allāh." Indeed, Allāh is swift in account.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم سے پوچھتے ہیں کہ کون کون سی چیزیں ان کے لیے حلال ہیں (ان سے) کہہ دو کہ سب پاکیزہ چیزیں تم کو حلال ہیں اور وہ (شکار) بھی حلال ہے جو تمہارے لیے ان شکاری جانوروں نے پکڑا ہو جن کو تم نے سدھا رکھا ہو اور جس (طریق) سے خدا نے تمہیں (شکار کرنا) سکھایا ہے (اس طریق سے) تم نے ان کو سکھایا ہو تو جو شکار وہ تمہارے لئے پکڑ رکھیں اس کو کھا لیا کرو اور (شکاری جانوروں کو چھوڑتے وقت) خدا کا نام لے لیا کرو اور خدا سے ڈرتے رہو۔ بےشک خدا جلد حساب لینے والا ہے
+**English (Yusuf Ali):** They ask thee what is lawful to them (as food). Say: lawful unto you are (all) things good and pure: and what ye have taught your trained hunting animals (to catch) in the manner directed to you by Allah: eat what they catch for you, but pronounce the name of Allah over it: and fear Allah; for Allah is swift in taking account.
 
 [Open on Quran.com](https://quran.com/5/4)
 
@@ -176,7 +176,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** This day [all] good foods have been made lawful, and the food of those who were given the Scripture is lawful for you and your food is lawful for them. And [lawful in marriage are] chaste women from among the believers and chaste women from among those who were given the Scripture before you, when you have given them their due compensation, desiring chastity, not unlawful sexual intercourse or taking [secret] lovers. And whoever denies the faith - his work has become worthless, and he, in the Hereafter, will be among the losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** آج تمہارے لیے سب پاکیزہ چیزیں حلال کر دی گئیں اور اہل کتاب کا کھانا بھی تم کو حلال ہے اور تمہارا کھانا ان کو حلال ہے اور پاک دامن مومن عورتیں اور پاک دامن اہل کتاب عورتیں بھی (حلال ہیں) جبکہ ان کا مہر دے دو۔ اور ان سے عفت قائم رکھنی مقصود ہو نہ کھلی بدکاری کرنی اور نہ چھپی دوستی کرنی اور جو شخص ایمان سے منکر ہوا اس کے عمل ضائع ہو گئے اور وہ آخرت میں نقصان پانے والوں میں ہوگا
+**English (Yusuf Ali):** This day are (all) things good and pure made lawful unto you. The food of the People of the Book is lawful unto you and yours is lawful unto them. (Lawful unto you in marriage) are (not only) chaste women who are believers, but chaste women among the People of the Book, revealed before your time,- when ye give them their due dowers, and desire chastity, not lewdness, nor secret intrigues if any one rejects faith, fruitless is his work, and in the Hereafter he will be in the ranks of those who have lost (all spiritual good).
 
 [Open on Quran.com](https://quran.com/5/5)
 
@@ -192,7 +192,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not prohibit the good things which Allāh has made lawful to you and do not transgress. Indeed, Allāh does not like transgressors.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جو پاکیزہ چیزیں خدا نے تمہارے لیے حلال کی ہیں ان کو حرام نہ کرو اور حد سے نہ بڑھو کہ خدا حد سے بڑھنے والوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** O ye who believe! make not unlawful the good things which Allah hath made lawful for you, but commit no excess: for Allah loveth not those given to excess.
 
 [Open on Quran.com](https://quran.com/5/87)
 

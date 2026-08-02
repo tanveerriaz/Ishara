@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 5:89 · [[005 Al-Maidah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh will not impose blame upon you for what is meaningless in your oaths, but He will impose blame upon you for [breaking] what you intended of oaths. So its expiation is the feeding of ten needy people from the average of that which you feed your [own] families or clothing them or the freeing of a slave. But whoever cannot find [or afford it] - then a fast of three days [is required]. That is the expiation for oaths when you have sworn. But guard your oaths. Thus does Allāh make clear to you His verses [i.e., revealed law] that you may be grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا تمہاری بےارادہ قسموں پر تم سے مواخذہ نہیں کرے گا لیکن پختہ قسموں پر (جن کے خلاف کرو گے) مواخذہ کرے گا تو اس کا کفارہ دس محتاجوں کو اوسط درجے کا کھانا کھلانا ہے جو تم اپنے اہل وعیال کو کھلاتے ہو یا ان کو کپڑے دینا یا ایک غلام آزاد کرنا اور جس کو میسر نہ ہو وہ تین روزے رکھے یہ تمہاری قسموں کا کفارہ ہے جب تم قسم کھا لو (اور اسے توڑ دو) اور (تم کو) چاہئے کہ اپنی قسموں کی حفاظت کرو اس طرح خدا تمہارے (سمجھانے کے) لیے اپنی آیتیں کھول کھول کر بیان فرماتا ہے تاکہ تم شکر کرو
+**English (Yusuf Ali):** Allah will not call you to account for what is futile in your oaths, but He will call you to account for your deliberate oaths: for expiation, feed ten indigent persons, on a scale of the average for the food of your families; or clothe them; or give a slave his freedom. If that is beyond your means, fast for three days. That is the expiation for the oaths ye have sworn. But keep to your oaths. Thus doth Allah make clear to you His signs, that ye may be grateful.
 
 [Open on Quran.com](https://quran.com/5/89)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he who does not find [a slave] - then a fast for two months consecutively before they touch one another; and he who is unable - then the feeding of sixty poor persons. That is for you to believe [completely] in Allāh and His Messenger; and those are the limits [set by] Allāh. And for the disbelievers is a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس کو غلام نہ ملے وہ مجامعت سے پہلے متواتر دو مہینے کے روزے (رکھے) جس کو اس کا بھی مقدور نہ ہوا (اسے) ساٹھ مسکینوں کو کھانا کھلانا (چاہیئے)۔ یہ (حکم) اس لئے (ہے) کہ تم خدا اور اسکے رسول کے فرمانبردار ہوجاؤ۔ اور یہ خدا کی حدیں ہیں۔ اور نہ ماننے والوں کے لئے درد دینے والا عذاب ہے
+**English (Yusuf Ali):** And if any has not (the wherewithal), he should fast for two months consecutively before they touch each other. But if any is unable to do so, he should feed sixty indigent ones, this, that ye may show your faith in Allah and His Messenger. Those are limits (set by) Allah. For those who reject (Him), there is a grievous Penalty.
 
 [Open on Quran.com](https://quran.com/58/4)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or feeding on a day of severe hunger
 
-**Urdu (Fatah Muhammad Jalandhari):** یا بھوک کے دن کھانا کھلانا
+**English (Yusuf Ali):** Or the giving of food in a day of privation
 
 [Open on Quran.com](https://quran.com/90/14)
 

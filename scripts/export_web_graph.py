@@ -25,10 +25,58 @@ COLORS = {
 
 
 def safe_id(slug: str, kind: str = "") -> str:
-    """URL-safe node id. Prefix by kind so word/root collisions can't share an id."""
-    body = quote(slug.strip(), safe="")
-    # Use "__" (not ":") so note filenames stay valid path segments in browsers.
+    """Path + URL safe id. Avoid raw '%' so browsers don't mis-decode filenames."""
+    body = quote(slug.strip(), safe="").replace("%", ".")
     return f"{kind}__{body}" if kind else body
+
+
+VERSE_BLOCK = re.compile(
+    r"####\s*(?P<ref>\d+:\d+)\s*·\s*\[\[(?P<surah>[^\]]+)\]\]\s*"
+    r".*?<div[^>]*>\s*(?P<arabic>.*?)\s*</div>\s*"
+    r"\*\*Word in this verse:\*\*\s*`(?P<form>[^`]+)`\s*—\s*(?P<gloss>[^\n]+)\s*"
+    r"\*\*English \(Sahih International\):\*\*\s*(?P<si>[^\n]+)\s*"
+    r"(?:\*\*English \(Yusuf Ali\):\*\*\s*(?P<ya>[^\n]+)\s*|"
+    r"\*\*Urdu[^*]*:\*\*\s*(?P<urdu>[^\n]+)\s*)"
+    r"(?:\[Open on Quran\.com\]\((?P<url>https?://[^)]+)\))?",
+    re.S,
+)
+
+
+def parse_verses(body: str) -> list[dict]:
+    out = []
+    for m in VERSE_BLOCK.finditer(body):
+        ref = m.group("ref")
+        s, a = ref.split(":")
+        out.append(
+            {
+                "ref": ref,
+                "surah": m.group("surah").strip(),
+                "arabic": re.sub(r"\s+", " ", m.group("arabic")).strip(),
+                "wordForm": m.group("form").strip(),
+                "gloss": m.group("gloss").strip(),
+                "sahihInternational": m.group("si").strip(),
+                "yusufAli": (m.group("ya") or "").strip(),
+                "urdu": (m.group("urdu") or "").strip(),
+                "url": (m.group("url") or f"https://quran.com/{s}/{a}").strip(),
+            }
+        )
+    return out
+
+
+def word_summary(meta: dict, body: str, slug: str) -> dict:
+    meaning_m = re.search(r"\*\*([^*]+)\*\*\s*·\s*Lemma\s*\*\*([^*]+)\*\*", body)
+    root_m = re.search(r"### Root\s*\n-\s*\[\[([^\]]+)\]\]", body)
+    surahs = re.findall(r"### Surahs[^\n]*\n((?:- \[\[[^\]]+\]\]\n?)+)", body)
+    surah_list = WIKILINK.findall(surahs[0]) if surahs else []
+    return {
+        "meaning": meaning_m.group(1).strip() if meaning_m else slug.split(" - ")[-1],
+        "lemma": (meaning_m.group(2).strip() if meaning_m else meta.get("lemma", "")),
+        "root": root_m.group(1).strip() if root_m else "",
+        "surahCount": int(meta.get("surah_count") or len(surah_list) or 0),
+        "ayahCount": int(meta.get("ayah_count") or 0),
+        "surahs": surah_list,
+        "verses": parse_verses(body),
+    }
 
 
 def parse_frontmatter(text: str) -> tuple[dict, str]:
@@ -208,6 +256,7 @@ def main() -> None:
             "type": "word",
             "title": slug,
             "html": md_to_simple_html(strip_md_noise(body)),
+            **word_summary(meta, body, slug),
         }
         (NOTES / f"{nid}.json").write_text(json.dumps(note, ensure_ascii=False), encoding="utf-8")
 
@@ -251,6 +300,13 @@ def main() -> None:
             "type": "root",
             "title": slug,
             "html": md_to_simple_html(strip_md_noise(body)),
+            "meaning": sense,
+            "lemma": arabic,
+            "surahCount": 0,
+            "ayahCount": 0,
+            "surahs": [],
+            "verses": [],
+            "root": slug,
         }
         (NOTES / f"{nid}.json").write_text(json.dumps(note, ensure_ascii=False), encoding="utf-8")
 

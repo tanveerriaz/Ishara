@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:127 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when Abraham was raising the foundations of the House and [with him] Ishmael, [saying], "Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم اور اسمٰعیل بیت الله کی بنیادیں اونچی کر رہے تھے (تو دعا کئے جاتے تھے کہ) اے پروردگار، ہم سے یہ خدمت قبول فرما۔ بےشک تو سننے والا (اور) جاننے والا ہے
+**English (Yusuf Ali):** And remember Abraham and Isma'il raised the foundations of the House (With this prayer): "Our Lord! Accept (this service) from us: For Thou art the All-Hearing, the All-knowing.
 
 [Open on Quran.com](https://quran.com/2/127)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So if they believe in the same as you believe in, then they have been [rightly] guided; but if they turn away, they are only in dissension, and Allāh will be sufficient for you against them. And He is the Hearing, the Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو اگر یہ لوگ بھی اسی طرح ایمان لے آئیں جس طرح تم ایمان لے آئے ہو تو ہدایت یاب ہو جائیں اور اگر منہ پھیر لیں (اور نہ مانیں) تو وہ (تمھارے) مخالف ہیں اور ان کے مقابلے میں تمھیں خدا کافی ہے۔ اور وہ سننے والا (اور) جاننے والا ہے
+**English (Yusuf Ali):** So if they believe as ye believe, they are indeed on the right path; but if they turn back, it is they who are in schism; but Allah will suffice thee as against them, and He is the All-Hearing, the All-Knowing.
 
 [Open on Quran.com](https://quran.com/2/137)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then whoever alters it [i.e., the bequest] after he has heard it - the sin is only upon those who have altered it. Indeed, Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو شخص وصیت کو سننے کے بعد بدل ڈالے تو اس (کے بدلنے) کا گناہ انہیں لوگوں پر ہے جو اس کو بدلیں۔ اور بےشک خدا سنتا جانتا ہے
+**English (Yusuf Ali):** If anyone changes the bequest after hearing it, the guilt shall be on those who make the change. For Allah hears and knows (All things).
 
 [Open on Quran.com](https://quran.com/2/181)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not make [your oath by] Allāh an excuse against being righteous and fearing Allāh and making peace among people. And Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا (کے نام کو) اس بات کا حیلہ نہ بنانا کہ (اس کی) قسمیں کھا کھا کر سلوک کرنے اورپرہیزگاری کرنے اور لوگوں میں صلح و سازگاری کرانے سے رک جاؤ۔ اور خدا سب کچھ سنتا اور جانتا ہے
+**English (Yusuf Ali):** And make not Allah's (name) an excuse in your oaths against doing good, or acting rightly, or making peace between persons; for Allah is One Who heareth and knoweth all things.
 
 [Open on Quran.com](https://quran.com/2/224)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if they decide on divorce - then indeed, Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر طلاق کا ارادہ کرلیں تو بھی خدا سنتا (اور) جانتا ہے
+**English (Yusuf Ali):** But if their intention is firm for divorce, Allah heareth and knoweth all things.
 
 [Open on Quran.com](https://quran.com/2/227)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And fight in the cause of Allāh and know that Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (مسلمانو) خدا کی راہ میں جہاد کرو اور جان رکھو کہ خدا (سب کچھ) جانتا ہے
+**English (Yusuf Ali):** Then fight in the cause of Allah, and know that Allah Heareth and knoweth all things.
 
 [Open on Quran.com](https://quran.com/2/244)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** There shall be no compulsion in [acceptance of] the religion. The right course has become distinct from the wrong. So whoever disbelieves in ṭāghūt and believes in Allāh has grasped the most trustworthy handhold with no break in it. And Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** دین (اسلام) میں زبردستی نہیں ہے ہدایت (صاف طور پر ظاہر اور) گمراہی سے الگ ہو چکی ہے تو جو شخص بتوں سے اعتقاد نہ رکھے اور خدا پر ایمان لائے اس نے ایسی مضبوط رسی ہاتھ میں پکڑ لی ہے جو کبھی ٹوٹنے والی نہیں اور خدا (سب کچھ) سنتا اور (سب کچھ) جانتا ہے
+**English (Yusuf Ali):** Let there be no compulsion in religion: Truth stands out clear from Error: whoever rejects evil and believes in Allah hath grasped the most trustworthy hand-hold, that never breaks. And Allah heareth and knoweth all things.
 
 [Open on Quran.com](https://quran.com/2/256)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Descendants, some of them from others. And Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان میں سے بعض بعض کی اولاد تھے اور خدا سننے والا (اور) جاننے والا ہے
+**English (Yusuf Ali):** Offspring, one of the other: And Allah heareth and knoweth all things.
 
 [Open on Quran.com](https://quran.com/3/34)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Mention, O Muḥammad], when the wife of ʿImrān said, "My Lord, indeed I have pledged to You what is in my womb, consecrated [for Your service], so accept this from me. Indeed, You are the Hearing, the Knowing."
 
-**Urdu (Fatah Muhammad Jalandhari):** (وہ وقت یاد کرنے کے لائق ہے) جب عمران کی بیوی نے کہا کہ اے پروردگار جو (بچہ) میرے پیٹ میں ہے میں اس کو تیری نذر کرتی ہوں اسے دنیا کے کاموں سے آزاد رکھوں گی تو (اسے) میری طرف سے قبول فرما توتو سننے والا (اور) جاننے والا ہے
+**English (Yusuf Ali):** Behold! a woman of 'Imran said: "O my Lord! I do dedicate unto Thee what is in my womb for Thy special service: So accept this of me: For Thou hearest and knowest all things."
 
 [Open on Quran.com](https://quran.com/3/35)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** At that, Zechariah called upon his Lord, saying, "My Lord, grant me from Yourself a good offspring. Indeed, You are the Hearer of supplication."
 
-**Urdu (Fatah Muhammad Jalandhari):** اس وقت زکریا نے اپنے پروردگار سے دعا کی (اور) کہا کہ پروردگار مجھے اپنی جناب سے اولاد صالح عطا فرما تو بے شک دعا سننے (اور قبول کرنے) والا ہے
+**English (Yusuf Ali):** There did Zakariya pray to his Lord, saying: "O my Lord! Grant unto me from Thee a progeny that is pure: for Thou art He that heareth prayer!
 
 [Open on Quran.com](https://quran.com/3/38)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:59 · [[009 At-Tawbah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If only they had been satisfied with what Allāh and His Messenger gave them and said, "Sufficient for us is Allāh; Allāh will give us of His bounty, and [so will] His Messenger; indeed, we are desirous toward Allāh," [it would have been better for them].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر وہ اس پر خوش رہتے جو خدا اور اس کے رسول نے ان کو دیا تھا۔ اور کہتے کہ ہمیں خدا کافی ہے اور خدا اپنے فضل سے اور اس کے پیغمبر (اپنی مہربانی سے) ہمیں (پھر) دیں گے۔ اور ہمیں تو خدا ہی کی خواہش ہے (تو ان کے حق میں بہتر ہوتا)
+**English (Yusuf Ali):** If only they had been content with what Allah and His Messenger gave them, and had said, "Sufficient unto us is Allah! Allah and His Messenger will soon give us of His bounty: to Allah do we turn our hopes!" (that would have been the right course).
 
 [Open on Quran.com](https://quran.com/9/59)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [His father] said, "Have you no desire for my gods, O Abraham? If you do not desist, I will surely stone you, so avoid me a prolonged time."
 
-**Urdu (Fatah Muhammad Jalandhari):** اس نے کہا ابراہیم کیا تو میرے معبودوں سے برگشتہ ہے؟ اگر تو باز نہ آئے گا تو میں تجھے سنگسار کردوں گا اور تو ہمیشہ کے لئے مجھ سے دور ہوجا
+**English (Yusuf Ali):** (The father) replied: "Dost thou hate my gods, O Abraham? If thou forbear not, I will indeed stone thee: Now get away from me for a good long while!"
 
 [Open on Quran.com](https://quran.com/19/46)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Perhaps our Lord will substitute for us [one] better than it. Indeed, we are toward our Lord desirous."
 
-**Urdu (Fatah Muhammad Jalandhari):** امید ہے کہ ہمارا پروردگار اس کے بدلے میں ہمیں اس سے بہتر باغ عنایت کرے ہم اپنے پروردگار کی طرف سے رجوع لاتے ہیں
+**English (Yusuf Ali):** "It may be that our Lord will give us in exchange a better (garden) than this: for we do turn to Him (in repentance)!"
 
 [Open on Quran.com](https://quran.com/68/32)
 

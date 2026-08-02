@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 12:19 · [[012 Yusuf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there came a company of travelers; then they sent their water drawer, and he let down his bucket. He said, "Good news! Here is a boy." And they concealed him, [taking him] as merchandise; and Allāh was Knowing of what they did.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اب خدا کی شان دیکھو کہ اس کنویں کے قریب) ایک قافلہ آوارد ہوا اور انہوں نے (پانی کے لیے) اپنا سقا بھیجا۔ اس نے کنویں میں ڈول لٹکایا (تو یوسف اس سے لٹک گئے) وہ بولا زہے قسمت یہ تو (نہایت حسین) لڑکا ہے۔ اور اس کو قیمتی سرمایہ سمجھ کر چھپا لیا اور جو کچھ وہ کرتے تھے خدا کو سب معلوم تھا
+**English (Yusuf Ali):** Then there came a caravan of travellers: they sent their water-carrier (for water), and he let down his bucket (into the well)... He said: "Ah there! Good news! Here is a (fine) young man!" So they concealed him as a treasure! But Allah knoweth well all that they do!
 
 [Open on Quran.com](https://quran.com/12/19)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there is none of you except he will come to it. This is upon your Lord an inevitability decreed.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم میں کوئی (شخص) نہیں مگر اسے اس پر گزرنا ہوگا۔ یہ تمہارے پروردگار پر لازم اور مقرر ہے
+**English (Yusuf Ali):** Not one of you but will pass over it: this is, with thy Lord, a Decree which must be accomplished.
 
 [Open on Quran.com](https://quran.com/19/71)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, you [disbelievers] and what you worship other than Allāh are the firewood of Hell. You will be coming to [enter] it.
 
-**Urdu (Fatah Muhammad Jalandhari):** (کافرو اس روز) تم اور جن کی تم خدا کے سوا عبادت کرتے ہو دوزخ کا ایندھن ہوں گے۔ اور تم سب اس میں داخل ہو کر رہو گے
+**English (Yusuf Ali):** Verily ye, (unbelievers), and the (false) gods that ye worship besides Allah, are (but) fuel for Hell! to it will ye (surely) come!
 
 [Open on Quran.com](https://quran.com/21/98)
 

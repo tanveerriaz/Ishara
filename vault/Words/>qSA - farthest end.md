@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 17:1 · [[017 Al-Isra]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Exalted is He who took His Servant [i.e., Prophet Muḥammad (ﷺ)] by night from al-Masjid al-Ḥarām to al-Masjid al-Aqṣā, whose surroundings We have blessed, to show him of Our signs. Indeed, He is the Hearing, the Seeing.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ (ذات) پاک ہے جو ایک رات اپنے بندے کو مسجدالحرام یعنی (خانہٴ کعبہ) سے مسجد اقصیٰ (یعنی بیت المقدس) تک جس کے گردا گرد ہم نے برکتیں رکھی ہیں لے گیا تاکہ ہم اسے اپنی (قدرت کی) نشانیاں دکھائیں۔ بےشک وہ سننے والا (اور) دیکھنے والا ہے
+**English (Yusuf Ali):** Glory to (Allah) Who did take His servant for a Journey by night from the Sacred Mosque to the farthest Mosque, whose precincts We did bless,- in order that We might show him some of Our Signs: for He is the One Who heareth and seeth (all things).
 
 [Open on Quran.com](https://quran.com/17/1)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And a man came from the farthest end of the city, running. He said, "O Moses, indeed the eminent ones are conferring over you [intending] to kill you, so leave [the city]; indeed, I am to you of the sincere advisors."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ایک شخص شہر کی پرلی طرف سے دوڑتا ہوا آیا (اور) بولا کہ موسٰی (شہر کے) رئیس تمہارے بارے میں صلاحیں کرتے ہیں کہ تم کو مار ڈالیں سو تم یہاں سے نکل جاؤ۔ میں تمہارا خیر خواہ ہوں
+**English (Yusuf Ali):** And there came a man, running, from the furthest end of the City. He said: "O Moses! the Chiefs are taking counsel together about thee, to slay thee: so get thee away, for I do give thee sincere advice."
 
 [Open on Quran.com](https://quran.com/28/20)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there came from the farthest end of the city a man, running. He said, "O my people, follow the messengers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور شہر کے پرلے کنارے سے ایک آدمی دوڑتا ہوا آیا کہنے لگا کہ اے میری قوم پیغمبروں کے پیچھے چلو
+**English (Yusuf Ali):** Then there came running, from the farthest part of the City, a man, saying, "O my people! Obey the messengers:
 
 [Open on Quran.com](https://quran.com/36/20)
 

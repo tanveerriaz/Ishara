@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:228 · [[002 Al-Baqarah]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Divorced women remain in waiting [i.e., do not remarry] for three periods, and it is not lawful for them to conceal what Allāh has created in their wombs if they believe in Allāh and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to them [i.e., the wives] is similar to what is expected of them, according to what is reasonable. But the men [i.e., husbands] have a degree over them [in responsibility and authority]. And Allāh is Exalted in Might and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
+**English (Yusuf Ali):** Divorced women shall wait concerning themselves for three monthly periods. Nor is it lawful for them to hide what Allah Hath created in their wombs, if they have faith in Allah and the Last Day. And their husbands have the better right to take them back in that period, if they wish for reconciliation. And women shall have rights similar to the rights against them, according to what is equitable; but men have a degree (of advantage) over them. And Allah is Exalted in Power, Wise.
 
 [Open on Quran.com](https://quran.com/2/228)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And their prophet said to them, "Indeed, Allāh has sent to you Saul as a king." They said, "How can he have kingship over us while we are more worthy of kingship than him and he has not been given any measure of wealth?" He said, "Indeed, Allāh has chosen him over you and has increased him abundantly in knowledge and stature. And Allāh gives His sovereignty to whom He wills. And Allāh is all-Encompassing [in favor] and Knowing."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبر نے ان سے (یہ بھی) کہا کہ خدا نے تم پر طالوت کو بادشاہ مقرر فرمایا ہے۔ وہ بولے کہ اسے ہم پر بادشاہی کا حق کیونکر ہوسکتا ہےبادشاہی کے مستحق تو ہم ہیں اور اس کے پاس تو بہت سی دولت بھی نہیں۔ پیغمبر نے کہا کہ خدا نےاس کو تم پر فضیلت دی ہے اور (بادشاہی کے لئے) منتخب فرمایا ہے اس نے اسے علم بھی بہت سا بخشا ہے اور تن و توش بھی (بڑا عطا کیا ہے) اور خدا (کو اختیار ہے) جسے چاہے بادشاہی بخشے۔ وہ بڑا کشائش والا اور دانا ہے
+**English (Yusuf Ali):** Their Prophet said to them: "Allah hath appointed Talut as king over you." They said: "How can he exercise authority over us when we are better fitted than he to exercise authority, and he is not even gifted, with wealth in abundance?" He said: "Allah hath Chosen him above you, and hath gifted him abundantly with knowledge and bodily prowess: Allah Granteth His authority to whom He pleaseth. Allah careth for all, and He knoweth all things."
 
 [Open on Quran.com](https://quran.com/2/247)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But if it is found that those two were guilty of sin [i.e., perjury], let two others stand in their place [who are] foremost [in claim] from those who have a lawful right. And let them swear by Allāh, "Our testimony is truer than their testimony, and we have not transgressed. Indeed, we would then be of the wrongdoers."
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اگر معلوم ہو جائے کہ ان دونوں نے (جھوٹ بول کر) گناہ حاصل کیا ہے تو جن لوگوں کا انہوں نے حق مارنا چاہا تھا ان میں سے ان کی جگہ اور دو گواہ کھڑے ہوں جو (میت سے) قرابت قریبہ رکھتے ہوں پھر وہ خدا کی قسمیں کھائیں کہ ہماری شہادت ان کی شہادت سے بہت اچھی ہے اور ہم نے کوئی زیادتی نہیں کی ایسا کیا ہو تو ہم بےانصاف ہیں
+**English (Yusuf Ali):** But if it gets known that these two were guilty of the sin (of perjury), let two others stand forth in their places,- nearest in kin from among those who claim a lawful right: let them swear by Allah: "We affirm that our witness is truer than that of those two, and that we have not trespassed (beyond the truth): if we did, behold! the wrong be upon us!"
 
 [Open on Quran.com](https://quran.com/5/107)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And how should I fear what you associate while you do not fear that you have associated with Allāh that for which He has not sent down to you any authority? So which of the two parties has more right to security, if you should know?"
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا میں ان چیزوں سے جن کو تم (خدا کا) شریک بناتے ہو کیونکرڈروں جب کہ تم اس سے نہیں ڈرتے کہ خدا کے ساتھ شریک بناتے ہو جس کی اس نے کوئی سند نازل نہیں کی۔ اب دونوں فریق میں سے کون سا فریق امن (اور جمعیت خاطر) کا مستحق ہے۔ اگر سمجھ رکھتے ہو (تو بتاؤ)
+**English (Yusuf Ali):** "How should I fear (the beings) ye associate with Allah, when ye fear not to give partners to Allah without any warrant having been given to you? Which of (us) two parties hath more right to security? (tell me) if ye know.
 
 [Open on Quran.com](https://quran.com/6/81)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Would you not fight against a people who broke their oaths and determined to expel the Messenger, and they had begun [the attack upon] you the first time? Do you fear them? But Allāh has more right that you should fear Him, if you are [truly] believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تم ایسے لوگوں سے کیوں نہ لڑو جنہوں نے اپنی قسموں کو توڑ ڈالا اور پیغمبر (خدا) کے جلا وطن کرنے کا عزم مصمم کر لیا اور انہوں نے تم سے (عہد شکنی کی) ابتدا کی۔ کیا تم ایسے لوگوں سے ڈرتے ہو حالانکہ ڈرنے کے لائق خدا ہے بشرطیکہ ایمان رکھتے ہو
+**English (Yusuf Ali):** Will ye not fight people who violated their oaths, plotted to expel the Messenger, and took the aggressive by being the first (to assault) you? Do ye fear them? Nay, it is Allah Whom ye should more justly fear, if ye believe!
 
 [Open on Quran.com](https://quran.com/9/13)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They swear by Allāh to you [Muslims] to satisfy you. But Allāh and His Messenger are more worthy for them to satisfy, if they were to be believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! یہ لوگ تمہارے سامنے خدا کی قسمیں کھاتے ہیں تاکہ تم کو خوش کر دیں۔ حالانکہ اگر یہ (دل سے) مومن ہوتے تو خدا اور اس کے پیغمبر خوش کرنے کے زیادہ مستحق ہیں
+**English (Yusuf Ali):** To you they swear by Allah. In order to please you: But it is more fitting that they should please Allah and His Messenger, if they are Believers.
 
 [Open on Quran.com](https://quran.com/9/62)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do not stand [for prayer] within it - ever. A mosque founded on righteousness from the first day is more worthy for you to stand in. Within it are men who love to purify themselves; and Allāh loves those who purify themselves.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم اس (مسجد) میں کبھی (جاکر) کھڑے بھی نہ ہونا۔ البتہ وہ مسجد جس کی بنیاد پہلے دن سے تقویٰ پر رکھی گئی ہے اس قابل ہے کہ اس میں جایا (اور نماز پڑھایا) کرو۔ اس میں ایسے لوگ ہیں جو کہ پاک رہنے کو پسند کرتے ہیں۔ اور خدا پاک رہنے والوں کو ہی پسند کرتا ہے
+**English (Yusuf Ali):** Never stand thou forth therein. There is a mosque whose foundation was laid from the first day on piety; it is more worthy of the standing forth (for prayer) therein. In it are men who love to be purified; and Allah loveth those who make themselves pure.
 
 [Open on Quran.com](https://quran.com/9/108)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Are there of your 'partners' any who guides to the truth?" Say, "Allāh guides to the truth. So is He who guides to the truth more worthy to be followed or he who guides not unless he is guided? Then what is [wrong] with you - how do you judge?"
 
-**Urdu (Fatah Muhammad Jalandhari):** پوچھو کہ بھلا تمہارے شریکوں میں کون ایسا ہے کہ حق کا رستہ دکھائے۔ کہہ دو کہ خدا ہی حق کا رستہ دکھاتا ہے۔ بھلا جو حق کا رستہ دکھائے وہ اس قابل ہے کہ اُس کی پیروی کی جائے یا وہ کہ جب تک کوئی اسے رستہ نہ بتائے رستہ نہ پائے۔ تو تم کو کیا ہوا ہے کیسا انصاف کرتے ہو؟
+**English (Yusuf Ali):** Say: "Of your 'partners' is there any that can give any guidance towards truth?" Say: "It is Allah Who gives guidance towards truth, is then He Who gives guidance to truth more worthy to be followed, or he who finds not guidance (himself) unless he is guided? what then is the matter with you? How judge ye?"
 
 [Open on Quran.com](https://quran.com/10/35)
 
@@ -172,7 +172,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [remember, O Muḥammad], when you said to the one on whom Allāh bestowed favor and you bestowed favor, "Keep your wife and fear Allāh," while you concealed within yourself that which Allāh is to disclose. And you feared the people, while Allāh has more right that you fear Him. So when Zayd had no longer any need for her, We married her to you in order that there not be upon the believers any discomfort [i.e., guilt] concerning the wives of their claimed [i.e., adopted] sons when they no longer have need of them. And ever is the command [i.e., decree] of Allāh accomplished.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم اس شخص سے جس پر خدا نے احسان کیا اور تم نے بھی احسان کیا (یہ) کہتے تھے کہ اپنی بیوی کو اپنے پاس رہنے دے اور خدا سے ڈر اور تم اپنے دل میں وہ بات پوشیدہ کرتے تھے جس کو خدا ظاہر کرنے والا تھا اور تم لوگوں سے ڈرتے تھے۔ حالانکہ خدا ہی اس کا زیادہ مستحق ہے کہ اس سے ڈرو۔ پھر جب زید نے اس سے (کوئی) حاجت (متعلق) نہ رکھی (یعنی اس کو طلاق دے دی) تو ہم نے تم سے اس کا نکاح کردیا تاکہ مومنوں کے لئے ان کے منہ بولے بیٹوں کی بیویوں (کے ساتھ نکاح کرنے کے بارے) میں جب وہ ان سے اپنی حاجت (متعلق) نہ رکھیں (یعنی طلاق دے دیں) کچھ تنگی نہ رہے۔ اور خدا کا حکم واقع ہو کر رہنے والا تھا
+**English (Yusuf Ali):** Behold! Thou didst say to one who had received the grace of Allah and thy favour: "Retain thou (in wedlock) thy wife, and fear Allah." But thou didst hide in thy heart that which Allah was about to make manifest: thou didst fear the people, but it is more fitting that thou shouldst fear Allah. Then when Zaid had dissolved (his marriage) with her, with the necessary (formality), We joined her in marriage to thee: in order that (in future) there may be no difficulty to the Believers in (the matter of) marriage with the wives of their adopted sons, when the latter have dissolved with the necessary (formality) (their marriage) with them. And Allah's command must be fulfilled.
 
 [Open on Quran.com](https://quran.com/33/37)
 
@@ -188,7 +188,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When those who disbelieved had put into their hearts chauvinism - the chauvinism of the time of ignorance. But Allāh sent down His tranquility upon His Messenger and upon the believers and imposed upon them the word of righteousness, and they were more deserving of it and worthy of it. And ever is Allāh, of all things, Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب کافروں نے اپنے دلوں میں ضد کی اور ضد بھی جاہلیت کی۔ تو خدا نے اپنے پیغمبر اور مومنوں پر اپنی طرف سے تسکین نازل فرمائی اور ان کو پرہیزگاری کی بات پر قائم رکھا اور وہ اسی کے مستحق اور اہل تھے۔ اور خدا ہر چیز سے خبردار ہے
+**English (Yusuf Ali):** While the Unbelievers got up in their hearts heat and cant - the heat and cant of ignorance,- Allah sent down His Tranquillity to his Messenger and to the Believers, and made them stick close to the command of self-restraint; and well were they entitled to it and worthy of it. And Allah has full knowledge of all things.
 
 [Open on Quran.com](https://quran.com/48/26)
 

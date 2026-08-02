@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 17:4 · [[017 Al-Isra]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We conveyed to the Children of Israel in the Scripture that, "You will surely cause corruption on the earth twice, and you will surely reach [a degree of] great haughtiness."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کتاب میں بنی اسرائیل سے کہہ دیا تھا کہ زمین میں دو دفعہ فساد مچاؤ گے اور بڑی سرکشی کرو گے
+**English (Yusuf Ali):** And We gave (Clear) Warning to the Children of Israel in the Book, that twice would they do mischief on the earth and be elated with mighty arrogance (and twice would they be punished)!
 
 [Open on Quran.com](https://quran.com/17/4)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Exalted is He and high above what they say by great sublimity.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ پاک ہے اور جو کچھ یہ بکواس کرتے ہیں اس سے (اس کا رتبہ) بہت عالی ہے
+**English (Yusuf Ali):** Glory to Him! He is high above all that they say!- Exalted and Great (beyond measure)!
 
 [Open on Quran.com](https://quran.com/17/43)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they rejected them, while their [inner] selves were convinced thereof, out of injustice and haughtiness. So see how was the end of the corrupters.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بےانصافی اور غرور سے ان سے انکار کیا لیکن ان کے دل ان کو مان چکے تھے۔ سو دیکھ لو فساد کرنے والوں کا انجام کیسا ہوا
+**English (Yusuf Ali):** And they rejected those Signs in iniquity and arrogance, though their souls were convinced thereof: so see what was the end of those who acted corruptly!
 
 [Open on Quran.com](https://quran.com/27/14)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That home of the Hereafter We assign to those who do not desire exaltedness upon the earth or corruption. And the [best] outcome is for the righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ (جو) آخرت کا گھر (ہے) ہم نے اُسے اُن لوگوں کے لئے (تیار) کر رکھا ہے جو ملک میں ظلم اور فساد کا ارادہ نہیں رکھتے اور انجام (نیک) تو پرہیزگاروں ہی کا ہے
+**English (Yusuf Ali):** That Home of the Hereafter We shall give to those who intend not high-handedness or mischief on earth: and the end is (best) for the righteous.
 
 [Open on Quran.com](https://quran.com/28/83)
 

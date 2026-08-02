@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:67 · [[002 Al-Baqarah]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when Moses said to his people, "Indeed, Allāh commands you to slaughter a cow." They said, "Do you take us in ridicule?" He said, "I seek refuge in Allāh from being among the ignorant."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لوگوں سے کہا کہ خدا تم کو حکم دیتا ہے کہ ایک بیل ذبح کرو۔ وہ بولے، کیا تم ہم سے ہنسی کرتے ہو۔ (موسیٰ نے) کہا کہ میں الله کی پناہ مانگتا ہوں کہ نادان بنوں
+**English (Yusuf Ali):** And remember Moses said to his people: "Allah commands that ye sacrifice a heifer." They said: "Makest thou a laughing-stock of us?" He said: "Allah save me from being an ignorant (fool)!"
 
 [Open on Quran.com](https://quran.com/2/67)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Noah] said, "My Lord, I seek refuge in You from asking that of which I have no knowledge. And unless You forgive me and have mercy upon me, I will be among the losers."
 
-**Urdu (Fatah Muhammad Jalandhari):** نوح نے کہا پروردگار میں تجھ سے پناہ مانگتا ہوں کہ ایسی چیز کا تجھ سے سوال کروں جس کی حقیقت مجھے معلوم نہیں۔ اور اگر تو مجھے نہیں بخشے گا اور مجھ پر رحم نہیں کرے گا تو میں تباہ ہوجاؤں گا
+**English (Yusuf Ali):** Noah said: "O my Lord! I do seek refuge with Thee, lest I ask Thee for that of which I have no knowledge. And unless thou forgive me and have Mercy on me, I should indeed be lost!"
 
 [Open on Quran.com](https://quran.com/11/47)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** She said, "Indeed, I seek refuge in the Most Merciful from you, [so leave me], if you should be fearing of Allāh."
 
-**Urdu (Fatah Muhammad Jalandhari):** مریم بولیں کہ اگر تم پرہیزگار ہو تو میں تم سے خدا کی پناہ مانگتی ہوں
+**English (Yusuf Ali):** She said: "I seek refuge from thee to (Allah) Most Gracious: (come not near) if thou dost fear Allah."
 
 [Open on Quran.com](https://quran.com/19/18)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And say, "My Lord, I seek refuge in You from the incitements of the devils,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہو کہ اے پروردگار! میں شیطانوں کے وسوسوں سے تیری پناہ مانگتا ہو
+**English (Yusuf Ali):** And say "O my Lord! I seek refuge with Thee from the suggestions of the Evil Ones.
 
 [Open on Quran.com](https://quran.com/23/97)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And I seek refuge in You, my Lord, lest they be present with me."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اے پروردگار! اس سے بھی تیری پناہ مانگتا ہوں کہ وہ میرے پاس آموجود ہوں
+**English (Yusuf Ali):** "And I seek refuge with Thee O my Lord! lest they should come near me."
 
 [Open on Quran.com](https://quran.com/23/98)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But Moses said, "Indeed, I have sought refuge in my Lord and your Lord from every arrogant one who does not believe in the Day of Account."
 
-**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا کہ میں ہر متکبر سے جو حساب کے دن (یعنی قیامت) پر ایمان نہیں لاتا۔ اپنے اور تمہارے پروردگار کی پناہ لے چکا ہوں
+**English (Yusuf Ali):** Moses said: "I have indeed called upon my Lord and your Lord (for protection) from every arrogant one who believes not in the Day of Account!"
 
 [Open on Quran.com](https://quran.com/40/27)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, I have sought refuge in my Lord and your Lord, lest you stone me.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس (بات) سے کہ تم مجھے سنگسار کرو اپنے اور تمہارے پروردگار کی پناہ مانگتا ہوں
+**English (Yusuf Ali):** "For me, I have sought safety with my Lord and your Lord, against your injuring me.
 
 [Open on Quran.com](https://quran.com/44/20)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there were men from mankind who sought refuge in men from the jinn, so they [only] increased them in burden [i.e., sin].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ بعض بنی آدم بعض جنات کی پناہ پکڑا کرتے تھے (اس سے) ان کی سرکشی اور بڑھ گئی تھی
+**English (Yusuf Ali):** 'True, there were persons among mankind who took shelter with persons among the Jinns, but they increased them in folly.
 
 [Open on Quran.com](https://quran.com/72/6)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "I seek refuge in the Lord of daybreak
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ میں صبح کے پروردگار کی پناہ مانگتا ہوں
+**English (Yusuf Ali):** Say: I seek refuge with the Lord of the Dawn
 
 [Open on Quran.com](https://quran.com/113/1)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "I seek refuge in the Lord of mankind,
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ میں لوگوں کے پروردگار کی پناہ مانگتا ہوں
+**English (Yusuf Ali):** Say: I seek refuge with the Lord and Cherisher of Mankind,
 
 [Open on Quran.com](https://quran.com/114/1)
 

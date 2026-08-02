@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:137 · [[002 Al-Baqarah]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So if they believe in the same as you believe in, then they have been [rightly] guided; but if they turn away, they are only in dissension, and Allāh will be sufficient for you against them. And He is the Hearing, the Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو اگر یہ لوگ بھی اسی طرح ایمان لے آئیں جس طرح تم ایمان لے آئے ہو تو ہدایت یاب ہو جائیں اور اگر منہ پھیر لیں (اور نہ مانیں) تو وہ (تمھارے) مخالف ہیں اور ان کے مقابلے میں تمھیں خدا کافی ہے۔ اور وہ سننے والا (اور) جاننے والا ہے
+**English (Yusuf Ali):** So if they believe as ye believe, they are indeed on the right path; but if they turn back, it is they who are in schism; but Allah will suffice thee as against them, and He is the All-Hearing, the All-Knowing.
 
 [Open on Quran.com](https://quran.com/2/137)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is [deserved by them] because Allāh has sent down the Book in truth. And indeed, those who differ over the Book are in extreme dissension.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ اس لئے کہ خدا نے کتاب سچائی کے ساتھ نازل فرمائی۔ اور جن لوگوں نے اس کتاب میں اختلاف کیا وہ ضد میں (آکر نیکی سے) دور (ہوگئے) ہیں
+**English (Yusuf Ali):** (Their doom is) because Allah sent down the Book in truth but those who seek causes of dispute in the Book are in a schism Far (from the purpose).
 
 [Open on Quran.com](https://quran.com/2/176)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if you fear dissension between the two, send an arbitrator from his people and an arbitrator from her people. If they both desire reconciliation, Allāh will cause it between them. Indeed, Allāh is ever Knowing and Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو معلوم ہو کہ میاں بیوی میں ان بن ہے تو ایک منصف مرد کے خاندان میں سے اور ایک منصف عورت کے خاندان میں سے مقرر کرو وہ اگر صلح کرا دینی چاہیں گے تو خدا ان میں موافقت پیدا کردے گا کچھ شک نہیں کہ خدا سب کچھ جانتا اور سب باتوں سے خبردار ہے
+**English (Yusuf Ali):** If ye fear a breach between them twain, appoint (two) arbiters, one from his family, and the other from hers; if they wish for peace, Allah will cause their reconciliation: For Allah hath full knowledge, and is acquainted with all things.
 
 [Open on Quran.com](https://quran.com/4/35)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And O my people, let not [your] dissension from me cause you to be struck by that similar to what struck the people of Noah or the people of Hūd or the people of Ṣāliḥ. And the people of Lot are not from you far away.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اے قوم! میری مخالفت تم سے کوئی ایسا کام نہ کرادے کہ جیسی مصیبت نوح کی قوم یا ہود کی قوم یا صالح کی قوم پر واقع ہوئی تھی ویسی ہی مصیبت تم پر واقع ہو۔ اور لوط کی قوم (کا زمانہ تو) تم سے کچھ دور نہیں
+**English (Yusuf Ali):** "And O my people! let not my dissent (from you) cause you to sin, lest ye suffer a fate similar to that of the people of Noah or of Hud or of Salih, nor are the people of Lut far off from you!
 
 [Open on Quran.com](https://quran.com/11/89)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [That is] so He may make what Satan throws in [i.e., asserts] a trial for those within whose hearts is disease and those hard of heart. And indeed, the wrongdoers are in extreme dissension.
 
-**Urdu (Fatah Muhammad Jalandhari):** غرض (اس سے) یہ ہے کہ جو (وسوسہ) شیطان ڈالتا ہے اس کو ان لوگوں کے لئے جن کے دلوں میں بیماری ہے اور جن کے دل سخت ہیں ذریعہ آزمائش ٹھہرائے۔ بےشک ظالم پرلے درجے کی مخالفت میں ہیں
+**English (Yusuf Ali):** That He may make the suggestions thrown in by Satan, but a trial for those in whose hearts is a disease and who are hardened of heart: verily the wrong-doers are in a schism far (from the Truth):
 
 [Open on Quran.com](https://quran.com/22/53)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those who disbelieve are in pride and dissension.
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر جو لوگ کافر ہیں وہ غرور اور مخالفت میں ہیں
+**English (Yusuf Ali):** But the Unbelievers (are steeped) in self-glory and Separatism.
 
 [Open on Quran.com](https://quran.com/38/2)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Have you considered: if it [i.e., the Qur’ān] is from Allāh and you disbelieved in it, who would be more astray than one who is in extreme dissension?"
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ بھلا دیکھو اگر یہ (قرآن) خدا کی طرف سے ہو پھر تم اس سے انکار کرو تو اس سے بڑھ کر کون گمراہ ہے جو (حق کی) پرلے درجے کی مخالفت میں ہو
+**English (Yusuf Ali):** Say: "See ye if the (Revelation) is (really) from Allah, and yet do ye reject it? Who is more astray than one who is in a schism far (from any purpose)?"
 
 [Open on Quran.com](https://quran.com/41/52)
 

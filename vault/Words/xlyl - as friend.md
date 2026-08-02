@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:125 · [[004 An-Nisa]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And who is better in religion than one who submits himself to Allāh while being a doer of good and follows the religion of Abraham, inclining toward truth? And Allāh took Abraham as an intimate friend.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس شخص سے کس کا دین اچھا ہوسکتا ہے جس نے حکم خدا کو قبول کیا اور وہ نیکوکار بھی ہے۔ اور ابراہیم کے دین کا پیرو ہے جو یکسوں (مسلمان ) تھے اور خدا نے ابراہیم کو اپنا دوست بنایا تھا
+**English (Yusuf Ali):** Who can be better in religion than one who submits his whole self to Allah, does good, and follows the way of Abraham the true in Faith? For Allah did take Abraham for a friend.
 
 [Open on Quran.com](https://quran.com/4/125)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, they were about to tempt you away from that which We revealed to you in order to [make] you invent about Us something else; and then they would have taken you as a friend.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اے پیغمبر جو وحی ہم نے تمہاری طرف بھیجی ہے قریب تھا کہ یہ (کافر) لوگ تم کو اس سے بچلا دیں تاکہ تم اس کے سوا اور باتیں ہماری نسبت بنالو۔ اور اس وقت وہ تم کو دوست بنا لیتے
+**English (Yusuf Ali):** And their purpose was to tempt thee away from that which We had revealed unto thee, to substitute in our name something quite different; (in that case), behold! they would certainly have made thee (their) friend!
 
 [Open on Quran.com](https://quran.com/17/73)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Oh, woe to me! I wish I had not taken that one as a friend.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہائے شامت کاش میں نے فلاں شخص کو دوست نہ بنایا ہوتا
+**English (Yusuf Ali):** "Ah! woe is me! Would that I had never taken such a one for a friend!
 
 [Open on Quran.com](https://quran.com/25/28)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Close friends, that Day, will be enemies to each other, except for the righteous
 
-**Urdu (Fatah Muhammad Jalandhari):** (جو آپس میں) دوست (ہیں) اس روز ایک دوسرے کے دشمن ہوں گے۔ مگر پرہیزگار (کہ باہم دوست ہی رہیں گے)
+**English (Yusuf Ali):** Friends on that day will be foes, one to another,- except the Righteous.
 
 [Open on Quran.com](https://quran.com/43/67)
 

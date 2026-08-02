@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:137 · [[007 Al-Araf]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We caused the people who had been oppressed to inherit the eastern regions of the land and the western ones, which We had blessed. And the good word [i.e., decree] of your Lord was fulfilled for the Children of Israel because of what they had patiently endured. And We destroyed [all] that Pharaoh and his people were producing and what they had been building.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ کمزور سمجھے جاتے تھے ان کو زمین (شام) کے مشرق ومغرب کا جس میں ہم نے برکت دی تھی وارث کردیا اور بنی اسرائیل کے بارے میں ان کے صبر کی وجہ سے تمہارے پروردگار کا وعدہٴ نیک پورا ہوا اور فرعون اور قوم فرعون جو (محل) بناتے اور (انگور کے باغ) جو چھتریوں پر چڑھاتے تھے سب کو ہم نے تباہ کردیا
+**English (Yusuf Ali):** And We made a people, considered weak (and of no account), inheritors of lands in both east and west, - lands whereon We sent down Our blessings. The fair promise of thy Lord was fulfilled for the Children of Israel, because they had patience and constancy, and We levelled to the ground the great works and fine buildings which Pharaoh and his people erected (with such pride).
 
 [Open on Quran.com](https://quran.com/7/137)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when We intend to destroy a city, We command its affluent but they defiantly disobey therein; so the word [i.e., deserved decree] comes into effect upon it, and We destroy it with [complete] destruction.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہمارا ارادہ کسی بستی کے ہلاک کرنے کا ہوا تو وہاں کے آسودہ لوگوں کو (فواحش پر) مامور کردیا تو وہ نافرمانیاں کرتے رہے۔ پھر اس پر (عذاب کا) حکم ثابت ہوگیا۔ اور ہم نے اسے ہلاک کر ڈالا
+**English (Yusuf Ali):** When We decide to destroy a population, We (first) send a definite order to those among them who are given the good things of this life and yet transgress; so that the word is proved true against them: then (it is) We destroy them utterly.
 
 [Open on Quran.com](https://quran.com/17/16)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We said, "Go both of you to the people who have denied Our signs." Then We destroyed them with [complete] destruction.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہا کہ دونوں ان لوگوں کے پاس جاؤ جن لوگوں نے ہماری آیتوں کی تکذیب کی۔ (جب تکذیب پر اڑے رہے) تو ہم نے ان کو ہلاک کر ڈالا
+**English (Yusuf Ali):** And We command: "Go ye both, to the people who have rejected our Signs:" And those (people) We destroyed with utter destruction.
 
 [Open on Quran.com](https://quran.com/25/36)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We destroyed the others.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے اوروں کو ہلاک کردیا
+**English (Yusuf Ali):** But the rest We destroyed utterly.
 
 [Open on Quran.com](https://quran.com/26/172)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then look how was the outcome of their plan - that We destroyed them and their people, all.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو دیکھ لو ان کی چال کا کیسا انجام ہوا۔ ہم نے ان کو اور ان کی قوم سب کو ہلاک کر ڈالا
+**English (Yusuf Ali):** Then see what was the end of their plot!- this, that We destroyed them and their people, all (of them).
 
 [Open on Quran.com](https://quran.com/27/51)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We destroyed the others.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے اوروں کو ہلاک کردیا
+**English (Yusuf Ali):** Then We destroyed the rest.
 
 [Open on Quran.com](https://quran.com/37/136)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Destroying everything by command of its Lord. And they became so that nothing was seen [of them] except their dwellings. Thus do We recompense the criminal people.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہر چیز کو اپنے پروردگار کے حکم سے تباہ کئے دیتی ہے تو وہ ایسے ہوگئے کہ ان کے گھروں کے سوا کچھ نظر ہی نہیں آتا تھا۔ گنہگار لوگوں کو ہم اسی طرح سزا دیا کرتے ہیں
+**English (Yusuf Ali):** "Everything will it destroy by the command of its Lord!" Then by the morning they - nothing was to be seen but (the ruins of) their houses! thus do We recompense those given to sin!
 
 [Open on Quran.com](https://quran.com/46/25)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have they not traveled through the land and seen how was the end of those before them? Allāh destroyed [everything] over them, and for the disbelievers is something comparable.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے ملک میں سیر نہیں کی تاکہ دیکھتے کہ جو لوگ ان سے پہلے تھے ان کا انجام کیسا ہوا؟ خدا نے ان پر تباہی ڈال دی۔ اور اسی طرح کا (عذاب) ان کافروں کو ہوگا
+**English (Yusuf Ali):** Do they not travel through the earth, and see what was the End of those before them (who did evil)? Allah brought utter destruction on them, and similar (fates await) those who reject Allah.
 
 [Open on Quran.com](https://quran.com/47/10)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:138 · [[003 Ali Imran]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** This [Qur’ān] is a clear statement to [all] the people and a guidance and instruction for those conscious of Allāh.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ (قرآن) لوگوں کے لیے بیان صریح اور اہلِ تقویٰ کے لیے ہدایت اور نصیحت ہے
+**English (Yusuf Ali):** Here is a plain statement to men, a guidance and instruction to those who fear Allah!
 
 [Open on Quran.com](https://quran.com/3/138)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [And] taught him eloquence.
 
-**Urdu (Fatah Muhammad Jalandhari):** اسی نے اس کو بولنا سکھایا
+**English (Yusuf Ali):** He has taught him speech (and intelligence).
 
 [Open on Quran.com](https://quran.com/55/4)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then upon Us is its clarification [to you].
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اس (کے معانی) کا بیان بھی ہمارے ذمے ہے
+**English (Yusuf Ali):** Nay more, it is for Us to explain it (and make it clear):
 
 [Open on Quran.com](https://quran.com/75/19)
 

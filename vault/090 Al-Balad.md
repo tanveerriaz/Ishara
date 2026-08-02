@@ -14,31 +14,31 @@ The City · 20 ayahs
 
 ## Words in this surah (graph)
 
-- [[wld - children]] — `وَلَد` · children
-- [[qAl - say]] — `قالَ` · say
-- [[mAl - wealth]] — `مال` · wealth
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[Hl - lawful]] — `حِلّ` · lawful
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[mskyn - needy]] — `مِسْكِين` · needy
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[nAr - fire]] — `نار` · fire
-- [[twAS - enjoin each other]] — `تَواصَ` · enjoin each other
-- [[<TEAm - feeding]] — `إِطْعام` · feeding
-- [[wAld - parents]] — `والِد` · parents
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
-- [[Ayp - signs]] — `آيَة` · signs
+- [[kAn - is]] — `كانَ` · is
+- [[Eyn - eyes]] — `عَيْن` · eyes
 - [[rqbp - slave]] — `رَقَبَة` · slave
-- [[bld - city]] — `بَلَد` · city
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[twAS - enjoin each other]] — `تَواصَ` · enjoin each other
+- [[ytym - orphans]] — `يَتِيم` · orphans
+- [[mskyn - needy]] — `مِسْكِين` · needy
+- [[nAr - fire]] — `نار` · fire
 - [[qdr - restricts]] — `قَدَر` · restricts
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[lsAn - tongues]] — `لِسان` · tongues
 - [[>Hd - anyone]] — `أَحَد` · anyone
-- [[jEl - we made]] — `جَعَلَ` · we made
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[>SHAb - companions]] — `أَصْحاب` · companions
 - [[Sbr - patient]] — `صَبْر` · patient
+- [[wAld - parents]] — `والِد` · parents
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[mAl - wealth]] — `مال` · wealth
+- [[Hl - lawful]] — `حِلّ` · lawful
+- [[bld - city]] — `بَلَد` · city
+- [[lsAn - tongues]] — `لِسان` · tongues
+- [[qAl - say]] — `قالَ` · say
+- [[Ayp - signs]] — `آيَة` · signs
 - [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[ywm - day]] — `يَوْم` · day
+- [[Amn - believe]] — `آمَنَ` · believe
 
 ## Roots
 

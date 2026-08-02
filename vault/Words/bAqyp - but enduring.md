@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 18:46 · [[018 Al-Kahf]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Wealth and children are [but] adornment of the worldly life. But the enduring good deeds are better to your Lord for reward and better for [one's] hope.
 
-**Urdu (Fatah Muhammad Jalandhari):** مال اور بیٹے تو دنیا کی زندگی کی (رونق و) زینت ہیں۔ اور نیکیاں جو باقی رہنے والی ہیں وہ ثواب کے لحاظ سے تمہارے پروردگار کے ہاں بہت اچھی اور امید کے لحاظ سے بہت بہتر ہیں
+**English (Yusuf Ali):** Wealth and sons are allurements of the life of this world: But the things that endure, good deeds, are best in the sight of thy Lord, as rewards, and best as (the foundation for) hopes.
 
 [Open on Quran.com](https://quran.com/18/46)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Allāh increases those who were guided, in guidance, and the enduring good deeds are better to your Lord for reward and better for recourse.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ہدایت یاب ہیں خدا ان کو زیادہ ہدایت دیتا ہے۔ اور نیکیاں جو باقی رہنے والی ہیں وہ تمہارے پروردگار کے صلے کے لحاظ سے خوب اور انجام کے اعتبار سے بہتر ہیں
+**English (Yusuf Ali):** "And Allah doth advance in guidance those who seek guidance: and the things that endure, Good Deeds, are best in the sight of thy Lord, as rewards, and best in respect of (their) eventual return."
 
 [Open on Quran.com](https://quran.com/19/76)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he made it a word remaining among his descendants that they might return [to it].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہی بات اپنی اولاد میں پیچھے چھوڑ گئے تاکہ وہ (خدا کی طرف) رجوع کریں
+**English (Yusuf Ali):** And he left it as a Word to endure among those who came after him, that they may turn back (to Allah).
 
 [Open on Quran.com](https://quran.com/43/28)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then do you see of them any remains?
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تو ان میں سے کسی کو بھی باقی دیکھتا ہے؟
+**English (Yusuf Ali):** Then seest thou any of them left surviving?
 
 [Open on Quran.com](https://quran.com/69/8)
 

@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:121 · [[003 Ali Imran]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [remember] when you, [O Muḥammad], left your family in the morning to post the believers at their stations for the battle [of Uḥud] - and Allāh is Hearing and Knowing -
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (اس وقت کو یاد کرو) جب تم صبح کو اپنے گھر روانہ ہو کر ایمان والوں کو لڑائی کے لیے مورچوں پر (موقع بہ موقع) متعین کرنے لگے اور خدا سب کچھ سنتا اور جانتا ہے
+**English (Yusuf Ali):** Remember that morning Thou didst leave Thy household (early) to post the faithful at their stations for battle: And Allah heareth and knoweth all things:
 
 [Open on Quran.com](https://quran.com/3/121)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And remember when He made you successors after the ʿAad and settled you in the land, [and] you take for yourselves palaces from its plains and carve from the mountains, homes. Then remember the favors of Allāh and do not commit abuse on the earth, spreading corruption."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یاد تو کرو جب اس نے تم کو قوم عاد کے بعد سردار بنایا اور زمین پر آباد کیا کہ نرم زمین سے (مٹی لے لے کر) محل تعمیر کرتے ہو اور پہاڑوں کو تراش تراش کر گھر بناتے ہو۔ پس خدا کی نعمتوں کو یاد کرو اور زمین میں فساد نہ کرتے پھرو
+**English (Yusuf Ali):** "And remember how He made you inheritors after the 'Ad people and gave you habitations in the land: ye build for yourselves palaces and castles in (open) plains, and carve out homes in the mountains; so bring to remembrance the benefits (ye have received) from Allah, and refrain from evil and mischief on the earth."
 
 [Open on Quran.com](https://quran.com/7/74)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We had certainly settled the Children of Israel in an agreeable settlement and provided them with good things. And they did not differ until [after] knowledge had come to them. Indeed, your Lord will judge between them on the Day of Resurrection concerning that over which they used to differ.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بنی اسرائیل کو رہنے کو عمدہ جگہ دی اور کھانے کو پاکیزہ چیزیں عطا کیں لیکن وہ باوجود علم ہونے کے اختلاف کرتے رہے۔ بےشک جن باتوں میں وہ اختلاف کرتے رہے ہیں تمہارا پروردگار قیامت کے دن ان میں ان باتوں کا فیصلہ کردے گا
+**English (Yusuf Ali):** We settled the Children of Israel in a beautiful dwelling-place, and provided for them sustenance of the best: it was after knowledge had been granted to them, that they fell into schisms. Verily Allah will judge between them as to the schisms amongst them, on the Day of Judgment.
 
 [Open on Quran.com](https://quran.com/10/93)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who emigrated for [the cause of] Allāh after they had been wronged - We will surely settle them in this world in a good place; but the reward of the Hereafter is greater, if only they could know.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے ظلم سہنے کے بعد خدا کے لیے وطن چھوڑا ہم ان کو دنیا میں اچھا ٹھکانا دیں گے۔ اور آخرت کا اجر تو بہت بڑا ہے۔ کاش وہ (اسے) جانتے
+**English (Yusuf Ali):** To those who leave their homes in the cause of Allah, after suffering oppression,- We will assuredly give a goodly home in this world; but truly the reward of the Hereafter will be greater. If they only realised (this)!
 
 [Open on Quran.com](https://quran.com/16/41)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], when We designated for Abraham the site of the House, [saying], "Do not associate anything with Me and purify My House for those who perform ṭawāf and those who stand [in prayer] and those who bow and prostrate.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور ایک وقت تھا) جب ہم نے ابراہیم کے لئے خانہ کعبہ کو مقرر کیا (اور ارشاد فرمایا) کہ میرے ساتھ کسی چیز کو شریک نہ کیجیو اور طواف کرنے والوں اور قیام کرنے والوں اور رکوع کرنے والوں (اور) سجدہ کرنے والوں کے لئے میرے گھر کو صاف رکھا کرو
+**English (Yusuf Ali):** Behold! We gave the site, to Abraham, of the (Sacred) House, (saying): "Associate not anything (in worship) with Me; and sanctify My House for those who compass it round, or stand up, or bow, or prostrate themselves (therein in prayer).
 
 [Open on Quran.com](https://quran.com/22/26)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who have believed and done righteous deeds - We will surely assign to them of Paradise [elevated] chambers beneath which rivers flow, wherein they abide eternally. Excellent is the reward of the [righteous] workers
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے اُن کو ہم بہشت کے اُونچے اُونچے محلوں میں جگہ دیں گے۔ جن کے نیچے نہریں بہ رہی ہیں۔ ہمیشہ ان میں رہیں گے۔ (نیک )عمل کرنے والوں کا (یہ) خوب بدلہ ہے
+**English (Yusuf Ali):** But those who believe and work deeds of righteousness - to them shall We give a Home in Heaven,- lofty mansions beneath which flow rivers,- to dwell therein for aye;- an excellent reward for those who do (good)!-
 
 [Open on Quran.com](https://quran.com/29/58)
 

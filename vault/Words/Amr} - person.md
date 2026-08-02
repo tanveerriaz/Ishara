@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 24:11 · [[024 An-Nur]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who came with falsehood are a group among you. Do not think it bad for you; rather, it is good for you. For every person among them is what [punishment] he has earned from the sin, and he who took upon himself the greater portion thereof - for him is a great punishment [i.e., Hellfire].
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے بہتان باندھا ہے تم ہی میں سے ایک جماعت ہے اس کو اپنے حق میں برا نہ سمجھنا۔ بلکہ وہ تمہارے لئے اچھا ہے۔ ان میں سے جس شخص نے گناہ کا جتنا حصہ لیا اس کے لئے اتنا ہی وبال ہے۔ اور جس نے ان میں سے اس بہتان کا بڑا بوجھ اٹھایا ہے اس کو بڑا عذاب ہوگا
+**English (Yusuf Ali):** Those who brought forward the lie are a body among yourselves: think it not to be an evil to you; On the contrary it is good for you: to every man among them (will come the punishment) of the sin that he earned, and to him who took on himself the lead among them, will be a penalty grievous.
 
 [Open on Quran.com](https://quran.com/24/11)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who believed and whose descendants followed them in faith - We will join with them their descendants, and We will not deprive them of anything of their deeds. Every person, for what he earned, is retained.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور ان کی اولاد بھی (راہ) ایمان میں ان کے پیچھے چلی۔ ہم ان کی اولاد کو بھی ان (کے درجے) تک پہنچا دیں گے اور ان کے اعمال میں سے کچھ کم نہ کریں گے۔ ہر شخص اپنے اعمال میں پھنسا ہوا ہے
+**English (Yusuf Ali):** And those who believe and whose families follow them in Faith,- to them shall We join their families: Nor shall We deprive them (of the fruit) of aught of their works: (Yet) is each individual in pledge for his deeds.
 
 [Open on Quran.com](https://quran.com/52/21)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Does every person among them aspire to enter a garden of pleasure?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا ان میں سے ہر شخص یہ توقع رکھتا ہے کہ نعمت کے باغ میں داخل کیا جائے گا
+**English (Yusuf Ali):** Does every man of them long to enter the Garden of Bliss?
 
 [Open on Quran.com](https://quran.com/70/38)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Rather, every person among them desires that he would be given scriptures spread about.
 
-**Urdu (Fatah Muhammad Jalandhari):** اصل یہ ہے کہ ان میں سے ہر شخص یہ چاہتا ہے کہ اس کے پاس کھلی ہوئی کتاب آئے
+**English (Yusuf Ali):** Forsooth, each one of them wants to be given scrolls (of revelation) spread out!
 
 [Open on Quran.com](https://quran.com/74/52)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** For every man, that Day, will be a matter adequate for him.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہر شخص اس روز ایک فکر میں ہو گا جو اسے( مصروفیت کے لیے) بس کرے گا
+**English (Yusuf Ali):** Each one of them, that Day, will have enough concern (of his own) to make him indifferent to the others.
 
 [Open on Quran.com](https://quran.com/80/37)
 

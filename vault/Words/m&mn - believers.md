@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:8 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And of the people are some who say, "We believe in Allāh and the Last Day," but they are not believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بعض لوگ ایسے ہیں جو کہتے ہیں کہ ہم خدا پر اور روزِ آخرت پر ایمان رکھتے ہیں حالانکہ وہ ایمان نہیں رکھتے
+**English (Yusuf Ali):** Of the people there are some who say: "We believe in Allah and the Last Day;" but they do not (really) believe.
 
 [Open on Quran.com](https://quran.com/2/8)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when it is said to them, "Believe in what Allāh has revealed," they say, "We believe [only] in what was revealed to us." And they disbelieve in what came after it, while it is the truth confirming that which is with them. Say, "Then why did you kill the prophets of Allāh before, if you are [indeed] believers?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان سے کہا جاتا ہے کہ جو (کتاب) خدا نے (اب) نازل فرمائی ہے، اس کو مانو۔ تو کہتے ہیں کہ جو کتاب ہم پر (پہلے) نازل ہو چکی ہے، ہم تو اسی کو مانتے ہیں۔ (یعنی) یہ اس کے سوا کسی اور (کتاب) کو نہیں مانتے، حالانکہ وہ (سراسر) سچی ہے اور جو ان کی (آسمانی) کتاب ہے، اس کی بھی تصدیق کرتی ہے۔ (ان سے) کہہ دو کہ اگر تم صاحبِ ایمان ہوتے تو الله کے پیغمبروں کو پہلے ہی کیوں قتل کیا کرتے
+**English (Yusuf Ali):** When it is said to them, "Believe in what Allah Hath sent down, "they say, "We believe in what was sent down to us:" yet they reject all besides, even if it be Truth confirming what is with them. Say: "Why then have ye slain the prophets of Allah in times gone by, if ye did indeed believe?"
 
 [Open on Quran.com](https://quran.com/2/91)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [recall] when We took your covenant and raised over you the mount, [saying], "Take what We have given you with determination and listen." They said [instead], "We hear and disobey." And their hearts absorbed [the worship of] the calf because of their disbelief. Say, "How wretched is that which your faith enjoins upon you, if you should be believers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے تم (لوگوں) سے عہد واثق لیا اور کوہ طور کو تم پر اٹھا کھڑا کیا (اور حکم دیا کہ) جو (کتاب) ہم نے تم کو دی ہے، اس کو زور سے پکڑو اور جو تمہیں حکم ہوتا ہے (اس کو) سنو تو وہ (جو تمہارے بڑے تھے) کہنے لگے کہ ہم نے سن تو لیا لیکن مانتے نہیں۔ اور ان کے کفر کے سبب بچھڑا (گویا) ان کے دلوں میں رچ گیا تھا۔ (اے پیغمبر ان سے) کہہ دو کہ اگر تم مومن ہو تو تمہارا ایمان تم کو بری بات بتاتا ہے
+**English (Yusuf Ali):** And remember We took your covenant and We raised above you (the towering height) of Mount (Sinai): (Saying): "Hold firmly to what We have given you, and hearken (to the Law)": They said:" We hear, and we disobey:" And they had to drink into their hearts (of the taint) of the calf because of their Faithlessness. Say: "Vile indeed are the behests of your Faith if ye have any faith!"
 
 [Open on Quran.com](https://quran.com/2/93)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Whoever is an enemy to Gabriel - it is [none but] he who has brought it [i.e., the Qur’ān] down upon your heart, [O Muḥammad], by permission of Allāh, confirming that which was before it and as guidance and good tidings for the believers."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ جو شخص جبرئیل کا دشمن ہو (اس کو غصے میں مر جانا چاہیئے) اس نے تو (یہ کتاب) خدا کے حکم سے تمہارے دل پر نازل کی ہے جو پہلی کتابوں کی تصدیق کرتی ہے، اور ایمان والوں کے لیے ہدایت اور بشارت ہے
+**English (Yusuf Ali):** Say: Whoever is an enemy to Gabriel-for he brings down the (revelation) to thy heart by Allah's will, a confirmation of what went before, and guidance and glad tidings for those who believe,-
 
 [Open on Quran.com](https://quran.com/2/97)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not marry polytheistic women until they believe. And a believing slave woman is better than a polytheist, even though she might please you. And do not marry polytheistic men [to your women] until they believe. And a believing slave is better than a polytheist, even though he might please you. Those invite [you] to the Fire, but Allāh invites to Paradise and to forgiveness, by His permission. And He makes clear His verses [i.e., ordinances] to the people that perhaps they may remember.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (مومنو) مشرک عورتوں سے جب تک کہ ایمان نہ لائیں نکاح نہ کرنا۔ کیونکہ مشرک عورت خواہ تم کو کیسی ہی بھلی لگے اس سے مومن لونڈی بہتر ہے۔ اور (اسی طرح) مشرک مرد جب تک ایمان نہ لائیں مومن عورتوں کو ان کو زوجیت میں نہ دینا کیونکہ مشرک (مرد) سے خواہ وہ تم کو کیسا ہی بھلا لگے مومن غلام بہتر ہے۔ یہ (مشرک لوگوں کو) دوزخ کی طرف بلاتے ہیں۔ اور خدا اپنی مہربانی سے بہشت اور بخشش کی طرف بلاتا ہے۔ اور اپنے حکم لوگوں سے کھول کھول کر بیان کرتا ہے تاکہ نصیحت حاصل کریں
+**English (Yusuf Ali):** Do not marry unbelieving women (idolaters), until they believe: A slave woman who believes is better than an unbelieving woman, even though she allures you. Nor marry (your girls) to unbelievers until they believe: A man slave who believes is better than an unbeliever, even though he allures you. Unbelievers do (but) beckon you to the Fire. But Allah beckons by His Grace to the Garden (of bliss) and forgiveness, and makes His Signs clear to mankind: That they may celebrate His praise.
 
 [Open on Quran.com](https://quran.com/2/221)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Your wives are a place of cultivation [i.e., sowing of seed] for you, so come to your place of cultivation however you wish and put forth [righteousness] for yourselves. And fear Allāh and know that you will meet Him. And give good tidings to the believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** تمہاری عورتیں تمہارای کھیتی ہیں تو اپنی کھیتی میں جس طرح چاہو جاؤ۔ اور اپنے لئے (نیک عمل) آگے بھیجو۔ اور خدا سے ڈرتے رہو اور جان رکھو کہ (ایک دن) تمہیں اس کے روبرو حاضر ہونا ہے اور (اے پیغمبر) ایمان والوں کو بشارت سنا دو
+**English (Yusuf Ali):** Your wives are as a tilth unto you; so approach your tilth when or how ye will; but do some good act for your souls beforehand; and fear Allah. And know that ye are to meet Him (in the Hereafter), and give (these) good tidings to those who believe.
 
 [Open on Quran.com](https://quran.com/2/223)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And their prophet said to them, "Indeed, a sign of his kingship is that the chest will come to you in which is assurance from your Lord and a remnant of what the family of Moses and the family of Aaron had left, carried by the angels. Indeed in that is a sign for you, if you are believers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبر نے ان سے کہا کہ ان کی بادشاہی کی نشانی یہ ہے کہ تمہارے پاس ایک صندوق آئے گا جس کو فرشتے اٹھائے ہوئے ہوں گے اس میں تمہارے پروردگار کی طرف سے تسلی (بخشنے والی چیز) ہوگی اور کچھ اور چیزیں بھی ہوں گی جو موسیٰ اور ہارون چھوڑ گئے تھے۔ اگر تم ایمان رکھتے ہو تو یہ تمہارے لئے ایک بڑی نشانی ہے
+**English (Yusuf Ali):** And (further) their Prophet said to them: "A Sign of his authority is that there shall come to you the Ark of the covenant, with (an assurance) therein of security from your Lord, and the relics left by the family of Moses and the family of Aaron, carried by angels. In this is a symbol for you if ye indeed have faith."
 
 [Open on Quran.com](https://quran.com/2/248)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, fear Allāh and give up what remains [due to you] of interest, if you should be believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا سے ڈرو اور اگر ایمان رکھتے ہو تو جتنا سود باقی رہ گیا ہے اس کو چھوڑ دو
+**English (Yusuf Ali):** O ye who believe! Fear Allah, and give up what remains of your demand for usury, if ye are indeed believers.
 
 [Open on Quran.com](https://quran.com/2/278)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allāh and His angels and His books and His messengers, [saying], "We make no distinction between any of His messengers." And they say, "We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination."
 
-**Urdu (Fatah Muhammad Jalandhari):** رسول (خدا) اس کتاب پر جو ان کے پروردگار کی طرف سے ان پر نازل ہوئی ایمان رکھتے ہیں اور مومن بھی۔ سب خدا پر اور اس کے فرشتوں پر اور اس کی کتابوں پر اور اس کے پیغمبروں پر ایمان رکھتے ہیں (اورکہتے ہیں کہ) ہم اس کے پیغمبروں سے کسی میں کچھ فرق نہیں کرتے اور وہ (خدا سے) عرض کرتے ہیں کہ ہم نے (تیرا حکم) سنا اور قبول کیا۔ اے پروردگار ہم تیری بخشش مانگتے ہیں اور تیری ہی طرف لوٹ کر جانا ہے
+**English (Yusuf Ali):** The Messenger believeth in what hath been revealed to him from his Lord, as do the men of faith. Each one (of them) believeth in Allah, His angels, His books, and His messengers. "We make no distinction (they say) between one and another of His messengers." And they say: "We hear, and we obey: (We seek) Thy forgiveness, our Lord, and to Thee is the end of all journeys."
 
 [Open on Quran.com](https://quran.com/2/285)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Let not believers take disbelievers as allies [i.e., supporters or protectors] rather than believers. And whoever [of you] does that has nothing [i.e., no association] with Allāh, except when taking precaution against them in prudence. And Allāh warns you of Himself, and to Allāh is the [final] destination.
 
-**Urdu (Fatah Muhammad Jalandhari):** مؤمنوں کو چاہئے کہ مؤمنوں کے سوا کافروں کو دوست نہ بنائیں اور جو ایسا کرے گا اس سے خدا کا کچھ (عہد) نہیں ہاں اگر اس طریق سے تم ان (کے شر) سے بچاؤ کی صورت پیدا کرو (تو مضائقہ نہیں) اور خدا تم کو اپنے (غضب) سے ڈراتا ہے اور خدا ہی کی طرف (تم کو) لوٹ کر جانا ہے
+**English (Yusuf Ali):** Let not the believers Take for friends or helpers Unbelievers rather than believers: if any do that, in nothing will there be help from Allah: except by way of precaution, that ye may Guard yourselves from them. But Allah cautions you (To remember) Himself; for the final goal is to Allah.
 
 [Open on Quran.com](https://quran.com/3/28)
 

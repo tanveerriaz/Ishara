@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 17:34 · [[017 Al-Isra]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not approach the property of an orphan, except in the way that is best, until he reaches maturity. And fulfill [every] commitment. Indeed, the commitment is ever [that about which one will be] questioned.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ پھٹکنا مگر ایسے طریق سے کہ بہت بہتر ہو یہاں تک کہ ہو جوانی کو پہنچ جائے۔ اور عہد کو پورا کرو کہ عہد کے بارے میں ضرور پرسش ہوگی
+**English (Yusuf Ali):** Come not nigh to the orphan's property except to improve it, until he attains the age of full strength; and fulfil (every) engagement, for (every) engagement will be enquired into (on the Day of Reckoning).
 
 [Open on Quran.com](https://quran.com/17/34)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart - about all those [one] will be questioned.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (اے بندے) جس چیز کا تجھے علم نہیں اس کے پیچھے نہ پڑ۔ کہ کان اور آنکھ اور دل ان سب (جوارح) سے ضرور باز پرس ہوگی
+**English (Yusuf Ali):** And pursue not that of which thou hast no knowledge; for every act of hearing, or of seeing or of (feeling in) the heart will be enquired into (on the Day of Reckoning).
 
 [Open on Quran.com](https://quran.com/17/36)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** For them therein is whatever they wish, [while] abiding eternally. It is ever upon your Lord a promise [worthy to be] requested.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہاں جو چاہیں گے ان کے لئے میسر ہوگا ہمیشہ اس میں رہیں گے۔ یہ وعدہ خدا کو (پورا کرنا) لازم ہے اور اس لائق ہے کہ مانگ لیا جائے
+**English (Yusuf Ali):** "For them there will be therein all that they wish for: they will dwell (there) for aye: A promise to be prayed for from thy Lord."
 
 [Open on Quran.com](https://quran.com/25/16)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they had already promised Allāh before not to turn their backs [i.e., flee]. And ever is the promise to Allāh [that about which one will be] questioned.
 
-**Urdu (Fatah Muhammad Jalandhari):** حالانکہ پہلے خدا سے اقرار کر چکے تھے کہ پیٹھ نہیں پھریں گے۔ اور خدا سے (جو) اقرار (کیا جاتا ہے اُس کی) ضرور پرسش ہوگی
+**English (Yusuf Ali):** And yet they had already covenanted with Allah not to turn their backs, and a covenant with Allah must (surely) be answered for.
 
 [Open on Quran.com](https://quran.com/33/15)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And stop them; indeed, they are to be questioned."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کو ٹھیرائے رکھو کہ ان سے (کچھ) پوچھنا ہے
+**English (Yusuf Ali):** "But stop them, for they must be asked:
 
 [Open on Quran.com](https://quran.com/37/24)
 

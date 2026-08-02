@@ -16,29 +16,29 @@ The Ornaments of Gold · 89 ayahs
 
 - [[Antqm - so we took]] — `انتَقَمْ` · so we took
 - [[qryn - companion]] — `قَرِين` · companion
-- [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[xyr - better]] — `خَيْر` · better
-- [[bnY - children]] — `بُنَىّ` · children
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[mhtdy - guided ones]] — `مُهْتَدي` · guided ones
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[mA' - water]] — `ماء` · water
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[mntqm - will take retribution]] — `مُنتَقِم` · will take retribution
-- [[EZym - great]] — `عَظِيم` · great
-- [[dEA - call]] — `دَعا` · call
-- [[drjp - degrees]] — `دَرَجَة` · degrees
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[mhd - cradle]] — `مَهْد` · cradle
-- [[qryp - town]] — `قَرْيَة` · town
-- [[k$f - we removed]] — `كَشَفَ` · we removed
-- [[>kwAb - cups]] — `أَكْواب` · cups
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[sqf - roof]] — `سَقْف` · roof
+- [[kvyrp - many]] — `كَثِيرَة` · many
+- [[n*yr - warner]] — `نَذِير` · warner
+- [[dEA - call]] — `دَعا` · call
+- [[qbl - before]] — `قَبْل` · before
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[mqrn - bound together]] — `مُقَرَّن` · bound together
+- [[wjh - faces]] — `وَجْه` · faces
+- [[wAHdp - single]] — `واحِدَة` · single
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[njwY - private conversation]] — `نَجْوَى` · private conversation
+- [[ylAq - they meet]] — `يُلاقُ` · they meet
+- [[Er$ - throne]] — `عَرْش` · throne
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[lys - not]] — `لَيْسَ` · not
+- [[nAdY - he called]] — `نادَى` · he called
+- [[mhyn - despised]] — `مَهِين` · despised
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[xlf - behind them]] — `خَلْف` · behind them
+- [[Eml - do]] — `عَمِلَ` · do
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[DHkt - laugh]] — `ضَحِكَتْ` · laugh
 
 ## Roots
 

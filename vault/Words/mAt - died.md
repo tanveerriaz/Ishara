@@ -44,7 +44,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:132 · [[002 Al-Baqarah]]
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Abraham instructed his sons [to do the same] and [so did] Jacob, [saying], "O my sons, indeed Allāh has chosen for you this religion, so do not die except while you are Muslims."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ابرہیم نے اپنے بیٹوں کو اسی بات کی وصیت کی اور یعقوب نے بھی (اپنے فرزندوں سے یہی کہا) کہ بیٹا خدا نے تمہارے لیے یہی دین پسند فرمایا ہے تو مرنا ہے تو مسلمان ہی مرنا
+**English (Yusuf Ali):** And this was the legacy that Abraham left to his sons, and so did Jacob; "Oh my sons! Allah hath chosen the Faith for you; then die not except in the Faith of Islam."
 
 [Open on Quran.com](https://quran.com/2/132)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve and die while they are disbelievers - upon them will be the curse of Allāh and of the angels and the people, all together,
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے اور کافر ہی مرے ایسوں پر خدا کی اور فرشتوں اور لوگوں کی سب کی لعنت
+**English (Yusuf Ali):** Those who reject Faith, and die rejecting,- on them is Allah's curse, and the curse of angels, and of all mankind;
 
 [Open on Quran.com](https://quran.com/2/161)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They ask you about the sacred month - about fighting therein. Say, "Fighting therein is great [sin], but averting [people] from the way of Allāh and disbelief in Him and [preventing access to] al-Masjid al-Ḥarām and the expulsion of its people therefrom are greater [evil] in the sight of Allāh. And fitnah is greater than killing." And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire; they will abide therein eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) لوگ تم سے عزت والے مہینوں میں لڑائی کرنے کے بارے میں دریافت کرتے ہیں کہہ دو کہ ان میں لڑنا بڑا (گناہ) ہےاور خدا کی راہ سے روکنا اور اس سے کفر کرنا اور مسجد حرام (یعنی خانہ کعبہ میں جانے) سے (بند کرنا)۔ اور اہل مسجد کو اس میں سے نکال دینا (جو یہ کفار کرتے ہیں) خدا کے نزدیک اس سے بھی زیادہ (گناہ) ہے۔ اور فتنہ انگیزی خونریزی سے بھی بڑھ کر ہے۔ اور یہ لوگ ہمیشہ تم سے لڑتے رہیں گے یہاں تک کہ اگر مقدور رکھیں تو تم کو تمہارے دین سے پھیر دیں۔ اور جو کوئی تم میں سے اپنے دین سے پھر کر (کافر ہو) جائے گا اور کافر ہی مرے گا تو ایسے لوگوں کے اعمال دنیا اور آخرت دونوں میں برباد ہوجائیں گے اور یہی لوگ دوزخ (میں جانے) والے ہیں جس میں ہمیشہ رہیں گے
+**English (Yusuf Ali):** They ask thee concerning fighting in the Prohibited Month. Say: "Fighting therein is a grave (offence); but graver is it in the sight of Allah to prevent access to the path of Allah, to deny Him, to prevent access to the Sacred Mosque, and drive out its members." Tumult and oppression are worse than slaughter. Nor will they cease fighting you until they turn you back from your faith if they can. And if any of you Turn back from their faith and die in unbelief, their works will bear no fruit in this life and in the Hereafter; they will be companions of the Fire and will abide therein.
 
 [Open on Quran.com](https://quran.com/2/217)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have you not considered those who left their homes in many thousands, fearing death? Allāh said to them, "Die"; then He restored them to life. And Allāh is the possessor of bounty for the people, but most of the people do not show gratitude.
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جو (شمار میں) ہزاروں ہی تھے اور موت کے ڈر سے اپنے گھروں سے نکل بھاگے تھے۔ تو خدا نے ان کو حکم دیا کہ مرجاؤ۔ پھر ان کو زندہ بھی کردیا۔ کچھ شک نہیں کہ خدا لوگوں پر مہربانی رکھتا ہے۔ لیکن اکثر لوگ شکر نہیں کرتے
+**English (Yusuf Ali):** Didst thou not Turn by vision to those who abandoned their homes, though they were thousands (In number), for fear of death? Allah said to them: "Die": Then He restored them to life. For Allah is full of bounty to mankind, but Most of them are ungrateful.
 
 [Open on Quran.com](https://quran.com/2/243)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve and die while they are disbelievers - never would the [whole] capacity of the earth in gold be accepted from one of them if he would [seek to] ransom himself with it. For those there will be a painful punishment, and they will have no helpers.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے اور کفر ہی کی حالت میں مر گئے وہ اگر (نجات حاصل کرنی چاہیں اور) بدلے میں زمین بھر کر سونا دیں تو ہرگز قبول نہ کیا جائے گا ان لوگوں کو دکھ دینے والا عذاب ہو گا اور ان کی کوئی مدد نہیں کرے گا
+**English (Yusuf Ali):** As to those who reject Faith, and die rejecting,- never would be accepted from any such as much gold as the earth contains, though they should offer it for ransom. For such is (in store) a penalty grievous, and they will find no helpers.
 
 [Open on Quran.com](https://quran.com/3/91)
 
@@ -138,7 +138,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, fear Allāh as He should be feared and do not die except as Muslims [in submission to Him].
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا سے ڈرو جیسا کہ اس سے ڈرنے کا حق ہے اور مرنا تو مسلمان ہی مرنا
+**English (Yusuf Ali):** O ye who believe! Fear Allah as He should be feared, and die not except in a state of Islam.
 
 [Open on Quran.com](https://quran.com/3/102)
 
@@ -154,7 +154,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Here you are loving them but they are not loving you, while you believe in the Scripture - all of it. And when they meet you, they say, "We believe." But when they are alone, they bite their fingertips at you in rage. Say, "Die in your rage. Indeed, Allāh is Knowing of that within the breasts."
 
-**Urdu (Fatah Muhammad Jalandhari):** دیکھو تم ایسے (صاف دل) لوگ ہو کہ ان لوگوں سے دوستی رکھتے ہو حالانکہ وہ تم سے دوستی نہیں رکھتے اور تم سب کتابوں پر ایمان رکھتے ہو (اور وہ تمہاری کتاب کو نہیں مانتے) اور جب تم سے ملتے ہیں تو کہتے ہیں ہم ایمان لے آئے اور جب الگ ہوتے ہیں تو تم پر غصے کے سبب انگلیاں کاٹ کاٹ کھاتے ہیں (ان سے) کہہ دو کہ (بدبختو) غصے میں مر جاؤ خدا تمہارے دلوں کی باتوں سے خوب واقف ہے
+**English (Yusuf Ali):** Ah! ye are those who love them, but they love you not,- though ye believe in the whole of the Book. When they meet you, they say, "We believe": But when they are alone, they bite off the very tips of their fingers at you in their rage. Say: "Perish in your rage; Allah knoweth well all the secrets of the heart."
 
 [Open on Quran.com](https://quran.com/3/119)
 
@@ -170,7 +170,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Muḥammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]? And he who turns back on his heels will never harm Allāh at all; but Allāh will reward the grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور محمد (صلی الله علیہ وسلم) تو صرف (خدا کے) پیغمبر ہیں ان سے پہلے بھی بہت سے پیغمبر ہو گزرے ہیں بھلا اگر یہ مر جائیں یا مارے جائیں تو تم الٹے پاؤں پھر جاؤ؟ (یعنی مرتد ہو جاؤ؟) اور جو الٹے پاؤں پھر جائے گا تو خدا کا کچھ نقصان نہ کر سکے گا اور خدا شکر گزاروں کو (بڑا) ثواب دے گا
+**English (Yusuf Ali):** Muhammad is no more than a messenger: many Were the messenger that passed away before him. If he died or were slain, will ye then Turn back on your heels? If any did turn back on his heels, not the least harm will he do to Allah; but Allah (on the other hand) will swiftly reward those who (serve Him) with gratitude.
 
 [Open on Quran.com](https://quran.com/3/144)
 
@@ -186,7 +186,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is not [possible] for one to die except by permission of Allāh at a decree determined. And whoever desires the reward of this world - We will give him thereof; and whoever desires the reward of the Hereafter - We will give him thereof. And We will reward the grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کسی شخص میں طاقت نہیں کہ خدا کے حکم کے بغیر مر جائے (اس نے موت کا) وقت مقرر کر کے لکھ رکھا ہے اور جو شخص دنیا میں (اپنے اعمال کا) بدلہ چاہے اس کو ہم یہیں بدلہ دے دیں گے اور جو آخرت میں طالبِ ثواب ہو اس کو وہاں اجر عطا کریں گے اور ہم شکر گزاروں کو عنقریب (بہت اچھا) صلہ دیں گے
+**English (Yusuf Ali):** Nor can a soul die except by Allah's leave, the term being fixed as by writing. If any do desire a reward in this life, We shall give it to him; and if any do desire a reward in the Hereafter, We shall give it to him. And swiftly shall We reward those that (serve us with) gratitude.
 
 [Open on Quran.com](https://quran.com/3/145)
 
@@ -202,7 +202,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not be like those who disbelieved and said about their brothers when they traveled through the land or went out to fight, "If they had been with us, they would not have died or have been killed," so Allāh makes that [misconception] a regret within their hearts. And it is Allāh who gives life and causes death, and Allāh is Seeing of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! ان لوگوں جیسے نہ ہونا جو کفر کرتے ہیں اور ان کے (مسلمان) بھائی جب (خدا کی راہ میں) سفر کریں (اور مر جائیں) یا جہاد کو نکلیں (اور مارے جائیں) تو ان کی نسبت کہتے ہیں کہ اگر وہ ہمارے پاس رہتے تو نہ مرتے اور نہ مارے جاتے۔ ان باتوں سے مقصود یہ ہے کہ خدا ان لوگوں کے دلوں میں افسوس پیدا کر دے اور زندگی اور موت تو خدا ہی دیتا ہے اور خدا تمہارے سب کاموں کو دیکھ رہا ہے
+**English (Yusuf Ali):** O ye who believe! Be not like the Unbelievers, who say of their brethren, when they are travelling through the Earth or engaged in fighting: "If they had stayed with us, they would not have died, or been slain." This that Allah may make it a cause of sighs and regrets in their hearts. It is Allah that gives Life and Death, and Allah sees well all that ye do.
 
 [Open on Quran.com](https://quran.com/3/156)
 

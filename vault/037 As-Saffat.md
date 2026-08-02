@@ -15,30 +15,30 @@ Those who set the Ranks · 182 ayahs
 ## Words in this surah (graph)
 
 - [[jHym - hellfire]] — `جَحِيم` · hellfire
-- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
 - [[mHDr - will brought]] — `مُحْضَر` · will brought
-- [[bnt - daughters]] — `بِنْت` · daughters
-- [[*bH - you slaughter]] — `ذُبِحَ` · you slaughter
-- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
-- [[mElwm - known]] — `مَعْلُوم` · known
+- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
 - [[ystft - inquire]] — `يَسْتَفْتُ` · inquire
-- [[krb - distress]] — `كَرْب` · distress
-- [[ytsA'l - you ask]] — `يَتَساءَلُ` · you ask
-- [[EZAm - bones]] — `عِظام` · bones
-- [[<fk - lie]] — `إِفْك` · lie
 - [[TlE - discover]] — `طَلَعَ` · discover
-- [[sA' - evil]] — `ساءَ` · evil
-- [[xyr - better]] — `خَيْر` · better
-- [[TAgy - transgressing]] — `طاغي` · transgressing
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[bnY - children]] — `بُنَىّ` · children
-- [[qAl - say]] — `قالَ` · say
-- [[zqwm - zaqqum]] — `زَقُّوم` · zaqqum
-- [[kwkb - stars]] — `كَوْكَب` · stars
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>gwy - you have sent]] — `أَغْوَيْ` · you have sent
-- [[EZym - great]] — `عَظِيم` · great
-- [[fwAkh - fruits]] — `فَواكِه` · fruits
+- [[EZAm - bones]] — `عِظام` · bones
+- [[*bH - you slaughter]] — `ذُبِحَ` · you slaughter
+- [[ytsA'l - you ask]] — `يَتَساءَلُ` · you ask
+- [[bnt - daughters]] — `بِنْت` · daughters
+- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
+- [[<fk - lie]] — `إِفْك` · lie
+- [[mElwm - known]] — `مَعْلُوم` · known
+- [[krb - distress]] — `كَرْب` · distress
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[HfZ - guard]] — `حِفْظ` · guard
+- [[r>s - heads]] — `رَأْس` · heads
+- [[SAfp - wings outspread]] — `صافَّة` · wings outspread
+- [[dEA - call]] — `دَعا` · call
+- [[qbl - before]] — `قَبْل` · before
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[gAlb - victorious]] — `غالِب` · victorious
+- [[lyl - night]] — `لَيْل` · night
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
 
 ## Roots
 

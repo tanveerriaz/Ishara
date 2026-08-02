@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:22 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [He] who made for you the earth a bed [spread out] and the sky a ceiling and sent down from the sky, rain and brought forth thereby fruits as provision for you. So do not attribute to Allāh equals while you know [that there is nothing similar to Him].
 
-**Urdu (Fatah Muhammad Jalandhari):** جس نے تمھارے لیے زمین کو بچھونا اور آسمان کو چھت بنایا اور آسمان سے مینہ برسا کر تمہارے کھانے کے لیے انواع و اقسام کے میوے پیدا کئے۔ پس کسی کو خدا کا ہمسر نہ بناؤ۔ اور تم جانتے تو ہو
+**English (Yusuf Ali):** Who has made the earth your couch, and the heavens your canopy; and sent down rain from the heavens; and brought forth therewith Fruits for your sustenance; then set not up rivals unto Allah when ye know (the truth).
 
 [Open on Quran.com](https://quran.com/2/22)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اہل جنت) ایسے بچھونوں پر جن کے استرا طلس کے ہیں تکیہ لگائے ہوئے ہوں گے۔ اور دونوں باغوں کے میوے قریب (جھک رہے) ہیں
+**English (Yusuf Ali):** They will recline on Carpets, whose inner linings will be of rich brocade: the Fruit of the Gardens will be near (and easy of reach).
 
 [Open on Quran.com](https://quran.com/55/54)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [upon] beds raised high.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اونچے اونچے فرشوں میں
+**English (Yusuf Ali):** And on Thrones (of Dignity), raised high.
 
 [Open on Quran.com](https://quran.com/56/34)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is the Day when people will be like moths, dispersed,
 
-**Urdu (Fatah Muhammad Jalandhari):** (وہ قیامت ہے) جس دن لوگ ایسے ہوں گے جیسے بکھرے ہوئے پتنگے
+**English (Yusuf Ali):** (It is) a Day whereon men will be like moths scattered about,
 
 [Open on Quran.com](https://quran.com/101/4)
 

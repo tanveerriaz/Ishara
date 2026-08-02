@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:74 · [[002 Al-Baqarah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then your hearts became hardened after that, being like stones or even harder. For indeed, there are stones from which rivers burst forth, and there are some of them that split open and water comes out, and there are some of them that fall down for fear of Allāh. And Allāh is not unaware of what you do.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اس کے بعد تمہارے دل سخت ہو گئے۔ گویا وہ پتھر ہیں یا ان سے بھی زیادہ سخت۔ اور پتھر تو بعضے ایسے ہوتے ہیں کہ ان میں سے چشمے پھوٹ نکلتے ہیں، اور بعضے ایسے ہوتے ہیں کہ پھٹ جاتے ہیں،اور ان میں سے پانی نکلنے لگتا ہے، اور بعضے ایسے ہوتے ہیں کہ خدا کے خوف سے گر پڑتے ہیں، اور خدا تمہارے عملوں سے بے خبر نہیں
+**English (Yusuf Ali):** Thenceforth were your hearts hardened: They became like a rock and even worse in hardness. For among rocks there are some from which rivers gush forth; others there are which when split asunder send forth water; and others which sink for fear of Allah. And Allah is not unmindful of what ye do.
 
 [Open on Quran.com](https://quran.com/2/74)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] the Day when the heaven will split open with [emerging] clouds, and the angels will be sent down in successive descent.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس دن آسمان ابر کے ساتھ پھٹ جائے گا اور فرشتے نازل کئے جائیں گے
+**English (Yusuf Ali):** The Day the heaven shall be rent asunder with clouds, and angels shall be sent down, descending (in ranks),-
 
 [Open on Quran.com](https://quran.com/25/25)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** On the Day the earth breaks away from them [and they emerge] rapidly; that is a gathering easy for Us.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس دن زمین ان پر سے پھٹ جائے گی اور وہ جھٹ پٹ نکل کھڑے ہوں گے۔ یہ جمع کرنا ہمیں آسان ہے
+**English (Yusuf Ali):** The Day when the Earth will be rent asunder, from (men) hurrying out: that will be a gathering together,- quite easy for Us.
 
 [Open on Quran.com](https://quran.com/50/44)
 

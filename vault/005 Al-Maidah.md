@@ -15,30 +15,30 @@ The Table Spread · 120 ayahs
 ## Words in this surah (graph)
 
 - [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
-- [[jzA' - recompense]] — `جَزاء` · recompense
 - [[nb> - news]] — `نَبَّأَ` · news
+- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
 - [[>SbH - they became]] — `أَصْبَحَ` · they became
-- [[Hrm - made unlawful]] — `حَرَّمَ` · made unlawful
-- [[xAsr - losers]] — `خاسِر` · losers
-- [[rjl - man]] — `رَجُل` · man
-- [[EdAwp - enmity]] — `عَداوَة` · enmity
-- [[E*b - punishes]] — `عَذَّبَ` · punishes
-- [[yhwd - jews]] — `يَهُود` · jews
-- [[nwr - light]] — `نُور` · light
-- [[mlkt - possess]] — `مَلَكَتْ` · possess
+- [[jzA' - recompense]] — `جَزاء` · recompense
 - [[TEAm - food]] — `طَعام` · food
-- [[x$y - fear]] — `خَشِيَ` · fear
+- [[nwr - light]] — `نُور` · light
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[EdAwp - enmity]] — `عَداوَة` · enmity
+- [[rjl - man]] — `رَجُل` · man
+- [[mlkt - possess]] — `مَلَكَتْ` · possess
+- [[xAsr - losers]] — `خاسِر` · losers
+- [[Hrm - made unlawful]] — `حَرَّمَ` · made unlawful
+- [[yhwd - jews]] — `يَهُود` · jews
 - [[Dl - lost]] — `ضَلَّ` · lost
-- [[Edl - justice]] — `عَدْل` · justice
-- [[>flH - successful]] — `أَفْلَحَ` · successful
-- [[swA' - it same]] — `سَواء` · it same
-- [[Tyb - good]] — `طَيِّب` · good
 - [[bgDA' - hatred]] — `بَغْضاء` · hatred
 - [[$hAdp - witnessed]] — `شَهادَة` · witnessed
-- [[>x - brother]] — `أَخ` · brother
 - [[fsAd - corruption]] — `فَساد` · corruption
+- [[Edl - justice]] — `عَدْل` · justice
+- [[>hwA' - desires]] — `أَهْواء` · desires
+- [[Tybp - good things]] — `طَيِّبَة` · good things
+- [[dAm - as long as]] — `دامُ` · as long as
 - [[hAd - jews]] — `هادُ` · jews
+- [[Tyb - good]] — `طَيِّب` · good
+- [[>x - brother]] — `أَخ` · brother
 
 ## Roots
 

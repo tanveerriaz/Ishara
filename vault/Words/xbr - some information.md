@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 18:68 · [[018 Al-Kahf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And how can you have patience for what you do not encompass in knowledge?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس بات کی تمہیں خبر ہی نہیں اس پر صبر کر بھی کیوں کرسکتے ہو
+**English (Yusuf Ali):** "And how canst thou have patience about things about which thy understanding is not complete?"
 
 [Open on Quran.com](https://quran.com/18/68)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Thus. And We had encompassed [all] that he had in knowledge.
 
-**Urdu (Fatah Muhammad Jalandhari):** (حقیقت حال) یوں (تھی) اور جو کچھ اس کے پاس تھا ہم کو سب کی خبر تھی
+**English (Yusuf Ali):** (He left them) as they were: We completely understood what was before him.
 
 [Open on Quran.com](https://quran.com/18/91)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Mention] when Moses said to his family, "Indeed, I have perceived a fire. I will bring you from there information or will bring you a burning torch that you may warm yourselves."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب موسیٰ نے اپنے گھر والوں سے کہا کہ میں نے آگ دیکھی ہے، میں وہاں سے (رستے) کا پتہ لاتا ہوں یا سلگتا ہوا انگارہ تمہارے پاس لاتا ہوں تاکہ تم تاپو
+**English (Yusuf Ali):** Behold! Moses said to his family: "I perceive a fire; soon will I bring you from there some information, or I will bring you a burning brand to light our fuel, that ye may warm yourselves.
 
 [Open on Quran.com](https://quran.com/27/7)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when Moses had completed the term and was traveling with his family, he perceived from the direction of the mount a fire. He said to his family, "Stay here; indeed, I have perceived a fire. Perhaps I will bring you from there [some] information or burning wood from the fire that you may warm yourselves."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب موسٰی نے مدت پوری کردی اور اپنے گھر کے لوگوں کو لے کر چلے تو طور کی طرف سے آگ دکھائی دی تو اپنے گھر والوں سے کہنے لگے کہ تم یہاں ٹھیرو۔ مجھے آگ نظر آئی ہے شاید میں وہاں سے (رستے کا) کچھ پتہ لاؤں یا آگ کا انگارہ لے آؤں تاکہ تم تاپو
+**English (Yusuf Ali):** Now when Moses had fulfilled the term, and was travelling with his family, he perceived a fire in the direction of Mount Tur. He said to his family: "Tarry ye; I perceive a fire; I hope to bring you from there some information, or a burning firebrand, that ye may warm yourselves."
 
 [Open on Quran.com](https://quran.com/28/29)
 

@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:205 · [[002 Al-Baqarah]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when he goes away, he strives throughout the land to cause corruption therein and destroy crops and animals. And Allāh does not like corruption.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب پیٹھ پھیر کر چلا جاتا ہے تو زمین میں دوڑتا پھرتا ہے تاکہ اس میں فتنہ انگیزی کرے اور کھیتی کو (برباد) اور (انسانوں اور حیوانوں کی) نسل کو نابود کردے اور خدا فتنہ انگیزی کو پسند نہیں کرتا
+**English (Yusuf Ali):** When he turns his back, His aim everywhere is to spread mischief through the earth and destroy crops and cattle. But Allah loveth not mischief.
 
 [Open on Quran.com](https://quran.com/2/205)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Because of that, We decreed upon the Children of Israel that whoever kills a soul unless for a soul or for corruption [done] in the land - it is as if he had slain mankind entirely. And whoever saves one - it is as if he had saved mankind entirely. And Our messengers had certainly come to them with clear proofs. Then indeed many of them, [even] after that, throughout the land, were transgressors.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس قتل کی وجہ سے ہم نے بنی اسرائیل پر یہ حکم نازل کیا کہ جو شخص کسی کو (ناحق) قتل کرے گا (یعنی) بغیر اس کے کہ جان کا بدلہ لیا جائے یا ملک میں خرابی کرنے کی سزا دی جائے اُس نے گویا تمام لوگوں کو قتل کیا اور جو اس کی زندگانی کا موجب ہوا تو گویا تمام لوگوں کی زندگانی کا موجب ہوا اور ان لوگوں کے پاس ہمارے پیغمبر روشن دلیلیں لا چکے ہیں پھر اس کے بعد بھی ان سے بہت سے لوگ ملک میں حدِ اعتدال سے نکل جاتے ہیں
+**English (Yusuf Ali):** On that account: We ordained for the Children of Israel that if any one slew a person - unless it be for murder or for spreading mischief in the land - it would be as if he slew the whole people: and if any one saved a life, it would be as if he saved the life of the whole people. Then although there came to them Our messengers with clear signs, yet, even after that, many of them continued to commit excesses in the land.
 
 [Open on Quran.com](https://quran.com/5/32)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the penalty for those who wage war against Allāh and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment,
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا اور اس کے رسول سے لڑائی کریں اور ملک میں فساد کرنے کو دوڑتے پھریں ان کی یہی سزا ہے کہ قتل کر دیئے جائیں یا سولی چڑھا دیئے جائیں یا ان کے ایک ایک طرف کے ہاتھ اور ایک ایک طرف کے پاؤں کاٹ دیئے جائیں یا ملک سے نکال دیئے جائیں یہ تو دنیا میں ان کی رسوائی ہے اور آخرت میں ان کے لیے بڑا (بھاری) عذاب تیار ہے
+**English (Yusuf Ali):** The punishment of those who wage war against Allah and His Messenger, and strive with might and main for mischief through the land is: execution, or crucifixion, or the cutting off of hands and feet from opposite sides, or exile from the land: that is their disgrace in this world, and a heavy punishment is theirs in the Hereafter;
 
 [Open on Quran.com](https://quran.com/5/33)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the Jews say, "The hand of Allāh is chained." Chained are their hands, and cursed are they for what they say. Rather, both His hands are extended; He spends however He wills. And that which has been revealed to you from your Lord will surely increase many of them in transgression and disbelief. And We have cast among them animosity and hatred until the Day of Resurrection. Every time they kindled the fire of war [against you], Allāh extinguished it. And they strive throughout the land [causing] corruption, and Allāh does not like corrupters.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہود کہتے ہیں کہ خدا کا ہاتھ (گردن سے) بندھا ہوا ہے (یعنی الله بخیل ہے) انہیں کے ہاتھ باندھے جائیں اور ایسا کہنے کے سبب ان پر لعنت ہو (اس کا ہاتھ بندھا ہوا نہیں) بلکہ اس کے دونوں ہاتھ کھلے ہیں وہ جس طرح (اور جتنا) چاہتا ہے خرچ کرتا ہے اور (اے محمد) یہ (کتاب) جو تمہارے پروردگار کی طرف سے تم پر نازل ہوئی اس سے ان میں سے اکثر کی شرارت اور انکار اور بڑھے گا اور ہم نے ان کے باہم عداوت اور بغض قیامت تک کے لیے ڈال دیا ہے یہ جب لڑائی کے لیے آگ جلاتے ہیں خدا اس کو بجھا دیتا ہے اور یہ ملک میں فساد کے لیے دوڑے پھرتے ہیں اور خدا فساد کرنے والوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** The Jews say: "Allah's hand is tied up." Be their hands tied up and be they accursed for the (blasphemy) they utter. Nay, both His hands are widely outstretched: He giveth and spendeth (of His bounty) as He pleaseth. But the revelation that cometh to thee from Allah increaseth in most of them their obstinate rebellion and blasphemy. Amongst them we have placed enmity and hatred till the Day of Judgment. Every time they kindle the fire of war, Allah doth extinguish it; but they (ever) strive to do mischief on earth. And Allah loveth not those who do mischief.
 
 [Open on Quran.com](https://quran.com/5/64)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who disbelieved are allies of one another. If you do not do so [i.e., ally yourselves with other believers], there will be fitnah [i.e., disbelief and oppression] on earth and great corruption.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ کافر ہیں (وہ بھی) ایک دوسرے کے رفیق ہیں۔ تو (مومنو) اگر تم یہ (کام) نہ کرو گے تو ملک میں فتنہ برپا ہو جائے گا اور بڑا فساد مچے گا
+**English (Yusuf Ali):** The Unbelievers are protectors, one of another: Unless ye do this, (protect each other), there would be tumult and oppression on earth, and great mischief.
 
 [Open on Quran.com](https://quran.com/8/73)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So why were there not among the generations before you those of enduring discrimination forbidding corruption on earth - except a few of those We saved from among them? But those who wronged pursued what luxury they were given therein, and they were criminals.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جو اُمتیں تم سے پہلے گزر چکی ہیں، ان میں ایسے ہوش مند کیوں نہ ہوئے جو ملک میں خرابی کرنے سے روکتے ہاں (ایسے) تھوڑے سے (تھے) جن کو ہم نے ان میں سے مخلصی بخشی۔ اور جو ظالم تھے وہ ان ہی باتوں کے پیچھے لگے رہے جس میں عیش وآرام تھا اور وہ گناہوں میں ڈوبے ہوئے تھے
+**English (Yusuf Ali):** Why were there not, among the generations before you, persons possessed of balanced good sense, prohibiting (men) from mischief in the earth - except a few among them whom We saved (from harm)? But the wrong-doers pursued the enjoyment of the good things of life which were given them, and persisted in sin.
 
 [Open on Quran.com](https://quran.com/11/116)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But seek, through that which Allāh has given you, the home of the Hereafter; and [yet], do not forget your share of the world. And do good as Allāh has done good to you. And desire not corruption in the land. Indeed, Allāh does not like corrupters."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو (مال) تم کو خدا نے عطا فرمایا ہے اس سے آخرت کی بھلائی طلب کیجئے اور دنیا سے اپنا حصہ نہ بھلائیے اور جیسی خدا نے تم سے بھلائی کی ہے (ویسی) تم بھی (لوگوں سے) بھلائی کرو۔ اور ملک میں طالب فساد نہ ہو۔ کیونکہ خدا فساد کرنے والوں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** "But seek, with the (wealth) which Allah has bestowed on thee, the Home of the Hereafter, nor forget thy portion in this world: but do thou good, as Allah has been good to thee, and seek not (occasions for) mischief in the land: for Allah loves not those who do mischief."
 
 [Open on Quran.com](https://quran.com/28/77)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That home of the Hereafter We assign to those who do not desire exaltedness upon the earth or corruption. And the [best] outcome is for the righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ (جو) آخرت کا گھر (ہے) ہم نے اُسے اُن لوگوں کے لئے (تیار) کر رکھا ہے جو ملک میں ظلم اور فساد کا ارادہ نہیں رکھتے اور انجام (نیک) تو پرہیزگاروں ہی کا ہے
+**English (Yusuf Ali):** That Home of the Hereafter We shall give to those who intend not high-handedness or mischief on earth: and the end is (best) for the righteous.
 
 [Open on Quran.com](https://quran.com/28/83)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Corruption has appeared throughout the land and sea by [reason of] what the hands of people have earned so He [i.e., Allāh] may let them taste part of [the consequence of] what they have done that perhaps they will return [to righteousness].
 
-**Urdu (Fatah Muhammad Jalandhari):** خشکی اور تری میں لوگوں کے اعمال کے سبب فساد پھیل گیا ہے تاکہ خدا اُن کو اُن کے بعض اعمال کا مزہ چکھائے عجب نہیں کہ وہ باز آجائیں
+**English (Yusuf Ali):** Mischief has appeared on land and sea because of (the meed) that the hands of men have earned, that (Allah) may give them a taste of some of their deeds: in order that they may turn back (from Evil).
 
 [Open on Quran.com](https://quran.com/30/41)
 
@@ -189,7 +189,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Pharaoh said, "Let me kill Moses and let him call upon his Lord. Indeed, I fear that he will change your religion or that he will cause corruption in the land."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور فرعون بولا کہ مجھے چھوڑو کہ موسیٰ کو قتل کردوں اور وہ اپنے پروردگار کو بلالے۔ مجھے ڈر ہے کہ وہ (کہیں) تمہارے دین کو نہ بدل دے یا ملک میں فساد (نہ) پیدا کردے
+**English (Yusuf Ali):** Said Pharaoh: "Leave me to slay Moses; and let him call on his Lord! What I fear is lest he should change your religion, or lest he should cause mischief to appear in the land!"
 
 [Open on Quran.com](https://quran.com/40/26)
 

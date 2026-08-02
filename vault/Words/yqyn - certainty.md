@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:157 · [[004 An-Nisa]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [for] their saying, "Indeed, we have killed the Messiah, Jesus the son of Mary, the messenger of Allāh." And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them. And indeed, those who differ over it are in doubt about it. They have no knowledge of it except the following of assumption. And they did not kill him, for certain.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہنے کے سبب کہ ہم نے مریم کے بیٹے عیسیٰ مسیح کو جو خدا کے پیغمبر (کہلاتے) تھے قتل کردیا ہے (خدا نے ان کو معلون کردیا) اور انہوں نے عیسیٰ کو قتل نہیں کیا اور نہ انہیں سولی پر چڑھایا بلکہ ان کو ان کی سی صورت معلوم ہوئی اور جو لوگ ان کے بارے میں اختلاف کرتے ہیں وہ ان کے حال سے شک میں پڑے ہوئے ہیں اور پیروئی ظن کے سوا ان کو اس کا مطلق علم نہیں۔ اور انہوں نے عیسیٰ کو یقیناً قتل نہیں کیا
+**English (Yusuf Ali):** That they said (in boast), "We killed Christ Jesus the son of Mary, the Messenger of Allah";- but they killed him not, nor crucified him, but so it was made to appear to them, and those who differ therein are full of doubts, with no (certain) knowledge, but only conjecture to follow, for of a surety they killed him not:-
 
 [Open on Quran.com](https://quran.com/4/157)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And worship your Lord until there comes to you the certainty [i.e., death].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے پروردگار کی عبادت کئے جاؤ یہاں تک کہ تمہاری موت (کا وقت) آجائے
+**English (Yusuf Ali):** And serve thy Lord until there come unto thee the Hour that is Certain.
 
 [Open on Quran.com](https://quran.com/15/99)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But he [i.e., the hoopoe] stayed not long and said, "I have encompassed [in knowledge] that which you have not encompassed, and I have come to you from Sheba with certain news.
 
-**Urdu (Fatah Muhammad Jalandhari):** ابھی تھوڑی ہی دیر ہوئی تھی کہ ہُدہُد آ موجود ہوا اور کہنے لگا کہ مجھے ایک ایسی چیز معلوم ہوئی ہے جس کی آپ کو خبر نہیں اور میں آپ کے پاس (شہر) سبا سے ایک سچی خبر لے کر آیا ہوں
+**English (Yusuf Ali):** But the Hoopoe tarried not far: he (came up and) said: "I have compassed (territory) which thou hast not compassed, and I have come to thee from Saba with tidings true.
 
 [Open on Quran.com](https://quran.com/27/22)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, this is the true certainty,
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ (داخل کیا جانا یقیناً صحیح یعنی) حق الیقین ہے
+**English (Yusuf Ali):** Verily, this is the Very Truth and Certainly.
 
 [Open on Quran.com](https://quran.com/56/95)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, it is the truth of certainty.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کچھ شک نہیں کہ یہ برحق قابل یقین ہے
+**English (Yusuf Ali):** But verily it is Truth of assured certainty.
 
 [Open on Quran.com](https://quran.com/69/51)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Until there came to us the certainty [i.e., death]."
 
-**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ ہمیں موت آگئی
+**English (Yusuf Ali):** "Until there came to us (the Hour) that is certain."
 
 [Open on Quran.com](https://quran.com/74/47)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** No! If you only knew with knowledge of certainty...
 
-**Urdu (Fatah Muhammad Jalandhari):** دیکھو اگر تم جانتے (یعنی) علم الیقین (رکھتے تو غفلت نہ کرتے)
+**English (Yusuf Ali):** Nay, were ye to know with certainty of mind, (ye would beware!)
 
 [Open on Quran.com](https://quran.com/102/5)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then you will surely see it with the eye of certainty.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اس کو (ایسا) دیکھو گے (کہ) عین الیقین (آ جائے گا )
+**English (Yusuf Ali):** Again, ye shall see it with certainty of sight!
 
 [Open on Quran.com](https://quran.com/102/7)
 

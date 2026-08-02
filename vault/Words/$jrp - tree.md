@@ -36,7 +36,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:35 · [[002 Al-Baqarah]]
 
@@ -50,7 +50,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We said, "O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be among the wrongdoers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے کہا کہ اے آدم تم اور تمہاری بیوی بہشت میں رہو اور جہاں سے چاہو بے روک ٹوک کھاؤ (پیو) لیکن اس درخت کے پاس نہ جانا نہیں تو ظالموں میں (داخل) ہو جاؤ گے
+**English (Yusuf Ali):** We said: "O Adam! dwell thou and thy wife in the Garden; and eat of the bountiful things therein as (where and when) ye will; but approach not this tree, or ye run into harm and transgression."
 
 [Open on Quran.com](https://quran.com/2/35)
 
@@ -66,7 +66,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And "O Adam, dwell, you and your wife, in Paradise and eat from wherever you will but do not approach this tree, lest you be among the wrongdoers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے آدم (سے کہا کہ) تم اور تمہاری بیوی بہشت میں رہو سہو اور جہاں سے چاہو (اور جو چاہو) نوش جان کرو مگر اس درخت کے پاس نہ جاؤ ورنہ گنہگار ہو جاؤ گے
+**English (Yusuf Ali):** "O Adam! dwell thou and thy wife in the Garden, and enjoy (its good things) as ye wish: but approach not this tree, or ye run into harm and transgression."
 
 [Open on Quran.com](https://quran.com/7/19)
 
@@ -82,7 +82,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But Satan whispered to them to make apparent to them that which was concealed from them of their private parts. He said, "Your Lord did not forbid you this tree except that you become angels or become of the immortal."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو شیطان دونوں کو بہکانے لگا تاکہ ان کی ستر کی چیزیں جو ان سے پوشیدہ تھیں کھول دے اور کہنے لگا کہ تم کو تمہارے پروردگار نے اس درخت سے صرف اس لیے منع کیا ہے کہ کہ تم فرشتے نہ بن جاؤ یا ہمیشہ جیتے نہ رہو
+**English (Yusuf Ali):** Then began Satan to whisper suggestions to them, bringing openly before their minds all their shame that was hidden from them (before): he said: "Your Lord only forbade you this tree, lest ye should become angels or such beings as live for ever."
 
 [Open on Quran.com](https://quran.com/7/20)
 
@@ -98,7 +98,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So he made them fall, through deception. And when they tasted of the tree, their private parts became apparent to them, and they began to fasten together over themselves from the leaves of Paradise. And their Lord called to them, "Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?"
 
-**Urdu (Fatah Muhammad Jalandhari):** غرض (مردود نے) دھوکہ دے کر ان کو (معصیت کی طرف) کھینچ ہی لیا جب انہوں نے اس درخت (کے پھل) کو کھا لیا تو ان کی ستر کی چیزیں کھل گئیں اور وہ بہشت کے (درختوں کے) پتے توڑ توڑ کر اپنے اوپر چپکانے لگے اور (ستر چھپانے لگے) تب ان کے پروردگار نے ان کو پکارا کہ کیا میں نے تم کو اس درخت (کے پاس جانے) سے منع نہیں کیا تھا اور جتا نہیں دیا تھا کہ شیطان تمہارا کھلم کھلا دشمن ہے
+**English (Yusuf Ali):** So by deceit he brought about their fall: when they tasted of the tree, their shame became manifest to them, and they began to sew together the leaves of the garden over their bodies. And their Lord called unto them: "Did I not forbid you that tree, and tell you that Satan was an avowed enemy unto you?"
 
 [Open on Quran.com](https://quran.com/7/22)
 
@@ -114,7 +114,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have you not considered how Allāh presents an example, [making] a good word like a good tree, whose root is firmly fixed and its branches [high] in the sky?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا نے پاک بات کی کیسی مثال بیان فرمائی ہے (وہ ایسی ہے) جیسے پاکیزہ درخت جس کی جڑ مضبوط (یعنی زمین کو پکڑے ہوئے) ہو اور شاخیں آسمان میں
+**English (Yusuf Ali):** Seest thou not how Allah sets forth a parable? - A goodly word like a goodly tree, whose root is firmly fixed, and its branches (reach) to the heavens,- of its Lord. So Allah sets forth parables for men, in order that they may receive admonition.
 
 [Open on Quran.com](https://quran.com/14/24)
 
@@ -130,7 +130,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the example of a bad word is like a bad tree, uprooted from the surface of the earth, not having any stability.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ناپاک بات کی مثال ناپاک درخت کی سی ہے (نہ جڑ مستحکم نہ شاخیں بلند) زمین کے اوپر ہی سے اکھیڑ کر پھینک دیا جائے گا اس کو ذرا بھی قرار (وثبات) نہیں
+**English (Yusuf Ali):** And the parable of an evil Word is that of an evil tree: It is torn up by the root from the surface of the earth: it has no stability.
 
 [Open on Quran.com](https://quran.com/14/26)
 
@@ -146,7 +146,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [remember, O Muḥammad], when We told you, "Indeed, your Lord has encompassed the people." And We did not make the sight which We showed you except as a trial for the people, as was the accursed tree [mentioned] in the Qur’ān. And We threaten [i.e., warn] them, but it increases them not except in great transgression.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب ہم نے تم سے کہا کہ تمہارا پروردگار لوگوں کو احاطہ کئے ہوئے ہے۔ اور جو نمائش ہم نے تمہیں دکھائی اس کو لوگوں کے لئے آرمائش کیا۔ اور اسی طرح (تھوہر کے) درخت کو جس پر قرآن میں لعنت کی گئی۔ اور ہم انہیں ڈراتے ہیں تو ان کو اس سے بڑی (سخت) سرکشی پیدا ہوتی ہے
+**English (Yusuf Ali):** Behold! We told thee that thy Lord doth encompass mankind round about: We granted the vision which We showed thee, but as a trial for men,- as also the Cursed Tree (mentioned) in the Qur'an: We put terror (and warning) into them, but it only increases their inordinate transgression!
 
 [Open on Quran.com](https://quran.com/17/60)
 
@@ -162,7 +162,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then Satan whispered to him; he said, "O Adam, shall I direct you to the tree of eternity and possession that will not deteriorate?"
 
-**Urdu (Fatah Muhammad Jalandhari):** تو شیطان نے ان کے دل میں وسوسہ ڈالا۔ (اور) کہا کہ آدم بھلا میں تم کو (ایسا) درخت بتاؤں (جو) ہمیشہ کی زندگی کا (ثمرہ دے) اور (ایسی) بادشاہت کہ کبھی زائل نہ ہو
+**English (Yusuf Ali):** But Satan whispered evil to him: he said, "O Adam! shall I lead thee to the Tree of Eternity and to a kingdom that never decays?"
 
 [Open on Quran.com](https://quran.com/20/120)
 
@@ -178,7 +178,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [We brought forth] a tree issuing from Mount Sinai which produces oil and food [i.e., olives] for those who eat.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ درخت بھی (ہم ہی نے پیدا کیا) جو طور سینا میں پیدا ہوتا ہے (یعنی زیتون کا درخت کہ) کھانے کے لئے روغن اور سالن لئے ہوئے اُگتا ہے
+**English (Yusuf Ali):** Also a tree springing out of Mount Sinai, which produces oil, and relish for those who use it for food.
 
 [Open on Quran.com](https://quran.com/23/20)
 
@@ -194,7 +194,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh is the Light of the heavens and the earth. The example of His light is like a niche within which is a lamp; the lamp is within glass, the glass as if it were a pearly [white] star lit from [the oil of] a blessed olive tree, neither of the east nor of the west, whose oil would almost glow even if untouched by fire. Light upon light. Allāh guides to His light whom He wills. And Allāh presents examples for the people, and Allāh is Knowing of all things.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا آسمانوں اور زمین کا نور ہے۔ اس کے نور کی مثال ایسی ہے کہ گویا ایک طاق ہے جس میں چراغ ہے۔ اور چراغ ایک قندیل میں ہے۔ اور قندیل (ایسی صاف شفاف ہے کہ) گویا موتی کا سا چمکتا ہوا تارہ ہے اس میں ایک مبارک درخت کا تیل جلایا جاتا ہے (یعنی) زیتون کہ نہ مشرق کی طرف ہے نہ مغرب کی طرف۔ (ایسا معلوم ہوتا ہے کہ) اس کا تیل خواہ آگ اسے نہ بھی چھوئے جلنے کو تیار ہے (پڑی) روشنی پر روشنی (ہو رہی ہے) خدا اپنے نور سے جس کو چاہتا ہے سیدھی راہ دکھاتا ہے۔ اور خدا نے (جو مثالیں) بیان فرماتا ہے (تو) لوگوں کے (سمجھانے کے) لئے اور خدا ہر چیز سے واقف ہے
+**English (Yusuf Ali):** Allah is the Light of the heavens and the earth. The Parable of His Light is as if there were a Niche and within it a Lamp: the Lamp enclosed in Glass: the glass as it were a brilliant star: Lit from a blessed Tree, an Olive, neither of the east nor of the west, whose oil is well-nigh luminous, though fire scarce touched it: Light upon Light! Allah doth guide whom He will to His Light: Allah doth set forth Parables for men: and Allah doth know all things.
 
 [Open on Quran.com](https://quran.com/24/35)
 

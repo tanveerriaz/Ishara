@@ -15,30 +15,30 @@ The Spoils of War · 75 ayahs
 ## Words in this surah (graph)
 
 - [[>lf - thousand]] — `أَلْف` · thousand
-- [[jAhd - strive]] — `جاهَدَ` · strive
-- [[f}p - group]] — `فِئَة` · group
 - [[AwY - gave shelter]] — `آوَى` · gave shelter
-- [[glb - overcame]] — `غَلَبُ` · overcame
 - [[AnthY - you desist]] — `انتَهَى` · you desist
-- [[hAjr - emigrated]] — `هاجَرَ` · emigrated
-- [[dbr - backs]] — `دُبُر` · backs
-- [[EqAb - penalty]] — `عِقاب` · penalty
 - [[twkl - put trust]] — `تَوَكَّلْ` · put trust
-- [[dAbp - moving creature]] — `دابَّة` · moving creature
-- [[xAn - betray]] — `خانُ` · betray
-- [[>syr - as captives]] — `أَسِير` · as captives
-- [[Tyb - good]] — `طَيِّب` · good
-- [[qdm - feet]] — `قَدَّمَ` · feet
+- [[hAjr - emigrated]] — `هاجَرَ` · emigrated
+- [[glb - overcame]] — `غَلَبُ` · overcame
+- [[EqAb - penalty]] — `عِقاب` · penalty
+- [[f}p - group]] — `فِئَة` · group
+- [[dbr - backs]] — `دُبُر` · backs
+- [[jAhd - strive]] — `جاهَدَ` · strive
+- [[>yd - supports]] — `أَيَّدَ` · supports
 - [[qtAl - fighting]] — `قِتال` · fighting
-- [[vbt - make firm]] — `ثَبَّتْ` · make firm
-- [[AltqY - met]] — `الْتَقَى` · met
-- [[krym - noble]] — `كَرِيم` · noble
-- [[tnAzE - you disagree]] — `تَنازَعُ` · you disagree
-- [[frqAn - criterion]] — `فُرْقان` · criterion
-- [[$r - evil]] — `شَرّ` · evil
-- [[yHq - justify]] — `يُحِقَّ` · justify
 - [[Al - people]] — `آل` · people
+- [[EAd - aad]] — `عادَ` · aad
+- [[tnAzE - you disagree]] — `تَنازَعُ` · you disagree
+- [[slm - peace]] — `سِلْم` · peace
+- [[qdm - feet]] — `قَدَّمَ` · feet
+- [[gnm - sheep]] — `غَنَم` · sheep
+- [[dAbp - moving creature]] — `دابَّة` · moving creature
 - [[lq - you meet]] — `لَقُ` · you meet
+- [[AltqY - met]] — `الْتَقَى` · met
+- [[xAn - betray]] — `خانُ` · betray
+- [[Tyb - good]] — `طَيِّب` · good
+- [[vbt - make firm]] — `ثَبَّتْ` · make firm
+- [[AstjAb - respond]] — `اسْتَجابَ` · respond
 
 ## Roots
 

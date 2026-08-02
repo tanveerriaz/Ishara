@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:133 · [[004 An-Nisa]]
 
@@ -47,7 +47,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If He wills, He can do away with you, O people, and bring others [in your place]. And ever is Allāh competent to do that.
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو! اگر وہ چاہے تو تم کو فنا کردے اور (تمہاری جگہ) اور لوگوں کو پیدا کردے۔اور خدا اس بات پر قادر ہے
+**English (Yusuf Ali):** If it were His will, He could destroy you, o mankind, and create another race; for He hath power this to do.
 
 [Open on Quran.com](https://quran.com/4/133)
 
@@ -63,7 +63,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And your Lord is the Free of need, the possessor of mercy. If He wills, He can do away with you and give succession after you to whomever He wills, just as He produced you from the descendants of another people.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا پروردگار بےپروا (اور) صاحب رحمت ہے اگر چاہے (تو اے بندوں) تمہیں نابود کر دے اور تمہارے بعد جن لوگوں کو چاہے تمہارا جانشین بنا دے جیسا تم کو بھی دوسرے لوگوں کی نسل سے پیدا کیا ہے
+**English (Yusuf Ali):** Thy Lord is self-sufficient, full of Mercy: if it were His will, He could destroy you, and in your place appoint whom He will as your successors, even as He raised you up from the posterity of other people.
 
 [Open on Quran.com](https://quran.com/6/133)
 
@@ -79,7 +79,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Remember] when He overwhelmed you with drowsiness [giving] security from Him and sent down upon you from the sky, rain by which to purify you and remove from you the evil [suggestions] of Satan and to make steadfast your hearts and plant firmly thereby your feet.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب اس نے (تمہاری) تسکین کے لیے اپنی طرف سے تمہیں نیند (کی چادر) اُڑھا دی اور تم پر آسمان سے پانی برسادیا تاکہ تم کو اس سے (نہلا کر) پاک کر دے اور شیطانی نجاست کو تم سے دور کردے۔ اور اس لیے بھی کہ تمہارے دلوں کو مضبوط کردے اور اس سے تمہارے پاؤں جمائے رکھے
+**English (Yusuf Ali):** Remember He covered you with a sort of drowsiness, to give you calm as from Himself, and he caused rain to descend on you from heaven, to clean you therewith, to remove from you the stain of Satan, to strengthen your hearts, and to plant your feet firmly therewith.
 
 [Open on Quran.com](https://quran.com/8/11)
 
@@ -95,7 +95,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And remove the fury in their [i.e., the believers'] hearts. And Allāh turns in forgiveness to whom He wills; and Allāh is Knowing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں سے غصہ دور کرے گا اور جس پر چاہے گا رحمت کرے گا۔ اور خدا سب کچھ جانتا (اور) حکمت والا ہے
+**English (Yusuf Ali):** And still the indignation of their hearts. For Allah will turn (in mercy) to whom He will; and Allah is All-Knowing, All-Wise.
 
 [Open on Quran.com](https://quran.com/9/15)
 
@@ -111,7 +111,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And establish prayer at the two ends of the day and at the approach of the night. Indeed, good deeds do away with misdeeds. That is a reminder for those who remember.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور دن کے دونوں سروں (یعنی صبح اور شام کے اوقات میں) اور رات کی چند (پہلی) ساعات میں نماز پڑھا کرو۔ کچھ شک نہیں کہ نیکیاں گناہوں کو دور کر دیتی ہیں۔ یہ ان کے لیے نصیحت ہے جو نصیحت قبول کرنے والے ہیں
+**English (Yusuf Ali):** And establish regular prayers at the two ends of the day and at the approaches of the night: For those things, that are good remove those that are evil: Be that the word of remembrance to those who remember (their Lord):
 
 [Open on Quran.com](https://quran.com/11/114)
 
@@ -127,7 +127,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Have you not seen [i.e., considered] that Allāh created the heavens and the earth in truth? If He wills, He can do away with you and produce a new creation.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا نے آسمانوں اور زمین کو تدبیر سے پیدا کیا ہے۔ اگر وہ چاہے تو تم کو نابود کر دے اور (تمہاری جگہ) نئی مخلوق پیدا کر دے
+**English (Yusuf Ali):** Seest thou not that Allah created the heavens and the earth in Truth? If He so will, He can remove you and put (in your place) a new creation?
 
 [Open on Quran.com](https://quran.com/14/19)
 
@@ -143,7 +143,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Whoever should think that Allāh will not support him [i.e., Prophet Muḥammad (ﷺ)] in this world and the Hereafter - let him extend a rope to the ceiling, then cut off [his breath], and let him see: will his effort remove that which enrages [him]?
 
-**Urdu (Fatah Muhammad Jalandhari):** جو شخص یہ گمان کرتا ہے کہ خدا اس کو دنیا اور آخرت میں مدد نہیں دے گا تو اس کو چاہیئے کہ اوپر کی طرف (یعنی اپنے گھر کی چھت میں) ایک رسی باندھے پھر (اس سے اپنا) گلا گھونٹ لے۔ پھر دیکھے کہ آیا یہ تدبیر اس کے غصے کو دور کردیتی ہے
+**English (Yusuf Ali):** If any think that Allah will not help him (His Messenger) in this world and the Hereafter, let him stretch out a rope to the ceiling and cut (himself) off: then let him see whether his plan will remove that which enrages (him)!
 
 [Open on Quran.com](https://quran.com/22/15)
 
@@ -159,7 +159,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And abide in your houses and do not display yourselves as [was] the display of the former times of ignorance. And establish prayer and give zakāh and obey Allāh and His Messenger. Allāh intends only to remove from you the impurity [of sin], O people of the [Prophet's] household, and to purify you with [extensive] purification.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے گھروں میں ٹھہری رہو اور جس طرح (پہلے) جاہلیت (کے دنوں) میں اظہار تجمل کرتی تھیں اس طرح زینت نہ دکھاؤ۔ اور نماز پڑھتی رہو اور زکوٰة دیتی رہو اور خدا اور اس کے رسول کی فرمانبرداری کرتی رہو۔ اے (پیغمبر کے) اہل بیت خدا چاہتا ہے کہ تم سے ناپاکی (کا میل کچیل) دور کردے اور تمہیں بالکل پاک صاف کردے
+**English (Yusuf Ali):** And stay quietly in your houses, and make not a dazzling display, like that of the former Times of Ignorance; and establish regular Prayer, and give regular Charity; and obey Allah and His Messenger. And Allah only wishes to remove all abomination from you, ye members of the Family, and to make you pure and spotless.
 
 [Open on Quran.com](https://quran.com/33/33)
 
@@ -175,7 +175,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If He wills, He can do away with you and bring forth a new creation.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر چاہے تو تم کو نابود کردے اور نئی مخلوقات لا آباد کرے
+**English (Yusuf Ali):** If He so pleased, He could blot you out and bring in a New Creation.
 
 [Open on Quran.com](https://quran.com/35/16)
 
@@ -191,7 +191,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will say, "Praise to Allāh, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative -
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ کہیں گے کہ خدا کا شکر ہے جس نے ہم سے غم دور کیا۔ بےشک ہمارا پروردگار بخشنے والا (اور) قدردان ہے
+**English (Yusuf Ali):** And they will say: "Praise be to Allah, Who has removed from us (all) sorrow: for our Lord is indeed Oft-Forgiving Ready to appreciate (service):
 
 [Open on Quran.com](https://quran.com/35/34)
 

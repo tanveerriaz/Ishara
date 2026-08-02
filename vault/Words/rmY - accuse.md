@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:112 · [[004 An-Nisa]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But whoever earns an offense or a sin and then blames it on an innocent [person] has taken upon himself a slander and manifest sin.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص کوئی قصور یا گناہ تو خود کرے لیکن اس سے کسی بےگناہ کو مہتم کردے تو اس نے بہتان اور صریح گناہ کا بوجھ اپنے سر پر رکھا
+**English (Yusuf Ali):** But if any one earns a fault or a sin and throws it on to one that is innocent, He carries (on himself) (Both) a falsehood and a flagrant sin.
 
 [Open on Quran.com](https://quran.com/4/112)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you did not kill them, but it was Allāh who killed them. And you threw not, [O Muḥammad], when you threw, but it was Allāh who threw that He might test the believers with a good test. Indeed, Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم لوگوں نے ان (کفار) کو قتل نہیں کیا بلکہ خدا نے انہیں قتل کیا۔ اور (اے محمدﷺ) جس وقت تم نے کنکریاں پھینکی تھیں تو وہ تم نے نہیں پھینکی تھیں بلکہ الله نے پھینکی تھیں۔ اس سے یہ غرض تھی کہ مومنوں کو اپنے (احسانوں) سے اچھی طرح آزمالے۔ بےشک خدا سنتا جانتا ہے
+**English (Yusuf Ali):** It is not ye who slew them; it was Allah: when thou threwest (a handful of dust), it was not thy act, but Allah's: in order that He might test the Believers by a gracious trial from Himself: for Allah is He Who heareth and knoweth (all things).
 
 [Open on Quran.com](https://quran.com/8/17)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who accuse chaste women and then do not produce four witnesses - lash them with eighty lashes and do not accept from them testimony ever after. And those are the defiantly disobedient,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ پرہیزگار عورتوں کو بدکاری کا عیب لگائیں اور اس پر چار گواہ نہ لائیں تو ان کو اسی درے مارو اور کبھی ان کی شہادت قبول نہ کرو۔ اور یہی بدکردار ہیں
+**English (Yusuf Ali):** And those who launch a charge against chaste women, and produce not four witnesses (to support their allegations),- flog them with eighty stripes; and reject their evidence ever after: for such men are wicked transgressors;-
 
 [Open on Quran.com](https://quran.com/24/4)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who accuse their wives [of adultery] and have no witnesses except themselves - then the witness of one of them [shall be] four testimonies [swearing] by Allāh that indeed, he is of the truthful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ اپنی عورتوں پر بدکاری کی تہمت لگائیں اور خود ان کے سوا ان کے گواہ نہ ہوں تو ہر ایک کی شہادت یہ ہے کہ پہلے تو چار بار خدا کی قسم کھائے کہ بےشک وہ سچا ہے
+**English (Yusuf Ali):** And for those who launch a charge against their spouses, and have (in support) no evidence but their own,- their solitary evidence (can be received) if they bear witness four times (with an oath) by Allah that they are solemnly telling the truth;
 
 [Open on Quran.com](https://quran.com/24/6)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who [falsely] accuse chaste, unaware and believing women are cursed in this world and the Hereafter; and they will have a great punishment
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ پرہیزگار اور برے کاموں سے بےخبر اور ایمان دار عورتوں پر بدکاری کی تہمت لگاتے ہیں ان پر دنیا وآخرت (دونوں) میں لعنت ہے۔ اور ان کو سخت عذاب ہوگا
+**English (Yusuf Ali):** Those who slander chaste women, indiscreet but believing, are cursed in this life and in the Hereafter: for them is a grievous Penalty,-
 
 [Open on Quran.com](https://quran.com/24/23)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, it throws sparks [as huge] as a fortress,
 
-**Urdu (Fatah Muhammad Jalandhari):** اس سے (آگ کی اتنی اتنی بڑی) چنگاریاں اُڑتی ہیں جیسے محل
+**English (Yusuf Ali):** "Indeed it throws about sparks (huge) as Forts,
 
 [Open on Quran.com](https://quran.com/77/32)
 
@@ -138,7 +138,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Striking them with stones of hard clay,
 
-**Urdu (Fatah Muhammad Jalandhari):** جو ان پر کھنگر کی پتھریاں پھینکتے تھے
+**English (Yusuf Ali):** Striking them with stones of baked clay.
 
 [Open on Quran.com](https://quran.com/105/4)
 

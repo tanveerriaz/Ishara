@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:168 · [[002 Al-Baqarah]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O mankind, eat from whatever is on earth [that is] lawful and good and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو جو چیزیں زمین میں حلال طیب ہیں وہ کھاؤ۔ اور شیطان کے قدموں پر نہ چلو۔ وہ تمہارا کھلا دشمن ہے
+**English (Yusuf Ali):** O ye people! Eat of what is on earth, Lawful and good; and do not follow the footsteps of the evil one, for he is to you an avowed enemy.
 
 [Open on Quran.com](https://quran.com/2/168)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And eat of what Allāh has provided for you [which is] lawful and good. And fear Allāh, in whom you are believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو حلال طیّب روزی خدا نے تم کو دی ہے اسے کھاؤ اور خدا سے جس پر ایمان رکھتے ہو ڈرتے رہو
+**English (Yusuf Ali):** Eat of the things which Allah hath provided for you, lawful and good; but fear Allah, in Whom ye believe.
 
 [Open on Quran.com](https://quran.com/5/88)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So consume what you have taken of war booty [as being] lawful and good, and fear Allāh. Indeed, Allāh is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جو مالِ غنیمت تمہیں ملا ہے اسے کھاؤ (کہ وہ تمہارے لیے) حلال طیب رہے اور خدا سے ڈرتے رہو۔ بےشک خدا بخشنے والا مہربان ہے
+**English (Yusuf Ali):** But (now) enjoy what ye took in war, lawful and good: but fear Allah: for Allah is Oft-forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/8/69)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Have you seen what Allāh has sent down to you of provision of which you have made [some] lawful and [some] unlawful?" Say, "Has Allāh permitted you [to do so], or do you invent [something] about Allāh?"
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ بھلا دیکھو تو خدا نے تمھارے لئے جو رزق نازل فرمایا تو تم نے اس میں سے (بعض کو) حرام ٹھہرایا اور (بعض کو) حلال (ان سے) پوچھو کیا خدا نے تم کو اس کا حکم دیا ہے یا تم خدا پر افتراء کرتے ہو
+**English (Yusuf Ali):** Say: "See ye what things Allah hath sent down to you for sustenance? Yet ye hold forbidden some things thereof and (some things) lawful." Say: "Hath Allah indeed permitted you, or do ye invent (things) to attribute to Allah?"
 
 [Open on Quran.com](https://quran.com/10/59)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then eat of what Allāh has provided for you [which is] lawful and good. And be grateful for the favor of Allāh, if it is [indeed] Him that you worship.
 
-**Urdu (Fatah Muhammad Jalandhari):** پس خدا نے جو تم کو حلال طیّب رزق دیا ہے اسے کھاؤ۔ اور الله کی نعمتوں کا شکر کرو۔ اگر اسی کی عبادت کرتے ہو
+**English (Yusuf Ali):** So eat of the sustenance which Allah has provided for you, lawful and good; and be grateful for the favours of Allah, if it is He Whom ye serve.
 
 [Open on Quran.com](https://quran.com/16/114)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not say about what your tongues assert of untruth, "This is lawful and this is unlawful," to invent falsehood about Allāh. Indeed, those who invent falsehood about Allāh will not succeed.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یوں ہی جھوٹ جو تمہاری زبان پر آجائے مت کہہ دیا کرو کہ یہ حلال ہے اور یہ حرام ہے کہ خدا پر جھوٹ بہتان باندھنے لگو۔ جو لوگ خدا پر جھوٹ بہتان باندھتے ہیں ان کا بھلا نہیں ہوگا
+**English (Yusuf Ali):** But say not - for any false thing that your tongues may put forth,- "This is lawful, and this is forbidden," so as to ascribe false things to Allah. For those who ascribe false things to Allah, will never prosper.
 
 [Open on Quran.com](https://quran.com/16/116)
 

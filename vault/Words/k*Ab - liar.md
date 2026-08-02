@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 38:4 · [[038 Sad]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they wonder that there has come to them a warner [i.e., Prophet Muḥammad (ﷺ)] from among themselves. And the disbelievers say, "This is a magician and a liar.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور انہوں نے تعجب کیا کہ ان کے پاس ان ہی میں سے ہدایت کرنے والا آیا اور کافر کہنے لگے کہ یہ تو جادوگر ہے جھوٹا
+**English (Yusuf Ali):** So they wonder that a Warner has come to them from among themselves! and the Unbelievers say, "This is a sorcerer telling lies!
 
 [Open on Quran.com](https://quran.com/38/4)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** To Pharaoh, Hāmān and Qārūn, but they said, "[He is] a magician and a liar."
 
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی) فرعون اور ہامان اور قارون کی طرف تو انہوں نے کہا کہ یہ تو جادوگر ہے جھوٹا
+**English (Yusuf Ali):** To Pharaoh, Haman, and Qarun; but they called (him)" a sorcerer telling lies!"...
 
 [Open on Quran.com](https://quran.com/40/24)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And a believing man from the family of Pharaoh who concealed his faith said, "Do you kill a man [merely] because he says, 'My Lord is Allāh' while he has brought you clear proofs from your Lord? And if he should be lying, then upon him is [the consequence of] his lie; but if he should be truthful, there will strike you some of what he promises you. Indeed, Allāh does not guide one who is a transgressor and a liar.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور فرعون کے لوگوں میں سے ایک مومن شخص جو اپنے ایمان کو پوشیدہ رکھتا تھا کہنے لگا کیا تم ایسے شخص کو قتل کرنا چاہتے ہو جو کہتا ہے کہ میرا پروردگار خدا ہے اور وہ تمہارے پروردگار (کی طرف) سے نشانیاں بھی لے کر آیا ہے۔ اور اگر وہ جھوٹا ہوگا تو اس کے جھوٹ کا ضرر اسی کو ہوگا۔ اور اگر سچا ہوگا تو کوئی سا عذاب جس کا وہ تم سے وعدہ کرتا ہے تم پر واقع ہو کر رہے گا۔ بےشک خدا اس شخص کو ہدایت نہیں دیتا جو بےلحاظ جھوٹا ہے
+**English (Yusuf Ali):** A believer, a man from among the people of Pharaoh, who had concealed his faith, said: "Will ye slay a man because he says, 'My Lord is Allah'?- when he has indeed come to you with Clear (Signs) from your Lord? and if he be a liar, on him is (the sin of) his lie: but, if he is telling the Truth, then will fall on you something of the (calamity) of which he warns you: Truly Allah guides not one who transgresses and lies!
 
 [Open on Quran.com](https://quran.com/40/28)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Has the message been sent down upon him from among us? Rather, he is an insolent liar."
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا ہم سب میں سے اسی پر وحی نازل ہوئی ہے؟ (نہیں) بلکہ یہ جھوٹا خود پسند ہے
+**English (Yusuf Ali):** "Is it that the Message is sent to him, of all people amongst us? Nay, he is a liar, an insolent one!"
 
 [Open on Quran.com](https://quran.com/54/25)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They will know tomorrow who is the insolent liar.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کو کل ہی معلوم ہوجائے گا کہ کون جھوٹا خود پسند ہے
+**English (Yusuf Ali):** Ah! they will know on the morrow, which is the liar, the insolent one!
 
 [Open on Quran.com](https://quran.com/54/26)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And denied Our verses with [emphatic] denial.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہماری آیتوں کو جھوٹ سمجھ کر جھٹلاتے رہتے تھے
+**English (Yusuf Ali):** But they (impudently) treated Our Signs as false.
 
 [Open on Quran.com](https://quran.com/78/28)
 
@@ -137,7 +137,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** No ill speech will they hear therein or any falsehood -
 
-**Urdu (Fatah Muhammad Jalandhari):** وہاں نہ بیہودہ بات سنیں گے نہ جھوٹ (خرافات)
+**English (Yusuf Ali):** No vanity shall they hear therein, nor Untruth:-
 
 [Open on Quran.com](https://quran.com/78/35)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 26:119 · [[026 Ash-Shuara]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We saved him and those with him in the laden ship.
 
-**Urdu (Fatah Muhammad Jalandhari):** پس ہم نے ان کو اور جو ان کے ساتھ کشتی میں سوار تھے، ان کو بچا لیا
+**English (Yusuf Ali):** So We delivered him and those with him, in the Ark filled (with all creatures).
 
 [Open on Quran.com](https://quran.com/26/119)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And a sign for them is that We carried their forefathers in a laden ship.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ایک نشانی ان کے لئے یہ ہے کہ ہم نے ان کی اولاد کو بھری ہوئی کشتی میں سوار کیا
+**English (Yusuf Ali):** And a Sign for them is that We bore their race (through the Flood) in the loaded Ark;
 
 [Open on Quran.com](https://quran.com/36/41)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Mention] when he ran away to the laden ship.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب بھاگ کر بھری ہوئی کشتی میں پہنچے
+**English (Yusuf Ali):** When he ran away (like a slave from captivity) to the ship (fully) laden,
 
 [Open on Quran.com](https://quran.com/37/140)
 

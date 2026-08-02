@@ -14,31 +14,31 @@ The Defrauding · 36 ayahs
 
 ## Words in this surah (graph)
 
+- [[DHkt - laugh]] — `ضَحِكَتْ` · laugh
 - [[mqrb - brought near]] — `مُقَرَّب` · brought near
 - [[>rA}k - couches]] — `أَرائِك` · couches
-- [[DHkt - laugh]] — `ضَحِكَتْ` · laugh
-- [[>wl - first]] — `أَوَّل` · first
+- [[mEtd - transgressor]] — `مُعْتَد` · transgressor
+- [[kAn - is]] — `كانَ` · is
+- [[nEym - delight]] — `نَعِيم` · delight
+- [[Eyn - eyes]] — `عَيْن` · eyes
+- [[>sqy - we give you]] — `أَسْقَيْ` · we give you
+- [[fjAr - wicked]] — `فُجّار` · wicked
 - [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
+- [[wzn - weigh]] — `وَزْن` · weigh
+- [[wjh - faces]] — `وَجْه` · faces
+- [[qlb - hearts]] — `قَلْب` · hearts
+- [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[EAlm - worlds]] — `عالَم` · worlds
 - [[>sATyr - tales]] — `أَساطِير` · tales
 - [[jHym - hellfire]] — `جَحِيم` · hellfire
-- [[HAfZ - guardians]] — `حافِظ` · guardians
+- [[br - land]] — `بِرّ` · land
 - [[fEl - you do]] — `فَعَلَ` · you do
-- [[EZym - great]] — `عَظِيم` · great
-- [[$hd - bear witness]] — `شَهِدَ` · bear witness
-- [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
-- [[tlY - recited]] — `تَلَى` · recited
-- [[ktAb - book]] — `كِتاب` · book
-- [[ksb - earn]] — `كَسَبَ` · earn
-- [[nEym - delight]] — `نَعِيم` · delight
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[Anqlb - turns back]] — `انقَلَبَ` · turns back
-- [[wjh - faces]] — `وَجْه` · faces
-- [[kAfr - disbelievers]] — `كافِر` · disbelievers
-- [[Erf - they recognize]] — `عَرَفَ` · they recognize
-- [[nZr - see]] — `نَظَرَ` · see
-- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
-- [[Ayp - signs]] — `آيَة` · signs
+- [[HAfZ - guardians]] — `حافِظ` · guardians
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[>vym - sinful]] — `أَثِيم` · sinful
+- [[$rb - drink]] — `شَرِبَ` · drink
+- [[mr - they pass]] — `مَرَّ` · they pass
 
 ## Roots
 

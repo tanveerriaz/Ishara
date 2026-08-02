@@ -14,31 +14,31 @@ The Clear Proof · 8 ayahs
 
 ## Words in this surah (graph)
 
+- [[rDy - they pleased]] — `رَضِيَ` · they pleased
+- [[kAn - is]] — `كانَ` · is
+- [[SlAp - prayer]] — `صَلاة` · prayer
+- [[nAr - fire]] — `نار` · fire
+- [[x$y - fear]] — `خَشِيَ` · fear
+- [[jzA' - recompense]] — `جَزاء` · recompense
+- [[allah - God]] — `الله` · God
+- [[SHf - scriptures]] — `صُحُف` · scriptures
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[rb - lord]] — `رَبّ` · lord
+- [[tHt - underneath it]] — `تَحْت` · underneath it
+- [[zkAp - zakah]] — `زَكاة` · zakah
+- [[Eml - do]] — `عَمِلَ` · do
+- [[>mr - command]] — `أَمَرَ` · command
+- [[Hnyf - upright]] — `حَنِيف` · upright
+- [[bEd - after]] — `بَعْد` · after
+- [[xyr - better]] — `خَيْر` · better
 - [[rswl - messenger]] — `رَسُول` · messenger
 - [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[bynp - clear proofs]] — `بَيِّنَة` · clear proofs
-- [[xyr - better]] — `خَيْر` · better
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[bEd - after]] — `بَعْد` · after
-- [[jry - flow]] — `جَرَيْ` · flow
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[mThrp - purified]] — `مُطَهَّرَة` · purified
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[x$y - fear]] — `خَشِيَ` · fear
+- [[>hl - people]] — `أَهْل` · people
+- [[End - near]] — `عِند` · near
+- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
 - [[tlY - recited]] — `تَلَى` · recited
 - [[ktAb - book]] — `كِتاب` · book
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[nAr - fire]] — `نار` · fire
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[zkAp - zakah]] — `زَكاة` · zakah
-- [[End - near]] — `عِند` · near
-- [[jzA' - recompense]] — `جَزاء` · recompense
-- [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[SlAp - prayer]] — `صَلاة` · prayer
+- [[jA' - came them]] — `جاءَ` · came them
 
 ## Roots
 

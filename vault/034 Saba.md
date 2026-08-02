@@ -17,28 +17,28 @@ Sheba · 54 ayahs
 - [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
 - [[mvqAl - weight]] — `مِثْقال` · weight
 - [[*rp - atom]] — `ذَرَّة` · atom
-- [[dl - direct you]] — `دَلَّ` · direct you
-- [[$kwr - grateful]] — `شَكُور` · grateful
 - [[q*f - cast him]] — `قَذَفَ` · cast him
-- [[$k - doubt]] — `شَكّ` · doubt
+- [[dl - direct you]] — `دَلَّ` · direct you
 - [[fzE - terror]] — `فَزَع` · terror
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[xyr - better]] — `خَيْر` · better
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>xlf - break]] — `أَخْلَفُ` · break
-- [[ybd} - allah originates]] — `يُبْدِئُ` · allah originates
+- [[$k - doubt]] — `شَكّ` · doubt
+- [[$kwr - grateful]] — `شَكُور` · grateful
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[dAbp - moving creature]] — `دابَّة` · moving creature
+- [[AtbE - follow]] — `اتَّبَعَ` · follow
+- [[n*yr - warner]] — `نَذِير` · warner
+- [[mHDr - will brought]] — `مُحْضَر` · will brought
 - [[dEA - call]] — `دَعا` · call
-- [[tlY - recited]] — `تَلَى` · recited
-- [[ytfkr - reflect]] — `يَتَفَكَّرُ` · reflect
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[nkyr - my rejection]] — `نَكِير` · my rejection
-- [[qryp - town]] — `قَرْيَة` · town
-- [[Tyr - birds]] — `طَيْر` · birds
-- [[kAfp - all together]] — `كافَّة` · all together
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[lyl - night]] — `لَيْل` · night
+- [[sAr - travel]] — `سارَ` · travel
+- [[wAHdp - single]] — `واحِدَة` · single
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[Dl - lost]] — `ضَلَّ` · lost
+- [[ftH - victory]] — `فَتَحَ` · victory
+- [[$hr - months]] — `شَهْر` · months
 
 ## Roots
 

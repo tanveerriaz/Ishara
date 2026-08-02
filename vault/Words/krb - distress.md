@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:64 · [[006 Al-Anam]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "It is Allāh who saves you from it and from every distress; then you [still] associate others with Him."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ خدا ہی تم کو اس (تنگی) سے اور ہر سختی سے نجات بخشتا ہے۔ پھر (تم) اس کے ساتھ شرک کرتے ہو
+**English (Yusuf Ali):** Say "It is Allah that delivereth you from these and all (other) distresses: and yet ye worship false gods!"
 
 [Open on Quran.com](https://quran.com/6/64)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] Noah, when he called [to Allāh] before [that time], so We responded to him and saved him and his family from the great affliction [i.e., the flood].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور نوح (کا قصہ بھی یاد کرو) جب (اس سے) پیشتر انہوں نے ہم کو پکارا تو ہم نے ان کی دعا قبول فرمائی اور ان کو اور ان کے ساتھیوں کو بڑی گھبراہٹ سے نجات دی
+**English (Yusuf Ali):** (Remember) Noah, when he cried (to Us) aforetime: We listened to his (prayer) and delivered him and his family from great distress.
 
 [Open on Quran.com](https://quran.com/21/76)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We saved him and his family from the great affliction.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان کو اور ان کے گھر والوں کو بڑی مصیبت سے نجات دی
+**English (Yusuf Ali):** And We delivered him and his people from the Great Calamity,
 
 [Open on Quran.com](https://quran.com/37/76)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We saved them and their people from the great affliction,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کو اور ان کی قوم کو مصیبت عظیمہ سے نجات بخشی
+**English (Yusuf Ali):** And We delivered them and their people from (their) Great Calamity;
 
 [Open on Quran.com](https://quran.com/37/115)
 

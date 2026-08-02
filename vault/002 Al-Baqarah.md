@@ -14,31 +14,31 @@ The Cow · 286 ayahs
 
 ## Words in this surah (graph)
 
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[dnyA - world]] — `دُنْيا` · world
-- [[AtY - give]] — `آتَى` · give
-- [[AtqY - fear]] — `اتَّقَى` · fear
-- [[>rD - earth]] — `أَرْض` · earth
-- [[qwm - people]] — `قَوْم` · people
-- [[mErwf - fair manner]] — `مَعْرُوف` · fair manner
-- [[>x* - we took]] — `أَخَذَ` · we took
-- [[>mr - command]] — `أَمَرَ` · command
-- [[kAn - is]] — `كانَ` · is
-- [[Eml - do]] — `عَمِلَ` · do
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[qAl - say]] — `قالَ` · say
-- [[s>l - ask]] — `سَأَلَ` · ask
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[Elm - know]] — `عَلِمَ` · know
-- [[qlb - hearts]] — `قَلْب` · hearts
-- [[kl - every]] — `كُلّ` · every
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[qtl - kill]] — `قَتَلَ` · kill
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[nAr - fire]] — `نار` · fire
 - [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[ktAb - book]] — `كِتاب` · book
+- [[Eml - do]] — `عَمِلَ` · do
+- [[>mr - command]] — `أَمَرَ` · command
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[qwm - people]] — `قَوْم` · people
+- [[Elm - know]] — `عَلِمَ` · know
+- [[End - near]] — `عِند` · near
+- [[sbyl - way]] — `سَبِيل` · way
+- [[dnyA - world]] — `دُنْيا` · world
+- [[>x* - we took]] — `أَخَذَ` · we took
+- [[fDl - bounty]] — `فَضَّلَ` · bounty
+- [[mlk - angels]] — `مَلَك` · angels
+- [[xyr - better]] — `خَيْر` · better
+- [[jnAH - blame]] — `جُناح` · blame
+- [[kAn - is]] — `كانَ` · is
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[byn - between them]] — `بَيْن` · between them
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[kl - every]] — `كُلّ` · every
+- [[qbl - before]] — `قَبْل` · before
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[jA' - came them]] — `جاءَ` · came them
+- [[Hq - truth]] — `حَقّ` · truth
 
 ## Roots
 

@@ -34,7 +34,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:157 · [[004 An-Nisa]]
 
@@ -48,7 +48,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [for] their saying, "Indeed, we have killed the Messiah, Jesus the son of Mary, the messenger of Allāh." And they did not kill him, nor did they crucify him; but [another] was made to resemble him to them. And indeed, those who differ over it are in doubt about it. They have no knowledge of it except the following of assumption. And they did not kill him, for certain.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہنے کے سبب کہ ہم نے مریم کے بیٹے عیسیٰ مسیح کو جو خدا کے پیغمبر (کہلاتے) تھے قتل کردیا ہے (خدا نے ان کو معلون کردیا) اور انہوں نے عیسیٰ کو قتل نہیں کیا اور نہ انہیں سولی پر چڑھایا بلکہ ان کو ان کی سی صورت معلوم ہوئی اور جو لوگ ان کے بارے میں اختلاف کرتے ہیں وہ ان کے حال سے شک میں پڑے ہوئے ہیں اور پیروئی ظن کے سوا ان کو اس کا مطلق علم نہیں۔ اور انہوں نے عیسیٰ کو یقیناً قتل نہیں کیا
+**English (Yusuf Ali):** That they said (in boast), "We killed Christ Jesus the son of Mary, the Messenger of Allah";- but they killed him not, nor crucified him, but so it was made to appear to them, and those who differ therein are full of doubts, with no (certain) knowledge, but only conjecture to follow, for of a surety they killed him not:-
 
 [Open on Quran.com](https://quran.com/4/157)
 
@@ -64,7 +64,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So if you are in doubt, [O Muḥammad], about that which We have revealed to you, then ask those who have been reading the Scripture before you. The truth has certainly come to you from your Lord, so never be among the doubters.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم کو اس (کتاب کے) بارے میں جو ہم نے تم پر نازل کی ہے کچھ شک ہو تو جو لوگ تم سے پہلے کی (اُتری ہوئی) کتابیں پڑھتے ہیں ان سے پوچھ لو۔ تمہارے پروردگار کی طرف سے تمہارے پاس حق آچکا ہے تو تم ہرگز شک کرنے والوں میں نہ ہونا
+**English (Yusuf Ali):** If thou wert in doubt as to what We have revealed unto thee, then ask those who have been reading the Book from before thee: the Truth hath indeed come to thee from thy Lord: so be in no wise of those in doubt.
 
 [Open on Quran.com](https://quran.com/10/94)
 
@@ -80,7 +80,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "O people, if you are in doubt as to my religion - then I do not worship those which you worship besides Allāh; but I worship Allāh, who causes your death. And I have been commanded to be of the believers
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) کہہ دو کہ لوگو اگر تم کو میرے دین میں کسی طرح کا شک ہو تو (سن رکھو کہ) جن لوگوں کی تم خدا کے سوا عبادت کرتے ہو میں ان کی عبادت نہیں کرتا۔ بلکہ میں خدا کی عبادت کرتا ہوں جو تمھاری روحیں قبض کرلیتا ہے اور مجھ کو یہی حکم ہوا ہے کہ ایمان لانے والوں میں ہوں
+**English (Yusuf Ali):** Say: "O ye men! If ye are in doubt as to my religion, (behold!) I worship not what ye worship, other than Allah! But I worship Allah - Who will take your souls (at death): I am commanded to be (in the ranks) of the Believers,
 
 [Open on Quran.com](https://quran.com/10/104)
 
@@ -96,7 +96,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "O Ṣāliḥ, you were among us a man of promise before this. Do you forbid us to worship what our fathers worshipped? And indeed we are, about that to which you invite us, in disquieting doubt."
 
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ صالح اس سے پہلے ہم تم سے (کئی طرح کی) امیدیں رکھتے تھے (اب وہ منقطع ہوگئیں) کیا تم ہم کو ان چیزوں کے پوجنے سے منع کرتے ہو جن کو ہمارے بزرگ پوجتے آئے ہیں؟ اور جس بات کی طرف تم ہمیں بلاتے ہو، اس میں ہمیں قوی شبہ ہے
+**English (Yusuf Ali):** They said: "O Salih! thou hast been of us! a centre of our hopes hitherto! dost thou (now) forbid us the worship of what our fathers worshipped? But we are really in suspicious (disquieting) doubt as to that to which thou invitest us."
 
 [Open on Quran.com](https://quran.com/11/62)
 
@@ -112,7 +112,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We had certainly given Moses the Scripture, but it came under disagreement. And if not for a word that preceded from your Lord, it would have been judged between them. And indeed they are, concerning it [i.e., the Qur’ān], in disquieting doubt.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو کتاب دی تو اس میں اختلاف کیا گیا اور اگر تمہارے پروردگار کی طرف سے ایک بات پہلے نہ ہوچکی ہوتی تو ان میں فیصلہ کردیا جاتا۔ اور وہ تو اس سے قوی شبہے میں (پڑے ہوئے) ہیں
+**English (Yusuf Ali):** We certainly gave the Book to Moses, but differences arose therein: had it not been that a word had gone forth before from thy Lord, the matter would have been decided between them, but they are in suspicious doubt concerning it.
 
 [Open on Quran.com](https://quran.com/11/110)
 
@@ -128,7 +128,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Has there not reached you the news of those before you - the people of Noah and ʿAad and Thamūd and those after them? No one knows them [i.e., their number] but Allāh. Their messengers brought them clear proofs, but they returned their hands to their mouths and said, "Indeed, we disbelieve in that with which you have been sent, and indeed we are, about that to which you invite us, in disquieting doubt."
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تم کو ان لوگوں (کے حالات) کی خبر نہیں پہنچی جو تم سے پہلے تھے (یعنی) نوح اور عاد اور ثمود کی قوم۔ اور جو ان کے بعد تھے۔ جن کا علم خدا کے سوا کسی کو نہیں (جب) ان کے پاس پیغمبر نشانیاں لے کر آئے تو انہوں نے اپنے ہاتھ ان کے مونہوں پر رکھ دیئے (کہ خاموش رہو) اور کہنے لگے کہ ہم تو تمہاری رسالت کو تسلیم نہیں کرتے اور جس چیز کی طرف تم ہمیں بلاتے ہو ہم اس سے قوی شک میں ہیں
+**English (Yusuf Ali):** Has not the story reached you, (O people!), of those who (went) before you? - of the people of Noah, and 'Ad, and Thamud? - And of those who (came) after them? None knows them but Allah. To them came messengers with Clear (Signs); but they put their hands up to their mouths, and said: "We do deny (the mission) on which ye have been sent, and we are really in suspicious (disquieting) doubt as to that to which ye invite us."
 
 [Open on Quran.com](https://quran.com/14/9)
 
@@ -144,7 +144,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Their messengers said, "Can there be doubt about Allāh, Creator of the heavens and earth? He invites you that He may forgive you of your sins, and He delays you [i.e., your death] for a specified term." They said, "You are not but men like us who wish to avert us from what our fathers were worshipping. So bring us a clear authority [i.e., evidence]."
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کے پیغمبروں نے کہا کیا (تم کو) خدا (کے بارے) میں شک ہے جو آسمانوں اور زمین کا پیدا کرنے والا ہے۔ وہ تمہیں اس لیے بلاتا ہے کہ تمہارے گناہ بخشے اور (فائدہ پہنچانے کے لیے) ایک مدت مقرر تک تم کو مہلت دے۔ وہ بولے کہ تم تو ہمارے ہی جیسے آدمی ہو۔ تمہارا یہ منشاء ہے کہ جن چیزوں کو ہمارے بڑے پوجتے رہے ہیں ان (کے پوجنے) سے ہم کو بند کر دو تو (اچھا) کوئی کھلی دلیل لاؤ (یعنی معجزہ دکھاؤ)
+**English (Yusuf Ali):** Their messengers said: "Is there a doubt about Allah, The Creator of the heavens and the earth? It is He Who invites you, in order that He may forgive you your sins and give you respite for a term appointed!" They said: "Ah! ye are no more than human, like ourselves! Ye wish to turn us away from the (gods) our fathers used to worship: then bring us some clear authority."
 
 [Open on Quran.com](https://quran.com/14/10)
 
@@ -160,7 +160,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Rather, their knowledge is arrested concerning the Hereafter. Rather, they are in doubt about it. Rather, they are, concerning it, blind.
 
-**Urdu (Fatah Muhammad Jalandhari):** بلکہ آخرت (کے بارے) میں ان کا علم منتہی ہوچکا ہے بلکہ وہ اس سے شک میں ہیں۔ بلکہ اس سے اندھے ہو رہے ہیں
+**English (Yusuf Ali):** Still less can their knowledge comprehend the Hereafter: Nay, they are in doubt and uncertainty thereanent; nay, they are blind thereunto!
 
 [Open on Quran.com](https://quran.com/27/66)
 
@@ -176,7 +176,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he had over them no authority except [it was decreed] that We might make evident who believes in the Hereafter from who is thereof in doubt. And your Lord, over all things, is Guardian.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس کا ان پر کچھ زور نہ تھا مگر (ہمارا) مقصود یہ تھا کہ جو لوگ آخرت میں شک رکھتے ہیں ان سے ان لوگوں کو جو اس پر ایمان رکھتے تھے متمیز کردیں۔ اور تمہارا پروردگار ہر چیز پر نگہبان ہے
+**English (Yusuf Ali):** But he had no authority over them,- except that We might test the man who believes in the Hereafter from him who is in doubt concerning it: and thy Lord doth watch over all things.
 
 [Open on Quran.com](https://quran.com/34/21)
 
@@ -192,7 +192,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And prevention will be placed between them and what they desire, as was done with their kind before. Indeed, they were in disquieting doubt [i.e., denial].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان میں اور ان کی خواہش کی چیزوں میں پردہ حائل کردیا گیا جیسا کہ پہلے ان کے ہم جنسوں سے کیا گیا وہ بھی الجھن میں ڈالنے والے شک میں پڑے ہوئے تھے
+**English (Yusuf Ali):** And between them and their desires, is placed a barrier, as was done in the past with their partisans: for they were indeed in suspicious (disquieting) doubt.
 
 [Open on Quran.com](https://quran.com/34/54)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:9 · [[007 Al-Araf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those whose scales are light - they are the ones who will lose themselves for what injustice they were doing toward Our verses.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جن کے وزن ہلکے ہوں گے تو یہی لوگ ہیں جنہوں نے اپنے تئیں خسارے میں ڈالا اس لیے کہ ہماری آیتوں کے بارے میں بےانصافی کرتے تھے
+**English (Yusuf Ali):** Those whose scale will be light, will be their souls in perdition, for that they wrongfully treated Our signs.
 
 [Open on Quran.com](https://quran.com/7/9)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those whose scales are light - those are the ones who have lost their souls, [being] in Hell, abiding eternally.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جن کے بوجھ ہلکے ہوں گے وہ لوگ ہیں جنہوں نے اپنے تئیں خسارے میں ڈالا، ہمیشہ دوزخ میں رہیں گے
+**English (Yusuf Ali):** But those whose balance is light, will be those who have lost their souls, in Hell will they abide.
 
 [Open on Quran.com](https://quran.com/23/103)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But as for one whose scales are light,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس کے وزن ہلکے نکلیں گے
+**English (Yusuf Ali):** But he whose balance (of good deeds) will be (found) light,-
 
 [Open on Quran.com](https://quran.com/101/8)
 

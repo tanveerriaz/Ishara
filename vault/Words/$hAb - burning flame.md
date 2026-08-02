@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 15:18 · [[015 Al-Hijr]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Except one who steals a hearing and is pursued by a clear burning flame.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں اگر کوئی چوری سے سننا چاہے تو چمکتا ہوا انگارہ اس کے پیچھے لپکتا ہے
+**English (Yusuf Ali):** But any that gains a hearing by stealth, is pursued by a flaming fire, bright (to see).
 
 [Open on Quran.com](https://quran.com/15/18)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Mention] when Moses said to his family, "Indeed, I have perceived a fire. I will bring you from there information or will bring you a burning torch that you may warm yourselves."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب موسیٰ نے اپنے گھر والوں سے کہا کہ میں نے آگ دیکھی ہے، میں وہاں سے (رستے) کا پتہ لاتا ہوں یا سلگتا ہوا انگارہ تمہارے پاس لاتا ہوں تاکہ تم تاپو
+**English (Yusuf Ali):** Behold! Moses said to his family: "I perceive a fire; soon will I bring you from there some information, or I will bring you a burning brand to light our fuel, that ye may warm yourselves.
 
 [Open on Quran.com](https://quran.com/27/7)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Except one who snatches [some words] by theft, but they are pursued by a burning flame, piercing [in brightness].
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں جو کوئی (فرشتوں کی کسی بات کو) چوری سے جھپٹ لینا چاہتا ہے تو جلتا ہوا انگارہ ان کے پیچھے لگتا ہے
+**English (Yusuf Ali):** Except such as snatch away something by stealth, and they are pursued by a flaming fire, of piercing brightness.
 
 [Open on Quran.com](https://quran.com/37/10)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And we used to sit therein in positions for hearing, but whoever listens now will find a burning flame lying in wait for him.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ پہلے ہم وہاں بہت سے مقامات میں (خبریں) سننے کے لئے بیٹھا کرتے تھے۔ اب کوئی سننا چاہے تو اپنے لئے انگارا تیار پائے
+**English (Yusuf Ali):** 'We used, indeed, to sit there in (hidden) stations, to (steal) a hearing; but any who listen now will find a flaming fire watching him in ambush.
 
 [Open on Quran.com](https://quran.com/72/9)
 

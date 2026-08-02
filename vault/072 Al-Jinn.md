@@ -15,30 +15,30 @@ The Jinn · 28 ayahs
 ## Words in this surah (graph)
 
 - [[r$d - right path]] — `رُشْد` · right path
-- [[Tryqp - way]] — `طَرِيقَة` · way
 - [[Edd - number]] — `عَدَد` · number
+- [[Tryqp - way]] — `طَرِيقَة` · way
 - [[rsAlp - messages]] — `رِسالَة` · messages
-- [[xAld - abiding forever]] — `خالِد` · abiding forever
-- [[qAl - say]] — `قالَ` · say
-- [[nfr - go forth]] — `نَفَرَ` · go forth
-- [[mA' - water]] — `ماء` · water
 - [[dEA - call]] — `دَعا` · call
-- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[ArtDY - he approves]] — `ارْتَضَى` · he approves
-- [[gyb - unseen]] — `غَيْب` · unseen
-- [[qEd - sit]] — `قَعَدَ` · sit
-- [[An - now]] — `آن` · now
+- [[nAr - fire]] — `نار` · fire
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[k*b - denied]] — `كَذَبَ` · denied
 - [[yd - hands]] — `يَد` · hands
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[zAd - increase]] — `زادَ` · increase
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[$r - evil]] — `شَرّ` · evil
-- [[mqEd - take positions]] — `مَقْعَد` · take positions
-- [[nASr - helpers]] — `ناصِر` · helpers
-- [[Elm - know]] — `عَلِمَ` · know
+- [[xlf - behind them]] — `خَلْف` · behind them
+- [[An - now]] — `آن` · now
+- [[Ejb - wonder]] — `عَجِبُ` · wonder
+- [[SAHbp - wife]] — `صاحِبَة` · wife
+- [[bEv - we sent]] — `بَعَثَ` · we sent
+- [[mA' - water]] — `ماء` · water
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[$hAb - burning flame]] — `شِهاب` · burning flame
+- [[>bdA - ever]] — `أَبَدًا` · ever
 - [[smE - hearing]] — `سَمْع` · hearing
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[>$rk - associate]] — `أَشْرَكَ` · associate
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[ml}t - filled]] — `مُلِئَتْ` · filled
+- [[zAd - increase]] — `زادَ` · increase
+- [[mlkt - possess]] — `مَلَكَتْ` · possess
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 

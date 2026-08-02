@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:54 · [[007 Al-Araf]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, your Lord is Allāh, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allāh, Lord of the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ تمہارا پروردگار خدا ہی ہے جس نے آسمانوں اور زمین کو چھ دن میں پیدا کیا پھر عرش پر جا ٹھہرا۔ وہی رات کو دن کا لباس پہناتا ہے کہ وہ اس کے پیچھے دوڑتا چلا آتا ہے۔ اور اسی نے سورج اور چاند ستاروں کو پیدا کیا سب اس کے حکم کے مطابق کام میں لگے ہوئے ہیں۔ دیکھو سب مخلوق بھی اسی کی ہے اور حکم بھی (اسی کا ہے)۔ یہ خدا رب العالمین بڑی برکت والا ہے
+**English (Yusuf Ali):** Your Guardian-Lord is Allah, Who created the heavens and the earth in six days, and is firmly established on the throne (of authority): He draweth the night as a veil o'er the day, each seeking the other in rapid succession: He created the sun, the moon, and the stars, (all) governed by laws under His command. Is it not His to create and to govern? Blessed be Allah, the Cherisher and Sustainer of the worlds!
 
 [Open on Quran.com](https://quran.com/7/54)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, your Lord is Allāh, who created the heavens and the earth in six days and then established Himself above the Throne, arranging the matter [of His creation]. There is no intercessor except after His permission. That is Allāh, your Lord, so worship Him. Then will you not remember?
 
-**Urdu (Fatah Muhammad Jalandhari):** تمہارا پروردگار تو خدا ہی ہے جس نے آسمان اور زمین چھ دن میں بنائے پھر عرش (تخت شاہی) پر قائم ہوا وہی ہر ایک کا انتظام کرتا ہے۔ کوئی (اس کے پاس) اس کا اذن حاصل کیے بغیر کسی کی سفارش نہیں کرسکتا، یہی خدا تمہارا پروردگار ہے تو اسی کی عبادت کرو۔ بھلا تم غور کیوں نہیں کرتے
+**English (Yusuf Ali):** Verily your Lord is Allah, who created the heavens and the earth in six days, and is firmly established on the throne (of authority), regulating and governing all things. No intercessor (can plead with Him) except after His leave (hath been obtained). This is Allah your Lord; Him therefore serve ye: will ye not receive admonition?
 
 [Open on Quran.com](https://quran.com/10/3)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who created the heavens and the earth in six days - and His Throne had been upon water - that He might test you as to which of you is best in deed. But if you say, "Indeed, you are resurrected after death," those who disbelieve will surely say, "This is not but obvious magic."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے آسمانوں اور زمین کو چھ دن میں بنایا اور (اس وقت) اس کا عرش پانی پر تھا۔ (تمہارے پیدا کرنے سے) مقصود یہ ہے کہ وہ تم کو آزمائے کہ تم میں عمل کے لحاظ سے کون بہتر ہے اور اگر تم کہو کہ تم لوگ مرنے کے بعد (زندہ کرکے) اٹھائے جاؤ گے تو کافر کہہ دیں گے کہ یہ تو کھلا جادو ہے
+**English (Yusuf Ali):** He it is Who created the heavens and the earth in six Days - and His Throne was over the waters - that He might try you, which of you is best in conduct. But if thou wert to say to them, "Ye shall indeed be raised up after death", the Unbelievers would be sure to say, "This is nothing but obvious sorcery!"
 
 [Open on Quran.com](https://quran.com/11/7)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He who created the heavens and the earth and what is between them in six days and then established Himself above the Throne - the Most Merciful, so ask about Him one well informed [i.e., the Prophet (ﷺ)].
 
-**Urdu (Fatah Muhammad Jalandhari):** جس نے آسمانوں اور زمین کو اور جو کچھ ان دونوں کے درمیان ہے چھ دن میں پیدا کیا پھر عرش پر جا ٹھہرا وہ (جس کا نام) رحمٰن (یعنی بڑا مہربان ہے) تو اس کا حال کسی باخبر سے دریافت کرلو
+**English (Yusuf Ali):** He Who created the heavens and the earth and all that is between, in six days, and is firmly established on the Throne (of Authority): Allah Most Gracious: ask thou, then, about Him of any acquainted (with such things).
 
 [Open on Quran.com](https://quran.com/25/59)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is Allāh who created the heavens and the earth and whatever is between them in six days; then He established Himself above the Throne. You have not besides Him any protector or any intercessor; so will you not be reminded?
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے آسمانوں اور زمین کو اور جو چیزیں ان دونوں میں ہیں سب کو چھ دن میں پیدا کیا پھر عرش پر جا ٹھہرا۔ اس کے سوا نہ تمہارا کوئی دوست ہے اور نہ سفارش کرنے والا۔ کیا تم نصیحت نہیں پکڑتے؟
+**English (Yusuf Ali):** It is Allah Who has created the heavens and the earth, and all between them, in six Days, and is firmly established on the Throne (of Authority): ye have none, besides Him, to protect or intercede (for you): will ye not then receive admonition?
 
 [Open on Quran.com](https://quran.com/32/4)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We did certainly create the heavens and earth and what is between them in six days, and there touched Us no weariness.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے آسمانوں اور زمین کو اور جو (مخلوقات) ان میں ہے سب کو چھ دن میں بنا دیا۔ اور ہم کو ذرا تکان نہیں ہوئی
+**English (Yusuf Ali):** We created the heavens and the earth and all between them in Six Days, nor did any sense of weariness touch Us.
 
 [Open on Quran.com](https://quran.com/50/38)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who created the heavens and earth in six days and then established Himself above the Throne. He knows what penetrates into the earth and what emerges from it and what descends from the heaven and what ascends therein; and He is with you wherever you are. And Allāh, of what you do, is Seeing.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی ہے جس نے آسمانوں اور زمین کو چھ دن میں پیدا کیا پھر عرش پر جا ٹھہرا۔ جو چیز زمین میں داخل ہوتی اور جو اس سے نکلتی ہے اور جو آسمان سے اُترتی اور جو اس کی طرف چڑھتی ہے سب اس کو معلوم ہے۔ اور تم جہاں کہیں ہو وہ تمہارے ساتھ ہے۔ اور جو کچھ تم کرتے ہو خدا اس کو دیکھ رہا ہے
+**English (Yusuf Ali):** He it is Who created the heavens and the earth in Six Days, and is moreover firmly established on the Throne (of Authority). He knows what enters within the earth and what comes forth out of it, what comes down from heaven and what mounts up to it. And He is with you wheresoever ye may be. And Allah sees well all that ye do.
 
 [Open on Quran.com](https://quran.com/57/4)
 

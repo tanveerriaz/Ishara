@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 12:95 · [[012 Yusuf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "By Allāh, indeed you are in your [same] old error."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ والله آپ اسی قدیم غلطی میں (مبتلا) ہیں
+**English (Yusuf Ali):** They said: "By Allah! truly thou art in thine old wandering mind."
 
 [Open on Quran.com](https://quran.com/12/95)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the moon - We have determined for it phases, until it returns [appearing] like the old date stalk.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور چاند کی بھی ہم نے منزلیں مقرر کردیں یہاں تک کہ (گھٹتے گھٹتے) کھجور کی پرانی شاخ کی طرح ہو جاتا ہے
+**English (Yusuf Ali):** And the Moon,- We have measured for her mansions (to traverse) till she returns like the old (and withered) lower part of a date-stalk.
 
 [Open on Quran.com](https://quran.com/36/39)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And those who disbelieve say of those who believe, "If it had [truly] been good, they would not have preceded us to it." And when they are not guided by it, they will say, "This is an ancient falsehood."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کافر مومنوں سے کہتے ہیں کہ اگر یہ (دین) کچھ بہتر ہوتا تو یہ لوگ اس کی طرف ہم سے پہلے نہ دوڑ پڑتے اور جب وہ اس سے ہدایت یاب نہ ہوئے تو اب کہیں گے کہ یہ پرانا جھوٹ ہے
+**English (Yusuf Ali):** The Unbelievers say of those who believe: "If (this Message) were a good thing, (such men) would not have gone to it first, before us!" And seeing that they guide not themselves thereby, they will say, "this is an (old,) falsehood!"
 
 [Open on Quran.com](https://quran.com/46/11)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:4 · [[004 An-Nisa]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And give the women [upon marriage] their [bridal] gifts graciously. But if they give up willingly to you anything of it, then take it in satisfaction and ease.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور عورتوں کو ان کے مہر خوشی سے دے دیا کرو۔ ہاں اگر وہ اپنی خوشی سے اس میں سے کچھ تم کو چھوڑ دیں تو اسے ذوق شوق سے کھالو
+**English (Yusuf Ali):** And give the women (on marriage) their dower as a free gift; but if they, of their own good pleasure, remit any part of it to you, Take it and enjoy it with right good cheer.
 
 [Open on Quran.com](https://quran.com/4/4)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [They will be told], "Eat and drink in satisfaction for what you used to do."
 
-**Urdu (Fatah Muhammad Jalandhari):** اپنے اعمال کے صلے میں مزے سے کھاؤ اور پیو
+**English (Yusuf Ali):** (To them will be said:) "Eat and drink ye, with profit and health, because of your (good) deeds."
 
 [Open on Quran.com](https://quran.com/52/19)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [They will be told], "Eat and drink in satisfaction for what you put forth in the days past."
 
-**Urdu (Fatah Muhammad Jalandhari):** جو (عمل) تم ایام گزشتہ میں آگے بھیج چکے ہو اس کے صلے میں مزے سے کھاؤ اور پیو
+**English (Yusuf Ali):** "Eat ye and drink ye, with full satisfaction; because of the (good) that ye sent before you, in the days that are gone!"
 
 [Open on Quran.com](https://quran.com/69/24)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Being told], "Eat and drink in satisfaction for what you used to do."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو عمل تم کرتے رہے تھے ان کے بدلے میں مزے سے کھاؤ اور پیو
+**English (Yusuf Ali):** "Eat ye and drink ye to your heart's content: for that ye worked (Righteousness).
 
 [Open on Quran.com](https://quran.com/77/43)
 

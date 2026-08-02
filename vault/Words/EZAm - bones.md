@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:259 · [[002 Al-Baqarah]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or [consider such an example] as the one who passed by a township which had fallen into ruin. He said, "How will Allāh bring this to life after its death?" So Allāh caused him to die for a hundred years; then He revived him. He said, "How long have you remained?" He [the man] said, "I have remained a day or part of a day." He said, "Rather, you have remained one hundred years. Look at your food and your drink; it has not changed with time. And look at your donkey; and We will make you a sign for the people. And look at the bones [of this donkey] - how We raise them and then We cover them with flesh." And when it became clear to him, he said, "I know that Allāh is over all things competent."
 
-**Urdu (Fatah Muhammad Jalandhari):** یا اسی طرح اس شخص کو (نہیں دیکھا) جسے ایک گاؤں میں جو اپنی چھتوں پر گرا پڑا تھا اتفاق گزر ہوا۔ تو اس نے کہا کہ خدا اس (کے باشندوں) کو مرنے کے بعد کیونکر زندہ کرے گا۔ تو خدا نے اس کی روح قبض کرلی (اور) سو برس تک (اس کو مردہ رکھا) پھر اس کو جلا اٹھایا اور پوچھا تم کتنا عرصہ (مرے)رہے ہو اس نے جواب دیا کہ ایک دن یا اس سے بھی کم۔ خدا نے فرمایا (نہیں) بلکہ سو برس (مرے) رہے ہو۔ اور اپنے کھانے پینے کی چیزوں کو دیکھو کہ (اتنی مدت میں مطلق) سڑی بسی نہیں اور اپنے گدھے کو بھی دیکھو (جو مرا پڑا ہے) غرض (ان باتوں سے) یہ ہے کہ ہم تم کو لوگوں کے لئے (اپنی قدرت کی) نشانی بنائیں اور (ہاں گدھے) کی ہڈیوں کو دیکھو کہ ہم ان کو کیونکر جوڑے دیتے اور ان پر (کس طرح) گوشت پوست چڑھا دیتے ہیں۔ جب یہ واقعات اس کے مشاہدے میں آئے تو بول اٹھا کہ میں یقین کرتا ہوں کہ خدا ہر چیز پر قادر ہے
+**English (Yusuf Ali):** Or (take) the similitude of one who passed by a hamlet, all in ruins to its roofs. He said: "Oh! how shall Allah bring it (ever) to life, after (this) its death?" but Allah caused him to die for a hundred years, then raised him up (again). He said: "How long didst thou tarry (thus)?" He said: (Perhaps) a day or part of a day." He said: "Nay, thou hast tarried thus a hundred years; but look at thy food and thy drink; they show no signs of age; and look at thy donkey: And that We may make of thee a sign unto the people, Look further at the bones, how We bring them together and clothe them with flesh." When this was shown clearly to him, he said: "I know that Allah hath power over all things."
 
 [Open on Quran.com](https://quran.com/2/259)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "When we are bones and crumbled particles, will we [truly] be resurrected as a new creation?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ جب ہم (مر کر بوسیدہ) ہڈیوں اور چُور چُور ہوجائیں گے تو کیا ازسرنو پیدا ہو کر اُٹھیں گے
+**English (Yusuf Ali):** They say: "What! when we are reduced to bones and dust, should we really be raised up (to be) a new creation?"
 
 [Open on Quran.com](https://quran.com/17/49)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is their recompense because they disbelieved in Our verses and said, "When we are bones and crumbled particles, will we [truly] be resurrected [in] a new creation?"
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ ان کی سزا ہے اس لئے کہ وہ ہماری آیتوں سے کفر کرتے تھے اور کہتے تھے کہ جب ہم (مر کر بوسیدہ) ہڈیاں اور ریزہ ریزہ ہوجائیں گے تو کیا ازسرنو پیدا کئے جائیں گے
+**English (Yusuf Ali):** That is their recompense, because they rejected Our signs, and said, "When we are reduced to bones and broken dust, should we really be raised up (to be) a new Creation?"
 
 [Open on Quran.com](https://quran.com/17/98)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allāh, the best of creators.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر نطفے کا لوتھڑا بنایا۔ پھر لوتھڑے کی بوٹی بنائی پھر بوٹی کی ہڈیاں بنائیں پھر ہڈیوں پر گوشت (پوست) چڑھایا۔ پھر اس کو نئی صورت میں بنا دیا۔ تو خدا جو سب سے بہتر بنانے والا بڑا بابرکت ہے
+**English (Yusuf Ali):** Then We made the sperm into a clot of congealed blood; then of that clot We made a (foetus) lump; then we made out of that lump bones and clothed the bones with flesh; then we developed out of it another creature. So blessed be Allah, the best to create!
 
 [Open on Quran.com](https://quran.com/23/14)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Does he promise you that when you have died and become dust and bones that you will be brought forth [once more]?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ تم سے یہ کہتا ہے کہ جب تم مر جاؤ گے اور مٹی ہو جاؤ گے اور استخوان (کے سوا کچھ نہ رہے گا) تو تم (زمین سے) نکالے جاؤ گے
+**English (Yusuf Ali):** "Does he promise that when ye die and become dust and bones, ye shall be brought forth (again)?
 
 [Open on Quran.com](https://quran.com/23/35)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "When we have died and become dust and bones, are we indeed to be resurrected?
 
-**Urdu (Fatah Muhammad Jalandhari):** کہتے ہیں کہ جب ہم مر جائیں گے اور مٹی ہو جائیں گے اور استخوان (بوسیدہ کے سوا کچھ) نہ رہے گا تو کیا ہم پھر اٹھائے جائیں گے؟
+**English (Yusuf Ali):** They say: "What! when we die and become dust and bones, could we really be raised up again?
 
 [Open on Quran.com](https://quran.com/23/82)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he presents for Us an example and forgets his [own] creation. He says, "Who will give life to bones while they are disintegrated?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہمارے بارے میں مثالیں بیان کرنے لگا اور اپنی پیدائش کو بھول گیا۔ کہنے لگا کہ (جب) ہڈیاں بوسیدہ ہوجائیں گی تو ان کو کون زندہ کرے گا؟
+**English (Yusuf Ali):** And he makes comparisons for Us, and forgets his own (origin and) Creation: He says, "Who can give life to (dry) bones and decomposed ones (at that)?"
 
 [Open on Quran.com](https://quran.com/36/78)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When we have died and become dust and bones, are we indeed to be resurrected?
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا جب ہم مرگئے اور مٹی اور ہڈیاں ہوگئے تو کیا پھر اٹھائے جائیں گے؟
+**English (Yusuf Ali):** "What! when we die, and become dust and bones, shall we (then) be raised up (again)
 
 [Open on Quran.com](https://quran.com/37/16)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That when we have died and become dust and bones, we will indeed be recompensed?'"
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا جب ہم مر گئے اور مٹی اور ہڈیاں ہوگئے تو کیا ہم کو بدلہ ملے گا؟
+**English (Yusuf Ali):** "'When we die and become dust and bones, shall we indeed receive rewards and punishments?'"
 
 [Open on Quran.com](https://quran.com/37/53)
 
@@ -189,7 +189,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they used to say, "When we die and become dust and bones, are we indeed to be resurrected?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہا کرتے تھے کہ بھلا جب ہم مرگئے اور مٹی ہوگئے اور ہڈیاں (ہی ہڈیاں رہ گئے) تو کیا ہمیں پھر اُٹھنا ہوگا؟
+**English (Yusuf Ali):** And they used to say, "What! when we die and become dust and bones, shall we then indeed be raised up again?-
 
 [Open on Quran.com](https://quran.com/56/47)
 

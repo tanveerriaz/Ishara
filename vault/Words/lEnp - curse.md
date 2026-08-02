@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:89 · [[002 Al-Baqarah]]
 
@@ -47,7 +47,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when there came to them a Book [i.e., the Qur’ān] from Allāh confirming that which was with them - although before they used to pray for victory against those who disbelieved - but [then] when there came to them that which they recognized, they disbelieved in it; so the curse of Allāh will be upon the disbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب الله کے ہاں سے ان کے پاس کتاب آئی جو ان کی (آسمانی) کتاب کی بھی تصدیق کرتی ہے، اور وہ پہلے (ہمیشہ) کافروں پر فتح مانگا کرتے تھے، تو جس چیز کو وہ خوب پہچانتے تھے، جب ان کے پاس آپہنچی تو اس سے کافر ہو گئے۔ پس کافروں پر الله کی لعنت
+**English (Yusuf Ali):** And when there comes to them a Book from Allah, confirming what is with them,- although from of old they had prayed for victory against those without Faith,- when there comes to them that which they (should) have recognised, they refuse to believe in it but the curse of Allah is on those without Faith.
 
 [Open on Quran.com](https://quran.com/2/89)
 
@@ -63,7 +63,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve and die while they are disbelievers - upon them will be the curse of Allāh and of the angels and the people, all together,
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے اور کافر ہی مرے ایسوں پر خدا کی اور فرشتوں اور لوگوں کی سب کی لعنت
+**English (Yusuf Ali):** Those who reject Faith, and die rejecting,- on them is Allah's curse, and the curse of angels, and of all mankind;
 
 [Open on Quran.com](https://quran.com/2/161)
 
@@ -79,7 +79,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then whoever argues with you about it after [this] knowledge has come to you - say, "Come, let us call our sons and your sons, our women and your women, ourselves and yourselves, then supplicate earnestly [together] and invoke the curse of Allāh upon the liars [among us]."
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اگر یہ لوگ عیسیٰ کے بارے میں تم سے جھگڑا کریں اور تم کو حقیقت الحال تو معلوم ہو ہی چلی ہے تو ان سے کہنا کہ آؤ ہم اپنے بیٹوں اور عورتوں کو بلائیں تم اپنے بیٹوں اور عورتوں کو بلاؤ اور ہم خود بھی آئیں اور تم خود بھی آؤ پھر دونوں فریق (خدا سے) دعا والتجا کریں اور جھوٹوں پر خدا کی لعنت بھیجیں
+**English (Yusuf Ali):** If any one disputes in this matter with thee, now after (full) knowledge Hath come to thee, say: "Come! let us gather together,- our sons and your sons, our women and your women, ourselves and yourselves: Then let us earnestly pray, and invoke the curse of Allah on those who lie!"
 
 [Open on Quran.com](https://quran.com/3/61)
 
@@ -95,7 +95,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those - their recompense will be that upon them is the curse of Allāh and the angels and the people, all together,
 
-**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں کی سزا یہ ہے کہ ان پر خدا کی اور فرشتوں کی اور انسانوں کی سب کی لعنت ہو
+**English (Yusuf Ali):** Of such the reward is that on them (rests) the curse of Allah, of His angels, and of all mankind;-
 
 [Open on Quran.com](https://quran.com/3/87)
 
@@ -111,7 +111,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the companions of Paradise will call out to the companions of the Fire, "We have already found what our Lord promised us to be true. Have you found what your Lord promised to be true?" They will say, "Yes." Then an announcer will announce among them, "The curse of Allāh shall be upon the wrongdoers
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اہل بہشت دوزخیوں سے پکار کر کہیں گے کہ جو وعدہ ہمارے پروردگار نے ہم سے کیا تھا ہم نے تو اسے سچا پالیا۔ بھلا جو وعدہ تمہارے پروردگار نے تم سے کیا تھا تم نے بھی اسے سچا پایا؟ وہ کہیں گے ہاں تو (اس وقت) ان میں ایک پکارنے والا پکارے گا کہ بےانصافوں پر خدا کی لعنت
+**English (Yusuf Ali):** The Companions of the Garden will call out to the Companions of the Fire: "We have indeed found the promises of our Lord to us true: Have you also found Your Lord's promises true?" They shall say, "Yes"; but a crier shall proclaim between them: "The curse of Allah is on the wrong-doers;-
 
 [Open on Quran.com](https://quran.com/7/44)
 
@@ -127,7 +127,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And who is more unjust than he who invents a lie about Allāh? Those will be presented before their Lord, and the witnesses will say, "These are the ones who lied against their Lord." Unquestionably, the curse of Allāh is upon the wrongdoers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس سے بڑھ کر ظالم کون ہوگا جو خدا پر جھوٹ افتراء کرے ایسے لوگ خدا کے سامنے پیش کئے جائیں گے اور گواہ کہیں گے کہ یہی لوگ ہیں جنہوں نے اپنے پروردگار پر جھوٹ بولا تھا۔ سن رکھو کہ ظالموں پر الله کی لعنت ہے
+**English (Yusuf Ali):** Who doth more wrong than those who invent a lie against Allah? They will be turned back to the presence of their Lord, and the witnesses will say, "These are the ones who lied against their Lord! Behold! the Curse of Allah is on those who do wrong!-
 
 [Open on Quran.com](https://quran.com/11/18)
 
@@ -143,7 +143,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they were [therefore] followed in this world with a curse and [as well] on the Day of Resurrection. Unquestionably, ʿAad denied their Lord; then away with ʿAad, the people of Hūd.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو اس دنیا میں بھی لعنت ان کے پیچھے لگی رہے گی اور قیامت کے دن بھی (لگی رہے گی) دیکھو عاد نے اپنے پروردگار سے کفر کیا۔ (اور) سن رکھو ہود کی قوم عاد پر پھٹکار ہے
+**English (Yusuf Ali):** And they were pursued by a Curse in this life,- and on the Day of Judgment. Ah! Behold! for the 'Ad rejected their Lord and Cherisher! Ah! Behold! removed (from sight) were 'Ad the people of Hud!
 
 [Open on Quran.com](https://quran.com/11/60)
 
@@ -159,7 +159,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they were followed in this [world] with a curse and on the Day of Resurrection. And wretched is the gift which is given.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس جہان میں بھی لعنت ان کے پیچھے لگا دی گئی اور قیامت کے دن بھی (پیچھے لگی رہے گی)۔ جو انعام ان کو ملا ہے برا ہے
+**English (Yusuf Ali):** And they are followed by a curse in this (life) and on the Day of Judgment: and woeful is the gift which shall be given (unto them)!
 
 [Open on Quran.com](https://quran.com/11/99)
 
@@ -175,7 +175,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and spread corruption on earth - for them is the curse, and they will have the worst home.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا سے عہد واثق کر کے اس کو توڑ ڈالتے اور (رشتہ ہائے قرابت) کے جوڑے رکھنے کا خدا نے حکم دیا ہے ان کو قطع کر دیتے ہیں اور ملک میں فساد کرتے ہیں۔ ایسوں پر لعنت ہے اور ان کے لیے گھر بھی برا ہے
+**English (Yusuf Ali):** But those who break the Covenant of Allah, after having plighted their word thereto, and cut asunder those things which Allah has commanded to be joined, and work mischief in the land;- on them is the curse; for them is the terrible home!
 
 [Open on Quran.com](https://quran.com/13/25)
 
@@ -191,7 +191,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, upon you is the curse until the Day of Recompense."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تجھ پر قیامت کے دن تک لعنت (برسے گی)
+**English (Yusuf Ali):** "And the curse shall be on thee till the day of Judgment."
 
 [Open on Quran.com](https://quran.com/15/35)
 

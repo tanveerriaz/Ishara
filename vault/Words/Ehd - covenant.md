@@ -39,7 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:27 · [[002 Al-Baqarah]]
 
@@ -53,7 +53,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and cause corruption on earth. It is those who are the losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے اقرار کو مضبوط کرنے کے بعد توڑ دیتے ہیں اور جس چیز (یعنی رشتہٴ قرابت) کے جوڑے رکھنے کا الله نے حکم دیا ہے اس کو قطع کئے ڈالتے ہیں اور زمین میں خرابی کرتے ہیں یہی لوگ نقصان اٹھانے والے ہیں
+**English (Yusuf Ali):** Those who break Allah's Covenant after it is ratified, and who sunder what Allah Has ordered to be joined, and do mischief on earth: These cause loss (only) to themselves.
 
 [Open on Quran.com](https://quran.com/2/27)
 
@@ -69,7 +69,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Children of Israel, remember My favor which I have bestowed upon you and fulfill My covenant [upon you] that I will fulfill your covenant [from Me], and be afraid of [only] Me.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے یعقوب کی اولاد! میرے وہ احسان یاد کرو جو میں نے تم پر کئے تھے اور اس اقرار کو پورا کرو جو تم نے مجھ سے کیا تھا۔ میں اس اقرار کو پورا کروں گا جو میں نے تم سے کیا تھا اور مجھی سے ڈرتے رہو
+**English (Yusuf Ali):** O Children of Israel! call to mind the (special) favour which I bestowed upon you, and fulfil your covenant with Me as I fulfil My Covenant with you, and fear none but Me.
 
 [Open on Quran.com](https://quran.com/2/40)
 
@@ -85,7 +85,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "Never will the Fire touch us, except for [a few] numbered days." Say, "Have you taken a covenant with Allāh? For Allāh will never break His covenant. Or do you say about Allāh that which you do not know?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ (دوزخ کی) آگ ہمیں چند روز کے سوا چھو ہی نہیں سکے گی۔ ان سے پوچھو، کیا تم نے خدا سے اقرار لے رکھا ہے کہ خدا اپنے اقرار کے خلاف نہیں کرے گا۔ (نہیں)، بلکہ تم خدا کے بارے میں ایسی باتیں کہتے ہو جن کا تمہیں مطلق علم نہیں
+**English (Yusuf Ali):** And they say: "The Fire shall not touch us but for a few numbered days:" Say: "Have ye taken a promise from Allah, for He never breaks His promise? or is it that ye say of Allah what ye do not know?"
 
 [Open on Quran.com](https://quran.com/2/80)
 
@@ -101,7 +101,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Is it not [true] that every time they took a covenant a party of them threw it away? But, [in fact], most of them do not believe.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں نے جب (خدا سے) عہد واثق کیا تو ان میں سے ایک فریق نے اس کو (کسی چیز کی طرح) پھینک دیا۔ حقیقت یہ ہے کہ ان میں اکثر بے ایمان ہیں
+**English (Yusuf Ali):** Is it not (the case) that every time they make a covenant, some party among them throw it aside?- Nay, Most of them are faithless.
 
 [Open on Quran.com](https://quran.com/2/100)
 
@@ -117,7 +117,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], when Abraham was tried by his Lord with words [i.e., commands] and he fulfilled them. [Allāh] said, "Indeed, I will make you a leader for the people." [Abraham] said, "And of my descendants?" [Allāh] said, "My covenant does not include the wrongdoers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب پروردگار نے چند باتوں میں ابراہیم کی آزمائش کی تو ان میں پورے اترے۔ خدا نے کہا کہ میں تم کو لوگوں کا پیشوا بناؤں گا۔ انہوں نے کہا کہ (پروردگار) میری اولاد میں سے بھی (پیشوا بنائیو)۔ خدا نے فرمایا کہ ہمارا اقرار ظالموں کے لیے نہیں ہوا کرتا
+**English (Yusuf Ali):** And remember that Abraham was tried by his Lord with certain commands, which he fulfilled: He said: "I will make thee an Imam to the Nations." He pleaded: "And also (Imams) from my offspring!" He answered: "But My Promise is not within the reach of evil-doers."
 
 [Open on Quran.com](https://quran.com/2/124)
 
@@ -133,7 +133,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention] when We made the House [i.e., the Kaʿbah] a place of return for the people and [a place of] security. And take, [O believers], from the standing place of Abraham a place of prayer. And We charged Abraham and Ishmael, [saying], "Purify My House for those who perform ṭawāf and those who are staying [there] for worship and those who bow and prostrate [in prayer]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے خانہٴ کعبہ کو لوگوں کے لیے جمع ہونے اور امن پانے کی جگہ مقرر کیا اور (حکم دیا کہ) جس مقام پر ابراہیم کھڑے ہوئے تھے، اس کو نماز کی جگہ بنا لو۔ اور ابراہیم اور اسمٰعیل کو کہا کہ طواف کرنے والوں اور اعتکاف کرنے والوں اور رکوع کرنے والوں اور سجدہ کرنے والوں کے لیے میرے گھر کو پاک صاف رکھا کرو
+**English (Yusuf Ali):** Remember We made the House a place of assembly for men and a place of safety; and take ye the station of Abraham as a place of prayer; and We covenanted with Abraham and Isma'il, that they should sanctify My House for those who compass it round, or use it as a retreat, or bow, or prostrate themselves (therein in prayer).
 
 [Open on Quran.com](https://quran.com/2/125)
 
@@ -149,7 +149,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+**English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
 
 [Open on Quran.com](https://quran.com/2/177)
 
@@ -165,7 +165,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But yes, whoever fulfills his commitment and fears Allāh - then indeed, Allāh loves those who fear Him.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں جو شخص اپنے اقرار کو پورا کرے اور (خدا سے) ڈرے تو خدا ڈرنے والوں کو دوست رکھتا ہے
+**English (Yusuf Ali):** Nay.- Those that keep their plighted faith and act aright,-verily Allah loves those who act aright.
 
 [Open on Quran.com](https://quran.com/3/76)
 
@@ -181,7 +181,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who exchange the covenant of Allāh and their [own] oaths for a small price will have no share in the Hereafter, and Allāh will not speak to them or look at them on the Day of Resurrection, nor will He purify them; and they will have a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کے اقراروں اور اپنی قسموں (کو بیچ ڈالتے ہیں اور ان) کے عوض تھوڑی سی قیمت حاصل کرتے ہیں ان کا آخرت میں کچھ حصہ نہیں ان سے خدا نہ تو کلام کرے گا اور نہ قیامت کے روز ان کی طرف دیکھے گا اور نہ ان کو پاک کرے گا اور ان کو دکھ دینے والا عذاب ہوگا
+**English (Yusuf Ali):** As for those who sell the faith they owe to Allah and their own plighted word for a small price, they shall have no portion in the Hereafter: Nor will Allah (Deign to) speak to them or look at them on the Day of Judgment, nor will He cleans them (of sin): They shall have a grievous penalty.
 
 [Open on Quran.com](https://quran.com/3/77)
 
@@ -197,7 +197,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [They are] those who said, "Indeed, Allāh has taken our promise not to believe any messenger until he brings us an offering which fire [from heaven] will consume." Say, "There have already come to you messengers before me with clear proofs and [even] that of which you speak. So why did you kill them, if you should be truthful?"
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کہتے ہی کہ خدا نے ہمیں حکم بھیجا ہے کہ جب تک کوئی پیغمبر ہمارے پاس ایسی نیاز لے کر نہ آئے جس کو آگ آکر کھا جائے تب تک ہم اس پر ایمان نہ لائیں گے (اے پیغمبر ان سے) کہہ دو کہ مجھ سے پہلے کئی پیغمبر تمہارے پاس کھلی ہوئی نشانیاں لے کر آئے اور وہ (معجزہ) بھی لائے جو تم کہتے ہو تو اگر سچے ہو تو تم نے ان کو قتل کیوں کیا؟
+**English (Yusuf Ali):** They (also) said: "Allah took our promise not to believe in an messenger unless He showed us a sacrifice consumed by Fire (From heaven)." Say: "There came to you messengers before me, with clear Signs and even with what ye ask for: why then did ye slay them, if ye speak the truth?"
 
 [Open on Quran.com](https://quran.com/3/183)
 

@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:47 · [[004 An-Nisa]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who were given the Scripture, believe in what We have sent down [to Prophet Muḥammad (ﷺ)], confirming that which is with you, before We obliterate faces and turn them toward their backs or curse them as We cursed the sabbath-breakers. And ever is the matter [i.e., decree] of Allāh accomplished.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے کتاب والو! قبل اس کے کہ ہم لوگوں کے مونہوں کو بگاڑ کر ان کی پیٹھ کی طرف پھیر دیں یا ان پر اس طرح لعنت کریں جس طرح ہفتے والوں پر کی تھی ہماری نازل کی ہوئی کتاب پر جو تمہاری کتاب کی بھی تصدیق کرتی ہے ایمان لے آؤ اور خدا نے جو حکم فرمایا سو (سمجھ لو کہ) ہوچکا
+**English (Yusuf Ali):** O ye People of the Book! believe in what We have (now) revealed, confirming what was (already) with you, before We change the face and fame of some (of you) beyond all recognition, and turn them hindwards, or curse them as We cursed the Sabbath-breakers, for the decision of Allah Must be carried out.
 
 [Open on Quran.com](https://quran.com/4/47)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Moses said, "Our Lord, indeed You have given Pharaoh and his establishment splendor and wealth in the worldly life, our Lord, that they may lead [men] astray from Your way. Our Lord, obliterate their wealth and harden their hearts so that they will not believe until they see the painful punishment."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ نے کہا اے ہمارے پروردگار تو نے فرعون اور اس کے سرداروں کو دنیا کی زندگی میں (بہت سا) سازو برگ اور مال وزر دے رکھا ہے۔ اے پروردگار ان کا مال یہ ہے کہ تیرے رستے سے گمراہ کردیں۔ اے پروردگار ان کے مال کو برباد کردے اور ان کے دلوں کو سخت کردے کہ ایمان نہ لائیں جب تک عذاب الیم نہ دیکھ لیں
+**English (Yusuf Ali):** Moses prayed: "Our Lord! Thou hast indeed bestowed on Pharaoh and his chiefs splendour and wealth in the life of the present, and so, Our Lord, they mislead (men) from Thy Path. Deface, our Lord, the features of their wealth, and send hardness to their hearts, so they will not believe until they see the grievous penalty."
 
 [Open on Quran.com](https://quran.com/10/88)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if We willed, We could have obliterated their eyes, and they would race to [find] the path, and how could they see?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم چاہیں تو ان کی آنکھوں کو مٹا کر (اندھا کر) دیں۔ پھر یہ رستے کو دوڑیں تو کہاں دیکھ سکیں گے
+**English (Yusuf Ali):** If it had been our Will, We could surely have blotted out their eyes; then should they have run about groping for the Path, but how could they have seen?
 
 [Open on Quran.com](https://quran.com/36/66)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they had demanded from him his guests, but We obliterated their eyes, [saying], "Taste My punishment and warning."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان سے ان کے مہمانوں کو لے لینا چاہا تو ہم نے ان کی آنکھیں مٹا دیں سو (اب) میرے عذاب اور ڈرانے کے مزے چکھو
+**English (Yusuf Ali):** And they even sought to snatch away his guests from him, but We blinded their eyes. (They heard:) "Now taste ye My Wrath and My Warning."
 
 [Open on Quran.com](https://quran.com/54/37)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when the stars are obliterated
 
-**Urdu (Fatah Muhammad Jalandhari):** جب تاروں کی چمک جاتی رہے
+**English (Yusuf Ali):** Then when the stars become dim;
 
 [Open on Quran.com](https://quran.com/77/8)
 

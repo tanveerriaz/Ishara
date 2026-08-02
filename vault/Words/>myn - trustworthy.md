@@ -31,7 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 7:68 · [[007 Al-Araf]]
 
@@ -45,7 +45,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** I convey to you the messages of my Lord, and I am to you a trustworthy adviser.
 
-**Urdu (Fatah Muhammad Jalandhari):** میں تمہیں خدا کے پیغام پہنچاتا ہوں اور تمہارا امانت دار خیرخواہ ہوں
+**English (Yusuf Ali):** "I but fulfil towards you the duties of my Lord's mission: I am to you a sincere and trustworthy adviser.
 
 [Open on Quran.com](https://quran.com/7/68)
 
@@ -61,7 +61,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the king said, "Bring him to me; I will appoint him exclusively for myself." And when he spoke to him, he said, "Indeed, you are today established [in position] and trusted."
 
-**Urdu (Fatah Muhammad Jalandhari):** بادشاہ نے حکم دیا کہ اسے میرے پاس لاؤ میں اسے اپنا مصاحب خاص بناؤں گا۔ پھر جب ان سے گفتگو کی تو کہا کہ آج سے تم ہمارے ہاں صاحب منزلت اور صاحبِ اعتبار ہو
+**English (Yusuf Ali):** So the king said: "Bring him unto me; I will take him specially to serve about my own person." Therefore when he had spoken to him, he said: "Be assured this day, thou art, before our own presence, with rank firmly established, and fidelity fully proved!
 
 [Open on Quran.com](https://quran.com/12/54)
 
@@ -77,7 +77,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, I am to you a trustworthy messenger.
 
-**Urdu (Fatah Muhammad Jalandhari):** میں تو تمہارا امانت دار ہوں
+**English (Yusuf Ali):** "I am to you a messenger worthy of all trust:
 
 [Open on Quran.com](https://quran.com/26/107)
 
@@ -93,7 +93,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, I am to you a trustworthy messenger.
 
-**Urdu (Fatah Muhammad Jalandhari):** میں تو تمہارا امانت دار پیغمبر ہوں
+**English (Yusuf Ali):** "I am to you a messenger worthy of all trust:
 
 [Open on Quran.com](https://quran.com/26/125)
 
@@ -109,7 +109,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, I am to you a trustworthy messenger.
 
-**Urdu (Fatah Muhammad Jalandhari):** میں تو تمہارا امانت دار ہوں
+**English (Yusuf Ali):** "I am to you a messenger worthy of all trust.
 
 [Open on Quran.com](https://quran.com/26/143)
 
@@ -125,7 +125,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, I am to you a trustworthy messenger.
 
-**Urdu (Fatah Muhammad Jalandhari):** میں تو تمہارا امانت دار پیغمبر ہوں
+**English (Yusuf Ali):** "I am to you a messenger worthy of all trust.
 
 [Open on Quran.com](https://quran.com/26/162)
 
@@ -141,7 +141,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, I am to you a trustworthy messenger.
 
-**Urdu (Fatah Muhammad Jalandhari):** میں تو تمہارا امانت دار پیغمبر ہوں
+**English (Yusuf Ali):** "I am to you a messenger worthy of all trust.
 
 [Open on Quran.com](https://quran.com/26/178)
 
@@ -157,7 +157,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Trustworthy Spirit [i.e., Gabriel] has brought it down
 
-**Urdu (Fatah Muhammad Jalandhari):** اس کو امانت دار فرشتہ لے کر اُترا ہے
+**English (Yusuf Ali):** With it came down the spirit of Faith and Truth-
 
 [Open on Quran.com](https://quran.com/26/193)
 
@@ -173,7 +173,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** A powerful one from among the jinn said, "I will bring it to you before you rise from your place, and indeed, I am for this [task] strong and trustworthy."
 
-**Urdu (Fatah Muhammad Jalandhari):** جنات میں سے ایک قوی ہیکل جن نے کہا کہ قبل اس کے کہ آپ اپنی جگہ سے اٹھیں میں اس کو آپ کے پاس لاحاضر کرتا ہوں اور میں اس (کے اٹھانے کی) طاقت رکھتا ہوں (اور) امانت دار ہوں
+**English (Yusuf Ali):** Said an 'Ifrit, of the Jinns: "I will bring it to thee before thou rise from thy council: indeed I have full strength for the purpose, and may be trusted."
 
 [Open on Quran.com](https://quran.com/27/39)
 
@@ -189,7 +189,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** One of the women said, "O my father, hire him. Indeed, the best one you can hire is the strong and the trustworthy."
 
-**Urdu (Fatah Muhammad Jalandhari):** ایک لڑکی بولی کہ ابّا ان کو نوکر رکھ لیجئے کیونکہ بہتر نوکر جو آپ رکھیں وہ ہے (جو) توانا اور امانت دار (ہو)
+**English (Yusuf Ali):** Said one of the (damsels): "O my (dear) father! engage him on wages: truly the best of men for thee to employ is the (man) who is strong and trusty"....
 
 [Open on Quran.com](https://quran.com/28/26)
 

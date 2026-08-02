@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 36:55 · [[036 Ya-Sin]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed the companions of Paradise, that Day, will be amused in [joyful] occupation -
 
-**Urdu (Fatah Muhammad Jalandhari):** اہل جنت اس روز عیش ونشاط کے مشغلے میں ہوں گے
+**English (Yusuf Ali):** Verily the Companions of the Garden shall that Day have joy in all that they do;
 
 [Open on Quran.com](https://quran.com/36/55)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And comfort wherein they were amused.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور آرام کی چیزیں جن میں عیش کیا کرتے تھے
+**English (Yusuf Ali):** And wealth (and conveniences of life), wherein they had taken such delight!
 
 [Open on Quran.com](https://quran.com/44/27)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Enjoying what their Lord has given them, and their Lord protected them from the punishment of Hellfire.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو کچھ ان کے پروردگار نے ان کو بخشا اس (کی وجہ) سے خوشحال۔ اور ان کے پروردگار نے ان کو دوزخ کے عذاب سے بچا لیا
+**English (Yusuf Ali):** Enjoying the (Bliss) which their Lord hath bestowed on them, and their Lord shall deliver them from the Penalty of the Fire.
 
 [Open on Quran.com](https://quran.com/52/18)
 

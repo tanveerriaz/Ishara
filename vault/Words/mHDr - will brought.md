@@ -29,7 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:30 · [[003 Ali Imran]]
 
@@ -43,7 +43,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day every soul will find what it has done of good present [before it] and what it has done of evil, it will wish that between itself and that [evil] was a great distance. And Allāh warns you of Himself, and Allāh is Kind to [His] servants."
 
-**Urdu (Fatah Muhammad Jalandhari):** جس دن ہر شخص اپنے اعمال کی نیکی کو موجود پالے گا اور ان کی برائی کو بھی (دیکھ لے گا) تو آرزو کرے گا کہ اے کاش اس میں اور اس برائی میں دور کی مسافت ہو جاتی اور خدا تم کو اپنے (غضب) سے ڈراتا ہے اور خدا اپنے بندوں پر نہایت مہربان ہے
+**English (Yusuf Ali):** "On the Day when every soul will be confronted with all the good it has done, and all the evil it has done, it will wish there were a great distance between it and its evil. But Allah cautions you (To remember) Himself. And Allah is full of kindness to those that serve Him."
 
 [Open on Quran.com](https://quran.com/3/30)
 
@@ -59,7 +59,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then is he whom We have promised a good promise which he will meet [i.e., obtain] like he for whom We provided enjoyment of worldly life [but] then he is, on the Day of Resurrection, among those presented [for punishment in Hell]?
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا جس شخص سے ہم نے نیک وعدہ کیا اور اُس نے اُسے حاصل کرلیا تو کیا وہ اس شخص کا سا ہے جس کو ہم نے دنیا کی زندگی کے فائدے سے بہرہ مند کیا پھر وہ قیامت کے روز ان لوگوں میں ہو جو (ہمارے روبرو) حاضر کئے جائیں گے
+**English (Yusuf Ali):** Are (these two) alike?- one to whom We have made a goodly promise, and who is going to reach its (fulfilment), and one to whom We have given the good things of this life, but who, on the Day of Judgment, is to be among those brought up (for punishment)?
 
 [Open on Quran.com](https://quran.com/28/61)
 
@@ -75,7 +75,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But as for those who disbelieved and denied Our verses and the meeting of the Hereafter, those will be brought into the punishment [to remain].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے کفر کیا اور ہماری آیتوں اور آخرت کے آنے کو جھٹلایا۔ وہ عذاب میں ڈالے جائیں گے
+**English (Yusuf Ali):** And those who have rejected Faith and falsely denied our Signs and the meeting of the Hereafter,- such shall be brought forth to Punishment.
 
 [Open on Quran.com](https://quran.com/30/16)
 
@@ -91,7 +91,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the ones who strive against Our verses to cause [them] failure - those will be brought into the punishment [to remain].
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ہماری آیتوں میں کوشش کرتے ہیں کہ ہمیں ہرا دیں وہ عذاب میں حاضر کئے جائیں گے
+**English (Yusuf Ali):** Those who strive against Our Signs, to frustrate them, will be given over into Punishment.
 
 [Open on Quran.com](https://quran.com/34/38)
 
@@ -107,7 +107,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, all of them will yet be brought present before Us.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور سب کے سب ہمارے روبرو حاضر کيے جائیں گے
+**English (Yusuf Ali):** But each one of them all - will be brought before Us (for judgment).
 
 [Open on Quran.com](https://quran.com/36/32)
 
@@ -123,7 +123,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It will not be but one blast, and at once they are all brought present before Us.
 
-**Urdu (Fatah Muhammad Jalandhari):** صرف ایک زور کی آواز کا ہونا ہوگا کہ سب کے سب ہمارے روبرو آحاضر ہوں گے
+**English (Yusuf Ali):** It will be no more than a single Blast, when lo! they will all be brought up before Us!
 
 [Open on Quran.com](https://quran.com/36/53)
 
@@ -139,7 +139,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They are not able to help them, and they [themselves] are for them soldiers in attendance.
 
-**Urdu (Fatah Muhammad Jalandhari):** (مگر) وہ ان کی مدد کی (ہرگز) طاقت نہیں رکھتے۔ اور وہ ان کی فوج ہو کر حاضر کیے جائیں گے
+**English (Yusuf Ali):** They have not the power to help them: but they will be brought up (before Our Judgment-seat) as a troop (to be condemned).
 
 [Open on Quran.com](https://quran.com/36/75)
 
@@ -155,7 +155,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If not for the favor of my Lord, I would have been of those brought in [to Hell].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر میرے پروردگار کی مہربانی نہ ہوتی تو میں بھی ان میں ہوتا جو (عذاب میں) حاضر کئے گئے ہیں
+**English (Yusuf Ali):** "Had it not been for the Grace of my Lord, I should certainly have been among those brought (there)!
 
 [Open on Quran.com](https://quran.com/37/57)
 
@@ -171,7 +171,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they denied him, so indeed, they will be brought [for punishment],
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان لوگوں نے ان کو جھٹلا دیا۔ سو وہ (دوزخ میں) حاضر کئے جائیں گے
+**English (Yusuf Ali):** But they rejected him, and they will certainly be called up (for punishment),-
 
 [Open on Quran.com](https://quran.com/37/127)
 
@@ -187,7 +187,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they have made [i.e., claimed] between Him and the jinn a lineage, but the jinn have already known that they [who made such claims] will be brought [to punishment].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور انہوں نے خدا میں اور جنوں میں رشتہ مقرر کیا۔ حالانکہ جنات جانتے ہیں کہ وہ (خدا کے سامنے) حاضر کئے جائیں گے
+**English (Yusuf Ali):** And they have invented a blood-relationship between Him and the Jinns: but the Jinns know (quite well) that they have indeed to appear (before his Judgment-Seat)!
 
 [Open on Quran.com](https://quran.com/37/158)
 

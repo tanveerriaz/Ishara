@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 34:37 · [[034 Saba]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is not your wealth or your children that bring you nearer to Us in position, but it is [by being] one who has believed and done righteousness. For them there will be the double reward for what they did, and they will be in the upper chambers [of Paradise], safe [and secure].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا مال اور اولاد ایسی چیز نہیں کہ تم کو ہمارا مقرب بنا دیں۔ ہاں (ہمارا مقرب وہ ہے) جو ایمان لایا اور عمل نیک کرتا رہا۔ ایسے ہی لوگوں کو ان کے اعمال کے سبب دگنا بدلہ ملے گا اور وہ خاطر جمع سے بالاخانوں میں بیٹھے ہوں گے
+**English (Yusuf Ali):** It is not your wealth nor your sons, that will bring you nearer to Us in degree: but only those who believe and work righteousness - these are the ones for whom there is a multiplied Reward for their deeds, while secure they (reside) in the dwellings on high!
 
 [Open on Quran.com](https://quran.com/34/37)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So We forgave him that; and indeed, for him is nearness to Us and a good place of return.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان کو بخش دیا۔ اور بےشک ان کے لئے ہمارے ہاں قرب اور عمدہ مقام ہے
+**English (Yusuf Ali):** So We forgave him this (lapse): he enjoyed, indeed, a Near Approach to Us, and a beautiful place of (Final) Return.
 
 [Open on Quran.com](https://quran.com/38/25)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And indeed, for him is nearness to Us and a good place of return.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بےشک ان کے لئے ہمارے ہاں قُرب اور عمدہ مقام ہے
+**English (Yusuf Ali):** And he enjoyed, indeed, a Near Approach to Us, and a beautiful Place of (Final) Return.
 
 [Open on Quran.com](https://quran.com/38/40)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Unquestionably, for Allāh is the pure religion. And those who take protectors besides Him [say], "We only worship them that they may bring us nearer to Allāh in position." Indeed, Allāh will judge between them concerning that over which they differ. Indeed, Allāh does not guide he who is a liar and [confirmed] disbeliever.
 
-**Urdu (Fatah Muhammad Jalandhari):** دیکھو خالص عبادت خدا ہی کے لئے (زیبا ہے) اور جن لوگوں نے اس کے سوا اور دوست بنائے ہیں۔ (وہ کہتے ہیں کہ) ہم ان کو اس لئے پوجتے ہیں کہ ہم کو خدا کا مقرب بنادیں۔ تو جن باتوں میں یہ اختلاف کرتے ہیں خدا ان میں ان کا فیصلہ کردے گا۔ بےشک خدا اس شخص کو جو جھوٹا ناشکرا ہے ہدایت نہیں دیتا
+**English (Yusuf Ali):** Is it not to Allah that sincere devotion is due? But those who take for protectors other than Allah (say): "We only serve them in order that they may bring us nearer to Allah." Truly Allah will judge between them in that wherein they differ. But Allah guides not such as are false and ungrateful.
 
 [Open on Quran.com](https://quran.com/39/3)
 

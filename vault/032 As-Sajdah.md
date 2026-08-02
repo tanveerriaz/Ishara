@@ -14,31 +14,31 @@ The Prostration · 30 ayahs
 
 ## Words in this surah (graph)
 
-- [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[bnY - children]] — `بُنَىّ` · children
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[mA' - water]] — `ماء` · water
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[rwH - spirit]] — `رُوح` · spirit
-- [[mntqm - will take retribution]] — `مُنتَقِم` · will take retribution
-- [[mwqn - certain]] — `مُوقِن` · certain
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[n*yr - warner]] — `نَذِير` · warner
+- [[r>s - heads]] — `رَأْس` · heads
 - [[dEA - call]] — `دَعا` · call
-- [[ydbr - disposing]] — `يُدَبِّرُ` · disposing
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
-- [[syq - will driven]] — `سِيقَ` · will driven
-- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[gyb - unseen]] — `غَيْب` · unseen
-- [[bSr - vision]] — `بَصَر` · vision
-- [[>xfy - you conceal]] — `أُخْفِيَ` · you conceal
-- [[nsy - they forgot]] — `نَسِيَ` · they forgot
-- [[yErj - ascend]] — `يَعْرُجُ` · ascend
-- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[Hmd - all praise]] — `حَمْد` · all praise
 - [[Dl - lost]] — `ضَلَّ` · lost
-- [[qwl - speech]] — `قَوْل` · speech
-- [[AstwY - equal]] — `اسْتَوَى` · equal
-- [[bd> - originates]] — `بَدَأَ` · originates
-- [[$hAdp - witnessed]] — `شَهادَة` · witnessed
+- [[ftH - victory]] — `فَتَحَ` · victory
+- [[fsq - defiantly disobeying]] — `فَسَقَ` · defiantly disobeying
+- [[Er$ - throne]] — `عَرْش` · throne
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[mhyn - despised]] — `مَهِين` · despised
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
+- [[Eml - do]] — `عَمِلَ` · do
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[snp - years]] — `سَنَة` · years
+- [[>mr - command]] — `أَمَرَ` · command
+- [[>dnY - nearer]] — `أَدْنَى` · nearer
+- [[wly - protector]] — `وَلِيّ` · protector
+- [[mqdAr - due proportion]] — `مِقْدار` · due proportion
+- [[mA' - water]] — `ماء` · water
 
 ## Roots
 

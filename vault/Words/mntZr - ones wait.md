@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:158 · [[006 Al-Anam]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do they [then] wait for anything except that the angels should come to them or your Lord should come or that there come some of the signs of your Lord? The Day that some of the signs of your Lord will come no soul will benefit from its faith as long as it had not believed before or had earned through its faith some good. Say, "Wait. Indeed, we [also] are waiting."
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ اس کے سوا اور کس بات کے منتظر ہیں کہ ان کے پاس فرشتے آئیں یا خود تمہارا پروردگار آئے یا تمہارے پروردگار کی کچھ نشانیاں آئیں (مگر) جس روز تمہارے پروردگار کی کچھ نشانیاں آ جائیں گی تو جو شخص پہلے ایمان نہیں لایا ہوگا اس وقت اسے ایمان لانا کچھ فائدہ نہیں دے گا یا اپنے ایمان (کی حالت) میں نیک عمل نہیں کئے ہوں گے (تو گناہوں سے توبہ کرنا مفید نہ ہوگا اے پیغمبر ان سے) کہہ دو کہ تم بھی انتظار کرو ہم بھی انتظار کرتے ہیں
+**English (Yusuf Ali):** Are they waiting to see if the angels come to them, or thy Lord (Himself), or certain of the signs of thy Lord! the day that certain of the signs of thy Lord do come, no good will it do to a soul to believe in them then if it believed not before nor earned righteousness through its faith. Say: "Wait ye: we too are waiting."
 
 [Open on Quran.com](https://quran.com/6/158)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Hūd] said, "Already have defilement and anger fallen upon you from your Lord. Do you dispute with me concerning [mere] names you have named them, you and your fathers, for which Allāh has not sent down any authority? Then wait; indeed, I am with you among those who wait."
 
-**Urdu (Fatah Muhammad Jalandhari):** ہود نے کہا تمہارے پروردگار کی طرف سے تم پر عذاب اور غضب کا (نازل ہونا) مقرر ہو چکا ہے۔ کیا تم مجھ سے ایسے ناموں کے بارے میں جھگڑتے ہو جو تم نے اور تمہارے باپ دادا نے (اپنی طرف سے) رکھ لئے ہیں۔ جن کی خدا نے کوئی سند نازل نہیں کی۔ تو تم بھی انتظار کرو میں بھی تمہارے ساتھ انتظار کرتا ہوں
+**English (Yusuf Ali):** He said: "Punishment and wrath have already come upon you from your Lord: dispute ye with me over names which ye have devised - ye and your fathers,- without authority from Allah? then wait: I am amongst you, also waiting."
 
 [Open on Quran.com](https://quran.com/7/71)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they say, "Why is a sign not sent down to him from his Lord?" So say, "The unseen is only for Allāh [to administer], so wait; indeed, I am with you among those who wait."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ اس پر اس کے پروردگار کی طرف سے کوئی نشانی کیوں نازل نہیں ہوئی۔ کہہ دو کہ غیب (کا علم) تو خدا کو ہے سو تم انتظار کرو۔ میں بھی تمہارے ساتھ انتظار کرتا ہوں
+**English (Yusuf Ali):** They say: "Why is not a sign sent down to him from his Lord?" Say: "The Unseen is only for Allah (to know), then wait ye: I too will wait with you."
 
 [Open on Quran.com](https://quran.com/10/20)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So do they wait except for like [what occurred in] the days of those who passed on before them? Say, "Then wait; indeed, I am with you among those who wait."
 
-**Urdu (Fatah Muhammad Jalandhari):** سو جیسے (برے) دن ان سے پہلے لوگوں پر گزر چکے ہیں اسی طرح کے (دنوں کے) یہ منتظر ہیں۔ کہہ دو کہ تم بھی انتظار کرو۔ میں بھی تمہارے ساتھ انتظار کرتا ہوں
+**English (Yusuf Ali):** Do they then expect (any thing) but (what happened in) the days of the men who passed away before them? Say: "Wait ye then: for I, too, will wait with you."
 
 [Open on Quran.com](https://quran.com/10/102)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And wait; indeed, we are waiting."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (نتیجہٴ اعمال کا) تم بھی انتظار کرو، ہم بھی انتظار کرتے ہیں
+**English (Yusuf Ali):** "And wait ye! We too shall wait."
 
 [Open on Quran.com](https://quran.com/11/122)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So turn away from them and wait. Indeed, they are waiting.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو اُن سے منہ پھیر لو اور انتظار کرو یہ بھی انتظار کر رہے ہیں
+**English (Yusuf Ali):** So turn away from them, and wait: they too are waiting.
 
 [Open on Quran.com](https://quran.com/32/30)
 

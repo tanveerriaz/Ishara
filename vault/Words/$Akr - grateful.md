@@ -33,7 +33,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:158 · [[002 Al-Baqarah]]
 
@@ -47,7 +47,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, aṣ-Ṣafā and al-Marwah are among the symbols of Allāh. So whoever makes ḥajj [pilgrimage] to the House or performs ʿumrah - there is no blame upon him for walking between them. And whoever volunteers good - then indeed, Allāh is Appreciative and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** بےشک (کوہ) صفا اور مروہ خدا کی نشانیوں میں سے ہیں۔ تو جو شخص خانہٴ کعبہ کا حج یا عمرہ کرے اس پر کچھ گناہ نہیں کہ دونوں کا طواف کرے۔ (بلکہ طواف ایک قسم کا نیک کام ہے) اور جو کوئی نیک کام کرے تو خدا قدر شناس اور دانا ہے
+**English (Yusuf Ali):** Behold! Safa and Marwa are among the Symbols of Allah. So if those who visit the House in the Season or at other times, should compass them round, it is no sin in them. And if any one obeyeth his own impulse to good,- be sure that Allah is He Who recogniseth and knoweth.
 
 [Open on Quran.com](https://quran.com/2/158)
 
@@ -63,7 +63,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Muḥammad is not but a messenger. [Other] messengers have passed on before him. So if he was to die or be killed, would you turn back on your heels [to unbelief]? And he who turns back on his heels will never harm Allāh at all; but Allāh will reward the grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور محمد (صلی الله علیہ وسلم) تو صرف (خدا کے) پیغمبر ہیں ان سے پہلے بھی بہت سے پیغمبر ہو گزرے ہیں بھلا اگر یہ مر جائیں یا مارے جائیں تو تم الٹے پاؤں پھر جاؤ؟ (یعنی مرتد ہو جاؤ؟) اور جو الٹے پاؤں پھر جائے گا تو خدا کا کچھ نقصان نہ کر سکے گا اور خدا شکر گزاروں کو (بڑا) ثواب دے گا
+**English (Yusuf Ali):** Muhammad is no more than a messenger: many Were the messenger that passed away before him. If he died or were slain, will ye then Turn back on your heels? If any did turn back on his heels, not the least harm will he do to Allah; but Allah (on the other hand) will swiftly reward those who (serve Him) with gratitude.
 
 [Open on Quran.com](https://quran.com/3/144)
 
@@ -79,7 +79,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is not [possible] for one to die except by permission of Allāh at a decree determined. And whoever desires the reward of this world - We will give him thereof; and whoever desires the reward of the Hereafter - We will give him thereof. And We will reward the grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کسی شخص میں طاقت نہیں کہ خدا کے حکم کے بغیر مر جائے (اس نے موت کا) وقت مقرر کر کے لکھ رکھا ہے اور جو شخص دنیا میں (اپنے اعمال کا) بدلہ چاہے اس کو ہم یہیں بدلہ دے دیں گے اور جو آخرت میں طالبِ ثواب ہو اس کو وہاں اجر عطا کریں گے اور ہم شکر گزاروں کو عنقریب (بہت اچھا) صلہ دیں گے
+**English (Yusuf Ali):** Nor can a soul die except by Allah's leave, the term being fixed as by writing. If any do desire a reward in this life, We shall give it to him; and if any do desire a reward in the Hereafter, We shall give it to him. And swiftly shall We reward those that (serve us with) gratitude.
 
 [Open on Quran.com](https://quran.com/3/145)
 
@@ -95,7 +95,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** What would Allāh do with [i.e., gain from] your punishment if you are grateful and believe? And ever is Allāh Appreciative and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم (خدا کے شکرگزار رہو اور (اس پر) ایمان لے آؤ تو خدا تم کو عذاب دے کر کیا کرے گا۔ اور خدا تو قدرشناس اور دانا ہے
+**English (Yusuf Ali):** What can Allah gain by your punishment, if ye are grateful and ye believe? Nay, it is Allah that recogniseth (all good), and knoweth all things.
 
 [Open on Quran.com](https://quran.com/4/147)
 
@@ -111,7 +111,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And thus We have tried some of them through others that they [i.e., the disbelievers] might say, "Is it these whom Allāh has favored among us?" Is not Allāh most knowing of those who are grateful?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے بعض لوگوں کی بعض سے آزمائش کی ہے کہ (جو دولتمند ہیں وہ غریبوں کی نسبت) کہتے ہیں کیا یہی لوگ ہیں جن پر خدا نے ہم میں سے فضل کیا ہے (خدا نے فرمایا) بھلا خدا شکر کرنے والوں سے واقف نہیں؟
+**English (Yusuf Ali):** Thus did We try some of them by comparison with others, that they should say: "Is it these then that Allah hath favoured from amongst us?" Doth not Allah know best those who are grateful?
 
 [Open on Quran.com](https://quran.com/6/53)
 
@@ -127,7 +127,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Who rescues you from the darknesses of the land and sea [when] you call upon Him imploring [aloud] and privately, 'If He should save us from this [crisis], we will surely be among the thankful.'"
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو بھلا تم کو جنگلوں اور دریاؤں کے اندھیروں سے کون مخلصی دیتا ہے (جب) کہ تم اسے عاجزی اور نیاز پنہانی سے پکارتے ہو (اور کہتے ہو) اگر خدا ہم کو اس (تنگی) سے نجات بخشے تو ہم اس کے بہت شکر گزار ہوں
+**English (Yusuf Ali):** Say: "Who is it that delivereth you from the dark recesses of land and sea, when ye call upon Him in humility and silent terror: 'If He only delivers us from these (dangers), (we vow) we shall truly show our gratitude'?"
 
 [Open on Quran.com](https://quran.com/6/63)
 
@@ -143,7 +143,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then I will come to them from before them and from behind them and on their right and on their left, and You will not find most of them grateful [to You]."
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے آگے سے اور پیچھے سے دائیں سے اور بائیں سے (غرض ہر طرف سے) آؤں گا (اور ان کی راہ ماروں گا) اور تو ان میں اکثر کو شکر گزار نہیں پائے گا
+**English (Yusuf Ali):** "Then will I assault them from before them and behind them, from their right and their left: Nor wilt thou find, in most of them, gratitude (for thy mercies)."
 
 [Open on Quran.com](https://quran.com/7/17)
 
@@ -159,7 +159,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "O Moses, I have chosen you over the people with My messages and My words [to you]. So take what I have given you and be among the grateful."
 
-**Urdu (Fatah Muhammad Jalandhari):** (خدا نے) فرمایا موسیٰ میں نے تم کو اپنے پیغام اور اپنے کلام سے لوگوں سے ممتاز کیا ہے۔ تو جو میں نے تم کو عطا کیا ہے اسے پکڑ رکھو اور (میرا) شکر بجالاؤ
+**English (Yusuf Ali):** (Allah) said: "O Moses! I have chosen thee above (other) men, by the mission I (have given thee) and the words I (have spoken to thee): take then the (revelation) which I give thee, and be of those who give thanks."
 
 [Open on Quran.com](https://quran.com/7/144)
 
@@ -175,7 +175,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who created you from one soul and created from it its mate that he might dwell in security with her. And when he [i.e., man] covers her, she carries a light burden [i.e., a pregnancy] and continues therein. And when it becomes heavy, they both invoke Allāh, their Lord, "If You should give us a good [child], we will surely be among the grateful."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ خدا ہی تو ہے جس نے تم کو ایک شخص سے پیدا کیا اور اس سے اس کا جوڑا بنایا تاکہ اس سے راحت حاصل کرے۔ سو جب وہ اس کے پاس جاتا ہے تو اسے ہلکا سا حمل رہ جاتا ہے اور وہ اس کے ساتھ چلتی پھرتی ہے۔ پھر جب کچھ بوجھ معلوم کرتی یعنی بچہ پیٹ میں بڑا ہوتا ہے تو دونوں میاں بیوی اپنے پروردگار خدائے عزوجل سے التجا کرتے ہیں کہ اگر تو ہمیں صحیح وسالم (بچہ) دے گا تو ہم تیرے شکر گذار ہوں گے
+**English (Yusuf Ali):** It is He Who created you from a single person, and made his mate of like nature, in order that he might dwell with her (in love). When they are united, she bears a light burden and carries it about (unnoticed). When she grows heavy, they both pray to Allah their Lord, (saying): "If Thou givest us a goodly child, we vow we shall (ever) be grateful."
 
 [Open on Quran.com](https://quran.com/7/189)
 
@@ -191,7 +191,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who enables you to travel on land and sea until, when you are in ships and they sail with them by a good wind and they rejoice therein, there comes a storm wind and the waves come upon them from every place and they expect to be engulfed, they supplicate Allāh, sincere to Him in religion, "If You should save us from this, we will surely be among the thankful."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جو تم کو جنگل اور دریا میں چلنے پھرنے اور سیر کرنے کی توفیق دیتا ہے۔ یہاں تک کہ جب تم کشتیوں میں (سوار) ہوتے اور کشتیاں پاکیزہ ہوا (کے نرم نرم جھونکوں) سے سواروں کو لے کر چلنے لگتی ہیں اور وہ ان سے خوش ہوتے ہیں تو ناگہاں زناٹے کی ہوا چل پڑتی ہے اور لہریں ہر طرف سے ان پر (جوش مارتی ہوئی) آنے لگتی ہیں اور وہ خیال کرتے ہیں کہ (اب تو) لہروں میں گھر گئے تو اس وقت خالص خدا ہی کی عبادت کرکے اس سے دعا مانگنے لگتے ہیں کہ (اے خدا) اگر تو ہم کو اس سے نجات بخشے تو ہم (تیرے) بہت ہی شکر گزار ہوں
+**English (Yusuf Ali):** He it is Who enableth you to traverse through land and sea; so that ye even board ships;- they sail with them with a favourable wind, and they rejoice thereat; then comes a stormy wind and the waves come to them from all sides, and they think they are being overwhelmed: they cry unto Allah, sincerely offering (their) duty unto Him saying, "If thou dost deliver us from this, we shall truly show our gratitude!"
 
 [Open on Quran.com](https://quran.com/10/22)
 

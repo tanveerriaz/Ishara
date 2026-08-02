@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 15:56 · [[015 Al-Hijr]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "And who despairs of the mercy of his Lord except for those astray?"
 
-**Urdu (Fatah Muhammad Jalandhari):** (ابراہیم نے) کہا کہ خدا کی رحمت سے (میں مایوس کیوں ہونے لگا اس سے) مایوس ہونا گمراہوں کا کام ہے
+**English (Yusuf Ali):** He said: "And who despairs of the mercy of his Lord, but such as go astray?"
 
 [Open on Quran.com](https://quran.com/15/56)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when We let the people taste mercy, they rejoice therein, but if evil afflicts them for what their hands have put forth, immediately they despair.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم لوگوں کو اپنی رحمت کا مزا چکھاتے ہیں تو اُس سے خوش ہو جاتے ہیں اور اگر اُن کے عملوں کے سبب جو اُن کے ہاتھوں نے آگے بھیجے ہیں کوئی گزند پہنچے تو نااُمید ہو کر رہ جاتے ہیں
+**English (Yusuf Ali):** When We give men a taste of Mercy, they exult thereat: and when some evil afflicts them because of what their (own) hands have sent forth, behold, they are in despair!
 
 [Open on Quran.com](https://quran.com/30/36)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allāh. Indeed, Allāh forgives all sins. Indeed, it is He who is the Forgiving, the Merciful."
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر میری طرف سے لوگوں کو) کہہ دو کہ اے میرے بندو جنہوں نے اپنی جانوں پر زیادتی کی ہے خدا کی رحمت سے ناامید نہ ہونا۔ خدا تو سب گناہوں کو بخش دیتا ہے۔ (اور) وہ تو بخشنے والا مہربان ہے
+**English (Yusuf Ali):** Say: "O my Servants who have transgressed against their souls! Despair not of the Mercy of Allah: for Allah forgives all sins: for He is Oft-Forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/39/53)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who sends down the rain after they had despaired and spreads His mercy. And He is the Protector, the Praiseworthy.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جو لوگوں کے ناامید ہوجانے کے بعد مینہ برساتا اور اپنی رحمت (یعنی بارش) کی برکت کو پھیلا دیتا ہے۔ اور وہ کارساز اور سزاوار تعریف ہے
+**English (Yusuf Ali):** He is the One that sends down rain (even) after (men) have given up all hope, and scatters His Mercy (far and wide). And He is the Protector, Worthy of all Praise.
 
 [Open on Quran.com](https://quran.com/42/28)
 

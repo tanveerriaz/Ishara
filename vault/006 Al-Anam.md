@@ -14,31 +14,31 @@ The Cattle · 165 ayahs
 
 ## Words in this surah (graph)
 
-- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
 - [[$ryk - partners]] — `شَرِيك` · partners
+- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
 - [[Zlmp - darknesses]] — `ظُلُمَة` · darknesses
-- [[>wl - first]] — `أَوَّل` · first
 - [[jzY - we recompense]] — `جَزَى` · we recompense
-- [[AftrY - invent]] — `افْتَرَى` · invent
-- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
+- [[y*r - leave]] — `يَذَرَ` · leave
+- [[jn - jinn]] — `جَنَّ` · jinn
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
 - [[Zhr - backs]] — `ظَهْر` · backs
 - [[fSl - we explain]] — `فَصَلَ` · we explain
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[jn - jinn]] — `جَنَّ` · jinn
-- [[y*r - leave]] — `يَذَرَ` · leave
-- [[mhtdy - guided ones]] — `مُهْتَدي` · guided ones
-- [[>n*r - warn]] — `أَنذَرَ` · warn
-- [[Srf - we explain]] — `صَرَفَ` · we explain
-- [[>n$> - we produced]] — `أَنشَأَ` · we produced
-- [[b>s - punishment]] — `بَأْس` · punishment
+- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
+- [[>wl - first]] — `أَوَّل` · first
+- [[AftrY - invent]] — `افْتَرَى` · invent
 - [[lyl - night]] — `لَيْل` · night
-- [[lbs - mix]] — `لَبَسْ` · mix
 - [[wSY - enjoined]] — `وَصَّى` · enjoined
-- [[Asm - name]] — `اسْم` · name
-- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[zEm - claim]] — `زَعَمَ` · claim
+- [[Srf - we explain]] — `صَرَفَ` · we explain
+- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
+- [[b>s - punishment]] — `بَأْس` · punishment
+- [[qDY - he decrees]] — `قَضَى` · he decrees
 - [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[lbs - mix]] — `لَبَسْ` · mix
+- [[>n$> - we produced]] — `أَنشَأَ` · we produced
+- [[zEm - claim]] — `زَعَمَ` · claim
 - [[xsr - lost]] — `خَسِرَ` · lost
+- [[>Elm - knowing]] — `أَعْلَم` · knowing
+- [[Asm - name]] — `اسْم` · name
 
 ## Roots
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 67:3 · [[067 Al-Mulk]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [And] who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks?
 
-**Urdu (Fatah Muhammad Jalandhari):** اس نے سات آسمان اوپر تلے بنائے۔ (اے دیکھنے والے) کیا تو (خدا) رحمٰن کی آفرنیش میں کچھ نقص دیکھتا ہے؟ ذرا آنکھ اٹھا کر دیکھ بھلا تجھ کو (آسمان میں) کوئی شکاف نظر آتا ہے؟
+**English (Yusuf Ali):** He Who created the seven heavens one above another: No want of proportion wilt thou see in the Creation of (Allah) Most Gracious. So turn thy vision again: seest thou any flaw?
 
 [Open on Quran.com](https://quran.com/67/3)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you not consider how Allāh has created seven heavens in layers
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا نے سات آسمان کیسے اوپر تلے بنائے ہیں
+**English (Yusuf Ali):** "'See ye not how Allah has created the seven heavens one above another,
 
 [Open on Quran.com](https://quran.com/71/15)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [That] you will surely embark upon [i.e., experience] state after state.
 
-**Urdu (Fatah Muhammad Jalandhari):** کہ تم درجہ بدرجہ (رتبہٴ اعلیٰ پر) چڑھو گے
+**English (Yusuf Ali):** Ye shall surely travel from stage to stage.
 
 [Open on Quran.com](https://quran.com/84/19)
 

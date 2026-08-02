@@ -15,30 +15,30 @@ The Ascending Stairways · 44 ayahs
 ## Words in this surah (graph)
 
 - [[sA}l - ask]] — `سائِل` · ask
-- [[xyr - better]] — `خَيْر` · better
-- [[bnY - children]] — `بُنَىّ` · children
-- [[m$fq - fearful]] — `مُشْفِق` · fearful
-- [[rwH - spirit]] — `رُوح` · spirit
+- [[>mAnp - trusts]] — `أَمانَة` · trusts
 - [[dEA - call]] — `دَعا` · call
-- [[Hmym - scalding water]] — `حَمِيم` · scalding water
-- [[Amr} - person]] — `امْرِئ` · person
-- [[bSr - vision]] — `بَصَر` · vision
-- [[AftdY - she ransoms]] — `افْتَدَى` · she ransoms
-- [[yErj - ascend]] — `يَعْرُجُ` · ascend
+- [[qbl - before]] — `قَبْل` · before
+- [[qA}m - standing]] — `قائِم` · standing
+- [[yTmE - hope]] — `يَطْمَعُ` · hope
+- [[ylAq - they meet]] — `يُلاقُ` · they meet
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[xA$E - humbled]] — `خاشِع` · humbled
+- [[lys - not]] — `لَيْسَ` · not
+- [[m$fq - fearful]] — `مُشْفِق` · fearful
+- [[snp - years]] — `سَنَة` · years
+- [[SAHbp - wife]] — `صاحِبَة` · wife
 - [[mHrwm - deprived]] — `مَحْرُوم` · deprived
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[s>l - ask]] — `سَأَلَ` · ask
+- [[AftdY - she ransoms]] — `افْتَدَى` · she ransoms
+- [[mqdAr - due proportion]] — `مِقْدار` · due proportion
+- [[m$rq - east]] — `مَشْرِق` · east
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[Hq - truth]] — `حَقّ` · truth
+- [[E*Ab - punishment]] — `عَذاب` · punishment
 - [[$hAdp - witnessed]] — `شَهادَة` · witnessed
-- [[gyr - without]] — `غَيْر` · without
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[Sbr - patient]] — `صَبْر` · patient
-- [[>jdAv - graves]] — `أَجْداث` · graves
-- [[$r - evil]] — `شَرّ` · evil
-- [[>x - brother]] — `أَخ` · brother
-- [[EAd - transgressor]] — `عاد` · transgressor
-- [[mlk - angels]] — `مَلَك` · angels
-- [[Elm - know]] — `عَلِمَ` · know
+- [[mlkt - possess]] — `مَلَكَتْ` · possess
+- [[rb - lord]] — `رَبّ` · lord
+- [[ms - touch]] — `مَسَّ` · touch
 
 ## Roots
 

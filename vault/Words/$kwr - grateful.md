@@ -32,7 +32,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 14:5 · [[014 Ibrahim]]
 
@@ -46,7 +46,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We certainly sent Moses with Our signs, [saying], "Bring out your people from darknesses into the light and remind them of the days of Allāh." Indeed in that are signs for everyone patient and grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ کو اپنی نشانیاں دے کر بھیجا کہ اپنی قوم کو تاریکی سے نکال کر روشنی میں لے جاؤ۔ اور ان کو خدا کے دن یاد دلاؤ اس میں ان لوگوں کے لیے جو صابر وشاکر ہیں (قدرت خدا کی) نشانیاں ہیں
+**English (Yusuf Ali):** We sent Moses with Our signs (and the command). "Bring out thy people from the depths of darkness into light, and teach them to remember the Days of Allah." Verily in this there are Signs for such as are firmly patient and constant,- grateful and appreciative.
 
 [Open on Quran.com](https://quran.com/14/5)
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O descendants of those We carried [in the ship] with Noah. Indeed, he was a grateful servant.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے اُن لوگوں کی اولاد جن کو ہم نے نوح کے ساتھ (کشتی میں) سوار کیا تھا۔ بےشک نوح (ہمارے) شکرگزار بندے تھے
+**English (Yusuf Ali):** O ye that are sprung from those whom We carried (in the Ark) with Noah! Verily he was a devotee most grateful.
 
 [Open on Quran.com](https://quran.com/17/3)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who has made the night and the day in succession for whoever desires to remember or desires gratitude.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے رات اور دن کو ایک دوسرے کے پیچھے آنے جانے والا بنایا۔ (یہ باتیں) اس شخص کے لئے جو غور کرنا چاہے یا شکرگزاری کا ارادہ کرے (سوچنے اور سمجھنے کی ہیں)
+**English (Yusuf Ali):** And it is He Who made the Night and the Day to follow each other: for such as have the will to celebrate His praises or to show their gratitude.
 
 [Open on Quran.com](https://quran.com/25/62)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you not see that ships sail through the sea by the favor of Allāh that He may show you of His signs? Indeed in that are signs for everyone patient and grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا ہی کی مہربانی سے کشتیاں دریا میں چلتی ہیں۔ تاکہ وہ تم کو اپنی کچھ نشانیاں دکھائے۔ بیشک اس میں ہر صبر کرنے والے (اور) شکر کرنے والے کے لئے نشانیاں ہیں
+**English (Yusuf Ali):** Seest thou not that the ships sail through the ocean by the Grace of Allah?- that He may show you of His Signs? Verily in this are Signs for all who constantly persevere and give thanks.
 
 [Open on Quran.com](https://quran.com/31/31)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They made for him what he willed of elevated chambers, statues, bowls like reservoirs, and stationary kettles. [We said], "Work, O family of David, in gratitude." And few of My servants are grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ جو چاہتے یہ ان کے لئے بناتے یعنی قلعے اور مجسمے اور (بڑے بڑے) لگن جیسے تالاب اور دیگیں جو ایک ہی جگہ رکھی رہیں۔ اے داؤد کی اولاد (میرا) شکر کرو اور میرے بندوں میں شکرگزار تھوڑے ہیں
+**English (Yusuf Ali):** They worked for him as he desired, (making) arches, images, basons as large as reservoirs, and (cooking) cauldrons fixed (in their places): "Work ye, sons of David, with thanks! but few of My servants are grateful!"
 
 [Open on Quran.com](https://quran.com/34/13)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But [insolently] they said, "Our Lord, lengthen the distance between our journeys," and wronged themselves, so We made them narrations and dispersed them in total dispersion. Indeed in that are signs for everyone patient and grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے دعا کی کہ اے پروردگار ہماری مسافتوں میں بُعد (اور طول پیدا) کردے اور (اس سے) انہوں نے اپنے حق میں ظلم کیا تو ہم نے (انہیں نابود کرکے) ان کے افسانے بنادیئے اور انہیں بالکل منتشر کردیا۔ اس میں ہر صابر وشاکر کے لئے نشانیاں ہیں
+**English (Yusuf Ali):** But they said: "Our Lord! Place longer distances between our journey-stages": but they wronged themselves (therein). At length We made them as a tale (that is told), and We dispersed them all in scattered fragments. Verily in this are Signs for every (soul that is) patiently constant and grateful.
 
 [Open on Quran.com](https://quran.com/34/19)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That He may give them in full their rewards and increase for them of His bounty. Indeed, He is Forgiving and Appreciative.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیونکہ خدا ان کو پورا پورا بدلہ دے گا اور اپنے فضل سے کچھ زیادہ بھی دے گا۔ وہ تو بخشنے والا (اور) قدردان ہے
+**English (Yusuf Ali):** For He will pay them their meed, nay, He will give them (even) more out of His Bounty: for He is Oft-Forgiving, Most Ready to appreciate (service).
 
 [Open on Quran.com](https://quran.com/35/30)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And they will say, "Praise to Allāh, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative -
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ کہیں گے کہ خدا کا شکر ہے جس نے ہم سے غم دور کیا۔ بےشک ہمارا پروردگار بخشنے والا (اور) قدردان ہے
+**English (Yusuf Ali):** And they will say: "Praise be to Allah, Who has removed from us (all) sorrow: for our Lord is indeed Oft-Forgiving Ready to appreciate (service):
 
 [Open on Quran.com](https://quran.com/35/34)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is that of which Allāh gives good tidings to His servants who believe and do righteous deeds. Say, [O Muḥammad], "I do not ask you for it [i.e., this message] any payment [but] only good will through [i.e., due to] kinship." And whoever commits a good deed - We will increase for him good therein. Indeed, Allāh is Forgiving and Appreciative.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی وہ (انعام ہے) جس کی خدا اپنے ان بندوں کو جو ایمان لاتے اور عمل نیک کرتے ہیں بشارت دیتا ہے۔ کہہ دو کہ میں اس کا تم سے صلہ نہیں مانگتا مگر (تم کو) قرابت کی محبت (تو چاہیئے) اور جو کوئی نیکی کرے گا ہم اس کے لئے اس میں ثواب بڑھائیں گے۔ بےشک خدا بخشنے والا قدردان ہے
+**English (Yusuf Ali):** That is (the Bounty) whereof Allah gives Glad Tidings to His Servants who believe and do righteous deeds. Say: "No reward do I ask of you for this except the love of those near of kin." And if any one earns any good, We shall give him an increase of good in respect thereof: for Allah is Oft-Forgiving, Most Ready to appreciate (service).
 
 [Open on Quran.com](https://quran.com/42/23)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** If He willed, He could still the wind, and they would remain motionless on its surface. Indeed in that are signs for everyone patient and grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر خدا چاہے تو ہوا کو ٹھیرا دے اور جہاز اس کی سطح پر کھڑے رہ جائیں۔ تمام صبر اور شکر کرنے والوں کے لئے ان (باتوں) میں قدرت خدا کے نمونے ہیں
+**English (Yusuf Ali):** If it be His Will He can still the Wind: then would they become motionless on the back of the (ocean). Verily in this are Signs for everyone who patiently perseveres and is grateful.
 
 [Open on Quran.com](https://quran.com/42/33)
 

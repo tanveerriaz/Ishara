@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 9:111 · [[009 At-Tawbah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, Allāh has purchased from the believers their lives and their properties [in exchange] for that they will have Paradise. They fight in the cause of Allāh, so they kill and are killed. [It is] a true promise [binding] upon Him in the Torah and the Gospel and the Qur’ān. And who is truer to his covenant than Allāh? So rejoice in your transaction which you have contracted. And it is that which is the great attainment.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے مومنوں سے ان کی جانیں اور ان کے مال خرید لیے ہیں (اور اس کے) عوض ان کے لیے بہشت (تیار کی) ہے۔ یہ لوگ خدا کی راہ میں لڑتے ہیں تو مارتے بھی ہیں اور مارے بھی جاتے ہیں بھی ہیں۔ یہ تورات اور انجیل اور قرآن میں سچا وعدہ ہے۔ جس کا پورا کرنا اسے ضرور ہے اور خدا سے زیادہ وعدہ پورا کرنے والا کون ہے تو جو سودا تم نے اس سے کیا ہے اس سے خوش رہو۔ اور یہی بڑی کامیابی ہے
+**English (Yusuf Ali):** Allah hath purchased of the believers their persons and their goods; for theirs (in return) is the garden (of Paradise): they fight in His cause, and slay and are slain: a promise binding on Him in truth, through the Law, the Gospel, and the Qur'an: and who is more faithful to his covenant than Allah? then rejoice in the bargain which ye have concluded: that is the achievement supreme.
 
 [Open on Quran.com](https://quran.com/9/111)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who pledge allegiance to you, [O Muḥammad] - they are actually pledging allegiance to Allāh. The hand of Allāh is over their hands. So he who breaks his word only breaks it to the detriment of himself. And he who fulfills that which he has promised Allāh - He will give him a great reward.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ تم سے بیعت کرتے ہیں وہ خدا سے بیعت کرتے ہیں۔ خدا کا ہاتھ ان کے ہاتھوں پر ہے۔ پھر جو عہد کو توڑے تو عہد توڑنے کا نقصان اسی کو ہے۔ اور جو اس بات کو جس کا اس نے خدا سے عہد کیا ہے پورا کرے تو وہ اسے عنقریب اجر عظیم دے گا
+**English (Yusuf Ali):** Verily those who plight their fealty to thee do no less than plight their fealty to Allah: the Hand of Allah is over their hands: then any one who violates his oath, does so to the harm of his own soul, and any one who fulfils what he has covenanted with Allah,- Allah will soon grant him a great Reward.
 
 [Open on Quran.com](https://quran.com/48/10)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Certainly was Allāh pleased with the believers when they pledged allegiance to you, [O Muḥammad], under the tree, and He knew what was in their hearts, so He sent down tranquility upon them and rewarded them with an imminent conquest
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) جب مومن تم سے درخت کے نیچے بیعت کر رہے تھے تو خدا ان سے خوش ہوا۔ اور جو (صدق وخلوص) ان کے دلوں میں تھا وہ اس نے معلوم کرلیا۔ تو ان پر تسلی نازل فرمائی اور انہیں جلد فتح عنایت کی
+**English (Yusuf Ali):** Allah's Good Pleasure was on the Believers when they swore Fealty to thee under the Tree: He knew what was in their hearts, and He sent down Tranquillity to them; and He rewarded them with a speedy Victory;
 
 [Open on Quran.com](https://quran.com/48/18)
 
@@ -88,7 +88,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Prophet, when the believing women come to you pledging to you that they will not associate anything with Allāh, nor will they steal, nor will they commit unlawful sexual intercourse, nor will they kill their children, nor will they bring forth a slander they have invented between their arms and legs, nor will they disobey you in what is right - then accept their pledge and ask forgiveness for them of Allāh. Indeed, Allāh is Forgiving and Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر! جب تمہارے پاس مومن عورتیں اس بات پر بیعت کرنے کو آئیں کہ خدا کے ساتھ نہ شرک کریں گی نہ چوری کریں گی نہ بدکاری کریں گی نہ اپنی اولاد کو قتل کریں گی نہ اپنے ہاتھ پاؤں میں کوئی بہتان باندھ لائیں گی اور نہ نیک کاموں میں تمہاری نافرمانی کریں گی تو ان سے بیعت لے لو اور ان کے لئے خدا سے بخشش مانگو۔ بےشک خدا بخشنے والا مہربان ہے
+**English (Yusuf Ali):** O Prophet! When believing women come to thee to take the oath of fealty to thee, that they will not associate in worship any other thing whatever with Allah, that they will not steal, that they will not commit adultery (or fornication), that they will not kill their children, that they will not utter slander, intentionally forging falsehood, and that they will not disobey thee in any just matter,- then do thou receive their fealty, and pray to Allah for the forgiveness (of their sins): for Allah is Oft-Forgiving, Most Merciful.
 
 [Open on Quran.com](https://quran.com/60/12)
 

@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 17:64 · [[017 Al-Isra]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And incite [to senselessness] whoever you can among them with your voice and assault them with your horses and foot soldiers and become a partner in their wealth and their children and promise them." But Satan does not promise them except delusion.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے جس کو بہکا سکے اپنی آواز سے بہکاتا رہ۔ اور ان پر اپنے سواروں اور پیاروں کو چڑھا کر لاتا رہ اور ان کے مال اور اولاد میں شریک ہوتا رہ اور ان سے وعدے کرتا رہ۔ اور شیطان جو وعدے ان سے کرتا ہے سب دھوکا ہے
+**English (Yusuf Ali):** "Lead to destruction those whom thou canst among them, with thy (seductive) voice; make assaults on them with thy cavalry and thy infantry; mutually share with them wealth and children; and make promises to them." But Satan promises them nothing but deceit.
 
 [Open on Quran.com](https://quran.com/17/64)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That Day, they [i.e., everyone] will follow [the call of] the Caller [with] no deviation therefrom, and [all] voices will be stilled before the Most Merciful, so you will not hear except a whisper [of footsteps].
 
-**Urdu (Fatah Muhammad Jalandhari):** اس روز لوگ ایک پکارنے والے کے پیچھے چلیں گے اور اس کی پیروی سے انحراف نہ کرسکیں گے اور خدا کے سامنے آوازیں پست ہوجائیں گی تو تم آواز خفی کے سوا کوئی آواز نہ سنو گے
+**English (Yusuf Ali):** On that Day will they follow the Caller (straight): no crookedness (can they show) him: all sounds shall humble themselves in the Presence of (Allah) Most Gracious: nothing shalt thou hear but the tramp of their feet (as they march).
 
 [Open on Quran.com](https://quran.com/20/108)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the voice of donkeys."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنی چال میں اعتدال کئے رہنا اور (بولتے وقت) آواز نیچی رکھنا کیونکہ (اُونچی آواز گدھوں کی ہے اور کچھ شک نہیں کہ) سب آوازوں سے بُری آواز گدھوں کی ہے
+**English (Yusuf Ali):** "And be moderate in thy pace, and lower thy voice; for the harshest of sounds without doubt is the braying of the ass."
 
 [Open on Quran.com](https://quran.com/31/19)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, do not raise your voices above the voice of the Prophet or be loud to him in speech like the loudness of some of you to others, lest your deeds become worthless while you perceive not.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان! اپنی آوازیں پیغمبر کی آواز سے اونچی نہ کرو اور جس طرح آپس میں ایک دوسرے سے زور سے بولتے ہو (اس طرح) ان کے روبرو زور سے نہ بولا کرو (ایسا نہ ہو) کہ تمہارے اعمال ضائع ہوجائیں اور تم کو خبر بھی نہ ہو
+**English (Yusuf Ali):** O ye who believe! Raise not your voices above the voice of the Prophet, nor speak aloud to him in talk, as ye may speak aloud to one another, lest your deeds become vain and ye perceive not.
 
 [Open on Quran.com](https://quran.com/49/2)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who lower their voices before the Messenger of Allāh - they are the ones whose hearts Allāh has tested for righteousness. For them is forgiveness and great reward.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ پیغمبر خدا کے سامنے دبی آواز سے بولتے ہیں خدا نے ان کے دل تقویٰ کے لئے آزما لئے ہیں۔ ان کے لئے بخشش اور اجر عظیم ہے
+**English (Yusuf Ali):** Those that lower their voices in the presence of Allah's Messenger,- their hearts has Allah tested for piety: for them is Forgiveness and a great Reward.
 
 [Open on Quran.com](https://quran.com/49/3)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 8:11 · [[008 Al-Anfal]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Remember] when He overwhelmed you with drowsiness [giving] security from Him and sent down upon you from the sky, rain by which to purify you and remove from you the evil [suggestions] of Satan and to make steadfast your hearts and plant firmly thereby your feet.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب اس نے (تمہاری) تسکین کے لیے اپنی طرف سے تمہیں نیند (کی چادر) اُڑھا دی اور تم پر آسمان سے پانی برسادیا تاکہ تم کو اس سے (نہلا کر) پاک کر دے اور شیطانی نجاست کو تم سے دور کردے۔ اور اس لیے بھی کہ تمہارے دلوں کو مضبوط کردے اور اس سے تمہارے پاؤں جمائے رکھے
+**English (Yusuf Ali):** Remember He covered you with a sort of drowsiness, to give you calm as from Himself, and he caused rain to descend on you from heaven, to clean you therewith, to remove from you the stain of Satan, to strengthen your hearts, and to plant your feet firmly therewith.
 
 [Open on Quran.com](https://quran.com/8/11)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We bound [i.e., made firm] their hearts when they stood up and said, "Our Lord is the Lord of the heavens and the earth. Never will we invoke besides Him any deity. We would have certainly spoken, then, an excessive transgression.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں کو مربوط (یعنی مضبوط) کردیا۔ جب وہ (اُٹھ) کھڑے ہوئے تو کہنے لگے کہ ہمارا پروردگار آسمانوں اور زمین کا مالک ہے۔ ہم اس کے سوا کسی کو معبود (سمجھ کر) نہ پکاریں گے (اگر ایسا کیا) تو اس وقت ہم نے بعید از عقل بات کہی
+**English (Yusuf Ali):** We gave strength to their hearts: Behold, they stood up and said: "Our Lord is the Lord of the heavens and of the earth: never shall we call upon any god other than Him: if we did, we should indeed have uttered an enormity!
 
 [Open on Quran.com](https://quran.com/18/14)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the heart of Moses' mother became empty [of all else]. She was about to disclose [the matter concerning] him had We not bound fast her heart that she would be of the believers.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور موسٰی کی ماں کا دل بے صبر ہو گیا اگر ہم اُن کے دل مضبوط نہ کر دیتے تو قریب تھا کہ وہ اس (قصّے) کو ظاہر کر دیں۔ غرض یہ تھی کہ وہ مومنوں میں رہیں
+**English (Yusuf Ali):** But there came to be a void in the heart of the mother of Moses: She was going almost to disclose his (case), had We not strengthened her heart (with faith), so that she might remain a (firm) believer.
 
 [Open on Quran.com](https://quran.com/28/10)
 

@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:113 · [[003 Ali Imran]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They are not [all] the same; among the People of the Scripture is a community standing [in obedience], reciting the verses of Allāh during periods of the night and prostrating [in prayer].
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ بھی سب ایک جیسے نہیں ہیں ان اہلِ کتاب میں کچھ لوگ (حکمِ خدا پر) قائم بھی ہیں جو رات کے وقت خدا کی آیتیں پڑھتے اور (اس کے آگے) سجدہ کرتے ہیں
+**English (Yusuf Ali):** Not all of them are alike: Of the People of the Book are a portion that stand (For the right): They rehearse the Signs of Allah all night long, and they prostrate themselves in adoration.
 
 [Open on Quran.com](https://quran.com/3/113)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So be patient over what they say and exalt [Allāh] with praise of your Lord before the rising of the sun and before its setting; and during periods of the night [exalt Him] and at the ends of the day, that you may be satisfied.
 
-**Urdu (Fatah Muhammad Jalandhari):** پس جو کچھ یہ بکواس کرتے ہیں اس پر صبر کرو۔ اور سورج کے نکلنے سے پہلے اور اس کے غروب ہونے سے پہلے اپنے پروردگار کی تسبیح وتحمید کیا کرو۔ اور رات کی ساعات (اولین) میں بھی اس کی تسبیح کیا کرو اور دن کی اطراف (یعنی دوپہر کے قریب ظہر کے وقت بھی) تاکہ تم خوش ہوجاؤ
+**English (Yusuf Ali):** Therefore be patient with what they say, and celebrate (constantly) the praises of thy Lord, before the rising of the sun, and before its setting; yea, celebrate them for part of the hours of the night, and at the sides of the day: that thou mayest have (spiritual) joy.
 
 [Open on Quran.com](https://quran.com/20/130)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Is one who is devoutly obedient during periods of the night, prostrating and standing [in prayer], fearing the Hereafter and hoping for the mercy of his Lord, [like one who does not]? Say, "Are those who know equal to those who do not know?" Only they will remember [who are] people of understanding.
 
-**Urdu (Fatah Muhammad Jalandhari):** (بھلا مشرک اچھا ہے) یا وہ جو رات کے وقتوں میں زمین پر پیشانی رکھ کر اور کھڑے ہو کر عبادت کرتا اور آخرت سے ڈرتا اور اپنے پروردگار کی رحمت کی امید رکھتا ہے۔ کہو بھلا جو لوگ علم رکھتے ہیں اور جو نہیں رکھتے دونوں برابر ہوسکتے ہیں؟ (اور) نصیحت تو وہی پکڑتے ہیں جو عقلمند ہیں
+**English (Yusuf Ali):** Is one who worships devoutly during the hour of the night prostrating himself or standing (in adoration), who takes heed of the Hereafter, and who places his hope in the Mercy of his Lord - (like one who does not)? Say: "Are those equal, those who know and those who do not know? It is those who are endued with understanding that receive admonition.
 
 [Open on Quran.com](https://quran.com/39/9)
 

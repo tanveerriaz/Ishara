@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:82 · [[011 Hud]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were]
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جب ہمارا حکم آیا ہم نے اس (بستی) کو (اُلٹ کر) نیچے اوپر کردیا اور ان پر پتھر کی تہہ بہ تہہ (یعنی پےدرپے) کنکریاں برسائیں
+**English (Yusuf Ali):** When Our Decree issued, We turned (the cities) upside down, and rained down on them brimstones hard as baked clay, spread, layer on layer,-
 
 [Open on Quran.com](https://quran.com/11/82)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We made the highest part [of the city] its lowest and rained upon them stones of hard clay.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس شہر کو (الٹ کر) نیچے اوپر کردیا۔ اور ان پر کھنگر کی پتھریاں برسائیں
+**English (Yusuf Ali):** And We turned (the cities) upside down, and rained down on them brimstones hard as baked clay.
 
 [Open on Quran.com](https://quran.com/15/74)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We return him to the lowest of the low,
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر (رفتہ رفتہ) اس (کی حالت) کو (بدل کر) پست سے پست کر دیا
+**English (Yusuf Ali):** Then do We abase him (to be) the lowest of the low,-
 
 [Open on Quran.com](https://quran.com/95/5)
 

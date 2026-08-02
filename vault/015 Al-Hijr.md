@@ -17,28 +17,28 @@ The Rocky Tract · 99 ayahs
 - [[mElwm - known]] — `مَعْلُوم` · known
 - [[mrsl - messengers]] — `مُرْسَل` · messengers
 - [[qdr - restricts]] — `قَدَر` · restricts
+- [[SyHp - shout]] — `صَيْحَة` · shout
+- [[rjym - accursed]] — `رَجِيم` · accursed
 - [[Dyf - guests]] — `ضَيْف` · guests
 - [[md - spread]] — `مَدَّ` · spread
-- [[SyHp - shout]] — `صَيْحَة` · shout
+- [[sjd - prostrate]] — `سَجَدَ` · prostrate
 - [[sAjd - prostrating]] — `ساجِد` · prostrating
 - [[mSbH - morning]] — `مُصْبِح` · morning
-- [[sjd - prostrate]] — `سَجَدَ` · prostrate
-- [[rjym - accursed]] — `رَجِيم` · accursed
 - [[mnZr - given respite]] — `مُنظَر` · given respite
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[mA' - water]] — `ماء` · water
-- [[rwH - spirit]] — `رُوح` · spirit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>gwy - you have sent]] — `أَغْوَيْ` · you have sent
-- [[EZym - great]] — `عَظِيم` · great
-- [[slTAn - authority]] — `سُلْطان` · authority
-- [[qryp - town]] — `قَرْيَة` · town
-- [[bSr - vision]] — `بَصَر` · vision
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[fAEl - doers]] — `فاعِل` · doers
-- [[bnt - daughters]] — `بِنْت` · daughters
+- [[HfZ - guard]] — `حِفْظ` · guard
+- [[n*yr - warner]] — `نَذِير` · warner
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[xTb - was affair]] — `خَطْب` · was affair
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[lyl - night]] — `لَيْل` · night
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[ftH - victory]] — `فَتَحَ` · victory
+- [[sAfl - its downside]] — `سافِل` · its downside
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[>gnY - availed]] — `أَغْنَى` · availed
 
 ## Roots
 

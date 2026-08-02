@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 11:72 · [[011 Hud]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** She said, "Woe to me! Shall I give birth while I am an old woman and this, my husband, is an old man? Indeed, this is an amazing thing!"
 
-**Urdu (Fatah Muhammad Jalandhari):** اس نے کہا اے ہے میرے بچہ ہوگا؟ میں تو بڑھیا ہوں اور میرے میاں بھی بوڑھے ہیں۔ یہ تو بڑی عجیب بات ہے
+**English (Yusuf Ali):** She said: "Alas for me! shall I bear a child, seeing I am an old woman, and my husband here is an old man? That would indeed be a wonderful thing!"
 
 [Open on Quran.com](https://quran.com/11/72)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Except an old woman among those who remained behind.
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر ایک بڑھیا کہ پیچھے رہ گئی
+**English (Yusuf Ali):** Except an old woman who lingered behind.
 
 [Open on Quran.com](https://quran.com/26/171)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Except an old woman [i.e., his wife] among those who remained [with the evildoers].
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر ایک بڑھیا کہ پیچھے رہ جانے والوں میں تھی
+**English (Yusuf Ali):** Except an old woman who was among those who lagged behind:
 
 [Open on Quran.com](https://quran.com/37/135)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And his wife approached with a cry [of alarm] and struck her face and said, "[I am] a barren old woman!"
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ابراہیمؑ کی بیوی چلاّتی آئی اور اپنا منہ پیٹ کر کہنے لگی کہ (اے ہے ایک تو) بڑھیا اور (دوسرے) بانجھ
+**English (Yusuf Ali):** But his wife came forward (laughing) aloud: she smote her forehead and said: "A barren old woman!"
 
 [Open on Quran.com](https://quran.com/51/29)
 

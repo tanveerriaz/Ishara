@@ -16,29 +16,29 @@ The Inevitable · 96 ayahs
 
 - [[mqrb - brought near]] — `مُقَرَّب` · brought near
 - [[mknwn - well-protected]] — `مَكْنُون` · well-protected
-- [[mk*b - deniers]] — `مُكَذِّب` · deniers
-- [[nEym - delight]] — `نَعِيم` · delight
 - [[$Arb - drinkers]] — `شارِب` · drinkers
 - [[fAkhp - fruits]] — `فاكِهَة` · fruits
-- [[qAl - say]] — `قالَ` · say
-- [[zqwm - zaqqum]] — `زَقُّوم` · zaqqum
-- [[mA' - water]] — `ماء` · water
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[rwH - spirit]] — `رُوح` · spirit
-- [[EZym - great]] — `عَظِيم` · great
+- [[nEym - delight]] — `نَعِيم` · delight
+- [[mk*b - deniers]] — `مُكَذِّب` · deniers
 - [[mrfwEp - raised]] — `مَرْفُوعَة` · raised
-- [[$jr - trees]] — `شَجَرَ` · trees
-- [[Tyr - birds]] — `طَيْر` · birds
-- [[>kwAb - cups]] — `أَكْواب` · cups
-- [[Hmym - scalding water]] — `حَمِيم` · scalding water
-- [[nZr - see]] — `نَظَرَ` · see
-- [[mHrwm - deprived]] — `مَحْرُوم` · deprived
-- [[gyr - without]] — `غَيْر` · without
-- [[DAl - astray]] — `ضالّ` · astray
-- [[r>Y - you see]] — `رَأَى` · you see
+- [[>Sr - they persist]] — `أَصَرُّ` · they persist
+- [[kvyrp - many]] — `كَثِيرَة` · many
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
 - [[qdr - restricts]] — `قَدَر` · restricts
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[jEl - we made]] — `جَعَلَ` · we made
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[Hyn - time]] — `حِين` · time
+- [[yqyn - certainty]] — `يَقِين` · certainty
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[lys - not]] — `لَيْسَ` · not
+- [[n$>p - creation]] — `نَشْأَة` · creation
+- [[njm - stars]] — `نَجْم` · stars
+- [[Eml - do]] — `عَمِلَ` · do
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[mtrf - affluent ones]] — `مُتْرَف` · affluent ones
+- [[sAbq - foremost]] — `سابِق` · foremost
+- [[mHrwm - deprived]] — `مَحْرُوم` · deprived
 
 ## Roots
 

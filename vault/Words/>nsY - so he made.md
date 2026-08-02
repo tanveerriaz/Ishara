@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:106 · [[002 Al-Baqarah]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** We do not abrogate a verse or cause it to be forgotten except that We bring forth [one] better than it or similar to it. Do you not know that Allāh is over all things competent?
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم جس آیت کو منسوخ کر دیتے یا اسے فراموش کرا دیتے ہیں تو اس سے بہتر یا ویسی ہی اور آیت بھیج دیتے ہیں۔ کیا تم نہیں جانتے کہ خدا ہر بات پر قادر ہے
+**English (Yusuf Ali):** None of Our revelations do We abrogate or cause to be forgotten, but We substitute something better or similar: Knowest thou not that Allah Hath power over all things?
 
 [Open on Quran.com](https://quran.com/2/106)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when you see those who engage in [offensive] discourse concerning Our verses, then turn away from them until they enter into another conversation. And if Satan should cause you to forget, then do not remain after the reminder with the wrongdoing people.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم ایسے لوگوں کو دیکھو جو ہماری آیتوں کے بارے میں بیہودہ بکواس کر رہے ہوں تو ان سے الگ ہوجاؤ یہاں تک کہ اور باتوں میں مصروف ہوجائیں۔ اور اگر (یہ بات) شیطان تمہیں بھلا دے تو یاد آنے پر ظالم لوگوں کے ساتھ نہ بیٹھو
+**English (Yusuf Ali):** When thou seest men engaged in vain discourse about Our signs, turn away from them unless they turn to a different theme. If Satan ever makes thee forget, then after recollection, sit not thou in the company of those who do wrong.
 
 [Open on Quran.com](https://quran.com/6/68)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And he said to the one whom he knew would go free, "Mention me before your master." But Satan made him forget the mention [to] his master, and he [i.e., Joseph] remained in prison several years.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور دونوں شخصوں میں سے جس کی نسبت (یوسف نے) خیال کیا کہ وہ رہائی پا جائے گا اس سے کہا کہ اپنے آقا سے میرا ذکر بھی کرنا لیکن شیطان نے ان کا اپنے آقا سے ذکر کرنا بھلا دیا اور یوسف کئی برس جیل خانے میں رہے
+**English (Yusuf Ali):** And of the two, to that one whom he consider about to be saved, he said: "Mention me to thy lord." But Satan made him forget to mention him to his lord: and (Joseph) lingered in prison a few (more) years.
 
 [Open on Quran.com](https://quran.com/12/42)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He said, "Did you see when we retired to the rock? Indeed, I forgot [there] the fish. And none made me forget it except Satan - that I should mention it. And it took its course into the sea amazingly."
 
-**Urdu (Fatah Muhammad Jalandhari):** (اس نے) کہا کہ بھلا آپ نے دیکھا کہ جب ہم نے پتھر کے ساتھ آرام کیا تھا تو میں مچھلی (وہیں) بھول گیا۔ اور مجھے (آپ سے) اس کا ذکر کرنا شیطان نے بھلا دیا۔ اور اس نے عجب طرح سے دریا میں اپنا رستہ لیا
+**English (Yusuf Ali):** He replied: "Sawest thou (what happened) when we betook ourselves to the rock? I did indeed forget (about) the Fish: none but Satan made me forget to tell (you) about it: it took its course through the sea in a marvellous way!"
 
 [Open on Quran.com](https://quran.com/18/63)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But you took them in mockery to the point that they made you forget My remembrance, and you used to laugh at them.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو تم ان سے تمسخر کرتے رہے یہاں تک کہ ان کے پیچھے میری یاد بھی بھول گئے اور تم (ہمیشہ) ان سے ہنسی کیا کرتے تھے
+**English (Yusuf Ali):** "But ye treated them with ridicule, so much so that (ridicule of) them made you forget My Message while ye were laughing at them!
 
 [Open on Quran.com](https://quran.com/23/110)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Satan has overcome them and made them forget the remembrance of Allāh. Those are the party of Satan. Unquestionably, the party of Satan - they will be the losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** شیطان نے ان کو قابو میں کرلیا ہے۔ اور خدا کی یاد ان کو بھلا دی ہے۔ یہ (جماعت) شیطان کا لشکر ہے۔ اور سن رکھو کہ شیطان کا لشکر نقصان اٹھانے والا ہے
+**English (Yusuf Ali):** The Evil One has got the better of them: so he has made them lose the remembrance of Allah. They are the Party of the Evil One. Truly, it is the Party of the Evil One that will perish!
 
 [Open on Quran.com](https://quran.com/58/19)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And be not like those who forgot Allāh, so He made them forget themselves. Those are the defiantly disobedient.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں جیسے نہ ہونا جنہوں نے خدا کو بھلا دیا تو خدا نے انہیں ایسا کردیا کہ خود اپنے تئیں بھول گئے۔ یہ بدکردار لوگ ہیں
+**English (Yusuf Ali):** And be ye not like those who forgot Allah; and He made them forget their own souls! Such are the rebellious transgressors!
 
 [Open on Quran.com](https://quran.com/59/19)
 

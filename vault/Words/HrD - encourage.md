@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:84 · [[004 An-Nisa]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So fight, [O Muḥammad], in the cause of Allāh; you are not held responsible except for yourself. And encourage the believers [to join you] that perhaps Allāh will restrain the [military] might of those who disbelieve. And Allāh is greater in might and stronger in [exemplary] punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو (اے محمدﷺ) تم خدا کی راہ میں لڑو تم اپنے سوا کسی کے ذمہ دار نہیں اور مومنوں کو بھی ترغیب دو قریب ہے کہ خدا کافروں کی لڑائی کو بند کردے اور خدا لڑائی کے اعتبار سے بہت سخت ہے اور سزا کے لحاظ سے بھی بہت سخت ہے
+**English (Yusuf Ali):** Then fight in Allah's cause - Thou art held responsible only for thyself - and rouse the believers. It may be that Allah will restrain the fury of the Unbelievers; for Allah is the strongest in might and in punishment.
 
 [Open on Quran.com](https://quran.com/4/84)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O Prophet, urge the believers to battle. If there are among you twenty [who are] steadfast, they will overcome two hundred. And if there are among you one hundred [who are steadfast], they will overcome a thousand of those who have disbelieved because they are a people who do not understand.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے نبی! مسلمانوں کو جہاد کی ترغیب دو۔ اور اگر تم بیس آدمی ثابت قدم رہنے والے ہوں گے تو دو سو کافروں پر غالب رہیں گے۔ اور اگر سو (ایسے) ہوں گے تو ہزار پر غالب رہیں گے۔ اس لیے کہ کافر ایسے لوگ ہیں کہ کچھ بھی سمجھ نہیں رکھتے
+**English (Yusuf Ali):** O Prophet! rouse the Believers to the fight. If there are twenty amongst you, patient and persevering, they will vanquish two hundred: if a hundred, they will vanquish a thousand of the Unbelievers: for these are a people without understanding.
 
 [Open on Quran.com](https://quran.com/8/65)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "By Allāh, you will not cease remembering Joseph until you become fatally ill or become of those who perish."
 
-**Urdu (Fatah Muhammad Jalandhari):** بیٹے کہنے لگے کہ والله اگر آپ یوسف کو اسی طرح یاد ہی کرتے رہیں گے تو یا تو بیمار ہوجائیں گے یا جان ہی دے دیں گے
+**English (Yusuf Ali):** They said: "By Allah! (never) wilt thou cease to remember Joseph until thou reach the last extremity of illness, or until thou die!"
 
 [Open on Quran.com](https://quran.com/12/85)
 

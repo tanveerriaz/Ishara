@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:248 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And their prophet said to them, "Indeed, a sign of his kingship is that the chest will come to you in which is assurance from your Lord and a remnant of what the family of Moses and the family of Aaron had left, carried by the angels. Indeed in that is a sign for you, if you are believers."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبر نے ان سے کہا کہ ان کی بادشاہی کی نشانی یہ ہے کہ تمہارے پاس ایک صندوق آئے گا جس کو فرشتے اٹھائے ہوئے ہوں گے اس میں تمہارے پروردگار کی طرف سے تسلی (بخشنے والی چیز) ہوگی اور کچھ اور چیزیں بھی ہوں گی جو موسیٰ اور ہارون چھوڑ گئے تھے۔ اگر تم ایمان رکھتے ہو تو یہ تمہارے لئے ایک بڑی نشانی ہے
+**English (Yusuf Ali):** And (further) their Prophet said to them: "A Sign of his authority is that there shall come to you the Ark of the covenant, with (an assurance) therein of security from your Lord, and the relics left by the family of Moses and the family of Aaron, carried by angels. In this is a symbol for you if ye indeed have faith."
 
 [Open on Quran.com](https://quran.com/2/248)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. "Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people."
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا کسی شخص کو اس کی طاقت سے زیادہ تکلیف نہیں دیتا۔ اچھے کام کرے گا تو اس کو ان کا فائدہ ملے گا برے کرے گا تو اسے ان کا نقصان پہنچے گا۔ اے پروردگار اگر ہم سے بھول یا چوک ہوگئی ہو تو ہم سے مؤاخذہ نہ کیجیو۔ اے پروردگار ہم پر ایسا بوجھ نہ ڈالیو جیسا تو نے ہم سے پہلے لوگوں پر ڈالا تھا۔ اے پروردگار جتنا بوجھ اٹھانے کی ہم میں طاقت نہیں اتنا ہمارے سر پر نہ رکھیو۔ اور (اے پروردگار) ہمارے گناہوں سے درگزر کر اور ہمیں بخش دے۔ اور ہم پر رحم فرما۔ تو ہی ہمارا مالک ہے اور ہم کو کافروں پر غالب فرما
+**English (Yusuf Ali):** On no soul doth Allah Place a burden greater than it can bear. It gets every good that it earns, and it suffers every ill that it earns. (Pray:) "Our Lord! Condemn us not if we forget or fall into error; our Lord! Lay not on us a burden Like that which Thou didst lay on those before us; Our Lord! Lay not on us a burden greater than we have strength to bear. Blot out our sins, and grant us forgiveness. Have mercy on us. Thou art our Protector; Help us against those who stand against faith."
 
 [Open on Quran.com](https://quran.com/2/286)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those will have lost who deny the meeting with Allāh, until when the Hour [of resurrection] comes upon them unexpectedly, they will say, "Oh, [how great is] our regret over what we neglected concerning it [i.e., the Hour]," while they bear their burdens [i.e., sins] on their backs. Unquestionably, evil is that which they bear.
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے خدا کے روبرو حاضر ہونے کو جھوٹ سمجھا وہ گھاٹے میں آگئے۔ یہاں تک کہ جب ان پر قیامت ناگہاں آموجود ہوگی تو بول اٹھیں گے کہ (ہائے) اس تقصیر پر افسوس ہے جو ہم نے قیامت کے بارے میں کی۔ اور وہ اپنے (اعمال کے) بوجھ اپنی پیٹھوں پر اٹھائے ہوئے ہوں گے۔ دیکھو جو بوجھ یہ اٹھا رہے ہیں بہت برا ہے
+**English (Yusuf Ali):** Lost indeed are they who treat it as a falsehood that they must meet Allah,- until on a sudden the hour is on them, and they say: "Ah! woe unto us that we took no thought of it"; for they bear their burdens on their backs, and evil indeed are the burdens that they bear?
 
 [Open on Quran.com](https://quran.com/6/31)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to those who are Jews We prohibited every animal of uncloven hoof; and of the cattle and the sheep We prohibited to them their fat, except what adheres to their backs or the entrails or what is joined with bone. [By] that We repaid them for their transgression. And indeed, We are truthful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہودیوں پر ہم نے سب ناخن والے جانور حرام کر دئیے تھے اور گایوں اور بکریوں سے ان کی چربی حرام کر دی تھی سوا اس کے جو ان کی پیٹھ پر لگی ہو یا اوجھڑی میں ہو یا ہڈی میں ملی ہو یہ سزا ہم نے ان کو ان کی شرارت کے سبب دی تھی اور ہم تو سچ کہنے والے ہیں
+**English (Yusuf Ali):** For those who followed the Jewish Law, We forbade every (animal) with undivided hoof, and We forbade them that fat of the ox and the sheep, except what adheres to their backs or their entrails, or is mixed up with a bone: this in recompense for their wilful disobedience: for We are true (in Our ordinances).
 
 [Open on Quran.com](https://quran.com/6/146)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if We had willed, We could have elevated him thereby, but he adhered [instead] to the earth and followed his own desire. So his example is like that of the dog: if you chase him, he pants, or if you leave him, he [still] pants. That is the example of the people who denied Our signs. So relate the stories that perhaps they will give thought.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم چاہتے تو ان آیتوں سے اس (کے درجے) کو بلند کر دیتے مگر وہ تو پستی کی طرف مائل ہوگیا اور اپنی خواہش کے پیچھے چل پڑا۔ تو اس کی مثال کتے کی سی ہوگئی کہ اگر سختی کرو تو زبان نکالے رہے اور یونہی چھوڑ دو تو بھی زبان نکالے رہے۔ یہی مثال ان لوگوں کی ہے جنہوں نے ہماری آیتوں کو جھٹلایا تو ان سے یہ قصہ بیان کردو۔ تاکہ وہ فکر کریں
+**English (Yusuf Ali):** If it had been Our will, We should have elevated him with Our signs; but he inclined to the earth, and followed his own vain desires. His similitude is that of a dog: if you attack him, he lolls out his tongue, or if you leave him alone, he (still) lolls out his tongue. That is the similitude of those who reject Our signs; So relate the story; perchance they may reflect.
 
 [Open on Quran.com](https://quran.com/7/176)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who created you from one soul and created from it its mate that he might dwell in security with her. And when he [i.e., man] covers her, she carries a light burden [i.e., a pregnancy] and continues therein. And when it becomes heavy, they both invoke Allāh, their Lord, "If You should give us a good [child], we will surely be among the grateful."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ خدا ہی تو ہے جس نے تم کو ایک شخص سے پیدا کیا اور اس سے اس کا جوڑا بنایا تاکہ اس سے راحت حاصل کرے۔ سو جب وہ اس کے پاس جاتا ہے تو اسے ہلکا سا حمل رہ جاتا ہے اور وہ اس کے ساتھ چلتی پھرتی ہے۔ پھر جب کچھ بوجھ معلوم کرتی یعنی بچہ پیٹ میں بڑا ہوتا ہے تو دونوں میاں بیوی اپنے پروردگار خدائے عزوجل سے التجا کرتے ہیں کہ اگر تو ہمیں صحیح وسالم (بچہ) دے گا تو ہم تیرے شکر گذار ہوں گے
+**English (Yusuf Ali):** It is He Who created you from a single person, and made his mate of like nature, in order that he might dwell with her (in love). When they are united, she bears a light burden and carries it about (unnoticed). When she grows heavy, they both pray to Allah their Lord, (saying): "If Thou givest us a goodly child, we vow we shall (ever) be grateful."
 
 [Open on Quran.com](https://quran.com/7/189)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Nor [is there blame] upon those who, when they came to you for you to take them along, you said, "I can find nothing upon which to carry you." They turned back while their eyes overflowed with tears out of grief that they could not find something to spend [for the cause of Allāh].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور نہ ان (بےسروسامان) لوگوں پر (الزام) ہے کہ تمہارے پاس آئے کہ ان کو سواری دو اور تم نے کہا کہ میرے پاس کوئی ایسی چیز نہیں جس پر تم کو سوار کروں تو وہ لوٹ گئے اور اس غم سے کہ ان کے پاس خرچ موجود نہ تھا، ان کی آنکھوں سے آنسو بہہ رہے تھے
+**English (Yusuf Ali):** Nor (is there blame) on those who came to thee to be provided with mounts, and when thou saidst, "I can find no mounts for you," they turned back, their eyes streaming with tears of grief that they had no resources wherewith to provide the expenses.
 
 [Open on Quran.com](https://quran.com/9/92)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [So it was], until when Our command came and the oven overflowed, We said, "Load upon it [i.e., the ship] of each [creature] two mates and your family, except those about whom the word [i.e., decree] has preceded, and [include] whoever has believed." But none had believed with him, except a few.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ جب ہمارا حکم آپہنچا اور تنور جوش مارنے لگا تو ہم نے نوح کو حکم دیا کہ ہر قسم (کے جانداروں) میں سے جوڑا جوڑا (یعنی) دو (دو جانور۔ ایک ایک نر اور ایک ایک مادہ) لے لو اور جس شخص کی نسبت حکم ہوچکا ہے (کہ ہلاک ہوجائے گا) اس کو چھوڑ کر اپنے گھر والوں کو جو ایمان لایا ہو اس کو کشتی میں سوار کر لو اور ان کے ساتھ ایمان بہت ہی کم لوگ لائے تھے
+**English (Yusuf Ali):** At length, behold! there came Our command, and the fountains of the earth gushed forth! We said: "Embark therein, of each kind two, male and female, and your family - except those against whom the word has already gone forth,- and the Believers." but only a few believed with him.
 
 [Open on Quran.com](https://quran.com/11/40)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And there entered the prison with him two young men. One of them said, "Indeed, I have seen myself [in a dream] pressing [grapes for] wine." The other said, "Indeed, I have seen myself carrying upon my head [some] bread, from which the birds were eating. Inform us of its interpretation; indeed, we see you to be of those who do good."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے ساتھ دو اور جوان بھی داخل زندان ہوئے۔ ایک نے ان میں سے کہا کہ (میں نے خواب دیکھا ہے) دیکھتا (کیا) ہوں کہ شراب (کے لیے انگور) نچوڑ رہا ہوں۔ دوسرے نے کہا کہ (میں نے بھی خواب دیکھا ہے) میں یہ دیکھتا ہوں کہ اپنے سر پر روٹیاں اٹھائے ہوئے ہوں اور جانور ان میں سے کھا رہے (ہیں تو) ہمیں ان کی تعبیر بتا دیجیئے کہ ہم تمہیں نیکوکار دیکھتے ہیں
+**English (Yusuf Ali):** Now with him there came into the prison two young men. Said one of them: "I see myself (in a dream) pressing wine." said the other: "I see myself (in a dream) carrying bread on my head, and birds are eating, thereof." "Tell us" (they said) "The truth and meaning thereof: for we see thou art one that doth good (to all)."
 
 [Open on Quran.com](https://quran.com/12/36)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They said, "We are missing the measure of the king. And for he who produces it is [the reward of] a camel's load, and I am responsible for it."
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ بادشاہ (کے پانی پینے) کا گلاس کھویا گیا ہے اور جو شخص اس کو لے آئے اس کے لیے ایک بار شتر (انعام) اور میں اس کا ضامن ہوں
+**English (Yusuf Ali):** They said: "We miss the great beaker of the king; for him who produces it, is (the reward of) a camel load; I will be bound by it."
 
 [Open on Quran.com](https://quran.com/12/72)
 

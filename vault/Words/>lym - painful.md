@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:10 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In their hearts is disease, so Allāh has increased their disease; and for them is a painful punishment because they [habitually] used to lie.
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کے دلوں میں (کفر کا) مرض تھا۔ خدا نے ان کا مرض اور زیادہ کر دیا اور ان کے جھوٹ بولنے کے سبب ان کو دکھ دینے والا عذاب ہوگا
+**English (Yusuf Ali):** In their hearts is a disease; and Allah has increased their disease: And grievous is the penalty they (incur), because they are false (to themselves).
 
 [Open on Quran.com](https://quran.com/2/10)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, say not [to Allāh's Messenger], "Rāʿinā" but say, "Unẓurnā" and listen. And for the disbelievers is a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان! (گفتگو کے وقت پیغمبرِ خدا سے) راعنا نہ کہا کرو۔ انظرنا کہا کرو۔ اور خوب سن رکھو، اور کافروں کے لیے دکھ دینے والا عذاب ہے
+**English (Yusuf Ali):** O ye of Faith! Say not (to the Messenger) words of ambiguous import, but words of respect; and hearken (to him): To those without Faith is a grievous punishment.
 
 [Open on Quran.com](https://quran.com/2/104)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, they who conceal what Allāh has sent down of the Book and exchange it for a small price - those consume not into their bellies except the Fire. And Allāh will not speak to them on the Day of Resurrection, nor will He purify them. And they will have a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (خدا) کی کتاب سے ان (آیتوں اور ہدایتوں) کو جو اس نے نازل فرمائی ہیں چھپاتے اور ان کے بدلے تھوڑی سی قیمت (یعنی دنیاوی منفعت)حاصل کرتے ہیں وہ اپنے پیٹوں میں محض آگ بھرتے ہیں۔ ایسے لوگوں سے خدا قیامت کے دن نہ کلام کرے گا اور نہ ان کو (گناہوں سے) پاک کرے گا۔اور ان کے لئے دکھ دینے والا عذاب ہے
+**English (Yusuf Ali):** Those who conceal Allah's revelations in the Book, and purchase for them a miserable profit,- they swallow into themselves naught but Fire; Allah will not address them on the Day of Resurrection. Nor purify them: Grievous will be their penalty.
 
 [Open on Quran.com](https://quran.com/2/174)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, prescribed for you is legal retribution for those murdered - the free for the free, the slave for the slave, and the female for the female. But whoever overlooks from his brother [i.e., the killer] anything, then there should be a suitable follow-up and payment to him [i.e., the deceased's heir or legal representative] with good conduct. This is an alleviation from your Lord and a mercy. But whoever transgresses after that will have a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! تم کو مقتولوں کے بارےمیں قصاص (یعنی خون کے بدلے خون) کا حکم دیا جاتا ہے (اس طرح پر کہ)آزاد کے بدلے آزاد (مارا جائے) اور غلام کے بدلے غلام اور عورت کے بدلے عورت اور قاتل کو اس کے (مقتول) بھائی (کے قصاص میں) سے کچھ معاف کردیا جائے تو (وارث مقتول) کو پسندیدہ طریق سے (قرار داد کی) پیروی (یعنی مطالبہٴ خون بہا) کرنا اور (قاتل کو) خوش خوئی کے ساتھ ادا کرنا چاہیئے یہ پروردگار کی طرف سے تمہارے لئے آسانی اور مہربانی ہے جو اس کے بعد زیادتی کرے اس کے لئے دکھ کا عذاب ہے
+**English (Yusuf Ali):** O ye who believe! the law of equality is prescribed to you in cases of murder: the free for the free, the slave for the slave, the woman for the woman. But if any remission is made by the brother of the slain, then grant any reasonable demand, and compensate him with handsome gratitude, this is a concession and a Mercy from your Lord. After this whoever exceeds the limits shall be in grave penalty.
 
 [Open on Quran.com](https://quran.com/2/178)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who disbelieve in the signs of Allāh and kill the prophets without right and kill those who order justice from among the people - give them tidings of a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کی آیتوں کو نہیں مانتے اور انبیاء کو ناحق قتل کرتے رہے ہیں اور جو انصاف (کرنے) کا حکم دیتے ہیں انہیں بھی مار ڈالتے ہیں ان کو دکھ دینے والے عذاب کی خوشخبری سنا دو
+**English (Yusuf Ali):** As to those who deny the Signs of Allah and in defiance of right, slay the prophets, and slay those who teach just dealing with mankind, announce to them a grievous penalty.
 
 [Open on Quran.com](https://quran.com/3/21)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who exchange the covenant of Allāh and their [own] oaths for a small price will have no share in the Hereafter, and Allāh will not speak to them or look at them on the Day of Resurrection, nor will He purify them; and they will have a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کے اقراروں اور اپنی قسموں (کو بیچ ڈالتے ہیں اور ان) کے عوض تھوڑی سی قیمت حاصل کرتے ہیں ان کا آخرت میں کچھ حصہ نہیں ان سے خدا نہ تو کلام کرے گا اور نہ قیامت کے روز ان کی طرف دیکھے گا اور نہ ان کو پاک کرے گا اور ان کو دکھ دینے والا عذاب ہوگا
+**English (Yusuf Ali):** As for those who sell the faith they owe to Allah and their own plighted word for a small price, they shall have no portion in the Hereafter: Nor will Allah (Deign to) speak to them or look at them on the Day of Judgment, nor will He cleans them (of sin): They shall have a grievous penalty.
 
 [Open on Quran.com](https://quran.com/3/77)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve and die while they are disbelievers - never would the [whole] capacity of the earth in gold be accepted from one of them if he would [seek to] ransom himself with it. For those there will be a painful punishment, and they will have no helpers.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہوئے اور کفر ہی کی حالت میں مر گئے وہ اگر (نجات حاصل کرنی چاہیں اور) بدلے میں زمین بھر کر سونا دیں تو ہرگز قبول نہ کیا جائے گا ان لوگوں کو دکھ دینے والا عذاب ہو گا اور ان کی کوئی مدد نہیں کرے گا
+**English (Yusuf Ali):** As to those who reject Faith, and die rejecting,- never would be accepted from any such as much gold as the earth contains, though they should offer it for ransom. For such is (in store) a penalty grievous, and they will find no helpers.
 
 [Open on Quran.com](https://quran.com/3/91)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who purchase disbelief [in exchange] for faith - never will they harm Allāh at all, and for them is a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے ایمان کے بدلے کفر خریدا وہ خدا کا کچھ نہیں بگاڑ سکتے اور ان کو دکھ دینے والا عذاب ہوگا
+**English (Yusuf Ali):** Those who purchase Unbelief at the price of faith,- not the least harm will they do to Allah, but they will have a grievous punishment.
 
 [Open on Quran.com](https://quran.com/3/177)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And never think that those who rejoice in what they have perpetrated and like to be praised for what they did not do - never think them [to be] in safety from the punishment, and for them is a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنے (ناپسند) کاموں سے خوش ہوتے ہیں اور پسندیدہ کام) جو کرتے نہیں ان کے لئے چاہتے ہیں کہ ان ک تعریف کی جائے ان کی نسبت خیال نہ کرنا کہ وہ عذاب سے رستگار ہوجائیں گے۔ اور انہیں درد دینے والا عذاب ہوگا
+**English (Yusuf Ali):** Think not that those who exult in what they have brought about, and love to be praised for what they have not done,- think escape the penalty. For them is a penalty Grievous indeed.
 
 [Open on Quran.com](https://quran.com/3/188)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But repentance is not [accepted] of those who [continue to] do evil deeds up until, when death comes to one of them, he says, "Indeed, I have repented now," or of those who die while they are disbelievers. For them We have prepared a painful punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ایسے لوگوں کی توبہ قبول نہیں ہوتی جو (ساری عمر) برے کام کرتے ہیں۔ یہاں تک کہ جب ان میں سے کسی موت آموجود ہو تو اس وقت کہنے لگے کہ اب میں توبہ کرتا ہوں اور نہ ان کی (توبہ قبول ہوتی ہے) جو کفر کی حالت میں مریں۔ ایسے لوگوں کے لئے ہم نے عذاب الیم تیار کر رکھا ہے
+**English (Yusuf Ali):** Of no effect is the repentance of those who continue to do evil, until death faces one of them, and he says, "Now have I repented indeed;" nor of those who die rejecting Faith: for them have We prepared a punishment most grievous.
 
 [Open on Quran.com](https://quran.com/4/18)
 

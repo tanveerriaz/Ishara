@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 32:22 · [[032 As-Sajdah]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And who is more unjust than one who is reminded of the verses of his Lord; then he turns away from them? Indeed We, from the criminals, will take retribution.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس شخص سے بڑھ کر ظالم کون جس کو اس کے پروردگار کی آیتوں سے نصیحت کی جائے تو وہ اُن سے منہ پھیر لے۔ ہم گنہگاروں سے ضرور بدلہ لینے والے ہیں
+**English (Yusuf Ali):** And who does more wrong than one to whom are recited the Signs of his Lord, and who then turns away therefrom? Verily from those who transgress We shall exact (due) Retribution.
 
 [Open on Quran.com](https://quran.com/32/22)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And whether [or not] We take you away [in death], indeed, We will take retribution upon them.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر ہم تم کو (وفات دے کر) اٹھا لیں تو ان لوگوں سے تو ہم انتقام لے کر رہیں گے
+**English (Yusuf Ali):** Even if We take thee away, We shall be sure to exact retribution from them,
 
 [Open on Quran.com](https://quran.com/43/41)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day We will strike with the greatest assault, indeed, We will take retribution.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس دن ہم بڑی سخت پکڑ پکڑیں گے تو بےشک انتقام لے کر چھوڑیں گے
+**English (Yusuf Ali):** One day We shall seize you with a mighty onslaught: We will indeed (then) exact Retribution!
 
 [Open on Quran.com](https://quran.com/44/16)
 

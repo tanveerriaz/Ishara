@@ -38,7 +38,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:36 · [[003 Ali Imran]]
 
@@ -52,7 +52,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But when she delivered her, she said, "My Lord, I have delivered a female." And Allāh was most knowing of what she delivered, and the male is not like the female. "And I have named her Mary, and I seek refuge for her in You and [for] her descendants from Satan, the expelled [from the mercy of Allāh]."
 
-**Urdu (Fatah Muhammad Jalandhari):** جب ان کے ہاں بچہ پیدا ہوا اور جو کچھ ان کے ہاں پیدا ہوا تھا خدا کو خوب معلوم تھا تو کہنے لگیں کہ پروردگار! میرے تو لڑکی ہوئی ہے اور (نذر کے لیے) لڑکا (موزوں تھا کہ وہ) لڑکی کی طرح (ناتواں) نہیں ہوتا اور میں نے اس کا نام مریم رکھا ہے اور میں اس کو اور اس کی اولاد کو شیطان مردود سے تیری پناہ میں دیتی ہوں
+**English (Yusuf Ali):** When she was delivered, she said: "O my Lord! Behold! I am delivered of a female child!"- and Allah knew best what she brought forth- "And no wise is the male Like the female. I have named her Mary, and I commend her and her offspring to Thy protection from the Evil One, the Rejected."
 
 [Open on Quran.com](https://quran.com/3/36)
 
@@ -68,7 +68,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, the first House [of worship] established for mankind was that at Bakkah [i.e., Makkah] - blessed and a guidance for the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** پہلا گھر جو لوگوں (کے عبادت کرنے) کے لیے مقرر کیا گیا تھا وہی ہے جو مکے میں ہے بابرکت اور جہاں کے لیے موجبِ ہدایت
+**English (Yusuf Ali):** The first House (of worship) appointed for men was that at Bakka: Full of blessing and of guidance for all kinds of beings:
 
 [Open on Quran.com](https://quran.com/3/96)
 
@@ -84,7 +84,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when you [i.e., the commander of an army] are among them and lead them in prayer, let a group of them stand [in prayer] with you and let them carry their arms. And when they have prostrated, let them be [in position] behind you and have the other group come forward which has not [yet] prayed and let them pray with you, taking precaution and carrying their arms. Those who disbelieve wish that you would neglect your weapons and your baggage so they could come down upon you in one [single] attack. But there is no blame upon you, if you are troubled by rain or are ill, for putting down your arms, but take precaution. Indeed, Allāh has prepared for the disbelievers a humiliating punishment.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر) جب تم ان (مجاہدین کے لشکر) میں ہو اور ان کو نماز پڑھانے لگو تو چاہیئے کہ ان کی ایک جماعت تمہارے ساتھ مسلح ہو کر کھڑی رہے جب وہ سجدہ کرچکیں تو پرے ہو جائیں پھر دوسری جماعت جس نے نماز نہیں پڑھی (ان کی جگہ) آئے اور ہوشیار اور مسلح ہو کر تمہارے ساتھ نماز ادا کرے کافر اس گھات میں ہیں کہ تم ذرا اپنے ہتھیاروں اور سامان سے غافل ہو جاؤ تو تم پر یکبارگی حملہ کردیں اگر تم بارش کے سبب تکلیف میں یا بیمار ہو تو تم پر کچھ گناہ نہیں کہ ہتھیار اتار رکھو مگر ہوشیار ضرور رہنا خدا نے کافروں کے لئے ذلت کا عذاب تیار کر رکھا ہے
+**English (Yusuf Ali):** When thou (O Messenger) art with them, and standest to lead them in prayer, Let one party of them stand up (in prayer) with thee, Taking their arms with them: When they finish their prostrations, let them Take their position in the rear. And let the other party come up which hath not yet prayed - and let them pray with thee, Taking all precaution, and bearing arms: the Unbelievers wish, if ye were negligent of your arms and your baggage, to assault you in a single rush. But there is no blame on you if ye put away your arms because of the inconvenience of rain or because ye are ill; but take (every) precaution for yourselves. For the Unbelievers Allah hath prepared a humiliating punishment.
 
 [Open on Quran.com](https://quran.com/4/102)
 
@@ -100,7 +100,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who follow the Messenger, the unlettered prophet, whom they find written [i.e., described] in what they have of the Torah and the Gospel, who enjoins upon them what is right and prohibits them from what is wrong and makes lawful for them what is good and forbids them from what is evil and relieves them of their burden and the shackles which were upon them. So they who have believed in him, honored him, supported him and followed the light which was sent down with him - it is those who will be the successful.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ جو (محمدﷺ) رسول (الله) کی جو نبی اُمی ہیں پیروی کرتے ہیں جن (کے اوصاف) کو وہ اپنے ہاں تورات اور انجیل میں لکھا ہوا پاتے ہیں۔ وہ انہیں نیک کام کا حکم دیتے ہیں اور برے کام سے روکتے ہیں۔ اور پاک چیزوں کو ان کے لیے حلال کرتے ہیں اور ناپاک چیزوں کو ان پر حرام ٹہراتے ہیں اور ان پر سے بوجھ اور طوق جو ان (کے سر) پر (اور گلے میں) تھے اتارتے ہیں۔ تو جو لوگ ان پر ایمان لائے اور ان کی رفاقت کی اور انہیں مدد دی۔ اور جو نور ان کے ساتھ نازل ہوا ہے اس کی پیروی کی۔ وہی مراد پانے والے ہیں
+**English (Yusuf Ali):** "Those who follow the messenger, the unlettered Prophet, whom they find mentioned in their own (scriptures),- in the law and the Gospel;- for he commands them what is just and forbids them what is evil; he allows them as lawful what is good (and pure) and prohibits them from what is bad (and impure); He releases them from their heavy burdens and from the yokes that are upon them. So it is those who believe in him, honour him, help him, and follow the light which is sent down with him,- it is they who will prosper."
 
 [Open on Quran.com](https://quran.com/7/157)
 
@@ -116,7 +116,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the record [of deeds] will be placed [open], and you will see the criminals fearful of that within it, and they will say, "Oh, woe to us! What is this book that leaves nothing small or great except that it has enumerated it?" And they will find what they did present [before them]. And your Lord does injustice to no one.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (عملوں کی) کتاب (کھول کر) رکھی جائے گی تو تم گنہگاروں کو دیکھو گے کہ جو کچھ اس میں (لکھا) ہوگا اس سے ڈر رہے ہوں گے اور کہیں گے ہائے شامت یہ کیسی کتاب ہے کہ نہ چھوٹی بات کو چھوڑتی ہے نہ بڑی کو۔ (کوئی بات بھی نہیں) مگر اسے لکھ رکھا ہے۔ اور جو عمل کئے ہوں گے سب کو حاضر پائیں گے۔ اور تمہارا پروردگار کسی پر ظلم نہیں کرے گا
+**English (Yusuf Ali):** And the Book (of Deeds) will be placed (before you); and thou wilt see the sinful in great terror because of what is (recorded) therein; they will say, "Ah! woe to us! what a Book is this! It leaves out nothing small or great, but takes account thereof!" They will find all that they did, placed before them: And not one will thy Lord treat with injustice.
 
 [Open on Quran.com](https://quran.com/18/49)
 
@@ -132,7 +132,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We place the scales of justice for the Day of Resurrection, so no soul will be treated unjustly at all. And if there is [even] the weight of a mustard seed, We will bring it forth. And sufficient are We as accountant.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم قیامت کے دن انصاف کی ترازو کھڑی کریں گے تو کسی شخص کی ذرا بھی حق تلفی نہ کی جائے گی۔ اور اگر رائی کے دانے کے برابر بھی (کسی کا عمل) ہوگا تو ہم اس کو لاحاضر کریں گے۔ اور ہم حساب کرنے کو کافی ہیں
+**English (Yusuf Ali):** We shall set up scales of justice for the Day of Judgment, so that not a soul will be dealt with unjustly in the least, and if there be (no more than) the weight of a mustard seed, We will bring it (to account): and enough are We to take account.
 
 [Open on Quran.com](https://quran.com/21/47)
 
@@ -148,7 +148,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** On the Day you see it every nursing mother will be distracted from that [child] she was nursing, and every pregnant woman will abort her pregnancy, and you will see the people [appearing] intoxicated while they are not intoxicated; but the punishment of Allāh is severe.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے مخاطب) جس دن تو اس کو دیکھے گا (اُس دن یہ حال ہوگا کہ) تمام دودھ پلانے والی عورتیں اپنے بچوں کو بھول جائیں گی۔ اور تمام حمل والیوں کے حمل گر پڑیں گے۔ اور لوگ تجھ کو متوالے نظر آئیں گے مگر وہ متوالے نہیں ہوں گے بلکہ (عذاب دیکھ کر) مدہوش ہو رہے ہوں گے۔ بےشک خدا کا عذاب بڑا سخت ہے
+**English (Yusuf Ali):** The Day ye shall see it, every mother giving suck shall forget her suckling-babe, and every pregnant female shall drop her load (unformed): thou shalt see mankind as in a drunken riot, yet not drunk: but dreadful will be the Wrath of Allah.
 
 [Open on Quran.com](https://quran.com/22/2)
 
@@ -164,7 +164,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, let those whom your right hands possess and those who have not [yet] reached puberty among you ask permission of you [before entering] at three times: before the dawn prayer and when you put aside your clothing [for rest] at noon and after the night prayer. [These are] three times of privacy for you. There is no blame upon you nor upon them beyond these [periods], for they continually circulate among you - some of you, among others. Thus does Allāh make clear to you the verses [i.e., His ordinances]; and Allāh is Knowing and Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! تمہارے غلام لونڈیاں اور جو بچّے تم میں سے بلوغ کو نہیں پہنچے تین دفعہ یعنی (تین اوقات میں) تم سے اجازت لیا کریں۔ (ایک تو) نماز صبح سے پہلے اور (دوسرے گرمی کی دوپہر کو) جب تم کپڑے اتار دیتے ہو۔ اور تیسرے عشاء کی نماز کے بعد۔ (یہ) تین (وقت) تمہارے پردے (کے) ہیں ان کے (آگے) پیچھے (یعنی دوسرے وقتوں میں) نہ تم پر کچھ گناہ ہے اور نہ ان پر۔ کہ کام کاج کے لئے ایک دوسرے کے پاس آتے رہتے ہو۔ اس طرح خدا اپنی آیتیں تم سے کھول کھول کر بیان فرماتا ہے اور خدا بڑا علم والا اور بڑا حکمت والا ہے
+**English (Yusuf Ali):** O ye who believe! let those whom your right hands possess, and the (children) among you who have not come of age ask your permission (before they come to your presence), on three occasions: before morning prayer; the while ye doff your clothes for the noonday heat; and after the late-night prayer: these are your three times of undress: outside those times it is not wrong for you or for them to move about attending to each other: Thus does Allah make clear the Signs to you: for Allah is full of knowledge and wisdom.
 
 [Open on Quran.com](https://quran.com/24/58)
 
@@ -180,7 +180,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And women of post-menstrual age who have no desire for marriage - there is no blame upon them for putting aside their outer garments [but] not displaying adornment. But to modestly refrain [from that] is better for them. And Allāh is Hearing and Knowing.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بڑی عمر کی عورتیں جن کو نکاح کی توقع نہیں رہی، اور وہ کپڑے اتار کر سر ننگا کرلیا کریں تو ان پر کچھ گناہ نہیں بشرطیکہ اپنی زینت کی چیزیں نہ ظاہر کریں۔ اور اس سے بھی بچیں تو یہ ان کے حق میں بہتر ہے۔ اور خدا سنتا اور جانتا ہے
+**English (Yusuf Ali):** Such elderly women as are past the prospect of marriage,- there is no blame on them if they lay aside their (outer) garments, provided they make not a wanton display of their beauty: but it is best for them to be modest: and Allah is One Who sees and knows all things.
 
 [Open on Quran.com](https://quran.com/24/60)
 
@@ -196,7 +196,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Allāh created you from dust, then from a sperm-drop; then He made you mates. And no female conceives nor does she give birth except with His knowledge. And no aged person is granted [additional] life nor is his lifespan lessened but that it is in a register. Indeed, that for Allāh is easy.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تم کو مٹی سے پیدا کیا پھر نطفے سے پھر تم کو جوڑا جوڑا بنا دیا۔ اور کوئی عورت نہ حاملہ ہوتی ہے اور نہ جنتی ہے مگر اس کے علم سے۔ اور نہ کسی بڑی عمر والے کو عمر زیادہ دی جاتی ہے اور نہ اس کی عمر کم کی جاتی ہے مگر (سب کچھ) کتاب میں (لکھا ہوا) ہے۔ بےشک یہ خدا کو آسان ہے
+**English (Yusuf Ali):** And Allah did create you from dust; then from a sperm-drop; then He made you in pairs. And no female conceives, or lays down (her load), but with His knowledge. Nor is a man long-lived granted length of days, nor is a part cut off from his life, but is in a Decree (ordained). All this is easy to Allah.
 
 [Open on Quran.com](https://quran.com/35/11)
 

@@ -18,27 +18,27 @@ Ya Sin · 83 ayahs
 - [[SyHp - shout]] — `صَيْحَة` · shout
 - [[>nq* - would saved]] — `أَنقَذَ` · would saved
 - [[ynbgy - appropriate]] — `يَنۢبَغِي` · appropriate
-- [[mytp - dead animals]] — `مَيْتَة` · dead animals
-- [[mhtdy - guided ones]] — `مُهْتَدي` · guided ones
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[bnY - children]] — `بُنَىّ` · children
-- [[gAfl - unaware]] — `غافِل` · unaware
-- [[qAl - say]] — `قالَ` · say
-- [[AxtSm - dispute]] — `اخْتَصَمُ` · dispute
-- [[>drk - overtakes him]] — `أَدْرَكَ` · overtakes him
-- [[>rA}k - couches]] — `أَرائِك` · couches
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[qmr - moon]] — `قَمَر` · moon
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[qryp - town]] — `قَرْيَة` · town
-- [[$jr - trees]] — `شَجَرَ` · trees
-- [[gyb - unseen]] — `غَيْب` · unseen
 - [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[m$Hwn - laden]] — `مَشْحُون` · laden
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
-- [[nZr - see]] — `نَظَرَ` · see
-- [[>fwAh - mouths]] — `أَفْواه` · mouths
+- [[Avnyn - two]] — `اثْنَيْن` · two
+- [[xtm - sealed]] — `خَتَمَ` · sealed
+- [[qbl - before]] — `قَبْل` · before
+- [[nAr - fire]] — `نار` · fire
+- [[Zlm - wronged]] — `ظَلَمَ` · wronged
+- [[lyl - night]] — `لَيْل` · night
+- [[wAHdp - single]] — `واحِدَة` · single
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[Hyn - time]] — `حِين` · time
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[yd - hands]] — `يَد` · hands
+- [[vmr - its fruit]] — `ثَمَر` · its fruit
+- [[Adm - adam]] — `آدَم` · adam
+- [[lys - not]] — `لَيْسَ` · not
+- [[jnd - hosts]] — `جُند` · hosts
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[xlf - behind them]] — `خَلْف` · behind them
+- [[Eml - do]] — `عَمِلَ` · do
 
 ## Roots
 

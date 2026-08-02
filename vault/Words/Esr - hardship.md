@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:185 · [[002 Al-Baqarah]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The month of Ramaḍān [is that] in which was revealed the Qur’ān, a guidance for the people and clear proofs of guidance and criterion. So whoever sights [the crescent of] the month, let him fast it; and whoever is ill or on a journey - then an equal number of other days. Allāh intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allāh for that [to] which He has guided you; and perhaps you will be grateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** (روزوں کا مہینہ) رمضان کا مہینہ (ہے) جس میں قرآن (اول اول) نازل ہوا جو لوگوں کا رہنما ہے اور (جس میں) ہدایت کی کھلی نشانیاں ہیں اور (جو حق و باطل کو) الگ الگ کرنے والا ہے تو جو کوئی تم میں سے اس مہینے میں موجود ہو چاہیئے کہ پورے مہینے کے روزے رکھے اور جو بیمار ہو یا سفر میں ہو تو دوسرے دنوں میں (رکھ کر) ان کا شمار پورا کرلے۔ خدا تمہارے حق میں آسانی چاہتا ہے اور سختی نہیں چاہتا اور (یہ آسانی کا حکم) اس لئے (دیا گیا ہے) کہ تم روزوں کا شمار پورا کرلو اور اس احسان کے بدلے کہ خدا نے تم کو ہدایت بخشی ہے تم اس کو بزرگی سے یاد کر واور اس کا شکر کرو
+**English (Yusuf Ali):** Ramadhan is the (month) in which was sent down the Qur'an, as a guide to mankind, also clear (Signs) for guidance and judgment (Between right and wrong). So every one of you who is present (at his home) during that month should spend it in fasting, but if any one is ill, or on a journey, the prescribed period (Should be made up) by days later. Allah intends every facility for you; He does not want to put to difficulties. (He wants you) to complete the prescribed period, and to glorify Him in that He has guided you; and perchance ye shall be grateful.
 
 [Open on Quran.com](https://quran.com/2/185)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Moses] said, "Do not blame me for what I forgot and do not overwhelm me in my matter with difficulty."
 
-**Urdu (Fatah Muhammad Jalandhari):** (موسیٰ نے) کہا کہ جو بھول مجھ سے ہوئی اس پر مواخذہ نہ کیجیئے اور میرے معاملے میں مجھ پر مشکل نہ ڈالئے
+**English (Yusuf Ali):** Moses said: "Rebuke me not for forgetting, nor grieve me by raising difficulties in my case."
 
 [Open on Quran.com](https://quran.com/18/73)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Racing ahead toward the Caller. The disbelievers will say, "This is a difficult Day."
 
-**Urdu (Fatah Muhammad Jalandhari):** اس بلانے والے کی طرف دوڑتے جاتے ہوں گے۔ کافر کہیں گے یہ دن بڑا سخت ہے
+**English (Yusuf Ali):** Hastening, with eyes transfixed, towards the Caller!- "Hard is this Day!", the Unbelievers will say.
 
 [Open on Quran.com](https://quran.com/54/8)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Let a man of wealth spend from his wealth, and he whose provision is restricted - let him spend from what Allāh has given him. Allāh does not charge a soul except [according to] what He has given it. Allāh will bring about, after hardship, ease [i.e., relief].
 
-**Urdu (Fatah Muhammad Jalandhari):** صاحب وسعت کو اپنی وسعت کے مطابق خرچ کرنا چاہیئے۔ اور جس کے رزق میں تنگی ہو وہ جتنا خدا نے اس کو دیا ہے اس کے موافق خرچ کرے۔ خدا کسی کو تکلیف نہیں دیتا مگر اسی کے مطابق جو اس کو دیا ہے۔ اور خدا عنقریب تنگی کے بعد کشائش بخشے گا
+**English (Yusuf Ali):** Let the man of means spend according to his means: and the man whose resources are restricted, let him spend according to what Allah has given him. Allah puts no burden on any person beyond what He has given him. After a difficulty, Allah will soon grant relief.
 
 [Open on Quran.com](https://quran.com/65/7)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** For indeed, with hardship [will be] ease [i.e., relief].
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں ہاں مشکل کے ساتھ آسانی بھی ہے
+**English (Yusuf Ali):** So, verily, with every difficulty, there is relief:
 
 [Open on Quran.com](https://quran.com/94/5)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, with hardship [will be] ease.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اور) بے شک مشکل کے ساتھ آسانی ہے
+**English (Yusuf Ali):** Verily, with every difficulty there is relief.
 
 [Open on Quran.com](https://quran.com/94/6)
 

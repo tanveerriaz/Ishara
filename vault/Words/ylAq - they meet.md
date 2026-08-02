@@ -26,7 +26,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 43:83 · [[043 Az-Zukhruf]]
 
@@ -40,7 +40,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So leave them to converse vainly and amuse themselves until they meet their Day which they are promised.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان کو بک بک کرنے اور کھیلنے دو۔ یہاں تک کہ جس دن کا ان سے وعدہ کیا جاتا ہے اس کو دیکھ لیں
+**English (Yusuf Ali):** So leave them to babble and play (with vanities) until they meet that Day of theirs, which they have been promised.
 
 [Open on Quran.com](https://quran.com/43/83)
 
@@ -56,7 +56,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So leave them until they meet their Day in which they will be struck insensible -
 
-**Urdu (Fatah Muhammad Jalandhari):** پس ان کو چھوڑ دو یہاں تک کہ وہ روز جس میں وہ بےہوش کردیئے جائیں گے، سامنے آجائے
+**English (Yusuf Ali):** So leave them alone until they encounter that Day of theirs, wherein they shall (perforce) swoon (with terror),-
 
 [Open on Quran.com](https://quran.com/52/45)
 
@@ -72,7 +72,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So leave them to converse vainly and amuse themselves until they meet their Day which they are promised -
 
-**Urdu (Fatah Muhammad Jalandhari):** تو (اے پیغمبر) ان کو باطل میں پڑے رہنے اور کھیل لینے دو یہاں تک کہ جس دن کا ان سے وعدہ کیا جاتا ہے وہ ان کے سامنے آ موجود ہو
+**English (Yusuf Ali):** So leave them to plunge in vain talk and play about, until they encounter that Day of theirs which they have been promised!-
 
 [Open on Quran.com](https://quran.com/70/42)
 

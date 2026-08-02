@@ -16,29 +16,29 @@ The Most High · 19 ayahs
 
 - [[SHf - scriptures]] — `صُحُف` · scriptures
 - [[>$qY - wretched one]] — `أَشْقَى` · wretched one
-- [[Avr - but prefer]] — `آثَرَ` · but prefer
-- [[xyr - better]] — `خَيْر` · better
-- [[>wl - first]] — `أَوَّل` · first
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[SlY - send blessings]] — `صَلَّى` · send blessings
+- [[HyAp - life]] — `حَياة` · life
 - [[nAr - fire]] — `نار` · fire
-- [[HY - we live]] — `حَىَّ` · we live
-- [[Asm - name]] — `اسْم` · name
-- [[nsy - they forgot]] — `نَسِيَ` · they forgot
-- [[swY - proportioned it]] — `سَوَّى` · proportioned it
+- [[x$y - fear]] — `خَشِيَ` · fear
+- [[>ElY - highest]] — `أَعْلَى` · highest
+- [[allah - God]] — `الله` · God
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[hdY - guidance]] — `هَدَى` · guidance
 - [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[dnyA - world]] — `دُنْيا` · world
+- [[>bqY - more lasting]] — `أَبْقَى` · more lasting
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[kbrY - greatest]] — `كُبْرَى` · greatest
 - [[ysr - ease]] — `يُسْر` · ease
 - [[yxfY - hidden]] — `يَخْفَى` · hidden
-- [[>ElY - highest]] — `أَعْلَى` · highest
-- [[qdr - restricts]] — `قَدَر` · restricts
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
 - [[jhr - loud]] — `جَهْر` · loud
-- [[jEl - we made]] — `جَعَلَ` · we made
+- [[HY - we live]] — `حَىَّ` · we live
+- [[Avr - but prefer]] — `آثَرَ` · but prefer
+- [[Elm - know]] — `عَلِمَ` · know
+- [[xyr - better]] — `خَيْر` · better
+- [[Asm - name]] — `اسْم` · name
 
 ## Roots
 

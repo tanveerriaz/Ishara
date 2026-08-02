@@ -15,30 +15,30 @@ The Rooms · 18 ayahs
 ## Words in this surah (graph)
 
 - [[Swt - voice]] — `صَوْت` · voice
-- [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[xyr - better]] — `خَيْر` · better
-- [[tAb - repent]] — `تابَ` · repent
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[EZym - great]] — `عَظِيم` · great
-- [[gyb - unseen]] — `غَيْب` · unseen
-- [[krh - unwillingly]] — `كُرْه` · unwillingly
-- [[qwl - speech]] — `قَوْل` · speech
-- [[>ErAb - bedouins]] — `أَعْراب` · bedouins
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[qAtl - fight]] — `قاتَلَ` · fight
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
 - [[yd - hands]] — `يَد` · hands
-- [[Sbr - patient]] — `صَبْر` · patient
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[>Hbb - love]] — `أَحْبَبْ` · love
+- [[nAdm - regretful]] — `نادِم` · regretful
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[nAdY - he called]] — `نادَى` · he called
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[Aqttl - fight]] — `اقْتَتَلَ` · fight
+- [[Eml - do]] — `عَمِلَ` · do
+- [[jhr - loud]] — `جَهْر` · loud
+- [[>mr - command]] — `أَمَرَ` · command
+- [[nsA' - women]] — `نِساء` · women
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[EZym - great]] — `عَظِيم` · great
+- [[smyE - all-hearer]] — `سَمِيع` · all-hearer
+- [[sxr - subjected]] — `سَخِرَ` · subjected
 - [[jA' - came them]] — `جاءَ` · came them
-- [[>x - brother]] — `أَخ` · brother
-- [[Edl - justice]] — `عَدْل` · justice
-- [[ygD - lower]] — `يَغُضُّ` · lower
-- [[y$Er - perceive]] — `يَشْعُرُ` · perceive
-- [[Elm - know]] — `عَلِمَ` · know
-- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[krh - unwillingly]] — `كُرْه` · unwillingly
+- [[>nvY - female]] — `أُنثَى` · female
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[<HdY - one them]] — `إِحْدَى` · one them
 
 ## Roots
 

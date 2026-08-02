@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 15:27 · [[015 Al-Hijr]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the jinn We created before from scorching fire.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جنوں کو اس سے بھی پہلے بےدھوئیں کی آگ سے پیدا کیا تھا
+**English (Yusuf Ali):** And the Jinn race, We had created before, from the fire of a scorching wind.
 
 [Open on Quran.com](https://quran.com/15/27)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [he was told], "Throw down your staff." But when he saw it writhing as if it were a snake, he turned in flight and did not return. [Allāh said], "O Moses, fear not. Indeed, in My presence the messengers do not fear.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنی لاٹھی ڈال دو۔ جب اُسے دیکھا تو (اس طرح) ہل رہی تھی گویا سانپ ہے تو پیٹھ پھیر کر بھاگے اور پیچھے مڑ کر نہ دیکھا (حکم ہوا کہ) موسیٰ ڈرو مت۔ ہمارے پاس پیغمبر ڈرا نہیں کرتے
+**English (Yusuf Ali):** "Now do thou throw thy rod!" But when he saw it moving (of its own accord) as if it had been a snake, he turned back in retreat, and retraced not his steps: "O Moses!" (it was said), "Fear not: truly, in My presence, those called as messengers have no fear,-
 
 [Open on Quran.com](https://quran.com/27/10)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [he was told], "Throw down your staff." But when he saw it writhing as if it was a snake, he turned in flight and did not return. [Allāh said], "O Moses, approach and fear not. Indeed, you are of the secure.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ اپنی لاٹھی ڈالدو۔ جب دیکھا کہ وہ حرکت کر رہی ہے گویا سانپ ہے، تو پیٹھ پھیر کر چل دیئے اور پیچھے پھر کر بھی نہ دیکھا۔ (ہم نے کہا کہ) موسٰی آگے آؤ اور ڈرومت تم امن پانے والوں میں ہو
+**English (Yusuf Ali):** "Now do thou throw thy rod!" but when he saw it moving (of its own accord) as if it had been a snake, he turned back in retreat, and retraced not his steps: O Moses!" (It was said), "Draw near, and fear not: for thou art of those who are secure.
 
 [Open on Quran.com](https://quran.com/28/31)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And He created the jinn from a smokeless flame of fire.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جنات کو آگ کے شعلے سے پیدا کیا
+**English (Yusuf Ali):** And He created Jinns from fire free of smoke:
 
 [Open on Quran.com](https://quran.com/55/15)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then on that Day none will be asked about his sin among men or jinn.
 
-**Urdu (Fatah Muhammad Jalandhari):** اس روز نہ تو کسی انسان سے اس کے گناہوں کے بارے میں پرسش کی جائے گی اور نہ کسی جن سے
+**English (Yusuf Ali):** On that Day no question will be asked of man or Jinn as to his sin.
 
 [Open on Quran.com](https://quran.com/55/39)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** In them are women limiting [their] glances, untouched before them by man or jinnī -
 
-**Urdu (Fatah Muhammad Jalandhari):** ان میں نیچی نگاہ والی عورتیں ہیں جن کو اہل جنت سے پہلے نہ کسی انسان نے ہاتھ لگایا اور نہ کسی جن نے
+**English (Yusuf Ali):** In them will be (Maidens), chaste, restraining their glances, whom no man or Jinn before them has touched;-
 
 [Open on Quran.com](https://quran.com/55/56)
 
@@ -137,7 +137,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Untouched before them by man or jinnī -
 
-**Urdu (Fatah Muhammad Jalandhari):** ان کو اہل جنت سے پہلے نہ کسی انسان نے ہاتھ لگایا اور نہ کسی جن نے
+**English (Yusuf Ali):** Whom no man or Jinn before them has touched;-
 
 [Open on Quran.com](https://quran.com/55/74)
 

@@ -48,7 +48,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:285 · [[002 Al-Baqarah]]
 
@@ -62,7 +62,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allāh and His angels and His books and His messengers, [saying], "We make no distinction between any of His messengers." And they say, "We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination."
 
-**Urdu (Fatah Muhammad Jalandhari):** رسول (خدا) اس کتاب پر جو ان کے پروردگار کی طرف سے ان پر نازل ہوئی ایمان رکھتے ہیں اور مومن بھی۔ سب خدا پر اور اس کے فرشتوں پر اور اس کی کتابوں پر اور اس کے پیغمبروں پر ایمان رکھتے ہیں (اورکہتے ہیں کہ) ہم اس کے پیغمبروں سے کسی میں کچھ فرق نہیں کرتے اور وہ (خدا سے) عرض کرتے ہیں کہ ہم نے (تیرا حکم) سنا اور قبول کیا۔ اے پروردگار ہم تیری بخشش مانگتے ہیں اور تیری ہی طرف لوٹ کر جانا ہے
+**English (Yusuf Ali):** The Messenger believeth in what hath been revealed to him from his Lord, as do the men of faith. Each one (of them) believeth in Allah, His angels, His books, and His messengers. "We make no distinction (they say) between one and another of His messengers." And they say: "We hear, and we obey: (We seek) Thy forgiveness, our Lord, and to Thee is the end of all journeys."
 
 [Open on Quran.com](https://quran.com/2/285)
 
@@ -78,7 +78,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Obey Allāh and the Messenger. But if you turn away - then indeed, Allāh does not like the disbelievers."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ خدا اور اس کے رسول کا حکم مانو اگر نہ مانیں تو خدا بھی کافروں کو دوست نہیں رکھتا
+**English (Yusuf Ali):** Say: "Obey Allah and His Messenger": But if they turn back, Allah loveth not those who reject Faith.
 
 [Open on Quran.com](https://quran.com/3/32)
 
@@ -94,7 +94,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [I have come] confirming what was before me of the Torah and to make lawful for you some of what was forbidden to you. And I have come to you with a sign from your Lord, so fear Allāh and obey me.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور مجھ سے پہلے جو تورات (نازل ہوئی) تھی اس کی تصدیق بھی کرتا ہوں اور (میں) اس لیے بھی (آیا ہوں) کہ بعض چیزیں جو تم پر حرام تھیں ان کو تمہارے لیے حلال کر دوں اور میں تو تمہارے پروردگار کی طرف سے نشانی لے کر آیا ہوں تو خدا سے ڈرو اور میرا کہا مانو
+**English (Yusuf Ali):** "'(I have come to you), to attest the Law which was before me. And to make lawful to you part of what was (Before) forbidden to you; I have come to you with a Sign from your Lord. So fear Allah, and obey me.
 
 [Open on Quran.com](https://quran.com/3/50)
 
@@ -110,7 +110,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, if you obey a party of those who were given the Scripture, they would turn you back, after your belief, [to being] unbelievers.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! اگر تم اہلِ کتاب کے کسی فریق کا کہا مان لو گے تو وہ تمھیں ایمان لانے کے بعد کافر بنا دیں گے
+**English (Yusuf Ali):** O ye who believe! If ye listen to a faction among the People of the Book, they would (indeed) render you apostates after ye have believed!
 
 [Open on Quran.com](https://quran.com/3/100)
 
@@ -126,7 +126,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And obey Allāh and the Messenger that you may obtain mercy.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا اور اس کے رسول کی اطاعت کرو تاکہ تم پر رحمت کی جائے
+**English (Yusuf Ali):** And obey Allah and the Messenger; that ye may obtain mercy.
 
 [Open on Quran.com](https://quran.com/3/132)
 
@@ -142,7 +142,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O you who have believed, if you obey those who disbelieve, they will turn you back on your heels, and you will [then] become losers.
 
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! اگر تم کافروں کا کہا مان لو گے تو وہ تم کو الٹے پاؤں پھیر کر (مرتد کر) دیں گے پھر تم بڑے خسارے میں پڑ جاؤ گے
+**English (Yusuf Ali):** O ye who believe! If ye obey the Unbelievers, they will drive you back on your heels, and ye will turn back (from Faith) to your own loss.
 
 [Open on Quran.com](https://quran.com/3/149)
 
@@ -158,7 +158,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who said about their brothers while sitting [at home], "If they had obeyed us, they would not have been killed." Say, "Then prevent death from yourselves, if you should be truthful."
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ خود تو (جنگ سے بچ کر) بیٹھ ہی رہے تھے مگر (جنہوں نے راہ خدا میں جانیں قربان کردیں) اپنے (ان) بھائیوں کے بارے میں بھی کہتے ہیں کہ اگر ہمارا کہا مانتے تو قتل نہ ہوتے۔ کہہ دو کہ اگر سچے ہو تو اپنے اوپر سے موت کو ٹال دینا
+**English (Yusuf Ali):** (They are) the ones that say, (of their brethren slain), while they themselves sit (at ease): "If only they had listened to us they would not have been slain." Say: "Avert death from your own selves, if ye speak the truth."
 
 [Open on Quran.com](https://quran.com/3/168)
 
@@ -174,7 +174,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** These are the limits [set by] Allāh, and whoever obeys Allāh and His Messenger will be admitted by Him to gardens [in Paradise] under which rivers flow, abiding eternally therein; and that is the great attainment.
 
-**Urdu (Fatah Muhammad Jalandhari):** (یہ تمام احکام) خدا کی حدیں ہیں۔ اور جو شخص خدا اور اس کے پیغمبر کی فرمانبرداری کرے گا خدا اس کو بہشتوں میں داخل کرے گا جن میں نہریں بہہ رہی ہیں وہ ان میں ہمیشہ رہیں گے۔اور یہ بڑی کامیابی ہے
+**English (Yusuf Ali):** Those are limits set by Allah: those who obey Allah and His Messenger will be admitted to Gardens with rivers flowing beneath, to abide therein (for ever) and that will be the supreme achievement.
 
 [Open on Quran.com](https://quran.com/4/13)
 
@@ -190,7 +190,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Men are in charge of women by [right of] what Allāh has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allāh would have them guard. But those [wives] from whom you fear arrogance - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them [lightly]. But if they obey you [once more], seek no means against them. Indeed, Allāh is ever Exalted and Grand.
 
-**Urdu (Fatah Muhammad Jalandhari):** مرد عورتوں پر مسلط وحاکم ہیں اس لئے کہ خدا نے بعض کو بعض سے افضل بنایا ہے اور اس لئے بھی کہ مرد اپنا مال خرچ کرتے ہیں تو جو نیک بیبیاں ہیں وہ مردوں کے حکم پر چلتی ہیں اور ان کے پیٹھ پیچھے خدا کی حفاظت میں (مال وآبرو کی) خبرداری کرتی ہیں اور جن عورتوں کی نسبت تمہیں معلوم ہو کہ سرکشی (اور بدخوئی) کرنے لگی ہیں تو (پہلے) ان کو (زبانی) سمجھاؤ (اگر نہ سمجھیں تو) پھر ان کے ساتھ سونا ترک کردو اگر اس پر بھی باز نہ آئیں تو زدوکوب کرو اور اگر فرمانبردار ہوجائیں تو پھر ان کو ایذا دینے کا کوئی بہانہ مت ڈھونڈو بےشک خدا سب سے اعلیٰ (اور) جلیل القدر ہے
+**English (Yusuf Ali):** Men are the protectors and maintainers of women, because Allah has given the one more (strength) than the other, and because they support them from their means. Therefore the righteous women are devoutly obedient, and guard in (the husband's) absence what Allah would have them guard. As to those women on whose part ye fear disloyalty and ill-conduct, admonish them (first), (Next), refuse to share their beds, (And last) beat them (lightly); but if they return to obedience, seek not against them Means (of annoyance): For Allah is Most High, great (above you all).
 
 [Open on Quran.com](https://quran.com/4/34)
 
@@ -206,7 +206,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Among the Jews are those who distort words from their [proper] places [i.e., usages] and say, "We hear and disobey" and "Hear but be not heard" and "Rāʿinā," twisting their tongues and defaming the religion. And if they had said [instead], "We hear and obey" and "Wait for us [to understand]," it would have been better for them and more suitable. But Allāh has cursed them for their disbelief, so they believe not, except for a few.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ جو یہودی ہیں ان میں سے کچھ لوگ ایسے بھی ہیں کہ کلمات کو ان کے مقامات سے بدل دیتے ہیں اور کہتے ہیں کہ ہم نے سن لیا اور نہیں مانا اور سنیئے نہ سنوائے جاؤ اور زبان کو مروڑ کر اور دین میں طعن کی راہ سے (تم سے گفتگو) کے وقت راعنا کہتے ہیں اور اگر (یوں) کہتے ہیں کہ ہم نے سن لیا اور مان لیا اور (صرف) اسمع اور (راعنا کی جگہ) انظرنا (کہتے) تو ان کے حق میں بہتر ہوتا اور بات بھی بہت درست ہوتی لیکن خدان نے ان کے کفر کے سبب ان پر لعنت کر رکھی ہے تو یہ کچھ تھوڑے ہی ایمان لاتے ہیں
+**English (Yusuf Ali):** Of the Jews there are those who displace words from their (right) places, and say: "We hear and we disobey"; and "Hear what is not Heard"; and "Ra'ina"; with a twist of their tongues and a slander to Faith. If only they had said: "What hear and we obey"; and "Do hear"; and "Do look at us"; it would have been better for them, and more proper; but Allah hath cursed them for their Unbelief; and but few of them will believe.
 
 [Open on Quran.com](https://quran.com/4/46)
 

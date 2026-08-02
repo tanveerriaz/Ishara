@@ -44,7 +44,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:61 · [[003 Ali Imran]]
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then whoever argues with you about it after [this] knowledge has come to you - say, "Come, let us call our sons and your sons, our women and your women, ourselves and yourselves, then supplicate earnestly [together] and invoke the curse of Allāh upon the liars [among us]."
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر اگر یہ لوگ عیسیٰ کے بارے میں تم سے جھگڑا کریں اور تم کو حقیقت الحال تو معلوم ہو ہی چلی ہے تو ان سے کہنا کہ آؤ ہم اپنے بیٹوں اور عورتوں کو بلائیں تم اپنے بیٹوں اور عورتوں کو بلاؤ اور ہم خود بھی آئیں اور تم خود بھی آؤ پھر دونوں فریق (خدا سے) دعا والتجا کریں اور جھوٹوں پر خدا کی لعنت بھیجیں
+**English (Yusuf Ali):** If any one disputes in this matter with thee, now after (full) knowledge Hath come to thee, say: "Come! let us gather together,- our sons and your sons, our women and your women, ourselves and yourselves: Then let us earnestly pray, and invoke the curse of Allah on those who lie!"
 
 [Open on Quran.com](https://quran.com/3/61)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But what they concealed before has [now] appeared to them. And even if they were returned, they would return to that which they were forbidden; and indeed, they are liars.
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں یہ جو کچھ پہلے چھپایا کرتے تھے (آج) ان پر ظاہر ہوگیا ہے اور اگر یہ (دنیا میں) لوٹائے بھی جائیں تو جن (کاموں) سے ان کو منع کیا گیا تھا وہی پھر کرنے لگیں۔کچھ شک نہیں کہ یہ جھوٹے ہیں
+**English (Yusuf Ali):** Yea, in their own (eyes) will become manifest what before they concealed. But if they were returned, they would certainly relapse to the things they were forbidden, for they are indeed liars.
 
 [Open on Quran.com](https://quran.com/6/28)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Said the eminent ones who disbelieved among his people, "Indeed, we see you in foolishness, and indeed, we think you are of the liars."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان کی قوم کے سردار جو کافر تھے کہنے لگے کہ تم ہمیں احمق نظر آتے ہو اور ہم تمہیں جھوٹا خیال کرتے ہیں
+**English (Yusuf Ali):** The leaders of the Unbelievers among his people said: "Ah! we see thou art an imbecile!" and "We think thou art a liar!"
 
 [Open on Quran.com](https://quran.com/7/66)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Had it been a near [i.e., easy] gain and a moderate trip, they [i.e., the hypocrites] would have followed you, but distant to them was the journey. And they will swear by Allāh, "If we were able, we would have gone forth with you," destroying themselves [through false oaths], and Allāh knows that indeed they are liars.
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر مالِ غنیمت سہل الحصول اور سفر بھی ہلکا سا ہوتا تو تمہارے ساتھ (شوق سے) چل دیتے۔ لیکن مسافت ان کو دور (دراز) نظر آئی (تو عذر کریں گے)۔ اور خدا کی قسمیں کھائیں گے کہ اگر ہم طاقت رکھتے تو آپ کے ساتھ ضرور نکل کھڑے ہوتے یہ (ایسے عذروں سے) اپنے تئیں ہلاک کر رہے ہیں۔ اور خدا جانتا ہے کہ جھوٹے ہیں
+**English (Yusuf Ali):** If there had been immediate gain (in sight), and the journey easy, they would (all) without doubt have followed thee, but the distance was long, (and weighed) on them. They would indeed swear by Allah, "If we only could, we should certainly have come out with you": They would destroy their own souls; for Allah doth know that they are certainly lying.
 
 [Open on Quran.com](https://quran.com/9/42)
 
@@ -122,7 +122,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh has pardoned you, [O Muḥammad, but] why did you give them permission [to remain behind]? [You should not have] until it was evident to you who were truthful and you knew [who were] the liars.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا تمہیں معاف کرے۔ تم نے پیشتر اس کے کہ تم پر وہ لوگ بھی ظاہر ہو جاتے ہیں جو سچے ہیں اور وہ بھی تمہیں معلوم ہو جاتے جو جھوٹے ہیں اُن کو اجازت کیوں دی
+**English (Yusuf Ali):** Allah give thee grace! why didst thou grant them until those who told the truth were seen by thee in a clear light, and thou hadst proved the liars?
 
 [Open on Quran.com](https://quran.com/9/43)
 
@@ -138,7 +138,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [there are] those [hypocrites] who took for themselves a mosque for causing harm and disbelief and division among the believers and as a station for whoever had warred against Allāh and His Messenger before. And they will surely swear, "We intended only the best." And Allāh testifies that indeed they are liars.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (ان میں سے ایسے بھی ہیں) جنہوں نے اس غرض سے مسجد بنوائی کہ ضرر پہنچائیں اور کفر کریں اور مومنوں میں تفرقہ ڈالیں اور جو لوگ خدا اور اس کے رسول سے پہلے جنگ کرچکے ہیں ان کے لیے گھات کی جگہ بنائیں۔ اور قسمیں کھائیں گے کہ ہمارا مقصود تو صرف بھلائی تھی۔ مگر خدا گواہی دیتا ہے کہ یہ جھوٹے ہیں
+**English (Yusuf Ali):** And there are those who put up a mosque by way of mischief and infidelity - to disunite the Believers - and in preparation for one who warred against Allah and His Messenger aforetime. They will indeed swear that their intention is nothing but good; But Allah doth declare that they are certainly liars.
 
 [Open on Quran.com](https://quran.com/9/107)
 
@@ -154,7 +154,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So the eminent among those who disbelieved from his people said, "We do not see you but as a man like ourselves, and we do not see you followed except by those who are the lowest of us [and] at first suggestion. And we do not see in you over us any merit; rather, we think you are liars."
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان کی قوم کے سردار جو کافر تھے کہنے لگے کہ ہم تم کو اپنے ہی جیسا ایک آدمی دیکھتے ہیں اور یہ بھی دیکھتے ہیں کہ تمہارے پیرو وہی لوگ ہوئے ہیں جو ہم میں ادنیٰ درجے کے ہیں۔ اور وہ بھی رائے ظاہر سے (نہ غوروتعمق سے) اور ہم تم میں اپنے اوپر کسی طرح کی فضیلت نہیں دیکھتے بلکہ تمہیں جھوٹا خیال کرتے ہیں
+**English (Yusuf Ali):** But the chiefs of the Unbelievers among his people said: "We see (in) thee nothing but a man like ourselves: Nor do we see that any follow thee but the meanest among us, in judgment immature: Nor do we see in you (all) any merit above us: in fact we think ye are liars!"
 
 [Open on Quran.com](https://quran.com/11/27)
 
@@ -170,7 +170,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And O my people, work according to your position; indeed, I am working. You are going to know to whom will come a punishment that will disgrace him and who is a liar. So watch; indeed, I am with you a watcher, [awaiting the outcome]."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور برادران ملت! تم اپنی جگہ کام کیے جاؤ میں (اپنی جگہ) کام کیے جاتا ہوں۔ تم کو عنقریب معلوم ہوجائے گا کہ رسوا کرنے والا عذاب کس پر آتا ہے اور جھوٹا کون ہے اور تم بھی انتظار کرو، میں بھی تمہارے ساتھ انتظار کرتا ہوں
+**English (Yusuf Ali):** "And O my people! Do whatever ye can: I will do (my part): Soon will ye know who it is on whom descends the penalty of ignominy; and who is a liar! and watch ye! for I too am watching with you!"
 
 [Open on Quran.com](https://quran.com/11/93)
 
@@ -186,7 +186,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Joseph] said, "It was she who sought to seduce me." And a witness from her family testified, "If his shirt is torn from the front, then she has told the truth, and he is of the liars.
 
-**Urdu (Fatah Muhammad Jalandhari):** یوسف نے کہا اسی نے مجھ کو اپنی طرف مائل کرنا چاہا تھا۔ اس کے قبیلے میں سے ایک فیصلہ کرنے والے نے فیصلہ کیا کہ اگر اس کا کرتا آگے سے پھٹا تو یہ سچی اور یوسف جھوٹا
+**English (Yusuf Ali):** He said: "It was she that sought to seduce me - from my (true) self." And one of her household saw (this) and bore witness, (thus):- "If it be that his shirt is rent from the front, then is her tale true, and he is a liar!
 
 [Open on Quran.com](https://quran.com/12/26)
 
@@ -202,7 +202,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** They [the accusers] said, "Then what would be its recompense if you should be liars?"
 
-**Urdu (Fatah Muhammad Jalandhari):** بولے کہ اگر تم جھوٹے نکلے (یعنی چوری ثابت ہوئی) تو اس کی سزا کیا
+**English (Yusuf Ali):** (The Egyptians) said: "What then shall be the penalty of this, if ye are (proved) to have lied?"
 
 [Open on Quran.com](https://quran.com/12/74)
 

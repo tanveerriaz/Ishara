@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 14:49 · [[014 Ibrahim]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And you will see the criminals that Day bound together in irons,
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اس دن تم گنہگاروں کو دیکھو گے کہ زنجیروں میں جکڑے ہوئے ہیں
+**English (Yusuf Ali):** And thou wilt see the sinners that day bound together in fetters;-
 
 [Open on Quran.com](https://quran.com/14/49)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when they are thrown into a narrow place therein bound in chains, they will cry out thereupon for destruction.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب یہ دوزخ کی کسی تنگ جگہ میں (زنجیروں میں) جکڑ کر ڈالے جائیں گے تو وہاں موت کو پکاریں گے
+**English (Yusuf Ali):** And when they are cast, bound together into a constricted place therein, they will plead for destruction there and then!
 
 [Open on Quran.com](https://quran.com/25/13)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And others bound together in irons.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اَوروں کو بھی جو زنجیروں میں جکڑے ہوئے تھے
+**English (Yusuf Ali):** As also others bound together in fetters.
 
 [Open on Quran.com](https://quran.com/38/38)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That you may settle yourselves upon their backs and then remember the favor of your Lord when you have settled upon them and say, "Exalted is He who has subjected this to us, and we could not have [otherwise] subdued it.
 
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ تم ان کی پیٹھ پر چڑھ بیٹھو اور جب اس پر بیٹھ جاؤ پھر اپنے پروردگار کے احسان کو یاد کرو اور کہو کہ وہ (ذات) پاک ہے جس نے اس کو ہمارے زیر فرمان کر دیا اور ہم میں طاقت نہ تھی کہ اس کو بس میں کرلیتے
+**English (Yusuf Ali):** In order that ye may sit firm and square on their backs, and when so seated, ye may celebrate the (kind) favour of your Lord, and say, "Glory to Him Who has subjected these to our (use), for we could never have accomplished this (by ourselves),
 
 [Open on Quran.com](https://quran.com/43/13)
 

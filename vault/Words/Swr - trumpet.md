@@ -37,7 +37,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 3:6 · [[003 Ali Imran]]
 
@@ -51,7 +51,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who forms you in the wombs however He wills. There is no deity except Him, the Exalted in Might, the Wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جو (ماں کے پیٹ میں) جیسی چاہتا ہے تمہاری صورتیں بناتا ہے اس غالب حکمت والے کے سوا کوئی عبادت کے لائق نہیں
+**English (Yusuf Ali):** He it is Who shapes you in the wombs as He pleases. There is no god but He, the Exalted in Might, the Wise.
 
 [Open on Quran.com](https://quran.com/3/6)
 
@@ -67,7 +67,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And it is He who created the heavens and earth in truth. And the day [i.e., whenever] He says, "Be," and it is, His word is the truth. And His is the dominion [on] the Day the Horn is blown. [He is] Knower of the unseen and the witnessed; and He is the Wise, the Aware.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے آسمانوں اور زمین کو تدبیر سے پیدا کیا ہے۔ اور جس دن وہ فرمائے گا کہ ہو جا تو (حشر برپا) ہوجائے گا ۔ اس کا ارشاد برحق ہے۔ اور جس دن صور پھونکا جائے گا (اس دن) اسی کی بادشاہت ہوگی۔ وہی پوشیدہ اور ظاہر (سب) کا جاننے والا ہے اور وہی دانا اور خبردار ہے
+**English (Yusuf Ali):** It is He who created the heavens and the earth in true (proportions): the day He saith, "Be," behold! it is. His word is the truth. His will be the dominion the day the trumpet will be blown. He knoweth the unseen as well as that which is open. For He is the Wise, well acquainted (with all things).
 
 [Open on Quran.com](https://quran.com/6/73)
 
@@ -83,7 +83,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have certainly created you, [O mankind], and given you [human] form. Then We said to the angels, "Prostrate to Adam"; so they prostrated, except for Iblees. He was not of those who prostrated.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہی نے تم کو (ابتدا میں مٹی سے) پیدا کیا پھر تمہاری صورت شکل بنائی پھر فرشتوں کو حکم دیا آدم کے آگے سجدہ کرو تو (سب نے) سجدہ کیا لیکن ابلیس کہ وہ سجدہ کرنے والوں میں (شامل) نہ ہوا
+**English (Yusuf Ali):** It is We Who created you and gave you shape; then We bade the angels prostrate to Adam, and they prostrate; not so Iblis; He refused to be of those who prostrate.
 
 [Open on Quran.com](https://quran.com/7/11)
 
@@ -99,7 +99,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We will leave them that day surging over each other, and [then] the Horn will be blown, and We will assemble them in [one] assembly.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اس روز) ہم ان کو چھوڑ دیں گے کہ (روئے زمین پر پھیل کر) ایک دوسرے میں گھس جائیں گے اور صور پھونکا جائے گا تو ہم سب کو جمع کرلیں گے
+**English (Yusuf Ali):** On that day We shall leave them to surge like waves on one another: the trumpet will be blown, and We shall collect them all together.
 
 [Open on Quran.com](https://quran.com/18/99)
 
@@ -115,7 +115,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Day the Horn will be blown. And We will gather the criminals, that Day, blue-eyed.
 
-**Urdu (Fatah Muhammad Jalandhari):** جس روز صور پھونکا جائے گا اور ہم گنہگاروں کو اکھٹا کریں گے اور ان کی آنکھیں نیلی نیلی ہوں گی
+**English (Yusuf Ali):** The Day when the Trumpet will be sounded: that Day, We shall gather the sinful, blear-eyed (with terror).
 
 [Open on Quran.com](https://quran.com/20/102)
 
@@ -131,7 +131,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So when the Horn is blown, no relationship will there be among them that Day, nor will they ask about one another.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر جب صور پھونکا جائے گا تو نہ تو ان میں قرابتیں ہوں گی اور نہ ایک دوسرے کو پوچھیں گے
+**English (Yusuf Ali):** Then when the Trumpet is blown, there will be no more relationships between them that Day, nor will one ask after another!
 
 [Open on Quran.com](https://quran.com/23/101)
 
@@ -147,7 +147,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [warn of] the Day the Horn will be blown, and whoever is in the heavens and whoever is on the earth will be terrified except whom Allāh wills. And all will come to Him humbled.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس روز صور پھونکا جائے گا تو جو لوگ آسمانوں اور زمین میں ہیں سب گھبرا اُٹھیں گے مگر وہ جسے خدا چاہے اور سب اس کے پاس عاجز ہو کر چلے آئیں گے
+**English (Yusuf Ali):** And the Day that the Trumpet will be sounded - then will be smitten with terror those who are in the heavens, and those who are on earth, except such as Allah will please (to exempt): and all shall come to His (Presence) as beings conscious of their lowliness.
 
 [Open on Quran.com](https://quran.com/27/87)
 
@@ -163,7 +163,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the Horn will be blown; and at once from the graves to their Lord they will hasten.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (جس وقت) صور پھونکا جائے گا یہ قبروں سے (نکل کر) اپنے پروردگار کی طرف دوڑ پڑیں گے
+**English (Yusuf Ali):** The trumpet shall be sounded, when behold! from the sepulchres (men) will rush forth to their Lord!
 
 [Open on Quran.com](https://quran.com/36/51)
 
@@ -179,7 +179,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the Horn will be blown, and whoever is in the heavens and whoever is on the earth will fall dead except whom Allāh wills. Then it will be blown again, and at once they will be standing, looking on.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب صور پھونکا جائے گا تو جو لوگ آسمان میں ہیں اور جو زمین میں ہیں سب بےہوش ہو کر گر پڑیں گے مگر وہ جس کو خدا چاہے۔ پھر دوسری دفعہ پھونکا جائے گا تو فوراً سب کھڑے ہو کر دیکھنے لگیں گے
+**English (Yusuf Ali):** The Trumpet will (just) be sounded, when all that are in the heavens and on earth will swoon, except such as it will please Allah (to exempt). Then will a second one be sounded, when, behold, they will be standing and looking on!
 
 [Open on Quran.com](https://quran.com/39/68)
 
@@ -195,7 +195,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is Allāh who made for you the earth a place of settlement and the sky a structure [i.e., ceiling] and formed you and perfected your forms and provided you with good things. That is Allāh, your Lord; then blessed is Allāh, Lord of the worlds.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے زمین کو تمہارے لئے ٹھیرنے کی جگہ اور آسمان کو چھت بنایا اور تمہاری صورتیں بنائیں اور صورتیں بھی خوب بنائیں اور تمہیں پاکیزہ چیزیں کھانے کو دیں۔ یہی خدا تمہارا پروردگار ہے۔ پس خدائے پروردگار عالم بہت ہی بابرکت ہے
+**English (Yusuf Ali):** It is Allah Who has made for you the earth as a resting place, and the sky as a canopy, and has given you shape- and made your shapes beautiful,- and has provided for you Sustenance, of things pure and good;- such is Allah your Lord. So Glory to Allah, the Lord of the Worlds!
 
 [Open on Quran.com](https://quran.com/40/64)
 

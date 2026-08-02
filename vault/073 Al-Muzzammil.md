@@ -15,30 +15,30 @@ The Enshrouded One · 20 ayahs
 ## Words in this surah (graph)
 
 - [[nSf - half]] — `نِصْف` · half
-- [[xyr - better]] — `خَيْر` · better
-- [[tAb - repent]] — `تابَ` · repent
-- [[qAl - say]] — `قالَ` · say
-- [[sbyl - way]] — `سَبِيل` · way
-- [[wkyl - guardian]] — `وَكِيل` · guardian
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[qwl - speech]] — `قَوْل` · speech
-- [[ynqS - decrease]] — `يُنقَصُ` · decrease
+- [[Hsn - good]] — `حُسْن` · good
+- [[qAtl - fight]] — `قاتَلَ` · fight
+- [[lyl - night]] — `لَيْل` · night
 - [[qdr - restricts]] — `قَدَر` · restricts
-- [[zkAp - zakah]] — `زَكاة` · zakah
-- [[Ahjr - forsake them]] — `اهْجُرْ` · forsake them
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[zAd - increase]] — `زادَ` · increase
-- [[Sbr - patient]] — `صَبْر` · patient
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[nhAr - day]] — `نَهار` · day
-- [[Elm - know]] — `عَلِمَ` · know
-- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[qr> - read]] — `قَرَأَ` · read
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
+- [[>dnY - nearer]] — `أَدْنَى` · nearer
+- [[>EZm - greater]] — `أَعْظَم` · greater
+- [[>y - o you]] — `أَيّ` · o you
 - [[m$rq - east]] — `مَشْرِق` · east
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[allah - God]] — `الله` · God
-- [[AtY - give]] — `آتَى` · give
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[zAd - increase]] — `زادَ` · increase
+- [[rb - lord]] — `رَبّ` · lord
+- [[vqyl - heavy]] — `ثَقِيل` · heavy
+- [[nEmp - favor]] — `نِعْمَة` · favor
+- [[SlAp - prayer]] — `صَلاة` · prayer
+- [[>lqY - throw]] — `أَلْقَى` · throw
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[wEd - promise]] — `وَعَدَ` · promise
+- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
+- [[TEAm - food]] — `طَعام` · food
 
 ## Roots
 

@@ -35,7 +35,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 6:102 · [[006 Al-Anam]]
 
@@ -49,7 +49,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is Allāh, your Lord; there is no deity except Him, the Creator of all things, so worship Him. And He is Disposer of all things.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی (اوصاف رکھنے والا) خدا تمہارا پروردگار ہے۔ اس کے سوا کوئی معبود نہیں۔ (وہی) ہر چیز کا پیداکرنے والا (ہے) تو اسی کی عبادت کرو۔ اور وہ ہر چیز کا نگراں ہے
+**English (Yusuf Ali):** That is Allah, your Lord! there is no god but He, the Creator of all things: then worship ye Him: and He hath power to dispose of all affairs.
 
 [Open on Quran.com](https://quran.com/6/102)
 
@@ -65,7 +65,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Who is Lord of the heavens and earth?" Say, "Allāh." Say, "Have you then taken besides Him allies not possessing [even] for themselves any benefit or any harm?" Say, "Is the blind equivalent to the seeing? Or is darkness equivalent to light? Or have they attributed to Allāh partners who created like His creation so that the creation [of each] seemed similar to them?" Say, "Allāh is the Creator of all things, and He is the One, the Prevailing."
 
-**Urdu (Fatah Muhammad Jalandhari):** ان سے پوچھو کہ آسمانوں اور زمین کا پروردگار کون ہے؟ (تم ہی ان کی طرف سے) کہہ دو کہ خدا۔ پھر (ان سے) کہو کہ تم نے خدا کو چھوڑ کر ایسے لوگوں کو کیوں کارساز بنایا ہے جو خود اپنے نفع ونقصان کا بھی اختیار نہیں رکھتے (یہ بھی) پوچھو کیا اندھا اور آنکھوں والا برابر ہیں؟ یا اندھیرا اور اُجالا برابر ہوسکتا ہے؟ بھلا ان لوگوں نے جن کو خدا کا شریک مقرر کیا ہے۔ کیا انہوں نے خدا کی سی مخلوقات پیدا کی ہے جس کے سبب ان کو مخلوقات مشتبہ ہوگئی ہے۔ کہہ دو کہ خدا ہی ہر چیز کا پیدا کرنے والا ہے اور وہ یکتا (اور) زبردست ہے
+**English (Yusuf Ali):** Say: "Who is the Lord and Sustainer of the heavens and the earth?" Say: "(It is) Allah." Say: "Do ye then take (for worship) protectors other than Him, such as have no power either for good or for harm to themselves?" Say: "Are the blind equal with those who see? Or the depths of darkness equal with light?" Or do they assign to Allah partners who have created (anything) as He has created, so that the creation seemed to them similar? Say: "Allah is the Creator of all things: He is the One, the Supreme and Irresistible."
 
 [Open on Quran.com](https://quran.com/13/16)
 
@@ -81,7 +81,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And [mention, O Muḥammad], when your Lord said to the angels, "I will create a human being out of clay from an altered black mud.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تمہارے پروردگار نے فرشتوں سے فرمایا کہ میں کھنکھناتے سڑے ہوئے گارے سے ایک بشر بنانے والا ہوں
+**English (Yusuf Ali):** Behold! thy Lord said to the angels: "I am about to create man, from sounding clay from mud moulded into shape;
 
 [Open on Quran.com](https://quran.com/15/28)
 
@@ -97,7 +97,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allāh, the best of creators.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر نطفے کا لوتھڑا بنایا۔ پھر لوتھڑے کی بوٹی بنائی پھر بوٹی کی ہڈیاں بنائیں پھر ہڈیوں پر گوشت (پوست) چڑھایا۔ پھر اس کو نئی صورت میں بنا دیا۔ تو خدا جو سب سے بہتر بنانے والا بڑا بابرکت ہے
+**English (Yusuf Ali):** Then We made the sperm into a clot of congealed blood; then of that clot We made a (foetus) lump; then we made out of that lump bones and clothed the bones with flesh; then we developed out of it another creature. So blessed be Allah, the best to create!
 
 [Open on Quran.com](https://quran.com/23/14)
 
@@ -113,7 +113,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** O mankind, remember the favor of Allāh upon you. Is there any creator other than Allāh who provides for you from the heaven and earth? There is no deity except Him, so how are you deluded?
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو خدا کے جو تم پر احسانات ہیں ان کو یاد کرو۔ کیا خدا کے سوا کوئی اور خالق (اور رازق ہے) جو تم کو آسمان اور زمین سے رزق دے۔ اس کے سوا کوئی معبود نہیں پس تم کہاں بہکے پھرتے ہو؟
+**English (Yusuf Ali):** O men! Call to mind the grace of Allah unto you! is there a creator, other than Allah, to give you sustenance from heaven or earth? There is no god but He: how then are ye deluded away from the Truth?
 
 [Open on Quran.com](https://quran.com/35/3)
 
@@ -129,7 +129,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you call upon Baʿl and leave the best of creators -
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم بعل کو پکارتے (اور اسے پوجتے) ہو اور سب سے بہتر پیدا کرنے والے کو چھوڑ دیتے ہو
+**English (Yusuf Ali):** "Will ye call upon Baal and forsake the Best of Creators,-
 
 [Open on Quran.com](https://quran.com/37/125)
 
@@ -145,7 +145,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [So mention] when your Lord said to the angels, "Indeed, I am going to create a human being from clay.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب تمہارے پروردگار نے فرشتوں سے کہا کہ میں مٹی سے انسان بنانے والا ہوں
+**English (Yusuf Ali):** Behold, thy Lord said to the angels: "I am about to create man from clay:
 
 [Open on Quran.com](https://quran.com/38/71)
 
@@ -161,7 +161,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Allāh is the Creator of all things, and He is, over all things, Disposer of affairs.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا ہی ہر چیز کا پیدا کرنے والا ہے۔ اور وہی ہر چیز کا نگراں ہے
+**English (Yusuf Ali):** Allah is the Creator of all things, and He is the Guardian and Disposer of all affairs.
 
 [Open on Quran.com](https://quran.com/39/62)
 
@@ -177,7 +177,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** That is Allāh, your Lord, Creator of all things; there is no deity except Him, so how are you deluded?
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی خدا تمہارا پروردگار ہے جو ہر چیز کا پیدا کرنے والا ہے۔ اس کے سوا کوئی معبود نہیں پھر تم کہاں بھٹک رہے ہو؟
+**English (Yusuf Ali):** Such is Allah, your Lord, the Creator of all things, there is no god but He: Then how ye are deluded away from the Truth!
 
 [Open on Quran.com](https://quran.com/40/62)
 
@@ -193,7 +193,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Or were they created by nothing, or were they the creators [of themselves]?
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ کسی کے پیدا کئے بغیر ہی پیدا ہوگئے ہیں۔ یا یہ خود (اپنے تئیں) پیدا کرنے والے ہیں
+**English (Yusuf Ali):** Were they created of nothing, or were they themselves the creators?
 
 [Open on Quran.com](https://quran.com/52/35)
 

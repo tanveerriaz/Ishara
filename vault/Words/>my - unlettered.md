@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:78 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And among them are unlettered ones who do not know the Scripture except [indulgement in] wishful thinking, but they are only assuming.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور بعض ان میں ان پڑھ ہیں کہ اپنے باطل خیالات کے سوا (خدا کی) کتاب سے واقف ہی نہیں اور وہ صرف ظن سے کام لیتے ہیں
+**English (Yusuf Ali):** And there are among them illiterates, who know not the Book, but (see therein their own) desires, and they do nothing but conjecture.
 
 [Open on Quran.com](https://quran.com/2/78)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** So if they argue with you, say, "I have submitted myself to Allāh [in Islām], and [so have] those who follow me." And say to those who were given the Scripture and [to] the unlearned, "Have you submitted yourselves?" And if they submit [in Islām], they are rightly guided; but if they turn away - then upon you is only the [duty of] notification. And Allāh is Seeing of [His] servants.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر اگر یہ لوگ تم سے جھگڑنے لگیں تو کہنا کہ میں اور میرے پیرو تو خدا کے فرمانبردار ہو چکے اور اہل کتاب اور ان پڑھ لوگوں سے کہو کہ کیا تم بھی (خدا کے فرمانبردار بنتے ہو) اور اسلام لاتے ہو؟ اگر یہ لوگ اسلام لے آئیں تو بے شک ہدایت پالیں اور اگر (تمہارا کہا) نہ مانیں تو تمہارا کام صرف خدا کا پیغام پہنچا دینا ہے اور خدا (اپنے) بندوں کو دیکھ رہا ہے
+**English (Yusuf Ali):** So if they dispute with thee, say: "I have submitted My whole self to Allah and so have those who follow me." And say to the People of the Book and to those who are unlearned: "Do ye (also) submit yourselves?" If they do, they are in right guidance, but if they turn back, Thy duty is to convey the Message; and in Allah's sight are (all) His servants.
 
 [Open on Quran.com](https://quran.com/3/20)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And among the People of the Scripture is he who, if you entrust him with a great amount [of wealth], he will return it to you. And among them is he who, if you entrust him with a [single] coin, he will not return it to you unless you are constantly standing over him [demanding it]. That is because they say, "There is no blame upon us concerning the unlearned." And they speak untruth about Allāh while they know [it].
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اہلِ کتاب میں سے کوئی تو ایسا ہے کہ اگر تم اس کے پاس (روپوں کا) ڈھیر امانت رکھ دو تو تم کو (فوراً) واپس دے دے اور کوئی اس طرح کا ہے کہ اگر اس کے پاس ایک دینار بھی امانت رکھو تو جب تک اس کے سر پر ہر وقت کھڑے نہ رہو تمہیں دے ہی نہیں یہ اس لیے کہ وہ کہتے ہیں کہ امیوں کے بارے میں ہم سے مواخذہ نہیں ہوگا یہ خدا پر محض جھوٹ بولتے ہیں اور (اس بات کو) جانتے بھی ہیں
+**English (Yusuf Ali):** Among the People of the Book are some who, if entrusted with a hoard of gold, will (readily) pay it back; others, who, if entrusted with a single silver coin, will not repay it unless thou constantly stoodest demanding, because, they say, "there is no call on us (to keep faith) with these ignorant (Pagans)." but they tell a lie against Allah, and (well) they know it.
 
 [Open on Quran.com](https://quran.com/3/75)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who follow the Messenger, the unlettered prophet, whom they find written [i.e., described] in what they have of the Torah and the Gospel, who enjoins upon them what is right and prohibits them from what is wrong and makes lawful for them what is good and forbids them from what is evil and relieves them of their burden and the shackles which were upon them. So they who have believed in him, honored him, supported him and followed the light which was sent down with him - it is those who will be the successful.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ جو (محمدﷺ) رسول (الله) کی جو نبی اُمی ہیں پیروی کرتے ہیں جن (کے اوصاف) کو وہ اپنے ہاں تورات اور انجیل میں لکھا ہوا پاتے ہیں۔ وہ انہیں نیک کام کا حکم دیتے ہیں اور برے کام سے روکتے ہیں۔ اور پاک چیزوں کو ان کے لیے حلال کرتے ہیں اور ناپاک چیزوں کو ان پر حرام ٹہراتے ہیں اور ان پر سے بوجھ اور طوق جو ان (کے سر) پر (اور گلے میں) تھے اتارتے ہیں۔ تو جو لوگ ان پر ایمان لائے اور ان کی رفاقت کی اور انہیں مدد دی۔ اور جو نور ان کے ساتھ نازل ہوا ہے اس کی پیروی کی۔ وہی مراد پانے والے ہیں
+**English (Yusuf Ali):** "Those who follow the messenger, the unlettered Prophet, whom they find mentioned in their own (scriptures),- in the law and the Gospel;- for he commands them what is just and forbids them what is evil; he allows them as lawful what is good (and pure) and prohibits them from what is bad (and impure); He releases them from their heavy burdens and from the yokes that are upon them. So it is those who believe in him, honour him, help him, and follow the light which is sent down with him,- it is they who will prosper."
 
 [Open on Quran.com](https://quran.com/7/157)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, [O Muḥammad], "O mankind, indeed I am the Messenger of Allāh to you all, [from Him] to whom belongs the dominion of the heavens and the earth. There is no deity except Him; He gives life and causes death." So believe in Allāh and His Messenger, the unlettered prophet, who believes in Allāh and His words, and follow him that you may be guided.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) کہہ دو کہ لوگو میں تم سب کی طرف خدا کا بھیجا ہوا (یعنی اس کا رسول) ہوں۔ (وہ) جو آسمانوں اور زمین کا بادشاہ ہے۔ اس کے سوا کوئی معبود نہیں وہی زندگانی بخشتا ہے اور وہی موت دیتا ہے۔ تو خدا پر اور اس کے رسول پیغمبر اُمی پر جو خدا پر اور اس کے تمام کلام پر ایمان رکھتے ہیں ایمان لاؤ اور ان کی پیروی کرو تاکہ ہدایت پاؤ
+**English (Yusuf Ali):** Say: "O men! I am sent unto you all, as the Messenger of Allah, to Whom belongeth the dominion of the heavens and the earth: there is no god but He: it is He That giveth both life and death. So believe in Allah and His Messenger, the Unlettered Prophet, who believeth in Allah and His words: follow him that (so) ye may be guided."
 
 [Open on Quran.com](https://quran.com/7/158)
 
@@ -121,7 +121,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who has sent among the unlettered [Arabs] a Messenger from themselves reciting to them His verses and purifying them and teaching them the Book [i.e., the Qur’ān] and wisdom [i.e., the sunnah] - although they were before in clear error -
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے ان پڑھوں میں ان ہی میں سے (محمدﷺ) کو پیغمبر (بنا کر) بھیجا جو ان کے سامنے اس کی آیتیں پڑھتے اور ان کو پاک کرتے اور (خدا کی) کتاب اور دانائی سکھاتے ہیں۔ اور اس ے پہلے تو یہ لوگ صریح گمراہی میں تھے
+**English (Yusuf Ali):** It is He Who has sent amongst the Unlettered a messenger from among themselves, to rehearse to them His Signs, to sanctify them, and to instruct them in Scripture and Wisdom,- although they had been, before, in manifest error;-
 
 [Open on Quran.com](https://quran.com/62/2)
 

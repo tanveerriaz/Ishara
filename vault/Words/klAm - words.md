@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:75 · [[002 Al-Baqarah]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Do you covet [the hope, O believers], that they would believe for you while a party of them used to hear the words of Allāh and then distort it [i.e., the Torah] after they had understood it while they were knowing?
 
-**Urdu (Fatah Muhammad Jalandhari):** (مومنو) کیا تم امید رکھتے ہو کہ یہ لوگ تمہارے (دین کے) قائل ہو جائیں گے، (حالانکہ) ان میں سے کچھ لوگ کلامِ خدا (یعنی تورات) کو سنتے، پھر اس کے سمجھ لینے کے بعد اس کو جان بوجھ کر بدل دیتے رہے ہیں
+**English (Yusuf Ali):** Can ye (o ye men of Faith) entertain the hope that they will believe in you?- Seeing that a party of them heard the Word of Allah, and perverted it knowingly after they understood it.
 
 [Open on Quran.com](https://quran.com/2/75)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Allāh] said, "O Moses, I have chosen you over the people with My messages and My words [to you]. So take what I have given you and be among the grateful."
 
-**Urdu (Fatah Muhammad Jalandhari):** (خدا نے) فرمایا موسیٰ میں نے تم کو اپنے پیغام اور اپنے کلام سے لوگوں سے ممتاز کیا ہے۔ تو جو میں نے تم کو عطا کیا ہے اسے پکڑ رکھو اور (میرا) شکر بجالاؤ
+**English (Yusuf Ali):** (Allah) said: "O Moses! I have chosen thee above (other) men, by the mission I (have given thee) and the words I (have spoken to thee): take then the (revelation) which I give thee, and be of those who give thanks."
 
 [Open on Quran.com](https://quran.com/7/144)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And if any one of the polytheists seeks your protection, then grant him protection so that he may hear the words of Allāh [i.e., the Qur’ān]. Then deliver him to his place of safety. That is because they are a people who do not know.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر کوئی مشرک تم سے پناہ کا خواستگار ہو تو اس کو پناہ دو یہاں تک کہ کلام خدا سننے لگے پھر اس کو امن کی جگہ واپس پہنچادو۔ اس لیے کہ یہ بےخبر لوگ ہیں
+**English (Yusuf Ali):** If one amongst the Pagans ask thee for asylum, grant it to him, so that he may hear the word of Allah; and then escort him to where he can be secure. That is because they are men without knowledge.
 
 [Open on Quran.com](https://quran.com/9/6)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who remained behind will say when you set out toward the war booty to take it, "Let us follow you." They wish to change the words of Allāh. Say, "Never will you follow us. Thus did Allāh say before." So they will say, "Rather, you envy us." But [in fact] they were not understanding except a little.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب تم لوگ غنیمتیں لینے چلو گے تو جو لوگ پیچھے رہ گئے تھے وہ کہیں گے ہمیں بھی اجازت دیجیئے کہ آپ کے ساتھ چلیں۔ یہ چاہتے ہیں کہ خدا کے قول کو بدل دیں۔ کہہ دو کہ تم ہرگز ہمارے ساتھ نہیں چل سکتے۔ اسی طرح خدا نے پہلے سے فرما دیا ہے۔ پھر کہیں گے (نہیں) تم تو ہم سے حسد کرتے ہو۔ بات یہ ہے کہ یہ لوگ سمجھتے ہی نہیں مگر بہت کم
+**English (Yusuf Ali):** Those who lagged behind (will say), when ye (are free to) march and take booty (in war): "Permit us to follow you." They wish to change Allah's decree: Say: "Not thus will ye follow us: Allah has already declared (this) beforehand": then they will say, "But ye are jealous of us." Nay, but little do they understand (such things).
 
 [Open on Quran.com](https://quran.com/48/15)
 

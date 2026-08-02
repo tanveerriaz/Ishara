@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:132 · [[002 Al-Baqarah]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And Abraham instructed his sons [to do the same] and [so did] Jacob, [saying], "O my sons, indeed Allāh has chosen for you this religion, so do not die except while you are Muslims."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ابرہیم نے اپنے بیٹوں کو اسی بات کی وصیت کی اور یعقوب نے بھی (اپنے فرزندوں سے یہی کہا) کہ بیٹا خدا نے تمہارے لیے یہی دین پسند فرمایا ہے تو مرنا ہے تو مسلمان ہی مرنا
+**English (Yusuf Ali):** And this was the legacy that Abraham left to his sons, and so did Jacob; "Oh my sons! Allah hath chosen the Faith for you; then die not except in the Faith of Islam."
 
 [Open on Quran.com](https://quran.com/2/132)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And to Allāh belongs whatever is in the heavens and whatever is on the earth. And We have instructed those who were given the Scripture before you and yourselves to fear Allāh. But if you disbelieve - then to Allāh belongs whatever is in the heavens and whatever is on the earth. And ever is Allāh Free of need and Praiseworthy.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جو کچھ آسمانوں اور جو کچھ زمین میں ہے سب خدا ہی کا ہے۔ اور جن لوگوں کو تم سے پہلے کتاب دی گئی تھی ان کو بھی اور (اے محمدﷺ) تم کو بھی ہم نے حکم تاکیدی کیا ہے کہ خدا سے ڈرتے رہو اور اگر کفر کرو گے تو (سمجھ رکھو کہ) جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب خدا ہی کا ہے۔ اور خدا بے پروا اور سزاوار حمدوثنا ہے
+**English (Yusuf Ali):** To Allah belong all things in the heavens and on earth. Verily we have directed the People of the Book before you, and you (o Muslims) to fear Allah. But if ye deny Him, lo! unto Allah belong all things in the heavens and on earth, and Allah is free of all wants, worthy of all praise.
 
 [Open on Quran.com](https://quran.com/4/131)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And of the camels, two and of the cattle, two. Say, "Is it the two males He has forbidden or the two females or that which the wombs of the two females contain? Or were you witnesses when Allāh charged you with this? Then who is more unjust than one who invents a lie about Allāh to mislead the people by [something] other than knowledge? Indeed, Allāh does not guide the wrongdoing people."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور دو (دو) اونٹوں میں سے اور دو (دو) گایوں میں سے (ان کے بارے میں بھی ان سے) پوچھو کہ (خدا نے) دونوں (کے) نروں کو حرام کیا ہے یا دونوں (کی) مادنیوں کو یا جو بچہ مادنیوں کے پیٹ میں لپٹ رہا ہو اس کو بھلا جس وقت خدا نے تم کو اس کا حکم دیا تھا تم اس وقت موجود تھے؟ تو اس شخص سے زیادہ کون ظالم ہے جو خدا پر جھوٹ افتراء کرے تاکہ اِز راہ بے دانشی لوگوں کو گمراہ کرے کچھ شک نہیں کہ خدا ظالم لوگوں کو ہدایت نہیں دیتا
+**English (Yusuf Ali):** Of camels a pair, and oxen a pair; say, hath He forbidden the two males, or the two females, or (the young) which the wombs of the two females enclose? - Were ye present when Allah ordered you such a thing? But who doth more wrong than one who invents a lie against Allah, to lead astray men without knowledge? For Allah guideth not people who do wrong.
 
 [Open on Quran.com](https://quran.com/6/144)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Say, "Come, I will recite what your Lord has prohibited to you. [He commands] that you not associate anything with Him, and to parents, good treatment, and do not kill your children out of poverty; We will provide for you and them. And do not approach immoralities - what is apparent of them and what is concealed. And do not kill the soul which Allāh has forbidden [to be killed] except by [legal] right. This has He instructed you that you may use reason."
 
-**Urdu (Fatah Muhammad Jalandhari):** کہہ کہ (لوگو) آؤ میں تمہیں وہ چیزیں پڑھ کر سناؤں جو تمہارے پروردگار نے تم پر حرام کر دی ہیں (ان کی نسبت اس نے اس طرح ارشاد فرمایا ہے) کہ کسی چیز کو خدا کا شریک نہ بنانا اور ماں باپ (سے بدسلوکی نہ کرنا بلکہ) سلوک کرتے رہنا اور ناداری (کے اندیشے) سے اپنی اولاد کو قتل نہ کرنا کیونکہ تم کو اور ان کو ہم ہی رزق دیتے ہیں اور بےحیائی کے کام ظاہر ہوں یا پوشیدہ ان کے پاس نہ پھٹکنا اور کسی جان (والے) کو جس کے قتل کو خدا نے حرام کر دیا ہے قتل نہ کرنا مگر جائز طور پر (یعنی جس کا شریعت حکم دے) ان باتوں کا وہ تمہیں ارشاد فرماتا ہے تاکہ تم سمجھو
+**English (Yusuf Ali):** Say: "Come, I will rehearse what Allah hath (really) prohibited you from": Join not anything as equal with Him; be good to your parents; kill not your children on a plea of want;- We provide sustenance for you and for them;- come not nigh to shameful deeds. Whether open or secret; take not life, which Allah hath made sacred, except by way of justice and law: thus doth He command you, that ye may learn wisdom.
 
 [Open on Quran.com](https://quran.com/6/151)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not approach the orphan's property except in a way that is best [i.e., intending improvement] until he reaches maturity. And give full measure and weight in justice. We do not charge any soul except [with that within] its capacity. And when you speak [i.e., testify], be just, even if [it concerns] a near relative. And the covenant of Allāh fulfill. This has He instructed you that you may remember.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ جانا مگر ایسے طریق سے کہ بہت ہی پسندیدہ ہو یہاں تک کہ وہ جوانی کو پہنچ جائے اور ناپ تول انصاف کے ساتھ پوری پوری کیا کرو ہم کسی کو تکلیف نہیں دیتے مگر اس کی طاقت کے مطابق اور جب (کسی کی نسبت) کوئی بات کہو تو انصاف سے کہو گو وہ (تمہارا) رشتہ دار ہی ہو اور خدا کے عہد کو پورا کرو ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم نصحیت کرو
+**English (Yusuf Ali):** And come not nigh to the orphan's property, except to improve it, until he attain the age of full strength; give measure and weight with (full) justice;- no burden do We place on any soul, but that which it can bear;- whenever ye speak, speak justly, even if a near relative is concerned; and fulfil the covenant of Allah: thus doth He command you, that ye may remember.
 
 [Open on Quran.com](https://quran.com/6/152)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And, [moreover], this is My path, which is straight, so follow it; and do not follow [other] ways, for you will be separated from His way. This has He instructed you that you may become righteous.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہ میرا سیدھا رستہ یہی ہے تو تم اسی پر چلنا اور اور رستوں پر نہ چلنا کہ (ان پر چل کر) خدا کے رستے سے الگ ہو جاؤ گے ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم پرہیزگار بنو
+**English (Yusuf Ali):** Verily, this is My way, leading straight: follow it: follow not (other) paths: they will scatter you about from His (great) path: thus doth He command you. that ye may be righteous.
 
 [Open on Quran.com](https://quran.com/6/153)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have enjoined upon man goodness to parents. But if they endeavor to make you associate with Me that of which you have no knowledge, do not obey them. To Me is your return, and I will inform you about what you used to do.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے انسان کو اپنے ماں باپ کے ساتھ نیک سلوک کرنے کا حکم دیا ہے۔ ( اے مخاطب) اگر تیرے ماں باپ تیرے درپے ہوں کہ تو میرے ساتھ کسی کو شریک بنائے جس کی حقیقت کی تجھے واقفیت نہیں۔ تو ان کا کہنا نہ مانیو۔ تم( سب) کو میری طرف لوٹ کر آنا ہے۔ پھر جو کچھ تم کرتے تھے میں تم کو جتا دوں گا
+**English (Yusuf Ali):** We have enjoined on man kindness to parents: but if they (either of them) strive (to force) thee to join with Me (in worship) anything of which thou hast no knowledge, obey them not. Ye have (all) to return to me, and I will tell you (the truth) of all that ye did.
 
 [Open on Quran.com](https://quran.com/29/8)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے انسان کو جسے اُس کی ماں تکلیف پر تکلیف سہہ کر پیٹ میں اُٹھائے رکھتی ہے (پھر اس کو دودھ پلاتی ہے) اور( آخرکار) دو برس میں اس کا دودھ چھڑانا ہوتا ہے (اپنے نیز) اس کے ماں باپ کے بارے میں تاکید کی ہے کہ میرا بھی شکر کرتا رہ اور اپنے ماں باپ کا بھی (کہ تم کو) میری ہی طرف لوٹ کر آنا ہے
+**English (Yusuf Ali):** And We have enjoined on man (to be good) to his parents: in travail upon travail did his mother bear him, and in years twain was his weaning: (hear the command), "Show gratitude to Me and to thy parents: to Me is (thy final) Goal.
 
 [Open on Quran.com](https://quran.com/31/14)
 
@@ -172,7 +172,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** He has ordained for you of religion what He enjoined upon Noah and that which We have revealed to you, [O Muḥammad], and what We enjoined upon Abraham and Moses and Jesus - to establish the religion and not be divided therein. Difficult for those who associate others with Allāh is that to which you invite them. Allāh chooses for Himself whom He wills and guides to Himself whoever turns back [to Him].
 
-**Urdu (Fatah Muhammad Jalandhari):** اسی نے تمہارے لئے دین کا وہی رستہ مقرر کیا جس (کے اختیار کرنے کا) نوح کو حکم دیا تھا اور جس کی (اے محمدﷺ) ہم نے تمہاری طرف وحی بھیجی ہے اور جس کا ابراہیم اور موسیٰ اور عیسیٰ کو حکم دیا تھا (وہ یہ) کہ دین کو قائم رکھنا اور اس میں پھوٹ نہ ڈالنا۔ جس چیز کی طرف تم مشرکوں کو بلاتے ہو وہ ان کو دشوار گزرتی ہے۔ الله جس کو چاہتا ہے اپنی بارگاہ کا برگزیدہ کرلیتا ہے اور جو اس کی طرف رجوع کرے اسے اپنی طرف رستہ دکھا دیتا ہے
+**English (Yusuf Ali):** The same religion has He established for you as that which He enjoined on Noah - the which We have sent by inspiration to thee - and that which We enjoined on Abraham, Moses, and Jesus: Namely, that ye should remain steadfast in religion, and make no divisions therein: to those who worship other things than Allah, hard is the (way) to which thou callest them. Allah chooses to Himself those whom He pleases, and guides to Himself those who turn (to Him).
 
 [Open on Quran.com](https://quran.com/42/13)
 
@@ -188,7 +188,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And We have enjoined upon man, to his parents, good treatment. His mother carried him with hardship and gave birth to him with hardship, and his gestation and weaning [period] is thirty months. [He grows] until, when he reaches maturity and reaches [the age of] forty years, he says, "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to work righteousness of which You will approve and make righteous for me my offspring. Indeed, I have repented to You, and indeed, I am of the Muslims."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے انسان کو اپنے والدین کے ساتھ بھلائی کرنے کا حکم دیا۔ اس کی ماں نے اس کو تکلیف سے پیٹ میں رکھا اور تکلیف ہی سے جنا۔ اور اس کا پیٹ میں رہنا اور دودھ چھوڑنا ڈھائی برس میں ہوتا ہے۔ یہاں تک کہ جب خوب جوان ہوتا ہے اور چالیس برس کو پہنچ جاتا ہے تو کہتا ہے کہ اے میرے پروردگار مجھے توفیق دے کہ تو نے جو احسان مجھ پر اور میرے ماں باپ پر کئے ہیں ان کا شکر گزار ہوں اور یہ کہ نیک عمل کروں جن کو تو پسند کرے۔ اور میرے لئے میری اولاد میں صلاح (وتقویٰ) دے۔ میں تیری طرف رجوع کرتا ہوں اور میں فرمانبرداروں میں ہوں
+**English (Yusuf Ali):** We have enjoined on man kindness to his parents: In pain did his mother bear him, and in pain did she give him birth. The carrying of the (child) to his weaning is (a period of) thirty months. At length, when he reaches the age of full strength and attains forty years, he says, "O my Lord! Grant me that I may be grateful for Thy favour which Thou has bestowed upon me, and upon both my parents, and that I may work righteousness such as Thou mayest approve; and be gracious to me in my issue. Truly have I turned to Thee and truly do I bow (to Thee) in Islam."
 
 [Open on Quran.com](https://quran.com/46/15)
 

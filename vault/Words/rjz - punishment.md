@@ -30,7 +30,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 2:59 · [[002 Al-Baqarah]]
 
@@ -44,7 +44,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those who wronged changed [those words] to a statement other than that which had been said to them, so We sent down upon those who wronged a punishment [i.e., plague] from the sky because they were defiantly disobeying.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو جو ظالم تھے، انہوں نے اس لفظ کو، جس کا ان کو حکم دیا تھا، بدل کر اس کی جگہ اور لفظ کہنا شروع کیا، پس ہم نے (ان) ظالموں پر آسمان سے عذاب نازل کیا، کیونکہ نافرمانیاں کئے جاتے تھے
+**English (Yusuf Ali):** But the transgressors changed the word from that which had been given them; so We sent on the transgressors a plague from heaven, for that they infringed (Our command) repeatedly.
 
 [Open on Quran.com](https://quran.com/2/59)
 
@@ -60,7 +60,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when the punishment descended upon them, they said, "O Moses, invoke for us your Lord by what He has promised you. If you [can] remove the punishment from us, we will surely believe you, and we will send with you the Children of Israel."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان پر عذاب واقع ہوتا تو کہتے کہ موسیٰ ہمارے لیے اپنے پروردگار سے دعا کرو۔ جیسا اس نے تم سے عہد کر رکھا ہے۔ اگر تم ہم سے عذاب کو ٹال دو گے تو ہم تم پر ایمان بھی لے آئیں گے اور بنی اسرائیل کو بھی تمہارے ساتھ جانے (کی اجازت) دیں گے
+**English (Yusuf Ali):** Every time the penalty fell on them, they said: "O Moses! on your behalf call on thy Lord in virtue of his promise to thee: If thou wilt remove the penalty from us, we shall truly believe in thee, and we shall send away the Children of Israel with thee."
 
 [Open on Quran.com](https://quran.com/7/134)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But when We removed the punishment from them until a term which they were to reach, then at once they broke their word.
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر جب ہم ایک مدت کے لیے جس تک ان کو پہنچنا تھا ان سے عذاب دور کردیتے تو وہ عہد کو توڑ ڈالتے
+**English (Yusuf Ali):** But every time We removed the penalty from them according to a fixed term which they had to fulfil,- Behold! they broke their word!
 
 [Open on Quran.com](https://quran.com/7/135)
 
@@ -92,7 +92,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those who wronged among them changed [the words] to a statement other than that which had been said to them. So We sent upon them a punishment from the sky for the wrong that they were doing.
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر جو ان میں ظالم تھے انہوں نے اس لفظ کو جس کا ان کو حکم دیا گیا تھا بدل کر اس کی جگہ اور لفظ کہنا شروع کیا تو ہم نے ان پر آسمان سے عذاب بھیجا اس لیے کہ ظلم کرتے تھے
+**English (Yusuf Ali):** But the transgressors among them changed the word from that which had been given them so we sent on them a plague from heaven. For that they repeatedly transgressed.
 
 [Open on Quran.com](https://quran.com/7/162)
 
@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** [Remember] when He overwhelmed you with drowsiness [giving] security from Him and sent down upon you from the sky, rain by which to purify you and remove from you the evil [suggestions] of Satan and to make steadfast your hearts and plant firmly thereby your feet.
 
-**Urdu (Fatah Muhammad Jalandhari):** جب اس نے (تمہاری) تسکین کے لیے اپنی طرف سے تمہیں نیند (کی چادر) اُڑھا دی اور تم پر آسمان سے پانی برسادیا تاکہ تم کو اس سے (نہلا کر) پاک کر دے اور شیطانی نجاست کو تم سے دور کردے۔ اور اس لیے بھی کہ تمہارے دلوں کو مضبوط کردے اور اس سے تمہارے پاؤں جمائے رکھے
+**English (Yusuf Ali):** Remember He covered you with a sort of drowsiness, to give you calm as from Himself, and he caused rain to descend on you from heaven, to clean you therewith, to remove from you the stain of Satan, to strengthen your hearts, and to plant your feet firmly therewith.
 
 [Open on Quran.com](https://quran.com/8/11)
 
@@ -124,7 +124,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient."
 
-**Urdu (Fatah Muhammad Jalandhari):** ہم اس بستی کے رہنے والوں پر اس سبب سے کہ یہ بدکرداری کرتے رہے ہیں آسمان سے عذاب نازل کرنے والے ہیں
+**English (Yusuf Ali):** "For we are going to bring down on the people of this township a Punishment from heaven, because they have been wickedly rebellious."
 
 [Open on Quran.com](https://quran.com/29/34)
 
@@ -140,7 +140,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** But those who strive against Our verses [seeking] to cause failure - for them will be a painful punishment of foul nature.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے ہماری آیتوں میں کوشش کی کہ ہمیں ہرا دیں گے۔ ان کے لئے سخت درد دینے والے عذاب کی سزا ہے
+**English (Yusuf Ali):** But those who strive against Our Signs, to frustrate them,- for such will be a Penalty,- a Punishment most humiliating.
 
 [Open on Quran.com](https://quran.com/34/5)
 
@@ -156,7 +156,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** This [Qur’ān] is guidance. And those who have disbelieved in the verses of their Lord will have a painful punishment of foul nature.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ ہدایت (کی کتاب) ہے۔ اور جو لوگ اپنے پروردگار کی آیتوں سے انکار کرتے ہیں ان کو سخت قسم کا درد دینے والا عذاب ہوگا
+**English (Yusuf Ali):** This is (true) Guidance and for those who reject the Signs of their Lord, is a grievous Penalty of abomination.
 
 [Open on Quran.com](https://quran.com/45/11)
 
@@ -172,7 +172,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And uncleanliness avoid.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ناپاکی سے دور رہو
+**English (Yusuf Ali):** And all abomination shun!
 
 [Open on Quran.com](https://quran.com/74/5)
 

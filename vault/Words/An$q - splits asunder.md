@@ -28,7 +28,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 19:90 · [[019 Maryam]]
 
@@ -42,7 +42,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The heavens almost rupture therefrom and the earth splits open and the mountains collapse in devastation
 
-**Urdu (Fatah Muhammad Jalandhari):** قریب ہے کہ اس (افتراء) سے آسمان پھٹ پڑیں اور زمین شق ہوجائے اور پہاڑ پارہ پارہ ہو کر گر پڑیں
+**English (Yusuf Ali):** At it the skies are ready to burst, the earth to split asunder, and the mountains to fall down in utter ruin,
 
 [Open on Quran.com](https://quran.com/19/90)
 
@@ -58,7 +58,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** The Hour has come near, and the moon has split [in two].
 
-**Urdu (Fatah Muhammad Jalandhari):** قیامت قریب آ پہنچی اور چاند شق ہوگیا
+**English (Yusuf Ali):** The Hour (of Judgment) is nigh, and the moon is cleft asunder.
 
 [Open on Quran.com](https://quran.com/54/1)
 
@@ -74,7 +74,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And when the heaven is split open and becomes rose-colored like oil -
 
-**Urdu (Fatah Muhammad Jalandhari):** پھر جب آسمان پھٹ کر تیل کی تلچھٹ کی طرح گلابی ہوجائے گا (تو) وہ کیسا ہولناک دن ہوگا
+**English (Yusuf Ali):** When the sky is rent asunder, and it becomes red like ointment:
 
 [Open on Quran.com](https://quran.com/55/37)
 
@@ -90,7 +90,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And the heaven will split [open], for that Day it is infirm.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور آسمان پھٹ جائے گا تو وہ اس دن کمزور ہوگا
+**English (Yusuf Ali):** And the sky will be rent asunder, for it will that Day be flimsy,
 
 [Open on Quran.com](https://quran.com/69/16)
 
@@ -106,7 +106,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** When the sky has split [open]
 
-**Urdu (Fatah Muhammad Jalandhari):** جب آسمان پھٹ جائے گا
+**English (Yusuf Ali):** When the sky is rent asunder,
 
 [Open on Quran.com](https://quran.com/84/1)
 

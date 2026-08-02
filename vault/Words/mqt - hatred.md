@@ -27,7 +27,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 ## Verses (full text)
 
-Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showing up to 10 verses.
+Arabic + English (Sahih International) + English (Yusuf Ali). Showing up to 10 verses.
 
 #### 4:22 · [[004 An-Nisa]]
 
@@ -41,7 +41,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** And do not marry those [women] whom your fathers married, except what has already occurred. Indeed, it was an immorality and hateful [to Allāh] and was evil as a way.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جن عورتوں سے تمہارے باپ نے نکاح کیا ہو ان نکاح مت کرنا (مگر جاہلیت میں) جو ہوچکا (سوہوچکا) یہ نہایت بےحیائی اور (خدا کی) ناخوشی کی بات تھی۔ اور بہت برا دستور تھا
+**English (Yusuf Ali):** And marry not women whom your fathers married,- except what is past: It was shameful and odious,- an abominable custom indeed.
 
 [Open on Quran.com](https://quran.com/4/22)
 
@@ -57,7 +57,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** It is He who has made you successors upon the earth. And whoever disbelieves - upon him will be [the consequence of] his disbelief. And the disbelief of the disbelievers does not increase them in the sight of their Lord except in hatred; and the disbelief of the disbelievers does not increase them except in loss.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے تم کو زمین میں (پہلوں کا) جانشین بنایا۔ تو جس نے کفر کیا اس کے کفر کا ضرر اسی کو ہے۔ اور کافروں کے حق میں ان کے کفر سے پروردگار کے ہاں ناخوشی ہی بڑھتی ہے اور کافروں کو ان کا کفر نقصان ہی زیادہ کرتا ہے
+**English (Yusuf Ali):** He it is That has made you inheritors in the earth: if, then, any do reject (Allah), their rejection (works) against themselves: their rejection but adds to the odium for the Unbelievers in the sight of their Lord: their rejection but adds to (their own) undoing.
 
 [Open on Quran.com](https://quran.com/35/39)
 
@@ -73,7 +73,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Indeed, those who disbelieve will be addressed, "The hatred of Allāh for you was [even] greater than your hatred of yourselves [this Day in Hell] when you were invited to faith, but you disbelieved [i.e., refused]."
 
-**Urdu (Fatah Muhammad Jalandhari):** جن لوگوں نے کفر کیا ان سے پکار کر کہہ دیا جائے گا کہ جب تم (دنیا میں) ایمان کی طرف بلائے جاتے تھے اور مانتے نہیں تھے تو خدا اس سے کہیں زیادہ بیزار ہوتا تھا جس قدر تم اپنے آپ سے بیزار ہو رہے ہو
+**English (Yusuf Ali):** The Unbelievers will be addressed: "Greater was the aversion of Allah to you than (is) your aversion to yourselves, seeing that ye were called to the Faith and ye used to refuse."
 
 [Open on Quran.com](https://quran.com/40/10)
 
@@ -89,7 +89,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Those who dispute concerning the signs of Allāh without an authority having come to them - great is hatred [of them] in the sight of Allāh and in the sight of those who have believed. Thus does Allāh seal over every heart [belonging to] an arrogant tyrant.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ بغیر اس کے کہ ان کے پاس کوئی دلیل آئی ہو خدا کی آیتوں میں جھگڑتے ہیں۔ خدا کے نزدیک اور مومنوں کے نزدیک یہ جھگڑا سخت ناپسند ہے۔ اسی طرح خدا ہر متکبر سرکش کے دل پر مہر لگا دیتا ہے
+**English (Yusuf Ali):** "(Such) as dispute about the Signs of Allah, without any authority that hath reached them, grievous and odious (is such conduct) in the sight of Allah and of the Believers. Thus doth Allah, seal up every heart - of arrogant and obstinate Transgressors."
 
 [Open on Quran.com](https://quran.com/40/35)
 
@@ -105,7 +105,7 @@ Arabic + English (Sahih International) + Urdu (Fatah Muhammad Jalandhari). Showi
 
 **English (Sahih International):** Greatly hateful in the sight of Allāh is that you say what you do not do.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا اس بات سے سخت بیزار ہے کہ ایسی بات کہو جو کرو نہیں
+**English (Yusuf Ali):** Grievously odious is it in the sight of Allah that ye say that which ye do not.
 
 [Open on Quran.com](https://quran.com/61/3)
 
