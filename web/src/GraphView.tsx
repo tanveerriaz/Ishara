@@ -49,25 +49,11 @@ function buildAdj(links: GraphLink[]): Map<string, Set<string>> {
   return adj
 }
 
-function neighbors(focusId: string, adj: Map<string, Set<string>>, depth: number): Set<string> {
-  const keep = new Set<string>([focusId])
-  let frontier = [focusId]
-  for (let d = 0; d < depth; d++) {
-    const next: string[] = []
-    for (const id of frontier) {
-      for (const n of adj.get(id) ?? []) {
-        if (!keep.has(n)) {
-          keep.add(n)
-          next.push(n)
-        }
-      }
-    }
-    frontier = next
-  }
-  return keep
-}
-
-/** Obsidian Local graph: neighborhood + sibling words + all surahs of the selection. */
+/**
+ * Local cluster: focus + its root/word neighbors + sibling lemmas via root,
+ * plus a capped set of surahs. Avoids BFS-through-surahs (explodes via hubs
+ * and, under maxNodes, drops real neighbors — leaving only focus+root).
+ */
 function localCluster(
   focusId: string,
   adj: Map<string, Set<string>>,
@@ -75,33 +61,57 @@ function localCluster(
   maxNodes: number,
 ): Set<string> {
   const byId = new Map(nodes.map((n) => [n.id, n]))
-  const keep = neighbors(focusId, adj, 2)
+  const keep = new Set<string>([focusId])
+
+  for (const n of adj.get(focusId) ?? []) {
+    const t = byId.get(n)?.type
+    if (t === 'word' || t === 'root') keep.add(n)
+  }
 
   const roots = [...keep].filter((id) => byId.get(id)?.type === 'root')
   if (byId.get(focusId)?.type === 'root') roots.push(focusId)
   for (const rid of new Set(roots)) {
     keep.add(rid)
     for (const n of adj.get(rid) ?? []) {
-      const t = byId.get(n)?.type
-      if (t === 'word' || t === 'surah') keep.add(n)
+      if (byId.get(n)?.type === 'word') keep.add(n)
     }
   }
-  for (const id of [...keep]) {
-    if (byId.get(id)?.type !== 'word') continue
-    for (const n of adj.get(id) ?? []) {
-      if (byId.get(n)?.type === 'surah') keep.add(n)
+
+  // Prefer surahs directly linked to the focus (all of them if they fit),
+  // then fill remaining budget from sibling words' surahs.
+  const surahBudget = Math.min(32, Math.max(8, Math.floor(maxNodes * 0.55)))
+  const surahs: string[] = []
+  const addSurah = (id: string) => {
+    if (byId.get(id)?.type !== 'surah' || surahs.includes(id)) return
+    surahs.push(id)
+  }
+  for (const n of adj.get(focusId) ?? []) addSurah(n)
+  if (surahs.length < surahBudget) {
+    for (const id of [...keep]) {
+      if (byId.get(id)?.type !== 'word') continue
+      for (const n of adj.get(id) ?? []) {
+        addSurah(n)
+        if (surahs.length >= surahBudget) break
+      }
+      if (surahs.length >= surahBudget) break
     }
   }
-  keep.add(focusId)
+  for (const s of surahs.slice(0, surahBudget)) keep.add(s)
+
   if (keep.size <= maxNodes) return keep
 
+  // Prefer focus, then its direct neighbors, then roots/words/surahs.
+  const direct = adj.get(focusId) ?? new Set()
   const typeRank = (t: GraphNode['type'] | undefined) =>
-    t === 'root' ? 0 : t === 'surah' ? 1 : t === 'word' ? 2 : 3
+    t === 'root' ? 0 : t === 'word' ? 1 : t === 'surah' ? 2 : 3
   return new Set(
     [...keep]
       .sort((a, b) => {
         if (a === focusId) return -1
         if (b === focusId) return 1
+        const da = direct.has(a) ? 0 : 1
+        const db = direct.has(b) ? 0 : 1
+        if (da !== db) return da - db
         return typeRank(byId.get(a)?.type) - typeRank(byId.get(b)?.type)
       })
       .slice(0, maxNodes),
