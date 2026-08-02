@@ -1,0 +1,13 @@
+# Ignore local junk when building for Railway (context = repo root)
+node_modules
+web/node_modules
+web/dist
+data
+.git
+*.log
+.DS_Store
+.env
+.env.*
+vault
+scripts
+.cursor

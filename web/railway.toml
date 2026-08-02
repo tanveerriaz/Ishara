@@ -1,8 +1,7 @@
-# Railway static hosting for the Ishara web viewer
-# Deploy from web/: railway up
-
+# Prefer repo-root railway.toml (monorepo). Kept for local `cd web && railway up` experiments.
 [build]
-builder = "NIXPACKS"
+builder = "DOCKERFILE"
+dockerfilePath = "Dockerfile"
 
 [deploy]
 restartPolicyType = "ON_FAILURE"

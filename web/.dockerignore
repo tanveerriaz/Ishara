@@ -1,0 +1,8 @@
+# Ignore local junk when building for Railway
+node_modules
+dist
+.git
+*.log
+.DS_Store
+.env
+.env.*

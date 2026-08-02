@@ -8,9 +8,16 @@ Public **meaning graph** of Qur’anic words linked across surahs (and roots) �
 
 **Nothing in the Qur’an text is “mine.”** See [ATTRIBUTION.md](ATTRIBUTION.md) for sources (Quran.com / Tanzil, Sahih International, Fatah Muhammad Jalandhari, Quranic Arabic Corpus, Lane lexicon).
 
-## Try online (Cloudflare Pages — free)
+## Try online (free)
 
-Connect this GitHub repo in the [Cloudflare Pages dashboard](https://dash.cloudflare.com/?to=/:account/pages):
+| Host | URL |
+|------|-----|
+| **Cloudflare Pages** (primary) | https://ishara-5kc.pages.dev |
+| **Railway** | https://ishara-web-production.up.railway.app |
+
+On the site: search a meaning → animated **local graph** (Obsidian colors: Words / Roots / Surahs) → click a node → full verse in **Arabic + English + Urdu**. Works on phones. No LLM.
+
+### Cloudflare Pages (GitHub)
 
 | Setting | Value |
 |--------|--------|
@@ -19,9 +26,9 @@ Connect this GitHub repo in the [Cloudflare Pages dashboard](https://dash.cloudf
 | Build command | `npm run build` |
 | Build output directory | `dist` |
 
-After the first deploy, open **https://ishara-5kc.pages.dev**.
+### Railway
 
-On the site: search a meaning → animated **local graph** (Obsidian colors: Words / Roots / Surahs) → click a node → full verse in **Arabic + English + Urdu**. Works on phones. No LLM.
+Monorepo root `railway.toml` builds `web/Dockerfile` (Caddy serves `dist`). Redeploy: `railway up` from the repo root.
 
 ## Use locally in Obsidian
 
@@ -65,7 +72,7 @@ cd web && npm ci && npm run build
 
 - Obsidian vault: `vault/`
 - Static viewer: `web/` (Vite + React + force-graph + MiniSearch)
-- Host: Cloudflare Pages (free)
+- Host: Cloudflare Pages (free) + Railway mirror
 
 ## License
 
