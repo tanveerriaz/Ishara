@@ -18,9 +18,9 @@ FM = re.compile(r"^---\n(.*?)\n---\n", re.S)
 
 # Obsidian graph.json rgb integers → hex
 COLORS = {
-    "word": "#c9a227",   # bronze gold — 13196839
-    "root": "#f8c537",   # Wasp gold — 16305463
-    "surah": "#ffbf00",  # amber — 16760576
+    "word": "#c95e27",   # Obsidian Words — rgb 13196839
+    "root": "#f8cd37",   # Obsidian Roots — rgb 16305463
+    "surah": "#ffbf00",  # Obsidian Surahs — rgb 16760576
 }
 
 

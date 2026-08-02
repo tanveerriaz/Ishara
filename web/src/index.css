@@ -7,10 +7,11 @@
   --muted: #bdae93;
   --line: #3d3d3d;
   --line-gold: #f8c537;
-  --word: #c9a227;
-  --root: #f8c537;
+  /* Match Obsidian graph groups exactly */
+  --word: #c95e27;
+  --root: #f8cd37;
   --surah: #ffbf00;
-  --accent: #f8c537;
+  --accent: #f8cd37;
   --accent-soft: #e8d49a;
   --danger: #c45c5c;
   --font: "Source Serif 4", "Iowan Old Style", Palatino, Georgia, serif;
