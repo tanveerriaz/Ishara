@@ -112,6 +112,59 @@ input {
   color: var(--accent);
 }
 
+.header-actions button.back-btn:disabled {
+  opacity: 0.35;
+  cursor: default;
+  border-color: var(--line);
+  color: var(--muted);
+}
+
+.header-actions button.back-btn:disabled:hover {
+  border-color: var(--line);
+  color: var(--muted);
+}
+
+.note-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.45rem;
+}
+
+.tr-toggle {
+  display: inline-flex;
+  gap: 0.2rem;
+}
+
+.tr-toggle button {
+  border: 1px solid color-mix(in srgb, var(--line-gold) 35%, var(--line));
+  background: var(--bg-elevated);
+  color: var(--muted);
+  border-radius: 6px;
+  padding: 0.2rem 0.45rem;
+  font-size: 0.7rem;
+  cursor: pointer;
+}
+
+.tr-toggle button.active {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 14%, var(--bg-elevated));
+}
+
+button.linkish.inline {
+  display: inline;
+  padding: 0;
+  font-size: inherit;
+}
+
+.verse-more {
+  display: block;
+  margin: 0.85rem 0 1.2rem;
+}
+
 .main {
   display: grid;
   min-height: 0;
@@ -346,13 +399,6 @@ input {
   padding: 0.75rem 0 0.5rem;
   margin-bottom: 0.25rem;
   background: linear-gradient(to bottom, var(--bg-panel) 70%, transparent);
-}
-
-.note-meta {
-  display: flex;
-  gap: 0.5rem;
-  align-items: center;
-  margin-bottom: 0.45rem;
 }
 
 .note-pane h1 {

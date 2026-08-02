@@ -24,6 +24,8 @@ COLORS = {
     "surah": "#ffbf00",  # Obsidian Surahs — rgb 16760576
 }
 
+VERSE_PAGE = 12
+
 BW_STUB_CHARS = re.compile(r"^[a-z$'>]{2,8}$", re.I)
 BW_HYPHEN = re.compile(r"^[a-z](?:-[a-z]){1,6}$", re.I)
 
@@ -79,6 +81,66 @@ def english_meaning(*candidates: str, root_bw: str | None = None, fallback: str 
             continue
         return c
     return fallback
+
+
+def write_note_disk(nid: str, note: dict) -> None:
+    """Write slim note JSON; park full verses in a sidecar for lazy web loading."""
+    verses = note.get("verses") or []
+    if verses and note.get("type") in ("word", "root"):
+        verses_name = f"{nid}.verses.json"
+        (NOTES / verses_name).write_text(json.dumps(verses, ensure_ascii=False), encoding="utf-8")
+        slim = {
+            **note,
+            "verses": verses[:VERSE_PAGE],
+            "versesTotal": len(verses),
+            "versesFile": verses_name,
+        }
+        (NOTES / f"{nid}.json").write_text(json.dumps(slim, ensure_ascii=False), encoding="utf-8")
+        return
+    (NOTES / f"{nid}.json").write_text(json.dumps(note, ensure_ascii=False), encoding="utf-8")
+
+
+SURAH_SAMPLE = re.compile(
+    r"## Sample[^\n]*\n+"
+    r".*?<div[^>]*>\s*(?P<arabic>.*?)\s*</div>\s*"
+    r"\*\*Sahih International:\*\*\s*(?P<si>[^\n]+)\s*"
+    r"(?:\*\*Yusuf Ali:\*\*\s*(?P<ya>[^\n]+)\s*)?",
+    re.S,
+)
+
+
+def parse_surah_hub(body: str, slug: str, surah_n: str) -> dict:
+    words_block = re.search(r"## Words in this surah[^\n]*\n+((?:- \[\[[^\]]+\]\][^\n]*\n?)+)", body)
+    roots_block = re.search(r"## Roots\s*\n+((?:- \[\[[^\]]+\]\]\n?)+)", body)
+    words = WIKILINK.findall(words_block.group(1)) if words_block else []
+    roots = WIKILINK.findall(roots_block.group(1)) if roots_block else []
+    verses: list[dict] = []
+    m = SURAH_SAMPLE.search(body)
+    if m:
+        s_num = surah_n if str(surah_n).isdigit() else slug[:3]
+        verses.append(
+            {
+                "ref": f"{int(s_num)}:1",
+                "surah": slug,
+                "arabic": re.sub(r"\s+", " ", m.group("arabic")).strip(),
+                "wordForm": "",
+                "gloss": "Opening ayah",
+                "sahihInternational": m.group("si").strip(),
+                "yusufAli": (m.group("ya") or "").strip(),
+                "urdu": "",
+                "url": f"https://quran.com/{int(s_num)}/1",
+            }
+        )
+    opener = re.search(r"^The .+ · (\d+) ayahs", body, re.M)
+    ayah_count = int(opener.group(1)) if opener else 0
+    return {
+        "words": words,
+        "roots": roots,
+        "verses": verses,
+        "ayahCount": ayah_count,
+        "surahCount": 1,
+        "meaning": slug.split(" ", 1)[-1] if " " in slug else slug,
+    }
 
 
 def safe_id(slug: str, kind: str = "") -> str:
@@ -333,7 +395,7 @@ def main() -> None:
         }
         word_notes_by_slug[slug] = note
         word_notes_by_slug[path.stem] = note
-        (NOTES / f"{nid}.json").write_text(json.dumps(note, ensure_ascii=False), encoding="utf-8")
+        write_note_disk(nid, note)
 
     word_targets: dict[str, list[str]] = {}
     for path in sorted((VAULT / "Words").glob("*.md")):
@@ -377,19 +439,26 @@ def main() -> None:
         label = sense if len(sense) < 28 else " ".join(sense.split()[:3])
         verses: list[dict] = []
         seen_refs: set[str] = set()
+        surah_set: set[str] = set()
+        ayah_set: set[str] = set()
         for wslug in linked_words:
-            for v in word_notes_by_slug[wslug].get("verses") or []:
-                key = f"{v['ref']}|{v.get('wordForm','')}"
+            wn = word_notes_by_slug[wslug]
+            for s in wn.get("surahs") or []:
+                surah_set.add(s)
+            for v in wn.get("verses") or []:
+                if v.get("surah"):
+                    surah_set.add(v["surah"])
+                if v.get("ref"):
+                    ayah_set.add(v["ref"])
+                key = f"{v['ref']}|{v.get('wordForm', '')}"
                 if key in seen_refs:
                     continue
                 seen_refs.add(key)
                 verses.append({**v, "fromWord": wslug})
-        surah_from_verse = sorted({v["surah"] for v in verses if v.get("surah")})
-        surah_codes = re.findall(r"`?(\d{3})(?:\s*,\s*|\s*`|$)", body)
-        surah_count = len({c for c in surah_codes}) or len(
-            {v["ref"].split(":")[0] for v in verses}
-        )
-        ayah_count = len({v["ref"] for v in verses})
+        # Prefer corpus coverage via linked words — not the truncated `001, 002…` preview on the root note.
+        surah_from_verse = sorted(surah_set)
+        surah_count = len(surah_set)
+        ayah_count = len(ayah_set)
         nodes.append(
             {
                 "id": nid,
@@ -418,7 +487,7 @@ def main() -> None:
             "root": slug,
             "words": linked_words,
         }
-        (NOTES / f"{nid}.json").write_text(json.dumps(note, ensure_ascii=False), encoding="utf-8")
+        write_note_disk(nid, note)
 
     root_targets: dict[str, list[str]] = {}
     for path in sorted((VAULT / "Roots").glob("*.md")):
@@ -447,14 +516,22 @@ def main() -> None:
                 "surah": int(surah_n) if str(surah_n).isdigit() else 0,
             }
         )
+        hub = parse_surah_hub(body, slug, str(surah_n))
         note = {
             "id": nid,
             "slug": slug,
             "type": "surah",
             "title": slug,
             "html": md_to_simple_html(strip_md_noise(body)),
+            "meaning": hub["meaning"],
+            "words": hub["words"],
+            "roots": hub["roots"],
+            "verses": hub["verses"],
+            "ayahCount": hub["ayahCount"],
+            "surahCount": 1,
+            "lemma": "",
         }
-        (NOTES / f"{nid}.json").write_text(json.dumps(note, ensure_ascii=False), encoding="utf-8")
+        write_note_disk(nid, note)
 
     surah_targets: dict[str, list[str]] = {}
     for path in sorted(VAULT.glob("[0-9][0-9][0-9] *.md")):

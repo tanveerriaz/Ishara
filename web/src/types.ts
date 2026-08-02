@@ -38,6 +38,8 @@ export type NoteVerse = {
   fromWord?: string
 }
 
+export type TrMode = 'both' | 'en' | 'ur'
+
 export type NoteData = {
   id: string
   slug: string
@@ -51,5 +53,9 @@ export type NoteData = {
   ayahCount?: number
   surahs?: string[]
   words?: string[]
+  roots?: string[]
   verses?: NoteVerse[]
+  versesTotal?: number
+  versesFile?: string
+  versesLoaded?: boolean
 }
