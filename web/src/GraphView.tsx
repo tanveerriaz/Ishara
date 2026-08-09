@@ -2,15 +2,10 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import ForceGraph2D, { type ForceGraphMethods } from 'react-force-graph-2d'
 import type { GraphData, GraphLink, GraphNode } from './types'
 
-/**
- * Visual language matches vault/.obsidian/graph.json (Wasp / Obsidian groups):
- * Words #c95e27 · Roots #f8cd37 · Surahs #ffbf00
- * Forces inspired by Obsidian: centerStrength, repelStrength, linkDistance, Animate.
- */
-export const OBSIDIAN_COLORS = {
-  word: '#c95e27',
-  root: '#f8cd37',
-  surah: '#ffbf00',
+const NODE_COLORS = {
+  word: '#e15a2b',
+  root: '#f6c945',
+  surah: '#3fa7d6',
 } as const
 
 type Props = {
@@ -31,6 +26,7 @@ type SimNode = GraphNode & {
   fx?: number | null
   fy?: number | null
   __userPinned?: boolean
+  __ring?: 0 | 1 | 2 | 9
 }
 
 type LabelBox = {
@@ -146,7 +142,7 @@ function hexToRgba(hex: string, a: number): string {
 }
 
 function nodeColor(type: GraphNode['type']): string {
-  return OBSIDIAN_COLORS[type] ?? OBSIDIAN_COLORS.word
+  return NODE_COLORS[type] ?? NODE_COLORS.word
 }
 
 function degreeMap(links: GraphLink[]): Map<string, number> {
@@ -275,6 +271,13 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
   const adj = useMemo(() => buildAdj(graph.links), [graph.links])
 
   const data = useMemo(() => {
+    const ringFor = (id: string): 0 | 1 | 2 | 9 => {
+      if (mode !== 'local' || !focusId) return 9
+      if (id === focusId) return 0
+      if (adj.get(focusId)?.has(id)) return 1
+      return 2
+    }
+
     const withCachedPos = (nodes: GraphNode[]): SimNode[] =>
       nodes.map((n) => {
         const cached = posCache.current.get(n.id)
@@ -284,6 +287,7 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
           color: nodeColor(n.type),
           x: cached?.x ?? seed.x,
           y: cached?.y ?? seed.y,
+          __ring: ringFor(n.id),
         }
       })
 
@@ -348,18 +352,36 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
       const color = nodeColor(node.type)
       const isFocus = node.id === focusId
       const isHover = node.id === hoverIdRef.current
-      const screenR = node.type === 'surah' ? 7.2 : node.type === 'root' ? 6.2 : 5.4
+      const ring = node.__ring ?? 9
+      const screenR =
+        ring === 0
+          ? node.type === 'root'
+            ? 18
+            : node.type === 'word'
+              ? 16
+              : 15
+          : ring === 1
+            ? node.type === 'root'
+              ? 11
+              : node.type === 'word'
+                ? 9.5
+                : 8.5
+            : node.type === 'root'
+              ? 7
+              : node.type === 'word'
+                ? 6
+                : 6.5
       const baseR = screenR / scale
       const h = hashId(node.id)
       const t = performance.now() / 1000
       const pulse = liveAnimate ? 0.5 + 0.5 * Math.sin(t * 1.05 + (h % 360) * 0.017) : 0
-      const r = isFocus || isHover ? baseR + (1.6 + pulse * 0.35) / scale : baseR
+      const r = isFocus || isHover ? baseR + (2.4 + pulse * 0.5) / scale : baseR
 
       if (liveAnimate) {
-        const aura = r + (2.8 + pulse * 1.4) / scale
+        const aura = r + (isFocus || isHover ? 14 + pulse * 8 : 4.5 + pulse * 1.6) / scale
         const grad = ctx.createRadialGradient(x, y, 0, x, y, aura)
-        grad.addColorStop(0, hexToRgba(color, isFocus || isHover ? 0.58 : 0.28 + pulse * 0.06))
-        grad.addColorStop(0.55, hexToRgba(color, 0.1))
+        grad.addColorStop(0, hexToRgba(color, isFocus || isHover ? 0.36 : 0.18 + pulse * 0.04))
+        grad.addColorStop(0.55, hexToRgba(color, isFocus || isHover ? 0.1 : 0.055))
         grad.addColorStop(1, hexToRgba(color, 0))
         ctx.beginPath()
         ctx.arc(x, y, aura, 0, Math.PI * 2)
@@ -369,28 +391,28 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
 
       ctx.beginPath()
       ctx.arc(x, y, r, 0, Math.PI * 2)
-      ctx.fillStyle = color
+      ctx.fillStyle = hexToRgba(color, ring >= 2 && !isHover ? 0.78 : 1)
       ctx.fill()
 
       if (isFocus || isHover) {
-        ctx.strokeStyle = 'rgba(250,242,214,0.9)'
-        ctx.lineWidth = 1.35 / scale
+        ctx.strokeStyle = 'rgba(244,244,240,0.92)'
+        ctx.lineWidth = 1.8 / scale
         ctx.stroke()
       }
 
-      const showLabel = isFocus || isHover || globalScale > (mode === 'local' ? 0.7 : 1.05)
+      const showLabel = isFocus || isHover || ring <= 1 || globalScale > (mode === 'local' ? 0.72 : 1.05)
       if (!showLabel) return
 
       const label = displayLabel(node)
-      const fontSize = Math.max(12 / scale, 2.6)
-      ctx.font = `${fontSize}px sans-serif`
+      const fontSize = Math.max((ring === 0 ? 15 : 12.5) / scale, 2.8)
+      ctx.font = `${ring === 0 ? 600 : 500} ${fontSize}px "DM Sans", system-ui, sans-serif`
       const width = ctx.measureText(label).width
-      const pad = 4 / scale
+      const pad = 4.5 / scale
       const box: LabelBox = {
         x1: x - width / 2 - pad,
-        y1: y + r + 2 / scale,
+        y1: y + r + 6 / scale,
         x2: x + width / 2 + pad,
-        y2: y + r + 2 / scale + fontSize * 1.25,
+        y2: y + r + 6 / scale + fontSize * 1.25,
       }
       const overlaps = labelBoxesRef.current.boxes.some(
         (b) => box.x1 < b.x2 && box.x2 > b.x1 && box.y1 < b.y2 && box.y2 > b.y1,
@@ -399,8 +421,17 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
       labelBoxesRef.current.boxes.push(box)
       ctx.textAlign = 'center'
       ctx.textBaseline = 'top'
-      ctx.fillStyle = 'rgba(250,242,214,0.9)'
-      ctx.fillText(label, x, y + r + 2 / scale)
+      ctx.fillStyle = 'rgba(25,25,25,0.62)'
+      ctx.fillRect(box.x1, box.y1 - 2 / scale, box.x2 - box.x1, box.y2 - box.y1)
+      ctx.fillStyle = `rgba(250,242,214,${isFocus || isHover ? 0.96 : ring <= 1 ? 0.82 : 0.56})`
+      ctx.fillText(label, x, y + r + 6 / scale)
+
+      if ((isFocus || isHover) && node.lemma) {
+        ctx.font = `${17 / scale}px Amiri, "Noto Naskh Arabic", serif`
+        ctx.fillStyle = 'rgba(232,212,154,0.9)'
+        ctx.textBaseline = 'bottom'
+        ctx.fillText(node.lemma, x, y - r - 8 / scale)
+      }
     },
     [firstNodeId, focusId, liveAnimate, mode],
   )
@@ -413,12 +444,12 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
 
     // Obsidian: repelStrength 12, linkDistance 250, centerStrength 0.4, linkStrength 1
     // Canvas units are smaller — scale into a comfortable web range.
-    const charge = mode === 'global' ? (lowPower ? -36 : -52) : lowPower ? -95 : -125
-    const dist = mode === 'global' ? (lowPower ? 34 : 42) : lowPower ? 58 : 72
+    const charge = mode === 'global' ? (lowPower ? -38 : -56) : lowPower ? -130 : -165
+    const dist = mode === 'global' ? (lowPower ? 38 : 48) : lowPower ? 74 : 92
     fg.d3Force('charge')?.strength(charge)
-    fg.d3Force('link')?.distance(dist)?.strength(mode === 'local' ? 0.72 : 0.58)
+    fg.d3Force('link')?.distance(dist)?.strength(mode === 'local' ? 0.62 : 0.5)
     const center = fg.d3Force('center') as { strength?: (n: number) => void } | undefined
-    center?.strength?.(mode === 'global' ? 0.06 : 0.1)
+    center?.strength?.(mode === 'global' ? 0.05 : 0.08)
 
     const fgExt = fg as ForceGraphMethods & {
       d3ReheatSimulation?: () => void
@@ -467,14 +498,22 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
           ctx.fillStyle = color
           ctx.fill()
         }}
-        linkColor={() => 'rgba(248,205,55,0.28)'}
-        linkWidth={0.85}
+        linkColor={(link) => {
+          const source = typeof link.source === 'object' ? (link.source as GraphNode).id : String(link.source)
+          const target = typeof link.target === 'object' ? (link.target as GraphNode).id : String(link.target)
+          return source === focusId || target === focusId ? 'rgba(244,244,240,0.34)' : 'rgba(246,201,69,0.16)'
+        }}
+        linkWidth={(link) => {
+          const source = typeof link.source === 'object' ? (link.source as GraphNode).id : String(link.source)
+          const target = typeof link.target === 'object' ? (link.target as GraphNode).id : String(link.target)
+          return source === focusId || target === focusId ? 1.25 : 0.75
+        }}
         linkDirectionalArrowLength={mode === 'local' ? 3.2 : 0}
         linkDirectionalArrowRelPos={1}
         linkDirectionalParticles={mode === 'local' && focusId && liveAnimate ? 1 : 0}
         linkDirectionalParticleSpeed={0.0028}
         linkDirectionalParticleWidth={1.35}
-        linkDirectionalParticleColor={() => OBSIDIAN_COLORS.root}
+        linkDirectionalParticleColor={() => NODE_COLORS.root}
         cooldownTicks={lowPower ? 45 : mode === 'local' ? 80 : 90}
         d3AlphaDecay={lowPower ? 0.055 : 0.035}
         d3VelocityDecay={0.48}

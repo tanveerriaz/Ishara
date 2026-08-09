@@ -1,16 +1,15 @@
 :root {
-  /* Wasp / Obsidian gold-on-charcoal */
   --bg: #191919;
   --bg-panel: #242424;
   --bg-elevated: #2a2a2a;
+  --bg-deep: #212121;
   --ink: #faf2d6;
   --muted: #bdae93;
   --line: #3d3d3d;
   --line-gold: #f8c537;
-  /* Match Obsidian graph groups exactly */
-  --word: #c95e27;
-  --root: #f8cd37;
-  --surah: #ffbf00;
+  --word: #e15a2b;
+  --root: #f6c945;
+  --surah: #3fa7d6;
   --accent: #f8cd37;
   --accent-soft: #e8d49a;
   --danger: #c45c5c;
@@ -34,9 +33,10 @@ body,
 
 body {
   font-family: var(--font-ui);
-  background: radial-gradient(ellipse at top, #2a2a2a 0%, var(--bg) 55%);
+  background: var(--bg);
   color: var(--ink);
   -webkit-font-smoothing: antialiased;
+  overscroll-behavior: none;
 }
 
 a {
@@ -68,9 +68,10 @@ a:focus-visible {
   gap: 0.75rem;
   align-items: center;
   justify-content: space-between;
-  padding: 0.75rem 1rem;
-  border-bottom: 1px solid color-mix(in srgb, var(--line-gold) 55%, var(--line));
-  background: color-mix(in srgb, var(--bg-panel) 94%, transparent);
+  padding: 0.65rem 0.9rem;
+  min-height: 56px;
+  border-bottom: 1px solid color-mix(in srgb, var(--line-gold) 30%, var(--line));
+  background: color-mix(in srgb, var(--bg-panel) 96%, transparent);
   backdrop-filter: blur(8px);
   z-index: 2;
 }
@@ -99,11 +100,12 @@ a:focus-visible {
 
 .header-actions a,
 .header-actions button {
-  border: 1px solid color-mix(in srgb, var(--line-gold) 40%, var(--line));
+  min-height: 40px;
+  border: 1px solid var(--line);
   background: var(--bg-elevated);
   color: var(--ink);
-  border-radius: 8px;
-  padding: 0.4rem 0.7rem;
+  border-radius: 6px;
+  padding: 0 0.85rem;
   text-decoration: none;
   cursor: pointer;
   font-size: 0.85rem;
@@ -111,8 +113,9 @@ a:focus-visible {
 
 .header-actions a:hover,
 .header-actions button:hover {
-  border-color: var(--accent);
-  color: var(--accent);
+  border-color: var(--muted);
+  background: #323232;
+  color: var(--ink);
 }
 
 .header-actions button.active {
@@ -194,7 +197,7 @@ button.linkish.inline {
   min-height: 0;
   min-width: 0;
   background:
-    radial-gradient(circle at 50% 40%, color-mix(in srgb, var(--accent) 10%, transparent), transparent 50%),
+    radial-gradient(circle at 50% 44%, color-mix(in srgb, var(--accent) 7%, transparent), transparent 56%),
     var(--bg);
 }
 
@@ -311,18 +314,20 @@ button.linkish.inline {
 
 .search-wrap input {
   width: 100%;
-  padding: 0.7rem 0.85rem;
-  border-radius: 6px;
-  border: 1px solid color-mix(in srgb, var(--line-gold) 45%, var(--line));
-  background: color-mix(in srgb, var(--bg-panel) 94%, transparent);
+  height: 48px;
+  padding: 0 1rem;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--bg-elevated) 92%, transparent);
   color: var(--ink);
   outline: none;
-  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 8%, transparent);
+  box-shadow: none;
+  backdrop-filter: blur(8px);
 }
 
 .search-wrap input:focus {
-  border-color: var(--accent);
-  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 35%, transparent);
+  border-color: color-mix(in srgb, var(--accent) 62%, var(--line));
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--accent) 8%, transparent);
 }
 
 .search-wrap input::placeholder {
@@ -335,9 +340,11 @@ button.linkish.inline {
   list-style: none;
   max-height: 240px;
   overflow: auto;
-  border-radius: 6px;
+  border-radius: 8px;
   border: 1px solid var(--line);
-  background: var(--bg-panel);
+  background: color-mix(in srgb, var(--bg-panel) 97%, transparent);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(10px);
 }
 
 .results li button {
@@ -346,7 +353,7 @@ button.linkish.inline {
   border: 0;
   background: transparent;
   color: var(--ink);
-  padding: 0.55rem 0.75rem;
+  padding: 0.7rem 0.85rem;
   cursor: pointer;
   display: flex;
   gap: 0.5rem;
@@ -355,14 +362,16 @@ button.linkish.inline {
 
 .results li button:hover,
 .results li button:focus {
-  background: var(--bg-elevated);
+  background: color-mix(in srgb, var(--accent) 7%, transparent);
 }
 
 .badge {
-  font-size: 0.7rem;
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  font-weight: 500;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
-  padding: 0.1rem 0.35rem;
+  letter-spacing: 0.09em;
+  padding: 0.2rem 0.45rem;
   border-radius: 4px;
   color: #111;
   flex-shrink: 0;
@@ -385,12 +394,15 @@ button.linkish.inline {
 
 .legend {
   position: absolute;
-  bottom: 0.75rem;
-  left: 0.75rem;
+  bottom: 1rem;
+  left: 1.1rem;
   display: flex;
-  gap: 0.75rem;
+  gap: 1.1rem;
   flex-wrap: wrap;
-  font-size: 0.75rem;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
   color: var(--muted);
   z-index: 2;
   pointer-events: none;
@@ -398,10 +410,10 @@ button.linkish.inline {
 
 .legend i {
   display: inline-block;
-  width: 0.6rem;
-  height: 0.6rem;
+  width: 0.56rem;
+  height: 0.56rem;
   border-radius: 50%;
-  margin-right: 0.3rem;
+  margin-right: 0.42rem;
   vertical-align: middle;
 }
 
@@ -409,9 +421,11 @@ button.linkish.inline {
   min-height: 0;
   overflow: auto;
   background: var(--bg-panel);
-  padding: 0.85rem 1rem 2rem;
+  padding: 0.95rem 1rem 2rem;
   border-left: 4px solid var(--word);
   scrollbar-gutter: stable;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
 }
 
 .main--stacked .note-pane {
@@ -445,9 +459,9 @@ button.linkish.inline {
 
 .note-pane h1 {
   font-family: var(--font);
-  font-size: 1.35rem;
+  font-size: 1.55rem;
   margin: 0;
-  font-weight: 600;
+  font-weight: 400;
   color: var(--ink);
   line-height: 1.3;
 }
@@ -460,9 +474,9 @@ button.linkish.inline {
 }
 
 .note-summary {
-  margin: 0.75rem 0 1.25rem;
-  padding: 0.85rem 0.9rem;
-  border: 1px solid color-mix(in srgb, var(--line-gold) 35%, var(--line));
+  margin: 0.9rem 0 1.35rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--line);
   border-radius: 6px;
   background: var(--bg-elevated);
 }
@@ -524,10 +538,12 @@ button.linkish {
 
 .verse-card {
   margin: 0 0 1rem;
-  padding: 0.9rem;
+  padding: 0;
   border-radius: 6px;
-  border: 1px solid color-mix(in srgb, var(--word) 42%, var(--line));
-  background: color-mix(in srgb, var(--bg) 55%, var(--bg-elevated));
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--word);
+  background: var(--bg-elevated);
+  overflow: hidden;
 }
 
 .verse-ref {
@@ -535,9 +551,11 @@ button.linkish {
   justify-content: space-between;
   gap: 0.5rem;
   align-items: baseline;
-  margin-bottom: 0.55rem;
+  margin-bottom: 0;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--line);
   font-weight: 600;
-  color: var(--accent-soft);
+  color: var(--ink);
   font-size: 0.92rem;
 }
 
@@ -550,10 +568,9 @@ button.linkish {
   display: grid;
   grid-template-columns: 1fr;
   gap: 0.5rem;
-  margin: 0 0 0.7rem;
-  padding: 0.65rem 0;
-  border-top: 1px solid color-mix(in srgb, var(--word) 44%, var(--line));
-  border-bottom: 1px solid color-mix(in srgb, var(--word) 44%, var(--line));
+  margin: 0;
+  padding: 0.85rem 1rem 0.25rem;
+  border: 0;
 }
 
 .verse-evidence div {
@@ -567,7 +584,7 @@ button.linkish {
   color: var(--muted);
   font-family: var(--font-mono);
   font-size: 0.68rem;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
 }
 
@@ -579,12 +596,12 @@ button.linkish {
 
 .verse-card .arabic {
   font-family: var(--font-ar);
-  font-size: 1.35rem;
-  line-height: 1.95;
+  font-size: 1.45rem;
+  line-height: 2.05;
   text-align: right;
-  margin: 0 0 0.65rem;
-  padding: 0.55rem 0.65rem;
-  background: var(--bg-elevated);
+  margin: 0.8rem 1rem;
+  padding: 0.9rem 1rem;
+  background: var(--bg-deep);
   border-radius: 6px;
   border: 1px solid var(--line);
 }
@@ -610,14 +627,14 @@ button.linkish {
 }
 
 .verse-word {
-  margin: 0 0 0.55rem;
+  margin: 0 1rem 0.7rem;
   font-size: 0.88rem;
   color: var(--muted);
 }
 
 .verse-card .tr {
-  margin: 0.45rem 0 0;
-  line-height: 1.5;
+  margin: 0.75rem 1rem 0;
+  line-height: 1.65;
   font-size: 0.92rem;
 }
 
@@ -625,12 +642,16 @@ button.linkish {
   display: block;
   font-size: 0.72rem;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.11em;
   color: var(--accent);
   margin-bottom: 0.15rem;
   font-weight: 600;
   direction: ltr;
   text-align: left;
+}
+
+.verse-card .tr:last-child {
+  margin-bottom: 1rem;
 }
 
 .note-body h2 {
@@ -714,34 +735,226 @@ button.linkish {
   color: var(--muted);
 }
 
-@media (max-width: 620px) {
+@media (max-width: 860px) {
+  .app {
+    grid-template-rows: auto minmax(0, 1fr);
+    height: 100dvh;
+    overflow: hidden;
+  }
+
   .header {
     align-items: flex-start;
+    gap: 0.8rem;
+    padding: calc(0.65rem + env(safe-area-inset-top)) 0.9rem 0.75rem;
+    border-bottom-color: color-mix(in srgb, var(--line-gold) 28%, var(--line));
+  }
+
+  .brand {
+    width: 100%;
+    font-size: 1.7rem;
+    line-height: 1.05;
   }
 
   .brand span {
     display: block;
-    margin: 0.2rem 0 0;
+    margin: 0.45rem 0 0;
+    font-size: 0.8rem;
+    line-height: 1.35;
   }
 
   .header-actions {
     width: 100%;
+    flex-wrap: nowrap;
+    gap: 0.45rem;
+    overflow-x: auto;
+    padding-bottom: 0.05rem;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .header-actions::-webkit-scrollbar {
+    display: none;
   }
 
   .header-actions button {
     min-height: 44px;
+    flex: 0 0 auto;
+    border-radius: 12px;
+    padding: 0 1rem;
+    font-size: 0.94rem;
+    background: color-mix(in srgb, var(--bg-panel) 78%, var(--bg));
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .main--stacked {
+    grid-template-rows: minmax(250px, 42dvh) 18px minmax(0, 1fr);
+    min-height: 0;
+    overflow: hidden;
+    background: var(--bg);
+  }
+
+  .main--stacked .graph-host {
+    border-bottom: 1px solid color-mix(in srgb, var(--line-gold) 28%, var(--line));
   }
 
   .search-wrap {
-    top: 0.55rem;
-    left: 0.55rem;
-    right: 0.55rem;
+    top: 0.75rem;
+    left: 1rem;
+    right: 1rem;
     max-width: none;
+  }
+
+  .search-wrap input {
+    height: 48px;
+    border-radius: 14px;
+    background: color-mix(in srgb, var(--bg-elevated) 82%, transparent);
+    font-size: 1rem;
+  }
+
+  .results {
+    max-height: min(280px, 42dvh);
+    border-radius: 14px;
+  }
+
+  .legend {
+    left: 1rem;
+    right: 1rem;
+    bottom: 1rem;
+    gap: 1.2rem;
+    font-size: 0.72rem;
+  }
+
+  .resize-handle--horizontal {
+    height: 18px;
+    border-top: 0;
+    border-bottom: 0;
+    background:
+      linear-gradient(to bottom, color-mix(in srgb, var(--word) 92%, transparent), color-mix(in srgb, var(--word) 92%, transparent)) top / 100% 4px no-repeat,
+      var(--bg-panel);
+  }
+
+  .resize-handle--horizontal .resize-handle__grip {
+    width: 2.4rem;
+    height: 5px;
+    background: color-mix(in srgb, var(--accent) 72%, var(--muted));
+  }
+
+  .main--stacked .note-pane {
+    position: relative;
+    border-top: 0;
+    border-left: 0;
+    border-radius: 18px 18px 0 0;
+    margin-top: -1px;
+    padding: 1.1rem 1rem calc(2rem + env(safe-area-inset-bottom));
+    background: color-mix(in srgb, var(--bg-panel) 98%, #000);
+  }
+
+  .note-sticky {
+    top: -1.1rem;
+    margin: -1.1rem -1rem 0.9rem;
+    padding: 1rem 1rem 0.8rem;
+    background: color-mix(in srgb, var(--bg-panel) 94%, transparent);
+    backdrop-filter: blur(16px);
+    border-bottom: 1px solid color-mix(in srgb, var(--line) 80%, transparent);
+  }
+
+  .note-meta {
+    margin-bottom: 0.7rem;
+  }
+
+  .tr-toggle button {
+    min-height: 36px;
+    border-radius: 10px;
+    padding: 0 0.7rem;
+  }
+
+  .note-pane h1 {
+    font-size: 1.75rem;
+  }
+
+  .note-lemma {
+    font-size: 1.75rem;
+    text-align: right;
+  }
+
+  .note-summary,
+  .verse-card {
+    border-radius: 14px;
+  }
+
+  .note-summary {
+    padding: 1rem;
+  }
+
+  .note-surahs ul {
+    max-height: 10rem;
+  }
+
+  .verse-ref {
+    padding: 0.85rem 1rem;
+  }
+
+  .verse-evidence {
+    padding: 0.85rem 1rem 0.3rem;
   }
 
   .verse-ref,
   .verse-evidence div {
     display: grid;
     grid-template-columns: 1fr;
+  }
+
+  .verse-card .arabic {
+    margin: 0.9rem 1rem;
+    border-radius: 12px;
+    font-size: 1.55rem;
+    line-height: 2.15;
+  }
+
+  .verse-card .tr {
+    font-size: 1rem;
+  }
+
+  .footer {
+    display: none;
+  }
+}
+
+@media (max-width: 430px) {
+  .header {
+    padding-left: 0.85rem;
+    padding-right: 0.85rem;
+  }
+
+  .brand {
+    font-size: 1.45rem;
+  }
+
+  .brand span {
+    font-size: 0.76rem;
+  }
+
+  .header-actions {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    overflow: visible;
+  }
+
+  .header-actions button {
+    width: 100%;
+    min-width: 0;
+    min-height: 40px;
+    padding: 0 0.25rem;
+    font-size: 0.76rem;
+    white-space: nowrap;
+  }
+
+  .main--stacked {
+    grid-template-rows: minmax(235px, 39dvh) 18px minmax(0, 1fr);
+  }
+
+  .legend {
+    font-size: 0.66rem;
+    gap: 0.9rem;
   }
 }

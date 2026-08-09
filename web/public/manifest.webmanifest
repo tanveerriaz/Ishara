@@ -1,0 +1,31 @@
+{
+  "name": "Ishara",
+  "short_name": "Ishara",
+  "description": "Qur'anic meaning graph for words, roots, surahs, and ayahs.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#191919",
+  "theme_color": "#242424",
+  "icons": [
+    {
+      "src": "/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

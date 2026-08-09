@@ -11,7 +11,7 @@ const LS_NOTE_HEIGHT = 'ishara-note-height'
 const MIN_NOTE_PX = 160
 const MAX_NOTE_FRAC = 0.7
 const DEFAULT_NOTE_WIDTH = 380
-const DEFAULT_NOTE_HEIGHT_FRAC = 0.4
+const DEFAULT_NOTE_HEIGHT_FRAC = 0.58
 const MAX_HISTORY = 24
 
 type ViewSnap = {

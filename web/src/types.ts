@@ -7,6 +7,7 @@ export type GraphNode = {
   label: string
   title: string
   color: string
+  lemma?: string
   searchText?: string
   surahCount?: number
   ayahCount?: number
