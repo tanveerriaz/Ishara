@@ -200,6 +200,7 @@ function VerseCard({
 
 export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllVerses }: Props) {
   const paneRef = useRef<HTMLElement>(null)
+  const loadMoreRef = useRef<HTMLDivElement>(null)
   const [verseLimit, setVerseLimit] = useState(VERSE_PAGE)
   const [trMode, setTrMode] = useState<TrMode>(readTrMode)
   const [isMobile, setIsMobile] = useState(() =>
@@ -215,15 +216,30 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
   }, [])
 
   useEffect(() => {
-    if (!note || loading) return
+    if (!note?.id || loading) return
     paneRef.current?.scrollTo({ top: 0, behavior: 'smooth' })
     setVerseLimit(VERSE_PAGE)
-  }, [note?.id, loading, note])
+  }, [note?.id, loading])
 
   useEffect(() => {
-    if (!isMobile || loading || versesLoading || !note?.versesFile || note.versesLoaded) return
-    onNeedAllVerses?.()
-  }, [isMobile, loading, note?.versesFile, note?.versesLoaded, onNeedAllVerses, versesLoading])
+    const pane = paneRef.current
+    const target = loadMoreRef.current
+    if (!isMobile || loading || !note || !pane || !target) return
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (!entry?.isIntersecting) return
+        if (!note.versesLoaded && note.versesFile) {
+          if (!versesLoading) onNeedAllVerses?.()
+          return
+        }
+        setVerseLimit((limit) => Math.min(limit + VERSE_PAGE, note.verses?.length ?? limit))
+      },
+      { root: pane, rootMargin: '420px 0px', threshold: 0.01 },
+    )
+    observer.observe(target)
+    return () => observer.disconnect()
+  }, [isMobile, loading, note, onNeedAllVerses, versesLoading, verseLimit])
 
   const setTr = (mode: TrMode) => {
     setTrMode(mode)
@@ -260,8 +276,8 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
   const total = note.versesTotal ?? verses.length
   const isSurah = note.type === 'surah'
   const showVerses = note.type === 'word' || note.type === 'root' || (isSurah && verses.length > 0)
-  const visibleVerses = isMobile ? verses : verses.slice(0, verseLimit)
-  const visibleVerseCount = isMobile ? verses.length : Math.min(verseLimit, verses.length)
+  const visibleVerses = verses.slice(0, verseLimit)
+  const visibleVerseCount = Math.min(verseLimit, verses.length)
   const visibleWords = isMobile ? note.words : note.words?.slice(0, 40)
   const visibleRoots = isMobile ? note.roots : note.roots?.slice(0, 40)
   const visibleSurahs = isMobile ? note.surahs : note.surahs?.slice(0, 40)
@@ -413,6 +429,16 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
                       onNavigate={onNavigate}
                     />
                   ))}
+                  {isMobile && visibleVerseCount < total && (
+                    <div
+                      className={`verse-sentinel${versesLoading ? ' is-loading' : ''}`}
+                      ref={loadMoreRef}
+                      role="status"
+                      aria-label={versesLoading ? 'Loading more verses' : 'More verses load automatically'}
+                    >
+                      <span aria-hidden />
+                    </div>
+                  )}
                   {!isMobile && verseLimit < total && (
                     <button type="button" className="linkish verse-more" onClick={askMore}>
                       Show more verses ({total - Math.min(verseLimit, verses.length)} left)

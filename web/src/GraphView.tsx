@@ -184,15 +184,49 @@ function globalKeepIds(nodes: GraphNode[], links: GraphLink[], lowPower: boolean
   const words = nodes
     .filter((n) => n.type === 'word')
     .sort((a, b) => (degree.get(b.id) ?? 0) - (degree.get(a.id) ?? 0))
-    .slice(0, 70)
+    .slice(0, 180)
   const roots = nodes
     .filter((n) => n.type === 'root')
     .sort((a, b) => (degree.get(b.id) ?? 0) - (degree.get(a.id) ?? 0))
-    .slice(0, 45)
+    .slice(0, 100)
+  const surahs = nodes.filter((n) => n.type === 'surah')
   const keep = new Set<string>()
   for (const n of words) keep.add(n.id)
   for (const n of roots) keep.add(n.id)
+  for (const n of surahs) keep.add(n.id)
   return keep
+}
+
+function prioritizeMobileLinks(
+  links: GraphLink[],
+  degree: Map<string, number>,
+  maxLinks: number,
+): GraphLink[] {
+  const ranked = [...links].sort((a, b) => {
+    const aScore = (degree.get(a.source) ?? 0) + (degree.get(a.target) ?? 0)
+    const bScore = (degree.get(b.source) ?? 0) + (degree.get(b.target) ?? 0)
+    return bScore - aScore
+  })
+  const selected: GraphLink[] = []
+  const selectedKeys = new Set<string>()
+  const covered = new Set<string>()
+  const add = (link: GraphLink) => {
+    const key = `${link.source}\u0000${link.target}`
+    if (selectedKeys.has(key)) return
+    selectedKeys.add(key)
+    selected.push({ ...link })
+    covered.add(link.source)
+    covered.add(link.target)
+  }
+
+  for (const link of ranked) {
+    if (!covered.has(link.source) || !covered.has(link.target)) add(link)
+  }
+  for (const link of ranked) {
+    if (selected.length >= maxLinks) break
+    add(link)
+  }
+  return selected
 }
 
 function displayLabel(node: GraphNode): string {
@@ -230,6 +264,7 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
     boxes: [],
   })
   const fittedFor = useRef<string | null>(null)
+  const lastBackgroundTap = useRef<{ at: number; x: number; y: number } | null>(null)
   const [size, setSize] = useState({ w: 600, h: 500 })
   const liveAnimate = animate && !lowPower
 
@@ -293,19 +328,11 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
 
     if (mode === 'global') {
       const keep = globalKeepIds(quranNodes, graph.links, lowPower)
-      const byId = new Map(quranNodes.map((n) => [n.id, n]))
-      let links = graph.links
-        .filter((l) => keep.has(l.source) && keep.has(l.target))
-        .map((l) => ({ ...l }))
-      if (lowPower) {
-        links = links
-          .filter((l) => {
-            const a = byId.get(l.source)?.type
-            const b = byId.get(l.target)?.type
-            return a !== 'surah' && b !== 'surah'
-          })
-          .slice(0, 800)
-      }
+      const degree = degreeMap(graph.links)
+      const eligibleLinks = graph.links.filter((l) => keep.has(l.source) && keep.has(l.target))
+      const links = lowPower
+        ? prioritizeMobileLinks(eligibleLinks, degree, 1800)
+        : eligibleLinks.map((l) => ({ ...l }))
       return connectedSubgraph(
         withCachedPos(quranNodes.filter((n) => keep.has(n.id))),
         links,
@@ -314,7 +341,7 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
     }
 
     if (!focusId) return { nodes: [] as SimNode[], links: [] as GraphLink[] }
-    const maxNodes = lowPower ? 80 : 110
+    const maxNodes = lowPower ? 110 : 120
     const keep = localCluster(focusId, adj, quranNodes, maxNodes)
     return connectedSubgraph(
       withCachedPos(quranNodes.filter((n) => keep.has(n.id))),
@@ -401,11 +428,15 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
         ctx.stroke()
       }
 
+      const zoomRevealsLabel =
+        mode === 'global' && lowPower
+          ? globalScale > (node.type === 'surah' ? 0.78 : 1.42)
+          : globalScale > (mode === 'local' ? (lowPower ? 0.82 : 0.72) : 1.05)
       const showLabel =
         isFocus ||
         isHover ||
-        (!lowPower && ring <= 1) ||
-        globalScale > (mode === 'local' ? (lowPower ? 1.25 : 0.72) : 1.05)
+        (ring <= 1 && (!lowPower || globalScale > 0.34)) ||
+        zoomRevealsLabel
       if (!showLabel) return
 
       const label = displayLabel(node)
@@ -482,8 +513,32 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
     }
   }, [focusId, mode, data.nodes.length, lowPower, liveAnimate])
 
+  const onBackgroundClick = useCallback((event: MouseEvent) => {
+    const now = performance.now()
+    const x = event.offsetX
+    const y = event.offsetY
+    const last = lastBackgroundTap.current
+    lastBackgroundTap.current = { at: now, x, y }
+    if (!last || now - last.at > 340 || Math.hypot(x - last.x, y - last.y) > 42) return
+    const fg = fgRef.current as (ForceGraphMethods & {
+      screen2GraphCoords?: (screenX: number, screenY: number) => { x: number; y: number }
+    }) | undefined
+    if (!fg?.screen2GraphCoords) return
+    const point = fg.screen2GraphCoords(x, y)
+    const nextZoom = Math.min(Math.max(fg.zoom() * 1.65, 1.15), 8)
+    fg.centerAt(point.x, point.y, 360)
+    fg.zoom(nextZoom, 360)
+    lastBackgroundTap.current = null
+  }, [])
+
   return (
-    <div className="graph-pane" ref={containerRef}>
+    <div
+      className="graph-pane"
+      ref={containerRef}
+      role="application"
+      aria-label={`Meaning graph with ${data.nodes.length} nodes. Pinch or double-tap to zoom; drag to move.`}
+      data-node-count={data.nodes.length}
+    >
       {!focusId && mode === 'local' && (
         <div className="hint">Click a node (or search) — Local graph opens like Obsidian, with details on the side.</div>
       )}
@@ -497,7 +552,7 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
         nodeCanvasObjectMode={() => 'replace'}
         nodePointerAreaPaint={(node, color, ctx, globalScale) => {
           const n = node as SimNode
-          const hitR = 18 / Math.max(globalScale, 0.05)
+          const hitR = (lowPower ? 23 : 18) / Math.max(globalScale, 0.05)
           ctx.beginPath()
           ctx.arc(n.x ?? 0, n.y ?? 0, hitR, 0, 2 * Math.PI)
           ctx.fillStyle = color
@@ -525,6 +580,7 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
         warmupTicks={lowPower ? 0 : 12}
         onNodeHover={onNodeHover as never}
         onNodeClick={(node) => onSelect((node as GraphNode).id)}
+        onBackgroundClick={onBackgroundClick}
         onNodeDragEnd={(node) => {
           const n = node as SimNode
           n.__userPinned = true

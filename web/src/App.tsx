@@ -13,15 +13,19 @@ import MiniSearch from 'minisearch'
 import { GraphView } from './GraphView'
 import { NotePanel } from './NotePanel'
 import { ResizeHandle } from './ResizeHandle'
+import { TouchGuide } from './TouchGuide'
 import type { GraphData, GraphNode, NoteData, SearchDoc } from './types'
 
 const STACK_MQ = '(max-width: 860px)'
 const LS_NOTE_WIDTH = 'ishara-note-width'
-const LS_NOTE_HEIGHT = 'ishara-note-height'
+const LS_NOTE_HEIGHT = 'ishara-note-height-v8'
+const LS_TOUCH_GUIDE = 'ishara-touch-guide-v2'
 const MIN_NOTE_PX = 160
 const MAX_NOTE_FRAC = 0.82
 const DEFAULT_NOTE_WIDTH = 380
-const DEFAULT_NOTE_HEIGHT_FRAC = 0.72
+const DEFAULT_NOTE_HEIGHT_FRAC = 0.64
+const MOBILE_SHEET_PEEK_PX = 52
+const MOBILE_SHEET_TOP_GAP_PX = 104
 const MAX_HISTORY = 24
 
 type ViewSnap = {
@@ -59,6 +63,14 @@ function clampNoteSize(size: number, containerSize: number, minFrac = 0): number
   const max = Math.min(containerSize * MAX_NOTE_FRAC, containerSize - containerSize * 0.3)
   const min = Math.max(MIN_NOTE_PX, containerSize * minFrac)
   return Math.round(Math.min(Math.max(size, min), Math.max(min, max)))
+}
+
+function mobileSheetMax(containerHeight: number): number {
+  return Math.max(MOBILE_SHEET_PEEK_PX, Math.round(containerHeight - MOBILE_SHEET_TOP_GAP_PX))
+}
+
+function clampMobileSheet(size: number, containerHeight: number): number {
+  return Math.round(Math.min(Math.max(size, MOBILE_SHEET_PEEK_PX), mobileSheetMax(containerHeight)))
 }
 
 function normalizeGraph(g: GraphData): GraphData {
@@ -110,13 +122,15 @@ export default function App() {
   const [query, setQuery] = useState('')
   const deferredQuery = useDeferredValue(query)
   const [lowPower, setLowPower] = useState(detectLowPower)
-  const [mode, setMode] = useState<'local' | 'global'>(() => (detectLowPower() ? 'local' : 'global'))
+  const [mode, setMode] = useState<'local' | 'global'>('global')
   const [resultsOpen, setResultsOpen] = useState(false)
   const [loadError, setLoadError] = useState<string | null>(null)
   const [graphError, setGraphError] = useState<string | null>(null)
   const [graphLoading, setGraphLoading] = useState(false)
   const [canGoBack, setCanGoBack] = useState(false)
   const [sheetOpen, setSheetOpen] = useState(false)
+  const [sheetDragging, setSheetDragging] = useState(false)
+  const [touchGuideVisible, setTouchGuideVisible] = useState(false)
   const [stacked, setStacked] = useState(() =>
     typeof window !== 'undefined' ? window.matchMedia(STACK_MQ).matches : false,
   )
@@ -126,11 +140,22 @@ export default function App() {
     const fallback = Math.round(window.innerHeight * DEFAULT_NOTE_HEIGHT_FRAC)
     return readStoredPx(LS_NOTE_HEIGHT, fallback)
   })
+  const [noteMaxHeight, setNoteMaxHeight] = useState(() =>
+    typeof window === 'undefined' ? 640 : mobileSheetMax(window.innerHeight),
+  )
   const mainRef = useRef<HTMLDivElement>(null)
   const noteWidthRef = useRef(noteWidth)
   const noteHeightRef = useRef(noteHeight)
   noteWidthRef.current = noteWidth
   noteHeightRef.current = noteHeight
+  const applyNoteWidth = useCallback((next: number) => {
+    noteWidthRef.current = next
+    setNoteWidth(next)
+  }, [])
+  const applyNoteHeight = useCallback((next: number) => {
+    noteHeightRef.current = next
+    setNoteHeight(next)
+  }, [])
   const focusIdRef = useRef(focusId)
   const modeRef = useRef(mode)
   focusIdRef.current = focusId
@@ -138,9 +163,11 @@ export default function App() {
   const historyRef = useRef<ViewSnap[]>([])
   const localGraphCache = useRef(new Map<string, GraphData>())
   const localGraphRequest = useRef(0)
+  const fullGraphRequest = useRef<Promise<GraphData | null> | null>(null)
   const initialUrlHandled = useRef(false)
   const ignoreNextGraphClick = useRef(false)
   const graphTapRef = useRef<{ x: number; y: number; moved: boolean } | null>(null)
+  const lastOpenHeightRef = useRef(noteHeight)
   const heightInitialized = useRef(
     (() => {
       try {
@@ -181,20 +208,33 @@ export default function App() {
 
     const applyClamp = () => {
       const { width, height } = el.getBoundingClientRect()
-      if (!heightInitialized.current && height > 0) {
+      if (stacked && height > 0) {
+        const max = mobileSheetMax(height)
+        setNoteMaxHeight(max)
+        if (!heightInitialized.current) {
+          heightInitialized.current = true
+          const initial = clampMobileSheet(height * DEFAULT_NOTE_HEIGHT_FRAC, height)
+          lastOpenHeightRef.current = initial
+          applyNoteHeight(sheetOpen ? initial : MOBILE_SHEET_PEEK_PX)
+        } else {
+          const next = sheetOpen ? clampMobileSheet(noteHeightRef.current, height) : MOBILE_SHEET_PEEK_PX
+          if (sheetOpen) lastOpenHeightRef.current = next
+          applyNoteHeight(next)
+        }
+      } else if (!heightInitialized.current && height > 0) {
         heightInitialized.current = true
-        setNoteHeight(clampNoteSize(height * DEFAULT_NOTE_HEIGHT_FRAC, height, stacked ? 0.16 : 0))
+        applyNoteHeight(clampNoteSize(height * DEFAULT_NOTE_HEIGHT_FRAC, height))
       } else {
-        setNoteHeight((h) => clampNoteSize(h, height, stacked ? 0.16 : 0))
+        applyNoteHeight(clampNoteSize(noteHeightRef.current, height))
       }
-      setNoteWidth((w) => clampNoteSize(w, width))
+      applyNoteWidth(clampNoteSize(noteWidthRef.current, width))
     }
 
     applyClamp()
     const ro = new ResizeObserver(applyClamp)
     ro.observe(el)
     return () => ro.disconnect()
-  }, [fullGraph, localGraph, stacked])
+  }, [applyNoteHeight, applyNoteWidth, fullGraph, localGraph, sheetOpen, stacked])
 
   const persistNoteSize = useCallback(() => {
     try {
@@ -211,21 +251,76 @@ export default function App() {
       if (!el) return
       const { width, height } = el.getBoundingClientRect()
       if (stacked) {
-        setNoteHeight((h) => clampNoteSize(h + deltaPx, height, 0.16))
+        setSheetOpen(true)
+        applyNoteHeight(clampMobileSheet(noteHeightRef.current + deltaPx, height))
       } else {
-        setNoteWidth((w) => clampNoteSize(w + deltaPx, width))
+        applyNoteWidth(clampNoteSize(noteWidthRef.current + deltaPx, width))
       }
     },
-    [stacked],
+    [applyNoteHeight, applyNoteWidth, stacked],
   )
 
-  const onNoteResizeEnd = useCallback(() => {
-    persistNoteSize()
+  const collapseSheet = useCallback(() => {
+    if (noteHeightRef.current > MOBILE_SHEET_PEEK_PX) {
+      lastOpenHeightRef.current = noteHeightRef.current
+    }
+    setSheetOpen(false)
+    applyNoteHeight(MOBILE_SHEET_PEEK_PX)
+  }, [applyNoteHeight])
+
+  const openSheet = useCallback(() => {
     const el = mainRef.current
-    if (!stacked || !sheetOpen || !el) return
+    if (!stacked || !el) return
     const { height } = el.getBoundingClientRect()
-    if (height > 0 && noteHeightRef.current <= height * 0.34) setSheetOpen(false)
-  }, [persistNoteSize, sheetOpen, stacked])
+    const readingHeight = clampMobileSheet(
+      Math.max(lastOpenHeightRef.current, height * DEFAULT_NOTE_HEIGHT_FRAC),
+      height,
+    )
+    lastOpenHeightRef.current = readingHeight
+    applyNoteHeight(readingHeight)
+    setSheetOpen(true)
+  }, [applyNoteHeight, stacked])
+
+  const onNoteResizeEnd = useCallback(() => {
+    setSheetDragging(false)
+    const el = mainRef.current
+    if (!stacked || !el) {
+      persistNoteSize()
+      return
+    }
+    const { height } = el.getBoundingClientRect()
+    const max = mobileSheetMax(height)
+    const reading = clampMobileSheet(height * DEFAULT_NOTE_HEIGHT_FRAC, height)
+    const current = noteHeightRef.current
+    const snaps = [MOBILE_SHEET_PEEK_PX, reading, max]
+    const target = snaps.reduce((best, value) =>
+      Math.abs(value - current) < Math.abs(best - current) ? value : best,
+    )
+    if (target === MOBILE_SHEET_PEEK_PX) {
+      collapseSheet()
+      return
+    }
+    setSheetOpen(true)
+    applyNoteHeight(target)
+    lastOpenHeightRef.current = target
+    window.setTimeout(persistNoteSize, 340)
+  }, [applyNoteHeight, collapseSheet, persistNoteSize, stacked])
+
+  const onNoteHandleActivate = useCallback(() => {
+    if (!stacked) return
+    if (!sheetOpen) {
+      openSheet()
+      return
+    }
+    const el = mainRef.current
+    if (!el) return
+    const { height } = el.getBoundingClientRect()
+    const max = mobileSheetMax(height)
+    const reading = clampMobileSheet(height * DEFAULT_NOTE_HEIGHT_FRAC, height)
+    const target = noteHeightRef.current > max * 0.82 ? reading : max
+    applyNoteHeight(target)
+    lastOpenHeightRef.current = target
+  }, [applyNoteHeight, openSheet, sheetOpen, stacked])
 
   useEffect(() => {
     let cancelled = false
@@ -402,24 +497,37 @@ export default function App() {
     }
   }, [])
 
-  const loadFullGraph = useCallback(async () => {
-    if (fullGraph) return fullGraph
+  const loadFullGraph = useCallback((): Promise<GraphData | null> => {
+    if (fullGraph) return Promise.resolve(fullGraph)
+    if (fullGraphRequest.current) return fullGraphRequest.current
     setGraphLoading(true)
     setGraphError(null)
-    try {
-      const r = await fetch(`${import.meta.env.BASE_URL}data/graph.json`)
-      if (!r.ok) throw new Error(`graph.json ${r.status}`)
-      const g = normalizeGraph((await r.json()) as GraphData)
-      setFullGraph(g)
-      return g
-    } catch (e) {
-      console.error(e)
-      setGraphError(e instanceof Error ? e.message : 'Failed to load full graph')
-      return null
-    } finally {
-      setGraphLoading(false)
-    }
+    const request = fetch(`${import.meta.env.BASE_URL}data/graph.json`)
+      .then((r) => {
+        if (!r.ok) throw new Error(`graph.json ${r.status}`)
+        return r.json() as Promise<GraphData>
+      })
+      .then((payload) => {
+        const g = normalizeGraph(payload)
+        setFullGraph(g)
+        return g
+      })
+      .catch((e: unknown) => {
+        console.error(e)
+        setGraphError(e instanceof Error ? e.message : 'Failed to load full graph')
+        return null
+      })
+      .finally(() => {
+        fullGraphRequest.current = null
+        setGraphLoading(false)
+      })
+    fullGraphRequest.current = request
+    return request
   }, [fullGraph])
+
+  useEffect(() => {
+    void loadFullGraph()
+  }, [loadFullGraph])
 
   const selectId = useCallback(
     async (id: string, opts?: { skipHistory?: boolean; mode?: 'local' | 'global'; openSheet?: boolean }) => {
@@ -433,11 +541,11 @@ export default function App() {
       setMode(nextMode)
       setResultsOpen(false)
       setQuery('')
-      if (stacked && (opts?.openSheet ?? !opts?.skipHistory)) setSheetOpen(true)
+      if (stacked && (opts?.openSheet ?? !opts?.skipHistory)) openSheet()
       syncUrl(id, byId.get(id)?.slug)
       await Promise.all([loadNote(id), nextMode === 'local' ? loadLocalGraph(id) : Promise.resolve()])
     },
-    [byId, loadLocalGraph, loadNote, pushHistory, stacked, syncUrl],
+    [byId, loadLocalGraph, loadNote, openSheet, pushHistory, stacked, syncUrl],
   )
 
   // Deep links work as soon as the compact search index is ready.
@@ -457,7 +565,7 @@ export default function App() {
 
   const goBack = useCallback(async () => {
     if (stacked && sheetOpen) {
-      setSheetOpen(false)
+      collapseSheet()
       return
     }
     const prev = historyRef.current.pop()
@@ -472,14 +580,14 @@ export default function App() {
       setNoteLoading(false)
       syncUrl(null)
     }
-  }, [selectId, sheetOpen, stacked, syncUrl])
+  }, [collapseSheet, selectId, sheetOpen, stacked, syncUrl])
 
   const setExploreAll = useCallback(() => {
     if (modeRef.current !== 'global') pushHistory()
-    setSheetOpen(false)
+    collapseSheet()
     setMode('global')
     void loadFullGraph()
-  }, [loadFullGraph, pushHistory])
+  }, [collapseSheet, loadFullGraph, pushHistory])
 
   const setLocalMode = useCallback(() => {
     if (modeRef.current !== 'local') pushHistory()
@@ -492,12 +600,25 @@ export default function App() {
     return Boolean(el?.closest('.search-wrap'))
   }
 
+  const displayGraph = mode === 'global' ? fullGraph : localGraph
+  const nodeCount = fullGraph?.meta.nodeCount ?? searchDocs.length
+  const mobileSheetVisible = stacked && sheetOpen && (noteLoading || !!note)
+  const mobileSheetReady = stacked && (noteLoading || !!note)
+
   const onGraphPointerDownCapture = useCallback(
     (e: ReactPointerEvent<HTMLDivElement>) => {
+      if (touchGuideVisible) {
+        setTouchGuideVisible(false)
+        try {
+          localStorage.setItem(LS_TOUCH_GUIDE, '1')
+        } catch {
+          /* ignore */
+        }
+      }
       if (!stacked || !sheetOpen || shouldIgnoreGraphTap(e.target)) return
       graphTapRef.current = { x: e.clientX, y: e.clientY, moved: false }
     },
-    [sheetOpen, stacked],
+    [sheetOpen, stacked, touchGuideVisible],
   )
 
   const onGraphPointerMoveCapture = useCallback((e: ReactPointerEvent<HTMLDivElement>) => {
@@ -516,10 +637,32 @@ export default function App() {
         ignoreNextGraphClick.current = false
         return
       }
-      setSheetOpen(false)
+      collapseSheet()
     },
-    [sheetOpen, stacked],
+    [collapseSheet, sheetOpen, stacked],
   )
+
+  useEffect(() => {
+    if (!stacked || !displayGraph || mobileSheetVisible) return
+    try {
+      if (localStorage.getItem(LS_TOUCH_GUIDE) === '1') return
+    } catch {
+      /* show the guide when storage is unavailable */
+    }
+    const showTimer = window.setTimeout(() => setTouchGuideVisible(true), 550)
+    const hideTimer = window.setTimeout(() => {
+      setTouchGuideVisible(false)
+      try {
+        localStorage.setItem(LS_TOUCH_GUIDE, '1')
+      } catch {
+        /* ignore */
+      }
+    }, 7200)
+    return () => {
+      window.clearTimeout(showTimer)
+      window.clearTimeout(hideTimer)
+    }
+  }, [displayGraph, mobileSheetVisible, stacked])
 
   const toggleAnimate = useCallback(() => {
     setAnimate((a) => {
@@ -544,10 +687,6 @@ export default function App() {
   if (loadError) {
     return <div className="loading">Could not load graph: {loadError}</div>
   }
-
-  const displayGraph = mode === 'global' ? fullGraph : localGraph
-  const nodeCount = fullGraph?.meta.nodeCount ?? searchDocs.length
-  const mobileSheetVisible = stacked && sheetOpen && (noteLoading || !!note)
 
   return (
     <div className="app">
@@ -584,12 +723,13 @@ export default function App() {
       </header>
 
       <div
-        className={`main${stacked ? ' main--stacked' : ' main--side'}${mobileSheetVisible ? ' main--sheet-open' : ''}`}
+        className={`main${stacked ? ' main--stacked' : ' main--side'}${mobileSheetReady ? ' main--sheet-ready' : ''}${mobileSheetVisible ? ' main--sheet-open' : ''}${sheetDragging ? ' main--sheet-dragging' : ''}`}
         ref={mainRef}
         style={
           {
             '--note-width': `${noteWidth}px`,
             '--note-height': `${noteHeight}px`,
+            '--note-max-height': `${noteMaxHeight}px`,
           } as CSSProperties
         }
       >
@@ -651,11 +791,15 @@ export default function App() {
               </div>
             </div>
           )}
+          {touchGuideVisible && <TouchGuide />}
         </div>
         <ResizeHandle
           orientation={stacked ? 'horizontal' : 'vertical'}
           onResize={onNoteResize}
+          onResizeStart={() => setSheetDragging(true)}
           onResizeEnd={onNoteResizeEnd}
+          onActivate={onNoteHandleActivate}
+          expanded={mobileSheetVisible}
         />
         <NotePanel
           note={note}
