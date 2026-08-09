@@ -505,10 +505,37 @@ button.linkish.inline {
 }
 
 .note-surahs ul {
-  margin: 0.35rem 0 0;
-  padding-left: 1rem;
-  max-height: 8rem;
-  overflow: auto;
+  margin: 0.45rem 0 0;
+  padding: 0.45rem 0.7rem 0.45rem 1.25rem;
+  max-height: 8.25rem;
+  overflow-y: scroll;
+  border: 1px solid color-mix(in srgb, var(--line) 82%, transparent);
+  border-radius: 8px;
+  background:
+    linear-gradient(to bottom, transparent, var(--bg-elevated)) bottom / 100% 1.25rem no-repeat,
+    color-mix(in srgb, var(--bg-deep) 55%, transparent);
+  scrollbar-color: var(--accent) color-mix(in srgb, var(--line) 65%, transparent);
+  scrollbar-gutter: stable;
+  scrollbar-width: thin;
+}
+
+.note-surahs ul::-webkit-scrollbar {
+  width: 10px;
+}
+
+.note-surahs ul::-webkit-scrollbar-track {
+  background: color-mix(in srgb, var(--line) 52%, transparent);
+  border-radius: 999px;
+}
+
+.note-surahs ul::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border: 2px solid var(--bg-elevated);
+  border-radius: 999px;
+}
+
+.note-surahs li {
+  padding: 0.08rem 0;
 }
 
 button.linkish {
