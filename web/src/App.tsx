@@ -106,6 +106,7 @@ export default function App() {
   const [graphError, setGraphError] = useState<string | null>(null)
   const [graphLoading, setGraphLoading] = useState(false)
   const [canGoBack, setCanGoBack] = useState(false)
+  const [sheetOpen, setSheetOpen] = useState(false)
   const [stacked, setStacked] = useState(() =>
     typeof window !== 'undefined' ? window.matchMedia(STACK_MQ).matches : false,
   )
@@ -170,9 +171,9 @@ export default function App() {
       const { width, height } = el.getBoundingClientRect()
       if (!heightInitialized.current && height > 0) {
         heightInitialized.current = true
-        setNoteHeight(clampNoteSize(height * DEFAULT_NOTE_HEIGHT_FRAC, height, stacked ? 0.58 : 0))
+        setNoteHeight(clampNoteSize(height * DEFAULT_NOTE_HEIGHT_FRAC, height, stacked ? 0.32 : 0))
       } else {
-        setNoteHeight((h) => clampNoteSize(h, height, stacked ? 0.58 : 0))
+        setNoteHeight((h) => clampNoteSize(h, height, stacked ? 0.32 : 0))
       }
       setNoteWidth((w) => clampNoteSize(w, width))
     }
@@ -198,7 +199,7 @@ export default function App() {
       if (!el) return
       const { width, height } = el.getBoundingClientRect()
       if (stacked) {
-        setNoteHeight((h) => clampNoteSize(h + deltaPx, height, 0.58))
+        setNoteHeight((h) => clampNoteSize(h + deltaPx, height, 0.32))
       } else {
         setNoteWidth((w) => clampNoteSize(w + deltaPx, width))
       }
@@ -401,7 +402,7 @@ export default function App() {
   }, [fullGraph])
 
   const selectId = useCallback(
-    async (id: string, opts?: { skipHistory?: boolean; mode?: 'local' | 'global' }) => {
+    async (id: string, opts?: { skipHistory?: boolean; mode?: 'local' | 'global'; openSheet?: boolean }) => {
       const nextMode = opts?.mode ?? 'local'
       if (!opts?.skipHistory) {
         const cur = focusIdRef.current
@@ -412,10 +413,11 @@ export default function App() {
       setMode(nextMode)
       setResultsOpen(false)
       setQuery('')
+      if (stacked && (opts?.openSheet ?? !opts?.skipHistory)) setSheetOpen(true)
       syncUrl(id, byId.get(id)?.slug)
       await Promise.all([loadNote(id), nextMode === 'local' ? loadLocalGraph(id) : Promise.resolve()])
     },
-    [byId, loadLocalGraph, loadNote, pushHistory, syncUrl],
+    [byId, loadLocalGraph, loadNote, pushHistory, stacked, syncUrl],
   )
 
   // Deep links work as soon as the compact search index is ready.
@@ -434,6 +436,10 @@ export default function App() {
   }, [searchDocs.length, fullGraph])
 
   const goBack = useCallback(async () => {
+    if (stacked && sheetOpen) {
+      setSheetOpen(false)
+      return
+    }
     const prev = historyRef.current.pop()
     setCanGoBack(historyRef.current.length > 0)
     if (!prev) return
@@ -446,10 +452,11 @@ export default function App() {
       setNoteLoading(false)
       syncUrl(null)
     }
-  }, [selectId, syncUrl])
+  }, [selectId, sheetOpen, stacked, syncUrl])
 
   const setExploreAll = useCallback(() => {
     if (modeRef.current !== 'global') pushHistory()
+    setSheetOpen(false)
     setMode('global')
     void loadFullGraph()
   }, [loadFullGraph, pushHistory])
@@ -486,6 +493,7 @@ export default function App() {
 
   const displayGraph = mode === 'global' ? fullGraph : localGraph
   const nodeCount = fullGraph?.meta.nodeCount ?? searchDocs.length
+  const mobileSheetVisible = stacked && sheetOpen && (noteLoading || !!note)
 
   return (
     <div className="app">
@@ -495,7 +503,13 @@ export default function App() {
           <span>Qur’anic meaning graph · {nodeCount.toLocaleString()} words/roots/surahs</span>
         </div>
         <div className="header-actions">
-          <button type="button" className="back-btn" disabled={!canGoBack} onClick={() => void goBack()} title="Go back">
+          <button
+            type="button"
+            className="back-btn"
+            disabled={!canGoBack && !mobileSheetVisible}
+            onClick={() => void goBack()}
+            title={mobileSheetVisible ? 'Close details' : 'Go back'}
+          >
             ← Back
           </button>
           <button
@@ -516,7 +530,7 @@ export default function App() {
       </header>
 
       <div
-        className={`main${stacked ? ' main--stacked' : ' main--side'}`}
+        className={`main${stacked ? ' main--stacked' : ' main--side'}${mobileSheetVisible ? ' main--sheet-open' : ''}`}
         ref={mainRef}
         style={
           {
@@ -557,7 +571,7 @@ export default function App() {
               mode={mode}
               lowPower={lowPower}
               animate={animate}
-              onSelect={(id) => void selectId(id)}
+              onSelect={(id) => void selectId(id, { openSheet: true })}
             />
           ) : (
             <div className="graph-pane graph-loading">
