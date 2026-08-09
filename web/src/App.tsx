@@ -1,16 +1,16 @@
-import { useCallback, useEffect, useMemo, useRef, useState, type CSSProperties } from 'react'
+import { useCallback, useDeferredValue, useEffect, useMemo, useRef, useState, type CSSProperties } from 'react'
 import MiniSearch from 'minisearch'
 import { GraphView } from './GraphView'
 import { NotePanel } from './NotePanel'
 import { ResizeHandle } from './ResizeHandle'
-import type { GraphData, GraphNode, NoteData } from './types'
+import type { GraphData, GraphNode, NoteData, SearchDoc } from './types'
 
 const STACK_MQ = '(max-width: 860px)'
 const LS_NOTE_WIDTH = 'ishara-note-width'
 const LS_NOTE_HEIGHT = 'ishara-note-height'
 const MIN_NOTE_PX = 160
 const MAX_NOTE_FRAC = 0.7
-const DEFAULT_NOTE_WIDTH = 340
+const DEFAULT_NOTE_WIDTH = 380
 const DEFAULT_NOTE_HEIGHT_FRAC = 0.4
 const MAX_HISTORY = 24
 
@@ -50,16 +50,60 @@ function clampNoteSize(size: number, containerSize: number): number {
   return Math.round(Math.min(Math.max(size, MIN_NOTE_PX), Math.max(MIN_NOTE_PX, max)))
 }
 
+function normalizeGraph(g: GraphData): GraphData {
+  const seen = new Set<string>()
+  const nodes = g.nodes.filter((n) => {
+    if (!isQuranNode(n)) return false
+    if (seen.has(n.id)) return false
+    seen.add(n.id)
+    return true
+  })
+  const ids = new Set(nodes.map((n) => n.id))
+  const links = g.links.filter((l) => ids.has(l.source) && ids.has(l.target))
+  return {
+    ...g,
+    nodes,
+    links,
+    meta: { ...g.meta, nodeCount: nodes.length, linkCount: links.length },
+  }
+}
+
+function querySurahIntent(query: string): number | null {
+  const q = query.trim().toLowerCase()
+  const ayah = q.match(/\b(?:ayah|ayat|aya|verse)?\s*0*(\d{1,3})\s*:\s*\d{1,3}\b/)
+  if (ayah) return Number(ayah[1])
+  const surah = q.match(/\b(?:surah|sura|sude|chapter)\s+0*(\d{1,3})\b/)
+  if (surah) return Number(surah[1])
+  return null
+}
+
+function rankResults(results: SearchDoc[], query: string, docs: SearchDoc[]): SearchDoc[] {
+  const surahIntent = querySurahIntent(query)
+  if (!surahIntent) return results
+  const exact = docs.find((d) => d.type === 'surah' && d.slug.startsWith(String(surahIntent).padStart(3, '0')))
+  const withExact = exact ? [exact, ...results.filter((r) => r.id !== exact.id)] : results
+  return withExact.sort((a, b) => {
+    const aExact = a.type === 'surah' && a.slug.startsWith(String(surahIntent).padStart(3, '0')) ? 0 : 1
+    const bExact = b.type === 'surah' && b.slug.startsWith(String(surahIntent).padStart(3, '0')) ? 0 : 1
+    return aExact - bExact
+  })
+}
+
 export default function App() {
-  const [graph, setGraph] = useState<GraphData | null>(null)
+  const [fullGraph, setFullGraph] = useState<GraphData | null>(null)
+  const [localGraph, setLocalGraph] = useState<GraphData | null>(null)
+  const [searchDocs, setSearchDocs] = useState<SearchDoc[]>([])
   const [focusId, setFocusId] = useState<string | null>(null)
   const [note, setNote] = useState<NoteData | null>(null)
   const [noteLoading, setNoteLoading] = useState(false)
   const [query, setQuery] = useState('')
+  const deferredQuery = useDeferredValue(query)
   const [lowPower, setLowPower] = useState(detectLowPower)
   const [mode, setMode] = useState<'local' | 'global'>(() => (detectLowPower() ? 'local' : 'global'))
   const [resultsOpen, setResultsOpen] = useState(false)
   const [loadError, setLoadError] = useState<string | null>(null)
+  const [graphError, setGraphError] = useState<string | null>(null)
+  const [graphLoading, setGraphLoading] = useState(false)
   const [canGoBack, setCanGoBack] = useState(false)
   const [stacked, setStacked] = useState(() =>
     typeof window !== 'undefined' ? window.matchMedia(STACK_MQ).matches : false,
@@ -80,6 +124,9 @@ export default function App() {
   focusIdRef.current = focusId
   modeRef.current = mode
   const historyRef = useRef<ViewSnap[]>([])
+  const localGraphCache = useRef(new Map<string, GraphData>())
+  const localGraphRequest = useRef(0)
+  const initialUrlHandled = useRef(false)
   const heightInitialized = useRef(
     (() => {
       try {
@@ -133,7 +180,7 @@ export default function App() {
     const ro = new ResizeObserver(applyClamp)
     ro.observe(el)
     return () => ro.disconnect()
-  }, [graph])
+  }, [fullGraph, localGraph])
 
   const persistNoteSize = useCallback(() => {
     try {
@@ -159,46 +206,48 @@ export default function App() {
   )
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}data/graph.json`)
+    let cancelled = false
+
+    fetch(`${import.meta.env.BASE_URL}data/search.json`)
       .then((r) => {
-        if (!r.ok) throw new Error(`graph.json ${r.status}`)
+        if (!r.ok) throw new Error(`search.json ${r.status}`)
         return r.json()
       })
-      .then((g: GraphData) => {
-        const seen = new Set<string>()
-        const nodes = g.nodes.filter((n) => {
-          if (!isQuranNode(n)) return false
-          if (seen.has(n.id)) return false
-          seen.add(n.id)
-          return true
-        })
-        const ids = new Set(nodes.map((n) => n.id))
-        const links = g.links.filter((l) => ids.has(l.source) && ids.has(l.target))
-        setGraph({
-          ...g,
-          nodes,
-          links,
-          meta: { ...g.meta, nodeCount: nodes.length, linkCount: links.length },
-        })
+      .then((docs: SearchDoc[]) => {
+        if (cancelled) return
+        setSearchDocs(docs.filter((n) => isQuranNode(n as GraphNode)))
       })
       .catch((e: unknown) => {
         console.error(e)
-        setLoadError(e instanceof Error ? e.message : 'Failed to load graph')
+        if (!cancelled) setLoadError(e instanceof Error ? e.message : 'Failed to load search index')
       })
+    return () => {
+      cancelled = true
+    }
   }, [])
 
   const mini = useMemo(() => {
-    if (!graph) return null
-    const ms = new MiniSearch<GraphNode>({
+    const docs = searchDocs.length
+      ? searchDocs
+      : fullGraph?.nodes.map(({ id, slug, type, label, title, searchText }) => ({
+          id,
+          slug,
+          type,
+          label,
+          title,
+          searchText: searchText ?? '',
+        })) ?? []
+    if (!docs.length) return null
+    const ms = new MiniSearch<SearchDoc>({
       fields: ['searchText', 'label', 'title', 'slug'],
       storeFields: ['id', 'slug', 'type', 'label', 'title'],
       searchOptions: { boost: { label: 3, slug: 2 }, fuzzy: 0.15, prefix: true },
     })
     try {
-      ms.addAll(graph.nodes)
+      ms.addAll(docs)
     } catch (e) {
       console.error(e)
-      for (const n of graph.nodes) {
+      for (const n of docs) {
         try {
           ms.add(n)
         } catch {
@@ -207,26 +256,30 @@ export default function App() {
       }
     }
     return ms
-  }, [graph])
+  }, [fullGraph, searchDocs])
 
   const results = useMemo(() => {
-    if (!mini || !query.trim()) return []
-    return mini.search(query.trim()).slice(0, 12) as unknown as GraphNode[]
-  }, [mini, query])
+    if (!mini || !deferredQuery.trim()) return []
+    return rankResults(mini.search(deferredQuery.trim()).slice(0, 12) as unknown as SearchDoc[], deferredQuery, searchDocs)
+  }, [mini, deferredQuery, searchDocs])
 
   const byId = useMemo(() => {
-    const m = new Map<string, GraphNode>()
-    if (!graph) return m
-    for (const n of graph.nodes) m.set(n.id, n)
+    const m = new Map<string, SearchDoc | GraphNode>()
+    for (const n of searchDocs) m.set(n.id, n)
+    if (fullGraph) {
+      for (const n of fullGraph.nodes) m.set(n.id, n)
+    }
     return m
-  }, [graph])
+  }, [fullGraph, searchDocs])
 
   const bySlug = useMemo(() => {
     const m = new Map<string, string>()
-    if (!graph) return m
-    for (const n of graph.nodes) m.set(n.slug, n.id)
+    for (const n of searchDocs) m.set(n.slug, n.id)
+    if (fullGraph) {
+      for (const n of fullGraph.nodes) m.set(n.slug, n.id)
+    }
     return m
-  }, [graph])
+  }, [fullGraph, searchDocs])
 
   const [animate, setAnimate] = useState(() => {
     try {
@@ -273,26 +326,6 @@ export default function App() {
       if (!r.ok) throw new Error('note missing')
       const data = (await r.json()) as NoteData
       setNote({ ...data, versesLoaded: !data.versesFile })
-      // Prefetch full verses in background for snappy “Show more”.
-      if (data.versesFile) {
-        setVersesLoading(true)
-        void fetch(`${import.meta.env.BASE_URL}data/notes/${data.versesFile}`)
-          .then((vr) => (vr.ok ? vr.json() : null))
-          .then((verses: NoteData['verses']) => {
-            if (!verses) return
-            setNote((prev) =>
-              prev && prev.id === id
-                ? {
-                    ...prev,
-                    verses,
-                    versesTotal: verses.length,
-                    versesLoaded: true,
-                  }
-                : prev,
-            )
-          })
-          .finally(() => setVersesLoading(false))
-      }
     } catch {
       setNote(null)
     } finally {
@@ -321,33 +354,83 @@ export default function App() {
       .finally(() => setVersesLoading(false))
   }, [note])
 
+  const loadLocalGraph = useCallback(async (id: string) => {
+    const cached = localGraphCache.current.get(id)
+    const requestId = ++localGraphRequest.current
+    if (cached) {
+      setLocalGraph(cached)
+      setGraphError(null)
+      return
+    }
+    setGraphLoading(true)
+    setGraphError(null)
+    try {
+      const r = await fetch(`${import.meta.env.BASE_URL}data/neighborhoods/${id}.json`)
+      if (!r.ok) throw new Error(`neighborhood ${r.status}`)
+      const g = normalizeGraph((await r.json()) as GraphData)
+      localGraphCache.current.set(id, g)
+      if (localGraphRequest.current === requestId) setLocalGraph(g)
+    } catch (e) {
+      console.error(e)
+      if (localGraphRequest.current === requestId) {
+        setGraphError(e instanceof Error ? e.message : 'Failed to load local graph')
+      }
+    } finally {
+      if (localGraphRequest.current === requestId) setGraphLoading(false)
+    }
+  }, [])
+
+  const loadFullGraph = useCallback(async () => {
+    if (fullGraph) return fullGraph
+    setGraphLoading(true)
+    setGraphError(null)
+    try {
+      const r = await fetch(`${import.meta.env.BASE_URL}data/graph.json`)
+      if (!r.ok) throw new Error(`graph.json ${r.status}`)
+      const g = normalizeGraph((await r.json()) as GraphData)
+      setFullGraph(g)
+      return g
+    } catch (e) {
+      console.error(e)
+      setGraphError(e instanceof Error ? e.message : 'Failed to load full graph')
+      return null
+    } finally {
+      setGraphLoading(false)
+    }
+  }, [fullGraph])
+
   const selectId = useCallback(
     async (id: string, opts?: { skipHistory?: boolean; mode?: 'local' | 'global' }) => {
+      const nextMode = opts?.mode ?? 'local'
       if (!opts?.skipHistory) {
         const cur = focusIdRef.current
         const curMode = modeRef.current
-        if (cur !== id || curMode !== (opts?.mode ?? 'local')) pushHistory()
+        if (cur !== id || curMode !== nextMode) pushHistory()
       }
       setFocusId(id)
-      setMode(opts?.mode ?? 'local')
+      setMode(nextMode)
       setResultsOpen(false)
       setQuery('')
       syncUrl(id, byId.get(id)?.slug)
-      await loadNote(id)
+      await Promise.all([loadNote(id), nextMode === 'local' ? loadLocalGraph(id) : Promise.resolve()])
     },
-    [loadNote, pushHistory, syncUrl, byId],
+    [byId, loadLocalGraph, loadNote, pushHistory, syncUrl],
   )
 
-  // Deep link on first graph load.
+  // Deep links work as soon as the compact search index is ready.
   useEffect(() => {
-    if (!graph) return
+    if (initialUrlHandled.current) return
+    if (!searchDocs.length && !fullGraph) return
     const params = new URLSearchParams(window.location.search)
     const focus = params.get('focus')
     const idParam = params.get('id')
     const id = (focus && bySlug.get(focus)) || idParam || null
-    if (id && byId.has(id)) void selectId(id, { skipHistory: true })
-    // eslint-disable-next-line react-hooks/exhaustive-deps -- only on graph ready
-  }, [graph])
+    if (id && byId.has(id)) {
+      initialUrlHandled.current = true
+      void selectId(id, { skipHistory: true })
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- only on first data ready
+  }, [searchDocs.length, fullGraph])
 
   const goBack = useCallback(async () => {
     const prev = historyRef.current.pop()
@@ -367,12 +450,14 @@ export default function App() {
   const setExploreAll = useCallback(() => {
     if (modeRef.current !== 'global') pushHistory()
     setMode('global')
-  }, [pushHistory])
+    void loadFullGraph()
+  }, [loadFullGraph, pushHistory])
 
   const setLocalMode = useCallback(() => {
     if (modeRef.current !== 'local') pushHistory()
     setMode('local')
-  }, [pushHistory])
+    if (focusIdRef.current) void loadLocalGraph(focusIdRef.current)
+  }, [loadLocalGraph, pushHistory])
 
   const toggleAnimate = useCallback(() => {
     setAnimate((a) => {
@@ -398,16 +483,15 @@ export default function App() {
     return <div className="loading">Could not load graph: {loadError}</div>
   }
 
-  if (!graph) {
-    return <div className="loading">Loading Qur’an meaning graph…</div>
-  }
+  const displayGraph = mode === 'global' ? fullGraph : localGraph
+  const nodeCount = fullGraph?.meta.nodeCount ?? searchDocs.length
 
   return (
     <div className="app">
       <header className="header">
         <div className="brand">
           Ishara
-          <span>Qur’anic meaning graph · {graph.meta.nodeCount.toLocaleString()} words/roots/surahs</span>
+          <span>Qur’anic meaning graph · {nodeCount.toLocaleString()} words/roots/surahs</span>
         </div>
         <div className="header-actions">
           <button type="button" className="back-btn" disabled={!canGoBack} onClick={() => void goBack()} title="Go back">
@@ -465,14 +549,28 @@ export default function App() {
               </ul>
             )}
           </div>
-          <GraphView
-            graph={graph}
-            focusId={focusId}
-            mode={mode}
-            lowPower={lowPower}
-            animate={animate}
-            onSelect={(id) => void selectId(id)}
-          />
+          {displayGraph ? (
+            <GraphView
+              graph={displayGraph}
+              focusId={focusId}
+              mode={mode}
+              lowPower={lowPower}
+              animate={animate}
+              onSelect={(id) => void selectId(id)}
+            />
+          ) : (
+            <div className="graph-pane graph-loading">
+              <div>
+                <strong>{graphError ? 'Graph unavailable' : graphLoading ? 'Graph loading' : 'Search ready'}</strong>
+                <span>
+                  {graphError ??
+                    (focusId
+                      ? 'Opening the local meaning map for this selection.'
+                      : 'Search a word, root, or surah to open its local map.')}
+                </span>
+              </div>
+            </div>
+          )}
         </div>
         <ResizeHandle
           orientation={stacked ? 'horizontal' : 'vertical'}

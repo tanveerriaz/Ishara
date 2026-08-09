@@ -1,0 +1,17 @@
+/*
+  X-Content-Type-Options: nosniff
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/data/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+/data/neighborhoods/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+/data/notes/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate

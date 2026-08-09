@@ -7,7 +7,7 @@ export type GraphNode = {
   label: string
   title: string
   color: string
-  searchText: string
+  searchText?: string
   surahCount?: number
   ayahCount?: number
   surah?: number
@@ -25,6 +25,10 @@ export type GraphData = {
   meta: { nodeCount: number; linkCount: number; attribution: string }
 }
 
+export type SearchDoc = Pick<GraphNode, 'id' | 'slug' | 'type' | 'label' | 'title'> & {
+  searchText: string
+}
+
 export type NoteVerse = {
   ref: string
   surah: string
@@ -38,7 +42,7 @@ export type NoteVerse = {
   fromWord?: string
 }
 
-export type TrMode = 'both' | 'en' | 'ur'
+export type TrMode = 'all' | 'en' | 'ur'
 
 export type NoteData = {
   id: string

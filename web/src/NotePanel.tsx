@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState, type ReactNode } from 'react'
 import type { NoteData, NoteVerse, TrMode } from './types'
 
 type Props = {
@@ -15,11 +15,12 @@ const LS_TR = 'ishara-tr-mode'
 function readTrMode(): TrMode {
   try {
     const v = localStorage.getItem(LS_TR)
-    if (v === 'en' || v === 'ur' || v === 'both') return v
+    if (v === 'en' || v === 'ur' || v === 'all') return v
+    if (v === 'both') return 'all'
   } catch {
     /* ignore */
   }
-  return 'both'
+  return 'all'
 }
 
 /** Prefer English gloss from `bw - meaning` slugs for link buttons. */
@@ -28,6 +29,80 @@ function displaySlug(slug: string): string {
   if (i < 0) return slug
   const meaning = slug.slice(i + 3).trim()
   return meaning || slug
+}
+
+const EN_STOP = new Set([
+  'a',
+  'an',
+  'and',
+  'are',
+  'be',
+  'for',
+  'from',
+  'in',
+  'is',
+  'of',
+  'on',
+  'or',
+  'the',
+  'their',
+  'this',
+  'to',
+  'with',
+  'your',
+])
+
+function normalizeArabic(text: string): string {
+  return text
+    .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
+    .replace(/[^\u0621-\u064A\u0660-\u0669]/g, '')
+}
+
+function highlightArabic(text: string, wordForm: string): ReactNode[] {
+  const target = normalizeArabic(wordForm)
+  if (!target) return [text]
+  return text.split(/(\s+)/).map((part, i) => {
+    const normalized = normalizeArabic(part)
+    if (!normalized || normalized !== target) return part
+    return (
+      <mark className="hit hit-ar" key={`${part}-${i}`}>
+        {part}
+      </mark>
+    )
+  })
+}
+
+function stemEn(word: string): string {
+  if (word.length > 5 && word.endsWith('ing')) return word.slice(0, -3)
+  if (word.length > 4 && word.endsWith('ed')) return word.slice(0, -2)
+  if (word.length > 4 && word.endsWith('es')) return word.slice(0, -2)
+  if (word.length > 3 && word.endsWith('s')) return word.slice(0, -1)
+  return word
+}
+
+function glossTerms(gloss: string): Set<string> {
+  const terms = new Set<string>()
+  for (const raw of gloss.toLowerCase().match(/[a-z][a-z'-]*/g) ?? []) {
+    const word = raw.replace(/^'+|'+$/g, '')
+    if (word.length < 3 || EN_STOP.has(word)) continue
+    terms.add(word)
+    terms.add(stemEn(word))
+  }
+  return terms
+}
+
+function highlightEnglish(text: string, gloss: string): ReactNode[] {
+  const terms = glossTerms(gloss)
+  if (!terms.size) return [text]
+  return text.split(/(\b[a-z][a-z'-]*\b)/gi).map((part, i) => {
+    const word = part.toLowerCase().replace(/^'+|'+$/g, '')
+    if (!word || (!terms.has(word) && !terms.has(stemEn(word)))) return part
+    return (
+      <mark className="hit hit-tr" key={`${part}-${i}`}>
+        {part}
+      </mark>
+    )
+  })
 }
 
 function VerseCard({
@@ -39,8 +114,8 @@ function VerseCard({
   trMode: TrMode
   onNavigate: (slug: string) => void
 }) {
-  const showEn = trMode === 'both' || trMode === 'en'
-  const showUr = trMode === 'both' || trMode === 'ur'
+  const showEn = trMode === 'all' || trMode === 'en'
+  const showUr = trMode === 'all' || trMode === 'ur'
   return (
     <article className="verse-card">
       <header className="verse-ref">
@@ -59,12 +134,36 @@ function VerseCard({
           Quran.com
         </a>
       </header>
+      <dl className="verse-evidence">
+        <div>
+          <dt>Where is this ayah?</dt>
+          <dd>{v.ref} in {displaySlug(v.surah)}</dd>
+        </div>
+        <div>
+          <dt>Word in this ayah</dt>
+          <dd>
+            <code dir="rtl" lang="ar">{v.wordForm || '—'}</code>
+            {v.fromWord ? (
+              <>
+                {' · '}
+                <button type="button" className="linkish inline" onClick={() => onNavigate(v.fromWord!)}>
+                  {displaySlug(v.fromWord)}
+                </button>
+              </>
+            ) : null}
+          </dd>
+        </div>
+        <div>
+          <dt>Literal meaning</dt>
+          <dd>{v.gloss || '—'}</dd>
+        </div>
+      </dl>
       <div className="arabic" dir="rtl" lang="ar">
-        {v.arabic}
+        {highlightArabic(v.arabic, v.wordForm)}
       </div>
       {(v.wordForm || v.gloss) && (
         <p className="verse-word">
-          <strong>Word here:</strong> <code dir="rtl" lang="ar">{v.wordForm}</code>
+          <strong>Form and sense:</strong> <code dir="rtl" lang="ar">{v.wordForm}</code>
           {v.gloss ? ` — ${v.gloss}` : ''}
           {v.fromWord ? (
             <>
@@ -78,13 +177,19 @@ function VerseCard({
       )}
       {showEn && v.sahihInternational && (
         <p className="tr">
-          <span className="tr-label">English (Sahih International)</span>
-          {v.sahihInternational}
+          <span className="tr-label">Narrative translation · Sahih International</span>
+          {highlightEnglish(v.sahihInternational, v.gloss)}
+        </p>
+      )}
+      {showEn && v.yusufAli && (
+        <p className="tr">
+          <span className="tr-label">Narrative translation · Abdullah Yusuf Ali</span>
+          {highlightEnglish(v.yusufAli, v.gloss)}
         </p>
       )}
       {showUr && v.urdu && (
         <p className="tr" dir="rtl" lang="ur">
-          <span className="tr-label">Urdu (Jalandhari)</span>
+          <span className="tr-label">Urdu · Fatah Muhammad Jalandhari</span>
           {v.urdu}
         </p>
       )}
@@ -157,7 +262,7 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
           <div className="tr-toggle" role="group" aria-label="Translation">
             {(
               [
-                ['both', 'EN+UR'],
+                ['all', 'ALL'],
                 ['en', 'EN'],
                 ['ur', 'UR'],
               ] as const
@@ -188,6 +293,13 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
               <strong>About:</strong> {note.meaning || heading}
               {note.lemma ? ` (${note.lemma})` : ''}
             </p>
+            {note.type === 'word' && (
+              <p className="evidence-lede">
+                This word is connected across <strong>{note.surahCount ?? 0}</strong> surahs and{' '}
+                <strong>{note.ayahCount ?? total}</strong> ayahs. Open each ayah below for the Arabic form,
+                literal gloss, English translations, Urdu, and source link.
+              </p>
+            )}
             {!isSurah && (
               <ul className="note-stats">
                 <li>

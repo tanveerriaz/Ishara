@@ -14,8 +14,10 @@
   --accent: #f8cd37;
   --accent-soft: #e8d49a;
   --danger: #c45c5c;
+  --focus: #5b76ff;
   --font: "Source Serif 4", "Iowan Old Style", Palatino, Georgia, serif;
   --font-ui: "DM Sans", "Avenir Next", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
   --font-ar: "Amiri", "Noto Naskh Arabic", "Traditional Arabic", serif;
 }
 
@@ -44,6 +46,13 @@ a {
 button,
 input {
   font: inherit;
+}
+
+button:focus-visible,
+input:focus-visible,
+a:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
 }
 
 .app {
@@ -171,7 +180,7 @@ button.linkish.inline {
 }
 
 .main--side {
-  grid-template-columns: minmax(0, 1fr) auto var(--note-width, 340px);
+  grid-template-columns: minmax(0, 1fr) auto var(--note-width, 380px);
   grid-template-rows: minmax(0, 1fr);
 }
 
@@ -265,6 +274,32 @@ button.linkish.inline {
   touch-action: none;
 }
 
+.graph-loading {
+  display: grid;
+  place-items: center;
+  padding: 1.25rem;
+  color: var(--muted);
+  text-align: center;
+}
+
+.graph-loading > div {
+  max-width: 21rem;
+  padding: 1rem;
+  border: 1px solid color-mix(in srgb, var(--line-gold) 34%, var(--line));
+  background: color-mix(in srgb, var(--bg-panel) 88%, transparent);
+  border-radius: 6px;
+}
+
+.graph-loading strong,
+.graph-loading span {
+  display: block;
+}
+
+.graph-loading strong {
+  color: var(--accent);
+  margin-bottom: 0.35rem;
+}
+
 .search-wrap {
   position: absolute;
   top: 0.75rem;
@@ -277,7 +312,7 @@ button.linkish.inline {
 .search-wrap input {
   width: 100%;
   padding: 0.7rem 0.85rem;
-  border-radius: 10px;
+  border-radius: 6px;
   border: 1px solid color-mix(in srgb, var(--line-gold) 45%, var(--line));
   background: color-mix(in srgb, var(--bg-panel) 94%, transparent);
   color: var(--ink);
@@ -300,7 +335,7 @@ button.linkish.inline {
   list-style: none;
   max-height: 240px;
   overflow: auto;
-  border-radius: 10px;
+  border-radius: 6px;
   border: 1px solid var(--line);
   background: var(--bg-panel);
 }
@@ -375,6 +410,13 @@ button.linkish.inline {
   overflow: auto;
   background: var(--bg-panel);
   padding: 0.85rem 1rem 2rem;
+  border-left: 4px solid var(--word);
+  scrollbar-gutter: stable;
+}
+
+.main--stacked .note-pane {
+  border-left: 0;
+  border-top: 4px solid var(--word);
 }
 
 .note-pane.empty {
@@ -421,7 +463,7 @@ button.linkish.inline {
   margin: 0.75rem 0 1.25rem;
   padding: 0.85rem 0.9rem;
   border: 1px solid color-mix(in srgb, var(--line-gold) 35%, var(--line));
-  border-radius: 10px;
+  border-radius: 6px;
   background: var(--bg-elevated);
 }
 
@@ -442,6 +484,10 @@ button.linkish.inline {
 .note-stats strong {
   color: var(--accent);
   font-size: 1.1rem;
+}
+
+.evidence-lede {
+  color: color-mix(in srgb, var(--ink) 90%, var(--muted));
 }
 
 .note-surahs ul {
@@ -478,9 +524,9 @@ button.linkish {
 
 .verse-card {
   margin: 0 0 1rem;
-  padding: 0.85rem 0.9rem;
-  border-radius: 10px;
-  border: 1px solid color-mix(in srgb, var(--line-gold) 30%, var(--line));
+  padding: 0.9rem;
+  border-radius: 6px;
+  border: 1px solid color-mix(in srgb, var(--word) 42%, var(--line));
   background: color-mix(in srgb, var(--bg) 55%, var(--bg-elevated));
 }
 
@@ -500,6 +546,37 @@ button.linkish {
   font-size: 0.8rem;
 }
 
+.verse-evidence {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.5rem;
+  margin: 0 0 0.7rem;
+  padding: 0.65rem 0;
+  border-top: 1px solid color-mix(in srgb, var(--word) 44%, var(--line));
+  border-bottom: 1px solid color-mix(in srgb, var(--word) 44%, var(--line));
+}
+
+.verse-evidence div {
+  display: grid;
+  grid-template-columns: minmax(7rem, 0.42fr) minmax(0, 1fr);
+  gap: 0.65rem;
+  align-items: baseline;
+}
+
+.verse-evidence dt {
+  color: var(--muted);
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.verse-evidence dd {
+  margin: 0;
+  color: var(--ink);
+  line-height: 1.4;
+}
+
 .verse-card .arabic {
   font-family: var(--font-ar);
   font-size: 1.35rem;
@@ -508,8 +585,28 @@ button.linkish {
   margin: 0 0 0.65rem;
   padding: 0.55rem 0.65rem;
   background: var(--bg-elevated);
-  border-radius: 8px;
+  border-radius: 6px;
   border: 1px solid var(--line);
+}
+
+.hit {
+  border-radius: 3px;
+  background: color-mix(in srgb, var(--word) 18%, transparent);
+  color: inherit;
+  font-weight: 800;
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-color: var(--word);
+  text-underline-offset: 0.16em;
+}
+
+.hit-ar {
+  padding: 0 0.08em;
+  text-decoration-color: var(--accent);
+}
+
+.hit-tr {
+  padding: 0 0.04em;
 }
 
 .verse-word {
@@ -572,7 +669,7 @@ button.linkish {
   margin: 0.5rem 0 0.75rem;
   padding: 0.75rem 0.9rem;
   background: var(--bg-elevated);
-  border-radius: 10px;
+  border-radius: 6px;
   border: 1px solid color-mix(in srgb, var(--line-gold) 40%, var(--line));
 }
 
@@ -615,4 +712,36 @@ button.linkish {
   place-items: center;
   height: 100%;
   color: var(--muted);
+}
+
+@media (max-width: 620px) {
+  .header {
+    align-items: flex-start;
+  }
+
+  .brand span {
+    display: block;
+    margin: 0.2rem 0 0;
+  }
+
+  .header-actions {
+    width: 100%;
+  }
+
+  .header-actions button {
+    min-height: 44px;
+  }
+
+  .search-wrap {
+    top: 0.55rem;
+    left: 0.55rem;
+    right: 0.55rem;
+    max-width: none;
+  }
+
+  .verse-ref,
+  .verse-evidence div {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
 }

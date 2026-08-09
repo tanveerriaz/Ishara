@@ -31,9 +31,13 @@ type SimNode = GraphNode & {
   fx?: number | null
   fy?: number | null
   __userPinned?: boolean
-  __hoverPushed?: boolean
-  __hoverOx?: number
-  __hoverOy?: number
+}
+
+type LabelBox = {
+  x1: number
+  y1: number
+  x2: number
+  y2: number
 }
 
 function buildAdj(links: GraphLink[]): Map<string, Set<string>> {
@@ -223,8 +227,12 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
   const fgRef = useRef<ForceGraphMethods | undefined>(undefined)
   const containerRef = useRef<HTMLDivElement>(null)
   const posCache = useRef(new Map<string, { x: number; y: number }>())
-  const nodesRef = useRef<SimNode[]>([])
   const hoverIdRef = useRef<string | null>(null)
+  const labelBoxesRef = useRef<{ firstId: string | null; scale: number; boxes: LabelBox[] }>({
+    firstId: null,
+    scale: 0,
+    boxes: [],
+  })
   const fittedFor = useRef<string | null>(null)
   const [size, setSize] = useState({ w: 600, h: 500 })
   const liveAnimate = animate && !lowPower
@@ -311,7 +319,7 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
     )
   }, [graph.links, focusId, mode, quranNodes, adj, lowPower])
 
-  nodesRef.current = data.nodes as SimNode[]
+  const firstNodeId = (data.nodes[0] as SimNode | undefined)?.id ?? null
 
   // Persist positions so clicking another node doesn’t explode the layout.
   useEffect(() => {
@@ -320,79 +328,35 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
     }
   })
 
-  const clearHoverParting = useCallback(() => {
-    for (const n of nodesRef.current) {
-      if (!n.__hoverPushed) continue
-      if (!n.__userPinned && n.__hoverOx != null && n.__hoverOy != null) {
-        n.x = n.__hoverOx
-        n.y = n.__hoverOy
-        n.fx = undefined
-        n.fy = undefined
-      }
-      delete n.__hoverPushed
-      delete n.__hoverOx
-      delete n.__hoverOy
-    }
-  }, [])
-
   const onNodeHover = useCallback(
     (node: object | null) => {
       const n = node as SimNode | null
-      clearHoverParting()
-      if (!n) {
-        hoverIdRef.current = null
-        refreshGraph(fgRef.current)
-        return
-      }
-      hoverIdRef.current = n.id
-      const hx = n.x ?? 0
-      const hy = n.y ?? 0
-      const clearR = mode === 'local' ? 34 : 26
-      for (const o of nodesRef.current) {
-        if (o.id === n.id || o.__userPinned) continue
-        const ox = o.x ?? 0
-        const oy = o.y ?? 0
-        let dx = ox - hx
-        let dy = oy - hy
-        let dist = Math.hypot(dx, dy)
-        if (dist < 0.05) {
-          dx = 1
-          dy = 0
-          dist = 0.05
-        }
-        if (dist >= clearR) continue
-        o.__hoverOx = ox
-        o.__hoverOy = oy
-        o.__hoverPushed = true
-        const push = (clearR - dist) * 0.5
-        const nx = hx + (dx / dist) * (dist + push)
-        const ny = hy + (dy / dist) * (dist + push)
-        o.x = nx
-        o.y = ny
-        o.fx = nx
-        o.fy = ny
-      }
+      hoverIdRef.current = n?.id ?? null
       refreshGraph(fgRef.current)
     },
-    [clearHoverParting, mode],
+    [],
   )
 
   const paint = useCallback(
     (node: SimNode, ctx: CanvasRenderingContext2D, globalScale: number) => {
+      const scale = Math.max(globalScale, 0.05)
+      if (node.id === firstNodeId || Math.abs(labelBoxesRef.current.scale - scale) > 0.03) {
+        labelBoxesRef.current = { firstId: firstNodeId, scale, boxes: [] }
+      }
       const x = node.x ?? 0
       const y = node.y ?? 0
       const color = nodeColor(node.type)
       const isFocus = node.id === focusId
       const isHover = node.id === hoverIdRef.current
-      // Obsidian nodeSizeMultiplier ~1.1
-      const baseR = (node.type === 'surah' ? 6.2 : node.type === 'root' ? 5.4 : 4.6) * 1.1
+      const screenR = node.type === 'surah' ? 7.2 : node.type === 'root' ? 6.2 : 5.4
+      const baseR = screenR / scale
       const h = hashId(node.id)
       const t = performance.now() / 1000
       const pulse = liveAnimate ? 0.5 + 0.5 * Math.sin(t * 1.05 + (h % 360) * 0.017) : 0
-      const r = isFocus || isHover ? baseR + 1.4 + pulse * 0.35 : baseR
+      const r = isFocus || isHover ? baseR + (1.6 + pulse * 0.35) / scale : baseR
 
       if (liveAnimate) {
-        const aura = r + 2.8 + pulse * 1.4
+        const aura = r + (2.8 + pulse * 1.4) / scale
         const grad = ctx.createRadialGradient(x, y, 0, x, y, aura)
         grad.addColorStop(0, hexToRgba(color, isFocus || isHover ? 0.58 : 0.28 + pulse * 0.06))
         grad.addColorStop(0.55, hexToRgba(color, 0.1))
@@ -410,22 +374,35 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
 
       if (isFocus || isHover) {
         ctx.strokeStyle = 'rgba(250,242,214,0.9)'
-        ctx.lineWidth = 1.35 / Math.max(globalScale, 0.05)
+        ctx.lineWidth = 1.35 / scale
         ctx.stroke()
       }
 
-      // textFadeMultiplier: 0 in Obsidian → labels visible when zoomed enough
-      const showLabel = isFocus || isHover || globalScale > (mode === 'local' ? 0.45 : 0.65)
+      const showLabel = isFocus || isHover || globalScale > (mode === 'local' ? 0.7 : 1.05)
       if (!showLabel) return
 
-      const fontSize = Math.max(11 / Math.max(globalScale, 0.05), 2.6)
+      const label = displayLabel(node)
+      const fontSize = Math.max(12 / scale, 2.6)
       ctx.font = `${fontSize}px sans-serif`
+      const width = ctx.measureText(label).width
+      const pad = 4 / scale
+      const box: LabelBox = {
+        x1: x - width / 2 - pad,
+        y1: y + r + 2 / scale,
+        x2: x + width / 2 + pad,
+        y2: y + r + 2 / scale + fontSize * 1.25,
+      }
+      const overlaps = labelBoxesRef.current.boxes.some(
+        (b) => box.x1 < b.x2 && box.x2 > b.x1 && box.y1 < b.y2 && box.y2 > b.y1,
+      )
+      if (overlaps && !isFocus && !isHover) return
+      labelBoxesRef.current.boxes.push(box)
       ctx.textAlign = 'center'
       ctx.textBaseline = 'top'
       ctx.fillStyle = 'rgba(250,242,214,0.9)'
-      ctx.fillText(displayLabel(node), x, y + r + 2)
+      ctx.fillText(label, x, y + r + 2 / scale)
     },
-    [focusId, liveAnimate, mode],
+    [firstNodeId, focusId, liveAnimate, mode],
   )
 
   // Obsidian-like forces (mapped from graph.json) + one soft zoom fit.
@@ -439,9 +416,9 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
     const charge = mode === 'global' ? (lowPower ? -36 : -52) : lowPower ? -95 : -125
     const dist = mode === 'global' ? (lowPower ? 34 : 42) : lowPower ? 58 : 72
     fg.d3Force('charge')?.strength(charge)
-    fg.d3Force('link')?.distance(dist)?.strength(mode === 'local' ? 0.85 : 0.65)
+    fg.d3Force('link')?.distance(dist)?.strength(mode === 'local' ? 0.72 : 0.58)
     const center = fg.d3Force('center') as { strength?: (n: number) => void } | undefined
-    center?.strength?.(mode === 'global' ? 0.08 : 0.14)
+    center?.strength?.(mode === 'global' ? 0.06 : 0.1)
 
     const fgExt = fg as ForceGraphMethods & {
       d3ReheatSimulation?: () => void
@@ -451,14 +428,13 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
     fgExt.d3ReheatSimulation?.()
 
     const token = `${mode}:${focusId ?? 'none'}:${data.nodes.length}`
-    const fitDelay = mode === 'local' ? 280 : 420
-    const fitMs = mode === 'local' ? 420 : 600
+    const fitDelay = mode === 'local' ? 180 : 360
+    const fitMs = mode === 'local' ? 720 : 860
     const t = window.setTimeout(() => {
       try {
         fg.zoomToFit(fitMs, mode === 'local' ? 52 : 40)
         fittedFor.current = token
-        // Gentle Obsidian Animate drift after settle (desktop only).
-        if (liveAnimate) fgExt.d3AlphaTarget?.(0.018)
+        if (liveAnimate) fgExt.d3AlphaTarget?.(0.006)
       } catch {
         /* ignore */
       }
@@ -483,10 +459,11 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
         backgroundColor="rgba(0,0,0,0)"
         nodeCanvasObject={paint as never}
         nodeCanvasObjectMode={() => 'replace'}
-        nodePointerAreaPaint={(node, color, ctx) => {
+        nodePointerAreaPaint={(node, color, ctx, globalScale) => {
           const n = node as SimNode
+          const hitR = 18 / Math.max(globalScale, 0.05)
           ctx.beginPath()
-          ctx.arc(n.x ?? 0, n.y ?? 0, 14, 0, 2 * Math.PI)
+          ctx.arc(n.x ?? 0, n.y ?? 0, hitR, 0, 2 * Math.PI)
           ctx.fillStyle = color
           ctx.fill()
         }}
@@ -498,9 +475,9 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
         linkDirectionalParticleSpeed={0.0028}
         linkDirectionalParticleWidth={1.35}
         linkDirectionalParticleColor={() => OBSIDIAN_COLORS.root}
-        cooldownTicks={lowPower ? 55 : mode === 'local' ? 90 : 100}
-        d3AlphaDecay={lowPower ? 0.05 : 0.028}
-        d3VelocityDecay={0.35}
+        cooldownTicks={lowPower ? 45 : mode === 'local' ? 80 : 90}
+        d3AlphaDecay={lowPower ? 0.055 : 0.035}
+        d3VelocityDecay={0.48}
         warmupTicks={lowPower ? 0 : 12}
         onNodeHover={onNodeHover as never}
         onNodeClick={(node) => onSelect((node as GraphNode).id)}
