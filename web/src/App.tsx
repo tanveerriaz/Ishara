@@ -9,9 +9,9 @@ const STACK_MQ = '(max-width: 860px)'
 const LS_NOTE_WIDTH = 'ishara-note-width'
 const LS_NOTE_HEIGHT = 'ishara-note-height'
 const MIN_NOTE_PX = 160
-const MAX_NOTE_FRAC = 0.7
+const MAX_NOTE_FRAC = 0.82
 const DEFAULT_NOTE_WIDTH = 380
-const DEFAULT_NOTE_HEIGHT_FRAC = 0.58
+const DEFAULT_NOTE_HEIGHT_FRAC = 0.72
 const MAX_HISTORY = 24
 
 type ViewSnap = {
@@ -44,10 +44,11 @@ function readStoredPx(key: string, fallback: number): number {
   }
 }
 
-function clampNoteSize(size: number, containerSize: number): number {
+function clampNoteSize(size: number, containerSize: number, minFrac = 0): number {
   if (containerSize <= 0) return size
   const max = Math.min(containerSize * MAX_NOTE_FRAC, containerSize - containerSize * 0.3)
-  return Math.round(Math.min(Math.max(size, MIN_NOTE_PX), Math.max(MIN_NOTE_PX, max)))
+  const min = Math.max(MIN_NOTE_PX, containerSize * minFrac)
+  return Math.round(Math.min(Math.max(size, min), Math.max(min, max)))
 }
 
 function normalizeGraph(g: GraphData): GraphData {
@@ -169,9 +170,9 @@ export default function App() {
       const { width, height } = el.getBoundingClientRect()
       if (!heightInitialized.current && height > 0) {
         heightInitialized.current = true
-        setNoteHeight(clampNoteSize(height * DEFAULT_NOTE_HEIGHT_FRAC, height))
+        setNoteHeight(clampNoteSize(height * DEFAULT_NOTE_HEIGHT_FRAC, height, stacked ? 0.58 : 0))
       } else {
-        setNoteHeight((h) => clampNoteSize(h, height))
+        setNoteHeight((h) => clampNoteSize(h, height, stacked ? 0.58 : 0))
       }
       setNoteWidth((w) => clampNoteSize(w, width))
     }
@@ -180,7 +181,7 @@ export default function App() {
     const ro = new ResizeObserver(applyClamp)
     ro.observe(el)
     return () => ro.disconnect()
-  }, [fullGraph, localGraph])
+  }, [fullGraph, localGraph, stacked])
 
   const persistNoteSize = useCallback(() => {
     try {
@@ -197,7 +198,7 @@ export default function App() {
       if (!el) return
       const { width, height } = el.getBoundingClientRect()
       if (stacked) {
-        setNoteHeight((h) => clampNoteSize(h + deltaPx, height))
+        setNoteHeight((h) => clampNoteSize(h + deltaPx, height, 0.58))
       } else {
         setNoteWidth((w) => clampNoteSize(w + deltaPx, width))
       }

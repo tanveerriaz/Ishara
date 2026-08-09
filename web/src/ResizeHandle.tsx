@@ -1,4 +1,4 @@
-import { useCallback, useRef, type PointerEvent } from 'react'
+import { useCallback, useRef, type KeyboardEvent, type PointerEvent } from 'react'
 
 type Orientation = 'horizontal' | 'vertical'
 
@@ -52,6 +52,31 @@ export function ResizeHandle({ orientation, onResize, onResizeEnd }: Props) {
     [onResizeEnd],
   )
 
+  const onKeyDown = useCallback(
+    (e: KeyboardEvent<HTMLDivElement>) => {
+      const step = e.shiftKey ? 80 : 32
+      if (orientation === 'horizontal') {
+        if (e.key === 'ArrowUp') {
+          e.preventDefault()
+          onResize(step)
+        } else if (e.key === 'ArrowDown') {
+          e.preventDefault()
+          onResize(-step)
+        }
+      } else if (e.key === 'ArrowLeft') {
+        e.preventDefault()
+        onResize(step)
+      } else if (e.key === 'ArrowRight') {
+        e.preventDefault()
+        onResize(-step)
+      }
+      if (e.key === 'ArrowUp' || e.key === 'ArrowDown' || e.key === 'ArrowLeft' || e.key === 'ArrowRight') {
+        onResizeEnd?.()
+      }
+    },
+    [onResize, onResizeEnd, orientation],
+  )
+
   return (
     <div
       className={`resize-handle resize-handle--${orientation}`}
@@ -63,6 +88,7 @@ export function ResizeHandle({ orientation, onResize, onResizeEnd }: Props) {
       onPointerMove={onPointerMove}
       onPointerUp={end}
       onPointerCancel={end}
+      onKeyDown={onKeyDown}
     >
       <span className="resize-handle__grip" aria-hidden />
     </div>

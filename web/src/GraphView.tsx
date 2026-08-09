@@ -353,24 +353,25 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
       const isFocus = node.id === focusId
       const isHover = node.id === hoverIdRef.current
       const ring = node.__ring ?? 9
+      const sizeFactor = lowPower ? 0.76 : 1
       const screenR =
         ring === 0
           ? node.type === 'root'
-            ? 18
+            ? 18 * sizeFactor
             : node.type === 'word'
-              ? 16
-              : 15
+              ? 16 * sizeFactor
+              : 15 * sizeFactor
           : ring === 1
             ? node.type === 'root'
-              ? 11
+              ? 11 * sizeFactor
               : node.type === 'word'
-                ? 9.5
-                : 8.5
+                ? 9.5 * sizeFactor
+                : 8.5 * sizeFactor
             : node.type === 'root'
-              ? 7
+              ? 7 * sizeFactor
               : node.type === 'word'
-                ? 6
-                : 6.5
+                ? 6 * sizeFactor
+                : 6.5 * sizeFactor
       const baseR = screenR / scale
       const h = hashId(node.id)
       const t = performance.now() / 1000
@@ -400,11 +401,15 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
         ctx.stroke()
       }
 
-      const showLabel = isFocus || isHover || ring <= 1 || globalScale > (mode === 'local' ? 0.72 : 1.05)
+      const showLabel =
+        isFocus ||
+        isHover ||
+        (!lowPower && ring <= 1) ||
+        globalScale > (mode === 'local' ? (lowPower ? 1.25 : 0.72) : 1.05)
       if (!showLabel) return
 
       const label = displayLabel(node)
-      const fontSize = Math.max((ring === 0 ? 15 : 12.5) / scale, 2.8)
+      const fontSize = Math.max(((ring === 0 ? 14 : 11.5) * (lowPower ? 0.82 : 1)) / scale, 2.8)
       ctx.font = `${ring === 0 ? 600 : 500} ${fontSize}px "DM Sans", system-ui, sans-serif`
       const width = ctx.measureText(label).width
       const pad = 4.5 / scale
@@ -433,7 +438,7 @@ export function GraphView({ graph, focusId, mode, onSelect, lowPower = false, an
         ctx.fillText(node.lemma, x, y - r - 8 / scale)
       }
     },
-    [firstNodeId, focusId, liveAnimate, mode],
+    [firstNodeId, focusId, liveAnimate, lowPower, mode],
   )
 
   // Obsidian-like forces (mapped from graph.json) + one soft zoom fit.
