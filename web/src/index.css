@@ -918,7 +918,9 @@ button.linkish {
     background: color-mix(in srgb, var(--bg-panel) 98%, #000);
     box-shadow: 0 -24px 56px rgba(0, 0, 0, 0.5);
     transform: translateY(calc(100% + 2rem));
-    transition: transform 320ms cubic-bezier(.16, 1, .3, 1);
+    transition:
+      transform 320ms cubic-bezier(.16, 1, .3, 1),
+      height 220ms cubic-bezier(.16, 1, .3, 1);
     will-change: transform;
   }
 
@@ -965,12 +967,21 @@ button.linkish {
   }
 
   .note-summary {
-    padding: 0.8rem;
+    padding: 0.35rem 0 0.7rem;
     margin-top: 0.55rem;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
   }
 
   .note-surahs ul {
-    max-height: 10rem;
+    max-height: none;
+    overflow: visible;
+    padding: 0.35rem 0 0.15rem 1.1rem;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    scrollbar-gutter: auto;
   }
 
   .verse-ref {

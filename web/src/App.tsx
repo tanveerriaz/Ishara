@@ -1,4 +1,14 @@
-import { useCallback, useDeferredValue, useEffect, useMemo, useRef, useState, type CSSProperties } from 'react'
+import {
+  useCallback,
+  useDeferredValue,
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+  type CSSProperties,
+  type MouseEvent as ReactMouseEvent,
+  type PointerEvent as ReactPointerEvent,
+} from 'react'
 import MiniSearch from 'minisearch'
 import { GraphView } from './GraphView'
 import { NotePanel } from './NotePanel'
@@ -129,6 +139,8 @@ export default function App() {
   const localGraphCache = useRef(new Map<string, GraphData>())
   const localGraphRequest = useRef(0)
   const initialUrlHandled = useRef(false)
+  const ignoreNextGraphClick = useRef(false)
+  const graphTapRef = useRef<{ x: number; y: number; moved: boolean } | null>(null)
   const heightInitialized = useRef(
     (() => {
       try {
@@ -171,9 +183,9 @@ export default function App() {
       const { width, height } = el.getBoundingClientRect()
       if (!heightInitialized.current && height > 0) {
         heightInitialized.current = true
-        setNoteHeight(clampNoteSize(height * DEFAULT_NOTE_HEIGHT_FRAC, height, stacked ? 0.32 : 0))
+        setNoteHeight(clampNoteSize(height * DEFAULT_NOTE_HEIGHT_FRAC, height, stacked ? 0.16 : 0))
       } else {
-        setNoteHeight((h) => clampNoteSize(h, height, stacked ? 0.32 : 0))
+        setNoteHeight((h) => clampNoteSize(h, height, stacked ? 0.16 : 0))
       }
       setNoteWidth((w) => clampNoteSize(w, width))
     }
@@ -199,13 +211,21 @@ export default function App() {
       if (!el) return
       const { width, height } = el.getBoundingClientRect()
       if (stacked) {
-        setNoteHeight((h) => clampNoteSize(h + deltaPx, height, 0.32))
+        setNoteHeight((h) => clampNoteSize(h + deltaPx, height, 0.16))
       } else {
         setNoteWidth((w) => clampNoteSize(w + deltaPx, width))
       }
     },
     [stacked],
   )
+
+  const onNoteResizeEnd = useCallback(() => {
+    persistNoteSize()
+    const el = mainRef.current
+    if (!stacked || !sheetOpen || !el) return
+    const { height } = el.getBoundingClientRect()
+    if (height > 0 && noteHeightRef.current <= height * 0.34) setSheetOpen(false)
+  }, [persistNoteSize, sheetOpen, stacked])
 
   useEffect(() => {
     let cancelled = false
@@ -467,6 +487,40 @@ export default function App() {
     if (focusIdRef.current) void loadLocalGraph(focusIdRef.current)
   }, [loadLocalGraph, pushHistory])
 
+  const shouldIgnoreGraphTap = (target: EventTarget | null) => {
+    const el = target as HTMLElement | null
+    return Boolean(el?.closest('.search-wrap'))
+  }
+
+  const onGraphPointerDownCapture = useCallback(
+    (e: ReactPointerEvent<HTMLDivElement>) => {
+      if (!stacked || !sheetOpen || shouldIgnoreGraphTap(e.target)) return
+      graphTapRef.current = { x: e.clientX, y: e.clientY, moved: false }
+    },
+    [sheetOpen, stacked],
+  )
+
+  const onGraphPointerMoveCapture = useCallback((e: ReactPointerEvent<HTMLDivElement>) => {
+    const tap = graphTapRef.current
+    if (!tap) return
+    if (Math.hypot(e.clientX - tap.x, e.clientY - tap.y) > 12) tap.moved = true
+  }, [])
+
+  const onGraphClickCapture = useCallback(
+    (e: ReactMouseEvent<HTMLDivElement>) => {
+      if (!stacked || !sheetOpen || shouldIgnoreGraphTap(e.target)) return
+      const tap = graphTapRef.current
+      graphTapRef.current = null
+      if (tap?.moved) return
+      if (ignoreNextGraphClick.current) {
+        ignoreNextGraphClick.current = false
+        return
+      }
+      setSheetOpen(false)
+    },
+    [sheetOpen, stacked],
+  )
+
   const toggleAnimate = useCallback(() => {
     setAnimate((a) => {
       const next = !a
@@ -539,7 +593,12 @@ export default function App() {
           } as CSSProperties
         }
       >
-        <div className="graph-host">
+        <div
+          className="graph-host"
+          onPointerDownCapture={onGraphPointerDownCapture}
+          onPointerMoveCapture={onGraphPointerMoveCapture}
+          onClickCapture={onGraphClickCapture}
+        >
           <div className="search-wrap">
             <input
               value={query}
@@ -571,7 +630,13 @@ export default function App() {
               mode={mode}
               lowPower={lowPower}
               animate={animate}
-              onSelect={(id) => void selectId(id, { openSheet: true })}
+              onSelect={(id) => {
+                ignoreNextGraphClick.current = true
+                window.setTimeout(() => {
+                  ignoreNextGraphClick.current = false
+                }, 0)
+                void selectId(id, { openSheet: true })
+              }}
             />
           ) : (
             <div className="graph-pane graph-loading">
@@ -590,7 +655,7 @@ export default function App() {
         <ResizeHandle
           orientation={stacked ? 'horizontal' : 'vertical'}
           onResize={onNoteResize}
-          onResizeEnd={persistNoteSize}
+          onResizeEnd={onNoteResizeEnd}
         />
         <NotePanel
           note={note}

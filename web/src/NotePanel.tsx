@@ -11,6 +11,7 @@ type Props = {
 
 const VERSE_PAGE = 12
 const LS_TR = 'ishara-tr-mode'
+const MOBILE_MQ = '(max-width: 860px)'
 
 function readTrMode(): TrMode {
   try {
@@ -201,12 +202,28 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
   const paneRef = useRef<HTMLElement>(null)
   const [verseLimit, setVerseLimit] = useState(VERSE_PAGE)
   const [trMode, setTrMode] = useState<TrMode>(readTrMode)
+  const [isMobile, setIsMobile] = useState(() =>
+    typeof window !== 'undefined' ? window.matchMedia(MOBILE_MQ).matches : false,
+  )
+
+  useEffect(() => {
+    const mq = window.matchMedia(MOBILE_MQ)
+    const sync = () => setIsMobile(mq.matches)
+    sync()
+    mq.addEventListener('change', sync)
+    return () => mq.removeEventListener('change', sync)
+  }, [])
 
   useEffect(() => {
     if (!note || loading) return
     paneRef.current?.scrollTo({ top: 0, behavior: 'smooth' })
     setVerseLimit(VERSE_PAGE)
   }, [note?.id, loading, note])
+
+  useEffect(() => {
+    if (!isMobile || loading || versesLoading || !note?.versesFile || note.versesLoaded) return
+    onNeedAllVerses?.()
+  }, [isMobile, loading, note?.versesFile, note?.versesLoaded, onNeedAllVerses, versesLoading])
 
   const setTr = (mode: TrMode) => {
     setTrMode(mode)
@@ -243,6 +260,11 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
   const total = note.versesTotal ?? verses.length
   const isSurah = note.type === 'surah'
   const showVerses = note.type === 'word' || note.type === 'root' || (isSurah && verses.length > 0)
+  const visibleVerses = isMobile ? verses : verses.slice(0, verseLimit)
+  const visibleVerseCount = isMobile ? verses.length : Math.min(verseLimit, verses.length)
+  const visibleWords = isMobile ? note.words : note.words?.slice(0, 40)
+  const visibleRoots = isMobile ? note.roots : note.roots?.slice(0, 40)
+  const visibleSurahs = isMobile ? note.surahs : note.surahs?.slice(0, 40)
   const hasStructured =
     (showVerses && (note.meaning || verses.length > 0)) ||
     (isSurah && (!!note.words?.length || !!note.roots?.length || verses.length > 0))
@@ -332,7 +354,7 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
               <div className="note-surahs">
                 <strong>{isSurah ? 'Words in this surah' : 'Words from this root'}</strong>
                 <ul>
-                  {note.words.slice(0, 40).map((w) => (
+                  {visibleWords?.map((w) => (
                     <li key={w}>
                       <button type="button" className="linkish" onClick={() => onNavigate(w)}>
                         {displaySlug(w)}
@@ -346,7 +368,7 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
               <div className="note-surahs">
                 <strong>Roots</strong>
                 <ul>
-                  {note.roots.slice(0, 40).map((r) => (
+                  {visibleRoots?.map((r) => (
                     <li key={r}>
                       <button type="button" className="linkish" onClick={() => onNavigate(r)}>
                         {displaySlug(r)}
@@ -360,7 +382,7 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
               <div className="note-surahs">
                 <strong>Appears in</strong>
                 <ul>
-                  {note.surahs.slice(0, 40).map((s) => (
+                  {visibleSurahs?.map((s) => (
                     <li key={s}>
                       <button type="button" className="linkish" onClick={() => onNavigate(s)}>
                         {s}
@@ -380,10 +402,10 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
               ) : (
                 <>
                   <p className="muted">
-                    Showing {Math.min(verseLimit, verses.length)} of {total}
+                    Showing {visibleVerseCount} of {total}
                     {versesLoading ? ' · loading full set…' : ''}
                   </p>
-                  {verses.slice(0, verseLimit).map((v) => (
+                  {visibleVerses.map((v) => (
                     <VerseCard
                       key={`${v.ref}-${v.wordForm}-${v.fromWord ?? ''}`}
                       v={v}
@@ -391,7 +413,7 @@ export function NotePanel({ note, loading, versesLoading, onNavigate, onNeedAllV
                       onNavigate={onNavigate}
                     />
                   ))}
-                  {verseLimit < total && (
+                  {!isMobile && verseLimit < total && (
                     <button type="button" className="linkish verse-more" onClick={askMore}>
                       Show more verses ({total - Math.min(verseLimit, verses.length)} left)
                     </button>
