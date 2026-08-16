@@ -3,7 +3,7 @@ type: word
 lemma: "آمَنَ"
 slug: "Amn - believe"
 surah_count: 73
-ayah_count: 491
+ayah_count: 478
 tags: [word, meaning]
 ---
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/41)
 
-_…and **481** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **468** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

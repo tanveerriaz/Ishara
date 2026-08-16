@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** barrier · **Root:** برزخ
 
+
 ### Words (wikilinks — these create the graph)
 - [[brzx - barrier]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** respond · **Root:** جوب
 
+
 ### Words (wikilinks — these create the graph)
 - [[>jybt - respond]]
 - [[AstjAb - respond]]

@@ -1,0 +1,220 @@
+---
+type: word
+lemma: "صَرَفَ"
+slug: "Srf - averted"
+surah_count: 11
+ayah_count: 14
+tags: [word, meaning]
+---
+
+# Srf - averted
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Srf - we explain]]
+
+### Meaning
+**averted** · Lemma **صَرَفَ**
+
+### Surahs (11)
+- [[003 Ali Imran]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[009 At-Tawbah]]
+- [[010 Yunus]]
+- [[012 Yusuf]]
+- [[024 An-Nur]]
+- [[025 Al-Furqan]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[046 Al-Ahqaf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
+
+#### 3:152 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ ۖ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَـٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ ۚ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْـَٔاخِرَةَ ۚ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ ۖ وَلَقَدْ عَفَا عَنكُمْ ۗ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `صَرَفَكُمْ` — He diverted you
+
+**English (Sahih International):** And Allāh had certainly fulfilled His promise to you when you were killing them [i.e., the enemy] by His permission until [the time] when you lost courage and fell to disputing about the order [given by the Prophet (ﷺ)] and disobeyed after He had shown you that which you love. Among you are some who desire this world, and among you are some who desire the Hereafter. Then He turned you back from them [defeated] that He might test you. And He has already forgiven you, and Allāh is the possessor of bounty for the believers.
+
+**English (Yusuf Ali):** Allah did indeed fulfil His promise to you when ye with His permission Were about to annihilate your enemy,-until ye flinched and fell to disputing about the order, and disobeyed it after He brought you in sight (of the booty) which ye covet. Among you are some that hanker after this world and some that desire the Hereafter. Then did He divert you from your foes in order to test you but He forgave you: For Allah is full of grace to those who believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے اپنا وعدہ سچا کر دیا (یعنی) اس وقت جبکہ تم کافروں کو اس کے حکم سے قتل کر رہے تھے یہاں تک کہ جو تم چاہتے تھے خدا نے تم کو دکھا دیا اس کے بعد تم نے ہمت ہار دی اور حکم (پیغمبر) میں جھگڑا کرنے لگے اور اس کی نافرمانی کی بعض تو تم میں سے دنیا کے خواستگار تھے اور بعض آخرت کے طالب اس وقت خدا نے تم کو ان (کے مقابلے) سے پھیر (کر بھگا) دیا تاکہ تمہاری آزمائش کرے اور اس نے تمہارا قصور معاف کر دیا اور خدا مومنو پر بڑا فضل کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/3/152)
+
+#### 6:16 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَّن يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُۥ ۚ وَذَٰلِكَ ٱلْفَوْزُ ٱلْمُبِينُ
+
+</div>
+
+**Word in this verse:** `يُصْرَفْ` — is averted
+
+**English (Sahih International):** He from whom it is averted that Day - [Allāh] has granted him mercy. And that is the clear attainment.
+
+**English (Yusuf Ali):** "On that day, if the penalty is averted from any, it is due to Allah's mercy; And that would be (Salvation), the obvious fulfilment of all desire.
+
+**Urdu (Fatah Muhammad Jalandhari):** جس شخص سے اس روز عذاب ٹال دیا گیا اس پر خدا نے (بڑی) مہربانی فرمائی اور یہ کھلی کامیابی ہے
+
+[Open on Quran.com](https://quran.com/6/16)
+
+#### 7:47 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَإِذَا صُرِفَتْ أَبْصَـٰرُهُمْ تِلْقَآءَ أَصْحَـٰبِ ٱلنَّارِ قَالُوا۟ رَبَّنَا لَا تَجْعَلْنَا مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `صُرِفَتْ` — are turned
+
+**English (Sahih International):** And when their eyes are turned toward the companions of the Fire, they say, "Our Lord, do not place us with the wrongdoing people."
+
+**English (Yusuf Ali):** When their eyes shall be turned towards the Companions of the Fire, they will say: "Our Lord! send us not to the company of the wrong-doers."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کی نگاہیں پلٹ کر اہل دوزخ کی طرف جائیں گی تو عرض کریں گے کہ اے ہمارے پروردگار ہم کو ظالم لوگوں کے ساتھ شامل نہ کیجیو
+
+[Open on Quran.com](https://quran.com/7/47)
+
+#### 7:146 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+سَأَصْرِفُ عَنْ ءَايَـٰتِىَ ٱلَّذِينَ يَتَكَبَّرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍ لَّا يُؤْمِنُوا۟ بِهَا وَإِن يَرَوْا۟ سَبِيلَ ٱلرُّشْدِ لَا يَتَّخِذُوهُ سَبِيلًا وَإِن يَرَوْا۟ سَبِيلَ ٱلْغَىِّ يَتَّخِذُوهُ سَبِيلًا ۚ ذَٰلِكَ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ
+
+</div>
+
+**Word in this verse:** `سَأَصْرِفُ` — I will turn away
+
+**English (Sahih International):** I will turn away from My signs those who are arrogant upon the earth without right; and if they should see every sign, they will not believe in it. And if they see the way of consciousness, they will not adopt it as a way; but if they see the way of error, they will adopt it as a way. That is because they have denied Our signs and they were heedless of them.
+
+**English (Yusuf Ali):** Those who behave arrogantly on the earth in defiance of right - them will I turn away from My signs: Even if they see all the signs, they will not believe in them; and if they see the way of right conduct, they will not adopt it as the way; but if they see the way of error, that is the way they will adopt. For they have rejected our signs, and failed to take warning from them.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ زمین میں ناحق غرور کرتے ہیں ان کو اپنی آیتوں سے پھیر دوں گا۔ اگر یہ سب نشانیاں بھی دیکھ لیں تب بھی ان پر ایمان نہ لائیں اور اگر راستی کا رستہ دیکھیں تو اسے (اپنا) رستہ نہ بنائیں۔ اور اگر گمراہی کی راہ دیکھیں تو اسے رستہ بنالیں۔ یہ اس لیے کہ انہوں نے ہماری آیات کو جھٹلایا اور ان سے غفلت کرتے رہے
+
+[Open on Quran.com](https://quran.com/7/146)
+
+#### 9:127 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا مَآ أُنزِلَتْ سُورَةٌ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ يَرَىٰكُم مِّنْ أَحَدٍ ثُمَّ ٱنصَرَفُوا۟ ۚ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
+
+</div>
+
+**Word in this verse:** `صَرَفَ` — Allah has turned away
+
+**English (Sahih International):** And whenever a sūrah is revealed, they look at each other, [as if saying], "Does anyone see you?" and then they dismiss themselves. Allāh has dismissed their hearts because they are a people who do not understand.
+
+**English (Yusuf Ali):** Whenever there cometh down a Sura, they look at each other, (saying), "Doth anyone see you?" Then they turn aside: Allah hath turned their hearts (from the light); for they are a people that understand not.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب کوئی سورت نازل ہوتی ہے ایک دوسرے کی جانب دیکھنے لگتے ہیں (اور پوچھتے ہیں کہ) بھلا تمہیں کوئی دیکھتا ہے پھر پھر جاتے ہیں۔ خدا نے ان کے دلوں کو پھیر رکھا ہے کیونکہ یہ ایسے لوگ ہیں کہ سمجھ سے کام نہیں لیتے
+
+[Open on Quran.com](https://quran.com/9/127)
+
+#### 10:32 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَذَٰلِكُمُ ٱللَّهُ رَبُّكُمُ ٱلْحَقُّ ۖ فَمَاذَا بَعْدَ ٱلْحَقِّ إِلَّا ٱلضَّلَـٰلُ ۖ فَأَنَّىٰ تُصْرَفُونَ
+
+</div>
+
+**Word in this verse:** `تُصْرَفُونَ` — (are) you turned away
+
+**English (Sahih International):** For that is Allāh, your Lord, the Truth. And what can be beyond truth except error? So how are you averted?
+
+**English (Yusuf Ali):** Such is Allah, your real Cherisher and Sustainer: apart from truth, what (remains) but error? How then are ye turned away?
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی خدا تو تمہارا پروردگار برحق ہے۔ اور حق بات کے ظاہر ہونے کے بعد گمراہی کے سوا ہے ہی کیا؟ تو تم کہاں پھرے جاتے ہو
+
+[Open on Quran.com](https://quran.com/10/32)
+
+#### 12:24 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَـٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ
+
+</div>
+
+**Word in this verse:** `لِنَصْرِفَ` — that We might avert
+
+**English (Sahih International):** And she certainly determined [to seduce] him, and he would have inclined to her had he not seen the proof [i.e., sign] of his Lord. And thus [it was] that We should avert from him evil and immorality. Indeed, he was of Our chosen servants.
+
+**English (Yusuf Ali):** And (with passion) did she desire him, and he would have desired her, but that he saw the evidence of his Lord: thus (did We order) that We might turn away from him (all) evil and shameful deeds: for he was one of Our servants, sincere and purified.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس عورت نے ان کا قصد کیا اور انہوں نے اس کا قصد کیا۔ اگر وہ اپنے پروردگار کی نشانی نہ دیکھتے (تو جو ہوتا ہوتا) یوں اس لیے (کیا گیا) کہ ہم ان سے برائی اور بےحیائی کو روک دیں۔ بےشک وہ ہمارے خالص بندوں میں سے تھے
+
+[Open on Quran.com](https://quran.com/12/24)
+
+#### 12:33 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ ۖ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَـٰهِلِينَ
+
+</div>
+
+**Word in this verse:** `تَصْرِفْ` — You turn away
+
+**English (Sahih International):** He said, "My Lord, prison is more to my liking than that to which they invite me. And if You do not avert from me their plan, I might incline toward them and [thus] be of the ignorant."
+
+**English (Yusuf Ali):** He said: "O my Lord! the prison is more to my liking than that to which they invite me: Unless Thou turn away their snare from me, I should (in my youthful folly) feel inclined towards them and join the ranks of the ignorant."
+
+**Urdu (Fatah Muhammad Jalandhari):** یوسف نے دعا کی کہ پروردگار جس کام کی طرف یہ مجھے بلاتی ہیں اس کی نسبت مجھے قید پسند ہے۔ اور اگر تو مجھ سے ان کے فریب کو نہ ہٹائے گا تو میں ان کی طرف مائل ہوجاؤں گا اور نادانوں میں داخل ہوجاؤں گا
+
+[Open on Quran.com](https://quran.com/12/33)
+
+#### 12:34 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱسْتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنْهُ كَيْدَهُنَّ ۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+
+</div>
+
+**Word in this verse:** `فَصَرَفَ` — and turned away
+
+**English (Sahih International):** So his Lord responded to him and averted from him their plan. Indeed, He is the Hearing, the Knowing.
+
+**English (Yusuf Ali):** So his Lord hearkened to him (in his prayer), and turned away from him their snare: Verily He heareth and knoweth (all things).
+
+**Urdu (Fatah Muhammad Jalandhari):** تو خدا نے ان کی دعا قبول کرلی اور ان سے عورتوں کا مکر دفع کر دیا۔ بےشک وہ سننے (اور) جاننے والا ہے
+
+[Open on Quran.com](https://quran.com/12/34)
+
+#### 24:43 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَـٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ بَرَدٍ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ ۖ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَـٰرِ
+
+</div>
+
+**Word in this verse:** `وَيَصْرِفُهُۥ` — and averts it
+
+**English (Sahih International):** Do you not see that Allāh drives clouds? Then He brings them together; then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightning almost takes away the eyesight.
+
+**English (Yusuf Ali):** Seest thou not that Allah makes the clouds move gently, then joins them together, then makes them into a heap? - then wilt thou see rain issue forth from their midst. And He sends down from the sky mountain masses (of clouds) wherein is hail: He strikes therewith whom He pleases and He turns it away from whom He pleases, the vivid flash of His lightning well-nigh blinds the sight.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ خدا ہی بادلوں کو چلاتا ہے، اور ان کو آپس میں ملا دیتا ہے، پھر ان کو تہ بہ تہ کردیتا ہے، پھر تم دیکھتے ہو کہ بادل میں سے مینہ نکل (کر برس) رہا ہے اور آسمان میں جو (اولوں کے) پہاڑ ہیں، ان سے اولے نازل کرتا ہے تو جس پر چاہتا ہے اس کو برسا دیتا ہے اور جس سے چاہتا ہے ہٹا دیتا ہے۔ اور بادل میں جو بجلی ہوتی ہے اس کی چمک آنکھوں کو خیرہ کرکے بینائی کو اُچکے لئے جاتی ہے
+
+[Open on Quran.com](https://quran.com/24/43)
+
+_…and **4** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

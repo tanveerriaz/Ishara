@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** purify · **Root:** زكو
 
+
 ### Words (wikilinks — these create the graph)
 - [[>zkY - purer]]
 - [[tzkY - purifies himself]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** voice · **Root:** صوت
 
+
 ### Words (wikilinks — these create the graph)
 - [[Swt - voice]]
 

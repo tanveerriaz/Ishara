@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** i advise · **Root:** نصح
 
+
 ### Words (wikilinks — these create the graph)
 - [[nASH - sincere advisors]]
 - [[nSH - i advise]]

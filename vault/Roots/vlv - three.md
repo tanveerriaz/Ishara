@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** three · **Root:** ثلث
 
+
 ### Words (wikilinks — these create the graph)
 - [[vlAv - three]]
+- [[vlAv - three 2]]
 - [[vlAvp - three]]
 
 ### Surahs where this root appears

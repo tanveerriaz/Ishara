@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** becomes remote · **Root:** نأي
 
+
 ### Words (wikilinks — these create the graph)
 - [[n>Y - becomes remote]]
 

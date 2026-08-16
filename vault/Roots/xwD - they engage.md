@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they engage · **Root:** خوض
 
+
 ### Words (wikilinks — these create the graph)
 - [[xAD - they engage]]
 

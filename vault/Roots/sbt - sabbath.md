@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** sabbath · **Root:** سبت
 
+
 ### Words (wikilinks — these create the graph)
 - [[sbt - sabbath]]
 

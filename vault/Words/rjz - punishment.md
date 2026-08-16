@@ -2,8 +2,8 @@
 type: word
 lemma: "رِجْز"
 slug: "rjz - punishment"
-surah_count: 7
-ayah_count: 9
+surah_count: 6
+ayah_count: 8
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **punishment** · Lemma **رِجْز**
 
-### Surahs (7)
+### Surahs (6)
 - [[002 Al-Baqarah]]
 - [[007 Al-Araf]]
 - [[008 Al-Anfal]]
 - [[029 Al-Ankabut]]
 - [[034 Saba]]
 - [[045 Al-Jathiyah]]
-- [[074 Al-Muddaththir]]
 
 ## Verses (full text)
 
@@ -175,22 +174,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** یہ ہدایت (کی کتاب) ہے۔ اور جو لوگ اپنے پروردگار کی آیتوں سے انکار کرتے ہیں ان کو سخت قسم کا درد دینے والا عذاب ہوگا
 
 [Open on Quran.com](https://quran.com/45/11)
-
-#### 74:5 · [[074 Al-Muddaththir]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَٱلرُّجْزَ فَٱهْجُرْ
-
-</div>
-
-**Word in this verse:** `وَٱلرُّجْزَ` — And uncleanliness
-
-**English (Sahih International):** And uncleanliness avoid.
-
-**English (Yusuf Ali):** And all abomination shun!
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ناپاکی سے دور رہو
-
-[Open on Quran.com](https://quran.com/74/5)
 

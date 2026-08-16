@@ -14,31 +14,31 @@ The Light · 64 ayahs
 
 ## Words in this surah (graph)
 
+- [[rmY - accuse]] — `رَمَى` · accuse
+- [[rjl - feet]] — `رِجْل` · feet
 - [[Ast>*n - ask permission]] — `اسْتَأْذَنَ` · ask permission
 - [[>rbE - forty]] — `أَرْبَع` · forty
 - [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[rmY - accuse]] — `رَمَى` · accuse
-- [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[HfZ - guard]] — `حِفْظ` · guard
-- [[Hlm - dreams]] — `حُلُم` · dreams
-- [[ygD - lower]] — `يَغُضُّ` · lower
-- [[mHSnp - chaste women]] — `مُحْصَنَة` · chaste women
-- [[>xt - sisters]] — `أُخْت` · sisters
-- [[mbArkp - blessed]] — `مُبارَكَة` · blessed
 - [[mbynp - clear]] — `مُبَيِّنَة` · clear
-- [[>zkY - purer]] — `أَزْكَى` · purer
-- [[sHAb - clouds]] — `سَحاب` · clouds
-- [[>rbEp - four]] — `أَرْبَعَة` · four
-- [[frj - chastity]] — `فَرْج` · chastity
 - [[vyAb - garments]] — `ثِياب` · garments
+- [[>rbEp - four]] — `أَرْبَعَة` · four
+- [[ygD - lower]] — `يَغُضُّ` · lower
 - [[<fk - lie]] — `إِفْك` · lie
-- [[Tfl - as child]] — `طِفْل` · as child
+- [[slm - you pay]] — `سَلَّمَ` · you pay
+- [[sHAb - clouds]] — `سَحاب` · clouds
+- [[mHSnp - chaste women]] — `مُحْصَنَة` · chaste women
 - [[nkAH - marriage]] — `نِكاح` · marriage
-- [[$>n - any situation]] — `شَأْن` · any situation
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[ytklm - will speak]] — `يَتَكَلَّمُ` · will speak
-- [[tnkH - marry]] — `تُنكِحُ` · marry
-- [[>qAm - establish]] — `أَقامَ` · establish
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[frj - chastity]] — `فَرْج` · chastity
+- [[Tfl - as child]] — `طِفْل` · as child
+- [[Hlm - dreams]] — `حُلُم` · dreams
+- [[mbArkp - blessed]] — `مُبارَكَة` · blessed
+- [[>zkY - purer]] — `أَزْكَى` · purer
+- [[HfZ - guard]] — `حَفِظَ` · guard
+- [[>xt - sisters]] — `أُخْت` · sisters
+- [[mErD - turn away]] — `مُعْرِض` · turn away
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[mSbAH - lamp]] — `مِصْباح` · lamp
 
 ## Roots
 
@@ -53,8 +53,8 @@ The Light · 64 ayahs
 - [[$tt - diverse]]
 - [[$y> - thing]]
 - [[$yE - sects]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[>*n - by permission]]
 - [[>Hd - anyone]]
 - [[>Sl - evening]]

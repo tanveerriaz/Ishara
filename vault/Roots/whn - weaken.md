@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** weaken · **Root:** وهن
 
+
 ### Words (wikilinks — these create the graph)
 - [[whn - weaken]]
 

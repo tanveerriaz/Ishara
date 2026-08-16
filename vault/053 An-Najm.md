@@ -16,29 +16,29 @@ The Star · 62 ayahs
 
 - [[hwY - desire]] — `هَوَى` · desire
 - [[smY - name them]] — `سَمَّى` · name them
-- [[tmAr - argue]] — `تُمارِ` · argue
-- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
-- [[bkt - weeping]] — `بَكَتْ` · weeping
-- [[<nsAn - man]] — `إِنسان` · man
+- [[tmAr - dispute]] — `تَمارَ` · dispute
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[>HyA - gives life]] — `أَحْيا` · gives life
 - [[zAg - deviated]] — `زاغَ` · deviated
-- [[SAHb - companion]] — `صاحِب` · companion
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[qlyl - little]] — `قَلِيل` · little
-- [[>nvY - female]] — `أُنثَى` · female
-- [[sEY - strive]] — `سَعَى` · strive
-- [[kbrY - greatest]] — `كُبْرَى` · greatest
-- [[>sA' - does evil]] — `أَساءَ` · does evil
-- [[>fq - horizons]] — `أُفُق` · horizons
-- [[wAsE - all-encompassing]] — `واسِع` · all-encompassing
-- [[sbyl - way]] — `سَبِيل` · way
-- [[allah - God]] — `الله` · God
+- [[Asm - name]] — `اسْم` · name
+- [[Ebd - worship]] — `عَبَدَ` · worship
+- [[mlk - angels]] — `مَلَك` · angels
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
 - [[kbyrp - great]] — `كَبِيرَة` · great
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[tmnY - he recited]] — `تَمَنَّى` · he recited
-- [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[bqy - remained]] — `بَقِيَ` · remained
+- [[>n$> - we produced]] — `أَنشَأَ` · we produced
+- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[gwY - erred]] — `غَوَى` · erred
+- [[bEd - after]] — `بَعْد` · after
+- [[HsnY - best]] — `حُسْنَى` · best
+- [[>Hsn - do good]] — `أَحْسَنَ` · do good
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[Ajtnb - avoid]] — `اجْتَنَبُ` · avoid
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[bkt - weeping]] — `بَكَتْ` · weeping
+- [[Ejb - you wonder]] — `عَجِبُ` · you wonder
 
 ## Roots
 
@@ -46,7 +46,7 @@ The Star · 62 ayahs
 - [[$dd - severe]]
 - [[$fE - intercession]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>*n - by permission]]
 - [[>bw - forefathers]]
 - [[>fk - lie]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** leave · **Root:** وذر
 
+
 ### Words (wikilinks — these create the graph)
 - [[y*r - leave]]
 

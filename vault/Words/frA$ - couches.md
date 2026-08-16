@@ -2,8 +2,8 @@
 type: word
 lemma: "فِراش"
 slug: "frA$ - couches"
-surah_count: 4
-ayah_count: 4
+surah_count: 3
+ayah_count: 3
 tags: [word, meaning]
 ---
 
@@ -19,11 +19,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **couches** · Lemma **فِراش**
 
-### Surahs (4)
+### Surahs (3)
 - [[002 Al-Baqarah]]
 - [[055 Ar-Rahman]]
 - [[056 Al-Waqiah]]
-- [[101 Al-Qariah]]
 
 ## Verses (full text)
 
@@ -82,22 +81,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور اونچے اونچے فرشوں میں
 
 [Open on Quran.com](https://quran.com/56/34)
-
-#### 101:4 · [[101 Al-Qariah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ
-
-</div>
-
-**Word in this verse:** `كَٱلْفَرَاشِ` — like moths
-
-**English (Sahih International):** It is the Day when people will be like moths, dispersed,
-
-**English (Yusuf Ali):** (It is) a Day whereon men will be like moths scattered about,
-
-**Urdu (Fatah Muhammad Jalandhari):** (وہ قیامت ہے) جس دن لوگ ایسے ہوں گے جیسے بکھرے ہوئے پتنگے
-
-[Open on Quran.com](https://quran.com/101/4)
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hold fast · **Root:** عصم
 
+
 ### Words (wikilinks — these create the graph)
 - [[AEtSm - hold fast]]
 - [[EASm - protector]]

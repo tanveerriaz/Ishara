@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** favors · **Root:** ألو
 
+
 ### Words (wikilinks — these create the graph)
 - [[AlA' - favors]]
 

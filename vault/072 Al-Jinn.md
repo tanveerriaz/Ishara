@@ -14,31 +14,31 @@ The Jinn · 28 ayahs
 
 ## Words in this surah (graph)
 
-- [[r$d - right path]] — `رُشْد` · right path
+- [[r$d - right path 2]] — `رَشَد` · right path
+- [[Tryqp - way]] — `طَرِيقَة` · way
 - [[Edd - number]] — `عَدَد` · number
 - [[rsAlp - messages]] — `رِسالَة` · messages
-- [[Tryqp - way]] — `طَرِيقَة` · way
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[jn - covered]] — `جَنَّ` · covered
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[Zn - thought]] — `ظَنَّ` · thought
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
+- [[>HAT - they encompass]] — `أَحاطَ` · they encompass
+- [[An - now]] — `آن` · now
+- [[yEjz - escape]] — `يُعْجِزَ` · escape
+- [[$hAb - burning flame]] — `شِهاب` · burning flame
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[SAHbp - wife]] — `صاحِبَة` · wife
+- [[dEA - call]] — `دَعا` · call
+- [[qEd - sit]] — `قَعَدَ` · sit
 - [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[zAd - increase]] — `زادَ` · increase
-- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
-- [[allah - God]] — `الله` · God
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[qAm - stand]] — `قامَ` · stand
 - [[tdry - i know]] — `تَدْرِي` · i know
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[Atx* - take]] — `اتَّخَذَ` · take
-- [[$r - evil]] — `شَرّ` · evil
-- [[>rD - earth]] — `أَرْض` · earth
-- [[Elm - know]] — `عَلِمَ` · know
-- [[ArtDY - he approves]] — `ارْتَضَى` · he approves
-- [[AstmE - listen]] — `اسْتَمَعَ` · listen
-- [[msjd - al-masjid]] — `مَسْجِد` · al-masjid
+- [[byn - between them]] — `بَيْن` · between them
+- [[ml}t - surely]] — `مُلِئَتْ` · surely
+- [[>slm - submits]] — `أَسْلَمَ` · submits
 - [[rjAl - men]] — `رِجال` · men
-- [[>$rk - associate]] — `أَشْرَكَ` · associate
-- [[>sqy - we give you]] — `أَسْقَيْ` · we give you
-- [[xAf - fear]] — `خافَ` · fear
-- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
-- [[Amn - believe]] — `آمَنَ` · believe
+- [[r$d - right path]] — `رُشْد` · right path
 
 ## Roots
 
@@ -48,7 +48,7 @@ The Jinn · 28 ayahs
 - [[$rk - polytheists]]
 - [[$rr - evil]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>Hd - anyone]]
 - [[>bd - ever]]
 - [[>md - was distance]]

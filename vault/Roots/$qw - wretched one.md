@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** wretched one · **Root:** شقو
 
+
 ### Words (wikilinks — these create the graph)
 - [[>$qY - wretched one]]
 

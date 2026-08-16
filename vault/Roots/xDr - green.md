@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** green · **Root:** خضر
 
+
 ### Words (wikilinks — these create the graph)
 - [[xDr - green]]
 

@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** clear · **Root:** بين
 
+
 ### Words (wikilinks — these create the graph)
 - [[byAn - declaration]]
 - [[byn - between them]]
+- [[byn - makes clear]]
 - [[bynp - clear proofs]]
 - [[mbyn - clear]]
 - [[mbynp - clear]]

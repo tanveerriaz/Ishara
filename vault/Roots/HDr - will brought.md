@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** will brought · **Root:** حضر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>HDrt - swayed]]
 - [[HDr - approaches]]

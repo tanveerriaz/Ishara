@@ -2,8 +2,8 @@
 type: word
 lemma: "وَدَّ"
 slug: "wd - wished"
-surah_count: 12
-ayah_count: 19
+surah_count: 10
+ayah_count: 17
 tags: [word, meaning]
 ---
 
@@ -19,19 +19,17 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **wished** · Lemma **وَدَّ**
 
-### Surahs (12)
+### Surahs (10)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
 - [[008 Al-Anfal]]
 - [[015 Al-Hijr]]
-- [[019 Maryam]]
 - [[033 Al-Ahzab]]
 - [[058 Al-Mujadila]]
 - [[060 Al-Mumtahanah]]
 - [[068 Al-Qalam]]
 - [[070 Al-Maarij]]
-- [[071 Nuh]]
 
 ## Verses (full text)
 
@@ -217,5 +215,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/102)
 
-_…and **9** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **7** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

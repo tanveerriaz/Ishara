@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** trade · **Root:** بيع
 
+
 ### Words (wikilinks — these create the graph)
 - [[bAyE - pledging you]]
 - [[byE - trade]]

@@ -14,31 +14,31 @@ The Rocky Tract · 99 ayahs
 
 ## Words in this surah (graph)
 
-- [[mrsl - messengers]] — `مُرْسَل` · messengers
 - [[mElwm - known]] — `مَعْلُوم` · known
-- [[mnZr - given respite]] — `مُنظَر` · given respite
-- [[Dyf - guests]] — `ضَيْف` · guests
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[rjym - accursed]] — `رَجِيم` · accursed
-- [[SyHp - shout]] — `صَيْحَة` · shout
-- [[sAjd - prostrating]] — `ساجِد` · prostrating
-- [[sjd - prostrate]] — `سَجَدَ` · prostrate
-- [[md - spread]] — `مَدَّ` · spread
-- [[mSbH - morning]] — `مُصْبِح` · morning
-- [[wqt - time]] — `وَقْت` · time
-- [[<nsAn - man]] — `إِنسان` · man
-- [[slAm - peace]] — `سَلام` · peace
-- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
-- [[AtY - give]] — `آتَى` · give
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[mqym - lasting]] — `مُقِيم` · lasting
-- [[glAm - boy]] — `غُلام` · boy
-- [[ynZr - will reprieved]] — `يُنظَرُ` · will reprieved
-- [[>kl - eat]] — `أَكَلَ` · eat
+- [[mrsl - messengers]] — `مُرْسَل` · messengers
 - [[>jmE - all]] — `أَجْمَع` · all
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[SyHp - shout]] — `صَيْحَة` · shout
+- [[Amn - secure]] — `آمِن` · secure
+- [[md - spread]] — `مَدَّ` · spread
+- [[b$r - man]] — `بَشَر` · man
+- [[sAjd - prostrating]] — `ساجِد` · prostrating
+- [[Dyf - guests]] — `ضَيْف` · guests
+- [[rjym - accursed]] — `رَجِيم` · accursed
+- [[*kr - reminder]] — `ذِكْر` · reminder
+- [[mSbH - morning]] — `مُصْبِح` · morning
+- [[mnZr - given respite]] — `مُنظَر` · given respite
+- [[sjd - prostrate]] — `سَجَدَ` · prostrate
+- [[>jl - term]] — `أَجَل` · term
+- [[>HyA - gives life]] — `أَحْيا` · gives life
 - [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[mErD - turn away]] — `مُعْرِض` · turn away
+- [[wqt - time]] — `وَقْت` · time
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[Ebd - worship]] — `عَبَدَ` · worship
+- [[xAlq - creator]] — `خالِق` · creator
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[$hAb - burning flame]] — `شِهاب` · burning flame
 
 ## Roots
 
@@ -48,7 +48,7 @@ The Rocky Tract · 99 ayahs
 - [[$rq - east]]
 - [[$y> - thing]]
 - [[$yE - sects]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>Hd - anyone]]
 - [[>by - he refused]]
 - [[>hl - people]]
@@ -77,7 +77,7 @@ The Rocky Tract · 99 ayahs
 - [[Elw - high]]
 - [[Emh - wandering blindly]]
 - [[Eml - do]]
-- [[Emr - life]]
+- [[Emr - inhabit build maintain flourish]]
 - [[End - near]]
 - [[ErD - turn away]]
 - [[Erj - ascend]]

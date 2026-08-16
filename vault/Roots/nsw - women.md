@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** women · **Root:** نسو
 
+
 ### Words (wikilinks — these create the graph)
 - [[nsA' - women]]
 

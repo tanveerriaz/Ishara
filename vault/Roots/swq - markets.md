@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** markets · **Root:** سوق
 
+
 ### Words (wikilinks — these create the graph)
 - [[sAq - shins]]
 - [[swq - markets]]

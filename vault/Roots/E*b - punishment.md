@@ -11,9 +11,12 @@ tags: [root, meaning]
 
 **Sense:** punishment · **Root:** عذب
 
+
 ### Words (wikilinks — these create the graph)
 - [[E*Ab - punishment]]
+- [[E*b - palatable]]
 - [[E*b - punishes]]
+- [[mE*b - punish them]]
 - [[mE*b - will punished]]
 
 ### Surahs where this root appears

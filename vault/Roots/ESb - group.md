@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** group · **Root:** عصب
 
+
 ### Words (wikilinks — these create the graph)
 - [[ESbp - group]]
 

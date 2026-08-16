@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** complete · **Root:** تمم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>tm - complete]]
 - [[tm - was fulfilled]]

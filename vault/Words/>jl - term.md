@@ -2,8 +2,8 @@
 type: word
 lemma: "أَجَل"
 slug: ">jl - term"
-surah_count: 28
-ayah_count: 47
+surah_count: 26
+ayah_count: 45
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **term** · Lemma **أَجَل**
 
-### Surahs (28)
+### Surahs (26)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
-- [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[010 Yunus]]
@@ -45,6 +44,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[042 Ash-Shuraa]]
 - [[046 Al-Ahqaf]]
 - [[063 Al-Munafiqun]]
+- [[065 At-Talaq]]
 
 ## Verses (full text)
 
@@ -158,24 +158,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/77)
 
-#### 5:32 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا ۚ وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَـٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ
-
-</div>
-
-**Word in this verse:** `أَجْلِ` — time
-
-**English (Sahih International):** Because of that, We decreed upon the Children of Israel that whoever kills a soul unless for a soul or for corruption [done] in the land - it is as if he had slain mankind entirely. And whoever saves one - it is as if he had saved mankind entirely. And Our messengers had certainly come to them with clear proofs. Then indeed many of them, [even] after that, throughout the land, were transgressors.
-
-**English (Yusuf Ali):** On that account: We ordained for the Children of Israel that if any one slew a person - unless it be for murder or for spreading mischief in the land - it would be as if he slew the whole people: and if any one saved a life, it would be as if he saved the life of the whole people. Then although there came to them Our messengers with clear signs, yet, even after that, many of them continued to commit excesses in the land.
-
-**Urdu (Fatah Muhammad Jalandhari):** اس قتل کی وجہ سے ہم نے بنی اسرائیل پر یہ حکم نازل کیا کہ جو شخص کسی کو (ناحق) قتل کرے گا (یعنی) بغیر اس کے کہ جان کا بدلہ لیا جائے یا ملک میں خرابی کرنے کی سزا دی جائے اُس نے گویا تمام لوگوں کو قتل کیا اور جو اس کی زندگانی کا موجب ہوا تو گویا تمام لوگوں کی زندگانی کا موجب ہوا اور ان لوگوں کے پاس ہمارے پیغمبر روشن دلیلیں لا چکے ہیں پھر اس کے بعد بھی ان سے بہت سے لوگ ملک میں حدِ اعتدال سے نکل جاتے ہیں
-
-[Open on Quran.com](https://quran.com/5/32)
-
 #### 6:2 · [[006 Al-Anam]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -230,5 +212,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/128)
 
-_…and **37** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 7:34 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلِكُلِّ أُمَّةٍ أَجَلٌ ۖ فَإِذَا جَآءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ
+
+</div>
+
+**Word in this verse:** `أَجَلٌۭ ۖ` — (is a fixed) term
+
+**English (Sahih International):** And for every nation is a [specified] term. So when their time has come, they will not remain behind an hour, nor will they precede [it].
+
+**English (Yusuf Ali):** To every people is a term appointed: when their term is reached, not an hour can they cause delay, nor (an hour) can they advance (it in anticipation).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہر ایک فرقے کے لیے (موت کا) ایک وقت مقرر ہے۔ جب وہ آ جاتا ہے تو نہ تو ایک گھڑی دیر کرسکتے ہیں نہ جلدی
+
+[Open on Quran.com](https://quran.com/7/34)
+
+_…and **35** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

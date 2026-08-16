@@ -15,36 +15,36 @@ She that is to be examined · 13 ayahs
 ## Words in this surah (graph)
 
 - [[mwdp - love]] — `مَوَدَّة` · love
-- [[mqsT - act justly]] — `مُقْسِط` · act justly
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[swA' - it same]] — `سَواء` · it same
-- [[AtY - give]] — `آتَى` · give
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
-- [[dAr - home]] — `دار` · home
-- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[>nfq - spend]] — `أَنفَقَ` · spend
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[sbyl - way]] — `سَبِيل` · way
-- [[allah - God]] — `الله` · God
-- [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[Atx* - take]] — `اتَّخَذَ` · take
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[wd - wished]] — `وَدَّ` · wished
-- [[EsY - perhaps]] — `عَسَى` · perhaps
+- [[EdAwp - enmity]] — `عَداوَة` · enmity
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[Ebd - worship]] — `عَبَدَ` · worship
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[dAr - home]] — `دار` · home
+- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[EAqb - you retaliate]] — `عاقَبَ` · you retaliate
+- [[mSyr - destination]] — `مَصِير` · destination
+- [[byn - between them]] — `بَيْن` · between them
 - [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[bgDA' - hatred]] — `بَغْضاء` · hatred
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[Elm - know]] — `عَلِمَ` · know
-- [[gfr - forgive]] — `غَفَرَ` · forgive
-- [[>$rk - associate]] — `أَشْرَكَ` · associate
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[>Hbb - love]] — `أَحْبَبْ` · love
+- [[ZAhr - pronounce zihar]] — `ظاهَرُ` · pronounce zihar
+- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
+- [[Edw - enemy]] — `عَدُوّ` · enemy
+- [[>b - father]] — `أَب` · father
+- [[Elm - know]] — `عَلِمَ` · know
+- [[<xrAj - eviction]] — `إِخْراج` · eviction
 
 ## Roots
 
 - [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*hb - gold]]
+- [[*hb - go]]
 - [[>bd - ever]]
 - [[>bw - forefathers]]
 - [[>jr - reward]]
@@ -91,7 +91,7 @@ She that is to be examined · 13 ayahs
 - [[dwr - home]]
 - [[dyn - judgment]]
 - [[fEl - you do]]
-- [[fSl - we explain]]
+- [[fSl - judgment]]
 
 ## Sample (ayah 1)
 

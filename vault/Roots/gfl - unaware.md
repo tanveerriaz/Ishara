@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** unaware · **Root:** غفل
 
+
 ### Words (wikilinks — these create the graph)
 - [[gAfl - unaware]]
 - [[gflp - heedlessness]]

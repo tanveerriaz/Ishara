@@ -14,31 +14,31 @@ The Ornaments of Gold · 89 ayahs
 
 ## Words in this surah (graph)
 
-- [[qryn - companion]] — `قَرِين` · companion
+- [[*hb - gold]] — `ذَهَب` · gold
 - [[Antqm - so we took]] — `انتَقَمْ` · so we took
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[ylAq - they meet]] — `يُلاقُ` · they meet
-- [[<nsAn - man]] — `إِنسان` · man
-- [[kZym - suppressor]] — `كَظِيم` · suppressor
-- [[Axtlf - differ]] — `اخْتَلَفَ` · differ
-- [[Hkmp - wisdom]] — `حِكْمَة` · wisdom
-- [[slAm - peace]] — `سَلام` · peace
-- [[AtY - give]] — `آتَى` · give
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[y*r - leave]] — `يَذَرَ` · leave
-- [[nZr - see]] — `نَظَرَ` · see
-- [[>nvY - female]] — `أُنثَى` · female
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[>sAwr - bracelets]] — `أَساوِر` · bracelets
-- [[>jmE - all]] — `أَجْمَع` · all
-- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[qryn - companion]] — `قَرِين` · companion
 - [[>TAE - obey]] — `أَطاعَ` · obey
-- [[mnqlb - will return]] — `مُنقَلِب` · will return
-- [[>$d - stronger]] — `أَشَدّ` · stronger
-- [[sbyl - way]] — `سَبِيل` · way
-- [[allah - God]] — `الله` · God
-- [[>kvr - them]] — `أَكْثَر` · them
+- [[>kbr - greater]] — `أَكْبَر` · greater
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[bldp - land]] — `بَلْدَة` · land
+- [[xSym - opponent]] — `خَصِيم` · opponent
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
+- [[Ebd - worship]] — `عَبَدَ` · worship
+- [[$hAdp - witnessed]] — `شَهادَة` · witnessed
+- [[sqf - roof]] — `سَقْف` · roof
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[mlk - angels]] — `مَلَك` · angels
+- [[dEA - call]] — `دَعا` · call
+- [[nZr - see]] — `نَظَرَ` · see
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[>fk - they deluded]] — `أُفِكَ` · they deluded
+- [[Astxf - you find light]] — `اسْتَخَفَّ` · you find light
+- [[ymtr - doubt]] — `يَمْتَرُ` · doubt
+- [[mtE - then i will]] — `مَتَّعْ` · then i will
+- [[>hdY - better guided]] — `أَهْدَى` · better guided
+- [[fwq - above them]] — `فَوْق` · above them
 
 ## Roots
 
@@ -51,8 +51,8 @@ The Ornaments of Gold · 89 ayahs
 - [[$rk - polytheists]]
 - [[$rq - east]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[>Hd - anyone]]
 - [[>bw - forefathers]]
 - [[>fk - lie]]
@@ -65,7 +65,7 @@ The Ornaments of Gold · 89 ayahs
 - [[>ns - people]]
 - [[>nv - female]]
 - [[>rD - earth]]
-- [[>sf - grieved]]
+- [[>sf - alas]]
 - [[>ty - give]]
 - [[>vr - footsteps]]
 - [[>wl - first]]

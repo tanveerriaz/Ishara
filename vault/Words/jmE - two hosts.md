@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "جَمَعَ"
+lemma: "جَمْع"
 slug: "jmE - two hosts"
-surah_count: 22
-ayah_count: 33
+surah_count: 11
+ayah_count: 13
 tags: [word, meaning]
 ---
 
@@ -17,53 +17,24 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[jmE - all]]
 
 ### Meaning
-**two hosts** · Lemma **جَمَعَ**
+**two hosts** · Lemma **جَمْع**
 
-### Surahs (22)
+### Surahs (11)
 - [[003 Ali Imran]]
-- [[004 An-Nisa]]
-- [[005 Al-Maidah]]
-- [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[008 Al-Anfal]]
-- [[010 Yunus]]
 - [[018 Al-Kahf]]
-- [[020 Taha]]
 - [[026 Ash-Shuara]]
 - [[028 Al-Qasas]]
-- [[034 Saba]]
 - [[042 Ash-Shuraa]]
-- [[043 Az-Zukhruf]]
-- [[045 Al-Jathiyah]]
 - [[054 Al-Qamar]]
 - [[064 At-Taghabun]]
-- [[070 Al-Maarij]]
 - [[075 Al-Qiyamah]]
-- [[077 Al-Mursalat]]
 - [[100 Al-Adiyat]]
-- [[104 Al-Humazah]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 3:25 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَكَيْفَ إِذَا جَمَعْنَـٰهُمْ لِيَوْمٍ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
-
-</div>
-
-**Word in this verse:** `جَمَعْنَـٰهُمْ` — We will gather them
-
-**English (Sahih International):** So how will it be when We assemble them for a Day about which there is no doubt? And each soul will be compensated [in full for] what it earned, and they will not be wronged.
-
-**English (Yusuf Ali):** But how (will they fare) when we gather them together against a day about which there is no doubt, and each soul will be paid out just what it has earned, without (favour or) injustice?
-
-**Urdu (Fatah Muhammad Jalandhari):** تو اس وقت کیا حال ہوگا جب ہم ان کو جمع کریں گے (یعنی) اس روز جس (کے آنے) میں کچھ بھی شک نہیں اور ہر نفس اپنے اعمال کا پورا پورا بدلہ پائے گا اور ان پر ظلم نہیں کیا جائے گا
-
-[Open on Quran.com](https://quran.com/3/25)
 
 #### 3:155 · [[003 Ali Imran]]
 
@@ -83,24 +54,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/155)
 
-#### 3:157 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَئِن قُتِلْتُمْ فِى سَبِيلِ ٱللَّهِ أَوْ مُتُّمْ لَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرَحْمَةٌ خَيْرٌ مِّمَّا يَجْمَعُونَ
-
-</div>
-
-**Word in this verse:** `يَجْمَعُونَ` — they accumulate
-
-**English (Sahih International):** And if you are killed in the cause of Allāh or die - then forgiveness from Allāh and mercy are better than whatever they accumulate [in this world].
-
-**English (Yusuf Ali):** And if ye are slain, or die, in the way of Allah, forgiveness and mercy from Allah are far better than all they could amass.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم خدا کے رستے میں مارے جاؤ یا مرجاؤ تو جو (مال و متاع) لوگ جمع کرتے ہیں اس سے خدا کی بخشش اور رحمت کہیں بہتر ہے
-
-[Open on Quran.com](https://quran.com/3/157)
-
 #### 3:166 · [[003 Ali Imran]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -119,113 +72,149 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/166)
 
-#### 3:173 · [[003 Ali Imran]]
+#### 7:48 · [[007 Al-Araf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَـٰنًا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ
+وَنَادَىٰٓ أَصْحَـٰبُ ٱلْأَعْرَافِ رِجَالًا يَعْرِفُونَهُم بِسِيمَىٰهُمْ قَالُوا۟ مَآ أَغْنَىٰ عَنكُمْ جَمْعُكُمْ وَمَا كُنتُمْ تَسْتَكْبِرُونَ
 
 </div>
 
-**Word in this verse:** `جَمَعُوا۟` — gathered
+**Word in this verse:** `جَمْعُكُمْ` — your gathering
 
-**English (Sahih International):** Those to whom people [i.e., hypocrites] said, "Indeed, the people have gathered against you, so fear them." But it [merely] increased them in faith, and they said, "Sufficient for us is Allāh, and [He is] the best Disposer of affairs."
+**English (Sahih International):** And the companions of the Elevations will call to men [within Hell] whom they recognize by their mark, saying, "Of no avail to you was your gathering and [the fact] that you were arrogant."
 
-**English (Yusuf Ali):** Men said to them: "A great army is gathering against you": And frightened them: But it (only) increased their Faith: They said: "For us Allah sufficeth, and He is the best disposer of affairs."
+**English (Yusuf Ali):** The men on the heights will call to certain men whom they will know from their marks, saying: "Of what profit to you were your hoards and your arrogant ways?
 
-**Urdu (Fatah Muhammad Jalandhari):** (جب) ان سے لوگوں نے آکر بیان کیا کہ کفار نے تمہارے (مقابلے کے) لئے لشکر کثیر) جمع کیا ہے تو ان سے ڈرو۔ تو ان کا ایمان اور زیادہ ہوگیا۔ اور کہنے لگے ہم کو خدا کافی ہے اور وہ بہت اچھا کارساز ہے
+**Urdu (Fatah Muhammad Jalandhari):** اور اہل اعراف (کافر) لوگوں کو جنہیں ان کی صورتوں سے شناخت کرتے ہوں گے پکاریں گے اور کہیں گے (کہ آج) نہ تو تمہاری جماعت ہی تمہارے کچھ کام آئی اور نہ تمہارا تکبّر (ہی سودمند ہوا)
 
-[Open on Quran.com](https://quran.com/3/173)
+[Open on Quran.com](https://quran.com/7/48)
 
-#### 4:23 · [[004 An-Nisa]]
+#### 8:41 · [[008 Al-Anfal]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-حُرِّمَتْ عَلَيْكُمْ أُمَّهَـٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّـٰتُكُمْ وَخَـٰلَـٰتُكُمْ وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَـٰتُكُمُ ٱلَّـٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ ٱلرَّضَـٰعَةِ وَأُمَّهَـٰتُ نِسَآئِكُمْ وَرَبَـٰٓئِبُكُمُ ٱلَّـٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ ٱلَّـٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَـٰٓئِلُ أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَـٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ ۗ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا
+۞ وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱبْنِ ٱلسَّبِيلِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ وَمَآ أَنزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ ٱلْفُرْقَانِ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 
 </div>
 
-**Word in this verse:** `تَجْمَعُوا۟` — you gather together
+**Word in this verse:** `ٱلْجَمْعَانِ ۗ` — the two forces
 
-**English (Sahih International):** Prohibited to you [for marriage] are your mothers, your daughters, your sisters, your father's sisters, your mother's sisters, your brother's daughters, your sister's daughters, your [milk] mothers who nursed you, your sisters through nursing, your wives' mothers, and your step-daughters under your guardianship [born] of your wives unto whom you have gone in. But if you have not gone in unto them, there is no sin upon you. And [also prohibited are] the wives of your sons who are from your [own] loins, and that you take [in marriage] two sisters simultaneously, except for what has already occurred. Indeed, Allāh is ever Forgiving and Merciful.
+**English (Sahih International):** And know that anything you obtain of war booty - then indeed, for Allāh is one fifth of it and for the Messenger and for [his] near relatives and the orphans, the needy, and the [stranded] traveler, if you have believed in Allāh and in that which We sent down to Our Servant on the day of criterion [i.e., decisive encounter] - the day when the two armies met [at Badr]. And Allāh, over all things, is competent.
 
-**English (Yusuf Ali):** Prohibited to you (For marriage) are:- Your mothers, daughters, sisters; father's sisters, Mother's sisters; brother's daughters, sister's daughters; foster-mothers (Who gave you suck), foster-sisters; your wives' mothers; your step-daughters under your guardianship, born of your wives to whom ye have gone in,- no prohibition if ye have not gone in;- (Those who have been) wives of your sons proceeding from your loins; and two sisters in wedlock at one and the same time, except for what is past; for Allah is Oft-forgiving, Most Merciful;-
+**English (Yusuf Ali):** And know that out of all the booty that ye may acquire (in war), a fifth share is assigned to Allah,- and to the Messenger, and to near relatives, orphans, the needy, and the wayfarer,- if ye do believe in Allah and in the revelation We sent down to Our servant on the Day of Testing,- the Day of the meeting of the two forces. For Allah hath power over all things.
 
-**Urdu (Fatah Muhammad Jalandhari):** تم پر تمہاری مائیں اور بیٹیاں اور بہنیں اور پھوپھیاں اور خالائیں اور بھتیجیاں اور بھانجیاں اور وہ مائیں جنہوں نے تم کو دودھ پلایا ہو اور رضاعی بہنیں اور ساسیں حرام کر دی گئی ہیں اور جن عورتوں سے تم مباشرت کر چکے ہو ان کی لڑکیاں جنہیں تم پرورش کرتے (ہو وہ بھی تم پر حرام ہیں) ہاں اگر ان کے ساتھ تم نے مباشرت نہ کی ہو تو (ان کی لڑکیوں کے ساتھ نکاح کر لینے میں) تم پر کچھ گناہ نہیں اور تمہارے صلبی بیٹوں کی عورتیں بھی اور دو بہنوں کا اکٹھا کرنا بھی (حرام ہے) مگر جو ہو چکا (سو ہو چکا) بے شک خدا بخشنے والا (اور) رحم کرنے والا ہے
+**Urdu (Fatah Muhammad Jalandhari):** اور جان رکھو کہ جو چیز تم (کفار سے) لوٹ کر لاؤ اس میں سے پانچواں حصہ خدا کا اور اس کے رسول کا اور اہل قرابت کا اور یتیموں کا اور محتاجوں کا اور مسافروں کا ہے۔ اگر تم خدا پر اور اس (نصرت) پر ایمان رکھتے ہو جو (حق وباطل میں) فرق کرنے کے دن (یعنی جنگ بدر میں) جس دن دونوں فوجوں میں مڈھ بھیڑ ہوگئی۔ اپنے بندے (محمدﷺ) پر نازل فرمائی۔ اور خدا ہر چیز پر قادر ہے
 
-[Open on Quran.com](https://quran.com/4/23)
+[Open on Quran.com](https://quran.com/8/41)
 
-#### 4:87 · [[004 An-Nisa]]
+#### 18:99 · [[018 Al-Kahf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًا
+۞ وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِى بَعْضٍ ۖ وَنُفِخَ فِى ٱلصُّورِ فَجَمَعْنَـٰهُمْ جَمْعًا
 
 </div>
 
-**Word in this verse:** `لَيَجْمَعَنَّكُمْ` — surely He will gather you
+**Word in this verse:** `جَمْعًۭا` — all together
 
-**English (Sahih International):** Allāh - there is no deity except Him. He will surely assemble you for [account on] the Day of Resurrection, about which there is no doubt. And who is more truthful than Allāh in statement.
+**English (Sahih International):** And We will leave them that day surging over each other, and [then] the Horn will be blown, and We will assemble them in [one] assembly.
 
-**English (Yusuf Ali):** Allah! There is no god but He: of a surety He will gather you together against the Day of Judgment, about which there is no doubt. And whose word can be truer than Allah's?
+**English (Yusuf Ali):** On that day We shall leave them to surge like waves on one another: the trumpet will be blown, and We shall collect them all together.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا (وہ معبود برحق ہے کہ) اس کے سوا کوئی عبادت کے لائق نہیں وہ قیامت کے دن تم سب کو ضرور جمع کرے گا اور خدا سے بڑھ کر بات کا سچا کون ہے؟
+**Urdu (Fatah Muhammad Jalandhari):** (اس روز) ہم ان کو چھوڑ دیں گے کہ (روئے زمین پر پھیل کر) ایک دوسرے میں گھس جائیں گے اور صور پھونکا جائے گا تو ہم سب کو جمع کرلیں گے
 
-[Open on Quran.com](https://quran.com/4/87)
+[Open on Quran.com](https://quran.com/18/99)
 
-#### 5:109 · [[005 Al-Maidah]]
+#### 26:61 · [[026 Ash-Shuara]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-۞ يَوْمَ يَجْمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبْتُمْ ۖ قَالُوا۟ لَا عِلْمَ لَنَآ ۖ إِنَّكَ أَنتَ عَلَّـٰمُ ٱلْغُيُوبِ
+فَلَمَّا تَرَٰٓءَا ٱلْجَمْعَانِ قَالَ أَصْحَـٰبُ مُوسَىٰٓ إِنَّا لَمُدْرَكُونَ
 
 </div>
 
-**Word in this verse:** `يَجْمَعُ` — will (be) gathered
+**Word in this verse:** `ٱلْجَمْعَانِ` — the two hosts
 
-**English (Sahih International):** [Be warned of] the Day when Allāh will assemble the messengers and say, "What was the response you received?" They will say, "We have no knowledge. Indeed, it is You who is Knower of the unseen" -
+**English (Sahih International):** And when the two companies saw one another, the companions of Moses said, "Indeed, we are to be overtaken!"
 
-**English (Yusuf Ali):** One day will Allah gather the messengers together, and ask: "What was the response ye received (from men to your teaching)?" They will say: "We have no knowledge: it is Thou Who knowest in full all that is hidden."
+**English (Yusuf Ali):** And when the two bodies saw each other, the people of Moses said: "We are sure to be overtaken."
 
-**Urdu (Fatah Muhammad Jalandhari):** (وہ دن یاد رکھنے کے لائق ہے) جس دن خدا پیغمبروں کو جمع کرے گا پھر ان سے پوچھے گا کہ تمہیں کیا جواب ملا تھا وہ عرض کریں گے کہ ہمیں کچھ معلوم نہیں توہی غیب کی باتوں سے واقف ہے
+**Urdu (Fatah Muhammad Jalandhari):** جب دونوں جماعتیں آمنے سامنے ہوئیں تو موسیٰ کے ساتھی کہنے لگے کہ ہم تو پکڑ لئے گئے
 
-[Open on Quran.com](https://quran.com/5/109)
+[Open on Quran.com](https://quran.com/26/61)
 
-#### 6:12 · [[006 Al-Anam]]
+#### 28:78 · [[028 Al-Qasas]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-قُل لِّمَن مَّا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ قُل لِّلَّهِ ۚ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ لَا رَيْبَ فِيهِ ۚ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ
+قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍ عِندِىٓ ۚ أَوَلَمْ يَعْلَمْ أَنَّ ٱللَّهَ قَدْ أَهْلَكَ مِن قَبْلِهِۦ مِنَ ٱلْقُرُونِ مَنْ هُوَ أَشَدُّ مِنْهُ قُوَّةً وَأَكْثَرُ جَمْعًا ۚ وَلَا يُسْـَٔلُ عَن ذُنُوبِهِمُ ٱلْمُجْرِمُونَ
 
 </div>
 
-**Word in this verse:** `لَيَجْمَعَنَّكُمْ` — Surely He will assemble you
+**Word in this verse:** `جَمْعًۭا ۚ` — (in) accumulation
 
-**English (Sahih International):** Say, "To whom belongs whatever is in the heavens and earth?" Say, "To Allāh." He has decreed upon Himself mercy. He will surely assemble you for the Day of Resurrection, about which there is no doubt. Those who will lose themselves [that Day] do not believe.
+**English (Sahih International):** He said, "I was only given it because of knowledge I have." Did he not know that Allāh had destroyed before him of generations those who were greater than him in power and greater in accumulation [of wealth]? But the criminals, about their sins, will not be asked.
 
-**English (Yusuf Ali):** Say: "To whom belongeth all that is in the heavens and on earth?" Say: "To Allah. He hath inscribed for Himself (the rule of) Mercy. That He will gather you together for the Day of Judgment, there is no doubt whatever. It is they who have lost their own souls, that will not believe.
+**English (Yusuf Ali):** He said: "This has been given to me because of a certain knowledge which I have." Did he not know that Allah had destroyed, before him, (whole) generations,- which were superior to him in strength and greater in the amount (of riches) they had collected? but the wicked are not called (immediately) to account for their sins.
 
-**Urdu (Fatah Muhammad Jalandhari):** (ان سے) پوچھو کہ آسمان اور زمین میں جو کچھ ہے کس کا ہے کہہ دو خدا کا اس نے اپنی ذات (پاک) پر رحمت کو لازم کر لیا ہے وہ تم سب کو قیامت کے دن جس میں کچھ بھی شک نہیں ضرور جمع کرے گا جن لوگوں نے اپنے تیئیں نقصان میں ڈال رکھا ہے وہ ایمان نہیں لاتے
+**Urdu (Fatah Muhammad Jalandhari):** بولا کہ یہ (مال) مجھے میری دانش (کے زور) سے ملا ہے کیا اس کو معلوم نہیں کہ خدا نے اس سے پہلے بہت سی اُمتیں جو اس سے قوت میں بڑھ کر اور جمعیت میں بیشتر تھیں ہلاک کر ڈالی ہیں۔ اور گنہگاروں سے اُن کے گناہوں کے بارے میں پوچھا نہیں جائے گا
 
-[Open on Quran.com](https://quran.com/6/12)
+[Open on Quran.com](https://quran.com/28/78)
 
-#### 6:35 · [[006 Al-Anam]]
+#### 42:7 · [[042 Ash-Shuraa]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًا فِى ٱلْأَرْضِ أَوْ سُلَّمًا فِى ٱلسَّمَآءِ فَتَأْتِيَهُم بِـَٔايَةٍ ۚ وَلَوْ شَآءَ ٱللَّهُ لَجَمَعَهُمْ عَلَى ٱلْهُدَىٰ ۚ فَلَا تَكُونَنَّ مِنَ ٱلْجَـٰهِلِينَ
+وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌ فِى ٱلْجَنَّةِ وَفَرِيقٌ فِى ٱلسَّعِيرِ
 
 </div>
 
-**Word in this verse:** `لَجَمَعَهُمْ` — surely He (would) have gathered them
+**Word in this verse:** `ٱلْجَمْعِ` — (of) Assembly
 
-**English (Sahih International):** And if their evasion is difficult for you, then if you are able to seek a tunnel into the earth or a stairway into the sky to bring them a sign, [then do so]. But if Allāh had willed, He would have united them upon guidance. So never be of the ignorant.
+**English (Sahih International):** And thus We have revealed to you an Arabic Qur’ān that you may warn the Mother of Cities [i.e., Makkah] and those around it and warn of the Day of Assembly, about which there is no doubt. A party will be in Paradise and a party in the Blaze.
 
-**English (Yusuf Ali):** If their spurning is hard on thy mind, yet if thou wert able to seek a tunnel in the ground or a ladder to the skies and bring them a sign,- (what good?). If it were Allah's will, He could gather them together unto true guidance: so be not thou amongst those who are swayed by ignorance (and impatience)!
+**English (Yusuf Ali):** Thus have We sent by inspiration to thee an Arabic Qur'an: that thou mayest warn the Mother of Cities and all around her,- and warn (them) of the Day of Assembly, of which there is no doubt: (when) some will be in the Garden, and some in the Blazing Fire.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر ان کی روگردانی تم پر شاق گزرتی ہے تو اگر طاقت ہو تو زمین میں کوئی سرنگ ڈھونڈ نکالو یا آسمان میں سیڑھی (تلاش کرو) پھر ان کے پاس کوئی معجزہ لاؤ۔ اور اگر خدا چاہتا تو سب کو ہدایت پر جمع کردیتا پس تم ہرگز نادانوں میں نہ ہونا
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح تمہارے پاس قرآن عربی بھیجا ہے تاکہ تم بڑے گاؤں (یعنی مکّے) کے رہنے والوں کو اور جو لوگ اس کے اردگرد رہتے ہیں ان کو رستہ دکھاؤ اور انہیں قیامت کے دن کا بھی جس میں کچھ شک نہیں ہے خوف دلاؤ۔ اس روز ایک فریق بہشت میں ہوگا اور ایک فریق دوزخ میں
 
-[Open on Quran.com](https://quran.com/6/35)
+[Open on Quran.com](https://quran.com/42/7)
 
-_…and **23** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 42:29 · [[042 Ash-Shuraa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنْ ءَايَـٰتِهِۦ خَلْقُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَثَّ فِيهِمَا مِن دَآبَّةٍ ۚ وَهُوَ عَلَىٰ جَمْعِهِمْ إِذَا يَشَآءُ قَدِيرٌ
+
+</div>
+
+**Word in this verse:** `جَمْعِهِمْ` — their gathering
+
+**English (Sahih International):** And of His signs is the creation of the heavens and earth and what He has dispersed throughout them of creatures. And He, for gathering them when He wills, is competent.
+
+**English (Yusuf Ali):** And among His Signs is the creation of the heavens and the earth, and the living creatures that He has scattered through them: and He has power to gather them together when He wills.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی کی نشانیوں میں سے ہے آسمانوں اور زمین کا پیدا کرنا اور ان جانوروں کا جو اس نے ان میں پھیلا رکھے ہیں اور وہ جب چاہے ان کے جمع کرلینے پر قادر ہے
+
+[Open on Quran.com](https://quran.com/42/29)
+
+#### 54:45 · [[054 Al-Qamar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ
+
+</div>
+
+**Word in this verse:** `ٱلْجَمْعُ` — (their) assembly
+
+**English (Sahih International):** [Their] assembly will be defeated, and they will turn their backs [in retreat].
+
+**English (Yusuf Ali):** Soon will their multitude be put to flight, and they will show their backs.
+
+**Urdu (Fatah Muhammad Jalandhari):** عنقریب یہ جماعت شکست کھائے گی اور یہ لوگ پیٹھ پھیر کر بھاگ جائیں گے
+
+[Open on Quran.com](https://quran.com/54/45)
+
+_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

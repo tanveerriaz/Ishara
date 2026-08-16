@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** covenant · **Root:** وثق
 
+
 ### Words (wikilinks — these create the graph)
 - [[myvAq - covenant]]
 

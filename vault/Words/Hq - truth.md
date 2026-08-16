@@ -2,8 +2,8 @@
 type: word
 lemma: "حَقّ"
 slug: "Hq - truth"
-surah_count: 59
-ayah_count: 251
+surah_count: 57
+ayah_count: 231
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **truth** · Lemma **حَقّ**
 
-### Surahs (59)
+### Surahs (57)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/146)
 
-_…and **241** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **221** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

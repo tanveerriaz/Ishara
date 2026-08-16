@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** gift · **Root:** عطو
 
+
 ### Words (wikilinks — these create the graph)
 - [[>ETY - they given]]
 - [[ETA' - gift]]

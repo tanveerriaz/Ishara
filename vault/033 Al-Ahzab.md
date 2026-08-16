@@ -14,31 +14,31 @@ The Combined Forces · 73 ayahs
 
 ## Words in this surah (graph)
 
+- [[mrD - disease]] — `مَرَض` · disease
+- [[Hrj - any blame]] — `حَرَج` · any blame
 - [[ysyr - easy]] — `يَسِير` · easy
 - [[>w*y - hurt]] — `أُوذِيَ` · hurt
-- [[Hrj - any blame]] — `حَرَج` · any blame
-- [[mrD - disease]] — `مَرَض` · disease
+- [[ZAhr - pronounce zihar]] — `ظاهَرُ` · pronounce zihar
 - [[frAr - flight]] — `فِرار` · flight
-- [[tbdyl - change]] — `تَبْدِيل` · change
-- [[EAhd - they took]] — `عاهَدَ` · they took
-- [[>dnY - nearer]] — `أَدْنَى` · nearer
-- [[snp - way]] — `سُنَّة` · way
+- [[SlY - send blessings]] — `صَلَّى` · send blessings
+- [[Hzb - party]] — `حِزْب` · party
 - [[jmyl - good]] — `جَمِيل` · good
 - [[frD - undertakes]] — `فَرَضَ` · undertakes
-- [[SlY - send blessings]] — `صَلَّى` · send blessings
 - [[tqr - may cooled]] — `تَقَرَّ` · may cooled
+- [[Sdq - truth]] — `صِدْق` · truth
+- [[>dnY - nearer]] — `أَدْنَى` · nearer
 - [[nkH - marry]] — `نَكَحَ` · marry
-- [[ZAhr - apparent]] — `ظاهِر` · apparent
+- [[snp - way]] — `سُنَّة` · way
+- [[DEf - double]] — `ضِعْف` · double
+- [[tbdyl - change]] — `تَبْدِيل` · change
 - [[bnt - daughters]] — `بِنْت` · daughters
-- [[Hzb - party]] — `حِزْب` · party
-- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[>*hb - remove]] — `أَذْهَبَ` · remove
-- [[*nb - sins]] — `ذَنب` · sins
-- [[fryq - party]] — `فَرِيق` · party
-- [[>TAE - obey]] — `أَطاعَ` · obey
-- [[sbyl - way]] — `سَبِيل` · way
+- [[EAhd - they took]] — `عاهَدَ` · they took
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[dEA - call]] — `دَعا` · call
+- [[dAr - home]] — `دار` · home
+- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[$Ahd - witnesses]] — `شاهِد` · witnesses
 
 ## Roots
 
@@ -48,8 +48,8 @@ The Combined Forces · 73 ayahs
 - [[$hd - witness]]
 - [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[>*n - by permission]]
 - [[>*y - hurt]]

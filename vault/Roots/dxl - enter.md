@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** enter · **Root:** دخل
 
+
 ### Words (wikilinks — these create the graph)
 - [[>dxl - will admit]]
+- [[dxl - as deception]]
 - [[dxl - enter]]
 - [[mdxl - entrance]]
 

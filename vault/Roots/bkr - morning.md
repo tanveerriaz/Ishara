@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** morning · **Root:** بكر
 
+
 ### Words (wikilinks — these create the graph)
 - [[bkr - virgins]]
 - [[bkrp - morning]]

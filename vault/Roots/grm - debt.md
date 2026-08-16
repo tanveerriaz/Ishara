@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** debt · **Root:** غرم
 
+
 ### Words (wikilinks — these create the graph)
 - [[mgrm - debt]]
 

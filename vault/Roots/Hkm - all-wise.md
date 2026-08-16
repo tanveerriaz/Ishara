@@ -11,8 +11,11 @@ tags: [root, meaning]
 
 **Sense:** all-wise · **Root:** حكم
 
+
 ### Words (wikilinks — these create the graph)
 - [[HAkm - judges]]
+- [[Hkm - arbitrator]]
+- [[Hkm - judge]]
 - [[Hkm - judgment]]
 - [[Hkmp - wisdom]]
 - [[Hkym - all-wise]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** moving creature · **Root:** دبب
 
+
 ### Words (wikilinks — these create the graph)
 - [[dAbp - moving creature]]
 

@@ -2,8 +2,8 @@
 type: word
 lemma: "فَتَى"
 slug: "ftY - boy"
-surah_count: 3
-ayah_count: 4
+surah_count: 2
+ayah_count: 3
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **boy** · Lemma **فَتَى**
 
-### Surahs (3)
+### Surahs (2)
 - [[012 Yusuf]]
 - [[018 Al-Kahf]]
-- [[021 Al-Anbya]]
 
 ## Verses (full text)
 
@@ -81,22 +80,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جب آگے چلے تو (موسیٰ نے) اپنے شاگرد سے کہا کہ ہمارے لئے کھانا لاؤ۔ اس سفر سے ہم کو بہت تکان ہوگئی ہے
 
 [Open on Quran.com](https://quran.com/18/62)
-
-#### 21:60 · [[021 Al-Anbya]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالُوا۟ سَمِعْنَا فَتًى يَذْكُرُهُمْ يُقَالُ لَهُۥٓ إِبْرَٰهِيمُ
-
-</div>
-
-**Word in this verse:** `فَتًۭى` — a youth
-
-**English (Sahih International):** They said, "We heard a young man mention them who is called Abraham."
-
-**English (Yusuf Ali):** They said, "We heard a youth talk of them: He is called Abraham."
-
-**Urdu (Fatah Muhammad Jalandhari):** لوگوں نے کہا کہ ہم نے ایک جوان کو ان کا ذکر کرتے ہوئے سنا ہے اس کو ابراہیم کہتے ہیں
-
-[Open on Quran.com](https://quran.com/21/60)
 

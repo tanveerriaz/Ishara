@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** distress · **Root:** غمم
 
+
 ### Words (wikilinks — these create the graph)
 - [[gm - distress]]
 - [[gmAm - clouds]]

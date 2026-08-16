@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** town · **Root:** قري
 
+
 ### Words (wikilinks — these create the graph)
 - [[qryp - town]]
 

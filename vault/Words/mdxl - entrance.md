@@ -2,8 +2,8 @@
 type: word
 lemma: "مُدْخَل"
 slug: "mdxl - entrance"
-surah_count: 4
-ayah_count: 4
+surah_count: 3
+ayah_count: 3
 tags: [word, meaning]
 ---
 
@@ -19,9 +19,8 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **entrance** · Lemma **مُدْخَل**
 
-### Surahs (4)
+### Surahs (3)
 - [[004 An-Nisa]]
-- [[009 At-Tawbah]]
 - [[017 Al-Isra]]
 - [[022 Al-Hajj]]
 
@@ -46,24 +45,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اگر تم بڑے بڑے گناہوں سے جن سے تم کو منع کیا جاتا ہے اجتناب رکھو گے تو ہم تمہارے (چھوٹے چھوٹے) گناہ معاف کردیں گے اور تمہیں عزت کے مکانوں میں داخل کریں گے
 
 [Open on Quran.com](https://quran.com/4/31)
-
-#### 9:57 · [[009 At-Tawbah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-لَوْ يَجِدُونَ مَلْجَـًٔا أَوْ مَغَـٰرَٰتٍ أَوْ مُدَّخَلًا لَّوَلَّوْا۟ إِلَيْهِ وَهُمْ يَجْمَحُونَ
-
-</div>
-
-**Word in this verse:** `مُدَّخَلًۭا` — a place to enter
-
-**English (Sahih International):** If they could find a refuge or some caves or any place to enter [and hide], they would turn to it while they run heedlessly.
-
-**English (Yusuf Ali):** If they could find a place to flee to, or caves, or a place of concealment, they would turn straightaway thereto, with an obstinate rush.
-
-**Urdu (Fatah Muhammad Jalandhari):** اگر ان کی کوئی بچاؤ کی جگہ (جیسے قلعہ) یا غار ومغاک یا (زمین کے اندر) گھسنے کی جگہ مل جائے تو اسی طرف رسیاں تڑاتے ہوئے بھاگ جائیں
-
-[Open on Quran.com](https://quran.com/9/57)
 
 #### 17:80 · [[017 Al-Isra]]
 

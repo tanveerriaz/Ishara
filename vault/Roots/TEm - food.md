@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** food · **Root:** طعم
 
+
 ### Words (wikilinks — these create the graph)
 - [[<TEAm - feeding]]
 - [[>TEm - feed]]

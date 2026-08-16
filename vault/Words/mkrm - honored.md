@@ -2,8 +2,8 @@
 type: word
 lemma: "مُكْرَم"
 slug: "mkrm - honored"
-surah_count: 6
-ayah_count: 6
+surah_count: 5
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -19,9 +19,8 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **honored** · Lemma **مُكْرَم**
 
-### Surahs (6)
+### Surahs (5)
 - [[021 Al-Anbya]]
-- [[022 Al-Hajj]]
 - [[036 Ya-Sin]]
 - [[037 As-Saffat]]
 - [[051 Adh-Dhariyat]]
@@ -48,24 +47,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ خدا بیٹا رکھتا ہے۔ وہ پاک ہے (اس کے نہ بیٹا ہے نہ بیٹی) بلکہ (جن کو یہ لوگ اس کے بیٹے بیٹیاں سمجھتے ہیں) وہ اس کے عزت والے بندے ہیں
 
 [Open on Quran.com](https://quran.com/21/26)
-
-#### 22:18 · [[022 Al-Hajj]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌ مِّنَ ٱلنَّاسِ ۖ وَكَثِيرٌ حَقَّ عَلَيْهِ ٱلْعَذَابُ ۗ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ ۚ إِنَّ ٱللَّهَ يَفْعَلُ مَا يَشَآءُ ۩
-
-</div>
-
-**Word in this verse:** `مُّكْرِمٍ ۚ` — bestower of honor
-
-**English (Sahih International):** Do you not see [i.e., know] that to Allāh prostrates whoever is in the heavens and whoever is on the earth and the sun, the moon, the stars, the mountains, the trees, the moving creatures and many of the people? But upon many the punishment has been justified. And he whom Allāh humiliates - for him there is no bestower of honor. Indeed, Allāh does what He wills.
-
-**English (Yusuf Ali):** Seest thou not that to Allah bow down in worship all things that are in the heavens and on earth,- the sun, the moon, the stars; the hills, the trees, the animals; and a great number among mankind? But a great number are (also) such as are fit for Punishment: and such as Allah shall disgrace,- None can raise to honour: for Allah carries out all that He wills.
-
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے نہیں دیکھا کہ جو (مخلوق) آسمانوں میں ہے اور جو زمین میں ہے اور سورج اور چاند ستارے اور پہاڑ اور درخت اور چار پائے اور بہت سے انسان خدا کو سجدہ کرتے ہیں۔ اور بہت سے ایسے ہیں جن پر عذاب ثابت ہوچکا ہے۔ اور جس شخص کو خدا ذلیل کرے اس کو عزت دینے والا نہیں۔ بےشک خدا جو چاہتا ہے کرتا ہے
-
-[Open on Quran.com](https://quran.com/22/18)
 
 #### 36:27 · [[036 Ya-Sin]]
 

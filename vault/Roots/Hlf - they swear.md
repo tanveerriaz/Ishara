@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they swear · **Root:** حلف
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hlf - they swear]]
 

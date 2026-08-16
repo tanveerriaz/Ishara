@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** say · **Root:** قول
 
+
 ### Words (wikilinks — these create the graph)
 - [[qAl - say]]
 - [[qA}l - speaker]]

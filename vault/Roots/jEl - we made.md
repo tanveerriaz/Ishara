@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we made · **Root:** جعل
 
+
 ### Words (wikilinks — these create the graph)
 - [[jAEl - going place]]
 - [[jEl - we made]]

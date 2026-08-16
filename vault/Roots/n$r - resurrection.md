@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** resurrection · **Root:** نشر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>n$r - raise dead]]
 - [[n$rt - will spread]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** crime · **Root:** جرم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>jrm - committed crimes]]
 - [[jrm - doubt]]

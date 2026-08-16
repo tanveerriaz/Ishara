@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hunger · **Root:** جوع
 
+
 ### Words (wikilinks — these create the graph)
 - [[jwE - hunger]]
 

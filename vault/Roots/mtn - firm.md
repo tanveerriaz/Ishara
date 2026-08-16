@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** firm · **Root:** متن
 
+
 ### Words (wikilinks — these create the graph)
 - [[mtyn - firm]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** farthest end · **Root:** قصو
 
+
 ### Words (wikilinks — these create the graph)
 - [[>qSA - farthest end]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** seek help · **Root:** غوث
 
+
 ### Words (wikilinks — these create the graph)
 - [[AstgAv - seek help]]
 

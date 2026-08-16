@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** broad passes · **Root:** فجج
 
+
 ### Words (wikilinks — these create the graph)
 - [[fj - broad passes]]
 

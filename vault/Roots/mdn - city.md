@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** city · **Root:** مدن
 
+
 ### Words (wikilinks — these create the graph)
 - [[mdyn - madyan]]
 - [[mdynp - city]]

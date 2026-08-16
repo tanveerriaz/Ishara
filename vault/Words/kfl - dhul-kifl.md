@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "كَفَّلَ"
+lemma: "كِفْل"
 slug: "kfl - dhul-kifl"
-surah_count: 5
-ayah_count: 5
+surah_count: 4
+ayah_count: 4
 tags: [word, meaning]
 ---
 
@@ -17,10 +17,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[kfl - dhul-kifl]]
 
 ### Meaning
-**dhul-kifl** · Lemma **كَفَّلَ**
+**dhul-kifl** · Lemma **كِفْل**
 
-### Surahs (5)
-- [[003 Ali Imran]]
+### Surahs (4)
 - [[004 An-Nisa]]
 - [[021 Al-Anbya]]
 - [[038 Sad]]
@@ -29,24 +28,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 3:37 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
-
-</div>
-
-**Word in this verse:** `وَكَفَّلَهَا` — and put her in (the) care
-
-**English (Sahih International):** So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, "O Mary, from where is this [coming] to you?" She said, "It is from Allāh. Indeed, Allāh provides for whom He wills without account."
-
-**English (Yusuf Ali):** Right graciously did her Lord accept her: He made her grow in purity and beauty: To the care of Zakariya was she assigned. Every time that he entered (Her) chamber to see her, He found her supplied with sustenance. He said: "O Mary! Whence (comes) this to you?" She said: "From Allah: for Allah Provides sustenance to whom He pleases without measure."
-
-**Urdu (Fatah Muhammad Jalandhari):** تو پروردگار نے اس کو پسندیدگی کے ساتھ قبول فرمایا اور اسے اچھی طرح پرورش کیا اور زکریا کو اس کا متکفل بنایا زکریا جب کبھی عبادت گاہ میں اس کے پاس جاتے تو اس کے پاس کھانا پاتے (یہ کیفیت دیکھ کر ایک دن مریم سے) پوچھنے لگے کہ مریم یہ کھانا تمہارے پاس کہاں سے آتا ہے وہ بولیں خدا کے ہاں سے (آتا ہے) بیشک خدا جسے چاہتا ہے بے شمار رزق دیتا ہے
-
-[Open on Quran.com](https://quran.com/3/37)
 
 #### 4:85 · [[004 An-Nisa]]
 

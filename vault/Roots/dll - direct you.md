@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** direct you · **Root:** دلل
 
+
 ### Words (wikilinks — these create the graph)
 - [[dl - direct you]]
 

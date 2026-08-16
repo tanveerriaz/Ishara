@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** things piled set · **Root:** نضد
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

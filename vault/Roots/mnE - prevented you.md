@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** prevented you · **Root:** منع
 
+
 ### Words (wikilinks — these create the graph)
 - [[mnE - prevented you]]
 

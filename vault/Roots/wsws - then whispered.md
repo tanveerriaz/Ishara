@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** then whispered · **Root:** وسوس
 
+
 ### Words (wikilinks — these create the graph)
 - [[wsws - then whispered]]
 

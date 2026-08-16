@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** day · **Root:** نهر
 
+
 ### Words (wikilinks — these create the graph)
 - [[nhAr - day]]
 - [[nhr - rivers]]

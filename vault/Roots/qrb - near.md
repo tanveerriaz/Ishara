@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** near · **Root:** قرب
 
+
 ### Words (wikilinks — these create the graph)
 - [[>qrb - nearer]]
 - [[Aqtrb - has approached]]

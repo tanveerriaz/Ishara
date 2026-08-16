@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** will avail · **Root:** غني
 
+
 ### Words (wikilinks — these create the graph)
 - [[>gnY - availed]]
 - [[>gnt - will avail]]

@@ -19,26 +19,26 @@ The Beneficent · 78 ayahs
 - [[fAkhp - fruits]] — `فاكِهَة` · fruits
 - [[nxl - date-palms]] — `نَخْل` · date-palms
 - [[mtk} - reclining]] — `مُتَّكِئ` · reclining
-- [[<nsAn - man]] — `إِنسان` · man
-- [[HsbAn - reckoning]] — `حُسْبان` · reckoning
-- [[$>n - any situation]] — `شَأْن` · any situation
-- [[$ms - sun]] — `شَمْس` · sun
-- [[jn - covered]] — `جَنَّ` · covered
-- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
-- [[frA$ - couches]] — `فِراش` · couches
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[jwAr - ships]] — `جَوار` · ships
-- [[*nb - sins]] — `ذَنب` · sins
+- [[Hmym - scalding water]] — `حَمِيم` · scalding water
+- [[bgY - seek it]] — `بَغَى` · seek it
 - [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[frA$ - couches]] — `فِراش` · couches
+- [[Asm - name]] — `اسْم` · name
 - [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[wjh - faces]] — `وَجْه` · faces
-- [[Trf - its borders]] — `طَرَف` · its borders
-- [[qbl - before]] — `قَبْل` · before
+- [[$ms - sun]] — `شَمْس` · sun
+- [[Trf - glance]] — `طَرْف` · glance
 - [[bqy - remained]] — `بَقِيَ` · remained
-- [[>rD - earth]] — `أَرْض` · earth
-- [[Elm - know]] — `عَلِمَ` · know
-- [[qsT - justice]] — `قِسْط` · justice
+- [[byn - between them]] — `بَيْن` · between them
+- [[AltqY - met]] — `الْتَقَى` · met
+- [[symA - by marks]] — `سِيما` · by marks
+- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
+- [[>x* - we took]] — `أَخَذَ` · we took
+- [[rfE - we raised]] — `رَفَعَ` · we raised
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[xAf - fear]] — `خافَ` · fear
+- [[TAf - will circulated]] — `طافَ` · will circulated
+- [[jn - gardens]] — `جِنّ` · gardens
+- [[jry - flow]] — `جَرَيْ` · flow
 
 ## Roots
 
@@ -65,7 +65,7 @@ The Beneficent · 78 ayahs
 - [[Hsn - good]]
 - [[Hwr - disciples]]
 - [[Tgy - transgression]]
-- [[Trf - its borders]]
+- [[Trf - glance]]
 - [[TwE - obey]]
 - [[Twf - group]]
 - [[bHr - sea]]

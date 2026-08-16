@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** apes · **Root:** قرد
 
+
 ### Words (wikilinks — these create the graph)
 - [[qrdp - apes]]
 

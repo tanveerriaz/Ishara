@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** reward · **Root:** أجر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>jr - reward]]
 

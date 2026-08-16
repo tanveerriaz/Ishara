@@ -2,8 +2,8 @@
 type: word
 lemma: "عَشْر"
 slug: "E$r - ten"
-surah_count: 11
-ayah_count: 11
+surah_count: 7
+ayah_count: 7
 tags: [word, meaning]
 ---
 
@@ -19,17 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **ten** · Lemma **عَشْر**
 
-### Surahs (11)
+### Surahs (7)
 - [[002 Al-Baqarah]]
-- [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
-- [[009 At-Tawbah]]
 - [[011 Hud]]
-- [[012 Yusuf]]
 - [[020 Taha]]
 - [[028 Al-Qasas]]
-- [[074 Al-Muddaththir]]
 - [[089 Al-Fajr]]
 
 ## Verses (full text)
@@ -53,24 +49,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ تم میں سے مرجائیں اور عورتیں چھوڑ جائیں تو عورتیں چار مہینے دس دن اپنے آپ کو روکے رہیں۔ اور جب (یہ) عدت پوری کرچکیں اور اپنے حق میں پسندیدہ کام (یعنی نکاح) کرلیں تو ان پر کچھ گناہ نہیں۔ اور خدا تمہارے سب کاموں سے واقف ہے
 
 [Open on Quran.com](https://quran.com/2/234)
-
-#### 5:12 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَـٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًا ۖ وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
-
-</div>
-
-**Word in this verse:** `عَشَرَ` — (and) ten
-
-**English (Sahih International):** And Allāh had already taken a covenant from the Children of Israel, and We delegated from among them twelve leaders. And Allāh said, "I am with you. If you establish prayer and give zakāh and believe in My messengers and support them and loan Allāh a goodly loan, I will surely remove from you your misdeeds and admit you to gardens beneath which rivers flow. But whoever of you disbelieves after that has certainly strayed from the soundness of the way."
-
-**English (Yusuf Ali):** Allah did aforetime take a covenant from the Children of Israel, and we appointed twelve captains among them. And Allah said: "I am with you: if ye (but) establish regular prayers, practise regular charity, believe in my messengers, honour and assist them, and loan to Allah a beautiful loan, verily I will wipe out from you your evils, and admit you to gardens with rivers flowing beneath; but if any of you, after this, resisteth faith, he hath truly wandered from the path or rectitude."
-
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے بنی اسرائیل سے اقرار لیا اور ان میں ہم نے بارہ سردار مقرر کئے پھر خدا نے فرمایا کہ میں تمہارے ساتھ ہوں اگر تم نماز پڑھتے اور زکوٰة دیتے رہو گے اور میرے پیغمبروں پر ایمان لاؤ گے اور ان کی مدد کرو گے اور خدا کو قرض حسنہ دو گے تو میں تم سے تمہارے گناہ دور کر دوں گا اور تم کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہہ رہی ہیں پھر جس نے اس کے بعد تم میں سے کفر کیا وہ سیدھے رستے سے بھٹک گیا
-
-[Open on Quran.com](https://quran.com/5/12)
 
 #### 6:160 · [[006 Al-Anam]]
 
@@ -108,24 +86,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/142)
 
-#### 9:36 · [[009 At-Tawbah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثْنَا عَشَرَ شَهْرًا فِى كِتَـٰبِ ٱللَّهِ يَوْمَ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ مِنْهَآ أَرْبَعَةٌ حُرُمٌ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ ۚ فَلَا تَظْلِمُوا۟ فِيهِنَّ أَنفُسَكُمْ ۚ وَقَـٰتِلُوا۟ ٱلْمُشْرِكِينَ كَآفَّةً كَمَا يُقَـٰتِلُونَكُمْ كَآفَّةً ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ
-
-</div>
-
-**Word in this verse:** `عَشَرَ` — (is) twelve
-
-**English (Sahih International):** Indeed, the number of months with Allāh is twelve [lunar] months in the register of Allāh [from] the day He created the heavens and the earth; of these, four are sacred. That is the correct religion [i.e., way], so do not wrong yourselves during them. And fight against the disbelievers collectively as they fight against you collectively. And know that Allāh is with the righteous [who fear Him].
-
-**English (Yusuf Ali):** The number of months in the sight of Allah is twelve (in a year)- so ordained by Him the day He created the heavens and the earth; of them four are sacred: that is the straight usage. So wrong not yourselves therein, and fight the Pagans all together as they fight you all together. But know that Allah is with those who restrain themselves.
-
-**Urdu (Fatah Muhammad Jalandhari):** خدا کے نزدیک مہینے گنتی میں (بارہ ہیں یعنی) اس روز (سے) کہ اس نے آسمانوں اور زمین کو پیدا کیا۔ کتاب خدا میں (برس کے) بارہ مہینے (لکھے ہوئے) ہیں۔ ان میں سے چار مہینے ادب کے ہیں۔ یہی دین (کا) سیدھا راستہ ہے۔ تو ان (مہینوں) میں (قتال ناحق سے) اپنے آپ پر ظلم نہ کرنا۔ اور تم سب کے سب مشرکوں سے لڑو جیسے وہ سب کے سب تم سے لڑتے ہیں۔ اور جان رکھو کہ خدا پرہیز گاروں کے ساتھ ہے
-
-[Open on Quran.com](https://quran.com/9/36)
-
 #### 11:13 · [[011 Hud]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -143,24 +103,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** یہ کیا کہتے ہیں کہ اس نے قرآن ازخود بنا لیا ہے؟ کہہ دو کہ اگر سچے ہو تو تم بھی ایسی دس سورتیں بنا لاؤ اور خدا کے سوا جس جس کو بلاسکتے ہو، بلا بھی لو
 
 [Open on Quran.com](https://quran.com/11/13)
-
-#### 12:4 · [[012 Yusuf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَـٰجِدِينَ
-
-</div>
-
-**Word in this verse:** `عَشَرَ` — eleven
-
-**English (Sahih International):** [Of these stories mention] when Joseph said to his father, "O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me."
-
-**English (Yusuf Ali):** Behold! Joseph said to his father: "O my father! I did see eleven stars and the sun and the moon: I saw them prostrate themselves to me!"
-
-**Urdu (Fatah Muhammad Jalandhari):** جب یوسف نے اپنے والد سے کہا کہ ابا میں نے (خواب میں) گیارہ ستاروں اور سورج اور چاند کو دیکھا ہے۔ دیکھتا (کیا) ہوں کہ وہ مجھے سجدہ کر رہے ہیں
-
-[Open on Quran.com](https://quran.com/12/4)
 
 #### 20:103 · [[020 Taha]]
 
@@ -198,23 +140,21 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/28/27)
 
-#### 74:30 · [[074 Al-Muddaththir]]
+#### 89:2 · [[089 Al-Fajr]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-عَلَيْهَا تِسْعَةَ عَشَرَ
+وَلَيَالٍ عَشْرٍ
 
 </div>
 
-**Word in this verse:** `عَشَرَ` — teen
+**Word in this verse:** `عَشْرٍۢ` — ten
 
-**English (Sahih International):** Over it are nineteen [angels].
+**English (Sahih International):** And [by] ten nights
 
-**English (Yusuf Ali):** Over it are Nineteen.
+**English (Yusuf Ali):** By the Nights twice five;
 
-**Urdu (Fatah Muhammad Jalandhari):** اس پر اُنیس داروغہ ہیں
+**Urdu (Fatah Muhammad Jalandhari):** اور دس راتوں کی
 
-[Open on Quran.com](https://quran.com/74/30)
-
-_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+[Open on Quran.com](https://quran.com/89/2)
 

@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** east · **Root:** شرق
 
+
 ### Words (wikilinks — these create the graph)
+- [[m$rq - at sunrise]]
 - [[m$rq - east]]
 
 ### Surahs where this root appears

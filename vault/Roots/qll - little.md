@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** little · **Root:** قلل
 
+
 ### Words (wikilinks — these create the graph)
 - [[qlyl - little]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fire · **Root:** نور
 
+
 ### Words (wikilinks — these create the graph)
 - [[mnyr - enlightening]]
 - [[nAr - fire]]

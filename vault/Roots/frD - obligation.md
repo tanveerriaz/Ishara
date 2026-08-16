@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** obligation · **Root:** فرض
 
+
 ### Words (wikilinks — these create the graph)
 - [[frD - undertakes]]
 - [[fryDp - obligation]]

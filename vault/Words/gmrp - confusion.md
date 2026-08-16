@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "غَمَرَة"
+lemma: "غَمْرَة"
 slug: "gmrp - confusion"
-surah_count: 3
-ayah_count: 4
+surah_count: 2
+ayah_count: 3
 tags: [word, meaning]
 ---
 
@@ -17,34 +17,15 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[gmr - confusion]]
 
 ### Meaning
-**confusion** · Lemma **غَمَرَة**
+**confusion** · Lemma **غَمْرَة**
 
-### Surahs (3)
-- [[006 Al-Anam]]
+### Surahs (2)
 - [[023 Al-Muminun]]
 - [[051 Adh-Dhariyat]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 6:93 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ ۗ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّـٰلِمُونَ فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَـٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ۖ ٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ ءَايَـٰتِهِۦ تَسْتَكْبِرُونَ
-
-</div>
-
-**Word in this verse:** `غَمَرَٰتِ` — agonies
-
-**English (Sahih International):** And who is more unjust than one who invents a lie about Allāh or says, "It has been inspired to me," while nothing has been inspired to him, and one who says, "I will reveal [something] like what Allāh revealed." And if you could but see when the wrongdoers are in the overwhelming pangs of death while the angels extend their hands, [saying], "Discharge your souls! Today you will be awarded the punishment of [extreme] humiliation for what you used to say against Allāh other than the truth and [that] you were, toward His verses, being arrogant."
-
-**English (Yusuf Ali):** Who can be more wicked than one who inventeth a lie against Allah, or saith, "I have received inspiration," when he hath received none, or (again) who saith, "I can reveal the like of what Allah hath revealed"? If thou couldst but see how the wicked (do fare) in the flood of confusion at death! - the angels stretch forth their hands, (saying),"Yield up your souls: this day shall ye receive your reward,- a penalty of shame, for that ye used to tell lies against Allah, and scornfully to reject of His signs!"
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اس سے بڑھ کر ظالم کون ہوگا جو خدا پر جھوٹ افتراء کرے۔ یا یہ کہے کہ مجھ پر وحی آئی ہے حالانکہ اس پر کچھ بھی وحی نہ آئی ہو اور جو یہ کہے کہ جس طرح کی کتاب خدا نے نازل کی ہے اس طرح کی میں بھی بنا لیتا ہوں۔ اور کاش تم ان ظالم (یعنی مشرک) لوگوں کو اس وقت دیکھو جب موت کی سختیوں میں (مبتلا) ہوں اور فرشتے (ان کی طرف عذاب کے لئے) ہاتھ بڑھا رہے ہوں کہ نکالو اپنی جانیں۔ آج تم کو ذلت کے عذاب کی سزا دی جائے گی اس لئے کہ تم خدا پر جھوٹ بولا کرتے تھے اور اس کی آیتوں سے سرکشی کرتے تھے
-
-[Open on Quran.com](https://quran.com/6/93)
 
 #### 23:54 · [[023 Al-Muminun]]
 

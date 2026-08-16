@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** all-encompassing · **Root:** حوط
 
+
 ### Words (wikilinks — these create the graph)
 - [[>HAT - they encompass]]
 - [[mHyT - all-encompassing]]

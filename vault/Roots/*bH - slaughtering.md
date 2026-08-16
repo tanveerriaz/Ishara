@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** slaughtering · **Root:** ذبح
 
+
 ### Words (wikilinks — these create the graph)
 - [[*bH - you slaughter]]
 - [[y*bH - slaughtering]]

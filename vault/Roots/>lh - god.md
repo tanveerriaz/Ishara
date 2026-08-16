@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** god · **Root:** أله
 
+
 ### Words (wikilinks — these create the graph)
 - [[<lh - god]]
 

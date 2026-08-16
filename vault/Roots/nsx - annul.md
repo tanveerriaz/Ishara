@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** annul · **Root:** نسخ
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

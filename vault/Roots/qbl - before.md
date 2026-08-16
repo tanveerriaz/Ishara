@@ -11,10 +11,13 @@ tags: [root, meaning]
 
 **Sense:** before · **Root:** قبل
 
+
 ### Words (wikilinks — these create the graph)
 - [[>qbl - will approach]]
 - [[mtqAbl - facing each other]]
 - [[qbl - before]]
+- [[qbl - face face]]
+- [[qbl - towards]]
 - [[tqbl - accept]]
 - [[yqbl - will accepted]]
 

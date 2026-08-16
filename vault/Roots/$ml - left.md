@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** left · **Root:** شمل
 
+
 ### Words (wikilinks — these create the graph)
 - [[$mAl - left]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** rain · **Root:** غيث
 
+
 ### Words (wikilinks — these create the graph)
 - [[gyv - rain]]
 

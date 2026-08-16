@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** almost · **Root:** كود
 
+
 ### Words (wikilinks — these create the graph)
 - [[kAd - almost]]
 

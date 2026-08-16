@@ -2,8 +2,8 @@
 type: word
 lemma: "وَجَدَ"
 slug: "wjd - we found"
-surah_count: 32
-ayah_count: 99
+surah_count: 31
+ayah_count: 98
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **we found** · Lemma **وَجَدَ**
 
-### Surahs (32)
+### Surahs (31)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/65)
 
-_…and **89** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **88** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

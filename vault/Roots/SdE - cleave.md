@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** cleave · **Root:** صدع
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

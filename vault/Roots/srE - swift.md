@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** swift · **Root:** سرع
 
+
 ### Words (wikilinks — these create the graph)
 - [[sryE - swift]]
 - [[ysArE - hasten]]

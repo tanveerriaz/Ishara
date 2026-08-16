@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hellfire · **Root:** جحم
 
+
 ### Words (wikilinks — these create the graph)
 - [[jHym - hellfire]]
 

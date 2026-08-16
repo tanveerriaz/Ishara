@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** earth · **Root:** صعد
 
+
 ### Words (wikilinks — these create the graph)
 - [[SEyd - earth]]
 

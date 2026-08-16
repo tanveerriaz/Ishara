@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** stripping · **Root:** نزع
 
+
 ### Words (wikilinks — these create the graph)
 - [[nzE - stripping]]
 - [[tnAzE - you disagree]]

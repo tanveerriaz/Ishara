@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** polytheists · **Root:** شرك
 
+
 ### Words (wikilinks — these create the graph)
 - [[$rk - associating partners]]
 - [[$ryk - partners]]

@@ -14,31 +14,31 @@ The Tidings · 40 ayahs
 
 ## Words in this surah (graph)
 
-- [[k*Ab - liar]] — `كَذّاب` · liar
+- [[k*Ab - denial]] — `كِذّاب` · denial
 - [[mAb - place return]] — `مَآب` · place return
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[mhAd - resting place]] — `مِهاد` · resting place
-- [[ytklm - will speak]] — `يَتَكَلَّمُ` · will speak
-- [[nZr - see]] — `نَظَرَ` · see
-- [[lgw - vain talk]] — `لَغْو` · vain talk
-- [[zAd - increase]] — `زادَ` · increase
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[Atx* - take]] — `اتَّخَذَ` · take
-- [[nbAt - vegetation]] — `نَبات` · vegetation
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[>rD - earth]] — `أَرْض` · earth
-- [[fwj - troop]] — `فَوْج` · troop
-- [[Elm - know]] — `عَلِمَ` · know
-- [[bAb - gate]] — `باب` · gate
-- [[Sf - rows]] — `صَفّ` · rows
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
-- [[nfx - will blown]] — `نَفَخَ` · will blown
+- [[lbAs - garments]] — `لِباس` · garments
+- [[$dyd - severe]] — `شَدِيد` · severe
 - [[Hmym - scalding water]] — `حَمِيم` · scalding water
-- [[Hb - grain]] — `حُبّ` · grain
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[Ayp - signs]] — `آيَة` · signs
-- [[mxtlf - various]] — `مُخْتَلِف` · various
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[srAj - lamp]] — `سِراج` · lamp
+- [[mlk - angels]] — `مَلَك` · angels
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[qAm - stand]] — `قامَ` · stand
+- [[nZr - see]] — `نَظَرَ` · see
+- [[fwq - above them]] — `فَوْق` · above them
+- [[lyl - night]] — `لَيْل` · night
+- [[ftH - we opened]] — `فَتَحَ` · we opened
+- [[byn - between them]] — `بَيْن` · between them
+- [[ETA' - gift]] — `عَطاء` · gift
+- [[myqAt - appointment]] — `مِيقات` · appointment
+- [[syrt - could moved]] — `سُيِّرَتْ` · could moved
+- [[>wtAd - stakes]] — `أَوْتاد` · stakes
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[Sf - rows]] — `صَفّ` · rows
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[Enb - grapes]] — `عِنَب` · grapes
 
 ## Roots
 
@@ -73,7 +73,7 @@ The Tidings · 40 ayahs
 - [[brd - coolness]]
 - [[bwb - gate]]
 - [[byn - clear]]
-- [[fSl - we explain]]
+- [[fSl - judgment]]
 - [[ftH - victory]]
 - [[fwj - troop]]
 - [[fwq - above them]]

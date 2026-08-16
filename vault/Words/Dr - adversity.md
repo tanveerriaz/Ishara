@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "ضَرّ"
+lemma: "ضُرّ"
 slug: "Dr - adversity"
-surah_count: 19
-ayah_count: 26
+surah_count: 10
+ayah_count: 16
 tags: [word, meaning]
 ---
 
@@ -17,50 +17,23 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[Drr - adversity]]
 
 ### Meaning
-**adversity** · Lemma **ضَرّ**
+**adversity** · Lemma **ضُرّ**
 
-### Surahs (19)
-- [[005 Al-Maidah]]
+### Surahs (10)
 - [[006 Al-Anam]]
-- [[007 Al-Araf]]
 - [[010 Yunus]]
 - [[012 Yusuf]]
-- [[013 Ar-Rad]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
-- [[020 Taha]]
 - [[021 Al-Anbya]]
-- [[022 Al-Hajj]]
 - [[023 Al-Muminun]]
-- [[025 Al-Furqan]]
 - [[030 Ar-Rum]]
-- [[034 Saba]]
 - [[036 Ya-Sin]]
 - [[039 Az-Zumar]]
-- [[048 Al-Fath]]
-- [[072 Al-Jinn]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 5:76 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُلْ أَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرًّا وَلَا نَفْعًا ۚ وَٱللَّهُ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
-
-</div>
-
-**Word in this verse:** `ضَرًّۭا` — any harm
-
-**English (Sahih International):** Say, "Do you worship besides Allāh that which holds for you no [power of] harm or benefit while it is Allāh who is the Hearing, the Knowing?"
-
-**English (Yusuf Ali):** Say: "Will ye worship, besides Allah, something which hath no power either to harm or benefit you? But Allah,- He it is that heareth and knoweth all things."
-
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ تم خدا کے سوا ایسی چیز کی کیوں پرستش کرتے ہو جس کو تمہارے نفع اور نقصان کا کچھ بھی اختیار نہیں؟ اور خدا ہی (سب کچھ) سنتا جانتا ہے
-
-[Open on Quran.com](https://quran.com/5/76)
 
 #### 6:17 · [[006 Al-Anam]]
 
@@ -80,24 +53,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/17)
 
-#### 7:188 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُل لَّآ أَمْلِكُ لِنَفْسِى نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُ ۚ وَلَوْ كُنتُ أَعْلَمُ ٱلْغَيْبَ لَٱسْتَكْثَرْتُ مِنَ ٱلْخَيْرِ وَمَا مَسَّنِىَ ٱلسُّوٓءُ ۚ إِنْ أَنَا۠ إِلَّا نَذِيرٌ وَبَشِيرٌ لِّقَوْمٍ يُؤْمِنُونَ
-
-</div>
-
-**Word in this verse:** `ضَرًّا` — (power to) harm
-
-**English (Sahih International):** Say, "I hold not for myself [the power of] benefit or harm, except what Allāh has willed. And if I knew the unseen, I could have acquired much wealth, and no harm would have touched me. I am not except a warner and a bringer of good tidings to a people who believe."
-
-**English (Yusuf Ali):** Say: "I have no power over any good or harm to myself except as Allah willeth. If I had knowledge of the unseen, I should have multiplied all good, and no evil should have touched me: I am but a warner, and a bringer of glad tidings to those who have faith."
-
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں اپنے فائدے اور نقصان کا کچھ بھی اختیار نہیں رکھتا مگر جو الله چاہے اور اگر میں غیب کی باتیں جانتا ہوتا تو بہت سے فائدے جمع کرلیتا اور مجھ کو کوئی تکلیف نہ پہنچتی۔ میں تو مومنوں کو ڈر اور خوشخبری سنانے والا ہوں
-
-[Open on Quran.com](https://quran.com/7/188)
-
 #### 10:12 · [[010 Yunus]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -115,24 +70,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور جب انسان کو تکلیف پہنچتی ہے تو لیٹا اور بیٹھا اور کھڑا (ہر حال میں) ہمیں پکارتا ہے۔ پھر جب ہم اس تکلیف کو اس سے دور کر دیتے ہیں تو (بےلحاظ ہو جاتا ہے اور) اس طرح گزر جاتا ہے گویا کسی تکلیف پہنچنے پر ہمیں کبھی پکارا ہی نہ تھا۔ اسی طرح حد سے نکل جانے والوں کو ان کے اعمال آراستہ کرکے دکھائے گئے ہیں
 
 [Open on Quran.com](https://quran.com/10/12)
-
-#### 10:49 · [[010 Yunus]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُل لَّآ أَمْلِكُ لِنَفْسِى ضَرًّا وَلَا نَفْعًا إِلَّا مَا شَآءَ ٱللَّهُ ۗ لِكُلِّ أُمَّةٍ أَجَلٌ ۚ إِذَا جَآءَ أَجَلُهُمْ فَلَا يَسْتَـْٔخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ
-
-</div>
-
-**Word in this verse:** `ضَرًّۭا` — (for) any harm
-
-**English (Sahih International):** Say, "I possess not for myself any harm or benefit except what Allāh should will. For every nation is a [specified] term. When their time has come, then they will not remain behind an hour, nor will they precede [it]."
-
-**English (Yusuf Ali):** Say: "I have no power over any harm or profit to myself except as Allah willeth. To every people is a term appointed: when their term is reached, not an hour can they cause delay, nor (an hour) can they advance (it in anticipation)."
-
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں اپنے نقصان اور فائدے کا بھی کچھ اختیار نہیں رکھتا۔ مگر جو خدا چاہے۔ ہر ایک امت کے لیے (موت کا) ایک وقت مقرر ہے۔ جب وہ وقت آجاتا ہے تو ایک گھڑی بھی دیر نہیں کرسکتے اور نہ جلدی کرسکتے ہیں
-
-[Open on Quran.com](https://quran.com/10/49)
 
 #### 10:107 · [[010 Yunus]]
 
@@ -170,24 +107,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/12/88)
 
-#### 13:16 · [[013 Ar-Rad]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُلْ مَن رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ قُلِ ٱللَّهُ ۚ قُلْ أَفَٱتَّخَذْتُم مِّن دُونِهِۦٓ أَوْلِيَآءَ لَا يَمْلِكُونَ لِأَنفُسِهِمْ نَفْعًا وَلَا ضَرًّا ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَمْ هَلْ تَسْتَوِى ٱلظُّلُمَـٰتُ وَٱلنُّورُ ۗ أَمْ جَعَلُوا۟ لِلَّهِ شُرَكَآءَ خَلَقُوا۟ كَخَلْقِهِۦ فَتَشَـٰبَهَ ٱلْخَلْقُ عَلَيْهِمْ ۚ قُلِ ٱللَّهُ خَـٰلِقُ كُلِّ شَىْءٍ وَهُوَ ٱلْوَٰحِدُ ٱلْقَهَّـٰرُ
-
-</div>
-
-**Word in this verse:** `ضَرًّۭا ۚ` — (to) harm
-
-**English (Sahih International):** Say, "Who is Lord of the heavens and earth?" Say, "Allāh." Say, "Have you then taken besides Him allies not possessing [even] for themselves any benefit or any harm?" Say, "Is the blind equivalent to the seeing? Or is darkness equivalent to light? Or have they attributed to Allāh partners who created like His creation so that the creation [of each] seemed similar to them?" Say, "Allāh is the Creator of all things, and He is the One, the Prevailing."
-
-**English (Yusuf Ali):** Say: "Who is the Lord and Sustainer of the heavens and the earth?" Say: "(It is) Allah." Say: "Do ye then take (for worship) protectors other than Him, such as have no power either for good or for harm to themselves?" Say: "Are the blind equal with those who see? Or the depths of darkness equal with light?" Or do they assign to Allah partners who have created (anything) as He has created, so that the creation seemed to them similar? Say: "Allah is the Creator of all things: He is the One, the Supreme and Irresistible."
-
-**Urdu (Fatah Muhammad Jalandhari):** ان سے پوچھو کہ آسمانوں اور زمین کا پروردگار کون ہے؟ (تم ہی ان کی طرف سے) کہہ دو کہ خدا۔ پھر (ان سے) کہو کہ تم نے خدا کو چھوڑ کر ایسے لوگوں کو کیوں کارساز بنایا ہے جو خود اپنے نفع ونقصان کا بھی اختیار نہیں رکھتے (یہ بھی) پوچھو کیا اندھا اور آنکھوں والا برابر ہیں؟ یا اندھیرا اور اُجالا برابر ہوسکتا ہے؟ بھلا ان لوگوں نے جن کو خدا کا شریک مقرر کیا ہے۔ کیا انہوں نے خدا کی سی مخلوقات پیدا کی ہے جس کے سبب ان کو مخلوقات مشتبہ ہوگئی ہے۔ کہہ دو کہ خدا ہی ہر چیز کا پیدا کرنے والا ہے اور وہ یکتا (اور) زبردست ہے
-
-[Open on Quran.com](https://quran.com/13/16)
-
 #### 16:53 · [[016 An-Nahl]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -224,5 +143,77 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/16/54)
 
-_…and **16** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 17:56 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِهِۦ فَلَا يَمْلِكُونَ كَشْفَ ٱلضُّرِّ عَنكُمْ وَلَا تَحْوِيلًا
+
+</div>
+
+**Word in this verse:** `ٱلضُّرِّ` — the misfortunes
+
+**English (Sahih International):** Say, "Invoke those you have claimed [as gods] besides Him, for they do not possess the [ability for] removal of adversity from you or [for its] transfer [to someone else]."
+
+**English (Yusuf Ali):** Say: "Call on those - besides Him - whom ye fancy: they have neither the power to remove your troubles from you nor to change them."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ (مشرکو) جن لوگوں کی نسبت تمہیں (معبود ہونے کا) گمان ہے ان کو بلا کر دیکھو۔ وہ تم سے تکلیف کے دور کرنے یا اس کے بدل دینے کا کچھ بھی اختیار نہیں رکھتے
+
+[Open on Quran.com](https://quran.com/17/56)
+
+#### 17:67 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذَا مَسَّكُمُ ٱلضُّرُّ فِى ٱلْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلَّآ إِيَّاهُ ۖ فَلَمَّا نَجَّىٰكُمْ إِلَى ٱلْبَرِّ أَعْرَضْتُمْ ۚ وَكَانَ ٱلْإِنسَـٰنُ كَفُورًا
+
+</div>
+
+**Word in this verse:** `ٱلضُّرُّ` — the hardship
+
+**English (Sahih International):** And when adversity touches you at sea, lost are [all] those you invoke except for Him. But when He delivers you to the land, you turn away [from Him]. And ever is man ungrateful.
+
+**English (Yusuf Ali):** When distress seizes you at sea, those that ye call upon - besides Himself - leave you in the lurch! but when He brings you back safe to land, ye turn away (from Him). Most ungrateful is man!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تم کو دریا میں تکلیف پہنچتی ہے (یعنی ڈوبنے کا خوف ہوتا ہے) تو جن کو تم پکارا کرتے ہو سب اس (پروردگار) کے سوا گم ہوجاتے ہیں۔ پھر جب وہ تم کو (ڈوبنے سے) بچا کر خشکی پر لے جاتا ہے تو تم منہ پھیر لیتے ہو اور انسان ہے ہی ناشکرا
+
+[Open on Quran.com](https://quran.com/17/67)
+
+#### 21:83 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلضُّرُّ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
+
+</div>
+
+**Word in this verse:** `ٱلضُّرُّ` — the adversity
+
+**English (Sahih International):** And [mention] Job, when he called to his Lord, "Indeed, adversity has touched me, and You are the most merciful of the merciful."
+
+**English (Yusuf Ali):** And (remember) Job, when He cried to his Lord, "Truly distress has seized me, but Thou art the Most Merciful of those that are merciful."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ایوب کو (یاد کرو) جب انہوں نے اپنے پروردگار سے دعا کی کہ مجھے ایذا ہو رہی ہے اور تو سب سے بڑھ کر رحم کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/21/83)
+
+#### 21:84 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱسْتَجَبْنَا لَهُۥ فَكَشَفْنَا مَا بِهِۦ مِن ضُرٍّ ۖ وَءَاتَيْنَـٰهُ أَهْلَهُۥ وَمِثْلَهُم مَّعَهُمْ رَحْمَةً مِّنْ عِندِنَا وَذِكْرَىٰ لِلْعَـٰبِدِينَ
+
+</div>
+
+**Word in this verse:** `ضُرٍّۢ ۖ` — (the) adversity
+
+**English (Sahih International):** So We responded to him and removed what afflicted him of adversity. And We gave him [back] his family and the like thereof with them as mercy from Us and a reminder for the worshippers [of Allāh].
+
+**English (Yusuf Ali):** So We listened to him: We removed the distress that was on him, and We restored his people to him, and doubled their number,- as a Grace from Ourselves, and a thing for commemoration, for all who serve Us.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے ان کی دعا قبول کرلی اور جو ان کو تکلیف تھی وہ دور کردی اور ان کو بال بچے بھی عطا فرمائے اور اپنی مہربانی کے ساتھ اتنے ہی اور (بخشے) اور عبادت کرنے والوں کے لئے (یہ) نصیحت ہے
+
+[Open on Quran.com](https://quran.com/21/84)
+
+_…and **6** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

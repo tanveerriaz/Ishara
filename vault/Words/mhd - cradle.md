@@ -2,8 +2,8 @@
 type: word
 lemma: "مَهْد"
 slug: "mhd - cradle"
-surah_count: 6
-ayah_count: 6
+surah_count: 5
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -19,13 +19,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **cradle** · Lemma **مَهْد**
 
-### Surahs (6)
+### Surahs (5)
 - [[003 Ali Imran]]
 - [[005 Al-Maidah]]
 - [[019 Maryam]]
 - [[020 Taha]]
 - [[043 Az-Zukhruf]]
-- [[074 Al-Muddaththir]]
 
 ## Verses (full text)
 
@@ -120,22 +119,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جس نے تمہارے لئے زمین کو بچھونا بنایا۔ اور اس میں تمہارے لئے رستے بنائے تاکہ تم راہ معلوم کرو
 
 [Open on Quran.com](https://quran.com/43/10)
-
-#### 74:14 · [[074 Al-Muddaththir]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَمَهَّدتُّ لَهُۥ تَمْهِيدًا
-
-</div>
-
-**Word in this verse:** `وَمَهَّدتُّ` — And I spread
-
-**English (Sahih International):** And spread [everything] before him, easing [his life].
-
-**English (Yusuf Ali):** To whom I made (life) smooth and comfortable!
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ہر طرح کے سامان میں وسعت دی
-
-[Open on Quran.com](https://quran.com/74/14)
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** chiefs · **Root:** ملأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[ml> - chiefs]]
 - [[ml}t - surely]]

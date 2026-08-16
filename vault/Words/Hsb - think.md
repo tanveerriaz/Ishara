@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "حَسْب"
+lemma: "حَسِبَ"
 slug: "Hsb - think"
-surah_count: 26
-ayah_count: 54
+surah_count: 24
+ayah_count: 43
 tags: [word, meaning]
 ---
 
@@ -17,9 +17,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[Hsb - account]]
 
 ### Meaning
-**think** · Lemma **حَسْب**
+**think** · Lemma **حَسِبَ**
 
-### Surahs (26)
+### Surahs (24)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[005 Al-Maidah]]
@@ -34,39 +34,20 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[027 An-Naml]]
 - [[029 Al-Ankabut]]
 - [[033 Al-Ahzab]]
-- [[039 Az-Zumar]]
 - [[043 Az-Zukhruf]]
 - [[045 Al-Jathiyah]]
 - [[047 Muhammad]]
 - [[058 Al-Mujadila]]
 - [[059 Al-Hashr]]
 - [[063 Al-Munafiqun]]
-- [[065 At-Talaq]]
 - [[075 Al-Qiyamah]]
 - [[076 Al-Insan]]
 - [[090 Al-Balad]]
+- [[104 Al-Humazah]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:206 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِذَا قِيلَ لَهُ ٱتَّقِ ٱللَّهَ أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ ۚ فَحَسْبُهُۥ جَهَنَّمُ ۚ وَلَبِئْسَ ٱلْمِهَادُ
-
-</div>
-
-**Word in this verse:** `فَحَسْبُهُۥ` — Then enough for him
-
-**English (Sahih International):** And when it is said to him, "Fear Allāh," pride in the sin takes hold of him. Sufficient for him is Hellfire, and how wretched is the resting place.
-
-**English (Yusuf Ali):** When it is said to him, "Fear Allah", He is led by arrogance to (more) crime. Enough for him is Hell;-An evil bed indeed (To lie on)!
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب اس سے کہا جاتا ہے کہ خدا سے خوف کر تو غرور اس کو گناہ میں پھنسا دیتا ہے۔ سو ایسے کو جہنم سزاوار ہے۔ اور وہ بہت برا ٹھکانہ ہے
-
-[Open on Quran.com](https://quran.com/2/206)
 
 #### 2:214 · [[002 Al-Baqarah]]
 
@@ -158,24 +139,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/169)
 
-#### 3:173 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَـٰنًا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ
-
-</div>
-
-**Word in this verse:** `حَسْبُنَا` — Sufficient for us
-
-**English (Sahih International):** Those to whom people [i.e., hypocrites] said, "Indeed, the people have gathered against you, so fear them." But it [merely] increased them in faith, and they said, "Sufficient for us is Allāh, and [He is] the best Disposer of affairs."
-
-**English (Yusuf Ali):** Men said to them: "A great army is gathering against you": And frightened them: But it (only) increased their Faith: They said: "For us Allah sufficeth, and He is the best disposer of affairs."
-
-**Urdu (Fatah Muhammad Jalandhari):** (جب) ان سے لوگوں نے آکر بیان کیا کہ کفار نے تمہارے (مقابلے کے) لئے لشکر کثیر) جمع کیا ہے تو ان سے ڈرو۔ تو ان کا ایمان اور زیادہ ہوگیا۔ اور کہنے لگے ہم کو خدا کافی ہے اور وہ بہت اچھا کارساز ہے
-
-[Open on Quran.com](https://quran.com/3/173)
-
 #### 3:178 · [[003 Ali Imran]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -230,5 +193,41 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/188)
 
-_…and **44** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 5:71 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَحَسِبُوٓا۟ أَلَّا تَكُونَ فِتْنَةٌ فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا۟ وَصَمُّوا۟ كَثِيرٌ مِّنْهُمْ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `وَحَسِبُوٓا۟` — And they thought
+
+**English (Sahih International):** And they thought there would be no [resulting] punishment, so they became blind and deaf. Then Allāh turned to them in forgiveness; then [again] many of them became blind and deaf. And Allāh is Seeing of what they do.
+
+**English (Yusuf Ali):** They thought there would be no trial (or punishment); so they became blind and deaf; yet Allah (in mercy) turned to them; yet again many of them became blind and deaf. But Allah sees well all that they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خیال کرتے تھے کہ (اس سے ان پر) کوئی آفت نہیں آنے کی تو وہ اندھے اور بہرے ہو گئے پھر خدا نے ان پر مہربانی فرمائی (لیکن) پھر ان میں سے بہت سے اندھے اور بہرے ہو گئے اور خدا ان کے سب کاموں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/5/71)
+
+#### 7:30 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَرِيقًا هَدَىٰ وَفَرِيقًا حَقَّ عَلَيْهِمُ ٱلضَّلَـٰلَةُ ۗ إِنَّهُمُ ٱتَّخَذُوا۟ ٱلشَّيَـٰطِينَ أَوْلِيَآءَ مِن دُونِ ٱللَّهِ وَيَحْسَبُونَ أَنَّهُم مُّهْتَدُونَ
+
+</div>
+
+**Word in this verse:** `وَيَحْسَبُونَ` — while they think
+
+**English (Sahih International):** A group [of you] He guided, and a group deserved [to be in] error. Indeed, they [i.e., the latter] had taken the devils as allies instead of Allāh while they thought that they were guided.
+
+**English (Yusuf Ali):** Some He hath guided: Others have (by their choice) deserved the loss of their way; in that they took the evil ones, in preference to Allah, for their friends and protectors, and think that they receive guidance.
+
+**Urdu (Fatah Muhammad Jalandhari):** ایک فریق کو تو اس نے ہدایت دی اور ایک فریق پر گمراہی ثابت ہوچکی۔ ان لوگوں نے خدا کو چھوڑ کر شیطانوں کو رفیق بنا لیا اور سمجھتے (یہ) ہیں کہ ہدایت یاب ہیں
+
+[Open on Quran.com](https://quran.com/7/30)
+
+_…and **33** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

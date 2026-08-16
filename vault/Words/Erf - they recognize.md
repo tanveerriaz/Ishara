@@ -2,8 +2,8 @@
 type: word
 lemma: "عَرَفَ"
 slug: "Erf - they recognize"
-surah_count: 15
-ayah_count: 21
+surah_count: 13
+ayah_count: 17
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **they recognize** · Lemma **عَرَفَ**
 
-### Surahs (15)
+### Surahs (13)
 - [[002 Al-Baqarah]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
@@ -32,8 +32,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[033 Al-Ahzab]]
 - [[047 Muhammad]]
 - [[055 Ar-Rahman]]
-- [[066 At-Tahrim]]
-- [[077 Al-Mursalat]]
 - [[083 Al-Mutaffifin]]
 
 ## Verses (full text)
@@ -166,24 +164,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/48)
 
-#### 7:199 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-خُذِ ٱلْعَفْوَ وَأْمُرْ بِٱلْعُرْفِ وَأَعْرِضْ عَنِ ٱلْجَـٰهِلِينَ
-
-</div>
-
-**Word in this verse:** `بِٱلْعُرْفِ` — the good
-
-**English (Sahih International):** Take what is given freely, enjoin what is good, and turn away from the ignorant.
-
-**English (Yusuf Ali):** Hold to forgiveness; command what is right; But turn away from the ignorant.
-
-**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) عفو اختیار کرو اور نیک کام کرنے کا حکم دو اور جاہلوں سے کنارہ کرلو
-
-[Open on Quran.com](https://quran.com/7/199)
-
 #### 12:58 · [[012 Yusuf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -220,5 +200,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/12/62)
 
-_…and **11** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 16:83 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَعْرِفُونَ نِعْمَتَ ٱللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكْثَرُهُمُ ٱلْكَـٰفِرُونَ
+
+</div>
+
+**Word in this verse:** `يَعْرِفُونَ` — They recognize
+
+**English (Sahih International):** They recognize the favor of Allāh; then they deny it. And most of them are disbelievers.
+
+**English (Yusuf Ali):** They recognise the favours of Allah; then they deny them; and most of them are (creatures) ungrateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ خدا کی نعمتوں سے واقف ہیں۔ مگر (واقف ہو کر) اُن سے انکار کرتے ہیں اور یہ اکثر ناشکرے ہیں
+
+[Open on Quran.com](https://quran.com/16/83)
+
+_…and **7** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

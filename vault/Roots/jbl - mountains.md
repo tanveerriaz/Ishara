@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** mountains · **Root:** جبل
 
+
 ### Words (wikilinks — these create the graph)
 - [[jbl - mountains]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** justice · **Root:** قسط
 
+
 ### Words (wikilinks — these create the graph)
 - [[mqsT - act justly]]
 - [[qsT - justice]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** word disrespect · **Root:** أفف
 
+
 ### Words (wikilinks — these create the graph)
 - [[>f - word disrespect]]
 

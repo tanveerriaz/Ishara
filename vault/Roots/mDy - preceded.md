@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** preceded · **Root:** مضي
 
+
 ### Words (wikilinks — these create the graph)
 - [[mDY - preceded]]
 

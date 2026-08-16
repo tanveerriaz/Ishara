@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** trial · **Root:** فتن
 
+
 ### Words (wikilinks — these create the graph)
 - [[ftn - we tried]]
 - [[ftnp - trial]]

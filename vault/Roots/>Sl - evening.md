@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** evening · **Root:** أصل
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Sl - its root]]
 - [[>Syl - evening]]

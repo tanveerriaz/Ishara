@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hours · **Root:** أني
 
+
 ### Words (wikilinks — these create the graph)
 - [[AnA' - hours]]
 

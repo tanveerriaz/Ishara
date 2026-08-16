@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** sleep · **Root:** نوم
 
+
 ### Words (wikilinks — these create the graph)
 - [[mnAm - dream]]
 - [[nwm - sleep]]

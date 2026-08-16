@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** change · **Root:** بدل
 
+
 ### Words (wikilinks — these create the graph)
 - [[bdl - but changed]]
 - [[tbdyl - change]]

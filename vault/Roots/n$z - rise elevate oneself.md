@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** rise elevate oneself · **Root:** نشز
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

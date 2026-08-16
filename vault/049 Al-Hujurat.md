@@ -15,36 +15,36 @@ The Rooms · 18 ayahs
 ## Words in this surah (graph)
 
 - [[Swt - voice]] — `صَوْت` · voice
-- [[mqsT - act justly]] — `مُقْسِط` · act justly
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[>nvY - female]] — `أُنثَى` · female
-- [[Edl - justice]] — `عَدْل` · justice
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
 - [[>TAE - obey]] — `أَطاعَ` · obey
-- [[lHm - flesh]] — `لَحْم` · flesh
+- [[bgY - seek it]] — `بَغَى` · seek it
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[sbyl - way]] — `سَبِيل` · way
-- [[allah - God]] — `الله` · God
-- [[>kvr - them]] — `أَكْثَر` · them
-- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[EsY - perhaps]] — `عَسَى` · perhaps
-- [[En - distresses you]] — `عَنِ` · distresses you
-- [[>rD - earth]] — `أَرْض` · earth
-- [[Elm - know]] — `عَلِمَ` · know
-- [[SAdq - truthful]] — `صادِق` · truthful
-- [[<HdY - one them]] — `إِحْدَى` · one them
-- [[>SAb - befalls you]] — `أَصابَ` · befalls you
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[>ErAb - bedouins]] — `أَعْراب` · bedouins
+- [[Asm - name]] — `اسْم` · name
+- [[<slAm - pretense islam]] — `إِسْلام` · pretense islam
+- [[rswl - messenger]] — `رَسُول` · messenger
 - [[Aqttl - fight]] — `اقْتَتَلَ` · fight
+- [[fwq - above them]] — `فَوْق` · above them
+- [[lHm - flesh]] — `لَحْم` · flesh
+- [[En - distresses you]] — `عَنِ` · distresses you
+- [[byn - between them]] — `بَيْن` · between them
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[bEd - after]] — `بَعْد` · after
+- [[<HdY - one them]] — `إِحْدَى` · one them
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[wrA' - behind]] — `وَراء` · behind
+- [[nAdm - regretful]] — `نادِم` · regretful
+- [[>x - brother]] — `أَخ` · brother
+- [[mAl - wealth]] — `مال` · wealth
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[>Hbb - love]] — `أَحْبَبْ` · love
 
 ## Roots
 
 - [[$Er - perceive]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>Hd - anyone]]
 - [[>jr - reward]]
 - [[>kl - eat]]

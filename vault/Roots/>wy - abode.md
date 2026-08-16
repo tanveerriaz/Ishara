@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** abode · **Root:** أوي
 
+
 ### Words (wikilinks — these create the graph)
 - [[AwY - gave shelter]]
 - [[m>wY - abode]]

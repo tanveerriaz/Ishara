@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** rain · **Root:** مطر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>mTrt - we rained]]
 - [[mTr - rain]]

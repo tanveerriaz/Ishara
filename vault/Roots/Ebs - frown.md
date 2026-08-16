@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** frown · **Root:** عبس
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

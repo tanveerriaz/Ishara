@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** obey · **Root:** طوع
 
+
 ### Words (wikilinks — these create the graph)
 - [[>TAE - obey]]
 - [[AstTAE - they able]]

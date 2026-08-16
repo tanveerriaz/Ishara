@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** satisfaction · **Root:** هنأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[hny} - satisfaction]]
 

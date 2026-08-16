@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** you carve · **Root:** نحت
 
+
 ### Words (wikilinks — these create the graph)
 - [[ynHt - you carve]]
 

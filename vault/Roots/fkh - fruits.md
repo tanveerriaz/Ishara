@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fruits · **Root:** فكه
 
+
 ### Words (wikilinks — these create the graph)
 - [[fAkh - amusement]]
 - [[fAkhp - fruits]]

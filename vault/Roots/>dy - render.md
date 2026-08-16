@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** render · **Root:** أدي
 
+
 ### Words (wikilinks — these create the graph)
 - [[y&d - render]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** morning · **Root:** صبح
 
+
 ### Words (wikilinks — these create the graph)
 - [[>SbH - they became]]
 - [[SbH - morning]]

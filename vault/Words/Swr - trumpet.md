@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "صَوَّرَ"
+lemma: "صُور"
 slug: "Swr - trumpet"
-surah_count: 14
-ayah_count: 14
+surah_count: 10
+ayah_count: 10
 tags: [word, meaning]
 ---
 
@@ -17,45 +17,23 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[Swr - trumpet]]
 
 ### Meaning
-**trumpet** · Lemma **صَوَّرَ**
+**trumpet** · Lemma **صُور**
 
-### Surahs (14)
-- [[003 Ali Imran]]
+### Surahs (10)
 - [[006 Al-Anam]]
-- [[007 Al-Araf]]
 - [[018 Al-Kahf]]
 - [[020 Taha]]
 - [[023 Al-Muminun]]
 - [[027 An-Naml]]
 - [[036 Ya-Sin]]
 - [[039 Az-Zumar]]
-- [[040 Ghafir]]
 - [[050 Qaf]]
-- [[064 At-Taghabun]]
 - [[069 Al-Haqqah]]
 - [[078 An-Naba]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 3:6 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
-
-</div>
-
-**Word in this verse:** `يُصَوِّرُكُمْ` — shapes you
-
-**English (Sahih International):** It is He who forms you in the wombs however He wills. There is no deity except Him, the Exalted in Might, the Wise.
-
-**English (Yusuf Ali):** He it is Who shapes you in the wombs as He pleases. There is no god but He, the Exalted in Might, the Wise.
-
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جو (ماں کے پیٹ میں) جیسی چاہتا ہے تمہاری صورتیں بناتا ہے اس غالب حکمت والے کے سوا کوئی عبادت کے لائق نہیں
-
-[Open on Quran.com](https://quran.com/3/6)
 
 #### 6:73 · [[006 Al-Anam]]
 
@@ -74,24 +52,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے آسمانوں اور زمین کو تدبیر سے پیدا کیا ہے۔ اور جس دن وہ فرمائے گا کہ ہو جا تو (حشر برپا) ہوجائے گا ۔ اس کا ارشاد برحق ہے۔ اور جس دن صور پھونکا جائے گا (اس دن) اسی کی بادشاہت ہوگی۔ وہی پوشیدہ اور ظاہر (سب) کا جاننے والا ہے اور وہی دانا اور خبردار ہے
 
 [Open on Quran.com](https://quran.com/6/73)
-
-#### 7:11 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَقَدْ خَلَقْنَـٰكُمْ ثُمَّ صَوَّرْنَـٰكُمْ ثُمَّ قُلْنَا لِلْمَلَـٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّـٰجِدِينَ
-
-</div>
-
-**Word in this verse:** `صَوَّرْنَـٰكُمْ` — We fashioned you
-
-**English (Sahih International):** And We have certainly created you, [O mankind], and given you [human] form. Then We said to the angels, "Prostrate to Adam"; so they prostrated, except for Iblees. He was not of those who prostrated.
-
-**English (Yusuf Ali):** It is We Who created you and gave you shape; then We bade the angels prostrate to Adam, and they prostrate; not so Iblis; He refused to be of those who prostrate.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم ہی نے تم کو (ابتدا میں مٹی سے) پیدا کیا پھر تمہاری صورت شکل بنائی پھر فرشتوں کو حکم دیا آدم کے آگے سجدہ کرو تو (سب نے) سجدہ کیا لیکن ابلیس کہ وہ سجدہ کرنے والوں میں (شامل) نہ ہوا
-
-[Open on Quran.com](https://quran.com/7/11)
 
 #### 18:99 · [[018 Al-Kahf]]
 
@@ -201,23 +161,57 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/39/68)
 
-#### 40:64 · [[040 Ghafir]]
+#### 50:20 · [[050 Qaf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ قَرَارًا وَٱلسَّمَآءَ بِنَآءً وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَـٰتِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ ۖ فَتَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ
+وَنُفِخَ فِى ٱلصُّورِ ۚ ذَٰلِكَ يَوْمُ ٱلْوَعِيدِ
 
 </div>
 
-**Word in this verse:** `وَصَوَّرَكُمْ` — and He formed you
+**Word in this verse:** `ٱلصُّورِ ۚ` — the trumpet
 
-**English (Sahih International):** It is Allāh who made for you the earth a place of settlement and the sky a structure [i.e., ceiling] and formed you and perfected your forms and provided you with good things. That is Allāh, your Lord; then blessed is Allāh, Lord of the worlds.
+**English (Sahih International):** And the Horn will be blown. That is the Day of [carrying out] the threat.
 
-**English (Yusuf Ali):** It is Allah Who has made for you the earth as a resting place, and the sky as a canopy, and has given you shape- and made your shapes beautiful,- and has provided for you Sustenance, of things pure and good;- such is Allah your Lord. So Glory to Allah, the Lord of the Worlds!
+**English (Yusuf Ali):** And the Trumpet shall be blown: that will be the Day whereof Warning (had been given).
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے زمین کو تمہارے لئے ٹھیرنے کی جگہ اور آسمان کو چھت بنایا اور تمہاری صورتیں بنائیں اور صورتیں بھی خوب بنائیں اور تمہیں پاکیزہ چیزیں کھانے کو دیں۔ یہی خدا تمہارا پروردگار ہے۔ پس خدائے پروردگار عالم بہت ہی بابرکت ہے
+**Urdu (Fatah Muhammad Jalandhari):** اور صور پھونکا جائے گا۔ یہی (عذاب کے) وعید کا دن ہے
 
-[Open on Quran.com](https://quran.com/40/64)
+[Open on Quran.com](https://quran.com/50/20)
 
-_…and **4** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 69:13 · [[069 Al-Haqqah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِذَا نُفِخَ فِى ٱلصُّورِ نَفْخَةٌ وَٰحِدَةٌ
+
+</div>
+
+**Word in this verse:** `ٱلصُّورِ` — the trumpet 
+
+**English (Sahih International):** Then when the Horn is blown with one blast
+
+**English (Yusuf Ali):** Then, when one blast is sounded on the Trumpet,
+
+**Urdu (Fatah Muhammad Jalandhari):** تو جب صور میں ایک (بار) پھونک مار دی جائے گی
+
+[Open on Quran.com](https://quran.com/69/13)
+
+#### 78:18 · [[078 An-Naba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا
+
+</div>
+
+**Word in this verse:** `ٱلصُّورِ` — the trumpet
+
+**English (Sahih International):** The Day the Horn is blown and you will come forth in multitudes
+
+**English (Yusuf Ali):** The Day that the Trumpet shall be sounded, and ye shall come forth in crowds;
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن صور پھونکا جائے گا تو تم لوگ غٹ کے غٹ آ موجود ہو گے
+
+[Open on Quran.com](https://quran.com/78/18)
 

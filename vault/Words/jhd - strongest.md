@@ -2,8 +2,8 @@
 type: word
 lemma: "جَهْد"
 slug: "jhd - strongest"
-surah_count: 6
-ayah_count: 6
+surah_count: 5
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **strongest** · Lemma **جَهْد**
 
-### Surahs (6)
+### Surahs (5)
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
-- [[009 At-Tawbah]]
 - [[016 An-Nahl]]
 - [[024 An-Nur]]
 - [[035 Fatir]]
@@ -66,24 +65,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر ان کے پاس کوئی نشانی آئے تو وہ اس پر ضروری ایمان لے آئیں۔ کہہ دو کہ نشانیاں تو سب خدا ہی کے پاس ہیں۔ اور (مومنو!) تمہیں کیا معلوم ہے (یہ تو ایسے بدبخت ہیں کہ ان کے پاس) نشانیاں آ بھی جائیں تب بھی ایمان نہ لائیں
 
 [Open on Quran.com](https://quran.com/6/109)
-
-#### 9:79 · [[009 At-Tawbah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلَّذِينَ يَلْمِزُونَ ٱلْمُطَّوِّعِينَ مِنَ ٱلْمُؤْمِنِينَ فِى ٱلصَّدَقَـٰتِ وَٱلَّذِينَ لَا يَجِدُونَ إِلَّا جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ ۙ سَخِرَ ٱللَّهُ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
-
-</div>
-
-**Word in this verse:** `جُهْدَهُمْ` — their effort
-
-**English (Sahih International):** Those who criticize the contributors among the believers concerning [their] charities and [criticize] the ones who find nothing [to spend] except their effort, so they ridicule them - Allāh will ridicule them, and they will have a painful punishment.
-
-**English (Yusuf Ali):** Those who slander such of the believers as give themselves freely to (deeds of) charity, as well as such as can find nothing to give except the fruits of their labour,- and throw ridicule on them,- Allah will throw back their ridicule on them: and they shall have a grievous penalty.
-
-**Urdu (Fatah Muhammad Jalandhari):** جو (ذی استطاعت) مسلمان دل کھول کر خیرات کرتے ہیں اور جو (بےچارے غریب صرف اتنا ہی کما سکتے ہیں جتنی مزدوری کرتے (اور تھوڑی سی کمائی میں سے خرچ بھی کرتے) ہیں ان پر جو (منافق) طعن کرتے ہیں اور ہنستے ہیں۔ خدا ان پر ہنستا ہے اور ان کے لیے تکلیف دینے والا عذاب (تیار) ہے
-
-[Open on Quran.com](https://quran.com/9/79)
 
 #### 16:38 · [[016 An-Nahl]]
 

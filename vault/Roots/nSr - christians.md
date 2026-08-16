@@ -11,11 +11,13 @@ tags: [root, meaning]
 
 **Sense:** christians · **Root:** نصر
 
+
 ### Words (wikilinks — these create the graph)
 - [[AntSr - defend themselves]]
 - [[mntSr - he supported]]
 - [[nASr - helpers]]
 - [[nSr - help]]
+- [[nSr - will helped]]
 - [[nSrAny - christians]]
 - [[nSyr - any helper]]
 

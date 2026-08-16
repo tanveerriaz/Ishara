@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** blame · **Root:** جنح
 
+
 ### Words (wikilinks — these create the graph)
 - [[jnAH - blame]]
+- [[jnAH - wing]]
 
 ### Surahs where this root appears
 `002, 004, 005, 006, 008, 015, 017, 020, 024, 026, 028, 033, 035, 060` · open those surah notes from [[Surah Index]]

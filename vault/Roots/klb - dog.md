@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** dog · **Root:** كلب
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

@@ -2,8 +2,8 @@
 type: word
 lemma: "كَثُرَ"
 slug: "kvr - much"
-surah_count: 3
-ayah_count: 3
+surah_count: 2
+ayah_count: 2
 tags: [word, meaning]
 ---
 
@@ -19,9 +19,8 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **much** · Lemma **كَثُرَ**
 
-### Surahs (3)
+### Surahs (2)
 - [[004 An-Nisa]]
-- [[007 Al-Araf]]
 - [[008 Al-Anfal]]
 
 ## Verses (full text)
@@ -45,24 +44,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جو مال ماں باپ اور رشتہ دار چھوڑ مریں تھوڑا ہو یا بہت۔ اس میں مردوں کا بھی حصہ ہے اور عورتوں کا بھی یہ حصے (خدا کے) مقرر کئے ہوئے ہیں
 
 [Open on Quran.com](https://quran.com/4/7)
-
-#### 7:86 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَا تَقْعُدُوا۟ بِكُلِّ صِرَٰطٍ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنْ ءَامَنَ بِهِۦ وَتَبْغُونَهَا عِوَجًا ۚ وَٱذْكُرُوٓا۟ إِذْ كُنتُمْ قَلِيلًا فَكَثَّرَكُمْ ۖ وَٱنظُرُوا۟ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُفْسِدِينَ
-
-</div>
-
-**Word in this verse:** `فَكَثَّرَكُمْ ۖ` — and He increased you
-
-**English (Sahih International):** And do not sit on every path, threatening and averting from the way of Allāh those who believe in Him, seeking to make it [seem] deviant. And remember when you were few and He increased you. And see how was the end of the corrupters.
-
-**English (Yusuf Ali):** "And squat not on every road, breathing threats, hindering from the path of Allah those who believe in Him, and seeking in it something crooked; But remember how ye were little, and He gave you increase. And hold in your mind's eye what was the end of those who did mischief.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ہر رستے پر مت بیٹھا کرو کہ جو شخص خدا پر ایمان نہیں لاتا ہے اسے تم ڈراتے اور راہ خدا سے روکتے اور اس میں کجی ڈھونڈتے ہو اور (اس وقت کو) یاد کرو جب تم تھوڑے سے تھے تو خدا نے تم کو جماعت کثیر کر دیا اور دیکھ لو کہ خرابی کرنے والوں کا انجام کیسا ہوا
-
-[Open on Quran.com](https://quran.com/7/86)
 
 #### 8:19 · [[008 Al-Anfal]]
 

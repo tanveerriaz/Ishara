@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** despair · **Root:** قنط
 
+
 ### Words (wikilinks — these create the graph)
 - [[qnT - despair]]
 

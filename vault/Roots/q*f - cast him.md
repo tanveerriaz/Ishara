@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** cast him · **Root:** قذف
 
+
 ### Words (wikilinks — these create the graph)
 - [[q*f - cast him]]
 

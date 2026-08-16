@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** every · **Root:** كلل
 
+
 ### Words (wikilinks — these create the graph)
 - [[kl - every]]
 - [[klmA - every time]]

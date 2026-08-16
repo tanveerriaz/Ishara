@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** name · **Root:** حبر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

@@ -11,10 +11,12 @@ tags: [root, meaning]
 
 **Sense:** all-hearer · **Root:** سمع
 
+
 ### Words (wikilinks — these create the graph)
 - [[>smE - cause hear]]
 - [[AstmE - listen]]
 - [[smE - hearing]]
+- [[smE - we heard]]
 - [[smyE - all-hearer]]
 
 ### Surahs where this root appears

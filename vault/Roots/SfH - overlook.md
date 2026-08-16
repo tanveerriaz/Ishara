@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** overlook · **Root:** صفح
 
+
 ### Words (wikilinks — these create the graph)
 - [[ySfH - overlook]]
 

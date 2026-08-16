@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** give · **Root:** أتي
 
+
 ### Words (wikilinks — these create the graph)
 - [[<ytA' - giving]]
 - [[>tY - comes them]]

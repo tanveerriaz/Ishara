@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** scorching fire · **Root:** سمم
 
+
 ### Words (wikilinks — these create the graph)
 - [[smwm - scorching fire]]
 

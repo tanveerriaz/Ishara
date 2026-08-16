@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** appointment · **Root:** وقت
 
+
 ### Words (wikilinks — these create the graph)
 - [[myqAt - appointment]]
 - [[wqt - time]]

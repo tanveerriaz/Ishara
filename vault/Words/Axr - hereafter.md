@@ -2,8 +2,8 @@
 type: word
 lemma: "آخِر"
 slug: "Axr - hereafter"
-surah_count: 61
-ayah_count: 220
+surah_count: 49
+ayah_count: 153
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **hereafter** · Lemma **آخِر**
 
-### Surahs (61)
+### Surahs (49)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -33,18 +33,18 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[012 Yusuf]]
 - [[013 Ar-Rad]]
 - [[014 Ibrahim]]
-- [[015 Al-Hijr]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
 - [[020 Taha]]
-- [[021 Al-Anbya]]
 - [[022 Al-Hajj]]
 - [[023 Al-Muminun]]
 - [[024 An-Nur]]
-- [[025 Al-Furqan]]
 - [[026 Ash-Shuara]]
 - [[027 An-Naml]]
 - [[028 Al-Qasas]]
+- [[029 Al-Ankabut]]
+- [[030 Ar-Rum]]
+- [[031 Luqman]]
 
 ## Verses (full text)
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/177)
 
-_…and **210** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **143** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

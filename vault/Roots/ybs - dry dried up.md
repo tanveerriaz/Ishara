@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** dry dried up · **Root:** يبس
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

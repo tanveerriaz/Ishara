@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** wherever · **Root:** حيث
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hyv - wherever]]
 

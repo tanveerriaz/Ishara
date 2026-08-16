@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** breaking forth light · **Root:** فلق
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

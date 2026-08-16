@@ -3,7 +3,7 @@ type: word
 lemma: "أَخَذَ"
 slug: ">x* - we took"
 surah_count: 41
-ayah_count: 115
+ayah_count: 114
 tags: [word, meaning]
 ---
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/260)
 
-_…and **105** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **104** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

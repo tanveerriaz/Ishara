@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** wandering blindly · **Root:** عمه
 
+
 ### Words (wikilinks — these create the graph)
 - [[yEmh - wandering blindly]]
 

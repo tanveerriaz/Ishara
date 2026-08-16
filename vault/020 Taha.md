@@ -14,31 +14,31 @@ Ta-Ha · 135 ayahs
 
 ## Words in this surah (graph)
 
-- [[TgY - has transgressed]] — `طَغَى` · has transgressed
 - [[>bqY - more lasting]] — `أَبْقَى` · more lasting
-- [[>xlf - break]] — `أَخْلَفُ` · break
 - [[mwEd - appointment]] — `مَوْعِد` · appointment
+- [[TgY - has transgressed]] — `طَغَى` · has transgressed
+- [[>xlf - break]] — `أَخْلَفُ` · break
 - [[ym - sea]] — `يَمّ` · sea
-- [[Hll - lawful]] — `حَلَلْ` · lawful
 - [[sEY - strive]] — `سَعَى` · strive
-- [[m$ - walk]] — `مَشَ` · walk
-- [[Ewj - crookedness]] — `عِوَج` · crookedness
-- [[xAb - disappointed]] — `خابَ` · disappointed
-- [[>bY - he refused]] — `أَبَى` · he refused
-- [[wzr - burden]] — `وِزْر` · burden
-- [[q*f - cast him]] — `قَذَفَ` · cast him
-- [[EAkf - devoted]] — `عاكِف` · devoted
-- [[zynp - adornment]] — `زِينَة` · adornment
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[sAHr - magician]] — `ساحِر` · magician
-- [[sbq - preceded]] — `سَبَقَ` · preceded
-- [[>vr - footsteps]] — `أَثَر` · footsteps
-- [[Tryqp - way]] — `طَرِيقَة` · way
-- [[dl - direct you]] — `دَلَّ` · direct you
+- [[Hll - lawful]] — `حَلَلْ` · lawful
 - [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[>TAE - obey]] — `أَطاعَ` · obey
-- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[>vr - footsteps]] — `أَثَر` · footsteps
+- [[dl - direct you]] — `دَلَّ` · direct you
+- [[zynp - adornment]] — `زِينَة` · adornment
+- [[nhY - intelligence]] — `نُهَى` · intelligence
+- [[xAb - disappointed]] — `خابَ` · disappointed
+- [[sAHr - magician]] — `ساحِر` · magician
+- [[Ewj - crookedness]] — `عِوَج` · crookedness
+- [[SnE - do]] — `صَنَعُ` · do
+- [[sbq - preceded]] — `سَبَقَ` · preceded
+- [[EAkf - devoted]] — `عاكِف` · devoted
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[q*f - cast him]] — `قَذَفَ` · cast him
+- [[Tryqp - way]] — `طَرِيقَة` · way
+- [[Ejl - hasten]] — `عَجِلَ` · hasten
+- [[gDb - wrath]] — `غَضَب` · wrath
+- [[>*n - permits]] — `أَذِنَ` · permits
+- [[m$ - walk]] — `مَشَ` · walk
 
 ## Roots
 
@@ -52,8 +52,8 @@ Ta-Ha · 135 ayahs
 - [[$rk - polytheists]]
 - [[$tt - diverse]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[>*n - by permission]]
 - [[>by - he refused]]
@@ -68,7 +68,7 @@ Ta-Ha · 135 ayahs
 - [[>ns - people]]
 - [[>ny - hours]]
 - [[>rD - earth]]
-- [[>sf - grieved]]
+- [[>sf - alas]]
 - [[>ty - give]]
 - [[>vr - footsteps]]
 - [[>wl - first]]

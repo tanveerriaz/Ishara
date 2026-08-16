@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fear · **Root:** خوف
 
+
 ### Words (wikilinks — these create the graph)
 - [[xAf - fear]]
 - [[xwf - fear]]

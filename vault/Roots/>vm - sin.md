@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** sin · **Root:** أثم
 
+
 ### Words (wikilinks — these create the graph)
 - [[<vm - sin]]
 - [[>vym - sinful]]

@@ -14,31 +14,31 @@ The Forgiver · 85 ayahs
 
 ## Words in this surah (graph)
 
-- [[mtkbr - arrogant]] — `مُتَكَبِّر` · arrogant
 - [[wqY - save us]] — `وَقَى` · save us
-- [[Hmym - scalding water]] — `حَمِيم` · scalding water
-- [[mqt - hatred]] — `مَقْت` · hatred
-- [[qrAr - settlement]] — `قَرار` · settlement
-- [[wHd - alone]] — `وَحْد` · alone
-- [[E$y - evening]] — `عَشِيّ` · evening
-- [[sbb - course]] — `سَبَب` · course
-- [[HAq - enveloped]] — `حاقَ` · enveloped
+- [[mtkbr - arrogant]] — `مُتَكَبِّر` · arrogant
 - [[>vr - footsteps]] — `أَثَر` · footsteps
+- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
+- [[HAq - enveloped]] — `حاقَ` · enveloped
+- [[Hmym - scalding water]] — `حَمِيم` · scalding water
+- [[sbb - course]] — `سَبَب` · course
+- [[mqt - hatred]] — `مَقْت` · hatred
 - [[k*Ab - liar]] — `كَذّاب` · liar
-- [[Twl - afford]] — `طَوْل` · afford
-- [[*nb - sins]] — `ذَنب` · sins
+- [[qrAr - settlement]] — `قَرار` · settlement
+- [[E$y - evening]] — `عَشِيّ` · evening
+- [[wHd - alone]] — `وَحْد` · alone
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[Enq - necks]] — `عُنُق` · necks
 - [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[sbyl - way]] — `سَبِيل` · way
-- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
-- [[*ryp - offspring]] — `ذُرِّيَّة` · offspring
-- [[d>b - like way]] — `دَأْب` · like way
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[gl - shackles]] — `غَلَّ` · shackles
-- [[b>s - punishment]] — `بَأْس` · punishment
-- [[Elm - know]] — `عَلِمَ` · know
-- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[xAlq - creator]] — `خالِق` · creator
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[EbAdt - worship]] — `عِبادَت` · worship
+- [[dEA - call]] — `دَعا` · call
+- [[mkr - plotted]] — `مَكَرَ` · plotted
+- [[dAr - home]] — `دار` · home
+- [[dAxr - humble]] — `داخِر` · humble
+- [[$Ahd - witnesses]] — `شاهِد` · witnesses
+- [[byn - between them]] — `بَيْن` · between them
+- [[>slm - submits]] — `أَسْلَمَ` · submits
 
 ## Roots
 
@@ -50,7 +50,7 @@ The Forgiver · 85 ayahs
 - [[$rk - polytheists]]
 - [[$y> - thing]]
 - [[$yx - old]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[*rr - offspring]]
 - [[>*n - by permission]]

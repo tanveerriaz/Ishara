@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** treasure · **Root:** كنز
 
+
 ### Words (wikilinks — these create the graph)
+- [[knz - hoard]]
 - [[knz - treasure]]
 
 ### Surahs where this root appears

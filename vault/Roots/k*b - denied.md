@@ -11,9 +11,13 @@ tags: [root, meaning]
 
 **Sense:** denied · **Root:** كذب
 
+
 ### Words (wikilinks — these create the graph)
+- [[k*Ab - denial]]
 - [[k*Ab - liar]]
 - [[k*b - denied]]
+- [[k*b - lie]]
+- [[k*b - lied]]
 - [[kA*b - liars]]
 - [[mk*b - deniers]]
 

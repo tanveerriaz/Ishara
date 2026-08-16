@@ -31,6 +31,7 @@ WORD_DIR = VAULT / "Words"
 META_DIR = VAULT / "Meta"
 
 MIN_SURAHS_FOR_WORD = 3
+MIN_AYAHS_FOR_SPLIT_WORD = 2
 MAX_WORDS_PER_SURAH = 25
 MAX_SURAHS_LISTED = 25
 MAX_WORDS_PER_ROOT = 25
@@ -69,6 +70,23 @@ CURATED_ROOT_LABELS = {
     "لهو": "diversion",  # not Lane "uvula"
     "جرم": "crime",  # not "doubt" from لا جرم phrase gloss
     "نسل": "offspring",  # not "nasala"
+    "عمر": "inhabit build maintain flourish",  # root family; not every form means "life"
+}
+
+CURATED_WORD_LABELS = {
+    ("عمر", "عَمَرُ"): "maintain",
+    ("عمر", "عُمُر"): "life",
+    ("عمر", "عَمْر"): "life",
+    ("عمر", "يُعَمَّرُ"): "granted life",
+    ("عمر", "مُعَمَّر"): "long-lived",
+    ("عمر", "عُمْرَة"): "umrah",
+    ("عمر", "عِمارَة"): "maintenance",
+    ("عمر", "اسْتَعْمَرَ"): "settled",
+    ("عمر", "مَعْمُور"): "frequented",
+}
+
+CURATED_ROOT_EXTENSIONS = {
+    "عمر": "life / longevity",
 }
 
 
@@ -291,6 +309,15 @@ def surah_filename(num: int, name: str) -> str:
 def lemma_key(root_key: str, lemma: str) -> str:
     if root_key == "ALLAH":
         return "ALLAH"
+    # Keep Corpus lemma vowels in the identity. Stripping them merges distinct
+    # Qur'anic lemmas such as عَمَرُ (maintain/inhabit) and عُمُر (life/age).
+    norm = unicodedata.normalize("NFC", (lemma or "").strip())
+    return f"{root_key}::{norm or root_key}"
+
+
+def lemma_family_key(root_key: str, lemma: str) -> str:
+    if root_key == "ALLAH":
+        return "ALLAH"
     return f"{root_key}::{strip_diacritics(lemma or '').strip() or root_key}"
 
 
@@ -483,6 +510,9 @@ def main():
     def pick_word_gloss(meta):
         if meta["root_key"] == "ALLAH":
             return "God"
+        curated = CURATED_WORD_LABELS.get((meta["root_ar"], meta["lemma"]))
+        if curated:
+            return curated
         bw = arabic_to_bw(meta["root_ar"])
         ranked = sorted(meta["glosses"].items(), key=lambda kv: (0 if len(kv[0].split()) <= 2 else 1, -kv[1]))
         for g, _ in ranked:
@@ -493,11 +523,24 @@ def main():
             return root_g
         return "word"
 
-    # Keep only cross-surah words (+ Allah)
+    lemma_family_surahs: dict[str, set[int]] = defaultdict(set)
+    for meta in lemma_meta.values():
+        lemma_family_surahs[lemma_family_key(meta["root_key"], meta["lemma"])].update(meta["surahs"])
+
+    # Keep cross-surah words (+ Allah). Also keep a small split-word exception
+    # when preserving lemma vowels separates a previously visible cross-surah
+    # family into an important repeated sense with fewer than 3 surahs.
     keep_lemmas = {
         lk
         for lk, meta in lemma_meta.items()
-        if lk == "ALLAH" or len(meta["surahs"]) >= MIN_SURAHS_FOR_WORD
+        if (
+            lk == "ALLAH"
+            or len(meta["surahs"]) >= MIN_SURAHS_FOR_WORD
+            or (
+                len(lemma_family_surahs[lemma_family_key(meta["root_key"], meta["lemma"])]) >= MIN_SURAHS_FOR_WORD
+                and len(meta["ayahs"]) >= MIN_AYAHS_FOR_SPLIT_WORD
+            )
+        )
     }
     keep_roots = {
         lemma_meta[lk]["root_key"]
@@ -547,6 +590,8 @@ def main():
             f"{sid:03d}" for sid in sorted(meta["surahs"])[:MAX_SURAHS_LISTED]
         )
         extra = f" …+{len(meta['surahs']) - MAX_SURAHS_LISTED}" if len(meta["surahs"]) > MAX_SURAHS_LISTED else ""
+        extension = CURATED_ROOT_EXTENSIONS.get(meta["root_ar"])
+        extension_line = f"\n**Extended semantic connection:** {extension}\n" if extension else ""
         (ROOT_DIR / f"{slug}.md").write_text(
             f"""---
 type: root
@@ -560,6 +605,7 @@ tags: [root, meaning]
 ## Graph connections
 
 **Sense:** {pick_root_gloss(rk, meta)} · **Root:** {meta['root_ar']}
+{extension_line}
 
 ### Words (wikilinks — these create the graph)
 {chr(10).join(words) if words else "- (hub)"}

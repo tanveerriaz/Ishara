@@ -15,30 +15,30 @@ The Stories · 88 ayahs
 ## Words in this surah (graph)
 
 - [[mdyn - madyan]] — `مَدْيَن` · madyan
-- [[sqY - water]] — `سَقَى` · water
-- [[<HdY - one them]] — `إِحْدَى` · one them
 - [[jAnb - side]] — `جانِب` · side
-- [[ym - sea]] — `يَمّ` · sea
-- [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
-- [[mdynp - city]] — `مَدِينَة` · city
+- [[<HdY - one them]] — `إِحْدَى` · one them
+- [[sqY - water]] — `سَقَى` · water
 - [[brhAn - proof]] — `بُرْهان` · proof
-- [[nASH - sincere advisors]] — `ناصِح` · sincere advisors
-- [[$yEp - sects]] — `شِيعَة` · sects
-- [[xsf - becomes dark]] — `خَسَفَ` · becomes dark
+- [[ym - sea]] — `يَمّ` · sea
 - [[fsAd - corruption]] — `فَساد` · corruption
-- [[wArv - inheritors]] — `وارِث` · inheritors
+- [[Amn - secure]] — `آمِن` · secure
 - [[Zhyr - assistants]] — `ظَهِير` · assistants
-- [[<mAm - leaders]] — `إِمام` · leaders
 - [[mk - we established]] — `مَكَّ` · we established
+- [[mdynp - city]] — `مَدِينَة` · city
+- [[xsf - becomes dark]] — `خَسَفَ` · becomes dark
+- [[<mAm - leaders]] — `إِمام` · leaders
+- [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
+- [[$yEp - sects]] — `شِيعَة` · sects
+- [[wArv - inheritors]] — `وارِث` · inheritors
 - [[Twr - mount]] — `طُور` · mount
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[mn - bestowed favor]] — `مَنَّ` · bestowed favor
 - [[zEm - claim]] — `زَعَمَ` · claim
-- [[tnkH - marry]] — `تُنكِحُ` · marry
-- [[*nb - sins]] — `ذَنب` · sins
-- [[lgw - vain talk]] — `لَغْو` · vain talk
-- [[sbyl - way]] — `سَبِيل` · way
-- [[EsY - perhaps]] — `عَسَى` · perhaps
-- [[Elm - know]] — `عَلِمَ` · know
+- [[nASH - sincere advisors]] — `ناصِح` · sincere advisors
+- [[vwAb - reward]] — `ثَواب` · reward
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[mHsn - good-doers]] — `مُحْسِن` · good-doers
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[dEA - call]] — `دَعا` · call
 
 ## Roots
 
@@ -54,7 +54,7 @@ The Stories · 88 ayahs
 - [[$yE - sects]]
 - [[$yx - old]]
 - [[*bH - slaughtering]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[>Hd - anyone]]
 - [[>bw - forefathers]]
@@ -87,7 +87,7 @@ The Stories · 88 ayahs
 - [[Eln - they declare]]
 - [[Elw - high]]
 - [[Eml - do]]
-- [[Emr - life]]
+- [[Emr - inhabit build maintain flourish]]
 - [[Emy - blind]]
 - [[End - near]]
 - [[Eqb - end]]

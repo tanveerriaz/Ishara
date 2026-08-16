@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** vain talk · **Root:** لغو
 
+
 ### Words (wikilinks — these create the graph)
 - [[lgw - vain talk]]
 

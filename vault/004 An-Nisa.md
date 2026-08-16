@@ -14,31 +14,31 @@ The Women · 176 ayahs
 
 ## Words in this surah (graph)
 
-- [[kfY - sufficient]] — `كَفَى` · sufficient
 - [[nSyb - share]] — `نَصِيب` · share
-- [[rjAl - men]] — `رِجال` · men
+- [[kfY - sufficient]] — `كَفَى` · sufficient
 - [[mbyn - clear]] — `مُبِين` · clear
+- [[rjAl - men]] — `رِجال` · men
 - [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
-- [[xAf - fear]] — `خافَ` · fear
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
 - [[ytym - orphans]] — `يَتِيم` · orphans
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[xAf - fear]] — `خافَ` · fear
 - [[trk - we left]] — `تَرَكَ` · we left
+- [[rd - returned]] — `رَدَّ` · returned
+- [[>Dl - mislead]] — `أَضَلَّ` · mislead
 - [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[lEn - curse them]] — `لَعَنَ` · curse them
+- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
 - [[ymyn - oaths]] — `يَمِين` · oaths
-- [[sw' - evil]] — `سُوء` · evil
 - [[Dl - lost]] — `ضَلَّ` · lost
 - [[nSyr - any helper]] — `نَصِير` · any helper
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[lEn - curse them]] — `لَعَنَ` · curse them
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
-- [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
+- [[sw' - evil]] — `سُوء` · evil
+- [[nSf - half]] — `نِصْف` · half
+- [[wAld - parents]] — `والِد` · parents
+- [[Zlm - wrongdoing]] — `ظُلْم` · wrongdoing
+- [[wjd - we found]] — `وَجَدَ` · we found
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
 - [[Hdyv - statement]] — `حَدِيث` · statement
-- [[fAH$p - immorality]] — `فاحِشَة` · immorality
-- [[>Hsn - best]] — `أَحْسَن` · best
-- [[wrv - will inherit]] — `وَرِثَ` · will inherit
-- [[Hsnp - good]] — `حَسَنَة` · good
-- [[mlkt - possess]] — `مَلَكَتْ` · possess
-- [[Sd - hinder]] — `صَدّ` · hinder
+- [[wld - children]] — `وَلَد` · children
 
 ## Roots
 
@@ -57,8 +57,8 @@ The Women · 176 ayahs
 - [[$rk - polytheists]]
 - [[$ry - exchange]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*rr - offspring]]
 - [[*wq - taste]]
 - [[>*n - by permission]]

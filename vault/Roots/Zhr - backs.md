@@ -11,9 +11,12 @@ tags: [root, meaning]
 
 **Sense:** backs · **Root:** ظهر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Zhr - manifest it]]
 - [[ZAhr - apparent]]
+- [[ZAhr - pronounce zihar]]
+- [[Zhr - apparent]]
 - [[Zhr - backs]]
 - [[Zhyr - assistants]]
 

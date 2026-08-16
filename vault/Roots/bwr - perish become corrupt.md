@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** perish become corrupt · **Root:** بور
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

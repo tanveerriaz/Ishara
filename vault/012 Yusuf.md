@@ -15,30 +15,30 @@ Joseph · 111 ayahs
 ## Words in this surah (graph)
 
 - [[>b - father]] — `أَب` · father
+- [[kyd - plot]] — `كَيْد` · plot
 - [[t>wyl - interpretation]] — `تَأْوِيل` · interpretation
 - [[kyl - measure]] — `كَيْل` · measure
+- [[mlk - king]] — `مَلِك` · king
 - [[Hdyv - statement]] — `حَدِيث` · statement
 - [[sbE - seven]] — `سَبْع` · seven
-- [[kyd - plot]] — `كَيْد` · plot
-- [[HAfZ - guardians]] — `حافِظ` · guardians
 - [[<xwp - brothers]] — `إِخْوَة` · brothers
-- [[>bwAn - parents]] — `أَبَوان` · parents
-- [[r'yA - vision]] — `رُءْيا` · vision
-- [[>jmE - all]] — `أَجْمَع` · all
+- [[HAfZ - guardians]] — `حافِظ` · guardians
 - [[xAT} - sinners]] — `خاطِئ` · sinners
-- [[dbr - backs]] — `دُبُر` · backs
 - [[bAb - gate]] — `باب` · gate
-- [[SAHb - companion]] — `صاحِب` · companion
-- [[yfty - explain me]] — `يُفْتِي` · explain me
-- [[Tyr - birds]] — `طَيْر` · birds
-- [[swl - have enticed]] — `سَوَّلَ` · have enticed
-- [[AwY - gave shelter]] — `آوَى` · gave shelter
-- [[sAjd - prostrating]] — `ساجِد` · prostrating
-- [[jAhl - ignorant]] — `جاهِل` · ignorant
+- [[>bwAn - parents]] — `أَبَوان` · parents
+- [[dbr - backs]] — `دُبُر` · backs
+- [[Hkm - judgment]] — `حُكْم` · judgment
+- [[Srf - averted]] — `صَرَفَ` · averted
+- [[*hb - go]] — `ذَهَبَ` · go
+- [[r'yA - vision]] — `رُءْيا` · vision
 - [[xmr - intoxicants]] — `خَمْر` · intoxicants
-- [[Amr>t - wife]] — `امْرَأَت` · wife
 - [[mSr - egypt]] — `مِصْر` · egypt
-- [[rAHm - merciful]] — `راحِم` · merciful
+- [[SAHb - companion]] — `صاحِب` · companion
+- [[Sbr - patience]] — `صَبْر` · patience
+- [[Amr>t - wife]] — `امْرَأَت` · wife
+- [[qSS - story]] — `قَصَص` · story
+- [[Astbq - so race]] — `اسْتَبَقَ` · so race
+- [[Erf - they recognize]] — `عَرَفَ` · they recognize
 
 ## Roots
 
@@ -54,8 +54,8 @@ Joseph · 111 ayahs
 - [[$ry - exchange]]
 - [[$y> - thing]]
 - [[$yx - old]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[>*n - by permission]]
 - [[>Hd - anyone]]
@@ -69,7 +69,7 @@ Joseph · 111 ayahs
 - [[>mr - command]]
 - [[>ns - people]]
 - [[>rD - earth]]
-- [[>sf - grieved]]
+- [[>sf - alas]]
 - [[>ty - give]]
 - [[>vr - footsteps]]
 - [[>wl - first]]

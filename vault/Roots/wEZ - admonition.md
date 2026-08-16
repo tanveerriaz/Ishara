@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** admonition · **Root:** وعظ
 
+
 ### Words (wikilinks — these create the graph)
 - [[mwEZp - admonition]]
 - [[wEZ - admonished]]

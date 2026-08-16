@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** rope · **Root:** حبل
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hbl - rope]]
 

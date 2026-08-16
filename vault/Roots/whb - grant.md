@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** grant · **Root:** وهب
 
+
 ### Words (wikilinks — these create the graph)
 - [[whb - grant]]
 

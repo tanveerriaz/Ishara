@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** reward · **Root:** ثوب
 
+
 ### Words (wikilinks — these create the graph)
 - [[>vAb - rewarded them]]
 - [[vwAb - reward]]

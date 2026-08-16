@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** complain show grief · **Root:** شكو
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

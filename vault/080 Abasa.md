@@ -15,37 +15,37 @@ He Frowned · 42 ayahs
 ## Words in this surah (graph)
 
 - [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
-- [[<nsAn - man]] — `إِنسان` · man
-- [[ysr - ease]] — `يُسْر` · ease
-- [[$>n - any situation]] — `شَأْن` · any situation
-- [[nZr - see]] — `نَظَرَ` · see
-- [[sEY - strive]] — `سَعَى` · strive
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[sbyl - way]] — `سَبِيل` · way
-- [[>nbt - grows]] — `أَنۢبَتَ` · grows
-- [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[wjh - faces]] — `وَجْه` · faces
-- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
-- [[>rD - earth]] — `أَرْض` · earth
-- [[mThrp - purified]] — `مُطَهَّرَة` · purified
-- [[qDY - surely]] — `قَضَى` · surely
-- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
 - [[krym - noble]] — `كَرِيم` · noble
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[TEAm - food]] — `طَعام` · food
-- [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
-- [[Hb - grain]] — `حُبّ` · grain
-- [[>drY - can make you]] — `أَدْرَى` · can make you
 - [[nxl - date-palms]] — `نَخْل` · date-palms
+- [[SAHbp - wife]] — `صاحِبَة` · wife
+- [[fjAr - wicked]] — `فُجّار` · wicked
+- [[nZr - see]] — `نَظَرَ` · see
+- [[>n$r - raise dead]] — `أَنشَرَ` · raise dead
 - [[>x - brother]] — `أَخ` · brother
-- [[>m - mother]] — `أُمّ` · mother
+- [[qdr - determined it]] — `قَدَّرَ` · determined it
+- [[frt - you flee]] — `فَرَّتْ` · you flee
+- [[Enb - grapes]] — `عِنَب` · grapes
+- [[>b - father]] — `أَب` · father
+- [[nEm - cattle]] — `نَعَم` · cattle
+- [[mThrp - purified]] — `مُطَهَّرَة` · purified
+- [[Sb - will poured]] — `صَبَّ` · will poured
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
+- [[$>n - any situation]] — `شَأْن` · any situation
+- [[wjh - faces]] — `وَجْه` · faces
+- [[HdA}q - gardens]] — `حَدائِق` · gardens
+- [[bnY - children]] — `بُنَىّ` · children
+- [[jA' - came them]] — `جاءَ` · came them
+- [[>EmY - blind]] — `أَعْمَى` · blind
+- [[br - land]] — `بَرّ` · land
+- [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
 
 ## Roots
 
 - [[$>n - any situation]]
 - [[$qq - opposes]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>bw - forefathers]]
 - [[>mm - nation]]
 - [[>mr - command]]

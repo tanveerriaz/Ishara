@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** wrath · **Root:** غضب
 
+
 ### Words (wikilinks — these create the graph)
 - [[gDb - wrath]]
+- [[gDb - wrath 2]]
 
 ### Surahs where this root appears
 `001, 002, 003, 004, 005, 007, 008, 016, 020, 021, 024, 042, 048, 058, 060` · open those surah notes from [[Surah Index]]

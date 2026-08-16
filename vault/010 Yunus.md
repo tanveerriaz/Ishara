@@ -15,30 +15,30 @@ Jonah · 109 ayahs
 ## Words in this surah (graph)
 
 - [[sAHr - magician]] — `ساحِر` · magician
-- [[mrjE - return]] — `مَرْجِع` · return
-- [[lqA' - meeting]] — `لِقاء` · meeting
 - [[njY - we saved]] — `نَجَّى` · we saved
+- [[lqA' - meeting]] — `لِقاء` · meeting
+- [[mrjE - return]] — `مَرْجِع` · return
+- [[wEd - promise]] — `وَعْد` · promise
 - [[>njY - we saved]] — `أَنجَى` · we saved
+- [[nfE - benefits]] — `نَفَعَ` · benefits
+- [[Zn - assumption]] — `ظَنّ` · assumption
 - [[yrjwA - expect]] — `يَرْجُوا۟` · expect
-- [[sHr - magic]] — `سِحْر` · magic
 - [[qr'An - quran]] — `قُرْءان` · quran
-- [[Dr - adversity]] — `ضَرّ` · adversity
-- [[*lp - humiliation]] — `ذِلَّة` · humiliation
-- [[lbv - you remained]] — `لَبِثَ` · you remained
-- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
-- [[bd> - originates]] — `بَدَأَ` · originates
+- [[sHr - magic]] — `سِحْر` · magic
+- [[>HAT - they encompass]] — `أَحاطَ` · they encompass
+- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
+- [[bHr - sea]] — `بَحْر` · sea
+- [[sAEp - hour]] — `ساعَة` · hour
 - [[xlyfp - successors]] — `خَلِيفَة` · successors
-- [[flk - ships]] — `فُلْك` · ships
-- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
-- [[yntZr - wait]] — `يَنتَظِرُ` · wait
-- [[EAqbp - end]] — `عاقِبَة` · end
-- [[Sdq - truth]] — `صَدَقَ` · truth
-- [[ydbr - disposing]] — `يُدَبِّرُ` · disposing
-- [[$k - doubt]] — `شَكّ` · doubt
-- [[mntZr - ones wait]] — `مُنتَظِر` · ones wait
-- [[qsT - justice]] — `قِسْط` · justice
-- [[k$f - we removed]] — `كَشَفَ` · we removed
+- [[lbv - you remained]] — `لَبِثَ` · you remained
 - [[msrf - transgressors]] — `مُسْرِف` · transgressors
+- [[$fyE - any intercessor]] — `شَفِيع` · any intercessor
+- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
+- [[*lp - humiliation]] — `ذِلَّة` · humiliation
+- [[frH - rejoice]] — `فَرِحَ` · rejoice
+- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
+- [[Zn - thought]] — `ظَنَّ` · thought
+- [[An - now]] — `آن` · now
 
 ## Roots
 
@@ -54,7 +54,7 @@ Jonah · 109 ayahs
 - [[$rk - polytheists]]
 - [[$rr - evil]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[*rr - offspring]]
 - [[*wq - taste]]

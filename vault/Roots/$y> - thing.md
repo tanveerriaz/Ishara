@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** thing · **Root:** شيأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[$A' - he wills]]
 - [[$Y' - thing]]

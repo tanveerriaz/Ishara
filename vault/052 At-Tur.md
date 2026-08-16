@@ -14,31 +14,31 @@ The Mount · 49 ayahs
 
 ## Words in this surah (graph)
 
+- [[trbS - so wait]] — `تَرَبَّصْ` · so wait
 - [[wqY - save us]] — `وَقَى` · save us
-- [[ryb - doubt]] — `رَيْب` · doubt
-- [[ylAq - they meet]] — `يُلاقُ` · they meet
-- [[swA' - it same]] — `سَواء` · it same
-- [[SEq - unconscious]] — `صَعِق` · unconscious
-- [[AtY - give]] — `آتَى` · give
-- [[wAqE - would fall]] — `واقِع` · would fall
-- [[glAm - boy]] — `غُلام` · boy
-- [[$AEr - poet]] — `شاعِر` · poet
-- [[ksf - fragments]] — `كِسَف` · fragments
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[lgw - vain talk]] — `لَغْو` · vain talk
-- [[kyd - plot]] — `كَيْد` · plot
-- [[sHAb - clouds]] — `سَحاب` · clouds
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[nEym - delight]] — `نَعِيم` · delight
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[sqf - roof]] — `سَقْف` · roof
+- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
+- [[xAlq - creator]] — `خالِق` · creator
+- [[dEA - call]] — `دَعا` · call
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[qAm - stand]] — `قامَ` · stand
 - [[lHm - flesh]] — `لَحْم` · flesh
-- [[allah - God]] — `الله` · God
-- [[>kvr - them]] — `أَكْثَر` · them
-- [[slm - peace]] — `سِلْم` · peace
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[*ryp - offspring]] — `ذُرِّيَّة` · offspring
-- [[fAkh - amusement]] — `فاكِه` · amusement
-- [[qbl - before]] — `قَبْل` · before
-- [[Hlm - dreams]] — `حُلُم` · dreams
+- [[lyl - night]] — `لَيْل` · night
+- [[mtk} - reclining]] — `مُتَّكِئ` · reclining
+- [[sHr - magic]] — `سِحْر` · magic
+- [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
 - [[>tY - comes them]] — `أَتَى` · comes them
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[k>s - cup]] — `كَأْس` · cup
+- [[mtrbS - waiting]] — `مُتَرَبِّص` · waiting
+- [[mtqy - righteous]] — `مُتَّقي` · righteous
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[Sbr - patient]] — `صَبَرَ` · patient
+- [[Elm - know]] — `عَلِمَ` · know
 
 ## Roots
 
@@ -48,7 +48,7 @@ The Mount · 49 ayahs
 - [[$rb - drink]]
 - [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*rr - offspring]]
 - [[>hl - people]]
 - [[>jr - reward]]
@@ -62,7 +62,7 @@ The Mount · 49 ayahs
 - [[E*b - punishment]]
 - [[Elm - knowledge]]
 - [[Eml - do]]
-- [[Emr - life]]
+- [[Emr - inhabit build maintain flourish]]
 - [[End - near]]
 - [[Eyn - eyes]]
 - [[Hdv - statement]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** offspring · **Root:** ذرر
 
+
 ### Words (wikilinks — these create the graph)
 - [[*rp - atom]]
 - [[*ryp - offspring]]

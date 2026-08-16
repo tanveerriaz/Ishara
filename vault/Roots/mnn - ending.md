@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** ending · **Root:** منن
 
+
 ### Words (wikilinks — these create the graph)
 - [[mmnwn - ending]]
+- [[mn - bestowed favor]]
 - [[mn - reminders generosity]]
 
 ### Surahs where this root appears

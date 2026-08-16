@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** humiliating · **Root:** هون
 
+
 ### Words (wikilinks — these create the graph)
 - [[hwn - humiliating]]
 - [[mhyn - humiliating]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** price · **Root:** ثمن
 
+
 ### Words (wikilinks — these create the graph)
 - [[vmAnyp - eight]]
 - [[vmn - price]]

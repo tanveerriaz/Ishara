@@ -11,11 +11,13 @@ tags: [root, meaning]
 
 **Sense:** enemy · **Root:** عدو
 
+
 ### Words (wikilinks — these create the graph)
 - [[AEtdY - transgressed]]
 - [[EAd - transgressor]]
 - [[EdAwp - enmity]]
 - [[Edw - enemy]]
+- [[Edw - enmity]]
 - [[EdwAn - transgression]]
 - [[mEtd - transgressor]]
 - [[mEtdy - transgressors]]

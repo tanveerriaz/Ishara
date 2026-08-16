@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** go down · **Root:** هبط
 
+
 ### Words (wikilinks — these create the graph)
 - [[yhbT - go down]]
 

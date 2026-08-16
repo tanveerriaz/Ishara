@@ -15,30 +15,30 @@ The Night Journey · 111 ayahs
 ## Words in this surah (graph)
 
 - [[qr> - read]] — `قَرَأَ` · read
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
 - [[kAd - almost]] — `كادَ` · almost
-- [[zEm - claim]] — `زَعَمَ` · claim
-- [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
-- [[lbv - you remained]] — `لَبِثَ` · you remained
-- [[m$ - walk]] — `مَشَ` · walk
-- [[mnE - prevented you]] — `مَنَعَ` · prevented you
-- [[xlAl - midst]] — `خِلال` · midst
-- [[kbr - old age]] — `كَبِّرْ` · old age
-- [[>bY - he refused]] — `أَبَى` · he refused
-- [[mlwm - blameworthy]] — `مَلُوم` · blameworthy
-- [[mE*b - will punished]] — `مُعَذِّب` · will punished
-- [[yrjwA - expect]] — `يَرْجُوا۟` · expect
-- [[>grq - we drowned]] — `أُغْرِقُ` · we drowned
-- [[>EmY - blind]] — `أَعْمَى` · blind
-- [[EZAm - bones]] — `عِظام` · bones
-- [[Elw - haughtiness]] — `عُلُوّ` · haughtiness
-- [[msHwr - bewitched]] — `مَسْحُور` · bewitched
-- [[x$yp - fear]] — `خَشْيَة` · fear
-- [[nfwr - aversion]] — `نُفُور` · aversion
+- [[br - land]] — `بَرّ` · land
 - [[Enq - necks]] — `عُنُق` · necks
+- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
+- [[Elw - haughtiness]] — `عُلُوّ` · haughtiness
+- [[x$yp - fear]] — `خَشْيَة` · fear
 - [[$r - evil]] — `شَرّ` · evil
+- [[>EmY - blind]] — `أَعْمَى` · blind
+- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[bsT - extends]] — `بَسَطَ` · extends
+- [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
+- [[mnE - prevented you]] — `مَنَعَ` · prevented you
+- [[jdyd - new]] — `جَدِيد` · new
 - [[jAnb - side]] — `جانِب` · side
-- [[xr - fell down]] — `خَرَّ` · fell down
+- [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
+- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
+- [[mE*b - punish them]] — `مُعَذِّب` · punish them
+- [[nfwr - aversion]] — `نُفُور` · aversion
+- [[kfwr - disbelief]] — `كُفُور` · disbelief
+- [[msHwr - bewitched]] — `مَسْحُور` · bewitched
+- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
+- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
+- [[Srf - we explain]] — `صَرَّفْ` · we explain
+- [[>grq - we drowned]] — `أُغْرِقُ` · we drowned
 
 ## Roots
 
@@ -52,8 +52,8 @@ The Night Journey · 111 ayahs
 - [[$rk - polytheists]]
 - [[$rr - evil]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[*mm - disgraced]]
 - [[*nb - sin]]

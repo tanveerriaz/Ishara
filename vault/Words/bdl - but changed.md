@@ -2,8 +2,8 @@
 type: word
 lemma: "بَدَّلَ"
 slug: "bdl - but changed"
-surah_count: 18
-ayah_count: 22
+surah_count: 17
+ayah_count: 21
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **but changed** · Lemma **بَدَّلَ**
 
-### Surahs (18)
+### Surahs (17)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
 - [[007 Al-Araf]]
 - [[010 Yunus]]
 - [[014 Ibrahim]]
 - [[016 An-Nahl]]
-- [[018 Al-Kahf]]
 - [[024 An-Nur]]
 - [[025 Al-Furqan]]
 - [[027 An-Naml]]
@@ -223,5 +222,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/16/101)
 
-_…and **12** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **11** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

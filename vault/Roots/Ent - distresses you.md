@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** distresses you · **Root:** عنت
 
+
 ### Words (wikilinks — these create the graph)
 - [[En - distresses you]]
 

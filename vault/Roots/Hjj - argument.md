@@ -11,9 +11,10 @@ tags: [root, meaning]
 
 **Sense:** argument · **Root:** حجج
 
+
 ### Words (wikilinks — these create the graph)
 - [[HAj - argued]]
-- [[Hj - pilgrimage]]
+- [[Hj - by hajj]]
 - [[Hjp - argument]]
 
 ### Surahs where this root appears

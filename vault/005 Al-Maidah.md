@@ -15,30 +15,30 @@ The Table Spread · 120 ayahs
 ## Words in this surah (graph)
 
 - [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
-- [[nb> - news]] — `نَبَّأَ` · news
 - [[>SbH - they became]] — `أَصْبَحَ` · they became
 - [[jzA' - recompense]] — `جَزاء` · recompense
-- [[nwr - light]] — `نُور` · light
+- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
 - [[EdAwp - enmity]] — `عَداوَة` · enmity
 - [[E*b - punishes]] — `عَذَّبَ` · punishes
 - [[yhwd - jews]] — `يَهُود` · jews
-- [[mlkt - possess]] — `مَلَكَتْ` · possess
-- [[xAsr - losers]] — `خاسِر` · losers
-- [[rjl - man]] — `رَجُل` · man
 - [[TEAm - food]] — `طَعام` · food
+- [[xAsr - losers]] — `خاسِر` · losers
+- [[mlkt - possess]] — `مَلَكَتْ` · possess
+- [[nb> - inform them]] — `نَبَّأَ` · inform them
 - [[Hrm - made unlawful]] — `حَرَّمَ` · made unlawful
-- [[>flH - successful]] — `أَفْلَحَ` · successful
-- [[bgDA' - hatred]] — `بَغْضاء` · hatred
-- [[dAm - as long as]] — `دامُ` · as long as
-- [[ysArE - hasten]] — `يُسارِعُ` · hasten
+- [[nwr - light]] — `نُور` · light
+- [[mHsn - good-doers]] — `مُحْسِن` · good-doers
 - [[>qsm - i swear]] — `أَقْسَمُ` · i swear
-- [[hdy - sacrificial animal]] — `هَدْي` · sacrificial animal
-- [[msyH - messiah]] — `مَسِيح` · messiah
-- [[Dl - lost]] — `ضَلَّ` · lost
-- [[swA' - it same]] — `سَواء` · it same
+- [[bgDA' - hatred]] — `بَغْضاء` · hatred
+- [[>flH - successful]] — `أَفْلَحَ` · successful
+- [[fsAd - corruption]] — `فَساد` · corruption
 - [[>m - mother]] — `أُمّ` · mother
-- [[yH*r - warns you]] — `يَحْذَرُ` · warns you
+- [[Tyb - good]] — `طَيِّب` · good
+- [[Tybp - good things]] — `طَيِّبَة` · good things
+- [[rjl - feet]] — `رِجْل` · feet
+- [[msyH - messiah]] — `مَسِيح` · messiah
+- [[Eml - deeds]] — `عَمَل` · deeds
+- [[xrj - come forth]] — `خَرَجَ` · come forth
 
 ## Roots
 
@@ -54,8 +54,8 @@ The Table Spread · 120 ayahs
 - [[$ry - exchange]]
 - [[$y> - thing]]
 - [[*bH - slaughtering]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[*nb - sin]]
 - [[*wq - taste]]

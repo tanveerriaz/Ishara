@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** reach · **Root:** نيل
 
+
 ### Words (wikilinks — these create the graph)
 - [[ynAl - reach]]
 

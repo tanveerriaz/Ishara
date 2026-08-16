@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they slacken · **Root:** فتر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

@@ -15,30 +15,30 @@ The Poets · 227 ayahs
 ## Words in this surah (graph)
 
 - [[>myn - trustworthy]] — `أَمِين` · trustworthy
-- [[gAlb - victorious]] — `غالِب` · victorious
 - [[gAwy - deviators]] — `غاوي` · deviators
 - [[ESA - staff]] — `عَصا` · staff
-- [[mn*r - warners]] — `مُنذِر` · warners
 - [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
-- [[yTmE - hope]] — `يَطْمَعُ` · hope
-- [[DAl - astray]] — `ضالّ` · astray
-- [[m$rq - east]] — `مَشْرِق` · east
-- [[xTy}p - sins]] — `خَطِيئَة` · sins
-- [[mE*b - will punished]] — `مُعَذِّب` · will punished
-- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
-- [[mnqlb - will return]] — `مُنقَلِب` · will return
-- [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
-- [[>zlft - brought near]] — `أُزْلِفَتْ` · brought near
+- [[gAlb - victorious]] — `غالِب` · victorious
 - [[mElwm - known]] — `مَعْلُوم` · known
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[*nb - sins]] — `ذَنب` · sins
-- [[>TAE - obey]] — `أَطاعَ` · obey
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[AnthY - you desist]] — `انتَهَى` · you desist
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[Elm - know]] — `عَلِمَ` · know
-- [[gfr - forgive]] — `غَفَرَ` · forgive
-- [[>TEm - feed]] — `أَطْعَمَ` · feed
+- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
+- [[>zlft - brought near]] — `أُزْلِفَتْ` · brought near
+- [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
+- [[mn*r - warners]] — `مُنذِر` · warners
+- [[Zl - turns]] — `ظَلَّ` · turns
+- [[xTy}p - sins]] — `خَطِيئَة` · sins
+- [[DAl - astray]] — `ضالّ` · astray
+- [[yTmE - hope]] — `يَطْمَعُ` · hope
+- [[mE*b - will punished]] — `مُعَذَّب` · will punished
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[Enq - necks]] — `عُنُق` · necks
+- [[mErD - turn away]] — `مُعْرِض` · turn away
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[nAqp - she-camel]] — `ناقَة` · she-camel
+- [[dEA - call]] — `دَعا` · call
+- [[AxfD - lower]] — `اخْفِضْ` · lower
+- [[byn - between them]] — `بَيْن` · between them
+- [[mn*r - were warned]] — `مُنذَر` · were warned
+- [[myqAt - appointment]] — `مِيقات` · appointment
 
 ## Roots
 
@@ -50,8 +50,8 @@ The Poets · 227 ayahs
 - [[$rb - drink]]
 - [[$rq - east]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[>*n - by permission]]
 - [[>bw - forefathers]]
@@ -88,7 +88,7 @@ The Poets · 227 ayahs
 - [[Ekf - devoted]]
 - [[Elm - knowledge]]
 - [[Eml - do]]
-- [[Emr - life]]
+- [[Emr - inhabit build maintain flourish]]
 - [[Enq - necks]]
 - [[Eql - use reason]]
 - [[Eqr - hamstrung]]

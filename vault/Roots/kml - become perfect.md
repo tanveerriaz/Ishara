@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** become perfect · **Root:** كمل
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

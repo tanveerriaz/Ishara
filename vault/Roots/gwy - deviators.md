@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** deviators · **Root:** غوي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>gwy - you have sent]]
 - [[gAwy - deviators]]

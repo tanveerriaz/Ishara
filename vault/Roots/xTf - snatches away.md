@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** snatches away · **Root:** خطف
 
+
 ### Words (wikilinks — these create the graph)
 - [[xTf - snatches away]]
 - [[ytxTf - might do away]]

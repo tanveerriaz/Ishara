@@ -11,10 +11,12 @@ tags: [root, meaning]
 
 **Sense:** all-encompassing · **Root:** وسع
 
+
 ### Words (wikilinks — these create the graph)
 - [[sEp - abundance]]
 - [[wAsE - all-encompassing]]
 - [[wAsEp - spacious]]
+- [[wsE - encompasses]]
 - [[wsE - its capacity]]
 
 ### Surahs where this root appears

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** sighing · **Root:** زفر
 
+
 ### Words (wikilinks — these create the graph)
 - [[zfyr - sighing]]
 

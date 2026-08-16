@@ -14,31 +14,31 @@ Those who set the Ranks · 182 ayahs
 
 ## Words in this surah (graph)
 
+- [[mxlS - chosen ones]] — `مُخْلَص` · chosen ones
 - [[jHym - hellfire]] — `جَحِيم` · hellfire
 - [[mHDr - will brought]] — `مُحْضَر` · will brought
 - [[>qbl - will approach]] — `أَقْبَلَ` · will approach
-- [[*bH - you slaughter]] — `ذُبِحَ` · you slaughter
-- [[ystft - inquire]] — `يَسْتَفْتُ` · inquire
-- [[krb - distress]] — `كَرْب` · distress
-- [[<fk - lie]] — `إِفْك` · lie
-- [[bnt - daughters]] — `بِنْت` · daughters
+- [[mn*r - were warned]] — `مُنذَر` · were warned
 - [[mElwm - known]] — `مَعْلُوم` · known
 - [[ytsA'l - you ask]] — `يَتَساءَلُ` · you ask
-- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
+- [[<fk - lie]] — `إِفْك` · lie
+- [[Sdq - found true]] — `صَدَّقَ` · found true
 - [[EZAm - bones]] — `عِظام` · bones
-- [[TlE - discover]] — `طَلَعَ` · discover
-- [[r'yA - vision]] — `رُءْيا` · vision
-- [[bEl - husbands]] — `بَعْل` · husbands
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[mA}p - hundred]] — `مِائَة` · hundred
-- [[swA' - it same]] — `سَواء` · it same
-- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
-- [[slAm - peace]] — `سَلام` · peace
-- [[AtY - give]] — `آتَى` · give
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[mEyn - water springs]] — `مَعِين` · water springs
-- [[$AEr - poet]] — `شاعِر` · poet
+- [[krb - distress]] — `كَرْب` · distress
+- [[ystft - inquire]] — `يَسْتَفْتُ` · inquire
+- [[bnt - daughters]] — `بِنْت` · daughters
+- [[Drb - move about]] — `ضَرْب` · move about
+- [[mHsn - good-doers]] — `مُحْسِن` · good-doers
+- [[xAlq - creator]] — `خالِق` · creator
+- [[dEA - call]] — `دَعا` · call
+- [[dAxr - humble]] — `داخِر` · humble
+- [[$Ahd - witnesses]] — `شاهِد` · witnesses
+- [[byn - between them]] — `بَيْن` · between them
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>lf - thousand]] — `أَلْف` · thousand
+- [[Ejb - you wonder]] — `عَجِبُ` · you wonder
+- [[TlE - its spathe]] — `طَلْع` · its spathe
 
 ## Roots
 
@@ -55,8 +55,8 @@ Those who set the Ranks · 182 ayahs
 - [[$y> - thing]]
 - [[$yE - sects]]
 - [[*bH - slaughtering]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*rr - offspring]]
 - [[*wq - taste]]
 - [[>Sl - evening]]

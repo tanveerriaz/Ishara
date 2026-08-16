@@ -2,8 +2,8 @@
 type: word
 lemma: "سَلَفَ"
 slug: "slf - has passed"
-surah_count: 5
-ayah_count: 6
+surah_count: 4
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -19,12 +19,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **has passed** · Lemma **سَلَفَ**
 
-### Surahs (5)
+### Surahs (4)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
 - [[008 Al-Anfal]]
-- [[043 Az-Zukhruf]]
 
 ## Verses (full text)
 
@@ -119,22 +118,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) کفار سے کہہ دو کہ اگر وہ اپنے افعال سے باز آجائیں تو جو ہوچکا وہ انہیں معاف کردیا جائے گا۔ اور اگر پھر (وہی حرکات) کرنے لگیں گے تو اگلے لوگوں کا (جو) طریق جاری ہوچکا ہے (وہی ان کے حق میں برتا جائے گا)
 
 [Open on Quran.com](https://quran.com/8/38)
-
-#### 43:56 · [[043 Az-Zukhruf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَجَعَلْنَـٰهُمْ سَلَفًا وَمَثَلًا لِّلْـَٔاخِرِينَ
-
-</div>
-
-**Word in this verse:** `سَلَفًۭا` — a precedent
-
-**English (Sahih International):** And We made them a precedent and an example for the later peoples.
-
-**English (Yusuf Ali):** And We made them (a people) of the Past and an Example to later ages.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کو گئے گزرے کردیا اور پچھلوں کے لئے عبرت بنا دیا
-
-[Open on Quran.com](https://quran.com/43/56)
 

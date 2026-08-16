@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** ease swallowing · **Root:** سوغ
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

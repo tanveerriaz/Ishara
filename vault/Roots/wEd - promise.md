@@ -11,11 +11,13 @@ tags: [root, meaning]
 
 **Sense:** promise · **Root:** وعد
 
+
 ### Words (wikilinks — these create the graph)
 - [[mwEd - appointment]]
 - [[myEAd - promise]]
 - [[wAEd - we appointed]]
 - [[wEd - promise]]
+- [[wEd - promised]]
 - [[wEyd - my threat]]
 
 ### Surahs where this root appears

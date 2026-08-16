@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** pierce make hole · **Root:** نقب
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

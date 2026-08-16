@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** rocks large · **Root:** صخر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

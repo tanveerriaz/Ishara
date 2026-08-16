@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** strength · **Root:** قوي
 
+
 ### Words (wikilinks — these create the graph)
 - [[qwp - strength]]
 - [[qwy - all-strong]]

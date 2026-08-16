@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** seven · **Root:** سبع
 
+
 ### Words (wikilinks — these create the graph)
 - [[sbE - seven]]
 - [[sbEp - seven]]

@@ -11,10 +11,12 @@ tags: [root, meaning]
 
 **Sense:** love · **Root:** حبب
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Hbb - love]]
 - [[AstHb - they prefer]]
 - [[Hb - grain]]
+- [[Hb - love]]
 - [[Hbp - grain]]
 
 ### Surahs where this root appears

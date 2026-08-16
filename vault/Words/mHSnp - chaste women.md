@@ -2,8 +2,8 @@
 type: word
 lemma: "مُحْصَنَة"
 slug: "mHSnp - chaste women"
-surah_count: 4
-ayah_count: 6
+surah_count: 3
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -19,11 +19,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **chaste women** · Lemma **مُحْصَنَة**
 
-### Surahs (4)
+### Surahs (3)
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
 - [[024 An-Nur]]
-- [[059 Al-Hashr]]
 
 ## Verses (full text)
 
@@ -118,22 +117,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جو لوگ پرہیزگار اور برے کاموں سے بےخبر اور ایمان دار عورتوں پر بدکاری کی تہمت لگاتے ہیں ان پر دنیا وآخرت (دونوں) میں لعنت ہے۔ اور ان کو سخت عذاب ہوگا
 
 [Open on Quran.com](https://quran.com/24/23)
-
-#### 59:14 · [[059 Al-Hashr]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-لَا يُقَـٰتِلُونَكُمْ جَمِيعًا إِلَّا فِى قُرًى مُّحَصَّنَةٍ أَوْ مِن وَرَآءِ جُدُرٍۭ ۚ بَأْسُهُم بَيْنَهُمْ شَدِيدٌ ۚ تَحْسَبُهُمْ جَمِيعًا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْقِلُونَ
-
-</div>
-
-**Word in this verse:** `مُّحَصَّنَةٍ` — fortified
-
-**English (Sahih International):** They will not fight you all except within fortified cities or from behind walls. Their violence [i.e., enmity] among themselves is severe. You think they are together, but their hearts are diverse. That is because they are a people who do not reason.
-
-**English (Yusuf Ali):** They will not fight you (even) together, except in fortified townships, or from behind walls. Strong is their fighting (spirit) amongst themselves: thou wouldst think they were united, but their hearts are divided: that is because they are a people devoid of wisdom.
-
-**Urdu (Fatah Muhammad Jalandhari):** یہ سب جمع ہو کر بھی تم سے (بالمواجہہ) نہیں لڑ سکیں گے مگر بستیوں کے قلعوں میں (پناہ لے کر) یا دیواروں کی اوٹ میں (مستور ہو کر) ان کا آپس میں بڑا رعب ہے۔ تم شاید خیال کرتے ہو کہ یہ اکھٹے (اور ایک جان) ہیں مگر ان کے دل پھٹے ہوئے ہیں یہ اس لئے کہ یہ بےعقل لوگ ہیں
-
-[Open on Quran.com](https://quran.com/59/14)
 

@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "قَدَّمَ"
+lemma: "قَدَم"
 slug: "qdm - feet"
-surah_count: 30
-ayah_count: 37
+surah_count: 8
+ayah_count: 8
 tags: [word, meaning]
 ---
 
@@ -17,92 +17,21 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[qdm - feet]]
 
 ### Meaning
-**feet** · Lemma **قَدَّمَ**
+**feet** · Lemma **قَدَم**
 
-### Surahs (30)
+### Surahs (8)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
-- [[004 An-Nisa]]
-- [[005 Al-Maidah]]
 - [[008 Al-Anfal]]
 - [[010 Yunus]]
-- [[011 Hud]]
-- [[012 Yusuf]]
 - [[016 An-Nahl]]
-- [[018 Al-Kahf]]
-- [[022 Al-Hajj]]
-- [[025 Al-Furqan]]
-- [[028 Al-Qasas]]
-- [[030 Ar-Rum]]
-- [[036 Ya-Sin]]
-- [[038 Sad]]
 - [[041 Fussilat]]
-- [[042 Ash-Shuraa]]
 - [[047 Muhammad]]
-- [[049 Al-Hujurat]]
-- [[050 Qaf]]
 - [[055 Ar-Rahman]]
-- [[058 Al-Mujadila]]
-- [[059 Al-Hashr]]
-- [[062 Al-Jumuah]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:95 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَن يَتَمَنَّوْهُ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ
-
-</div>
-
-**Word in this verse:** `قَدَّمَتْ` — (of what) sent ahead
-
-**English (Sahih International):** But never will they wish for it, ever, because of what their hands have put forth. And Allāh is Knowing of the wrongdoers.
-
-**English (Yusuf Ali):** But they will never seek for death, on account of the (sins) which their hands have sent on before them. and Allah is well-acquainted with the wrong-doers.
-
-**Urdu (Fatah Muhammad Jalandhari):** لیکن ان اعمال کی وجہ سے، جو ان کے ہاتھ آگے بھیج چکے ہیں، یہ کبھی اس کی آرزو نہیں کریں گے، اور خدا ظالموں سے (خوب) واقف ہے
-
-[Open on Quran.com](https://quran.com/2/95)
-
-#### 2:110 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ
-
-</div>
-
-**Word in this verse:** `تُقَدِّمُوا۟` — you send forth
-
-**English (Sahih International):** And establish prayer and give zakāh, and whatever good you put forward for yourselves - you will find it with Allāh. Indeed Allāh, of what you do, is Seeing.
-
-**English (Yusuf Ali):** And be steadfast in prayer and regular in charity: And whatever good ye send forth for your souls before you, ye shall find it with Allah: for Allah sees Well all that ye do.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور نماز ادا کرتے رہو اور زکوٰة دیتے رہو۔ اور جو بھلائی اپنے لیے آگے بھیج رکھو گے، اس کو خدا کے ہاں پا لو گے۔ کچھ شک نہیں کہ خدا تمہارے سب کاموں کو دیکھ رہا ہے
-
-[Open on Quran.com](https://quran.com/2/110)
-
-#### 2:223 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-نِسَآؤُكُمْ حَرْثٌ لَّكُمْ فَأْتُوا۟ حَرْثَكُمْ أَنَّىٰ شِئْتُمْ ۖ وَقَدِّمُوا۟ لِأَنفُسِكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّكُم مُّلَـٰقُوهُ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
-
-</div>
-
-**Word in this verse:** `وَقَدِّمُوا۟` — and send forth (good deeds)
-
-**English (Sahih International):** Your wives are a place of cultivation [i.e., sowing of seed] for you, so come to your place of cultivation however you wish and put forth [righteousness] for yourselves. And fear Allāh and know that you will meet Him. And give good tidings to the believers.
-
-**English (Yusuf Ali):** Your wives are as a tilth unto you; so approach your tilth when or how ye will; but do some good act for your souls beforehand; and fear Allah. And know that ye are to meet Him (in the Hereafter), and give (these) good tidings to those who believe.
-
-**Urdu (Fatah Muhammad Jalandhari):** تمہاری عورتیں تمہارای کھیتی ہیں تو اپنی کھیتی میں جس طرح چاہو جاؤ۔ اور اپنے لئے (نیک عمل) آگے بھیجو۔ اور خدا سے ڈرتے رہو اور جان رکھو کہ (ایک دن) تمہیں اس کے روبرو حاضر ہونا ہے اور (اے پیغمبر) ایمان والوں کو بشارت سنا دو
-
-[Open on Quran.com](https://quran.com/2/223)
 
 #### 2:250 · [[002 Al-Baqarah]]
 
@@ -140,60 +69,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/147)
 
-#### 3:182 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّامٍ لِّلْعَبِيدِ
-
-</div>
-
-**Word in this verse:** `قَدَّمَتْ` — (of what) sent forth
-
-**English (Sahih International):** That is for what your hands have put forth and because Allāh is not ever unjust to [His] servants."
-
-**English (Yusuf Ali):** "This is because of the (unrighteous deeds) which your hands sent on before ye: For Allah never harms those who serve Him."
-
-**Urdu (Fatah Muhammad Jalandhari):** یہ ان کاموں کی سزا ہے جو تمہارے ہاتھ آگے بھیجتے رہے ہیں اور خدا تو بندوں پر مطلق ظلم نہیں کرتا
-
-[Open on Quran.com](https://quran.com/3/182)
-
-#### 4:62 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَكَيْفَ إِذَآ أَصَـٰبَتْهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَآءُوكَ يَحْلِفُونَ بِٱللَّهِ إِنْ أَرَدْنَآ إِلَّآ إِحْسَـٰنًا وَتَوْفِيقًا
-
-</div>
-
-**Word in this verse:** `قَدَّمَتْ` — sent forth
-
-**English (Sahih International):** So how [will it be] when disaster strikes them because of what their hands have put forth and then they come to you swearing by Allāh, "We intended nothing but good conduct and accommodation."
-
-**English (Yusuf Ali):** How then, when they are seized by misfortune, because of the deeds which they hands have sent forth? Then their come to thee, swearing by Allah: "We meant no more than good-will and conciliation!"
-
-**Urdu (Fatah Muhammad Jalandhari):** تو کیسی (ندامت کی) بات ہے کہ جب ان کے اعمال (کی شامت سے) ان پر کوئی مصیبت واقع ہوتی ہے تو تمہارے پاس بھاگے آتے ہیں اور قسمیں کھاتے ہیں کہ والله ہمارا مقصود تو بھلائی اور موافقت تھا
-
-[Open on Quran.com](https://quran.com/4/62)
-
-#### 5:80 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-تَرَىٰ كَثِيرًا مِّنْهُمْ يَتَوَلَّوْنَ ٱلَّذِينَ كَفَرُوا۟ ۚ لَبِئْسَ مَا قَدَّمَتْ لَهُمْ أَنفُسُهُمْ أَن سَخِطَ ٱللَّهُ عَلَيْهِمْ وَفِى ٱلْعَذَابِ هُمْ خَـٰلِدُونَ
-
-</div>
-
-**Word in this verse:** `قَدَّمَتْ` — sent forth
-
-**English (Sahih International):** You see many of them becoming allies of those who disbelieved [i.e., the polytheists]. How wretched is that which they have put forth for themselves in that Allāh has become angry with them, and in the punishment they will abide eternally.
-
-**English (Yusuf Ali):** Thou seest many of them turning in friendship to the Unbelievers. Evil indeed are (the works) which their souls have sent forward before them (with the result), that Allah's wrath is on them, and in torment will they abide.
-
-**Urdu (Fatah Muhammad Jalandhari):** تم ان میں سے بہتوں کو دیکھو گے کہ کافروں سے دوستی رکھتے ہیں انہوں نے جو کچھ اپنے واسطے آگے بھیجا ہے برا ہے (وہ یہ) کہ خدا ان سے ناخوش ہوا اور وہ ہمیشہ عذاب میں (مبتلا) رہیں گے
-
-[Open on Quran.com](https://quran.com/5/80)
-
 #### 8:11 · [[008 Al-Anfal]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -212,23 +87,93 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/8/11)
 
-#### 8:51 · [[008 Al-Anfal]]
+#### 10:2 · [[010 Yunus]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّـٰمٍ لِّلْعَبِيدِ
+أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَآ إِلَىٰ رَجُلٍ مِّنْهُمْ أَنْ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓا۟ أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِندَ رَبِّهِمْ ۗ قَالَ ٱلْكَـٰفِرُونَ إِنَّ هَـٰذَا لَسَـٰحِرٌ مُّبِينٌ
 
 </div>
 
-**Word in this verse:** `قَدَّمَتْ` — sent forth
+**Word in this verse:** `قَدَمَ` — (will be) a respectable position
 
-**English (Sahih International):** That is for what your hands have put forth [of evil] and because Allāh is not ever unjust to [His] servants."
+**English (Sahih International):** Have the people been amazed that We revealed [revelation] to a man from among them, [saying], "Warn mankind and give good tidings to those who believe that they will have a [firm] precedence of honor with their Lord"? [But] the disbelievers say, "Indeed, this is an obvious magician."
 
-**English (Yusuf Ali):** "Because of (the deeds) which your (own) hands sent forth; for Allah is never unjust to His servants:
+**English (Yusuf Ali):** Is it a matter of wonderment to men that We have sent Our inspiration to a man from among themselves?- that he should warn mankind (of their danger), and give the good news to the Believers that they have before their Lord the lofty rank of truth. (But) say the Unbelievers: "This is indeed an evident sorcerer!"
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ ان (اعمال) کی سزا ہے جو تمہارے ہاتھوں نے آگے بھیجے ہیں۔ اور یہ (جان رکھو) کہ خدا بندوں پر ظلم نہیں کرتا
+**Urdu (Fatah Muhammad Jalandhari):** کیا لوگوں کو تعجب ہوا کہ ہم نے ان ہی میں سے ایک مرد کو حکم بھیجا کہ لوگوں کو ڈر سنا دو۔ اور ایمان لانے والوں کو خوشخبری دے دو کہ ان کے پروردگار کے ہاں ان کا سچا درجہ ہے۔ (ایسے شخص کی نسبت) کافر کہتے ہیں کہ یہ صریح جادوگر ہے
 
-[Open on Quran.com](https://quran.com/8/51)
+[Open on Quran.com](https://quran.com/10/2)
 
-_…and **27** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 16:94 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَتَّخِذُوٓا۟ أَيْمَـٰنَكُمْ دَخَلًۢا بَيْنَكُمْ فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا وَتَذُوقُوا۟ ٱلسُّوٓءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ ٱللَّهِ ۖ وَلَكُمْ عَذَابٌ عَظِيمٌ
+
+</div>
+
+**Word in this verse:** `قَدَمٌۢ` — a foot
+
+**English (Sahih International):** And do not take your oaths as [means of] deceit between you, lest a foot slip after it was [once] firm, and you would taste evil [in this world] for what [people] you diverted from the way of Allāh, and you would have [in the Hereafter] a great punishment.
+
+**English (Yusuf Ali):** And take not your oaths, to practise deception between yourselves, with the result that someone's foot may slip after it was firmly planted, and ye may have to taste the evil (consequences) of having hindered (men) from the Path of Allah, and a Mighty Wrath descend on you.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنی قسموں کو آپس میں اس بات کا ذریعہ نہ بناؤ کہ (لوگوں کے) قدم جم چکنے کے بعد لڑ کھڑا جائیں اور اس وجہ سے کہ تم نے لوگوں کو خدا کے رستے سے روکا تم کو عقوبت کا مزہ چکھنا پڑے۔ اور بڑا سخت عذاب ملے
+
+[Open on Quran.com](https://quran.com/16/94)
+
+#### 41:29 · [[041 Fussilat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ ٱلَّذِينَ كَفَرُوا۟ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلَّانَا مِنَ ٱلْجِنِّ وَٱلْإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ ٱلْأَسْفَلِينَ
+
+</div>
+
+**Word in this verse:** `أَقْدَامِنَا` — our feet
+
+**English (Sahih International):** And those who disbelieved will [then] say, "Our Lord, show us those who misled us of the jinn and men [so] we may put them under our feet that they will be among the lowest."
+
+**English (Yusuf Ali):** And the Unbelievers will say: "Our Lord! Show us those, among Jinns and men, who misled us: We shall crush them beneath our feet, so that they become the vilest (before all)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کافر کہیں گے کہ اے ہمارے پروردگار جنوں اور انسانوں میں سے جن لوگوں نے ہم کو گمراہ کیا تھا ان کو ہمیں دکھا کہ ہم ان کو اپنے پاؤں کے تلے (روند) ڈالیں تاکہ وہ نہایت ذلیل ہوں
+
+[Open on Quran.com](https://quran.com/41/29)
+
+#### 47:7 · [[047 Muhammad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ
+
+</div>
+
+**Word in this verse:** `أَقْدَامَكُمْ` — your feet
+
+**English (Sahih International):** O you who have believed, if you support Allāh, He will support you and plant firmly your feet.
+
+**English (Yusuf Ali):** O ye who believe! If ye will aid (the cause of) Allah, He will aid you, and plant your feet firmly.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان! اگر تم خدا کی مدد کرو گے تو وہ بھی تمہاری مدد کرے گا اور تم کو ثابت قدم رکھے گا
+
+[Open on Quran.com](https://quran.com/47/7)
+
+#### 55:41 · [[055 Ar-Rahman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ
+
+</div>
+
+**Word in this verse:** `وَٱلْأَقْدَامِ` — and the feet
+
+**English (Sahih International):** The criminals will be known by their marks, and they will be seized by the forelocks and the feet.
+
+**English (Yusuf Ali):** (For) the sinners will be known by their marks: and they will be seized by their forelocks and their feet.
+
+**Urdu (Fatah Muhammad Jalandhari):** گنہگار اپنے چہرے ہی سے پہچان لئے جائیں گے تو پیشانی کے بالوں اور پاؤں سے پکڑ لئے جائیں گے
+
+[Open on Quran.com](https://quran.com/55/41)
 

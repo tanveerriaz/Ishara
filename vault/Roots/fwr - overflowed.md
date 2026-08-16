@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** overflowed · **Root:** فور
 
+
 ### Words (wikilinks — these create the graph)
 - [[fAr - overflowed]]
 

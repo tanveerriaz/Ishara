@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** authority · **Root:** سلط
 
+
 ### Words (wikilinks — these create the graph)
 - [[slTAn - authority]]
 

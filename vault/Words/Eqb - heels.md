@@ -2,8 +2,8 @@
 type: word
 lemma: "عَقِب"
 slug: "Eqb - heels"
-surah_count: 7
-ayah_count: 8
+surah_count: 6
+ayah_count: 7
 tags: [word, meaning]
 ---
 
@@ -19,12 +19,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **heels** · Lemma **عَقِب**
 
-### Surahs (7)
+### Surahs (6)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[006 Al-Anam]]
 - [[008 Al-Anfal]]
-- [[018 Al-Kahf]]
 - [[023 Al-Muminun]]
 - [[043 Az-Zukhruf]]
 
@@ -121,24 +120,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور جب شیطانوں نے ان کے اعمال ان کو آراستہ کر کے دکھائے اور کہا کہ آج کے دن لوگوں میں کوئی تم پر غالب نہ ہوگا اور میں تمہارا رفیق ہوں (لیکن) جب دونوں فوجیں ایک دوسرے کے مقابل صف آراء ہوئیں تو پسپا ہو کر چل دیا اور کہنے لگا کہ مجھے تم سے کوئی واسطہ نہیں۔ میں تو ایسی چیزیں دیکھ رہا ہوں جو تم نہیں دیکھ سکتے۔ مجھے تو خدا سے ڈر لگتا ہے۔ اور خدا سخت عذاب کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/8/48)
-
-#### 18:44 · [[018 Al-Kahf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-هُنَالِكَ ٱلْوَلَـٰيَةُ لِلَّهِ ٱلْحَقِّ ۚ هُوَ خَيْرٌ ثَوَابًا وَخَيْرٌ عُقْبًا
-
-</div>
-
-**Word in this verse:** `عُقْبًۭا` — (for) the final end
-
-**English (Sahih International):** There the authority is [completely] for Allāh, the Truth. He is best in reward and best in outcome.
-
-**English (Yusuf Ali):** There, the (only) protection comes from Allah, the True One. He is the Best to reward, and the Best to give success.
-
-**Urdu (Fatah Muhammad Jalandhari):** یہاں (سے ثابت ہوا کہ) حکومت سب خدائے برحق ہی کی ہے۔ اسی کا صلہ بہتر اور (اسی کا) بدلہ اچھا ہے
-
-[Open on Quran.com](https://quran.com/18/44)
 
 #### 23:66 · [[023 Al-Muminun]]
 

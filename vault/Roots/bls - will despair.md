@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** will despair · **Root:** بلس
 
+
 ### Words (wikilinks — these create the graph)
 - [[mbls - will despair]]
 

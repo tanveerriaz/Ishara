@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** share · **Root:** نصب
 
+
 ### Words (wikilinks — these create the graph)
 - [[nSb - fatigue]]
+- [[nSb - stone altars]]
 - [[nSyb - share]]
 
 ### Surahs where this root appears

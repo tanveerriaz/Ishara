@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they withdraw you · **Root:** عزل
 
+
 ### Words (wikilinks — these create the graph)
 - [[AEtzl - they withdraw you]]
 

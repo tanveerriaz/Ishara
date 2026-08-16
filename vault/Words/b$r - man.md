@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "بُشِّرَ"
+lemma: "بَشَر"
 slug: "b$r - man"
-surah_count: 39
-ayah_count: 77
+surah_count: 23
+ayah_count: 37
 tags: [word, meaning]
 ---
 
@@ -17,17 +17,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[b$r - man]]
 
 ### Meaning
-**man** · Lemma **بُشِّرَ**
+**man** · Lemma **بَشَر**
 
-### Surahs (39)
-- [[002 Al-Baqarah]]
+### Surahs (23)
 - [[003 Ali Imran]]
-- [[004 An-Nisa]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
-- [[007 Al-Araf]]
-- [[009 At-Tawbah]]
-- [[010 Yunus]]
 - [[011 Hud]]
 - [[012 Yusuf]]
 - [[014 Ibrahim]]
@@ -37,126 +32,21 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[018 Al-Kahf]]
 - [[019 Maryam]]
 - [[021 Al-Anbya]]
-- [[022 Al-Hajj]]
 - [[023 Al-Muminun]]
 - [[025 Al-Furqan]]
 - [[026 Ash-Shuara]]
-- [[027 An-Naml]]
 - [[030 Ar-Rum]]
-- [[031 Luqman]]
-- [[033 Al-Ahzab]]
+- [[036 Ya-Sin]]
+- [[038 Sad]]
+- [[041 Fussilat]]
+- [[042 Ash-Shuraa]]
+- [[054 Al-Qamar]]
+- [[064 At-Taghabun]]
+- [[074 Al-Muddaththir]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:25 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۖ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍ رِّزْقًا ۙ قَالُوا۟ هَـٰذَا ٱلَّذِى رُزِقْنَا مِن قَبْلُ ۖ وَأُتُوا۟ بِهِۦ مُتَشَـٰبِهًا ۖ وَلَهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ ۖ وَهُمْ فِيهَا خَـٰلِدُونَ
-
-</div>
-
-**Word in this verse:** `وَبَشِّرِ` — And give good news
-
-**English (Sahih International):** And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow. Whenever they are provided with a provision of fruit therefrom, they will say, "This is what we were provided with before." And it is given to them in likeness. And they will have therein purified spouses, and they will abide therein eternally.
-
-**English (Yusuf Ali):** But give glad tidings to those who believe and work righteousness, that their portion is Gardens, beneath which rivers flow. Every time they are fed with fruits therefrom, they say: "Why, this is what we were fed with before," for they are given things in similitude; and they have therein companions pure (and holy); and they abide therein (for ever).
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے، ان کو خوشخبری سنا دو کہ ان کے لیے (نعمت کے) باغ ہیں، جن کے نیچے نہریں بہہ رہی ہیں۔ جب انہیں ان میں سے کسی قسم کا میوہ کھانے کو دیا جائے گا تو کہیں گے، یہ تو وہی ہے جو ہم کو پہلے دیا گیا تھا۔ اور ان کو ایک دوسرے کے ہم شکل میوے دیئے جائیں گے اور وہاں ان کے لیے پاک بیویاں ہوں گی اور وہ بہشتوں میں ہمیشہ رہیں گے
-
-[Open on Quran.com](https://quran.com/2/25)
-
-#### 2:155 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّـٰبِرِينَ
-
-</div>
-
-**Word in this verse:** `وَبَشِّرِ` — but give good news
-
-**English (Sahih International):** And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient,
-
-**English (Yusuf Ali):** Be sure we shall test you with something of fear and hunger, some loss in goods or lives or the fruits (of your toil), but give glad tidings to those who patiently persevere,
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم کسی قدر خوف اور بھوک اور مال اور جانوں اور میوؤں کے نقصان سے تمہاری آزمائش کریں گے توصبر کرنے والوں کو (خدا کی خوشنودی کی) بشارت سنا دو
-
-[Open on Quran.com](https://quran.com/2/155)
-
-#### 2:223 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-نِسَآؤُكُمْ حَرْثٌ لَّكُمْ فَأْتُوا۟ حَرْثَكُمْ أَنَّىٰ شِئْتُمْ ۖ وَقَدِّمُوا۟ لِأَنفُسِكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّكُم مُّلَـٰقُوهُ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ
-
-</div>
-
-**Word in this verse:** `وَبَشِّرِ` — And give glad tidings
-
-**English (Sahih International):** Your wives are a place of cultivation [i.e., sowing of seed] for you, so come to your place of cultivation however you wish and put forth [righteousness] for yourselves. And fear Allāh and know that you will meet Him. And give good tidings to the believers.
-
-**English (Yusuf Ali):** Your wives are as a tilth unto you; so approach your tilth when or how ye will; but do some good act for your souls beforehand; and fear Allah. And know that ye are to meet Him (in the Hereafter), and give (these) good tidings to those who believe.
-
-**Urdu (Fatah Muhammad Jalandhari):** تمہاری عورتیں تمہارای کھیتی ہیں تو اپنی کھیتی میں جس طرح چاہو جاؤ۔ اور اپنے لئے (نیک عمل) آگے بھیجو۔ اور خدا سے ڈرتے رہو اور جان رکھو کہ (ایک دن) تمہیں اس کے روبرو حاضر ہونا ہے اور (اے پیغمبر) ایمان والوں کو بشارت سنا دو
-
-[Open on Quran.com](https://quran.com/2/223)
-
-#### 3:21 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّـۧنَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ ٱلَّذِينَ يَأْمُرُونَ بِٱلْقِسْطِ مِنَ ٱلنَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
-
-</div>
-
-**Word in this verse:** `فَبَشِّرْهُم` — then give them tidings
-
-**English (Sahih International):** Those who disbelieve in the signs of Allāh and kill the prophets without right and kill those who order justice from among the people - give them tidings of a painful punishment.
-
-**English (Yusuf Ali):** As to those who deny the Signs of Allah and in defiance of right, slay the prophets, and slay those who teach just dealing with mankind, announce to them a grievous penalty.
-
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کی آیتوں کو نہیں مانتے اور انبیاء کو ناحق قتل کرتے رہے ہیں اور جو انصاف (کرنے) کا حکم دیتے ہیں انہیں بھی مار ڈالتے ہیں ان کو دکھ دینے والے عذاب کی خوشخبری سنا دو
-
-[Open on Quran.com](https://quran.com/3/21)
-
-#### 3:39 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَنَادَتْهُ ٱلْمَلَـٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ
-
-</div>
-
-**Word in this verse:** `يُبَشِّرُكَ` — gives you glad tidings
-
-**English (Sahih International):** So the angels called him while he was standing in prayer in the chamber, "Indeed, Allāh gives you good tidings of John, confirming a word from Allāh and [who will be] honorable, abstaining [from women], and a prophet from among the righteous."
-
-**English (Yusuf Ali):** While he was standing in prayer in the chamber, the angels called unto him: "Allah doth give thee glad tidings of Yahya, witnessing the truth of a Word from Allah, and (be besides) noble, chaste, and a prophet,- of the (goodly) company of the righteous."
-
-**Urdu (Fatah Muhammad Jalandhari):** وہ ابھی عبادت گاہ میں کھڑے نماز ہی پڑھ رہے تھے کہ فرشتوں نے آواز دی کہ (زکریا) خدا تمہیں یحییٰ کی بشارت دیتا ہے جو خدا کے فیض یعنی (عیسیٰ) کی تصدیق کریں گے اور سردار ہوں گے اور عورتوں سے رغبت نہ رکھنے والے اور (خدا کے) پیغمبر (یعنی) نیکو کاروں میں ہوں گے
-
-[Open on Quran.com](https://quran.com/3/39)
-
-#### 3:45 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِذْ قَالَتِ ٱلْمَلَـٰٓئِكَةُ يَـٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ ٱسْمُهُ ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ
-
-</div>
-
-**Word in this verse:** `يُبَشِّرُكِ` — gives you glad tidings
-
-**English (Sahih International):** [And mention] when the angels said, "O Mary, indeed Allāh gives you good tidings of a word from Him, whose name will be the Messiah, Jesus, the son of Mary - distinguished in this world and the Hereafter and among those brought near [to Allāh].
-
-**English (Yusuf Ali):** Behold! the angels said: "O Mary! Allah giveth thee glad tidings of a Word from Him: his name will be Christ Jesus, the son of Mary, held in honour in this world and the Hereafter and of (the company of) those nearest to Allah;
-
-**Urdu (Fatah Muhammad Jalandhari):** (وہ وقت بھی یاد کرنے کے لائق ہے) جب فرشتوں نے (مریم سے کہا) کہ مریم خدا تم کو اپنی طرف سے ایک فیض کی بشارت دیتا ہے جس کا نام مسیح (اور مشہور) عیسیٰ ابن مریم ہوگا (اور) جو دنیا اور آخرت میں باآبرو اور (خدا کے) خاصوں میں سے ہوگا
-
-[Open on Quran.com](https://quran.com/3/45)
 
 #### 3:47 · [[003 Ali Imran]]
 
@@ -194,24 +84,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/79)
 
-#### 4:138 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-بَشِّرِ ٱلْمُنَـٰفِقِينَ بِأَنَّ لَهُمْ عَذَابًا أَلِيمًا
-
-</div>
-
-**Word in this verse:** `بَشِّرِ` — Give tidings
-
-**English (Sahih International):** Give tidings to the hypocrites that there is for them a painful punishment -
-
-**English (Yusuf Ali):** To the Hypocrites give the glad tidings that there is for them (but) a grievous penalty;-
-
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) منافقوں (یعنی دو رخے لوگوں) کو بشارت سناد دو کہ ان کے لئے دکھ دینے والا عذاب (تیار) ہے
-
-[Open on Quran.com](https://quran.com/4/138)
-
 #### 5:18 · [[005 Al-Maidah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -230,5 +102,131 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/5/18)
 
-_…and **67** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 6:91 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍ مِّن شَىْءٍ ۗ قُلْ مَنْ أَنزَلَ ٱلْكِتَـٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًا وَهُدًى لِّلنَّاسِ ۖ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا ۖ وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ ۖ قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ
+
+</div>
+
+**Word in this verse:** `بَشَرٍۢ` — a human being
+
+**English (Sahih International):** And they did not appraise Allāh with true appraisal when they said, "Allāh did not reveal to a human being anything." Say, "Who revealed the Scripture that Moses brought as light and guidance to the people? You [Jews] make it into pages, disclosing [some of] it and concealing much. And you were taught that which you knew not - neither you nor your fathers." Say, "Allāh [revealed it]." Then leave them in their [empty] discourse, amusing themselves.
+
+**English (Yusuf Ali):** No just estimate of Allah do they make when they say: "Nothing doth Allah send down to man (by way of revelation)" Say: "Who then sent down the Book which Moses brought?- a light and guidance to man: But ye make it into (separate) sheets for show, while ye conceal much (of its contents): therein were ye taught that which ye knew not- neither ye nor your fathers." Say: "Allah (sent it down)": Then leave them to plunge in vain discourse and trifling.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان لوگوں نے خدا کی قدر جیسی جاننی چاہیئے تھی نہ جانی۔ جب انہوں نے کہا کہ خدا نے انسان پر (وحی اور کتاب وغیرہ) کچھ بھی نازل نہیں کیا۔ کہو جو کتاب موسیٰ لے کر آئے تھے اسے کس نے نازل کیا تھا جو لوگوں کے لئے نور اور ہدایت تھی اور جسے تم نے علیحدہ علیحدہ اوراق (پر نقل) کر رکھا ہے ان (کے کچھ حصے) کو تو ظاہر کرتے ہو اور اکثر کو چھپاتے ہو۔ اور تم کو وہ باتیں سکھائی گئیں جن کو نہ تم جانتے تھے اور نہ تمہارے باپ دادا۔ کہہ دو (اس کتاب کو) خدا ہی نے (نازل کیا تھا) پھر ان کو چھوڑ دیا کہ اپنی بیہودہ بکواس میں کھیلتے رہیں
+
+[Open on Quran.com](https://quran.com/6/91)
+
+#### 11:27 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَقَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦ مَا نَرَىٰكَ إِلَّا بَشَرًا مِّثْلَنَا وَمَا نَرَىٰكَ ٱتَّبَعَكَ إِلَّا ٱلَّذِينَ هُمْ أَرَاذِلُنَا بَادِىَ ٱلرَّأْىِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍۭ بَلْ نَظُنُّكُمْ كَـٰذِبِينَ
+
+</div>
+
+**Word in this verse:** `بَشَرًۭا` — a man
+
+**English (Sahih International):** So the eminent among those who disbelieved from his people said, "We do not see you but as a man like ourselves, and we do not see you followed except by those who are the lowest of us [and] at first suggestion. And we do not see in you over us any merit; rather, we think you are liars."
+
+**English (Yusuf Ali):** But the chiefs of the Unbelievers among his people said: "We see (in) thee nothing but a man like ourselves: Nor do we see that any follow thee but the meanest among us, in judgment immature: Nor do we see in you (all) any merit above us: in fact we think ye are liars!"
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کی قوم کے سردار جو کافر تھے کہنے لگے کہ ہم تم کو اپنے ہی جیسا ایک آدمی دیکھتے ہیں اور یہ بھی دیکھتے ہیں کہ تمہارے پیرو وہی لوگ ہوئے ہیں جو ہم میں ادنیٰ درجے کے ہیں۔ اور وہ بھی رائے ظاہر سے (نہ غوروتعمق سے) اور ہم تم میں اپنے اوپر کسی طرح کی فضیلت نہیں دیکھتے بلکہ تمہیں جھوٹا خیال کرتے ہیں
+
+[Open on Quran.com](https://quran.com/11/27)
+
+#### 12:31 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَـٰشَ لِلَّهِ مَا هَـٰذَا بَشَرًا إِنْ هَـٰذَآ إِلَّا مَلَكٌ كَرِيمٌ
+
+</div>
+
+**Word in this verse:** `بَشَرًا` — a man
+
+**English (Sahih International):** So when she heard of their scheming, she sent for them and prepared for them a banquet and gave each one of them a knife and said [to Joseph], "Come out before them." And when they saw him, they greatly admired him and cut their hands and said, "Perfect is Allāh! This is not a man; this is none but a noble angel."
+
+**English (Yusuf Ali):** When she heard of their malicious talk, she sent for them and prepared a banquet for them: she gave each of them a knife: and she said (to Joseph), "Come out before them." When they saw him, they did extol him, and (in their amazement) cut their hands: they said, "Allah preserve us! no mortal is this! this is none other than a noble angel!"
+
+**Urdu (Fatah Muhammad Jalandhari):** جب زلیخا نے ان عورتوں کی (گفتگو جو حقیقت میں دیدار یوسف کے لیے ایک) چال (تھی) سنی تو ان کے پاس (دعوت کا) پیغام بھیجا اور ان کے لیے ایک محفل مرتب کی۔ اور (پھل تراشنے کے لیے) ہر ایک کو ایک چھری دی اور (یوسف سے) کہا کہ ان کے سامنے باہر آؤ۔ جب عورتوں نے ان کو دیکھا تو ان کا رعب (حسن) ان پر (ایسا) چھا گیا کہ (پھل تراشتے تراشتے) اپنے ہاتھ کاٹ لیے اور بےساختہ بول اٹھیں کہ سبحان الله (یہ حسن) یہ آدمی نہیں کوئی بزرگ فرشتہ ہے
+
+[Open on Quran.com](https://quran.com/12/31)
+
+#### 14:10 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ قَالَتْ رُسُلُهُمْ أَفِى ٱللَّهِ شَكٌّ فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يَدْعُوكُمْ لِيَغْفِرَ لَكُم مِّن ذُنُوبِكُمْ وَيُؤَخِّرَكُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ قَالُوٓا۟ إِنْ أَنتُمْ إِلَّا بَشَرٌ مِّثْلُنَا تُرِيدُونَ أَن تَصُدُّونَا عَمَّا كَانَ يَعْبُدُ ءَابَآؤُنَا فَأْتُونَا بِسُلْطَـٰنٍ مُّبِينٍ
+
+</div>
+
+**Word in this verse:** `بَشَرٌۭ` — a human
+
+**English (Sahih International):** Their messengers said, "Can there be doubt about Allāh, Creator of the heavens and earth? He invites you that He may forgive you of your sins, and He delays you [i.e., your death] for a specified term." They said, "You are not but men like us who wish to avert us from what our fathers were worshipping. So bring us a clear authority [i.e., evidence]."
+
+**English (Yusuf Ali):** Their messengers said: "Is there a doubt about Allah, The Creator of the heavens and the earth? It is He Who invites you, in order that He may forgive you your sins and give you respite for a term appointed!" They said: "Ah! ye are no more than human, like ourselves! Ye wish to turn us away from the (gods) our fathers used to worship: then bring us some clear authority."
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کے پیغمبروں نے کہا کیا (تم کو) خدا (کے بارے) میں شک ہے جو آسمانوں اور زمین کا پیدا کرنے والا ہے۔ وہ تمہیں اس لیے بلاتا ہے کہ تمہارے گناہ بخشے اور (فائدہ پہنچانے کے لیے) ایک مدت مقرر تک تم کو مہلت دے۔ وہ بولے کہ تم تو ہمارے ہی جیسے آدمی ہو۔ تمہارا یہ منشاء ہے کہ جن چیزوں کو ہمارے بڑے پوجتے رہے ہیں ان (کے پوجنے) سے ہم کو بند کر دو تو (اچھا) کوئی کھلی دلیل لاؤ (یعنی معجزہ دکھاؤ)
+
+[Open on Quran.com](https://quran.com/14/10)
+
+#### 14:11 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَتْ لَهُمْ رُسُلُهُمْ إِن نَّحْنُ إِلَّا بَشَرٌ مِّثْلُكُمْ وَلَـٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَمَا كَانَ لَنَآ أَن نَّأْتِيَكُم بِسُلْطَـٰنٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
+
+</div>
+
+**Word in this verse:** `بَشَرٌۭ` — a human
+
+**English (Sahih International):** Their messengers said to them, "We are only men like you, but Allāh confers favor upon whom He wills of His servants. It has never been for us to bring you evidence except by permission of Allāh. And upon Allāh let the believers rely.
+
+**English (Yusuf Ali):** Their messengers said to them: "True, we are human like yourselves, but Allah doth grant His grace to such of his servants as He pleases. It is not for us to bring you an authority except as Allah permits. And on Allah let all men of faith put their trust.
+
+**Urdu (Fatah Muhammad Jalandhari):** پیغمبروں نے ان سے کہا کہ ہاں ہم تمہارے ہی جیسے آدمی ہیں۔ لیکن خدا اپنے بندوں میں سے جس کو چاہتا ہے (نبوت کا) احسان کرتا ہے اور ہمارے اختیار کی بات نہیں کہ ہم خدا کے حکم کے بغیر تم کو (تمہاری فرمائش کے مطابق) معجزہ دکھائیں اور خدا ہی پر مومنوں کو بھروسہ رکھنا چاہیئے
+
+[Open on Quran.com](https://quran.com/14/11)
+
+#### 15:28 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ قَالَ رَبُّكَ لِلْمَلَـٰٓئِكَةِ إِنِّى خَـٰلِقٌۢ بَشَرًا مِّن صَلْصَـٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
+
+</div>
+
+**Word in this verse:** `بَشَرًۭا` — a human being
+
+**English (Sahih International):** And [mention, O Muḥammad], when your Lord said to the angels, "I will create a human being out of clay from an altered black mud.
+
+**English (Yusuf Ali):** Behold! thy Lord said to the angels: "I am about to create man, from sounding clay from mud moulded into shape;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب تمہارے پروردگار نے فرشتوں سے فرمایا کہ میں کھنکھناتے سڑے ہوئے گارے سے ایک بشر بنانے والا ہوں
+
+[Open on Quran.com](https://quran.com/15/28)
+
+#### 15:33 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن صَلْصَـٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
+
+</div>
+
+**Word in this verse:** `لِبَشَرٍ` — to a human
+
+**English (Sahih International):** He said, "Never would I prostrate to a human whom You created out of clay from an altered black mud."
+
+**English (Yusuf Ali):** (Iblis) said: "I am not one to prostrate myself to man, whom Thou didst create from sounding clay, from mud moulded into shape."
+
+**Urdu (Fatah Muhammad Jalandhari):** (اس نے) کہا کہ میں ایسا نہیں ہوں کہ انسان کو جس کو تو نے کھنکھناتے سڑے ہوئے گارے سے بنایا ہے سجدہ کروں
+
+[Open on Quran.com](https://quran.com/15/33)
+
+_…and **27** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

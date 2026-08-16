@@ -11,8 +11,12 @@ tags: [root, meaning]
 
 **Sense:** will bear · **Root:** حمل
 
+
 ### Words (wikilinks — these create the graph)
 - [[AHtml - carries]]
+- [[Hml - burden]]
+- [[Hml - lay us]]
+- [[Hml - load]]
 - [[Hml - will bear]]
 
 ### Surahs where this root appears

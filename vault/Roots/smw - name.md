@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** name · **Root:** سمو
 
+
 ### Words (wikilinks — these create the graph)
 - [[Asm - name]]
 - [[msmY - appointed]]

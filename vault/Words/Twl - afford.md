@@ -2,8 +2,8 @@
 type: word
 lemma: "طَوْل"
 slug: "Twl - afford"
-surah_count: 4
-ayah_count: 4
+surah_count: 3
+ayah_count: 3
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **afford** · Lemma **طَوْل**
 
-### Surahs (4)
+### Surahs (3)
 - [[004 An-Nisa]]
 - [[009 At-Tawbah]]
-- [[017 Al-Isra]]
 - [[040 Ghafir]]
 
 ## Verses (full text)
@@ -64,24 +63,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور جب کوئی سورت نازل ہوتی ہے کہ خدا پر ایمان لاؤ اور اس کے رسول کے ساتھ ہو کر لڑائی کرو تو جو ان میں دولت مند ہیں وہ تم سے اجازت طلب کرتے ہیں اور کہتے ہیں کہ ہمیں تو رہنے ہی دیجیئے کہ جو لوگ گھروں میں رہیں گے ہم بھی ان کے ساتھ رہیں
 
 [Open on Quran.com](https://quran.com/9/86)
-
-#### 17:37 · [[017 Al-Isra]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّكَ لَن تَخْرِقَ ٱلْأَرْضَ وَلَن تَبْلُغَ ٱلْجِبَالَ طُولًا
-
-</div>
-
-**Word in this verse:** `طُولًۭا` — (in) height
-
-**English (Sahih International):** And do not walk upon the earth exultantly. Indeed, you will never tear the earth [apart], and you will never reach the mountains in height.
-
-**English (Yusuf Ali):** Nor walk on the earth with insolence: for thou canst not rend the earth asunder, nor reach the mountains in height.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور زمین پر اکڑ کر (اور تن کر) مت چل کہ تو زمین کو پھاڑ تو نہیں ڈالے گا اور نہ لمبا ہو کر پہاڑوں (کی چوٹی) تک پہنچ جائے گا
-
-[Open on Quran.com](https://quran.com/17/37)
 
 #### 40:3 · [[040 Ghafir]]
 

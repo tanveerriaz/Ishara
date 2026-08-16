@@ -108,7 +108,7 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 </div>
 
-**Word in this verse:** `نُصْحِىٓ` — my advice
+**Word in this verse:** `أَنصَحَ` — [I] advise
 
 **English (Sahih International):** And my advice will not benefit you - although I wished to advise you - if Allāh should intend to put you in error. He is your Lord, and to Him you will be returned."
 

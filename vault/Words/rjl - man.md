@@ -2,8 +2,8 @@
 type: word
 lemma: "رَجُل"
 slug: "rjl - man"
-surah_count: 25
-ayah_count: 41
+surah_count: 19
+ayah_count: 25
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **man** · Lemma **رَجُل**
 
-### Surahs (25)
+### Surahs (19)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
@@ -30,21 +30,15 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
-- [[020 Taha]]
 - [[023 Al-Muminun]]
-- [[024 An-Nur]]
 - [[025 Al-Furqan]]
-- [[026 Ash-Shuara]]
 - [[028 Al-Qasas]]
-- [[029 Al-Ankabut]]
 - [[033 Al-Ahzab]]
 - [[034 Saba]]
 - [[036 Ya-Sin]]
-- [[038 Sad]]
 - [[039 Az-Zumar]]
 - [[040 Ghafir]]
 - [[043 Az-Zukhruf]]
-- [[060 Al-Mumtahanah]]
 
 ## Verses (full text)
 
@@ -86,24 +80,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/12)
 
-#### 5:6 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ ۚ وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ ۚ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَـٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ ۚ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَـٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ
-
-</div>
-
-**Word in this verse:** `وَأَرْجُلَكُمْ` — and your feet
-
-**English (Sahih International):** O you who have believed, when you rise to [perform] prayer, wash your faces and your forearms to the elbows and wipe over your heads and wash your feet to the ankles. And if you are in a state of janābah, then purify yourselves. But if you are ill or on a journey or one of you comes from the place of relieving himself or you have contacted women and do not find water, then seek clean earth and wipe over your faces and hands with it. Allāh does not intend to make difficulty for you, but He intends to purify you and complete His favor upon you that you may be grateful.
-
-**English (Yusuf Ali):** O ye who believe! when ye prepare for prayer, wash your faces, and your hands (and arms) to the elbows; Rub your heads (with water); and (wash) your feet to the ankles. If ye are in a state of ceremonial impurity, bathe your whole body. But if ye are ill, or on a journey, or one of you cometh from offices of nature, or ye have been in contact with women, and ye find no water, then take for yourselves clean sand or earth, and rub therewith your faces and hands, Allah doth not wish to place you in a difficulty, but to make you clean, and to complete his favour to you, that ye may be grateful.
-
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم نماز پڑھنے کا قصد کیا کرو تم منہ اور کہنیوں تک ہاتھ دھو لیا کرو اور سر کا مسح کر لیا کرو اور ٹخنوں تک پاؤں (دھو لیا کرو) اور اگر نہانے کی حاجت ہو تو (نہا کر) پاک ہو جایا کرو اور اگر بیمار ہو یا سفر میں ہو یا کوئی تم میں سے بیت الخلا سے ہو کر آیا ہو یا تم عورتوں سے ہم بستر ہوئے ہو اور تمہیں پانی نہ مل سکے تو پاک مٹی لو اور اس سے منہ اور ہاتھوں کا مسح (یعنی تیمم) کر لو۔ خدا تم پر کسی طرح کی تنگی نہیں کرنا چاہتا بلکہ یہ چاہتا ہے کہ تمہیں پاک کرے اور اپنی نعمتیں تم پر پوری کرے تاکہ تم شکر کرو
-
-[Open on Quran.com](https://quran.com/5/6)
-
 #### 5:23 · [[005 Al-Maidah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -122,42 +98,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/5/23)
 
-#### 5:33 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَـٰفٍ أَوْ يُنفَوْا۟ مِنَ ٱلْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْىٌ فِى ٱلدُّنْيَا ۖ وَلَهُمْ فِى ٱلْـَٔاخِرَةِ عَذَابٌ عَظِيمٌ
-
-</div>
-
-**Word in this verse:** `وَأَرْجُلُهُم` — and their feet
-
-**English (Sahih International):** Indeed, the penalty for those who wage war against Allāh and His Messenger and strive upon earth [to cause] corruption is none but that they be killed or crucified or that their hands and feet be cut off from opposite sides or that they be exiled from the land. That is for them a disgrace in this world; and for them in the Hereafter is a great punishment,
-
-**English (Yusuf Ali):** The punishment of those who wage war against Allah and His Messenger, and strive with might and main for mischief through the land is: execution, or crucifixion, or the cutting off of hands and feet from opposite sides, or exile from the land: that is their disgrace in this world, and a heavy punishment is theirs in the Hereafter;
-
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا اور اس کے رسول سے لڑائی کریں اور ملک میں فساد کرنے کو دوڑتے پھریں ان کی یہی سزا ہے کہ قتل کر دیئے جائیں یا سولی چڑھا دیئے جائیں یا ان کے ایک ایک طرف کے ہاتھ اور ایک ایک طرف کے پاؤں کاٹ دیئے جائیں یا ملک سے نکال دیئے جائیں یہ تو دنیا میں ان کی رسوائی ہے اور آخرت میں ان کے لیے بڑا (بھاری) عذاب تیار ہے
-
-[Open on Quran.com](https://quran.com/5/33)
-
-#### 5:66 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَوْ أَنَّهُمْ أَقَامُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم ۚ مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ ۖ وَكَثِيرٌ مِّنْهُمْ سَآءَ مَا يَعْمَلُونَ
-
-</div>
-
-**Word in this verse:** `أَرْجُلِهِم ۚ` — their feet
-
-**English (Sahih International):** And if only they had upheld [the law of] the Torah, the Gospel, and what has been revealed to them from their Lord [i.e., the Qur’ān], they would have consumed [provision] from above them and from beneath their feet. Among them are a moderate [i.e., acceptable] community, but many of them - evil is that which they do.
-
-**English (Yusuf Ali):** If only they had stood fast by the Law, the Gospel, and all the revelation that was sent to them from their Lord, they would have enjoyed happiness from every side. There is from among them a party on the right course: but many of them follow a course that is evil.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر وہ تورات اور انجیل کو اور جو (اور کتابیں) ان کے پروردگار کی طرف سے ان پر نازل ہوئیں ان کو قائم رکھتے (تو ان پر رزق مینہ کی طرح برستا کہ) اپنے اوپر سے پاؤں کے نیچے سے کھاتے ان میں کچھ لوگ میانہ رو ہیں اور بہت سے ایسے ہیں جن کے اعمال برے ہیں
-
-[Open on Quran.com](https://quran.com/5/66)
-
 #### 6:9 · [[006 Al-Anam]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -175,24 +115,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** نیز اگر ہم کسی فرشتہ کو بھیجتے تو اسے مرد کی صورت میں بھیجتے اور جو شبہ (اب) کرتے ہیں اسی شبے میں پھر انہیں ڈال دیتے
 
 [Open on Quran.com](https://quran.com/6/9)
-
-#### 6:65 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُلْ هُوَ ٱلْقَادِرُ عَلَىٰٓ أَن يَبْعَثَ عَلَيْكُمْ عَذَابًا مِّن فَوْقِكُمْ أَوْ مِن تَحْتِ أَرْجُلِكُمْ أَوْ يَلْبِسَكُمْ شِيَعًا وَيُذِيقَ بَعْضَكُم بَأْسَ بَعْضٍ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْـَٔايَـٰتِ لَعَلَّهُمْ يَفْقَهُونَ
-
-</div>
-
-**Word in this verse:** `أَرْجُلِكُمْ` — your feet
-
-**English (Sahih International):** Say, "He is the [one] Able to send upon you affliction from above you or from beneath your feet or to confuse you [so you become] sects and make you taste the violence of one another." Look how We diversify the signs that they might understand.
-
-**English (Yusuf Ali):** Say: "He hath power to send calamities on you, from above and below, or to cover you with confusion in party strife, giving you a taste of mutual vengeance - each from the other." See how We explain the signs by various (symbols); that they may understand.
-
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ وہ (اس پر بھی) قدرت رکھتا ہے کہ تم پر اوپر کی طرف سے یا تمہارے پاؤں کے نیچے سے عذاب بھیجے یا تمہیں فرقہ فرقہ کردے اور ایک کو دوسرے (سے لڑا کر آپس) کی لڑائی کا مزہ چکھادے۔ دیکھو ہم اپنی آیتوں کو کس کس طرح بیان کرتے ہیں تاکہ یہ لوگ سمجھیں
-
-[Open on Quran.com](https://quran.com/6/65)
 
 #### 7:63 · [[007 Al-Araf]]
 
@@ -230,5 +152,77 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/69)
 
-_…and **31** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 7:155 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَـٰتِنَا ۖ فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّـٰىَ ۖ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ مِنَّآ ۖ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ ۖ أَنتَ وَلِيُّنَا فَٱغْفِرْ لَنَا وَٱرْحَمْنَا ۖ وَأَنتَ خَيْرُ ٱلْغَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `رَجُلًۭا` — men
+
+**English (Sahih International):** And Moses chose from his people seventy men for Our appointment. And when the earthquake seized them, he said, "My Lord, if You had willed, You could have destroyed them before and me [as well]. Would You destroy us for what the foolish among us have done? This is not but Your trial by which You send astray whom You will and guide whom You will. You are our Protector, so forgive us and have mercy upon us; and You are the best of forgivers.
+
+**English (Yusuf Ali):** And Moses chose seventy of his people for Our place of meeting: when they were seized with violent quaking, he prayed: "O my Lord! if it had been Thy will Thou couldst have destroyed, long before, both them and me: wouldst Thou destroy us for the deeds of the foolish ones among us? this is no more than Thy trial: by it Thou causest whom Thou wilt to stray, and Thou leadest whom Thou wilt into the right path. Thou art our Protector: so forgive us and give us Thy mercy; for Thou art the best of those who forgive.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ نے اس میعاد پر جو ہم نے مقرر کی تھی اپنی قوم کے ستر آدمی منتخب (کرکے کوہ طور پر حاضر) ٹل کیے۔ جب ان کو زلزلے نے پکڑا تو موسیٰ نے کہا کہ اے پروردگار تو چاہتا تو ان کو اور مجھ کو پہلے ہی سے ہلاک کر دیتا۔ کیا تو اس فعل کی سزا میں جو ہم میں سے بےعقل لوگوں نے کیا ہے ہمیں ہلاک کردے گا۔ یہ تو تیری آزمائش ہے۔ اس سے تو جس کو چاہے گمراہ کرے اور جس کو چاہے ہدایت بخشے۔ تو ہی ہمارا کارساز ہے تو ہمیں (ہمارے گناہ) بخش دے اور ہم پر رحم فرما اور تو سب سے بہتر بخشنے والا ہے
+
+[Open on Quran.com](https://quran.com/7/155)
+
+#### 10:2 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَكَانَ لِلنَّاسِ عَجَبًا أَنْ أَوْحَيْنَآ إِلَىٰ رَجُلٍ مِّنْهُمْ أَنْ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓا۟ أَنَّ لَهُمْ قَدَمَ صِدْقٍ عِندَ رَبِّهِمْ ۗ قَالَ ٱلْكَـٰفِرُونَ إِنَّ هَـٰذَا لَسَـٰحِرٌ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `رَجُلٍۢ` — a man
+
+**English (Sahih International):** Have the people been amazed that We revealed [revelation] to a man from among them, [saying], "Warn mankind and give good tidings to those who believe that they will have a [firm] precedence of honor with their Lord"? [But] the disbelievers say, "Indeed, this is an obvious magician."
+
+**English (Yusuf Ali):** Is it a matter of wonderment to men that We have sent Our inspiration to a man from among themselves?- that he should warn mankind (of their danger), and give the good news to the Believers that they have before their Lord the lofty rank of truth. (But) say the Unbelievers: "This is indeed an evident sorcerer!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا لوگوں کو تعجب ہوا کہ ہم نے ان ہی میں سے ایک مرد کو حکم بھیجا کہ لوگوں کو ڈر سنا دو۔ اور ایمان لانے والوں کو خوشخبری دے دو کہ ان کے پروردگار کے ہاں ان کا سچا درجہ ہے۔ (ایسے شخص کی نسبت) کافر کہتے ہیں کہ یہ صریح جادوگر ہے
+
+[Open on Quran.com](https://quran.com/10/2)
+
+#### 11:78 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ ۚ قَالَ يَـٰقَوْمِ هَـٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ ۖ أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ
+
+</div>
+
+**Word in this verse:** `رَجُلٌۭ` — a man
+
+**English (Sahih International):** And his people came hastening to him, and before [this] they had been doing evil deeds. He said, "O my people, these are my daughters; they are purer for you. So fear Allāh and do not disgrace me concerning my guests. Is there not among you a man of reason?"
+
+**English (Yusuf Ali):** And his people came rushing towards him, and they had been long in the habit of practising abominations. He said: "O my people! Here are my daughters: they are purer for you (if ye marry)! Now fear Allah, and cover me not with shame about my guests! Is there not among you a single right-minded man?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور لوط کی قوم کے لوگ ان کے پاس بےتحاشا دوڑتے ہوئے آئے اور یہ لوگ پہلے ہی سے فعل شنیع کیا کرتے تھے۔ لوط نے کہا کہ اے قوم! یہ (جو) میری (قوم کی) لڑکیاں ہیں، یہ تمہارے لیے (جائز اور) پاک ہیں۔ تو خدا سے ڈرو اور میرے مہمانوں کے (بارے) میں میری آبرو نہ کھوؤ۔ کیا تم میں کوئی بھی شائستہ آدمی نہیں
+
+[Open on Quran.com](https://quran.com/11/78)
+
+#### 16:76 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَضَرَبَ ٱللَّهُ مَثَلًا رَّجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ أَيْنَمَا يُوَجِّههُّ لَا يَأْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ بِٱلْعَدْلِ ۙ وَهُوَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+
+</div>
+
+**Word in this verse:** `رَّجُلَيْنِ` — (of) two men
+
+**English (Sahih International):** And Allāh presents an example of two men, one of them dumb and unable to do a thing, while he is a burden to his guardian. Wherever he directs him, he brings no good. Is he equal to one who commands justice, while he is on a straight path?
+
+**English (Yusuf Ali):** Allah sets forth (another) Parable of two men: one of them dumb, with no power of any sort; a wearisome burden is he to his master; whichever way be directs him, he brings no good: is such a man equal with one who commands Justice, and is on a Straight Way?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ایک اور مثال بیان فرماتا ہے کہ دو آدمی ہیں ایک اُن میں سے گونگا (اور دوسرے کی ملک) ہے (بےاختیار وناتوان) کہ کسی چیز پر قدرت نہیں رکھتا۔ اور اپنے مالک کو دوبھر ہو رہا ہے وہ جہاں اُسے بھیجتا ہے (خیر سے کبھی) بھلائی نہیں لاتا۔ کیا ایسا (گونگا بہرا) اور وہ شخص جو (سنتا بولتا اور) لوگوں کو انصاف کرنے کا حکم دیتا ہے اور خود سیدھے راستے پر چل رہا ہے دونوں برابر ہیں؟
+
+[Open on Quran.com](https://quran.com/16/76)
+
+_…and **15** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

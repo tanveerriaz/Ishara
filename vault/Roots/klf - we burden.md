@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we burden · **Root:** كلف
 
+
 ### Words (wikilinks — these create the graph)
 - [[yklf - we burden]]
 

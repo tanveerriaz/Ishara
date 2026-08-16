@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we left · **Root:** ترك
 
+
 ### Words (wikilinks — these create the graph)
 - [[trk - we left]]
 

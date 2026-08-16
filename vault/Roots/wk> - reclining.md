@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** reclining · **Root:** وكأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[mtk} - reclining]]
 

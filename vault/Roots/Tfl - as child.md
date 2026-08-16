@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** as child · **Root:** طفل
 
+
 ### Words (wikilinks — these create the graph)
 - [[Tfl - as child]]
 

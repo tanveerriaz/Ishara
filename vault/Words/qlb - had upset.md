@@ -1,0 +1,140 @@
+---
+type: word
+lemma: "قَلَّبُ"
+slug: "qlb - had upset"
+surah_count: 5
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# qlb - had upset
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[qlb - hearts]]
+
+### Meaning
+**had upset** · Lemma **قَلَّبُ**
+
+### Surahs (5)
+- [[006 Al-Anam]]
+- [[009 At-Tawbah]]
+- [[018 Al-Kahf]]
+- [[024 An-Nur]]
+- [[033 Al-Ahzab]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
+
+#### 6:110 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَنُقَلِّبُ أَفْـِٔدَتَهُمْ وَأَبْصَـٰرَهُمْ كَمَا لَمْ يُؤْمِنُوا۟ بِهِۦٓ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ
+
+</div>
+
+**Word in this verse:** `وَنُقَلِّبُ` — And We will turn
+
+**English (Sahih International):** And We will turn away their hearts and their eyes just as they refused to believe in it [i.e., the revelation] the first time. And We will leave them in their transgression, wandering blindly.
+
+**English (Yusuf Ali):** We (too) shall turn to (confusion) their hearts and their eyes, even as they refused to believe in this in the first instance: We shall leave them in their trespasses, to wander in distraction.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم ان کے دلوں اور آنکھوں کو الٹ دیں گے (تو) جیسے یہ اس (قرآن) پر پہلی دفعہ ایمان نہیں لائے (ویسے پھر نہ لائیں گے) اور ان کو چھوڑ دیں گے کہ اپنی سرکشی میں بہکتے رہیں
+
+[Open on Quran.com](https://quran.com/6/110)
+
+#### 9:48 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَقَدِ ٱبْتَغَوُا۟ ٱلْفِتْنَةَ مِن قَبْلُ وَقَلَّبُوا۟ لَكَ ٱلْأُمُورَ حَتَّىٰ جَآءَ ٱلْحَقُّ وَظَهَرَ أَمْرُ ٱللَّهِ وَهُمْ كَـٰرِهُونَ
+
+</div>
+
+**Word in this verse:** `وَقَلَّبُوا۟` — and had upset
+
+**English (Sahih International):** They had already desired dissension before and had upset matters for you until the truth came and the ordinance [i.e., victory] of Allāh appeared, while they were averse.
+
+**English (Yusuf Ali):** Indeed they had plotted sedition before, and upset matters for thee, until,- the Truth arrived, and the Decree of Allah became manifest much to their disgust.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ پہلے بھی طالب فساد رہے ہیں اور بہت سی باتوں میں تمہارے لیے الٹ پھیر کرتے رہے ہیں۔ یہاں تک کہ حق آپہنچا اور خدا کا حکم غالب ہوا اور وہ برا مانتے ہی رہ گئے
+
+[Open on Quran.com](https://quran.com/9/48)
+
+#### 18:18 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَتَحْسَبُهُمْ أَيْقَاظًا وَهُمْ رُقُودٌ ۚ وَنُقَلِّبُهُمْ ذَاتَ ٱلْيَمِينِ وَذَاتَ ٱلشِّمَالِ ۖ وَكَلْبُهُم بَـٰسِطٌ ذِرَاعَيْهِ بِٱلْوَصِيدِ ۚ لَوِ ٱطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًا وَلَمُلِئْتَ مِنْهُمْ رُعْبًا
+
+</div>
+
+**Word in this verse:** `وَنُقَلِّبُهُمْ` — And We turned them
+
+**English (Sahih International):** And you would think them awake, while they were asleep. And We turned them to the right and to the left, while their dog stretched his forelegs at the entrance. If you had looked at them, you would have turned from them in flight and been filled by them with terror.
+
+**English (Yusuf Ali):** Thou wouldst have deemed them awake, whilst they were asleep, and We turned them on their right and on their left sides: their dog stretching forth his two fore-legs on the threshold: if thou hadst come up on to them, thou wouldst have certainly turned back from them in flight, and wouldst certainly have been filled with terror of them.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم ان کو خیال کرو کہ جاگ رہے ہیں حالانکہ وہ سوتے ہیں۔ اور ہم ان کو دائیں اور بائیں کروٹ بدلاتے تھے۔ اور ان کا کتا چوکھٹ پر دونوں ہاتھ پھیلائے ہوئے تھا۔ اگر تم ان کو جھانک کر دیکھتے تو پیٹھ پھیر کر بھاگ جاتے اور ان سے دہشت میں آجاتے
+
+[Open on Quran.com](https://quran.com/18/18)
+
+#### 18:42 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَـٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًا
+
+</div>
+
+**Word in this verse:** `يُقَلِّبُ` — twisting
+
+**English (Sahih International):** And his fruits were encompassed [by ruin], so he began to turn his hands about [in dismay] over what he had spent on it, while it had collapsed upon its trellises, and said, "Oh, I wish I had not associated with my Lord anyone."
+
+**English (Yusuf Ali):** So his fruits (and enjoyment) were encompassed (with ruin), and he remained twisting and turning his hands over what he had spent on his property, which had (now) tumbled to pieces to its very foundations, and he could only say, "Woe is me! Would I had never ascribed partners to my Lord and Cherisher!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس کے میووں کو عذاب نے آگھیرا اور وہ اپنی چھتریوں پر گر کر رہ گیا۔ تو جو مال اس نے اس پر خرچ کیا تھا اس پر (حسرت سے) ہاتھ ملنے لگا اور کہنے لگا کہ کاش میں اپنے پروردگار کے ساتھ کسی کو شریک نہ بناتا
+
+[Open on Quran.com](https://quran.com/18/42)
+
+#### 24:44 · [[024 An-Nur]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يُقَلِّبُ ٱللَّهُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّأُو۟لِى ٱلْأَبْصَـٰرِ
+
+</div>
+
+**Word in this verse:** `يُقَلِّبُ` — Allah alternates
+
+**English (Sahih International):** Allāh alternates the night and the day. Indeed in that is a lesson for those who have vision.
+
+**English (Yusuf Ali):** It is Allah Who alternates the Night and the Day: verily in these things is an instructive example for those who have vision!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی رات اور دن کو بدلتا رہتا ہے۔ اہل بصارت کے لئے اس میں بڑی عبرت ہے
+
+[Open on Quran.com](https://quran.com/24/44)
+
+#### 33:66 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِى ٱلنَّارِ يَقُولُونَ يَـٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠
+
+</div>
+
+**Word in this verse:** `تُقَلَّبُ` — will be turned about
+
+**English (Sahih International):** The Day their faces will be turned about in the Fire, they will say, "How we wish we had obeyed Allāh and obeyed the Messenger."
+
+**English (Yusuf Ali):** The Day that their faces will be turned upside down in the Fire, they will say: "Woe to us! Would that we had obeyed Allah and obeyed the Messenger!"
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن ان کے منہ آگ میں الٹائے جائیں گے کہیں اے کاش ہم خدا کی فرمانبرداری کرتے اور رسول (خدا) کا حکم مانتے
+
+[Open on Quran.com](https://quran.com/33/66)
+

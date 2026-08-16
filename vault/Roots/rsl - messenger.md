@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** messenger · **Root:** رسل
 
+
 ### Words (wikilinks — these create the graph)
 - [[>rsl - we sent]]
 - [[mrsl - messengers]]
+- [[mrsl - senders]]
 - [[rsAlp - messages]]
 - [[rswl - messenger]]
 

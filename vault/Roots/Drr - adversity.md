@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** adversity · **Root:** ضرر
 
+
 ### Words (wikilinks — these create the graph)
 - [[ADTr - forced]]
 - [[Dr - adversity]]
+- [[Dr - any harm]]
 - [[DrA' - hardship]]
 - [[yDr - harms them]]
 

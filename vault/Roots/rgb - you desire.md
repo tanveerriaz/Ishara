@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** you desire · **Root:** رغب
 
+
 ### Words (wikilinks — these create the graph)
 - [[rAgb - turn hopes]]
 - [[yrgb - you desire]]

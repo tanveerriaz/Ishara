@@ -2,8 +2,8 @@
 type: word
 lemma: "قَبْل"
 slug: "qbl - before"
-surah_count: 62
-ayah_count: 242
+surah_count: 61
+ayah_count: 235
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **before** · Lemma **قَبْل**
 
-### Surahs (62)
+### Surahs (61)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -176,24 +176,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/118)
 
-#### 2:177 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ
-
-</div>
-
-**Word in this verse:** `قِبَلَ` — towards
-
-**English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
-
-**English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
-
-**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
-
-[Open on Quran.com](https://quran.com/2/177)
-
 #### 2:183 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -230,5 +212,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/198)
 
-_…and **232** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 2:214 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم ۖ مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ وَزُلْزِلُوا۟ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ مَتَىٰ نَصْرُ ٱللَّهِ ۗ أَلَآ إِنَّ نَصْرَ ٱللَّهِ قَرِيبٌ
+
+</div>
+
+**Word in this verse:** `قَبْلِكُم ۖ` — before you
+
+**English (Sahih International):** Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, "When is the help of Allāh?" Unquestionably, the help of Allāh is near.
+
+**English (Yusuf Ali):** Or do ye think that ye shall enter the Garden (of bliss) without such (trials) as came to those who passed away before you? they encountered suffering and adversity, and were so shaken in spirit that even the Messenger and those of faith who were with him cried: "When (will come) the help of Allah?" Ah! Verily, the help of Allah is (always) near!
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم یہ خیال کرتے ہو کہ (یوں ہی) بہشت میں داخل ہوجاؤ گے اور ابھی تم کو پہلے لوگوں کی سی (مشکلیں) تو پیش آئی ہی نہیں۔ ان کو (بڑی بڑی) سختیاں اور تکلیفیں پہنچیں اور وہ (صعوبتوں میں) ہلا ہلا دیئے گئے۔ یہاں تک کہ پیغمبر اور مومن لوگ جو ان کے ساتھ تھے سب پکار اٹھے کہ کب خدا کی مدد آئے گی ۔ دیکھو خدا کی مدد (عن) قریب (آيا چاہتی) ہے
+
+[Open on Quran.com](https://quran.com/2/214)
+
+_…and **225** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

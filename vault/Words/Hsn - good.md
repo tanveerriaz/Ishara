@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "حُسْن"
+lemma: "حَسَن"
 slug: "Hsn - good"
-surah_count: 24
-ayah_count: 36
+surah_count: 16
+ayah_count: 20
 tags: [word, meaning]
 ---
 
@@ -17,28 +17,20 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[Hsn - good]]
 
 ### Meaning
-**good** · Lemma **حُسْن**
+**good** · Lemma **حَسَن**
 
-### Surahs (24)
+### Surahs (16)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
-- [[004 An-Nisa]]
 - [[005 Al-Maidah]]
 - [[008 Al-Anfal]]
 - [[011 Hud]]
-- [[013 Ar-Rad]]
 - [[016 An-Nahl]]
 - [[018 Al-Kahf]]
 - [[020 Taha]]
 - [[022 Al-Hajj]]
-- [[025 Al-Furqan]]
-- [[027 An-Naml]]
 - [[028 Al-Qasas]]
-- [[029 Al-Ankabut]]
-- [[033 Al-Ahzab]]
 - [[035 Fatir]]
-- [[038 Sad]]
-- [[042 Ash-Shuraa]]
 - [[048 Al-Fath]]
 - [[055 Ar-Rahman]]
 - [[057 Al-Hadid]]
@@ -48,24 +40,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:83 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِذْ أَخَذْنَا مِيثَـٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ
-
-</div>
-
-**Word in this verse:** `حُسْنًۭا` — good
-
-**English (Sahih International):** And [recall] when We took the covenant from the Children of Israel, [enjoining upon them], "Do not worship except Allāh; and to parents do good and to relatives, orphans, and the needy. And speak to people good [words] and establish prayer and give zakāh." Then you turned away, except a few of you, and you were refusing.
-
-**English (Yusuf Ali):** And remember We took a covenant from the Children of Israel (to this effect): Worship none but Allah; treat with kindness your parents and kindred, and orphans and those in need; speak fair to the people; be steadfast in prayer; and practise regular charity. Then did ye turn back, except a few among you, and ye backslide (even now).
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے بنی اسرائیل سے عہد لیا کہ خدا کے سوا کسی کی عبادت نہ کرنا اور ماں باپ اور رشتہ داروں اور یتیموں اور محتاجوں کے ساتھ بھلائی کرتے رہنا اور لوگوں سے اچھی باتیں کہنا، اور نماز پڑھتے اور زکوٰة دیتے رہنا، تو چند شخصوں کے سوا تم سب (اس عہد سے) منہ پھیر کر پھر بیٹھے
-
-[Open on Quran.com](https://quran.com/2/83)
 
 #### 2:245 · [[002 Al-Baqarah]]
 
@@ -85,24 +59,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/245)
 
-#### 3:14 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلْبَنِينَ وَٱلْقَنَـٰطِيرِ ٱلْمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلْفِضَّةِ وَٱلْخَيْلِ ٱلْمُسَوَّمَةِ وَٱلْأَنْعَـٰمِ وَٱلْحَرْثِ ۗ ذَٰلِكَ مَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلْمَـَٔابِ
-
-</div>
-
-**Word in this verse:** `حُسْنُ` — (is an) excellent
-
-**English (Sahih International):** Beautified for people is the love of that which they desire - of women and sons, heaped-up sums of gold and silver, fine branded horses, and cattle and tilled land. That is the enjoyment of worldly life, but Allāh has with Him the best return [i.e., Paradise].
-
-**English (Yusuf Ali):** Fair in the eyes of men is the love of things they covet: Women and sons; Heaped-up hoards of gold and silver; horses branded (for blood and excellence); and (wealth of) cattle and well-tilled land. Such are the possessions of this world's life; but in nearness to Allah is the best of the goals (To return to).
-
-**Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
-
-[Open on Quran.com](https://quran.com/3/14)
-
 #### 3:37 · [[003 Ali Imran]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -120,60 +76,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** تو پروردگار نے اس کو پسندیدگی کے ساتھ قبول فرمایا اور اسے اچھی طرح پرورش کیا اور زکریا کو اس کا متکفل بنایا زکریا جب کبھی عبادت گاہ میں اس کے پاس جاتے تو اس کے پاس کھانا پاتے (یہ کیفیت دیکھ کر ایک دن مریم سے) پوچھنے لگے کہ مریم یہ کھانا تمہارے پاس کہاں سے آتا ہے وہ بولیں خدا کے ہاں سے (آتا ہے) بیشک خدا جسے چاہتا ہے بے شمار رزق دیتا ہے
 
 [Open on Quran.com](https://quran.com/3/37)
-
-#### 3:148 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنْيَا وَحُسْنَ ثَوَابِ ٱلْـَٔاخِرَةِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ
-
-</div>
-
-**Word in this verse:** `وَحُسْنَ` — and good
-
-**English (Sahih International):** So Allāh gave them the reward of this world and the good reward of the Hereafter. And Allāh loves the doers of good.
-
-**English (Yusuf Ali):** And Allah gave them a reward in this world, and the excellent reward of the Hereafter. For Allah Loveth those who do good.
-
-**Urdu (Fatah Muhammad Jalandhari):** تو خدا نے ان کو دنیا میں بھی بدلہ دیا اور آخرت میں بھی بہت اچھا بدلہ (دے گا) اور خدا نیکو کاروں کو دوست رکھتا ہے
-
-[Open on Quran.com](https://quran.com/3/148)
-
-#### 3:195 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَـٰمِلٍ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَـٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ثَوَابًا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ
-
-</div>
-
-**Word in this verse:** `حُسْنُ` — (is the) best
-
-**English (Sahih International):** And their Lord responded to them, "Never will I allow to be lost the work of [any] worker among you, whether male or female; you are of one another. So those who emigrated or were evicted from their homes or were harmed in My cause or fought or were killed - I will surely remove from them their misdeeds, and I will surely admit them to gardens beneath which rivers flow as reward from Allāh, and Allāh has with Him the best reward."
-
-**English (Yusuf Ali):** And their Lord hath accepted of them, and answered them: "Never will I suffer to be lost the work of any of you, be he male or female: Ye are members, one of another: Those who have left their homes, or been driven out therefrom, or suffered harm in My Cause, or fought or been slain,- verily, I will blot out from them their iniquities, and admit them into Gardens with rivers flowing beneath;- A reward from the presence of Allah, and from His presence is the best of rewards."
-
-**Urdu (Fatah Muhammad Jalandhari):** تو ان کے پرردگار نے ان کی دعا قبول کر لی (اور فرمایا) کہ میں کسی عمل کرنے والے کے عمل کو مرد ہو یا عورت ضائع نہیں کرتا تم ایک دوسرے کی جنس ہو تو جو لوگ میرے لیے وطن چھوڑ گئے اور اپنے گھروں سے نکالے گئے اور ستائے گئے اور لڑے اور قتل کیے گئے میں ان کے گناہ دور کردوں گا اور ان کو بہشتوں میں داخل کروں گا جن کے نیچے نہریں بہ رہی ہیں (یہ) خدا کے ہاں سے بدلہ ہے اور خدا کے ہاں اچھا بدلہ ہے
-
-[Open on Quran.com](https://quran.com/3/195)
-
-#### 4:69 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَمَن يُطِعِ ٱللَّهَ وَٱلرَّسُولَ فَأُو۟لَـٰٓئِكَ مَعَ ٱلَّذِينَ أَنْعَمَ ٱللَّهُ عَلَيْهِم مِّنَ ٱلنَّبِيِّـۧنَ وَٱلصِّدِّيقِينَ وَٱلشُّهَدَآءِ وَٱلصَّـٰلِحِينَ ۚ وَحَسُنَ أُو۟لَـٰٓئِكَ رَفِيقًا
-
-</div>
-
-**Word in this verse:** `وَحَسُنَ` — And excellent
-
-**English (Sahih International):** And whoever obeys Allāh and the Messenger - those will be with the ones upon whom Allāh has bestowed favor of the prophets, the steadfast affirmers of truth, the martyrs and the righteous. And excellent are those as companions.
-
-**English (Yusuf Ali):** All who obey Allah and the messenger are in the company of those on whom is the Grace of Allah,- of the prophets (who teach), the sincere (lovers of Truth), the witnesses (who testify), and the Righteous (who do good): Ah! what a beautiful fellowship!
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا اور اس کے رسول کی اطاعت کرتے ہیں وہ (قیامت کے روز) ان لوگوں کے ساتھ ہوں گے جن پر خدا نے بڑا فضل کیا یعنی انبیاء اور صدیق اور شہید اور نیک لوگ اور ان لوگوں کی رفاقت بہت ہی خوب ہے
-
-[Open on Quran.com](https://quran.com/4/69)
 
 #### 5:12 · [[005 Al-Maidah]]
 
@@ -229,5 +131,95 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/11/3)
 
-_…and **26** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 11:88 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ يَـٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًا ۚ وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ ۚ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَـٰحَ مَا ٱسْتَطَعْتُ ۚ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ
+
+</div>
+
+**Word in this verse:** `حَسَنًۭا ۚ` — a good provision
+
+**English (Sahih International):** He said, "O my people, have you considered: if I am upon clear evidence from my Lord and He has provided me with a good provision from Him...? And I do not intend to differ from you in that which I have forbidden you; I only intend reform as much as I am able. And my success is not but through Allāh. Upon Him I have relied, and to Him I return.
+
+**English (Yusuf Ali):** He said: "O my people! see ye whether I have a Clear (Sign) from my Lord, and He hath given me sustenance (pure and) good as from Himself? I wish not, in opposition to you, to do that which I forbid you to do. I only desire (your) betterment to the best of my power; and my success (in my task) can only come from Allah. In Him I trust, and unto Him I look.
+
+**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ اے قوم! دیکھو تو اگر میں اپنے پروردگار کی طرف سے دلیل روشن پر ہوں اور اس نے اپنے ہاں سے مجھے نیک روزی دی ہو (تو کیا میں ان کے خلاف کروں گا؟) اور میں نہیں چاہتا کہ جس امر سے میں تمہیں منع کروں خود اس کو کرنے لگوں۔ میں تو جہاں تک مجھ سے ہوسکے (تمہارے معاملات کی) اصلاح چاہتا ہوں اور (اس بارے میں) مجھے توفیق کا ملنا خدا ہی (کے فضل) سے ہے۔ میں اسی پر بھروسہ رکھتا ہوں اور اس کی طرف رجوع کرتا ہوں
+
+[Open on Quran.com](https://quran.com/11/88)
+
+#### 16:67 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلْأَعْنَـٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `حَسَنًا ۗ` — good
+
+**English (Sahih International):** And from the fruits of the palm trees and grapevines you take intoxicant and good provision. Indeed in that is a sign for a people who reason.
+
+**English (Yusuf Ali):** And from the fruit of the date-palm and the vine, ye get out wholesome drink and food: behold, in this also is a sign for those who are wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کھجور اور انگور کے میووں سے بھی (تم پینے کی چیزیں تیار کرتے ہو کہ ان سے شراب بناتے ہو) اور عمدہ رزق (کھاتے ہو) جو لوگ سمجھ رکھتے ہیں ان کے لیے ان (چیزوں) میں (قدرت خدا کی) نشانی ہے
+
+[Open on Quran.com](https://quran.com/16/67)
+
+#### 16:75 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ ضَرَبَ ٱللَّهُ مَثَلًا عَبْدًا مَّمْلُوكًا لَّا يَقْدِرُ عَلَىٰ شَىْءٍ وَمَن رَّزَقْنَـٰهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنفِقُ مِنْهُ سِرًّا وَجَهْرًا ۖ هَلْ يَسْتَوُۥنَ ۚ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `حَسَنًۭا` — good
+
+**English (Sahih International):** Allāh presents an example: a slave [who is] owned and unable to do a thing and he to whom We have provided from Us good provision, so he spends from it secretly and publicly. Can they be equal? Praise to Allāh! But most of them do not know.
+
+**English (Yusuf Ali):** Allah sets forth the Parable (of two men: one) a slave under the dominion of another; He has no power of any sort; and (the other) a man on whom We have bestowed goodly favours from Ourselves, and he spends thereof (freely), privately and publicly: are the two equal? (By no means;) praise be to Allah. But most of them understand not.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ایک اور مثال بیان فرماتا ہے کہ ایک غلام ہے جو (بالکل) دوسرے کے اختیار میں ہے اور کسی چیز پر قدرت نہیں رکھتا اور ایک ایسا شخص ہے جس کو ہم نے اپنے ہاں سے (بہت سا) مال طیب عطا فرمایا ہے اور وہ اس میں سے (رات دن) پوشیدہ اور ظاہر خرچ کرتا رہتا ہے تو کیا یہ دونوں شخص برابر ہیں؟ (ہرگز نہیں) الحمدلله لیکن ان میں سے اکثر لوگ نہیں سمجھ رکھتے
+
+[Open on Quran.com](https://quran.com/16/75)
+
+#### 18:2 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَيِّمًا لِّيُنذِرَ بَأْسًا شَدِيدًا مِّن لَّدُنْهُ وَيُبَشِّرَ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمْ أَجْرًا حَسَنًا
+
+</div>
+
+**Word in this verse:** `حَسَنًۭا` — (is) a good reward
+
+**English (Sahih International):** [He has made it] straight, to warn of severe punishment from Him and to give good tidings to the believers who do righteous deeds that they will have a good reward [i.e., Paradise].
+
+**English (Yusuf Ali):** (He hath made it) Straight (and Clear) in order that He may warn (the godless) of a terrible Punishment from Him, and that He may give Glad Tidings to the Believers who work righteous deeds, that they shall have a goodly Reward,
+
+**Urdu (Fatah Muhammad Jalandhari):** سیدھی (اور سلیس اتاری) تاکہ لوگوں کو عذاب سخت سے جو اس کی طرف سے (آنے والا) ہے ڈرائے اور مومنوں کو جو نیک عمل کرتے ہیں خوشخبری سنائے کہ اُن کے لئے (ان کے کاموں کا) نیک بدلہ (یعنی) بہشت ہے
+
+[Open on Quran.com](https://quran.com/18/2)
+
+#### 20:86 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَـٰنَ أَسِفًا ۚ قَالَ يَـٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى
+
+</div>
+
+**Word in this verse:** `حَسَنًا ۚ` — good
+
+**English (Sahih International):** So Moses returned to his people, angry and grieved. He said, "O my people, did your Lord not make you a good promise? Then, was the time [of its fulfillment] too long for you, or did you wish that wrath from your Lord descend upon you, so you broke your promise [of obedience] to me?"
+
+**English (Yusuf Ali):** So Moses returned to his people in a state of indignation and sorrow. He said: "O my people! did not your Lord make a handsome promise to you? Did then the promise seem to you long (in coming)? Or did ye desire that Wrath should descend from your Lord on you, and so ye broke your promise to me?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ غصّے اور غم کی حالت میں اپنی قوم کے پاس واپس آئے (اور) کہنے لگے کہ اے قوم کیا تمہارے پروردگار نے تم سے ایک اچھا وعدہ نہیں کیا تھا؟ کیا (میری جدائی کی) مدت تمہیں دراز (معلوم) ہوئی یا تم نے چاہا کہ تم پر تمہارے پروردگار کی طرف سے غضب نازل ہو۔ اور (اس لئے) تم نے مجھ سے جو وعدہ کیا تھا (اس کے) خلاف کیا
+
+[Open on Quran.com](https://quran.com/20/86)
+
+_…and **10** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

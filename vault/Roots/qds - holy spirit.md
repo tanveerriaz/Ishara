@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** holy spirit · **Root:** قدس
 
+
 ### Words (wikilinks — these create the graph)
 - [[qds - holy spirit]]
 

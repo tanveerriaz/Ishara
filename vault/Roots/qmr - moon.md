@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** moon · **Root:** قمر
 
+
 ### Words (wikilinks — these create the graph)
 - [[qmr - moon]]
 

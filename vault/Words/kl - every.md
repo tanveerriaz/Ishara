@@ -3,7 +3,7 @@ type: word
 lemma: "كُلّ"
 slug: "kl - every"
 surah_count: 73
-ayah_count: 342
+ayah_count: 341
 tags: [word, meaning]
 ---
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/164)
 
-_…and **332** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **331** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

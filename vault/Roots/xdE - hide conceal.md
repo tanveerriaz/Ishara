@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hide conceal · **Root:** خدع
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

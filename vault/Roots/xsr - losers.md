@@ -11,10 +11,12 @@ tags: [root, meaning]
 
 **Sense:** losers · **Root:** خسر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>xsr - greatest losers]]
 - [[xAsr - losers]]
 - [[xsAr - loss]]
+- [[xsr - loss]]
 - [[xsr - lost]]
 - [[xsrAn - loss]]
 

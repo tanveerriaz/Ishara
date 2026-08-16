@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fold · **Root:** طوي
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** you remained · **Root:** لبث
 
+
 ### Words (wikilinks — these create the graph)
 - [[lbv - you remained]]
 

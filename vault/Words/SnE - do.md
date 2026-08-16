@@ -2,8 +2,8 @@
 type: word
 lemma: "صَنَعُ"
 slug: "SnE - do"
-surah_count: 12
-ayah_count: 16
+surah_count: 10
+ayah_count: 14
 tags: [word, meaning]
 ---
 
@@ -19,17 +19,15 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **do** · Lemma **صَنَعُ**
 
-### Surahs (12)
+### Surahs (10)
 - [[005 Al-Maidah]]
 - [[007 Al-Araf]]
 - [[011 Hud]]
 - [[013 Ar-Rad]]
 - [[016 An-Nahl]]
-- [[018 Al-Kahf]]
 - [[020 Taha]]
 - [[023 Al-Muminun]]
 - [[024 An-Nur]]
-- [[027 An-Naml]]
 - [[029 Al-Ankabut]]
 - [[035 Fatir]]
 
@@ -181,24 +179,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/16/112)
 
-#### 18:104 · [[018 Al-Kahf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلَّذِينَ ضَلَّ سَعْيُهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ يَحْسَبُونَ أَنَّهُمْ يُحْسِنُونَ صُنْعًا
-
-</div>
-
-**Word in this verse:** `صُنْعًا` — (in) work
-
-**English (Sahih International):** [They are] those whose effort is lost in worldly life, while they think that they are doing well in work."
-
-**English (Yusuf Ali):** "Those whose efforts have been wasted in this life, while they thought that they were acquiring good by their works?"
-
-**Urdu (Fatah Muhammad Jalandhari):** وہ لوگ جن کی سعی دنیا کی زندگی میں برباد ہوگئی۔ اور وہ یہ سمجھے ہوئے ہیں کہ اچھے کام کر رہے ہیں
-
-[Open on Quran.com](https://quran.com/18/104)
-
 #### 20:39 · [[020 Taha]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -217,5 +197,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/20/39)
 
-_…and **6** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 20:69 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ ۖ إِنَّمَا صَنَعُوا۟ كَيْدُ سَـٰحِرٍ ۖ وَلَا يُفْلِحُ ٱلسَّاحِرُ حَيْثُ أَتَىٰ
+
+</div>
+
+**Word in this verse:** `صَنَعُوٓا۟ ۖ` — they have made
+
+**English (Sahih International):** And throw what is in your right hand; it will swallow up what they have crafted. What they have crafted is but the trick of a magician, and the magician will not succeed wherever he is."
+
+**English (Yusuf Ali):** "Throw that which is in thy right hand: Quickly will it swallow up that which they have faked what they have faked is but a magician's trick: and the magician thrives not, (no matter) where he goes."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو چیز (یعنی لاٹھی) تمہارے داہنے ہاتھ میں ہے اسے ڈال دو کہ جو کچھ انہوں نے بنایا ہے اس کو نگل جائے گی۔ جو کچھ انہوں نے بنایا ہے (یہ تو) جادوگروں کے ہتھکنڈے ہیں اور جادوگر جہاں جائے فلاح نہیں پائے گا
+
+[Open on Quran.com](https://quran.com/20/69)
+
+_…and **4** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** clouds · **Root:** سحب
 
+
 ### Words (wikilinks — these create the graph)
 - [[sHAb - clouds]]
 

@@ -2,8 +2,8 @@
 type: word
 lemma: "عالَم"
 slug: "EAlm - worlds"
-surah_count: 39
-ayah_count: 91
+surah_count: 30
+ayah_count: 73
 tags: [word, meaning]
 ---
 
@@ -19,32 +19,32 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **worlds** · Lemma **عالَم**
 
-### Surahs (39)
+### Surahs (30)
 - [[001 Al-Fatihah]]
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
-- [[009 At-Tawbah]]
 - [[010 Yunus]]
 - [[012 Yusuf]]
-- [[013 Ar-Rad]]
 - [[015 Al-Hijr]]
 - [[021 Al-Anbya]]
-- [[023 Al-Muminun]]
 - [[025 Al-Furqan]]
 - [[026 Ash-Shuara]]
 - [[027 An-Naml]]
 - [[028 Al-Qasas]]
 - [[029 Al-Ankabut]]
-- [[030 Ar-Rum]]
 - [[032 As-Sajdah]]
-- [[034 Saba]]
-- [[035 Fatir]]
 - [[037 As-Saffat]]
 - [[038 Sad]]
 - [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[041 Fussilat]]
+- [[043 Az-Zukhruf]]
+- [[044 Ad-Dukhan]]
+- [[045 Al-Jathiyah]]
+- [[056 Al-Waqiah]]
 
 ## Verses (full text)
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/108)
 
-_…and **81** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **63** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

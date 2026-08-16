@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we established · **Root:** مكن
 
+
 ### Words (wikilinks — these create the graph)
 - [[mk - we established]]
 - [[mkyn - firmly established]]

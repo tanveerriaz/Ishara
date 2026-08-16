@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** walled place · **Root:** جدر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

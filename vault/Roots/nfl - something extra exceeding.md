@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** something extra exceeding · **Root:** نفل
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

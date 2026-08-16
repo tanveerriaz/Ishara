@@ -2,8 +2,8 @@
 type: word
 lemma: "مَرَّة"
 slug: "mrp - time"
-surah_count: 13
-ayah_count: 20
+surah_count: 12
+ayah_count: 19
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **time** · Lemma **مَرَّة**
 
-### Surahs (13)
+### Surahs (12)
 - [[002 Al-Baqarah]]
 - [[006 Al-Anam]]
 - [[008 Al-Anfal]]
@@ -32,7 +32,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[033 Al-Ahzab]]
 - [[036 Ya-Sin]]
 - [[041 Fussilat]]
-- [[053 An-Najm]]
 
 ## Verses (full text)
 
@@ -218,5 +217,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/17/4)
 
-_…and **10** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **9** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

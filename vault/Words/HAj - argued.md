@@ -2,8 +2,8 @@
 type: word
 lemma: "حاجَّ"
 slug: "HAj - argued"
-surah_count: 5
-ayah_count: 11
+surah_count: 4
+ayah_count: 10
 tags: [word, meaning]
 ---
 
@@ -19,11 +19,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **argued** · Lemma **حاجَّ**
 
-### Surahs (5)
+### Surahs (4)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[006 Al-Anam]]
-- [[009 At-Tawbah]]
 - [[042 Ash-Shuraa]]
 
 ## Verses (full text)
@@ -192,23 +191,21 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/80)
 
-#### 9:19 · [[009 At-Tawbah]]
+#### 42:16 · [[042 Ash-Shuraa]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-۞ أَجَعَلْتُمْ سِقَايَةَ ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَجَـٰهَدَ فِى سَبِيلِ ٱللَّهِ ۚ لَا يَسْتَوُۥنَ عِندَ ٱللَّهِ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ
+وَٱلَّذِينَ يُحَآجُّونَ فِى ٱللَّهِ مِنۢ بَعْدِ مَا ٱسْتُجِيبَ لَهُۥ حُجَّتُهُمْ دَاحِضَةٌ عِندَ رَبِّهِمْ وَعَلَيْهِمْ غَضَبٌ وَلَهُمْ عَذَابٌ شَدِيدٌ
 
 </div>
 
-**Word in this verse:** `ٱلْحَآجِّ` — (to) the pilgrims
+**Word in this verse:** `يُحَآجُّونَ` — argue
 
-**English (Sahih International):** Have you made the providing of water for the pilgrim and the maintenance of al-Masjid al-Ḥarām equal to [the deeds of] one who believes in Allāh and the Last Day and strives in the cause of Allāh? They are not equal in the sight of Allāh. And Allāh does not guide the wrongdoing people.
+**English (Sahih International):** And those who argue concerning Allāh after He has been responded to - their argument is invalid with their Lord, and upon them is [His] wrath, and for them is a severe punishment.
 
-**English (Yusuf Ali):** Do ye make the giving of drink to pilgrims, or the maintenance of the Sacred Mosque, equal to (the pious service of) those who believe in Allah and the Last Day, and strive with might and main in the cause of Allah? They are not comparable in the sight of Allah: and Allah guides not those who do wrong.
+**English (Yusuf Ali):** But those who dispute concerning Allah after He has been accepted,- futile is their dispute in the Sight of their Lord: on them will be a Penalty terrible.
 
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے حاجیوں کو پانی پلانا اور مسجد محترم یعنی (خانہٴ کعبہ) کو آباد کرنا اس شخص کے اعمال جیسا خیال کیا ہے جو خدا اور روز آخرت پر ایمان رکھتا ہے اور خدا کی راہ میں جہاد کرتا ہے۔ یہ لوگ خدا کے نزدیک برابر نہیں ہیں۔ اور خدا ظالم لوگوں کو ہدایت نہیں دیا کرتا
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا (کے بارے) میں بعد اس کے کہ اسے (مومنوں نے) مان لیا ہو جھگڑتے ہیں ان کے پروردگار کے نزدیک ان کا جھگڑا لغو ہے۔ اور ان پر (خدا کا) غضب اور ان کے لئے سخت عذاب ہے
 
-[Open on Quran.com](https://quran.com/9/19)
-
-_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+[Open on Quran.com](https://quran.com/42/16)
 

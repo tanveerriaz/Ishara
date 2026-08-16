@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** desires · **Root:** هوي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>hwA' - desires]]
 - [[hwA' - desire]]

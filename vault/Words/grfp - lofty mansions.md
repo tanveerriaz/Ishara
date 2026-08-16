@@ -2,8 +2,8 @@
 type: word
 lemma: "غُرْفَة"
 slug: "grfp - lofty mansions"
-surah_count: 5
-ayah_count: 5
+surah_count: 4
+ayah_count: 4
 tags: [word, meaning]
 ---
 
@@ -19,11 +19,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **lofty mansions** · Lemma **غُرْفَة**
 
-### Surahs (5)
+### Surahs (4)
 - [[002 Al-Baqarah]]
 - [[025 Al-Furqan]]
 - [[029 Al-Ankabut]]
-- [[034 Saba]]
 - [[039 Az-Zumar]]
 
 ## Verses (full text)
@@ -83,24 +82,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے اُن کو ہم بہشت کے اُونچے اُونچے محلوں میں جگہ دیں گے۔ جن کے نیچے نہریں بہ رہی ہیں۔ ہمیشہ ان میں رہیں گے۔ (نیک )عمل کرنے والوں کا (یہ) خوب بدلہ ہے
 
 [Open on Quran.com](https://quran.com/29/58)
-
-#### 34:37 · [[034 Saba]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَمَآ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُم بِٱلَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ إِلَّا مَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًا فَأُو۟لَـٰٓئِكَ لَهُمْ جَزَآءُ ٱلضِّعْفِ بِمَا عَمِلُوا۟ وَهُمْ فِى ٱلْغُرُفَـٰتِ ءَامِنُونَ
-
-</div>
-
-**Word in this verse:** `ٱلْغُرُفَـٰتِ` — the high dwellings
-
-**English (Sahih International):** And it is not your wealth or your children that bring you nearer to Us in position, but it is [by being] one who has believed and done righteousness. For them there will be the double reward for what they did, and they will be in the upper chambers [of Paradise], safe [and secure].
-
-**English (Yusuf Ali):** It is not your wealth nor your sons, that will bring you nearer to Us in degree: but only those who believe and work righteousness - these are the ones for whom there is a multiplied Reward for their deeds, while secure they (reside) in the dwellings on high!
-
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا مال اور اولاد ایسی چیز نہیں کہ تم کو ہمارا مقرب بنا دیں۔ ہاں (ہمارا مقرب وہ ہے) جو ایمان لایا اور عمل نیک کرتا رہا۔ ایسے ہی لوگوں کو ان کے اعمال کے سبب دگنا بدلہ ملے گا اور وہ خاطر جمع سے بالاخانوں میں بیٹھے ہوں گے
-
-[Open on Quran.com](https://quran.com/34/37)
 
 #### 39:20 · [[039 Az-Zumar]]
 

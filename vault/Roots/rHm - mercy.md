@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** mercy · **Root:** رحم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>rHAm - wombs]]
 - [[>rHm - merciful]]

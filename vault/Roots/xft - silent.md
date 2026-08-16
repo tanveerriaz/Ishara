@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** silent · **Root:** خفت
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

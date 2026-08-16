@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "ثُلاث"
+lemma: "ثَلاث"
 slug: "vlAv - three"
-surah_count: 9
-ayah_count: 9
+surah_count: 7
+ayah_count: 7
 tags: [word, meaning]
 ---
 
@@ -17,15 +17,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[vlv - three]]
 
 ### Meaning
-**three** · Lemma **ثُلاث**
+**three** · Lemma **ثَلاث**
 
-### Surahs (9)
-- [[004 An-Nisa]]
+### Surahs (7)
 - [[007 Al-Araf]]
 - [[018 Al-Kahf]]
 - [[019 Maryam]]
 - [[024 An-Nur]]
-- [[035 Fatir]]
 - [[039 Az-Zumar]]
 - [[046 Al-Ahqaf]]
 - [[077 Al-Mursalat]]
@@ -33,24 +31,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 4:3 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَـٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَـٰنُكُمْ ۚ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟
-
-</div>
-
-**Word in this verse:** `وَثُلَـٰثَ` — or three
-
-**English (Sahih International):** And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hands possess [i.e., slaves]. That is more suitable that you may not incline [to injustice].
-
-**English (Yusuf Ali):** If ye fear that ye shall not be able to deal justly with the orphans, Marry women of your choice, Two or three or four; but if ye fear that ye shall not be able to deal justly (with them), then only one, or (a captive) that your right hands possess, that will be more suitable, to prevent you from doing injustice.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو اس بات کا خوف ہو کہ یتیم لڑکیوں کے بارےانصاف نہ کرسکوگے تو ان کے سوا جو عورتیں تم کو پسند ہوں دو دو یا تین تین یا چار چار ان سے نکاح کرلو۔ اور اگر اس بات کا اندیشہ ہو کہ (سب عورتوں سے) یکساں سلوک نہ کرسکو گے تو ایک عورت (کافی ہے) یا لونڈی جس کے تم مالک ہو۔ اس سے تم بےانصافی سے بچ جاؤ گے
-
-[Open on Quran.com](https://quran.com/4/3)
 
 #### 7:142 · [[007 Al-Araf]]
 
@@ -123,24 +103,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** مومنو! تمہارے غلام لونڈیاں اور جو بچّے تم میں سے بلوغ کو نہیں پہنچے تین دفعہ یعنی (تین اوقات میں) تم سے اجازت لیا کریں۔ (ایک تو) نماز صبح سے پہلے اور (دوسرے گرمی کی دوپہر کو) جب تم کپڑے اتار دیتے ہو۔ اور تیسرے عشاء کی نماز کے بعد۔ (یہ) تین (وقت) تمہارے پردے (کے) ہیں ان کے (آگے) پیچھے (یعنی دوسرے وقتوں میں) نہ تم پر کچھ گناہ ہے اور نہ ان پر۔ کہ کام کاج کے لئے ایک دوسرے کے پاس آتے رہتے ہو۔ اس طرح خدا اپنی آیتیں تم سے کھول کھول کر بیان فرماتا ہے اور خدا بڑا علم والا اور بڑا حکمت والا ہے
 
 [Open on Quran.com](https://quran.com/24/58)
-
-#### 35:1 · [[035 Fatir]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
- ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَـٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍ مَّثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۚ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-
-</div>
-
-**Word in this verse:** `وَثُلَـٰثَ` — or three
-
-**English (Sahih International):** [All] praise is [due] to Allāh, Creator of the heavens and the earth, [who] made the angels messengers having wings, two or three or four. He increases in creation what He wills. Indeed, Allāh is over all things competent.
-
-**English (Yusuf Ali):** Praise be to Allah, Who created (out of nothing) the heavens and the earth, Who made the angels, messengers with wings,- two, or three, or four (pairs): He adds to Creation as He pleases: for Allah has power over all things.
-
-**Urdu (Fatah Muhammad Jalandhari):** سب تعریف خدا ہی کو (سزاوار ہے) جو آسمانوں اور زمین کا پیدا کرنے والا (اور) فرشتوں کو قاصد بنانے والا ہے جن کے دو دو اور تین تین اور چار چار پر ہیں۔ وہ (اپنی) مخلوقات میں جو چاہتا ہے بڑھاتا ہے۔ بےشک خدا ہر چیز پر قادر ہے
-
-[Open on Quran.com](https://quran.com/35/1)
 
 #### 39:6 · [[039 Az-Zumar]]
 

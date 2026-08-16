@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** pleasure · **Root:** رضو
 
+
 ### Words (wikilinks — these create the graph)
 - [[ArtDY - he approves]]
 - [[mrDAt - pleasure]]

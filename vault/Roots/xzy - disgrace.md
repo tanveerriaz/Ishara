@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** disgrace · **Root:** خزي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>xzy - disgrace me]]
 - [[xzY - disgrace]]

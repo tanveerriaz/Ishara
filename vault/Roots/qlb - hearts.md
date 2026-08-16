@@ -11,9 +11,12 @@ tags: [root, meaning]
 
 **Sense:** hearts · **Root:** قلب
 
+
 ### Words (wikilinks — these create the graph)
 - [[Anqlb - turns back]]
+- [[mnqlb - as return]]
 - [[mnqlb - will return]]
+- [[qlb - had upset]]
 - [[qlb - hearts]]
 - [[tqlb - movement]]
 

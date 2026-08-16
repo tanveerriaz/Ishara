@@ -15,30 +15,30 @@ The Mansions of the Stars · 22 ayahs
 ## Words in this surah (graph)
 
 - [[mjyd - glorious]] — `مَجِيد` · glorious
-- [[ftn - we tried]] — `فَتَنُ` · we tried
-- [[qtl - kill]] — `قَتَلَ` · kill
-- [[nAr - fire]] — `نار` · fire
-- [[qEwd - sitting]] — `قُعُود` · sitting
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[$Y' - thing]] — `شَىْء` · thing
+- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
 - [[m&mn - believers]] — `مُؤْمِن` · believers
+- [[$dyd - severe]] — `شَدِيد` · severe
 - [[rb - lord]] — `رَبّ` · lord
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[kl - every]] — `كُلّ` · every
-- [[ybd} - allah originates]] — `يُبْدِئُ` · allah originates
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[wqwd - fuel]] — `وَقُود` · fuel
-- [[jry - flow]] — `جَرَيْ` · flow
-- [[wrA' - behind]] — `وَراء` · behind
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[Er$ - throne]] — `عَرْش` · throne
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[Eml - do]] — `عَمِلَ` · do
+- [[$hyd - witness]] — `شَهِيد` · witness
+- [[mHyT - all-encompassing]] — `مُحِيط` · all-encompassing
+- [[smA' - heavens]] — `سَماء` · heavens
 - [[allah - God]] — `الله` · God
-- [[fwz - success]] — `فَوْز` · success
+- [[tAb - repent]] — `تابَ` · repent
+- [[Hryq - burning fire]] — `حَرِيق` · burning fire
+- [[qtl - kill]] — `قَتَلَ` · kill
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[ybd} - allah originates]] — `يُبْدِئُ` · allah originates
+- [[$Ahd - witnesses]] — `شاهِد` · witnesses
+- [[>rD - earth]] — `أَرْض` · earth
+- [[m$hwd - witnessed]] — `مَشْهُود` · witnessed
 - [[jnp - gardens]] — `جَنَّة` · gardens
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
 - [[nhr - rivers]] — `نَهَر` · rivers
-- [[tHt - underneath it]] — `تَحْت` · underneath it
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[wrA' - behind]] — `وَراء` · behind
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
 
 ## Roots
 
@@ -61,7 +61,7 @@ The Mansions of the Stars · 22 ayahs
 - [[SHb - companion]]
 - [[SlH - righteous deeds]]
 - [[allah - God]]
-- [[bT$ - you seize]]
+- [[bT$ - power]]
 - [[bd> - originates]]
 - [[brj - constellations]]
 - [[fEl - you do]]

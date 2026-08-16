@@ -2,8 +2,8 @@
 type: word
 lemma: "حَيّ"
 slug: "Hy - living"
-surah_count: 16
-ayah_count: 22
+surah_count: 14
+ayah_count: 20
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **living** · Lemma **حَيّ**
 
-### Surahs (16)
+### Surahs (14)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
-- [[004 An-Nisa]]
 - [[006 Al-Anam]]
 - [[010 Yunus]]
 - [[016 An-Nahl]]
@@ -34,7 +33,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[035 Fatir]]
 - [[036 Ya-Sin]]
 - [[040 Ghafir]]
-- [[058 Al-Mujadila]]
 - [[077 Al-Mursalat]]
 
 ## Verses (full text)
@@ -131,24 +129,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/169)
 
-#### 4:86 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِذَا حُيِّيتُم بِتَحِيَّةٍ فَحَيُّوا۟ بِأَحْسَنَ مِنْهَآ أَوْ رُدُّوهَآ ۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ حَسِيبًا
-
-</div>
-
-**Word in this verse:** `حُيِّيتُم` — you are greeted
-
-**English (Sahih International):** And when you are greeted with a greeting, greet [in return] with one better than it or [at least] return it [in a like manner]. Indeed Allāh is ever, over all things, an Accountant.
-
-**English (Yusuf Ali):** When a (courteous) greeting is offered you, meet it with a greeting still more courteous, or (at least) of equal courtesy. Allah takes careful account of all things.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب تم کو کوئی دعا دے تو (جواب میں) تم اس سے بہتر (کلمے) سے (اسے) دعا دو یا انہیں لفظوں سے دعا دو بےشک خدا ہر چیز کا حساب لینے والا ہے
-
-[Open on Quran.com](https://quran.com/4/86)
-
 #### 6:95 · [[006 Al-Anam]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -221,5 +201,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/19/15)
 
-_…and **12** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 19:31 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَعَلَنِى مُبَارَكًا أَيْنَ مَا كُنتُ وَأَوْصَـٰنِى بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمْتُ حَيًّا
+
+</div>
+
+**Word in this verse:** `حَيًّۭا` — alive
+
+**English (Sahih International):** And He has made me blessed wherever I am and has enjoined upon me prayer and zakāh as long as I remain alive
+
+**English (Yusuf Ali):** "And He hath made me blessed wheresoever I be, and hath enjoined on me Prayer and Charity as long as I live;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور میں جہاں ہوں (اور جس حال میں ہوں) مجھے صاحب برکت کیا ہے اور جب تک زندہ ہوں مجھ کو نماز اور زکوٰة کا ارشاد فرمایا ہے
+
+[Open on Quran.com](https://quran.com/19/31)
+
+_…and **10** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** by pen · **Root:** قلم
 
+
 ### Words (wikilinks — these create the graph)
 - [[qlm - by pen]]
 

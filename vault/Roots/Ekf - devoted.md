@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** devoted · **Root:** عكف
 
+
 ### Words (wikilinks — these create the graph)
 - [[EAkf - devoted]]
 

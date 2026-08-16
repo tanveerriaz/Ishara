@@ -16,29 +16,29 @@ The Believers · 118 ayahs
 
 - [[>n$> - we produced]] — `أَنشَأَ` · we produced
 - [[EZAm - bones]] — `عِظام` · bones
-- [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
-- [[qrAr - settlement]] — `قَرار` · settlement
-- [[ysArE - hasten]] — `يُسارِعُ` · hasten
-- [[kvyrp - many]] — `كَثِيرَة` · many
-- [[rAHm - merciful]] — `راحِم` · merciful
-- [[myzAn - scales]] — `مِيزان` · scales
-- [[trAb - dust]] — `تُراب` · dust
 - [[tEAlY - exalted he]] — `تَعالَى` · exalted he
+- [[jnp - madness]] — `جِنَّة` · madness
 - [[xyrp - good deeds]] — `خَيْرَة` · good deeds
+- [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
+- [[rAHm - merciful]] — `راحِم` · merciful
 - [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
-- [[ySf - they attribute]] — `يَصِفُ` · they attribute
-- [[gmrp - confusion]] — `غَمَرَة` · confusion
-- [[E* - seek refuge]] — `عُذْ` · seek refuge
+- [[gmrp - confusion]] — `غَمْرَة` · confusion
+- [[bEd - away]] — `بُعْد` · away
+- [[qrAr - settlement]] — `قَرار` · settlement
 - [[qAdr - able]] — `قادِر` · able
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[myzAn - scales]] — `مِيزان` · scales
+- [[kvyrp - many]] — `كَثِيرَة` · many
+- [[ySf - they attribute]] — `يَصِفُ` · they attribute
+- [[trAb - dust]] — `تُراب` · dust
+- [[E* - seek refuge]] — `عُذْ` · seek refuge
+- [[ysArE - hasten]] — `يُسارِعُ` · hasten
 - [[yklf - we burden]] — `يُكَلِّفُ` · we burden
-- [[mEyn - water springs]] — `مَعِين` · water springs
-- [[fryq - party]] — `فَرِيق` · party
-- [[lgw - vain talk]] — `لَغْو` · vain talk
-- [[>TAE - obey]] — `أَطاعَ` · obey
-- [[fwAkh - fruits]] — `فَواكِه` · fruits
-- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
-- [[Elm - know]] — `عَلِمَ` · know
+- [[mErD - turn away]] — `مُعْرِض` · turn away
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[ksw - clothe them]] — `كَسَوْ` · clothe them
+- [[xAlq - creator]] — `خالِق` · creator
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[dEA - call]] — `دَعا` · call
 
 ## Roots
 
@@ -53,8 +53,8 @@ The Believers · 118 ayahs
 - [[$rb - drink]]
 - [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*r> - multiplied you]]
 - [[>Hd - anyone]]
 - [[>bw - forefathers]]

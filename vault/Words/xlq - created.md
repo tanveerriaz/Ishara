@@ -1,0 +1,234 @@
+---
+type: word
+lemma: "خَلَقَ"
+slug: "xlq - created"
+surah_count: 71
+ayah_count: 168
+tags: [word, meaning]
+---
+
+# xlq - created
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[xlq - create]]
+
+### Meaning
+**created** · Lemma **خَلَقَ**
+
+### Surahs (71)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[009 At-Tawbah]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[013 Ar-Rad]]
+- [[014 Ibrahim]]
+- [[015 Al-Hijr]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[018 Al-Kahf]]
+- [[019 Maryam]]
+- [[020 Taha]]
+- [[021 Al-Anbya]]
+- [[022 Al-Hajj]]
+- [[023 Al-Muminun]]
+- [[024 An-Nur]]
+- [[025 Al-Furqan]]
+- [[026 Ash-Shuara]]
+- [[027 An-Naml]]
+- [[028 Al-Qasas]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
+
+#### 2:21 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلنَّاسُ ٱعْبُدُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُمْ وَٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
+
+</div>
+
+**Word in this verse:** `خَلَقَكُمْ` — created you
+
+**English (Sahih International):** O mankind, worship your Lord, who created you and those before you, that you may become righteous -
+
+**English (Yusuf Ali):** O ye people! Adore your Guardian-Lord, who created you and those who came before you, that ye may have the chance to learn righteousness;
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو! اپنے پروردگار کی عبات کرو جس نے تم کو اور تم سے پہلے لوگوں کو پیدا کیا تاکہ تم (اس کے عذاب سے) بچو
+
+[Open on Quran.com](https://quran.com/2/21)
+
+#### 2:29 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُوَ ٱلَّذِى خَلَقَ لَكُم مَّا فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبْعَ سَمَـٰوَٰتٍ ۚ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `خَلَقَ` — created
+
+**English (Sahih International):** It is He who created for you all of that which is on the earth. Then He directed Himself to the heaven, [His being above all creation], and made them seven heavens, and He is Knowing of all things.
+
+**English (Yusuf Ali):** It is He Who hath created for you all things that are on earth; Moreover His design comprehended the heavens, for He gave order and perfection to the seven firmaments; and of all things He hath perfect knowledge.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سب چیزیں جو زمین میں ہیں تمہارے لیے پیدا کیں پھر آسمان کی طرف متوجہ ہوا تو ان کو ٹھیک سات آسمان بنا دیا اور وہ ہر چیز سے خبردار ہے
+
+[Open on Quran.com](https://quran.com/2/29)
+
+#### 2:228 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلْمُطَلَّقَـٰتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَـٰثَةَ قُرُوٓءٍ ۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِىٓ أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِى ذَٰلِكَ إِنْ أَرَادُوٓا۟ إِصْلَـٰحًا ۚ وَلَهُنَّ مِثْلُ ٱلَّذِى عَلَيْهِنَّ بِٱلْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
+
+</div>
+
+**Word in this verse:** `خَلَقَ` — (has been) created
+
+**English (Sahih International):** Divorced women remain in waiting [i.e., do not remarry] for three periods, and it is not lawful for them to conceal what Allāh has created in their wombs if they believe in Allāh and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to them [i.e., the wives] is similar to what is expected of them, according to what is reasonable. But the men [i.e., husbands] have a degree over them [in responsibility and authority]. And Allāh is Exalted in Might and Wise.
+
+**English (Yusuf Ali):** Divorced women shall wait concerning themselves for three monthly periods. Nor is it lawful for them to hide what Allah Hath created in their wombs, if they have faith in Allah and the Last Day. And their husbands have the better right to take them back in that period, if they wish for reconciliation. And women shall have rights similar to the rights against them, according to what is equitable; but men have a degree (of advantage) over them. And Allah is Exalted in Power, Wise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
+
+[Open on Quran.com](https://quran.com/2/228)
+
+#### 3:47 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
+
+</div>
+
+**Word in this verse:** `يَخْلُقُ` — creates
+
+**English (Sahih International):** She said, "My Lord, how will I have a child when no man has touched me?" [The angel] said, "Such is Allāh; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is.
+
+**English (Yusuf Ali):** She said: "O my Lord! How shall I have a son when no man hath touched me?" He said: "Even so: Allah createth what He willeth: When He hath decreed a plan, He but saith to it, 'Be,' and it is!
+
+**Urdu (Fatah Muhammad Jalandhari):** مریم نے کہا پروردگار میرے ہاں بچہ کیونکر ہوگا کہ کسی انسان نے مجھے ہاتھ تک تو لگایا نہیں فرمایا کہ خدا اسی طرح جو چاہتا ہے پیدا کرتا ہے جب وہ کوئی کام کرنا چاہتا ہے تو ارشاد فرما دیتا ہے کہ ہوجا تو وہ ہو جاتا ہے
+
+[Open on Quran.com](https://quran.com/3/47)
+
+#### 3:49 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ ۖ أَنِّىٓ أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ ۖ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ ۖ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `أَخْلُقُ` — [I] design
+
+**English (Sahih International):** And [make him] a messenger to the Children of Israel, [who will say], 'Indeed I have come to you with a sign from your Lord in that I design for you from clay [that which is] like the form of a bird, then I breathe into it and it becomes a bird by permission of Allāh. And I cure the blind [from birth] and the leper, and I give life to the dead - by permission of Allāh. And I inform you of what you eat and what you store in your houses. Indeed in that is a sign for you, if you are believers.
+
+**English (Yusuf Ali):** "And (appoint him) a messenger to the Children of Israel, (with this message): "'I have come to you, with a Sign from your Lord, in that I make for you out of clay, as it were, the figure of a bird, and breathe into it, and it becomes a bird by Allah's leave: And I heal those born blind, and the lepers, and I quicken the dead, by Allah's leave; and I declare to you what ye eat, and what ye store in your houses. Surely therein is a Sign for you if ye did believe;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (عیسیٰ) بنی اسرائیل کی طرف پیغمبر (ہو کر جائیں گے اور کہیں گے) کہ میں تمہارے پروردگار کی طرف سے نشانی لے کر آیا ہوں وہ یہ کہ تمہارے سامنے مٹی کی مورت بشکل پرند بناتا ہوں پھر اس میں پھونک مارتا ہوں تو وہ خدا کے حکم سے (سچ مچ) جانور ہو جاتا ہے اور اندھے اور ابرص کو تندرست کر دیتا ہوں اور خدا کے حکم سے مردے میں جان ڈال دیتا ہوں اور جو کچھ تم کھا کر آتے ہو اور جو اپنے گھروں میں جمع کر رکھتے ہو سب تم کو بتا دیتا ہوں اگر تم صاحب ایمان ہو تو ان باتوں میں تمہارے لیے (قدرت خدا کی) نشانی ہے
+
+[Open on Quran.com](https://quran.com/3/49)
+
+#### 3:59 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ
+
+</div>
+
+**Word in this verse:** `خَلَقَهُۥ` — He created him
+
+**English (Sahih International):** Indeed, the example of Jesus to Allāh is like that of Adam. He created him from dust; then He said to him, "Be," and he was.
+
+**English (Yusuf Ali):** The similitude of Jesus before Allah is as that of Adam; He created him from dust, then said to him: "Be". And he was.
+
+**Urdu (Fatah Muhammad Jalandhari):** عیسیٰ کا حال خدا کے نزدیک آدم کا سا ہے کہ اس نے (پہلے) مٹی سے ان کا قالب بنایا پھر فرمایا کہ (انسان) ہو جا تو وہ (انسان) ہو گئے
+
+[Open on Quran.com](https://quran.com/3/59)
+
+#### 3:191 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَـٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَـٰطِلًا سُبْحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
+
+</div>
+
+**Word in this verse:** `خَلَقْتَ` — You have created
+
+**English (Sahih International):** Who remember Allāh while standing or sitting or [lying] on their sides and give thought to the creation of the heavens and the earth, [saying], "Our Lord, You did not create this aimlessly; exalted are You [above such a thing]; then protect us from the punishment of the Fire.
+
+**English (Yusuf Ali):** Men who celebrate the praises of Allah, standing, sitting, and lying down on their sides, and contemplate the (wonders of) creation in the heavens and the earth, (With the thought): "Our Lord! not for naught Hast Thou created (all) this! Glory to Thee! Give us salvation from the penalty of the Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو کھڑے اور بیٹھے اور لیٹے (ہر حال میں) خدا کو یاد کرتے اور آسمان اور زمین کی پیدائش میں غور کرتے (اور کہتے ہیں) کہ اے پروردگار! تو نے اس (مخلوق) کو بے فائدہ نہیں پیدا کیا تو پاک ہے تو (قیامت کے دن) ہمیں دوزخ کے عذاب سے بچائیو
+
+[Open on Quran.com](https://quran.com/3/191)
+
+#### 4:1 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
+
+</div>
+
+**Word in this verse:** `خَلَقَكُم` — created you
+
+**English (Sahih International):** O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allāh, through whom you ask one another, and the wombs. Indeed Allāh is ever, over you, an Observer.
+
+**English (Yusuf Ali):** O mankind! reverence your Guardian-Lord, who created you from a single person, created, of like nature, His mate, and from them twain scattered (like seeds) countless men and women;- reverence Allah, through whom ye demand your mutual (rights), and (reverence) the wombs (That bore you): for Allah ever watches over you.
+
+**Urdu (Fatah Muhammad Jalandhari):** لوگو اپنے پروردگار سے ڈرو جس نے تم کو ایک شخص سے پیدا کیا (یعنی اول) اس سے اس کا جوڑا بنایا۔ پھر ان دونوں سے کثرت سے مرد وعورت (پیدا کرکے روئے زمین پر) پھیلا دیئے۔ اور خدا سے جس کے نام کو تم اپنی حاجت بر آری کا ذریعہ بناتے ہو ڈرو اور (قطع مودت) ارحام سے (بچو) کچھ شک نہیں کہ خدا تمہیں دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/4/1)
+
+#### 4:28 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمْ ۚ وَخُلِقَ ٱلْإِنسَـٰنُ ضَعِيفًا
+
+</div>
+
+**Word in this verse:** `وَخُلِقَ` — and was created
+
+**English (Sahih International):** And Allāh wants to lighten for you [your difficulties]; and mankind was created weak.
+
+**English (Yusuf Ali):** Allah doth wish to lighten your (difficulties): For man was created Weak (in flesh).
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا چاہتا ہے کہ تم پر سے بوجھ ہلکا کرے اور انسان (طبعاً) کمزور پیدا ہوا ہے
+
+[Open on Quran.com](https://quran.com/4/28)
+
+#### 5:17 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ ۚ قُلْ فَمَن يَمْلِكُ مِنَ ٱللَّهِ شَيْـًٔا إِنْ أَرَادَ أَن يُهْلِكَ ٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَأُمَّهُۥ وَمَن فِى ٱلْأَرْضِ جَمِيعًا ۗ وَلِلَّهِ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ۚ يَخْلُقُ مَا يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+
+</div>
+
+**Word in this verse:** `يَخْلُقُ` — He creates
+
+**English (Sahih International):** They have certainly disbelieved who say that Allāh is Christ, the son of Mary. Say, "Then who could prevent Allāh at all if He had intended to destroy Christ, the son of Mary, or his mother or everyone on the earth?" And to Allāh belongs the dominion of the heavens and the earth and whatever is between them. He creates what He wills, and Allāh is over all things competent.
+
+**English (Yusuf Ali):** In blasphemy indeed are those that say that Allah is Christ the son of Mary. Say: "Who then hath the least power against Allah, if His will were to destroy Christ the son of Mary, his mother, and all every - one that is on the earth? For to Allah belongeth the dominion of the heavens and the earth, and all that is between. He createth what He pleaseth. For Allah hath power over all things."
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اس بات کے قائل ہیں کہ عیسیٰ بن مریم خدا ہیں وہ بےشک کافر ہیں (ان سے) کہہ دو کہ اگر خدا عیسیٰ بن مریم کو اور ان کی والدہ کو اور جتنے لوگ زمین میں ہیں سب کو ہلاک کرنا چاہے تو اس کے آگے کس کی پیش چل سکتی ہے؟ اور آسمان اور زمین اور جو کچھ ان دونوں میں ہے سب پر خدا ہی کی بادشاہی ہے وہ جو چاہتا ہے پیدا کرتا ہے اور خدا ہر چیز پر قادر ہے
+
+[Open on Quran.com](https://quran.com/5/17)
+
+_…and **158** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

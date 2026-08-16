@@ -11,9 +11,12 @@ tags: [root, meaning]
 
 **Sense:** account · **Root:** حسب
 
+
 ### Words (wikilinks — these create the graph)
 - [[HAsb - reckoners]]
+- [[HAsb - will call you]]
 - [[HsAb - account]]
+- [[Hsb - sufficient us]]
 - [[Hsb - think]]
 - [[HsbAn - reckoning]]
 - [[Hsyb - as reckoner]]

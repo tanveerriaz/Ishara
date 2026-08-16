@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** lie · **Root:** زور
 
+
 ### Words (wikilinks — these create the graph)
 - [[zwr - lie]]
 

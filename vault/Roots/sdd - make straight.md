@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** make straight · **Root:** سدد
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

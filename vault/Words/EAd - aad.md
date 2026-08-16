@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "عادَ"
+lemma: "عاد"
 slug: "EAd - aad"
-surah_count: 27
-ayah_count: 38
+surah_count: 18
+ayah_count: 23
 tags: [word, meaning]
 ---
 
@@ -17,25 +17,17 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[Ewd - aad]]
 
 ### Meaning
-**aad** · Lemma **عادَ**
+**aad** · Lemma **عاد**
 
-### Surahs (27)
-- [[002 Al-Baqarah]]
-- [[005 Al-Maidah]]
-- [[006 Al-Anam]]
+### Surahs (18)
 - [[007 Al-Araf]]
-- [[008 Al-Anfal]]
 - [[009 At-Tawbah]]
 - [[011 Hud]]
 - [[014 Ibrahim]]
-- [[017 Al-Isra]]
 - [[022 Al-Hajj]]
-- [[023 Al-Muminun]]
-- [[024 An-Nur]]
 - [[025 Al-Furqan]]
 - [[026 Ash-Shuara]]
 - [[029 Al-Ankabut]]
-- [[036 Ya-Sin]]
 - [[038 Sad]]
 - [[040 Ghafir]]
 - [[041 Fussilat]]
@@ -44,83 +36,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[051 Adh-Dhariyat]]
 - [[053 An-Najm]]
 - [[054 Al-Qamar]]
-- [[058 Al-Mujadila]]
+- [[069 Al-Haqqah]]
+- [[089 Al-Fajr]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:275 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَـٰنُ مِنَ ٱلْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ ۗ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ ۚ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ ۖ وَمَنْ عَادَ فَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ
-
-</div>
-
-**Word in this verse:** `عَادَ` — repeated
-
-**English (Sahih International):** Those who consume interest cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, "Trade is [just] like interest." But Allāh has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair rests with Allāh. But whoever returns [to dealing in interest or usury] - those are the companions of the Fire; they will abide eternally therein.
-
-**English (Yusuf Ali):** Those who devour usury will not stand except as stand one whom the Evil one by his touch Hath driven to madness. That is because they say: "Trade is like usury," but Allah hath permitted trade and forbidden usury. Those who after receiving direction from their Lord, desist, shall be pardoned for the past; their case is for Allah (to judge); but those who repeat (The offence) are companions of the Fire: They will abide therein (for ever).
-
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ سود کھاتے ہیں وہ (قبروں سے) اس طرح (حواس باختہ) اٹھیں گے جیسے کسی کو جن نے لپٹ کر دیوانہ بنا دیا ہو یہ اس لئے کہ وہ کہتے ہیں کہ سودا بیچنا بھی تو (نفع کے لحاظ سے) ویسا ہی ہے جیسے سود (لینا) حالانکہ سودے کو خدا نے حلال کیا ہے اور سود کو حرام۔ تو جس شخص کے پاس خدا کی نصیحت پہنچی اور وہ (سود لینے سے) باز آگیا تو جو پہلے ہوچکا وہ اس کا۔ اور (قیامت میں) اس کا معاملہ خدا کے سپرد اور جو پھر لینے لگا تو ایسے لوگ دوزخی ہیں کہ ہمیشہ دوزخ میں (جلتے) رہیں گے
-
-[Open on Quran.com](https://quran.com/2/275)
-
-#### 5:95 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْتُلُوا۟ ٱلصَّيْدَ وَأَنتُمْ حُرُمٌ ۚ وَمَن قَتَلَهُۥ مِنكُم مُّتَعَمِّدًا فَجَزَآءٌ مِّثْلُ مَا قَتَلَ مِنَ ٱلنَّعَمِ يَحْكُمُ بِهِۦ ذَوَا عَدْلٍ مِّنكُمْ هَدْيًۢا بَـٰلِغَ ٱلْكَعْبَةِ أَوْ كَفَّـٰرَةٌ طَعَامُ مَسَـٰكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِّيَذُوقَ وَبَالَ أَمْرِهِۦ ۗ عَفَا ٱللَّهُ عَمَّا سَلَفَ ۚ وَمَنْ عَادَ فَيَنتَقِمُ ٱللَّهُ مِنْهُ ۗ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ
-
-</div>
-
-**Word in this verse:** `عَادَ` — returned
-
-**English (Sahih International):** O you who have believed, do not kill game while you are in the state of iḥrām. And whoever of you kills it intentionally - the penalty is an equivalent from sacrificial animals to what he killed, as judged by two just men among you as an offering [to Allāh] delivered to the Kaʿbah, or an expiation: the feeding of needy people or the equivalent of that in fasting, that he may taste the consequence of his matter [i.e., deed]. Allāh has pardoned what is past; but whoever returns [to violation], then Allāh will take retribution from him. And Allāh is Exalted in Might and Owner of Retribution.
-
-**English (Yusuf Ali):** O ye who believe! Kill not game while in the sacred precincts or in pilgrim garb. If any of you doth so intentionally, the compensation is an offering, brought to the Ka'ba, of a domestic animal equivalent to the one he killed, as adjudged by two just men among you; or by way of atonement, the feeding of the indigent; or its equivalent in fasts: that he may taste of the penalty of his deed. Allah forgives what is past: for repetition Allah will exact from him the penalty. For Allah is Exalted, and Lord of Retribution.
-
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم احرام کی حالت میں ہو تو شکار نہ مارنا اور جو تم میں سے جان بوجھ کر اسے مارے تو (یا تو اس کا) بدلہ (دے اور وہ یہ ہے کہ) اسی طرح کا چارپایہ جسے تم میں دو معتبر شخص مقرر کردیں قربانی (کرے اور یہ قربانی) کعبے پہنچائی جائے یا کفارہ (دے اور وہ) مسکینوں کو کھانا کھلانا (ہے) یا اس کے برابر روزے رکھے تاکہ اپنے کام کی سزا (کا مزہ) چکھے (اور) جو پہلے ہو چکا وہ خدا نے معاف کر دیا اور جو پھر (ایسا کام) کرے گا تو خدا اس سے انتقام لے گا اور خدا غالب اور انتقام لینے والا ہے
-
-[Open on Quran.com](https://quran.com/5/95)
-
-#### 6:28 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-بَلْ بَدَا لَهُم مَّا كَانُوا۟ يُخْفُونَ مِن قَبْلُ ۖ وَلَوْ رُدُّوا۟ لَعَادُوا۟ لِمَا نُهُوا۟ عَنْهُ وَإِنَّهُمْ لَكَـٰذِبُونَ
-
-</div>
-
-**Word in this verse:** `لَعَادُوا۟` — certainly they (would) return
-
-**English (Sahih International):** But what they concealed before has [now] appeared to them. And even if they were returned, they would return to that which they were forbidden; and indeed, they are liars.
-
-**English (Yusuf Ali):** Yea, in their own (eyes) will become manifest what before they concealed. But if they were returned, they would certainly relapse to the things they were forbidden, for they are indeed liars.
-
-**Urdu (Fatah Muhammad Jalandhari):** ہاں یہ جو کچھ پہلے چھپایا کرتے تھے (آج) ان پر ظاہر ہوگیا ہے اور اگر یہ (دنیا میں) لوٹائے بھی جائیں تو جن (کاموں) سے ان کو منع کیا گیا تھا وہی پھر کرنے لگیں۔کچھ شک نہیں کہ یہ جھوٹے ہیں
-
-[Open on Quran.com](https://quran.com/6/28)
-
-#### 7:29 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُلْ أَمَرَ رَبِّى بِٱلْقِسْطِ ۖ وَأَقِيمُوا۟ وُجُوهَكُمْ عِندَ كُلِّ مَسْجِدٍ وَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۚ كَمَا بَدَأَكُمْ تَعُودُونَ
-
-</div>
-
-**Word in this verse:** `تَعُودُونَ` — (so) will you return
-
-**English (Sahih International):** Say, [O Muḥammad], "My Lord has ordered justice and that you direct yourselves [to the Qiblah] at every place [or time] of prostration, and invoke Him, sincere to Him in religion." Just as He originated you, you will return [to life] -
-
-**English (Yusuf Ali):** Say: "My Lord hath commanded justice; and that ye set your whole selves (to Him) at every time and place of prayer, and call upon Him, making your devotion sincere as in His sight: such as He created you in the beginning, so shall ye return."
-
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میرے پروردگار نے تو انصاف کرنے کا حکم دیا ہے۔ اور یہ کہ ہر نماز کے وقت سیدھا (قبلے کی طرف) رخ کیا کرو اور خاص اسی کی عبادت کرو اور اسی کو پکارو۔ اس نے جس طرح تم کو ابتداء میں پیدا کیا تھا اسی طرح تم پھر پیدا ہوگے
-
-[Open on Quran.com](https://quran.com/7/29)
 
 #### 7:65 · [[007 Al-Araf]]
 
@@ -158,77 +79,149 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/74)
 
-#### 7:88 · [[007 Al-Araf]]
+#### 9:70 · [[009 At-Tawbah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-۞ قَالَ ٱلْمَلَأُ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ مِن قَوْمِهِۦ لَنُخْرِجَنَّكَ يَـٰشُعَيْبُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَكَ مِن قَرْيَتِنَآ أَوْ لَتَعُودُنَّ فِى مِلَّتِنَا ۚ قَالَ أَوَلَوْ كُنَّا كَـٰرِهِينَ
+أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ إِبْرَٰهِيمَ وَأَصْحَـٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَـٰتِ ۚ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ ۖ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 
 </div>
 
-**Word in this verse:** `لَتَعُودُنَّ` — you must return
+**Word in this verse:** `وَعَادٍۢ` — and Aad
 
-**English (Sahih International):** Said the eminent ones who were arrogant among his people, "We will surely evict you, O Shuʿayb, and those who have believed with you from our city, or you must return to our religion." He said, "Even if we were unwilling?
+**English (Sahih International):** Has there not reached them the news of those before them - the people of Noah and [the tribes of] ʿAad and Thamūd and the people of Abraham and the companions [i.e., dwellers] of Madyan and the towns overturned? Their messengers came to them with clear proofs. And Allāh would never have wronged them, but they were wronging themselves.
 
-**English (Yusuf Ali):** The leaders, the arrogant party among his people, said: "O Shu'aib! we shall certainly drive thee out of our city - (thee) and those who believe with thee; or else ye (thou and they) shall have to return to our ways and religion." He said: "What! even though we do detest (them)?
+**English (Yusuf Ali):** Hath not the story reached them of those before them?- the People of Noah, and 'Ad, and Thamud; the People of Abraham, the men of Midian, and the cities overthrown. To them came their messengers with clear signs. It is not Allah Who wrongs them, but they wrong their own souls.
 
-**Urdu (Fatah Muhammad Jalandhari):** (تو) ان کی قوم میں جو لوگ سردار اور بڑے آدمی تھے، وہ کہنے لگے کہ شعیب! (یا تو) ہم تم کو اور جو لوگ تمہارے ساتھ ایمان لائے ہیں، ان کو اپنے شہر سے نکال دیں گے۔ یا تم ہمارے مذہب میں آجاؤ۔ انہوں نے کہا خواہ ہم (تمہارے دین سے) بیزار ہی ہوں (تو بھی؟)
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان کو ان لوگوں (کے حالات) کی خبر نہیں پہنچی جو ان سے پہلے تھے (یعنی) نوح اور عاد اور ثمود کی قوم۔ اور ابراہیم کی قوم اور مدین والے اور الٹی ہوئی بستیوں والے۔ ان کے پاس پیغمبر نشانیاں لے لے کر آئے۔ اور خدا تو ایسا نہ تھا کہ ان پر ظلم کرتا لیکن وہی اپنے آپ پر ظلم کرتے تھے
 
-[Open on Quran.com](https://quran.com/7/88)
+[Open on Quran.com](https://quran.com/9/70)
 
-#### 7:89 · [[007 Al-Araf]]
+#### 11:50 · [[011 Hud]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-قَدِ ٱفْتَرَيْنَا عَلَى ٱللَّهِ كَذِبًا إِنْ عُدْنَا فِى مِلَّتِكُم بَعْدَ إِذْ نَجَّىٰنَا ٱللَّهُ مِنْهَا ۚ وَمَا يَكُونُ لَنَآ أَن نَّعُودَ فِيهَآ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّنَا ۚ وَسِعَ رَبُّنَا كُلَّ شَىْءٍ عِلْمًا ۚ عَلَى ٱللَّهِ تَوَكَّلْنَا ۚ رَبَّنَا ٱفْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِٱلْحَقِّ وَأَنتَ خَيْرُ ٱلْفَـٰتِحِينَ
+وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا ۚ قَالَ يَـٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُۥٓ ۖ إِنْ أَنتُمْ إِلَّا مُفْتَرُونَ
 
 </div>
 
-**Word in this verse:** `عُدْنَا` — we returned
+**Word in this verse:** `عَادٍ` — Aad
 
-**English (Sahih International):** We would have invented against Allāh a lie if we returned to your religion after Allāh had saved us from it. And it is not for us to return to it except that Allāh, our Lord, should will. Our Lord has encompassed all things in knowledge. Upon Allāh we have relied. Our Lord, decide between us and our people in truth, and You are the best of those who give decision."
+**English (Sahih International):** And to ʿAad [We sent] their brother Hūd. He said, "O my people, worship Allāh; you have no deity other than Him. You are not but inventors [of falsehood].
 
-**English (Yusuf Ali):** "We should indeed invent a lie against Allah, if we returned to your ways after Allah hath rescued us therefrom; nor could we by any manner of means return thereto unless it be as in the will and plan of Allah, Our Lord. Our Lord can reach out to the utmost recesses of things by His knowledge. In the Allah is our trust. our Lord! decide Thou between us and our people in truth, for Thou art the best to decide."
+**English (Yusuf Ali):** To the 'Ad People (We sent) Hud, one of their own brethren. He said: "O my people! worship Allah! ye have no other god but Him. (Your other gods) ye do nothing but invent!
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر ہم اس کے بعد کہ خدا ہمیں اس سے نجات بخش چکا ہے تمہارے مذہب میں لوٹ جائیں تو بےشک ہم نے خدا پر جھوٹ افتراء باندھا۔ اور ہمیں شایاں نہیں کہ ہم اس میں لوٹ جائیں ہاں خدا جو ہمارا پروردگار ہے وہ چاہے تو (ہم مجبور ہیں)۔ ہمارے پروردگار کا علم ہر چیز پر احاطہ کیے ہوئے ہے۔ ہمارا خدا ہی پر بھروسہ ہے۔ اے پروردگار ہم میں اور ہماری قوم میں انصاف کے ساتھ فیصلہ کردے اور تو سب سے بہتر فیصلہ کرنے والا ہے
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے عاد کی طرف ان کے بھائی ہود (کو بھیجا) انہوں نے کہا کہ میری قوم! خدا ہی کی عبادت کرو، اس کے سوا تمہارا کوئی معبود نہیں۔ تم (شرک کرکے خدا پر) محض بہتان باندھتے ہو
 
-[Open on Quran.com](https://quran.com/7/89)
+[Open on Quran.com](https://quran.com/11/50)
 
-#### 8:19 · [[008 Al-Anfal]]
+#### 11:59 · [[011 Hud]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-إِن تَسْتَفْتِحُوا۟ فَقَدْ جَآءَكُمُ ٱلْفَتْحُ ۖ وَإِن تَنتَهُوا۟ فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَعُودُوا۟ نَعُدْ وَلَن تُغْنِىَ عَنكُمْ فِئَتُكُمْ شَيْـًٔا وَلَوْ كَثُرَتْ وَأَنَّ ٱللَّهَ مَعَ ٱلْمُؤْمِنِينَ
+وَتِلْكَ عَادٌ ۖ جَحَدُوا۟ بِـَٔايَـٰتِ رَبِّهِمْ وَعَصَوْا۟ رُسُلَهُۥ وَٱتَّبَعُوٓا۟ أَمْرَ كُلِّ جَبَّارٍ عَنِيدٍ
 
 </div>
 
-**Word in this verse:** `تَعُودُوا۟` — you return
+**Word in this verse:** `عَادٌۭ ۖ` — (was) Aad
 
-**English (Sahih International):** If you [disbelievers] seek the decision [i.e., victory] - the decision [i.e., defeat] has come to you. And if you desist [from hostilities], it is best for you; but if you return [to war], We will return, and never will you be availed by your [large] company at all, even if it should increase; and [that is] because Allāh is with the believers.
+**English (Sahih International):** And that was ʿAad, who rejected the signs of their Lord and disobeyed His messengers and followed the order of every obstinate tyrant.
 
-**English (Yusuf Ali):** (O Unbelievers!) if ye prayed for victory and judgment, now hath the judgment come to you: if ye desist (from wrong), it will be best for you: if ye return (to the attack), so shall We. Not the least good will your forces be to you even if they were multiplied: for verily Allah is with those who believe!
+**English (Yusuf Ali):** Such were the 'Ad People: they rejected the Signs of their Lord and Cherisher; disobeyed His messengers; And followed the command of every powerful, obstinate transgressor.
 
-**Urdu (Fatah Muhammad Jalandhari):** (کافرو) اگر تم (محمد صلی الله علیہ وآلہ وسلم پر) فتح چاہتے ہو تو تمہارے پاس فتح آچکی۔ (دیکھو) اگر تم (اپنے افعال سے) باز آجاؤ تو تمہارے حق میں بہتر ہے۔ اور اگر پھر (نافرمانی) کرو گے تو ہم بھی پھر تمہیں عذاب کریں گے اور تمہاری جماعت خواہ کتنی ہی کثیر ہو تمہارے کچھ بھی کام نہ آئے گی۔ اور خدا تو مومنوں کے ساتھ ہے
+**Urdu (Fatah Muhammad Jalandhari):** یہ (وہی) عاد ہیں جنہوں نے خدا کی نشانیوں سے انکار کیا اور اس کے پیغمبروں کی نافرمانی کی اور ہر متکبر وسرکش کا کہا مانا
 
-[Open on Quran.com](https://quran.com/8/19)
+[Open on Quran.com](https://quran.com/11/59)
 
-#### 8:38 · [[008 Al-Anfal]]
+#### 11:60 · [[011 Hud]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-قُل لِّلَّذِينَ كَفَرُوٓا۟ إِن يَنتَهُوا۟ يُغْفَرْ لَهُم مَّا قَدْ سَلَفَ وَإِن يَعُودُوا۟ فَقَدْ مَضَتْ سُنَّتُ ٱلْأَوَّلِينَ
+وَأُتْبِعُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا لَعْنَةً وَيَوْمَ ٱلْقِيَـٰمَةِ ۗ أَلَآ إِنَّ عَادًا كَفَرُوا۟ رَبَّهُمْ ۗ أَلَا بُعْدًا لِّعَادٍ قَوْمِ هُودٍ
 
 </div>
 
-**Word in this verse:** `يَعُودُوا۟` — they return
+**Word in this verse:** `عَادًۭا` — Aad
 
-**English (Sahih International):** Say to those who have disbelieved [that] if they cease, what has previously occurred will be forgiven for them. But if they return [to hostility] - then the precedent of the former [rebellious] peoples has already taken place.
+**English (Sahih International):** And they were [therefore] followed in this world with a curse and [as well] on the Day of Resurrection. Unquestionably, ʿAad denied their Lord; then away with ʿAad, the people of Hūd.
 
-**English (Yusuf Ali):** Say to the Unbelievers, if (now) they desist (from Unbelief), their past would be forgiven them; but if they persist, the punishment of those before them is already (a matter of warning for them).
+**English (Yusuf Ali):** And they were pursued by a Curse in this life,- and on the Day of Judgment. Ah! Behold! for the 'Ad rejected their Lord and Cherisher! Ah! Behold! removed (from sight) were 'Ad the people of Hud!
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) کفار سے کہہ دو کہ اگر وہ اپنے افعال سے باز آجائیں تو جو ہوچکا وہ انہیں معاف کردیا جائے گا۔ اور اگر پھر (وہی حرکات) کرنے لگیں گے تو اگلے لوگوں کا (جو) طریق جاری ہوچکا ہے (وہی ان کے حق میں برتا جائے گا)
+**Urdu (Fatah Muhammad Jalandhari):** تو اس دنیا میں بھی لعنت ان کے پیچھے لگی رہے گی اور قیامت کے دن بھی (لگی رہے گی) دیکھو عاد نے اپنے پروردگار سے کفر کیا۔ (اور) سن رکھو ہود کی قوم عاد پر پھٹکار ہے
 
-[Open on Quran.com](https://quran.com/8/38)
+[Open on Quran.com](https://quran.com/11/60)
 
-_…and **28** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 14:9 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ يَأْتِكُمْ نَبَؤُا۟ ٱلَّذِينَ مِن قَبْلِكُمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ ۛ وَٱلَّذِينَ مِنۢ بَعْدِهِمْ ۛ لَا يَعْلَمُهُمْ إِلَّا ٱللَّهُ ۚ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ فَرَدُّوٓا۟ أَيْدِيَهُمْ فِىٓ أَفْوَٰهِهِمْ وَقَالُوٓا۟ إِنَّا كَفَرْنَا بِمَآ أُرْسِلْتُم بِهِۦ وَإِنَّا لَفِى شَكٍّ مِّمَّا تَدْعُونَنَآ إِلَيْهِ مُرِيبٍ
+
+</div>
+
+**Word in this verse:** `وَعَادٍۢ` — and Aad
+
+**English (Sahih International):** Has there not reached you the news of those before you - the people of Noah and ʿAad and Thamūd and those after them? No one knows them [i.e., their number] but Allāh. Their messengers brought them clear proofs, but they returned their hands to their mouths and said, "Indeed, we disbelieve in that with which you have been sent, and indeed we are, about that to which you invite us, in disquieting doubt."
+
+**English (Yusuf Ali):** Has not the story reached you, (O people!), of those who (went) before you? - of the people of Noah, and 'Ad, and Thamud? - And of those who (came) after them? None knows them but Allah. To them came messengers with Clear (Signs); but they put their hands up to their mouths, and said: "We do deny (the mission) on which ye have been sent, and we are really in suspicious (disquieting) doubt as to that to which ye invite us."
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم کو ان لوگوں (کے حالات) کی خبر نہیں پہنچی جو تم سے پہلے تھے (یعنی) نوح اور عاد اور ثمود کی قوم۔ اور جو ان کے بعد تھے۔ جن کا علم خدا کے سوا کسی کو نہیں (جب) ان کے پاس پیغمبر نشانیاں لے کر آئے تو انہوں نے اپنے ہاتھ ان کے مونہوں پر رکھ دیئے (کہ خاموش رہو) اور کہنے لگے کہ ہم تو تمہاری رسالت کو تسلیم نہیں کرتے اور جس چیز کی طرف تم ہمیں بلاتے ہو ہم اس سے قوی شک میں ہیں
+
+[Open on Quran.com](https://quran.com/14/9)
+
+#### 22:42 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَثَمُودُ
+
+</div>
+
+**Word in this verse:** `وَعَادٌۭ` — and Aad
+
+**English (Sahih International):** And if they deny you, [O Muḥammad] - so, before them, did the people of Noah and ʿAad and Thamūd deny [their prophets],
+
+**English (Yusuf Ali):** If they treat thy (mission) as false, so did the peoples before them (with their prophets),- the People of Noah, and 'Ad and Thamud;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر یہ لوگ تم کو جھٹلاتے ہیں ان سے پہلے نوح کی قوم اور عاد وثمود بھی (اپنے پیغمبروں کو) جھٹلا چکے ہیں
+
+[Open on Quran.com](https://quran.com/22/42)
+
+#### 25:38 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَعَادًا وَثَمُودَا۟ وَأَصْحَـٰبَ ٱلرَّسِّ وَقُرُونًۢا بَيْنَ ذَٰلِكَ كَثِيرًا
+
+</div>
+
+**Word in this verse:** `وَعَادًۭا` — And Ad
+
+**English (Sahih International):** And [We destroyed] ʿAad and Thamūd and the companions of the well and many generations between them.
+
+**English (Yusuf Ali):** As also 'Ad and Thamud, and the Companions of the Rass, and many a generation between them.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور عاد اور ثمود اور کنوئیں والوں اور ان کے درمیان اور بہت سی جماعتوں کو بھی (ہلاک کر ڈالا)
+
+[Open on Quran.com](https://quran.com/25/38)
+
+#### 26:123 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَذَّبَتْ عَادٌ ٱلْمُرْسَلِينَ
+
+</div>
+
+**Word in this verse:** `عَادٌ` — (the people) of Aad
+
+**English (Sahih International):** ʿAad denied the messengers
+
+**English (Yusuf Ali):** The 'Ad (people) rejected the messengers.
+
+**Urdu (Fatah Muhammad Jalandhari):** عاد نے بھی پیغمبروں کو جھٹلایا
+
+[Open on Quran.com](https://quran.com/26/123)
+
+_…and **13** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

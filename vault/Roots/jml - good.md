@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** good · **Root:** جمل
 
+
 ### Words (wikilinks — these create the graph)
 - [[jmyl - good]]
 

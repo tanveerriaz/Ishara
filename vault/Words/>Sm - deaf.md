@@ -2,8 +2,8 @@
 type: word
 lemma: "أَصَمّ"
 slug: ">Sm - deaf"
-surah_count: 12
-ayah_count: 13
+surah_count: 11
+ayah_count: 12
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **deaf** · Lemma **أَصَمّ**
 
-### Surahs (12)
+### Surahs (11)
 - [[002 Al-Baqarah]]
 - [[006 Al-Anam]]
 - [[008 Al-Anfal]]
@@ -31,7 +31,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[027 An-Naml]]
 - [[030 Ar-Rum]]
 - [[043 Az-Zukhruf]]
-- [[047 Muhammad]]
 
 ## Verses (full text)
 
@@ -217,5 +216,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/27/80)
 
-_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

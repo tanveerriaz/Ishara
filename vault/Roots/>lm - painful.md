@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** painful · **Root:** ألم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>lym - painful]]
 

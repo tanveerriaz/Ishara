@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "نِعْمَ"
+lemma: "نَعَم"
 slug: "nEm - cattle"
-surah_count: 32
-ayah_count: 48
+surah_count: 22
+ayah_count: 31
 tags: [word, meaning]
 ---
 
@@ -17,56 +17,35 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[nEm - favor]]
 
 ### Meaning
-**cattle** · Lemma **نِعْمَ**
+**cattle** · Lemma **نَعَم**
 
-### Surahs (32)
-- [[002 Al-Baqarah]]
+### Surahs (22)
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
-- [[008 Al-Anfal]]
 - [[010 Yunus]]
-- [[013 Ar-Rad]]
 - [[016 An-Nahl]]
-- [[018 Al-Kahf]]
 - [[020 Taha]]
 - [[022 Al-Hajj]]
 - [[023 Al-Muminun]]
 - [[025 Al-Furqan]]
 - [[026 Ash-Shuara]]
-- [[029 Al-Ankabut]]
 - [[032 As-Sajdah]]
 - [[035 Fatir]]
 - [[036 Ya-Sin]]
-- [[037 As-Saffat]]
-- [[038 Sad]]
 - [[039 Az-Zumar]]
 - [[040 Ghafir]]
 - [[042 Ash-Shuraa]]
+- [[043 Az-Zukhruf]]
+- [[047 Muhammad]]
+- [[079 An-Naziat]]
+- [[080 Abasa]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:271 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِن تُبْدُوا۟ ٱلصَّدَقَـٰتِ فَنِعِمَّا هِىَ ۖ وَإِن تُخْفُوهَا وَتُؤْتُوهَا ٱلْفُقَرَآءَ فَهُوَ خَيْرٌ لَّكُمْ ۚ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمْ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
-
-</div>
-
-**Word in this verse:** `فَنِعِمَّا` — then good
-
-**English (Sahih International):** If you disclose your charitable expenditures, they are good; but if you conceal them and give them to the poor, it is better for you, and He will remove from you some of your misdeeds [thereby]. And Allāh, of what you do, is [fully] Aware.
-
-**English (Yusuf Ali):** If ye disclose (acts of) charity, even so it is well, but if ye conceal them, and make them reach those (really) in need, that is best for you: It will remove from you some of your (stains of) evil. And Allah is well acquainted with what ye do.
-
-**Urdu (Fatah Muhammad Jalandhari):** اگر تم خیرات ظاہر دو تو وہ بھی خوب ہے اور اگر پوشیدہ دو اور دو بھی اہل حاجت کو تو وہ خوب تر ہے اور (اس طرح کا دینا) تمہارے گناہوں کو بھی دور کردے گا۔ اور خدا کو تمہارے سب کاموں کی خبر ہے
-
-[Open on Quran.com](https://quran.com/2/271)
 
 #### 3:14 · [[003 Ali Imran]]
 
@@ -85,60 +64,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** لوگوں کو ان کی خواہشوں کی چیزیں یعنی عورتیں اور بیٹے اور سونے اور چاندی کے بڑے بڑے ڈھیر اور نشان لگے ہوئے گھوڑے اور مویشی اور کھیتی بڑی زینت دار معلوم ہوتی ہیں (مگر) یہ سب دنیا ہی کی زندگی کے سامان ہیں اور خدا کے پاس بہت اچھا ٹھکانا ہے
 
 [Open on Quran.com](https://quran.com/3/14)
-
-#### 3:136 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-أُو۟لَـٰٓئِكَ جَزَآؤُهُم مَّغْفِرَةٌ مِّن رَّبِّهِمْ وَجَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ وَنِعْمَ أَجْرُ ٱلْعَـٰمِلِينَ
-
-</div>
-
-**Word in this verse:** `وَنِعْمَ` — And an excellent
-
-**English (Sahih International):** Those - their reward is forgiveness from their Lord and gardens beneath which rivers flow [in Paradise], wherein they will abide eternally; and excellent is the reward of the [righteous] workers.
-
-**English (Yusuf Ali):** For such the reward is forgiveness from their Lord, and Gardens with rivers flowing underneath,- an eternal dwelling: How excellent a recompense for those who work (and strive)!
-
-**Urdu (Fatah Muhammad Jalandhari):** ایسے ہی لوگوں کا صلہ پروردگار کی طرف سے بخشش اور باغ ہیں جن کے نیچے نہریں بہہ رہی ہیں (اور) وہ ان میں ہمیشہ بستے رہیں گے اور (اچھے) کام کرنے والوں کا بدلہ بہت اچھا ہے
-
-[Open on Quran.com](https://quran.com/3/136)
-
-#### 3:173 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَـٰنًا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ
-
-</div>
-
-**Word in this verse:** `وَنِعْمَ` — and (He is the) best
-
-**English (Sahih International):** Those to whom people [i.e., hypocrites] said, "Indeed, the people have gathered against you, so fear them." But it [merely] increased them in faith, and they said, "Sufficient for us is Allāh, and [He is] the best Disposer of affairs."
-
-**English (Yusuf Ali):** Men said to them: "A great army is gathering against you": And frightened them: But it (only) increased their Faith: They said: "For us Allah sufficeth, and He is the best disposer of affairs."
-
-**Urdu (Fatah Muhammad Jalandhari):** (جب) ان سے لوگوں نے آکر بیان کیا کہ کفار نے تمہارے (مقابلے کے) لئے لشکر کثیر) جمع کیا ہے تو ان سے ڈرو۔ تو ان کا ایمان اور زیادہ ہوگیا۔ اور کہنے لگے ہم کو خدا کافی ہے اور وہ بہت اچھا کارساز ہے
-
-[Open on Quran.com](https://quran.com/3/173)
-
-#### 4:58 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَـٰنَـٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ ۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًا
-
-</div>
-
-**Word in this verse:** `نِعِمَّا` — excellently
-
-**English (Sahih International):** Indeed, Allāh commands you to render trusts to whom they are due and when you judge between people to judge with justice. Excellent is that which Allāh instructs you. Indeed, Allāh is ever Hearing and Seeing.
-
-**English (Yusuf Ali):** Allah doth command you to render back your Trusts to those to whom they are due; And when ye judge between man and man, that ye judge with justice: Verily how excellent is the teaching which He giveth you! For Allah is He Who heareth and seeth all things.
-
-**Urdu (Fatah Muhammad Jalandhari):** خدا تم کو حکم دیتا ہے کہ امانت والوں کی امانتیں ان کے حوالے کردیا کرو اور جب لوگوں میں فیصلہ کرنے لگو تو انصاف سے فیصلہ کیا کرو خدا تمہیں بہت خوب نصیحت کرتا ہے بےشک خدا سنتا اور دیکھتا ہے
-
-[Open on Quran.com](https://quran.com/4/58)
 
 #### 4:119 · [[004 An-Nisa]]
 
@@ -230,5 +155,77 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/138)
 
-_…and **38** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 6:139 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ مَا فِى بُطُونِ هَـٰذِهِ ٱلْأَنْعَـٰمِ خَالِصَةٌ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزْوَٰجِنَا ۖ وَإِن يَكُن مَّيْتَةً فَهُمْ فِيهِ شُرَكَآءُ ۚ سَيَجْزِيهِمْ وَصْفَهُمْ ۚ إِنَّهُۥ حَكِيمٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلْأَنْعَـٰمِ` — cattle
+
+**English (Sahih International):** And they say, "What is in the bellies of these animals is exclusively for our males and forbidden to our females. But if it is [born] dead, then all of them have shares therein." He will punish them for their description. Indeed, He is Wise and Knowing.
+
+**English (Yusuf Ali):** They say: "What is in the wombs of such and such cattle is specially reserved (for food) for our men, and forbidden to our women; but if it is still-born, then all have share therein. For their (false) attribution (of superstitions to Allah), He will soon punish them: for He is full of wisdom and knowledge.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ بھی کہتے ہیں کہ جو بچہ ان چارپایوں کے پیٹ میں ہے وہ خاص ہمارے مردوں کے لئے ہے اور ہماری عورتوں کو (اس کا کھانا) حرام ہے اور اگر وہ بچہ مرا ہوا ہو تو سب اس میں شریک ہیں (یعنی اسے مرد اور عورتیں سب کھائیں) عنقریب خدا ان کو ان کے ڈھکوسلوں کی سزا دے گا بےشک وہ حکمت والا خبردار ہے
+
+[Open on Quran.com](https://quran.com/6/139)
+
+#### 6:142 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمِنَ ٱلْأَنْعَـٰمِ حَمُولَةً وَفَرْشًا ۚ كُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَـٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `ٱلْأَنْعَـٰمِ` — the cattle
+
+**English (Sahih International):** And of the grazing livestock are carriers [of burdens] and those [too] small. Eat of what Allāh has provided for you and do not follow the footsteps of Satan. Indeed, he is to you a clear enemy.
+
+**English (Yusuf Ali):** Of the cattle are some for burden and some for meat: eat what Allah hath provided for you, and follow not the footsteps of Satan: for he is to you and avowed enemy.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور چارپایوں میں بوجھ اٹھانے والے (یعنی بڑے بڑے) بھی پیدا کئے اور زمین سے لگے ہوئے (یعنی چھوٹے چھوٹے) بھی (پس) خدا کا دیا ہوا رزق کھاؤ اور شیطان کے قدموں پر نہ چلو وہ تمہارا صریح دشمن ہے
+
+[Open on Quran.com](https://quran.com/6/142)
+
+#### 7:179 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لَّا يُبْصِرُونَ بِهَا وَلَهُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بِهَآ ۚ أُو۟لَـٰٓئِكَ كَٱلْأَنْعَـٰمِ بَلْ هُمْ أَضَلُّ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْغَـٰفِلُونَ
+
+</div>
+
+**Word in this verse:** `كَٱلْأَنْعَـٰمِ` — (are) like cattle
+
+**English (Sahih International):** And We have certainly created for Hell many of the jinn and mankind. They have hearts with which they do not understand, they have eyes with which they do not see, and they have ears with which they do not hear. Those are like livestock; rather, they are more astray. It is they who are the heedless.
+
+**English (Yusuf Ali):** Many are the Jinns and men we have made for Hell: They have hearts wherewith they understand not, eyes wherewith they see not, and ears wherewith they hear not. They are like cattle,- nay more misguided: for they are heedless (of warning).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بہت سے جن اور انسان دوزخ کے لیے پیدا کیے ہیں۔ ان کے دل ہیں لیکن ان سے سمجھتے نہیں اور ان کی آنکھیں ہیں مگر ان سے دیکھتے نہیں اور ان کے کان ہیں پر ان سے سنتے نہیں۔ یہ لوگ بالکل چارپایوں کی طرح ہیں بلکہ ان سے بھی بھٹکے ہوئے۔ یہی وہ ہیں جو غفلت میں پڑے ہوئے ہیں
+
+[Open on Quran.com](https://quran.com/7/179)
+
+#### 10:24 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَـٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَـٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ زُخْرُفَهَا وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَـٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا لَيْلًا أَوْ نَهَارًا فَجَعَلْنَـٰهَا حَصِيدًا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ ۚ كَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَتَفَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `وَٱلْأَنْعَـٰمُ` — and the cattle
+
+**English (Sahih International):** The example of [this] worldly life is but like rain which We have sent down from the sky that the plants of the earth absorb - [those] from which men and livestock eat - until, when the earth has taken on its adornment and is beautified and its people suppose that they have capability over it, there comes to it Our command by night or by day, and We make it as a harvest, as if it had not flourished yesterday. Thus do We explain in detail the signs for a people who give thought.
+
+**English (Yusuf Ali):** The likeness of the life of the present is as the rain which We send down from the skies: by its mingling arises the produce of the earth- which provides food for men and animals: (It grows) till the earth is clad with its golden ornaments and is decked out (in beauty): the people to whom it belongs think they have all powers of disposal over it: There reaches it Our command by night or by day, and We make it like a harvest clean-mown, as if it had not flourished only the day before! thus do We explain the Signs in detail for those who reflect.
+
+**Urdu (Fatah Muhammad Jalandhari):** دنیا کی زندگی کی مثال مینھہ کی سی ہے کہ ہم نے اس کو آسمان سے برسایا۔ پھر اس کے ساتھ سبزہ جسے آدمی اور جانور کھاتے ہیں مل کر نکلا یہاں تک کہ زمین سبزے سے خوشنما اور آراستہ ہوگئی اور زمین والوں نے خیال کیا کہ وہ اس پر پوری دسترس رکھتے ہیں ناگہاں رات کو یا دن کو ہمارا حکم (عذاب) آپہنچا تو ہم نے اس کو کاٹ (کر ایسا کر) ڈالا کہ گویا کل وہاں کچھ تھا ہی نہیں۔ جو لوگ غور کرنے والے ہیں۔ ان کے لیے ہم (اپنی قدرت کی) نشانیاں اسی طرح کھول کھول کر بیان کرتے ہیں
+
+[Open on Quran.com](https://quran.com/10/24)
+
+_…and **21** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

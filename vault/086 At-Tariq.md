@@ -14,31 +14,31 @@ The Nightcommer · 17 ayahs
 
 ## Words in this surah (graph)
 
-- [[<nsAn - man]] — `إِنسان` · man
+- [[rjE - return 2]] — `رَجْع` · return
+- [[kyd - surely]] — `كِيدُ` · surely
 - [[mA' - water]] — `ماء` · water
-- [[fSl - we explain]] — `فَصَلَ` · we explain
-- [[nASr - helpers]] — `ناصِر` · helpers
-- [[HAfZ - guardians]] — `حافِظ` · guardians
-- [[blw - test you]] — `بَلَوْ` · test you
-- [[nZr - see]] — `نَظَرَ` · see
-- [[rjE - return]] — `رَجَعَ` · return
-- [[kl - every]] — `كُلّ` · every
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[qwl - speech]] — `قَوْل` · speech
-- [[kyd - plot]] — `كَيْد` · plot
-- [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[mhl - like molten brass]] — `مُهْل` · like molten brass
-- [[qwp - strength]] — `قُوَّة` · strength
-- [[qAdr - able]] — `قادِر` · able
-- [[byn - between them]] — `بَيْن` · between them
-- [[>rD - earth]] — `أَرْض` · earth
-- [[njm - stars]] — `نَجْم` · stars
-- [[ywm - day]] — `يَوْم` · day
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[Slb - loins]] — `صُلْب` · loins
-- [[kAfr - disbelievers]] — `كافِر` · disbelievers
 - [[nfs - themselves]] — `نَفْس` · themselves
-- [[xlq - creation]] — `خَلَقَ` · creation
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[fSl - judgment]] — `فَصْل` · judgment
+- [[nZr - see]] — `نَظَرَ` · see
+- [[HAfZ - guardians]] — `حافِظ` · guardians
+- [[kyd - plot]] — `كَيْد` · plot
+- [[kAfr - disbelievers]] — `كافِر` · disbelievers
+- [[>rD - earth]] — `أَرْض` · earth
+- [[qwp - strength]] — `قُوَّة` · strength
+- [[byn - between them]] — `بَيْن` · between them
+- [[qAdr - able]] — `قادِر` · able
+- [[xlq - created]] — `خَلَقَ` · created
+- [[Slb - loins]] — `صُلْب` · loins
+- [[ywm - day]] — `يَوْم` · day
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[blw - test you]] — `بَلَوْ` · test you
+- [[qwl - speech]] — `قَوْل` · speech
+- [[njm - stars]] — `نَجْم` · stars
+- [[<nsAn - man]] — `إِنسان` · man
+- [[kl - every]] — `كُلّ` · every
+- [[nASr - helpers]] — `ناصِر` · helpers
 
 ## Roots
 
@@ -51,7 +51,7 @@ The Nightcommer · 17 ayahs
 - [[blw - was trial]]
 - [[byn - clear]]
 - [[dry - can make you]]
-- [[fSl - we explain]]
+- [[fSl - judgment]]
 - [[kfr - disbelieve]]
 - [[kll - every]]
 - [[kyd - plot]]

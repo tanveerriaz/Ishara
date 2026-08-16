@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** turn back · **Root:** دبر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>dbr - turned back]]
 - [[dAbr - roots]]

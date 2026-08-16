@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** make firm · **Root:** ثبت
 
+
 ### Words (wikilinks — these create the graph)
 - [[vbt - make firm]]
 

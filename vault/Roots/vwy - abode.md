@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** abode · **Root:** ثوي
 
+
 ### Words (wikilinks — these create the graph)
 - [[mvwY - abode]]
 

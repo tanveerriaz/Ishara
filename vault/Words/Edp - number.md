@@ -3,7 +3,7 @@ type: word
 lemma: "عِدَّة"
 slug: "Edp - number"
 surah_count: 6
-ayah_count: 10
+ayah_count: 9
 tags: [word, meaning]
 ---
 
@@ -102,24 +102,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** امن کے کس مہینے کو ہٹا کر آگے پیچھے کر دینا کفر میں اضافہ کرتا ہے اس سے کافر گمراہی میں پڑے رہتے ہیں۔ ایک سال تو اس کو حلال سمجھ لیتے ہیں اور دوسرے سال حرام۔ تاکہ ادب کے مہینوں کو جو خدا نے مقرر کئے ہیں گنتی پوری کر لیں۔ اور جو خدا نے منع کیا ہے اس کو جائز کر لیں۔ ان کے برے اعمال ان کے بھلے دکھائی دیتے ہیں۔ اور خدا کافر لوگوں کو ہدایت نہیں دیا کرتا
 
 [Open on Quran.com](https://quran.com/9/37)
-
-#### 9:46 · [[009 At-Tawbah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً وَلَـٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَـٰعِدِينَ
-
-</div>
-
-**Word in this verse:** `عُدَّةًۭ` — (some) preparation
-
-**English (Sahih International):** And if they had intended to go forth, they would have prepared for it [some] preparation. But Allāh disliked their being sent, so He kept them back, and they were told, "Remain [behind] with those who remain."
-
-**English (Yusuf Ali):** If they had intended to come out, they would certainly have made some preparation therefor; but Allah was averse to their being sent forth; so He made them lag behind, and they were told, "Sit ye among those who sit (inactive)."
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر وہ نکلنے کا ارادہ کرتے ہیں تو اس کے لیے سامان تیار کرتے لیکن خدا نے ان کا اُٹھنا (اور نکلنا) پسند نہ کیا تو ان کو ہلنے جلنے ہی نہ دیا اور (ان سے) کہہ دیا گیا کہ جہاں (معذور) بیٹھے ہیں تم بھی ان کے ساتھ بیٹھے رہو
-
-[Open on Quran.com](https://quran.com/9/46)
 
 #### 18:22 · [[018 Al-Kahf]]
 

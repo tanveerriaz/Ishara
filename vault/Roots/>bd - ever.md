@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** ever · **Root:** أبد
 
+
 ### Words (wikilinks — these create the graph)
 - [[>bdA - ever]]
 

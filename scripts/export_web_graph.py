@@ -689,6 +689,8 @@ def main() -> None:
         bw_part, slug_gloss = slug_parts(slug)
         sense_m = re.search(r"\*\*Sense:\*\*\s*([^\n·]+)", body)
         raw_sense = sense_m.group(1).strip() if sense_m else slug_gloss
+        extension_m = re.search(r"\*\*Extended semantic connection:\*\*\s*([^\n]+)", body)
+        extended_sense = extension_m.group(1).strip() if extension_m else ""
         linked = wikilinks(body)
         linked_words = [w for w in linked if w in word_notes_by_slug]
         # Prefer common English senses from linked lemmas when Sense is a BW stub.
@@ -742,6 +744,7 @@ def main() -> None:
                         slug,
                         arabic,
                         sense,
+                        extended_sense,
                         bw_part,
                         semantic_aliases(slug, arabic, sense),
                     ]

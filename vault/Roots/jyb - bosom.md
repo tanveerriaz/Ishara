@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** bosom · **Root:** جيب
 
+
 ### Words (wikilinks — these create the graph)
 - [[jyb - bosom]]
 

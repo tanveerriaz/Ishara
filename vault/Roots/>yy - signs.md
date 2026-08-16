@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** signs · **Root:** أيي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>y - o you]]
 - [[Ayp - signs]]

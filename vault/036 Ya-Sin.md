@@ -16,29 +16,29 @@ Ya Sin · 83 ayahs
 
 - [[SyHp - shout]] — `صَيْحَة` · shout
 - [[mHDr - will brought]] — `مُحْضَر` · will brought
+- [[Hq - was obligated]] — `حَقَّ` · was obligated
 - [[ynbgy - appropriate]] — `يَنۢبَغِي` · appropriate
 - [[>nq* - would saved]] — `أَنقَذَ` · would saved
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[Enq - necks]] — `عُنُق` · necks
+- [[mErD - turn away]] — `مُعْرِض` · turn away
+- [[jEl - we made]] — `جَعَلَ` · we made
 - [[ydE - they call]] — `يَدَّعُ` · they call
-- [[>wqd - they kindled]] — `أَوْقَدُ` · they kindled
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[<nsAn - man]] — `إِنسان` · man
-- [[swA' - it same]] — `سَواء` · it same
-- [[slAm - peace]] — `سَلام` · peace
-- [[$ms - sun]] — `شَمْس` · sun
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[krym - noble]] — `كَرِيم` · noble
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[xSym - opponent]] — `خَصِيم` · opponent
+- [[Ebd - worship]] — `عَبَدَ` · worship
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[Zl - shade]] — `ظِلّ` · shade
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[flk - orbit]] — `فَلَك` · orbit
 - [[nZr - see]] — `نَظَرَ` · see
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
-- [[sEY - strive]] — `سَعَى` · strive
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[>qSA - farthest end]] — `أَقْصا` · farthest end
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[AnthY - you desist]] — `انتَهَى` · you desist
-- [[allah - God]] — `الله` · God
-- [[>kvr - them]] — `أَكْثَر` · them
-- [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
-- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[>wqd - they kindled]] — `أَوْقَدُ` · they kindled
+- [[$ms - sun]] — `شَمْس` · sun
+- [[lyl - night]] — `لَيْل` · night
+- [[mstqr - dwelling place]] — `مُسْتَقَرّ` · dwelling place
 
 ## Roots
 
@@ -52,7 +52,7 @@ Ya Sin · 83 ayahs
 - [[$ms - sun]]
 - [[$rb - drink]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[*rr - offspring]]
 - [[>bw - forefathers]]
@@ -84,7 +84,7 @@ Ya Sin · 83 ayahs
 - [[Elm - knowledge]]
 - [[Eln - they declare]]
 - [[Eml - do]]
-- [[Emr - life]]
+- [[Emr - inhabit build maintain flourish]]
 - [[Enb - grapes]]
 - [[Enq - necks]]
 - [[Eql - use reason]]

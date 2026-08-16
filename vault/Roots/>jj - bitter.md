@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** bitter · **Root:** أجج
 
+
 ### Words (wikilinks — these create the graph)
 - [[>jAj - bitter]]
 

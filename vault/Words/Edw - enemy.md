@@ -2,8 +2,8 @@
 type: word
 lemma: "عَدُوّ"
 slug: "Edw - enemy"
-surah_count: 24
-ayah_count: 45
+surah_count: 23
+ayah_count: 43
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **enemy** · Lemma **عَدُوّ**
 
-### Surahs (24)
+### Surahs (23)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -27,7 +27,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[007 Al-Araf]]
 - [[008 Al-Anfal]]
 - [[009 At-Tawbah]]
-- [[010 Yunus]]
 - [[012 Yusuf]]
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
@@ -211,23 +210,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/101)
 
-#### 6:108 · [[006 Al-Anam]]
+#### 6:112 · [[006 Al-Anam]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوًۢا بِغَيْرِ عِلْمٍ ۗ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم بِمَا كَانُوا۟ يَعْمَلُونَ
+وَكَذَٰلِكَ جَعَلْنَا لِكُلِّ نَبِىٍّ عَدُوًّا شَيَـٰطِينَ ٱلْإِنسِ وَٱلْجِنِّ يُوحِى بَعْضُهُمْ إِلَىٰ بَعْضٍ زُخْرُفَ ٱلْقَوْلِ غُرُورًا ۚ وَلَوْ شَآءَ رَبُّكَ مَا فَعَلُوهُ ۖ فَذَرْهُمْ وَمَا يَفْتَرُونَ
 
 </div>
 
-**Word in this verse:** `عَدْوًۢا` — (in) enmity
+**Word in this verse:** `عَدُوًّۭا` — an enemy 
 
-**English (Sahih International):** And do not insult those they invoke other than Allāh, lest they insult Allāh in enmity without knowledge. Thus We have made pleasing to every community their deeds. Then to their Lord is their return, and He will inform them about what they used to do.
+**English (Sahih International):** And thus We have made for every prophet an enemy - devils from mankind and jinn, inspiring to one another decorative speech in delusion. But if your Lord had willed, they would not have done it, so leave them and that which they invent.
 
-**English (Yusuf Ali):** Revile not ye those whom they call upon besides Allah, lest they out of spite revile Allah in their ignorance. Thus have We made alluring to each people its own doings. In the end will they return to their Lord, and We shall then tell them the truth of all that they did.
+**English (Yusuf Ali):** Likewise did We make for every Messenger an enemy,- evil ones among men and jinns, inspiring each other with flowery discourses by way of deception. If thy Lord had so planned, they would not have done it: so leave them and their inventions alone.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں کو یہ مشرک خدا کے سوا پکارتے ہیں ان کو برا نہ کہنا کہ یہ بھی کہیں خدا کو بےادبی سے بے سمجھے برا (نہ) کہہ بیٹھیں۔ اس طرح ہم نے ہر ایک فرقے کے اعمال (ان کی نظروں میں) اچھے کر دکھائے ہیں۔ پھر ان کو اپنے پروردگار ک طرف لوٹ کر جانا ہے تب وہ ان کو بتائے گا کہ وہ کیا کیا کرتے تھے
+**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے شیطان (سیرت) انسانوں اور جنوں کو ہر پیغمبر کا دشمن بنا دیا تھا وہ دھوکا دینے کے لیے ایک دوسرے کے دل میں ملمع کی باتیں ڈالتے رہتے تھے اور اگر تمہارا پروردگار چاہتا تو وہ ایسا نہ کرتے تو ان کو اور جو کچھ یہ افتراء کرتے ہیں اسے چھوڑ دو
 
-[Open on Quran.com](https://quran.com/6/108)
+[Open on Quran.com](https://quran.com/6/112)
 
-_…and **35** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **33** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

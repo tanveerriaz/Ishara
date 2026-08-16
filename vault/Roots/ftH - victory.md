@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** victory · **Root:** فتح
 
+
 ### Words (wikilinks — these create the graph)
 - [[AstftH - that]]
 - [[ftH - victory]]
+- [[ftH - we opened]]
 - [[mfAtH - keys]]
 
 ### Surahs where this root appears

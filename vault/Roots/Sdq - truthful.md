@@ -11,10 +11,14 @@ tags: [root, meaning]
 
 **Sense:** truthful · **Root:** صدق
 
+
 ### Words (wikilinks — these create the graph)
 - [[SAdq - truthful]]
+- [[Sdq - found true]]
+- [[Sdq - true]]
 - [[Sdq - truth]]
 - [[Sdqp - charities]]
+- [[Sdyq - friend]]
 - [[Sdyq - truthful]]
 - [[mSdq - confirming]]
 - [[tSdq - gives charity]]

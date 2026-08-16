@@ -11,9 +11,12 @@ tags: [root, meaning]
 
 **Sense:** all · **Root:** جمع
 
+
 ### Words (wikilinks — these create the graph)
+- [[>jmE - agreed]]
 - [[>jmE - all]]
 - [[jAmE - will gather]]
+- [[jmE - they accumulate]]
 - [[jmE - two hosts]]
 - [[jmyE - all]]
 

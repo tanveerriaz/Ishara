@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** ignorant · **Root:** جهل
 
+
 ### Words (wikilinks — these create the graph)
 - [[jAhl - ignorant]]
 - [[jAhlyp - time ignorance]]

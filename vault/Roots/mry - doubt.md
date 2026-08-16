@@ -11,10 +11,11 @@ tags: [root, meaning]
 
 **Sense:** doubt · **Root:** مري
 
+
 ### Words (wikilinks — these create the graph)
 - [[mmtry - doubters]]
 - [[mryp - doubt]]
-- [[tmAr - argue]]
+- [[tmAr - dispute]]
 - [[ymtr - doubt]]
 
 ### Surahs where this root appears

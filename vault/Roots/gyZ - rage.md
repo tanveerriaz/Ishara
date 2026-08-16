@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** rage · **Root:** غيظ
 
+
 ### Words (wikilinks — these create the graph)
 - [[gyZ - rage]]
 - [[ygyZ - angers]]

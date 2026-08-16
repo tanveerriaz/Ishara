@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** doubt · **Root:** شكك
 
+
 ### Words (wikilinks — these create the graph)
 - [[$k - doubt]]
 

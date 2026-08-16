@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** follow · **Root:** سلك
 
+
 ### Words (wikilinks — these create the graph)
 - [[slk - follow]]
 

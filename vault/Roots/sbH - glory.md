@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** glory · **Root:** سبح
 
+
 ### Words (wikilinks — these create the graph)
 - [[sbH - glorify]]
+- [[sbH - occupation]]
 - [[sbHAn - glory]]
 
 ### Surahs where this root appears

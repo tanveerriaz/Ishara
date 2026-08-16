@@ -14,22 +14,22 @@ The Relief · 8 ayahs
 
 ## Words in this surah (graph)
 
+- [[ysr - ease 2]] — `يُسْر` · ease
 - [[Esr - hardship]] — `عُسْر` · hardship
-- [[Sdr - breasts]] — `صَدْر` · breasts
-- [[Zhr - backs]] — `ظَهْر` · backs
 - [[$rH - he expands]] — `شَرَحَ` · he expands
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[yrgb - you desire]] — `يَرْغَبُ` · you desire
-- [[ysr - ease]] — `يُسْر` · ease
-- [[wzr - burden]] — `وِزْر` · burden
 - [[rb - lord]] — `رَبّ` · lord
+- [[wzr - burden]] — `وِزْر` · burden
+- [[Zhr - backs]] — `ظَهْر` · backs
+- [[Sdr - breasts]] — `صَدْر` · breasts
 - [[rfE - we raised]] — `رَفَعَ` · we raised
+- [[yrgb - you desire]] — `يَرْغَبُ` · you desire
+- [[*kr - reminder]] — `ذِكْر` · reminder
 - [[wDE - she delivered]] — `وَضَعَ` · she delivered
 
 ## Roots
 
 - [[$rH - he expands]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[Esr - hardship]]
 - [[Sdr - breasts]]
 - [[Zhr - backs]]

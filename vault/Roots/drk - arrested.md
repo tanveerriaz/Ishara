@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** arrested · **Root:** درك
 
+
 ### Words (wikilinks — these create the graph)
 - [[>drk - overtakes him]]
 - [[AdArk - arrested]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** she-camel · **Root:** نوق
 
+
 ### Words (wikilinks — these create the graph)
 - [[nAqp - she-camel]]
 

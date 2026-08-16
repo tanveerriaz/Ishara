@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** lamp · **Root:** سرج
 
+
 ### Words (wikilinks — these create the graph)
 - [[srAj - lamp]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** places death · **Root:** ضجع
 
+
 ### Words (wikilinks — these create the graph)
 - [[mDAjE - places death]]
 

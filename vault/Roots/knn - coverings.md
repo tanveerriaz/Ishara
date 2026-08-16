@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** coverings · **Root:** كنن
 
+
 ### Words (wikilinks — these create the graph)
 - [[>knn - conceals]]
 - [[>knp - coverings]]

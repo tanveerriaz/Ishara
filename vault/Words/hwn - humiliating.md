@@ -2,8 +2,8 @@
 type: word
 lemma: "هُون"
 slug: "hwn - humiliating"
-surah_count: 5
-ayah_count: 5
+surah_count: 4
+ayah_count: 4
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **humiliating** · Lemma **هُون**
 
-### Surahs (5)
+### Surahs (4)
 - [[006 Al-Anam]]
 - [[016 An-Nahl]]
-- [[025 Al-Furqan]]
 - [[041 Fussilat]]
 - [[046 Al-Ahqaf]]
 
@@ -65,24 +64,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور اس خبر بد سے (جو وہ سنتا ہے) لوگوں سے چھپتا پھرتا ہے (اور سوچتا ہے) کہ آیا ذلت برداشت کرکے لڑکی کو زندہ رہنے دے یا زمین میں گاڑ دے۔ دیکھو یہ جو تجویز کرتے ہیں بہت بری ہے
 
 [Open on Quran.com](https://quran.com/16/59)
-
-#### 25:63 · [[025 Al-Furqan]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَـٰهِلُونَ قَالُوا۟ سَلَـٰمًا
-
-</div>
-
-**Word in this verse:** `هَوْنًۭا` — (in) humbleness
-
-**English (Sahih International):** And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace,
-
-**English (Yusuf Ali):** And the servants of (Allah) Most Gracious are those who walk on the earth in humility, and when the ignorant address them, they say, "Peace!";
-
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا کے بندے تو وہ ہیں جو زمین پر آہستگی سے چلتے ہیں اور جب جاہل لوگ ان سے (جاہلانہ) گفتگو کرتے ہیں تو سلام کہتے ہیں
-
-[Open on Quran.com](https://quran.com/25/63)
 
 #### 41:17 · [[041 Fussilat]]
 

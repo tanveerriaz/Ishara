@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** heat · **Root:** حرر
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hr - heat]]
 - [[Hryr - will silk]]

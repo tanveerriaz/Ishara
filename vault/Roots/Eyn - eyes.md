@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** eyes · **Root:** عين
 
+
 ### Words (wikilinks — these create the graph)
 - [[Eyn - eyes]]
+- [[Eyn - large eyes]]
 - [[mEyn - water springs]]
 
 ### Surahs where this root appears

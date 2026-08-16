@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** increase · **Root:** زيد
 
+
 ### Words (wikilinks — these create the graph)
 - [[AzdAd - they increased]]
 - [[zAd - increase]]

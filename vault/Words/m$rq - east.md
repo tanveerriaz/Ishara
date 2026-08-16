@@ -2,8 +2,8 @@
 type: word
 lemma: "مَشْرِق"
 slug: "m$rq - east"
-surah_count: 9
-ayah_count: 13
+surah_count: 8
+ayah_count: 11
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **east** · Lemma **مَشْرِق**
 
-### Surahs (9)
+### Surahs (8)
 - [[002 Al-Baqarah]]
 - [[007 Al-Araf]]
-- [[015 Al-Hijr]]
 - [[026 Ash-Shuara]]
 - [[037 As-Saffat]]
 - [[043 Az-Zukhruf]]
@@ -124,24 +123,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/137)
 
-#### 15:73 · [[015 Al-Hijr]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُشْرِقِينَ
-
-</div>
-
-**Word in this verse:** `مُشْرِقِينَ` — at sunrise
-
-**English (Sahih International):** So the shriek seized them at sunrise.
-
-**English (Yusuf Ali):** But the (mighty) Blast overtook them before morning,
-
-**Urdu (Fatah Muhammad Jalandhari):** سو ان کو سورج نکلتے نکلتے چنگھاڑ نے آپکڑا
-
-[Open on Quran.com](https://quran.com/15/73)
-
 #### 26:28 · [[026 Ash-Shuara]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -159,24 +140,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے کہا کہ مشرق اور مغرب اور جو کچھ ان دونوں میں ہے سب کا مالک، بشرطیکہ تم کو سمجھ ہو
 
 [Open on Quran.com](https://quran.com/26/28)
-
-#### 26:60 · [[026 Ash-Shuara]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَأَتْبَعُوهُم مُّشْرِقِينَ
-
-</div>
-
-**Word in this verse:** `مُّشْرِقِينَ` — (at) sunrise
-
-**English (Sahih International):** So they pursued them at sunrise.
-
-**English (Yusuf Ali):** So they pursued them at sunrise.
-
-**Urdu (Fatah Muhammad Jalandhari):** تو انہوں نے سورج نکلتے (یعنی صبح کو) ان کا تعاقب کیا
-
-[Open on Quran.com](https://quran.com/26/60)
 
 #### 37:5 · [[037 As-Saffat]]
 
@@ -214,5 +177,41 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/43/38)
 
-_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 55:17 · [[055 Ar-Rahman]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ
+
+</div>
+
+**Word in this verse:** `ٱلْمَشْرِقَيْنِ` — (of) the two Easts
+
+**English (Sahih International):** [He is] Lord of the two sunrises and Lord of the two sunsets.
+
+**English (Yusuf Ali):** (He is) Lord of the two Easts and Lord of the two Wests:
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی دونوں مشرقوں اور دونوں مغربوں کا مالک (ہے)
+
+[Open on Quran.com](https://quran.com/55/17)
+
+#### 70:40 · [[070 Al-Maarij]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَآ أُقْسِمُ بِرَبِّ ٱلْمَشَـٰرِقِ وَٱلْمَغَـٰرِبِ إِنَّا لَقَـٰدِرُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْمَشَـٰرِقِ` — (of) the risings
+
+**English (Sahih International):** So I swear by the Lord of [all] risings and settings that indeed We are able
+
+**English (Yusuf Ali):** Now I do call to witness the Lord of all points in the East and the West that We can certainly-
+
+**Urdu (Fatah Muhammad Jalandhari):** ہمیں مشرقوں اور مغربوں کے مالک کی قسم کہ ہم طاقت رکھتے ہیں
+
+[Open on Quran.com](https://quran.com/70/40)
+
+_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

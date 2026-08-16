@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** course · **Root:** سبب
 
+
 ### Words (wikilinks — these create the graph)
 - [[sbb - course]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** case · **Root:** بول
 
+
 ### Words (wikilinks — these create the graph)
 - [[bAl - case]]
 

@@ -14,25 +14,26 @@ The Earthquake · 8 ayahs
 
 ## Words in this surah (graph)
 
-- [[mvqAl - weight]] — `مِثْقال` · weight
 - [[*rp - atom]] — `ذَرَّة` · atom
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[<nsAn - man]] — `إِنسان` · man
+- [[mvqAl - weight]] — `مِثْقال` · weight
+- [[>ry - show me]] — `أَرَيْ` · show me
 - [[rb - lord]] — `رَبّ` · lord
-- [[zlzl - shaken]] — `زُلْزِلُ` · shaken
-- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
-- [[Eml - do]] — `عَمِلَ` · do
-- [[xyr - better]] — `خَيْر` · better
-- [[>xbAr - news]] — `أَخْبار` · news
-- [[$r - evil]] — `شَرّ` · evil
 - [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
 - [[>rD - earth]] — `أَرْض` · earth
+- [[zlzl - shaken]] — `زُلْزِلُ` · shaken
+- [[$r - evil]] — `شَرّ` · evil
+- [[Eml - deeds]] — `عَمَل` · deeds
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[ywm - day]] — `يَوْم` · day
-- [[>ry - show me]] — `أَرَيْ` · show me
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[Eml - do]] — `عَمِلَ` · do
+- [[vql - burdens]] — `ثَقَل` · burdens
 - [[nAs - people]] — `ناس` · people
 - [[qAl - say]] — `قالَ` · say
-- [[vql - burdens]] — `ثَقَل` · burdens
-- [[r>Y - you see]] — `رَأَى` · you see
+- [[<nsAn - man]] — `إِنسان` · man
+- [[>xbAr - news]] — `أَخْبار` · news
+- [[xyr - better]] — `خَيْر` · better
+- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
 
 ## Roots
 

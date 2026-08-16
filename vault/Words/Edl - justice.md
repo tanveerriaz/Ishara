@@ -2,8 +2,8 @@
 type: word
 lemma: "عَدْل"
 slug: "Edl - justice"
-surah_count: 11
-ayah_count: 24
+surah_count: 7
+ayah_count: 12
 tags: [word, meaning]
 ---
 
@@ -19,18 +19,14 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **justice** · Lemma **عَدْل**
 
-### Surahs (11)
+### Surahs (7)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
-- [[007 Al-Araf]]
 - [[016 An-Nahl]]
-- [[027 An-Naml]]
-- [[042 Ash-Shuraa]]
 - [[049 Al-Hujurat]]
 - [[065 At-Talaq]]
-- [[082 Al-Infitar]]
 
 ## Verses (full text)
 
@@ -90,24 +86,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/282)
 
-#### 4:3 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَـٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَـٰثَ وَرُبَـٰعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَـٰنُكُمْ ۚ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟
-
-</div>
-
-**Word in this verse:** `تَعْدِلُوا۟` — you can do justice
-
-**English (Sahih International):** And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hands possess [i.e., slaves]. That is more suitable that you may not incline [to injustice].
-
-**English (Yusuf Ali):** If ye fear that ye shall not be able to deal justly with the orphans, Marry women of your choice, Two or three or four; but if ye fear that ye shall not be able to deal justly (with them), then only one, or (a captive) that your right hands possess, that will be more suitable, to prevent you from doing injustice.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو اس بات کا خوف ہو کہ یتیم لڑکیوں کے بارےانصاف نہ کرسکوگے تو ان کے سوا جو عورتیں تم کو پسند ہوں دو دو یا تین تین یا چار چار ان سے نکاح کرلو۔ اور اگر اس بات کا اندیشہ ہو کہ (سب عورتوں سے) یکساں سلوک نہ کرسکو گے تو ایک عورت (کافی ہے) یا لونڈی جس کے تم مالک ہو۔ اس سے تم بےانصافی سے بچ جاؤ گے
-
-[Open on Quran.com](https://quran.com/4/3)
-
 #### 4:58 · [[004 An-Nisa]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -125,60 +103,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** خدا تم کو حکم دیتا ہے کہ امانت والوں کی امانتیں ان کے حوالے کردیا کرو اور جب لوگوں میں فیصلہ کرنے لگو تو انصاف سے فیصلہ کیا کرو خدا تمہیں بہت خوب نصیحت کرتا ہے بےشک خدا سنتا اور دیکھتا ہے
 
 [Open on Quran.com](https://quran.com/4/58)
-
-#### 4:129 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ ۖ فَلَا تَمِيلُوا۟ كُلَّ ٱلْمَيْلِ فَتَذَرُوهَا كَٱلْمُعَلَّقَةِ ۚ وَإِن تُصْلِحُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا
-
-</div>
-
-**Word in this verse:** `تَعْدِلُوا۟` — deal justly
-
-**English (Sahih International):** And you will never be able to be equal [in feeling] between wives, even if you should strive [to do so]. So do not incline completely [toward one] and leave another hanging. And if you amend [your affairs] and fear Allāh - then indeed, Allāh is ever Forgiving and Merciful.
-
-**English (Yusuf Ali):** Ye are never able to be fair and just as between women, even if it is your ardent desire: But turn not away (from a woman) altogether, so as to leave her (as it were) hanging (in the air). If ye come to a friendly understanding, and practise self-restraint, Allah is Oft-forgiving, Most Merciful.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور تم خوا کتنا ہی چاہو عورتوں میں ہرگز برابری نہیں کرسکو گے تو ایسا بھی نہ کرنا کہ ایک ہی کی طرف ڈھل جاؤ اور دوسری کو (ایسی حالت میں) چھوڑ دو کہ گویا ادھر ہوا میں لٹک رہی ہے اور اگر آپس میں موافقت کرلو اور پرہیزگاری کرو تو خدا بخشنے والا مہربان ہے
-
-[Open on Quran.com](https://quran.com/4/129)
-
-#### 4:135 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ ۚ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
-
-</div>
-
-**Word in this verse:** `تَعْدِلُوا۟ ۚ` — you deviate
-
-**English (Sahih International):** O you who have believed, be persistently standing firm in justice, witnesses for Allāh, even if it be against yourselves or parents and relatives. Whether one is rich or poor, Allāh is more worthy of both. So follow not [personal] inclination, lest you not be just. And if you distort [your testimony] or refuse [to give it], then indeed Allāh is ever, of what you do, Aware.
-
-**English (Yusuf Ali):** O ye who believe! stand out firmly for justice, as witnesses to Allah, even as against yourselves, or your parents, or your kin, and whether it be (against) rich or poor: for Allah can best protect both. Follow not the lusts (of your hearts), lest ye swerve, and if ye distort (justice) or decline to do justice, verily Allah is well-acquainted with all that ye do.
-
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! انصاف پر قائم رہو اور خدا کے لئے سچی گواہی دو خواہ (اس میں) تمہارا یا تمہارےماں باپ اور رشتہ داروں کا نقصان ہی ہو۔ اگر کوئی امیر ہے یا فقیر تو خدا ان کا خیر خواہ ہے۔ تو تم خواہش نفس کے پیچھے چل کر عدل کو نہ چھوڑ دینا۔ اگر تم پیچیدا شہادت دو گے یا (شہادت سے) بچنا چاہو گے تو (جان رکھو) خدا تمہارے سب کاموں سے واقف ہے
-
-[Open on Quran.com](https://quran.com/4/135)
-
-#### 5:8 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ
-
-</div>
-
-**Word in this verse:** `تَعْدِلُوا۟ ۚ` — you do justice
-
-**English (Sahih International):** O you who have believed, be persistently standing firm for Allāh, witnesses in justice, and do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness. And fear Allāh; indeed, Allāh is [fully] Aware of what you do.
-
-**English (Yusuf Ali):** O ye who believe! stand out firmly for Allah, as witnesses to fair dealing, and let not the hatred of others to you make you swerve to wrong and depart from justice. Be just: that is next to piety: and fear Allah. For Allah is well-acquainted with all that ye do.
-
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والوں! خدا کے لیے انصاف کی گواہی دینے کے لیے کھڑے ہو جایا کرو۔ اور لوگوں کی دشمنی تم کو اس بات پر آمادہ نہ کرے کہ انصاف چھوڑ دو۔ انصاف کیا کرو کہ یہی پرہیزگاری کی بات ہے اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا تمہارے سب اعمال سے خبردار ہے
-
-[Open on Quran.com](https://quran.com/5/8)
 
 #### 5:95 · [[005 Al-Maidah]]
 
@@ -216,5 +140,77 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/5/106)
 
-_…and **14** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 6:70 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَذَرِ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ وَذَكِّرْ بِهِۦٓ أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِىٌّ وَلَا شَفِيعٌ وَإِن تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِنْهَآ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ أُبْسِلُوا۟ بِمَا كَسَبُوا۟ ۖ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ
+
+</div>
+
+**Word in this verse:** `عَدْلٍۢ` — ransom
+
+**English (Sahih International):** And leave those who take their religion as amusement and diversion and whom the worldly life has deluded. But remind with it [i.e., the Qur’ān], lest a soul be given up to destruction for what it earned; it will have other than Allāh no protector and no intercessor. And if it should offer every compensation, it would not be taken from it [i.e., that soul]. Those are the ones who are given to destruction for what they have earned. For them will be a drink of scalding water and a painful punishment because they used to disbelieve.
+
+**English (Yusuf Ali):** Leave alone those who take their religion to be mere play and amusement, and are deceived by the life of this world. But proclaim (to them) this (truth): that every soul delivers itself to ruin by its own acts: it will find for itself no protector or intercessor except Allah: if it offered every ransom, (or reparation), none will be accepted: such is (the end of) those who deliver themselves to ruin by their own acts: they will have for drink (only) boiling water, and for punishment, one most grievous: for they persisted in rejecting Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے اپنےدین کو کھیل اور تماشا بنا رکھا ہے اور دنیا کی زندگی نے ان کو دھوکے میں ڈال رکھا ہے ان سے کچھ کام نہ رکھو ہاں اس (قرآن) کے ذریعے سے نصیحت کرتے رہو تاکہ (قیامت کے دن) کوئی اپنے اعمال کی سزا میں ہلاکت میں نہ ڈالا جائے (اس روز) خدا کےسوا نہ تو کوئی اس کا دوست ہوگا اور نہ سفارش کرنے والا۔ اور اگر وہ ہر چیز (جو روئے زمین پر ہے بطور) معاوضہ دینا چاہے تو وہ اس سے قبول نہ ہو یہی لوگ ہیں کہ اپنے اعمال کے وبال میں ہلاکت میں ڈالے گئے ان کے لئے پینے کو کھولتا ہوا پانی اور دکھ دینے والا عذاب ہے اس لئے کہ کفر کرتے تھے
+
+[Open on Quran.com](https://quran.com/6/70)
+
+#### 6:115 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا ۚ لَّا مُبَدِّلَ لِكَلِمَـٰتِهِۦ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+
+</div>
+
+**Word in this verse:** `وَعَدْلًۭا ۚ` — and justice
+
+**English (Sahih International):** And the word of your Lord has been fulfilled in truth and in justice. None can alter His words, and He is the Hearing, the Knowing.
+
+**English (Yusuf Ali):** The word of thy Lord doth find its fulfilment in truth and in justice: None can change His words: for He is the one who heareth and knoweth all.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے پروردگار کی باتیں سچائی اور انصاف میں پوری ہیں اس کی باتوں کو کوئی بدلنے والا نہیں اور وہ سنتا جانتا ہے
+
+[Open on Quran.com](https://quran.com/6/115)
+
+#### 16:76 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَضَرَبَ ٱللَّهُ مَثَلًا رَّجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ أَيْنَمَا يُوَجِّههُّ لَا يَأْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ بِٱلْعَدْلِ ۙ وَهُوَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+
+</div>
+
+**Word in this verse:** `بِٱلْعَدْلِ ۙ` — [of] justice
+
+**English (Sahih International):** And Allāh presents an example of two men, one of them dumb and unable to do a thing, while he is a burden to his guardian. Wherever he directs him, he brings no good. Is he equal to one who commands justice, while he is on a straight path?
+
+**English (Yusuf Ali):** Allah sets forth (another) Parable of two men: one of them dumb, with no power of any sort; a wearisome burden is he to his master; whichever way be directs him, he brings no good: is such a man equal with one who commands Justice, and is on a Straight Way?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ایک اور مثال بیان فرماتا ہے کہ دو آدمی ہیں ایک اُن میں سے گونگا (اور دوسرے کی ملک) ہے (بےاختیار وناتوان) کہ کسی چیز پر قدرت نہیں رکھتا۔ اور اپنے مالک کو دوبھر ہو رہا ہے وہ جہاں اُسے بھیجتا ہے (خیر سے کبھی) بھلائی نہیں لاتا۔ کیا ایسا (گونگا بہرا) اور وہ شخص جو (سنتا بولتا اور) لوگوں کو انصاف کرنے کا حکم دیتا ہے اور خود سیدھے راستے پر چل رہا ہے دونوں برابر ہیں؟
+
+[Open on Quran.com](https://quran.com/16/76)
+
+#### 16:90 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَـٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `بِٱلْعَدْلِ` — justice
+
+**English (Sahih International):** Indeed, Allāh orders justice and good conduct and giving [help] to relatives and forbids immorality and bad conduct and oppression. He admonishes you that perhaps you will be reminded.
+
+**English (Yusuf Ali):** Allah commands justice, the doing of good, and liberality to kith and kin, and He forbids all shameful deeds, and injustice and rebellion: He instructs you, that ye may receive admonition.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تم کو انصاف اور احسان کرنے اور رشتہ داروں کو (خرچ سے مدد) دینے کا حکم دیتا ہے۔ اور بےحیائی اور نامعقول کاموں سے اور سرکشی سے منع کرتا ہے (اور) تمہیں نصیحت کرتا ہے تاکہ تم یاد رکھو
+
+[Open on Quran.com](https://quran.com/16/90)
+
+_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

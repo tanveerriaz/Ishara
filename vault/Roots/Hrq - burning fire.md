@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** burning fire · **Root:** حرق
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hrq - burn him]]
 - [[Hryq - burning fire]]

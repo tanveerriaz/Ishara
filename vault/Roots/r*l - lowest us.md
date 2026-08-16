@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** lowest us · **Root:** رذل
 
+
 ### Words (wikilinks — these create the graph)
 - [[>r*l - lowest us]]
 

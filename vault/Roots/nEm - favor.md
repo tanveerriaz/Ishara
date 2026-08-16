@@ -11,10 +11,13 @@ tags: [root, meaning]
 
 **Sense:** favor · **Root:** نعم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>nEm - i bestowed]]
 - [[nEm - cattle]]
+- [[nEm - excellent]]
 - [[nEmp - favor]]
+- [[nEmp - pleasant things]]
 - [[nEym - delight]]
 
 ### Surahs where this root appears

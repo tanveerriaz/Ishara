@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** footsteps · **Root:** خطو
 
+
 ### Words (wikilinks — these create the graph)
 - [[xTwp - footsteps]]
 

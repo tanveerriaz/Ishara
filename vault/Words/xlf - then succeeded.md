@@ -1,0 +1,120 @@
+---
+type: word
+lemma: "خَلَفَ"
+slug: "xlf - then succeeded"
+surah_count: 3
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# xlf - then succeeded
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[xlf - differ]]
+
+### Meaning
+**then succeeded** · Lemma **خَلَفَ**
+
+### Surahs (3)
+- [[007 Al-Araf]]
+- [[019 Maryam]]
+- [[043 Az-Zukhruf]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
+
+#### 7:142 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَوَٰعَدْنَا مُوسَىٰ ثَلَـٰثِينَ لَيْلَةً وَأَتْمَمْنَـٰهَا بِعَشْرٍ فَتَمَّ مِيقَـٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً ۚ وَقَالَ مُوسَىٰ لِأَخِيهِ هَـٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ
+
+</div>
+
+**Word in this verse:** `ٱخْلُفْنِى` — Take my place
+
+**English (Sahih International):** And We made an appointment with Moses for thirty nights and perfected them by [the addition of] ten; so the term of his Lord was completed as forty nights. And Moses said to his brother Aaron, "Take my place among my people, do right [by them], and do not follow the way of the corrupters."
+
+**English (Yusuf Ali):** We appointed for Moses thirty nights, and completed (the period) with ten (more): thus was completed the term (of communion) with his Lord, forty nights. And Moses had charged his brother Aaron (before he went up): "Act for me amongst my people: Do right, and follow not the way of those who do mischief."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ سے تیس رات کی میعاد مقرر کی۔ اور اس دس (راتیں) اور ملا کر اسے پورا (چلّہ) کردیا تو اس کے پروردگار کی چالیس رات کی میعاد پوری ہوگئی۔ اور موسیٰ نے اپنے بھائی ہارون سے کہا کہ میرے (کوہِٰ طور پر جانے کے) بعد تم میری قوم میں میرے جانشین ہو (ان کی) اصلاح کرتے رہنا ٹھیک اور شریروں کے رستے نہ چلنا
+
+[Open on Quran.com](https://quran.com/7/142)
+
+#### 7:150 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَـٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ بَعْدِىٓ ۖ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ ۖ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيْهِ ۚ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `خَلَفْتُمُونِى` — you have done in my place
+
+**English (Sahih International):** And when Moses returned to his people, angry and grieved, he said, "How wretched is that by which you have replaced me after [my departure]. Were you impatient over the matter of your Lord?" And he threw down the tablets and seized his brother by [the hair of] his head, pulling him toward him. [Aaron] said, "O son of my mother, indeed the people overpowered me and were about to kill me, so let not the enemies rejoice over me and do not place me among the wrongdoing people."
+
+**English (Yusuf Ali):** When Moses came back to his people, angry and grieved, he said: "Evil it is that ye have done in my place in my absence: did ye make haste to bring on the judgment of your Lord?" He put down the tablets, seized his brother by (the hair of) his head, and dragged him to him. Aaron said: "Son of my mother! the people did indeed reckon me as naught, and went near to slaying me! Make not the enemies rejoice over my misfortune, nor count thou me amongst the people of sin."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ اپنی قوم میں نہایت غصے اور افسوس کی حالت میں واپس آئے۔ تو کہنے لگے کہ تم نے میرے بعد بہت ہی بداطواری کی۔ کیا تم نے اپنے پروردگار کا حکم (یعنی میرا اپنے پاس آنا) جلد چاہا (یہ کہا) اور (شدت غضب سے تورات کی) تختیاں ڈال دیں اور اپنے بھائی کے سر (کے بالوں) کو پکڑ کر اپنی طرف کھینچنے لگے۔ انہوں نے کہا کہ بھائی جان لوگ تو مجھے کمزور سمجھتے تھے اور قریب تھا کہ قتل کردیں۔ تو ایسا کام نہ کیجیے کہ دشمن مجھ پر ہنسیں اور مجھے ظالم لوگوں میں مت ملایئے
+
+[Open on Quran.com](https://quran.com/7/150)
+
+#### 7:169 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ وَرِثُوا۟ ٱلْكِتَـٰبَ يَأْخُذُونَ عَرَضَ هَـٰذَا ٱلْأَدْنَىٰ وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُۥ يَأْخُذُوهُ ۚ أَلَمْ يُؤْخَذْ عَلَيْهِم مِّيثَـٰقُ ٱلْكِتَـٰبِ أَن لَّا يَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ وَدَرَسُوا۟ مَا فِيهِ ۗ وَٱلدَّارُ ٱلْـَٔاخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ
+
+</div>
+
+**Word in this verse:** `فَخَلَفَ` — Then succeeded
+
+**English (Sahih International):** And there followed them successors who inherited the Scripture [while] taking the commodities of this lower life and saying, "It will be forgiven for us." And if an offer like it comes to them, they will [again] take it. Was not the covenant of the Scripture [i.e., the Torah] taken from them that they would not say about Allāh except the truth, and they studied what was in it? And the home of the Hereafter is better for those who fear Allāh, so will you not use reason?
+
+**English (Yusuf Ali):** After them succeeded an (evil) generation: They inherited the Book, but they chose (for themselves) the vanities of this world, saying (for excuse): "(Everything) will be forgiven us." (Even so), if similar vanities came their way, they would (again) seize them. Was not the covenant of the Book taken from them, that they would not ascribe to Allah anything but the truth? and they study what is in the Book. But best for the righteous is the home in the Hereafter. Will ye not understand?
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے بعد ناخلف ان کے قائم مقام ہوئے جو کتاب کے وارث بنے۔ یہ (بےتامل) اس دنیائے دنی کا مال ومتاع لے لیتے ہیں اور کہتے ہیں کہ ہم بخش دیئے جائیں گے۔ اور (لوگ ایسوں پر طعن کرتے ہیں) اگر ان کے سامنے بھی ویسا ہی مال آجاتا ہے تو وہ بھی اسے لے لیتے ہیں۔ کیا ان سے کتاب کی نسبت عہد نہیں لیا گیا کہ خدا پر سچ کے سوا اور کچھ نہیں کہیں گے۔ اور جو کچھ اس (کتاب) میں ہے اس کو انہوں نے پڑھ بھی لیا ہے۔ اور آخرت کا گھر پرہیزگاروں کے لیے بہتر ہے کیا تم سمجھتے نہیں
+
+[Open on Quran.com](https://quran.com/7/169)
+
+#### 19:59 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ أَضَاعُوا۟ ٱلصَّلَوٰةَ وَٱتَّبَعُوا۟ ٱلشَّهَوَٰتِ ۖ فَسَوْفَ يَلْقَوْنَ غَيًّا
+
+</div>
+
+**Word in this verse:** `۞ فَخَلَفَ` — Then succeeded
+
+**English (Sahih International):** But there came after them successors [i.e., later generations] who neglected prayer and pursued desires; so they are going to meet evil -
+
+**English (Yusuf Ali):** But after them there followed a posterity who missed prayers and followed after lusts soon, then, will they face Destruction,-
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے بعد چند ناخلف ان کے جانشیں ہوئے جنہوں نے نماز کو (چھوڑ دیا گویا اسے) کھو دیا۔ اور خواہشات نفسانی کے پیچھے لگ گئے۔ سو عنقریب ان کو گمراہی (کی سزا) ملے گی
+
+[Open on Quran.com](https://quran.com/19/59)
+
+#### 43:60 · [[043 Az-Zukhruf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَوْ نَشَآءُ لَجَعَلْنَا مِنكُم مَّلَـٰٓئِكَةً فِى ٱلْأَرْضِ يَخْلُفُونَ
+
+</div>
+
+**Word in this verse:** `يَخْلُفُونَ` — succeeding
+
+**English (Sahih International):** And if We willed, We could have made [instead] of you angels succeeding [one another] on the earth.
+
+**English (Yusuf Ali):** And if it were Our Will, We could make angels from amongst you, succeeding each other on the earth.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم چاہتے تو تم میں سے فرشتے بنا دیتے جو تمہاری جگہ زمین میں رہتے
+
+[Open on Quran.com](https://quran.com/43/60)
+

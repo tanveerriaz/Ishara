@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "كَلَّمَ"
+lemma: "كَلِم"
 slug: "klm - words"
-surah_count: 14
-ayah_count: 24
+surah_count: 3
+ayah_count: 4
 tags: [word, meaning]
 ---
 
@@ -17,135 +17,16 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[klm - words]]
 
 ### Meaning
-**words** · Lemma **كَلَّمَ**
+**words** · Lemma **كَلِم**
 
-### Surahs (14)
-- [[002 Al-Baqarah]]
-- [[003 Ali Imran]]
+### Surahs (3)
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
-- [[006 Al-Anam]]
-- [[007 Al-Araf]]
-- [[012 Yusuf]]
-- [[013 Ar-Rad]]
-- [[019 Maryam]]
-- [[023 Al-Muminun]]
-- [[027 An-Naml]]
 - [[035 Fatir]]
-- [[036 Ya-Sin]]
-- [[042 Ash-Shuraa]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:118 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ ۘ تَشَـٰبَهَتْ قُلُوبُهُمْ ۗ قَدْ بَيَّنَّا ٱلْـَٔايَـٰتِ لِقَوْمٍ يُوقِنُونَ
-
-</div>
-
-**Word in this verse:** `يُكَلِّمُنَا` — speaks to us
-
-**English (Sahih International):** Those who do not know say, "Why does Allāh not speak to us or there come to us a sign?" Thus spoke those before them like their words. Their hearts resemble each other. We have shown clearly the signs to a people who are certain [in faith].
-
-**English (Yusuf Ali):** Say those without knowledge: "Why speaketh not Allah unto us? or why cometh not unto us a Sign?" So said the people before them words of similar import. Their hearts are alike. We have indeed made clear the Signs unto any people who hold firmly to Faith (in their hearts).
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ (کچھ) نہیں جانتے (یعنی مشرک) وہ کہتے ہیں کہ خدا ہم سے کلام کیوں نہیں کرتا۔ یا ہمارے پاس کوئی نشانی کیوں نہیں آتی۔ اسی طرح جو لوگ ان سے پہلے تھے، وہ بھی انہی کی سی باتیں کیا کرتے تھے۔ ان لوگوں کے دل آپس میں ملتے جلتے ہیں۔ جو لوگ صاحبِ یقین ہیں، ان کے (سمجھانے کے) لیے نشانیاں بیان کردی ہیں
-
-[Open on Quran.com](https://quran.com/2/118)
-
-#### 2:174 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلَ ٱللَّهُ مِنَ ٱلْكِتَـٰبِ وَيَشْتَرُونَ بِهِۦ ثَمَنًا قَلِيلًا ۙ أُو۟لَـٰٓئِكَ مَا يَأْكُلُونَ فِى بُطُونِهِمْ إِلَّا ٱلنَّارَ وَلَا يُكَلِّمُهُمُ ٱللَّهُ يَوْمَ ٱلْقِيَـٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
-
-</div>
-
-**Word in this verse:** `يُكَلِّمُهُمُ` — will speak to them
-
-**English (Sahih International):** Indeed, they who conceal what Allāh has sent down of the Book and exchange it for a small price - those consume not into their bellies except the Fire. And Allāh will not speak to them on the Day of Resurrection, nor will He purify them. And they will have a painful punishment.
-
-**English (Yusuf Ali):** Those who conceal Allah's revelations in the Book, and purchase for them a miserable profit,- they swallow into themselves naught but Fire; Allah will not address them on the Day of Resurrection. Nor purify them: Grievous will be their penalty.
-
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (خدا) کی کتاب سے ان (آیتوں اور ہدایتوں) کو جو اس نے نازل فرمائی ہیں چھپاتے اور ان کے بدلے تھوڑی سی قیمت (یعنی دنیاوی منفعت)حاصل کرتے ہیں وہ اپنے پیٹوں میں محض آگ بھرتے ہیں۔ ایسے لوگوں سے خدا قیامت کے دن نہ کلام کرے گا اور نہ ان کو (گناہوں سے) پاک کرے گا۔اور ان کے لئے دکھ دینے والا عذاب ہے
-
-[Open on Quran.com](https://quran.com/2/174)
-
-#### 2:253 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۘ مِّنْهُم مَّن كَلَّمَ ٱللَّهُ ۖ وَرَفَعَ بَعْضَهُمْ دَرَجَـٰتٍ ۚ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَـٰتِ وَأَيَّدْنَـٰهُ بِرُوحِ ٱلْقُدُسِ ۗ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِنۢ بَعْدِهِم مِّنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَـٰتُ وَلَـٰكِنِ ٱخْتَلَفُوا۟ فَمِنْهُم مَّنْ ءَامَنَ وَمِنْهُم مَّن كَفَرَ ۚ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُوا۟ وَلَـٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ
-
-</div>
-
-**Word in this verse:** `كَلَّمَ` — spoke
-
-**English (Sahih International):** Those messengers - some of them We caused to exceed others. Among them were those to whom Allāh spoke, and He raised some of them in degree. And We gave Jesus, the son of Mary, clear proofs, and We supported him with the Pure Spirit [i.e., Gabriel]. If Allāh had willed, those [generations] succeeding them would not have fought each other after the clear proofs had come to them. But they differed, and some of them believed and some of them disbelieved. And if Allāh had willed, they would not have fought each other, but Allāh does what He intends.
-
-**English (Yusuf Ali):** Those messengers We endowed with gifts, some above others: To one of them Allah spoke; others He raised to degrees (of honour); to Jesus the son of Mary We gave clear (Signs), and strengthened him with the holy spirit. If Allah had so willed, succeeding generations would not have fought among each other, after clear (Signs) had come to them, but they (chose) to wrangle, some believing and others rejecting. If Allah had so willed, they would not have fought each other; but Allah Fulfilleth His plan.
-
-**Urdu (Fatah Muhammad Jalandhari):** یہ پیغمبر (جو ہم وقتاً فوقتاً بھیجتے رہیں ہیں) ان میں سے ہم نے بعض کو بعض پر فضیلت دی ہے۔ بعض ایسے ہیں جن سے خدا نے گفتگو فرمائی اور بعض کے (دوسرے امور میں) مرتبے بلند کئے۔ اور عیسیٰ بن مریم کو ہم نے کھلی ہوئی نشانیاں عطا کیں اور روح القدس سے ان کو مدد دی۔ اور اگر خداچاہتا تو ان سے پچھلے لوگ اپنے پاس کھلی نشانیاں آنے کے بعد آپس میں نہ لڑتے لیکن انہوں نے اختلاف کیا تو ان میں سے بعض تو ایمان لے آئے اور بعض کافر ہی رہے۔ اور اگر خدا چاہتا تو یہ لوگ باہم جنگ و قتال نہ کرتے۔ لیکن خدا جو چاہتا ہے کرتا ہے
-
-[Open on Quran.com](https://quran.com/2/253)
-
-#### 3:41 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً ۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَـٰثَةَ أَيَّامٍ إِلَّا رَمْزًا ۗ وَٱذْكُر رَّبَّكَ كَثِيرًا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَـٰرِ
-
-</div>
-
-**Word in this verse:** `تُكَلِّمَ` — you will speak
-
-**English (Sahih International):** He said, "My Lord, make for me a sign." He said, "Your sign is that you will not [be able to] speak to the people for three days except by gesture. And remember your Lord much and exalt [Him with praise] in the evening and the morning."
-
-**English (Yusuf Ali):** He said: "O my Lord! Give me a Sign!" "Thy Sign," was the answer, "Shall be that thou shalt speak to no man for three days but with signals. Then celebrate the praises of thy Lord again and again, and glorify Him in the evening and in the morning."
-
-**Urdu (Fatah Muhammad Jalandhari):** زکریا نے کہا کہ پروردگار (میرے لیے) کوئی نشانی مقرر فرما خدا نے فرمایا نشانی یہ ہے کہ تم لوگوں سے تین دن اشارے کے سوا بات نہ کر سکو گے تو (ان دنوں میں) اپنے پروردگار کی کثرت سے یاد اور صبح و شام اس کی تسبیح کرنا
-
-[Open on Quran.com](https://quran.com/3/41)
-
-#### 3:46 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَمِنَ ٱلصَّـٰلِحِينَ
-
-</div>
-
-**Word in this verse:** `وَيُكَلِّمُ` — And he will speak
-
-**English (Sahih International):** He will speak to the people in the cradle and in maturity and will be of the righteous."
-
-**English (Yusuf Ali):** "He shall speak to the people in childhood and in maturity. And he shall be (of the company) of the righteous."
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ماں کی گود میں اور بڑی عمر کا ہو کر (دونوں حالتوں میں) لوگوں سے (یکساں) گفتگو کرے گا اور نیکو کاروں میں ہوگا
-
-[Open on Quran.com](https://quran.com/3/46)
-
-#### 3:77 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِنَّ ٱلَّذِينَ يَشْتَرُونَ بِعَهْدِ ٱللَّهِ وَأَيْمَـٰنِهِمْ ثَمَنًا قَلِيلًا أُو۟لَـٰٓئِكَ لَا خَلَـٰقَ لَهُمْ فِى ٱلْـَٔاخِرَةِ وَلَا يُكَلِّمُهُمُ ٱللَّهُ وَلَا يَنظُرُ إِلَيْهِمْ يَوْمَ ٱلْقِيَـٰمَةِ وَلَا يُزَكِّيهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
-
-</div>
-
-**Word in this verse:** `يُكَلِّمُهُمُ` — will speak to them
-
-**English (Sahih International):** Indeed, those who exchange the covenant of Allāh and their [own] oaths for a small price will have no share in the Hereafter, and Allāh will not speak to them or look at them on the Day of Resurrection, nor will He purify them; and they will have a painful punishment.
-
-**English (Yusuf Ali):** As for those who sell the faith they owe to Allah and their own plighted word for a small price, they shall have no portion in the Hereafter: Nor will Allah (Deign to) speak to them or look at them on the Day of Judgment, nor will He cleans them (of sin): They shall have a grievous penalty.
-
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا کے اقراروں اور اپنی قسموں (کو بیچ ڈالتے ہیں اور ان) کے عوض تھوڑی سی قیمت حاصل کرتے ہیں ان کا آخرت میں کچھ حصہ نہیں ان سے خدا نہ تو کلام کرے گا اور نہ قیامت کے روز ان کی طرف دیکھے گا اور نہ ان کو پاک کرے گا اور ان کو دکھ دینے والا عذاب ہوگا
-
-[Open on Quran.com](https://quran.com/3/77)
 
 #### 4:46 · [[004 An-Nisa]]
 
@@ -164,24 +45,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور یہ جو یہودی ہیں ان میں سے کچھ لوگ ایسے بھی ہیں کہ کلمات کو ان کے مقامات سے بدل دیتے ہیں اور کہتے ہیں کہ ہم نے سن لیا اور نہیں مانا اور سنیئے نہ سنوائے جاؤ اور زبان کو مروڑ کر اور دین میں طعن کی راہ سے (تم سے گفتگو) کے وقت راعنا کہتے ہیں اور اگر (یوں) کہتے ہیں کہ ہم نے سن لیا اور مان لیا اور (صرف) اسمع اور (راعنا کی جگہ) انظرنا (کہتے) تو ان کے حق میں بہتر ہوتا اور بات بھی بہت درست ہوتی لیکن خدان نے ان کے کفر کے سبب ان پر لعنت کر رکھی ہے تو یہ کچھ تھوڑے ہی ایمان لاتے ہیں
 
 [Open on Quran.com](https://quran.com/4/46)
-
-#### 4:164 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَرُسُلًا قَدْ قَصَصْنَـٰهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًا لَّمْ نَقْصُصْهُمْ عَلَيْكَ ۚ وَكَلَّمَ ٱللَّهُ مُوسَىٰ تَكْلِيمًا
-
-</div>
-
-**Word in this verse:** `وَكَلَّمَ` — And spoke
-
-**English (Sahih International):** And [We sent] messengers about whom We have related [their stories] to you before and messengers about whom We have not related to you. And Allāh spoke to Moses with [direct] speech.
-
-**English (Yusuf Ali):** Of some messengers We have already told thee the story; of others We have not;- and to Moses Allah spoke direct;-
-
-**Urdu (Fatah Muhammad Jalandhari):** اور بہت سے پیغمبر ہیں جن کے حالات ہم تم سے پیشتر بیان کرچکے ہیں اور بہت سے پیغمبر ہیں جن کے حالات تم سے بیان نہیں کئے۔ اور موسیٰ سے تو خدا نے باتیں بھی کیں
-
-[Open on Quran.com](https://quran.com/4/164)
 
 #### 5:13 · [[005 Al-Maidah]]
 
@@ -219,5 +82,21 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/5/41)
 
-_…and **14** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 35:10 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ جَمِيعًا ۚ إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّـٰلِحُ يَرْفَعُهُۥ ۚ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمْ عَذَابٌ شَدِيدٌ ۖ وَمَكْرُ أُو۟لَـٰٓئِكَ هُوَ يَبُورُ
+
+</div>
+
+**Word in this verse:** `ٱلْكَلِمُ` — the words
+
+**English (Sahih International):** Whoever desires honor [through power] - then to Allāh belongs all honor. To Him ascends good speech, and righteous work raises it. But they who plot evil deeds will have a severe punishment, and the plotting of those - it will perish.
+
+**English (Yusuf Ali):** If any do seek for glory and power,- to Allah belong all glory and power. To Him mount up (all) Words of Purity: It is He Who exalts each Deed of Righteousness. Those that lay Plots of Evil,- for them is a Penalty terrible; and the plotting of such will be void (of result).
+
+**Urdu (Fatah Muhammad Jalandhari):** جو شخص عزت کا طلب گار ہے تو عزت تو سب خدا ہی کی ہے۔ اسی کی طرف پاکیزہ کلمات چڑھتے ہیں اور نیک عمل اس کو بلند کرتے ہیں۔ اور جو لوگ برے برے مکر کرتے ہیں ان کے لئے سخت عذاب ہے۔ اور ان کا مکر نابود ہوجائے گا
+
+[Open on Quran.com](https://quran.com/35/10)
 

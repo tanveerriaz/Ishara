@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** o adam · **Root:** أدم
 
+
 ### Words (wikilinks — these create the graph)
 - [[Adm - o adam]]
 

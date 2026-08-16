@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** boy · **Root:** فتي
 
+
 ### Words (wikilinks — these create the graph)
 - [[ftY - boy]]
 - [[yfty - explain me]]

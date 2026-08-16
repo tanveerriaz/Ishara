@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** say · **Root:** ركم
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

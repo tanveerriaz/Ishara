@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** break · **Root:** نقض
 
+
 ### Words (wikilinks — these create the graph)
 - [[nqDt - break]]
 

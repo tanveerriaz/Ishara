@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** egypt · **Root:** مصر
 
+
 ### Words (wikilinks — these create the graph)
 - [[mSr - egypt]]
 

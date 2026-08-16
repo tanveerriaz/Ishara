@@ -14,31 +14,31 @@ The Clear Proof · 8 ayahs
 
 ## Words in this surah (graph)
 
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[ktAb - book]] — `كِتاب` · book
-- [[tlY - recited]] — `تَلَى` · recited
-- [[nAr - fire]] — `نار` · fire
-- [[jzA' - recompense]] — `جَزاء` · recompense
-- [[AtY - give]] — `آتَى` · give
 - [[rb - lord]] — `رَبّ` · lord
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[jry - flow]] — `جَرَيْ` · flow
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[>hl - people]] — `أَهْل` · people
-- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
+- [[SlAp - prayer]] — `صَلاة` · prayer
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[Eml - do]] — `عَمِلَ` · do
+- [[ktAb - book]] — `كِتاب` · book
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
 - [[xyr - better]] — `خَيْر` · better
-- [[bEd - after]] — `بَعْد` · after
+- [[jzA' - recompense]] — `جَزاء` · recompense
+- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[Ebd - worship]] — `عَبَدَ` · worship
 - [[allah - God]] — `الله` · God
-- [[bynp - clear proofs]] — `بَيِّنَة` · clear proofs
-- [[End - near]] — `عِند` · near
+- [[>mr - enjoin]] — `أَمَرَ` · enjoin
+- [[>hl - people]] — `أَهْل` · people
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[jA' - came them]] — `جاءَ` · came them
+- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
+- [[tlY - recited]] — `تَلَى` · recited
+- [[zkAp - zakah]] — `زَكاة` · zakah
+- [[$r - evil]] — `شَرّ` · evil
+- [[AtY - give]] — `آتَى` · give
 - [[jnp - gardens]] — `جَنَّة` · gardens
+- [[bEd - after]] — `بَعْد` · after
 - [[nhr - rivers]] — `نَهَر` · rivers
-- [[tHt - underneath it]] — `تَحْت` · underneath it
-- [[>mr - command]] — `أَمَرَ` · command
-- [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[Hnyf - upright]] — `حَنِيف` · upright
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[End - near]] — `عِند` · near
 
 ## Roots
 

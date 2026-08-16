@@ -14,31 +14,31 @@ The Inevitable · 96 ayahs
 
 ## Words in this surah (graph)
 
+- [[nEym - delight]] — `نَعِيم` · delight
 - [[mknwn - well-protected]] — `مَكْنُون` · well-protected
-- [[mqrb - brought near]] — `مُقَرَّب` · brought near
-- [[mk*b - deniers]] — `مُكَذِّب` · deniers
 - [[fAkhp - fruits]] — `فاكِهَة` · fruits
 - [[$Arb - drinkers]] — `شارِب` · drinkers
-- [[nEym - delight]] — `نَعِيم` · delight
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[$mAl - left]] — `شِمال` · left
-- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
-- [[slAm - peace]] — `سَلام` · peace
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[mEyn - water springs]] — `مَعِين` · water springs
-- [[qlyl - little]] — `قَلِيل` · little
-- [[nZr - see]] — `نَظَرَ` · see
+- [[nzl - hospitality]] — `نُزُل` · hospitality
+- [[mqrb - brought near]] — `مُقَرَّب` · brought near
+- [[mk*b - deniers]] — `مُكَذِّب` · deniers
+- [[Hmym - scalding water]] — `حَمِيم` · scalding water
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
 - [[frA$ - couches]] — `فِراش` · couches
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
-- [[mAt - died]] — `ماتَ` · died
-- [[lgw - vain talk]] — `لَغْو` · vain talk
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[krym - noble]] — `كَرِيم` · noble
+- [[mEyn - water springs]] — `مَعِين` · water springs
+- [[Asm - name]] — `اسْم` · name
+- [[xAlq - creator]] — `خالِق` · creator
+- [[Zl - shade]] — `ظِلّ` · shade
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[nZr - see]] — `نَظَرَ` · see
 - [[lHm - flesh]] — `لَحْم` · flesh
-- [[Tyr - birds]] — `طَيْر` · birds
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[qyl - saying]] — `قِيل` · saying
-- [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
+- [[mtk} - reclining]] — `مُتَّكِئ` · reclining
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[byn - between them]] — `بَيْن` · between them
+- [[>n$> - we produced]] — `أَنشَأَ` · we produced
+- [[myqAt - appointment]] — `مِيقات` · appointment
+- [[kvyrp - many]] — `كَثِيرَة` · many
 
 ## Roots
 
@@ -48,7 +48,7 @@ The Inevitable · 96 ayahs
 - [[$ml - left]]
 - [[$rb - drink]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>bw - forefathers]]
 - [[>jj - bitter]]
 - [[>kl - eat]]

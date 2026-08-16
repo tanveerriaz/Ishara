@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they declare · **Root:** علن
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Eln - they declare]]
 - [[ElAnyp - openly]]

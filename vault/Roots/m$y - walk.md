@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** walk · **Root:** مشي
 
+
 ### Words (wikilinks — these create the graph)
 - [[m$ - walk]]
 

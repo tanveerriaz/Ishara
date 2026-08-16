@@ -2,8 +2,8 @@
 type: word
 lemma: "سُوء"
 slug: "sw' - evil"
-surah_count: 25
-ayah_count: 58
+surah_count: 21
+ayah_count: 50
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **evil** · Lemma **سُوء**
 
-### Surahs (25)
+### Surahs (21)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -31,10 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[013 Ar-Rad]]
 - [[014 Ibrahim]]
 - [[016 An-Nahl]]
-- [[019 Maryam]]
 - [[020 Taha]]
-- [[021 Al-Anbya]]
-- [[025 Al-Furqan]]
 - [[026 Ash-Shuara]]
 - [[027 An-Naml]]
 - [[028 Al-Qasas]]
@@ -43,7 +40,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[039 Az-Zumar]]
 - [[040 Ghafir]]
 - [[047 Muhammad]]
-- [[048 Al-Fath]]
 - [[060 Al-Mumtahanah]]
 
 ## Verses (full text)
@@ -230,5 +226,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/54)
 
-_…and **48** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **40** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** satisfy · **Root:** طمأن
 
+
 ### Words (wikilinks — these create the graph)
 - [[ATm>n - satisfy]]
 

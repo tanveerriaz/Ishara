@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** oft-forgiving · **Root:** غفر
 
+
 ### Words (wikilinks — these create the graph)
 - [[Astgfr - ask forgiveness]]
 - [[gfAr - oft-forgiving]]

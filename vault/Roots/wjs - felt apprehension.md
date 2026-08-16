@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** felt apprehension · **Root:** وجس
 
+
 ### Words (wikilinks — these create the graph)
 - [[>wjs - felt apprehension]]
 

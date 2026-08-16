@@ -3,7 +3,7 @@ type: word
 lemma: "صابِر"
 slug: "SAbr - patient ones"
 surah_count: 13
-ayah_count: 21
+ayah_count: 20
 tags: [word, meaning]
 ---
 
@@ -164,24 +164,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/146)
 
-#### 3:200 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
-
-</div>
-
-**Word in this verse:** `وَصَابِرُوا۟` — and [be] patient
-
-**English (Sahih International):** O you who have believed, persevere and endure and remain stationed and fear Allāh that you may be successful.
-
-**English (Yusuf Ali):** O ye who believe! Persevere in patience and constancy; vie in such perseverance; strengthen each other; and fear Allah; that ye may prosper.
-
-**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان (کفار کے مقابلے میں) ثابت قدم رہو اور استقامت رکھو اور مورچوں پر جمے رہو اور خدا سے ڈرو تاکہ مراد حاصل کرو
-
-[Open on Quran.com](https://quran.com/3/200)
-
 #### 8:46 · [[008 Al-Anfal]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -218,5 +200,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/8/65)
 
-_…and **11** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 8:66 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلْـَٔـٰنَ خَفَّفَ ٱللَّهُ عَنكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا ۚ فَإِن يَكُن مِّنكُم مِّا۟ئَةٌ صَابِرَةٌ يَغْلِبُوا۟ مِا۟ئَتَيْنِ ۚ وَإِن يَكُن مِّنكُمْ أَلْفٌ يَغْلِبُوٓا۟ أَلْفَيْنِ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ
+
+</div>
+
+**Word in this verse:** `ٱلصَّـٰبِرِينَ` — the steadfast
+
+**English (Sahih International):** Now, Allāh has lightened [the hardship] for you, and He knows that among you is weakness. So if there are from you one hundred [who are] steadfast, they will overcome two hundred. And if there are among you a thousand, they will overcome two thousand by permission of Allāh. And Allāh is with the steadfast.
+
+**English (Yusuf Ali):** For the present, Allah hath lightened your (task), for He knoweth that there is a weak spot in you: But (even so), if there are a hundred of you, patient and persevering, they will vanquish two hundred, and if a thousand, they will vanquish two thousand, with the leave of Allah: for Allah is with those who patiently persevere.
+
+**Urdu (Fatah Muhammad Jalandhari):** اب خدا نے تم پر سے بوجھ ہلکا کر دیا اور معلوم کرلیا کہ (ابھی) تم میں کسی قدر کمزوری ہے۔ پس اگر تم میں ایک سو ثابت قدم رہنے والے ہوں گے تو دو سو پر غالب رہیں گے۔ اور اگر ایک ہزار ہوں گے تو خدا کے حکم سے دو ہزار پر غالب رہیں گے۔ اور خدا ثابت قدم رہنے والوں کا مدد گار ہے
+
+[Open on Quran.com](https://quran.com/8/66)
+
+_…and **10** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

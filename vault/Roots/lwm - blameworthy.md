@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** blameworthy · **Root:** لوم
 
+
 ### Words (wikilinks — these create the graph)
 - [[mlwm - blameworthy]]
 

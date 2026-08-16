@@ -1,0 +1,141 @@
+---
+type: word
+lemma: "غَضِبَ"
+slug: "gDb - wrath 2"
+surah_count: 6
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# gDb - wrath 2
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[gDb - wrath]]
+
+### Meaning
+**wrath** · Lemma **غَضِبَ**
+
+### Surahs (6)
+- [[004 An-Nisa]]
+- [[005 Al-Maidah]]
+- [[042 Ash-Shuraa]]
+- [[048 Al-Fath]]
+- [[058 Al-Mujadila]]
+- [[060 Al-Mumtahanah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
+
+#### 4:93 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَـٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا
+
+</div>
+
+**Word in this verse:** `وَغَضِبَ` — and will fall the wrath
+
+**English (Sahih International):** But whoever kills a believer intentionally - his recompense is Hell, wherein he will abide eternally, and Allāh has become angry with him and has cursed him and has prepared for him a great punishment.
+
+**English (Yusuf Ali):** If a man kills a believer intentionally, his recompense is Hell, to abide therein (For ever): And the wrath and the curse of Allah are upon him, and a dreadful penalty is prepared for him.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص مسلمان کو قصداً مار ڈالے گا تو اس کی سزا دوزخ ہے جس میں وہ ہمیشہ (جلتا) رہے گا اور خدا اس پر غضبناک ہوگا اور اس پر لعنت کرے گا اور ایسے شخص کے لئے اس نے بڑا (سخت) عذاب تیار کر رکھا ہے
+
+[Open on Quran.com](https://quran.com/4/93)
+
+#### 5:60 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ ۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّـٰغُوتَ ۚ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ
+
+</div>
+
+**Word in this verse:** `وَغَضِبَ` — and He became angry
+
+**English (Sahih International):** Say, "Shall I inform you of [what is] worse than that as penalty from Allāh? [It is that of] those whom Allāh has cursed and with whom He became angry and made of them apes and pigs and slaves of ṭāghūt. Those are worse in position and further astray from the sound way."
+
+**English (Yusuf Ali):** Say: "Shall I point out to you something much worse than this, (as judged) by the treatment it received from Allah? those who incurred the curse of Allah and His wrath, those of whom some He transformed into apes and swine, those who worshipped evil;- these are (many times) worse in rank, and far more astray from the even path!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ میں تمہیں بتاؤں کہ خدا کے ہاں اس سے بھی بدتر جزا پانے والے کون ہیں؟ وہ لوگ ہیں جن پر خدا نے لعنت کی اور جن پر وہ غضبناک ہوا اور (جن کو) ان میں سے بندر اور سور بنا دیا اور جنہوں نے شیطان کی پرستش کی ایسے لوگوں کا برا ٹھکانہ ہے اور وہ سیدھے رستے سے بہت دور ہیں
+
+[Open on Quran.com](https://quran.com/5/60)
+
+#### 42:37 · [[042 Ash-Shuraa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ يَجْتَنِبُونَ كَبَـٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ وَإِذَا مَا غَضِبُوا۟ هُمْ يَغْفِرُونَ
+
+</div>
+
+**Word in this verse:** `غَضِبُوا۟` — they are angry
+
+**English (Sahih International):** And those who avoid the major sins and immoralities, and when they are angry, they forgive,
+
+**English (Yusuf Ali):** Those who avoid the greater crimes and shameful deeds, and, when they are angry even then forgive;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو بڑے بڑے گناہوں اور بےحیائی کی باتوں سے پرہیز کرتے ہیں۔ اور جب غصہ آتا ہے تو معاف کردیتے ہیں
+
+[Open on Quran.com](https://quran.com/42/37)
+
+#### 48:6 · [[048 Al-Fath]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيُعَذِّبَ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَـٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۖ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًا
+
+</div>
+
+**Word in this verse:** `وَغَضِبَ` — and Allah's wrath (is)
+
+**English (Sahih International):** And [that] He may punish the hypocrite men and hypocrite women, and the polytheist men and polytheist women - those who assume about Allāh an assumption of evil nature. Upon them is a misfortune of evil nature; and Allāh has become angry with them and has cursed them and prepared for them Hell, and evil it is as a destination.
+
+**English (Yusuf Ali):** And that He may punish the Hypocrites, men and women, and the Polytheists men and women, who imagine an evil opinion of Allah. On them is a round of Evil: the Wrath of Allah is on them: He has cursed them and got Hell ready for them: and evil is it for a destination.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس لئے کہ) منافق مردوں اور منافق عورتوں اور مشرک مردوں اور مشرک عورتوں کو جو خدا کے حق میں برے برے خیال رکھتے ہیں عذاب دے۔ ان ہی پر برے حادثے واقع ہوں۔ اور خدا ان پر غصے ہوا اور ان پر لعنت کی اور ان کے لئے دوزخ تیار کی۔ اور وہ بری جگہ ہے
+
+[Open on Quran.com](https://quran.com/48/6)
+
+#### 58:14 · [[058 Al-Mujadila]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ تَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِم مَّا هُم مِّنكُمْ وَلَا مِنْهُمْ وَيَحْلِفُونَ عَلَى ٱلْكَذِبِ وَهُمْ يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `غَضِبَ` — wrath
+
+**English (Sahih International):** Have you not considered those who make allies of a people with whom Allāh has become angry? They are neither of you nor of them, and they swear to untruth while they know [they are lying].
+
+**English (Yusuf Ali):** Turnest thou not thy attention to those who turn (in friendship) to such as have the Wrath of Allah upon them? They are neither of you nor of them, and they swear to falsehood knowingly.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جو ایسوں سے دوستی کرتے ہیں جن پر خدا کا غضب ہوا۔ وہ نہ تم میں ہیں نہ ان میں۔ اور جان بوجھ کر جھوٹی باتوں پر قسمیں کھاتے ہیں
+
+[Open on Quran.com](https://quran.com/58/14)
+
+#### 60:13 · [[060 Al-Mumtahanah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا۟ مِنَ ٱلْـَٔاخِرَةِ كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَـٰبِ ٱلْقُبُورِ
+
+</div>
+
+**Word in this verse:** `غَضِبَ` — (The) wrath
+
+**English (Sahih International):** O you who have believed, do not make allies of a people with whom Allāh has become angry. They have despaired of [reward in] the Hereafter just as the disbelievers have despaired of [meeting] the companions [i.e., inhabitants] of the graves.
+
+**English (Yusuf Ali):** O ye who believe! Turn not (for friendship) to people on whom is the Wrath of Allah, of the Hereafter they are already in despair, just as the Unbelievers are in despair about those (buried) in graves.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! ان لوگوں سے جن پر خدا غصے ہوا ہے دوستی نہ کرو (کیونکہ) جس طرح کافروں کو مردوں (کے جی اُٹھنے) کی امید نہیں اسی طرح ان لوگوں کو بھی آخرت (کے آنے) کی امید نہیں
+
+[Open on Quran.com](https://quran.com/60/13)
+

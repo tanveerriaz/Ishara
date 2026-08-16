@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** wind · **Root:** روح
 
+
 ### Words (wikilinks — these create the graph)
+- [[rwH - mercy allah]]
 - [[rwH - spirit]]
 - [[ryH - wind]]
 

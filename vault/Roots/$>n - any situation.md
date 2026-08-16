@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** any situation · **Root:** شأن
 
+
 ### Words (wikilinks — these create the graph)
 - [[$>n - any situation]]
 

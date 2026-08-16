@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** dispute · **Root:** خصم
 
+
 ### Words (wikilinks — these create the graph)
 - [[AxtSm - dispute]]
 - [[xSm - opponents]]

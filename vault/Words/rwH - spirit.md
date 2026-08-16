@@ -2,8 +2,8 @@
 type: word
 lemma: "رُوح"
 slug: "rwH - spirit"
-surah_count: 20
-ayah_count: 22
+surah_count: 18
+ayah_count: 20
 tags: [word, meaning]
 ---
 
@@ -19,11 +19,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **spirit** · Lemma **رُوح**
 
-### Surahs (20)
+### Surahs (18)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
-- [[012 Yusuf]]
 - [[015 Al-Hijr]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
@@ -34,7 +33,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[038 Sad]]
 - [[040 Ghafir]]
 - [[042 Ash-Shuraa]]
-- [[056 Al-Waqiah]]
 - [[058 Al-Mujadila]]
 - [[066 At-Tahrim]]
 - [[070 Al-Maarij]]
@@ -116,24 +114,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جب خدا (عیسیٰ سے) فرمائے گا کہ اے عیسیٰ بن مریم! میرے ان احسانوں کو یاد کرو جو میں نے تم پر اور تمہاری والدہ پر کئے جب میں نے روح القدس (یعنی جبرئیل) سے تمہاری مدد کی تم جھولے میں اور جوان ہو کر (ایک ہی نسق پر) لوگوں سے گفتگو کرتے تھے اور جب میں نے تم کو کتاب اور دانائی اور تورات اور انجیل سکھائی اور جب تم میرے حکم سے مٹی کا جانور بنا کر اس میں پھونک مار دیتے تھے تو وہ میرے حکم سے اڑنے لگتا تھا اور مادر زاد اندھے اور سفید داغ والے کو میرے حکم سے چنگا کر دیتے تھے اور مردے کو میرے حکم سے (زندہ کرکے قبر سے) نکال کھڑا کرتے تھے اور جب میں نے بنی اسرائیل (کے ہاتھوں) کو تم سے روک دیا جب تم ان کے پاس کھلے نشان لے کر آئے تو جو ان میں سے کافر تھے کہنے لگے کہ یہ صریح جادو ہے
 
 [Open on Quran.com](https://quran.com/5/110)
-
-#### 12:87 · [[012 Yusuf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَـٰفِرُونَ
-
-</div>
-
-**Word in this verse:** `رَّوْحِ` — (the) Mercy of Allah
-
-**English (Sahih International):** O my sons, go and find out about Joseph and his brother and despair not of relief from Allāh. Indeed, no one despairs of relief from Allāh except the disbelieving people."
-
-**English (Yusuf Ali):** "O my sons! go ye and enquire about Joseph and his brother, and never give up hope of Allah's Soothing Mercy: truly no one despairs of Allah's Soothing Mercy, except those who have no faith."
-
-**Urdu (Fatah Muhammad Jalandhari):** بیٹا (یوں کرو کہ ایک دفعہ پھر) جاؤ اور یوسف اور اس کے بھائی کو تلاش کرو اور خدا کی رحمت سے ناامید نہ ہو۔ کہ خدا کی رحمت سے بےایمان لوگ ناامید ہوا کرتے ہیں
-
-[Open on Quran.com](https://quran.com/12/87)
 
 #### 15:29 · [[015 Al-Hijr]]
 
@@ -225,5 +205,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/19/17)
 
-_…and **12** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 21:91 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهَا مِن رُّوحِنَا وَجَعَلْنَـٰهَا وَٱبْنَهَآ ءَايَةً لِّلْعَـٰلَمِينَ
+
+</div>
+
+**Word in this verse:** `رُّوحِنَا` — Our Spirit
+
+**English (Sahih International):** And [mention] the one who guarded her chastity [i.e., Mary], so We blew into her [garment] through Our angel [i.e., Gabriel], and We made her and her son a sign for the worlds.
+
+**English (Yusuf Ali):** And (remember) her who guarded her chastity: We breathed into her of Our spirit, and We made her and her son a sign for all peoples.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان (مریم) کو (بھی یاد کرو) جنہوں نے اپنی عفّت کو محفوظ رکھا۔ تو ہم نے ان میں اپنی روح پھونک دی اور ان کے بیٹے کو اہل عالم کے لئے نشانی بنا دیا
+
+[Open on Quran.com](https://quran.com/21/91)
+
+_…and **10** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

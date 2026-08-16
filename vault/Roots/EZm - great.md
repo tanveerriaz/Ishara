@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** great · **Root:** عظم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>EZm - greater]]
 - [[EZAm - bones]]

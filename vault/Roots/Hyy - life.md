@@ -11,10 +11,12 @@ tags: [root, meaning]
 
 **Sense:** life · **Root:** حيي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>HyA - gives life]]
 - [[HY - we live]]
 - [[Hy - living]]
+- [[Hy - you greeted]]
 - [[HyAp - life]]
 - [[tHyp - greeting]]
 - [[yHyY - will yahya]]

@@ -2,8 +2,8 @@
 type: word
 lemma: "خَسِرَ"
 slug: "xsr - lost"
-surah_count: 13
-ayah_count: 18
+surah_count: 11
+ayah_count: 16
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **lost** · Lemma **خَسِرَ**
 
-### Surahs (13)
+### Surahs (11)
 - [[004 An-Nisa]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
@@ -31,8 +31,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[040 Ghafir]]
 - [[042 Ash-Shuraa]]
 - [[045 Al-Jathiyah]]
-- [[065 At-Talaq]]
-- [[103 Al-Asr]]
 
 ## Verses (full text)
 
@@ -218,5 +216,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/22/11)
 
-_…and **8** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **6** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

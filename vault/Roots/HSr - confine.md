@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** confine · **Root:** حصر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

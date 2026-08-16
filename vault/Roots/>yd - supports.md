@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** supports · **Root:** أيد
 
+
 ### Words (wikilinks — these create the graph)
 - [[>yd - supports]]
 

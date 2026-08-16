@@ -2,8 +2,8 @@
 type: word
 lemma: "سَمْع"
 slug: "smE - hearing"
-surah_count: 44
-ayah_count: 91
+surah_count: 17
+ayah_count: 21
 tags: [word, meaning]
 ---
 
@@ -19,32 +19,24 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **hearing** · Lemma **سَمْع**
 
-### Surahs (44)
+### Surahs (17)
 - [[002 Al-Baqarah]]
-- [[003 Ali Imran]]
-- [[004 An-Nisa]]
-- [[005 Al-Maidah]]
 - [[006 Al-Anam]]
-- [[007 Al-Araf]]
-- [[008 Al-Anfal]]
-- [[009 At-Tawbah]]
 - [[010 Yunus]]
 - [[011 Hud]]
-- [[012 Yusuf]]
 - [[015 Al-Hijr]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
-- [[019 Maryam]]
-- [[020 Taha]]
-- [[021 Al-Anbya]]
-- [[022 Al-Hajj]]
 - [[023 Al-Muminun]]
-- [[024 An-Nur]]
-- [[025 Al-Furqan]]
 - [[026 Ash-Shuara]]
-- [[028 Al-Qasas]]
-- [[030 Ar-Rum]]
+- [[032 As-Sajdah]]
+- [[041 Fussilat]]
+- [[045 Al-Jathiyah]]
+- [[046 Al-Ahqaf]]
+- [[050 Qaf]]
+- [[067 Al-Mulk]]
+- [[072 Al-Jinn]]
 
 ## Verses (full text)
 
@@ -86,149 +78,149 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/20)
 
-#### 2:75 · [[002 Al-Baqarah]]
+#### 6:46 · [[006 Al-Anam]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-۞ أَفَتَطْمَعُونَ أَن يُؤْمِنُوا۟ لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِّنْهُمْ يَسْمَعُونَ كَلَـٰمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ
+قُلْ أَرَءَيْتُمْ إِنْ أَخَذَ ٱللَّهُ سَمْعَكُمْ وَأَبْصَـٰرَكُمْ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنْ إِلَـٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِهِ ۗ ٱنظُرْ كَيْفَ نُصَرِّفُ ٱلْـَٔايَـٰتِ ثُمَّ هُمْ يَصْدِفُونَ
 
 </div>
 
-**Word in this verse:** `يَسْمَعُونَ` — (who used to) hear
+**Word in this verse:** `سَمْعَكُمْ` — your hearing
 
-**English (Sahih International):** Do you covet [the hope, O believers], that they would believe for you while a party of them used to hear the words of Allāh and then distort it [i.e., the Torah] after they had understood it while they were knowing?
+**English (Sahih International):** Say, "Have you considered: if Allāh should take away your hearing and your sight and set a seal upon your hearts, which deity other than Allāh could bring them [back] to you?" Look how We diversify the verses; then they [still] turn away.
 
-**English (Yusuf Ali):** Can ye (o ye men of Faith) entertain the hope that they will believe in you?- Seeing that a party of them heard the Word of Allah, and perverted it knowingly after they understood it.
+**English (Yusuf Ali):** Say: "Think ye, if Allah took away your hearing and your sight, and sealed up your hearts, who - a god other than Allah - could restore them to you?" See how We explain the signs by various (symbols); yet they turn aside.
 
-**Urdu (Fatah Muhammad Jalandhari):** (مومنو) کیا تم امید رکھتے ہو کہ یہ لوگ تمہارے (دین کے) قائل ہو جائیں گے، (حالانکہ) ان میں سے کچھ لوگ کلامِ خدا (یعنی تورات) کو سنتے، پھر اس کے سمجھ لینے کے بعد اس کو جان بوجھ کر بدل دیتے رہے ہیں
+**Urdu (Fatah Muhammad Jalandhari):** (ان کافروں سے) کہو کہ بھلا دیکھو تو اگر خدا تمہارے کان اور آنکھیں چھین لے اور تمہارے دلوں پر مہر لگادے تو خداکے سوا کون سا معبود ہے جو تمہیں یہ نعمتیں پھر بخشے؟ دیکھو ہم کس کس طرح اپنی آیتیں بیان کرتے ہیں۔ پھر بھی یہ لوگ ردگردانی کرتے ہیں
 
-[Open on Quran.com](https://quran.com/2/75)
+[Open on Quran.com](https://quran.com/6/46)
 
-#### 2:93 · [[002 Al-Baqarah]]
+#### 10:31 · [[010 Yunus]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَإِذْ أَخَذْنَا مِيثَـٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَـٰكُم بِقُوَّةٍ وَٱسْمَعُوا۟ ۖ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَـٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
+قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَمَن يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ ۚ فَسَيَقُولُونَ ٱللَّهُ ۚ فَقُلْ أَفَلَا تَتَّقُونَ
 
 </div>
 
-**Word in this verse:** `وَٱسْمَعُوا۟ ۖ` — and listen
+**Word in this verse:** `ٱلسَّمْعَ` — the hearing
 
-**English (Sahih International):** And [recall] when We took your covenant and raised over you the mount, [saying], "Take what We have given you with determination and listen." They said [instead], "We hear and disobey." And their hearts absorbed [the worship of] the calf because of their disbelief. Say, "How wretched is that which your faith enjoins upon you, if you should be believers."
+**English (Sahih International):** Say, "Who provides for you from the heaven and the earth? Or who controls hearing and sight and who brings the living out of the dead and brings the dead out of the living and who arranges [every] matter?" They will say, "Allāh," so say, "Then will you not fear Him?"
 
-**English (Yusuf Ali):** And remember We took your covenant and We raised above you (the towering height) of Mount (Sinai): (Saying): "Hold firmly to what We have given you, and hearken (to the Law)": They said:" We hear, and we disobey:" And they had to drink into their hearts (of the taint) of the calf because of their Faithlessness. Say: "Vile indeed are the behests of your Faith if ye have any faith!"
+**English (Yusuf Ali):** Say: "Who is it that sustains you (in life) from the sky and from the earth? or who is it that has power over hearing and sight? And who is it that brings out the living from the dead and the dead from the living? and who is it that rules and regulates all affairs?" They will soon say, "Allah". Say, "will ye not then show piety (to Him)?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے تم (لوگوں) سے عہد واثق لیا اور کوہ طور کو تم پر اٹھا کھڑا کیا (اور حکم دیا کہ) جو (کتاب) ہم نے تم کو دی ہے، اس کو زور سے پکڑو اور جو تمہیں حکم ہوتا ہے (اس کو) سنو تو وہ (جو تمہارے بڑے تھے) کہنے لگے کہ ہم نے سن تو لیا لیکن مانتے نہیں۔ اور ان کے کفر کے سبب بچھڑا (گویا) ان کے دلوں میں رچ گیا تھا۔ (اے پیغمبر ان سے) کہہ دو کہ اگر تم مومن ہو تو تمہارا ایمان تم کو بری بات بتاتا ہے
+**Urdu (Fatah Muhammad Jalandhari):** (ان سے) پوچھو کہ تم کو آسمان اور زمین میں رزق کون دیتا ہے یا (تمہارے) کانوں اور آنکھوں کا مالک کون ہے اور بےجان سے جاندار کون پیدا کرتا ہے اور دنیا کے کاموں کا انتظام کون کرتا ہے۔ جھٹ کہہ دیں گے کہ خدا۔ تو کہو کہ پھر تم (خدا سے) ڈرتے کیوں نہیں؟
 
-[Open on Quran.com](https://quran.com/2/93)
+[Open on Quran.com](https://quran.com/10/31)
 
-#### 2:104 · [[002 Al-Baqarah]]
+#### 11:20 · [[011 Hud]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقُولُوا۟ رَٰعِنَا وَقُولُوا۟ ٱنظُرْنَا وَٱسْمَعُوا۟ ۗ وَلِلْكَـٰفِرِينَ عَذَابٌ أَلِيمٌ
+أُو۟لَـٰٓئِكَ لَمْ يَكُونُوا۟ مُعْجِزِينَ فِى ٱلْأَرْضِ وَمَا كَانَ لَهُم مِّن دُونِ ٱللَّهِ مِنْ أَوْلِيَآءَ ۘ يُضَـٰعَفُ لَهُمُ ٱلْعَذَابُ ۚ مَا كَانُوا۟ يَسْتَطِيعُونَ ٱلسَّمْعَ وَمَا كَانُوا۟ يُبْصِرُونَ
 
 </div>
 
-**Word in this verse:** `وَٱسْمَعُوا۟ ۗ` — and listen
+**Word in this verse:** `ٱلسَّمْعَ` — (to) hear
 
-**English (Sahih International):** O you who have believed, say not [to Allāh's Messenger], "Rāʿinā" but say, "Unẓurnā" and listen. And for the disbelievers is a painful punishment.
+**English (Sahih International):** Those were not causing failure [to Allāh] on earth, nor did they have besides Allāh any protectors. For them the punishment will be multiplied. They were not able to hear, nor did they see.
 
-**English (Yusuf Ali):** O ye of Faith! Say not (to the Messenger) words of ambiguous import, but words of respect; and hearken (to him): To those without Faith is a grievous punishment.
+**English (Yusuf Ali):** They will in no wise frustrate (His design) on earth, nor have they protectors besides Allah! Their penalty will be doubled! They lost the power to hear, and they did not see!
 
-**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان! (گفتگو کے وقت پیغمبرِ خدا سے) راعنا نہ کہا کرو۔ انظرنا کہا کرو۔ اور خوب سن رکھو، اور کافروں کے لیے دکھ دینے والا عذاب ہے
+**Urdu (Fatah Muhammad Jalandhari):** یہ لوگ زمین میں (کہیں بھاگ کر خدا کو) نہیں ہرا سکتے اور نہ خدا کے سوا کوئی ان کا حمایتی ہے۔ (اے پیغمبر) ان کو دگنا عذاب دیا جائے گا کیونکہ یہ (شدت کفر سے تمہاری بات) نہیں سن سکتے تھے اور نہ (تم کو) دیکھ سکتے تھے
 
-[Open on Quran.com](https://quran.com/2/104)
+[Open on Quran.com](https://quran.com/11/20)
 
-#### 2:171 · [[002 Al-Baqarah]]
+#### 15:18 · [[015 Al-Hijr]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَمَثَلُ ٱلَّذِينَ كَفَرُوا۟ كَمَثَلِ ٱلَّذِى يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَآءً وَنِدَآءً ۚ صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَعْقِلُونَ
+إِلَّا مَنِ ٱسْتَرَقَ ٱلسَّمْعَ فَأَتْبَعَهُۥ شِهَابٌ مُّبِينٌ
 
 </div>
 
-**Word in this verse:** `يَسْمَعُ` — (does) hear
+**Word in this verse:** `ٱلسَّمْعَ` — the hearing
 
-**English (Sahih International):** The example of those who disbelieve is like that of one who shouts at what hears nothing but calls and cries [i.e., cattle or sheep] - deaf, dumb and blind, so they do not understand.
+**English (Sahih International):** Except one who steals a hearing and is pursued by a clear burning flame.
 
-**English (Yusuf Ali):** The parable of those who reject Faith is as if one were to shout Like a goat-herd, to things that listen to nothing but calls and cries: Deaf, dumb, and blind, they are void of wisdom.
+**English (Yusuf Ali):** But any that gains a hearing by stealth, is pursued by a flaming fire, bright (to see).
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں ان کی مثال اس شخص کی سی ہے جو کسی ایسی چیز کو آواز دے جو پکار اور آواز کے سوا کچھ سن نہ سکے۔ (یہ) بہرے ہیں گونگے ہیں اندھے ہیں کہ (کچھ) سمجھ ہی نہیں سکتے
+**Urdu (Fatah Muhammad Jalandhari):** ہاں اگر کوئی چوری سے سننا چاہے تو چمکتا ہوا انگارہ اس کے پیچھے لپکتا ہے
 
-[Open on Quran.com](https://quran.com/2/171)
+[Open on Quran.com](https://quran.com/15/18)
 
-#### 2:181 · [[002 Al-Baqarah]]
+#### 16:78 · [[016 An-Nahl]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-فَمَنۢ بَدَّلَهُۥ بَعْدَ مَا سَمِعَهُۥ فَإِنَّمَآ إِثْمُهُۥ عَلَى ٱلَّذِينَ يُبَدِّلُونَهُۥٓ ۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
+وَٱللَّهُ أَخْرَجَكُم مِّنۢ بُطُونِ أُمَّهَـٰتِكُمْ لَا تَعْلَمُونَ شَيْـًٔا وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ
 
 </div>
 
-**Word in this verse:** `سَمِعَهُۥ` — he (has) heard [it]
+**Word in this verse:** `ٱلسَّمْعَ` — the hearing
 
-**English (Sahih International):** Then whoever alters it [i.e., the bequest] after he has heard it - the sin is only upon those who have altered it. Indeed, Allāh is Hearing and Knowing.
+**English (Sahih International):** And Allāh has extracted you from the wombs of your mothers not knowing a thing, and He made for you hearing and vision and hearts [i.e., intellect] that perhaps you would be grateful.
 
-**English (Yusuf Ali):** If anyone changes the bequest after hearing it, the guilt shall be on those who make the change. For Allah hears and knows (All things).
+**English (Yusuf Ali):** It is He Who brought you forth from the wombs of your mothers when ye knew nothing; and He gave you hearing and sight and intelligence and affections: that ye may give thanks (to Allah).
 
-**Urdu (Fatah Muhammad Jalandhari):** جو شخص وصیت کو سننے کے بعد بدل ڈالے تو اس (کے بدلنے) کا گناہ انہیں لوگوں پر ہے جو اس کو بدلیں۔ اور بےشک خدا سنتا جانتا ہے
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تم کو تمہاری ماؤں کے شکم سے پیدا کیا کہ تم کچھ نہیں جانتے تھے۔ اور اس نے تم کو کان اور آنکھیں اور دل (اور اُن کے علاوہ اور) اعضا بخشے تاکہ تم شکر کرو
 
-[Open on Quran.com](https://quran.com/2/181)
+[Open on Quran.com](https://quran.com/16/78)
 
-#### 2:285 · [[002 Al-Baqarah]]
+#### 16:108 · [[016 An-Nahl]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ
+أُو۟لَـٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ وَأَبْصَـٰرِهِمْ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْغَـٰفِلُونَ
 
 </div>
 
-**Word in this verse:** `سَمِعْنَا` — We heard
+**Word in this verse:** `وَسَمْعِهِمْ` — and their hearing
 
-**English (Sahih International):** The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allāh and His angels and His books and His messengers, [saying], "We make no distinction between any of His messengers." And they say, "We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination."
+**English (Sahih International):** Those are the ones over whose hearts and hearing and vision Allāh has sealed, and it is those who are the heedless.
 
-**English (Yusuf Ali):** The Messenger believeth in what hath been revealed to him from his Lord, as do the men of faith. Each one (of them) believeth in Allah, His angels, His books, and His messengers. "We make no distinction (they say) between one and another of His messengers." And they say: "We hear, and we obey: (We seek) Thy forgiveness, our Lord, and to Thee is the end of all journeys."
+**English (Yusuf Ali):** Those are they whose hearts, ears, and eyes Allah has sealed up, and they take no heed.
 
-**Urdu (Fatah Muhammad Jalandhari):** رسول (خدا) اس کتاب پر جو ان کے پروردگار کی طرف سے ان پر نازل ہوئی ایمان رکھتے ہیں اور مومن بھی۔ سب خدا پر اور اس کے فرشتوں پر اور اس کی کتابوں پر اور اس کے پیغمبروں پر ایمان رکھتے ہیں (اورکہتے ہیں کہ) ہم اس کے پیغمبروں سے کسی میں کچھ فرق نہیں کرتے اور وہ (خدا سے) عرض کرتے ہیں کہ ہم نے (تیرا حکم) سنا اور قبول کیا۔ اے پروردگار ہم تیری بخشش مانگتے ہیں اور تیری ہی طرف لوٹ کر جانا ہے
+**Urdu (Fatah Muhammad Jalandhari):** یہی لوگ ہیں جن کے دلوں پر اور کانوں پر اور آنکھوں پر خدا نے مہر لگا رکھی ہے۔ اور یہی غفلت میں پڑے ہوئے ہیں
 
-[Open on Quran.com](https://quran.com/2/285)
+[Open on Quran.com](https://quran.com/16/108)
 
-#### 3:181 · [[003 Ali Imran]]
+#### 17:36 · [[017 Al-Isra]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ ۘ سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
+وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ ۚ إِنَّ ٱلسَّمْعَ وَٱلْبَصَرَ وَٱلْفُؤَادَ كُلُّ أُو۟لَـٰٓئِكَ كَانَ عَنْهُ مَسْـُٔولًا
 
 </div>
 
-**Word in this verse:** `سَمِعَ` — heard
+**Word in this verse:** `ٱلسَّمْعَ` — the hearing
 
-**English (Sahih International):** Allāh has certainly heard the statement of those [Jews] who said, "Indeed, Allāh is poor, while we are rich." We will record what they said and their killing of the prophets without right and will say, "Taste the punishment of the Burning Fire.
+**English (Sahih International):** And do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart - about all those [one] will be questioned.
 
-**English (Yusuf Ali):** Allah hath heard the taunt of those who say: "Truly, Allah is indigent and we are rich!"- We shall certainly record their word and (their act) of slaying the prophets in defiance of right, and We shall say: "Taste ye the penalty of the Scorching Fire!
+**English (Yusuf Ali):** And pursue not that of which thou hast no knowledge; for every act of hearing, or of seeing or of (feeling in) the heart will be enquired into (on the Day of Reckoning).
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے ان لوگوں کا قول سن لیا ہے جو کہتے ہیں کہ خدا فقیر ہے۔ اور ہم امیر ہیں۔ یہ جو کہتے ہیں ہم اس کو لکھ لیں گے۔ اور پیغمبروں کو جو یہ ناحق قتل کرتے رہے ہیں اس کو بھی (قلمبند کر رکھیں گے) اور (قیامت کے روز) کہیں گے کہ عذاب (آتش) سوزاں کے مزے چکھتے رہو
+**Urdu (Fatah Muhammad Jalandhari):** اور (اے بندے) جس چیز کا تجھے علم نہیں اس کے پیچھے نہ پڑ۔ کہ کان اور آنکھ اور دل ان سب (جوارح) سے ضرور باز پرس ہوگی
 
-[Open on Quran.com](https://quran.com/3/181)
+[Open on Quran.com](https://quran.com/17/36)
 
-#### 3:186 · [[003 Ali Imran]]
+#### 18:101 · [[018 Al-Kahf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-۞ لَتُبْلَوُنَّ فِىٓ أَمْوَٰلِكُمْ وَأَنفُسِكُمْ وَلَتَسْمَعُنَّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ مِن قَبْلِكُمْ وَمِنَ ٱلَّذِينَ أَشْرَكُوٓا۟ أَذًى كَثِيرًا ۚ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ
+ٱلَّذِينَ كَانَتْ أَعْيُنُهُمْ فِى غِطَآءٍ عَن ذِكْرِى وَكَانُوا۟ لَا يَسْتَطِيعُونَ سَمْعًا
 
 </div>
 
-**Word in this verse:** `وَلَتَسْمَعُنَّ` — And you will certainly hear
+**Word in this verse:** `سَمْعًا` — (to) hear
 
-**English (Sahih International):** You will surely be tested in your possessions and in yourselves. And you will surely hear from those who were given the Scripture before you and from those who associate others with Allāh much abuse. But if you are patient and fear Allāh - indeed, that is of the matters [worthy] of resolve.
+**English (Sahih International):** Those whose eyes had been within a cover [removed] from My remembrance, and they were not able to hear.
 
-**English (Yusuf Ali):** Ye shall certainly be tried and tested in your possessions and in your personal selves; and ye shall certainly Hear much that will grieve you, from those who received the Book before you and from those who worship many gods. But if ye persevere patiently, and guard against evil,-then that will be a determining factor in all affairs.
+**English (Yusuf Ali):** (Unbelievers) whose eyes had been under a veil from remembrance of Me, and who had been unable even to hear.
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے اہل ایمان) تمہارے مال و جان میں تمہاری آزمائش کی جائے گی۔ اور تم اہل کتاب سے اور ان لوگوں سے جو مشرک ہیں بہت سی ایذا کی باتیں سنو گے۔ اور تو اگر صبر اور پرہیزگاری کرتے رہو گے تو یہ بڑی ہمت کے کام ہیں
+**Urdu (Fatah Muhammad Jalandhari):** جن کی آنکھیں میری یاد سے پردے میں تھیں اور وہ سننے کی طاقت نہیں رکھتے تھے
 
-[Open on Quran.com](https://quran.com/3/186)
+[Open on Quran.com](https://quran.com/18/101)
 
-_…and **81** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **11** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

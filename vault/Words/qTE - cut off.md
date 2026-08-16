@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "قُطِعَ"
+lemma: "قَطَّعَ"
 slug: "qTE - cut off"
-surah_count: 19
-ayah_count: 28
+surah_count: 8
+ayah_count: 12
 tags: [word, meaning]
 ---
 
@@ -17,68 +17,21 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[qTE - cut off]]
 
 ### Meaning
-**cut off** · Lemma **قُطِعَ**
+**cut off** · Lemma **قَطَّعَ**
 
-### Surahs (19)
-- [[002 Al-Baqarah]]
-- [[003 Ali Imran]]
+### Surahs (8)
 - [[005 Al-Maidah]]
-- [[006 Al-Anam]]
 - [[007 Al-Araf]]
-- [[008 Al-Anfal]]
-- [[009 At-Tawbah]]
-- [[010 Yunus]]
-- [[011 Hud]]
 - [[012 Yusuf]]
 - [[013 Ar-Rad]]
-- [[015 Al-Hijr]]
 - [[020 Taha]]
 - [[022 Al-Hajj]]
 - [[026 Ash-Shuara]]
-- [[029 Al-Ankabut]]
 - [[047 Muhammad]]
-- [[059 Al-Hashr]]
-- [[069 Al-Haqqah]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:27 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَـٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ
-
-</div>
-
-**Word in this verse:** `وَيَقْطَعُونَ` — and [they] cut
-
-**English (Sahih International):** Who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and cause corruption on earth. It is those who are the losers.
-
-**English (Yusuf Ali):** Those who break Allah's Covenant after it is ratified, and who sunder what Allah Has ordered to be joined, and do mischief on earth: These cause loss (only) to themselves.
-
-**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے اقرار کو مضبوط کرنے کے بعد توڑ دیتے ہیں اور جس چیز (یعنی رشتہٴ قرابت) کے جوڑے رکھنے کا الله نے حکم دیا ہے اس کو قطع کئے ڈالتے ہیں اور زمین میں خرابی کرتے ہیں یہی لوگ نقصان اٹھانے والے ہیں
-
-[Open on Quran.com](https://quran.com/2/27)
-
-#### 3:127 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-لِيَقْطَعَ طَرَفًا مِّنَ ٱلَّذِينَ كَفَرُوٓا۟ أَوْ يَكْبِتَهُمْ فَيَنقَلِبُوا۟ خَآئِبِينَ
-
-</div>
-
-**Word in this verse:** `لِيَقْطَعَ` — That He may cut off
-
-**English (Sahih International):** That He might cut down a section of the disbelievers or suppress them so that they turn back disappointed.
-
-**English (Yusuf Ali):** That He might cut off a fringe of the Unbelievers or expose them to infamy, and they should then be turned back, frustrated of their purpose.
-
-**Urdu (Fatah Muhammad Jalandhari):** (یہ خدا نے) اس لیے (کیا) کہ کافروں کی ایک جماعت کو ہلاک یا انہیں ذلیل ومغلوب کر دے کہ (جیسے آئے تھے ویسے ہی) ناکام واپس جائیں
-
-[Open on Quran.com](https://quran.com/3/127)
 
 #### 5:33 · [[005 Al-Maidah]]
 
@@ -97,60 +50,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جو لوگ خدا اور اس کے رسول سے لڑائی کریں اور ملک میں فساد کرنے کو دوڑتے پھریں ان کی یہی سزا ہے کہ قتل کر دیئے جائیں یا سولی چڑھا دیئے جائیں یا ان کے ایک ایک طرف کے ہاتھ اور ایک ایک طرف کے پاؤں کاٹ دیئے جائیں یا ملک سے نکال دیئے جائیں یہ تو دنیا میں ان کی رسوائی ہے اور آخرت میں ان کے لیے بڑا (بھاری) عذاب تیار ہے
 
 [Open on Quran.com](https://quran.com/5/33)
-
-#### 5:38 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَٱلسَّارِقُ وَٱلسَّارِقَةُ فَٱقْطَعُوٓا۟ أَيْدِيَهُمَا جَزَآءًۢ بِمَا كَسَبَا نَكَـٰلًا مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
-
-</div>
-
-**Word in this verse:** `فَٱقْطَعُوٓا۟` — [then] cut off
-
-**English (Sahih International):** [As for] the thief, the male and the female, amputate their hands in recompense for what they earned [i.e., committed] as a deterrent [punishment] from Allāh. And Allāh is Exalted in Might and Wise.
-
-**English (Yusuf Ali):** As to the thief, Male or female, cut off his or her hands: a punishment by way of example, from Allah, for their crime: and Allah is Exalted in power.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جو چوری کرے مرد ہو یا عورت ان کے ہاتھ کاٹ ڈالو یہ ان کے فعلوں کی سزا اور خدا کی طرف سے عبرت ہے اور خدا زبردست (اور) صاحب حکمت ہے
-
-[Open on Quran.com](https://quran.com/5/38)
-
-#### 6:45 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَقُطِعَ دَابِرُ ٱلْقَوْمِ ٱلَّذِينَ ظَلَمُوا۟ ۚ وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ
-
-</div>
-
-**Word in this verse:** `فَقُطِعَ` — So was cut off
-
-**English (Sahih International):** So the people that committed wrong were eliminated. And praise to Allāh, Lord of the worlds.
-
-**English (Yusuf Ali):** Of the wrong-doers the last remnant was cut off. Praise be to Allah, the Cherisher of the worlds.
-
-**Urdu (Fatah Muhammad Jalandhari):** غرض ظالم لوگوں کی جڑ کاٹ دی گئی۔ اور سب تعریف خدائے رب العالمین ہی کو (سزاوار ہے)
-
-[Open on Quran.com](https://quran.com/6/45)
-
-#### 7:72 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَأَنجَيْنَـٰهُ وَٱلَّذِينَ مَعَهُۥ بِرَحْمَةٍ مِّنَّا وَقَطَعْنَا دَابِرَ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ وَمَا كَانُوا۟ مُؤْمِنِينَ
-
-</div>
-
-**Word in this verse:** `وَقَطَعْنَا` — And We cut off
-
-**English (Sahih International):** So We saved him and those with him by mercy from Us. And We eliminated those who denied Our signs, and they were not [at all] believers.
-
-**English (Yusuf Ali):** We saved him and those who adhered to him. By Our mercy, and We cut off the roots of those who rejected Our signs and did not believe.
-
-**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے ہود کو اور جو لوگ ان کے ساتھ تھے ان کو نجات بخشی اور جنہوں نے ہماری آیتوں کو جھٹلایا تھا ان کی جڑ کاٹ دی اور وہ ایمان لانے والے تھے ہی نہیں
-
-[Open on Quran.com](https://quran.com/7/72)
 
 #### 7:124 · [[007 Al-Araf]]
 
@@ -206,23 +105,113 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/168)
 
-#### 8:7 · [[008 Al-Anfal]]
+#### 12:31 · [[012 Yusuf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَإِذْ يَعِدُكُمُ ٱللَّهُ إِحْدَى ٱلطَّآئِفَتَيْنِ أَنَّهَا لَكُمْ وَتَوَدُّونَ أَنَّ غَيْرَ ذَاتِ ٱلشَّوْكَةِ تَكُونُ لَكُمْ وَيُرِيدُ ٱللَّهُ أَن يُحِقَّ ٱلْحَقَّ بِكَلِمَـٰتِهِۦ وَيَقْطَعَ دَابِرَ ٱلْكَـٰفِرِينَ
+فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ ۖ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَـٰشَ لِلَّهِ مَا هَـٰذَا بَشَرًا إِنْ هَـٰذَآ إِلَّا مَلَكٌ كَرِيمٌ
 
 </div>
 
-**Word in this verse:** `وَيَقْطَعَ` — and cut off
+**Word in this verse:** `وَقَطَّعْنَ` — and cut
 
-**English (Sahih International):** [Remember, O believers], when Allāh promised you one of the two groups - that it would be yours - and you wished that the unarmed one would be yours. But Allāh intended to establish the truth by His words and to eliminate the disbelievers
+**English (Sahih International):** So when she heard of their scheming, she sent for them and prepared for them a banquet and gave each one of them a knife and said [to Joseph], "Come out before them." And when they saw him, they greatly admired him and cut their hands and said, "Perfect is Allāh! This is not a man; this is none but a noble angel."
 
-**English (Yusuf Ali):** Behold! Allah promised you one of the two (enemy) parties, that it should be yours: Ye wished that the one unarmed should be yours, but Allah willed to justify the Truth according to His words and to cut off the roots of the Unbelievers;-
+**English (Yusuf Ali):** When she heard of their malicious talk, she sent for them and prepared a banquet for them: she gave each of them a knife: and she said (to Joseph), "Come out before them." When they saw him, they did extol him, and (in their amazement) cut their hands: they said, "Allah preserve us! no mortal is this! this is none other than a noble angel!"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور (اس وقت کو یاد کرو) جب خدا تم سے وعدہ کرتا تھا کہ (ابوسفیان اور ابوجہل کے) دو گروہوں میں سے ایک گروہ تمہارا (مسخر) ہوجائے گا۔ اور تم چاہتے تھے کہ جو قافلہ بے (شان و) شوکت (یعنی بے ہتھیار ہے) وہ تمہارے ہاتھ آجائے اور خدا چاہتا تھا کہ اپنے فرمان سے حق کو قائم رکھے اور کافروں کی جڑ کاٹ کر (پھینک) دے
+**Urdu (Fatah Muhammad Jalandhari):** جب زلیخا نے ان عورتوں کی (گفتگو جو حقیقت میں دیدار یوسف کے لیے ایک) چال (تھی) سنی تو ان کے پاس (دعوت کا) پیغام بھیجا اور ان کے لیے ایک محفل مرتب کی۔ اور (پھل تراشنے کے لیے) ہر ایک کو ایک چھری دی اور (یوسف سے) کہا کہ ان کے سامنے باہر آؤ۔ جب عورتوں نے ان کو دیکھا تو ان کا رعب (حسن) ان پر (ایسا) چھا گیا کہ (پھل تراشتے تراشتے) اپنے ہاتھ کاٹ لیے اور بےساختہ بول اٹھیں کہ سبحان الله (یہ حسن) یہ آدمی نہیں کوئی بزرگ فرشتہ ہے
 
-[Open on Quran.com](https://quran.com/8/7)
+[Open on Quran.com](https://quran.com/12/31)
 
-_…and **18** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 12:50 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ ۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّـٰتِى قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `قَطَّعْنَ` — cut
+
+**English (Sahih International):** And the king said, "Bring him to me." But when the messenger came to him, [Joseph] said, "Return to your master and ask him what is the case of the women who cut their hands. Indeed, my Lord is Knowing of their plan."
+
+**English (Yusuf Ali):** So the king said: "Bring ye him unto me." But when the messenger came to him, (Joseph) said: "Go thou back to thy lord, and ask him, 'What is the state of mind of the ladies who cut their hands'? For my Lord is certainly well aware of their snare."
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ تعبیر سن کر) بادشاہ نے حکم دیا کہ یوسف کو میرے پاس لے آؤ۔ جب قاصد ان کے پاس گیا تو انہوں نے کہا کہ اپنے آقا کے پاس واپس جاؤ اور ان سے پوچھو کہ ان عورتوں کا کیا حال ہے جنہوں نے اپنے ہاتھ کاٹ لیے تھے۔ بےشک میرا پروردگار ان کے مکروں سے خوب واقف ہے
+
+[Open on Quran.com](https://quran.com/12/50)
+
+#### 13:31 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟ قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ حَتَّىٰ يَأْتِىَ وَعْدُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
+
+</div>
+
+**Word in this verse:** `قُطِّعَتْ` — could be cloven asunder
+
+**English (Sahih International):** And if there was any Qur’ān [i.e., recitation] by which the mountains would be removed or the earth would be broken apart or the dead would be made to speak, [it would be this Qur’ān], but to Allāh belongs the affair entirely. Then have those who believed not accepted that had Allāh willed, He would have guided the people, all of them? And those who disbelieve do not cease to be struck, for what they have done, by calamity - or it will descend near their home - until there comes the promise of Allāh. Indeed, Allāh does not fail in [His] promise.
+
+**English (Yusuf Ali):** If there were a Qur'an with which mountains were moved, or the earth were cloven asunder, or the dead were made to speak, (this would be the one!) But, truly, the command is with Allah in all things! Do not the Believers know, that, had Allah (so) willed, He could have guided all mankind (to the right)? But the Unbelievers,- never will disaster cease to seize them for their (ill) deeds, or to settle close to their homes, until the promise of Allah come to pass, for, verily, Allah will not fail in His promise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر کوئی قرآن ایسا ہوتا کہ اس (کی تاثیر) سے پہاڑ چل پڑتے یا زمین پھٹ جاتی یا مردوں سے کلام کرسکتے۔ (تو یہی قرآن ان اوصاف سے متصف ہوتا مگر) بات یہ ہے کہ سب باتیں خدا کے اختیار میں ہیں تو کیا مومنوں کو اس سے اطمینان نہیں ہوا کہ اگر خدا چاہتا تو سب لوگوں کو ہدایت کے رستے پر چلا دیتا۔ اور کافروں پر ہمیشہ ان کے اعمال کے بدلے بلا آتی رہے گی یا ان کے مکانات کے قریب نازل ہوتی رہے گی یہاں تک کہ خدا کا وعدہ آپہنچے۔ بےشک خدا وعدہ خلاف نہیں کرتا
+
+[Open on Quran.com](https://quran.com/13/31)
+
+#### 20:71 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ ۖ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ ٱلنَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًا وَأَبْقَىٰ
+
+</div>
+
+**Word in this verse:** `فَلَأُقَطِّعَنَّ` — So surely I will cut off
+
+**English (Sahih International):** [Pharaoh] said, "You believed him [i.e., Moses] before I gave you permission. Indeed, he is your leader who has taught you magic. So I will surely cut off your hands and your feet on opposite sides, and I will crucify you on the trunks of palm trees, and you will surely know which of us is more severe in [giving] punishment and more enduring."
+
+**English (Yusuf Ali):** (Pharaoh) said: "Believe ye in Him before I give you permission? Surely this must be your leader, who has taught you magic! be sure I will cut off your hands and feet on opposite sides, and I will have you crucified on trunks of palm-trees: so shall ye know for certain, which of us can give the more severe and the more lasting punishment!"
+
+**Urdu (Fatah Muhammad Jalandhari):** (فرعون) بولا کہ پیشتر اس کے میں تمہیں اجازت دوں تم اس پر ایمان لے آئے۔ بےشک وہ تمہارا بڑا (یعنی استاد) ہے جس نے تم کو جادو سکھایا ہے۔ سو میں تمہارے ہاتھ اور پاؤں (جانب) خلاف سے کٹوا دوں گا اور کھجور کے تنوں پر سولی چڑھوا دوں گا (اس وقت) تم کو معلوم ہوگا کہ ہم میں سے کس کا عذاب زیادہ سخت اور دیر تک رہنے والا ہے
+
+[Open on Quran.com](https://quran.com/20/71)
+
+#### 22:19 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ هَـٰذَانِ خَصْمَانِ ٱخْتَصَمُوا۟ فِى رَبِّهِمْ ۖ فَٱلَّذِينَ كَفَرُوا۟ قُطِّعَتْ لَهُمْ ثِيَابٌ مِّن نَّارٍ يُصَبُّ مِن فَوْقِ رُءُوسِهِمُ ٱلْحَمِيمُ
+
+</div>
+
+**Word in this verse:** `قُطِّعَتْ` — will be cut out
+
+**English (Sahih International):** These are two adversaries who have disputed over their Lord. But those who disbelieved will have cut out for them garments of fire. Poured upon their heads will be scalding water
+
+**English (Yusuf Ali):** These two antagonists dispute with each other about their Lord: But those who deny (their Lord),- for them will be cut out a garment of Fire: over their heads will be poured out boiling water.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ دو (فریق) ایک دوسرے کے دشمن اپنے پروردگار (کے بارے) میں جھگڑتے ہیں۔ تو کافر ہیں ان کے لئے آگ کے کپڑے قطع کئے جائیں گے (اور) ان کے سروں پر جلتا ہوا پانی ڈالا جائے گا
+
+[Open on Quran.com](https://quran.com/22/19)
+
+#### 26:49 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ فَلَسَوْفَ تَعْلَمُونَ ۚ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍ وَلَأُصَلِّبَنَّكُمْ أَجْمَعِينَ
+
+</div>
+
+**Word in this verse:** `لَأُقَطِّعَنَّ` — I will surely cut off
+
+**English (Sahih International):** [Pharaoh] said, "You believed him [i.e., Moses] before I gave you permission. Indeed, he is your leader who has taught you magic, but you are going to know. I will surely cut off your hands and your feet on opposite sides, and I will surely crucify you all."
+
+**English (Yusuf Ali):** Said (Pharaoh): "Believe ye in Him before I give you permission? surely he is your leader, who has taught you sorcery! but soon shall ye know! Be sure I will cut off your hands and your feet on opposite sides, and I will cause you all to die on the cross!"
+
+**Urdu (Fatah Muhammad Jalandhari):** فرعون نے کہا کیا اس سے پہلے کہ میں تم کو اجازت دوں تم اس پر ایمان لے آئے، بےشک یہ تمہارا بڑا ہے جس نے تم کو جادو سکھایا ہے۔ سو عنقریب تم (اس کا انجام) معلوم کرلو گے کہ میں تمہارے ہاتھ اور پاؤں اطراف مخالف سے کٹوا دوں گا اور تم سب کو سولی پر چڑھوا دوں گا
+
+[Open on Quran.com](https://quran.com/26/49)
+
+_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -16,29 +16,29 @@ Explained in Detail · 54 ayahs
 
 - [[jlwd - skins]] — `جُلُود` · skins
 - [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[<ns - men]] — `إِنس` · men
 - [[SAEqp - thunderbolt]] — `صاعِقَة` · thunderbolt
-- [[tnzyl - revelation]] — `تَنزِيل` · revelation
 - [[Erby - arabic]] — `عَرَبِيّ` · arabic
+- [[<ns - men]] — `إِنس` · men
+- [[tnzyl - revelation]] — `تَنزِيل` · revelation
 - [[wqr - deafness]] — `وَقْر` · deafness
+- [[bArk - we blessed]] — `بارَكَ` · we blessed
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[Hmym - scalding water]] — `حَمِيم` · scalding water
+- [[Zn - thought]] — `ظَنَّ` · thought
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[jEl - we made]] — `جَعَلَ` · we made
 - [[ydE - they call]] — `يَدَّعُ` · they call
-- [[<nsAn - man]] — `إِنسان` · man
-- [[Axtlf - differ]] — `اخْتَلَفَ` · differ
-- [[mkAn - place]] — `مَكان` · place
-- [[swA' - it same]] — `سَواء` · it same
-- [[AtY - give]] — `آتَى` · give
-- [[jn - covered]] — `جَنَّ` · covered
-- [[$ms - sun]] — `شَمْس` · sun
-- [[ylHd - deviate]] — `يُلْحِدُ` · deviate
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
-- [[>nvY - female]] — `أُنثَى` · female
-- [[rd - returned]] — `رَدَّ` · returned
-- [[qryn - companion]] — `قَرِين` · companion
-- [[HZ - part]] — `حَظّ` · part
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[dAr - home]] — `دار` · home
-- [[>sA' - does evil]] — `أَساءَ` · does evil
-- [[>$d - stronger]] — `أَشَدّ` · stronger
+- [[EdAwp - enmity]] — `عَداوَة` · enmity
+- [[$hyd - witness]] — `شَهِيد` · witness
+- [[EAml - working]] — `عامِل` · working
+- [[Ebd - worship]] — `عَبَدَ` · worship
+- [[mSbAH - lamp]] — `مِصْباح` · lamp
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[xAsr - losers]] — `خاسِر` · losers
+- [[dEA - call]] — `دَعا` · call
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[mlk - angels]] — `مَلَك` · angels
 
 ## Roots
 
@@ -53,7 +53,7 @@ Explained in Detail · 54 ayahs
 - [[$rk - polytheists]]
 - [[$rr - evil]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*wq - taste]]
 - [[>*n - by permission]]
 - [[>fq - horizons]]

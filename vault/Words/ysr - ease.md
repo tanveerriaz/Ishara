@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "يُسْر"
+lemma: "يَسَّرَ"
 slug: "ysr - ease"
-surah_count: 12
-ayah_count: 18
+surah_count: 7
+ayah_count: 11
 tags: [word, meaning]
 ---
 
@@ -17,61 +17,20 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[ysr - easy]]
 
 ### Meaning
-**ease** · Lemma **يُسْر**
+**ease** · Lemma **يَسَّرَ**
 
-### Surahs (12)
-- [[002 Al-Baqarah]]
-- [[018 Al-Kahf]]
+### Surahs (7)
 - [[019 Maryam]]
 - [[020 Taha]]
 - [[044 Ad-Dukhan]]
-- [[051 Adh-Dhariyat]]
 - [[054 Al-Qamar]]
-- [[065 At-Talaq]]
 - [[080 Abasa]]
 - [[087 Al-Ala]]
 - [[092 Al-Layl]]
-- [[094 Ash-Sharh]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:185 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًى لِّلنَّاسِ وَبَيِّنَـٰتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ ۚ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ ۖ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ۗ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ
-
-</div>
-
-**Word in this verse:** `ٱلْيُسْرَ` — [the] ease
-
-**English (Sahih International):** The month of Ramaḍān [is that] in which was revealed the Qur’ān, a guidance for the people and clear proofs of guidance and criterion. So whoever sights [the crescent of] the month, let him fast it; and whoever is ill or on a journey - then an equal number of other days. Allāh intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allāh for that [to] which He has guided you; and perhaps you will be grateful.
-
-**English (Yusuf Ali):** Ramadhan is the (month) in which was sent down the Qur'an, as a guide to mankind, also clear (Signs) for guidance and judgment (Between right and wrong). So every one of you who is present (at his home) during that month should spend it in fasting, but if any one is ill, or on a journey, the prescribed period (Should be made up) by days later. Allah intends every facility for you; He does not want to put to difficulties. (He wants you) to complete the prescribed period, and to glorify Him in that He has guided you; and perchance ye shall be grateful.
-
-**Urdu (Fatah Muhammad Jalandhari):** (روزوں کا مہینہ) رمضان کا مہینہ (ہے) جس میں قرآن (اول اول) نازل ہوا جو لوگوں کا رہنما ہے اور (جس میں) ہدایت کی کھلی نشانیاں ہیں اور (جو حق و باطل کو) الگ الگ کرنے والا ہے تو جو کوئی تم میں سے اس مہینے میں موجود ہو چاہیئے کہ پورے مہینے کے روزے رکھے اور جو بیمار ہو یا سفر میں ہو تو دوسرے دنوں میں (رکھ کر) ان کا شمار پورا کرلے۔ خدا تمہارے حق میں آسانی چاہتا ہے اور سختی نہیں چاہتا اور (یہ آسانی کا حکم) اس لئے (دیا گیا ہے) کہ تم روزوں کا شمار پورا کرلو اور اس احسان کے بدلے کہ خدا نے تم کو ہدایت بخشی ہے تم اس کو بزرگی سے یاد کر واور اس کا شکر کرو
-
-[Open on Quran.com](https://quran.com/2/185)
-
-#### 18:88 · [[018 Al-Kahf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَأَمَّا مَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًا فَلَهُۥ جَزَآءً ٱلْحُسْنَىٰ ۖ وَسَنَقُولُ لَهُۥ مِنْ أَمْرِنَا يُسْرًا
-
-</div>
-
-**Word in this verse:** `يُسْرًۭا` — (with) ease
-
-**English (Sahih International):** But as for one who believes and does righteousness, he will have a reward of the best [i.e., Paradise], and we [i.e., Dhul-Qarnayn] will speak to him from our command with ease."
-
-**English (Yusuf Ali):** "But whoever believes, and works righteousness,- he shall have a goodly reward, and easy will be his task as We order it by our Command."
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جو ایمان لائے گا اور عمل نیک کرے گا اس کے لئے بہت اچھا بدلہ ہے۔ اور ہم اپنے معاملے میں (اس پر کسی طرح کی سختی نہیں کریں گے بلکہ) اس سے نرم بات کہیں گے
-
-[Open on Quran.com](https://quran.com/18/88)
 
 #### 19:97 · [[019 Maryam]]
 
@@ -126,24 +85,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** ہم نے اس (قرآن) کو تمہاری زبان میں آسان کردیا ہے تاکہ یہ لوگ نصیحت پکڑیں
 
 [Open on Quran.com](https://quran.com/44/58)
-
-#### 51:3 · [[051 Adh-Dhariyat]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَٱلْجَـٰرِيَـٰتِ يُسْرًا
-
-</div>
-
-**Word in this verse:** `يُسْرًۭا` — (with) ease
-
-**English (Sahih International):** And the ships sailing with ease
-
-**English (Yusuf Ali):** And those that flow with ease and gentleness;
-
-**Urdu (Fatah Muhammad Jalandhari):** پھر آہستہ آہستہ چلتی ہیں
-
-[Open on Quran.com](https://quran.com/51/3)
 
 #### 54:17 · [[054 Al-Qamar]]
 
@@ -217,5 +158,59 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/54/40)
 
-_…and **8** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 80:20 · [[080 Abasa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ
+
+</div>
+
+**Word in this verse:** `يَسَّرَهُۥ` — He made easy for him
+
+**English (Sahih International):** Then He eased the way for him;
+
+**English (Yusuf Ali):** Then doth He make His path smooth for him;
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اس کے لیے رستہ آسان کر دیا
+
+[Open on Quran.com](https://quran.com/80/20)
+
+#### 87:8 · [[087 Al-Ala]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَنُيَسِّرُكَ لِلْيُسْرَىٰ
+
+</div>
+
+**Word in this verse:** `وَنُيَسِّرُكَ` — And We will ease you
+
+**English (Sahih International):** And We will ease you toward ease.
+
+**English (Yusuf Ali):** And We will make it easy for thee (to follow) the simple (Path).
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم تم کو آسان طریقے کی توفیق دیں گے
+
+[Open on Quran.com](https://quran.com/87/8)
+
+#### 92:7 · [[092 Al-Layl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ
+
+</div>
+
+**Word in this verse:** `فَسَنُيَسِّرُهُۥ` — Then We will ease him
+
+**English (Sahih International):** We will ease him toward ease.
+
+**English (Yusuf Ali):** We will indeed make smooth for him the path to Bliss.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کو ہم آسان طریقے کی توفیق دیں گے
+
+[Open on Quran.com](https://quran.com/92/7)
+
+_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

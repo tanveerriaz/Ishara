@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** donkeys · **Root:** حمر
 
+
 ### Words (wikilinks — these create the graph)
 - [[HmAr - donkeys]]
 

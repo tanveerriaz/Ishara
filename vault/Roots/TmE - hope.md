@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hope · **Root:** طمع
 
+
 ### Words (wikilinks — these create the graph)
 - [[TmE - hope]]
 - [[yTmE - hope]]

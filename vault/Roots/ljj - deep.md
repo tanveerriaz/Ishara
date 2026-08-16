@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** deep · **Root:** لجج
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

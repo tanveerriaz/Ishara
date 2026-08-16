@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** will companions modest · **Root:** قصر
 
+
 ### Words (wikilinks — these create the graph)
 - [[qASrp - will companions modest]]
 - [[qSr - palaces]]

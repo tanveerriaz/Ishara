@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** return · **Root:** ردد
 
+
 ### Words (wikilinks — these create the graph)
 - [[Artd - turns away]]
 - [[mrd - return]]
+- [[rd - repel it]]
 - [[rd - returned]]
 
 ### Surahs where this root appears

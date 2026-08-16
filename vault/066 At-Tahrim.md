@@ -14,31 +14,31 @@ The Prohibition · 12 ayahs
 
 ## Words in this surah (graph)
 
-- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[frD - undertakes]] — `فَرَضَ` · undertakes
-- [[sEY - strive]] — `سَعَى` · strive
+- [[$dyd - severe]] — `شَدِيد` · severe
 - [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[xAn - betray]] — `خانُ` · betray
-- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
-- [[allah - God]] — `الله` · God
-- [[>HSnt - guarded]] — `أَحْصَنَتْ` · guarded
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[EsY - perhaps]] — `عَسَى` · perhaps
-- [[ybdl - would change them]] — `يُبْدِلَ` · would change them
-- [[nwr - light]] — `نُور` · light
+- [[mlk - angels]] — `مَلَك` · angels
+- [[mSyr - destination]] — `مَصِير` · destination
+- [[byn - between them]] — `بَيْن` · between them
+- [[bEd - after]] — `بَعْد` · after
 - [[yEt*r - make excuse]] — `يَعْتَذِرُ` · make excuse
-- [[Amr>t - wife]] — `امْرَأَت` · wife
-- [[gfr - forgive]] — `غَفَرَ` · forgive
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[jAhd - strive]] — `جاهَدَ` · strive
-- [[ymyn - oaths]] — `يَمِين` · oaths
 - [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[twbp - repentance]] — `تَوْبَة` · repentance
-- [[nfx - will blown]] — `نَفَخَ` · will blown
+- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[frD - undertakes]] — `فَرَضَ` · undertakes
+- [[Hdyv - statement]] — `حَدِيث` · statement
 - [[ESA - they disobeyed]] — `عَصا` · they disobeyed
-- [[Amn - believe]] — `آمَنَ` · believe
+- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
+- [[klmp - words]] — `كَلِمَة` · words
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
+- [[>tm - complete]] — `أَتَمَّ` · complete
+- [[qAl - say]] — `قالَ` · say
+- [[rHym - merciful]] — `رَحِيم` · merciful
+- [[qAnt - devoutly obedient]] — `قانِت` · devoutly obedient
+- [[jry - flow]] — `جَرَيْ` · flow
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[Zhyr - assistants]] — `ظَهِير` · assistants
+- [[Ebd - slaves]] — `عَبْد` · slaves
+- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
 
 ## Roots
 

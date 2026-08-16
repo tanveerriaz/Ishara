@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** laden · **Root:** شحن
 
+
 ### Words (wikilinks — these create the graph)
 - [[m$Hwn - laden]]
 

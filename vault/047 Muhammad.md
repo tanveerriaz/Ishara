@@ -16,29 +16,29 @@ Muhammad · 38 ayahs
 
 - [[bAl - case]] — `بال` · case
 - [[bxl - withhold]] — `بَخِلَ` · withhold
-- [[xmr - intoxicants]] — `خَمْر` · intoxicants
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[AtY - give]] — `آتَى` · give
-- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
-- [[$Aq - opposes]] — `شاقُّ` · opposes
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
-- [[nZr - see]] — `نَظَرَ` · see
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[*nb - sins]] — `ذَنب` · sins
-- [[mAt - died]] — `ماتَ` · died
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
 - [[>TAE - obey]] — `أَطاعَ` · obey
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[>$d - stronger]] — `أَشَدّ` · stronger
+- [[Hmym - scalding water]] — `حَمِيم` · scalding water
+- [[Drb - move about]] — `ضَرْب` · move about
+- [[>nfq - spend]] — `أَنفَقَ` · spend
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[sbyl - way]] — `سَبِيل` · way
-- [[qTE - cut off]] — `قُطِعَ` · cut off
-- [[zAd - increase]] — `زادَ` · increase
-- [[vmrp - fruits]] — `ثَمَرَة` · fruits
-- [[allah - God]] — `الله` · God
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[mlk - angels]] — `مَلَك` · angels
 - [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[slm - peace]] — `سِلْم` · peace
-- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[nZr - see]] — `نَظَرَ` · see
+- [[dEA - call]] — `دَعا` · call
+- [[Ezm - they resolve]] — `عَزَمَ` · they resolve
+- [[rqbp - slave]] — `رَقَبَة` · slave
+- [[swl - have enticed]] — `سَوَّلَ` · have enticed
+- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[bEd - after]] — `بَعْد` · after
+- [[symA - by marks]] — `سِيما` · by marks
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>Dl - mislead]] — `أَضَلَّ` · mislead
+- [[mrD - disease]] — `مَرَض` · disease
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 
 ## Roots
 
@@ -47,7 +47,7 @@ Muhammad · 38 ayahs
 - [[$qq - opposes]]
 - [[$rb - drink]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[>jr - reward]]
 - [[>kl - eat]]

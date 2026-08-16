@@ -11,10 +11,12 @@ tags: [root, meaning]
 
 **Sense:** children · **Root:** ولد
 
+
 ### Words (wikilinks — these create the graph)
 - [[wAld - parents]]
 - [[wAldy - parents]]
 - [[wld - children]]
+- [[wld - he begot]]
 - [[wlyd - children]]
 
 ### Surahs where this root appears

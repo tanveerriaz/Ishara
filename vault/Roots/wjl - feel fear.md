@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** feel fear · **Root:** وجل
 
+
 ### Words (wikilinks — these create the graph)
 - [[wjlt - feel fear]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** will exhausted · **Root:** نفد
 
+
 ### Words (wikilinks — these create the graph)
 - [[nfd - will exhausted]]
 

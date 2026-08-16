@@ -2,8 +2,8 @@
 type: word
 lemma: "طَعِمُ"
 slug: "TEm - taste it"
-surah_count: 5
-ayah_count: 6
+surah_count: 4
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -19,12 +19,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **taste it** · Lemma **طَعِمُ**
 
-### Surahs (5)
+### Surahs (4)
 - [[002 Al-Baqarah]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[033 Al-Ahzab]]
-- [[047 Muhammad]]
 
 ## Verses (full text)
 
@@ -119,22 +118,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** مومنو پیغمبر کے گھروں میں نہ جایا کرو مگر اس صورت میں کہ تم کو کھانے کے لئے اجازت دی جائے اور اس کے پکنے کا انتظار بھی نہ کرنا پڑے۔ لیکن جب تمہاری دعوت کی جائے تو جاؤ اور جب کھانا کھاچکو تو چل دو اور باتوں میں جی لگا کر نہ بیٹھ رہو۔ یہ بات پیغمبر کو ایذا دیتی ہے۔ اور وہ تم سے شرم کرتے ہیں (اور کہتے نہیں ہیں) لیکن خدا سچی بات کے کہنے سے شرم نہیں کرتا۔ اور جب پیغمبروں کی بیویوں سے کوئی سامان مانگو تو پردے کے باہر مانگو۔ یہ تمہارے اور ان کے دونوں کے دلوں کے لئے بہت پاکیزگی کی بات ہے۔ اور تم کو یہ شایاں نہیں کہ پیغمبر خدا کو تکلیف دو اور نہ یہ کہ ان کی بیویوں سے کبھی ان کے بعد نکاح کرو۔ بےشک یہ خدا کے نزدیک بڑا (گناہ کا کام) ہے
 
 [Open on Quran.com](https://quran.com/33/53)
-
-#### 47:15 · [[047 Muhammad]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ ۖ فِيهَآ أَنْهَـٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ وَأَنْهَـٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَـٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّـٰرِبِينَ وَأَنْهَـٰرٌ مِّنْ عَسَلٍ مُّصَفًّى ۖ وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ ۖ كَمَنْ هُوَ خَـٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
-
-</div>
-
-**Word in this verse:** `طَعْمُهُۥ` — its taste
-
-**English (Sahih International):** Is the description of Paradise, which the righteous are promised, wherein are rivers of water unaltered, rivers of milk the taste of which never changes, rivers of wine delicious to those who drink, and rivers of purified honey, in which they will have from all [kinds of] fruits and forgiveness from their Lord... [Are its inhabitants] like those who abide eternally in the Fire and are given to drink scalding water that will sever their intestines?
-
-**English (Yusuf Ali):** (Here is) a Parable of the Garden which the righteous are promised: in it are rivers of water incorruptible; rivers of milk of which the taste never changes; rivers of wine, a joy to those who drink; and rivers of honey pure and clear. In it there are for them all kinds of fruits; and Grace from their Lord. (Can those in such Bliss) be compared to such as shall dwell for ever in the Fire, and be given, to drink, boiling water, so that it cuts up their bowels (to pieces)?
-
-**Urdu (Fatah Muhammad Jalandhari):** جنت جس کا پرہیزگاروں سے وعدہ کیا جاتا ہے۔ اس کی صفت یہ ہے کہ اس میں پانی کی نہریں ہیں جو بو نہیں کرے گا۔ اور دودھ کی نہریں ہیں جس کا مزہ نہیں بدلے گا۔ اور شراب کی نہریں ہیں جو پینے والوں کے لئے (سراسر) لذت ہے۔ اور شہد مصفا کی نہریں ہیں (جو حلاوت ہی حلاوت ہے) اور (وہاں) ان کے لئے ہر قسم کے میوے ہیں اور ان کے پروردگار کی طرف سے مغفرت ہے۔ (کیا یہ پرہیزگار) ان کی طرح (ہوسکتے) ہیں جو ہمیشہ دوزخ میں رہیں گے اور جن کو کھولتا ہوا پانی پلایا جائے گا تو ان کی انتڑیوں کو کاٹ ڈالے گا
-
-[Open on Quran.com](https://quran.com/47/15)
 

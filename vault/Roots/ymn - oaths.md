@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** oaths · **Root:** يمن
 
+
 ### Words (wikilinks — these create the graph)
 - [[>ymn - right]]
 - [[ymyn - oaths]]

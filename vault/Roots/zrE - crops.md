@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** crops · **Root:** زرع
 
+
 ### Words (wikilinks — these create the graph)
 - [[zrE - crops]]
 

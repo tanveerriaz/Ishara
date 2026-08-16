@@ -11,13 +11,16 @@ tags: [root, meaning]
 
 **Sense:** brings forth · **Root:** خرج
 
+
 ### Words (wikilinks — these create the graph)
 - [[<xrAj - eviction]]
 - [[>xrj - brings forth]]
 - [[Astxrj - bring forth]]
 - [[mxrj - brings forth]]
+- [[mxrj - will removed]]
 - [[xArj - will come out]]
 - [[xrj - come forth]]
+- [[xrj - expenditure]]
 - [[xrwj - go forth]]
 
 ### Surahs where this root appears

@@ -2,8 +2,8 @@
 type: word
 lemma: "عَيْن"
 slug: "Eyn - eyes"
-surah_count: 36
-ayah_count: 59
+surah_count: 34
+ayah_count: 55
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **eyes** · Lemma **عَيْن**
 
-### Surahs (36)
+### Surahs (34)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[005 Al-Maidah]]
@@ -41,10 +41,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[033 Al-Ahzab]]
 - [[034 Saba]]
 - [[036 Ya-Sin]]
-- [[037 As-Saffat]]
 - [[040 Ghafir]]
 - [[043 Az-Zukhruf]]
 - [[044 Ad-Dukhan]]
+- [[051 Adh-Dhariyat]]
 
 ## Verses (full text)
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/9/92)
 
-_…and **49** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **45** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

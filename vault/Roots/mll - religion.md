@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** religion · **Root:** ملل
 
+
 ### Words (wikilinks — these create the graph)
 - [[mlp - religion]]
 

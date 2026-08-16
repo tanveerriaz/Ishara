@@ -2,8 +2,8 @@
 type: word
 lemma: "سِخْرِيّ"
 slug: "sxry - mockery"
-surah_count: 3
-ayah_count: 3
+surah_count: 2
+ayah_count: 2
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **mockery** · Lemma **سِخْرِيّ**
 
-### Surahs (3)
+### Surahs (2)
 - [[023 Al-Muminun]]
 - [[038 Sad]]
-- [[043 Az-Zukhruf]]
 
 ## Verses (full text)
 
@@ -63,22 +62,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** کیا ہم نے ان سے ٹھٹھا کیا ہے یا (ہماری) آنکھیں ان (کی طرف) سے پھر گئی ہیں؟
 
 [Open on Quran.com](https://quran.com/38/63)
-
-#### 43:32 · [[043 Az-Zukhruf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ ۚ نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۚ وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍ دَرَجَـٰتٍ لِّيَتَّخِذَ بَعْضُهُم بَعْضًا سُخْرِيًّا ۗ وَرَحْمَتُ رَبِّكَ خَيْرٌ مِّمَّا يَجْمَعُونَ
-
-</div>
-
-**Word in this verse:** `سُخْرِيًّۭا ۗ` — (for) service
-
-**English (Sahih International):** Do they distribute the mercy of your Lord? It is We who have apportioned among them their livelihood in the life of this world and have raised some of them above others in degrees [of rank] that they may make use of one another for service. But the mercy of your Lord is better than whatever they accumulate.
-
-**English (Yusuf Ali):** Is it they who would portion out the Mercy of thy Lord? It is We Who portion out between them their livelihood in the life of this world: and We raise some of them above others in ranks, so that some may command work from others. But the Mercy of thy Lord is better than the (wealth) which they amass.
-
-**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ تمہارے پروردگار کی رحمت کو بانٹتے ہیں؟ ہم نے ان میں ان کی معیشت کو دنیا کی زندگی میں تقسیم کردیا اور ایک کے دوسرے پر درجے بلند کئے تاکہ ایک دوسرے سے خدمت لے اور جو کچھ یہ جمع کرتے ہیں تمہارے پروردگار کی رحمت اس سے کہیں بہتر ہے
-
-[Open on Quran.com](https://quran.com/43/32)
 

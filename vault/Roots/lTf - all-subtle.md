@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** all-subtle · **Root:** لطف
 
+
 ### Words (wikilinks — these create the graph)
 - [[lTyf - all-subtle]]
 

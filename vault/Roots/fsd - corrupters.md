@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** corrupters · **Root:** فسد
 
+
 ### Words (wikilinks — these create the graph)
 - [[>fsd - spread corruption]]
 - [[fsAd - corruption]]

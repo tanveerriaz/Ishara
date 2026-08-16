@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** skins · **Root:** جلد
 
+
 ### Words (wikilinks — these create the graph)
 - [[jlwd - skins]]
 

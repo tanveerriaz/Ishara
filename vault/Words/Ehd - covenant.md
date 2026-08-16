@@ -2,8 +2,8 @@
 type: word
 lemma: "عَهْد"
 slug: "Ehd - covenant"
-surah_count: 16
-ayah_count: 32
+surah_count: 14
+ayah_count: 26
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **covenant** · Lemma **عَهْد**
 
-### Surahs (16)
+### Surahs (14)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[006 Al-Anam]]
@@ -33,8 +33,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[020 Taha]]
 - [[023 Al-Muminun]]
 - [[033 Al-Ahzab]]
-- [[036 Ya-Sin]]
-- [[043 Az-Zukhruf]]
 - [[070 Al-Maarij]]
 
 ## Verses (full text)
@@ -131,24 +129,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/124)
 
-#### 2:125 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِـۧمَ مُصَلًّى ۖ وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَـٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
-
-</div>
-
-**Word in this verse:** `وَعَهِدْنَآ` — And We made a covenant
-
-**English (Sahih International):** And [mention] when We made the House [i.e., the Kaʿbah] a place of return for the people and [a place of] security. And take, [O believers], from the standing place of Abraham a place of prayer. And We charged Abraham and Ishmael, [saying], "Purify My House for those who perform ṭawāf and those who are staying [there] for worship and those who bow and prostrate [in prayer]."
-
-**English (Yusuf Ali):** Remember We made the House a place of assembly for men and a place of safety; and take ye the station of Abraham as a place of prayer; and We covenanted with Abraham and Isma'il, that they should sanctify My House for those who compass it round, or use it as a retreat, or bow, or prostrate themselves (therein in prayer).
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے خانہٴ کعبہ کو لوگوں کے لیے جمع ہونے اور امن پانے کی جگہ مقرر کیا اور (حکم دیا کہ) جس مقام پر ابراہیم کھڑے ہوئے تھے، اس کو نماز کی جگہ بنا لو۔ اور ابراہیم اور اسمٰعیل کو کہا کہ طواف کرنے والوں اور اعتکاف کرنے والوں اور رکوع کرنے والوں اور سجدہ کرنے والوں کے لیے میرے گھر کو پاک صاف رکھا کرو
-
-[Open on Quran.com](https://quran.com/2/125)
-
 #### 2:177 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -203,23 +183,41 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/77)
 
-#### 3:183 · [[003 Ali Imran]]
+#### 6:152 · [[006 Al-Anam]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ ۗ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَـٰتِ وَبِٱلَّذِى قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَـٰدِقِينَ
+وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ ۖ وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ
 
 </div>
 
-**Word in this verse:** `عَهِدَ` — (has) taken promise
+**Word in this verse:** `وَبِعَهْدِ` — And (the) Covenant
 
-**English (Sahih International):** [They are] those who said, "Indeed, Allāh has taken our promise not to believe any messenger until he brings us an offering which fire [from heaven] will consume." Say, "There have already come to you messengers before me with clear proofs and [even] that of which you speak. So why did you kill them, if you should be truthful?"
+**English (Sahih International):** And do not approach the orphan's property except in a way that is best [i.e., intending improvement] until he reaches maturity. And give full measure and weight in justice. We do not charge any soul except [with that within] its capacity. And when you speak [i.e., testify], be just, even if [it concerns] a near relative. And the covenant of Allāh fulfill. This has He instructed you that you may remember.
 
-**English (Yusuf Ali):** They (also) said: "Allah took our promise not to believe in an messenger unless He showed us a sacrifice consumed by Fire (From heaven)." Say: "There came to you messengers before me, with clear Signs and even with what ye ask for: why then did ye slay them, if ye speak the truth?"
+**English (Yusuf Ali):** And come not nigh to the orphan's property, except to improve it, until he attain the age of full strength; give measure and weight with (full) justice;- no burden do We place on any soul, but that which it can bear;- whenever ye speak, speak justly, even if a near relative is concerned; and fulfil the covenant of Allah: thus doth He command you, that ye may remember.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ کہتے ہی کہ خدا نے ہمیں حکم بھیجا ہے کہ جب تک کوئی پیغمبر ہمارے پاس ایسی نیاز لے کر نہ آئے جس کو آگ آکر کھا جائے تب تک ہم اس پر ایمان نہ لائیں گے (اے پیغمبر ان سے) کہہ دو کہ مجھ سے پہلے کئی پیغمبر تمہارے پاس کھلی ہوئی نشانیاں لے کر آئے اور وہ (معجزہ) بھی لائے جو تم کہتے ہو تو اگر سچے ہو تو تم نے ان کو قتل کیوں کیا؟
+**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ جانا مگر ایسے طریق سے کہ بہت ہی پسندیدہ ہو یہاں تک کہ وہ جوانی کو پہنچ جائے اور ناپ تول انصاف کے ساتھ پوری پوری کیا کرو ہم کسی کو تکلیف نہیں دیتے مگر اس کی طاقت کے مطابق اور جب (کسی کی نسبت) کوئی بات کہو تو انصاف سے کہو گو وہ (تمہارا) رشتہ دار ہی ہو اور خدا کے عہد کو پورا کرو ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم نصحیت کرو
 
-[Open on Quran.com](https://quran.com/3/183)
+[Open on Quran.com](https://quran.com/6/152)
 
-_…and **22** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 7:102 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا وَجَدْنَا لِأَكْثَرِهِم مِّنْ عَهْدٍ ۖ وَإِن وَجَدْنَآ أَكْثَرَهُمْ لَفَـٰسِقِينَ
+
+</div>
+
+**Word in this verse:** `عَهْدٍۢ ۖ` — covenant
+
+**English (Sahih International):** And We did not find for most of them any covenant; but indeed, We found most of them defiantly disobedient.
+
+**English (Yusuf Ali):** Most of them We found not men (true) to their covenant: but most of them We found rebellious and disobedient.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان میں سے اکثروں میں (عہد کا نباہ) نہیں دیکھا۔ اور ان میں اکثروں کو (دیکھا تو) بدکار ہی دیکھا
+
+[Open on Quran.com](https://quran.com/7/102)
+
+_…and **16** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

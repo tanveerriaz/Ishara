@@ -14,36 +14,36 @@ The Hypocrites · 11 ayahs
 
 ## Words in this surah (graph)
 
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[mstkbr - arrogant]] — `مُسْتَكْبِر` · arrogant
-- [[swA' - it same]] — `سَواء` · it same
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[>Ejb - pleases you]] — `أَعْجَبَ` · pleases you
-- [[sbyl - way]] — `سَبِيل` · way
-- [[allah - God]] — `الله` · God
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[Ezp - honor]] — `عِزَّة` · honor
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[Atx* - take]] — `اتَّخَذَ` · take
-- [[qbl - before]] — `قَبْل` · before
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[>rD - earth]] — `أَرْض` · earth
-- [[Elm - know]] — `عَلِمَ` · know
-- [[gfr - forgive]] — `غَفَرَ` · forgive
-- [[TbE - were sealed]] — `طَبَعَ` · were sealed
-- [[>xr - we delay]] — `أَخَّرَ` · we delay
 - [[>jl - term]] — `أَجَل` · term
-- [[ymyn - oaths]] — `يَمِين` · oaths
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[xAsr - losers]] — `خاسِر` · losers
 - [[>fk - they deluded]] — `أُفِكَ` · they deluded
-- [[qAtl - fight]] — `قاتَلَ` · fight
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[smE - hearing]] — `سَمْع` · hearing
+- [[tSdq - gives charity]] — `تَصَدَّقَ` · gives charity
 - [[yfqh - understand]] — `يَفْقَهُ` · understand
+- [[SyHp - shout]] — `صَيْحَة` · shout
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[mAl - wealth]] — `مال` · wealth
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[Edw - enemy]] — `عَدُوّ` · enemy
+- [[yH*r - beware]] — `يَحْذَرُ` · beware
+- [[Elm - know]] — `عَلِمَ` · know
+- [[Sd - hinder]] — `صَدَّ` · hinder
+- [[rzq - provides you]] — `رَزَقَ` · provides you
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[qwl - speech]] — `قَوْل` · speech
+- [[qAl - say]] — `قالَ` · say
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
+- [[swA' - it same]] — `سَواء` · it same
+- [[>Ejb - pleases you]] — `أَعْجَبَ` · pleases you
+- [[Amn - believe]] — `آمَنَ` · believe
 
 ## Roots
 
 - [[$hd - witness]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[>Hd - anyone]]
 - [[>fk - lie]]
@@ -61,7 +61,7 @@ The Hypocrites · 11 ayahs
 - [[Eml - do]]
 - [[End - near]]
 - [[Ezz - all-mighty]]
-- [[H*r - warns you]]
+- [[H*r - beware]]
 - [[Hsb - account]]
 - [[Sdd - hinder]]
 - [[Sdq - truthful]]

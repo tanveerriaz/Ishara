@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** healing · **Root:** شفي
 
+
 ### Words (wikilinks — these create the graph)
 - [[$fA' - healing]]
 

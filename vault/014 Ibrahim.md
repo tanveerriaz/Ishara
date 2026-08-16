@@ -15,30 +15,30 @@ Abraham · 52 ayahs
 ## Words in this surah (graph)
 
 - [[>xr - we delay]] — `أَخَّرَ` · we delay
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
-- [[vmrp - fruits]] — `ثَمَرَة` · fruits
 - [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[brz - they leave]] — `بَرَزَ` · they leave
 - [[wrA' - behind]] — `وَراء` · behind
-- [[$jrp - tree]] — `شَجَرَة` · tree
-- [[bEyd - far]] — `بَعِيد` · far
-- [[sxr - subjected]] — `سَخِرَ` · subjected
-- [[qrAr - settlement]] — `قَرار` · settlement
 - [[>skn - lodge them]] — `أَسْكَن` · lodge them
+- [[bEyd - far]] — `بَعِيد` · far
+- [[brz - they leave]] — `بَرَزَ` · they leave
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[vmrp - fruits]] — `ثَمَرَة` · fruits
 - [[dEA' - call]] — `دُعاء` · call
-- [[tbE - follows]] — `تَبِعَ` · follows
+- [[b$r - man]] — `بَشَر` · man
+- [[qrAr - settlement]] — `قَرار` · settlement
 - [[$k - doubt]] — `شَكّ` · doubt
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
-- [[<nsAn - man]] — `إِنسان` · man
-- [[mtwkl - trust]] — `مُتَوَكِّل` · trust
-- [[mkAn - place]] — `مَكان` · place
-- [[swA' - it same]] — `سَواء` · it same
-- [[slAm - peace]] — `سَلام` · peace
-- [[AtY - give]] — `آتَى` · give
-- [[$ms - sun]] — `شَمْس` · sun
-- [[fEl - you do]] — `فَعَلَ` · you do
+- [[sxr - subjected]] — `سَخَّرَ` · subjected
+- [[$jrp - tree]] — `شَجَرَة` · tree
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[>jl - term]] — `أَجَل` · term
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[bgY - seek it]] — `بَغَى` · seek it
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
+- [[Ebd - worship]] — `عَبَدَ` · worship
+- [[whb - grant]] — `وَهَبَ` · grant
 
 ## Roots
 
@@ -51,8 +51,8 @@ Abraham · 52 ayahs
 - [[$rk - polytheists]]
 - [[$y> - thing]]
 - [[*bH - slaughtering]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[*rr - offspring]]
 - [[>*n - by permission]]

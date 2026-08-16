@@ -14,36 +14,36 @@ The Winnowing Winds · 60 ayahs
 
 ## Words in this surah (graph)
 
-- [[Eqym - barren]] — `عَقِيم` · barren
 - [[mjnwn - madman]] — `مَجْنُون` · madman
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[ysr - ease]] — `يُسْر` · ease
-- [[slAm - peace]] — `سَلام` · peace
-- [[AtY - give]] — `آتَى` · give
-- [[jn - covered]] — `جَنَّ` · covered
-- [[wAqE - would fall]] — `واقِع` · would fall
-- [[glAm - boy]] — `غُلام` · boy
-- [[qlyl - little]] — `قَلِيل` · little
-- [[ym - sea]] — `يَمّ` · sea
+- [[Eqym - barren]] — `عَقِيم` · barren
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[mHsn - good-doers]] — `مُحْسِن` · good-doers
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[mntSr - he supported]] — `مُنتَصِر` · he supported
+- [[Ebd - worship]] — `عَبَدَ` · worship
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[E*Ab - punishment]] — `عَذاب` · punishment
 - [[nZr - see]] — `نَظَرَ` · see
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[qA}m - standing]] — `قائِم` · standing
-- [[allah - God]] — `الله` · God
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[Ax* - take it]] — `آخِذ` · take it
-- [[jAryp - sailing]] — `جارِيَة` · sailing
-- [[wjh - faces]] — `وَجْه` · faces
-- [[qbl - before]] — `قَبْل` · before
-- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[>fk - they deluded]] — `أُفِكَ` · they deluded
+- [[lyl - night]] — `لَيْل` · night
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[>rD - earth]] — `أَرْض` · earth
+- [[jAryp - sailing]] — `جارِيَة` · sailing
+- [[sHr - before dawn]] — `سَحَر` · before dawn
+- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
+- [[mAl - wealth]] — `مال` · wealth
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[jnd - hosts]] — `جُند` · hosts
+- [[frt - you flee]] — `فَرَّتْ` · you flee
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[mwqn - certain]] — `مُوقِن` · certain
+- [[>x* - we took]] — `أَخَذَ` · we took
+- [[mtqy - righteous]] — `مُتَّقي` · righteous
+- [[Hdyv - statement]] — `حَدِيث` · statement
 
 ## Roots
 
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[*wq - taste]]
 - [[>fk - lie]]

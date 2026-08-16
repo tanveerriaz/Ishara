@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** date-palms · **Root:** نخل
 
+
 ### Words (wikilinks — these create the graph)
 - [[nxl - date-palms]]
 - [[nxyl - date-palms]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** olives · **Root:** زيت
 
+
 ### Words (wikilinks — these create the graph)
 - [[zytwn - olives]]
 

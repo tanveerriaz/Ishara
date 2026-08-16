@@ -2,8 +2,8 @@
 type: word
 lemma: "مُنذِر"
 slug: "mn*r - warners"
-surah_count: 14
-ayah_count: 20
+surah_count: 13
+ayah_count: 15
 tags: [word, meaning]
 ---
 
@@ -19,11 +19,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **warners** · Lemma **مُنذِر**
 
-### Surahs (14)
+### Surahs (13)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
 - [[006 Al-Anam]]
-- [[010 Yunus]]
 - [[013 Ar-Rad]]
 - [[018 Al-Kahf]]
 - [[026 Ash-Shuara]]
@@ -93,24 +92,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/48)
 
-#### 10:73 · [[010 Yunus]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَكَذَّبُوهُ فَنَجَّيْنَـٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ وَجَعَلْنَـٰهُمْ خَلَـٰٓئِفَ وَأَغْرَقْنَا ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا ۖ فَٱنظُرْ كَيْفَ كَانَ عَـٰقِبَةُ ٱلْمُنذَرِينَ
-
-</div>
-
-**Word in this verse:** `ٱلْمُنذَرِينَ` — (of) those who were warned
-
-**English (Sahih International):** And they denied him, so We saved him and those with him in the ship and made them successors, and We drowned those who denied Our signs. Then see how was the end of those who were warned.
-
-**English (Yusuf Ali):** They rejected Him, but We delivered him, and those with him, in the Ark, and We made them inherit (the earth), while We overwhelmed in the flood those who rejected Our Signs. Then see what was the end of those who were warned (but heeded not)!
-
-**Urdu (Fatah Muhammad Jalandhari):** لیکن ان لوگوں نے ان کی تکذیب کی تو ہم نے ان کو اور جو لوگ ان کے ساتھ کشتی میں سوار تھے سب کو (طوفان سے) بچا لیا اور انہیں (زمین میں) خلیفہ بنادیا اور جن لوگوں نے ہماری آیتوں کو جھٹلایا ان کو غرق کر دیا تو دیکھ لو کہ جو لوگ ڈرائے گئے تھے ان کا کیا انجام ہوا
-
-[Open on Quran.com](https://quran.com/10/73)
-
 #### 13:7 · [[013 Ar-Rad]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -146,24 +127,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور ہم جو پیغمبروں کو بھیجا کرتے ہیں تو صرف اس لئے کہ (لوگوں کو خدا کی نعمتوں کی) خوشخبریاں سنائیں اور (عذاب سے) ڈرائیں۔ اور جو کافر ہیں وہ باطل کی (سند) سے جھگڑا کرتے ہیں تاکہ اس سے حق کو پھسلا دیں اور انہوں نے ہماری آیتوں کو اور جس چیز سے ان کو ڈرایا جاتا ہے ہنسی بنا لیا
 
 [Open on Quran.com](https://quran.com/18/56)
-
-#### 26:173 · [[026 Ash-Shuara]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
-
-</div>
-
-**Word in this verse:** `ٱلْمُنذَرِينَ` — (on) those who were warned
-
-**English (Sahih International):** And We rained upon them a rain [of stones], and evil was the rain of those who were warned.
-
-**English (Yusuf Ali):** We rained down on them a shower (of brimstone): and evil was the shower on those who were admonished (but heeded not)!
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ان پر مینھہ برسایا۔ سو جو مینھہ ان (لوگوں) پر (برسا) جو ڈرائے گئے برا تھا
-
-[Open on Quran.com](https://quran.com/26/173)
 
 #### 26:194 · [[026 Ash-Shuara]]
 
@@ -201,23 +164,59 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/26/208)
 
-#### 27:58 · [[027 An-Naml]]
+#### 27:92 · [[027 An-Naml]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
+وَأَنْ أَتْلُوَا۟ ٱلْقُرْءَانَ ۖ فَمَنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَقُلْ إِنَّمَآ أَنَا۠ مِنَ ٱلْمُنذِرِينَ
 
 </div>
 
-**Word in this verse:** `ٱلْمُنذَرِينَ` — (on) those who were warned
+**Word in this verse:** `ٱلْمُنذِرِينَ` — the warners
 
-**English (Sahih International):** And We rained upon them a rain [of stones], and evil was the rain of those who were warned.
+**English (Sahih International):** And to recite the Qur’ān." And whoever is guided is only guided for [the benefit of] himself; and whoever strays - say, "I am only [one] of the warners."
 
-**English (Yusuf Ali):** And We rained down on them a shower (of brimstone): and evil was the shower on those who were admonished (but heeded not)!
+**English (Yusuf Ali):** And to rehearse the Qur'an: and if any accept guidance, they do it for the good of their own souls, and if any stray, say: "I am only a Warner".
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان پر مینھہ برسایا سو (جو) مینھہ ان لوگوں پر برسا جن کو متنبہ کردیا گیا تھا، برا تھا
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ بھی کہ قرآن پڑھا کروں۔ تو جو شخص راہ راست اختیار کرتا ہے تو اپنے ہی فائدے کے لئے اختیار کرتا ہے۔ اور جو گمراہ رہتا ہے تو کہہ دو کہ میں تو صرف نصیحت کرنے والا ہوں
 
-[Open on Quran.com](https://quran.com/27/58)
+[Open on Quran.com](https://quran.com/27/92)
 
-_…and **10** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 37:72 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ أَرْسَلْنَا فِيهِم مُّنذِرِينَ
+
+</div>
+
+**Word in this verse:** `مُّنذِرِينَ` — warners
+
+**English (Sahih International):** And We had already sent among them warners.
+
+**English (Yusuf Ali):** But We sent aforetime, among them, (messengers) to admonish them;-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان میں متنبہ کرنے والے بھیجے
+
+[Open on Quran.com](https://quran.com/37/72)
+
+#### 38:4 · [[038 Sad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَعَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ ۖ وَقَالَ ٱلْكَـٰفِرُونَ هَـٰذَا سَـٰحِرٌ كَذَّابٌ
+
+</div>
+
+**Word in this verse:** `مُّنذِرٌۭ` — a warner
+
+**English (Sahih International):** And they wonder that there has come to them a warner [i.e., Prophet Muḥammad (ﷺ)] from among themselves. And the disbelievers say, "This is a magician and a liar.
+
+**English (Yusuf Ali):** So they wonder that a Warner has come to them from among themselves! and the Unbelievers say, "This is a sorcerer telling lies!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور انہوں نے تعجب کیا کہ ان کے پاس ان ہی میں سے ہدایت کرنے والا آیا اور کافر کہنے لگے کہ یہ تو جادوگر ہے جھوٹا
+
+[Open on Quran.com](https://quran.com/38/4)
+
+_…and **5** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

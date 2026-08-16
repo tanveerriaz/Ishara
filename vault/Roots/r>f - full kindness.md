@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** full kindness · **Root:** رأف
 
+
 ### Words (wikilinks — these create the graph)
 - [[r'wf - full kindness]]
 

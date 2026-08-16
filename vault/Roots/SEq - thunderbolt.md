@@ -11,9 +11,10 @@ tags: [root, meaning]
 
 **Sense:** thunderbolt · **Root:** صعق
 
+
 ### Words (wikilinks — these create the graph)
 - [[SAEqp - thunderbolt]]
-- [[SEq - unconscious]]
+- [[SEq - then will fall]]
 
 ### Surahs where this root appears
 `002, 004, 007, 013, 039, 041, 051, 052` · open those surah notes from [[Surah Index]]

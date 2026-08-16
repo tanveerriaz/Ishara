@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** open space court · **Root:** وصد
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

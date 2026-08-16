@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** evil · **Root:** شرر
 
+
 ### Words (wikilinks — these create the graph)
 - [[$r - evil]]
 

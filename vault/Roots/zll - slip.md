@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** slip · **Root:** زلل
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

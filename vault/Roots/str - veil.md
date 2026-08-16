@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** veil · **Root:** ستر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

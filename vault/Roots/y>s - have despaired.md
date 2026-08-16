@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** have despaired · **Root:** يأس
 
+
 ### Words (wikilinks — these create the graph)
 - [[y}s - have despaired]]
 - [[y}ws - despairing]]

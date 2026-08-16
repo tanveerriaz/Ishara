@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** words · **Root:** كلم
 
+
 ### Words (wikilinks — these create the graph)
 - [[klAm - words]]
+- [[klm - spoke]]
 - [[klm - words]]
 - [[klmp - words]]
 - [[ytklm - will speak]]

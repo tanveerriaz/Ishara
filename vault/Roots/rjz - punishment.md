@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** punishment · **Root:** رجز
 
+
 ### Words (wikilinks — these create the graph)
 - [[rjz - punishment]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** he intends · **Root:** رود
 
+
 ### Words (wikilinks — these create the graph)
 - [[>rAd - he intends]]
 

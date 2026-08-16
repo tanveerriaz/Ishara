@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** world · **Root:** دنو
 
+
 ### Words (wikilinks — these create the graph)
 - [[>dnY - nearer]]
 - [[dAnyp - hanging low]]

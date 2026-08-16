@@ -2,8 +2,8 @@
 type: word
 lemma: "نِعْمَة"
 slug: "nEmp - favor"
-surah_count: 26
-ayah_count: 51
+surah_count: 24
+ayah_count: 49
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **favor** · Lemma **نِعْمَة**
 
-### Surahs (26)
+### Surahs (24)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[005 Al-Maidah]]
@@ -36,15 +36,14 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[037 As-Saffat]]
 - [[039 Az-Zumar]]
 - [[043 Az-Zukhruf]]
-- [[044 Ad-Dukhan]]
 - [[046 Al-Ahqaf]]
 - [[048 Al-Fath]]
 - [[049 Al-Hujurat]]
 - [[052 At-Tur]]
 - [[054 Al-Qamar]]
 - [[068 Al-Qalam]]
-- [[073 Al-Muzzammil]]
 - [[092 Al-Layl]]
+- [[093 Ad-Duhaa]]
 
 ## Verses (full text)
 
@@ -230,5 +229,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/5/3)
 
-_…and **41** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **39** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

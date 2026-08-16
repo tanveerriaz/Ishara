@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** resting place · **Root:** مهد
 
+
 ### Words (wikilinks — these create the graph)
 - [[mhAd - resting place]]
 - [[mhd - cradle]]

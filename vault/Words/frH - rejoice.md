@@ -2,8 +2,8 @@
 type: word
 lemma: "فَرِحَ"
 slug: "frH - rejoice"
-surah_count: 13
-ayah_count: 21
+surah_count: 11
+ayah_count: 16
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **rejoice** · Lemma **فَرِحَ**
 
-### Surahs (13)
+### Surahs (11)
 - [[003 Ali Imran]]
 - [[006 Al-Anam]]
 - [[009 At-Tawbah]]
 - [[010 Yunus]]
-- [[011 Hud]]
 - [[013 Ar-Rad]]
-- [[023 Al-Muminun]]
 - [[027 An-Naml]]
 - [[028 Al-Qasas]]
 - [[030 Ar-Rum]]
@@ -55,24 +53,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اگر تمہیں آسودگی حاصل ہو تو ان کو بری لگتی ہے اور اگر رنج پہنچے تو خوش ہوتے ہیں اور اگر تم تکلیفوں کی برداشت اور (ان سے) کنارہ کشی کرتے رہو گے تو ان کا فریب تمھیں کچھ بھی نقصان نہ پہنچا سکے گا یہ جو کچھ کرتے ہیں خدا اس پر احاطہ کیے ہوئے ہے
 
 [Open on Quran.com](https://quran.com/3/120)
-
-#### 3:170 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَرِحِينَ بِمَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَيَسْتَبْشِرُونَ بِٱلَّذِينَ لَمْ يَلْحَقُوا۟ بِهِم مِّنْ خَلْفِهِمْ أَلَّا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
-
-</div>
-
-**Word in this verse:** `فَرِحِينَ` — Rejoicing
-
-**English (Sahih International):** Rejoicing in what Allāh has bestowed upon them of His bounty, and they receive good tidings about those [to be martyred] after them who have not yet joined them - that there will be no fear concerning them, nor will they grieve.
-
-**English (Yusuf Ali):** They rejoice in the bounty provided by Allah: And with regard to those left behind, who have not yet joined them (in their bliss), the (Martyrs) glory in the fact that on them is no fear, nor have they (cause to) grieve.
-
-**Urdu (Fatah Muhammad Jalandhari):** جو کچھ خدا نے ان کو اپنے فضل سے بخش رکھا ہے اس میں خوش ہیں۔ اور جو لوگ ان کے پیچھے رہ گئے اور( شہید ہوکر) ان میں شامل نہیں ہوسکے ان کی نسبت خوشیاں منا رہے ہیں کہ (قیامت کے دن) ان کو بھی نہ کچھ خوف ہوگا اور نہ وہ غمناک ہوں گے
-
-[Open on Quran.com](https://quran.com/3/170)
 
 #### 3:188 · [[003 Ali Imran]]
 
@@ -109,24 +89,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** پھر جب انہوں نے اس نصیحت کو جو ان کو گی گئی تھی فراموش کردیا تو ہم نے ان پر ہر چیز کے دروازے کھول دیئے۔ یہاں تک کہ جب ان چیزوں سے جو ان کو دی گئی تھیں خوب خوش ہوگئے تو ہم نے ان کو ناگہاں پکڑ لیا اور وہ اس وقت مایوس ہو کر رہ گئے
 
 [Open on Quran.com](https://quran.com/6/44)
-
-#### 9:50 · [[009 At-Tawbah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِن تُصِبْكَ حَسَنَةٌ تَسُؤْهُمْ ۖ وَإِن تُصِبْكَ مُصِيبَةٌ يَقُولُوا۟ قَدْ أَخَذْنَآ أَمْرَنَا مِن قَبْلُ وَيَتَوَلَّوا۟ وَّهُمْ فَرِحُونَ
-
-</div>
-
-**Word in this verse:** `فَرِحُونَ` — (are) rejoicing
-
-**English (Sahih International):** If good befalls you, it distresses them; but if disaster strikes you, they say, "We took our matter [in hand] before," and turn away while they are rejoicing.
-
-**English (Yusuf Ali):** If good befalls thee, it grieves them; but if a misfortune befalls thee, they say, "We took indeed our precautions beforehand," and they turn away rejoicing.
-
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) اگر تم کو آسائش حاصل ہوتی ہے تو ان کو بری لگتی ہے۔ اور کوئی مشکل پڑتی ہے تو کہتے کہ ہم نے اپنا کام پہلے ہیں (درست) کر لیا تھا اور خوشیاں مناتے لوٹ جاتے ہیں
-
-[Open on Quran.com](https://quran.com/9/50)
 
 #### 9:81 · [[009 At-Tawbah]]
 
@@ -182,24 +144,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/10/58)
 
-#### 11:10 · [[011 Hud]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَئِنْ أَذَقْنَـٰهُ نَعْمَآءَ بَعْدَ ضَرَّآءَ مَسَّتْهُ لَيَقُولَنَّ ذَهَبَ ٱلسَّيِّـَٔاتُ عَنِّىٓ ۚ إِنَّهُۥ لَفَرِحٌ فَخُورٌ
-
-</div>
-
-**Word in this verse:** `لَفَرِحٌۭ` — (is) exultant
-
-**English (Sahih International):** But if We give him a taste of favor after hardship has touched him, he will surely say, "Bad times have left me." Indeed, he is exultant and boastful -
-
-**English (Yusuf Ali):** But if We give him a taste of (Our) favours after adversity hath touched him, he is sure to say, "All evil has departed from me:" Behold! he falls into exultation and pride.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تکلیف پہنچنے کے بعد آسائش کا مزہ چکھائیں تو (خوش ہو کر) کہتا ہے کہ (آہا) سب سختیاں مجھ سے دور ہوگئیں۔ بےشک وہ خوشیاں منانے والا (اور) فخر کرنے والا ہے
-
-[Open on Quran.com](https://quran.com/11/10)
-
 #### 13:26 · [[013 Ar-Rad]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -218,5 +162,59 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/13/26)
 
-_…and **11** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 13:36 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ ءَاتَيْنَـٰهُمُ ٱلْكِتَـٰبَ يَفْرَحُونَ بِمَآ أُنزِلَ إِلَيْكَ ۖ وَمِنَ ٱلْأَحْزَابِ مَن يُنكِرُ بَعْضَهُۥ ۚ قُلْ إِنَّمَآ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ وَلَآ أُشْرِكَ بِهِۦٓ ۚ إِلَيْهِ أَدْعُوا۟ وَإِلَيْهِ مَـَٔابِ
+
+</div>
+
+**Word in this verse:** `يَفْرَحُونَ` — rejoice
+
+**English (Sahih International):** And [the believers among] those to whom We have given the [previous] Scripture rejoice at what has been revealed to you, [O Muḥammad], but among the [opposing] factions are those who deny part of it [i.e., the Qur’ān]. Say, "I have only been commanded to worship Allāh and not associate [anything] with Him. To Him I invite, and to Him is my return."
+
+**English (Yusuf Ali):** Those to whom We have given the Book rejoice at what hath been revealed unto thee: but there are among the clans those who reject a part thereof. Say: "I am commanded to worship Allah, and not to join partners with Him. Unto Him do I call, and unto Him is my return."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں کو ہم نے کتاب دی ہے وہ اس (کتاب) سے جو تم پر نازل ہوئی ہے خوش ہوتے ہیں اور بعض فرقے اس کی بعض باتیں نہیں بھی مانتے۔ کہہ دو کہ مجھ کو یہی حکم ہوا ہے کہ خدا ہی کی عبادت کروں اور اس کے ساتھ کسی کو شریک نہ بناؤں۔ میں اسی کی طرف بلاتا ہوں اور اسی کی طرف مجھے لوٹنا ہے
+
+[Open on Quran.com](https://quran.com/13/36)
+
+#### 27:36 · [[027 An-Naml]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَمَّا جَآءَ سُلَيْمَـٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٍ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ خَيْرٌ مِّمَّآ ءَاتَىٰكُم بَلْ أَنتُم بِهَدِيَّتِكُمْ تَفْرَحُونَ
+
+</div>
+
+**Word in this verse:** `تَفْرَحُونَ` — rejoice
+
+**English (Sahih International):** So when they came to Solomon, he said, "Do you provide me with wealth? But what Allāh has given me is better than what He has given you. Rather, it is you who rejoice in your gift.
+
+**English (Yusuf Ali):** Now when (the embassy) came to Solomon, he said: "Will ye give me abundance in wealth? But that which Allah has given me is better than that which He has given you! Nay it is ye who rejoice in your gift!
+
+**Urdu (Fatah Muhammad Jalandhari):** جب (قاصد) سلیمان کے پاس پہنچا تو سلیمان نے کہا کیا تم مجھے مال سے مدد دینا چاہتے ہو، جو کچھ خدا نے مجھے عطا فرمایا ہے وہ اس سے بہتر ہے جو تمہیں دیا ہے حقیقت یہ ہے کہ تم ہی اپنے تحفے سے خوش ہوتے ہوگے
+
+[Open on Quran.com](https://quran.com/27/36)
+
+#### 28:76 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ إِنَّ قَـٰرُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ ۖ وَءَاتَيْنَـٰهُ مِنَ ٱلْكُنُوزِ مَآ إِنَّ مَفَاتِحَهُۥ لَتَنُوٓأُ بِٱلْعُصْبَةِ أُو۟لِى ٱلْقُوَّةِ إِذْ قَالَ لَهُۥ قَوْمُهُۥ لَا تَفْرَحْ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْفَرِحِينَ
+
+</div>
+
+**Word in this verse:** `تَفْرَحْ ۖ` — exult
+
+**English (Sahih International):** Indeed, Qārūn was from the people of Moses, but he tyrannized them. And We gave him of treasures whose keys would burden a band of strong men; thereupon his people said to him, "Do not exult. Indeed, Allāh does not like the exultant.
+
+**English (Yusuf Ali):** Qarun was doubtless, of the people of Moses; but he acted insolently towards them: such were the treasures We had bestowed on him that their very keys would have been a burden to a body of strong men, behold, his people said to him: "Exult not, for Allah loveth not those who exult (in riches).
+
+**Urdu (Fatah Muhammad Jalandhari):** قارون موسٰی کی قوم میں سے تھا اور ان پر تعدّی کرتا تھا۔ اور ہم نے اس کو اتنے خزانے دیئے تھے کہ اُن کی کنجیاں ایک طاقتور جماعت کو اُٹھانی مشکل ہوتیں جب اس سے اس کی قوم نے کہا کہ اترائیے مت۔ کہ خدا اترانے والوں کو پسند نہیں کرتا
+
+[Open on Quran.com](https://quran.com/28/76)
+
+_…and **6** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

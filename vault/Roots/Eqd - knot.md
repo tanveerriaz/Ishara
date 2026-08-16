@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** knot · **Root:** عقد
 
+
 ### Words (wikilinks — these create the graph)
 - [[Eqdp - knot]]
 

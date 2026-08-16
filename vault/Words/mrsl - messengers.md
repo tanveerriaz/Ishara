@@ -2,8 +2,8 @@
 type: word
 lemma: "مُرْسَل"
 slug: "mrsl - messengers"
-surah_count: 16
-ayah_count: 39
+surah_count: 13
+ayah_count: 35
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **messengers** · Lemma **مُرْسَل**
 
-### Surahs (16)
+### Surahs (13)
 - [[002 Al-Baqarah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
@@ -30,12 +30,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[026 Ash-Shuara]]
 - [[027 An-Naml]]
 - [[028 Al-Qasas]]
-- [[035 Fatir]]
 - [[036 Ya-Sin]]
 - [[037 As-Saffat]]
-- [[044 Ad-Dukhan]]
 - [[051 Adh-Dhariyat]]
-- [[054 Al-Qamar]]
 
 ## Verses (full text)
 
@@ -221,5 +218,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/15/80)
 
-_…and **29** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **25** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

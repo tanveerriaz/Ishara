@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** strive · **Root:** جهد
 
+
 ### Words (wikilinks — these create the graph)
 - [[jAhd - strive]]
 - [[jhAd - striving]]

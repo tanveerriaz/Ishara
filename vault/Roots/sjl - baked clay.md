@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** baked clay · **Root:** سجل
 
+
 ### Words (wikilinks — these create the graph)
 - [[sjyl - baked clay]]
 

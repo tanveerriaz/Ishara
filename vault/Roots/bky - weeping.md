@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** weeping · **Root:** بكي
 
+
 ### Words (wikilinks — these create the graph)
 - [[bkt - weeping]]
 

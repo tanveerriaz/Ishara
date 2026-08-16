@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** follow · **Root:** تبع
 
+
 ### Words (wikilinks — these create the graph)
 - [[>tbE - he followed]]
 - [[AtbE - follow]]
+- [[tbE - followers]]
 - [[tbE - follows]]
 
 ### Surahs where this root appears

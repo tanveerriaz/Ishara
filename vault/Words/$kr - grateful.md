@@ -3,7 +3,7 @@ type: word
 lemma: "شَكَرَ"
 slug: "$kr - grateful"
 surah_count: 28
-ayah_count: 43
+ayah_count: 42
 tags: [word, meaning]
 ---
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/5/89)
 
-_…and **33** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **32** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

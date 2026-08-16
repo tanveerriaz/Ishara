@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** ask · **Root:** سأل
 
+
 ### Words (wikilinks — these create the graph)
 - [[ms}wl - questioned]]
 - [[s>l - ask]]

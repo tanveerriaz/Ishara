@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** delusion · **Root:** غرر
 
+
 ### Words (wikilinks — these create the graph)
 - [[gr - deceive you]]
+- [[grwr - deceiver]]
 - [[grwr - delusion]]
 
 ### Surahs where this root appears

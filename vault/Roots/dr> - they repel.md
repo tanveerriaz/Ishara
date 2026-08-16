@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they repel · **Root:** درأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[ydr&A - they repel]]
 

@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "قَدَر"
+lemma: "قَدَرَ"
 slug: "qdr - restricts"
-surah_count: 39
-ayah_count: 55
+surah_count: 22
+ayah_count: 25
 tags: [word, meaning]
 ---
 
@@ -17,56 +17,35 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[qdr - all-powerful]]
 
 ### Meaning
-**restricts** · Lemma **قَدَر**
+**restricts** · Lemma **قَدَرَ**
 
-### Surahs (39)
+### Surahs (22)
 - [[002 Al-Baqarah]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
-- [[010 Yunus]]
 - [[013 Ar-Rad]]
 - [[014 Ibrahim]]
-- [[015 Al-Hijr]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
-- [[020 Taha]]
 - [[021 Al-Anbya]]
 - [[022 Al-Hajj]]
-- [[023 Al-Muminun]]
-- [[025 Al-Furqan]]
-- [[027 An-Naml]]
 - [[028 Al-Qasas]]
 - [[029 Al-Ankabut]]
 - [[030 Ar-Rum]]
-- [[033 Al-Ahzab]]
 - [[034 Saba]]
-- [[036 Ya-Sin]]
 - [[039 Az-Zumar]]
-- [[041 Fussilat]]
 - [[042 Ash-Shuraa]]
-- [[043 Az-Zukhruf]]
+- [[048 Al-Fath]]
+- [[054 Al-Qamar]]
+- [[057 Al-Hadid]]
+- [[065 At-Talaq]]
+- [[077 Al-Mursalat]]
+- [[089 Al-Fajr]]
+- [[090 Al-Balad]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:236 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-لَّا جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا۟ لَهُنَّ فَرِيضَةً ۚ وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ مَتَـٰعًۢا بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُحْسِنِينَ
-
-</div>
-
-**Word in this verse:** `قَدَرُهُۥ` — according to his means
-
-**English (Sahih International):** There is no blame upon you if you divorce women you have not touched nor specified for them an obligation. But give them [a gift of] compensation - the wealthy according to his capability and the poor according to his capability - a provision according to what is acceptable, a duty upon the doers of good.
-
-**English (Yusuf Ali):** There is no blame on you if ye divorce women before consummation or the fixation of their dower; but bestow on them (A suitable gift), the wealthy according to his means, and the poor according to his means;- A gift of a reasonable amount is due from those who wish to do the right thing.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے یا ان کا مہر مقرر کرنے سے پہلے طلاق دے دو تو تم پر کچھ گناہ نہیں۔ ہاں ان کو دستور کے مطابق کچھ خرچ ضرور دو (یعنی) مقدور والا اپنے مقدور کے مطابق دے اور تنگدست اپنی حیثیت کے مطابق۔ نیک لوگوں پر یہ ایک طرح کا حق ہے
-
-[Open on Quran.com](https://quran.com/2/236)
 
 #### 2:264 · [[002 Al-Baqarah]]
 
@@ -122,42 +101,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/91)
 
-#### 10:5 · [[010 Yunus]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْلَمُونَ
-
-</div>
-
-**Word in this verse:** `وَقَدَّرَهُۥ` — and determined for it
-
-**English (Sahih International):** It is He who made the sun a shining light and the moon a derived light and determined for it phases - that you may know the number of years and account [of time]. Allāh has not created this except in truth. He details the signs for a people who know.
-
-**English (Yusuf Ali):** It is He Who made the sun to be a shining glory and the moon to be a light (of beauty), and measured out stages for her; that ye might know the number of years and the count (of time). Nowise did Allah create this but in truth and righteousness. (Thus) doth He explain His Signs in detail, for those who understand.
-
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سورج کو روشن اور چاند کو منور بنایا اور چاند کی منزلیں مقرر کیں تاکہ تم برسوں کا شمار اور (کاموں کا) حساب معلوم کرو۔ یہ (سب کچھ) خدا نے تدبیر سے پیدا کیا ہے۔ سمجھنے والوں کے لیے وہ اپنی آیاتیں کھول کھول کر بیان فرماتا ہے
-
-[Open on Quran.com](https://quran.com/10/5)
-
-#### 13:17 · [[013 Ar-Rad]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا فَٱحْتَمَلَ ٱلسَّيْلُ زَبَدًا رَّابِيًا ۚ وَمِمَّا يُوقِدُونَ عَلَيْهِ فِى ٱلنَّارِ ٱبْتِغَآءَ حِلْيَةٍ أَوْ مَتَـٰعٍ زَبَدٌ مِّثْلُهُۥ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَـٰطِلَ ۚ فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً ۖ وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمْكُثُ فِى ٱلْأَرْضِ ۚ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ
-
-</div>
-
-**Word in this verse:** `بِقَدَرِهَا` — according to their measure
-
-**English (Sahih International):** He sends down from the sky, rain, and valleys flow according to their capacity, and the torrent carries a rising foam. And from that [ore] which they heat in the fire, desiring adornments and utensils, is a foam like it. Thus Allāh presents [the example of] truth and falsehood. As for the foam, it vanishes, [being] cast off; but as for that which benefits the people, it remains on the earth. Thus does Allāh present examples.
-
-**English (Yusuf Ali):** He sends down water from the skies, and the channels flow, each according to its measure: But the torrent bears away to foam that mounts up to the surface. Even so, from that (ore) which they heat in the fire, to make ornaments or utensils therewith, there is a scum likewise. Thus doth Allah (by parables) show forth Truth and Vanity. For the scum disappears like forth cast out; while that which is for the good of mankind remains on the earth. Thus doth Allah set forth parables.
-
-**Urdu (Fatah Muhammad Jalandhari):** اسی نے آسمان سے مینہ برسایا پھر اس سے اپنے اپنے اندازے کے مطابق نالے بہہ نکلے پھر نالے پر پھولا ہوا جھاگ آگیا۔ اور جس چیز کو زیور یا کوئی اور سامان بنانے کے لیے آگ میں تپاتے ہیں اس میں بھی ایسا ہی جھاگ ہوتا ہے۔ اس طرح خدا حق اور باطل کی مثال بیان فرماتا ہے۔ سو جھاگ تو سوکھ کر زائل ہو جاتا ہے۔ اور (پانی) جو لوگوں کو فائدہ پہنچاتا ہے وہ زمین میں ٹھہرا رہتا ہے۔ اس طرح خدا (صحیح اور غلط کی) مثالیں بیان فرماتا ہے (تاکہ تم سمجھو)
-
-[Open on Quran.com](https://quran.com/13/17)
-
 #### 13:26 · [[013 Ar-Rad]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -194,41 +137,95 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/14/18)
 
-#### 15:21 · [[015 Al-Hijr]]
+#### 16:75 · [[016 An-Nahl]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَإِن مِّن شَىْءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٍ مَّعْلُومٍ
+۞ ضَرَبَ ٱللَّهُ مَثَلًا عَبْدًا مَّمْلُوكًا لَّا يَقْدِرُ عَلَىٰ شَىْءٍ وَمَن رَّزَقْنَـٰهُ مِنَّا رِزْقًا حَسَنًا فَهُوَ يُنفِقُ مِنْهُ سِرًّا وَجَهْرًا ۖ هَلْ يَسْتَوُۥنَ ۚ ٱلْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
 
 </div>
 
-**Word in this verse:** `بِقَدَرٍۢ` — in a measure
+**Word in this verse:** `يَقْدِرُ` — he has power
 
-**English (Sahih International):** And there is not a thing but that with Us are its depositories, and We do not send it down except according to a known [i.e., specified] measure.
+**English (Sahih International):** Allāh presents an example: a slave [who is] owned and unable to do a thing and he to whom We have provided from Us good provision, so he spends from it secretly and publicly. Can they be equal? Praise to Allāh! But most of them do not know.
 
-**English (Yusuf Ali):** And there is not a thing but its (sources and) treasures (inexhaustible) are with Us; but We only send down thereof in due and ascertainable measures.
+**English (Yusuf Ali):** Allah sets forth the Parable (of two men: one) a slave under the dominion of another; He has no power of any sort; and (the other) a man on whom We have bestowed goodly favours from Ourselves, and he spends thereof (freely), privately and publicly: are the two equal? (By no means;) praise be to Allah. But most of them understand not.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ہمارے ہاں ہر چیز کے خزانے ہیں اور ہم ان کو بمقدار مناسب اُتارتے رہتے ہیں
+**Urdu (Fatah Muhammad Jalandhari):** خدا ایک اور مثال بیان فرماتا ہے کہ ایک غلام ہے جو (بالکل) دوسرے کے اختیار میں ہے اور کسی چیز پر قدرت نہیں رکھتا اور ایک ایسا شخص ہے جس کو ہم نے اپنے ہاں سے (بہت سا) مال طیب عطا فرمایا ہے اور وہ اس میں سے (رات دن) پوشیدہ اور ظاہر خرچ کرتا رہتا ہے تو کیا یہ دونوں شخص برابر ہیں؟ (ہرگز نہیں) الحمدلله لیکن ان میں سے اکثر لوگ نہیں سمجھ رکھتے
 
-[Open on Quran.com](https://quran.com/15/21)
+[Open on Quran.com](https://quran.com/16/75)
 
-#### 15:60 · [[015 Al-Hijr]]
+#### 16:76 · [[016 An-Nahl]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ ۙ إِنَّهَا لَمِنَ ٱلْغَـٰبِرِينَ
+وَضَرَبَ ٱللَّهُ مَثَلًا رَّجُلَيْنِ أَحَدُهُمَآ أَبْكَمُ لَا يَقْدِرُ عَلَىٰ شَىْءٍ وَهُوَ كَلٌّ عَلَىٰ مَوْلَىٰهُ أَيْنَمَا يُوَجِّههُّ لَا يَأْتِ بِخَيْرٍ ۖ هَلْ يَسْتَوِى هُوَ وَمَن يَأْمُرُ بِٱلْعَدْلِ ۙ وَهُوَ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
 
 </div>
 
-**Word in this verse:** `قَدَّرْنَآ ۙ` — We have decreed
+**Word in this verse:** `يَقْدِرُ` — he has power
 
-**English (Sahih International):** Except his wife." We [i.e., Allāh] decreed that she is of those who remain behind.
+**English (Sahih International):** And Allāh presents an example of two men, one of them dumb and unable to do a thing, while he is a burden to his guardian. Wherever he directs him, he brings no good. Is he equal to one who commands justice, while he is on a straight path?
 
-**English (Yusuf Ali):** "Except his wife, who, We have ascertained, will be among those who will lag behind."
+**English (Yusuf Ali):** Allah sets forth (another) Parable of two men: one of them dumb, with no power of any sort; a wearisome burden is he to his master; whichever way be directs him, he brings no good: is such a man equal with one who commands Justice, and is on a Straight Way?
 
-**Urdu (Fatah Muhammad Jalandhari):** البتہ ان کی عورت (کہ) اس کے لیے ہم نے ٹھہرا دیا ہے کہ وہ پیچھے رہ جائے گی
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا ایک اور مثال بیان فرماتا ہے کہ دو آدمی ہیں ایک اُن میں سے گونگا (اور دوسرے کی ملک) ہے (بےاختیار وناتوان) کہ کسی چیز پر قدرت نہیں رکھتا۔ اور اپنے مالک کو دوبھر ہو رہا ہے وہ جہاں اُسے بھیجتا ہے (خیر سے کبھی) بھلائی نہیں لاتا۔ کیا ایسا (گونگا بہرا) اور وہ شخص جو (سنتا بولتا اور) لوگوں کو انصاف کرنے کا حکم دیتا ہے اور خود سیدھے راستے پر چل رہا ہے دونوں برابر ہیں؟
 
-[Open on Quran.com](https://quran.com/15/60)
+[Open on Quran.com](https://quran.com/16/76)
 
-_…and **45** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 17:30 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ رَبَّكَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرًۢا بَصِيرًا
+
+</div>
+
+**Word in this verse:** `وَيَقْدِرُ ۚ` — and straitens
+
+**English (Sahih International):** Indeed, your Lord extends provision for whom He wills and restricts [it]. Indeed He is ever, concerning His servants, Aware and Seeing.
+
+**English (Yusuf Ali):** Verily thy Lord doth provide sustenance in abundance for whom He pleaseth, and He provideth in a just measure. For He doth know and regard all His servants.
+
+**Urdu (Fatah Muhammad Jalandhari):** بےشک تمہارا پروردگار جس کی روزی چاہتا ہے فراخ کردیتا ہے اور (جس کی روزی چاہتا ہے) تنگ کردیتا ہے وہ اپنے بندوں سے خبردار ہے اور (ان کو) دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/17/30)
+
+#### 21:87 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَـٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَـٰتِ أَن لَّآ إِلَـٰهَ إِلَّآ أَنتَ سُبْحَـٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `نَّقْدِرَ` — We would decree
+
+**English (Sahih International):** And [mention] the man of the fish [i.e., Jonah], when he went off in anger and thought that We would not decree [anything] upon him. And he called out within the darknesses, "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers."
+
+**English (Yusuf Ali):** And remember Zun-nun, when he departed in wrath: He imagined that We had no power over him! But he cried through the deptHs of darkness, "There is no god but thou: glory to thee: I was indeed wrong!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ذوالنون (کو یاد کرو) جب وہ (اپنی قوم سے ناراض ہو کر) غصے کی حالت میں چل دیئے اور خیال کیا کہ ہم ان پر قابو نہیں پاسکیں گے۔ آخر اندھیرے میں (خدا کو) پکارنے لگے کہ تیرے سوا کوئی معبود نہیں۔ تو پاک ہے (اور) بےشک میں قصوروار ہوں
+
+[Open on Quran.com](https://quran.com/21/87)
+
+#### 22:74 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ
+
+</div>
+
+**Word in this verse:** `قَدَرُوا۟` — they (have) estimated
+
+**English (Sahih International):** They have not appraised Allāh with true appraisal. Indeed, Allāh is Powerful and Exalted in Might.
+
+**English (Yusuf Ali):** No just estimate have they made of Allah: for Allah is He Who is strong and able to Carry out His Will.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان لوگوں نے خدا کی قدر جیسی کرنی چاہیئے تھی نہیں کی۔ کچھ شک نہیں کہ خدا زبردست اور غالب ہے
+
+[Open on Quran.com](https://quran.com/22/74)
+
+_…and **15** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

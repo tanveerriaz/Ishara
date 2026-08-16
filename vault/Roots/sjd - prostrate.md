@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** prostrate · **Root:** سجد
 
+
 ### Words (wikilinks — these create the graph)
 - [[msjd - al-masjid]]
 - [[sAjd - prostrating]]

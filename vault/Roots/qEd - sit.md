@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** sit · **Root:** قعد
 
+
 ### Words (wikilinks — these create the graph)
 - [[mqEd - take positions]]
 - [[qAEd - ones sit]]

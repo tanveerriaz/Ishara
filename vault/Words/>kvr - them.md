@@ -2,8 +2,8 @@
 type: word
 lemma: "أَكْثَر"
 slug: ">kvr - them"
-surah_count: 37
-ayah_count: 81
+surah_count: 36
+ayah_count: 79
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **them** · Lemma **أَكْثَر**
 
-### Surahs (37)
+### Surahs (36)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/17)
 
-_…and **71** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **69** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

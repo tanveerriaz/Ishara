@@ -2,8 +2,8 @@
 type: word
 lemma: "مُخْلِص"
 slug: "mxlS - being sincere"
-surah_count: 13
-ayah_count: 20
+surah_count: 8
+ayah_count: 11
 tags: [word, meaning]
 ---
 
@@ -19,17 +19,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **being sincere** · Lemma **مُخْلِص**
 
-### Surahs (13)
+### Surahs (8)
 - [[002 Al-Baqarah]]
 - [[007 Al-Araf]]
 - [[010 Yunus]]
-- [[012 Yusuf]]
-- [[015 Al-Hijr]]
-- [[019 Maryam]]
 - [[029 Al-Ankabut]]
 - [[031 Luqman]]
-- [[037 As-Saffat]]
-- [[038 Sad]]
 - [[039 Az-Zumar]]
 - [[040 Ghafir]]
 - [[098 Al-Bayyinah]]
@@ -92,60 +87,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/10/22)
 
-#### 12:24 · [[012 Yusuf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَقَدْ هَمَّتْ بِهِۦ ۖ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَـٰنَ رَبِّهِۦ ۚ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ ۚ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ
-
-</div>
-
-**Word in this verse:** `ٱلْمُخْلَصِينَ` — the sincere
-
-**English (Sahih International):** And she certainly determined [to seduce] him, and he would have inclined to her had he not seen the proof [i.e., sign] of his Lord. And thus [it was] that We should avert from him evil and immorality. Indeed, he was of Our chosen servants.
-
-**English (Yusuf Ali):** And (with passion) did she desire him, and he would have desired her, but that he saw the evidence of his Lord: thus (did We order) that We might turn away from him (all) evil and shameful deeds: for he was one of Our servants, sincere and purified.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اس عورت نے ان کا قصد کیا اور انہوں نے اس کا قصد کیا۔ اگر وہ اپنے پروردگار کی نشانی نہ دیکھتے (تو جو ہوتا ہوتا) یوں اس لیے (کیا گیا) کہ ہم ان سے برائی اور بےحیائی کو روک دیں۔ بےشک وہ ہمارے خالص بندوں میں سے تھے
-
-[Open on Quran.com](https://quran.com/12/24)
-
-#### 15:40 · [[015 Al-Hijr]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ
-
-</div>
-
-**Word in this verse:** `ٱلْمُخْلَصِينَ` — the ones who are sincere
-
-**English (Sahih International):** Except, among them, Your chosen servants."
-
-**English (Yusuf Ali):** "Except Thy servants among them, sincere and purified (by Thy Grace)."
-
-**Urdu (Fatah Muhammad Jalandhari):** ہاں ان میں جو تیرے مخلص بندے ہیں (ان پر قابو چلنا مشکل ہے)
-
-[Open on Quran.com](https://quran.com/15/40)
-
-#### 19:51 · [[019 Maryam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَٱذْكُرْ فِى ٱلْكِتَـٰبِ مُوسَىٰٓ ۚ إِنَّهُۥ كَانَ مُخْلَصًا وَكَانَ رَسُولًا نَّبِيًّا
-
-</div>
-
-**Word in this verse:** `مُخْلَصًۭا` — chosen
-
-**English (Sahih International):** And mention in the Book, Moses. Indeed, he was chosen, and he was a messenger and a prophet.
-
-**English (Yusuf Ali):** Also mention in the Book (the story of) Moses: for he was specially chosen, and he was a messenger (and) a prophet.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور کتاب میں موسیٰ کا بھی ذکر کرو۔ بےشک وہ (ہمارے) برگزیدہ اور پیغمبر مُرسل تھے
-
-[Open on Quran.com](https://quran.com/19/51)
-
 #### 29:65 · [[029 Al-Ankabut]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -182,41 +123,95 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/31/32)
 
-#### 37:40 · [[037 As-Saffat]]
+#### 39:2 · [[039 Az-Zumar]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
+إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ فَٱعْبُدِ ٱللَّهَ مُخْلِصًا لَّهُ ٱلدِّينَ
 
 </div>
 
-**Word in this verse:** `ٱلْمُخْلَصِينَ` — the chosen ones
+**Word in this verse:** `مُخْلِصًۭا` — (being) sincere
 
-**English (Sahih International):** But not the chosen servants of Allāh.
+**English (Sahih International):** Indeed, We have sent down to you the Book, [O Muḥammad], in truth. So worship Allāh, [being] sincere to Him in religion.
 
-**English (Yusuf Ali):** But the sincere (and devoted) Servants of Allah,-
+**English (Yusuf Ali):** Verily it is We Who have revealed the Book to thee in Truth: so serve Allah, offering Him sincere devotion.
 
-**Urdu (Fatah Muhammad Jalandhari):** مگر جو خدا کے بندگان خاص ہیں
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) ہم نے یہ کتاب تمہاری طرف سچائی کے ساتھ نازل کی ہے تو خدا کی عبادت کرو (یعنی) اس کی عبادت کو (شرک سے) خالص کرکے
 
-[Open on Quran.com](https://quran.com/37/40)
+[Open on Quran.com](https://quran.com/39/2)
 
-#### 37:74 · [[037 As-Saffat]]
+#### 39:11 · [[039 Az-Zumar]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ
+قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَعْبُدَ ٱللَّهَ مُخْلِصًا لَّهُ ٱلدِّينَ
 
 </div>
 
-**Word in this verse:** `ٱلْمُخْلَصِينَ` — the chosen ones
+**Word in this verse:** `مُخْلِصًۭا` — (being) sincere
 
-**English (Sahih International):** But not the chosen servants of Allāh.
+**English (Sahih International):** Say, [O Muḥammad], "Indeed, I have been commanded to worship Allāh, [being] sincere to Him in religion.
 
-**English (Yusuf Ali):** Except the sincere (and devoted) Servants of Allah.
+**English (Yusuf Ali):** Say: "Verily, I am commanded to serve Allah with sincere devotion;
 
-**Urdu (Fatah Muhammad Jalandhari):** ہاں خدا کے بندگان خاص (کا انجام بہت اچھا ہوا)
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ مجھ سے ارشاد ہوا ہے کہ خدا کی عبادت کو خالص کرکے اس کی بندگی کروں
 
-[Open on Quran.com](https://quran.com/37/74)
+[Open on Quran.com](https://quran.com/39/11)
 
-_…and **10** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 39:14 · [[039 Az-Zumar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلِ ٱللَّهَ أَعْبُدُ مُخْلِصًا لَّهُۥ دِينِى
+
+</div>
+
+**Word in this verse:** `مُخْلِصًۭا` — (being) sincere
+
+**English (Sahih International):** Say, "Allāh [alone] do I worship, sincere to Him in my religion,
+
+**English (Yusuf Ali):** Say: "It is Allah I serve, with my sincere (and exclusive) devotion:
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں اپنے دین کو (شرک سے) خالص کرکے اس کی عبادت کرتا ہوں
+
+[Open on Quran.com](https://quran.com/39/14)
+
+#### 40:14 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱدْعُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ وَلَوْ كَرِهَ ٱلْكَـٰفِرُونَ
+
+</div>
+
+**Word in this verse:** `مُخْلِصِينَ` — (being) sincere
+
+**English (Sahih International):** So invoke Allāh, [being] sincere to Him in religion, although the disbelievers dislike it.
+
+**English (Yusuf Ali):** Call ye, then, upon Allah with sincere devotion to Him, even though the Unbelievers may detest it.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو خدا کی عبادت کو خالص کر کر اُسی کو پکارو اگرچہ کافر برا ہی مانیں
+
+[Open on Quran.com](https://quran.com/40/14)
+
+#### 40:65 · [[040 Ghafir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُوَ ٱلْحَىُّ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱدْعُوهُ مُخْلِصِينَ لَهُ ٱلدِّينَ ۗ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ
+
+</div>
+
+**Word in this verse:** `مُخْلِصِينَ` — (being) sincere
+
+**English (Sahih International):** He is the Ever-Living; there is no deity except Him, so call upon Him, [being] sincere to Him in religion. [All] praise is [due] to Allāh, Lord of the worlds.
+
+**English (Yusuf Ali):** He is the Living (One): There is no god but He: Call upon Him, giving Him sincere devotion. Praise be to Allah, Lord of the Worlds!
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ زندہ ہے (جسے موت نہیں) اس کے سوا کوئی عبادت کے لائق نہیں تو اس کی عبادت کو خالص کر کر اسی کو پکارو۔ ہر طرح کی تعریف خدا ہی کو (سزاوار) ہے جو تمام جہان کا پروردگار ہے
+
+[Open on Quran.com](https://quran.com/40/65)
+
+_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

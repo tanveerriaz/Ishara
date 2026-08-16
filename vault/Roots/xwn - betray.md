@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** betray · **Root:** خون
 
+
 ### Words (wikilinks — these create the graph)
 - [[xAn - betray]]
 - [[xA}n - deceitful]]

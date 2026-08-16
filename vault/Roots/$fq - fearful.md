@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fearful · **Root:** شفق
 
+
 ### Words (wikilinks — these create the graph)
 - [[m$fq - fearful]]
 

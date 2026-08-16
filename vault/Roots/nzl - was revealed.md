@@ -11,9 +11,13 @@ tags: [root, meaning]
 
 **Sense:** was revealed · **Root:** نزل
 
+
 ### Words (wikilinks — these create the graph)
 - [[>nzl - was revealed]]
-- [[mnzl - sent down]]
+- [[mnzl - hosts]]
+- [[mnzl - ones sent down]]
+- [[nzl - descends]]
+- [[nzl - hospitality]]
 - [[nzl - sends down]]
 - [[tnzlt - descend]]
 - [[tnzyl - revelation]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** make excuse · **Root:** عذر
 
+
 ### Words (wikilinks — these create the graph)
 - [[mE*rp - absolved]]
 - [[yEt*r - make excuse]]

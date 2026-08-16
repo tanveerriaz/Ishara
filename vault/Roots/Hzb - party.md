@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** party · **Root:** حزب
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hzb - party]]
 

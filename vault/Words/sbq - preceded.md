@@ -2,8 +2,8 @@
 type: word
 lemma: "سَبَقَ"
 slug: "sbq - preceded"
-surah_count: 15
-ayah_count: 21
+surah_count: 14
+ayah_count: 20
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **preceded** · Lemma **سَبَقَ**
 
-### Surahs (15)
+### Surahs (14)
 - [[007 Al-Araf]]
 - [[008 Al-Anfal]]
 - [[010 Yunus]]
@@ -34,7 +34,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[042 Ash-Shuraa]]
 - [[046 Al-Ahqaf]]
 - [[059 Al-Hashr]]
-- [[079 An-Naziat]]
 
 ## Verses (full text)
 
@@ -220,5 +219,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/21/27)
 
-_…and **11** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **10** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we efface · **Root:** طمس
 
+
 ### Words (wikilinks — these create the graph)
 - [[Tmst - we efface]]
 

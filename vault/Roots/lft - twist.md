@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** twist · **Root:** لفت
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

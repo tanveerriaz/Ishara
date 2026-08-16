@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** horizons · **Root:** أفق
 
+
 ### Words (wikilinks — these create the graph)
 - [[>fq - horizons]]
 

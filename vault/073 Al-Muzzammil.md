@@ -15,30 +15,30 @@ The Enshrouded One · 20 ayahs
 ## Words in this surah (graph)
 
 - [[nSf - half]] — `نِصْف` · half
-- [[AtY - give]] — `آتَى` · give
-- [[qlyl - little]] — `قَلِيل` · little
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[>$d - stronger]] — `أَشَدّ` · stronger
-- [[sbyl - way]] — `سَبِيل` · way
-- [[zAd - increase]] — `زادَ` · increase
-- [[allah - God]] — `الله` · God
-- [[qyl - saying]] — `قِيل` · saying
+- [[wkyl - guardian]] — `وَكِيل` · guardian
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[Asm - name]] — `اسْم` · name
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[qAm - stand]] — `قامَ` · stand
+- [[E*Ab - punishment]] — `عَذاب` · punishment
 - [[$Ahd - witnesses]] — `شاهِد` · witnesses
-- [[Atx* - take]] — `اتَّخَذَ` · take
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>qrD - you loan]] — `أَقْرَضُ` · you loan
-- [[>qwm - more suitable]] — `أَقْوَم` · more suitable
-- [[>rD - earth]] — `أَرْض` · earth
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[Elm - know]] — `عَلِمَ` · know
-- [[zkAp - zakah]] — `زَكاة` · zakah
-- [[wlyd - children]] — `وَلِيد` · children
-- [[TEAm - food]] — `طَعام` · food
-- [[ynqS - decrease]] — `يُنقَصُ` · decrease
+- [[lyl - night]] — `لَيْل` · night
+- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
+- [[wEd - promise]] — `وَعْد` · promise
+- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
+- [[qdr - determined it]] — `قَدَّرَ` · determined it
+- [[>EZm - greater]] — `أَعْظَم` · greater
 - [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[qAtl - fight]] — `قاتَلَ` · fight
 - [[>x* - we took]] — `أَخَذَ` · we took
 - [[ESA - they disobeyed]] — `عَصا` · they disobeyed
+- [[Sbr - patient]] — `صَبَرَ` · patient
+- [[nhAr - day]] — `نَهار` · day
+- [[Elm - know]] — `عَلِمَ` · know
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[wlyd - children]] — `وَلِيد` · children
+- [[qwl - speech]] — `قَوْل` · speech
+- [[qAl - say]] — `قالَ` · say
 
 ## Roots
 
@@ -47,7 +47,7 @@ The Enshrouded One · 20 ayahs
 - [[$rq - east]]
 - [[$y> - thing]]
 - [[$yb - white]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>jr - reward]]
 - [[>lh - god]]
 - [[>lm - painful]]

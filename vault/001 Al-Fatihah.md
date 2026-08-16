@@ -15,23 +15,23 @@ The Opener · 7 ayahs
 ## Words in this surah (graph)
 
 - [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[SrAT - path]] — `صِراط` · path
 - [[allah - God]] — `الله` · God
+- [[SrAT - path]] — `صِراط` · path
 - [[rHym - merciful]] — `رَحِيم` · merciful
-- [[DAl - astray]] — `ضالّ` · astray
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[rb - lord]] — `رَبّ` · lord
-- [[AstEyn - seek help]] — `اسْتَعِينُ` · seek help
-- [[>nEm - i bestowed]] — `أَنْعَمَ` · i bestowed
-- [[Hmd - all praise]] — `حَمْد` · all praise
-- [[mstqym - straight]] — `مُسْتَقِيم` · straight
-- [[hdY - guidance]] — `هَدَى` · guidance
 - [[gyr - without]] — `غَيْر` · without
+- [[rb - lord]] — `رَبّ` · lord
+- [[DAl - astray]] — `ضالّ` · astray
 - [[Asm - name]] — `اسْم` · name
+- [[Ebd - worship]] — `عَبَدَ` · worship
+- [[AstEyn - seek help]] — `اسْتَعِينُ` · seek help
+- [[mstqym - straight]] — `مُسْتَقِيم` · straight
+- [[>nEm - i bestowed]] — `أَنْعَمَ` · i bestowed
 - [[ywm - day]] — `يَوْم` · day
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[Hmd - all praise]] — `حَمْد` · all praise
+- [[hdY - guide]] — `هَدَى` · guide
 - [[mAlk - master]] — `مالِك` · master
 - [[dyn - religion]] — `دِين` · religion
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
 
 ## Roots
 

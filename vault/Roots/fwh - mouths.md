@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** mouths · **Root:** فوه
 
+
 ### Words (wikilinks — these create the graph)
 - [[>fwAh - mouths]]
 

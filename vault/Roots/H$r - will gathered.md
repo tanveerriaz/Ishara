@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** will gathered · **Root:** حشر
 
+
 ### Words (wikilinks — these create the graph)
+- [[H$r - gathering]]
 - [[H$r - will gathered]]
 
 ### Surahs where this root appears

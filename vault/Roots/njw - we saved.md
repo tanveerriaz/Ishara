@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we saved · **Root:** نجو
 
+
 ### Words (wikilinks — these create the graph)
 - [[>njY - we saved]]
 - [[njY - we saved]]

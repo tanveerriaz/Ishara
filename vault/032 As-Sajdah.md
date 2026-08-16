@@ -14,30 +14,30 @@ The Prostration · 30 ayahs
 
 ## Words in this surah (graph)
 
-- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
-- [[ryb - doubt]] — `رَيْب` · doubt
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[<nsAn - man]] — `إِنسان` · man
-- [[Axtlf - differ]] — `اخْتَلَفَ` · differ
-- [[AtY - give]] — `آتَى` · give
-- [[ynZr - will reprieved]] — `يُنظَرُ` · will reprieved
-- [[qlyl - little]] — `قَلِيل` · little
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[>jmE - all]] — `أَجْمَع` · all
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[ftH - victory]] — `فَتْح` · victory
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[>kbr - greater]] — `أَكْبَر` · greater
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[allah - God]] — `الله` · God
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[$kr - grateful]] — `شَكَرَ` · grateful
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[qbl - before]] — `قَبْل` · before
-- [[>Hsn - best]] — `أَحْسَن` · best
-- [[mntZr - ones wait]] — `مُنتَظِر` · ones wait
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[$hAdp - witnessed]] — `شَهادَة` · witnessed
+- [[mlk - angels]] — `مَلَك` · angels
+- [[dEA - call]] — `دَعا` · call
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[m$ - walk]] — `مَشَ` · walk
+- [[byn - between them]] — `بَيْن` · between them
+- [[ml}t - surely]] — `مُلِئَتْ` · surely
+- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[AftrY - invent]] — `افْتَرَى` · invent
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[>rD - earth]] — `أَرْض` · earth
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[>Hsn - do good]] — `أَحْسَنَ` · do good
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[mwqn - certain]] — `مُوقِن` · certain
+- [[>lf - thousand]] — `أَلْف` · thousand
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[Ed - you count]] — `عَدَّ` · you count
+- [[Sbr - patient]] — `صَبَرَ` · patient
 - [[Elm - know]] — `عَلِمَ` · know
 
 ## Roots
@@ -46,7 +46,7 @@ The Prostration · 30 ayahs
 - [[$hd - witness]]
 - [[$kr - gratitude]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*wq - taste]]
 - [[>kl - eat]]
 - [[>lf - thousand]]
@@ -90,7 +90,7 @@ The Prostration · 30 ayahs
 - [[dnw - world]]
 - [[dwn - besides]]
 - [[f>d - hearts]]
-- [[fSl - we explain]]
+- [[fSl - judgment]]
 - [[fry - invent]]
 
 ## Sample (ayah 1)

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** ascension · **Root:** رقي
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

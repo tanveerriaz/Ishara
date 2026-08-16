@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** protector · **Root:** ولي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>wlY - woe]]
 - [[mwAly - heirs]]

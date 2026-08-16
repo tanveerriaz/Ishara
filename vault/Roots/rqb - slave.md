@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** slave · **Root:** رقب
 
+
 ### Words (wikilinks — these create the graph)
 - [[Artqb - watch]]
 - [[rqbp - slave]]

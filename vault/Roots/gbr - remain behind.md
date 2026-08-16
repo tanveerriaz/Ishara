@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** remain behind · **Root:** غبر
 
+
 ### Words (wikilinks — these create the graph)
 - [[gAbr - remain behind]]
 

@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "غَلَّ"
+lemma: "غِلّ"
 slug: "gl - shackles"
-surah_count: 11
-ayah_count: 12
+surah_count: 8
+ayah_count: 9
 tags: [word, meaning]
 ---
 
@@ -17,11 +17,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[gll - shackles]]
 
 ### Meaning
-**shackles** · Lemma **غَلَّ**
+**shackles** · Lemma **غِلّ**
 
-### Surahs (11)
-- [[003 Ali Imran]]
-- [[005 Al-Maidah]]
+### Surahs (8)
 - [[007 Al-Araf]]
 - [[013 Ar-Rad]]
 - [[015 Al-Hijr]]
@@ -29,48 +27,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[036 Ya-Sin]]
 - [[040 Ghafir]]
 - [[059 Al-Hashr]]
-- [[069 Al-Haqqah]]
 - [[076 Al-Insan]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 3:161 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَمَا كَانَ لِنَبِىٍّ أَن يَغُلَّ ۚ وَمَن يَغْلُلْ يَأْتِ بِمَا غَلَّ يَوْمَ ٱلْقِيَـٰمَةِ ۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ
-
-</div>
-
-**Word in this verse:** `يَغُلَّ ۚ` — he defrauds
-
-**English (Sahih International):** It is not [attributable] to any prophet that he would act unfaithfully [in regard to war booty]. And whoever betrays, [taking unlawfully], will come with what he took on the Day of Resurrection. Then will every soul be [fully] compensated for what it earned, and they will not be wronged.
-
-**English (Yusuf Ali):** No prophet could (ever) be false to his trust. If any person is so false, He shall, on the Day of Judgment, restore what he misappropriated; then shall every soul receive its due,- whatever it earned,- and none shall be dealt with unjustly.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور کبھی نہیں ہوسکتا کہ پیغمبر (خدا) خیانت کریں۔ اور خیانت کرنے والوں کو قیامت کے دن خیانت کی ہوئی چیز (خدا کے روبرو) لاحاضر کرنی ہوگی۔ پھر ہر شخص کو اس کے اعمال کا پورا پورا بدلا دیا جائے گا اور بےانصافی نہیں کی جائے گی
-
-[Open on Quran.com](https://quran.com/3/161)
-
-#### 5:64 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ ۚ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ طُغْيَـٰنًا وَكُفْرًا ۚ وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۚ كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ ۚ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا ۚ وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ
-
-</div>
-
-**Word in this verse:** `غُلَّتْ` — Are chained
-
-**English (Sahih International):** And the Jews say, "The hand of Allāh is chained." Chained are their hands, and cursed are they for what they say. Rather, both His hands are extended; He spends however He wills. And that which has been revealed to you from your Lord will surely increase many of them in transgression and disbelief. And We have cast among them animosity and hatred until the Day of Resurrection. Every time they kindled the fire of war [against you], Allāh extinguished it. And they strive throughout the land [causing] corruption, and Allāh does not like corrupters.
-
-**English (Yusuf Ali):** The Jews say: "Allah's hand is tied up." Be their hands tied up and be they accursed for the (blasphemy) they utter. Nay, both His hands are widely outstretched: He giveth and spendeth (of His bounty) as He pleaseth. But the revelation that cometh to thee from Allah increaseth in most of them their obstinate rebellion and blasphemy. Amongst them we have placed enmity and hatred till the Day of Judgment. Every time they kindle the fire of war, Allah doth extinguish it; but they (ever) strive to do mischief on earth. And Allah loveth not those who do mischief.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور یہود کہتے ہیں کہ خدا کا ہاتھ (گردن سے) بندھا ہوا ہے (یعنی الله بخیل ہے) انہیں کے ہاتھ باندھے جائیں اور ایسا کہنے کے سبب ان پر لعنت ہو (اس کا ہاتھ بندھا ہوا نہیں) بلکہ اس کے دونوں ہاتھ کھلے ہیں وہ جس طرح (اور جتنا) چاہتا ہے خرچ کرتا ہے اور (اے محمد) یہ (کتاب) جو تمہارے پروردگار کی طرف سے تم پر نازل ہوئی اس سے ان میں سے اکثر کی شرارت اور انکار اور بڑھے گا اور ہم نے ان کے باہم عداوت اور بغض قیامت تک کے لیے ڈال دیا ہے یہ جب لڑائی کے لیے آگ جلاتے ہیں خدا اس کو بجھا دیتا ہے اور یہ ملک میں فساد کے لیے دوڑے پھرتے ہیں اور خدا فساد کرنے والوں کو دوست نہیں رکھتا
-
-[Open on Quran.com](https://quran.com/5/64)
 
 #### 7:43 · [[007 Al-Araf]]
 
@@ -216,5 +177,21 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/59/10)
 
-_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 76:4 · [[076 Al-Insan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّآ أَعْتَدْنَا لِلْكَـٰفِرِينَ سَلَـٰسِلَا۟ وَأَغْلَـٰلًا وَسَعِيرًا
+
+</div>
+
+**Word in this verse:** `وَأَغْلَـٰلًۭا` — and shackles
+
+**English (Sahih International):** Indeed, We have prepared for the disbelievers chains and shackles and a blaze.
+
+**English (Yusuf Ali):** For the Rejecters we have prepared chains, yokes, and a blazing Fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے کافروں کے لئے زنجیر اور طوق اور دہکتی آگ تیار کر رکھی ہے
+
+[Open on Quran.com](https://quran.com/76/4)
 

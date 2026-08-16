@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** someone habitually blames · **Root:** لمز
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

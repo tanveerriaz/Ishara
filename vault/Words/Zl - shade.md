@@ -2,8 +2,8 @@
 type: word
 lemma: "ظِلّ"
 slug: "Zl - shade"
-surah_count: 16
-ayah_count: 23
+surah_count: 10
+ayah_count: 14
 tags: [word, meaning]
 ---
 
@@ -19,20 +19,14 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **shade** · Lemma **ظِلّ**
 
-### Surahs (16)
+### Surahs (10)
 - [[004 An-Nisa]]
 - [[013 Ar-Rad]]
-- [[015 Al-Hijr]]
 - [[016 An-Nahl]]
-- [[020 Taha]]
 - [[025 Al-Furqan]]
-- [[026 Ash-Shuara]]
 - [[028 Al-Qasas]]
-- [[030 Ar-Rum]]
 - [[035 Fatir]]
 - [[036 Ya-Sin]]
-- [[042 Ash-Shuraa]]
-- [[043 Az-Zukhruf]]
 - [[056 Al-Waqiah]]
 - [[076 Al-Insan]]
 - [[077 Al-Mursalat]]
@@ -95,24 +89,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/13/35)
 
-#### 15:14 · [[015 Al-Hijr]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَوْ فَتَحْنَا عَلَيْهِم بَابًا مِّنَ ٱلسَّمَآءِ فَظَلُّوا۟ فِيهِ يَعْرُجُونَ
-
-</div>
-
-**Word in this verse:** `فَظَلُّوا۟` — and they were to continue
-
-**English (Sahih International):** And [even] if We opened to them a gate from the heaven and they continued therein to ascend,
-
-**English (Yusuf Ali):** Even if We opened out to them a gate from heaven, and they were to continue (all day) ascending therein,
-
-**Urdu (Fatah Muhammad Jalandhari):** اوراگر ہم آسمان کا کوئی دروازہ اُن پر کھول دیں اور وہ اس میں چڑھنے بھی لگیں
-
-[Open on Quran.com](https://quran.com/15/14)
-
 #### 16:48 · [[016 An-Nahl]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -130,24 +106,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** کیا ان لوگوں نے خدا کی مخلوقات میں سے ایسی چیزیں نہیں دیکھیں جن کے سائے دائیں سے (بائیں کو) اور بائیں سے (دائیں کو) لوٹتے رہتے ہیں (یعنی) خدا کے آگے عاجز ہو کر سجدے میں پڑے رہتے ہیں
 
 [Open on Quran.com](https://quran.com/16/48)
-
-#### 16:58 · [[016 An-Nahl]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِذَا بُشِّرَ أَحَدُهُم بِٱلْأُنثَىٰ ظَلَّ وَجْهُهُۥ مُسْوَدًّا وَهُوَ كَظِيمٌ
-
-</div>
-
-**Word in this verse:** `ظَلَّ` — turns
-
-**English (Sahih International):** And when one of them is informed of [the birth of] a female, his face becomes dark, and he suppresses grief.
-
-**English (Yusuf Ali):** When news is brought to one of them, of (the birth of) a female (child), his face darkens, and he is filled with inward grief!
-
-**Urdu (Fatah Muhammad Jalandhari):** حالانکہ جب ان میں سے کسی کو بیٹی (کے پیدا ہونے) کی خبر ملتی ہے تو اس کا منہ (غم کے سبب) کالا پڑ جاتا ہے اور (اس کے دل کو دیکھو تو) وہ اندوہناک ہوجاتا ہے
-
-[Open on Quran.com](https://quran.com/16/58)
 
 #### 16:81 · [[016 An-Nahl]]
 
@@ -167,24 +125,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/16/81)
 
-#### 20:97 · [[020 Taha]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ ۖ وَإِنَّ لَكَ مَوْعِدًا لَّن تُخْلَفَهُۥ ۖ وَٱنظُرْ إِلَىٰٓ إِلَـٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا ۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا
-
-</div>
-
-**Word in this verse:** `ظَلْتَ` — you have remained
-
-**English (Sahih International):** [Moses] said, "Then go. And indeed, it is [decreed] for you in [this] life to say, 'No contact.' And indeed, you have an appointment [in the Hereafter] you will not fail to keep. And look at your 'god' to which you remained devoted. We will surely burn it and blow it [i.e., its ashes] into the sea with a blast.
-
-**English (Yusuf Ali):** (Moses) said: "Get thee gone! but thy (punishment) in this life will be that thou wilt say, 'touch me not'; and moreover (for a future penalty) thou hast a promise that will not fail: Now look at thy god, of whom thou hast become a devoted worshipper: We will certainly (melt) it in a blazing fire and scatter it broadcast in the sea!"
-
-**Urdu (Fatah Muhammad Jalandhari):** (موسیٰ نے) کہا جا تجھ کو دنیا کی زندگی میں یہ (سزا) ہے کہ کہتا رہے کہ مجھ کو ہاتھ نہ لگانا اور تیرے لئے ایک اور وعدہ ہے (یعنی عذاب کا) جو تجھ سے ٹل نہ سکے گا اور جس معبود (کی پوجا) پر تو (قائم و) معتکف تھا اس کو دیکھ۔ ہم اسے جلادیں گے پھر اس (کی راکھ) کو اُڑا کر دریا میں بکھیر دیں گے
-
-[Open on Quran.com](https://quran.com/20/97)
-
 #### 25:45 · [[025 Al-Furqan]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -203,23 +143,77 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/25/45)
 
-#### 26:4 · [[026 Ash-Shuara]]
+#### 28:24 · [[028 Al-Qasas]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ ٱلسَّمَآءِ ءَايَةً فَظَلَّتْ أَعْنَـٰقُهُمْ لَهَا خَـٰضِعِينَ
+فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ مِنْ خَيْرٍ فَقِيرٌ
 
 </div>
 
-**Word in this verse:** `فَظَلَّتْ` — so would bend
+**Word in this verse:** `ٱلظِّلِّ` — the shade
 
-**English (Sahih International):** If We willed, We could send down to them from the sky a sign for which their necks would remain humbled.
+**English (Sahih International):** So he watered [their flocks] for them; then he went back to the shade and said, "My Lord, indeed I am, for whatever good You would send down to me, in need."
 
-**English (Yusuf Ali):** If (such) were Our Will, We could send down to them from the sky a Sign, to which they would bend their necks in humility.
+**English (Yusuf Ali):** So he watered (their flocks) for them; then he turned back to the shade, and said:"O my Lord! truly am I in (desperate) need of any good that Thou dost send me!"
 
-**Urdu (Fatah Muhammad Jalandhari):** اگر ہم چاہیں تو ان پر آسمان سے نشانی اُتار دیں۔ پھر ان کی گردنیں اس کے آگے جھک جائیں
+**Urdu (Fatah Muhammad Jalandhari):** تو موسٰی نے اُن کے لئے (بکریوں کو) پانی پلا دیا پھر سائے کی طرف چلے گئے۔ اور کہنے لگے کہ پروردگار میں اس کا محتاج ہوں کہ تو مجھ پر اپنی نعمت نازل فرمائے
 
-[Open on Quran.com](https://quran.com/26/4)
+[Open on Quran.com](https://quran.com/28/24)
 
-_…and **13** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 35:21 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا ٱلظِّلُّ وَلَا ٱلْحَرُورُ
+
+</div>
+
+**Word in this verse:** `ٱلظِّلُّ` — the shade
+
+**English (Sahih International):** Nor are the shade and the heat,
+
+**English (Yusuf Ali):** Nor are the (chilly) shade and the (genial) heat of the sun:
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نہ سایہ اور دھوپ
+
+[Open on Quran.com](https://quran.com/35/21)
+
+#### 36:56 · [[036 Ya-Sin]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هُمْ وَأَزْوَٰجُهُمْ فِى ظِلَـٰلٍ عَلَى ٱلْأَرَآئِكِ مُتَّكِـُٔونَ
+
+</div>
+
+**Word in this verse:** `ظِلَـٰلٍ` — shades
+
+**English (Sahih International):** They and their spouses - in shade, reclining on adorned couches.
+
+**English (Yusuf Ali):** They and their associates will be in groves of (cool) shade, reclining on Thrones (of dignity);
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ بھی اور ان کی بیویاں بھی سایوں میں تختوں پر تکیے لگائے بیٹھے ہوں گے
+
+[Open on Quran.com](https://quran.com/36/56)
+
+#### 56:30 · [[056 Al-Waqiah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَظِلٍّ مَّمْدُودٍ
+
+</div>
+
+**Word in this verse:** `وَظِلٍّۢ` — And shade
+
+**English (Sahih International):** And shade extended.
+
+**English (Yusuf Ali):** In shade long-extended,
+
+**Urdu (Fatah Muhammad Jalandhari):** اور لمبے لمبے سایوں
+
+[Open on Quran.com](https://quran.com/56/30)
+
+_…and **4** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

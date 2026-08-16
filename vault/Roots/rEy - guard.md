@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** guard · **Root:** رعي
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

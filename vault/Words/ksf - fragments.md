@@ -2,8 +2,8 @@
 type: word
 lemma: "كِسَف"
 slug: "ksf - fragments"
-surah_count: 5
-ayah_count: 5
+surah_count: 4
+ayah_count: 4
 tags: [word, meaning]
 ---
 
@@ -19,12 +19,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **fragments** · Lemma **كِسَف**
 
-### Surahs (5)
+### Surahs (4)
 - [[017 Al-Isra]]
 - [[026 Ash-Shuara]]
 - [[030 Ar-Rum]]
 - [[034 Saba]]
-- [[052 At-Tur]]
 
 ## Verses (full text)
 
@@ -101,22 +100,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے اس کو نہیں دیکھا جو ان کے آگے اور پیچھے ہے یعنی آسمان اور زمین۔ اگر ہم چاہیں تو ان کو زمین میں دھنسا دیں یا ان پر آسمان کے ٹکڑے گرا دیں۔ اس میں ہر بندے کے لئے جو رجوع کرنے والا ہے ایک نشانی ہے
 
 [Open on Quran.com](https://quran.com/34/9)
-
-#### 52:44 · [[052 At-Tur]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِن يَرَوْا۟ كِسْفًا مِّنَ ٱلسَّمَآءِ سَاقِطًا يَقُولُوا۟ سَحَابٌ مَّرْكُومٌ
-
-</div>
-
-**Word in this verse:** `كِسْفًۭا` — a portion
-
-**English (Sahih International):** And if they were to see a fragment from the sky falling, they would say, "[It is merely] clouds heaped up."
-
-**English (Yusuf Ali):** Were they to see a piece of the sky falling (on them), they would (only) say: "Clouds gathered in heaps!"
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر یہ آسمان سے (عذاب) کا کوئی ٹکڑا گرتا ہوا دیکھیں تو کہیں کہ یہ گاڑھا بادل ہے
-
-[Open on Quran.com](https://quran.com/52/44)
 

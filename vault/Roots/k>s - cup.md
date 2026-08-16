@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** cup · **Root:** كأس
 
+
 ### Words (wikilinks — these create the graph)
 - [[k>s - cup]]
 

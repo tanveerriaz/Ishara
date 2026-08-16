@@ -3,7 +3,7 @@ type: word
 lemma: "فَعَلَ"
 slug: "fEl - you do"
 surah_count: 40
-ayah_count: 84
+ayah_count: 83
 tags: [word, meaning]
 ---
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/253)
 
-_…and **74** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **73** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

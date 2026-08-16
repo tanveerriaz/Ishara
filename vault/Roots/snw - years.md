@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** years · **Root:** سنو
 
+
 ### Words (wikilinks — these create the graph)
 - [[snp - years]]
 - [[snyn - years]]

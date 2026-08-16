@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** new · **Root:** جدد
 
+
 ### Words (wikilinks — these create the graph)
 - [[jdyd - new]]
 

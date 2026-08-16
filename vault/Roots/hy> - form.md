@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** form · **Root:** هيأ
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

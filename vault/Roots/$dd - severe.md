@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** severe · **Root:** شدد
 
+
 ### Words (wikilinks — these create the graph)
 - [[$dd - we strengthened]]
 - [[$dyd - severe]]
+- [[>$d - maturity]]
 - [[>$d - stronger]]
 
 ### Surahs where this root appears

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** first · **Root:** أول
 
+
 ### Words (wikilinks — these create the graph)
 - [[>wl - first]]
 - [[Al - people]]

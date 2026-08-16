@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** place where records · **Root:** سجن
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

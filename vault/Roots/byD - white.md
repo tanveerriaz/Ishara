@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** white · **Root:** بيض
 
+
 ### Words (wikilinks — these create the graph)
 - [[>byD - white]]
 

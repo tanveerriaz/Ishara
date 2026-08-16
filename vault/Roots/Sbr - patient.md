@@ -11,10 +11,12 @@ tags: [root, meaning]
 
 **Sense:** patient · **Root:** صبر
 
+
 ### Words (wikilinks — these create the graph)
 - [[ASTbr - constant]]
 - [[SAbr - patient ones]]
 - [[SbAr - patient]]
+- [[Sbr - patience]]
 - [[Sbr - patient]]
 
 ### Surahs where this root appears

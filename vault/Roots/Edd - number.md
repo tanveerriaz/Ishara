@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** number · **Root:** عدد
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Ed - prepared]]
+- [[Ed - number]]
 - [[Ed - you count]]
 - [[Edd - number]]
 - [[Edp - number]]

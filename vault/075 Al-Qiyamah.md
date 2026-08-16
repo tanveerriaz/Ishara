@@ -16,35 +16,35 @@ The Resurrection · 40 ayahs
 
 - [[swY - proportioned it]] — `سَوَّى` · proportioned it
 - [[>wlY - woe]] — `أَوْلَى` · woe
-- [[<nsAn - man]] — `إِنسان` · man
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[$ms - sun]] — `شَمْس` · sun
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[>nvY - female]] — `أُنثَى` · female
-- [[wjh - faces]] — `وَجْه` · faces
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[bSr - vision]] — `بَصَر` · vision
-- [[>xr - we delay]] — `أَخَّرَ` · we delay
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[trk - we left]] — `تَرَكَ` · we left
-- [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[>rAd - he intends]] — `أَرادَ` · he intends
-- [[*hb - gold]] — `ذَهَبَ` · gold
-- [[SlY - send blessings]] — `صَلَّى` · send blessings
-- [[byAn - declaration]] — `بَيان` · declaration
-- [[ywm - day]] — `يَوْم` · day
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[qAl - say]] — `قالَ` · say
-- [[Zn - assumption]] — `ظَنَّ` · assumption
-- [[nfs - themselves]] — `نَفْس` · themselves
+- [[Zn - thought]] — `ظَنَّ` · thought
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[sAq - shins]] — `ساق` · shins
 - [[jEl - we made]] — `جَعَلَ` · we made
+- [[$ms - sun]] — `شَمْس` · sun
+- [[mstqr - dwelling place]] — `مُسْتَقَرّ` · dwelling place
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[>Hbb - love]] — `أَحْبَبْ` · love
+- [[qAl - say]] — `قالَ` · say
+- [[Elqp - clinging substance]] — `عَلَقَة` · clinging substance
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[wjh - faces]] — `وَجْه` · faces
+- [[y*r - leave]] — `يَذَرَ` · leave
+- [[bSr - vision]] — `بَصَر` · vision
+- [[Ejl - hasten]] — `عَجِلَ` · hasten
+- [[*hb - go]] — `ذَهَبَ` · go
+- [[zwj - wives]] — `زَوْج` · wives
+- [[AtbE - follow]] — `اتَّبَعَ` · follow
+- [[qr> - read]] — `قَرَأَ` · read
+- [[jmE - two hosts]] — `جَمْع` · two hosts
+- [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
+- [[fEl - you do]] — `فَعَلَ` · you do
 
 ## Roots
 
 - [[$ms - sun]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[>hl - people]]
 - [[>mm - nation]]
 - [[>ns - people]]

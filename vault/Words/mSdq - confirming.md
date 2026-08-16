@@ -2,8 +2,8 @@
 type: word
 lemma: "مُصَدِّق"
 slug: "mSdq - confirming"
-surah_count: 10
-ayah_count: 19
+surah_count: 9
+ayah_count: 18
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **confirming** · Lemma **مُصَدِّق**
 
-### Surahs (10)
+### Surahs (9)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -28,7 +28,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[035 Fatir]]
 - [[037 As-Saffat]]
 - [[046 Al-Ahqaf]]
-- [[057 Al-Hadid]]
 - [[061 As-Saf]]
 
 ## Verses (full text)
@@ -215,5 +214,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/47)
 
-_…and **9** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **8** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

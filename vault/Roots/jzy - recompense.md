@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** recompense · **Root:** جزي
 
+
 ### Words (wikilinks — these create the graph)
 - [[jzA' - recompense]]
 - [[jzY - we recompense]]

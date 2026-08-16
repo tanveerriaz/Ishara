@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** were insolent · **Root:** عتو
 
+
 ### Words (wikilinks — these create the graph)
 - [[Et - were insolent]]
 

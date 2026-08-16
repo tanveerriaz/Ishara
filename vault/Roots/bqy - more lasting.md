@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** more lasting · **Root:** بقي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>bqY - more lasting]]
 - [[bAqyp - but enduring]]

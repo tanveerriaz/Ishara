@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** birds · **Root:** طير
 
+
 ### Words (wikilinks — these create the graph)
 - [[ATyr - they ascribe evil]]
 - [[TA}r - bird]]

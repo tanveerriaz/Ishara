@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** plough · **Root:** ثور
 
+
 ### Words (wikilinks — these create the graph)
 - [[>vAr - plough]]
 

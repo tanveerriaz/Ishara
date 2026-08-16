@@ -14,31 +14,31 @@ The Exile · 24 ayahs
 
 ## Words in this surah (graph)
 
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[<nsAn - man]] — `إِنسان` · man
-- [[slAm - peace]] — `سَلام` · peace
-- [[AtY - give]] — `آتَى` · give
-- [[$Aq - opposes]] — `شاقُّ` · opposes
-- [[nZr - see]] — `نَظَرَ` · see
-- [[wbAl - bad consequence]] — `وَبال` · bad consequence
 - [[>TAE - obey]] — `أَطاعَ` · obey
-- [[dAr - home]] — `دار` · home
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[>$d - stronger]] — `أَشَدّ` · stronger
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[Zn - thought]] — `ظَنَّ` · thought
+- [[mhAjr - emigrants]] — `مُهاجِر` · emigrants
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[sbyl - way]] — `سَبِيل` · way
-- [[qTE - cut off]] — `قُطِعَ` · cut off
-- [[AnthY - you desist]] — `انتَهَى` · you desist
-- [[allah - God]] — `الله` · God
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[gl - shackles]] — `غَلَّ` · shackles
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[qbl - before]] — `قَبْل` · before
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[Asm - name]] — `اسْم` · name
+- [[$hAdp - witnessed]] — `شَهادَة` · witnessed
+- [[xAlq - creator]] — `خالِق` · creator
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[nZr - see]] — `نَظَرَ` · see
+- [[ytfkr - reflect]] — `يَتَفَكَّرُ` · reflect
+- [[dAr - home]] — `دار` · home
+- [[Hyv - wherever]] — `حَيْث` · wherever
+- [[yfqh - understand]] — `يَفْقَهُ` · understand
+- [[byn - between them]] — `بَيْن` · between them
+- [[bEd - after]] — `بَعْد` · after
+- [[HsnY - best]] — `حُسْنَى` · best
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[Abn - son]] — `ابْن` · son
-- [[>rD - earth]] — `أَرْض` · earth
+- [[wrA' - behind]] — `وَراء` · behind
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
 
 ## Roots
 

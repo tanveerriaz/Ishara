@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** path · **Root:** صرط
 
+
 ### Words (wikilinks — these create the graph)
 - [[SrAT - path]]
 

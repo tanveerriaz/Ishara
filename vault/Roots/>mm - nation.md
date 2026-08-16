@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** nation · **Root:** أمم
 
+
 ### Words (wikilinks — these create the graph)
 - [[<mAm - leaders]]
 - [[>m - mother]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they leave · **Root:** برز
 
+
 ### Words (wikilinks — these create the graph)
 - [[brz - they leave]]
 

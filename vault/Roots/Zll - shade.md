@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** shade · **Root:** ظلل
 
+
 ### Words (wikilinks — these create the graph)
 - [[Zl - shade]]
+- [[Zl - turns]]
 - [[Zlp - coverings]]
 
 ### Surahs where this root appears

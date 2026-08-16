@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** its brightness · **Root:** ضحو
 
+
 ### Words (wikilinks — these create the graph)
 - [[DHY - its brightness]]
 

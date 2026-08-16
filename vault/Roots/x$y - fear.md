@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fear · **Root:** خشي
 
+
 ### Words (wikilinks — these create the graph)
 - [[x$y - fear]]
 - [[x$yp - fear]]

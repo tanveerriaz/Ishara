@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** shackles · **Root:** غلل
 
+
 ### Words (wikilinks — these create the graph)
+- [[gl - he defrauds]]
 - [[gl - shackles]]
 
 ### Surahs where this root appears

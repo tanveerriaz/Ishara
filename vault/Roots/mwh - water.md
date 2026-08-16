@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** water · **Root:** موه
 
+
 ### Words (wikilinks — these create the graph)
 - [[mA' - water]]
 

@@ -11,10 +11,10 @@ tags: [root, meaning]
 
 **Sense:** purer · **Root:** طهر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Thr - purer]]
 - [[Thr - purify you]]
-- [[mThr - purify you]]
 - [[mThrp - purified]]
 - [[tThr - they purified]]
 

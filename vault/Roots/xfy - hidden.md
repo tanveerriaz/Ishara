@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hidden · **Root:** خفي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>xfy - you conceal]]
 - [[yxfY - hidden]]

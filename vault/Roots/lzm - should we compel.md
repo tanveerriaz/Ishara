@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** should we compel · **Root:** لزم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>lzm - should we compel]]
 

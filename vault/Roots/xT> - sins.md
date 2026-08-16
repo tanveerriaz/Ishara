@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** sins · **Root:** خطأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[xAT} - sinners]]
 - [[xTy}p - sins]]

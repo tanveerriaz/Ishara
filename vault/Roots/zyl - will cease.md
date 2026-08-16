@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** will cease · **Root:** زيل
 
+
 ### Words (wikilinks — these create the graph)
 - [[zAlt - will cease]]
 

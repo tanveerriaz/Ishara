@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** exceed just limit · **Root:** شطط
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

@@ -14,16 +14,16 @@ Mankind · 6 ayahs
 
 ## Words in this surah (graph)
 
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[E* - seek refuge]] — `عُذْ` · seek refuge
-- [[Sdr - breasts]] — `صَدْر` · breasts
-- [[nAs - people]] — `ناس` · people
-- [[qAl - say]] — `قالَ` · say
-- [[<lh - god]] — `إِلٰه` · god
-- [[mlk - angels]] — `مَلَك` · angels
-- [[wsws - then whispered]] — `وَسْوَسَ` · then whispered
 - [[rb - lord]] — `رَبّ` · lord
+- [[jnp - madness]] — `جِنَّة` · madness
+- [[nAs - people]] — `ناس` · people
+- [[wsws - then whispered]] — `وَسْوَسَ` · then whispered
 - [[$r - evil]] — `شَرّ` · evil
+- [[qAl - say]] — `قالَ` · say
+- [[mlk - king]] — `مَلِك` · king
+- [[<lh - god]] — `إِلٰه` · god
+- [[Sdr - breasts]] — `صَدْر` · breasts
+- [[E* - seek refuge]] — `عُذْ` · seek refuge
 
 ## Roots
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** person being joyful · **Root:** بهج
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

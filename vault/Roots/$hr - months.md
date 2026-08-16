@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** months · **Root:** شهر
 
+
 ### Words (wikilinks — these create the graph)
 - [[$hr - months]]
 

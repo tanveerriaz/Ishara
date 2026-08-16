@@ -16,28 +16,28 @@ The Heights · 206 ayahs
 
 - [[ml> - chiefs]] — `مَلَأ` · chiefs
 - [[nAdY - he called]] — `نادَى` · he called
-- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
 - [[>njY - we saved]] — `أَنجَى` · we saved
+- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
 - [[rsAlp - messages]] — `رِسالَة` · messages
-- [[EAd - aad]] — `عادَ` · aad
-- [[b>s - punishment]] — `بَأْس` · punishment
-- [[qryp - town]] — `قَرْيَة` · town
-- [[sw'p - shame]] — `سَوْءَة` · shame
-- [[mfsd - corrupters]] — `مُفْسِد` · corrupters
-- [[EAqbp - end]] — `عاقِبَة` · end
-- [[Eyn - eyes]] — `عَيْن` · eyes
-- [[sAHr - magician]] — `ساحِر` · magician
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
-- [[qTE - cut off]] — `قُطِعَ` · cut off
-- [[qS - we relate]] — `قَصَّ` · we relate
-- [[xlf - behind them]] — `خَلْف` · behind them
 - [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
-- [[>*n - ears]] — `أُذُن` · ears
-- [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
-- [[>wrv - we caused inherit]] — `أَوْرَثَ` · we caused inherit
-- [[gDb - wrath]] — `غَضَب` · wrath
-- [[fSl - we explain]] — `فَصَلَ` · we explain
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[sAHr - magician]] — `ساحِر` · magician
+- [[mfsd - corrupters]] — `مُفْسِد` · corrupters
+- [[sw'p - shame]] — `سَوْءَة` · shame
+- [[Eyn - eyes]] — `عَيْن` · eyes
+- [[qryp - town]] — `قَرْيَة` · town
+- [[b>s - punishment]] — `بَأْس` · punishment
+- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[EAqbp - end]] — `عاقِبَة` · end
+- [[qS - we relate]] — `قَصَّ` · we relate
+- [[myqAt - appointment]] — `مِيقات` · appointment
+- [[nSH - i advise]] — `نَصَحُ` · i advise
+- [[ESA - staff]] — `عَصا` · staff
+- [[nzE - stripping]] — `نَزَعَ` · stripping
+- [[ynAl - reach]] — `يَنالُ` · reach
+- [[wqE - became incumbent]] — `وَقَعَ` · became incumbent
+- [[qTE - cut off]] — `قَطَّعَ` · cut off
+- [[>bSr - see]] — `أَبْصَرَ` · see
 - [[>n*r - warn]] — `أَنذَرَ` · warn
 
 ## Roots
@@ -57,7 +57,7 @@ The Heights · 206 ayahs
 - [[$rk - polytheists]]
 - [[$rq - east]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[*nb - sin]]
 - [[*r> - multiplied you]]
@@ -83,7 +83,7 @@ The Heights · 206 ayahs
 - [[>mr - command]]
 - [[>ns - people]]
 - [[>rD - earth]]
-- [[>sf - grieved]]
+- [[>sf - alas]]
 - [[>sw - grieve]]
 - [[>ty - give]]
 - [[>vm - sin]]

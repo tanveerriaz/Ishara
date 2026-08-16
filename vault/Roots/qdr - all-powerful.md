@@ -11,10 +11,14 @@ tags: [root, meaning]
 
 **Sense:** all-powerful · **Root:** قدر
 
+
 ### Words (wikilinks — these create the graph)
 - [[mqdAr - due proportion]]
 - [[mqtdr - all able]]
 - [[qAdr - able]]
+- [[qdr - determined it]]
+- [[qdr - due measure]]
+- [[qdr - power]]
 - [[qdr - restricts]]
 - [[qdyr - all-powerful]]
 - [[tqdyr - decree]]

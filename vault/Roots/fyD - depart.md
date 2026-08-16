@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** depart · **Root:** فيض
 
+
 ### Words (wikilinks — these create the graph)
 - [[>fAD - depart]]
 

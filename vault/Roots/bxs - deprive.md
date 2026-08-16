@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** deprive · **Root:** بخس
 
+
 ### Words (wikilinks — these create the graph)
 - [[ybxs - deprive]]
 

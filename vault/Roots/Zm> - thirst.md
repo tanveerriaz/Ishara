@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** thirst · **Root:** ظمأ
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** group · **Root:** فأي
 
+
 ### Words (wikilinks — these create the graph)
 - [[f}p - group]]
 

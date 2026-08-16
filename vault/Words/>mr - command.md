@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "أَمَرَ"
+lemma: "أَمْر"
 slug: ">mr - command"
-surah_count: 61
-ayah_count: 221
+surah_count: 53
+ayah_count: 153
 tags: [word, meaning]
 ---
 
@@ -17,9 +17,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[>mr - command]]
 
 ### Meaning
-**command** · Lemma **أَمَرَ**
+**command** · Lemma **أَمْر**
 
-### Surahs (61)
+### Surahs (53)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -43,102 +43,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[022 Al-Hajj]]
 - [[023 Al-Muminun]]
 - [[024 An-Nur]]
-- [[025 Al-Furqan]]
 - [[026 Ash-Shuara]]
+- [[027 An-Naml]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:27 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَـٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ
-
-</div>
-
-**Word in this verse:** `أَمَرَ` — has ordered
-
-**English (Sahih International):** Who break the covenant of Allāh after contracting it and sever that which Allāh has ordered to be joined and cause corruption on earth. It is those who are the losers.
-
-**English (Yusuf Ali):** Those who break Allah's Covenant after it is ratified, and who sunder what Allah Has ordered to be joined, and do mischief on earth: These cause loss (only) to themselves.
-
-**Urdu (Fatah Muhammad Jalandhari):** جو خدا کے اقرار کو مضبوط کرنے کے بعد توڑ دیتے ہیں اور جس چیز (یعنی رشتہٴ قرابت) کے جوڑے رکھنے کا الله نے حکم دیا ہے اس کو قطع کئے ڈالتے ہیں اور زمین میں خرابی کرتے ہیں یہی لوگ نقصان اٹھانے والے ہیں
-
-[Open on Quran.com](https://quran.com/2/27)
-
-#### 2:44 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ أَتَأْمُرُونَ ٱلنَّاسَ بِٱلْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ ٱلْكِتَـٰبَ ۚ أَفَلَا تَعْقِلُونَ
-
-</div>
-
-**Word in this verse:** `۞ أَتَأْمُرُونَ` — Do you order
-
-**English (Sahih International):** Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason?
-
-**English (Yusuf Ali):** Do ye enjoin right conduct on the people, and forget (To practise it) yourselves, and yet ye study the Scripture? Will ye not understand?
-
-**Urdu (Fatah Muhammad Jalandhari):** (یہ) کیا (عقل کی بات ہے کہ) تم لوگوں کو نیکی کرنے کو کہتے ہو اور اپنے تئیں فراموش کئے دیتے ہو، حالانکہ تم کتاب (خدا) بھی پڑھتے ہو۔ کیا تم سمجھتے نہیں؟
-
-[Open on Quran.com](https://quran.com/2/44)
-
-#### 2:67 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦٓ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تَذْبَحُوا۟ بَقَرَةً ۖ قَالُوٓا۟ أَتَتَّخِذُنَا هُزُوًا ۖ قَالَ أَعُوذُ بِٱللَّهِ أَنْ أَكُونَ مِنَ ٱلْجَـٰهِلِينَ
-
-</div>
-
-**Word in this verse:** `يَأْمُرُكُمْ` — commands you
-
-**English (Sahih International):** And [recall] when Moses said to his people, "Indeed, Allāh commands you to slaughter a cow." They said, "Do you take us in ridicule?" He said, "I seek refuge in Allāh from being among the ignorant."
-
-**English (Yusuf Ali):** And remember Moses said to his people: "Allah commands that ye sacrifice a heifer." They said: "Makest thou a laughing-stock of us?" He said: "Allah save me from being an ignorant (fool)!"
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ نے اپنی قوم کے لوگوں سے کہا کہ خدا تم کو حکم دیتا ہے کہ ایک بیل ذبح کرو۔ وہ بولے، کیا تم ہم سے ہنسی کرتے ہو۔ (موسیٰ نے) کہا کہ میں الله کی پناہ مانگتا ہوں کہ نادان بنوں
-
-[Open on Quran.com](https://quran.com/2/67)
-
-#### 2:68 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا فَارِضٌ وَلَا بِكْرٌ عَوَانٌۢ بَيْنَ ذَٰلِكَ ۖ فَٱفْعَلُوا۟ مَا تُؤْمَرُونَ
-
-</div>
-
-**Word in this verse:** `تُؤْمَرُونَ` — you are commanded
-
-**English (Sahih International):** They said, "Call upon your Lord to make clear to us what it is." [Moses] said, "[Allāh] says, 'It is a cow which is neither old nor virgin, but median between that,' so do what you are commanded."
-
-**English (Yusuf Ali):** They said: "Beseech on our behalf Thy Lord to make plain to us what (heifer) it is!" He said; "He says: The heifer should be neither too old nor too young, but of middling age. Now do what ye are commanded!"
-
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ اپنے پروردگار سے التجا کیجئے کہ وہ ہمیں یہ بتائے کہ وہ بیل کس طرح کا ہو۔ (موسیٰ نے) کہا کہ پروردگار فرماتا ہے کہ وہ بیل نہ تو بوڑھا ہو اور نہ بچھڑا، بلکہ ان کے درمیان (یعنی جوان) ہو۔ جیسا تم کو حکم دیا گیا ہے، ویسا کرو
-
-[Open on Quran.com](https://quran.com/2/68)
-
-#### 2:93 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِذْ أَخَذْنَا مِيثَـٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَـٰكُم بِقُوَّةٍ وَٱسْمَعُوا۟ ۖ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَـٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
-
-</div>
-
-**Word in this verse:** `يَأْمُرُكُم` — orders you (to do) it
-
-**English (Sahih International):** And [recall] when We took your covenant and raised over you the mount, [saying], "Take what We have given you with determination and listen." They said [instead], "We hear and disobey." And their hearts absorbed [the worship of] the calf because of their disbelief. Say, "How wretched is that which your faith enjoins upon you, if you should be believers."
-
-**English (Yusuf Ali):** And remember We took your covenant and We raised above you (the towering height) of Mount (Sinai): (Saying): "Hold firmly to what We have given you, and hearken (to the Law)": They said:" We hear, and we disobey:" And they had to drink into their hearts (of the taint) of the calf because of their Faithlessness. Say: "Vile indeed are the behests of your Faith if ye have any faith!"
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے تم (لوگوں) سے عہد واثق لیا اور کوہ طور کو تم پر اٹھا کھڑا کیا (اور حکم دیا کہ) جو (کتاب) ہم نے تم کو دی ہے، اس کو زور سے پکڑو اور جو تمہیں حکم ہوتا ہے (اس کو) سنو تو وہ (جو تمہارے بڑے تھے) کہنے لگے کہ ہم نے سن تو لیا لیکن مانتے نہیں۔ اور ان کے کفر کے سبب بچھڑا (گویا) ان کے دلوں میں رچ گیا تھا۔ (اے پیغمبر ان سے) کہہ دو کہ اگر تم مومن ہو تو تمہارا ایمان تم کو بری بات بتاتا ہے
-
-[Open on Quran.com](https://quran.com/2/93)
 
 #### 2:109 · [[002 Al-Baqarah]]
 
@@ -176,24 +86,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/117)
 
-#### 2:169 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِنَّمَا يَأْمُرُكُم بِٱلسُّوٓءِ وَٱلْفَحْشَآءِ وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
-
-</div>
-
-**Word in this verse:** `يَأْمُرُكُم` — he commands you
-
-**English (Sahih International):** He only orders you to evil and immorality and to say about Allāh what you do not know.
-
-**English (Yusuf Ali):** For he commands you what is evil and shameful, and that ye should say of Allah that of which ye have no knowledge.
-
-**Urdu (Fatah Muhammad Jalandhari):** وہ تو تم کو برائی اور بےحیائی ہی کے کام کرنے کو کہتا ہے اور یہ بھی کہ خدا کی نسبت ایسی باتیں کہو جن کا تمہیں (کچھ بھی) علم نہیں
-
-[Open on Quran.com](https://quran.com/2/169)
-
 #### 2:210 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -212,23 +104,131 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/210)
 
-#### 2:222 · [[002 Al-Baqarah]]
+#### 2:275 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ ۖ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ
+ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَـٰنُ مِنَ ٱلْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ ۗ وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ ۚ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ ۖ وَمَنْ عَادَ فَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ
 
 </div>
 
-**Word in this verse:** `أَمَرَكُمُ` — has ordered you
+**Word in this verse:** `وَأَمْرُهُۥٓ` — and his case
 
-**English (Sahih International):** And they ask you about menstruation. Say, "It is harm, so keep away from wives during menstruation. And do not approach them until they are pure. And when they have purified themselves, then come to them from where Allāh has ordained for you. Indeed, Allāh loves those who are constantly repentant and loves those who purify themselves."
+**English (Sahih International):** Those who consume interest cannot stand [on the Day of Resurrection] except as one stands who is being beaten by Satan into insanity. That is because they say, "Trade is [just] like interest." But Allāh has permitted trade and has forbidden interest. So whoever has received an admonition from his Lord and desists may have what is past, and his affair rests with Allāh. But whoever returns [to dealing in interest or usury] - those are the companions of the Fire; they will abide eternally therein.
 
-**English (Yusuf Ali):** They ask thee concerning women's courses. Say: They are a hurt and a pollution: So keep away from women in their courses, and do not approach them until they are clean. But when they have purified themselves, ye may approach them in any manner, time, or place ordained for you by Allah. For Allah loves those who turn to Him constantly and He loves those who keep themselves pure and clean.
+**English (Yusuf Ali):** Those who devour usury will not stand except as stand one whom the Evil one by his touch Hath driven to madness. That is because they say: "Trade is like usury," but Allah hath permitted trade and forbidden usury. Those who after receiving direction from their Lord, desist, shall be pardoned for the past; their case is for Allah (to judge); but those who repeat (The offence) are companions of the Fire: They will abide therein (for ever).
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تم سے حیض کے بارے میں دریافت کرتے ہیں۔ کہہ دو کہ وہ تو نجاست ہے۔ سو ایام حیض میں عورتوں سے کنارہ کش رہو۔ اور جب تک پاک نہ ہوجائیں ان سے مقاربت نہ کرو۔ ہاں جب پاک ہوجائیں تو جس طریق سے خدا نے ارشاد فرمایا ہے ان کے پاس جاؤ۔ کچھ شک نہیں کہ خدا توبہ کرنے والوں اور پاک صاف رہنے والوں کو دوست رکھتا ہے
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ سود کھاتے ہیں وہ (قبروں سے) اس طرح (حواس باختہ) اٹھیں گے جیسے کسی کو جن نے لپٹ کر دیوانہ بنا دیا ہو یہ اس لئے کہ وہ کہتے ہیں کہ سودا بیچنا بھی تو (نفع کے لحاظ سے) ویسا ہی ہے جیسے سود (لینا) حالانکہ سودے کو خدا نے حلال کیا ہے اور سود کو حرام۔ تو جس شخص کے پاس خدا کی نصیحت پہنچی اور وہ (سود لینے سے) باز آگیا تو جو پہلے ہوچکا وہ اس کا۔ اور (قیامت میں) اس کا معاملہ خدا کے سپرد اور جو پھر لینے لگا تو ایسے لوگ دوزخی ہیں کہ ہمیشہ دوزخ میں (جلتے) رہیں گے
 
-[Open on Quran.com](https://quran.com/2/222)
+[Open on Quran.com](https://quran.com/2/275)
 
-_…and **211** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 3:47 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
+
+</div>
+
+**Word in this verse:** `أَمْرًۭا` — a matter
+
+**English (Sahih International):** She said, "My Lord, how will I have a child when no man has touched me?" [The angel] said, "Such is Allāh; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is.
+
+**English (Yusuf Ali):** She said: "O my Lord! How shall I have a son when no man hath touched me?" He said: "Even so: Allah createth what He willeth: When He hath decreed a plan, He but saith to it, 'Be,' and it is!
+
+**Urdu (Fatah Muhammad Jalandhari):** مریم نے کہا پروردگار میرے ہاں بچہ کیونکر ہوگا کہ کسی انسان نے مجھے ہاتھ تک تو لگایا نہیں فرمایا کہ خدا اسی طرح جو چاہتا ہے پیدا کرتا ہے جب وہ کوئی کام کرنا چاہتا ہے تو ارشاد فرما دیتا ہے کہ ہوجا تو وہ ہو جاتا ہے
+
+[Open on Quran.com](https://quran.com/3/47)
+
+#### 3:109 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
+
+</div>
+
+**Word in this verse:** `ٱلْأُمُورُ` — the matters
+
+**English (Sahih International):** To Allāh belongs whatever is in the heavens and whatever is on the earth. And to Allāh will [all] matters be returned.
+
+**English (Yusuf Ali):** To Allah belongs all that is in the heavens and on earth: To Him do all questions go back (for decision).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب خدا ہی کا ہے اور سب کاموں کا رجوع (اور انجام) خدا ہی کی طرف ہے
+
+[Open on Quran.com](https://quran.com/3/109)
+
+#### 3:128 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَيْسَ لَكَ مِنَ ٱلْأَمْرِ شَىْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَـٰلِمُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْأَمْرِ` — the decision
+
+**English (Sahih International):** Not for you, [O Muḥammad, but for Allāh], is the decision whether He should [cut them down] or forgive them or punish them, for indeed, they are wrongdoers.
+
+**English (Yusuf Ali):** Not for thee, (but for Allah), is the decision: Whether He turn in mercy to them, or punish them; for they are indeed wrong-doers.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) اس کام میں تمہارا کچھ اختیار نہیں (اب دو صورتیں ہیں) یا خدا انکے حال پر مہربانی کرے یا انہیں عذاب دے کہ یہ ظالم لوگ ہیں
+
+[Open on Quran.com](https://quran.com/3/128)
+
+#### 3:147 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا كَانَ قَوْلَهُمْ إِلَّآ أَن قَالُوا۟ رَبَّنَا ٱغْفِرْ لَنَا ذُنُوبَنَا وَإِسْرَافَنَا فِىٓ أَمْرِنَا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `أَمْرِنَا` — our affairs
+
+**English (Sahih International):** And their words were not but that they said, "Our Lord, forgive us our sins and the excess [committed] in our affairs and plant firmly our feet and give us victory over the disbelieving people."
+
+**English (Yusuf Ali):** All that they said was: "Our Lord! Forgive us our sins and anything We may have done that transgressed our duty: Establish our feet firmly, and help us against those that resist Faith."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس حالت میں) ان کے منہ سے کوئی بات نکلتی ہے تو یہی کہ اے پروردگار ہمارے گناہ اور زیادتیاں جو ہم اپنے کاموں میں کرتے رہے ہیں معاف فرما اور ہم کو ثابت قدم رکھ اور کافروں پر فتح عنایت فرما
+
+[Open on Quran.com](https://quran.com/3/147)
+
+#### 3:152 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ ۖ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَـٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ ۚ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْـَٔاخِرَةَ ۚ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ ۖ وَلَقَدْ عَفَا عَنكُمْ ۗ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْأَمْرِ` — the order
+
+**English (Sahih International):** And Allāh had certainly fulfilled His promise to you when you were killing them [i.e., the enemy] by His permission until [the time] when you lost courage and fell to disputing about the order [given by the Prophet (ﷺ)] and disobeyed after He had shown you that which you love. Among you are some who desire this world, and among you are some who desire the Hereafter. Then He turned you back from them [defeated] that He might test you. And He has already forgiven you, and Allāh is the possessor of bounty for the believers.
+
+**English (Yusuf Ali):** Allah did indeed fulfil His promise to you when ye with His permission Were about to annihilate your enemy,-until ye flinched and fell to disputing about the order, and disobeyed it after He brought you in sight (of the booty) which ye covet. Among you are some that hanker after this world and some that desire the Hereafter. Then did He divert you from your foes in order to test you but He forgave you: For Allah is full of grace to those who believe.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے اپنا وعدہ سچا کر دیا (یعنی) اس وقت جبکہ تم کافروں کو اس کے حکم سے قتل کر رہے تھے یہاں تک کہ جو تم چاہتے تھے خدا نے تم کو دکھا دیا اس کے بعد تم نے ہمت ہار دی اور حکم (پیغمبر) میں جھگڑا کرنے لگے اور اس کی نافرمانی کی بعض تو تم میں سے دنیا کے خواستگار تھے اور بعض آخرت کے طالب اس وقت خدا نے تم کو ان (کے مقابلے) سے پھیر (کر بھگا) دیا تاکہ تمہاری آزمائش کرے اور اس نے تمہارا قصور معاف کر دیا اور خدا مومنو پر بڑا فضل کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/3/152)
+
+#### 3:154 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةً نُّعَاسًا يَغْشَىٰ طَآئِفَةً مِّنكُمْ ۖ وَطَآئِفَةٌ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَـٰهِلِيَّةِ ۖ يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍ ۗ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ ۗ يُخْفُونَ فِىٓ أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ ۖ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌ مَّا قُتِلْنَا هَـٰهُنَا ۗ قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ ۖ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+
+</div>
+
+**Word in this verse:** `ٱلْأَمْرِ` — the matter
+
+**English (Sahih International):** Then after distress, He sent down upon you security [in the form of] drowsiness, overcoming a faction of you, while another faction worried about themselves, thinking of Allāh other than the truth - the thought of ignorance, saying, "Is there anything for us [to have done] in this matter?" Say, "Indeed, the matter belongs completely to Allāh." They conceal within themselves what they will not reveal to you. They say, "If there was anything we could have done in the matter, we [i.e., some of us] would not have been killed right here." Say, "Even if you had been inside your houses, those decreed to be killed would have come out to their death beds." [It was] so that Allāh might test what is in your breasts and purify what is in your hearts. And Allāh is Knowing of that within the breasts.
+
+**English (Yusuf Ali):** After (the excitement) of the distress, He sent down calm on a band of you overcome with slumber, while another band was stirred to anxiety by their own feelings, Moved by wrong suspicions of Allah-suspicions due to ignorance. They said: "What affair is this of ours?" Say thou: "Indeed, this affair is wholly Allah's." They hide in their minds what they dare not reveal to thee. They say (to themselves): "If we had had anything to do with this affair, We should not have been in the slaughter here." Say: "Even if you had remained in your homes, those for whom death was decreed would certainly have gone forth to the place of their death"; but (all this was) that Allah might test what is in your breasts and purge what is in your hearts. For Allah knoweth well the secrets of your hearts.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر خدا نے غم ورنج کے بعد تم پر تسلی نازل فرمائی (یعنی) نیند کہ تم میں سے ایک جماعت پر طاری ہو گئی اور کچھ لوگ جن کو جان کے لالے پڑ رہے تھے خدا کے بارے میں ناحق (ایام) کفر کے سے گمان کرتے تھے اور کہتے تھے بھلا ہمارے اختیار کی کچھ بات ہے؟ تم کہہ دو کہ بےشک سب باتیں خدا ہی کے اختیار میں ہیں یہ لوگ (بہت سی باتیں) دلوں میں مخفی رکھتے ہیں جو تم پر ظاہر نہیں کرتے تھے کہتے تھے کہ ہمارے بس کی بات ہوتی تو ہم یہاں قتل ہی نہ کیے جاتے کہہ دو کہ اگر تم اپنے گھروں میں بھی ہوتے تو جن کی تقدیر میں مارا جانا لکھا تھا وہ اپنی اپنی قتل گاہوں کی طرف ضرور نکل آتے اس سے غرض یہ تھی کہ خدا تمہارے سینوں کی باتوں کو آزمائے اور جو کچھ تمہارے دلوں میں ہے اس کو خالص اور صاف کر دے اور خدا دلوں کی باتوں سے خوب واقف ہے
+
+[Open on Quran.com](https://quran.com/3/154)
+
+_…and **143** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

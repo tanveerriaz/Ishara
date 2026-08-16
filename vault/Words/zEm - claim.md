@@ -3,7 +3,7 @@ type: word
 lemma: "زَعَمَ"
 slug: "zEm - claim"
 surah_count: 8
-ayah_count: 14
+ayah_count: 12
 tags: [word, meaning]
 ---
 
@@ -86,42 +86,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور جیسا ہم نے تم کو پہلی دفعہ پیدا کیا تھا ایسا ہی آج اکیلے اکیلے ہمارے پاس آئے اور جو (مال ومتاع) ہم نے تمہیں عطا فرمایا تھا وہ سب اپنی پیٹھ پیچھے چھوڑ آئے اور ہم تمہارے ساتھ تمہارے سفارشیوں کو بھی نہیں دیکھتے جن کی نسبت تم خیال کرتے تھے کہ وہ تمہارے (شفیع اور ہمارے) شریک ہیں۔ (آج) تمہارے آپس کے سب تعلقات منقطع ہوگئے اور جو دعوے تم کیا کرتے تھے سب جاتے رہے
 
 [Open on Quran.com](https://quran.com/6/94)
-
-#### 6:136 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَجَعَلُوا۟ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلْحَرْثِ وَٱلْأَنْعَـٰمِ نَصِيبًا فَقَالُوا۟ هَـٰذَا لِلَّهِ بِزَعْمِهِمْ وَهَـٰذَا لِشُرَكَآئِنَا ۖ فَمَا كَانَ لِشُرَكَآئِهِمْ فَلَا يَصِلُ إِلَى ٱللَّهِ ۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمْ ۗ سَآءَ مَا يَحْكُمُونَ
-
-</div>
-
-**Word in this verse:** `بِزَعْمِهِمْ` — by their claim
-
-**English (Sahih International):** And they [i.e., the polytheists] assign to Allāh from that which He created of crops and livestock a share and say, "This is for Allāh," by their claim, "and this is for our 'partners' [associated with Him]." But what is for their "partners" does not reach Allāh, while what is for Allāh - this reaches their "partners." Evil is that which they rule.
-
-**English (Yusuf Ali):** Out of what Allah hath produced in abundance in tilth and in cattle, they assigned Him a share: they say, according to their fancies: "This is for Allah, and this" - for our "partners"! but the share of their" partners "reacheth not Allah, whilst the share of Allah reacheth their "partners"! evil (and unjust) is their assignment!
-
-**Urdu (Fatah Muhammad Jalandhari):** اور (یہ لوگ) خدا ہی کی پیدا کی ہوئی چیزوں یعنی کھیتی اور چوپایوں میں خدا کا بھی ایک حصہ مقرر کرتے ہیں اور اپنے خیال (باطل) سے کہتے ہیں کہ یہ (حصہ) تو خدا کا اور یہ ہمارے شریکوں (یعنی بتوں) کا تو جو حصہ ان کے شریکوں کا ہوتا ہے وہ تو خدا کی طرف نہیں جا سکتا اور جو حصہ خدا کا ہوتا ہے وہ ان کے شریکوں کی طرف جا سکتا ہے یہ کیسا برا انصاف ہے
-
-[Open on Quran.com](https://quran.com/6/136)
-
-#### 6:138 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَقَالُوا۟ هَـٰذِهِۦٓ أَنْعَـٰمٌ وَحَرْثٌ حِجْرٌ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَـٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَـٰمٌ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ ۚ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ
-
-</div>
-
-**Word in this verse:** `بِزَعْمِهِمْ` — by their claim
-
-**English (Sahih International):** And they say, "These animals and crops are forbidden; no one may eat from them except whom we will," by their claim. And there are those [camels] whose backs are forbidden [by them] and those upon which the name of Allāh is not mentioned - [all of this] an invention of untruth about Him. He will punish them for what they were inventing.
-
-**English (Yusuf Ali):** And they say that such and such cattle and crops are taboo, and none should eat of them except those whom - so they say - We wish; further, there are cattle forbidden to yoke or burden, and cattle on which, (at slaughter), the name of Allah is not pronounced; - inventions against Allah's name: soon will He requite them for their inventions.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اپنے خیال سے یہ بھی کہتے ہیں کہ یہ چارپائے اور کھیتی منع ہے اسے اس شخص کے سوا جسے ہم چاہیں کوئی نہ کھائے اور (بعض) چارپائے ایسے ہیں کہ ان کی پیٹ پر چڑھنا منع کر دیا گیا ہے اور بعض مویشی ایسے ہیں جن پر (ذبح کرتے وقت) خدا کا نام نہیں لیتے سب خدا پر جھوٹ ہے وہ عنقریب ان کو ان کے جھوٹ کا بدلہ دے گا
-
-[Open on Quran.com](https://quran.com/6/138)
 
 #### 17:56 · [[017 Al-Isra]]
 
@@ -213,5 +177,41 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/28/62)
 
-_…and **4** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 28:74 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
+
+</div>
+
+**Word in this verse:** `تَزْعُمُونَ` — claim
+
+**English (Sahih International):** And [warn of] the Day He will call them and say, "Where are My 'partners' which you used to claim?"
+
+**English (Yusuf Ali):** The Day that He will call on them, He will say: "Where are my 'partners'? whom ye imagined (to be such)?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن وہ اُن کو پکارے گا اور کہے گا کہ میرے وہ شریک جن کا تمہیں دعویٰ تھا کہاں گئے؟
+
+[Open on Quran.com](https://quran.com/28/74)
+
+#### 34:22 · [[034 Saba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِ ٱللَّهِ ۖ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِى ٱلسَّمَـٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَمَا لَهُمْ فِيهِمَا مِن شِرْكٍ وَمَا لَهُۥ مِنْهُم مِّن ظَهِيرٍ
+
+</div>
+
+**Word in this verse:** `زَعَمْتُم` — you claim
+
+**English (Sahih International):** Say, [O Muḥammad], "Invoke those you claim [as deities] besides Allāh." They do not possess an atom's weight [of ability] in the heavens or on the earth, and they do not have therein any partnership [with Him], nor is there for Him from among them any assistant.
+
+**English (Yusuf Ali):** Say: "Call upon other (gods) whom ye fancy, besides Allah: They have no power,- not the weight of an atom,- in the heavens or on earth: No (sort of) share have they therein, nor is any of them a helper to Allah.
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ جن کو تم خدا کے سوا (معبود) خیال کرتے ہو ان کو بلاؤ۔ وہ آسمانوں اور زمین میں ذرہ بھر چیز کے بھی مالک نہیں ہیں اور نہ ان میں ان کی شرکت ہے اور نہ ان میں سے کوئی خدا کا مددگار ہے
+
+[Open on Quran.com](https://quran.com/34/22)
+
+_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

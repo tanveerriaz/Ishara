@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we found · **Root:** لفو
 
+
 ### Words (wikilinks — these create the graph)
 - [[>lf - we found]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** native gold silver · **Root:** تبر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

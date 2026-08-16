@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** silver · **Root:** فضض
 
+
 ### Words (wikilinks — these create the graph)
 - [[AnfD - they rushed]]
 - [[fDp - silver]]

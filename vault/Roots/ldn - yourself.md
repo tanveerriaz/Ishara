@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** yourself · **Root:** لدن
 
+
 ### Words (wikilinks — these create the graph)
 - [[ldn - yourself]]
 

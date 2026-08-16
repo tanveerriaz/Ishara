@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** wash water · **Root:** غسل
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

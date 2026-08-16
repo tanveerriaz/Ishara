@@ -11,11 +11,13 @@ tags: [root, meaning]
 
 **Sense:** wrongdoers · **Root:** ظلم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Zlm - more unjust]]
 - [[ZAlm - wrongdoers]]
 - [[ZAlmp - doing wrong]]
 - [[ZlAm - unjust]]
+- [[Zlm - wrongdoing]]
 - [[Zlm - wronged]]
 - [[Zlmp - darknesses]]
 

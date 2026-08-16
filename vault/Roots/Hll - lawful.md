@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** lawful · **Root:** حلل
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Hl - made lawful]]
 - [[Hl - lawful]]

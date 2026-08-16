@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we found · **Root:** وجد
 
+
 ### Words (wikilinks — these create the graph)
 - [[wjd - we found]]
 

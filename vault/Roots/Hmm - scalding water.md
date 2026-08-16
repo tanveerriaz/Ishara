@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** scalding water · **Root:** حمم
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hmym - scalding water]]
 

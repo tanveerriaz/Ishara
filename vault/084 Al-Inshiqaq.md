@@ -14,31 +14,31 @@ The Sundering · 25 ayahs
 
 ## Words in this surah (graph)
 
-- [[ktAb - book]] — `كِتاب` · book
-- [[lyl - night]] — `لَيْل` · night
-- [[>y - o you]] — `أَيّ` · o you
-- [[<nsAn - man]] — `إِنسان` · man
-- [[ymyn - oaths]] — `يَمِين` · oaths
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[AtY - give]] — `آتَى` · give
+- [[HsAb - account]] — `حِساب` · account
+- [[gyr - without]] — `غَيْر` · without
+- [[>*n - permits]] — `أَذِنَ` · permits
 - [[rb - lord]] — `رَبّ` · lord
-- [[mmnwn - ending]] — `مَمْنُون` · ending
-- [[sjd - prostrate]] — `سَجَدَ` · prostrate
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[>Elm - knowing]] — `أَعْلَم` · knowing
-- [[md - spread]] — `مَدَّ` · spread
-- [[>hl - people]] — `أَهْل` · people
-- [[dEA - call]] — `دَعا` · call
-- [[qmr - moon]] — `قَمَر` · moon
-- [[wrA' - behind]] — `وَراء` · behind
-- [[rkb - embark]] — `رَكْب` · embark
-- [[>lym - painful]] — `أَلِيم` · painful
+- [[ymyn - oaths]] — `يَمِين` · oaths
+- [[Zn - thought]] — `ظَنَّ` · thought
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[Eml - do]] — `عَمِلَ` · do
-- [[bSyr - all-seer]] — `بَصِير` · all-seer
+- [[HAsb - will call you]] — `حاسَبْ` · will call you
+- [[ktAb - book]] — `كِتاب` · book
+- [[b$r - give tidings]] — `بُشِّرَ` · give tidings
+- [[rkb - embark]] — `رَكِبَ` · embark
+- [[smA' - heavens]] — `سَماء` · heavens
 - [[allah - God]] — `الله` · God
-- [[Tbq - stage]] — `طَبَق` · stage
-- [[ysyr - easy]] — `يَسِير` · easy
+- [[>hl - people]] — `أَهْل` · people
+- [[An$q - splits asunder]] — `انشَقَّ` · splits asunder
+- [[dEA - call]] — `دَعا` · call
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[Anqlb - turns back]] — `انقَلَبَ` · turns back
+- [[>rD - earth]] — `أَرْض` · earth
+- [[lyl - night]] — `لَيْل` · night
+- [[qmr - moon]] — `قَمَر` · moon
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[qr> - read]] — `قَرَأَ` · read
+- [[AtY - give]] — `آتَى` · give
+- [[md - spread]] — `مَدَّ` · spread
 
 ## Roots
 

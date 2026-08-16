@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** like way · **Root:** دأب
 
+
 ### Words (wikilinks — these create the graph)
 - [[d>b - like way]]
 

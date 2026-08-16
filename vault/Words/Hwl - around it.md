@@ -2,8 +2,8 @@
 type: word
 lemma: "حَوْل"
 slug: "Hwl - around it"
-surah_count: 14
-ayah_count: 18
+surah_count: 13
+ayah_count: 17
 tags: [word, meaning]
 ---
 
@@ -19,13 +19,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **around it** · Lemma **حَوْل**
 
-### Surahs (14)
+### Surahs (13)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[006 Al-Anam]]
 - [[009 At-Tawbah]]
 - [[017 Al-Isra]]
-- [[018 Al-Kahf]]
 - [[019 Maryam]]
 - [[026 Ash-Shuara]]
 - [[027 An-Naml]]
@@ -183,24 +182,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/17/1)
 
-#### 18:108 · [[018 Al-Kahf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-خَـٰلِدِينَ فِيهَا لَا يَبْغُونَ عَنْهَا حِوَلًا
-
-</div>
-
-**Word in this verse:** `حِوَلًۭا` — any transfer
-
-**English (Sahih International):** Wherein they abide eternally. They will not desire from it any transfer.
-
-**English (Yusuf Ali):** Wherein they shall dwell (for aye): no change will they wish for from them.
-
-**Urdu (Fatah Muhammad Jalandhari):** ہمیشہ ان میں رہیں گے اور وہاں سے مکان بدلنا نہ چاہیں گے
-
-[Open on Quran.com](https://quran.com/18/108)
-
 #### 19:68 · [[019 Maryam]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -219,5 +200,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/19/68)
 
-_…and **8** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 26:25 · [[026 Ash-Shuara]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ لِمَنْ حَوْلَهُۥٓ أَلَا تَسْتَمِعُونَ
+
+</div>
+
+**Word in this verse:** `حَوْلَهُۥٓ` — around him
+
+**English (Sahih International):** [Pharaoh] said to those around him, "Do you not hear?"
+
+**English (Yusuf Ali):** (Pharaoh) said to those around: "Did ye not listen (to what he says)?"
+
+**Urdu (Fatah Muhammad Jalandhari):** فرعون نے اپنے اہالی موالی سے کہا کہ کیا تم سنتے نہیں
+
+[Open on Quran.com](https://quran.com/26/25)
+
+_…and **7** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

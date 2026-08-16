@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** you desire · **Root:** حرص
 
+
 ### Words (wikilinks — these create the graph)
 - [[HrS - you desire]]
 

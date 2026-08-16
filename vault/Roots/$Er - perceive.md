@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** perceive · **Root:** شعر
 
+
 ### Words (wikilinks — these create the graph)
 - [[$AEr - poet]]
 - [[$EA}r - symbols]]
+- [[y$Er - let aware]]
 - [[y$Er - perceive]]
 
 ### Surahs where this root appears

@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** wrong · **Root:** نكر
 
+
 ### Words (wikilinks — these create the graph)
+- [[mnkr - knew him]]
 - [[mnkr - wrong]]
 - [[nkr - terrible]]
 - [[nkyr - my rejection]]

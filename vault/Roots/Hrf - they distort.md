@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they distort · **Root:** حرف
 
+
 ### Words (wikilinks — these create the graph)
 - [[yHrf - they distort]]
 

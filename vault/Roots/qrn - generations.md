@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** generations · **Root:** قرن
 
+
 ### Words (wikilinks — these create the graph)
 - [[mqrn - bound together]]
 - [[qrn - generations]]

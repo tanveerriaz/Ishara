@@ -2,8 +2,8 @@
 type: word
 lemma: "رَحِمَ"
 slug: "rHm - receive mercy"
-surah_count: 18
-ayah_count: 29
+surah_count: 17
+ayah_count: 28
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **receive mercy** · Lemma **رَحِمَ**
 
-### Surahs (18)
+### Surahs (17)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[006 Al-Anam]]
@@ -28,7 +28,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[011 Hud]]
 - [[012 Yusuf]]
 - [[017 Al-Isra]]
-- [[018 Al-Kahf]]
 - [[023 Al-Muminun]]
 - [[024 An-Nur]]
 - [[027 An-Naml]]
@@ -223,5 +222,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/9/71)
 
-_…and **19** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **18** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** middle part something · **Root:** وسط
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

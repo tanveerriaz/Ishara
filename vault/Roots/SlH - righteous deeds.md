@@ -11,12 +11,13 @@ tags: [root, meaning]
 
 **Sense:** righteous deeds · **Root:** صلح
 
+
 ### Words (wikilinks — these create the graph)
 - [[<SlAH - reconciliation]]
 - [[>SlH - reforms]]
 - [[SAlH - righteous]]
 - [[SAlHp - righteous deeds]]
-- [[SlH - reconciliation]]
+- [[SlH - were righteous]]
 - [[mSlH - reformers]]
 
 ### Surahs where this root appears

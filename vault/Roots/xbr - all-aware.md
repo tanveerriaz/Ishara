@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** all-aware · **Root:** خبر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>xbAr - news]]
+- [[xbr - any knowledge]]
 - [[xbr - some information]]
 - [[xbyr - all-aware]]
 

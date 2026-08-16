@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** honor him · **Root:** عزر
 
+
 ### Words (wikilinks — these create the graph)
 - [[Ezr - honor him]]
 

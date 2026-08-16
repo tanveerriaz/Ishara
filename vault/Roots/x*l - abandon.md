@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** abandon · **Root:** خذل
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

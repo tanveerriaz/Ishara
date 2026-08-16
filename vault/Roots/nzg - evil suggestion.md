@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** evil suggestion · **Root:** نزغ
 
+
 ### Words (wikilinks — these create the graph)
 - [[nzg - evil suggestion]]
+- [[nzg - sows discord]]
 
 ### Surahs where this root appears
 `007, 012, 017, 041` · open those surah notes from [[Surah Index]]

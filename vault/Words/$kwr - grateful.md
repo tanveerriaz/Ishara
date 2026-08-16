@@ -2,8 +2,8 @@
 type: word
 lemma: "شَكُور"
 slug: "$kwr - grateful"
-surah_count: 9
-ayah_count: 12
+surah_count: 7
+ayah_count: 10
 tags: [word, meaning]
 ---
 
@@ -19,16 +19,14 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **grateful** · Lemma **شَكُور**
 
-### Surahs (9)
+### Surahs (7)
 - [[014 Ibrahim]]
 - [[017 Al-Isra]]
-- [[025 Al-Furqan]]
 - [[031 Luqman]]
 - [[034 Saba]]
 - [[035 Fatir]]
 - [[042 Ash-Shuraa]]
 - [[064 At-Taghabun]]
-- [[076 Al-Insan]]
 
 ## Verses (full text)
 
@@ -69,24 +67,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اے اُن لوگوں کی اولاد جن کو ہم نے نوح کے ساتھ (کشتی میں) سوار کیا تھا۔ بےشک نوح (ہمارے) شکرگزار بندے تھے
 
 [Open on Quran.com](https://quran.com/17/3)
-
-#### 25:62 · [[025 Al-Furqan]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ شُكُورًا
-
-</div>
-
-**Word in this verse:** `شُكُورًۭا` — to be thankful
-
-**English (Sahih International):** And it is He who has made the night and the day in succession for whoever desires to remember or desires gratitude.
-
-**English (Yusuf Ali):** And it is He Who made the Night and the Day to follow each other: for such as have the will to celebrate His praises or to show their gratitude.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے رات اور دن کو ایک دوسرے کے پیچھے آنے جانے والا بنایا۔ (یہ باتیں) اس شخص کے لئے جو غور کرنا چاہے یا شکرگزاری کا ارادہ کرے (سوچنے اور سمجھنے کی ہیں)
-
-[Open on Quran.com](https://quran.com/25/62)
 
 #### 31:31 · [[031 Luqman]]
 
@@ -214,5 +194,21 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/42/33)
 
-_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 64:17 · [[064 At-Taghabun]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن تُقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا يُضَـٰعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ شَكُورٌ حَلِيمٌ
+
+</div>
+
+**Word in this verse:** `شَكُورٌ` — (is) Most Appreciative
+
+**English (Sahih International):** If you loan Allāh a goodly loan, He will multiply it for you and forgive you. And Allāh is [most] Appreciative and Forbearing,
+
+**English (Yusuf Ali):** If ye loan to Allah, a beautiful loan, He will double it to your (credit), and He will grant you Forgiveness: for Allah is most Ready to appreciate (service), Most Forbearing,-
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم خدا کو (اخلاص اور نیت) نیک (سے) قرض دو گے تو وہ تم کو اس کا دوچند دے گا اور تمہارے گناہ بھی معاف کردے گا۔ اور خدا قدر شناس اور بردبار ہے
+
+[Open on Quran.com](https://quran.com/64/17)
 

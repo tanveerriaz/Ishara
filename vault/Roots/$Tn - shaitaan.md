@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** shaitaan · **Root:** شطن
 
+
 ### Words (wikilinks — these create the graph)
 - [[$yTAn - shaitaan]]
 

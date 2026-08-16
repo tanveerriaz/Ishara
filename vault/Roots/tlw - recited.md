@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** recited · **Root:** تلو
 
+
 ### Words (wikilinks — these create the graph)
 - [[tlY - recited]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** adornment · **Root:** زين
 
+
 ### Words (wikilinks — these create the graph)
 - [[zyn - made fair-seeming]]
 - [[zynp - adornment]]

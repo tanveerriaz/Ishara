@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** husbands · **Root:** بعل
 
+
 ### Words (wikilinks — these create the graph)
 - [[bEl - husbands]]
 

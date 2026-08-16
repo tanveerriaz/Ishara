@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** barren · **Root:** عقم
 
+
 ### Words (wikilinks — these create the graph)
 - [[Eqym - barren]]
 

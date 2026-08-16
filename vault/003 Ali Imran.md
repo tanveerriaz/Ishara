@@ -14,31 +14,31 @@ Family of Imran · 200 ayahs
 
 ## Words in this surah (graph)
 
-- [[Hsb - think]] — `حَسْب` · think
-- [[*nb - sins]] — `ذَنب` · sins
-- [[>TAE - obey]] — `أَطاعَ` · obey
-- [[gfr - forgive]] — `غَفَرَ` · forgive
 - [[<ymAn - faith]] — `إِيمان` · faith
 - [[mAt - died]] — `ماتَ` · died
-- [[>SAb - befalls you]] — `أَصابَ` · befalls you
+- [[qyAmp - resurrection]] — `قِيامَة` · resurrection
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[kfr - disbelief]] — `كُفْر` · disbelief
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[*nb - sins]] — `ذَنب` · sins
+- [[>mr - command]] — `أَمْر` · command
+- [[Hsb - think]] — `حَسِبَ` · think
 - [[$hd - bear witness]] — `شَهِدَ` · bear witness
 - [[mslm - muslims]] — `مُسْلِم` · muslims
-- [[qyAmp - resurrection]] — `قِيامَة` · resurrection
+- [[>SAb - befalls you]] — `أَصابَ` · befalls you
 - [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[yDr - harms them]] — `يَضُرَّ` · harms them
-- [[kyf - how]] — `كَيْف` · how
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[ms - touch]] — `مَسَّ` · touch
-- [[>hl - people]] — `أَهْل` · people
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[HAj - argued]] — `حاجَّ` · argued
 - [[rHmp - mercy]] — `رَحْمَة` · mercy
-- [[xlq - creation]] — `خَلَقَ` · creation
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[yDr - harms them]] — `يَضُرَّ` · harms them
 - [[>jr - reward]] — `أَجْر` · reward
-- [[b$r - man]] — `بُشِّرَ` · man
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
-- [[EAlm - worlds]] — `عالَم` · worlds
+- [[dyn - religion]] — `دِين` · religion
+- [[Elm - knowledge]] — `عِلْم` · knowledge
+- [[kyf - how]] — `كَيْف` · how
 - [[>lym - painful]] — `أَلِيم` · painful
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[HAj - argued]] — `حاجَّ` · argued
+- [[ms - touches]] — `مَسَّ` · touches
+- [[>hl - people]] — `أَهْل` · people
 
 ## Roots
 
@@ -54,8 +54,8 @@ Family of Imran · 200 ayahs
 - [[$ry - exchange]]
 - [[$wr - gather honey]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[*nb - sin]]
 - [[*rr - offspring]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** degrees · **Root:** درج
 
+
 ### Words (wikilinks — these create the graph)
 - [[drjp - degrees]]
 

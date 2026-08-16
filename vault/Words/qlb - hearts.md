@@ -3,7 +3,7 @@ type: word
 lemma: "قَلْب"
 slug: "qlb - hearts"
 surah_count: 43
-ayah_count: 130
+ayah_count: 124
 tags: [word, meaning]
 ---
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/260)
 
-_…and **120** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **114** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

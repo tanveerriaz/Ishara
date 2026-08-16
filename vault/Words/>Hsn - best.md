@@ -2,8 +2,8 @@
 type: word
 lemma: "أَحْسَن"
 slug: ">Hsn - best"
-surah_count: 30
-ayah_count: 55
+surah_count: 22
+ayah_count: 36
 tags: [word, meaning]
 ---
 
@@ -19,15 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **best** · Lemma **أَحْسَن**
 
-### Surahs (30)
+### Surahs (22)
 - [[002 Al-Baqarah]]
-- [[003 Ali Imran]]
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[009 At-Tawbah]]
-- [[010 Yunus]]
 - [[011 Hud]]
 - [[012 Yusuf]]
 - [[016 An-Nahl]]
@@ -37,14 +35,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[023 Al-Muminun]]
 - [[024 An-Nur]]
 - [[025 Al-Furqan]]
-- [[028 Al-Qasas]]
 - [[029 Al-Ankabut]]
-- [[032 As-Sajdah]]
 - [[037 As-Saffat]]
 - [[039 Az-Zumar]]
-- [[040 Ghafir]]
 - [[041 Fussilat]]
 - [[046 Al-Ahqaf]]
+- [[067 Al-Mulk]]
+- [[095 At-Tin]]
 
 ## Verses (full text)
 
@@ -67,42 +64,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** (کہہ دو کہ ہم نے) خدا کا رنگ (اختیار کر لیا ہے) اور خدا سے بہتر رنگ کس کا ہو سکتا ہے۔ اور ہم اسی کی عبادت کرنے والے ہیں
 
 [Open on Quran.com](https://quran.com/2/138)
-
-#### 2:195 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَأَنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلَا تُلْقُوا۟ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ ۛ وَأَحْسِنُوٓا۟ ۛ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
-
-</div>
-
-**Word in this verse:** `وَأَحْسِنُوٓا۟ ۛ` — And do good
-
-**English (Sahih International):** And spend in the way of Allāh and do not throw [yourselves] with your [own] hands into destruction [by refraining]. And do good; indeed, Allāh loves the doers of good.
-
-**English (Yusuf Ali):** And spend of your substance in the cause of Allah, and make not your own hands contribute to (your) destruction; but do good; for Allah loveth those who do good.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا کی راہ میں (مال) خرچ کرو اور اپنے آپ کو ہلاکت میں نہ ڈالو اور نیکی کرو بےشک خدا نیکی کرنے والوں کو دوست رکھتا ہے
-
-[Open on Quran.com](https://quran.com/2/195)
-
-#### 3:172 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلَّذِينَ ٱسْتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعْدِ مَآ أَصَابَهُمُ ٱلْقَرْحُ ۚ لِلَّذِينَ أَحْسَنُوا۟ مِنْهُمْ وَٱتَّقَوْا۟ أَجْرٌ عَظِيمٌ
-
-</div>
-
-**Word in this verse:** `أَحْسَنُوا۟` — did good
-
-**English (Sahih International):** Those [believers] who responded to Allāh and the Messenger after injury had struck them. For those who did good among them and feared Allāh is a great reward -
-
-**English (Yusuf Ali):** Of those who answered the call of Allah and the Messenger, even after being wounded, those who do right and refrain from wrong have a great reward;-
-
-**Urdu (Fatah Muhammad Jalandhari):** جنہوں نے باوجود زخم کھانے کے خدا اور رسول (کے حکم) کو قبول کیا جو لوگ ان میں نیکوکار اور پرہیزگار ہیں ان کے لئے بڑا ثواب ہے
-
-[Open on Quran.com](https://quran.com/3/172)
 
 #### 4:59 · [[004 An-Nisa]]
 
@@ -158,24 +119,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/125)
 
-#### 4:128 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِنِ ٱمْرَأَةٌ خَافَتْ مِنۢ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَٱلصُّلْحُ خَيْرٌ ۗ وَأُحْضِرَتِ ٱلْأَنفُسُ ٱلشُّحَّ ۚ وَإِن تُحْسِنُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
-
-</div>
-
-**Word in this verse:** `تُحْسِنُوا۟` — you do good
-
-**English (Sahih International):** And if a woman fears from her husband contempt or evasion, there is no sin upon them if they make terms of settlement between them - and settlement is best. And present in [human] souls is stinginess. But if you do good and fear Allāh - then indeed Allāh is ever, of what you do, Aware.
-
-**English (Yusuf Ali):** If a wife fears cruelty or desertion on her husband's part, there is no blame on them if they arrange an amicable settlement between themselves; and such settlement is best; even though men's souls are swayed by greed. But if ye do good and practise self-restraint, Allah is well-acquainted with all that ye do.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر کسی عورت کو اپنے خاوند کی طرف سے زیادتی یا بےرغبتی کا اندیشہ ہو تم میاں بیوی پر کچھ گناہ نہیں کہ آپس میں کسی قرارداد پر صلح کرلیں۔ اور صلح خوب (چیز) ہے اور طبیعتیں تو بخل کی طرف مائل ہوتی ہیں اور اگر تم نیکوکاری اور پرہیزگاری کرو گے تو خدا تمہارے سب کاموں سے واقف ہے
-
-[Open on Quran.com](https://quran.com/4/128)
-
 #### 5:50 · [[005 Al-Maidah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -193,24 +136,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** کیا یہ زمانہٴ جاہلیت کے حکم کے خواہش مند ہیں؟ اور جو یقین رکھتے ہیں ان کے لیے خدا سے اچھا حکم کس کا ہے؟
 
 [Open on Quran.com](https://quran.com/5/50)
-
-#### 5:93 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-لَيْسَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جُنَاحٌ فِيمَا طَعِمُوٓا۟ إِذَا مَا ٱتَّقَوا۟ وَّءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ثُمَّ ٱتَّقَوا۟ وَّءَامَنُوا۟ ثُمَّ ٱتَّقَوا۟ وَّأَحْسَنُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ
-
-</div>
-
-**Word in this verse:** `وَّأَحْسَنُوا۟ ۗ` — and do good
-
-**English (Sahih International):** There is not upon those who believe and do righteousness [any] blame concerning what they have eaten [in the past] if they [now] fear Allāh and believe and do righteous deeds, and then fear Allāh and believe, and then fear Allāh and do good; and Allāh loves the doers of good.
-
-**English (Yusuf Ali):** On those who believe and do deeds of righteousness there is no blame for what they ate (in the past), when they guard themselves from evil, and believe, and do deeds of righteousness,- (or) again, guard themselves from evil and believe,- (or) again, guard themselves from evil and do good. For Allah loveth those who do good.
-
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور نیک کام کرتے رہے ان پر ان چیزوں کا کچھ گناہ نہیں جو وہ کھا چکے جب کہ انہوں نے پرہیز کیا اور ایمان لائے اور نیک کام کیے پھر پرہیز کیا اور ایمان لائے پھر پرہیز کیا اور نیکو کاری کی اور خدا نیکو کاروں کو دوست رکھتا ہے
-
-[Open on Quran.com](https://quran.com/5/93)
 
 #### 6:152 · [[006 Al-Anam]]
 
@@ -230,5 +155,77 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/152)
 
-_…and **45** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 7:145 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَتَبْنَا لَهُۥ فِى ٱلْأَلْوَاحِ مِن كُلِّ شَىْءٍ مَّوْعِظَةً وَتَفْصِيلًا لِّكُلِّ شَىْءٍ فَخُذْهَا بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُوا۟ بِأَحْسَنِهَا ۚ سَأُو۟رِيكُمْ دَارَ ٱلْفَـٰسِقِينَ
+
+</div>
+
+**Word in this verse:** `بِأَحْسَنِهَا ۚ` — (the) best of it
+
+**English (Sahih International):** And We wrote for him on the tablets [something] of all things - instruction and explanation for all things, [saying], "Take them with determination and order your people to take the best of it. I will show you the home of the defiantly disobedient."
+
+**English (Yusuf Ali):** And We ordained laws for him in the tablets in all matters, both commanding and explaining all things, (and said): "Take and hold these with firmness, and enjoin thy people to hold fast by the best in the precepts: soon shall I show you the homes of the wicked,- (How they lie desolate)."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے (تورات) کی تختیوں میں ان کے لیے ہر قسم کی نصیحت اور ہر چیز کی تفصیل لکھ دی پھر (ارشاد فرمایا کہ) اسے زور سے پکڑے رہو اور اپنی قوم سے بھی کہہ دو کہ ان باتوں کو جو اس میں (مندرج ہیں اور) بہت بہتر ہیں پکڑے رہیں۔ میں عنقریب تم کو نافرمان لوگوں کا گھر دکھاؤں گا
+
+[Open on Quran.com](https://quran.com/7/145)
+
+#### 9:121 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا يُنفِقُونَ نَفَقَةً صَغِيرَةً وَلَا كَبِيرَةً وَلَا يَقْطَعُونَ وَادِيًا إِلَّا كُتِبَ لَهُمْ لِيَجْزِيَهُمُ ٱللَّهُ أَحْسَنَ مَا كَانُوا۟ يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `أَحْسَنَ` — the best
+
+**English (Sahih International):** Nor do they spend an expenditure, small or large, or cross a valley but that it is registered for them that Allāh may reward them for the best of what they were doing.
+
+**English (Yusuf Ali):** Nor could they spend anything (for the cause) - small or great- nor cut across a valley, but the deed is inscribed to their credit: that Allah may requite their deed with the best (possible reward).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اسی طرح) جو وہ خرچ کرتے ہیں تھوڑا یا بہت یا کوئی میدان طے کرتے ہیں تو یہ سب کچھ ان کے لیے (اعمال صالحہ) میں لکھ لیا جاتا ہے تاکہ خدا ان کو ان کے اعمال کا بہت اچھا بدلہ دے
+
+[Open on Quran.com](https://quran.com/9/121)
+
+#### 11:7 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُۥ عَلَى ٱلْمَآءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۗ وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ بَعْدِ ٱلْمَوْتِ لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَـٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `أَحْسَنُ` — (is) best
+
+**English (Sahih International):** And it is He who created the heavens and the earth in six days - and His Throne had been upon water - that He might test you as to which of you is best in deed. But if you say, "Indeed, you are resurrected after death," those who disbelieve will surely say, "This is not but obvious magic."
+
+**English (Yusuf Ali):** He it is Who created the heavens and the earth in six Days - and His Throne was over the waters - that He might try you, which of you is best in conduct. But if thou wert to say to them, "Ye shall indeed be raised up after death", the Unbelievers would be sure to say, "This is nothing but obvious sorcery!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے آسمانوں اور زمین کو چھ دن میں بنایا اور (اس وقت) اس کا عرش پانی پر تھا۔ (تمہارے پیدا کرنے سے) مقصود یہ ہے کہ وہ تم کو آزمائے کہ تم میں عمل کے لحاظ سے کون بہتر ہے اور اگر تم کہو کہ تم لوگ مرنے کے بعد (زندہ کرکے) اٹھائے جاؤ گے تو کافر کہہ دیں گے کہ یہ تو کھلا جادو ہے
+
+[Open on Quran.com](https://quran.com/11/7)
+
+#### 12:3 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَـٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَـٰفِلِينَ
+
+</div>
+
+**Word in this verse:** `أَحْسَنَ` — the best
+
+**English (Sahih International):** We relate to you, [O Muḥammad], the best of stories in what We have revealed to you of this Qur’ān although you were, before it, among the unaware.
+
+**English (Yusuf Ali):** We do relate unto thee the most beautiful of stories, in that We reveal to thee this (portion of the) Qur'an: before this, thou too was among those who knew it not.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) ہم اس قرآن کے ذریعے سے جو ہم نے تمہاری طرف بھیجا ہے تمہیں ایک نہایت اچھا قصہ سناتے ہیں اور تم اس سے پہلے بےخبر تھے
+
+[Open on Quran.com](https://quran.com/12/3)
+
+_…and **26** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

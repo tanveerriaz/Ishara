@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** withholds · **Root:** قبض
 
+
 ### Words (wikilinks — these create the graph)
 - [[qbD - withholds]]
 

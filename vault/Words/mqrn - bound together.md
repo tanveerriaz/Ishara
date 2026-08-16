@@ -2,8 +2,8 @@
 type: word
 lemma: "مُقَرَّن"
 slug: "mqrn - bound together"
-surah_count: 4
-ayah_count: 4
+surah_count: 3
+ayah_count: 3
 tags: [word, meaning]
 ---
 
@@ -19,11 +19,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **bound together** · Lemma **مُقَرَّن**
 
-### Surahs (4)
+### Surahs (3)
 - [[014 Ibrahim]]
 - [[025 Al-Furqan]]
 - [[038 Sad]]
-- [[043 Az-Zukhruf]]
 
 ## Verses (full text)
 
@@ -82,22 +81,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور اَوروں کو بھی جو زنجیروں میں جکڑے ہوئے تھے
 
 [Open on Quran.com](https://quran.com/38/38)
-
-#### 43:13 · [[043 Az-Zukhruf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-لِتَسْتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذْكُرُوا۟ نِعْمَةَ رَبِّكُمْ إِذَا ٱسْتَوَيْتُمْ عَلَيْهِ وَتَقُولُوا۟ سُبْحَـٰنَ ٱلَّذِى سَخَّرَ لَنَا هَـٰذَا وَمَا كُنَّا لَهُۥ مُقْرِنِينَ
-
-</div>
-
-**Word in this verse:** `مُقْرِنِينَ` — capable
-
-**English (Sahih International):** That you may settle yourselves upon their backs and then remember the favor of your Lord when you have settled upon them and say, "Exalted is He who has subjected this to us, and we could not have [otherwise] subdued it.
-
-**English (Yusuf Ali):** In order that ye may sit firm and square on their backs, and when so seated, ye may celebrate the (kind) favour of your Lord, and say, "Glory to Him Who has subjected these to our (use), for we could never have accomplished this (by ourselves),
-
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ تم ان کی پیٹھ پر چڑھ بیٹھو اور جب اس پر بیٹھ جاؤ پھر اپنے پروردگار کے احسان کو یاد کرو اور کہو کہ وہ (ذات) پاک ہے جس نے اس کو ہمارے زیر فرمان کر دیا اور ہم میں طاقت نہ تھی کہ اس کو بس میں کرلیتے
-
-[Open on Quran.com](https://quran.com/43/13)
 

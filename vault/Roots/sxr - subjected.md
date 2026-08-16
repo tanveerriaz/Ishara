@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** subjected · **Root:** سخر
 
+
 ### Words (wikilinks — these create the graph)
 - [[sxr - subjected]]
+- [[sxr - you ridicule]]
 - [[sxry - mockery]]
 
 ### Surahs where this root appears

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** she prepared · **Root:** عتد
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Etdt - she prepared]]
 

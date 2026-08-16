@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** claim · **Root:** زعم
 
+
 ### Words (wikilinks — these create the graph)
+- [[zEm - by claim]]
 - [[zEm - claim]]
 
 ### Surahs where this root appears

@@ -15,30 +15,30 @@ The Ascending Stairways · 44 ayahs
 ## Words in this surah (graph)
 
 - [[sA}l - ask]] — `سائِل` · ask
-- [[ylAq - they meet]] — `يُلاقُ` · they meet
-- [[<nsAn - man]] — `إِنسان` · man
-- [[$mAl - left]] — `شِمال` · left
-- [[wAqE - would fall]] — `واقِع` · would fall
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[qA}m - standing]] — `قائِم` · standing
+- [[Hmym - scalding water]] — `حَمِيم` · scalding water
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[allah - God]] — `الله` · God
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[EAd - transgressor]] — `عاد` · transgressor
-- [[qbl - before]] — `قَبْل` · before
-- [[wd - wished]] — `وَدَّ` · wished
-- [[$r - evil]] — `شَرّ` · evil
-- [[>rD - earth]] — `أَرْض` · earth
-- [[Elm - know]] — `عَلِمَ` · know
-- [[yTmE - hope]] — `يَطْمَعُ` · hope
-- [[*lp - humiliation]] — `ذِلَّة` · humiliation
-- [[bSr - vision]] — `بَصَر` · vision
-- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
-- [[mkrm - honored]] — `مُكْرَم` · honored
-- [[xA$E - humbled]] — `خاشِع` · humbled
-- [[xlq - creation]] — `خَلَقَ` · creation
+- [[nEym - delight]] — `نَعِيم` · delight
+- [[AwY - gave shelter]] — `آوَى` · gave shelter
 - [[$hAdp - witnessed]] — `شَهادَة` · witnessed
+- [[SAHbp - wife]] — `صاحِبَة` · wife
+- [[mlk - angels]] — `مَلَك` · angels
+- [[dEA - call]] — `دَعا` · call
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[HAfZ - guardians]] — `حافِظ` · guardians
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[>njY - we saved]] — `أَنجَى` · we saved
+- [[wrA' - behind]] — `وَراء` · behind
+- [[>x - brother]] — `أَخ` · brother
+- [[mAl - wealth]] — `مال` · wealth
+- [[>lf - thousand]] — `أَلْف` · thousand
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[Sbr - patient]] — `صَبَرَ` · patient
+- [[Elm - know]] — `عَلِمَ` · know
+- [[xAD - they engage]] — `خاضُ` · they engage
+- [[mkrm - honored]] — `مُكْرَم` · honored
+- [[bEyd - far]] — `بَعِيد` · far
+- [[mlkt - possess]] — `مَلَكَتْ` · possess
+- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
 
 ## Roots
 
@@ -80,7 +80,7 @@ The Ascending Stairways · 44 ayahs
 - [[dwm - as long as]]
 - [[dxl - enter]]
 - [[dyn - judgment]]
-- [[fSl - we explain]]
+- [[fSl - judgment]]
 - [[fdy - she ransoms]]
 - [[frj - chastity]]
 - [[grb - west]]

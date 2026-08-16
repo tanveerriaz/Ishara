@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** soul depart difficulty · **Root:** زهق
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

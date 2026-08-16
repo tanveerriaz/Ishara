@@ -3,7 +3,7 @@ type: word
 lemma: "ذُبِحَ"
 slug: "*bH - you slaughter"
 surah_count: 4
-ayah_count: 6
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -118,22 +118,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جب وہ ان کے ساتھ دوڑنے (کی عمر) کو پہنچا تو ابراہیم نے کہا کہ بیٹا میں خواب میں دیکھتا ہوں کہ (گویا) تم کو ذبح کر رہا ہوں تو تم سوچو کہ تمہارا کیا خیال ہے؟ انہوں نے کہا کہ ابا جو آپ کو حکم ہوا ہے وہی کیجیئے خدا نے چاہا تو آپ مجھے صابروں میں پایئے گا
 
 [Open on Quran.com](https://quran.com/37/102)
-
-#### 37:107 · [[037 As-Saffat]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَفَدَيْنَـٰهُ بِذِبْحٍ عَظِيمٍ
-
-</div>
-
-**Word in this verse:** `بِذِبْحٍ` — with a sacrifice
-
-**English (Sahih International):** And We ransomed him with a great sacrifice,
-
-**English (Yusuf Ali):** And We ransomed him with a momentous sacrifice:
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ایک بڑی قربانی کو ان کا فدیہ دیا
-
-[Open on Quran.com](https://quran.com/37/107)
 

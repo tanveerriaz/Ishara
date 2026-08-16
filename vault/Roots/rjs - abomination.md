@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** abomination · **Root:** رجس
 
+
 ### Words (wikilinks — these create the graph)
 - [[rjs - abomination]]
 

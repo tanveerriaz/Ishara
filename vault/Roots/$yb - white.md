@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** white · **Root:** شيب
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

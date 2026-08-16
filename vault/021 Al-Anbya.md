@@ -16,29 +16,29 @@ The Prophets · 112 ayahs
 
 - [[EAbd - worshippers]] — `عابِد` · worshippers
 - [[fAEl - doers]] — `فاعِل` · doers
-- [[ySf - they attribute]] — `يَصِفُ` · they attribute
 - [[mErD - turn away]] — `مُعْرِض` · turn away
-- [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[bArk - we blessed]] — `بارَكَ` · we blessed
-- [[>HSnt - guarded]] — `أَحْصَنَتْ` · guarded
-- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
-- [[tdry - i know]] — `تَدْرِي` · i know
-- [[gflp - heedlessness]] — `غَفْلَة` · heedlessness
-- [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
+- [[ySf - they attribute]] — `يَصِفُ` · they attribute
 - [[m$fq - fearful]] — `مُشْفِق` · fearful
-- [[hzw - ridicule]] — `هُزُو` · ridicule
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[mvqAl - weight]] — `مِثْقال` · weight
-- [[sbyl - way]] — `سَبِيل` · way
-- [[Tyr - birds]] — `طَيْر` · birds
-- [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[Hlm - dreams]] — `حُلُم` · dreams
-- [[b>s - punishment]] — `بَأْس` · punishment
-- [[Elm - know]] — `عَلِمَ` · know
-- [[bd> - originates]] — `بَدَأَ` · originates
-- [[mnE - prevented you]] — `مَنَعَ` · prevented you
-- [[ktb - prescribed]] — `كَتَبَ` · prescribed
-- [[nfx - will blown]] — `نَفَخَ` · will blown
+- [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
+- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
+- [[bArk - we blessed]] — `بارَكَ` · we blessed
+- [[sw' - evil 2]] — `سَوْء` · evil
+- [[>HSnt - guarded]] — `أَحْصَنَتْ` · guarded
+- [[tdry - i know]] — `تَدْرِي` · i know
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[gflp - heedlessness]] — `غَفْلَة` · heedlessness
+- [[EAlm - knower]] — `عالِم` · knower
+- [[Dr - adversity]] — `ضُرّ` · adversity
+- [[jsd - body]] — `جَسَد` · body
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[EbAdt - worship]] — `عِبادَت` · worship
+- [[dEA - call]] — `دَعا` · call
+- [[$Ahd - witnesses]] — `شاهِد` · witnesses
+- [[>Hs - perceived]] — `أَحَسَّ` · perceived
+- [[byn - between them]] — `بَيْن` · between them
+- [[>n$> - we produced]] — `أَنشَأَ` · we produced
+- [[brhAn - proof]] — `بُرْهان` · proof
+- [[>tY - comes them]] — `أَتَى` · comes them
 
 ## Roots
 
@@ -52,8 +52,8 @@ The Prophets · 112 ayahs
 - [[$ms - sun]]
 - [[$rr - evil]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*wq - taste]]
 - [[>*n - by permission]]
 - [[>bw - forefathers]]
@@ -83,7 +83,7 @@ The Prophets · 112 ayahs
 - [[Ekf - devoted]]
 - [[Elm - knowledge]]
 - [[Eml - do]]
-- [[Emr - life]]
+- [[Emr - inhabit build maintain flourish]]
 - [[End - near]]
 - [[Eql - use reason]]
 - [[Er$ - throne]]

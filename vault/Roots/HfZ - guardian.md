@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** guardian · **Root:** حفظ
 
+
 ### Words (wikilinks — these create the graph)
 - [[HAfZ - guardians]]
 - [[HfZ - guard]]
+- [[HfZ - guard 2]]
 - [[HfyZ - guardian]]
 - [[yHAfZ - guard strictly]]
 

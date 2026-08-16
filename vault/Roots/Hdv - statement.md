@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** statement · **Root:** حدث
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hdyv - statement]]
 - [[tHdv - narrate]]

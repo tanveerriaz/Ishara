@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** moving · **Root:** هزز
 
+
 ### Words (wikilinks — these create the graph)
 - [[Ahtzt - moving]]
 

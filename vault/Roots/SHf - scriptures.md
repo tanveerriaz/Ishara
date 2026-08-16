@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** scriptures · **Root:** صحف
 
+
 ### Words (wikilinks — these create the graph)
 - [[SHf - scriptures]]
 

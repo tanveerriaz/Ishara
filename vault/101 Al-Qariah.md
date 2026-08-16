@@ -15,17 +15,16 @@ The Calamity · 11 ayahs
 ## Words in this surah (graph)
 
 - [[qArEp - striking calamity]] — `قارِعَة` · striking calamity
-- [[nAr - fire]] — `نار` · fire
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[frA$ - couches]] — `فِراش` · couches
-- [[jbl - mountains]] — `جَبَل` · mountains
 - [[>m - mother]] — `أُمّ` · mother
 - [[vqlt - heavy]] — `ثَقُلَتْ` · heavy
-- [[myzAn - scales]] — `مِيزان` · scales
 - [[xft - light]] — `خَفَّتْ` · light
 - [[ywm - day]] — `يَوْم` · day
-- [[nAs - people]] — `ناس` · people
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[nAr - fire]] — `نار` · fire
 - [[rADyp - pleasant]] — `راضِيَة` · pleasant
+- [[myzAn - scales]] — `مِيزان` · scales
+- [[nAs - people]] — `ناس` · people
+- [[jbl - mountains]] — `جَبَل` · mountains
 - [[kAn - is]] — `كانَ` · is
 
 ## Roots

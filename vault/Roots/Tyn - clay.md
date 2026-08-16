@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** clay · **Root:** طين
 
+
 ### Words (wikilinks — these create the graph)
 - [[Tyn - clay]]
 

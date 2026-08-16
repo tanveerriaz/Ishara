@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** boy · **Root:** غلم
 
+
 ### Words (wikilinks — these create the graph)
 - [[glAm - boy]]
 

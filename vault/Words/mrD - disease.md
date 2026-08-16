@@ -2,8 +2,8 @@
 type: word
 lemma: "مَرَض"
 slug: "mrD - disease"
-surah_count: 10
-ayah_count: 13
+surah_count: 9
+ayah_count: 12
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **disease** · Lemma **مَرَض**
 
-### Surahs (10)
+### Surahs (9)
 - [[002 Al-Baqarah]]
 - [[005 Al-Maidah]]
 - [[008 Al-Anfal]]
 - [[009 At-Tawbah]]
 - [[022 Al-Hajj]]
 - [[024 An-Nur]]
-- [[026 Ash-Shuara]]
 - [[033 Al-Ahzab]]
 - [[047 Muhammad]]
 - [[074 Al-Muddaththir]]
@@ -143,24 +142,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/24/50)
 
-#### 26:80 · [[026 Ash-Shuara]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ
-
-</div>
-
-**Word in this verse:** `مَرِضْتُ` — I am ill
-
-**English (Sahih International):** And when I am ill, it is He who cures me
-
-**English (Yusuf Ali):** "And when I am ill, it is He Who cures me;
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب میں بیمار پڑتا ہوں تو مجھے شفا بخشتا ہے
-
-[Open on Quran.com](https://quran.com/26/80)
-
 #### 33:12 · [[033 Al-Ahzab]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -215,5 +196,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/33/60)
 
-_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 47:20 · [[047 Muhammad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌ ۖ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ وَذُكِرَ فِيهَا ٱلْقِتَالُ ۙ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَأَوْلَىٰ لَهُمْ
+
+</div>
+
+**Word in this verse:** `مَّرَضٌۭ` — (is) a disease
+
+**English (Sahih International):** Those who believe say, "Why has a sūrah not been sent down?" But when a precise sūrah is revealed and battle is mentioned therein, you see those in whose hearts is disease [i.e., hypocrisy] looking at you with a look of one overcome by death. And more appropriate for them [would have been]
+
+**English (Yusuf Ali):** Those who believe say, "Why is not a sura sent down (for us)?" But when a sura of basic or categorical meaning is revealed, and fighting is mentioned therein, thou wilt see those in whose hearts is a disease looking at thee with a look of one in swoon at the approach of death. But more fitting for them-
+
+**Urdu (Fatah Muhammad Jalandhari):** اور مومن لوگ کہتے ہیں کہ (جہاد کی) کوئی سورت کیوں نازل نہیں ہوتی؟ لیکن جب کوئی صاف معنوں کی سورت نازل ہو اور اس میں جہاد کا بیان ہو تو جن لوگوں کے دلوں میں (نفاق کا) مرض ہے تم ان کو دیکھو کہ تمہاری طرف اس طرح دیکھنے لگیں جس طرح کسی پر موت کی بےہوشی (طاری) ہو رہی ہو۔ سو ان کے لئے خرابی ہے
+
+[Open on Quran.com](https://quran.com/47/20)
+
+_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

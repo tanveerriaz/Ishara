@@ -11,12 +11,15 @@ tags: [root, meaning]
 
 **Sense:** high · **Root:** علو
 
+
 ### Words (wikilinks — these create the graph)
 - [[>ElY - highest]]
+- [[EAly - haughty]]
 - [[EAly - its upside]]
 - [[ElA - exalt yourselves]]
 - [[Elw - haughtiness]]
 - [[Ely - high]]
+- [[Ely - illiyin]]
 - [[tEAl - come]]
 - [[tEAlY - exalted he]]
 

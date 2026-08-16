@@ -2,8 +2,8 @@
 type: word
 lemma: "سَبَّحَ"
 slug: "sbH - glorify"
-surah_count: 34
-ayah_count: 42
+surah_count: 32
+ayah_count: 40
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **glorify** · Lemma **سَبَّحَ**
 
-### Surahs (34)
+### Surahs (32)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[007 Al-Araf]]
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/21/20)
 
-_…and **32** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **30** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -2,8 +2,8 @@
 type: word
 lemma: "دَأْب"
 slug: "d>b - like way"
-surah_count: 4
-ayah_count: 5
+surah_count: 3
+ayah_count: 4
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **like way** · Lemma **دَأْب**
 
-### Surahs (4)
+### Surahs (3)
 - [[003 Ali Imran]]
 - [[008 Al-Anfal]]
-- [[012 Yusuf]]
 - [[040 Ghafir]]
 
 ## Verses (full text)
@@ -82,24 +81,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جیسا حال فرعونیوں اور ان سے پہلے لوگوں کا (ہوا تھا ویسا ہی ان کا ہوا) انہوں نے اپنے پروردگار کی آیتوں کو جھٹلایا تو ہم نے ان کو ان کے گناہوں کے سبب ہلاک کر ڈالا اور فرعونیوں کو ڈبو دیا۔ اور وہ سب ظالم تھے
 
 [Open on Quran.com](https://quran.com/8/54)
-
-#### 12:47 · [[012 Yusuf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًا مِّمَّا تَأْكُلُونَ
-
-</div>
-
-**Word in this verse:** `دَأَبًۭا` — as usual
-
-**English (Sahih International):** [Joseph] said, "You will plant for seven years consecutively; and what you harvest leave in its spikes, except a little from which you will eat.
-
-**English (Yusuf Ali):** (Joseph) said: "For seven years shall ye diligently sow as is your wont: and the harvests that ye reap, ye shall leave them in the ear,- except a little, of which ye shall eat.
-
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ تم لوگ سات سال متواتر کھیتی کرتے رہوگے تو جو (غلّہ) کاٹو تو تھوڑے سے غلّے کے سوا جو کھانے میں آئے اسے خوشوں میں ہی رہنے دینا
-
-[Open on Quran.com](https://quran.com/12/47)
 
 #### 40:31 · [[040 Ghafir]]
 

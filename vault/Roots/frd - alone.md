@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** alone · **Root:** فرد
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

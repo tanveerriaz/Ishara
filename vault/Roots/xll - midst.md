@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** midst · **Root:** خلل
 
+
 ### Words (wikilinks — these create the graph)
 - [[xlAl - midst]]
 - [[xlyl - as friend]]

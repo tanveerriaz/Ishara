@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "رَزَقَ"
+lemma: "رِزْق"
 slug: "rzq - provision"
-surah_count: 41
-ayah_count: 105
+surah_count: 32
+ayah_count: 53
 tags: [word, meaning]
 ---
 
@@ -17,19 +17,15 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[rzq - provision]]
 
 ### Meaning
-**provision** · Lemma **رَزَقَ**
+**provision** · Lemma **رِزْق**
 
-### Surahs (41)
+### Surahs (32)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
-- [[004 An-Nisa]]
-- [[005 Al-Maidah]]
-- [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[008 Al-Anfal]]
 - [[010 Yunus]]
 - [[011 Hud]]
-- [[012 Yusuf]]
 - [[013 Ar-Rad]]
 - [[014 Ibrahim]]
 - [[016 An-Nahl]]
@@ -39,34 +35,20 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[020 Taha]]
 - [[022 Al-Hajj]]
 - [[024 An-Nur]]
-- [[027 An-Naml]]
 - [[028 Al-Qasas]]
 - [[029 Al-Ankabut]]
 - [[030 Ar-Rum]]
-- [[032 As-Sajdah]]
 - [[033 Al-Ahzab]]
+- [[034 Saba]]
+- [[037 As-Saffat]]
+- [[038 Sad]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[042 Ash-Shuraa]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:3 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ
-
-</div>
-
-**Word in this verse:** `رَزَقْنَـٰهُمْ` — We have provided them
-
-**English (Sahih International):** Who believe in the unseen, establish prayer, and spend out of what We have provided for them,
-
-**English (Yusuf Ali):** Who believe in the Unseen, are steadfast in prayer, and spend out of what We have provided for them;
-
-**Urdu (Fatah Muhammad Jalandhari):** جو غیب پر ایمان لاتے اور آداب کے ساتھ نماز پڑھتے اور جو کچھ ہم نے ان کو عطا فرمایا ہے اس میں سے خرچ کرتے ہیں
-
-[Open on Quran.com](https://quran.com/2/3)
 
 #### 2:22 · [[002 Al-Baqarah]]
 
@@ -94,7 +76,7 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 </div>
 
-**Word in this verse:** `رُزِقُوا۟` — they are provided
+**Word in this verse:** `رِّزْقًۭا ۙ` — (as) provision
 
 **English (Sahih International):** And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow. Whenever they are provided with a provision of fruit therefrom, they will say, "This is what we were provided with before." And it is given to them in likeness. And they will have therein purified spouses, and they will abide therein eternally.
 
@@ -103,24 +85,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور نیک عمل کرتے رہے، ان کو خوشخبری سنا دو کہ ان کے لیے (نعمت کے) باغ ہیں، جن کے نیچے نہریں بہہ رہی ہیں۔ جب انہیں ان میں سے کسی قسم کا میوہ کھانے کو دیا جائے گا تو کہیں گے، یہ تو وہی ہے جو ہم کو پہلے دیا گیا تھا۔ اور ان کو ایک دوسرے کے ہم شکل میوے دیئے جائیں گے اور وہاں ان کے لیے پاک بیویاں ہوں گی اور وہ بہشتوں میں ہمیشہ رہیں گے
 
 [Open on Quran.com](https://quran.com/2/25)
-
-#### 2:57 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ ۖ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
-
-</div>
-
-**Word in this verse:** `رَزَقْنَـٰكُمْ ۖ` — We have provided you
-
-**English (Sahih International):** And We shaded you with clouds and sent down to you manna and quails, [saying], "Eat from the good things with which We have provided you." And they wronged Us not - but they were [only] wronging themselves.
-
-**English (Yusuf Ali):** And We gave you the shade of clouds and sent down to you Manna and quails, saying: "Eat of the good things We have provided for you:" (But they rebelled); to us they did no harm, but they harmed their own souls.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور بادل کا تم پر سایہ کئے رکھا اور (تمہارے لیے) من و سلویٰ اتارتے رہے کہ جو پاکیزہ چیزیں ہم نے تم کو عطا فرمائی ہیں، ان کو کھاؤ (پیو) مگر تمہارے بزرگوں نے ان نعمتوں کی کچھ قدر نہ جانی (اور) وہ ہمارا کچھ نہیں بگاڑتے تھے بلکہ اپنا ہی نقصان کرتے تھے
-
-[Open on Quran.com](https://quran.com/2/57)
 
 #### 2:60 · [[002 Al-Baqarah]]
 
@@ -140,60 +104,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/60)
 
-#### 2:126 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّ ٱجْعَلْ هَـٰذَا بَلَدًا ءَامِنًا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۖ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًا ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ ۖ وَبِئْسَ ٱلْمَصِيرُ
-
-</div>
-
-**Word in this verse:** `وَٱرْزُقْ` — and provide
-
-**English (Sahih International):** And [mention] when Abraham said, "My Lord, make this a secure city and provide its people with fruits - whoever of them believes in Allāh and the Last Day." [Allāh] said, "And whoever disbelieves - I will grant him enjoyment for a little; then I will force him to the punishment of the Fire, and wretched is the destination."
-
-**English (Yusuf Ali):** And remember Abraham said: "My Lord, make this a City of Peace, and feed its people with fruits,-such of them as believe in Allah and the Last Day." He said: "(Yea), and such as reject Faith,-for a while will I grant them their pleasure, but will soon drive them to the torment of Fire,- an evil destination (indeed)!"
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ابراہیم نے دعا کی کہ اے پروردگار، اس جگہ کو امن کا شہر بنا اور اس کے رہنے والوں میں سے جو خدا پر اور روزِ آخرت پر ایمان لائیں، ان کے کھانے کو میوے عطا کر، تو خدا نے فرمایا کہ جو کافر ہوگا، میں اس کو بھی کسی قدر متمتع کروں گا، (مگر) پھر اس کو (عذاب) دوزخ کے (بھگتنے کے) لیے ناچار کردوں گا، اور وہ بری جگہ ہے
-
-[Open on Quran.com](https://quran.com/2/126)
-
-#### 2:172 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ
-
-</div>
-
-**Word in this verse:** `رَزَقْنَـٰكُمْ` — We have provided you
-
-**English (Sahih International):** O you who have believed, eat from the good [i.e., lawful] things which We have provided for you and be grateful to Allāh if it is [indeed] Him that you worship.
-
-**English (Yusuf Ali):** O ye who believe! Eat of the good things that We have provided for you, and be grateful to Allah, if it is Him ye worship.
-
-**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان جو پاکیزہ چیزیں ہم نے تم کو عطا فرمائیں ہیں ان کو کھاؤ اور اگر خدا ہی کے بندے ہو تو اس (کی نعمتوں) کا شکر بھی ادا کرو
-
-[Open on Quran.com](https://quran.com/2/172)
-
-#### 2:212 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-زُيِّنَ لِلَّذِينَ كَفَرُوا۟ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَيَسْخَرُونَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ ۘ وَٱلَّذِينَ ٱتَّقَوْا۟ فَوْقَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ ۗ وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
-
-</div>
-
-**Word in this verse:** `يَرْزُقُ` — provides
-
-**English (Sahih International):** Beautified for those who disbelieve is the life of this world, and they ridicule those who believe. But those who fear Allāh are above them on the Day of Resurrection. And Allāh gives provision to whom He wills without account.
-
-**English (Yusuf Ali):** The life of this world is alluring to those who reject faith, and they scoff at those who believe. But the righteous will be above them on the Day of Resurrection; for Allah bestows His abundance without measure on whom He will.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جو کافر ہیں ان کے لئے دنیا کی زندگی خوشنما کر دی گئی ہے اور وہ مومنوں سے تمسخر کرتے ہیں لیکن جو پرہیز گار ہیں وہ قیامت کے دن ان پر غالب ہوں گے اور خدا جس کو چاہتا ہے بےشمار رزق دیتا ہے
-
-[Open on Quran.com](https://quran.com/2/212)
-
 #### 2:233 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -212,23 +122,113 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/233)
 
-#### 2:254 · [[002 Al-Baqarah]]
+#### 3:37 · [[003 Ali Imran]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَنفِقُوا۟ مِمَّا رَزَقْنَـٰكُم مِّن قَبْلِ أَن يَأْتِىَ يَوْمٌ لَّا بَيْعٌ فِيهِ وَلَا خُلَّةٌ وَلَا شَفَـٰعَةٌ ۗ وَٱلْكَـٰفِرُونَ هُمُ ٱلظَّـٰلِمُونَ
+فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا ۖ كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا ۖ قَالَ يَـٰمَرْيَمُ أَنَّىٰ لَكِ هَـٰذَا ۖ قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ ۖ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
 
 </div>
 
-**Word in this verse:** `رَزَقْنَـٰكُم` — We (have) provided you
+**Word in this verse:** `رِزْقًۭا ۖ` — provision
 
-**English (Sahih International):** O you who have believed, spend from that which We have provided for you before there comes a Day in which there is no exchange [i.e., ransom] and no friendship and no intercession. And the disbelievers - they are the wrongdoers.
+**English (Sahih International):** So her Lord accepted her with good acceptance and caused her to grow in a good manner and put her in the care of Zechariah. Every time Zechariah entered upon her in the prayer chamber, he found with her provision. He said, "O Mary, from where is this [coming] to you?" She said, "It is from Allāh. Indeed, Allāh provides for whom He wills without account."
 
-**English (Yusuf Ali):** O ye who believe! Spend out of (the bounties) We have provided for you, before the Day comes when no bargaining (Will avail), nor friendship nor intercession. Those who reject Faith they are the wrong-doers.
+**English (Yusuf Ali):** Right graciously did her Lord accept her: He made her grow in purity and beauty: To the care of Zakariya was she assigned. Every time that he entered (Her) chamber to see her, He found her supplied with sustenance. He said: "O Mary! Whence (comes) this to you?" She said: "From Allah: for Allah Provides sustenance to whom He pleases without measure."
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو جو (مال) ہم نے تم کو دیا ہے اس میں سے اس دن کے آنے سے پہلے پہلے خرچ کرلو جس میں نہ (اعمال کا) سودا ہو اور نہ دوستی اور سفارش ہو سکے اور کفر کرنے والے لوگ ظالم ہیں
+**Urdu (Fatah Muhammad Jalandhari):** تو پروردگار نے اس کو پسندیدگی کے ساتھ قبول فرمایا اور اسے اچھی طرح پرورش کیا اور زکریا کو اس کا متکفل بنایا زکریا جب کبھی عبادت گاہ میں اس کے پاس جاتے تو اس کے پاس کھانا پاتے (یہ کیفیت دیکھ کر ایک دن مریم سے) پوچھنے لگے کہ مریم یہ کھانا تمہارے پاس کہاں سے آتا ہے وہ بولیں خدا کے ہاں سے (آتا ہے) بیشک خدا جسے چاہتا ہے بے شمار رزق دیتا ہے
 
-[Open on Quran.com](https://quran.com/2/254)
+[Open on Quran.com](https://quran.com/3/37)
 
-_…and **95** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 7:32 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ مَنْ حَرَّمَ زِينَةَ ٱللَّهِ ٱلَّتِىٓ أَخْرَجَ لِعِبَادِهِۦ وَٱلطَّيِّبَـٰتِ مِنَ ٱلرِّزْقِ ۚ قُلْ هِىَ لِلَّذِينَ ءَامَنُوا۟ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا خَالِصَةً يَوْمَ ٱلْقِيَـٰمَةِ ۗ كَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `ٱلرِّزْقِ ۚ` — sustenance
+
+**English (Sahih International):** Say, "Who has forbidden the adornment of [i.e., from] Allāh which He has produced for His servants and the good [lawful] things of provision?" Say, "They are for those who believed during the life of this world, exclusively [for them] on the Day of Resurrection." Thus do We detail the verses for a people who know.
+
+**English (Yusuf Ali):** Say: Who hath forbidden the beautiful (gifts) of Allah, which He hath produced for His servants, and the things, clean and pure, (which He hath provided) for sustenance? Say: They are, in the life of this world, for those who believe, (and) purely for them on the Day of Judgment. Thus do We explain the signs in detail for those who understand.
+
+**Urdu (Fatah Muhammad Jalandhari):** پوچھو تو کہ جو زینت (وآرائش) اور کھانے (پینے) کی پاکیزہ چیزیں خدا نے اپنے بندوں کے لیے پیدا کی ہیں ان کو حرام کس نے کیا ہے؟ کہہ دو کہ یہ چیزیں دنیا کی زندگی میں ایمان والوں کے لیے ہیں اور قیامت کے دن خاص ان ہی کا حصہ ہوں گی۔ اسی طرح خدا اپنی آیتیں سمجھنے والوں کے لیے کھول کھول کر بیان فرماتا ہے
+
+[Open on Quran.com](https://quran.com/7/32)
+
+#### 8:4 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أُو۟لَـٰٓئِكَ هُمُ ٱلْمُؤْمِنُونَ حَقًّا ۚ لَّهُمْ دَرَجَـٰتٌ عِندَ رَبِّهِمْ وَمَغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
+
+</div>
+
+**Word in this verse:** `وَرِزْقٌۭ` — and a provision
+
+**English (Sahih International):** Those are the believers, truly. For them are degrees [of high position] with their Lord and forgiveness and noble provision.
+
+**English (Yusuf Ali):** Such in truth are the believers: they have grades of dignity with their Lord, and forgiveness, and generous sustenance:
+
+**Urdu (Fatah Muhammad Jalandhari):** یہی سچے مومن ہیں اور ان کے لیے پروردگار کے ہاں (بڑے بڑے درجے) اور بخشش اور عزت کی روزی ہے
+
+[Open on Quran.com](https://quran.com/8/4)
+
+#### 8:74 · [[008 Al-Anfal]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَوا۟ وَّنَصَرُوٓا۟ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُؤْمِنُونَ حَقًّا ۚ لَّهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ
+
+</div>
+
+**Word in this verse:** `وَرِزْقٌۭ` — and a provision
+
+**English (Sahih International):** But those who have believed and emigrated and fought in the cause of Allāh and those who gave shelter and aided - it is they who are the believers, truly. For them is forgiveness and noble provision.
+
+**English (Yusuf Ali):** Those who believe, and adopt exile, and fight for the Faith, in the cause of Allah as well as those who give (them) asylum and aid,- these are (all) in very truth the Believers: for them is the forgiveness of sins and a provision most generous.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ ایمان لائے اور وطن سے ہجرت کر گئے اور خدا کی راہ میں لڑائیاں کرتے رہے اور جنہوں نے (ہجرت کرنے والوں کو) جگہ دی اور ان کی مدد کی۔ یہی لوگ سچے مسلمان ہیں۔ ان کے لیے (خدا کے ہاں) بخشش اور عزت کی روزی ہے
+
+[Open on Quran.com](https://quran.com/8/74)
+
+#### 10:59 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ أَرَءَيْتُم مَّآ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزْقٍ فَجَعَلْتُم مِّنْهُ حَرَامًا وَحَلَـٰلًا قُلْ ءَآللَّهُ أَذِنَ لَكُمْ ۖ أَمْ عَلَى ٱللَّهِ تَفْتَرُونَ
+
+</div>
+
+**Word in this verse:** `رِّزْقٍۢ` — (the) provision
+
+**English (Sahih International):** Say, "Have you seen what Allāh has sent down to you of provision of which you have made [some] lawful and [some] unlawful?" Say, "Has Allāh permitted you [to do so], or do you invent [something] about Allāh?"
+
+**English (Yusuf Ali):** Say: "See ye what things Allah hath sent down to you for sustenance? Yet ye hold forbidden some things thereof and (some things) lawful." Say: "Hath Allah indeed permitted you, or do ye invent (things) to attribute to Allah?"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ بھلا دیکھو تو خدا نے تمھارے لئے جو رزق نازل فرمایا تو تم نے اس میں سے (بعض کو) حرام ٹھہرایا اور (بعض کو) حلال (ان سے) پوچھو کیا خدا نے تم کو اس کا حکم دیا ہے یا تم خدا پر افتراء کرتے ہو
+
+[Open on Quran.com](https://quran.com/10/59)
+
+#### 11:6 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا ۚ كُلٌّ فِى كِتَـٰبٍ مُّبِينٍ
+
+</div>
+
+**Word in this verse:** `رِزْقُهَا` — (is) its provision
+
+**English (Sahih International):** And there is no creature on earth but that upon Allāh is its provision, and He knows its place of dwelling and place of storage. All is in a clear register.
+
+**English (Yusuf Ali):** There is no moving creature on earth but its sustenance dependeth on Allah: He knoweth the time and place of its definite abode and its temporary deposit: All is in a clear Record.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور زمین پر کوئی چلنے پھرنے والا نہیں مگر اس کا رزق خدا کے ذمے ہے وہ جہاں رہتا ہے، اسے بھی جانتا ہے اور جہاں سونپا جاتا ہے اسے بھی۔ یہ سب کچھ کتاب روشن میں (لکھا ہوا) ہے
+
+[Open on Quran.com](https://quran.com/11/6)
+
+_…and **43** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

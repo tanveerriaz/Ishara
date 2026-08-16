@@ -16,29 +16,29 @@ The Repentance · 129 ayahs
 
 - [[Hlf - they swear]] — `حَلَفْ` · they swear
 - [[>ErAb - bedouins]] — `أَعْراب` · bedouins
+- [[mrp - time]] — `مَرَّة` · time
 - [[Ast>*n - ask permission]] — `اسْتَأْذَنَ` · ask permission
 - [[nfr - go forth]] — `نَفَرَ` · go forth
-- [[krh - unwillingly]] — `كُرْه` · unwillingly
-- [[mrp - time]] — `مَرَّة` · time
-- [[EAhd - they took]] — `عاهَدَ` · they took
-- [[swrp - surah]] — `سُورَة` · surah
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[qEd - sit]] — `قَعَدَ` · sit
 - [[fwz - success]] — `فَوْز` · success
-- [[trbS - waiting]] — `تَرَبُّص` · waiting
-- [[tbyn - became clear]] — `تَبَيَّنَ` · became clear
+- [[Sdqp - charities]] — `صَدَقَة` · charities
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[swrp - surah]] — `سُورَة` · surah
+- [[qEd - sit]] — `قَعَدَ` · sit
+- [[krh - dislike it]] — `كَرِهَ` · dislike it
+- [[EAhd - they took]] — `عاهَدَ` · they took
+- [[>Hq - more worthy]] — `أَحَقّ` · more worthy
 - [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
 - [[mnkr - wrong]] — `مُنكَر` · wrong
-- [[Edp - number]] — `عِدَّة` · number
-- [[jAhd - strive]] — `جاهَدَ` · strive
-- [[rDwAn - pleasure]] — `رِضْوان` · pleasure
-- [[Sdqp - charities]] — `صَدَقَة` · charities
-- [[>fwAh - mouths]] — `أَفْواه` · mouths
 - [[rDy - they pleased]] — `رَضِيَ` · they pleased
+- [[trbS - so wait]] — `تَرَبَّصْ` · so wait
+- [[rDwAn - pleasure]] — `رِضْوان` · pleasure
+- [[>Ed - prepared]] — `أَعَدَّ` · prepared
 - [[yfqh - understand]] — `يَفْقَهُ` · understand
-- [[kA*b - liars]] — `كاذِب` · liars
+- [[EAm - years]] — `عام` · years
+- [[>*n - permits]] — `أَذِنَ` · permits
 - [[>Ejb - pleases you]] — `أَعْجَبَ` · pleases you
-- [[>Hq - more worthy]] — `أَحَقّ` · more worthy
+- [[b$r - give tidings]] — `بُشِّرَ` · give tidings
+- [[>fwAh - mouths]] — `أَفْواه` · mouths
 
 ## Roots
 
@@ -50,8 +50,8 @@ The Repentance · 129 ayahs
 - [[$rk - polytheists]]
 - [[$ry - exchange]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*mm - disgraced]]
 - [[*nb - sin]]
 - [[*wq - taste]]

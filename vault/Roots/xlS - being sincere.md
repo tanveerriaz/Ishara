@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** being sincere · **Root:** خلص
 
+
 ### Words (wikilinks — these create the graph)
 - [[mxlS - being sincere]]
+- [[mxlS - chosen ones]]
 - [[xAlSp - exclusively]]
 
 ### Surahs where this root appears

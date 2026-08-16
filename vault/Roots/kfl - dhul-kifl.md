@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** dhul-kifl · **Root:** كفل
 
+
 ### Words (wikilinks — these create the graph)
 - [[kfl - dhul-kifl]]
 - [[ykfl - takes charge]]

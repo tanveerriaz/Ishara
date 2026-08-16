@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** take acquire fire · **Root:** قبس
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

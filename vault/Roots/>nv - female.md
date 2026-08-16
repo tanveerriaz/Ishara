@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** female · **Root:** أنث
 
+
 ### Words (wikilinks — these create the graph)
 - [[>nvY - female]]
 

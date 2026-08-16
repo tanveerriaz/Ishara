@@ -14,31 +14,31 @@ The Mutual Disillusion · 18 ayahs
 
 ## Words in this surah (graph)
 
-- [[>bdA - ever]] — `أَبَدًا` · ever
 - [[zEm - claim]] — `زَعَمَ` · claim
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[wbAl - bad consequence]] — `وَبال` · bad consequence
 - [[>TAE - obey]] — `أَطاعَ` · obey
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[allah - God]] — `الله` · God
-- [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[Hlym - forbearing]] — `حَلِيم` · forbearing
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[qbl - before]] — `قَبْل` · before
-- [[>qrD - you loan]] — `أَقْرَضُ` · you loan
-- [[>Hsn - best]] — `أَحْسَن` · best
-- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[$hAdp - witnessed]] — `شَهادَة` · witnessed
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[mSyr - destination]] — `مَصِير` · destination
 - [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[ySfH - overlook]] — `يَصْفَحُ` · overlook
+- [[>Hsn - do good]] — `أَحْسَنَ` · do good
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[>rD - earth]] — `أَرْض` · earth
-- [[nwr - light]] — `نُور` · light
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[mAl - wealth]] — `مال` · wealth
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[EfA - pardon]] — `عَفا` · pardon
+- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[Edw - enemy]] — `عَدُوّ` · enemy
+- [[yH*r - beware]] — `يَحْذَرُ` · beware
 - [[Elm - know]] — `عَلِمَ` · know
-- [[>SAb - befalls you]] — `أَصابَ` · befalls you
-- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[SAlH - righteous]] — `صالِح` · righteous
+- [[mlk - dominion]] — `مُلْك` · dominion
 
 ## Roots
 
@@ -67,7 +67,7 @@ The Mutual Disillusion · 18 ayahs
 - [[Eml - do]]
 - [[End - near]]
 - [[Ezz - all-mighty]]
-- [[H*r - warns you]]
+- [[H*r - beware]]
 - [[Hkm - all-wise]]
 - [[Hlm - forbearing]]
 - [[Hmd - praise]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** half · **Root:** نصف
 
+
 ### Words (wikilinks — these create the graph)
 - [[nSf - half]]
 

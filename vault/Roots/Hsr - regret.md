@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** regret · **Root:** حسر
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hsrp - regret]]
 

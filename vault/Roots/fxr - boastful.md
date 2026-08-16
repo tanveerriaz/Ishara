@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** boastful · **Root:** فخر
 
+
 ### Words (wikilinks — these create the graph)
 - [[fxwr - boastful]]
 

@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "ظَنَّ"
+lemma: "ظَنّ"
 slug: "Zn - assumption"
-surah_count: 32
-ayah_count: 57
+surah_count: 13
+ayah_count: 18
 tags: [word, meaning]
 ---
 
@@ -17,110 +17,26 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[Znn - assumption]]
 
 ### Meaning
-**assumption** · Lemma **ظَنَّ**
+**assumption** · Lemma **ظَنّ**
 
-### Surahs (32)
-- [[002 Al-Baqarah]]
+### Surahs (13)
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
 - [[006 Al-Anam]]
-- [[007 Al-Araf]]
-- [[009 At-Tawbah]]
 - [[010 Yunus]]
-- [[011 Hud]]
-- [[012 Yusuf]]
-- [[017 Al-Isra]]
-- [[018 Al-Kahf]]
-- [[021 Al-Anbya]]
-- [[022 Al-Hajj]]
-- [[024 An-Nur]]
-- [[026 Ash-Shuara]]
-- [[028 Al-Qasas]]
 - [[033 Al-Ahzab]]
 - [[034 Saba]]
 - [[037 As-Saffat]]
 - [[038 Sad]]
-- [[040 Ghafir]]
 - [[041 Fussilat]]
 - [[045 Al-Jathiyah]]
 - [[048 Al-Fath]]
 - [[049 Al-Hujurat]]
+- [[053 An-Najm]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:46 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَٰجِعُونَ
-
-</div>
-
-**Word in this verse:** `يَظُنُّونَ` — believe
-
-**English (Sahih International):** Who are certain that they will meet their Lord and that they will return to Him.
-
-**English (Yusuf Ali):** Who bear in mind the certainty that they are to meet their Lord, and that they are to return to Him.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جو یقین کئے ہوئے ہیں کہ وہ اپنے پروردگار سے ملنے والے ہیں اور اس کی طرف لوٹ کر جانے والے ہیں
-
-[Open on Quran.com](https://quran.com/2/46)
-
-#### 2:78 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَـٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ
-
-</div>
-
-**Word in this verse:** `يَظُنُّونَ` — guess
-
-**English (Sahih International):** And among them are unlettered ones who do not know the Scripture except [indulgement in] wishful thinking, but they are only assuming.
-
-**English (Yusuf Ali):** And there are among them illiterates, who know not the Book, but (see therein their own) desires, and they do nothing but conjecture.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور بعض ان میں ان پڑھ ہیں کہ اپنے باطل خیالات کے سوا (خدا کی) کتاب سے واقف ہی نہیں اور وہ صرف ظن سے کام لیتے ہیں
-
-[Open on Quran.com](https://quran.com/2/78)
-
-#### 2:230 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَإِن طَلَّقَهَا فَلَا تَحِلُّ لَهُۥ مِنۢ بَعْدُ حَتَّىٰ تَنكِحَ زَوْجًا غَيْرَهُۥ ۗ فَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يَتَرَاجَعَآ إِن ظَنَّآ أَن يُقِيمَا حُدُودَ ٱللَّهِ ۗ وَتِلْكَ حُدُودُ ٱللَّهِ يُبَيِّنُهَا لِقَوْمٍ يَعْلَمُونَ
-
-</div>
-
-**Word in this verse:** `ظَنَّآ` — they believe
-
-**English (Sahih International):** And if he has divorced her [for the third time], then she is not lawful to him afterward until [after] she marries a husband other than him. And if he [i.e., the latter husband] divorces her [or dies], there is no blame upon them [i.e., the woman and her former husband] for returning to each other if they think that they can keep [within] the limits of Allāh. These are the limits of Allāh, which He makes clear to a people who know [i.e.,understand].
-
-**English (Yusuf Ali):** So if a husband divorces his wife (irrevocably), He cannot, after that, re-marry her until after she has married another husband and He has divorced her. In that case there is no blame on either of them if they re-unite, provided they feel that they can keep the limits ordained by Allah. Such are the limits ordained by Allah, which He makes plain to those who understand.
-
-**Urdu (Fatah Muhammad Jalandhari):** پھر اگر شوہر (دو طلاقوں کے بعد تیسری) طلاق عورت کو دے دے تو اس کے بعد جب تک عورت کسی دوسرے شخص سے نکاح نہ کرلے اس (پہلے شوہر) پر حلال نہ ہوگی۔ ہاں اگر دوسرا خاوند بھی طلاق دے دے اورعورت اور پہلا خاوند پھر ایک دوسرے کی طرف رجوع کرلیں تو ان پر کچھ گناہ نہیں بشرطیکہ دونوں یقین کریں کہ خدا کی حدوں کو قائم رکھ سکیں گے اور یہ خدا کی حدیں ہیں ان کو وہ ان لوگوں کے لئے بیان فرماتا ہے جو دانش رکھتے ہیں
-
-[Open on Quran.com](https://quran.com/2/230)
-
-#### 2:249 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ
-
-</div>
-
-**Word in this verse:** `يَظُنُّونَ` — were certain
-
-**English (Sahih International):** And when Saul went forth with the soldiers, he said, "Indeed, Allāh will be testing you with a river. So whoever drinks from it is not of me, and whoever does not taste it is indeed of me, excepting one who takes [from it] in the hollow of his hand." But they drank from it, except a [very] few of them. Then when he had crossed it along with those who believed with him, they said, "There is no power for us today against Goliath and his soldiers." But those who were certain that they would meet Allāh said, "How many a small company has overcome a large company by permission of Allāh. And Allāh is with the patient."
-
-**English (Yusuf Ali):** When Talut set forth with the armies, he said: "Allah will test you at the stream: if any drinks of its water, He goes not with my army: Only those who taste not of it go with me: A mere sip out of the hand is excused." but they all drank of it, except a few. When they crossed the river,- He and the faithful ones with him,- they said: "This day We cannot cope with Goliath and his forces." but those who were convinced that they must meet Allah, said: "How oft, by Allah's will, Hath a small force vanquished a big one? Allah is with those who steadfastly persevere."
-
-**Urdu (Fatah Muhammad Jalandhari):** غرض جب طالوت فوجیں لے کر روانہ ہوا تو اس نے (ان سے) کہا کہ خدا ایک نہر سے تمہاری آزمائش کرنے والا ہے۔ جو شخص اس میں سے پانی پی لے گا (اس کی نسبت تصور کیا جائے گا کہ) وہ میرا نہیں۔ اور جو نہ پئے گا وہ (سمجھا جائے گا کہ) میرا ہے۔ ہاں اگر کوئی ہاتھ سے چلو بھر پانی پی لے (تو خیر۔ جب وہ لوگ نہر پر پہنچے) تو چند شخصوں کے سوا سب نے پانی پی لیا۔ پھر جب طالوت اور مومن لوگ جو اس کے ساتھ تھے نہر کے پار ہوگئے۔ تو کہنے لگے کہ آج ہم میں جالوت اور اس کے لشکر سے مقابلہ کرنے کی طاقت نہیں۔ جو لوگ یقین رکھتے تھے کہ ان کو خدا کے روبرو حاضر ہونا ہے وہ کہنے لگے کہ بسااوقات تھوڑی سی جماعت نے خدا کے حکم سے بڑی جماعت پر فتح حاصل کی ہے اور خدا استقلال رکھنے والوں کے ساتھ ہے
-
-[Open on Quran.com](https://quran.com/2/249)
 
 #### 3:154 · [[003 Ali Imran]]
 
@@ -130,7 +46,7 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 </div>
 
-**Word in this verse:** `يَظُنُّونَ` — thinking
+**Word in this verse:** `ظَنَّ` — (the) thought
 
 **English (Sahih International):** Then after distress, He sent down upon you security [in the form of] drowsiness, overcoming a faction of you, while another faction worried about themselves, thinking of Allāh other than the truth - the thought of ignorance, saying, "Is there anything for us [to have done] in this matter?" Say, "Indeed, the matter belongs completely to Allāh." They conceal within themselves what they will not reveal to you. They say, "If there was anything we could have done in the matter, we [i.e., some of us] would not have been killed right here." Say, "Even if you had been inside your houses, those decreed to be killed would have come out to their death beds." [It was] so that Allāh might test what is in your breasts and purify what is in your hearts. And Allāh is Knowing of that within the breasts.
 
@@ -194,41 +110,113 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/148)
 
-#### 7:66 · [[007 Al-Araf]]
+#### 10:36 · [[010 Yunus]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-قَالَ ٱلْمَلَأُ ٱلَّذِينَ كَفَرُوا۟ مِن قَوْمِهِۦٓ إِنَّا لَنَرَىٰكَ فِى سَفَاهَةٍ وَإِنَّا لَنَظُنُّكَ مِنَ ٱلْكَـٰذِبِينَ
+وَمَا يَتَّبِعُ أَكْثَرُهُمْ إِلَّا ظَنًّا ۚ إِنَّ ٱلظَّنَّ لَا يُغْنِى مِنَ ٱلْحَقِّ شَيْـًٔا ۚ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا يَفْعَلُونَ
 
 </div>
 
-**Word in this verse:** `لَنَظُنُّكَ` — [we] think you
+**Word in this verse:** `ظَنًّا ۚ` — assumption
 
-**English (Sahih International):** Said the eminent ones who disbelieved among his people, "Indeed, we see you in foolishness, and indeed, we think you are of the liars."
+**English (Sahih International):** And most of them follow not except assumption. Indeed, assumption avails not against the truth at all. Indeed, Allāh is Knowing of what they do.
 
-**English (Yusuf Ali):** The leaders of the Unbelievers among his people said: "Ah! we see thou art an imbecile!" and "We think thou art a liar!"
+**English (Yusuf Ali):** But most of them follow nothing but fancy: truly fancy can be of no avail against truth. Verily Allah is well aware of all that they do.
 
-**Urdu (Fatah Muhammad Jalandhari):** تو ان کی قوم کے سردار جو کافر تھے کہنے لگے کہ تم ہمیں احمق نظر آتے ہو اور ہم تمہیں جھوٹا خیال کرتے ہیں
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں سے اکثر صرف ظن کی پیروی کرتے ہیں۔ اور کچھ شک نہیں کہ ظن حق کے مقابلے میں کچھ بھی کارآمد نہیں ہوسکتا۔ بےشک خدا تمہارے (سب) افعال سے واقف ہے
 
-[Open on Quran.com](https://quran.com/7/66)
+[Open on Quran.com](https://quran.com/10/36)
 
-#### 7:171 · [[007 Al-Araf]]
+#### 10:60 · [[010 Yunus]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-۞ وَإِذْ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌ وَظَنُّوٓا۟ أَنَّهُۥ وَاقِعٌۢ بِهِمْ خُذُوا۟ مَآ ءَاتَيْنَـٰكُم بِقُوَّةٍ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
+وَمَا ظَنُّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّ ٱللَّهَ لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ
 
 </div>
 
-**Word in this verse:** `وَظَنُّوٓا۟` — and they thought
+**Word in this verse:** `ظَنُّ` — (will be the) assumption
 
-**English (Sahih International):** And [mention] when We raised the mountain above them as if it was a dark cloud and they were certain that it would fall upon them, [and Allāh said], "Take what We have given you with determination and remember what is in it that you might fear Allāh."
+**English (Sahih International):** And what will be the supposition of those who invent falsehood about Allāh on the Day of Resurrection? Indeed, Allāh is the possessor of bounty for the people, but most of them are not grateful.
 
-**English (Yusuf Ali):** When We shook the Mount over them, as if it had been a canopy, and they thought it was going to fall on them (We said): "Hold firmly to what We have given you, and bring (ever) to remembrance what is therein; perchance ye may fear Allah."
+**English (Yusuf Ali):** And what think those who invent lies against Allah, of the Day of Judgment? Verily Allah is full of bounty to mankind, but most of them are ungrateful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے ان (کے سروں) پر پہاڑ اٹھا کھڑا کیا گویا وہ سائبان تھا اور انہوں نے خیال کیا کہ وہ ان پر گرتا ہے تو (ہم نے کہا کہ) جو ہم نے تمہیں دیا ہے اسے زور سے پکڑے رہو۔ اور جو اس میں لکھا ہے اس پر عمل کرو تاکہ بچ جاؤ
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا پر افتراء کرتے ہیں وہ قیامت کے دن کی نسبت کیا خیال رکھتے ہیں؟ بےشک خدا لوگوں پر مہربان ہے لیکن اکثر لوگ شکر نہیں کرتے
 
-[Open on Quran.com](https://quran.com/7/171)
+[Open on Quran.com](https://quran.com/10/60)
 
-_…and **47** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 10:66 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَآ إِنَّ لِلَّهِ مَن فِى ٱلسَّمَـٰوَٰتِ وَمَن فِى ٱلْأَرْضِ ۗ وَمَا يَتَّبِعُ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ شُرَكَآءَ ۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنْ هُمْ إِلَّا يَخْرُصُونَ
+
+</div>
+
+**Word in this verse:** `ٱلظَّنَّ` — the assumption
+
+**English (Sahih International):** Unquestionably, to Allāh belongs whoever is in the heavens and whoever is on the earth. And those who invoke other than Allāh do not [actually] follow [His] "partners." They follow not except assumption, and they are not but misjudging.
+
+**English (Yusuf Ali):** Behold! verily to Allah belong all creatures, in the heavens and on earth. What do they follow who worship as His "partners" other than Allah? They follow nothing but fancy, and they do nothing but lie.
+
+**Urdu (Fatah Muhammad Jalandhari):** سن رکھو کہ جو مخلوق آسمانوں میں ہے اور جو زمین میں ہے سب خدا کے (بندے اور اس کے مملوک) ہیں۔ اور یہ جو خدا کے سوا (اپنے بنائے ہوئے) شریکوں کو پکارتے ہیں۔ وہ (کسی اور چیز کے) پیچھے نہیں چلتے۔ صرف ظن کے پیچھے چلتے ہیں اور محض اٹکلیں دوڑا رہے ہیں
+
+[Open on Quran.com](https://quran.com/10/66)
+
+#### 33:10 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَـٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠
+
+</div>
+
+**Word in this verse:** `ٱلظُّنُونَا۠` — the assumptions
+
+**English (Sahih International):** [Remember] when they came at you from above you and from below you, and when eyes shifted [in fear], and hearts reached the throats, and you assumed about Allāh [various] assumptions.
+
+**English (Yusuf Ali):** Behold! they came on you from above you and from below you, and behold, the eyes became dim and the hearts gaped up to the throats, and ye imagined various (vain) thoughts about Allah!
+
+**Urdu (Fatah Muhammad Jalandhari):** جب وہ تمہارے اُوپر اور نیچے کی طرف سے تم پر چڑھ آئے اور جب آنکھیں پھر گئیں اور دل (مارے دہشت کے) گلوں تک پہنچ گئے اور تم خدا کی نسبت طرح طرح کے گمان کرنے لگے
+
+[Open on Quran.com](https://quran.com/33/10)
+
+#### 34:20 · [[034 Saba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُۥ فَٱتَّبَعُوهُ إِلَّا فَرِيقًا مِّنَ ٱلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `ظَنَّهُۥ` — his assumption
+
+**English (Sahih International):** And Iblees had already confirmed through them his assumption, so they followed him, except for a party of believers.
+
+**English (Yusuf Ali):** And on them did Satan prove true his idea, and they followed him, all but a party that believed.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور شیطان نے ان کے بارے میں اپنا خیال سچ کر دکھایا کہ مومنوں کی ایک جماعت کے سوا وہ اس کے پیچھے چل پڑے
+
+[Open on Quran.com](https://quran.com/34/20)
+
+#### 37:87 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَمَا ظَنُّكُم بِرَبِّ ٱلْعَـٰلَمِينَ
+
+</div>
+
+**Word in this verse:** `ظَنُّكُم` — (do) you think
+
+**English (Sahih International):** Then what is your thought about the Lord of the worlds?"
+
+**English (Yusuf Ali):** "Then what is your idea about the Lord of the worlds?"
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا پروردگار عالم کے بارے میں تمہارا کیا خیال ہے؟
+
+[Open on Quran.com](https://quran.com/37/87)
+
+_…and **8** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

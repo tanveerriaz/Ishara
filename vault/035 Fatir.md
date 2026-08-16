@@ -15,30 +15,30 @@ Originator · 45 ayahs
 ## Words in this surah (graph)
 
 - [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[$kwr - grateful]] — `شَكُور` · grateful
 - [[>*hb - remove]] — `أَذْهَبَ` · remove
 - [[$rk - associating partners]] — `شِرْك` · associating partners
 - [[mxtlf - various]] — `مُخْتَلِف` · various
-- [[grwr - delusion]] — `غُرُور` · delusion
 - [[lwn - colors]] — `لَوْن` · colors
-- [[$kwr - grateful]] — `شَكُور` · grateful
 - [[yEmr - granted life]] — `يُعَمَّرُ` · granted life
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
-- [[Hzn - sorrow]] — `حَزَن` · sorrow
-- [[n$wr - resurrection]] — `نُشُور` · resurrection
-- [[$ms - sun]] — `شَمْس` · sun
-- [[AtY - give]] — `آتَى` · give
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
-- [[nZr - see]] — `نَظَرَ` · see
-- [[>nvY - female]] — `أُنثَى` · female
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[>sAwr - bracelets]] — `أَساوِر` · bracelets
-- [[mAt - died]] — `ماتَ` · died
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[sHAb - clouds]] — `سَحاب` · clouds
-- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[Hl - they will adorned]] — `حُلُّ` · they will adorned
+- [[>jl - term]] — `أَجَل` · term
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[lbAs - garments]] — `لِباس` · garments
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[grwr - delusion]] — `غُرُور` · delusion
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[yEjz - escape]] — `يُعْجِزَ` · escape
+- [[xAlq - creator]] — `خالِق` · creator
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[mlk - angels]] — `مَلَك` · angels
+- [[dEA - call]] — `دَعا` · call
+- [[mkr - plotted]] — `مَكَرَ` · plotted
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[>fk - they deluded]] — `أُفِكَ` · they deluded
+- [[Zl - shade]] — `ظِلّ` · shade
 
 ## Roots
 
@@ -49,8 +49,8 @@ Originator · 45 ayahs
 - [[$rb - drink]]
 - [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*wq - taste]]
 - [[>*n - by permission]]
 - [[>Hd - anyone]]
@@ -80,7 +80,7 @@ Originator · 45 ayahs
 - [[Elm - knowledge]]
 - [[Eln - they declare]]
 - [[Eml - do]]
-- [[Emr - life]]
+- [[Emr - inhabit build maintain flourish]]
 - [[Emy - blind]]
 - [[End - near]]
 - [[Eqb - end]]

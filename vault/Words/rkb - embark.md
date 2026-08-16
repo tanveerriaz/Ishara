@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "رَكْب"
+lemma: "رَكِبَ"
 slug: "rkb - embark"
-surah_count: 10
-ayah_count: 11
+surah_count: 8
+ayah_count: 9
 tags: [word, meaning]
 ---
 
@@ -17,10 +17,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[rkb - embark]]
 
 ### Meaning
-**embark** · Lemma **رَكْب**
+**embark** · Lemma **رَكِبَ**
 
-### Surahs (10)
-- [[008 Al-Anfal]]
+### Surahs (8)
 - [[011 Hud]]
 - [[016 An-Nahl]]
 - [[018 Al-Kahf]]
@@ -28,30 +27,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[036 Ya-Sin]]
 - [[040 Ghafir]]
 - [[043 Az-Zukhruf]]
-- [[082 Al-Infitar]]
 - [[084 Al-Inshiqaq]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 8:42 · [[008 Al-Anfal]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِذْ أَنتُم بِٱلْعُدْوَةِ ٱلدُّنْيَا وَهُم بِٱلْعُدْوَةِ ٱلْقُصْوَىٰ وَٱلرَّكْبُ أَسْفَلَ مِنكُمْ ۚ وَلَوْ تَوَاعَدتُّمْ لَٱخْتَلَفْتُمْ فِى ٱلْمِيعَـٰدِ ۙ وَلَـٰكِن لِّيَقْضِىَ ٱللَّهُ أَمْرًا كَانَ مَفْعُولًا لِّيَهْلِكَ مَنْ هَلَكَ عَنۢ بَيِّنَةٍ وَيَحْيَىٰ مَنْ حَىَّ عَنۢ بَيِّنَةٍ ۗ وَإِنَّ ٱللَّهَ لَسَمِيعٌ عَلِيمٌ
-
-</div>
-
-**Word in this verse:** `وَٱلرَّكْبُ` — and the caravan
-
-**English (Sahih International):** [Remember] when you were on the near side of the valley, and they were on the farther side, and the caravan was lower [in position] than you. If you had made an appointment [to meet], you would have missed the appointment. But [it was] so that Allāh might accomplish a matter already destined - that those who perished [through disbelief] would perish upon evidence and those who lived [in faith] would live upon evidence; and indeed, Allāh is Hearing and Knowing.
-
-**English (Yusuf Ali):** Remember ye were on the hither side of the valley, and they on the farther side, and the caravan on lower ground than ye. Even if ye had made a mutual appointment to meet, ye would certainly have failed in the appointment: But (thus ye met), that Allah might accomplish a matter already enacted; that those who died might die after a clear Sign (had been given), and those who lived might live after a Clear Sign (had been given). And verily Allah is He Who heareth and knoweth (all things).
-
-**Urdu (Fatah Muhammad Jalandhari):** جس وقت تم (مدینے سے) قریب کے ناکے پر تھے اور کافر بعید کے ناکے پر اور قافلہ تم سے نیچے (اتر گیا) تھا۔ اور اگر تم (جنگ کے لیے) آپس میں قرارداد کرلیتے تو وقت معین (پر جمع ہونے) میں تقدیم وتاخیر ہو جاتی۔ لیکن خدا کو منظور تھا کہ جو کام ہو کر رہنے والا تھا اسے کر ہی ڈالے تاکہ جو مرے بصیرت پر (یعنی یقین جان کر) مرے اور جو جیتا رہے وہ بھی بصیرت پر (یعنی حق پہچان کر) جیتا رہے۔ اور کچھ شک نہیں کہ خدا سنتا جانتا ہے
-
-[Open on Quran.com](https://quran.com/8/42)
 
 #### 11:41 · [[011 Hud]]
 
@@ -197,23 +177,21 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/43/12)
 
-#### 82:8 · [[082 Al-Infitar]]
+#### 84:19 · [[084 Al-Inshiqaq]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ
+لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ
 
 </div>
 
-**Word in this verse:** `رَكَّبَكَ` — He assembled you
+**Word in this verse:** `لَتَرْكَبُنَّ` — You will surely embark
 
-**English (Sahih International):** In whatever form He willed has He assembled you.
+**English (Sahih International):** [That] you will surely embark upon [i.e., experience] state after state.
 
-**English (Yusuf Ali):** In whatever Form He wills, does He put thee together.
+**English (Yusuf Ali):** Ye shall surely travel from stage to stage.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جس صورت میں چاہا تجھے جوڑ دیا
+**Urdu (Fatah Muhammad Jalandhari):** کہ تم درجہ بدرجہ (رتبہٴ اعلیٰ پر) چڑھو گے
 
-[Open on Quran.com](https://quran.com/82/8)
-
-_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+[Open on Quran.com](https://quran.com/84/19)
 

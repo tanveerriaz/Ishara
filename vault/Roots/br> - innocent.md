@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** innocent · **Root:** برأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[bry' - innocent]]
 - [[tbr> - will disown]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** you divorce · **Root:** طلق
 
+
 ### Words (wikilinks — these create the graph)
 - [[AnTlq - proceed]]
 - [[Tlq - you divorce]]

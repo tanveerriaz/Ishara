@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** joined · **Root:** وصل
 
+
 ### Words (wikilinks — these create the graph)
 - [[ySl - joined]]
 

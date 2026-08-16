@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** flow · **Root:** جري
 
+
 ### Words (wikilinks — these create the graph)
 - [[jAryp - sailing]]
 - [[jry - flow]]

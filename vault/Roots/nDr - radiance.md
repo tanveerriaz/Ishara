@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** radiance · **Root:** نضر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

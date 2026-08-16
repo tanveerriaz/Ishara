@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** opposes · **Root:** شقق
 
+
 ### Words (wikilinks — these create the graph)
 - [[$Aq - opposes]]
 - [[$qAq - dissension]]

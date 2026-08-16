@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** glorious · **Root:** مجد
 
+
 ### Words (wikilinks — these create the graph)
 - [[mjyd - glorious]]
 

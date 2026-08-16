@@ -2,8 +2,8 @@
 type: word
 lemma: "كَفُور"
 slug: "kfwr - ungrateful"
-surah_count: 10
-ayah_count: 15
+surah_count: 9
+ayah_count: 12
 tags: [word, meaning]
 ---
 
@@ -19,11 +19,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **ungrateful** · Lemma **كَفُور**
 
-### Surahs (10)
+### Surahs (9)
 - [[011 Hud]]
 - [[017 Al-Isra]]
 - [[022 Al-Hajj]]
-- [[025 Al-Furqan]]
 - [[031 Luqman]]
 - [[034 Saba]]
 - [[035 Fatir]]
@@ -89,42 +88,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/17/67)
 
-#### 17:89 · [[017 Al-Isra]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًا
-
-</div>
-
-**Word in this verse:** `كُفُورًۭا` — disbelief
-
-**English (Sahih International):** And We have certainly diversified for the people in this Qur’ān from every [kind of] example, but most of the people refused except disbelief.
-
-**English (Yusuf Ali):** And We have explained to man, in this Qur'an, every kind of similitude: yet the greater part of men refuse (to receive it) except with ingratitude!
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن میں سب باتیں طرح طرح سے بیان کردی ہیں۔ مگر اکثر لوگوں نے انکار کرنے کے سوا قبول نہ کیا
-
-[Open on Quran.com](https://quran.com/17/89)
-
-#### 17:99 · [[017 Al-Isra]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ قَادِرٌ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُمْ وَجَعَلَ لَهُمْ أَجَلًا لَّا رَيْبَ فِيهِ فَأَبَى ٱلظَّـٰلِمُونَ إِلَّا كُفُورًا
-
-</div>
-
-**Word in this verse:** `كُفُورًۭا` — disbelief
-
-**English (Sahih International):** Do they not see that Allāh, who created the heavens and earth, is [the one] Able to create the likes of them? And He has appointed for them a term, about which there is no doubt. But the wrongdoers refuse except disbelief.
-
-**English (Yusuf Ali):** See they not that Allah, Who created the heavens and the earth, has power to create the like of them (anew)? Only He has decreed a term appointed, of which there is no doubt. But the unjust refuse (to receive it) except with ingratitude.
-
-**Urdu (Fatah Muhammad Jalandhari):** کیا انہوں نے نہیں دیکھا کہ خدا جس نے آسمانوں اور زمین کو پیدا کیا ہے اس بات پر قادر ہے کہ ان جیسے (لوگ) پیدا کردے۔ اور اس نے ان کے لئے ایک وقت مقرر کر دیا ہے جس میں کچھ بھی شک نہیں۔ تو ظالموں نے انکار کرنے کے سوا (اسے) قبول نہ کیا
-
-[Open on Quran.com](https://quran.com/17/99)
-
 #### 22:38 · [[022 Al-Hajj]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -160,24 +123,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے تم کو حیات بخشی۔ پھر تم کو مارتا ہے۔ پھر تمہیں زندہ بھی کرے گا۔ اور انسان تو بڑا ناشکر ہے
 
 [Open on Quran.com](https://quran.com/22/66)
-
-#### 25:50 · [[025 Al-Furqan]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَقَدْ صَرَّفْنَـٰهُ بَيْنَهُمْ لِيَذَّكَّرُوا۟ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًا
-
-</div>
-
-**Word in this verse:** `كُفُورًۭا` — disbelief
-
-**English (Sahih International):** And We have certainly distributed it among them that they might be reminded, but most of the people refuse except disbelief.
-
-**English (Yusuf Ali):** And We have distributed the (water) amongst them, in order that they may celebrate (our) praises, but most men are averse (to aught) but (rank) ingratitude.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس (قرآن کی آیتوں) کو طرح طرح سے لوگوں میں بیان کیا تاکہ نصیحت پکڑیں مگر بہت سے لوگوں نے انکار کے سوا قبول نہ کیا
-
-[Open on Quran.com](https://quran.com/25/50)
 
 #### 31:32 · [[031 Luqman]]
 
@@ -215,5 +160,59 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/34/17)
 
-_…and **5** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 35:36 · [[035 Fatir]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا ۚ كَذَٰلِكَ نَجْزِى كُلَّ كَفُورٍ
+
+</div>
+
+**Word in this verse:** `كَفُورٍۢ` — ungrateful one
+
+**English (Sahih International):** And for those who disbelieve will be the fire of Hell. [Death] is not decreed for them so they may die, nor will its torment be lightened for them. Thus do We recompense every ungrateful one.
+
+**English (Yusuf Ali):** But those who reject (Allah) - for them will be the Fire of Hell: No term shall be determined for them, so they should die, nor shall its Penalty be lightened for them. Thus do We reward every ungrateful one!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے کفر کیا ان کے لئے دوزخ کی آگ ہے۔ نہ انہیں موت آئے گی کہ مرجائیں اور نہ ان کا عذاب ہی ان سے ہلکا کیا جائے گا۔ ہم ہر ایک ناشکرے کو ایسا ہی بدلہ دیا کرتے ہیں
+
+[Open on Quran.com](https://quran.com/35/36)
+
+#### 42:48 · [[042 Ash-Shuraa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِنْ أَعْرَضُوا۟ فَمَآ أَرْسَلْنَـٰكَ عَلَيْهِمْ حَفِيظًا ۖ إِنْ عَلَيْكَ إِلَّا ٱلْبَلَـٰغُ ۗ وَإِنَّآ إِذَآ أَذَقْنَا ٱلْإِنسَـٰنَ مِنَّا رَحْمَةً فَرِحَ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ ٱلْإِنسَـٰنَ كَفُورٌ
+
+</div>
+
+**Word in this verse:** `كَفُورٌۭ` — (is) ungrateful
+
+**English (Sahih International):** But if they turn away - then We have not sent you, [O Muḥammad], over them as a guardian; upon you is only [the duty of] notification. And indeed, when We let man taste mercy from Us, he rejoices in it; but if evil afflicts him for what his hands have put forth, then indeed, man is ungrateful.
+
+**English (Yusuf Ali):** If then they run away, We have not sent thee as a guard over them. Thy duty is but to convey (the Message). And truly, when We give man a taste of a Mercy from Ourselves, he doth exult thereat, but when some ill happens to him, on account of the deeds which his hands have sent forth, truly then is man ungrateful!
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اگر یہ منہ پھیر لیں تو ہم نے تم کو ان پر نگہبان بنا کر نہیں بھیجا۔ تمہارا کام تو صرف (احکام کا) پہنچا دینا ہے۔ اور جب ہم انسان کو اپنی رحمت کا مزہ چکھاتے ہیں تو اس سے خوش ہوجاتا ہے۔ اور اگر ان کو ان ہی کے اعمال کے سبب کوئی سختی پہنچتی ہے تو (سب احسانوں کو بھول جاتے ہیں) بےشک انسان بڑا ناشکرا ہے
+
+[Open on Quran.com](https://quran.com/42/48)
+
+#### 43:15 · [[043 Az-Zukhruf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَعَلُوا۟ لَهُۥ مِنْ عِبَادِهِۦ جُزْءًا ۚ إِنَّ ٱلْإِنسَـٰنَ لَكَفُورٌ مُّبِينٌ
+
+</div>
+
+**Word in this verse:** `لَكَفُورٌۭ` — surely (is) clearly ungrateful
+
+**English (Sahih International):** But they have attributed to Him from His servants a portion. Indeed, man is clearly ungrateful.
+
+**English (Yusuf Ali):** Yet they attribute to some of His servants a share with Him (in his godhead)! truly is man a blasphemous ingrate avowed!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور انہوں نے اس کے بندوں میں سے اس کے لئے اولاد مقرر کی۔ بےشک انسان صریح ناشکرا ہے
+
+[Open on Quran.com](https://quran.com/43/15)
+
+_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

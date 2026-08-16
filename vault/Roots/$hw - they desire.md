@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** they desire · **Root:** شهو
 
+
 ### Words (wikilinks — these create the graph)
+- [[$hwp - lustfully]]
 - [[$hwp - passions]]
 - [[A$tht - they desire]]
 

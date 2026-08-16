@@ -2,8 +2,8 @@
 type: word
 lemma: "مُنكَر"
 slug: "mnkr - wrong"
-surah_count: 15
-ayah_count: 21
+surah_count: 12
+ayah_count: 18
 tags: [word, meaning]
 ---
 
@@ -19,17 +19,14 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **wrong** · Lemma **مُنكَر**
 
-### Surahs (15)
+### Surahs (12)
 - [[003 Ali Imran]]
 - [[005 Al-Maidah]]
 - [[007 Al-Araf]]
 - [[009 At-Tawbah]]
-- [[012 Yusuf]]
 - [[015 Al-Hijr]]
 - [[016 An-Nahl]]
-- [[021 Al-Anbya]]
 - [[022 Al-Hajj]]
-- [[023 Al-Muminun]]
 - [[024 An-Nur]]
 - [[029 Al-Ankabut]]
 - [[031 Luqman]]
@@ -184,24 +181,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/9/112)
 
-#### 12:58 · [[012 Yusuf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ
-
-</div>
-
-**Word in this verse:** `مُنكِرُونَ` — knew him not
-
-**English (Sahih International):** And the brothers of Joseph came [seeking food], and they entered upon him; and he recognized them, but he was to them unknown.
-
-**English (Yusuf Ali):** Then came Joseph's brethren: they entered his presence, and he knew them, but they knew him not.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور یوسف کے بھائی (کنعان سے مصر میں غلّہ خریدنے کے لیے) آئے تو یوسف کے پاس گئے تو یوسف نے ان کو پہچان لیا اور وہ ان کو نہ پہچان سکے
-
-[Open on Quran.com](https://quran.com/12/58)
-
 #### 15:62 · [[015 Al-Hijr]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -220,5 +199,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/15/62)
 
-_…and **11** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 16:90 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَـٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `وَٱلْمُنكَرِ` — and the bad
+
+**English (Sahih International):** Indeed, Allāh orders justice and good conduct and giving [help] to relatives and forbids immorality and bad conduct and oppression. He admonishes you that perhaps you will be reminded.
+
+**English (Yusuf Ali):** Allah commands justice, the doing of good, and liberality to kith and kin, and He forbids all shameful deeds, and injustice and rebellion: He instructs you, that ye may receive admonition.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا تم کو انصاف اور احسان کرنے اور رشتہ داروں کو (خرچ سے مدد) دینے کا حکم دیتا ہے۔ اور بےحیائی اور نامعقول کاموں سے اور سرکشی سے منع کرتا ہے (اور) تمہیں نصیحت کرتا ہے تاکہ تم یاد رکھو
+
+[Open on Quran.com](https://quran.com/16/90)
+
+_…and **8** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

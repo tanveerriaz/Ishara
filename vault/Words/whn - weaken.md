@@ -2,8 +2,8 @@
 type: word
 lemma: "وَهَنَ"
 slug: "whn - weaken"
-surah_count: 5
-ayah_count: 6
+surah_count: 4
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -19,11 +19,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **weaken** · Lemma **وَهَنَ**
 
-### Surahs (5)
+### Surahs (4)
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
 - [[019 Maryam]]
-- [[031 Luqman]]
 - [[047 Muhammad]]
 
 ## Verses (full text)
@@ -101,24 +100,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** (اور) کہا کہ اے میرے پروردگار میری ہڈیاں بڑھاپے کے سبب کمزور ہوگئی ہیں اور سر (ہے کہ) بڑھاپے (کی وجہ سے) شعلہ مارنے لگا ہے اور اے میرے پروردگار میں تجھ سے مانگ کر کبھی محروم نہیں رہا
 
 [Open on Quran.com](https://quran.com/19/4)
-
-#### 31:14 · [[031 Luqman]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَـٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ
-
-</div>
-
-**Word in this verse:** `وَهْنًا` — (in) weakness
-
-**English (Sahih International):** And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination.
-
-**English (Yusuf Ali):** And We have enjoined on man (to be good) to his parents: in travail upon travail did his mother bear him, and in years twain was his weaning: (hear the command), "Show gratitude to Me and to thy parents: to Me is (thy final) Goal.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے انسان کو جسے اُس کی ماں تکلیف پر تکلیف سہہ کر پیٹ میں اُٹھائے رکھتی ہے (پھر اس کو دودھ پلاتی ہے) اور( آخرکار) دو برس میں اس کا دودھ چھڑانا ہوتا ہے (اپنے نیز) اس کے ماں باپ کے بارے میں تاکید کی ہے کہ میرا بھی شکر کرتا رہ اور اپنے ماں باپ کا بھی (کہ تم کو) میری ہی طرف لوٹ کر آنا ہے
-
-[Open on Quran.com](https://quran.com/31/14)
 
 #### 47:35 · [[047 Muhammad]]
 

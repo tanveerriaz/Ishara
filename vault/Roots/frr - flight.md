@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** flight · **Root:** فرر
 
+
 ### Words (wikilinks — these create the graph)
 - [[frAr - flight]]
 - [[frt - you flee]]

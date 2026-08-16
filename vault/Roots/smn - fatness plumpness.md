@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fatness plumpness · **Root:** سمن
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

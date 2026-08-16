@@ -11,11 +11,15 @@ tags: [root, meaning]
 
 **Sense:** knowledge · **Root:** علم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Elm - knowing]]
+- [[EAlm - knower]]
 - [[EAlm - worlds]]
 - [[ElAm - all-knower]]
+- [[Elm - he taught]]
 - [[Elm - know]]
+- [[Elm - knowledge]]
 - [[Elym - all-knower]]
 - [[mElwm - known]]
 

@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** like molten brass · **Root:** مهل
 
+
 ### Words (wikilinks — these create the graph)
+- [[mhl - allow them respite]]
 - [[mhl - like molten brass]]
 
 ### Surahs where this root appears

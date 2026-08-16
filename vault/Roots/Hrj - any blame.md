@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** any blame · **Root:** حرج
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hrj - any blame]]
 

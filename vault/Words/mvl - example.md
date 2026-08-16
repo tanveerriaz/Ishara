@@ -2,8 +2,8 @@
 type: word
 lemma: "مَثَل"
 slug: "mvl - example"
-surah_count: 48
-ayah_count: 142
+surah_count: 28
+ayah_count: 70
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **example** · Lemma **مَثَل**
 
-### Surahs (48)
+### Surahs (28)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
-- [[004 An-Nisa]]
-- [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
-- [[008 Al-Anfal]]
 - [[010 Yunus]]
 - [[011 Hud]]
 - [[013 Ar-Rad]]
@@ -34,17 +31,20 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
-- [[020 Taha]]
-- [[021 Al-Anbya]]
 - [[022 Al-Hajj]]
-- [[023 Al-Muminun]]
 - [[024 An-Nur]]
 - [[025 Al-Furqan]]
-- [[026 Ash-Shuara]]
-- [[028 Al-Qasas]]
 - [[029 Al-Ankabut]]
 - [[030 Ar-Rum]]
-- [[035 Fatir]]
+- [[036 Ya-Sin]]
+- [[039 Az-Zumar]]
+- [[043 Az-Zukhruf]]
+- [[047 Muhammad]]
+- [[048 Al-Fath]]
+- [[056 Al-Waqiah]]
+- [[057 Al-Hadid]]
+- [[059 Al-Hashr]]
+- [[062 Al-Jumuah]]
 
 ## Verses (full text)
 
@@ -68,24 +68,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/17)
 
-#### 2:23 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَـٰدِقِينَ
-
-</div>
-
-**Word in this verse:** `مِّثْلِهِۦ` — like it
-
-**English (Sahih International):** And if you are in doubt about what We have sent down [i.e., the Qur’ān] upon Our Servant [i.e., Prophet Muḥammad (ﷺ)], then produce a sūrah the like thereof and call upon your witnesses [i.e., supporters] other than Allāh, if you should be truthful.
-
-**English (Yusuf Ali):** And if ye are in doubt as to what We have revealed from time to time to Our servant, then produce a Sura like thereunto; and call your witnesses or helpers (If there are any) besides Allah, if your (doubts) are true.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم کو اس (کتاب) میں، جو ہم نے اپنے بندے (محمدﷺ عربی) پر نازل فرمائی ہے کچھ شک ہو تو اسی طرح کی ایک سورت تم بھی بنا لاؤ اور خدا کے سوا جو تمہارے مددگار ہوں ان کو بھی بلالو اگر تم سچے ہو
-
-[Open on Quran.com](https://quran.com/2/23)
-
 #### 2:26 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -103,78 +85,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** الله اس بات سے عار نہیں کرتا کہ مچھر یا اس سے بڑھ کر کسی چیز (مثلاً مکھی مکڑی وغیرہ) کی مثال بیان فرمائے۔ جو مومن ہیں، وہ یقین کرتے ہیں وہ ان کے پروردگار کی طرف سے سچ ہے اور جو کافر ہیں وہ کہتے ہیں کہ اس مثال سے خدا کی مراد ہی کیا ہے۔ اس سے (خدا) بہتوں کو گمراہ کرتا ہے اور بہتوں کو ہدایت بخشتا ہے اور گمراہ بھی کرتا تو نافرمانوں ہی کو
 
 [Open on Quran.com](https://quran.com/2/26)
-
-#### 2:106 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ مَا نَنسَخْ مِنْ ءَايَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَآ أَوْ مِثْلِهَآ ۗ أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-
-</div>
-
-**Word in this verse:** `مِثْلِهَآ ۗ` — similar (to) it
-
-**English (Sahih International):** We do not abrogate a verse or cause it to be forgotten except that We bring forth [one] better than it or similar to it. Do you not know that Allāh is over all things competent?
-
-**English (Yusuf Ali):** None of Our revelations do We abrogate or cause to be forgotten, but We substitute something better or similar: Knowest thou not that Allah Hath power over all things?
-
-**Urdu (Fatah Muhammad Jalandhari):** ہم جس آیت کو منسوخ کر دیتے یا اسے فراموش کرا دیتے ہیں تو اس سے بہتر یا ویسی ہی اور آیت بھیج دیتے ہیں۔ کیا تم نہیں جانتے کہ خدا ہر بات پر قادر ہے
-
-[Open on Quran.com](https://quran.com/2/106)
-
-#### 2:113 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَقَالَتِ ٱلْيَهُودُ لَيْسَتِ ٱلنَّصَـٰرَىٰ عَلَىٰ شَىْءٍ وَقَالَتِ ٱلنَّصَـٰرَىٰ لَيْسَتِ ٱلْيَهُودُ عَلَىٰ شَىْءٍ وَهُمْ يَتْلُونَ ٱلْكِتَـٰبَ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَٱللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ ٱلْقِيَـٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
-
-</div>
-
-**Word in this verse:** `مِثْلَ` — similar
-
-**English (Sahih International):** The Jews say, "The Christians have nothing [true] to stand on," and the Christians say, "The Jews have nothing to stand on," although they [both] recite the Scripture. Thus do those who know not [i.e., the polytheists] speak the same as their words. But Allāh will judge between them on the Day of Resurrection concerning that over which they used to differ.
-
-**English (Yusuf Ali):** The Jews say: "The Christians have naught (to stand) upon; and the Christians say: "The Jews have naught (To stand) upon." Yet they (Profess to) study the (same) Book. Like unto their word is what those say who know not; but Allah will judge between them in their quarrel on the Day of Judgment.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور یہودی کہتے ہیں کہ عیسائی رستے پر نہیں اور عیسائی کہتے ہیں کہ یہودی رستے پر نہیں۔ حالانکہ وہ کتاب (الہٰی) پڑھتے ہیں۔ اسی طرح بالکل انہی کی سی بات وہ لوگ کہتے ہیں جو (کچھ) نہیں جانتے (یعنی مشرک) تو جس بات میں یہ لوگ اختلاف کر رہے خدا قیامت کے دن اس کا ان میں فیصلہ کر دے گا
-
-[Open on Quran.com](https://quran.com/2/113)
-
-#### 2:118 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ ۘ تَشَـٰبَهَتْ قُلُوبُهُمْ ۗ قَدْ بَيَّنَّا ٱلْـَٔايَـٰتِ لِقَوْمٍ يُوقِنُونَ
-
-</div>
-
-**Word in this verse:** `مِّثْلَ` — similar
-
-**English (Sahih International):** Those who do not know say, "Why does Allāh not speak to us or there come to us a sign?" Thus spoke those before them like their words. Their hearts resemble each other. We have shown clearly the signs to a people who are certain [in faith].
-
-**English (Yusuf Ali):** Say those without knowledge: "Why speaketh not Allah unto us? or why cometh not unto us a Sign?" So said the people before them words of similar import. Their hearts are alike. We have indeed made clear the Signs unto any people who hold firmly to Faith (in their hearts).
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ (کچھ) نہیں جانتے (یعنی مشرک) وہ کہتے ہیں کہ خدا ہم سے کلام کیوں نہیں کرتا۔ یا ہمارے پاس کوئی نشانی کیوں نہیں آتی۔ اسی طرح جو لوگ ان سے پہلے تھے، وہ بھی انہی کی سی باتیں کیا کرتے تھے۔ ان لوگوں کے دل آپس میں ملتے جلتے ہیں۔ جو لوگ صاحبِ یقین ہیں، ان کے (سمجھانے کے) لیے نشانیاں بیان کردی ہیں
-
-[Open on Quran.com](https://quran.com/2/118)
-
-#### 2:137 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَإِنْ ءَامَنُوا۟ بِمِثْلِ مَآ ءَامَنتُم بِهِۦ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا هُمْ فِى شِقَاقٍ ۖ فَسَيَكْفِيكَهُمُ ٱللَّهُ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
-
-</div>
-
-**Word in this verse:** `بِمِثْلِ` — in (the) like
-
-**English (Sahih International):** So if they believe in the same as you believe in, then they have been [rightly] guided; but if they turn away, they are only in dissension, and Allāh will be sufficient for you against them. And He is the Hearing, the Knowing.
-
-**English (Yusuf Ali):** So if they believe as ye believe, they are indeed on the right path; but if they turn back, it is they who are in schism; but Allah will suffice thee as against them, and He is the All-Hearing, the All-Knowing.
-
-**Urdu (Fatah Muhammad Jalandhari):** تو اگر یہ لوگ بھی اسی طرح ایمان لے آئیں جس طرح تم ایمان لے آئے ہو تو ہدایت یاب ہو جائیں اور اگر منہ پھیر لیں (اور نہ مانیں) تو وہ (تمھارے) مخالف ہیں اور ان کے مقابلے میں تمھیں خدا کافی ہے۔ اور وہ سننے والا (اور) جاننے والا ہے
-
-[Open on Quran.com](https://quran.com/2/137)
 
 #### 2:171 · [[002 Al-Baqarah]]
 
@@ -194,24 +104,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/171)
 
-#### 2:194 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلشَّهْرُ ٱلْحَرَامُ بِٱلشَّهْرِ ٱلْحَرَامِ وَٱلْحُرُمَـٰتُ قِصَاصٌ ۚ فَمَنِ ٱعْتَدَىٰ عَلَيْكُمْ فَٱعْتَدُوا۟ عَلَيْهِ بِمِثْلِ مَا ٱعْتَدَىٰ عَلَيْكُمْ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ
-
-</div>
-
-**Word in this verse:** `بِمِثْلِ` — in (the) same manner
-
-**English (Sahih International):** [Battle in] the sacred month is for [aggression committed in] the sacred month, and for [all] violations is legal retribution. So whoever has assaulted you, then assault him in the same way that he has assaulted you. And fear Allāh and know that Allāh is with those who fear Him.
-
-**English (Yusuf Ali):** The prohibited month for the prohibited month,- and so for all things prohibited,- there is the law of equality. If then any one transgresses the prohibition against you, Transgress ye likewise against him. But fear Allah, and know that Allah is with those who restrain themselves.
-
-**Urdu (Fatah Muhammad Jalandhari):** ادب کا مہینہ ادب کے مہینے کے مقابل ہے اور ادب کی چیزیں ایک دوسرے کا بدلہ ہیں۔ پس اگر کوئی تم پر زیادتی کرے تو جیسی زیادتی وہ تم پر کرے ویسی ہی تم اس پر کرو۔ اور خدا سے ڈرتے رہو اور جان رکھو کہ خدا ڈرنے والوں کے ساتھ ہے
-
-[Open on Quran.com](https://quran.com/2/194)
-
 #### 2:214 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -230,5 +122,113 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/214)
 
-_…and **132** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 2:261 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ سَبْعَ سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍ مِّا۟ئَةُ حَبَّةٍ ۗ وَٱللَّهُ يُضَـٰعِفُ لِمَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `مَّثَلُ` — Example
+
+**English (Sahih International):** The example of those who spend their wealth in the way of Allāh is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains. And Allāh multiplies [His reward] for whom He wills. And Allāh is all-Encompassing and Knowing.
+
+**English (Yusuf Ali):** The parable of those who spend their substance in the way of Allah is that of a grain of corn: it groweth seven ears, and each ear Hath a hundred grains. Allah giveth manifold increase to whom He pleaseth: And Allah careth for all and He knoweth all things.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال خدا کی راہ میں خرچ کرتے ہیں ان (کے مال) کی مثال اس دانے کی سی ہے جس سے سات بالیں اگیں اور ہر ایک بال میں سو سو دانے ہوں اور خدا جس (کے مال) کو چاہتا ہے زیادہ کرتا ہے۔ وہ بڑی کشائش والا اور سب کچھ جاننے والا ہے
+
+[Open on Quran.com](https://quran.com/2/261)
+
+#### 2:264 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُبْطِلُوا۟ صَدَقَـٰتِكُم بِٱلْمَنِّ وَٱلْأَذَىٰ كَٱلَّذِى يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۖ فَمَثَلُهُۥ كَمَثَلِ صَفْوَانٍ عَلَيْهِ تُرَابٌ فَأَصَابَهُۥ وَابِلٌ فَتَرَكَهُۥ صَلْدًا ۖ لَّا يَقْدِرُونَ عَلَىٰ شَىْءٍ مِّمَّا كَسَبُوا۟ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `فَمَثَلُهُۥ` — Then his example
+
+**English (Sahih International):** O you who have believed, do not invalidate your charities with reminders [of it] or injury as does one who spends his wealth [only] to be seen by the people and does not believe in Allāh and the Last Day. His example is like that of a [large] smooth stone upon which is dust and is hit by a downpour that leaves it bare. They are unable [to keep] anything of what they have earned. And Allāh does not guide the disbelieving people.
+
+**English (Yusuf Ali):** O ye who believe! cancel not your charity by reminders of your generosity or by injury,- like those who spend their substance to be seen of men, but believe neither in Allah nor in the Last Day. They are in parable like a hard, barren rock, on which is a little soil: on it falls heavy rain, which leaves it (Just) a bare stone. They will be able to do nothing with aught they have earned. And Allah guideth not those who reject faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! اپنے صدقات (وخیرات)احسان رکھنے اور ایذا دینے سے اس شخص کی طرح برباد نہ کردینا۔ جو لوگوں کو دکھاوے کے لئے مال خرچ کرتا ہے اور خدا اور روز آخرت پر ایمان نہیں رکھتا۔ تو اس (کے مال) کی مثال اس چٹان کی سی ہے جس پر تھوڑی سی مٹی پڑی ہو اور اس پر زور کا مینہ برس کر اسے صاف کر ڈالے۔ (اسی طرح) یہ (ریاکار) لوگ اپنے اعمال کا کچھ بھی صلہ حاصل نہیں کرسکیں گے۔ اور خدا ایسے ناشکروں کو ہدایت نہیں دیا کرتا
+
+[Open on Quran.com](https://quran.com/2/264)
+
+#### 2:265 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ كَمَثَلِ جَنَّةٍۭ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَـَٔاتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا وَابِلٌ فَطَلٌّ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+</div>
+
+**Word in this verse:** `وَمَثَلُ` — And (the) example
+
+**English (Sahih International):** And the example of those who spend their wealth seeking means to the approval of Allāh and assuring [reward for] themselves is like a garden on high ground which is hit by a downpour - so it yields its fruits in double. And [even] if it is not hit by a downpour, then a drizzle [is sufficient]. And Allāh, of what you do, is Seeing.
+
+**English (Yusuf Ali):** And the likeness of those who spend their substance, seeking to please Allah and to strengthen their souls, is as a garden, high and fertile: heavy rain falls on it but makes it yield a double increase of harvest, and if it receives not Heavy rain, light moisture sufficeth it. Allah seeth well whatever ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ خدا کی خوشنودی حاصل کرنے کے لئے خلوص نیت سے اپنا مال خرچ کرتے ہیں ان کی مثال ایک باغ کی سی ہے جو اونچی جگہ پر واقع ہو(جب) اس پر مینہ پڑے تو دگنا پھل لائے۔ اور اگر مینہ نہ بھی پڑے تو خیر پھوار ہی سہی اور خدا تمہارے کاموں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/2/265)
+
+#### 3:59 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ
+
+</div>
+
+**Word in this verse:** `مَثَلَ` — (the) likeness
+
+**English (Sahih International):** Indeed, the example of Jesus to Allāh is like that of Adam. He created him from dust; then He said to him, "Be," and he was.
+
+**English (Yusuf Ali):** The similitude of Jesus before Allah is as that of Adam; He created him from dust, then said to him: "Be". And he was.
+
+**Urdu (Fatah Muhammad Jalandhari):** عیسیٰ کا حال خدا کے نزدیک آدم کا سا ہے کہ اس نے (پہلے) مٹی سے ان کا قالب بنایا پھر فرمایا کہ (انسان) ہو جا تو وہ (انسان) ہو گئے
+
+[Open on Quran.com](https://quran.com/3/59)
+
+#### 3:117 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَثَلُ مَا يُنفِقُونَ فِى هَـٰذِهِ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَثَلِ رِيحٍ فِيهَا صِرٌّ أَصَابَتْ حَرْثَ قَوْمٍ ظَلَمُوٓا۟ أَنفُسَهُمْ فَأَهْلَكَتْهُ ۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَـٰكِنْ أَنفُسَهُمْ يَظْلِمُونَ
+
+</div>
+
+**Word in this verse:** `مَثَلُ` — Example
+
+**English (Sahih International):** The example of what they spend in this worldly life is like that of a wind containing frost which strikes the harvest of a people who have wronged themselves [i.e., sinned] and destroys it. And Allāh has not wronged them, but they wrong themselves.
+
+**English (Yusuf Ali):** What they spend in the life of this (material) world May be likened to a wind which brings a nipping frost: It strikes and destroys the harvest of men who have wronged their own souls: it is not Allah that hath wronged them, but they wrong themselves.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ جو مال دنیا کی زندگی میں خرچ کرتے ہیں اس کی مثال ہوا کی سی ہے جس میں سخت سردی ہو اور وہ ایسے لوگوں کی کھیتی پر جو اپنے آپ پر ظلم کرتے تھے چلے اور اسے تباہ کر دے اور خدا نے ان پر کچھ ظلم نہیں کیا بلکہ یہ خود اپنے اوپر ظلم کر رہے ہیں
+
+[Open on Quran.com](https://quran.com/3/117)
+
+#### 6:38 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ وَلَا طَـٰٓئِرٍ يَطِيرُ بِجَنَاحَيْهِ إِلَّآ أُمَمٌ أَمْثَالُكُم ۚ مَّا فَرَّطْنَا فِى ٱلْكِتَـٰبِ مِن شَىْءٍ ۚ ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ
+
+</div>
+
+**Word in this verse:** `أَمْثَالُكُم ۚ` — like you
+
+**English (Sahih International):** And there is no creature on [or within] the earth or bird that flies with its wings except [that they are] communities like you. We have not neglected in the Register a thing. Then unto their Lord they will be gathered.
+
+**English (Yusuf Ali):** There is not an animal (that lives) on the earth, nor a being that flies on its wings, but (forms part of) communities like you. Nothing have we omitted from the Book, and they (all) shall be gathered to their Lord in the end.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور زمین میں جو چلنے پھرنے والا (حیوان) یا دو پروں سے اڑنے والا جانور ہے ان کی بھی تم لوگوں کی طرح جماعتیں ہیں۔ ہم نے کتاب (یعنی لوح محفوظ) میں کسی چیز (کے لکھنے) میں کوتاہی نہیں کی پھر سب اپنے پروردگار کی طرف جمع کئے جائیں گے
+
+[Open on Quran.com](https://quran.com/6/38)
+
+_…and **60** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

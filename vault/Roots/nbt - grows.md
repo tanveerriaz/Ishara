@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** grows · **Root:** نبت
 
+
 ### Words (wikilinks — these create the graph)
 - [[>nbt - grows]]
 - [[nbAt - vegetation]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** colors · **Root:** لون
 
+
 ### Words (wikilinks — these create the graph)
 - [[lwn - colors]]
 

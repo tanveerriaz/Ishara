@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** forefathers · **Root:** أبو
 
+
 ### Words (wikilinks — these create the graph)
 - [[>b - father]]
 - [[>bwAn - parents]]

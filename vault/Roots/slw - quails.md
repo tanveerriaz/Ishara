@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** quails · **Root:** سلو
 
+
 ### Words (wikilinks — these create the graph)
 - [[slwY - quails]]
 

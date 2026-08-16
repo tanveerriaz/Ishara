@@ -14,37 +14,37 @@ The Night · 21 ayahs
 
 ## Words in this surah (graph)
 
-- [[lyl - night]] — `لَيْل` · night
-- [[nAr - fire]] — `نار` · fire
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[Sdq - truth]] — `صَدَقَ` · truth
-- [[ysr - ease]] — `يُسْر` · ease
-- [[AtY - give]] — `آتَى` · give
-- [[>wl - first]] — `أَوَّل` · first
-- [[sEy - effort]] — `سَعْي` · effort
+- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
+- [[*kr - male]] — `ذَكَر` · male
 - [[rb - lord]] — `رَبّ` · lord
-- [[>nvY - female]] — `أُنثَى` · female
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[mAl - wealth]] — `مال` · wealth
 - [[nEmp - favor]] — `نِعْمَة` · favor
-- [[>n*r - warn]] — `أَنذَرَ` · warn
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
-- [[AtqY - fear]] — `اتَّقَى` · fear
+- [[>ETY - they given]] — `أَعْطَى` · they given
+- [[wjh - faces]] — `وَجْه` · faces
+- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
+- [[$tY - diverse]] — `شَتَّى` · diverse
+- [[>ElY - highest]] — `أَعْلَى` · highest
+- [[Sdq - found true]] — `صَدَّقَ` · found true
+- [[sEy - effort]] — `سَعْي` · effort
+- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[lyl - night]] — `لَيْل` · night
+- [[AtY - give]] — `آتَى` · give
+- [[HsnY - best]] — `حُسْنَى` · best
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[ysr - ease]] — `يَسَّرَ` · ease
+- [[xlq - created]] — `خَلَقَ` · created
 - [[End - near]] — `عِند` · near
 - [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[wjh - faces]] — `وَجْه` · faces
-- [[nhAr - day]] — `نَهار` · day
-- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
+- [[mAl - wealth]] — `مال` · wealth
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[nAr - fire]] — `نار` · fire
 
 ## Roots
 
 - [[$qw - wretched one]]
 - [[$tt - diverse]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>Hd - anyone]]
 - [[>nv - female]]
 - [[>ty - give]]

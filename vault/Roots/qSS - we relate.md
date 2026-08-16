@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we relate · **Root:** قصص
 
+
 ### Words (wikilinks — these create the graph)
 - [[qS - we relate]]
 - [[qSS - story]]

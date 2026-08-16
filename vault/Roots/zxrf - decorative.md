@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** decorative · **Root:** زخرف
 
+
 ### Words (wikilinks — these create the graph)
 - [[zxrf - decorative]]
 

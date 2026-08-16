@@ -2,8 +2,8 @@
 type: word
 lemma: "حَشَرَ"
 slug: "H$r - will gathered"
-surah_count: 25
-ayah_count: 39
+surah_count: 23
+ayah_count: 37
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **will gathered** · Lemma **حَشَرَ**
 
-### Surahs (25)
+### Surahs (23)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -39,9 +39,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[037 As-Saffat]]
 - [[041 Fussilat]]
 - [[046 Al-Ahqaf]]
-- [[050 Qaf]]
 - [[058 Al-Mujadila]]
-- [[059 Al-Hashr]]
 - [[067 Al-Mulk]]
 - [[079 An-Naziat]]
 - [[081 At-Takwir]]
@@ -230,5 +228,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/111)
 
-_…and **29** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **27** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

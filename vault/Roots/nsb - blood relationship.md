@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** blood relationship · **Root:** نسب
 
+
 ### Words (wikilinks — these create the graph)
 - [[nsb - blood relationship]]
 

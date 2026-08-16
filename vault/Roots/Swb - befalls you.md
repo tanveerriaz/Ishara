@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** befalls you · **Root:** صوب
 
+
 ### Words (wikilinks — these create the graph)
 - [[>SAb - befalls you]]
 - [[mSybp - disaster]]

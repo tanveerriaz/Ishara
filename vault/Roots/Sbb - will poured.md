@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** will poured · **Root:** صبب
 
+
 ### Words (wikilinks — these create the graph)
 - [[Sb - will poured]]
 

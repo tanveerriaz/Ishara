@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we revealed · **Root:** وحي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>wHY - we revealed]]
 - [[wHY - inspiration]]

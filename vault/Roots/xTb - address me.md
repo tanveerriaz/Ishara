@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** address me · **Root:** خطب
 
+
 ### Words (wikilinks — these create the graph)
 - [[xATb - address me]]
 - [[xTb - was affair]]

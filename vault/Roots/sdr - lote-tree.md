@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** lote-tree · **Root:** سدر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

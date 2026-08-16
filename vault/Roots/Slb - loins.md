@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** loins · **Root:** صلب
 
+
 ### Words (wikilinks — these create the graph)
 - [[Slb - loins]]
+- [[Slb - they crucified him]]
 - [[ySlb - they crucified]]
 
 ### Surahs where this root appears

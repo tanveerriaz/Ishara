@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** firm mountains · **Root:** رسو
 
+
 ### Words (wikilinks — these create the graph)
 - [[mrsY - its anchorage]]
 - [[rwAsy - firm mountains]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** husk · **Root:** عصف
 
+
 ### Words (wikilinks — these create the graph)
 - [[ESf - husk]]
 

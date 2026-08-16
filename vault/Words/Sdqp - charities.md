@@ -3,7 +3,7 @@ type: word
 lemma: "صَدَقَة"
 slug: "Sdqp - charities"
 surah_count: 4
-ayah_count: 14
+ayah_count: 13
 tags: [word, meaning]
 ---
 
@@ -119,24 +119,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/276)
 
-#### 4:4 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَـٰتِهِنَّ نِحْلَةً ۚ فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا
-
-</div>
-
-**Word in this verse:** `صَدُقَـٰتِهِنَّ` — their dower
-
-**English (Sahih International):** And give the women [upon marriage] their [bridal] gifts graciously. But if they give up willingly to you anything of it, then take it in satisfaction and ease.
-
-**English (Yusuf Ali):** And give the women (on marriage) their dower as a free gift; but if they, of their own good pleasure, remit any part of it to you, Take it and enjoy it with right good cheer.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور عورتوں کو ان کے مہر خوشی سے دے دیا کرو۔ ہاں اگر وہ اپنی خوشی سے اس میں سے کچھ تم کو چھوڑ دیں تو اسے ذوق شوق سے کھالو
-
-[Open on Quran.com](https://quran.com/4/4)
-
 #### 4:114 · [[004 An-Nisa]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -209,5 +191,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/9/79)
 
-_…and **4** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 9:103 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَوٰتَكَ سَكَنٌ لَّهُمْ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `صَدَقَةًۭ` — a charity
+
+**English (Sahih International):** Take, [O Muḥammad], from their wealth a charity by which you purify them and cause them increase, and invoke [Allāh's blessings] upon them. Indeed, your invocations are reassurance for them. And Allāh is Hearing and Knowing.
+
+**English (Yusuf Ali):** Of their goods, take alms, that so thou mightest purify and sanctify them; and pray on their behalf. Verily thy prayers are a source of security for them: And Allah is One Who heareth and knoweth.
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کے مال میں سے زکوٰة قبول کر لو کہ اس سے تم ان کو (ظاہر میں بھی) پاک اور (باطن میں بھی) پاکیزہ کرتے ہو اور ان کے حق میں دعائے خیر کرو کہ تمہاری دعا ان کے لیے موجب تسکین ہے اور خدا سننے والا اور جاننے والا ہے
+
+[Open on Quran.com](https://quran.com/9/103)
+
+_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

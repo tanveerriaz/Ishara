@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** scatter · **Root:** نثر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we drowned · **Root:** غرق
 
+
 ### Words (wikilinks — these create the graph)
 - [[>grq - we drowned]]
 - [[mgrq - ones drowned]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fools · **Root:** سفه
 
+
 ### Words (wikilinks — these create the graph)
 - [[sfyh - fools]]
 

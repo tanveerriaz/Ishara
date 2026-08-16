@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "وَعَدَ"
+lemma: "وَعْد"
 slug: "wEd - promise"
-surah_count: 48
-ayah_count: 104
+surah_count: 28
+ayah_count: 46
 tags: [word, meaning]
 ---
 
@@ -17,16 +17,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[wEd - promise]]
 
 ### Meaning
-**promise** · Lemma **وَعَدَ**
+**promise** · Lemma **وَعْد**
 
-### Surahs (48)
-- [[002 Al-Baqarah]]
+### Surahs (28)
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
-- [[005 Al-Maidah]]
-- [[006 Al-Anam]]
-- [[007 Al-Araf]]
-- [[008 Al-Anfal]]
 - [[009 At-Tawbah]]
 - [[010 Yunus]]
 - [[011 Hud]]
@@ -39,34 +34,21 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[020 Taha]]
 - [[021 Al-Anbya]]
 - [[022 Al-Hajj]]
-- [[023 Al-Muminun]]
-- [[024 An-Nur]]
 - [[025 Al-Furqan]]
-- [[026 Ash-Shuara]]
 - [[027 An-Naml]]
 - [[028 Al-Qasas]]
+- [[030 Ar-Rum]]
+- [[031 Luqman]]
+- [[034 Saba]]
+- [[035 Fatir]]
+- [[036 Ya-Sin]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[045 Al-Jathiyah]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:268 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلشَّيْطَـٰنُ يَعِدُكُمُ ٱلْفَقْرَ وَيَأْمُرُكُم بِٱلْفَحْشَآءِ ۖ وَٱللَّهُ يَعِدُكُم مَّغْفِرَةً مِّنْهُ وَفَضْلًا ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
-
-</div>
-
-**Word in this verse:** `يَعِدُكُمُ` — promises you
-
-**English (Sahih International):** Satan threatens you with poverty and orders you to immorality, while Allāh promises you forgiveness from Him and bounty. And Allāh is all-Encompassing and Knowing.
-
-**English (Yusuf Ali):** The Evil one threatens you with poverty and bids you to conduct unseemly. Allah promiseth you His forgiveness and bounties. And Allah careth for all and He knoweth all things.
-
-**Urdu (Fatah Muhammad Jalandhari):** (اور دیکھنا) شیطان (کا کہنا نہ ماننا وہ) تمہیں تنگ دستی کا خوف دلاتا اور بےحیائی کے کام کر نے کو کہتا ہے۔ اور خدا تم سے اپنی بخشش اور رحمت کا وعدہ کرتا ہے۔ اور خدا بڑی کشائش والا (اور) سب کچھ جاننے والا ہے
-
-[Open on Quran.com](https://quran.com/2/268)
 
 #### 3:152 · [[003 Ali Imran]]
 
@@ -86,60 +68,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/152)
 
-#### 3:194 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ ٱلْقِيَـٰمَةِ ۗ إِنَّكَ لَا تُخْلِفُ ٱلْمِيعَادَ
-
-</div>
-
-**Word in this verse:** `وَعَدتَّنَا` — You promised us
-
-**English (Sahih International):** Our Lord, and grant us what You promised us through Your messengers and do not disgrace us on the Day of Resurrection. Indeed, You do not fail in [Your] promise."
-
-**English (Yusuf Ali):** "Our Lord! Grant us what Thou didst promise unto us through Thine messengers, and save us from shame on the Day of Judgment: For Thou never breakest Thy promise."
-
-**Urdu (Fatah Muhammad Jalandhari):** اے پروردگار تو نے جن جن چیزوں کے ہم سے اپنے پیغمبروں کے ذریعے سے وعدے کیے ہیں وہ ہمیں عطا فرما اور قیامت کے دن ہمیں رسوا نہ کیجو کچھ شک نہیں کہ تو خلاف وعدہ نہیں کرتا
-
-[Open on Quran.com](https://quran.com/3/194)
-
-#### 4:95 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-لَّا يَسْتَوِى ٱلْقَـٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۚ فَضَّلَ ٱللَّهُ ٱلْمُجَـٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ عَلَى ٱلْقَـٰعِدِينَ دَرَجَةً ۚ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَفَضَّلَ ٱللَّهُ ٱلْمُجَـٰهِدِينَ عَلَى ٱلْقَـٰعِدِينَ أَجْرًا عَظِيمًا
-
-</div>
-
-**Word in this verse:** `وَعَدَ` — promised
-
-**English (Sahih International):** Not equal are those believers remaining [at home] - other than the disabled - and the mujāhideen, [who strive and fight] in the cause of Allāh with their wealth and their lives. Allāh has preferred the mujāhideen through their wealth and their lives over those who remain [behind], by degrees. And to all [i.e., both] Allāh has promised the best [reward]. But Allāh has preferred the mujāhideen over those who remain [behind] with a great reward -
-
-**English (Yusuf Ali):** Not equal are those believers who sit (at home) and receive no hurt, and those who strive and fight in the cause of Allah with their goods and their persons. Allah hath granted a grade higher to those who strive and fight with their goods and persons than to those who sit (at home). Unto all (in Faith) Hath Allah promised good: But those who strive and fight Hath He distinguished above those who sit (at home) by a special reward,-
-
-**Urdu (Fatah Muhammad Jalandhari):** جو مسلمان (گھروں میں) بیٹھ رہتے (اور لڑنے سے جی چراتے) ہیں اور کوئی عذر نہیں رکھتے وہ اور جو خدا کی راہ میں اپنے مال اور جان سے لڑتے ہیں وہ دونوں برابر نہیں ہو سکتے خدا نے مال اور جان سے جہاد کرنے والوں کو بیٹھ رہنے والوں پر درجے میں فضیلت بخشی ہے اور (گو) نیک وعدہ سب سے ہے لیکن اجر عظیم کے لحاظ سے خدا نے جہاد کرنے والوں کو بیٹھ رہنے والوں پر کہیں فضیلت بخشی ہے
-
-[Open on Quran.com](https://quran.com/4/95)
-
-#### 4:120 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَعِدُهُمْ وَيُمَنِّيهِمْ ۖ وَمَا يَعِدُهُمُ ٱلشَّيْطَـٰنُ إِلَّا غُرُورًا
-
-</div>
-
-**Word in this verse:** `يَعِدُهُمْ` — He promises them
-
-**English (Sahih International):** He [i.e., Satan] promises them and arouses desire in them. But Satan does not promise them except delusion.
-
-**English (Yusuf Ali):** Satan makes them promises, and creates in them false desires; but satan's promises are nothing but deception.
-
-**Urdu (Fatah Muhammad Jalandhari):** وہ ان کو وعدے دیتا رہا اور امیدیں دلاتا ہے اور جو کچھ شیطان انہیں وعدے دیتا ہے جو دھوکا ہی دھوکا ہے
-
-[Open on Quran.com](https://quran.com/4/120)
-
 #### 4:122 · [[004 An-Nisa]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -158,77 +86,149 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/122)
 
-#### 5:9 · [[005 Al-Maidah]]
+#### 9:111 · [[009 At-Tawbah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ۙ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ
+۞ إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ ۚ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ ۚ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ ٱلَّذِى بَايَعْتُم بِهِۦ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
 
 </div>
 
-**Word in this verse:** `وَعَدَ` — Has promised
+**Word in this verse:** `وَعْدًا` — A promise
 
-**English (Sahih International):** Allāh has promised those who believe and do righteous deeds [that] for them there is forgiveness and great reward.
+**English (Sahih International):** Indeed, Allāh has purchased from the believers their lives and their properties [in exchange] for that they will have Paradise. They fight in the cause of Allāh, so they kill and are killed. [It is] a true promise [binding] upon Him in the Torah and the Gospel and the Qur’ān. And who is truer to his covenant than Allāh? So rejoice in your transaction which you have contracted. And it is that which is the great attainment.
 
-**English (Yusuf Ali):** To those who believe and do deeds of righteousness hath Allah promised forgiveness and a great reward.
+**English (Yusuf Ali):** Allah hath purchased of the believers their persons and their goods; for theirs (in return) is the garden (of Paradise): they fight in His cause, and slay and are slain: a promise binding on Him in truth, through the Law, the Gospel, and the Qur'an: and who is more faithful to his covenant than Allah? then rejoice in the bargain which ye have concluded: that is the achievement supreme.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ایمان لائے اور نیک کام کرتے رہے ان سے خدا نے وعدہ فرمایا ہے کہ ان کے لیے بخشش اور اجر عظیم ہے
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے مومنوں سے ان کی جانیں اور ان کے مال خرید لیے ہیں (اور اس کے) عوض ان کے لیے بہشت (تیار کی) ہے۔ یہ لوگ خدا کی راہ میں لڑتے ہیں تو مارتے بھی ہیں اور مارے بھی جاتے ہیں بھی ہیں۔ یہ تورات اور انجیل اور قرآن میں سچا وعدہ ہے۔ جس کا پورا کرنا اسے ضرور ہے اور خدا سے زیادہ وعدہ پورا کرنے والا کون ہے تو جو سودا تم نے اس سے کیا ہے اس سے خوش رہو۔ اور یہی بڑی کامیابی ہے
 
-[Open on Quran.com](https://quran.com/5/9)
+[Open on Quran.com](https://quran.com/9/111)
 
-#### 6:134 · [[006 Al-Anam]]
+#### 10:4 · [[010 Yunus]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-إِنَّ مَا تُوعَدُونَ لَـَٔاتٍ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ
+إِلَيْهِ مَرْجِعُكُمْ جَمِيعًا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ إِنَّهُۥ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ بِٱلْقِسْطِ ۚ وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ
 
 </div>
 
-**Word in this verse:** `تُوعَدُونَ` — you are promised
+**Word in this verse:** `وَعْدَ` — Promise
 
-**English (Sahih International):** Indeed, what you are promised is coming, and you will not cause failure [to Allāh].
+**English (Sahih International):** To Him is your return all together. [It is] the promise of Allāh [which is] truth. Indeed, He begins the [process of] creation and then repeats it that He may reward those who have believed and done righteous deeds, in justice. But those who disbelieved will have a drink of scalding water and a painful punishment for what they used to deny.
 
-**English (Yusuf Ali):** All that hath been promised unto you will come to pass: nor can ye frustrate it (in the least bit).
+**English (Yusuf Ali):** To Him will be your return- of all of you. The promise of Allah is true and sure. It is He Who beginneth the process of creation, and repeateth it, that He may reward with justice those who believe and work righteousness; but those who reject Him will have draughts of boiling fluids, and a penalty grievous, because they did reject Him.
 
-**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ جو وعدہ تم سے کیا جاتا ہے وہ (وقوع میں) آنے والا ہے اور تم (خدا کو) مغلوب نہیں کر سکتے
+**Urdu (Fatah Muhammad Jalandhari):** اسی کے پاس تم سب کو لوٹ کر جانا ہے۔ خدا کا وعدہ سچا ہے۔ وہی خلقت کو پہلی بار پیدا کرتا ہے۔ پھر وہی اس کو دوبارہ پیدا کرے گا تاکہ ایمان والوں اور نیک کام کرنے والوں کو انصاف کے ساتھ بدلہ دے۔ اور جو کافر ہیں ان کے لیے پینے کو نہایت گرم پانی اور درد دینے والا عذاب ہوگا کیوں کہ (خدا سے) انکار کرتے تھے
 
-[Open on Quran.com](https://quran.com/6/134)
+[Open on Quran.com](https://quran.com/10/4)
 
-#### 7:44 · [[007 Al-Araf]]
+#### 10:48 · [[010 Yunus]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَنَادَىٰٓ أَصْحَـٰبُ ٱلْجَنَّةِ أَصْحَـٰبَ ٱلنَّارِ أَن قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ حَقًّا ۖ قَالُوا۟ نَعَمْ ۚ فَأَذَّنَ مُؤَذِّنٌۢ بَيْنَهُمْ أَن لَّعْنَةُ ٱللَّهِ عَلَى ٱلظَّـٰلِمِينَ
+وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ
 
 </div>
 
-**Word in this verse:** `وَعَدَنَا` — (had) promised us
+**Word in this verse:** `ٱلْوَعْدُ` — the promise (be fulfilled)
 
-**English (Sahih International):** And the companions of Paradise will call out to the companions of the Fire, "We have already found what our Lord promised us to be true. Have you found what your Lord promised to be true?" They will say, "Yes." Then an announcer will announce among them, "The curse of Allāh shall be upon the wrongdoers
+**English (Sahih International):** And they say, "When is [the fulfillment of] this promise, if you should be truthful?"
 
-**English (Yusuf Ali):** The Companions of the Garden will call out to the Companions of the Fire: "We have indeed found the promises of our Lord to us true: Have you also found Your Lord's promises true?" They shall say, "Yes"; but a crier shall proclaim between them: "The curse of Allah is on the wrong-doers;-
+**English (Yusuf Ali):** They say: "When will this promise come to pass,- if ye speak the truth?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اہل بہشت دوزخیوں سے پکار کر کہیں گے کہ جو وعدہ ہمارے پروردگار نے ہم سے کیا تھا ہم نے تو اسے سچا پالیا۔ بھلا جو وعدہ تمہارے پروردگار نے تم سے کیا تھا تم نے بھی اسے سچا پایا؟ وہ کہیں گے ہاں تو (اس وقت) ان میں ایک پکارنے والا پکارے گا کہ بےانصافوں پر خدا کی لعنت
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ کہتے ہیں کہ اگر تم سچے ہو تو (جس عذاب کا) یہ وعدہ (ہے وہ آئے گا) کب؟
 
-[Open on Quran.com](https://quran.com/7/44)
+[Open on Quran.com](https://quran.com/10/48)
 
-#### 7:70 · [[007 Al-Araf]]
+#### 10:55 · [[010 Yunus]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-قَالُوٓا۟ أَجِئْتَنَا لِنَعْبُدَ ٱللَّهَ وَحْدَهُۥ وَنَذَرَ مَا كَانَ يَعْبُدُ ءَابَآؤُنَا ۖ فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ
+أَلَآ إِنَّ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ أَلَآ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 
 </div>
 
-**Word in this verse:** `تَعِدُنَآ` — you promise us
+**Word in this verse:** `وَعْدَ` — (the) Promise of Allah
 
-**English (Sahih International):** They said, "Have you come to us that we should worship Allāh alone and leave what our fathers have worshipped? Then bring us what you promise us, if you should be of the truthful."
+**English (Sahih International):** Unquestionably, to Allāh belongs whatever is in the heavens and the earth. Unquestionably, the promise of Allāh is truth, but most of them do not know.
 
-**English (Yusuf Ali):** They said: "Comest thou to us, that we may worship Allah alone, and give up the cult of our fathers? bring us what thou threatenest us with, if so be that thou tellest the truth!"
+**English (Yusuf Ali):** Is it not (the case) that to Allah belongeth whatever is in the heavens and on earth? Is it not (the case) that Allah's promise is assuredly true? Yet most of them understand not.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ کہنے لگے کہ تم ہمارے پاس اس لیے آئے ہو کہ ہم اکیلے خدا ہی کی عبادت کریں۔ اور جن کو ہمارے باپ دادا پوجتے چلے آئے ہیں ان کو چھوڑ دیں؟ تو اگر سچے ہو تو جس چیز سے ہمیں ڈراتے ہو اسے لے آؤ
+**Urdu (Fatah Muhammad Jalandhari):** سن رکھو جو کچھ آسمانوں اور زمینوں میں ہے سب خدا ہی کا ہے۔ اور یہ بھی سن رکھو کہ خدا کا وعدہ سچا ہے لیکن اکثر لوگ نہیں جانتے
 
-[Open on Quran.com](https://quran.com/7/70)
+[Open on Quran.com](https://quran.com/10/55)
 
-_…and **94** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 11:45 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَنَادَىٰ نُوحٌ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبْنِى مِنْ أَهْلِى وَإِنَّ وَعْدَكَ ٱلْحَقُّ وَأَنتَ أَحْكَمُ ٱلْحَـٰكِمِينَ
+
+</div>
+
+**Word in this verse:** `وَعْدَكَ` — Your promise
+
+**English (Sahih International):** And Noah called to his Lord and said, "My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges!"
+
+**English (Yusuf Ali):** And Noah called upon his Lord, and said: "O my Lord! surely my son is of my family! and Thy promise is true, and Thou art the justest of Judges!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور نوح نے اپنے پروردگار کو پکارا اور کہا کہ پروردگار میرا بیٹا بھی میرے گھر والوں میں ہے (تو اس کو بھی نجات دے) تیرا وعدہ سچا ہے اور تو سب سے بہتر حاکم ہے
+
+[Open on Quran.com](https://quran.com/11/45)
+
+#### 11:65 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا۟ فِى دَارِكُمْ ثَلَـٰثَةَ أَيَّامٍ ۖ ذَٰلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ
+
+</div>
+
+**Word in this verse:** `وَعْدٌ` — (is) a promise
+
+**English (Sahih International):** But they hamstrung her, so he said, "Enjoy yourselves in your homes for three days. That is a promise not to be denied [i.e., unfailing]."
+
+**English (Yusuf Ali):** But they did ham-string her. So he said: "Enjoy yourselves in your homes for three days: (Then will be your ruin): (Behold) there a promise not to be belied!"
+
+**Urdu (Fatah Muhammad Jalandhari):** مگر انہوں نے اس کی کانچیں کاٹ ڈالیں۔ تو (صالح نے) کہا کہ اپنے گھروں میں تم تین دن (اور) فائدہ اٹھا لو۔ یہ وعدہ ہے کہ جھوٹا نہ ہوگا
+
+[Open on Quran.com](https://quran.com/11/65)
+
+#### 13:31 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟ قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِّن دَارِهِمْ حَتَّىٰ يَأْتِىَ وَعْدُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ
+
+</div>
+
+**Word in this verse:** `وَعْدُ` — (the) promise
+
+**English (Sahih International):** And if there was any Qur’ān [i.e., recitation] by which the mountains would be removed or the earth would be broken apart or the dead would be made to speak, [it would be this Qur’ān], but to Allāh belongs the affair entirely. Then have those who believed not accepted that had Allāh willed, He would have guided the people, all of them? And those who disbelieve do not cease to be struck, for what they have done, by calamity - or it will descend near their home - until there comes the promise of Allāh. Indeed, Allāh does not fail in [His] promise.
+
+**English (Yusuf Ali):** If there were a Qur'an with which mountains were moved, or the earth were cloven asunder, or the dead were made to speak, (this would be the one!) But, truly, the command is with Allah in all things! Do not the Believers know, that, had Allah (so) willed, He could have guided all mankind (to the right)? But the Unbelievers,- never will disaster cease to seize them for their (ill) deeds, or to settle close to their homes, until the promise of Allah come to pass, for, verily, Allah will not fail in His promise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر کوئی قرآن ایسا ہوتا کہ اس (کی تاثیر) سے پہاڑ چل پڑتے یا زمین پھٹ جاتی یا مردوں سے کلام کرسکتے۔ (تو یہی قرآن ان اوصاف سے متصف ہوتا مگر) بات یہ ہے کہ سب باتیں خدا کے اختیار میں ہیں تو کیا مومنوں کو اس سے اطمینان نہیں ہوا کہ اگر خدا چاہتا تو سب لوگوں کو ہدایت کے رستے پر چلا دیتا۔ اور کافروں پر ہمیشہ ان کے اعمال کے بدلے بلا آتی رہے گی یا ان کے مکانات کے قریب نازل ہوتی رہے گی یہاں تک کہ خدا کا وعدہ آپہنچے۔ بےشک خدا وعدہ خلاف نہیں کرتا
+
+[Open on Quran.com](https://quran.com/13/31)
+
+#### 14:22 · [[014 Ibrahim]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ ٱلشَّيْطَـٰنُ لَمَّا قُضِىَ ٱلْأَمْرُ إِنَّ ٱللَّهَ وَعَدَكُمْ وَعْدَ ٱلْحَقِّ وَوَعَدتُّكُمْ فَأَخْلَفْتُكُمْ ۖ وَمَا كَانَ لِىَ عَلَيْكُم مِّن سُلْطَـٰنٍ إِلَّآ أَن دَعَوْتُكُمْ فَٱسْتَجَبْتُمْ لِى ۖ فَلَا تَلُومُونِى وَلُومُوٓا۟ أَنفُسَكُم ۖ مَّآ أَنَا۠ بِمُصْرِخِكُمْ وَمَآ أَنتُم بِمُصْرِخِىَّ ۖ إِنِّى كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ ۗ إِنَّ ٱلظَّـٰلِمِينَ لَهُمْ عَذَابٌ أَلِيمٌ
+
+</div>
+
+**Word in this verse:** `وَعْدَ` — a promise
+
+**English (Sahih International):** And Satan will say when the matter has been concluded, "Indeed, Allāh had promised you the promise of truth. And I promised you, but I betrayed you. But I had no authority over you except that I invited you, and you responded to me. So do not blame me; but blame yourselves. I cannot be called to your aid, nor can you be called to my aid. Indeed, I deny your association of me [with Allāh] before. Indeed, for the wrongdoers is a painful punishment."
+
+**English (Yusuf Ali):** And Satan will say when the matter is decided: "It was Allah Who gave you a promise of Truth: I too promised, but I failed in my promise to you. I had no authority over you except to call you but ye listened to me: then reproach not me, but reproach your own souls. I cannot listen to your cries, nor can ye listen to mine. I reject your former act in associating me with Allah. For wrong-doers there must be a grievous penalty."
+
+**Urdu (Fatah Muhammad Jalandhari):** جب (حساب کتاب کا) کام فیصلہ ہوچکے گا تو شیطان کہے گا (جو) وعدہ خدا نے تم سے کیا تھا (وہ تو) سچا (تھا) اور (جو) وعدہ میں نے تم سے کیا تھا وہ جھوٹا تھا۔ اور میرا تم پر کسی طرح کا زور نہیں تھا۔ ہاں میں نے تم کو (گمراہی اور باطل کی طرف) بلایا تو تم نے (جلدی سے اور بےدلیل) میرا کہا مان لیا۔ تو (آج) مجھے ملامت نہ کرو۔ اپنے آپ ہی کو ملامت کرو۔ نہ میں تمہاری فریاد رسی کرسکتا ہوں اور نہ تم میری فریاد رسی کرسکتے ہو۔ میں اس بات سے انکار کرتا ہوں کہ تم پہلے مجھے شریک بناتے تھے۔ بےشک جو ظالم ہیں ان کے لیے درد دینے والا عذاب ہے
+
+[Open on Quran.com](https://quran.com/14/22)
+
+_…and **36** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

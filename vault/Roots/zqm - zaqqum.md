@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** zaqqum · **Root:** زقم
 
+
 ### Words (wikilinks — these create the graph)
 - [[zqwm - zaqqum]]
 

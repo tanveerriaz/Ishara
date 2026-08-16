@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** stars · **Root:** كوكب
 
+
 ### Words (wikilinks — these create the graph)
 - [[kwkb - stars]]
 

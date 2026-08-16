@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** reflect · **Root:** فكر
 
+
 ### Words (wikilinks — these create the graph)
 - [[ytfkr - reflect]]
 

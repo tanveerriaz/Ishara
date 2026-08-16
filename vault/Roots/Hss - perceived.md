@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** perceived · **Root:** حسس
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Hs - perceived]]
 

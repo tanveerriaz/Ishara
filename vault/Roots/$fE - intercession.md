@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** intercession · **Root:** شفع
 
+
 ### Words (wikilinks — these create the graph)
 - [[$fAEp - intercession]]
 - [[$fyE - any intercessor]]

@@ -2,8 +2,8 @@
 type: word
 lemma: "ذَكَرَ"
 slug: "*kr - remember"
-surah_count: 60
-ayah_count: 180
+surah_count: 32
+ayah_count: 79
 tags: [word, meaning]
 ---
 
@@ -14,12 +14,12 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[*kr - remember]]
+- [[*kr - reminder]]
 
 ### Meaning
 **remember** · Lemma **ذَكَرَ**
 
-### Surahs (60)
+### Surahs (32)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -28,23 +28,23 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[007 Al-Araf]]
 - [[008 Al-Anfal]]
 - [[012 Yusuf]]
-- [[013 Ar-Rad]]
 - [[014 Ibrahim]]
-- [[015 Al-Hijr]]
-- [[016 An-Nahl]]
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
 - [[019 Maryam]]
 - [[020 Taha]]
 - [[021 Al-Anbya]]
 - [[022 Al-Hajj]]
-- [[023 Al-Muminun]]
 - [[024 An-Nur]]
-- [[025 Al-Furqan]]
 - [[026 Ash-Shuara]]
-- [[029 Al-Ankabut]]
-- [[032 As-Sajdah]]
 - [[033 Al-Ahzab]]
+- [[035 Fatir]]
+- [[037 As-Saffat]]
+- [[038 Sad]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[043 Az-Zukhruf]]
+- [[046 Al-Ahqaf]]
 
 ## Verses (full text)
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/231)
 
-_…and **170** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **69** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

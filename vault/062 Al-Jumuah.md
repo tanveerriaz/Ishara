@@ -15,36 +15,36 @@ The Congregation, Friday · 11 ayahs
 ## Words in this surah (graph)
 
 - [[ytmn - then wish]] — `يَتَمَنَّ` · then wish
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[Hkmp - wisdom]] — `حِكْمَة` · wisdom
-- [[AtY - give]] — `آتَى` · give
 - [[zEm - claim]] — `زَعَمَ` · claim
-- [[sEY - strive]] — `سَعَى` · strive
-- [[rd - returned]] — `رَدَّ` · returned
 - [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[qA}m - standing]] — `قائِم` · standing
-- [[allah - God]] — `الله` · God
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[qbl - before]] — `قَبْل` · before
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>rD - earth]] — `أَرْض` · earth
-- [[>my - unlettered]] — `أُمِّيّ` · unlettered
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[Elm - know]] — `عَلِمَ` · know
-- [[SAdq - truthful]] — `صادِق` · truthful
-- [[qDY - surely]] — `قَضَى` · surely
-- [[>flH - successful]] — `أَفْلَحَ` · successful
-- [[lhw - amusement]] — `لَهْو` · amusement
 - [[mbyn - clear]] — `مُبِين` · clear
 - [[$hAdp - witnessed]] — `شَهادَة` · witnessed
-- [[trk - we left]] — `تَرَكَ` · we left
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[tlY - recited]] — `تَلَى` · recited
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[frt - you flee]] — `فَرَّتْ` · you flee
+- [[>flH - successful]] — `أَفْلَحَ` · successful
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[Elm - know]] — `عَلِمَ` · know
+- [[nAdY - he called]] — `نادَى` · he called
+- [[qAl - say]] — `قالَ` · say
+- [[wly - protector]] — `وَلِيّ` · protector
+- [[Hml - lay us]] — `حُمِّلَ` · lay us
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[y*r - leave]] — `يَذَرَ` · leave
+- [[dwn - besides]] — `دُون` · besides
+- [[kvyr - many]] — `كَثِير` · many
+- [[tnt$r - then disperse]] — `تَنتَشِرُ` · then disperse
+- [[qbl - before]] — `قَبْل` · before
+- [[tjArp - commerce]] — `تِجارَة` · commerce
+- [[Eml - do]] — `عَمِلَ` · do
 
 ## Roots
 
 - [[$hd - witness]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>bd - ever]]
 - [[>mm - nation]]
 - [[>mn - believe]]

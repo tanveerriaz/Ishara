@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** time · **Root:** حين
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hyn - time]]
 

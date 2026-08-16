@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** return · **Root:** كرر
 
+
 ### Words (wikilinks — these create the graph)
 - [[krp - return]]
 

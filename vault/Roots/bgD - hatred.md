@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hatred · **Root:** بغض
 
+
 ### Words (wikilinks — these create the graph)
 - [[bgDA' - hatred]]
 

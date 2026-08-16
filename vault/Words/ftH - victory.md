@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "فَتَحَ"
+lemma: "فَتْح"
 slug: "ftH - victory"
-surah_count: 21
-ayah_count: 26
+surah_count: 9
+ayah_count: 12
 tags: [word, meaning]
 ---
 
@@ -17,52 +17,22 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[ftH - victory]]
 
 ### Meaning
-**victory** · Lemma **فَتَحَ**
+**victory** · Lemma **فَتْح**
 
-### Surahs (21)
-- [[002 Al-Baqarah]]
+### Surahs (9)
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
-- [[006 Al-Anam]]
-- [[007 Al-Araf]]
 - [[008 Al-Anfal]]
-- [[012 Yusuf]]
-- [[015 Al-Hijr]]
-- [[021 Al-Anbya]]
-- [[023 Al-Muminun]]
 - [[026 Ash-Shuara]]
 - [[032 As-Sajdah]]
-- [[034 Saba]]
-- [[035 Fatir]]
-- [[039 Az-Zumar]]
 - [[048 Al-Fath]]
-- [[054 Al-Qamar]]
 - [[057 Al-Hadid]]
 - [[061 As-Saf]]
-- [[078 An-Naba]]
 - [[110 An-Nasr]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:76 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَا بَعْضُهُمْ إِلَىٰ بَعْضٍ قَالُوٓا۟ أَتُحَدِّثُونَهُم بِمَا فَتَحَ ٱللَّهُ عَلَيْكُمْ لِيُحَآجُّوكُم بِهِۦ عِندَ رَبِّكُمْ ۚ أَفَلَا تَعْقِلُونَ
-
-</div>
-
-**Word in this verse:** `فَتَحَ` — has
-
-**English (Sahih International):** And when they meet those who believe, they say, "We have believed"; but when they are alone with one another, they say, "Do you talk to them about what Allāh has revealed to you so they can argue with you about it before your Lord?" Then will you not reason?
-
-**English (Yusuf Ali):** Behold! when they meet the men of Faith, they say: "We believe": But when they meet each other in private, they say: "Shall you tell them what Allah hath revealed to you, that they may engage you in argument about it before your Lord?"- Do ye not understand (their aim)?
-
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ جب مومنوں سے ملتے ہیں تو کہتے ہیں، ہم ایمان لے آئے ہیں۔ اور جب آپس میں ایک دوسرے سے ملتے ہیں تو کہتے ہیں، جو بات خدا نے تم پر ظاہر فرمائی ہے، وہ تم ان کو اس لیے بتائے دیتے ہو کہ (قیامت کے دن) اسی کے حوالے سے تمہارے پروردگار کے سامنے تم کو الزام دیں۔ کیا تم سمجھتے نہیں؟
-
-[Open on Quran.com](https://quran.com/2/76)
 
 #### 4:141 · [[004 An-Nisa]]
 
@@ -100,60 +70,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/5/52)
 
-#### 6:44 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦ فَتَحْنَا عَلَيْهِمْ أَبْوَٰبَ كُلِّ شَىْءٍ حَتَّىٰٓ إِذَا فَرِحُوا۟ بِمَآ أُوتُوٓا۟ أَخَذْنَـٰهُم بَغْتَةً فَإِذَا هُم مُّبْلِسُونَ
-
-</div>
-
-**Word in this verse:** `فَتَحْنَا` — We opened
-
-**English (Sahih International):** So when they forgot that by which they had been reminded, We opened to them the doors of every [good] thing until, when they rejoiced in that which they were given, We seized them suddenly, and they were [then] in despair.
-
-**English (Yusuf Ali):** But when they forgot the warning they had received, We opened to them the gates of all (good) things, until, in the midst of their enjoyment of Our gifts, on a sudden, We called them to account, when lo! they were plunged in despair!
-
-**Urdu (Fatah Muhammad Jalandhari):** پھر جب انہوں نے اس نصیحت کو جو ان کو گی گئی تھی فراموش کردیا تو ہم نے ان پر ہر چیز کے دروازے کھول دیئے۔ یہاں تک کہ جب ان چیزوں سے جو ان کو دی گئی تھیں خوب خوش ہوگئے تو ہم نے ان کو ناگہاں پکڑ لیا اور وہ اس وقت مایوس ہو کر رہ گئے
-
-[Open on Quran.com](https://quran.com/6/44)
-
-#### 7:89 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَدِ ٱفْتَرَيْنَا عَلَى ٱللَّهِ كَذِبًا إِنْ عُدْنَا فِى مِلَّتِكُم بَعْدَ إِذْ نَجَّىٰنَا ٱللَّهُ مِنْهَا ۚ وَمَا يَكُونُ لَنَآ أَن نَّعُودَ فِيهَآ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّنَا ۚ وَسِعَ رَبُّنَا كُلَّ شَىْءٍ عِلْمًا ۚ عَلَى ٱللَّهِ تَوَكَّلْنَا ۚ رَبَّنَا ٱفْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِٱلْحَقِّ وَأَنتَ خَيْرُ ٱلْفَـٰتِحِينَ
-
-</div>
-
-**Word in this verse:** `ٱفْتَحْ` — Decide
-
-**English (Sahih International):** We would have invented against Allāh a lie if we returned to your religion after Allāh had saved us from it. And it is not for us to return to it except that Allāh, our Lord, should will. Our Lord has encompassed all things in knowledge. Upon Allāh we have relied. Our Lord, decide between us and our people in truth, and You are the best of those who give decision."
-
-**English (Yusuf Ali):** "We should indeed invent a lie against Allah, if we returned to your ways after Allah hath rescued us therefrom; nor could we by any manner of means return thereto unless it be as in the will and plan of Allah, Our Lord. Our Lord can reach out to the utmost recesses of things by His knowledge. In the Allah is our trust. our Lord! decide Thou between us and our people in truth, for Thou art the best to decide."
-
-**Urdu (Fatah Muhammad Jalandhari):** اگر ہم اس کے بعد کہ خدا ہمیں اس سے نجات بخش چکا ہے تمہارے مذہب میں لوٹ جائیں تو بےشک ہم نے خدا پر جھوٹ افتراء باندھا۔ اور ہمیں شایاں نہیں کہ ہم اس میں لوٹ جائیں ہاں خدا جو ہمارا پروردگار ہے وہ چاہے تو (ہم مجبور ہیں)۔ ہمارے پروردگار کا علم ہر چیز پر احاطہ کیے ہوئے ہے۔ ہمارا خدا ہی پر بھروسہ ہے۔ اے پروردگار ہم میں اور ہماری قوم میں انصاف کے ساتھ فیصلہ کردے اور تو سب سے بہتر فیصلہ کرنے والا ہے
-
-[Open on Quran.com](https://quran.com/7/89)
-
-#### 7:96 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَوْ أَنَّ أَهْلَ ٱلْقُرَىٰٓ ءَامَنُوا۟ وَٱتَّقَوْا۟ لَفَتَحْنَا عَلَيْهِم بَرَكَـٰتٍ مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ وَلَـٰكِن كَذَّبُوا۟ فَأَخَذْنَـٰهُم بِمَا كَانُوا۟ يَكْسِبُونَ
-
-</div>
-
-**Word in this verse:** `لَفَتَحْنَا` — surely We (would have) opened
-
-**English (Sahih International):** And if only the people of the cities had believed and feared Allāh, We would have opened [i.e., bestowed] upon them blessings from the heaven and the earth; but they denied [the messengers], so We seized them for what they were earning.
-
-**English (Yusuf Ali):** If the people of the towns had but believed and feared Allah, We should indeed have opened out to them (All kinds of) blessings from heaven and earth; but they rejected (the truth), and We brought them to book for their misdeeds.
-
-**Urdu (Fatah Muhammad Jalandhari):** اگر ان بستیوں کے لوگ ایمان لے آتے اور پرہیزگار ہوجاتے۔ تو ہم ان پر آسمان اور زمین کی برکات (کے دروازے) کھول دیتے مگر انہوں نے تو تکذیب کی۔ سو ان کے اعمال کی سزا میں ہم نے ان کو پکڑ لیا
-
-[Open on Quran.com](https://quran.com/7/96)
-
 #### 8:19 · [[008 Al-Anfal]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -172,59 +88,131 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/8/19)
 
-#### 12:65 · [[012 Yusuf]]
+#### 26:118 · [[026 Ash-Shuara]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَلَمَّا فَتَحُوا۟ مَتَـٰعَهُمْ وَجَدُوا۟ بِضَـٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ ۖ قَالُوا۟ يَـٰٓأَبَانَا مَا نَبْغِى ۖ هَـٰذِهِۦ بِضَـٰعَتُنَا رُدَّتْ إِلَيْنَا ۖ وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ ۖ ذَٰلِكَ كَيْلٌ يَسِيرٌ
+فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًا وَنَجِّنِى وَمَن مَّعِىَ مِنَ ٱلْمُؤْمِنِينَ
 
 </div>
 
-**Word in this verse:** `فَتَحُوا۟` — they opened
+**Word in this verse:** `فَتْحًۭا` — (with decisive) judgment
 
-**English (Sahih International):** And when they opened their baggage, they found their merchandise returned to them. They said, "O our father, what [more] could we desire? This is our merchandise returned to us. And we will obtain supplies [i.e., food] for our family and protect our brother and obtain an increase of a camel's load; that is an easy measurement."
+**English (Sahih International):** Then judge between me and them with decisive judgement and save me and those with me of the believers."
 
-**English (Yusuf Ali):** Then when they opened their baggage, they found their stock-in-trade had been returned to them. They said: "O our father! What (more) can we desire? this our stock-in-trade has been returned to us: so we shall get (more) food for our family; We shall take care of our brother; and add (at the same time) a full camel's load (of grain to our provisions). This is but a small quantity.
+**English (Yusuf Ali):** "Judge Thou, then, between me and them openly, and deliver me and those of the Believers who are with me."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب انہوں نے اپنا اسباب کھولا تو دیکھا کہ ان کا سرمایہ واپس کر دیا گیا ہے۔ کہنے لگے ابّا ہمیں (اور) کیا چاہیئے (دیکھیے) یہ ہماری پونجی بھی ہمیں واپس کر دی گئی ہے۔ اب ہم اپنے اہل وعیال کے لیے پھر غلّہ لائیں گے اور اپنے بھائی کی نگہبانی کریں گے اور ایک بار شتر زیادہ لائیں گے (کہ) یہ غلّہ جو ہم لائے ہیں تھوڑا ہے
+**Urdu (Fatah Muhammad Jalandhari):** سو تو میرے اور ان کے درمیان ایک کھلا فیصلہ کردے اور مجھے اور جو میرے ساتھ ہیں ان کو بچا لے
 
-[Open on Quran.com](https://quran.com/12/65)
+[Open on Quran.com](https://quran.com/26/118)
 
-#### 15:14 · [[015 Al-Hijr]]
+#### 32:28 · [[032 As-Sajdah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَلَوْ فَتَحْنَا عَلَيْهِم بَابًا مِّنَ ٱلسَّمَآءِ فَظَلُّوا۟ فِيهِ يَعْرُجُونَ
+وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْفَتْحُ إِن كُنتُمْ صَـٰدِقِينَ
 
 </div>
 
-**Word in this verse:** `فَتَحْنَا` — We opened
+**Word in this verse:** `ٱلْفَتْحُ` — decision
 
-**English (Sahih International):** And [even] if We opened to them a gate from the heaven and they continued therein to ascend,
+**English (Sahih International):** And they say, "When will be this conquest, if you should be truthful?"
 
-**English (Yusuf Ali):** Even if We opened out to them a gate from heaven, and they were to continue (all day) ascending therein,
+**English (Yusuf Ali):** They say: "When will this decision be, if ye are telling the truth?"
 
-**Urdu (Fatah Muhammad Jalandhari):** اوراگر ہم آسمان کا کوئی دروازہ اُن پر کھول دیں اور وہ اس میں چڑھنے بھی لگیں
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں اگر تم سچے ہو تو یہ فیصلہ کب ہوگا؟
 
-[Open on Quran.com](https://quran.com/15/14)
+[Open on Quran.com](https://quran.com/32/28)
 
-#### 21:96 · [[021 Al-Anbya]]
+#### 32:29 · [[032 As-Sajdah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ
+قُلْ يَوْمَ ٱلْفَتْحِ لَا يَنفَعُ ٱلَّذِينَ كَفَرُوٓا۟ إِيمَـٰنُهُمْ وَلَا هُمْ يُنظَرُونَ
 
 </div>
 
-**Word in this verse:** `فُتِحَتْ` — has been opened
+**Word in this verse:** `ٱلْفَتْحِ` — (of) the Decision
 
-**English (Sahih International):** Until when [the dam of] Gog and Magog has been opened and they, from every elevation, descend
+**English (Sahih International):** Say, [O Muḥammad], "On the Day of Conquest the belief of those who had disbelieved will not benefit them, nor will they be reprieved."
 
-**English (Yusuf Ali):** Until the Gog and Magog (people) are let through (their barrier), and they swiftly swarm from every hill.
+**English (Yusuf Ali):** Say: "On the Day of Decision, no profit will it be to Unbelievers if they (then) believe! nor will they be granted a respite."
 
-**Urdu (Fatah Muhammad Jalandhari):** یہاں تک کہ یاجوج ماجوج کھول دیئے جائیں اور وہ ہر بلندی سے دوڑ رہے ہوں
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ فیصلے کے دن کافروں کو ان کا ایمان لانا کچھ بھی فائدہ نہ دے گا اور نہ اُن کو مہلت دی جائے گی
 
-[Open on Quran.com](https://quran.com/21/96)
+[Open on Quran.com](https://quran.com/32/29)
 
-_…and **16** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 48:1 · [[048 Al-Fath]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ إِنَّا فَتَحْنَا لَكَ فَتْحًا مُّبِينًا
+
+</div>
+
+**Word in this verse:** `فَتْحًۭا` — a victory
+
+**English (Sahih International):** Indeed, We have given you, [O Muḥammad], a clear conquest
+
+**English (Yusuf Ali):** Verily We have granted thee a manifest Victory:
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) ہم نے تم کو فتح دی۔ فتح بھی صریح وصاف
+
+[Open on Quran.com](https://quran.com/48/1)
+
+#### 48:18 · [[048 Al-Fath]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَـٰبَهُمْ فَتْحًا قَرِيبًا
+
+</div>
+
+**Word in this verse:** `فَتْحًۭا` — (with) a victory
+
+**English (Sahih International):** Certainly was Allāh pleased with the believers when they pledged allegiance to you, [O Muḥammad], under the tree, and He knew what was in their hearts, so He sent down tranquility upon them and rewarded them with an imminent conquest
+
+**English (Yusuf Ali):** Allah's Good Pleasure was on the Believers when they swore Fealty to thee under the Tree: He knew what was in their hearts, and He sent down Tranquillity to them; and He rewarded them with a speedy Victory;
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) جب مومن تم سے درخت کے نیچے بیعت کر رہے تھے تو خدا ان سے خوش ہوا۔ اور جو (صدق وخلوص) ان کے دلوں میں تھا وہ اس نے معلوم کرلیا۔ تو ان پر تسلی نازل فرمائی اور انہیں جلد فتح عنایت کی
+
+[Open on Quran.com](https://quran.com/48/18)
+
+#### 48:27 · [[048 Al-Fath]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ ۖ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ ۖ فَعَلِمَ مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا
+
+</div>
+
+**Word in this verse:** `فَتْحًۭا` — a victory
+
+**English (Sahih International):** Certainly has Allāh showed to His Messenger the vision [i.e., dream] in truth. You will surely enter al-Masjid al-Ḥarām, if Allāh wills, in safety, with your heads shaved and [hair] shortened, not fearing [anyone]. He knew what you did not know and has arranged before that a conquest near [at hand].
+
+**English (Yusuf Ali):** Truly did Allah fulfil the vision for His Messenger: ye shall enter the Sacred Mosque, if Allah wills, with minds secure, heads shaved, hair cut short, and without fear. For He knew what ye knew not, and He granted, besides this, a speedy victory.
+
+**Urdu (Fatah Muhammad Jalandhari):** بےشک خدا نے اپنے پیغمبر کو سچا (اور) صحیح خواب دکھایا۔ کہ تم خدا نے چاہا تو مسجد حرام میں اپنے سر منڈوا کر اور اپنے بال کتروا کر امن وامان سے داخل ہوگے۔ اور کسی طرح کا خوف نہ کرو گے۔ جو بات تم نہیں جانتے تھے اس کو معلوم تھی سو اس نے اس سے پہلے ہی جلد فتح کرادی
+
+[Open on Quran.com](https://quran.com/48/27)
+
+#### 57:10 · [[057 Al-Hadid]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَـٰتَلَ ۚ أُو۟لَـٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَـٰتَلُوا۟ ۚ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+
+</div>
+
+**Word in this verse:** `ٱلْفَتْحِ` — the victory
+
+**English (Sahih International):** And why do you not spend in the cause of Allāh while to Allāh belongs the heritage of the heavens and the earth? Not equal among you are those who spent before the conquest [of Makkah] and fought [and those who did so after it]. Those are greater in degree than they who spent afterwards and fought. But to all Allāh has promised the best [reward]. And Allāh, of what you do, is Aware.
+
+**English (Yusuf Ali):** And what cause have ye why ye should not spend in the cause of Allah?- For to Allah belongs the heritage of the heavens and the earth. Not equal among you are those who spent (freely) and fought, before the Victory, (with those who did so later). Those are higher in rank than those who spent (freely) and fought afterwards. But to all has Allah promised a goodly (reward). And Allah is well acquainted with all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم کو کیا ہوا ہے کہ خدا کے رستے میں خرچ نہیں کرتے حالانکہ آسمانوں اور زمین کی وراثت خدا ہی کی ہے۔ جس شخص نے تم میں سے فتح (مکہ) سے پہلے خرچ کیا اور لڑائی کی وہ (اور جس نے یہ کام پیچھے کئے وہ) برابر نہیں۔ ان کا درجہ ان لوگوں سے کہیں بڑھ کر ہے جنہوں نے بعد میں خرچ (اموال) اور (کفار سے) جہاد وقتال کیا۔ اور خدا نے سب سے (ثواب) نیک (کا) وعدہ تو کیا ہے۔ اور جو کام تم کرتے ہو خدا ان سے واقف ہے
+
+[Open on Quran.com](https://quran.com/57/10)
+
+_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -2,8 +2,8 @@
 type: word
 lemma: "خَيْرَة"
 slug: "xyrp - good deeds"
-surah_count: 10
-ayah_count: 12
+surah_count: 8
+ayah_count: 10
 tags: [word, meaning]
 ---
 
@@ -19,15 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **good deeds** · Lemma **خَيْرَة**
 
-### Surahs (10)
+### Surahs (8)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[005 Al-Maidah]]
 - [[009 At-Tawbah]]
 - [[021 Al-Anbya]]
 - [[023 Al-Muminun]]
-- [[028 Al-Qasas]]
-- [[033 Al-Ahzab]]
 - [[035 Fatir]]
 - [[055 Ar-Rahman]]
 
@@ -179,41 +177,39 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/23/61)
 
-#### 28:68 · [[028 Al-Qasas]]
+#### 35:32 · [[035 Fatir]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَرَبُّكَ يَخْلُقُ مَا يَشَآءُ وَيَخْتَارُ ۗ مَا كَانَ لَهُمُ ٱلْخِيَرَةُ ۚ سُبْحَـٰنَ ٱللَّهِ وَتَعَـٰلَىٰ عَمَّا يُشْرِكُونَ
+ثُمَّ أَوْرَثْنَا ٱلْكِتَـٰبَ ٱلَّذِينَ ٱصْطَفَيْنَا مِنْ عِبَادِنَا ۖ فَمِنْهُمْ ظَالِمٌ لِّنَفْسِهِۦ وَمِنْهُم مُّقْتَصِدٌ وَمِنْهُمْ سَابِقٌۢ بِٱلْخَيْرَٰتِ بِإِذْنِ ٱللَّهِ ۚ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ
 
 </div>
 
-**Word in this verse:** `ٱلْخِيَرَةُ ۚ` — the choice
+**Word in this verse:** `بِٱلْخَيْرَٰتِ` — in good deeds
 
-**English (Sahih International):** And your Lord creates what He wills and chooses; not for them was the choice. Exalted is Allāh and high above what they associate with Him.
+**English (Sahih International):** Then We caused to inherit the Book those We have chosen of Our servants; and among them is he who wrongs himself [i.e., sins], and among them is he who is moderate, and among them is he who is foremost in good deeds by permission of Allāh. That [inheritance] is what is the great bounty.
 
-**English (Yusuf Ali):** Thy Lord does create and choose as He pleases: no choice have they (in the matter): Glory to Allah! and far is He above the partners they ascribe (to Him)!
+**English (Yusuf Ali):** Then We have given the Book for inheritance to such of Our Servants as We have chosen: but there are among them some who wrong their own souls; some who follow a middle course; and some who are, by Allah's leave, foremost in good deeds; that is the highest Grace.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا پروردگار جو چاہتا ہے پیدا کرتا ہے اور (جسے چاہتا ہے) برگزیدہ کرلیتا ہے۔ ان کو اس کا اختیار نہیں ہے۔ یہ جو شرک کرتے ہیں خدا اس سے پاک وبالاتر ہے
+**Urdu (Fatah Muhammad Jalandhari):** پھر ہم نے ان لوگوں کو کتاب کا وارث ٹھیرایا جن کو اپنے بندوں میں سے برگزیدہ کیا۔ تو کچھ تو ان میں سے اپنے آپ پر ظلم کرتے ہیں۔ اور کچھ میانہ رو ہیں۔ اور کچھ خدا کے حکم سے نیکیوں میں آگے نکل جانے والے ہیں۔ یہی بڑا فضل ہے
 
-[Open on Quran.com](https://quran.com/28/68)
+[Open on Quran.com](https://quran.com/35/32)
 
-#### 33:36 · [[033 Al-Ahzab]]
+#### 55:70 · [[055 Ar-Rahman]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا أَن يَكُونَ لَهُمُ ٱلْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ ضَلَّ ضَلَـٰلًا مُّبِينًا
+فِيهِنَّ خَيْرَٰتٌ حِسَانٌ
 
 </div>
 
-**Word in this verse:** `ٱلْخِيَرَةُ` — (any) choice
+**Word in this verse:** `خَيْرَٰتٌ` — (are) good
 
-**English (Sahih International):** It is not for a believing man or a believing woman, when Allāh and His Messenger have decided a matter, that they should [thereafter] have any choice about their affair. And whoever disobeys Allāh and His Messenger has certainly strayed into clear error.
+**English (Sahih International):** In them are good and beautiful women -
 
-**English (Yusuf Ali):** It is not fitting for a Believer, man or woman, when a matter has been decided by Allah and His Messenger to have any option about their decision: if any one disobeys Allah and His Messenger, he is indeed on a clearly wrong Path.
+**English (Yusuf Ali):** In them will be fair (Companions), good, beautiful;-
 
-**Urdu (Fatah Muhammad Jalandhari):** اور کسی مومن مرد اور مومن عورت کو حق نہیں ہے کہ جب خدا اور اس کا رسول کوئی امر مقرر کردیں تو وہ اس کام میں اپنا بھی کچھ اختیار سمجھیں۔ اور جو کوئی خدا اور اس کے رسول کی نافرمانی کرے وہ صریح گمراہ ہوگیا
+**Urdu (Fatah Muhammad Jalandhari):** ان میں نیک سیرت (اور) خوبصورت عورتیں ہیں
 
-[Open on Quran.com](https://quran.com/33/36)
-
-_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+[Open on Quran.com](https://quran.com/55/70)
 

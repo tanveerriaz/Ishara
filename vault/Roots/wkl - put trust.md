@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** put trust · **Root:** وكل
 
+
 ### Words (wikilinks — these create the graph)
 - [[mtwkl - trust]]
 - [[twkl - put trust]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** will i leave · **Root:** برح
 
+
 ### Words (wikilinks — these create the graph)
 - [[>brH - will i leave]]
 

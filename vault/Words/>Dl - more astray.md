@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "أَضَلَّ"
+lemma: "أَضَلّ"
 slug: ">Dl - more astray"
-surah_count: 33
-ayah_count: 68
+surah_count: 7
+ayah_count: 9
 tags: [word, meaning]
 ---
 
@@ -17,164 +17,20 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[Dll - astray]]
 
 ### Meaning
-**more astray** · Lemma **أَضَلَّ**
+**more astray** · Lemma **أَضَلّ**
 
-### Surahs (33)
-- [[002 Al-Baqarah]]
-- [[003 Ali Imran]]
-- [[004 An-Nisa]]
+### Surahs (7)
 - [[005 Al-Maidah]]
-- [[006 Al-Anam]]
 - [[007 Al-Araf]]
-- [[009 At-Tawbah]]
-- [[010 Yunus]]
-- [[013 Ar-Rad]]
-- [[014 Ibrahim]]
-- [[016 An-Nahl]]
 - [[017 Al-Isra]]
-- [[018 Al-Kahf]]
-- [[020 Taha]]
-- [[022 Al-Hajj]]
 - [[025 Al-Furqan]]
-- [[026 Ash-Shuara]]
 - [[028 Al-Qasas]]
-- [[030 Ar-Rum]]
-- [[031 Luqman]]
-- [[033 Al-Ahzab]]
-- [[035 Fatir]]
-- [[036 Ya-Sin]]
-- [[038 Sad]]
-- [[039 Az-Zumar]]
+- [[041 Fussilat]]
+- [[046 Al-Ahqaf]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:26 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ إِنَّ ٱللَّهَ لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۘ يُضِلُّ بِهِۦ كَثِيرًا وَيَهْدِى بِهِۦ كَثِيرًا ۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلْفَـٰسِقِينَ
-
-</div>
-
-**Word in this verse:** `يُضِلُّ` — He lets go astray
-
-**English (Sahih International):** Indeed, Allāh is not timid to present an example - that of a mosquito or what is smaller than it. And those who have believed know that it is the truth from their Lord. But as for those who disbelieve, they say, "What did Allāh intend by this as an example?" He misleads many thereby and guides many thereby. And He misleads not except the defiantly disobedient,
-
-**English (Yusuf Ali):** Allah disdains not to use the similitude of things, lowest as well as highest. Those who believe know that it is truth from their Lord; but those who reject Faith say: "What means Allah by this similitude?" By it He causes many to stray, and many He leads into the right path; but He causes not to stray, except those who forsake (the path),-
-
-**Urdu (Fatah Muhammad Jalandhari):** الله اس بات سے عار نہیں کرتا کہ مچھر یا اس سے بڑھ کر کسی چیز (مثلاً مکھی مکڑی وغیرہ) کی مثال بیان فرمائے۔ جو مومن ہیں، وہ یقین کرتے ہیں وہ ان کے پروردگار کی طرف سے سچ ہے اور جو کافر ہیں وہ کہتے ہیں کہ اس مثال سے خدا کی مراد ہی کیا ہے۔ اس سے (خدا) بہتوں کو گمراہ کرتا ہے اور بہتوں کو ہدایت بخشتا ہے اور گمراہ بھی کرتا تو نافرمانوں ہی کو
-
-[Open on Quran.com](https://quran.com/2/26)
-
-#### 3:69 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَدَّت طَّآئِفَةٌ مِّنْ أَهْلِ ٱلْكِتَـٰبِ لَوْ يُضِلُّونَكُمْ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ
-
-</div>
-
-**Word in this verse:** `يُضِلُّونَكُمْ` — they could lead you astray
-
-**English (Sahih International):** A faction of the People of the Scripture wish they could mislead you. But they do not mislead except themselves, and they perceive [it] not.
-
-**English (Yusuf Ali):** It is the wish of a section of the People of the Book to lead you astray. But they shall lead astray (Not you), but themselves, and they do not perceive!
-
-**Urdu (Fatah Muhammad Jalandhari):** (اے اہل اسلام) بعضے اہلِ کتاب اس بات کی خواہش رکھتے ہیں کہ تم کو گمراہ کر دیں مگر یہ (تم کو کیا گمراہ کریں گے) اپنے آپ کو ہی گمراہ کر رہے ہیں اور نہیں جانتے
-
-[Open on Quran.com](https://quran.com/3/69)
-
-#### 4:60 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-أَلَمْ تَرَ إِلَى ٱلَّذِينَ يَزْعُمُونَ أَنَّهُمْ ءَامَنُوا۟ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓا۟ إِلَى ٱلطَّـٰغُوتِ وَقَدْ أُمِرُوٓا۟ أَن يَكْفُرُوا۟ بِهِۦ وَيُرِيدُ ٱلشَّيْطَـٰنُ أَن يُضِلَّهُمْ ضَلَـٰلًۢا بَعِيدًا
-
-</div>
-
-**Word in this verse:** `يُضِلَّهُمْ` — mislead them
-
-**English (Sahih International):** Have you not seen those who claim to have believed in what was revealed to you, [O Muḥammad], and what was revealed before you? They wish to refer legislation to ṭāghūt, while they were commanded to reject it; and Satan wishes to lead them far astray.
-
-**English (Yusuf Ali):** Hast thou not turned Thy vision to those who declare that they believe in the revelations that have come to thee and to those before thee? Their (real) wish is to resort together for judgment (in their disputes) to the Evil One, though they were ordered to reject him. But Satan's wish is to lead them astray far away (from the right).
-
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم نے ان لوگوں کو نہیں دیکھا جو دعویٰ تو یہ کرتے ہیں کہ جو (کتاب) تم پر نازل ہوئی اور جو (کتابیں) تم سے پہلے نازل ہوئیں ان سب پر ایمان رکھتے ہیں اور چاہتے یہ ہیں کہ اپنا مقدمہ ایک سرکش کے پاس لے جا کر فیصلہ کرائیں حالانکہ ان کو حکم دیا گیا تھا کہ اس سے اعتقاد نہ رکھیں اور شیطان (تو یہ) چاہتا ہے کہ ان کو بہکا کر رستے سے دور ڈال دے
-
-[Open on Quran.com](https://quran.com/4/60)
-
-#### 4:88 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ فَمَا لَكُمْ فِى ٱلْمُنَـٰفِقِينَ فِئَتَيْنِ وَٱللَّهُ أَرْكَسَهُم بِمَا كَسَبُوٓا۟ ۚ أَتُرِيدُونَ أَن تَهْدُوا۟ مَنْ أَضَلَّ ٱللَّهُ ۖ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا
-
-</div>
-
-**Word in this verse:** `أَضَلَّ` — is let astray
-
-**English (Sahih International):** What is [the matter] with you [that you are] two groups concerning the hypocrites, while Allāh has made them fall back [into error and disbelief] for what they earned. Do you wish to guide those whom Allāh has sent astray? And he whom Allāh sends astray - never will you find for him a way [of guidance].
-
-**English (Yusuf Ali):** Why should ye be divided into two parties about the Hypocrites? Allah hath upset them for their (evil) deeds. Would ye guide those whom Allah hath thrown out of the Way? For those whom Allah hath thrown out of the Way, never shalt thou find the Way.
-
-**Urdu (Fatah Muhammad Jalandhari):** تو کیا سبب ہے کہ تم منافقوں کے بارے میں دو گروہ ہو رہے ہو حالانکہ خدا نے ان کو ان کے کرتوتوں کے سبب اوندھا کردیا ہے کیا تم چاہتے ہو کہ جس شخص کو خدا نے گمراہ کردیا ہے اس کو رستے پر لے آؤ اور جس شخص کو خدا گمراہ کردے تو اس کے لئے کبھی بھی رستہ نہیں پاؤ گے
-
-[Open on Quran.com](https://quran.com/4/88)
-
-#### 4:113 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكَ وَرَحْمَتُهُۥ لَهَمَّت طَّآئِفَةٌ مِّنْهُمْ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمْ ۖ وَمَا يَضُرُّونَكَ مِن شَىْءٍ ۚ وَأَنزَلَ ٱللَّهُ عَلَيْكَ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُن تَعْلَمُ ۚ وَكَانَ فَضْلُ ٱللَّهِ عَلَيْكَ عَظِيمًا
-
-</div>
-
-**Word in this verse:** `يُضِلُّوكَ` — mislead you
-
-**English (Sahih International):** And if it was not for the favor of Allāh upon you, [O Muḥammad], and His mercy, a group of them would have determined to mislead you. But they do not mislead except themselves, and they will not harm you at all. And Allāh has revealed to you the Book and wisdom and has taught you that which you did not know. And ever has the favor of Allāh upon you been great.
-
-**English (Yusuf Ali):** But for the Grace of Allah to thee and his Mercy, a party of them would certainly have plotted to lead thee astray. But (in fact) they will only Lead their own souls astray, and to thee they can do no harm in the least. For Allah hath sent down to thee the Book and wisdom and taught thee what thou Knewest not (before): And great is the Grace of Allah unto thee.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم پر خدا کا فضل اور مہربانی نہ ہوتی تو ان میں سے ایک جماعت تم کو بہکانے کا قصد کر ہی چکی تھی اور یہ اپنے سوا (کسی کو) بہکا نہیں سکتے اور نہ تمہارا کچھ بگاڑ سکتے ہیں اور خدا نے تم پر کتاب اور دانائی نازل فرمائی ہے اور تمہیں وہ باتیں سکھائی ہیں جو تم جانتے نہیں تھے اور تم پر خدا کا بڑا فضل ہے
-
-[Open on Quran.com](https://quran.com/4/113)
-
-#### 4:119 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَـَٔامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَـٰمِ وَلَـَٔامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَـٰنَ وَلِيًّا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُّبِينًا
-
-</div>
-
-**Word in this verse:** `وَلَأُضِلَّنَّهُمْ` — And I will surely mislead them
-
-**English (Sahih International):** And I will mislead them, and I will arouse in them [sinful] desires, and I will command them so they will slit the ears of cattle, and I will command them so they will change the creation of Allāh." And whoever takes Satan as an ally instead of Allāh has certainly sustained a clear loss.
-
-**English (Yusuf Ali):** "I will mislead them, and I will create in them false desires; I will order them to slit the ears of cattle, and to deface the (fair) nature created by Allah." Whoever, forsaking Allah, takes satan for a friend, hath of a surety suffered a loss that is manifest.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کو گمراہ کرتا اور امیدیں دلاتا ہروں گا اور یہ سکھاتا رہوں گا کہ جانوروں کے کان چیرتے رہیں اور (یہ بھی) کہتا رہوں گا کہ وہ خدا کی بنائی ہوئی صورتوں کو بدلتے رہیں اور جس شخص نے خدا کو چھوڑ کر شیطان کو دوست بنایا اور وہ صریح نقصان میں پڑ گیا
-
-[Open on Quran.com](https://quran.com/4/119)
-
-#### 4:143 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-مُّذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَآ إِلَىٰ هَـٰٓؤُلَآءِ وَلَآ إِلَىٰ هَـٰٓؤُلَآءِ ۚ وَمَن يُضْلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا
-
-</div>
-
-**Word in this verse:** `يُضْلِلِ` — has been lead astray
-
-**English (Sahih International):** Wavering between them, [belonging] neither to these [i.e., the believers] nor to those [i.e., the disbelievers]. And whoever Allāh sends astray - never will you find for him a way.
-
-**English (Yusuf Ali):** (They are) distracted in mind even in the midst of it,- being (sincerely) for neither one group nor for another whom Allah leaves straying,- never wilt thou find for him the way.
-
-**Urdu (Fatah Muhammad Jalandhari):** بیچ میں پڑے لٹک رہے ہیں نہ ان کی طرف (ہوتے ہیں) نہ ان کی طرف اور جس کو خدا بھٹکائے تو اس کے لئے کبھی بھی رستہ نہ پاؤ گے
-
-[Open on Quran.com](https://quran.com/4/143)
 
 #### 5:60 · [[005 Al-Maidah]]
 
@@ -194,41 +50,147 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/5/60)
 
-#### 5:77 · [[005 Al-Maidah]]
+#### 7:179 · [[007 Al-Araf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ غَيْرَ ٱلْحَقِّ وَلَا تَتَّبِعُوٓا۟ أَهْوَآءَ قَوْمٍ قَدْ ضَلُّوا۟ مِن قَبْلُ وَأَضَلُّوا۟ كَثِيرًا وَضَلُّوا۟ عَن سَوَآءِ ٱلسَّبِيلِ
+وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ ٱلْجِنِّ وَٱلْإِنسِ ۖ لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ بِهَا وَلَهُمْ أَعْيُنٌ لَّا يُبْصِرُونَ بِهَا وَلَهُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بِهَآ ۚ أُو۟لَـٰٓئِكَ كَٱلْأَنْعَـٰمِ بَلْ هُمْ أَضَلُّ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْغَـٰفِلُونَ
 
 </div>
 
-**Word in this verse:** `وَأَضَلُّوا۟` — and they misled
+**Word in this verse:** `أَضَلُّ ۚ` — (are) more astray
 
-**English (Sahih International):** Say, "O People of the Scripture, do not exceed limits in your religion beyond the truth and do not follow the inclinations of a people who had gone astray before and misled many and have strayed from the soundness of the way."
+**English (Sahih International):** And We have certainly created for Hell many of the jinn and mankind. They have hearts with which they do not understand, they have eyes with which they do not see, and they have ears with which they do not hear. Those are like livestock; rather, they are more astray. It is they who are the heedless.
 
-**English (Yusuf Ali):** Say: "O people of the Book! exceed not in your religion the bounds (of what is proper), trespassing beyond the truth, nor follow the vain desires of people who went wrong in times gone by,- who misled many, and strayed (themselves) from the even way.
+**English (Yusuf Ali):** Many are the Jinns and men we have made for Hell: They have hearts wherewith they understand not, eyes wherewith they see not, and ears wherewith they hear not. They are like cattle,- nay more misguided: for they are heedless (of warning).
 
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ اے اہل کتاب! اپنے دین (کی بات) میں ناحق مبالغہ نہ کرو اور ایسے لوگوں کی خواہشوں کے پیچھے نہ چلو جو (خود بھی) پہلے گمراہ ہوئے اور اَور بھی اکثروں کو گمراہ کر گئے اور سیدھے رستے سے بھٹک گئے
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بہت سے جن اور انسان دوزخ کے لیے پیدا کیے ہیں۔ ان کے دل ہیں لیکن ان سے سمجھتے نہیں اور ان کی آنکھیں ہیں مگر ان سے دیکھتے نہیں اور ان کے کان ہیں پر ان سے سنتے نہیں۔ یہ لوگ بالکل چارپایوں کی طرح ہیں بلکہ ان سے بھی بھٹکے ہوئے۔ یہی وہ ہیں جو غفلت میں پڑے ہوئے ہیں
 
-[Open on Quran.com](https://quran.com/5/77)
+[Open on Quran.com](https://quran.com/7/179)
 
-#### 6:39 · [[006 Al-Anam]]
+#### 17:72 · [[017 Al-Isra]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا صُمٌّ وَبُكْمٌ فِى ٱلظُّلُمَـٰتِ ۗ مَن يَشَإِ ٱللَّهُ يُضْلِلْهُ وَمَن يَشَأْ يَجْعَلْهُ عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+وَمَن كَانَ فِى هَـٰذِهِۦٓ أَعْمَىٰ فَهُوَ فِى ٱلْـَٔاخِرَةِ أَعْمَىٰ وَأَضَلُّ سَبِيلًا
 
 </div>
 
-**Word in this verse:** `يُضْلِلْهُ` — He lets him go astray
+**Word in this verse:** `وَأَضَلُّ` — and more astray
 
-**English (Sahih International):** But those who deny Our verses are deaf and dumb within darknesses. Whomever Allāh wills - He sends astray; and whomever He wills - He puts him on a straight path.
+**English (Sahih International):** And whoever is blind in this [life] will be blind in the Hereafter and more astray in way.
 
-**English (Yusuf Ali):** Those who reject our signs are deaf and dumb,- in the midst of darkness profound: whom Allah willeth, He leaveth to wander: whom He willeth, He placeth on the way that is straight.
+**English (Yusuf Ali):** But those who were blind in this world, will be blind in the hereafter, and most astray from the Path.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے ہماری آیتوں کو جھٹلایا وہ بہرے اور گونگے ہیں (اس کے علاوہ) اندھیرے میں (پڑے ہوئے) جس کو خدا چاہے گمراہ کردے اور جسے چاہے سیدھے رستے پر چلا دے
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص اس (دنیا) میں اندھا ہو وہ آخرت میں بھی اندھا ہوگا۔ اور (نجات کے) رستے سے بہت دور
 
-[Open on Quran.com](https://quran.com/6/39)
+[Open on Quran.com](https://quran.com/17/72)
 
-_…and **58** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 25:34 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يُحْشَرُونَ عَلَىٰ وُجُوهِهِمْ إِلَىٰ جَهَنَّمَ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ سَبِيلًا
+
+</div>
+
+**Word in this verse:** `وَأَضَلُّ` — and most astray
+
+**English (Sahih International):** The ones who are gathered on their faces to Hell - those are the worst in position and farthest astray in [their] way.
+
+**English (Yusuf Ali):** Those who will be gathered to Hell (prone) on their faces,- they will be in an evil plight, and, as to Path, most astray.
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنے مونہوں کے بل دوزخ کی طرف جمع کئے جائیں گے ان کا ٹھکانا بھی برا ہے اور وہ رستے سے بھی بہکے ہوئے ہیں
+
+[Open on Quran.com](https://quran.com/25/34)
+
+#### 25:42 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن كَادَ لَيُضِلُّنَا عَنْ ءَالِهَتِنَا لَوْلَآ أَن صَبَرْنَا عَلَيْهَا ۚ وَسَوْفَ يَعْلَمُونَ حِينَ يَرَوْنَ ٱلْعَذَابَ مَنْ أَضَلُّ سَبِيلًا
+
+</div>
+
+**Word in this verse:** `أَضَلُّ` — (is) more astray
+
+**English (Sahih International):** He almost would have misled us from our gods had we not been steadfast in [worship of] them." But they are going to know, when they see the punishment, who is farthest astray in [his] way.
+
+**English (Yusuf Ali):** "He indeed would well-nigh have misled us from our gods, had it not been that we were constant to them!" - Soon will they know, when they see the Penalty, who it is that is most misled in Path!
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر ہم نے اپنے معبودوں کے بارے میں ثابت قدم نہ رہتے تو یہ ضرور ہم کو بہکا دیتا۔ (اور ان سے پھیر دیتا) اور یہ عنقریب معلوم کرلیں گے جب عذاب دیکھیں گے کہ سیدھے رستے سے کون بھٹکا ہوا ہے
+
+[Open on Quran.com](https://quran.com/25/42)
+
+#### 25:44 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ ۚ إِنْ هُمْ إِلَّا كَٱلْأَنْعَـٰمِ ۖ بَلْ هُمْ أَضَلُّ سَبِيلًا
+
+</div>
+
+**Word in this verse:** `أَضَلُّ` — (are) more astray
+
+**English (Sahih International):** Or do you think that most of them hear or reason? They are not except like livestock. Rather, they are [even] more astray in [their] way.
+
+**English (Yusuf Ali):** Or thinkest thou that most of them listen or understand? They are only like cattle;- nay, they are worse astray in Path.
+
+**Urdu (Fatah Muhammad Jalandhari):** یا تم یہ خیال کرتے ہو کہ ان میں اکثر سنتے یا سمجھتے ہیں (نہیں) یہ تو چوپایوں کی طرح ہیں بلکہ ان سے بھی زیادہ گمراہ ہیں
+
+[Open on Quran.com](https://quran.com/25/44)
+
+#### 28:50 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِن لَّمْ يَسْتَجِيبُوا۟ لَكَ فَٱعْلَمْ أَنَّمَا يَتَّبِعُونَ أَهْوَآءَهُمْ ۚ وَمَنْ أَضَلُّ مِمَّنِ ٱتَّبَعَ هَوَىٰهُ بِغَيْرِ هُدًى مِّنَ ٱللَّهِ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `أَضَلُّ` — (is) more astray
+
+**English (Sahih International):** But if they do not respond to you - then know that they only follow their [own] desires. And who is more astray than one who follows his desire without guidance from Allāh? Indeed, Allāh does not guide the wrongdoing people.
+
+**English (Yusuf Ali):** But if they hearken not to thee, know that they only follow their own lusts: and who is more astray than one who follow his own lusts, devoid of guidance from Allah? for Allah guides not people given to wrong-doing.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر اگر یہ تمہاری بات قبول نہ کریں تو جان لو کہ یہ صرف اپنی خواہشوں کی پیروی کرتے ہیں۔ اور اس سے زیادہ کون گمراہ ہوگا جو خدا کی ہدایت کو چھوڑ کر اپنی خواہش کے پیچھے چلے۔ بیشک خدا ظالم لوگوں کو ہدایت نہیں دیتا
+
+[Open on Quran.com](https://quran.com/28/50)
+
+#### 41:52 · [[041 Fussilat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ ثُمَّ كَفَرْتُم بِهِۦ مَنْ أَضَلُّ مِمَّنْ هُوَ فِى شِقَاقٍۭ بَعِيدٍ
+
+</div>
+
+**Word in this verse:** `أَضَلُّ` — (is) more astray
+
+**English (Sahih International):** Say, "Have you considered: if it [i.e., the Qur’ān] is from Allāh and you disbelieved in it, who would be more astray than one who is in extreme dissension?"
+
+**English (Yusuf Ali):** Say: "See ye if the (Revelation) is (really) from Allah, and yet do ye reject it? Who is more astray than one who is in a schism far (from any purpose)?"
+
+**Urdu (Fatah Muhammad Jalandhari):** کہو کہ بھلا دیکھو اگر یہ (قرآن) خدا کی طرف سے ہو پھر تم اس سے انکار کرو تو اس سے بڑھ کر کون گمراہ ہے جو (حق کی) پرلے درجے کی مخالفت میں ہو
+
+[Open on Quran.com](https://quran.com/41/52)
+
+#### 46:5 · [[046 Al-Ahqaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَنْ أَضَلُّ مِمَّن يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَن لَّا يَسْتَجِيبُ لَهُۥٓ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ وَهُمْ عَن دُعَآئِهِمْ غَـٰفِلُونَ
+
+</div>
+
+**Word in this verse:** `أَضَلُّ` — (is) more astray
+
+**English (Sahih International):** And who is more astray than he who invokes besides Allāh those who will not respond to him until the Day of Resurrection [i.e., never], and they, of their invocation, are unaware.
+
+**English (Yusuf Ali):** And who is more astray than one who invokes besides Allah, such as will not answer him to the Day of Judgment, and who (in fact) are unconscious of their call (to them)?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس شخص سے بڑھ کر کون گمراہ ہوسکتا ہے جو ایسے کو پکارے جو قیامت تک اسے جواب نہ دے سکے اور ان کو ان کے پکارنے ہی کی خبر نہ ہو
+
+[Open on Quran.com](https://quran.com/46/5)
 

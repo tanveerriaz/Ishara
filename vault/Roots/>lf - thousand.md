@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** thousand · **Root:** ألف
 
+
 ### Words (wikilinks — these create the graph)
+- [[>lf - joins]]
 - [[>lf - thousand]]
 
 ### Surahs where this root appears

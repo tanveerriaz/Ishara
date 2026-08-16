@@ -11,9 +11,12 @@ tags: [root, meaning]
 
 **Sense:** weak · **Root:** ضعف
 
+
 ### Words (wikilinks — these create the graph)
 - [[AstDEf - were oppressed]]
 - [[DEf - double]]
+- [[DEf - they weakened]]
+- [[DEf - weakness]]
 - [[DEyf - weak]]
 - [[yDAEf - will doubled]]
 

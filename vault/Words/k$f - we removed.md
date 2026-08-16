@@ -2,8 +2,8 @@
 type: word
 lemma: "كَشَفَ"
 slug: "k$f - we removed"
-surah_count: 12
-ayah_count: 15
+surah_count: 11
+ayah_count: 14
 tags: [word, meaning]
 ---
 
@@ -19,12 +19,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **we removed** · Lemma **كَشَفَ**
 
-### Surahs (12)
+### Surahs (11)
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[010 Yunus]]
 - [[016 An-Nahl]]
-- [[017 Al-Isra]]
 - [[021 Al-Anbya]]
 - [[023 Al-Muminun]]
 - [[027 An-Naml]]
@@ -145,24 +144,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/16/54)
 
-#### 17:56 · [[017 Al-Isra]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِهِۦ فَلَا يَمْلِكُونَ كَشْفَ ٱلضُّرِّ عَنكُمْ وَلَا تَحْوِيلًا
-
-</div>
-
-**Word in this verse:** `كَشْفَ` — (to) remove
-
-**English (Sahih International):** Say, "Invoke those you have claimed [as gods] besides Him, for they do not possess the [ability for] removal of adversity from you or [for its] transfer [to someone else]."
-
-**English (Yusuf Ali):** Say: "Call on those - besides Him - whom ye fancy: they have neither the power to remove your troubles from you nor to change them."
-
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ (مشرکو) جن لوگوں کی نسبت تمہیں (معبود ہونے کا) گمان ہے ان کو بلا کر دیکھو۔ وہ تم سے تکلیف کے دور کرنے یا اس کے بدل دینے کا کچھ بھی اختیار نہیں رکھتے
-
-[Open on Quran.com](https://quran.com/17/56)
-
 #### 21:84 · [[021 Al-Anbya]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -217,5 +198,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/27/44)
 
-_…and **5** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 27:62 · [[027 An-Naml]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمَّن يُجِيبُ ٱلْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ ٱلسُّوٓءَ وَيَجْعَلُكُمْ خُلَفَآءَ ٱلْأَرْضِ ۗ أَءِلَـٰهٌ مَّعَ ٱللَّهِ ۚ قَلِيلًا مَّا تَذَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `وَيَكْشِفُ` — and He removes
+
+**English (Sahih International):** Is He [not best] who responds to the desperate one when he calls upon Him and removes evil and makes you inheritors of the earth? Is there a deity with Allāh? Little do you remember.
+
+**English (Yusuf Ali):** Or, Who listens to the (soul) distressed when it calls on Him, and Who relieves its suffering, and makes you (mankind) inheritors of the earth? (Can there be another) god besides Allah? Little it is that ye heed!
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا کون بیقرار کی التجا قبول کرتا ہے۔ جب وہ اس سے دعا کرتا ہے اور (کون اس کی) تکلیف کو دور کرتا ہے اور (کون) تم کو زمین میں (اگلوں کا) جانشین بناتا ہے (یہ سب کچھ خدا کرتا ہے) تو کیا خدا کے ساتھ کوئی اور معبود بھی ہے (ہرگز نہیں مگر) تم بہت کم غور کرتے ہو
+
+[Open on Quran.com](https://quran.com/27/62)
+
+_…and **4** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

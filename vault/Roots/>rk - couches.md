@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** couches · **Root:** أرك
 
+
 ### Words (wikilinks — these create the graph)
 - [[>rA}k - couches]]
 

@@ -14,31 +14,31 @@ The City · 20 ayahs
 
 ## Words in this surah (graph)
 
-- [[nAr - fire]] — `نار` · fire
-- [[<nsAn - man]] — `إِنسان` · man
-- [[ytym - orphans]] — `يَتِيم` · orphans
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[Sbr - patient]] — `صَبْر` · patient
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[Hsb - think]] — `حَسْب` · think
-- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[mAl - wealth]] — `مال` · wealth
 - [[lsAn - tongues]] — `لِسان` · tongues
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[Ayp - signs]] — `آيَة` · signs
-- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[qdr - restricts]] — `قَدَرَ` · restricts
+- [[Hl - lawful]] — `حِلّ` · lawful
 - [[wAld - parents]] — `والِد` · parents
-- [[rqbp - slave]] — `رَقَبَة` · slave
-- [[wld - children]] — `وَلَد` · children
-- [[Eyn - eyes]] — `عَيْن` · eyes
-- [[hdY - guidance]] — `هَدَى` · guidance
 - [[<TEAm - feeding]] — `إِطْعام` · feeding
-- [[twAS - enjoin each other]] — `تَواصَ` · enjoin each other
+- [[Ayp - signs]] — `آيَة` · signs
+- [[rqbp - slave]] — `رَقَبَة` · slave
 - [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[Sbr - patience]] — `صَبْر` · patience
+- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[Eyn - eyes]] — `عَيْن` · eyes
 - [[mskyn - needy]] — `مِسْكِين` · needy
+- [[twAS - enjoin each other]] — `تَواصَ` · enjoin each other
+- [[wld - he begot]] — `وَلَدَ` · he begot
+- [[Hsb - think]] — `حَسِبَ` · think
+- [[xlq - created]] — `خَلَقَ` · created
+- [[mAl - wealth]] — `مال` · wealth
+- [[bld - city]] — `بَلَد` · city
+- [[>drY - can make you]] — `أَدْرَى` · can make you
 - [[ywm - day]] — `يَوْم` · day
+- [[nAr - fire]] — `نار` · fire
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[ytym - orphans]] — `يَتِيم` · orphans
 
 ## Roots
 

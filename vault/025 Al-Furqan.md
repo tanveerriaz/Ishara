@@ -16,29 +16,29 @@ The Criterion · 77 ayahs
 
 - [[n$wr - resurrection]] — `نُشُور` · resurrection
 - [[mstqr - dwelling place]] — `مُسْتَقَرّ` · dwelling place
+- [[>Dl - more astray]] — `أَضَلّ` · more astray
 - [[tbArk - blessed]] — `تَبارَكَ` · blessed
+- [[zwr - lie]] — `زُور` · lie
+- [[Hjr - partition]] — `حِجْر` · partition
 - [[m$ - walk]] — `مَشَ` · walk
 - [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
+- [[mqAm - resting place]] — `مُقام` · resting place
 - [[swq - markets]] — `سُوق` · markets
-- [[mqAm - place]] — `مَقام` · place
-- [[Hjr - stone]] — `حَجَر` · stone
-- [[zwr - lie]] — `زُور` · lie
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
-- [[hzw - ridicule]] — `هُزُو` · ridicule
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[*nb - sins]] — `ذَنب` · sins
-- [[lgw - vain talk]] — `لَغْو` · vain talk
-- [[>TAE - obey]] — `أَطاعَ` · obey
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[sbyl - way]] — `سَبِيل` · way
-- [[zAd - increase]] — `زادَ` · increase
-- [[*ryp - offspring]] — `ذُرِّيَّة` · offspring
-- [[Elm - know]] — `عَلِمَ` · know
-- [[xlyl - as friend]] — `خَلِيل` · as friend
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[stp - six]] — `سِتَّة` · six
-- [[>sqy - we give you]] — `أَسْقَيْ` · we give you
-- [[kfY - sufficient]] — `كَفَى` · sufficient
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[dEA - call]] — `دَعا` · call
+- [[byn - between them]] — `بَيْن` · between them
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[wEd - promise]] — `وَعْد` · promise
+- [[Hsn - good 3]] — `حَسُنَ` · good
+- [[qdr - determined it]] — `قَدَّرَ` · determined it
+- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[jry - flow]] — `جَرَيْ` · flow
+- [[bHr - sea]] — `بَحْر` · sea
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[sAEp - hour]] — `ساعَة` · hour
+- [[Amn - believe]] — `آمَنَ` · believe
 
 ## Roots
 
@@ -50,8 +50,8 @@ The Criterion · 77 ayahs
 - [[$rk - polytheists]]
 - [[$rr - evil]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[*rr - offspring]]
 - [[*wq - taste]]

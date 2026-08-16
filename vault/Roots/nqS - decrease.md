@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** decrease · **Root:** نقص
 
+
 ### Words (wikilinks — these create the graph)
 - [[ynqS - decrease]]
 

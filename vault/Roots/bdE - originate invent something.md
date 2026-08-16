@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** originate invent something · **Root:** بدع
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** allow lost · **Root:** ضيع
 
+
 ### Words (wikilinks — these create the graph)
 - [[>DAE - allow lost]]
 

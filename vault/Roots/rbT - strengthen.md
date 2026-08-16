@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** strengthen · **Root:** ربط
 
+
 ### Words (wikilinks — these create the graph)
 - [[rbT - strengthen]]
 

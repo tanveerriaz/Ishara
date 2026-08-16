@@ -11,11 +11,13 @@ tags: [root, meaning]
 
 **Sense:** conveyance · **Root:** بلغ
 
+
 ### Words (wikilinks — these create the graph)
 - [[>blg - escort him]]
 - [[bAlg - reaching]]
 - [[bAlgp - conclusive]]
 - [[blAg - conveyance]]
+- [[blg - convey]]
 - [[blg - he reached]]
 
 ### Surahs where this root appears

@@ -2,8 +2,8 @@
 type: word
 lemma: "سِحْر"
 slug: "sHr - magic"
-surah_count: 22
-ayah_count: 33
+surah_count: 19
+ayah_count: 28
 tags: [word, meaning]
 ---
 
@@ -19,9 +19,8 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **magic** · Lemma **سِحْر**
 
-### Surahs (22)
+### Surahs (19)
 - [[002 Al-Baqarah]]
-- [[003 Ali Imran]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
@@ -29,7 +28,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[011 Hud]]
 - [[020 Taha]]
 - [[021 Al-Anbya]]
-- [[023 Al-Muminun]]
 - [[026 Ash-Shuara]]
 - [[027 An-Naml]]
 - [[028 Al-Qasas]]
@@ -37,7 +35,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[037 As-Saffat]]
 - [[043 Az-Zukhruf]]
 - [[046 Al-Ahqaf]]
-- [[051 Adh-Dhariyat]]
 - [[052 At-Tur]]
 - [[054 Al-Qamar]]
 - [[061 As-Saf]]
@@ -64,24 +61,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
 
 [Open on Quran.com](https://quran.com/2/102)
-
-#### 3:17 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلصَّـٰبِرِينَ وَٱلصَّـٰدِقِينَ وَٱلْقَـٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ
-
-</div>
-
-**Word in this verse:** `بِٱلْأَسْحَارِ` — [in the] before dawn
-
-**English (Sahih International):** The patient, the true, the obedient, those who spend [in the way of Allāh], and those who seek forgiveness before dawn.
-
-**English (Yusuf Ali):** Those who show patience, Firmness and self-control; who are true (in word and deed); who worship devoutly; who spend (in the way of Allah); and who pray for forgiveness in the early hours of the morning.
-
-**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جو (مشکلات میں) صبر کرتے اور سچ بولتے اور عبادت میں لگے رہتے اور (راہ خدا میں) خرچ کرتے اور اوقات سحر میں گناہوں کی معافی مانگا کرتے ہیں
-
-[Open on Quran.com](https://quran.com/3/17)
 
 #### 5:110 · [[005 Al-Maidah]]
 
@@ -127,7 +106,7 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 </div>
 
-**Word in this verse:** `سَحَرُوٓا۟` — they bewitched
+**Word in this verse:** `بِسِحْرٍ` — with a magic
 
 **English (Sahih International):** He said, "Throw," and when they threw, they bewitched the eyes of the people and struck terror into them, and they presented a great [feat of] magic.
 
@@ -136,24 +115,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** (موسیٰ نے) کہا تم ہی ڈالو۔ جب انہوں نے (جادو کی چیزیں) ڈالیں تو لوگوں کی آنکھوں پر جادو کردیا (یعنی نظربندی کردی) اور (لاٹھیوں اور رسیوں کے سانپ بنا بنا کر) انہیں ڈرا دیا اور بہت بڑا جادو دکھایا
 
 [Open on Quran.com](https://quran.com/7/116)
-
-#### 7:132 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
-
-</div>
-
-**Word in this verse:** `لِّتَسْحَرَنَا` — so that you bewitch us
-
-**English (Sahih International):** And they said, "No matter what sign you bring us with which to bewitch us, we will not be believers in you."
-
-**English (Yusuf Ali):** They said (to Moses): "Whatever be the Signs thou bringest, to work therewith thy sorcery on us, we shall never believe in thee.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور کہنے لگے کہ تم ہمارے پاس (خواہ) کوئی ہی نشانی لاؤ تاکہ اس سے ہم پر جادو کرو۔ مگر ہم تم پر ایمان لانے والے نہیں ہیں
-
-[Open on Quran.com](https://quran.com/7/132)
 
 #### 10:76 · [[010 Yunus]]
 
@@ -227,5 +188,41 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/11/7)
 
-_…and **23** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 20:57 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَـٰمُوسَىٰ
+
+</div>
+
+**Word in this verse:** `بِسِحْرِكَ` — with your magic
+
+**English (Sahih International):** He said, "Have you come to us to drive us out of our land with your magic, O Moses?
+
+**English (Yusuf Ali):** He said: "Hast thou come to drive us out of our land with thy magic, O Moses?
+
+**Urdu (Fatah Muhammad Jalandhari):** کہنے لگا کہ موسیٰ تم ہمارے پاس اس لئے آئے ہو کہ اپنے جادو (کے زور) سے ہمیں ہمارے ملک سے نکال دو
+
+[Open on Quran.com](https://quran.com/20/57)
+
+#### 20:58 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى
+
+</div>
+
+**Word in this verse:** `بِسِحْرٍۢ` — magic
+
+**English (Sahih International):** Then we will surely bring you magic like it, so make between us and you an appointment, which we will not fail to keep and neither will you, in a place assigned."
+
+**English (Yusuf Ali):** "But we can surely produce magic to match thine! So make a tryst between us and thee, which we shall not fail to keep - neither we nor thou - in a place where both shall have even chances."
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم بھی تمہارے مقابل ایسا ہی جادو لائیں گے تو ہمارے اور اپنے درمیان ایک وقت مقرر کر لو کہ نہ تو ہم اس کے خلاف کریں اور نہ تم (اور یہ مقابلہ) ایک ہموار میدان میں (ہوگا)
+
+[Open on Quran.com](https://quran.com/20/58)
+
+_…and **18** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

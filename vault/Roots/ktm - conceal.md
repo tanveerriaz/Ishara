@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** conceal · **Root:** كتم
 
+
 ### Words (wikilinks — these create the graph)
 - [[ktm - conceal]]
 

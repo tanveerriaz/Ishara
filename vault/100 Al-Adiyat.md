@@ -14,20 +14,20 @@ The Courser · 11 ayahs
 
 ## Words in this surah (graph)
 
-- [[<nsAn - man]] — `إِنسان` · man
-- [[rb - lord]] — `رَبّ` · lord
-- [[Hb - grain]] — `حُبّ` · grain
-- [[xyr - better]] — `خَيْر` · better
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[SbH - morning]] — `صُبْح` · morning
-- [[$hyd - witness]] — `شَهِيد` · witness
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
-- [[qbr - graves]] — `قَبْر` · graves
-- [[>vAr - plough]] — `أَثارُ` · plough
-- [[Elm - know]] — `عَلِمَ` · know
-- [[Sdr - breasts]] — `صَدْر` · breasts
-- [[ywm - day]] — `يَوْم` · day
 - [[$dyd - severe]] — `شَدِيد` · severe
+- [[rb - lord]] — `رَبّ` · lord
+- [[>vAr - plough]] — `أَثارُ` · plough
+- [[$hyd - witness]] — `شَهِيد` · witness
+- [[Hb - love]] — `حُبّ` · love
+- [[jmE - two hosts]] — `جَمْع` · two hosts
+- [[qbr - graves]] — `قَبْر` · graves
+- [[ywm - day]] — `يَوْم` · day
+- [[Sdr - breasts]] — `صَدْر` · breasts
+- [[Elm - know]] — `عَلِمَ` · know
+- [[SbH - morning]] — `صُبْح` · morning
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
+- [[<nsAn - man]] — `إِنسان` · man
+- [[xyr - better]] — `خَيْر` · better
 
 ## Roots
 

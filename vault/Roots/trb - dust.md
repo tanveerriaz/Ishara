@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** dust · **Root:** ترب
 
+
 ### Words (wikilinks — these create the graph)
 - [[>trAb - well-matched]]
 - [[trAb - dust]]

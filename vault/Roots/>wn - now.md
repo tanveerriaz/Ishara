@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** now · **Root:** أون
 
+
 ### Words (wikilinks — these create the graph)
 - [[An - now]]
 

@@ -2,8 +2,8 @@
 type: word
 lemma: "نَزَّلَ"
 slug: "nzl - sends down"
-surah_count: 34
-ayah_count: 75
+surah_count: 28
+ayah_count: 61
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **sends down** · Lemma **نَزَّلَ**
 
-### Surahs (34)
+### Surahs (28)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -31,7 +31,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[015 Al-Hijr]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
-- [[018 Al-Kahf]]
 - [[020 Taha]]
 - [[022 Al-Hajj]]
 - [[024 An-Nur]]
@@ -40,11 +39,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[029 Al-Ankabut]]
 - [[030 Ar-Rum]]
 - [[031 Luqman]]
-- [[032 As-Sajdah]]
-- [[034 Saba]]
-- [[037 As-Saffat]]
 - [[039 Az-Zumar]]
 - [[040 Ghafir]]
+- [[042 Ash-Shuraa]]
+- [[043 Az-Zukhruf]]
+- [[047 Muhammad]]
+- [[050 Qaf]]
 
 ## Verses (full text)
 
@@ -194,24 +194,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/151)
 
-#### 3:198 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-لَـٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا نُزُلًا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌ لِّلْأَبْرَارِ
-
-</div>
-
-**Word in this verse:** `نُزُلًۭا` — a hospitality
-
-**English (Sahih International):** But those who feared their Lord will have gardens beneath which rivers flow, abiding eternally therein, as accommodation from Allāh. And that which is with Allāh is best for the righteous.
-
-**English (Yusuf Ali):** On the other hand, for those who fear their Lord, are Gardens, with rivers flowing beneath; therein are they to dwell (for ever),- a gift from the presence of Allah; and that which is in the presence of Allah is the best (bliss) for the righteous.
-
-**Urdu (Fatah Muhammad Jalandhari):** لیکن جو لوگ اپنے پروردگار سے ڈرتے رہے ان کے لیے باغ ہے جن کے نیچے نہریں بہہ رہی ہیں (اور) ان میں ہمیشہ رہیں گے (یہ) خدا کے ہاں سے (ان کی) مہمانی ہے اور جو کچھ خدا کے ہاں ہے وہ نیکو کاروں کے لیے بہت اچھا ہے
-
-[Open on Quran.com](https://quran.com/3/198)
-
 #### 4:47 · [[004 An-Nisa]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -230,5 +212,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/47)
 
-_…and **65** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 4:136 · [[004 An-Nisa]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلْكِتَـٰبِ ٱلَّذِى نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلْكِتَـٰبِ ٱلَّذِىٓ أَنزَلَ مِن قَبْلُ ۚ وَمَن يَكْفُرْ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ وَٱلْيَوْمِ ٱلْـَٔاخِرِ فَقَدْ ضَلَّ ضَلَـٰلًۢا بَعِيدًا
+
+</div>
+
+**Word in this verse:** `نَزَّلَ` — He revealed
+
+**English (Sahih International):** O you who have believed, believe in Allāh and His Messenger and the Book that He sent down upon His Messenger and the Scripture which He sent down before. And whoever disbelieves in Allāh, His angels, His books, His messengers, and the Last Day has certainly gone far astray.
+
+**English (Yusuf Ali):** O ye who believe! Believe in Allah and His Messenger, and the scripture which He hath sent to His Messenger and the scripture which He sent to those before (him). Any who denieth Allah, His angels, His Books, His Messengers, and the Day of Judgment, hath gone far, far astray.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا پر اور اس کے رسول پر اور جو کتاب اس نے اپنی پیغمبر (آخرالزماں) پر نازل کی ہے اور جو کتابیں اس سے پہلے نازل کی تھیں سب پر ایمان لاؤ۔ اور جو شخص خدا اور اس کے فرشتوں اور اس کی کتابوں اور اس کے پیغمبروں اور روزقیامت سے انکار کرے وہ رستے سے بھٹک کر دور جا پڑا
+
+[Open on Quran.com](https://quran.com/4/136)
+
+_…and **51** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

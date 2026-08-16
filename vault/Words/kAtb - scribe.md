@@ -2,8 +2,8 @@
 type: word
 lemma: "كاتِب"
 slug: "kAtb - scribe"
-surah_count: 4
-ayah_count: 5
+surah_count: 3
+ayah_count: 4
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **scribe** · Lemma **كاتِب**
 
-### Surahs (4)
+### Surahs (3)
 - [[002 Al-Baqarah]]
 - [[021 Al-Anbya]]
-- [[024 An-Nur]]
 - [[082 Al-Infitar]]
 
 ## Verses (full text)
@@ -82,24 +81,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جو نیک کام کرے گا اور مومن بھی ہوگا تو اس کی کوشش رائیگاں نہ جائے گی۔ اور ہم اس کے لئے (ثواب اعمال) لکھ رہے ہیں
 
 [Open on Quran.com](https://quran.com/21/94)
-
-#### 24:33 · [[024 An-Nur]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَـٰبَ مِمَّا مَلَكَتْ أَيْمَـٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا ۖ وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ ۚ وَلَا تُكْرِهُوا۟ فَتَيَـٰتِكُمْ عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۚ وَمَن يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ
-
-</div>
-
-**Word in this verse:** `فَكَاتِبُوهُمْ` — then give them (the) writing
-
-**English (Sahih International):** But let them who find not [the means for] marriage abstain [from sexual relations] until Allāh enriches them from His bounty. And those who seek a contract [for eventual emancipation] from among whom your right hands possess - then make a contract with them if you know there is within them goodness and give them from the wealth of Allāh which He has given you. And do not compel your slave girls to prostitution, if they desire chastity, to seek [thereby] the temporary interests of worldly life. And if someone should compel them, then indeed, Allāh is [to them], after their compulsion, Forgiving and Merciful.
-
-**English (Yusuf Ali):** Let those who find not the wherewithal for marriage keep themselves chaste, until Allah gives them means out of His grace. And if any of your slaves ask for a deed in writing (to enable them to earn their freedom for a certain sum), give them such a deed if ye know any good in them: yea, give them something yourselves out of the means which Allah has given to you. But force not your maids to prostitution when they desire chastity, in order that ye may make a gain in the goods of this life. But if anyone compels them, yet, after such compulsion, is Allah, Oft-Forgiving, Most Merciful (to them),
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جن کو بیاہ کا مقدور نہ ہو وہ پاک دامنی کو اختیار کئے رہیں یہاں تک کہ خدا ان کو اپنے فضل سے غنی کردے۔ اور جو غلام تم سے مکاتبت چاہیں اگر تم ان میں (صلاحیت اور) نیکی پاؤ تو ان سے مکاتبت کرلو۔ اور خدا نے جو مال تم کو بخشا ہے اس میں سے ان کو بھی دو۔ اور اپنی لونڈیوں کو اگر وہ پاک دامن رہنا چاہیں تو (بےشرمی سے) دنیاوی زندگی کے فوائد حاصل کرنے کے لئے بدکاری پر مجبور نہ کرنا۔ اور جو ان کو مجبور کرے گا تو ان (بیچاریوں) کے مجبور کئے جانے کے بعد خدا بخشنے والا مہربان ہے
-
-[Open on Quran.com](https://quran.com/24/33)
 
 #### 82:11 · [[082 Al-Infitar]]
 

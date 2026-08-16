@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** grieve · **Root:** أسو
 
+
 ### Words (wikilinks — these create the graph)
 - [[t>s - grieve]]
 

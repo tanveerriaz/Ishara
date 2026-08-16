@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** ornaments · **Root:** حلي
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hl - they will adorned]]
 - [[Hlyp - ornaments]]

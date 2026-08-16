@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** she delivered · **Root:** وضع
 
+
 ### Words (wikilinks — these create the graph)
 - [[wDE - she delivered]]
 

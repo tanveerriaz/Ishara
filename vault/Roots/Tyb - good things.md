@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** good things · **Root:** طيب
 
+
 ### Words (wikilinks — these create the graph)
 - [[Tyb - good]]
 - [[Tybp - good things]]

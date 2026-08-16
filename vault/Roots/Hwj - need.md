@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** need · **Root:** حوج
 
+
 ### Words (wikilinks — these create the graph)
 - [[HAjp - need]]
 

@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** withhold · **Root:** بخل
 
+
 ### Words (wikilinks — these create the graph)
+- [[bxl - stinginess]]
 - [[bxl - withhold]]
 
 ### Surahs where this root appears

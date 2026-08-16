@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** unique · **Root:** خصص
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

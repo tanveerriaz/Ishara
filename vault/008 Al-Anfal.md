@@ -14,31 +14,31 @@ The Spoils of War · 75 ayahs
 
 ## Words in this surah (graph)
 
+- [[nSr - help]] — `نَصْر` · help
 - [[>lf - thousand]] — `أَلْف` · thousand
 - [[AnthY - you desist]] — `انتَهَى` · you desist
-- [[AwY - gave shelter]] — `آوَى` · gave shelter
-- [[jAhd - strive]] — `جاهَدَ` · strive
 - [[dbr - backs]] — `دُبُر` · backs
-- [[hAjr - emigrated]] — `هاجَرَ` · emigrated
-- [[EqAb - penalty]] — `عِقاب` · penalty
-- [[f}p - group]] — `فِئَة` · group
 - [[twkl - put trust]] — `تَوَكَّلْ` · put trust
+- [[EqAb - penalty]] — `عِقاب` · penalty
+- [[AwY - gave shelter]] — `آوَى` · gave shelter
+- [[f}p - group]] — `فِئَة` · group
 - [[glb - overcame]] — `غَلَبُ` · overcame
-- [[d>b - like way]] — `دَأْب` · like way
-- [[yHq - justify]] — `يُحِقَّ` · justify
-- [[gnm - sheep]] — `غَنَم` · sheep
+- [[hAjr - emigrated]] — `هاجَرَ` · emigrated
+- [[jAhd - strive]] — `جاهَدَ` · strive
 - [[SAbr - patient ones]] — `صابِر` · patient ones
-- [[>yd - supports]] — `أَيَّدَ` · supports
-- [[AstjAb - respond]] — `اسْتَجابَ` · respond
-- [[qdm - feet]] — `قَدَّمَ` · feet
-- [[xAn - betray]] — `خانُ` · betray
-- [[slm - peace]] — `سِلْم` · peace
-- [[vbt - make firm]] — `ثَبَّتْ` · make firm
-- [[Tyb - good]] — `طَيِّب` · good
-- [[tnAzE - you disagree]] — `تَنازَعُ` · you disagree
 - [[AltqY - met]] — `الْتَقَى` · met
-- [[sbq - preceded]] — `سَبَقَ` · preceded
+- [[$r - evil]] — `شَرّ` · evil
+- [[>yd - supports]] — `أَيَّدَ` · supports
+- [[rzq - provision]] — `رِزْق` · provision
+- [[yHq - justify]] — `يُحِقَّ` · justify
+- [[tnAzE - you disagree]] — `تَنازَعُ` · you disagree
+- [[Tyb - good]] — `طَيِّب` · good
 - [[mA}p - hundred]] — `مِائَة` · hundred
+- [[krym - noble]] — `كَرِيم` · noble
+- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
+- [[sbq - preceded]] — `سَبَقَ` · preceded
+- [[frqAn - criterion]] — `فُرْقان` · criterion
+- [[AstjAb - respond]] — `اسْتَجابَ` · respond
 
 ## Roots
 
@@ -48,8 +48,8 @@ The Spoils of War · 75 ayahs
 - [[$qq - opposes]]
 - [[$rr - evil]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[*wq - taste]]
 - [[>*n - by permission]]

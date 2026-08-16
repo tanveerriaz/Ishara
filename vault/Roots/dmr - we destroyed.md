@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we destroyed · **Root:** دمر
 
+
 ### Words (wikilinks — these create the graph)
 - [[dmr - we destroyed]]
 

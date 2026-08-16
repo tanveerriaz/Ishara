@@ -11,11 +11,13 @@ tags: [root, meaning]
 
 **Sense:** needy · **Root:** سكن
 
+
 ### Words (wikilinks — these create the graph)
 - [[>skn - lodge them]]
 - [[mskn - dwellings]]
 - [[mskyn - needy]]
 - [[skn - dwell]]
+- [[skn - rest]]
 - [[skynp - tranquility]]
 
 ### Surahs where this root appears

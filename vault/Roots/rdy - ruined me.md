@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** ruined me · **Root:** ردي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>rdY - ruined me]]
 

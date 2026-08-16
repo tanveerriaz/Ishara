@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** graves · **Root:** قبر
 
+
 ### Words (wikilinks — these create the graph)
 - [[qbr - graves]]
 

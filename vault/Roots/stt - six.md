@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** six · **Root:** ستت
 
+
 ### Words (wikilinks — these create the graph)
 - [[stp - six]]
 

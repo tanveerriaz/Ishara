@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** will asked make · **Root:** عتب
 
+
 ### Words (wikilinks — these create the graph)
 - [[ystEtb - will asked make]]
 

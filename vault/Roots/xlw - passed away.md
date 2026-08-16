@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** passed away · **Root:** خلو
 
+
 ### Words (wikilinks — these create the graph)
 - [[xlA - passed away]]
 

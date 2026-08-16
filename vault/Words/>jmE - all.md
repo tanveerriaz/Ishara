@@ -2,8 +2,8 @@
 type: word
 lemma: "أَجْمَع"
 slug: ">jmE - all"
-surah_count: 18
-ayah_count: 30
+surah_count: 16
+ayah_count: 26
 tags: [word, meaning]
 ---
 
@@ -19,17 +19,15 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **all** · Lemma **أَجْمَع**
 
-### Surahs (18)
+### Surahs (16)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
-- [[010 Yunus]]
 - [[011 Hud]]
 - [[012 Yusuf]]
 - [[015 Al-Hijr]]
 - [[016 An-Nahl]]
-- [[020 Taha]]
 - [[021 Al-Anbya]]
 - [[026 Ash-Shuara]]
 - [[027 An-Naml]]
@@ -133,24 +131,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/124)
 
-#### 10:71 · [[010 Yunus]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِۦ يَـٰقَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِى وَتَذْكِيرِى بِـَٔايَـٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلْتُ فَأَجْمِعُوٓا۟ أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةً ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ
-
-</div>
-
-**Word in this verse:** `فَأَجْمِعُوٓا۟` — So you all resolve
-
-**English (Sahih International):** And recite to them the news of Noah, when he said to his people, "O my people, if my residence and my reminding of the signs of Allāh has become burdensome upon you - then I have relied upon Allāh. So resolve upon your plan and [call upon] your associates. Then let not your plan be obscure to you. Then carry it out upon me and do not give me respite.
-
-**English (Yusuf Ali):** Relate to them the story of Noah. Behold! he said to his people: "O my people, if it be hard on your (mind) that I should stay (with you) and commemorate the signs of Allah,- yet I put my trust in Allah. Get ye then an agreement about your plan and among your partners, so your plan be on to you dark and dubious. Then pass your sentence on me, and give me no respite.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کو نوح کا قصہ پڑھ کر سنادو۔ جب انہوں نے اپنی قوم سے کہا کہ اے قوم! اگر تم کو میرا تم میں رہنا اور خدا کی آیتوں سے نصیحت کرنا ناگوار ہو تو میں خدا پر بھروسہ رکھتا ہوں۔ تم اپنے شریکوں کے ساتھ مل کر ایک کام (جو میرے بارے میں کرنا چاہو) مقرر کرلو اور وہ تمہاری تمام جماعت (کو معلوم ہوجائے اور کسی) سے پوشیدہ نہ رہے اور پھر وہ کام میرے حق میں کر گزرو اور مجھے مہلت نہ دو
-
-[Open on Quran.com](https://quran.com/10/71)
-
 #### 11:119 · [[011 Hud]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -168,24 +148,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** مگر جن پر تمہارا پروردگار رحم کرے۔ اور اسی لیے اس نے ان کو پیدا کیا ہے اور تمہارے پروردگار کا قول پورا ہوگیا کہ میں دوزخ کو جنوں اور انسانوں سب سے بھر دوں گا
 
 [Open on Quran.com](https://quran.com/11/119)
-
-#### 12:15 · [[012 Yusuf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَـٰبَتِ ٱلْجُبِّ ۚ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَـٰذَا وَهُمْ لَا يَشْعُرُونَ
-
-</div>
-
-**Word in this verse:** `وَأَجْمَعُوٓا۟` — and agreed
-
-**English (Sahih International):** So when they took him [out] and agreed to put him into the bottom of the well... But We inspired to him, "You will surely inform them [someday] about this affair of theirs while they do not perceive [your identity]."
-
-**English (Yusuf Ali):** So they did take him away, and they all agreed to throw him down to the bottom of the well: and We put into his heart (this Message): 'Of a surety thou shalt (one day) tell them the truth of this their affair while they know (thee) not'
-
-**Urdu (Fatah Muhammad Jalandhari):** غرض جب وہ اس کو لے گئے اور اس بات پر اتفاق کرلیا کہ اس کو گہرے کنویں میں ڈال دیں۔ تو ہم نے یوسف کی طرف وحی بھیجی کہ (ایک وقت ایسا آئے گا کہ) تم ان کے اس سلوک سے آگاہ کرو گے اور ان کو (اس وحی کی) کچھ خبر نہ ہوگی
-
-[Open on Quran.com](https://quran.com/12/15)
 
 #### 12:93 · [[012 Yusuf]]
 
@@ -205,23 +167,59 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/12/93)
 
-#### 12:102 · [[012 Yusuf]]
+#### 15:30 · [[015 Al-Hijr]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ ۖ وَمَا كُنتَ لَدَيْهِمْ إِذْ أَجْمَعُوٓا۟ أَمْرَهُمْ وَهُمْ يَمْكُرُونَ
+فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ
 
 </div>
 
-**Word in this verse:** `أَجْمَعُوٓا۟` — they put together
+**Word in this verse:** `أَجْمَعُونَ` — together
 
-**English (Sahih International):** That is from the news of the unseen which We reveal, [O Muḥammad], to you. And you were not with them when they put together their plan while they conspired.
+**English (Sahih International):** So the angels prostrated - all of them entirely,
 
-**English (Yusuf Ali):** Such is one of the stories of what happened unseen, which We reveal by inspiration unto thee; nor wast thou (present) with them then when they concerted their plans together in the process of weaving their plots.
+**English (Yusuf Ali):** So the angels prostrated themselves, all of them together:
 
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) یہ اخبار غیب میں سے ہیں جو ہم تمہاری طرف بھیجتے ہیں اور جب برادران یوسف نے اپنی بات پر اتفاق کیا تھا اور وہ فریب کر رہے تھے تو تم ان کے پاس تو نہ تھے
+**Urdu (Fatah Muhammad Jalandhari):** تو فرشتے تو سب کے سب سجدے میں گر پڑے
 
-[Open on Quran.com](https://quran.com/12/102)
+[Open on Quran.com](https://quran.com/15/30)
 
-_…and **20** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 15:39 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ
+
+</div>
+
+**Word in this verse:** `أَجْمَعِينَ` — all
+
+**English (Sahih International):** [Iblees] said, "My Lord, because You have put me in error, I will surely make [disobedience] attractive to them [i.e., mankind] on earth, and I will mislead them all
+
+**English (Yusuf Ali):** (Iblis) said: "O my Lord! because Thou hast put me in the wrong, I will make (wrong) fair-seeming to them on the earth, and I will put them all in the wrong,-
+
+**Urdu (Fatah Muhammad Jalandhari):** (اس نے) کہا کہ پروردگار جیسا تونے مجھے رستے سے الگ کیا ہے میں بھی زمین میں لوگوں کے لیے (گناہوں) کو آراستہ کر دکھاؤں گا اور سب کو بہکاؤں گا
+
+[Open on Quran.com](https://quran.com/15/39)
+
+#### 15:43 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِينَ
+
+</div>
+
+**Word in this verse:** `أَجْمَعِينَ` — all
+
+**English (Sahih International):** And indeed, Hell is the promised place for them all.
+
+**English (Yusuf Ali):** And verily, Hell is the promised abode for them all!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان سب کے وعدے کی جگہ جہنم ہے
+
+[Open on Quran.com](https://quran.com/15/43)
+
+_…and **16** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

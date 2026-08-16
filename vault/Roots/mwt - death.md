@@ -11,12 +11,14 @@ tags: [root, meaning]
 
 **Sense:** death · **Root:** موت
 
+
 ### Words (wikilinks — these create the graph)
 - [[>mAt - causes death]]
 - [[mAt - died]]
 - [[mmAt - my dying]]
 - [[mwt - death]]
 - [[myt - dead]]
+- [[myt - dead 2]]
 - [[mytp - dead animals]]
 
 ### Surahs where this root appears

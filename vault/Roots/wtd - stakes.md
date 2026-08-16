@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** stakes · **Root:** وتد
 
+
 ### Words (wikilinks — these create the graph)
 - [[>wtAd - stakes]]
 

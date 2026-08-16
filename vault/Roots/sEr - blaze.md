@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** blaze · **Root:** سعر
 
+
 ### Words (wikilinks — these create the graph)
 - [[sEyr - blaze]]
 

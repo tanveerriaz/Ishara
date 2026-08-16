@@ -11,10 +11,12 @@ tags: [root, meaning]
 
 **Sense:** evil · **Root:** سوأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[>sA' - does evil]]
 - [[sA' - evil]]
 - [[sw' - evil]]
+- [[sw' - evil 2]]
 - [[sw'p - shame]]
 - [[sy} - evil]]
 - [[sy}p - evil deeds]]

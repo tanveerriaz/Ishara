@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** will grieve · **Root:** حزن
 
+
 ### Words (wikilinks — these create the graph)
+- [[Hzn - grief]]
 - [[Hzn - sorrow]]
 - [[yHzn - will grieve]]
 

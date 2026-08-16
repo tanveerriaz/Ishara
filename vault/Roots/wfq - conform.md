@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** conform · **Root:** وفق
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

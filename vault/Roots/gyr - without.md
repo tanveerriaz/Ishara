@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** without · **Root:** غير
 
+
 ### Words (wikilinks — these create the graph)
 - [[gyr - without]]
 - [[ygyr - they change]]

@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** party · **Root:** فرق
 
+
 ### Words (wikilinks — these create the graph)
 - [[frq - they differentiate]]
+- [[frq - we parted]]
 - [[frqAn - criterion]]
 - [[fryq - party]]
 - [[tfrq - divided]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** journey · **Root:** سفر
 
+
 ### Words (wikilinks — these create the graph)
 - [[sfr - journey]]
 

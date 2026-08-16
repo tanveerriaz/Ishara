@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** valley · **Root:** ودي
 
+
 ### Words (wikilinks — these create the graph)
 - [[wAd - valley]]
 

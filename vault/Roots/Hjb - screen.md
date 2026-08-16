@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** screen · **Root:** حجب
 
+
 ### Words (wikilinks — these create the graph)
 - [[HjAb - screen]]
 

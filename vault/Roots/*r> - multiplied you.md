@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** multiplied you · **Root:** ذرأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[*r> - multiplied you]]
 

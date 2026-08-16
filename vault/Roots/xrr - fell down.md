@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fell down · **Root:** خرر
 
+
 ### Words (wikilinks — these create the graph)
 - [[xr - fell down]]
 

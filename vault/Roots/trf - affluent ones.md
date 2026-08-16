@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** affluent ones · **Root:** ترف
 
+
 ### Words (wikilinks — these create the graph)
 - [[>trf - luxury they were]]
 - [[mtrf - affluent ones]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** themselves · **Root:** نفس
 
+
 ### Words (wikilinks — these create the graph)
 - [[nfs - themselves]]
 

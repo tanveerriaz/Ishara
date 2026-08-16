@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** turns · **Root:** نوب
 
+
 ### Words (wikilinks — these create the graph)
 - [[>nAb - turns]]
 - [[mnyb - turning]]

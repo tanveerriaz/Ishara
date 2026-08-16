@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** taste · **Root:** ذوق
 
+
 ### Words (wikilinks — these create the graph)
 - [[*Aq - taste]]
 - [[*A}qp - will taste]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** poor · **Root:** فقر
 
+
 ### Words (wikilinks — these create the graph)
 - [[fqyr - poor]]
 

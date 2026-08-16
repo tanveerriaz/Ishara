@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** burden · **Root:** أصر
 
+
 ### Words (wikilinks — these create the graph)
 - [[<Sr - burden]]
 

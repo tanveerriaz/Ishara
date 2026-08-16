@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** pour · **Root:** فرغ
 
+
 ### Words (wikilinks — these create the graph)
 - [[>frg - pour]]
 

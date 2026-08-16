@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Emr - life]]
+- [[Emr - inhabit build maintain flourish]]
 
 ### Meaning
 **granted life** · Lemma **يُعَمَّرُ**

@@ -2,8 +2,8 @@
 type: word
 lemma: "وِزْر"
 slug: "wzr - burden"
-surah_count: 10
-ayah_count: 12
+surah_count: 9
+ayah_count: 11
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **burden** · Lemma **وِزْر**
 
-### Surahs (10)
+### Surahs (9)
 - [[006 Al-Anam]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
@@ -28,7 +28,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[039 Az-Zumar]]
 - [[047 Muhammad]]
 - [[053 An-Najm]]
-- [[075 Al-Qiyamah]]
 - [[094 Ash-Sharh]]
 
 ## Verses (full text)
@@ -215,5 +214,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/53/38)
 
-_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

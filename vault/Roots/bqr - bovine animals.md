@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** bovine animals · **Root:** بقر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

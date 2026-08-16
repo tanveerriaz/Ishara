@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** perhaps · **Root:** عسي
 
+
 ### Words (wikilinks — these create the graph)
 - [[EsY - perhaps]]
 

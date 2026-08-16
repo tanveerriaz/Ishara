@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** love · **Root:** ودد
 
+
 ### Words (wikilinks — these create the graph)
 - [[mwdp - love]]
 - [[wd - wished]]

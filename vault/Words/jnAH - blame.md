@@ -2,8 +2,8 @@
 type: word
 lemma: "جُناح"
 slug: "jnAH - blame"
-surah_count: 13
-ayah_count: 31
+surah_count: 6
+ayah_count: 24
 tags: [word, meaning]
 ---
 
@@ -19,19 +19,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **blame** · Lemma **جُناح**
 
-### Surahs (13)
+### Surahs (6)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
-- [[006 Al-Anam]]
-- [[015 Al-Hijr]]
-- [[017 Al-Isra]]
-- [[020 Taha]]
 - [[024 An-Nur]]
-- [[026 Ash-Shuara]]
-- [[028 Al-Qasas]]
 - [[033 Al-Ahzab]]
-- [[035 Fatir]]
 - [[060 Al-Mumtahanah]]
 
 ## Verses (full text)
@@ -218,5 +211,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/282)
 
-_…and **21** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **14** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

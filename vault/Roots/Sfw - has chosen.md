@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** has chosen · **Root:** صفو
 
+
 ### Words (wikilinks — these create the graph)
 - [[ASTfY - has chosen]]
 

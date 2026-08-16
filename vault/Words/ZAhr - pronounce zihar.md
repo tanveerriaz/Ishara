@@ -1,0 +1,139 @@
+---
+type: word
+lemma: "ظاهَرُ"
+slug: "ZAhr - pronounce zihar"
+surah_count: 4
+ayah_count: 6
+tags: [word, meaning]
+---
+
+# ZAhr - pronounce zihar
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Zhr - backs]]
+
+### Meaning
+**pronounce zihar** · Lemma **ظاهَرُ**
+
+### Surahs (4)
+- [[009 At-Tawbah]]
+- [[033 Al-Ahzab]]
+- [[058 Al-Mujadila]]
+- [[060 Al-Mumtahanah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
+
+#### 9:4 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِلَّا ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَـٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `يُظَـٰهِرُوا۟` — they have supported
+
+**English (Sahih International):** Excepted are those with whom you made a treaty among the polytheists and then they have not been deficient toward you in anything or supported anyone against you; so complete for them their treaty until their term [has ended]. Indeed, Allāh loves the righteous [who fear Him].
+
+**English (Yusuf Ali):** (But the treaties are) not dissolved with those Pagans with whom ye have entered into alliance and who have not subsequently failed you in aught, nor aided any one against you. So fulfil your engagements with them to the end of their term: for Allah loveth the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** البتہ جن مشرکوں کے ساتھ تم نے عہد کیا ہو اور انہوں نے تمہارا کسی طرح کا قصور نہ کیا ہو اور نہ تمہارے مقابلے میں کسی کی مدد کی ہو تو جس مدت تک ان کے ساتھ عہد کیا ہو اسے پورا کرو۔ (کہ) خدا پرہیزگاروں کو دوست رکھتا ہے
+
+[Open on Quran.com](https://quran.com/9/4)
+
+#### 33:4 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَّا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ ۚ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّـٰٓـِٔى تُظَـٰهِرُونَ مِنْهُنَّ أُمَّهَـٰتِكُمْ ۚ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُم بِأَفْوَٰهِكُمْ ۖ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ
+
+</div>
+
+**Word in this verse:** `تُظَـٰهِرُونَ` — you declare unlawful
+
+**English (Sahih International):** Allāh has not made for a man two hearts in his interior. And He has not made your wives whom you declare unlawful your mothers. And He has not made your claimed [i.e., adopted] sons your [true] sons. That is [merely] your saying by your mouths, but Allāh says the truth, and He guides to the [right] way.
+
+**English (Yusuf Ali):** Allah has not made for any man two hearts in his (one) body: nor has He made your wives whom ye divorce by Zihar your mothers: nor has He made your adopted sons your sons. Such is (only) your (manner of) speech by your mouths. But Allah tells (you) the Truth, and He shows the (right) Way.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا نے کسی آدمی کے پہلو میں دو دل نہیں بنائے۔ اور نہ تمہاری عورتوں کو جن کو تم ماں کہہ بیٹھتے ہو تمہاری ماں بنایا اور نہ تمہارے لے پالکوں کو تمہارے بیٹے بنایا۔ یہ سب تمہارے منہ کی باتیں ہیں۔ اور خدا تو سچی بات فرماتا ہے اور وہی سیدھا رستہ دکھاتا ہے
+
+[Open on Quran.com](https://quran.com/33/4)
+
+#### 33:26 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَنزَلَ ٱلَّذِينَ ظَـٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَـٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا
+
+</div>
+
+**Word in this verse:** `ظَـٰهَرُوهُم` — backed them
+
+**English (Sahih International):** And He brought down those who supported them among the People of the Scripture from their fortresses and cast terror into their hearts [so that] a party [i.e., their men] you killed, and you took captive a party [i.e., the women and children].
+
+**English (Yusuf Ali):** And those of the People of the Book who aided them - Allah did take them down from their strongholds and cast terror into their hearts. (So that) some ye slew, and some ye made prisoners.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اہل کتاب میں سے جنہوں نے اُن کی مدد کی تھی اُن کو اُن کے قلعوں سے اُتار دیا اور اُن کے دلوں میں دہشت ڈال دی۔ تو کتنوں کو تم قتل کر دیتے تھے اور کتنوں کو قید کرلیتے تھے
+
+[Open on Quran.com](https://quran.com/33/26)
+
+#### 58:2 · [[058 Al-Mujadila]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ يُظَـٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَـٰتِهِمْ ۖ إِنْ أُمَّهَـٰتُهُمْ إِلَّا ٱلَّـٰٓـِٔى وَلَدْنَهُمْ ۚ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ ٱلْقَوْلِ وَزُورًا ۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٌ
+
+</div>
+
+**Word in this verse:** `يُظَـٰهِرُونَ` — pronounce zihar
+
+**English (Sahih International):** Those who pronounce ẓihār among you [to separate] from their wives - they are not [consequently] their mothers. Their mothers are none but those who gave birth to them. And indeed, they are saying an objectionable statement and a falsehood. But indeed, Allāh is Pardoning and Forgiving.
+
+**English (Yusuf Ali):** If any men among you divorce their wives by Zihar (calling them mothers), they cannot be their mothers: None can be their mothers except those who gave them birth. And in fact they use words (both) iniquitous and false: but truly Allah is one that blots out (sins), and forgives (again and again).
+
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ تم میں سے اپنی عورتوں کو ماں کہہ دیتے ہیں وہ ان کی مائیں نہیں (ہوجاتیں)۔ ان کی مائیں تو وہی ہیں جن کے بطن سے وہ پیدا ہوئے۔ بےشک وہ نامعقول اور جھوٹی بات کہتے ہیں اور خدا بڑا معاف کرنے والا (اور) بخشنے والا ہے
+
+[Open on Quran.com](https://quran.com/58/2)
+
+#### 58:3 · [[058 Al-Mujadila]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ يُظَـٰهِرُونَ مِن نِّسَآئِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا۟ فَتَحْرِيرُ رَقَبَةٍ مِّن قَبْلِ أَن يَتَمَآسَّا ۚ ذَٰلِكُمْ تُوعَظُونَ بِهِۦ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+
+</div>
+
+**Word in this verse:** `يُظَـٰهِرُونَ` — pronounce zihar
+
+**English (Sahih International):** And those who pronounce ẓihār from their wives and then [wish to] go back on what they said - then [there must be] the freeing of a slave before they touch one another. That is what you are admonished thereby; and Allāh is Aware of what you do.
+
+**English (Yusuf Ali):** But those who divorce their wives by Zihar, then wish to go back on the words they uttered,- (It is ordained that such a one) should free a slave before they touch each other: Thus are ye admonished to perform: and Allah is well-acquainted with (all) that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ اپنی بیویوں کو ماں کہہ بیٹھیں پھر اپنے قول سے رجوع کرلیں تو (ان کو) ہم بستر ہونے سے پہلے ایک غلام آزاد کرنا (ضروری) ہے۔ (مومنو) اس (حکم) سے تم کو نصیحت کی جاتی ہے۔ اور جو کچھ تم کرتے ہو خدا اس سے خبردار ہے
+
+[Open on Quran.com](https://quran.com/58/3)
+
+#### 60:9 · [[060 Al-Mumtahanah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّمَا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ قَـٰتَلُوكُمْ فِى ٱلدِّينِ وَأَخْرَجُوكُم مِّن دِيَـٰرِكُمْ وَظَـٰهَرُوا۟ عَلَىٰٓ إِخْرَاجِكُمْ أَن تَوَلَّوْهُمْ ۚ وَمَن يَتَوَلَّهُمْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ
+
+</div>
+
+**Word in this verse:** `وَظَـٰهَرُوا۟` — and support
+
+**English (Sahih International):** Allāh only forbids you from those who fight you because of religion and expel you from your homes and aid in your expulsion - [forbids] that you make allies of them. And whoever makes allies of them, then it is those who are the wrongdoers.
+
+**English (Yusuf Ali):** Allah only forbids you, with regard to those who fight you for (your) Faith, and drive you out of your homes, and support (others) in driving you out, from turning to them (for friendship and protection). It is such as turn to them (in these circumstances), that do wrong.
+
+**Urdu (Fatah Muhammad Jalandhari):** خدا ان ہی لوگوں کے ساتھ تم کو دوستی کرنے سے منع کرتا ہے جنہوں نے تم سے دین کے بارے میں لڑائی کی اور تم کو تمہارے گھروں سے نکالا اور تمہارے نکالنے میں اوروں کی مدد کی۔ تو جو لوگ ایسوں سے دوستی کریں گے وہی ظالم ہیں
+
+[Open on Quran.com](https://quran.com/60/9)
+

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** extends · **Root:** بسط
 
+
 ### Words (wikilinks — these create the graph)
 - [[bAsT - stretch]]
 - [[bsT - extends]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** originates · **Root:** بدأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[bd> - originates]]
 - [[ybd} - allah originates]]

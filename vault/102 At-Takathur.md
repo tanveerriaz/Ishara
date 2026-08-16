@@ -15,14 +15,15 @@ The Rivalry in world increase · 8 ayahs
 ## Words in this surah (graph)
 
 - [[yqyn - certainty]] — `يَقِين` · certainty
-- [[Elm - know]] — `عَلِمَ` · know
-- [[ywm - day]] — `يَوْم` · day
-- [[jHym - hellfire]] — `جَحِيم` · hellfire
-- [[Eyn - eyes]] — `عَيْن` · eyes
-- [[nEym - delight]] — `نَعِيم` · delight
 - [[>lhY - diverted them]] — `أَلْهَى` · diverted them
+- [[ywm - day]] — `يَوْم` · day
 - [[s>l - ask]] — `سَأَلَ` · ask
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
 - [[r>Y - you see]] — `رَأَى` · you see
+- [[nEym - delight]] — `نَعِيم` · delight
+- [[Elm - knowledge]] — `عِلْم` · knowledge
+- [[Eyn - eyes]] — `عَيْن` · eyes
+- [[Elm - know]] — `عَلِمَ` · know
 
 ## Roots
 

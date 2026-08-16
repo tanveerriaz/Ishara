@@ -15,21 +15,20 @@ The Power · 5 ayahs
 ## Words in this surah (graph)
 
 - [[lylp - nights]] — `لَيْلَة` · nights
-- [[fjr - dawn]] — `فَجْر` · dawn
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
-- [[rwH - spirit]] — `رُوح` · spirit
-- [[>mr - command]] — `أَمَرَ` · command
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[qdr - power]] — `قَدْر` · power
 - [[slAm - peace]] — `سَلام` · peace
+- [[$hr - months]] — `شَهْر` · months
+- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[rb - lord]] — `رَبّ` · lord
+- [[>lf - thousand]] — `أَلْف` · thousand
+- [[>mr - command]] — `أَمْر` · command
+- [[fjr - dawn]] — `فَجْر` · dawn
+- [[rwH - spirit]] — `رُوح` · spirit
 - [[<*n - by permission]] — `إِذْن` · by permission
 - [[xyr - better]] — `خَيْر` · better
-- [[>lf - thousand]] — `أَلْف` · thousand
 - [[mlk - angels]] — `مَلَك` · angels
-- [[rb - lord]] — `رَبّ` · lord
-- [[mTlE - rising place]] — `مَطْلِع` · rising place
-- [[$hr - months]] — `شَهْر` · months
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
 - [[kl - every]] — `كُلّ` · every
 
 ## Roots

@@ -2,8 +2,8 @@
 type: word
 lemma: "أُذُن"
 slug: ">*n - ears"
-surah_count: 26
-ayah_count: 42
+surah_count: 13
+ayah_count: 16
 tags: [word, meaning]
 ---
 
@@ -19,32 +19,20 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **ears** · Lemma **أُذُن**
 
-### Surahs (26)
+### Surahs (13)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[009 At-Tawbah]]
-- [[010 Yunus]]
-- [[012 Yusuf]]
-- [[016 An-Nahl]]
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
-- [[020 Taha]]
 - [[022 Al-Hajj]]
-- [[024 An-Nur]]
-- [[026 Ash-Shuara]]
 - [[031 Luqman]]
-- [[033 Al-Ahzab]]
-- [[034 Saba]]
 - [[041 Fussilat]]
-- [[042 Ash-Shuraa]]
-- [[053 An-Najm]]
 - [[069 Al-Haqqah]]
 - [[071 Nuh]]
-- [[077 Al-Mursalat]]
-- [[078 An-Naba]]
 
 ## Verses (full text)
 
@@ -67,24 +55,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** یا ان کی مثال مینہ کی سی ہے کہ آسمان سے (برس رہا ہو اور) اس میں اندھیرے پر اندھیرا (چھا رہا) ہو اور (بادل) گرج (رہا) ہو اور بجلی (کوند رہی) ہو تو یہ کڑک سے (ڈر کر) موت کے خوف سے کانوں میں انگلیاں دے لیں اور الله کافروں کو (ہر طرف سے) گھیرے ہوئے ہے
 
 [Open on Quran.com](https://quran.com/2/19)
-
-#### 2:279 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍ مِّنَ ٱللَّهِ وَرَسُولِهِۦ ۖ وَإِن تُبْتُمْ فَلَكُمْ رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ
-
-</div>
-
-**Word in this verse:** `فَأْذَنُوا۟` — then be informed
-
-**English (Sahih International):** And if you do not, then be informed of a war [against you] from Allāh and His Messenger. But if you repent, you may have your principal - [thus] you do no wrong, nor are you wronged.
-
-**English (Yusuf Ali):** If ye do it not, Take notice of war from Allah and His Messenger: But if ye turn back, ye shall have your capital sums: Deal not unjustly, and ye shall not be dealt with unjustly.
-
-**Urdu (Fatah Muhammad Jalandhari):** اگر ایسا نہ کرو گے تو خبردار ہوجاؤ (کہ تم) خدا اور رسول سے جنگ کرنے کے لئے (تیار ہوتے ہو) اور اگر توبہ کرلو گے (اور سود چھوڑ دو گے) تو تم کو اپنی اصل رقم لینے کا حق ہے جس میں نہ اوروں کا نقصان اور تمہارا نقصان
-
-[Open on Quran.com](https://quran.com/2/279)
 
 #### 4:119 · [[004 An-Nisa]]
 
@@ -140,42 +110,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/25)
 
-#### 7:44 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَنَادَىٰٓ أَصْحَـٰبُ ٱلْجَنَّةِ أَصْحَـٰبَ ٱلنَّارِ أَن قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدتُّم مَّا وَعَدَ رَبُّكُمْ حَقًّا ۖ قَالُوا۟ نَعَمْ ۚ فَأَذَّنَ مُؤَذِّنٌۢ بَيْنَهُمْ أَن لَّعْنَةُ ٱللَّهِ عَلَى ٱلظَّـٰلِمِينَ
-
-</div>
-
-**Word in this verse:** `فَأَذَّنَ` — Then will announce
-
-**English (Sahih International):** And the companions of Paradise will call out to the companions of the Fire, "We have already found what our Lord promised us to be true. Have you found what your Lord promised to be true?" They will say, "Yes." Then an announcer will announce among them, "The curse of Allāh shall be upon the wrongdoers
-
-**English (Yusuf Ali):** The Companions of the Garden will call out to the Companions of the Fire: "We have indeed found the promises of our Lord to us true: Have you also found Your Lord's promises true?" They shall say, "Yes"; but a crier shall proclaim between them: "The curse of Allah is on the wrong-doers;-
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اہل بہشت دوزخیوں سے پکار کر کہیں گے کہ جو وعدہ ہمارے پروردگار نے ہم سے کیا تھا ہم نے تو اسے سچا پالیا۔ بھلا جو وعدہ تمہارے پروردگار نے تم سے کیا تھا تم نے بھی اسے سچا پایا؟ وہ کہیں گے ہاں تو (اس وقت) ان میں ایک پکارنے والا پکارے گا کہ بےانصافوں پر خدا کی لعنت
-
-[Open on Quran.com](https://quran.com/7/44)
-
-#### 7:123 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالَ فِرْعَوْنُ ءَامَنتُم بِهِۦ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّ هَـٰذَا لَمَكْرٌ مَّكَرْتُمُوهُ فِى ٱلْمَدِينَةِ لِتُخْرِجُوا۟ مِنْهَآ أَهْلَهَا ۖ فَسَوْفَ تَعْلَمُونَ
-
-</div>
-
-**Word in this verse:** `ءَاذَنَ` — I give permission
-
-**English (Sahih International):** Said Pharaoh, "You believed in him before I gave you permission. Indeed, this is a conspiracy which you conspired in the city to expel therefrom its people. But you are going to know.
-
-**English (Yusuf Ali):** Said Pharaoh: "Believe ye in Him before I give you permission? Surely this is a trick which ye have planned in the city to drive out its people: but soon shall ye know (the consequences).
-
-**Urdu (Fatah Muhammad Jalandhari):** فرعون نے کہا کہ پیشتر اس کے کہ میں تمہیں اجازت دوں تم اس پر ایمان لے آئے؟ بےشک یہ فریب ہے جو تم نے مل کر شہر میں کیا ہے تاکہ اہلِ شہر کو یہاں سے نکال دو۔ سو عنقریب (اس کا نتیجہ) معلوم کرلو گے
-
-[Open on Quran.com](https://quran.com/7/123)
-
 #### 7:179 · [[007 Al-Araf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -212,23 +146,77 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/195)
 
-#### 9:43 · [[009 At-Tawbah]]
+#### 9:61 · [[009 At-Tawbah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمْ حَتَّىٰ يَتَبَيَّنَ لَكَ ٱلَّذِينَ صَدَقُوا۟ وَتَعْلَمَ ٱلْكَـٰذِبِينَ
+وَمِنْهُمُ ٱلَّذِينَ يُؤْذُونَ ٱلنَّبِىَّ وَيَقُولُونَ هُوَ أُذُنٌ ۚ قُلْ أُذُنُ خَيْرٍ لَّكُمْ يُؤْمِنُ بِٱللَّهِ وَيُؤْمِنُ لِلْمُؤْمِنِينَ وَرَحْمَةٌ لِّلَّذِينَ ءَامَنُوا۟ مِنكُمْ ۚ وَٱلَّذِينَ يُؤْذُونَ رَسُولَ ٱللَّهِ لَهُمْ عَذَابٌ أَلِيمٌ
 
 </div>
 
-**Word in this verse:** `أَذِنتَ` — you grant leave
+**Word in this verse:** `أُذُنٌۭ ۚ` — (all) ear
 
-**English (Sahih International):** Allāh has pardoned you, [O Muḥammad, but] why did you give them permission [to remain behind]? [You should not have] until it was evident to you who were truthful and you knew [who were] the liars.
+**English (Sahih International):** And among them are those who abuse the Prophet and say, "He is an ear." Say, "[It is] an ear of goodness for you that believes in Allāh and believes the believers and [is] a mercy to those who believe among you." And those who abuse the Messenger of Allāh - for them is a painful punishment.
 
-**English (Yusuf Ali):** Allah give thee grace! why didst thou grant them until those who told the truth were seen by thee in a clear light, and thou hadst proved the liars?
+**English (Yusuf Ali):** Among them are men who molest the Prophet and say, "He is (all) ear." Say, "He listens to what is best for you: he believes in Allah, has faith in the Believers, and is a Mercy to those of you who believe." But those who molest the Messenger will have a grievous penalty.
 
-**Urdu (Fatah Muhammad Jalandhari):** خدا تمہیں معاف کرے۔ تم نے پیشتر اس کے کہ تم پر وہ لوگ بھی ظاہر ہو جاتے ہیں جو سچے ہیں اور وہ بھی تمہیں معلوم ہو جاتے جو جھوٹے ہیں اُن کو اجازت کیوں دی
+**Urdu (Fatah Muhammad Jalandhari):** اور ان میں بعض ایسے ہیں جو پیغمبر کو ایذا دیتے ہیں اور کہتے ہیں کہ یہ شخص نرا کان ہے۔ (ان سے) کہہ دو کہ (وہ) کان (ہے تو) تمہاری بھلائی کے لیے۔ وہ خدا کا اور مومنوں (کی بات) کا یقین رکھتا ہے اور جو لوگ تم میں سے ایمان لائے ہیں ان کے لیے رحمت ہے۔ اور جو لوگ رسول خدا کو رنج پہنچاتے ہیں ان کے لیے عذاب الیم (تیار) ہے
 
-[Open on Quran.com](https://quran.com/9/43)
+[Open on Quran.com](https://quran.com/9/61)
 
-_…and **32** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 17:46 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا ۚ وَإِذَا ذَكَرْتَ رَبَّكَ فِى ٱلْقُرْءَانِ وَحْدَهُۥ وَلَّوْا۟ عَلَىٰٓ أَدْبَـٰرِهِمْ نُفُورًا
+
+</div>
+
+**Word in this verse:** `ءَاذَانِهِمْ` — their ears
+
+**English (Sahih International):** And We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And when you mention your Lord alone in the Qur’ān, they turn back in aversion.
+
+**English (Yusuf Ali):** And We put coverings over their hearts (and minds) lest they should understand the Qur'an, and deafness into their ears: when thou dost commemorate thy Lord and Him alone in the Qur'an, they turn on their backs, fleeing (from the Truth).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں پر پردہ ڈال دیتے ہیں کہ اسے سمجھ نہ سکیں اور ان کے کانوں میں ثقل پیدا کر دیتے ہیں۔ اور جب تم قرآن میں اپنے پروردگار یکتا کا ذکر کرتے ہو تو وہ بدک جاتے اور پیٹھ پھیر کر چل دیتے ہیں
+
+[Open on Quran.com](https://quran.com/17/46)
+
+#### 18:11 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ فِى ٱلْكَهْفِ سِنِينَ عَدَدًا
+
+</div>
+
+**Word in this verse:** `ءَاذَانِهِمْ` — their ears
+
+**English (Sahih International):** So We cast [a cover of sleep] over their ears within the cave for a number of years.
+
+**English (Yusuf Ali):** Then We draw (a veil) over their ears, for a number of years, in the Cave, (so that they heard not):
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ہم نے غار میں کئی سال تک ان کے کانوں پر (نیند کا) پردہ ڈالے (یعنی ان کو سلائے) رکھا
+
+[Open on Quran.com](https://quran.com/18/11)
+
+#### 18:57 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَنْ أَظْلَمُ مِمَّن ذُكِّرَ بِـَٔايَـٰتِ رَبِّهِۦ فَأَعْرَضَ عَنْهَا وَنَسِىَ مَا قَدَّمَتْ يَدَاهُ ۚ إِنَّا جَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ ءَاذَانِهِمْ وَقْرًا ۖ وَإِن تَدْعُهُمْ إِلَى ٱلْهُدَىٰ فَلَن يَهْتَدُوٓا۟ إِذًا أَبَدًا
+
+</div>
+
+**Word in this verse:** `ءَاذَانِهِمْ` — their ears
+
+**English (Sahih International):** And who is more unjust than one who is reminded of the verses of his Lord but turns away from them and forgets what his hands have put forth? Indeed, We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And if you invite them to guidance - they will never be guided, then - ever.
+
+**English (Yusuf Ali):** And who doth more wrong than one who is reminded of the Signs of his Lord, but turns away from them, forgetting the (deeds) which his hands have sent forth? Verily We have set veils over their hearts lest they should understand this, and over their ears, deafness, if thou callest them to guidance, even then will they never accept guidance.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس سے ظالم کون جس کو اس کے پروردگار کے کلام سے سمجھایا گیا تو اُس نے اس سے منہ پھیر لیا۔ اور جو اعمال وہ آگے کرچکا اس کو بھول گیا۔ ہم نے ان کے دلوں پر پردے ڈال دیئے کہ اسے سمجھ نہ سکیں۔ اور کانوں میں ثقل (پیدا کردیا ہے کہ سن نہ سکیں) اور اگر تم ان کو رستے کی طرف بلاؤ تو کبھی رستے پر نہ آئیں گے
+
+[Open on Quran.com](https://quran.com/18/57)
+
+_…and **6** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

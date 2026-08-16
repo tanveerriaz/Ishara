@@ -11,8 +11,11 @@ tags: [root, meaning]
 
 **Sense:** fair manner · **Root:** عرف
 
+
 ### Words (wikilinks — these create the graph)
 - [[AEtrf - have acknowledged]]
+- [[Erf - good]]
+- [[Erf - he has made]]
 - [[Erf - they recognize]]
 - [[mErwf - fair manner]]
 

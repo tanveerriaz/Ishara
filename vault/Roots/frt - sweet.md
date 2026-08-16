@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** sweet · **Root:** فرت
 
+
 ### Words (wikilinks — these create the graph)
 - [[frAt - sweet]]
 

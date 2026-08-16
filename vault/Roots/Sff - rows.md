@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** rows · **Root:** صفف
 
+
 ### Words (wikilinks — these create the graph)
 - [[SAfp - wings outspread]]
 - [[Sf - rows]]

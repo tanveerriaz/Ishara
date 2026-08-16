@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** turn yellow · **Root:** صفر
 
+
 ### Words (wikilinks — these create the graph)
 - [[mSfr - turn yellow]]
 

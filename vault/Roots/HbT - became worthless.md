@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** became worthless · **Root:** حبط
 
+
 ### Words (wikilinks — these create the graph)
 - [[HbT - became worthless]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** dumb · **Root:** بكم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>bkm - dumb]]
 

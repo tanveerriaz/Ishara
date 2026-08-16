@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** burning flame · **Root:** شهب
 
+
 ### Words (wikilinks — these create the graph)
 - [[$hAb - burning flame]]
 

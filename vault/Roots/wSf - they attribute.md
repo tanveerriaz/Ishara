@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they attribute · **Root:** وصف
 
+
 ### Words (wikilinks — these create the graph)
 - [[ySf - they attribute]]
 

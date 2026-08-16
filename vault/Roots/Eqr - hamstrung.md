@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hamstrung · **Root:** عقر
 
+
 ### Words (wikilinks — these create the graph)
 - [[Eqr - hamstrung]]
 

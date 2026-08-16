@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** day · **Root:** يوم
 
+
 ### Words (wikilinks — these create the graph)
 - [[ywm - day]]
 

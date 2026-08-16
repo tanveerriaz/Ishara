@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** despised · **Root:** خسأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[xAs} - despised]]
 

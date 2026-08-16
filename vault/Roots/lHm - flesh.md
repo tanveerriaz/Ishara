@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** flesh · **Root:** لحم
 
+
 ### Words (wikilinks — these create the graph)
 - [[lHm - flesh]]
 

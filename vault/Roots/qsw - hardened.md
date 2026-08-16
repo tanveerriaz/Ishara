@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hardened · **Root:** قسو
 
+
 ### Words (wikilinks — these create the graph)
 - [[qAsyp - hardened]]
 - [[qst - hardened]]

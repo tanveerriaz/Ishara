@@ -2,8 +2,8 @@
 type: word
 lemma: "بَطَشْ"
 slug: "bT$ - you seize"
-surah_count: 7
-ayah_count: 7
+surah_count: 4
+ayah_count: 4
 tags: [word, meaning]
 ---
 
@@ -14,19 +14,16 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bT$ - you seize]]
+- [[bT$ - power]]
 
 ### Meaning
 **you seize** · Lemma **بَطَشْ**
 
-### Surahs (7)
+### Surahs (4)
 - [[007 Al-Araf]]
 - [[026 Ash-Shuara]]
 - [[028 Al-Qasas]]
-- [[043 Az-Zukhruf]]
 - [[044 Ad-Dukhan]]
-- [[050 Qaf]]
-- [[085 Al-Buruj]]
 
 ## Verses (full text)
 
@@ -86,24 +83,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/28/19)
 
-#### 43:8 · [[043 Az-Zukhruf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَأَهْلَكْنَآ أَشَدَّ مِنْهُم بَطْشًا وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ
-
-</div>
-
-**Word in this verse:** `بَطْشًۭا` — (in) power
-
-**English (Sahih International):** And We destroyed greater than them in [striking] power, and the example of the former peoples has preceded.
-
-**English (Yusuf Ali):** So We destroyed (them)- stronger in power than these;- and (thus) has passed on the Parable of the peoples of old.
-
-**Urdu (Fatah Muhammad Jalandhari):** تو جو ان میں سخت زور والے تھے ان کو ہم نے ہلاک کردیا اور اگلے لوگوں کی حالت گزر گئی
-
-[Open on Quran.com](https://quran.com/43/8)
-
 #### 44:16 · [[044 Ad-Dukhan]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -121,40 +100,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جس دن ہم بڑی سخت پکڑ پکڑیں گے تو بےشک انتقام لے کر چھوڑیں گے
 
 [Open on Quran.com](https://quran.com/44/16)
-
-#### 50:36 · [[050 Qaf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَشَدُّ مِنْهُم بَطْشًا فَنَقَّبُوا۟ فِى ٱلْبِلَـٰدِ هَلْ مِن مَّحِيصٍ
-
-</div>
-
-**Word in this verse:** `بَطْشًۭا` — (in) power
-
-**English (Sahih International):** And how many a generation before them did We destroy who were greater than them in [striking] power and had explored throughout the lands. Is there any place of escape?
-
-**English (Yusuf Ali):** But how many generations before them did We destroy (for their sins),- stronger in power than they? Then did they wander through the land: was there any place of escape (for them)?
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے ان سے پہلے کئی اُمتیں ہلاک کر ڈالیں۔ وہ ان سے قوت میں کہیں بڑھ کر تھے وہ شہروں میں گشت کرنے لگے۔ کیا کہیں بھاگنے کی جگہ ہے؟
-
-[Open on Quran.com](https://quran.com/50/36)
-
-#### 85:12 · [[085 Al-Buruj]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ
-
-</div>
-
-**Word in this verse:** `بَطْشَ` — (the) Grip
-
-**English (Sahih International):** Indeed, the assault [i.e., vengeance] of your Lord is severe.
-
-**English (Yusuf Ali):** Truly strong is the Grip (and Power) of thy Lord.
-
-**Urdu (Fatah Muhammad Jalandhari):** بےشک تمہارے پروردگار کی پکڑ بڑی سخت ہے
-
-[Open on Quran.com](https://quran.com/85/12)
 

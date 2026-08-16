@@ -14,31 +14,31 @@ The Victory · 29 ayahs
 
 ## Words in this surah (graph)
 
-- [[mxlf - remained behind]] — `مُخَلَّف` · remained behind
 - [[skynp - tranquility]] — `سَكِينَة` · tranquility
+- [[ftH - victory]] — `فَتْح` · victory
+- [[mxlf - remained behind]] — `مُخَلَّف` · remained behind
+- [[>ErAb - bedouins]] — `أَعْراب` · bedouins
 - [[kvyrp - many]] — `كَثِيرَة` · many
 - [[kf - restrain]] — `كَفَّ` · restrain
+- [[sw' - evil 2]] — `سَوْء` · evil
 - [[bAyE - pledging you]] — `بايَعْ` · pledging you
-- [[>ErAb - bedouins]] — `أَعْراب` · bedouins
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[r'yA - vision]] — `رُءْيا` · vision
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[Hsd - out jealousy]] — `حَسَد` · out jealousy
-- [[AtY - give]] — `آتَى` · give
-- [[qlyl - little]] — `قَلِيل` · little
-- [[yT> - they step]] — `يَطَأُ` · they step
-- [[*nb - sins]] — `ذَنب` · sins
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
-- [[>Ejb - pleases you]] — `أَعْجَبَ` · pleases you
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
 - [[>TAE - obey]] — `أَطاعَ` · obey
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[AzdAd - they increased]] — `ازْدادُ` · they increased
-- [[mnAfqp - hypocrite women]] — `مُنافِقَة` · hypocrite women
-- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
-- [[allah - God]] — `الله` · God
-- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[Zn - thought]] — `ظَنَّ` · thought
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[$hyd - witness]] — `شَهِيد` · witness
+- [[>HAT - they encompass]] — `أَحاطَ` · they encompass
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[rAkE - bow down]] — `راكِع` · bow down
+- [[dEA - call]] — `دَعا` · call
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[Hsd - they jealous]] — `حَسَدَ` · they jealous
+- [[$Ahd - witnesses]] — `شاهِد` · witnesses
+- [[fwq - above them]] — `فَوْق` · above them
 
 ## Roots
 
@@ -86,7 +86,7 @@ The Victory · 29 ayahs
 - [[Hqq - truth]]
 - [[Hrj - any blame]]
 - [[Hrm - al-haraam]]
-- [[Hsd - out jealousy]]
+- [[Hsd - they jealous]]
 - [[Hsn - good]]
 - [[HwT - all-encompassing]]
 - [[Sdd - hinder]]

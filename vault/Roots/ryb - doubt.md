@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** doubt · **Root:** ريب
 
+
 ### Words (wikilinks — these create the graph)
 - [[ArtAb - you doubt]]
 - [[mryb - suspicious]]

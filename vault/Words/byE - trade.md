@@ -2,8 +2,8 @@
 type: word
 lemma: "بَيْع"
 slug: "byE - trade"
-surah_count: 6
-ayah_count: 7
+surah_count: 5
+ayah_count: 6
 tags: [word, meaning]
 ---
 
@@ -19,11 +19,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **trade** · Lemma **بَيْع**
 
-### Surahs (6)
+### Surahs (5)
 - [[002 Al-Baqarah]]
 - [[009 At-Tawbah]]
 - [[014 Ibrahim]]
-- [[022 Al-Hajj]]
 - [[024 An-Nur]]
 - [[062 Al-Jumuah]]
 
@@ -102,24 +101,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) میرے مومن بندوں سے کہہ دو کہ نماز پڑھا کریں اور اس دن کے آنے سے پیشتر جس میں نہ (اعمال کا) سودا ہوگا اور نہ دوستی (کام آئے گی) ہمارے دیئے ہوئے مال میں سے درپردہ اور ظاہر خرچ کرتے رہیں
 
 [Open on Quran.com](https://quran.com/14/31)
-
-#### 22:40 · [[022 Al-Hajj]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَـٰرِهِم بِغَيْرِ حَقٍّ إِلَّآ أَن يَقُولُوا۟ رَبُّنَا ٱللَّهُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّهُدِّمَتْ صَوَٰمِعُ وَبِيَعٌ وَصَلَوَٰتٌ وَمَسَـٰجِدُ يُذْكَرُ فِيهَا ٱسْمُ ٱللَّهِ كَثِيرًا ۗ وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ
-
-</div>
-
-**Word in this verse:** `وَبِيَعٌۭ` — and churches
-
-**English (Sahih International):** [They are] those who have been evicted from their homes without right - only because they say, "Our Lord is Allāh." And were it not that Allāh checks the people, some by means of others, there would have been demolished monasteries, churches, synagogues, and mosques in which the name of Allāh is much mentioned [i.e., praised]. And Allāh will surely support those who support Him [i.e., His cause]. Indeed, Allāh is Powerful and Exalted in Might.
-
-**English (Yusuf Ali):** (They are) those who have been expelled from their homes in defiance of right,- (for no cause) except that they say, "our Lord is Allah". Did not Allah check one set of people by means of another, there would surely have been pulled down monasteries, churches, synagogues, and mosques, in which the name of Allah is commemorated in abundant measure. Allah will certainly aid those who aid his (cause);- for verily Allah is full of Strength, Exalted in Might, (able to enforce His Will).
-
-**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں کہ اپنے گھروں سے ناحق نکال دیئے گئے (انہوں نے کچھ قصور نہیں کیا) ہاں یہ کہتے ہیں کہ ہمارا پروردگار خدا ہے۔ اور اگر خدا لوگوں کو ایک دوسرے سے نہ ہٹاتا رہتا تو (راہبوں کے) صومعے اور (عیسائیوں کے) گرجے اور (یہودیوں کے) عبادت خانے اور (مسلمانوں کی) مسجدیں جن میں خدا کا بہت سا ذکر کیا جاتا ہے ویران ہوچکی ہوتیں۔ اور جو شخص خدا کی مدد کرتا ہے خدا اس کی ضرور مدد کرتا ہے۔ بےشک خدا توانا اور غالب ہے
-
-[Open on Quran.com](https://quran.com/22/40)
 
 #### 24:37 · [[024 An-Nur]]
 

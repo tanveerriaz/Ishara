@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** use reason · **Root:** عقل
 
+
 ### Words (wikilinks — these create the graph)
 - [[Eql - use reason]]
 

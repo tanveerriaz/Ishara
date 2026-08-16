@@ -3,7 +3,7 @@ type: word
 lemma: "بَيْت"
 slug: "byt - houses"
 surah_count: 28
-ayah_count: 50
+ayah_count: 47
 tags: [word, meaning]
 ---
 
@@ -212,23 +212,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/15)
 
-#### 4:81 · [[004 An-Nisa]]
+#### 4:100 · [[004 An-Nisa]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَيَقُولُونَ طَاعَةٌ فَإِذَا بَرَزُوا۟ مِنْ عِندِكَ بَيَّتَ طَآئِفَةٌ مِّنْهُمْ غَيْرَ ٱلَّذِى تَقُولُ ۖ وَٱللَّهُ يَكْتُبُ مَا يُبَيِّتُونَ ۖ فَأَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
+۞ وَمَن يُهَاجِرْ فِى سَبِيلِ ٱللَّهِ يَجِدْ فِى ٱلْأَرْضِ مُرَٰغَمًا كَثِيرًا وَسَعَةً ۚ وَمَن يَخْرُجْ مِنۢ بَيْتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدْرِكْهُ ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
 
 </div>
 
-**Word in this verse:** `بَيَّتَ` — plan by night
+**Word in this verse:** `بَيْتِهِۦ` — his home
 
-**English (Sahih International):** And they say, "[We pledge] obedience." But when they leave you, a group of them spend the night determining to do other than what you say. But Allāh records what they plan by night. So leave them alone and rely upon Allāh. And sufficient is Allāh as Disposer of affairs.
+**English (Sahih International):** And whoever emigrates for the cause of Allāh will find on the earth many [alternative] locations and abundance. And whoever leaves his home as an emigrant to Allāh and His Messenger and then death overtakes him - his reward has already become incumbent upon Allāh. And Allāh is ever Forgiving and Merciful.
 
-**English (Yusuf Ali):** They have "Obedience" on their lips; but when they leave thee, a section of them Meditate all night on things very different from what thou tellest them. But Allah records their nightly (plots): So keep clear of them, and put thy trust in Allah, and enough is Allah as a disposer of affairs.
+**English (Yusuf Ali):** He who forsakes his home in the cause of Allah, finds in the earth Many a refuge, wide and spacious: Should he die as a refugee from home for Allah and His Messenger, His reward becomes due and sure with Allah: And Allah is Oft-forgiving, Most Merciful.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ منہ سے تو کہتے ہیں کہ (آپ کی) فرمانبرداری (دل سے منظور ہے) لیکن جب تمہارے پاس سے چلے جاتے ہیں تو ان میں سے بعض لوگ رات کو تمہاری باتوں کے خلاف مشورے کرتے ہیں اور جو مشورے یہ کرتے ہیں خدا ان کو لکھ لیتا ہے تو ان کا کچھ خیال نہ کرو اور خدا پر بھروسہ رکھو اور خدا ہی کافی کارساز ہے
+**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص خدا کی راہ میں گھر بار چھوڑ جائے وہ زمین میں بہت سی جگہ اور کشائش پائے گا اور جو شخص خدا اور رسول کی طرف ہجرت کرکے گھر سے نکل جائے پھر اس کو موت آپکڑے تو اس کا ثواب خدا کے ذمے ہوچکا اور خدا بخشنے والا اور مہربان ہے
 
-[Open on Quran.com](https://quran.com/4/81)
+[Open on Quran.com](https://quran.com/4/100)
 
-_…and **40** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **37** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

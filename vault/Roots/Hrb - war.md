@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** war · **Root:** حرب
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hrb - war]]
 - [[mHrAb - prayer chamber]]

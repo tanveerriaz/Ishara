@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** she ransoms · **Root:** فدي
 
+
 ### Words (wikilinks — these create the graph)
 - [[AftdY - she ransoms]]
 

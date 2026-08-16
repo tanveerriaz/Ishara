@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** bad consequence · **Root:** وبل
 
+
 ### Words (wikilinks — these create the graph)
 - [[wbAl - bad consequence]]
 

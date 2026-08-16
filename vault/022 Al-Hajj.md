@@ -14,31 +14,31 @@ The Pilgrimage · 78 ayahs
 
 ## Words in this surah (graph)
 
-- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[>TEm - feed]] — `أَطْعَمَ` · feed
+- [[sxr - subjected]] — `سَخَّرَ` · subjected
 - [[msmY - appointed]] — `مُسَمًّى` · appointed
+- [[qwy - all-strong]] — `قَوِيّ` · all-strong
+- [[Hryq - burning fire]] — `حَرِيق` · burning fire
 - [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[mwlY - protector]] — `مَوْلَى` · protector
+- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
+- [[>TEm - feed]] — `أَطْعَمَ` · feed
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[mnAfE - benefits]] — `مَنافِع` · benefits
+- [[>*Aq - surely]] — `أَذاقَ` · surely
 - [[$EA}r - symbols]] — `شَعائِر` · symbols
 - [[ZAlmp - doing wrong]] — `ظالِمَة` · doing wrong
-- [[>*Aq - surely]] — `أَذاقَ` · surely
 - [[>mlY - dictated]] — `أَمْلَى` · dictated
-- [[Hryq - burning fire]] — `حَرِيق` · burning fire
-- [[mnAfE - benefits]] — `مَنافِع` · benefits
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[mwlY - protector]] — `مَوْلَى` · protector
-- [[qwy - all-strong]] — `قَوِيّ` · all-strong
-- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[>*hb - remove]] — `أَذْهَبَ` · remove
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[>HyA - gives life]] — `أَحْيا` · gives life
 - [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[smY - name them]] — `سَمَّى` · name them
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[sbyl - way]] — `سَبِيل` · way
-- [[Tyr - birds]] — `طَيْر` · birds
-- [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[Elm - know]] — `عَلِمَ` · know
+- [[mHsn - good-doers]] — `مُحْسِن` · good-doers
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[dEA - call]] — `دَعا` · call
+- [[dAr - home]] — `دار` · home
+- [[EAqb - you retaliate]] — `عاقَبَ` · you retaliate
+- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[byn - between them]] — `بَيْن` · between them
+- [[>slm - submits]] — `أَسْلَمَ` · submits
 
 ## Roots
 
@@ -53,8 +53,8 @@ The Pilgrimage · 78 ayahs
 - [[$rk - polytheists]]
 - [[$rr - evil]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*wq - taste]]
 - [[>*n - by permission]]
 - [[>bw - forefathers]]
@@ -90,7 +90,7 @@ The Pilgrimage · 78 ayahs
 - [[Elq - clinging substance]]
 - [[Elw - high]]
 - [[Eml - do]]
-- [[Emr - life]]
+- [[Emr - inhabit build maintain flourish]]
 - [[Emy - blind]]
 
 ## Sample (ayah 1)

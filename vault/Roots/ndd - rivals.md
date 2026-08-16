@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** rivals · **Root:** ندد
 
+
 ### Words (wikilinks — these create the graph)
 - [[>ndAd - rivals]]
 

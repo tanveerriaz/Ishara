@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** messiah · **Root:** مسح
 
+
 ### Words (wikilinks — these create the graph)
 - [[msyH - messiah]]
 

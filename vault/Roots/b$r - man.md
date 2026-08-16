@@ -11,7 +11,10 @@ tags: [root, meaning]
 
 **Sense:** man · **Root:** بشر
 
+
 ### Words (wikilinks — these create the graph)
+- [[b$r - as glad tidings]]
+- [[b$r - give tidings]]
 - [[b$r - man]]
 - [[b$rY - glad tidings]]
 - [[b$yr - bearer glad tidings]]

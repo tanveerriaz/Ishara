@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** side · **Root:** جنب
 
+
 ### Words (wikilinks — these create the graph)
 - [[Ajtnb - avoid]]
 - [[jAnb - side]]
+- [[jnb - farther away]]
 - [[jnb - sides]]
 
 ### Surahs where this root appears

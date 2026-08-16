@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** studying it · **Root:** درس
 
+
 ### Words (wikilinks — these create the graph)
 - [[drs - studying it]]
 

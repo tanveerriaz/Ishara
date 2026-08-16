@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** emigrated · **Root:** هجر
 
+
 ### Words (wikilinks — these create the graph)
 - [[Ahjr - forsake them]]
 - [[hAjr - emigrated]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** night · **Root:** ليل
 
+
 ### Words (wikilinks — these create the graph)
 - [[lyl - night]]
 - [[lylp - nights]]

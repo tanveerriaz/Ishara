@@ -2,8 +2,8 @@
 type: word
 lemma: "عَلِيّ"
 slug: "Ely - high"
-surah_count: 10
-ayah_count: 13
+surah_count: 9
+ayah_count: 11
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **high** · Lemma **عَلِيّ**
 
-### Surahs (10)
+### Surahs (9)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
 - [[019 Maryam]]
@@ -29,7 +29,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[040 Ghafir]]
 - [[042 Ash-Shuraa]]
 - [[043 Az-Zukhruf]]
-- [[083 Al-Mutaffifin]]
 
 ## Verses (full text)
 
@@ -215,5 +214,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/42/51)
 
-_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

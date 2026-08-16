@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** sin · **Root:** ذنب
 
+
 ### Words (wikilinks — these create the graph)
 - [[*nb - sins]]
 

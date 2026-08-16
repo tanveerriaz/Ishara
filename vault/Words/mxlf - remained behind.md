@@ -2,8 +2,8 @@
 type: word
 lemma: "مُخَلَّف"
 slug: "mxlf - remained behind"
-surah_count: 3
-ayah_count: 5
+surah_count: 2
+ayah_count: 4
 tags: [word, meaning]
 ---
 
@@ -19,9 +19,8 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **remained behind** · Lemma **مُخَلَّف**
 
-### Surahs (3)
+### Surahs (2)
 - [[009 At-Tawbah]]
-- [[014 Ibrahim]]
 - [[048 Al-Fath]]
 
 ## Verses (full text)
@@ -45,24 +44,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جو لوگ (غزوہٴ تبوک میں) پیچھے رہ گئے وہ پیغمبر خدا (کی مرضی) کے خلاف بیٹھے رہنے سے خوش ہوئے اور اس بات کو ناپسند کیا کہ خدا کی راہ میں اپنے مال اور جان سے جہاد کریں۔ اور (اوروں سے بھی) کہنے لگے کہ گرمی میں مت نکلنا۔ (ان سے) کہہ دو کہ دوزخ کی آگ اس سے کہیں زیادہ گرم ہے۔ کاش یہ (اس بات) کو سمجھتے
 
 [Open on Quran.com](https://quran.com/9/81)
-
-#### 14:47 · [[014 Ibrahim]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَلَا تَحْسَبَنَّ ٱللَّهَ مُخْلِفَ وَعْدِهِۦ رُسُلَهُۥٓ ۗ إِنَّ ٱللَّهَ عَزِيزٌ ذُو ٱنتِقَامٍ
-
-</div>
-
-**Word in this verse:** `مُخْلِفَ` — will fail
-
-**English (Sahih International):** So never think that Allāh will fail in His promise to His messengers. Indeed, Allāh is Exalted in Might and Owner of Retribution.
-
-**English (Yusuf Ali):** Never think that Allah would fail his messengers in His promise: for Allah is Exalted in power, - the Lord of Retribution.
-
-**Urdu (Fatah Muhammad Jalandhari):** تو ایسا خیال نہ کرنا کہ خدا نے جو اپنے پیغمبروں سے وعدہ کیا ہے اس کے خلاف کرے گا بےشک خدا زبردست (اور) بدلہ لینے والا ہے
-
-[Open on Quran.com](https://quran.com/14/47)
 
 #### 48:11 · [[048 Al-Fath]]
 

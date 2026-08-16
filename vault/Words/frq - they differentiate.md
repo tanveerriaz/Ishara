@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "فَرَقْ"
+lemma: "فَرَّقُ"
 slug: "frq - they differentiate"
-surah_count: 12
-ayah_count: 16
+surah_count: 6
+ayah_count: 9
 tags: [word, meaning]
 ---
 
@@ -17,43 +17,19 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[frq - party]]
 
 ### Meaning
-**they differentiate** · Lemma **فَرَقْ**
+**they differentiate** · Lemma **فَرَّقُ**
 
-### Surahs (12)
+### Surahs (6)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
-- [[005 Al-Maidah]]
 - [[006 Al-Anam]]
-- [[009 At-Tawbah]]
-- [[017 Al-Isra]]
 - [[020 Taha]]
-- [[026 Ash-Shuara]]
 - [[030 Ar-Rum]]
-- [[044 Ad-Dukhan]]
-- [[077 Al-Mursalat]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:50 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَـٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ
-
-</div>
-
-**Word in this verse:** `فَرَقْنَا` — We parted
-
-**English (Sahih International):** And [recall] when We parted the sea for you and saved you and drowned the people of Pharaoh while you were looking on.
-
-**English (Yusuf Ali):** And remember We divided the sea for you and saved you and drowned Pharaoh's people within your very sight.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے تمہارے لیے دریا کو پھاڑ دیا تم کو نجات دی اور فرعون کی قوم کو غرق کر دیا اور تم دیکھ ہی تو رہے تھے
-
-[Open on Quran.com](https://quran.com/2/50)
 
 #### 2:102 · [[002 Al-Baqarah]]
 
@@ -163,24 +139,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/152)
 
-#### 5:25 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى ۖ فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ ٱلْفَـٰسِقِينَ
-
-</div>
-
-**Word in this verse:** `فَٱفْرُقْ` — so (make a) separation
-
-**English (Sahih International):** [Moses] said, "My Lord, indeed I do not possess [i.e., control] except myself and my brother, so part us from the defiantly disobedient people."
-
-**English (Yusuf Ali):** He said: "O my Lord! I have power only over myself and my brother: so separate us from this rebellious people!"
-
-**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے (خدا سے) التجا کی کہ پروردگار میں اپنے اور اپنے بھائی کے سوا اور کسی پر اختیار نہیں رکھتا تو ہم میں اور ان نافرمان لوگوں میں جدائی کردے
-
-[Open on Quran.com](https://quran.com/5/25)
-
 #### 6:159 · [[006 Al-Anam]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -199,23 +157,39 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/159)
 
-#### 9:56 · [[009 At-Tawbah]]
+#### 20:94 · [[020 Taha]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَيَحْلِفُونَ بِٱللَّهِ إِنَّهُمْ لَمِنكُمْ وَمَا هُم مِّنكُمْ وَلَـٰكِنَّهُمْ قَوْمٌ يَفْرَقُونَ
+قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ ۖ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى
 
 </div>
 
-**Word in this verse:** `يَفْرَقُونَ` — (who) are afraid
+**Word in this verse:** `فَرَّقْتَ` — You caused division
 
-**English (Sahih International):** And they swear by Allāh that they are from among you while they are not from among you; but they are a people who are afraid.
+**English (Sahih International):** [Aaron] said, "O son of my mother, do not seize [me] by my beard or by my head. Indeed, I feared that you would say, 'You caused division among the Children of Israel, and you did not observe [or await] my word.'"
 
-**English (Yusuf Ali):** They swear by Allah that they are indeed of you; but they are not of you: yet they are afraid (to appear in their true colours).
+**English (Yusuf Ali):** (Aaron) replied: "O son of my mother! Seize (me) not by my beard nor by (the hair of) my head! Truly I feared lest thou shouldst say, 'Thou has caused a division among the children of Israel, and thou didst not respect my word!'"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا کی قسمیں کھاتے ہیں کہ وہ تم ہی میں سے ہیں حالانکہ ہو تم میں سے نہیں ہیں۔ اصل یہ ہے کہ یہ ڈرپوک لوگ ہیں
+**Urdu (Fatah Muhammad Jalandhari):** کہنے لگے کہ بھائی میری ڈاڑھی اور سر (کے بالوں) کو نہ پکڑیئے۔ میں تو اس سے ڈرا کہ آپ یہ نہ کہیں کہ تم نے بنی اسرائیل میں تفرقہ ڈال دیا اور میری بات کو ملحوظ نہ رکھا
 
-[Open on Quran.com](https://quran.com/9/56)
+[Open on Quran.com](https://quran.com/20/94)
 
-_…and **6** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 30:32 · [[030 Ar-Rum]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مِنَ ٱلَّذِينَ فَرَّقُوا۟ دِينَهُمْ وَكَانُوا۟ شِيَعًا ۖ كُلُّ حِزْبٍۭ بِمَا لَدَيْهِمْ فَرِحُونَ
+
+</div>
+
+**Word in this verse:** `فَرَّقُوا۟` — divide
+
+**English (Sahih International):** [Or] of those who have divided their religion and become sects, every faction rejoicing in what it has.
+
+**English (Yusuf Ali):** Those who split up their Religion, and become (mere) Sects,- each party rejoicing in that which is with itself!
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور نہ) اُن لوگوں میں (ہونا) جنہوں نے اپنے دین کو ٹکڑے ٹکڑے کر دیا اور (خود) فرقے فرقے ہو گئے۔ سب فرقے اسی سے خوش ہیں جو اُن کے پاس ہے
+
+[Open on Quran.com](https://quran.com/30/32)
 

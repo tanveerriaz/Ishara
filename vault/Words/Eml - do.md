@@ -2,8 +2,8 @@
 type: word
 lemma: "عَمِلَ"
 slug: "Eml - do"
-surah_count: 67
-ayah_count: 309
+surah_count: 66
+ayah_count: 255
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **do** · Lemma **عَمِلَ**
 
-### Surahs (67)
+### Surahs (66)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -194,24 +194,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/134)
 
-#### 2:139 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُلْ أَتُحَآجُّونَنَا فِى ٱللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمْ وَلَنَآ أَعْمَـٰلُنَا وَلَكُمْ أَعْمَـٰلُكُمْ وَنَحْنُ لَهُۥ مُخْلِصُونَ
-
-</div>
-
-**Word in this verse:** `أَعْمَـٰلُنَا` — (are) our deeds
-
-**English (Sahih International):** Say, [O Muḥammad], "Do you argue with us about Allāh while He is our Lord and your Lord? For us are our deeds, and for you are your deeds. And we are sincere [in deed and intention] to Him."
-
-**English (Yusuf Ali):** Say: Will ye dispute with us about Allah, seeing that He is our Lord and your Lord; that we are responsible for our doings and ye for yours; and that We are sincere (in our faith) in Him?
-
-**Urdu (Fatah Muhammad Jalandhari):** (ان سے) کہو، کیا تم خدا کے بارے میں ہم سے جھگڑتے ہو، حالانکہ وہی ہمارا اور تمھارا پروردگار ہے اور ہم کو ہمارے اعمال (کا بدلہ ملے گا) اور تم کو تمھارے اعمال (کا) اور ہم خاص اسی کی عبادت کرنے والے ہیں
-
-[Open on Quran.com](https://quran.com/2/139)
-
 #### 2:140 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -230,5 +212,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/140)
 
-_…and **299** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 2:141 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+تِلْكَ أُمَّةٌ قَدْ خَلَتْ ۖ لَهَا مَا كَسَبَتْ وَلَكُم مَّا كَسَبْتُمْ ۖ وَلَا تُسْـَٔلُونَ عَمَّا كَانُوا۟ يَعْمَلُونَ
+
+</div>
+
+**Word in this verse:** `يَعْمَلُونَ` — do
+
+**English (Sahih International):** That is a nation which has passed on. It will have [the consequence of] what it earned, and you will have what you have earned. And you will not be asked about what they used to do.
+
+**English (Yusuf Ali):** That was a people that hath passed away. They shall reap the fruit of what they did, and ye of what ye do! Of their merits there is no question in your case:
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ جماعت گزر چکی۔ ان کو وہ (ملے گا) جو انہوں نے کیا، اور تم کو وہ جو تم نے کیا۔ اور جو عمل وہ کرتے تھے، اس کی پرسش تم سے نہیں ہوگی
+
+[Open on Quran.com](https://quran.com/2/141)
+
+_…and **245** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

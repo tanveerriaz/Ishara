@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "كَذَبَ"
+lemma: "كَذَّبَ"
 slug: "k*b - denied"
-surah_count: 62
-ayah_count: 199
+surah_count: 52
+ayah_count: 163
 tags: [word, meaning]
 ---
 
@@ -17,24 +17,19 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[k*b - denied]]
 
 ### Meaning
-**denied** · Lemma **كَذَبَ**
+**denied** · Lemma **كَذَّبَ**
 
-### Surahs (62)
+### Surahs (52)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
-- [[004 An-Nisa]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[008 Al-Anfal]]
-- [[009 At-Tawbah]]
 - [[010 Yunus]]
-- [[011 Hud]]
-- [[012 Yusuf]]
 - [[015 Al-Hijr]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
-- [[018 Al-Kahf]]
 - [[020 Taha]]
 - [[021 Al-Anbya]]
 - [[022 Al-Hajj]]
@@ -45,28 +40,15 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[028 Al-Qasas]]
 - [[029 Al-Ankabut]]
 - [[030 Ar-Rum]]
+- [[032 As-Sajdah]]
+- [[034 Saba]]
+- [[035 Fatir]]
+- [[036 Ya-Sin]]
+- [[037 As-Saffat]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:10 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فِى قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْذِبُونَ
-
-</div>
-
-**Word in this verse:** `يَكْذِبُونَ` — [they] lie
-
-**English (Sahih International):** In their hearts is disease, so Allāh has increased their disease; and for them is a painful punishment because they [habitually] used to lie.
-
-**English (Yusuf Ali):** In their hearts is a disease; and Allah has increased their disease: And grievous is the penalty they (incur), because they are false (to themselves).
-
-**Urdu (Fatah Muhammad Jalandhari):** ان کے دلوں میں (کفر کا) مرض تھا۔ خدا نے ان کا مرض اور زیادہ کر دیا اور ان کے جھوٹ بولنے کے سبب ان کو دکھ دینے والا عذاب ہوگا
-
-[Open on Quran.com](https://quran.com/2/10)
 
 #### 2:39 · [[002 Al-Baqarah]]
 
@@ -122,60 +104,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/11)
 
-#### 3:75 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ وَمِنْ أَهْلِ ٱلْكِتَـٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن تَأْمَنْهُ بِدِينَارٍ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًا ۗ ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّـۧنَ سَبِيلٌ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
-
-</div>
-
-**Word in this verse:** `ٱلْكَذِبَ` — the lie
-
-**English (Sahih International):** And among the People of the Scripture is he who, if you entrust him with a great amount [of wealth], he will return it to you. And among them is he who, if you entrust him with a [single] coin, he will not return it to you unless you are constantly standing over him [demanding it]. That is because they say, "There is no blame upon us concerning the unlearned." And they speak untruth about Allāh while they know [it].
-
-**English (Yusuf Ali):** Among the People of the Book are some who, if entrusted with a hoard of gold, will (readily) pay it back; others, who, if entrusted with a single silver coin, will not repay it unless thou constantly stoodest demanding, because, they say, "there is no call on us (to keep faith) with these ignorant (Pagans)." but they tell a lie against Allah, and (well) they know it.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اہلِ کتاب میں سے کوئی تو ایسا ہے کہ اگر تم اس کے پاس (روپوں کا) ڈھیر امانت رکھ دو تو تم کو (فوراً) واپس دے دے اور کوئی اس طرح کا ہے کہ اگر اس کے پاس ایک دینار بھی امانت رکھو تو جب تک اس کے سر پر ہر وقت کھڑے نہ رہو تمہیں دے ہی نہیں یہ اس لیے کہ وہ کہتے ہیں کہ امیوں کے بارے میں ہم سے مواخذہ نہیں ہوگا یہ خدا پر محض جھوٹ بولتے ہیں اور (اس بات کو) جانتے بھی ہیں
-
-[Open on Quran.com](https://quran.com/3/75)
-
-#### 3:78 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِنَّ مِنْهُمْ لَفَرِيقًا يَلْوُۥنَ أَلْسِنَتَهُم بِٱلْكِتَـٰبِ لِتَحْسَبُوهُ مِنَ ٱلْكِتَـٰبِ وَمَا هُوَ مِنَ ٱلْكِتَـٰبِ وَيَقُولُونَ هُوَ مِنْ عِندِ ٱللَّهِ وَمَا هُوَ مِنْ عِندِ ٱللَّهِ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
-
-</div>
-
-**Word in this verse:** `ٱلْكَذِبَ` — the lie
-
-**English (Sahih International):** And indeed, there is among them a party who alter the Scripture with their tongues so you may think it is from the Scripture, but it is not from the Scripture. And they say, "This is from Allāh," but it is not from Allāh. And they speak untruth about Allāh while they know.
-
-**English (Yusuf Ali):** There is among them a section who distort the Book with their tongues: (As they read) you would think it is a part of the Book, but it is no part of the Book; and they say, "That is from Allah," but it is not from Allah: It is they who tell a lie against Allah, and (well) they know it!
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ان (اہلِ کتاب) میں بعضے ایسے ہیں کہ کتاب (تورات) کو زبان مروڑ مروڑ کر پڑھتے ہیں تاکہ تم سمجھو کہ جو کچھ وہ پڑھتے ہیں کتاب میں سے ہے حالانکہ وہ کتاب میں سے نہیں ہے اور کہتے ہیں کہ وہ خدا کی طرف سے (نازل ہوا) ہے حالانکہ وہ خدا کی طرف سے نہیں ہوتا اور خدا پر جھوٹ بولتے ہیں اور (یہ بات) جانتے بھی ہیں
-
-[Open on Quran.com](https://quran.com/3/78)
-
-#### 3:94 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَمَنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ مِنۢ بَعْدِ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ
-
-</div>
-
-**Word in this verse:** `ٱلْكَذِبَ` — [the] lie
-
-**English (Sahih International):** And whoever invents about Allāh untruth after that - then those are [truly] the wrongdoers.
-
-**English (Yusuf Ali):** If any, after this, invent a lie and attribute it to Allah, they are indeed unjust wrong-doers.
-
-**Urdu (Fatah Muhammad Jalandhari):** جو اس کے بعد بھی خدا پر جھوٹے افترا کریں تو ایسے لوگ ہی بےانصاف ہیں
-
-[Open on Quran.com](https://quran.com/3/94)
-
 #### 3:184 · [[003 Ali Imran]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -193,24 +121,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** پھر اگر یہ لوگ تم کو سچا نہ سمجھیں تو تم سے پہلے بہت سے پیغمبر کھلی ہوئی نشانیاں اور صحیفے اور روشن کتابیں لے کر آچکے ہیں اور لوگوں نے ان کو بھی سچا نہیں سمجھا
 
 [Open on Quran.com](https://quran.com/3/184)
-
-#### 4:50 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱنظُرْ كَيْفَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ ۖ وَكَفَىٰ بِهِۦٓ إِثْمًا مُّبِينًا
-
-</div>
-
-**Word in this verse:** `ٱلْكَذِبَ ۖ` — [the] lie
-
-**English (Sahih International):** Look how they invent about Allāh untruth, and sufficient is that as a manifest sin.
-
-**English (Yusuf Ali):** Behold! how they invent a lie against Allah! but that by itself is a manifest sin!
-
-**Urdu (Fatah Muhammad Jalandhari):** دیکھو یہ خدا پر کیسا جھوٹ (طوفان) باندھتے ہیں اور یہی گناہ صریح کافی ہے
-
-[Open on Quran.com](https://quran.com/4/50)
 
 #### 5:10 · [[005 Al-Maidah]]
 
@@ -230,5 +140,95 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/5/10)
 
-_…and **189** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 5:70 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَقَدْ أَخَذْنَا مِيثَـٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَأَرْسَلْنَآ إِلَيْهِمْ رُسُلًا ۖ كُلَّمَا جَآءَهُمْ رَسُولٌۢ بِمَا لَا تَهْوَىٰٓ أَنفُسُهُمْ فَرِيقًا كَذَّبُوا۟ وَفَرِيقًا يَقْتُلُونَ
+
+</div>
+
+**Word in this verse:** `كَذَّبُوا۟` — they denied
+
+**English (Sahih International):** We had already taken the covenant of the Children of Israel and had sent to them messengers. Whenever there came to them a messenger with what their souls did not desire, a party [of messengers] they denied, and another party they killed.
+
+**English (Yusuf Ali):** We took the covenant of the Children of Israel and sent them messengers, every time, there came to them a messenger with what they themselves desired not - some (of these) they called impostors, and some they (go so far as to) slay.
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم نے بنی اسرائیل سے عہد بھی لیا اور ان کی طرف پیغمبر بھی بھیجے (لیکن) جب کوئی پیغمبر ان کے پاس ایسی باتیں لےکر آتا جن کو ان کے دل نہیں چاہتے تھے تو وہ (انبیاء کی) ایک جماعت کو تو جھٹلا دیتے اور ایک جماعت کو قتل کر دیتے تھے
+
+[Open on Quran.com](https://quran.com/5/70)
+
+#### 5:86 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَحِيمِ
+
+</div>
+
+**Word in this verse:** `وَكَذَّبُوا۟` — and denied
+
+**English (Sahih International):** But those who disbelieved and denied Our signs - they are the companions of Hellfire.
+
+**English (Yusuf Ali):** But those who reject Faith and belie our Signs,- they shall be companions of Hell-fire.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جن لوگوں نے کفر کیا اور ہماری آیتوں کو جھٹلایا وہ جہنمی ہیں
+
+[Open on Quran.com](https://quran.com/5/86)
+
+#### 6:5 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَقَدْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ ۖ فَسَوْفَ يَأْتِيهِمْ أَنۢبَـٰٓؤُا۟ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
+
+</div>
+
+**Word in this verse:** `كَذَّبُوا۟` — they denied
+
+**English (Sahih International):** For they had denied the truth when it came to them, but there is going to reach them the news of what they used to ridicule.
+
+**English (Yusuf Ali):** And now they reject the truth when it reaches them: but soon shall they learn the reality of what they used to mock at.
+
+**Urdu (Fatah Muhammad Jalandhari):** جب ان کے پاس حق آیا تو اس کو بھی جھٹلا دیا سو ان کو ان چیزوں کا جن سے یہ استہزا کرتے ہیں عنقریب انجام معلوم ہو جائے گا
+
+[Open on Quran.com](https://quran.com/6/5)
+
+#### 6:21 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِـَٔايَـٰتِهِۦٓ ۗ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّـٰلِمُونَ
+
+</div>
+
+**Word in this verse:** `كَذَّبَ` — rejects
+
+**English (Sahih International):** And who is more unjust than one who invents about Allāh a lie or denies His verses? Indeed, the wrongdoers will not succeed.
+
+**English (Yusuf Ali):** Who doth more wrong than he who inventeth a lie against Allah or rejecteth His signs? But verily the wrong-doers never shall prosper.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اس شخص سے زیادہ کون ظالم ہے جس نے خدا پر جھوٹ افتراء کیا یا اس کی آیتوں کو جھٹلایا۔ کچھ شک نہیں کہ ظالم لوگ نجات نہیں پائیں گے
+
+[Open on Quran.com](https://quran.com/6/21)
+
+#### 6:27 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَى ٱلنَّارِ فَقَالُوا۟ يَـٰلَيْتَنَا نُرَدُّ وَلَا نُكَذِّبَ بِـَٔايَـٰتِ رَبِّنَا وَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ
+
+</div>
+
+**Word in this verse:** `نُكَذِّبَ` — we would deny
+
+**English (Sahih International):** If you could but see when they are made to stand before the Fire and will say, "Oh, would that we could be returned [to life on earth] and not deny the signs of our Lord and be among the believers."
+
+**English (Yusuf Ali):** If thou couldst but see when they are confronted with the Fire! They will say: "Would that we were but sent back! Then would we not reject the signs of our Lord, but would be amongst those who believe!"
+
+**Urdu (Fatah Muhammad Jalandhari):** کاش تم (ان کو اس وقت) دیکھو جب یہ دوزخ کے کنارے کھڑے کئے جائیں گے اور کہیں گے کہ اے کاش ہم پھر (دنیا میں) لوٹا دیئے جائیں تاکہ اپنے پروردگار کی آیتوں کی تکذیب نہ کریں اور مومن ہوجائیں
+
+[Open on Quran.com](https://quran.com/6/27)
+
+_…and **153** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

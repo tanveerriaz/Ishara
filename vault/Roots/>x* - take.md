@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** take · **Root:** أخذ
 
+
 ### Words (wikilinks — these create the graph)
+- [[>x* - seizure]]
 - [[>x* - we took]]
 - [[Atx* - take]]
 - [[Ax* - take it]]

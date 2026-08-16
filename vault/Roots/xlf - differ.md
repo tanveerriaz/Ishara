@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** differ · **Root:** خلف
 
+
 ### Words (wikilinks — these create the graph)
 - [[>xlf - break]]
 - [[Astxlf - grant succession]]
@@ -20,6 +21,7 @@ tags: [root, meaning]
 - [[mxtlf - various]]
 - [[xlAf - opposite sides]]
 - [[xlf - behind them]]
+- [[xlf - then succeeded]]
 - [[xlyfp - successors]]
 
 ### Surahs where this root appears

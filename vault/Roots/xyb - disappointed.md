@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** disappointed · **Root:** خيب
 
+
 ### Words (wikilinks — these create the graph)
 - [[xAb - disappointed]]
 

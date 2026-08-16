@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** tablets · **Root:** لوح
 
+
 ### Words (wikilinks — these create the graph)
 - [[lwH - tablets]]
 

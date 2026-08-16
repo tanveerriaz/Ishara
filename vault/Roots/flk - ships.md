@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** ships · **Root:** فلك
 
+
 ### Words (wikilinks — these create the graph)
+- [[flk - orbit]]
 - [[flk - ships]]
 
 ### Surahs where this root appears

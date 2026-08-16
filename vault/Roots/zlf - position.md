@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** position · **Root:** زلف
 
+
 ### Words (wikilinks — these create the graph)
 - [[>zlft - brought near]]
 - [[zlfY - position]]

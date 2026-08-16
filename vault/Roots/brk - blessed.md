@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** blessed · **Root:** برك
 
+
 ### Words (wikilinks — these create the graph)
 - [[bArk - we blessed]]
 - [[mbArk - blessed]]

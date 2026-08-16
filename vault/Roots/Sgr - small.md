@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** small · **Root:** صغر
 
+
 ### Words (wikilinks — these create the graph)
 - [[SAgr - disgraced ones]]
 - [[Sgyr - small]]

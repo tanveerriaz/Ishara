@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** wretched · **Root:** بأس
 
+
 ### Words (wikilinks — these create the graph)
 - [[b>s - punishment]]
 - [[b>sA' - adversity]]

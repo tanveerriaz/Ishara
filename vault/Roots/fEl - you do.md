@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** you do · **Root:** فعل
 
+
 ### Words (wikilinks — these create the graph)
 - [[fAEl - doers]]
 - [[fEl - you do]]

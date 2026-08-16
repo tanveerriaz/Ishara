@@ -2,8 +2,8 @@
 type: word
 lemma: "فَرَّط"
 slug: "frT - we neglected"
-surah_count: 4
-ayah_count: 6
+surah_count: 3
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **we neglected** · Lemma **فَرَّط**
 
-### Surahs (4)
+### Surahs (3)
 - [[006 Al-Anam]]
 - [[012 Yusuf]]
-- [[018 Al-Kahf]]
 - [[039 Az-Zumar]]
 
 ## Verses (full text)
@@ -100,24 +99,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جب وہ اس سے ناامید ہوگئے تو الگ ہو کر صلاح کرنے لگے۔ سب سے بڑے نے کہا کیا تم نہیں جانتے کہ تمہارے والد نے تم سے خدا کا عہد لیا ہے اور اس سے پہلے بھی تم یوسف کے بارے میں قصور کر چکے ہو تو جب تک والد صاحب مجھے حکم نہ دیں میں تو اس جگہ سے ہلنے کا نہیں یا خدا میرے لیے کوئی اور تدبیر کرے۔ اور وہ سب سے بہتر فیصلہ کرنے والا ہے
 
 [Open on Quran.com](https://quran.com/12/80)
-
-#### 18:28 · [[018 Al-Kahf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَٱصْبِرْ نَفْسَكَ مَعَ ٱلَّذِينَ يَدْعُونَ رَبَّهُم بِٱلْغَدَوٰةِ وَٱلْعَشِىِّ يُرِيدُونَ وَجْهَهُۥ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ تُرِيدُ زِينَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَا تُطِعْ مَنْ أَغْفَلْنَا قَلْبَهُۥ عَن ذِكْرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ أَمْرُهُۥ فُرُطًا
-
-</div>
-
-**Word in this verse:** `فُرُطًۭا` — (in) excess
-
-**English (Sahih International):** And keep yourself patient [by being] with those who call upon their Lord in the morning and the evening, seeking His face [i.e., acceptance]. And let not your eyes pass beyond them, desiring adornments of the worldly life, and do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect.
-
-**English (Yusuf Ali):** And keep thy soul content with those who call on their Lord morning and evening, seeking His Face; and let not thine eyes pass beyond them, seeking the pomp and glitter of this Life; nor obey any whose heart We have permitted to neglect the remembrance of Us, one who follows his own desires, whose case has gone beyond all bounds.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ صبح و شام اپنے پروردگار کو پکارتے اور اس کی خوشنودی کے طالب ہیں۔ ان کے ساتھ صبر کرتے رہو۔ اور تمہاری نگاہیں ان میں (گزر کر اور طرف) نہ دوڑیں کہ تم آرائشِ زندگانی دنیا کے خواستگار ہوجاؤ۔ اور جس شخص کے دل کو ہم نے اپنی یاد سے غافل کردیا ہے اور وہ اپنی خواہش کی پیروی کرتا ہے اور اس کا کام حد سے بڑھ گیا ہے اس کا کہا نہ ماننا
-
-[Open on Quran.com](https://quran.com/18/28)
 
 #### 39:56 · [[039 Az-Zumar]]
 

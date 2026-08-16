@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hurt · **Root:** أذي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>*Y - hurt]]
 - [[>w*y - hurt]]

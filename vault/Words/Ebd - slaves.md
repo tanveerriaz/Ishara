@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "عَبَدَ"
+lemma: "عَبْد"
 slug: "Ebd - slaves"
-surah_count: 57
-ayah_count: 235
+surah_count: 48
+ayah_count: 126
 tags: [word, meaning]
 ---
 
@@ -17,10 +17,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[Ebd - worship]]
 
 ### Meaning
-**slaves** · Lemma **عَبَدَ**
+**slaves** · Lemma **عَبْد**
 
-### Surahs (57)
-- [[001 Al-Fatihah]]
+### Surahs (48)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -30,9 +29,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[008 Al-Anfal]]
 - [[009 At-Tawbah]]
 - [[010 Yunus]]
-- [[011 Hud]]
 - [[012 Yusuf]]
-- [[013 Ar-Rad]]
 - [[014 Ibrahim]]
 - [[015 Al-Hijr]]
 - [[016 An-Nahl]]
@@ -45,46 +42,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[023 Al-Muminun]]
 - [[024 An-Nur]]
 - [[025 Al-Furqan]]
+- [[026 Ash-Shuara]]
+- [[027 An-Naml]]
+- [[028 Al-Qasas]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 1:5 · [[001 Al-Fatihah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
-
-</div>
-
-**Word in this verse:** `نَعْبُدُ` — we worship
-
-**English (Sahih International):** It is You we worship and You we ask for help.
-
-**English (Yusuf Ali):** Thee do we worship, and Thine aid we seek.
-
-**Urdu (Fatah Muhammad Jalandhari):** (اے پروردگار) ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد مانگتے ہیں
-
-[Open on Quran.com](https://quran.com/1/5)
-
-#### 2:21 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلنَّاسُ ٱعْبُدُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُمْ وَٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
-
-</div>
-
-**Word in this verse:** `ٱعْبُدُوا۟` — worship
-
-**English (Sahih International):** O mankind, worship your Lord, who created you and those before you, that you may become righteous -
-
-**English (Yusuf Ali):** O ye people! Adore your Guardian-Lord, who created you and those who came before you, that ye may have the chance to learn righteousness;
-
-**Urdu (Fatah Muhammad Jalandhari):** لوگو! اپنے پروردگار کی عبات کرو جس نے تم کو اور تم سے پہلے لوگوں کو پیدا کیا تاکہ تم (اس کے عذاب سے) بچو
-
-[Open on Quran.com](https://quran.com/2/21)
 
 #### 2:23 · [[002 Al-Baqarah]]
 
@@ -104,24 +68,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/23)
 
-#### 2:83 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَإِذْ أَخَذْنَا مِيثَـٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ
-
-</div>
-
-**Word in this verse:** `تَعْبُدُونَ` — you will worship
-
-**English (Sahih International):** And [recall] when We took the covenant from the Children of Israel, [enjoining upon them], "Do not worship except Allāh; and to parents do good and to relatives, orphans, and the needy. And speak to people good [words] and establish prayer and give zakāh." Then you turned away, except a few of you, and you were refusing.
-
-**English (Yusuf Ali):** And remember We took a covenant from the Children of Israel (to this effect): Worship none but Allah; treat with kindness your parents and kindred, and orphans and those in need; speak fair to the people; be steadfast in prayer; and practise regular charity. Then did ye turn back, except a few among you, and ye backslide (even now).
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے بنی اسرائیل سے عہد لیا کہ خدا کے سوا کسی کی عبادت نہ کرنا اور ماں باپ اور رشتہ داروں اور یتیموں اور محتاجوں کے ساتھ بھلائی کرتے رہنا اور لوگوں سے اچھی باتیں کہنا، اور نماز پڑھتے اور زکوٰة دیتے رہنا، تو چند شخصوں کے سوا تم سب (اس عہد سے) منہ پھیر کر پھر بیٹھے
-
-[Open on Quran.com](https://quran.com/2/83)
-
 #### 2:90 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -139,42 +85,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جس چیز کے بدلے انہوں نے اپنے تئیں بیچ ڈالا، وہ بہت بری ہے، یعنی اس جلن سے کہ خدا اپنے بندوں میں جس پر چاہتا ہے، اپنی مہربانی سے نازل فرماتا ہے۔ خدا کی نازل کی ہوئی کتاب سے کفر کرنے لگے تو وہ (اس کے) غضب بالائے غضب میں مبتلا ہو گئے۔ اور کافروں کے لیے ذلیل کرنے والا عذاب ہے
 
 [Open on Quran.com](https://quran.com/2/90)
-
-#### 2:133 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَـٰهَكَ وَإِلَـٰهَ ءَابَآئِكَ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ إِلَـٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
-
-</div>
-
-**Word in this verse:** `تَعْبُدُونَ` — will you worship
-
-**English (Sahih International):** Or were you witnesses when death approached Jacob, when he said to his sons, "What will you worship after me?" They said, "We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac - one God. And we are Muslims [in submission] to Him."
-
-**English (Yusuf Ali):** Were ye witnesses when death appeared before Jacob? Behold, he said to his sons: "What will ye worship after me?" They said: "We shall worship Thy god and the god of thy fathers, of Abraham, Isma'il and Isaac,- the one (True) Allah: To Him we bow (in Islam)."
-
-**Urdu (Fatah Muhammad Jalandhari):** بھلا جس وقت یعقوب وفات پانے لگے تو تم اس وقت موجود تھے، جب انہوں نے اپنے بیٹوں سے پوچھا کہ میرے بعد تم کس کی عبادت کرو گے، تو انہوں نے کہا کہ آپ کے معبود اور آپ کے باپ دادا ابراہیم اور اسمٰعیل اور اسحاق کے معبود کی عبادت کریں گے جو معبود یکتا ہے اور ہم اُسی کے حکم بردار ہیں
-
-[Open on Quran.com](https://quran.com/2/133)
-
-#### 2:172 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ
-
-</div>
-
-**Word in this verse:** `تَعْبُدُونَ` — worship Him
-
-**English (Sahih International):** O you who have believed, eat from the good [i.e., lawful] things which We have provided for you and be grateful to Allāh if it is [indeed] Him that you worship.
-
-**English (Yusuf Ali):** O ye who believe! Eat of the good things that We have provided for you, and be grateful to Allah, if it is Him ye worship.
-
-**Urdu (Fatah Muhammad Jalandhari):** اے اہل ایمان جو پاکیزہ چیزیں ہم نے تم کو عطا فرمائیں ہیں ان کو کھاؤ اور اگر خدا ہی کے بندے ہو تو اس (کی نعمتوں) کا شکر بھی ادا کرو
-
-[Open on Quran.com](https://quran.com/2/172)
 
 #### 2:178 · [[002 Al-Baqarah]]
 
@@ -230,5 +140,95 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/207)
 
-_…and **225** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 2:221 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَـٰتِ حَتَّىٰ يُؤْمِنَّ ۚ وَلَأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ وَلَوْ أَعْجَبَتْكُمْ ۗ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ ۚ وَلَعَبْدٌ مُّؤْمِنٌ خَيْرٌ مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ ۗ أُو۟لَـٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ ۖ وَٱللَّهُ يَدْعُوٓا۟ إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ ۖ وَيُبَيِّنُ ءَايَـٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `وَلَعَبْدٌۭ` — and a bondman
+
+**English (Sahih International):** And do not marry polytheistic women until they believe. And a believing slave woman is better than a polytheist, even though she might please you. And do not marry polytheistic men [to your women] until they believe. And a believing slave is better than a polytheist, even though he might please you. Those invite [you] to the Fire, but Allāh invites to Paradise and to forgiveness, by His permission. And He makes clear His verses [i.e., ordinances] to the people that perhaps they may remember.
+
+**English (Yusuf Ali):** Do not marry unbelieving women (idolaters), until they believe: A slave woman who believes is better than an unbelieving woman, even though she allures you. Nor marry (your girls) to unbelievers until they believe: A man slave who believes is better than an unbeliever, even though he allures you. Unbelievers do (but) beckon you to the Fire. But Allah beckons by His Grace to the Garden (of bliss) and forgiveness, and makes His Signs clear to mankind: That they may celebrate His praise.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (مومنو) مشرک عورتوں سے جب تک کہ ایمان نہ لائیں نکاح نہ کرنا۔ کیونکہ مشرک عورت خواہ تم کو کیسی ہی بھلی لگے اس سے مومن لونڈی بہتر ہے۔ اور (اسی طرح) مشرک مرد جب تک ایمان نہ لائیں مومن عورتوں کو ان کو زوجیت میں نہ دینا کیونکہ مشرک (مرد) سے خواہ وہ تم کو کیسا ہی بھلا لگے مومن غلام بہتر ہے۔ یہ (مشرک لوگوں کو) دوزخ کی طرف بلاتے ہیں۔ اور خدا اپنی مہربانی سے بہشت اور بخشش کی طرف بلاتا ہے۔ اور اپنے حکم لوگوں سے کھول کھول کر بیان کرتا ہے تاکہ نصیحت حاصل کریں
+
+[Open on Quran.com](https://quran.com/2/221)
+
+#### 3:15 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ قُلْ أَؤُنَبِّئُكُم بِخَيْرٍ مِّن ذَٰلِكُمْ ۚ لِلَّذِينَ ٱتَّقَوْا۟ عِندَ رَبِّهِمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا وَأَزْوَٰجٌ مُّطَهَّرَةٌ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
+
+</div>
+
+**Word in this verse:** `بِٱلْعِبَادِ` — of (His) slaves
+
+**English (Sahih International):** Say, "Shall I inform you of [something] better than that? For those who fear Allāh will be gardens in the presence of their Lord beneath which rivers flow, wherein they abide eternally, and purified spouses and approval from Allāh. And Allāh is Seeing [i.e., aware] of [His] servants -
+
+**English (Yusuf Ali):** Say: Shall I give you glad tidings of things Far better than those? For the righteous are Gardens in nearness to their Lord, with rivers flowing beneath; therein is their eternal home; with companions pure (and holy); and the good pleasure of Allah. For in Allah's sight are (all) His servants,-
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر ان سے) کہو کہ بھلا میں تم کو ایسی چیز بتاؤں جو ان چیزوں سے کہیں اچھی ہو (سنو) جو لوگ پرہیزگار ہیں ان کے لیے خدا کے ہاں باغات (بہشت) ہیں جن کے نیچے نہریں بہہ رہی ہیں ان میں وہ ہمیشہ رہیں گے اور پاکیزہ عورتیں ہیں اور (سب سے بڑھ کر) خدا کی خوشنودی اور خدا (اپنے نیک) بندوں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/3/15)
+
+#### 3:20 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ ۗ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْأُمِّيِّـۧنَ ءَأَسْلَمْتُمْ ۚ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ ۖ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَـٰغُ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
+
+</div>
+
+**Word in this verse:** `بِٱلْعِبَادِ` — of [His] slaves
+
+**English (Sahih International):** So if they argue with you, say, "I have submitted myself to Allāh [in Islām], and [so have] those who follow me." And say to those who were given the Scripture and [to] the unlearned, "Have you submitted yourselves?" And if they submit [in Islām], they are rightly guided; but if they turn away - then upon you is only the [duty of] notification. And Allāh is Seeing of [His] servants.
+
+**English (Yusuf Ali):** So if they dispute with thee, say: "I have submitted My whole self to Allah and so have those who follow me." And say to the People of the Book and to those who are unlearned: "Do ye (also) submit yourselves?" If they do, they are in right guidance, but if they turn back, Thy duty is to convey the Message; and in Allah's sight are (all) His servants.
+
+**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر اگر یہ لوگ تم سے جھگڑنے لگیں تو کہنا کہ میں اور میرے پیرو تو خدا کے فرمانبردار ہو چکے اور اہل کتاب اور ان پڑھ لوگوں سے کہو کہ کیا تم بھی (خدا کے فرمانبردار بنتے ہو) اور اسلام لاتے ہو؟ اگر یہ لوگ اسلام لے آئیں تو بے شک ہدایت پالیں اور اگر (تمہارا کہا) نہ مانیں تو تمہارا کام صرف خدا کا پیغام پہنچا دینا ہے اور خدا (اپنے) بندوں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/3/20)
+
+#### 3:30 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوٓءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًا ۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ ۗ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ
+
+</div>
+
+**Word in this verse:** `بِٱلْعِبَادِ` — to (His) [the] slaves
+
+**English (Sahih International):** The Day every soul will find what it has done of good present [before it] and what it has done of evil, it will wish that between itself and that [evil] was a great distance. And Allāh warns you of Himself, and Allāh is Kind to [His] servants."
+
+**English (Yusuf Ali):** "On the Day when every soul will be confronted with all the good it has done, and all the evil it has done, it will wish there were a great distance between it and its evil. But Allah cautions you (To remember) Himself. And Allah is full of kindness to those that serve Him."
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن ہر شخص اپنے اعمال کی نیکی کو موجود پالے گا اور ان کی برائی کو بھی (دیکھ لے گا) تو آرزو کرے گا کہ اے کاش اس میں اور اس برائی میں دور کی مسافت ہو جاتی اور خدا تم کو اپنے (غضب) سے ڈراتا ہے اور خدا اپنے بندوں پر نہایت مہربان ہے
+
+[Open on Quran.com](https://quran.com/3/30)
+
+#### 3:79 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+مَا كَانَ لِبَشَرٍ أَن يُؤْتِيَهُ ٱللَّهُ ٱلْكِتَـٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُوا۟ عِبَادًا لِّى مِن دُونِ ٱللَّهِ وَلَـٰكِن كُونُوا۟ رَبَّـٰنِيِّـۧنَ بِمَا كُنتُمْ تُعَلِّمُونَ ٱلْكِتَـٰبَ وَبِمَا كُنتُمْ تَدْرُسُونَ
+
+</div>
+
+**Word in this verse:** `عِبَادًۭا` — worshippers
+
+**English (Sahih International):** It is not for a human [prophet] that Allāh should give him the Scripture and authority and prophethood and then he would say to the people, "Be servants to me rather than Allāh," but [instead, he would say], "Be pious scholars of the Lord because of what you have taught of the Scripture and because of what you have studied."
+
+**English (Yusuf Ali):** It is not (possible) that a man, to whom is given the Book, and Wisdom, and the prophetic office, should say to people: "Be ye my worshippers rather than Allah's": on the contrary (He would say) "Be ye worshippers of Him Who is truly the Cherisher of all: For ye have taught the Book and ye have studied it earnestly."
+
+**Urdu (Fatah Muhammad Jalandhari):** کسی آدمی کو شایاں نہیں کہ خدا تو اسے کتاب اور حکومت اور نبوت عطا فرمائے اور وہ لوگوں سے کہے کہ خدا کو چھوڑ کر میرے بندے ہو جاؤ بلکہ (اس کو یہ کہنا سزاوار ہے کہ اے اہلِ کتاب) تم (علمائے) ربانی ہو جاؤ کیونکہ تم کتابِ (خدا) پڑھتے پڑھاتے رہتے ہو
+
+[Open on Quran.com](https://quran.com/3/79)
+
+_…and **116** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

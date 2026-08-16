@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** scriptures · **Root:** زبر
 
+
 ### Words (wikilinks — these create the graph)
 - [[zbr - scriptures]]
 - [[zbwr - scripture]]

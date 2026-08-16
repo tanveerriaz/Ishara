@@ -2,8 +2,8 @@
 type: word
 lemma: "فُلْك"
 slug: "flk - ships"
-surah_count: 20
-ayah_count: 25
+surah_count: 19
+ayah_count: 23
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **ships** · Lemma **فُلْك**
 
-### Surahs (20)
+### Surahs (19)
 - [[002 Al-Baqarah]]
 - [[007 Al-Araf]]
 - [[010 Yunus]]
@@ -27,7 +27,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[014 Ibrahim]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
-- [[021 Al-Anbya]]
 - [[022 Al-Hajj]]
 - [[023 Al-Muminun]]
 - [[026 Ash-Shuara]]
@@ -207,23 +206,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/17/66)
 
-#### 21:33 · [[021 Al-Anbya]]
+#### 22:65 · [[022 Al-Hajj]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ ۖ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ
+أَلَمْ تَرَ أَنَّ ٱللَّهَ سَخَّرَ لَكُم مَّا فِى ٱلْأَرْضِ وَٱلْفُلْكَ تَجْرِى فِى ٱلْبَحْرِ بِأَمْرِهِۦ وَيُمْسِكُ ٱلسَّمَآءَ أَن تَقَعَ عَلَى ٱلْأَرْضِ إِلَّا بِإِذْنِهِۦٓ ۗ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ
 
 </div>
 
-**Word in this verse:** `فَلَكٍۢ` — an orbit
+**Word in this verse:** `وَٱلْفُلْكَ` — and the ships
 
-**English (Sahih International):** And it is He who created the night and the day and the sun and the moon; all [heavenly bodies] in an orbit are swimming.
+**English (Sahih International):** Do you not see that Allāh has subjected to you whatever is on the earth and the ships which run through the sea by His command? And He restrains the sky from falling upon the earth, unless by His permission. Indeed Allāh, to the people, is Kind and Merciful.
 
-**English (Yusuf Ali):** It is He Who created the Night and the Day, and the sun and the moon: all (the celestial bodies) swim along, each in its rounded course.
+**English (Yusuf Ali):** Seest thou not that Allah has made subject to you (men) all that is on the earth, and the ships that sail through the sea by His Command? He withholds the sky (rain) from failing on the earth except by His leave: for Allah is Most Kind and Most Merciful to man.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے رات اور دن اور سورج اور چاند کو بنایا۔ (یہ) سب (یعنی سورج اور چاند اور ستارے) آسمان میں (اس طرح چلتے ہیں گویا) تیر رہے ہیں
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم نہیں دیکھتے کہ جتنی چیزیں زمین میں ہیں (سب) خدا نے تمہارے زیرفرمان کر رکھی ہیں اور کشتیاں (بھی) جو اسی کے حکم سے دریا میں چلتی ہیں۔ اور وہ آسمان کو تھامے رہتا ہے کہ زمین پر (نہ) گڑ پڑے مگر اس کے حکم سے۔ بےشک خدا لوگوں پر نہایت شفقت کرنے والا مہربان ہے
 
-[Open on Quran.com](https://quran.com/21/33)
+[Open on Quran.com](https://quran.com/22/65)
 
-_…and **15** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **13** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

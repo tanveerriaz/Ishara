@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** stay here · **Root:** مكث
 
+
 ### Words (wikilinks — these create the graph)
 - [[mkv - stay here]]
 

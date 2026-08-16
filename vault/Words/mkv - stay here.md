@@ -2,8 +2,8 @@
 type: word
 lemma: "مَكَثَ"
 slug: "mkv - stay here"
-surah_count: 5
-ayah_count: 5
+surah_count: 4
+ayah_count: 4
 tags: [word, meaning]
 ---
 
@@ -19,9 +19,8 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **stay here** · Lemma **مَكَثَ**
 
-### Surahs (5)
+### Surahs (4)
 - [[013 Ar-Rad]]
-- [[017 Al-Isra]]
 - [[020 Taha]]
 - [[027 An-Naml]]
 - [[028 Al-Qasas]]
@@ -47,24 +46,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اسی نے آسمان سے مینہ برسایا پھر اس سے اپنے اپنے اندازے کے مطابق نالے بہہ نکلے پھر نالے پر پھولا ہوا جھاگ آگیا۔ اور جس چیز کو زیور یا کوئی اور سامان بنانے کے لیے آگ میں تپاتے ہیں اس میں بھی ایسا ہی جھاگ ہوتا ہے۔ اس طرح خدا حق اور باطل کی مثال بیان فرماتا ہے۔ سو جھاگ تو سوکھ کر زائل ہو جاتا ہے۔ اور (پانی) جو لوگوں کو فائدہ پہنچاتا ہے وہ زمین میں ٹھہرا رہتا ہے۔ اس طرح خدا (صحیح اور غلط کی) مثالیں بیان فرماتا ہے (تاکہ تم سمجھو)
 
 [Open on Quran.com](https://quran.com/13/17)
-
-#### 17:106 · [[017 Al-Isra]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَقُرْءَانًا فَرَقْنَـٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَـٰهُ تَنزِيلًا
-
-</div>
-
-**Word in this verse:** `مُكْثٍۢ` — intervals
-
-**English (Sahih International):** And [it is] a Qur’ān which We have separated [by intervals] that you might recite it to the people over a prolonged period. And We have sent it down progressively.
-
-**English (Yusuf Ali):** (It is) a Qur'an which We have divided (into parts from time to time), in order that thou mightest recite it to men at intervals: We have revealed it by stages.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن کو جزو جزو کرکے نازل کیا ہے تاکہ تم لوگوں کو ٹھیر ٹھیر کر پڑھ کر سناؤ اور ہم نے اس کو آہستہ آہستہ اُتارا ہے
-
-[Open on Quran.com](https://quran.com/17/106)
 
 #### 20:10 · [[020 Taha]]
 

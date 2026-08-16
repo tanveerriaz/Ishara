@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** as captives · **Root:** أسر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>syr - as captives]]
 

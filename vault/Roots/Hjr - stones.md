@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** stones · **Root:** حجر
 
+
 ### Words (wikilinks — these create the graph)
 - [[HjArp - stones]]
+- [[Hjr - partition]]
 - [[Hjr - stone]]
 
 ### Surahs where this root appears

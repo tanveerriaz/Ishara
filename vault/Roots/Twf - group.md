@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** group · **Root:** طوف
 
+
 ### Words (wikilinks — these create the graph)
 - [[TAf - will circulated]]
 - [[TA}f - circumambulate]]

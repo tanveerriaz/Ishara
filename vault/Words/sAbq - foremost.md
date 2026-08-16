@@ -2,8 +2,8 @@
 type: word
 lemma: "سابِق"
 slug: "sAbq - foremost"
-surah_count: 7
-ayah_count: 7
+surah_count: 6
+ayah_count: 6
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **foremost** · Lemma **سابِق**
 
-### Surahs (7)
+### Surahs (6)
 - [[009 At-Tawbah]]
 - [[023 Al-Muminun]]
 - [[029 Al-Ankabut]]
 - [[035 Fatir]]
 - [[036 Ya-Sin]]
 - [[056 Al-Waqiah]]
-- [[057 Al-Hadid]]
 
 ## Verses (full text)
 
@@ -139,22 +138,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور جو آگے بڑھنے والے ہیں (ان کا کیا کہنا) وہ آگے ہی بڑھنے والے ہیں
 
 [Open on Quran.com](https://quran.com/56/10)
-
-#### 57:21 · [[057 Al-Hadid]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-سَابِقُوٓا۟ إِلَىٰ مَغْفِرَةٍ مِّن رَّبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ ٱلسَّمَآءِ وَٱلْأَرْضِ أُعِدَّتْ لِلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ ۚ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
-
-</div>
-
-**Word in this verse:** `سَابِقُوٓا۟` — Race
-
-**English (Sahih International):** Race [i.e., compete] toward forgiveness from your Lord and a Garden whose width is like the width of the heavens and earth, prepared for those who believed in Allāh and His messengers. That is the bounty of Allāh which He gives to whom He wills, and Allāh is the possessor of great bounty.
-
-**English (Yusuf Ali):** Be ye foremost (in seeking) Forgiveness from your Lord, and a Garden (of Bliss), the width whereof is as the width of heaven and earth, prepared for those who believe in Allah and His messengers: that is the Grace of Allah, which He bestows on whom he pleases: and Allah is the Lord of Grace abounding.
-
-**Urdu (Fatah Muhammad Jalandhari):** (بندو) اپنے پروردگار کی بخشش کی طرف اور جنت کی( طرف) جس کا عرض آسمان اور زمین کے عرض کا سا ہے۔ اور جو ان لوگوں کے لئے تیار کی گئی ہے جو خدا پر اور اس کے پیغمبروں پر ایمان لائے ہیں لپکو۔ یہ خدا کا فضل ہے جسے چاہے عطا فرمائے۔ اور خدا بڑے فضل کا مالک ہے
-
-[Open on Quran.com](https://quran.com/57/21)
 

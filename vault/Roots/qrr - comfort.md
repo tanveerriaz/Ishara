@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** comfort · **Root:** قرر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>qrr - you ratified]]
 - [[mstqr - dwelling place]]
+- [[mstqr - placed]]
 - [[qrAr - settlement]]
 - [[qrp - comfort]]
 - [[tqr - may cooled]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** dawn · **Root:** فجر
 
+
 ### Words (wikilinks — these create the graph)
 - [[fjAr - wicked]]
 - [[fjr - dawn]]

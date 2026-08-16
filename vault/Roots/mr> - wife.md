@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** wife · **Root:** مرأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[Amr>t - wife]]
 - [[Amr} - person]]

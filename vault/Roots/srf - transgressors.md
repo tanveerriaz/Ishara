@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** transgressors · **Root:** سرف
 
+
 ### Words (wikilinks — these create the graph)
 - [[>srf - extravagant]]
 - [[msrf - transgressors]]

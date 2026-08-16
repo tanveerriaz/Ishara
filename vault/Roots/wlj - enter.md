@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** enter · **Root:** ولج
 
+
 ### Words (wikilinks — these create the graph)
 - [[ylj - penetrates]]
 - [[ywlj - causes enter]]

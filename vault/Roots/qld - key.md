@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** key · **Root:** قلد
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

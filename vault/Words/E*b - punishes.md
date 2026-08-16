@@ -2,8 +2,8 @@
 type: word
 lemma: "عَذَّبَ"
 slug: "E*b - punishes"
-surah_count: 20
-ayah_count: 40
+surah_count: 18
+ayah_count: 38
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **punishes** · Lemma **عَذَّبَ**
 
-### Surahs (20)
+### Surahs (18)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -29,11 +29,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
 - [[020 Taha]]
-- [[025 Al-Furqan]]
 - [[027 An-Naml]]
 - [[029 Al-Ankabut]]
 - [[033 Al-Ahzab]]
-- [[035 Fatir]]
 - [[048 Al-Fath]]
 - [[058 Al-Mujadila]]
 - [[059 Al-Hashr]]
@@ -225,5 +223,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/8/33)
 
-_…and **30** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **28** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

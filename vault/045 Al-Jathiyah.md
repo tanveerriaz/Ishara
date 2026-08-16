@@ -14,38 +14,38 @@ The Crouching · 37 ayahs
 
 ## Words in this surah (graph)
 
-- [[ryb - doubt]] — `رَيْب` · doubt
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[mstkbr - arrogant]] — `مُسْتَكْبِر` · arrogant
-- [[Axtlf - differ]] — `اخْتَلَفَ` · differ
-- [[swA' - it same]] — `سَواء` · it same
-- [[hzw - ridicule]] — `هُزُو` · ridicule
-- [[AtY - give]] — `آتَى` · give
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[mhyn - humiliating]] — `مُهِين` · humiliating
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
-- [[mAt - died]] — `ماتَ` · died
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[>sA' - does evil]] — `أَساءَ` · does evil
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[allah - God]] — `الله` · God
-- [[>kvr - them]] — `أَكْثَر` · them
+- [[Zn - thought]] — `ظَنَّ` · thought
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[xsr - lost]] — `خَسِرَ` · lost
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[dEA - call]] — `دَعا` · call
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[qAm - stand]] — `قامَ` · stand
+- [[ytfkr - reflect]] — `يَتَفَكَّرُ` · reflect
 - [[tdry - i know]] — `تَدْرِي` · i know
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[$kr - grateful]] — `شَكَرَ` · grateful
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[Atx* - take]] — `اتَّخَذَ` · take
+- [[bgy - rebellion]] — `بَغْي` · rebellion
+- [[lyl - night]] — `لَيْل` · night
+- [[tlY - recited]] — `تَلَى` · recited
+- [[byn - between them]] — `بَيْن` · between them
+- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[bEd - after]] — `بَعْد` · after
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[>rD - earth]] — `أَرْض` · earth
-- [[bv - dispersing]] — `بَثَّ` · dispersing
+- [[wrA' - behind]] — `وَراء` · behind
+- [[>Dl - mislead]] — `أَضَلَّ` · mislead
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[wEd - promise]] — `وَعْد` · promise
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[r>Y - you see]] — `رَأَى` · you see
 
 ## Roots
 
 - [[$kr - gratitude]]
 - [[$rE - enter water drink]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>bw - forefathers]]
 - [[>fk - lie]]
 - [[>lh - god]]

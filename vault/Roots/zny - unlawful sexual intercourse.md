@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** unlawful sexual intercourse · **Root:** زني
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

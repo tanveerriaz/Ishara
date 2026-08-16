@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** devoutly obedient · **Root:** قنت
 
+
 ### Words (wikilinks — these create the graph)
 - [[qAnt - devoutly obedient]]
 - [[qAntp - obedient]]

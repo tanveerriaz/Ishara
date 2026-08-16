@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** hereafter · **Root:** أخر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>xr - we delay]]
 - [[Axr - hereafter]]
+- [[Axr - other]]
 - [[t>xr - delays]]
 - [[yst>xr - seek delay]]
 

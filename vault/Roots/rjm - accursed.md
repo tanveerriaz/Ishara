@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** accursed · **Root:** رجم
 
+
 ### Words (wikilinks — these create the graph)
 - [[rjm - surely]]
 - [[rjym - accursed]]

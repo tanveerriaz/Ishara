@@ -11,8 +11,11 @@ tags: [root, meaning]
 
 **Sense:** ten · **Root:** عشر
 
+
 ### Words (wikilinks — these create the graph)
 - [[E$r - ten]]
+- [[E$r - ten 2]]
+- [[E$rp - ten days]]
 - [[E$rp - twelve]]
 - [[E$yrt - kindred]]
 

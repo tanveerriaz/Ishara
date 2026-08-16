@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** confine · **Root:** ثبر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

@@ -1,0 +1,103 @@
+---
+type: word
+lemma: "قِبَل"
+slug: "qbl - towards"
+surah_count: 4
+ayah_count: 4
+tags: [word, meaning]
+---
+
+# qbl - towards
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[qbl - before]]
+
+### Meaning
+**towards** · Lemma **قِبَل**
+
+### Surahs (4)
+- [[002 Al-Baqarah]]
+- [[027 An-Naml]]
+- [[057 Al-Hadid]]
+- [[070 Al-Maarij]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
+
+#### 2:177 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ
+
+</div>
+
+**Word in this verse:** `قِبَلَ` — towards
+
+**English (Sahih International):** Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.
+
+**English (Yusuf Ali):** It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.
+
+**Urdu (Fatah Muhammad Jalandhari):** نیکی یہی نہیں کہ تم مشرق یا مغرب کو (قبلہ سمجھ کر ان) کی طرف منہ کرلو بلکہ نیکی یہ ہے کہ لوگ خدا پر اور روز آخرت پر اور فرشتوں پر اور (خدا کی) کتاب پر اور پیغمبروں پر ایمان لائیں۔ اور مال باوجود عزیز رکھنے کے رشتہ داروں اور یتیموں اور محتاجوں اور مسافروں اور مانگنے والوں کو دیں اور گردنوں (کے چھڑانے) میں (خرچ کریں) اور نماز پڑھیں اور زکوٰة دیں۔ اور جب عہد کرلیں تو اس کو پورا کریں۔ اور سختی اور تکلیف میں اور (معرکہ) کارزار کے وقت ثابت قدم رہیں۔ یہی لوگ ہیں جو (ایمان میں) سچے ہیں اور یہی ہیں جو (خدا سے) ڈرنے والے ہیں
+
+[Open on Quran.com](https://quran.com/2/177)
+
+#### 27:37 · [[027 An-Naml]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱرْجِعْ إِلَيْهِمْ فَلَنَأْتِيَنَّهُم بِجُنُودٍ لَّا قِبَلَ لَهُم بِهَا وَلَنُخْرِجَنَّهُم مِّنْهَآ أَذِلَّةً وَهُمْ صَـٰغِرُونَ
+
+</div>
+
+**Word in this verse:** `قِبَلَ` — (is) resistance
+
+**English (Sahih International):** Return to them, for we will surely come to them with soldiers that they will be powerless to encounter, and we will surely expel them therefrom in humiliation, and they will be debased."
+
+**English (Yusuf Ali):** "Go back to them, and be sure we shall come to them with such hosts as they will never be able to meet: We shall expel them from there in disgrace, and they will feel humbled (indeed)."
+
+**Urdu (Fatah Muhammad Jalandhari):** ان کے پاس واپس جاؤ ہم ان پر ایسے لشکر سے حملہ کریں گے جس کے مقابلے کی ان میں طاقت نہ ہوگی اور ان کو وہاں سے بےعزت کرکے نکال دیں گے اور وہ ذلیل ہوں گے
+
+[Open on Quran.com](https://quran.com/27/37)
+
+#### 57:13 · [[057 Al-Hadid]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَوْمَ يَقُولُ ٱلْمُنَـٰفِقُونَ وَٱلْمُنَـٰفِقَـٰتُ لِلَّذِينَ ءَامَنُوا۟ ٱنظُرُونَا نَقْتَبِسْ مِن نُّورِكُمْ قِيلَ ٱرْجِعُوا۟ وَرَآءَكُمْ فَٱلْتَمِسُوا۟ نُورًا فَضُرِبَ بَيْنَهُم بِسُورٍ لَّهُۥ بَابٌۢ بَاطِنُهُۥ فِيهِ ٱلرَّحْمَةُ وَظَـٰهِرُهُۥ مِن قِبَلِهِ ٱلْعَذَابُ
+
+</div>
+
+**Word in this verse:** `قِبَلِهِ` — facing towards [it]
+
+**English (Sahih International):** On the [same] Day the hypocrite men and hypocrite women will say to those who believed, "Wait for us that we may acquire some of your light." It will be said, "Go back behind you and seek light." And a wall will be placed between them with a door, its interior containing mercy, but on the outside of it is torment.
+
+**English (Yusuf Ali):** One Day will the Hypocrites- men and women - say to the Believers: "Wait for us! Let us borrow (a Light) from your Light!" It will be said: "Turn ye back to your rear! then seek a Light (where ye can)!" So a wall will be put up betwixt them, with a gate therein. Within it will be Mercy throughout, and without it, all alongside, will be (Wrath and) Punishment!
+
+**Urdu (Fatah Muhammad Jalandhari):** اُس دن منافق مرد اور منافق عورتیں مومنوں سے کہیں گے کہ ہماری طرف سے (شفقت) کیجیئے کہ ہم بھی تمہارے نور سے روشنی حاصل کریں۔ تو ان سے کہا جائے گا کہ پیچھے کو لوٹ جاؤ اور (وہاں) نور تلاش کرو۔ پھر ان کے بیچ میں ایک دیوار کھڑی کر دی جائے گی۔ جس میں ایک دروازہ ہوگا جو اس کی جانب اندرونی ہے اس میں تو رحمت ہے اور جو جانب بیرونی ہے اس طرف عذاب (واذیت)
+
+[Open on Quran.com](https://quran.com/57/13)
+
+#### 70:36 · [[070 Al-Maarij]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ
+
+</div>
+
+**Word in this verse:** `قِبَلَكَ` — before you
+
+**English (Sahih International):** So what is [the matter] with those who disbelieve, hastening [from] before you, [O Muḥammad],
+
+**English (Yusuf Ali):** Now what is the matter with the Unbelievers that they rush madly before thee-
+
+**Urdu (Fatah Muhammad Jalandhari):** تو ان کافروں کو کیا ہوا ہے کہ تمہاری طرف دوڑے چلے آتے ہیں
+
+[Open on Quran.com](https://quran.com/70/36)
+

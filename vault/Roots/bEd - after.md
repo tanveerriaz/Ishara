@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** after · **Root:** بعد
 
+
 ### Words (wikilinks — these create the graph)
 - [[bEd - after]]
+- [[bEd - away]]
 - [[bEyd - far]]
 
 ### Surahs where this root appears

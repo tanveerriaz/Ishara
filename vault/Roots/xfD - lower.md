@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** lower · **Root:** خفض
 
+
 ### Words (wikilinks — these create the graph)
 - [[AxfD - lower]]
 

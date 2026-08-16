@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** bedouins · **Root:** عرب
 
+
 ### Words (wikilinks — these create the graph)
 - [[>ErAb - bedouins]]
 - [[Erby - arabic]]

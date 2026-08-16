@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fuel · **Root:** وقد
 
+
 ### Words (wikilinks — these create the graph)
 - [[>wqd - they kindled]]
 - [[wqwd - fuel]]

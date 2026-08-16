@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** mount · **Root:** طور
 
+
 ### Words (wikilinks — these create the graph)
 - [[Twr - mount]]
 

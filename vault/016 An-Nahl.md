@@ -14,31 +14,31 @@ The Bee · 128 ayahs
 
 ## Words in this surah (graph)
 
-- [[Zl - shade]] — `ظِلّ` · shade
-- [[lsAn - tongues]] — `لِسان` · tongues
-- [[bTn - bellies]] — `بَطْن` · bellies
 - [[jrm - doubt]] — `جَرَم` · doubt
-- [[dm - blood]] — `دَم` · blood
-- [[nxyl - date-palms]] — `نَخِيل` · date-palms
-- [[nqDt - break]] — `نَقَضَتْ` · break
-- [[r'wf - full kindness]] — `رَءُوف` · full kindness
-- [[sxr - subjected]] — `سَخِرَ` · subjected
+- [[bTn - bellies]] — `بَطْن` · bellies
+- [[lsAn - tongues]] — `لِسان` · tongues
 - [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
-- [[lHm - flesh]] — `لَحْم` · flesh
-- [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[slm - peace]] — `سِلْم` · peace
-- [[ytfkr - reflect]] — `يَتَفَكَّرُ` · reflect
-- [[Hnyf - upright]] — `حَنِيف` · upright
-- [[HlAl - lawful]] — `حَلال` · lawful
+- [[$rAb - drink]] — `شَراب` · drink
+- [[$jr - trees]] — `شَجَر` · trees
 - [[tEAlY - exalted he]] — `تَعالَى` · exalted he
-- [[$jr - trees]] — `شَجَرَ` · trees
+- [[dxl - as deception]] — `دَخَل` · as deception
 - [[njm - stars]] — `نَجْم` · stars
 - [[Enb - grapes]] — `عِنَب` · grapes
-- [[mstkbr - arrogant]] — `مُسْتَكْبِر` · arrogant
-- [[>nvY - female]] — `أُنثَى` · female
-- [[ySf - they attribute]] — `يَصِفُ` · they attribute
+- [[>sr - they conceal]] — `أَسَرَّ` · they conceal
+- [[r'wf - full kindness]] — `رَءُوف` · full kindness
 - [[mxtlf - various]] — `مُخْتَلِف` · various
-- [[dAbp - moving creature]] — `دابَّة` · moving creature
+- [[dm - blood]] — `دَم` · blood
+- [[mstkbr - arrogant]] — `مُسْتَكْبِر` · arrogant
+- [[Hnyf - upright]] — `حَنِيف` · upright
+- [[Edl - justice]] — `عَدْل` · justice
+- [[HlAl - lawful]] — `حَلال` · lawful
+- [[b$rY - glad tidings]] — `بُشْرَى` · glad tidings
+- [[>Eln - they declare]] — `أَعْلَن` · they declare
+- [[slm - peace]] — `سَلَم` · peace
+- [[Hsn - good]] — `حَسَن` · good
+- [[nxyl - date-palms]] — `نَخِيل` · date-palms
+- [[rwH - spirit]] — `رُوح` · spirit
+- [[qdr - restricts]] — `قَدَرَ` · restricts
 
 ## Roots
 
@@ -57,7 +57,7 @@ The Bee · 128 ayahs
 - [[$rk - polytheists]]
 - [[$ry - exchange]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[*r> - multiplied you]]
 - [[*wq - taste]]

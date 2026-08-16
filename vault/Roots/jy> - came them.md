@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** came them · **Root:** جيأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[jA' - came them]]
 

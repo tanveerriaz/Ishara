@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** humbled · **Root:** خشع
 
+
 ### Words (wikilinks — these create the graph)
 - [[xA$E - humbled]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** embark · **Root:** ركب
 
+
 ### Words (wikilinks — these create the graph)
 - [[rkb - embark]]
 

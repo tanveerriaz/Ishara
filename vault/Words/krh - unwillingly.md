@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "كُرْه"
+lemma: "كَرْه"
 slug: "krh - unwillingly"
-surah_count: 14
-ayah_count: 22
+surah_count: 5
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -14,48 +14,21 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[krh - unwillingly]]
+- [[krh - dislike it]]
 
 ### Meaning
-**unwillingly** · Lemma **كُرْه**
+**unwillingly** · Lemma **كَرْه**
 
-### Surahs (14)
-- [[002 Al-Baqarah]]
+### Surahs (5)
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
-- [[008 Al-Anfal]]
 - [[009 At-Tawbah]]
-- [[010 Yunus]]
 - [[013 Ar-Rad]]
-- [[016 An-Nahl]]
-- [[040 Ghafir]]
 - [[041 Fussilat]]
-- [[046 Al-Ahqaf]]
-- [[047 Muhammad]]
-- [[049 Al-Hujurat]]
-- [[061 As-Saf]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:216 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًٔا وَهُوَ شَرٌّ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
-
-</div>
-
-**Word in this verse:** `كُرْهٌۭ` — (is) hateful
-
-**English (Sahih International):** Battle has been enjoined upon you while it is hateful to you. But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allāh knows, while you know not.
-
-**English (Yusuf Ali):** Fighting is prescribed for you, and ye dislike it. But it is possible that ye dislike a thing which is good for you, and that ye love a thing which is bad for you. But Allah knoweth, and ye know not.
-
-**Urdu (Fatah Muhammad Jalandhari):** (مسلمانو) تم پر (خدا کے رستے میں) لڑنا فرض کردیا گیا ہے وہ تمہیں ناگوار تو ہوگا مگر عجب نہیں کہ ایک چیز تم کو بری لگے اور وہ تمہارے حق میں بھلی ہو اور عجب نہیں کہ ایک چیز تم کو بھلی لگے اور وہ تمہارے لئے مضر ہو۔ اور ان باتوں کو) خدا ہی بہتر جانتا ہے اور تم نہیں جانتے
-
-[Open on Quran.com](https://quran.com/2/216)
 
 #### 3:83 · [[003 Ali Imran]]
 
@@ -93,78 +66,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/19)
 
-#### 8:8 · [[008 Al-Anfal]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-لِيُحِقَّ ٱلْحَقَّ وَيُبْطِلَ ٱلْبَـٰطِلَ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ
-
-</div>
-
-**Word in this verse:** `كَرِهَ` — disliked (it)
-
-**English (Sahih International):** That He should establish the truth and abolish falsehood, even if the criminals disliked it.
-
-**English (Yusuf Ali):** That He might justify Truth and prove Falsehood false, distasteful though it be to those in guilt.
-
-**Urdu (Fatah Muhammad Jalandhari):** تاکہ سچ کو سچ اور جھوٹ کو جھوٹ کردے۔ گو مشرک ناخوش ہی ہوں
-
-[Open on Quran.com](https://quran.com/8/8)
-
-#### 9:32 · [[009 At-Tawbah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يُرِيدُونَ أَن يُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَيَأْبَى ٱللَّهُ إِلَّآ أَن يُتِمَّ نُورَهُۥ وَلَوْ كَرِهَ ٱلْكَـٰفِرُونَ
-
-</div>
-
-**Word in this verse:** `كَرِهَ` — the disbelievers dislike (it)
-
-**English (Sahih International):** They want to extinguish the light of Allāh with their mouths, but Allāh refuses except to perfect His light, although the disbelievers dislike it.
-
-**English (Yusuf Ali):** Fain would they extinguish Allah's light with their mouths, but Allah will not allow but that His light should be perfected, even though the Unbelievers may detest (it).
-
-**Urdu (Fatah Muhammad Jalandhari):** یہ چاہتے ہیں کہ خدا کے نور کو اپنے منہ سے (پھونک مار کر) بجھا دیں اور خدا اپنے نور کو پورا کئے بغیر رہنے کا نہیں۔ اگرچہ کافروں کو برا ہی لگے
-
-[Open on Quran.com](https://quran.com/9/32)
-
-#### 9:33 · [[009 At-Tawbah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ
-
-</div>
-
-**Word in this verse:** `كَرِهَ` — dislike (it)
-
-**English (Sahih International):** It is He who has sent His Messenger with guidance and the religion of truth to manifest it over all religion, although they who associate others with Allāh dislike it.
-
-**English (Yusuf Ali):** It is He Who hath sent His Messenger with guidance and the Religion of Truth, to proclaim it over all religion, even though the Pagans may detest (it).
-
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے اپنے پیغمبر کو ہدایت اور دین حق دے کر بھیجا تاکہ اس (دین) کو (دنیا کے) تمام دینوں پر غالب کرے۔ اگرچہ کافر ناخوش ہی ہوں
-
-[Open on Quran.com](https://quran.com/9/33)
-
-#### 9:46 · [[009 At-Tawbah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً وَلَـٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَـٰعِدِينَ
-
-</div>
-
-**Word in this verse:** `كَرِهَ` — Allah disliked
-
-**English (Sahih International):** And if they had intended to go forth, they would have prepared for it [some] preparation. But Allāh disliked their being sent, so He kept them back, and they were told, "Remain [behind] with those who remain."
-
-**English (Yusuf Ali):** If they had intended to come out, they would certainly have made some preparation therefor; but Allah was averse to their being sent forth; so He made them lag behind, and they were told, "Sit ye among those who sit (inactive)."
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر وہ نکلنے کا ارادہ کرتے ہیں تو اس کے لیے سامان تیار کرتے لیکن خدا نے ان کا اُٹھنا (اور نکلنا) پسند نہ کیا تو ان کو ہلنے جلنے ہی نہ دیا اور (ان سے) کہہ دیا گیا کہ جہاں (معذور) بیٹھے ہیں تم بھی ان کے ساتھ بیٹھے رہو
-
-[Open on Quran.com](https://quran.com/9/46)
-
 #### 9:53 · [[009 At-Tawbah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -183,41 +84,39 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/9/53)
 
-#### 9:81 · [[009 At-Tawbah]]
+#### 13:15 · [[013 Ar-Rad]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَـٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَـٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّا ۚ لَّوْ كَانُوا۟ يَفْقَهُونَ
+وَلِلَّهِ يَسْجُدُ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ طَوْعًا وَكَرْهًا وَظِلَـٰلُهُم بِٱلْغُدُوِّ وَٱلْـَٔاصَالِ ۩
 
 </div>
 
-**Word in this verse:** `وَكَرِهُوٓا۟` — and they disliked
+**Word in this verse:** `وَكَرْهًۭا` — or unwillingly
 
-**English (Sahih International):** Those who remained behind rejoiced in their staying [at home] after [the departure of] the Messenger of Allāh and disliked to strive with their wealth and their lives in the cause of Allāh and said, "Do not go forth in the heat." Say, "The fire of Hell is more intense in heat" - if they would but understand.
+**English (Sahih International):** And to Allāh prostrates whoever is within the heavens and the earth, willingly or by compulsion, and their shadows [as well] in the mornings and the afternoons.
 
-**English (Yusuf Ali):** Those who were left behind (in the Tabuk expedition) rejoiced in their inaction behind the back of the Messenger of Allah: they hated to strive and fight, with their goods and their persons, in the cause of Allah: they said, "Go not forth in the heat." Say, "The fire of Hell is fiercer in heat." If only they could understand!
+**English (Yusuf Ali):** Whatever beings there are in the heavens and the earth do prostrate themselves to Allah (Acknowledging subjection),- with good-will or in spite of themselves: so do their shadows in the morning and evenings.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ (غزوہٴ تبوک میں) پیچھے رہ گئے وہ پیغمبر خدا (کی مرضی) کے خلاف بیٹھے رہنے سے خوش ہوئے اور اس بات کو ناپسند کیا کہ خدا کی راہ میں اپنے مال اور جان سے جہاد کریں۔ اور (اوروں سے بھی) کہنے لگے کہ گرمی میں مت نکلنا۔ (ان سے) کہہ دو کہ دوزخ کی آگ اس سے کہیں زیادہ گرم ہے۔ کاش یہ (اس بات) کو سمجھتے
+**Urdu (Fatah Muhammad Jalandhari):** اور جتنی مخلوقات آسمانوں اور زمین میں ہے خوشی سے یا زبردستی سے خدا کے آگے سجدہ کرتی ہے اور ان کے سائے بھی صبح وشام (سجدے کرتے ہیں)
 
-[Open on Quran.com](https://quran.com/9/81)
+[Open on Quran.com](https://quran.com/13/15)
 
-#### 10:82 · [[010 Yunus]]
+#### 41:11 · [[041 Fussilat]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَـٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ
+ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ
 
 </div>
 
-**Word in this verse:** `كَرِهَ` — dislike it
+**Word in this verse:** `كَرْهًۭا` — unwillingly
 
-**English (Sahih International):** And Allāh will establish the truth by His words, even if the criminals dislike it."
+**English (Sahih International):** Then He directed Himself to the heaven while it was smoke and said to it and to the earth, "Come [into being], willingly or by compulsion." They said, "We have come willingly."
 
-**English (Yusuf Ali):** "And Allah by His words doth prove and establish His truth, however much the sinners may hate it!"
+**English (Yusuf Ali):** Moreover He comprehended in His design the sky, and it had been (as) smoke: He said to it and to the earth: "Come ye together, willingly or unwillingly." They said: "We do come (together), in willing obedience."
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا اپنے حکم سے سچ کو سچ ہی کردے گا اگرچہ گنہگار برا ہی مانیں
+**Urdu (Fatah Muhammad Jalandhari):** پھر آسمان کی طرف متوجہ ہوا اور وہ دھواں تھا تو اس نے اس سے اور زمین سے فرمایا کہ دونوں آؤ (خواہ) خوشی سے خواہ ناخوشی سے۔ انہوں نے کہا کہ ہم خوشی سے آتے ہیں
 
-[Open on Quran.com](https://quran.com/10/82)
-
-_…and **12** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+[Open on Quran.com](https://quran.com/41/11)
 

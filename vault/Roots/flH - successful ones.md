@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** successful ones · **Root:** فلح
 
+
 ### Words (wikilinks — these create the graph)
 - [[>flH - successful]]
 - [[mflH - successful ones]]

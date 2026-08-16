@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hosts · **Root:** جند
 
+
 ### Words (wikilinks — these create the graph)
 - [[jnd - hosts]]
 

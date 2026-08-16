@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** tyrant · **Root:** جبر
 
+
 ### Words (wikilinks — these create the graph)
 - [[jbAr - tyrant]]
 

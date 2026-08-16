@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** press · **Root:** همز
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

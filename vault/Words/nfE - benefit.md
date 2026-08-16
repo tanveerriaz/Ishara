@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "نَفَعَ"
+lemma: "نَفْع"
 slug: "nfE - benefit"
-surah_count: 27
-ayah_count: 42
+surah_count: 11
+ayah_count: 11
 tags: [word, meaning]
 ---
 
@@ -17,92 +17,24 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[nfE - benefits]]
 
 ### Meaning
-**benefit** · Lemma **نَفَعَ**
+**benefit** · Lemma **نَفْع**
 
-### Surahs (27)
+### Surahs (11)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
-- [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[010 Yunus]]
-- [[011 Hud]]
-- [[012 Yusuf]]
 - [[013 Ar-Rad]]
 - [[020 Taha]]
-- [[021 Al-Anbya]]
 - [[022 Al-Hajj]]
 - [[025 Al-Furqan]]
-- [[026 Ash-Shuara]]
-- [[028 Al-Qasas]]
-- [[030 Ar-Rum]]
-- [[032 As-Sajdah]]
-- [[033 Al-Ahzab]]
 - [[034 Saba]]
-- [[040 Ghafir]]
-- [[043 Az-Zukhruf]]
 - [[048 Al-Fath]]
-- [[051 Adh-Dhariyat]]
-- [[060 Al-Mumtahanah]]
-- [[074 Al-Muddaththir]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:102 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَـٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَـٰنَ ۖ وَمَا كَفَرَ سُلَيْمَـٰنُ وَلَـٰكِنَّ ٱلشَّيَـٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ بِبَابِلَ هَـٰرُوتَ وَمَـٰرُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ ۚ وَمَا هُم بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْـَٔاخِرَةِ مِنْ خَلَـٰقٍ ۚ وَلَبِئْسَ مَا شَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ
-
-</div>
-
-**Word in this verse:** `يَنفَعُهُمْ ۚ` — profits them
-
-**English (Sahih International):** And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Hārūt and Mārūt. But they [i.e., the two angels] do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allāh. And they [i.e., people] learn what harms them and does not benefit them. But they [i.e., the Children of Israel] certainly knew that whoever purchased it [i.e., magic] would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.
-
-**English (Yusuf Ali):** They followed what the evil ones gave out (falsely) against the power of Solomon: the blasphemers Were, not Solomon, but the evil ones, teaching men Magic, and such things as came down at babylon to the angels Harut and Marut. But neither of these taught anyone (Such things) without saying: "We are only for trial; so do not blaspheme." They learned from them the means to sow discord between man and wife. But they could not thus harm anyone except by Allah's permission. And they learned what harmed them, not what profited them. And they knew that the buyers of (magic) would have no share in the happiness of the Hereafter. And vile was the price for which they did sell their souls, if they but knew!
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
-
-[Open on Quran.com](https://quran.com/2/102)
-
-#### 2:123 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنفَعُهَا شَفَـٰعَةٌ وَلَا هُمْ يُنصَرُونَ
-
-</div>
-
-**Word in this verse:** `تَنفَعُهَا` — will benefit it
-
-**English (Sahih International):** And fear a Day when no soul will suffice for another soul at all, and no compensation will be accepted from it, nor will any intercession benefit it, nor will they be aided.
-
-**English (Yusuf Ali):** Then guard yourselves against a Day when one soul shall not avail another, nor shall compensation be accepted from her nor shall intercession profit her nor shall anyone be helped (from outside).
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اس دن سے ڈرو جب کوئی شخص کسی شخص کے کچھ کام نہ آئے، اور نہ اس سے بدلہ قبول کیا جائے اور نہ اس کو کسی کی سفارش کچھ فائدہ دے اور نہ لوگوں کو (کسی اور طرح کی) مدد مل سکے
-
-[Open on Quran.com](https://quran.com/2/123)
-
-#### 2:164 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ ٱلرِّيَـٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ
-
-</div>
-
-**Word in this verse:** `يَنفَعُ` — benefits
-
-**English (Sahih International):** Indeed, in the creation of the heavens and the earth, and the alternation of the night and the day, and the [great] ships which sail through the sea with that which benefits people, and what Allāh has sent down from the heavens of rain, giving life thereby to the earth after its lifelessness and dispersing therein every [kind of] moving creature, and [His] directing of the winds and the clouds controlled between the heaven and earth are signs for a people who use reason.
-
-**English (Yusuf Ali):** Behold! in the creation of the heavens and the earth; in the alternation of the night and the day; in the sailing of the ships through the ocean for the profit of mankind; in the rain which Allah Sends down from the skies, and the life which He gives therewith to an earth that is dead; in the beasts of all kinds that He scatters through the earth; in the change of the winds, and the clouds which they Trail like their slaves between the sky and the earth;- (Here) indeed are Signs for a people that are wise.
-
-**Urdu (Fatah Muhammad Jalandhari):** بےشک آسمانوں اور زمین کے پیدا کرنے میں اور رات اور دن کے ایک دوسرے کے پیچھے آنے جانے میں اور کشتیوں اور جہازوں میں جو دریا میں لوگوں کے فائدے کی چیزیں لے کر رواں ہیں اور مینہ میں جس کو خدا آسمان سے برساتا اور اس سے زمین کو مرنے کے بعد زندہ (یعنی خشک ہوئے پیچھے سرسبز) کردیتا ہے اور زمین پر ہر قسم کے جانور پھیلانے میں اور ہواؤں کے چلانےمیں اور بادلوں میں جو آسمان اور زمین کے درمیان گھرے رہتے ہیں۔ عقلمندوں کے لئے (خدا کی قدرت کی) نشانیاں ہیں
-
-[Open on Quran.com](https://quran.com/2/164)
 
 #### 2:219 · [[002 Al-Baqarah]]
 
@@ -158,60 +90,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/5/76)
 
-#### 5:119 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالَ ٱللَّهُ هَـٰذَا يَوْمُ يَنفَعُ ٱلصَّـٰدِقِينَ صِدْقُهُمْ ۚ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ
-
-</div>
-
-**Word in this verse:** `يَنفَعُ` — will profit
-
-**English (Sahih International):** Allāh will say, "This is the Day when the truthful will benefit from their truthfulness." For them are gardens [in Paradise] beneath which rivers flow, wherein they will abide forever, Allāh being pleased with them, and they with Him. That is the great attainment.
-
-**English (Yusuf Ali):** Allah will say: "This is a day on which the truthful will profit from their truth: theirs are gardens, with rivers flowing beneath,- their eternal Home: Allah well-pleased with them, and they with Allah: That is the great salvation, (the fulfilment of all desires).
-
-**Urdu (Fatah Muhammad Jalandhari):** خدا فرمائے گا کہ آج وہ دن ہے کہ راست بازوں کو ان کی سچائی ہی فائدہ دے گی ان کے لئے باغ ہیں جن کے نیچے نہریں بہہ رہی ہیں ابدالآباد ان میں بستے رہیں گے خدا ان سے خوش ہے اور وہ خدا سے خوش ہیں یہ بڑی کامیابی ہے
-
-[Open on Quran.com](https://quran.com/5/119)
-
-#### 6:71 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُلْ أَنَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُنَا وَلَا يَضُرُّنَا وَنُرَدُّ عَلَىٰٓ أَعْقَابِنَا بَعْدَ إِذْ هَدَىٰنَا ٱللَّهُ كَٱلَّذِى ٱسْتَهْوَتْهُ ٱلشَّيَـٰطِينُ فِى ٱلْأَرْضِ حَيْرَانَ لَهُۥٓ أَصْحَـٰبٌ يَدْعُونَهُۥٓ إِلَى ٱلْهُدَى ٱئْتِنَا ۗ قُلْ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلْهُدَىٰ ۖ وَأُمِرْنَا لِنُسْلِمَ لِرَبِّ ٱلْعَـٰلَمِينَ
-
-</div>
-
-**Word in this verse:** `يَنفَعُنَا` — benefits us
-
-**English (Sahih International):** Say, "Shall we invoke instead of Allāh that which neither benefits us nor harms us and be turned back on our heels after Allāh has guided us? [We would then be] like one whom the devils enticed [to wander] upon the earth confused, [while] he has companions inviting him to guidance, [calling], 'Come to us.'" Say, "Indeed, the guidance of Allāh is the [only] guidance; and we have been commanded to submit to the Lord of the worlds.
-
-**English (Yusuf Ali):** Say: "Shall we indeed call on others besides Allah,- things that can do us neither good nor harm,- and turn on our heels after receiving guidance from Allah? - like one whom the evil ones have made into a fool, wandering bewildered through the earth, his friends calling, come to us', (vainly) guiding him to the path." Say: "Allah's guidance is the (only) guidance, and we have been directed to submit ourselves to the Lord of the worlds;-
-
-**Urdu (Fatah Muhammad Jalandhari):** کہو۔ کیا ہم خدا کے سوا ایسی چیز کو پکاریں جو نہ ہمارا بھلا کرسکے نہ برا۔ اور جب ہم کو خدا نے سیدھا رستہ دکھا دیا تو (کیا) ہم الٹے پاؤں پھر جائیں؟ (پھر ہماری ایسی مثال ہو) جیسے کسی کو جنات نے جنگل میں بھلا دیا ہو (اور وہ) حیران (ہو رہا ہو) اور اس کے کچھ رفیق ہوں جو اس کو رستے کی طرف بلائیں کہ ہمارے پاس چلا آ۔ کہہ دو کہ رستہ تو وہی ہے جو خدا نے بتایا ہے۔ اور ہمیں تو یہ حکم ملا ہے کہ ہم خدائے رب العالمین کے فرمانبردار ہوں
-
-[Open on Quran.com](https://quran.com/6/71)
-
-#### 6:158 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-هَلْ يَنظُرُونَ إِلَّآ أَن تَأْتِيَهُمُ ٱلْمَلَـٰٓئِكَةُ أَوْ يَأْتِىَ رَبُّكَ أَوْ يَأْتِىَ بَعْضُ ءَايَـٰتِ رَبِّكَ ۗ يَوْمَ يَأْتِى بَعْضُ ءَايَـٰتِ رَبِّكَ لَا يَنفَعُ نَفْسًا إِيمَـٰنُهَا لَمْ تَكُنْ ءَامَنَتْ مِن قَبْلُ أَوْ كَسَبَتْ فِىٓ إِيمَـٰنِهَا خَيْرًا ۗ قُلِ ٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ
-
-</div>
-
-**Word in this verse:** `يَنفَعُ` — will benefit
-
-**English (Sahih International):** Do they [then] wait for anything except that the angels should come to them or your Lord should come or that there come some of the signs of your Lord? The Day that some of the signs of your Lord will come no soul will benefit from its faith as long as it had not believed before or had earned through its faith some good. Say, "Wait. Indeed, we [also] are waiting."
-
-**English (Yusuf Ali):** Are they waiting to see if the angels come to them, or thy Lord (Himself), or certain of the signs of thy Lord! the day that certain of the signs of thy Lord do come, no good will it do to a soul to believe in them then if it believed not before nor earned righteousness through its faith. Say: "Wait ye: we too are waiting."
-
-**Urdu (Fatah Muhammad Jalandhari):** یہ اس کے سوا اور کس بات کے منتظر ہیں کہ ان کے پاس فرشتے آئیں یا خود تمہارا پروردگار آئے یا تمہارے پروردگار کی کچھ نشانیاں آئیں (مگر) جس روز تمہارے پروردگار کی کچھ نشانیاں آ جائیں گی تو جو شخص پہلے ایمان نہیں لایا ہوگا اس وقت اسے ایمان لانا کچھ فائدہ نہیں دے گا یا اپنے ایمان (کی حالت) میں نیک عمل نہیں کئے ہوں گے (تو گناہوں سے توبہ کرنا مفید نہ ہوگا اے پیغمبر ان سے) کہہ دو کہ تم بھی انتظار کرو ہم بھی انتظار کرتے ہیں
-
-[Open on Quran.com](https://quran.com/6/158)
-
 #### 7:188 · [[007 Al-Araf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -230,5 +108,113 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/188)
 
-_…and **32** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 10:49 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُل لَّآ أَمْلِكُ لِنَفْسِى ضَرًّا وَلَا نَفْعًا إِلَّا مَا شَآءَ ٱللَّهُ ۗ لِكُلِّ أُمَّةٍ أَجَلٌ ۚ إِذَا جَآءَ أَجَلُهُمْ فَلَا يَسْتَـْٔخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ
+
+</div>
+
+**Word in this verse:** `نَفْعًا` — (for) any profit
+
+**English (Sahih International):** Say, "I possess not for myself any harm or benefit except what Allāh should will. For every nation is a [specified] term. When their time has come, then they will not remain behind an hour, nor will they precede [it]."
+
+**English (Yusuf Ali):** Say: "I have no power over any harm or profit to myself except as Allah willeth. To every people is a term appointed: when their term is reached, not an hour can they cause delay, nor (an hour) can they advance (it in anticipation)."
+
+**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میں اپنے نقصان اور فائدے کا بھی کچھ اختیار نہیں رکھتا۔ مگر جو خدا چاہے۔ ہر ایک امت کے لیے (موت کا) ایک وقت مقرر ہے۔ جب وہ وقت آجاتا ہے تو ایک گھڑی بھی دیر نہیں کرسکتے اور نہ جلدی کرسکتے ہیں
+
+[Open on Quran.com](https://quran.com/10/49)
+
+#### 13:16 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ مَن رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ قُلِ ٱللَّهُ ۚ قُلْ أَفَٱتَّخَذْتُم مِّن دُونِهِۦٓ أَوْلِيَآءَ لَا يَمْلِكُونَ لِأَنفُسِهِمْ نَفْعًا وَلَا ضَرًّا ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَمْ هَلْ تَسْتَوِى ٱلظُّلُمَـٰتُ وَٱلنُّورُ ۗ أَمْ جَعَلُوا۟ لِلَّهِ شُرَكَآءَ خَلَقُوا۟ كَخَلْقِهِۦ فَتَشَـٰبَهَ ٱلْخَلْقُ عَلَيْهِمْ ۚ قُلِ ٱللَّهُ خَـٰلِقُ كُلِّ شَىْءٍ وَهُوَ ٱلْوَٰحِدُ ٱلْقَهَّـٰرُ
+
+</div>
+
+**Word in this verse:** `نَفْعًۭا` — (to) benefit
+
+**English (Sahih International):** Say, "Who is Lord of the heavens and earth?" Say, "Allāh." Say, "Have you then taken besides Him allies not possessing [even] for themselves any benefit or any harm?" Say, "Is the blind equivalent to the seeing? Or is darkness equivalent to light? Or have they attributed to Allāh partners who created like His creation so that the creation [of each] seemed similar to them?" Say, "Allāh is the Creator of all things, and He is the One, the Prevailing."
+
+**English (Yusuf Ali):** Say: "Who is the Lord and Sustainer of the heavens and the earth?" Say: "(It is) Allah." Say: "Do ye then take (for worship) protectors other than Him, such as have no power either for good or for harm to themselves?" Say: "Are the blind equal with those who see? Or the depths of darkness equal with light?" Or do they assign to Allah partners who have created (anything) as He has created, so that the creation seemed to them similar? Say: "Allah is the Creator of all things: He is the One, the Supreme and Irresistible."
+
+**Urdu (Fatah Muhammad Jalandhari):** ان سے پوچھو کہ آسمانوں اور زمین کا پروردگار کون ہے؟ (تم ہی ان کی طرف سے) کہہ دو کہ خدا۔ پھر (ان سے) کہو کہ تم نے خدا کو چھوڑ کر ایسے لوگوں کو کیوں کارساز بنایا ہے جو خود اپنے نفع ونقصان کا بھی اختیار نہیں رکھتے (یہ بھی) پوچھو کیا اندھا اور آنکھوں والا برابر ہیں؟ یا اندھیرا اور اُجالا برابر ہوسکتا ہے؟ بھلا ان لوگوں نے جن کو خدا کا شریک مقرر کیا ہے۔ کیا انہوں نے خدا کی سی مخلوقات پیدا کی ہے جس کے سبب ان کو مخلوقات مشتبہ ہوگئی ہے۔ کہہ دو کہ خدا ہی ہر چیز کا پیدا کرنے والا ہے اور وہ یکتا (اور) زبردست ہے
+
+[Open on Quran.com](https://quran.com/13/16)
+
+#### 20:89 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَفَلَا يَرَوْنَ أَلَّا يَرْجِعُ إِلَيْهِمْ قَوْلًا وَلَا يَمْلِكُ لَهُمْ ضَرًّا وَلَا نَفْعًا
+
+</div>
+
+**Word in this verse:** `نَفْعًۭا` — any benefit
+
+**English (Sahih International):** Did they not see that it could not return to them any speech [i.e., response] and that it did not possess for them any harm or benefit?
+
+**English (Yusuf Ali):** Could they not see that it could not return them a word (for answer), and that it had no power either to harm them or to do them good?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ نہیں دیکھتے کہ وہ ان کی کسی بات کا جواب نہیں دیتا۔ اور نہ ان کے نقصان اور نفع کا کچھ اختیار رکھتا ہے
+
+[Open on Quran.com](https://quran.com/20/89)
+
+#### 22:13 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَدْعُوا۟ لَمَن ضَرُّهُۥٓ أَقْرَبُ مِن نَّفْعِهِۦ ۚ لَبِئْسَ ٱلْمَوْلَىٰ وَلَبِئْسَ ٱلْعَشِيرُ
+
+</div>
+
+**Word in this verse:** `نَّفْعِهِۦ ۚ` — his benefit
+
+**English (Sahih International):** He invokes one whose harm is closer than his benefit - how wretched the protector and how wretched the associate.
+
+**English (Yusuf Ali):** (Perhaps) they call on one whose hurt is nearer than his profit: evil, indeed, is the patron, and evil the companion (or help)!
+
+**Urdu (Fatah Muhammad Jalandhari):** ایسے شخص کو پکارتا ہے جس کا نقصان فائدہ سے زیادہ قریب ہے۔ ایسا دوست برا بھی اور ایسا ہم صحبت بھی برا
+
+[Open on Quran.com](https://quran.com/22/13)
+
+#### 25:3 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً لَّا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ لِأَنفُسِهِمْ ضَرًّا وَلَا نَفْعًا وَلَا يَمْلِكُونَ مَوْتًا وَلَا حَيَوٰةً وَلَا نُشُورًا
+
+</div>
+
+**Word in this verse:** `نَفْعًۭا` — any benefit
+
+**English (Sahih International):** But they have taken besides Him gods which create nothing, while they are created, and possess not for themselves any harm or benefit and possess not [power to cause] death or life or resurrection.
+
+**English (Yusuf Ali):** Yet have they taken, besides him, gods that can create nothing but are themselves created; that have no control of hurt or good to themselves; nor can they control death nor life nor resurrection.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (لوگوں نے) اس کے سوا اور معبود بنا لئے ہیں جو کوئی چیز بھی پیدا نہیں کرسکتے اور خود پیدا کئے گئے ہیں۔ اور نہ اپنے نقصان اور نفع کا کچھ اختیار رکھتے ہیں اور نہ مرنا ان کے اختیار میں ہے اور نہ جینا اور نہ مر کر اُٹھ کھڑے ہونا
+
+[Open on Quran.com](https://quran.com/25/3)
+
+#### 34:42 · [[034 Saba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱلْيَوْمَ لَا يَمْلِكُ بَعْضُكُمْ لِبَعْضٍ نَّفْعًا وَلَا ضَرًّا وَنَقُولُ لِلَّذِينَ ظَلَمُوا۟ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ
+
+</div>
+
+**Word in this verse:** `نَّفْعًۭا` — to benefit
+
+**English (Sahih International):** But today [i.e., the Day of Judgement] you do not hold for one another [the power of] benefit or harm, and We will say to those who wronged, "Taste the punishment of the Fire, which you used to deny."
+
+**English (Yusuf Ali):** So on that Day no power shall they have over each other, for profit or harm: and We shall say to the wrong-doers, "Taste ye the Penalty of the Fire,- the which ye were wont to deny!"
+
+**Urdu (Fatah Muhammad Jalandhari):** تو آج تم میں سے کوئی کسی کو نفع اور نقصان پہنچانے کا اختیار نہیں رکھتا۔ اور ہم ظالموں سے کہیں گے کہ دوزخ کے عذاب کا جس کو تم جھوٹ سمجھتے تھے مزہ چکھو
+
+[Open on Quran.com](https://quran.com/34/42)
+
+_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we give you · **Root:** سقي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>sqy - we give you]]
 - [[sqY - water]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** commerce · **Root:** تجر
 
+
 ### Words (wikilinks — these create the graph)
 - [[tjArp - commerce]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** so we took · **Root:** نقم
 
+
 ### Words (wikilinks — these create the graph)
 - [[AntqAm - retribution]]
 - [[Antqm - so we took]]

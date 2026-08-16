@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** all-seer · **Root:** بصر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>bSr - see]]
 - [[bSr - vision]]

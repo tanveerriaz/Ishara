@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** surely lesson · **Root:** عبر
 
+
 ### Words (wikilinks — these create the graph)
 - [[Ebrp - surely lesson]]
 

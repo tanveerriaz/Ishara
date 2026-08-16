@@ -2,8 +2,8 @@
 type: word
 lemma: "ضِعْف"
 slug: "DEf - double"
-surah_count: 10
-ayah_count: 13
+surah_count: 7
+ayah_count: 9
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **double** · Lemma **ضِعْف**
 
-### Surahs (10)
+### Surahs (7)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[007 Al-Araf]]
-- [[008 Al-Anfal]]
 - [[017 Al-Isra]]
-- [[022 Al-Hajj]]
-- [[030 Ar-Rum]]
 - [[033 Al-Ahzab]]
 - [[034 Saba]]
 - [[038 Sad]]
@@ -89,24 +86,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/130)
 
-#### 3:146 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَكَأَيِّن مِّن نَّبِىٍّ قَـٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّـٰبِرِينَ
-
-</div>
-
-**Word in this verse:** `ضَعُفُوا۟` — they weakened
-
-**English (Sahih International):** And how many a prophet [fought in battle and] with him fought many religious scholars. But they never lost assurance due to what afflicted them in the cause of Allāh, nor did they weaken or submit. And Allāh loves the steadfast.
-
-**English (Yusuf Ali):** How many of the prophets fought (in Allah's way), and with them (fought) Large bands of godly men? but they never lost heart if they met with disaster in Allah's way, nor did they weaken (in will) nor give in. And Allah Loves those who are firm and steadfast.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور بہت سے نبی ہوئے ہیں جن کے ساتھ ہو کر اکثر اہل الله (خدا کے دشمنوں سے) لڑے ہیں تو جو مصبتیں ان پر راہِ خدا میں واقع ہوئیں ان کے سبب انہوں نے نہ تو ہمت ہاری اور نہ بزدلی کی نہ (کافروں سے) دبے اور خدا استقلال رکھنے والوں کو دوست رکھتا ہے
-
-[Open on Quran.com](https://quran.com/3/146)
-
 #### 7:38 · [[007 Al-Araf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -124,24 +103,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** تو خدا فرمائے گا کہ جنّوں اور انسانوں کی جو جماعتیں تم سے پہلے ہو گزری ہیں ان کے ساتھ تم بھی داخل جہنم ہو جاؤ۔ جب ایک جماعت (وہاں) جا داخل ہو گئی تو اپنی (مذہبی) بہن (یعنی اپنے جیسی دوسری جماعت) پر لعنت کرے گی۔ یہاں تک کہ جب سب اس میں داخل ہو جائیں گے تو پچھلی جماعت پہلی کی نسبت کہے گی کہ اے پروردگار! ان ہی لوگوں نے ہم کو گمراہ کیا تھا تو ان کو آتش جہنم کا دگنا عذاب دے۔ خدا فرمائے گا کہ (تم) سب کو دگنا (عذاب دیا جائے گا) مگر تم نہیں جانتے
 
 [Open on Quran.com](https://quran.com/7/38)
-
-#### 8:66 · [[008 Al-Anfal]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلْـَٔـٰنَ خَفَّفَ ٱللَّهُ عَنكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا ۚ فَإِن يَكُن مِّنكُم مِّا۟ئَةٌ صَابِرَةٌ يَغْلِبُوا۟ مِا۟ئَتَيْنِ ۚ وَإِن يَكُن مِّنكُمْ أَلْفٌ يَغْلِبُوٓا۟ أَلْفَيْنِ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ
-
-</div>
-
-**Word in this verse:** `ضَعْفًۭا ۚ` — (there) is weakness
-
-**English (Sahih International):** Now, Allāh has lightened [the hardship] for you, and He knows that among you is weakness. So if there are from you one hundred [who are] steadfast, they will overcome two hundred. And if there are among you a thousand, they will overcome two thousand by permission of Allāh. And Allāh is with the steadfast.
-
-**English (Yusuf Ali):** For the present, Allah hath lightened your (task), for He knoweth that there is a weak spot in you: But (even so), if there are a hundred of you, patient and persevering, they will vanquish two hundred, and if a thousand, they will vanquish two thousand, with the leave of Allah: for Allah is with those who patiently persevere.
-
-**Urdu (Fatah Muhammad Jalandhari):** اب خدا نے تم پر سے بوجھ ہلکا کر دیا اور معلوم کرلیا کہ (ابھی) تم میں کسی قدر کمزوری ہے۔ پس اگر تم میں ایک سو ثابت قدم رہنے والے ہوں گے تو دو سو پر غالب رہیں گے۔ اور اگر ایک ہزار ہوں گے تو خدا کے حکم سے دو ہزار پر غالب رہیں گے۔ اور خدا ثابت قدم رہنے والوں کا مدد گار ہے
-
-[Open on Quran.com](https://quran.com/8/66)
 
 #### 17:75 · [[017 Al-Isra]]
 
@@ -161,42 +122,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/17/75)
 
-#### 22:73 · [[022 Al-Hajj]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٌ فَٱسْتَمِعُوا۟ لَهُۥٓ ۚ إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَن يَخْلُقُوا۟ ذُبَابًا وَلَوِ ٱجْتَمَعُوا۟ لَهُۥ ۖ وَإِن يَسْلُبْهُمُ ٱلذُّبَابُ شَيْـًٔا لَّا يَسْتَنقِذُوهُ مِنْهُ ۚ ضَعُفَ ٱلطَّالِبُ وَٱلْمَطْلُوبُ
-
-</div>
-
-**Word in this verse:** `ضَعُفَ` — So weak
-
-**English (Sahih International):** O people, an example is presented, so listen to it. Indeed, those you invoke besides Allāh will never create [as much as] a fly, even if they gathered together for it [i.e., that purpose]. And if the fly should steal from them a [tiny] thing, they could not recover it from him. Weak are the pursuer and pursued.
-
-**English (Yusuf Ali):** O men! Here is a parable set forth! listen to it! Those on whom, besides Allah, ye call, cannot create (even) a fly, if they all met together for the purpose! and if the fly should snatch away anything from them, they would have no power to release it from the fly. Feeble are those who petition and those whom they petition!
-
-**Urdu (Fatah Muhammad Jalandhari):** لوگو! ایک مثال بیان کی جاتی ہے اسے غور سے سنو۔ کہ جن لوگوں کو تم خدا کے سوا پکارتے ہو وہ ایک مکھی بھی نہیں بنا سکتے اگرچہ اس کے لئے سب مجتمع ہوجائیں۔ اور اگر ان سے مکھی کوئی چیز لے جائے تو اسے اس سے چھڑا نہیں سکتے۔ طالب اور مطلوب (یعنی عابد اور معبود دونوں) گئے گزرے ہیں
-
-[Open on Quran.com](https://quran.com/22/73)
-
-#### 30:54 · [[030 Ar-Rum]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ ٱللَّهُ ٱلَّذِى خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنۢ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً ۚ يَخْلُقُ مَا يَشَآءُ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْقَدِيرُ
-
-</div>
-
-**Word in this verse:** `ضَعْفٍۢ` — weakness
-
-**English (Sahih International):** Allāh is the one who created you from weakness, then made after weakness strength, then made after strength weakness and white hair. He creates what He wills, and He is the Knowing, the Competent.
-
-**English (Yusuf Ali):** It is Allah Who created you in a state of (helpless) weakness, then gave (you) strength after weakness, then, after strength, gave (you weakness and a hoary head: He creates as He wills, and it is He Who has all knowledge and power.
-
-**Urdu (Fatah Muhammad Jalandhari):** خدا ہی تو ہے جس نے تم کو (ابتدا میں) کمزور حالت میں پیدا کیا پھر کمزوری کے بعد طاقت عنایت کی پھر طاقت کے بعد کمزوری اور بڑھاپا دیا۔ وہ جو چاہتا ہے پیدا کرتا ہے اور وہ صاحب دانش اور صاحب قدرت ہے
-
-[Open on Quran.com](https://quran.com/30/54)
-
 #### 33:30 · [[033 Al-Ahzab]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -215,5 +140,57 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/33/30)
 
-_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 33:68 · [[033 Al-Ahzab]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًا كَبِيرًا
+
+</div>
+
+**Word in this verse:** `ضِعْفَيْنِ` — double
+
+**English (Sahih International):** Our Lord, give them double the punishment and curse them with a great curse."
+
+**English (Yusuf Ali):** "Our Lord! Give them double Penalty and curse them with a very great Curse!"
+
+**Urdu (Fatah Muhammad Jalandhari):** اے ہمارے پروردگار ان کو دگنا عذاب دے اور ان پر بڑی لعنت کر
+
+[Open on Quran.com](https://quran.com/33/68)
+
+#### 34:37 · [[034 Saba]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَآ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُم بِٱلَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ إِلَّا مَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًا فَأُو۟لَـٰٓئِكَ لَهُمْ جَزَآءُ ٱلضِّعْفِ بِمَا عَمِلُوا۟ وَهُمْ فِى ٱلْغُرُفَـٰتِ ءَامِنُونَ
+
+</div>
+
+**Word in this verse:** `ٱلضِّعْفِ` — two-fold
+
+**English (Sahih International):** And it is not your wealth or your children that bring you nearer to Us in position, but it is [by being] one who has believed and done righteousness. For them there will be the double reward for what they did, and they will be in the upper chambers [of Paradise], safe [and secure].
+
+**English (Yusuf Ali):** It is not your wealth nor your sons, that will bring you nearer to Us in degree: but only those who believe and work righteousness - these are the ones for whom there is a multiplied Reward for their deeds, while secure they (reside) in the dwellings on high!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارا مال اور اولاد ایسی چیز نہیں کہ تم کو ہمارا مقرب بنا دیں۔ ہاں (ہمارا مقرب وہ ہے) جو ایمان لایا اور عمل نیک کرتا رہا۔ ایسے ہی لوگوں کو ان کے اعمال کے سبب دگنا بدلہ ملے گا اور وہ خاطر جمع سے بالاخانوں میں بیٹھے ہوں گے
+
+[Open on Quran.com](https://quran.com/34/37)
+
+#### 38:61 · [[038 Sad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالُوا۟ رَبَّنَا مَن قَدَّمَ لَنَا هَـٰذَا فَزِدْهُ عَذَابًا ضِعْفًا فِى ٱلنَّارِ
+
+</div>
+
+**Word in this verse:** `ضِعْفًۭا` — double
+
+**English (Sahih International):** They will say, "Our Lord, whoever brought this upon us - increase for him double punishment in the Fire."
+
+**English (Yusuf Ali):** They will say: "Our Lord! whoever brought this upon us,- Add to him a double Penalty in the Fire!"
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ کہیں گے اے پروردگار جو اس کو ہمارے سامنے لایا ہے اس کو دوزخ میں دونا عذاب دے
+
+[Open on Quran.com](https://quran.com/38/61)
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** wrap · **Root:** لفف
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

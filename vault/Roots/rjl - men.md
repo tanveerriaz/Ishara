@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** men · **Root:** رجل
 
+
 ### Words (wikilinks — these create the graph)
 - [[rjAl - men]]
+- [[rjl - feet]]
 - [[rjl - man]]
 
 ### Surahs where this root appears

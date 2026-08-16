@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** praise · **Root:** حمد
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hmd - all praise]]
 - [[Hmyd - praiseworthy]]

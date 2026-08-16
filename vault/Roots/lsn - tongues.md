@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** tongues · **Root:** لسن
 
+
 ### Words (wikilinks — these create the graph)
 - [[lsAn - tongues]]
 

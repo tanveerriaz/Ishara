@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** lying wait watching · **Root:** رصد
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

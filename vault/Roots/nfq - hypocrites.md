@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hypocrites · **Root:** نفق
 
+
 ### Words (wikilinks — these create the graph)
 - [[>nfq - spend]]
 - [[mnAfq - hypocrites]]

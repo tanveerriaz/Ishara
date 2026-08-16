@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** city · **Root:** بلد
 
+
 ### Words (wikilinks — these create the graph)
 - [[bld - city]]
 - [[bldp - land]]

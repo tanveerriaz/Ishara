@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** enjoyment · **Root:** متع
 
+
 ### Words (wikilinks — these create the graph)
 - [[AstmtE - you benefited]]
 - [[mtAE - enjoyment]]

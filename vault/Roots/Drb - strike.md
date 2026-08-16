@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** strike · **Root:** ضرب
 
+
 ### Words (wikilinks — these create the graph)
+- [[Drb - move about]]
 - [[Drb - strike]]
 
 ### Surahs where this root appears

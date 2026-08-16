@@ -16,34 +16,34 @@ The Dawn · 30 ayahs
 
 - [[>krm - make comfortable]] — `أَكْرَمَ` · make comfortable
 - [[AbtlY - tried]] — `ابْتَلَى` · tried
-- [[>Hbb - love]] — `أَحْبَبْ` · love
-- [[fjr - dawn]] — `فَجْر` · dawn
-- [[TEAm - food]] — `طَعام` · food
-- [[lyl - night]] — `لَيْل` · night
-- [[>wtAd - stakes]] — `أَوْتاد` · stakes
-- [[<nsAn - man]] — `إِنسان` · man
-- [[ytym - orphans]] — `يَتِيم` · orphans
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[>y - o you]] — `أَيّ` · o you
-- [[qdm - feet]] — `قَدَّمَ` · feet
-- [[*krY - reminder]] — `ذِكْرَى` · reminder
 - [[rb - lord]] — `رَبّ` · lord
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[Hb - grain]] — `حُبّ` · grain
+- [[*krY - reminder]] — `ذِكْرَى` · reminder
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[qdr - restricts]] — `قَدَرَ` · restricts
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[>kvr - made much]] — `أَكْثَرُ` · made much
+- [[fjr - dawn]] — `فَجْر` · dawn
+- [[Hb - love]] — `حُبّ` · love
+- [[mlk - angels]] — `مَلَك` · angels
 - [[rjE - return]] — `رَجَعَ` · return
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[mAl - wealth]] — `مال` · wealth
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[fsAd - corruption]] — `فَساد` · corruption
+- [[lyl - night]] — `لَيْل` · night
+- [[>rD - earth]] — `أَرْض` · earth
+- [[jA' - came them]] — `جاءَ` · came them
+- [[TgY - has transgressed]] — `طَغَى` · has transgressed
 - [[dxl - enter]] — `دَخَلَ` · enter
-- [[E$r - ten]] — `عَشْر` · ten
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[Hjr - stone]] — `حَجَر` · stone
-- [[EAd - aad]] — `عادَ` · aad
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[mskyn - needy]] — `مِسْكِين` · needy
+- [[>wtAd - stakes]] — `أَوْتاد` · stakes
+- [[>y - o you]] — `أَيّ` · o you
+- [[Sf - rows]] — `صَفّ` · rows
+- [[xlq - created]] — `خَلَقَ` · created
 
 ## Roots
 
 - [[$fE - intercession]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>Hd - anyone]]
 - [[>kl - eat]]
 - [[>ns - people]]

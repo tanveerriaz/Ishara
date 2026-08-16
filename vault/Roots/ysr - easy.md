@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** easy · **Root:** يسر
 
+
 ### Words (wikilinks — these create the graph)
 - [[ysr - ease]]
+- [[ysr - ease 2]]
 - [[ysyr - easy]]
 
 ### Surahs where this root appears

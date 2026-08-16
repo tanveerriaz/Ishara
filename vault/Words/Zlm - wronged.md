@@ -2,8 +2,8 @@
 type: word
 lemma: "ظَلَمَ"
 slug: "Zlm - wronged"
-surah_count: 40
-ayah_count: 114
+surah_count: 35
+ayah_count: 94
 tags: [word, meaning]
 ---
 
@@ -19,24 +19,21 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **wronged** · Lemma **ظَلَمَ**
 
-### Surahs (40)
+### Surahs (35)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
-- [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[008 Al-Anfal]]
 - [[009 At-Tawbah]]
 - [[010 Yunus]]
 - [[011 Hud]]
-- [[013 Ar-Rad]]
 - [[014 Ibrahim]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
 - [[019 Maryam]]
-- [[020 Taha]]
 - [[021 Al-Anbya]]
 - [[022 Al-Hajj]]
 - [[023 Al-Muminun]]
@@ -45,6 +42,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[027 An-Naml]]
 - [[028 Al-Qasas]]
 - [[029 Al-Ankabut]]
+- [[030 Ar-Rum]]
+- [[034 Saba]]
+- [[036 Ya-Sin]]
 
 ## Verses (full text)
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/25)
 
-_…and **104** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **84** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

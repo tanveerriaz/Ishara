@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** marry · **Root:** نكح
 
+
 ### Words (wikilinks — these create the graph)
 - [[nkAH - marriage]]
 - [[nkH - marry]]

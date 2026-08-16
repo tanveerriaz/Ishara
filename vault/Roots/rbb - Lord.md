@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** Lord · **Root:** ربب
 
+
 ### Words (wikilinks — these create the graph)
 - [[rb - lord]]
 

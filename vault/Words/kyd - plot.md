@@ -2,8 +2,8 @@
 type: word
 lemma: "كَيْد"
 slug: "kyd - plot"
-surah_count: 16
-ayah_count: 29
+surah_count: 15
+ayah_count: 25
 tags: [word, meaning]
 ---
 
@@ -19,12 +19,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **plot** · Lemma **كَيْد**
 
-### Surahs (16)
+### Surahs (15)
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
 - [[007 Al-Araf]]
 - [[008 Al-Anfal]]
-- [[011 Hud]]
 - [[012 Yusuf]]
 - [[020 Taha]]
 - [[021 Al-Anbya]]
@@ -95,24 +94,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/183)
 
-#### 7:195 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ ۖ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ ۖ أَمْ لَهُمْ أَعْيُنٌ يُبْصِرُونَ بِهَآ ۖ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا ۗ قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ فَلَا تُنظِرُونِ
-
-</div>
-
-**Word in this verse:** `كِيدُونِ` — scheme against me
-
-**English (Sahih International):** Do they have feet by which they walk? Or do they have hands by which they strike? Or do they have eyes by which they see? Or do they have ears by which they hear? Say, [O Muḥammad], "Call your 'partners' and then conspire against me and give me no respite.
-
-**English (Yusuf Ali):** Have they feet to walk with? Or hands to lay hold with? Or eyes to see with? Or ears to hear with? Say: "Call your 'god-partners', scheme (your worst) against me, and give me no respite!
-
-**Urdu (Fatah Muhammad Jalandhari):** بھلا ان کے پاؤں ہیں جن سے چلیں یا ہاتھ ہیں جن سے پکڑیں یا آنکھیں ہیں جن سے دیکھیں یا کان ہیں جن سے سنیں؟ کہہ دو کہ اپنے شریکوں کو بلالو اور میرے بارے میں (جو) تدبیر (کرنی ہو) کرلو اور مجھے کچھ مہلت بھی نہ دو (پھر دیکھو کہ وہ میرا کیا کرسکتے ہیں)
-
-[Open on Quran.com](https://quran.com/7/195)
-
 #### 8:18 · [[008 Al-Anfal]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -131,24 +112,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/8/18)
 
-#### 11:55 · [[011 Hud]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-مِن دُونِهِۦ ۖ فَكِيدُونِى جَمِيعًا ثُمَّ لَا تُنظِرُونِ
-
-</div>
-
-**Word in this verse:** `فَكِيدُونِى` — So plot against me
-
-**English (Sahih International):** Other than Him. So plot against me all together; then do not give me respite.
-
-**English (Yusuf Ali):** "Other gods as partners! so scheme (your worst) against me, all of you, and give me no respite.
-
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی جن کی) خدا کے سوا (عبادت کرتے ہو تو) تم سب مل کر میرے بارے میں جو تدبیر (کرنی چاہو) کرلو اور مجھے مہلت نہ دو
-
-[Open on Quran.com](https://quran.com/11/55)
-
 #### 12:5 · [[012 Yusuf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -157,7 +120,7 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 </div>
 
-**Word in this verse:** `فَيَكِيدُوا۟` — lest they plan
+**Word in this verse:** `كَيْدًا ۖ` — a plot
 
 **English (Sahih International):** He said, "O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy.
 
@@ -221,5 +184,41 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/12/34)
 
-_…and **19** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 12:50 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ ۖ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّـٰتِى قَطَّعْنَ أَيْدِيَهُنَّ ۚ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `بِكَيْدِهِنَّ` — of their plot
+
+**English (Sahih International):** And the king said, "Bring him to me." But when the messenger came to him, [Joseph] said, "Return to your master and ask him what is the case of the women who cut their hands. Indeed, my Lord is Knowing of their plan."
+
+**English (Yusuf Ali):** So the king said: "Bring ye him unto me." But when the messenger came to him, (Joseph) said: "Go thou back to thy lord, and ask him, 'What is the state of mind of the ladies who cut their hands'? For my Lord is certainly well aware of their snare."
+
+**Urdu (Fatah Muhammad Jalandhari):** (یہ تعبیر سن کر) بادشاہ نے حکم دیا کہ یوسف کو میرے پاس لے آؤ۔ جب قاصد ان کے پاس گیا تو انہوں نے کہا کہ اپنے آقا کے پاس واپس جاؤ اور ان سے پوچھو کہ ان عورتوں کا کیا حال ہے جنہوں نے اپنے ہاتھ کاٹ لیے تھے۔ بےشک میرا پروردگار ان کے مکروں سے خوب واقف ہے
+
+[Open on Quran.com](https://quran.com/12/50)
+
+#### 12:52 · [[012 Yusuf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ذَٰلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِٱلْغَيْبِ وَأَنَّ ٱللَّهَ لَا يَهْدِى كَيْدَ ٱلْخَآئِنِينَ
+
+</div>
+
+**Word in this verse:** `كَيْدَ` — (the) plan
+
+**English (Sahih International):** That is so he [i.e., al-ʿAzeez] will know that I did not betray him in [his] absence and that Allāh does not guide the plan of betrayers.
+
+**English (Yusuf Ali):** "This (say I), in order that He may know that I have never been false to him in his absence, and that Allah will never guide the snare of the false ones.
+
+**Urdu (Fatah Muhammad Jalandhari):** (یوسف نے کہا کہ میں نے) یہ بات اس لیے (پوچھی ہے) کہ عزیز کو یقین ہوجائے کہ میں نے اس کی پیٹھ پیچھے اس کی (امانت میں خیانت نہیں کی) اور خدا خیانت کرنے والوں کے مکروں کو روبراہ نہیں کرتا
+
+[Open on Quran.com](https://quran.com/12/52)
+
+_…and **15** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

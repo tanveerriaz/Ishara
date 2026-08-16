@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** group people · **Root:** وزع
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

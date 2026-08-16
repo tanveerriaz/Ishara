@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** diversion · **Root:** لهو
 
+
 ### Words (wikilinks — these create the graph)
 - [[>lhY - diverted them]]
 - [[lhw - amusement]]

@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "نَكِرَ"
+lemma: "نُكْر"
 slug: "nkr - terrible"
-surah_count: 5
-ayah_count: 6
+surah_count: 2
+ayah_count: 3
 tags: [word, meaning]
 ---
 
@@ -17,36 +17,15 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[nkr - wrong]]
 
 ### Meaning
-**terrible** · Lemma **نَكِرَ**
+**terrible** · Lemma **نُكْر**
 
-### Surahs (5)
-- [[011 Hud]]
+### Surahs (2)
 - [[018 Al-Kahf]]
-- [[027 An-Naml]]
-- [[054 Al-Qamar]]
 - [[065 At-Talaq]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 11:70 · [[011 Hud]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَلَمَّا رَءَآ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةً ۚ قَالُوا۟ لَا تَخَفْ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمِ لُوطٍ
-
-</div>
-
-**Word in this verse:** `نَكِرَهُمْ` — he felt unfamiliar of them
-
-**English (Sahih International):** But when he saw their hands not reaching for it, he distrusted them and felt from them apprehension. They said, "Fear not. We have been sent to the people of Lot."
-
-**English (Yusuf Ali):** But when he saw their hands went not towards the (meal), he felt some mistrust of them, and conceived a fear of them. They said: "Fear not: We have been sent against the people of Lut."
-
-**Urdu (Fatah Muhammad Jalandhari):** جب دیکھا کہ ان کے ہاتھ کھانے کی طرف نہیں جاتے (یعنی وہ کھانا نہیں کھاتے) تو ان کو اجنبی سمجھ کر دل میں خوف کیا۔ (فرشتوں نے) کہا کہ خوف نہ کیجیے، ہم قوم لوط کی طرف (ان کے ہلاک کرنے کو) بھیجے گئے ہیں
-
-[Open on Quran.com](https://quran.com/11/70)
 
 #### 18:74 · [[018 Al-Kahf]]
 
@@ -83,42 +62,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** ذوالقرنین نے کہا کہ جو (کفر وبدکرداری سے) ظلم کرے گا اسے ہم عذاب دیں گے۔ پھر (جب) وہ اپنے پروردگار کی طرف لوٹایا جائے گا تو وہ بھی اسے بُرا عذاب دے گا
 
 [Open on Quran.com](https://quran.com/18/87)
-
-#### 27:41 · [[027 An-Naml]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالَ نَكِّرُوا۟ لَهَا عَرْشَهَا نَنظُرْ أَتَهْتَدِىٓ أَمْ تَكُونُ مِنَ ٱلَّذِينَ لَا يَهْتَدُونَ
-
-</div>
-
-**Word in this verse:** `نَكِّرُوا۟` — Disguise
-
-**English (Sahih International):** He said, "Disguise for her her throne; we will see whether she will be guided [to truth] or will be of those who is not guided."
-
-**English (Yusuf Ali):** He said: "Transform her throne out of all recognition by her: let us see whether she is guided (to the truth) or is one of those who receive no guidance."
-
-**Urdu (Fatah Muhammad Jalandhari):** سلیمان نے کہا کہ ملکہ کے (امتحان عقل کے) لئے اس کے تخت کی صورت بدل دو۔ دیکھیں کہ وہ سوجھ رکھتی ہے یا ان لوگوں میں ہے جو سوجھ نہیں رکھتے
-
-[Open on Quran.com](https://quran.com/27/41)
-
-#### 54:6 · [[054 Al-Qamar]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ
-
-</div>
-
-**Word in this verse:** `نُّكُرٍ` — terrible
-
-**English (Sahih International):** So leave them, [O Muḥammad]. The Day the Caller calls to something forbidding,
-
-**English (Yusuf Ali):** Therefore, (O Prophet,) turn away from them. The Day that the Caller will call (them) to a terrible affair,
-
-**Urdu (Fatah Muhammad Jalandhari):** تو تم بھی ان کی کچھ پروا نہ کرو۔ جس دن بلانے والا ان کو ایک ناخوش چیز کی طرف بلائے گا
-
-[Open on Quran.com](https://quran.com/54/6)
 
 #### 65:8 · [[065 At-Talaq]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** inheritors · **Root:** ورث
 
+
 ### Words (wikilinks — these create the graph)
 - [[>wrv - we caused inherit]]
 - [[wArv - inheritors]]

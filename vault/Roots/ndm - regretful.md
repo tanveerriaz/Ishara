@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** regretful · **Root:** ندم
 
+
 ### Words (wikilinks — these create the graph)
 - [[nAdm - regretful]]
 

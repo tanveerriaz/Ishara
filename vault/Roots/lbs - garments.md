@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** garments · **Root:** لبس
 
+
 ### Words (wikilinks — these create the graph)
 - [[lbAs - garments]]
 - [[lbs - mix]]

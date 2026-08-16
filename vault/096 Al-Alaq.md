@@ -14,31 +14,31 @@ The Clot · 19 ayahs
 
 ## Words in this surah (graph)
 
-- [[<nsAn - man]] — `إِنسان` · man
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[>krm - make comfortable]] — `أَكْرَمَ` · make comfortable
-- [[qlm - by pen]] — `قَلَم` · by pen
-- [[rb - lord]] — `رَبّ` · lord
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[sjd - prostrate]] — `سَجَدَ` · prostrate
-- [[dEA - call]] — `دَعا` · call
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
 - [[>TAE - obey]] — `أَطاعَ` · obey
-- [[AnthY - you desist]] — `انتَهَى` · you desist
-- [[allah - God]] — `الله` · God
-- [[>mr - command]] — `أَمَرَ` · command
-- [[TgY - has transgressed]] — `طَغَى` · has transgressed
-- [[hdY - guidance]] — `هَدَى` · guidance
 - [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
-- [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
 - [[SlY - send blessings]] — `صَلَّى` · send blessings
-- [[nhY - forbid]] — `نَهَى` · forbid
+- [[rb - lord]] — `رَبّ` · lord
+- [[qlm - by pen]] — `قَلَم` · by pen
+- [[AnthY - you desist]] — `انتَهَى` · you desist
 - [[Asm - name]] — `اسْم` · name
-- [[Elm - know]] — `عَلِمَ` · know
-- [[kA*b - liars]] — `كاذِب` · liars
+- [[allah - God]] — `الله` · God
+- [[>mr - enjoin]] — `أَمَرَ` · enjoin
+- [[dEA - call]] — `دَعا` · call
 - [[qr> - read]] — `قَرَأَ` · read
-- [[kAn - is]] — `كانَ` · is
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[TgY - has transgressed]] — `طَغَى` · has transgressed
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[Aqtrb - has approached]] — `اقْتَرَبَ` · has approached
+- [[xlq - created]] — `خَلَقَ` · created
+- [[nhY - forbid]] — `نَهَى` · forbid
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[hdY - guidance]] — `هُدًى` · guidance
+- [[kA*b - liars]] — `كاذِب` · liars
+- [[Elm - know]] — `عَلِمَ` · know
+- [[k*b - denied]] — `كَذَّبَ` · denied
+- [[sjd - prostrate]] — `سَجَدَ` · prostrate
+- [[Elm - he taught]] — `عَلَّمَ` · he taught
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[<nsAn - man]] — `إِنسان` · man
 
 ## Roots
 

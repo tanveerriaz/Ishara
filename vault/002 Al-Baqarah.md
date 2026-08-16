@@ -14,31 +14,31 @@ The Cow · 286 ayahs
 
 ## Words in this surah (graph)
 
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[sbyl - way]] — `سَبِيل` · way
-- [[Elm - know]] — `عَلِمَ` · know
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[byn - between them]] — `بَيْن` · between them
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[mvl - example]] — `مَثَل` · example
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[kAfr - disbelievers]] — `كافِر` · disbelievers
-- [[dnyA - world]] — `دُنْيا` · world
-- [[qtl - kill]] — `قَتَلَ` · kill
-- [[mAl - wealth]] — `مال` · wealth
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[qbl - before]] — `قَبْل` · before
-- [[>rD - earth]] — `أَرْض` · earth
-- [[>y - o you]] — `أَيّ` · o you
-- [[qlb - hearts]] — `قَلْب` · hearts
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[Eml - do]] — `عَمِلَ` · do
-- [[jnAH - blame]] — `جُناح` · blame
-- [[bEd - after]] — `بَعْد` · after
-- [[End - near]] — `عِند` · near
+- [[>nfq - spend]] — `أَنفَقَ` · spend
 - [[rswl - messenger]] — `رَسُول` · messenger
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[fDl - bounty]] — `فَضَّلَ` · bounty
+- [[byn - between them]] — `بَيْن` · between them
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[byn - makes clear]] — `بَيَّنُ` · makes clear
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[nAs - people]] — `ناس` · people
+- [[mErwf - fair manner]] — `مَعْرُوف` · fair manner
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[ktAb - book]] — `كِتاب` · book
+- [[Ayp - signs]] — `آيَة` · signs
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[>rD - earth]] — `أَرْض` · earth
+- [[dnyA - world]] — `دُنْيا` · world
+- [[ksb - earn]] — `كَسَبَ` · earn
+- [[mAl - wealth]] — `مال` · wealth
+- [[>x* - we took]] — `أَخَذَ` · we took
+- [[Elm - know]] — `عَلِمَ` · know
+- [[qAl - say]] — `قالَ` · say
+- [[jnAH - blame]] — `جُناح` · blame
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[qlb - hearts]] — `قَلْب` · hearts
 
 ## Roots
 
@@ -61,8 +61,8 @@ The Cow · 286 ayahs
 - [[$wr - gather honey]]
 - [[$y> - thing]]
 - [[*bH - slaughtering]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[*rr - offspring]]
 - [[>*n - by permission]]

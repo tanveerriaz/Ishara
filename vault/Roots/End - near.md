@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** near · **Root:** عند
 
+
 ### Words (wikilinks — these create the graph)
 - [[End - near]]
 - [[Enyd - obstinate]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** dispersing · **Root:** بثث
 
+
 ### Words (wikilinks — these create the graph)
 - [[bv - dispersing]]
 

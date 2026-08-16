@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** harvest clean-mown · **Root:** حصد
 
+
 ### Words (wikilinks — these create the graph)
 - [[HSyd - harvest clean-mown]]
 

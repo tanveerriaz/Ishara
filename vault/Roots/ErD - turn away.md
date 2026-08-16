@@ -11,9 +11,12 @@ tags: [root, meaning]
 
 **Sense:** turn away · **Root:** عرض
 
+
 ### Words (wikilinks — these create the graph)
 - [[>ErD - turn away]]
+- [[ErD - goods]]
 - [[ErD - its width]]
+- [[ErD - will presented]]
 - [[mErD - turn away]]
 
 ### Surahs where this root appears

@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** judgment · **Root:** دين
 
+
 ### Words (wikilinks — these create the graph)
+- [[dyn - any debt]]
 - [[dyn - religion]]
 
 ### Surahs where this root appears

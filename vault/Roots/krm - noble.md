@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** noble · **Root:** كرم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>krm - make comfortable]]
+- [[>krm - noble you]]
 - [[krym - noble]]
 - [[mkrm - honored]]
 

@@ -3,7 +3,7 @@ type: word
 lemma: "وَجْه"
 slug: "wjh - faces"
 surah_count: 38
-ayah_count: 67
+ayah_count: 66
 tags: [word, meaning]
 ---
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/106)
 
-_…and **57** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **56** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

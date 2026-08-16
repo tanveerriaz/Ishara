@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** slander · **Root:** بهت
 
+
 ### Words (wikilinks — these create the graph)
 - [[bhtAn - slander]]
 

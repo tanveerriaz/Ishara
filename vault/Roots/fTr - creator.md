@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** creator · **Root:** فطر
 
+
 ### Words (wikilinks — these create the graph)
 - [[fATr - creator]]
 - [[fTr - created me]]

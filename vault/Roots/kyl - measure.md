@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** measure · **Root:** كيل
 
+
 ### Words (wikilinks — these create the graph)
 - [[kyl - measure]]
 

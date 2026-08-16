@@ -2,8 +2,8 @@
 type: word
 lemma: "عِجْل"
 slug: "Ejl - calf"
-surah_count: 14
-ayah_count: 21
+surah_count: 6
+ayah_count: 10
 tags: [word, meaning]
 ---
 
@@ -19,21 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **calf** · Lemma **عِجْل**
 
-### Surahs (14)
+### Surahs (6)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
 - [[007 Al-Araf]]
-- [[010 Yunus]]
 - [[011 Hud]]
-- [[017 Al-Isra]]
-- [[018 Al-Kahf]]
-- [[019 Maryam]]
 - [[020 Taha]]
-- [[021 Al-Anbya]]
-- [[038 Sad]]
-- [[048 Al-Fath]]
 - [[051 Adh-Dhariyat]]
-- [[075 Al-Qiyamah]]
 
 ## Verses (full text)
 
@@ -147,24 +139,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/148)
 
-#### 7:150 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَـٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ بَعْدِىٓ ۖ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ ۖ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيْهِ ۚ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ
-
-</div>
-
-**Word in this verse:** `أَعَجِلْتُمْ` — Were you impatient
-
-**English (Sahih International):** And when Moses returned to his people, angry and grieved, he said, "How wretched is that by which you have replaced me after [my departure]. Were you impatient over the matter of your Lord?" And he threw down the tablets and seized his brother by [the hair of] his head, pulling him toward him. [Aaron] said, "O son of my mother, indeed the people overpowered me and were about to kill me, so let not the enemies rejoice over me and do not place me among the wrongdoing people."
-
-**English (Yusuf Ali):** When Moses came back to his people, angry and grieved, he said: "Evil it is that ye have done in my place in my absence: did ye make haste to bring on the judgment of your Lord?" He put down the tablets, seized his brother by (the hair of) his head, and dragged him to him. Aaron said: "Son of my mother! the people did indeed reckon me as naught, and went near to slaying me! Make not the enemies rejoice over my misfortune, nor count thou me amongst the people of sin."
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ اپنی قوم میں نہایت غصے اور افسوس کی حالت میں واپس آئے۔ تو کہنے لگے کہ تم نے میرے بعد بہت ہی بداطواری کی۔ کیا تم نے اپنے پروردگار کا حکم (یعنی میرا اپنے پاس آنا) جلد چاہا (یہ کہا) اور (شدت غضب سے تورات کی) تختیاں ڈال دیں اور اپنے بھائی کے سر (کے بالوں) کو پکڑ کر اپنی طرف کھینچنے لگے۔ انہوں نے کہا کہ بھائی جان لوگ تو مجھے کمزور سمجھتے تھے اور قریب تھا کہ قتل کردیں۔ تو ایسا کام نہ کیجیے کہ دشمن مجھ پر ہنسیں اور مجھے ظالم لوگوں میں مت ملایئے
-
-[Open on Quran.com](https://quran.com/7/150)
-
 #### 7:152 · [[007 Al-Araf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -182,24 +156,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** (خدا نے فرمایا کہ) جن لوگوں نے بچھڑے کو (معبود) بنا لیا تھا ان پر پروردگار کا غضب واقع ہوگا اور دنیا کی زندگی میں ذلت (نصیب ہوگی) اور ہم افتراء پردازوں کو ایسا ہی بدلہ دیا کرتے ہیں
 
 [Open on Quran.com](https://quran.com/7/152)
-
-#### 10:11 · [[010 Yunus]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ وَلَوْ يُعَجِّلُ ٱللَّهُ لِلنَّاسِ ٱلشَّرَّ ٱسْتِعْجَالَهُم بِٱلْخَيْرِ لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ ۖ فَنَذَرُ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا فِى طُغْيَـٰنِهِمْ يَعْمَهُونَ
-
-</div>
-
-**Word in this verse:** `يُعَجِّلُ` — hastens
-
-**English (Sahih International):** And if Allāh was to hasten for the people the evil [they invoke] as He hastens for them the good, their term would have been ended for them. But We leave the ones who do not expect the meeting with Us, in their transgression, wandering blindly.
-
-**English (Yusuf Ali):** If Allah were to hasten for men the ill (they have earned) as they would fain hasten on the good,- then would their respite be settled at once. But We leave those who rest not their hope on their meeting with Us, in their trespasses, wandering in distraction to and fro.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اگر خدا لوگوں کی برائی میں جلدی کرتا جس طرح وہ طلب خیر میں جلدی کرتے ہیں۔ تو ان کی (عمر کی) میعاد پوری ہوچکی ہوتی سو جن لوگوں کو ہم سے ملنے کی توقع نہیں انہیں ہم چھوڑے رکھتے ہیں کہ اپنی سرکشی میں بہکتے رہیں
-
-[Open on Quran.com](https://quran.com/10/11)
 
 #### 11:69 · [[011 Hud]]
 
@@ -219,5 +175,39 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/11/69)
 
-_…and **11** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 20:88 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَـٰذَآ إِلَـٰهُكُمْ وَإِلَـٰهُ مُوسَىٰ فَنَسِىَ
+
+</div>
+
+**Word in this verse:** `عِجْلًۭا` — a calf's
+
+**English (Sahih International):** And he extracted for them [the statue of] a calf which had a lowing sound, and they said, "This is your god and the god of Moses, but he forgot."
+
+**English (Yusuf Ali):** "Then he brought out (of the fire) before the (people) the image of a calf: It seemed to low: so they said: This is your god, and the god of Moses, but (Moses) has forgotten!"
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اس نے ان کے لئے ایک بچھڑا بنا دیا (یعنی اس کا) قالب جس کی آواز گائے کی سی تھی۔ تو لوگ کہنے لگے کہ یہی تمہارا معبود ہے اور موسیٰ کا بھی معبود ہے۔ مگر وہ بھول گئے ہیں
+
+[Open on Quran.com](https://quran.com/20/88)
+
+#### 51:26 · [[051 Adh-Dhariyat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ
+
+</div>
+
+**Word in this verse:** `بِعِجْلٍۢ` — with a calf
+
+**English (Sahih International):** Then he went to his family and came with a fat [roasted] calf.
+
+**English (Yusuf Ali):** Then he turned quickly to his household, brought out a fatted calf,
+
+**Urdu (Fatah Muhammad Jalandhari):** تو اپنے گھر جا کر ایک (بھنا ہوا) موٹا بچھڑا لائے
+
+[Open on Quran.com](https://quran.com/51/26)
 

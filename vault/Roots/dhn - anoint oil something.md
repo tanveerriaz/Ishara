@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** anoint oil something · **Root:** دهن
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

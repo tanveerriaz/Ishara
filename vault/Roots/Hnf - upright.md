@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** upright · **Root:** حنف
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hnyf - upright]]
 

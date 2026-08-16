@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** drive away · **Root:** دحر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

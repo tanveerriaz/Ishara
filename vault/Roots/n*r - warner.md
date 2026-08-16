@@ -11,10 +11,13 @@ tags: [root, meaning]
 
 **Sense:** warner · **Root:** نذر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>n*r - warn]]
 - [[mn*r - warners]]
+- [[mn*r - were warned]]
 - [[n*r - vows]]
+- [[n*r - you vow]]
 - [[n*yr - warner]]
 
 ### Surahs where this root appears

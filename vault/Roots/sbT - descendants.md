@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** descendants · **Root:** سبط
 
+
 ### Words (wikilinks — these create the graph)
 - [[>sbAT - descendants]]
 

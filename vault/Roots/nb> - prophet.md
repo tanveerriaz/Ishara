@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** prophet · **Root:** نبأ
 
+
 ### Words (wikilinks — these create the graph)
+- [[nb> - inform them]]
 - [[nb> - news]]
 - [[nbwp - prophethood]]
 - [[nby - prophet]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** companion · **Root:** صحب
 
+
 ### Words (wikilinks — these create the graph)
 - [[>SHAb - companions]]
 - [[SAHb - companion]]

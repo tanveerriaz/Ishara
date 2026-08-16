@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** expect · **Root:** رجو
 
+
 ### Words (wikilinks — these create the graph)
 - [[trjy - postpone him]]
 - [[yrjwA - expect]]

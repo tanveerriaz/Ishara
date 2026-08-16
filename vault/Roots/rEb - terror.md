@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** terror · **Root:** رعب
 
+
 ### Words (wikilinks — these create the graph)
 - [[rEb - terror]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** victorious · **Root:** غلب
 
+
 ### Words (wikilinks — these create the graph)
 - [[gAlb - victorious]]
 - [[glb - overcame]]

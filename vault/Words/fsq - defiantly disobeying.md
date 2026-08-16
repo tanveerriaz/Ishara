@@ -2,8 +2,8 @@
 type: word
 lemma: "فَسَقَ"
 slug: "fsq - defiantly disobeying"
-surah_count: 10
-ayah_count: 13
+surah_count: 9
+ayah_count: 10
 tags: [word, meaning]
 ---
 
@@ -19,9 +19,8 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **defiantly disobeying** · Lemma **فَسَقَ**
 
-### Surahs (10)
+### Surahs (9)
 - [[002 Al-Baqarah]]
-- [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[010 Yunus]]
@@ -53,24 +52,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/59)
 
-#### 5:3 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ ۙ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
-
-</div>
-
-**Word in this verse:** `فِسْقٌ ۗ` — (is) grave disobedience
-
-**English (Sahih International):** Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful.
-
-**English (Yusuf Ali):** Forbidden to you (for food) are: dead meat, blood, the flesh of swine, and that on which hath been invoked the name of other than Allah; that which hath been killed by strangling, or by a violent blow, or by a headlong fall, or by being gored to death; that which hath been (partly) eaten by a wild animal; unless ye are able to slaughter it (in due form); that which is sacrificed on stone (altars); (forbidden) also is the division (of meat) by raffling with arrows: that is impiety. This day have those who reject faith given up all hope of your religion: yet fear them not but fear Me. This day have I perfected your religion for you, completed My favour upon you, and have chosen for you Islam as your religion. But if any is forced by hunger, with no inclination to transgression, Allah is indeed Oft-forgiving, Most Merciful.
-
-**Urdu (Fatah Muhammad Jalandhari):** تم پر مرا ہوا جانور اور (بہتا) لہو اور سور کا گوشت اور جس چیز پر خدا کے سوا کسی اور کا نام پکارا جائے اور جو جانور گلا گھٹ کر مر جائے اور جو چوٹ لگ کر مر جائے اور جو گر کر مر جائے اور جو سینگ لگ کر مر جائے یہ سب حرام ہیں اور وہ جانور بھی جس کو درندے پھاڑ کھائیں۔ مگر جس کو تم (مرنے سے پہلے) ذبح کرلو اور وہ جانور بھی جو تھان پر ذبح کیا جائے اور یہ بھی کہ پاسوں سے قسمت معلوم کرو یہ سب گناہ (کے کام) ہیں آج کافر تمہارے دین سے ناامید ہو گئے ہیں تو ان سے مت ڈرو اور مجھی سے ڈرتے رہو (اور) آج ہم نے تمہارے لئے تمہارا دین کامل کر دیا اور اپنی نعمتیں تم پر پوری کر دیں اور تمہارے لئے اسلام کو دین پسند کیا ہاں جو شخص بھوک میں ناچار ہو جائے (بشرطیکہ) گناہ کی طرف مائل نہ ہو تو خدا بخشنے والا مہربان ہے
-
-[Open on Quran.com](https://quran.com/5/3)
-
 #### 6:49 · [[006 Al-Anam]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -88,42 +69,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے ہماری آیتوں کو جھٹلایا ان کی نافرمانیوں کے سبب انہیں عذاب ہوگا
 
 [Open on Quran.com](https://quran.com/6/49)
-
-#### 6:121 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَا تَأْكُلُوا۟ مِمَّا لَمْ يُذْكَرِ ٱسْمُ ٱللَّهِ عَلَيْهِ وَإِنَّهُۥ لَفِسْقٌ ۗ وَإِنَّ ٱلشَّيَـٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوْلِيَآئِهِمْ لِيُجَـٰدِلُوكُمْ ۖ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ
-
-</div>
-
-**Word in this verse:** `لَفِسْقٌۭ ۗ` — grave disobedience
-
-**English (Sahih International):** And do not eat of that upon which the name of Allāh has not been mentioned, for indeed, it is grave disobedience. And indeed do the devils inspire their allies [among men] to dispute with you. And if you were to obey them, indeed, you would be associators [of others with Him].
-
-**English (Yusuf Ali):** Eat not of (meats) on which Allah's name hath not been pronounced: That would be impiety. But the evil ones ever inspire their friends to contend with you if ye were to obey them, ye would indeed be Pagans.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جس چیز پر خدا کا نام نہ لیا جائے اسے مت کھاؤ کہ اس کا کھانا گناہ ہے اور شیطان (لوگ) اپنے رفیقوں کے دلوں میں یہ بات ڈالتے ہیں کہ تم سے جھگڑا کریں اور اگر تم لوگ ان کے کہے پر چلے تو بےشک تم بھی مشرک ہوئے
-
-[Open on Quran.com](https://quran.com/6/121)
-
-#### 6:145 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۚ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ
-
-</div>
-
-**Word in this verse:** `فِسْقًا` — (it be) disobedience
-
-**English (Sahih International):** Say, "I do not find within that which was revealed to me [anything] forbidden to one who would eat it unless it be a dead animal or blood spilled out or the flesh of swine - for indeed, it is impure - or it be [that slaughtered in] disobedience, dedicated to other than Allāh. But whoever is forced [by necessity], neither desiring [it] nor transgressing [its limit], then indeed, your Lord is Forgiving and Merciful."
-
-**English (Yusuf Ali):** Say: "I find not in the message received by me by inspiration any (meat) forbidden to be eaten by one who wishes to eat it, unless it be dead meat, or blood poured forth, or the flesh of swine,- for it is an abomination - or, what is impious, (meat) on which a name has been invoked, other than Allah's". But (even so), if a person is forced by necessity, without wilful disobedience, nor transgressing due limits,- thy Lord is Oft-forgiving, Most Merciful.
-
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ جو احکام مجھ پر نازل ہوئے ہیں ان میں کوئی چیز جسے کھانے والا کھائے حرام نہیں پاتا بجز اس کے کہ وہ مرا ہوا جانور یا بہتا لہو یا سور کا گوشت کہ یہ سب ناپاک ہیں یا کوئی گناہ کی چیز ہو کہ اس پر خدا کے سوا کسی اور کا نام لیا گیا ہو اور اگر کوئی مجبور ہو جائے لیکن نہ تو نافرمانی کرے اور نہ حد سے باہر نکل جائے تو تمہارا پروردگار بخشنے والا مہربان ہے
-
-[Open on Quran.com](https://quran.com/6/145)
 
 #### 7:163 · [[007 Al-Araf]]
 
@@ -215,5 +160,57 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/18/50)
 
-_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 29:34 · [[029 Al-Ankabut]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَـٰذِهِ ٱلْقَرْيَةِ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَفْسُقُونَ
+
+</div>
+
+**Word in this verse:** `يَفْسُقُونَ` — defiantly disobedient
+
+**English (Sahih International):** Indeed, we will bring down on the people of this city punishment from the sky because they have been defiantly disobedient."
+
+**English (Yusuf Ali):** "For we are going to bring down on the people of this township a Punishment from heaven, because they have been wickedly rebellious."
+
+**Urdu (Fatah Muhammad Jalandhari):** ہم اس بستی کے رہنے والوں پر اس سبب سے کہ یہ بدکرداری کرتے رہے ہیں آسمان سے عذاب نازل کرنے والے ہیں
+
+[Open on Quran.com](https://quran.com/29/34)
+
+#### 32:20 · [[032 As-Sajdah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَأَمَّا ٱلَّذِينَ فَسَقُوا۟ فَمَأْوَىٰهُمُ ٱلنَّارُ ۖ كُلَّمَآ أَرَادُوٓا۟ أَن يَخْرُجُوا۟ مِنْهَآ أُعِيدُوا۟ فِيهَا وَقِيلَ لَهُمْ ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ
+
+</div>
+
+**Word in this verse:** `فَسَقُوا۟` — are defiantly disobedient
+
+**English (Sahih International):** But as for those who defiantly disobeyed, their refuge is the Fire. Every time they wish to emerge from it, they will be returned to it while it is said to them, "Taste the punishment of the Fire which you used to deny."
+
+**English (Yusuf Ali):** As to those who are rebellious and wicked, their abode will be the Fire: every time they wish to get away therefrom, they will be forced thereinto, and it will be said to them: "Taste ye the Penalty of the Fire, the which ye were wont to reject as false."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جنہوں نے نافرمانی کی اُن کے رہنے کے لئے دوزخ ہے جب چاہیں گے کہ اس میں سے نکل جائیں تو اس میں لوٹا دیئے جائیں گے۔ اور اُن سے کہا جائے گا کہ جس دوزخ کے عذاب کو تم جھوٹ سمجھتے تھے اس کے مزے چکھو
+
+[Open on Quran.com](https://quran.com/32/20)
+
+#### 46:20 · [[046 Al-Ahqaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَذْهَبْتُمْ طَيِّبَـٰتِكُمْ فِى حَيَاتِكُمُ ٱلدُّنْيَا وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ
+
+</div>
+
+**Word in this verse:** `تَفْسُقُونَ` — defiantly disobedient
+
+**English (Sahih International):** And the Day those who disbelieved are exposed to the Fire [it will be said], "You exhausted your pleasures during your worldly life and enjoyed them, so this Day you will be awarded the punishment of [extreme] humiliation because you were arrogant upon the earth without right and because you were defiantly disobedient."
+
+**English (Yusuf Ali):** And on the Day that the Unbelievers will be placed before the Fire, (It will be said to them): "Ye received your good things in the life of the world, and ye took your pleasure out of them: but today shall ye be recompensed with a Penalty of humiliation: for that ye were arrogant on earth without just cause, and that ye (ever) transgressed."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن کافر دوزخ کے سامنے کئے جائیں گے (تو کہا جائے گا کہ) تم اپنی دنیا کی زندگی میں لذتیں حاصل کرچکے اور ان سے متمتع ہوچکے سو آج تم کو ذلت کا عذاب ہے، (یہ) اس کی سزا (ہے) کہ تم زمین میں ناحق غرور کیا کرتے تھے۔ اور اس کی بدکرداری کرتے تھے
+
+[Open on Quran.com](https://quran.com/46/20)
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hatred · **Root:** مقت
 
+
 ### Words (wikilinks — these create the graph)
 - [[mqt - hatred]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** deterrent punishment · **Root:** نكل
 
+
 ### Words (wikilinks — these create the graph)
 - [[nkAl - deterrent punishment]]
 

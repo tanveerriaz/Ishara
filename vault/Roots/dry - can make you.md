@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** can make you · **Root:** دري
 
+
 ### Words (wikilinks — these create the graph)
 - [[>drY - can make you]]
 - [[tdry - i know]]

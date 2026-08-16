@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** bring · **Root:** هات
 
+
 ### Words (wikilinks — these create the graph)
 - [[hAt - bring]]
 

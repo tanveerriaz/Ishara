@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** forelock front part · **Root:** نصي
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

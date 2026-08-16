@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** would fall · **Root:** وقع
 
+
 ### Words (wikilinks — these create the graph)
 - [[wAqE - would fall]]
 - [[wqE - became incumbent]]

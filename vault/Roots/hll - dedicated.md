@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** dedicated · **Root:** هلل
 
+
 ### Words (wikilinks — these create the graph)
 - [[>hl - dedicated]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** draw out extract · **Root:** سلل
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

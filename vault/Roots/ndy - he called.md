@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** he called · **Root:** ندي
 
+
 ### Words (wikilinks — these create the graph)
 - [[nAdY - he called]]
 

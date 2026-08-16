@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** way · **Root:** سنن
 
+
 ### Words (wikilinks — these create the graph)
 - [[snp - way]]
 

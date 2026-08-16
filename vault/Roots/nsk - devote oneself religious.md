@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** devote oneself religious · **Root:** نسك
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

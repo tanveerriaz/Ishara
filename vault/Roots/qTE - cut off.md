@@ -11,8 +11,12 @@ tags: [root, meaning]
 
 **Sense:** cut off · **Root:** قطع
 
+
 ### Words (wikilinks — these create the graph)
 - [[qTE - cut off]]
+- [[qTE - part]]
+- [[qTE - pieces]]
+- [[qTE - they cut]]
 - [[tqTE - cut pieces]]
 
 ### Surahs where this root appears

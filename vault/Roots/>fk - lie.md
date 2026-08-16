@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** lie · **Root:** أفك
 
+
 ### Words (wikilinks — these create the graph)
 - [[<fk - lie]]
 - [[>fk - they deluded]]

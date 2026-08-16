@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** we sent · **Root:** بعث
 
+
 ### Words (wikilinks — these create the graph)
+- [[bEv - resurrection]]
 - [[bEv - we sent]]
 - [[mbEwv - will resurrected]]
 

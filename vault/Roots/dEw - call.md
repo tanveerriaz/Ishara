@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** call · **Root:** دعو
 
+
 ### Words (wikilinks — these create the graph)
 - [[dAEy - caller]]
 - [[dEA - call]]

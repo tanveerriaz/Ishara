@@ -14,31 +14,31 @@ The Moon · 55 ayahs
 
 ## Words in this surah (graph)
 
-- [[ysr - ease]] — `يُسْر` · ease
+- [[ysr - ease]] — `يَسَّرَ` · ease
+- [[mstqr - placed]] — `مُسْتَقِرّ` · placed
 - [[k*Ab - liar]] — `كَذّاب` · liar
 - [[mqtdr - all able]] — `مُقْتَدِر` · all able
 - [[zbr - scriptures]] — `زُبُر` · scriptures
-- [[Hkmp - wisdom]] — `حِكْمَة` · wisdom
-- [[ASTbr - constant]] — `اصْطَبِرْ` · constant
-- [[SAHb - companion]] — `صاحِب` · companion
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[Artqb - watch]] — `ارْتَقِبْ` · watch
+- [[mntSr - he supported]] — `مُنتَصِر` · he supported
+- [[nxl - date-palms]] — `نَخْل` · date-palms
+- [[nAqp - she-camel]] — `ناقَة` · she-camel
+- [[dEA - call]] — `دَعا` · call
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[ms - touch]] — `مَسّ` · touch
+- [[ftH - we opened]] — `فَتَحَ` · we opened
+- [[Tmst - we efface]] — `طُمِسَتْ` · we efface
+- [[SyHp - shout]] — `صَيْحَة` · shout
+- [[$yEp - sects]] — `شِيعَة` · sects
+- [[byn - between them]] — `بَيْن` · between them
+- [[sHr - magic]] — `سِحْر` · magic
+- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[AltqY - met]] — `الْتَقَى` · met
 - [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[$kr - grateful]] — `شَكَرَ` · grateful
-- [[Sgyr - small]] — `صَغِير` · small
-- [[wjh - faces]] — `وَجْه` · faces
-- [[qbl - before]] — `قَبْل` · before
-- [[qsmp - division]] — `قِسْمَة` · division
-- [[>rD - earth]] — `أَرْض` · earth
-- [[Elm - know]] — `عَلِمَ` · know
-- [[bSr - vision]] — `بَصَر` · vision
-- [[bAb - gate]] — `باب` · gate
-- [[xA$E - humbled]] — `خاشِع` · humbled
-- [[Eqr - hamstrung]] — `عَقَرَ` · hamstrung
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[ryH - wind]] — `رِيح` · wind
+- [[sHr - before dawn]] — `سَحَر` · before dawn
+- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
+- [[>x* - we took]] — `أَخَذَ` · we took
 
 ## Roots
 
@@ -47,7 +47,7 @@ The Moon · 55 ayahs
 - [[$rb - drink]]
 - [[$y> - thing]]
 - [[$yE - sects]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*wq - taste]]
 - [[>mr - command]]
 - [[>ns - people]]
@@ -83,7 +83,7 @@ The Moon · 55 ayahs
 - [[Tms - we efface]]
 - [[b$r - man]]
 - [[bSr - all-seer]]
-- [[bT$ - you seize]]
+- [[bT$ - power]]
 - [[bkr - morning]]
 - [[blg - conveyance]]
 - [[br> - innocent]]

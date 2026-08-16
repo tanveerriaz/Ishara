@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** stage · **Root:** طبق
 
+
 ### Words (wikilinks — these create the graph)
 - [[Tbq - stage]]
 

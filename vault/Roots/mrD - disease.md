@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** disease · **Root:** مرض
 
+
 ### Words (wikilinks — these create the graph)
 - [[mrD - disease]]
 - [[mryD - sick]]

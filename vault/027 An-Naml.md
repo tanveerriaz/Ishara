@@ -14,31 +14,31 @@ The Ant · 93 ayahs
 
 ## Words in this surah (graph)
 
+- [[jn - gardens]] — `جِنّ` · gardens
 - [[mdbr - fleeing]] — `مُدْبِر` · fleeing
-- [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[fzE - terror]] — `فَزَع` · terror
-- [[ywqn - certain]] — `يُوقِنُ` · certain
+- [[mkr - plan]] — `مَكْر` · plan
 - [[wqE - became incumbent]] — `وَقَعَ` · became incumbent
+- [[>Eln - they declare]] — `أَعْلَن` · they declare
+- [[jnd - hosts]] — `جُند` · hosts
+- [[ywqn - certain]] — `يُوقِنُ` · certain
+- [[k$f - we removed]] — `كَشَفَ` · we removed
 - [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
 - [[>*lp - weak]] — `أَذِلَّة` · weak
-- [[jnd - hosts]] — `جُند` · hosts
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[yfty - explain me]] — `يُفْتِي` · explain me
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[fryq - party]] — `فَرِيق` · party
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[jwAb - answer]] — `جَواب` · answer
-- [[*bH - you slaughter]] — `ذُبِحَ` · you slaughter
-- [[sbyl - way]] — `سَبِيل` · way
-- [[Tyr - birds]] — `طَيْر` · birds
-- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[EsY - perhaps]] — `عَسَى` · perhaps
-- [[fwj - troop]] — `فَوْج` · troop
-- [[b>s - punishment]] — `بَأْس` · punishment
-- [[Elm - know]] — `عَلِمَ` · know
-- [[qDY - surely]] — `قَضَى` · surely
-- [[bd> - originates]] — `بَدَأَ` · originates
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[>HAT - they encompass]] — `أَحاطَ` · they encompass
+- [[mkr - plotted]] — `مَكَرَ` · plotted
+- [[dEA - call]] — `دَعا` · call
+- [[dAxr - humble]] — `داخِر` · humble
+- [[byn - between them]] — `بَيْن` · between them
+- [[mn*r - were warned]] — `مُنذَر` · were warned
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[brhAn - proof]] — `بُرْهان` · proof
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[jAn - any jinn]] — `جانّ` · any jinn
+- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
+- [[wEd - promise]] — `وَعْد` · promise
+- [[qdr - determined it]] — `قَدَّرَ` · determined it
+- [[Elw - haughtiness]] — `عُلُوّ` · haughtiness
 
 ## Roots
 
@@ -55,8 +55,8 @@ The Ant · 93 ayahs
 - [[$rk - polytheists]]
 - [[$y> - thing]]
 - [[*bH - slaughtering]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[>bw - forefathers]]
 - [[>hl - people]]

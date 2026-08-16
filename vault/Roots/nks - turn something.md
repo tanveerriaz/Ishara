@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** turn something · **Root:** نكس
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

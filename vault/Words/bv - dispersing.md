@@ -2,8 +2,8 @@
 type: word
 lemma: "بَثَّ"
 slug: "bv - dispersing"
-surah_count: 6
-ayah_count: 6
+surah_count: 5
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **dispersing** · Lemma **بَثَّ**
 
-### Surahs (6)
+### Surahs (5)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
-- [[012 Yusuf]]
 - [[031 Luqman]]
 - [[042 Ash-Shuraa]]
 - [[045 Al-Jathiyah]]
@@ -66,24 +65,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** لوگو اپنے پروردگار سے ڈرو جس نے تم کو ایک شخص سے پیدا کیا (یعنی اول) اس سے اس کا جوڑا بنایا۔ پھر ان دونوں سے کثرت سے مرد وعورت (پیدا کرکے روئے زمین پر) پھیلا دیئے۔ اور خدا سے جس کے نام کو تم اپنی حاجت بر آری کا ذریعہ بناتے ہو ڈرو اور (قطع مودت) ارحام سے (بچو) کچھ شک نہیں کہ خدا تمہیں دیکھ رہا ہے
 
 [Open on Quran.com](https://quran.com/4/1)
-
-#### 12:86 · [[012 Yusuf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ
-
-</div>
-
-**Word in this verse:** `بَثِّى` — (of) my suffering
-
-**English (Sahih International):** He said, "I only complain of my suffering and my grief to Allāh, and I know from Allāh that which you do not know.
-
-**English (Yusuf Ali):** He said: "I only complain of my distraction and anguish to Allah, and I know from Allah that which ye know not...
-
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ میں اپنے غم واندوہ کا اظہار خدا سے کرتا ہوں۔ اور خدا کی طرف سے وہ باتیں جانتا ہوں جو تم نہیں جانتے
-
-[Open on Quran.com](https://quran.com/12/86)
 
 #### 31:10 · [[031 Luqman]]
 

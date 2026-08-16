@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** intoxicated drunk · **Root:** سكر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

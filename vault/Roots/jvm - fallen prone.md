@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fallen prone · **Root:** جثم
 
+
 ### Words (wikilinks — these create the graph)
 - [[jAvm - fallen prone]]
 

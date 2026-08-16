@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** tree · **Root:** شجر
 
+
 ### Words (wikilinks — these create the graph)
 - [[$jr - trees]]
 - [[$jrp - tree]]

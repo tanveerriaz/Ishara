@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** striking calamity · **Root:** قرع
 
+
 ### Words (wikilinks — these create the graph)
 - [[qArEp - striking calamity]]
 

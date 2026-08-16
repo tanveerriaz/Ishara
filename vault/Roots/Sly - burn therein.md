@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** burn therein · **Root:** صلي
 
+
 ### Words (wikilinks — these create the graph)
 - [[ySlY - burn therein]]
 

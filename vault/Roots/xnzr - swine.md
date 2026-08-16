@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** swine · **Root:** خنزر
 
+
 ### Words (wikilinks — these create the graph)
 - [[xnzyr - swine]]
 

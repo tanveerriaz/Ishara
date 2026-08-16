@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** joined · **Root:** خلط
 
+
 ### Words (wikilinks — these create the graph)
 - [[AxtlT - joined]]
 

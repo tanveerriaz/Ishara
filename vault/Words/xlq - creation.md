@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "خَلَقَ"
+lemma: "خَلْق"
 slug: "xlq - creation"
-surah_count: 74
-ayah_count: 204
+surah_count: 30
+ayah_count: 46
 tags: [word, meaning]
 ---
 
@@ -17,74 +17,38 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[xlq - create]]
 
 ### Meaning
-**creation** · Lemma **خَلَقَ**
+**creation** · Lemma **خَلْق**
 
-### Surahs (74)
+### Surahs (30)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
-- [[005 Al-Maidah]]
-- [[006 Al-Anam]]
 - [[007 Al-Araf]]
-- [[009 At-Tawbah]]
 - [[010 Yunus]]
-- [[011 Hud]]
 - [[013 Ar-Rad]]
 - [[014 Ibrahim]]
-- [[015 Al-Hijr]]
-- [[016 An-Nahl]]
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
-- [[019 Maryam]]
 - [[020 Taha]]
 - [[021 Al-Anbya]]
-- [[022 Al-Hajj]]
 - [[023 Al-Muminun]]
-- [[024 An-Nur]]
-- [[025 Al-Furqan]]
-- [[026 Ash-Shuara]]
 - [[027 An-Naml]]
-- [[028 Al-Qasas]]
+- [[029 Al-Ankabut]]
+- [[030 Ar-Rum]]
+- [[031 Luqman]]
+- [[032 As-Sajdah]]
+- [[034 Saba]]
+- [[035 Fatir]]
+- [[036 Ya-Sin]]
+- [[037 As-Saffat]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[042 Ash-Shuraa]]
+- [[043 Az-Zukhruf]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:21 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلنَّاسُ ٱعْبُدُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُمْ وَٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
-
-</div>
-
-**Word in this verse:** `خَلَقَكُمْ` — created you
-
-**English (Sahih International):** O mankind, worship your Lord, who created you and those before you, that you may become righteous -
-
-**English (Yusuf Ali):** O ye people! Adore your Guardian-Lord, who created you and those who came before you, that ye may have the chance to learn righteousness;
-
-**Urdu (Fatah Muhammad Jalandhari):** لوگو! اپنے پروردگار کی عبات کرو جس نے تم کو اور تم سے پہلے لوگوں کو پیدا کیا تاکہ تم (اس کے عذاب سے) بچو
-
-[Open on Quran.com](https://quran.com/2/21)
-
-#### 2:29 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-هُوَ ٱلَّذِى خَلَقَ لَكُم مَّا فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ فَسَوَّىٰهُنَّ سَبْعَ سَمَـٰوَٰتٍ ۚ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
-
-</div>
-
-**Word in this verse:** `خَلَقَ` — created
-
-**English (Sahih International):** It is He who created for you all of that which is on the earth. Then He directed Himself to the heaven, [His being above all creation], and made them seven heavens, and He is Knowing of all things.
-
-**English (Yusuf Ali):** It is He Who hath created for you all things that are on earth; Moreover His design comprehended the heavens, for He gave order and perfection to the seven firmaments; and of all things He hath perfect knowledge.
-
-**Urdu (Fatah Muhammad Jalandhari):** وہی تو ہے جس نے سب چیزیں جو زمین میں ہیں تمہارے لیے پیدا کیں پھر آسمان کی طرف متوجہ ہوا تو ان کو ٹھیک سات آسمان بنا دیا اور وہ ہر چیز سے خبردار ہے
-
-[Open on Quran.com](https://quran.com/2/29)
 
 #### 2:164 · [[002 Al-Baqarah]]
 
@@ -103,78 +67,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** بےشک آسمانوں اور زمین کے پیدا کرنے میں اور رات اور دن کے ایک دوسرے کے پیچھے آنے جانے میں اور کشتیوں اور جہازوں میں جو دریا میں لوگوں کے فائدے کی چیزیں لے کر رواں ہیں اور مینہ میں جس کو خدا آسمان سے برساتا اور اس سے زمین کو مرنے کے بعد زندہ (یعنی خشک ہوئے پیچھے سرسبز) کردیتا ہے اور زمین پر ہر قسم کے جانور پھیلانے میں اور ہواؤں کے چلانےمیں اور بادلوں میں جو آسمان اور زمین کے درمیان گھرے رہتے ہیں۔ عقلمندوں کے لئے (خدا کی قدرت کی) نشانیاں ہیں
 
 [Open on Quran.com](https://quran.com/2/164)
-
-#### 2:228 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَٱلْمُطَلَّقَـٰتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَـٰثَةَ قُرُوٓءٍ ۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِىٓ أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِى ذَٰلِكَ إِنْ أَرَادُوٓا۟ إِصْلَـٰحًا ۚ وَلَهُنَّ مِثْلُ ٱلَّذِى عَلَيْهِنَّ بِٱلْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
-
-</div>
-
-**Word in this verse:** `خَلَقَ` — (has been) created
-
-**English (Sahih International):** Divorced women remain in waiting [i.e., do not remarry] for three periods, and it is not lawful for them to conceal what Allāh has created in their wombs if they believe in Allāh and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to them [i.e., the wives] is similar to what is expected of them, according to what is reasonable. But the men [i.e., husbands] have a degree over them [in responsibility and authority]. And Allāh is Exalted in Might and Wise.
-
-**English (Yusuf Ali):** Divorced women shall wait concerning themselves for three monthly periods. Nor is it lawful for them to hide what Allah Hath created in their wombs, if they have faith in Allah and the Last Day. And their husbands have the better right to take them back in that period, if they wish for reconciliation. And women shall have rights similar to the rights against them, according to what is equitable; but men have a degree (of advantage) over them. And Allah is Exalted in Power, Wise.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور طلاق والی عورتیں تین حیض تک اپنی تئیں روکے رہیں۔ اور اگر وہ خدا اور روز قیامت پر ایمان رکھتی ہیں تو ان کا جائز نہیں کہ خدا نے جو کچھ ان کے شکم میں پیدا کیا ہے اس کو چھپائیں۔ اور ان کے خاوند اگر پھر موافقت چاہیں تو اس (مدت) میں وہ ان کو اپنی زوجیت میں لے لینے کے زیادہ حقدار ہیں۔ اور عورتوں کا حق (مردوں پر) ویسا ہی ہے جیسے دستور کے مطابق (مردوں کا حق) عورتوں پر ہے۔ البتہ مردوں کو عورتوں پر فضیلت ہے۔ اور خدا غالب (اور) صاحب حکمت ہے
-
-[Open on Quran.com](https://quran.com/2/228)
-
-#### 3:47 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
-
-</div>
-
-**Word in this verse:** `يَخْلُقُ` — creates
-
-**English (Sahih International):** She said, "My Lord, how will I have a child when no man has touched me?" [The angel] said, "Such is Allāh; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is.
-
-**English (Yusuf Ali):** She said: "O my Lord! How shall I have a son when no man hath touched me?" He said: "Even so: Allah createth what He willeth: When He hath decreed a plan, He but saith to it, 'Be,' and it is!
-
-**Urdu (Fatah Muhammad Jalandhari):** مریم نے کہا پروردگار میرے ہاں بچہ کیونکر ہوگا کہ کسی انسان نے مجھے ہاتھ تک تو لگایا نہیں فرمایا کہ خدا اسی طرح جو چاہتا ہے پیدا کرتا ہے جب وہ کوئی کام کرنا چاہتا ہے تو ارشاد فرما دیتا ہے کہ ہوجا تو وہ ہو جاتا ہے
-
-[Open on Quran.com](https://quran.com/3/47)
-
-#### 3:49 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ ۖ أَنِّىٓ أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ ۖ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ ۖ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
-
-</div>
-
-**Word in this verse:** `أَخْلُقُ` — [I] design
-
-**English (Sahih International):** And [make him] a messenger to the Children of Israel, [who will say], 'Indeed I have come to you with a sign from your Lord in that I design for you from clay [that which is] like the form of a bird, then I breathe into it and it becomes a bird by permission of Allāh. And I cure the blind [from birth] and the leper, and I give life to the dead - by permission of Allāh. And I inform you of what you eat and what you store in your houses. Indeed in that is a sign for you, if you are believers.
-
-**English (Yusuf Ali):** "And (appoint him) a messenger to the Children of Israel, (with this message): "'I have come to you, with a Sign from your Lord, in that I make for you out of clay, as it were, the figure of a bird, and breathe into it, and it becomes a bird by Allah's leave: And I heal those born blind, and the lepers, and I quicken the dead, by Allah's leave; and I declare to you what ye eat, and what ye store in your houses. Surely therein is a Sign for you if ye did believe;
-
-**Urdu (Fatah Muhammad Jalandhari):** اور (عیسیٰ) بنی اسرائیل کی طرف پیغمبر (ہو کر جائیں گے اور کہیں گے) کہ میں تمہارے پروردگار کی طرف سے نشانی لے کر آیا ہوں وہ یہ کہ تمہارے سامنے مٹی کی مورت بشکل پرند بناتا ہوں پھر اس میں پھونک مارتا ہوں تو وہ خدا کے حکم سے (سچ مچ) جانور ہو جاتا ہے اور اندھے اور ابرص کو تندرست کر دیتا ہوں اور خدا کے حکم سے مردے میں جان ڈال دیتا ہوں اور جو کچھ تم کھا کر آتے ہو اور جو اپنے گھروں میں جمع کر رکھتے ہو سب تم کو بتا دیتا ہوں اگر تم صاحب ایمان ہو تو ان باتوں میں تمہارے لیے (قدرت خدا کی) نشانی ہے
-
-[Open on Quran.com](https://quran.com/3/49)
-
-#### 3:59 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ
-
-</div>
-
-**Word in this verse:** `خَلَقَهُۥ` — He created him
-
-**English (Sahih International):** Indeed, the example of Jesus to Allāh is like that of Adam. He created him from dust; then He said to him, "Be," and he was.
-
-**English (Yusuf Ali):** The similitude of Jesus before Allah is as that of Adam; He created him from dust, then said to him: "Be". And he was.
-
-**Urdu (Fatah Muhammad Jalandhari):** عیسیٰ کا حال خدا کے نزدیک آدم کا سا ہے کہ اس نے (پہلے) مٹی سے ان کا قالب بنایا پھر فرمایا کہ (انسان) ہو جا تو وہ (انسان) ہو گئے
-
-[Open on Quran.com](https://quran.com/3/59)
 
 #### 3:190 · [[003 Ali Imran]]
 
@@ -212,23 +104,131 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/191)
 
-#### 4:1 · [[004 An-Nisa]]
+#### 4:119 · [[004 An-Nisa]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
- يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
+وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَـَٔامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَـٰمِ وَلَـَٔامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَـٰنَ وَلِيًّا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُّبِينًا
 
 </div>
 
-**Word in this verse:** `خَلَقَكُم` — created you
+**Word in this verse:** `خَلْقَ` — (the) creation
 
-**English (Sahih International):** O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allāh, through whom you ask one another, and the wombs. Indeed Allāh is ever, over you, an Observer.
+**English (Sahih International):** And I will mislead them, and I will arouse in them [sinful] desires, and I will command them so they will slit the ears of cattle, and I will command them so they will change the creation of Allāh." And whoever takes Satan as an ally instead of Allāh has certainly sustained a clear loss.
 
-**English (Yusuf Ali):** O mankind! reverence your Guardian-Lord, who created you from a single person, created, of like nature, His mate, and from them twain scattered (like seeds) countless men and women;- reverence Allah, through whom ye demand your mutual (rights), and (reverence) the wombs (That bore you): for Allah ever watches over you.
+**English (Yusuf Ali):** "I will mislead them, and I will create in them false desires; I will order them to slit the ears of cattle, and to deface the (fair) nature created by Allah." Whoever, forsaking Allah, takes satan for a friend, hath of a surety suffered a loss that is manifest.
 
-**Urdu (Fatah Muhammad Jalandhari):** لوگو اپنے پروردگار سے ڈرو جس نے تم کو ایک شخص سے پیدا کیا (یعنی اول) اس سے اس کا جوڑا بنایا۔ پھر ان دونوں سے کثرت سے مرد وعورت (پیدا کرکے روئے زمین پر) پھیلا دیئے۔ اور خدا سے جس کے نام کو تم اپنی حاجت بر آری کا ذریعہ بناتے ہو ڈرو اور (قطع مودت) ارحام سے (بچو) کچھ شک نہیں کہ خدا تمہیں دیکھ رہا ہے
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو گمراہ کرتا اور امیدیں دلاتا ہروں گا اور یہ سکھاتا رہوں گا کہ جانوروں کے کان چیرتے رہیں اور (یہ بھی) کہتا رہوں گا کہ وہ خدا کی بنائی ہوئی صورتوں کو بدلتے رہیں اور جس شخص نے خدا کو چھوڑ کر شیطان کو دوست بنایا اور وہ صریح نقصان میں پڑ گیا
 
-[Open on Quran.com](https://quran.com/4/1)
+[Open on Quran.com](https://quran.com/4/119)
 
-_…and **194** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 7:54 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومَ مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ ۗ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ ۗ تَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْخَلْقُ` — (is) the creation
+
+**English (Sahih International):** Indeed, your Lord is Allāh, who created the heavens and earth in six days and then established Himself above the Throne. He covers the night with the day, [another night] chasing it rapidly; and [He created] the sun, the moon, and the stars, subjected by His command. Unquestionably, His is the creation and the command; blessed is Allāh, Lord of the worlds.
+
+**English (Yusuf Ali):** Your Guardian-Lord is Allah, Who created the heavens and the earth in six days, and is firmly established on the throne (of authority): He draweth the night as a veil o'er the day, each seeking the other in rapid succession: He created the sun, the moon, and the stars, (all) governed by laws under His command. Is it not His to create and to govern? Blessed be Allah, the Cherisher and Sustainer of the worlds!
+
+**Urdu (Fatah Muhammad Jalandhari):** کچھ شک نہیں کہ تمہارا پروردگار خدا ہی ہے جس نے آسمانوں اور زمین کو چھ دن میں پیدا کیا پھر عرش پر جا ٹھہرا۔ وہی رات کو دن کا لباس پہناتا ہے کہ وہ اس کے پیچھے دوڑتا چلا آتا ہے۔ اور اسی نے سورج اور چاند ستاروں کو پیدا کیا سب اس کے حکم کے مطابق کام میں لگے ہوئے ہیں۔ دیکھو سب مخلوق بھی اسی کی ہے اور حکم بھی (اسی کا ہے)۔ یہ خدا رب العالمین بڑی برکت والا ہے
+
+[Open on Quran.com](https://quran.com/7/54)
+
+#### 7:69 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ ۚ وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةً ۖ فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْخَلْقِ` — the stature
+
+**English (Sahih International):** Then do you wonder that there has come to you a reminder from your Lord through a man from among you, that he may warn you? And remember when He made you successors after the people of Noah and increased you in stature extensively. So remember the favors of Allāh that you might succeed."
+
+**English (Yusuf Ali):** "Do ye wonder that there hath come to you a message from your Lord through a man of your own people, to warn you? call in remembrance that He made you inheritors after the people of Noah, and gave you a stature tall among the nations. Call in remembrance the benefits (ye have received) from Allah: that so ye may prosper."
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم کو اس بات سے تعجب ہوا ہے کہ تم میں سے ایک شخص کے ہاتھ تمہارے پروردگار کی طرف سے تمہارے پاس نصیحت آئی تاکہ وہ تمہیں ڈرائے اور یاد کرو تو کرو جب اس نے تم کو قوم نوح کے بعد سردار بنایا۔ اور تم کو پھیلاؤ زیادہ دیا۔ پس خدا کی نعمتوں کو یاد کرو۔ تاکہ نجات حاصل کرو
+
+[Open on Quran.com](https://quran.com/7/69)
+
+#### 10:4 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِلَيْهِ مَرْجِعُكُمْ جَمِيعًا ۖ وَعْدَ ٱللَّهِ حَقًّا ۚ إِنَّهُۥ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ لِيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ بِٱلْقِسْطِ ۚ وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْخَلْقَ` — the creation
+
+**English (Sahih International):** To Him is your return all together. [It is] the promise of Allāh [which is] truth. Indeed, He begins the [process of] creation and then repeats it that He may reward those who have believed and done righteous deeds, in justice. But those who disbelieved will have a drink of scalding water and a painful punishment for what they used to deny.
+
+**English (Yusuf Ali):** To Him will be your return- of all of you. The promise of Allah is true and sure. It is He Who beginneth the process of creation, and repeateth it, that He may reward with justice those who believe and work righteousness; but those who reject Him will have draughts of boiling fluids, and a penalty grievous, because they did reject Him.
+
+**Urdu (Fatah Muhammad Jalandhari):** اسی کے پاس تم سب کو لوٹ کر جانا ہے۔ خدا کا وعدہ سچا ہے۔ وہی خلقت کو پہلی بار پیدا کرتا ہے۔ پھر وہی اس کو دوبارہ پیدا کرے گا تاکہ ایمان والوں اور نیک کام کرنے والوں کو انصاف کے ساتھ بدلہ دے۔ اور جو کافر ہیں ان کے لیے پینے کو نہایت گرم پانی اور درد دینے والا عذاب ہوگا کیوں کہ (خدا سے) انکار کرتے تھے
+
+[Open on Quran.com](https://quran.com/10/4)
+
+#### 10:34 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۚ قُلِ ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ۖ فَأَنَّىٰ تُؤْفَكُونَ
+
+</div>
+
+**Word in this verse:** `ٱلْخَلْقَ` — the creation
+
+**English (Sahih International):** Say, "Are there of your 'partners' any who begins creation and then repeats it?" Say, "Allāh begins creation and then repeats it, so how are you deluded?"
+
+**English (Yusuf Ali):** Say: "Of your 'partners', can any originate creation and repeat it?" Say: "It is Allah Who originates creation and repeats it: then how are ye deluded away (from the truth)?"
+
+**Urdu (Fatah Muhammad Jalandhari):** (ان سے) پوچھو کہ بھلا تمھارے شریکوں میں سے کوئی ایسا ہے کہ مخلوق کو ابتداً پیدا کرے (اور) پھر اس کو دوبارہ بنائے؟ کہہ دو کہ خدا ہی پہلی بار پیدا کرتا ہے پھر وہی اس کو دوبارہ پیدا کرے گا تو تم کہاں اُکسے جارہے ہو
+
+[Open on Quran.com](https://quran.com/10/34)
+
+#### 13:5 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَإِن تَعْجَبْ فَعَجَبٌ قَوْلُهُمْ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا لَفِى خَلْقٍ جَدِيدٍ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ ۖ وَأُو۟لَـٰٓئِكَ ٱلْأَغْلَـٰلُ فِىٓ أَعْنَاقِهِمْ ۖ وَأُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ
+
+</div>
+
+**Word in this verse:** `خَلْقٍۢ` — a creation
+
+**English (Sahih International):** And if you are astonished, [O Muḥammad] - then astonishing is their saying, "When we are dust, will we indeed be [brought] into a new creation?" Those are the ones who have disbelieved in their Lord, and those will have shackles upon their necks, and those are the companions of the Fire; they will abide therein eternally.
+
+**English (Yusuf Ali):** If thou dost marvel (at their want of faith), strange is their saying: "When we are (actually) dust, shall we indeed then be in a creation renewed?" They are those who deny their Lord! They are those round whose necks will be yokes (of servitude): they will be Companions of the Fire, to dwell therein (for aye)!
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تم عجیب بات سننی چاہو تو کافروں کا یہ کہنا عجیب ہے کہ جب ہم (مر کر) مٹی ہو جائیں گے تو کیا ازسرنو پیدا ہوں گے؟ یہی لوگ ہیں جو اپنے پروردگار سے منکر ہوئے ہیں۔ اور یہی ہیں جن کی گردنوں میں طوق ہوں گے اور یہی اہل دوزخ ہیں کہ ہمیشہ اس میں (جلتے) رہیں گے
+
+[Open on Quran.com](https://quran.com/13/5)
+
+#### 13:16 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قُلْ مَن رَّبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ قُلِ ٱللَّهُ ۚ قُلْ أَفَٱتَّخَذْتُم مِّن دُونِهِۦٓ أَوْلِيَآءَ لَا يَمْلِكُونَ لِأَنفُسِهِمْ نَفْعًا وَلَا ضَرًّا ۚ قُلْ هَلْ يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ أَمْ هَلْ تَسْتَوِى ٱلظُّلُمَـٰتُ وَٱلنُّورُ ۗ أَمْ جَعَلُوا۟ لِلَّهِ شُرَكَآءَ خَلَقُوا۟ كَخَلْقِهِۦ فَتَشَـٰبَهَ ٱلْخَلْقُ عَلَيْهِمْ ۚ قُلِ ٱللَّهُ خَـٰلِقُ كُلِّ شَىْءٍ وَهُوَ ٱلْوَٰحِدُ ٱلْقَهَّـٰرُ
+
+</div>
+
+**Word in this verse:** `كَخَلْقِهِۦ` — like His creation
+
+**English (Sahih International):** Say, "Who is Lord of the heavens and earth?" Say, "Allāh." Say, "Have you then taken besides Him allies not possessing [even] for themselves any benefit or any harm?" Say, "Is the blind equivalent to the seeing? Or is darkness equivalent to light? Or have they attributed to Allāh partners who created like His creation so that the creation [of each] seemed similar to them?" Say, "Allāh is the Creator of all things, and He is the One, the Prevailing."
+
+**English (Yusuf Ali):** Say: "Who is the Lord and Sustainer of the heavens and the earth?" Say: "(It is) Allah." Say: "Do ye then take (for worship) protectors other than Him, such as have no power either for good or for harm to themselves?" Say: "Are the blind equal with those who see? Or the depths of darkness equal with light?" Or do they assign to Allah partners who have created (anything) as He has created, so that the creation seemed to them similar? Say: "Allah is the Creator of all things: He is the One, the Supreme and Irresistible."
+
+**Urdu (Fatah Muhammad Jalandhari):** ان سے پوچھو کہ آسمانوں اور زمین کا پروردگار کون ہے؟ (تم ہی ان کی طرف سے) کہہ دو کہ خدا۔ پھر (ان سے) کہو کہ تم نے خدا کو چھوڑ کر ایسے لوگوں کو کیوں کارساز بنایا ہے جو خود اپنے نفع ونقصان کا بھی اختیار نہیں رکھتے (یہ بھی) پوچھو کیا اندھا اور آنکھوں والا برابر ہیں؟ یا اندھیرا اور اُجالا برابر ہوسکتا ہے؟ بھلا ان لوگوں نے جن کو خدا کا شریک مقرر کیا ہے۔ کیا انہوں نے خدا کی سی مخلوقات پیدا کی ہے جس کے سبب ان کو مخلوقات مشتبہ ہوگئی ہے۔ کہہ دو کہ خدا ہی ہر چیز کا پیدا کرنے والا ہے اور وہ یکتا (اور) زبردست ہے
+
+[Open on Quran.com](https://quran.com/13/16)
+
+_…and **36** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

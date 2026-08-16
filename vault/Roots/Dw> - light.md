@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** light · **Root:** ضوأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[DyA' - light]]
 

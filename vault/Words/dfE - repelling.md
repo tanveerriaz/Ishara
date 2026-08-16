@@ -1,0 +1,65 @@
+---
+type: word
+lemma: "دَفْع"
+slug: "dfE - repelling"
+surah_count: 2
+ayah_count: 2
+tags: [word, meaning]
+---
+
+# dfE - repelling
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[dfE - repel]]
+
+### Meaning
+**repelling** · Lemma **دَفْع**
+
+### Surahs (2)
+- [[002 Al-Baqarah]]
+- [[022 Al-Hajj]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
+
+#### 2:251 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَهَزَمُوهُم بِإِذْنِ ٱللَّهِ وَقَتَلَ دَاوُۥدُ جَالُوتَ وَءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ وَٱلْحِكْمَةَ وَعَلَّمَهُۥ مِمَّا يَشَآءُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ ٱلْأَرْضُ وَلَـٰكِنَّ ٱللَّهَ ذُو فَضْلٍ عَلَى ٱلْعَـٰلَمِينَ
+
+</div>
+
+**Word in this verse:** `دَفْعُ` — (for the) repelling
+
+**English (Sahih International):** So they defeated them by permission of Allāh, and David killed Goliath, and Allāh gave him the kingship and wisdom [i.e., prophethood] and taught him from that which He willed. And if it were not for Allāh checking [some] people by means of others, the earth would have been corrupted, but Allāh is the possessor of bounty for the worlds.
+
+**English (Yusuf Ali):** By Allah's will they routed them; and David slew Goliath; and Allah gave him power and wisdom and taught him whatever (else) He willed. And did not Allah Check one set of people by means of another, the earth would indeed be full of mischief: But Allah is full of bounty to all the worlds.
+
+**Urdu (Fatah Muhammad Jalandhari):** تو طالوت کی فوج نے خدا کے حکم سے ان کو ہزیمت دی۔ اور داؤد نے جالوت کو قتل کر ڈالا۔ اور خدا نے اس کو بادشاہی اور دانائی بخشی اور جو کچھ چاہا سکھایا۔ اور خدا لوگوں کو ایک دوسرے (پر چڑھائی اور حملہ کرنے) سے ہٹاتا نہ رہتا تو ملک تباہ ہوجاتا لیکن خدا اہل عالم پر بڑا مہربان ہے
+
+[Open on Quran.com](https://quran.com/2/251)
+
+#### 22:40 · [[022 Al-Hajj]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَـٰرِهِم بِغَيْرِ حَقٍّ إِلَّآ أَن يَقُولُوا۟ رَبُّنَا ٱللَّهُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّهُدِّمَتْ صَوَٰمِعُ وَبِيَعٌ وَصَلَوَٰتٌ وَمَسَـٰجِدُ يُذْكَرُ فِيهَا ٱسْمُ ٱللَّهِ كَثِيرًا ۗ وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ
+
+</div>
+
+**Word in this verse:** `دَفْعُ` — Allah checks
+
+**English (Sahih International):** [They are] those who have been evicted from their homes without right - only because they say, "Our Lord is Allāh." And were it not that Allāh checks the people, some by means of others, there would have been demolished monasteries, churches, synagogues, and mosques in which the name of Allāh is much mentioned [i.e., praised]. And Allāh will surely support those who support Him [i.e., His cause]. Indeed, Allāh is Powerful and Exalted in Might.
+
+**English (Yusuf Ali):** (They are) those who have been expelled from their homes in defiance of right,- (for no cause) except that they say, "our Lord is Allah". Did not Allah check one set of people by means of another, there would surely have been pulled down monasteries, churches, synagogues, and mosques, in which the name of Allah is commemorated in abundant measure. Allah will certainly aid those who aid his (cause);- for verily Allah is full of Strength, Exalted in Might, (able to enforce His Will).
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں کہ اپنے گھروں سے ناحق نکال دیئے گئے (انہوں نے کچھ قصور نہیں کیا) ہاں یہ کہتے ہیں کہ ہمارا پروردگار خدا ہے۔ اور اگر خدا لوگوں کو ایک دوسرے سے نہ ہٹاتا رہتا تو (راہبوں کے) صومعے اور (عیسائیوں کے) گرجے اور (یہودیوں کے) عبادت خانے اور (مسلمانوں کی) مسجدیں جن میں خدا کا بہت سا ذکر کیا جاتا ہے ویران ہوچکی ہوتیں۔ اور جو شخص خدا کی مدد کرتا ہے خدا اس کی ضرور مدد کرتا ہے۔ بےشک خدا توانا اور غالب ہے
+
+[Open on Quran.com](https://quran.com/22/40)
+

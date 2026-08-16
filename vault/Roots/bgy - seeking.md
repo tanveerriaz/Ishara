@@ -11,12 +11,14 @@ tags: [root, meaning]
 
 **Sense:** seeking · **Root:** بغي
 
+
 ### Words (wikilinks — these create the graph)
 - [[AbtgA' - seeking]]
 - [[AbtgY - seek]]
 - [[bAg - being disobedient]]
 - [[bgY - seek it]]
 - [[bgy - rebellion]]
+- [[bgy - unchaste]]
 - [[ynbgy - appropriate]]
 
 ### Surahs where this root appears

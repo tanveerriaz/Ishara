@@ -2,8 +2,8 @@
 type: word
 lemma: "تَقَلُّب"
 slug: "tqlb - movement"
-surah_count: 6
-ayah_count: 6
+surah_count: 5
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -19,12 +19,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **movement** · Lemma **تَقَلُّب**
 
-### Surahs (6)
+### Surahs (5)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[016 An-Nahl]]
 - [[026 Ash-Shuara]]
-- [[029 Al-Ankabut]]
 - [[040 Ghafir]]
 
 ## Verses (full text)
@@ -102,24 +101,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور نمازیوں میں تمہارے پھرنے کو بھی
 
 [Open on Quran.com](https://quran.com/26/219)
-
-#### 29:21 · [[029 Al-Ankabut]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يُعَذِّبُ مَن يَشَآءُ وَيَرْحَمُ مَن يَشَآءُ ۖ وَإِلَيْهِ تُقْلَبُونَ
-
-</div>
-
-**Word in this verse:** `تُقْلَبُونَ` — you will be returned
-
-**English (Sahih International):** He punishes whom He wills and has mercy upon whom He wills, and to Him you will be returned.
-
-**English (Yusuf Ali):** "He punishes whom He pleases, and He grants Mercy to whom He pleases, and towards Him are ye turned.
-
-**Urdu (Fatah Muhammad Jalandhari):** وہ جسے چاہے عذاب دے اور جس پر چاہے رحم کرے۔ اور اُسی کی طرف تم لوٹائے جاؤ گے
-
-[Open on Quran.com](https://quran.com/29/21)
 
 #### 40:4 · [[040 Ghafir]]
 

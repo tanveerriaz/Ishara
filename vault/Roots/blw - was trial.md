@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** was trial · **Root:** بلو
 
+
 ### Words (wikilinks — these create the graph)
 - [[AbtlY - tried]]
 - [[blA' - was trial]]

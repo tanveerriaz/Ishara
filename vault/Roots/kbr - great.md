@@ -11,10 +11,14 @@ tags: [root, meaning]
 
 **Sense:** great · **Root:** كبر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>kbr - greater]]
 - [[Astkbr - were arrogant]]
+- [[kbr - difficult]]
+- [[kbr - greatness]]
 - [[kbr - old age]]
+- [[kbr - you magnify]]
 - [[kbrY - greatest]]
 - [[kbyr - great]]
 - [[kbyrp - great]]

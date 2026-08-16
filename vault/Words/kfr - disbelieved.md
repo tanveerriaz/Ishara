@@ -2,8 +2,8 @@
 type: word
 lemma: "كَفَرَ"
 slug: "kfr - disbelieved"
-surah_count: 64
-ayah_count: 307
+surah_count: 62
+ayah_count: 269
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **disbelieved** · Lemma **كَفَرَ**
 
-### Surahs (64)
+### Surahs (62)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -158,24 +158,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/85)
 
-#### 2:88 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ ۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ
-
-</div>
-
-**Word in this verse:** `بِكُفْرِهِمْ` — for their disbelief
-
-**English (Sahih International):** And they said, "Our hearts are wrapped." But, [in fact], Allāh has cursed them for their disbelief, so little is it that they believe.
-
-**English (Yusuf Ali):** They say, "Our hearts are the wrappings (which preserve Allah's Word: we need no more)." Nay, Allah's curse is on them for their blasphemy: Little is it they believe.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں، ہمارے دل پردے میں ہیں۔ (نہیں) بلکہ الله نے ان کے کفر کے سبب ان پر لعنت کر رکھی ہے۔ پس یہ تھوڑے ہی پر ایمان لاتے ہیں
-
-[Open on Quran.com](https://quran.com/2/88)
-
 #### 2:89 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -230,5 +212,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/91)
 
-_…and **297** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 2:99 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ أَنزَلْنَآ إِلَيْكَ ءَايَـٰتٍۭ بَيِّنَـٰتٍ ۖ وَمَا يَكْفُرُ بِهَآ إِلَّا ٱلْفَـٰسِقُونَ
+
+</div>
+
+**Word in this verse:** `يَكْفُرُ` — disbelieves
+
+**English (Sahih International):** And We have certainly revealed to you verses [which are] clear proofs, and no one would deny them except the defiantly disobedient.
+
+**English (Yusuf Ali):** We have sent down to thee Manifest Signs (ayat); and none reject them but those who are perverse.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تمہارے پاس سلجھی ہوئی آیتیں ارسال فرمائی ہیں، اور ان سے انکار وہی کرتے ہیں جو بدکار ہیں
+
+[Open on Quran.com](https://quran.com/2/99)
+
+_…and **259** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

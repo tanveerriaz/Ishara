@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** suppressor · **Root:** كظم
 
+
 ### Words (wikilinks — these create the graph)
 - [[kZym - suppressor]]
 

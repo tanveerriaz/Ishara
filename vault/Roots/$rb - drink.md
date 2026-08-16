@@ -11,10 +11,12 @@ tags: [root, meaning]
 
 **Sense:** drink · **Root:** شرب
 
+
 ### Words (wikilinks — these create the graph)
 - [[$Arb - drinkers]]
 - [[$rAb - drink]]
 - [[$rb - drink]]
+- [[$rb - share drink]]
 - [[m$rb - drinking place]]
 
 ### Surahs where this root appears

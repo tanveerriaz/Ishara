@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** chaste women · **Root:** حصن
 
+
 ### Words (wikilinks — these create the graph)
 - [[>HSnt - guarded]]
 - [[mHSnp - chaste women]]

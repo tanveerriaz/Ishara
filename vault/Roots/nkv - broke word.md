@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** broke word · **Root:** نكث
 
+
 ### Words (wikilinks — these create the graph)
 - [[nkv - broke word]]
 

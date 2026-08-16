@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** curse · **Root:** لعن
 
+
 ### Words (wikilinks — these create the graph)
 - [[lEn - curse them]]
 - [[lEnp - curse]]

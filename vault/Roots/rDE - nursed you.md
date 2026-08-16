@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** nursed you · **Root:** رضع
 
+
 ### Words (wikilinks — these create the graph)
 - [[>rDEt - nursed you]]
 

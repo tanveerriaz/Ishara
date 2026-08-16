@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** surah · **Root:** سور
 
+
 ### Words (wikilinks — these create the graph)
 - [[>sAwr - bracelets]]
 - [[swrp - surah]]

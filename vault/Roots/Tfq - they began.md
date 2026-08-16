@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they began · **Root:** طفق
 
+
 ### Words (wikilinks — these create the graph)
 - [[Tfq - they began]]
 

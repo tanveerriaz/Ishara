@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** abiding forever · **Root:** خلد
 
+
 ### Words (wikilinks — these create the graph)
 - [[xAld - abiding forever]]
 - [[xld - eternity]]

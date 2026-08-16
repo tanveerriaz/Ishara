@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** behind · **Root:** وري
 
+
 ### Words (wikilinks — these create the graph)
 - [[wrA' - behind]]
 

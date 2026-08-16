@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** extinguish · **Root:** طفأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Tf> - extinguish]]
 

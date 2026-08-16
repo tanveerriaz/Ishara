@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** clothe them · **Root:** كسو
 
+
 ### Words (wikilinks — these create the graph)
 - [[ksw - clothe them]]
 

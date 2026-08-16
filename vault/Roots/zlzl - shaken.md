@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** shaken · **Root:** زلزل
 
+
 ### Words (wikilinks — these create the graph)
 - [[zlzl - shaken]]
 

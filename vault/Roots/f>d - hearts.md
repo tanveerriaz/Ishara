@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hearts · **Root:** فأد
 
+
 ### Words (wikilinks — these create the graph)
 - [[f&Ad - hearts]]
 

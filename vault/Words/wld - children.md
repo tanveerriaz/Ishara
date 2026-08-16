@@ -2,8 +2,8 @@
 type: word
 lemma: "وَلَد"
 slug: "wld - children"
-surah_count: 30
-ayah_count: 55
+surah_count: 26
+ayah_count: 47
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **children** · Lemma **وَلَد**
 
-### Surahs (30)
+### Surahs (26)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -27,7 +27,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[008 Al-Anfal]]
 - [[009 At-Tawbah]]
 - [[010 Yunus]]
-- [[011 Hud]]
 - [[012 Yusuf]]
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
@@ -38,13 +37,14 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[028 Al-Qasas]]
 - [[031 Luqman]]
 - [[034 Saba]]
-- [[037 As-Saffat]]
 - [[039 Az-Zumar]]
 - [[043 Az-Zukhruf]]
 - [[057 Al-Hadid]]
 - [[058 Al-Mujadila]]
 - [[060 Al-Mumtahanah]]
 - [[063 Al-Munafiqun]]
+- [[064 At-Taghabun]]
+- [[071 Nuh]]
 
 ## Verses (full text)
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/101)
 
-_…and **45** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **37** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

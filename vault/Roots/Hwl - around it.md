@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** around it · **Root:** حول
 
+
 ### Words (wikilinks — these create the graph)
 - [[HAl - comes]]
 - [[Hwl - around it]]

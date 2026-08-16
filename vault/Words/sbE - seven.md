@@ -2,8 +2,8 @@
 type: word
 lemma: "سَبْع"
 slug: "sbE - seven"
-surah_count: 14
-ayah_count: 20
+surah_count: 13
+ayah_count: 19
 tags: [word, meaning]
 ---
 
@@ -19,9 +19,8 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **seven** · Lemma **سَبْع**
 
-### Surahs (14)
+### Surahs (13)
 - [[002 Al-Baqarah]]
-- [[005 Al-Maidah]]
 - [[007 Al-Araf]]
 - [[009 At-Tawbah]]
 - [[012 Yusuf]]
@@ -74,24 +73,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جو لوگ اپنا مال خدا کی راہ میں خرچ کرتے ہیں ان (کے مال) کی مثال اس دانے کی سی ہے جس سے سات بالیں اگیں اور ہر ایک بال میں سو سو دانے ہوں اور خدا جس (کے مال) کو چاہتا ہے زیادہ کرتا ہے۔ وہ بڑی کشائش والا اور سب کچھ جاننے والا ہے
 
 [Open on Quran.com](https://quran.com/2/261)
-
-#### 5:3 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَـٰمِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ۚ ٱلْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَـٰمَ دِينًا ۚ فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ ۙ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
-
-</div>
-
-**Word in this verse:** `ٱلسَّبُعُ` — the wild animal
-
-**English (Sahih International):** Prohibited to you are dead animals, blood, the flesh of swine, and that which has been dedicated to other than Allāh, and [those animals] killed by strangling or by a violent blow or by a head-long fall or by the goring of horns, and those from which a wild animal has eaten, except what you [are able to] slaughter [before its death], and those which are sacrificed on stone altars, and [prohibited is] that you seek decision through divining arrows. That is grave disobedience. This day those who disbelieve have despaired of [defeating] your religion; so fear them not, but fear Me. This day I have perfected for you your religion and completed My favor upon you and have approved for you Islām as religion. But whoever is forced by severe hunger with no inclination to sin - then indeed, Allāh is Forgiving and Merciful.
-
-**English (Yusuf Ali):** Forbidden to you (for food) are: dead meat, blood, the flesh of swine, and that on which hath been invoked the name of other than Allah; that which hath been killed by strangling, or by a violent blow, or by a headlong fall, or by being gored to death; that which hath been (partly) eaten by a wild animal; unless ye are able to slaughter it (in due form); that which is sacrificed on stone (altars); (forbidden) also is the division (of meat) by raffling with arrows: that is impiety. This day have those who reject faith given up all hope of your religion: yet fear them not but fear Me. This day have I perfected your religion for you, completed My favour upon you, and have chosen for you Islam as your religion. But if any is forced by hunger, with no inclination to transgression, Allah is indeed Oft-forgiving, Most Merciful.
-
-**Urdu (Fatah Muhammad Jalandhari):** تم پر مرا ہوا جانور اور (بہتا) لہو اور سور کا گوشت اور جس چیز پر خدا کے سوا کسی اور کا نام پکارا جائے اور جو جانور گلا گھٹ کر مر جائے اور جو چوٹ لگ کر مر جائے اور جو گر کر مر جائے اور جو سینگ لگ کر مر جائے یہ سب حرام ہیں اور وہ جانور بھی جس کو درندے پھاڑ کھائیں۔ مگر جس کو تم (مرنے سے پہلے) ذبح کرلو اور وہ جانور بھی جو تھان پر ذبح کیا جائے اور یہ بھی کہ پاسوں سے قسمت معلوم کرو یہ سب گناہ (کے کام) ہیں آج کافر تمہارے دین سے ناامید ہو گئے ہیں تو ان سے مت ڈرو اور مجھی سے ڈرتے رہو (اور) آج ہم نے تمہارے لئے تمہارا دین کامل کر دیا اور اپنی نعمتیں تم پر پوری کر دیں اور تمہارے لئے اسلام کو دین پسند کیا ہاں جو شخص بھوک میں ناچار ہو جائے (بشرطیکہ) گناہ کی طرف مائل نہ ہو تو خدا بخشنے والا مہربان ہے
-
-[Open on Quran.com](https://quran.com/5/3)
 
 #### 7:155 · [[007 Al-Araf]]
 
@@ -219,5 +200,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/15/87)
 
-_…and **10** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 17:44 · [[017 Al-Isra]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+تُسَبِّحُ لَهُ ٱلسَّمَـٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ ۚ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِۦ وَلَـٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا
+
+</div>
+
+**Word in this verse:** `ٱلسَّبْعُ` — the seven heavens
+
+**English (Sahih International):** The seven heavens and the earth and whatever is in them exalt Him. And there is not a thing except that it exalts [Allāh] by His praise, but you do not understand their [way of] exalting. Indeed, He is ever Forbearing and Forgiving.
+
+**English (Yusuf Ali):** The seven heavens and the earth, and all beings therein, declare His glory: there is not a thing but celebrates His praise; And yet ye understand not how they declare His glory! Verily He is Oft-Forbear, Most Forgiving!
+
+**Urdu (Fatah Muhammad Jalandhari):** ساتوں آسمان اور زمین اور جو لوگ ان میں ہیں سب اسی کی تسبیح کرتے ہیں۔ اور (مخلوقات میں سے) کوئی چیز نہیں مگر اس کی تعریف کے ساتھ تسبیح کرتی ہے۔ لیکن تم ان کی تسبیح کو نہیں سمجھتے۔ بےشک وہ بردبار (اور) غفار ہے
+
+[Open on Quran.com](https://quran.com/17/44)
+
+_…and **9** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

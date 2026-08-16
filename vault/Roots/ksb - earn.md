@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** earn · **Root:** كسب
 
+
 ### Words (wikilinks — these create the graph)
 - [[Aktsb - they earned]]
 - [[ksb - earn]]

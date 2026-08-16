@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** then · **Root:** طول
 
+
 ### Words (wikilinks — these create the graph)
 - [[TAl - then]]
 - [[Twl - afford]]

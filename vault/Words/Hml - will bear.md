@@ -2,8 +2,8 @@
 type: word
 lemma: "حَمَلَ"
 slug: "Hml - will bear"
-surah_count: 26
-ayah_count: 44
+surah_count: 23
+ayah_count: 37
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **will bear** · Lemma **حَمَلَ**
 
-### Surahs (26)
+### Surahs (23)
 - [[002 Al-Baqarah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
@@ -31,9 +31,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[017 Al-Isra]]
 - [[019 Maryam]]
 - [[020 Taha]]
-- [[022 Al-Hajj]]
 - [[023 Al-Muminun]]
-- [[024 An-Nur]]
 - [[029 Al-Ankabut]]
 - [[031 Luqman]]
 - [[033 Al-Ahzab]]
@@ -44,7 +42,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[046 Al-Ahqaf]]
 - [[054 Al-Qamar]]
 - [[062 Al-Jumuah]]
-- [[065 At-Talaq]]
+- [[069 Al-Haqqah]]
 
 ## Verses (full text)
 
@@ -212,23 +210,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/12/36)
 
-#### 12:72 · [[012 Yusuf]]
+#### 13:8 · [[013 Ar-Rad]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍ وَأَنَا۠ بِهِۦ زَعِيمٌ
+ٱللَّهُ يَعْلَمُ مَا تَحْمِلُ كُلُّ أُنثَىٰ وَمَا تَغِيضُ ٱلْأَرْحَامُ وَمَا تَزْدَادُ ۖ وَكُلُّ شَىْءٍ عِندَهُۥ بِمِقْدَارٍ
 
 </div>
 
-**Word in this verse:** `حِمْلُ` — (is) a load
+**Word in this verse:** `تَحْمِلُ` — carries
 
-**English (Sahih International):** They said, "We are missing the measure of the king. And for he who produces it is [the reward of] a camel's load, and I am responsible for it."
+**English (Sahih International):** Allāh knows what every female carries and what the wombs lose [prematurely] or exceed. And everything with Him is by due measure.
 
-**English (Yusuf Ali):** They said: "We miss the great beaker of the king; for him who produces it, is (the reward of) a camel load; I will be bound by it."
+**English (Yusuf Ali):** Allah doth know what every female (womb) doth bear, by how much the wombs fall short (of their time or number) or do exceed. Every single thing is before His sight, in (due) proportion.
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کہ بادشاہ (کے پانی پینے) کا گلاس کھویا گیا ہے اور جو شخص اس کو لے آئے اس کے لیے ایک بار شتر (انعام) اور میں اس کا ضامن ہوں
+**Urdu (Fatah Muhammad Jalandhari):** خدا ہی اس بچے سے واقف ہے جو عورت کے پیٹ میں ہوتا ہے اور پیٹ کے سکڑنے اور بڑھنے سے بھی (واقف ہے)۔ اور ہر چیز کا اس کے ہاں ایک اندازہ مقرر ہے
 
-[Open on Quran.com](https://quran.com/12/72)
+[Open on Quran.com](https://quran.com/13/8)
 
-_…and **34** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **27** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

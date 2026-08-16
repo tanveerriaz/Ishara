@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** jews · **Root:** هود
 
+
 ### Words (wikilinks — these create the graph)
 - [[hAd - jews]]
 - [[hwd - hud]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** stars · **Root:** نجم
 
+
 ### Words (wikilinks — these create the graph)
 - [[njm - stars]]
 

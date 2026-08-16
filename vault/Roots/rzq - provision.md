@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** provision · **Root:** رزق
 
+
 ### Words (wikilinks — these create the graph)
 - [[rAzq - providers]]
+- [[rzq - provides you]]
 - [[rzq - provision]]
 
 ### Surahs where this root appears

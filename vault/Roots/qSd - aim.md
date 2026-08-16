@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** aim · **Root:** قصد
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

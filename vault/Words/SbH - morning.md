@@ -2,8 +2,8 @@
 type: word
 lemma: "صُبْح"
 slug: "SbH - morning"
-surah_count: 5
-ayah_count: 5
+surah_count: 4
+ayah_count: 4
 tags: [word, meaning]
 ---
 
@@ -19,9 +19,8 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **morning** · Lemma **صُبْح**
 
-### Surahs (5)
+### Surahs (4)
 - [[011 Hud]]
-- [[054 Al-Qamar]]
 - [[074 Al-Muddaththir]]
 - [[081 At-Takwir]]
 - [[100 Al-Adiyat]]
@@ -47,24 +46,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** فرشتوں نے کہا کہ لوط ہم تمہارے پروردگار کے فرشتے ہیں۔ یہ لوگ ہرگز تم تک نہیں پہنچ سکیں گے تو کچھ رات رہے سے اپنے گھر والوں کو لے کر چل دو اور تم میں سے کوئی شخص پیچھے پھر کر نہ دیکھے۔ مگر تمہاری بیوی کہ جو آفت ان پر پڑنے والی ہے وہی اس پر پڑے گی۔ ان کے (عذاب کے) وعدے کا وقت صبح ہے۔ اور کیا صبح کچھ دور ہے؟
 
 [Open on Quran.com](https://quran.com/11/81)
-
-#### 54:38 · [[054 Al-Qamar]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ
-
-</div>
-
-**Word in this verse:** `صَبَّحَهُم` — seized them in the morning
-
-**English (Sahih International):** And there came upon them by morning an abiding punishment.
-
-**English (Yusuf Ali):** Early on the morrow an abiding Punishment seized them:
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ان پر صبح سویرے ہی اٹل عذاب آ نازل ہوا
-
-[Open on Quran.com](https://quran.com/54/38)
 
 #### 74:34 · [[074 Al-Muddaththir]]
 

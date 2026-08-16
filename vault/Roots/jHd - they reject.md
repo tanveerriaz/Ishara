@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they reject · **Root:** جحد
 
+
 ### Words (wikilinks — these create the graph)
 - [[jHd - they reject]]
 

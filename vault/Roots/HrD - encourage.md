@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** encourage · **Root:** حرض
 
+
 ### Words (wikilinks — these create the graph)
 - [[HrD - encourage]]
 

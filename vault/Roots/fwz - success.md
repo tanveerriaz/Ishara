@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** success · **Root:** فوز
 
+
 ### Words (wikilinks — these create the graph)
 - [[fAz - he successful]]
 - [[fA}z - successful ones]]

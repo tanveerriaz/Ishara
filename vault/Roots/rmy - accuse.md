@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** accuse · **Root:** رمي
 
+
 ### Words (wikilinks — these create the graph)
 - [[rmY - accuse]]
 

@@ -15,30 +15,30 @@ The Pleading Woman · 22 ayahs
 ## Words in this surah (graph)
 
 - [[njwY - private conversation]] — `نَجْوَى` · private conversation
+- [[ZAhr - pronounce zihar]] — `ظاهَرُ` · pronounce zihar
 - [[EdwAn - transgression]] — `عُدْوان` · transgression
-- [[>Thr - purer]] — `أَطْهَر` · purer
-- [[AtY - give]] — `آتَى` · give
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[mhyn - humiliating]] — `مُهِين` · humiliating
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[b}s - wretched]] — `بِئْسَ` · wretched
 - [[>TAE - obey]] — `أَطاعَ` · obey
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[sbyl - way]] — `سَبِيل` · way
-- [[Hdwd - limits]] — `حُدُود` · limits
-- [[allah - God]] — `الله` · God
-- [[>kvr - them]] — `أَكْثَر` · them
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[qbl - before]] — `قَبْل` · before
-- [[Atx* - take]] — `اتَّخَذَ` · take
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[wd - wished]] — `وَدَّ` · wished
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[br - righteousness]] — `بِرّ` · righteousness
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
 - [[$hyd - witness]] — `شَهِيد` · witness
-- [[Abn - son]] — `ابْن` · son
-- [[>rD - earth]] — `أَرْض` · earth
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[xAsr - losers]] — `خاسِر` · losers
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[glb - overcame]] — `غَلَبُ` · overcame
+- [[tHryr - then freeing]] — `تَحْرِير` · then freeing
+- [[rqbp - slave]] — `رَقَبَة` · slave
+- [[mSyr - destination]] — `مَصِير` · destination
+- [[byn - between them]] — `بَيْن` · between them
+- [[wld - he begot]] — `وَلَدَ` · he begot
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[zwr - lie]] — `زُور` · lie
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[>x - brother]] — `أَخ` · brother
 
 ## Roots
 
@@ -49,7 +49,7 @@ The Pleading Woman · 22 ayahs
 - [[$hr - months]]
 - [[$kw - complain show grief]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[>*n - by permission]]
 - [[>bw - forefathers]]

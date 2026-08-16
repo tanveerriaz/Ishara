@@ -14,31 +14,31 @@ The Divorce · 12 ayahs
 
 ## Words in this surah (graph)
 
-- [[Edp - number]] — `عِدَّة` · number
+- [[ysr - ease 2]] — `يُسْر` · ease
 - [[mbynp - clear]] — `مُبَيِّنَة` · clear
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[ysr - ease]] — `يُسْر` · ease
-- [[AtY - give]] — `آتَى` · give
+- [[Hml - burden]] — `حَمْل` · burden
+- [[Edp - number]] — `عِدَّة` · number
+- [[>jl - term]] — `أَجَل` · term
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[>nfq - spend]] — `أَنفَقَ` · spend
 - [[yklf - we burden]] — `يُكَلِّفُ` · we burden
-- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
-- [[Edl - justice]] — `عَدْل` · justice
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[wbAl - bad consequence]] — `وَبال` · bad consequence
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[Hdwd - limits]] — `حُدُود` · limits
-- [[allah - God]] — `الله` · God
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[HAsb - will call you]] — `حاسَبْ` · will call you
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[$hAdp - witnessed]] — `شَهادَة` · witnessed
+- [[>HAT - they encompass]] — `أَحاطَ` · they encompass
+- [[rswl - messenger]] — `رَسُول` · messenger
 - [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[skn - dwell]] — `سَكَنَ` · dwell
+- [[E*Ab - punishment]] — `عَذاب` · punishment
 - [[tdry - i know]] — `تَدْرِي` · i know
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>Hsn - best]] — `أَحْسَن` · best
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[>rD - earth]] — `أَرْض` · earth
-- [[$hr - months]] — `شَهْر` · months
-- [[nwr - light]] — `نُور` · light
+- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[Hyv - wherever]] — `حَيْث` · wherever
+- [[tlY - recited]] — `تَلَى` · recited
+- [[byn - between them]] — `بَيْن` · between them
 
 ## Roots
 
@@ -46,7 +46,7 @@ The Divorce · 12 ayahs
 - [[$hd - witness]]
 - [[$hr - months]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*wq - taste]]
 - [[>bd - ever]]
 - [[>jl - term]]

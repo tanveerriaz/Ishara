@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** exchange · **Root:** شري
 
+
 ### Words (wikilinks — these create the graph)
 - [[$r - they sold]]
 - [[A$trY - exchange]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** place return · **Root:** أوب
 
+
 ### Words (wikilinks — these create the graph)
 - [[>wAb - repeatedly turning]]
 - [[mAb - place return]]

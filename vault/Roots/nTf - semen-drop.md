@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** semen-drop · **Root:** نطف
 
+
 ### Words (wikilinks — these create the graph)
 - [[nTfp - semen-drop]]
 

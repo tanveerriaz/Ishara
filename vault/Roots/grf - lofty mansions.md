@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** lofty mansions · **Root:** غرف
 
+
 ### Words (wikilinks — these create the graph)
 - [[grfp - lofty mansions]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** forbearing · **Root:** حلم
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hlm - dreams]]
 - [[Hlym - forbearing]]

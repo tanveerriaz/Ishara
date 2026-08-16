@@ -14,38 +14,38 @@ The Iron · 29 ayahs
 
 ## Words in this surah (graph)
 
-- [[>qrD - you loan]] — `أَقْرَضُ` · you loan
-- [[yDAEf - will doubled]] — `يُضاعِفُ` · will doubled
 - [[ZAhr - apparent]] — `ظاهِر` · apparent
+- [[yDAEf - will doubled]] — `يُضاعِفُ` · will doubled
+- [[nzl - descends]] — `نَزَلَ` · descends
+- [[>qrD - you loan]] — `أَقْرَضُ` · you loan
 - [[qrD - loan]] — `قَرْض` · loan
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[AtY - give]] — `آتَى` · give
-- [[t>s - grieve]] — `تَأْسَ` · grieve
-- [[nZr - see]] — `نَظَرَ` · see
-- [[sEY - strive]] — `سَعَى` · strive
-- [[>Ejb - pleases you]] — `أَعْجَبَ` · pleases you
-- [[ErD - its width]] — `عَرَضَ` · its width
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[grwr - delusion]] — `غُرُور` · delusion
+- [[>HyA - gives life]] — `أَحْيا` · gives life
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[sbyl - way]] — `سَبِيل` · way
-- [[mnAfqp - hypocrite women]] — `مُنافِقَة` · hypocrite women
-- [[zynp - adornment]] — `زِينَة` · adornment
-- [[allah - God]] — `الله` · God
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[*ryp - offspring]] — `ذُرِّيَّة` · offspring
-- [[mxtAl - proud]] — `مُخْتال` · proud
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[qbl - before]] — `قَبْل` · before
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[ErD - its width]] — `عَرْض` · its width
+- [[krym - noble]] — `كَرِيم` · noble
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
+- [[Sdyq - truthful]] — `صِدِّيق` · truthful
 - [[$hyd - witness]] — `شَهِيد` · witness
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[dEA - call]] — `دَعا` · call
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[nZr - see]] — `نَظَرَ` · see
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[qAm - stand]] — `قامَ` · stand
+- [[m$ - walk]] — `مَشَ` · walk
 
 ## Roots
 
 - [[$dd - severe]]
 - [[$hd - witness]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*rr - offspring]]
 - [[>hl - people]]
 - [[>jr - reward]]

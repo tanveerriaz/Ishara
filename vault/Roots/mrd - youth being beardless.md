@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** youth being beardless · **Root:** مرد
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

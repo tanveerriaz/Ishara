@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** swallowed · **Root:** لقف
 
+
 ### Words (wikilinks — these create the graph)
 - [[tlqf - swallowed]]
 

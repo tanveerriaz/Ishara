@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** despised · **Root:** مهن
 
+
 ### Words (wikilinks — these create the graph)
 - [[mhyn - despised]]
 

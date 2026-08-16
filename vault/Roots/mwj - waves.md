@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** waves · **Root:** موج
 
+
 ### Words (wikilinks — these create the graph)
 - [[mwj - waves]]
 

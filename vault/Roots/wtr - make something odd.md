@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** make something odd · **Root:** وتر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

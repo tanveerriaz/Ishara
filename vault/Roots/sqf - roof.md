@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** roof · **Root:** سقف
 
+
 ### Words (wikilinks — these create the graph)
 - [[sqf - roof]]
 

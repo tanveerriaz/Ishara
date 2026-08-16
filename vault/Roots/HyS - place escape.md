@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** place escape · **Root:** حيص
 
+
 ### Words (wikilinks — these create the graph)
 - [[mHyS - place escape]]
 

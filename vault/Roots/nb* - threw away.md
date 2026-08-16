@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** threw away · **Root:** نبذ
 
+
 ### Words (wikilinks — these create the graph)
 - [[nb* - threw away]]
 

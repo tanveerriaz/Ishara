@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hour · **Root:** سوع
 
+
 ### Words (wikilinks — these create the graph)
 - [[sAEp - hour]]
 

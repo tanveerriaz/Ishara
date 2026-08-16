@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** emitting scent · **Root:** قتر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

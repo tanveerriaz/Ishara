@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fish · **Root:** حوت
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hwt - fish]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** sects · **Root:** شيع
 
+
 ### Words (wikilinks — these create the graph)
 - [[$yEp - sects]]
 

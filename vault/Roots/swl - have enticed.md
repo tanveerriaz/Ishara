@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** have enticed · **Root:** سول
 
+
 ### Words (wikilinks — these create the graph)
 - [[swl - have enticed]]
 

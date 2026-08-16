@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** heads · **Root:** رأس
 
+
 ### Words (wikilinks — these create the graph)
 - [[r>s - heads]]
 

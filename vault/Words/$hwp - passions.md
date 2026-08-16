@@ -2,8 +2,8 @@
 type: word
 lemma: "شَهَوَة"
 slug: "$hwp - passions"
-surah_count: 5
-ayah_count: 5
+surah_count: 3
+ayah_count: 3
 tags: [word, meaning]
 ---
 
@@ -19,12 +19,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **passions** · Lemma **شَهَوَة**
 
-### Surahs (5)
+### Surahs (3)
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
-- [[007 Al-Araf]]
 - [[019 Maryam]]
-- [[027 An-Naml]]
 
 ## Verses (full text)
 
@@ -66,24 +64,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/27)
 
-#### 7:81 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةً مِّن دُونِ ٱلنِّسَآءِ ۚ بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ
-
-</div>
-
-**Word in this verse:** `شَهْوَةًۭ` — lustfully
-
-**English (Sahih International):** Indeed, you approach men with desire, instead of women. Rather, you are a transgressing people."
-
-**English (Yusuf Ali):** "For ye practise your lusts on men in preference to women: ye are indeed a people transgressing beyond bounds."
-
-**Urdu (Fatah Muhammad Jalandhari):** یعنی خواہش نفسانی پورا کرنے کے لیے عورتوں کو چھوڑ کر لونڈوں پر گرتے ہو۔ حقیقت یہ ہے کہ تم لوگ حد سے نکل جانے والے ہو
-
-[Open on Quran.com](https://quran.com/7/81)
-
 #### 19:59 · [[019 Maryam]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -101,22 +81,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** پھر ان کے بعد چند ناخلف ان کے جانشیں ہوئے جنہوں نے نماز کو (چھوڑ دیا گویا اسے) کھو دیا۔ اور خواہشات نفسانی کے پیچھے لگ گئے۔ سو عنقریب ان کو گمراہی (کی سزا) ملے گی
 
 [Open on Quran.com](https://quran.com/19/59)
-
-#### 27:55 · [[027 An-Naml]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةً مِّن دُونِ ٱلنِّسَآءِ ۚ بَلْ أَنتُمْ قَوْمٌ تَجْهَلُونَ
-
-</div>
-
-**Word in this verse:** `شَهْوَةًۭ` — (with) lust
-
-**English (Sahih International):** Do you indeed approach men with desire instead of women? Rather, you are a people behaving ignorantly."
-
-**English (Yusuf Ali):** Would ye really approach men in your lusts rather than women? Nay, ye are a people (grossly) ignorant!
-
-**Urdu (Fatah Muhammad Jalandhari):** کیا تم عورتوں کو چھوڑ کر (لذت حاصل کرنے) کے لئے مردوں کی طرف مائل ہوتے ہو۔ حقیقت یہ ہے کہ تم احمق لوگ ہو
-
-[Open on Quran.com](https://quran.com/27/55)
 

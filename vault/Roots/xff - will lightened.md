@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** will lightened · **Root:** خفف
 
+
 ### Words (wikilinks — these create the graph)
 - [[Astxf - you find light]]
 - [[xff - will lightened]]

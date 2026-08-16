@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** chide · **Root:** زجر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

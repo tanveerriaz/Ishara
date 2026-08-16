@@ -11,10 +11,14 @@ tags: [root, meaning]
 
 **Sense:** disbelieve · **Root:** كفر
 
+
 ### Words (wikilinks — these create the graph)
 - [[kAfr - disbelievers]]
 - [[kfAr - disbeliever]]
+- [[kfr - disbelief]]
 - [[kfr - disbelieved]]
+- [[kfr - remove]]
+- [[kfwr - disbelief]]
 - [[kfwr - ungrateful]]
 
 ### Surahs where this root appears

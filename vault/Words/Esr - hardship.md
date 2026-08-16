@@ -2,8 +2,8 @@
 type: word
 lemma: "عُسْر"
 slug: "Esr - hardship"
-surah_count: 5
-ayah_count: 6
+surah_count: 4
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **hardship** · Lemma **عُسْر**
 
-### Surahs (5)
+### Surahs (4)
 - [[002 Al-Baqarah]]
 - [[018 Al-Kahf]]
-- [[054 Al-Qamar]]
 - [[065 At-Talaq]]
 - [[094 Ash-Sharh]]
 
@@ -65,24 +64,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** (موسیٰ نے) کہا کہ جو بھول مجھ سے ہوئی اس پر مواخذہ نہ کیجیئے اور میرے معاملے میں مجھ پر مشکل نہ ڈالئے
 
 [Open on Quran.com](https://quran.com/18/73)
-
-#### 54:8 · [[054 Al-Qamar]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-مُّهْطِعِينَ إِلَى ٱلدَّاعِ ۖ يَقُولُ ٱلْكَـٰفِرُونَ هَـٰذَا يَوْمٌ عَسِرٌ
-
-</div>
-
-**Word in this verse:** `عَسِرٌۭ` — difficult
-
-**English (Sahih International):** Racing ahead toward the Caller. The disbelievers will say, "This is a difficult Day."
-
-**English (Yusuf Ali):** Hastening, with eyes transfixed, towards the Caller!- "Hard is this Day!", the Unbelievers will say.
-
-**Urdu (Fatah Muhammad Jalandhari):** اس بلانے والے کی طرف دوڑتے جاتے ہوں گے۔ کافر کہیں گے یہ دن بڑا سخت ہے
-
-[Open on Quran.com](https://quran.com/54/8)
 
 #### 65:7 · [[065 At-Talaq]]
 

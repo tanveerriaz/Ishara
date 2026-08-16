@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** constellations · **Root:** برج
 
+
 ### Words (wikilinks — these create the graph)
 - [[brwj - constellations]]
 

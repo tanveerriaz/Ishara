@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** usury · **Root:** ربو
 
+
 ### Words (wikilinks — these create the graph)
 - [[rbA - usury]]
 - [[rbt - it swells]]

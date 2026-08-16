@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** way · **Root:** طرق
 
+
 ### Words (wikilinks — these create the graph)
 - [[Tryq - way]]
 - [[Tryqp - way]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** is · **Root:** كون
 
+
 ### Words (wikilinks — these create the graph)
 - [[kAn - is]]
 - [[mkAn - place]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** sun · **Root:** شمس
 
+
 ### Words (wikilinks — these create the graph)
 - [[$ms - sun]]
 

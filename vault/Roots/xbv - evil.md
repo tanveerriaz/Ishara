@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** evil · **Root:** خبث
 
+
 ### Words (wikilinks — these create the graph)
 - [[xbyv - evil]]
 - [[xbyvp - evil]]

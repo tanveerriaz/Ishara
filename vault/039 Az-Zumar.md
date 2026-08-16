@@ -15,30 +15,30 @@ The Troops · 75 ayahs
 ## Words in this surah (graph)
 
 - [[mvwY - abode]] — `مَثْوًى` · abode
+- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
+- [[syq - will driven]] — `سِيقَ` · will driven
+- [[k*b - lied]] — `كَذَبَ` · lied
 - [[hAd - guide]] — `هاد` · guide
 - [[yxwf - frightens you]] — `يُخَوِّفُ` · frightens you
-- [[xznt - its keepers]] — `خَزَنَت` · its keepers
-- [[mtkbr - arrogant]] — `مُتَكَبِّر` · arrogant
-- [[syq - will driven]] — `سِيقَ` · will driven
 - [[>nAb - turns]] — `أَنابَ` · turns
+- [[mtkbr - arrogant]] — `مُتَكَبِّر` · arrogant
 - [[bdA - will appear]] — `بَدا` · will appear
-- [[mtwkl - trust]] — `مُتَوَكِّل` · trust
-- [[SEq - unconscious]] — `صَعِق` · unconscious
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[*nb - sins]] — `ذَنب` · sins
+- [[xznt - its keepers]] — `خَزَنَت` · its keepers
 - [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[sbyl - way]] — `سَبِيل` · way
-- [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[vlAv - three]] — `ثُلاث` · three
-- [[nwr - light]] — `نُور` · light
-- [[Elm - know]] — `عَلِمَ` · know
-- [[gfr - forgive]] — `غَفَرَ` · forgive
-- [[qDY - surely]] — `قَضَى` · surely
-- [[qnT - despair]] — `قَنَطُ` · despair
+- [[mHsn - good-doers]] — `مُحْسِن` · good-doers
+- [[<slAm - pretense islam]] — `إِسْلام` · pretense islam
+- [[xAlq - creator]] — `خالِق` · creator
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[dEA - call]] — `دَعا` · call
+- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[byn - between them]] — `بَيْن` · between them
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[wEd - promise]] — `وَعْد` · promise
 - [[msmY - appointed]] — `مُسَمًّى` · appointed
-- [[xsrAn - loss]] — `خُسْران` · loss
+- [[mt$Abh - similar]] — `مُتَشابِه` · similar
+- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[jry - flow]] — `جَرَيْ` · flow
 
 ## Roots
 
@@ -52,7 +52,7 @@ The Troops · 75 ayahs
 - [[$rk - polytheists]]
 - [[$rq - east]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[*wq - taste]]
 - [[>hl - people]]
@@ -87,7 +87,7 @@ The Troops · 75 ayahs
 - [[Erb - bedouins]]
 - [[Ewj - crookedness]]
 - [[Ezz - all-mighty]]
-- [[H*r - warns you]]
+- [[H*r - beware]]
 - [[HTm - debris]]
 - [[HbT - became worthless]]
 - [[Hdv - statement]]

@@ -14,36 +14,36 @@ The Pen · 52 ayahs
 
 ## Words in this surah (graph)
 
-- [[mjnwn - madman]] — `مَجْنُون` · madman
 - [[sjwd - prostrate]] — `سُجُود` · prostrate
+- [[gd - go early]] — `غَدَ` · go early
+- [[mjnwn - madman]] — `مَجْنُون` · madman
 - [[mSbH - morning]] — `مُصْبِح` · morning
-- [[gd - tomorrow]] — `غَدَ` · tomorrow
-- [[SAHb - companion]] — `صاحِب` · companion
 - [[>TAE - obey]] — `أَطاعَ` · obey
-- [[kyd - plot]] — `كَيْد` · plot
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[sbyl - way]] — `سَبِيل` · way
-- [[AdArk - arrested]] — `ادّارَكَ` · arrested
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[EsY - perhaps]] — `عَسَى` · perhaps
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[wd - wished]] — `وَدَّ` · wished
-- [[ybdl - would change them]] — `يُبْدِلَ` · would change them
+- [[>kbr - greater]] — `أَكْبَر` · greater
+- [[sAq - shins]] — `ساق` · shins
+- [[nEym - delight]] — `نَعِيم` · delight
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[dEA - call]] — `دَعا` · call
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[Hyv - wherever]] — `حَيْث` · wherever
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[tlY - recited]] — `تَلَى` · recited
+- [[AnTlq - proceed]] — `انطَلَقَ` · proceed
+- [[$ryk - partners]] — `شَرِيك` · partners
+- [[bEd - after]] — `بَعْد` · after
+- [[Hrv - harvest]] — `حَرْث` · harvest
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[AjtbY - chooses]] — `اجْتَبَى` · chooses
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[Elm - know]] — `عَلِمَ` · know
-- [[SAdq - truthful]] — `صادِق` · truthful
-- [[k$f - we removed]] — `كَشَفَ` · we removed
-- [[*lp - humiliation]] — `ذِلَّة` · humiliation
-- [[nb* - threw away]] — `نَبَذَ` · threw away
-- [[bSr - vision]] — `بَصَر` · vision
-- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
+- [[mmnwn - ending]] — `مَمْنُون` · ending
+- [[mAl - wealth]] — `مال` · wealth
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[mtqy - righteous]] — `مُتَّقي` · righteous
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[blw - test you]] — `بَلَوْ` · test you
 
 ## Roots
 
 - [[$rk - polytheists]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[*mm - disgraced]]
 - [[>jr - reward]]

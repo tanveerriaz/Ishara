@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** them · **Root:** كثر
 
+
 ### Words (wikilinks — these create the graph)
+- [[>kvr - made much]]
 - [[>kvr - them]]
 - [[Astkvr - acquire more]]
 - [[kvr - much]]

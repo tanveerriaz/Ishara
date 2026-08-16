@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** brother · **Root:** أخو
 
+
 ### Words (wikilinks — these create the graph)
 - [[<xwp - brothers]]
 - [[>x - brother]]

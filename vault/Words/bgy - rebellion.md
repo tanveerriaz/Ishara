@@ -2,8 +2,8 @@
 type: word
 lemma: "بَغْي"
 slug: "bgy - rebellion"
-surah_count: 9
-ayah_count: 13
+surah_count: 8
+ayah_count: 11
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **rebellion** · Lemma **بَغْي**
 
-### Surahs (9)
+### Surahs (8)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[010 Yunus]]
 - [[016 An-Nahl]]
-- [[019 Maryam]]
 - [[042 Ash-Shuraa]]
 - [[045 Al-Jathiyah]]
 
@@ -178,41 +177,41 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/16/90)
 
-#### 19:20 · [[019 Maryam]]
+#### 42:14 · [[042 Ash-Shuraa]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-قَالَتْ أَنَّىٰ يَكُونُ لِى غُلَـٰمٌ وَلَمْ يَمْسَسْنِى بَشَرٌ وَلَمْ أَكُ بَغِيًّا
+وَمَا تَفَرَّقُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ ۚ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن رَّبِّكَ إِلَىٰٓ أَجَلٍ مُّسَمًّى لَّقُضِىَ بَيْنَهُمْ ۚ وَإِنَّ ٱلَّذِينَ أُورِثُوا۟ ٱلْكِتَـٰبَ مِنۢ بَعْدِهِمْ لَفِى شَكٍّ مِّنْهُ مُرِيبٍ
 
 </div>
 
-**Word in this verse:** `بَغِيًّۭا` — unchaste
+**Word in this verse:** `بَغْيًۢا` — (out of) rivalry
 
-**English (Sahih International):** She said, "How can I have a boy while no man has touched me and I have not been unchaste?"
+**English (Sahih International):** And they did not become divided until after knowledge had come to them - out of jealous animosity between themselves. And if not for a word that preceded from your Lord [postponing the penalty] until a specified time, it would have been concluded between them. And indeed, those who were granted inheritance of the Scripture after them are, concerning it, in disquieting doubt.
 
-**English (Yusuf Ali):** She said: "How shall I have a son, seeing that no man has touched me, and I am not unchaste?"
+**English (Yusuf Ali):** And they became divided only after Knowledge reached them,- through selfish envy as between themselves. Had it not been for a Word that went forth before from thy Lord, (tending) to a Term appointed, the matter would have been settled between them: But truly those who have inherited the Book after them are in suspicious (disquieting) doubt concerning it.
 
-**Urdu (Fatah Muhammad Jalandhari):** مریم نے کہا کہ میرے ہاں لڑکا کیونکر ہوگا مجھے کسی بشر نے چھوا تک نہیں اور میں بدکار بھی نہیں ہوں
+**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ جو الگ الگ ہوئے ہیں تو علم (حق) آچکنے کے بعد آپس کی ضد سے (ہوئے ہیں)۔ اور اگر تمہارے پروردگار کی طرف سے ایک وقت مقرر تک کے لئے بات نہ ٹھہر چکی ہوتی تو ان میں فیصلہ کردیا جاتا۔ اور جو لوگ ان کے بعد (خدا کی) کتاب کے وارث ہوئے وہ اس (کی طرف) سے شبہے کی الجھن میں (پھنسے ہوئے) ہیں
 
-[Open on Quran.com](https://quran.com/19/20)
+[Open on Quran.com](https://quran.com/42/14)
 
-#### 19:28 · [[019 Maryam]]
+#### 42:39 · [[042 Ash-Shuraa]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-يَـٰٓأُخْتَ هَـٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا
+وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلْبَغْىُ هُمْ يَنتَصِرُونَ
 
 </div>
 
-**Word in this verse:** `بَغِيًّۭا` — unchaste
+**Word in this verse:** `ٱلْبَغْىُ` — tyranny
 
-**English (Sahih International):** O sister [i.e., descendant] of Aaron, your father was not a man of evil, nor was your mother unchaste."
+**English (Sahih International):** And those who, when tyranny strikes them, they retaliate [in a just manner].
 
-**English (Yusuf Ali):** "O sister of Aaron! Thy father was not a man of evil, nor thy mother a woman unchaste!"
+**English (Yusuf Ali):** And those who, when an oppressive wrong is inflicted on them, (are not cowed but) help and defend themselves.
 
-**Urdu (Fatah Muhammad Jalandhari):** اے ہارون کی بہن نہ تو تیرا باپ ہی بداطوار آدمی تھا اور نہ تیری ماں ہی بدکار تھی
+**Urdu (Fatah Muhammad Jalandhari):** اور جو ایسے ہیں کہ جب ان پر ظلم وتعدی ہو تو (مناسب طریقے سے) بدلہ لیتے ہیں
 
-[Open on Quran.com](https://quran.com/19/28)
+[Open on Quran.com](https://quran.com/42/39)
 
-_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

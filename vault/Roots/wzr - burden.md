@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** burden · **Root:** وزر
 
+
 ### Words (wikilinks — these create the graph)
 - [[wAzrp - bearer burdens]]
 - [[wzr - burden]]

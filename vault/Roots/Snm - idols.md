@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** idols · **Root:** صنم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>SnAm - idols]]
 

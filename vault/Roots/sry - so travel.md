@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** so travel · **Root:** سري
 
+
 ### Words (wikilinks — these create the graph)
 - [[>srY - so travel]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** proof · **Root:** برهن
 
+
 ### Words (wikilinks — these create the graph)
 - [[brhAn - proof]]
 

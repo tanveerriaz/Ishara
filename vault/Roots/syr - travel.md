@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** travel · **Root:** سير
 
+
 ### Words (wikilinks — these create the graph)
 - [[sAr - travel]]
 - [[syrt - could moved]]

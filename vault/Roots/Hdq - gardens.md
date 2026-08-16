@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** gardens · **Root:** حدق
 
+
 ### Words (wikilinks — these create the graph)
 - [[HdA}q - gardens]]
 

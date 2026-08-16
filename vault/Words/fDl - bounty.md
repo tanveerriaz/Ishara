@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "فَضَّلَ"
+lemma: "فَضْل"
 slug: "fDl - bounty"
-surah_count: 31
-ayah_count: 91
+surah_count: 29
+ayah_count: 77
 tags: [word, meaning]
 ---
 
@@ -17,21 +17,19 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[fDl - bounty]]
 
 ### Meaning
-**bounty** · Lemma **فَضَّلَ**
+**bounty** · Lemma **فَضْل**
 
-### Surahs (31)
+### Surahs (29)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
-- [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[008 Al-Anfal]]
 - [[009 At-Tawbah]]
 - [[010 Yunus]]
 - [[011 Hud]]
 - [[012 Yusuf]]
-- [[013 Ar-Rad]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
 - [[024 An-Nur]]
@@ -45,28 +43,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[042 Ash-Shuraa]]
 - [[044 Ad-Dukhan]]
 - [[045 Al-Jathiyah]]
+- [[048 Al-Fath]]
+- [[049 Al-Hujurat]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:47 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ عَلَى ٱلْعَـٰلَمِينَ
-
-</div>
-
-**Word in this verse:** `فَضَّلْتُكُمْ` — [I] preferred you
-
-**English (Sahih International):** O Children of Israel, remember My favor that I have bestowed upon you and that I preferred you over the worlds [i.e., peoples].
-
-**English (Yusuf Ali):** Children of Israel! call to mind the (special) favour which I bestowed upon you, and that I preferred you to all other (for My Message).
-
-**Urdu (Fatah Muhammad Jalandhari):** اے یعقوب کی اولاد! میرے وہ احسان یاد کرو، جو میں نے تم پر کئے تھے اور یہ کہ میں نے تم کو جہان کے لوگوں پر فضیلت بخشی تھی
-
-[Open on Quran.com](https://quran.com/2/47)
 
 #### 2:64 · [[002 Al-Baqarah]]
 
@@ -121,24 +103,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جو لوگ کافر ہیں، اہل کتاب یا مشرک وہ اس بات کو پسند نہیں کرتے کہ تم پر تمہارے پروردگار کی طرف سے خیر (وبرکت) نازل ہو۔ اور خدا تو جس کو چاہتا ہے، اپنی رحمت کے ساتھ خاص کر لیتا ہے اور خدا بڑے فضل کا مالک ہے
 
 [Open on Quran.com](https://quran.com/2/105)
-
-#### 2:122 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ عَلَى ٱلْعَـٰلَمِينَ
-
-</div>
-
-**Word in this verse:** `فَضَّلْتُكُمْ` — [I] preferred you
-
-**English (Sahih International):** O Children of Israel, remember My favor which I have bestowed upon you and that I preferred you over the worlds.
-
-**English (Yusuf Ali):** O Children of Israel! call to mind the special favour which I bestowed upon you, and that I preferred you to all others (for My Message).
-
-**Urdu (Fatah Muhammad Jalandhari):** اے بنی اسرائیل ! میرے وہ احسان یاد کرو، جو میں نے تم پر کئے اور یہ کہ میں نے تم کو اہلِ عالم پر فضیلت بخشی
-
-[Open on Quran.com](https://quran.com/2/122)
 
 #### 2:198 · [[002 Al-Baqarah]]
 
@@ -212,23 +176,59 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/251)
 
-#### 2:253 · [[002 Al-Baqarah]]
+#### 2:268 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-۞ تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۘ مِّنْهُم مَّن كَلَّمَ ٱللَّهُ ۖ وَرَفَعَ بَعْضَهُمْ دَرَجَـٰتٍ ۚ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَـٰتِ وَأَيَّدْنَـٰهُ بِرُوحِ ٱلْقُدُسِ ۗ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِنۢ بَعْدِهِم مِّنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَـٰتُ وَلَـٰكِنِ ٱخْتَلَفُوا۟ فَمِنْهُم مَّنْ ءَامَنَ وَمِنْهُم مَّن كَفَرَ ۚ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُوا۟ وَلَـٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ
+ٱلشَّيْطَـٰنُ يَعِدُكُمُ ٱلْفَقْرَ وَيَأْمُرُكُم بِٱلْفَحْشَآءِ ۖ وَٱللَّهُ يَعِدُكُم مَّغْفِرَةً مِّنْهُ وَفَضْلًا ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
 
 </div>
 
-**Word in this verse:** `فَضَّلْنَا` — We (have) preferred
+**Word in this verse:** `وَفَضْلًۭا ۗ` — and bounty
 
-**English (Sahih International):** Those messengers - some of them We caused to exceed others. Among them were those to whom Allāh spoke, and He raised some of them in degree. And We gave Jesus, the son of Mary, clear proofs, and We supported him with the Pure Spirit [i.e., Gabriel]. If Allāh had willed, those [generations] succeeding them would not have fought each other after the clear proofs had come to them. But they differed, and some of them believed and some of them disbelieved. And if Allāh had willed, they would not have fought each other, but Allāh does what He intends.
+**English (Sahih International):** Satan threatens you with poverty and orders you to immorality, while Allāh promises you forgiveness from Him and bounty. And Allāh is all-Encompassing and Knowing.
 
-**English (Yusuf Ali):** Those messengers We endowed with gifts, some above others: To one of them Allah spoke; others He raised to degrees (of honour); to Jesus the son of Mary We gave clear (Signs), and strengthened him with the holy spirit. If Allah had so willed, succeeding generations would not have fought among each other, after clear (Signs) had come to them, but they (chose) to wrangle, some believing and others rejecting. If Allah had so willed, they would not have fought each other; but Allah Fulfilleth His plan.
+**English (Yusuf Ali):** The Evil one threatens you with poverty and bids you to conduct unseemly. Allah promiseth you His forgiveness and bounties. And Allah careth for all and He knoweth all things.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہ پیغمبر (جو ہم وقتاً فوقتاً بھیجتے رہیں ہیں) ان میں سے ہم نے بعض کو بعض پر فضیلت دی ہے۔ بعض ایسے ہیں جن سے خدا نے گفتگو فرمائی اور بعض کے (دوسرے امور میں) مرتبے بلند کئے۔ اور عیسیٰ بن مریم کو ہم نے کھلی ہوئی نشانیاں عطا کیں اور روح القدس سے ان کو مدد دی۔ اور اگر خداچاہتا تو ان سے پچھلے لوگ اپنے پاس کھلی نشانیاں آنے کے بعد آپس میں نہ لڑتے لیکن انہوں نے اختلاف کیا تو ان میں سے بعض تو ایمان لے آئے اور بعض کافر ہی رہے۔ اور اگر خدا چاہتا تو یہ لوگ باہم جنگ و قتال نہ کرتے۔ لیکن خدا جو چاہتا ہے کرتا ہے
+**Urdu (Fatah Muhammad Jalandhari):** (اور دیکھنا) شیطان (کا کہنا نہ ماننا وہ) تمہیں تنگ دستی کا خوف دلاتا اور بےحیائی کے کام کر نے کو کہتا ہے۔ اور خدا تم سے اپنی بخشش اور رحمت کا وعدہ کرتا ہے۔ اور خدا بڑی کشائش والا (اور) سب کچھ جاننے والا ہے
 
-[Open on Quran.com](https://quran.com/2/253)
+[Open on Quran.com](https://quran.com/2/268)
 
-_…and **81** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 3:73 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تُؤْمِنُوٓا۟ إِلَّا لِمَن تَبِعَ دِينَكُمْ قُلْ إِنَّ ٱلْهُدَىٰ هُدَى ٱللَّهِ أَن يُؤْتَىٰٓ أَحَدٌ مِّثْلَ مَآ أُوتِيتُمْ أَوْ يُحَآجُّوكُمْ عِندَ رَبِّكُمْ ۗ قُلْ إِنَّ ٱلْفَضْلَ بِيَدِ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+
+</div>
+
+**Word in this verse:** `ٱلْفَضْلَ` — the Bounty
+
+**English (Sahih International):** And do not trust except those who follow your religion." Say, "Indeed, the [true] guidance is the guidance of Allāh. [Do you fear] lest someone be given [knowledge] like you were given or that they would [thereby] argue with you before your Lord?" Say, "Indeed, [all] bounty is in the hand of Allāh - He grants it to whom He wills. And Allāh is all-Encompassing and Wise."
+
+**English (Yusuf Ali):** "And believe no one unless he follows your religion." Say: "True guidance is the Guidance of Allah: (Fear ye) Lest a revelation be sent to someone (else) Like unto that which was sent unto you? or that those (Receiving such revelation) should engage you in argument before your Lord?" Say: "All bounties are in the hand of Allah: He granteth them to whom He pleaseth: And Allah careth for all, and He knoweth all things."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے دین کے پیرو کے سوا کسی اور کے قائل نہ ہونا (اے پیغمبر) کہہ دو کہ ہدایت تو خدا ہی کی ہدایت ہے (وہ یہ بھی کہتے ہیں) یہ بھی (نہ ماننا) کہ جو چیز تم کو ملی ہے ویسی کسی اور کو ملے گی یا وہ تمہیں خدا کے روبرو قائل معقول کر سکیں گے یہ بھی کہہ دو کہ بزرگی خدا ہی کے ہاتھ میں ہے وہ جسے چاہتا ہے دیتا ہے اور خدا کشائش والا (اور) علم والا ہے
+
+[Open on Quran.com](https://quran.com/3/73)
+
+#### 3:74 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَخْتَصُّ بِرَحْمَتِهِۦ مَن يَشَآءُ ۗ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
+
+</div>
+
+**Word in this verse:** `ٱلْفَضْلِ` — (of) Bounty 
+
+**English (Sahih International):** He selects for His mercy whom He wills. And Allāh is the possessor of great bounty.
+
+**English (Yusuf Ali):** For His Mercy He specially chooseth whom He pleaseth; for Allah is the Lord of bounties unbounded.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ اپنی رحمت سے جس کو چاہتا ہے خاص کر لیتا ہے اور خدا بڑے فضل کا مالک ہے
+
+[Open on Quran.com](https://quran.com/3/74)
+
+_…and **67** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

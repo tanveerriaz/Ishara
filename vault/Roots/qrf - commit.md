@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** commit · **Root:** قرف
 
+
 ### Words (wikilinks — these create the graph)
 - [[Aqtrf - commit]]
 

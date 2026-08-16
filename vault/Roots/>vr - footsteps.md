@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** footsteps · **Root:** أثر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>vr - footsteps]]
 - [[Avr - but prefer]]

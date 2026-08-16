@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** escaped you · **Root:** فوت
 
+
 ### Words (wikilinks — these create the graph)
 - [[fAt - escaped you]]
 

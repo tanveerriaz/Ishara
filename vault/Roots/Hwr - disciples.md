@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** disciples · **Root:** حور
 
+
 ### Words (wikilinks — these create the graph)
 - [[HwAry - disciples]]
 - [[Hwr - fair ones]]

@@ -3,7 +3,7 @@ type: word
 lemma: "دَخَلَ"
 slug: "dxl - enter"
 surah_count: 31
-ayah_count: 69
+ayah_count: 67
 tags: [word, meaning]
 ---
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/124)
 
-_…and **59** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **57** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

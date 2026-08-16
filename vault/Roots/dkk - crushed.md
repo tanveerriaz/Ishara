@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** crushed · **Root:** دكك
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

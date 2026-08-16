@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** bite chew · **Root:** عجم
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

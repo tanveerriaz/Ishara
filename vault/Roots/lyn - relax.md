@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** relax · **Root:** لين
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** invent · **Root:** فري
 
+
 ### Words (wikilinks — these create the graph)
 - [[AftrY - invent]]
 

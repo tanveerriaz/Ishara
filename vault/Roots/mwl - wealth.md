@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** wealth · **Root:** مول
 
+
 ### Words (wikilinks — these create the graph)
 - [[mAl - wealth]]
 

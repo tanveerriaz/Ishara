@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** diverse · **Root:** شتت
 
+
 ### Words (wikilinks — these create the graph)
 - [[$tY - diverse]]
 

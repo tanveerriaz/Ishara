@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** lowest · **Root:** سفل
 
+
 ### Words (wikilinks — these create the graph)
 - [[>sfl - lowest]]
 - [[sAfl - its downside]]

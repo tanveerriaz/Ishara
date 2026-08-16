@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we removed · **Root:** كشف
 
+
 ### Words (wikilinks — these create the graph)
 - [[k$f - we removed]]
 - [[kA$f - remover]]

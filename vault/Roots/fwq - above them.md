@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** above them · **Root:** فوق
 
+
 ### Words (wikilinks — these create the graph)
 - [[fwq - above them]]
 

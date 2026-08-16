@@ -2,8 +2,8 @@
 type: word
 lemma: "نَهَى"
 slug: "nhY - forbid"
-surah_count: 19
-ayah_count: 33
+surah_count: 18
+ayah_count: 31
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **forbid** · Lemma **نَهَى**
 
-### Surahs (19)
+### Surahs (18)
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
@@ -29,7 +29,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[011 Hud]]
 - [[015 Al-Hijr]]
 - [[016 An-Nahl]]
-- [[020 Taha]]
 - [[022 Al-Hajj]]
 - [[029 Al-Ankabut]]
 - [[031 Luqman]]
@@ -224,5 +223,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/20)
 
-_…and **23** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **21** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

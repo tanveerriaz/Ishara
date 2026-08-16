@@ -15,36 +15,36 @@ The Most High · 19 ayahs
 ## Words in this surah (graph)
 
 - [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[dnyA - world]] — `دُنْيا` · world
-- [[nAr - fire]] — `نار` · fire
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[ysr - ease]] — `يُسْر` · ease
-- [[*krY - reminder]] — `ذِكْرَى` · reminder
-- [[>wl - first]] — `أَوَّل` · first
-- [[rb - lord]] — `رَبّ` · lord
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[mAt - died]] — `ماتَ` · died
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[kbrY - greatest]] — `كُبْرَى` · greatest
-- [[xyr - better]] — `خَيْر` · better
-- [[allah - God]] — `الله` · God
-- [[HY - we live]] — `حَىَّ` · we live
-- [[HyAp - life]] — `حَياة` · life
-- [[Avr - but prefer]] — `آثَرَ` · but prefer
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[yxfY - hidden]] — `يَخْفَى` · hidden
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[$A' - he wills]] — `شاءَ` · he wills
 - [[SlY - send blessings]] — `صَلَّى` · send blessings
+- [[rb - lord]] — `رَبّ` · lord
+- [[*krY - reminder]] — `ذِكْرَى` · reminder
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[Asm - name]] — `اسْم` · name
+- [[allah - God]] — `الله` · God
+- [[kbrY - greatest]] — `كُبْرَى` · greatest
+- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
+- [[yxfY - hidden]] — `يَخْفَى` · hidden
+- [[mAt - died]] — `ماتَ` · died
+- [[Avr - but prefer]] — `آثَرَ` · but prefer
+- [[>ElY - highest]] — `أَعْلَى` · highest
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[ysr - ease]] — `يَسَّرَ` · ease
+- [[xlq - created]] — `خَلَقَ` · created
+- [[nsy - they forgot]] — `نَسِيَ` · they forgot
+- [[nfE - benefits]] — `نَفَعَ` · benefits
+- [[qdr - determined it]] — `قَدَّرَ` · determined it
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[nAr - fire]] — `نار` · fire
+- [[>flH - successful]] — `أَفْلَحَ` · successful
+- [[jhr - public mention]] — `جَهْر` · public mention
 
 ## Roots
 
 - [[$qw - wretched one]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>vr - footsteps]]
 - [[>wl - first]]
 - [[>xr - hereafter]]

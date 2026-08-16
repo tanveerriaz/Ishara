@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** mock · **Root:** هزأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[Asthz} - mock]]
 - [[hzw - ridicule]]

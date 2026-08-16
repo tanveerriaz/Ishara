@@ -11,10 +11,12 @@ tags: [root, meaning]
 
 **Sense:** son · **Root:** بني
 
+
 ### Words (wikilinks — these create the graph)
 - [[Abn - son]]
 - [[bnA' - canopy]]
 - [[bnY - children]]
+- [[bnY - construct]]
 - [[bnt - daughters]]
 - [[bnyAn - building]]
 

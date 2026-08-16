@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** pearls · **Root:** لؤلؤ
 
+
 ### Words (wikilinks — these create the graph)
 - [[l&l& - pearls]]
 

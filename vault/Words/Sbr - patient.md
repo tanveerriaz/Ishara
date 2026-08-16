@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "صَبْر"
+lemma: "صَبَرَ"
 slug: "Sbr - patient"
-surah_count: 36
-ayah_count: 69
+surah_count: 34
+ayah_count: 56
 tags: [word, meaning]
 ---
 
@@ -17,9 +17,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[Sbr - patient]]
 
 ### Meaning
-**patient** · Lemma **صَبْر**
+**patient** · Lemma **صَبَرَ**
 
-### Surahs (36)
+### Surahs (34)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -50,24 +50,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
 
-#### 2:45 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَـٰشِعِينَ
-
-</div>
-
-**Word in this verse:** `بِٱلصَّبْرِ` — through patience
-
-**English (Sahih International):** And seek help through patience and prayer; and indeed, it is difficult except for the humbly submissive [to Allāh]
-
-**English (Yusuf Ali):** Nay, seek (Allah's) help with patient perseverance and prayer: It is indeed hard, except to those who bring a lowly spirit,-
-
-**Urdu (Fatah Muhammad Jalandhari):** اور (رنج وتکلیف میں) صبر اور نماز سے مدد لیا کرو اور بے شک نماز گراں ہے، مگر ان لوگوں پر (گراں نہیں) جو عجز کرنے والے ہیں
-
-[Open on Quran.com](https://quran.com/2/45)
-
 #### 2:61 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -86,24 +68,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/61)
 
-#### 2:153 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ
-
-</div>
-
-**Word in this verse:** `بِٱلصَّبْرِ` — through patience
-
-**English (Sahih International):** O you who have believed, seek help through patience and prayer. Indeed, Allāh is with the patient.
-
-**English (Yusuf Ali):** O ye who believe! seek help with patient perseverance and prayer; for Allah is with those who patiently persevere.
-
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو صبر اور نماز سے مدد لیا کرو بےشک خدا صبر کرنے والوں کے ساتھ ہے
-
-[Open on Quran.com](https://quran.com/2/153)
-
 #### 2:175 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -121,24 +85,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے ہدایت چھوڑ کر گمراہی اور بخشش چھوڑ کر عذاب خریدا۔ یہ (آتش) جہنم کی کیسی برداشت کرنے والے ہیں!
 
 [Open on Quran.com](https://quran.com/2/175)
-
-#### 2:250 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ
-
-</div>
-
-**Word in this verse:** `صَبْرًۭا` — patience
-
-**English (Sahih International):** And when they went forth to [face] Goliath and his soldiers, they said, "Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people."
-
-**English (Yusuf Ali):** When they advanced to meet Goliath and his forces, they prayed: "Our Lord! Pour out constancy on us and make our steps firm: Help us against those that reject faith."
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب وہ لوگ جالوت اور اس کے لشکر کے مقابل آئے تو (خدا سے) دعا کی کہ اے پروردگار ہم پر صبر کے دہانے کھول دے اور ہمیں (لڑائی میں) ثابت قدم رکھ اور (لشکر) کفار پر فتحیاب کر
-
-[Open on Quran.com](https://quran.com/2/250)
 
 #### 3:120 · [[003 Ali Imran]]
 
@@ -230,5 +176,59 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/25)
 
-_…and **59** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 6:34 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ فَصَبَرُوا۟ عَلَىٰ مَا كُذِّبُوا۟ وَأُوذُوا۟ حَتَّىٰٓ أَتَىٰهُمْ نَصْرُنَا ۚ وَلَا مُبَدِّلَ لِكَلِمَـٰتِ ٱللَّهِ ۚ وَلَقَدْ جَآءَكَ مِن نَّبَإِى۟ ٱلْمُرْسَلِينَ
+
+</div>
+
+**Word in this verse:** `فَصَبَرُوا۟` — but they were patient
+
+**English (Sahih International):** And certainly were messengers denied before you, but they were patient over the denial, and they were harmed until Our victory came to them. And none can alter the words [i.e., decrees] of Allāh. And there has certainly come to you some information about the [previous] messengers.
+
+**English (Yusuf Ali):** Rejected were the messengers before thee: with patience and constancy they bore their rejection and their wrongs, until Our aid did reach them: there is none that can alter the words (and decrees) of Allah. Already hast thou received some account of those messengers.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تم سے پہلے کبھی پیغمبر جھٹلائے جاتے رہے تو وہ تکذیب اور ایذا پر صبر کرتے رہے یہاں تک کہ ان کے پاس ہماری مدد پہنچتی رہی اور خدا کی باتوں کو کوئی بھی بدلنے والا نہیں۔ اور تم کو پیغمبروں (کے احوال) کی خبریں پہنچ چکی ہیں (تو تم بھی صبر سے کام لو)
+
+[Open on Quran.com](https://quran.com/6/34)
+
+#### 7:87 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِن كَانَ طَآئِفَةٌ مِّنكُمْ ءَامَنُوا۟ بِٱلَّذِىٓ أُرْسِلْتُ بِهِۦ وَطَآئِفَةٌ لَّمْ يُؤْمِنُوا۟ فَٱصْبِرُوا۟ حَتَّىٰ يَحْكُمَ ٱللَّهُ بَيْنَنَا ۚ وَهُوَ خَيْرُ ٱلْحَـٰكِمِينَ
+
+</div>
+
+**Word in this verse:** `فَٱصْبِرُوا۟` — then be patient
+
+**English (Sahih International):** And if there should be a group among you who has believed in that with which I have been sent and a group that has not believed, then be patient until Allāh judges between us. And He is the best of judges."
+
+**English (Yusuf Ali):** "And if there is a party among you who believes in the message with which I have been sent, and a party which does not believe, hold yourselves in patience until Allah doth decide between us: for He is the best to decide.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم میں سے ایک جماعت میری رسالت پر ایمان لے آئی ہے اور ایک جماعت ایمان نہیں لائی ہے۔ اور ایک جماعت ایمان نہیں لائی۔ تو صبر کیے رہو یہاں تک کہ خدا ہمارے تمہارے درمیان فیصلہ کر دے اور وہ سب سے بہتر فیصلہ کرنے والا ہے
+
+[Open on Quran.com](https://quran.com/7/87)
+
+#### 7:128 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ مُوسَىٰ لِقَوْمِهِ ٱسْتَعِينُوا۟ بِٱللَّهِ وَٱصْبِرُوٓا۟ ۖ إِنَّ ٱلْأَرْضَ لِلَّهِ يُورِثُهَا مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَٱلْعَـٰقِبَةُ لِلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `وَٱصْبِرُوٓا۟ ۖ` — and be patient
+
+**English (Sahih International):** Said Moses to his people, "Seek help through Allāh and be patient. Indeed, the earth belongs to Allāh. He causes to inherit it whom He wills of His servants. And the [best] outcome is for the righteous."
+
+**English (Yusuf Ali):** Said Moses to his people: "Pray for help from Allah, and (wait) in patience and constancy: for the earth is Allah's, to give as a heritage to such of His servants as He pleaseth; and the end is (best) for the righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** موسیٰ نے اپنی قوم سے کہا کہ خدا سے مدد مانگو اور ثابت قدم رہو۔ زمین تو خدا کی ہے۔ وہ اپنے بندوں میں سے جسے چاہتا ہے اس کا مالک بناتا ہے۔ اور آخر بھلا تو ڈرنے والوں کا ہے
+
+[Open on Quran.com](https://quran.com/7/128)
+
+_…and **46** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

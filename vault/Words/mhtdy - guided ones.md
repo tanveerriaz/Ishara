@@ -3,7 +3,7 @@ type: word
 lemma: "مُهْتَدي"
 slug: "mhtdy - guided ones"
 surah_count: 10
-ayah_count: 18
+ayah_count: 17
 tags: [word, meaning]
 ---
 
@@ -179,24 +179,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/30)
 
-#### 7:178 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-مَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِى ۖ وَمَن يُضْلِلْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ
-
-</div>
-
-**Word in this verse:** `ٱلْمُهْتَدِى ۖ` — (is) the guided one
-
-**English (Sahih International):** Whoever Allāh guides - he is the [rightly] guided; and whoever He sends astray - it is those who are the losers.
-
-**English (Yusuf Ali):** Whom Allah doth guide,- he is on the right path: whom He rejects from His guidance,- such are the persons who perish.
-
-**Urdu (Fatah Muhammad Jalandhari):** جس کو خدا ہدایت دے وہی راہ یاب ہے اور جس کو گمراہ کرے تو ایسے ہی لوگ نقصان اٹھانے والے ہیں
-
-[Open on Quran.com](https://quran.com/7/178)
-
 #### 9:18 · [[009 At-Tawbah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -215,5 +197,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/9/18)
 
-_…and **8** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 10:45 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَيَوْمَ يَحْشُرُهُمْ كَأَن لَّمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّنَ ٱلنَّهَارِ يَتَعَارَفُونَ بَيْنَهُمْ ۚ قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ وَمَا كَانُوا۟ مُهْتَدِينَ
+
+</div>
+
+**Word in this verse:** `مُهْتَدِينَ` — the guided ones
+
+**English (Sahih International):** And on the Day when He will gather them, [it will be] as if they had not remained [in the world] but an hour of the day, [and] they will know each other. Those will have lost who denied the meeting with Allāh and were not guided.
+
+**English (Yusuf Ali):** One day He will gather them together: (It will be) as if they had tarried but an hour of a day: they will recognise each other: assuredly those will be lost who denied the meeting with Allah and refused to receive true guidance.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جس دن خدا ان کو جمع کرے گا (تو وہ دنیا کی نسبت ایسا خیال کریں گے کہ) گویا (وہاں) گھڑی بھر دن سے زیادہ رہے ہی نہیں تھے (اور) آپس میں ایک دوسرے کو شناخت بھی کریں گے۔ جن لوگوں نے خدا کے روبرو حاضر ہونے کو جھٹلایا وہ خسارے میں پڑ گئے اور راہ یاب نہ ہوئے
+
+[Open on Quran.com](https://quran.com/10/45)
+
+_…and **7** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -14,39 +14,39 @@ The Overthrowing · 29 ayahs
 
 ## Words in this surah (graph)
 
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[lyl - night]] — `لَيْل` · night
-- [[qtl - kill]] — `قَتَلَ` · kill
-- [[>y - o you]] — `أَيّ` · o you
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[$ms - sun]] — `شَمْس` · sun
-- [[syrt - could moved]] — `سُيِّرَتْ` · could moved
-- [[SAHb - companion]] — `صاحِب` · companion
-- [[rb - lord]] — `رَبّ` · lord
-- [[*nb - sins]] — `ذَنب` · sins
 - [[n$rt - will spread]] — `نُشِرَتْ` · will spread
-- [[jwAr - ships]] — `جَوار` · ships
-- [[qwl - speech]] — `قَوْل` · speech
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[bHr - sea]] — `بَحْر` · sea
-- [[Er$ - throne]] — `عَرْش` · throne
-- [[>fq - horizons]] — `أُفُق` · horizons
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[rjym - accursed]] — `رَجِيم` · accursed
+- [[rb - lord]] — `رَبّ` · lord
+- [[s>l - ask]] — `سَأَلَ` · ask
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[krym - noble]] — `كَرِيم` · noble
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[smA' - heavens]] — `سَماء` · heavens
 - [[allah - God]] — `الله` · God
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
+- [[qtl - kill]] — `قَتَلَ` · kill
+- [[jwAr - ships]] — `جَوار` · ships
+- [[*hb - go]] — `ذَهَبَ` · go
+- [[$ms - sun]] — `شَمْس` · sun
+- [[lyl - night]] — `لَيْل` · night
+- [[SAHb - companion]] — `صاحِب` · companion
+- [[qwp - strength]] — `قُوَّة` · strength
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
 - [[jnp - gardens]] — `جَنَّة` · gardens
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[End - near]] — `عِند` · near
+- [[mjnwn - madman]] — `مَجْنُون` · madman
+- [[syrt - could moved]] — `سُيِّرَتْ` · could moved
+- [[>fq - horizons]] — `أُفُق` · horizons
+- [[>y - o you]] — `أَيّ` · o you
 
 ## Roots
 
 - [[$Tn - shaitaan]]
 - [[$ms - sun]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[>fq - horizons]]
 - [[>mn - believe]]

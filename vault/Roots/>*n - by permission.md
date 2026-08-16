@@ -11,9 +11,12 @@ tags: [root, meaning]
 
 **Sense:** by permission · **Root:** أذن
 
+
 ### Words (wikilinks — these create the graph)
 - [[<*n - by permission]]
+- [[>*n - called out]]
 - [[>*n - ears]]
+- [[>*n - permits]]
 - [[Ast>*n - ask permission]]
 
 ### Surahs where this root appears

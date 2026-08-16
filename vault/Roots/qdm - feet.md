@@ -11,8 +11,11 @@ tags: [root, meaning]
 
 **Sense:** feet · **Root:** قدم
 
+
 ### Words (wikilinks — these create the graph)
 - [[qdm - feet]]
+- [[qdm - he will precede]]
+- [[qdm - sent forth]]
 - [[qdym - old]]
 - [[ystqdm - seek advance it]]
 

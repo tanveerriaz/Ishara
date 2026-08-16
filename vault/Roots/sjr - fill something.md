@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fill something · **Root:** سجر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

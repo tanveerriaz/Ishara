@@ -15,30 +15,30 @@ Sheba · 54 ayahs
 ## Words in this surah (graph)
 
 - [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
+- [[*rp - atom]] — `ذَرَّة` · atom
+- [[qdr - determined it]] — `قَدَّرَ` · determined it
+- [[$kwr - grateful]] — `شَكُور` · grateful
 - [[dl - direct you]] — `دَلَّ` · direct you
 - [[mvqAl - weight]] — `مِثْقال` · weight
-- [[fzE - terror]] — `فَزَع` · terror
-- [[$kwr - grateful]] — `شَكُور` · grateful
+- [[jnp - madness]] — `جِنَّة` · madness
 - [[$k - doubt]] — `شَكّ` · doubt
-- [[*rp - atom]] — `ذَرَّة` · atom
 - [[q*f - cast him]] — `قَذَفَ` · cast him
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[mkAn - place]] — `مَكان` · place
-- [[$mAl - left]] — `شِمال` · left
-- [[zAg - deviated]] — `زاغَ` · deviated
-- [[DEf - double]] — `ضِعْف` · double
-- [[AtY - give]] — `آتَى` · give
-- [[jn - covered]] — `جَنَّ` · covered
-- [[SAHb - companion]] — `صاحِب` · companion
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[mhyn - humiliating]] — `مُهِين` · humiliating
-- [[qlyl - little]] — `قَلِيل` · little
 - [[zEm - claim]] — `زَعَمَ` · claim
-- [[sEY - strive]] — `سَعَى` · strive
-- [[ksf - fragments]] — `كِسَف` · fragments
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[bArk - we blessed]] — `بارَكَ` · we blessed
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[>kbr - greater]] — `أَكْبَر` · greater
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[Enq - necks]] — `عُنُق` · necks
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[krym - noble]] — `كَرِيم` · noble
+- [[bldp - land]] — `بَلْدَة` · land
+- [[zAg - deviated]] — `زاغَ` · deviated
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[$hyd - witness]] — `شَهِيد` · witness
+- [[Ebd - worship]] — `عَبَدَ` · worship
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[dEA - call]] — `دَعا` · call
 
 ## Roots
 

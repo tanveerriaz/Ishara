@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hands · **Root:** يدي
 
+
 ### Words (wikilinks — these create the graph)
 - [[yd - hands]]
 

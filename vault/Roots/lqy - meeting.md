@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** meeting · **Root:** لقي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>lqY - throw]]
 - [[AltqY - met]]

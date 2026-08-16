@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** old woman · **Root:** عجز
 
+
 ### Words (wikilinks — these create the graph)
 - [[Ejwz - old woman]]
 - [[mEjz - can escape]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** miserly · **Root:** شحح
 
+
 ### Words (wikilinks — these create the graph)
 - [[$H - miserly]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** side corner thing · **Root:** ركن
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

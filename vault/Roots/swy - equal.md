@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** equal · **Root:** سوي
 
+
 ### Words (wikilinks — these create the graph)
 - [[AstwY - equal]]
 - [[swA' - it same]]

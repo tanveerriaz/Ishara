@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** one · **Root:** وحد
 
+
 ### Words (wikilinks — these create the graph)
 - [[wAHd - one]]
 - [[wAHdp - single]]

@@ -2,8 +2,8 @@
 type: word
 lemma: "بَعْد"
 slug: "bEd - after"
-surah_count: 55
-ayah_count: 195
+surah_count: 54
+ayah_count: 188
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **after** · Lemma **بَعْد**
 
-### Surahs (55)
+### Surahs (54)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/109)
 
-_…and **185** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **178** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

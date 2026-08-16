@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** you see · **Root:** رأي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>ry - show me]]
 - [[r'yA - vision]]
+- [[r>Y - sight]]
 - [[r>Y - you see]]
 - [[r}A' - seen]]
 

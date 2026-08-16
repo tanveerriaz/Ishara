@@ -14,31 +14,31 @@ Mary · 98 ayahs
 
 ## Words in this surah (graph)
 
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
 - [[whb - grant]] — `وَهَبَ` · grant
+- [[rHmn - gracious]] — `رَحْمٰن` · gracious
 - [[glAm - boy]] — `غُلام` · boy
-- [[wrv - will inherit]] — `وَرِثَ` · will inherit
 - [[swy - even]] — `سَوِيّ` · even
+- [[wrv - will inherit]] — `وَرِثَ` · will inherit
+- [[Ed - number]] — `عَدّ` · number
+- [[Sdyq - truthful]] — `صِدِّيق` · truthful
 - [[EbAdt - worship]] — `عِبادَت` · worship
-- [[jbAr - tyrant]] — `جَبّار` · tyrant
-- [[xr - fell down]] — `خَرَّ` · fell down
-- [[yHyY - will yahya]] — `يَحْيَى` · will yahya
-- [[bkrp - morning]] — `بُكْرَة` · morning
-- [[Ed - you count]] — `عَدَّ` · you count
 - [[qrn - generations]] — `قَرْن` · generations
 - [[AEtzl - they withdraw you]] — `اعْتَزَلَ` · they withdraw you
-- [[>bSr - see]] — `أَبْصَرَ` · see
-- [[dEA' - call]] — `دُعاء` · call
 - [[Aty - surely coming]] — `آتِي` · surely coming
-- [[md - spread]] — `مَدَّ` · spread
-- [[lsAn - tongues]] — `لِسان` · tongues
+- [[>bSr - see]] — `أَبْصَرَ` · see
 - [[Ely - high]] — `عَلِيّ` · high
-- [[Sdyq - truthful]] — `صِدِّيق` · truthful
-- [[bgy - rebellion]] — `بَغْي` · rebellion
+- [[jbAr - tyrant]] — `جَبّار` · tyrant
+- [[Hy - living]] — `حَيّ` · living
+- [[dEA' - call]] — `دُعاء` · call
+- [[lsAn - tongues]] — `لِسان` · tongues
+- [[yHyY - will yahya]] — `يَحْيَى` · will yahya
+- [[xr - fell down]] — `خَرَّ` · fell down
+- [[wld - he begot]] — `وَلَدَ` · he begot
+- [[Ed - you count]] — `عَدَّ` · you count
+- [[md - extension]] — `مَدّ` · extension
 - [[E$y - evening]] — `عَشِيّ` · evening
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[<nsAn - man]] — `إِنسان` · man
-- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[md - spread]] — `مَدَّ` · spread
+- [[bgy - unchaste]] — `بَغِيّ` · unchaste
 
 ## Roots
 
@@ -56,7 +56,7 @@ Mary · 98 ayahs
 - [[$y> - thing]]
 - [[$yE - sects]]
 - [[$yb - white]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*rr - offspring]]
 - [[>Hd - anyone]]
 - [[>bw - forefathers]]

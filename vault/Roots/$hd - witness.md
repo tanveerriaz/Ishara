@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** witness · **Root:** شهد
 
+
 ### Words (wikilinks — these create the graph)
 - [[$Ahd - witnesses]]
 - [[$hAdp - witnessed]]

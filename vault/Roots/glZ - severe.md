@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** severe · **Root:** غلظ
 
+
 ### Words (wikilinks — these create the graph)
 - [[glyZ - severe]]
 

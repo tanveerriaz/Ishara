@@ -2,8 +2,8 @@
 type: word
 lemma: "نَسِيَ"
 slug: "nsy - they forgot"
-surah_count: 18
-ayah_count: 32
+surah_count: 17
+ayah_count: 30
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **they forgot** · Lemma **نَسِيَ**
 
-### Surahs (18)
+### Surahs (17)
 - [[002 Al-Baqarah]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[009 At-Tawbah]]
 - [[018 Al-Kahf]]
-- [[019 Maryam]]
 - [[020 Taha]]
 - [[025 Al-Furqan]]
 - [[028 Al-Qasas]]
@@ -223,5 +222,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/165)
 
-_…and **22** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **20** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

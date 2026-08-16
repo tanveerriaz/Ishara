@@ -2,8 +2,8 @@
 type: word
 lemma: "مَغْرَم"
 slug: "mgrm - debt"
-surah_count: 4
-ayah_count: 4
+surah_count: 3
+ayah_count: 3
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **debt** · Lemma **مَغْرَم**
 
-### Surahs (4)
+### Surahs (3)
 - [[009 At-Tawbah]]
 - [[052 At-Tur]]
-- [[056 Al-Waqiah]]
 - [[068 Al-Qalam]]
 
 ## Verses (full text)
@@ -64,24 +63,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر) کیا تم ان سے صلہ مانگتے ہو کہ ان پر تاوان کا بوجھ پڑ رہا ہے
 
 [Open on Quran.com](https://quran.com/52/40)
-
-#### 56:66 · [[056 Al-Waqiah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِنَّا لَمُغْرَمُونَ
-
-</div>
-
-**Word in this verse:** `لَمُغْرَمُونَ` — surely are laden with debt
-
-**English (Sahih International):** [Saying], "Indeed, we are [now] in debt;
-
-**English (Yusuf Ali):** (Saying), "We are indeed left with debts (for nothing):
-
-**Urdu (Fatah Muhammad Jalandhari):** (کہ ہائے) ہم تو مفت تاوان میں پھنس گئے
-
-[Open on Quran.com](https://quran.com/56/66)
 
 #### 68:46 · [[068 Al-Qalam]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** humiliation · **Root:** ذلل
 
+
 ### Words (wikilinks — these create the graph)
 - [[*lp - humiliation]]
 - [[>*lp - weak]]

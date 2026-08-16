@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** throne · **Root:** عرش
 
+
 ### Words (wikilinks — these create the graph)
 - [[Er$ - throne]]
 

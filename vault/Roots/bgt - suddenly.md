@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** suddenly · **Root:** بغت
 
+
 ### Words (wikilinks — these create the graph)
 - [[bgtp - suddenly]]
 

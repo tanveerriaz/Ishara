@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** heavy · **Root:** ثقل
 
+
 ### Words (wikilinks — these create the graph)
 - [[mvqAl - weight]]
 - [[vql - burdens]]

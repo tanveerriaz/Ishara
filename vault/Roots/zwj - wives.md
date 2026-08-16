@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** wives · **Root:** زوج
 
+
 ### Words (wikilinks — these create the graph)
 - [[zwj - wives]]
 - [[zwjt - paired]]

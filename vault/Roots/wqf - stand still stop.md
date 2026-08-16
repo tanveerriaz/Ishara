@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** stand still stop · **Root:** وقف
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

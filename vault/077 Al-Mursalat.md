@@ -14,38 +14,38 @@ The Emissaries · 50 ayahs
 
 ## Words in this surah (graph)
 
+- [[fSl - judgment]] — `فَصْل` · judgment
 - [[AnTlq - proceed]] — `انطَلَقَ` · proceed
-- [[n*r - vows]] — `نَذَرْ` · vows
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[wAqE - would fall]] — `واقِع` · would fall
-- [[qlyl - little]] — `قَلِيل` · little
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[kyd - plot]] — `كَيْد` · plot
-- [[fwAkh - fruits]] — `فَواكِه` · fruits
-- [[vlAv - three]] — `ثُلاث` · three
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>rD - earth]] — `أَرْض` · earth
-- [[yEt*r - make excuse]] — `يَعْتَذِرُ` · make excuse
-- [[>jl - term]] — `أَجَل` · term
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[frq - they differentiate]] — `فَرَقْ` · they differentiate
-- [[>sqy - we give you]] — `أَسْقَيْ` · we give you
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[>tbE - he followed]] — `أَتْبَعَ` · he followed
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[Eyn - eyes]] — `عَيْن` · eyes
-- [[frAt - sweet]] — `فُرات` · sweet
-- [[mk*b - deniers]] — `مُكَذِّب` · deniers
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
-- [[Zl - shade]] — `ظِلّ` · shade
+- [[rmY - accuse]] — `رَمَى` · accuse
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[mHsn - good-doers]] — `مُحْسِن` · good-doers
 - [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[Zl - shade]] — `ظِلّ` · shade
+- [[Tmst - we efface]] — `طُمِسَتْ` · we efface
+- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[bEd - after]] — `بَعْد` · after
+- [[yEt*r - make excuse]] — `يَعْتَذِرُ` · make excuse
+- [[ynTq - speak]] — `يَنطِقُ` · speak
+- [[mtqy - righteous]] — `مُتَّقي` · righteous
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[kyd - surely]] — `كِيدُ` · surely
+- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
+- [[qAl - say]] — `قالَ` · say
+- [[mkyn - firmly established]] — `مَكِين` · firmly established
+- [[qSr - palaces]] — `قَصْر` · palaces
+- [[fwAkh - fruits]] — `فَواكِه` · fruits
+- [[>tbE - he followed]] — `أَتْبَعَ` · he followed
+- [[mElwm - known]] — `مَعْلُوم` · known
+- [[A$tht - they desire]] — `اشْتَهَتْ` · they desire
+- [[Amn - believe]] — `آمَنَ` · believe
 
 ## Roots
 
 - [[$hw - they desire]]
 - [[$rb - drink]]
 - [[$rr - evil]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>*n - by permission]]
 - [[>jl - term]]
 - [[>kl - eat]]
@@ -70,7 +70,7 @@ The Emissaries · 50 ayahs
 - [[bEd - after]]
 - [[dry - can make you]]
 - [[fEl - you do]]
-- [[fSl - we explain]]
+- [[fSl - judgment]]
 - [[fkh - fruits]]
 - [[frj - chastity]]
 - [[frq - party]]

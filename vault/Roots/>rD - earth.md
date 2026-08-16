@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** earth · **Root:** أرض
 
+
 ### Words (wikilinks — these create the graph)
 - [[>rD - earth]]
 

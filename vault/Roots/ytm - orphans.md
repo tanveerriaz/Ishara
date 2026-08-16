@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** orphans · **Root:** يتم
 
+
 ### Words (wikilinks — these create the graph)
 - [[ytym - orphans]]
 

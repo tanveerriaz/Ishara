@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** effort · **Root:** سعي
 
+
 ### Words (wikilinks — these create the graph)
 - [[sEY - strive]]
 - [[sEy - effort]]

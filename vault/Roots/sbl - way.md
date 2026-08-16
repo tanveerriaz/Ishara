@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** way · **Root:** سبل
 
+
 ### Words (wikilinks — these create the graph)
 - [[sbyl - way]]
 

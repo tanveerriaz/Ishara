@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** hardship · **Root:** عسر
 
+
 ### Words (wikilinks — these create the graph)
 - [[Esr - hardship]]
 

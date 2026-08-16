@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** press squeeze something · **Root:** عصر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

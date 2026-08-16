@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** wishful thinking · **Root:** مني
 
+
 ### Words (wikilinks — these create the graph)
 - [[>mnyt - wishful thinking]]
 - [[tmnY - he recited]]

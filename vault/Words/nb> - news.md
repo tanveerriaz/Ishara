@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "نَبَّأَ"
+lemma: "نَبَأ"
 slug: "nb> - news"
-surah_count: 35
-ayah_count: 72
+surah_count: 20
+ayah_count: 29
 tags: [word, meaning]
 ---
 
@@ -17,9 +17,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[nb> - prophet]]
 
 ### Meaning
-**news** · Lemma **نَبَّأَ**
+**news** · Lemma **نَبَأ**
 
-### Surahs (35)
+### Surahs (20)
 - [[003 Ali Imran]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
@@ -28,45 +28,22 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[010 Yunus]]
 - [[011 Hud]]
 - [[012 Yusuf]]
-- [[013 Ar-Rad]]
 - [[014 Ibrahim]]
-- [[015 Al-Hijr]]
 - [[018 Al-Kahf]]
 - [[020 Taha]]
-- [[022 Al-Hajj]]
-- [[024 An-Nur]]
 - [[026 Ash-Shuara]]
 - [[027 An-Naml]]
 - [[028 Al-Qasas]]
-- [[029 Al-Ankabut]]
-- [[031 Luqman]]
 - [[033 Al-Ahzab]]
-- [[034 Saba]]
-- [[035 Fatir]]
 - [[038 Sad]]
-- [[039 Az-Zumar]]
+- [[049 Al-Hujurat]]
+- [[054 Al-Qamar]]
+- [[064 At-Taghabun]]
+- [[078 An-Naba]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 3:15 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ قُلْ أَؤُنَبِّئُكُم بِخَيْرٍ مِّن ذَٰلِكُمْ ۚ لِلَّذِينَ ٱتَّقَوْا۟ عِندَ رَبِّهِمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا وَأَزْوَٰجٌ مُّطَهَّرَةٌ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ ۗ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ
-
-</div>
-
-**Word in this verse:** `أَؤُنَبِّئُكُم` — Shall I inform you
-
-**English (Sahih International):** Say, "Shall I inform you of [something] better than that? For those who fear Allāh will be gardens in the presence of their Lord beneath which rivers flow, wherein they abide eternally, and purified spouses and approval from Allāh. And Allāh is Seeing [i.e., aware] of [His] servants -
-
-**English (Yusuf Ali):** Say: Shall I give you glad tidings of things Far better than those? For the righteous are Gardens in nearness to their Lord, with rivers flowing beneath; therein is their eternal home; with companions pure (and holy); and the good pleasure of Allah. For in Allah's sight are (all) His servants,-
-
-**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر ان سے) کہو کہ بھلا میں تم کو ایسی چیز بتاؤں جو ان چیزوں سے کہیں اچھی ہو (سنو) جو لوگ پرہیزگار ہیں ان کے لیے خدا کے ہاں باغات (بہشت) ہیں جن کے نیچے نہریں بہہ رہی ہیں ان میں وہ ہمیشہ رہیں گے اور پاکیزہ عورتیں ہیں اور (سب سے بڑھ کر) خدا کی خوشنودی اور خدا (اپنے نیک) بندوں کو دیکھ رہا ہے
-
-[Open on Quran.com](https://quran.com/3/15)
 
 #### 3:44 · [[003 Ali Imran]]
 
@@ -86,42 +63,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/44)
 
-#### 3:49 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ ۖ أَنِّىٓ أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ ۖ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ ۖ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
-
-</div>
-
-**Word in this verse:** `وَأُنَبِّئُكُم` — And I inform you
-
-**English (Sahih International):** And [make him] a messenger to the Children of Israel, [who will say], 'Indeed I have come to you with a sign from your Lord in that I design for you from clay [that which is] like the form of a bird, then I breathe into it and it becomes a bird by permission of Allāh. And I cure the blind [from birth] and the leper, and I give life to the dead - by permission of Allāh. And I inform you of what you eat and what you store in your houses. Indeed in that is a sign for you, if you are believers.
-
-**English (Yusuf Ali):** "And (appoint him) a messenger to the Children of Israel, (with this message): "'I have come to you, with a Sign from your Lord, in that I make for you out of clay, as it were, the figure of a bird, and breathe into it, and it becomes a bird by Allah's leave: And I heal those born blind, and the lepers, and I quicken the dead, by Allah's leave; and I declare to you what ye eat, and what ye store in your houses. Surely therein is a Sign for you if ye did believe;
-
-**Urdu (Fatah Muhammad Jalandhari):** اور (عیسیٰ) بنی اسرائیل کی طرف پیغمبر (ہو کر جائیں گے اور کہیں گے) کہ میں تمہارے پروردگار کی طرف سے نشانی لے کر آیا ہوں وہ یہ کہ تمہارے سامنے مٹی کی مورت بشکل پرند بناتا ہوں پھر اس میں پھونک مارتا ہوں تو وہ خدا کے حکم سے (سچ مچ) جانور ہو جاتا ہے اور اندھے اور ابرص کو تندرست کر دیتا ہوں اور خدا کے حکم سے مردے میں جان ڈال دیتا ہوں اور جو کچھ تم کھا کر آتے ہو اور جو اپنے گھروں میں جمع کر رکھتے ہو سب تم کو بتا دیتا ہوں اگر تم صاحب ایمان ہو تو ان باتوں میں تمہارے لیے (قدرت خدا کی) نشانی ہے
-
-[Open on Quran.com](https://quran.com/3/49)
-
-#### 5:14 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَـٰرَىٰٓ أَخَذْنَا مِيثَـٰقَهُمْ فَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
-
-</div>
-
-**Word in this verse:** `يُنَبِّئُهُمُ` — will inform them
-
-**English (Sahih International):** And from those who say, "We are Christians" We took their covenant; but they forgot a portion of that of which they were reminded. So We caused among them animosity and hatred until the Day of Resurrection. And Allāh is going to inform them about what they used to do.
-
-**English (Yusuf Ali):** From those, too, who call themselves Christians, We did take a covenant, but they forgot a good part of the message that was sent them: so we estranged them, with enmity and hatred between the one and the other, to the day of judgment. And soon will Allah show them what it is they have done.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ (اپنے تئیں) کہتے ہیں کہ ہم نصاریٰ ہیں ہم نے ان سے بھی عہد لیا تھا مگر انہوں نے بھی اس نصیحت کا جو ان کو کی گئی تھی ایک حصہ فراموش کر دیا تو ہم نے ان کے باہم قیامت تک کے لیے دشمنی اور کینہ ڈال دیا اور جو کچھ وہ کرتے رہے خدا عنقریب ان کو اس سے آگاہ کرے گا
-
-[Open on Quran.com](https://quran.com/5/14)
-
 #### 5:27 · [[005 Al-Maidah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -139,60 +80,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور (اے محمد) ان کو آدم کے دو بیٹوں (ہابیل اور قابیل) کے حالات (جو بالکل) سچے (ہیں) پڑھ کر سنا دو کہ جب ان دونوں نے خدا (کی جناب میں) کچھ نیازیں چڑھائیں تو ایک کی نیاز تو قبول ہو گئی اور دوسرے کی قبول نہ ہوئی (تب قابیل ہابیل سے) کہنے لگا کہ میں تجھے قتل کروں گا اس نے کہا کہ خدا پرہیزگاروں ہی کی (نیاز) قبول فرمایا کرتا ہے
 
 [Open on Quran.com](https://quran.com/5/27)
-
-#### 5:48 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَأَنزَلْنَآ إِلَيْكَ ٱلْكِتَـٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ مِنَ ٱلْكِتَـٰبِ وَمُهَيْمِنًا عَلَيْهِ ۖ فَٱحْكُم بَيْنَهُم بِمَآ أَنزَلَ ٱللَّهُ ۖ وَلَا تَتَّبِعْ أَهْوَآءَهُمْ عَمَّا جَآءَكَ مِنَ ٱلْحَقِّ ۚ لِكُلٍّ جَعَلْنَا مِنكُمْ شِرْعَةً وَمِنْهَاجًا ۚ وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَكُمْ أُمَّةً وَٰحِدَةً وَلَـٰكِن لِّيَبْلُوَكُمْ فِى مَآ ءَاتَىٰكُمْ ۖ فَٱسْتَبِقُوا۟ ٱلْخَيْرَٰتِ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُم بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
-
-</div>
-
-**Word in this verse:** `فَيُنَبِّئُكُم` — then He will inform you
-
-**English (Sahih International):** And We have revealed to you, [O Muḥammad], the Book [i.e., the Qur’ān] in truth, confirming that which preceded it of the Scripture and as a criterion over it. So judge between them by what Allāh has revealed and do not follow their inclinations away from what has come to you of the truth. To each of you We prescribed a law and a method. Had Allāh willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good. To Allāh is your return all together, and He will [then] inform you concerning that over which you used to differ.
-
-**English (Yusuf Ali):** To thee We sent the Scripture in truth, confirming the scripture that came before it, and guarding it in safety: so judge between them by what Allah hath revealed, and follow not their vain desires, diverging from the Truth that hath come to thee. To each among you have we prescribed a law and an open way. If Allah had so willed, He would have made you a single people, but (His plan is) to test you in what He hath given you: so strive as in a race in all virtues. The goal of you all is to Allah; it is He that will show you the truth of the matters in which ye dispute;
-
-**Urdu (Fatah Muhammad Jalandhari):** اور (اے پیغمبر!) ہم نے تم پر سچی کتاب نازل کی ہے جو اپنے سے پہلی کتابوں کی تصدیق کرتی ہے اور ان (سب) پر شامل ہے تو جو حکم خدا نے نازل فرمایا ہے اس کے مطابق ان کا فیصلہ کرنا اور حق جو تمہارے پاس آچکا ہے اس کو چھوڑ کر ان کی خواہشوں کی پیروی نہ کرنا ہم نے تم میں سے ہر ایک (فرقے) کے لیے ایک دستور اور طریقہ مقرر کیا ہے اور اگر خدا چاہتا تو سب کو ایک ہی شریعت پر کر دیتا مگر جو حکم اس نے تم کو دیئے ہیں ان میں وہ تمہاری آزمائش کرنی چاہتا ہے سو نیک کاموں میں جلدی کرو تم سب کو خدا کی طرف لوٹ کر جانا ہے پھر جن باتوں میں تم کو اختلاف تھا وہ تم کو بتا دے گا
-
-[Open on Quran.com](https://quran.com/5/48)
-
-#### 5:60 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ ۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّـٰغُوتَ ۚ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ
-
-</div>
-
-**Word in this verse:** `أُنَبِّئُكُم` — I inform you
-
-**English (Sahih International):** Say, "Shall I inform you of [what is] worse than that as penalty from Allāh? [It is that of] those whom Allāh has cursed and with whom He became angry and made of them apes and pigs and slaves of ṭāghūt. Those are worse in position and further astray from the sound way."
-
-**English (Yusuf Ali):** Say: "Shall I point out to you something much worse than this, (as judged) by the treatment it received from Allah? those who incurred the curse of Allah and His wrath, those of whom some He transformed into apes and swine, those who worshipped evil;- these are (many times) worse in rank, and far more astray from the even path!"
-
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ میں تمہیں بتاؤں کہ خدا کے ہاں اس سے بھی بدتر جزا پانے والے کون ہیں؟ وہ لوگ ہیں جن پر خدا نے لعنت کی اور جن پر وہ غضبناک ہوا اور (جن کو) ان میں سے بندر اور سور بنا دیا اور جنہوں نے شیطان کی پرستش کی ایسے لوگوں کا برا ٹھکانہ ہے اور وہ سیدھے رستے سے بہت دور ہیں
-
-[Open on Quran.com](https://quran.com/5/60)
-
-#### 5:105 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ عَلَيْكُمْ أَنفُسَكُمْ ۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهْتَدَيْتُمْ ۚ إِلَى ٱللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
-
-</div>
-
-**Word in this verse:** `فَيُنَبِّئُكُم` — then He will inform you
-
-**English (Sahih International):** O you who have believed, upon you is [responsibility for] yourselves. Those who have gone astray will not harm you when you have been guided. To Allāh is your return all together; then He will inform you of what you used to do.
-
-**English (Yusuf Ali):** O ye who believe! Guard your own souls: If ye follow (right) guidance, no hurt can come to you from those who stray. the goal of you all is to Allah: it is He that will show you the truth of all that ye do.
-
-**Urdu (Fatah Muhammad Jalandhari):** اے ایمان والو! اپنی جانوں کی حفاظت کرو جب تم ہدایت پر ہو تو کوئی گمراہ تمہارا کچھ بھی بگاڑ نہیں سکتا تم سب کو خدا کی طرف لوٹ کر جانا ہے اس وقت وہ تم کو تمہارے سب کاموں سے جو (دنیا میں) کئے تھے آگاہ کرے گا (اور ان کا بدلہ دے گا)
-
-[Open on Quran.com](https://quran.com/5/105)
 
 #### 6:5 · [[006 Al-Anam]]
 
@@ -230,5 +117,113 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/34)
 
-_…and **62** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 6:67 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لِّكُلِّ نَبَإٍ مُّسْتَقَرٌّ ۚ وَسَوْفَ تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `نَبَإٍۢ` — news
+
+**English (Sahih International):** For every news [i.e., happening] is a finality; and you are going to know.
+
+**English (Yusuf Ali):** For every message is a limit of time, and soon shall ye know it."
+
+**Urdu (Fatah Muhammad Jalandhari):** ہر خبر کے لئے ایک وقت مقرر ہے اور تم کو عنقریب معلوم ہوجائے گا
+
+[Open on Quran.com](https://quran.com/6/67)
+
+#### 7:101 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+تِلْكَ ٱلْقُرَىٰ نَقُصُّ عَلَيْكَ مِنْ أَنۢبَآئِهَا ۚ وَلَقَدْ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ فَمَا كَانُوا۟ لِيُؤْمِنُوا۟ بِمَا كَذَّبُوا۟ مِن قَبْلُ ۚ كَذَٰلِكَ يَطْبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلْكَـٰفِرِينَ
+
+</div>
+
+**Word in this verse:** `أَنۢبَآئِهَا ۚ` — their news
+
+**English (Sahih International):** Those cities - We relate to you, [O Muḥammad], some of their news. And certainly did their messengers come to them with clear proofs, but they were not to believe in that which they had denied before. Thus does Allāh seal over the hearts of the disbelievers.
+
+**English (Yusuf Ali):** Such were the towns whose story We (thus) relate unto thee: There came indeed to them their messengers with clear (signs): But they would not believe what they had rejected before. Thus doth Allah seal up the hearts of those who reject faith.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ بستیاں ہیں جن کے کچھ حالات ہم تم کو سناتے ہیں۔ اور ان کے پاس ان کے پیغمبر نشانیاں لے کر آئے۔ مگر وہ ایسے نہیں تھے کہ جس چیز کو پہلے جھٹلا چکے ہوں اسے مان لیں اسی طرح خدا کافروں کے دلوں پر مہر لگا دیتا ہے
+
+[Open on Quran.com](https://quran.com/7/101)
+
+#### 7:175 · [[007 Al-Araf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱلَّذِىٓ ءَاتَيْنَـٰهُ ءَايَـٰتِنَا فَٱنسَلَخَ مِنْهَا فَأَتْبَعَهُ ٱلشَّيْطَـٰنُ فَكَانَ مِنَ ٱلْغَاوِينَ
+
+</div>
+
+**Word in this verse:** `نَبَأَ` — (the) story
+
+**English (Sahih International):** And recite to them, [O Muḥammad], the news of him to whom We gave [knowledge of] Our signs, but he detached himself from them; so Satan pursued him, and he became of the deviators.
+
+**English (Yusuf Ali):** Relate to them the story of the man to whom We sent Our signs, but he passed them by: so Satan followed him up, and he went astray.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو اس شخص کا حال پڑھ کر سنا دو جس کو ہم نے اپنی آیتیں عطا فرمائیں (اور ہفت پارچہٴ علم شرائع سے مزین کیا) تو اس نے ان کو اتار دیا پھر شیطان اس کے پیچھے لگا تو وہ گمراہوں میں ہوگیا
+
+[Open on Quran.com](https://quran.com/7/175)
+
+#### 9:70 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ إِبْرَٰهِيمَ وَأَصْحَـٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَـٰتِ ۚ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ ۖ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+
+</div>
+
+**Word in this verse:** `نَبَأُ` — (the) news
+
+**English (Sahih International):** Has there not reached them the news of those before them - the people of Noah and [the tribes of] ʿAad and Thamūd and the people of Abraham and the companions [i.e., dwellers] of Madyan and the towns overturned? Their messengers came to them with clear proofs. And Allāh would never have wronged them, but they were wronging themselves.
+
+**English (Yusuf Ali):** Hath not the story reached them of those before them?- the People of Noah, and 'Ad, and Thamud; the People of Abraham, the men of Midian, and the cities overthrown. To them came their messengers with clear signs. It is not Allah Who wrongs them, but they wrong their own souls.
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا ان کو ان لوگوں (کے حالات) کی خبر نہیں پہنچی جو ان سے پہلے تھے (یعنی) نوح اور عاد اور ثمود کی قوم۔ اور ابراہیم کی قوم اور مدین والے اور الٹی ہوئی بستیوں والے۔ ان کے پاس پیغمبر نشانیاں لے لے کر آئے۔ اور خدا تو ایسا نہ تھا کہ ان پر ظلم کرتا لیکن وہی اپنے آپ پر ظلم کرتے تھے
+
+[Open on Quran.com](https://quran.com/9/70)
+
+#### 10:71 · [[010 Yunus]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَٱتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِۦ يَـٰقَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِى وَتَذْكِيرِى بِـَٔايَـٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلْتُ فَأَجْمِعُوٓا۟ أَمْرَكُمْ وَشُرَكَآءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةً ثُمَّ ٱقْضُوٓا۟ إِلَىَّ وَلَا تُنظِرُونِ
+
+</div>
+
+**Word in this verse:** `نَبَأَ` — the news
+
+**English (Sahih International):** And recite to them the news of Noah, when he said to his people, "O my people, if my residence and my reminding of the signs of Allāh has become burdensome upon you - then I have relied upon Allāh. So resolve upon your plan and [call upon] your associates. Then let not your plan be obscure to you. Then carry it out upon me and do not give me respite.
+
+**English (Yusuf Ali):** Relate to them the story of Noah. Behold! he said to his people: "O my people, if it be hard on your (mind) that I should stay (with you) and commemorate the signs of Allah,- yet I put my trust in Allah. Get ye then an agreement about your plan and among your partners, so your plan be on to you dark and dubious. Then pass your sentence on me, and give me no respite.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ان کو نوح کا قصہ پڑھ کر سنادو۔ جب انہوں نے اپنی قوم سے کہا کہ اے قوم! اگر تم کو میرا تم میں رہنا اور خدا کی آیتوں سے نصیحت کرنا ناگوار ہو تو میں خدا پر بھروسہ رکھتا ہوں۔ تم اپنے شریکوں کے ساتھ مل کر ایک کام (جو میرے بارے میں کرنا چاہو) مقرر کرلو اور وہ تمہاری تمام جماعت (کو معلوم ہوجائے اور کسی) سے پوشیدہ نہ رہے اور پھر وہ کام میرے حق میں کر گزرو اور مجھے مہلت نہ دو
+
+[Open on Quran.com](https://quran.com/10/71)
+
+#### 11:49 · [[011 Hud]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+تِلْكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهَآ إِلَيْكَ ۖ مَا كُنتَ تَعْلَمُهَآ أَنتَ وَلَا قَوْمُكَ مِن قَبْلِ هَـٰذَا ۖ فَٱصْبِرْ ۖ إِنَّ ٱلْعَـٰقِبَةَ لِلْمُتَّقِينَ
+
+</div>
+
+**Word in this verse:** `أَنۢبَآءِ` — the news
+
+**English (Sahih International):** That is from the news of the unseen which We reveal to you, [O Muḥammad]. You knew it not, neither you nor your people, before this. So be patient; indeed, the [best] outcome is for the righteous.
+
+**English (Yusuf Ali):** Such are some of the stories of the unseen, which We have revealed unto thee: before this, neither thou nor thy people knew them. So persevere patiently: for the End is for those who are righteous.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ (حالات) منجملہ غیب کی خبروں کے ہیں جو ہم تمہاری طرف بھیجتے ہیں۔ اور اس سے پہلے نہ تم ہی ان کو جانتے تھے اور نہ تمہاری قوم (ہی ان سے واقف تھی) تو صبر کرو کہ انجام پرہیزگاروں ہی کا (بھلا) ہے
+
+[Open on Quran.com](https://quran.com/11/49)
+
+_…and **19** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

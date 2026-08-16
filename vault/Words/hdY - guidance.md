@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "هَدَى"
+lemma: "هُدًى"
 slug: "hdY - guidance"
-surah_count: 56
-ayah_count: 200
+surah_count: 31
+ayah_count: 77
 tags: [word, meaning]
 ---
 
@@ -17,10 +17,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[hdy - guide]]
 
 ### Meaning
-**guidance** · Lemma **هَدَى**
+**guidance** · Lemma **هُدًى**
 
-### Surahs (56)
-- [[001 Al-Fatihah]]
+### Surahs (31)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -30,43 +29,26 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[009 At-Tawbah]]
 - [[010 Yunus]]
 - [[012 Yusuf]]
-- [[013 Ar-Rad]]
-- [[014 Ibrahim]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
 - [[019 Maryam]]
 - [[020 Taha]]
-- [[021 Al-Anbya]]
 - [[022 Al-Hajj]]
-- [[024 An-Nur]]
-- [[026 Ash-Shuara]]
 - [[027 An-Naml]]
 - [[028 Al-Qasas]]
-- [[029 Al-Ankabut]]
-- [[030 Ar-Rum]]
+- [[031 Luqman]]
+- [[032 As-Sajdah]]
+- [[034 Saba]]
+- [[039 Az-Zumar]]
+- [[040 Ghafir]]
+- [[041 Fussilat]]
+- [[045 Al-Jathiyah]]
+- [[047 Muhammad]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 1:6 · [[001 Al-Fatihah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
-
-</div>
-
-**Word in this verse:** `ٱهْدِنَا` — Guide us
-
-**English (Sahih International):** Guide us to the straight path -
-
-**English (Yusuf Ali):** Show us the straight way,
-
-**Urdu (Fatah Muhammad Jalandhari):** ہم کو سیدھے رستے چلا
-
-[Open on Quran.com](https://quran.com/1/6)
 
 #### 2:2 · [[002 Al-Baqarah]]
 
@@ -122,24 +104,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/16)
 
-#### 2:26 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ إِنَّ ٱللَّهَ لَا يَسْتَحْىِۦٓ أَن يَضْرِبَ مَثَلًا مَّا بَعُوضَةً فَمَا فَوْقَهَا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۖ وَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۘ يُضِلُّ بِهِۦ كَثِيرًا وَيَهْدِى بِهِۦ كَثِيرًا ۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلْفَـٰسِقِينَ
-
-</div>
-
-**Word in this verse:** `وَيَهْدِى` — and He guides
-
-**English (Sahih International):** Indeed, Allāh is not timid to present an example - that of a mosquito or what is smaller than it. And those who have believed know that it is the truth from their Lord. But as for those who disbelieve, they say, "What did Allāh intend by this as an example?" He misleads many thereby and guides many thereby. And He misleads not except the defiantly disobedient,
-
-**English (Yusuf Ali):** Allah disdains not to use the similitude of things, lowest as well as highest. Those who believe know that it is truth from their Lord; but those who reject Faith say: "What means Allah by this similitude?" By it He causes many to stray, and many He leads into the right path; but He causes not to stray, except those who forsake (the path),-
-
-**Urdu (Fatah Muhammad Jalandhari):** الله اس بات سے عار نہیں کرتا کہ مچھر یا اس سے بڑھ کر کسی چیز (مثلاً مکھی مکڑی وغیرہ) کی مثال بیان فرمائے۔ جو مومن ہیں، وہ یقین کرتے ہیں وہ ان کے پروردگار کی طرف سے سچ ہے اور جو کافر ہیں وہ کہتے ہیں کہ اس مثال سے خدا کی مراد ہی کیا ہے۔ اس سے (خدا) بہتوں کو گمراہ کرتا ہے اور بہتوں کو ہدایت بخشتا ہے اور گمراہ بھی کرتا تو نافرمانوں ہی کو
-
-[Open on Quran.com](https://quran.com/2/26)
-
 #### 2:38 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -194,41 +158,77 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/120)
 
-#### 2:142 · [[002 Al-Baqarah]]
+#### 2:159 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-۞ سَيَقُولُ ٱلسُّفَهَآءُ مِنَ ٱلنَّاسِ مَا وَلَّىٰهُمْ عَن قِبْلَتِهِمُ ٱلَّتِى كَانُوا۟ عَلَيْهَا ۚ قُل لِّلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ ۚ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَـٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّـٰهُ لِلنَّاسِ فِى ٱلْكِتَـٰبِ ۙ أُو۟لَـٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّـٰعِنُونَ
 
 </div>
 
-**Word in this verse:** `يَهْدِى` — He guides
+**Word in this verse:** `وَٱلْهُدَىٰ` — and the Guidance
 
-**English (Sahih International):** The foolish among the people will say, "What has turned them away from their qiblah, which they used to face?" Say, "To Allāh belongs the east and the west. He guides whom He wills to a straight path."
+**English (Sahih International):** Indeed, those who conceal what We sent down of clear proofs and guidance after We made it clear for the people in the Scripture - those are cursed by Allāh and cursed by those who curse,
 
-**English (Yusuf Ali):** The fools among the people will say: "What hath turned them from the Qibla to which they were used?" Say: To Allah belong both east and West: He guideth whom He will to a Way that is straight.
+**English (Yusuf Ali):** Those who conceal the clear (Signs) We have sent down, and the Guidance, after We have made it clear for the people in the Book,-on them shall be Allah's curse, and the curse of those entitled to curse,-
 
-**Urdu (Fatah Muhammad Jalandhari):** احمق لوگ کہیں گے کہ مسلمان جس قبلے پر (پہلے سے چلے آتے) تھے (اب) اس سے کیوں منہ پھیر بیٹھے۔ تم کہہ دو کہ مشرق اور مغرب سب خدا ہی کا ہے۔ وہ جس کو چاہتا ہے، سیدھے رستے پر چلاتا ہے
+**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ہمارے حکموں اور ہدایتوں کو جو ہم نے نازل کی ہیں (کسی غرض فاسد سے) چھپاتے ہیں باوجود یہ کہ ہم نے ان لوگوں کے (سمجھانے کے) لئے اپنی کتاب میں کھول کھول کر بیان کردیا ہے۔ ایسوں پر خدا اور تمام لعنت کرنے والے لعنت کرتے ہیں
 
-[Open on Quran.com](https://quran.com/2/142)
+[Open on Quran.com](https://quran.com/2/159)
 
-#### 2:143 · [[002 Al-Baqarah]]
+#### 2:175 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَكَذَٰلِكَ جَعَلْنَـٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيْكُمْ شَهِيدًا ۗ وَمَا جَعَلْنَا ٱلْقِبْلَةَ ٱلَّتِى كُنتَ عَلَيْهَآ إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ ۚ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُ ۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَـٰنَكُمْ ۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ
+أُو۟لَـٰٓئِكَ ٱلَّذِينَ ٱشْتَرَوُا۟ ٱلضَّلَـٰلَةَ بِٱلْهُدَىٰ وَٱلْعَذَابَ بِٱلْمَغْفِرَةِ ۚ فَمَآ أَصْبَرَهُمْ عَلَى ٱلنَّارِ
 
 </div>
 
-**Word in this verse:** `هَدَى` — guided
+**Word in this verse:** `بِٱلْهُدَىٰ` — for [the] Guidance
 
-**English (Sahih International):** And thus We have made you a median [i.e., just] community that you will be witnesses over the people and the Messenger will be a witness over you. And We did not make the qiblah which you used to face except that We might make evident who would follow the Messenger from who would turn back on his heels. And indeed, it is difficult except for those whom Allāh has guided. And never would Allāh have caused you to lose your faith [i.e., your previous prayers]. Indeed Allāh is, to the people, Kind and Merciful.
+**English (Sahih International):** Those are the ones who have exchanged guidance for error and forgiveness for punishment. How patient they are for [i.e., in pursuit of] the Fire!
 
-**English (Yusuf Ali):** Thus, have We made of you an Ummat justly balanced, that ye might be witnesses over the nations, and the Messenger a witness over yourselves; and We appointed the Qibla to which thou wast used, only to test those who followed the Messenger from those who would turn on their heels (From the Faith). Indeed it was (A change) momentous, except to those guided by Allah. And never would Allah Make your faith of no effect. For Allah is to all people Most surely full of kindness, Most Merciful.
+**English (Yusuf Ali):** They are the ones who buy Error in place of Guidance and Torment in place of Forgiveness. Ah! what boldness (They show) for the Fire!
 
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے تم کو امتِ معتدل بنایا ہے، تاکہ تم لوگوں پر گواہ بنو اور پیغمبر (آخرالزماں) تم پر گواہ بنیں۔ اور جس قبلے پر تم (پہلے) تھے، اس کو ہم نے اس لیے مقرر کیا تھا کہ معلوم کریں، کون (ہمارے) پیغمبر کا تابع رہتا ہے، اور کون الٹے پاؤں پھر جاتا ہے۔ اور یہ بات (یعنی تحویل قبلہ لوگوں کو) گراں معلوم ہوئی، مگر جن کو خدا نے ہدایت بخشی (وہ اسے گراں نہیں سمجھتے) اور خدا ایسا نہیں کہ تمہارے ایمان کو یونہی کھو دے۔ خدا تو لوگوں پر بڑا مہربان (اور) صاحبِ رحمت ہے
+**Urdu (Fatah Muhammad Jalandhari):** یہ وہ لوگ ہیں جنہوں نے ہدایت چھوڑ کر گمراہی اور بخشش چھوڑ کر عذاب خریدا۔ یہ (آتش) جہنم کی کیسی برداشت کرنے والے ہیں!
 
-[Open on Quran.com](https://quran.com/2/143)
+[Open on Quran.com](https://quran.com/2/175)
 
-_…and **190** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 2:185 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًى لِّلنَّاسِ وَبَيِّنَـٰتٍ مِّنَ ٱلْهُدَىٰ وَٱلْفُرْقَانِ ۚ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ ۖ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ ۗ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ
+
+</div>
+
+**Word in this verse:** `هُدًۭى` — a Guidance
+
+**English (Sahih International):** The month of Ramaḍān [is that] in which was revealed the Qur’ān, a guidance for the people and clear proofs of guidance and criterion. So whoever sights [the crescent of] the month, let him fast it; and whoever is ill or on a journey - then an equal number of other days. Allāh intends for you ease and does not intend for you hardship and [wants] for you to complete the period and to glorify Allāh for that [to] which He has guided you; and perhaps you will be grateful.
+
+**English (Yusuf Ali):** Ramadhan is the (month) in which was sent down the Qur'an, as a guide to mankind, also clear (Signs) for guidance and judgment (Between right and wrong). So every one of you who is present (at his home) during that month should spend it in fasting, but if any one is ill, or on a journey, the prescribed period (Should be made up) by days later. Allah intends every facility for you; He does not want to put to difficulties. (He wants you) to complete the prescribed period, and to glorify Him in that He has guided you; and perchance ye shall be grateful.
+
+**Urdu (Fatah Muhammad Jalandhari):** (روزوں کا مہینہ) رمضان کا مہینہ (ہے) جس میں قرآن (اول اول) نازل ہوا جو لوگوں کا رہنما ہے اور (جس میں) ہدایت کی کھلی نشانیاں ہیں اور (جو حق و باطل کو) الگ الگ کرنے والا ہے تو جو کوئی تم میں سے اس مہینے میں موجود ہو چاہیئے کہ پورے مہینے کے روزے رکھے اور جو بیمار ہو یا سفر میں ہو تو دوسرے دنوں میں (رکھ کر) ان کا شمار پورا کرلے۔ خدا تمہارے حق میں آسانی چاہتا ہے اور سختی نہیں چاہتا اور (یہ آسانی کا حکم) اس لئے (دیا گیا ہے) کہ تم روزوں کا شمار پورا کرلو اور اس احسان کے بدلے کہ خدا نے تم کو ہدایت بخشی ہے تم اس کو بزرگی سے یاد کر واور اس کا شکر کرو
+
+[Open on Quran.com](https://quran.com/2/185)
+
+#### 2:272 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ لَّيْسَ عَلَيْكَ هُدَىٰهُمْ وَلَـٰكِنَّ ٱللَّهَ يَهْدِى مَن يَشَآءُ ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَلِأَنفُسِكُمْ ۚ وَمَا تُنفِقُونَ إِلَّا ٱبْتِغَآءَ وَجْهِ ٱللَّهِ ۚ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
+
+</div>
+
+**Word in this verse:** `هُدَىٰهُمْ` — (is) their guidance
+
+**English (Sahih International):** Not upon you, [O Muḥammad], is [responsibility for] their guidance, but Allāh guides whom He wills. And whatever good you [believers] spend is for yourselves, and you do not spend except seeking the face [i.e., approval] of Allāh. And whatever you spend of good - it will be fully repaid to you, and you will not be wronged.
+
+**English (Yusuf Ali):** It is not required of thee (O Messenger), to set them on the right path, but Allah sets on the right path whom He pleaseth. Whatever of good ye give benefits your own souls, and ye shall only do so seeking the "Face" of Allah. Whatever good ye give, shall be rendered back to you, and ye shall not Be dealt with unjustly.
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے محمدﷺ) تم ان لوگوں کی ہدایت کے ذمہ دار نہیں ہو بلکہ خدا ہی جس کو چاہتا ہے ہدایت بخشتا ہے۔ اور (مومنو) تم جو مال خرچ کرو گے تو اس کا فائدہ تمہیں کو ہے اور تم جو خرچ کرو گے خدا کی خوشنودی کے لئے کرو گے۔ اور جو مال تم خرچ کرو گے وہ تمہیں پورا پورا دے دیا جائے گا اور تمہارا کچھ نقصان نہیں کیا جائے گا،
+
+[Open on Quran.com](https://quran.com/2/272)
+
+_…and **67** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

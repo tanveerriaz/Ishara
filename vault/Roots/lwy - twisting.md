@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** twisting · **Root:** لوي
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

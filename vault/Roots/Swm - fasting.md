@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fasting · **Root:** صوم
 
+
 ### Words (wikilinks — these create the graph)
 - [[SyAm - fasting]]
 

@@ -2,8 +2,8 @@
 type: word
 lemma: "ظاهِر"
 slug: "ZAhr - apparent"
-surah_count: 11
-ayah_count: 14
+surah_count: 7
+ayah_count: 8
 tags: [word, meaning]
 ---
 
@@ -19,17 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **apparent** · Lemma **ظاهِر**
 
-### Surahs (11)
+### Surahs (7)
 - [[006 Al-Anam]]
-- [[009 At-Tawbah]]
 - [[013 Ar-Rad]]
 - [[018 Al-Kahf]]
 - [[030 Ar-Rum]]
-- [[033 Al-Ahzab]]
 - [[040 Ghafir]]
 - [[057 Al-Hadid]]
-- [[058 Al-Mujadila]]
-- [[060 Al-Mumtahanah]]
 - [[061 As-Saf]]
 
 ## Verses (full text)
@@ -53,24 +49,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور ظاہری اور پوشیدہ (ہر طرح کا) گناہ ترک کر دو جو لوگ گناہ کرتے ہیں وہ عنقریب اپنے کئے کی سزا پائیں گے
 
 [Open on Quran.com](https://quran.com/6/120)
-
-#### 9:4 · [[009 At-Tawbah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِلَّا ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَـٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ
-
-</div>
-
-**Word in this verse:** `يُظَـٰهِرُوا۟` — they have supported
-
-**English (Sahih International):** Excepted are those with whom you made a treaty among the polytheists and then they have not been deficient toward you in anything or supported anyone against you; so complete for them their treaty until their term [has ended]. Indeed, Allāh loves the righteous [who fear Him].
-
-**English (Yusuf Ali):** (But the treaties are) not dissolved with those Pagans with whom ye have entered into alliance and who have not subsequently failed you in aught, nor aided any one against you. So fulfil your engagements with them to the end of their term: for Allah loveth the righteous.
-
-**Urdu (Fatah Muhammad Jalandhari):** البتہ جن مشرکوں کے ساتھ تم نے عہد کیا ہو اور انہوں نے تمہارا کسی طرح کا قصور نہ کیا ہو اور نہ تمہارے مقابلے میں کسی کی مدد کی ہو تو جس مدت تک ان کے ساتھ عہد کیا ہو اسے پورا کرو۔ (کہ) خدا پرہیزگاروں کو دوست رکھتا ہے
-
-[Open on Quran.com](https://quran.com/9/4)
 
 #### 13:33 · [[013 Ar-Rad]]
 
@@ -126,42 +104,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/30/7)
 
-#### 33:4 · [[033 Al-Ahzab]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-مَّا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ ۚ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّـٰٓـِٔى تُظَـٰهِرُونَ مِنْهُنَّ أُمَّهَـٰتِكُمْ ۚ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُم بِأَفْوَٰهِكُمْ ۖ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ
-
-</div>
-
-**Word in this verse:** `تُظَـٰهِرُونَ` — you declare unlawful
-
-**English (Sahih International):** Allāh has not made for a man two hearts in his interior. And He has not made your wives whom you declare unlawful your mothers. And He has not made your claimed [i.e., adopted] sons your [true] sons. That is [merely] your saying by your mouths, but Allāh says the truth, and He guides to the [right] way.
-
-**English (Yusuf Ali):** Allah has not made for any man two hearts in his (one) body: nor has He made your wives whom ye divorce by Zihar your mothers: nor has He made your adopted sons your sons. Such is (only) your (manner of) speech by your mouths. But Allah tells (you) the Truth, and He shows the (right) Way.
-
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے کسی آدمی کے پہلو میں دو دل نہیں بنائے۔ اور نہ تمہاری عورتوں کو جن کو تم ماں کہہ بیٹھتے ہو تمہاری ماں بنایا اور نہ تمہارے لے پالکوں کو تمہارے بیٹے بنایا۔ یہ سب تمہارے منہ کی باتیں ہیں۔ اور خدا تو سچی بات فرماتا ہے اور وہی سیدھا رستہ دکھاتا ہے
-
-[Open on Quran.com](https://quran.com/33/4)
-
-#### 33:26 · [[033 Al-Ahzab]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَأَنزَلَ ٱلَّذِينَ ظَـٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَـٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا
-
-</div>
-
-**Word in this verse:** `ظَـٰهَرُوهُم` — backed them
-
-**English (Sahih International):** And He brought down those who supported them among the People of the Scripture from their fortresses and cast terror into their hearts [so that] a party [i.e., their men] you killed, and you took captive a party [i.e., the women and children].
-
-**English (Yusuf Ali):** And those of the People of the Book who aided them - Allah did take them down from their strongholds and cast terror into their hearts. (So that) some ye slew, and some ye made prisoners.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اہل کتاب میں سے جنہوں نے اُن کی مدد کی تھی اُن کو اُن کے قلعوں سے اُتار دیا اور اُن کے دلوں میں دہشت ڈال دی۔ تو کتنوں کو تم قتل کر دیتے تھے اور کتنوں کو قید کرلیتے تھے
-
-[Open on Quran.com](https://quran.com/33/26)
-
 #### 40:29 · [[040 Ghafir]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -216,5 +158,21 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/57/13)
 
-_…and **4** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 61:14 · [[061 As-Saf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ
+
+</div>
+
+**Word in this verse:** `ظَـٰهِرِينَ` — dominant
+
+**English (Sahih International):** O you who have believed, be supporters of Allāh, as when Jesus, the son of Mary, said to the disciples, "Who are my supporters for Allāh?" The disciples said, "We are supporters of Allāh." And a faction of the Children of Israel believed and a faction disbelieved. So We supported those who believed against their enemy, and they became dominant.
+
+**English (Yusuf Ali):** O ye who believe! Be ye helpers of Allah: As said Jesus the son of Mary to the Disciples, "Who will be my helpers to (the work of) Allah?" Said the disciples, "We are Allah's helpers!" then a portion of the Children of Israel believed, and a portion disbelieved: But We gave power to those who believed, against their enemies, and they became the ones that prevailed.
+
+**Urdu (Fatah Muhammad Jalandhari):** مومنو! خدا کے مددگار بن جاؤ جیسے عیسیٰ ابن مریم نے حواریوں سے کہا کہ بھلا کون ہیں جو خدا کی طرف (بلانے میں) میرے مددگار ہوں۔ حواریوں نے کہا کہ ہم خدا کے مددگار ہیں۔ تو بنی اسرائیل میں سے ایک گروہ تو ایمان لے آیا اور ایک گروہ کافر رہا۔ آخر الامر ہم نے ایمان لانے والوں کو ان کے دشمنوں کے مقابلے میں مدد دی اور وہ غالب ہوگئے
+
+[Open on Quran.com](https://quran.com/61/14)
 

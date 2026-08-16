@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** limits · **Root:** حدد
 
+
 ### Words (wikilinks — these create the graph)
 - [[Hdwd - limits]]
 - [[Hdyd - iron]]

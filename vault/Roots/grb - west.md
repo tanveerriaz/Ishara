@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** west · **Root:** غرب
 
+
 ### Words (wikilinks — these create the graph)
 - [[mgrb - west]]
 

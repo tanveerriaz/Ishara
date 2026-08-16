@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** any will · **Root:** وصي
 
+
 ### Words (wikilinks — these create the graph)
 - [[twAS - enjoin each other]]
 - [[wSY - enjoined]]

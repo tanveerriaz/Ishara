@@ -14,31 +14,31 @@ The Romans · 60 ayahs
 
 ## Words in this surah (graph)
 
-- [[qym - right]] — `قِيَم` · right
+- [[qym - right]] — `قَيِّم` · right
 - [[bd> - originates]] — `بَدَأَ` · originates
-- [[sAr - travel]] — `سارَ` · travel
-- [[mnyb - turning]] — `مُنِيب` · turning
-- [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
 - [[>vAr - plough]] — `أَثارُ` · plough
 - [[bsT - extends]] — `بَسَطَ` · extends
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[swA' - it same]] — `سَواء` · it same
-- [[DEf - double]] — `ضِعْف` · double
-- [[AtY - give]] — `آتَى` · give
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[ytklm - will speak]] — `يَتَكَلَّمُ` · will speak
-- [[nZr - see]] — `نَظَرَ` · see
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
-- [[ksf - fragments]] — `كِسَف` · fragments
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[fryq - party]] — `فَرِيق` · party
-- [[>sA' - does evil]] — `أَساءَ` · does evil
-- [[sHAb - clouds]] — `سَحاب` · clouds
-- [[>$d - stronger]] — `أَشَدّ` · stronger
+- [[mnyb - turning]] — `مُنِيب` · turning
+- [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
+- [[sAr - travel]] — `سارَ` · travel
+- [[>jl - term]] — `أَجَل` · term
+- [[>HyA - gives life]] — `أَحْيا` · gives life
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[sbyl - way]] — `سَبِيل` · way
-- [[mE*rp - absolved]] — `مَعْذِرَة` · absolved
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[dEwp - call]] — `دَعْوَة` · call
+- [[dEA - call]] — `دَعا` · call
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[nZr - see]] — `نَظَرَ` · see
+- [[snyn - years]] — `سِنِين` · years
+- [[qAm - stand]] — `قامَ` · stand
+- [[ytfkr - reflect]] — `يَتَفَكَّرُ` · reflect
+- [[glb - overcame]] — `غَلَبُ` · overcame
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[skn - dwell]] — `سَكَنَ` · dwell
+- [[>fk - they deluded]] — `أُفِكَ` · they deluded
+- [[Astxf - you find light]] — `اسْتَخَفَّ` · you find light
+- [[lyl - night]] — `لَيْل` · night
 
 ## Roots
 
@@ -71,7 +71,7 @@ The Romans · 60 ayahs
 - [[Elm - knowledge]]
 - [[Elw - high]]
 - [[Eml - do]]
-- [[Emr - life]]
+- [[Emr - inhabit build maintain flourish]]
 - [[Emy - blind]]
 - [[End - near]]
 - [[Eqb - end]]

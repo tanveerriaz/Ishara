@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** sufficient · **Root:** كفي
 
+
 ### Words (wikilinks — these create the graph)
 - [[kfY - sufficient]]
 

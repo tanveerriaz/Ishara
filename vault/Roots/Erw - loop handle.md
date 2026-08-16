@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** loop handle · **Root:** عرو
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

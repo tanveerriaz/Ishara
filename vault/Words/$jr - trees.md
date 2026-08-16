@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "شَجَرَ"
+lemma: "شَجَر"
 slug: "$jr - trees"
-surah_count: 7
-ayah_count: 8
+surah_count: 6
+ayah_count: 7
 tags: [word, meaning]
 ---
 
@@ -17,10 +17,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[$jr - tree]]
 
 ### Meaning
-**trees** · Lemma **شَجَرَ**
+**trees** · Lemma **شَجَر**
 
-### Surahs (7)
-- [[004 An-Nisa]]
+### Surahs (6)
 - [[016 An-Nahl]]
 - [[022 Al-Hajj]]
 - [[027 An-Naml]]
@@ -31,24 +30,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 4:65 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًا
-
-</div>
-
-**Word in this verse:** `شَجَرَ` — arises
-
-**English (Sahih International):** But no, by your Lord, they will not [truly] believe until they make you, [O Muḥammad], judge concerning that over which they dispute among themselves and then find within themselves no discomfort from what you have judged and submit in [full, willing] submission.
-
-**English (Yusuf Ali):** But no, by the Lord, they can have no (real) Faith, until they make thee judge in all disputes between them, and find in their souls no resistance against Thy decisions, but accept them with the fullest conviction.
-
-**Urdu (Fatah Muhammad Jalandhari):** تمہارے پروردگار کی قسم یہ لوگ جب تک اپنے تنازعات میں تمہیں منصف نہ بنائیں اور جو فیصلہ تم کردو اس سے اپنے دل میں تنگ نہ ہوں بلکہ اس کو خوشی سے مان لیں تب تک مومن نہیں ہوں گے
-
-[Open on Quran.com](https://quran.com/4/65)
 
 #### 16:10 · [[016 An-Nahl]]
 

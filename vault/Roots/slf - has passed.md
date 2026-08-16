@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** has passed · **Root:** سلف
 
+
 ### Words (wikilinks — these create the graph)
 - [[slf - has passed]]
 

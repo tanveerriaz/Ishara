@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** you reveal · **Root:** بدو
 
+
 ### Words (wikilinks — these create the graph)
 - [[bdA - will appear]]
 - [[ybdy - you reveal]]

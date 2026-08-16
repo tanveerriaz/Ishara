@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** immorality · **Root:** فحش
 
+
 ### Words (wikilinks — these create the graph)
 - [[fAH$p - immorality]]
 - [[fH$A' - immorality]]

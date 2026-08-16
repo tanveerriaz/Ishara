@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** necks · **Root:** عنق
 
+
 ### Words (wikilinks — these create the graph)
 - [[Enq - necks]]
 

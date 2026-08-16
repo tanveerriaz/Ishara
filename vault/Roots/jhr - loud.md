@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** loud · **Root:** جهر
 
+
 ### Words (wikilinks — these create the graph)
 - [[jhr - loud]]
+- [[jhr - public mention]]
 - [[jhrp - manifestly]]
 
 ### Surahs where this root appears

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** incite · **Root:** حضض
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

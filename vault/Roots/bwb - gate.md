@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** gate · **Root:** بوب
 
+
 ### Words (wikilinks — these create the graph)
 - [[bAb - gate]]
 

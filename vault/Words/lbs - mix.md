@@ -2,8 +2,8 @@
 type: word
 lemma: "لَبَسْ"
 slug: "lbs - mix"
-surah_count: 8
-ayah_count: 11
+surah_count: 7
+ayah_count: 10
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **mix** · Lemma **لَبَسْ**
 
-### Surahs (8)
+### Surahs (7)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[006 Al-Anam]]
@@ -27,7 +27,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[018 Al-Kahf]]
 - [[035 Fatir]]
 - [[044 Ad-Dukhan]]
-- [[050 Qaf]]
 
 ## Verses (full text)
 
@@ -212,6 +211,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** حریر کا باریک اور دبیز لباس پہن کر ایک دوسرے کے سامنے بیٹھے ہوں گے
 
 [Open on Quran.com](https://quran.com/44/53)
-
-_…and **1** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

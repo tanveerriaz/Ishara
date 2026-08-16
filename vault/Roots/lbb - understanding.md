@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** understanding · **Root:** لبب
 
+
 ### Words (wikilinks — these create the graph)
 - [[>lbAb - understanding]]
 

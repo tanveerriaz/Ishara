@@ -11,11 +11,13 @@ tags: [root, meaning]
 
 **Sense:** upright · **Root:** قوم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>qAm - establish]]
 - [[>qwm - more suitable]]
 - [[AstqAm - stand firm]]
 - [[mqAm - place]]
+- [[mqAm - resting place]]
 - [[mqym - lasting]]
 - [[mstqym - straight]]
 - [[qAm - stand]]

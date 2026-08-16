@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we sent · **Root:** قفو
 
+
 ### Words (wikilinks — these create the graph)
 - [[qfy - we sent]]
 

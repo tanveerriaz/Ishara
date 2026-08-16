@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** nine · **Root:** تسع
 
+
 ### Words (wikilinks — these create the graph)
 - [[tsE - nine]]
 

@@ -167,7 +167,7 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 </div>
 
-**Word in this verse:** `زَكَىٰ` — (would) have been pure
+**Word in this verse:** `يُزَكِّى` — purifies
 
 **English (Sahih International):** O you who have believed, do not follow the footsteps of Satan. And whoever follows the footsteps of Satan - indeed, he enjoins immorality and wrongdoing. And if not for the favor of Allāh upon you and His mercy, not one of you would have been pure, ever, but Allāh purifies whom He wills, and Allāh is Hearing and Knowing.
 

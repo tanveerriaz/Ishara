@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** understand · **Root:** فقه
 
+
 ### Words (wikilinks — these create the graph)
 - [[yfqh - understand]]
 

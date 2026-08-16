@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** tomorrow · **Root:** غدو
 
+
 ### Words (wikilinks — these create the graph)
+- [[gd - go early]]
 - [[gd - tomorrow]]
 - [[gdw - mornings]]
 

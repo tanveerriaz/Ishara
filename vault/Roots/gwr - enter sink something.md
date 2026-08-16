@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** enter sink something · **Root:** غور
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

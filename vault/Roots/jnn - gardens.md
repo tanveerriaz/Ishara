@@ -11,10 +11,13 @@ tags: [root, meaning]
 
 **Sense:** gardens · **Root:** جنن
 
+
 ### Words (wikilinks — these create the graph)
 - [[jAn - any jinn]]
-- [[jn - covered]]
+- [[jn - gardens]]
+- [[jnp - as cover]]
 - [[jnp - gardens]]
+- [[jnp - madness]]
 - [[mjnwn - madman]]
 
 ### Surahs where this root appears

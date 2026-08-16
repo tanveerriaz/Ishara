@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** place · **Root:** ورد
 
+
 ### Words (wikilinks — these create the graph)
 - [[wArd - water drawer]]
+- [[wrd - he came]]
 - [[wrd - place]]
 
 ### Surahs where this root appears

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** coolness · **Root:** برد
 
+
 ### Words (wikilinks — these create the graph)
 - [[brd - coolness]]
 

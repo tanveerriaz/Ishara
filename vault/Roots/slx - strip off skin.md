@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** strip off skin · **Root:** سلخ
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

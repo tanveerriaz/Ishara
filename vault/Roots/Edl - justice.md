@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** justice · **Root:** عدل
 
+
 ### Words (wikilinks — these create the graph)
+- [[Edl - deal justly]]
 - [[Edl - justice]]
 
 ### Surahs where this root appears

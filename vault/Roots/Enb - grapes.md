@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** grapes · **Root:** عنب
 
+
 ### Words (wikilinks — these create the graph)
 - [[Enb - grapes]]
 

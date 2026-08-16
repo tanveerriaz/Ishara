@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** prayer · **Root:** صلو
 
+
 ### Words (wikilinks — these create the graph)
 - [[SlAp - prayer]]
 - [[SlY - send blessings]]

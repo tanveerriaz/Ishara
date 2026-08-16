@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** seek · **Root:** طلب
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

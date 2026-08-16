@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** destination · **Root:** صير
 
+
 ### Words (wikilinks — these create the graph)
 - [[mSyr - destination]]
 

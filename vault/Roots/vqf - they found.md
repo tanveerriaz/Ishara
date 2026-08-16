@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they found · **Root:** ثقف
 
+
 ### Words (wikilinks — these create the graph)
 - [[vqf - they found]]
 

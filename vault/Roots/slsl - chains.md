@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** chains · **Root:** سلسل
 
+
 ### Words (wikilinks — these create the graph)
 - [[slslp - chains]]
 

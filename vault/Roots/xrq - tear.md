@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** tear · **Root:** خرق
 
+
 ### Words (wikilinks — these create the graph)
 - [[xrq - tear]]
 

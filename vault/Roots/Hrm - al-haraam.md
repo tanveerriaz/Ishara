@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** al-haraam · **Root:** حرم
 
+
 ### Words (wikilinks — these create the graph)
 - [[HrAm - al-haraam]]
 - [[Hrm - made unlawful]]

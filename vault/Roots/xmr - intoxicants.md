@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** intoxicants · **Root:** خمر
 
+
 ### Words (wikilinks — these create the graph)
 - [[xmr - intoxicants]]
 

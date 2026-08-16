@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** distress · **Root:** كرب
 
+
 ### Words (wikilinks — these create the graph)
 - [[krb - distress]]
 

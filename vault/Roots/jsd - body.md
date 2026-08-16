@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** body · **Root:** جسد
 
+
 ### Words (wikilinks — these create the graph)
 - [[jsd - body]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** wound cut · **Root:** جرح
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

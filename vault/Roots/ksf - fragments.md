@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fragments · **Root:** كسف
 
+
 ### Words (wikilinks — these create the graph)
 - [[ksf - fragments]]
 

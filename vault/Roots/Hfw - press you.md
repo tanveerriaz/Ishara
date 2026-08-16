@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** press you · **Root:** حفو
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

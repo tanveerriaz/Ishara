@@ -15,37 +15,37 @@ The Smoke · 59 ayahs
 ## Words in this surah (graph)
 
 - [[Artqb - watch]] — `ارْتَقِبْ` · watch
-- [[bkt - weeping]] — `بَكَتْ` · weeping
-- [[ysr - ease]] — `يُسْر` · ease
-- [[swA' - it same]] — `سَواء` · it same
-- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
-- [[AtY - give]] — `آتَى` · give
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[mhyn - humiliating]] — `مُهِين` · humiliating
-- [[qlyl - little]] — `قَلِيل` · little
-- [[>jmE - all]] — `أَجْمَع` · all
-- [[kbrY - greatest]] — `كُبْرَى` · greatest
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[allah - God]] — `الله` · God
-- [[>kvr - them]] — `أَكْثَر` · them
-- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
-- [[fAkh - amusement]] — `فاكِه` · amusement
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[y&d - render]] — `يُؤَدِّ` · render
-- [[qbl - before]] — `قَبْل` · before
-- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[Hmym - scalding water]] — `حَمِيم` · scalding water
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[krym - noble]] — `كَرِيم` · noble
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[dEA - call]] — `دَعا` · call
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[ymtr - doubt]] — `يَمْتَرُ` · doubt
+- [[fwq - above them]] — `فَوْق` · above them
+- [[lyl - night]] — `لَيْل` · night
+- [[byn - between them]] — `بَيْن` · between them
+- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[myqAt - appointment]] — `مِيقات` · appointment
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[>rD - earth]] — `أَرْض` · earth
-- [[AxtAr - chose]] — `اخْتارَ` · chose
+- [[blA' - was trial]] — `بَلاء` · was trial
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[>myn - trustworthy]] — `أَمِين` · trustworthy
+- [[jnd - hosts]] — `جُند` · hosts
+- [[mwqn - certain]] — `مُوقِن` · certain
+- [[>x* - we took]] — `أَخَذَ` · we took
+- [[Amn - secure]] — `آمِن` · secure
 
 ## Roots
 
 - [[$jr - tree]]
 - [[$kk - doubt]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*wq - taste]]
 - [[>bw - forefathers]]
 - [[>dy - render]]
@@ -82,7 +82,7 @@ The Smoke · 59 ayahs
 - [[TEm - food]]
 - [[allah - God]]
 - [[bHr - sea]]
-- [[bT$ - you seize]]
+- [[bT$ - power]]
 - [[bTn - bellies]]
 - [[bky - weeping]]
 - [[blw - was trial]]
@@ -91,7 +91,7 @@ The Smoke · 59 ayahs
 - [[byn - clear]]
 - [[dEw - call]]
 - [[fDl - bounty]]
-- [[fSl - we explain]]
+- [[fSl - judgment]]
 
 ## Sample (ayah 1)
 

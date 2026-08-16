@@ -2,8 +2,8 @@
 type: word
 lemma: "مَلَك"
 slug: "mlk - angels"
-surah_count: 52
-ayah_count: 142
+surah_count: 37
+ayah_count: 86
 tags: [word, meaning]
 ---
 
@@ -19,15 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **angels** · Lemma **مَلَك**
 
-### Surahs (52)
+### Surahs (37)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
-- [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[008 Al-Anfal]]
-- [[009 At-Tawbah]]
 - [[011 Hud]]
 - [[012 Yusuf]]
 - [[013 Ar-Rad]]
@@ -39,12 +37,14 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[021 Al-Anbya]]
 - [[022 Al-Hajj]]
 - [[023 Al-Muminun]]
-- [[024 An-Nur]]
 - [[025 Al-Furqan]]
-- [[027 An-Naml]]
 - [[032 As-Sajdah]]
 - [[033 Al-Ahzab]]
 - [[034 Saba]]
+- [[035 Fatir]]
+- [[037 As-Saffat]]
+- [[038 Sad]]
+- [[039 Az-Zumar]]
 
 ## Verses (full text)
 
@@ -130,7 +130,7 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 </div>
 
-**Word in this verse:** `مُلْكِ` — (the) kingdom
+**Word in this verse:** `ٱلْمَلَكَيْنِ` — the two angels
 
 **English (Sahih International):** And they followed [instead] what the devils had recited during the reign of Solomon. It was not Solomon who disbelieved, but the devils disbelieved, teaching people magic and that which was revealed to the two angels at Babylon, Hārūt and Mārūt. But they [i.e., the two angels] do not teach anyone unless they say, "We are a trial, so do not disbelieve [by practicing magic]." And [yet] they learn from them that by which they cause separation between a man and his wife. But they do not harm anyone through it except by permission of Allāh. And they [i.e., people] learn what harms them and does not benefit them. But they [i.e., the Children of Israel] certainly knew that whoever purchased it [i.e., magic] would not have in the Hereafter any share. And wretched is that for which they sold themselves, if they only knew.
 
@@ -139,24 +139,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور ان (ہزلیات) کے پیچھے لگ گئے جو سلیمان کے عہدِ سلطنت میں شیاطین پڑھا کرتے تھے اور سلیمان نے مطلق کفر کی بات نہیں کی، بلکہ شیطان ہی کفر کرتے تھے کہ لوگوں کو جادو سکھاتے تھے۔ اور ان باتوں کے بھی (پیچھے لگ گئے) جو شہر بابل میں دو فرشتوں (یعنی) ہاروت اور ماروت پر اتری تھیں۔ اور وہ دونوں کسی کو کچھ نہیں سکھاتے تھے، جب تک یہ نہ کہہ دیتے کہ ہم تو (ذریعہٴ) آزمائش ہیں۔ تم کفر میں نہ پڑو۔ غرض لوگ ان سے (ایسا) جادو سیکھتے، جس سے میاں بیوی میں جدائی ڈال دیں۔ اور خدا کے حکم کے سوا وہ اس (جادو) سے کسی کا کچھ بھی نہیں بگاڑ سکتے تھے۔ اور کچھ ایسے (منتر) سیکھتے جو ان کو نقصان ہی پہنچاتے اور فائدہ کچھ نہ دیتے۔ اور وہ جانتے تھے کہ جو شخص ایسی چیزوں (یعنی سحر اور منتر وغیرہ) کا خریدار ہوگا، اس کا آخرت میں کچھ حصہ نہیں۔ اور جس چیز کے عوض انہوں نے اپنی جانوں کو بیچ ڈالا، وہ بری تھی۔ کاش وہ (اس بات کو) جانتے
 
 [Open on Quran.com](https://quran.com/2/102)
-
-#### 2:107 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۗ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ
-
-</div>
-
-**Word in this verse:** `مُلْكُ` — (is the) Kingdom
-
-**English (Sahih International):** Do you not know that to Allāh belongs the dominion of the heavens and the earth and [that] you have not besides Allāh any protector or any helper?
-
-**English (Yusuf Ali):** Knowest thou not that to Allah belongeth the dominion of the heavens and the earth? And besides Him ye have neither patron nor helper.
-
-**Urdu (Fatah Muhammad Jalandhari):** تمہیں معلوم نہیں کہ آسمانوں اور زمین کی بادشاہت خدا ہی کی ہے، اور خدا کے سوا تمہارا کوئی دوست اور مدد گار نہیں
-
-[Open on Quran.com](https://quran.com/2/107)
 
 #### 2:161 · [[002 Al-Baqarah]]
 
@@ -212,23 +194,41 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/210)
 
-#### 2:246 · [[002 Al-Baqarah]]
+#### 2:248 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-أَلَمْ تَرَ إِلَى ٱلْمَلَإِ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ مِنۢ بَعْدِ مُوسَىٰٓ إِذْ قَالُوا۟ لِنَبِىٍّ لَّهُمُ ٱبْعَثْ لَنَا مَلِكًا نُّقَـٰتِلْ فِى سَبِيلِ ٱللَّهِ ۖ قَالَ هَلْ عَسَيْتُمْ إِن كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ أَلَّا تُقَـٰتِلُوا۟ ۖ قَالُوا۟ وَمَا لَنَآ أَلَّا نُقَـٰتِلَ فِى سَبِيلِ ٱللَّهِ وَقَدْ أُخْرِجْنَا مِن دِيَـٰرِنَا وَأَبْنَآئِنَا ۖ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ تَوَلَّوْا۟ إِلَّا قَلِيلًا مِّنْهُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ
+وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌ مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَـٰرُونَ تَحْمِلُهُ ٱلْمَلَـٰٓئِكَةُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 
 </div>
 
-**Word in this verse:** `مَلِكًۭا` — a king
+**Word in this verse:** `ٱلْمَلَـٰٓئِكَةُ ۚ` — the Angels
 
-**English (Sahih International):** Have you not considered the assembly of the Children of Israel after [the time of] Moses when they said to a prophet of theirs, "Send to us a king, and we will fight in the way of Allāh"? He said, "Would you perhaps refrain from fighting if battle was prescribed for you?" They said, "And why should we not fight in the cause of Allāh when we have been driven out from our homes and from our children?" But when battle was prescribed for them, they turned away, except for a few of them. And Allāh is Knowing of the wrongdoers.
+**English (Sahih International):** And their prophet said to them, "Indeed, a sign of his kingship is that the chest will come to you in which is assurance from your Lord and a remnant of what the family of Moses and the family of Aaron had left, carried by the angels. Indeed in that is a sign for you, if you are believers."
 
-**English (Yusuf Ali):** Hast thou not Turned thy vision to the Chiefs of the Children of Israel after (the time of) Moses? they said to a prophet (That was) among them: "Appoint for us a king, that we May fight in the cause of Allah." He said: "Is it not possible, if ye were commanded to fight, that that ye will not fight?" They said: "How could we refuse to fight in the cause of Allah, seeing that we were turned out of our homes and our families?" but when they were commanded to fight, they turned back, except a small band among them. But Allah Has full knowledge of those who do wrong.
+**English (Yusuf Ali):** And (further) their Prophet said to them: "A Sign of his authority is that there shall come to you the Ark of the covenant, with (an assurance) therein of security from your Lord, and the relics left by the family of Moses and the family of Aaron, carried by angels. In this is a symbol for you if ye indeed have faith."
 
-**Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے بنی اسرائیل کی ایک جماعت کو نہیں دیکھا جس نے موسیٰ کے بعد اپنے پیغمبر سے کہا کہ آپ ہمارے لئے ایک بادشاہ مقرر کردیں تاکہ ہم خدا کی راہ میں جہاد کریں۔ پیغمبر نے کہا کہ اگر تم کو جہاد کا حکم دیا جائے تو عجب نہیں کہ لڑنے سے پہلو تہی کرو۔ وہ کہنے لگے کہ ہم راہ خدا میں کیوں نہ لڑیں گے جب کہ ہم وطن سے (خارج) اور بال بچوں سے جدا کردیئے گئے۔ لیکن جب ان کو جہاد کا حکم دیا گیا تو چند اشخاص کے سوا سب پھر گئے۔ اور خدا ظالموں سے خوب واقف ہے
+**Urdu (Fatah Muhammad Jalandhari):** اور پیغمبر نے ان سے کہا کہ ان کی بادشاہی کی نشانی یہ ہے کہ تمہارے پاس ایک صندوق آئے گا جس کو فرشتے اٹھائے ہوئے ہوں گے اس میں تمہارے پروردگار کی طرف سے تسلی (بخشنے والی چیز) ہوگی اور کچھ اور چیزیں بھی ہوں گی جو موسیٰ اور ہارون چھوڑ گئے تھے۔ اگر تم ایمان رکھتے ہو تو یہ تمہارے لئے ایک بڑی نشانی ہے
 
-[Open on Quran.com](https://quran.com/2/246)
+[Open on Quran.com](https://quran.com/2/248)
 
-_…and **132** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 2:285 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ
+
+</div>
+
+**Word in this verse:** `وَمَلَـٰٓئِكَتِهِۦ` — and His Angels
+
+**English (Sahih International):** The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allāh and His angels and His books and His messengers, [saying], "We make no distinction between any of His messengers." And they say, "We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination."
+
+**English (Yusuf Ali):** The Messenger believeth in what hath been revealed to him from his Lord, as do the men of faith. Each one (of them) believeth in Allah, His angels, His books, and His messengers. "We make no distinction (they say) between one and another of His messengers." And they say: "We hear, and we obey: (We seek) Thy forgiveness, our Lord, and to Thee is the end of all journeys."
+
+**Urdu (Fatah Muhammad Jalandhari):** رسول (خدا) اس کتاب پر جو ان کے پروردگار کی طرف سے ان پر نازل ہوئی ایمان رکھتے ہیں اور مومن بھی۔ سب خدا پر اور اس کے فرشتوں پر اور اس کی کتابوں پر اور اس کے پیغمبروں پر ایمان رکھتے ہیں (اورکہتے ہیں کہ) ہم اس کے پیغمبروں سے کسی میں کچھ فرق نہیں کرتے اور وہ (خدا سے) عرض کرتے ہیں کہ ہم نے (تیرا حکم) سنا اور قبول کیا۔ اے پروردگار ہم تیری بخشش مانگتے ہیں اور تیری ہی طرف لوٹ کر جانا ہے
+
+[Open on Quran.com](https://quran.com/2/285)
+
+_…and **76** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

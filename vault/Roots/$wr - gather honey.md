@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** gather honey · **Root:** شور
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

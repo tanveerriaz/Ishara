@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** chastity · **Root:** فرج
 
+
 ### Words (wikilinks — these create the graph)
 - [[frj - chastity]]
 

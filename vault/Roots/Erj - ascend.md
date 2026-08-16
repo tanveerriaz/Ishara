@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** ascend · **Root:** عرج
 
+
 ### Words (wikilinks — these create the graph)
 - [[yErj - ascend]]
 

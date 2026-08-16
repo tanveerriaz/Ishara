@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we neglected · **Root:** فرط
 
+
 ### Words (wikilinks — these create the graph)
 - [[frT - we neglected]]
 

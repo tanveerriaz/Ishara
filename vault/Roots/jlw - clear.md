@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** clear · **Root:** جلو
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

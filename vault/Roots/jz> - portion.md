@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** portion · **Root:** جزأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[jz' - portion]]
 

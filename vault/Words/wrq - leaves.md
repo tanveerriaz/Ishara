@@ -2,8 +2,8 @@
 type: word
 lemma: "وَرَق"
 slug: "wrq - leaves"
-surah_count: 3
-ayah_count: 3
+surah_count: 2
+ayah_count: 2
 tags: [word, meaning]
 ---
 
@@ -19,9 +19,8 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **leaves** · Lemma **وَرَق**
 
-### Surahs (3)
+### Surahs (2)
 - [[007 Al-Araf]]
-- [[018 Al-Kahf]]
 - [[020 Taha]]
 
 ## Verses (full text)
@@ -45,24 +44,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** غرض (مردود نے) دھوکہ دے کر ان کو (معصیت کی طرف) کھینچ ہی لیا جب انہوں نے اس درخت (کے پھل) کو کھا لیا تو ان کی ستر کی چیزیں کھل گئیں اور وہ بہشت کے (درختوں کے) پتے توڑ توڑ کر اپنے اوپر چپکانے لگے اور (ستر چھپانے لگے) تب ان کے پروردگار نے ان کو پکارا کہ کیا میں نے تم کو اس درخت (کے پاس جانے) سے منع نہیں کیا تھا اور جتا نہیں دیا تھا کہ شیطان تمہارا کھلم کھلا دشمن ہے
 
 [Open on Quran.com](https://quran.com/7/22)
-
-#### 18:19 · [[018 Al-Kahf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَكَذَٰلِكَ بَعَثْنَـٰهُمْ لِيَتَسَآءَلُوا۟ بَيْنَهُمْ ۚ قَالَ قَآئِلٌ مِّنْهُمْ كَمْ لَبِثْتُمْ ۖ قَالُوا۟ لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ ۚ قَالُوا۟ رَبُّكُمْ أَعْلَمُ بِمَا لَبِثْتُمْ فَٱبْعَثُوٓا۟ أَحَدَكُم بِوَرِقِكُمْ هَـٰذِهِۦٓ إِلَى ٱلْمَدِينَةِ فَلْيَنظُرْ أَيُّهَآ أَزْكَىٰ طَعَامًا فَلْيَأْتِكُم بِرِزْقٍ مِّنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ أَحَدًا
-
-</div>
-
-**Word in this verse:** `بِوَرِقِكُمْ` — with this silver coin of yours
-
-**English (Sahih International):** And similarly, We awakened them that they might question one another. Said a speaker from among them, "How long have you remained [here]?" They said, "We have remained a day or part of a day." They said, "Your Lord is most knowing of how long you remained. So send one of you with this silver coin of yours to the city and let him look to which is the best of food and bring you provision from it and let him be cautious. And let no one be aware of you.
-
-**English (Yusuf Ali):** Such (being their state), we raised them up (from sleep), that they might question each other. Said one of them, "How long have ye stayed (here)?" They said, "We have stayed (perhaps) a day, or part of a day." (At length) they (all) said, "Allah (alone) knows best how long ye have stayed here.... Now send ye then one of you with this money of yours to the town: let him find out which is the best food (to be had) and bring some to you, that (ye may) satisfy your hunger therewith: And let him behave with care and courtesy, and let him not inform any one about you.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اس طرح ہم نے ان کو اٹھایا تاکہ آپس میں ایک دوسرے سے دریافت کریں۔ ایک کہنے والے نے کہا کہ تم (یہاں) کتنی مدت رہے؟ انہوں نے کہا کہ ایک دن یا اس سے بھی کم۔ انہوں نے کہا کہ جتنی مدت تم رہے ہو تمہارا پروردگار ہی اس کو خوب جانتا ہے۔ تو اپنے میں سے کسی کو یہ روپیہ دے کر شہر کو بھیجو وہ دیکھے کہ نفیس کھانا کون سا ہے تو اس میں سے کھانا لے آئے اور آہستہ آہستہ آئے جائے اور تمہارا حال کسی کو نہ بتائے
-
-[Open on Quran.com](https://quran.com/18/19)
 
 #### 20:121 · [[020 Taha]]
 

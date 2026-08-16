@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we raised · **Root:** رفع
 
+
 ### Words (wikilinks — these create the graph)
 - [[mrfwEp - raised]]
 - [[rfE - we raised]]

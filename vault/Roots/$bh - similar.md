@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** similar · **Root:** شبه
 
+
 ### Words (wikilinks — these create the graph)
 - [[mt$Abh - similar]]
 - [[t$Abh - look alike]]

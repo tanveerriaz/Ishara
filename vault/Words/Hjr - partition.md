@@ -1,0 +1,121 @@
+---
+type: word
+lemma: "حِجْر"
+slug: "Hjr - partition"
+surah_count: 4
+ayah_count: 5
+tags: [word, meaning]
+---
+
+# Hjr - partition
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[Hjr - stones]]
+
+### Meaning
+**partition** · Lemma **حِجْر**
+
+### Surahs (4)
+- [[006 Al-Anam]]
+- [[015 Al-Hijr]]
+- [[025 Al-Furqan]]
+- [[089 Al-Fajr]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
+
+#### 6:138 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ هَـٰذِهِۦٓ أَنْعَـٰمٌ وَحَرْثٌ حِجْرٌ لَّا يَطْعَمُهَآ إِلَّا مَن نَّشَآءُ بِزَعْمِهِمْ وَأَنْعَـٰمٌ حُرِّمَتْ ظُهُورُهَا وَأَنْعَـٰمٌ لَّا يَذْكُرُونَ ٱسْمَ ٱللَّهِ عَلَيْهَا ٱفْتِرَآءً عَلَيْهِ ۚ سَيَجْزِيهِم بِمَا كَانُوا۟ يَفْتَرُونَ
+
+</div>
+
+**Word in this verse:** `حِجْرٌۭ` — forbidden
+
+**English (Sahih International):** And they say, "These animals and crops are forbidden; no one may eat from them except whom we will," by their claim. And there are those [camels] whose backs are forbidden [by them] and those upon which the name of Allāh is not mentioned - [all of this] an invention of untruth about Him. He will punish them for what they were inventing.
+
+**English (Yusuf Ali):** And they say that such and such cattle and crops are taboo, and none should eat of them except those whom - so they say - We wish; further, there are cattle forbidden to yoke or burden, and cattle on which, (at slaughter), the name of Allah is not pronounced; - inventions against Allah's name: soon will He requite them for their inventions.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اپنے خیال سے یہ بھی کہتے ہیں کہ یہ چارپائے اور کھیتی منع ہے اسے اس شخص کے سوا جسے ہم چاہیں کوئی نہ کھائے اور (بعض) چارپائے ایسے ہیں کہ ان کی پیٹ پر چڑھنا منع کر دیا گیا ہے اور بعض مویشی ایسے ہیں جن پر (ذبح کرتے وقت) خدا کا نام نہیں لیتے سب خدا پر جھوٹ ہے وہ عنقریب ان کو ان کے جھوٹ کا بدلہ دے گا
+
+[Open on Quran.com](https://quran.com/6/138)
+
+#### 15:80 · [[015 Al-Hijr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ كَذَّبَ أَصْحَـٰبُ ٱلْحِجْرِ ٱلْمُرْسَلِينَ
+
+</div>
+
+**Word in this verse:** `ٱلْحِجْرِ` — (of) the Rocky Tract
+
+**English (Sahih International):** And certainly did the companions of al-Ḥijr [i.e., the Thamūd] deny the messengers.
+
+**English (Yusuf Ali):** The Companions of the Rocky Tract also rejected the messengers:
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (وادی) حجر کے رہنے والوں نے بھی پیغمبروں کی تکذیب کی
+
+[Open on Quran.com](https://quran.com/15/80)
+
+#### 25:22 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَوْمَ يَرَوْنَ ٱلْمَلَـٰٓئِكَةَ لَا بُشْرَىٰ يَوْمَئِذٍ لِّلْمُجْرِمِينَ وَيَقُولُونَ حِجْرًا مَّحْجُورًا
+
+</div>
+
+**Word in this verse:** `حِجْرًۭا` — A partition
+
+**English (Sahih International):** The day they see the angels - no good tidings will there be that day for the criminals, and [the angels] will say, "Prevented and inaccessible."
+
+**English (Yusuf Ali):** The Day they see the angels,- no joy will there be to the sinners that Day: The (angels) will say: "There is a barrier forbidden (to you) altogether!"
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن یہ فرشتوں کو دیکھیں گے اس دن گنہگاروں کے لئے خوشی کی بات نہیں ہوگی اور کہیں گے (خدا کرے تم) روک لئے (اور بند کردیئے) جاؤ
+
+[Open on Quran.com](https://quran.com/25/22)
+
+#### 25:53 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَـٰذَا عَذْبٌ فُرَاتٌ وَهَـٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا
+
+</div>
+
+**Word in this verse:** `وَحِجْرًۭا` — and a partition
+
+**English (Sahih International):** And it is He who has released [simultaneously] the two seas [i.e., bodies of water], one fresh and sweet and one salty and bitter, and He placed between them a barrier and prohibiting partition.
+
+**English (Yusuf Ali):** It is He Who has let free the two bodies of flowing water: One palatable and sweet, and the other salt and bitter; yet has He made a barrier between them, a partition that is forbidden to be passed.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور وہی تو ہے جس نے دو دریاؤں کو ملا دیا ایک کا پانی شیریں ہے پیاس بجھانے والا اور دوسرے کا کھاری چھاتی جلانے والا۔ اور دونوں کے درمیان ایک آڑ اور مضبوط اوٹ بنادی
+
+[Open on Quran.com](https://quran.com/25/53)
+
+#### 89:5 · [[089 Al-Fajr]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ
+
+</div>
+
+**Word in this verse:** `حِجْرٍ` — who understand
+
+**English (Sahih International):** Is there [not] in [all] that an oath [sufficient] for one of perception?
+
+**English (Yusuf Ali):** Is there (not) in these an adjuration (or evidence) for those who understand?
+
+**Urdu (Fatah Muhammad Jalandhari):** اور بے شک یہ چیزیں عقلمندوں کے نزدیک قسم کھانے کے لائق ہیں کہ (کافروں کو ضرور عذاب ہو گا)
+
+[Open on Quran.com](https://quran.com/89/5)
+

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** transgression · **Root:** طغي
 
+
 ### Words (wikilinks — these create the graph)
 - [[TAgwt - false deities]]
 - [[TAgy - transgressing]]

@@ -2,8 +2,8 @@
 type: word
 lemma: "عَلِمَ"
 slug: "Elm - know"
-surah_count: 77
-ayah_count: 446
+surah_count: 73
+ayah_count: 340
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **know** · Lemma **عَلِمَ**
 
-### Surahs (77)
+### Surahs (73)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -122,42 +122,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/30)
 
-#### 2:31 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَعَلَّمَ ءَادَمَ ٱلْأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَـٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِى بِأَسْمَآءِ هَـٰٓؤُلَآءِ إِن كُنتُمْ صَـٰدِقِينَ
-
-</div>
-
-**Word in this verse:** `وَعَلَّمَ` — And He taught
-
-**English (Sahih International):** And He taught Adam the names - all of them. Then He showed them to the angels and said, "Inform Me of the names of these, if you are truthful."
-
-**English (Yusuf Ali):** And He taught Adam the names of all things; then He placed them before the angels, and said: "Tell me the names of these if ye are right."
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اس نے آدم کو سب (چیزوں کے) نام سکھائے پھر ان کو فرشتوں کے سامنے کیا اور فرمایا کہ اگر تم سچے ہو تو مجھے ان کے نام بتاؤ
-
-[Open on Quran.com](https://quran.com/2/31)
-
-#### 2:32 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالُوا۟ سُبْحَـٰنَكَ لَا عِلْمَ لَنَآ إِلَّا مَا عَلَّمْتَنَآ ۖ إِنَّكَ أَنتَ ٱلْعَلِيمُ ٱلْحَكِيمُ
-
-</div>
-
-**Word in this verse:** `عِلْمَ` — knowledge
-
-**English (Sahih International):** They said, "Exalted are You; we have no knowledge except what You have taught us. Indeed, it is You who is the Knowing, the Wise."
-
-**English (Yusuf Ali):** They said: "Glory to Thee, of knowledge We have none, save what Thou Hast taught us: In truth it is Thou Who art perfect in knowledge and wisdom."
-
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا، تو پاک ہے۔ جتنا علم تو نے ہمیں بخشا ہے، اس کے سوا ہمیں کچھ معلوم نہیں۔ بے شک تو دانا (اور) حکمت والا ہے
-
-[Open on Quran.com](https://quran.com/2/32)
-
 #### 2:33 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -230,5 +194,41 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/65)
 
-_…and **436** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 2:75 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ أَفَتَطْمَعُونَ أَن يُؤْمِنُوا۟ لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِّنْهُمْ يَسْمَعُونَ كَلَـٰمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `يَعْلَمُونَ` — know
+
+**English (Sahih International):** Do you covet [the hope, O believers], that they would believe for you while a party of them used to hear the words of Allāh and then distort it [i.e., the Torah] after they had understood it while they were knowing?
+
+**English (Yusuf Ali):** Can ye (o ye men of Faith) entertain the hope that they will believe in you?- Seeing that a party of them heard the Word of Allah, and perverted it knowingly after they understood it.
+
+**Urdu (Fatah Muhammad Jalandhari):** (مومنو) کیا تم امید رکھتے ہو کہ یہ لوگ تمہارے (دین کے) قائل ہو جائیں گے، (حالانکہ) ان میں سے کچھ لوگ کلامِ خدا (یعنی تورات) کو سنتے، پھر اس کے سمجھ لینے کے بعد اس کو جان بوجھ کر بدل دیتے رہے ہیں
+
+[Open on Quran.com](https://quran.com/2/75)
+
+#### 2:77 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَوَلَا يَعْلَمُونَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ
+
+</div>
+
+**Word in this verse:** `يَعْلَمُونَ` — they know
+
+**English (Sahih International):** But do they not know that Allāh knows what they conceal and what they declare?
+
+**English (Yusuf Ali):** Know they not that Allah knoweth what they conceal and what they reveal?
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا یہ لوگ یہ نہیں جانتے کہ جو کچھ یہ چھپاتے اور جو کچھ ظاہر کرتے ہیں، خدا کو (سب) معلوم ہے
+
+[Open on Quran.com](https://quran.com/2/77)
+
+_…and **330** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

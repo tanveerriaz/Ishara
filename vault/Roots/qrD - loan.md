@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** loan · **Root:** قرض
 
+
 ### Words (wikilinks — these create the graph)
 - [[>qrD - you loan]]
 - [[qrD - loan]]

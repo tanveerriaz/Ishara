@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** as long as · **Root:** دوم
 
+
 ### Words (wikilinks — these create the graph)
 - [[dAm - as long as]]
 

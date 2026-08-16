@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** anyone · **Root:** أحد
 
+
 ### Words (wikilinks — these create the graph)
 - [[<HdY - one them]]
 - [[>Hd - anyone]]

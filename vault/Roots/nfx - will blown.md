@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** will blown · **Root:** نفخ
 
+
 ### Words (wikilinks — these create the graph)
 - [[nfx - will blown]]
 

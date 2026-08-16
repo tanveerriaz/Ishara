@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** horses · **Root:** خيل
 
+
 ### Words (wikilinks — these create the graph)
 - [[mxtAl - proud]]
 - [[xyl - horses]]

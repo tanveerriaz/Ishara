@@ -2,8 +2,8 @@
 type: word
 lemma: "غُرُور"
 slug: "grwr - delusion"
-surah_count: 10
-ayah_count: 12
+surah_count: 9
+ayah_count: 9
 tags: [word, meaning]
 ---
 
@@ -19,13 +19,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **delusion** · Lemma **غُرُور**
 
-### Surahs (10)
+### Surahs (9)
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[017 Al-Isra]]
-- [[031 Luqman]]
 - [[033 Al-Ahzab]]
 - [[035 Fatir]]
 - [[057 Al-Hadid]]
@@ -125,24 +124,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/17/64)
 
-#### 31:33 · [[031 Luqman]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ وَٱخْشَوْا۟ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيْـًٔا ۚ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ
-
-</div>
-
-**Word in this verse:** `ٱلْغَرُورُ` — the deceiver
-
-**English (Sahih International):** O mankind, fear your Lord and fear a Day when no father will avail his son, nor will a son avail his father at all. Indeed, the promise of Allāh is truth, so let not the worldly life delude you and be not deceived about Allāh by the Deceiver [i.e., Satan].
-
-**English (Yusuf Ali):** O mankind! do your duty to your Lord, and fear (the coming of) a Day when no father can avail aught for his son, nor a son avail aught for his father. Verily, the promise of Allah is true: let not then this present life deceive you, nor let the chief Deceiver deceive you about Allah.
-
-**Urdu (Fatah Muhammad Jalandhari):** لوگو اپنے پروردگار سے ڈرو اور اُس دن کا خوف کرو کہ نہ تو باپ اپنے بیٹے کے کچھ کام آئے۔ اور نہ بیٹا باپ کے کچھ کام آسکے۔ بیشک خدا کا وعدہ سچا ہے پس دنیا کی زندگی تم کو دھوکے میں نہ ڈال دے۔ اور نہ فریب دینے والا (شیطان) تمہیں خدا کے بارے میں کسی طرح کا فریب دے
-
-[Open on Quran.com](https://quran.com/31/33)
-
 #### 33:12 · [[033 Al-Ahzab]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -160,24 +141,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور جب منافق اور وہ لوگ جن کے دلوں میں بیماری ہے کہنے لگے کہ خدا اور اس کے رسول نے ہم سے محض دھوکے کا وعدہ کیا تھا
 
 [Open on Quran.com](https://quran.com/33/12)
-
-#### 35:5 · [[035 Fatir]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۖ وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ
-
-</div>
-
-**Word in this verse:** `ٱلْغَرُورُ` — the Deceiver
-
-**English (Sahih International):** O mankind, indeed the promise of Allāh is truth, so let not the worldly life delude you and be not deceived about Allāh by the Deceiver [i.e., Satan].
-
-**English (Yusuf Ali):** O men! Certainly the promise of Allah is true. Let not then this present life deceive you, nor let the Chief Deceiver deceive you about Allah.
-
-**Urdu (Fatah Muhammad Jalandhari):** لوگو خدا کا وعدہ سچا ہے۔ تو تم کو دنیا کی زندگی دھوکے میں نہ ڈال دے اور نہ (شیطان) فریب دینے والا تمہیں فریب دے
-
-[Open on Quran.com](https://quran.com/35/5)
 
 #### 35:40 · [[035 Fatir]]
 
@@ -197,23 +160,39 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/35/40)
 
-#### 57:14 · [[057 Al-Hadid]]
+#### 57:20 · [[057 Al-Hadid]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-يُنَادُونَهُمْ أَلَمْ نَكُن مَّعَكُمْ ۖ قَالُوا۟ بَلَىٰ وَلَـٰكِنَّكُمْ فَتَنتُمْ أَنفُسَكُمْ وَتَرَبَّصْتُمْ وَٱرْتَبْتُمْ وَغَرَّتْكُمُ ٱلْأَمَانِىُّ حَتَّىٰ جَآءَ أَمْرُ ٱللَّهِ وَغَرَّكُم بِٱللَّهِ ٱلْغَرُورُ
+ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَـٰدِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَـٰمًا ۖ وَفِى ٱلْـَٔاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِّنَ ٱللَّهِ وَرِضْوَٰنٌ ۚ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَـٰعُ ٱلْغُرُورِ
 
 </div>
 
-**Word in this verse:** `ٱلْغَرُورُ` — the deceiver
+**Word in this verse:** `ٱلْغُرُورِ` — (of) delusion
 
-**English (Sahih International):** They [i.e., the hypocrites] will call to them [i.e., the believers], "Were we not with you?" They will say, "Yes, but you afflicted yourselves and awaited [misfortune for us] and doubted, and wishful thinking deluded you until there came the command of Allāh. And the Deceiver [i.e., Satan] deceived you concerning Allāh.
+**English (Sahih International):** Know that the life of this world is but amusement and diversion and adornment and boasting to one another and competition in increase of wealth and children - like the example of a rain whose [resulting] plant growth pleases the tillers; then it dries and you see it turned yellow; then it becomes [scattered] debris. And in the Hereafter is severe punishment and forgiveness from Allāh and approval. And what is the worldly life except the enjoyment of delusion.
 
-**English (Yusuf Ali):** (Those without) will call out, "Were we not with you?" (The others) will reply, "True! but ye led yourselves into temptation; ye looked forward (to our ruin); ye doubted (Allah's Promise); and (your false) desires deceived you; until there issued the Command of Allah. And the Deceiver deceived you in respect of Allah.
+**English (Yusuf Ali):** Know ye (all), that the life of this world is but play and amusement, pomp and mutual boasting and multiplying, (in rivalry) among yourselves, riches and children. Here is a similitude: How rain and the growth which it brings forth, delight (the hearts of) the tillers; soon it withers; thou wilt see it grow yellow; then it becomes dry and crumbles away. But in the Hereafter is a Penalty severe (for the devotees of wrong). And Forgiveness from Allah and (His) Good Pleasure (for the devotees of Allah). And what is the life of this world, but goods and chattels of deception?
 
-**Urdu (Fatah Muhammad Jalandhari):** تو منافق لوگ مومنوں سے کہیں گے کہ کیا ہم (دنیا میں) تمہارے ساتھ نہ تھے وہ کہیں گے کیوں نہیں تھے۔ لیکن تم نے خود اپنے تئیں بلا میں ڈالا اور (ہمارے حق میں حوادث کے) منتظر رہے اور (اسلام میں) شک کیا اور (لاطائل) آرزوؤں نے تم کو دھوکہ دیا یہاں تک کہ خدا کا حکم آ پہنچا اور خدا کے بارے میں تم کو (شیطان) دغاباز دغا دیتا رہا
+**Urdu (Fatah Muhammad Jalandhari):** جان رکھو کہ دنیا کی زندگی محض کھیل اور تماشا اور زینت (وآرائش) اور تمہارے آپس میں فخر (وستائش) اور مال واولاد کی ایک دوسرے سے زیادہ طلب (وخواہش) ہے (اس کی مثال ایسی ہے) جیسے بارش کہ (اس سے کھیتی اُگتی اور) کسانوں کو کھیتی بھلی لگتی ہے پھر وہ خوب زور پر آتی ہے پھر (اے دیکھنے والے) تو اس کو دیکھتا ہے کہ (پک کر) زرد پڑ جاتی ہے پھر چورا چورا ہوجاتی ہے اور آخرت میں (کافروں کے لئے) عذاب شدید اور (مومنوں کے لئے) خدا کی طرف سے بخشش اور خوشنودی ہے۔ اور دنیا کی زندگی تو متاع فریب ہے
 
-[Open on Quran.com](https://quran.com/57/14)
+[Open on Quran.com](https://quran.com/57/20)
 
-_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 67:20 · [[067 Al-Mulk]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمَّنْ هَـٰذَا ٱلَّذِى هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ ٱلرَّحْمَـٰنِ ۚ إِنِ ٱلْكَـٰفِرُونَ إِلَّا فِى غُرُورٍ
+
+</div>
+
+**Word in this verse:** `غُرُورٍ` — delusion
+
+**English (Sahih International):** Or who is it that could be an army for you to aid you other than the Most Merciful? The disbelievers are not but in delusion.
+
+**English (Yusuf Ali):** Nay, who is there that can help you, (even as) an army, besides (Allah) Most Merciful? In nothing but delusion are the Unbelievers.
+
+**Urdu (Fatah Muhammad Jalandhari):** بھلا ایسا کون ہے جو تمہاری فوج ہو کر خدا کے سوا تمہاری مدد کرسکے۔ کافر تو دھوکے میں ہیں
+
+[Open on Quran.com](https://quran.com/67/20)
 

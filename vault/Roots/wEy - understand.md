@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** understand · **Root:** وعي
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

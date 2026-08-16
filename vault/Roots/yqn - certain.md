@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** certain · **Root:** يقن
 
+
 ### Words (wikilinks — these create the graph)
 - [[mwqn - certain]]
 - [[yqyn - certainty]]

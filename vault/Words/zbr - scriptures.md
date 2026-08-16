@@ -2,8 +2,8 @@
 type: word
 lemma: "زُبُر"
 slug: "zbr - scriptures"
-surah_count: 7
-ayah_count: 8
+surah_count: 6
+ayah_count: 7
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **scriptures** · Lemma **زُبُر**
 
-### Surahs (7)
+### Surahs (6)
 - [[003 Ali Imran]]
 - [[016 An-Nahl]]
-- [[018 Al-Kahf]]
 - [[023 Al-Muminun]]
 - [[026 Ash-Shuara]]
 - [[035 Fatir]]
@@ -67,24 +66,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** (اور ان پیغمبروں کو) دلیلیں اور کتابیں دے کر (بھیجا تھا) اور ہم نے تم پر بھی یہ کتاب نازل کی ہے تاکہ جو (ارشادات) لوگوں پر نازل ہوئے ہیں وہ ان پر ظاہر کردو اور تاکہ وہ غور کریں
 
 [Open on Quran.com](https://quran.com/16/44)
-
-#### 18:96 · [[018 Al-Kahf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ءَاتُونِى زُبَرَ ٱلْحَدِيدِ ۖ حَتَّىٰٓ إِذَا سَاوَىٰ بَيْنَ ٱلصَّدَفَيْنِ قَالَ ٱنفُخُوا۟ ۖ حَتَّىٰٓ إِذَا جَعَلَهُۥ نَارًا قَالَ ءَاتُونِىٓ أُفْرِغْ عَلَيْهِ قِطْرًا
-
-</div>
-
-**Word in this verse:** `زُبَرَ` — sheets
-
-**English (Sahih International):** Bring me bars of iron" - until, when he had leveled [them] between the two mountain walls, he said, "Blow [with bellows]," until when he had made it [like] fire, he said, "Bring me, that I may pour over it molten copper."
-
-**English (Yusuf Ali):** "Bring me blocks of iron." At length, when he had filled up the space between the two steep mountain-sides, He said, "Blow (with your bellows)" Then, when he had made it (red) as fire, he said: "Bring me, that I may pour over it, molten lead."
-
-**Urdu (Fatah Muhammad Jalandhari):** تو تم لوہے کے (بڑے بڑے) تختے لاؤ (چنانچہ کام جاری کردیا گیا) یہاں تک کہ جب اس نے دونوں پہاڑوں کے درمیان (کا حصہ) برابر کر دیا۔ اور کہا کہ (اب اسے) دھونکو۔ یہاں تک کہ جب اس کو (دھونک دھونک) کر آگ کر دیا تو کہا کہ (اب) میرے پاس تانبہ لاؤ اس پر پگھلا کر ڈال دوں
-
-[Open on Quran.com](https://quran.com/18/96)
 
 #### 23:53 · [[023 Al-Muminun]]
 

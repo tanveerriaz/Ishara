@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** deviated · **Root:** زيغ
 
+
 ### Words (wikilinks — these create the graph)
 - [[zAg - deviated]]
 

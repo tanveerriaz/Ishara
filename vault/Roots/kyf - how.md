@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** how · **Root:** كيف
 
+
 ### Words (wikilinks — these create the graph)
 - [[kyf - how]]
 

@@ -14,31 +14,31 @@ The Cave · 110 ayahs
 
 ## Words in this surah (graph)
 
-- [[sbb - course]] — `سَبَب` · course
 - [[>HAT - they encompass]] — `أَحاطَ` · they encompass
-- [[lbv - you remained]] — `لَبِثَ` · you remained
-- [[>tbE - he followed]] — `أَتْبَعَ` · he followed
+- [[sbb - course]] — `سَبَب` · course
 - [[vwAb - reward]] — `ثَواب` · reward
-- [[zynp - adornment]] — `زِينَة` · adornment
-- [[r$d - right path]] — `رُشْد` · right path
+- [[Sbr - patience]] — `صَبْر` · patience
 - [[qrn - generations]] — `قَرْن` · generations
+- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[zynp - adornment]] — `زِينَة` · adornment
 - [[AnTlq - proceed]] — `انطَلَقَ` · proceed
-- [[ldn - yourself]] — `لَدُن` · yourself
-- [[glAm - boy]] — `غُلام` · boy
 - [[mwEd - appointment]] — `مَوْعِد` · appointment
-- [[hzw - ridicule]] — `هُزُو` · ridicule
-- [[SAHb - companion]] — `صاحِب` · companion
-- [[zEm - claim]] — `زَعَمَ` · claim
-- [[SEyd - earth]] — `صَعِيد` · earth
-- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
-- [[nfx - will blown]] — `نَفَخَ` · will blown
-- [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
-- [[xbr - some information]] — `خُبْر` · some information
-- [[mdynp - city]] — `مَدِينَة` · city
-- [[>HSY - best calculated]] — `أَحْصَى` · best calculated
+- [[glAm - boy]] — `غُلام` · boy
+- [[ldn - yourself]] — `لَدُن` · yourself
+- [[>tbE - he followed]] — `أَتْبَعَ` · he followed
+- [[vmr - its fruit]] — `ثَمَر` · its fruit
 - [[y&Ax* - blame me]] — `يُؤاخِذُ` · blame me
-- [[ErD - its width]] — `عَرَضَ` · its width
-- [[nkr - terrible]] — `نَكِرَ` · terrible
+- [[hzw - ridicule]] — `هُزُو` · ridicule
+- [[>vr - footsteps]] — `أَثَر` · footsteps
+- [[SAHb - companion]] — `صاحِب` · companion
+- [[SEyd - earth]] — `صَعِيد` · earth
+- [[xbr - any knowledge]] — `خُبْر` · any knowledge
+- [[>*n - ears]] — `أُذُن` · ears
+- [[r$d - right path 2]] — `رَشَد` · right path
+- [[>HSY - best calculated]] — `أَحْصَى` · best calculated
+- [[mk - we established]] — `مَكَّ` · we established
+- [[ftY - boy]] — `فَتَى` · boy
+- [[mdynp - city]] — `مَدِينَة` · city
 
 ## Roots
 
@@ -53,8 +53,8 @@ The Cave · 110 ayahs
 - [[$rb - drink]]
 - [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*rE - uneasy]]
 - [[*rr - offspring]]
 - [[>*n - by permission]]
@@ -73,7 +73,7 @@ The Cave · 110 ayahs
 - [[>ns - people]]
 - [[>rD - earth]]
 - [[>rk - couches]]
-- [[>sf - grieved]]
+- [[>sf - alas]]
 - [[>ty - give]]
 - [[>vr - footsteps]]
 - [[>wl - first]]

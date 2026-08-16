@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** tales · **Root:** سطر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>sATyr - tales]]
 - [[msTwr - written]]

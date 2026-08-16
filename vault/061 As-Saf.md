@@ -14,31 +14,31 @@ The Ranks · 14 ayahs
 
 ## Words in this surah (graph)
 
-- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[zAg - deviated]] — `زاغَ` · deviated
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[dl - direct you]] — `دَلَّ` · direct you
-- [[*nb - sins]] — `ذَنب` · sins
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[sbyl - way]] — `سَبِيل` · way
-- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
-- [[allah - God]] — `الله` · God
-- [[>Tf> - extinguish]] — `أَطْفَأَ` · extinguish
-- [[bnyAn - building]] — `بُنْيان` · building
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[Abn - son]] — `ابْن` · son
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[>rD - earth]] — `أَرْض` · earth
-- [[nwr - light]] — `نُور` · light
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[Elm - know]] — `عَلِمَ` · know
-- [[gfr - forgive]] — `غَفَرَ` · forgive
-- [[Sf - rows]] — `صَفّ` · rows
 - [[mbyn - clear]] — `مُبِين` · clear
-- [[jAhd - strive]] — `جاهَدَ` · strive
+- [[zAg - deviated]] — `زاغَ` · deviated
+- [[Asm - name]] — `اسْم` · name
+- [[<slAm - pretense islam]] — `إِسْلام` · pretense islam
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[dEA - call]] — `دَعا` · call
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[>Tf> - extinguish]] — `أَطْفَأَ` · extinguish
+- [[ZAhr - apparent]] — `ظاهِر` · apparent
+- [[byn - between them]] — `بَيْن` · between them
+- [[>njY - we saved]] — `أَنجَى` · we saved
+- [[sHr - magic]] — `سِحْر` · magic
+- [[bEd - after]] — `بَعْد` · after
+- [[AftrY - invent]] — `افْتَرَى` · invent
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[Sf - rows]] — `صَفّ` · rows
+- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
+- [[mAl - wealth]] — `مال` · wealth
+- [[>Hbb - love]] — `أَحْبَبْ` · love
+- [[nSr - help]] — `نَصْر` · help
+- [[mb$r - as bearer glad]] — `مُبَشِّر` · as bearer glad
+- [[Tybp - good things]] — `طَيِّبَة` · good things
+- [[Edw - enemy]] — `عَدُوّ` · enemy
+- [[Elm - know]] — `عَلِمَ` · know
 
 ## Roots
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they disobeyed · **Root:** عصي
 
+
 ### Words (wikilinks — these create the graph)
 - [[ESA - they disobeyed]]
 

@@ -2,8 +2,8 @@
 type: word
 lemma: "عَدَد"
 slug: "Edd - number"
-surah_count: 6
-ayah_count: 7
+surah_count: 5
+ayah_count: 6
 tags: [word, meaning]
 ---
 
@@ -19,13 +19,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **number** · Lemma **عَدَد**
 
-### Surahs (6)
+### Surahs (5)
 - [[010 Yunus]]
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
 - [[023 Al-Muminun]]
 - [[072 Al-Jinn]]
-- [[104 Al-Humazah]]
 
 ## Verses (full text)
 
@@ -138,22 +137,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** تاکہ معلوم فرمائے کہ انہوں نے اپنے پروردگار کے پیغام پہنچا دیئے ہیں اور (یوں تو) اس نے ان کی سب چیزوں کو ہر طرف سے قابو کر رکھا ہے اور ایک ایک چیز گن رکھی ہے
 
 [Open on Quran.com](https://quran.com/72/28)
-
-#### 104:2 · [[104 Al-Humazah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ
-
-</div>
-
-**Word in this verse:** `وَعَدَّدَهُۥ` — and counts it
-
-**English (Sahih International):** Who collects wealth and [continuously] counts it.
-
-**English (Yusuf Ali):** Who pileth up wealth and layeth it by,
-
-**Urdu (Fatah Muhammad Jalandhari):** جو مال جمع کرتا اور اس کو گن گن کر رکھتا ہے
-
-[Open on Quran.com](https://quran.com/104/2)
 

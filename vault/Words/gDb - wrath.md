@@ -2,8 +2,8 @@
 type: word
 lemma: "غَضَب"
 slug: "gDb - wrath"
-surah_count: 13
-ayah_count: 18
+surah_count: 8
+ayah_count: 12
 tags: [word, meaning]
 ---
 
@@ -19,20 +19,15 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **wrath** · Lemma **غَضَب**
 
-### Surahs (13)
+### Surahs (8)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
-- [[004 An-Nisa]]
-- [[005 Al-Maidah]]
 - [[007 Al-Araf]]
 - [[008 Al-Anfal]]
 - [[016 An-Nahl]]
 - [[020 Taha]]
 - [[024 An-Nur]]
 - [[042 Ash-Shuraa]]
-- [[048 Al-Fath]]
-- [[058 Al-Mujadila]]
-- [[060 Al-Mumtahanah]]
 
 ## Verses (full text)
 
@@ -91,42 +86,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** یہ جہاں نظر آئیں گے ذلت (کو دیکھو گے کہ) ان سے چمٹ رہی ہے بجز اس کے کہ یہ خدا اور (مسلمان) لوگوں کی پناہ میں آ جائیں اور یہ لوگ خدا کے غضب میں گرفتار ہیں اور ناداری ان سے لپٹ رہی ہے یہ اس لیے کہ خدا کی آیتوں سے انکار کرتےتھے اور (اس کے) پیغمبروں کو ناحق قتل کر دیتے تھے یہ اس لیے کہ یہ نافرمانی کیے جاتے اور حد سے بڑھے جاتے تھے
 
 [Open on Quran.com](https://quran.com/3/112)
-
-#### 4:93 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَـٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا
-
-</div>
-
-**Word in this verse:** `وَغَضِبَ` — and will fall the wrath
-
-**English (Sahih International):** But whoever kills a believer intentionally - his recompense is Hell, wherein he will abide eternally, and Allāh has become angry with him and has cursed him and has prepared for him a great punishment.
-
-**English (Yusuf Ali):** If a man kills a believer intentionally, his recompense is Hell, to abide therein (For ever): And the wrath and the curse of Allah are upon him, and a dreadful penalty is prepared for him.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جو شخص مسلمان کو قصداً مار ڈالے گا تو اس کی سزا دوزخ ہے جس میں وہ ہمیشہ (جلتا) رہے گا اور خدا اس پر غضبناک ہوگا اور اس پر لعنت کرے گا اور ایسے شخص کے لئے اس نے بڑا (سخت) عذاب تیار کر رکھا ہے
-
-[Open on Quran.com](https://quran.com/4/93)
-
-#### 5:60 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُلْ هَلْ أُنَبِّئُكُم بِشَرٍّ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِ ۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ ٱلْقِرَدَةَ وَٱلْخَنَازِيرَ وَعَبَدَ ٱلطَّـٰغُوتَ ۚ أُو۟لَـٰٓئِكَ شَرٌّ مَّكَانًا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ
-
-</div>
-
-**Word in this verse:** `وَغَضِبَ` — and He became angry
-
-**English (Sahih International):** Say, "Shall I inform you of [what is] worse than that as penalty from Allāh? [It is that of] those whom Allāh has cursed and with whom He became angry and made of them apes and pigs and slaves of ṭāghūt. Those are worse in position and further astray from the sound way."
-
-**English (Yusuf Ali):** Say: "Shall I point out to you something much worse than this, (as judged) by the treatment it received from Allah? those who incurred the curse of Allah and His wrath, those of whom some He transformed into apes and swine, those who worshipped evil;- these are (many times) worse in rank, and far more astray from the even path!"
-
-**Urdu (Fatah Muhammad Jalandhari):** کہو کہ میں تمہیں بتاؤں کہ خدا کے ہاں اس سے بھی بدتر جزا پانے والے کون ہیں؟ وہ لوگ ہیں جن پر خدا نے لعنت کی اور جن پر وہ غضبناک ہوا اور (جن کو) ان میں سے بندر اور سور بنا دیا اور جنہوں نے شیطان کی پرستش کی ایسے لوگوں کا برا ٹھکانہ ہے اور وہ سیدھے رستے سے بہت دور ہیں
-
-[Open on Quran.com](https://quran.com/5/60)
 
 #### 7:71 · [[007 Al-Araf]]
 
@@ -218,5 +177,41 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/16/106)
 
-_…and **8** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 20:81 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى ۖ وَمَن يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ
+
+</div>
+
+**Word in this verse:** `غَضَبِى ۖ` — My Anger
+
+**English (Sahih International):** [Saying], "Eat from the good things with which We have provided you and do not transgress [or oppress others] therein, lest My anger should descend upon you. And he upon whom My anger descends has certainly fallen [i.e., perished]."
+
+**English (Yusuf Ali):** (Saying): "Eat of the good things We have provided for your sustenance, but commit no excess therein, lest My Wrath should justly descend on you: and those on whom descends My Wrath do perish indeed!
+
+**Urdu (Fatah Muhammad Jalandhari):** (اور حکم دیا کہ) جو پاکیزہ چیزیں ہم نے تم کو دی ہیں ان کو کھاؤ۔ اور اس میں حد سے نہ نکلنا۔ ورنہ تم پر میرا غضب نازل ہوگا۔ اور جس پر میرا غضب نازل ہوا وہ ہلاک ہوگیا
+
+[Open on Quran.com](https://quran.com/20/81)
+
+#### 20:86 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَـٰنَ أَسِفًا ۚ قَالَ يَـٰقَوْمِ أَلَمْ يَعِدْكُمْ رَبُّكُمْ وَعْدًا حَسَنًا ۚ أَفَطَالَ عَلَيْكُمُ ٱلْعَهْدُ أَمْ أَرَدتُّمْ أَن يَحِلَّ عَلَيْكُمْ غَضَبٌ مِّن رَّبِّكُمْ فَأَخْلَفْتُم مَّوْعِدِى
+
+</div>
+
+**Word in this verse:** `غَضَبٌۭ` — (the) Anger
+
+**English (Sahih International):** So Moses returned to his people, angry and grieved. He said, "O my people, did your Lord not make you a good promise? Then, was the time [of its fulfillment] too long for you, or did you wish that wrath from your Lord descend upon you, so you broke your promise [of obedience] to me?"
+
+**English (Yusuf Ali):** So Moses returned to his people in a state of indignation and sorrow. He said: "O my people! did not your Lord make a handsome promise to you? Did then the promise seem to you long (in coming)? Or did ye desire that Wrath should descend from your Lord on you, and so ye broke your promise to me?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور موسیٰ غصّے اور غم کی حالت میں اپنی قوم کے پاس واپس آئے (اور) کہنے لگے کہ اے قوم کیا تمہارے پروردگار نے تم سے ایک اچھا وعدہ نہیں کیا تھا؟ کیا (میری جدائی کی) مدت تمہیں دراز (معلوم) ہوئی یا تم نے چاہا کہ تم پر تمہارے پروردگار کی طرف سے غضب نازل ہو۔ اور (اس لئے) تم نے مجھ سے جو وعدہ کیا تھا (اس کے) خلاف کیا
+
+[Open on Quran.com](https://quran.com/20/86)
+
+_…and **2** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

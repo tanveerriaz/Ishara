@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** all together · **Root:** كفف
 
+
 ### Words (wikilinks — these create the graph)
 - [[kAfp - all together]]
 - [[kf - restrain]]

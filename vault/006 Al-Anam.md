@@ -17,28 +17,28 @@ The Cattle · 165 ayahs
 - [[>wHY - we revealed]] — `أَوْحَى` · we revealed
 - [[$ryk - partners]] — `شَرِيك` · partners
 - [[Zlmp - darknesses]] — `ظُلُمَة` · darknesses
-- [[fSl - we explain]] — `فَصَلَ` · we explain
+- [[y*r - leave]] — `يَذَرَ` · leave
+- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[>wl - first]] — `أَوَّل` · first
+- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
 - [[H$r - will gathered]] — `حَشَرَ` · will gathered
 - [[AftrY - invent]] — `افْتَرَى` · invent
-- [[jn - covered]] — `جَنَّ` · covered
-- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
-- [[jzY - we recompense]] — `جَزَى` · we recompense
-- [[y*r - leave]] — `يَذَرَ` · leave
-- [[>wl - first]] — `أَوَّل` · first
-- [[Zhr - backs]] — `ظَهْر` · backs
-- [[zEm - claim]] — `زَعَمَ` · claim
+- [[fSl - we explain]] — `فَصَّلَ` · we explain
+- [[>n$> - we produced]] — `أَنشَأَ` · we produced
+- [[jn - gardens]] — `جِنّ` · gardens
+- [[Edl - deal justly]] — `عَدَلَ` · deal justly
+- [[lbs - mix]] — `لَبَسْ` · mix
+- [[>Elm - knowing]] — `أَعْلَم` · knowing
+- [[Asm - name]] — `اسْم` · name
 - [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[>n*r - warn]] — `أَنذَرَ` · warn
+- [[xsr - lost]] — `خَسِرَ` · lost
+- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
+- [[nEm - cattle]] — `نَعَم` · cattle
+- [[>Zlm - more unjust]] — `أَظْلَم` · more unjust
+- [[mhtdy - guided ones]] — `مُهْتَدي` · guided ones
 - [[b>s - punishment]] — `بَأْس` · punishment
 - [[qDY - surely]] — `قَضَى` · surely
-- [[>n*r - warn]] — `أَنذَرَ` · warn
-- [[>n$> - we produced]] — `أَنشَأَ` · we produced
-- [[Asm - name]] — `اسْم` · name
-- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[>Elm - knowing]] — `أَعْلَم` · knowing
-- [[xsr - lost]] — `خَسِرَ` · lost
-- [[wSY - enjoined]] — `وَصَّى` · enjoined
-- [[mhtdy - guided ones]] — `مُهْتَدي` · guided ones
-- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
 
 ## Roots
 
@@ -56,8 +56,8 @@ The Cattle · 165 ayahs
 - [[$rk - polytheists]]
 - [[$y> - thing]]
 - [[$yE - sects]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[*r> - multiplied you]]
 - [[*rr - offspring]]

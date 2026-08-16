@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "أَظْلَمَ"
+lemma: "أَظْلَم"
 slug: ">Zlm - more unjust"
 surah_count: 11
-ayah_count: 17
+ayah_count: 16
 tags: [word, meaning]
 ---
 
@@ -17,7 +17,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[Zlm - wrongdoers]]
 
 ### Meaning
-**more unjust** · Lemma **أَظْلَمَ**
+**more unjust** · Lemma **أَظْلَم**
 
 ### Surahs (11)
 - [[002 Al-Baqarah]]
@@ -35,24 +35,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 2:20 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَكَادُ ٱلْبَرْقُ يَخْطَفُ أَبْصَـٰرَهُمْ ۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوْا۟ فِيهِ وَإِذَآ أَظْلَمَ عَلَيْهِمْ قَامُوا۟ ۚ وَلَوْ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَـٰرِهِمْ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-
-</div>
-
-**Word in this verse:** `أَظْلَمَ` — it darkens
-
-**English (Sahih International):** The lightning almost snatches away their sight. Every time it lights [the way] for them, they walk therein; but when darkness comes over them, they stand [still]. And if Allāh had willed, He could have taken away their hearing and their sight. Indeed, Allāh is over all things competent.
-
-**English (Yusuf Ali):** The lightning all but snatches away their sight; every time the light (Helps) them, they walk therein, and when the darkness grows on them, they stand still. And if Allah willed, He could take away their faculty of hearing and seeing; for Allah hath power over all things.
-
-**Urdu (Fatah Muhammad Jalandhari):** قریب ہے کہ بجلی (کی چمک) ان کی آنکھوں (کی بصارت) کو اچک لے جائے۔ جب بجلی (چمکتی اور) ان پر روشنی ڈالی ہے تو اس میں چل پڑتے ہیں اور جب اندھیرا ہو جاتا ہے تو کھڑے کے کھڑے رہ جاتے ہیں اور اگر الله چاہتا تو ان کے کانوں (کی شنوائی) اور آنکھوں (کی بینائی دونوں) کو زائل کر دیتا ہے۔ بے شک الله ہر چیز پر قادر ہے
-
-[Open on Quran.com](https://quran.com/2/20)
 
 #### 2:114 · [[002 Al-Baqarah]]
 
@@ -216,5 +198,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/11/18)
 
-_…and **7** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 18:15 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+هَـٰٓؤُلَآءِ قَوْمُنَا ٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً ۖ لَّوْلَا يَأْتُونَ عَلَيْهِم بِسُلْطَـٰنٍۭ بَيِّنٍ ۖ فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا
+
+</div>
+
+**Word in this verse:** `أَظْلَمُ` — (is) more wrong
+
+**English (Sahih International):** These, our people, have taken besides Him deities. Why do they not bring for [worship of] them a clear evidence? And who is more unjust than one who invents about Allāh a lie?"
+
+**English (Yusuf Ali):** "These our people have taken for worship gods other than Him: why do they not bring forward an authority clear (and convincing) for what they do? Who doth more wrong than such as invent a falsehood against Allah?
+
+**Urdu (Fatah Muhammad Jalandhari):** ان ہماری قوم کے لوگوں نے اس کے سوا اور معبود بنا رکھے ہیں۔ بھلا یہ ان (کے خدا ہونے) پر کوئی کھلی دلیل کیوں نہیں لاتے۔ تو اس سے زیادہ کون ظالم ہے جو خدا پر جھوٹ افتراء کرے
+
+[Open on Quran.com](https://quran.com/18/15)
+
+_…and **6** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -14,31 +14,31 @@ The Wind-Curved Sandhills · 35 ayahs
 
 ## Words in this surah (graph)
 
+- [[>jybt - respond]] — `أُجِيبَت` · respond
+- [[<fk - lie]] — `إِفْك` · lie
+- [[ErD - will presented]] — `عَرَضَ` · will presented
 - [[wAldy - parents]] — `والِدَي` · parents
 - [[dAEy - caller]] — `داعِي` · caller
-- [[<fk - lie]] — `إِفْك` · lie
-- [[>jybt - respond]] — `أُجِيبَت` · respond
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[<nsAn - man]] — `إِنسان` · man
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[jn - covered]] — `جَنَّ` · covered
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
-- [[*nb - sins]] — `ذَنب` · sins
-- [[>*hb - remove]] — `أَذْهَبَ` · remove
+- [[>jl - term]] — `أَجَل` · term
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[mErD - turn away]] — `مُعْرِض` · turn away
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[mHsn - good-doers]] — `مُحْسِن` · good-doers
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[$hyd - witness]] — `شَهِيد` · witness
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
+- [[Ebd - worship]] — `عَبَدَ` · worship
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[xAsr - losers]] — `خاسِر` · losers
+- [[EbAdt - worship]] — `عِبادَت` · worship
+- [[dEA - call]] — `دَعا` · call
 - [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[ErD - its width]] — `عَرَضَ` · its width
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[>$d - stronger]] — `أَشَدّ` · stronger
-- [[allah - God]] — `الله` · God
 - [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[AstgAv - seek help]] — `اسْتَغاثَ` · seek help
-- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[>fk - they deluded]] — `أُفِكَ` · they deluded
 - [[tdry - i know]] — `تَدْرِي` · i know
-- [[*ryp - offspring]] — `ذُرِّيَّة` · offspring
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[$Ahd - witnesses]] — `شاهِد` · witnesses
 
 ## Roots
 
@@ -48,8 +48,8 @@ The Wind-Curved Sandhills · 35 ayahs
 - [[$kr - gratitude]]
 - [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[*rr - offspring]]
 - [[*wq - taste]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** all-mighty · **Root:** عزز
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Ez - mightier]]
 - [[Ezp - honor]]

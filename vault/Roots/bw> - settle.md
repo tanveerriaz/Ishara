@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** settle · **Root:** بوأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[bA' - they incurred]]
 - [[bw> - post]]

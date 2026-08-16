@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** maternal aunts · **Root:** خول
 
+
 ### Words (wikilinks — these create the graph)
 - [[xAlp - maternal aunts]]
 

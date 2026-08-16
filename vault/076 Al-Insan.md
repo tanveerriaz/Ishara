@@ -15,29 +15,29 @@ The Man · 31 ayahs
 ## Words in this surah (graph)
 
 - [[fDp - silver]] — `فِضَّة` · silver
-- [[>TEm - feed]] — `أَطْعَمَ` · feed
-- [[TAf - will circulated]] — `طافَ` · will circulated
 - [[k>s - cup]] — `كَأْس` · cup
-- [[<nsAn - man]] — `إِنسان` · man
-- [[n*r - vows]] — `نَذَرْ` · vows
-- [[$ms - sun]] — `شَمْس` · sun
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
-- [[>sAwr - bracelets]] — `أَساوِر` · bracelets
-- [[smY - name them]] — `سَمَّى` · name them
+- [[TAf - will circulated]] — `طافَ` · will circulated
+- [[>TEm - feed]] — `أَطْعَمَ` · feed
+- [[Hl - they will adorned]] — `حُلُّ` · they will adorned
 - [[>TAE - obey]] — `أَطاعَ` · obey
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[sbyl - way]] — `سَبِيل` · way
-- [[allah - God]] — `الله` · God
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[wjh - faces]] — `وَجْه` · faces
-- [[gl - shackles]] — `غَلَّ` · shackles
-- [[Atx* - take]] — `اتَّخَذَ` · take
-- [[sEyr - blaze]] — `سَعِير` · blaze
-- [[$r - evil]] — `شَرّ` · evil
+- [[nEym - delight]] — `نَعِيم` · delight
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[Asm - name]] — `اسْم` · name
+- [[Zl - shade]] — `ظِلّ` · shade
+- [[lqY - it granted]] — `لَقَّى` · it granted
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[$ms - sun]] — `شَمْس` · sun
+- [[lyl - night]] — `لَيْل` · night
+- [[mtk} - reclining]] — `مُتَّكِئ` · reclining
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[Avm - sinful]] — `آثِم` · sinful
+- [[wrA' - behind]] — `وَراء` · behind
+- [[qdr - determined it]] — `قَدَّرَ` · determined it
+- [[>Hbb - love]] — `أَحْبَبْ` · love
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
+- [[Sbr - patient]] — `صَبَرَ` · patient
+- [[xAf - fear]] — `خافَ` · fear
+- [[tbdyl - change]] — `تَبْدِيل` · change
 - [[wlyd - children]] — `وَلِيد` · children
 
 ## Roots
@@ -48,7 +48,7 @@ The Man · 31 ayahs
 - [[$rb - drink]]
 - [[$rr - evil]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[>Sl - evening]]
 - [[>lm - painful]]

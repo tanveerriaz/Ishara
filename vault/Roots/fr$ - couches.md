@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** couches · **Root:** فرش
 
+
 ### Words (wikilinks — these create the graph)
 - [[frA$ - couches]]
 

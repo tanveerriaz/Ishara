@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** we explain · **Root:** صرف
 
+
 ### Words (wikilinks — these create the graph)
+- [[Srf - averted]]
 - [[Srf - we explain]]
 
 ### Surahs where this root appears

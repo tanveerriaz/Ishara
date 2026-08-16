@@ -14,23 +14,23 @@ The Morning Hours · 11 ayahs
 
 ## Words in this surah (graph)
 
-- [[DAl - astray]] — `ضالّ` · astray
-- [[lyl - night]] — `لَيْل` · night
-- [[ytym - orphans]] — `يَتِيم` · orphans
-- [[AwY - gave shelter]] — `آوَى` · gave shelter
-- [[>wl - first]] — `أَوَّل` · first
 - [[rb - lord]] — `رَبّ` · lord
-- [[>gnY - availed]] — `أَغْنَى` · availed
-- [[sA}l - ask]] — `سائِل` · ask
 - [[nEmp - favor]] — `نِعْمَة` · favor
-- [[xyr - better]] — `خَيْر` · better
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[DHY - its brightness]] — `ضُحًى` · its brightness
-- [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
 - [[>ETY - they given]] — `أَعْطَى` · they given
+- [[DAl - astray]] — `ضالّ` · astray
+- [[AwY - gave shelter]] — `آوَى` · gave shelter
+- [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
+- [[lyl - night]] — `لَيْل` · night
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[rDy - they pleased]] — `رَضِيَ` · they pleased
+- [[ytym - orphans]] — `يَتِيم` · orphans
+- [[>wl - first]] — `أَوَّل` · first
+- [[DHY - its brightness]] — `ضُحًى` · its brightness
 - [[wjd - we found]] — `وَجَدَ` · we found
+- [[>gnY - availed]] — `أَغْنَى` · availed
+- [[hdY - guide]] — `هَدَى` · guide
+- [[sA}l - ask]] — `سائِل` · ask
+- [[xyr - better]] — `خَيْر` · better
 
 ## Roots
 

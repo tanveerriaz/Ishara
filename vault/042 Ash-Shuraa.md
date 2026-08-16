@@ -14,31 +14,31 @@ The Consultation · 53 ayahs
 
 ## Words in this surah (graph)
 
-- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
-- [[tfrq - divided]] — `تَفَرَّقَ` · divided
+- [[bgy - rebellion]] — `بَغْي` · rebellion
 - [[$kwr - grateful]] — `شَكُور` · grateful
-- [[>nAb - turns]] — `أَنابَ` · turns
-- [[HfyZ - guardian]] — `حَفِيظ` · guardian
-- [[Ely - high]] — `عَلِيّ` · high
-- [[mrd - return]] — `مَرَدّ` · return
-- [[Hjp - argument]] — `حُجَّة` · argument
+- [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
+- [[jmE - two hosts]] — `جَمْع` · two hosts
 - [[m$fq - fearful]] — `مُشْفِق` · fearful
-- [[ryb - doubt]] — `رَيْب` · doubt
-- [[<nsAn - man]] — `إِنسان` · man
-- [[Axtlf - differ]] — `اخْتَلَفَ` · differ
-- [[AtY - give]] — `آتَى` · give
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[wAqE - would fall]] — `واقِع` · would fall
-- [[mqym - lasting]] — `مُقِيم` · lasting
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
-- [[nZr - see]] — `نَظَرَ` · see
-- [[>nvY - female]] — `أُنثَى` · female
-- [[Edl - justice]] — `عَدْل` · justice
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[jwAr - ships]] — `جَوار` · ships
-- [[fryq - party]] — `فَرِيق` · party
-- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[nSyb - share]] — `نَصِيب` · share
+- [[HfyZ - guardian]] — `حَفِيظ` · guardian
+- [[mrd - return]] — `مَرَدّ` · return
+- [[tfrq - divided]] — `تَفَرَّقَ` · divided
+- [[Hjp - argument]] — `حُجَّة` · argument
+- [[>nAb - turns]] — `أَنابَ` · turns
+- [[Ely - high]] — `عَلِيّ` · high
+- [[>jl - term]] — `أَجَل` · term
+- [[$dyd - severe]] — `شَدِيد` · severe
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[wkyl - guardian]] — `وَكِيل` · guardian
+- [[bgY - seek it]] — `بَغَى` · seek it
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[xsr - lost]] — `خَسِرَ` · lost
+- [[*r> - multiplied you]] — `ذَرَأَ` · multiplied you
+- [[whb - grant]] — `وَهَبَ` · grant
+- [[xAsr - losers]] — `خاسِر` · losers
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[mlk - angels]] — `مَلَك` · angels
+- [[dEA - call]] — `دَعا` · call
 
 ## Roots
 
@@ -50,7 +50,7 @@ The Consultation · 53 ayahs
 - [[$rk - polytheists]]
 - [[$wr - gather honey]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*ll - humiliation]]
 - [[*r> - multiplied you]]
 - [[*wq - taste]]

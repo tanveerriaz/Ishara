@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** others · **Root:** بعض
 
+
 ### Words (wikilinks — these create the graph)
 - [[bED - others]]
 

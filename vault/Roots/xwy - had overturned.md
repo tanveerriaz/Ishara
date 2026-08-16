@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** had overturned · **Root:** خوي
 
+
 ### Words (wikilinks — these create the graph)
 - [[xAwyp - had overturned]]
 

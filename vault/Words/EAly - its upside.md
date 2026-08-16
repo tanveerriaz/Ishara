@@ -2,8 +2,8 @@
 type: word
 lemma: "عالِي"
 slug: "EAly - its upside"
-surah_count: 6
-ayah_count: 6
+surah_count: 4
+ayah_count: 4
 tags: [word, meaning]
 ---
 
@@ -19,11 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **its upside** · Lemma **عالِي**
 
-### Surahs (6)
+### Surahs (4)
 - [[011 Hud]]
 - [[015 Al-Hijr]]
-- [[023 Al-Muminun]]
-- [[038 Sad]]
 - [[044 Ad-Dukhan]]
 - [[076 Al-Insan]]
 
@@ -66,42 +64,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس شہر کو (الٹ کر) نیچے اوپر کردیا۔ اور ان پر کھنگر کی پتھریاں برسائیں
 
 [Open on Quran.com](https://quran.com/15/74)
-
-#### 23:46 · [[023 Al-Muminun]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا عَالِينَ
-
-</div>
-
-**Word in this verse:** `عَالِينَ` — haughty
-
-**English (Sahih International):** To Pharaoh and his establishment, but they were arrogant and were a haughty people.
-
-**English (Yusuf Ali):** To Pharaoh and his Chiefs: But these behaved insolently: they were an arrogant people.
-
-**Urdu (Fatah Muhammad Jalandhari):** (یعنی) فرعون اور اس کی جماعت کی طرف، تو انہوں نے تکبر کیا اور وہ سرکش لوگ تھے
-
-[Open on Quran.com](https://quran.com/23/46)
-
-#### 38:75 · [[038 Sad]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالَ يَـٰٓإِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ ۖ أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ ٱلْعَالِينَ
-
-</div>
-
-**Word in this verse:** `ٱلْعَالِينَ` — the exalted ones
-
-**English (Sahih International):** [Allāh] said, "O Iblees, what prevented you from prostrating to that which I created with My hands? Were you arrogant [then], or were you [already] among the haughty?"
-
-**English (Yusuf Ali):** (Allah) said: "O Iblis! What prevents thee from prostrating thyself to one whom I have created with my hands? Art thou haughty? Or art thou one of the high (and mighty) ones?"
-
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے) فرمایا کہ اے ابلیس جس شخص کو میں نے اپنے ہاتھوں سے بنایا اس کے آگے سجدہ کرنے سے تجھے کس چیز نے منع کیا۔ کیا تو غرور میں آگیا یا اونچے درجے والوں میں تھا؟
-
-[Open on Quran.com](https://quran.com/38/75)
 
 #### 44:31 · [[044 Ad-Dukhan]]
 

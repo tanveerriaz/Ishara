@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** debris · **Root:** حطم
 
+
 ### Words (wikilinks — these create the graph)
 - [[HTAm - debris]]
 

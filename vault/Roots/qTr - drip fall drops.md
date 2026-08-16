@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** drip fall drops · **Root:** قطر
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

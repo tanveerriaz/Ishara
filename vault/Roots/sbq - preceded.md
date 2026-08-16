@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** preceded · **Root:** سبق
 
+
 ### Words (wikilinks — these create the graph)
 - [[Astbq - so race]]
 - [[sAbq - foremost]]

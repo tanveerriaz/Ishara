@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** enveloped · **Root:** حيق
 
+
 ### Words (wikilinks — these create the graph)
 - [[HAq - enveloped]]
 

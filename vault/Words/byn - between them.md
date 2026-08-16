@@ -2,8 +2,8 @@
 type: word
 lemma: "بَيْن"
 slug: "byn - between them"
-surah_count: 59
-ayah_count: 250
+surah_count: 58
+ayah_count: 217
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **between them** · Lemma **بَيْن**
 
-### Surahs (59)
+### Surahs (58)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -32,7 +32,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[011 Hud]]
 - [[012 Yusuf]]
 - [[013 Ar-Rad]]
-- [[014 Ibrahim]]
 - [[015 Al-Hijr]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
@@ -45,6 +44,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[024 An-Nur]]
 - [[025 Al-Furqan]]
 - [[026 Ash-Shuara]]
+- [[027 An-Naml]]
 
 ## Verses (full text)
 
@@ -76,7 +76,7 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 </div>
 
-**Word in this verse:** `يُبَيِّن` — to make clear
+**Word in this verse:** `بَيْنَ` — between
 
 **English (Sahih International):** They said, "Call upon your Lord to make clear to us what it is." [Moses] said, "[Allāh] says, 'It is a cow which is neither old nor virgin, but median between that,' so do what you are commanded."
 
@@ -85,42 +85,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ اپنے پروردگار سے التجا کیجئے کہ وہ ہمیں یہ بتائے کہ وہ بیل کس طرح کا ہو۔ (موسیٰ نے) کہا کہ پروردگار فرماتا ہے کہ وہ بیل نہ تو بوڑھا ہو اور نہ بچھڑا، بلکہ ان کے درمیان (یعنی جوان) ہو۔ جیسا تم کو حکم دیا گیا ہے، ویسا کرو
 
 [Open on Quran.com](https://quran.com/2/68)
-
-#### 2:69 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا ۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ صَفْرَآءُ فَاقِعٌ لَّوْنُهَا تَسُرُّ ٱلنَّـٰظِرِينَ
-
-</div>
-
-**Word in this verse:** `يُبَيِّن` — to make clear
-
-**English (Sahih International):** They said, "Call upon your Lord to show us what is her color." He said, "He says, 'It is a yellow cow, bright in color - pleasing to the observers.'"
-
-**English (Yusuf Ali):** They said: "Beseech on our behalf Thy Lord to make plain to us Her colour." He said: "He says: A fawn-coloured heifer, pure and rich in tone, the admiration of beholders!"
-
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ پروردگار سے درخواست کیجئے کہ ہم کو یہ بھی بتائے کہ اس کا رنگ کیسا ہو۔ موسیٰ نے کہا ، پروردگار فرماتا ہے کہ اس کا رنگ گہرا زرد ہو کہ دیکھنے والوں (کے دل) کو خوش کر دیتا ہو
-
-[Open on Quran.com](https://quran.com/2/69)
-
-#### 2:70 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِىَ إِنَّ ٱلْبَقَرَ تَشَـٰبَهَ عَلَيْنَا وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهْتَدُونَ
-
-</div>
-
-**Word in this verse:** `يُبَيِّن` — to make clear
-
-**English (Sahih International):** They said, "Call upon your Lord to make clear to us what it is. Indeed, [all] cows look alike to us. And indeed we, if Allāh wills, will be guided."
-
-**English (Yusuf Ali):** They said: "Beseech on our behalf Thy Lord to make plain to us what she is: To us are all heifers alike: We wish indeed for guidance, if Allah wills."
-
-**Urdu (Fatah Muhammad Jalandhari):** انہوں نے کہا کہ (اب کے) پروردگار سے پھر درخواست کیجئے کہ ہم کو بتا دے کہ وہ اور کس کس طرح کا ہو، کیونکہ بہت سے بیل ہمیں ایک دوسرے کے مشابہ معلوم ہوتے ہیں، (پھر) خدا نے چاہا تو ہمیں ٹھیک بات معلوم ہو جائے گی
-
-[Open on Quran.com](https://quran.com/2/70)
 
 #### 2:97 · [[002 Al-Baqarah]]
 
@@ -176,24 +140,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/113)
 
-#### 2:118 · [[002 Al-Baqarah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌ ۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ ۘ تَشَـٰبَهَتْ قُلُوبُهُمْ ۗ قَدْ بَيَّنَّا ٱلْـَٔايَـٰتِ لِقَوْمٍ يُوقِنُونَ
-
-</div>
-
-**Word in this verse:** `بَيَّنَّا` — We have made clear
-
-**English (Sahih International):** Those who do not know say, "Why does Allāh not speak to us or there come to us a sign?" Thus spoke those before them like their words. Their hearts resemble each other. We have shown clearly the signs to a people who are certain [in faith].
-
-**English (Yusuf Ali):** Say those without knowledge: "Why speaketh not Allah unto us? or why cometh not unto us a Sign?" So said the people before them words of similar import. Their hearts are alike. We have indeed made clear the Signs unto any people who hold firmly to Faith (in their hearts).
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جو لوگ (کچھ) نہیں جانتے (یعنی مشرک) وہ کہتے ہیں کہ خدا ہم سے کلام کیوں نہیں کرتا۔ یا ہمارے پاس کوئی نشانی کیوں نہیں آتی۔ اسی طرح جو لوگ ان سے پہلے تھے، وہ بھی انہی کی سی باتیں کیا کرتے تھے۔ ان لوگوں کے دل آپس میں ملتے جلتے ہیں۔ جو لوگ صاحبِ یقین ہیں، ان کے (سمجھانے کے) لیے نشانیاں بیان کردی ہیں
-
-[Open on Quran.com](https://quran.com/2/118)
-
 #### 2:136 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -212,23 +158,77 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/136)
 
-#### 2:159 · [[002 Al-Baqarah]]
+#### 2:164 · [[002 Al-Baqarah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَـٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّـٰهُ لِلنَّاسِ فِى ٱلْكِتَـٰبِ ۙ أُو۟لَـٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّـٰعِنُونَ
+إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ ٱلرِّيَـٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ
 
 </div>
 
-**Word in this verse:** `بَيَّنَّـٰهُ` — We made clear
+**Word in this verse:** `بَيْنَ` — between
 
-**English (Sahih International):** Indeed, those who conceal what We sent down of clear proofs and guidance after We made it clear for the people in the Scripture - those are cursed by Allāh and cursed by those who curse,
+**English (Sahih International):** Indeed, in the creation of the heavens and the earth, and the alternation of the night and the day, and the [great] ships which sail through the sea with that which benefits people, and what Allāh has sent down from the heavens of rain, giving life thereby to the earth after its lifelessness and dispersing therein every [kind of] moving creature, and [His] directing of the winds and the clouds controlled between the heaven and earth are signs for a people who use reason.
 
-**English (Yusuf Ali):** Those who conceal the clear (Signs) We have sent down, and the Guidance, after We have made it clear for the people in the Book,-on them shall be Allah's curse, and the curse of those entitled to curse,-
+**English (Yusuf Ali):** Behold! in the creation of the heavens and the earth; in the alternation of the night and the day; in the sailing of the ships through the ocean for the profit of mankind; in the rain which Allah Sends down from the skies, and the life which He gives therewith to an earth that is dead; in the beasts of all kinds that He scatters through the earth; in the change of the winds, and the clouds which they Trail like their slaves between the sky and the earth;- (Here) indeed are Signs for a people that are wise.
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ ہمارے حکموں اور ہدایتوں کو جو ہم نے نازل کی ہیں (کسی غرض فاسد سے) چھپاتے ہیں باوجود یہ کہ ہم نے ان لوگوں کے (سمجھانے کے) لئے اپنی کتاب میں کھول کھول کر بیان کردیا ہے۔ ایسوں پر خدا اور تمام لعنت کرنے والے لعنت کرتے ہیں
+**Urdu (Fatah Muhammad Jalandhari):** بےشک آسمانوں اور زمین کے پیدا کرنے میں اور رات اور دن کے ایک دوسرے کے پیچھے آنے جانے میں اور کشتیوں اور جہازوں میں جو دریا میں لوگوں کے فائدے کی چیزیں لے کر رواں ہیں اور مینہ میں جس کو خدا آسمان سے برساتا اور اس سے زمین کو مرنے کے بعد زندہ (یعنی خشک ہوئے پیچھے سرسبز) کردیتا ہے اور زمین پر ہر قسم کے جانور پھیلانے میں اور ہواؤں کے چلانےمیں اور بادلوں میں جو آسمان اور زمین کے درمیان گھرے رہتے ہیں۔ عقلمندوں کے لئے (خدا کی قدرت کی) نشانیاں ہیں
 
-[Open on Quran.com](https://quran.com/2/159)
+[Open on Quran.com](https://quran.com/2/164)
 
-_…and **240** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 2:182 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَمَنْ خَافَ مِن مُّوصٍ جَنَفًا أَوْ إِثْمًا فَأَصْلَحَ بَيْنَهُمْ فَلَآ إِثْمَ عَلَيْهِ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+
+</div>
+
+**Word in this verse:** `بَيْنَهُمْ` — between them
+
+**English (Sahih International):** But if one fears from the bequeather [some] error or sin and corrects that which is between them [i.e., the concerned parties], there is no sin upon him. Indeed, Allāh is Forgiving and Merciful.
+
+**English (Yusuf Ali):** But if anyone fears partiality or wrong-doing on the part of the testator, and makes peace between (The parties concerned), there is no wrong in him: For Allah is Oft-forgiving, Most Merciful.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر کسی کو وصیت کرنے والے کی طرف سے (کسی وارث کی) طرفداری یا حق تلفی کا اندیشہ ہو تو اگر وہ (وصیت کو بدل کر) وارثوں میں صلح کرادے تو اس پر کچھ گناہ نہیں۔ بےشک خدا بخشنے والا (اور) رحم والا ہے
+
+[Open on Quran.com](https://quran.com/2/182)
+
+#### 2:188 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَـٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟ فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `بَيْنَكُم` — among yourselves
+
+**English (Sahih International):** And do not consume one another's wealth unjustly or send it [in bribery] to the rulers in order that [they might aid] you [to] consume a portion of the wealth of the people in sin, while you know [it is unlawful].
+
+**English (Yusuf Ali):** And do not eat up your property among yourselves for vanities, nor use it as bait for the judges, with intent that ye may eat up wrongfully and knowingly a little of (other) people's property.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ایک دوسرے کا مال ناحق نہ کھاؤ اورنہ اس کو (رشوةً) حاکموں کے پاس پہنچاؤ تاکہ لوگوں کے مال کا کچھ حصہ ناجائز طور پر کھا جاؤ اور (اسے) تم جانتے بھی ہو
+
+[Open on Quran.com](https://quran.com/2/188)
+
+#### 2:213 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+كَانَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّـۧنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلْكِتَـٰبَ بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ فِيمَا ٱخْتَلَفُوا۟ فِيهِ ۚ وَمَا ٱخْتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَـٰتُ بَغْيًۢا بَيْنَهُمْ ۖ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ لِمَا ٱخْتَلَفُوا۟ فِيهِ مِنَ ٱلْحَقِّ بِإِذْنِهِۦ ۗ وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+
+</div>
+
+**Word in this verse:** `بَيْنَ` — between
+
+**English (Sahih International):** Mankind was [of] one religion [before their deviation]; then Allāh sent the prophets as bringers of good tidings and warners and sent down with them the Scripture in truth to judge between the people concerning that in which they differed. And none differed over it [i.e., the Scripture] except those who were given it - after the clear proofs came to them - out of jealous animosity among themselves. And Allāh guided those who believed to the truth concerning that over which they had differed, by His permission. And Allāh guides whom He wills to a straight path.
+
+**English (Yusuf Ali):** Mankind was one single nation, and Allah sent Messengers with glad tidings and warnings; and with them He sent the Book in truth, to judge between people in matters wherein they differed; but the People of the Book, after the clear Signs came to them, did not differ among themselves, except through selfish contumacy. Allah by His Grace Guided the believers to the Truth, concerning that wherein they differed. For Allah guided whom He will to a path that is straight.
+
+**Urdu (Fatah Muhammad Jalandhari):** (پہلے تو سب) لوگوں کا ایک ہی مذہب تھا (لیکن وہ آپس میں اختلاف کرنے لگے) تو خدا نے (ان کی طرف) بشارت دینے والے اور ڈر سنانے والے پیغمبر بھیجے اور ان پر سچائی کے ساتھ کتابیں نازل کیں تاکہ جن امور میں لوگ اختلاف کرتے تھے ان کا ان میں فیصلہ کردے۔ اور اس میں اختلاف بھی انہیں لوگوں نے کیا جن کو کتاب دی گئی تھی باوجود یہ کہ ان کے پاس کھلے ہوئے احکام آچکے تھے (اور یہ اختلاف انہوں نے صرف) آپس کی ضد سے (کیا) تو جس امر حق میں وہ اختلاف کرتے تھے خدا نے اپنی مہربانی سے مومنوں کو اس کی راہ دکھا دی۔ اور خدا جس کو چاہتا ہے سیدھا رستہ دکھا دیتا ہے
+
+[Open on Quran.com](https://quran.com/2/213)
+
+_…and **207** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

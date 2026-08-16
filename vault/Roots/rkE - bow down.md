@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** bow down · **Root:** ركع
 
+
 ### Words (wikilinks — these create the graph)
 - [[rAkE - bow down]]
 - [[yrkE - bow down]]

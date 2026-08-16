@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fruits · **Root:** ثمر
 
+
 ### Words (wikilinks — these create the graph)
 - [[vmr - its fruit]]
 - [[vmrp - fruits]]

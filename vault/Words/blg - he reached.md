@@ -2,8 +2,8 @@
 type: word
 lemma: "بَلَغَ"
 slug: "blg - he reached"
-surah_count: 23
-ayah_count: 43
+surah_count: 21
+ayah_count: 38
 tags: [word, meaning]
 ---
 
@@ -19,13 +19,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **he reached** · Lemma **بَلَغَ**
 
-### Surahs (23)
+### Surahs (21)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
-- [[005 Al-Maidah]]
 - [[006 Al-Anam]]
-- [[007 Al-Araf]]
 - [[012 Yusuf]]
 - [[013 Ar-Rad]]
 - [[017 Al-Isra]]
@@ -174,24 +172,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/4/6)
 
-#### 5:67 · [[005 Al-Maidah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ يَـٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُۥ ۚ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ ۗ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ
-
-</div>
-
-**Word in this verse:** `بَلِّغْ` — Convey
-
-**English (Sahih International):** O Messenger, announce that which has been revealed to you from your Lord, and if you do not, then you have not conveyed His message. And Allāh will protect you from the people. Indeed, Allāh does not guide the disbelieving people.
-
-**English (Yusuf Ali):** O Messenger! proclaim the (message) which hath been sent to thee from thy Lord. If thou didst not, thou wouldst not have fulfilled and proclaimed His mission. And Allah will defend thee from men (who mean mischief). For Allah guideth not those who reject Faith.
-
-**Urdu (Fatah Muhammad Jalandhari):** اے پیغمبر جو ارشادات خدا کی طرف سے تم پر نازل ہوئے ہیں سب لوگوں کو پہنچا دو اور اگر ایسا نہ کیا تو تم خدا کے پیغام پہنچانے میں قاصر رہے (یعنی پیغمبری کا فرض ادا نہ کیا) اور خدا تم کو لوگوں سے بچائے رکھے گا بیشک خدا منکروں کو ہدایت نہیں دیتا
-
-[Open on Quran.com](https://quran.com/5/67)
-
 #### 6:19 · [[006 Al-Anam]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -228,5 +208,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/128)
 
-_…and **33** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 6:152 · [[006 Al-Anam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ ۖ وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ ۖ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا ۖ وَإِذَا قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ ۖ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ
+
+</div>
+
+**Word in this verse:** `يَبْلُغَ` — he reaches
+
+**English (Sahih International):** And do not approach the orphan's property except in a way that is best [i.e., intending improvement] until he reaches maturity. And give full measure and weight in justice. We do not charge any soul except [with that within] its capacity. And when you speak [i.e., testify], be just, even if [it concerns] a near relative. And the covenant of Allāh fulfill. This has He instructed you that you may remember.
+
+**English (Yusuf Ali):** And come not nigh to the orphan's property, except to improve it, until he attain the age of full strength; give measure and weight with (full) justice;- no burden do We place on any soul, but that which it can bear;- whenever ye speak, speak justly, even if a near relative is concerned; and fulfil the covenant of Allah: thus doth He command you, that ye may remember.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور یتیم کے مال کے پاس بھی نہ جانا مگر ایسے طریق سے کہ بہت ہی پسندیدہ ہو یہاں تک کہ وہ جوانی کو پہنچ جائے اور ناپ تول انصاف کے ساتھ پوری پوری کیا کرو ہم کسی کو تکلیف نہیں دیتے مگر اس کی طاقت کے مطابق اور جب (کسی کی نسبت) کوئی بات کہو تو انصاف سے کہو گو وہ (تمہارا) رشتہ دار ہی ہو اور خدا کے عہد کو پورا کرو ان باتوں کا خدا تمہیں حکم دیتا ہے تاکہ تم نصحیت کرو
+
+[Open on Quran.com](https://quran.com/6/152)
+
+_…and **28** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

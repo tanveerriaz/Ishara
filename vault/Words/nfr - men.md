@@ -1,0 +1,84 @@
+---
+type: word
+lemma: "نَفَر"
+slug: "nfr - men"
+surah_count: 3
+ayah_count: 3
+tags: [word, meaning]
+---
+
+# nfr - men
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[nfr - aversion]]
+
+### Meaning
+**men** · Lemma **نَفَر**
+
+### Surahs (3)
+- [[018 Al-Kahf]]
+- [[046 Al-Ahqaf]]
+- [[072 Al-Jinn]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
+
+#### 18:34 · [[018 Al-Kahf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَانَ لَهُۥ ثَمَرٌ فَقَالَ لِصَـٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠ أَكْثَرُ مِنكَ مَالًا وَأَعَزُّ نَفَرًا
+
+</div>
+
+**Word in this verse:** `نَفَرًۭا` — (in) men
+
+**English (Sahih International):** And he had fruit, so he said to his companion while he was conversing with him, "I am greater than you in wealth and mightier in [numbers of] men."
+
+**English (Yusuf Ali):** (Abundant) was the produce this man had: he said to his companion, in the course of a mutual argument: "more wealth have I than you, and more honour and power in (my following of) men."
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (اس طرح) اس (شخص) کو (ان کی) پیداوار (ملتی رہتی) تھی تو (ایک دن) جب کہ وہ اپنے دوست سے باتیں کر رہا تھا کہنے لگا کہ میں تم سے مال ودولت میں بھی زیادہ ہوں اور جتھے (اور جماعت) کے لحاظ سے بھی زیادہ عزت والا ہوں
+
+[Open on Quran.com](https://quran.com/18/34)
+
+#### 46:29 · [[046 Al-Ahqaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِذْ صَرَفْنَآ إِلَيْكَ نَفَرًا مِّنَ ٱلْجِنِّ يَسْتَمِعُونَ ٱلْقُرْءَانَ فَلَمَّا حَضَرُوهُ قَالُوٓا۟ أَنصِتُوا۟ ۖ فَلَمَّا قُضِىَ وَلَّوْا۟ إِلَىٰ قَوْمِهِم مُّنذِرِينَ
+
+</div>
+
+**Word in this verse:** `نَفَرًۭا` — a party
+
+**English (Sahih International):** And [mention, O Muḥammad], when We directed to you a few of the jinn, listening to the Qur’ān. And when they attended it, they said, "Listen attentively." And when it was concluded, they went back to their people as warners.
+
+**English (Yusuf Ali):** Behold, We turned towards thee a company of Jinns (quietly) listening to the Qur'an: when they stood in the presence thereof, they said, "Listen in silence!" When the (reading) was finished, they returned to their people, to warn (them of their sins).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور جب ہم نے جنوں میں سے کئی شخص تمہاری طرف متوجہ کئے کہ قرآن سنیں۔ تو جب وہ اس کے پاس آئے تو (آپس میں) کہنے لگے کہ خاموش رہو۔ جب (پڑھنا) تمام ہوا تو اپنی برادری کے لوگوں میں واپس گئے کہ (ان کو) نصیحت کریں
+
+[Open on Quran.com](https://quran.com/46/29)
+
+#### 72:1 · [[072 Al-Jinn]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًا
+
+</div>
+
+**Word in this verse:** `نَفَرٌۭ` — a group
+
+**English (Sahih International):** Say, [O Muḥammad], "It has been revealed to me that a group of the jinn listened and said, 'Indeed, we have heard an amazing Qur’ān [i.e., recitation].
+
+**English (Yusuf Ali):** Say: It has been revealed to me that a company of Jinns listened (to the Qur'an). They said, 'We have really heard a wonderful Recital!
+
+**Urdu (Fatah Muhammad Jalandhari):** (اے پیغمبر لوگوں سے) کہہ دو کہ میرے پاس وحی آئی ہے کہ جنوں کی ایک جماعت نے (اس کتاب کو) سنا تو کہنے لگے کہ ہم نے ایک عجیب قرآن سنا
+
+[Open on Quran.com](https://quran.com/72/1)
+

@@ -2,8 +2,8 @@
 type: word
 lemma: "سُيِّرَتْ"
 slug: "syrt - could moved"
-surah_count: 6
-ayah_count: 6
+surah_count: 5
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -19,11 +19,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **could moved** · Lemma **سُيِّرَتْ**
 
-### Surahs (6)
+### Surahs (5)
 - [[010 Yunus]]
 - [[013 Ar-Rad]]
 - [[018 Al-Kahf]]
-- [[020 Taha]]
 - [[078 An-Naba]]
 - [[081 At-Takwir]]
 
@@ -84,24 +83,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور جس دن ہم پہاڑوں کو چلائیں گے اور تم زمین کو صاف میدان دیکھو گے اور ان (لوگوں کو) ہم جمع کرلیں گے تو ان میں سے کسی کو بھی نہیں چھوڑیں گے
 
 [Open on Quran.com](https://quran.com/18/47)
-
-#### 20:21 · [[020 Taha]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالَ خُذْهَا وَلَا تَخَفْ ۖ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ
-
-</div>
-
-**Word in this verse:** `سِيرَتَهَا` — (to) its state
-
-**English (Sahih International):** [Allāh] said, "Seize it and fear not; We will return it to its former condition.
-
-**English (Yusuf Ali):** (Allah) said, "Seize it, and fear not: We shall return it at once to its former condition"..
-
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے فرمایا کہ اسے پکڑ لو اور ڈرنا مت۔ ہم اس کو ابھی اس کی پہلی حالت پر لوٹا دیں گے
-
-[Open on Quran.com](https://quran.com/20/21)
 
 #### 78:20 · [[078 An-Naba]]
 

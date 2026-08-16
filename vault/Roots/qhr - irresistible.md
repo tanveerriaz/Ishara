@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** irresistible · **Root:** قهر
 
+
 ### Words (wikilinks — these create the graph)
 - [[qhAr - irresistible]]
 

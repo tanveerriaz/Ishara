@@ -11,12 +11,15 @@ tags: [root, meaning]
 
 **Sense:** believe · **Root:** أمن
 
+
 ### Words (wikilinks — these create the graph)
 - [[<ymAn - faith]]
 - [[>mAnp - trusts]]
 - [[>mn - security]]
+- [[>mn - you secure]]
 - [[>myn - trustworthy]]
 - [[Amn - believe]]
+- [[Amn - secure]]
 - [[m&mn - believers]]
 - [[m&mnp - believing women]]
 

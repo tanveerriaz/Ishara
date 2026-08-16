@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** noble · **Root:** سود
 
+
 ### Words (wikilinks — these create the graph)
 - [[syd - noble]]
 

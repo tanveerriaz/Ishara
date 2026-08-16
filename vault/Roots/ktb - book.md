@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** book · **Root:** كتب
 
+
 ### Words (wikilinks — these create the graph)
 - [[kAtb - scribe]]
 - [[ktAb - book]]

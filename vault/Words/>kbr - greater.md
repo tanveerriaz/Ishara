@@ -2,8 +2,8 @@
 type: word
 lemma: "أَكْبَر"
 slug: ">kbr - greater"
-surah_count: 18
-ayah_count: 23
+surah_count: 17
+ayah_count: 22
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **greater** · Lemma **أَكْبَر**
 
-### Surahs (18)
+### Surahs (17)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
 - [[006 Al-Anam]]
 - [[009 At-Tawbah]]
 - [[010 Yunus]]
-- [[012 Yusuf]]
 - [[016 An-Nahl]]
 - [[017 Al-Isra]]
 - [[021 Al-Anbya]]
@@ -223,5 +222,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/10/61)
 
-_…and **13** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **12** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -2,8 +2,8 @@
 type: word
 lemma: "خَلْف"
 slug: "xlf - behind them"
-surah_count: 18
-ayah_count: 26
+surah_count: 16
+ayah_count: 22
 tags: [word, meaning]
 ---
 
@@ -19,13 +19,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **behind them** · Lemma **خَلْف**
 
-### Surahs (18)
+### Surahs (16)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
 - [[007 Al-Araf]]
 - [[008 Al-Anfal]]
-- [[009 At-Tawbah]]
 - [[010 Yunus]]
 - [[013 Ar-Rad]]
 - [[019 Maryam]]
@@ -35,7 +34,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[034 Saba]]
 - [[036 Ya-Sin]]
 - [[041 Fussilat]]
-- [[043 Az-Zukhruf]]
 - [[046 Al-Ahqaf]]
 - [[072 Al-Jinn]]
 
@@ -133,42 +131,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/17)
 
-#### 7:142 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ وَوَٰعَدْنَا مُوسَىٰ ثَلَـٰثِينَ لَيْلَةً وَأَتْمَمْنَـٰهَا بِعَشْرٍ فَتَمَّ مِيقَـٰتُ رَبِّهِۦٓ أَرْبَعِينَ لَيْلَةً ۚ وَقَالَ مُوسَىٰ لِأَخِيهِ هَـٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ
-
-</div>
-
-**Word in this verse:** `ٱخْلُفْنِى` — Take my place
-
-**English (Sahih International):** And We made an appointment with Moses for thirty nights and perfected them by [the addition of] ten; so the term of his Lord was completed as forty nights. And Moses said to his brother Aaron, "Take my place among my people, do right [by them], and do not follow the way of the corrupters."
-
-**English (Yusuf Ali):** We appointed for Moses thirty nights, and completed (the period) with ten (more): thus was completed the term (of communion) with his Lord, forty nights. And Moses had charged his brother Aaron (before he went up): "Act for me amongst my people: Do right, and follow not the way of those who do mischief."
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے موسیٰ سے تیس رات کی میعاد مقرر کی۔ اور اس دس (راتیں) اور ملا کر اسے پورا (چلّہ) کردیا تو اس کے پروردگار کی چالیس رات کی میعاد پوری ہوگئی۔ اور موسیٰ نے اپنے بھائی ہارون سے کہا کہ میرے (کوہِٰ طور پر جانے کے) بعد تم میری قوم میں میرے جانشین ہو (ان کی) اصلاح کرتے رہنا ٹھیک اور شریروں کے رستے نہ چلنا
-
-[Open on Quran.com](https://quran.com/7/142)
-
-#### 7:150 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَـٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ بَعْدِىٓ ۖ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ ۖ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيْهِ ۚ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ
-
-</div>
-
-**Word in this verse:** `خَلَفْتُمُونِى` — you have done in my place
-
-**English (Sahih International):** And when Moses returned to his people, angry and grieved, he said, "How wretched is that by which you have replaced me after [my departure]. Were you impatient over the matter of your Lord?" And he threw down the tablets and seized his brother by [the hair of] his head, pulling him toward him. [Aaron] said, "O son of my mother, indeed the people overpowered me and were about to kill me, so let not the enemies rejoice over me and do not place me among the wrongdoing people."
-
-**English (Yusuf Ali):** When Moses came back to his people, angry and grieved, he said: "Evil it is that ye have done in my place in my absence: did ye make haste to bring on the judgment of your Lord?" He put down the tablets, seized his brother by (the hair of) his head, and dragged him to him. Aaron said: "Son of my mother! the people did indeed reckon me as naught, and went near to slaying me! Make not the enemies rejoice over my misfortune, nor count thou me amongst the people of sin."
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب موسیٰ اپنی قوم میں نہایت غصے اور افسوس کی حالت میں واپس آئے۔ تو کہنے لگے کہ تم نے میرے بعد بہت ہی بداطواری کی۔ کیا تم نے اپنے پروردگار کا حکم (یعنی میرا اپنے پاس آنا) جلد چاہا (یہ کہا) اور (شدت غضب سے تورات کی) تختیاں ڈال دیں اور اپنے بھائی کے سر (کے بالوں) کو پکڑ کر اپنی طرف کھینچنے لگے۔ انہوں نے کہا کہ بھائی جان لوگ تو مجھے کمزور سمجھتے تھے اور قریب تھا کہ قتل کردیں۔ تو ایسا کام نہ کیجیے کہ دشمن مجھ پر ہنسیں اور مجھے ظالم لوگوں میں مت ملایئے
-
-[Open on Quran.com](https://quran.com/7/150)
-
 #### 7:169 · [[007 Al-Araf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -177,7 +139,7 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 </div>
 
-**Word in this verse:** `فَخَلَفَ` — Then succeeded
+**Word in this verse:** `خَلْفٌۭ` — successors
 
 **English (Sahih International):** And there followed them successors who inherited the Scripture [while] taking the commodities of this lower life and saying, "It will be forgiven for us." And if an offer like it comes to them, they will [again] take it. Was not the covenant of the Scripture [i.e., the Torah] taken from them that they would not say about Allāh except the truth, and they studied what was in it? And the home of the Hereafter is better for those who fear Allāh, so will you not use reason?
 
@@ -205,23 +167,59 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/8/57)
 
-#### 9:118 · [[009 At-Tawbah]]
+#### 10:92 · [[010 Yunus]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَعَلَى ٱلثَّلَـٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ ۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
+فَٱلْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ لِتَكُونَ لِمَنْ خَلْفَكَ ءَايَةً ۚ وَإِنَّ كَثِيرًا مِّنَ ٱلنَّاسِ عَنْ ءَايَـٰتِنَا لَغَـٰفِلُونَ
 
 </div>
 
-**Word in this verse:** `خُلِّفُوا۟` — were left behind
+**Word in this verse:** `خَلْفَكَ` — succeed you
 
-**English (Sahih International):** And [He also forgave] the three who were left alone [i.e., boycotted, regretting their error] to the point that the earth closed in on them in spite of its vastness and their souls confined [i.e., anguished] them and they were certain that there is no refuge from Allāh except in Him. Then He turned to them so they could repent. Indeed, Allāh is the Accepting of Repentance, the Merciful.
+**English (Sahih International):** So today We will save you in body that you may be to those who succeed you a sign. And indeed, many among the people, of Our signs, are heedless.
 
-**English (Yusuf Ali):** (He turned in mercy also) to the three who were left behind; (they felt guilty) to such a degree that the earth seemed constrained to them, for all its spaciousness, and their (very) souls seemed straitened to them,- and they perceived that there is no fleeing from Allah (and no refuge) but to Himself. Then He turned to them, that they might repent: for Allah is Oft-Returning, Most Merciful.
+**English (Yusuf Ali):** "This day shall We save thee in the body, that thou mayest be a sign to those who come after thee! but verily, many among mankind are heedless of Our Signs!"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان تینوں پر بھی جن کا معاملہ ملتوی کیا گیا تھا۔ یہاں تک کہ جب اُنہیں زمین باوجود فراخی کے ان پر تنگ ہوگئی اور ان کے جانیں بھی ان پر دوبھر ہوگئیں۔ اور انہوں نے جان لیا کہ خدا (کے ہاتھ) سے خود اس کے سوا کوئی پناہ نہیں۔ پھر خدا نے ان پر مہربانی کی تاکہ توبہ کریں۔ بےشک خدا توبہ قبول کرنے والا مہربان ہے
+**Urdu (Fatah Muhammad Jalandhari):** تو آج ہم تیرے بدن کو (دریا سے) نکال لیں گے تاکہ تو پچھلوں کے لئے عبرت ہو۔ اور بہت سے لوگ ہماری نشانیوں سے بےخبر ہیں
 
-[Open on Quran.com](https://quran.com/9/118)
+[Open on Quran.com](https://quran.com/10/92)
 
-_…and **16** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 13:11 · [[013 Ar-Rad]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَهُۥ مُعَقِّبَـٰتٌ مِّنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦ يَحْفَظُونَهُۥ مِنْ أَمْرِ ٱللَّهِ ۗ إِنَّ ٱللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا۟ مَا بِأَنفُسِهِمْ ۗ وَإِذَآ أَرَادَ ٱللَّهُ بِقَوْمٍ سُوٓءًا فَلَا مَرَدَّ لَهُۥ ۚ وَمَا لَهُم مِّن دُونِهِۦ مِن وَالٍ
+
+</div>
+
+**Word in this verse:** `خَلْفِهِۦ` — and behind him
+
+**English (Sahih International):** For him [i.e., each one] are successive [angels] before and behind him who protect him by the decree of Allāh. Indeed, Allāh will not change the condition of a people until they change what is in themselves. And when Allāh intends for a people ill, there is no repelling it. And there is not for them besides Him any patron.
+
+**English (Yusuf Ali):** For each (such person) there are (angels) in succession, before and behind him: They guard him by command of Allah. Allah does not change a people's lot unless they change what is in their hearts. But when (once) Allah willeth a people's punishment, there can be no turning it back, nor will they find, besides Him, any to protect.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس کے آگے اور پیچھے خدا کے چوکیدار ہیں جو خدا کے حکم سے اس کی حفاظت کرتے ہیں۔ خدا اس (نعمت) کو جو کسی قوم کو (حاصل) ہے نہیں بدلتا جب تک کہ وہ اپنی حالت کو نہ بدلے۔ اور جب خدا کسی قوم کے ساتھ برائی کا ارادہ کرتا ہے تو پھر وہ پھر نہیں سکتی۔ اور خدا کے سوا ان کا کوئی مددگار نہیں ہوتا
+
+[Open on Quran.com](https://quran.com/13/11)
+
+#### 19:59 · [[019 Maryam]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+۞ فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ أَضَاعُوا۟ ٱلصَّلَوٰةَ وَٱتَّبَعُوا۟ ٱلشَّهَوَٰتِ ۖ فَسَوْفَ يَلْقَوْنَ غَيًّا
+
+</div>
+
+**Word in this verse:** `خَلْفٌ` — successors
+
+**English (Sahih International):** But there came after them successors [i.e., later generations] who neglected prayer and pursued desires; so they are going to meet evil -
+
+**English (Yusuf Ali):** But after them there followed a posterity who missed prayers and followed after lusts soon, then, will they face Destruction,-
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر ان کے بعد چند ناخلف ان کے جانشیں ہوئے جنہوں نے نماز کو (چھوڑ دیا گویا اسے) کھو دیا۔ اور خواہشات نفسانی کے پیچھے لگ گئے۔ سو عنقریب ان کو گمراہی (کی سزا) ملے گی
+
+[Open on Quran.com](https://quran.com/19/59)
+
+_…and **12** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

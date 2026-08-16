@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** protects · **Root:** جور
 
+
 ### Words (wikilinks — these create the graph)
 - [[yjyr - protects]]
 

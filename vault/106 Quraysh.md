@@ -14,13 +14,13 @@ Quraysh · 4 ayahs
 
 ## Words in this surah (graph)
 
+- [[rb - lord]] — `رَبّ` · lord
+- [[byt - houses]] — `بَيْت` · houses
 - [[Amn - believe]] — `آمَنَ` · believe
 - [[>TEm - feed]] — `أَطْعَمَ` · feed
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
-- [[rb - lord]] — `رَبّ` · lord
 - [[jwE - hunger]] — `جُوع` · hunger
+- [[Ebd - worship]] — `عَبَدَ` · worship
 - [[xwf - fear]] — `خَوْف` · fear
-- [[byt - houses]] — `بَيْت` · houses
 
 ## Roots
 

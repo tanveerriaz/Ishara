@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** steal · **Root:** سرق
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

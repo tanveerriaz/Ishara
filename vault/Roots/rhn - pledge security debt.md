@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** pledge security debt · **Root:** رهن
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

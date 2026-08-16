@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** home · **Root:** دور
 
+
 ### Words (wikilinks — these create the graph)
 - [[dAr - home]]
 - [[dA}rp - misfortune]]

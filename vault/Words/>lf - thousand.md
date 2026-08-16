@@ -2,8 +2,8 @@
 type: word
 lemma: "أَلْف"
 slug: ">lf - thousand"
-surah_count: 10
-ayah_count: 16
+surah_count: 9
+ayah_count: 13
 tags: [word, meaning]
 ---
 
@@ -19,12 +19,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **thousand** · Lemma **أَلْف**
 
-### Surahs (10)
+### Surahs (9)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[008 Al-Anfal]]
 - [[022 Al-Hajj]]
-- [[024 An-Nur]]
 - [[029 Al-Ankabut]]
 - [[032 As-Sajdah]]
 - [[037 As-Saffat]]
@@ -70,24 +69,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** بھلا تم نے ان لوگوں کو نہیں دیکھا جو (شمار میں) ہزاروں ہی تھے اور موت کے ڈر سے اپنے گھروں سے نکل بھاگے تھے۔ تو خدا نے ان کو حکم دیا کہ مرجاؤ۔ پھر ان کو زندہ بھی کردیا۔ کچھ شک نہیں کہ خدا لوگوں پر مہربانی رکھتا ہے۔ لیکن اکثر لوگ شکر نہیں کرتے
 
 [Open on Quran.com](https://quran.com/2/243)
-
-#### 3:103 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا۟ ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ
-
-</div>
-
-**Word in this verse:** `فَأَلَّفَ` — then He made friendship
-
-**English (Sahih International):** And hold firmly to the rope of Allāh all together and do not become divided. And remember the favor of Allāh upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers. And you were on the edge of a pit of the Fire, and He saved you from it. Thus does Allāh make clear to you His verses that you may be guided.
-
-**English (Yusuf Ali):** And hold fast, all together, by the rope which Allah (stretches out for you), and be not divided among yourselves; and remember with gratitude Allah's favour on you; for ye were enemies and He joined your hearts in love, so that by His Grace, ye became brethren; and ye were on the brink of the pit of Fire, and He saved you from it. Thus doth Allah make His Signs clear to you: That ye may be guided.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور سب مل کر خدا کی (ہدایت کی رسی) کو مضبوط پکڑے رہنا اور متفرق نہ ہونا اور خدا کی اس مہربانی کو یاد کرو جب تم ایک دوسرے کے دشمن تھے تو اس نے تمہارے دلوں میں الفت ڈال دی اور تم اس کی مہربانی سے بھائی بھائی ہوگئے اور تم آگ کے گڑھے کے کنارے تک پہنچ چکے تھے تو خدا نے تم کو اس سے بچا لیا اس طرح خدا تم کو اپنی آیتیں کھول کھول کر سناتا ہے تاکہ تم ہدایت پاؤ
-
-[Open on Quran.com](https://quran.com/3/103)
 
 #### 3:124 · [[003 Ali Imran]]
 
@@ -143,24 +124,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/8/9)
 
-#### 8:63 · [[008 Al-Anfal]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَأَلَّفَ بَيْنَ قُلُوبِهِمْ ۚ لَوْ أَنفَقْتَ مَا فِى ٱلْأَرْضِ جَمِيعًا مَّآ أَلَّفْتَ بَيْنَ قُلُوبِهِمْ وَلَـٰكِنَّ ٱللَّهَ أَلَّفَ بَيْنَهُمْ ۚ إِنَّهُۥ عَزِيزٌ حَكِيمٌ
-
-</div>
-
-**Word in this verse:** `وَأَلَّفَ` — And He (has) put affection
-
-**English (Sahih International):** And brought together their hearts. If you had spent all that is in the earth, you could not have brought their hearts together; but Allāh brought them together. Indeed, He is Exalted in Might and Wise.
-
-**English (Yusuf Ali):** And (moreover) He hath put affection between their hearts: not if thou hadst spent all that is in the earth, couldst thou have produced that affection, but Allah hath done it: for He is Exalted in might, Wise.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کے دلوں میں الفت پیدا کردی۔ اور اگر تم دنیا بھر کی دولت خرچ کرتے تب بھی ان کے دلوں میں الفت نہ پیدا کرسکتے۔ مگر خدا ہی نے ان میں الفت ڈال دی۔ بےشک وہ زبردست (اور) حکمت والا ہے
-
-[Open on Quran.com](https://quran.com/8/63)
-
 #### 8:65 · [[008 Al-Anfal]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -215,5 +178,41 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/22/47)
 
-_…and **6** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 29:14 · [[029 Al-Ankabut]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمْ ظَـٰلِمُونَ
+
+</div>
+
+**Word in this verse:** `أَلْفَ` — a thousand
+
+**English (Sahih International):** And We certainly sent Noah to his people, and he remained among them a thousand years minus fifty years, and the flood seized them while they were wrongdoers.
+
+**English (Yusuf Ali):** We (once) sent Noah to his people, and he tarried among them a thousand years less fifty: but the Deluge overwhelmed them while they (persisted in) sin.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے نوحؑ کو اُن کی قوم کی طرف بھیجا تو وہ ان میں پچاس برس کم ہزار برس رہے پھر اُن کو طوفان (کے عذاب) نے آپکڑا۔ اور وہ ظالم تھے
+
+[Open on Quran.com](https://quran.com/29/14)
+
+#### 32:5 · [[032 As-Sajdah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يُدَبِّرُ ٱلْأَمْرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥٓ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ
+
+</div>
+
+**Word in this verse:** `أَلْفَ` — a thousand
+
+**English (Sahih International):** He arranges [each] matter from the heaven to the earth; then it will ascend to Him in a Day, the extent of which is a thousand years of those which you count.
+
+**English (Yusuf Ali):** He rules (all) affairs from the heavens to the earth: in the end will (all affairs) go up to Him, on a Day, the space whereof will be (as) a thousand years of your reckoning.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہی آسمان سے زمین تک (کے) ہر کام کا انتظام کرتا ہے۔ پھر وہ ایک روز جس کی مقدار تمہارے شمار کے مطابق ہزار برس ہوگی۔ اس کی طرف صعود (اور رجوع) کرے گا
+
+[Open on Quran.com](https://quran.com/32/5)
+
+_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

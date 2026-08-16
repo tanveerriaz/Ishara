@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** becomes dark · **Root:** خسف
 
+
 ### Words (wikilinks — these create the graph)
 - [[xsf - becomes dark]]
 

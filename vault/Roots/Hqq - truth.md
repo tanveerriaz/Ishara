@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** truth · **Root:** حقق
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Hq - more worthy]]
 - [[Hq - truth]]
+- [[Hq - was obligated]]
 - [[yHq - justify]]
 
 ### Surahs where this root appears

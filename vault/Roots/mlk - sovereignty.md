@@ -11,9 +11,12 @@ tags: [root, meaning]
 
 **Sense:** sovereignty · **Root:** ملك
 
+
 ### Words (wikilinks — these create the graph)
 - [[mAlk - master]]
 - [[mlk - angels]]
+- [[mlk - dominion]]
+- [[mlk - king]]
 - [[mlkt - possess]]
 - [[mlkwt - dominion]]
 

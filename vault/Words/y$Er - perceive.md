@@ -2,8 +2,8 @@
 type: word
 lemma: "يَشْعُرُ"
 slug: "y$Er - perceive"
-surah_count: 15
-ayah_count: 27
+surah_count: 14
+ayah_count: 25
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **perceive** · Lemma **يَشْعُرُ**
 
-### Surahs (15)
+### Surahs (14)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[012 Yusuf]]
 - [[016 An-Nahl]]
-- [[018 Al-Kahf]]
 - [[023 Al-Muminun]]
 - [[026 Ash-Shuara]]
 - [[027 An-Naml]]
@@ -130,24 +129,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/26)
 
-#### 6:109 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَـٰنِهِمْ لَئِن جَآءَتْهُمْ ءَايَةٌ لَّيُؤْمِنُنَّ بِهَا ۚ قُلْ إِنَّمَا ٱلْـَٔايَـٰتُ عِندَ ٱللَّهِ ۖ وَمَا يُشْعِرُكُمْ أَنَّهَآ إِذَا جَآءَتْ لَا يُؤْمِنُونَ
-
-</div>
-
-**Word in this verse:** `يُشْعِرُكُمْ` — will make you perceive
-
-**English (Sahih International):** And they swear by Allāh their strongest oaths that if a sign came to them, they would surely believe in it. Say, "The signs are only with [i.e., from] Allāh." And what will make you perceive that even if it [i.e., a sign] came, they would not believe.
-
-**English (Yusuf Ali):** They swear their strongest oaths by Allah, that if a (special) sign came to them, by it they would believe. Say: "Certainly (all) signs are in the power of Allah: but what will make you (Muslims) realise that (even) if (special) signs came, they will not believe."?
-
-**Urdu (Fatah Muhammad Jalandhari):** اور یہ لوگ خدا کی سخت سخت قسمیں کھاتے ہیں کہ اگر ان کے پاس کوئی نشانی آئے تو وہ اس پر ضروری ایمان لے آئیں۔ کہہ دو کہ نشانیاں تو سب خدا ہی کے پاس ہیں۔ اور (مومنو!) تمہیں کیا معلوم ہے (یہ تو ایسے بدبخت ہیں کہ ان کے پاس) نشانیاں آ بھی جائیں تب بھی ایمان نہ لائیں
-
-[Open on Quran.com](https://quran.com/6/109)
-
 #### 6:123 · [[006 Al-Anam]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -220,5 +201,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/12/107)
 
-_…and **17** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 16:21 · [[016 An-Nahl]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ ۖ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
+
+</div>
+
+**Word in this verse:** `يَشْعُرُونَ` — they perceive
+
+**English (Sahih International):** They are [in fact] dead, not alive, and they do not perceive when they will be resurrected.
+
+**English (Yusuf Ali):** (They are things) dead, lifeless: nor do they know when they will be raised up.
+
+**Urdu (Fatah Muhammad Jalandhari):** لاشیں ہیں بےجان۔ ان کو یہ بھی تو معلوم نہیں کہ اٹھائے کب جائیں گے
+
+[Open on Quran.com](https://quran.com/16/21)
+
+_…and **15** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -2,8 +2,8 @@
 type: word
 lemma: "مَنّ"
 slug: "mn - reminders generosity"
-surah_count: 16
-ayah_count: 20
+surah_count: 4
+ayah_count: 6
 tags: [word, meaning]
 ---
 
@@ -19,23 +19,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **reminders generosity** · Lemma **مَنّ**
 
-### Surahs (16)
+### Surahs (4)
 - [[002 Al-Baqarah]]
-- [[003 Ali Imran]]
-- [[004 An-Nisa]]
-- [[006 Al-Anam]]
 - [[007 Al-Araf]]
-- [[012 Yusuf]]
-- [[014 Ibrahim]]
 - [[020 Taha]]
-- [[026 Ash-Shuara]]
-- [[028 Al-Qasas]]
-- [[037 As-Saffat]]
-- [[038 Sad]]
 - [[047 Muhammad]]
-- [[049 Al-Hujurat]]
-- [[052 At-Tur]]
-- [[074 Al-Muddaththir]]
 
 ## Verses (full text)
 
@@ -95,60 +83,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/2/264)
 
-#### 3:164 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-لَقَدْ مَنَّ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ إِذْ بَعَثَ فِيهِمْ رَسُولًا مِّنْ أَنفُسِهِمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍ مُّبِينٍ
-
-</div>
-
-**Word in this verse:** `مَنَّ` — bestowed a Favor
-
-**English (Sahih International):** Certainly did Allāh confer [great] favor upon the believers when He sent among them a Messenger from themselves, reciting to them His verses and purifying them and teaching them the Book [i.e., the Qur’ān] and wisdom, although they had been before in manifest error.
-
-**English (Yusuf Ali):** Allah did confer a great favour on the believers when He sent among them a messenger from among themselves, rehearsing unto them the Signs of Allah, sanctifying them, and instructing them in Scripture and Wisdom, while, before that, they had been in manifest error.
-
-**Urdu (Fatah Muhammad Jalandhari):** خدا نے مومنوں پر بڑا احسان کیا ہے کہ ان میں انہیں میں سے ایک پیغمبر بھیجے۔ جو ان کو خدا کی آیتیں پڑھ پڑھ کر سناتے اور ان کو پاک کرتے اور (خدا کی) کتاب اور دانائی سکھاتے ہیں اور پہلے تو یہ لوگ صریح گمراہی میں تھے
-
-[Open on Quran.com](https://quran.com/3/164)
-
-#### 4:94 · [[004 An-Nisa]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا ضَرَبْتُمْ فِى سَبِيلِ ٱللَّهِ فَتَبَيَّنُوا۟ وَلَا تَقُولُوا۟ لِمَنْ أَلْقَىٰٓ إِلَيْكُمُ ٱلسَّلَـٰمَ لَسْتَ مُؤْمِنًا تَبْتَغُونَ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٌ ۚ كَذَٰلِكَ كُنتُم مِّن قَبْلُ فَمَنَّ ٱللَّهُ عَلَيْكُمْ فَتَبَيَّنُوٓا۟ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
-
-</div>
-
-**Word in this verse:** `فَمَنَّ` — then conferred favor
-
-**English (Sahih International):** O you who have believed, when you go forth [to fight] in the cause of Allāh, investigate; and do not say to one who gives you [a greeting of] peace, "You are not a believer," aspiring for the goods of worldly life; for with Allāh are many acquisitions. You [yourselves] were like that before; then Allāh conferred His favor [i.e., guidance] upon you, so investigate. Indeed Allāh is ever, of what you do, Aware.
-
-**English (Yusuf Ali):** O ye who believe! When ye go abroad in the cause of Allah, investigate carefully, and say not to any one who offers you a salutation: "Thou art none of a believer!" Coveting the perishable goods of this life: with Allah are profits and spoils abundant. Even thus were ye yourselves before, till Allah conferred on you His favours: Therefore carefully investigate. For Allah is well aware of all that ye do.
-
-**Urdu (Fatah Muhammad Jalandhari):** مومنو! جب تم خدا کی راہ میں باہر نکلو کرو تو تحقیق سے کام لیا کرو اور جو شخص تم سے سلام علیک کرے اس سے یہ نہ کہو کہ تم مومن نہیں اور اس سے تمہاری غرض یہ ہو کہ دنیا کی زندگی کا فائدہ حاصل کرو سو خدا کے نزدیک بہت سے غنیمتیں ہیں تم بھی تو پہلے ایسے ہی تھے پھر خدا نے تم پر احسان کیا تو (آئندہ) تحقیق کرلیا کرو اور جو عمل تم کرتے ہو خدا کو سب کی خبر ہے
-
-[Open on Quran.com](https://quran.com/4/94)
-
-#### 6:53 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَكَذَٰلِكَ فَتَنَّا بَعْضَهُم بِبَعْضٍ لِّيَقُولُوٓا۟ أَهَـٰٓؤُلَآءِ مَنَّ ٱللَّهُ عَلَيْهِم مِّنۢ بَيْنِنَآ ۗ أَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِٱلشَّـٰكِرِينَ
-
-</div>
-
-**Word in this verse:** `مَنَّ` — (whom has been) favored
-
-**English (Sahih International):** And thus We have tried some of them through others that they [i.e., the disbelievers] might say, "Is it these whom Allāh has favored among us?" Is not Allāh most knowing of those who are grateful?
-
-**English (Yusuf Ali):** Thus did We try some of them by comparison with others, that they should say: "Is it these then that Allah hath favoured from amongst us?" Doth not Allah know best those who are grateful?
-
-**Urdu (Fatah Muhammad Jalandhari):** اور اسی طرح ہم نے بعض لوگوں کی بعض سے آزمائش کی ہے کہ (جو دولتمند ہیں وہ غریبوں کی نسبت) کہتے ہیں کیا یہی لوگ ہیں جن پر خدا نے ہم میں سے فضل کیا ہے (خدا نے فرمایا) بھلا خدا شکر کرنے والوں سے واقف نہیں؟
-
-[Open on Quran.com](https://quran.com/6/53)
-
 #### 7:160 · [[007 Al-Araf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -167,59 +101,39 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/160)
 
-#### 12:90 · [[012 Yusuf]]
+#### 20:80 · [[020 Taha]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَـٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
+يَـٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَـٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَـٰكُمْ جَانِبَ ٱلطُّورِ ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ
 
 </div>
 
-**Word in this verse:** `مَنَّ` — Allah has been gracious
+**Word in this verse:** `ٱلْمَنَّ` — the Manna
 
-**English (Sahih International):** They said, "Are you indeed Joseph?" He said, "I am Joseph, and this is my brother. Allāh has certainly favored us. Indeed, he who fears Allāh and is patient, then indeed, Allāh does not allow to be lost the reward of those who do good."
+**English (Sahih International):** O Children of Israel, We delivered you from your enemy, and We made an appointment with you at the right side of the mount, and We sent down to you manna and quails,
 
-**English (Yusuf Ali):** They said: "Art thou indeed Joseph?" He said, "I am Joseph, and this is my brother: Allah has indeed been gracious to us (all): behold, he that is righteous and patient,- never will Allah suffer the reward to be lost, of those who do right."
+**English (Yusuf Ali):** O ye Children of Israel! We delivered you from your enemy, and We made a Covenant with you on the right side of Mount (Sinai), and We sent down to you Manna and quails:
 
-**Urdu (Fatah Muhammad Jalandhari):** وہ بولے کیا تم ہی یوسف ہو؟ انہوں نے کہا ہاں میں ہی یوسف ہوں۔ اور (بنیامین کی طرف اشارہ کرکے کہنے لگے) یہ میرا بھائی ہے خدا نے ہم پر بڑا احسان کیا ہے۔ جو شخص خدا سے ڈرتا اور صبر کرتا ہے تو خدا نیکوکاروں کا اجر ضائع نہیں کرتا
+**Urdu (Fatah Muhammad Jalandhari):** اے آل یعقوب ہم نے تم کو تمہارے دشمن سے نجات دی اور تورات دینے کے لئے تم سے کوہ طور کی داہنی طرف مقرر کی اور تم پر من اور سلویٰ نازل کیا
 
-[Open on Quran.com](https://quran.com/12/90)
+[Open on Quran.com](https://quran.com/20/80)
 
-#### 14:11 · [[014 Ibrahim]]
+#### 47:4 · [[047 Muhammad]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-قَالَتْ لَهُمْ رُسُلُهُمْ إِن نَّحْنُ إِلَّا بَشَرٌ مِّثْلُكُمْ وَلَـٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ ۖ وَمَا كَانَ لَنَآ أَن نَّأْتِيَكُم بِسُلْطَـٰنٍ إِلَّا بِإِذْنِ ٱللَّهِ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
+فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثْخَنتُمُوهُمْ فَشُدُّوا۟ ٱلْوَثَاقَ فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلْحَرْبُ أَوْزَارَهَا ۚ ذَٰلِكَ وَلَوْ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنْهُمْ وَلَـٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍ ۗ وَٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعْمَـٰلَهُمْ
 
 </div>
 
-**Word in this verse:** `يَمُنُّ` — bestows His Grace
+**Word in this verse:** `مَنًّۢا` — a favor
 
-**English (Sahih International):** Their messengers said to them, "We are only men like you, but Allāh confers favor upon whom He wills of His servants. It has never been for us to bring you evidence except by permission of Allāh. And upon Allāh let the believers rely.
+**English (Sahih International):** So when you meet those who disbelieve [in battle], strike [their] necks until, when you have inflicted slaughter upon them, then secure [their] bonds, and either [confer] favor afterwards or ransom [them] until the war lays down its burdens. That [is the command]. And if Allāh had willed, He could have taken vengeance upon them [Himself], but [He ordered armed struggle] to test some of you by means of others. And those who are killed in the cause of Allāh - never will He waste their deeds.
 
-**English (Yusuf Ali):** Their messengers said to them: "True, we are human like yourselves, but Allah doth grant His grace to such of his servants as He pleases. It is not for us to bring you an authority except as Allah permits. And on Allah let all men of faith put their trust.
+**English (Yusuf Ali):** Therefore, when ye meet the Unbelievers (in fight), smite at their necks; At length, when ye have thoroughly subdued them, bind a bond firmly (on them): thereafter (is the time for) either generosity or ransom: Until the war lays down its burdens. Thus (are ye commanded): but if it had been Allah's Will, He could certainly have exacted retribution from them (Himself); but (He lets you fight) in order to test you, some with others. But those who are slain in the Way of Allah,- He will never let their deeds be lost.
 
-**Urdu (Fatah Muhammad Jalandhari):** پیغمبروں نے ان سے کہا کہ ہاں ہم تمہارے ہی جیسے آدمی ہیں۔ لیکن خدا اپنے بندوں میں سے جس کو چاہتا ہے (نبوت کا) احسان کرتا ہے اور ہمارے اختیار کی بات نہیں کہ ہم خدا کے حکم کے بغیر تم کو (تمہاری فرمائش کے مطابق) معجزہ دکھائیں اور خدا ہی پر مومنوں کو بھروسہ رکھنا چاہیئے
+**Urdu (Fatah Muhammad Jalandhari):** جب تم کافروں سے بھڑ جاؤ تو ان کی گردنیں اُڑا دو۔ یہاں تک کہ جب ان کو خوب قتل کرچکو تو (جو زندہ پکڑے جائیں ان کو) مضبوطی سے قید کرلو۔ پھر اس کے بعد یا تو احسان رکھ کر چھوڑ دینا چاہیئے یا کچھ مال لے کر یہاں تک کہ (فریق مقابل) لڑائی (کے) ہتھیار (ہاتھ سے) رکھ دے۔ (یہ حکم یاد رکھو) اور اگر خدا چاہتا تو (اور طرح) ان سے انتقام لے لیتا۔ لیکن اس نے چاہا کہ تمہاری آزمائش ایک (کو) دوسرے سے (لڑوا کر) کرے۔ اور جو لوگ خدا کی راہ میں مارے گئے ان کے عملوں کو ہرگز ضائع نہ کرے گا
 
-[Open on Quran.com](https://quran.com/14/11)
-
-#### 20:37 · [[020 Taha]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَقَدْ مَنَنَّا عَلَيْكَ مَرَّةً أُخْرَىٰٓ
-
-</div>
-
-**Word in this verse:** `مَنَنَّا` — We conferred a favor
-
-**English (Sahih International):** And We had already conferred favor upon you another time,
-
-**English (Yusuf Ali):** "And indeed We conferred a favour on thee another time (before).
-
-**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے تم پر ایک بار اور بھی احسان کیا تھا
-
-[Open on Quran.com](https://quran.com/20/37)
-
-_…and **10** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+[Open on Quran.com](https://quran.com/47/4)
 

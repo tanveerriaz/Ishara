@@ -3,7 +3,7 @@ type: word
 lemma: "خَرَجَ"
 slug: "xrj - come forth"
 surah_count: 33
-ayah_count: 53
+ayah_count: 51
 tags: [word, meaning]
 ---
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/5/61)
 
-_…and **43** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **41** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

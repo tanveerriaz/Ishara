@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** deafness · **Root:** وقر
 
+
 ### Words (wikilinks — these create the graph)
 - [[wqr - deafness]]
 

@@ -14,31 +14,31 @@ The Sun · 15 ayahs
 
 ## Words in this surah (graph)
 
-- [[tlY - recited]] — `تَلَى` · recited
-- [[lyl - night]] — `لَيْل` · night
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[$ms - sun]] — `شَمْس` · sun
-- [[xAf - fear]] — `خافَ` · fear
 - [[rb - lord]] — `رَبّ` · lord
-- [[*nb - sins]] — `ذَنب` · sins
-- [[qmr - moon]] — `قَمَر` · moon
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[Eqr - hamstrung]] — `عَقَرَ` · hamstrung
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[bnY - construct]] — `بَنَى` · construct
 - [[allah - God]] — `الله` · God
-- [[bnY - children]] — `بُنَىّ` · children
-- [[zkY - purify them]] — `زَكَّى` · purify them
-- [[nhAr - day]] — `نَهار` · day
-- [[DHY - its brightness]] — `ضُحًى` · its brightness
-- [[xAb - disappointed]] — `خابَ` · disappointed
-- [[>rD - earth]] — `أَرْض` · earth
 - [[rswl - messenger]] — `رَسُول` · messenger
 - [[nAqp - she-camel]] — `ناقَة` · she-camel
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[qAl - say]] — `قالَ` · say
-- [[>$qY - wretched one]] — `أَشْقَى` · wretched one
-- [[swY - proportioned it]] — `سَوَّى` · proportioned it
-- [[>flH - successful]] — `أَفْلَحَ` · successful
-- [[nfs - themselves]] — `نَفْس` · themselves
+- [[$ms - sun]] — `شَمْس` · sun
+- [[lyl - night]] — `لَيْل` · night
+- [[>rD - earth]] — `أَرْض` · earth
+- [[qmr - moon]] — `قَمَر` · moon
+- [[tlY - recited]] — `تَلَى` · recited
 - [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[xAb - disappointed]] — `خابَ` · disappointed
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[>flH - successful]] — `أَفْلَحَ` · successful
+- [[zkY - purify them]] — `زَكَّى` · purify them
+- [[DHY - its brightness]] — `ضُحًى` · its brightness
+- [[nhAr - day]] — `نَهار` · day
+- [[k*b - denied]] — `كَذَّبَ` · denied
+- [[xAf - fear]] — `خافَ` · fear
+- [[swY - proportioned it]] — `سَوَّى` · proportioned it
+- [[qAl - say]] — `قالَ` · say
+- [[*nb - sins]] — `ذَنب` · sins
 
 ## Roots
 

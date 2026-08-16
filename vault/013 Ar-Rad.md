@@ -14,31 +14,31 @@ The Thunder · 43 ayahs
 
 ## Words in this surah (graph)
 
-- [[hAd - guide]] — `هاد` · guide
-- [[nqDt - break]] — `نَقَضَتْ` · break
-- [[Zl - shade]] — `ظِلّ` · shade
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[ySl - joined]] — `يَصِلُ` · joined
-- [[mAb - place return]] — `مَآب` · place return
 - [[>EmY - blind]] — `أَعْمَى` · blind
 - [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
-- [[>wqd - they kindled]] — `أَوْقَدُ` · they kindled
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[swA' - it same]] — `سَواء` · it same
-- [[mhAd - resting place]] — `مِهاد` · resting place
-- [[slAm - peace]] — `سَلام` · peace
-- [[$ms - sun]] — `شَمْس` · sun
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[AtY - give]] — `آتَى` · give
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
-- [[>nvY - female]] — `أُنثَى` · female
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[frH - rejoice]] — `فَرِحَ` · rejoice
+- [[hAd - guide]] — `هاد` · guide
+- [[mkr - plan]] — `مَكْر` · plan
+- [[ySl - joined]] — `يَصِلُ` · joined
+- [[>kl - its harvest]] — `أُكُل` · its harvest
+- [[nqDt - break]] — `نَقَضَتْ` · break
+- [[xlq - creation]] — `خَلْق` · creation
+- [[Zl - shade]] — `ظِلّ` · shade
+- [[mAb - place return]] — `مَآب` · place return
+- [[>nfq - spend]] — `أَنفَقَ` · spend
+- [[Enq - necks]] — `عُنُق` · necks
 - [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[smY - name them]] — `سَمَّى` · name them
+- [[xAlq - creator]] — `خالِق` · creator
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[dEA - call]] — `دَعا` · call
+- [[mkr - plotted]] — `مَكَرَ` · plotted
+- [[dAr - home]] — `دار` · home
+- [[byn - between them]] — `بَيْن` · between them
+- [[>n$> - we produced]] — `أَنشَأَ` · we produced
+- [[brq - lightning]] — `بَرْق` · lightning
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[wEd - promise]] — `وَعْد` · promise
+- [[qArEp - striking calamity]] — `قارِعَة` · striking calamity
 
 ## Roots
 
@@ -49,8 +49,8 @@ The Thunder · 43 ayahs
 - [[$qq - opposes]]
 - [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[*rr - offspring]]
 - [[>*n - by permission]]
 - [[>Sl - evening]]

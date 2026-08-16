@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** crookedness · **Root:** عوج
 
+
 ### Words (wikilinks — these create the graph)
 - [[Ewj - crookedness]]
 

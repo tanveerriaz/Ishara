@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** still · **Root:** ودع
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

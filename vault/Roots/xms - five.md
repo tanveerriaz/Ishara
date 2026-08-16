@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** five · **Root:** خمس
 
+
 ### Words (wikilinks — these create the graph)
 - [[xmsp - five]]
 

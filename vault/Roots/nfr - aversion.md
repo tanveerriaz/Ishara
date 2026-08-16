@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** aversion · **Root:** نفر
 
+
 ### Words (wikilinks — these create the graph)
 - [[nfr - go forth]]
+- [[nfr - men]]
 - [[nfwr - aversion]]
 
 ### Surahs where this root appears

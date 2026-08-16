@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** speak · **Root:** نطق
 
+
 ### Words (wikilinks — these create the graph)
 - [[ynTq - speak]]
 

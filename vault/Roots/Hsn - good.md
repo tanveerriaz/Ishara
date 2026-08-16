@@ -11,10 +11,14 @@ tags: [root, meaning]
 
 **Sense:** good · **Root:** حسن
 
+
 ### Words (wikilinks — these create the graph)
 - [[<HsAn - good]]
 - [[>Hsn - best]]
+- [[>Hsn - do good]]
 - [[Hsn - good]]
+- [[Hsn - good 2]]
+- [[Hsn - good 3]]
 - [[HsnY - best]]
 - [[Hsnp - good]]
 - [[mHsn - good-doers]]

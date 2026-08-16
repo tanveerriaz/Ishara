@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** trumpet · **Root:** صور
 
+
 ### Words (wikilinks — these create the graph)
+- [[Swr - shapes you]]
 - [[Swr - trumpet]]
 - [[Swrp - forms]]
 

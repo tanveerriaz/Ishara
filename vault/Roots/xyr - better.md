@@ -11,9 +11,11 @@ tags: [root, meaning]
 
 **Sense:** better · **Root:** خير
 
+
 ### Words (wikilinks — these create the graph)
 - [[AxtAr - chose]]
 - [[xyr - better]]
+- [[xyrp - choice]]
 - [[xyrp - good deeds]]
 
 ### Surahs where this root appears

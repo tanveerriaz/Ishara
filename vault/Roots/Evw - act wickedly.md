@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** act wickedly · **Root:** عثو
 
+
 ### Words (wikilinks — these create the graph)
 - [[tEv - act wickedly]]
 

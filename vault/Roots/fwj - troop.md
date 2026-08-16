@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** troop · **Root:** فوج
 
+
 ### Words (wikilinks — these create the graph)
 - [[fwj - troop]]
 

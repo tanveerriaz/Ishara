@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** years · **Root:** عوم
 
+
 ### Words (wikilinks — these create the graph)
 - [[EAm - years]]
 

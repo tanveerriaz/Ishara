@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** spread · **Root:** مدد
 
+
 ### Words (wikilinks — these create the graph)
 - [[>md - reinforces you]]
+- [[md - extension]]
 - [[md - spread]]
 
 ### Surahs where this root appears

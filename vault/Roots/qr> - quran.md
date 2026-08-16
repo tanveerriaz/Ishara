@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** quran · **Root:** قرأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[qr'An - quran]]
 - [[qr> - read]]

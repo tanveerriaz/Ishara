@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** separate distinguish · **Root:** ميز
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

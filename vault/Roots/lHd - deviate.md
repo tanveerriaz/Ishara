@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** deviate · **Root:** لحد
 
+
 ### Words (wikilinks — these create the graph)
 - [[ylHd - deviate]]
 

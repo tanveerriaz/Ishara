@@ -2,8 +2,8 @@
 type: word
 lemma: "سَكَنَ"
 slug: "skn - dwell"
-surah_count: 13
-ayah_count: 18
+surah_count: 11
+ayah_count: 15
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **dwell** · Lemma **سَكَنَ**
 
-### Surahs (13)
+### Surahs (11)
 - [[002 Al-Baqarah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
-- [[009 At-Tawbah]]
 - [[010 Yunus]]
 - [[014 Ibrahim]]
-- [[016 An-Nahl]]
 - [[017 Al-Isra]]
 - [[027 An-Naml]]
 - [[028 Al-Qasas]]
@@ -73,24 +71,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور جو مخلوق رات اور دن میں بستی ہے سب اسی کی ہے اور وہ سنتا جانتا ہے
 
 [Open on Quran.com](https://quran.com/6/13)
-
-#### 6:96 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
-
-</div>
-
-**Word in this verse:** `سَكَنًۭا` — (for) rest
-
-**English (Sahih International):** [He is] the cleaver of daybreak and has made the night for rest and the sun and moon for calculation. That is the determination of the Exalted in Might, the Knowing.
-
-**English (Yusuf Ali):** He it is that cleaveth the day-break (from the dark): He makes the night for rest and tranquillity, and the sun and moon for the reckoning (of time): Such is the judgment and ordering of (Him), the Exalted in Power, the Omniscient.
-
-**Urdu (Fatah Muhammad Jalandhari):** وہی (رات کے اندھیرے سے) صبح کی روشنی پھاڑ نکالتا ہے اور اسی نے رات کو (موجب) آرام (ٹھہرایا) اور سورج اور چاند کو (ذرائع) شمار بنایا ہے۔ یہ خدا کے (مقرر کئے ہوئے) اندازے ہیں جو غالب (اور) علم والا ہے
-
-[Open on Quran.com](https://quran.com/6/96)
 
 #### 7:19 · [[007 Al-Araf]]
 
@@ -146,24 +126,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/189)
 
-#### 9:103 · [[009 At-Tawbah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَوٰتَكَ سَكَنٌ لَّهُمْ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
-
-</div>
-
-**Word in this verse:** `سَكَنٌۭ` — (are a) reassurance
-
-**English (Sahih International):** Take, [O Muḥammad], from their wealth a charity by which you purify them and cause them increase, and invoke [Allāh's blessings] upon them. Indeed, your invocations are reassurance for them. And Allāh is Hearing and Knowing.
-
-**English (Yusuf Ali):** Of their goods, take alms, that so thou mightest purify and sanctify them; and pray on their behalf. Verily thy prayers are a source of security for them: And Allah is One Who heareth and knoweth.
-
-**Urdu (Fatah Muhammad Jalandhari):** ان کے مال میں سے زکوٰة قبول کر لو کہ اس سے تم ان کو (ظاہر میں بھی) پاک اور (باطن میں بھی) پاکیزہ کرتے ہو اور ان کے حق میں دعائے خیر کرو کہ تمہاری دعا ان کے لیے موجب تسکین ہے اور خدا سننے والا اور جاننے والا ہے
-
-[Open on Quran.com](https://quran.com/9/103)
-
 #### 10:67 · [[010 Yunus]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -200,23 +162,59 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/14/45)
 
-#### 16:80 · [[016 An-Nahl]]
+#### 17:104 · [[017 Al-Isra]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَٱللَّهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمْ سَكَنًا وَجَعَلَ لَكُم مِّن جُلُودِ ٱلْأَنْعَـٰمِ بُيُوتًا تَسْتَخِفُّونَهَا يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ ۙ وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَآ أَثَـٰثًا وَمَتَـٰعًا إِلَىٰ حِينٍ
+وَقُلْنَا مِنۢ بَعْدِهِۦ لِبَنِىٓ إِسْرَٰٓءِيلَ ٱسْكُنُوا۟ ٱلْأَرْضَ فَإِذَا جَآءَ وَعْدُ ٱلْـَٔاخِرَةِ جِئْنَا بِكُمْ لَفِيفًا
 
 </div>
 
-**Word in this verse:** `سَكَنًۭا` — a resting place
+**Word in this verse:** `ٱسْكُنُوا۟` — Dwell
 
-**English (Sahih International):** And Allāh has made for you from your homes a place of rest and made for you from the hides of the animals tents which you find light on your day of travel and your day of encampment; and from their wool, fur and hair is furnishing and enjoyment [i.e., provision] for a time.
+**English (Sahih International):** And We said after him [i.e., Pharaoh] to the Children of Israel, "Dwell in the land, and when there comes the promise [i.e., appointment] of the Hereafter, We will bring you forth in [one] gathering."
 
-**English (Yusuf Ali):** It is Allah Who made your habitations homes of rest and quiet for you; and made for you, out of the skins of animals, (tents for) dwellings, which ye find so light (and handy) when ye travel and when ye stop (in your travels); and out of their wool, and their soft fibres (between wool and hair), and their hair, rich stuff and articles of convenience (to serve you) for a time.
+**English (Yusuf Ali):** And We said thereafter to the Children of Israel, "Dwell securely in the land (of promise)": but when the second of the warnings came to pass, We gathered you together in a mingled crowd.
 
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا ہی نے تمہارے لیے گھروں کو رہنے کی جگہ بنایا اور اُسی نے چوپایوں کی کھالوں سے تمہارے لیے ڈیرے بنائے۔ جن کو تم سبک دیکھ کر سفر اور حضر میں کام میں لاتے ہو اور اُن کی اون، پشم اور بالوں سے تم اسباب اور برتنے کی چیزیں (بناتے ہو جو) مدت تک (کام دیتی ہیں)
+**Urdu (Fatah Muhammad Jalandhari):** اور اس کے بعد بنی اسرائیل سے کہا کہ تم اس ملک میں رہو سہو۔ پھر جب آخرت کا وعدہ آجائے گا تو ہم تم سب کو جمع کرکے لے آئیں گے
 
-[Open on Quran.com](https://quran.com/16/80)
+[Open on Quran.com](https://quran.com/17/104)
 
-_…and **8** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 27:86 · [[027 An-Naml]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَلَمْ يَرَوْا۟ أَنَّا جَعَلْنَا ٱلَّيْلَ لِيَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يُؤْمِنُونَ
+
+</div>
+
+**Word in this verse:** `لِيَسْكُنُوا۟` — that they may rest
+
+**English (Sahih International):** Do they not see that We made the night that they may rest therein and the day giving sight? Indeed in that are signs for a people who believe.
+
+**English (Yusuf Ali):** See they not that We have made the Night for them to rest in and the Day to give them light? Verily in this are Signs for any people that believe!
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا اُنہوں نے نہیں دیکھا کہ ہم نے رات کو (اس لئے) بنایا ہے کہ اس میں آرام کریں اور دن کو روشن (بنایا ہے کہ اس میں کام کریں) بےشک اس میں مومن لوگوں کے لئے نشانیاں ہیں
+
+[Open on Quran.com](https://quran.com/27/86)
+
+#### 28:58 · [[028 Al-Qasas]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَمْ أَهْلَكْنَا مِن قَرْيَةٍۭ بَطِرَتْ مَعِيشَتَهَا ۖ فَتِلْكَ مَسَـٰكِنُهُمْ لَمْ تُسْكَن مِّنۢ بَعْدِهِمْ إِلَّا قَلِيلًا ۖ وَكُنَّا نَحْنُ ٱلْوَٰرِثِينَ
+
+</div>
+
+**Word in this verse:** `تُسْكَن` — have been inhabited
+
+**English (Sahih International):** And how many a city have We destroyed that was insolent in its [way of] living, and those are their dwellings which have not been inhabited after them except briefly. And it is We who were the inheritors.
+
+**English (Yusuf Ali):** And how many populations We destroyed, which exulted in their life (of ease and plenty)! now those habitations of theirs, after them, are deserted,- All but a (miserable) few! and We are their heirs!
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے بہت سی بستیوں کو ہلاک کر ڈالا جو اپنی (فراخی) معیشت میں اترا رہے تھے۔ سو یہ اُن کے مکانات ہیں جو اُن کے بعد آباد ہی نہیں ہوئے مگر بہت کم۔ اور اُن کے پیچھے ہم ہی اُن کے وارث ہوئے
+
+[Open on Quran.com](https://quran.com/28/58)
+
+_…and **5** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

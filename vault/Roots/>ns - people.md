@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** people · **Root:** أنس
 
+
 ### Words (wikilinks — these create the graph)
 - [[<ns - men]]
 - [[<nsAn - man]]

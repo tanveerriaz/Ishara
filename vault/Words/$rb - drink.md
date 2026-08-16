@@ -2,8 +2,8 @@
 type: word
 lemma: "شَرِبَ"
 slug: "$rb - drink"
-surah_count: 12
-ayah_count: 16
+surah_count: 10
+ayah_count: 13
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **drink** · Lemma **شَرِبَ**
 
-### Surahs (12)
+### Surahs (10)
 - [[002 Al-Baqarah]]
 - [[007 Al-Araf]]
 - [[019 Maryam]]
 - [[023 Al-Muminun]]
-- [[026 Ash-Shuara]]
 - [[052 At-Tur]]
-- [[054 Al-Qamar]]
 - [[056 Al-Waqiah]]
 - [[069 Al-Haqqah]]
 - [[076 Al-Insan]]
@@ -145,24 +143,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/23/33)
 
-#### 26:155 · [[026 Ash-Shuara]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالَ هَـٰذِهِۦ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ
-
-</div>
-
-**Word in this verse:** `شِرْبٌۭ` — (is a share of) drink
-
-**English (Sahih International):** He said, "This is a she-camel. For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day.
-
-**English (Yusuf Ali):** He said: "Here is a she-camel: she has a right of watering, and ye have a right of watering, (severally) on a day appointed.
-
-**Urdu (Fatah Muhammad Jalandhari):** صالح نے کہا (دیکھو) یہ اونٹنی ہے (ایک دن) اس کی پانی پینے کی باری ہے اور ایک معین روز تمہاری باری
-
-[Open on Quran.com](https://quran.com/26/155)
-
 #### 52:19 · [[052 At-Tur]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -181,41 +161,59 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/52/19)
 
-#### 54:28 · [[054 Al-Qamar]]
+#### 56:68 · [[056 Al-Waqiah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍ مُّحْتَضَرٌ
+أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ
 
 </div>
 
-**Word in this verse:** `شِرْبٍۢ` — drink
+**Word in this verse:** `تَشْرَبُونَ` — you drink
 
-**English (Sahih International):** And inform them that the water is shared between them, each [day of] drink attended [by turn].
+**English (Sahih International):** And have you seen the water that you drink?
 
-**English (Yusuf Ali):** And tell them that the water is to be divided between them: Each one's right to drink being brought forward (by suitable turns).
+**English (Yusuf Ali):** See ye the water which ye drink?
 
-**Urdu (Fatah Muhammad Jalandhari):** اور ان کو آگاہ کردو کہ ان میں پانی کی باری مقرر کر دی گئی ہے۔ ہر (باری والے کو اپنی) باری پر آنا چاہیئے
+**Urdu (Fatah Muhammad Jalandhari):** بھلا دیکھو تو کہ جو پانی تم پیتے ہو
 
-[Open on Quran.com](https://quran.com/54/28)
+[Open on Quran.com](https://quran.com/56/68)
 
-#### 56:55 · [[056 Al-Waqiah]]
+#### 69:24 · [[069 Al-Haqqah]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-فَشَـٰرِبُونَ شُرْبَ ٱلْهِيمِ
+كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَآ أَسْلَفْتُمْ فِى ٱلْأَيَّامِ ٱلْخَالِيَةِ
 
 </div>
 
-**Word in this verse:** `شُرْبَ` — (as) drinking
+**Word in this verse:** `وَٱشْرَبُوا۟` — and drink
 
-**English (Sahih International):** And will drink as the drinking of thirsty camels.
+**English (Sahih International):** [They will be told], "Eat and drink in satisfaction for what you put forth in the days past."
 
-**English (Yusuf Ali):** "Indeed ye shall drink like diseased camels raging with thirst!"
+**English (Yusuf Ali):** "Eat ye and drink ye, with full satisfaction; because of the (good) that ye sent before you, in the days that are gone!"
 
-**Urdu (Fatah Muhammad Jalandhari):** اور پیو گے بھی تو اس طرح جیسے پیاسے اونٹ پیتے ہیں
+**Urdu (Fatah Muhammad Jalandhari):** جو (عمل) تم ایام گزشتہ میں آگے بھیج چکے ہو اس کے صلے میں مزے سے کھاؤ اور پیو
 
-[Open on Quran.com](https://quran.com/56/55)
+[Open on Quran.com](https://quran.com/69/24)
 
-_…and **6** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 76:5 · [[076 Al-Insan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِنَّ ٱلْأَبْرَارَ يَشْرَبُونَ مِن كَأْسٍ كَانَ مِزَاجُهَا كَافُورًا
+
+</div>
+
+**Word in this verse:** `يَشْرَبُونَ` — will drink
+
+**English (Sahih International):** Indeed, the righteous will drink from a cup [of wine] whose mixture is of Kāfūr,
+
+**English (Yusuf Ali):** As to the Righteous, they shall drink of a Cup (of Wine) mixed with Kafur,-
+
+**Urdu (Fatah Muhammad Jalandhari):** جو نیکو کار ہیں اور وہ ایسی شراب نوش جان کریں گے جس میں کافور کی آمیزش ہوگی
+
+[Open on Quran.com](https://quran.com/76/5)
+
+_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

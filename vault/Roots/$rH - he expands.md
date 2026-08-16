@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** he expands · **Root:** شرح
 
+
 ### Words (wikilinks — these create the graph)
 - [[$rH - he expands]]
 

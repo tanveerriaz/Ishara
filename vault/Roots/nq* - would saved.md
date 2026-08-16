@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** would saved · **Root:** نقذ
 
+
 ### Words (wikilinks — these create the graph)
 - [[>nq* - would saved]]
 

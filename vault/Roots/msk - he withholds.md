@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** he withholds · **Root:** مسك
 
+
 ### Words (wikilinks — these create the graph)
 - [[>msk - he withholds]]
 - [[Astmsk - he grasped]]

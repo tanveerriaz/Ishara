@@ -2,8 +2,8 @@
 type: word
 lemma: "حَرِّضِ"
 slug: "HrD - encourage"
-surah_count: 3
-ayah_count: 3
+surah_count: 2
+ayah_count: 2
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **encourage** · Lemma **حَرِّضِ**
 
-### Surahs (3)
+### Surahs (2)
 - [[004 An-Nisa]]
 - [[008 Al-Anfal]]
-- [[012 Yusuf]]
 
 ## Verses (full text)
 
@@ -63,22 +62,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اے نبی! مسلمانوں کو جہاد کی ترغیب دو۔ اور اگر تم بیس آدمی ثابت قدم رہنے والے ہوں گے تو دو سو کافروں پر غالب رہیں گے۔ اور اگر سو (ایسے) ہوں گے تو ہزار پر غالب رہیں گے۔ اس لیے کہ کافر ایسے لوگ ہیں کہ کچھ بھی سمجھ نہیں رکھتے
 
 [Open on Quran.com](https://quran.com/8/65)
-
-#### 12:85 · [[012 Yusuf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَـٰلِكِينَ
-
-</div>
-
-**Word in this verse:** `حَرَضًا` — fatally ill
-
-**English (Sahih International):** They said, "By Allāh, you will not cease remembering Joseph until you become fatally ill or become of those who perish."
-
-**English (Yusuf Ali):** They said: "By Allah! (never) wilt thou cease to remember Joseph until thou reach the last extremity of illness, or until thou die!"
-
-**Urdu (Fatah Muhammad Jalandhari):** بیٹے کہنے لگے کہ والله اگر آپ یوسف کو اسی طرح یاد ہی کرتے رہیں گے تو یا تو بیمار ہوجائیں گے یا جان ہی دے دیں گے
-
-[Open on Quran.com](https://quran.com/12/85)
 

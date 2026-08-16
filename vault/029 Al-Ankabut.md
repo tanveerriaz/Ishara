@@ -14,31 +14,31 @@ The Spider · 69 ayahs
 
 ## Words in this surah (graph)
 
-- [[jwAb - answer]] — `جَواب` · answer
 - [[jHd - they reject]] — `جَحَدُ` · they reject
 - [[gAbr - remain behind]] — `غابِر` · remain behind
-- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[<nsAn - man]] — `إِنسان` · man
-- [[AtY - give]] — `آتَى` · give
-- [[$ms - sun]] — `شَمْس` · sun
-- [[nZr - see]] — `نَظَرَ` · see
-- [[*nb - sins]] — `ذَنب` · sins
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[jAvm - fallen prone]] — `جاثِم` · fallen prone
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[jwAb - answer]] — `جَواب` · answer
 - [[>TAE - obey]] — `أَطاعَ` · obey
-- [[dAr - home]] — `دار` · home
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[wAldy - parents]] — `والِدَي` · parents
-- [[sbyl - way]] — `سَبِيل` · way
-- [[qTE - cut off]] — `قُطِعَ` · cut off
-- [[allah - God]] — `الله` · God
-- [[>kvr - them]] — `أَكْثَر` · them
-- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
-- [[*ryp - offspring]] — `ذُرِّيَّة` · offspring
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[>jl - term]] — `أَجَل` · term
+- [[wAsEp - spacious]] — `واسِعَة` · spacious
+- [[mhAjr - emigrants]] — `مُهاجِر` · emigrants
+- [[>kbr - greater]] — `أَكْبَر` · greater
+- [[>HyA - gives life]] — `أَحْيا` · gives life
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[mHsn - good-doers]] — `مُحْسِن` · good-doers
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[$hyd - witness]] — `شَهِيد` · witness
+- [[xAld - abiding forever]] — `خالِد` · abiding forever
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[EAml - working]] — `عامِل` · working
+- [[Ebd - worship]] — `عَبَدَ` · worship
+- [[whb - grant]] — `وَهَبَ` · grant
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[xAsr - losers]] — `خاسِر` · losers
+- [[dEA - call]] — `دَعا` · call
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[DAq - was straitened]] — `ضاقَ` · was straitened
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[nZr - see]] — `نَظَرَ` · see
 
 ## Roots
 
@@ -49,7 +49,7 @@ The Spider · 69 ayahs
 - [[$ms - sun]]
 - [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*nb - sin]]
 - [[*rE - uneasy]]
 - [[*rr - offspring]]

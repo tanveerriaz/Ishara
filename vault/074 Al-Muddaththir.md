@@ -14,38 +14,38 @@ The Cloaked One · 56 ayahs
 
 ## Words in this surah (graph)
 
-- [[>dbr - turned back]] — `أَدْبَرَ` · turned back
 - [[t*krp - reminder]] — `تَذْكِرَة` · reminder
-- [[AtY - give]] — `آتَى` · give
-- [[Edp - number]] — `عِدَّة` · number
+- [[>dbr - turned back]] — `أَدْبَرَ` · turned back
+- [[mErD - turn away]] — `مُعْرِض` · turn away
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[mlk - angels]] — `مَلَك` · angels
+- [[qAm - stand]] — `قامَ` · stand
 - [[nZr - see]] — `نَظَرَ` · see
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
-- [[kbrY - greatest]] — `كُبْرَى` · greatest
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[AzdAd - they increased]] — `ازْدادُ` · they increased
-- [[zAd - increase]] — `زادَ` · increase
-- [[allah - God]] — `الله` · God
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[hdY - guidance]] — `هَدَى` · guidance
 - [[$Ahd - witnesses]] — `شاهِد` · witnesses
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[Elm - know]] — `عَلِمَ` · know
-- [[yTmE - hope]] — `يَطْمَعُ` · hope
+- [[lyl - night]] — `لَيْل` · night
+- [[sHr - magic]] — `سِحْر` · magic
 - [[<HdY - one them]] — `إِحْدَى` · one them
-- [[mhd - cradle]] — `مَهْد` · cradle
-- [[>TEm - feed]] — `أَطْعَمَ` · feed
-- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[$fAEp - intercession]] — `شَفاعَة` · intercession
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>Dl - mislead]] — `أَضَلَّ` · mislead
+- [[mrD - disease]] — `مَرَض` · disease
+- [[qdr - determined it]] — `قَدَّرَ` · determined it
+- [[mAl - wealth]] — `مال` · wealth
+- [[jnd - hosts]] — `جُند` · hosts
+- [[frt - you flee]] — `فَرَّتْ` · you flee
+- [[Sbr - patient]] — `صَبَرَ` · patient
+- [[Elm - know]] — `عَلِمَ` · know
+- [[xAf - fear]] — `خافَ` · fear
+- [[xAD - they engage]] — `خاضُ` · they engage
+- [[qwl - speech]] — `قَوْل` · speech
+- [[SbH - morning]] — `صُبْح` · morning
 
 ## Roots
 
 - [[$fE - intercession]]
 - [[$hd - witness]]
 - [[$y> - thing]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>Hd - anyone]]
 - [[>hl - people]]
 - [[>mn - believe]]

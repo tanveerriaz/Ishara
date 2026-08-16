@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** clinging substance · **Root:** علق
 
+
 ### Words (wikilinks — these create the graph)
 - [[Elqp - clinging substance]]
 

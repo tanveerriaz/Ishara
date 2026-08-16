@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** pillars · **Root:** عمد
 
+
 ### Words (wikilinks — these create the graph)
 - [[Emd - pillars]]
 

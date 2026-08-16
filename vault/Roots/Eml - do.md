@@ -11,8 +11,10 @@ tags: [root, meaning]
 
 **Sense:** do · **Root:** عمل
 
+
 ### Words (wikilinks — these create the graph)
 - [[EAml - working]]
+- [[Eml - deeds]]
 - [[Eml - do]]
 
 ### Surahs where this root appears

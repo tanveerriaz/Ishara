@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** determined · **Root:** همم
 
+
 ### Words (wikilinks — these create the graph)
 - [[hm - determined]]
 

@@ -15,30 +15,30 @@ The Cleaving · 19 ayahs
 ## Words in this surah (graph)
 
 - [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[fjrt - we caused gush]] — `فُجِّرَتْ` · we caused gush
-- [[>y - o you]] — `أَيّ` · o you
-- [[<nsAn - man]] — `إِنسان` · man
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[br - land]] — `بِرّ` · land
-- [[qdm - feet]] — `قَدَّمَ` · feet
-- [[HAfZ - guardians]] — `حافِظ` · guardians
-- [[$Y' - thing]] — `شَىْء` · thing
 - [[Swrp - forms]] — `صُورَة` · forms
-- [[kAtb - scribe]] — `كاتِب` · scribe
+- [[>xr - we delay]] — `أَخَّرَ` · we delay
 - [[rb - lord]] — `رَبّ` · lord
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[fjAr - wicked]] — `فُجّار` · wicked
-- [[Edl - justice]] — `عَدْل` · justice
-- [[rkb - embark]] — `رَكْب` · embark
-- [[bHr - sea]] — `بَحْر` · sea
-- [[nEym - delight]] — `نَعِيم` · delight
-- [[allah - God]] — `الله` · God
-- [[jHym - hellfire]] — `جَحِيم` · hellfire
-- [[>mr - command]] — `أَمَرَ` · command
-- [[mlkt - possess]] — `مَلَكَتْ` · possess
+- [[gA}b - absent]] — `غائِب` · absent
 - [[$A' - he wills]] — `شاءَ` · he wills
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[nEym - delight]] — `نَعِيم` · delight
+- [[krym - noble]] — `كَرِيم` · noble
+- [[>mr - command]] — `أَمْر` · command
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[allah - God]] — `الله` · God
+- [[fjAr - wicked]] — `فُجّار` · wicked
+- [[HAfZ - guardians]] — `حافِظ` · guardians
+- [[br - land]] — `بَرّ` · land
+- [[>y - o you]] — `أَيّ` · o you
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[xlq - created]] — `خَلَقَ` · created
+- [[ywm - day]] — `يَوْم` · day
+- [[fjrt - we caused gush]] — `فُجِّرَتْ` · we caused gush
+- [[gr - deceive you]] — `غَرَّ` · deceive you
+- [[Elm - know]] — `عَلِمَ` · know
 - [[kwkb - stars]] — `كَوْكَب` · stars
-- [[qbr - graves]] — `قَبْر` · graves
 
 ## Roots
 

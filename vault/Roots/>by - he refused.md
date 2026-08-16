@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** he refused · **Root:** أبي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>bY - he refused]]
 

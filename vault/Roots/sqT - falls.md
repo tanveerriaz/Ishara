@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** falls · **Root:** سقط
 
+
 ### Words (wikilinks — these create the graph)
 - [[sqT - falls]]
 - [[tsqT - cause fall]]

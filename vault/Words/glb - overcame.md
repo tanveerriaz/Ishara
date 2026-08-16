@@ -2,8 +2,8 @@
 type: word
 lemma: "غَلَبُ"
 slug: "glb - overcame"
-surah_count: 11
-ayah_count: 14
+surah_count: 10
+ayah_count: 13
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **overcame** · Lemma **غَلَبُ**
 
-### Surahs (11)
+### Surahs (10)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -30,7 +30,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[030 Ar-Rum]]
 - [[041 Fussilat]]
 - [[058 Al-Mujadila]]
-- [[080 Abasa]]
 
 ## Verses (full text)
 
@@ -216,5 +215,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/30/2)
 
-_…and **4** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

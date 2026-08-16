@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** dispute · **Root:** جدل
 
+
 ### Words (wikilinks — these create the graph)
 - [[jAdl - dispute]]
 

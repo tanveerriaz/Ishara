@@ -2,8 +2,8 @@
 type: word
 lemma: "قَوّام"
 slug: "qwAm - protectors"
-surah_count: 3
-ayah_count: 4
+surah_count: 2
+ayah_count: 3
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **protectors** · Lemma **قَوّام**
 
-### Surahs (3)
+### Surahs (2)
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
-- [[025 Al-Furqan]]
 
 ## Verses (full text)
 
@@ -81,22 +80,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اے ایمان والوں! خدا کے لیے انصاف کی گواہی دینے کے لیے کھڑے ہو جایا کرو۔ اور لوگوں کی دشمنی تم کو اس بات پر آمادہ نہ کرے کہ انصاف چھوڑ دو۔ انصاف کیا کرو کہ یہی پرہیزگاری کی بات ہے اور خدا سے ڈرتے رہو۔ کچھ شک نہیں کہ خدا تمہارے سب اعمال سے خبردار ہے
 
 [Open on Quran.com](https://quran.com/5/8)
-
-#### 25:67 · [[025 Al-Furqan]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَٱلَّذِينَ إِذَآ أَنفَقُوا۟ لَمْ يُسْرِفُوا۟ وَلَمْ يَقْتُرُوا۟ وَكَانَ بَيْنَ ذَٰلِكَ قَوَامًا
-
-</div>
-
-**Word in this verse:** `قَوَامًۭا` — moderate
-
-**English (Sahih International):** And [they are] those who, when they spend, do so not excessively or sparingly but are ever, between that, [justly] moderate
-
-**English (Yusuf Ali):** Those who, when they spend, are not extravagant and not niggardly, but hold a just (balance) between those (extremes);
-
-**Urdu (Fatah Muhammad Jalandhari):** اور وہ جب خرچ کرتے ہیں تو نہ بےجا اُڑاتے ہیں اور نہ تنگی کو کام میں لاتے ہیں بلکہ اعتدال کے ساتھ۔ نہ ضرورت سے زیادہ نہ کم
-
-[Open on Quran.com](https://quran.com/25/67)
 

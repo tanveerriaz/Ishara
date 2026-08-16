@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fulfil · **Root:** وفي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>wfY - fulfil]]
 - [[twfY - dies]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** God · **Root:** الله
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

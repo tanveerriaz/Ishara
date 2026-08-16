@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** repent · **Root:** توب
 
+
 ### Words (wikilinks — these create the graph)
 - [[tAb - repent]]
 - [[twAb - oft-returning]]

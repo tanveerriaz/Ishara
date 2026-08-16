@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** life · **Root:** عيش
 
+
 ### Words (wikilinks — these create the graph)
 - [[mEy$p - life]]
 

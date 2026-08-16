@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** palace · **Root:** صرح
 
+
 ### Words (wikilinks — these create the graph)
 - [[SrH - palace]]
 

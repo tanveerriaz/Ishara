@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** not · **Root:** ليس
 
+
 ### Words (wikilinks — these create the graph)
 - [[lys - not]]
 

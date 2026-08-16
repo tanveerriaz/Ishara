@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** falsehood · **Root:** بطل
 
+
 ### Words (wikilinks — these create the graph)
 - [[bATl - falsehood]]
 - [[mbTl - falsifiers]]

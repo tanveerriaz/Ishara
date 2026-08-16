@@ -2,8 +2,8 @@
 type: word
 lemma: "ظَهْر"
 slug: "Zhr - backs"
-surah_count: 14
-ayah_count: 24
+surah_count: 11
+ayah_count: 15
 tags: [word, meaning]
 ---
 
@@ -19,16 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **backs** · Lemma **ظَهْر**
 
-### Surahs (14)
+### Surahs (11)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[009 At-Tawbah]]
-- [[018 Al-Kahf]]
 - [[021 Al-Anbya]]
-- [[024 An-Nur]]
-- [[030 Ar-Rum]]
 - [[035 Fatir]]
 - [[042 Ash-Shuraa]]
 - [[043 Az-Zukhruf]]
@@ -165,42 +162,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/146)
 
-#### 6:151 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ ۖ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا ۖ وَلَا تَقْتُلُوٓا۟ أَوْلَـٰدَكُم مِّنْ إِمْلَـٰقٍ ۖ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ ۖ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ ۖ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ۚ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
-
-</div>
-
-**Word in this verse:** `ظَهَرَ` — (is) apparent
-
-**English (Sahih International):** Say, "Come, I will recite what your Lord has prohibited to you. [He commands] that you not associate anything with Him, and to parents, good treatment, and do not kill your children out of poverty; We will provide for you and them. And do not approach immoralities - what is apparent of them and what is concealed. And do not kill the soul which Allāh has forbidden [to be killed] except by [legal] right. This has He instructed you that you may use reason."
-
-**English (Yusuf Ali):** Say: "Come, I will rehearse what Allah hath (really) prohibited you from": Join not anything as equal with Him; be good to your parents; kill not your children on a plea of want;- We provide sustenance for you and for them;- come not nigh to shameful deeds. Whether open or secret; take not life, which Allah hath made sacred, except by way of justice and law: thus doth He command you, that ye may learn wisdom.
-
-**Urdu (Fatah Muhammad Jalandhari):** کہہ کہ (لوگو) آؤ میں تمہیں وہ چیزیں پڑھ کر سناؤں جو تمہارے پروردگار نے تم پر حرام کر دی ہیں (ان کی نسبت اس نے اس طرح ارشاد فرمایا ہے) کہ کسی چیز کو خدا کا شریک نہ بنانا اور ماں باپ (سے بدسلوکی نہ کرنا بلکہ) سلوک کرتے رہنا اور ناداری (کے اندیشے) سے اپنی اولاد کو قتل نہ کرنا کیونکہ تم کو اور ان کو ہم ہی رزق دیتے ہیں اور بےحیائی کے کام ظاہر ہوں یا پوشیدہ ان کے پاس نہ پھٹکنا اور کسی جان (والے) کو جس کے قتل کو خدا نے حرام کر دیا ہے قتل نہ کرنا مگر جائز طور پر (یعنی جس کا شریعت حکم دے) ان باتوں کا وہ تمہیں ارشاد فرماتا ہے تاکہ تم سمجھو
-
-[Open on Quran.com](https://quran.com/6/151)
-
-#### 7:33 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُلْ إِنَّمَا حَرَّمَ رَبِّىَ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَٱلْإِثْمَ وَٱلْبَغْىَ بِغَيْرِ ٱلْحَقِّ وَأَن تُشْرِكُوا۟ بِٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَـٰنًا وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
-
-</div>
-
-**Word in this verse:** `ظَهَرَ` — (is) apparent
-
-**English (Sahih International):** Say, "My Lord has only forbidden immoralities - what is apparent of them and what is concealed - and sin, and oppression without right, and that you associate with Allāh that for which He has not sent down authority, and that you say about Allāh that which you do not know."
-
-**English (Yusuf Ali):** Say: the things that my Lord hath indeed forbidden are: shameful deeds, whether open or secret; sins and trespasses against truth or reason; assigning of partners to Allah, for which He hath given no authority; and saying things about Allah of which ye have no knowledge.
-
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ میرے پروردگار نے تو بےحیائی کی باتوں کو ظاہر ہوں یا پوشیدہ اور گناہ کو اور ناحق زیادتی کرنے کو حرام کیا ہے۔ اور اس کو بھی کہ تم کسی کو خدا کا شریک بناؤ جس کی اس نے کوئی سند نازل نہیں کی اور اس کو بھی کہ خدا کے بارے میں ایسی باتیں کہو جن کا تمہیں کچھ علم نہیں
-
-[Open on Quran.com](https://quran.com/7/33)
-
 #### 7:172 · [[007 Al-Araf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -219,5 +180,41 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/172)
 
-_…and **14** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 9:35 · [[009 At-Tawbah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+يَوْمَ يُحْمَىٰ عَلَيْهَا فِى نَارِ جَهَنَّمَ فَتُكْوَىٰ بِهَا جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ ۖ هَـٰذَا مَا كَنَزْتُمْ لِأَنفُسِكُمْ فَذُوقُوا۟ مَا كُنتُمْ تَكْنِزُونَ
+
+</div>
+
+**Word in this verse:** `وَظُهُورُهُمْ ۖ` — and their backs
+
+**English (Sahih International):** The Day when it will be heated in the fire of Hell and seared therewith will be their foreheads, their flanks, and their backs, [it will be said], "This is what you hoarded for yourselves, so taste what you used to hoard."
+
+**English (Yusuf Ali):** On the Day when heat will be produced out of that (wealth) in the fire of Hell, and with it will be branded their foreheads, their flanks, and their backs- "This is the (treasure) which ye buried for yourselves: taste ye, then, the (treasures) ye buried!"
+
+**Urdu (Fatah Muhammad Jalandhari):** جس دن وہ مال دوزخ کی آگ میں (خوب) گرم کیا جائے گا۔ پھر اس سے ان (بخیلوں) کی پیشانیاں اور پہلو اور پیٹھیں داغی جائیں گی (اور کہا جائے گا) کہ یہ وہی ہے جو تم نے اپنے لیے جمع کیا تھا سو جو تم جمع کرتے تھے (اب) اس کا مزہ چکھو
+
+[Open on Quran.com](https://quran.com/9/35)
+
+#### 21:39 · [[021 Al-Anbya]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَوْ يَعْلَمُ ٱلَّذِينَ كَفَرُوا۟ حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ وَلَا عَن ظُهُورِهِمْ وَلَا هُمْ يُنصَرُونَ
+
+</div>
+
+**Word in this verse:** `ظُهُورِهِمْ` — their backs
+
+**English (Sahih International):** If those who disbelieved but knew the time when they will not avert the Fire from their faces or from their backs and they will not be aided...
+
+**English (Yusuf Ali):** If only the Unbelievers knew (the time) when they will not be able to ward off the fire from their faces, nor yet from their backs, and (when) no help can reach them!
+
+**Urdu (Fatah Muhammad Jalandhari):** اے کاش کافر اس وقت کو جانیں جب وہ اپنے مونہوں پر سے (دوزخ کی) آگ کو روک نہ سکیں گے اور نہ اپنی پیٹھوں پر سے اور نہ ان کا کوئی مددگار ہوگا
+
+[Open on Quran.com](https://quran.com/21/39)
+
+_…and **5** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

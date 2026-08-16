@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** cups · **Root:** كوب
 
+
 ### Words (wikilinks — these create the graph)
 - [[>kwAb - cups]]
 

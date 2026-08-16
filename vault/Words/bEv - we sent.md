@@ -2,8 +2,8 @@
 type: word
 lemma: "بَعَثَ"
 slug: "bEv - we sent"
-surah_count: 28
-ayah_count: 53
+surah_count: 26
+ayah_count: 50
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **we sent** · Lemma **بَعَثَ**
 
-### Surahs (28)
+### Surahs (26)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -38,13 +38,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[026 Ash-Shuara]]
 - [[027 An-Naml]]
 - [[028 Al-Qasas]]
-- [[030 Ar-Rum]]
-- [[031 Luqman]]
 - [[036 Ya-Sin]]
 - [[037 As-Saffat]]
 - [[038 Sad]]
 - [[040 Ghafir]]
 - [[058 Al-Mujadila]]
+- [[062 Al-Jumuah]]
+- [[064 At-Taghabun]]
 
 ## Verses (full text)
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/5/31)
 
-_…and **43** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **40** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

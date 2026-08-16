@@ -15,30 +15,30 @@ The Defrauding · 36 ayahs
 ## Words in this surah (graph)
 
 - [[mqrb - brought near]] — `مُقَرَّب` · brought near
-- [[DHkt - laugh]] — `ضَحِكَتْ` · laugh
 - [[>rA}k - couches]] — `أَرائِك` · couches
-- [[DAl - astray]] — `ضالّ` · astray
-- [[ktAb - book]] — `كِتاب` · book
-- [[tlY - recited]] — `تَلَى` · recited
-- [[br - land]] — `بِرّ` · land
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[qlb - hearts]] — `قَلْب` · hearts
-- [[>sqy - we give you]] — `أَسْقَيْ` · we give you
-- [[HAfZ - guardians]] — `حافِظ` · guardians
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[>vym - sinful]] — `أَثِيم` · sinful
-- [[>wl - first]] — `أَوَّل` · first
+- [[DHkt - laugh]] — `ضَحِكَتْ` · laugh
+- [[Ely - illiyin]] — `عِلِّيّ` · illiyin
+- [[Zn - thought]] — `ظَنَّ` · thought
 - [[rb - lord]] — `رَبّ` · lord
-- [[fEl - you do]] — `فَعَلَ` · you do
-- [[wzn - weigh]] — `وَزْن` · weigh
-- [[kl - every]] — `كُلّ` · every
-- [[nZr - see]] — `نَظَرَ` · see
-- [[fjAr - wicked]] — `فُجّار` · wicked
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[>hl - people]] — `أَهْل` · people
-- [[EZym - great]] — `عَظِيم` · great
-- [[Ely - high]] — `عَلِيّ` · high
+- [[Erf - they recognize]] — `عَرَفَ` · they recognize
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[>vym - sinful]] — `أَثِيم` · sinful
+- [[ktAb - book]] — `كِتاب` · book
+- [[nEym - delight]] — `نَعِيم` · delight
+- [[wzn - weigh]] — `وَزَنُ` · weigh
 - [[Amn - believe]] — `آمَنَ` · believe
+- [[DAl - astray]] — `ضالّ` · astray
+- [[wjh - faces]] — `وَجْه` · faces
+- [[mEtd - transgressor]] — `مُعْتَد` · transgressor
+- [[>hl - people]] — `أَهْل` · people
+- [[fjAr - wicked]] — `فُجّار` · wicked
+- [[qAm - stand]] — `قامَ` · stand
+- [[Ayp - signs]] — `آيَة` · signs
+- [[nZr - see]] — `نَظَرَ` · see
+- [[HAfZ - guardians]] — `حافِظ` · guardians
+- [[Anqlb - turns back]] — `انقَلَبَ` · turns back
+- [[kAfr - disbelievers]] — `كافِر` · disbelievers
+- [[mk*b - deniers]] — `مُكَذِّب` · deniers
 
 ## Roots
 

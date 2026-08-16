@@ -11,7 +11,9 @@ tags: [root, meaning]
 
 **Sense:** astray · **Root:** ضلل
 
+
 ### Words (wikilinks — these create the graph)
+- [[>Dl - mislead]]
 - [[>Dl - more astray]]
 - [[DAl - astray]]
 - [[Dl - lost]]

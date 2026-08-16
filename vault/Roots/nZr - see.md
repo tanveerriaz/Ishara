@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** see · **Root:** نظر
 
+
 ### Words (wikilinks — these create the graph)
 - [[mnZr - given respite]]
 - [[mntZr - ones wait]]

@@ -2,8 +2,8 @@
 type: word
 lemma: "وَقْر"
 slug: "wqr - deafness"
-surah_count: 6
-ayah_count: 7
+surah_count: 5
+ayah_count: 6
 tags: [word, meaning]
 ---
 
@@ -19,13 +19,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **deafness** · Lemma **وَقْر**
 
-### Surahs (6)
+### Surahs (5)
 - [[006 Al-Anam]]
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
 - [[031 Luqman]]
 - [[041 Fussilat]]
-- [[051 Adh-Dhariyat]]
 
 ## Verses (full text)
 
@@ -138,22 +137,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور اگر ہم اس قرآن کو غیر زبان عرب میں (نازل) کرتے تو یہ لوگ کہتے کہ اس کی آیتیں (ہماری زبان میں) کیوں کھول کر بیان نہیں کی گئیں۔ کیا (خوب کہ قرآن تو) عجمی اور (مخاطب) عربی۔ کہہ دو کہ جو ایمان لاتے ہیں ان کے لئے (یہ) ہدایت اور شفا ہے۔ اور جو ایمان نہیں لاتے ان کے کانوں میں گرانی (یعنی بہراپن) ہے اور یہ ان کے حق میں (موجب) نابینائی ہے۔ گرانی کے سبب ان کو (گویا) دور جگہ سے آواز دی جاتی ہے
 
 [Open on Quran.com](https://quran.com/41/44)
-
-#### 51:2 · [[051 Adh-Dhariyat]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَٱلْحَـٰمِلَـٰتِ وِقْرًا
-
-</div>
-
-**Word in this verse:** `وِقْرًۭا` — a load
-
-**English (Sahih International):** And the [clouds] carrying a load [of water]
-
-**English (Yusuf Ali):** And those that lift and bear away heavy weights;
-
-**Urdu (Fatah Muhammad Jalandhari):** پھر (پانی کا) بوجھ اٹھاتی ہیں
-
-[Open on Quran.com](https://quran.com/51/2)
 

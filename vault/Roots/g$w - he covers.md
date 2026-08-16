@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** he covers · **Root:** غشو
 
+
 ### Words (wikilinks — these create the graph)
 - [[>g$yt - he covers]]
 - [[g$y - overcoming]]

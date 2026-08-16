@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** unseen · **Root:** غيب
 
+
 ### Words (wikilinks — these create the graph)
 - [[gA}b - absent]]
 - [[gyb - unseen]]

@@ -2,8 +2,8 @@
 type: word
 lemma: "سَوَّى"
 slug: "swY - proportioned it"
-surah_count: 12
-ayah_count: 14
+surah_count: 11
+ayah_count: 13
 tags: [word, meaning]
 ---
 
@@ -19,11 +19,10 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **proportioned it** · Lemma **سَوَّى**
 
-### Surahs (12)
+### Surahs (11)
 - [[002 Al-Baqarah]]
 - [[015 Al-Hijr]]
 - [[018 Al-Kahf]]
-- [[020 Taha]]
 - [[026 Ash-Shuara]]
 - [[032 As-Sajdah]]
 - [[038 Sad]]
@@ -90,24 +89,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** تو اس کا دوست جو اس سے گفتگو کر رہا تھا کہنے لگا کہ کیا تم اس (خدا) سے کفر کرتے ہو جس نے تم کو مٹی سے پیدا کیا پھر نطفے سے پھر تمہیں پورا مرد بنایا
 
 [Open on Quran.com](https://quran.com/18/37)
-
-#### 20:58 · [[020 Taha]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى
-
-</div>
-
-**Word in this verse:** `سُوًۭى` — even
-
-**English (Sahih International):** Then we will surely bring you magic like it, so make between us and you an appointment, which we will not fail to keep and neither will you, in a place assigned."
-
-**English (Yusuf Ali):** "But we can surely produce magic to match thine! So make a tryst between us and thee, which we shall not fail to keep - neither we nor thou - in a place where both shall have even chances."
-
-**Urdu (Fatah Muhammad Jalandhari):** تو ہم بھی تمہارے مقابل ایسا ہی جادو لائیں گے تو ہمارے اور اپنے درمیان ایک وقت مقرر کر لو کہ نہ تو ہم اس کے خلاف کریں اور نہ تم (اور یہ مقابلہ) ایک ہموار میدان میں (ہوگا)
-
-[Open on Quran.com](https://quran.com/20/58)
 
 #### 26:98 · [[026 Ash-Shuara]]
 
@@ -217,5 +198,23 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/79/28)
 
-_…and **4** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 82:7 · [[082 Al-Infitar]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ
+
+</div>
+
+**Word in this verse:** `فَسَوَّىٰكَ` — then fashioned you
+
+**English (Sahih International):** Who created you, proportioned you, and balanced you?
+
+**English (Yusuf Ali):** Him Who created thee. Fashioned thee in due proportion, and gave thee a just bias;
+
+**Urdu (Fatah Muhammad Jalandhari):** (وہی تو ہے) جس نے تجھے بنایا اور (تیرے اعضا کو) ٹھیک کیا اور (تیرے قامت کو) معتدل رکھا
+
+[Open on Quran.com](https://quran.com/82/7)
+
+_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

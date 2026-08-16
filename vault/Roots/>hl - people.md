@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** people · **Root:** أهل
 
+
 ### Words (wikilinks — these create the graph)
 - [[>hl - people]]
 

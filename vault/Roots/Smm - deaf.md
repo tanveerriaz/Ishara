@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** deaf · **Root:** صمم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Sm - deaf]]
 

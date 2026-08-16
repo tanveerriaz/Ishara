@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they forgot · **Root:** نسي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>nsY - so he made]]
 - [[nsy - they forgot]]

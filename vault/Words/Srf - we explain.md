@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "صَرَفَ"
+lemma: "صَرَّفْ"
 slug: "Srf - we explain"
-surah_count: 14
-ayah_count: 25
+surah_count: 7
+ayah_count: 10
 tags: [word, meaning]
 ---
 
@@ -17,63 +17,20 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[Srf - we explain]]
 
 ### Meaning
-**we explain** · Lemma **صَرَفَ**
+**we explain** · Lemma **صَرَّفْ**
 
-### Surahs (14)
-- [[003 Ali Imran]]
+### Surahs (7)
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
-- [[009 At-Tawbah]]
-- [[010 Yunus]]
-- [[012 Yusuf]]
 - [[017 Al-Isra]]
 - [[018 Al-Kahf]]
 - [[020 Taha]]
-- [[024 An-Nur]]
 - [[025 Al-Furqan]]
-- [[039 Az-Zumar]]
-- [[040 Ghafir]]
 - [[046 Al-Ahqaf]]
 
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 3:152 · [[003 Ali Imran]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَلَقَدْ صَدَقَكُمُ ٱللَّهُ وَعْدَهُۥٓ إِذْ تَحُسُّونَهُم بِإِذْنِهِۦ ۖ حَتَّىٰٓ إِذَا فَشِلْتُمْ وَتَنَـٰزَعْتُمْ فِى ٱلْأَمْرِ وَعَصَيْتُم مِّنۢ بَعْدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَ ۚ مِنكُم مَّن يُرِيدُ ٱلدُّنْيَا وَمِنكُم مَّن يُرِيدُ ٱلْـَٔاخِرَةَ ۚ ثُمَّ صَرَفَكُمْ عَنْهُمْ لِيَبْتَلِيَكُمْ ۖ وَلَقَدْ عَفَا عَنكُمْ ۗ وَٱللَّهُ ذُو فَضْلٍ عَلَى ٱلْمُؤْمِنِينَ
-
-</div>
-
-**Word in this verse:** `صَرَفَكُمْ` — He diverted you
-
-**English (Sahih International):** And Allāh had certainly fulfilled His promise to you when you were killing them [i.e., the enemy] by His permission until [the time] when you lost courage and fell to disputing about the order [given by the Prophet (ﷺ)] and disobeyed after He had shown you that which you love. Among you are some who desire this world, and among you are some who desire the Hereafter. Then He turned you back from them [defeated] that He might test you. And He has already forgiven you, and Allāh is the possessor of bounty for the believers.
-
-**English (Yusuf Ali):** Allah did indeed fulfil His promise to you when ye with His permission Were about to annihilate your enemy,-until ye flinched and fell to disputing about the order, and disobeyed it after He brought you in sight (of the booty) which ye covet. Among you are some that hanker after this world and some that desire the Hereafter. Then did He divert you from your foes in order to test you but He forgave you: For Allah is full of grace to those who believe.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور خدا نے اپنا وعدہ سچا کر دیا (یعنی) اس وقت جبکہ تم کافروں کو اس کے حکم سے قتل کر رہے تھے یہاں تک کہ جو تم چاہتے تھے خدا نے تم کو دکھا دیا اس کے بعد تم نے ہمت ہار دی اور حکم (پیغمبر) میں جھگڑا کرنے لگے اور اس کی نافرمانی کی بعض تو تم میں سے دنیا کے خواستگار تھے اور بعض آخرت کے طالب اس وقت خدا نے تم کو ان (کے مقابلے) سے پھیر (کر بھگا) دیا تاکہ تمہاری آزمائش کرے اور اس نے تمہارا قصور معاف کر دیا اور خدا مومنو پر بڑا فضل کرنے والا ہے
-
-[Open on Quran.com](https://quran.com/3/152)
-
-#### 6:16 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-مَّن يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُۥ ۚ وَذَٰلِكَ ٱلْفَوْزُ ٱلْمُبِينُ
-
-</div>
-
-**Word in this verse:** `يُصْرَفْ` — is averted
-
-**English (Sahih International):** He from whom it is averted that Day - [Allāh] has granted him mercy. And that is the clear attainment.
-
-**English (Yusuf Ali):** "On that day, if the penalty is averted from any, it is due to Allah's mercy; And that would be (Salvation), the obvious fulfilment of all desire.
-
-**Urdu (Fatah Muhammad Jalandhari):** جس شخص سے اس روز عذاب ٹال دیا گیا اس پر خدا نے (بڑی) مہربانی فرمائی اور یہ کھلی کامیابی ہے
-
-[Open on Quran.com](https://quran.com/6/16)
 
 #### 6:46 · [[006 Al-Anam]]
 
@@ -129,24 +86,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/105)
 
-#### 7:47 · [[007 Al-Araf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-۞ وَإِذَا صُرِفَتْ أَبْصَـٰرُهُمْ تِلْقَآءَ أَصْحَـٰبِ ٱلنَّارِ قَالُوا۟ رَبَّنَا لَا تَجْعَلْنَا مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ
-
-</div>
-
-**Word in this verse:** `صُرِفَتْ` — are turned
-
-**English (Sahih International):** And when their eyes are turned toward the companions of the Fire, they say, "Our Lord, do not place us with the wrongdoing people."
-
-**English (Yusuf Ali):** When their eyes shall be turned towards the Companions of the Fire, they will say: "Our Lord! send us not to the company of the wrong-doers."
-
-**Urdu (Fatah Muhammad Jalandhari):** اور جب ان کی نگاہیں پلٹ کر اہل دوزخ کی طرف جائیں گی تو عرض کریں گے کہ اے ہمارے پروردگار ہم کو ظالم لوگوں کے ساتھ شامل نہ کیجیو
-
-[Open on Quran.com](https://quran.com/7/47)
-
 #### 7:58 · [[007 Al-Araf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -165,59 +104,111 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/7/58)
 
-#### 7:146 · [[007 Al-Araf]]
+#### 17:41 · [[017 Al-Isra]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-سَأَصْرِفُ عَنْ ءَايَـٰتِىَ ٱلَّذِينَ يَتَكَبَّرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍ لَّا يُؤْمِنُوا۟ بِهَا وَإِن يَرَوْا۟ سَبِيلَ ٱلرُّشْدِ لَا يَتَّخِذُوهُ سَبِيلًا وَإِن يَرَوْا۟ سَبِيلَ ٱلْغَىِّ يَتَّخِذُوهُ سَبِيلًا ۚ ذَٰلِكَ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَكَانُوا۟ عَنْهَا غَـٰفِلِينَ
+وَلَقَدْ صَرَّفْنَا فِى هَـٰذَا ٱلْقُرْءَانِ لِيَذَّكَّرُوا۟ وَمَا يَزِيدُهُمْ إِلَّا نُفُورًا
 
 </div>
 
-**Word in this verse:** `سَأَصْرِفُ` — I will turn away
+**Word in this verse:** `صَرَّفْنَا` — We have explained
 
-**English (Sahih International):** I will turn away from My signs those who are arrogant upon the earth without right; and if they should see every sign, they will not believe in it. And if they see the way of consciousness, they will not adopt it as a way; but if they see the way of error, they will adopt it as a way. That is because they have denied Our signs and they were heedless of them.
+**English (Sahih International):** And We have certainly diversified [the contents] in this Qur’ān that they [i.e., mankind] may be reminded, but it does not increase them [i.e., the disbelievers] except in aversion.
 
-**English (Yusuf Ali):** Those who behave arrogantly on the earth in defiance of right - them will I turn away from My signs: Even if they see all the signs, they will not believe in them; and if they see the way of right conduct, they will not adopt it as the way; but if they see the way of error, that is the way they will adopt. For they have rejected our signs, and failed to take warning from them.
+**English (Yusuf Ali):** We have explained (things) in various (ways) in this Qur'an, in order that they may receive admonition, but it only increases their flight (from the Truth)!
 
-**Urdu (Fatah Muhammad Jalandhari):** جو لوگ زمین میں ناحق غرور کرتے ہیں ان کو اپنی آیتوں سے پھیر دوں گا۔ اگر یہ سب نشانیاں بھی دیکھ لیں تب بھی ان پر ایمان نہ لائیں اور اگر راستی کا رستہ دیکھیں تو اسے (اپنا) رستہ نہ بنائیں۔ اور اگر گمراہی کی راہ دیکھیں تو اسے رستہ بنالیں۔ یہ اس لیے کہ انہوں نے ہماری آیات کو جھٹلایا اور ان سے غفلت کرتے رہے
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس قرآن میں طرح طرح کی باتیں بیان کی ہیں تاکہ لوگ نصیحت پکڑیں گے۔ مگر وہ اس سے اور بدک جاتے ہیں
 
-[Open on Quran.com](https://quran.com/7/146)
+[Open on Quran.com](https://quran.com/17/41)
 
-#### 9:127 · [[009 At-Tawbah]]
+#### 17:89 · [[017 Al-Isra]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-وَإِذَا مَآ أُنزِلَتْ سُورَةٌ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ يَرَىٰكُم مِّنْ أَحَدٍ ثُمَّ ٱنصَرَفُوا۟ ۚ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
+وَلَقَدْ صَرَّفْنَا لِلنَّاسِ فِى هَـٰذَا ٱلْقُرْءَانِ مِن كُلِّ مَثَلٍ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًا
 
 </div>
 
-**Word in this verse:** `صَرَفَ` — Allah has turned away
+**Word in this verse:** `صَرَّفْنَا` — We have explained
 
-**English (Sahih International):** And whenever a sūrah is revealed, they look at each other, [as if saying], "Does anyone see you?" and then they dismiss themselves. Allāh has dismissed their hearts because they are a people who do not understand.
+**English (Sahih International):** And We have certainly diversified for the people in this Qur’ān from every [kind of] example, but most of the people refused except disbelief.
 
-**English (Yusuf Ali):** Whenever there cometh down a Sura, they look at each other, (saying), "Doth anyone see you?" Then they turn aside: Allah hath turned their hearts (from the light); for they are a people that understand not.
+**English (Yusuf Ali):** And We have explained to man, in this Qur'an, every kind of similitude: yet the greater part of men refuse (to receive it) except with ingratitude!
 
-**Urdu (Fatah Muhammad Jalandhari):** اور جب کوئی سورت نازل ہوتی ہے ایک دوسرے کی جانب دیکھنے لگتے ہیں (اور پوچھتے ہیں کہ) بھلا تمہیں کوئی دیکھتا ہے پھر پھر جاتے ہیں۔ خدا نے ان کے دلوں کو پھیر رکھا ہے کیونکہ یہ ایسے لوگ ہیں کہ سمجھ سے کام نہیں لیتے
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے قرآن میں سب باتیں طرح طرح سے بیان کردی ہیں۔ مگر اکثر لوگوں نے انکار کرنے کے سوا قبول نہ کیا
 
-[Open on Quran.com](https://quran.com/9/127)
+[Open on Quran.com](https://quran.com/17/89)
 
-#### 10:32 · [[010 Yunus]]
+#### 18:54 · [[018 Al-Kahf]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
 
-فَذَٰلِكُمُ ٱللَّهُ رَبُّكُمُ ٱلْحَقُّ ۖ فَمَاذَا بَعْدَ ٱلْحَقِّ إِلَّا ٱلضَّلَـٰلُ ۖ فَأَنَّىٰ تُصْرَفُونَ
+وَلَقَدْ صَرَّفْنَا فِى هَـٰذَا ٱلْقُرْءَانِ لِلنَّاسِ مِن كُلِّ مَثَلٍ ۚ وَكَانَ ٱلْإِنسَـٰنُ أَكْثَرَ شَىْءٍ جَدَلًا
 
 </div>
 
-**Word in this verse:** `تُصْرَفُونَ` — (are) you turned away
+**Word in this verse:** `صَرَّفْنَا` — We have explained
 
-**English (Sahih International):** For that is Allāh, your Lord, the Truth. And what can be beyond truth except error? So how are you averted?
+**English (Sahih International):** And We have certainly diversified in this Qur’ān for the people from every [kind of] example; but man has ever been, most of anything, [prone to] dispute.
 
-**English (Yusuf Ali):** Such is Allah, your real Cherisher and Sustainer: apart from truth, what (remains) but error? How then are ye turned away?
+**English (Yusuf Ali):** We have explained in detail in this Qur'an, for the benefit of mankind, every kind of similitude: but man is, in most things, contentious.
 
-**Urdu (Fatah Muhammad Jalandhari):** یہی خدا تو تمہارا پروردگار برحق ہے۔ اور حق بات کے ظاہر ہونے کے بعد گمراہی کے سوا ہے ہی کیا؟ تو تم کہاں پھرے جاتے ہو
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس قرآن میں لوگوں (کے سمجھانے) کے لئے طرح طرح کی مثالیں بیان فرمائی ہیں۔ لیکن انسان سب چیزوں سے بڑھ کر جھگڑالو ہے
 
-[Open on Quran.com](https://quran.com/10/32)
+[Open on Quran.com](https://quran.com/18/54)
 
-_…and **15** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 20:113 · [[020 Taha]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَكَذَٰلِكَ أَنزَلْنَـٰهُ قُرْءَانًا عَرَبِيًّا وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْرًا
+
+</div>
+
+**Word in this verse:** `وَصَرَّفْنَا` — and We have explained
+
+**English (Sahih International):** And thus We have sent it down as an Arabic Qur’ān and have diversified therein the warnings that perhaps they will avoid [sin] or it would cause them remembrance.
+
+**English (Yusuf Ali):** Thus have We sent this down - an arabic Qur'an - and explained therein in detail some of the warnings, in order that they may fear Allah, or that it may cause their remembrance (of Him).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس کو اسی طرح کا قرآن عربی نازل کیا ہے اور اس میں طرح طرح کے ڈراوے بیان کردیئے ہیں تاکہ لوگ پرہیزگار بنیں یا خدا ان کے لئے نصیحت پیدا کردے
+
+[Open on Quran.com](https://quran.com/20/113)
+
+#### 25:50 · [[025 Al-Furqan]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ صَرَّفْنَـٰهُ بَيْنَهُمْ لِيَذَّكَّرُوا۟ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًا
+
+</div>
+
+**Word in this verse:** `صَرَّفْنَـٰهُ` — We have distributed it
+
+**English (Sahih International):** And We have certainly distributed it among them that they might be reminded, but most of the people refuse except disbelief.
+
+**English (Yusuf Ali):** And We have distributed the (water) amongst them, in order that they may celebrate (our) praises, but most men are averse (to aught) but (rank) ingratitude.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور ہم نے اس (قرآن کی آیتوں) کو طرح طرح سے لوگوں میں بیان کیا تاکہ نصیحت پکڑیں مگر بہت سے لوگوں نے انکار کے سوا قبول نہ کیا
+
+[Open on Quran.com](https://quran.com/25/50)
+
+#### 46:27 · [[046 Al-Ahqaf]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَلَقَدْ أَهْلَكْنَا مَا حَوْلَكُم مِّنَ ٱلْقُرَىٰ وَصَرَّفْنَا ٱلْـَٔايَـٰتِ لَعَلَّهُمْ يَرْجِعُونَ
+
+</div>
+
+**Word in this verse:** `وَصَرَّفْنَا` — and We have diversified
+
+**English (Sahih International):** And We have already destroyed what surrounds you of [those] cities, and We have diversified the signs [or verses] that perhaps they might return [from disbelief].
+
+**English (Yusuf Ali):** We destroyed aforetime populations round about you; and We have shown the Signs in various ways, that they may turn (to Us).
+
+**Urdu (Fatah Muhammad Jalandhari):** اور تمہارے اردگرد کی بستیوں کو ہم نے ہلاک کر دیا۔ اور بار بار (اپنی) نشانیاں ظاہر کردیں تاکہ وہ رجوع کریں
+
+[Open on Quran.com](https://quran.com/46/27)
 

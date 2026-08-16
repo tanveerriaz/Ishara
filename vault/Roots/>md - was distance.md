@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** was distance · **Root:** أمد
 
+
 ### Words (wikilinks — these create the graph)
 - [[>md - was distance]]
 

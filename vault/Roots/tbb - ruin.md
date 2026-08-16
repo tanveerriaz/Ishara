@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** ruin · **Root:** تبب
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

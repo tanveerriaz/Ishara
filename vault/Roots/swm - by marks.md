@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** by marks · **Root:** سوم
 
+
 ### Words (wikilinks — these create the graph)
 - [[mswmp - marked]]
 - [[symA - by marks]]

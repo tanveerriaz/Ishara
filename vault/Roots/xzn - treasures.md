@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** treasures · **Root:** خزن
 
+
 ### Words (wikilinks — these create the graph)
 - [[xzA}n - treasures]]
 - [[xznt - its keepers]]

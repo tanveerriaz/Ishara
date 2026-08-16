@@ -14,31 +14,31 @@ The Sovereignty · 30 ayahs
 
 ## Words in this surah (graph)
 
-- [[f&Ad - hearts]] — `فُؤاد` · hearts
-- [[ydE - they call]] — `يَدَّعُ` · they call
-- [[n$wr - resurrection]] — `نُشُور` · resurrection
-- [[mEyn - water springs]] — `مَعِين` · water springs
-- [[qlyl - little]] — `قَلِيل` · little
-- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[*nb - sins]] — `ذَنب` · sins
+- [[SAfp - wings outspread]] — `صافَّة` · wings outspread
+- [[grwr - delusion]] — `غُرُور` · delusion
 - [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[>SHAb - companions]] — `أَصْحاب` · companions
-- [[Tyr - birds]] — `طَيْر` · birds
-- [[allah - God]] — `الله` · God
-- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
-- [[qbD - withholds]] — `قَبَضْ` · withholds
-- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
-- [[$kr - grateful]] — `شَكَرَ` · grateful
-- [[wjh - faces]] — `وَجْه` · faces
-- [[qbl - before]] — `قَبْل` · before
-- [[>Hsn - best]] — `أَحْسَن` · best
-- [[sEyr - blaze]] — `سَعِير` · blaze
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[ydE - they call]] — `يَدَّعُ` · they call
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[mEyn - water springs]] — `مَعِين` · water springs
+- [[*r> - multiplied you]] — `ذَرَأَ` · multiplied you
+- [[mSbAH - lamp]] — `مِصْباح` · lamp
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[m$ - walk]] — `مَشَ` · walk
+- [[fwq - above them]] — `فَوْق` · above them
+- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[mSyr - destination]] — `مَصِير` · destination
+- [[>hdY - better guided]] — `أَهْدَى` · better guided
+- [[>n$> - we produced]] — `أَنشَأَ` · we produced
+- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[gyZ - rage]] — `غَيْظ` · rage
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[fwj - troop]] — `فَوْج` · troop
-- [[>rD - earth]] — `أَرْض` · earth
-- [[Elm - know]] — `عَلِمَ` · know
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[wEd - promise]] — `وَعْد` · promise
+- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[jnd - hosts]] — `جُند` · hosts
+- [[r>Y - you see]] — `رَأَى` · you see
 
 ## Roots
 

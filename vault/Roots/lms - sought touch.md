@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** sought touch · **Root:** لمس
 
+
 ### Words (wikilinks — these create the graph)
 - [[lms - sought touch]]
 

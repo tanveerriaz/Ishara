@@ -2,8 +2,8 @@
 type: word
 lemma: "خَصْم"
 slug: "xSm - opponents"
-surah_count: 3
-ayah_count: 4
+surah_count: 2
+ayah_count: 3
 tags: [word, meaning]
 ---
 
@@ -19,10 +19,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **opponents** · Lemma **خَصْم**
 
-### Surahs (3)
+### Surahs (2)
 - [[022 Al-Hajj]]
 - [[038 Sad]]
-- [[043 Az-Zukhruf]]
 
 ## Verses (full text)
 
@@ -81,22 +80,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** جس وقت وہ داؤد کے پاس آئے تو وہ ان سے گھبرا گئے انہوں نے کہا کہ خوف نہ کیجیئے۔ ہم دونوں کا ایک مقدمہ ہے کہ ہم میں سے ایک نے دوسرے پر زیادتی کی ہے تو آپ ہم میں انصاف کا فیصلہ کر دیجیئے اور بےانصافی نہ کیجیئے گا اور ہم کو سیدھا رستہ دکھا دیجیئے
 
 [Open on Quran.com](https://quran.com/38/22)
-
-#### 43:58 · [[043 Az-Zukhruf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-وَقَالُوٓا۟ ءَأَـٰلِهَتُنَا خَيْرٌ أَمْ هُوَ ۚ مَا ضَرَبُوهُ لَكَ إِلَّا جَدَلًۢا ۚ بَلْ هُمْ قَوْمٌ خَصِمُونَ
-
-</div>
-
-**Word in this verse:** `خَصِمُونَ` — argumentative
-
-**English (Sahih International):** And they said, "Are our gods better, or is he?" They did not present it [i.e., the comparison] except for [mere] argument. But, [in fact], they are a people prone to dispute.
-
-**English (Yusuf Ali):** And they say, "Are our gods best, or he?" This they set forth to thee, only by way of disputation: yea, they are a contentious people.
-
-**Urdu (Fatah Muhammad Jalandhari):** اور کہنے لگے کہ بھلا ہمارے معبود اچھے ہیں یا عیسیٰ؟ انہوں نے عیسیٰ کی جو مثال بیان کی ہے تو صرف جھگڑنے کو۔ حقیقت یہ ہے یہ لوگ ہیں ہی جھگڑالو
-
-[Open on Quran.com](https://quran.com/43/58)
 

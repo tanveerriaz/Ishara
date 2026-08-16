@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** leaves · **Root:** ورق
 
+
 ### Words (wikilinks — these create the graph)
 - [[wrq - leaves]]
 

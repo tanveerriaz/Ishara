@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** he crossed it · **Root:** جوز
 
+
 ### Words (wikilinks — these create the graph)
 - [[jAwz - he crossed it]]
 

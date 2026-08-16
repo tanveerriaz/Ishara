@@ -2,8 +2,8 @@
 type: word
 lemma: "مَقام"
 slug: "mqAm - place"
-surah_count: 15
-ayah_count: 17
+surah_count: 13
+ayah_count: 14
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **place** · Lemma **مَقام**
 
-### Surahs (15)
+### Surahs (13)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[005 Al-Maidah]]
@@ -27,10 +27,8 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[014 Ibrahim]]
 - [[017 Al-Isra]]
 - [[019 Maryam]]
-- [[025 Al-Furqan]]
 - [[026 Ash-Shuara]]
 - [[027 An-Naml]]
-- [[033 Al-Ahzab]]
 - [[037 As-Saffat]]
 - [[044 Ad-Dukhan]]
 - [[055 Ar-Rahman]]
@@ -166,42 +164,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/19/73)
 
-#### 25:66 · [[025 Al-Furqan]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-إِنَّهَا سَآءَتْ مُسْتَقَرًّا وَمُقَامًا
-
-</div>
-
-**Word in this verse:** `وَمُقَامًۭا` — and resting place
-
-**English (Sahih International):** Indeed, it is evil as a settlement and residence."
-
-**English (Yusuf Ali):** "Evil indeed is it as an abode, and as a place to rest in";
-
-**Urdu (Fatah Muhammad Jalandhari):** اور دوزخ ٹھیرنے اور رہنے کی بہت بری جگہ ہے
-
-[Open on Quran.com](https://quran.com/25/66)
-
-#### 25:76 · [[025 Al-Furqan]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-خَـٰلِدِينَ فِيهَا ۚ حَسُنَتْ مُسْتَقَرًّا وَمُقَامًا
-
-</div>
-
-**Word in this verse:** `وَمُقَامًۭا` — and a resting place
-
-**English (Sahih International):** Abiding eternally therein. Good is the settlement and residence.
-
-**English (Yusuf Ali):** Dwelling therein;- how beautiful an abode and place of rest!
-
-**Urdu (Fatah Muhammad Jalandhari):** اس میں وہ ہمیشہ رہیں گے۔ اور وہ ٹھیرنے اور رہنے کی بہت ہی عمدہ جگہ ہے
-
-[Open on Quran.com](https://quran.com/25/76)
-
 #### 26:58 · [[026 Ash-Shuara]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -220,5 +182,41 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/26/58)
 
-_…and **7** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 27:39 · [[027 An-Naml]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَ عِفْرِيتٌ مِّنَ ٱلْجِنِّ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن تَقُومَ مِن مَّقَامِكَ ۖ وَإِنِّى عَلَيْهِ لَقَوِىٌّ أَمِينٌ
+
+</div>
+
+**Word in this verse:** `مَّقَامِكَ ۖ` — your place
+
+**English (Sahih International):** A powerful one from among the jinn said, "I will bring it to you before you rise from your place, and indeed, I am for this [task] strong and trustworthy."
+
+**English (Yusuf Ali):** Said an 'Ifrit, of the Jinns: "I will bring it to thee before thou rise from thy council: indeed I have full strength for the purpose, and may be trusted."
+
+**Urdu (Fatah Muhammad Jalandhari):** جنات میں سے ایک قوی ہیکل جن نے کہا کہ قبل اس کے کہ آپ اپنی جگہ سے اٹھیں میں اس کو آپ کے پاس لاحاضر کرتا ہوں اور میں اس (کے اٹھانے کی) طاقت رکھتا ہوں (اور) امانت دار ہوں
+
+[Open on Quran.com](https://quran.com/27/39)
+
+#### 37:164 · [[037 As-Saffat]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌ مَّعْلُومٌ
+
+</div>
+
+**Word in this verse:** `مَقَامٌۭ` — (is) a position
+
+**English (Sahih International):** [The angels say], "There is not among us any except that he has a known position.
+
+**English (Yusuf Ali):** (Those ranged in ranks say): "Not one of us but has a place appointed;
+
+**Urdu (Fatah Muhammad Jalandhari):** اور (فرشتے کہتے ہیں کہ) ہم میں سے ہر ایک کا ایک مقام مقرر ہے
+
+[Open on Quran.com](https://quran.com/37/164)
+
+_…and **4** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

@@ -11,9 +11,10 @@ tags: [root, meaning]
 
 **Sense:** i swear · **Root:** قسم
 
+
 ### Words (wikilinks — these create the graph)
 - [[>qsm - i swear]]
-- [[qsm - distribute]]
+- [[qsm - surely oath]]
 - [[qsmp - division]]
 
 ### Surahs where this root appears

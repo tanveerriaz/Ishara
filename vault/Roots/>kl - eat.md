@@ -11,8 +11,11 @@ tags: [root, meaning]
 
 **Sense:** eat · **Root:** أكل
 
+
 ### Words (wikilinks — these create the graph)
 - [[>kl - eat]]
+- [[>kl - eating]]
+- [[>kl - its harvest]]
 - [[Akl - eat]]
 
 ### Surahs where this root appears

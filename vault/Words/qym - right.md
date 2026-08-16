@@ -1,9 +1,9 @@
 ---
 type: word
-lemma: "قِيَم"
+lemma: "قَيِّم"
 slug: "qym - right"
-surah_count: 5
-ayah_count: 6
+surah_count: 4
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -17,10 +17,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[qwm - upright]]
 
 ### Meaning
-**right** · Lemma **قِيَم**
+**right** · Lemma **قَيِّم**
 
-### Surahs (5)
-- [[006 Al-Anam]]
+### Surahs (4)
 - [[009 At-Tawbah]]
 - [[012 Yusuf]]
 - [[018 Al-Kahf]]
@@ -29,24 +28,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ## Verses (full text)
 
 Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
-
-#### 6:161 · [[006 Al-Anam]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قُلْ إِنَّنِى هَدَىٰنِى رَبِّىٓ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ دِينًا قِيَمًا مِّلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۚ وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
-
-</div>
-
-**Word in this verse:** `قِيَمًۭا` — right
-
-**English (Sahih International):** Say, "Indeed, my Lord has guided me to a straight path - a correct religion - the way of Abraham, inclining toward truth. And he was not among those who associated others with Allāh."
-
-**English (Yusuf Ali):** Say: "Verily, my Lord hath guided me to a way that is straight,- a religion of right,- the path (trod) by Abraham the true in Faith, and he (certainly) joined not gods with Allah."
-
-**Urdu (Fatah Muhammad Jalandhari):** کہہ دو کہ مجھے میرے پروردگار نے سیدھا رستہ دکھا دیا ہے (یعنی دین صحیح) مذہب ابراہیم کا جو ایک (خدا) ہی کی طرف کے تھے اور مشرکوں میں سے نہ تھے
-
-[Open on Quran.com](https://quran.com/6/161)
 
 #### 9:36 · [[009 At-Tawbah]]
 

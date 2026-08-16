@@ -17,34 +17,34 @@ Those who drag forth · 46 ayahs
 - [[kbrY - greatest]] — `كُبْرَى` · greatest
 - [[TgY - has transgressed]] — `طَغَى` · has transgressed
 - [[DHY - its brightness]] — `ضُحًى` · its brightness
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[<nsAn - man]] — `إِنسان` · man
-- [[sEY - strive]] — `سَعَى` · strive
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[>$d - stronger]] — `أَشَدّ` · stronger
-- [[nkAl - deterrent punishment]] — `نَكال` · deterrent punishment
-- [[allah - God]] — `الله` · God
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[lyl - night]] — `لَيْل` · night
+- [[bEd - after]] — `بَعْد` · after
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[>rD - earth]] — `أَرْض` · earth
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[bSr - vision]] — `بَصَر` · vision
-- [[lbv - you remained]] — `لَبِثَ` · you remained
-- [[xA$E - humbled]] — `خاشِع` · humbled
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
-- [[mn*r - warners]] — `مُنذِر` · warners
-- [[xAf - fear]] — `خافَ` · fear
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[>x* - we took]] — `أَخَذَ` · we took
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[Hdyv - statement]] — `حَدِيث` · statement
 - [[ESA - they disobeyed]] — `عَصا` · they disobeyed
+- [[rfE - we raised]] — `رَفَعَ` · we raised
+- [[nEm - cattle]] — `نَعَم` · cattle
+- [[xAf - fear]] — `خافَ` · fear
+- [[nAdY - he called]] — `نادَى` · he called
+- [[qAl - say]] — `قالَ` · say
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[tbE - follows]] — `تَبِعَ` · follows
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[sAEp - hour]] — `ساعَة` · hour
+- [[bSr - vision]] — `بَصَر` · vision
+- [[Avr - but prefer]] — `آثَرَ` · but prefer
+- [[*hb - go]] — `ذَهَبَ` · go
+- [[jA' - came them]] — `جاءَ` · came them
 
 ## Roots
 
 - [[$dd - severe]]
-- [[*hb - gold]]
-- [[*kr - remember]]
+- [[*hb - go]]
+- [[*kr - reminder]]
 - [[>mr - command]]
 - [[>ns - people]]
 - [[>rD - earth]]

@@ -14,31 +14,31 @@ The Reality · 52 ayahs
 
 ## Words in this surah (graph)
 
-- [[vmAnyp - eight]] — `ثَمانِيَة` · eight
 - [[t*krp - reminder]] — `تَذْكِرَة` · reminder
-- [[$mAl - left]] — `شِمال` · left
-- [[AtY - give]] — `آتَى` · give
-- [[$AEr - poet]] — `شاعِر` · poet
-- [[qlyl - little]] — `قَلِيل` · little
-- [[>kl - eat]] — `أَكَلَ` · eat
-- [[ErD - its width]] — `عَرَضَ` · its width
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[qTE - cut off]] — `قُطِعَ` · cut off
-- [[allah - God]] — `الله` · God
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[tdry - i know]] — `تَدْرِي` · i know
-- [[jAryp - sailing]] — `جارِيَة` · sailing
-- [[gl - shackles]] — `غَلَّ` · shackles
-- [[qbl - before]] — `قَبْل` · before
-- [[>rD - earth]] — `أَرْض` · earth
-- [[Elm - know]] — `عَلِمَ` · know
-- [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[rADyp - pleasant]] — `راضِيَة` · pleasant
+- [[vmAnyp - eight]] — `ثَمانِيَة` · eight
+- [[Hmym - scalding water]] — `حَمِيم` · scalding water
+- [[Zn - thought]] — `ظَنَّ` · thought
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[jEl - we made]] — `جَعَلَ` · we made
 - [[krym - noble]] — `كَرِيم` · noble
-- [[dAnyp - hanging low]] — `دانِيَة` · hanging low
-- [[ryH - wind]] — `رِيح` · wind
-- [[TEAm - food]] — `طَعام` · food
-- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
+- [[Asm - name]] — `اسْم` · name
+- [[nxl - date-palms]] — `نَخْل` · date-palms
+- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[mlk - angels]] — `مَلَك` · angels
+- [[hlk - died]] — `هَلَكَ` · died
+- [[tdry - i know]] — `تَدْرِي` · i know
+- [[fwq - above them]] — `فَوْق` · above them
+- [[lyl - night]] — `لَيْل` · night
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
+- [[qArEp - striking calamity]] — `قارِعَة` · striking calamity
+- [[jAryp - sailing]] — `جارِيَة` · sailing
+- [[mAl - wealth]] — `مال` · wealth
+- [[>x* - we took]] — `أَخَذَ` · we took
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[rADyp - pleasant]] — `راضِيَة` · pleasant
+- [[mtqy - righteous]] — `مُتَّقي` · righteous
 
 ## Roots
 
@@ -46,7 +46,7 @@ The Reality · 52 ayahs
 - [[$ml - left]]
 - [[$qq - opposes]]
 - [[$rb - drink]]
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[*rE - uneasy]]
 - [[>*n - by permission]]
 - [[>Hd - anyone]]

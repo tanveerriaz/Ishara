@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** abundance · **Root:** درر
 
+
 ### Words (wikilinks — these create the graph)
 - [[mdrAr - abundance]]
 

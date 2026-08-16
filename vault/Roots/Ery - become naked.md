@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** become naked · **Root:** عري
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

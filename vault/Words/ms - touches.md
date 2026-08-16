@@ -1,0 +1,234 @@
+---
+type: word
+lemma: "مَسَّ"
+slug: "ms - touches"
+surah_count: 26
+ayah_count: 52
+tags: [word, meaning]
+---
+
+# ms - touches
+
+## Graph connections
+
+Open **Local graph** — lines to the **root** and **surahs** below.
+
+### Root
+- [[mss - touches]]
+
+### Meaning
+**touches** · Lemma **مَسَّ**
+
+### Surahs (26)
+- [[002 Al-Baqarah]]
+- [[003 Ali Imran]]
+- [[005 Al-Maidah]]
+- [[006 Al-Anam]]
+- [[007 Al-Araf]]
+- [[008 Al-Anfal]]
+- [[010 Yunus]]
+- [[011 Hud]]
+- [[012 Yusuf]]
+- [[015 Al-Hijr]]
+- [[016 An-Nahl]]
+- [[017 Al-Isra]]
+- [[019 Maryam]]
+- [[021 Al-Anbya]]
+- [[024 An-Nur]]
+- [[026 Ash-Shuara]]
+- [[030 Ar-Rum]]
+- [[033 Al-Ahzab]]
+- [[035 Fatir]]
+- [[036 Ya-Sin]]
+- [[038 Sad]]
+- [[039 Az-Zumar]]
+- [[041 Fussilat]]
+- [[050 Qaf]]
+- [[056 Al-Waqiah]]
+
+## Verses (full text)
+
+Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up to 10 verses in Obsidian (web app shows all).
+
+#### 2:80 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَقَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًا مَّعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ عَهْدًا فَلَن يُخْلِفَ ٱللَّهُ عَهْدَهُۥٓ ۖ أَمْ تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
+
+</div>
+
+**Word in this verse:** `تَمَسَّنَا` — will touch us
+
+**English (Sahih International):** And they say, "Never will the Fire touch us, except for [a few] numbered days." Say, "Have you taken a covenant with Allāh? For Allāh will never break His covenant. Or do you say about Allāh that which you do not know?"
+
+**English (Yusuf Ali):** And they say: "The Fire shall not touch us but for a few numbered days:" Say: "Have ye taken a promise from Allah, for He never breaks His promise? or is it that ye say of Allah what ye do not know?"
+
+**Urdu (Fatah Muhammad Jalandhari):** اور کہتے ہیں کہ (دوزخ کی) آگ ہمیں چند روز کے سوا چھو ہی نہیں سکے گی۔ ان سے پوچھو، کیا تم نے خدا سے اقرار لے رکھا ہے کہ خدا اپنے اقرار کے خلاف نہیں کرے گا۔ (نہیں)، بلکہ تم خدا کے بارے میں ایسی باتیں کہتے ہو جن کا تمہیں مطلق علم نہیں
+
+[Open on Quran.com](https://quran.com/2/80)
+
+#### 2:214 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+أَمْ حَسِبْتُمْ أَن تَدْخُلُوا۟ ٱلْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ ٱلَّذِينَ خَلَوْا۟ مِن قَبْلِكُم ۖ مَّسَّتْهُمُ ٱلْبَأْسَآءُ وَٱلضَّرَّآءُ وَزُلْزِلُوا۟ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ مَتَىٰ نَصْرُ ٱللَّهِ ۗ أَلَآ إِنَّ نَصْرَ ٱللَّهِ قَرِيبٌ
+
+</div>
+
+**Word in this verse:** `مَّسَّتْهُمُ` — Touched them
+
+**English (Sahih International):** Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, "When is the help of Allāh?" Unquestionably, the help of Allāh is near.
+
+**English (Yusuf Ali):** Or do ye think that ye shall enter the Garden (of bliss) without such (trials) as came to those who passed away before you? they encountered suffering and adversity, and were so shaken in spirit that even the Messenger and those of faith who were with him cried: "When (will come) the help of Allah?" Ah! Verily, the help of Allah is (always) near!
+
+**Urdu (Fatah Muhammad Jalandhari):** کیا تم یہ خیال کرتے ہو کہ (یوں ہی) بہشت میں داخل ہوجاؤ گے اور ابھی تم کو پہلے لوگوں کی سی (مشکلیں) تو پیش آئی ہی نہیں۔ ان کو (بڑی بڑی) سختیاں اور تکلیفیں پہنچیں اور وہ (صعوبتوں میں) ہلا ہلا دیئے گئے۔ یہاں تک کہ پیغمبر اور مومن لوگ جو ان کے ساتھ تھے سب پکار اٹھے کہ کب خدا کی مدد آئے گی ۔ دیکھو خدا کی مدد (عن) قریب (آيا چاہتی) ہے
+
+[Open on Quran.com](https://quran.com/2/214)
+
+#### 2:236 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَّا جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا۟ لَهُنَّ فَرِيضَةً ۚ وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ مَتَـٰعًۢا بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُحْسِنِينَ
+
+</div>
+
+**Word in this verse:** `تَمَسُّوهُنَّ` — you have touched
+
+**English (Sahih International):** There is no blame upon you if you divorce women you have not touched nor specified for them an obligation. But give them [a gift of] compensation - the wealthy according to his capability and the poor according to his capability - a provision according to what is acceptable, a duty upon the doers of good.
+
+**English (Yusuf Ali):** There is no blame on you if ye divorce women before consummation or the fixation of their dower; but bestow on them (A suitable gift), the wealthy according to his means, and the poor according to his means;- A gift of a reasonable amount is due from those who wish to do the right thing.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے یا ان کا مہر مقرر کرنے سے پہلے طلاق دے دو تو تم پر کچھ گناہ نہیں۔ ہاں ان کو دستور کے مطابق کچھ خرچ ضرور دو (یعنی) مقدور والا اپنے مقدور کے مطابق دے اور تنگدست اپنی حیثیت کے مطابق۔ نیک لوگوں پر یہ ایک طرح کا حق ہے
+
+[Open on Quran.com](https://quran.com/2/236)
+
+#### 2:237 · [[002 Al-Baqarah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إِلَّآ أَن يَعْفُونَ أَوْ يَعْفُوَا۟ ٱلَّذِى بِيَدِهِۦ عُقْدَةُ ٱلنِّكَاحِ ۚ وَأَن تَعْفُوٓا۟ أَقْرَبُ لِلتَّقْوَىٰ ۚ وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ ۚ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ
+
+</div>
+
+**Word in this verse:** `تَمَسُّوهُنَّ` — you (have) touched them
+
+**English (Sahih International):** And if you divorce them before you have touched them and you have already specified for them an obligation, then [give] half of what you specified - unless they forego the right or the one in whose hand is the marriage contract foregoes it. And to forego it is nearer to righteousness. And do not forget graciousness between you. Indeed Allāh, of whatever you do, is Seeing.
+
+**English (Yusuf Ali):** And if ye divorce them before consummation, but after the fixation of a dower for them, then the half of the dower (Is due to them), unless they remit it or (the man's half) is remitted by him in whose hands is the marriage tie; and the remission (of the man's half) is the nearest to righteousness. And do not forget Liberality between yourselves. For Allah sees well all that ye do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اور اگر تم عورتوں کو ان کے پاس جانے سے پہلے طلاق دے دو لیکن مہر مقرر کرچکے ہو تو آدھا مہر دینا ہوگا۔ ہاں اگر عورتیں مہر بخش دیں یا مرد جن کے ہاتھ میں عقد نکاح ہے (اپنا حق) چھوڑ دیں۔ (اور پورا مہر دے دیں تو ان کو اختیار ہے) اور اگر تم مرد لوگ ہ اپنا حق چھوڑ دو تو یہ پرہیزگاری کی بات ہے۔ اور آپس میں بھلائی کرنے کو فراموش نہ کرنا۔ کچھ شک نہیں کہ خدا تمہارے سب کاموں کو دیکھ رہا ہے
+
+[Open on Quran.com](https://quran.com/2/237)
+
+#### 3:24 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًا مَّعْدُودَٰتٍ ۖ وَغَرَّهُمْ فِى دِينِهِم مَّا كَانُوا۟ يَفْتَرُونَ
+
+</div>
+
+**Word in this verse:** `تَمَسَّنَا` — will touch us
+
+**English (Sahih International):** That is because they say, "Never will the Fire touch us except for [a few] numbered days," and [because] they were deluded in their religion by what they were inventing.
+
+**English (Yusuf Ali):** This because they say: "The Fire shall not touch us but for a few numbered days": For their forgeries deceive them as to their own religion.
+
+**Urdu (Fatah Muhammad Jalandhari):** یہ اس لیے کہ یہ اس بات کے قائل ہیں کہ (دوزخ کی) آگ ہمیں چند روز کے سوا چھو ہی نہیں سکے گی اور جو کچھ یہ دین کے بارے میں بہتان باندھتے رہے ہیں اس نے ان کو دھوکے میں ڈال رکھا ہے
+
+[Open on Quran.com](https://quran.com/3/24)
+
+#### 3:47 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ ۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ ۚ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
+
+</div>
+
+**Word in this verse:** `يَمْسَسْنِى` — touch(ed) me
+
+**English (Sahih International):** She said, "My Lord, how will I have a child when no man has touched me?" [The angel] said, "Such is Allāh; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is.
+
+**English (Yusuf Ali):** She said: "O my Lord! How shall I have a son when no man hath touched me?" He said: "Even so: Allah createth what He willeth: When He hath decreed a plan, He but saith to it, 'Be,' and it is!
+
+**Urdu (Fatah Muhammad Jalandhari):** مریم نے کہا پروردگار میرے ہاں بچہ کیونکر ہوگا کہ کسی انسان نے مجھے ہاتھ تک تو لگایا نہیں فرمایا کہ خدا اسی طرح جو چاہتا ہے پیدا کرتا ہے جب وہ کوئی کام کرنا چاہتا ہے تو ارشاد فرما دیتا ہے کہ ہوجا تو وہ ہو جاتا ہے
+
+[Open on Quran.com](https://quran.com/3/47)
+
+#### 3:120 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن تَمْسَسْكُمْ حَسَنَةٌ تَسُؤْهُمْ وَإِن تُصِبْكُمْ سَيِّئَةٌ يَفْرَحُوا۟ بِهَا ۖ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـًٔا ۗ إِنَّ ٱللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌ
+
+</div>
+
+**Word in this verse:** `تَمْسَسْكُمْ` — touches you
+
+**English (Sahih International):** If good touches you, it distresses them; but if harm strikes you, they rejoice at it. And if you are patient and fear Allāh, their plot will not harm you at all. Indeed, Allāh is encompassing of what they do.
+
+**English (Yusuf Ali):** If aught that is good befalls you, it grieves them; but if some misfortune overtakes you, they rejoice at it. But if ye are constant and do right, not the least harm will their cunning do to you; for Allah Compasseth round about all that they do.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تمہیں آسودگی حاصل ہو تو ان کو بری لگتی ہے اور اگر رنج پہنچے تو خوش ہوتے ہیں اور اگر تم تکلیفوں کی برداشت اور (ان سے) کنارہ کشی کرتے رہو گے تو ان کا فریب تمھیں کچھ بھی نقصان نہ پہنچا سکے گا یہ جو کچھ کرتے ہیں خدا اس پر احاطہ کیے ہوئے ہے
+
+[Open on Quran.com](https://quran.com/3/120)
+
+#### 3:140 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِن يَمْسَسْكُمْ قَرْحٌ فَقَدْ مَسَّ ٱلْقَوْمَ قَرْحٌ مِّثْلُهُۥ ۚ وَتِلْكَ ٱلْأَيَّامُ نُدَاوِلُهَا بَيْنَ ٱلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَتَّخِذَ مِنكُمْ شُهَدَآءَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّـٰلِمِينَ
+
+</div>
+
+**Word in this verse:** `يَمْسَسْكُمْ` — touched you
+
+**English (Sahih International):** If a wound should touch you - there has already touched the [opposing] people a wound similar to it. And these days [of varying conditions] We alternate among the people so that Allāh may make evident those who believe and [may] take to Himself from among you martyrs - and Allāh does not like the wrongdoers -
+
+**English (Yusuf Ali):** If a wound hath touched you, be sure a similar wound hath touched the others. Such days (of varying fortunes) We give to men and men by turns: that Allah may know those that believe, and that He may take to Himself from your ranks Martyr-witnesses (to Truth). And Allah loveth not those that do wrong.
+
+**Urdu (Fatah Muhammad Jalandhari):** اگر تمہیں زخم (شکست) لگا ہے تو ان لوگوں کو بھی ایسا زخم لگ چکا ہے اور یہ دن ہیں کہ ہم ان کو لوگوں میں بدلتے رہتے ہیں اور اس سے یہ بھی مقصود تھا کہ خدا ایمان والوں کو متمیز کر دے اور تم میں سے گواہ بنائے اور خدا بےانصافوں کو پسند نہیں کرتا
+
+[Open on Quran.com](https://quran.com/3/140)
+
+#### 3:174 · [[003 Ali Imran]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+فَٱنقَلَبُوا۟ بِنِعْمَةٍ مِّنَ ٱللَّهِ وَفَضْلٍ لَّمْ يَمْسَسْهُمْ سُوٓءٌ وَٱتَّبَعُوا۟ رِضْوَٰنَ ٱللَّهِ ۗ وَٱللَّهُ ذُو فَضْلٍ عَظِيمٍ
+
+</div>
+
+**Word in this verse:** `يَمْسَسْهُمْ` — touched them
+
+**English (Sahih International):** So they returned with favor from Allāh and bounty, no harm having touched them. And they pursued the pleasure of Allāh, and Allāh is the possessor of great bounty.
+
+**English (Yusuf Ali):** And they returned with Grace and bounty from Allah: no harm ever touched them: For they followed the good pleasure of Allah: And Allah is the Lord of bounties unbounded.
+
+**Urdu (Fatah Muhammad Jalandhari):** پھر وہ خدا کی نعمتوں اور اس کے فضل کے ساتھ (خوش وخرم) واپس آئے ان کو کسی طرح کا ضرر نہ پہنچا۔ اور وہ خدا کی خوشنودی کے تابع رہے۔ اور خدا بڑے فضل کا مالک ہے
+
+[Open on Quran.com](https://quran.com/3/174)
+
+#### 5:73 · [[005 Al-Maidah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ ثَالِثُ ثَلَـٰثَةٍ ۘ وَمَا مِنْ إِلَـٰهٍ إِلَّآ إِلَـٰهٌ وَٰحِدٌ ۚ وَإِن لَّمْ يَنتَهُوا۟ عَمَّا يَقُولُونَ لَيَمَسَّنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابٌ أَلِيمٌ
+
+</div>
+
+**Word in this verse:** `لَيَمَسَّنَّ` — surely will afflict
+
+**English (Sahih International):** They have certainly disbelieved who say, "Allāh is the third of three." And there is no god except one God. And if they do not desist from what they are saying, there will surely afflict the disbelievers among them a painful punishment.
+
+**English (Yusuf Ali):** They do blaspheme who say: Allah is one of three in a Trinity: for there is no god except One Allah. If they desist not from their word (of blasphemy), verily a grievous penalty will befall the blasphemers among them.
+
+**Urdu (Fatah Muhammad Jalandhari):** وہ لوگ (بھی) کافر ہیں جو اس بات کے قائل ہیں کہ خدا تین میں کا تیسرا ہے حالانکہ اس معبود یکتا کے سوا کوئی عبادت کے لائق نہیں اگر یہ لوگ ایسے اقوال (وعقائد) سے باز نہیں آئیں گے تو ان میں جو کافر ہوئے ہیں وہ تکلیف دینے والا عذاب پائیں گے
+
+[Open on Quran.com](https://quran.com/5/73)
+
+_…and **42** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+

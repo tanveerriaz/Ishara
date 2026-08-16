@@ -2,8 +2,8 @@
 type: word
 lemma: "جَنَّة"
 slug: "jnp - gardens"
-surah_count: 67
-ayah_count: 154
+surah_count: 65
+ayah_count: 143
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **gardens** · Lemma **جَنَّة**
 
-### Surahs (67)
+### Surahs (65)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[004 An-Nisa]]
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/133)
 
-_…and **144** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **133** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

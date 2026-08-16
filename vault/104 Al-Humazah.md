@@ -15,17 +15,16 @@ The Traducer · 9 ayahs
 ## Words in this surah (graph)
 
 - [[f&Ad - hearts]] — `فُؤاد` · hearts
-- [[nAr - fire]] — `نار` · fire
-- [[kl - every]] — `كُلّ` · every
-- [[Hsb - think]] — `حَسْب` · think
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[mAl - wealth]] — `مال` · wealth
-- [[Edd - number]] — `عَدَد` · number
-- [[allah - God]] — `الله` · God
 - [[Emd - pillars]] — `عَمَد` · pillars
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[allah - God]] — `الله` · God
 - [[nb* - threw away]] — `نَبَذَ` · threw away
+- [[Hsb - think]] — `حَسِبَ` · think
+- [[mAl - wealth]] — `مال` · wealth
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[nAr - fire]] — `نار` · fire
 - [[TlE - discover]] — `طَلَعَ` · discover
+- [[jmE - they accumulate]] — `جَمَعَ` · they accumulate
+- [[kl - every]] — `كُلّ` · every
 
 ## Roots
 

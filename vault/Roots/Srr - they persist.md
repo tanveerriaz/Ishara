@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they persist · **Root:** صرر
 
+
 ### Words (wikilinks — these create the graph)
 - [[>Sr - they persist]]
 

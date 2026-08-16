@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** fear · **Root:** وقي
 
+
 ### Words (wikilinks — these create the graph)
 - [[AtqY - fear]]
 - [[mtqy - righteous]]

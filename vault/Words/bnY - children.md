@@ -2,8 +2,8 @@
 type: word
 lemma: "بُنَىّ"
 slug: "bnY - children"
-surah_count: 40
-ayah_count: 88
+surah_count: 33
+ayah_count: 77
 tags: [word, meaning]
 ---
 
@@ -19,13 +19,12 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **children** · Lemma **بُنَىّ**
 
-### Surahs (40)
+### Surahs (33)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
-- [[009 At-Tawbah]]
 - [[010 Yunus]]
 - [[011 Hud]]
 - [[012 Yusuf]]
@@ -45,6 +44,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[040 Ghafir]]
 - [[043 Az-Zukhruf]]
 - [[044 Ad-Dukhan]]
+- [[045 Al-Jathiyah]]
 
 ## Verses (full text)
 
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/3/49)
 
-_…and **78** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **67** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

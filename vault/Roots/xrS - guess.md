@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** guess · **Root:** خرص
 
+
 ### Words (wikilinks — these create the graph)
 - [[yxrS - guess]]
 

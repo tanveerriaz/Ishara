@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** evening · **Root:** عشو
 
+
 ### Words (wikilinks — these create the graph)
 - [[E$y - evening]]
 

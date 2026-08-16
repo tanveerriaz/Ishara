@@ -2,8 +2,8 @@
 type: word
 lemma: "رَضِيَ"
 slug: "rDy - they pleased"
-surah_count: 19
-ayah_count: 32
+surah_count: 18
+ayah_count: 31
 tags: [word, meaning]
 ---
 
@@ -19,14 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **they pleased** · Lemma **رَضِيَ**
 
-### Surahs (19)
+### Surahs (18)
 - [[002 Al-Baqarah]]
 - [[004 An-Nisa]]
 - [[005 Al-Maidah]]
 - [[006 Al-Anam]]
 - [[009 At-Tawbah]]
 - [[010 Yunus]]
-- [[019 Maryam]]
 - [[020 Taha]]
 - [[022 Al-Hajj]]
 - [[027 An-Naml]]
@@ -224,5 +223,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/9/58)
 
-_…and **22** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **21** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

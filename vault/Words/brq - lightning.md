@@ -2,8 +2,8 @@
 type: word
 lemma: "بَرْق"
 slug: "brq - lightning"
-surah_count: 5
-ayah_count: 6
+surah_count: 4
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -19,12 +19,11 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **lightning** · Lemma **بَرْق**
 
-### Surahs (5)
+### Surahs (4)
 - [[002 Al-Baqarah]]
 - [[013 Ar-Rad]]
 - [[024 An-Nur]]
 - [[030 Ar-Rum]]
-- [[075 Al-Qiyamah]]
 
 ## Verses (full text)
 
@@ -119,22 +118,4 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اور اسی کے نشانات (اور تصرفات) میں سے ہے کہ تم کو خوف اور اُمید دلانے کے لئے بجلی دکھاتا ہے اور آسمان سے مینھہ برساتا ہے۔ پھر زمین کو اس کے مر جانے کے بعد زندہ (و شاداب) کر دیتا ہے۔ عقل والوں کے لئے ان (باتوں) میں (بہت سی) نشانیاں ہیں
 
 [Open on Quran.com](https://quran.com/30/24)
-
-#### 75:7 · [[075 Al-Qiyamah]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-فَإِذَا بَرِقَ ٱلْبَصَرُ
-
-</div>
-
-**Word in this verse:** `بَرِقَ` — is dazzled
-
-**English (Sahih International):** So when vision is dazzled.
-
-**English (Yusuf Ali):** At length, when the sight is dazed,
-
-**Urdu (Fatah Muhammad Jalandhari):** جب آنکھیں چندھیا جائیں
-
-[Open on Quran.com](https://quran.com/75/7)
 

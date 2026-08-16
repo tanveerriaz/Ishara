@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** humble · **Root:** دخر
 
+
 ### Words (wikilinks — these create the graph)
 - [[dAxr - humble]]
 

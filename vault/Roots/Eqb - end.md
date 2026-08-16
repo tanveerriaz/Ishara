@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** end · **Root:** عقب
 
+
 ### Words (wikilinks — these create the graph)
 - [[EAqb - you retaliate]]
 - [[EAqbp - end]]

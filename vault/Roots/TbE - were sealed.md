@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** were sealed · **Root:** طبع
 
+
 ### Words (wikilinks — these create the graph)
 - [[TbE - were sealed]]
 

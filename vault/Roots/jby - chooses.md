@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** chooses · **Root:** جبي
 
+
 ### Words (wikilinks — these create the graph)
 - [[AjtbY - chooses]]
 

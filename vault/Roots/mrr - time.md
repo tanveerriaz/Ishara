@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** time · **Root:** مرر
 
+
 ### Words (wikilinks — these create the graph)
 - [[mr - they pass]]
 - [[mrp - time]]

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** we produced · **Root:** نشأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[>n$> - we produced]]
 - [[n$>p - creation]]

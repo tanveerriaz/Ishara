@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** lightning · **Root:** برق
 
+
 ### Words (wikilinks — these create the graph)
 - [[brq - lightning]]
 

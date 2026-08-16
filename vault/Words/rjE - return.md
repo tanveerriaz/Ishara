@@ -2,8 +2,8 @@
 type: word
 lemma: "رَجَعَ"
 slug: "rjE - return"
-surah_count: 38
-ayah_count: 81
+surah_count: 36
+ayah_count: 78
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **return** · Lemma **رَجَعَ**
 
-### Surahs (38)
+### Surahs (36)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[006 Al-Anam]]
@@ -230,5 +230,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/36)
 
-_…and **71** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **68** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

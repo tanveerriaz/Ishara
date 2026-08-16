@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** enter water drink · **Root:** شرع
 
+
 ### Words (wikilinks — these create the graph)
 - (hub)
 

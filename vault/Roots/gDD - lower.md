@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** lower · **Root:** غضض
 
+
 ### Words (wikilinks — these create the graph)
 - [[ygD - lower]]
 

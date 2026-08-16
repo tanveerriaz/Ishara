@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** old · **Root:** شيخ
 
+
 ### Words (wikilinks — these create the graph)
 - [[$yx - old]]
 

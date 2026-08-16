@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** two · **Root:** ثني
 
+
 ### Words (wikilinks — these create the graph)
 - [[Avntyn - two]]
 - [[Avnyn - two]]

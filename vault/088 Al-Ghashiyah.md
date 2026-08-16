@@ -14,35 +14,35 @@ The Overwhelming · 26 ayahs
 
 ## Words in this surah (graph)
 
+- [[HsAb - account]] — `حِساب` · account
 - [[>kbr - greater]] — `أَكْبَر` · greater
-- [[TEAm - food]] — `طَعام` · food
-- [[nAr - fire]] — `نار` · fire
-- [[sEy - effort]] — `سَعْي` · effort
-- [[jwE - hunger]] — `جُوع` · hunger
-- [[nZr - see]] — `نَظَرَ` · see
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[>kwAb - cups]] — `أَكْواب` · cups
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[lys - not]] — `لَيْسَ` · not
-- [[sqY - water]] — `سَقَى` · water
-- [[srr - thrones]] — `سُرُر` · thrones
-- [[smE - hearing]] — `سَمْع` · hearing
 - [[E*b - punishes]] — `عَذَّبَ` · punishes
-- [[allah - God]] — `الله` · God
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[jAryp - sailing]] — `جارِيَة` · sailing
-- [[Eyn - eyes]] — `عَيْن` · eyes
+- [[smA' - heavens]] — `سَماء` · heavens
 - [[wjh - faces]] — `وَجْه` · faces
+- [[allah - God]] — `الله` · God
+- [[nZr - see]] — `نَظَرَ` · see
 - [[E*Ab - punishment]] — `عَذاب` · punishment
-- [[rfE - we raised]] — `رَفَعَ` · we raised
-- [[>tY - comes them]] — `أَتَى` · comes them
+- [[srr - thrones]] — `سُرُر` · thrones
+- [[sEy - effort]] — `سَعْي` · effort
 - [[>rD - earth]] — `أَرْض` · earth
+- [[lys - not]] — `لَيْسَ` · not
+- [[Eyn - eyes]] — `عَيْن` · eyes
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[smE - we heard]] — `سَمِعَ` · we heard
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[xlq - created]] — `خَلَقَ` · created
+- [[jAryp - sailing]] — `جارِيَة` · sailing
+- [[ywm - day]] — `يَوْم` · day
+- [[nAr - fire]] — `نار` · fire
+- [[rADyp - pleasant]] — `راضِيَة` · pleasant
+- [[>kwAb - cups]] — `أَكْواب` · cups
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[jwE - hunger]] — `جُوع` · hunger
 
 ## Roots
 
-- [[*kr - remember]]
+- [[*kr - reminder]]
 - [[>bl - say]]
 - [[>ny - hours]]
 - [[>rD - earth]]

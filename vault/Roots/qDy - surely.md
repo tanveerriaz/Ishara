@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** surely · **Root:** قضي
 
+
 ### Words (wikilinks — these create the graph)
 - [[qDY - surely]]
 

@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** they step · **Root:** وطأ
 
+
 ### Words (wikilinks — these create the graph)
 - [[yT> - they step]]
 

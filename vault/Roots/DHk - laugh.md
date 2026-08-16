@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** laugh · **Root:** ضحك
 
+
 ### Words (wikilinks — these create the graph)
 - [[DHkt - laugh]]
 

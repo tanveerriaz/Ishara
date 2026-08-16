@@ -2,8 +2,8 @@
 type: word
 lemma: "مَيِّت"
 slug: "myt - dead"
-surah_count: 26
-ayah_count: 37
+surah_count: 22
+ayah_count: 32
 tags: [word, meaning]
 ---
 
@@ -19,7 +19,7 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **dead** · Lemma **مَيِّت**
 
-### Surahs (26)
+### Surahs (22)
 - [[002 Al-Baqarah]]
 - [[003 Ali Imran]]
 - [[005 Al-Maidah]]
@@ -31,7 +31,6 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[016 An-Nahl]]
 - [[022 Al-Hajj]]
 - [[023 Al-Muminun]]
-- [[025 Al-Furqan]]
 - [[027 An-Naml]]
 - [[030 Ar-Rum]]
 - [[035 Fatir]]
@@ -40,11 +39,9 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 - [[039 Az-Zumar]]
 - [[041 Fussilat]]
 - [[042 Ash-Shuraa]]
-- [[043 Az-Zukhruf]]
 - [[046 Al-Ahqaf]]
-- [[049 Al-Hujurat]]
-- [[050 Qaf]]
 - [[075 Al-Qiyamah]]
+- [[077 Al-Mursalat]]
 
 ## Verses (full text)
 
@@ -230,5 +227,5 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/6/95)
 
-_…and **27** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+_…and **22** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
 

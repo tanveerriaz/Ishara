@@ -11,12 +11,14 @@ tags: [root, meaning]
 
 **Sense:** guide · **Root:** هدي
 
+
 ### Words (wikilinks — these create the graph)
 - [[>hdY - better guided]]
 - [[AhtdY - guided]]
 - [[hAd - guide]]
 - [[hAdy - guide]]
 - [[hdY - guidance]]
+- [[hdY - guide]]
 - [[hdy - sacrificial animal]]
 - [[mhtd - guided one]]
 - [[mhtdy - guided ones]]

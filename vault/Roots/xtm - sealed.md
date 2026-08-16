@@ -11,6 +11,7 @@ tags: [root, meaning]
 
 **Sense:** sealed · **Root:** ختم
 
+
 ### Words (wikilinks — these create the graph)
 - [[xtm - sealed]]
 

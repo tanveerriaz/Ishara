@@ -3,7 +3,7 @@ type: word
 lemma: "رَجَمْ"
 slug: "rjm - surely"
 surah_count: 5
-ayah_count: 6
+ayah_count: 5
 tags: [word, meaning]
 ---
 
@@ -65,24 +65,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 **Urdu (Fatah Muhammad Jalandhari):** اگر وہ تم پر دسترس پالیں گے تو تمہیں سنگسار کردیں گے یا پھر اپنے مذہب میں داخل کرلیں گے اور اس وقت تم کبھی فلاح نہیں پاؤ گے
 
 [Open on Quran.com](https://quran.com/18/20)
-
-#### 18:22 · [[018 Al-Kahf]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-سَيَقُولُونَ ثَلَـٰثَةٌ رَّابِعُهُمْ كَلْبُهُمْ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًۢا بِٱلْغَيْبِ ۖ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْ ۚ قُل رَّبِّىٓ أَعْلَمُ بِعِدَّتِهِم مَّا يَعْلَمُهُمْ إِلَّا قَلِيلٌ ۗ فَلَا تُمَارِ فِيهِمْ إِلَّا مِرَآءً ظَـٰهِرًا وَلَا تَسْتَفْتِ فِيهِم مِّنْهُمْ أَحَدًا
-
-</div>
-
-**Word in this verse:** `رَجْمًۢا` — guessing
-
-**English (Sahih International):** They [i.e., people] will say there were three, the fourth of them being their dog; and they will say there were five, the sixth of them being their dog - guessing at the unseen; and they will say there were seven, and the eighth of them was their dog. Say, [O Muḥammad], "My Lord is most knowing of their number. None knows them except a few. So do not argue about them except with an obvious argument and do not inquire about them among [the speculators] from anyone."
-
-**English (Yusuf Ali):** (Some) say they were three, the dog being the fourth among them; (others) say they were five, the dog being the sixth,- doubtfully guessing at the unknown; (yet others) say they were seven, the dog being the eighth. Say thou: "My Lord knoweth best their number; It is but few that know their (real case)." Enter not, therefore, into controversies concerning them, except on a matter that is clear, nor consult any of them about (the affair of) the Sleepers.
-
-**Urdu (Fatah Muhammad Jalandhari):** (بعض لوگ) اٹکل پچو کہیں گے کہ وہ تین تھے (اور) چوتھا ان کا کتّا تھا۔ اور (بعض) کہیں گے کہ وہ پانچ تھے اور چھٹا ان کا کتّا تھا۔ اور (بعض) کہیں گے کہ وہ سات تھے اور آٹھواں ان کا کتّا تھا۔ کہہ دو کہ میرا پروردگار ہی ان کے شمار سے خوب واقف ہے ان کو جانتے بھی ہیں تو تھوڑے ہی لوگ (جانتے ہیں) تو تم ان (کے معاملے) میں گفتگو نہ کرنا مگر سرسری سی گفتگو۔ اور نہ ان کے بارے میں ان میں کسی سے کچھ دریافت ہی کرنا
-
-[Open on Quran.com](https://quran.com/18/22)
 
 #### 19:46 · [[019 Maryam]]
 

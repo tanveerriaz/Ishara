@@ -2,8 +2,8 @@
 type: word
 lemma: "مُسْتَقَرّ"
 slug: "mstqr - dwelling place"
-surah_count: 9
-ayah_count: 13
+surah_count: 7
+ayah_count: 10
 tags: [word, meaning]
 ---
 
@@ -19,15 +19,13 @@ Open **Local graph** — lines to the **root** and **surahs** below.
 ### Meaning
 **dwelling place** · Lemma **مُسْتَقَرّ**
 
-### Surahs (9)
+### Surahs (7)
 - [[002 Al-Baqarah]]
 - [[006 Al-Anam]]
 - [[007 Al-Araf]]
 - [[011 Hud]]
 - [[025 Al-Furqan]]
-- [[027 An-Naml]]
 - [[036 Ya-Sin]]
-- [[054 Al-Qamar]]
 - [[075 Al-Qiyamah]]
 
 ## Verses (full text)
@@ -178,24 +176,6 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/25/76)
 
-#### 27:40 · [[027 An-Naml]]
-
-<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
-
-قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّ كَرِيمٌ
-
-</div>
-
-**Word in this verse:** `مُسْتَقِرًّا` — placed
-
-**English (Sahih International):** Said one who had knowledge from the Scripture, "I will bring it to you before your glance returns to you." And when [Solomon] saw it placed before him, he said, "This is from the favor of my Lord to test me whether I will be grateful or ungrateful. And whoever is grateful - his gratitude is only for [the benefit of] himself. And whoever is ungrateful - then indeed, my Lord is Free of need and Generous."
-
-**English (Yusuf Ali):** Said one who had knowledge of the Book: "I will bring it to thee within the twinkling of an eye!" Then when (Solomon) saw it placed firmly before him, he said: "This is by the Grace of my Lord!- to test me whether I am grateful or ungrateful! and if any is grateful, truly his gratitude is (a gain) for his own soul; but if any is ungrateful, truly my Lord is Free of all Needs, Supreme in Honour!"
-
-**Urdu (Fatah Muhammad Jalandhari):** ایک شخص جس کو کتاب الہیٰ کا علم تھا کہنے لگا کہ میں آپ کی آنکھ کے جھپکنے سے پہلے پہلے اسے آپ کے پاس حاضر کئے دیتا ہوں۔ جب سلیمان نے تخت کو اپنے پاس رکھا ہوا دیکھا تو کہا کہ یہ میرے پروردگار کا فضل ہے تاکہ مجھے آزمائے کہ میں شکر کرتا ہوں یا کفران نعمت کرتا ہوں اور جو شکر کرتا ہے تو اپنے ہی فائدے کے لئے شکر کرتا ہے اور جو ناشکری کرتا ہے تو میرا پروردگار بےپروا (اور) کرم کرنے والا ہے
-
-[Open on Quran.com](https://quran.com/27/40)
-
 #### 36:38 · [[036 Ya-Sin]]
 
 <div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
@@ -214,5 +194,21 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
 
 [Open on Quran.com](https://quran.com/36/38)
 
-_…and **3** more verses with this word. Use Local graph / Surahs list, or search on Quran.com._
+#### 75:12 · [[075 Al-Qiyamah]]
+
+<div dir="rtl" style="font-size: 1.35rem; line-height: 1.9; text-align: right;">
+
+إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ
+
+</div>
+
+**Word in this verse:** `ٱلْمُسْتَقَرُّ` — (is) the place of rest
+
+**English (Sahih International):** To your Lord, that Day, is the [place of] permanence.
+
+**English (Yusuf Ali):** Before thy Lord (alone), that Day will be the place of rest.
+
+**Urdu (Fatah Muhammad Jalandhari):** اس روز پروردگار ہی کے پاس ٹھکانا ہے
+
+[Open on Quran.com](https://quran.com/75/12)
 
