@@ -14,31 +14,31 @@ The Pilgrimage · 78 ayahs
 
 ## Words in this surah (graph)
 
-- [[qwy - all-strong]] — `قَوِيّ` · all-strong
-- [[mnAfE - benefits]] — `مَنافِع` · benefits
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[>TEm - feed]] — `أَطْعَمَ` · feed
 - [[msmY - appointed]] — `مُسَمًّى` · appointed
 - [[tqwY - righteousness]] — `تَقْوَى` · righteousness
-- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[$EA}r - symbols]] — `شَعائِر` · symbols
+- [[ZAlmp - doing wrong]] — `ظالِمَة` · doing wrong
 - [[>*Aq - surely]] — `أَذاقَ` · surely
 - [[>mlY - dictated]] — `أَمْلَى` · dictated
 - [[Hryq - burning fire]] — `حَرِيق` · burning fire
-- [[ZAlmp - doing wrong]] — `ظالِمَة` · doing wrong
+- [[mnAfE - benefits]] — `مَنافِع` · benefits
 - [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[>TEm - feed]] — `أَطْعَمَ` · feed
 - [[mwlY - protector]] — `مَوْلَى` · protector
-- [[$EA}r - symbols]] — `شَعائِر` · symbols
-- [[bw> - post]] — `بَوَّأَ` · post
+- [[qwy - all-strong]] — `قَوِيّ` · all-strong
+- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[>*hb - remove]] — `أَذْهَبَ` · remove
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[smY - name them]] — `سَمَّى` · name them
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[sbyl - way]] — `سَبِيل` · way
+- [[Tyr - birds]] — `طَيْر` · birds
 - [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[DEf - double]] — `ضِعْف` · double
-- [[AstmE - listen]] — `اسْتَمَعَ` · listen
-- [[qDY - surely]] — `قَضَى` · surely
-- [[Ed - you count]] — `عَدَّ` · you count
-- [[nSrAny - christians]] — `نَصْرانِيّ` · christians
-- [[$r - evil]] — `شَرّ` · evil
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[mAt - died]] — `ماتَ` · died
-- [[Emy - blind]] — `عَمِيَ` · blind
-- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[Elm - know]] — `عَلِمَ` · know
 
 ## Roots
 

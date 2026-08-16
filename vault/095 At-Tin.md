@@ -14,28 +14,28 @@ The Fig · 8 ayahs
 
 ## Words in this surah (graph)
 
-- [[HAkm - judges]] — `حاكِم` · judges
-- [[bld - city]] — `بَلَد` · city
-- [[dyn - religion]] — `دِين` · religion
-- [[Twr - mount]] — `طُور` · mount
-- [[>jr - reward]] — `أَجْر` · reward
-- [[bEd - after]] — `بَعْد` · after
-- [[Eml - do]] — `عَمِلَ` · do
-- [[sAfl - its downside]] — `سافِل` · its downside
-- [[mmnwn - ending]] — `مَمْنُون` · ending
 - [[<nsAn - man]] — `إِنسان` · man
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[HAkm - judges]] — `حاكِم` · judges
+- [[>sfl - lowest]] — `أَسْفَل` · lowest
+- [[mmnwn - ending]] — `مَمْنُون` · ending
+- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
+- [[rd - returned]] — `رَدَّ` · returned
+- [[zytwn - olives]] — `زَيْتُون` · olives
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[lys - not]] — `لَيْسَ` · not
+- [[Eml - do]] — `عَمِلَ` · do
+- [[bEd - after]] — `بَعْد` · after
+- [[allah - God]] — `الله` · God
+- [[sAfl - its downside]] — `سافِل` · its downside
+- [[>jr - reward]] — `أَجْر` · reward
+- [[gyr - without]] — `غَيْر` · without
 - [[>Hsn - best]] — `أَحْسَن` · best
 - [[>myn - trustworthy]] — `أَمِين` · trustworthy
+- [[Twr - mount]] — `طُور` · mount
+- [[dyn - religion]] — `دِين` · religion
+- [[bld - city]] — `بَلَد` · city
 - [[xlq - creation]] — `خَلَقَ` · creation
-- [[rd - returned]] — `رَدَّ` · returned
-- [[allah - God]] — `الله` · God
-- [[lys - not]] — `لَيْسَ` · not
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[>sfl - lowest]] — `أَسْفَل` · lowest
-- [[gyr - without]] — `غَيْر` · without
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[zytwn - olives]] — `زَيْتُون` · olives
 
 ## Roots
 

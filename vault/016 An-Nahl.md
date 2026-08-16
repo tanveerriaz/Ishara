@@ -14,31 +14,31 @@ The Bee · 128 ayahs
 
 ## Words in this surah (graph)
 
-- [[lsAn - tongues]] — `لِسان` · tongues
-- [[jrm - doubt]] — `جَرَم` · doubt
-- [[bTn - bellies]] — `بَطْن` · bellies
 - [[Zl - shade]] — `ظِلّ` · shade
-- [[>sr - they conceal]] — `أَسَرَّ` · they conceal
-- [[sxr - subjected]] — `سَخِرَ` · subjected
-- [[tEAlY - exalted he]] — `تَعالَى` · exalted he
+- [[lsAn - tongues]] — `لِسان` · tongues
+- [[bTn - bellies]] — `بَطْن` · bellies
+- [[jrm - doubt]] — `جَرَم` · doubt
+- [[dm - blood]] — `دَم` · blood
+- [[nxyl - date-palms]] — `نَخِيل` · date-palms
 - [[nqDt - break]] — `نَقَضَتْ` · break
-- [[rwH - spirit]] — `رُوح` · spirit
-- [[>nvY - female]] — `أُنثَى` · female
+- [[r'wf - full kindness]] — `رَءُوف` · full kindness
+- [[sxr - subjected]] — `سَخِرَ` · subjected
+- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
 - [[lHm - flesh]] — `لَحْم` · flesh
 - [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[blAg - conveyance]] — `بَلاغ` · conveyance
-- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
-- [[b$rY - glad tidings]] — `بُشْرَى` · glad tidings
-- [[r'wf - full kindness]] — `رَءُوف` · full kindness
+- [[slm - peace]] — `سِلْم` · peace
 - [[ytfkr - reflect]] — `يَتَفَكَّرُ` · reflect
-- [[nxyl - date-palms]] — `نَخِيل` · date-palms
-- [[ySf - they attribute]] — `يَصِفُ` · they attribute
-- [[$rAb - drink]] — `شَراب` · drink
-- [[Enb - grapes]] — `عِنَب` · grapes
-- [[$jr - trees]] — `شَجَرَ` · trees
-- [[HlAl - lawful]] — `حَلال` · lawful
-- [[mxtlf - various]] — `مُخْتَلِف` · various
 - [[Hnyf - upright]] — `حَنِيف` · upright
+- [[HlAl - lawful]] — `حَلال` · lawful
+- [[tEAlY - exalted he]] — `تَعالَى` · exalted he
+- [[$jr - trees]] — `شَجَرَ` · trees
+- [[njm - stars]] — `نَجْم` · stars
+- [[Enb - grapes]] — `عِنَب` · grapes
+- [[mstkbr - arrogant]] — `مُسْتَكْبِر` · arrogant
+- [[>nvY - female]] — `أُنثَى` · female
+- [[ySf - they attribute]] — `يَصِفُ` · they attribute
+- [[mxtlf - various]] — `مُخْتَلِف` · various
+- [[dAbp - moving creature]] — `دابَّة` · moving creature
 
 ## Roots
 

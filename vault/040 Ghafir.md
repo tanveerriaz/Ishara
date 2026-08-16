@@ -14,31 +14,31 @@ The Forgiver · 85 ayahs
 
 ## Words in this surah (graph)
 
-- [[wqY - save us]] — `وَقَى` · save us
 - [[mtkbr - arrogant]] — `مُتَكَبِّر` · arrogant
-- [[wHd - alone]] — `وَحْد` · alone
+- [[wqY - save us]] — `وَقَى` · save us
 - [[Hmym - scalding water]] — `حَمِيم` · scalding water
-- [[E$y - evening]] — `عَشِيّ` · evening
-- [[qrAr - settlement]] — `قَرار` · settlement
 - [[mqt - hatred]] — `مَقْت` · hatred
-- [[HAq - enveloped]] — `حاقَ` · enveloped
+- [[qrAr - settlement]] — `قَرار` · settlement
+- [[wHd - alone]] — `وَحْد` · alone
+- [[E$y - evening]] — `عَشِيّ` · evening
 - [[sbb - course]] — `سَبَب` · course
-- [[k*Ab - liar]] — `كَذّاب` · liar
+- [[HAq - enveloped]] — `حاقَ` · enveloped
 - [[>vr - footsteps]] — `أَثَر` · footsteps
-- [[skn - dwell]] — `سَكَنَ` · dwell
-- [[qDY - surely]] — `قَضَى` · surely
-- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
-- [[gr - deceive you]] — `غَرَّ` · deceive you
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[tqlb - movement]] — `تَقَلُّب` · movement
-- [[Aty - surely coming]] — `آتِي` · surely coming
-- [[>$rk - associate]] — `أَشْرَكَ` · associate
-- [[DEyf - weak]] — `ضَعِيف` · weak
-- [[qwy - all-strong]] — `قَوِيّ` · all-strong
-- [[Swrp - forms]] — `صُورَة` · forms
-- [[hAd - guide]] — `هاد` · guide
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[hlk - died]] — `هَلَكَ` · died
+- [[k*Ab - liar]] — `كَذّاب` · liar
+- [[Twl - afford]] — `طَوْل` · afford
+- [[*nb - sins]] — `ذَنب` · sins
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[sbyl - way]] — `سَبِيل` · way
+- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
+- [[*ryp - offspring]] — `ذُرِّيَّة` · offspring
+- [[d>b - like way]] — `دَأْب` · like way
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[gl - shackles]] — `غَلَّ` · shackles
+- [[b>s - punishment]] — `بَأْس` · punishment
+- [[Elm - know]] — `عَلِمَ` · know
+- [[gfr - forgive]] — `غَفَرَ` · forgive
 
 ## Roots
 

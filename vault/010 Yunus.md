@@ -15,30 +15,30 @@ Jonah · 109 ayahs
 ## Words in this surah (graph)
 
 - [[sAHr - magician]] — `ساحِر` · magician
-- [[lqA' - meeting]] — `لِقاء` · meeting
 - [[mrjE - return]] — `مَرْجِع` · return
+- [[lqA' - meeting]] — `لِقاء` · meeting
 - [[njY - we saved]] — `نَجَّى` · we saved
 - [[>njY - we saved]] — `أَنجَى` · we saved
 - [[yrjwA - expect]] — `يَرْجُوا۟` · expect
+- [[sHr - magic]] — `سِحْر` · magic
 - [[qr'An - quran]] — `قُرْءان` · quran
 - [[Dr - adversity]] — `ضَرّ` · adversity
-- [[sHr - magic]] — `سِحْر` · magic
-- [[k$f - we removed]] — `كَشَفَ` · we removed
-- [[EAqbp - end]] — `عاقِبَة` · end
-- [[nhAr - day]] — `نَهار` · day
-- [[Sdq - truth]] — `صَدَقَ` · truth
-- [[yntZr - wait]] — `يَنتَظِرُ` · wait
-- [[lbv - you remained]] — `لَبِثَ` · you remained
 - [[*lp - humiliation]] — `ذِلَّة` · humiliation
-- [[$fyE - any intercessor]] — `شَفِيع` · any intercessor
-- [[>*Aq - surely]] — `أَذاقَ` · surely
-- [[>HAT - they encompass]] — `أَحاطَ` · they encompass
-- [[An - now]] — `آن` · now
-- [[sbHAn - glory]] — `سُبْحان` · glory
+- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
 - [[bd> - originates]] — `بَدَأَ` · originates
-- [[mjrm - criminals]] — `مُجْرِم` · criminals
-- [[mkAn - place]] — `مَكان` · place
-- [[bHr - sea]] — `بَحْر` · sea
+- [[xlyfp - successors]] — `خَلِيفَة` · successors
+- [[flk - ships]] — `فُلْك` · ships
+- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
+- [[yntZr - wait]] — `يَنتَظِرُ` · wait
+- [[EAqbp - end]] — `عاقِبَة` · end
+- [[Sdq - truth]] — `صَدَقَ` · truth
+- [[ydbr - disposing]] — `يُدَبِّرُ` · disposing
+- [[$k - doubt]] — `شَكّ` · doubt
+- [[mntZr - ones wait]] — `مُنتَظِر` · ones wait
+- [[qsT - justice]] — `قِسْط` · justice
+- [[k$f - we removed]] — `كَشَفَ` · we removed
+- [[msrf - transgressors]] — `مُسْرِف` · transgressors
 
 ## Roots
 

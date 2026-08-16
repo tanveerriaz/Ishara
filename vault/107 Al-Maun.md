@@ -14,15 +14,15 @@ The Small kindnesses · 7 ayahs
 
 ## Words in this surah (graph)
 
-- [[dyn - religion]] — `دِين` · religion
-- [[mskyn - needy]] — `مِسْكِين` · needy
-- [[mSly - pray]] — `مُصَلّي` · pray
-- [[SlAp - prayer]] — `صَلاة` · prayer
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[r>Y - you see]] — `رَأَى` · you see
 - [[mnE - prevented you]] — `مَنَعَ` · prevented you
-- [[ytym - orphans]] — `يَتِيم` · orphans
 - [[TEAm - food]] — `طَعام` · food
+- [[SlAp - prayer]] — `صَلاة` · prayer
+- [[ytym - orphans]] — `يَتِيم` · orphans
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[mSly - pray]] — `مُصَلّي` · pray
+- [[dyn - religion]] — `دِين` · religion
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[mskyn - needy]] — `مِسْكِين` · needy
 
 ## Roots
 

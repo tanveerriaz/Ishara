@@ -14,31 +14,31 @@ The Dawn · 30 ayahs
 
 ## Words in this surah (graph)
 
-- [[AbtlY - tried]] — `ابْتَلَى` · tried
 - [[>krm - make comfortable]] — `أَكْرَمَ` · make comfortable
-- [[qAl - say]] — `قالَ` · say
-- [[nEm - cattle]] — `نِعْمَ` · cattle
-- [[bld - city]] — `بَلَد` · city
-- [[>kvr - them]] — `أَكْثَر` · them
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[E$r - ten]] — `عَشْر` · ten
-- [[wAd - valley]] — `واد` · valley
-- [[mvl - example]] — `مَثَل` · example
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
-- [[ytym - orphans]] — `يَتِيم` · orphans
+- [[AbtlY - tried]] — `ابْتَلَى` · tried
+- [[>Hbb - love]] — `أَحْبَبْ` · love
+- [[fjr - dawn]] — `فَجْر` · dawn
+- [[TEAm - food]] — `طَعام` · food
 - [[lyl - night]] — `لَيْل` · night
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[mlk - angels]] — `مَلَك` · angels
-- [[*krY - reminder]] — `ذِكْرَى` · reminder
+- [[>wtAd - stakes]] — `أَوْتاد` · stakes
 - [[<nsAn - man]] — `إِنسان` · man
+- [[ytym - orphans]] — `يَتِيم` · orphans
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[>y - o you]] — `أَيّ` · o you
+- [[qdm - feet]] — `قَدَّمَ` · feet
+- [[*krY - reminder]] — `ذِكْرَى` · reminder
+- [[rb - lord]] — `رَبّ` · lord
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[Hb - grain]] — `حُبّ` · grain
+- [[rjE - return]] — `رَجَعَ` · return
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[mAl - wealth]] — `مال` · wealth
 - [[dxl - enter]] — `دَخَلَ` · enter
-- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[E$r - ten]] — `عَشْر` · ten
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
 - [[Hjr - stone]] — `حَجَر` · stone
-- [[TgY - has transgressed]] — `طَغَى` · has transgressed
-- [[rADyp - pleasant]] — `راضِيَة` · pleasant
-- [[kyf - how]] — `كَيْف` · how
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[fsAd - corruption]] — `فَساد` · corruption
+- [[EAd - aad]] — `عادَ` · aad
 
 ## Roots
 

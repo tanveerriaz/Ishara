@@ -14,31 +14,31 @@ The Prohibition · 12 ayahs
 
 ## Words in this surah (graph)
 
-- [[Erf - they recognize]] — `عَرَفَ` · they recognize
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[bkr - virgins]] — `بِكْر` · virgins
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
-- [[nwr - light]] — `نُور` · light
-- [[Amr>t - wife]] — `امْرَأَت` · wife
-- [[mwlY - protector]] — `مَوْلَى` · protector
-- [[twbp - repentance]] — `تَوْبَة` · repentance
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[mrDAt - pleasure]] — `مَرْضات` · pleasure
-- [[jzY - we recompense]] — `جَزَى` · we recompense
-- [[allah - God]] — `الله` · God
-- [[EsY - perhaps]] — `عَسَى` · perhaps
-- [[kl - every]] — `كُلّ` · every
-- [[xyr - better]] — `خَيْر` · better
-- [[qAntp - obedient]] — `قانِتَة` · obedient
-- [[>sr - they conceal]] — `أَسَرَّ` · they conceal
-- [[mslmp - submissive]] — `مُسَلَّمَة` · submissive
-- [[qwm - people]] — `قَوْم` · people
-- [[rb - lord]] — `رَبّ` · lord
-- [[rHym - merciful]] — `رَحِيم` · merciful
-- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
+- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[frD - undertakes]] — `فَرَضَ` · undertakes
 - [[sEY - strive]] — `سَعَى` · strive
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[xAn - betray]] — `خانُ` · betray
+- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
+- [[allah - God]] — `الله` · God
+- [[>HSnt - guarded]] — `أَحْصَنَتْ` · guarded
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[EsY - perhaps]] — `عَسَى` · perhaps
+- [[ybdl - would change them]] — `يُبْدِلَ` · would change them
+- [[nwr - light]] — `نُور` · light
+- [[yEt*r - make excuse]] — `يَعْتَذِرُ` · make excuse
+- [[Amr>t - wife]] — `امْرَأَت` · wife
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
+- [[jAhd - strive]] — `جاهَدَ` · strive
+- [[ymyn - oaths]] — `يَمِين` · oaths
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[twbp - repentance]] — `تَوْبَة` · repentance
+- [[nfx - will blown]] — `نَفَخَ` · will blown
+- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
+- [[Amn - believe]] — `آمَنَ` · believe
 
 ## Roots
 

@@ -15,30 +15,30 @@ Abraham · 52 ayahs
 ## Words in this surah (graph)
 
 - [[>xr - we delay]] — `أَخَّرَ` · we delay
-- [[$jrp - tree]] — `شَجَرَة` · tree
-- [[>skn - lodge them]] — `أَسْكَن` · lodge them
-- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[vmrp - fruits]] — `ثَمَرَة` · fruits
-- [[sxr - subjected]] — `سَخِرَ` · subjected
-- [[dEA' - call]] — `دُعاء` · call
 - [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[vmrp - fruits]] — `ثَمَرَة` · fruits
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
 - [[brz - they leave]] — `بَرَزَ` · they leave
 - [[wrA' - behind]] — `وَراء` · behind
-- [[qrAr - settlement]] — `قَرار` · settlement
+- [[$jrp - tree]] — `شَجَرَة` · tree
 - [[bEyd - far]] — `بَعِيد` · far
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[sxr - subjected]] — `سَخِرَ` · subjected
+- [[qrAr - settlement]] — `قَرار` · settlement
+- [[>skn - lodge them]] — `أَسْكَن` · lodge them
+- [[dEA' - call]] — `دُعاء` · call
 - [[tbE - follows]] — `تَبِعَ` · follows
 - [[$k - doubt]] — `شَكّ` · doubt
-- [[Ewj - crookedness]] — `عِوَج` · crookedness
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
+- [[<nsAn - man]] — `إِنسان` · man
+- [[mtwkl - trust]] — `مُتَوَكِّل` · trust
 - [[mkAn - place]] — `مَكان` · place
-- [[bHr - sea]] — `بَحْر` · sea
-- [[mwt - death]] — `مَوْت` · death
-- [[skn - dwell]] — `سَكَنَ` · dwell
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
-- [[mskn - dwellings]] — `مَسْكَن` · dwellings
-- [[>w*y - hurt]] — `أُوذِيَ` · hurt
-- [[qDY - surely]] — `قَضَى` · surely
+- [[swA' - it same]] — `سَواء` · it same
+- [[slAm - peace]] — `سَلام` · peace
+- [[AtY - give]] — `آتَى` · give
+- [[$ms - sun]] — `شَمْس` · sun
+- [[fEl - you do]] — `فَعَلَ` · you do
 
 ## Roots
 

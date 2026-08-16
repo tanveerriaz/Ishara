@@ -14,31 +14,31 @@ Originator · 45 ayahs
 
 ## Words in this surah (graph)
 
-- [[grwr - delusion]] — `غُرُور` · delusion
-- [[>*hb - remove]] — `أَذْهَبَ` · remove
-- [[yEmr - granted life]] — `يُعَمَّرُ` · granted life
 - [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
-- [[mxtlf - various]] — `مُخْتَلِف` · various
+- [[>*hb - remove]] — `أَذْهَبَ` · remove
 - [[$rk - associating partners]] — `شِرْك` · associating partners
+- [[mxtlf - various]] — `مُخْتَلِف` · various
+- [[grwr - delusion]] — `غُرُور` · delusion
 - [[lwn - colors]] — `لَوْن` · colors
 - [[$kwr - grateful]] — `شَكُور` · grateful
-- [[Zhr - backs]] — `ظَهْر` · backs
-- [[Hryr - will silk]] — `حَرِير` · will silk
-- [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[tlY - recited]] — `تَلَى` · recited
-- [[bHr - sea]] — `بَحْر` · sea
-- [[mwt - death]] — `مَوْت` · death
-- [[Hml - will bear]] — `حَمَلَ` · will bear
-- [[>xr - we delay]] — `أَخَّرَ` · we delay
-- [[kbyr - great]] — `كَبِير` · great
-- [[>jr - reward]] — `أَجْر` · reward
-- [[frAt - sweet]] — `فُرات` · sweet
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[qDY - surely]] — `قَضَى` · surely
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[nwr - light]] — `نُور` · light
-- [[flk - ships]] — `فُلْك` · ships
+- [[yEmr - granted life]] — `يُعَمَّرُ` · granted life
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
+- [[Hzn - sorrow]] — `حَزَن` · sorrow
+- [[n$wr - resurrection]] — `نُشُور` · resurrection
+- [[$ms - sun]] — `شَمْس` · sun
+- [[AtY - give]] — `آتَى` · give
+- [[>Dl - more astray]] — `أَضَلَّ` · more astray
+- [[nZr - see]] — `نَظَرَ` · see
+- [[>nvY - female]] — `أُنثَى` · female
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[>sAwr - bracelets]] — `أَساوِر` · bracelets
+- [[mAt - died]] — `ماتَ` · died
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[sHAb - clouds]] — `سَحاب` · clouds
+- [[>SHAb - companions]] — `أَصْحاب` · companions
 
 ## Roots
 

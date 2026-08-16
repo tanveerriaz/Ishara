@@ -17,28 +17,28 @@ The Night Journey · 111 ayahs
 - [[qr> - read]] — `قَرَأَ` · read
 - [[kfwr - ungrateful]] — `كَفُور` · ungrateful
 - [[kAd - almost]] — `كادَ` · almost
-- [[$r - evil]] — `شَرّ` · evil
-- [[mE*b - will punished]] — `مُعَذِّب` · will punished
-- [[xlAl - midst]] — `خِلال` · midst
-- [[msHwr - bewitched]] — `مَسْحُور` · bewitched
-- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
+- [[zEm - claim]] — `زَعَمَ` · claim
 - [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
-- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
 - [[lbv - you remained]] — `لَبِثَ` · you remained
-- [[>EmY - blind]] — `أَعْمَى` · blind
-- [[nfwr - aversion]] — `نُفُور` · aversion
+- [[m$ - walk]] — `مَشَ` · walk
+- [[mnE - prevented you]] — `مَنَعَ` · prevented you
+- [[xlAl - midst]] — `خِلال` · midst
+- [[kbr - old age]] — `كَبِّرْ` · old age
+- [[>bY - he refused]] — `أَبَى` · he refused
+- [[mlwm - blameworthy]] — `مَلُوم` · blameworthy
+- [[mE*b - will punished]] — `مُعَذِّب` · will punished
 - [[yrjwA - expect]] — `يَرْجُوا۟` · expect
 - [[>grq - we drowned]] — `أُغْرِقُ` · we drowned
-- [[>md - reinforces you]] — `أَمَدَّ` · reinforces you
+- [[>EmY - blind]] — `أَعْمَى` · blind
 - [[EZAm - bones]] — `عِظام` · bones
-- [[ms}wl - questioned]] — `مَسْئُول` · questioned
-- [[mlwm - blameworthy]] — `مَلُوم` · blameworthy
-- [[>bY - he refused]] — `أَبَى` · he refused
-- [[Enq - necks]] — `عُنُق` · necks
-- [[mnE - prevented you]] — `مَنَعَ` · prevented you
-- [[jAnb - side]] — `جانِب` · side
+- [[Elw - haughtiness]] — `عُلُوّ` · haughtiness
+- [[msHwr - bewitched]] — `مَسْحُور` · bewitched
 - [[x$yp - fear]] — `خَشْيَة` · fear
-- [[kbr - old age]] — `كَبِّرْ` · old age
+- [[nfwr - aversion]] — `نُفُور` · aversion
+- [[Enq - necks]] — `عُنُق` · necks
+- [[$r - evil]] — `شَرّ` · evil
+- [[jAnb - side]] — `جانِب` · side
+- [[xr - fell down]] — `خَرَّ` · fell down
 
 ## Roots
 

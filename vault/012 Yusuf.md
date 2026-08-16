@@ -18,27 +18,27 @@ Joseph · 111 ayahs
 - [[t>wyl - interpretation]] — `تَأْوِيل` · interpretation
 - [[kyl - measure]] — `كَيْل` · measure
 - [[Hdyv - statement]] — `حَدِيث` · statement
-- [[<xwp - brothers]] — `إِخْوَة` · brothers
-- [[kyd - plot]] — `كَيْد` · plot
 - [[sbE - seven]] — `سَبْع` · seven
+- [[kyd - plot]] — `كَيْد` · plot
 - [[HAfZ - guardians]] — `حافِظ` · guardians
-- [[bAb - gate]] — `باب` · gate
-- [[dbr - backs]] — `دُبُر` · backs
-- [[xAT} - sinners]] — `خاطِئ` · sinners
-- [[r'yA - vision]] — `رُءْيا` · vision
+- [[<xwp - brothers]] — `إِخْوَة` · brothers
 - [[>bwAn - parents]] — `أَبَوان` · parents
+- [[r'yA - vision]] — `رُءْيا` · vision
 - [[>jmE - all]] — `أَجْمَع` · all
+- [[xAT} - sinners]] — `خاطِئ` · sinners
+- [[dbr - backs]] — `دُبُر` · backs
+- [[bAb - gate]] — `باب` · gate
+- [[SAHb - companion]] — `صاحِب` · companion
+- [[yfty - explain me]] — `يُفْتِي` · explain me
+- [[Tyr - birds]] — `طَيْر` · birds
+- [[swl - have enticed]] — `سَوَّلَ` · have enticed
+- [[AwY - gave shelter]] — `آوَى` · gave shelter
+- [[sAjd - prostrating]] — `ساجِد` · prostrating
+- [[jAhl - ignorant]] — `جاهِل` · ignorant
+- [[xmr - intoxicants]] — `خَمْر` · intoxicants
 - [[Amr>t - wife]] — `امْرَأَت` · wife
 - [[mSr - egypt]] — `مِصْر` · egypt
-- [[>sr - they conceal]] — `أَسَرَّ` · they conceal
-- [[>DAE - allow lost]] — `أَضاعُ` · allow lost
-- [[Tyr - birds]] — `طَيْر` · birds
-- [[xmr - intoxicants]] — `خَمْر` · intoxicants
-- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
-- [[jAhl - ignorant]] — `جاهِل` · ignorant
-- [[>wfY - fulfil]] — `أَوْفَى` · fulfil
-- [[mvwY - abode]] — `مَثْوًى` · abode
-- [[DlAl - error]] — `ضَلال` · error
+- [[rAHm - merciful]] — `راحِم` · merciful
 
 ## Roots
 

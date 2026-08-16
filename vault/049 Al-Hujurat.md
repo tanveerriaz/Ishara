@@ -15,30 +15,30 @@ The Rooms · 18 ayahs
 ## Words in this surah (graph)
 
 - [[Swt - voice]] — `صَوْت` · voice
+- [[mqsT - act justly]] — `مُقْسِط` · act justly
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[>nvY - female]] — `أُنثَى` · female
+- [[Edl - justice]] — `عَدْل` · justice
+- [[>kl - eat]] — `أَكَلَ` · eat
 - [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[>jr - reward]] — `أَجْر` · reward
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[<HdY - one them]] — `إِحْدَى` · one them
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[EZym - great]] — `عَظِيم` · great
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
 - [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
-- [[qdm - feet]] — `قَدَّمَ` · feet
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[lHm - flesh]] — `لَحْم` · flesh
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[jhAlp - ignorance]] — `جَهالَة` · ignorance
-- [[nAdm - regretful]] — `نادِم` · regretful
-- [[HbT - became worthless]] — `حَبِطَ` · became worthless
+- [[sbyl - way]] — `سَبِيل` · way
 - [[allah - God]] — `الله` · God
+- [[>kvr - them]] — `أَكْثَر` · them
+- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[Axr - hereafter]] — `آخِر` · hereafter
 - [[EsY - perhaps]] — `عَسَى` · perhaps
-- [[kl - every]] — `كُلّ` · every
-- [[<xwp - brothers]] — `إِخْوَة` · brothers
+- [[En - distresses you]] — `عَنِ` · distresses you
+- [[>rD - earth]] — `أَرْض` · earth
+- [[Elm - know]] — `عَلِمَ` · know
 - [[SAdq - truthful]] — `صادِق` · truthful
-- [[nsA' - women]] — `نِساء` · women
-- [[>slm - submits]] — `أَسْلَمَ` · submits
-- [[xyr - better]] — `خَيْر` · better
-- [[fwq - above them]] — `فَوْق` · above them
-- [[nAdY - he called]] — `نادَى` · he called
-- [[Eql - use reason]] — `عَقَلُ` · use reason
+- [[<HdY - one them]] — `إِحْدَى` · one them
+- [[>SAb - befalls you]] — `أَصابَ` · befalls you
+- [[Aqttl - fight]] — `اقْتَتَلَ` · fight
 
 ## Roots
 

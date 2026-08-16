@@ -14,31 +14,31 @@ Those who drag forth · 46 ayahs
 
 ## Words in this surah (graph)
 
-- [[DHY - its brightness]] — `ضُحًى` · its brightness
-- [[TgY - has transgressed]] — `طَغَى` · has transgressed
 - [[kbrY - greatest]] — `كُبْرَى` · greatest
-- [[krp - return]] — `كَرَّة` · return
-- [[Avr - but prefer]] — `آثَرَ` · but prefer
-- [[x$y - fear]] — `خَشِيَ` · fear
+- [[TgY - has transgressed]] — `طَغَى` · has transgressed
+- [[DHY - its brightness]] — `ضُحًى` · its brightness
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[<nsAn - man]] — `إِنسان` · man
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[allah - God]] — `الله` · God
-- [[mA' - water]] — `ماء` · water
-- [[mqAm - place]] — `مَقام` · place
-- [[sbq - preceded]] — `سَبَقَ` · preceded
-- [[nAdY - he called]] — `نادَى` · he called
-- [[rb - lord]] — `رَبّ` · lord
 - [[sEY - strive]] — `سَعَى` · strive
-- [[>ElY - highest]] — `أَعْلَى` · highest
-- [[mn*r - warners]] — `مُنذِر` · warners
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[mrsY - its anchorage]] — `مُرْسَى` · its anchorage
-- [[bnY - children]] — `بُنَىّ` · children
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
 - [[>$d - stronger]] — `أَشَدّ` · stronger
-- [[ywm - day]] — `يَوْم` · day
+- [[nkAl - deterrent punishment]] — `نَكال` · deterrent punishment
+- [[allah - God]] — `الله` · God
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[hdY - guidance]] — `هَدَى` · guidance
 - [[Axr - hereafter]] — `آخِر` · hereafter
-- [[kAn - is]] — `كانَ` · is
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>rD - earth]] — `أَرْض` · earth
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[bSr - vision]] — `بَصَر` · vision
+- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[xA$E - humbled]] — `خاشِع` · humbled
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
+- [[mn*r - warners]] — `مُنذِر` · warners
+- [[xAf - fear]] — `خافَ` · fear
+- [[>x* - we took]] — `أَخَذَ` · we took
+- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
 
 ## Roots
 

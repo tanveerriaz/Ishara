@@ -17,10 +17,10 @@ Quraysh · 4 ayahs
 - [[Amn - believe]] — `آمَنَ` · believe
 - [[>TEm - feed]] — `أَطْعَمَ` · feed
 - [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[rb - lord]] — `رَبّ` · lord
 - [[jwE - hunger]] — `جُوع` · hunger
 - [[xwf - fear]] — `خَوْف` · fear
 - [[byt - houses]] — `بَيْت` · houses
-- [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 

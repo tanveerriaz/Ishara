@@ -16,29 +16,29 @@ The Resurrection · 40 ayahs
 
 - [[swY - proportioned it]] — `سَوَّى` · proportioned it
 - [[>wlY - woe]] — `أَوْلَى` · woe
-- [[>xr - we delay]] — `أَخَّرَ` · we delay
-- [[EAjlp - immediate]] — `عاجِلَة` · immediate
-- [[qr'An - quran]] — `قُرْءان` · quran
 - [[<nsAn - man]] — `إِنسان` · man
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[qdm - feet]] — `قَدَّمَ` · feet
-- [[qr> - read]] — `قَرَأَ` · read
-- [[lys - not]] — `لَيْسَ` · not
-- [[>HyA - gives life]] — `أَحْيا` · gives life
-- [[rb - lord]] — `رَبّ` · lord
-- [[qmr - moon]] — `قَمَر` · moon
-- [[>Hbb - love]] — `أَحْبَبْ` · love
-- [[bSyrp - enlightenment]] — `بَصِيرَة` · enlightenment
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[myt - dead]] — `مَيِّت` · dead
 - [[blg - he reached]] — `بَلَغَ` · he reached
-- [[mstqr - dwelling place]] — `مُسْتَقَرّ` · dwelling place
-- [[Ejl - calf]] — `عِجْل` · calf
+- [[$ms - sun]] — `شَمْس` · sun
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[>nvY - female]] — `أُنثَى` · female
 - [[wjh - faces]] — `وَجْه` · faces
-- [[ywm - day]] — `يَوْم` · day
 - [[Axr - hereafter]] — `آخِر` · hereafter
-- [[kAn - is]] — `كانَ` · is
+- [[bSr - vision]] — `بَصَر` · vision
+- [[>xr - we delay]] — `أَخَّرَ` · we delay
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[trk - we left]] — `تَرَكَ` · we left
+- [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
+- [[AtbE - follow]] — `اتَّبَعَ` · follow
+- [[>rAd - he intends]] — `أَرادَ` · he intends
+- [[*hb - gold]] — `ذَهَبَ` · gold
+- [[SlY - send blessings]] — `صَلَّى` · send blessings
+- [[byAn - declaration]] — `بَيان` · declaration
+- [[ywm - day]] — `يَوْم` · day
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[qAl - say]] — `قالَ` · say
+- [[Zn - assumption]] — `ظَنَّ` · assumption
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[jEl - we made]] — `جَعَلَ` · we made
 
 ## Roots
 

@@ -15,22 +15,22 @@ The Power · 5 ayahs
 ## Words in this surah (graph)
 
 - [[lylp - nights]] — `لَيْلَة` · nights
-- [[>lf - thousand]] — `أَلْف` · thousand
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
-- [[xyr - better]] — `خَيْر` · better
-- [[mlk - angels]] — `مَلَك` · angels
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[slAm - peace]] — `سَلام` · peace
 - [[fjr - dawn]] — `فَجْر` · dawn
-- [[$hr - months]] — `شَهْر` · months
-- [[kl - every]] — `كُلّ` · every
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
 - [[rwH - spirit]] — `رُوح` · spirit
 - [[>mr - command]] — `أَمَرَ` · command
-- [[mTlE - rising place]] — `مَطْلِع` · rising place
-- [[rb - lord]] — `رَبّ` · lord
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[slAm - peace]] — `سَلام` · peace
 - [[<*n - by permission]] — `إِذْن` · by permission
+- [[xyr - better]] — `خَيْر` · better
+- [[>lf - thousand]] — `أَلْف` · thousand
+- [[mlk - angels]] — `مَلَك` · angels
+- [[rb - lord]] — `رَبّ` · lord
+- [[mTlE - rising place]] — `مَطْلِع` · rising place
+- [[$hr - months]] — `شَهْر` · months
+- [[kl - every]] — `كُلّ` · every
 
 ## Roots
 

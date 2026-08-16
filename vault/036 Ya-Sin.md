@@ -16,29 +16,29 @@ Ya Sin · 83 ayahs
 
 - [[SyHp - shout]] — `صَيْحَة` · shout
 - [[mHDr - will brought]] — `مُحْضَر` · will brought
-- [[>nq* - would saved]] — `أَنقَذَ` · would saved
 - [[ynbgy - appropriate]] — `يَنۢبَغِي` · appropriate
-- [[AnthY - you desist]] — `انتَهَى` · you desist
-- [[Hml - will bear]] — `حَمَلَ` · will bear
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[>jr - reward]] — `أَجْر` · reward
-- [[qrn - generations]] — `قَرْن` · generations
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[fTr - created me]] — `فَطَرَ` · created me
-- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
+- [[>nq* - would saved]] — `أَنقَذَ` · would saved
 - [[ydE - they call]] — `يَدَّعُ` · they call
-- [[flk - ships]] — `فُلْك` · ships
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[jEl - we made]] — `جَعَلَ` · we made
+- [[>wqd - they kindled]] — `أَوْقَدُ` · they kindled
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[<nsAn - man]] — `إِنسان` · man
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[AxtSm - dispute]] — `اخْتَصَمُ` · dispute
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[qdm - feet]] — `قَدَّمَ` · feet
-- [[b$r - man]] — `بُشِّرَ` · man
-- [[ATyr - they ascribe evil]] — `اطَّيَّرْ` · they ascribe evil
-- [[$A' - he wills]] — `شاءَ` · he wills
+- [[swA' - it same]] — `سَواء` · it same
+- [[slAm - peace]] — `سَلام` · peace
+- [[$ms - sun]] — `شَمْس` · sun
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[nZr - see]] — `نَظَرَ` · see
+- [[>Dl - more astray]] — `أَضَلَّ` · more astray
+- [[sEY - strive]] — `سَعَى` · strive
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[>qSA - farthest end]] — `أَقْصا` · farthest end
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[AnthY - you desist]] — `انتَهَى` · you desist
+- [[allah - God]] — `الله` · God
+- [[>kvr - them]] — `أَكْثَر` · them
+- [[>Eln - they declare]] — `أَعْلَن` · they declare
+- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
+- [[jnp - gardens]] — `جَنَّة` · gardens
 
 ## Roots
 

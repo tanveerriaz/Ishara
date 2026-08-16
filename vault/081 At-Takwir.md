@@ -14,31 +14,31 @@ The Overthrowing · 29 ayahs
 
 ## Words in this surah (graph)
 
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[rswl - messenger]] — `رَسُول` · messenger
-- [[n$rt - will spread]] — `نُشِرَتْ` · will spread
-- [[bHr - sea]] — `بَحْر` · sea
-- [[njm - stars]] — `نَجْم` · stars
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[s>l - ask]] — `سَأَلَ` · ask
-- [[mkyn - firmly established]] — `مَكِين` · firmly established
-- [[*hb - gold]] — `ذَهَبَ` · gold
-- [[rjym - accursed]] — `رَجِيم` · accursed
-- [[End - near]] — `عِند` · near
-- [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[lyl - night]] — `لَيْل` · night
 - [[mbyn - clear]] — `مُبِين` · clear
-- [[Elm - know]] — `عَلِمَ` · know
-- [[krym - noble]] — `كَرِيم` · noble
+- [[lyl - night]] — `لَيْل` · night
+- [[qtl - kill]] — `قَتَلَ` · kill
+- [[>y - o you]] — `أَيّ` · o you
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[$ms - sun]] — `شَمْس` · sun
+- [[syrt - could moved]] — `سُيِّرَتْ` · could moved
+- [[SAHb - companion]] — `صاحِب` · companion
+- [[rb - lord]] — `رَبّ` · lord
+- [[*nb - sins]] — `ذَنب` · sins
+- [[n$rt - will spread]] — `نُشِرَتْ` · will spread
 - [[jwAr - ships]] — `جَوار` · ships
-- [[SbH - morning]] — `صُبْح` · morning
-- [[$yTAn - shaitaan]] — `شَيْطان` · shaitaan
-- [[>zlft - brought near]] — `أُزْلِفَتْ` · brought near
+- [[qwl - speech]] — `قَوْل` · speech
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
+- [[bHr - sea]] — `بَحْر` · sea
+- [[Er$ - throne]] — `عَرْش` · throne
+- [[>fq - horizons]] — `أُفُق` · horizons
+- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[rjym - accursed]] — `رَجِيم` · accursed
+- [[allah - God]] — `الله` · God
+- [[zwjt - paired]] — `زُوِّجَتْ` · paired
 - [[jnp - gardens]] — `جَنَّة` · gardens
 - [[jbl - mountains]] — `جَبَل` · mountains
-- [[syrt - could moved]] — `سُيِّرَتْ` · could moved
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
+- [[End - near]] — `عِند` · near
 
 ## Roots
 

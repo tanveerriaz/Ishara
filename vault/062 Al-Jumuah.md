@@ -15,30 +15,30 @@ The Congregation, Friday · 11 ayahs
 ## Words in this surah (graph)
 
 - [[ytmn - then wish]] — `يَتَمَنَّ` · then wish
-- [[tlY - recited]] — `تَلَى` · recited
-- [[mwt - death]] — `مَوْت` · death
-- [[Hml - will bear]] — `حَمَلَ` · will bear
-- [[>my - unlettered]] — `أُمِّيّ` · unlettered
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[qDY - surely]] — `قَضَى` · surely
-- [[EZym - great]] — `عَظِيم` · great
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[tjArp - commerce]] — `تِجارَة` · commerce
-- [[qdm - feet]] — `قَدَّمَ` · feet
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[frt - you flee]] — `فَرَّتْ` · you flee
-- [[allah - God]] — `الله` · God
-- [[SlAp - prayer]] — `صَلاة` · prayer
-- [[rAzq - providers]] — `رازِق` · providers
-- [[SAdq - truthful]] — `صادِق` · truthful
-- [[xyr - better]] — `خَيْر` · better
-- [[nAdY - he called]] — `نادَى` · he called
-- [[qwm - people]] — `قَوْم` · people
-- [[sEY - strive]] — `سَعَى` · strive
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[Ayp - signs]] — `آيَة` · signs
-- [[Eml - do]] — `عَمِلَ` · do
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[Hkmp - wisdom]] — `حِكْمَة` · wisdom
 - [[AtY - give]] — `آتَى` · give
+- [[zEm - claim]] — `زَعَمَ` · claim
+- [[sEY - strive]] — `سَعَى` · strive
+- [[rd - returned]] — `رَدَّ` · returned
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[qA}m - standing]] — `قائِم` · standing
+- [[allah - God]] — `الله` · God
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[qbl - before]] — `قَبْل` · before
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[>rD - earth]] — `أَرْض` · earth
+- [[>my - unlettered]] — `أُمِّيّ` · unlettered
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[Elm - know]] — `عَلِمَ` · know
+- [[SAdq - truthful]] — `صادِق` · truthful
+- [[qDY - surely]] — `قَضَى` · surely
+- [[>flH - successful]] — `أَفْلَحَ` · successful
+- [[lhw - amusement]] — `لَهْو` · amusement
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[$hAdp - witnessed]] — `شَهادَة` · witnessed
+- [[trk - we left]] — `تَرَكَ` · we left
 
 ## Roots
 

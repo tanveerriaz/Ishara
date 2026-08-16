@@ -14,31 +14,31 @@ The Rocky Tract · 99 ayahs
 
 ## Words in this surah (graph)
 
-- [[mElwm - known]] — `مَعْلُوم` · known
 - [[mrsl - messengers]] — `مُرْسَل` · messengers
+- [[mElwm - known]] — `مَعْلُوم` · known
+- [[mnZr - given respite]] — `مُنظَر` · given respite
+- [[Dyf - guests]] — `ضَيْف` · guests
+- [[qdr - restricts]] — `قَدَر` · restricts
 - [[rjym - accursed]] — `رَجِيم` · accursed
+- [[SyHp - shout]] — `صَيْحَة` · shout
+- [[sAjd - prostrating]] — `ساجِد` · prostrating
 - [[sjd - prostrate]] — `سَجَدَ` · prostrate
 - [[md - spread]] — `مَدَّ` · spread
-- [[Dyf - guests]] — `ضَيْف` · guests
 - [[mSbH - morning]] — `مُصْبِح` · morning
-- [[SyHp - shout]] — `صَيْحَة` · shout
-- [[mnZr - given respite]] — `مُنظَر` · given respite
-- [[sAjd - prostrating]] — `ساجِد` · prostrating
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[jAn - any jinn]] — `جانّ` · any jinn
-- [[gAwy - deviators]] — `غاوي` · deviators
-- [[wd - wished]] — `وَدَّ` · wished
-- [[qDY - surely]] — `قَضَى` · surely
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[Amr>t - wife]] — `امْرَأَت` · wife
-- [[sbEp - seven]] — `سَبْعَة` · seven
-- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
-- [[sAfl - its downside]] — `سافِل` · its downside
-- [[gAbr - remain behind]] — `غابِر` · remain behind
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[jEl - we made]] — `جَعَلَ` · we made
+- [[wqt - time]] — `وَقْت` · time
 - [[<nsAn - man]] — `إِنسان` · man
+- [[slAm - peace]] — `سَلام` · peace
+- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
+- [[AtY - give]] — `آتَى` · give
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[mqym - lasting]] — `مُقِيم` · lasting
+- [[glAm - boy]] — `غُلام` · boy
+- [[ynZr - will reprieved]] — `يُنظَرُ` · will reprieved
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[>jmE - all]] — `أَجْمَع` · all
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[xrj - come forth]] — `خَرَجَ` · come forth
 
 ## Roots
 

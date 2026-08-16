@@ -15,30 +15,30 @@ Family of Imran · 200 ayahs
 ## Words in this surah (graph)
 
 - [[Hsb - think]] — `حَسْب` · think
-- [[mAt - died]] — `ماتَ` · died
-- [[gfr - forgive]] — `غَفَرَ` · forgive
-- [[>SAb - befalls you]] — `أَصابَ` · befalls you
-- [[<ymAn - faith]] — `إِيمان` · faith
-- [[>TAE - obey]] — `أَطاعَ` · obey
-- [[qyAmp - resurrection]] — `قِيامَة` · resurrection
-- [[mslm - muslims]] — `مُسْلِم` · muslims
 - [[*nb - sins]] — `ذَنب` · sins
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[<ymAn - faith]] — `إِيمان` · faith
+- [[mAt - died]] — `ماتَ` · died
+- [[>SAb - befalls you]] — `أَصابَ` · befalls you
 - [[$hd - bear witness]] — `شَهِدَ` · bear witness
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[ms - touch]] — `مَسَّ` · touch
-- [[EZym - great]] — `عَظِيم` · great
-- [[kyf - how]] — `كَيْف` · how
-- [[b$r - man]] — `بُشِّرَ` · man
-- [[>lym - painful]] — `أَلِيم` · painful
-- [[rHmp - mercy]] — `رَحْمَة` · mercy
-- [[EAlm - worlds]] — `عالَم` · worlds
+- [[mslm - muslims]] — `مُسْلِم` · muslims
+- [[qyAmp - resurrection]] — `قِيامَة` · resurrection
 - [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[>hl - people]] — `أَهْل` · people
-- [[>jr - reward]] — `أَجْر` · reward
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[HAj - argued]] — `حاجَّ` · argued
 - [[yDr - harms them]] — `يَضُرَّ` · harms them
+- [[kyf - how]] — `كَيْف` · how
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[ms - touch]] — `مَسَّ` · touch
+- [[>hl - people]] — `أَهْل` · people
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[HAj - argued]] — `حاجَّ` · argued
+- [[rHmp - mercy]] — `رَحْمَة` · mercy
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[>jr - reward]] — `أَجْر` · reward
+- [[b$r - man]] — `بُشِّرَ` · man
+- [[jmE - two hosts]] — `جَمَعَ` · two hosts
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[>lym - painful]] — `أَلِيم` · painful
 
 ## Roots
 

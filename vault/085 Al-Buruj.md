@@ -15,30 +15,30 @@ The Mansions of the Stars · 22 ayahs
 ## Words in this surah (graph)
 
 - [[mjyd - glorious]] — `مَجِيد` · glorious
-- [[m&mn - believers]] — `مُؤْمِن` · believers
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[$dyd - severe]] — `شَدِيد` · severe
-- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[kbyr - great]] — `كَبِير` · great
+- [[ftn - we tried]] — `فَتَنُ` · we tried
+- [[qtl - kill]] — `قَتَلَ` · kill
+- [[nAr - fire]] — `نار` · fire
+- [[qEwd - sitting]] — `قُعُود` · sitting
 - [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
 - [[$Y' - thing]] — `شَىْء` · thing
-- [[qEwd - sitting]] — `قُعُود` · sitting
-- [[tAb - repent]] — `تابَ` · repent
-- [[Eml - do]] — `عَمِلَ` · do
-- [[mlk - angels]] — `مَلَك` · angels
+- [[m&mn - believers]] — `مُؤْمِن` · believers
 - [[rb - lord]] — `رَبّ` · lord
-- [[bT$ - you seize]] — `بَطَشْ` · you seize
-- [[wrA' - behind]] — `وَراء` · behind
-- [[nqm - you resent]] — `نَقَمُ` · you resent
-- [[qr'An - quran]] — `قُرْءان` · quran
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[kl - every]] — `كُلّ` · every
+- [[ybd} - allah originates]] — `يُبْدِئُ` · allah originates
+- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
 - [[wqwd - fuel]] — `وَقُود` · fuel
-- [[nAr - fire]] — `نار` · fire
-- [[Hryq - burning fire]] — `حَرِيق` · burning fire
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[jry - flow]] — `جَرَيْ` · flow
+- [[wrA' - behind]] — `وَراء` · behind
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[Er$ - throne]] — `عَرْش` · throne
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[Eml - do]] — `عَمِلَ` · do
+- [[allah - God]] — `الله` · God
+- [[fwz - success]] — `فَوْز` · success
 - [[jnp - gardens]] — `جَنَّة` · gardens
+- [[nhr - rivers]] — `نَهَر` · rivers
 - [[tHt - underneath it]] — `تَحْت` · underneath it
-- [[ywm - day]] — `يَوْم` · day
 
 ## Roots
 

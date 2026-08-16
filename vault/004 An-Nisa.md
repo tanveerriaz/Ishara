@@ -16,29 +16,29 @@ The Women · 176 ayahs
 
 - [[kfY - sufficient]] — `كَفَى` · sufficient
 - [[nSyb - share]] — `نَصِيب` · share
-- [[mbyn - clear]] — `مُبِين` · clear
 - [[rjAl - men]] — `رِجال` · men
-- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[mbyn - clear]] — `مُبِين` · clear
 - [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
 - [[xAf - fear]] — `خافَ` · fear
-- [[trk - we left]] — `تَرَكَ` · we left
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
 - [[ytym - orphans]] — `يَتِيم` · orphans
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[Dl - lost]] — `ضَلَّ` · lost
+- [[trk - we left]] — `تَرَكَ` · we left
 - [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[sw' - evil]] — `سُوء` · evil
-- [[nSyr - any helper]] — `نَصِير` · any helper
-- [[>Dl - more astray]] — `أَضَلَّ` · more astray
 - [[ymyn - oaths]] — `يَمِين` · oaths
+- [[sw' - evil]] — `سُوء` · evil
+- [[Dl - lost]] — `ضَلَّ` · lost
+- [[nSyr - any helper]] — `نَصِير` · any helper
+- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
 - [[lEn - curse them]] — `لَعَنَ` · curse them
-- [[Hsnp - good]] — `حَسَنَة` · good
+- [[>Dl - more astray]] — `أَضَلَّ` · more astray
 - [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
-- [[nkH - marry]] — `نَكَحَ` · marry
+- [[Hdyv - statement]] — `حَدِيث` · statement
 - [[fAH$p - immorality]] — `فاحِشَة` · immorality
-- [[wld - children]] — `وَلَد` · children
-- [[Hkm - judgment]] — `حَكَمَ` · judgment
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[DlAl - error]] — `ضَلال` · error
+- [[>Hsn - best]] — `أَحْسَن` · best
+- [[wrv - will inherit]] — `وَرِثَ` · will inherit
+- [[Hsnp - good]] — `حَسَنَة` · good
+- [[mlkt - possess]] — `مَلَكَتْ` · possess
+- [[Sd - hinder]] — `صَدّ` · hinder
 
 ## Roots
 

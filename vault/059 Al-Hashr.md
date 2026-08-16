@@ -14,31 +14,31 @@ The Exile · 24 ayahs
 
 ## Words in this surah (graph)
 
-- [[$Aq - opposes]] — `شاقُّ` · opposes
-- [[mtkbr - arrogant]] — `مُتَكَبِّر` · arrogant
-- [[AnthY - you desist]] — `انتَهَى` · you desist
-- [[Avr - but prefer]] — `آثَرَ` · but prefer
-- [[yHtsb - taken account]] — `يَحْتَسِبُ` · taken account
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[$tY - diverse]] — `شَتَّى` · diverse
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[yfqh - understand]] — `يَفْقَهُ` · understand
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[<nsAn - man]] — `إِنسان` · man
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[qryb - near]] — `قَرِيب` · near
+- [[slAm - peace]] — `سَلام` · peace
+- [[AtY - give]] — `آتَى` · give
+- [[$Aq - opposes]] — `شاقُّ` · opposes
+- [[nZr - see]] — `نَظَرَ` · see
+- [[wbAl - bad consequence]] — `وَبال` · bad consequence
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[dAr - home]] — `دار` · home
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[>$d - stronger]] — `أَشَدّ` · stronger
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[qdm - feet]] — `قَدَّمَ` · feet
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[>$rk - associate]] — `أَشْرَكَ` · associate
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[qrbY - relatives]] — `قُرْبَى` · relatives
+- [[sbyl - way]] — `سَبِيل` · way
+- [[qTE - cut off]] — `قُطِعَ` · cut off
+- [[AnthY - you desist]] — `انتَهَى` · you desist
 - [[allah - God]] — `الله` · God
-- [[nSr - help]] — `نَصَرَ` · help
-- [[kl - every]] — `كُلّ` · every
-- [[ktb - prescribed]] — `كَتَبَ` · prescribed
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[gl - shackles]] — `غَلَّ` · shackles
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[qbl - before]] — `قَبْل` · before
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[Abn - son]] — `ابْن` · son
+- [[>rD - earth]] — `أَرْض` · earth
 
 ## Roots
 

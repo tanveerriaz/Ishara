@@ -14,31 +14,31 @@ The Ranks · 14 ayahs
 
 ## Words in this surah (graph)
 
-- [[mskn - dwellings]] — `مَسْكَن` · dwellings
-- [[>w*y - hurt]] — `أُوذِيَ` · hurt
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[nwr - light]] — `نُور` · light
-- [[dEA - call]] — `دَعا` · call
-- [[EZym - great]] — `عَظِيم` · great
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[qryb - near]] — `قَرِيب` · near
-- [[>njY - we saved]] — `أَنجَى` · we saved
-- [[tjArp - commerce]] — `تِجارَة` · commerce
-- [[b$r - man]] — `بُشِّرَ` · man
-- [[Tybp - good things]] — `طَيِّبَة` · good things
+- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
+- [[zAg - deviated]] — `زاغَ` · deviated
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[dl - direct you]] — `دَلَّ` · direct you
+- [[*nb - sins]] — `ذَنب` · sins
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[sbyl - way]] — `سَبِيل` · way
+- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
 - [[allah - God]] — `الله` · God
-- [[nSr - help]] — `نَصَرَ` · help
-- [[kl - every]] — `كُلّ` · every
-- [[xyr - better]] — `خَيْر` · better
+- [[>Tf> - extinguish]] — `أَطْفَأَ` · extinguish
 - [[bnyAn - building]] — `بُنْيان` · building
-- [[TA}fp - group]] — `طائِفَة` · group
-- [[qwm - people]] — `قَوْم` · people
-- [[>Hbb - love]] — `أَحْبَبْ` · love
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[krh - unwillingly]] — `كُرْه` · unwillingly
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[qAtl - fight]] — `قاتَلَ` · fight
-- [[Asm - name]] — `اسْم` · name
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[Abn - son]] — `ابْن` · son
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>rD - earth]] — `أَرْض` · earth
+- [[nwr - light]] — `نُور` · light
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[Elm - know]] — `عَلِمَ` · know
+- [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[Sf - rows]] — `صَفّ` · rows
+- [[mbyn - clear]] — `مُبِين` · clear
+- [[jAhd - strive]] — `جاهَدَ` · strive
 
 ## Roots
 

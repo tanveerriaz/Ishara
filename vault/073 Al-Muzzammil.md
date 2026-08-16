@@ -15,30 +15,30 @@ The Enshrouded One · 20 ayahs
 ## Words in this surah (graph)
 
 - [[nSf - half]] — `نِصْف` · half
-- [[>jr - reward]] — `أَجْر` · reward
-- [[qAm - stand]] — `قامَ` · stand
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[kyf - how]] — `كَيْف` · how
-- [[qdm - feet]] — `قَدَّمَ` · feet
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[qr> - read]] — `قَرَأَ` · read
-- [[allah - God]] — `الله` · God
-- [[SlAp - prayer]] — `صَلاة` · prayer
-- [[xyr - better]] — `خَيْر` · better
-- [[TA}fp - group]] — `طائِفَة` · group
-- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
-- [[rb - lord]] — `رَبّ` · lord
-- [[rHym - merciful]] — `رَحِيم` · merciful
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[zkAp - zakah]] — `زَكاة` · zakah
-- [[Asm - name]] — `اسْم` · name
-- [[m$rq - east]] — `مَشْرِق` · east
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[qAtl - fight]] — `قاتَلَ` · fight
-- [[>$d - stronger]] — `أَشَدّ` · stronger
 - [[AtY - give]] — `آتَى` · give
+- [[qlyl - little]] — `قَلِيل` · little
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[>$d - stronger]] — `أَشَدّ` · stronger
+- [[sbyl - way]] — `سَبِيل` · way
+- [[zAd - increase]] — `زادَ` · increase
+- [[allah - God]] — `الله` · God
+- [[qyl - saying]] — `قِيل` · saying
+- [[$Ahd - witnesses]] — `شاهِد` · witnesses
+- [[Atx* - take]] — `اتَّخَذَ` · take
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[>qrD - you loan]] — `أَقْرَضُ` · you loan
+- [[>qwm - more suitable]] — `أَقْوَم` · more suitable
+- [[>rD - earth]] — `أَرْض` · earth
+- [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[Elm - know]] — `عَلِمَ` · know
+- [[zkAp - zakah]] — `زَكاة` · zakah
+- [[wlyd - children]] — `وَلِيد` · children
+- [[TEAm - food]] — `طَعام` · food
+- [[ynqS - decrease]] — `يُنقَصُ` · decrease
+- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
+- [[qAtl - fight]] — `قاتَلَ` · fight
+- [[>x* - we took]] — `أَخَذَ` · we took
+- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
 
 ## Roots
 

@@ -14,31 +14,31 @@ The Overwhelming · 26 ayahs
 
 ## Words in this surah (graph)
 
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[sqY - water]] — `سَقَى` · water
-- [[mrfwEp - raised]] — `مَرْفُوعَة` · raised
-- [[sEy - effort]] — `سَعْي` · effort
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[rfE - we raised]] — `رَفَعَ` · we raised
-- [[srr - thrones]] — `سُرُر` · thrones
-- [[jAryp - sailing]] — `جارِيَة` · sailing
-- [[nZr - see]] — `نَظَرَ` · see
-- [[E*b - punishes]] — `عَذَّبَ` · punishes
-- [[rADyp - pleasant]] — `راضِيَة` · pleasant
-- [[>kwAb - cups]] — `أَكْواب` · cups
-- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
+- [[>kbr - greater]] — `أَكْبَر` · greater
+- [[TEAm - food]] — `طَعام` · food
 - [[nAr - fire]] — `نار` · fire
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[wjh - faces]] — `وَجْه` · faces
-- [[kyf - how]] — `كَيْف` · how
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[sEy - effort]] — `سَعْي` · effort
+- [[jwE - hunger]] — `جُوع` · hunger
+- [[nZr - see]] — `نَظَرَ` · see
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[>kwAb - cups]] — `أَكْواب` · cups
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[lys - not]] — `لَيْسَ` · not
+- [[sqY - water]] — `سَقَى` · water
+- [[srr - thrones]] — `سُرُر` · thrones
+- [[smE - hearing]] — `سَمْع` · hearing
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[allah - God]] — `الله` · God
 - [[jnp - gardens]] — `جَنَّة` · gardens
 - [[jbl - mountains]] — `جَبَل` · mountains
-- [[ywm - day]] — `يَوْم` · day
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[xA$E - humbled]] — `خاشِع` · humbled
-- [[>kbr - greater]] — `أَكْبَر` · greater
+- [[Hdyv - statement]] — `حَدِيث` · statement
+- [[jAryp - sailing]] — `جارِيَة` · sailing
+- [[Eyn - eyes]] — `عَيْن` · eyes
+- [[wjh - faces]] — `وَجْه` · faces
+- [[E*Ab - punishment]] — `عَذاب` · punishment
+- [[rfE - we raised]] — `رَفَعَ` · we raised
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>rD - earth]] — `أَرْض` · earth
 
 ## Roots
 

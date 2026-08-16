@@ -15,30 +15,30 @@ The Most High · 19 ayahs
 ## Words in this surah (graph)
 
 - [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[>ElY - highest]] — `أَعْلَى` · highest
-- [[Avr - but prefer]] — `آثَرَ` · but prefer
-- [[Asm - name]] — `اسْم` · name
-- [[>bqY - more lasting]] — `أَبْقَى` · more lasting
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[qdr - restricts]] — `قَدَر` · restricts
-- [[*krY - reminder]] — `ذِكْرَى` · reminder
-- [[nfE - benefit]] — `نَفَعَ` · benefit
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[HY - we live]] — `حَىَّ` · we live
-- [[jhr - loud]] — `جَهْر` · loud
-- [[>$qY - wretched one]] — `أَشْقَى` · wretched one
-- [[Elm - know]] — `عَلِمَ` · know
-- [[swY - proportioned it]] — `سَوَّى` · proportioned it
-- [[mAt - died]] — `ماتَ` · died
+- [[dnyA - world]] — `دُنْيا` · world
 - [[nAr - fire]] — `نار` · fire
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
+- [[qdr - restricts]] — `قَدَر` · restricts
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[ysr - ease]] — `يُسْر` · ease
+- [[*krY - reminder]] — `ذِكْرَى` · reminder
+- [[>wl - first]] — `أَوَّل` · first
+- [[rb - lord]] — `رَبّ` · lord
+- [[*kr - remember]] — `ذَكَرَ` · remember
+- [[mAt - died]] — `ماتَ` · died
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[kbrY - greatest]] — `كُبْرَى` · greatest
+- [[xyr - better]] — `خَيْر` · better
+- [[allah - God]] — `الله` · God
+- [[HY - we live]] — `حَىَّ` · we live
+- [[HyAp - life]] — `حَياة` · life
+- [[Avr - but prefer]] — `آثَرَ` · but prefer
+- [[hdY - guidance]] — `هَدَى` · guidance
 - [[yxfY - hidden]] — `يَخْفَى` · hidden
 - [[Axr - hereafter]] — `آخِر` · hereafter
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[>wl - first]] — `أَوَّل` · first
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[SlY - send blessings]] — `صَلَّى` · send blessings
 
 ## Roots
 

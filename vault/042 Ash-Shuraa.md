@@ -14,31 +14,31 @@ The Consultation · 53 ayahs
 
 ## Words in this surah (graph)
 
-- [[HfyZ - guardian]] — `حَفِيظ` · guardian
-- [[m$fq - fearful]] — `مُشْفِق` · fearful
-- [[mrd - return]] — `مَرَدّ` · return
-- [[Ely - high]] — `عَلِيّ` · high
-- [[>nAb - turns]] — `أَنابَ` · turns
-- [[Hjp - argument]] — `حُجَّة` · argument
-- [[tfrq - divided]] — `تَفَرَّقَ` · divided
 - [[AntSr - defend themselves]] — `انتَصَرَ` · defend themselves
+- [[tfrq - divided]] — `تَفَرَّقَ` · divided
 - [[$kwr - grateful]] — `شَكُور` · grateful
-- [[Zhr - backs]] — `ظَهْر` · backs
-- [[n$rt - will spread]] — `نُشِرَتْ` · will spread
-- [[bHr - sea]] — `بَحْر` · sea
-- [[qDY - surely]] — `قَضَى` · surely
-- [[kbyr - great]] — `كَبِير` · great
-- [[>jr - reward]] — `أَجْر` · reward
-- [[fTr - created me]] — `فَطَرَ` · created me
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[bsT - extends]] — `بَسَطَ` · extends
-- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
-- [[whb - grant]] — `وَهَبَ` · grant
-- [[nwr - light]] — `نُور` · light
-- [[qr'An - quran]] — `قُرْءان` · quran
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[twbp - repentance]] — `تَوْبَة` · repentance
-- [[dEA - call]] — `دَعا` · call
+- [[>nAb - turns]] — `أَنابَ` · turns
+- [[HfyZ - guardian]] — `حَفِيظ` · guardian
+- [[Ely - high]] — `عَلِيّ` · high
+- [[mrd - return]] — `مَرَدّ` · return
+- [[Hjp - argument]] — `حُجَّة` · argument
+- [[m$fq - fearful]] — `مُشْفِق` · fearful
+- [[ryb - doubt]] — `رَيْب` · doubt
+- [[<nsAn - man]] — `إِنسان` · man
+- [[Axtlf - differ]] — `اخْتَلَفَ` · differ
+- [[AtY - give]] — `آتَى` · give
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[wAqE - would fall]] — `واقِع` · would fall
+- [[mqym - lasting]] — `مُقِيم` · lasting
+- [[>Dl - more astray]] — `أَضَلَّ` · more astray
+- [[nZr - see]] — `نَظَرَ` · see
+- [[>nvY - female]] — `أُنثَى` · female
+- [[Edl - justice]] — `عَدْل` · justice
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[jwAr - ships]] — `جَوار` · ships
+- [[fryq - party]] — `فَرِيق` · party
+- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
+- [[nSyb - share]] — `نَصِيب` · share
 
 ## Roots
 

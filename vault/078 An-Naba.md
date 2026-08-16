@@ -16,29 +16,29 @@ The Tidings · 40 ayahs
 
 - [[k*Ab - liar]] — `كَذّاب` · liar
 - [[mAb - place return]] — `مَآب` · place return
-- [[>trAb - well-matched]] — `أَتْراب` · well-matched
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[mhAd - resting place]] — `مِهاد` · resting place
+- [[ytklm - will speak]] — `يَتَكَلَّمُ` · will speak
+- [[nZr - see]] — `نَظَرَ` · see
 - [[lgw - vain talk]] — `لَغْو` · vain talk
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[$Y' - thing]] — `شَىْء` · thing
+- [[zAd - increase]] — `زادَ` · increase
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[Atx* - take]] — `اتَّخَذَ` · take
+- [[nbAt - vegetation]] — `نَبات` · vegetation
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>rD - earth]] — `أَرْض` · earth
+- [[fwj - troop]] — `فَوْج` · troop
+- [[Elm - know]] — `عَلِمَ` · know
+- [[bAb - gate]] — `باب` · gate
+- [[Sf - rows]] — `صَفّ` · rows
+- [[xlq - creation]] — `خَلَقَ` · creation
 - [[Swr - trumpet]] — `صَوَّرَ` · trumpet
-- [[qAm - stand]] — `قامَ` · stand
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[EZym - great]] — `عَظِيم` · great
+- [[nfx - will blown]] — `نَفَخَ` · will blown
+- [[Hmym - scalding water]] — `حَمِيم` · scalding water
+- [[Hb - grain]] — `حُبّ` · grain
 - [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[qryb - near]] — `قَرِيب` · near
-- [[qdm - feet]] — `قَدَّمَ` · feet
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[>wtAd - stakes]] — `أَوْتاد` · stakes
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[mA' - water]] — `ماء` · water
-- [[ETA' - gift]] — `عَطاء` · gift
-- [[kl - every]] — `كُلّ` · every
-- [[fwq - above them]] — `فَوْق` · above them
-- [[srAj - lamp]] — `سِراج` · lamp
-- [[rb - lord]] — `رَبّ` · lord
-- [[jzA' - recompense]] — `جَزاء` · recompense
-- [[smA' - heavens]] — `سَماء` · heavens
+- [[Ayp - signs]] — `آيَة` · signs
+- [[mxtlf - various]] — `مُخْتَلِف` · various
 
 ## Roots
 

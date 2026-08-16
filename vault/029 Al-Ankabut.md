@@ -14,31 +14,31 @@ The Spider · 69 ayahs
 
 ## Words in this surah (graph)
 
-- [[gAbr - remain behind]] — `غابِر` · remain behind
-- [[jHd - they reject]] — `جَحَدُ` · they reject
 - [[jwAb - answer]] — `جَواب` · answer
-- [[bw> - post]] — `بَوَّأَ` · post
-- [[tlY - recited]] — `تَلَى` · recited
-- [[mwt - death]] — `مَوْت` · death
-- [[Hml - will bear]] — `حَمَلَ` · will bear
-- [[mskn - dwellings]] — `مَسْكَن` · dwellings
-- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
-- [[EAml - working]] — `عامِل` · working
-- [[>w*y - hurt]] — `أُوذِيَ` · hurt
-- [[>jr - reward]] — `أَجْر` · reward
-- [[EAm - years]] — `عام` · years
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[Amr>t - wife]] — `امْرَأَت` · wife
-- [[whb - grant]] — `وَهَبَ` · grant
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[bsT - extends]] — `بَسَطَ` · extends
-- [[flk - ships]] — `فُلْك` · ships
-- [[nbwp - prophethood]] — `نُبُوَّة` · prophethood
-- [[mhlk - destruction]] — `مُهْلِك` · destruction
+- [[jHd - they reject]] — `جَحَدُ` · they reject
+- [[gAbr - remain behind]] — `غابِر` · remain behind
+- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
 - [[<nsAn - man]] — `إِنسان` · man
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[ysyr - easy]] — `يَسِير` · easy
-- [[dEA - call]] — `دَعا` · call
+- [[AtY - give]] — `آتَى` · give
+- [[$ms - sun]] — `شَمْس` · sun
+- [[nZr - see]] — `نَظَرَ` · see
+- [[*nb - sins]] — `ذَنب` · sins
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[jAvm - fallen prone]] — `جاثِم` · fallen prone
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[dAr - home]] — `دار` · home
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[wAldy - parents]] — `والِدَي` · parents
+- [[sbyl - way]] — `سَبِيل` · way
+- [[qTE - cut off]] — `قُطِعَ` · cut off
+- [[allah - God]] — `الله` · God
+- [[>kvr - them]] — `أَكْثَر` · them
+- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
+- [[*ryp - offspring]] — `ذُرِّيَّة` · offspring
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
 
 ## Roots
 

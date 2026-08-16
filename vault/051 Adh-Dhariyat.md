@@ -14,31 +14,31 @@ The Winnowing Winds · 60 ayahs
 
 ## Words in this surah (graph)
 
-- [[mjnwn - madman]] — `مَجْنُون` · madman
 - [[Eqym - barren]] — `عَقِيم` · barren
-- [[mlwm - blameworthy]] — `مَلُوم` · blameworthy
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[Amr>t - wife]] — `امْرَأَت` · wife
-- [[Et - were insolent]] — `عَتَ` · were insolent
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[qrb - both offered]] — `قَرَّبَ` · both offered
-- [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[b$r - man]] — `بُشِّرَ` · man
-- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[mjnwn - madman]] — `مَجْنُون` · madman
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[ysr - ease]] — `يُسْر` · ease
-- [[>wjs - felt apprehension]] — `أَوْجَسَ` · felt apprehension
-- [[frt - you flee]] — `فَرَّتْ` · you flee
-- [[allah - God]] — `الله` · God
-- [[msrf - transgressors]] — `مُسْرِف` · transgressors
+- [[slAm - peace]] — `سَلام` · peace
+- [[AtY - give]] — `آتَى` · give
+- [[jn - covered]] — `جَنَّ` · covered
+- [[wAqE - would fall]] — `واقِع` · would fall
 - [[glAm - boy]] — `غُلام` · boy
-- [[kl - every]] — `كُلّ` · every
+- [[qlyl - little]] — `قَلِيل` · little
+- [[ym - sea]] — `يَمّ` · sea
+- [[nZr - see]] — `نَظَرَ` · see
+- [[>kl - eat]] — `أَكَلَ` · eat
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[qA}m - standing]] — `قائِم` · standing
+- [[allah - God]] — `الله` · God
+- [[jnp - gardens]] — `جَنَّة` · gardens
 - [[Ax* - take it]] — `آخِذ` · take it
-- [[SAdq - truthful]] — `صادِق` · truthful
-- [[EAd - aad]] — `عادَ` · aad
-- [[jnd - hosts]] — `جُند` · hosts
-- [[mslm - muslims]] — `مُسْلِم` · muslims
-- [[mjrm - criminals]] — `مُجْرِم` · criminals
+- [[jAryp - sailing]] — `جارِيَة` · sailing
+- [[wjh - faces]] — `وَجْه` · faces
+- [[qbl - before]] — `قَبْل` · before
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>rD - earth]] — `أَرْض` · earth
 
 ## Roots
 

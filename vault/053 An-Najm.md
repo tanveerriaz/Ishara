@@ -17,28 +17,28 @@ The Star · 62 ayahs
 - [[hwY - desire]] — `هَوَى` · desire
 - [[smY - name them]] — `سَمَّى` · name them
 - [[tmAr - argue]] — `تُمارِ` · argue
-- [[njm - stars]] — `نَجْم` · stars
-- [[sEy - effort]] — `سَعْي` · effort
-- [[gwY - erred]] — `غَوَى` · erred
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
+- [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[bkt - weeping]] — `بَكَتْ` · weeping
 - [[<nsAn - man]] — `إِنسان` · man
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[tmnY - he recited]] — `تَمَنَّى` · he recited
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[zAg - deviated]] — `زاغَ` · deviated
+- [[SAHb - companion]] — `صاحِب` · companion
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[qlyl - little]] — `قَلِيل` · little
+- [[>nvY - female]] — `أُنثَى` · female
+- [[sEY - strive]] — `سَعَى` · strive
+- [[kbrY - greatest]] — `كُبْرَى` · greatest
+- [[>sA' - does evil]] — `أَساءَ` · does evil
+- [[>fq - horizons]] — `أُفُق` · horizons
+- [[wAsE - all-encompassing]] — `واسِع` · all-encompassing
+- [[sbyl - way]] — `سَبِيل` · way
 - [[allah - God]] — `الله` · God
-- [[lys - not]] — `لَيْسَ` · not
 - [[kbyrp - great]] — `كَبِيرَة` · great
-- [[EAd - aad]] — `عادَ` · aad
-- [[AhtdY - guided]] — `اهْتَدَى` · guided
-- [[>HyA - gives life]] — `أَحْيا` · gives life
-- [[qwm - people]] — `قَوْم` · people
-- [[rb - lord]] — `رَبّ` · lord
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[tmnY - he recited]] — `تَمَنَّى` · he recited
+- [[SHf - scriptures]] — `صُحُف` · scriptures
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[Axr - hereafter]] — `آخِر` · hereafter
 
 ## Roots
 

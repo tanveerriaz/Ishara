@@ -15,30 +15,30 @@ The Table Spread · 120 ayahs
 ## Words in this surah (graph)
 
 - [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[nb> - news]] — `نَبَّأَ` · news
-- [[jzA' - recompense]] — `جَزاء` · recompense
 - [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
+- [[nb> - news]] — `نَبَّأَ` · news
 - [[>SbH - they became]] — `أَصْبَحَ` · they became
-- [[rjl - man]] — `رَجُل` · man
+- [[jzA' - recompense]] — `جَزاء` · recompense
 - [[nwr - light]] — `نُور` · light
+- [[EdAwp - enmity]] — `عَداوَة` · enmity
 - [[E*b - punishes]] — `عَذَّبَ` · punishes
 - [[yhwd - jews]] — `يَهُود` · jews
 - [[mlkt - possess]] — `مَلَكَتْ` · possess
-- [[Hrm - made unlawful]] — `حَرَّمَ` · made unlawful
-- [[TEAm - food]] — `طَعام` · food
 - [[xAsr - losers]] — `خاسِر` · losers
-- [[EdAwp - enmity]] — `عَداوَة` · enmity
-- [[dAm - as long as]] — `دامُ` · as long as
-- [[nSrAny - christians]] — `نَصْرانِيّ` · christians
-- [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[>m - mother]] — `أُمّ` · mother
-- [[hdy - sacrificial animal]] — `هَدْي` · sacrificial animal
-- [[mHsn - good-doers]] — `مُحْسِن` · good-doers
+- [[rjl - man]] — `رَجُل` · man
+- [[TEAm - food]] — `طَعام` · food
+- [[Hrm - made unlawful]] — `حَرَّمَ` · made unlawful
+- [[>flH - successful]] — `أَفْلَحَ` · successful
 - [[bgDA' - hatred]] — `بَغْضاء` · hatred
-- [[>hwA' - desires]] — `أَهْواء` · desires
-- [[Dl - lost]] — `ضَلَّ` · lost
-- [[yH*r - warns you]] — `يَحْذَرُ` · warns you
+- [[dAm - as long as]] — `دامُ` · as long as
+- [[ysArE - hasten]] — `يُسارِعُ` · hasten
 - [[>qsm - i swear]] — `أَقْسَمُ` · i swear
+- [[hdy - sacrificial animal]] — `هَدْي` · sacrificial animal
+- [[msyH - messiah]] — `مَسِيح` · messiah
+- [[Dl - lost]] — `ضَلَّ` · lost
+- [[swA' - it same]] — `سَواء` · it same
+- [[>m - mother]] — `أُمّ` · mother
+- [[yH*r - warns you]] — `يَحْذَرُ` · warns you
 
 ## Roots
 

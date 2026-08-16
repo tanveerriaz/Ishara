@@ -14,31 +14,31 @@ The Ant · 93 ayahs
 
 ## Words in this surah (graph)
 
-- [[wqE - became incumbent]] — `وَقَعَ` · became incumbent
+- [[mdbr - fleeing]] — `مُدْبِر` · fleeing
 - [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[>*lp - weak]] — `أَذِلَّة` · weak
-- [[jnd - hosts]] — `جُند` · hosts
 - [[fzE - terror]] — `فَزَع` · terror
 - [[ywqn - certain]] — `يُوقِنُ` · certain
-- [[mdbr - fleeing]] — `مُدْبِر` · fleeing
+- [[wqE - became incumbent]] — `وَقَعَ` · became incumbent
 - [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
-- [[skn - dwell]] — `سَكَنَ` · dwell
-- [[Dyq - distress]] — `ضَيِّق` · distress
-- [[mskn - dwellings]] — `مَسْكَن` · dwellings
+- [[>*lp - weak]] — `أَذِلَّة` · weak
+- [[jnd - hosts]] — `جُند` · hosts
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[yfty - explain me]] — `يُفْتِي` · explain me
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[fryq - party]] — `فَرِيق` · party
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[jwAb - answer]] — `جَواب` · answer
+- [[*bH - you slaughter]] — `ذُبِحَ` · you slaughter
+- [[sbyl - way]] — `سَبِيل` · way
+- [[Tyr - birds]] — `طَيْر` · birds
+- [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[EsY - perhaps]] — `عَسَى` · perhaps
+- [[fwj - troop]] — `فَوْج` · troop
+- [[b>s - punishment]] — `بَأْس` · punishment
+- [[Elm - know]] — `عَلِمَ` · know
 - [[qDY - surely]] — `قَضَى` · surely
-- [[Amr>t - wife]] — `امْرَأَت` · wife
-- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[AdArk - arrested]] — `ادّارَكَ` · arrested
-- [[rHmn - gracious]] — `رَحْمٰن` · gracious
-- [[>njY - we saved]] — `أَنجَى` · we saved
-- [[Emy - blind]] — `عَمِيَ` · blind
-- [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[>$rk - associate]] — `أَشْرَكَ` · associate
-- [[qwy - all-strong]] — `قَوِيّ` · all-strong
-- [[br - land]] — `بِرّ` · land
-- [[$hwp - passions]] — `شَهَوَة` · passions
-- [[xlAl - midst]] — `خِلال` · midst
+- [[bd> - originates]] — `بَدَأَ` · originates
 
 ## Roots
 

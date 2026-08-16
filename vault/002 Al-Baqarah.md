@@ -14,31 +14,31 @@ The Cow · 286 ayahs
 
 ## Words in this surah (graph)
 
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[ktAb - book]] — `كِتاب` · book
-- [[mErwf - fair manner]] — `مَعْرُوف` · fair manner
-- [[Hq - truth]] — `حَقّ` · truth
-- [[nAr - fire]] — `نار` · fire
-- [[qlb - hearts]] — `قَلْب` · hearts
-- [[mAl - wealth]] — `مال` · wealth
-- [[dnyA - world]] — `دُنْيا` · world
-- [[AtqY - fear]] — `اتَّقَى` · fear
-- [[>tY - comes them]] — `أَتَى` · comes them
 - [[fEl - you do]] — `فَعَلَ` · you do
-- [[qbl - before]] — `قَبْل` · before
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[xyr - better]] — `خَيْر` · better
-- [[Eml - do]] — `عَمِلَ` · do
-- [[kAn - is]] — `كانَ` · is
-- [[fDl - bounty]] — `فَضَّلَ` · bounty
 - [[sbyl - way]] — `سَبِيل` · way
-- [[mvl - example]] — `مَثَل` · example
-- [[byn - between them]] — `بَيْن` · between them
+- [[Elm - know]] — `عَلِمَ` · know
 - [[Amn - believe]] — `آمَنَ` · believe
+- [[byn - between them]] — `بَيْن` · between them
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[mvl - example]] — `مَثَل` · example
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[kAfr - disbelievers]] — `كافِر` · disbelievers
+- [[dnyA - world]] — `دُنْيا` · world
+- [[qtl - kill]] — `قَتَلَ` · kill
+- [[mAl - wealth]] — `مال` · wealth
+- [[Elym - all-knower]] — `عَلِيم` · all-knower
+- [[qbl - before]] — `قَبْل` · before
+- [[>rD - earth]] — `أَرْض` · earth
 - [[>y - o you]] — `أَيّ` · o you
-- [[s>l - ask]] — `سَأَلَ` · ask
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[qlb - hearts]] — `قَلْب` · hearts
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[Eml - do]] — `عَمِلَ` · do
+- [[jnAH - blame]] — `جُناح` · blame
+- [[bEd - after]] — `بَعْد` · after
+- [[End - near]] — `عِند` · near
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[fDl - bounty]] — `فَضَّلَ` · bounty
 
 ## Roots
 

@@ -14,21 +14,21 @@ The Divine Support · 3 ayahs
 
 ## Words in this surah (graph)
 
-- [[Astgfr - ask forgiveness]] — `اسْتَغْفَرَ` · ask forgiveness
-- [[kAn - is]] — `كانَ` · is
-- [[dxl - enter]] — `دَخَلَ` · enter
-- [[jA' - came them]] — `جاءَ` · came them
-- [[allah - God]] — `الله` · God
-- [[nAs - people]] — `ناس` · people
-- [[dyn - religion]] — `دِين` · religion
-- [[twAb - oft-returning]] — `تَوّاب` · oft-returning
 - [[Hmd - all praise]] — `حَمْد` · all praise
-- [[nSr - help]] — `نَصَرَ` · help
 - [[sbH - glorify]] — `سَبَّحَ` · glorify
-- [[r>Y - you see]] — `رَأَى` · you see
+- [[Astgfr - ask forgiveness]] — `اسْتَغْفَرَ` · ask forgiveness
+- [[nAs - people]] — `ناس` · people
+- [[dxl - enter]] — `دَخَلَ` · enter
 - [[ftH - victory]] — `فَتَحَ` · victory
+- [[twAb - oft-returning]] — `تَوّاب` · oft-returning
+- [[nSr - help]] — `نَصَرَ` · help
+- [[jA' - came them]] — `جاءَ` · came them
+- [[dyn - religion]] — `دِين` · religion
+- [[kAn - is]] — `كانَ` · is
 - [[rb - lord]] — `رَبّ` · lord
 - [[fwj - troop]] — `فَوْج` · troop
+- [[allah - God]] — `الله` · God
+- [[r>Y - you see]] — `رَأَى` · you see
 
 ## Roots
 

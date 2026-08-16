@@ -16,29 +16,29 @@ The Troops · 75 ayahs
 
 - [[mvwY - abode]] — `مَثْوًى` · abode
 - [[hAd - guide]] — `هاد` · guide
+- [[yxwf - frightens you]] — `يُخَوِّفُ` · frightens you
+- [[xznt - its keepers]] — `خَزَنَت` · its keepers
+- [[mtkbr - arrogant]] — `مُتَكَبِّر` · arrogant
 - [[syq - will driven]] — `سِيقَ` · will driven
 - [[>nAb - turns]] — `أَنابَ` · turns
-- [[mtkbr - arrogant]] — `مُتَكَبِّر` · arrogant
 - [[bdA - will appear]] — `بَدا` · will appear
-- [[xznt - its keepers]] — `خَزَنَت` · its keepers
-- [[yxwf - frightens you]] — `يُخَوِّفُ` · frightens you
+- [[mtwkl - trust]] — `مُتَوَكِّل` · trust
+- [[SEq - unconscious]] — `صَعِق` · unconscious
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[*nb - sins]] — `ذَنب` · sins
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[sbyl - way]] — `سَبِيل` · way
 - [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[AstmE - listen]] — `اسْتَمَعَ` · listen
-- [[mwt - death]] — `مَوْت` · death
-- [[EAml - working]] — `عامِل` · working
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[vlAv - three]] — `ثُلاث` · three
+- [[nwr - light]] — `نُور` · light
+- [[Elm - know]] — `عَلِمَ` · know
+- [[gfr - forgive]] — `غَفَرَ` · forgive
 - [[qDY - surely]] — `قَضَى` · surely
-- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[mAt - died]] — `ماتَ` · died
-- [[>nq* - would saved]] — `أَنقَذَ` · would saved
-- [[>$rk - associate]] — `أَشْرَكَ` · associate
-- [[Eql - use reason]] — `عَقَلُ` · use reason
-- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
-- [[>ndAd - rivals]] — `أَنداد` · rivals
-- [[qmr - moon]] — `قَمَر` · moon
-- [[rHym - merciful]] — `رَحِيم` · merciful
-- [[myt - dead]] — `مَيِّت` · dead
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[qnT - despair]] — `قَنَطُ` · despair
+- [[msmY - appointed]] — `مُسَمًّى` · appointed
+- [[xsrAn - loss]] — `خُسْران` · loss
 
 ## Roots
 

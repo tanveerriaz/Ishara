@@ -16,29 +16,29 @@ The Wind-Curved Sandhills · 35 ayahs
 
 - [[wAldy - parents]] — `والِدَي` · parents
 - [[dAEy - caller]] — `داعِي` · caller
-- [[>jybt - respond]] — `أُجِيبَت` · respond
 - [[<fk - lie]] — `إِفْك` · lie
-- [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[tlY - recited]] — `تَلَى` · recited
-- [[AstmE - listen]] — `اسْتَمَعَ` · listen
-- [[Hml - will bear]] — `حَمَلَ` · will bear
-- [[mskn - dwellings]] — `مَسْكَن` · dwellings
-- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
-- [[qDY - surely]] — `قَضَى` · surely
-- [[xwf - fear]] — `خَوْف` · fear
-- [[qrn - generations]] — `قَرْن` · generations
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[qr'An - quran]] — `قُرْءان` · quran
+- [[>jybt - respond]] — `أُجِيبَت` · respond
+- [[f&Ad - hearts]] — `فُؤاد` · hearts
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
 - [[<nsAn - man]] — `إِنسان` · man
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[dEA - call]] — `دَعا` · call
-- [[EZym - great]] — `عَظِيم` · great
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[>wHY - we revealed]] — `أَوْحَى` · we revealed
-- [[>ry - show me]] — `أَرَيْ` · show me
-- [[Tybp - good things]] — `طَيِّبَة` · good things
-- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[blg - he reached]] — `بَلَغَ` · he reached
+- [[jn - covered]] — `جَنَّ` · covered
+- [[Asthz} - mock]] — `اسْتُهْزِئَ` · mock
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[>Dl - more astray]] — `أَضَلَّ` · more astray
+- [[*nb - sins]] — `ذَنب` · sins
+- [[>*hb - remove]] — `أَذْهَبَ` · remove
+- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
+- [[ErD - its width]] — `عَرَضَ` · its width
+- [[>SHAb - companions]] — `أَصْحاب` · companions
+- [[>$d - stronger]] — `أَشَدّ` · stronger
+- [[allah - God]] — `الله` · God
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[AstgAv - seek help]] — `اسْتَغاثَ` · seek help
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[tdry - i know]] — `تَدْرِي` · i know
+- [[*ryp - offspring]] — `ذُرِّيَّة` · offspring
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
 
 ## Roots
 

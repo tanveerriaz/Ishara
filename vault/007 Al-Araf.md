@@ -16,29 +16,29 @@ The Heights · 206 ayahs
 
 - [[ml> - chiefs]] — `مَلَأ` · chiefs
 - [[nAdY - he called]] — `نادَى` · he called
-- [[rsAlp - messages]] — `رِسالَة` · messages
-- [[>njY - we saved]] — `أَنجَى` · we saved
-- [[EAd - aad]] — `عادَ` · aad
 - [[rHm - receive mercy]] — `رَحِمَ` · receive mercy
-- [[EAqbp - end]] — `عاقِبَة` · end
-- [[qTE - cut off]] — `قُطِعَ` · cut off
-- [[sAHr - magician]] — `ساحِر` · magician
-- [[>*n - ears]] — `أُذُن` · ears
-- [[xlf - behind them]] — `خَلْف` · behind them
-- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
-- [[qS - we relate]] — `قَصَّ` · we relate
-- [[sw'p - shame]] — `سَوْءَة` · shame
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[mfsd - corrupters]] — `مُفْسِد` · corrupters
+- [[>njY - we saved]] — `أَنجَى` · we saved
+- [[rsAlp - messages]] — `رِسالَة` · messages
+- [[EAd - aad]] — `عادَ` · aad
 - [[b>s - punishment]] — `بَأْس` · punishment
 - [[qryp - town]] — `قَرْيَة` · town
+- [[sw'p - shame]] — `سَوْءَة` · shame
+- [[mfsd - corrupters]] — `مُفْسِد` · corrupters
+- [[EAqbp - end]] — `عاقِبَة` · end
 - [[Eyn - eyes]] — `عَيْن` · eyes
+- [[sAHr - magician]] — `ساحِر` · magician
+- [[t*kr - remember]] — `تَذَكَّرَ` · remember
 - [[>hlk - we destroyed]] — `أَهْلَكَ` · we destroyed
-- [[skn - dwell]] — `سَكَنَ` · dwell
-- [[$jrp - tree]] — `شَجَرَة` · tree
-- [[Hsnp - good]] — `حَسَنَة` · good
-- [[>fsd - spread corruption]] — `أَفْسَدُ` · spread corruption
-- [[fAH$p - immorality]] — `فاحِشَة` · immorality
+- [[qTE - cut off]] — `قُطِعَ` · cut off
+- [[qS - we relate]] — `قَصَّ` · we relate
+- [[xlf - behind them]] — `خَلْف` · behind them
+- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
+- [[>*n - ears]] — `أُذُن` · ears
+- [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
+- [[>wrv - we caused inherit]] — `أَوْرَثَ` · we caused inherit
+- [[gDb - wrath]] — `غَضَب` · wrath
+- [[fSl - we explain]] — `فَصَلَ` · we explain
+- [[>n*r - warn]] — `أَنذَرَ` · warn
 
 ## Roots
 

@@ -15,30 +15,30 @@ The Cleaving · 19 ayahs
 ## Words in this surah (graph)
 
 - [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[bHr - sea]] — `بَحْر` · sea
-- [[Edl - justice]] — `عَدْل` · justice
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[dyn - religion]] — `دِين` · religion
-- [[>xr - we delay]] — `أَخَّرَ` · we delay
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[mlkt - possess]] — `مَلَكَتْ` · possess
-- [[rkb - embark]] — `رَكْب` · embark
-- [[kwkb - stars]] — `كَوْكَب` · stars
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[qbr - graves]] — `قَبْر` · graves
-- [[gr - deceive you]] — `غَرَّ` · deceive you
+- [[fjrt - we caused gush]] — `فُجِّرَتْ` · we caused gush
+- [[>y - o you]] — `أَيّ` · o you
 - [[<nsAn - man]] — `إِنسان` · man
-- [[Elm - know]] — `عَلِمَ` · know
-- [[krym - noble]] — `كَرِيم` · noble
-- [[swY - proportioned it]] — `سَوَّى` · proportioned it
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[br - land]] — `بِرّ` · land
 - [[qdm - feet]] — `قَدَّمَ` · feet
-- [[ywm - day]] — `يَوْم` · day
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[fjAr - wicked]] — `فُجّار` · wicked
+- [[HAfZ - guardians]] — `حافِظ` · guardians
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[Swrp - forms]] — `صُورَة` · forms
 - [[kAtb - scribe]] — `كاتِب` · scribe
+- [[rb - lord]] — `رَبّ` · lord
+- [[fEl - you do]] — `فَعَلَ` · you do
+- [[fjAr - wicked]] — `فُجّار` · wicked
+- [[Edl - justice]] — `عَدْل` · justice
+- [[rkb - embark]] — `رَكْب` · embark
+- [[bHr - sea]] — `بَحْر` · sea
+- [[nEym - delight]] — `نَعِيم` · delight
 - [[allah - God]] — `الله` · God
+- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[>mr - command]] — `أَمَرَ` · command
+- [[mlkt - possess]] — `مَلَكَتْ` · possess
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[kwkb - stars]] — `كَوْكَب` · stars
+- [[qbr - graves]] — `قَبْر` · graves
 
 ## Roots
 

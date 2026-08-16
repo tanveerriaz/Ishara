@@ -14,31 +14,31 @@ The Sundering · 25 ayahs
 
 ## Words in this surah (graph)
 
-- [[An$q - splits asunder]] — `انشَقَّ` · splits asunder
-- [[>*n - ears]] — `أُذُن` · ears
-- [[Zhr - backs]] — `ظَهْر` · backs
-- [[smA' - heavens]] — `سَماء` · heavens
-- [[Anqlb - turns back]] — `انقَلَبَ` · turns back
-- [[>jr - reward]] — `أَجْر` · reward
-- [[rkb - embark]] — `رَكْب` · embark
-- [[Eml - do]] — `عَمِلَ` · do
-- [[Zn - assumption]] — `ظَنَّ` · assumption
-- [[AtY - give]] — `آتَى` · give
+- [[ktAb - book]] — `كِتاب` · book
 - [[lyl - night]] — `لَيْل` · night
-- [[mmnwn - ending]] — `مَمْنُون` · ending
-- [[ymyn - oaths]] — `يَمِين` · oaths
-- [[qr'An - quran]] — `قُرْءان` · quran
+- [[>y - o you]] — `أَيّ` · o you
 - [[<nsAn - man]] — `إِنسان` · man
-- [[ysyr - easy]] — `يَسِير` · easy
-- [[wrA' - behind]] — `وَراء` · behind
-- [[dEA - call]] — `دَعا` · call
+- [[ymyn - oaths]] — `يَمِين` · oaths
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[AtY - give]] — `آتَى` · give
+- [[rb - lord]] — `رَبّ` · lord
+- [[mmnwn - ending]] — `مَمْنُون` · ending
 - [[sjd - prostrate]] — `سَجَدَ` · prostrate
-- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
+- [[>Elm - knowing]] — `أَعْلَم` · knowing
+- [[md - spread]] — `مَدَّ` · spread
+- [[>hl - people]] — `أَهْل` · people
+- [[dEA - call]] — `دَعا` · call
 - [[qmr - moon]] — `قَمَر` · moon
-- [[HAsb - reckoners]] — `حاسَبْ` · reckoners
-- [[>lqY - throw]] — `أَلْقَى` · throw
-- [[sEyr - blaze]] — `سَعِير` · blaze
+- [[wrA' - behind]] — `وَراء` · behind
+- [[rkb - embark]] — `رَكْب` · embark
+- [[>lym - painful]] — `أَلِيم` · painful
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[Eml - do]] — `عَمِلَ` · do
+- [[bSyr - all-seer]] — `بَصِير` · all-seer
+- [[allah - God]] — `الله` · God
+- [[Tbq - stage]] — `طَبَق` · stage
+- [[ysyr - easy]] — `يَسِير` · easy
 
 ## Roots
 

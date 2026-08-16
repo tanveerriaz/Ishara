@@ -15,23 +15,23 @@ The Opener · 7 ayahs
 ## Words in this surah (graph)
 
 - [[rHmn - gracious]] — `رَحْمٰن` · gracious
+- [[SrAT - path]] — `صِراط` · path
 - [[allah - God]] — `الله` · God
 - [[rHym - merciful]] — `رَحِيم` · merciful
-- [[SrAT - path]] — `صِراط` · path
 - [[DAl - astray]] — `ضالّ` · astray
-- [[dyn - religion]] — `دِين` · religion
-- [[Asm - name]] — `اسْم` · name
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
-- [[hdY - guidance]] — `هَدَى` · guidance
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[rb - lord]] — `رَبّ` · lord
 - [[AstEyn - seek help]] — `اسْتَعِينُ` · seek help
-- [[ywm - day]] — `يَوْم` · day
 - [[>nEm - i bestowed]] — `أَنْعَمَ` · i bestowed
 - [[Hmd - all praise]] — `حَمْد` · all praise
 - [[mstqym - straight]] — `مُسْتَقِيم` · straight
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[mAlk - master]] — `مالِك` · master
+- [[hdY - guidance]] — `هَدَى` · guidance
 - [[gyr - without]] — `غَيْر` · without
-- [[rb - lord]] — `رَبّ` · lord
+- [[Asm - name]] — `اسْم` · name
+- [[ywm - day]] — `يَوْم` · day
+- [[mAlk - master]] — `مالِك` · master
+- [[dyn - religion]] — `دِين` · religion
+- [[Ebd - slaves]] — `عَبَدَ` · slaves
 
 ## Roots
 

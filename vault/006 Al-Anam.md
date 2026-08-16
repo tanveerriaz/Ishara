@@ -14,31 +14,31 @@ The Cattle · 165 ayahs
 
 ## Words in this surah (graph)
 
-- [[$ryk - partners]] — `شَرِيك` · partners
 - [[>wHY - we revealed]] — `أَوْحَى` · we revealed
+- [[$ryk - partners]] — `شَرِيك` · partners
 - [[Zlmp - darknesses]] — `ظُلُمَة` · darknesses
-- [[jn - covered]] — `جَنَّ` · covered
-- [[Zhr - backs]] — `ظَهْر` · backs
 - [[fSl - we explain]] — `فَصَلَ` · we explain
 - [[H$r - will gathered]] — `حَشَرَ` · will gathered
-- [[jzY - we recompense]] — `جَزَى` · we recompense
-- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
-- [[>wl - first]] — `أَوَّل` · first
-- [[y*r - leave]] — `يَذَرَ` · leave
 - [[AftrY - invent]] — `افْتَرَى` · invent
+- [[jn - covered]] — `جَنَّ` · covered
+- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
+- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[y*r - leave]] — `يَذَرَ` · leave
+- [[>wl - first]] — `أَوَّل` · first
+- [[Zhr - backs]] — `ظَهْر` · backs
+- [[zEm - claim]] — `زَعَمَ` · claim
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[b>s - punishment]] — `بَأْس` · punishment
 - [[qDY - surely]] — `قَضَى` · surely
-- [[xsr - lost]] — `خَسِرَ` · lost
-- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
-- [[Asm - name]] — `اسْم` · name
-- [[wSY - enjoined]] — `وَصَّى` · enjoined
 - [[>n*r - warn]] — `أَنذَرَ` · warn
-- [[lyl - night]] — `لَيْل` · night
 - [[>n$> - we produced]] — `أَنشَأَ` · we produced
-- [[>Elm - knowing]] — `أَعْلَم` · knowing
-- [[mhtdy - guided ones]] — `مُهْتَدي` · guided ones
-- [[Srf - we explain]] — `صَرَفَ` · we explain
+- [[Asm - name]] — `اسْم` · name
 - [[>Zlm - more unjust]] — `أَظْلَمَ` · more unjust
-- [[lbs - mix]] — `لَبَسْ` · mix
+- [[>Elm - knowing]] — `أَعْلَم` · knowing
+- [[xsr - lost]] — `خَسِرَ` · lost
+- [[wSY - enjoined]] — `وَصَّى` · enjoined
+- [[mhtdy - guided ones]] — `مُهْتَدي` · guided ones
+- [[>rsl - we sent]] — `أَرْسَلَ` · we sent
 
 ## Roots
 

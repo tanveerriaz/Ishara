@@ -15,30 +15,30 @@ Luqman · 34 ayahs
 ## Words in this surah (graph)
 
 - [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[tlY - recited]] — `تَلَى` · recited
-- [[bHr - sea]] — `بَحْر` · sea
-- [[Hml - will bear]] — `حَمَلَ` · will bear
-- [[kbyr - great]] — `كَبِير` · great
-- [[mwj - waves]] — `مَوْج` · waves
-- [[EAm - years]] — `عام` · years
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[mhyn - humiliating]] — `مُهِين` · humiliating
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[$jrp - tree]] — `شَجَرَة` · tree
-- [[sbEp - seven]] — `سَبْعَة` · seven
-- [[flk - ships]] — `فُلْك` · ships
-- [[gr - deceive you]] — `غَرَّ` · deceive you
 - [[<nsAn - man]] — `إِنسان` · man
-- [[dEA - call]] — `دَعا` · call
-- [[EZym - great]] — `عَظِيم` · great
-- [[grwr - delusion]] — `غُرُور` · delusion
+- [[mstkbr - arrogant]] — `مُسْتَكْبِر` · arrogant
+- [[Hkmp - wisdom]] — `حِكْمَة` · wisdom
+- [[hzw - ridicule]] — `هُزُو` · ridicule
+- [[AtY - give]] — `آتَى` · give
+- [[$ms - sun]] — `شَمْس` · sun
+- [[AbA' - forefathers]] — `آباء` · forefathers
+- [[mhyn - humiliating]] — `مُهِين` · humiliating
+- [[>Dl - more astray]] — `أَضَلَّ` · more astray
+- [[qlyl - little]] — `قَلِيل` · little
+- [[mvqAl - weight]] — `مِثْقال` · weight
+- [[>qAm - establish]] — `أَقامَ` · establish
 - [[mAt - died]] — `ماتَ` · died
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[>$rk - associate]] — `أَشْرَكَ` · associate
-- [[b$r - man]] — `بُشِّرَ` · man
+- [[>TAE - obey]] — `أَطاعَ` · obey
+- [[wAldy - parents]] — `والِدَي` · parents
+- [[sbyl - way]] — `سَبِيل` · way
+- [[allah - God]] — `الله` · God
+- [[>kvr - them]] — `أَكْثَر` · them
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[tdry - i know]] — `تَدْرِي` · i know
+- [[>nbt - grows]] — `أَنۢبَتَ` · grows
+- [[mxtAl - proud]] — `مُخْتال` · proud
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
+- [[$kr - grateful]] — `شَكَرَ` · grateful
 
 ## Roots
 

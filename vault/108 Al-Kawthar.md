@@ -14,9 +14,9 @@ The Abundance · 3 ayahs
 
 ## Words in this surah (graph)
 
-- [[SlY - send blessings]] — `صَلَّى` · send blessings
 - [[>ETY - they given]] — `أَعْطَى` · they given
 - [[rb - lord]] — `رَبّ` · lord
+- [[SlY - send blessings]] — `صَلَّى` · send blessings
 
 ## Roots
 

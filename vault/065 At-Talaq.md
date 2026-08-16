@@ -16,29 +16,29 @@ The Divorce · 12 ayahs
 
 - [[Edp - number]] — `عِدَّة` · number
 - [[mbynp - clear]] — `مُبَيِّنَة` · clear
-- [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[tlY - recited]] — `تَلَى` · recited
-- [[skn - dwell]] — `سَكَنَ` · dwell
-- [[Hml - will bear]] — `حَمَلَ` · will bear
-- [[yHtsb - taken account]] — `يَحْتَسِبُ` · taken account
-- [[>jr - reward]] — `أَجْر` · reward
-- [[$Y' - thing]] — `شَىْء` · thing
-- [[Hdwd - limits]] — `حُدُود` · limits
-- [[nwr - light]] — `نُور` · light
-- [[Et - were insolent]] — `عَتَ` · were insolent
-- [[jEl - we made]] — `جَعَلَ` · we made
-- [[>skn - lodge them]] — `أَسْكَن` · lodge them
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[>bdA - ever]] — `أَبَدًا` · ever
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[blg - he reached]] — `بَلَغَ` · he reached
 - [[ysr - ease]] — `يُسْر` · ease
+- [[AtY - give]] — `آتَى` · give
+- [[yklf - we burden]] — `يُكَلِّفُ` · we burden
+- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[Edl - justice]] — `عَدْل` · justice
+- [[>qAm - establish]] — `أَقامَ` · establish
+- [[wbAl - bad consequence]] — `وَبال` · bad consequence
+- [[>dxl - will admit]] — `أُدْخِلَ` · will admit
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[Hdwd - limits]] — `حُدُود` · limits
 - [[allah - God]] — `الله` · God
-- [[ytEd - transgresses]] — `يَتَعَدَّ` · transgresses
-- [[kl - every]] — `كُلّ` · every
-- [[nsA' - women]] — `نِساء` · women
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[>$hd - take witness]] — `أَشْهَدَ` · take witness
-- [[y}s - have despaired]] — `يَئِسَ` · have despaired
-- [[rb - lord]] — `رَبّ` · lord
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[tdry - i know]] — `تَدْرِي` · i know
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[>Hsn - best]] — `أَحْسَن` · best
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[>rD - earth]] — `أَرْض` · earth
+- [[$hr - months]] — `شَهْر` · months
+- [[nwr - light]] — `نُور` · light
 
 ## Roots
 

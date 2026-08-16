@@ -15,30 +15,30 @@ The Spoils of War · 75 ayahs
 ## Words in this surah (graph)
 
 - [[>lf - thousand]] — `أَلْف` · thousand
-- [[glb - overcame]] — `غَلَبُ` · overcame
-- [[dbr - backs]] — `دُبُر` · backs
-- [[twkl - put trust]] — `تَوَكَّلْ` · put trust
-- [[jAhd - strive]] — `جاهَدَ` · strive
 - [[AnthY - you desist]] — `انتَهَى` · you desist
-- [[f}p - group]] — `فِئَة` · group
-- [[EqAb - penalty]] — `عِقاب` · penalty
-- [[hAjr - emigrated]] — `هاجَرَ` · emigrated
 - [[AwY - gave shelter]] — `آوَى` · gave shelter
-- [[$r - evil]] — `شَرّ` · evil
-- [[AltqY - met]] — `الْتَقَى` · met
-- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
-- [[Al - people]] — `آل` · people
-- [[>syr - as captives]] — `أَسِير` · as captives
-- [[AstjAb - respond]] — `اسْتَجابَ` · respond
-- [[vbt - make firm]] — `ثَبَّتْ` · make firm
-- [[mA}p - hundred]] — `مِائَة` · hundred
-- [[EAd - aad]] — `عادَ` · aad
-- [[lq - you meet]] — `لَقُ` · you meet
+- [[jAhd - strive]] — `جاهَدَ` · strive
+- [[dbr - backs]] — `دُبُر` · backs
+- [[hAjr - emigrated]] — `هاجَرَ` · emigrated
+- [[EqAb - penalty]] — `عِقاب` · penalty
+- [[f}p - group]] — `فِئَة` · group
+- [[twkl - put trust]] — `تَوَكَّلْ` · put trust
+- [[glb - overcame]] — `غَلَبُ` · overcame
 - [[d>b - like way]] — `دَأْب` · like way
-- [[xAn - betray]] — `خانُ` · betray
-- [[>yd - supports]] — `أَيَّدَ` · supports
-- [[sbq - preceded]] — `سَبَقَ` · preceded
+- [[yHq - justify]] — `يُحِقَّ` · justify
+- [[gnm - sheep]] — `غَنَم` · sheep
 - [[SAbr - patient ones]] — `صابِر` · patient ones
+- [[>yd - supports]] — `أَيَّدَ` · supports
+- [[AstjAb - respond]] — `اسْتَجابَ` · respond
+- [[qdm - feet]] — `قَدَّمَ` · feet
+- [[xAn - betray]] — `خانُ` · betray
+- [[slm - peace]] — `سِلْم` · peace
+- [[vbt - make firm]] — `ثَبَّتْ` · make firm
+- [[Tyb - good]] — `طَيِّب` · good
+- [[tnAzE - you disagree]] — `تَنازَعُ` · you disagree
+- [[AltqY - met]] — `الْتَقَى` · met
+- [[sbq - preceded]] — `سَبَقَ` · preceded
+- [[mA}p - hundred]] — `مِائَة` · hundred
 
 ## Roots
 
