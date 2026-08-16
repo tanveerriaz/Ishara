@@ -123,6 +123,31 @@ function rankResults(results: SearchDoc[], query: string, docs: SearchDoc[]): Se
   })
 }
 
+/** English meaning label for a search doc (unpadded surah; gloss for word/root). */
+function searchDisplayLabel(r: SearchDoc): string {
+  return displaySlug(r.label || r.title || r.slug).trim()
+}
+
+/** Buckwalter / slug head before ` - ` (e.g. wqt from `wqt - time`). */
+function slugBw(slug: string): string {
+  const i = slug.indexOf(' - ')
+  return (i > 0 ? slug.slice(0, i) : slug).trim()
+}
+
+/** Keys `${type}::${labelLower}` that collide across the search index. */
+function collidingLabelKeys(docs: SearchDoc[]): Set<string> {
+  const counts = new Map<string, number>()
+  for (const d of docs) {
+    const key = `${d.type}::${searchDisplayLabel(d).toLowerCase()}`
+    counts.set(key, (counts.get(key) ?? 0) + 1)
+  }
+  const out = new Set<string>()
+  for (const [key, n] of counts) {
+    if (n > 1) out.add(key)
+  }
+  return out
+}
+
 export default function App() {
   const [fullGraph, setFullGraph] = useState<GraphData | null>(null)
   const [localGraph, setLocalGraph] = useState<GraphData | null>(null)
@@ -400,8 +425,11 @@ export default function App() {
 
   const results = useMemo(() => {
     if (!mini || !deferredQuery.trim()) return []
-    return rankResults(mini.search(deferredQuery.trim()).slice(0, 12) as unknown as SearchDoc[], deferredQuery, searchDocs)
+    const raw = mini.search(deferredQuery.trim()).slice(0, 40) as unknown as SearchDoc[]
+    return rankResults(raw, deferredQuery, searchDocs).slice(0, 12)
   }, [mini, deferredQuery, searchDocs])
+
+  const labelCollisions = useMemo(() => collidingLabelKeys(searchDocs), [searchDocs])
 
   const byId = useMemo(() => {
     const m = new Map<string, SearchDoc | GraphNode>()
@@ -767,7 +795,14 @@ export default function App() {
     [bySlug, selectId],
   )
 
-  const resultLabel = (r: SearchDoc) => displaySlug(r.label || r.title || r.slug)
+  const resultLabel = (r: SearchDoc) => {
+    const meaning = searchDisplayLabel(r)
+    const key = `${r.type}::${meaning.toLowerCase()}`
+    if (!labelCollisions.has(key)) return meaning
+    const bw = slugBw(r.slug)
+    if (!bw || bw.toLowerCase() === meaning.toLowerCase()) return meaning
+    return `${meaning} · ${bw}`
+  }
 
   if (loadError) {
     return <div className="loading">Could not load graph: {loadError}</div>

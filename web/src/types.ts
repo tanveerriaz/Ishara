@@ -39,6 +39,8 @@ export type NoteVerse = {
   sahihInternational: string
   yusufAli?: string
   urdu?: string
+  /** Build-time Urdu surface forms to highlight for this occurrence */
+  urduHits?: string[]
   url: string
   fromWord?: string
 }

@@ -20,6 +20,10 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from gloss_urdu import build_gloss_urdu_map, slug_sense, urdu_hits_for_verse  # noqa: E402
 DATA = ROOT / "data"
 VAULT = ROOT / "vault"
 ROOT_DIR = VAULT / "Roots"
@@ -669,6 +673,25 @@ Arabic + English (Sahih International) + English (Yusuf Ali) + Urdu. Showing up 
                 }
             )
         web_full_verses[slug] = full_list
+
+    # Gloss → Urdu highlight map (PMI), then attach urduHits per verse
+    print("Building gloss→Urdu highlight map…")
+    gloss_map = build_gloss_urdu_map(web_full_verses)
+    gloss_map_path = DATA / "gloss_urdu_map.json"
+    gloss_map_path.write_text(json.dumps(gloss_map, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"  {len(gloss_map)} gloss stems → {gloss_map_path}")
+    for slug, verses in web_full_verses.items():
+        sense = slug_sense(slug)
+        for v in verses:
+            hits = urdu_hits_for_verse(
+                str(v.get("gloss") or ""),
+                str(v.get("urdu") or ""),
+                str(v.get("wordForm") or ""),
+                gloss_map,
+                sense,
+            )
+            if hits:
+                v["urduHits"] = hits
 
     # Cache every ayah for the static web viewer (gitignored under data/)
     web_verses_path = DATA / "word_verses_full.json"

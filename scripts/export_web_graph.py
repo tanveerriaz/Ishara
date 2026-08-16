@@ -5,15 +5,20 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 from collections import Counter
 from pathlib import Path
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from gloss_urdu import build_gloss_urdu_map, slug_sense, urdu_hits_for_verse  # noqa: E402
+
 VAULT = ROOT / "vault"
 OUT = ROOT / "web" / "public" / "data"
 NOTES = OUT / "notes"
 NEIGHBORHOODS = OUT / "neighborhoods"
+DATA = ROOT / "data"
 
 WIKILINK = re.compile(r"\[\[([^\]|#]+)(?:\|[^\]]+)?\]\]")
 FM = re.compile(r"^---\n(.*?)\n---\n", re.S)
@@ -557,11 +562,54 @@ def main() -> None:
         links.append({"source": a, "target": b})
 
     word_notes_by_slug: dict[str, dict] = {}
-    full_verses_path = ROOT / "data" / "word_verses_full.json"
+    full_verses_path = DATA / "word_verses_full.json"
+    gloss_map_path = DATA / "gloss_urdu_map.json"
     full_verses: dict[str, list] = {}
     if full_verses_path.exists():
         full_verses = json.loads(full_verses_path.read_text(encoding="utf-8"))
         print(f"Loaded full verses for {len(full_verses)} words")
+
+        def verses_have_urdu_hits(payload: dict[str, list]) -> bool:
+            checked = 0
+            for verses in payload.values():
+                for v in verses:
+                    if "urduHits" in v:
+                        return True
+                    checked += 1
+                    if checked >= 400:
+                        return False
+            return False
+
+        needs_hits = not verses_have_urdu_hits(full_verses)
+        # Always refresh when map missing; otherwise rebuild if hits absent.
+        # Force rebuild path also used after algorithm changes by deleting map.
+        if gloss_map_path.exists() and not needs_hits:
+            print(f"Using existing urduHits (+ map at {gloss_map_path.name})")
+        else:
+            print("Building gloss→Urdu highlight map…")
+            gloss_map = build_gloss_urdu_map(full_verses)
+            gloss_map_path.write_text(
+                json.dumps(gloss_map, ensure_ascii=False, indent=2), encoding="utf-8"
+            )
+            print(f"  {len(gloss_map)} gloss stems → {gloss_map_path}")
+            for slug, verses in full_verses.items():
+                sense = slug_sense(slug)
+                for v in verses:
+                    hits = urdu_hits_for_verse(
+                        str(v.get("gloss") or ""),
+                        str(v.get("urdu") or ""),
+                        str(v.get("wordForm") or ""),
+                        gloss_map,
+                        sense,
+                    )
+                    if hits:
+                        v["urduHits"] = hits
+                    else:
+                        v.pop("urduHits", None)
+            full_verses_path.write_text(
+                json.dumps(full_verses, ensure_ascii=False), encoding="utf-8"
+            )
+            print(f"Attached urduHits → {full_verses_path}")
     else:
         print("WARNING: data/word_verses_full.json missing — falling back to vault samples")
 

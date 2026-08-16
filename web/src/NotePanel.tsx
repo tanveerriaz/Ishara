@@ -156,108 +156,17 @@ function highlightEnglish(text: string, ...termSources: Array<string | undefined
 }
 
 /**
- * Common WBW English gloss → Urdu forms for highlighting.
- * Prefer precision over coverage: wrong Urdu hits are worse than none.
- */
-const GLOSS_URDU: Record<string, string[]> = {
-  easy: ['آسان', 'اسان'],
-  easier: ['آسان', 'اسان'],
-  quran: ['قرآن', 'قران'],
-  qur: ['قرآن', 'قران'],
-  mercy: ['رحمت', 'مہربانی'],
-  merciful: ['رحیم', 'مہربان'],
-  lord: ['رب'],
-  god: ['خدا', 'اللہ'],
-  allah: ['اللہ', 'خدا'],
-  believe: ['ایمان', 'مانو', 'یقین'],
-  believer: ['مومن'],
-  disbelieve: ['کفر', 'انکار'],
-  prayer: ['نماز', 'صلوٰۃ', 'صلاۃ'],
-  path: ['راستہ', 'راہ', 'صراط'],
-  guide: ['ہدایت', 'ہدایت دی'],
-  book: ['کتاب'],
-  heaven: ['آسمان'],
-  earth: ['زمین'],
-  day: ['دن'],
-  night: ['رات'],
-  people: ['لوگ', 'قوم'],
-  punish: ['عذاب', 'سزا'],
-  punishment: ['عذاب', 'سزا'],
-  sin: ['گناہ'],
-  forgive: ['بخشش', 'معاف'],
-  paradise: ['جنت'],
-  hell: ['جہنم', 'دوزخ'],
-  fire: ['آگ', 'آتش'],
-  water: ['پانی'],
-  heart: ['دل'],
-  truth: ['حق', 'سچ'],
-  false: ['باطل', 'جھوٹ'],
-  light: ['نور', 'روشنی'],
-  dark: ['اندھیرا', 'ظلمت'],
-  know: ['علم', 'جاننا'],
-  knowledge: ['علم'],
-  wise: ['حکیم', 'دانا'],
-  hear: ['سننا', 'سمیع'],
-  see: ['دیکھنا', 'بصیر'],
-  say: ['کہا', 'فرمایا'],
-  said: ['کہا', 'فرمایا'],
-  create: ['پیدا', 'خلق'],
-  created: ['پیدا کیا', 'پیدا'],
-  angel: ['فرشتہ', 'ملائکہ'],
-  prophet: ['نبی', 'پیغمبر'],
-  messenger: ['رسول'],
-  faith: ['ایمان'],
-  gratitude: ['شکر'],
-  grateful: ['شکرگزار'],
-  wrath: ['غضب', 'غصہ'],
-  astray: ['گمراہ'],
-  help: ['مدد', 'اعانت'],
-  name: ['نام'],
-  glory: ['تسبیح', 'پاکی'],
-  worship: ['عبادت'],
-  judgment: ['حساب', 'جزا', 'دین'],
-  life: ['زندگی', 'حیات'],
-  death: ['موت'],
-  fear: ['ڈر', 'خوف'],
-  hope: ['امید'],
-  patient: ['صبر', 'صابر'],
-  patience: ['صبر'],
-  provision: ['رزق'],
-  rizq: ['رزق'],
-  companion: ['ساتھی', 'صحابی'],
-  crime: ['جرم', 'گناہ'],
-  diversion: ['کھیل', 'لہو'],
-}
-
-function urduNeedlesFromGloss(...sources: Array<string | undefined>): string[] {
-  const out: string[] = []
-  const seen = new Set<string>()
-  for (const term of glossTerms(...sources)) {
-    for (const ur of GLOSS_URDU[term] ?? []) {
-      const key = normalizeUrdu(ur)
-      if (key.length < 2 || seen.has(key)) continue
-      seen.add(key)
-      out.push(ur)
-    }
-  }
-  return out
-}
-
-/**
- * Highlight Urdu by English gloss meaning (easy → آسان), never by loose
- * Arabic-letter substrings (those caused false hits on کا / ہاں / رہیں).
- * Arabic loanwords (قرآن) still match when the Urdu token equals the form.
+ * Highlight Urdu from build-time `urduHits` (PMI gloss→token alignment).
+ * Loanword fallback: Arabic wordForm equals an Urdu token (e.g. قرآن).
  */
 function highlightUrdu(
   text: string,
-  wordForm: string,
-  ...glossSources: Array<string | undefined>
+  hits: string[] | undefined,
+  wordForm?: string,
 ): ReactNode[] {
-  const glossNeedles = urduNeedlesFromGloss(...glossSources).map(normalizeUrdu)
-  const loan = normalizeUrdu(wordForm)
+  const needles = [...new Set((hits ?? []).map(normalizeUrdu).filter((n) => n.length >= 2))]
+  const loan = normalizeUrdu(wordForm ?? '')
   const loanCore = loan.startsWith('ال') && loan.length > 4 ? loan.slice(2) : loan
-
-  const needles = [...glossNeedles]
   if (loanCore.length >= 4 && !needles.includes(loanCore)) needles.push(loanCore)
   if (!needles.length) return [text]
 
@@ -267,7 +176,6 @@ function highlightUrdu(
     if (core.length < 2) return part
     const hit = needles.some((n) => {
       if (core === n) return true
-      // Allow light inflection: آسانوں / قرآنی — only when needle is long enough
       if (n.length >= 3 && (core.startsWith(n) || core.endsWith(n))) return true
       return false
     })
@@ -398,7 +306,7 @@ function VerseCard({
       {showUr && v.urdu && (
         <p className="tr" dir="rtl" lang="ur">
           <span className="tr-label">Urdu · Fatah Muhammad Jalandhari</span>
-          {highlightUrdu(v.urdu, v.wordForm, v.gloss, focusMeaning, displaySlug(v.fromWord ?? ''))}
+          {highlightUrdu(v.urdu, v.urduHits, v.wordForm)}
         </p>
       )}
     </article>
