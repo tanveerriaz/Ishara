@@ -780,22 +780,27 @@ button.linkish.inline {
 
 .hit {
   border-radius: 3px;
-  background: color-mix(in srgb, var(--word) 18%, transparent);
+  background: color-mix(in srgb, var(--word) 28%, transparent);
   color: inherit;
-  font-weight: 800;
+  font-weight: 700;
   text-decoration-line: underline;
-  text-decoration-thickness: 2px;
-  text-decoration-color: var(--word);
-  text-underline-offset: 0.16em;
+  text-decoration-style: solid;
+  text-decoration-thickness: 2.5px;
+  text-decoration-color: var(--accent);
+  text-underline-offset: 0.2em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
 }
 
 .hit-ar {
-  padding: 0 0.08em;
-  text-decoration-color: var(--accent);
+  padding: 0 0.1em;
+  background: color-mix(in srgb, var(--accent) 32%, transparent);
+  text-decoration-color: var(--word);
 }
 
-.hit-tr {
-  padding: 0 0.04em;
+.hit-tr,
+.hit-ur {
+  padding: 0 0.06em;
 }
 
 .verse-word {

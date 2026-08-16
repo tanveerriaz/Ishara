@@ -50,18 +50,47 @@ const EN_STOP = new Set([
   'your',
 ])
 
+/** Fold curly quotes and strip marks so Qur'an ≈ Quran ≈ quran. */
+function foldLatin(text: string): string {
+  return text
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[\u2018\u2019\u201A\u2032`]/g, "'")
+    .replace(/[\u201C\u201D\u201E\u2033]/g, '"')
+    .toLowerCase()
+}
+
+function normalizeEnToken(word: string): string {
+  return foldLatin(word)
+    .replace(/^'+|'+$/g, '')
+    .replace(/'/g, '')
+}
+
 function normalizeArabic(text: string): string {
   return text
     .replace(/[\u064B-\u065F\u0670\u06D6-\u06ED]/g, '')
+    .replace(/[آأإٱ]/g, 'ا')
+    .replace(/ى/g, 'ي')
+    .replace(/ة/g, 'ه')
     .replace(/[^\u0621-\u064A\u0660-\u0669]/g, '')
 }
 
+/** Drop leading ال for looser Arabic/Urdu form matching. */
+function arabicCore(text: string): string {
+  const n = normalizeArabic(text)
+  return n.startsWith('ال') && n.length > 3 ? n.slice(2) : n
+}
+
 function highlightArabic(text: string, wordForm: string): ReactNode[] {
-  const target = normalizeArabic(wordForm)
-  if (!target) return [text]
+  const target = arabicCore(wordForm)
+  if (!target || target.length < 2) return [text]
   return text.split(/(\s+)/).map((part, i) => {
-    const normalized = normalizeArabic(part)
-    if (!normalized || normalized !== target) return part
+    const core = arabicCore(part)
+    if (!core) return part
+    const tight =
+      core === target ||
+      (target.length >= 3 && (core.endsWith(target) || target.endsWith(core) || core.includes(target)))
+    if (!tight) return part
     return (
       <mark className="hit hit-ar" key={`${part}-${i}`}>
         {part}
@@ -78,25 +107,53 @@ function stemEn(word: string): string {
   return word
 }
 
-function glossTerms(gloss: string): Set<string> {
+function glossTerms(...sources: Array<string | undefined>): Set<string> {
   const terms = new Set<string>()
-  for (const raw of gloss.toLowerCase().match(/[a-z][a-z'-]*/g) ?? []) {
-    const word = raw.replace(/^'+|'+$/g, '')
-    if (word.length < 3 || EN_STOP.has(word)) continue
-    terms.add(word)
-    terms.add(stemEn(word))
+  for (const source of sources) {
+    if (!source) continue
+    for (const raw of foldLatin(source).match(/[a-z][a-z']*/g) ?? []) {
+      const word = normalizeEnToken(raw)
+      if (word.length < 3 || EN_STOP.has(word)) continue
+      terms.add(word)
+      terms.add(stemEn(word))
+    }
   }
   return terms
 }
 
-function highlightEnglish(text: string, gloss: string): ReactNode[] {
-  const terms = glossTerms(gloss)
+function highlightEnglish(text: string, ...termSources: Array<string | undefined>): ReactNode[] {
+  const terms = glossTerms(...termSources)
   if (!terms.size) return [text]
-  return text.split(/(\b[a-z][a-z'-]*\b)/gi).map((part, i) => {
-    const word = part.toLowerCase().replace(/^'+|'+$/g, '')
+  // Keep apostrophe variants (Qur'an) as single tokens, including curly quotes.
+  return text.split(/([A-Za-z\u00C0-\u024F]+(?:['\u2018\u2019\u201A\u2032`][A-Za-z\u00C0-\u024F]+)*)/).map((part, i) => {
+    const word = normalizeEnToken(part)
     if (!word || (!terms.has(word) && !terms.has(stemEn(word)))) return part
     return (
       <mark className="hit hit-tr" key={`${part}-${i}`}>
+        {part}
+      </mark>
+    )
+  })
+}
+
+/** Highlight the Arabic lemma form (and close variants) inside Urdu script. */
+function highlightUrdu(text: string, wordForm: string, gloss?: string): ReactNode[] {
+  const target = arabicCore(wordForm)
+  const glossAr = gloss && /[\u0600-\u06FF]/.test(gloss) ? arabicCore(gloss) : ''
+  const needles = [target, glossAr].filter((n) => n.length >= 2)
+  if (!needles.length) return [text]
+
+  // Split on Arabic/Urdu word runs (letters + diacritics).
+  return text.split(/([\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]+)/).map((part, i) => {
+    if (!/[\u0600-\u06FF]/.test(part)) return part
+    const core = arabicCore(part)
+    if (!core) return part
+    const hit = needles.some(
+      (n) => core === n || (n.length >= 3 && (core.includes(n) || n.includes(core))),
+    )
+    if (!hit) return part
+    return (
+      <mark className="hit hit-ur" key={`${part}-${i}`}>
         {part}
       </mark>
     )
@@ -111,7 +168,7 @@ function spacedRoot(arabic: string): string {
 
 function glossTokens(text: string): Set<string> {
   return new Set(
-    (text.toLowerCase().match(/[a-z]{3,}/g) ?? []).map(stemEn).filter((w) => !EN_STOP.has(w)),
+    [...glossTerms(text)].filter((w) => !EN_STOP.has(w)),
   )
 }
 
@@ -128,15 +185,18 @@ function VerseCard({
   v,
   trMode,
   onNavigate,
+  focusMeaning,
 }: {
   v: NoteVerse
   trMode: TrMode
   onNavigate: (slug: string) => void
+  focusMeaning?: string
 }) {
   const showEn = trMode === 'all' || trMode === 'en'
   const showUr = trMode === 'all' || trMode === 'ur'
   const ref = formatVerseRef(v.ref)
   const surah = formatSurahLabel(v.surah)
+  const enTerms = [v.gloss, focusMeaning, displaySlug(v.fromWord ?? '')]
   return (
     <article className="verse-card">
       <header className="verse-ref">
@@ -206,19 +266,19 @@ function VerseCard({
       {showEn && v.sahihInternational && (
         <p className="tr">
           <span className="tr-label">Narrative translation · Sahih International</span>
-          {highlightEnglish(v.sahihInternational, v.gloss)}
+          {highlightEnglish(v.sahihInternational, ...enTerms)}
         </p>
       )}
       {showEn && v.yusufAli && (
         <p className="tr">
           <span className="tr-label">Narrative translation · Abdullah Yusuf Ali</span>
-          {highlightEnglish(v.yusufAli, v.gloss)}
+          {highlightEnglish(v.yusufAli, ...enTerms)}
         </p>
       )}
       {showUr && v.urdu && (
         <p className="tr" dir="rtl" lang="ur">
           <span className="tr-label">Urdu · Fatah Muhammad Jalandhari</span>
-          {v.urdu}
+          {highlightUrdu(v.urdu, v.wordForm, v.gloss)}
         </p>
       )}
     </article>
@@ -519,6 +579,7 @@ export function NotePanel({
                       v={v}
                       trMode={trMode}
                       onNavigate={onNavigate}
+                      focusMeaning={note.meaning || heading}
                     />
                   ))}
                   {isMobile && visibleVerseCount < total && (
