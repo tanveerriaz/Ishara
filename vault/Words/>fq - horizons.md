@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>fq - go one's own]]
+- [[>fq - horizons]]
 
 ### Meaning
 **horizons** · Lemma **أُفُق**

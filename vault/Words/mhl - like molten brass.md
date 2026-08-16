@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mhl - act gently leisurely]]
+- [[mhl - like molten brass]]
 
 ### Meaning
 **like molten brass** · Lemma **مُهْل**

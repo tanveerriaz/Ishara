@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hqq - established as true]]
+- [[Hqq - truth]]
 
 ### Meaning
 **truth** · Lemma **حَقّ**

@@ -15,83 +15,83 @@ Family of Imran · 200 ayahs
 ## Words in this surah (graph)
 
 - [[Hsb - think]] — `حَسْب` · think
-- [[<ymAn - faith]] — `إِيمان` · faith
 - [[mAt - died]] — `ماتَ` · died
-- [[>SAb - befalls you]] — `أَصابَ` · befalls you
-- [[>TAE - obey]] — `أَطاعَ` · obey
-- [[mslm - muslims]] — `مُسْلِم` · muslims
-- [[$hd - bear witness]] — `شَهِدَ` · bear witness
-- [[*nb - sins]] — `ذَنب` · sins
 - [[gfr - forgive]] — `غَفَرَ` · forgive
+- [[>SAb - befalls you]] — `أَصابَ` · befalls you
+- [[<ymAn - faith]] — `إِيمان` · faith
+- [[>TAE - obey]] — `أَطاعَ` · obey
 - [[qyAmp - resurrection]] — `قِيامَة` · resurrection
-- [[>jr - reward]] — `أَجْر` · reward
+- [[mslm - muslims]] — `مُسْلِم` · muslims
+- [[*nb - sins]] — `ذَنب` · sins
+- [[$hd - bear witness]] — `شَهِدَ` · bear witness
 - [[xlq - creation]] — `خَلَقَ` · creation
+- [[ms - touch]] — `مَسَّ` · touch
+- [[EZym - great]] — `عَظِيم` · great
+- [[kyf - how]] — `كَيْف` · how
+- [[b$r - man]] — `بُشِّرَ` · man
 - [[>lym - painful]] — `أَلِيم` · painful
+- [[rHmp - mercy]] — `رَحْمَة` · mercy
+- [[EAlm - worlds]] — `عالَم` · worlds
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[>hl - people]] — `أَهْل` · people
+- [[>jr - reward]] — `أَجْر` · reward
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
 - [[k*b - denied]] — `كَذَبَ` · denied
 - [[HAj - argued]] — `حاجَّ` · argued
-- [[kyf - how]] — `كَيْف` · how
 - [[yDr - harms them]] — `يَضُرَّ` · harms them
-- [[>hl - people]] — `أَهْل` · people
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[rHmp - mercy]] — `رَحْمَة` · mercy
-- [[ms - touch]] — `مَسَّ` · touch
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[b}s - wretched]] — `بِئْسَ` · wretched
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
-- [[EZym - great]] — `عَظِيم` · great
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Tn - anything excessively proud]]
-- [[$bh - likeness resemblance]]
+- [[$Er - perceive]]
+- [[$Tn - shaitaan]]
+- [[$bh - similar]]
 - [[$dd - severe]]
-- [[$hd - witnessing]]
+- [[$hd - witness]]
 - [[$hw - they desire]]
 - [[$kr - gratitude]]
-- [[$rk - sharing partnership]]
-- [[$rr - sparks fire]]
-- [[$ry - buy sell]]
+- [[$rk - polytheists]]
+- [[$rr - evil]]
+- [[$ry - exchange]]
 - [[$wr - gather honey]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
+- [[*hb - gold]]
+- [[*kr - remember]]
 - [[*ll - humiliation]]
-- [[*nb - tail]]
-- [[*rr - scattering dispersing small]]
+- [[*nb - sin]]
+- [[*rr - offspring]]
 - [[*wq - taste]]
-- [[>*n - ear]]
+- [[>*n - by permission]]
 - [[>*y - hurt]]
 - [[>Hd - anyone]]
-- [[>Sr - things bind tie]]
-- [[>dm - seasoned food]]
-- [[>dy - perform]]
-- [[>hl - people house]]
+- [[>Sr - burden]]
+- [[>dm - o adam]]
+- [[>dy - render]]
+- [[>hl - people]]
 - [[>jl - term]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>kl - eat]]
-- [[>lf - become familiar]]
+- [[>lf - thousand]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>lw - ila]]
-- [[>md - period time defined]]
-- [[>mm - leadership]]
+- [[>lw - favors]]
+- [[>md - was distance]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>nv - female]]
 - [[>ny - hours]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
-- [[>wb - return]]
-- [[>wl - return revert original]]
-- [[>wy - betake oneself place]]
+- [[>vm - sin]]
+- [[>wb - place return]]
+- [[>wl - first]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yd - earth]]
-- [[>yy - ism]]
+- [[>yd - supports]]
+- [[>yy - signs]]
 
 ## Sample (ayah 1)
 

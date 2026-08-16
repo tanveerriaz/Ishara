@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Srr - tie bind tightly]]
+- [[Srr - they persist]]
 
 ### Meaning
 **they persist** · Lemma **أَصَرُّ**

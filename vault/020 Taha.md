@@ -14,84 +14,84 @@ Ta-Ha · 135 ayahs
 
 ## Words in this surah (graph)
 
-- [[>xlf - break]] — `أَخْلَفُ` · break
 - [[TgY - has transgressed]] — `طَغَى` · has transgressed
+- [[>xlf - break]] — `أَخْلَفُ` · break
 - [[>bqY - more lasting]] — `أَبْقَى` · more lasting
 - [[mwEd - appointment]] — `مَوْعِد` · appointment
-- [[ym - sea]] — `يَمّ` · sea
 - [[sEY - strive]] — `سَعَى` · strive
+- [[ym - sea]] — `يَمّ` · sea
 - [[Hll - lawful]] — `حَلَلْ` · lawful
-- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
-- [[>vr - footsteps]] — `أَثَر` · footsteps
-- [[>bY - he refused]] — `أَبَى` · he refused
-- [[xAb - disappointed]] — `خابَ` · disappointed
-- [[dl - direct you]] — `دَلَّ` · direct you
+- [[sAHr - magician]] — `ساحِر` · magician
 - [[Ewj - crookedness]] — `عِوَج` · crookedness
+- [[Tryqp - way]] — `طَرِيقَة` · way
+- [[>bY - he refused]] — `أَبَى` · he refused
+- [[sbq - preceded]] — `سَبَقَ` · preceded
+- [[xAb - disappointed]] — `خابَ` · disappointed
+- [[q*f - cast him]] — `قَذَفَ` · cast him
 - [[sbH - glorify]] — `سَبَّحَ` · glorify
+- [[>Eyd - repeats it]] — `أُعِيدُ` · repeats it
+- [[dl - direct you]] — `دَلَّ` · direct you
 - [[m$ - walk]] — `مَشَ` · walk
 - [[wzr - burden]] — `وِزْر` · burden
-- [[Tryqp - way]] — `طَرِيقَة` · way
 - [[EAkf - devoted]] — `عاكِف` · devoted
-- [[sbq - preceded]] — `سَبَقَ` · preceded
 - [[zynp - adornment]] — `زِينَة` · adornment
-- [[sAHr - magician]] — `ساحِر` · magician
-- [[q*f - cast him]] — `قَذَفَ` · cast him
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[SAlH - righteous]] — `صالِح` · righteous
+- [[>vr - footsteps]] — `أَثَر` · footsteps
+- [[TAl - then]] — `طالَ` · then
+- [[AstmE - listen]] — `اسْتَمَعَ` · listen
+- [[mskn - dwellings]] — `مَسْكَن` · dwellings
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$fE - make something pair]]
-- [[$jr - trees]]
-- [[$ms - horse refusing ridden]]
-- [[$qw - unblessed]]
-- [[$rH - uncover]]
-- [[$rk - sharing partnership]]
-- [[$tt - scatter]]
+- [[$fE - intercession]]
+- [[$jr - tree]]
+- [[$ms - sun]]
+- [[$qw - wretched one]]
+- [[$rH - he expands]]
+- [[$rk - polytheists]]
+- [[$tt - diverse]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
+- [[*hb - gold]]
+- [[*kr - remember]]
 - [[*ll - humiliation]]
-- [[>*n - ear]]
-- [[>by - refuse]]
-- [[>dm - seasoned food]]
-- [[>hl - people house]]
+- [[>*n - by permission]]
+- [[>by - he refused]]
+- [[>dm - o adam]]
+- [[>hl - people]]
 - [[>jl - term]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>ny - hours]]
 - [[>rD - earth]]
-- [[>sf - alas]]
+- [[>sf - grieved]]
 - [[>ty - give]]
-- [[>vr - trace]]
-- [[>wl - return revert original]]
+- [[>vr - footsteps]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
-- [[DHw - actions performed during]]
+- [[>yy - signs]]
+- [[DHw - its brightness]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
+- [[Drb - strike]]
 - [[Drr - adversity]]
 - [[E$r - ten]]
-- [[E*b - motes particles floating]]
-- [[ESw - staff stick]]
-- [[ESy - disobey]]
-- [[ETw - take handle something]]
+- [[E*b - punishment]]
+- [[ESw - staff]]
+- [[ESy - they disobeyed]]
+- [[ETw - gift]]
 - [[Ebd - worship]]
-- [[Edw - turn]]
-- [[Ehd - protection safeguard]]
-- [[Ejl - incite cause someone]]
-- [[Ekf - cleave something constantly]]
+- [[Edw - enemy]]
+- [[Ehd - covenant]]
+- [[Ejl - calf]]
+- [[Ekf - devoted]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
+- [[Elw - high]]
 
 ## Sample (ayah 1)
 

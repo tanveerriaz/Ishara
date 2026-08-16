@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ESm - tie cord]]
+- [[ESm - hold fast]]
 
 ### Meaning
 **will protect you** · Lemma **يَعْصِمُ**

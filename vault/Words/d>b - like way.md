@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[d>b - subterranean structure]]
+- [[d>b - like way]]
 
 ### Meaning
 **like way** · Lemma **دَأْب**

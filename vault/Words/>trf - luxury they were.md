@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[trf - while we had]]
+- [[trf - affluent ones]]
 
 ### Meaning
 **luxury they were** · Lemma **أُتْرِفُ**

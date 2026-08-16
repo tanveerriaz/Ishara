@@ -68,6 +68,17 @@ def looks_like_bw_stub(text: str, root_bw: str | None = None) -> bool:
             return True
     if BW_STUB_CHARS.fullmatch(cleaned) and not any(c in "aeiou" for c in cleaned):
         return True
+    # Vocalized romanization posing as English (qawala, walaja)
+    if root_bw:
+        rb = re.sub(r"[^a-z]", "", root_bw.lower())
+        stripped = re.sub(r"[aeiou]", "", re.sub(r"[^a-z]", "", t))
+        rb_stripped = re.sub(r"[aeiou]", "", rb)
+        if rb_stripped and stripped == rb_stripped and t != rb:
+            return True
+    if re.fullmatch(r"[a-z]{3,10}", t):
+        consonants = re.sub(r"[aeiou]", "", t)
+        if 2 <= len(consonants) <= 4 and t.count("a") >= 2 and t.endswith("a"):
+            return True
     return False
 
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Ejb - amazing]]
+- [[Ejb - pleases you]]
 
 ### Meaning
 **pleases you** · Lemma **أَعْجَبَ**

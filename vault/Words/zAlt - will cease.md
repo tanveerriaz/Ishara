@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[zyl - separate remove something]]
+- [[zyl - will cease]]
 
 ### Meaning
 **will cease** · Lemma **زالَت**

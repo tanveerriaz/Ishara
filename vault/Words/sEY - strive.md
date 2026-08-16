@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sEy - walk]]
+- [[sEy - effort]]
 
 ### Meaning
 **strive** · Lemma **سَعَى**

@@ -15,83 +15,83 @@ The Table Spread · 120 ayahs
 ## Words in this surah (graph)
 
 - [[fAsq - defiantly disobedient]] — `فاسِق` · defiantly disobedient
-- [[jzA' - recompense]] — `جَزاء` · recompense
-- [[>SbH - they became]] — `أَصْبَحَ` · they became
-- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
 - [[nb> - news]] — `نَبَّأَ` · news
-- [[nwr - light]] — `نُور` · light
-- [[EdAwp - enmity]] — `عَداوَة` · enmity
+- [[jzA' - recompense]] — `جَزاء` · recompense
+- [[>Hl - made lawful]] — `أَحَلَّ` · made lawful
+- [[>SbH - they became]] — `أَصْبَحَ` · they became
 - [[rjl - man]] — `رَجُل` · man
+- [[nwr - light]] — `نُور` · light
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[yhwd - jews]] — `يَهُود` · jews
 - [[mlkt - possess]] — `مَلَكَتْ` · possess
 - [[Hrm - made unlawful]] — `حَرَّمَ` · made unlawful
-- [[xAsr - losers]] — `خاسِر` · losers
-- [[yhwd - jews]] — `يَهُود` · jews
-- [[E*b - punishes]] — `عَذَّبَ` · punishes
 - [[TEAm - food]] — `طَعام` · food
-- [[bgDA' - hatred]] — `بَغْضاء` · hatred
-- [[>x - brother]] — `أَخ` · brother
-- [[>hwA' - desires]] — `أَهْواء` · desires
-- [[hdy - sacrificial animal]] — `هَدْي` · sacrificial animal
-- [[>m - mother]] — `أُمّ` · mother
+- [[xAsr - losers]] — `خاسِر` · losers
+- [[EdAwp - enmity]] — `عَداوَة` · enmity
 - [[dAm - as long as]] — `دامُ` · as long as
-- [[msyH - messiah]] — `مَسِيح` · messiah
+- [[nSrAny - christians]] — `نَصْرانِيّ` · christians
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[>m - mother]] — `أُمّ` · mother
+- [[hdy - sacrificial animal]] — `هَدْي` · sacrificial animal
 - [[mHsn - good-doers]] — `مُحْسِن` · good-doers
-- [[Edl - justice]] — `عَدْل` · justice
-- [[swA' - it same]] — `سَواء` · it same
-- [[ysArE - hasten]] — `يُسارِعُ` · hasten
+- [[bgDA' - hatred]] — `بَغْضاء` · hatred
+- [[>hwA' - desires]] — `أَهْواء` · desires
+- [[Dl - lost]] — `ضَلَّ` · lost
+- [[yH*r - warns you]] — `يَحْذَرُ` · warns you
+- [[>qsm - i swear]] — `أَقْسَمُ` · i swear
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Tn - anything excessively proud]]
+- [[$Er - perceive]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$hd - witnessing]]
-- [[$hr - new moon]]
+- [[$hd - witness]]
+- [[$hr - months]]
 - [[$kr - gratitude]]
 - [[$rE - enter water drink]]
-- [[$rk - sharing partnership]]
-- [[$rr - sparks fire]]
-- [[$ry - buy sell]]
+- [[$rk - polytheists]]
+- [[$rr - evil]]
+- [[$ry - exchange]]
 - [[$y> - thing]]
-- [[*bH - cut split lengthwise]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
+- [[*bH - slaughtering]]
+- [[*hb - gold]]
+- [[*kr - remember]]
 - [[*ll - humiliation]]
-- [[*nb - tail]]
+- [[*nb - sin]]
 - [[*wq - taste]]
-- [[>*n - ear]]
+- [[>*n - by permission]]
 - [[>Hd - anyone]]
-- [[>bd - absolute long]]
+- [[>bd - ever]]
 - [[>bw - forefathers]]
-- [[>dm - seasoned food]]
-- [[>fk - turn something away]]
-- [[>hl - people house]]
+- [[>dm - o adam]]
+- [[>fk - lie]]
+- [[>hl - people]]
 - [[>jl - term]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>sw - grieve]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
-- [[>vr - trace]]
-- [[>wl - return revert original]]
-- [[>wy - betake oneself place]]
+- [[>vm - sin]]
+- [[>vr - footsteps]]
+- [[>wl - first]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yd - earth]]
-- [[>yy - ism]]
+- [[>yd - supports]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
+- [[Drb - strike]]
 - [[Drr - adversity]]
 - [[E$r - ten]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 
 ## Sample (ayah 1)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[r>f - profound active pity]]
+- [[r>f - full kindness]]
 
 ### Meaning
 **full kindness** · Lemma **رَءُوف**

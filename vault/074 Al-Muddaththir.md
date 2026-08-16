@@ -14,84 +14,84 @@ The Cloaked One · 56 ayahs
 
 ## Words in this surah (graph)
 
-- [[>dbr - turned back]] — `أَدْبَرَ` · turned back
 - [[t*krp - reminder]] — `تَذْكِرَة` · reminder
-- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[mrD - disease]] — `مَرَض` · disease
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[qmr - moon]] — `قَمَر` · moon
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[ysyr - easy]] — `يَسِير` · easy
-- [[frt - you flee]] — `فَرَّتْ` · you flee
-- [[$Ahd - witnesses]] — `شاهِد` · witnesses
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[Elm - know]] — `عَلِمَ` · know
-- [[dyn - religion]] — `دِين` · religion
-- [[<ymAn - faith]] — `إِيمان` · faith
-- [[ksb - earn]] — `كَسَبَ` · earn
-- [[mvl - example]] — `مَثَل` · example
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[sHr - magic]] — `سِحْر` · magic
+- [[>dbr - turned back]] — `أَدْبَرَ` · turned back
+- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
+- [[Edp - number]] — `عِدَّة` · number
+- [[qAm - stand]] — `قامَ` · stand
 - [[<HdY - one them]] — `إِحْدَى` · one them
-- [[Ayp - signs]] — `آيَة` · signs
-- [[ktAb - book]] — `كِتاب` · book
-- [[SbH - morning]] — `صُبْح` · morning
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[ysyr - easy]] — `يَسِير` · easy
+- [[kyf - how]] — `كَيْف` · how
+- [[b$r - man]] — `بُشِّرَ` · man
+- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[frt - you flee]] — `فَرَّتْ` · you flee
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[allah - God]] — `الله` · God
+- [[kl - every]] — `كُلّ` · every
+- [[jnd - hosts]] — `جُند` · hosts
 - [[mjrm - criminals]] — `مُجْرِم` · criminals
-- [[slk - follow]] — `سَلَكَ` · follow
+- [[rb - lord]] — `رَبّ` · lord
+- [[qmr - moon]] — `قَمَر` · moon
+- [[vyAb - garments]] — `ثِياب` · garments
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[bnY - children]] — `بُنَىّ` · children
+- [[AtY - give]] — `آتَى` · give
+- [[AzdAd - they increased]] — `ازْدادُ` · they increased
 
 ## Roots
 
-- [[$fE - make something pair]]
-- [[$hd - witnessing]]
+- [[$fE - intercession]]
+- [[$hd - witness]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[>Hd - anyone]]
-- [[>hl - people house]]
+- [[>hl - people]]
 - [[>mn - believe]]
 - [[>ty - give]]
-- [[>vr - trace]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>vr - footsteps]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[Dll - astray]]
 - [[E$r - ten]]
 - [[Ebs - frown]]
-- [[Edd - count]]
+- [[Edd - number]]
 - [[Elm - knowledge]]
 - [[End - near]]
 - [[ErD - turn away]]
 - [[Esr - hardship]]
-- [[Hmr - color red]]
-- [[SEd - ascend go upwards]]
-- [[SHb - lord]]
+- [[Hmr - donkeys]]
+- [[SEd - earth]]
+- [[SHb - companion]]
 - [[SHf - scriptures]]
 - [[SbH - morning]]
-- [[Sbr - confine restrain]]
+- [[Sbr - patient]]
 - [[Slw - prayer]]
-- [[Sly - exposed fire heat]]
+- [[Sly - burn therein]]
 - [[TEm - food]]
-- [[Thr - cleanse purify oneself]]
-- [[TmE - covet desire something]]
+- [[Thr - purer]]
+- [[TmE - hope]]
 - [[allah - God]]
-- [[b$r - strip pare something]]
-- [[bny - sons]]
-- [[bqy - remain]]
+- [[b$r - man]]
+- [[bny - son]]
+- [[bqy - more lasting]]
 - [[dbr - turn back]]
-- [[dry - know]]
+- [[dry - can make you]]
 - [[dyn - judgment]]
-- [[fkr - deep thought]]
+- [[fkr - reflect]]
 - [[frr - flight]]
-- [[ftn - burn melt something]]
-- [[gfr - cover conceal]]
-- [[gyr - ghayr]]
+- [[ftn - trial]]
+- [[gfr - oft-forgiving]]
+- [[gyr - without]]
 - [[hdy - guide]]
-- [[hjr - cut off]]
+- [[hjr - emigrated]]
 - [[jEl - we made]]
-- [[jnd - army]]
-- [[jnn - cover]]
-- [[jrm - criminals]]
+- [[jnd - hosts]]
+- [[jnn - gardens]]
+- [[jrm - crime]]
 - [[k*b - denied]]
-- [[kbr - greater]]
+- [[kbr - great]]
 
 ## Sample (ayah 1)
 

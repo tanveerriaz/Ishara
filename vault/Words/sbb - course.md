@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sbb - rope anything by]]
+- [[sbb - course]]
 
 ### Meaning
 **course** · Lemma **سَبَب**

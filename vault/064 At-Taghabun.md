@@ -14,84 +14,84 @@ The Mutual Disillusion · 18 ayahs
 
 ## Words in this surah (graph)
 
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[yH*r - warns you]] — `يَحْذَرُ` · warns you
-- [[Hlym - forbearing]] — `حَلِيم` · forbearing
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[ysyr - easy]] — `يَسِير` · easy
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[qrD - loan]] — `قَرْض` · loan
-- [[bEv - we sent]] — `بَعَثَ` · we sent
-- [[Elm - know]] — `عَلِمَ` · know
-- [[yDAEf - will doubled]] — `يُضاعِفُ` · will doubled
-- [[qbl - before]] — `قَبْل` · before
-- [[bynp - clear proofs]] — `بَيِّنَة` · clear proofs
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[>jr - reward]] — `أَجْر` · reward
+- [[$Y' - thing]] — `شَىْء` · thing
 - [[Swr - trumpet]] — `صَوَّرَ` · trumpet
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[gfr - forgive]] — `غَفَرَ` · forgive
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
-- [[Ayp - signs]] — `آيَة` · signs
+- [[nwr - light]] — `نُور` · light
+- [[ysyr - easy]] — `يَسِير` · easy
+- [[EZym - great]] — `عَظِيم` · great
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[b$r - man]] — `بُشِّرَ` · man
+- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[allah - God]] — `الله` · God
+- [[Swrp - forms]] — `صُورَة` · forms
+- [[>Eln - they declare]] — `أَعْلَن` · they declare
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[kl - every]] — `كُلّ` · every
+- [[xyr - better]] — `خَيْر` · better
+- [[blAg - conveyance]] — `بَلاغ` · conveyance
+- [[>sr - they conceal]] — `أَسَرَّ` · they conceal
+- [[rb - lord]] — `رَبّ` · lord
+- [[rHym - merciful]] — `رَحِيم` · merciful
+- [[qdyr - all-powerful]] — `قَدِير` · all-powerful
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[Ezyz - all-mighty]] — `عَزِيز` · all-mighty
 
 ## Roots
 
 - [[$HH - miserly]]
-- [[$hd - witnessing]]
+- [[$hd - witness]]
 - [[$kr - gratitude]]
 - [[$y> - thing]]
 - [[*wq - taste]]
-- [[>*n - ear]]
-- [[>bd - absolute long]]
-- [[>jr - recompensing rewarding someone]]
+- [[>*n - by permission]]
+- [[>bd - ever]]
+- [[>jr - reward]]
 - [[>lh - god]]
 - [[>lm - painful]]
 - [[>mn - believe]]
-- [[>mr - amara]]
+- [[>mr - command]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[DEf - weak]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[EZm - great]]
-- [[Edw - turn]]
-- [[Efw - efface obliterate]]
+- [[Edw - enemy]]
+- [[Efw - pardon]]
 - [[Elm - knowledge]]
-- [[Eln - make something open]]
-- [[Eml - intentional action deed]]
+- [[Eln - they declare]]
+- [[Eml - do]]
 - [[End - near]]
 - [[Ezz - all-mighty]]
-- [[H*r - fear]]
-- [[Hkm - prevent restrain someone]]
+- [[H*r - warns you]]
+- [[Hkm - all-wise]]
 - [[Hlm - forbearing]]
 - [[Hmd - praise]]
-- [[Hqq - established as true]]
+- [[Hqq - truth]]
 - [[Hsn - good]]
-- [[SHb - lord]]
-- [[Sdr - front part something]]
-- [[SfH - side lateral part]]
-- [[SlH - make something good]]
-- [[Swb - descend go down]]
-- [[Swr - incline]]
+- [[SHb - companion]]
+- [[Sdr - breasts]]
+- [[SfH - overlook]]
+- [[SlH - righteous deeds]]
+- [[Swb - befalls you]]
+- [[Swr - trumpet]]
 - [[Syr - destination]]
 - [[TwE - obey]]
 - [[allah - God]]
-- [[b$r - strip pare something]]
+- [[b$r - man]]
 - [[b>s - wretched]]
-- [[bEv - remove restraint]]
-- [[bSr - mental perception]]
-- [[blg - reach]]
+- [[bEv - we sent]]
+- [[bSr - all-seer]]
+- [[blg - conveyance]]
 - [[byn - clear]]
 - [[dxl - enter]]
-- [[flH - cleave split]]
-- [[ftn - burn melt something]]
-- [[fwz - attain good fortune]]
+- [[flH - successful ones]]
+- [[ftn - trial]]
+- [[fwz - success]]
 
 ## Sample (ayah 1)
 

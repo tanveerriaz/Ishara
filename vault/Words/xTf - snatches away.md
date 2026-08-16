@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xTf - seize]]
+- [[xTf - snatches away]]
 
 ### Meaning
 **snatches away** · Lemma **خَطِفَ**

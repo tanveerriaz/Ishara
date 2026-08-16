@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[SyH - raise one's voice]]
+- [[SyH - shout]]
 
 ### Meaning
 **shout** · Lemma **صَيْحَة**

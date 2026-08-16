@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$qw - unblessed]]
+- [[$qw - wretched one]]
 
 ### Meaning
 **wretched one** · Lemma **أَشْقَى**

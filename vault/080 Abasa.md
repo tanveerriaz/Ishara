@@ -15,83 +15,83 @@ He Frowned · 42 ayahs
 ## Words in this surah (graph)
 
 - [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
-- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
-- [[>EmY - blind]] — `أَعْمَى` · blind
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjh - faces]] — `وَجْه` · faces
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[frt - you flee]] — `فَرَّتْ` · you flee
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[>b - father]] — `أَب` · father
-- [[mrfwEp - raised]] — `مَرْفُوعَة` · raised
-- [[mtAE - enjoyment]] — `مَتاع` · enjoyment
-- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
-- [[nxl - date-palms]] — `نَخْل` · date-palms
-- [[$>n - any situation]] — `شَأْن` · any situation
-- [[ysr - ease]] — `يُسْر` · ease
-- [[qtl - kill]] — `قَتَلَ` · kill
-- [[fAkhp - fruits]] — `فاكِهَة` · fruits
-- [[krym - noble]] — `كَرِيم` · noble
-- [[*krY - reminder]] — `ذِكْرَى` · reminder
-- [[mThrp - purified]] — `مُطَهَّرَة` · purified
-- [[Sb - will poured]] — `صَبَّ` · will poured
-- [[>y - o you]] — `أَيّ` · o you
-- [[Enb - grapes]] — `عِنَب` · grapes
+- [[x$y - fear]] — `خَشِيَ` · fear
+- [[qDY - surely]] — `قَضَى` · surely
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[<nsAn - man]] — `إِنسان` · man
+- [[SAHbp - wife]] — `صاحِبَة` · wife
 - [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[ysr - ease]] — `يُسْر` · ease
+- [[frt - you flee]] — `فَرَّتْ` · you flee
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[mA' - water]] — `ماء` · water
+- [[$>n - any situation]] — `شَأْن` · any situation
+- [[br - land]] — `بِرّ` · land
+- [[kl - every]] — `كُلّ` · every
+- [[>n$r - raise dead]] — `أَنشَرَ` · raise dead
+- [[>b - father]] — `أَب` · father
+- [[sEY - strive]] — `سَعَى` · strive
+- [[mrfwEp - raised]] — `مَرْفُوعَة` · raised
+- [[bnY - children]] — `بُنَىّ` · children
+- [[>m - mother]] — `أُمّ` · mother
+- [[nfE - benefit]] — `نَفَعَ` · benefit
+- [[nZr - see]] — `نَظَرَ` · see
+- [[wjh - faces]] — `وَجْه` · faces
+- [[ywm - day]] — `يَوْم` · day
 
 ## Roots
 
-- [[$>n - matter]]
-- [[$qq - cleave]]
+- [[$>n - any situation]]
+- [[$qq - opposes]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[>bw - forefathers]]
-- [[>mm - leadership]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mm - nation]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[DHk - laugh]]
 - [[Ebs - frown]]
-- [[Emy - blindness]]
+- [[Emy - blind]]
 - [[Enb - grapes]]
 - [[Hbb - love]]
-- [[Hdq - black part eye]]
-- [[SHb - lord]]
+- [[Hdq - gardens]]
+- [[SHb - companion]]
 - [[SHf - scriptures]]
-- [[Sbb - pour out shed]]
+- [[Sbb - will poured]]
 - [[TEm - food]]
-- [[Thr - cleanse purify oneself]]
-- [[b$r - strip pare something]]
-- [[bny - sons]]
+- [[Thr - purer]]
+- [[b$r - man]]
+- [[bny - son]]
 - [[brr - land]]
-- [[dry - know]]
-- [[fjr - cleave cut open]]
-- [[fkh - eating fruit]]
+- [[dry - can make you]]
+- [[fjr - dawn]]
+- [[fkh - fruits]]
 - [[frr - flight]]
-- [[gbr - dust dusty color]]
-- [[glb - overcome]]
-- [[gny - dwelling residing place]]
+- [[gbr - remain behind]]
+- [[glb - victorious]]
+- [[gny - will avail]]
 - [[jy> - came them]]
 - [[kfr - disbelieve]]
 - [[kll - every]]
 - [[krm - noble]]
-- [[lhw - uvula]]
+- [[lhw - diversion]]
 - [[mr> - wife]]
-- [[mtE - anything useful advantageous]]
-- [[mwh - coat something]]
+- [[mtE - enjoyment]]
+- [[mwh - water]]
 - [[mwt - death]]
-- [[n$r - spread open something]]
+- [[n$r - resurrection]]
 - [[nEm - favor]]
-- [[nTf - type sweetmeat]]
-- [[nZr - look at towards]]
+- [[nTf - semen-drop]]
+- [[nZr - see]]
 - [[nbt - grows]]
-- [[nfE - profit]]
-- [[nxl - clear]]
-- [[qDy - decide]]
-- [[qbr - type small bird]]
+- [[nfE - benefits]]
+- [[nxl - date-palms]]
+- [[qDy - surely]]
+- [[qbr - graves]]
 
 ## Sample (ayah 1)
 

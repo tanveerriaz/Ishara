@@ -14,83 +14,83 @@ The Overthrowing · 29 ayahs
 
 ## Words in this surah (graph)
 
-- [[$yTAn - shaitaan]] — `شَيْطان` · shaitaan
-- [[End - near]] — `عِند` · near
-- [[mkyn - firmly established]] — `مَكِين` · firmly established
-- [[njm - stars]] — `نَجْم` · stars
-- [[krym - noble]] — `كَرِيم` · noble
-- [[syrt - could moved]] — `سُيِّرَتْ` · could moved
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[>fq - horizons]] — `أُفُق` · horizons
-- [[n$rt - will spread]] — `نُشِرَتْ` · will spread
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[rjym - accursed]] — `رَجِيم` · accursed
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[rb - lord]] — `رَبّ` · lord
-- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[$ms - sun]] — `شَمْس` · sun
-- [[zwjt - paired]] — `زُوِّجَتْ` · paired
-- [[>y - o you]] — `أَيّ` · o you
-- [[qwl - speech]] — `قَوْل` · speech
 - [[*kr - remember]] — `ذَكَرَ` · remember
+- [[rswl - messenger]] — `رَسُول` · messenger
+- [[n$rt - will spread]] — `نُشِرَتْ` · will spread
+- [[bHr - sea]] — `بَحْر` · sea
+- [[njm - stars]] — `نَجْم` · stars
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[s>l - ask]] — `سَأَلَ` · ask
+- [[mkyn - firmly established]] — `مَكِين` · firmly established
+- [[*hb - gold]] — `ذَهَبَ` · gold
+- [[rjym - accursed]] — `رَجِيم` · accursed
+- [[End - near]] — `عِند` · near
 - [[SHf - scriptures]] — `صُحُف` · scriptures
+- [[lyl - night]] — `لَيْل` · night
+- [[mbyn - clear]] — `مُبِين` · clear
 - [[Elm - know]] — `عَلِمَ` · know
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[jHym - hellfire]] — `جَحِيم` · hellfire
+- [[krym - noble]] — `كَرِيم` · noble
+- [[jwAr - ships]] — `جَوار` · ships
+- [[SbH - morning]] — `صُبْح` · morning
+- [[$yTAn - shaitaan]] — `شَيْطان` · shaitaan
+- [[>zlft - brought near]] — `أُزْلِفَتْ` · brought near
+- [[jnp - gardens]] — `جَنَّة` · gardens
 - [[jbl - mountains]] — `جَبَل` · mountains
+- [[syrt - could moved]] — `سُيِّرَتْ` · could moved
+- [[zwjt - paired]] — `زُوِّجَتْ` · paired
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
-- [[$ms - horse refusing ridden]]
+- [[$Tn - shaitaan]]
+- [[$ms - sun]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
-- [[>fq - go one's own]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[*nb - sin]]
+- [[>fq - horizons]]
 - [[>mn - believe]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[E$r - ten]]
 - [[Elm - knowledge]]
 - [[End - near]]
-- [[Er$ - shaded structure]]
-- [[H$r - gather collect people]]
-- [[HDr - present]]
-- [[SHb - lord]]
+- [[Er$ - throne]]
+- [[H$r - will gathered]]
+- [[HDr - will brought]]
+- [[SHb - companion]]
 - [[SHf - scriptures]]
 - [[SbH - morning]]
 - [[TwE - obey]]
 - [[allah - God]]
-- [[bHr - large body water]]
+- [[bHr - sea]]
 - [[byn - clear]]
-- [[gyb - absent]]
-- [[jHm - intense heat burning]]
-- [[jbl - large company multitude]]
-- [[jnn - cover]]
-- [[jry - passage time events]]
+- [[gyb - unseen]]
+- [[jHm - hellfire]]
+- [[jbl - mountains]]
+- [[jnn - gardens]]
+- [[jry - flow]]
 - [[krm - noble]]
 - [[lyl - night]]
-- [[mkn - establish]]
-- [[n$r - spread open something]]
-- [[nfs - soul]]
-- [[njm - star constellation]]
-- [[qsm - division apportionment things]]
+- [[mkn - we established]]
+- [[n$r - resurrection]]
+- [[nfs - themselves]]
+- [[njm - stars]]
+- [[qsm - i swear]]
 - [[qtl - kill]]
-- [[qwl - qawala]]
+- [[qwl - say]]
 - [[qwm - upright]]
 - [[qwy - strength]]
-- [[r>y - see eye perceive]]
+- [[r>y - you see]]
 - [[rbb - Lord]]
-- [[rjm - throw stones]]
+- [[rjm - accursed]]
 - [[rsl - messenger]]
 - [[s>l - ask]]
-- [[sEr - kindle stir fire]]
+- [[sEr - blaze]]
 - [[sjr - fill something]]
 - [[smw - name]]
-- [[syr - go]]
-- [[zlf - will brought near]]
-- [[zwj - one pair couple]]
+- [[syr - travel]]
+- [[zlf - position]]
+- [[zwj - wives]]
 
 ## Sample (ayah 1)
 

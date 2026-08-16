@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rhq - come]]
+- [[rhq - will cover]]
 
 ### Meaning
 **will cover** · Lemma **يَرْهَقُ**

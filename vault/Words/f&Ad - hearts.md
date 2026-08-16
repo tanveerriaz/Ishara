@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[f>d - heart]]
+- [[f>d - hearts]]
 
 ### Meaning
 **hearts** · Lemma **فُؤاد**

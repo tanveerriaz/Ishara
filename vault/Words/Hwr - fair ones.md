@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hwr - returning circling]]
+- [[Hwr - disciples]]
 
 ### Meaning
 **fair ones** · Lemma **حُور**

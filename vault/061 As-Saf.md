@@ -14,83 +14,83 @@ The Ranks · 14 ayahs
 
 ## Words in this surah (graph)
 
-- [[Sf - rows]] — `صَفّ` · rows
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[dl - direct you]] — `دَلَّ` · direct you
+- [[mskn - dwellings]] — `مَسْكَن` · dwellings
+- [[>w*y - hurt]] — `أُوذِيَ` · hurt
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
-- [[byn - between them]] — `بَيْن` · between them
-- [[HwAry - disciples]] — `حَوارِيّ` · disciples
-- [[bEd - after]] — `بَعْد` · after
-- [[Elm - know]] — `عَلِمَ` · know
-- [[dyn - religion]] — `دِين` · religion
-- [[bynp - clear proofs]] — `بَيِّنَة` · clear proofs
-- [[zAg - deviated]] — `زاغَ` · deviated
-- [[nSyr - any helper]] — `نَصِير` · any helper
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[gfr - forgive]] — `غَفَرَ` · forgive
-- [[krh - unwillingly]] — `كُرْه` · unwillingly
-- [[>fwAh - mouths]] — `أَفْواه` · mouths
+- [[nwr - light]] — `نُور` · light
+- [[dEA - call]] — `دَعا` · call
+- [[EZym - great]] — `عَظِيم` · great
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[qryb - near]] — `قَرِيب` · near
+- [[>njY - we saved]] — `أَنجَى` · we saved
+- [[tjArp - commerce]] — `تِجارَة` · commerce
+- [[b$r - man]] — `بُشِّرَ` · man
 - [[Tybp - good things]] — `طَيِّبَة` · good things
-- [[sHr - magic]] — `سِحْر` · magic
+- [[allah - God]] — `الله` · God
 - [[nSr - help]] — `نَصَرَ` · help
-- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
-- [[>SbH - they became]] — `أَصْبَحَ` · they became
+- [[kl - every]] — `كُلّ` · every
+- [[xyr - better]] — `خَيْر` · better
+- [[bnyAn - building]] — `بُنْيان` · building
+- [[TA}fp - group]] — `طائِفَة` · group
+- [[qwm - people]] — `قَوْم` · people
+- [[>Hbb - love]] — `أَحْبَبْ` · love
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[krh - unwillingly]] — `كُرْه` · unwillingly
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[qAtl - fight]] — `قاتَلَ` · fight
+- [[Asm - name]] — `اسْم` · name
 
 ## Roots
 
-- [[$rk - sharing partnership]]
-- [[*nb - tail]]
+- [[$rk - polytheists]]
+- [[*nb - sin]]
 - [[>*y - hurt]]
 - [[>lm - painful]]
 - [[>mn - believe]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>xr - final part something]]
-- [[>yd - earth]]
-- [[>yy - ism]]
-- [[E*b - motes particles floating]]
+- [[>xr - hereafter]]
+- [[>yd - supports]]
+- [[>yy - signs]]
+- [[E*b - punishment]]
 - [[EZm - great]]
-- [[Edw - turn]]
+- [[Edw - enemy]]
 - [[Elm - knowledge]]
 - [[End - near]]
 - [[Ezz - all-mighty]]
 - [[Hbb - love]]
-- [[Hkm - prevent restrain someone]]
+- [[Hkm - all-wise]]
 - [[Hmd - praise]]
-- [[Hqq - established as true]]
-- [[Hwr - returning circling]]
+- [[Hqq - truth]]
+- [[Hwr - disciples]]
 - [[SbH - morning]]
-- [[Sdq - speak truth]]
-- [[Sff - arrange things row]]
-- [[Tf> - specific phrase concept]]
-- [[Twf - go walk around]]
-- [[Tyb - something good]]
-- [[Zhr - back]]
-- [[Zlm - put something wrong]]
+- [[Sdq - truthful]]
+- [[Sff - rows]]
+- [[Tf> - extinguish]]
+- [[Twf - group]]
+- [[Tyb - good things]]
+- [[Zhr - backs]]
+- [[Zlm - wrongdoers]]
 - [[allah - God]]
-- [[b$r - strip pare something]]
-- [[bEd - become distant]]
-- [[bny - sons]]
+- [[b$r - man]]
+- [[bEd - after]]
+- [[bny - son]]
 - [[byn - clear]]
 - [[dEw - call]]
-- [[dll - so he made]]
+- [[dll - direct you]]
 - [[dxl - enter]]
 - [[dyn - judgment]]
-- [[fEl - deed]]
+- [[fEl - you do]]
 - [[fry - invent]]
-- [[fsq - go forth something]]
+- [[fsq - defiantly disobedient]]
 - [[ftH - victory]]
-- [[fwh - mouth]]
-- [[fwz - attain good fortune]]
-- [[gfr - cover conceal]]
+- [[fwh - mouths]]
+- [[fwz - success]]
+- [[gfr - oft-forgiving]]
 - [[hdy - guide]]
 - [[jhd - strive]]
-- [[jnn - cover]]
-- [[jry - passage time events]]
+- [[jnn - gardens]]
+- [[jry - flow]]
 - [[jy> - came them]]
 
 ## Sample (ayah 1)

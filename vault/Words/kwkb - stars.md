@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[kwkb - star planet]]
+- [[kwkb - stars]]
 
 ### Meaning
 **stars** · Lemma **كَوْكَب**

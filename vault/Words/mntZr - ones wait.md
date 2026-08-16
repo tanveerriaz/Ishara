@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nZr - look at towards]]
+- [[nZr - see]]
 
 ### Meaning
 **ones wait** · Lemma **مُنتَظِر**

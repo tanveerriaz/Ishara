@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rmy - throw cast something]]
+- [[rmy - accuse]]
 
 ### Meaning
 **accuse** · Lemma **رَمَى**

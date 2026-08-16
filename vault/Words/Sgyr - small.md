@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Sgr - small little]]
+- [[Sgr - small]]
 
 ### Meaning
 **small** · Lemma **صَغِير**

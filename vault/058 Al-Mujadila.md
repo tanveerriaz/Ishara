@@ -16,81 +16,81 @@ The Pleading Woman · 22 ayahs
 
 - [[njwY - private conversation]] — `نَجْوَى` · private conversation
 - [[EdwAn - transgression]] — `عُدْوان` · transgression
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[jmyE - all]] — `جَمِيع` · all
+- [[Efw - oft-pardoning]] — `عَفْو` · oft-pardoning
+- [[xmsp - five]] — `خَمْسَة` · five
+- [[wd - wished]] — `وَدَّ` · wished
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[mhyn - humiliating]] — `مُهِين` · humiliating
+- [[Hdwd - limits]] — `حُدُود` · limits
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[qdm - feet]] — `قَدَّمَ` · feet
+- [[allah - God]] — `الله` · God
+- [[qwy - all-strong]] — `قَوِيّ` · all-strong
+- [[br - land]] — `بِرّ` · land
+- [[SyAm - fasting]] — `صِيام` · fasting
+- [[lys - not]] — `لَيْسَ` · not
+- [[SlAp - prayer]] — `صَلاة` · prayer
+- [[kl - every]] — `كُلّ` · every
+- [[ktb - prescribed]] — `كَتَبَ` · prescribed
+- [[nsA' - women]] — `نِساء` · women
+- [[xyr - better]] — `خَيْر` · better
 - [[EAd - aad]] — `عادَ` · aad
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjd - we found]] — `وَجَدَ` · we found
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[gDb - wrath]] — `غَضَب` · wrath
-- [[byn - between them]] — `بَيْن` · between them
-- [[Hsb - think]] — `حَسْب` · think
-- [[bEv - we sent]] — `بَعَثَ` · we sent
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[Elm - know]] — `عَلِمَ` · know
-- [[zkAp - zakah]] — `زَكاة` · zakah
-- [[<ymAn - faith]] — `إِيمان` · faith
-- [[qbl - before]] — `قَبْل` · before
-- [[bynp - clear proofs]] — `بَيِّنَة` · clear proofs
-- [[Hzb - party]] — `حِزْب` · party
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[kA*b - liars]] — `كاذِب` · liars
-- [[H$r - will gathered]] — `حَشَرَ` · will gathered
+- [[qwm - people]] — `قَوْم` · people
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$fq - fear]]
-- [[$hd - witnessing]]
-- [[$hr - new moon]]
+- [[$fq - fearful]]
+- [[$hd - witness]]
+- [[$hr - months]]
 - [[$kw - complain show grief]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[*ll - humiliation]]
-- [[>*n - ear]]
+- [[>*n - by permission]]
 - [[>bw - forefathers]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
+- [[>vm - sin]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yd - earth]]
-- [[>yy - ism]]
+- [[>yd - supports]]
+- [[>yy - signs]]
 - [[Drr - adversity]]
 - [[E$r - ten]]
-- [[E*b - motes particles floating]]
-- [[ESy - disobey]]
-- [[Edd - count]]
-- [[Edw - turn]]
-- [[Efw - efface obliterate]]
+- [[E*b - punishment]]
+- [[ESy - they disobeyed]]
+- [[Edd - number]]
+- [[Edw - enemy]]
+- [[Efw - pardon]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[Ewd - aad]]
 - [[Ezz - all-mighty]]
-- [[H$r - gather collect people]]
-- [[HSy - count reckon]]
-- [[Hdd - define]]
-- [[Hlf - type tall]]
+- [[H$r - will gathered]]
+- [[HSy - best calculated]]
+- [[Hdd - limits]]
+- [[Hlf - they swear]]
 - [[Hrr - heat]]
-- [[Hsb - number]]
-- [[Hwr - returning circling]]
+- [[Hsb - account]]
+- [[Hwr - disciples]]
 - [[Hyy - life]]
-- [[Hzb - set portion quran]]
-- [[Hzn - become sorrowful]]
-- [[SHb - lord]]
-- [[Sdd - turn away]]
-- [[Sdq - speak truth]]
+- [[Hzb - party]]
+- [[Hzn - will grieve]]
+- [[SHb - companion]]
+- [[Sdd - hinder]]
+- [[Sdq - truthful]]
 - [[Slw - prayer]]
-- [[Sly - exposed fire heat]]
-- [[Swm - abstain]]
+- [[Sly - burn therein]]
+- [[Swm - fasting]]
 - [[Syr - destination]]
 
 ## Sample (ayah 1)

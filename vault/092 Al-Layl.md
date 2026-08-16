@@ -14,71 +14,71 @@ The Night · 21 ayahs
 
 ## Words in this surah (graph)
 
-- [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
-- [[End - near]] — `عِند` · near
-- [[hdY - guidance]] — `هَدَى` · guidance
-- [[AtY - give]] — `آتَى` · give
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[nEmp - favor]] — `نِعْمَة` · favor
-- [[wjh - faces]] — `وَجْه` · faces
-- [[rb - lord]] — `رَبّ` · lord
-- [[>Hd - anyone]] — `أَحَد` · anyone
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[>ETY - they given]] — `أَعْطَى` · they given
 - [[*kr - remember]] — `ذَكَرَ` · remember
 - [[>ElY - highest]] — `أَعْلَى` · highest
-- [[Axr - hereafter]] — `آخِر` · hereafter
-- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
-- [[>wl - first]] — `أَوَّل` · first
-- [[Sdq - truth]] — `صَدَقَ` · truth
-- [[lyl - night]] — `لَيْل` · night
-- [[$tY - diverse]] — `شَتَّى` · diverse
-- [[>nvY - female]] — `أُنثَى` · female
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[HsnY - best]] — `حُسْنَى` · best
+- [[AbtgA' - seeking]] — `ابْتِغاء` · seeking
 - [[sEy - effort]] — `سَعْي` · effort
+- [[>n*r - warn]] — `أَنذَرَ` · warn
+- [[AstgnY - self-sufficient]] — `اسْتَغْنَى` · self-sufficient
+- [[HsnY - best]] — `حُسْنَى` · best
+- [[g$y - overcoming]] — `غَشِيَ` · overcoming
+- [[hdY - guidance]] — `هَدَى` · guidance
+- [[End - near]] — `عِند` · near
+- [[$tY - diverse]] — `شَتَّى` · diverse
+- [[lyl - night]] — `لَيْل` · night
+- [[AtY - give]] — `آتَى` · give
+- [[>$qY - wretched one]] — `أَشْقَى` · wretched one
+- [[tzkY - purifies himself]] — `تَزَكَّى` · purifies himself
+- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
+- [[nAr - fire]] — `نار` · fire
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[wjh - faces]] — `وَجْه` · faces
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[nhAr - day]] — `نَهار` · day
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[>nvY - female]] — `أُنثَى` · female
+- [[>wl - first]] — `أَوَّل` · first
+- [[xlq - creation]] — `خَلَقَ` · creation
 
 ## Roots
 
-- [[$qw - unblessed]]
-- [[$tt - scatter]]
-- [[*kr - remember recall something]]
+- [[$qw - wretched one]]
+- [[$tt - diverse]]
+- [[*kr - remember]]
 - [[>Hd - anyone]]
 - [[>nv - female]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
-- [[>xr - final part something]]
-- [[ETw - take handle something]]
-- [[Elw - superiority]]
+- [[>wl - first]]
+- [[>xr - hereafter]]
+- [[ETw - gift]]
+- [[Elw - high]]
 - [[End - near]]
 - [[Esr - hardship]]
 - [[Hsn - good]]
-- [[Sdq - speak truth]]
-- [[Sly - exposed fire heat]]
-- [[bgy - seek desire something]]
-- [[bxl - person niggardliness often]]
-- [[g$w - cover conceal]]
-- [[gny - dwelling residing place]]
+- [[Sdq - truthful]]
+- [[Sly - burn therein]]
+- [[bgy - seeking]]
+- [[bxl - withhold]]
+- [[g$w - he covers]]
+- [[gny - will avail]]
 - [[hdy - guide]]
 - [[jlw - clear]]
-- [[jnb - side person object]]
-- [[jzy - recompense reward]]
+- [[jnb - side]]
+- [[jzy - recompense]]
 - [[k*b - denied]]
 - [[lyl - night]]
 - [[mwl - wealth]]
-- [[n*r - make vow impose]]
+- [[n*r - warner]]
 - [[nEm - favor]]
-- [[nhr - dig river channel]]
-- [[nwr - brand mark camels]]
-- [[rDw - pleased]]
+- [[nhr - day]]
+- [[nwr - fire]]
+- [[rDw - pleasure]]
 - [[rbb - Lord]]
-- [[rdy - he falls]]
-- [[sEy - walk]]
-- [[wjh - 'face' 'countenance]]
+- [[rdy - ruined me]]
+- [[sEy - effort]]
+- [[wjh - faces]]
 - [[wly - protector]]
-- [[wqy - protect]]
+- [[wqy - fear]]
 - [[xlq - create]]
 - [[ysr - easy]]
 - [[zkw - purify]]

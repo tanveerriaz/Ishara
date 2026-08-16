@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nwr - brand mark camels]]
+- [[nwr - fire]]
 
 ### Meaning
 **fire** · Lemma **نار**

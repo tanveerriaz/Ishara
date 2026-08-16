@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bHr - large body water]]
+- [[bHr - sea]]
 
 ### Meaning
 **sea** · Lemma **بَحْر**

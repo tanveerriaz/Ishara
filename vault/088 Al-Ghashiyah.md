@@ -14,82 +14,82 @@ The Overwhelming · 26 ayahs
 
 ## Words in this surah (graph)
 
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[xA$E - humbled]] — `خاشِع` · humbled
-- [[sqY - water]] — `سَقَى` · water
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjh - faces]] — `وَجْه` · faces
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[E*b - punishes]] — `عَذَّبَ` · punishes
-- [[rfE - we raised]] — `رَفَعَ` · we raised
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[gA$yp - overwhelming]] — `غاشِيَة` · overwhelming
-- [[jwE - hunger]] — `جُوع` · hunger
-- [[jAryp - sailing]] — `جارِيَة` · sailing
-- [[Eyn - eyes]] — `عَيْن` · eyes
-- [[rADyp - pleasant]] — `راضِيَة` · pleasant
 - [[*kr - remember]] — `ذَكَرَ` · remember
-- [[lys - not]] — `لَيْسَ` · not
-- [[HsAb - account]] — `حِساب` · account
-- [[twlY - turns away]] — `تَوَلَّى` · turns away
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[jnp - gardens]] — `جَنَّة` · gardens
-- [[E*Ab - punishment]] — `عَذاب` · punishment
-- [[nZr - see]] — `نَظَرَ` · see
-- [[sEy - effort]] — `سَعْي` · effort
+- [[>tY - comes them]] — `أَتَى` · comes them
+- [[sqY - water]] — `سَقَى` · water
 - [[mrfwEp - raised]] — `مَرْفُوعَة` · raised
+- [[sEy - effort]] — `سَعْي` · effort
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[rfE - we raised]] — `رَفَعَ` · we raised
+- [[srr - thrones]] — `سُرُر` · thrones
+- [[jAryp - sailing]] — `جارِيَة` · sailing
+- [[nZr - see]] — `نَظَرَ` · see
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[rADyp - pleasant]] — `راضِيَة` · pleasant
+- [[>kwAb - cups]] — `أَكْواب` · cups
+- [[>gnt - will avail]] — `أَغْنَتْ` · will avail
+- [[nAr - fire]] — `نار` · fire
+- [[ySlY - burn therein]] — `يَصْلَى` · burn therein
+- [[wjh - faces]] — `وَجْه` · faces
+- [[kyf - how]] — `كَيْف` · how
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[ywm - day]] — `يَوْم` · day
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[xA$E - humbled]] — `خاشِع` · humbled
+- [[>kbr - greater]] — `أَكْبَر` · greater
 
 ## Roots
 
-- [[*kr - remember recall something]]
-- [[>bl - camels]]
+- [[*kr - remember]]
+- [[>bl - say]]
 - [[>ny - hours]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wb - return]]
-- [[DrE - lower]]
-- [[E*b - motes particles floating]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
+- [[>wb - place return]]
+- [[DrE - humble themselves]]
+- [[E*b - punishment]]
+- [[Elw - high]]
+- [[Eml - do]]
 - [[Eyn - eyes]]
-- [[Hdv - accidents]]
+- [[Hdv - statement]]
 - [[Hmy - protect]]
-- [[Hsb - number]]
-- [[Sff - arrange things row]]
-- [[Sly - exposed fire heat]]
+- [[Hsb - account]]
+- [[Sff - rows]]
+- [[Sly - burn therein]]
 - [[TEm - food]]
 - [[allah - God]]
-- [[bvv - scatter]]
-- [[g$w - cover conceal]]
-- [[gny - dwelling residing place]]
-- [[jbl - large company multitude]]
-- [[jnn - cover]]
-- [[jry - passage time events]]
+- [[bvv - dispersing]]
+- [[g$w - he covers]]
+- [[gny - will avail]]
+- [[jbl - mountains]]
+- [[jnn - gardens]]
+- [[jry - flow]]
 - [[jwE - hunger]]
-- [[kbr - greater]]
+- [[kbr - great]]
 - [[kfr - disbelieve]]
-- [[kwb - games like backgammon]]
-- [[kyf - kayyafa]]
-- [[lgw - speech actions vain]]
+- [[kwb - cups]]
+- [[kyf - how]]
+- [[lgw - vain talk]]
 - [[lys - not]]
 - [[nEm - favor]]
-- [[nSb - set up]]
-- [[nZr - look at towards]]
-- [[nwr - brand mark camels]]
-- [[rDw - pleased]]
-- [[rfE - raise]]
-- [[sEy - walk]]
+- [[nSb - share]]
+- [[nZr - see]]
+- [[nwr - fire]]
+- [[rDw - pleasure]]
+- [[rfE - we raised]]
+- [[sEy - effort]]
 - [[sTr - tales]]
-- [[smE - hearing]]
+- [[smE - all-hearer]]
 - [[smn - fatness plumpness]]
 - [[smw - name]]
-- [[sqy - give get water]]
+- [[sqy - we give you]]
 - [[srr - secretly]]
-- [[wDE - put lay down]]
-- [[wjh - 'face' 'countenance]]
+- [[wDE - she delivered]]
+- [[wjh - faces]]
 - [[wly - protector]]
-- [[x$E - humble]]
+- [[x$E - humbled]]
 - [[xlq - create]]
 - [[ywm - day]]
 

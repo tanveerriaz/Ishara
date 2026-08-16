@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jbr - set broken bone]]
+- [[jbr - tyrant]]
 
 ### Meaning
 **tyrant** · Lemma **جَبّار**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rdy - he falls]]
+- [[rdy - ruined me]]
 
 ### Meaning
 **ruined me** · Lemma **أَرْدَى**

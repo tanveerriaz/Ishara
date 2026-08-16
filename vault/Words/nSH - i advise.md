@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nSH - advise sincerely]]
+- [[nSH - i advise]]
 
 ### Meaning
 **i advise** · Lemma **نَصَحُ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[SlH - make something good]]
+- [[SlH - righteous deeds]]
 
 ### Meaning
 **reconciliation** · Lemma **إِصْلاح**

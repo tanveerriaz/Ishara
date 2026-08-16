@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ESb - twist]]
+- [[ESb - group]]
 
 ### Meaning
 **group** · Lemma **عُصْبَة**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[DHw - actions performed during]]
+- [[DHw - its brightness]]
 
 ### Meaning
 **its brightness** · Lemma **ضُحًى**

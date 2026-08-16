@@ -15,83 +15,83 @@ The Man · 31 ayahs
 ## Words in this surah (graph)
 
 - [[fDp - silver]] — `فِضَّة` · silver
+- [[>TEm - feed]] — `أَطْعَمَ` · feed
 - [[TAf - will circulated]] — `طافَ` · will circulated
 - [[k>s - cup]] — `كَأْس` · cup
-- [[>TEm - feed]] — `أَطْعَمَ` · feed
-- [[wjh - faces]] — `وَجْه` · faces
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[slslp - chains]] — `سِلْسِلَة` · chains
-- [[Avm - sinful]] — `آثِم` · sinful
-- [[Hsb - think]] — `حَسْب` · think
-- [[rHmp - mercy]] — `رَحْمَة` · mercy
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[lqY - it granted]] — `لَقَّى` · it granted
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
-- [[smY - name them]] — `سَمَّى` · name them
-- [[EAly - its upside]] — `عالِي` · its upside
-- [[mvl - example]] — `مَثَل` · example
-- [[nEym - delight]] — `نَعِيم` · delight
-- [[$dd - we strengthened]] — `شَدَدْ` · we strengthened
+- [[Hryr - will silk]] — `حَرِير` · will silk
+- [[sEy - effort]] — `سَعْي` · effort
+- [[kbyr - great]] — `كَبِير` · great
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[$r - evil]] — `شَرّ` · evil
 - [[EAjlp - immediate]] — `عاجِلَة` · immediate
-- [[wrA' - behind]] — `وَراء` · behind
-- [[$rAb - drink]] — `شَراب` · drink
-- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[<nsAn - man]] — `إِنسان` · man
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[allah - God]] — `الله` · God
+- [[bkrp - morning]] — `بُكْرَة` · morning
+- [[br - land]] — `بِرّ` · land
+- [[lqY - it granted]] — `لَقَّى` · it granted
+- [[Avm - sinful]] — `آثِم` · sinful
+- [[rb - lord]] — `رَبّ` · lord
+- [[>Hbb - love]] — `أَحْبَبْ` · love
+- [[nEym - delight]] — `نَعِيم` · delight
 
 ## Roots
 
 - [[$dd - severe]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
+- [[$ms - sun]]
 - [[$rb - drink]]
-- [[$rr - sparks fire]]
+- [[$rr - evil]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[*ll - humiliation]]
-- [[>Sl - foundational part something]]
+- [[>Sl - evening]]
 - [[>lm - painful]]
-- [[>ns - mankind]]
+- [[>ns - people]]
 - [[>ny - hours]]
-- [[>rk - person staying put]]
-- [[>sr - bind capture]]
+- [[>rk - couches]]
+- [[>sr - as captives]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
+- [[>vm - sin]]
 - [[>x* - take]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[Ebd - worship]]
 - [[Ebs - frown]]
-- [[Edd - count]]
-- [[Ejl - incite cause someone]]
+- [[Edd - number]]
+- [[Ejl - calf]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Etd - preparation readiness]]
+- [[Elw - high]]
+- [[Etd - she prepared]]
 - [[Eyn - eyes]]
 - [[Hbb - love]]
-- [[Hkm - prevent restrain someone]]
-- [[Hly - being sweet becoming]]
+- [[Hkm - all-wise]]
+- [[Hly - ornaments]]
 - [[Hrr - heat]]
-- [[Hsb - number]]
-- [[Hyn - period time]]
-- [[Sbr - confine restrain]]
+- [[Hsb - account]]
+- [[Hyn - time]]
+- [[Sbr - patient]]
 - [[TEm - food]]
-- [[Thr - cleanse purify oneself]]
+- [[Thr - purer]]
 - [[TwE - obey]]
-- [[Twf - go walk around]]
-- [[Twl - become long]]
-- [[Tyr - anything flies]]
-- [[Zll - shade cover]]
-- [[Zlm - put something wrong]]
+- [[Twf - group]]
+- [[Twl - then]]
+- [[Tyr - birds]]
+- [[Zll - shade]]
+- [[Zlm - wrongdoers]]
 - [[allah - God]]
-- [[bSr - mental perception]]
-- [[bdl - change alter]]
-- [[bkr - go forth come]]
-- [[blw - test try]]
+- [[bSr - all-seer]]
+- [[bdl - change]]
+- [[bkr - morning]]
+- [[blw - was trial]]
 - [[brr - land]]
-- [[dnw - become near]]
+- [[dnw - world]]
 - [[dxl - enter]]
-- [[fDD - break]]
+- [[fDD - silver]]
 
 ## Sample (ayah 1)
 

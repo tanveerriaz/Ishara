@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 
 ### Meaning
 **punishment** · Lemma **عَذاب**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[x$E - humble]]
+- [[x$E - humbled]]
 
 ### Meaning
 **humbled** · Lemma **خاشِع**

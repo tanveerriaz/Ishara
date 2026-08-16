@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jdl - braided twisted object]]
+- [[jdl - dispute]]
 
 ### Meaning
 **dispute** · Lemma **جادَلُ**

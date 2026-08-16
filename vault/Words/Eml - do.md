@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 
 ### Meaning
 **do** · Lemma **عَمِلَ**

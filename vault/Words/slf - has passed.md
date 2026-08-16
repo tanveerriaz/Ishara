@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[slf - what has gone]]
+- [[slf - has passed]]
 
 ### Meaning
 **has passed** · Lemma **سَلَفَ**

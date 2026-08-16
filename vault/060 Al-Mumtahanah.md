@@ -15,83 +15,83 @@ She that is to be examined · 13 ayahs
 ## Words in this surah (graph)
 
 - [[mwdp - love]] — `مَوَدَّة` · love
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[>Elm - knowing]] — `أَعْلَم` · knowing
-- [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[mqsT - act justly]] — `مُقْسِط` · act justly
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rHAm - wombs]] — `أَرْحام` · wombs
-- [[jnAH - blame]] — `جُناح` · blame
-- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[wd - wished]] — `وَدَّ` · wished
+- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
+- [[>jr - reward]] — `أَجْر` · reward
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[bsT - extends]] — `بَسَطَ` · extends
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[fAt - escaped you]] — `فاتَ` · escaped you
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
 - [[mrDAt - pleasure]] — `مَرْضات` · pleasure
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[gDb - wrath]] — `غَضَب` · wrath
-- [[byn - between them]] — `بَيْن` · between them
-- [[>nAb - turns]] — `أَنابَ` · turns
-- [[tqsT - act justly]] — `تُقْسِطُ` · act justly
-- [[Elm - know]] — `عَلِمَ` · know
-- [[dyn - religion]] — `دِين` · religion
-- [[>b - father]] — `أَب` · father
-- [[<ymAn - faith]] — `إِيمان` · faith
-- [[mvl - example]] — `مَثَل` · example
-- [[gfr - forgive]] — `غَفَرَ` · forgive
-- [[vqf - they found]] — `ثُقِفُ` · they found
-- [[yrjwA - expect]] — `يَرْجُوا۟` · expect
-- [[rjE - return]] — `رَجَعَ` · return
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[>$rk - associate]] — `أَشْرَكَ` · associate
+- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[allah - God]] — `الله` · God
+- [[>Eln - they declare]] — `أَعْلَن` · they declare
+- [[EsY - perhaps]] — `عَسَى` · perhaps
+- [[<xrAj - eviction]] — `إِخْراج` · eviction
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[Hll - lawful]] — `حَلَلْ` · lawful
+- [[jnAH - blame]] — `جُناح` · blame
+- [[>rHAm - wombs]] — `أَرْحام` · wombs
+- [[>xfy - you conceal]] — `أُخْفِيَ` · you conceal
+- [[>sr - they conceal]] — `أَسَرَّ` · they conceal
+- [[y}s - have despaired]] — `يَئِسَ` · have despaired
 
 ## Roots
 
-- [[$rk - sharing partnership]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[>bd - absolute long]]
+- [[*hb - gold]]
+- [[>bd - ever]]
 - [[>bw - forefathers]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>mn - believe]]
 - [[>sw - grieve]]
 - [[>ty - give]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[ESm - tie cord]]
-- [[ESy - disobey]]
+- [[ESm - hold fast]]
+- [[ESy - they disobeyed]]
 - [[Ebd - worship]]
-- [[Edw - turn]]
+- [[Edw - enemy]]
 - [[Elm - knowledge]]
-- [[Eln - make something open]]
-- [[Eml - intentional action deed]]
-- [[Eqb - heel human foot]]
-- [[Erf - right]]
-- [[Esy - hope expectation]]
+- [[Eln - they declare]]
+- [[Eml - do]]
+- [[Eqb - end]]
+- [[Erf - fair manner]]
+- [[Esy - perhaps]]
 - [[Ezz - all-mighty]]
 - [[Hbb - love]]
-- [[Hkm - prevent restrain someone]]
+- [[Hkm - all-wise]]
 - [[Hll - lawful]]
 - [[Hmd - praise]]
-- [[Hqq - established as true]]
+- [[Hqq - truth]]
 - [[Hsn - good]]
-- [[SHb - lord]]
+- [[SHb - companion]]
 - [[Syr - destination]]
-- [[Zhr - back]]
-- [[Zlm - put something wrong]]
+- [[Zhr - backs]]
+- [[Zlm - wrongdoers]]
 - [[allah - God]]
-- [[bSr - mental perception]]
+- [[bSr - all-seer]]
 - [[bdw - you reveal]]
-- [[bgD - hate]]
-- [[bgy - seek desire something]]
-- [[bht - confounded]]
-- [[br> - clear free something]]
+- [[bgD - hatred]]
+- [[bgy - seeking]]
+- [[bht - slander]]
+- [[br> - innocent]]
 - [[brr - land]]
-- [[bsT - spread]]
-- [[byE - exchange property]]
+- [[bsT - extends]]
+- [[byE - trade]]
 - [[byn - clear]]
 - [[dwn - besides]]
-- [[dwr - house]]
+- [[dwr - home]]
 - [[dyn - judgment]]
-- [[fEl - deed]]
-- [[fSl - separate]]
+- [[fEl - you do]]
+- [[fSl - we explain]]
 
 ## Sample (ayah 1)
 

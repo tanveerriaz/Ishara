@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mry - stroke rub]]
+- [[mry - doubt]]
 
 ### Meaning
 **doubters** · Lemma **مُمْتَري**

@@ -14,84 +14,84 @@ The Ant · 93 ayahs
 
 ## Words in this surah (graph)
 
-- [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[fzE - terror]] — `فَزَع` · terror
-- [[>*lp - weak]] — `أَذِلَّة` · weak
-- [[ywqn - certain]] — `يُوقِنُ` · certain
-- [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
-- [[mdbr - fleeing]] — `مُدْبِر` · fleeing
-- [[jnd - hosts]] — `جُند` · hosts
 - [[wqE - became incumbent]] — `وَقَعَ` · became incumbent
-- [[wlY - so turn]] — `وَلَّى` · so turn
-- [[hAt - bring]] — `هاتُ` · bring
-- [[ryH - wind]] — `رِيح` · wind
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
-- [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[SAgr - disgraced ones]] — `صاغِر` · disgraced ones
-- [[ldn - yourself]] — `لَدُن` · yourself
-- [[wAldy - parents]] — `والِدَي` · parents
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
-- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
-- [[jwAb - answer]] — `جَواب` · answer
-- [[Al - people]] — `آل` · people
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[qbl - before]] — `قَبْل` · before
+- [[>Eln - they declare]] — `أَعْلَن` · they declare
+- [[>*lp - weak]] — `أَذِلَّة` · weak
+- [[jnd - hosts]] — `جُند` · hosts
+- [[fzE - terror]] — `فَزَع` · terror
+- [[ywqn - certain]] — `يُوقِنُ` · certain
+- [[mdbr - fleeing]] — `مُدْبِر` · fleeing
+- [[>smE - cause hear]] — `أَسْمَعَ` · cause hear
+- [[skn - dwell]] — `سَكَنَ` · dwell
+- [[Dyq - distress]] — `ضَيِّق` · distress
+- [[mskn - dwellings]] — `مَسْكَن` · dwellings
+- [[qDY - surely]] — `قَضَى` · surely
+- [[Amr>t - wife]] — `امْرَأَت` · wife
+- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[AdArk - arrested]] — `ادّارَكَ` · arrested
+- [[rHmn - gracious]] — `رَحْمٰن` · gracious
+- [[>njY - we saved]] — `أَنجَى` · we saved
+- [[Emy - blind]] — `عَمِيَ` · blind
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[>$rk - associate]] — `أَشْرَكَ` · associate
+- [[qwy - all-strong]] — `قَوِيّ` · all-strong
+- [[br - land]] — `بِرّ` · land
+- [[$hwp - passions]] — `شَهَوَة` · passions
+- [[xlAl - midst]] — `خِلال` · midst
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Tn - anything excessively proud]]
+- [[$Er - perceive]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
 - [[$hb - burning flame]]
-- [[$hd - witnessing]]
+- [[$hd - witness]]
 - [[$hw - they desire]]
-- [[$jr - trees]]
-- [[$kk - doubt uncertain about]]
+- [[$jr - tree]]
+- [[$kk - doubt]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
-- [[$rk - sharing partnership]]
+- [[$ms - sun]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*bH - cut split lengthwise]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
+- [[*bH - slaughtering]]
+- [[*hb - gold]]
+- [[*kr - remember]]
 - [[*ll - humiliation]]
 - [[>bw - forefathers]]
-- [[>hl - people house]]
+- [[>hl - people]]
 - [[>lh - god]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
-- [[>xr - final part something]]
+- [[>wl - first]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[DHk - laugh]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
-- [[Dyq - become narrow strait]]
-- [[E*b - motes particles floating]]
-- [[ESw - staff stick]]
+- [[Dyq - was straitened]]
+- [[E*b - punishment]]
+- [[ESw - staff]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edl - act justly equitably]]
-- [[Ejl - incite cause someone]]
+- [[Edl - justice]]
+- [[Ejl - calf]]
 - [[Elm - knowledge]]
-- [[Eln - make something open]]
-- [[Elw - superiority]]
-- [[Emh - mental confusion]]
-- [[Eml - intentional action deed]]
-- [[Emy - blindness]]
+- [[Eln - they declare]]
+- [[Elw - high]]
+- [[Emh - wandering blindly]]
+- [[Eml - do]]
+- [[Emy - blind]]
 - [[End - near]]
-- [[Eqb - heel human foot]]
-- [[Er$ - shaded structure]]
-- [[Erf - right]]
-- [[Esy - hope expectation]]
+- [[Eqb - end]]
+- [[Er$ - throne]]
+- [[Erf - fair manner]]
+- [[Esy - perhaps]]
 
 ## Sample (ayah 1)
 

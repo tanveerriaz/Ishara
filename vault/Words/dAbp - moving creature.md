@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[dbb - slow]]
+- [[dbb - moving creature]]
 
 ### Meaning
 **moving creature** · Lemma **دابَّة**

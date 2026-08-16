@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>lf - become familiar]]
+- [[>lf - thousand]]
 
 ### Meaning
 **thousand** · Lemma **أَلْف**

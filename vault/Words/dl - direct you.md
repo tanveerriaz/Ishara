@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[dll - so he made]]
+- [[dll - direct you]]
 
 ### Meaning
 **direct you** · Lemma **دَلَّ**

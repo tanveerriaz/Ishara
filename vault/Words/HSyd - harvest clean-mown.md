@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[HSd - reaped]]
+- [[HSd - harvest clean-mown]]
 
 ### Meaning
 **harvest clean-mown** · Lemma **حَصِيد**

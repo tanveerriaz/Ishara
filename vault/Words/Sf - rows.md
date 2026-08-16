@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Sff - arrange things row]]
+- [[Sff - rows]]
 
 ### Meaning
 **rows** · Lemma **صَفّ**

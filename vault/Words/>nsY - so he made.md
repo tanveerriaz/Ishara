@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nsy - forget]]
+- [[nsy - they forgot]]
 
 ### Meaning
 **so he made** · Lemma **أَنسَى**

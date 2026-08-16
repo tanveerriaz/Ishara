@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Twl - become long]]
+- [[Twl - then]]
 
 ### Meaning
 **then** · Lemma **طالَ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[dr> - meaning found elsewhere]]
+- [[dr> - they repel]]
 
 ### Meaning
 **they repel** · Lemma **يَدْرَؤُا۟**

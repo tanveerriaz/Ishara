@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jHd - deny disacknowledge something]]
+- [[jHd - they reject]]
 
 ### Meaning
 **they reject** · Lemma **جَحَدُ**

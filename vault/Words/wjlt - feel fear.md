@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wjl - afraid]]
+- [[wjl - feel fear]]
 
 ### Meaning
 **feel fear** · Lemma **وَجِلَتْ**

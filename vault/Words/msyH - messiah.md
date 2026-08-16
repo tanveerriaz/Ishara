@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[msH - wipe pass one's]]
+- [[msH - messiah]]
 
 ### Meaning
 **messiah** · Lemma **مَسِيح**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Sbr - confine restrain]]
+- [[Sbr - patient]]
 
 ### Meaning
 **patient ones** · Lemma **صابِر**

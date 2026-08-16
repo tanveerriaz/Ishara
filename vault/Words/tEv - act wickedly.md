@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Evw - act corruptly make]]
+- [[Evw - act wickedly]]
 
 ### Meaning
 **act wickedly** · Lemma **تَعْثَ**

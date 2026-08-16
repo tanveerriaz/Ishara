@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[hwd - becoming jewish teaching]]
+- [[hwd - jews]]
 
 ### Meaning
 **jews** · Lemma **يَهُود**

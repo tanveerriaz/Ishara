@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$yE - follow cause follow]]
+- [[$yE - sects]]
 
 ### Meaning
 **sects** · Lemma **شِيعَة**

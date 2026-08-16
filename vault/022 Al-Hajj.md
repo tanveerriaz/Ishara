@@ -14,84 +14,84 @@ The Pilgrimage · 78 ayahs
 
 ## Words in this surah (graph)
 
-- [[mwlY - protector]] — `مَوْلَى` · protector
-- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[>mlY - dictated]] — `أَمْلَى` · dictated
 - [[qwy - all-strong]] — `قَوِيّ` · all-strong
-- [[>*Aq - surely]] — `أَذاقَ` · surely
-- [[>TEm - feed]] — `أَطْعَمَ` · feed
-- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
 - [[mnAfE - benefits]] — `مَنافِع` · benefits
-- [[Hryq - burning fire]] — `حَرِيق` · burning fire
 - [[msmY - appointed]] — `مُسَمًّى` · appointed
-- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
+- [[tqwY - righteousness]] — `تَقْوَى` · righteousness
+- [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
+- [[>*Aq - surely]] — `أَذاقَ` · surely
+- [[>mlY - dictated]] — `أَمْلَى` · dictated
+- [[Hryq - burning fire]] — `حَرِيق` · burning fire
 - [[ZAlmp - doing wrong]] — `ظالِمَة` · doing wrong
+- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
+- [[>TEm - feed]] — `أَطْعَمَ` · feed
+- [[mwlY - protector]] — `مَوْلَى` · protector
 - [[$EA}r - symbols]] — `شَعائِر` · symbols
-- [[Hlym - forbearing]] — `حَلِيم` · forbearing
-- [[nkyr - my rejection]] — `نَكِير` · my rejection
-- [[ryH - wind]] — `رِيح` · wind
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[xTf - snatches away]] — `خَطِفَ` · snatches away
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[AstEjl - seek hasten]] — `اسْتَعْجَلَ` · seek hasten
-- [[dyn - religion]] — `دِين` · religion
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[qbl - before]] — `قَبْل` · before
-- [[byt - houses]] — `بَيْت` · houses
+- [[bw> - post]] — `بَوَّأَ` · post
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[DEf - double]] — `ضِعْف` · double
+- [[AstmE - listen]] — `اسْتَمَعَ` · listen
+- [[qDY - surely]] — `قَضَى` · surely
+- [[Ed - you count]] — `عَدَّ` · you count
+- [[nSrAny - christians]] — `نَصْرانِيّ` · christians
+- [[$r - evil]] — `شَرّ` · evil
+- [[jEl - we made]] — `جَعَلَ` · we made
 - [[mAt - died]] — `ماتَ` · died
+- [[Emy - blind]] — `عَمِيَ` · blind
+- [[xrj - come forth]] — `خَرَجَ` · come forth
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Tn - anything excessively proud]]
+- [[$Er - perceive]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$hd - witnessing]]
-- [[$jr - trees]]
+- [[$hd - witness]]
+- [[$jr - tree]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
-- [[$qq - cleave]]
-- [[$rk - sharing partnership]]
-- [[$rr - sparks fire]]
+- [[$ms - sun]]
+- [[$qq - opposes]]
+- [[$rk - polytheists]]
+- [[$rr - evil]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
+- [[*hb - gold]]
+- [[*kr - remember]]
 - [[*wq - taste]]
-- [[>*n - ear]]
+- [[>*n - by permission]]
 - [[>bw - forefathers]]
 - [[>jl - term]]
 - [[>kl - eat]]
-- [[>lf - become familiar]]
+- [[>lf - thousand]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
+- [[Drb - strike]]
 - [[Drr - adversity]]
 - [[E$r - ten]]
-- [[E*b - motes particles floating]]
-- [[ESm - tie cord]]
+- [[E*b - punishment]]
+- [[ESm - hold fast]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edd - count]]
-- [[Efw - efface obliterate]]
-- [[Ejl - incite cause someone]]
-- [[Ejz - old age weakness]]
-- [[Ekf - cleave something constantly]]
+- [[Edd - number]]
+- [[Efw - pardon]]
+- [[Ejl - calf]]
+- [[Ejz - old woman]]
+- [[Ekf - devoted]]
 - [[Elm - knowledge]]
-- [[Elq - hang]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
+- [[Elq - clinging substance]]
+- [[Elw - high]]
+- [[Eml - do]]
 - [[Emr - life]]
-- [[Emy - blindness]]
+- [[Emy - blind]]
 
 ## Sample (ayah 1)
 

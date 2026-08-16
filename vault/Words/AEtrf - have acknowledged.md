@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Erf - right]]
+- [[Erf - fair manner]]
 
 ### Meaning
 **have acknowledged** · Lemma **اعْتَرَفُ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mkv - tarry]]
+- [[mkv - stay here]]
 
 ### Meaning
 **stay here** · Lemma **مَكَثَ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[gfr - cover conceal]]
+- [[gfr - oft-forgiving]]
 
 ### Meaning
 **forgiveness** · Lemma **مَغْفِرَة**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hmm - blackness being intensely]]
+- [[Hmm - scalding water]]
 
 ### Meaning
 **scalding water** · Lemma **حَمِيم**

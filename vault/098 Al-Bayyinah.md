@@ -14,73 +14,73 @@ The Clear Proof · 8 ayahs
 
 ## Words in this surah (graph)
 
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
-- [[tHt - underneath it]] — `تَحْت` · underneath it
-- [[End - near]] — `عِند` · near
-- [[AtY - give]] — `آتَى` · give
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[x$y - fear]] — `خَشِيَ` · fear
-- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[rswl - messenger]] — `رَسُول` · messenger
 - [[>tY - comes them]] — `أَتَى` · comes them
-- [[rb - lord]] — `رَبّ` · lord
-- [[>mr - command]] — `أَمَرَ` · command
-- [[>qAm - establish]] — `أَقامَ` · establish
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[Hnyf - upright]] — `حَنِيف` · upright
-- [[mThrp - purified]] — `مُطَهَّرَة` · purified
+- [[tlY - recited]] — `تَلَى` · recited
+- [[dyn - religion]] — `دِين` · religion
+- [[jzA' - recompense]] — `جَزاء` · recompense
+- [[zkAp - zakah]] — `زَكاة` · zakah
+- [[x$y - fear]] — `خَشِيَ` · fear
+- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[bEd - after]] — `بَعْد` · after
+- [[End - near]] — `عِند` · near
+- [[SHf - scriptures]] — `صُحُف` · scriptures
+- [[Eml - do]] — `عَمِلَ` · do
+- [[AtY - give]] — `آتَى` · give
 - [[xAld - abiding forever]] — `خالِد` · abiding forever
 - [[$r - evil]] — `شَرّ` · evil
-- [[SHf - scriptures]] — `صُحُف` · scriptures
-- [[bEd - after]] — `بَعْد` · after
-- [[dyn - religion]] — `دِين` · religion
-- [[zkAp - zakah]] — `زَكاة` · zakah
-- [[tfrq - divided]] — `تَفَرَّقَ` · divided
-- [[bynp - clear proofs]] — `بَيِّنَة` · clear proofs
-- [[jry - flow]] — `جَرَيْ` · flow
+- [[m$rk - polytheists]] — `مُشْرِك` · polytheists
+- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[nAr - fire]] — `نار` · fire
 - [[jnp - gardens]] — `جَنَّة` · gardens
+- [[mxlS - being sincere]] — `مُخْلِص` · being sincere
+- [[tHt - underneath it]] — `تَحْت` · underneath it
+- [[kAn - is]] — `كانَ` · is
+- [[jry - flow]] — `جَرَيْ` · flow
+- [[ktAb - book]] — `كِتاب` · book
+- [[jA' - came them]] — `جاءَ` · came them
 
 ## Roots
 
-- [[$rk - sharing partnership]]
-- [[$rr - sparks fire]]
-- [[>bd - absolute long]]
-- [[>hl - people house]]
+- [[$rk - polytheists]]
+- [[$rr - evil]]
+- [[>bd - ever]]
+- [[>hl - people]]
 - [[>mn - believe]]
-- [[>mr - amara]]
+- [[>mr - command]]
 - [[>ty - give]]
 - [[Ebd - worship]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[End - near]]
 - [[Hnf - upright]]
 - [[SHf - scriptures]]
-- [[SlH - make something good]]
+- [[SlH - righteous deeds]]
 - [[Slw - prayer]]
-- [[Thr - cleanse purify oneself]]
+- [[Thr - purer]]
 - [[allah - God]]
-- [[bEd - become distant]]
-- [[br> - clear free something]]
+- [[bEd - after]]
+- [[br> - innocent]]
 - [[byn - clear]]
 - [[dyn - judgment]]
-- [[frq - separate]]
-- [[jnn - cover]]
-- [[jry - passage time events]]
+- [[frq - party]]
+- [[jnn - gardens]]
+- [[jry - flow]]
 - [[jy> - came them]]
-- [[jzy - recompense reward]]
+- [[jzy - recompense]]
 - [[kfr - disbelieve]]
 - [[ktb - book]]
 - [[kwn - is]]
-- [[nhr - dig river channel]]
-- [[nwr - brand mark camels]]
+- [[nhr - day]]
+- [[nwr - fire]]
 - [[qwm - upright]]
-- [[rDw - pleased]]
+- [[rDw - pleasure]]
 - [[rbb - Lord]]
 - [[rsl - messenger]]
 - [[tHt - underneath it]]
-- [[tlw - follow]]
+- [[tlw - recited]]
 - [[x$y - fear]]
-- [[xlS - something becoming clear]]
-- [[xld - type bracelet earring]]
+- [[xlS - being sincere]]
+- [[xld - abiding forever]]
 - [[xyr - better]]
 - [[zkw - purify]]
 

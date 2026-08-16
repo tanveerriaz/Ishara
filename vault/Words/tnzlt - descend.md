@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nzl - lodge host someone]]
+- [[nzl - was revealed]]
 
 ### Meaning
 **descend** · Lemma **تَنَزَّلَتْ**

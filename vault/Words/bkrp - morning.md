@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bkr - go forth come]]
+- [[bkr - morning]]
 
 ### Meaning
 **morning** · Lemma **بُكْرَة**

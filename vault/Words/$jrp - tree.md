@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$jr - trees]]
+- [[$jr - tree]]
 
 ### Meaning
 **tree** · Lemma **شَجَرَة**

@@ -14,83 +14,83 @@ The Light · 64 ayahs
 
 ## Words in this surah (graph)
 
-- [[rmY - accuse]] — `رَمَى` · accuse
-- [[Ast>*n - ask permission]] — `اسْتَأْذَنَ` · ask permission
 - [[>rbE - forty]] — `أَرْبَع` · forty
 - [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
-- [[ygD - lower]] — `يَغُضُّ` · lower
-- [[frj - chastity]] — `فَرْج` · chastity
-- [[sHAb - clouds]] — `سَحاب` · clouds
-- [[mHSnp - chaste women]] — `مُحْصَنَة` · chaste women
-- [[>rbEp - four]] — `أَرْبَعَة` · four
-- [[>xt - sisters]] — `أُخْت` · sisters
-- [[>zkY - purer]] — `أَزْكَى` · purer
-- [[mbynp - clear]] — `مُبَيِّنَة` · clear
-- [[HfZ - guard]] — `حِفْظ` · guard
-- [[vyAb - garments]] — `ثِياب` · garments
-- [[Tfl - as child]] — `طِفْل` · as child
-- [[mbArkp - blessed]] — `مُبارَكَة` · blessed
+- [[Ast>*n - ask permission]] — `اسْتَأْذَنَ` · ask permission
+- [[rmY - accuse]] — `رَمَى` · accuse
 - [[wDE - she delivered]] — `وَضَعَ` · she delivered
-- [[<fk - lie]] — `إِفْك` · lie
 - [[Hlm - dreams]] — `حُلُم` · dreams
+- [[mbynp - clear]] — `مُبَيِّنَة` · clear
+- [[sHAb - clouds]] — `سَحاب` · clouds
+- [[vyAb - garments]] — `ثِياب` · garments
+- [[>zkY - purer]] — `أَزْكَى` · purer
 - [[nkAH - marriage]] — `نِكاح` · marriage
-- [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[>Hd - anyone]] — `أَحَد` · anyone
+- [[>xt - sisters]] — `أُخْت` · sisters
+- [[Tfl - as child]] — `طِفْل` · as child
+- [[ygD - lower]] — `يَغُضُّ` · lower
+- [[mbArkp - blessed]] — `مُبارَكَة` · blessed
+- [[frj - chastity]] — `فَرْج` · chastity
+- [[>rbEp - four]] — `أَرْبَعَة` · four
+- [[HfZ - guard]] — `حِفْظ` · guard
+- [[mHSnp - chaste women]] — `مُحْصَنَة` · chaste women
+- [[<fk - lie]] — `إِفْك` · lie
+- [[Aktsb - they earned]] — `اكْتَسَبَ` · they earned
+- [[$jrp - tree]] — `شَجَرَة` · tree
+- [[$r - evil]] — `شَرّ` · evil
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[xrj - come forth]] — `خَرَجَ` · come forth
 
 ## Roots
 
-- [[$>n - matter]]
-- [[$Tn - anything excessively proud]]
-- [[$hd - witnessing]]
-- [[$jr - trees]]
+- [[$>n - any situation]]
+- [[$Tn - shaitaan]]
+- [[$hd - witness]]
+- [[$jr - tree]]
 - [[$kw - complain show grief]]
-- [[$rk - sharing partnership]]
-- [[$rq - earth]]
-- [[$rr - sparks fire]]
-- [[$tt - scatter]]
+- [[$rk - polytheists]]
+- [[$rq - east]]
+- [[$rr - evil]]
+- [[$tt - diverse]]
 - [[$y> - thing]]
-- [[$yE - follow cause follow]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[>*n - ear]]
+- [[$yE - sects]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[>*n - by permission]]
 - [[>Hd - anyone]]
-- [[>Sl - foundational part something]]
-- [[>bd - absolute long]]
+- [[>Sl - evening]]
+- [[>bd - ever]]
 - [[>bw - forefathers]]
-- [[>fk - turn something away]]
-- [[>hl - people house]]
+- [[>fk - lie]]
+- [[>hl - people]]
 - [[>kl - eat]]
-- [[>lf - become familiar]]
+- [[>lf - thousand]]
 - [[>lm - painful]]
-- [[>lw - ila]]
-- [[>mm - leadership]]
+- [[>lw - favors]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
-- [[>wy - betake oneself place]]
+- [[>vm - sin]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
-- [[Drb - strike beat]]
+- [[>yy - signs]]
+- [[Drb - strike]]
 - [[Dw> - light]]
-- [[E$w - eating evening meal]]
-- [[E*b - motes particles floating]]
-- [[ESb - twist]]
+- [[E$w - evening]]
+- [[E*b - punishment]]
+- [[ESb - group]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Ebr - cross pass something]]
+- [[Ebr - surely lesson]]
 - [[Eff - chaste]]
-- [[Efw - efface obliterate]]
-- [[Ejz - old age weakness]]
+- [[Efw - pardon]]
+- [[Ejz - old woman]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[Emm - paternal aunts]]
 
 ## Sample (ayah 1)

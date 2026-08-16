@@ -15,83 +15,83 @@ Sheba · 54 ayahs
 ## Words in this surah (graph)
 
 - [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
-- [[dl - direct you]] — `دَلَّ` · direct you
 - [[*rp - atom]] — `ذَرَّة` · atom
-- [[$k - doubt]] — `شَكّ` · doubt
-- [[$kwr - grateful]] — `شَكُور` · grateful
-- [[fzE - terror]] — `فَزَع` · terror
-- [[mvqAl - weight]] — `مِثْقال` · weight
+- [[dl - direct you]] — `دَلَّ` · direct you
 - [[q*f - cast him]] — `قَذَفَ` · cast him
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[lbv - you remained]] — `لَبِثَ` · you remained
-- [[nkyr - my rejection]] — `نَكِير` · my rejection
-- [[jmyE - all]] — `جَمِيع` · all
-- [[zlfY - position]] — `زُلْفَى` · position
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[ryH - wind]] — `رِيح` · wind
-- [[>rD - earth]] — `أَرْض` · earth
-- [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[SAlH - righteous]] — `صالِح` · righteous
+- [[fzE - terror]] — `فَزَع` · terror
+- [[$kwr - grateful]] — `شَكُور` · grateful
+- [[mvqAl - weight]] — `مِثْقال` · weight
+- [[$k - doubt]] — `شَكّ` · doubt
+- [[>lHq - join me]] — `أَلْحَقْ` · join me
+- [[mkAn - place]] — `مَكان` · place
+- [[DEf - double]] — `ضِعْف` · double
+- [[tlY - recited]] — `تَلَى` · recited
+- [[mwt - death]] — `مَوْت` · death
+- [[qlyl - little]] — `قَلِيل` · little
+- [[mskn - dwellings]] — `مَسْكَن` · dwellings
+- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
+- [[qDY - surely]] — `قَضَى` · surely
+- [[kbyr - great]] — `كَبِير` · great
+- [[>jr - reward]] — `أَجْر` · reward
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[mhyn - humiliating]] — `مُهِين` · humiliating
 - [[ftH - victory]] — `فَتَحَ` · victory
+- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
+- [[bsT - extends]] — `بَسَطَ` · extends
+- [[mE*b - will punished]] — `مُعَذِّب` · will punished
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$fE - make something pair]]
-- [[$hd - witnessing]]
-- [[$hr - new moon]]
+- [[$fE - intercession]]
+- [[$hd - witness]]
+- [[$hr - months]]
 - [[$hw - they desire]]
-- [[$kk - doubt uncertain about]]
+- [[$kk - doubt]]
 - [[$kr - gratitude]]
-- [[$ml - include encompass something]]
-- [[$rk - sharing partnership]]
+- [[$ml - left]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[$yE - follow cause follow]]
-- [[*rr - scattering dispersing small]]
+- [[$yE - sects]]
+- [[*rr - offspring]]
 - [[*wq - taste]]
-- [[>*n - ear]]
+- [[>*n - by permission]]
 - [[>bw - forefathers]]
-- [[>fk - turn something away]]
-- [[>jr - recompensing rewarding someone]]
+- [[>fk - lie]]
+- [[>jr - reward]]
 - [[>kl - eat]]
 - [[>lm - painful]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wb - return]]
-- [[>wl - return revert original]]
+- [[>wb - place return]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[DEf - weak]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
 - [[E$r - ten]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[Ebd - worship]]
-- [[Ejz - old age weakness]]
+- [[Ejz - old woman]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
+- [[Elw - high]]
+- [[Eml - do]]
 - [[End - near]]
-- [[Enq - like summer age]]
+- [[Enq - necks]]
 - [[ErD - turn away]]
-- [[Erj - ascend mount]]
+- [[Erj - ascend]]
 - [[Ewd - aad]]
 - [[Eyn - eyes]]
 - [[Ezz - all-mighty]]
-- [[H$r - gather collect people]]
-- [[HDr - present]]
-- [[Hdd - define]]
-- [[Hdv - accidents]]
+- [[H$r - will gathered]]
+- [[HDr - will brought]]
+- [[Hdd - limits]]
+- [[Hdv - statement]]
 
 ## Sample (ayah 1)
 

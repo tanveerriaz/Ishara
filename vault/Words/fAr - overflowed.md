@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fwr - things gushing forth]]
+- [[fwr - overflowed]]
 
 ### Meaning
 **overflowed** · Lemma **فارَ**

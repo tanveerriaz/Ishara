@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sHr - time just before]]
+- [[sHr - magic]]
 
 ### Meaning
 **bewitched** · Lemma **مَسْحُور**

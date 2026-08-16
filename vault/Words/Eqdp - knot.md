@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Eqd - tie knot something]]
+- [[Eqd - knot]]
 
 ### Meaning
 **knot** · Lemma **عُقْدَة**

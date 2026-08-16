@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>Sl - foundational part something]]
+- [[>Sl - evening]]
 
 ### Meaning
 **evening** · Lemma **أَصِيل**

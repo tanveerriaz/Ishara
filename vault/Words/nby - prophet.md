@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nb> - utter low sound]]
+- [[nb> - prophet]]
 
 ### Meaning
 **prophet** · Lemma **نَبِيّ**

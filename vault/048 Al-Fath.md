@@ -14,84 +14,84 @@ The Victory · 29 ayahs
 
 ## Words in this surah (graph)
 
-- [[mxlf - remained behind]] — `مُخَلَّف` · remained behind
 - [[skynp - tranquility]] — `سَكِينَة` · tranquility
-- [[>ErAb - bedouins]] — `أَعْراب` · bedouins
-- [[bAyE - pledging you]] — `بايَعْ` · pledging you
+- [[mxlf - remained behind]] — `مُخَلَّف` · remained behind
 - [[kf - restrain]] — `كَفَّ` · restrain
 - [[kvyrp - many]] — `كَثِيرَة` · many
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[wlY - so turn]] — `وَلَّى` · so turn
-- [[>EmY - blind]] — `أَعْمَى` · blind
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjh - faces]] — `وَجْه` · faces
-- [[wjd - we found]] — `وَجَدَ` · we found
+- [[>ErAb - bedouins]] — `أَعْراب` · bedouins
+- [[bAyE - pledging you]] — `بايَعْ` · pledging you
+- [[AnTlq - proceed]] — `انطَلَقَ` · proceed
+- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
+- [[>jr - reward]] — `أَجْر` · reward
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[dA}rp - misfortune]] — `دائِرَة` · misfortune
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[$jrp - tree]] — `شَجَرَة` · tree
+- [[yfqh - understand]] — `يَفْقَهُ` · understand
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[dEA - call]] — `دَعا` · call
+- [[EZym - great]] — `عَظِيم` · great
+- [[rAkE - bow down]] — `راكِع` · bow down
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[qryb - near]] — `قَرِيب` · near
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[r'yA - vision]] — `رُءْيا` · vision
+- [[Ezr - honor him]] — `عَزَّرُ` · honor him
 - [[$A' - he wills]] — `شاءَ` · he wills
-- [[nAs - people]] — `ناس` · people
-- [[>Zhr - manifest it]] — `أَظْهَرَ` · manifest it
-- [[gDb - wrath]] — `غَضَب` · wrath
-- [[byn - between them]] — `بَيْن` · between them
-- [[nkv - broke word]] — `نَكَثَ` · broke word
+- [[allah - God]] — `الله` · God
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$hd - witnessing]]
-- [[$jr - trees]]
-- [[$rk - sharing partnership]]
+- [[$hd - witness]]
+- [[$jr - tree]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*nb - tail]]
-- [[>Sl - foundational part something]]
-- [[>bd - absolute long]]
-- [[>hl - people house]]
-- [[>jr - recompensing rewarding someone]]
+- [[*nb - sin]]
+- [[>Sl - evening]]
+- [[>bd - ever]]
+- [[>hl - people]]
+- [[>jr - reward]]
 - [[>lm - painful]]
 - [[>mn - believe]]
-- [[>ns - mankind]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vr - trace]]
+- [[>vr - footsteps]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[Drr - adversity]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[EZm - great]]
-- [[Edd - count]]
-- [[Ehd - protection safeguard]]
-- [[Ejb - amazing]]
-- [[Ejl - incite cause someone]]
-- [[Ekf - cleave something constantly]]
+- [[Edd - number]]
+- [[Ehd - covenant]]
+- [[Ejb - pleases you]]
+- [[Ejl - calf]]
+- [[Ekf - devoted]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
-- [[Emy - blindness]]
+- [[Eml - do]]
+- [[Emy - blind]]
 - [[End - near]]
 - [[Erb - bedouins]]
-- [[Erj - ascend mount]]
-- [[Etd - preparation readiness]]
-- [[Ezr - discipline]]
+- [[Erj - ascend]]
+- [[Etd - she prepared]]
+- [[Ezr - honor him]]
 - [[Ezz - all-mighty]]
-- [[Hkm - prevent restrain someone]]
+- [[Hkm - all-wise]]
 - [[Hll - lawful]]
 - [[Hlq - shave]]
 - [[Hmd - praise]]
 - [[Hmy - protect]]
-- [[Hqq - established as true]]
+- [[Hqq - truth]]
 - [[Hrj - any blame]]
-- [[Hrm - reverence]]
-- [[Hsd - envy someone blessing]]
+- [[Hrm - al-haraam]]
+- [[Hsd - out jealousy]]
 - [[Hsn - good]]
-- [[HwT - guard]]
-- [[Sdd - turn away]]
-- [[Sdq - speak truth]]
-- [[SlH - make something good]]
+- [[HwT - all-encompassing]]
+- [[Sdd - hinder]]
+- [[Sdq - truthful]]
+- [[SlH - righteous deeds]]
 
 ## Sample (ayah 1)
 

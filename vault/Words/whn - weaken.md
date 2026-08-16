@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[whn - weaken unnerve someone]]
+- [[whn - weaken]]
 
 ### Meaning
 **weaken** · Lemma **وَهَنَ**

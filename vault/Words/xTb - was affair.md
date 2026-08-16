@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xTb - formal speech]]
+- [[xTb - address me]]
 
 ### Meaning
 **was affair** · Lemma **خَطْب**

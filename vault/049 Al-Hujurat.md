@@ -15,79 +15,79 @@ The Rooms · 18 ayahs
 ## Words in this surah (graph)
 
 - [[Swt - voice]] — `صَوْت` · voice
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[mqsT - act justly]] — `مُقْسِط` · act justly
-- [[>SlH - reforms]] — `أَصْلَحَ` · reforms
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[>jr - reward]] — `أَجْر` · reward
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[<HdY - one them]] — `إِحْدَى` · one them
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[EZym - great]] — `عَظِيم` · great
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[qdm - feet]] — `قَدَّمَ` · feet
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[nAs - people]] — `ناس` · people
-- [[byn - between them]] — `بَيْن` · between them
-- [[>Hd - anyone]] — `أَحَد` · anyone
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[tqsT - act justly]] — `تُقْسِطُ` · act justly
-- [[ygD - lower]] — `يَغُضُّ` · lower
-- [[Elm - know]] — `عَلِمَ` · know
-- [[bEd - after]] — `بَعْد` · after
-- [[dyn - religion]] — `دِين` · religion
-- [[Ajtnb - avoid]] — `اجْتَنَبُ` · avoid
-- [[<ymAn - faith]] — `إِيمان` · faith
+- [[jhAlp - ignorance]] — `جَهالَة` · ignorance
+- [[nAdm - regretful]] — `نادِم` · regretful
+- [[HbT - became worthless]] — `حَبِطَ` · became worthless
+- [[allah - God]] — `الله` · God
+- [[EsY - perhaps]] — `عَسَى` · perhaps
+- [[kl - every]] — `كُلّ` · every
+- [[<xwp - brothers]] — `إِخْوَة` · brothers
+- [[SAdq - truthful]] — `صادِق` · truthful
+- [[nsA' - women]] — `نِساء` · women
+- [[>slm - submits]] — `أَسْلَمَ` · submits
+- [[xyr - better]] — `خَيْر` · better
 - [[fwq - above them]] — `فَوْق` · above them
-- [[bgY - seek it]] — `بَغَى` · seek it
-- [[twAb - oft-returning]] — `تَوّاب` · oft-returning
-- [[>ErAb - bedouins]] — `أَعْراب` · bedouins
-- [[krh - unwillingly]] — `كُرْه` · unwillingly
+- [[nAdY - he called]] — `نادَى` · he called
+- [[Eql - use reason]] — `عَقَلُ` · use reason
 
 ## Roots
 
-- [[$Er - name]]
+- [[$Er - perceive]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[>Hd - anyone]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>kl - eat]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>nv - female]]
 - [[>rD - earth]]
-- [[>vm - sin commit crime]]
-- [[>xr - final part something]]
+- [[>vm - sin]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
-- [[ESy - disobey]]
+- [[>yy - signs]]
+- [[ESy - they disobeyed]]
 - [[EZm - great]]
-- [[Edl - act justly equitably]]
+- [[Edl - justice]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[End - near]]
-- [[Ent - you suffer]]
-- [[Eql - withhold restrain]]
+- [[Ent - distresses you]]
+- [[Eql - use reason]]
 - [[Erb - bedouins]]
-- [[Erf - right]]
-- [[Esy - hope expectation]]
-- [[HbT - worthless]]
+- [[Erf - fair manner]]
+- [[Esy - perhaps]]
+- [[HbT - became worthless]]
 - [[Hbb - love]]
 - [[Hjr - stones]]
-- [[Hkm - prevent restrain someone]]
+- [[Hkm - all-wise]]
 - [[SbH - morning]]
-- [[Sbr - confine restrain]]
-- [[Sdq - speak truth]]
-- [[SlH - make something good]]
-- [[Swb - descend go down]]
-- [[Swt - sound]]
+- [[Sbr - patient]]
+- [[Sdq - truthful]]
+- [[SlH - righteous deeds]]
+- [[Swb - befalls you]]
+- [[Swt - voice]]
 - [[TwE - obey]]
-- [[Twf - go walk around]]
-- [[Zlm - put something wrong]]
-- [[Znn - think]]
+- [[Twf - group]]
+- [[Zlm - wrongdoers]]
+- [[Znn - assumption]]
 - [[allah - God]]
 - [[b>s - wretched]]
 - [[bED - others]]
-- [[bEd - become distant]]
-- [[bSr - mental perception]]
-- [[bgy - seek desire something]]
+- [[bEd - after]]
+- [[bSr - all-seer]]
+- [[bgy - seeking]]
 - [[byn - clear]]
 - [[dxl - enter]]
 - [[dyn - judgment]]

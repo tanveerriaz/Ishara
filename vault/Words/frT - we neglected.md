@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[frT - fail]]
+- [[frT - we neglected]]
 
 ### Meaning
 **we neglected** · Lemma **فَرَّط**

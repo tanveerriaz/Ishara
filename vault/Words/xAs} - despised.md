@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xs> - drive away]]
+- [[xs> - despised]]
 
 ### Meaning
 **despised** · Lemma **خاسِئ**

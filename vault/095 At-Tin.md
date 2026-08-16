@@ -14,52 +14,52 @@ The Fig · 8 ayahs
 
 ## Words in this surah (graph)
 
-- [[rd - returned]] — `رَدَّ` · returned
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[<nsAn - man]] — `إِنسان` · man
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[bEd - after]] — `بَعْد` · after
-- [[Twr - mount]] — `طُور` · mount
-- [[dyn - religion]] — `دِين` · religion
-- [[lys - not]] — `لَيْسَ` · not
-- [[>Hsn - best]] — `أَحْسَن` · best
-- [[>sfl - lowest]] — `أَسْفَل` · lowest
-- [[mmnwn - ending]] — `مَمْنُون` · ending
-- [[>jr - reward]] — `أَجْر` · reward
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[Eml - do]] — `عَمِلَ` · do
 - [[HAkm - judges]] — `حاكِم` · judges
-- [[allah - God]] — `الله` · God
-- [[>myn - trustworthy]] — `أَمِين` · trustworthy
-- [[sAfl - its downside]] — `سافِل` · its downside
-- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
-- [[zytwn - olives]] — `زَيْتُون` · olives
 - [[bld - city]] — `بَلَد` · city
+- [[dyn - religion]] — `دِين` · religion
+- [[Twr - mount]] — `طُور` · mount
+- [[>jr - reward]] — `أَجْر` · reward
+- [[bEd - after]] — `بَعْد` · after
+- [[Eml - do]] — `عَمِلَ` · do
+- [[sAfl - its downside]] — `سافِل` · its downside
+- [[mmnwn - ending]] — `مَمْنُون` · ending
+- [[<nsAn - man]] — `إِنسان` · man
+- [[>Hsn - best]] — `أَحْسَن` · best
+- [[>myn - trustworthy]] — `أَمِين` · trustworthy
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[rd - returned]] — `رَدَّ` · returned
+- [[allah - God]] — `الله` · God
+- [[lys - not]] — `لَيْسَ` · not
+- [[Amn - believe]] — `آمَنَ` · believe
+- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
+- [[>sfl - lowest]] — `أَسْفَل` · lowest
 - [[gyr - without]] — `غَيْر` · without
+- [[k*b - denied]] — `كَذَبَ` · denied
+- [[zytwn - olives]] — `زَيْتُون` · olives
 
 ## Roots
 
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>mn - believe]]
-- [[>ns - mankind]]
-- [[Eml - intentional action deed]]
-- [[Hkm - prevent restrain someone]]
+- [[>ns - people]]
+- [[Eml - do]]
+- [[Hkm - all-wise]]
 - [[Hsn - good]]
-- [[SlH - make something good]]
+- [[SlH - righteous deeds]]
 - [[Twr - mount]]
 - [[allah - God]]
-- [[bEd - become distant]]
-- [[bld - country]]
+- [[bEd - after]]
+- [[bld - city]]
 - [[dyn - judgment]]
-- [[gyr - ghayr]]
+- [[gyr - without]]
 - [[k*b - denied]]
 - [[lys - not]]
-- [[mnn - cut break something]]
+- [[mnn - ending]]
 - [[qwm - upright]]
 - [[rdd - return]]
-- [[sfl - become low]]
+- [[sfl - lowest]]
 - [[xlq - create]]
-- [[zyt - olive tree its]]
+- [[zyt - olives]]
 
 ## Sample (ayah 1)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[lfw - repair set right]]
+- [[lfw - we found]]
 
 ### Meaning
 **we found** · Lemma **أَلْفَ**

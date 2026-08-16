@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jry - passage time events]]
+- [[jry - flow]]
 
 ### Meaning
 **ships** · Lemma **جَوار**

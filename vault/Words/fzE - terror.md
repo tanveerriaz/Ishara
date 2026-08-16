@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fzE - fear frightened]]
+- [[fzE - terror]]
 
 ### Meaning
 **terror** · Lemma **فَزَع**

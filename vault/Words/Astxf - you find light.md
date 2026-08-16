@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xff - light make something]]
+- [[xff - will lightened]]
 
 ### Meaning
 **you find light** · Lemma **اسْتَخَفَّ**

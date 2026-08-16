@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[byE - exchange property]]
+- [[byE - trade]]
 
 ### Meaning
 **pledging you** · Lemma **بايَعْ**

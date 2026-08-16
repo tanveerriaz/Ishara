@@ -15,83 +15,83 @@ The Moon · 55 ayahs
 ## Words in this surah (graph)
 
 - [[ysr - ease]] — `يُسْر` · ease
-- [[mqtdr - all able]] — `مُقْتَدِر` · all able
 - [[k*Ab - liar]] — `كَذّاب` · liar
 - [[zbr - scriptures]] — `زُبُر` · scriptures
-- [[wlY - so turn]] — `وَلَّى` · so turn
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[Dyf - guests]] — `ضَيْف` · guests
-- [[jmyE - all]] — `جَمِيع` · all
-- [[mrsl - messengers]] — `مُرْسَل` · messengers
-- [[ryH - wind]] — `رِيح` · wind
-- [[EAd - aad]] — `عادَ` · aad
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjh - faces]] — `وَجْه` · faces
-- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[mqtdr - all able]] — `مُقْتَدِر` · all able
+- [[Hml - will bear]] — `حَمَلَ` · will bear
+- [[kbyr - great]] — `كَبِير` · great
+- [[$Y' - thing]] — `شَىْء` · thing
 - [[ftH - victory]] — `فَتَحَ` · victory
-- [[qmr - moon]] — `قَمَر` · moon
-- [[nAs - people]] — `ناس` · people
-- [[mqEd - take positions]] — `مَقْعَد` · take positions
-- [[byn - between them]] — `بَيْن` · between them
-- [[mntSr - he supported]] — `مُنتَصِر` · he supported
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[Elm - know]] — `عَلِمَ` · know
-- [[HASb - storm stones]] — `حاصِب` · storm stones
-- [[Al - people]] — `آل` · people
-- [[qbl - before]] — `قَبْل` · before
+- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[dEA - call]] — `دَعا` · call
+- [[>hwA' - desires]] — `أَهْواء` · desires
+- [[kyf - how]] — `كَيْف` · how
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[b$r - man]] — `بُشِّرَ` · man
+- [[ftnp - trial]] — `فِتْنَة` · trial
+- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[mA' - water]] — `ماء` · water
+- [[Tmst - we efface]] — `طُمِسَتْ` · we efface
+- [[mjnwn - madman]] — `مَجْنُون` · madman
+- [[bkrp - morning]] — `بُكْرَة` · morning
+- [[kl - every]] — `كُلّ` · every
+- [[ASTbr - constant]] — `اصْطَبِرْ` · constant
+- [[xyr - better]] — `خَيْر` · better
 
 ## Roots
 
 - [[$kr - gratitude]]
-- [[$qq - cleave]]
+- [[$qq - opposes]]
 - [[$rb - drink]]
 - [[$y> - thing]]
-- [[$yE - follow cause follow]]
-- [[*kr - remember recall something]]
+- [[$yE - sects]]
+- [[*kr - remember]]
 - [[*wq - taste]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
-- [[>wl - return revert original]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[Dyf - inclining]]
-- [[E*b - motes particles floating]]
-- [[ETw - take handle something]]
+- [[Dyf - guests]]
+- [[E*b - punishment]]
+- [[ETw - gift]]
 - [[Ebd - worship]]
-- [[Ejz - old age weakness]]
+- [[Ejz - old woman]]
 - [[Elm - knowledge]]
 - [[End - near]]
-- [[Eqr - wound hamstring]]
+- [[Eqr - hamstrung]]
 - [[ErD - turn away]]
 - [[Esr - hardship]]
 - [[Ewd - aad]]
 - [[Eyn - eyes]]
 - [[Ezz - all-mighty]]
-- [[HDr - present]]
-- [[HSb - pelt pebbles spread]]
-- [[Hkm - prevent restrain someone]]
-- [[Hml - bear]]
-- [[SHb - lord]]
+- [[HDr - will brought]]
+- [[HSb - storm stones]]
+- [[Hkm - all-wise]]
+- [[Hml - will bear]]
+- [[SHb - companion]]
 - [[SbH - morning]]
-- [[Sbr - confine restrain]]
-- [[Sdq - speak truth]]
-- [[Sgr - small little]]
+- [[Sbr - patient]]
+- [[Sdq - truthful]]
+- [[Sgr - small]]
 - [[SrSr - furious]]
-- [[SyH - raise one's voice]]
-- [[Tms - efface obliterate something]]
-- [[b$r - strip pare something]]
-- [[bSr - mental perception]]
-- [[bT$ - seize assault violence]]
-- [[bkr - go forth come]]
-- [[blg - reach]]
-- [[br> - clear free something]]
+- [[SyH - shout]]
+- [[Tms - we efface]]
+- [[b$r - man]]
+- [[bSr - all-seer]]
+- [[bT$ - you seize]]
+- [[bkr - morning]]
+- [[blg - conveyance]]
+- [[br> - innocent]]
 - [[bwb - gate]]
 - [[byn - clear]]
 - [[dEw - call]]
 - [[dbr - turn back]]
-- [[fEl - deed]]
+- [[fEl - you do]]
 
 ## Sample (ayah 1)
 

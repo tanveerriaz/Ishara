@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[SEd - ascend go upwards]]
+- [[SEd - earth]]
 
 ### Meaning
 **earth** · Lemma **صَعِيد**

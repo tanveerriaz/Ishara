@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sqy - give get water]]
+- [[sqy - we give you]]
 
 ### Meaning
 **water** · Lemma **سَقَى**

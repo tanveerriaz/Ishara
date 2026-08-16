@@ -14,84 +14,84 @@ Originator · 45 ayahs
 
 ## Words in this surah (graph)
 
+- [[grwr - delusion]] — `غُرُور` · delusion
+- [[>*hb - remove]] — `أَذْهَبَ` · remove
 - [[yEmr - granted life]] — `يُعَمَّرُ` · granted life
+- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
+- [[mxtlf - various]] — `مُخْتَلِف` · various
+- [[$rk - associating partners]] — `شِرْك` · associating partners
 - [[lwn - colors]] — `لَوْن` · colors
 - [[$kwr - grateful]] — `شَكُور` · grateful
-- [[>*hb - remove]] — `أَذْهَبَ` · remove
-- [[mxtlf - various]] — `مُخْتَلِف` · various
-- [[>msk - he withholds]] — `أَمْسَكَ` · he withholds
-- [[$rk - associating partners]] — `شِرْك` · associating partners
-- [[grwr - delusion]] — `غُرُور` · delusion
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[>EmY - blind]] — `أَعْمَى` · blind
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[HyAp - life]] — `حَياة` · life
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[Hlym - forbearing]] — `حَلِيم` · forbearing
-- [[nkyr - my rejection]] — `نَكِير` · my rejection
-- [[jmyE - all]] — `جَمِيع` · all
-- [[mrsl - messengers]] — `مُرْسَل` · messengers
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[ryH - wind]] — `رِيح` · wind
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[Zlmp - darknesses]] — `ظُلُمَة` · darknesses
-- [[>rD - earth]] — `أَرْض` · earth
-- [[jnAH - blame]] — `جُناح` · blame
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[xAlq - creator]] — `خالِق` · creator
+- [[Zhr - backs]] — `ظَهْر` · backs
+- [[Hryr - will silk]] — `حَرِير` · will silk
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[tlY - recited]] — `تَلَى` · recited
+- [[bHr - sea]] — `بَحْر` · sea
+- [[mwt - death]] — `مَوْت` · death
+- [[Hml - will bear]] — `حَمَلَ` · will bear
+- [[>xr - we delay]] — `أَخَّرَ` · we delay
+- [[kbyr - great]] — `كَبِير` · great
+- [[>jr - reward]] — `أَجْر` · reward
+- [[frAt - sweet]] — `فُرات` · sweet
+- [[x$y - fear]] — `خَشِيَ` · fear
+- [[qDY - surely]] — `قَضَى` · surely
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[ftH - victory]] — `فَتَحَ` · victory
+- [[nwr - light]] — `نُور` · light
+- [[flk - ships]] — `فُلْك` · ships
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
+- [[$ms - sun]]
 - [[$rb - drink]]
-- [[$rk - sharing partnership]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
+- [[*hb - gold]]
+- [[*kr - remember]]
 - [[*wq - taste]]
-- [[>*n - ear]]
+- [[>*n - by permission]]
 - [[>Hd - anyone]]
-- [[>fk - turn something away]]
-- [[>hl - people house]]
+- [[>fk - lie]]
+- [[>hl - people]]
 - [[>jj - bitter]]
 - [[>jl - term]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>nv - female]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[Ebd - worship]]
-- [[Edw - turn]]
-- [[Ejz - old age weakness]]
+- [[Edw - enemy]]
+- [[Ejz - old woman]]
 - [[Elm - knowledge]]
-- [[Eln - make something open]]
-- [[Eml - intentional action deed]]
+- [[Eln - they declare]]
+- [[Eml - do]]
 - [[Emr - life]]
-- [[Emy - blindness]]
+- [[Emy - blind]]
 - [[End - near]]
-- [[Eqb - heel human foot]]
+- [[Eqb - end]]
 - [[Ezz - all-mighty]]
-- [[Hkm - prevent restrain someone]]
+- [[Hkm - all-wise]]
 - [[Hll - lawful]]
 - [[Hlm - forbearing]]
-- [[Hly - being sweet becoming]]
+- [[Hly - ornaments]]
 - [[Hmd - praise]]
-- [[Hml - bear]]
-- [[Hmr - color red]]
+- [[Hml - will bear]]
+- [[Hmr - donkeys]]
 
 ## Sample (ayah 1)
 

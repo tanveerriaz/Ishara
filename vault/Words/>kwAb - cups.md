@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[kwb - games like backgammon]]
+- [[kwb - cups]]
 
 ### Meaning
 **cups** · Lemma **أَكْواب**

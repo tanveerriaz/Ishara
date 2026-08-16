@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Tf> - specific phrase concept]]
+- [[Tf> - extinguish]]
 
 ### Meaning
 **extinguish** · Lemma **أَطْفَأَ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$rH - uncover]]
+- [[$rH - he expands]]
 
 ### Meaning
 **he expands** · Lemma **شَرَحَ**

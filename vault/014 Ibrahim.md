@@ -15,81 +15,81 @@ Abraham · 52 ayahs
 ## Words in this surah (graph)
 
 - [[>xr - we delay]] — `أَخَّرَ` · we delay
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
-- [[brz - they leave]] — `بَرَزَ` · they leave
-- [[qrAr - settlement]] — `قَرار` · settlement
-- [[wrA' - behind]] — `وَراء` · behind
-- [[tbE - follows]] — `تَبِعَ` · follows
+- [[$jrp - tree]] — `شَجَرَة` · tree
 - [[>skn - lodge them]] — `أَسْكَن` · lodge them
 - [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[$k - doubt]] — `شَكّ` · doubt
-- [[dEA' - call]] — `دُعاء` · call
-- [[sxr - subjected]] — `سَخِرَ` · subjected
 - [[vmrp - fruits]] — `ثَمَرَة` · fruits
-- [[$jrp - tree]] — `شَجَرَة` · tree
-- [[bEyd - far]] — `بَعِيد` · far
+- [[sxr - subjected]] — `سَخِرَ` · subjected
+- [[dEA' - call]] — `دُعاء` · call
 - [[f&Ad - hearts]] — `فُؤاد` · hearts
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[hwY - desire]] — `هَوَى` · desire
-- [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[HyAp - life]] — `حَياة` · life
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
-- [[mqrn - bound together]] — `مُقَرَّن` · bound together
-- [[Zlmp - darknesses]] — `ظُلُمَة` · darknesses
+- [[brz - they leave]] — `بَرَزَ` · they leave
+- [[wrA' - behind]] — `وَراء` · behind
+- [[qrAr - settlement]] — `قَرار` · settlement
+- [[bEyd - far]] — `بَعِيد` · far
+- [[bdl - but changed]] — `بَدَّلَ` · but changed
+- [[tbE - follows]] — `تَبِعَ` · follows
+- [[$k - doubt]] — `شَكّ` · doubt
+- [[Ewj - crookedness]] — `عِوَج` · crookedness
+- [[mkAn - place]] — `مَكان` · place
+- [[bHr - sea]] — `بَحْر` · sea
+- [[mwt - death]] — `مَوْت` · death
+- [[skn - dwell]] — `سَكَنَ` · dwell
+- [[b}s - wretched]] — `بِئْسَ` · wretched
+- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
+- [[mskn - dwellings]] — `مَسْكَن` · dwellings
+- [[>w*y - hurt]] — `أُوذِيَ` · hurt
+- [[qDY - surely]] — `قَضَى` · surely
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$jr - trees]]
-- [[$kk - doubt uncertain about]]
+- [[$jr - tree]]
+- [[$kk - doubt]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
-- [[$rk - sharing partnership]]
+- [[$ms - sun]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*bH - cut split lengthwise]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
-- [[*rr - scattering dispersing small]]
-- [[>*n - ear]]
+- [[*bH - slaughtering]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[*nb - sin]]
+- [[*rr - offspring]]
+- [[>*n - by permission]]
 - [[>*y - hurt]]
-- [[>Sl - foundational part something]]
+- [[>Sl - evening]]
 - [[>bw - forefathers]]
 - [[>jl - term]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>lm - painful]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>wl - first]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
-- [[E*b - motes particles floating]]
-- [[ESf - stormy]]
-- [[ESy - disobey]]
+- [[Drb - strike]]
+- [[E*b - punishment]]
+- [[ESf - husk]]
+- [[ESy - they disobeyed]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edd - count]]
+- [[Edd - number]]
 - [[Elm - knowledge]]
-- [[Eln - make something open]]
-- [[Eml - intentional action deed]]
+- [[Eln - they declare]]
+- [[Eml - do]]
 - [[End - near]]
 - [[Ewd - aad]]
 - [[Ewj - crookedness]]
 - [[Ezz - all-mighty]]
-- [[HSy - count reckon]]
+- [[HSy - best calculated]]
 - [[Hbb - love]]
-- [[Hkm - prevent restrain someone]]
+- [[Hkm - all-wise]]
 - [[Hll - lawful]]
 - [[Hmd - praise]]
 

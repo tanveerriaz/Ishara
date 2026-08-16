@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[smE - hearing]]
+- [[smE - all-hearer]]
 
 ### Meaning
 **cause hear** · Lemma **أَسْمَعَ**

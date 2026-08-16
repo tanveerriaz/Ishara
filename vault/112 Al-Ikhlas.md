@@ -15,18 +15,18 @@ The Sincerity · 4 ayahs
 ## Words in this surah (graph)
 
 - [[qAl - say]] — `قالَ` · say
-- [[>Hd - anyone]] — `أَحَد` · anyone
-- [[allah - God]] — `الله` · God
 - [[wld - children]] — `وَلَد` · children
+- [[allah - God]] — `الله` · God
 - [[kAn - is]] — `كانَ` · is
+- [[>Hd - anyone]] — `أَحَد` · anyone
 
 ## Roots
 
 - [[>Hd - anyone]]
 - [[allah - God]]
 - [[kwn - is]]
-- [[qwl - qawala]]
-- [[wld - birth offspring]]
+- [[qwl - say]]
+- [[wld - children]]
 
 ## Sample (ayah 1)
 

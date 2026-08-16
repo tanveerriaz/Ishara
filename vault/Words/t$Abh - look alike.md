@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$bh - likeness resemblance]]
+- [[$bh - similar]]
 
 ### Meaning
 **look alike** · Lemma **تَشابَهَ**

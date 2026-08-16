@@ -14,46 +14,46 @@ The Earthquake · 8 ayahs
 
 ## Words in this surah (graph)
 
-- [[mvqAl - weight]] — `مِثْقال` · weight
 - [[*rp - atom]] — `ذَرَّة` · atom
+- [[mvqAl - weight]] — `مِثْقال` · weight
 - [[qAl - say]] — `قالَ` · say
-- [[>ry - show me]] — `أَرَيْ` · show me
-- [[vql - burdens]] — `ثَقَل` · burdens
-- [[>rD - earth]] — `أَرْض` · earth
-- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
-- [[rb - lord]] — `رَبّ` · lord
-- [[nAs - people]] — `ناس` · people
-- [[<nsAn - man]] — `إِنسان` · man
-- [[$r - evil]] — `شَرّ` · evil
-- [[r>Y - you see]] — `رَأَى` · you see
-- [[xyr - better]] — `خَيْر` · better
 - [[Eml - do]] — `عَمِلَ` · do
-- [[zlzl - shaken]] — `زُلْزِلُ` · shaken
+- [[$r - evil]] — `شَرّ` · evil
+- [[<nsAn - man]] — `إِنسان` · man
 - [[>wHY - we revealed]] — `أَوْحَى` · we revealed
-- [[ywm - day]] — `يَوْم` · day
-- [[>xbAr - news]] — `أَخْبار` · news
 - [[tHdv - narrate]] — `تُحَدِّثُ` · narrate
+- [[ywm - day]] — `يَوْم` · day
+- [[>ry - show me]] — `أَرَيْ` · show me
+- [[zlzl - shaken]] — `زُلْزِلُ` · shaken
+- [[>xbAr - news]] — `أَخْبار` · news
+- [[>xrj - brings forth]] — `أَخْرَجَ` · brings forth
+- [[xyr - better]] — `خَيْر` · better
+- [[>rD - earth]] — `أَرْض` · earth
+- [[nAs - people]] — `ناس` · people
+- [[r>Y - you see]] — `رَأَى` · you see
+- [[rb - lord]] — `رَبّ` · lord
+- [[vql - burdens]] — `ثَقَل` · burdens
 
 ## Roots
 
-- [[$rr - sparks fire]]
-- [[$tt - scatter]]
-- [[*rr - scattering dispersing small]]
-- [[>ns - mankind]]
+- [[$rr - evil]]
+- [[$tt - diverse]]
+- [[*rr - offspring]]
+- [[>ns - people]]
 - [[>rD - earth]]
-- [[Eml - intentional action deed]]
-- [[Hdv - accidents]]
-- [[Sdr - front part something]]
-- [[qwl - qawala]]
-- [[r>y - see eye perceive]]
+- [[Eml - do]]
+- [[Hdv - statement]]
+- [[Sdr - breasts]]
+- [[qwl - say]]
+- [[r>y - you see]]
 - [[rbb - Lord]]
 - [[vql - heavy]]
 - [[wHy - we revealed]]
-- [[xbr - know something deeply]]
-- [[xrj - go come out]]
+- [[xbr - all-aware]]
+- [[xrj - brings forth]]
 - [[xyr - better]]
 - [[ywm - day]]
-- [[zlzl - shake]]
+- [[zlzl - shaken]]
 
 ## Sample (ayah 1)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xbr - know something deeply]]
+- [[xbr - all-aware]]
 
 ### Meaning
 **some information** · Lemma **خُبْر**

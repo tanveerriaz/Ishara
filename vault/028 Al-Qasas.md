@@ -14,84 +14,84 @@ The Stories · 88 ayahs
 
 ## Words in this surah (graph)
 
-- [[jAnb - side]] — `جانِب` · side
-- [[mdyn - madyan]] — `مَدْيَن` · madyan
 - [[<HdY - one them]] — `إِحْدَى` · one them
 - [[sqY - water]] — `سَقَى` · water
-- [[ym - sea]] — `يَمّ` · sea
-- [[mdynp - city]] — `مَدِينَة` · city
-- [[Twr - mount]] — `طُور` · mount
-- [[brhAn - proof]] — `بُرْهان` · proof
-- [[mk - we established]] — `مَكَّ` · we established
-- [[nASH - sincere advisors]] — `ناصِح` · sincere advisors
+- [[jAnb - side]] — `جانِب` · side
+- [[mdyn - madyan]] — `مَدْيَن` · madyan
 - [[wArv - inheritors]] — `وارِث` · inheritors
-- [[xsf - becomes dark]] — `خَسَفَ` · becomes dark
+- [[brhAn - proof]] — `بُرْهان` · proof
 - [[$yEp - sects]] — `شِيعَة` · sects
-- [[Zhyr - assistants]] — `ظَهِير` · assistants
+- [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
+- [[Twr - mount]] — `طُور` · mount
+- [[xsf - becomes dark]] — `خَسَفَ` · becomes dark
 - [[<mAm - leaders]] — `إِمام` · leaders
 - [[fsAd - corruption]] — `فَساد` · corruption
-- [[AstDEf - were oppressed]] — `اسْتَضْعَفُ` · were oppressed
-- [[>Eln - they declare]] — `أَعْلَن` · they declare
-- [[wlY - so turn]] — `وَلَّى` · so turn
-- [[hAt - bring]] — `هاتُ` · bring
-- [[AstgAv - seek help]] — `اسْتَغاثَ` · seek help
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[ldn - yourself]] — `لَدُن` · yourself
+- [[mk - we established]] — `مَكَّ` · we established
+- [[ym - sea]] — `يَمّ` · sea
+- [[mdynp - city]] — `مَدِينَة` · city
+- [[Zhyr - assistants]] — `ظَهِير` · assistants
+- [[nASH - sincere advisors]] — `ناصِح` · sincere advisors
+- [[skn - dwell]] — `سَكَنَ` · dwell
+- [[mskn - dwellings]] — `مَسْكَن` · dwellings
+- [[qDY - surely]] — `قَضَى` · surely
+- [[Amr>t - wife]] — `امْرَأَت` · wife
+- [[$jrp - tree]] — `شَجَرَة` · tree
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[Emy - blind]] — `عَمِيَ` · blind
+- [[xrj - come forth]] — `خَرَجَ` · come forth
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Tn - anything excessively proud]]
+- [[$Er - perceive]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$hd - witnessing]]
-- [[$jr - trees]]
+- [[$hd - witness]]
+- [[$jr - tree]]
 - [[$kr - gratitude]]
-- [[$qq - cleave]]
-- [[$rk - sharing partnership]]
+- [[$qq - opposes]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[$yE - follow cause follow]]
+- [[$yE - sects]]
 - [[$yx - old]]
-- [[*bH - cut split lengthwise]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
+- [[*bH - slaughtering]]
+- [[*kr - remember]]
+- [[*nb - sin]]
 - [[>Hd - anyone]]
 - [[>bw - forefathers]]
-- [[>hl - people house]]
+- [[>hl - people]]
 - [[>jl - term]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>lh - god]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[DEf - weak]]
 - [[Dll - astray]]
 - [[Dw> - light]]
 - [[E$r - ten]]
-- [[E*b - motes particles floating]]
-- [[ESb - twist]]
-- [[ESw - staff stick]]
+- [[E*b - punishment]]
+- [[ESb - group]]
+- [[ESw - staff]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edw - turn]]
+- [[Edw - enemy]]
 - [[Elm - knowledge]]
-- [[Eln - make something open]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
+- [[Eln - they declare]]
+- [[Elw - high]]
+- [[Eml - do]]
 - [[Emr - life]]
-- [[Emy - blindness]]
+- [[Emy - blind]]
 - [[End - near]]
-- [[Eqb - heel human foot]]
-- [[Eql - withhold restrain]]
+- [[Eqb - end]]
+- [[Eql - use reason]]
 
 ## Sample (ayah 1)
 

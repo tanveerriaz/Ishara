@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Emh - mental confusion]]
+- [[Emh - wandering blindly]]
 
 ### Meaning
 **wandering blindly** · Lemma **يَعْمَهُ**

@@ -19,79 +19,79 @@ Mary · 98 ayahs
 - [[glAm - boy]] — `غُلام` · boy
 - [[wrv - will inherit]] — `وَرِثَ` · will inherit
 - [[swy - even]] — `سَوِيّ` · even
-- [[xr - fell down]] — `خَرَّ` · fell down
-- [[Aty - surely coming]] — `آتِي` · surely coming
-- [[Sdyq - truthful]] — `صِدِّيق` · truthful
-- [[EbAdt - worship]] — `عِبادَت` · worship
-- [[AEtzl - they withdraw you]] — `اعْتَزَلَ` · they withdraw you
 - [[qrn - generations]] — `قَرْن` · generations
-- [[dEA' - call]] — `دُعاء` · call
-- [[bgy - rebellion]] — `بَغْي` · rebellion
-- [[lsAn - tongues]] — `لِسان` · tongues
 - [[Ed - you count]] — `عَدَّ` · you count
-- [[md - spread]] — `مَدَّ` · spread
-- [[jbAr - tyrant]] — `جَبّار` · tyrant
+- [[yHyY - will yahya]] — `يَحْيَى` · will yahya
+- [[Aty - surely coming]] — `آتِي` · surely coming
 - [[bkrp - morning]] — `بُكْرَة` · morning
+- [[bgy - rebellion]] — `بَغْي` · rebellion
 - [[Ely - high]] — `عَلِيّ` · high
-- [[>bSr - see]] — `أَبْصَرَ` · see
-- [[yHyY - yahya]] — `يَحْيَى` · yahya
 - [[E$y - evening]] — `عَشِيّ` · evening
-- [[>Elm - knowing]] — `أَعْلَم` · knowing
-- [[ymtr - doubt]] — `يَمْتَرُ` · doubt
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
+- [[dEA' - call]] — `دُعاء` · call
+- [[md - spread]] — `مَدَّ` · spread
+- [[lsAn - tongues]] — `لِسان` · tongues
+- [[Sdyq - truthful]] — `صِدِّيق` · truthful
+- [[AEtzl - they withdraw you]] — `اعْتَزَلَ` · they withdraw you
+- [[jbAr - tyrant]] — `جَبّار` · tyrant
+- [[>bSr - see]] — `أَبْصَرَ` · see
+- [[EbAdt - worship]] — `عِبادَت` · worship
+- [[xr - fell down]] — `خَرَّ` · fell down
+- [[mkAn - place]] — `مَكان` · place
+- [[gflp - heedlessness]] — `غَفْلَة` · heedlessness
+- [[dAm - as long as]] — `دامُ` · as long as
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$fE - make something pair]]
-- [[$hd - witnessing]]
+- [[$fE - intercession]]
+- [[$hd - witness]]
 - [[$hw - they desire]]
-- [[$qq - cleave]]
-- [[$qw - unblessed]]
+- [[$qq - opposes]]
+- [[$qw - wretched one]]
 - [[$rb - drink]]
-- [[$rq - earth]]
-- [[$rr - sparks fire]]
+- [[$rq - east]]
+- [[$rr - evil]]
 - [[$wr - gather honey]]
 - [[$y> - thing]]
-- [[$yE - follow cause follow]]
+- [[$yE - sects]]
 - [[$yb - white]]
-- [[*kr - remember recall something]]
-- [[*rr - scattering dispersing small]]
+- [[*kr - remember]]
+- [[*rr - offspring]]
 - [[>Hd - anyone]]
 - [[>bw - forefathers]]
-- [[>dm - seasoned food]]
-- [[>hl - people house]]
+- [[>dm - o adam]]
+- [[>hl - people]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
+- [[>wl - first]]
 - [[>x* - take]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[DyE - perishing]]
-- [[E$w - eating evening meal]]
-- [[E*b - motes particles floating]]
-- [[ESy - disobey]]
+- [[DyE - allow lost]]
+- [[E$w - evening]]
+- [[E*b - punishment]]
+- [[ESy - they disobeyed]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edd - count]]
-- [[Ehd - protection safeguard]]
-- [[Ejl - incite cause someone]]
+- [[Edd - number]]
+- [[Ehd - covenant]]
+- [[Ejl - calf]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
+- [[Elw - high]]
+- [[Eml - do]]
 - [[End - near]]
-- [[Eqr - wound hamstring]]
-- [[Esy - hope expectation]]
-- [[Etw - pride]]
+- [[Eqr - hamstrung]]
+- [[Esy - perhaps]]
+- [[Etw - were insolent]]
 
 ## Sample (ayah 1)
 

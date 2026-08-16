@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Etd - preparation readiness]]
+- [[Etd - she prepared]]
 
 ### Meaning
 **she prepared** · Lemma **أَعْتَدَتْ**

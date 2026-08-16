@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Ezm - determine]]
+- [[Ezm - determination]]
 
 ### Meaning
 **determination** · Lemma **عَزَمَ**

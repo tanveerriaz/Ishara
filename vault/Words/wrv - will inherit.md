@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wrv - receiving property]]
+- [[wrv - inheritors]]
 
 ### Meaning
 **will inherit** · Lemma **وَرِثَ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rhb - fear awe]]
+- [[rhb - fear me]]
 
 ### Meaning
 **fear me** · Lemma **يَرْهَبُ**

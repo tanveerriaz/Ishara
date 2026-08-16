@@ -15,83 +15,83 @@ The Smoke · 59 ayahs
 ## Words in this surah (graph)
 
 - [[Artqb - watch]] — `ارْتَقِبْ` · watch
-- [[mgrq - ones drowned]] — `مُغْرَق` · ones drowned
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[ymtr - doubt]] — `يَمْتَرُ` · doubt
-- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
-- [[mrsl - messengers]] — `مُرْسَل` · messengers
+- [[bHr - sea]] — `بَحْر` · sea
+- [[mwt - death]] — `مَوْت` · death
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[mhyn - humiliating]] — `مُهِين` · humiliating
 - [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[nAs - people]] — `ناس` · people
-- [[byn - between them]] — `بَيْن` · between them
+- [[$jrp - tree]] — `شَجَرَة` · tree
+- [[mwlY - protector]] — `مَوْلَى` · protector
+- [[blA' - was trial]] — `بَلاء` · was trial
+- [[bT$ - you seize]] — `بَطَشْ` · you seize
+- [[dEA - call]] — `دَعا` · call
+- [[EZym - great]] — `عَظِيم` · great
+- [[Hwr - fair ones]] — `حُور` · fair ones
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
+- [[mbArkp - blessed]] — `مُبارَكَة` · blessed
+- [[zwjt - paired]] — `زُوِّجَتْ` · paired
+- [[ysr - ease]] — `يُسْر` · ease
+- [[allah - God]] — `الله` · God
+- [[mjnwn - madman]] — `مَجْنُون` · madman
+- [[msrf - transgressors]] — `مُسْرِف` · transgressors
+- [[nSr - help]] — `نَصَرَ` · help
+- [[kl - every]] — `كُلّ` · every
 - [[k$f - we removed]] — `كَشَفَ` · we removed
-- [[rHmp - mercy]] — `رَحْمَة` · mercy
-- [[mwqn - certain]] — `مُوقِن` · certain
-- [[Elm - know]] — `عَلِمَ` · know
-- [[fwq - above them]] — `فَوْق` · above them
-- [[qbl - before]] — `قَبْل` · before
-- [[zqwm - zaqqum]] — `زَقُّوم` · zaqqum
-- [[EAly - its upside]] — `عالِي` · its upside
+- [[SAdq - truthful]] — `صادِق` · truthful
 
 ## Roots
 
-- [[$jr - trees]]
-- [[$kk - doubt uncertain about]]
+- [[$jr - tree]]
+- [[$kk - doubt]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[*wq - taste]]
 - [[>bw - forefathers]]
-- [[>dy - perform]]
+- [[>dy - render]]
 - [[>lh - god]]
 - [[>lm - painful]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
-- [[>wl - return revert original]]
+- [[>vm - sin]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
-- [[E*b - motes particles floating]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
+- [[E*b - punishment]]
 - [[EZm - great]]
 - [[Ebd - worship]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
+- [[Elw - high]]
 - [[End - near]]
-- [[Ew* - seek protection]]
+- [[Ew* - seek refuge]]
 - [[Ewd - aad]]
 - [[Eyn - eyes]]
-- [[Ezl - lower spout outlet]]
+- [[Ezl - they withdraw you]]
 - [[Ezz - all-mighty]]
-- [[Hkm - prevent restrain someone]]
-- [[Hmm - blackness being intensely]]
-- [[Hqq - established as true]]
-- [[Hwr - returning circling]]
+- [[Hkm - all-wise]]
+- [[Hmm - scalding water]]
+- [[Hqq - truth]]
+- [[Hwr - disciples]]
 - [[Hyy - life]]
-- [[Sbb - pour out shed]]
-- [[Sdq - speak truth]]
+- [[Sbb - will poured]]
+- [[Sdq - truthful]]
 - [[TEm - food]]
 - [[allah - God]]
-- [[bHr - large body water]]
-- [[bT$ - seize assault violence]]
-- [[bTn - belly abdomen]]
-- [[bky - weep cry]]
-- [[blw - test try]]
-- [[bny - sons]]
-- [[brk - camel's breast]]
+- [[bHr - sea]]
+- [[bT$ - you seize]]
+- [[bTn - bellies]]
+- [[bky - weeping]]
+- [[blw - was trial]]
+- [[bny - son]]
+- [[brk - blessed]]
 - [[byn - clear]]
 - [[dEw - call]]
 - [[fDl - bounty]]
-- [[fSl - separate]]
+- [[fSl - we explain]]
 
 ## Sample (ayah 1)
 

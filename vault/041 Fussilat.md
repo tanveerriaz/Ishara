@@ -15,82 +15,82 @@ Explained in Detail · 54 ayahs
 ## Words in this surah (graph)
 
 - [[jlwd - skins]] — `جُلُود` · skins
-- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
-- [[<ns - men]] — `إِنس` · men
-- [[tnzyl - revelation]] — `تَنزِيل` · revelation
-- [[Erby - arabic]] — `عَرَبِيّ` · arabic
 - [[SAEqp - thunderbolt]] — `صاعِقَة` · thunderbolt
+- [[AstqAm - stand firm]] — `اسْتَقامُ` · stand firm
+- [[tnzyl - revelation]] — `تَنزِيل` · revelation
 - [[wqr - deafness]] — `وَقْر` · deafness
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[HyAp - life]] — `حَياة` · life
-- [[>sA' - does evil]] — `أَساءَ` · does evil
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[ryH - wind]] — `رِيح` · wind
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[EAd - aad]] — `عادَ` · aad
-- [[>rD - earth]] — `أَرْض` · earth
-- [[rd - returned]] — `رَدَّ` · returned
-- [[y}ws - despairing]] — `يَئُوس` · despairing
+- [[<ns - men]] — `إِنس` · men
+- [[Erby - arabic]] — `عَرَبِيّ` · arabic
 - [[TwE - willingly]] — `طَوْع` · willingly
-- [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[dnyA - world]] — `دُنْيا` · world
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[qmr - moon]] — `قَمَر` · moon
+- [[mkAn - place]] — `مَكان` · place
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[Hml - will bear]] — `حَمَلَ` · will bear
+- [[EAml - working]] — `عامِل` · working
+- [[Astkbr - were arrogant]] — `اسْتَكْبَرَ` · were arrogant
+- [[qDY - surely]] — `قَضَى` · surely
+- [[>jr - reward]] — `أَجْر` · reward
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[>ErD - turn away]] — `أَعْرَضَ` · turn away
+- [[ydE - they call]] — `يَدَّعُ` · they call
+- [[ylHd - deviate]] — `يُلْحِدُ` · deviate
+- [[$r - evil]] — `شَرّ` · evil
+- [[ZlAm - unjust]] — `ظَلّام` · unjust
+- [[nzg - evil suggestion]] — `نَزَغَ` · evil suggestion
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[<nsAn - man]] — `إِنسان` · man
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$fy - heal recover illness]]
-- [[$hd - witnessing]]
+- [[$fy - healing]]
+- [[$hd - witness]]
 - [[$hw - they desire]]
-- [[$kk - doubt uncertain about]]
-- [[$ms - horse refusing ridden]]
-- [[$qq - cleave]]
-- [[$rk - sharing partnership]]
-- [[$rr - sparks fire]]
+- [[$kk - doubt]]
+- [[$ms - sun]]
+- [[$qq - opposes]]
+- [[$rk - polytheists]]
+- [[$rr - evil]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[*wq - taste]]
-- [[>*n - ear]]
-- [[>fq - go one's own]]
-- [[>jr - recompensing rewarding someone]]
+- [[>*n - by permission]]
+- [[>fq - horizons]]
+- [[>jr - reward]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>nv - female]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Edw - turn]]
+- [[Edw - enemy]]
 - [[Ejm - bite chew]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
-- [[Emy - blindness]]
+- [[Eml - do]]
+- [[Emy - blind]]
 - [[End - near]]
-- [[Eqb - heel human foot]]
+- [[Eqb - end]]
 - [[ErD - turn away]]
 - [[Erb - bedouins]]
-- [[Etb - angry someone]]
-- [[Ew* - seek protection]]
+- [[Etb - will asked make]]
+- [[Ew* - seek refuge]]
 - [[Ewd - aad]]
 - [[Ezz - all-mighty]]
-- [[H$r - gather collect people]]
-- [[HZZ - have good fortune]]
+- [[H$r - will gathered]]
+- [[HZZ - part]]
 - [[Hbb - love]]
 
 ## Sample (ayah 1)

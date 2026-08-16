@@ -14,84 +14,84 @@ The Cave · 110 ayahs
 
 ## Words in this surah (graph)
 
-- [[sbb - course]] — `سَبَب` · course
 - [[>HAT - they encompass]] — `أَحاطَ` · they encompass
-- [[ldn - yourself]] — `لَدُن` · yourself
-- [[qrn - generations]] — `قَرْن` · generations
-- [[r$d - right path]] — `رُشْد` · right path
-- [[vwAb - reward]] — `ثَواب` · reward
+- [[sbb - course]] — `سَبَب` · course
+- [[lbv - you remained]] — `لَبِثَ` · you remained
 - [[>tbE - he followed]] — `أَتْبَعَ` · he followed
 - [[AnTlq - proceed]] — `انطَلَقَ` · proceed
-- [[zynp - adornment]] — `زِينَة` · adornment
-- [[lbv - you remained]] — `لَبِثَ` · you remained
+- [[ldn - yourself]] — `لَدُن` · yourself
+- [[r$d - right path]] — `رُشْد` · right path
+- [[vwAb - reward]] — `ثَواب` · reward
 - [[glAm - boy]] — `غُلام` · boy
+- [[qrn - generations]] — `قَرْن` · generations
 - [[mwEd - appointment]] — `مَوْعِد` · appointment
-- [[Hwt - fish]] — `حُوت` · fish
-- [[zEm - claim]] — `زَعَمَ` · claim
-- [[>vr - footsteps]] — `أَثَر` · footsteps
-- [[nfx - will blown]] — `نَفَخَ` · will blown
-- [[mdynp - city]] — `مَدِينَة` · city
-- [[ErD - its width]] — `عَرَضَ` · its width
+- [[zynp - adornment]] — `زِينَة` · adornment
 - [[hzw - ridicule]] — `هُزُو` · ridicule
-- [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
-- [[Ejb - wonder]] — `عَجِبُ` · wonder
-- [[mk - we established]] — `مَكَّ` · we established
-- [[ftY - boy]] — `فَتَى` · boy
-- [[SAHb - companion]] — `صاحِب` · companion
 - [[yrhq - will cover]] — `يَرْهَقُ` · will cover
+- [[>Etdt - she prepared]] — `أَعْتَدَتْ` · she prepared
+- [[y&Ax* - blame me]] — `يُؤاخِذُ` · blame me
+- [[lq - you meet]] — `لَقُ` · you meet
+- [[Hwt - fish]] — `حُوت` · fish
+- [[SEyd - earth]] — `صَعِيد` · earth
+- [[nfx - will blown]] — `نَفَخَ` · will blown
+- [[>HSY - best calculated]] — `أَحْصَى` · best calculated
+- [[SAHb - companion]] — `صاحِب` · companion
+- [[snyn - years]] — `سِنِين` · years
+- [[mk - we established]] — `مَكَّ` · we established
+- [[vmr - its fruit]] — `ثَمَر` · its fruit
 
 ## Roots
 
-- [[$Er - name]]
+- [[$Er - perceive]]
 - [[$TT - exceed just limit]]
-- [[$Tn - anything excessively proud]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$fq - fear]]
-- [[$hd - witnessing]]
-- [[$ml - include encompass something]]
-- [[$ms - horse refusing ridden]]
+- [[$fq - fearful]]
+- [[$hd - witness]]
+- [[$ml - left]]
+- [[$ms - sun]]
 - [[$rb - drink]]
-- [[$rk - sharing partnership]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[*rE - forearm]]
-- [[*rr - scattering dispersing small]]
-- [[>*n - ear]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[*rE - uneasy]]
+- [[*rr - offspring]]
+- [[>*n - by permission]]
 - [[>Hd - anyone]]
-- [[>bd - absolute long]]
+- [[>bd - ever]]
 - [[>bw - forefathers]]
-- [[>by - refuse]]
-- [[>dm - seasoned food]]
-- [[>hl - people house]]
-- [[>jr - recompensing rewarding someone]]
+- [[>by - he refused]]
+- [[>dm - o adam]]
+- [[>hl - people]]
+- [[>jr - reward]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>md - period time defined]]
+- [[>md - was distance]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
-- [[>rk - person staying put]]
-- [[>sf - alas]]
+- [[>rk - couches]]
+- [[>sf - grieved]]
 - [[>ty - give]]
-- [[>vr - trace]]
-- [[>wl - return revert original]]
-- [[>wy - betake oneself place]]
+- [[>vr - footsteps]]
+- [[>wl - first]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
-- [[DyE - perishing]]
-- [[Dyf - inclining]]
-- [[E$w - eating evening meal]]
-- [[E*b - motes particles floating]]
-- [[E*r - excuse free blame]]
-- [[ESy - disobey]]
+- [[Drb - strike]]
+- [[DyE - allow lost]]
+- [[Dyf - guests]]
+- [[E$w - evening]]
+- [[E*b - punishment]]
+- [[E*r - make excuse]]
+- [[ESy - they disobeyed]]
 - [[Ebd - worship]]
-- [[Edd - count]]
-- [[Edw - turn]]
-- [[Ejb - amazing]]
+- [[Edd - number]]
+- [[Edw - enemy]]
+- [[Ejb - pleases you]]
 
 ## Sample (ayah 1)
 

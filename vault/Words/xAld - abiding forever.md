@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xld - type bracelet earring]]
+- [[xld - abiding forever]]
 
 ### Meaning
 **abiding forever** · Lemma **خالِد**

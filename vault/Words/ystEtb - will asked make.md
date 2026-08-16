@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Etb - angry someone]]
+- [[Etb - will asked make]]
 
 ### Meaning
 **will asked make** · Lemma **يَسْتَعْتِبُ**

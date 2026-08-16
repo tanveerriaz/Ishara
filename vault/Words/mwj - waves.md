@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mwj - wave]]
+- [[mwj - waves]]
 
 ### Meaning
 **waves** · Lemma **مَوْج**

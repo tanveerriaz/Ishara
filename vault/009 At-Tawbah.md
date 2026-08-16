@@ -16,81 +16,81 @@ The Repentance · 129 ayahs
 
 - [[Hlf - they swear]] — `حَلَفْ` · they swear
 - [[>ErAb - bedouins]] — `أَعْراب` · bedouins
-- [[nfr - go forth]] — `نَفَرَ` · go forth
-- [[krh - unwillingly]] — `كُرْه` · unwillingly
 - [[mrp - time]] — `مَرَّة` · time
 - [[Ast>*n - ask permission]] — `اسْتَأْذَنَ` · ask permission
-- [[qEd - sit]] — `قَعَدَ` · sit
+- [[krh - unwillingly]] — `كُرْه` · unwillingly
+- [[nfr - go forth]] — `نَفَرَ` · go forth
 - [[EAhd - they took]] — `عاهَدَ` · they took
-- [[>bdA - ever]] — `أَبَدًا` · ever
-- [[fwz - success]] — `فَوْز` · success
 - [[swrp - surah]] — `سُورَة` · surah
-- [[trbS - waiting]] — `تَرَبُّص` · waiting
-- [[>fwAh - mouths]] — `أَفْواه` · mouths
-- [[rDy - they pleased]] — `رَضِيَ` · they pleased
-- [[>Hq - more worthy]] — `أَحَقّ` · more worthy
-- [[jAhd - strive]] — `جاهَدَ` · strive
-- [[Sdqp - charities]] — `صَدَقَة` · charities
-- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
-- [[>Ejb - pleases you]] — `أَعْجَبَ` · pleases you
-- [[kA*b - liars]] — `كاذِب` · liars
-- [[EAm - years]] — `عام` · years
-- [[rDwAn - pleasure]] — `رِضْوان` · pleasure
-- [[Edp - number]] — `عِدَّة` · number
-- [[tbyn - became clear]] — `تَبَيَّنَ` · became clear
+- [[qEd - sit]] — `قَعَدَ` · sit
+- [[fwz - success]] — `فَوْز` · success
+- [[>bdA - ever]] — `أَبَدًا` · ever
 - [[mnkr - wrong]] — `مُنكَر` · wrong
+- [[>Ed - prepared]] — `أَعَدَّ` · prepared
+- [[tbyn - became clear]] — `تَبَيَّنَ` · became clear
+- [[>Ejb - pleases you]] — `أَعْجَبَ` · pleases you
+- [[mnAfq - hypocrites]] — `مُنافِق` · hypocrites
+- [[jAhd - strive]] — `جاهَدَ` · strive
+- [[kA*b - liars]] — `كاذِب` · liars
+- [[>Hq - more worthy]] — `أَحَقّ` · more worthy
+- [[EAm - years]] — `عام` · years
+- [[trbS - waiting]] — `تَرَبُّص` · waiting
+- [[Sdqp - charities]] — `صَدَقَة` · charities
+- [[rDy - they pleased]] — `رَضِيَ` · they pleased
+- [[Edp - number]] — `عِدَّة` · number
+- [[yfqh - understand]] — `يَفْقَهُ` · understand
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$fy - heal recover illness]]
-- [[$hd - witnessing]]
-- [[$hr - new moon]]
-- [[$qq - cleave]]
-- [[$rk - sharing partnership]]
-- [[$ry - buy sell]]
+- [[$fy - healing]]
+- [[$hd - witness]]
+- [[$hr - months]]
+- [[$qq - opposes]]
+- [[$rk - polytheists]]
+- [[$ry - exchange]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
+- [[*hb - gold]]
+- [[*kr - remember]]
 - [[*mm - disgraced]]
-- [[*nb - tail]]
+- [[*nb - sin]]
 - [[*wq - taste]]
-- [[>*n - ear]]
+- [[>*n - by permission]]
 - [[>*y - hurt]]
 - [[>Hd - anyone]]
-- [[>bd - absolute long]]
+- [[>bd - ever]]
 - [[>bw - forefathers]]
-- [[>by - refuse]]
-- [[>fk - turn something away]]
-- [[>hl - people house]]
-- [[>jr - recompensing rewarding someone]]
+- [[>by - he refused]]
+- [[>fk - lie]]
+- [[>hl - people]]
+- [[>jr - reward]]
 - [[>kl - eat]]
-- [[>lf - become familiar]]
+- [[>lf - thousand]]
 - [[>lh - god]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
-- [[>wy - betake oneself place]]
+- [[>wl - first]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yd - earth]]
-- [[>yy - ism]]
+- [[>yd - supports]]
+- [[>yy - signs]]
 - [[DEf - weak]]
 - [[DHk - laugh]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
-- [[DyE - perishing]]
-- [[Dyq - become narrow strait]]
+- [[DyE - allow lost]]
+- [[Dyq - was straitened]]
 - [[E$r - ten]]
-- [[E*b - motes particles floating]]
-- [[E*r - excuse free blame]]
-- [[ETw - take handle something]]
+- [[E*b - punishment]]
+- [[E*r - make excuse]]
+- [[ETw - gift]]
 - [[EZm - great]]
 
 ## Sample (ayah 1)

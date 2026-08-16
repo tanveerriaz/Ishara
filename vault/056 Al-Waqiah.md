@@ -14,82 +14,82 @@ The Inevitable · 96 ayahs
 
 ## Words in this surah (graph)
 
-- [[mknwn - well-protected]] — `مَكْنُون` · well-protected
 - [[nEym - delight]] — `نَعِيم` · delight
-- [[fAkhp - fruits]] — `فاكِهَة` · fruits
-- [[mk*b - deniers]] — `مُكَذِّب` · deniers
-- [[$Arb - drinkers]] — `شارِب` · drinkers
 - [[mqrb - brought near]] — `مُقَرَّب` · brought near
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[mtqAbl - facing each other]] — `مُتَقابِل` · facing each other
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[>rD - earth]] — `أَرْض` · earth
-- [[xAlq - creator]] — `خالِق` · creator
+- [[mk*b - deniers]] — `مُكَذِّب` · deniers
+- [[fAkhp - fruits]] — `فاكِهَة` · fruits
+- [[mknwn - well-protected]] — `مَكْنُون` · well-protected
+- [[$Arb - drinkers]] — `شارِب` · drinkers
 - [[>trAb - well-matched]] — `أَتْراب` · well-matched
-- [[mEyn - water springs]] — `مَعِين` · water springs
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[byn - between them]] — `بَيْن` · between them
-- [[TAf - will circulated]] — `طافَ` · will circulated
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
-- [[Elm - know]] — `عَلِمَ` · know
-- [[mElwm - known]] — `مَعْلُوم` · known
-- [[dyn - religion]] — `دِين` · religion
+- [[mgrm - debt]] — `مَغْرَم` · debt
+- [[lgw - vain talk]] — `لَغْو` · vain talk
+- [[mwt - death]] — `مَوْت` · death
+- [[njm - stars]] — `نَجْم` · stars
+- [[bkr - virgins]] — `بِكْر` · virgins
+- [[$jrp - tree]] — `شَجَرَة` · tree
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[smwm - scorching fire]] — `سَمُوم` · scorching fire
+- [[Hwr - fair ones]] — `حُور` · fair ones
+- [[EZym - great]] — `عَظِيم` · great
+- [[mAt - died]] — `ماتَ` · died
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[wqE - became incumbent]] — `وَقَعَ` · became incumbent
 - [[jbl - mountains]] — `جَبَل` · mountains
-- [[>jAj - bitter]] — `أُجاج` · bitter
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[mA' - water]] — `ماء` · water
+- [[mEyn - water springs]] — `مَعِين` · water springs
 
 ## Roots
 
 - [[$hw - they desire]]
-- [[$jr - trees]]
+- [[$jr - tree]]
 - [[$kr - gratitude]]
-- [[$ml - include encompass something]]
+- [[$ml - left]]
 - [[$rb - drink]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[>bw - forefathers]]
 - [[>jj - bitter]]
 - [[>kl - eat]]
 - [[>rD - earth]]
-- [[>vm - sin commit crime]]
-- [[>wl - return revert original]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>vm - sin]]
+- [[>wl - first]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[Dll - astray]]
 - [[EZm - great]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
+- [[Eml - do]]
 - [[Erb - bedouins]]
 - [[Eyn - eyes]]
-- [[HTm - break]]
-- [[Hdv - accidents]]
+- [[HTm - debris]]
+- [[Hdv - statement]]
 - [[Hlq - shave]]
-- [[Hmm - blackness being intensely]]
-- [[Hqq - established as true]]
-- [[Hrm - reverence]]
-- [[Hrv - gain acquire wealth]]
-- [[Hwr - returning circling]]
-- [[Hyn - period time]]
-- [[SHb - lord]]
+- [[Hmm - scalding water]]
+- [[Hqq - truth]]
+- [[Hrm - al-haraam]]
+- [[Hrv - harvest]]
+- [[Hwr - disciples]]
+- [[Hyn - time]]
+- [[SHb - companion]]
 - [[SdE - cleave]]
-- [[Sdq - speak truth]]
-- [[Sly - exposed fire heat]]
-- [[Srr - tie bind tightly]]
-- [[Thr - cleanse purify oneself]]
-- [[Twf - go walk around]]
-- [[Tyr - anything flies]]
-- [[Zll - shade cover]]
-- [[bEv - remove restraint]]
-- [[bSr - mental perception]]
-- [[bTn - belly abdomen]]
-- [[bdl - change alter]]
-- [[bkr - go forth come]]
-- [[blg - reach]]
-- [[brd - become cold]]
-- [[brq - shine gleam]]
-- [[bvv - scatter]]
+- [[Sdq - truthful]]
+- [[Sly - burn therein]]
+- [[Srr - they persist]]
+- [[Thr - purer]]
+- [[Twf - group]]
+- [[Tyr - birds]]
+- [[Zll - shade]]
+- [[bEv - we sent]]
+- [[bSr - all-seer]]
+- [[bTn - bellies]]
+- [[bdl - change]]
+- [[bkr - morning]]
+- [[blg - conveyance]]
+- [[brd - coolness]]
+- [[brq - lightning]]
+- [[bvv - dispersing]]
 - [[byn - clear]]
 - [[dhn - anoint oil something]]
 

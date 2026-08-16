@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qTE - cut sever]]
+- [[qTE - cut off]]
 
 ### Meaning
 **cut off** · Lemma **قُطِعَ**

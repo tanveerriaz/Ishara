@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[lms - feel touch]]
+- [[lms - sought touch]]
 
 ### Meaning
 **sought touch** · Lemma **لَمَسُ**

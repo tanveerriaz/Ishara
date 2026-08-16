@@ -5,7 +5,7 @@ Ishara — FAST Obsidian vault (meaning graph only).
 Design for load speed:
 - No per-ayah files
 - No full mushaf text inside Obsidian (reading via Quran.com links)
-- Word notes only for lemmas that appear in 2+ surahs (cross-surah graph)
+- Word notes only for lemmas that appear in 3+ surahs (cross-surah graph)
 - Tight wikilink caps so Obsidian is not resolving 100k+ links on startup
 """
 
@@ -47,12 +47,24 @@ STOP = {
     "your", "our", "with", "from", "into", "upon", "over", "under", "not", "no",
 }
 CURATED_ROOT_LABELS = {
+    # Core Fatihah / high-frequency senses
     "رحم": "mercy", "حمد": "praise", "صرط": "path", "عبد": "worship", "ربب": "Lord",
     "اله": "god", "أله": "god", "علم": "knowledge", "ملك": "sovereignty", "دين": "judgment",
     "يوم": "day", "هدي": "guide", "قوم": "upright", "نعم": "favor", "غضب": "wrath",
     "ضلل": "astray", "عون": "help", "سمو": "name", "امن": "believe", "كتب": "book",
     "صلو": "prayer", "زكو": "purify", "كفر": "disbelieve", "سبح": "glory", "خلق": "create",
     "شكر": "gratitude", "أرض": "earth", "دبر": "turn back",
+    # Qur'anic-dominant overrides (Lane first-sense or romanization often misleads)
+    "قول": "say",  # not "qawala"
+    "أمر": "command",  # not "amara"
+    "فرد": "alone",  # not "fard"
+    "ولج": "enter",  # not "walaja"
+    "عذب": "punishment",  # Qur'anic عذاب; Lane often "motes"
+    "ذنب": "sin",  # Qur'anic ذنب; Lane etymology "tail"
+    "صحب": "companion",  # not "lord" from صاحب bleed
+    "لهو": "diversion",  # not Lane "uvula"
+    "جرم": "crime",  # not "doubt" from لا جرم phrase gloss
+    "نسل": "offspring",  # not "nasala"
 }
 
 
@@ -126,6 +138,27 @@ def looks_like_bw_stub(text: str, root_bw: str | None = None) -> bool:
     return False
 
 
+def looks_like_romanization(text: str, root_bw: str | None = None) -> bool:
+    """True for vocalized romanizations like qawala / walaja / fard posing as English."""
+    if looks_like_bw_stub(text, root_bw):
+        return True
+    t = (text or "").strip().lower()
+    if not t or " " in t:
+        return False
+    if root_bw:
+        rb = re.sub(r"[^a-z]", "", root_bw.lower())
+        stripped = re.sub(r"[aeiou]", "", re.sub(r"[^a-z]", "", t))
+        rb_stripped = re.sub(r"[aeiou]", "", rb)
+        if rb_stripped and stripped == rb_stripped and t != rb:
+            return True
+    # Form-I style: consonant skeleton with inserted vowels ending in a
+    if re.fullmatch(r"[a-z]{3,10}", t):
+        consonants = re.sub(r"[aeiou]", "", t)
+        if 2 <= len(consonants) <= 4 and t.count("a") >= 2 and t.endswith("a"):
+            return True
+    return False
+
+
 def short_label_from_lane(
     summary: str | None, definition: str | None, root_bw: str | None = None
 ) -> str | None:
@@ -136,33 +169,33 @@ def short_label_from_lane(
         s = s.strip()
         if not s or s in STOP:
             return False
-        if looks_like_bw_stub(s, root_bw):
+        if looks_like_romanization(s, root_bw):
             return False
         if re.fullmatch(r"[A-Za-z$]{1,5}", s) and any(c.isupper() for c in s):
             return False
         return True
 
-    # Prefer English gloss clauses over parenthetical transliteration codes.
+    # Prefer English gloss clauses; never return parenthetical romanization.
     if low:
         m = re.search(
-            r"(?:primarily\s+)?(?:means|refers to|denotes|relates to)\s+"
-            r"(?:to\s+|the\s+|a\s+|an\s+)?"
-            r"([a-z][a-z\s\-']{1,50})",
+            r'(?:primarily\s+)?(?:means|refers to|denotes|relates to)\s+'
+            r'(?:to\s+|the\s+|a\s+|an\s+)?'
+            r'["\']?([a-z][a-z\s\-\']{1,50})',
             low,
         )
         if m and ok(m.group(1)):
             return sanitize_gloss(m.group(1))
-        means_at = m.start() if m else -1
+        # Parentheticals only if they look like real English (not BW / romanization)
         for pm in re.finditer(r"\(([a-z][a-z\s\-]{1,40})\)", low):
-            # Skip (bw) stubs that appear before the means-clause.
-            if means_at >= 0 and pm.start() < means_at:
-                continue
-            if ok(pm.group(1)):
-                return sanitize_gloss(pm.group(1))
+            candidate = pm.group(1)
+            if ok(candidate) and " " in candidate:
+                return sanitize_gloss(candidate)
     defn = (definition or "")[:600]
     for candidate in (
         "mercy", "praise", "worship", "name", "path", "guide", "glory", "believe",
         "earth", "thank", "grateful", "gratitude", "turn", "retreat", "back",
+        "say", "speak", "speech", "command", "punish", "sin", "companion",
+        "play", "divert", "crime", "enter", "alone",
     ):
         if re.search(rf"\b{candidate}\b", defn.lower()):
             return candidate
@@ -414,17 +447,32 @@ def main():
             surah_root_keys[s].add(root_key)
 
     def pick_root_gloss(root_key, meta):
+        """Qur'anic-dominant: curated → kept-lemma WBW majority → Lane → root WBW."""
         if root_key == "ALLAH":
             return "God"
         if meta["root_ar"] in CURATED_ROOT_LABELS:
             return CURATED_ROOT_LABELS[meta["root_ar"]]
         bw = arabic_to_bw(meta["root_ar"])
+        lemma_glosses: Counter[str] = Counter()
+        for lk, lm in lemma_meta.items():
+            if lk not in keep_lemmas or lm["root_key"] != root_key:
+                continue
+            ranked_lem = sorted(
+                lm["glosses"].items(),
+                key=lambda kv: (0 if len(kv[0].split()) <= 2 else 1, -kv[1]),
+            )
+            for g, c in ranked_lem:
+                if g and g not in {"root", "word", "of", "to"} and not looks_like_romanization(g, bw):
+                    lemma_glosses[g] += c
+                    break
+        if lemma_glosses:
+            return sorted(lemma_glosses.items(), key=lambda kv: (-kv[1], len(kv[0])))[0][0]
         for k in (meta["root_ar"], f"bw:{bw}"):
-            if k in lane and not looks_like_bw_stub(lane[k], bw):
+            if k in lane and not looks_like_romanization(lane[k], bw):
                 return lane[k]
         ranked = sorted(meta["glosses"].items(), key=lambda kv: (-kv[1], len(kv[0])))
         for g, _ in ranked:
-            if g and g not in {"root", "word", "of", "to"} and not looks_like_bw_stub(g, bw):
+            if g and g not in {"root", "word", "of", "to"} and not looks_like_romanization(g, bw):
                 return g
         return "root"
 
@@ -434,10 +482,10 @@ def main():
         bw = arabic_to_bw(meta["root_ar"])
         ranked = sorted(meta["glosses"].items(), key=lambda kv: (0 if len(kv[0].split()) <= 2 else 1, -kv[1]))
         for g, _ in ranked:
-            if g not in {"root", "word", "of", "to"} and not looks_like_bw_stub(g, bw):
+            if g not in {"root", "word", "of", "to"} and not looks_like_romanization(g, bw):
                 return g
         root_g = pick_root_gloss(meta["root_key"], root_meta[meta["root_key"]])
-        if not looks_like_bw_stub(root_g, bw):
+        if not looks_like_romanization(root_g, bw):
             return root_g
         return "word"
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[zlzl - shake]]
+- [[zlzl - shaken]]
 
 ### Meaning
 **shaken** · Lemma **زُلْزِلُ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Twf - go walk around]]
+- [[Twf - group]]
 
 ### Meaning
 **circumambulate** · Lemma **طائِف**

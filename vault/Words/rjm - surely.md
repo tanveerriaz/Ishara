@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rjm - throw stones]]
+- [[rjm - accursed]]
 
 ### Meaning
 **surely** · Lemma **رَجَمْ**

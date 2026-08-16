@@ -15,82 +15,82 @@ Luqman · 34 ayahs
 ## Words in this surah (graph)
 
 - [[Hmyd - praiseworthy]] — `حَمِيد` · praiseworthy
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[wlY - so turn]] — `وَلَّى` · so turn
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[HyAp - life]] — `حَياة` · life
-- [[AbA' - forefathers]] — `آباء` · forefathers
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
+- [[tlY - recited]] — `تَلَى` · recited
+- [[bHr - sea]] — `بَحْر` · sea
+- [[Hml - will bear]] — `حَمَلَ` · will bear
+- [[kbyr - great]] — `كَبِير` · great
+- [[mwj - waves]] — `مَوْج` · waves
+- [[EAm - years]] — `عام` · years
+- [[x$y - fear]] — `خَشِيَ` · fear
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[mhyn - humiliating]] — `مُهِين` · humiliating
 - [[g$y - overcoming]] — `غَشِيَ` · overcoming
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rHAm - wombs]] — `أَرْحام` · wombs
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjh - faces]] — `وَجْه` · faces
-- [[wjd - we found]] — `وَجَدَ` · we found
-- [[whn - weaken]] — `وَهَنَ` · weaken
-- [[dnyA - world]] — `دُنْيا` · world
-- [[mbyn - clear]] — `مُبِين` · clear
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[nAs - people]] — `ناس` · people
-- [[qmr - moon]] — `قَمَر` · moon
-- [[wAldy - parents]] — `والِدَي` · parents
-- [[mtE - then i will]] — `مَتَّعْ` · then i will
-- [[rHmp - mercy]] — `رَحْمَة` · mercy
-- [[>nAb - turns]] — `أَنابَ` · turns
-- [[bEv - we sent]] — `بَعَثَ` · we sent
+- [[$jrp - tree]] — `شَجَرَة` · tree
+- [[sbEp - seven]] — `سَبْعَة` · seven
+- [[flk - ships]] — `فُلْك` · ships
+- [[gr - deceive you]] — `غَرَّ` · deceive you
+- [[<nsAn - man]] — `إِنسان` · man
+- [[dEA - call]] — `دَعا` · call
+- [[EZym - great]] — `عَظِيم` · great
+- [[grwr - delusion]] — `غُرُور` · delusion
+- [[mAt - died]] — `ماتَ` · died
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[kfwr - ungrateful]] — `كَفُور` · ungrateful
+- [[>$rk - associate]] — `أَشْرَكَ` · associate
+- [[b$r - man]] — `بُشِّرَ` · man
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
-- [[$jr - trees]]
+- [[$Tn - shaitaan]]
+- [[$jr - tree]]
 - [[$kr - gratitude]]
-- [[$ms - horse refusing ridden]]
-- [[$rk - sharing partnership]]
-- [[$ry - buy sell]]
+- [[$ms - sun]]
+- [[$rk - polytheists]]
+- [[$ry - exchange]]
 - [[$y> - thing]]
-- [[>*n - ear]]
+- [[>*n - by permission]]
 - [[>bw - forefathers]]
 - [[>jl - term]]
 - [[>lm - painful]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[Dll - astray]]
 - [[Drr - adversity]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[EZm - great]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Emd - tent pole column]]
-- [[Eml - intentional action deed]]
+- [[Elw - high]]
+- [[Emd - pillars]]
+- [[Eml - do]]
 - [[End - near]]
-- [[Eqb - heel human foot]]
-- [[Erf - right]]
+- [[Eqb - end]]
+- [[Erf - fair manner]]
 - [[Erw - loop handle]]
 - [[Ewm - years]]
-- [[Ezm - determine]]
+- [[Ezm - determination]]
 - [[Ezz - all-mighty]]
 - [[Hbb - love]]
-- [[Hdv - accidents]]
-- [[Hkm - prevent restrain someone]]
+- [[Hdv - statement]]
+- [[Hkm - all-wise]]
 - [[Hmd - praise]]
-- [[Hml - bear]]
-- [[Hmr - color red]]
-- [[Hqq - established as true]]
+- [[Hml - will bear]]
+- [[Hmr - donkeys]]
+- [[Hqq - truth]]
 - [[Hsn - good]]
 - [[Hyy - life]]
-- [[Hzn - become sorrowful]]
-- [[SHb - lord]]
-- [[Sbr - confine restrain]]
-- [[Sdr - front part something]]
-- [[SlH - make something good]]
+- [[Hzn - will grieve]]
+- [[SHb - companion]]
+- [[Sbr - patient]]
+- [[Sdr - breasts]]
+- [[SlH - righteous deeds]]
 - [[Slw - prayer]]
 
 ## Sample (ayah 1)

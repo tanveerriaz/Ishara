@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jwz - passing making something]]
+- [[jwz - he crossed it]]
 
 ### Meaning
 **he crossed it** · Lemma **جاوَزَ**

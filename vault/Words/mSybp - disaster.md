@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Swb - descend go down]]
+- [[Swb - befalls you]]
 
 ### Meaning
 **disaster** · Lemma **مُصِيبَة**

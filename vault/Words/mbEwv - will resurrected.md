@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bEv - remove restraint]]
+- [[bEv - we sent]]
 
 ### Meaning
 **will resurrected** · Lemma **مَبْعُوث**

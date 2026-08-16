@@ -14,21 +14,21 @@ Quraysh · 4 ayahs
 
 ## Words in this surah (graph)
 
-- [[jwE - hunger]] — `جُوع` · hunger
-- [[byt - houses]] — `بَيْت` · houses
 - [[Amn - believe]] — `آمَنَ` · believe
-- [[xwf - fear]] — `خَوْف` · fear
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
-- [[rb - lord]] — `رَبّ` · lord
 - [[>TEm - feed]] — `أَطْعَمَ` · feed
+- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[jwE - hunger]] — `جُوع` · hunger
+- [[xwf - fear]] — `خَوْف` · fear
+- [[byt - houses]] — `بَيْت` · houses
+- [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 
-- [[>lf - become familiar]]
+- [[>lf - thousand]]
 - [[>mn - believe]]
 - [[Ebd - worship]]
 - [[TEm - food]]
-- [[byt - any house]]
+- [[byt - houses]]
 - [[jwE - hunger]]
 - [[rbb - Lord]]
 - [[xwf - fear]]

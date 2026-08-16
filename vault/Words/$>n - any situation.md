@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$>n - matter]]
+- [[$>n - any situation]]
 
 ### Meaning
 **any situation** · Lemma **شَأْن**

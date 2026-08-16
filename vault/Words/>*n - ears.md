@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>*n - ear]]
+- [[>*n - by permission]]
 
 ### Meaning
 **ears** · Lemma **أُذُن**

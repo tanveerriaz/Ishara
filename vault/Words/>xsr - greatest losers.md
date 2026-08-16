@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xsr - lose]]
+- [[xsr - losers]]
 
 ### Meaning
 **greatest losers** · Lemma **أَخْسَر**

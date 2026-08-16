@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nfd - come end]]
+- [[nfd - will exhausted]]
 
 ### Meaning
 **will exhausted** · Lemma **نَفِدَ**

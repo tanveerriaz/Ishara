@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[DrE - lower]]
+- [[DrE - humble themselves]]
 
 ### Meaning
 **humble themselves** · Lemma **يَتَضَرَّعُ**

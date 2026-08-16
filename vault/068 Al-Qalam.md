@@ -14,84 +14,84 @@ The Pen · 52 ayahs
 
 ## Words in this surah (graph)
 
-- [[gd - tomorrow]] — `غَدَ` · tomorrow
 - [[mjnwn - madman]] — `مَجْنُون` · madman
-- [[mSbH - morning]] — `مُصْبِح` · morning
+- [[gd - tomorrow]] — `غَدَ` · tomorrow
 - [[sjwd - prostrate]] — `سُجُود` · prostrate
-- [[yrhq - will cover]] — `يَرْهَقُ` · will cover
-- [[>Elm - knowing]] — `أَعْلَم` · knowing
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[EAlm - worlds]] — `عالَم` · worlds
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[>qbl - will approach]] — `أَقْبَلَ` · will approach
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[Hyv - wherever]] — `حَيْث` · wherever
-- [[k$f - we removed]] — `كَشَفَ` · we removed
-- [[TAf - will circulated]] — `طافَ` · will circulated
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[bEd - after]] — `بَعْد` · after
-- [[Elm - know]] — `عَلِمَ` · know
-- [[qAdr - able]] — `قادِر` · able
+- [[mSbH - morning]] — `مُصْبِح` · morning
+- [[mgrm - debt]] — `مَغْرَم` · debt
+- [[AnTlq - proceed]] — `انطَلَقَ` · proceed
+- [[tlY - recited]] — `تَلَى` · recited
+- [[wd - wished]] — `وَدَّ` · wished
+- [[>jr - reward]] — `أَجْر` · reward
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[EZym - great]] — `عَظِيم` · great
+- [[dEA - call]] — `دَعا` · call
 - [[AdArk - arrested]] — `ادّارَكَ` · arrested
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[nEym - delight]] — `نَعِيم` · delight
+- [[ZAlm - wrongdoers]] — `ظالِم` · wrongdoers
+- [[kyf - how]] — `كَيْف` · how
+- [[TA}f - circumambulate]] — `طائِف` · circumambulate
+- [[EsY - perhaps]] — `عَسَى` · perhaps
+- [[kl - every]] — `كُلّ` · every
+- [[k$f - we removed]] — `كَشَفَ` · we removed
+- [[ktb - prescribed]] — `كَتَبَ` · prescribed
+- [[SAdq - truthful]] — `صادِق` · truthful
+- [[xyr - better]] — `خَيْر` · better
 - [[nAdY - he called]] — `نادَى` · he called
-- [[bED - others]] — `بَعْض` · others
-- [[Ayp - signs]] — `آيَة` · signs
-- [[mtyn - firm]] — `مَتِين` · firm
+- [[mslm - muslims]] — `مُسْلِم` · muslims
+- [[mEtd - transgressor]] — `مُعْتَد` · transgressor
 
 ## Roots
 
-- [[$rk - sharing partnership]]
-- [[*kr - remember recall something]]
+- [[$rk - polytheists]]
+- [[*kr - remember]]
 - [[*ll - humiliation]]
 - [[*mm - disgraced]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>ty - give]]
-- [[>vm - sin commit crime]]
-- [[>wl - return revert original]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>vm - sin]]
+- [[>wl - first]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[EZm - great]]
-- [[Edw - turn]]
+- [[Edw - enemy]]
 - [[Elm - knowledge]]
 - [[End - near]]
 - [[Ery - become naked]]
-- [[Esy - hope expectation]]
-- [[Hdv - accidents]]
-- [[Hkm - prevent restrain someone]]
-- [[Hlf - type tall]]
-- [[Hrm - reverence]]
-- [[Hrv - gain acquire wealth]]
-- [[Hwt - striving enticing someone]]
-- [[Hyv - haythu]]
-- [[SHb - lord]]
+- [[Esy - perhaps]]
+- [[Hdv - statement]]
+- [[Hkm - all-wise]]
+- [[Hlf - they swear]]
+- [[Hrm - al-haraam]]
+- [[Hrv - harvest]]
+- [[Hwt - fish]]
+- [[Hyv - wherever]]
+- [[SHb - companion]]
 - [[SbH - morning]]
-- [[Sbr - confine restrain]]
-- [[Sdq - speak truth]]
-- [[SlH - make something good]]
+- [[Sbr - patient]]
+- [[Sdq - truthful]]
+- [[SlH - righteous deeds]]
 - [[Tgy - transgression]]
-- [[Tlq - loose]]
+- [[Tlq - you divorce]]
 - [[TwE - obey]]
-- [[Twf - go walk around]]
-- [[Zlm - put something wrong]]
+- [[Twf - group]]
+- [[Zlm - wrongdoers]]
 - [[bED - others]]
-- [[bEd - become distant]]
-- [[bSr - mental perception]]
-- [[bdl - change alter]]
-- [[blg - reach]]
-- [[blw - test try]]
-- [[bny - sons]]
+- [[bEd - after]]
+- [[bSr - all-seer]]
+- [[bdl - change]]
+- [[blg - conveyance]]
+- [[blw - was trial]]
+- [[bny - son]]
 - [[dEw - call]]
 - [[dhn - anoint oil something]]
-- [[drj - path]]
-- [[drk - overtook him]]
-- [[drs - something become effaced]]
+- [[drj - degrees]]
+- [[drk - arrested]]
+- [[drs - studying it]]
 - [[dxl - enter]]
-- [[ftn - burn melt something]]
-- [[gdw - early part morning]]
+- [[ftn - trial]]
+- [[gdw - tomorrow]]
 
 ## Sample (ayah 1)
 

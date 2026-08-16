@@ -14,39 +14,39 @@ The Courser · 11 ayahs
 
 ## Words in this surah (graph)
 
-- [[xbyr - all-aware]] — `خَبِير` · all-aware
-- [[Sdr - breasts]] — `صَدْر` · breasts
 - [[$dyd - severe]] — `شَدِيد` · severe
-- [[rb - lord]] — `رَبّ` · lord
+- [[qbr - graves]] — `قَبْر` · graves
+- [[>vAr - plough]] — `أَثارُ` · plough
 - [[<nsAn - man]] — `إِنسان` · man
 - [[Elm - know]] — `عَلِمَ` · know
-- [[Hb - grain]] — `حُبّ` · grain
-- [[>vAr - plough]] — `أَثارُ` · plough
-- [[$hyd - witness]] — `شَهِيد` · witness
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
-- [[ywm - day]] — `يَوْم` · day
 - [[SbH - morning]] — `صُبْح` · morning
-- [[qbr - graves]] — `قَبْر` · graves
+- [[ywm - day]] — `يَوْم` · day
+- [[Sdr - breasts]] — `صَدْر` · breasts
+- [[$hyd - witness]] — `شَهِيد` · witness
+- [[xbyr - all-aware]] — `خَبِير` · all-aware
+- [[jmE - two hosts]] — `جَمَعَ` · two hosts
 - [[xyr - better]] — `خَيْر` · better
+- [[Hb - grain]] — `حُبّ` · grain
+- [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$hd - witnessing]]
-- [[>ns - mankind]]
-- [[Edw - turn]]
+- [[$hd - witness]]
+- [[>ns - people]]
+- [[Edw - enemy]]
 - [[Elm - knowledge]]
 - [[Hbb - love]]
 - [[SbH - morning]]
-- [[Sdr - front part something]]
-- [[gyr - ghayr]]
-- [[jmE - collection]]
-- [[qbr - type small bird]]
+- [[Sdr - breasts]]
+- [[gyr - without]]
+- [[jmE - all]]
+- [[qbr - graves]]
 - [[rbb - Lord]]
-- [[vwr - raised]]
-- [[wry - conceal hide something]]
+- [[vwr - plough]]
+- [[wry - behind]]
 - [[wsT - middle part something]]
-- [[xbr - know something deeply]]
+- [[xbr - all-aware]]
 - [[xyr - better]]
 - [[ywm - day]]
 

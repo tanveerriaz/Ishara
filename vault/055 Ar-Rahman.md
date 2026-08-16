@@ -19,74 +19,74 @@ The Beneficent · 78 ayahs
 - [[fAkhp - fruits]] — `فاكِهَة` · fruits
 - [[nxl - date-palms]] — `نَخْل` · date-palms
 - [[mtk} - reclining]] — `مُتَّكِئ` · reclining
-- [[>rD - earth]] — `أَرْض` · earth
-- [[byAn - declaration]] — `بَيان` · declaration
-- [[wjh - faces]] — `وَجْه` · faces
+- [[Erf - they recognize]] — `عَرَفَ` · they recognize
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[bHr - sea]] — `بَحْر` · sea
+- [[njm - stars]] — `نَجْم` · stars
+- [[qASrp - will companions modest]] — `قاصِرَة` · will companions modest
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[<nsAn - man]] — `إِنسان` · man
+- [[rHmn - gracious]] — `رَحْمٰن` · gracious
+- [[Hwr - fair ones]] — `حُور` · fair ones
 - [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[qmr - moon]] — `قَمَر` · moon
-- [[mgrb - west]] — `مَغْرِب` · west
-- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
+- [[qdm - feet]] — `قَدَّمَ` · feet
 - [[tbArk - blessed]] — `تَبارَكَ` · blessed
-- [[ESf - husk]] — `عَصْف` · husk
-- [[byn - between them]] — `بَيْن` · between them
-- [[TAf - will circulated]] — `طافَ` · will circulated
-- [[m$rq - east]] — `مَشْرِق` · east
-- [[Elm - know]] — `عَلِمَ` · know
-- [[bgY - seek it]] — `بَغَى` · seek it
-- [[qbl - before]] — `قَبْل` · before
-- [[myzAn - scales]] — `مِيزان` · scales
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[mjrm - criminals]] — `مُجْرِم` · criminals
 - [[$>n - any situation]] — `شَأْن` · any situation
-- [[dwn - besides]] — `دُون` · besides
+- [[kl - every]] — `كُلّ` · every
+- [[ESf - husk]] — `عَصْف` · husk
+- [[mqAm - place]] — `مَقام` · place
+- [[<HsAn - good]] — `إِحْسان` · good
+- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
+- [[AltqY - met]] — `الْتَقَى` · met
+- [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 
-- [[$>n - matter]]
-- [[$jr - trees]]
-- [[$ms - horse refusing ridden]]
-- [[$qq - cleave]]
-- [[$rq - earth]]
-- [[*nb - tail]]
-- [[>lw - ila]]
-- [[>ns - mankind]]
+- [[$>n - any situation]]
+- [[$jr - tree]]
+- [[$ms - sun]]
+- [[$qq - opposes]]
+- [[$rq - east]]
+- [[*nb - sin]]
+- [[>lw - favors]]
+- [[>ns - people]]
 - [[>ny - hours]]
 - [[>rD - earth]]
 - [[>x* - take]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[E$r - ten]]
-- [[ESf - stormy]]
+- [[ESf - husk]]
 - [[Elm - knowledge]]
-- [[Erf - right]]
+- [[Erf - fair manner]]
 - [[Eyn - eyes]]
 - [[Hbb - love]]
-- [[Hmm - blackness being intensely]]
-- [[Hsb - number]]
+- [[Hmm - scalding water]]
+- [[Hsb - account]]
 - [[Hsn - good]]
-- [[Hwr - returning circling]]
+- [[Hwr - disciples]]
 - [[Tgy - transgression]]
-- [[Trf - side]]
+- [[Trf - its borders]]
 - [[TwE - obey]]
-- [[Twf - go walk around]]
-- [[bHr - large body water]]
-- [[bTn - belly abdomen]]
-- [[bgy - seek desire something]]
-- [[bqy - remain]]
-- [[brk - camel's breast]]
-- [[brzx - intervening barrier obstruction]]
+- [[Twf - group]]
+- [[bHr - sea]]
+- [[bTn - bellies]]
+- [[bgy - seeking]]
+- [[bqy - more lasting]]
+- [[brk - blessed]]
+- [[brzx - barrier]]
 - [[byn - clear]]
 - [[dhn - anoint oil something]]
-- [[dnw - become near]]
+- [[dnw - world]]
 - [[dwn - besides]]
-- [[fkh - eating fruit]]
-- [[fr$ - spread expand something]]
-- [[frg - empty vacant]]
-- [[fxr - glory]]
-- [[grb - distance west]]
-- [[jnn - cover]]
-- [[jrm - criminals]]
-- [[jry - passage time events]]
-- [[jzy - recompense reward]]
+- [[fkh - fruits]]
+- [[fr$ - couches]]
+- [[frg - pour]]
+- [[fxr - boastful]]
+- [[grb - west]]
+- [[jnn - gardens]]
+- [[jrm - crime]]
+- [[jry - flow]]
+- [[jzy - recompense]]
 - [[k*b - denied]]
 - [[kll - every]]
 - [[krm - noble]]

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[zlf - will brought near]]
+- [[zlf - position]]
 
 ### Meaning
 **brought near** · Lemma **أُزْلِفَتْ**

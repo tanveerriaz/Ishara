@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[gll - enter penetrate]]
+- [[gll - shackles]]
 
 ### Meaning
 **shackles** · Lemma **غَلَّ**

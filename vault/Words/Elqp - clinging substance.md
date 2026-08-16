@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Elq - hang]]
+- [[Elq - clinging substance]]
 
 ### Meaning
 **clinging substance** · Lemma **عَلَقَة**

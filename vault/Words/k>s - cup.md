@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[k>s - vessel contains liquid]]
+- [[k>s - cup]]
 
 ### Meaning
 **cup** · Lemma **كَأْس**

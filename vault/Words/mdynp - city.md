@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mdn - dwelling city being]]
+- [[mdn - city]]
 
 ### Meaning
 **city** · Lemma **مَدِينَة**

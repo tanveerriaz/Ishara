@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Emd - tent pole column]]
+- [[Emd - pillars]]
 
 ### Meaning
 **pillars** · Lemma **عَمَد**

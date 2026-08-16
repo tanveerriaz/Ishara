@@ -14,84 +14,84 @@ Muhammad · 38 ayahs
 
 ## Words in this surah (graph)
 
-- [[bAl - case]] — `بال` · case
 - [[bxl - withhold]] — `بَخِلَ` · withhold
-- [[HyAp - life]] — `حَياة` · life
-- [[AtbE - follow]] — `اتَّبَعَ` · follow
-- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
-- [[>SlH - reforms]] — `أَصْلَحَ` · reforms
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rHAm - wombs]] — `أَرْحام` · wombs
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjh - faces]] — `وَجْه` · faces
-- [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[whn - weaken]] — `وَهَنَ` · weaken
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[mrD - disease]] — `مَرَض` · disease
-- [[dnyA - world]] — `دُنْيا` · world
-- [[nAs - people]] — `ناس` · people
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[Hsb - think]] — `حَسْب` · think
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[>Sm - deaf]] — `أَصَمّ` · deaf
-- [[bEd - after]] — `بَعْد` · after
-- [[Elm - know]] — `عَلِمَ` · know
-- [[qbl - before]] — `قَبْل` · before
-- [[bynp - clear proofs]] — `بَيِّنَة` · clear proofs
+- [[bAl - case]] — `بال` · case
+- [[$Aq - opposes]] — `شاقُّ` · opposes
+- [[Erf - they recognize]] — `عَرَفَ` · they recognize
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[AstmE - listen]] — `اسْتَمَعَ` · listen
+- [[mwt - death]] — `مَوْت` · death
+- [[swl - have enticed]] — `سَوَّلَ` · have enticed
+- [[m&mnp - believing women]] — `مُؤْمِنَة` · believing women
+- [[>jr - reward]] — `أَجْر` · reward
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[ystbdl - would you exchange]] — `يَسْتَبْدِلْ` · would you exchange
+- [[mwlY - protector]] — `مَوْلَى` · protector
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[TEm - taste it]] — `طَعِمُ` · taste it
+- [[dEA - call]] — `دَعا` · call
+- [[mAt - died]] — `ماتَ` · died
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[>hwA' - desires]] — `أَهْواء` · desires
+- [[ytdbr - they ponder]] — `يَتَدَبَّرُ` · they ponder
+- [[zyn - made fair-seeming]] — `زَيَّنَ` · made fair-seeming
+- [[kyf - how]] — `كَيْف` · how
+- [[Emy - blind]] — `عَمِيَ` · blind
+- [[ybTl - render vain]] — `يُبْطِلَ` · render vain
+- [[twlY - turns away]] — `تَوَلَّى` · turns away
 
 ## Roots
 
-- [[$Tn - anything excessively proud]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$qq - cleave]]
+- [[$qq - opposes]]
 - [[$rb - drink]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
-- [[>jr - recompensing rewarding someone]]
+- [[*kr - remember]]
+- [[*nb - sin]]
+- [[>jr - reward]]
 - [[>kl - eat]]
 - [[>lh - god]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[Dll - astray]]
-- [[Drb - strike beat]]
+- [[Drb - strike]]
 - [[Drr - adversity]]
 - [[Elm - knowledge]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
-- [[Emy - blindness]]
+- [[Elw - high]]
+- [[Eml - do]]
+- [[Emy - blind]]
 - [[End - near]]
-- [[Eqb - heel human foot]]
-- [[Erf - right]]
-- [[Esy - hope expectation]]
-- [[Ezm - determine]]
-- [[HbT - worthless]]
+- [[Eqb - end]]
+- [[Erf - fair manner]]
+- [[Esy - perhaps]]
+- [[Ezm - determination]]
+- [[HbT - became worthless]]
 - [[Hfw - press you]]
-- [[Hkm - prevent restrain someone]]
+- [[Hkm - all-wise]]
 - [[Hmd - praise]]
-- [[Hmm - blackness being intensely]]
-- [[Hqq - established as true]]
+- [[Hmm - scalding water]]
+- [[Hqq - truth]]
 - [[Hrb - war]]
-- [[Hsb - number]]
+- [[Hsb - account]]
 - [[Hyy - life]]
-- [[Sbr - confine restrain]]
-- [[Sdd - turn away]]
-- [[Sdq - speak truth]]
-- [[Sfw - smooth]]
-- [[SlH - make something good]]
+- [[Sbr - patient]]
+- [[Sdd - hinder]]
+- [[Sdq - truthful]]
+- [[Sfw - has chosen]]
+- [[SlH - righteous deeds]]
 - [[Smm - deaf]]
 - [[TEm - food]]
-- [[TbE - seal]]
+- [[TbE - were sealed]]
 - [[TwE - obey]]
 - [[allah - God]]
 - [[bED - others]]
-- [[bEd - become distant]]
-- [[bSr - mental perception]]
+- [[bEd - after]]
+- [[bSr - all-seer]]
 
 ## Sample (ayah 1)
 

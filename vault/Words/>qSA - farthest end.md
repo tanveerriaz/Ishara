@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qSw - being distant far]]
+- [[qSw - farthest end]]
 
 ### Meaning
 **farthest end** · Lemma **أَقْصا**

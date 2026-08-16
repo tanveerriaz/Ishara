@@ -17,7 +17,7 @@ tags: [root, meaning]
 - [[Hy - living]]
 - [[HyAp - life]]
 - [[tHyp - greeting]]
-- [[yHyY - yahya]]
+- [[yHyY - will yahya]]
 - [[ystHY - letting live]]
 
 ### Surahs where this root appears

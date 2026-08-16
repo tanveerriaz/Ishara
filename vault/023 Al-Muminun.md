@@ -16,80 +16,80 @@ The Believers · 118 ayahs
 
 - [[>n$> - we produced]] — `أَنشَأَ` · we produced
 - [[EZAm - bones]] — `عِظام` · bones
-- [[trAb - dust]] — `تُراب` · dust
-- [[E* - seek refuge]] — `عُذْ` · seek refuge
+- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
 - [[mbEwv - will resurrected]] — `مَبْعُوث` · will resurrected
 - [[tEAlY - exalted he]] — `تَعالَى` · exalted he
-- [[ySf - they attribute]] — `يَصِفُ` · they attribute
-- [[xyrp - good deeds]] — `خَيْرَة` · good deeds
-- [[qAdr - able]] — `قادِر` · able
+- [[kvyrp - many]] — `كَثِيرَة` · many
+- [[rAHm - merciful]] — `راحِم` · merciful
+- [[gmrp - confusion]] — `غَمَرَة` · confusion
 - [[qrAr - settlement]] — `قَرار` · settlement
-- [[ysArE - hasten]] — `يُسارِعُ` · hasten
+- [[ySf - they attribute]] — `يَصِفُ` · they attribute
+- [[qAdr - able]] — `قادِر` · able
 - [[myzAn - scales]] — `مِيزان` · scales
 - [[nTfp - semen-drop]] — `نُطْفَة` · semen-drop
-- [[kvyrp - many]] — `كَثِيرَة` · many
-- [[gmrp - confusion]] — `غَمَرَة` · confusion
-- [[rAHm - merciful]] — `راحِم` · merciful
-- [[xft - light]] — `خَفَّتْ` · light
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[ElA - exalt yourselves]] — `عَلا` · exalt yourselves
-- [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[ftH - victory]] — `فَتَحَ` · victory
-- [[>Hd - anyone]] — `أَحَد` · anyone
-- [[qbl - before]] — `قَبْل` · before
+- [[trAb - dust]] — `تُراب` · dust
+- [[E* - seek refuge]] — `عُذْ` · seek refuge
+- [[ysArE - hasten]] — `يُسارِعُ` · hasten
+- [[mwt - death]] — `مَوْت` · death
+- [[EAml - working]] — `عامِل` · working
+- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
+- [[$jrp - tree]] — `شَجَرَة` · tree
+- [[tqTE - cut pieces]] — `تَقَطَّعَ` · cut pieces
+- [[vqlt - heavy]] — `ثَقُلَتْ` · heavy
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[mAt - died]] — `ماتَ` · died
+- [[xrj - come forth]] — `خَرَجَ` · come forth
 
 ## Roots
 
-- [[$Er - name]]
-- [[$Tn - anything excessively proud]]
+- [[$Er - perceive]]
+- [[$Tn - shaitaan]]
 - [[$dd - severe]]
-- [[$fq - fear]]
-- [[$hd - witnessing]]
-- [[$jr - trees]]
+- [[$fq - fearful]]
+- [[$hd - witness]]
+- [[$jr - tree]]
 - [[$kr - gratitude]]
-- [[$qw - unblessed]]
+- [[$qw - wretched one]]
 - [[$rb - drink]]
-- [[$rk - sharing partnership]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
-- [[*hb - go]]
-- [[*kr - remember recall something]]
-- [[*r> - create]]
+- [[*hb - gold]]
+- [[*kr - remember]]
+- [[*r> - multiplied you]]
 - [[>Hd - anyone]]
 - [[>bw - forefathers]]
-- [[>hl - people house]]
+- [[>hl - people]]
 - [[>jl - term]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>wl - return revert original]]
-- [[>wy - betake oneself place]]
+- [[>wl - first]]
+- [[>wy - abode]]
 - [[>x* - take]]
-- [[>xr - final part something]]
+- [[>xr - hereafter]]
 - [[>xw - brother]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[DHk - laugh]]
 - [[Dll - astray]]
-- [[DrE - lower]]
+- [[DrE - humble themselves]]
 - [[Drr - adversity]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[EZm - great]]
 - [[Ebd - worship]]
-- [[Ebr - cross pass something]]
-- [[Edd - count]]
-- [[Edw - turn]]
-- [[Ehd - protection safeguard]]
+- [[Ebr - surely lesson]]
+- [[Edd - number]]
+- [[Edw - enemy]]
+- [[Ehd - covenant]]
 - [[Elm - knowledge]]
-- [[Elq - hang]]
-- [[Elw - superiority]]
-- [[Emh - mental confusion]]
-- [[Eml - intentional action deed]]
+- [[Elq - clinging substance]]
+- [[Elw - high]]
+- [[Emh - wandering blindly]]
+- [[Eml - do]]
 - [[Enb - grapes]]
 - [[End - near]]
 

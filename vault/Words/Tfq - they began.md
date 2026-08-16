@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Tfq - begin set about]]
+- [[Tfq - they began]]
 
 ### Meaning
 **they began** · Lemma **طَفِقَ**

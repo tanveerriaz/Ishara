@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[drk - overtook him]]
+- [[drk - arrested]]
 
 ### Meaning
 **overtakes him** · Lemma **أَدْرَكَ**

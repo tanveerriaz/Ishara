@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[r>s - head anything]]
+- [[r>s - heads]]
 
 ### Meaning
 **heads** · Lemma **رَأْس**

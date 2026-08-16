@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[bw> - entry]]
+- [[bw> - settle]]
 
 ### Meaning
 **they incurred** · Lemma **باءَ**

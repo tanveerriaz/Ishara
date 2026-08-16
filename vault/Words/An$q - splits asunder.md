@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$qq - cleave]]
+- [[$qq - opposes]]
 
 ### Meaning
 **splits asunder** · Lemma **انشَقَّ**

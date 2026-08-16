@@ -15,37 +15,37 @@ The Power · 5 ayahs
 ## Words in this surah (graph)
 
 - [[lylp - nights]] — `لَيْلَة` · nights
-- [[kl - every]] — `كُلّ` · every
 - [[>lf - thousand]] — `أَلْف` · thousand
-- [[mlk - angels]] — `مَلَك` · angels
-- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
-- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
-- [[rb - lord]] — `رَبّ` · lord
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[fjr - dawn]] — `فَجْر` · dawn
-- [[rwH - spirit]] — `رُوح` · spirit
-- [[$hr - months]] — `شَهْر` · months
-- [[<*n - by permission]] — `إِذْن` · by permission
-- [[mTlE - rising place]] — `مَطْلِع` · rising place
 - [[qdr - restricts]] — `قَدَر` · restricts
-- [[>mr - command]] — `أَمَرَ` · command
-- [[slAm - peace]] — `سَلام` · peace
+- [[tnzlt - descend]] — `تَنَزَّلَتْ` · descend
 - [[xyr - better]] — `خَيْر` · better
+- [[mlk - angels]] — `مَلَك` · angels
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[slAm - peace]] — `سَلام` · peace
+- [[fjr - dawn]] — `فَجْر` · dawn
+- [[$hr - months]] — `شَهْر` · months
+- [[kl - every]] — `كُلّ` · every
+- [[rwH - spirit]] — `رُوح` · spirit
+- [[>mr - command]] — `أَمَرَ` · command
+- [[mTlE - rising place]] — `مَطْلِع` · rising place
+- [[rb - lord]] — `رَبّ` · lord
+- [[<*n - by permission]] — `إِذْن` · by permission
 
 ## Roots
 
-- [[$hr - new moon]]
-- [[>*n - ear]]
-- [[>lf - become familiar]]
-- [[>mr - amara]]
-- [[TlE - rising]]
-- [[dry - know]]
-- [[fjr - cleave cut open]]
+- [[$hr - months]]
+- [[>*n - by permission]]
+- [[>lf - thousand]]
+- [[>mr - command]]
+- [[TlE - discover]]
+- [[dry - can make you]]
+- [[fjr - dawn]]
 - [[kll - every]]
 - [[lyl - night]]
 - [[mlk - sovereignty]]
-- [[nzl - lodge host someone]]
-- [[qdr - measuring]]
+- [[nzl - was revealed]]
+- [[qdr - all-powerful]]
 - [[rbb - Lord]]
 - [[rwH - wind]]
 - [[slm - peace]]

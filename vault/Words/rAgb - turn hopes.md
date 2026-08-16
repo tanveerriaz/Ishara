@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rgb - hope]]
+- [[rgb - you desire]]
 
 ### Meaning
 **turn hopes** · Lemma **راغِب**

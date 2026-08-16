@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[brzx - intervening barrier obstruction]]
+- [[brzx - barrier]]
 
 ### Meaning
 **barrier** · Lemma **بَرْزَخ**

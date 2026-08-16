@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wsws - whisper]]
+- [[wsws - then whispered]]
 
 ### Meaning
 **then whispered** · Lemma **وَسْوَسَ**

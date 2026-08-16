@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[SfH - side lateral part]]
+- [[SfH - overlook]]
 
 ### Meaning
 **overlook** · Lemma **يَصْفَحُ**

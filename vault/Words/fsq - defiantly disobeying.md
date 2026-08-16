@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fsq - go forth something]]
+- [[fsq - defiantly disobedient]]
 
 ### Meaning
 **defiantly disobeying** · Lemma **فَسَقَ**

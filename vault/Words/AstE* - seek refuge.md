@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Ew* - seek protection]]
+- [[Ew* - seek refuge]]
 
 ### Meaning
 **seek refuge** · Lemma **اسْتَعِذْ**

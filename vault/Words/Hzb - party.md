@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Hzb - set portion quran]]
+- [[Hzb - party]]
 
 ### Meaning
 **party** · Lemma **حِزْب**

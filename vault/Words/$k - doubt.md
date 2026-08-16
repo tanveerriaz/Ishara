@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[$kk - doubt uncertain about]]
+- [[$kk - doubt]]
 
 ### Meaning
 **doubt** · Lemma **شَكّ**

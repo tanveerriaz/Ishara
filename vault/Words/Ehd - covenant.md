@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Ehd - protection safeguard]]
+- [[Ehd - covenant]]
 
 ### Meaning
 **covenant** · Lemma **عَهْد**

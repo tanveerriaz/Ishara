@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[gny - dwelling residing place]]
+- [[gny - will avail]]
 
 ### Meaning
 **availed** · Lemma **أَغْنَى**

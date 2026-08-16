@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xrS - estimate conjecture]]
+- [[xrS - guess]]
 
 ### Meaning
 **guess** · Lemma **يَخْرُصُ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Etw - pride]]
+- [[Etw - were insolent]]
 
 ### Meaning
 **were insolent** · Lemma **عَتَ**

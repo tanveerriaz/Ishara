@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[kyl - specific capacity measure]]
+- [[kyl - measure]]
 
 ### Meaning
 **measure** · Lemma **كَيْل**

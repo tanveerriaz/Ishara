@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[fTr - cleave split]]
+- [[fTr - creator]]
 
 ### Meaning
 **created me** · Lemma **فَطَرَ**

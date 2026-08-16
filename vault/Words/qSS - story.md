@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qSS - follow tracks footsteps]]
+- [[qSS - we relate]]
 
 ### Meaning
 **story** · Lemma **قَصَص**

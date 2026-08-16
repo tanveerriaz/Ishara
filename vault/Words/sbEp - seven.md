@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sbE - number seven]]
+- [[sbE - seven]]
 
 ### Meaning
 **seven** · Lemma **سَبْعَة**

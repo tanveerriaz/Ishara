@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[swl - enticed]]
+- [[swl - have enticed]]
 
 ### Meaning
 **have enticed** · Lemma **سَوَّلَ**

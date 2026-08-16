@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rjw - hope something]]
+- [[rjw - expect]]
 
 ### Meaning
 **postpone him** · Lemma **تُرْجِي**

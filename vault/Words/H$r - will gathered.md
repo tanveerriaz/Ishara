@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[H$r - gather collect people]]
+- [[H$r - will gathered]]
 
 ### Meaning
 **will gathered** · Lemma **حَشَرَ**

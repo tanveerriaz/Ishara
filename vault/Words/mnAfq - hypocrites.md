@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nfq - something being demand]]
+- [[nfq - hypocrites]]
 
 ### Meaning
 **hypocrites** · Lemma **مُنافِق**

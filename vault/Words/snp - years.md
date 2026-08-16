@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[snw - water irrigate land]]
+- [[snw - years]]
 
 ### Meaning
 **years** · Lemma **سَنَة**

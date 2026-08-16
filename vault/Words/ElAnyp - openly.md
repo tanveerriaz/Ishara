@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Eln - make something open]]
+- [[Eln - they declare]]
 
 ### Meaning
 **openly** · Lemma **عَلانِيَة**

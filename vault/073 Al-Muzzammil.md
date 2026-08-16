@@ -15,82 +15,82 @@ The Enshrouded One · 20 ayahs
 ## Words in this surah (graph)
 
 - [[nSf - half]] — `نِصْف` · half
-- [[gfwr - oft-forgiving]] — `غَفُور` · oft-forgiving
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjd - we found]] — `وَجَدَ` · we found
-- [[$A' - he wills]] — `شاءَ` · he wills
-- [[mgrb - west]] — `مَغْرِب` · west
-- [[qr> - read]] — `قَرَأَ` · read
-- [[qrD - loan]] — `قَرْض` · loan
-- [[$Ahd - witnesses]] — `شاهِد` · witnesses
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[m$rq - east]] — `مَشْرِق` · east
-- [[Elm - know]] — `عَلِمَ` · know
-- [[zkAp - zakah]] — `زَكاة` · zakah
-- [[jbl - mountains]] — `جَبَل` · mountains
-- [[ESA - they disobeyed]] — `عَصا` · they disobeyed
-- [[qlyl - little]] — `قَلِيل` · little
-- [[t*krp - reminder]] — `تَذْكِرَة` · reminder
-- [[SlAp - prayer]] — `صَلاة` · prayer
-- [[>lqY - throw]] — `أَلْقَى` · throw
-- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
-- [[AtqY - fear]] — `اتَّقَى` · fear
-- [[kfr - disbelieved]] — `كَفَرَ` · disbelieved
+- [[>jr - reward]] — `أَجْر` · reward
 - [[qAm - stand]] — `قامَ` · stand
-- [[y*r - leave]] — `يَذَرَ` · leave
-- [[Drb - strike]] — `ضَرَبَ` · strike
+- [[qr'An - quran]] — `قُرْءان` · quran
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[kyf - how]] — `كَيْف` · how
+- [[qdm - feet]] — `قَدَّمَ` · feet
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[$A' - he wills]] — `شاءَ` · he wills
+- [[qr> - read]] — `قَرَأَ` · read
+- [[allah - God]] — `الله` · God
+- [[SlAp - prayer]] — `صَلاة` · prayer
+- [[xyr - better]] — `خَيْر` · better
+- [[TA}fp - group]] — `طائِفَة` · group
+- [[mfEwl - fulfilled]] — `مَفْعُول` · fulfilled
+- [[rb - lord]] — `رَبّ` · lord
+- [[rHym - merciful]] — `رَحِيم` · merciful
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[zkAp - zakah]] — `زَكاة` · zakah
+- [[Asm - name]] — `اسْم` · name
+- [[m$rq - east]] — `مَشْرِق` · east
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[qAtl - fight]] — `قاتَلَ` · fight
+- [[>$d - stronger]] — `أَشَدّ` · stronger
+- [[AtY - give]] — `آتَى` · give
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$hd - witnessing]]
-- [[$rq - earth]]
+- [[$hd - witness]]
+- [[$rq - east]]
 - [[$y> - thing]]
 - [[$yb - white]]
-- [[*kr - remember recall something]]
-- [[>jr - recompensing rewarding someone]]
+- [[*kr - remember]]
+- [[>jr - reward]]
 - [[>lh - god]]
 - [[>lm - painful]]
 - [[>rD - earth]]
 - [[>ty - give]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
-- [[Drb - strike beat]]
-- [[E*b - motes particles floating]]
-- [[ESy - disobey]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
+- [[Drb - strike]]
+- [[E*b - punishment]]
+- [[ESy - they disobeyed]]
 - [[EZm - great]]
 - [[Elm - knowledge]]
 - [[End - near]]
-- [[HSy - count reckon]]
+- [[HSy - best calculated]]
 - [[Hsn - good]]
-- [[Sbr - confine restrain]]
+- [[Sbr - patient]]
 - [[Slw - prayer]]
 - [[TEm - food]]
-- [[Twf - go walk around]]
-- [[Twl - become long]]
+- [[Twf - group]]
+- [[Twl - then]]
 - [[allah - God]]
-- [[bgy - seek desire something]]
-- [[dnw - become near]]
+- [[bgy - seeking]]
+- [[dnw - world]]
 - [[fDl - bounty]]
-- [[fEl - deed]]
-- [[fTr - cleave split]]
-- [[gfr - cover conceal]]
-- [[grb - distance west]]
-- [[hjr - cut off]]
+- [[fEl - you do]]
+- [[fTr - creator]]
+- [[gfr - oft-forgiving]]
+- [[grb - west]]
+- [[hjr - emigrated]]
 - [[jEl - we made]]
-- [[jHm - intense heat burning]]
-- [[jbl - large company multitude]]
-- [[jml - male camel]]
+- [[jHm - hellfire]]
+- [[jbl - mountains]]
+- [[jml - good]]
 - [[k*b - denied]]
 - [[kfr - disbelieve]]
 - [[kwn - is]]
-- [[kyf - kayyafa]]
+- [[kyf - how]]
 - [[lqy - meeting]]
 - [[lyl - night]]
-- [[mhl - act gently leisurely]]
-- [[mrD - physical illness sickness]]
-- [[n$> - originate]]
+- [[mhl - like molten brass]]
+- [[mrD - disease]]
+- [[n$> - we produced]]
 - [[nEm - favor]]
 
 ## Sample (ayah 1)

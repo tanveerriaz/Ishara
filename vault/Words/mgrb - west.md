@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[grb - distance west]]
+- [[grb - west]]
 
 ### Meaning
 **west** · Lemma **مَغْرِب**

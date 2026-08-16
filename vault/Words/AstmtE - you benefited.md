@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mtE - anything useful advantageous]]
+- [[mtE - enjoyment]]
 
 ### Meaning
 **you benefited** · Lemma **اسْتَمْتَعَ**

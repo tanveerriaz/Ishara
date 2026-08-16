@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Ebr - cross pass something]]
+- [[Ebr - surely lesson]]
 
 ### Meaning
 **surely lesson** · Lemma **عِبْرَة**

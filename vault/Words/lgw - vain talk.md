@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[lgw - speech actions vain]]
+- [[lgw - vain talk]]
 
 ### Meaning
 **vain talk** · Lemma **لَغْو**

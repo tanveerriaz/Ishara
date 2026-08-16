@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[vbt - make something firm]]
+- [[vbt - make firm]]
 
 ### Meaning
 **make firm** · Lemma **ثَبَّتْ**

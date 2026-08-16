@@ -16,82 +16,82 @@ The Forgiver · 85 ayahs
 
 - [[wqY - save us]] — `وَقَى` · save us
 - [[mtkbr - arrogant]] — `مُتَكَبِّر` · arrogant
-- [[sbb - course]] — `سَبَب` · course
-- [[>vr - footsteps]] — `أَثَر` · footsteps
-- [[mqt - hatred]] — `مَقْت` · hatred
-- [[qrAr - settlement]] — `قَرار` · settlement
-- [[HAq - enveloped]] — `حاقَ` · enveloped
-- [[k*Ab - liar]] — `كَذّاب` · liar
-- [[E$y - evening]] — `عَشِيّ` · evening
 - [[wHd - alone]] — `وَحْد` · alone
 - [[Hmym - scalding water]] — `حَمِيم` · scalding water
-- [[wlY - so turn]] — `وَلَّى` · so turn
-- [[bAlg - reaching]] — `بالِغ` · reaching
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[Elym - all-knower]] — `عَلِيم` · all-knower
-- [[slslp - chains]] — `سِلْسِلَة` · chains
-- [[$Ahd - witnesses]] — `شاهِد` · witnesses
-- [[bdl - but changed]] — `بَدَّلَ` · but changed
-- [[$yx - old]] — `شَيْخ` · old
-- [[rkb - embark]] — `رَكْب` · embark
-- [[dyn - religion]] — `دِين` · religion
-- [[Al - people]] — `آل` · people
-- [[<ymAn - faith]] — `إِيمان` · faith
-- [[qbl - before]] — `قَبْل` · before
+- [[E$y - evening]] — `عَشِيّ` · evening
+- [[qrAr - settlement]] — `قَرار` · settlement
+- [[mqt - hatred]] — `مَقْت` · hatred
+- [[HAq - enveloped]] — `حاقَ` · enveloped
+- [[sbb - course]] — `سَبَب` · course
+- [[k*Ab - liar]] — `كَذّاب` · liar
+- [[>vr - footsteps]] — `أَثَر` · footsteps
+- [[skn - dwell]] — `سَكَنَ` · dwell
+- [[qDY - surely]] — `قَضَى` · surely
+- [[Swr - trumpet]] — `صَوَّرَ` · trumpet
+- [[gr - deceive you]] — `غَرَّ` · deceive you
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[tqlb - movement]] — `تَقَلُّب` · movement
+- [[Aty - surely coming]] — `آتِي` · surely coming
+- [[>$rk - associate]] — `أَشْرَكَ` · associate
+- [[DEyf - weak]] — `ضَعِيف` · weak
+- [[qwy - all-strong]] — `قَوِيّ` · all-strong
+- [[Swrp - forms]] — `صُورَة` · forms
+- [[hAd - guide]] — `هاد` · guide
+- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
+- [[hlk - died]] — `هَلَكَ` · died
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$fE - make something pair]]
-- [[$hd - witnessing]]
-- [[$kk - doubt uncertain about]]
+- [[$fE - intercession]]
+- [[$hd - witness]]
+- [[$kk - doubt]]
 - [[$kr - gratitude]]
-- [[$rk - sharing partnership]]
+- [[$rk - polytheists]]
 - [[$y> - thing]]
 - [[$yx - old]]
-- [[*kr - remember recall something]]
-- [[*nb - tail]]
-- [[*rr - scattering dispersing small]]
-- [[>*n - ear]]
+- [[*kr - remember]]
+- [[*nb - sin]]
+- [[*rr - offspring]]
+- [[>*n - by permission]]
 - [[>bw - forefathers]]
-- [[>fk - turn something away]]
+- [[>fk - lie]]
 - [[>jl - term]]
 - [[>kl - eat]]
 - [[>lh - god]]
-- [[>mm - leadership]]
+- [[>mm - nation]]
 - [[>mn - believe]]
-- [[>mr - amara]]
-- [[>ns - mankind]]
+- [[>mr - command]]
+- [[>ns - people]]
 - [[>nv - female]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>vr - trace]]
-- [[>wl - return revert original]]
+- [[>vr - footsteps]]
+- [[>wl - first]]
 - [[>x* - take]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[DEf - weak]]
 - [[Dll - astray]]
-- [[E$w - eating evening meal]]
-- [[E*b - motes particles floating]]
-- [[E*r - excuse free blame]]
-- [[ESm - tie cord]]
+- [[E$w - evening]]
+- [[E*b - punishment]]
+- [[E*r - make excuse]]
+- [[ESm - hold fast]]
 - [[EZm - great]]
 - [[Ebd - worship]]
 - [[Elm - knowledge]]
-- [[Elq - hang]]
-- [[Elw - superiority]]
-- [[Eml - intentional action deed]]
-- [[Emy - blindness]]
+- [[Elq - clinging substance]]
+- [[Elw - high]]
+- [[Eml - do]]
+- [[Emy - blind]]
 - [[End - near]]
-- [[Enq - like summer age]]
-- [[Eqb - heel human foot]]
-- [[Eql - withhold restrain]]
-- [[Er$ - shaded structure]]
+- [[Enq - necks]]
+- [[Eqb - end]]
+- [[Eql - use reason]]
+- [[Er$ - throne]]
 - [[ErD - turn away]]
-- [[Erf - right]]
-- [[Ew* - seek protection]]
+- [[Erf - fair manner]]
+- [[Ew* - seek refuge]]
 
 ## Sample (ayah 1)
 

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[DjE - lie down one's]]
+- [[DjE - places death]]
 
 ### Meaning
 **places death** · Lemma **مَضاجِع**

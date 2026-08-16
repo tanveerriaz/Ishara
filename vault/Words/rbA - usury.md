@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[rbw - sometimes through usury]]
+- [[rbw - usury]]
 
 ### Meaning
 **usury** · Lemma **رِبا**

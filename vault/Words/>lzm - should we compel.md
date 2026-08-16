@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[lzm - necessitate]]
+- [[lzm - should we compel]]
 
 ### Meaning
 **should we compel** · Lemma **أَلْزَمَ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wjs - so sensed]]
+- [[wjs - felt apprehension]]
 
 ### Meaning
 **felt apprehension** · Lemma **أَوْجَسَ**

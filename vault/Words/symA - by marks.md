@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[swm - go]]
+- [[swm - by marks]]
 
 ### Meaning
 **by marks** · Lemma **سِيما**

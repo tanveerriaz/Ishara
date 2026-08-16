@@ -14,84 +14,84 @@ The Divorce · 12 ayahs
 
 ## Words in this surah (graph)
 
-- [[mbynp - clear]] — `مُبَيِّنَة` · clear
 - [[Edp - number]] — `عِدَّة` · number
-- [[Tlq - you divorce]] — `طَلَّقَ` · you divorce
-- [[Zlmp - darknesses]] — `ظُلُمَة` · darknesses
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[bAlg - reaching]] — `بالِغ` · reaching
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
-- [[wjd - we found]] — `وَجَدَ` · we found
-- [[xrj - come forth]] — `خَرَجَ` · come forth
-- [[SAlH - righteous]] — `صالِح` · righteous
-- [[>tY - comes them]] — `أَتَى` · comes them
-- [[sEp - abundance]] — `سَعَة` · abundance
-- [[Hyv - wherever]] — `حَيْث` · wherever
-- [[byn - between them]] — `بَيْن` · between them
-- [[sy}p - evil deeds]] — `سَيِّئَة` · evil deeds
-- [[Hsb - think]] — `حَسْب` · think
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[bEd - after]] — `بَعْد` · after
-- [[Elm - know]] — `عَلِمَ` · know
-- [[mvl - example]] — `مَثَل` · example
-- [[>$hd - take witness]] — `أَشْهَدَ` · take witness
-- [[blg - he reached]] — `بَلَغَ` · he reached
-- [[byt - houses]] — `بَيْت` · houses
+- [[mbynp - clear]] — `مُبَيِّنَة` · clear
+- [[wDE - she delivered]] — `وَضَعَ` · she delivered
+- [[tlY - recited]] — `تَلَى` · recited
 - [[skn - dwell]] — `سَكَنَ` · dwell
+- [[Hml - will bear]] — `حَمَلَ` · will bear
+- [[yHtsb - taken account]] — `يَحْتَسِبُ` · taken account
+- [[>jr - reward]] — `أَجْر` · reward
+- [[$Y' - thing]] — `شَىْء` · thing
+- [[Hdwd - limits]] — `حُدُود` · limits
+- [[nwr - light]] — `نُور` · light
+- [[Et - were insolent]] — `عَتَ` · were insolent
+- [[jEl - we made]] — `جَعَلَ` · we made
+- [[>skn - lodge them]] — `أَسْكَن` · lodge them
+- [[>nzl - was revealed]] — `أَنزَلَ` · was revealed
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[ysr - ease]] — `يُسْر` · ease
+- [[allah - God]] — `الله` · God
+- [[ytEd - transgresses]] — `يَتَعَدَّ` · transgresses
+- [[kl - every]] — `كُلّ` · every
+- [[nsA' - women]] — `نِساء` · women
+- [[SAlHp - righteous deeds]] — `صالِحَة` · righteous deeds
+- [[>$hd - take witness]] — `أَشْهَدَ` · take witness
+- [[y}s - have despaired]] — `يَئِسَ` · have despaired
+- [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 
 - [[$dd - severe]]
-- [[$hd - witnessing]]
-- [[$hr - new moon]]
+- [[$hd - witness]]
+- [[$hr - months]]
 - [[$y> - thing]]
-- [[*kr - remember recall something]]
+- [[*kr - remember]]
 - [[*wq - taste]]
-- [[>bd - absolute long]]
+- [[>bd - ever]]
 - [[>jl - term]]
-- [[>jr - recompensing rewarding someone]]
+- [[>jr - reward]]
 - [[>mn - believe]]
-- [[>mr - amara]]
+- [[>mr - command]]
 - [[>rD - earth]]
 - [[>ty - give]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
 - [[Drr - adversity]]
-- [[Dyq - become narrow strait]]
-- [[E*b - motes particles floating]]
+- [[Dyq - was straitened]]
+- [[E*b - punishment]]
 - [[EZm - great]]
-- [[Edd - count]]
-- [[Edl - act justly equitably]]
-- [[Edw - turn]]
+- [[Edd - number]]
+- [[Edl - justice]]
+- [[Edw - enemy]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
-- [[Eqb - heel human foot]]
-- [[Erf - right]]
+- [[Eml - do]]
+- [[Eqb - end]]
+- [[Erf - fair manner]]
 - [[Esr - hardship]]
-- [[Etw - pride]]
-- [[HSy - count reckon]]
-- [[Hdd - define]]
-- [[Hdv - accidents]]
-- [[Hml - bear]]
-- [[Hsb - number]]
+- [[Etw - were insolent]]
+- [[HSy - best calculated]]
+- [[Hdd - limits]]
+- [[Hdv - statement]]
+- [[Hml - will bear]]
+- [[Hsb - account]]
 - [[Hsn - good]]
-- [[HwT - guard]]
-- [[Hyv - haythu]]
-- [[SlH - make something good]]
-- [[Tlq - loose]]
-- [[Zlm - put something wrong]]
+- [[HwT - all-encompassing]]
+- [[Hyv - wherever]]
+- [[SlH - righteous deeds]]
+- [[Tlq - you divorce]]
+- [[Zlm - wrongdoers]]
 - [[allah - God]]
-- [[bEd - become distant]]
-- [[blg - reach]]
+- [[bEd - after]]
+- [[blg - conveyance]]
 - [[byn - clear]]
-- [[byt - any house]]
-- [[dry - know]]
+- [[byt - houses]]
+- [[dry - can make you]]
 - [[dxl - enter]]
-- [[fH$ - actions speech foul]]
-- [[frq - separate]]
+- [[fH$ - immorality]]
+- [[frq - party]]
 - [[jEl - we made]]
-- [[jnn - cover]]
+- [[jnn - gardens]]
 
 ## Sample (ayah 1)
 

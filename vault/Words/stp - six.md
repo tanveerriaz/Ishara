@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[stt - cover conceal something]]
+- [[stt - six]]
 
 ### Meaning
 **six** · Lemma **سِتَّة**

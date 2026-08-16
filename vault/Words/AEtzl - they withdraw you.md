@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Ezl - lower spout outlet]]
+- [[Ezl - they withdraw you]]
 
 ### Meaning
 **they withdraw you** · Lemma **اعْتَزَلَ**

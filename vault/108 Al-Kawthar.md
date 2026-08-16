@@ -14,13 +14,13 @@ The Abundance · 3 ayahs
 
 ## Words in this surah (graph)
 
-- [[>ETY - they given]] — `أَعْطَى` · they given
 - [[SlY - send blessings]] — `صَلَّى` · send blessings
+- [[>ETY - they given]] — `أَعْطَى` · they given
 - [[rb - lord]] — `رَبّ` · lord
 
 ## Roots
 
-- [[ETw - take handle something]]
+- [[ETw - gift]]
 - [[Slw - prayer]]
 - [[kvr - them]]
 - [[rbb - Lord]]

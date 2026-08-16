@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[sEr - kindle stir fire]]
+- [[sEr - blaze]]
 
 ### Meaning
 **blaze** · Lemma **سَعِير**

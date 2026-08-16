@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Eql - withhold restrain]]
+- [[Eql - use reason]]
 
 ### Meaning
 **use reason** · Lemma **عَقَلُ**

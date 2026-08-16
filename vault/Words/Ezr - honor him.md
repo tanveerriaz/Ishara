@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Ezr - discipline]]
+- [[Ezr - honor him]]
 
 ### Meaning
 **honor him** · Lemma **عَزَّرُ**

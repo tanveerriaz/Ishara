@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[>vm - sin commit crime]]
+- [[>vm - sin]]
 
 ### Meaning
 **sin** · Lemma **إِثْم**

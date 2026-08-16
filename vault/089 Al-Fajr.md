@@ -14,82 +14,82 @@ The Dawn · 30 ayahs
 
 ## Words in this surah (graph)
 
-- [[>krm - make comfortable]] — `أَكْرَمَ` · make comfortable
 - [[AbtlY - tried]] — `ابْتَلَى` · tried
+- [[>krm - make comfortable]] — `أَكْرَمَ` · make comfortable
 - [[qAl - say]] — `قالَ` · say
-- [[mlk - angels]] — `مَلَك` · angels
-- [[t*kr - remember]] — `تَذَكَّرَ` · remember
-- [[HyAp - life]] — `حَياة` · life
-- [[Sf - rows]] — `صَفّ` · rows
-- [[rzq - provision]] — `رَزَقَ` · provision
-- [[EAd - aad]] — `عادَ` · aad
-- [[dxl - enter]] — `دَخَلَ` · enter
-- [[>rD - earth]] — `أَرْض` · earth
-- [[nfs - themselves]] — `نَفْس` · themselves
-- [[fsAd - corruption]] — `فَساد` · corruption
-- [[Ebd - slaves]] — `عَبَدَ` · slaves
-- [[rb - lord]] — `رَبّ` · lord
-- [[Hjr - stone]] — `حَجَر` · stone
 - [[nEm - cattle]] — `نِعْمَ` · cattle
+- [[bld - city]] — `بَلَد` · city
+- [[>kvr - them]] — `أَكْثَر` · them
+- [[nfs - themselves]] — `نَفْس` · themselves
+- [[E$r - ten]] — `عَشْر` · ten
+- [[wAd - valley]] — `واد` · valley
+- [[mvl - example]] — `مَثَل` · example
+- [[Ebd - slaves]] — `عَبَدَ` · slaves
+- [[ytym - orphans]] — `يَتِيم` · orphans
+- [[lyl - night]] — `لَيْل` · night
 - [[qdr - restricts]] — `قَدَر` · restricts
+- [[mlk - angels]] — `مَلَك` · angels
 - [[*krY - reminder]] — `ذِكْرَى` · reminder
-- [[E*b - punishes]] — `عَذَّبَ` · punishes
 - [[<nsAn - man]] — `إِنسان` · man
-- [[Sb - will poured]] — `صَبَّ` · will poured
-- [[>Hd - anyone]] — `أَحَد` · anyone
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[mskyn - needy]] — `مِسْكِين` · needy
+- [[dxl - enter]] — `دَخَلَ` · enter
+- [[E*b - punishes]] — `عَذَّبَ` · punishes
+- [[Hjr - stone]] — `حَجَر` · stone
+- [[TgY - has transgressed]] — `طَغَى` · has transgressed
+- [[rADyp - pleasant]] — `راضِيَة` · pleasant
+- [[kyf - how]] — `كَيْف` · how
+- [[jnp - gardens]] — `جَنَّة` · gardens
+- [[fsAd - corruption]] — `فَساد` · corruption
 
 ## Roots
 
-- [[$fE - make something pair]]
-- [[*kr - remember recall something]]
+- [[$fE - intercession]]
+- [[*kr - remember]]
 - [[>Hd - anyone]]
 - [[>kl - eat]]
-- [[>ns - mankind]]
+- [[>ns - people]]
 - [[>rD - earth]]
-- [[>yy - ism]]
+- [[>yy - signs]]
 - [[E$r - ten]]
-- [[E*b - motes particles floating]]
+- [[E*b - punishment]]
 - [[Ebd - worship]]
-- [[Emd - tent pole column]]
+- [[Emd - pillars]]
 - [[Ewd - aad]]
 - [[HDD - incite]]
 - [[Hbb - love]]
 - [[Hjr - stones]]
 - [[Hyy - life]]
-- [[Sbb - pour out shed]]
-- [[Sff - arrange things row]]
+- [[Sbb - will poured]]
+- [[Sff - rows]]
 - [[Sxr - rocks large]]
 - [[TEm - food]]
 - [[Tgy - transgression]]
-- [[Tm>n - become quiet]]
-- [[bld - country]]
-- [[blw - test try]]
+- [[Tm>n - satisfy]]
+- [[bld - city]]
+- [[blw - was trial]]
 - [[dkk - crushed]]
 - [[dxl - enter]]
-- [[fEl - deed]]
-- [[fjr - cleave cut open]]
-- [[fsd - make something bad]]
-- [[hwn - state humiliation insignificance]]
-- [[jnn - cover]]
-- [[jwb - make hole]]
+- [[fEl - you do]]
+- [[fjr - dawn]]
+- [[fsd - corrupters]]
+- [[hwn - humiliating]]
+- [[jnn - gardens]]
+- [[jwb - respond]]
 - [[jy> - came them]]
 - [[krm - noble]]
 - [[kvr - them]]
-- [[kyf - kayyafa]]
+- [[kyf - how]]
 - [[lyl - night]]
 - [[mlk - sovereignty]]
-- [[mvl - mathal]]
+- [[mvl - example]]
 - [[mwl - wealth]]
 - [[nEm - favor]]
-- [[nfs - soul]]
-- [[qdm - putting something forward]]
-- [[qdr - measuring]]
-- [[qsm - division apportionment things]]
-- [[qwl - qawala]]
-- [[r>y - see eye perceive]]
-- [[rDw - pleased]]
+- [[nfs - themselves]]
+- [[qdm - feet]]
+- [[qdr - all-powerful]]
+- [[qsm - i swear]]
+- [[qwl - say]]
+- [[r>y - you see]]
+- [[rDw - pleasure]]
 - [[rSd - lying wait watching]]
 - [[rbb - Lord]]
 

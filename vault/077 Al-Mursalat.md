@@ -15,83 +15,83 @@ The Emissaries · 50 ayahs
 ## Words in this surah (graph)
 
 - [[AnTlq - proceed]] — `انطَلَقَ` · proceed
-- [[Hdyv - statement]] — `حَدِيث` · statement
-- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
-- [[Amn - believe]] — `آمَنَ` · believe
-- [[>rD - earth]] — `أَرْض` · earth
+- [[hny} - satisfaction]] — `هَنِيئ` · satisfaction
+- [[Erf - they recognize]] — `عَرَفَ` · they recognize
+- [[njm - stars]] — `نَجْم` · stars
+- [[frAt - sweet]] — `فُرات` · sweet
+- [[jEl - we made]] — `جَعَلَ` · we made
 - [[ynTq - speak]] — `يَنطِقُ` · speak
-- [[rmY - accuse]] — `رَمَى` · accuse
-- [[yEt*r - make excuse]] — `يَعْتَذِرُ` · make excuse
+- [[jbl - mountains]] — `جَبَل` · mountains
+- [[jzY - we recompense]] — `جَزَى` · we recompense
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[Tmst - we efface]] — `طُمِسَتْ` · we efface
+- [[mA' - water]] — `ماء` · water
+- [[fwAkh - fruits]] — `فَواكِه` · fruits
 - [[ESf - husk]] — `عَصْف` · husk
 - [[wAqE - would fall]] — `واقِع` · would fall
-- [[*kr - remember]] — `ذَكَرَ` · remember
-- [[bEd - after]] — `بَعْد` · after
-- [[mElwm - known]] — `مَعْلُوم` · known
-- [[jbl - mountains]] — `جَبَل` · mountains
+- [[myt - dead]] — `مَيِّت` · dead
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[Eml - do]] — `عَمِلَ` · do
+- [[tmtE - enjoy yourselves]] — `تَمَتَّعَ` · enjoy yourselves
+- [[ywm - day]] — `يَوْم` · day
+- [[Axr - hereafter]] — `آخِر` · hereafter
+- [[kAn - is]] — `كانَ` · is
+- [[qSr - palaces]] — `قَصْر` · palaces
+- [[xlq - creation]] — `خَلَقَ` · creation
 - [[qAdr - able]] — `قادِر` · able
-- [[qrAr - settlement]] — `قَرار` · settlement
-- [[rwAsy - firm mountains]] — `رَواسِي` · firm mountains
-- [[k*b - denied]] — `كَذَبَ` · denied
-- [[jmE - two hosts]] — `جَمَعَ` · two hosts
-- [[fSl - we explain]] — `فَصَلَ` · we explain
-- [[qlyl - little]] — `قَلِيل` · little
-- [[mjrm - criminals]] — `مُجْرِم` · criminals
-- [[>*n - ears]] — `أُذُن` · ears
-- [[mtqy - righteous]] — `مُتَّقي` · righteous
-- [[mkyn - firmly established]] — `مَكِين` · firmly established
 
 ## Roots
 
 - [[$hw - they desire]]
 - [[$rb - drink]]
-- [[$rr - sparks fire]]
-- [[*kr - remember recall something]]
-- [[>*n - ear]]
+- [[$rr - evil]]
+- [[*kr - remember]]
+- [[>*n - by permission]]
 - [[>jl - term]]
 - [[>kl - eat]]
 - [[>mn - believe]]
 - [[>rD - earth]]
-- [[>wl - return revert original]]
-- [[>xr - final part something]]
-- [[>yy - ism]]
-- [[E*r - excuse free blame]]
-- [[ESf - stormy]]
+- [[>wl - first]]
+- [[>xr - hereafter]]
+- [[>yy - signs]]
+- [[E*r - make excuse]]
+- [[ESf - husk]]
 - [[Elm - knowledge]]
-- [[Eml - intentional action deed]]
-- [[Erf - right]]
+- [[Eml - do]]
+- [[Erf - fair manner]]
 - [[Eyn - eyes]]
-- [[Hdv - accidents]]
+- [[Hdv - statement]]
 - [[Hsn - good]]
 - [[Hyy - life]]
-- [[Sfr - emptiness]]
-- [[Tlq - loose]]
-- [[Tms - efface obliterate something]]
-- [[Zll - shade cover]]
-- [[bEd - become distant]]
-- [[dry - know]]
-- [[fEl - deed]]
-- [[fSl - separate]]
-- [[fkh - eating fruit]]
-- [[frj - open make space]]
-- [[frq - separate]]
+- [[Sfr - turn yellow]]
+- [[Tlq - you divorce]]
+- [[Tms - we efface]]
+- [[Zll - shade]]
+- [[bEd - after]]
+- [[dry - can make you]]
+- [[fEl - you do]]
+- [[fSl - we explain]]
+- [[fkh - fruits]]
+- [[frj - chastity]]
+- [[frq - party]]
 - [[frt - sweet]]
-- [[gny - dwelling residing place]]
-- [[hlk - perish destroyed]]
+- [[gny - will avail]]
+- [[hlk - we destroyed]]
 - [[hn> - satisfaction]]
 - [[jEl - we made]]
-- [[jbl - large company multitude]]
-- [[jmE - collection]]
-- [[jml - male camel]]
-- [[jrm - criminals]]
-- [[jzy - recompense reward]]
+- [[jbl - mountains]]
+- [[jmE - all]]
+- [[jml - good]]
+- [[jrm - crime]]
+- [[jzy - recompense]]
 - [[k*b - denied]]
 - [[kwn - is]]
-- [[kyd - deceive]]
+- [[kyd - plot]]
 - [[lqy - meeting]]
-- [[mhn - work]]
-- [[mkn - establish]]
-- [[mtE - anything useful advantageous]]
-- [[mwh - coat something]]
+- [[mhn - despised]]
+- [[mkn - we established]]
+- [[mtE - enjoyment]]
+- [[mwh - water]]
 
 ## Sample (ayah 1)
 

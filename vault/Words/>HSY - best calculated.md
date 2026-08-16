@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[HSy - count reckon]]
+- [[HSy - best calculated]]
 
 ### Meaning
 **best calculated** · Lemma **أَحْصَى**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[n$> - originate]]
+- [[n$> - we produced]]
 
 ### Meaning
 **we produced** · Lemma **أَنشَأَ**

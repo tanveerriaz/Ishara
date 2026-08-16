@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[nwq - daintiness]]
+- [[nwq - she-camel]]
 
 ### Meaning
 **she-camel** · Lemma **ناقَة**

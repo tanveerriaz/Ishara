@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Thr - cleanse purify oneself]]
+- [[Thr - purer]]
 
 ### Meaning
 **purer** · Lemma **أَطْهَر**

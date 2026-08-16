@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[frj - open make space]]
+- [[frj - chastity]]
 
 ### Meaning
 **chastity** · Lemma **فَرْج**

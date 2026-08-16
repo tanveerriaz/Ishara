@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[ldn - min ladun]]
+- [[ldn - yourself]]
 
 ### Meaning
 **yourself** · Lemma **لَدُن**

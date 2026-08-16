@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[E$w - eating evening meal]]
+- [[E$w - evening]]
 
 ### Meaning
 **evening** · Lemma **عَشِيّ**

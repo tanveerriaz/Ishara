@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[q*f - throw cast something]]
+- [[q*f - cast him]]
 
 ### Meaning
 **cast him** · Lemma **قَذَفَ**

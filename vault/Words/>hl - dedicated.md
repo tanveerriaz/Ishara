@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[hll - has been dedicated]]
+- [[hll - dedicated]]
 
 ### Meaning
 **dedicated** · Lemma **أُهِلَّ**

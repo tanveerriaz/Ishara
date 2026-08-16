@@ -14,63 +14,63 @@ The Nightcommer · 17 ayahs
 
 ## Words in this surah (graph)
 
-- [[mhl - like molten brass]] — `مُهْل` · like molten brass
 - [[njm - stars]] — `نَجْم` · stars
-- [[kAfr - disbelievers]] — `كافِر` · disbelievers
-- [[>rD - earth]] — `أَرْض` · earth
-- [[xrj - come forth]] — `خَرَجَ` · come forth
 - [[nfs - themselves]] — `نَفْس` · themselves
-- [[byn - between them]] — `بَيْن` · between them
-- [[<nsAn - man]] — `إِنسان` · man
-- [[xlq - creation]] — `خَلَقَ` · creation
-- [[nASr - helpers]] — `ناصِر` · helpers
-- [[qwl - speech]] — `قَوْل` · speech
-- [[qAdr - able]] — `قادِر` · able
-- [[kl - every]] — `كُلّ` · every
-- [[blw - test you]] — `بَلَوْ` · test you
-- [[mA' - water]] — `ماء` · water
-- [[nZr - see]] — `نَظَرَ` · see
-- [[rjE - return]] — `رَجَعَ` · return
-- [[>drY - can make you]] — `أَدْرَى` · can make you
-- [[qwp - strength]] — `قُوَّة` · strength
-- [[smA' - heavens]] — `سَماء` · heavens
 - [[fSl - we explain]] — `فَصَلَ` · we explain
-- [[ywm - day]] — `يَوْم` · day
+- [[smA' - heavens]] — `سَماء` · heavens
+- [[mhl - like molten brass]] — `مُهْل` · like molten brass
+- [[<nsAn - man]] — `إِنسان` · man
 - [[Slb - loins]] — `صُلْب` · loins
+- [[blw - test you]] — `بَلَوْ` · test you
+- [[nZr - see]] — `نَظَرَ` · see
+- [[byn - between them]] — `بَيْن` · between them
+- [[xrj - come forth]] — `خَرَجَ` · come forth
+- [[ywm - day]] — `يَوْم` · day
+- [[xlq - creation]] — `خَلَقَ` · creation
+- [[qwl - speech]] — `قَوْل` · speech
+- [[>drY - can make you]] — `أَدْرَى` · can make you
+- [[mA' - water]] — `ماء` · water
 - [[HAfZ - guardians]] — `حافِظ` · guardians
+- [[kl - every]] — `كُلّ` · every
+- [[qwp - strength]] — `قُوَّة` · strength
 - [[kyd - plot]] — `كَيْد` · plot
+- [[rjE - return]] — `رَجَعَ` · return
+- [[nASr - helpers]] — `ناصِر` · helpers
+- [[qAdr - able]] — `قادِر` · able
+- [[>rD - earth]] — `أَرْض` · earth
+- [[kAfr - disbelievers]] — `كافِر` · disbelievers
 
 ## Roots
 
-- [[>ns - mankind]]
+- [[>ns - people]]
 - [[>rD - earth]]
-- [[HfZ - keep]]
+- [[HfZ - guardian]]
 - [[SdE - cleave]]
-- [[Slb - hardness]]
-- [[Trq - strike beat]]
-- [[blw - test try]]
+- [[Slb - loins]]
+- [[Trq - way]]
+- [[blw - was trial]]
 - [[byn - clear]]
-- [[dry - know]]
-- [[fSl - separate]]
+- [[dry - can make you]]
+- [[fSl - we explain]]
 - [[kfr - disbelieve]]
 - [[kll - every]]
-- [[kyd - deceive]]
-- [[mhl - act gently leisurely]]
-- [[mwh - coat something]]
-- [[nSr - aid]]
-- [[nZr - look at towards]]
-- [[nfs - soul]]
-- [[njm - star constellation]]
-- [[qdr - measuring]]
-- [[qwl - qawala]]
+- [[kyd - plot]]
+- [[mhl - like molten brass]]
+- [[mwh - water]]
+- [[nSr - christians]]
+- [[nZr - see]]
+- [[nfs - themselves]]
+- [[njm - stars]]
+- [[qdr - all-powerful]]
+- [[qwl - say]]
 - [[qwy - strength]]
 - [[rjE - return]]
 - [[rwd - he intends]]
 - [[smw - name]]
 - [[srr - secretly]]
-- [[trb - earth]]
+- [[trb - dust]]
 - [[xlq - create]]
-- [[xrj - go come out]]
+- [[xrj - brings forth]]
 - [[ywm - day]]
 
 ## Sample (ayah 1)

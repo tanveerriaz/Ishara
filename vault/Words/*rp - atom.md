@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[*rr - scattering dispersing small]]
+- [[*rr - offspring]]
 
 ### Meaning
 **atom** · Lemma **ذَرَّة**

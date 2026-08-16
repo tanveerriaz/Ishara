@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[trk - leave]]
+- [[trk - we left]]
 
 ### Meaning
 **we left** · Lemma **تَرَكَ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[qrr - abode]]
+- [[qrr - comfort]]
 
 ### Meaning
 **dwelling place** · Lemma **مُسْتَقَرّ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[hbT - descend go down]]
+- [[hbT - go down]]
 
 ### Meaning
 **go down** · Lemma **يَهْبِطُ**

@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[flH - cleave split]]
+- [[flH - successful ones]]
 
 ### Meaning
 **successful** · Lemma **أَفْلَحَ**

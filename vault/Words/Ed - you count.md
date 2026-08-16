@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Edd - count]]
+- [[Edd - number]]
 
 ### Meaning
 **you count** · Lemma **عَدَّ**

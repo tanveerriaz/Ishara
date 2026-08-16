@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[zyg - deviate swerve right]]
+- [[zyg - deviated]]
 
 ### Meaning
 **deviated** · Lemma **زاغَ**

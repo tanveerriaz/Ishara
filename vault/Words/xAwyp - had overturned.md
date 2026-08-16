@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[xwy - fell]]
+- [[xwy - had overturned]]
 
 ### Meaning
 **had overturned** · Lemma **خاوِيَة**

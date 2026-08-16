@@ -229,7 +229,16 @@ function prioritizeMobileLinks(
   return selected
 }
 
+function unpadSurah(text: string): string {
+  const m = text.match(/^0*(\d{1,3})\s+(.+)$/)
+  if (!m) return text
+  return `${Number(m[1])} ${m[2]}`
+}
+
 function displayLabel(node: GraphNode): string {
+  if (node.type === 'surah') {
+    return unpadSurah((node.label || node.title || node.slug || '').trim())
+  }
   const raw = (node.label || '').trim()
   const title = node.title || node.slug || ''
   const parts = title.includes(' - ') ? title.split(' - ') : null

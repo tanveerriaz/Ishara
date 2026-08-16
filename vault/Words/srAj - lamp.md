@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[srj - lie forge lie]]
+- [[srj - lamp]]
 
 ### Meaning
 **lamp** · Lemma **سِراج**

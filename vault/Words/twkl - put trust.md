@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[wkl - rely someone]]
+- [[wkl - put trust]]
 
 ### Meaning
 **put trust** · Lemma **تَوَكَّلْ**

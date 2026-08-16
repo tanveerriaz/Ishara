@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[jnb - side person object]]
+- [[jnb - side]]
 
 ### Meaning
 **side** · Lemma **جانِب**

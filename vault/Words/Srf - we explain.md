@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[Srf - turn something away]]
+- [[Srf - we explain]]
 
 ### Meaning
 **we explain** · Lemma **صَرَفَ**

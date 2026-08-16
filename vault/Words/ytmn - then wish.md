@@ -14,7 +14,7 @@ tags: [word, meaning]
 Open **Local graph** — lines to the **root** and **surahs** below.
 
 ### Root
-- [[mny - decreeing]]
+- [[mny - wishful thinking]]
 
 ### Meaning
 **then wish** · Lemma **يَتَمَنَّ**
